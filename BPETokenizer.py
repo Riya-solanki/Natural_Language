@@ -205,8 +205,16 @@ class BPETokenizer:
         while(len(self.Vocab) < (VocabSize - len(self.special_tokens))):
 
             Stats = Counter(itertools.chain.from_iterable(zip(seg, seg[1:]) for seg in TextTokens))
+            # Stop if no more bigrams to merge
+            if not Stats:
+              self.save('/content/Natural_Language/Tokenizer', 
+                        '/content/Natural_Language/Final-Corpus-Tokenizer-Merge-Info-NL-' + str(len(self.Vocab)) + '-', 
+                        '/content/Natural_Language/Final-Corpus-Tokenizer-Vocab-NL-' + str(len(self.Vocab)) + '-', 
+                        Save_SpecialTok=False)
+              print("⚠️ No more bigrams to merge. Training finished early.")
+              break
 
-            Bigram = max(Stats, key = lambda item: Stats.get(item))
+            Bigram = max(Stats, key=lambda item: Stats.get(item))
             NewToken = self.Vocab[-1] + 1
             self.MergeInfo[Bigram] = NewToken
             self.Vocab.append(NewToken)
@@ -220,9 +228,9 @@ class BPETokenizer:
             Token += 1
 
             if len(self.Vocab) % 1000 == 0:
-                self.save('./Tokenizer/', 'Final-Corpus-Tokenizer-Merge-Info-NL-' + str(len(self.Vocab)) + '-', 'Final-Corpus-Tokenizer-Vocab-NL-' + str(len(self.Vocab)) + '-', Save_SpecialTok = False)
+                self.save('/content/Natural_Language/Tokenizer/', '/content/Natural_Language/Final-Corpus-Tokenizer-Merge-Info-NL-' + str(len(self.Vocab)) + '-', 'Final-Corpus-Tokenizer-Vocab-NL-' + str(len(self.Vocab)) + '-', Save_SpecialTok = False)
                 
-                self.PrintTokenizedText(TextTokens, SaveFilePath = './Tokenizer/Tokenized-Final-Corpus-' + str(len(self.Vocab)) + '.json')
+                self.PrintTokenizedText(TextTokens, SaveFilePath = '/content/Natural_Language/Tokenizer/Tokenized-Final-Corpus-' + str(len(self.Vocab)) + '.json')
 
         return TextTokens, self.Vocab
 
