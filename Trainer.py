@@ -70,18 +70,11 @@ class Trainer:
         #=================================================================================================================================================
 
         print("Loading Data")
-        self.data_loader = DataLoader(self.config.data_path)
-        self.data_loader.load_data  (
-                                        batch_size = self.config.batch_size,
-                                        context_size = self.config.dec_context_size,
-                                        train_shard_names = self.config.train_shard_names,
-                                        batch_overlap = self.config.batch_overlap,
-                                        x_dtype = self.config.x_data_loader_dtype,
-                                        y_dtype = self.config.y_data_loader_dtype,
-                                        val_name = self.config.val_name if self.config.eval_val_set else None,
-                                        load_shard_indx = self.config.load_shard_indx,
-                                        load_train_batch_indx = self.config.load_train_batch_indx
-                                    )
+        self.data_loader = DataLoader(
+          file_path=self.config.file_path, 
+          vocab_path=self.config.vocab_path
+        )
+
 
         print("Data Loading Complete\n")
 

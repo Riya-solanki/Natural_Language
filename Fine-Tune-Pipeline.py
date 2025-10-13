@@ -1,8 +1,8 @@
 import torch
 from FineTuneConfig import *
 from FineTuner import *
-from BPETokenizer import *
 import gc
+from tokenizers import ByteLevelBPETokenizer
 
 ADAM_W = 'AdamW'
 
@@ -70,9 +70,10 @@ for i in range(config_nos):
                                         replacements = {},
                                         file_name = None,
                                         file_path = "./Eval_Tasks/",
-                                        vocab_path = "./Tokenizer/",
-                                        load_merge_info_name = 'Final-Corpus-Tokenizer-Merge-Info-NL-12000-2024-08-31 03-04-04',
-                                        load_vocab_name = 'Final-Corpus-Tokenizer-Vocab-NL-12000-2024-08-31 03-04-04',
+                                        vocab_path = "/content/Natural_Language/TokenizerFast"
+                                        load_merge_info_name = '/content/Natural_Language/TokenizerFast/merges.txt'
+                                        load_vocab_name = '/content/Natural_Language/TokenizerFast/vocab.json'
+
                                         data_path = "./Eval_Tasks/Eval_Tensors/",
                                         x_train_name = None,
                                         y_train_name = None,
@@ -89,12 +90,15 @@ for i in range(config_nos):
                                         eos_token = None,
                                         topk_sampling_k = 50
                                     ))
+Tokenizer = ByteLevelBPETokenizer(
+    "/content/Natural_Language/TokenizerFast/vocab.json",
+    "/content/Natural_Language/TokenizerFast/merges.txt"
+)
+Tokenizer.add_special_tokens(["<pad>", "<sep>", "<eos>"])
 
-Tokenizer = BPETokenizer()
-Tokenizer.load(configs[0].vocab_path, configs[0].load_merge_info_name, configs[0].load_vocab_name)
-pad_token = Tokenizer.special_tok('<pad>')
-sep_token = Tokenizer.special_tok('<sep>')
-eos_token = Tokenizer.special_tok('<eos>')
+pad_token = "<pad>"
+sep_token = "<sep>"
+eos_token = "<eos>"
 
 for i in range(config_nos):
     configs[i].pad_token = pad_token
