@@ -1,3 +1,4 @@
+# TrainConfig.py
 import torch
 
 class TrainConfig:
@@ -41,14 +42,21 @@ class TrainConfig:
                     load_merge_info_name: str,
                     load_vocab_name: str,
                     data_path: str,
-                    train_shard_names: str,
+                    train_shard_names,
                     val_name: str,
                     device: torch.device,
                     load_shard_indx = 0,
-                    load_train_batch_indx = 0
+                    load_train_batch_indx = 0,
+                    # generation params
+                    temperature: float = 0.8,
+                    top_k: int = 50,
+                    top_p: float = 0.0,
+                    generation_max_len: int = 128,
+                    grammar_check: bool = False,
+                    meter: str = None
                 ):
 
-        assert tokens_batch_size % (batch_size * dec_context_size) == 0, "The Tokens Batch Size must me a multiple of Batch Size and context size"
+        assert tokens_batch_size % (batch_size * dec_context_size) == 0, "The Tokens Batch Size must be a multiple of Batch Size and context size"
         
         self.gradient_accum_iters = tokens_batch_size // (batch_size * dec_context_size)
 
@@ -96,3 +104,11 @@ class TrainConfig:
 
         self.load_shard_indx = load_shard_indx
         self.load_train_batch_indx = load_train_batch_indx
+
+        # generation params
+        self.temperature = temperature
+        self.top_k = top_k
+        self.top_p = top_p
+        self.generation_max_len = generation_max_len
+        self.grammar_check = grammar_check
+        self.meter = meter
