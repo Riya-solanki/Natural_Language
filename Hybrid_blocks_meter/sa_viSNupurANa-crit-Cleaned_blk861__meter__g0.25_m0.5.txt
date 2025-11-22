@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 861 | label: meter | g:0.25 m:0.5 ---
+
+tato atha nṛpatir divyam ādāyājagavaṃ dhanuḥ 
+śarāṃś ca divyān kupitaḥ so anvadhāvad vasuṃdharām ।।

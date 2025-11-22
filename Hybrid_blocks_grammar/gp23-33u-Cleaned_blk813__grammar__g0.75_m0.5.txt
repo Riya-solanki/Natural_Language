@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 813 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha para-dāra-vāra-samāhāra-kāraṇān ācāraś ca yathā gopīnāṃ tat-patīnāṃ ca [BhP ] ity anena yaṃ parihāram āpitas tathātrāpi tāś ca na kevalaṃ rāgata eva tādṛśīṃ gatim āgatāḥ ity ādinā tāsu tadīya-nityāṅganā-bhāva-vyaṅgataḥ sa ca sāṅgī-kṛtaḥ ।

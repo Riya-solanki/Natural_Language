@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 484 | label: meter | g:0.25 m:0.625 ---
+
+samakālabalotpattihetau bhāvāntare sati ।
+yastena tasya saṃsargaḥ sa saṅkara itīritaḥ ।।

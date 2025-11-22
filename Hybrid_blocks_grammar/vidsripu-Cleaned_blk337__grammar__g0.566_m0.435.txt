@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 337 | label: grammar | g:0.566 m:0.435 ---
+
+kampante kapayo bhṛśaṃ jaḍakṛśaṃ go ajāvikaṃ glāyati śvā cullīkuharodaraṃ kṣaṇam api kṣipto api naivojjhati ।
+śītārtivyasanāturaḥ punar ayaṃ dīno janaḥ kūrmavat svāny aṅgāni śarīra eva hi nije nihnotum ākāṅkṣati ।।
+lakṣmīdharasya

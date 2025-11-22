@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11484 | label: meter | g:0.328 m:0.595 ---
+
+tatra sthale harirāste sadaiva yato vyāptaḥ sarvato vai nṛsiṃhaḥ ।
+etacchrutvā daityakumārakāste prahlādamūcurbhaktavaryaṃ hareśca ।।

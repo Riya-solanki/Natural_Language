@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4869 | label: meter | g:0.25 m:0.5 ---
+
+tato rāmo mahābāhuḥ keśavaṃ vākyam abravīt 
+tadbalaṃ tu samāsādya balabhadro mahābalaḥ । 
+provāca vacanaṃ tatra parasya balanāśanam । 
+kṛṣṇa kṛṣṇa mahābāho vidhatsvaiṣāṃ mahad bhayam ।।

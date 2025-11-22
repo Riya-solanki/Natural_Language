@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 154 | label: meter | g:0.25 m:0.594 ---
+
+atha kalahāntaritā-
+yā sakhīnāṃ puraḥ pāda-patitaṃ vallabhaṃ ruṣā । 
+nirasya paścāt tapati kalahāntaritā hi sā ।।
+asyās tu bhrānti-saṃlāpau moho niḥśvasitaṃ jvaraḥ । 
+muhuḥ pralāpa ity ādyā iṣṭāś ceṣṭā manīṣibhiḥ ।।

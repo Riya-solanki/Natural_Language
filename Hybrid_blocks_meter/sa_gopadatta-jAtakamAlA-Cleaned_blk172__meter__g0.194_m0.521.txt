@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 172 | label: meter | g:0.194 m:0.521 ---
+
+yeṣāṃ sarve prayogāḥ śaśina iva kalāḥ sarvasattvopajīvyā
+ye lokān pānti kṛtsnān pitara iva sutān duḥkhapātālamagnān ।
+teṣāṃ janmopadeśaḥ sucaritamahatām utsavaḥ śrīviśeṣaḥ
+svārthodyogānurāgād anupatati bhavān mṛtyave kevalaṃ tu ।।

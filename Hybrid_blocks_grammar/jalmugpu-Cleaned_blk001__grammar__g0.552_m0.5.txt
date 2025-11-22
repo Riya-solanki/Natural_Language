@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 1 | label: grammar | g:0.552 m:0.5 ---
+
+pīyūṣābhiniveśa eṣa rabhasād asmākam adyānayā bandhūkadyutibāndhavādhararasasyandena mandīkṛtaḥ ।
+itthaṃ daityacayaḥ samudramathane yena kṣaṇād vañcitas tasmai sādaram oṃnamo astu kapaṭastrīrūpiṇe viṣṇave ।।

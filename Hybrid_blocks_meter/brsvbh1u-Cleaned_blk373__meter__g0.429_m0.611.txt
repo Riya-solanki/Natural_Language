@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 373 | label: meter | g:0.429 m:0.611 ---
+
+pariharati-nārhatyevamiti ।
+atra cātmadarśanaṃ na vidheyam taddhi dṛśerupalabdhivacanatvāt śrāvaṇaṃ vā syāt pratyakṣaṃ vā ।
+pratyakṣamapi laukikamahaṃpratyayo vā,

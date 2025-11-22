@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2894 | label: meter | g:0.25 m:0.625 ---
+
+itvevamukte vacane bāḍhaṃ sundo ambhayabhāṣata ।
+samajāyata śailādirandhakaḥ śaṅkaro apyabhūt ।।

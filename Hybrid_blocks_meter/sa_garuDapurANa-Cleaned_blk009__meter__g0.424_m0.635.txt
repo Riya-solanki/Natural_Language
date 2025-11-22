@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9 | label: meter | g:0.424 m:0.635 ---
+
+ṛṣaya ūcuḥ ।
+sūta ! jānāsi sarvaṃ tvaṃ pṛcchāmastvāmato vayam ।
+devatānāṃ hi ko deva īśvaraḥ pūjya eva kaḥ ।।

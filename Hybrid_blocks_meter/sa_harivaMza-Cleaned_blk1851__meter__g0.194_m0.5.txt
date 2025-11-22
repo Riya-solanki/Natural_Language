@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1851 | label: meter | g:0.194 m:0.5 ---
+
+svapnānte kṣīyate hy eṣā prāyaśo bhuvi dehinām 
+mṛtyukāle ca bhūtānāṃ prāṇān nāśayate bhṛśam ।।

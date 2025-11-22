@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 857 | label: meter | g:0.306 m:0.5 ---
+
+evamuktāstadā tena tāḥ pratyūcustadā munim ।
+rahasye hi gamiṣyāmo mune naḥ kaitukaṃ mahat ।।

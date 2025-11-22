@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 110 | label: grammar | g:0.646 m:0.5 ---
+
+Viv tāmbūlaṃtāmrabhavāmūlam, akhiloparañjakatvāt, nijabodhānandanandanodyānapraphullo, nāgaḥ śarīraḥ pavanaviśeṣas tasya vallī prathamaprāṇodbhedaśaktiḥ tatsaṃpattikāsundaram, udgacchadādyecchācimicimikākarpūravāsitāubhayor api sarvacamatkārakatvāt ।।

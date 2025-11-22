@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2940 | label: meter | g:0.306 m:0.625 ---
+
+tamāgatamudīkṣyātha hīnaṃ sārathinā hariḥ ।
+prāha yotsye kathaṃ yuddhe saṃyamiṣye kathaṃ hayān ।।

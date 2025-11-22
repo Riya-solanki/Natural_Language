@@ -1,0 +1,6 @@
+--- source: brssgo3u-Cleaned.txt | block: 448 | label: grammar | g:0.568 m:0.492 ---
+
+chandogā vājasaneyinaśca prāṇasaṃvāde śvādisaṃvāde śvādimaryādaṃ prāṇasyānnamāmnānya tasyaivāpo vāsa āmananti ।
+anantaraṃ ca chandogā āmananti -'tasmādvā etadaśiṣyantaḥ purastāccoṣṭāccādbhiḥ paridadhāti' iti ।
+vājasaneyinastvāmananti - atadvidvāṃsaḥ śrotriyā aśiṣyanta ācāmantyaśitvācāmantyetameva tadanamanagnaṃ kurvanto manyante' atasmādevaṃvidaśiṣyannācāmedaśitvā cācāmedetameva tadanamanagnaṃ kurute' iti ।
+tatra tvācamanamanagnatācintanaṃ ta prāṇasya pratīyate tkimubhayamapi vidhīyata utācamanamevotānagnatācintanameveti vicāryate ।

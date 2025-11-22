@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9459 | label: meter | g:0.25 m:0.625 ---
+
+aputrāyāṃ mṛtāyāṃ tu patiḥ kuryāt sapiṇḍanam ।
+mātrāditisṛbhiḥ sārdhamevaṃ dharmeṇa yojayet ।।

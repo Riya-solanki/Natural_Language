@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 760 | label: meter | g:0.194 m:0.75 ---
+
+gāṃ prokṣayitvā dharmeṇa pitṛbhya upakalpatām 
+asmākaṃ jñānasaṃyogaḥ sarveṣāṃ yogasādhanaḥ ।।

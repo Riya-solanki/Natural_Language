@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1115 | label: grammar | g:0.552 m:0.5 ---
+
+śailāḥ santi sahastraśaḥ pratidiśaṃ valmīkakalpā ime dordaṇḍāśca kaṭhoravikramarasakrīḍhāsamutkaṇṭhitāḥ ।
+karṇāsvāditakumbhasaṃbhavakathāḥ kiṃ nāma kallolinī- kānte goṣpadapūraṇe api kapayaḥ kautūhalaṃ nāsti vaḥ ।।

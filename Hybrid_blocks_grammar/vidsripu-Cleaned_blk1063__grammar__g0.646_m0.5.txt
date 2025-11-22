@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1063 | label: grammar | g:0.646 m:0.5 ---
+
+āsīd uptaṃ yad etad raṇabhuvi bhavatā vairimātaṅgakumbhān muktābījaṃ tad etat trijagati janayāmāsa kīrtidrumaṃ te ।
+śeṣo mūlaṃ prakāṇḍaṃ himagirir udadhir dugdhapūrālavālaṃ jyotsnā śākhāpratānaḥ kusumam uḍucayo yasya candraḥ phalaṃ ca ।।

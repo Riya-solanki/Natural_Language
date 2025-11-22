@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 917 | label: meter | g:0.25 m:0.5 ---
+
+dhanur nyasya pṛṣatkāṃś ca pañcabhiḥ puruṣarṣabhaiḥ 
+jigāya pṛthivīṃ sarvāṃ saptadvīpavatīṃ nṛpaḥ । 
+paravān abhavad rājā bhāram āveśya bandhuṣu ।।

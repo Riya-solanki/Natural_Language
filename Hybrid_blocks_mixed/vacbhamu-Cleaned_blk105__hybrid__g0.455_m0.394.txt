@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 105 | label: hybrid | g:0.455 m:0.394 ---
+
+iti smṛtivyākopa ityata āha- arthāntaraprayukta eva hyathaśabdaḥ śrutyā maṅgalaprayojano bhavati ।
+arthāntareṣvānantaryādiṣu prayuktaḥ athaśabdaḥ śrutyā śravaṇamātreṇa veṇuvīṇādhvanivanmaṅgalaṃ kurvan maṅgalaprayojano bhavati anyārthamānīyamānodakumbhadarśanavat ।
+tena na smṛtivyākopaḥ ।
+tena ca iha ānantaryārthasya sataḥ śravaṇamātreṇa maṅgalārthatetyarthaḥ ।

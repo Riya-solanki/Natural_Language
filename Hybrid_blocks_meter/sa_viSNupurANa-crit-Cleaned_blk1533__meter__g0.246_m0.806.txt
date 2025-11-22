@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1533 | label: meter | g:0.246 m:0.806 ---
+
+calatsvarūpam atyantaṃ javenāntaritānilam 
+cakrasvarūpaṃ ca mano dhatte viṣṇukare sthitam ।।

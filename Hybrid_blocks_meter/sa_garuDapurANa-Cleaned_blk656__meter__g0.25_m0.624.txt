@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 656 | label: meter | g:0.25 m:0.624 ---
+
+oṃ kṣva namaḥ ।
+raktena paṭahe likhya śabdātresurgrahādayaḥ ।
+oṃ mara mara mārayamāraya svāhā ।
+oṃ huṃ phaṭ svāhā ।।

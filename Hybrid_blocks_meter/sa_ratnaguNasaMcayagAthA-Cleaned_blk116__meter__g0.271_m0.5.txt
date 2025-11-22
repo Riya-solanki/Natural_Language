@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 116 | label: meter | g:0.271 m:0.5 ---
+
+evaṃ ta mūlamapahāya ajānamāno śākhāpalāśa parieṣayiṣyanti mūḍhāḥ 
+hastiṃ labhitva yatha hastipadaṃ gaveṣe tatha prajñapāramita śrutva sūtrānta eṣet ।।

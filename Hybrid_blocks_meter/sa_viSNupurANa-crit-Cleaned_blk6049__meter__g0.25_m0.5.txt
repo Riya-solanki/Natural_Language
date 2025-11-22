@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6049 | label: meter | g:0.25 m:0.5 ---
+
+mayaiṣa bhavatāṃ praśno jñāto divyena cakṣuṣā 
+tato hi vaḥ prasaṅgena sādhu sādhv iti bhāṣitam ।।

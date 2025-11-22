@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2824 | label: meter | g:0.26 m:0.5 ---
+
+arjunaṃ viddhi māṃ kṛṣṇa māṃ caivātmānam ātmanā 
+ātmā te ahaṃ yathā śaśvat tathaiva tava so arjuna ।।

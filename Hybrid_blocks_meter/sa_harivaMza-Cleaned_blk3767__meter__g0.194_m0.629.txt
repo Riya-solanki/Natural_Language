@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3767 | label: meter | g:0.194 m:0.629 ---
+
+tato dadarśa pṛthivīm āvṛtāṃ hrasvakair naraiḥ 
+alpotsāhair alpabalair alpavīryaparākramaiḥ 
+pareṇādhiṣṭhitaṃ caiva rājyaṃ kevalam ātmanaḥ ।। 
+yat syāt tvaddarśane puṇyaṃ tan me kṛṣṇa bhaved iti । 
+visarjayitvā govindaṃ praviveśa mahad vanam 
+himavantam agād rājā tapase dhṛtamānasaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3164 | label: meter | g:0.194 m:0.625 ---
+
+sa tau rathasthāv āsinau tatraiva balakeśavau 
+udīkṣamāṇāv anyonyaṃ dadarśādbhutarūpiṇau ।।

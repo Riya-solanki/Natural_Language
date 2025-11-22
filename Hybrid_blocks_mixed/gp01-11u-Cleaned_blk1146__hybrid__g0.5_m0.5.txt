@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1146 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tataś ca pitṛ-sambandhibhir nanda-sūnur iti mātṛ-sambandhibhir yaśodā-sūnur iti tasya nāmānūdya, sadya eva siddham iti cirantanam api tac-caritaṃ jage । tad yathā-

@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 108 | label: hybrid | g:0.521 m:0.5 ---
+
+rāgeṇa sārdhaṃ vayasi prayāte gateṣu bhogeṣu saha spṛhābhiḥ ।
+dehe ca mohena samaṃ pralīne nirargalo asāv apavargamārgaḥ ।।

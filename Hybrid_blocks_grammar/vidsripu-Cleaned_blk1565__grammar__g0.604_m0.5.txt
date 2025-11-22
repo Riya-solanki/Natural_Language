@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1565 | label: grammar | g:0.604 m:0.5 ---
+
+kuryān na kiṃ dhanavataḥ svajanasya vārtā kiṃ tatkriyā nayanayor na dhṛtiṃ vidadhyāt ।
+mām eṣa yācitum upāgata ity asatya- sambhāvanāvikalam asya na cen manaḥ syāt ।।

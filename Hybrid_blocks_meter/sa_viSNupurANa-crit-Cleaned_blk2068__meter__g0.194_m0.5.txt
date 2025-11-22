@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2068 | label: meter | g:0.194 m:0.5 ---
+
+vṛṣṭyā dhṛtam idaṃ sarvam annaṃ niṣpādyate yayā 
+sāpi niṣpādyate vṛṣṭiḥ savitrā munisattama ।।

@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 377 | label: hybrid | g:0.521 m:0.5 ---
+
+imāṃ pṛthivīmuta dyāmapi dyāvāpṛthivyāveva rodasī yo bhānurūpeṇātatāna vyāptavān ।
+antarikṣaṃ ca tayormadhyamātatāna sa devo dyulokādyavayavo dhyeya ityarthaḥ ।

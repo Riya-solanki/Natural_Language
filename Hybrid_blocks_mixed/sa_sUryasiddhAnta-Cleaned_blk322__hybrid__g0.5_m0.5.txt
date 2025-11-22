@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 322 | label: hybrid | g:0.5 m:0.5 ---
+
+abhijid brahmahṛdayaṃ svātīvaiṣṇavavāsavāh। ahirbudhnyam udakṣthatvān na lupyante arkaraśmibhih।।

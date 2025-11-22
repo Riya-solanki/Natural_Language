@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6488 | label: grammar | g:0.626 m:0.498 ---
+
+gandhapuṣpe hastābhyāṃ dattvā pitṛpātramutthāpya yā divyeti paṭhitvā amukagotrāsmatpitaḥ ! amukadevaśarman ! sapatnīka ! eṣa te arghyaḥ svadhā ।
+apavitraṃ pātraṃ gṛhītvā vāmapārśve dakṣiṇe kuśopari oṃ pitṛbhyaḥ sthānamasītyadhomukhapātrasthāpanam ।।

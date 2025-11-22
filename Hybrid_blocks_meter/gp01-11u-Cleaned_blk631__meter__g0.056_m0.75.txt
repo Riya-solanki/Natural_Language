@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 631 | label: meter | g:0.056 m:0.75 ---
+
+mātā ca taṃ vivaśitāvayavāpi devā
+viṣṭeva paśyati jane jagṛhe draveṇa ।
+paścāt tu kampa-mukha-bhāva-nipīḍitāṅgīṃ
+tāṃ vidrutāḥ paraparāḥ parito' py agṛhṇan ।। [vasantatilakā]

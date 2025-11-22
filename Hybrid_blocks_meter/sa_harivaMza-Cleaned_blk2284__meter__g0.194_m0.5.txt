@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2284 | label: meter | g:0.194 m:0.5 ---
+
+sā dadarśa viparyastaṃ śakaṭaṃ vāyunā vinā 
+hāheti kṛtvā tvaritā dārakaṃ jagṛhe tadā ।।

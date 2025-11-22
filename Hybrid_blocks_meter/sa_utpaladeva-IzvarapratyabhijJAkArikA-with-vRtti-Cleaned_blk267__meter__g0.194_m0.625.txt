@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 267 | label: meter | g:0.194 m:0.625 ---
+
+mātaiva kāraṇaṃ tena sa cābhāsadvayasthitau 
+kāryasya sthita evaikas tad ekasya kriyoditā ।।

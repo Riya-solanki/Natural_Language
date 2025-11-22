@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 121 | label: meter | g:0.272 m:0.845 ---
+
+śaraṇyaṃ śaraṇaṃ viṣṇuṃ praṇatā bhaktavatsalam ।
+devadaityamayaṃ cādimadhyamāntasvarūpiṇam ।।

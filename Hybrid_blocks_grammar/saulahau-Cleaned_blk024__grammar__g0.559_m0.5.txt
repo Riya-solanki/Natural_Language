@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 24 | label: grammar | g:0.559 m:0.5 ---
+
+jagat sūte dhātā harir avati rudraḥ kṣapayate tiras kurvann etat svam api vapur īśas tirayati
+sadā-pūrvaḥ sarvaṃ tad idam anugṛhṇāti ca śivas tavāñām ālambya kṣana-calitayor bhrū-latikayoḥ ।।

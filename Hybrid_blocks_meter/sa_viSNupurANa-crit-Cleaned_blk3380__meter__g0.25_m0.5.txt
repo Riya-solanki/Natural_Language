@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3380 | label: meter | g:0.25 m:0.5 ---
+
+śakrādirūpī paripāti viśvam arkendurūpaś ca tamo hinasti 
+pākāya yo agnitvam upetya lokān bibharti pṛthvīvapur avyayātmā ।।

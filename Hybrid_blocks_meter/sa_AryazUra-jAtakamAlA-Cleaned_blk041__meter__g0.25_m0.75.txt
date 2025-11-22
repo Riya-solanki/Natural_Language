@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 41 | label: meter | g:0.25 m:0.75 ---
+
+śraddhāpanaṃ yānavarāśritānāṃ vismāpanaṃ tyāgakṛtasmayānām ।
+viśodhanaṃ svargamahāpathasya tyāgapriyāṇāmanumodi nṝṇām ।।

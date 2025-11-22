@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5678 | label: meter | g:0.25 m:0.695 ---
+
+haste baddhaṃ kāṇḍayuktaṃ kaṇṭhe baddhaṃ grahādihṛt ।
+kṛṣṇāyāntu caturdaśyāṃ kaṭibaddhaṃ samāhṛtam ।
+siṃhādiśvāpadādbhītiṃ harecca nīlalohita ।।

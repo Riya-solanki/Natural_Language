@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1340 | label: hybrid | g:0.521 m:0.5 ---
+
+kuśalam upacitaṃ kṛpātmakānāṃ caritam idaṃ vinibadhya yan mayādya ।
+bhavatu bhuvanaśāntaye tad āśu jvalatu tathāgataśāsanaṃ tataś ca ।।

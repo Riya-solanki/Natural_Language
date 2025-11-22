@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2571 | label: meter | g:0.302 m:0.806 ---
+
+namasye ahaṃ pitṝnvaiśyairarcyante bhuvi ye sadā ।
+svakarmābhiratairnnityaṃ puṣpadhūpānnavāribhiḥ ।।

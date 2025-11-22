@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 362 | label: meter | g:0.25 m:0.625 ---
+
+kṛṣi-vāṇijya-go-rakṣā kusīdaṃ tūryam ucyate ।
+vārtā caturvidhā tatra vayaṃ go-vṛttayo' niśam ।।[BhP ]

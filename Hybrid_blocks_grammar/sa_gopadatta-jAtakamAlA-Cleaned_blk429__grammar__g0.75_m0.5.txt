@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 429 | label: grammar | g:0.75 m:0.5 ---
+
+tatas taddarśanāt samutpannajīvitāśo asau ramaṇaṃ nagaram upasasarpa । tasmān nagarād viniḥsṛtya catasro apsaraso dravitanavakanakarasarāgāvadātamūrtayaḥ pravikasitāmbujakusumarucakarucinayanayugalotpalavilāsāḥ kvaṇadruciravividhamaṇimekhalāpabhāramandavilāsagatayaḥ kanakakalaśākārapṛthutarapayodharabharāvanamitatanumadhyā divasakarakarasparśavibodhitāmlānakamalapalāśabhāsurādharakisalayā vividhavibhūṣaṇaśatā nirāmayadarśanāḥ śirasi viracitobhayakamalāñjalayo maitrakanyakasya bodhisattvasya pādayor vinyāsitaśirasaḥ prāhuḥ ।

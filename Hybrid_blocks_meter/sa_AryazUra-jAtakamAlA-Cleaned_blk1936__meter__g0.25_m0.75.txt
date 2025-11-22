@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1936 | label: meter | g:0.25 m:0.75 ---
+
+kumudaśrīrivaikasya jyotsnā puñjīkṛteva ca ।
+chāyeva khalu tasyeyamādarśatalasaṃśritā ।।

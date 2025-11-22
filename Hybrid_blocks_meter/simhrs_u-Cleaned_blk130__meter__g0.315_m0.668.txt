@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 130 | label: meter | g:0.315 m:0.668 ---
+
+atha adhīra-pragalbhā-
+santarjya niṣṭhuraṃ roṣād adhīrā tāḍayet priyam ।।

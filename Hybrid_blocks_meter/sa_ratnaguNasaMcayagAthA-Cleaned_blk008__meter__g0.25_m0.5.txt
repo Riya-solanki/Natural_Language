@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 8 | label: meter | g:0.25 m:0.5 ---
+
+yāvanti dharma jinaśrāvaka deśayanti bhāṣanti yuktisahitāṃśca udīrayanti 
+paramārthasaukhyakriya tatphalaprāptitā ca sarvo ayaṃ puruṣakāru tathāgatasya ।।

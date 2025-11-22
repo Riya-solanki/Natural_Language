@@ -1,0 +1,5 @@
+--- source: vamkalvu-Cleaned.txt | block: 284 | label: meter | g:0.25 m:0.927 ---
+
+virecakamidaṃ nṛttamācāryābhāsayojitam ।
+cakāse panasaprāyaiḥ purī paṇḍamahādrumaiḥ ।
+vinā śapathadānābhyāṃ padavādasamutsukam ।

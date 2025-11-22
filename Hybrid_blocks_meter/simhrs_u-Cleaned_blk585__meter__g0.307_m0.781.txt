@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 585 | label: meter | g:0.307 m:0.781 ---
+
+bhūta-darśanād, yathā-
+sā patyuḥ parivāreṇa piśācair api veṣṭitā ।
+utkampamāna-hṛdayā sakhībhiḥ sambodhyata ।।

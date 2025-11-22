@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1984 | label: meter | g:0.25 m:0.5 ---
+
+tasmān mādhyāhnikāt kālād aparāhṇa iti smṛtaḥ 
+traya eva muhūrtās tu kālabhāgaḥ smṛto budhaiḥ ।।

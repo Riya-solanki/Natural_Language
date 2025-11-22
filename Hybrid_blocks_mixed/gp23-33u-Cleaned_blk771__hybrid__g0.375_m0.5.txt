@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 771 | label: hybrid | g:0.375 m:0.5 ---
+
+[] yataḥ pūrvam apy uddhave tathā samudbuddhaṃ kṛtavān, yathā ca tad-vacanaṃ satya-vacasaś ca gāsyanti-

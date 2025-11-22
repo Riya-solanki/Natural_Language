@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7364 | label: meter | g:0.311 m:0.85 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+evamutsāhitaḥ pakṣī svarūpaṃ nirayasya tu ।
+papracchanarakāṇyevaṃ śrutvā cotkūlitāntaraḥ ।।

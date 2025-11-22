@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 710 | label: meter | g:0.194 m:0.5 ---
+
+kṛtaśaucaḥ śarāvāpī rathī niṣkramya vai purāt 
+kṛtasvastyayano vipraiḥ prāyodhayam ahaṃ ripum ।।

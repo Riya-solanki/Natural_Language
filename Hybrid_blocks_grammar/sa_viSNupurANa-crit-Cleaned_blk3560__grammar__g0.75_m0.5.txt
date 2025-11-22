@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3560 | label: grammar | g:0.75 m:0.5 ---
+
+asāv api tu pragṛhyodakāñjaliṃ muniśāpapradānāyodyato bhagavān asmadgurur nārhasy enaṃ kuladevatābhūtam ācāryaṃ śaptum iti madayantyā svapatnyā prasāditaḥ । sasyāmbudarakṣaṇārthaṃ tac chāpāmbu norvyāṃ na cākāśe cikṣepa tenaiva svapadau siṣeca ।।

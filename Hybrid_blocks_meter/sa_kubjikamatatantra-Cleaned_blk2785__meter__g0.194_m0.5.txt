@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2785 | label: meter | g:0.194 m:0.5 ---
+
+sauvarṇaṃ tu kṛtaṃ sūtraṃ sūkṣmaṃ tu triguṇīkṛtam 
+tatra tantuśataṃ proktaṃ granthipādaṃ guror matam ।।

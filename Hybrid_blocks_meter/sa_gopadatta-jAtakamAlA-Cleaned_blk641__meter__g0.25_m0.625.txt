@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 641 | label: meter | g:0.25 m:0.625 ---
+
+notpadyante yadā buddhā bhagavantaḥ kṛpātmakāḥ ।
+apāsya rajasāṃ vṛttiṃ dīrghakālānuśāyinīm ।।

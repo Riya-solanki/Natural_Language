@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2356 | label: meter | g:0.194 m:0.625 ---
+
+madhyena cāsya kālindī sīmantamiva kurvatī 
+prayātā nandanasyeva nalinī saritāṃ varā ।।

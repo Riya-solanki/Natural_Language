@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 608 | label: hybrid | g:0.295 m:0.363 ---
+
+visrasta-keśaveśādyos tayoḥ kaṃsasya bhāryayoḥ ।
+drakṣyanti vihasiṣyanti cāṅgāni pathikā api ।।
+[] tatas tat-preraṇayā jarāsandhaḥ prāpta-jarāsandha iva kāla-rūptāvantaḥ bhavantam eva trayoviṃśati-saṅkhyābhir akṣauhiṇībhir abhiyāsyati ।

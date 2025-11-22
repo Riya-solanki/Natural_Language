@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5058 | label: meter | g:0.194 m:0.5 ---
+
+yathā yaṣṭā nṛpaḥ svargaṃ gamiṣyati yugakṣaye 
+tathā yajñaphalānāṃ ca vikretāro dvijātayaḥ ।।

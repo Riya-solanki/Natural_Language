@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 666 | label: meter | g:0.31 m:0.852 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+śivārcanaṃ pravakṣyāmi buktimuktikaraṃ param ।
+śāntaṃ sarvagataṃ śūnyaṃ mātrādvādaśake sthitam ।।

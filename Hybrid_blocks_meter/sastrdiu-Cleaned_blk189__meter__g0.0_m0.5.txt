@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 189 | label: meter | g:0.0 m:0.5 ---
+
+kiñca vedyatvādapi nīlāderjñānākāratvaṃ, nahyanātmano nīlasya pītavadvedyatā

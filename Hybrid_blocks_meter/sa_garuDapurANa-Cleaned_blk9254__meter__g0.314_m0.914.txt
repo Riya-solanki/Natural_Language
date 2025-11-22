@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9254 | label: meter | g:0.314 m:0.914 ---
+
+āsannamaraṇaṃ jñātvā puruṣaṃ snāpayettataḥ ।
+gomūtragomayasumṛttīrthodakakuśodakaiḥ ।।

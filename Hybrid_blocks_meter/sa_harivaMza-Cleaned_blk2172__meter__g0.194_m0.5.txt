@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2172 | label: meter | g:0.194 m:0.5 ---
+
+māsān vai puṣpamāsādīn gaṇayantu mama striyaḥ 
+pariṇāme tu garbhasya śeṣaṃ jñāsyāmahe vayam ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 600 | label: grammar | g:0.573 m:0.5 ---
+
+asyāḥ sargavidhau prajapatirabhūccandro nu kāntadyutiḥ śṛṅgāraikarasaḥ svayaṃ nu madano māso nu puṣpākaraḥ ।
+vedābhyāsajaḍaḥ kathaṃ nu viṣayavyāvṛttakautūhalo nirmātuṃ prabhavenmanoharamidaṃ rūpaṃ purāṇo muniḥ ।।

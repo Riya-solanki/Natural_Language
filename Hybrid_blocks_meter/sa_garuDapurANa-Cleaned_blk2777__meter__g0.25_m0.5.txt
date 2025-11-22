@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2777 | label: meter | g:0.25 m:0.5 ---
+
+apraṇodyo atithiḥ sāyamapi nātra vicāraṇā ।
+satkṛtya bhikṣave bhikṣā dātavyā suvratāya ca ।।

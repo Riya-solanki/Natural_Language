@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1410 | label: hybrid | g:0.5 m:0.5 ---
+
+atha bodhisattvaḥ pāpajanasaṃparkavaśātparapratyayaneyabuddhitvācca dṛṣṭikṛtaprapātābhimukhamavekṣya rājānaṃ tadanukampāsamāvarjitahṛdayastannivartanopāyaṃ vimamarśa ।

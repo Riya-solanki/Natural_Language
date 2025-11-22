@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1993 | label: meter | g:0.194 m:0.5 ---
+
+adyāpi bhuvi gāṅgeyas tatraiva vasur aṣṭamaḥ 
+sapteme vasavaḥ prāptāḥ sa ekaḥ parilambate ।।

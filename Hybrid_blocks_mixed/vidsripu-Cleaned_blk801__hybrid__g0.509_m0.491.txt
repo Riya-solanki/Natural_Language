@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 801 | label: hybrid | g:0.509 m:0.491 ---
+
+manasiśaya kṛśāṅgyāḥ svāntam antarniśātair iṣubhir aśanikalpair mā vadhīs tvaṃ mameva ।
+api nanu śaśalakṣman mā mucas tvaṃ ca tasyām akaruṇakiraṇolkāḥ kandalīkomalāyām ।।
+rājaśekharasyaitau

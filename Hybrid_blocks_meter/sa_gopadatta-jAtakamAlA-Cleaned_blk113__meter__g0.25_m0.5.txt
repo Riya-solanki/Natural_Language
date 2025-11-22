@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 113 | label: meter | g:0.25 m:0.5 ---
+
+ratīnāṃ sopatāpānāṃ mukhe sa parivartate ।
+abhinandaty anādeyān kṣaṇikān api yo bhavān ।।

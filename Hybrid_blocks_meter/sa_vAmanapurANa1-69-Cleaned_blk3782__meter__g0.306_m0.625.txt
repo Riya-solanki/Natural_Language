@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3782 | label: meter | g:0.306 m:0.625 ---
+
+tatra snātvār'cya ca pitṛn somaṃ saṃpūjya bhaktitataḥ ।
+kṣīrikāvāsamabhyetya snānaṃ cakre mahāyaśāḥ ।।

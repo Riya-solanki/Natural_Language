@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 77 | label: grammar | g:0.552 m:0.5 ---
+
+tanvī śyāmā śikharadaśanā pakvabimbādharoṣṭhī madhye kṣāmā cakitahariṇīprekṣaṇā nimnanābhiḥ ।
+śroṇībhārād alasagamanā stokanamrā stanābhyāṃ yā tatra syād yuvativiṣaye sṛṣṭir ādyeva dhātuḥ ।।

@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 147 | label: grammar | g:0.526 m:0.371 ---
+
+Vṛtti:
+[sarvamantramukhe] sarveṣāṃ mantrāṇāṃ yanmukhamiva mukhaṃ sannidhisthānaṃ tasmin [puṇye] pāvane [parameśādhidaivate] śivadaivate [dinārthe] mādhyāhnikākhe savane [gate] nirvartite mādhūkarīm aniyatāṃ bhikṣāṃ caret। tathoktaṃ śrīmatpauṣkare
+gṛhādgṛhaṃ paryaṭato bhaikṣaṃ mādhūkaraṃ smṛtam।

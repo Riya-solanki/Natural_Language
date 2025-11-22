@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 154 | label: meter | g:0.25 m:0.5 ---
+
+kākī tu janayām āsa ulūkī pratyulūkakān 
+śyenī śyenāṃs tathā bhāsī bhāsān gṛdhrāṃś ca gṛdhrikā ।।

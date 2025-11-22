@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 672 | label: meter | g:0.25 m:0.75 ---
+
+ācāmaṃ snapanaṃ pūjāmekādhāraṇatulyakam? ।
+agnikāryavidhiṃ vakṣye astreṇollekhanaṃ caret ।।

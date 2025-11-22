@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2091 | label: meter | g:0.272 m:0.845 ---
+
+tuṣopasargātkalaśābhidhānamātāmrabhāvādapi tumburūttham ।
+kārṣṇyāttathā siṃhaladeśajātaṃ muktābhidhānaṃ nabhasaḥ svabhāvāt ।।

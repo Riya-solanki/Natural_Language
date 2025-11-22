@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 224 | label: meter | g:0.25 m:0.5 ---
+
+śaśvat kṛśenāpi parivyayeṇa kālena dṛṣṭvā kṣayamarjanānām ।
+cayena valmīkasamucchrayāṃśca vṛddhyarthinaḥ saṃyama eva panthāḥ ।।

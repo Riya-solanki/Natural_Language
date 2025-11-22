@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 360 | label: meter | g:0.25 m:1.0 ---
+
+yatra rūḍherasaṃbhāvyadharmādhyāropagarbhatā ।
+saddharmātiśayāropagarbhatvaṃ vā pratīyate ।।
+lokottaratiraskāraślādhyotkarṣābhidhitsayā ।
+vācyasya socyate kāpi rūḍhivaicitryavakratā ।।

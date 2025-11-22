@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 110 | label: grammar | g:0.583 m:0.5 ---
+
+tvad ekanātho bhagavann iyad evārthaye sadā tvadantarvasatir mūko bhaveyaṃ mānyathā budhaḥ ।।

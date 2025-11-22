@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 126 | label: grammar | g:0.573 m:0.5 ---
+
+yat kaivalyaṃ puṃsprakṛtyor vivekād yo vā sarvaṃ brahma matvā virāmaḥ ।
+yā vā kāścin muktayaḥ pāśajanyās tās tāḥ sarvā bhedam āyānti sṛṣṭau ।।

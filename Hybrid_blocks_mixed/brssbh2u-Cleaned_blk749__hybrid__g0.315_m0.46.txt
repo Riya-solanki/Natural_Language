@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 749 | label: hybrid | g:0.315 m:0.46 ---
+
+nanvatrāpi śrotrādinirapekṣā bhūtabhaviṣyadādiviṣayāparā manaso vṛttirastīti samānaḥ pañcasaṃkhyātirekaḥ ।
+evaṃ tarhi aparamatamapratiṣiddhamanumataṃ bhavati' iti nyāyādihāpi yogaśāstraprasiddhā manasaḥ pañcavṛttayaḥ parigṛhyante apramāṇaviparyayavikalpanidrāsmṛtayaḥ' nāma ।
+bahuvṛttitvamātreṇa vā manaḥ prāṇasya nidarśanamiti draṣṭavyam ।
+jīvopakaraṇatvamapi prāṇasya pañcavṛttitvānmanovaditi yojayitavyam ।।

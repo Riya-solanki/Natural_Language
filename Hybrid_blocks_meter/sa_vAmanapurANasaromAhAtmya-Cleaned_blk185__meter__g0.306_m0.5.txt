@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 185 | label: meter | g:0.306 m:0.5 ---
+
+yenaikadaṃṣṭreṇa samuddhṛteyaṃ dharācalā dhārayatīha sarvam ।
+śete grasitvā sakalaṃ jagad yastamīḍyamīśaṃ praṇato asmi viṣṇum ।।

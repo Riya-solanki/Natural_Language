@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 907 | label: hybrid | g:0.306 m:0.495 ---
+
+FN ahaṃśreyasi svasya śreṣṭhatānimittaṃ, vyūdire vivādaṃ cakrire ।
+aparaṃ nīcaṃ, kulāyaṃ dehākhyaṃ gṛham ।

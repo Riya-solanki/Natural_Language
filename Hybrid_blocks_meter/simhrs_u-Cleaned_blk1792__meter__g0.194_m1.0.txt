@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1792 | label: meter | g:0.194 m:1.0 ---
+
+nirvāṇa-vaira-dahanāḥ praśamādarīṇāṃ
+nandantu pāṇḍu-tanayāḥ saha mādhavena ।
+rakta-prasādhita-bhuvaḥ kṣata-vigrahāś ca
+svasthā bhavantu kuru-rāja-sutāḥ sa-bhṛtyāḥ ।।

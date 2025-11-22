@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3737 | label: meter | g:0.272 m:0.595 ---
+
+aśvoṣṭraśakṛto rāśer niḥsṛteti janādhipa 
+tato aśvaśakṛd ityeva nāma nadyā babhūva ha ।।

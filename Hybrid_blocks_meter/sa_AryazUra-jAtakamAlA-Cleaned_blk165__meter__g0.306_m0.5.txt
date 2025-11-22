@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 165 | label: meter | g:0.306 m:0.5 ---
+
+bālye anubhūtamiva tatsamanusmarāmi dāsī satī yadahamuddhṛtabhaktamekam ।
+kṣīṇāsravāya munaye vinayena dattvā supteva tatra samavāpamiha prabodham ।।

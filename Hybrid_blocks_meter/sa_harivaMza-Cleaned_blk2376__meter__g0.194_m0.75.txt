@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2376 | label: meter | g:0.194 m:0.75 ---
+
+uttiṣṭhamānaḥ śuśubhe śakaṭīsaṃkaṭas tu saḥ 
+vyāghraghoṣamahāghoṣo ghoṣaḥ sāgaraghoṣavān ।।

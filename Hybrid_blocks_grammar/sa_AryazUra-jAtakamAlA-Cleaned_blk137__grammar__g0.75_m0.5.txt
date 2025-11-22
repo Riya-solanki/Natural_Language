@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 137 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ duṣkaraśatasamudānīto ayamasmadarthaṃ tena bhagavatā saddharma iti satkṛtya śrotavyaḥ । tathāgatamāhātmye pūrvavacca karuṇāvarṇe api vācyam - ihaiva puṇyaphalapradarśane caivaṃ satkṛtyopacitāni puṇyānīhaiva puṣpamātramātmaprabhāvasya kīrtisaṃtatimanoharaṃ pradarśayantīti ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 164 | label: meter | g:0.29 m:0.638 ---
+
+prahlāda uvāca
+calanti girayo bhīmirjahāti sahasā dhatim ।
+sadyaḥ samudrāḥ kṣubhitā daityā nistejasaḥ kṛtāḥ ।।

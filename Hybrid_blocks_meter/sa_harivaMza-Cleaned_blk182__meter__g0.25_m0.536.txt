@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 182 | label: meter | g:0.25 m:0.536 ---
+
+prayato bhava rājendra śṛṇuṣvaikamanās tataḥ । 
+nāśuddhe nāśucau vāpi nāśiṣyāya kathaṃcana ।। 
+varṇayeyam ahaṃ rājan kṛtajñāya hitāya ca । 
+svargyaṃ yaśasyam āyuṣyaṃ puṇyaṃ vedena saṃmitam । 
+bhūtasargam imaṃ samyag jānato bharatarṣabha 
+marutāṃ ca śubhaṃ janma śṛṇvataḥ paṭhato api vā । 
+nāvṛttibhayam astīha paralokabhayaṃ kutaḥ ।।

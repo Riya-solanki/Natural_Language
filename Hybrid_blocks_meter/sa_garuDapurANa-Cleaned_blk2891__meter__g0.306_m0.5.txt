@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2891 | label: meter | g:0.306 m:0.5 ---
+
+śraddhā ca no mā vyagamadvahu deyaṃ ca no astviti ।
+ityutkrotkrā priyā vācaḥ praṇipatya visarjayet ।।

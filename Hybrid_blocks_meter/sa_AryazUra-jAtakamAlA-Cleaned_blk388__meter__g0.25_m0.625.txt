@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 388 | label: meter | g:0.25 m:0.625 ---
+
+tenānnapānavidhinā sa munirmaharṣīn saṃtarpayanmudamudāratarāmavāpa ।
+vṛttyā ca tāpasajanocitayābhireme dhyānāpramāṇaniyamena śamena caiva ।।

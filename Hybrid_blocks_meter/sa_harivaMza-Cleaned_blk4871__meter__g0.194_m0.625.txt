@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4871 | label: meter | g:0.194 m:0.625 ---
+
+sa vidhūyāsuragaṇān kravyādān astratejasā 
+prayayau tvarayā yukto yato adṛśyata tadbalam ।।

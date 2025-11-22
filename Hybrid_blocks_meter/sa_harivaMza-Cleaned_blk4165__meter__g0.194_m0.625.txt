@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4165 | label: meter | g:0.194 m:0.625 ---
+
+vāsaṃ taṃ mitravindāyā devarṣigaṇapūjitam 
+mahiṣyā vāsudevasya bhūṣaṇaṃ teṣu veśmasu ।।

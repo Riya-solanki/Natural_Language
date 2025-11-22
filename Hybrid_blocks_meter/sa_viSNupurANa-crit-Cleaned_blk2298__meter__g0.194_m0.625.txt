@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2298 | label: meter | g:0.194 m:0.625 ---
+
+karma yajñātmakaṃ śreyaḥ svarlokaphaladāyi yat 
+śreyaḥ pradhānaṃ ca phale tad evānabhisaṃhite ।।

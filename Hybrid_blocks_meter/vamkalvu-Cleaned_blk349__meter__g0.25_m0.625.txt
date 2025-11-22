@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 349 | label: meter | g:0.25 m:0.625 ---
+
+bhṛṅgeṇa kalikākośastathā bhṛśamapīḍyata ।
+yathā goṣpadapūraṃ hi vavarṣa bahulaṃ madhu ।।

@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 85 | label: grammar | g:0.552 m:0.5 ---
+
+kālīvāsaṃ bhaja pathi mahat kānanaṃ yatra śaśvat sevāyāte tridaśanikare śrāddhadevaupavāhyam ।
+bhūtairbhedyo balimahiṣa ityudbhaṭaiḥ kṛṣṭaśṛṅge rajjugrāhaṃ rudati vijayā rūḍhahāsaṃ ruṇaddhi ।।

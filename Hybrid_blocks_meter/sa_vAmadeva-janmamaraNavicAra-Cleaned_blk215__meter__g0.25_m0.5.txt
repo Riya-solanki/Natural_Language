@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 215 | label: meter | g:0.25 m:0.5 ---
+
+munipraṇītād dviguṇaṃ tad eva parikīrtitam ।।

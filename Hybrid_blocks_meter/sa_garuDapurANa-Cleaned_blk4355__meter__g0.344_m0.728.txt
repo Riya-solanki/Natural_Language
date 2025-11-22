@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4355 | label: meter | g:0.344 m:0.728 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+hṛdrogādinidānaṃ te vakṣye ahaṃ suśrutādhunā ।
+kṛmihṛdrogaliṅgaiśca smṛtāḥ pañca tu hṛdgatāḥ ।।

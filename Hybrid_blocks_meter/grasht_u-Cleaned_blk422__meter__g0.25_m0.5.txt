@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 422 | label: meter | g:0.25 m:0.5 ---
+
+mercury transfers own colour on other substances
+atha nijakarme varṇaṃ na jahāti yadā sa rajyate rāgaiḥ ।
+kramaśo hi vakṣyamāṇairnirṇikto raṃjanaṃ kurute ।।

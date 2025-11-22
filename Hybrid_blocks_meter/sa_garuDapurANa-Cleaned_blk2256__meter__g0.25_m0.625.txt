@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2256 | label: meter | g:0.25 m:0.625 ---
+
+pañcakrośaṃ gayokṣetraṃ brāhmaṇebhyo dadau prabhuḥ ।
+dharamayāgeṣu lobhāttu pratigṛhya dhanādikam ।।

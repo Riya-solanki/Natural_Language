@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 373 | label: grammar | g:0.615 m:0.5 ---
+
+nitambaḥ svāṃ lakṣmīm abhilaṣati nādyāpi labhate samantāt sābhogaṃ na ca kucavibhāgāñcitam uraḥ ।
+dṛśor līlāmudrā sphurati ca na cāpi sthitimatī tad asyās tāruṇyaṃ prathamam avatīrṇaṃ vijayate ।।

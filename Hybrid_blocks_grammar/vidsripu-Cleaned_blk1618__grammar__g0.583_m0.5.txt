@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1618 | label: grammar | g:0.583 m:0.5 ---
+
+pibaty eko anyasmād ghanarudhiram āchidya caṣakaṃ lalajjihvo vaktrād galitam aparo leḍhu pibataḥ ।
+tataḥ styānāḥ kaścid bhuvi nipatitāḥ śoṇitakaṇāḥ kṣaṇād uccagrīvo rasayati lasaddīrgharasanaḥ ।।

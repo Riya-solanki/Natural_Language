@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 916 | label: meter | g:0.081 m:0.591 ---
+
+yāvad viṣṇupadaṃ vibhāti parama-vyomādi tāvaty api
+śrī-goloka-padaṃ praśastim ayate lakṣmī-parārdhāspadam ।
+tatrāpīndratayā vibhāsi nitarāṃ govinda-nāmnā yathā
+tena tvaṃ jagad aṅga tadvad avatād ity ucire te samam ।। [śārdūla]

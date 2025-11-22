@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 389 | label: hybrid | g:0.516 m:0.515 ---
+
+taccāha pañcabhirityādi ।।
+evaṃ uktaprakāreṇa punargarbhadrāve nipuṇaḥ rasodare abhradhātvādīnāṃ drutikaraṇe pravīṇaḥ pumān kalāṃśena grāsaṃ yojayet ।।
+kiṃ kṛtvā pañcabhiḥ pūrvoktaiḥ grāsaiścāru yathā syāttathā ghanasatvamādau jārayitvā pañcabhirgrāsair ghanasatvajāraṇānantaraṃ ṣoḍaśabhāgena bījaṃ jārayedityarthaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 91 | label: grammar | g:0.552 m:0.5 ---
+
+miśrībhūtāṃ tava tanulatāṃ bibhrato gaurī kāmaṃ devasyāsīd aviralaparirambhajanmā pramodaḥ ।
+kiṃ tu premastimitamadhurasingdhamugdhā na dṛṣṭir dṛṣṭety antaḥakaraṇam asakṛt tāmyati tryambakasya ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3533 | label: meter | g:0.306 m:0.5 ---
+
+kṛtvā ca rūpaṃ ditijāṃśca hatvā praṇamya carṣin prathamakrameṇa ।
+mahīṃ mahīdhraiḥ sahitāṃ sahārmavāṃ jahāra ratnākarapattanairyutām ।।

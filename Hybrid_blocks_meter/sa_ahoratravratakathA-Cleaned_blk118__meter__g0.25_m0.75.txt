@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 118 | label: meter | g:0.25 m:0.75 ---
+
+ālasyenāpi yaḥ kuryāj jinālayapradakṣiṇām ।
+pade pade suvarṇaikakarṣadānaphalaṃ labhet ।।

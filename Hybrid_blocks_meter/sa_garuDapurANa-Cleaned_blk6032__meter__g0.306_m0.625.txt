@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6032 | label: meter | g:0.306 m:0.625 ---
+
+rudrāmalakacūrṇaṃ vai madhu-taila ghṛtānvitam ।
+jagdhvā māsaṃ yuvā syācca naro vāgīśvarī bhavet ।।

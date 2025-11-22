@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8190 | label: meter | g:0.306 m:0.5 ---
+
+tīrthaṃ cāpi samāgatya śrāddhaṃ prārabdha vāṃstu saḥ ।
+phalaṃ pakvantu jānakyā siddhaṃ rāme niveditam ।।

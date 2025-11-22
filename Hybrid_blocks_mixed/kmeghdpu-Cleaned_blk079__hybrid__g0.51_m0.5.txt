@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 79 | label: hybrid | g:0.51 m:0.5 ---
+
+nūnaṃ tasyāḥ prabalaruditocchūnanetraṃ bahūnāṃ niḥśvāsānām aśiśiratayā bhinnavarṇādharoṣṭham ।
+hastanyastaṃ mukham asakalavyakti lambālakatvād indor dainyaṃ tvadupasaraṇakliṣṭakānter bibharti ।।

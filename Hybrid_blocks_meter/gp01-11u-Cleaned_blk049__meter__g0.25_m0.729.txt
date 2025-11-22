@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 49 | label: meter | g:0.25 m:0.729 ---
+
+ṣahasra-patra-kamalaṃ gokulākhyaṃ mahat padam ।
+tat-karṇikāraṃ tad-dhāma tad-anantāṃśa-sambhavam ।
+tat-kiñjalkaṃ tad-aṃśānāṃ tat-patrāṇi śriyām api ।।
+catur-asraṃ tat-paritaḥ śvetadvīpākhyam adbhutam ।

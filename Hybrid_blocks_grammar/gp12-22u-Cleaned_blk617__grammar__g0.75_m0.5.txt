@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 617 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha prathamatas tan-manā nijāgra-janmanā yugalī-bhūya muralī-kalīm āvartayati sma । [] tatra tu yadā samuddīpita-bhāvāntare vanāntare go-cāraṇe sarva-manaso' py agocarān sahacarān vismāpayann atikānta-guṇa-vrajena nijāgrajena saha svayam aharahaḥ saharṣa utkarṣaṃ pravīṇayan veṇu-śikṣām īkṣayām āsa,।। [] tadā tāsāṃ tad-rūpa-sphūrtir atīva pūrtim āyātā ।

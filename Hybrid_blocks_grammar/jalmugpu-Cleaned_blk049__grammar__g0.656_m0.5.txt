@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 49 | label: grammar | g:0.656 m:0.5 ---
+
+bhūyaḥ kālavaśāt tam arjitadhanaṃ dṛṣṭvātha madvallabhaḥ saḥ kruddho gamitas tvayeti kalaho mātrā samaṃ jāyate ।
+kṛtvā taṃ prati ca vratādi virahaṃ svaṃ nāṭayitvā tatas tasmin mitramukhena saṃdhir aparo veśyābhir utpādyate ।।

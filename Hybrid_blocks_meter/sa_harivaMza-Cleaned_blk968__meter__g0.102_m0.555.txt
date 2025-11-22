@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 968 | label: meter | g:0.102 m:0.555 ---
+
+caturaṅgasya putras tu pṛthulākṣa iti smṛtaḥ 
+pṛthulākṣasuto rājā campo nāma mahāyaśāḥ 
+campasya tu purī campā yā pūrvaṃ mālinī babhau ।।

@@ -1,0 +1,7 @@
+--- source: rasadhpu-Cleaned.txt | block: 12 | label: meter | g:0.25 m:0.5 ---
+
+snuhīdugdhena khalve rasaḥ kṣiptvā sapta dināni mṛdyate ।। 
+tato bhūmijaḥ kañcuko yāti ।। 
+evaṃ sapta dināni arkadugdhena mardite pāṣāṇakañcuko yāti ।। 
+parpaṭān brahmavṛkṣasya jalaklinnāṃś ca vartayet ।
+tadrasena ca saptāhaṃ piṣṭād yātyambukañcukaḥ ।।

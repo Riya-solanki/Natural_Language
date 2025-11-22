@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 887 | label: meter | g:0.194 m:0.5 ---
+
+asmiṃs tu samaye rājaṃs tiṣṭhethā devacoditaḥ 
+sa tatheti bruvann eva devair apy abhicoditaḥ । 
+bhaviṣyasīndro jitvaiva devair uktas sa pārthivaḥ 
+jaghāna dānavān sarvān ye vadhyā vajrapāṇinā ।।

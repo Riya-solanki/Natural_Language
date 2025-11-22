@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 704 | label: meter | g:0.194 m:0.75 ---
+
+putrakaḥ prātarutthāya samayī ca kṛtāhnikaḥ 
+kṛtapraṇāmo anujñāto guruṇā kṛtyamācaret ।।

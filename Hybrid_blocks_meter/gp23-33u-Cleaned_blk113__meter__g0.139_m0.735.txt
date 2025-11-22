@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 113 | label: meter | g:0.139 m:0.735 ---
+
+prāṇāṃs tyajāma dayitasya pade luṭhāma
+kupyāma tatra vinivṛtya gṛhaṃ vrajāma ।
+kṛṣṇāṃ viśāma ca na vā kaṭhināyamānam
+etaṃ svabhālam abhihatya nicāyayāma ।।
+[] tatra tu-

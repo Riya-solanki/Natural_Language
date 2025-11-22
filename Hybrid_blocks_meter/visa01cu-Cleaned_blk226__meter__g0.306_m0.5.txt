@@ -1,0 +1,4 @@
+--- source: visa01cu-Cleaned.txt | block: 226 | label: meter | g:0.306 m:0.5 ---
+
+doṣāḥ punaritiyeṣāṃ sadbhāvena kāvyatvaṃ khaṇiḍatamityarthaḥ ।
+kiṃ svarūpāḥ kimākāreṇa varttante iti pūrvavad vyākhyānam ।

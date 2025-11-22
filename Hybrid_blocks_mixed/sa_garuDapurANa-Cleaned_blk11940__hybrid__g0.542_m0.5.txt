@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11940 | label: hybrid | g:0.542 m:0.5 ---
+
+liṅgaṃ puṣṭaṃ naiva kāryaṃ sadaiva liṅgaṃ puṣṭaṃ kāryamevaṃ sadāpi ।
+yonau saktirnaiva kāryā sadāpi yonau mukte asaṃgato yāti muktim ।।

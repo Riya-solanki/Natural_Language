@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1229 | label: meter | g:0.194 m:0.729 ---
+
+divyā tāvat prakṛticapalā sopasargā vibhūtiḥ
+prāg evānyā parimitasukhapratyayapratyapāyā ।
+tasmān nārtho mama sukhaiḥ svapnamāyopamānaiḥ
+puṇyād asmān na ca śamasukhaṃ prārthaye projjhya lokān ।।

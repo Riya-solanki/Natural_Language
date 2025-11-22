@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 609 | label: meter | g:0.194 m:0.5 ---
+
+tisraḥ kanyās tu menāyāṃ janayām āsa śailarāṭ 
+aparṇām ekaparṇāṃ ca tṛtīyām ekapāṭalām ।।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 513 | label: grammar | g:0.75 m:0.5 ---
+
+atha bhagavān sarvatathāgatasarvavajradharaṇīsamayasaṃbhavavajrannāma samādhiṃ samāpannaḥ । samanantarasamāpanne cātha tāvadeva sarvatathāgatahṛdayebhyaḥ । sa eva bhagavān vajrapāṇiḥ vajradhararūpadhāriṇyaḥ samanta jvālāgarbhā vajradhāraṇīsamayamudrā devatā bhūtvā viniḥsṛtya, sarvalokadhātuṣu sarvabuddhānāṃ sarvatathāgatavajradhāraṇī jñānāni niṣpādya, sarvatathāgatasamayamudrābimbāni bhūtvā, sarvatathāgatānāṃ vajradhātumahāmaṇḍale sanniveśayogena candramaṇḍalānyāśrityedamudānamudānayāmāsa ।

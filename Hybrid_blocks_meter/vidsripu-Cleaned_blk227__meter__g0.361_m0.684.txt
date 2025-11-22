@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 227 | label: meter | g:0.361 m:0.684 ---
+
+śukapatraharitakomalakusumaśaṭānāṃ śirīṣayaṣṭīnām ।
+talam āśrayati dinātapabhayena paripiṇḍitaṃ śaityam ।।
+vāgurasya

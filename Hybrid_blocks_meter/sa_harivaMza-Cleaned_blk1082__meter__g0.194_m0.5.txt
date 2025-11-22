@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1082 | label: meter | g:0.194 m:0.5 ---
+
+ariṣṭanemir aśvaś ca sudharmā dharmabhṛt tathā 
+subāhur bahubāhuś ca śraviṣṭhāśravaṇe striyau ।।

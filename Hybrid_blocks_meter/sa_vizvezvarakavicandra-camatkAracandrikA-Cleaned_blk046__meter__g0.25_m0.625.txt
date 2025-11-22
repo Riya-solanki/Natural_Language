@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 46 | label: meter | g:0.25 m:0.625 ---
+
+prācāṃ prāyeṇa gaṃbhīrā vācaḥ tadadhunātanaiḥ ।
+tadudāhṛtimātreṇa laṅghyā lakṣaṇasaṃsthitiḥ ।।

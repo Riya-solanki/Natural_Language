@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 207 | label: meter | g:0.056 m:0.875 ---
+
+{kṛtamanumataṃ dṛṣṭaṃ vā yairidaṃ gurupātakaṃ
+manujapaśubhirnirmaryādairbhavadbhirudāyudhaiḥ ।
+narakaripuṇā sārdha teṣāṃ sabhīmakirīṭinā-
+mayamaha[ma]sṛṅmedomāṃsaiḥ karomi diśāṃ balim ।।}

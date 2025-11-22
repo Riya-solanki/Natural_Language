@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 852 | label: meter | g:0.306 m:0.5 ---
+
+tvatpādapaṅkajasamāśrayasatkṛtena maṅgalyatāmupagatā rajasā tviyaṃ nauḥ ।
+durge mahatyapi ca toyanidhāvamuṣmin svasti vrajediti bhavantamupāgatāḥ smaḥ ।।

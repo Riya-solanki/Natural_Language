@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 357 | label: meter | g:0.194 m:0.5 ---
+
+pūrvajasya manos tāta sadṛśo ayam iti prabhuḥ 
+manur evābhavan nāmnā sāvarṇa iti cocyate ।।

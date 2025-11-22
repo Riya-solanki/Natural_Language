@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 47 | label: grammar | g:0.583 m:0.5 ---
+
+dāridryeṇa kulaṃ madena kuśalaṃ dveṣeṇa vidyāphalaṃ śīlaṃ durjanasaṃgamena malinācāreṇa śuklaṃ yaśaḥ ।
+ālasyena dhanaṃ prayāti nidhanaṃ laulyena mānonnatir yācñādainyaparigraheṇa ca guṇagrāmaḥ samagro nṛṇām ।।

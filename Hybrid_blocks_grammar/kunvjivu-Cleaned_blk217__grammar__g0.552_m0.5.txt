@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 217 | label: grammar | g:0.552 m:0.5 ---
+
+viśati yadi no kañcitkālaṃ kilāmbunidhaṃ vidheḥ kṛtiṣu sakalāsveko loke prakāśakatāṃ gataḥ ।
+kathamitarathā dhāmnāṃ dhātā tamāṃsi niśākaraṃ sphuradidamiyattārācakraṃ prakāśayati sphuṭam ।।

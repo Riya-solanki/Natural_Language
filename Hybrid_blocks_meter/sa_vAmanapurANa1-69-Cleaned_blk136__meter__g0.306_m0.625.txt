@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 136 | label: meter | g:0.306 m:0.625 ---
+
+tataḥ kapālī loke ca khyāto rudra bhaviṣyasi ।
+kapālamocanetyevaṃ tīrthaṃ cedaṃ bhaviṣyati ।।

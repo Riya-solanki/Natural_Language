@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 273 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tathā masṛṇam asṛṇikam aśru nudatīṣu rudatīṣu sudatīṣu, tad-anuṣaṅgata eva tamasaḥ saṅgataḥ kramaśas tan niśamayan niśāmayan mura-śamanaḥ svaka-nayana-salila-kalilatayā nayana-lakṣeṇāpy alakṣitaḥ sahasā mahasāvṛtaḥ sarvāsāṃ madhyam adhyāsitavān, ambarāvṛtatayā sva-prathām āvṛtavāṃś ca ।

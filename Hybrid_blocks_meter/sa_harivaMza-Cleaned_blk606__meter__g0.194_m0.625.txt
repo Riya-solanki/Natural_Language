@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 606 | label: meter | g:0.194 m:0.625 ---
+
+tasmāc chrāddhāni deyāni yogināṃ dvijasattama 
+eṣa vai prathamaḥ kalpaḥ somapānāṃ anuttamaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4662 | label: meter | g:0.194 m:0.625 ---
+
+anāthavattāṃ rudatīṃ sakhyaḥ sarvā vicetasaḥ 
+ūcur aśruparītākṣya uṣāṃ sarvāḥ samāgatāḥ ।।

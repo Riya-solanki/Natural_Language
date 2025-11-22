@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 422 | label: meter | g:0.25 m:0.75 ---
+
+karuṇaikatānahṛdayaśca tānyakṣānanuśocanniyatamīdṛśamarthaṃ cintayāmāsa ।

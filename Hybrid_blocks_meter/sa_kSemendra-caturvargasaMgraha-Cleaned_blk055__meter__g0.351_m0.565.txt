@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 55 | label: meter | g:0.351 m:0.565 ---
+
+vidyākalāparicayaḥ kṣitipālasevā digdvīpamārgagirisaṃbhramaṇaprayāsaḥ ।
+yuddhākriyāś ca bhuvi bhojanalābhalobhāt tadvittalabhyam iti vittavatāṃ pravādaḥ ।।

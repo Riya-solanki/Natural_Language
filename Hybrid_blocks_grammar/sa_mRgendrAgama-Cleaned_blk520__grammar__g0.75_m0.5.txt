@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 520 | label: grammar | g:0.75 m:0.5 ---
+
+[śivayoginaḥ] śivaśāsane yuktasya sarvasyaiva mārgakṣīṇādiviṣaye samuddhāraḥ sarvātmanā [kartavyaḥ] karaṇīyaḥ। [mārgakṣīṇe] mārgasya adhvanaḥ kṣīṇe paricyutau, naṣṭo mārge adhvani yaḥ kṣīṇapātheyaḥ kṣīṇadeho vā tasmin। ripugraste śatrubhirvaśīkṛte। rogārte vyādhyutkrānte। [kṣutprapīḍite] kṣudhā ca prakarṣeṇa pīḍite। [sarvātmanā samuddhāraḥ] sarvaprakāramuddhāraṇaṃ tasmāttasyā āpado mocanamavaśyaṃ kāryam।।

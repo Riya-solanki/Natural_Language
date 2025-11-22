@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1728 | label: meter | g:0.25 m:0.625 ---
+
+tuṣāraśailāñjanaśailakalpayor abhedabhāg īśvaraviśvarūpayoḥ ।
+śaratpayodasthasitārdhatārakā- pathapratispārdhi vapur dhinotu vaḥ ।।

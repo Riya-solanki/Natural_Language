@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4561 | label: hybrid | g:0.542 m:0.468 ---
+
+prāpnoti dattasya suvarṇabhūmeraśvasya gonāgarathasya caiva nārī naraścāpi ca pādamekaṃ śṛṇvan śuciḥ puṇyatamaḥ pṛthivyām ।
+snāne kṛte tīrthavare supuṇye gaṅgājale naimiṣapuṣkare vā ।
+kokāmukhe yat pravadanti viprāḥ prayāgamāsādya ca māghamāse ।।

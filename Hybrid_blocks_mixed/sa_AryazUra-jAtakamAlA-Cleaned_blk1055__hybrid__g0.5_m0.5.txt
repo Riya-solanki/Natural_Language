@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1055 | label: hybrid | g:0.5 m:0.5 ---
+
+tadyātrabhavato gatiḥ sāsmākam । vayamapi pravrajāma iti ।

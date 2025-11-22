@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 222 | label: meter | g:0.25 m:0.583 ---
+
+yathā yathā kāryotpāda upapadyate tathā tathaiṣāṃ svabhāvo abhyupagamyate ।
+calaṃ guṇavṛttamiti cāstyabhyupagamaḥ ।
+tasmātsāmyāvasthāyāmapi vaiṣamyopagamayogyā eva guṇā avatiṣṭhanta iti ।
+evamapi pradhānasya jñaśaktiviyogādracanānupapattyādayaḥ pūrvoktā doṣāstadavasthā eva ।
+jñaśaktimapi tvanumimānaḥ prativāditvānnivarteta ।

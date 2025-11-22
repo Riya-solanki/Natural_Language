@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 856 | label: meter | g:0.25 m:0.5 ---
+
+rādhe parito yāsīd govardhana-dhāriṇas tadā karuṇā ।
+sāsrān nayana-prāntāt prāntāt tvayy eva sā suviśrāntā ।। [anuṣṭubh]

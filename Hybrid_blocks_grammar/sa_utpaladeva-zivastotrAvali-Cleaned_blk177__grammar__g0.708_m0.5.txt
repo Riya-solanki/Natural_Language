@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 177 | label: grammar | g:0.708 m:0.5 ---
+
+kadā kām api tāṃ nātha tava vallabhatām iyām yayā māṃ prati na kvāpi yuktaṃ te syāt palāyitum ।।

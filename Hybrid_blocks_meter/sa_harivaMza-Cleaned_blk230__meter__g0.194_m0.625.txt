@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 230 | label: meter | g:0.194 m:0.625 ---
+
+so abhiṣikto mahātejā vidhivad dharmakovidaiḥ 
+ādhirājye tadā rājā pṛthur vainyaḥ pratāpavān ।।

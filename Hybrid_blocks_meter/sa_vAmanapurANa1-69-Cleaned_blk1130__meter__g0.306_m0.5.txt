@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1130 | label: meter | g:0.306 m:0.5 ---
+
+hāraṃ ca somaḥ saha cāmareṇa mālaṃ samudro himavān mṛgendram ।
+cūḍāmaṇiṃ kuṇḍalamarddhacandraṃ prādāt kuṭhāraṃ vasuśilpakarttā ।।

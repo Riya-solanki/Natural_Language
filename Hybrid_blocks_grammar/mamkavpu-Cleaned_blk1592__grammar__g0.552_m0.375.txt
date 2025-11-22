@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1592 | label: grammar | g:0.552 m:0.375 ---
+
+āśritam ādheyam āśrayastadādhāraḥ । tayormahatorapi viṣaye tadapekṣayā tanū apyāśrayāśrayiṇau prastutavastuprakarṣaviavkṣayā yathākramaṃ yat adhikataratāṃ vrajataḥ । tadidaṃ dvividham adhikaṃ nāma ।
+krameṇodāharaṇam

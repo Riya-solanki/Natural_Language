@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 749 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad etad ākarṇya bhūmiṃ nirvarṇya tvaṃ tu tasminn asantuṣṭa iva cetasi cintayitāsi-gṛha-śabdaḥ khalv ebhir gṛhiṇī-paryāyatayā paryavasāyitaḥ । tatra ca hanta mama svāntaṃ kīdṛśaṃ vāmī vidhāsyantīti ।

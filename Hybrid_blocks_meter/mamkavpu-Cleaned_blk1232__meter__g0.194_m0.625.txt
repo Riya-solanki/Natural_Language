@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1232 | label: meter | g:0.194 m:0.625 ---
+
+{ṭuṭuṇṇanto marihisi kaṇṭaakaliāiṃ keaivaṇāiṃ ।
+mālaikusumasaricchaṃ bhamara bhamanto ṇa pāvihisi ।।}
+[ṭuṇṭuṇāyamāno mariṣyasi kaṇṭakakalitāni ketakīvanāni ।
+mālatīkusumasadṛkṣaṃ bhramara bhraman na prāpsyasi ।।]

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 439 | label: hybrid | g:0.387 m:0.517 ---
+
+śabdāyamānavaranūpuramekhalābhir ādiśyamānabhavanaṃ pravarāpsarobhiḥ ।
+haimādriśṛṅgam iva tat puram āviśantaṃ nemuḥ kṛtāñjalipuṭā bahavo api tatra ।।

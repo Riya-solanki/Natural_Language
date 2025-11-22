@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 892 | label: grammar | g:0.667 m:0.5 ---
+
+romāñcaṃ vahasi śvasiṣy avirataṃ dhyānaṃ kim apy āśritā dṛṣṭis te bhramati prakampacapale vyaktaṃ ca te śītkṛtam ।
+taṃ labdhvā khalu bandhakīva suratavyāpāradakṣaṃ janaṃ kiṃ dūti jvaritāsi pāpam athavā spṛṣṭvā bhavanty āpadaḥ ।।

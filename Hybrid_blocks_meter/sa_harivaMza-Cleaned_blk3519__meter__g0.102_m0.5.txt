@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3519 | label: meter | g:0.102 m:0.5 ---
+
+kārūṣo dantavaktraś ca cedirājaś ca vīryavān 
+kaliṅgādhipatiś caiva pauṇḍraś ca balināṃ varaḥ 
+āhvṛtiḥ kauśikaś caiva bhīṣmakaś ca narādhipaḥ ।।

@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 327 | label: grammar | g:0.552 m:0.35 ---
+
+svarūpamātraṃ dṛṣṭvācetyādiṣu mātraśabdena hi ghaṭatadabhāvavedanayorabhāva ucyate, bhūtalamātraṃ jñāyate na ghaṭastadabhāvo vetyarthaḥ ।
+tena yadi bhavānapi ghaṭādijñānābhāvayuktaṃ bhūtalajñānamaṅgīkuryāt tato jñānābhāvāṅgīkartavya ityuktameva ।
+tena naivaṃ bhramitavyam- abhāvavādināpi svarūpamātraṃ dṛṣṭvā ca paścātkiñcitsmaraṇannapīti vadatā bhāvajñānātirekeṇa tanmātravedanamaṅgīkṛtam, tadeva dṛśye pratiyogini nāstīti vyavahārakāraṇatvānnāstīti śabdasyārthābhāvādbhūtalavedanameva kāraṇamiti vaktavyam ।
+tataśca ghaṭavatyapi prasaṅga iti sthitaṃ dūṣaṇam ।।

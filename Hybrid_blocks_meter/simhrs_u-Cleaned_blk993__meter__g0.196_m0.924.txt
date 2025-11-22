@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 993 | label: meter | g:0.196 m:0.924 ---
+
+utsvapnerṣyayā, yathā-
+svapna-kīrtita-vipakṣam aṅganāḥ
+pratyabhitsur avadantya eva tam ।
+pracchadānta-galitāśru-bindubhiḥ
+krodha-bhinna-valayair vivartanaiḥ ।।

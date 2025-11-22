@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1723 | label: hybrid | g:0.5 m:0.5 ---
+
+bhīmaḥ-aye katham āryaḥ suyodhana-śaṅkayā nirdayaṃ mām āliṅgati ?

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 738 | label: meter | g:0.194 m:0.5 ---
+
+śubhena karmaṇā tena jātā jātismarā mṛgāḥ 
+trāsodvegena saṃvignā ramye kālaṃjare girau ।।

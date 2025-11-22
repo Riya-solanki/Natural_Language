@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 1207 | label: meter | g:0.25 m:0.875 ---
+
+sāmājikajanāhlādanirmāṇanipuṇairnaṭaiḥ ।
+tadbhūmikāṃ samāsthāya nirvartitanacāntaram ।।
+kvacitprakaraṇasyāntaḥ smṛtaṃ prakaraṇāntaram ।
+sarvaprabandhasarvasvakalpāṃ puṣṇāti vakratām ।।

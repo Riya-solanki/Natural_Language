@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 452 | label: grammar | g:0.583 m:0.5 ---
+
+athāpsarasas tāḥ samastās tadgamanaviyogaśokaglapitaṛdayāḥ sasaṃbhramāḥ kamalakuvalayakuḍmalavilāsā nalinya iva śirasi viracitobhayakamalāñjalayaḥ prāhuḥ ।

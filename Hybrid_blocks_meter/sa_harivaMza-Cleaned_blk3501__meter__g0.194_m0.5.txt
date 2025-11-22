@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3501 | label: meter | g:0.194 m:0.5 ---
+
+kṛtāstrau tāv ubhau vīrau gurum āmantrya suvratau 
+āyātau mathurāṃ bhūyo vasudevasutāv ubhau ।।

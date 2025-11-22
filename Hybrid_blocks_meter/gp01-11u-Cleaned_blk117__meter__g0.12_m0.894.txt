@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 117 | label: meter | g:0.12 m:0.894 ---
+
+sakhīnāṃ sāraṇya-tridaśa-sudṛśāṃ gāna-valanāṃ
+muhuḥ prodyan-mūrcchāṃ madhu-madhura-rāga-praṇayinīm ।
+hari-premārta-strī-prathama-racitāṃ śṛṇvati jane
+sukhaṃ vā duḥkhaṃ vety avakalayituṃ kaḥ prabhavati ।। [śikhariṇī]

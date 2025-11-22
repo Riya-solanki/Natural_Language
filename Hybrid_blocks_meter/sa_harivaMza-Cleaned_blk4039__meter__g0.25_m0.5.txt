@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4039 | label: meter | g:0.25 m:0.5 ---
+
+devānāṃ vipriye nityam ṛṣīṇāṃ ca sa vartate 
+nāhaṃ śaknomi taṃ jetuṃ tasmāt tvāṃ śaraṇaṃ gataḥ । 
+tava caivāntaraprekṣī jahi taṃ pāpapūruṣam ।।

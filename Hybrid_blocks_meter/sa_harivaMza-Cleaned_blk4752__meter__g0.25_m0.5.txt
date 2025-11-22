@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4752 | label: meter | g:0.25 m:0.5 ---
+
+eṣo aham asya vidadhe mṛtyuṃ prāṇaharaṃ raṇe 
+ādāsyāmy aham enaṃ vai garutmān iva pannagam ।।

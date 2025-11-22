@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 150 | label: meter | g:0.194 m:0.5 ---
+
+vyaṅgaḥ śalyaś ca balinau balaś caiva mahābalaḥ 
+vātāpir namuciś caiva ilvalaḥ khasṛmas tathā ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1678 | label: grammar | g:0.729 m:0.5 ---
+
+paripakvasahakāraphalasurabhitareṇa ca nirhāriṇā atimanojñena gandhena pratyudgata iva tasya pādapasya ayaṃ sa vanaspatiriti niścayamupajagāma । samupetya cainaṃ dadarśa tatphalopabhogavyāpṛtairanekavānaraśatairākīrṇaviṭapam ।

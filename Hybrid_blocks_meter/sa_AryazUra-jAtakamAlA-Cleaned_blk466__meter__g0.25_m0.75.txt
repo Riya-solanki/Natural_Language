@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 466 | label: meter | g:0.25 m:0.75 ---
+
+dharmapriyatvātkaruṇāvaśādvā tyajan parārthe priyamātmadeham ।
+dveṣāgnidagdhānyapi mānasāni prasādasauvarṇyanavāni kuryāt ।।

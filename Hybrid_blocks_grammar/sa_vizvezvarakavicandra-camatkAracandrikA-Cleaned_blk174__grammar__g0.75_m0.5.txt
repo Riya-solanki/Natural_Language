@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 174 | label: grammar | g:0.75 m:0.5 ---
+
+atra bale prabhāve ceti sāmānyadharmaparigaṇanākramavaśādupamānayorapi taddharmiṇoḥ krameṇoktireva yukteti kīcakadarpakārīti vaktavye vyutkameṇa bhaṇanācchabdavyutkamamidam । atraiva rāghavādapi bhārgavasyābhyarhitatvād bhārgavarāghavāviti vaktavye tadatikramya nirdeśādarthavyutkramamidama । ubhayatrāpi kīcakadarpakārī bhārgavarāghavāviti ca pāṭho ramaṇīyaḥ ।

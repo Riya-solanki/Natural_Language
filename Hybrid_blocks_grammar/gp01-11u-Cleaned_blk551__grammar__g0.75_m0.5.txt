@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 551 | label: grammar | g:0.75 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-śiṣṭa-dviṣṭi-viśiṣṭo' pi sañjāta-jātaka-dveṣa-pātako' pi para-dhanāyayā dhanānusandhāna-nirbandha-sandho' pi sa katham asmin nigama-śiṣṭi-saṃsliṣṭe vicitreṇa putrekṣaṇena putra-kṣaṇena ca vismāyita-sakale jagad-vitta-vittā-śakale saralāyate sma ।

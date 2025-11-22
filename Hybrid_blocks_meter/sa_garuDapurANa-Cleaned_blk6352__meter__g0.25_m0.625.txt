@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6352 | label: meter | g:0.25 m:0.625 ---
+
+deśaṃ gatānāṃ yā vṛddhirnānāpaṇyopajīvinām ।
+kusīdaṃ kurvataḥ samyak saṃsthitasyaiva jāyate ।।

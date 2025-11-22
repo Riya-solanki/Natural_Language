@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2067 | label: meter | g:0.25 m:0.583 ---
+
+yattu nāyāti vaivarṇyaṃ vijñeyaṃ tadakṛtrimam ।
+sitaṃ pramāṇavatsnigdhaṃ guru svacchaṃ sunirmalam ।।
+tejo adhikaṃ suvṛttaṃ ca mauktikaṃ guṇavatsmṛtam ।।
+pramāṇavadgauravaraśmiyuktaṃ sitaṃ suvṛttaṃ samasūkṣmavedham ।
+akreturapyāvahati pramodaṃ yanmauktikaṃ tadguṇavatpradiṣṭam ।।

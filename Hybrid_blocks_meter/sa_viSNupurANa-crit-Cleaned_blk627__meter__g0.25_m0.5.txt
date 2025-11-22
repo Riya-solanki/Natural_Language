@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 627 | label: meter | g:0.25 m:0.5 ---
+
+suruciḥ satyam āhedaṃ svalpabhāgyo asi putraka 
+na hi puṇyavatāṃ vatsa sapatnair evam ucyate ।।

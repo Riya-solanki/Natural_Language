@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 490 | label: grammar | g:0.858 m:0.073 ---
+
+[] tac ca tābhir anupaṭhitaṃ, yathā-
+maṇi-mālā-kṛta-go-gaṇa-gaṇanā-pūraṇam anu sānandam । praṇayitarāṃsaga-bhujam udgāna-hṛta-hariṇīkam amandam ।।kṛṣṇaṃ kalayata mohana-mantragam eṇīm eṇī-nayanām । na yadi tadā katham ubhaya-vyaktiṃ vīkṣe tad apṛthag-ayanām ।। iti ।
+[] tataś cetas tataḥ sakhibhir akhilaiḥ praṇītānītāmanda-makaranda-sundara-kunda-dāmabhir mukundaḥ kṛtālaṅkṛtir yathā nijahāra । śreṇīkṛta-go-samāhṛtir yathā cāsasāra । tathā varṇitam । kintu tad-vilambataḥ kātarya-paryākulāyāḥ śrī-vrajeśvaryāḥ sabhāgatatayā svabhāva-gopanayā । tathā hi-
+āgatam iva harim aciram । kalayata suhṛdāṃ dayayā yad asau nagam api dadhre suciram ।। kunda-srag-avita-kautuka-veśaṃ go-gopair viharantam । mṛdu-mṛdu-marud-anuvījitam anu lavam akhila-manāṃsi harantam ।।sura-vandibhir abhivanditam avahita-tat-kṛta-nartana-vādyam । muni-samudaya-nuti-guṇitaṃ guṇitā-nipuṇaṃ jagad abhivādyam ।।atha go-dhana-gaṇam anu samam anugais tad-varṇita-garimāṇam । śrama-kāntibhir api sukha-kāriṇam ita-veṇu-kalā-varimāṇam ।।khura-reṇu-pluta-mālya-mano-haram īṣad-ghūrṇita-nayanam । etaṃ paśyata nija-jana-mānadam īpsita-gavyānayanam ।।kuṇḍala-lakṣmī-bhṛta-pāṇḍu-dyuti-gaṇḍaṃ gaja-pati-khelam । kṣaṇadā-pativat pramuditam uditaṃ prāgadhi-sandhyā-velam ।। iti ।
+[] atha vaiṣṇavaṃ vārāham api purāṇam anusṛtya gaty-antaraṃ pratyāyayiṣyāmaḥ ।

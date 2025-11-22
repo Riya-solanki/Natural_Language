@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5923 | label: meter | g:0.25 m:0.625 ---
+
+nityāruṇā madanāturā mahāmohā prakṛtyapi ।
+mahendrāṇī ca kalanākarṣiṇī bhāratī tathā ।।

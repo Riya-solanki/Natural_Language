@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 55 | label: grammar | g:0.708 m:0.5 ---
+
+[] athāgrajaś cānuja-vācam amṛtam ivācamya smitam ācarann uvāca-bhavādṛśa eva tādṛśa-guṇa-gaṇa-bhāg īśvaraḥ katham anyaṃ tatra gaṇyaṃ karoti? iti ।

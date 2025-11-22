@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 35 | label: meter | g:0.056 m:0.729 ---
+
+nikhilam eva vanaṃ vidhunāmunā
+diśi diśi pratirañjitam īkṣyate ।
+mad-anukūlam idaṃ śakunaṃ bhaved
+iti gatir mama tatra śubhāvahā ।। [drutavilambita]

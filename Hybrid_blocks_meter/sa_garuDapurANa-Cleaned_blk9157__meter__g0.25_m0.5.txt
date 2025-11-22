@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9157 | label: meter | g:0.25 m:0.5 ---
+
+tatra kāmastathā krodhaḥ kāye pañcendriyāṇi ca ।
+ete tārkṣya samākhyātā dehe tiṣṭhanti taskarāḥ ।।

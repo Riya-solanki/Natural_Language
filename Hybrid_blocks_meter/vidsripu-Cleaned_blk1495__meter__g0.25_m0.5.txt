@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1495 | label: meter | g:0.25 m:0.5 ---
+
+sarvadā sarvado asīti mithyā saṃstūyase budhaiḥ ।
+nārayo lebhire pṛṣṭhaṃ na vakṣaḥ parayoṣitaḥ ।।

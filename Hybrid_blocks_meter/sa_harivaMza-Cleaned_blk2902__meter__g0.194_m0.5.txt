@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2902 | label: meter | g:0.194 m:0.5 ---
+
+bhojaṃ vaitaraṇaṃ caiva vikadruṃ ca mahābalam 
+bhayesakhaṃ ca rājānaṃ vipṛthuṃ ca pṛthuśriyam ।।

@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 225 | label: hybrid | g:0.454 m:0.5 ---
+
+sarvakartṛtvād eveśvarasya sarvajñatvaṃ sarvaviṣayajñānaṃ vinā sarvakartṛtānupapatteḥ ।। 
+yo hi yadyatkriyāsiddhiṃ tadaṅgāni tatphalāni ca jānāti tasyaiva vicitratattatkārakopayogābhisaṃdhānavatas tattatkartṛtvaṃ ghaṭate kuvindāderiva paṭādikṛtau ।। 
+ato yastu tatrājñaḥ sa tatkāryakaraṇāya nālaṃ bāliśa iva nyāyavidyādyupanyāsa ityetatsusthitamityavyabhicārīti ।।

@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 20 | label: grammar | g:0.583 m:0.5 ---
+
+haris te sāhasraṃ kamalabalim ādhāya padayor yad ekone tasmin nijam udaharan netrakamalam ।
+gato bhaktyudrekaḥ pariṇatim asau cakravapuṣā trayāṇāṃ rakṣāyai tripurahara jāgarti jagatām ।।

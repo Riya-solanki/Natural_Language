@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10100 | label: hybrid | g:0.5 m:0.5 ---
+
+na pārthikyānnamanaṃ kāryameva prīṇanti naitā devatāḥ pūjanena ।
+pūjāṃ gṛhītvā devatāścaiva sarvāḥ kiñciddatvā phaladānena tāṃśca ।।

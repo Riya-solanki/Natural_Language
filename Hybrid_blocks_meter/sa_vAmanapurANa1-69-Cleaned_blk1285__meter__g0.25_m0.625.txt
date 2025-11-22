@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1285 | label: meter | g:0.25 m:0.625 ---
+
+sā cāpsarobhirutpātya nītā pitṛkulaṃ nijam ।
+tābhirāśvāsitā cāpi madhurairvacanāmbubhiḥ ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 901 | label: meter | g:0.161 m:0.939 ---
+
+mantur aparādhaḥ । tasmād, yathā-
+vibhūṣaṇa-pratyupahāra-hastam
+upasthitaṃ vīkṣya viśāmpatis tam ।
+sauparṇam astraṃ pratisañjahāra
+prahveṣv anirbandha-ruṣo hi santaḥ ।।

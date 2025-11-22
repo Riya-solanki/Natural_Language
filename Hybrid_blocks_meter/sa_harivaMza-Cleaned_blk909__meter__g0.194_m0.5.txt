@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 909 | label: meter | g:0.194 m:0.5 ---
+
+sa lohagandhī rājarṣiḥ paridhāvann itas tataḥ 
+paurajānapadais tyakto na lebhe śarma karhicit ।।

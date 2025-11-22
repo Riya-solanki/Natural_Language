@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 86 | label: grammar | g:0.635 m:0.5 ---
+
+śṛṅgaṃ bhṛṅgiṃ vimuñca tyaja gajavadana tvaṃ ca lāṅgūlamūlaṃ mandānando asi nandinn alam abala mahākāla kaṇṭhagraheṇa ।
+ity uktvā nīyamānaḥ sukhayatu vṛṣabhaḥ pārvatīpādamūle paśyann akṣair vilakṣaṃ valitagalacalatkambalaṃ tryabakaṃ vaḥ ।।

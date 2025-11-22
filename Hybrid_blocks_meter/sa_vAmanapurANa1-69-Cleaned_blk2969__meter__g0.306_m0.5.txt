@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2969 | label: meter | g:0.306 m:0.5 ---
+
+taṃ śakrabāṇabhihataṃ durāsadaṃ sainyaṃ samālakṣya tadā kujambhaḥ ।
+jambhāsuraścāpi sureśamavyayaṃ prajagamaturgṛhya gade sughore ।।

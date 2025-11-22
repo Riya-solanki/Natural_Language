@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 215 | label: grammar | g:0.573 m:0.5 ---
+
+tāpaḥ svātmani saṃśritadrumalatāśoṣo adhyavagairvarjanaṃ sakhyaṃ duḥśamayā tṛṣā tava maro ko asāvanartho na yaḥ ।
+ekor'thastu mahānayaṃ jalalavasvāmyasmayodgarjinaḥ saṃnahyanti na yattavopakṛtaye dhārādharāḥ prākṛtāḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 91 | label: grammar | g:0.604 m:0.5 ---
+
+urasā śirasā dṛṣṭyā manasā vacasā tathā padbhyāṃ karābhyāṃ jānubhyāṃ praṇāmo aṣṭāṅga īritaḥ ।।

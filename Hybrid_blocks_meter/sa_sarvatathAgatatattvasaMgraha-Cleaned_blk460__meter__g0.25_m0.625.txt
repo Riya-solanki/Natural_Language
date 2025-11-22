@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 460 | label: meter | g:0.25 m:0.625 ---
+
+vajramuṣṭiṃ dṛḍhāṃ badhvā dvidhīkuryātsamāhitaḥ ।
+vajramudrādvayaṃ bhūyāt tato bandhaḥ pravakṣyate ।।

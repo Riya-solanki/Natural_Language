@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10250 | label: hybrid | g:0.321 m:0.493 ---
+
+sūkṣmeṇa rūpeṇa ca kāraṇaṃ syāt tarhi prapañcasya ca kāraṇaṃ vada ।
+avidyāyā vaśato viṣṇureva nānārūpairdṛśyate viṣṇureva ।।

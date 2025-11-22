@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 364 | label: meter | g:0.25 m:0.5 ---
+
+asaṃśayaṃ putra mahad bhaviṣyaty atra kāraṇam 
+yas tvaṃ dharmaparo nityaṃ dharmaṃ saṃtyaktavān imam । 
+yena tvām āviśat krodho dharmajñaṃ satyavādinam ।। 
+yuktam eva hi te kartuṃ tava mātṛvaco anagha । 
+na śakyam etan mithyā tu kartuṃ mātṛvacas tava 
+kṛmayo māṃsam ādāya yāsyanti tu mahītale ।। 
+tava pādān mahāprājña tataḥ saṃprāpsyase sukham । 
+kṛtam evaṃ vacas tathyaṃ mātus tava bhaviṣyati 
+śāpasya parihāreṇa tvaṃ ca trāto bhaviṣyasi ।।

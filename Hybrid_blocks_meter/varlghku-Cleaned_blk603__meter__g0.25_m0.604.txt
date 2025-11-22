@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 603 | label: meter | g:0.25 m:0.604 ---
+
+śala igupadhādaniṭaḥ ksaḥ ।।
+igupadho yaḥ śalantastasmādaniṭaścleḥ ksādeśaḥ syāt ।।

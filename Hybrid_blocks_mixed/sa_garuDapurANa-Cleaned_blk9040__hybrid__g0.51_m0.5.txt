@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9040 | label: hybrid | g:0.51 m:0.5 ---
+
+sapiṇḍanaṃ kimarthaṃ ca pūrṇe saṃvatsare api vā ।
+pretasya melanaṃ sārdhaṃ kaiḥ samaṃ tatra ko vidhiḥ ।।

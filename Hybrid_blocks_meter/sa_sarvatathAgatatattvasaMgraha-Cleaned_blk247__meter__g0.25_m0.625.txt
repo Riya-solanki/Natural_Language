@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 247 | label: meter | g:0.25 m:0.625 ---
+
+vajradharma sutatvārtha vajrapadma suśodhaka ।
+lokeśvara suvajrākṣa vajranetra namo astu te ।।

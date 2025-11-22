@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1908 | label: hybrid | g:0.389 m:0.521 ---
+
+yāni dyanti galād adhaḥ sukṛtino lomnāṃ ca teṣāṃ sthitiṃ
+yāny ūrdhvaṃ paripoṣayanti puruṣās teṣāṃ muhuḥ khaṇḍanam ।
+kṛtvā sarva-jagad-viruddha-vidhinā sañcāriṇāṃ mādṛśāṃ
+śrī-gītā ca harītakī ca harato hantopabhogyaṃ vayaḥ ।।

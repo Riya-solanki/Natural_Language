@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1176 | label: grammar | g:0.604 m:0.5 ---
+
+[] tad evaṃ sa ca samātmane tiṣṭhamānā goṣṭha-ramaṇīr nirīkṣya kṣaṇa-katipayaṃ tal-lakṣmī-niṣṭha-manā āsīt ।

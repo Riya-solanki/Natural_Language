@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 544 | label: meter | g:0.185 m:0.509 ---
+
+{neyārtham}
+{nirūḍhā lakṣaṇāḥ kāścit sāmarthyāt abhidhānavat ।
+kriyante sāṃprataṃ kāścit kāścinnaiva tvaśaktitaḥ ।।}

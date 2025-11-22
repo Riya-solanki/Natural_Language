@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2971 | label: meter | g:0.194 m:0.625 ---
+
+dhāvanaṃ valganaṃ rodham aṅkuśasthānam āśritaḥ 
+muṣalatve sthito nādo rekhākārordhvagaḥ priye ।।

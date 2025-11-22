@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 475 | label: grammar | g:0.75 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-tataś ca smita-sambhramādara-bhara-karbūritaiḥ sarvair vanditayā nanditayā ca tayā satvarayā paliknī-varayā sa-nijāṅga-jāta eva bhavān maṅgala-saṅgī bhūyād ity apūrvāṃ sukha-pūrvāṃ vācaṃ procya rocanā-kuṅkuma-saṅga-lepa-saṅkula-sad-aṅkura-phala-maṅgale śrīmad-vraja-rājasya kṣemaṅkara-karayor vinyaste tena vilokita-kalpaḥ śrīmān upanandaḥ sānandaṃ jalpati sma-iha dohāya saṃhāya raṃhasāyamānā dhenu-saṅghāḥ kām apy avihāya drutam asyāḥ sagṛhāya vihāpyantām ।

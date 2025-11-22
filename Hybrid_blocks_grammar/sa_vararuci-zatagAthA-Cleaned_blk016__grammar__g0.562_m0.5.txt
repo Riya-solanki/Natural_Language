@@ -1,0 +1,5 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 16 | label: grammar | g:0.562 m:0.5 ---
+
+kusumastabakasyeva dve gatī tu mahātmanām । mūdhni vā sarvalokasya śīryate vana eva vā ।। । 
+vāṇi kaṭhorā bhaṇitā hi duṣṭairyā sarparūpā sujanān hinasti ।
+te bheṣajaṃ kṣāntimayaṃ ca prajñāṃ saṃsevya cintārahitā bhavanti ।।

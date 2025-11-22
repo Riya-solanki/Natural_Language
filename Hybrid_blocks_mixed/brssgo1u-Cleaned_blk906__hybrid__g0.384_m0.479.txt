@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 906 | label: hybrid | g:0.384 m:0.479 ---
+
+astyatra pratijñā aātmani vijñāte sarvamidaṃ vijñātaṃ bhavati' aidaṃ sarvaṃ yadayamātmā' iti ca ।
+tasyāḥ pratijñāyāḥ siddhiṃ sūcayatyetalliṅgaṃ yatpriyasaṃsūcitasyātmano draṣṭavyatvādisaṃkīrtanam ।
+yadi hi vijñānātmā paramātmano anyaḥ syāttataḥ paramātmavijñāne api vijñānātmā na vijñāta ityekavijñānena sarvavijñānaṃ yatpratijñātaṃ taddhīyeta ।
+tasmātpratijñāsiddhyarthaṃ vijñānātmaparamātmanorabhedāṃśenopakramaṇamityāśmarathya ācāryo manyate ।।

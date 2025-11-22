@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 477 | label: meter | g:0.25 m:0.5 ---
+
+yatra sarvaṃ yataḥ sarvam utpannaṃ matpuraḥsaram 
+sarvabhūtaś ca yo devaḥ parāṇām api yaḥ paraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2412 | label: meter | g:0.381 m:0.774 ---
+
+tathā ca rakṣā kapinā kṛtā bhīru nirantaraiḥ ।
+latāpāśairmahāyantramadhastād duṣṭabuddhinā ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5139 | label: meter | g:0.194 m:0.5 ---
+
+kṣiptaḥ samudre matsyena nigīrṇas te vaśaṃ gataḥ 
+nararatnam idaṃ subhru visrabdhā paripālaya ।।

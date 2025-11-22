@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1876 | label: grammar | g:0.562 m:0.5 ---
+
+yathā bāla-rāmāyaṇe saptamāṅkasyādau, vaitālikaḥ-bhadra candana-caṇḍa parityaja nidrā-mudrām । vimuñca nijoṭajābhyantaram ।

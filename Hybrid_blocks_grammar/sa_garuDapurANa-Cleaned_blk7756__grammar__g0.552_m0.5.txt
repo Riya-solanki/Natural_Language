@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7756 | label: grammar | g:0.552 m:0.5 ---
+
+mayā na dattaṃ na hutaṃ hutāśane tapo na taptaṃ himaśailagahvare ।
+na sevitaṃ gāṅgamaho mahājalaṃ śarīra he nistara yattvayā kṛtam ।।

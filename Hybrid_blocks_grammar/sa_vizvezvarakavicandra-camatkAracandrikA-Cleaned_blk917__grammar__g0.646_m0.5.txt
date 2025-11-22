@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 917 | label: grammar | g:0.646 m:0.5 ---
+
+atra bhobho viśvaṃbharāmarāḥ kimanenaiva vitaraṇaśālinā nāyakena garvāyadhve । diviṣadāṃ punaranekasantatikalpavṛkṣādayo dātāra ityupamānotkarṣādiyamutkarṣavatī prapañcoktirnāma sāmyabhaktiḥ ।

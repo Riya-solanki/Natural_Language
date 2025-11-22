@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10251 | label: meter | g:0.326 m:0.5 ---
+
+śāstrajñānānnāśameti hyavidyā na saṃśayo hariṇā caikyameti ।
+evaṃ brūṣe yadi vādatkhagendra vakṣyehaṃ te tatra yuktiṃ śṛṇu tvam ।।

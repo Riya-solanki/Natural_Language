@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1541 | label: meter | g:0.217 m:0.799 ---
+
+yathottaraṃ cet pūrvasya pūrvasyārthasya hetutā ।
+tadā kāraṇamālā syāt

@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 299 | label: meter | g:0.401 m:0.654 ---
+
+tadidamasaṃbaddham ।
+na hi saṃdigdhe jīvane bahirbhāvaḥ śakyate kalpayitum ।
+kathaṃ hi jīvati vā mṛto devadattaḥ iti saṃdihānastasya bahirbhāvaṃ kalpayet ।
+na hi bhāvābhāvasaṃśayasya

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5391 | label: meter | g:0.25 m:0.625 ---
+
+bṛhatīkasya vai mūlaṃ saṃpiṣṭamudakena ca ।
+pītaṃ saṃghātavātasya vipāṭanakṛdeva ca ।।

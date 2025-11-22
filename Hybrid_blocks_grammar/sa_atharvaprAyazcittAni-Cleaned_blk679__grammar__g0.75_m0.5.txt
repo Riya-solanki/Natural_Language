@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 679 | label: grammar | g:0.75 m:0.5 ---
+
+yo naḥ sanutyo abhidāsad agne yo antaro mitramaho vanuṣyāt । tam ajarebhir vṛṣabhis tava svais tapā tapiṣṭha tapasā tapasvān ।

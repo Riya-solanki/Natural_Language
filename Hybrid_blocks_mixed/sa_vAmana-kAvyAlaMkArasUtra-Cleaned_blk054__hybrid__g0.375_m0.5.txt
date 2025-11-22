@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 54 | label: hybrid | g:0.375 m:0.5 ---
+
+atra śabdasya pādapūraṇārthameva prayogaḥ । na vākyālaṅkārārtham vākyālaṅkāraprayojanaṃ tu nānarthakam । apavādārthamidam । yathā

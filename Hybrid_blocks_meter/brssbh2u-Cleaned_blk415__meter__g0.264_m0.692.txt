@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 415 | label: meter | g:0.264 m:0.692 ---
+
+vipratiṣedhaścāsmiñchāstre bahuvidha upalabhyate guṇaguṇitvakalpanādilakṣaṇaḥ ।
+jñānaiśvaryaśaktibalavīryatejāṃsi guṇāḥ, ātmāna evaite bhagavanto vāsudevā ityādidarśanāt ।
+vedavipratiṣedhaśca bhavati ।
+caturṣu vedeṣu paraṃ śreyo alabdhvā śāṇḍilya idaṃ śāstramadhigatavānityādivedanindādarśanāt ।
+tasmādasaṃgataiṣā kalpaneti siddham ।।

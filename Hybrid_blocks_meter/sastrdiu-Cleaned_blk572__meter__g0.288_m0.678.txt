@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 572 | label: meter | g:0.288 m:0.678 ---
+
+nanvātmajñānaṃ kratvartham ।
+satyam ।
+puruṣārthamapi ca tat saṃyogabhedāt ।
+yattāvat avināśī vā are ayamātmā ityādinā śarīrādvyatiriktanityātmasvarūpasadbhāvajñānaṃ

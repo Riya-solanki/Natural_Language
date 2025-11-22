@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 467 | label: meter | g:0.25 m:0.75 ---
+
+nanvasadāropeṇāpi stutisaṃbhavānna mūlaśrutyapekṣetyāśaṅkyāha-yadyapi stutiriti ।
+tathāpītipadamarthataḥ paṭhati-stutitvamapīti ।
+dyumūrdhatvādirūpeṇa stutirnaramātreṇa kartumaśakyā vinā śrutimityarthaḥ ।
+satā rūpeṇa stuti saṃbhavānnāsadāropa iti bhāvaḥ ।।

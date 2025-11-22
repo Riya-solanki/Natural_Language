@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 754 | label: grammar | g:0.532 m:0.379 ---
+
+guṇo yaṅlukoḥ ।।
+abhyāsasya guṇo yaṅi yaṅluki ca parataḥ । ṅidantatvādātmanepadam । punaḥ punaratiśayena vā bhavati bobhūyate । abobhūyiṣṭa ।।

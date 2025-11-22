@@ -1,0 +1,6 @@
+--- source: brssbh3u-Cleaned.txt | block: 675 | label: meter | g:0.308 m:0.502 ---
+
+sarvathāpyāśramakarmapakṣe vidyāsahakāritvapakṣe ca ta evāgnihotrādayo dharmā anuṣṭoyāḥ ।
+ta evetyavadhārayannācryaḥ kiṃ nivartayati ।
+karmabhedaśah kāmiti brūmaḥ ।
+yathā kuṇḍapāyināmayane amāsamagnihotraṃ jihoti' ityatra nityādagnihotrātkarmāntaramupadiśyate naivamiha karmabhedo astītyarthaḥ ।

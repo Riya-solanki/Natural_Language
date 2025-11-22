@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 304 | label: hybrid | g:0.455 m:0.5 ---
+
+saci kāyacittavacasā ca parākrameyyā paripācayitva jagatī kariṣyāmi artham 
+kausīdyaprāpta bhavatī sthitu ātmasaṃjñaiḥ nairātmabhāvanavidūri nabhaṃ va bhūmeḥ ।।

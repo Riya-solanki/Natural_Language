@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 129 | label: grammar | g:0.667 m:0.5 ---
+
+japtaṃ dattaṃ hutaṃ snātaṃ tathā pūjā kṛtā hareḥ tat sarvaṃ vilayaṃ yāti tamaḥ sūryodaye yathā ।।

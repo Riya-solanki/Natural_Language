@@ -1,0 +1,5 @@
+--- source: bhveni_u-Cleaned.txt | block: 880 | label: meter | g:0.278 m:0.505 ---
+
+dhṛtarāṣṭraḥ
+duryodhanaṃ pariṣvajya
+vatsa samāśvasihi samāśvāsaya cāsmānimāmatidīnāṃ mātaraṃ ca ।

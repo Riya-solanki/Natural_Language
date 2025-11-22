@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3410 | label: grammar | g:0.562 m:0.5 ---
+
+yataś ca vṛṣabhakakutsthena rājñā niṣūditam asurabalam ataś cāsau kakutsthasaṃjñām avāpa ।।

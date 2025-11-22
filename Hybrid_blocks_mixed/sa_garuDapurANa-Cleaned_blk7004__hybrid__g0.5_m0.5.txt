@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7004 | label: hybrid | g:0.5 m:0.5 ---
+
+sūrye hṛdvyomni vahnau ca jyotirekaṃ tridhā sthitam ।
+yathā sarpiḥ śīrasthaṃ gavāṃ na kurute balam ।।

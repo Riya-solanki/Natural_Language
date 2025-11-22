@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 184 | label: hybrid | g:0.476 m:0.5 ---
+
+bījaṃ pratītya ca bhavedyavaśālikādes tattatphalaṃ na ca tadasti na cāpi nāsti 
+utpattito bhavati bodhiriyaṃ jinānāṃ bhāvasvabhāvavigatā bhavatīha māyā ।।

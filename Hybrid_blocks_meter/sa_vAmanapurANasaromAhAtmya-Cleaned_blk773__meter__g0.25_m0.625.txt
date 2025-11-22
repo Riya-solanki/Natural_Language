@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 773 | label: meter | g:0.25 m:0.625 ---
+
+yatra devāḥ samāgamya śivadarśanakāṅkṣiṇaḥ ।
+samāgatā na cāpaśyan devaṃ devyā samanvitam ।।

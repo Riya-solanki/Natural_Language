@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1151 | label: meter | g:0.306 m:0.625 ---
+
+sarvānayopadravahetubhūtāḥ kāmāḥ khalīkārakarā narāṇām ।
+jugupsitāś caiva bhayāvahāś ca purīṣadigdhā iva kṛṣṇasarpāḥ ।।

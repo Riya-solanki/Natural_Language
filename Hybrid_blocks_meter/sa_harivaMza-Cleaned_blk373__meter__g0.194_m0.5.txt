@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 373 | label: meter | g:0.194 m:0.5 ---
+
+sa lebhe karmaṇā tena śubhena paramadyutiḥ 
+pitṝṇām ādhipatyaṃ ca lokapālatvam eva ca ।।

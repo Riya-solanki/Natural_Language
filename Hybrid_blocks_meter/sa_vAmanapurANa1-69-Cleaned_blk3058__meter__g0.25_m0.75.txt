@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3058 | label: meter | g:0.25 m:0.75 ---
+
+jagmuste śubhalokāni mahābhogāni nārada ।
+yatra kāmadudhā gāvaḥ sarvakāmaphaladrumāḥ ।।

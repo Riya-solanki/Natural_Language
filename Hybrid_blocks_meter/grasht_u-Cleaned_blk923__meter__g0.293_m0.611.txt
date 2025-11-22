@@ -1,0 +1,7 @@
+--- source: grasht_u-Cleaned.txt | block: 923 | label: meter | g:0.293 m:0.611 ---
+
+??
+tālaśilāsarjikābhiḥ saindhavalavaṇena nayanahitasahitaiḥ ।
+ekaikaṃ sahitaṃ vā vedhaṃ dattvā punaḥ śulbe ।।
+chagaṇaṃ māhiṣatakraṃ snuhīkṣīreṇa sarpiṣā kramaśaḥ ।
+saguḍadugdhamadhuvimiśraiḥ kramaśo vedhe niṣekaśca ।।

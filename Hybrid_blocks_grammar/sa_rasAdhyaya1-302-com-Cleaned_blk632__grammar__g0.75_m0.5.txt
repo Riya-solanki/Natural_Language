@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 632 | label: grammar | g:0.75 m:0.5 ---
+
+prathamaṃ śuddhatāmrasya catvāri palāni pṛthag āvartayitvā tatastanmadhye thūthāpalāni catvāri catvāri mākṣīkapalānyevamaṣṭau palāni cūrṇīkṛtya stokena stokena kṣiptvā punaḥ punarāvartya tāvajjārayet ।।

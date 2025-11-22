@@ -1,0 +1,7 @@
+--- source: brssbh3u-Cleaned.txt | block: 638 | label: grammar | g:0.507 m:0.26 ---
+
+aatha ha yājñavalkyasya dve bhārye babhūvaturmaitreyī ca kātyayanī ca' apratardano ha vai daivodāsirindrasya priyaṃ dhāmopajagāma' ajānaśrutirha pautrāyaṇaḥ śraddhādeyo bahudāyī bahupākya āsa' ityevamādiṣu vedāntapaṭhiteṣvākhyāneṣu saṃśayaḥ - kimimāni pāriplavaprayogārthānyohosvitsaṃnihitavidyāpratipattyarthānīti ।
+pāriplavārthā imā ākhyānaśrutayaḥ ।
+ākhyānasāmānyāt ।
+ākhyānaprayogasya ca pariplave coditatvāt ।
+tataśca vidyāpradhānatvaṃ vedāntānāṃ na syāt, mantravatprayogaśeṣatvāditi cet ।

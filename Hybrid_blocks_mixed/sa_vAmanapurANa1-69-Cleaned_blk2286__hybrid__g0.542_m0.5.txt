@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2286 | label: hybrid | g:0.542 m:0.5 ---
+
+taṃ śaṅgaro abhyetya kare nigṛhya provāca vākyaṃ prahasan maharṣe ।
+kiṃ bhāvito nṛtyasi kena hetunā vadasva māmetya kimatra tuṣṭiḥ ।।

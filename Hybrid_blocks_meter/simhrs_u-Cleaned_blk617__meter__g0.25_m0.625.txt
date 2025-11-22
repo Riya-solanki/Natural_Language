@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 617 | label: meter | g:0.25 m:0.625 ---
+
+dāha-jvare tu ceṣṭāḥ syuḥ śīta-mālyādi-kāṅkṣaṇam ।
+pāṇi-pāda-parikṣepa-mukha-śoṣādayo' pi ca ।।

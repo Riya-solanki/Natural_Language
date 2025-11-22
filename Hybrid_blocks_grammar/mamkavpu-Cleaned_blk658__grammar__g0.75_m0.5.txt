@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 658 | label: grammar | g:0.75 m:0.5 ---
+
+atra dṛśāmiti bahuvacanaṃ nirarthakam kuraṅgekṣaṇāyā ekasyā evopādānāt । na cālasavalitairityādivat vyāpārabhedādbahutvam vyāpārāṇāmanupāttatvāt । na ca vyāpāretra dṛkśabdo vartate । atraiva akurute a; ityātmanepadamapyanarthakam । pradhānakriyāphalasya kartrasaṃbandhe kartrabhiprāyakriyāphalābhāvāt ।।

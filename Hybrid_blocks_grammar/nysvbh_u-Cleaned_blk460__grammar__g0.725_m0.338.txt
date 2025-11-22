@@ -1,0 +1,16 @@
+--- source: nysvbh_u-Cleaned.txt | block: 460 | label: grammar | g:0.725 m:0.338 ---
+
+ādiḥuyoniḥukāraṇam ādīyate asmāditi kāraṇavad anityaṃ dṛṣṭam saṃyogavibhāgajaśca śabdaḥ kāraṇavattvādanitya iti।
+kā punariyam arthadeśānā akāraṇavattvāt' iti ?, utpattidharmakattvādanityaḥ śabda iti bhūtvā na bhavati vināśadharmaka iti।
+sāṃśayikametat kimutpattikāraṇaṃ saṃyogavibhāgau śabdasya ? āhosvidabhivyaktikāraṇam? ityata āha aindriyakatvāt indriyapratyāsattigrāhya aindriyakaḥ।
+kimayaṃ vyañjakena samānadeśo abhivyajyate rūpādivat ? atha saṃyogajācchabdācchabdasaṃtāne sati śrotrapratyāsanno gṛhyate ? iti saṃyoganivṛttau śabdagrahaṇānna vyañjakena samānadeśasya grahaṇam।
+dāruvraścane dāruparaśusaṃyoganivṛttau dūrasthena śabdo gṛhyate na ca vyañjakābhāve vyaṅgyagrahaṇaṃ bhavati tasmānna vyañjakaḥ saṃyogaḥ, utpādake tu saṃyoge saṃyogajācchabdācchabdasantāne sati śrotrapratyāsannasya grahaṇamiti yuktaṃ saṃyoganivṛttau śabdasya grahaṇamiti।
+itaścaśabda utpadyate nābhivyajyate kṛtakavadupacārātu atīvraṃ mandam' iti kṛtakamupacaryate atīvraṃ sukhaṃ mandaṃ sukham tīvraṃ duḥkhaṃ mandaṃ duḥkham' iti upacaryate ca atīvraḥ śabdo mandaḥ śabdaḥ' iti।
+vyañjakasya tathābhāvād grahaṇasya tīvramandatā rūpavaditi cet ? na abhibhavopapatteḥ।
+saṃyogasya vyañjakasya tīvramandatayā śabdagrahaṇasya tīvramandatā bhavati na tu śabdo bhidyate yathā prakāśasya tīvramandatayā rūpagrahaṇasyeti, tacca naivam abhibhavopapatteḥu tīvro bherīśabdo mandaṃ tantrīśabdam abhibhavati na mandaḥ, na ca śabdagrahaṇamabhibhāvakaṃ śabdaśca na bhidyate, śabde tu bhidyamāne yukto abhibhavaḥ tasmādutpadyate śabdo nābhivyajyate iti।
+abhibhavānupapattiśyaca vyañjakasamānadeśasyābhivyaktau prāptyabhāvāt।
+avyañjakena samānadeśo abhivyajyate śabdaḥ' ityetasmin pakṣe nopapadyate abhibhavaḥ na hi bherīśabdena tantrīsvanaḥ prāpta iti।
+aprāpte abhibhava iticet ? śabdamātrābhibhavaprasaṅgaḥ।
+artha manyeta aasatyāṃ prāptāvabhibhavo bhavatīti, evaṃ sati yathā bherīśabdaḥ kañcit tantrīsvanamabhibhavati evamantikasthopādānāniva davīyaḥsthopādānānapi tantrīsvanānabhibhavet aprāpteraviśeṣāt tatra kvacideva bheryā praṇāditāyāṃ sarvalokeṣu samānakālāstantrīsvanā na śrūyeran iti।
+nānābhūteṣu śabdasantāneṣu satsu śrotrapratyāsattibhāvena kasyacicchabdasyautīvreṇa mandasyābhibhavo yukta iti।
+kaḥ punarayamabhibhavo nāma ?, grāhyasamānajātīyagrahaṇakṛtamagrahaṇam abhibhavaḥ yatholkāprakāśasya grahaṇārhasyādityaprakāśeneti ।।

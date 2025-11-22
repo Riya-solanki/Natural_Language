@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1397 | label: meter | g:0.25 m:0.5 ---
+
+asevanā cātyupasevanā ca yācñābhiyogāśca dahanti maitrīm ।
+rakṣyaṃ yataḥ prītyavaśeṣametannivāsadoṣāditi yāmi tāvat ।।

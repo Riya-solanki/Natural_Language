@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 82 | label: hybrid | g:0.25 m:0.425 ---
+
+nityaṃ ca pūrvāparībhūtā bhāvanākhyātenocyate ।
+tatra yadi pratyayāntaraṃ prayujyeta, tataḥ karotibhāvayatibhyāṃ dravyavad upasaṃhṛtarūpocyamānā naivākhyātasadṛśī kathyeta ।
+tasmād avaśyaṃ tiṅ api prayoktavya iti ।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 242 | label: grammar | g:0.667 m:0.5 ---
+
+[] tad evaṃ sthiteṣu ca śrī-rādhikāyās tu sarvato' py āḍhya-kulīnāś chrīmad-vṛṣabhānutayā labdha-khyātikān mahā-gopa-payonidher janma sammatam ।

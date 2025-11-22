@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 100 | label: meter | g:0.333 m:0.716 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+iti rudrābjajo viṣṇoḥ śuśrāva brahmaṇo muniḥ ।
+vyāso vyāsādahaṃ vakṣyehaṃ te śaunaka naimiṣe ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1172 | label: meter | g:0.25 m:0.5 ---
+
+trilokavijayāṃ badhvā yasya bimbaṃ samākramet ।
+vāmapādena taṃ satvaṃ māsādardhena siddhyati ।।

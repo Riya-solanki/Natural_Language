@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1487 | label: meter | g:0.194 m:0.75 ---
+
+lambas tu lambameghābhaḥ pralambāmbarabhūṣaṇaḥ 
+daityavyūhagato bhāti sanīhāra ivāṃśumān ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 284 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha vṛndāpi tathā viśvasatī niśvasatī ca vitrāsa-rahitā dvitrāho-rātrān gamayāmāsa । dināntare tu tāsām udvāha-nirvāham ākarṇya vivarṇa-vadanā paurṇamāsy-abhyarṇaṃ punar api tūrṇam upasthānā mṛtaka-pratīkā tasthau ।

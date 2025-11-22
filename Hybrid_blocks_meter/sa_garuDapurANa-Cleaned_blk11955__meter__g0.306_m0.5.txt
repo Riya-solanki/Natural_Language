@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11955 | label: meter | g:0.306 m:0.5 ---
+
+buddhyāharadvai rāṣṭrajātaṃ ca sarvaṃ dhṛtaṃ tvato budhasaṃjñāmavāpa ।
+evaṃ cābhūdabhimanyurmahātmā subhadrāyā jaṭhare hyarjunācca ।।

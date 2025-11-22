@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2241 | label: grammar | g:0.708 m:0.5 ---
+
+athātra mahāmaṇḍale ākarṣaṇādividhivistaraṅkṛtvā, yathāvat praveśyaivaṃ brūyāt "na tvayedaṃ kasyacid vaktavyaṃ; mā te mahāduḥkhaṃ [bhaved, akāla]maraṇaṃ viṣamakriyaye" ti ।

@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 151 | label: meter | g:0.246 m:0.806 ---
+
+kākamācīrasenaivaṃ devadālīrasena ca 
+śuṣkaṃ śuṣkaṃ punaḥ kṣuṇṇaṃ saṃmardyāmardya śoṣayet ।।

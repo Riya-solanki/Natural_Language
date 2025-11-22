@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 622 | label: hybrid | g:0.25 m:0.475 ---
+
+nāmaitadvāridhārābhiḥ snāto daṣṭo viṣaṃ tyajet ।
+oṃ pakṣi svāhā ।।

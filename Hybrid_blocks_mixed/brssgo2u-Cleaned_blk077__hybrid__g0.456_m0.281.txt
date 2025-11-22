@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 77 | label: hybrid | g:0.456 m:0.281 ---
+
+brahma jagadupādānamiti bruvan vedāntasamanvayo viṣayaḥ ।
+sa kiṃ yadvibhu tanna dravyopādānamiti vaiśeṣikādinyāyena virudhyate na veti saṃdehe sāṃkhyavṛddhānāṃ tarkākuśalamatitve api vaiśeṣikādīnāṃ tarkamatikuśalatvaprasiddhestadīyanyāyasyābādhitatvādvirudhyata iti pratyudāharaṇena prāpte atidiśati-eteneti ।
+phalaṃ pūrvavat ।
+nanu sāṃkhyamatasyopadeśastārkikamatasyātideśaḥ kimiti kṛto vaiparītyasyāpi saṃbhavādityāśaṅkya pūrvottarādhikaraṇayorupadeśātideśabhāve kāraṇamāha-vaidikasyeti ।

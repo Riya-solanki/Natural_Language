@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 860 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tataś ca tasyā dhammillād udvāsyānyasyā vinyastatve' pi tad-avasthatāyāṃ dṛśyamānāyāṃ sāścaryam iva nāry-arpitair manthana-netrair bahubhir api pāraṃ na vavrāja vrajeśvarī । tataś ca-

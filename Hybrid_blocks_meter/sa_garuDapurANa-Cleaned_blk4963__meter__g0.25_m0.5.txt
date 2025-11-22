@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4963 | label: meter | g:0.25 m:0.5 ---
+
+sthiracittaḥ svaraḥ sūkṣmaḥ prasannaḥ snigdhamūrdhajaḥ ।
+svapne jalaśilālokī śleṣma prakṛtiko naraḥ ।।

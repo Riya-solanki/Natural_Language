@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2743 | label: meter | g:0.25 m:0.5 ---
+
+yas tu samyak karoty evaṃ gṛhasthaḥ paramaṃ vidhim 
+sarvabandhavimukto asau lokān āpnoty anuttamān ।।

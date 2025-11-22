@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1812 | label: meter | g:0.0 m:0.75 ---
+
+anya-prasaṅgena prakṛtasya siddhir, yathā anargha-rāghave-

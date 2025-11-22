@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 501 | label: meter | g:0.333 m:0.5 ---
+
+[] snigdhakaṇṭhas tu vibhāvya punar āha sma-aho mahotsāha-svabhāvatādibhir virājamānatā śrīmad-vrajarājasya । yataḥ-

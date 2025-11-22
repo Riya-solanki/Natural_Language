@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 502 | label: hybrid | g:0.5 m:0.5 ---
+
+jñānadharmakāyaḥ asya jñānakāyasya svarūpam abhisamayālaṅkāre pañcabhiḥ kārikābhirupadarśitam ।

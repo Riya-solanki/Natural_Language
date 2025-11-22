@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 106 | label: hybrid | g:0.507 m:0.5 ---
+
+saṃkṣipyeran kṣaṇa iva kathaṃ dīrghayāmās triyāmāḥ sarvāvasthāsv ahar api kathaṃ mandamandātapaṃ syāt 
+itthaṃ cetaś caṭulanayane durlabhaprārthanaṃ me gāḍhoṣmābhiḥ kṛtam aśaraṇaṃ tvadviyogavyathābhiḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 81 | label: hybrid | g:0.5 m:0.5 ---
+
+[] ataḥ kāliya-niryāpana-phalaṃ tad idaṃ vṛttam āpātataḥ suduḥsaham apy āyatyāṃ pratyāpta-bahula-sukha-sahacaratayā varṇanam evāsmābhir ākarṇanīyam eva ca yuṣmābhir iti yācitvā sa-kampam uvāca-

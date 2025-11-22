@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2846 | label: meter | g:0.25 m:0.5 ---
+
+taccheṣaṃ maṇikebhyo atha parjanyebhyaḥ kṣipet tataḥ 
+dvāre dhātur vidhātuś ca madhye ca brahmaṇaḥ kṣipet ।।

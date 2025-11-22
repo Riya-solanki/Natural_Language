@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2809 | label: meter | g:0.194 m:0.625 ---
+
+antaḥprāṇyavapannāṃ ca halotkhātāṃ ca pārthiva 
+parityajen mṛdaś caitāḥ sakalāḥ śaucasādhane ।।

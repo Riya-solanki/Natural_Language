@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1273 | label: meter | g:0.25 m:0.5 ---
+
+yāś ca tāḥ śṛṇu kalyāṇi yeṣu yogasya sādhanam 
+tamo moho rajaḥ śokaś catuṣkaṃ kanyasādikam ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 118 | label: meter | g:0.194 m:1.0 ---
+
+{eddahamettatthaṇiā eddahamettehi acchivattehiṃ ।
+eddahamettāvatthā eddahamettehiṃ diaehiṃ ।।}
+[etāvanmātrastankā etāvanmātrābhyāmakṣipatrābhyām ।
+etāvanmātrāvasthā etāvanmātrairdivasaiḥ ।।]

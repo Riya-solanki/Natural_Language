@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 66 | label: hybrid | g:0.373 m:0.5 ---
+
+heyāṃśānām abhāvāc ca rasarūpaṃ bhavec ca tat । tvag
+bījaṃ caiva heyāṃśaṃ kaṭhināṃśaṃ ca yad bhavet । tat
+sarvaṃ bhautikaṃ viddhi na hi bhūtamayaṃ hi tat ।।

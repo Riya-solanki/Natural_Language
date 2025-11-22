@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1116 | label: meter | g:0.302 m:0.806 ---
+
+ātmendriyamanoyukto bhoktetyārmanīṣiṇaḥ ।
+yastu vijñāna bāhmena yuktena manasā sadā ।।

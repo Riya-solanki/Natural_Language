@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 919 | label: meter | g:0.0 m:0.75 ---
+
+athātmavatāṃ matvā [vā] svādhikāraṃ suduṣkaram 
+yaterannatmavattāyai deśikādyā jigīṣavaḥ ।। MT

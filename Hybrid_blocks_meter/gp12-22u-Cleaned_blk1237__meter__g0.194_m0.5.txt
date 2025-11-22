@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1237 | label: meter | g:0.194 m:0.5 ---
+
+he stoka-kṛṣṇa he aṃśo śrīdāman subalārjuna ।
+viśāla rṣabha tejasvin devaprastha varūthapa ।।[]

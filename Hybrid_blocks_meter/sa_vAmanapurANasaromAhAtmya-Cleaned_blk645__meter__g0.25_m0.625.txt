@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 645 | label: meter | g:0.25 m:0.625 ---
+
+kathaṃ rahodaro grastaḥ kathaṃ mokṣamavāptavān ।
+tīrthasya tasya māhātmyamicchāmaḥ śrotumādarāt ।।

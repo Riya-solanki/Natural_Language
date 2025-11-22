@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 797 | label: hybrid | g:0.5 m:0.5 ---
+
+[atha vā salliṅgādhikṛtaṃ] dāhabhaṅgasphuṭitādidoṣarahitaśreṣṭhaliṅgāśrayaṃ vā kṣetraṃ parigṛhya vaset।।

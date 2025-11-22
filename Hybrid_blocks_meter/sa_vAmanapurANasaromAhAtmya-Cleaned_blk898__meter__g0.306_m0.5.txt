@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 898 | label: meter | g:0.306 m:0.5 ---
+
+kiṃ vā śrameṇa mahatā na yūyaṃ vahanakṣamāḥ ।
+svecchayā pātitaṃ liṅgaṃ devadevena śūlinā ।।

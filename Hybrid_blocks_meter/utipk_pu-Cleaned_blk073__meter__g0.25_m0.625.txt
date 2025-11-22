@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 73 | label: meter | g:0.25 m:0.625 ---
+
+tattadākasmikābhāso bāhyaṃ ced anumāpayet ।
+na hy abhinnasya bodhasya vicitrābhāsahetutā ।।

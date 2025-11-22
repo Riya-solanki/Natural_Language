@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8254 | label: meter | g:0.25 m:0.5 ---
+
+prasādaṃ kuru me mohaṃ chettumarhasyaśeṣataḥ ।
+kāśyapo ahaṃ suraśreṣṭha vinatāgarbha saṃbhavaḥ ।
+yamalokaṃ kathaṃ yānti viṣṇulokaṃ ca mānavāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1015 | label: hybrid | g:0.542 m:0.5 ---
+
+saṃbodhaye kuruta vā sthiram apramādaṃ tūrṇaṃ ghaṭadhvam atha vā bhavasaṃkṣayāya ।
+etad dvayaṃ tu virahayya viśanty akāmā bhīmāny apāyavaḍavāmukhagahvarāṇi ।।

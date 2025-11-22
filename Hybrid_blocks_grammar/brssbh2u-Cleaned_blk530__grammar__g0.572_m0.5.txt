@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 530 | label: grammar | g:0.572 m:0.5 ---
+
+evaṃ prāpte abhidhīyate- jño nityacaitanyo ayamātmāta eva, yasmādeva notpadyate parameva brahmāvikṛtamupādhisaṃparkājjīvabhāvenāvatiṣṭhate ।
+parasya hi brahmaṇaścaitanyasvarūpatvamāmnātam- avijñānamānandaṃ brahma', asatyaṃ jñānamantaṃ brahma', aanantaro abāhyaḥ kṛtsnaḥ prajñānaghana eva', ityādiṣu śrutiṣu ।
+tadeva cetparaṃ brahma jīvastasmājjīvasyāpi nityacaitanyasvarūpatvamagnyauṣṇyaprakāśavaditi gamyate ।
+vijñānamayaprakriyāyāṃ ca śrutayo bhavanti- asuptaḥ asuptānabhicākaśīti' aatrāyaṃ puruṣaḥ svayañjyotirbhavati' iti, anahi vijñāturnirvijñāterviparilāpo vidyate' ityevaṃrūpāḥ ।
+aatha yo vededaṃ jighrāṇīti sa ātmā' iti ca sarvaiḥ karaṇadvārairidaṃ vededaṃ vedeti vijñānenānusaṃdhānāttadrūpatvasiddhiḥ ।

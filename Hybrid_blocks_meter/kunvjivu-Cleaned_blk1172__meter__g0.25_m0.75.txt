@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1172 | label: meter | g:0.25 m:0.75 ---
+
+sa lalitakusumapravālaśayyāṃ jvalitamahauṣadhidīpikāsanāthām ।
+vanarati rativāhayāṃbabhūva kvacidasametaparicchadastriyāmām ।।

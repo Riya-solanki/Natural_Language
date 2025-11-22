@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2043 | label: meter | g:0.328 m:0.595 ---
+
+divā yathā dīrptiṅkaraṃ tathaiva tamo avagāḍhāsvapi tanniśāsu ।
+vicitraratnadyuticārutoyā catuḥ samudrābharaṇopapannā ।।

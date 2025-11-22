@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2255 | label: meter | g:0.25 m:0.5 ---
+
+bho bho visṛjya śibikāṃ prasādaṃ kuru me dvija 
+kathyatāṃ ko bhavān atra jālmarūpadharaḥ sthitaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 600 | label: hybrid | g:0.495 m:0.54 ---
+
+atha saṃskārādhānaṃ tatrāpi traividhyaṃ- śabdasya vā saṃskāramādadhyuḥ kauṣṭhyā vāyavaḥ śrotrasya vā ubhayorvā ।
+śabdasya cet tasyaikatvātsarvagatatvādanavayavasaṃskārāyogāt srudhnasthairvāyubhiḥ saṃskṛtaḥ śabdaḥ pāṭaliputrepyupalabhyeta, tadidamuktaṃ- tatra sarvaiḥ pratīyeta ityādinā ।
+śrotrasaṃskārapakṣe apyayamevadoṣaḥ ।।

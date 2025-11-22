@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 959 | label: meter | g:0.194 m:0.625 ---
+
+tadā yaśodā-rohiṇyāv ekaṃ śakaṭam āsthite ।
+rejatuḥ kṛṣṇa-rāmābhyāṃ tat-kathā-śravaṇotsuke ।।[BhP ]

@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 358 | label: meter | g:0.25 m:0.625 ---
+
+ubhau yadi vyomni pṛthakpravāhāvākāśagaṅgāpayasaḥ pravāhau ।
+tenopamīyeta tamālanīlamāmuktamuktālatamasya vakṣaḥ ।।

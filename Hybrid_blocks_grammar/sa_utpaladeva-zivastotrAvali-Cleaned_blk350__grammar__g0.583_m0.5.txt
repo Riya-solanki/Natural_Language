@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 350 | label: grammar | g:0.583 m:0.5 ---
+
+duḥkhāgamo api bhūyān me tvadbhaktibharitātmanaḥ tvatparācī vibho mā bhūd api saukhyaparamparā ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1461 | label: meter | g:0.194 m:0.5 ---
+
+prajāpatīnāṃ dakṣaṃ tu vāsavaṃ marutām api 
+daityānāṃ dānavānāṃ ca prahlādam adhipaṃ dadau ।।

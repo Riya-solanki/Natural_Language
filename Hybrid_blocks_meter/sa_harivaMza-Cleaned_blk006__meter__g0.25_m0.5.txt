@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 6 | label: meter | g:0.25 m:0.5 ---
+
+tatra janma kurūṇāṃ vai tvayoktaṃ lomaharṣiṇe 
+na tu vṛṣṇyandhakānāṃ vai tad bhavān prabravītu me ।।

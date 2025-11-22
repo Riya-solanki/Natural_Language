@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 342 | label: meter | g:0.194 m:0.75 ---
+
+janasyendutviṣo nityam aśnato lākucaṃ phalam 
+nīlanīrajaramyasya ramyake dvādaśasthitiḥ ।।

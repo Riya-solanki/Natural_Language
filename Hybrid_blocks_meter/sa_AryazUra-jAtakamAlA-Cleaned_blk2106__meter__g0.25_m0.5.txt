@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2106 | label: meter | g:0.25 m:0.5 ---
+
+nṛpātmajā yaṅanimittamāhṛtā mayā ca ye bandhanakhedapīḍitāḥ ।
+hatatviṣaḥ śokaparītamānasāstadehi muñcāva sahaiva tānapi ।।

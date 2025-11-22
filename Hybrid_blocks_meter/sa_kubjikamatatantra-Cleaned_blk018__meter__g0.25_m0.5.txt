@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 18 | label: meter | g:0.25 m:0.5 ---
+
+uvāca bhagavān nāthaḥ prahasyemāṃ giraṃ śubhām 
+himavanta gire sādhu tuṣṭo ahaṃ tava klinnayā ।।

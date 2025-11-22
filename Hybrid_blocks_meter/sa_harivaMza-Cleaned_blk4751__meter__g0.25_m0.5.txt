@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4751 | label: meter | g:0.25 m:0.5 ---
+
+ātmānaṃ māṃ ca rakṣasva pramādāt kim upekṣase 
+vadhyatām ayam adyaiva na naḥ sarvān vināśayet ।। 
+anyāṃś ca śataśo hatvā uṣāṃ nītvā vrajiṣyati । 
+kumbhāṇḍavacanair evaṃ dānavendraḥ pracoditaḥ 
+vācaṃ rūkṣām abhikruddhaḥ provāca vadatāṃ varaḥ ।।

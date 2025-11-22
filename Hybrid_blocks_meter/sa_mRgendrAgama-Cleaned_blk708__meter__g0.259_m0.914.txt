@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 708 | label: meter | g:0.259 m:0.914 ---
+
+adhītya śṛṇuyācchāstraṃ gurutantro gurau vasan 
+tyaktvābhimānamātsaryaḍambhavyasanasantatim ।।

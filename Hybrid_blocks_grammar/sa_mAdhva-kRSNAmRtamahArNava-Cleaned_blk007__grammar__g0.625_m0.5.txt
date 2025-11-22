@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 7 | label: grammar | g:0.625 m:0.5 ---
+
+sa nāma sukṛtī loke kulaṃ tena hy alaṃkṛtam ādhāraḥ sarvabhūtānāṃ yena viṣṇuḥ prasāditaḥ ।।

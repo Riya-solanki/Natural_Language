@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 438 | label: meter | g:0.194 m:0.75 ---
+
+śaktyākramya jagatsūkṣmaṃ sūkṣmadehāṃśca cidvataḥ 
+prakṛtisthāśayān kālaṃ tatsvāpāntamupāsate ।।

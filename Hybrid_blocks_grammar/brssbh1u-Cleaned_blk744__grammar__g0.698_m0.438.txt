@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 744 | label: grammar | g:0.698 m:0.438 ---
+
+FN ajāmekāṃ- na jāyata ityajā tāṃ mulaprakṛtiṃ lohitaśuklakṛṣṇāṃ rajaḥsatvamoguṇāṃ sarūpāstriguṇātmikāḥ prajā janayantīṃ eko ajo jīvastāṃ śabdādiviṣayarūpatāpannāṃ juṣamāṇaḥ sannanuśete nirantaraṃ muhyati ।
+jīvena bhukto bhogo yasyāṃ yasyā vā tāṃ jīvena bhujyamānāmanyaḥ paramātmā jahāti nāsyāmāsaktiṃ karoti ।

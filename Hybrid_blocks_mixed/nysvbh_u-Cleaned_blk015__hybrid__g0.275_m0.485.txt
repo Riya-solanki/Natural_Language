@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 15 | label: hybrid | g:0.275 m:0.485 ---
+
+athāpi parapakṣapratiṣedhajñāpanaṃ prayojanaṃ bravīti, etadapi tādṛgeva।
+yo jñāpayati, yo jānāti, yena jñāpayate, yacca jñāpyate-etacca pratipadyate cadi, tadā vaitaṇḍikatvaṃ jahāti।
+atha na pratipadyate, parapakṣapratiṣedhajñāpanaṃ prayojanamityetadasya vākyamanarthakaṃ bhavati।

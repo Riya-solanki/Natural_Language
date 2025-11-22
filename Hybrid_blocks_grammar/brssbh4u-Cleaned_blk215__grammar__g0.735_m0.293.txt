@@ -1,0 +1,4 @@
+--- source: brssbh4u-Cleaned.txt | block: 215 | label: grammar | g:0.735 m:0.293 ---
+
+ye tāvat arcirādimārgāḥ te dehaviyogāt saṃpiṇḍitakaraṇagrāmā iti asvatantrā arcirādīnām api acetanatvāt asvātantryam iti ataḥ arcirādi abhimāninaḥ cetanā devatāviśeṣā atiyātrāyāṃ niyuktā iti gamyate ।
+loke api hi matta mūrcchitādayaḥ saṃpiṇḍitakaraṇāḥ paraprayuktavartmāno bhavanti ।

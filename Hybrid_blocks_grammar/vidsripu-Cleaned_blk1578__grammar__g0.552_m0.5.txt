@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1578 | label: grammar | g:0.552 m:0.5 ---
+
+gaccha trape virama dhairya dhiyaḥ kim atra mithyā viḍambayasi kiṃ puruṣābhimāna ।
+pradhvastasarvaguṇam arjitadoṣasainyaṃ dainyaṃ yad ādiśati tad vayam ācarāmaḥ ।।

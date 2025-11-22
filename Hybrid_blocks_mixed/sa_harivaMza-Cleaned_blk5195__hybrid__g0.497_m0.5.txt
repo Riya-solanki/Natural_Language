@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5195 | label: hybrid | g:0.497 m:0.5 ---
+
+vijayati vasudhāṃ ca kṣatravṛttir dhanam atulaṃ labhate dviṣajjayaṃ ca 
+vipulam api dhanaṃ labhec ca vaiśyaḥ sugatim iyāc chravaṇāc ca śūdrajātiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2971 | label: meter | g:0.306 m:0.5 ---
+
+tasmin hate bhrātari mādhavena jambhastataḥ krodhavaśaṃ jagāma ।
+krodhānvitaḥ śakramupādravad raṇe siṃhaṃ yataiṇo ativipannabuddhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2004 | label: meter | g:0.25 m:0.5 ---
+
+ṣaṭkoṭi śudvamamalaṃ sphuṭatīkṣṇadhāraṃ varṇānvitaṃ laghu supārśvamapetadoṣam ।
+indrāyudhāṃśuvisṛticchuritāntarikṣamevaṃvidhaṃ bhuvi bhavetsulabhaṃ na vajram ।।

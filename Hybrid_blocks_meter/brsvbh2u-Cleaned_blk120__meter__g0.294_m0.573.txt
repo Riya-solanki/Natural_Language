@@ -1,0 +1,10 @@
+--- source: brsvbh2u-Cleaned.txt | block: 120 | label: meter | g:0.294 m:0.573 ---
+
+samavāyābhyupagamācca sāmyādanavasthiteḥ ।
+vyācaṣṭesamavāyābhyupagamācceti ।
+na tāvat svatantraḥ samavāyo atyantaṃ bhinnaḥ samavāyibhyāṃ samavāyinau ghaṭayitumarhatyatiprasaṅgāt ।
+tasmādanena samavāyisaṃbandhinā satā samavāyinau ghaṭanīyau, tathā ca samavāyasya saṃbandhāntareṇa samavāyisaṃbandhe abhyupagamyamāne anavasthā ।
+athāsau saṃbandhibhyāṃ saṃbandhe na saṃbandhāntaramapekṣate saṃbandhisaṃbandhanaparamārthatvāt ।
+tathāhināsau bhinne api saṃbandhinirapekṣo nirūpyate ।
+na ca tasmin sati samabanghināvasaṃbanghinau bhavataḥ ।
+tasmāt svabhāvādeva samavāyaḥ samavāyinorna saṃbandhāntareṇeti

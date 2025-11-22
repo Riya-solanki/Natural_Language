@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2926 | label: meter | g:0.194 m:0.625 ---
+
+pālito guruputreṇa bhārgavo aṅgirasena vai 
+praviśya cāsurīṃ māyām anāvṛṣṭiṃ cakāra ha ।।

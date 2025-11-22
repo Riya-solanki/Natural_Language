@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1638 | label: meter | g:0.25 m:0.625 ---
+
+anyat prakurvataḥ kāryamaśakyasyānyavastunaḥ ।
+tathaiva karaṇaṃ ceti viśeṣastrividhaḥ smṛtaḥ ।।

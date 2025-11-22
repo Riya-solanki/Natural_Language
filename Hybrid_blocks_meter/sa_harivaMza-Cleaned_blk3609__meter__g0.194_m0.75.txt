@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3609 | label: meter | g:0.194 m:0.75 ---
+
+āgāvahaḥ pṛthuḥ kahvaḥ śatadyumno vidūrathaḥ 
+hṛṣīkeśaṃ puraskṛtya sainyasyārdhena daṃśitāḥ ।।

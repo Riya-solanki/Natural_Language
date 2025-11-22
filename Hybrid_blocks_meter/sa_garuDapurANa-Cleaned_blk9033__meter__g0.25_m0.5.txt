@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9033 | label: meter | g:0.25 m:0.5 ---
+
+deśame ahani yaḥ piṇḍastaṃ dadyādāmiṣeṇa tu ।
+piṇḍaṃ caikādaśe kasmād vṛṣotsargaḥ kathaṃ bhavet ।।

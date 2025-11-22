@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1502 | label: meter | g:0.217 m:0.845 ---
+
+sargasthityantakāleṣu tridhaivaṃ saṃpravartate 
+guṇapravṛttyā paramaṃ padaṃ tasyāguṇaṃ mahat ।।

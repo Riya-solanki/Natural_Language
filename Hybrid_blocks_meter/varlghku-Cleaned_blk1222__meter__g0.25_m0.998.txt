@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1222 | label: meter | g:0.25 m:0.998 ---
+
+dharmaṃ carati ।।
+dhārmikaḥ ।।

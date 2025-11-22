@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 739 | label: meter | g:0.194 m:0.5 ---
+
+karṇebhyo mahiṣīnāṃ ca malā grāhyāḥ samagrakāḥ 
+taiśca sampattido hīrān jātyān saṃveṣṭayet sudhīḥ ।।

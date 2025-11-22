@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1840 | label: grammar | g:0.646 m:0.5 ---
+
+atha khalvavalokiteśvaro bodhisatvo mahāsatvaḥ sarvarūpasaṃdarśanaṃ nāma samādhiṃ samāpadyedaṃ sarvajagadvinayasamayannāma svahṛdayamabhāṣat oṃ huṃ hrīḥ hoḥ ।।

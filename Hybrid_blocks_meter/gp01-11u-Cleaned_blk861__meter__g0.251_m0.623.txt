@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 861 | label: meter | g:0.251 m:0.623 ---
+
+tad-aṅge dvy-aṅgulābhāse sarve labdhāvakāśakāḥ ।
+dṛśyante sma vaṭās tatra vidūrādrau ghanā iva ।। [anuṣṭubh]

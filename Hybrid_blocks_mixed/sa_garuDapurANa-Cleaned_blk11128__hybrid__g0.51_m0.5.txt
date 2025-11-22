@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11128 | label: hybrid | g:0.51 m:0.5 ---
+
+gṛhaṃ madīyaṃ śatavarṣaṃ ca jīvetputrā madīyā śavatavarṣaṃ tathaiva ।
+ahaṃ ca jīve śatavarṣaṃ sukhena madīyabhāryāpi sulakṣaṇā'ste ।।

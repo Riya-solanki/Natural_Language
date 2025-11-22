@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2148 | label: meter | g:0.251 m:0.623 ---
+
+guruvac ca pramantavyaṃ vidyābodhaparaṃ gurum 
+na vinā ca guror vidyā na vidyārahito guruḥ ।।

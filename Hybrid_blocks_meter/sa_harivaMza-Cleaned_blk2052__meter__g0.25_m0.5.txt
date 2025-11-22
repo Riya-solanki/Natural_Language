@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2052 | label: meter | g:0.25 m:0.5 ---
+
+satām akrodhajo dharmaḥ śubhāṃ nayati sadgatim 
+yat tvayā nihato mohād dūṣitāś ca vanaukasaḥ ।।

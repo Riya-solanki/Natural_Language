@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 600 | label: meter | g:0.194 m:0.5 ---
+
+teṣāṃ lokaṃ visargaṃ ca kīrtayiṣyāmi tac chṛṇu 
+prabhāvaṃ ca mahattvaṃ ca vistareṇa tapodhana ।।

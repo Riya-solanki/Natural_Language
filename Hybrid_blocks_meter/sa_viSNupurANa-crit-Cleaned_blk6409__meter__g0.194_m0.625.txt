@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6409 | label: meter | g:0.194 m:0.625 ---
+
+tasyaiva kalpanāhīnaṃ svarūpagrahaṇaṃ hi yat 
+manasā dhyānaniṣpādyaṃ samādhiḥ so abhidhīyate ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1119 | label: meter | g:0.056 m:0.75 ---
+
+kṛṣṇaṃ madhye labdhavantaḥ sakhāyaḥ
+sarvaṃ tat tad vismarantaḥ sva-duḥkham ।
+tat-kāntīnāṃ santataṃ pātu-kāmās
+tasthur yadvat pūrṇa-candraṃ cakorāḥ ।। [śālinī]

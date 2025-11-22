@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 650 | label: grammar | g:0.583 m:0.5 ---
+
+athāsmin viniḥsṛtamātre bhagavān vajrapāṇiḥ punarapi sūkṣmajñānapraveśayogena sarvatathāgatakāyeṣu praviṣṭvā, hṛdaye vajrabimbāni bhūtvāvasthitāḥ ।

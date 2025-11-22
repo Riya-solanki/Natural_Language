@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 212 | label: hybrid | g:0.455 m:0.5 ---
+
+triapāyaprāptu supinasmi viditva sattvān praṇidheti tatkṣaṇa apāya ucchoṣayeyam 
+satyādhiṣṭhāni praśameti sa cāgniskandham avivartiyeti ayu vyākṛtu veditavyo ।।

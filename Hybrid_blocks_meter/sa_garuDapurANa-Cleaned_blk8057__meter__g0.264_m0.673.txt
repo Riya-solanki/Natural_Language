@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8057 | label: meter | g:0.264 m:0.673 ---
+
+śrīkṛṣṇa uvāca ।
+adhikāro yadā nāsti yadi nāsti ca niścayaḥ ।
+jīvite sati jīvāya dadyācchrāddhaṃsvayaṃ naraḥ ।।

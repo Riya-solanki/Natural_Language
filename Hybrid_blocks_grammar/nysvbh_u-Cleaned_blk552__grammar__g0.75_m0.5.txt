@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 552 | label: grammar | g:0.75 m:0.5 ---
+
+kuṇḍalarucakau suvarṇasya dharmauṃ na suvarṇatvasya evamikārayakārau kasya varṇātmano dharmauṃ ? varṇatvaṃ sāmānyaṃ na tasyemau dharmauṃ bhavitumarhataḥ, na ca nivartamāno dharma upajāyamānasya prakṛtiḥutatra nivartamāna ikāro na yakārasyopajāyamānasya prakṛtiriti ।।

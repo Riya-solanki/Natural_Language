@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4157 | label: meter | g:0.102 m:0.75 ---
+
+satyabhāmā punar veśma yadāvasata pāṇḍuram 
+vicitramaṇisopānaṃ tad vidur bhogavān iti 
+vimalādityavarṇābhiḥ patākābhir alaṃkṛtam ।।

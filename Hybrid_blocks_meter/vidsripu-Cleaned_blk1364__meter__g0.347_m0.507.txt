@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1364 | label: meter | g:0.347 m:0.507 ---
+
+niryantraṇaṃ yatra na vartitavyaṃ na moditavyaṃ praṇayātivāde ।
+viśaṅkitānyonyabhayaṃ sudūrān namaskriyām arhati sauhṛdaṃ tat ।।
+abhinandasya

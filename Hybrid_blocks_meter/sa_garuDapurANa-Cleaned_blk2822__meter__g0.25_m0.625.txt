@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2822 | label: meter | g:0.25 m:0.625 ---
+
+bandināṃ svarṇakārāṇāmannameṣāṃ kadācana ।
+na bhoktavyaṃ vṛthā māṃsaṃ keśakīṭasamanvitam ।।

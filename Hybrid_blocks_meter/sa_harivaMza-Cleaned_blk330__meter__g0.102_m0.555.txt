@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 330 | label: meter | g:0.102 m:0.555 ---
+
+sāvarṇā manavas tāta pañca tāṃś ca nibodha me 
+eko vaivasvatas teṣāṃ catvāraś ca prajāpateḥ 
+parameṣṭhisutās tāta merusāvarṇatāṃ gatāḥ ।।

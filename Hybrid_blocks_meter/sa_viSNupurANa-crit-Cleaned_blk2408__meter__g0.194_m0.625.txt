@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2408 | label: meter | g:0.194 m:0.625 ---
+
+viṣṇum ārādhya tapasā sa rājarṣiḥ priyavrataḥ 
+manvantarādhipān etāṃl labdhavān ātmavaṃśajān ।।

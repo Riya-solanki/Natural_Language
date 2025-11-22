@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10252 | label: hybrid | g:0.398 m:0.5 ---
+
+sarvajñarūpasya hi me murāreḥ kathaṃ harerghaṭate hyajñatā ca ।
+sūrye yathā tamo nāsti tathā nārāyaṇe harau ।
+ajñānaṃ nāsti pakṣīdra kathaṃ tatvaṃ bravīṣyaho ।।

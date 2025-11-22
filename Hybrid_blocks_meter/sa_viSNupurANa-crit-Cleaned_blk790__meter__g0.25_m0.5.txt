@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 790 | label: meter | g:0.25 m:0.5 ---
+
+dhruvāc chiṣṭiṃ ca bhavyaṃ ca bhavyāc chaṃbhur vyajāyata 
+śiṣṭer ādhatta succhāyā pañca putrān akalmaṣān ।।

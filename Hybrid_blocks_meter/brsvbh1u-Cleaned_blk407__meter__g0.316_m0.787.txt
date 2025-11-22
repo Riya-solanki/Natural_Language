@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 407 | label: meter | g:0.316 m:0.787 ---
+
+anyāśrayā tu kathamanyasyopakaroti, atiprasaṅgāt ।
+na hi darpaṇe nighṛṣyamāṇe maṇirviśuddho dṛṣṭaḥ ।
+taccāniṣṭamiti ।
+tadā bādhanaṃ

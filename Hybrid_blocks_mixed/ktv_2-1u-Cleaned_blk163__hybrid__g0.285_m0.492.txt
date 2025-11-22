@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 163 | label: hybrid | g:0.285 m:0.492 ---
+
+kiñ cāśritatvāt prayogasya iti ।
+adhunā śabdapratyāsattikṛto viśeṣo abhidhīyate ।
+puruṣavyāpārātmikāyāṃ hi bhāvanāyāṃ dhātvarthopaśleṣo api puruṣeṇāśritas tadatikramahetvabhāvāc ca na nāmapadagrahaṇam ।
+tasmād asti viśeṣaḥ ।

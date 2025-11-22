@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 271 | label: meter | g:0.338 m:0.815 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+bhūmiṣṭhe maṇḍape snātvā maṇḍale viṣṇumarcayet ।
+pañcaraṅgikacūrṇena vajranābhaṃ tu maṇḍalam ।।

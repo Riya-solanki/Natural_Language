@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 955 | label: meter | g:0.194 m:0.625 ---
+
+āropyānasi vṛddhādīn svayam ūḍha-śarāsanāḥ ।
+gauraveṇa gavāṃ gopā yayur vikramamāṇatām ।। [anuṣṭubh]

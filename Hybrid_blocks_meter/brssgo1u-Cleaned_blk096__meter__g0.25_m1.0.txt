@@ -1,0 +1,3 @@
+--- source: brssgo1u-Cleaned.txt | block: 96 | label: meter | g:0.25 m:1.0 ---
+
+anunapraveśo asaṃbandhaḥ ।

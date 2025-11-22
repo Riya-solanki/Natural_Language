@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1749 | label: meter | g:0.194 m:1.0 ---
+
+kriyāsuḥ kalyāṇaṃ bhujaga-śayanād utthitavataḥ
+kaṭākṣāḥ kāruṇya-praṇaya-rasa-veṇī-laharayaḥ ।
+harer lakṣmī-līlā-kamala-dala-saubhāgya-suhṛdaḥ
+sudhā-sāra-smerāḥ sucarita-viśeṣaika-sulabhāḥ ।।

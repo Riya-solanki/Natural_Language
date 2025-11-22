@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9253 | label: meter | g:0.25 m:0.692 ---
+
+śrīkṛṣṇa uvāca ।
+mriyamāṇasya kiṃ kṛtyamiti tvaṃ pṛṣṭavānasi ।
+śṛṇu tatrottaraṃ tūktaṃ kathayāmi samāsataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11218 | label: meter | g:0.306 m:0.5 ---
+
+yathā prasanno vandanāddevaddeva stathā na tuṣṭaḥ pūjanātkarmataśca ।
+yathā nāmasmaraṇādvandanādvā pāpānniyacchetu tathā na cānyaiḥ ।।

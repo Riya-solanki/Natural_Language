@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 518 | label: meter | g:0.25 m:0.5 ---
+
+rāmasya tanayo jajñe kuśa ity abhiviśrutaḥ 
+atithis tu kuśāj jajñe niṣadhas tasya cātmajaḥ ।।

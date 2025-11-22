@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 87 | label: meter | g:0.078 m:0.595 ---
+
+Q ā gopālāṅganābālamlecchāḥ prākṛtabhāṣiṇaḥ
+Q antarjalacarāḥ satvās te api nityaṃ bruvanti tam

@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 138 | label: grammar | g:0.583 m:0.5 ---
+
+brahmaṇo apy udbhavaḥ padmaś candraḥ śaṃbhuśirodhṛtaḥ tau tulyau tvanmukheneti sā praśaṃsopamocyate ।।

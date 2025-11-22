@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 676 | label: hybrid | g:0.386 m:0.497 ---
+
+[] tataś cātmano mahatā suprajastvena vraja-rājaḥ svāntar evam ātmānam āmantrya vadan nananda,
+"putro labdhaḥ sucirād iṣṭaḥ sa mahadbhir evam ādiṣṭaḥ ।
+asmāt pūrṇānandān manuṣva nanu nanda-pūrṇo' smi ।। [āryā]

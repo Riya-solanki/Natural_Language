@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2152 | label: meter | g:0.25 m:0.75 ---
+
+vicitravarṇasaṃsthānaṃ padmabimbaṃ tu lekhayet ।
+tatra bhāvayamānastu bahurūpadharo bhavet ।।

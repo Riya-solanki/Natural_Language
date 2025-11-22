@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 17 | label: grammar | g:0.524 m:0.355 ---
+
+syādetat ।
+naiva prāṇā dehāntarapratipattau saha jīvena gacchanti agnyādigatiśruteḥ ।
+tathāhi śrutirmaraṇakāle vāgādayaḥ prāṇā agnyādīndevāgacchatīti darśayati- ayatrāsya puruṣasya mṛtasyāgniṃ vāgapyeti vātaṃ prāṇaḥ' ityādineti cet ।

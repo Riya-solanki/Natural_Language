@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2590 | label: meter | g:0.25 m:0.625 ---
+
+parjanyaṃ tatra cāmantrya preṣayitvā mahāśrame ।
+saptagodāvare tīrthe pātālamagamat kapiḥ ।।

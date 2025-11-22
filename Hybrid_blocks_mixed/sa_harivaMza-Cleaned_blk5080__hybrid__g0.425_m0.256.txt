@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5080 | label: hybrid | g:0.425 m:0.256 ---
+
+aṭṭaśūlā janapadāḥ śivaśūlāś catuṣpathāḥ 
+pramadāḥ keśaśūlāś ca bhaviṣyanti yugakṣaye ।। 
+aṭṭam annam iti proktaṃ śūlo vikraya ucyate । catuṣpathā brāhmaṇa iti śivo veda udāhṛtaḥ । keśo bhaga iti khyāto rājan naivātra saṃśayaḥ । 
+sarve brahma vadiṣyanti sarve vājasaneyinaḥ 
+śūdrā bhovādinaś caiva bhaviṣyanti yugakṣaye ।।

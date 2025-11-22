@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 954 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tasyām eva niśāyāṃ candraśālikāyāṃ kṛta-śayanena kañja-nayanena tāsām aparāhnetanāpāṅga-sāṅga-śara-nikara-saṅga-labdha-bhaṅge hṛdi samutthita-vyathatayā jāta-niśītha-jāgaratāyām aviratāyāṃ tāsu nijānirvṛtiṃ vivṛtīkartuṃ tām iva ca tartuṃ purahara-kṛta-vitara-nava-muralīkalaḥ khuralībhiḥ kalayāmāse ।

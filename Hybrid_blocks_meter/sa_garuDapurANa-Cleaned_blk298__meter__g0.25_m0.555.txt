@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 298 | label: meter | g:0.25 m:0.555 ---
+
+guruḥ śiṣyaṃ samabhyarcya netre baddhe tu vāsasā ।
+devasya pramukhaṃ kṛtvā puṣpamevārpayettataḥ ।
+puṣpaṃ nipatitaṃ yatra mūrdhno devasya śārṅgiṇaḥ ।।

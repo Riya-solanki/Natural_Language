@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2841 | label: meter | g:0.194 m:0.625 ---
+
+dattvā kāmyodakaṃ samyag etebhyaḥ śraddhayānvitaḥ 
+ācamya ca tato dadyāt sūryāya salilāñjalim ।।

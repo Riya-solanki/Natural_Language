@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2887 | label: meter | g:0.25 m:0.625 ---
+
+sajraratnāṃ samādhāya lalāṭe tu pratiṣṭhitāṃ ।
+kṛtvā tu vajraratnebhyāmabhiṣikto jinerbhaved ।।

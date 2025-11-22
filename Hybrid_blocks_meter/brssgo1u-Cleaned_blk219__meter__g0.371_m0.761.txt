@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 219 | label: meter | g:0.371 m:0.761 ---
+
+itarā ānandamayo jīvo atra na pratipādyaḥ ।
+sarvasraṣṭṛtvādyanupapatterityarthaḥ ।
+bhedavyapadeśācca ।।

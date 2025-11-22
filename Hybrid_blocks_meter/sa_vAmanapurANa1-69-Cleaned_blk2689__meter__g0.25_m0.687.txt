@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2689 | label: meter | g:0.25 m:0.687 ---
+
+pulāstya uvāca ।
+haro api śambare yāte samāhūyātha nandinam ।
+prāhāmantraya śailāde ye sthitāstava śāsane ।।

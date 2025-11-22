@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 352 | label: meter | g:0.102 m:0.555 ---
+
+tato abhidhyāyatas tasya jajñire mānasāḥ prajāḥ 
+taccharīrasamutpannaiḥ kāryais taiḥ karaṇaiḥ saha 
+kṣetrajñāḥ samavartanta gātrebhyas tasya dhīmataḥ ।।

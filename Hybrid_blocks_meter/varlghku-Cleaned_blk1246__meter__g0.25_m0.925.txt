@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1246 | label: meter | g:0.25 m:0.925 ---
+
+tena krītam ।।
+saptatyā krītaṃ sāptatikam ।।

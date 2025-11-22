@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 334 | label: grammar | g:0.708 m:0.5 ---
+
+-atraivaṃ prayogaḥ-vedāntāḥ mānāntarasāpekṣāḥ, siddhavastuparatvāt, tīre bhalāni santīti puṃvākyavaditi । tatra pūrvavādyabhimatasya hetoḥ pauruṣeyatvena sopādhikatvaṃ apinā dyotyata ityāha-ayamabhisaṃdhiriti ।

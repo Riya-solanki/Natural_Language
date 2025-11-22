@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1771 | label: grammar | g:0.552 m:0.5 ---
+
+bhāgyāparādhajanito apyapamānayogaḥ saṃdṛśyate jagati tena na me atra cintā ।
+dūḥkhaṃ tu me yaducitābhigatesu vṛttirvācāpi na tvayi mayā kriyate yathārham ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1049 | label: meter | g:0.194 m:0.5 ---
+
+tasmai datto varān prādāc caturo bhūritejasaḥ 
+pūrvaṃ bāhusahasraṃ tu prārthitaṃ paramaṃ varam ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2187 | label: meter | g:0.295 m:0.874 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+himavatyuttaradeśe vīryaṃ patitaṃ suradviṣastasya ।
+saṃprāptamuttamānāmākaratāṃ bhīṣmaratnānām ।।

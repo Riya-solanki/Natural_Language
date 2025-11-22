@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1222 | label: meter | g:0.25 m:0.5 ---
+
+nirmālyaṃ nayana-śriyaḥ kuvalayaṃ vaktrasya dāsaḥ śaśī
+kāntiḥ prāvaraṇaṃ tanor madhumuco yasyāś ca vācaḥ kila ।
+viṃśatyā racitāñjaliḥ kara-puṭais tvāṃ yācate rāvaṇas
+tāṃ draṣṭuṃ janakātmajāṃ hṛdaya he netrāṇi mitrīkuru ।।

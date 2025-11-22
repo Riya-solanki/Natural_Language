@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 885 | label: grammar | g:0.625 m:0.5 ---
+
+atra vallītvenāropitasya kṛpāṇasya bhujagatayā rūpaṇādidaṃ rūpakarūpakaṃ nāma vikṛtaśabdapradhānarūpakam । tadetaccatuṣṭayamapi paraṃparādivaikṛtena nibaddhamiti vikṛtamityucyate ।

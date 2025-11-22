@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1200 | label: meter | g:0.25 m:0.75 ---
+
+so asya nivāsaḥ ।।
+srugghno nivāso asya sraugghnaḥ ।।

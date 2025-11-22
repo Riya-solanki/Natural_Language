@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8712 | label: meter | g:0.25 m:0.669 ---
+
+bhīṣma uvāca ।
+yenaiva jāyate preto yenaiva sa vimucyate ।
+prāpnoti narakaṃ ghoraṃ dustaraṃ daivatairapi ।।

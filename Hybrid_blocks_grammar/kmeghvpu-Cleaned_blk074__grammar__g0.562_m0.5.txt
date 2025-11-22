@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 74 | label: grammar | g:0.562 m:0.5 ---
+
+tanmadhye ca sphaṭikaphalakā kāñcanī vāsayaṣṭir mūle naddhā maṇibhir anatiprauḍhavaṃśaprakāśaiḥ ।
+tālaiḥ śiñjadvalayasubhagair nartitaḥ kāntayā me yām adhyāste divasavigame nīlakaṇṭhaḥ suhṛd vaḥ ।।

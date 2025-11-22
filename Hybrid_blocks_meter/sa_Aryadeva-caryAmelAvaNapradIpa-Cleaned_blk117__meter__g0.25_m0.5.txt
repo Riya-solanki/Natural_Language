@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 117 | label: meter | g:0.25 m:0.5 ---
+
+jñātvā tattvaṃ tataḥ kṛtvā bhaktibhāvamaharniśam ।
+tasmin paramanirvāṇe pade śānte hyanuttare ।।

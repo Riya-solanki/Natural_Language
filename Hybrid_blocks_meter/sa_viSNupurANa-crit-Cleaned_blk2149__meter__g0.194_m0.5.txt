@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2149 | label: meter | g:0.194 m:0.5 ---
+
+tailapīḍā yathā cakraṃ bhramanto bhrāmayanti vai 
+tathā bhramanti jyotīṃṣi vātaviddhāni sarvaśaḥ ।।

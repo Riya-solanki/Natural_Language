@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 81 | label: meter | g:0.056 m:0.853 ---
+
+śyāma-dhāma-suṣṭhu-rāmam etam atra sad-dhavam
+sindhu-tulyam uttaraṅgad-aṅgam āśu mādhavam ।
+pūrva-pūrva-bhinnayātir uttarāpta-saṅgatiḥ
+āpagāli-sammitāpa seyam āli-saṃhatiḥ ।। ।। [tūṇaka]

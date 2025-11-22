@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2961 | label: hybrid | g:0.257 m:0.469 ---
+
+jāyante lakṣaṇabhraṣṭā daridrāḥ puruṣādhamāḥ ।
+tato niṣkaluṣībhūtā kule mahati yoginaḥ ।।
+jāyante lakṣaṇopetā dhanadhānyasamanvitāḥ ।।
+iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktakarmavipākanirūpaṇaṃ nāma caturuttaraśatatamo adhyāyaḥ

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 604 | label: grammar | g:0.729 m:0.5 ---
+
+[] tataś ca, svapraśnottara-viṣayīkṛta-tad-viṣa-yoṣā-vṛtti-śeṣā rājñānujñāpayām babhūve pūrvavad apūrva-dānādy-apūrvāya । tac ca tām eva pradhānaṃ vidhāya vidhīyate sma iti ।

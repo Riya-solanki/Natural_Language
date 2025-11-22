@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 9 | label: grammar | g:0.594 m:0.5 ---
+
+āpṛcchasva priyasakham amuṃ tuṅgam āliṅgya śailaṃ vandyaiḥ puṃsāṃ raghupatipadair aṅkitaṃ mekhalāsu ।
+kāle kāle bhavati bhavatā yasya saṃyogam etya snehavyaktiś ciravirahajaṃ muñcato bāṣpam uṣṇam ।।

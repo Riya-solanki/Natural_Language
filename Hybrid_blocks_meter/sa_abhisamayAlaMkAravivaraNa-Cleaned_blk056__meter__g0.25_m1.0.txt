@@ -1,0 +1,6 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 56 | label: meter | g:0.25 m:1.0 ---
+
+bhūhemacandrajvalanairnidhiratnākarārṇavaiḥ ।
+vajrācalauṣadhīmitraiścintāmaṇyarkagītibhiḥ ।
+nṛpagañjamahāmārgayānaprasravaṇodakaiḥ ।
+ānandoktinadīmeghairdvāviṃśatividhaḥ sa ca ।।

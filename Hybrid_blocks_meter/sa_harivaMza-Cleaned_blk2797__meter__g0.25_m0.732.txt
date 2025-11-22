@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2797 | label: meter | g:0.25 m:0.732 ---
+
+jātapadmeṣu toyeṣu vāpīṣu ca saritsu ca 
+taḍāgeṣu ca kānteṣu toyeṣu vimaleṣu ca । 
+kalamāvanatāgrāsu pakvakedārapaṅktiṣu ।।

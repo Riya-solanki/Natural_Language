@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1390 | label: meter | g:0.316 m:0.5 ---
+
+tvadāśrayā kacidabhūtkathaiṣā saṃprastutā naḥ sadasi pragalbhaiḥ ।
+upekṣitā kāryavaśānmayā ca tatkṣamyatāṃ tiṣṭha ca sādhu mā gāḥ ।।

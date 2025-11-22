@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2955 | label: meter | g:0.246 m:0.806 ---
+
+śirādau sarva-m-aṅgeṣu aṅgapratyaṅgakeṣvapi 
+khaṭvāyate tu suśroṇi khaṭvāṅgī tena ucyate ।।

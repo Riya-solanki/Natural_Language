@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 837 | label: grammar | g:0.562 m:0.5 ---
+
+atra pārvatī-parameśvarayo ratiḥ śarīraikya-sambandhena yāvad-āśraya-vṛttiḥ anubhūta-sarva-rāgopaplavatayā sva-saṃvedya-daśā-prakāśita-nitya-bhoga-rūpā aśrānta-romāñcādibhir anubhāvair vyajyate ।

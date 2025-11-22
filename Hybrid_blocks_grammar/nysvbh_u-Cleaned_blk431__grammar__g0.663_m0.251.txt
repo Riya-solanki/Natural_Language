@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 431 | label: grammar | g:0.663 m:0.251 ---
+
+anupapannaḥ pratiṣedhaḥ।
+katham?, aāptopadeśaḥ śabdaḥ' iti na ca śabdalakṣaṇam aitihyād vyāvartate soyaṃ bhedaḥ sāmānyāt saṃgṛhyate iti।
+pratyakṣeṇāpratyakṣasya saṃbaddhasya prapittiranumānaṃ tathā cārthāpattisaṃbhavābhāvāḥ, vākyārthasaṃpratyayenānabhihitasyārthasya pratyakanīkabhāvād grahaṇam arthāpattiranumānameva, avinābhāvavṛttyā ca saṃbaddhayoḥ samudāyasamudāyinoḥ samudāyenetarasya grahaṇaṃ saṃbhavaḥ tadapyanumānameva, aasmin satīdaṃ nopapadyate' iti virodhitve prasiddhe kāryānutpattyā kāraṇasya pratibandhakamanumīyate।
+soyaṃ yathārtha eva pramāṇoddeśa iti asatyametāni pramāṇāni na tu pramāṇāntarāṇītyuktam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2757 | label: meter | g:0.306 m:0.5 ---
+
+iti saṃdiśya tāḥ sarvāḥ samāruhya vṛṣaṃ vibhuḥ ।
+nirjagāma gṛhāt tuṣṭo jayepsuḥ śūladhṛg balī ।।

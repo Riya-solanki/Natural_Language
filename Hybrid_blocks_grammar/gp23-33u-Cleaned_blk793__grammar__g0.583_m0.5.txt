@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 793 | label: grammar | g:0.583 m:0.5 ---
+
+[] tarhi kathaṃ tāsām apy anyāsām iva patitayā tat-sampatti-kāmanā-nikāmam antaranuvartata iti ?

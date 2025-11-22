@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7071 | label: meter | g:0.306 m:0.5 ---
+
+bodhamārge yathā cittaṃ sarveṣāṃ ca tathā mate ।
+sarvadā sarvabhūtānāṃ sarvasya ca mahāmune ।।

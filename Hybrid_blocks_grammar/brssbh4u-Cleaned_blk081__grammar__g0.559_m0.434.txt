@@ -1,0 +1,6 @@
+--- source: brssbh4u-Cleaned.txt | block: 81 | label: grammar | g:0.559 m:0.434 ---
+
+puṇyasya api aśleṣavināśayoḥ aghanyāyaḥ atidiṣṭaḥ saḥ atideśaḥ sarvapuṇyaviṣaya iti āśaṅkya prativakti - agnihotrādi tu iti ।
+tu śabda āśaṅkām upanudati ।
+yat nityaṃ karma vaidikam agnihotrādi tat tat kāryāya eva bhavati, jñānasya yatkāryaṃ tadeva asya api kāryam ityarthaḥ ।
+kutaḥ - atametaṃ vedānuvacanena brāhmaṇā vividiṣanti yajñena dānena' ityādidarśanāt ।

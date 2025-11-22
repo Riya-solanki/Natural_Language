@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1623 | label: meter | g:0.25 m:0.5 ---
+
+bhadrāśvaṃ pūrvato meroḥ ketumālaṃ ca paścime 
+varṣe dve tu muniśreṣṭha tayor madhyam ilāvṛtam ।।

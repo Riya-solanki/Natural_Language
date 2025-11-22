@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 793 | label: hybrid | g:0.542 m:0.5 ---
+
+nārāśaṃsā unnetād upadasyerann ayaṃ no agnir adhyakṣaḥ iti dvābhyāṃ ।

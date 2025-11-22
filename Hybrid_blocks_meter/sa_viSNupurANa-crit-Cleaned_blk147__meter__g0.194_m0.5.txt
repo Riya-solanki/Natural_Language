@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 147 | label: meter | g:0.194 m:0.5 ---
+
+kālasvarūpaṃ viṣṇoś ca yan mayoktaṃ tavānagha 
+tena tasya nibodha tvaṃ parimāṇopapādanam ।।

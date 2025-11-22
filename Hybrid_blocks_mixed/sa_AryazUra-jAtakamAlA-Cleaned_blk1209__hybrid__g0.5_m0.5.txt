@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1209 | label: hybrid | g:0.5 m:0.5 ---
+
+dahanamiva vijṛmbhamāṇaraudraṃ śamayati yo hṛdayajvaraṃ na roṣam ।
+laghurayamiti hīyate asya kīrtiḥ kumudasakhīva śaśiprabhā prabhāte ।।

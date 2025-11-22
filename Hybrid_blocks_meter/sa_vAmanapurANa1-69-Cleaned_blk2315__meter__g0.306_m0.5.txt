@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2315 | label: meter | g:0.306 m:0.5 ---
+
+na cāpi śaktaḥ prāptuṃ tāṃ bhavāñśailanṛpātmajām ।
+ajitvā sagaṇaṃ rudraṃ sa ca kāmo adya durlabhaḥ ।।

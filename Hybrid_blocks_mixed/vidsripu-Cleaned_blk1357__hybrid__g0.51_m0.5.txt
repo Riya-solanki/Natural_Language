@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1357 | label: hybrid | g:0.51 m:0.5 ---
+
+guṇakaṇikān api sujanaḥ śaśilekhām iva śivaḥ śirasi kurute ।
+candra iva padmalakṣmīṃ na kṣamate paraguṇaṃ piśunaḥ ।।

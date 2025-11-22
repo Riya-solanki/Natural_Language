@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 52 | label: grammar | g:0.635 m:0.5 ---
+
+veśyābhir vivaśīkṛtaḥ kupuruṣaḥ saṃjāyate durgato daurgatyena durodare nipatitaḥ svaṃ hārayaty eva sa ।
+ruddho dyūtakaraiḥ karoti vidhuraś cauryaṃ tatas taskaro vadhyaḥ syān nṛpater aho nu viṣayāsakter durantā gatiḥ ।।

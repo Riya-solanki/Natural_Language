@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3034 | label: meter | g:0.316 m:0.771 ---
+
+śrīgaruḍamahāpurāṇam- 
+yājñavalkya uvāca ।
+pretā śaucaṃ pravakṣyāmi tacchṛṇudhvaṃ yatavratāḥ ।
+ūnadvivarṣaṃ nikhanenna kuryādu dakaṃ tataḥ ।।

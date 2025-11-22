@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 543 | label: meter | g:0.194 m:0.5 ---
+
+māyayā mohayitvā tān viṣṇuḥ strīrūpam āsthitaḥ 
+dānavebhyas tad ādāya devebhyaḥ pradadau vibhuḥ ।।

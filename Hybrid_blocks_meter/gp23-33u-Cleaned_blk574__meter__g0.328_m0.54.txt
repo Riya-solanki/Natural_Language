@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 574 | label: meter | g:0.328 m:0.54 ---
+
+[] tad idam eva bhavad-āśvāsanaṃ teṣāṃ viśvāsya śaśvāyamānatām ācariṣyati ।
+[] kṛṣṇa uvāca-kadāham āgamiṣyāmi ?

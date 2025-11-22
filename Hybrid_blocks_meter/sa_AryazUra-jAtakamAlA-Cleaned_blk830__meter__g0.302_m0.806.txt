@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 830 | label: meter | g:0.302 m:0.806 ---
+
+mā te rociṣṭa dharmasya jīvitārthe vyatikramaḥ ।
+niḥsaṃdigdhamahādoṣaḥ sasandehakṛśodayaḥ ।।

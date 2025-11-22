@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2234 | label: meter | g:0.194 m:0.625 ---
+
+sarvaṃ sampāditaṃ tubhyam ājñānandakulārṇavam 
+idānīṃ śṛṇu kalyāṇi kālacakraṃ yathāsthitam ।।

@@ -1,0 +1,7 @@
+--- source: brsvbh3u-Cleaned.txt | block: 8 | label: meter | g:0.291 m:0.59 ---
+
+agnyādigatiśruteriti cenna bhāktatvāt ।
+śrāvite api spaṣṭe jīvasya prāṇaiḥ saha gamane agnyādigatiśaṅkā śrutivirodhotthāpanārthā ।
+atra hi lomakeśayoroṣadhivanaspatigamanaṃ dṛṣṭavirodhādbhāktaṃ tāvadabhyupeyam ।
+evaṃ ca tanmadhyapatitatvena teṣāmapi śrutivirodhādbhāktatvamevocitamiti ।
+bhaktiścopakāranivṛttiruktā ।।

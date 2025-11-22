@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 640 | label: meter | g:0.0 m:0.5 ---
+
+tṛtīyamapi mūlasūtratvena jñeyaṃ yatra tallakṣaṇaṃ svarūpoktiścāsti। yathā

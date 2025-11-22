@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5125 | label: meter | g:0.25 m:0.75 ---
+
+sahiṅgusaindhavaḥ pītaḥ koṣṭhasthaṃ strāvayedasṛk ।
+yavakolakulatthānāṃ niḥsnehena rasena vā ।।

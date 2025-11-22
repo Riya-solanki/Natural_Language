@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 294 | label: meter | g:0.25 m:0.5 ---
+
+nirghṛṇe tiṣṭha kiṃ mūḍhe tyajase māmanindite ।
+mugdhe tvayā virahito dagdho asmi madanāgninā ।।

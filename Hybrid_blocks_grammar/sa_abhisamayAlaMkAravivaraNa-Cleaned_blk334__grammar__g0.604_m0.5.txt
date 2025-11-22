@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 334 | label: grammar | g:0.604 m:0.5 ---
+
+athavā - hainayānikaprayogebhyo bodhisattvaprayogāṇāṃ vaiśiṣṭyamupalakṣayantīti viśeṣalakṣaṇāni । kleśaliṅgādayaḥ ṣoḍaśa svabhāvā eteṣāṃ viśeṣalakṣaṇānāmupalakṣakāḥ ।

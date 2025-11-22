@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 228 | label: meter | g:0.194 m:0.5 ---
+
+pitāmahaś ca bhagavān devair āṅgirasaiḥ saha 
+sthāvarāṇi ca bhūtāni jaṃgamāni ca sarvaśaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 491 | label: meter | g:0.25 m:0.625 ---
+
+lakṣais tu bhavate śuddhir dvitricatvārisaṅkhyayā 
+ekād ekona kartavyaṃ varṇāṇāṃ ca krameṇa tu ।।

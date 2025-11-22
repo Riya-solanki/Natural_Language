@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1735 | label: meter | g:0.194 m:0.5 ---
+
+ayaṃ sa kila yuddheṣu surārthe tyaktajīvitaḥ 
+savitus tejasā tulyaṃ cakraṃ kṣipati śatruṣu ।।

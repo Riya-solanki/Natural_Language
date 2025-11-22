@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2585 | label: meter | g:0.25 m:0.625 ---
+
+tato ghṛtācī svāṃ putrīṃ pariṣvajya nyapīḍayat ।
+snehāt savāṣpanayanāṃ muhustāṃ parijighravīt ।।

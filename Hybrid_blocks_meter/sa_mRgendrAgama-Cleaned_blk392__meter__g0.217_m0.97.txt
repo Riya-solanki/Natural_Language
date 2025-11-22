@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 392 | label: meter | g:0.217 m:0.97 ---
+
+hariścandramahākālam adhyāḥ sātipadā rucau 
+mahendrabhīmavimalakurukṣetragayākhalāḥ ।।

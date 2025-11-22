@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 286 | label: hybrid | g:0.328 m:0.477 ---
+
+kiñca na saṃyogasyaivāyaṃ dharmaḥ, sarvāṇyevāsamavāyikāraṇāni svāśraye svāśrayamavete vā kāryamārabhate nānyatra ।
+tataśca karmāpyasamavāyikāraṇatvenānumīyamānaṃ viyati vihaṅgame cobhayatrānumīyeta ।
+na hi vihagakarmaṇā viyati kāryaṃ saṃbhavati, tataśca viyatyapi calatīti buddhiḥ syāt, ato nānumeyaṃ karma ।
+kimidānīṃ nāstyeva kriyātatvam ।
+asti pratyakṣāvagamāt ।।

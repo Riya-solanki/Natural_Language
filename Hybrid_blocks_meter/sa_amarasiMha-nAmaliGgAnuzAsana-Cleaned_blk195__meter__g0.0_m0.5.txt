@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 195 | label: meter | g:0.0 m:0.5 ---
+
+bhaginīpatirāvutto bhāvo vidvānathāvukaḥ janako yuvarājastu kumāro bhartṛdārakaḥ

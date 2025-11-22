@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 376 | label: meter | g:0.194 m:0.625 ---
+
+paścimāṃ varuṇo devo nabhasvān paścimottarām 
+udīcīṃ somayakṣeśāv īśaḥ prāguttarāṃ diśam ।।

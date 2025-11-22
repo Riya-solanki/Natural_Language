@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5500 | label: meter | g:0.25 m:0.625 ---
+
+hiṅgu sauvarcalaṃ śuṇṭhīṃ pītvā tu kvathitodakaiḥ ।
+pariṇāmākhyaśūlañca ajīrṇañcaiva naśyati ।।

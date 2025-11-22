@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2349 | label: meter | g:0.25 m:0.625 ---
+
+śakṛnmūtreṣu teṣv eva jātaṃ kṣārarasāyanam 
+na tṛṇaṃ bhuñjate gāvo nāpi tatpayaso hitam ।।

@@ -1,0 +1,3 @@
+--- source: kunvjivu-Cleaned.txt | block: 995 | label: grammar | g:0.562 m:0.5 ---
+
+evaṃ vākyabandhavaicitryaśaktabuddhiviracitaṃ carvaṇīyaṃ śleṣamabhidhāya, sāmyaikanibandhanatvādupamārūpakaśleṣakāraṇaikaṃ vyatirekamabhidhatte sati tacchabdavācyatve dharmasāmye anyathāsthiteḥ ।

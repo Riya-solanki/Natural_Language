@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1140 | label: grammar | g:0.552 m:0.5 ---
+
+śrutvā vaco amṛtamayaṃ kalaśodbhavasya prāha prabhuḥ karatale vinidhāya mūrdhni ।
+eṣo adya me girivaraḥ praruṇāddhi mārgaṃ vindhyasya nimnakaraṇe bhagavan yatasva ।।

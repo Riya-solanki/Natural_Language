@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 634 | label: meter | g:0.25 m:0.5 ---
+
+svacchendranīlopalarāgam ete nabhaḥ samutpatya samāpatanti ।
+samīryamāṇāḥ pavanena saṃdhyākalaṅkitāntāḥ śaradīva meghāḥ ।।

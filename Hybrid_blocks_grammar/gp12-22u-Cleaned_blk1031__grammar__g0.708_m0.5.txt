@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1031 | label: grammar | g:0.708 m:0.5 ---
+
+[] tad evaṃ pūrva-pūrvaṃ jānan vraja-rāja-nandanas tuṣṭa-manāḥ kumāra-catuṣṭayam anuvidhaṃ vidhāya tatra prasthāya guptam upta-cittatayā tāḥ paśyati sma ।

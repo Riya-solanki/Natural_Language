@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1178 | label: hybrid | g:0.265 m:0.493 ---
+
+lipsāṃ cakre prasenāt tu maṇiratnaṃ syamantakam 
+govindo na ca taṃ lebhe śakto api na jahāra saḥ ।।

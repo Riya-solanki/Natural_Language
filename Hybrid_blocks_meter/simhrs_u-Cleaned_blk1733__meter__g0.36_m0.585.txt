@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1733 | label: meter | g:0.36 m:0.585 ---
+
+yathā-
+sarva-kṣiti-bhṛtāṃ nātha dṛṣṭā sarvāṅga-sundarī ।
+rāmā ramye vanānte' smin mayā virahitā tvayā ।।

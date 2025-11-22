@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2479 | label: meter | g:0.25 m:0.625 ---
+
+aṣṭakasya gaṇāḥ pañca tathā proktā divaukasām ।
+indro manojavaḥ śatrurmahākālo mahābhajaḥ ।।

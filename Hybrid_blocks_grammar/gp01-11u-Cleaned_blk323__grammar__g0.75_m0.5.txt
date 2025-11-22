@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 323 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca tayor maṅgalāya mātaram āśiṣaś citvā, vāsasam āsādanāya cānujñā-vitaraṃ yācitvā svayam api snehāveśa-maya-tan-nideśa-vaśatayā viśramāya saṃveśa-veśma praviśan sarva-sukha-sāraḥ śrī-gopādhipati-kumāras tau sūta-sutau svena yutau vidhāya śrī-rādhikā-sadeśam āsāditau cakāra ।

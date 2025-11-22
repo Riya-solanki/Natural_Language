@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 494 | label: grammar | g:0.887 m:0.068 ---
+
+[] sa ca tathaiva tām anucarati sma ।
+[] tataś ca sakhībhiḥ kathaṃcana sāntvitayoḥ kāntayoḥ kāntas tu sva-nirmitaṃ tat-kuṇḍaṃ tāsāṃ dṛṣṭi-kirmīritaṃ nirmimāṇaḥ sanarma kāntāṃ vyājahāra ।
+[] paśya paśya mama kamalākaro' yaṃ sāgara iva girirājam āsajya kamalodbhavaṃ bhāvayitā । sudhākara ivaika-deśa-sthityāpi nija-rucibhiḥ kumuda-vanaṃ vikāsayitā । dambholi-pāṇir iva sa-dambholitayā vilāsī । ambhoja-janir iva bhuvana-visarjanena prabhāsī । tripura-jiṣṇur iva saha-sāgara-māna-śamanaḥ । śrīmān viṣṇur iva paramahaṃsa-cakrāśrayatā-kamanaḥ । śrī-rāma iva rohiṇī-sukha-saṃcārī । kiṃ bahunā, śrī-rāmānuja iva ca śiṣṭa-kaṣṭa-prada-pāpāriṣṭa-hārī । tad etan mayā khalu kṛta-sukṛta-prasaraṃ sara idam aciraṃ viracayya caritārthatā labdhā । bhavatyā tu nedṛśa-naipuṇyaṃ puṇyaṃ kṛtam iti guṇy-anuguṇatā katham āpsyate ?
+[] atha tasyāḥ savayasas tv idaṃ parihasanti sma-[] na vayaṃ vṛṣaghnatā-nighnatayā vighnam āptāḥ । yena prāyaścittata iva lokasya prāyaścittam ārādhayāmaḥ ।
+[] kṛṣṇaḥ sahāsam āha sma-na khalv asau vṛṣaḥ । kiṃ tu vṛṣa-virodhī vṛṣatā-miṣavān asuraḥ । tasmāt tat-pakṣapātitayā bhavatīnām eva vṛṣaghnatā paryavasyatīti bhavatīnām eva niṣkṛtiḥ kṛtir viṣayatām arhati ।

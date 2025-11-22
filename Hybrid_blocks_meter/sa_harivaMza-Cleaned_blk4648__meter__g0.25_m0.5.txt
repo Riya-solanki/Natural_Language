@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4648 | label: meter | g:0.25 m:0.5 ---
+
+evam ukte tadā devyā vākye cintāvilekṣaṇā 
+uṣā bhāvaṃ hṛdā cakre bhartrā raṃsye kadā saha ।।

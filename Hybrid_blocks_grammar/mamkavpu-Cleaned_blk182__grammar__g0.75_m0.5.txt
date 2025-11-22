@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 182 | label: grammar | g:0.75 m:0.5 ---
+
+ityādikāvyānusaṃdhānabalācchikṣābhyāsanirvartitasvakāryaprakaṭanena ca naṭenaiva prakāśitaiḥ kāraṇakāryasahakāribhiḥ kṛtrimairapi tathānabhimanyamānairvibhāvādiśabdavyapadeśyaiḥ {saṃyogāt}, gamyagamakabhāvarūpāt anumīyamāno api vastusaudaryabalādrasanīyatvenānyānumīyamānavilakṣaṇaḥ sthāyitvena saṃbhāvyamāno ratyādirbhāvastatrāsannapi sāmājikānāṃ vāsanayā carvyamāṇo rasa iti śrīśaṅkukaḥ ।

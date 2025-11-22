@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11291 | label: meter | g:0.306 m:0.5 ---
+
+āgatya māmavadatphālgunoyaṃ sarvaṃ vṛttāṃntaṃ tvasau matsamīpe ।
+tatastvahaṃ sumuhūrte ca tasyāḥ pāṇigrahaṃ kṛtavāṃstatra samyak ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 951 | label: meter | g:0.306 m:0.5 ---
+
+adyāpi taṃ himavati prathitaṃ pradeśaṃ dāvāgniruddhataśikho api samīraṇena ।
+mantrābhiśapta iva naikaśirā bhujaṅgaḥ saṅkocamandalulitārcirupaiti śāntim ।।

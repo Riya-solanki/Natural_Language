@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 111 | label: meter | g:0.275 m:0.775 ---
+
+hariruvāca ।
+śṛṇu rudra pravakṣyāmi sargādīnpāpanāśanām ।
+sargasthitilayāntāṃ tāṃ viṣṇoḥ krīḍāṃ purātanīm ।।

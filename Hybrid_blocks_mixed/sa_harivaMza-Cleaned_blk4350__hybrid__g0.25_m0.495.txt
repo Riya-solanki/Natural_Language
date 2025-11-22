@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4350 | label: hybrid | g:0.25 m:0.495 ---
+
+narācyāṃ kapilo jajñe pauṇḍraś ca sutanoḥ sutaḥ 
+tayor nṛpo abhavat pauṇḍraḥ kapilaś ca vanaṃ yayau ।। 
+samādhisthaḥ sa bhūteṣu dayāṃ kurvan mahāmatiḥ । sa nṛpaḥ samacittātmā viṣṇusāyujyam āptavān । 
+turyāṃ samabhavad vīro vasudevān mahābalaḥ 
+jarā nāma niṣādānāṃ prabhuḥ sarvadhanuṣmatām ।।

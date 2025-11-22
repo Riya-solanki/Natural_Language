@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6436 | label: meter | g:0.194 m:0.5 ---
+
+etat te yan mayākhyātaṃ purāṇaṃ vedasaṃmitam 
+śrute asmin sarvadoṣotthaḥ pāparāśiḥ praṇaśyati ।।

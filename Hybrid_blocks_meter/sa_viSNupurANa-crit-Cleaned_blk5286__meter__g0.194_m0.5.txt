@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5286 | label: meter | g:0.194 m:0.5 ---
+
+sa tāṃ praṇamya śakreṇa saha te kuṇḍalottame 
+dadau narakanāśaṃ ca śaśaṃsāsyai janārdanaḥ ।।

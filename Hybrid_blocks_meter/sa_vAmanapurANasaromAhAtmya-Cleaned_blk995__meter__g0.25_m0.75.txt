@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 995 | label: meter | g:0.25 m:0.75 ---
+
+tathā hyuttaratastasya yāvadoghavatī nadī ।
+sahasramekaṃ liṅgānāṃ devapaścimataḥ sthitam ।।

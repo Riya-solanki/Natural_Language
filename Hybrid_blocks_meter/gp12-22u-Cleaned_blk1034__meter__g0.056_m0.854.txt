@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1034 | label: meter | g:0.056 m:0.854 ---
+
+hṛtvā sa satvara-kadamba-nagādhiroha-
+pūrvaṃ sa-ḍimbha-nikaraḥ sphuṭam ujjahāsa ।
+śrutvā prahāsam atha gopa-kumārikāṇāṃ
+vargaḥ samaṃ sabhayam ūrdhvita-dṛṣṭir āsīt ।। [vasanta]

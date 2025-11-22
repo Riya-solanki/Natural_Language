@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2323 | label: meter | g:0.25 m:0.5 ---
+
+dṛḍhena dāmnā tatraiva baddho vatsa ivodare 
+jahāsa madhye vṛkṣābhyāṃ tava putraḥ sa bālakaḥ ।। 
+prahasann eva vṛkṣābhyāṃ madhye krīḍann ivāṅgaṇe । 
+uttiṣṭha gaccha durmedhe mūḍhe paṇḍitamānini 
+putram ānaya jīvantuṃ muktaṃ mṛtyumukhād iva ।।

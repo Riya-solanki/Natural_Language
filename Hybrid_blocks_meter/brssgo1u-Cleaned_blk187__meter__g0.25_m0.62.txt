@@ -1,0 +1,10 @@
+--- source: brssgo1u-Cleaned.txt | block: 187 | label: meter | g:0.25 m:0.62 ---
+
+ānandamayatasya brahmatve liṅgamuktvā prakaraṇamāha-māntreti ।
+yasmādevaṃ prakṛtaṃ tasmāttanmāntrāvarṇikameva brahmānandamaya iti vākye gīyata iti yojanā ।
+nanu mantroktamevātra grāhmamiti ko nirbandhaḥ, tatrāha-mantreti ।
+brāhmaṇasya mantravyākhyānatvādupāyatvamasti, mantrastūpeyaḥ, tadidamuktam-avirodhāditi ।
+tayorupāyopeyabhāvādityarthaḥ ।
+tarhyannamayādīnāmapi māntravarṇikabrahmatvaṃ syādityata āha-na ceti ।
+kiñca bhṛgave proktā, varuṇenopadiṣṭā bhṛguvallī pañcamaparyāyasthānande pratiṣṭhitā ।
+tatra sthānanyāyena tadekārthabrahmavallyā ānandamaye niṣṭetyāha-etanniṣṭhaiveti ।।

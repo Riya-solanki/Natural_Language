@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4285 | label: meter | g:0.323 m:0.887 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+athātaḥ śvāsarogasya nidānaṃ pravadāmyaham ।
+kāsavṛddhyā bhavecchvāsaḥ pūrvairvā doṣakopanaiḥ ।।

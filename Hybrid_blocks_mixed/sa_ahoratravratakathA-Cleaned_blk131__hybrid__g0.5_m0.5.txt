@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 131 | label: hybrid | g:0.5 m:0.5 ---
+
+śravād api haret pāpaṃ darśanāt puṇyam āpnuyāt ।
+anumodāt tathā caivaṃ vratināṃ tu kim ucyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1914 | label: meter | g:0.194 m:0.625 ---
+
+tathā karmasv anekeṣu devādyāḥ samavasthitāḥ 
+viṣṇuśaktiṃ samāsādya praroham upayānti vai ।।

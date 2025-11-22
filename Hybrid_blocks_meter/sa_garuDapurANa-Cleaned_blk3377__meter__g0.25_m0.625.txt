@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3377 | label: meter | g:0.25 m:0.625 ---
+
+yasya kasya tu puṣpasya pāṇāḍarasya viśeṣataḥ ।
+śirasā dhāryamāṇasya hyalakṣmīḥ pratihanyate ।।

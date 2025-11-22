@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9407 | label: meter | g:0.306 m:0.5 ---
+
+yathā tārāgaṇāḥ sarve cchādyante raviraśmibhiḥ ।
+evaṃ pracchādyate sarvaṃ na preto bhavati kvacit ।।

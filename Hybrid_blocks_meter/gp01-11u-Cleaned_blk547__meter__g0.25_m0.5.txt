@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 547 | label: meter | g:0.25 m:0.5 ---
+
+[] atha gamana-samaye ca,
+utsaṅge nihitasya tasya tu śiśor vaktraṃ muhur dṛṣṭavān
+nāmodaṃ ciram ādade niṭilakād gaṇḍāv acumbīd bhṛśam ।
+āśiśleṣatarāṃ vapur na tu tadā tṛptiṃ vrajeśo yayau
+yāṃ pātheyatayā viveda mathurā-prasthānam āsthāya saḥ ।। [śārdūla]

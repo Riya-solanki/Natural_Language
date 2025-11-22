@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 321 | label: hybrid | g:0.418 m:0.266 ---
+
+atha yo aśvādbhedo gavādiṣvanusyūtaḥ so asyālambanamityucyate ।
+ko ayaṃ bhedo nāma, yadītaretarābhāvaḥ samāśritastarhyabhāvaḥ ।
+atha pṛthaktvaṃ nāma guṇaviśeṣo bheda ityucyate, tatastasya dravyagatatvādguṇeṣu rūpādiṣu araso na bhavati rūpaṃ' arūpaṃ na bhavati rasaḥ' itītaretarābhāvapratyayo na syāt ।।

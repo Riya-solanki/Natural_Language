@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11500 | label: meter | g:0.306 m:0.5 ---
+
+madhye pīṭhaṃ śrīnivāsaṃ ca devī nārāyaṇaṃ praṇametpūrṇameva ।
+devasya savye pīṭhabhāgādvahiśca namaskāryaṃ gurudevāya caiva ।।

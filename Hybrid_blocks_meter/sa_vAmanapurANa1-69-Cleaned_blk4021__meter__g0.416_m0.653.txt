@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4021 | label: meter | g:0.416 m:0.653 ---
+
+pulastya uvāca ।
+namaste astu jagannātha devadevaṃ namo astu te ।
+vāsudeva namaste astu bahurūpa namo astu te ।।

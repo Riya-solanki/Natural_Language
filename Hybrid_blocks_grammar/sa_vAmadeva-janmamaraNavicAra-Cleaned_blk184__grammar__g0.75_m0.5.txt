@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 184 | label: grammar | g:0.75 m:0.5 ---
+
+iti ayam arthaḥ he sūrye bhagavati ātmaśakte brahmāṇaḥ brahmavādinaḥ ṛtuthā kāle kāle te tava sambandhinī dve cakre viduḥ cakram iva cakraṃ parivartasādharmyāt śarīram ucyate tayor dvitvaṃ vartamānabhāvibhedāt atas tayor antare kathitayā yuktyā yad ekam ātivāhikākhyaṃ tat guhā guptam anupalakṣyam ity arthaḥ ata eva tad addhātayaḥ it viduḥ yogina eva jānanti iti tātparyam ।।

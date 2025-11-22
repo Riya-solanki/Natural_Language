@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1291 | label: hybrid | g:0.542 m:0.5 ---
+
+trātā sa eva vyasanāturāṇāṃ vanīpakānāṃ sa ca bandhur ekaḥ ।
+tam eva caikaṃ vyapadiśya sādhum anyatra maunavratam eti vāṇī ।।

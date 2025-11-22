@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11103 | label: hybrid | g:0.5 m:0.5 ---
+
+dṛṣṭvādṛṣṭvā pādapīṭhaṃ hareśca punaḥ punā ruddhaṅkaṭho babhūva ।
+ruroda rudro bhayakaṃpitāṅgaḥ kathaṃ punaḥ śravaṇaṃ syātkathāyāḥ ।।

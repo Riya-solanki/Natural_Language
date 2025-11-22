@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 744 | label: grammar | g:0.667 m:0.5 ---
+
+māndā vāśāḥ śundhyūr ajirāḥ । undatīḥ suphenāḥ jyotiṣmatīs tamasvatīr । mitrabhṛtaḥ kṣatrabhṛtaḥ svarāṣṭrā iha māvata ।

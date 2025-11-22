@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 16 | label: meter | g:0.416 m:0.706 ---
+
+vākyasamūhaśca sthāpanāhīno vitaṇḍā।
+tasya yadyabhidheyaṃ pratipadhate so asya pakṣāḥ sthāpanīyo bhavati।
+atha na pratipadyate pralāpamātramanarthakaṃ bhavati, vitaṇḍatvaṃ nivartata iti।

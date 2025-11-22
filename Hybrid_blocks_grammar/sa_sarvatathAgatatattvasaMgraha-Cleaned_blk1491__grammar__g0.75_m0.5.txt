@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1491 | label: grammar | g:0.75 m:0.5 ---
+
+atha bhagavantaḥ sarvatathāgatāḥ punarapi samājamāpadya jānanneva vajrapāṇiṃ mahābodhisatvamevamāhuḥ । "pratipadyasva vatsa sarvatathāgatājñākāritayai imaṃ maheśvarakāyamataḥ svapādatālāt mokṣum!" iti । atha bhagavāṃ vajrapāṇistāṃstathāgatānevamāha । "ahaṃ bhagavadbhiḥ sarvaduṣṭadamakaḥ krodha ityabhiṣiktaḥ । tanmayāyaṃ vyāpāditaḥ, tatkathamasya mokṣāmī?" ti ।

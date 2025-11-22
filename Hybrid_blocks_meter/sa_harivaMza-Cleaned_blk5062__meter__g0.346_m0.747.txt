@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5062 | label: meter | g:0.346 m:0.747 ---
+
+nivṛttāv aśvamedhasya vipraśāpāgnitejasā 
+ahaṃ nimittaṃ iti ced bhayaṃ tīvraṃ ca jāyate ।।

@@ -1,0 +1,3 @@
+--- source: brsvbh3u-Cleaned.txt | block: 271 | label: hybrid | g:0.5 m:0.5 ---
+
+kāmyās tu yathākāmaṃ samuccīyeran na vā pūrvahetvabhāvāt ।

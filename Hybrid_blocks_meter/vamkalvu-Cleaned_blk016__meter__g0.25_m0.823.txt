@@ -1,0 +1,8 @@
+--- source: vamkalvu-Cleaned.txt | block: 16 | label: meter | g:0.25 m:0.823 ---
+
+pratiṣṭhāṃ kāvyabandhasya yaśasaḥ saraṇiṃ viduḥ ।
+akīrtivarttinīṃ tvevaṃ kukavitvaviḍambanam ।।
+kīrtisvargaphalāmāhurāsasāraṃ vipaścitaḥ ।
+akīrtiṃ tu nirālokanarakoddeśadūtikām ।।
+tasmāt kīrtimupādātumakīrtiṃ ca nivarhitum ।
+kāvyālaṅkārasūtrārthaḥ prasādyaḥ kavipuṅgavaiḥ ।।

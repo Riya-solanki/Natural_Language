@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 196 | label: meter | g:0.26 m:0.5 ---
+
+sopālambham ivāvadaṃs tam anu tad bāhū ca mitrāṇi yat
+tena drāk sa ca serṣyā-cittam iva tāṃ gatvā tu tālāvalim ।
+sarvām eva bhujāyugena yugapad vikṣipya saṅghaṭṭayan
+vibhraṣṭāni mithaḥ phalāni vidadhe ghṛṣṭāni digdantivat ।। [śārdūlavikrīḍitam]

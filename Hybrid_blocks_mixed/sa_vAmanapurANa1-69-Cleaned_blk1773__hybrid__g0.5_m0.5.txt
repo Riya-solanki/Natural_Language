@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1773 | label: hybrid | g:0.5 m:0.5 ---
+
+sā tvevamuktā varadāmbikā hi vitatya vaktraṃ vikarālamugram ।
+oṣṭhaṃ nabhaspṛk pṛthivīṃ spūśantaṃ kṛtvādharaṃ tiṣṭhati carmamuṇḍā ।।

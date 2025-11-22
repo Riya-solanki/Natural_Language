@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 1288 | label: meter | g:0.292 m:0.802 ---
+
+bālya-krīḍā-kṛīta-phalenānena maṇi-pūritān ।
+sva-gṛhān vīkṣya te viprāḥ sva-patnī-matim anvayuḥ ।।
+[] ūcire ca-

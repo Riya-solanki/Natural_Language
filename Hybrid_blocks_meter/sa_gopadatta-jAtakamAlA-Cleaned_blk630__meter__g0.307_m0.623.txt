@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 630 | label: meter | g:0.307 m:0.623 ---
+
+ete kaṣāyaparuṣāmbarasaṃvṛtāṅgā vyomātasīkusumarāśinibhaṃ vigāhya ।
+āyānti ke apy upaśamastimitapracārā bhūrjadrumā iva marudbhir udastamūlāḥ ।।

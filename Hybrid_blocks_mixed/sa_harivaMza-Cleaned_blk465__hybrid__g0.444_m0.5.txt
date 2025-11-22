@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 465 | label: hybrid | g:0.444 m:0.5 ---
+
+pitrā tu taṃ tadā rāṣṭrāt parityktaṃ priyaṃ sutam 
+na vārayām āsa munir vasiṣṭhaḥ kāraṇena hi ।।

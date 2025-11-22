@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11309 | label: hybrid | g:0.531 m:0.5 ---
+
+hrasvaṃ liṅgaṃ mārdavaṃ cāpi vīndra tallakṣaṇaṃ pañcaviṃśaṃ vadanti ।
+samau ca pādau kaṭijānu corū ṣaḍviṃśamāhuśca same ca jaṅghe ।।

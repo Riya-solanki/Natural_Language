@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 134 | label: meter | g:0.25 m:0.5 ---
+
+tato hi balino rātrāvasurā devatā divā ।
+sattvamātrāṃ tanuṃ gṛhya pitaraśca tato abhavan ।।

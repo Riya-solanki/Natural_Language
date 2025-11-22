@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 749 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tataḥ śaṅkātiśaya-mayaṃ dina-katipayaṃ nānā-krīḍanakena krīḍayamānā mātṛ-samānā gopikā gopikā babhūvuḥ । yatra ca bāla-bālikā-kula-pālikādayaḥ sadayaṃ samāgamya ramyaṃ tat-keli-kutūhalaṃ kalayanti, yathā-

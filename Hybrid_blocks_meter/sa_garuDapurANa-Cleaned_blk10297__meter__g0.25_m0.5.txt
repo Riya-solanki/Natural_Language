@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10297 | label: meter | g:0.25 m:0.5 ---
+
+tatra rāśitraye sattvaṃ kevalaṃ samudāhṛtam ।
+rajastamobhyāṃ garuḍa hyavimiśraṃ hyatastu tat ।।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 461 | label: grammar | g:0.625 m:0.5 ---
+
+NOTE -kimiha vidheyaṃ, hananādi vā nañartho vā vidhārakaprayatno veti vikalpya, dīṣayituṃ prakramate-ayamartha ityādinā ।

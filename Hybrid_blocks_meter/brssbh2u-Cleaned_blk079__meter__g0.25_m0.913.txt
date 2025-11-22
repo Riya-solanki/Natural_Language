@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 79 | label: meter | g:0.25 m:0.913 ---
+
+naiṣa doṣaḥ ।
+śaṅkāviṣādinimittamaraṇādikāryopalabdheḥ ।
+svapnadarśanāvasthasya ca sarpadaṃśanodakasnānādikāryadarśanāt ।
+tatkāryamapyanṛtameveti cedbrūyāt ।

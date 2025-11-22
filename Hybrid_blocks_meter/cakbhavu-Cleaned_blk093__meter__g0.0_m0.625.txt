@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 93 | label: meter | g:0.0 m:0.625 ---
+
+śaṣkulīkarṇayor baddhvā yo rāvo atra vijṛmbhate
+tadgītam atha te vādyam ādyasaṃpuṭaghaṭṭanāt

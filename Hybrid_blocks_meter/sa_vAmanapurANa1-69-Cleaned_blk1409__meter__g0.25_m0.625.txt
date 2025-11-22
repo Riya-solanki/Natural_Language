@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1409 | label: meter | g:0.25 m:0.625 ---
+
+tathetyuktaṃ vacaḥ pitrā pāde tasyaiva vistṛte ।
+lalitākhyā tapastepe harārādhanākāmyayā ।।

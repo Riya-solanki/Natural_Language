@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 135 | label: hybrid | g:0.288 m:0.42 ---
+
+mūlasūtre apyāha- duṣkarairniyamaistīvraiḥ sevyamāno na siddhyati । sarvakāmopabhogaistu sevayaṃścāśu siddhyati ।। iti । 
+rāgo dveṣaśca mohaśca traya ete viṣaṅgatāḥ ।
+viṣatvamupayāntyeva viṣameṇa tu sevitā ।।

@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 225 | label: grammar | g:0.604 m:0.5 ---
+
+kiṃ tena jātamātreṇa bhūbhāreṇānnaśatruṇā yo jāto nārcayed viṣṇuṃ na smaren nāpi kīrtayet ।।

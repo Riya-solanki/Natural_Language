@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11571 | label: hybrid | g:0.521 m:0.5 ---
+
+mamādya gātraṃ pāvitaṃ śrīnivāsa mamādya netraṃ saphalaṃ saṃbabhūva ।
+mamādya pādau sārthakau caiva jātau pradakṣiṇaṃ śrīnivāseśa kṛtvā ।।

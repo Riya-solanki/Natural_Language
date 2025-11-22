@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1406 | label: hybrid | g:0.51 m:0.5 ---
+
+dārūṇi naikavidhavarṇaguṇākṛtīni karmātmakāni na bhavanti bhavanti caiva ।
+naṣṭāni naiva ca yathā punarudbhavanti lokastathāyamiti saukhyaparāyaṇaḥ syāt ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 436 | label: meter | g:0.25 m:0.625 ---
+
+{adṛṣṭe darśanotkaṇṭhā dṛṣṭe vicchedabhīrutā ।
+nādṛṣṭena na dṛṣṭena bhavatā labhyate sukham ।। }

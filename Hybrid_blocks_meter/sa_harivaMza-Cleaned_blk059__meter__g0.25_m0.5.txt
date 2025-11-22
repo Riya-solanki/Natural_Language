@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 59 | label: meter | g:0.25 m:0.5 ---
+
+taṃ dṛṣṭvā munayaḥ prāhur eṣa vai muditāḥ prajāḥ 
+kariṣyati mahātejā yaśaś ca prāpsyate mahat ।।

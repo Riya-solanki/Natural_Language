@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6968 | label: meter | g:0.25 m:0.625 ---
+
+gandharvāpyarasaḥ siddhāḥ pitarastvaṃ mahāmarāḥ ।
+bhūtāni viṣayastvaṃ hi tvamavyaktendriyāṇi ca ।।

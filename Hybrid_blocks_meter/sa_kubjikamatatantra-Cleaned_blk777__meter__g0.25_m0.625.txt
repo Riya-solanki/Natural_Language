@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 777 | label: meter | g:0.25 m:0.625 ---
+
+dūtī tu kathitā hy evaṃ mudrābandham ataḥ śṛṇu 
+padmāsanasthito yogī samakāya ṛjuḥśiraḥ ।।

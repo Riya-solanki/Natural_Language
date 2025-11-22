@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 314 | label: meter | g:0.194 m:0.625 ---
+
+kubjikāyutam ekaṃ tu śudhyate gurupūjayā 
+guror āsthānasaṃsthāne cāruhya pādukaiḥ saha ।।

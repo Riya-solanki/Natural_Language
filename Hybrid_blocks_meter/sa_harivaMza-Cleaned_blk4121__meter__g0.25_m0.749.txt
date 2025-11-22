@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4121 | label: meter | g:0.25 m:0.749 ---
+
+maṇiparvatayātrāṃ hi gate devakinandane 
+tathā krīḍāgṛhāṇi ca ।
+udyānavanamukhyāni valabhīcatvarāṇi ca । 
+saṃprāpte tu tadā kṛṣṇe ।
+viśvakarmāṇam āhūya devarājo abravīd idam ।।

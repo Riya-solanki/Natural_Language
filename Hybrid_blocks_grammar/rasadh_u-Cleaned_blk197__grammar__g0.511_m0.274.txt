@@ -1,0 +1,8 @@
+--- source: rasadh_u-Cleaned.txt | block: 197 | label: grammar | g:0.511 m:0.274 ---
+
+yā bhūmyā mardakī bhūmiphoḍī tasyāḥ pattrāṇi komalāni vartayitvā piṇḍīṃ ca kṛtvā madhye jātyahīrakān kṣiptvā golakān kṛtvā tān śarāvasampuṭamadhye muktvā saṃdhau karpaṭamṛttikāṃ ca dattvā bhūmau kurkuṭapuṭaṃ dātavyam ।।
+tataḥ punastathaiva bhūmyāmardakīpiṇḍīmadhye hīrān kṣiptvā golakān kṛtvā śarāvasampuṭe ca kṣiptvā karpaṭamṛttikāṃ ca saṃdhau dattvā bhūmau kurkuṭapuṭo deyaḥ ।।
+evaṃ navanavair bhūmyāmardakīpattrapiṇḍīgolakaiste hīrakā bhūmau catuḥṣaṣṭiṃ kurkuṭapuṭāni dattvānnapathāḥ kāryāḥ ।।
+ayamarthaḥ ।।
+annavatpakvā bhavanti rase ca jīryante ।।
+iti hīrakānnapathakaraṇe tṛtīyo vidhiḥ ।।

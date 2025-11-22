@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3580 | label: meter | g:0.194 m:0.625 ---
+
+jagrāha prathamaṃ rāmo lalāmapratimaṃ halam 
+taṃ sarpam iva sarpantaṃ divyamālākulaṃ mṛdhe ।।

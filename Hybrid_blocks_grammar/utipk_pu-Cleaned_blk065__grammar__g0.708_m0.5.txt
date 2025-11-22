@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 65 | label: grammar | g:0.708 m:0.5 ---
+
+tasmād dṛkparāmarśapuraḥsārāyāṃ smṛtau vikalpamātre vā dṛkṣabdānuvedhaṃ vināpi sa ity ayam iti vārthamātranirdeśena sarvatraikapramātṛlīnav evānubhāvyānubhāvakau māyākṛtavicchinnāvabhāsav api prakāśete ।।

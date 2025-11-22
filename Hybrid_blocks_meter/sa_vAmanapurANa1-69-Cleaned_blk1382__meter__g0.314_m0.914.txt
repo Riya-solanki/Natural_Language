@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1382 | label: meter | g:0.314 m:0.914 ---
+
+tāmudvṛttajalāṃ dṛṣṭvā prababandha pitāmahaḥ ।
+ṛksāmātharvayajubhirvāṅmayairbandhanairdṛḍham ।।

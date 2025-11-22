@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 854 | label: grammar | g:0.583 m:0.5 ---
+
+[] sutas tu sa-bhayaṃ sabhaya-pradānam apy uvāca-tato vanam eva praviśya sthāsyāmi ।

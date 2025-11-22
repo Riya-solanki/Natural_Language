@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 612 | label: grammar | g:0.573 m:0.5 ---
+
+tasyāpāṅgavilokitasya madhuraprollāsitārdhabhruvas tasya smeraśuceḥ kramasya ca girāṃ mugdhākṣarāṇāṃ hriyā ।
+bhāvānām api tādṛśāṃ mṛgadṛśo hāvānugānām aho nādhanyaḥ kurute prarūḍhapulakair ātithyam aṅgair janaḥ ।।

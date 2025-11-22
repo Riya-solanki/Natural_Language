@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9204 | label: meter | g:0.25 m:0.625 ---
+
+mūlabhūtā ime proktāḥ sapta nāḍyantare sthitāḥ ।
+tvacāsthināḍyo romāṇi māṃsañcaivātra pañcamam ।।

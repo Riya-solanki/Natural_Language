@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 336 | label: meter | g:0.111 m:0.521 ---
+
+yāte kṛṣṇeti śabde śruti-patham amṛtād apy atisvāda-yukte,
+vaṃśī-vādye ca śaśvan manasi sapadi yaḥ sphūrtim āpnoti so' yam ।
+ājanmābhyāsa-hīno' py atisuparicita-prāya eveti bhāti
+prāpti-vyāvṛttitas tu prasabham acirato neṣyati prāṇavargam ।। [sragdharā]

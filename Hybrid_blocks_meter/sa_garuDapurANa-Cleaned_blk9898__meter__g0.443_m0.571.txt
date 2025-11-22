@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9898 | label: meter | g:0.443 m:0.571 ---
+
+sūta uvāca ।
+śrutvātha devo garuḍaṃ tvavocat smṛtvā vapuḥ karmabhayañca rūpam ।
+sṛṣṭā dharā yena carācaraṃ jagatsa yena śastā vihito yamo vibhuḥ ।।

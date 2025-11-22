@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 410 | label: meter | g:0.313 m:0.767 ---
+
+nirguṇasvarūpe pramāṇamāha-darśayataśceti ।
+yathā jñānābhāvānnirguṇaṃ na prāptaṃ tathā dhyānābhāvājjagatsraṣṭṛtvādi na prāpyate ।
+dhyānābhāvaśca vidhyabhāvāditi bhāvaḥ ।।

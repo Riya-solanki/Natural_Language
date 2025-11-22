@@ -1,0 +1,7 @@
+--- source: brssgo4u-Cleaned.txt | block: 360 | label: meter | g:0.271 m:0.624 ---
+
+satyatvādidharmāṇāṃ satyatvaṃ dūṣayannatyantāsattvapakṣamāha-cititanmātreṇeti ।
+citiścaitanyaṃ, śabdajñānādyo vikalpo asanpratyayastajjāḥ atyantāsanta iti yāvat ।
+astvabhāvadharmāṇāmasattvaṃ bhāvadharmāṇāṃ tu sattvamityāśaṅkya teṣāmapyaupādhikatvādasattvamityāha-satyakāmeti ।
+cinmātre mukte jakṣaṇādiśrutiḥ kathaṃ tatrāha-ata eva ceti ।
+sarvadharmaniṣedhādevetyarthaḥ ।।

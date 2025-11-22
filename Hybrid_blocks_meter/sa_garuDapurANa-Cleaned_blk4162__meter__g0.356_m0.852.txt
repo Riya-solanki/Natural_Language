@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4162 | label: meter | g:0.356 m:0.852 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+vakṣye jvaranidānaṃ hi sarvajvaravibuddhaye ।
+jvaro rogapatiḥ pāpmā mṛtyurājo aśano antakaḥ ।
+kruddhadakṣādhvaradhvaṃsirudrordhvanayanodbhavaḥ ।।

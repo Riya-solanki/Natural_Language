@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 867 | label: meter | g:0.056 m:0.979 ---
+
+yad-avadhi mām upadiśya
+prāsthita gargas tad-avadhi jānāmi ।
+śiśur ayam adbhuta-caryāṃ
+valayati nārāyaṇī yayā śaktyā ।। [gīti]

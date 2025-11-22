@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 268 | label: meter | g:0.306 m:0.5 ---
+
+bhavāṃstu vandī bhavitā nūnaṃ viṣṇuḥ sthitau sthitaḥ ।
+viditvaivaṃ mahābhāgā kuru yat te manogatam ।।

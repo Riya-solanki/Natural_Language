@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3651 | label: grammar | g:0.583 m:0.5 ---
+
+tasyāpy āyur dhīmān amāvasur viśvāvasuḥ śatāyur śrutāyuḥ saṃjñāḥ ṣaḍ abhavan putrāḥ ।।

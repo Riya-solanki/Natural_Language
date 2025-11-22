@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 26 | label: hybrid | g:0.542 m:0.5 ---
+
+dṛśyena kaścid api gacchati vastujātam anyo anumānasamayair aparo api śabdaiḥ ।
+pratyakṣavastu bhavataḥ punar akrameṇa sarvaṃ karāmalakavad viditaṃ prameyam ।।

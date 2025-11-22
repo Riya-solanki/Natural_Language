@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 94 | label: meter | g:0.306 m:0.5 ---
+
+svapne prabuddhe ca na cānyabhedaḥ saṃkalpayet svapnaphalābhilāṣī ।
+rātriṃdivā svapnamupaiti jantuṃ mahīghanatve sucireṇa suptaḥ ।।

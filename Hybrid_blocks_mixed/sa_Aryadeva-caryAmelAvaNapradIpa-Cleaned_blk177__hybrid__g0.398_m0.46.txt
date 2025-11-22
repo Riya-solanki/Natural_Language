@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 177 | label: hybrid | g:0.398 m:0.46 ---
+
+anayorniḥsvabhāvatvāt tathatāśāntasaṃjñakam । tathatāmaṇḍale yogī sarvabuddhān praveśayed ।। iti । 
+nirvāṇāgnimahāgore bhasmaśo api na mucyate ।
+na tatra vidyate tattvaṃ nendriyārthā na dhātavaḥ ।।

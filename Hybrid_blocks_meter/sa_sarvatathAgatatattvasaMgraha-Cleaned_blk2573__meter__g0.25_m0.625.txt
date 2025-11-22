@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2573 | label: meter | g:0.25 m:0.625 ---
+
+vajragarbha samālikhya paṭādiṣu samādhinā ।
+bhāvayan yācayedarthāndehi ratna iti brūvan ।।

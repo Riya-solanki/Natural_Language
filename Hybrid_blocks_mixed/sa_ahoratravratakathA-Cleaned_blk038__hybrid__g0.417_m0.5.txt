@@ -1,0 +1,3 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 38 | label: hybrid | g:0.417 m:0.5 ---
+
+nidrāsevitaṃ nidrāṃ kṛtvā viśrāmasevitaṃ viśrāmaṃ kṛtvā rājan tathā vrataṃ kārayed doṣakam asti tasmān na kārayet ।।}

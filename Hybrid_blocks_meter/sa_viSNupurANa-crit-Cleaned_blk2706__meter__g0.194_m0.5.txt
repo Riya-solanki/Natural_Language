@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2706 | label: meter | g:0.194 m:0.5 ---
+
+grāvṇi ratne ca pārakye samabuddhir bhaved dvijaḥ 
+ṛtāv abhigamaḥ patnyāṃ śasyate cāsya pārthiva ।।

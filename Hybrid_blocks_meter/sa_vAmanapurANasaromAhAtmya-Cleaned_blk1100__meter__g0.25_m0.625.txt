@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1100 | label: meter | g:0.25 m:0.625 ---
+
+namastu payase tubhyaṃ tuṇḍānāṃ pataye namaḥ ।
+annadāyānnapataye namo nānānnabhojine ।।

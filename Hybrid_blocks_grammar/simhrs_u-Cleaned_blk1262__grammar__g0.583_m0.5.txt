@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1262 | label: grammar | g:0.583 m:0.5 ---
+
+bhavatu । tathāpi saṅkīrtayāmy enam । anākalita-sāro hi vīra-prakāṇḍa-sambhūtiḥ ity upakramya ।

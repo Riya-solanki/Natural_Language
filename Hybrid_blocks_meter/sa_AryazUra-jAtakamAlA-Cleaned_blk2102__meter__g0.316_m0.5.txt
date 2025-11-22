@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2102 | label: meter | g:0.316 m:0.5 ---
+
+lokaḥ paro api manujādhipa nanvavekṣyastasmātpriyaṃ yadahitaṃ ca na tanniṣevyam ।
+yatsyāttu kīrtyanuparodhi manojñamārgaṃ tadvipriyaṃ sadapi bheṣajavadbhajasva ।।

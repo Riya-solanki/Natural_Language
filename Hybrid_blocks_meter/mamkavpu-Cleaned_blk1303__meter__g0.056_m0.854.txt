@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1303 | label: meter | g:0.056 m:0.854 ---
+
+{avāptaḥ prāgalbhyaṃ pariṇatarucaḥ śailatanaye
+kalaṅko naivāyaṃ vilasati śaśāṅkasya vapuṣi ।
+amuṣyeyaṃ manye vigaladamṛtasyandaśiśire
+ratiśrāntā śete rajaniramaṇī gāḍhamurasi ।।}

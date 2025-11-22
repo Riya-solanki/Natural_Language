@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6 | label: meter | g:0.25 m:0.75 ---
+
+sūtaṃ paurāṇikaṃ śāntaṃ sarvaśāstraviśāradam ।
+viṣṇubhaktaṃ mahātmānaṃ naimiśāraṇyamāgatam ।।

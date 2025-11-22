@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3200 | label: meter | g:0.328 m:0.595 ---
+
+kanakabhūṣaṇasaṃgrahaṇocito yadi maṇistrapuṇi pratibadhyate ।
+na ca virauti na cāpi sa śobhate bhavati yojayiturvacanīyatā ।।

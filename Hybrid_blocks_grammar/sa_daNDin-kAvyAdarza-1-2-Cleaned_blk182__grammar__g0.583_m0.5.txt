@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 182 | label: grammar | g:0.583 m:0.5 ---
+
+madapāṭalagaṇḍena raktanetrotpalena te mukhena mugdhaḥ so apy eṣa jano rāgamayaḥ krtaḥ ।।

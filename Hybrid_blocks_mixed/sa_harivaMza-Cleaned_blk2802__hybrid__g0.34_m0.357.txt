@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2802 | label: hybrid | g:0.34 m:0.357 ---
+
+ye cāvayoḥ sthitā vṛtte mahendropendrasaṃjñite 
+mānavāḥ praṇamiṣyanti teṣāṃ nāsty anayāgamaḥ ।। 
+svargalokādayānīya maṇipīṭhaṃ surādhipaḥ । niveśya kṛṣṇaṃ ratnaiḥ prāṅ muktādyair abhiṣecayat । kṛtvā nīrājanaṃ divyair alaṃkṛtya ca bhūṣaṇaiḥ । 
+tataḥ śakras tu tān gṛhya ghaṭān divyapayodharān 
+abhiṣekeṇa govindaṃ yojayāmāsa yogavit ।।

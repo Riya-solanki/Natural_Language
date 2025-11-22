@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1024 | label: hybrid | g:0.508 m:0.468 ---
+
+so ahaṃ sudūram agamaṃ dvijarājarūḍhiṃ gāḍhaprasaktir abhavaṃ bata vāruṇītaḥ ।
+ity ākalayya niyataṃ śaśabhṛt samastam astād dadau jhagiti jhampamayaṃ payodhau ।।
+narasiṃhasya

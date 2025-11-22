@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 146 | label: grammar | g:0.625 m:0.5 ---
+
+rajasvalam anityaṃ ca bhūtāvāsam imaṃ tyajet muniḥ pārāśaryo api āha sarvāśucinidhānasya kṛtaghnasya vināśinaḥ ।।

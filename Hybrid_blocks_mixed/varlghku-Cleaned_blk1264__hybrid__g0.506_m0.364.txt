@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1264 | label: hybrid | g:0.506 m:0.364 ---
+
+guṇavacanabrāhmaṇādibhyaḥ karmaṇi ca ।।
+cādbhāve । jaḍasya bhāvaḥ karma vā jāḍyam । mūḍhasya bhāvaḥ karma vā mauḍhyam । ākṛtigaṇo ayam ।।

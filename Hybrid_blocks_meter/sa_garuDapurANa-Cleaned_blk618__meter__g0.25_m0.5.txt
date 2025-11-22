@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 618 | label: meter | g:0.25 m:0.5 ---
+
+gale kuru nyaseddhīmānkule ca gulphayoḥ smṛtaḥ ।
+svāhā pādayuge caiva yugahā nyāsa īritaḥ ।।

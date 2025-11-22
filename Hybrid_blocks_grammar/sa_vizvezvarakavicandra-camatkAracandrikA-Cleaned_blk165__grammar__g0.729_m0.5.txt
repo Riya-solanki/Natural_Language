@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 165 | label: grammar | g:0.729 m:0.5 ---
+
+atra saṃhitā vivakṣiteti prathamapāde padānāmaśliṣṭasandhitvād duḥsandhitvam । vidviḍḍhrībharetyādi pade śrutikaṭurūpakaṣṭa sandhitvād duḥsandhitvam । dhṛtyā atanvyā urorityatra luptavisargaprāyakaṣṭasandhitvād duḥsandhitvam ।

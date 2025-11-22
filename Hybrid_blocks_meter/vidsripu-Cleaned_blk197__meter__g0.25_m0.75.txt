@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 197 | label: meter | g:0.25 m:0.75 ---
+
+duḥśliṣṭadurlakṣyapalāśasaṃdhīny āpāṭalāgrāṇi harinti mūle ।
+kuśeśayānāṃ śukaśāvabhāṃsi prādurbabhūvur navakuḍmalāni ।।

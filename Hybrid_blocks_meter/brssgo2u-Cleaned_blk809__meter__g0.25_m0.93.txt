@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 809 | label: meter | g:0.25 m:0.93 ---
+
+prāktu samyagdarśanātpratataiṣā bhrāntiḥ sarvajantuṣu ।
+tadevamavidyānimittadehādyupādhisaṃbandhakṛtādviśeṣādaikātmyābhyupagame apyanujñāparihārāvavakalpyete ।
+samyagdarśinastarhyanujñāparihārānarthakyaṃ prāptam ।

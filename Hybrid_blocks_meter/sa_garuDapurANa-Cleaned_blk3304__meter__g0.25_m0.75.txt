@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3304 | label: meter | g:0.25 m:0.75 ---
+
+anyathā śāstragārbhiṇyā dhiyā dhīror'thamīhate ।
+svāmivatprākkṛtaṃ karma vidadhāti tadanyathā ।।

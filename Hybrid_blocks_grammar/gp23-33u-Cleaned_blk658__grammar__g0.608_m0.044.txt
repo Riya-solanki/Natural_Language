@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 658 | label: grammar | g:0.608 m:0.044 ---
+
+[] kṛṣṇaḥ sasaṅkoca-locanam uvāca-tad api katham ?
+[] ṛṣir uvāca-yādava-prabhavāṇām ayam eva kula-krama-samācāraḥ ।
+[] kṛṣṇaḥ svagatam uvāca-na khalv idaṃ jñāteyaṃ, kintu kāpeyam eva । tathāpi bhadram evedam æ yasmād anena sambandhena vraja-bandhavas tad idaṃ maṃsyante । nāsau teṣāṃ gotratayā stotra-viṣayatām ātmani manyate, kintu gotrānta-ramitānām asmākam eva iti ।

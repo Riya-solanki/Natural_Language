@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 43 | label: meter | g:0.25 m:0.5 ---
+
+bhrāntitve cāvasāyasya na jaḍād viṣayasthitiḥ ।
+tato ajāḍye nijollekha- niṣṭhān nārthasthitis tataḥ ।।

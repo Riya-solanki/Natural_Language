@@ -1,0 +1,4 @@
+--- source: ttssarvu-Cleaned.txt | block: 2 | label: meter | g:0.351 m:0.565 ---
+
+yadvāgvibhūtiramalākhilatattvajātānnānādya tattvamamalaṃ paribodhayantī ।
+śreyaḥ karoti jagatāṃ bhagavantamādyaṃ taṃ śrīmaharṣikapilaṃ prabhumānato asmi ।।

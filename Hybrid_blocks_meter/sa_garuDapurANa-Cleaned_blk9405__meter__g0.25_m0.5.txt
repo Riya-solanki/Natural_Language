@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9405 | label: meter | g:0.25 m:0.5 ---
+
+māsatraye trirātraṃ syāt ṣaṇmāsena tu pakṣiṇī ।
+ahaḥ saṃvatsarādarbvāk pūrṇe dattvodakaṃ śuciḥ ।
+anenaivā nusāreṇa śuddhiḥ syāt sārvavarṇikī ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 630 | label: meter | g:0.25 m:0.5 ---
+
+ratna vajrāṃ dṛḍhīkṛtya hṛdayānmūrdhni mokṣitā ।
+agrābhyāṃ kavacaṃ bandhedanena hṛdayena tu ।।

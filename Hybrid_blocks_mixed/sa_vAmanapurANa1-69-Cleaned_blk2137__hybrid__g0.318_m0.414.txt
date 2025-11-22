@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2137 | label: hybrid | g:0.318 m:0.414 ---
+
+tamāha dharmarāḍ brahman yadi māṃ saṃyamād bhavān । gopāyati muro satyaṃ kariṣye vacanaṃ tava।cha । 
+murastamāha bhavataḥ kaḥ saṃyantā vadasva māma ।
+ahamena parājitya vārayāmi na saṃśayaḥ ।।

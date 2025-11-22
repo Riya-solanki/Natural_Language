@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 565 | label: meter | g:0.25 m:0.5 ---
+
+oṃ sarvatejo adhipataye ṭhaṭha astrāya namaḥ ।
+oṃ jvalajvala prajvalaprajvala ṭhaṭha namaḥ ।।

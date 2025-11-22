@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1209 | label: hybrid | g:0.401 m:0.475 ---
+
+tatropakṣepaḥ-
+upakṣepas tu bījasya sūcanā kathyate budhaiḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 27 | label: grammar | g:0.75 m:0.5 ---
+
+[] sarva ūcuḥ-yadyapi cirata evedaṃ caritam, tathāpi bhavatāpi gocaritena gocaritenātīva racitam, yat khalu sarvaṃ go-jātam na tu bhavaj-jātam antarā padam api padaḥ pradadāti । kathañcit tenaivāgrāvasthitenādya tāḥ prasthāpitāḥ santi ।

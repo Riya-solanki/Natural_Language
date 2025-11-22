@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2194 | label: meter | g:0.194 m:0.625 ---
+
+daśa-m-ekādaśenaiva kūṭasthaṃ vā samekataḥ 
+purasyādyakṣaraṃ vāpi svasthāne kṣobhakṛd bhavet ।।

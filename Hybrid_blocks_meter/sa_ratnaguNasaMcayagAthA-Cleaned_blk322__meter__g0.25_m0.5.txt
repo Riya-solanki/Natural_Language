@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 322 | label: meter | g:0.25 m:0.5 ---
+
+yo evaśīlasamanvāgatu niṣprapañco anapekṣako bhavati sarvapriyāpriyeṣu 
+śirahastapāda tyajamāna adīnacitto sarvāstityāgi bhavate satataṃ alīno ।।

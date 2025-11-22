@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 53 | label: meter | g:0.35 m:0.502 ---
+
+bṛhad-vāmane-
+ratna-dhātu-mayaḥ śrīmān yatra govardhano giriḥ ।
+ratna-baddhobhaya-taṭā kālindī saritāṃ varā ।।ity ādi cānyatra ।

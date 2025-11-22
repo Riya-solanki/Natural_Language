@@ -1,0 +1,6 @@
+--- source: mamkpb_u-Cleaned.txt | block: 10 | label: meter | g:0.5 m:0.566 ---
+
+doṣaguṇālaṃkārāḥ vakṣyante ।
+kvāpītyanenaitadāha yat sarvatra sālaṃkārau, kvacittu sphuṭālaṃkāravirahe api na kāvyatvahāniḥ ।
+yathā yaḥ kaumāraharaḥ sa eva hi varastā eva caitrakṣapā- ste conmīlitamālatīsurabhayaḥ prauḍhāḥ kadambānilāḥ ।
+sā caivāsmi tathāpi tatra suratavyāpāralīlāvidhau revārodhasi vetasītarutale cetaḥ samutkaṇṭhate ।।

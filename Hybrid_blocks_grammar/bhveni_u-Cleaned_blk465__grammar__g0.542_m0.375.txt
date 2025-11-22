@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 465 | label: grammar | g:0.542 m:0.375 ---
+
+rākṣasaḥ
+{Pkt}vaśāgandhe eśe kkhu aśśatthāme ākiṭṭhidāśibatte ido evva āacchadi । kadā bi dubadasudalośeṇa amhe bi vābādaiśśadi । tā ehi ।

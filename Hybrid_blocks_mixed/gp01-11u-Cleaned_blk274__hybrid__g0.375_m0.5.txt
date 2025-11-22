@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 274 | label: hybrid | g:0.375 m:0.5 ---
+
+tau ca sāñjali-vacasā vyānañjatuḥ, "śrī-goloka-loka-deva, śrī-guru-prasāda eva sarvatra durvāraṃ kāraṇam iti tatrabhavanta evānubhavanti ।"

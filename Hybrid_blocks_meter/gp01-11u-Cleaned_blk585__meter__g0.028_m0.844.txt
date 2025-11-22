@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 585 | label: meter | g:0.028 m:0.844 ---
+
+[] pūtanā-hantus tu,
+go-mūtrādyaiḥ snānam ācārya tasya
+premṇā cakrur mantra-rakṣāṃ jananyaḥ ।
+śrutvā yasmin śāstra-vijñatvam āsāṃ
+sarve' py uccaiḥ kovidā vismayante ।। [śālinī]

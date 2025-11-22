@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2321 | label: meter | g:0.194 m:0.75 ---
+
+ṛbhur nāmābhavat putro brahmaṇaḥ parameṣṭhinaḥ 
+vijñātatattvasadbhāvo nisargād eva bhūpate ।।

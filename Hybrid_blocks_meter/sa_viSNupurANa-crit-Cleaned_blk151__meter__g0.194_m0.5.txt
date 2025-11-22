@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 151 | label: meter | g:0.194 m:0.5 ---
+
+taiḥ ṣaḍbhir ayanaṃ varṣaṃ dve ayane dakṣiṇottare 
+ayanaṃ dakṣiṇaṃ rātrir devānām uttaraṃ dinam ।।

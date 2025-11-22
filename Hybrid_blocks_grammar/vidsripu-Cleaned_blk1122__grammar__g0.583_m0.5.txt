@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1122 | label: grammar | g:0.583 m:0.5 ---
+
+etasmin kusume svabhāvamahati prāyo mahīyaḥ phalaṃ ramyaṃ svādu sugandhi śītalam alaṃ prāptavyam ity āśayā ।
+śālmalyāḥ paripākakālakalanābodhena kīraḥ sthito yāvat tatpuṭasaṃdhinirgatapatattūlaṃ phalāt paśyati ।।

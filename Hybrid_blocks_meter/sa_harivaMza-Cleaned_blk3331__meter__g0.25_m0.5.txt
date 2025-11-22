@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3331 | label: meter | g:0.25 m:0.5 ---
+
+ye tu kecit svadoṣeṇa rājñaḥ paṇḍitamāninaḥ 
+yotsyāma bālā balibhir bāhubhiḥ saha saṃkaṭe । 
+evam uktvā tataḥ kṛṣṇaś cāṇūraṃ samapadyata । 
+āsphoṭya bāhū rājendra cāṇūraḥ kṛṣṇam abhyayāt ।। 
+tāv ubhau siṃhavikrāntau mattāv iva mahāgajau । 
+yuyudhāte tadānyonyam ebhir mallapariśramaiḥ । 
+pratāpārthe hatā mallā mallahantur vadho hi saḥ ।।

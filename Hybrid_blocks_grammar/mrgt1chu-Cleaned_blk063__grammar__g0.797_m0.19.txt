@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 63 | label: grammar | g:0.797 m:0.19 ---
+
+parameśvarāt proktena krameṇa prasṛtam etaj jñānaṃ śāstraṃ skandasya devyās tad anyeṣāṃ ca pṛthak pṛthak śrotḥṇāṃ bahutvād bahubhedatvena vistaram abhimatakāmadatvāt kāmikatvenopadeṣṭṛbhir mantrāṇāṃ mantreśvarāṇāṃ ceśvarair mantramaheśvarair anantādibhir upadiṣṭam ।। 
+tebhya āgamayya kasmai kiyatā granthena ko dattavān ity āha ।।

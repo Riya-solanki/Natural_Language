@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 538 | label: hybrid | g:0.371 m:0.413 ---
+
+kaḥ punarayaṃ mokṣo nāma, vicitravāsanāvaśena vicitranīlapītādirūpeṇa pravahato jñānasaṃtānasya niḥśeṣavāsanocchedānnīlapītādivaicitryaṃ hitvā kevalaṃ saṃvinmātreṇāvasthānamiti kecit ।
+aparetu dīpasaṃtānasyeva jñānasaṃtāpanasyoparamam ।
+ubhayamapyetadbāhyārthābhāvamūlamiti tatsadbhāvapratipādanenaiva nirākṛtam ।।

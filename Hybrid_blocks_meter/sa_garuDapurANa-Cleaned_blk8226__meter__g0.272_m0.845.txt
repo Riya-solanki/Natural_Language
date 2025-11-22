@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8226 | label: meter | g:0.272 m:0.845 ---
+
+etatte sarvamākhyātaṃ yanmāṃ tvaṃ paripṛcchasi ।
+sadyo dehāntaraprāptirvilaṃbenāvanītale ।।

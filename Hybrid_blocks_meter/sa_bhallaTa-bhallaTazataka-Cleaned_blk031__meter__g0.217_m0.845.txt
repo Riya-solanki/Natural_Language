@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 31 | label: meter | g:0.217 m:0.845 ---
+
+yathāpallavapuṣpās te yathāpuṣpaphalarddhayaḥ 
+yathāphalarddhisvārohā hā mātaḥ kvāgaman drumāḥ ।।

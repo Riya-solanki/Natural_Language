@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 124 | label: grammar | g:0.625 m:0.5 ---
+
+kṣaye vā apy athavā vṛddhau samprāpte vā dinakṣaye upoṣyā dvādaśī puṇyā pūrvaviddhāṃ parityajet ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2778 | label: meter | g:0.25 m:0.5 ---
+
+brāhme tapasi yuktānāṃ brahmalokaḥ parā gatiḥ 
+gavām eva hi goloko durārohā hi sā gatiḥ ।।

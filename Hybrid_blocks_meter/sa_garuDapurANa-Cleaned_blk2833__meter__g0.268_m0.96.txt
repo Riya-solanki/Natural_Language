@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2833 | label: meter | g:0.268 m:0.96 ---
+
+śrīgaruḍamahāpurāṇam- 
+yājñavalkya uvāca ।
+dravyaśuddhiṃpravakṣyāmi tannibodhata sattamāḥ ।
+sauvarṇarājatābjānāṃ śaṅkharajjvādicarmaṇām ।।

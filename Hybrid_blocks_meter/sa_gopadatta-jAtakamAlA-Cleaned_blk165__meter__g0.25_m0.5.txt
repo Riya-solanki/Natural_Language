@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 165 | label: meter | g:0.25 m:0.5 ---
+
+dṛṣṭasaṃsāraduḥkho api so abhyāsād rāgapāpmanaḥ ।
+tam uvāca mahātmānam ārujann iva vākśaraiḥ ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1445 | label: meter | g:0.26 m:0.5 ---
+
+{sṛjati ca jagadidamavati ca saṃharati ca helayaiva yo niyatam ।
+avasaravaśataḥ śapharo janārdanaḥ so api citramidam ।।}

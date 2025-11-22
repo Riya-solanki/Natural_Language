@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 524 | label: grammar | g:0.503 m:0.247 ---
+
+iṇaḥ ṣīdhvaṃluṅliṭāṃ dho aṅgāt ।।
+iṇantādaṅgātpareṣāṃ ṣīdhvaṃluṅliṭāṃ dhasya ḍhaḥ syāt ।। edhāñcakṛḍhve । edhāñcakṛvahe । edhāmbabhūva । edhitā । edhitāraḥ । edhitāsāthe ।।

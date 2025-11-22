@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2096 | label: meter | g:0.194 m:0.625 ---
+
+nāradasya vacaḥ śrutvā sasmitaṃ madhusūdanaḥ 
+pratyuvāca śubhaṃ vākyaṃ vareṇyaḥ prabhur īśvaraḥ ।।

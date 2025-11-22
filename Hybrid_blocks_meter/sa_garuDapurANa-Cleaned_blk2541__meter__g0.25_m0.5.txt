@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2541 | label: meter | g:0.25 m:0.5 ---
+
+vihitākaraṇānartho na sadbhiḥ kriyate tu yaḥ ।
+saṃyamo muktaye yo anyaḥ pratyutādhogatipradaḥ ।।

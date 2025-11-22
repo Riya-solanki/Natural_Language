@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1312 | label: meter | g:0.306 m:0.625 ---
+
+vaiṣṇavena tu yogena paraṃ tejastu niḥ kṣipet ।
+dakṣiṇe sthāpayedbrahma praṇītāñcottareṇa tu ।।

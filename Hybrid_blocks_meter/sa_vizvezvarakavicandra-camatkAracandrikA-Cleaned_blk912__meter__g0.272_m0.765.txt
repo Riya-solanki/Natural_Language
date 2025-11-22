@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 912 | label: meter | g:0.272 m:0.765 ---
+
+atra sāmyavatī prapañcoktiryathā
+phalaiḥ prekṣāsūtair vacanaparipākaṃ kṛtadhiyām ।
+svaraṃ vīṇākvāṇairlalitamupadhā vārasudṛśāṃ jigīṣā yātrāyāṃ bharitadiśi siṅgakṣitipatiḥ ।।

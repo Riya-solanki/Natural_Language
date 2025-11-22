@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1301 | label: meter | g:0.321 m:0.81 ---
+
+truṭita-niviḍa-nāḍī-cakravāla-praṇālī-
+prasṛta-rudhira-dhārā-carcitoccaṇḍa-ruṇḍam ।
+maḍamaḍita-mṛḍānī-kānta-cāpasya bhaṅktuḥ
+paraśur amara-vandyaḥ khaṇḍayaty adya muṇḍam ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1564 | label: meter | g:0.194 m:0.75 ---
+
+{saṃketakālamanasaṃ viṭam jñātvā vidagdhayā ।
+īṣannetrārpitākūtaṃ līlāpadmaṃ nimīlitam ।।}

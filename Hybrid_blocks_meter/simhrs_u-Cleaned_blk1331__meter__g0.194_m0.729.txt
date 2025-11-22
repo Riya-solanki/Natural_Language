@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1331 | label: meter | g:0.194 m:0.729 ---
+
+nirvāṇaṃ jala-pāna-pīḍana-balair yasmin yugāntānalair
+yasyābhāti kukūla-murmura-mṛduḥ kroḍe śikhī bāḍavaḥ ।
+tasyāpy asya kṛśānu-saṅkrama-kṛta-jyotiḥ-śikhaṇḍaiḥ śarair
+dattaś caṇḍa-davāgni-ambara-vidhir devasya vārāṃ-nidheḥ ।।

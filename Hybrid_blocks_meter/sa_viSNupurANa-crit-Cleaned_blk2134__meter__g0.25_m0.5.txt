@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2134 | label: meter | g:0.25 m:0.5 ---
+
+pibanti dvikalaṃ somaṃ śiṣṭā tasya kalā tu yā 
+sudhāmṛtamayī puṇyā tām indoḥ pitaro mune ।।

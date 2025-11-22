@@ -1,0 +1,6 @@
+--- source: brssgo4u-Cleaned.txt | block: 139 | label: meter | g:0.25 m:0.621 ---
+
+vācyuktaṃ nyāyaṃ cakṣurādiṣvatidiśati-eta eveti ।
+upaśāntadehauṣṇyastasmādutkramaṇādūrdhvaṃ punarbhavaṃ pratipadyata iti śrutyarthaḥ ।
+indriyaśabdasya śrutisthasya vṛttiparatayopapatteḥ ।
+sarvendriyavṛttilayaścediṣṭastarhi vāṅmanasīti pṛthaksūtraṃ kimarthamityata āha-sarveṣāṃ karaṇānāmiti ।।

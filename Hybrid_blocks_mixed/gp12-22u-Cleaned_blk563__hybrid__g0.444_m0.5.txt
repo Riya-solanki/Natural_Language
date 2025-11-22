@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 563 | label: hybrid | g:0.444 m:0.5 ---
+
+apy anukūlaṃ yāsāṃ pratikūlaṃ syād vidūrage kṛṣṇe ।
+tāsāṃ pratikūlaṃ tu sphuṭam evāsīt kukūla-talpābham ।। [gīti]

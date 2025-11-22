@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1669 | label: meter | g:0.25 m:0.625 ---
+
+hastādipañcaṛkṣāṇi uttarātrayameva ca ।
+aśvinī rohiṇī puṣyā dhaniṣṭhā ca punarvasū ।।

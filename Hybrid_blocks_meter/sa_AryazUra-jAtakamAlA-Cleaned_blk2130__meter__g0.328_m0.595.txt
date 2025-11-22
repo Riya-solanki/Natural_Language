@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2130 | label: meter | g:0.328 m:0.595 ---
+
+kaḥ saṃprayogo na viyoganiṣṭhaḥ kāḥ saṃpado yā na vipatparaiti ।
+jagatpravṛttāviti cañcalāyāmapratyavekṣyaiva janasya harṣaḥ ।।

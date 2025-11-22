@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1594 | label: meter | g:0.194 m:0.5 ---
+
+kutra vāsya nivāsaḥ syād bhojanaṃ ca kimātmakam 
+vidhāsyati bhavān asya vīryatulyaṃ mahaujasaḥ ।।

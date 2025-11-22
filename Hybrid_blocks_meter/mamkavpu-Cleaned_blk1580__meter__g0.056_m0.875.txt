@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1580 | label: meter | g:0.056 m:0.875 ---
+
+{citraṃ citraṃ bata bata mahaccitrametadvicitraṃ
+jāto daivāducitaracanāsaṃvidhātā vidhātā ।
+yannimbānāṃ pariṇataphalasphītirāsvādanīyā
+yaccaitasyāḥ kavalanakalākovidaḥ kākalokaḥ ।।}

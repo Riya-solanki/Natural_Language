@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5069 | label: meter | g:0.25 m:0.5 ---
+
+bheṣajaṃ śastrakṣārāgnyastridhā vai cārśasāṃ haram ।
+viddhi taccārśasoghnantu yaddhi takraṃ navoddhṛtam ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 679 | label: hybrid | g:0.537 m:0.446 ---
+
+vacovṛttir mā bhūd valatu ca navā vaktram abhito na nāma syād bāṣpāgamaviṣadaṃ locanayugam ।
+samāśvāsas tena praṇataśirasaḥ patyur abhavat priyā prauḍhakrodhāpy apahṛtavatī yan na caraṇau ।।
+bopālitasya।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 538 | label: meter | g:0.192 m:0.8 ---
+
+daurgandhyād, yathā-
+dīnā dīna-mukhaiḥ svakīya-śiśukair ākṛṣṭa-jīrṇāmbarā
+krośadbhiḥ kṣudhitari nirannapiṭharā nekṣyeta ced gehinī ।
+yācñā-dainya-bhayena gadgada-galat-truṭyad-vilīnākṣaraṃ
+ko dehīti vadet sva-dagdha-jaṭharasyārthe manasvī pumān ।।

@@ -1,0 +1,78 @@
+--- source: vampsm_u-Cleaned.txt | block: 33 | label: grammar | g:0.5 m:0.048 ---
+
+sanatkumāra uvāca ।
+brahmaṇo vacanaṃ śrutvā ṛṣayaḥ sarva eva te ।
+punareva ca papracchurjagataḥ śreyakāraṇam ।।
+brahmovāca।
+gacchāmaḥ śaraṇaṃ devaṃ śūlapāṇiṃ trilocanam ।
+prasādād devadevasya bhaviṣyatha yathā purā ।।
+ityuktā brahmaṇā sārddha kailāsaṃ girimuttamam ।
+dadṛśuste samāsīnamumayā sahitaṃ haram ।।
+tataḥ stotuṃ samārabdho brahma lokapitāmahaḥ ।
+devādhidevaṃ varadaṃ trailokyasya prabhuṃ śivam ।।
+brahmovāca।
+anantāya namastubhyaṃ varadāya pinākine ।
+mahādevāya devāya sthaṇave paramātmane ।।
+namo astu bhuvaneśāya tubhyaṃ tāraka sarvadā ।
+jñānānaṃ dāyako devastvamekaḥ puruṣottamaḥ ।।
+namaste padmagarbhāya padmeśāya namo namaḥ ।
+ghoraśāntisvarūpāya caṇḍakrodha namo astu te ।।
+namaste deva viśveśa namaste suranāyaka ।
+śūlapāṇe namaste astu namaste viśvabhāvana ।।
+evaṃ stuto mahādevo brahmaṇā ṛṣibhistadā ।
+uvāca mā bhairvrajata liṅgaṃ vo bhavitā punaḥ ।।
+kriyatāṃ madvayaḥ śīghraṃ yena me prītiruttamā ।
+bhaviṣyati pratiṣṭhāyāṃ liṅgasyātra na saṃśayaḥ ।।
+ye liṅgaṃ pūjayiṣyanti māmakaṃ bhaktimāśritāḥ ।
+na teṣāṃ durlabhaṃ kicid bhaviṣyati kadācana ।।
+sarveṣāmeva pāpānāṃ kṛtānāmapi jānatā ।
+śuddhyate liṅgapūjāyāṃ nātra kāryā vicāraṇā ।।
+yuṣmābhiḥ pātitaṃ liṅgaṃ sārayitvā mahātsaraḥ ।
+sāṃnihatyaṃ tu vikhyātaṃ tasmiñśīghraṃ pratiṣṭhitam ।।
+yathābhilaṣitaṃ kāmaṃ tataḥ prapsyatha brāhmaṇāḥ ।
+sthāṇurnāmnā hi lokeṣu pūjanīyo divaukasām ।।
+sthāṇvīsvare sthito yasmātstāṇvīśvarastataḥ smṛtaḥ ।
+ye smaranti sadā sthāṇuṃ te muktāḥ sarvakilbiṣaiḥ ।।
+bhaviṣyanti śuddhadehā darśanānmokṣagāminaḥ ।
+ityevamuktā devena ṛṣayo brahmaṇā saha ।।
+tasmād dāruvanālliṅgaṃ netuṃ samupacakramuḥ ।
+na taṃ cālayituṃ śaktāste devā ṛṣibhiḥ saha ।।
+śrameṇa mahatā yuktā brahmāṇaṃ śaraṇaṃ yayuḥ ।
+teṣāṃ śramābhitaptānāmidaṃ brahmābravīd vacaḥ ।।
+kiṃ vā śrameṇa mahatā na yūyaṃ vahanakṣamāḥ ।
+svecchayā pātitaṃ liṅgaṃ devadevena śūlinā ।।
+tasmāt tameva śaraṇaṃ yāsyāmaḥ sahitāḥ surāḥ ।
+prasannaśca mahādevaḥ svayameva nayiṣyati ।।
+ityevamuktā ṛṣayo devāśca brahmaṇā saha ।
+kailāsaṃ girimāsedū rudradarśanakāṅkṣiṇaḥ ।।
+na ca paśyanti taṃ devaṃ tataścintāsamanvitāḥ ।
+brahmāṇamūcurmunayaḥ kva sa devo maheśvaraḥ ।।
+tato brahma ciraṃ dhyātvā jñātvā devaṃ maheśvaram ।
+hastirupeṇa tiṣṭhantaṃ munibhirmānasaiḥ stutam ।।
+atha te ṛṣayaḥ sarve devāśca brahmaṇā saha ।
+gatā mahatsaraḥ puṇyaṃ yatra devaḥ svayaṃ sthitaḥ ।।
+na ca paśyanti taṃ devamanviṣyantastatastataḥ ।
+tataścintānvitā devā brahmaṇā sahitā sthitāḥ ।।
+pasyanti devīṃ suprītāṃ kamaṇḍaluvibhūṣitām ।
+prīyamāṇā tadā devī idaṃ vacanamabravīt ।।
+śrameṇa mahatā yuktā anviṣyanto maheśvaram ।
+pīyatāmamṛtaṃ devāstato jñāsyatha śaṅkaram ।
+etacchratvā tu vacanaṃ bhavānyā samudāhṛtam ।।
+sukhopaviṣṭāste devāḥ papustadamṛtaṃ śuci ।
+anantaraṃ sukhāsīnāḥ papracchuḥ parameśvarīm ।।
+kva sa deva ihāyāto hastirūpadharaḥ sthitaḥ ।
+darśitaśca tadā devyā saromadhye vyavasthitaḥ ।।
+dṛṣṭvā devaṃ harṣayuktāḥ sarve devāḥ saharṣibhiḥ ।
+brahmaṇamagrataḥ kṛtvā idaṃ vacanamabruvan ।।
+tvayā tyaktaṃ mahādeva liṅgaṃ trailokyavanditam ।
+tasya cānayane nānyaḥ samarthaḥ syānmaheśvara ।।
+ityevamukto bhagavān devo brahmādibhirharaḥ ।
+jagāma ṛṣibhiḥ sārddha devadāruvanāśramam ।।
+tatra gatvā mahādevo hastirūpadharo haraḥ ।
+kareṇa jagrāha tato līlayā parameśvaraḥ ।।
+tamādāya mahādevaḥ stūyamāno maharṣibhiḥ ।
+niveśayāmāsa tadā saraḥpārśve tu paścime ।।
+tato devāḥ sarva eva ṛṣayaśca tapodhanāḥ ।
+ātmānaṃ saphalaṃ daṣṭvā stavaṃ cakrurmaheśvare ।।
+namaste paramātman anantayone lokasākṣin parameṣṭhin bhagavan mahāviriñca mahāvibhūte mahākṣetrajña mahāpuruṣa sarvabhūtāvāsa manonivāsa ādideva mahādeva sadāśiva īśāna durvijñeya durārādhya mahābhūteścara parameśvara mahāyogeśvara tryambaka mahāyogin parabrahman paramajyotiḥ brahmaviduttama oṅkāra vaṣaṭkāra svāhākāra svadhākāra paramakāraṇa sarvagata sarvadarśin sarvaśakte sarvadeva aja sahasrārciḥ pṛṣārciḥ sudhāman haradhāma anantadhāma saṃvarta saṃkarṣaṇa vaḍavānala agnīṣomātmaka pavitra mahāpavitra mahāmegha mahāmāyādhara mahākāma kāmahan haṃsa paramahaṃsa mahārājika maheśvara mahākāmuka mahāhaṃsa bhavakṣayakara surasiddhārcita hiraṇyavāha hiraṇyaretaḥ hiraṇyanābha hiraṇyāgrakeśa muñjakeśin sarvalokavaraprada sarvānugrahakara kamaleśaya kuśeśaya hṛdayeśaya jñānodadhe śaṃbho vibho mahāyajña mahāyājñi ka sarvayajñamaya sarvayaṛdaya sarvayajñasaṃstuta nirāśraya samudreśaya atrisaṃbhava bhaktānukampin abhagnayoga yogadhara vāsukimahāmaṇi- vidyotitavigraha haritanayana trilocana jaṭādhara nīlakaṇṭha candrārdhadhara umāśarīrārdhahara gajacarmadhara dustarasaṃsāramahāsaṃhārakara prasīda bhaktajanavatsala evaṃ stuto devagaṇaiḥ subhaktyā sabrahāmukhyaiśca pitāmahena ।
+tyaktvā tadā hastirūpaṃ mahātmā liṅge tadā saṃnidhānaṃ cakāra ।।

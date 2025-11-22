@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7842 | label: meter | g:0.263 m:0.67 ---
+
+iti śrutvā vaco rājñaḥ papraccha dvijapuṅgavaḥ ।
+brāhmaṇa uvāca ।
+ko ayaṃ deśa- kuto lokā uttamā madhyamādhamāḥ ।।

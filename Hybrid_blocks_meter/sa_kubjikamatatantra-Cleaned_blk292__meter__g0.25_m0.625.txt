@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 292 | label: meter | g:0.25 m:0.625 ---
+
+palamātraraso hy ahaṃ guñjāmātras tatodbhavaḥ 
+evaṃ matvā gurūṇāṃ ca na vikalpo vibhūtaye ।।

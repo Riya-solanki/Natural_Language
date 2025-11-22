@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 1046 | label: meter | g:0.114 m:0.596 ---
+
+[] tā ūcuḥ-
+vikrāntir luṇṭhatāṃ yogyā yad vaḥ śākhāgragāmitā ।
+dīnatā luṇṭhitānāṃ syād yan naḥ salilagāhitā ।। [anu]

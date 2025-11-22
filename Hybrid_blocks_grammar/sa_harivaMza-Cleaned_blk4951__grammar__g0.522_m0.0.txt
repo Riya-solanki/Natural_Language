@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4951 | label: grammar | g:0.522 m:0.0 ---
+
+evam uktvā tataḥ kṛṣṇas tac cakraṃ paramāstravit 
+nimīlitākṣo vyasṛjad bāṇaṃ prati mahābalaḥ ।। 
+kṣepaṇād yasya muhyanti lokāḥ sasthāṇujaṅgamāḥ । kravyādāni ca bhūtāni tṛptiṃ yānti mahāmṛdhe ।। tamapratimakarmāṇaṃ samānaṃ sūryavarcasā । cakram udyamya samare kopadīpto gadādharaḥ ।। sa muṣṇan dānavaṃ tejaḥ samare svena tejasā । ciccheda bāhūṃś cakreṇa śrīdharaḥ paramaujasā । 
+alātacakravat tūrṇaṃ bhramamāṇaṃ raṇājire 
+kṣiptaṃ tu vāsudevena bāṇasya raṇamūrdhani । 
+bāṇasya rathamārge ca dvitīya iva bhāskaraḥ । 
+viṣṇor astraṃ sunābhaṃ vai śaighryayogān na dṛśyate ।।

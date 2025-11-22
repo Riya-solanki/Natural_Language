@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 428 | label: meter | g:0.25 m:0.693 ---
+
+potency of tīkṣṇaloha
+krāmati tīkṣṇena rasastīkṣṇena ca jīryate kṣaṇādgrāsaḥ ।
+hemno yonistīkṣṇaṃ rāgān gṛhṇāti tīkṣṇena ।।

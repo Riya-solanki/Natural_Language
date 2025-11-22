@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3813 | label: grammar | g:0.688 m:0.5 ---
+
+ity etāṃ bhagavato mithyābhiśastikṣālanāṃ yaḥ smarati na tasya kadācid alpāpi mithyābhiśastir bhavati । avyāhatendriyaś cākhilapāpamokṣam avāpnotīti ।।

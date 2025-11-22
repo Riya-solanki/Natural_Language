@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 325 | label: grammar | g:0.772 m:0.125 ---
+
+raktagaṇādhikyaṃ darśayannāha ya ityādi ।।
+ye kecidviḍayogā atra granthāntareṣvapi ca kathitāḥ tathā kṣārāmlalavaṇāni kathitāni kṣārā yavakṣārādayaḥ atha ca vṛkṣauṣadhisamudbhavāḥ amlā jambīrādayaḥ amlavṛkṣaśākasamudbhavāśca yānyetāni kathitāni ca punarye dīptavargāḥ kathitā dīptikarā yogā abhihitāḥ te sarve biḍakṣārāmlalavaṇadīptavargāḥ śatanirvyūḍhā garbhadrutikārakāḥ garbhe rasodare drutaṃ dravarūpaṃ kurvanti dhātumaṇiratnādīnīti śeṣaḥ ।।

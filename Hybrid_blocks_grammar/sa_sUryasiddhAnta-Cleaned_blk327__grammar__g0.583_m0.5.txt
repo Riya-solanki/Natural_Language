@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 327 | label: grammar | g:0.583 m:0.5 ---
+
+bhagaṇārdhaṃ raver dattvā kāryās tadvivarāsavah। taih prāṇaih kṛṣṇapakṣe tu śītāṃśur udayaṃ vrajet।।

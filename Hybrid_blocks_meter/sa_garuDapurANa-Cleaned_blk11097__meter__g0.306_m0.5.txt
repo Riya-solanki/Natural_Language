@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11097 | label: meter | g:0.306 m:0.5 ---
+
+dṛṣṭvā hariṃ pulakāṅgastu rudraḥ sabhāṣpacakṣū ruddhakaṇṭhaśca hṛṣṭaḥ ।
+anādyanantabrahmakalpeṣu naiva kṛtaṃ yayā smaraṇaṃ sarvadaiva ।।

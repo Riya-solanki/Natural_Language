@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 159 | label: grammar | g:0.708 m:0.5 ---
+
+strīva gacchati ṣaṇḍho ayaṃ vakty eṣā strī pumān iva prāṇā iva priyo ayaṃ me vidyā dhanam ivārjitā ।।

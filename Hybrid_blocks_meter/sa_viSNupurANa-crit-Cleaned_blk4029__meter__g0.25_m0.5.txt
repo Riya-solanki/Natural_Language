@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4029 | label: meter | g:0.25 m:0.5 ---
+
+aṇor aṇīyāṃsam asatsvarūpaṃ tvāṃ paśyato ajñānanivṛttir agryā 
+dhīr asya dhīryasya bibharti nānyad vareṇyarūpāt parataḥ parātman ।।

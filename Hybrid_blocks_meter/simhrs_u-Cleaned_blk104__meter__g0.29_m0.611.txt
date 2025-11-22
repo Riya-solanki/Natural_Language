@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 104 | label: meter | g:0.29 m:0.611 ---
+
+tatra svakīyā-
+sampat-kāle vipat-kāle yā na muñcati vallabham । 
+śīlārjava-guṇopetā sā svakīyā kathitā budhaiḥ ।।

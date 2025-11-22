@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 337 | label: hybrid | g:0.429 m:0.422 ---
+
+vedasūtrayorvirodhe aguṇe tvanyāyyakalpanā' iti sūtrāṇyanyathā netavyāni ।
+ānandamayaśabdena tadvākyasya brahma pucchaṃ pratiṣṭhā ityetadgataṃ brahmapadamupalakṣyate ।
+etaduktaṃ bhavati- ānandamaya ityādivākye yat brahma pucchaṃ pratiṣṭhā iti brahmapadaṃ tatsvapradhānameveti ।
+yattu brahmādhikaraṇameveti vaktavye brahma puccham ityāha śrutiḥ, tatkasya hetoḥ, pūrvamavayavapradhānaprayogāttatprayogasyaiva buddhau saṃnidhānāt tenāpi cādhiraraṇalakṣaṇopapatteriti ।
+māntravarṇikameva ca

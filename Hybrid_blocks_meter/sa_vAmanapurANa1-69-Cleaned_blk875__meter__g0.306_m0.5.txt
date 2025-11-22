@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 875 | label: meter | g:0.306 m:0.5 ---
+
+vibhave sati naivātti na dadāti juhoti ca ।
+tamāhurākhuṃ tasyānnaṃ bhuktvā kṛcchreṇa suddhyati ।।

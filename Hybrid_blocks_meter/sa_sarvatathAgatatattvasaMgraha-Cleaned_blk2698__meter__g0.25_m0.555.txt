@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2698 | label: meter | g:0.25 m:0.555 ---
+
+atha dharmamudrottamasiddhitantraṃ bhavati ।
+anakṣareṣu dharmeṣu prapañco na hi vidyate ।
+imaṃ vadaṃstu dharmāgrīṃ bhāvayan sauritāṃ brajed ।।

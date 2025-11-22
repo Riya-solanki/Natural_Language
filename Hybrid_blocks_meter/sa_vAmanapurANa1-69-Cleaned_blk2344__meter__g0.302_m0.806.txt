@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2344 | label: meter | g:0.302 m:0.806 ---
+
+samabhyetyābrabīdenāṃ kandarpaśarapīḍitaḥ ।
+tvaṃ mugdhe mohayasi māṃ dṛṣṭyaiva madirekṣaṇe ।।

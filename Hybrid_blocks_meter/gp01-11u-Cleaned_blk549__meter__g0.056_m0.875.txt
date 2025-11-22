@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 549 | label: meter | g:0.056 m:0.875 ---
+
+smāraṃ smāraṃ tan-mukhaṃ susmitāktaṃ
+vyaktaṃ vyaktaṃ gopayan prema-dhāma ।
+ānandenānalpa-jalpeṣu gopeṣv
+ātmārāma-prāyatāṃ prāpa nandaḥ ।। [śālinī]

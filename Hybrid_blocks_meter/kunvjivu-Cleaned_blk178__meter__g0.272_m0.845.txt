@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 178 | label: meter | g:0.272 m:0.845 ---
+
+himavyapāyādviśadādharāṇā- māpāṇḍurībhūtamukhacchavīnām ।
+svedodgamaḥ kiṃpuruṣāṅganānāṃ cakre padaṃ patraviśeṣakeṣu ।।

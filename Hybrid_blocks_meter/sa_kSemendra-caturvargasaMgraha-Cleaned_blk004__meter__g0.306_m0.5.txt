@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 4 | label: meter | g:0.306 m:0.5 ---
+
+satyaskandhas taruṇakaruṇāpūtapīyūṣasiktaḥ kṣānticchāyaḥ śubhamatilatālaṃkṛtaḥ śīlamūlaḥ ।
+bhūyāt sattvaprasavavilasatpallavaḥ puṇyabhājāṃ dharmaḥ prodyatkuśalakusumaḥ śrīphalo maṅgalāya ।।

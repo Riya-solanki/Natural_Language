@@ -1,0 +1,3 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 73 | label: hybrid | g:0.5 m:0.5 ---
+
+tathānyadapi saṃhāro yo miśro miśra eva saḥ ।

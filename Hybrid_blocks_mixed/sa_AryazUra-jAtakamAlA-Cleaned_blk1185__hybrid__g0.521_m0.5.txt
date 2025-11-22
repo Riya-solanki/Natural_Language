@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1185 | label: hybrid | g:0.521 m:0.5 ---
+
+evaṃ vivikteṣu tapaḥkṛśaṃ tvāṃ dharmeṇa sārdhaṃ paribhūya kaścit ।
+imāṃ prasahyāpaharedyadā te śokātparaṃ kiṃ bata tatra kuryāḥ ।।

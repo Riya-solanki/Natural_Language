@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1254 | label: meter | g:0.275 m:0.714 ---
+
+pūrvakṛtaḥ ।
+janmāntaropacitastattvajñānaheturdharmapravivekaḥ
+phalānubandhaḥ ।
+yogābhyāsamāmarthya, niṣphale hyabhyāse nābhyāsamādriyeran
+dṛṣṭaṃ hi laukikeṣu karmasv abhyāsasāmarthyam
+।।

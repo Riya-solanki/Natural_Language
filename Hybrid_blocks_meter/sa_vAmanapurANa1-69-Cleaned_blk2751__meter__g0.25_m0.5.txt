@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2751 | label: meter | g:0.25 m:0.5 ---
+
+praṇipatya tathā bhaktyā vākyamāha maheśvaram ।
+kiṃ tiṣṭhasi jagannātha samuttiṣṭha raṇotsukaḥ ।।

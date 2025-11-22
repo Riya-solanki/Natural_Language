@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 110 | label: hybrid | g:0.438 m:0.5 ---
+
+[] aho kutaḥ kuto vā manaḥ saṃyamanīyam, yato goṣṭhāni ca tāni draṣṭuṃ manaḥ prasabham utkaṇṭhayanti । yathā-

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 264 | label: meter | g:0.0 m:0.5 ---
+
+[] ratnacūḍa uvāca, "prāṇi-koṭi-nirmañchanīya-nakha-koṭe, madhukaṇṭha-snigdhakaṇṭha-nāmānau ।"

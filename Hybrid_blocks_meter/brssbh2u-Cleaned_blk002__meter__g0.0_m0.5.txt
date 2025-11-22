@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 2 | label: meter | g:0.0 m:0.5 ---
+
+[dvitīye avirodhākhyādhyāye prathamapāde sāṃkhyayogakāraṇādādismṛtibhiḥ sāṃkhyādiprayuktatarkaiśca vedāntasamanvayavirodhaparihāraḥ]

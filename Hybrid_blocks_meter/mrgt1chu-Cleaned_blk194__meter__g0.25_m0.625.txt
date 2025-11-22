@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 194 | label: meter | g:0.25 m:0.625 ---
+
+vakṣyamāṇakālaparimāṇasya svāpasyānte bhūyaḥ pūrvavad aharmukhe parameśvaraśceṣṭate ।। 
+tatsvāpe'pi kriyādiśaktayas tattatkāryaniṣpādanodyuktā bhavantītyāha ।।

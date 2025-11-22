@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 1101 | label: grammar | g:0.688 m:0.375 ---
+
+pāñcālakaḥ
+śṛṇotu devo devī ca । astīha devena hate madrādhipatau śalye gāndhārarājakulaśalabhe sahadevaśastrānalaṃ praviṣṭe senāpatinidhananirākrandaviralayodhojjhitāsu samarabhūmiṣu ripubalaparājayoddhatavalgitavicitraparākramāsāditavimukhārāticakrāsu dhṛṣṭadyumnādhiṣṭhitāsu ca yuṣmatsenāsu pranaṣṭeṣu kṛpakṛtavarmāśvatthāmasu tathā dāruṇāmaparyuṣitāṃ pratijñāmupalabhya kumāravṛkodarasya na jñāyate kvāpi pralīnaḥ sa durātmā kauravādhamaḥ ।

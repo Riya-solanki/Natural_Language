@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2169 | label: meter | g:0.194 m:0.5 ---
+
+so ājñāpayata saṃrabdhaḥ sacivān ātmano hitān 
+yattā bhavata sarve vai devakyā garabhakṛntane ।।

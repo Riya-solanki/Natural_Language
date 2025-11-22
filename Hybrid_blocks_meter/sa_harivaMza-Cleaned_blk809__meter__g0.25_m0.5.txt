@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 809 | label: meter | g:0.25 m:0.5 ---
+
+muhūrtād iva rājā sa saha tābhyāṃ rathe sthitaḥ 
+pratilabhya tataḥ saṃjñāṃ pratyāgacchad ariṃdama ।।

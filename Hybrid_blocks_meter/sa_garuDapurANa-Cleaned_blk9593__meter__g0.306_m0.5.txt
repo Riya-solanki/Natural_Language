@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9593 | label: meter | g:0.306 m:0.5 ---
+
+na kāṣṭhe vidyate devo na śilāyāṃ kadācana ।
+bhāve hi vidyate devastasmādbhāvaṃ samācaret ।।

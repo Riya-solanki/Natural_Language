@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7237 | label: meter | g:0.25 m:0.5 ---
+
+ativāhaśarīraṃ ca kathaṃ hi śrayate tadā ।
+śavaṃ skandhe vahetputro agnidātā ca pautrakaḥ ।।

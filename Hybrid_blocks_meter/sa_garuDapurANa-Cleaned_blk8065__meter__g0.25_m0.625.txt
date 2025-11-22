@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8065 | label: meter | g:0.25 m:0.625 ---
+
+āvāhanādikaṃ śeṣaṃ kuryācca pitṛśeṣavat ।
+sāmyāṃ dhenuṃ tato dadyādvasūddeśaṃ dvijāya tu ।।

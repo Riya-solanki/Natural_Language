@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 410 | label: grammar | g:0.625 m:0.5 ---
+
+[] yāḥ khalu bala-balānujayor yathāsvaṃ pṛthak pṛthag anurāga-dharaṇād vibhāgam āgatās tat-tan-niṣṭha-dṛṣṭitayā tiṣṭhanti sma ।

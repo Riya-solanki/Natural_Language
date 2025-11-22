@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 253 | label: meter | g:0.25 m:0.75 ---
+
+mitaśca samitaścaiva sumitaśca mahābalaḥ ।
+ṛtajitsatyajiccaiva suṣeṇaḥ senajittathā ।।

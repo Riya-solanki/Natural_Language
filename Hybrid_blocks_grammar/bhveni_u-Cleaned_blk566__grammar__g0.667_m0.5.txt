@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 566 | label: grammar | g:0.667 m:0.5 ---
+
+kṛtaparikarasya bhavādṛśasya trailokyamapi na kṣamaṃ paripanthībhavituṃ kiṃ punaryudhiṣṭhirabalam । tadevaṃ manye parikalpitābhiṣekopakaraṇaḥ kauravarājo na cirāttvāmevābhyapekṣamāṇastiṣṭhatīti ।

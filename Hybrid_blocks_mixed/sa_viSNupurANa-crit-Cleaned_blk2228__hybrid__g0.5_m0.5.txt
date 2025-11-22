@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2228 | label: hybrid | g:0.5 m:0.5 ---
+
+viṣṭikartātha taṃ tatra viṣṭiyogyo ayam ity api ।।

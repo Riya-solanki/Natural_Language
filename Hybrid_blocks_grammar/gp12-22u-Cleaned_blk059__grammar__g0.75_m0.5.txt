@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 59 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca pūrva-pūrvasmād apy apūrvatayā maṅgala-vastu-nikara-karaiḥ puraskṛta-kṣiti-deva-nara-deva-puraḥsarair vrajavāsi-varair upavrajya nīrājya ca sapaśu-pāla-balaḥ sa gopālaḥ sadanaṃ sādaram āsādayāmāse । prasādayāmāse ca sulalita-lālanayā janita-sukha-jananī-mukha-purandhrī-janena ।

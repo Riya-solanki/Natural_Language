@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 101 | label: meter | g:0.306 m:0.5 ---
+
+te narāḥ susvarā bhonti sundarā divi bhūtale ।
+divyaśrotrā mahāvijñāḥ suśabdaṃ śṛṇuyuḥ sadā ।।

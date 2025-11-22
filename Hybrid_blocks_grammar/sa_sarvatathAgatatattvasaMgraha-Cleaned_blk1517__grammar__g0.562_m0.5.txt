@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1517 | label: grammar | g:0.562 m:0.5 ---
+
+atha māyāvajro vidyārājedaṃ svahṛdayamabhāṣat oṃ vajramāya vidarśaya sarva huṃ phaṭ ।।

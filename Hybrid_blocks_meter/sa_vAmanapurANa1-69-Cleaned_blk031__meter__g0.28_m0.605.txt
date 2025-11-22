@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 31 | label: meter | g:0.28 m:0.605 ---
+
+devyuvāca ।
+kathaṃ hi devadeveśa prāvaṭkālo gamiṣyati ।
+vṛkṣamūle sthitāyā me suduḥkhena vadāmyataḥ ।।

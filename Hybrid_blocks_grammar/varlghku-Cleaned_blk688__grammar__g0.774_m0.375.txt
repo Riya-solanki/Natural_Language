@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 688 | label: grammar | g:0.774 m:0.375 ---
+
+mriyaterluṅliṅośca ।।
+luṅliṅoḥ śitaśca prakṛtibhūtānmṛṅastaṅ nānyatra । iyaṅ । mamāra । mariṣyati । amṛta ।। ।। prāyeṇāyaṃ vyāṅpūrvaḥ । vyāpapre । vyāpariṣyate । vyāpṛṣātām ।। juṣī prītisevanayoḥ ।। juṣate ।। ovijī bhayacalanayoḥ ।। prāyeṇāyamutpūrvaḥ । udvijate ।।

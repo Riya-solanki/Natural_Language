@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1535 | label: meter | g:0.194 m:0.625 ---
+
+yānīndriyāṇy aśeṣāṇi buddhikarmātmakāni vai 
+śararūpāṇy aśeṣāṇi tāni dhatte janārdanaḥ ।।

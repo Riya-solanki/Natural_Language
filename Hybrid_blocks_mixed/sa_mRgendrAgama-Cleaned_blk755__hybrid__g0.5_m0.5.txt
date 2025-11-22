@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 755 | label: hybrid | g:0.5 m:0.5 ---
+
+tat [sūrapūjitaṃ] sarvāmarārcitaṃ mādhyandinaṃ savanaṃ tadānīṃ mantrajapadevatārcanāgnihavanādi [anirvartya] avidhāya yo [aśnāti] bhuṅkte taṃ [yogapīṭhavyavasthitā mantrāḥ] yogapīṭha āvāhitamantrā nādhitiṣṭhanti nainamīpsitaphalena yojayantīti yāvat। yogapīṭhaṃ nāmārcādhāraḥ saṃhitāntaroktalakṣaṇaḥ। tathā ca pauṣkare

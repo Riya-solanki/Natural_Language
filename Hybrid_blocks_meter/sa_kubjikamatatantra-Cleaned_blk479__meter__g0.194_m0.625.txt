@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 479 | label: meter | g:0.194 m:0.625 ---
+
+devadrohe gurudrohe koṭitriṃśaiḥ sa śudhyati 
+chedane puṣpapattrāṇām āvartāc chudhyate tu saḥ ।।

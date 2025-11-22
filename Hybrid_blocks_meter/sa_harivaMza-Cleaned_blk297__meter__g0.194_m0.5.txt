@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 297 | label: meter | g:0.194 m:0.5 ---
+
+yāvanto manavaś caiva yāvantaṃ kālam eva ca 
+manvantarakathāṃ brahmañ chrotum icchāmi tattvataḥ ।।

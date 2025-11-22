@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6350 | label: meter | g:0.302 m:0.806 ---
+
+anāvṛṣṭyā rājabhayānmūṣikādyairupadravaiḥ ।
+kṛṣyādike bhavedbādhā sā kusīde na vidyate ।।

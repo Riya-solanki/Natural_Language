@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 378 | label: meter | g:0.306 m:0.5 ---
+
+kālabhedenecchayā santi na santi ceti siddhāntapakṣo draṣṭavyaḥ ।
+phalaṃ tu tattacchrutermukhyatvamiti vivekaḥ ।। ।।

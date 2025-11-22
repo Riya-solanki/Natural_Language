@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1843 | label: meter | g:0.306 m:0.5 ---
+
+yameva paśyanti tu savyapatrapaṃ śamābhijātaṃ vyavahāranaipuṇam ।
+ṛṇaṃ prayacchanti raho api tadvidhe tadarpaṇaṃ hyabhyudayāvahaṃ dhanam ।।

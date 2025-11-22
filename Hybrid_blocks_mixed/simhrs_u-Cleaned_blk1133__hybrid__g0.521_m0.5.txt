@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1133 | label: hybrid | g:0.521 m:0.5 ---
+
+atra nāyaka-khaḍga-dhārā-galitātmanaḥ kasyacit svarga-pratināyaka-vīrasya menakādi-svarloka-gaṇikāsu avaiṣamyeṇa rāgād ābhāsatvam ।

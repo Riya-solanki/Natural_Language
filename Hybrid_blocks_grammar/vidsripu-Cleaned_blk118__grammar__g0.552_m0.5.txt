@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 118 | label: grammar | g:0.552 m:0.5 ---
+
+viramati mahākalpe nābhīpathaikaniketanaṃ tribhuvanapuraḥśilpī yasya pratikṣaṇam ātmabhūḥ ।
+kimadhikaraṇā kīdṛk kasya vyavasthitir ity asāv udaram aviśad draṣṭuṃ tasmai jagannidhaye namaḥ ।।

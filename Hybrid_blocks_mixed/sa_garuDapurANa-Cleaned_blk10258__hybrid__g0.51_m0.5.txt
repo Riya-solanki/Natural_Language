@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10258 | label: hybrid | g:0.51 m:0.5 ---
+
+khagendrātaḥ prakṛtiḥ sūkṣmarūpā sā nityā sā satyabhūtā sadaiva ।
+evaṃ svayaṃ kālavāyvādikānāṃ parā ṇavaḥ satyarūpāśca santi ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 425 | label: grammar | g:0.729 m:0.5 ---
+
+[] tad evam upatiṣṭhamānatayā dvayor apy eka-niṣṭhatāyāṃ jātāyāṃ punar vṛndāvana-candramā vṛndāṃ nirvarṇya pūrṇimāṃ prati varṇayāmāsa, keyaṃ bhavatīm anuvartamānā vartate?

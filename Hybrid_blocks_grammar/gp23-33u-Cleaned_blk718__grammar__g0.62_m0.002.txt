@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 718 | label: grammar | g:0.62 m:0.002 ---
+
+[] tathā hi prathame dvārakā-prajā-vacane-yarhy ambujākṣāpasasāra bho bhavān kurūn madhūn vātha suhṛd-didṛkṣayā [BhP ] iti pratyakṣaṃ lakṣyate । na ca tat tu kālāntara-gatam । kurukṣetra-yātrāyāṃ hi sphuṭam asya vacanaṃ tasya tat-kālatām eva racayati । tathā hi-
+api smaratha naḥ sakhyaḥ svānām artha-cikīrṣayā ।
+gatāṃś cirāyitāñ chatru-pakṣa-kṣapaṇa-cetasaḥ ।।[BhP ] iti ।

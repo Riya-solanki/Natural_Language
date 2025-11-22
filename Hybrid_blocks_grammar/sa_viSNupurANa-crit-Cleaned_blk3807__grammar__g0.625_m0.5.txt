@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3807 | label: grammar | g:0.625 m:0.5 ---
+
+tad idaṃ syamantakaratnaṃ gṛhyatām icchayā yasyābhimataṃ tasya samarpyatām । tataḥ so adharavastranigopitātilaghukanakasamudgakaṃ pragaṭīkṛtavān ।।

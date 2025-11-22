@@ -1,0 +1,11 @@
+--- source: sypadatu-Cleaned.txt | block: 5 | label: meter | g:0.0 m:1.0 ---
+
+[] vyatikarasukhabhedaḥ kāminīkāmukānāṃ
+divasasamayadūto dundubhīnāṃ purodhāḥ
+kalam uṣasi kharatvād yasya kaṇṭhīravāṇāṃ
+balavad abhinadanto gardabhā nānuyānti
+kiṃ ca tāvad anena ghuṣyate 
+jayati madanasya ketuḥ
+kāntaṃ praty udyato vilāsinyāḥ
+śirasā prārthayitavyaḥ
+sālaktakanūpuraḥ pādaḥ

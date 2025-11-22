@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8450 | label: meter | g:0.306 m:0.5 ---
+
+ṣaṭ saptame kaṭī guhyamṛrū cāpyaṣṭame tathā ।
+tālū pādau ca navame daśame ahni kṣudhā bhavet ।।

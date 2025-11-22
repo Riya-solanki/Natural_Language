@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 454 | label: grammar | g:0.75 m:0.5 ---
+
+na brūmo yāni lakṣaṇāni bhavanti teṣāmabhāva iti kiṃ tu keṣu cillakṣaṇānyavasthitāni, anavasthitāni keṣucit apekṣamāṇo yeṣu lakṣaṇānāṃ bhāvaṃ na paśyati tāni lakṣaṇābhāvena prapidyate iti ।।

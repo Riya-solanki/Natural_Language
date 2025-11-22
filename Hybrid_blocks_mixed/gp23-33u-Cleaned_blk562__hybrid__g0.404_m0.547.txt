@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 562 | label: hybrid | g:0.404 m:0.547 ---
+
+kim idaṃ śyāmalaṃ rūpaṃ madhuraṃ raudram eva vā ।
+strī cāstrī ca na yad divyaṃ vastram astraṃ yathāyatham ।।
+[] pāpa-kaṃse cāpavargam ite-

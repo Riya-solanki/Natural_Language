@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 8 | label: hybrid | g:0.444 m:0.5 ---
+
+draviṇam āpadi bhūṣaṇam utsave śaraṇam ātmabhaye niśi dīpakaḥ 
+bahuvidhābhyupakārabharakṣamo bhavati ko api bhavān iva sanmaṇiḥ ।।

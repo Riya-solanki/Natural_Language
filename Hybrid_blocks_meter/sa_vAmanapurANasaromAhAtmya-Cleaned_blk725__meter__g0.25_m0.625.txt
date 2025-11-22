@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 725 | label: meter | g:0.25 m:0.625 ---
+
+prāpte kaliyuge ghore adharme pratyupasthite ।
+aruṇāsaṃgame snātvā muktimāpnoti mānavaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3631 | label: meter | g:0.194 m:0.5 ---
+
+sa tatra gatvā ramyāṇi dadarśa vipulāni vai 
+bhuktapūrvāṇy araṇyāni sarāṃsi surabhīṇi ca ।।

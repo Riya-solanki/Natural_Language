@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1284 | label: grammar | g:0.559 m:0.441 ---
+
+yadā kiṃcijjño ahaṃ gaja iva madāndhaḥ samabhavaṃ tadā sarvajño asmīty abhavad avaliptaṃ mama manaḥ ।
+yadā kiṃcit kiṃcid budhajanasakāśād adhigataṃ tadā mūrkho asmīti jvara iva mado me vyapagataḥ ।।
+kālidāsasya

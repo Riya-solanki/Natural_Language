@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 689 | label: meter | g:0.139 m:0.969 ---
+
+rāja-prasādād, yathā-
+prītir asya dadato' bhavat tathā
+yena tat-priya-cikīrṣavo nṛpāḥ ।
+sparśitair adhikam āgaman mudaṃ
+nādhiveśma-nihitair upāyanaiḥ ।।

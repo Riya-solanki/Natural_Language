@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 375 | label: grammar | g:0.604 m:0.5 ---
+
+dṛṣṭiḥ śaiśavamaṇḍanā pratikalaṃ prāgalbhyam abhyasyate pūrvākāram uras tathāpi kucayoḥ śobhāṃ navām īhate ।
+no dhatte gurutāṃ tad apy upacitābhogā nitambasthalī tanvyāḥ svīkṛtamanmathaṃ vijayate netraikapeyaṃ vapuḥ ।।

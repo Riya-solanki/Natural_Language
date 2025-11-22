@@ -1,0 +1,6 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 34 | label: meter | g:0.25 m:1.0 ---
+
+māṃsayoṣinmadhutyāgo vratinaḥ kṣitiśāyitā ।
+mātrārakṣaṇamekasya kamaṇḍalusahāyatā ।
+strīgītanartitālāpa- vilāsānāmupekṣaṇam ।
+striyā raho avyavasthānaṃ sragabhyaṅgādivarjanam ।

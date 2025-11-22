@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2764 | label: meter | g:0.306 m:0.5 ---
+
+tacchaṃbhuvacanaṃ śrutvā śailādiḥ prāha saṃkaram ।
+kaḥ saṃdeho mahādeva yat tvaṃ jayasi śātravān ।।

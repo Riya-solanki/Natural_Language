@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 314 | label: hybrid | g:0.444 m:0.5 ---
+
+śīlena udgata bhavanti samādhikāṅkṣī sthita gocare daśabalāna akhaṇḍaśīlāḥ 
+yāvanti saṃvarakriya anuvartayanti tāṃ sarvasattvahita bodhayi nāmayanti ।।

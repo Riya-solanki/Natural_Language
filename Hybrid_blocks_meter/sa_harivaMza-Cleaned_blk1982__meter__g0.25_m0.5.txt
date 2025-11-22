@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1982 | label: meter | g:0.25 m:0.5 ---
+
+śāntiṃ vraja na bhetavyaṃ prasanno asmi mahāmate 
+śāpe asmin saritāṃ nātha bhaviṣyaṃ śṛṇu kāraṇam ।।

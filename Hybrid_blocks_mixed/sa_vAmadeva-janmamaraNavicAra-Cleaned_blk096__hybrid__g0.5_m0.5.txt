@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 96 | label: hybrid | g:0.5 m:0.5 ---
+
+avayavabhedo api navame daśame māsi prabalaiḥ sūtimārutaiḥ ।।

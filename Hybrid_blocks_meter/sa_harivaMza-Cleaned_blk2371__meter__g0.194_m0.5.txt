@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2371 | label: meter | g:0.194 m:0.5 ---
+
+adyaiva niścayaprāptir yadi gantavyam eva naḥ 
+śīghram ājñāpyatāṃ ghoṣaḥ sajjībhavata māciram ।।

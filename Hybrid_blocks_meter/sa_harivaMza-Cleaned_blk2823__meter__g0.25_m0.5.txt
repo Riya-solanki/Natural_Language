@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2823 | label: meter | g:0.25 m:0.5 ---
+
+tvayā hi nityaṃ rakṣyaḥ sa āhaveṣu mahatsu ca 
+rakṣitasya tvayā tasya na mṛtyuḥ prabhaviṣyati ।।

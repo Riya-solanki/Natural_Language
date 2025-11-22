@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1423 | label: grammar | g:0.635 m:0.5 ---
+
+vāsaś carma vibhūṣaṇaṃ śavaśiro bhikṣāṇatenāśanaṃ gaur ekaḥ sa ca lāṅgale apy akuśalas tanmātrasāraṃ dhanam ।
+śarvasyety avagamya yāti vimukhī ratnālayaṃ jāhvanī kaṣṭaṃ durgatikasya jīvitam aho dārair api tyajyate ।।

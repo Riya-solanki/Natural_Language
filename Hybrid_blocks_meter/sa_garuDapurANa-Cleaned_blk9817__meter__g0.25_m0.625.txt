@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9817 | label: meter | g:0.25 m:0.625 ---
+
+soḍhvā vai yātanāḥ sarvā gatvā vaivasvatakṣayam ।
+nistīrṇayātanāste tu lokamāyānti cihnitāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3667 | label: meter | g:0.25 m:0.5 ---
+
+tasmin snātvā tathā prācīṃ pūjyeśaṃ viśvakarmiṇam ।
+prācīne cāpare daityo draṣṭuṃ kāmeśvaraṃ yayau ।।

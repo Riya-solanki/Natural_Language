@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4520 | label: meter | g:0.194 m:0.625 ---
+
+pratigṛhya tu tāṃ pūjāṃ tam uvāca janārdanaḥ 
+rathapanthānam icchāmi dattaṃ nadanadīpate ।।

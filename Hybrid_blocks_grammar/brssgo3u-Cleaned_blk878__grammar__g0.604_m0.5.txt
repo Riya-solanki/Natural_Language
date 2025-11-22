@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 878 | label: grammar | g:0.604 m:0.5 ---
+
+yadi naiṣṭhiko brahmacārī pramādādavakīryeta kiṃ tasya abrahmacaryāvakīrṇī nairṛtaṃ gardabhamālabhet' ityetatprāyaścittaṃ syāduta neti ।

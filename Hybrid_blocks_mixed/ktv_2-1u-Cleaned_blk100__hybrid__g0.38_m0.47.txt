@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 100 | label: hybrid | g:0.38 m:0.47 ---
+
+astiḥ punar janisamānārthād bhavater uparitanīm avasthām abhilapan sattayātmabhavanaṃ bhavad bhāvayatīty evam ākhyātapratyayaṃ labhate ।
+tatrāpi tu kālakṛtabhedapūrvottarasāmānyasattārūpeṇa pūrvavad eva prayojyaprayojakavyāpārakalpanānusartavyā ।

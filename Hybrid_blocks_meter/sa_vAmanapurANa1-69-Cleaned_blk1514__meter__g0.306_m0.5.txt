@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1514 | label: meter | g:0.306 m:0.5 ---
+
+gehaṃ tato abhyetya maheśvarasya kṛtapraṇāmā viviśurmaharṣe ।
+sasmāra nandipramukhāṃśca savānabhyetya te vandya haraṃ niṣaṇṇāḥ ।।

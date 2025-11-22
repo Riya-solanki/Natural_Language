@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 887 | label: meter | g:0.25 m:0.625 ---
+
+pārśvābhyāṃ saprahārābhyām adhare vraṇakhaṇḍite ।
+dūti saṃgrāmayogyāsi na yogyā dūtakarmaṇi ।।

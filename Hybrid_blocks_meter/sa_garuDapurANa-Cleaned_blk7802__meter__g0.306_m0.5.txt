@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7802 | label: meter | g:0.306 m:0.5 ---
+
+anaḍvān kīdṛśaḥ proktaḥ kasmin kāle viśeṣataḥ ।
+ko vidhistasya nirdiṣṭaḥ sarvaṃ me kṛpayā vada ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 333 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tadā ca, yadā prasaṅga-saṅgatyā kṛṣṇeti varṇa-dvayaṃ karṇābhyarṇam āpadyate, vaṃśī-vādyaṃ vā, tadā tam eva paśyantya iva hṛṣyantyaḥ punar apy apaśyantyas tāpam āpnuvanti sma, kintu kañcit prati na kiñcit prakāśayām āsuḥ । cetasi tu bhāvayām babhūvuḥ, yathā-

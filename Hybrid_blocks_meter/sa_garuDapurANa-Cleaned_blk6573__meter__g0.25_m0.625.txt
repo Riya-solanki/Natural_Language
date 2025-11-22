@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6573 | label: meter | g:0.25 m:0.625 ---
+
+cārayettrīṇi kṛcchāṇi trīṇi cāndrāyaṇāni vai ।
+jātakarmādisaṃskāraṃ vasiṣṭho munirabravīt ।।

@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 90 | label: hybrid | g:0.398 m:0.432 ---
+
+pramāṇaprameyavyavahāradṛḍhīkṛtameva śiṣyahitāya svarūpābhidhānapūrvakaṃ sarvalokapratyakṣatayā adhyāsaṃ sudṛḍhīkaroti- evamayamanādiranantaḥ, tattvajñānamantareṇāśakyasamucchedaḥ ।
+anādyanantatve heturuktaḥ- naisargika iti ।
+mithyāpratyayarūpaḥ mithyāpratyayānāṃ rūpamanirvacanīyatvam; tadyasya sa tathoktaḥ; anirvacanīya ityarthaḥ ।

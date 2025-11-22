@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4063 | label: meter | g:0.194 m:0.625 ---
+
+garbhasaṃkarṣaṇāt so atha loke saṃkarṣaṇeti vai 
+saṃjñām avāpsyate vīraḥ śvetādriśikharopamaḥ ।।

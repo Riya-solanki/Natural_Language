@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 340 | label: meter | g:0.111 m:0.521 ---
+
+nāmni śrotraṃ sadana-saraṇau netram āmoda-pūre
+ghrāṇaṃ pṛṣṭhe vapur api guṇe sūktam āsāṃ madīyam ।
+māṃ projjhyāsīd drutam iti hariḥ svīya-doṣaṃ vicārāt
+pratyākhyāya sphuṭam anusaraṃ tatra citrāyate sma ।। [mandākrāntā]

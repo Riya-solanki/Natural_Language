@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1118 | label: meter | g:0.306 m:0.625 ---
+
+tvameva dveṣa icchā ca rāgo mohaḥ kṣamākṣame ।
+vyavasāyo dhṛtirlobhaḥ kāmakrodhau jayājayau ।।

@@ -1,0 +1,7 @@
+--- source: grasht_u-Cleaned.txt | block: 384 | label: hybrid | g:0.414 m:0.441 ---
+
+grāsajāraṇāyāṃ yantrādikaraṇamāha dolāyāmityādi ।।
+yathākrameṇaiva catuḥṣaṣṭyādinaiva catvāro grāsā dolāyāṃ jāryāḥ śeṣā grāsāścatvāraḥ asaṃkhyā vā kacchapayantre jalayantre ca jāryāḥ ।।
+śeṣāścatvāraḥ kutaḥ yato anyaśāstreṣu aṣṭaiva grāsāḥ ।।
+jāraṇe kimavadhiḥ yāvaddviguṇādikaṃ jarati pāradāddviguṇitaṃ ādiśabdena dviguṇānnyūnaṃ na kāryaṃ adhikamadhikaṃ ca bhavatu ।।
+śaktyavatare'ṣṭau bṛhacchāstre kvacid aṣṭau grāsā uktāḥ kvacidviṃśatigrāsā iti ।।

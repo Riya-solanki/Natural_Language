@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 300 | label: hybrid | g:0.465 m:0.5 ---
+
+saci kalpakoṭi gaṇaye vidu bodhisattvo cirasaṃjña bodhi samudāniya tena duḥkhe 
+ciraduḥkha bheṣyati samācaramāṇu dharmaṃ tatu vīryapāramitahīna kusīdarūpo ।।

@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 151 | label: meter | g:0.194 m:0.625 ---
+
+viviktaṃ bhūtalaṃ śaśvad bhāvānāṃ svātmaniṣṭhiteḥ 
+tat kathaṃ jātu tajjñānaṃ bhinnasyābhāvasādhanam ।।

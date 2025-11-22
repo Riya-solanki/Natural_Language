@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1877 | label: meter | g:0.306 m:0.5 ---
+
+adharmamasmād bhṛśadurjayaṃ jayan kadaryabhāvaṃ ca durutaraṃ taran ।
+upaihi ratnātiśayojjvalaṃ jvalan divaspateḥ kāñcanagopuraṃ puram ।।

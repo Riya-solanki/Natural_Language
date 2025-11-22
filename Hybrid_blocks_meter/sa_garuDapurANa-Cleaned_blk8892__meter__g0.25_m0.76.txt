@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8892 | label: meter | g:0.25 m:0.76 ---
+
+ānantyātkuladharmāṇāṃ puṃsāñcaivāyuṣaḥ kṣayāt ।
+asthiratvāccharīrasya dvādaśāhaḥ praśasyate ।।
+niragnikaḥ sāgniko vā dvādaśāhe sapiṇḍayet ।।
+dvādaśāhe tripakṣe vā ṣaṇmāse vatsare api vā ।
+sapiṇḍīkaraṇaṃ proktamṛṣibhistattvadarśibhiḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 231 | label: grammar | g:0.75 m:0.5 ---
+
+yady apy atra varapradoddhatatamāḥ pīḍājarāmṛtyava ete vā kṣaṇam āsatāṃ bahumataḥ śabdādir evāsthiraḥ tatrāpi spṛhayāmi santatasukhākāṅkṣī ciraṃ sthāsnave bhogāsvādayutatvadaṅghrikamaladhyānāgrya jīvātave ।।

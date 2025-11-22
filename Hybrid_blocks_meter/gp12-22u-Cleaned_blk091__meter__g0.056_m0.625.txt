@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 91 | label: meter | g:0.056 m:0.625 ---
+
+gāvo huṅkṛti-ghoṣaṇā valayitāḥ kṛṣṇaṃ lihantyaś cirāt
+tad-bāhu-dvaya-veṣṭanena vilasat-kaṇṭhyaḥ samutkaṇṭhitāḥ ।
+yatnāt tyājita-tad-grahāś ca paśupaiḥ kṣiptāś ca tasthuś ciram
+tās tad-vaktra-sudhākara-dyuti-sudhā-pītāvatṛptekṣaṇāḥ ।। [śārdūlavikrīḍitam]

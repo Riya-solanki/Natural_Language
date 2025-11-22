@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 298 | label: hybrid | g:0.455 m:0.5 ---
+
+tvayy api līlā-śaktyām, avasara-nāmnī bhaved vibhoḥ śaktiḥ ।
+tvām api yā bhramayantī, tasmiṃs tasmin pravartayati ।। [udgīti]

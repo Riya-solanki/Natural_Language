@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1248 | label: meter | g:0.25 m:0.582 ---
+
+dvārapālānāṃ pūjāhṛdayāni bhavanti ।
+vajra jaḥ jjaḥ ।।

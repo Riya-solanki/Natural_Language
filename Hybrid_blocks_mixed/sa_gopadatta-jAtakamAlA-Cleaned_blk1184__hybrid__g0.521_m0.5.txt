@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1184 | label: hybrid | g:0.521 m:0.5 ---
+
+tvatpādamūlānucaro na kaś cit saṃspṛṣṭapūrvo vyasanaiḥ kadā cit ।
+trāyasva tasmād vipadāṃ mukheṣu bhramantam enaṃ naravīra lokam ।।

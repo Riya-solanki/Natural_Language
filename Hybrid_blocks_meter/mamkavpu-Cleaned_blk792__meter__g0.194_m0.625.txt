@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 792 | label: meter | g:0.194 m:0.625 ---
+
+{rāmamanmathaśareṇa tāḍitā duḥsahena hṛdaye niśācarī ।
+gandhavadrudhiracandanokṣitā jīviteśavasatiṃ jagāma sā ।।}

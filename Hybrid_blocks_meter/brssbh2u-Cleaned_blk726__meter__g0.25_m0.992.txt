@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 726 | label: meter | g:0.25 m:0.992 ---
+
+FN anudbhūtarūpasparśatvaṃ sūkṣmatvam ।
+paricchedo alpatvam ।

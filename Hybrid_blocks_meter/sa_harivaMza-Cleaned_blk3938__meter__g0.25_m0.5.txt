@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3938 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ saha tayā reme priyayā prīyamāṇayā 
+sītayeva purā rāmaḥ paulomy eva puraṃdaraḥ ।। 
+damayantyā yathā rājā puṇyaśloko nalastathā । 
+sā hi tasyābhavaj jyeṣṭhā patnī kṛṣṇasya bhāminī 
+pativratā guṇopetā rūpaśīlaguṇānvitā ।।

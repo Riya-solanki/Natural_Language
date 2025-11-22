@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 97 | label: grammar | g:0.583 m:0.5 ---
+
+trirātraphaladā nadyo yāḥ kāścid asamudragāḥ samudragās tu pakṣasya māsasya saritāṃ patiḥ ।।

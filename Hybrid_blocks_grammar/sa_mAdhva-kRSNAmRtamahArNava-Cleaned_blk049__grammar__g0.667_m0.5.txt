@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 49 | label: grammar | g:0.667 m:0.5 ---
+
+sā hānis tan mahat chidraṃ sā cāndhajaḍamūkatā yan muhūrtaṃ kṣaṇaṃ vā api vāsudevo na cintyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9388 | label: meter | g:0.306 m:0.5 ---
+
+gaṇḍau vaktraṃ tathā grīvā tṛtīye ahani jāyate ।
+hṛdayaṃ kukṣirudaraṃ caturthe tadvadeva hi ।।

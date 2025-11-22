@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3072 | label: meter | g:0.25 m:0.5 ---
+
+atha vajrapāṇirmahābodhisatvaḥ sarvatathāgatadharmasiddhiguhyatantramudājahāra । tatredaṃ tathāgatadharmasiddhiguhyatantraṃ ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11221 | label: hybrid | g:0.531 m:0.5 ---
+
+tasyaiva pādau talayantre nidhāya yamaśca nityaṃ prakaroti piṣṭam ।
+eṣāṃ jihvā harikṛṣṇeti nāma na vakti nityaṃ vyarthabhūtāṃ vadanti ।।

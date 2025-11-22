@@ -1,0 +1,12 @@
+--- source: sastrdiu-Cleaned.txt | block: 529 | label: hybrid | g:0.381 m:0.24 ---
+
+ki ca - suṣvāpādutthitāścaivaṃ nirvidyante hi kāmukāḥ ।
+vṛtheyamantareṇaiva kāminīṃ yāminī gatā ।
+āśliṣṭāmapyabuddhvaināṃ nirvidyante mayā ।
+bhuktvā ca paramānandaṃ tasya ca smaraṇādayam ।
+svalpālpasukhahānyaivaṃ nirvedo nāvakalpate ।।
+tatsukhaṃ vismṛtaṃ cetsyātsukhamasvāpyamityayam ।
+vyavahāro na yujyeta, duḥkhānanubhave tviyam ।
+sukhavyavahṛtistasmādguṇavṛttyeti niścayaḥ ।
+prabuddhā hi suṣuptāvavagataṃ kicidapi duḥkhamasaṃsmarantaḥ smaraṇānutpattyaiva suṣuptyavasthāyāṃ me na kiñcidapi duḥkhamāsīdityavagamya tatraiva sukhavyavahāraṃ guṇavṛttyā kurvanti, tathā ca vyavaharanti- etāvantaṃ kālamahamātmānamapyabuddhvā śayito asmīti ।
+tasmātsuṣuptāvaprakāśātmanaḥ svaprakāśatvam, ato mānasapratyakṣagamya evāyamiti sthitam ।।

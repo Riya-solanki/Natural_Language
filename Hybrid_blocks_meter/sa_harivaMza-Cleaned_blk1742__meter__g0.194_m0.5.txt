@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1742 | label: meter | g:0.194 m:0.5 ---
+
+bhūyas tv idānīṃ samare saṃprāpte tārakāmaye 
+mayā saha samāgamya sadevo vinaśiṣyati ।।

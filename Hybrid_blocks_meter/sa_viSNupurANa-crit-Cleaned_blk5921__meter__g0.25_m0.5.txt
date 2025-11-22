@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5921 | label: meter | g:0.25 m:0.5 ---
+
+sāṃkhyāt tattvāt paraṃ yogaṃ pravadanti manīṣiṇaḥ ।। @

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4101 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ saṃstūyamānā sā devair devam adhārayat 
+garbheṇa puṇḍarīkākṣaṃ jagatāṃ trāṇakāraṇam ।।

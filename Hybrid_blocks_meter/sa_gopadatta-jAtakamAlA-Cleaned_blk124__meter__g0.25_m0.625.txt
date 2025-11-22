@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 124 | label: meter | g:0.25 m:0.625 ---
+
+bhavaprabandhapraṇayo manasvino jagaddhitādhānaparasya yujyate ।
+anuttarajñānanibaddhacetasāṃ bhavodbhavo bhāvasukhād api priyaḥ ।।

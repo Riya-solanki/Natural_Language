@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10522 | label: meter | g:0.304 m:0.544 ---
+
+kraturuvāca ।
+prāṇaprayāṇasamaye bhagavaṃstavaiva nāmāni saṃsṛtijaduḥ khavināśakāni ।
+yenaikajanmaśamalaṃ sahasaiva hitvā saṃyāti muktimamalāṃ tamahaṃ prapadye ।।

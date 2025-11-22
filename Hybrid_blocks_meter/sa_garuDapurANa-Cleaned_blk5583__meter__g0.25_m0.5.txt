@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5583 | label: meter | g:0.25 m:0.5 ---
+
+imamaṣṭasahasrañca japtvā baddhvā śikhāṃ tataḥ ।
+vyavahāre jayaḥ syācca śataṃ jāpānnṛṇāṃ priyaḥ ।।

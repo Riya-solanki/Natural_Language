@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4947 | label: meter | g:0.25 m:0.5 ---
+
+kārtavīryārjuno nāma pūrvam āsīn mahābalaḥ 
+sahasrabāhū rāmeṇa dvibāhuḥ samare kṛtaḥ ।। 
+pūrvaṃ bāhusahasravān । mahābalaḥ sa rāmeṇa । 
+tathā tavāpi darpo ayaṃ bāhūnāṃ vīryasaṃbhavaḥ 
+cakraṃ te darpaśamanaṃ karoti raṇamūrdhani ।।

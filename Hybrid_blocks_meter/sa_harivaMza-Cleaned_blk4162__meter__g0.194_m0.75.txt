@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4162 | label: meter | g:0.194 m:0.75 ---
+
+padmakūṭam iti khyātaṃ padmvarṇaṃ mahāprabham 
+subhīmāyā mahākūṭaṃ vāsaṃ suparamārcitam ।।

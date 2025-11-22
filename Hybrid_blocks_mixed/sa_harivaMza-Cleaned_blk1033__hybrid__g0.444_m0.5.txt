@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1033 | label: hybrid | g:0.444 m:0.5 ---
+
+eṣa te pauravo vaṃśo yatra jāto asi pārthiva 
+turvasos tu pravakṣyāmi druhyoś cānor yados tathā ।।

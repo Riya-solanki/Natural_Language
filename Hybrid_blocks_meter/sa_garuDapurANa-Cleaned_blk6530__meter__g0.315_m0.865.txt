@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6530 | label: meter | g:0.315 m:0.865 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahāmovāca ।
+dharmasāramahaṃ vakṣye saṃkṣepācchuṇu śaṅkara ।
+bhuktimuktipradaṃ sūkṣmaṃ sarvapāpavināśanam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 377 | label: meter | g:0.306 m:0.5 ---
+
+apavitraḥ pavitro vā sarvāvasthāṃ gato api vā ।
+yaḥ smaret kurukṣetraṃ sa bāhyābhyantaraḥ śuciḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6369 | label: meter | g:0.25 m:0.625 ---
+
+japtukāmaḥ pavitrāṇi arciṣyandevatātithīn ।
+snānaṃ samācaredyastu kriyāṅgaṃ tacca kīrtitam ।।

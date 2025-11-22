@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 561 | label: meter | g:0.302 m:0.806 ---
+
+muhuraṅgulisaṃvṛtādharoṣṭhaṃ pratiṣedhākṣaraviklavābhirāmam ।
+mukhamaṃsavivarti pakṣmalākṣyāḥ kathamapyunnamitaṃ na cumbitaṃ tu ।।

@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 259 | label: meter | g:0.25 m:0.871 ---
+
+anekasya, arthāta vyañjanasya sakṛdekavāraṃ sādṛśyaṃ chekānuprāsaḥ ।
+udāharaṇam tato aruṇaparispandamandīkṛtavapuḥ śaśī ।
+dadhre kāmaparikṣāmakāminīgaṇḍapāṇḍutām ।।

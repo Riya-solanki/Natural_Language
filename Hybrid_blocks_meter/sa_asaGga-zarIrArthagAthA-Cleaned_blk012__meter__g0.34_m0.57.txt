@@ -1,0 +1,5 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 12 | label: meter | g:0.34 m:0.57 ---
+
+kumārikāpraśnagāthā
+kathaṃvihārabahulo bhikṣuḥ pañcaughatīrṇas taratīha ṣaṣṭhaṃ ।
+kathaṃdhyāyī vipulāṃ kāmatṛṣṇāṃ tīrṇo bhavaty apratilabdhayoktraḥ ।।

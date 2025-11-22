@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 217 | label: hybrid | g:0.497 m:0.5 ---
+
+dhutavṛtta yādṛśu sa bheṣyati yuktayogī pūrvaṃ pi tubhya imi āsi guṇovarūpā 
+yo eva śrutva abhimanyati bodhisattvo jñātavyu māru paryutthitu alpabuddhiḥ ।।

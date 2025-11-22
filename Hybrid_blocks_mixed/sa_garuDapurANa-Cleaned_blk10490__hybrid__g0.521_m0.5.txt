@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10490 | label: hybrid | g:0.521 m:0.5 ---
+
+dūre ca saṃsāramalaṃ tvidaṃ kuru dehi hyado divyakathāmṛtaṃ sadā ।
+etādṛśohaṃ tava sadguṇaughaṃ stotuṃ samartho nāsmi śacīsamaśca ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 216 | label: meter | g:0.306 m:0.5 ---
+
+upāsakā vayaṃ sādho nityaṃ kiṃkuśalaiṣiṇaḥ ।
+vistaraṃ śrotum icchāmaḥ sa cet khedaṃ na manyase ।।

@@ -1,0 +1,7 @@
+--- source: visa01cu-Cleaned.txt | block: 75 | label: meter | g:0.324 m:0.545 ---
+
+yaduktaṃ dhavanikṛtā
+"śrutiduṣṭādayo doṣā anityā ye ca darśitāḥ ।
+dhvanyātmanyeva śṛṅgāre te heyā ityudāhṛtāḥ" ।
+iti ।
+kiñca evaṃ kāvyaṃ praviralaviṣayaṃ nirviṣayaṃ vā syāt, sarvathā nirdeṣasyaikāntamasaṃbhavāt ।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 302 | label: grammar | g:0.625 m:0.5 ---
+
+tṛtīyaṃ daśakam chandakilāsavaidhuryam, chandaviṣayabhedavaidhuryam, alpecchatānalpecchatāvaidhuryam, dhūtaguṇayogāyogau, kalyāṇākalyāṇadharmatvam, tyāgamātsaryam, dānāgrahaṇam, uddhaṭitajñavipañcitajñatvam, sūtrādidharmābhijñānabhijñatvam, ṣaṭpāramitāsamanvāgamāsamanvāgamāviti daśa ।

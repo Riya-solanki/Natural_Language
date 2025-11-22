@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4981 | label: hybrid | g:0.444 m:0.5 ---
+
+nāgnir vikramate hy agnau tyaja kopaṃ yudhāṃ vara 
+tvayi na prabhaviṣyanti jagataḥ prabhavo hy asi ।।

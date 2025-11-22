@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 55 | label: grammar | g:0.625 m:0.5 ---
+
+Viv mahānādādyakalāvacūlāya ṣoḍaśasvararūpakalākalāpārambhādyavarṇarūpaśiroṅkuśarūpayā anacchakalayā baindhavaṃ tīrtham ubhayaśūnyabilarūpaṃ saṃśodhya nirgranthibandhaṃ vidhāya, nirodhanādanādāntavartiparamatṛptitālakṣaṇarasena kāryam abhiṣecanam ।।

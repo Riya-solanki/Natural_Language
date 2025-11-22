@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1206 | label: meter | g:0.25 m:0.625 ---
+
+dehendriya-mano-buddhi prāṇādīnāṃ priyaṃ priye ।
+tvad-anādara-bhājo me jātaṃ sarvam anādṛtam ।।

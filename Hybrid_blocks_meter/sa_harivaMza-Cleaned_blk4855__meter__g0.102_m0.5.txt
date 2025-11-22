@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4855 | label: meter | g:0.102 m:0.5 ---
+
+te jātavedasaḥ sarve kalmāṣaḥ khasṛmas tathā 
+dahanaḥ śoṣaṇaś caiva tapanaś ca mahābalaḥ 
+svadhākārasya viṣaye prakhyātāḥ pañca vahnayaḥ ।।

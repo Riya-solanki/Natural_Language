@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 18 | label: grammar | g:0.583 m:0.5 ---
+
+narake pacyamānas tu yamena paribhāṣitaḥ kiṃ tvayā nārcito devaḥ keśavaḥ kleśanāśanaḥ ।।

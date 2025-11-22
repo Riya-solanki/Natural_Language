@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1583 | label: meter | g:0.25 m:0.5 ---
+
+vṛṣadhvaja ! janāḥ pādmāḥ sūtamāgadhacedayaḥ ।
+kāśaya śca videhāśca pūrvasyāṃ kosalāstathā ।।

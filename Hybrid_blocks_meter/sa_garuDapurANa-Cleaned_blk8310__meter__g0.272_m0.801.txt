@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8310 | label: meter | g:0.272 m:0.801 ---
+
+garuḍa uvāca ।
+puttrā yasya na vidyante narā nāryaḥ sureśvara ।
+etanme saṃśayaṃ deva cchetumarhasyaśeṣataḥ ।।

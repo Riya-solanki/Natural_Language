@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1823 | label: meter | g:0.25 m:0.5 ---
+
+tvam asya yajñapūtasya pātraṃ pādyasya pāvanaḥ 
+atithis tvaṃ hi mantroktaḥ sa dṛṣṭaḥ satataṃ mataḥ ।।

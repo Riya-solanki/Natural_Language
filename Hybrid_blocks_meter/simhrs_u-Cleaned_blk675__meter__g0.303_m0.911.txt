@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 675 | label: meter | g:0.303 m:0.911 ---
+
+atha dhṛtiḥ-
+jñāna-vijñāna-gurvādi-bhakti-nānārtha-siddhibhiḥ । 
+lajjādibhiś ca cittasya naispṛhyaṃ dhṛtir ucyate ।।
+atrānubhāvā vijñeyāḥ prāptārthānubhavas tathā । 
+aprāptātīta-naṣṭārthān abhisaṅkṣobhaṇādayaḥ ।।

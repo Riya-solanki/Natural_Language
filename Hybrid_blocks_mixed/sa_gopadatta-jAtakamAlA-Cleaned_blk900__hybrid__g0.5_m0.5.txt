@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 900 | label: hybrid | g:0.5 m:0.5 ---
+
+evaṃ me guruṇākhyātaṃ tathā te kathyate mayā ।
+tad evaṃ hi parijñāya kartavyaṃ bhajanaṃ muneḥ ।।

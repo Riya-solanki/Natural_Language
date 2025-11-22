@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6500 | label: grammar | g:0.576 m:0.463 ---
+
+vāmenaiva parāvṛtya puṣpadānam । akṣatañcāriṣṭañcāstu me puṇyaṃ śāntipuṣṭidṛ । dakṣiṇāmukhaḥ amī madantaḥ pitaro yathābhāgamāvṛṣāyiṣata iti japaḥ । 
+vāsaḥ śithilīkṛtvāñjaliṃ kṛtvā oṃ namo vaḥ pitaro namo vaḥ iti japaḥ ।
+gṛhānnaḥ pitaro datta iti gṛhavīkṣaṇam ।
+tataḥ sadā vaḥ pitaro dveṣma iti vīkṣya etadvaḥ pitaro vāsa ityuccārya amukagotra etatte vāsaḥ svadhā iti sūtradānam ।
+vāmena pāṇinā udakapātraṃ gṛhītvā ūrjaṃ vahantīramṛtaṃ ghṛtaṃ payaḥ ityādi piṇḍopari dhārātyāgaḥ ।।

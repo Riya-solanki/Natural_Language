@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1497 | label: meter | g:0.194 m:0.75 ---
+
+etad antaram āsādya piṇḍaḥ kāraṇarūpadhṛk 
+bandhate pañcadhātmānaṃ pañcapañcādibhiḥ kramāt ।।

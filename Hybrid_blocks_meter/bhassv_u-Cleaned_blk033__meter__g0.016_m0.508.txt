@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 33 | label: meter | g:0.016 m:0.508 ---
+
+{ceṭī} - atthi rāā pajjodo ṇāma ujjaiṇīe 
+so dāraassa kāraṇādo dūdasampādaṃ karedi 
+[asti rājā pradyoto nāmojjayinyāḥ । sa dārakasya kāraṇād dūtasampātaṃ karoti । ]

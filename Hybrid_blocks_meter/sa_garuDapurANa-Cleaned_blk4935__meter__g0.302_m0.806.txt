@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4935 | label: meter | g:0.302 m:0.806 ---
+
+avyāyāma divāsvapnaśayyāsanasukhādibhiḥ ।
+kaphapradoṣo bhukte ca vasante ca prakupyati ।।

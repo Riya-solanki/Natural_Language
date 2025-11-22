@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 504 | label: meter | g:0.26 m:0.634 ---
+
+tataḥ pūjāguhyamudrāmudāharan, guhyapūjācatuṣṭayaṃ kāryam, anena vajrastutigītena gāyan ।
+oṃ vajrasattvasaṃgrahād vajraratnamanuttaram ।
+vajradharmagāyanaiśca vajrakarmakaro bhava ।।

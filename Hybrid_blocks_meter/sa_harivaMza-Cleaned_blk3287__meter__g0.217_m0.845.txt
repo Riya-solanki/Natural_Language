@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3287 | label: meter | g:0.217 m:0.845 ---
+
+uttamāgārikāś cānye sūkṣmajālāvalokinaḥ 
+strīnāṃ prekṣāgṛhā bhānti rājahaṃsā ivāmbare ।।

@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 381 | label: meter | g:0.194 m:0.772 ---
+
+vilulitamakarandā mañjarīrnartayanti ।
+na punaḥ

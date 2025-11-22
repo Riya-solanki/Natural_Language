@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1672 | label: meter | g:0.066 m:0.735 ---
+
+{ātte sīmantaratne marakatini hṛte hematāṭaṅkapatre
+luptāyāṃ mekhalāyāṃ jhaṭiti maṇitulākoṭiyugme gṛhīte ।
+śoṇaṃ bimboṣṭhakāntyā tvadarimṛgadṛśāmitvarīṇāmaraṇye
+rājan guñjāphalānāṃ sraja iti śabarā naiva hāraṃ haranti ।।}

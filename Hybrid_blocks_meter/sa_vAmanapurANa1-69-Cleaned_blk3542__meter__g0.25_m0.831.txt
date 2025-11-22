@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3542 | label: meter | g:0.25 m:0.831 ---
+
+pulastya uvāca ।
+kālindīsalile snātvā pūjayitvā trivikramam ।
+upoṣya rajanīmekāṃ liṅgabhedaṃ giriṃ yayau ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4037 | label: meter | g:0.25 m:0.5 ---
+
+sukṣma sthūla mahāsthūla mahāsūkṣma śubhaṅkara ।
+śvetapītāmbaradhara nīlavāsa namo astu te ।।

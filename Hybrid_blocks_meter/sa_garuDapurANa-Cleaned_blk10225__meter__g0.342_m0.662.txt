@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10225 | label: meter | g:0.342 m:0.662 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+babhūvecchā mama devasya viṣṇoḥ sraṣṭuṃ sṛjyānmokṣayogyāṃśca moktum ।
+icchāśaktiḥ sarvadaivāsti viṣṇostathāpi tadvyāharaṇaṃ ca laukikam ।।

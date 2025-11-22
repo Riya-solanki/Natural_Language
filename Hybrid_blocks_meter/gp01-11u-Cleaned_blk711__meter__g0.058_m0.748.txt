@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 711 | label: meter | g:0.058 m:0.748 ---
+
+iti śrī-śrī-gopāla-campūm anu
+viśaṅkaṭa-śakaṭa-vighaṭṭanādi-vicitra-bālya-caritraṃ nāma
+ṣaṣṭaṃ pūraṇam
+।।

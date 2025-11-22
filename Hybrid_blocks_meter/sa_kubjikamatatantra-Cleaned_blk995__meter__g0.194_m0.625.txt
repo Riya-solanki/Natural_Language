@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 995 | label: meter | g:0.194 m:0.625 ---
+
+dhāraṇād dhāritaṃ kṛtvā tribhiḥ prāṇair alaṅkṛtam 
+svacchandasahitaṃ devaṃ varṇāntapariveṣṭitam ।।

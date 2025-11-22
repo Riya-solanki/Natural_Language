@@ -1,0 +1,7 @@
+--- source: bhassv_u-Cleaned.txt | block: 117 | label: hybrid | g:0.146 m:0.316 ---
+
+{praviśyāparā}
+{ceṭī} - tuvaradu tuvaradu dāva ayyā 
+ajja evva kiḷa sobhaṇaṃ ṇakkhattaṃ 
+ajja evva koduamaṅgaḷaṃ kādavvaṃ tti ahmāṇaṃ bhaṭṭiṇī bhaṇādi 
+[tvaratāṃ tvaratāṃ tāvad āryā । adyaiva kila śobhanaṃ nakṣatram । adyaiva kautukamaṅgalaṃ kartavyam ity asmākaṃ bhaṭṭinī bhaṇati । ]

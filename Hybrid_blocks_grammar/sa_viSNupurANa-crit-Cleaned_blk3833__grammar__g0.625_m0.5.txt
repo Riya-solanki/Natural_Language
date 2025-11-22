@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3833 | label: grammar | g:0.625 m:0.5 ---
+
+niratiśayapuṇyajātasamudbhūtam etat sattvam iti rajodrekapreritaikāgramatis tadbhāvanāyogāt tato avāptavadhahaitukīṃ niratiśayām evākhilatrailokyādhikyadhāriṇīṃ daśānanatve bhogasaṃpadam avāpa ।।

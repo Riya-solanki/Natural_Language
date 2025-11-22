@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11131 | label: meter | g:0.306 m:0.5 ---
+
+nāhaṃ kariṣye śravaṇaṃ kathāyā madbhāgyanā śaśca bhaviṣyatīti ।
+nāhaṃ hariṃ pūjayiṣye sadaiva putrādināśaśca bhaviṣyatīti ।।

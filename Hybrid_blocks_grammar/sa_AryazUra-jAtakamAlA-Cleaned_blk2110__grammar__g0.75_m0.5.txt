@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2110 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ śreyaḥ samādhatte yathātathāpyupanataḥ satsaṃgama iti śreyo arthinā sajjanasamāśrayeṇa bhavitavyam । evamasaṃstutahṛtpūrvajanmasvapyupakāraparatvād buddho bhagavāniti tathāgatavarṇe api vācyam । evaṃ saddharmaśravaṇaṃ doṣāpacayāya guṇasamādhānāya ca bhavatīti saddharmaśravaṇe api vācyam । śrutapraśaṃsāyāmapi vācyam - evamanekānuśaṃsaṃ śrutamiti । satyakathāyāmapi vācyam - evaṃ sajjaneṣṭaṃ puṇyakīrtyākaraṃ satyavacanamityevaṃ svaprāṇasukheśvaryanirapekṣāḥ satyamanurakṣanti satpuruṣā iti । satyapraśaṃsāyāmapyupaneyaṃ karuṇāvarṇe api ceti ।

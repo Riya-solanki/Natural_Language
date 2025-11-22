@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1092 | label: meter | g:0.316 m:0.5 ---
+
+suvarṇakāra śravaṇocitāni vastūni vikretum ihāgatas tvam ।
+kuto api nāśrāvi yad atra pallyāṃ pallīpatir yāvad aviddhakarṇaḥ ।।

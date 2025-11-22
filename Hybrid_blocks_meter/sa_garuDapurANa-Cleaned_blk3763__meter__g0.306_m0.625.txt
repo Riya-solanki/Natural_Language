@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3763 | label: meter | g:0.306 m:0.625 ---
+
+navamī cogracaṇḍā ca madhyamāgniprabhākṛtiḥ ।
+rocanā tvaruṇā kṛṣṇā nīlaṃ dhūmrā ca śukrakā ।।

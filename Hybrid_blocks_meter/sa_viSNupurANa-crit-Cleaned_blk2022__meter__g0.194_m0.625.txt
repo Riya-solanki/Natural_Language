@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2022 | label: meter | g:0.194 m:0.625 ---
+
+dharmadhruvādyās tiṣṭhanti yatra te lokasākṣiṇaḥ 
+tatsārṣṭyotpannayogeddhās tad viṣṇoḥ paramaṃ padam ।।

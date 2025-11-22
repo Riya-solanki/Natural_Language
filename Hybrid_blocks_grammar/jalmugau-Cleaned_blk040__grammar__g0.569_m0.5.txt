@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 40 | label: grammar | g:0.569 m:0.5 ---
+
+yad bhūyaḥ paricumbanaṃ yad asakṛt-sarvāṅgam āliṅganaṃ yat paryutsukam īkṣitaṃ sa-rabhasaṃ yac cāṭukokaṭṭanam 
+yat sadbhāva-kathānakaṃ rahasi yat kiṃ cid abhyarthanaṃ veśyānāṃ viṣa-vat tad eva nipuṇaṃ cintyaṃ sadā kāmukaiḥ ।।

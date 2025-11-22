@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1592 | label: meter | g:0.194 m:0.625 ---
+
+sa śivaḥ sarvasattvānāṃ hṛdisthaḥ parameśvaraḥ 
+bhrāmayeta jagat sarvaṃ yantrārūḍhas tu māyayā ।।

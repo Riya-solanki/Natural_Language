@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 434 | label: meter | g:0.194 m:0.625 ---
+
+vyastasyātha samastasya vilayaḥ sa kathaṃ kiyān 
+tattvamārgasya bhagavan brūhi sarvārthadarśyasi ।।

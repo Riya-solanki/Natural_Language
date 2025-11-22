@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 248 | label: hybrid | g:0.5 m:0.5 ---
+
+bhramara ! drutapuṣpāṇi bhrama ratyau pivan madhu ।
+kā kundakusume prītiḥ kākuṃ dattvā virauṣi yat ।।

@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 233 | label: meter | g:0.462 m:0.66 ---
+
+ihātmanyuktadṛṣṭāntavaiṣamyaśaṅkāsūtram-ambuvaditi ।
+ātmano nīrūpatvāddūrasthopādhyabhāvācca māyayā buddhyādiṣu pratibimbabhedo na yukta ityarthaḥ ।।

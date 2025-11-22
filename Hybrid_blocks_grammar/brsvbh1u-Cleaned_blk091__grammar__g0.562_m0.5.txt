@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 91 | label: grammar | g:0.562 m:0.5 ---
+
+marīciṣu toyanirbhāsapratyayastattvagocaraḥ, tathā ca samīcīna iti na bhrānto nāpi bādhyeta ।

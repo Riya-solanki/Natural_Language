@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4900 | label: meter | g:0.25 m:0.5 ---
+
+svajātiṃ caiva vāsaṃ ca harasaṃsargam eva ca 
+mānayadbhir na gantavyam eṣo hy aham avasthitaḥ ।।

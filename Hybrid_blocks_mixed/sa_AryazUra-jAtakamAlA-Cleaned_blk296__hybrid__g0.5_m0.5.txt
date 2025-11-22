@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 296 | label: hybrid | g:0.5 m:0.5 ---
+
+ekā ca godhā daghibhājanaṃ ca kenāpi saṃtyaktamihādhyagaccham ।
+tanme hitāvekṣitayopayujya vane astu te asminguṇavāsa vāsaḥ ।।

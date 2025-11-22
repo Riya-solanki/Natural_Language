@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9062 | label: meter | g:0.25 m:0.5 ---
+
+eka eva tiladroṇo hemadroṇatilaiḥ samaḥ ।
+tarpaṇe dānahome ca datto bhavati cākṣayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 3001 | label: meter | g:0.295 m:0.565 ---
+
+jñānāmṛtena tṛptasya kṛtakṛtyasya yoginaḥ 
+naivāsti kiñcit kartavyam asti cen na sa tattvavit ।।

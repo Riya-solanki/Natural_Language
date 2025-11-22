@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3132 | label: meter | g:0.25 m:0.5 ---
+
+mahāmudrāṃ tu vai badhvā yathāvadanupūrvaśaḥ ।
+idaṃ tatvaṃ rahasyaṃ ca vajravācā vadetvayaṃ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1135 | label: grammar | g:0.552 m:0.5 ---
+
+artho dhanairyadi gṛhāṇa dhanāni mattaḥ pīḍā kutaścidatha tāṃ pratiṣedhayāmi ।
+māṃ yācamānamiti bandhujanaṃ ca hitvā kiṃ vā tvamanyadabhivīkṣya vanaṃ prayāsi ।।

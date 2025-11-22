@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 87 | label: hybrid | g:0.314 m:0.391 ---
+
+nistattvaṃ cennānubhavagocaraḥ, tatkimidānīṃ marīcayo api toyātmanā satattvā yadanubhavagocarāḥ syuḥ ।
+na satattvāḥ, tadātmanā marīcīnā

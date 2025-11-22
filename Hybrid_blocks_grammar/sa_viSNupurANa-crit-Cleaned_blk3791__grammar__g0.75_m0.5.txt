@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3791 | label: grammar | g:0.75 m:0.5 ---
+
+janakaś cārghyapūrvakam enaṃ gṛhaṃ praveśayām āsa । tatraiva ca tasthau । vāsudevo api dvārakām ājagāma । yāvac ca janakarājagṛhe balabhadro avatasthe tāvad dhārtarāṣṭro duryodhanas tatsakāśād gadāśikṣām aśikṣata । varṣatrayānte ca babhrūgrasenaprabhṛtibhir yādavair na tad ratnaṃ kṛṣṇenāpahṛtam iti kṛtāvagatibhir videhapurīṃ gatvā baladevaḥ saṃpratyāyya dvārakām ānītaḥ ।।

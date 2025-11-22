@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4180 | label: meter | g:0.25 m:0.75 ---
+
+vāyunā kaṇṭharuddhena pittamantaḥ supīḍitam ।
+vyavāyitvācca saukhyācca bahirmargaṃ prapadyate ।
+tena hāridranetratvaṃ sannipātodbhavejvare ।।

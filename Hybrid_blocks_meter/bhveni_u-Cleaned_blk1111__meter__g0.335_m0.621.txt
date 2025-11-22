@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 1111 | label: meter | g:0.335 m:0.621 ---
+
+yudhiṣṭhiraḥ
+kṛṣṇe nāmaṅgalāni vyāhartumarhasyasminkāle ।

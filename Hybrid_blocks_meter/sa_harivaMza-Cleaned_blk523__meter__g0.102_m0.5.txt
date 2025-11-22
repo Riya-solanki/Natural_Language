@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 523 | label: meter | g:0.102 m:0.5 ---
+
+evaṃ ca śrutam asmābhiḥ kathyamānaṃ dvijātibhiḥ 
+svargasthāḥ pitaro nye sma devānām api devatāḥ 
+iti devavidaḥ prāhur etad icchāmi vedituṃ ।।

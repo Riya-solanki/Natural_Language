@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 361 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha snigdhakaṇṭhena cāntaś cintitam-evam api kecid aho eṣāṃ dvijatāyāṃ sandeham api dehayisyanti । ye khalu śrīmad-bhāgavate kuru dvijāti-saṃskāram [] iti gargaṃ prati śrī-vrajarāja-vacane, vaiśyas tu vārtayā jīvet ity ārabhya,

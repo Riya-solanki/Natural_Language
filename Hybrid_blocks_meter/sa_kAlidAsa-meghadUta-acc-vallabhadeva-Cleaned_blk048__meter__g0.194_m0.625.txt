@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 48 | label: meter | g:0.194 m:0.625 ---
+
+tām uttīrya vraja paricitabhrūlatāvibhramāṇāṃ pakṣmotkṣepād uparivilasatkṛṣṇaśāraprabhāṇām 
+kundakṣepānugamadhukaraśrīmuṣām ātmabimbaṃ pātrīkurvan daśapuravadhūnetrakautūhalānām ।।

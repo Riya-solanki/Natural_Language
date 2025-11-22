@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4664 | label: meter | g:0.25 m:0.5 ---
+
+na va te duṣyate bhīru manaḥ prajavitaṃ sadā 
+kathaṃ tvaṃ doṣaduṣṭā vai niyatā brahmacāriṇī ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1103 | label: grammar | g:0.615 m:0.5 ---
+
+yad vīcibhiḥ spṛśasi gaganaṃ yac ca pātālamūlaṃ ratnair uddyotayasi payasā yad dharitrīṃ pidhatse ।
+dhik tat sarvaṃ tava jalanidhe yad vimucyāśrudhārās tīre nīragrahaṇarabhasair adhvagair ujjhito asi ।।

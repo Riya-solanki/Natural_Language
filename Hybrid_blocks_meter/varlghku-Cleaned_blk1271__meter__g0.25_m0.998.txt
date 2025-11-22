@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1271 | label: meter | g:0.25 m:0.998 ---
+
+vrīhiśālyorḍhak ।।
+vraiheyam ।।

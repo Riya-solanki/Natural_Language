@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 826 | label: meter | g:0.25 m:0.625 ---
+
+tejasā śoṣitaṃ śeṣaṃ kalalatvamupāgatam ।
+kalalād budbudaṃ jñeyaṃ tataḥ kāṭhinyatāṃ gatam ।।

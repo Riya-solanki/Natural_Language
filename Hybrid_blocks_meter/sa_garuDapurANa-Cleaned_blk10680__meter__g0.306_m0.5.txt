@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10680 | label: meter | g:0.306 m:0.5 ---
+
+yathāsti viṣṇormanaḥ saṅkalpa eva tathaiva sopi prakaroti nityam ।
+ālocane tasya sadāsti bhūmansvayogyatāmanatikramya caiva ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11413 | label: grammar | g:0.552 m:0.5 ---
+
+mukhaṃ ca dṛṣṭvā namanaṃ ca kāryaṃ pṛṣṭhādibhāge namanaṃ na kāryam ।
+sāpi dviṣaṭkaṃ namanaṃ ca cakre śālagrāmaṃ sthāpayitvā puro asya ।।

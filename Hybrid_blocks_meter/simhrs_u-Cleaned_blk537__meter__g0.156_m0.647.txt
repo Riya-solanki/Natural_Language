@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 537 | label: meter | g:0.156 m:0.647 ---
+
+hṛt-tāpāt, yathā-
+etat kṛtvā priyam anucita-prārthanā-vartamno me
+sauhārdād vā vidhura iti vā mayy anukrośa-buddhyā ।
+iṣṭān deśān jalada vihara prāvṛṣā sambhṛta-śrīr
+mābhūd evaṃ kṣaṇam api ca te vidyutā viprayogaḥ ।।

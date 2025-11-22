@@ -1,0 +1,7 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 17 | label: hybrid | g:0.476 m:0.5 ---
+
+punaśca janmāntarakarmayogāt sa eva jīvaḥ svapiti prabuddhaḥ ।
+puratraye krīḍati yaśca jīvas tatas tu jātaṃ sakalaṃ vicitram ।।
+dhāramānandam akhaṇḍabodhaṃ yasmiṃl layaṃ yāti puratrayaṃ ca ।।
+etasmāj jāyate prāṇo manaḥ sarvendriyāṇi ca ।
+khaṃ vāyur jyotir āpaḥ pṛthivī viśvasya dhāriṇī ।।

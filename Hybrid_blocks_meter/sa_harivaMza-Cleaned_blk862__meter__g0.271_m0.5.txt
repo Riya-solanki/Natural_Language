@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 862 | label: meter | g:0.271 m:0.5 ---
+
+taṃ nivārya tato brahmā tārāṃ papraccha saṃśayam 
+yad atra tathyaṃ tad brūhi tāre kasya suto hy ayam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2858 | label: meter | g:0.194 m:0.5 ---
+
+tās tasya vadanaṃ kāntaṃ kāntā gopastriyo niśi 
+pibanti nayanākṣepair gāṃ gataṃ śaśinaṃ yathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 508 | label: meter | g:0.194 m:0.5 ---
+
+sāmprataṃ padabhedas tu yathā yojyas tu bhairavi 
+tathā te kathayiṣyāmi tac chṛṇuṣva samāsataḥ ।।

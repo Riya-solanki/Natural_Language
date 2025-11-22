@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1568 | label: hybrid | g:0.521 m:0.5 ---
+
+atra duṣyantena svayam uktasya śakuntalā-prasaṅgasya svayaṃ pracchādanaṃ saṃvṛttiḥ ।

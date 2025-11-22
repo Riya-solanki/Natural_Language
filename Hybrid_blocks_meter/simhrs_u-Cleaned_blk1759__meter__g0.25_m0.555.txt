@@ -1,0 +1,11 @@
+--- source: simhrs_u-Cleaned.txt | block: 1759 | label: meter | g:0.25 m:0.555 ---
+
+nāndy-ante tu praviṣṭena sūtradhāreṇa dhīmatā ।
+prasādhanāya raṅgasya vṛttir yojyā hi bhāratī ।। 
+aṅgāny asyāś ca catvāri bharatenāvabhāṣire ।
+prarocanāmukhe caiva vīthī-prahasane iti ।। 
+vīthī prahasanaṃ sva-sva-prasaṅge vakṣyate sphuṭam ।
+prarocanā tu sā proktā prakṛtārtha-praśaṃsayā ।। 
+sadasya-citta-vṛttīnāṃ saṃmukhīkaraṇaṃ ca yat ।
+praśaṃsā tu dvidhā jñeyā cetanācetanāśrayā । 
+acetanau deśa-kālau kālo madhu-śaran-mukhaḥ ।।

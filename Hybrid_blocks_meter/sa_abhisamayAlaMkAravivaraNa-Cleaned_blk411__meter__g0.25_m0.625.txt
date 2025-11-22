@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 411 | label: meter | g:0.25 m:0.625 ---
+
+svapnāntare api svapnābhasarvadharmekṣaṇādikam ।
+mūrdhaprāptasya yogasya liṅgaṃ dvādaśadhā matam ।।

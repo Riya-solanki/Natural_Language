@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1143 | label: meter | g:0.056 m:1.0 ---
+
+yathā suṣuptasya khalu svapnādarśane
+rāgānubandhaḥ sukhaduḥkhānubandhaśca vicchidyate
+tathāpavargepīti, etacca brahmavido muktasyātmano
+rūpamudāharantīti ।।

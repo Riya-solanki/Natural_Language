@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1431 | label: meter | g:0.313 m:0.552 ---
+
+bhikṣuruvāca। । 
+vadāmi te pārvati vākyamevaṃ kena pradattā tava buddhireṣā ।
+kathaṃ karaḥ pallavakomalaste sameṣyate śārvakaraṃ sasarpam ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 384 | label: meter | g:0.25 m:0.5 ---
+
+sūkṣmāt sūkṣmataro devi sa ca sūkṣmo nigadyate 
+kālarūpaḥ smṛto bindus taṃ bhittvā vrajate yadi ।।

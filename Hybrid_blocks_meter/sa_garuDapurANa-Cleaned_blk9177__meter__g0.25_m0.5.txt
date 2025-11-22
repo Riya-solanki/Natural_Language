@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9177 | label: meter | g:0.25 m:0.5 ---
+
+brahmā śakrāt samuttārya caturthāṃśena dattavān ।
+tāvannālokyate vaktraṃ pāpaṃ yāvadvapuḥ sthitam ।।

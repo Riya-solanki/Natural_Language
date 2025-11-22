@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 519 | label: grammar | g:0.75 m:0.5 ---
+
+sūryaṃ te cakṣur gacchatu vāto ātmānaṃ prāṇo dyāṃ pṛṣṭham antarikṣam ātmāṅgair yajñaṃ pṛthivīṃ śarīraiḥ vācaspate achidrayā vācāchidrayā juhvā devāvṛdhaṃ divi hotrām airayat svāheti ṣaḍḍhotāraṃ hutvā prajāpatiḥ sarvam evedam utsṛjet । iti hi śrutir bhavati ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10665 | label: meter | g:0.25 m:0.5 ---
+
+kathaṃ sukhī pradṛśyeta na kathañcitkariṣyati ।
+kathaṃ vā muktiparyantaṃ jñānavyaktirvadasva me ।।

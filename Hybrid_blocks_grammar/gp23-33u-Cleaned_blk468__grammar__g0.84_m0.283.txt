@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 468 | label: grammar | g:0.84 m:0.283 ---
+
+[] atha snigdhakaṇṭhaḥ prabhāta-kathāṃ prathayāmāsa-[] tad evaṃ pratikṣaṇam eva parama-prema-lakṣaṇa-līlāṃ phullad-ullāsataḥ sa gokula-bandhur daśamaṃ saṃvatsaraṃ saṃvalate sma ।
+[] sa tu nṛśaṃsaḥ kaṃsaḥ kramaśaḥ sarveṣu nirmita-nija-garveṣu tarhi nistarhiteṣu vaira-śuddhiṃ prati pratigata-buddhiḥ sarvataḥ śreṣṭhatayā rakṣitāvariṣṭa-keśināv āhūya saṃrabha-māṇatayā sabhayatayā cābhihitavān । mayāvajñayā nātiyogyā eva tatra viniyogyāḥ kṛtāḥ । sa tu dāraka iti buddhyā । kintu sphuṭam asau sarveṣāṃ dāraka eva jātaḥ । tataḥ kausīdya-khidyamānatayā bhavantāv anuyujyete । kim iha yujyata iti ।

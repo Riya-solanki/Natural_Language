@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3190 | label: meter | g:0.194 m:0.5 ---
+
+tām āha kṛṣṇaḥ kubjeti kasyedam anulepanam 
+nayasy ambujapatrākṣi kṣipram ākhyātum arhasi ।।

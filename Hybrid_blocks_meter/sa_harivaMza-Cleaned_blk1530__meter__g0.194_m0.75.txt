@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1530 | label: meter | g:0.194 m:0.75 ---
+
+śeṣair bhujaiḥ pradīptāni bhujagāridhvajaḥ prabhuḥ 
+dadhārāyudhajātāni śārṅgādīni mahāyaśāḥ ।।

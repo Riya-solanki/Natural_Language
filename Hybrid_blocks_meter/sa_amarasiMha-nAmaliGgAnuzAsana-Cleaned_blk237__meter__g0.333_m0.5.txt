@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 237 | label: meter | g:0.333 m:0.5 ---
+
+cakrāṇi puṭabhedāḥ syurbhramāśca jalanirgamāḥ kūlaṃ rodhaśca tīraṃ ca pratīraṃ ca taṭaṃ triṣu

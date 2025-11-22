@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 516 | label: grammar | g:0.67 m:0.42 ---
+
+tathā vyatirkabuddhirapi dṛśyate mamedaṃ śarīraṃ kṛśamiti ṣaṣṭhyāsmadarthasya śarīravyatirekāt, śarīrasya ca paraviṣayedaṅkārāspadatvāt, tato asmādvivekāvabhāsātpūrvoktanyāyena ca śarīrasyājñātṛtvāt, abhedāvagamasya ca saṃsargadoṣavaśena bhrāntyāpyupapatteḥ, pūrvābhyastasmṛtyanubandhena ca vinā jātasya harṣabhayaśokapratipattyanupapatteḥ ।
+jātismarāśca kecidadyatve api dehāntararahovṛttaṃ vṛttāntaṃ saṃbodhayanta upalabhyanta ityupalabdhisiddhaḥ śarīrātmanabhedaḥ ।
+yadyapi cānena prakāreṇa śarīrātmanorvispaṣṭo bhedo na siddhyet tathāpi tāvadabhedo api na vispaṣṭaḥ- mama śarīramiti vivekasyāpi pratibhāsāt ।
+tatra saṃmugdhe tattve śrutārthāpattyā sākṣācchrutyā vā nirṇayaḥ ।
+svargakāmādiśrutayo hi śarīrātiriktaṃ paralokaphalopabhogayogyaṃ kartāramantareṇānupapadyamānāstamākṣipanti tābhiścākṣiptaṃ sākṣādevopaniṣadaḥ samarthayanti avanāśi vā are ayamātmā ityevamādaya iti siddhaḥ śarīrātirikto mānasapratyakṣarūpo ahaṃpratyayagamyo jñātā ।
+kathaṃ punarjñāturjñeyatvaṃ, nahyekasya kartṛtvaṃ karmatvaṃ ca svātmani kriyāvirodhātsaṃbhavaci, tasmānnāhaṃvittirnāma ghaṭādivittivyatirekeṇa kācidasti, ghaṭādivittāveva tu viṣayavadātmā bhāsata ityuktam ।

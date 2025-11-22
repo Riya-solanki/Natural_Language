@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 101 | label: hybrid | g:0.404 m:0.532 ---
+
+mugdhāyāḥ kathaṃ smaracaturāṇi ceṣṭitāni । tāni cet kathaṃ mugdhā ? atra pūrvottarayorarthayorvirodhād vyarthamiti ।।
+uktārthapadamekārtham ।।
+uktārthāni padāni yasmiṃstaduktārthapadamekārtham । yathā

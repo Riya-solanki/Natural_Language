@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 546 | label: grammar | g:0.625 m:0.5 ---
+
+apayuktavilocanāṃ satīm aśanaprasravaṇādivarjitām । jaratīm upahatya ko guṇo vada māṃ nirghṛṇacitta daiva he ।।

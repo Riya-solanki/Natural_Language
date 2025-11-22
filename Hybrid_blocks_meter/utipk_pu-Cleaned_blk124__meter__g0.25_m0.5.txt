@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 124 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ smṛtau vikalpe vāpy apohanaparāyaṇe ।
+jñāne vāpy antarābhāsaḥ sthita eveti niścitam ।।

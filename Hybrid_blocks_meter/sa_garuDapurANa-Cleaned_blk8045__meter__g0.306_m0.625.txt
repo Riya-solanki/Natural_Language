@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8045 | label: meter | g:0.306 m:0.625 ---
+
+itthaṃ vimānena madīyalokaṃ gato dvijaraso apyatha pañcamistaiḥ ।
+pretā yayuḥ svargamagaṇyapuṇyaṃ satsaṅgasaṃsargavaśātsuparṇam ।।

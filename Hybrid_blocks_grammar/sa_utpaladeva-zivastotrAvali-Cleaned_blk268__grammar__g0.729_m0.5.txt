@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 268 | label: grammar | g:0.729 m:0.5 ---
+
+īśvaro aham aham eva rūpavān paṇḍito asmi subhago asmi ko aparaḥ matsamo asti jagatīti śobhate mānitā tvadanurāgiṇaḥ param ।।

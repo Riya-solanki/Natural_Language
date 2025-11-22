@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2536 | label: meter | g:0.194 m:0.625 ---
+
+svādūny ārya sugandhīni śyāmāni rasavanti ca 
+tālapakvāni sahitau pātayāvo laghukramau ।।

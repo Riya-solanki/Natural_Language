@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1305 | label: hybrid | g:0.531 m:0.5 ---
+
+kāyād asārād aham adya sāraṃ bhavantam āsādya samujjihīrṣuḥ ।
+manorathaṃ tat saphalaṃ kuruṣva tvam adya me vipra cirānubaddham ।।

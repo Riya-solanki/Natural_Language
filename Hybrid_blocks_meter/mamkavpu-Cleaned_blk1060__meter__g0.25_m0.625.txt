@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1060 | label: meter | g:0.25 m:0.625 ---
+
+kecidantarbhavantyeṣu doṣatyāgātpare śritāḥ ।
+anye bhajanti doṣatvaṃ kutracinna tato daśa ।।

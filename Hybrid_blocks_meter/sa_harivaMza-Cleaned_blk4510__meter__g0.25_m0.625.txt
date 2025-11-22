@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4510 | label: meter | g:0.25 m:0.625 ---
+
+vṛthā tvaṃ spardhase nityaṃ kṛṣṇenāmitabuddhinā 
+yadi syād iha govindo naitad atyāhitaṃ bhavet ।।

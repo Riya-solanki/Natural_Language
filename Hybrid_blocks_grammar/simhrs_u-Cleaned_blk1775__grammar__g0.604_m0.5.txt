@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1775 | label: grammar | g:0.604 m:0.5 ---
+
+atra rasa-prauḍhi-sandarbha-prasādayor nāṭaka-nirmāṇocitayor eva kathanāt nijotkarṣaṃ prakaṭayann ayaṃ kaviḥ prauḍha ity ucyate ।

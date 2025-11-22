@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 48 | label: meter | g:0.306 m:0.5 ---
+
+adhyātmaṃ ca vijānāti bahirdhā ca na paśyati ।
+adhyātmaphaladarśī yaḥ sa vai ghoṣeṇa nīyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1958 | label: meter | g:0.307 m:0.623 ---
+
+śarasaṃbhinnajatruśca bhayāt tasya mahājavaḥ ।
+praṇaṣṭa āśramāt tasmāt sa ca māṃ pṛṣṭhato anvagāt ।।

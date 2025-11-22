@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 98 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tataś ca sveṣu viśveṣu tam eva hradaṃ sāvega-gadaṃ prāviśatsu pratidiśaṃ gāvaś ca praviśantīty evaṃ dṛṣṭvā parama-kaṣṭaṃ spṛṣṭvānupāyāḥ paśupāḥ naṣṭa-prāyā bhraṣṭa-kāyā, yamunāyāḥ prahvā iva kahvāsura-jaṭharād iva tat-pratyāgaty-āśayā paraṃ prāṇanti sma । tatra ca-

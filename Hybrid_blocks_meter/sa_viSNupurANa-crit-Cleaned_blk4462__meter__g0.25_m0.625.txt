@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4462 | label: meter | g:0.25 m:0.625 ---
+
+sarvaghoṣasya saṃdoho gṛhyatāṃ mā vicāryatām 
+bhojyantāṃ tena vai viprās tathā ye cābhivāñchakāḥ ।।

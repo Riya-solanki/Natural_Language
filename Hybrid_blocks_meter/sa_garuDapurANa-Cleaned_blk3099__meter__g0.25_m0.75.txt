@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3099 | label: meter | g:0.25 m:0.75 ---
+
+mayarameṣaghātī ca ahorātreṇa śudhyati ।
+pakṣiṇaḥ sakalānhatvā ahorātreṇa śudhyati ।।

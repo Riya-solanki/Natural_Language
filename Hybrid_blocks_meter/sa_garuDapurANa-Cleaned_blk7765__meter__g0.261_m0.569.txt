@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7765 | label: meter | g:0.261 m:0.569 ---
+
+ūnaṣāṇmāsike krauñce bhuktvā piṇḍantu sodakam ।
+ghaṭīmātrantu viśramya vicitranagaraṃ vrajet ।।
+vrajannevaṃ vilapate śūlāgreṇa vidāritaḥ ।।
+kutra yāmi na hi gāmi jīvitaṃ hā mṛtasya maraṇaṃ punarna vai ।
+itthameva vilapan prayātyasau yātanārhadhṛtavigrahaḥ pati ।।

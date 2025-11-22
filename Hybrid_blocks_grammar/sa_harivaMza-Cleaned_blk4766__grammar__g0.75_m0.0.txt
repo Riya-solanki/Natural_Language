@@ -1,0 +1,13 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4766 | label: grammar | g:0.75 m:0.0 ---
+
+sahasrabāhoḥ samare dvibāhuḥ samavasthitaḥ 
+rucitaṃ yadi te rājañ jñeyo vīryabalānvitaḥ ।। 
+kanyā ceyaṃ na cānyasya niryātyānena saṃgatā ।। yadi ceṣṭatamaḥ kaścid ayaṃ vaṃśe mahātmanaḥ । tataḥ pūjām ayaṃ vīraḥ prāpsyaty evāsurottamaḥ ।। rakṣyatām iti coktvaiva tathāstv iti ca tasthivān । bāḍham ity abravīd bāṇo hantuṃ vyavasitaḥ kila । uṣāṃ babandha nigaḍair dṛḍhaiḥ pāśaiś ca saṃyataiḥ ।। vyādideśa tato bāṇo rakṣiṇaḥ kiṃkarān bahūn । rakṣyatām eṣa duṣṭātmā sā ca rakṣyā kulādhamā ।। iti sarvān samādiśya bāṇo madabalānvitaḥ । kumbhāṇḍena yayau sārdhaṃ svam eva bhavanaṃ balī । 
+kumbhāṇḍasya vacaḥ śrutvā śuddhānte pannagair bhṛśam 
+evam ukte tu vacane kumbhāṇḍena mahātmanā । 
+tathety āha ca kumbhāṇḍaṃ bāṇaḥ śatruniṣūdanaḥ ।। 
+saṃrakṣiṇas tato dattvā aniruddhasya dhīmataḥ । 
+aniruddhaṃ yodhayitvā bāṇaḥ svagṛham āviśat ।। 
+yayau svam eva bhavanaṃ baleḥ putro mahāsuraḥ । saṃyataṃ māyayā dṛṣṭvā aniruddhaṃ mahābalam । ṛṣīṇāṃ nāradaḥ śreṣṭho abrajad dvāravatīṃ prati ।। tato hy ākāśamārgeṇa munir dvāravatīṃ gataḥ ।। gate ṛṣīṇāṃ pravare so aniruddho vyacintayat । naṣṭo ayaṃ dānavaḥ krūro yuddhaṃ prāpya na saṃśayaḥ ।। sa gatvā nāradas tatra śaṅkhacakragadādharam । jñāpayiṣyati tattvena imam arthaṃ yathaiva tat ।। nāgair viveṣṭitaṃ dṛṣṭvā uṣā prādyumnim āturā । ruroda bāṣparaktākṣī tām āha rudatīṃ punaḥ ।। kim idaṃ rudyeta bhīru mā bhais tvaṃ śubhalocane । paśya suśroṇi saṃprāptaṃ matkṛte madhusūdanam ।। yasya śaṅkhadhvaniṃ śrutvā bāhuśabdaṃ balasya ca । dānavā nāśam eṣyanti garbhāś cāsurayoṣitām ।। evam uktā niruddhena uṣā viśrambham āgatā । nṛśaṃsaṃ cāpi pitaraṃ śocate sā sumadhyamā । baddhaṃ nivedayām āsa prādyumniṃ garuḍadhvaje । 
+tato aniruddhasya gṛhe ruruduḥ sarvayoṣitaḥ 
+priyaṃ nātham apaśyantyaḥ kiṃnarya iva saṃghaśaḥ ।।

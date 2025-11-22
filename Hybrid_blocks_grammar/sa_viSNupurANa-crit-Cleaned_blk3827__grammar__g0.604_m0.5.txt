@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3827 | label: grammar | g:0.604 m:0.5 ---
+
+bhagavān hi prasanno yathābhilaṣitaṃ dadāty aprasanno api nighnan divyam anupamaṃ sthānaṃ prayacchatīti ।।

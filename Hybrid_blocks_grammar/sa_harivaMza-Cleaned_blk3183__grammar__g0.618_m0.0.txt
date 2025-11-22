@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3183 | label: grammar | g:0.618 m:0.0 ---
+
+taṃ hataṃ paridevantyo bhāryās tasya vicukruśuḥ 
+tvaritaṃ muktakeśyaś ca jagmuḥ kaṃsaniveśanam ।। 
+kṛṣṇo api balabhadraś ca vāsāṃsy ādāya sarvataḥ । paridhāya tu tau pūrvaṃ śobhayetāṃ mahāmatī ।। dārakebhyas tato dattvā suślakṣṇāni mṛdūni ca । te ca sarve suvasanā virejuḥ śataśas tathā ।। śeṣāṇi tu tadā kṛṣṇo vāsāṃsi subahūny api । ācchichācchidya sahasā ciccheda ca pipeṣa ca ।। bhasmasād akarot tasya rajakasya niveśanam । 
+tāv apy ubhau suvasanau jagmatur mālyakāraṇāt 
+yathāyogaṃ yathābhogyaṃ yathāyogaṃ ni[darśya] ca । 
+vīthīṃ mālyāpaṇānāṃ vai gandhāghrātau dvipāv iva ।।

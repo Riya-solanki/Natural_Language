@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3090 | label: grammar | g:0.549 m:0.021 ---
+
+praviśann eva papraccha sāṃnidhyaṃ keśavasya saḥ 
+rauhiṇeyasya cākrūro nandagopasya cāsakṛt ।। 
+padāni tasyākhilalokapāla ।kirīṭajuṣṭāmalapādareṇoḥ ।dadarśa goṣṭhe kṣitikautukāni ।vilakṣitāny abjayavāṅkuśādyaiḥ ।।taddarśanāhlādavivṛddhasaṃbhramaḥ ।premṇordhvaromāśrukalākulekṣaṇaḥ ।rathād avaskandya sa teṣv aceṣṭata ।prabhor amūny aṅghrirajāṃsy aho iti ।।dehabhṛtām iyān artho hitvā dambhaṃ bhiyaṃ śucam । saṃdeśād yo harer liṅga darśanaśravaṇādibhiḥ । tato nivedito gopair idaṃ tad iti yādavaḥ । 
+sa nandagopasya gṛhaṃ vāsāya vasudopamaḥ 
+avaruhya tato yānāt praviveśa mahābalaḥ ।। 
+harṣapūrṇena vaktreṇa sāśrunetreṇa caiva hi । 
+praviśann eva ca dvāri dadarśādohane gavām 
+vatsamadhye sthitaṃ kṛṣṇaṃ savatsam iva govṛṣam ।।

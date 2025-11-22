@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5064 | label: meter | g:0.194 m:0.5 ---
+
+yathā hy anāgatam idam dṛṣṭam atra praṇāśanam 
+yajñasya punarāvṛttir yady asty āśvāsayasva mām ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5968 | label: meter | g:0.25 m:0.75 ---
+
+yadā ca saṃkramedvāyurardhārdhaprahare sthitaḥ ।
+svāsthyāhānistadā jñeyā vāyurbhramati dehiṣu ।।

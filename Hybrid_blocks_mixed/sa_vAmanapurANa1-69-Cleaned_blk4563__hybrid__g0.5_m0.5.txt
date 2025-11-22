@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4563 | label: hybrid | g:0.5 m:0.5 ---
+
+yad bhūmiloke suralokalabhye mahatsukhaṃ prāpya naraḥ samagram ।
+prāpanoti cāsya śravaṇānmaharṣe sautrāmaṇernāsti ca saṃśayo me ।।

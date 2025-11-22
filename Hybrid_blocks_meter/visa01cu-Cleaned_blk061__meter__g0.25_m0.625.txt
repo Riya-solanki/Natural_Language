@@ -1,0 +1,4 @@
+--- source: visa01cu-Cleaned.txt | block: 61 | label: meter | g:0.25 m:0.625 ---
+
+asya śalokasya vidheyāvimarśadoṣaduṣṭatayā kāvyatvaṃ na syāt ।
+pratyuta dhvani tvenottamakāvyatāsyāṅgīkṛtā, tasmādavyāptirlakṣaṇadoṣaḥ ।

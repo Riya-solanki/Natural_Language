@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1103 | label: meter | g:0.25 m:0.5 ---
+
+ciraṃ vyāmohitaṃ yena na tattveṣu pratiṣṭhitam ।
+jagat kva nu prayāto asmāc cittacitrendrajālikaḥ ।।

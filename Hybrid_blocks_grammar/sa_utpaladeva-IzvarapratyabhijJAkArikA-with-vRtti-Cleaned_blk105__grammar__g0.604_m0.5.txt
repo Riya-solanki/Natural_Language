@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 105 | label: grammar | g:0.604 m:0.5 ---
+
+sākṣātkāralakṣaṇe jñāne api cito arthapratyavamarśo asti sūkṣmaḥ, vācanadhāvanādau śīghrakriyā tattaddṛśyamānadeśādyupāditsājihāsānusaṃdhānena hi bhavet ।।

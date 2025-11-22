@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 752 | label: meter | g:0.25 m:0.5 ---
+
+pariprakāśe apyanigūḍhavistare mayātmaduḥkhe vacasā vidarśite ।
+kathaṃ nu niḥsambhramadīnamānaso bhavāniti svasthavadeva tiṣṭhati ।।

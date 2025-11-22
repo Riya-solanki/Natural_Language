@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1514 | label: meter | g:0.194 m:0.75 ---
+
+evaṃprakāram amalaṃ nityaṃ vyāpakam akṣayam 
+samastaheyarahitaṃ viṣṇvākhyaṃ paramaṃ padam ।।

@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 483 | label: grammar | g:0.552 m:0.5 ---
+
+nityamasya jñānaṃ nityā cecchā nityaśca prayatna iti cet, na, sarvajñānecchāprayatnānāmanityatvavyāpteḥ ।
+śakyate hi prayoktum- kṣityādikaṃ nāśarīricetanakartṛkaṃ na nityaprayatnanityecchānityajñānakartṛkaṃ kāryatvāt ghaṭavaditi ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8468 | label: meter | g:0.316 m:0.5 ---
+
+mayā na bhuktaṃ patisaṅgasaukhyaṃ vahnipraveśo na kṛto mṛte sati ।
+tasminmṛte tadvratapālanaṃ vā dehinkvacinnistara yattvayā kṛtam ।।

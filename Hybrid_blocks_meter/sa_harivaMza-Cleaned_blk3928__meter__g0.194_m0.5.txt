@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3928 | label: meter | g:0.194 m:0.5 ---
+
+keśavaś cāpi taṃ ṣaṣṭyā kruddho vivyādha mārgaṇaiḥ 
+dhanuś ciccheda cāpy asya yatamānasya rukmiṇaḥ ।।

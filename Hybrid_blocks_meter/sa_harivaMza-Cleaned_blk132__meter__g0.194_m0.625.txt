@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 132 | label: meter | g:0.194 m:0.625 ---
+
+saptaviṃśat tu yāḥ proktāḥ somapatnyo atha suvratāḥ 
+tāsām apatyāny abhavan dīptāny amitatejasām ।। 
+tārāgaṇāḥ samastā ye gagane ye cakāsati । 
+ariṣṭanemeḥ patnīnām apatyānīha ṣoḍaśa 
+bahuputrasya viduṣaś catasro vidyutaḥ smṛtāḥ 
+pratyaṅgirasajāḥ śreṣṭhā ṛco brahmarṣisatkṛtāḥ ।।

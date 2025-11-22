@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1055 | label: meter | g:0.194 m:0.625 ---
+
+paramāstrasya madhye tu khādakāstraṃ mahābalam 
+tasya vyāvarṇitaṃ pūrvaṃ tantraṃ svābhāvalakṣaṇam ।।

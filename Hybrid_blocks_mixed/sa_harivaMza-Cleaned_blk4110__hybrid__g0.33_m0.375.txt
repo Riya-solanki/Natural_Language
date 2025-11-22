@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4110 | label: hybrid | g:0.33 m:0.375 ---
+
+adhṛsyaḥ sarvabhūtānām avadhyaś ca bhaviṣyasi 
+yathaiva devarājo ayam ajito lokapūjitaḥ ।। 
+tava ceyaṃ varārohā nityaṃ ca priyadarśanā । sarvalokeṣu vikhyātā divyagandhā manoramā । tatpurogamadevānām adhipas tvaṃ bhaviṣyasi । 
+satyabhāmottamā strīṇāṃ subhagā sthirayauvanā 
+jarāṃ na yāsyati vadhūr yāvat tvaṃ kṛṣṇa mānuṣaḥ ।।

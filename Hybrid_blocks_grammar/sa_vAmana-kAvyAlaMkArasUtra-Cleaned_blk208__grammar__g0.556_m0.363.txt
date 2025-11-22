@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 208 | label: grammar | g:0.556 m:0.363 ---
+
+dṛṣṭvaikāsanasaṅgate priyatame paścādupetyādarā- dekasyā nayane nimīlya vihitakrīḍāsubandhacchalaḥ । īpadvakritakandharaḥ sapulakaḥ premollasanmānasā- mantarhāsalasatkapolaphalakāṃ dhūrto'parāṃ cumbati ।।
+śūdrakādiraciteṣu prabandheṣvasya bhūyān prapañco dṛśyate ।।avaiṣamyaṃ samatā ।।
+avaipamyaṃ prakramābhedaḥ samatā । kvacit kramo'pi bhidyate । yathā

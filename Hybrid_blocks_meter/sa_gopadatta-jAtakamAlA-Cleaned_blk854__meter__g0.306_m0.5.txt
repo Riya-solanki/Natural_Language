@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 854 | label: meter | g:0.306 m:0.5 ---
+
+sudāruṇair āyudhabhīmadarśanair arātibhiḥ sārdham aho varaṃ gatam ।
+tvayā suhṛcchadmanigūḍhapāpmanā padaṃ na caikaṃ vitathapralāpinā ।।

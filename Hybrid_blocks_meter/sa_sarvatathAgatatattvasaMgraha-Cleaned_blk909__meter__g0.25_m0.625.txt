@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 909 | label: meter | g:0.25 m:0.625 ---
+
+aho hi bodhicaittasya sarvato bhadratānaghā ।
+yatsatvavinayādyāti krodho api ramaṇīya[tām ।।

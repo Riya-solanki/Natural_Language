@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6411 | label: meter | g:0.194 m:0.5 ---
+
+kṣetrajñaḥ karaṇī jñānaṃ karaṇaṃ tena tasya tat 
+niṣpādya muktikāryaṃ vai kṛtakṛtyaṃ nivartate ।।

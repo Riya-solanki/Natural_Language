@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2069 | label: grammar | g:0.583 m:0.5 ---
+
+varaṃ prāṇāstyājyā na ca piśunavādeṣvabhiratiḥ varaṃ maunaṃ kāryaṃ na ca vacanamuktaṃ yadanṛtam ।
+varaṃ klībairbhāvyaṃ na ca parakagalatrābhigamanaṃ varaṃ bhikṣārthitvaṃ na ca paradhanāsvādamasakṛt ।।

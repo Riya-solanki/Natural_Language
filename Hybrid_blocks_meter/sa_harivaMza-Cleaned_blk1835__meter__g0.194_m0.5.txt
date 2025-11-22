@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1835 | label: meter | g:0.194 m:0.5 ---
+
+taṃ śayānaṃ mahātmānaṃ bhavāya jagataḥ prabhum 
+upāsāṃ cakrire viṣṇuṃ devāḥ sarṣigaṇās tadā ।।

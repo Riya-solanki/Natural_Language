@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 750 | label: meter | g:0.056 m:0.625 ---
+
+krīḍanāni vividhāni taṃ sadā
+darśayanti ca mudā hasanti ca ।
+khelayanti ca balena tā iti
+svāntare param amū arakṣiṣuḥ ।। [rathoddhatā]

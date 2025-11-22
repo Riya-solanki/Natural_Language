@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 743 | label: grammar | g:0.75 m:0.5 ---
+
+vasatīvarīś cet skandeyuḥ pṛthivī vibhūvarī sinīvāly uruṃdhety āvṛtte । namas te bhuvo viśva tad gṛhītvā māndā vāśā iti catasṛbhir āgnīdhrīye juhuyāt ।

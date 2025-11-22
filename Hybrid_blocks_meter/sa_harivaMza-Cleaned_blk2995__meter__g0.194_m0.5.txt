@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2995 | label: meter | g:0.194 m:0.5 ---
+
+vasudevaṃ ca putrārthe yadi tvaṃ parigarhase 
+tatra mithyāpralāpaṃ te nindāmi kṛpaṇaṃ vacaḥ ।।

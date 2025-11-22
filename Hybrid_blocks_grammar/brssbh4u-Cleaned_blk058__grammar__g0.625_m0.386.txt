@@ -1,0 +1,6 @@
+--- source: brssbh4u-Cleaned.txt | block: 58 | label: grammar | g:0.625 m:0.386 ---
+
+dik deśakāleṣu saṃśayaḥ - kim asti kaścit niyamo na asti vā iti ।
+prāyeṇa vaidikeṣu ārambheṣu digādiniyamadarśanāt syāt iha api kaścit niyama iti yasya matiḥ taṃ prati āha dik deśakāleṣu arthalakṣaṇa eva niyamaḥ ।
+yatra eva asya diśi deśe kāle vā manasaḥ sokaryeṇa ekāgratā bhavati tatra eva upāsīta prācīdik pūrvāhna prācīna pravaṇādivat viśeṣa aśrāvaṇāt ।
+ekāgratayā iṣṭāyāḥ sarvatra aviśeṣāt ।

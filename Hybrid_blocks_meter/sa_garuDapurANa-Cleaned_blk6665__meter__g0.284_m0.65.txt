@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6665 | label: meter | g:0.284 m:0.65 ---
+
+ye gatā brahmaṇaḥ sthānaṃ te api yānti paraṃ padam ।
+anāvṛṣṭyarkasampannā āsanmeghāstathā dvija ।
+śataṃ varṣāṇi varṣadbhirmedhairaṇḍaṃ prapūryate ।।

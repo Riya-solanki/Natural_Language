@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 645 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad etad adhigatya śīghram eva nāma-karaṇaṃ kartavyam iti sammatya śrīmantaṃ vasudevaṃ prati yadā śrī-vraja-naradevas tan nijam iṣṭaṃ sandiṣṭavān, tadā paramārtha-vicāreṇa mitra-putratārha-samadhika-bahir-vyavahāreṇa cānujasya śatatamaṃ vāsaram eva tad-avasaraṃ niścinvan, śrī-vasudevaḥ śrī-vrajarājaṃ prati yathāvasaraṃ tan nivedayiṣyāma ity aniścinvann iva sandideśa । atha tapo-dhāmānaṃ garga-nāmānam ātmanaḥ parama-hitaṃ kula-purohitaṃ manasi sammatya rahasi saṅgatya nija-tanaya-vinimaya-mayaṃ vṛttaṃ vitatya nivedayāmāsa । sa ca sahāsam āha sma, "tad etad aparam apy ahaṃ nānā-vṛttaṃ jānāmy eva । sampraty atra mat-kṛtyaṃ tv ājñāpyatām ।"

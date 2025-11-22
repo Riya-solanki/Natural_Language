@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1275 | label: meter | g:0.266 m:0.883 ---
+
+svāgata-pṛcchādikam api
+viśrama-kāryaṃ vilambitaṃ tanute ।
+tasmāt tat-paripāṭīm
+ajahāṃ bhavatībhir āsyatām eva ।। iti ।

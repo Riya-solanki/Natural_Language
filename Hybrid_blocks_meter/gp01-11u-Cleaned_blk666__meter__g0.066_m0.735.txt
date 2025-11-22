@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 666 | label: meter | g:0.066 m:0.735 ---
+
+"nāmāni yāni guṇa-karma-nibandhanāni
+rūpāṇi ca pratidiśaṃ nikhila-stutāni ।
+sākalyato nahi vayaṃ yadi tāni vidmo,
+jānanti tarhi na pare tv iti paunaruktyam ।। [vasantatilakā]

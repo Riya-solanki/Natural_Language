@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3678 | label: meter | g:0.25 m:0.886 ---
+
+pulastya uvāca ।
+śrūyatāṃ kathayiṣyāmi kathāmetāṃ purātanīm ।
+kathayāmāsa yāṃ viṣṇurbhaviṣyamanave purā ।।

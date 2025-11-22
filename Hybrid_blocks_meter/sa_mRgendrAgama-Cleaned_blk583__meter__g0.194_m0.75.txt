@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 583 | label: meter | g:0.194 m:0.75 ---
+
+yoginīsiddhakaulaṃ ca srotāṃsyaṣṭau vidurbudhaḥ 
+pratisroto anuyāyīni tāni brūyādvibhāgaśaḥ ।।

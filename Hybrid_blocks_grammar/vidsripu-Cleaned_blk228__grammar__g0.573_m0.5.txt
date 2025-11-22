@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 228 | label: grammar | g:0.573 m:0.5 ---
+
+haranti hṛdayāni yacchravaṇaśītalā veṇavo yad arghati karambitā śiśiravāriṇā vāruṇī ।
+bhavanti ca himopamāḥ stanabhuvo yad eṇīdṛśāṃ śucer upari saṃsthito ratipateḥ prasādo guruḥ ।।

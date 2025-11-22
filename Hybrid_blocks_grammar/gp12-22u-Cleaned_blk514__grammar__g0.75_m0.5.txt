@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 514 | label: grammar | g:0.75 m:0.5 ---
+
+[] dṛṣṭvā ca tac-chalam evāsvaccha-svacchalāyāvalambya-bhadra, kathaṃ vilambam ālambathās, tathāpi bhadraṃ dudyūṣā-samaya eva samayitas tvam asi iti vihasya tad-anukṛta-gopa-bāla-sambandha-viśeṣa-sambandhaṃ parihasya ca bahu-paritoṣitena tena saha sahacaratvaṃ balasya bala-nirjayārtham eva kalayāñcakre । ūce ca-adyārabhya, sabhya, mama parama-suhṛd bhavān eva । tvām aham akṣi-gatatayā sthāpayiṣyāmi । śrīdāmā rāmam evānvetu, sa kila hy antar-vardhana-spardhaḥ spardhana-gaṇam evārhati iti ।

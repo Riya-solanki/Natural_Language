@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11835 | label: meter | g:0.264 m:0.812 ---
+
+dakṣādibhyaḥ pañcaguṇādadhamaḥ saṃprakīrtitaḥ ।
+garuḍa uvāca ।
+pravahaśceti saṃjñāṃ sa kimarthaṃ prāpa tadvada ।।

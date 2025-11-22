@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1044 | label: grammar | g:0.708 m:0.5 ---
+
+[] atha śrīvatsa-vakṣāś ca vatsān anyāṃś cucukāreṇa sannidhānaḥ kaṇṭha-gaṇḍa-piciṇḍādau kaṇḍūm apanayamānaḥ, sarvataḥ krīḍan gāyan parva tanvann ivāsīt ।

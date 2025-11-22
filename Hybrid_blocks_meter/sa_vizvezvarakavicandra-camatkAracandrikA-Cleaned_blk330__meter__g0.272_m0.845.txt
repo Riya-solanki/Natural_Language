@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 330 | label: meter | g:0.272 m:0.845 ---
+
+śrāvyaṃ ca kathitaṃ campūrupacampūriti dvidhā ।
+campūprabandhastatra syātkāntāṣṭādaśavarṇanaḥ ।।

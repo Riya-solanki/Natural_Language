@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 354 | label: grammar | g:0.562 m:0.5 ---
+
+preyān samādhiraurjiṃtyaṃ saumyaṃ gāmbhīryavistarau । saṃkṣepaḥ śabdasaṃskāro bhāvikatvaṃ ca sammitaḥ ।।

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 875 | label: meter | g:0.194 m:0.521 ---
+
+diṣṭyārdha-śruta-vipralambha-janita-krodhād ahaṃ no gato
+diṣṭyā no paruṣaṃ ruṣārdha-kathite kiñcin mayā vyāhṛtam ।
+māṃ pratyāyayituṃ vimūḍha-hṛdayaṃ diṣṭyā kathāntaṃ gatā
+mithyā-dūṣita-yānayā virahitaṃ diṣṭyā na jātaṃ jagat ।।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 174 | label: grammar | g:0.75 m:0.5 ---
+
+-nanu jijñāsāyāḥ śāstreṇāpratipādyamānatvāt tatpratipādanārtho mā bhūdathaśabdaḥ brahmatajjñānaprārambhārthastu syāditi cenna । pradhānaṃ pradhānenānveti । atra hi pratyayānāṃ prakṛtyarthānvitasvārtabodhajanakatvāt brahmajñānaviṣayiṇī icchaiva pradhānaṃ tatra ca nānvayaḥ saṃbhavatīti bhāvaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4743 | label: meter | g:0.194 m:0.5 ---
+
+āplutya sahasā kruddho ratheṣāṃ tasya so acchinat 
+jaghānāśvāṃś ca khaḍgena bāṇasya rathamūrdhani ।।

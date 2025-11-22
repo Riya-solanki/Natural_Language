@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6834 | label: meter | g:0.25 m:0.625 ---
+
+viniṣpannasamādhistu muktimatraiva janmani ।
+prāpnoti yogī yogāgnidagdhakarmā ca yo acirāt ।।

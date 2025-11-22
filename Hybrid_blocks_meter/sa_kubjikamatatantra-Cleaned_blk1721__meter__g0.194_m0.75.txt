@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1721 | label: meter | g:0.194 m:0.75 ---
+
+raktamaṇḍalakaṃ kukṣau dakṣiṇe vāmataḥ śikhī 
+kulamaṇḍalakaṃ pṛṣṭhau vajrasaṅkhyāta madhyagam ।।

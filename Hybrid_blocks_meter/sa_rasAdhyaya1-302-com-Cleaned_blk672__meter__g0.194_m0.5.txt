@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 672 | label: meter | g:0.194 m:0.5 ---
+
+na bandho jāyate hemno jātaṃ taddravarūpitam 
+iyaṃ hemadrutir jātā tajjñairniṣpāditā kila ।।

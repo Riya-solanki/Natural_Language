@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2069 | label: meter | g:0.25 m:0.625 ---
+
+na sajjanād duracaraḥ kvacidbhavedbhajeta sādhūn vinayakramānugaḥ ।
+spṛśantyayatnena hi tatsamīpagaṃ visarpiṇastadguṇapuṣpareṇavaḥ ।।

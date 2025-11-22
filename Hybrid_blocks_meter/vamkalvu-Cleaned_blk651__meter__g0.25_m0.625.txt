@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 651 | label: meter | g:0.25 m:0.625 ---
+
+saraśmi cañcalaṃ cakraṃ dadhaddevo vyarājata ।
+savāḍavāgniḥ sāvartaḥ srotasāmiva nāyakaḥ ।।

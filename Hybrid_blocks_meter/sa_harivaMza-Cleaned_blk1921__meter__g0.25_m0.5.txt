@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1921 | label: meter | g:0.25 m:0.5 ---
+
+tad abhūt tumulaṃ yuddhaṃ varṣasaṃkhyāḥ sahasraśaḥ 
+na ca tāv asurau yuddhe tadā śramam avāpatuḥ ।।

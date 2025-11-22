@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 575 | label: meter | g:0.306 m:0.5 ---
+
+jājvalyamānāmāyāntaṃ daṇḍaṃ dṛṣṭvā diteḥ sutāḥ ।
+prākrośanti hataḥ kaṣṭaṃ prahlādo ayaṃ yamena hi ।।

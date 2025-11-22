@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1243 | label: meter | g:0.194 m:0.75 ---
+
+tasmād akṣarasantānaṃ vāgvilāsaṃ pravartate 
+tena saṅkṣobhya cātmānaṃ avyaktāvyaktarūpiṇam ।।

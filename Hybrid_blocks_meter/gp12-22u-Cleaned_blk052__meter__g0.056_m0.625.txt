@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 52 | label: meter | g:0.056 m:0.625 ---
+
+suramyaṃ nṛtyanti pramada-śikhinaḥ sneha-valitaṃ
+hariṇyaḥ paśyanti sphuṭa-mṛdu-kalaṃ bibhrati pikāḥ ।
+naṭā rāmāḥ sūkta-prapaṭhana-vidaḥ kānana-sadām
+amī dhanyā yasmād vidadhati tavārād atithitām ।। [śikhariṇī]

@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 381 | label: meter | g:0.102 m:0.5 ---
+
+medhā śrutaṃ kriyā daṇḍaṃ nayaṃ vinayam eva ca 
+bodhaṃ buddhis tathā lajjā vinayaṃ vapur ātmajam 
+vyavasāyaṃ prajajñe vai kṣemaṃ śāntir asūyata ।।

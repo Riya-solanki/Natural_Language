@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11519 | label: meter | g:0.25 m:0.5 ---
+
+strīrūpāṇāṃ namanaṃ kāryameva suyogapīṭhasya svarūpa bhūtam ।
+sadā namecchrīmadanantasaṃjñamevaṃ na mecchrīnivāsaṃ ca devam ।।

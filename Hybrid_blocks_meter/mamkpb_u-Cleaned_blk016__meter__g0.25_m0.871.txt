@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 16 | label: meter | g:0.25 m:0.871 ---
+
+atādṛśi vācyādanatiśāyini ।
+yathā grāmataruṇaṃ taruṇyā navavañjulamajjarīsanāthakaram ।
+paśyantyā bhavati muhurnitarāṃ malinā mukhacchāyā ।।

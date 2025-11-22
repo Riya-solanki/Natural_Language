@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1589 | label: meter | g:0.25 m:0.5 ---
+
+samutpatya ca vegena himādriśikharaṃ śivam ।
+ṭaṅkacchinnaṃ prayatnena vidhātrā nirmitaṃ tathā ।।

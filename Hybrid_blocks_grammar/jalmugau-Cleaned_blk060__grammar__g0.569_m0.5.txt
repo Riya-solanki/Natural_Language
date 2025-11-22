@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 60 | label: grammar | g:0.569 m:0.5 ---
+
+caṇḍaṃ daṇḍam akāṇḍa eva kalayan rājā prajānāṃ yamaḥ kurvan durvyayam artha-dūṣaṇa-ruciḥ svasyaia sa droha-kṛt
+saumyaḥ saumya-karo ativiśva-nayanāando abhinandyaḥ satāṃ sa-śrīkaḥ kamalāaraś ca suṣamāṃ kāṃ kām aho nāhati ।।

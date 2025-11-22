@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8262 | label: meter | g:0.25 m:0.555 ---
+
+manovākkāyajāndoṣāṃstathāṃ bhuṅkte khageśvara ।
+mṛtaḥ sa sukhamāpnoti māyāpāśairna badhyate ।
+pāśabaddho naro yastu vikarmanirato bhavet ।।

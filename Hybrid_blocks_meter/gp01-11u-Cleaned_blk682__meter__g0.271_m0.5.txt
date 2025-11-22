@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 682 | label: meter | g:0.271 m:0.5 ---
+
+[] tad idaṃ procya punaḥ sānandam uvāca-tataḥ śrūyatām uttara-vṛttāntaḥ

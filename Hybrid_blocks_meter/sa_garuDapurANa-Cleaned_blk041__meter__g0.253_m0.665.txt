@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 41 | label: meter | g:0.253 m:0.665 ---
+
+sūta uvāca ।
+ahaṃ hi munibhiḥ sārdhaṃ gato badarikāśramam ।
+tatra dṛṣṭo mayā vyāso dhyāyamānaḥ pareśvaram ।।

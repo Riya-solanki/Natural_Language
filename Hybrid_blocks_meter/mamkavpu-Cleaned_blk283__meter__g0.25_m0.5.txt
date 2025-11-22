@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 283 | label: meter | g:0.25 m:0.5 ---
+
+{kesesu balāmoḍia teṇa a samarammi jaasirī gahiā ।
+jaha kandarāṃhi vihurā tassa daḍhaṃ kaṇṭhaammi saṃṭhaviā ।।}
+[keśeṣu balātkāreṇa tena ca samare jayaśrīrgṛhītā ।
+yathā kandarābhirvidhurāstasya dṛḍhaṃ kaṇṭhe saṃsthāpitā ।।]

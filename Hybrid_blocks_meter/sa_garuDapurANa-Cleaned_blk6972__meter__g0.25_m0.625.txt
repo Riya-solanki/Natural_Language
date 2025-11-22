@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6972 | label: meter | g:0.25 m:0.625 ---
+
+tvaṃ hotā yajamānastvaṃ tvaṃ dhānyaṃ paśuyājakaḥ ।
+tvamadhvaryustvamudgātā tvaṃ yajñaḥ puruṣottamaḥ ।।

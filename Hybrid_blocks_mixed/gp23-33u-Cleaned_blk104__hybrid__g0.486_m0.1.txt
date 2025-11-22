@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 104 | label: hybrid | g:0.486 m:0.1 ---
+
+atha na bhavati kāryaṃ brūtha tan neti buddhaṃ
+vrajam anu cala-cittā yāta nādhvaṃ mayātra ।
+vanam idam aitghoraṃ rātrir atrātighorā
+svayam atiśayi-ghora-prāṇi-vṛndaiḥ parītāḥ ।।
+[] atra nādhvam iti na yāteti vā yojanā । punas tad eva śleṣayituṃ sopāna-viśeṣaṃ cakāra-na cedṛśī svairatā bhavādṛśīnāṃ sadṛśī bhavati yataḥ mātāpitara-pramukhāḥ sahajāḥ patayaś ca vaḥ santi iti ।

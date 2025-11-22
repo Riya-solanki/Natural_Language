@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 429 | label: meter | g:0.306 m:0.5 ---
+
+svataḥ śarīrātsthirapīvarāṇi dāsyāmi māṃsāni saśoṇitāni ।
+ato anyathā ko hi mama kramaḥ syādityāgateṣvarthiṣu yuktarūpaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 501 | label: grammar | g:0.562 m:0.5 ---
+
+ity uktvā mayam āmantrya samyak tenābhipūjitah। divam ācakrame arkāṃśah praviveśa svamaṇḍalam।।

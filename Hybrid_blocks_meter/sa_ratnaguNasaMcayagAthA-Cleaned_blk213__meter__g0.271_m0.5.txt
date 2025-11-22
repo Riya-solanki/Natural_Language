@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 213 | label: meter | g:0.271 m:0.5 ---
+
+bhūtagrahā vividha vyādhaya martyaloke satyādhiṣṭhāni praśameti hitānukampī 
+na ca tena manyanupapadyati nāpi mānam avivartiyeti ayu vyākṛtu veditavyaḥ ।।

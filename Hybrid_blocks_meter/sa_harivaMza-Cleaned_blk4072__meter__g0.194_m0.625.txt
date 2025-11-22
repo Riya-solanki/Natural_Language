@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4072 | label: meter | g:0.194 m:0.625 ---
+
+garuḍaṃ patatāṃ śreṣṭhaṃ mūrtimantam ivāmbudam 
+tato abhyayād giriśreṣṭham abhito maṇiparvatam ।।

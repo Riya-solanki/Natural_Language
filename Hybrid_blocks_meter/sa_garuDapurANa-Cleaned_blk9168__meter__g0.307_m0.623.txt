@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9168 | label: meter | g:0.307 m:0.623 ---
+
+ātmānaṃ ye na jānanti te narāḥ paśavaḥ smṛtāḥ ।
+evametanmayākhyātaṃ śarīraṃ te caturvidham ।।

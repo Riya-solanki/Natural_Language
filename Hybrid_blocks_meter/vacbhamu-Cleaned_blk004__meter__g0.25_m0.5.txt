@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 4 | label: meter | g:0.25 m:0.5 ---
+
+niḥśvasitamasya vedā vīkṣitametasya pañca bhūtāni ।
+smitametasya carācaramasya ca suptaṃ mahāpralayaḥ ।।

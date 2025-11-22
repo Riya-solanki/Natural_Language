@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 50 | label: meter | g:0.056 m:0.646 ---
+
+tvaṃ rājase deva vane' tra sāmprataṃ
+vayaṃ na paśyāma tathāpi tāmasāḥ ।
+itīva cakṣuṣmati janma-lambhanaṃ
+vṛkṣā vṛṇānāś caraṇaṃ tavāśritāḥ ।। [upajāti ]

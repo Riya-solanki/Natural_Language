@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8931 | label: meter | g:0.25 m:0.625 ---
+
+divyavarṣapramāṇena tisraḥ koṭyor'ddhakoṭayaḥ ।
+tāvatkālaṃ vasetsvarge nakṣatraiḥ saha sarvadā ।।

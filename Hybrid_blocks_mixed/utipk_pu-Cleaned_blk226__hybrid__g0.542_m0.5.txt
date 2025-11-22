@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 226 | label: hybrid | g:0.542 m:0.5 ---
+
+ekasminn eva caikapratyavamarśasāmarthyopapādite vastuni svecchāvaśād arthitvānurodhād vā naipuṇyavaśād vāvabhāsabhedaḥ ।।

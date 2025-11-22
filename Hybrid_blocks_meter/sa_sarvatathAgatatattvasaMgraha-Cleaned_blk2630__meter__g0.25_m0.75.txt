@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2630 | label: meter | g:0.25 m:0.75 ---
+
+vajragarbhamahāmudrāṃ badhvā tu samāhitaḥ ।
+pūjayaṃ sarvapūjābhiḥ sarvabuddhān vaśannayet ।।

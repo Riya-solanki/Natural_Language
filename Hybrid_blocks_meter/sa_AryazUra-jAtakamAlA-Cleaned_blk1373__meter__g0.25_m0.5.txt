@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1373 | label: meter | g:0.25 m:0.5 ---
+
+guṇā hi puṇyāśrayalabdhadīptayo gatāḥ priyatvaṃ pratipattiśobhayā ।
+api dviṣadbhyaḥ svayaśonurakṣayā bhavanti satkāraviśeṣabhāginaḥ ।।

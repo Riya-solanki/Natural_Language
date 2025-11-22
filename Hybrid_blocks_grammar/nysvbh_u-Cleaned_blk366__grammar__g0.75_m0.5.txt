@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 366 | label: grammar | g:0.75 m:0.5 ---
+
+na sādharmyasya kṛtsnaprāyālpabhāvamāśrityopamānaṃ pravartate, kiṃ tarhi ? prasiddhasādharmyāt sādhyasādhanabhāvamāśritya pravartate yatra caitadasti na tatropamānaṃ pratiṣeddhuṃ śakyaṃ tasmād yathoktadoṣo nopapadyate iti।।

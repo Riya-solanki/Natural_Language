@@ -1,0 +1,8 @@
+--- source: brssgo1u-Cleaned.txt | block: 890 | label: meter | g:0.272 m:0.753 ---
+
+nanvevaṃ sati pratardanavākyanirṇayenaivedamapi vākyaṃ nirṇīyeta ।
+na nirṇīyate ।
+ayasya caitatkarma' ityasya brahmaviṣayatvena tatrānirdhāritatvāt ।
+tasmādatra jīvamukhyaprāṇaśaṅkā punarutpadyamānā nirvartyate ।
+prāṇaśabdo api brahmaviṣayo dṛṣṭaḥ aprāṇabandhanaṃ hi somya manaḥ' ityatra ।
+jīliṅgamapyupakramopasaṃhārayorbrahmaviṣayatvādabhedābhiprāyeṇa yojayitavyam ।।

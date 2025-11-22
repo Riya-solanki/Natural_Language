@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 246 | label: grammar | g:0.604 m:0.5 ---
+
+sudṛśo rasarecakitaṃ cakitaṃ bhavatīkṣitamasti mitaṃ stimitam । api hāsalavastavakastava kastulayennanu kāmadhurāṃ madhurām ।।

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 176 | label: grammar | g:0.75 m:0.5 ---
+
+[] kiṃ ca, sva-manoratha-prathanāyāṃ rādhāyāḥ prathamā prathamānā-gamanatā samprati pratipannā, tasmān mahā-maha eva mama hitāya mahīyate । sa ca śāradatā-viśāradatāyām asyāṃ paurṇamāsyāṃ rāsa-rasa eva tūrṇaṃ pūrṇatām arhati । eṣa tu sarvāsām aikamatya-pratipatty-anusārata eva sāratām prasārayati । aikyamataṃ ca pratyekaṃ sābhimānāntarāsu parāsu kiñcin mad-udāsīnatā-paraṃ dāsī-kartum āsīdati । tasmād aśeṣa-guṇādhikāṃ rādhikām ādāya tirodhāya sthāsyāmi iti ।

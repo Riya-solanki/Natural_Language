@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 899 | label: meter | g:0.194 m:0.75 ---
+
+{na khalu karṇāvataṃsādivajjaghanakāñcītyādi kriyate ।
+jagāda madhurāṃ vācaṃ viśadākṣaraśālinīm ।।}

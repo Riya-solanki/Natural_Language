@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 556 | label: meter | g:0.194 m:0.893 ---
+
+nityapakṣe tu tāvatsamādhiḥ
+nityānāmatīndriyatvāttaddharmavikalpācca varṇavikārāṇāmapratiṣedhaḥ ।।

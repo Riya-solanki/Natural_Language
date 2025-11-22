@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 25 | label: grammar | g:0.562 m:0.5 ---
+
+sarvajñātā yad api lakṣaṇayā parasya mukhyā tathāpi bhavataḥ parameśvaratvāt ।
+svātantryam apy anupacāram upaiti yogam tvayy eva nātha jagataḥ khalu kartṛbhāvāt ।।

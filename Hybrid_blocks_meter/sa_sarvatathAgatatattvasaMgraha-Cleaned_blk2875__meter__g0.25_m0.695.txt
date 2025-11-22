@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2875 | label: meter | g:0.25 m:0.695 ---
+
+satvavajrīn dṛḍhīkṛtya vajrasatvasamādhinā ।
+hadyūrṇāyāṃ tathā kaṇṭhe mūrdhni sthāpyādhitiṣṭhyate ।
+ityāha bhagavān vajrasatvaḥ ।।

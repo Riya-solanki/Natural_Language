@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 616 | label: grammar | g:0.75 m:0.5 ---
+
+āyāhi tapasā janiṣv agne pāvako arciṣā । upemāṃ suṣṭutiṃ mama । ā no yāhi tapasā janeṣv āgne pāvaka dīdyat । havyā deveṣu no dadhat iti havīṃṣi dadyāt ।

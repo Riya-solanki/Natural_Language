@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 87 | label: meter | g:0.25 m:0.854 ---
+
+bhāvayannirvidyate, nirviṇṇasya vairāgyam, viraktasyāpavarga iti।
+janmamaraṇaprabandhocchedaḥ sarvaduḥkhaprahāṇamapavarga iti।।
+astyanyadapi dravyaguṇakarmasāmānyaviśeṣasamavāyāḥ prameyam, tadbhedena cāparisaḍkhyeyam।
+asya tu tattvajñānādapavargo mithyājñānātsaṃsāra ityata etadupadiṣṭaṃ viśeṣeṇeti ।।

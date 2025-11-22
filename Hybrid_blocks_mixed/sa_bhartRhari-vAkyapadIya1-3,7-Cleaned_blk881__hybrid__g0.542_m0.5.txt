@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 881 | label: hybrid | g:0.542 m:0.5 ---
+
+ātmatattvaparityāgaḥ parato nopapadyate ātmatattvaṃ tu parataḥ svato vā nopakalpate ।।

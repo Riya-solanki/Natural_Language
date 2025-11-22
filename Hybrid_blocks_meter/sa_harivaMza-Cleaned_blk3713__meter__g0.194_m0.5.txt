@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3713 | label: meter | g:0.194 m:0.5 ---
+
+evaṃ dvāravatīṃ caiva purīṃ prāpya sabāndhavāḥ 
+sukhino nyavasan rājan svarge devagaṇā iva ।।

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 251 | label: grammar | g:0.646 m:0.5 ---
+
+atha kadā cid anyatamo vyādho dhanvī pṛṣṭhāvāpī pragāḍhāvabaddhaparikaro mālutāvatānasaṃyatākulakeśabhārabhāsuraḥ śvāpadān abhidravaṃs taṃ deśam abhijagāma ।

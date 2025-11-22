@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1800 | label: meter | g:0.25 m:0.625 ---
+
+divārkaraśmayo yatra prabhāṃ tanvanti nātapam 
+śaśinaś ca na śītāya niśi dyotāya kevalam ।।

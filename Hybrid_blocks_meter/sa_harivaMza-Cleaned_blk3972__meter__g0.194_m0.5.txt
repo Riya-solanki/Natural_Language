@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3972 | label: meter | g:0.194 m:0.5 ---
+
+taṃ jigāya tato rukmī yatamānaṃ mahāratham 
+tāvad evāparaṃ bhūyo baladevaṃ jigāya saḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1719 | label: grammar | g:0.573 m:0.5 ---
+
+premṇā purā parigṛhītam idaṃ kuṭumbaṃ cel lālitaṃ tadanu pālitam adya yāvat ।
+sampraty api stimitavastram ivāṅgalagnam etaj jihāsur api hātum anīśvaro asmi ।।

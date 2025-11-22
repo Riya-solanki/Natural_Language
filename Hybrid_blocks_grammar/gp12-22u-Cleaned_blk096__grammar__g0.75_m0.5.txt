@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 96 | label: grammar | g:0.75 m:0.5 ---
+
+[] samprati tu kṛta-yava-kṣāra-sāra-sandha-gandhakendhana-vahnīyamānam etam ātmanā cachāda nanāda ca । kevala-bali-mānitāmayāsahiṣṇutayā dhṛṣṇag asau nāga-jiṣṇur ārto' pi na nivartate sma ।

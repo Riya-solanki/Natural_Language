@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2152 | label: meter | g:0.25 m:0.625 ---
+
+sāṃkhyevettāramaparaṃ kapilaṃ voḍhumāsurim ।
+dṛṣṭvā pañcaśikhaṃ śreṣṭhaṃ yogayuktaṃ taponidhim ।।

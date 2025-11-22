@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1198 | label: hybrid | g:0.444 m:0.5 ---
+
+mṛtasya ca punar janma bhavaty etac ca nānyathā 
+āgamo ayaṃ tathā tac ca nopādānaṃ vinodbhavaḥ ।।

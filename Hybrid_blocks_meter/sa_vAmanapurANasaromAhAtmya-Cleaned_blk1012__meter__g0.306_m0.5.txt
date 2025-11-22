@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1012 | label: meter | g:0.306 m:0.5 ---
+
+tasyāṃ samabhavad veno durātmā vedanindakaḥ ।
+sa dṛṣṭvā putravadanaṃ kruddho rājā vanaṃ yayau ।।

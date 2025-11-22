@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 122 | label: meter | g:0.36 m:0.597 ---
+
+cāraṇa
+iti dīpito viśuddhaḥ pracalitavidyullatāsahasrābhaḥ ।
+bhavati yadā rasarājaś cāryo satvādi tadā bījam ।।

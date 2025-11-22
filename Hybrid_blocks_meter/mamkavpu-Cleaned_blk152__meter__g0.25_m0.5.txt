@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 152 | label: meter | g:0.25 m:0.5 ---
+
+atrādya madhusamaye yadi vrajasi tadāhaṃ tāvat na bhavāmi
+tava tu na jānāmi gatimiti vyajyate ।।

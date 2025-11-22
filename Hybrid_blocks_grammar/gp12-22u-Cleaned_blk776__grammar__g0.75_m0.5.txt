@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 776 | label: grammar | g:0.75 m:0.5 ---
+
+[] tasyāṃ ca bhrātṛ-dvitīyāyāṃ bhrātṛbhiḥ praśastena bhaginī-hastena bhoktavyam iti parama-dhanyābhir upanandādi-kanyābhir mitho milantībhir nimantritau praṇaya-yantritau tatra sa-tṛṣṇau ca rāma-kṛṣṇau sahacara-nikareṇa saha bhojana-kareṇa saha maham arocayatām ।

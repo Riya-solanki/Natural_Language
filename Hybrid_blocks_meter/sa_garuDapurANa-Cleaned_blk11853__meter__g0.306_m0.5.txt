@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11853 | label: meter | g:0.306 m:0.5 ---
+
+netrasvabhāvo darśane strīnarāṇāṃ hyatyādarānnāsti nidrādikaṃ ca ।
+harerbhaktānāṃ darśane duḥ kharūpo viṣṇoḥ pūjādarśane duḥ khajālam ।।

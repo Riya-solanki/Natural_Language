@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1782 | label: hybrid | g:0.506 m:0.517 ---
+
+mṛṇālam etad valayīkṛtaṃ tayā tadīya evaiṣa vataṃsapallavaḥ ।
+idaṃ ca tasyāḥ kadalīdalāṃśukaṃ yad atra saṃkrānta iva smarajvaraḥ ।।
+rājaśekharasyāmī

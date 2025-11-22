@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6967 | label: meter | g:0.306 m:0.5 ---
+
+ādityā vasavo rudrā aśvinau tvaṃ marudgaṇāḥ ।
+tvaṃ daityā dānavā nāgāstvaṃ yakṣā rākṣasāḥ khagāḥ ।।

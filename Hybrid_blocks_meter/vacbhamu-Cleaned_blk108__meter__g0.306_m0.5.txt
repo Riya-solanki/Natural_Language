@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 108 | label: meter | g:0.306 m:0.5 ---
+
+bhavatvānantaryārthaḥ, kimevaṃ satītyata āha- sati cānantaryārthatva iti ।
+na tāvadyasya kasyacidatrānantaryam iti vaktavyam, tasyābhidhānamantareṇāpi prāptatvāt ।
+avaśyaṃ hi puruṣaḥ kiñcitkṛtvā kiñcitkaroti ।
+na cānantaryamātrasya dṛṣṭamadṛṣṭaṃ vā prayojanaṃ paśyāmaḥ ।
+tasmāttasyātrānantaryaṃ vaktavyaṃ yadvinā brahmajijñāsā na bhavati, yasminsati tu bhavantī bhavatyeva ।
+tadidamuktam- yatpūrvavṛttaṃ niyamenāpekṣata iti ।

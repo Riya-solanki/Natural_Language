@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 857 | label: meter | g:0.246 m:0.806 ---
+
+prayogaṃ sampravakṣyāmi yad uktaṃ te purā mayā 
+dharmakāmārthamokṣāṇāṃ caturvargaphalodayam ।।

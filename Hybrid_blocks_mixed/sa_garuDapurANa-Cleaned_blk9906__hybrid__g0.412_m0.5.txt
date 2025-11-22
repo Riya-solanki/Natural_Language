@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9906 | label: hybrid | g:0.412 m:0.5 ---
+
+dveṣādbhayādvā samare samāgate śastraṃ gṛhītvā parasainyasaṃmukhaḥ ।
+na yāti pakṣīndra mṛśca paścātkṣāttraṃ balaṃ tasya gataṃ tathaiva ।
+dvijāya dattvā kanakaṃ mahīmimāṃ bhūyaḥ sa paścādbhavatīha loke ।।

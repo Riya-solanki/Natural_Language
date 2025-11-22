@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 410 | label: grammar | g:0.665 m:0.423 ---
+
+yadi jātyātmanā vyaktiḥ pratīyate tato jātivyaktyorabheda eva pratītibalādāpadyate kathaṃ bhedābhyupagamaḥ ।
+ucyate- gaurayaṃ śāvaleyo gaurayaṃ bāhuleya ityubhayatra gavākāro anuvartamāno dṛśyate, śāvaleyabāhuleyākārau tu vyāvartete, tadyapi tayoḥ śābaleyagavākārayorabhedaḥ syādekānuvṛttāvitaro apyanuvarteta, tadvyāvṛttau vā gavākāro api vyāvarteta ।
+kiṃ ca tasyāmeva vyaktāviyaṃ gauriti gavātmanā pratīyamānāyāmapi neyaṃbuddhigobuddhyorgaurirgauritivatparyāyatvaṃ pratīyate tasmānnābhedaḥ ।।

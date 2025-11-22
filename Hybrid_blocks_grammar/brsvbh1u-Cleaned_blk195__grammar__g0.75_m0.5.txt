@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 195 | label: grammar | g:0.75 m:0.5 ---
+
+-dṛṣṭastuṣamokādiḥ, adṛṣṭaḥ prokṣaṇādijo yaḥ sāmavāyikaḥ-kratusvarūpasamavāyī, ārāt-dūre phalānukūlacaramāpūrvasiddhau upakārastasya hetubhūtāni aupadeśikāni-pratyakṣavihitāni, ātideśikāni-'prakṛtivadvikṛtiḥ kartavyā'ityatideśaprāptāni kramaparyantānyaṅgāni teṣāṃ grāmaḥ samūhastatsahitaṃ parasparavibhinnaṃ karmasvarūpaṃ tadapekṣitādhikārīviśeṣaśca tayorjñānaṃ vinā karmāṇyanuṣṭhātuṃ na śakyānītyanvayaḥ । atra dṛṣṭādṛṣṭeti dvitīyādhyāyagatā cintā, tṛtīyādhyāyamārabhya caturbhiradhyāyairupadeśavicāraḥ, tato api caturbhiratideśavicāraḥkṛtaḥ ।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1508 | label: grammar | g:0.594 m:0.5 ---
+
+ābālyādhigamān mayaiva gamitaḥ koṭiṃ parām unnater asmatsaṃkathayaiva pārthivasutaḥ sampraty ayaṃ lajjate ।
+itthaṃ khinna ivātmajena yaśasā dattāvalambo ambudheḥ prāptas tīratapovanāni bhavato vṛddho guṇānāṃ gaṇaḥ ।।

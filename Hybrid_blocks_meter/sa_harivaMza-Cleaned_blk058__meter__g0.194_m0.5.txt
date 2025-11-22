@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 58 | label: meter | g:0.194 m:0.5 ---
+
+prajārtham ṛṣayo athāsya mamanthur dakṣiṇaṃ karam 
+venasya pāṇau mathite saṃbabhūva mahān ṛṣiḥ ।।

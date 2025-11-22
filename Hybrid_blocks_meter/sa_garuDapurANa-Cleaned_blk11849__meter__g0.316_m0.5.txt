@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11849 | label: meter | g:0.316 m:0.5 ---
+
+tasmāddvayaṃ pravicāryaiva nityaṃ sukhī bhavennātra vicāryamasti ।
+etatsarvaṃ yadi mithyā bhavettu tadā tvasau māṃ daśatu hyahīndraḥ ।।

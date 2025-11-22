@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 836 | label: meter | g:0.194 m:0.625 ---
+
+viṣṇucihnaṃ kare cakraṃ sarveṣāṃ cakravartinām 
+bhavaty avyāhato yasya prabhāvas tridaśair api ।।

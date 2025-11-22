@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 134 | label: grammar | g:0.635 m:0.5 ---
+
+śyāmoccandrā svapiṣi na śiśo naiti mām amba nidrā nidrāhetoḥ śṛṇu suta kathāṃ kām apūrvāṃ kuruṣva ।
+rāmo nāma kṣitipatir abhūn mānanīyo raghūṇām ity uktasya smitam avatu vo devakīnandanasya ।।

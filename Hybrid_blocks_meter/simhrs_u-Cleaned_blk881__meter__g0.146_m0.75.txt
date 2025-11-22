@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 881 | label: meter | g:0.146 m:0.75 ---
+
+para-gata-vibhāvair, yathā-
+devo rakṣatu vaḥ kilānana-parivyākīrṇa-cūḍā-bharāṃ
+bhartur bhasmani petuṣīṃ karatala-vyāmṛṣṭa-pārśva-kṣitim ।
+hā prāṇeśvara hā smareti rudatīṃ bāspākulākṣīṃ ratiṃ
+dṛṣṭvā yasya lalāṭa-locanam api vyāptāśru nirvāpitam ।।

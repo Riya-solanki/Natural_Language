@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 194 | label: meter | g:0.251 m:0.84 ---
+
+tair iyaṃ pṛthivī sarvā saptadvīpā sapattanā 
+saśailavanakānanā ।
+sasāgarā ca sasarit ।
+yathāpradeśam adyāpi dharmeṇa paripālyate ।।

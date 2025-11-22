@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4 | label: meter | g:0.306 m:0.5 ---
+
+oṃ ajamajaramanantaṃ jñānarūpaṃ mahāntaṃ śivamamalamanādiṃ bhūtadehādihīnam ।
+sakalakaraṇahīnaṃ sarvabhūtasthitaṃ taṃ harimamalamamāyaṃ sarvagaṃ vanda ekam ।।

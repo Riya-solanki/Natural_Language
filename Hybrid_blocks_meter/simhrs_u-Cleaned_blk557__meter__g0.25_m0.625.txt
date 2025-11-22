@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 557 | label: meter | g:0.25 m:0.625 ---
+
+taruṇas tūttamādīnāṃ madhyamo madhya-nīcayoḥ ।
+apakṛṣṭas tu nīcānāṃ tat-tan-mada-vivardhane ।। 
+uttama-prakṛtiḥ śete madhyo hasati gāyati ।
+adhama-prakṛtir grāmyaṃ paruṣaṃ vakti roditi ।।

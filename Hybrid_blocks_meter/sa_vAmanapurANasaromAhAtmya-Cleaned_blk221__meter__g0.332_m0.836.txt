@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 221 | label: meter | g:0.332 m:0.836 ---
+
+lomaharṣaṇa uvāca
+aditirvaramāsādya sarvakāmasamṛddhidam ।
+krameṇa hyudare devo vṛddhiṃ prāpto mahāyaśāḥ ।।

@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1892 | label: meter | g:0.313 m:0.736 ---
+
+tathā ca bharataḥ-
+dharmārtha-sādhanaṃ nāṭyaṃ sarva-duḥkhāpanoda-kṛt ।
+āsevadhvaṃ tad ṛṣayas tasyotthānaṃ tu nāṭakam ।। iti ।

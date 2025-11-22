@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4098 | label: meter | g:0.25 m:0.75 ---
+
+viṣṇunābhyabjato brahmā brahmaputro atriratritaḥ ।
+somastato budhastasmādilāyāṃ ca purūravāḥ ।।

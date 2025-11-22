@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 24 | label: meter | g:0.306 m:0.625 ---
+
+tīrthāni dīrghādhvapariśramāṇi bahuvyayāni kratuḍambarāṇi ।
+tapāṃsi muktvā tanuśoṣaṇāni hiṃsāvirāme ramatāṃ matir vaḥ ।।

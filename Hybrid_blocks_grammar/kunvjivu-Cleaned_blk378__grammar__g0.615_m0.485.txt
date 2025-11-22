@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 378 | label: grammar | g:0.615 m:0.485 ---
+
+kastavaṃ jñāsyasi māṃ smara smarasi māṃ diṣṭyā kimabhyāgatastvāmunmādayituṃ kathaṃ nanu balāt kiṃ te balaṃ paśya tat ।
+pasyāmītyabhidhāya pāvakamucā ye locanenaiva taṃ kāntākaṇṭhaniṣaktabāhumadahattasmai namaḥ śūline ।।

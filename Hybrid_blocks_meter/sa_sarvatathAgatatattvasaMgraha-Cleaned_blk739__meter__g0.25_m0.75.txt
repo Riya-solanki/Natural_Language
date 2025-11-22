@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 739 | label: meter | g:0.25 m:0.75 ---
+
+aho hi buddhapūjāhaṃ sarvapūjāpravartikā ।
+yadbuddhatvamahatvaṃ tu sarvabuddhadadanti hi ।।

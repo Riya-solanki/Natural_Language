@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 256 | label: meter | g:0.194 m:0.5 ---
+
+gurur mānyo guruḥ pūjyaś cārādhyo guravaḥ sadā 
+gurau santoṣite sarvaṃ toṣitaṃ sacarācaram ।।

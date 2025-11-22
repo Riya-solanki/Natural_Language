@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8766 | label: meter | g:0.25 m:0.555 ---
+
+bhrātṛdhrugbrahmahā goghnaḥ surāpo gurutalpagaḥ ।
+kulamārgaṃ parityajya hyanṛtoktau sadā rataḥ ।
+hartā hemnaśca bhūmeśca sa predṛ ।।

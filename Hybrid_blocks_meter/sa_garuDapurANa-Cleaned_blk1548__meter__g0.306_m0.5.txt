@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1548 | label: meter | g:0.306 m:0.5 ---
+
+tripū ruṣo nidhiścaiva āmrārāmādi kārayet ।
+ekasya syānnidhiḥ śaṅkhaḥ svayaṃ bhuṅkte dhanādi kam ।।

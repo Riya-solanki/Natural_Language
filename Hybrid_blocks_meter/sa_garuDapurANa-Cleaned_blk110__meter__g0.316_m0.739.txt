@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 110 | label: meter | g:0.316 m:0.739 ---
+
+śrīgaruḍamahāpurāṇam- 
+rudra uvāca ।
+sargaśca pratisargaśca vaṃśo manvantarāṇi ca ।
+vaṃśānucaritaṃ caiva etad brūhi janārdana ।।

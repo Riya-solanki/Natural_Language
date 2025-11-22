@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 731 | label: hybrid | g:0.5 m:0.5 ---
+
+[] athākāśāvakāśāt prastara-kṛtāstaraṇāyām aṅgaṇa-sthalyām ativistīrṇaṃ mahā-ghoṣa-badhirī-kṛta-ghoṣaṃ tad-vapur nipapāta । nipatya ca mūrtiman mūrtikam api ślatha-sandhi-bandhī-bhūtam adṛśyata । tataś ca, tat tu,

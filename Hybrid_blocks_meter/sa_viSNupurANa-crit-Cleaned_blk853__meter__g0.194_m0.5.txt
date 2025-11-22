@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 853 | label: meter | g:0.194 m:0.5 ---
+
+dharmajñāś ca kṛtajñāś ca dayāvān priyabhāṣakaḥ 
+mānyān mānayitā yajvā brahmaṇyaḥ sādhuvatsalaḥ ।।

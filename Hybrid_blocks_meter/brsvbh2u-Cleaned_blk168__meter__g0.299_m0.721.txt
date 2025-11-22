@@ -1,0 +1,11 @@
+--- source: brsvbh2u-Cleaned.txt | block: 168 | label: meter | g:0.299 m:0.721 ---
+
+ākāśe cāviśeṣāt ।
+etadvyācaṣṭeyacca teṣāmiti ।
+vedaprāmāṇye vipratipannānapi pratiśabdaguṇānumeyatvamākāśasya vaktavyam ।
+tathāhijātimattvena sāmānyaviśeṣasamavāyebhyo vibhaktasya śabdasyāsparśatve sati bāhyaikendriyagrāhyatvena gandhādivadguṇatvamanumitam ।
+nāyamātmaguṇo bāhyendrigocaratvāt ।
+ata eva na manoguṇaḥ, tadguṇānāmapratyakṣatvāt ।
+na pṛthivyādiguṇaḥ, tadguṇagandhādisāhacaryānupalabdheḥ ।
+tasmādguṇo bhūtvā gandhādivadasādhāraṇendriyagrāhyo yadravyamanumāpayati tadākāśaṃ pañcamaṃ bhūtaṃ vastviti ।
+api

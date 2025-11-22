@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2885 | label: meter | g:0.25 m:0.625 ---
+
+nava dvipañcakaṃ vātha ekādaśa-m-athāpi vā 
+dvādaśābdaṃ caren mantrī brahmaghno api sa sidhyati ।।

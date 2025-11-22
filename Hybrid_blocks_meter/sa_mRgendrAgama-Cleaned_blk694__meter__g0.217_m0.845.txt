@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 694 | label: meter | g:0.217 m:0.845 ---
+
+na yāyādanupānatkaḥ kvacinnāpyasahāyavān 
+nātiprāṅnātivelāyāṃ na rātrau na khārātape ।।

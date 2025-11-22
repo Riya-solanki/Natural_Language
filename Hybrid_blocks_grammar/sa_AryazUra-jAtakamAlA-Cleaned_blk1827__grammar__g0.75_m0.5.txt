@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1827 | label: grammar | g:0.75 m:0.5 ---
+
+rājovāca - kiṃ satyamevedamasti paraloka iti? brahmovāca - āma । asti mahārāja paralokaḥ । rājovāca - kathaṃ punaridaṃ mārṣa śakyamasmābhirapi śraddhātuṃ syāt? bodhisattva uvāca - sthūlametanmahārāja pratyakṣādipramāṇayuktigrāhyamāptajananidarśitakramaṃ parīkṣākramagamyaṃ ca । paśyatu bhavān ।

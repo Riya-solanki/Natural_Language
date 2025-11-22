@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 768 | label: meter | g:0.193 m:0.888 ---
+
+tena, yathā-
+tan me manaḥ kṣipati yat sarasa-prahāram
+ālokya mām agaṇita-skhalad-uttarīyā ।
+trastaika-hāyana-kuraṅga-vilola-dṛṣṭiḥ
+sāśliṣṭavaty amṛta-saṃvalitair ivāṅgaiḥ ।।

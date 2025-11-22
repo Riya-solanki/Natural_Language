@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 662 | label: hybrid | g:0.506 m:0.452 ---
+
+navanakhapadam aṅgaṃ gopayasy aṃśukena sthagayasi punar oṣṭhaṃ pāṇinā dandadaṣṭam ।
+pratidiśam aparastrīsaṃgaśaṃsī visarpan navaparimalagandhaḥ kena śakyo varītum ।।
+māghasyaitau

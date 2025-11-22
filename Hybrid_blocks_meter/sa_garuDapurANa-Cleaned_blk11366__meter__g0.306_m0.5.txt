@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11366 | label: meter | g:0.306 m:0.5 ---
+
+gṛhe nityaṃ vāsudevo haristu prīṇāti nityaṃ tatra tiṣṭhansuparṇa ।
+evaṃ jñātvā svagṛhaṃ sarvadaiva alaṅkuryāddhāturūpaiḥ sadaiva ।।

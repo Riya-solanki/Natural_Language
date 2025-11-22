@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 286 | label: meter | g:0.194 m:1.0 ---
+
+karālo bhīmanirhrādaḥ piṅgalaśceti rākṣasāḥ 
+teṣāmupari niśeṣapātālādhipatīśvaraḥ ।।

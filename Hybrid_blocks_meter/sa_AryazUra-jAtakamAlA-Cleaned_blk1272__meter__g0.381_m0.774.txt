@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1272 | label: meter | g:0.381 m:0.774 ---
+
+paśyasyevaṃ kamarthaṃ vā tvaṃ mamātmana eva vā ।
+jñātīnāṃ vāvaśeṣāṇāmubhayorjīvitakṣaye ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 87 | label: grammar | g:0.667 m:0.5 ---
+
+tvatprakāśavapuṣo na vibhinnaṃ kiṃ cana prabhavati pratibhātum tat sadaiva bhagavan parilabdho asīśvara prakṛtito api vidūraḥ ।।

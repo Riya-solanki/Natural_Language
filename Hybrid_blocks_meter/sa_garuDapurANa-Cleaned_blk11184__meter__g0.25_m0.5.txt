@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11184 | label: meter | g:0.25 m:0.5 ---
+
+tathā badrau saṃsthita syāpi viṣṇoḥ sudurlabhaṃ martyaloke sthitānām ।
+śeṣācale śrīnivāsāśrame ca tapasvino durlabhā martyaloke ।।
+prayāgākhye mādhavasyāpi nityaṃ sudarśanaṃ durlabhaṃ vai nṛṇāṃ hi ।।
+ato necchāmi bhartāraṃ kṛṣṇādanyaṃ kadācana ।
+evamuktvā sā pitaraṃ yayau śeṣācalaṃ prati ।।

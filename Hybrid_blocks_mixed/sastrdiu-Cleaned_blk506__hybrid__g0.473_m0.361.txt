@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 506 | label: hybrid | g:0.473 m:0.361 ---
+
+kaścitpunarāha- sarvathā vittiṣu tāvadvettāvabhāsate anyathā svaparavedyayoranatiśayaprasaṅgāt ।
+na ca śarīrasya karacaraṇādyavayavasaṃniveśaviśiṣṭasyāsti tathāvabhāsaḥ, ato anyaḥ śarīrādātmeti ।
+tattvayuktam- saṃniveśapratibhāse api śarīrapratibhāsasaṃbhavāt ।
+nahi saṃniveśa eva śarīraṃ, śarīradharmo hi saṃniveśaḥ saṃbhavati ca dharmāpratibhāso api dharmiṇaḥ pratibhāsaḥ, anyathā ātmanopi pratibhāso na syāt taddharmāṇāṃ sarvagatatvādīnāmarthavittiṣvapratibhānāt ।
+nacaikāntikamarthavittiṣu vettṛbhānaṃ, artha eva hi tadā bhāsate na vettā ।।

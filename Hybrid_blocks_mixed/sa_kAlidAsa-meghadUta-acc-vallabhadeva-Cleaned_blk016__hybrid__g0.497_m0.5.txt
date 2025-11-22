@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 16 | label: hybrid | g:0.497 m:0.5 ---
+
+ratnacchāyāvyatikara iva prekṣyam etat purastād valmīkāgrāt prabhavati dhanuṣkhaṇḍam ākhaṇḍalasya 
+yena śyāmaṃ vapur atitarāṃ kāntim āpatsyate te barheṇeva sphuritarucinā gopaveśasya viṣṇoḥ ।।

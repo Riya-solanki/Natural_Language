@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1059 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha bakaḥ sva-kaṇṭhāvaṭe kṛpīṭa-yonivat kapaṭa-tejaskaṃ taṃ jhaṭity ujjagāra । tataś ca, so' yaṃ mama hṛdayam abhrākṣīd iti vibhāvya punas tan nigaraṇa-yogyaṃ nādrākṣīt, kintu tataḥ parāṅ-mukhaḥ sa punar baka iva mūrkhaḥ sura-śātrava-bakas tejo-mātra-gātratayāvagatam api taṃ troṭi-koṭibhyāṃ troṭayitum udayuṅkta । [] sa tu śauṭīrya-koṭīśvaras tat-troṭī karābhyāṃ vighaṭayaṃs taṃ sa-pāṭavaṃ pāṭayāmāsa, bhīmo jarāsandham iva, bālo vīraṇam iva vā ।

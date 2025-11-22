@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3622 | label: meter | g:0.306 m:0.5 ---
+
+yathā tathā sthitaścaiva kurvan cāpi yathā tathā ।
+vakrajrodhāṅguliṃ badhvā vastracchannāṃ tu sidhyatī- ।।

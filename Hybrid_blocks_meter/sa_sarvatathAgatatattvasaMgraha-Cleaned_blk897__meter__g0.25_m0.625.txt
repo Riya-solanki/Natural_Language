@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 897 | label: meter | g:0.25 m:0.625 ---
+
+tvadadhīnā hi saṃbodhi pitā tvaṃ sarvadarśināṃ ।
+saṃbhūtāḥ saṃbhaviṣyanti tvāmāsādya tathāgatāḥ ।।

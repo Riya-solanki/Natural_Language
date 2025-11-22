@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11700 | label: grammar | g:0.562 m:0.5 ---
+
+yo vā tīrthe vahnisaṃjñe ca devi bhaktyā snānaṃ kurute ajaṃ smaranhi ।
+jñānadvārā mokṣamāpnoti devi tatra snānaṃ durllabhaṃ vai nṛṇāṃ ca ।।

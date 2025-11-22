@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 9 | label: hybrid | g:0.38 m:0.486 ---
+
+atha vā karaṇam eva pramāṇam, tasyaiva lakṣaṇam uktam ।
+yady api ca sarvapramāṇānāṃ tan noktaṃ tathāpi dharmapramāṇasya codanātvaṃ nāma lakṣaṇam ity etāvataivoktaṃ manyate ।
+na cāvaśyaṃ sarvātmanaiva lakṣite lakṣaṇatvam ।
+viśeṣarūpāṇām ānantyena sarvalakṣaṇābhā-

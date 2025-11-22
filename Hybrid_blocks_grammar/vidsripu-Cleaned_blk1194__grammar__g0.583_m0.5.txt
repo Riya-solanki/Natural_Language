@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1194 | label: grammar | g:0.583 m:0.5 ---
+
+cumbann ānanam āluṭhan stanataṭīm āndolayan kuntalaṃ vyasyann aṃśukapallavaṃ manasijakrīḍāḥ samullāsayan ।
+aṅgaṃ vihvalayan mano vikalayan mānaṃ samunmūlayan nārīṇāṃ malayānilaḥ priya iva pratyaṅgam āliṅgati ।।

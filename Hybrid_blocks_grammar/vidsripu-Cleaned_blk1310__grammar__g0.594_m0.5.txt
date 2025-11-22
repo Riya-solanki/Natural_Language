@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1310 | label: grammar | g:0.594 m:0.5 ---
+
+kare ślāghyas tyāgaḥ śirasi gurupādapraṇayitā mukhe satyā vāṇī śrutam anavagītaṃ śravaṇayoḥ ।
+hṛdi svacchā vṛttir vijayibhujayor vīryam atulaṃ vināpy aiśvaryeṇa sphurati mahatāṃ maṇḍanam idam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 146 | label: meter | g:0.194 m:0.5 ---
+
+nijena tasya mānena āyur varṣaśataṃ smṛtam 
+tat parākhyaṃ tadardhaṃ ca parārdham abhidhīyate ।।

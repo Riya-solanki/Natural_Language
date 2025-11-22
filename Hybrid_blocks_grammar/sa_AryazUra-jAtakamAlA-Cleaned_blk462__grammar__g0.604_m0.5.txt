@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 462 | label: grammar | g:0.604 m:0.5 ---
+
+atha sa rājā harṣaprabodhādadhikataranayanavadanaprasādo nīlotpaladalanīlavimalapatraṃ ratnaprabhodbhāsuraruciratsaruṃ niśitaṃ nistriṃśamādāya svamāṃsāni cchittvā tebhyaḥ prāyacchat ।

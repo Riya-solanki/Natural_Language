@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 686 | label: meter | g:0.25 m:0.902 ---
+
+athaiṣāṃ hṛdayāni bhavanti ।
+sūkṣma vajra ।।

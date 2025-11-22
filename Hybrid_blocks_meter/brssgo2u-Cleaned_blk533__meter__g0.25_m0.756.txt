@@ -1,0 +1,11 @@
+--- source: brssgo2u-Cleaned.txt | block: 533 | label: meter | g:0.25 m:0.756 ---
+
+ādipadāttamodhvaṃsapākayorgrahaṇam ।
+mūrtadravyāśrayatvaṃ hyakāśasya kāryaṃ, tacca pralaye apyasti paramāṇvāśrayatvāt ।
+ato na prāgabhāva ityarthaḥ ।
+prāgabhāvasattvaṃ sphuṭayati-kiṃ hīti ।
+sthūlāśrayo avakāśaḥ sūkṣmāśrayacchidramaṇvāśrayaḥ suṣiramiti bhedaḥ ।
+kiñcātmavadākāśo na jāyate, vibhutvāt, asparśadravyatvāccetyāha-pṛthivyādīti ।
+tasmāduktatarkabalādgauṇī draṣṭavyetyanvayaḥ ।
+bhedoktergauṇatve vaidikodāharaṇamāha-vede apyāraṇyāniti ।
+ākāśeṣviti bhedavyapadeśo gauṇa iti saṃbandhaḥ ।।

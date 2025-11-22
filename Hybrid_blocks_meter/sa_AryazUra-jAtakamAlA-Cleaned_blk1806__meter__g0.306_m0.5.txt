@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1806 | label: meter | g:0.306 m:0.5 ---
+
+trātuṃ na śakyastu mayā yadevaṃ vinirdahannātmahitaṃ sa rājā ।
+utsṛjya tāmātmagatāmaśaktiṃ rājñe kariṣyāmi kimityasūyām ।।

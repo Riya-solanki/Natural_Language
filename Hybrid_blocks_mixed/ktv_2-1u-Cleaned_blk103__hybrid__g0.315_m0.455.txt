@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 103 | label: hybrid | g:0.315 m:0.455 ---
+
+tena bhūtabhaviṣyadvartamānāpadeśamātreṣv evāpāramārthikaṃ bhavitṛvyāpārasya bhāvanātvam, na vidhyādiṣu ।
+bhūtādikathane api yadā samastaṃ vyāpāraṃ dhātur evopādatte nāvayavakālādikṛtabhedāśrayaṇam, tadā vispaṣṭād virodhād dhātvarthamātram ।
+kartṛsaṃkhyādayaś cākhyātapadārthatvenāvadhāryante, na bhāvanā ।
+na ca bhāvanāvyabhicāreṇa doṣa ity uktam ।

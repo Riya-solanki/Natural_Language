@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 161 | label: grammar | g:0.646 m:0.5 ---
+
+māyāśaktyā bhedaviṣayo ayaṃ sarvo vyavahāras tathājñānaināṃ śuddho ajñānāndhānāṃ tu malinas tattadbhinnārthāvabhāsabhāji bhagavati saṃbhāvyate anubhavena ।।

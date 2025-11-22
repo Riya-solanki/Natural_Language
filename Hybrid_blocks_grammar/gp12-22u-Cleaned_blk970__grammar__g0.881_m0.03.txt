@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 970 | label: grammar | g:0.881 m:0.03 ---
+
+kṛpālus tvam aho kṛṣṇa dvayor ekataraṃ kuru ।
+daṇḍaṃ vātha prasādaṃ vā nāparādhaṃ tu śeṣaya ।। [anuṣṭubh]
+[] tad evaṃ kṛta-yātratayā sthitayor api kṣaṇa-mātram avasthitayos tayor mahopacārāṃś caraṇāgrataḥ samarpitān ācaran praṇāmam ācacāra, cacāla ca sa tābhyāṃ saha yāvad-vivarābhyāsam । āgamya ca tad-abhyāsaṃ tad-vartma-bhāga-sthita-nīraṃ vibhāgam āgamayya tābhyāṃ saha vrajaṃ prati prahita-jana-prahita-mahitālaṅkṛti-mukha-paribarha-sambhṛti-muhūrta-sukha-pūrtitaḥ kṛta-kṛtyaṃ-manyatayā nṛtyann iva nivavṛte ।

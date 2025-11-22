@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1083 | label: meter | g:0.25 m:0.625 ---
+
+ṣaṭtriṃ śacca caturviśaddvādaśa granthayo athavā ।
+uttamādiṣu vijñeyāḥ parvabhirvā pavitrakam ।।

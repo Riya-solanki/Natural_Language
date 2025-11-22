@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 466 | label: meter | g:0.102 m:0.871 ---
+
+balaśauryādyabhāvaś ca puruṣāṇāṃ guṇair vinā 
+laṅghanīyaḥ samastasya balaśauryavivarjitaḥ 
+bhavaty apadhvastamatir laṅghitaḥ prathitaḥ pumān ।।

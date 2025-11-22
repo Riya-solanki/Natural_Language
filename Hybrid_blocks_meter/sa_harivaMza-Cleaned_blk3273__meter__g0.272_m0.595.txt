@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3273 | label: meter | g:0.272 m:0.595 ---
+
+utpatsyati pumān nīca pativaṃśe mamāvyayaḥ 
+bhaviṣyati sa te mṛtyur yaś ca dattas tvayā sutaḥ ।।

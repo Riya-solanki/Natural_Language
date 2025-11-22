@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8507 | label: meter | g:0.306 m:0.5 ---
+
+svayaṃ ca śūnyahṛdayaḥ samākrandati duḥ khitaḥ ।
+tanmāsikaṃ ca yacchrāddhaṃ bhuktvā tatra sukhī bhavet ।।

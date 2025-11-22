@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 27 | label: meter | g:0.306 m:0.5 ---
+
+ka etam oghaṃ tarati rātriṃdivam atandritaḥ ।
+anālambe apratiṣṭhe ca ko gaṃbhīre na sīdati ।।

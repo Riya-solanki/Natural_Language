@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2483 | label: meter | g:0.194 m:0.75 ---
+
+tad idaṃ dāruṇākāram araṇyaṃ rūḍhaśāḍvalam 
+sāvarohadrumaṃ ghoraṃ kīrṇaṃ nānālatādrumaiḥ ।।

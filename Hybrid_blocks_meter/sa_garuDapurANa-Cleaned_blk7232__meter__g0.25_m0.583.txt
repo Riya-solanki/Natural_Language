@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7232 | label: meter | g:0.25 m:0.583 ---
+
+bhūrlokaḥ sarvalokānāṃ pracuraḥ sarvajantuṣu ।
+mānuṣyaṃ sarvabhūtānāṃ bhuktimuktyālayaṃ śubham ।।
+ataḥ sukṛtināṃ loko na bhūto na bhaviṣyati ।।
+gāyanti devāḥ kila gītakāni dhanyāstu ye bhāratabhūmibhāge ।
+svargāpavargasya phalārjanāya bhavanti bhūyaḥ puruṣāḥ suratvāt ।।

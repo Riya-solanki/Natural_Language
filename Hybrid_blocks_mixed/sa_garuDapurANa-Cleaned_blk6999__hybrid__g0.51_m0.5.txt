@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6999 | label: hybrid | g:0.51 m:0.5 ---
+
+imaṃ stavaṃ yaḥ satataṃ manuṣyaḥ paṭhecca tadvatprayataḥ praśāntaḥ ।
+sa dhūtapāpmā vitataprabhāvaḥ prayāti lokaṃ vitataṃ murāreḥ ।।

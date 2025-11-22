@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 111 | label: hybrid | g:0.303 m:0.464 ---
+
+na caiṣa rajatasya niṣedhaḥ, na cedantāyāḥ, kiṃ tu vivekāgrahaprasañjitasya rajatavyavahārasya ।
+na ca rajatameva śuktikāyāṃ prasañjitaṃ rajatajñānena ।
+nahi rajatanirbhāsanaṃ śuktikālambanaṃ yuktam anubhavavirodhāt ।
+na khalu

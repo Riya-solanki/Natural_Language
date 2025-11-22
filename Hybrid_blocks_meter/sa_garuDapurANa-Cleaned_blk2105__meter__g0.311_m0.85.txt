@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2105 | label: meter | g:0.311 m:0.85 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+dānavādhipateḥ pittamādāya bhujagādhipaḥ ।
+dvidhā kurvanniva vyoma satvaraṃ vāsukiryayau ।।

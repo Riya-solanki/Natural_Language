@@ -1,0 +1,7 @@
+--- source: brssbh1u-Cleaned.txt | block: 515 | label: grammar | g:0.669 m:0.38 ---
+
+atha yo daharavākyaśeṣe jīvaparāmarśo darśitaḥ - aatha ya eṣa saṃprasādaḥ' ityādi, sa dahare parameśvare vyākhyāyamāne na jīvopāsanopadeśo na prakṛtaviśeṣopadeśa ityarthakatvaṃ prāpnotīti ।
+ata āha- anyārtho ayaṃ jīvaparāmarśau na jīvasvarūpaparyavasāyī kiṃ tarhi parameśvarasvarūpaparyavasāyī ।
+katham ।
+saṃprasādaśabdodito jīvo jāgaritavyavahāre dehendriyapañjarādhyakṣo bhūtvā tadvāsanānirmitāṃśca svapnānnāḍīcaro anubhūya śrāntaḥ śaraṇaṃ prepsurubhayarūpādapi śarīrābhimānātsamutthāya suṣuptāvasthāyāṃ paraṃ jyotirākāśaśabditaṃ paraṃ brahmopasaṃpadya viśeṣavijñānavattvaṃ ca parityajya svena rūpeṇābhiniṣpadyate ।
+yadasyopasaṃpattavyaṃ paraṃ jyotiryena svena rūpeṇāyamabhiniṣpadyate sa eṣa ātmāpahatapāpmatvādiguṇa upāsya ityevamartho ayaṃ jīvaparāmarśaḥ parameśvaravādino apyupapadyate ।।

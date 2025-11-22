@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3881 | label: meter | g:0.302 m:0.643 ---
+
+śrībhagavānuvāca ।
+yo māṃ tvāñca saraścaiva grāhasya ca vidāraṇam ।
+gulmakīcakareṇūnāṃ rūpaṃ meroḥ sutasya ca । ।

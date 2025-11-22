@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11801 | label: meter | g:0.25 m:0.625 ---
+
+sa evendrāvatārobhūddharisevārthameva ca ।
+viśeṣeṇa hariṃ kukṣau vijñānācca hariḥ sadā ।।

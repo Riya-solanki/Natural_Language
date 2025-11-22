@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 404 | label: meter | g:0.351 m:0.565 ---
+
+tebhyo nṛmedaḥpiśitāśanebhyaḥ kathaṃ bhayaṃ te asti na rākṣasebhyaḥ ।
+viviktagambhīrabhayānakeṣu sahāyahīnasya vanāntareṣu ।।

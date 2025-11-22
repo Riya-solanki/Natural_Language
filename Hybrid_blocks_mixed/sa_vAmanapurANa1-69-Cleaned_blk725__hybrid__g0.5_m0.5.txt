@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 725 | label: hybrid | g:0.5 m:0.5 ---
+
+kuśasthalī śreṣṭhatamā pureṣu deśeṣu sarveṣu ca madhyadeśaḥ ।
+phaleṣu cūto mukuleṣvaśokaḥ sarvauṣadhīnāṃ pravarā ca pathyā ।।

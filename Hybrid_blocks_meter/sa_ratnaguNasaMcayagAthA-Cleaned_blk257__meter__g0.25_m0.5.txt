@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 257 | label: meter | g:0.25 m:0.5 ---
+
+avivartiyasya varabodhayi prasthitasya yo cittupādu anumoditu āśayena 
+trisahasra meru tulayitva siyāpramāṇo na tveva tasya kuśalasyanumodanāye ।।

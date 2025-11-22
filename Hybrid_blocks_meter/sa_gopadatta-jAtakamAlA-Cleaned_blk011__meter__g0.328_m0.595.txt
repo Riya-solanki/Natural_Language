@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 11 | label: meter | g:0.328 m:0.595 ---
+
+utkaṇṭhitaḥ kisalayojjvalapādapānāṃ vaiḍūryanīlaharitodgataśādvalānām ।
+uddhūtaśīkarakaro dvirado vanānāṃ tūrṇaṃ yayau pavananunna ivāmbugarbhaḥ ।।

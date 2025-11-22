@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 347 | label: meter | g:0.25 m:0.75 ---
+
+ante kṣudraprabandhānāmāryayānuṣṭubhāpi ca ।
+nāmaprakāśe yatkarturnāyakasya kṛterapi ।।

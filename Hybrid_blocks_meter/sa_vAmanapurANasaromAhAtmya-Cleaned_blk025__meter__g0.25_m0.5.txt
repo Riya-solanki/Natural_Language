@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 25 | label: meter | g:0.25 m:0.5 ---
+
+dikṣu sarvāsu suptāsu gagane daityapālite ।
+deveṣu makhaśobhāṃ ca svargasthāṃ darśayatsu ca ।।

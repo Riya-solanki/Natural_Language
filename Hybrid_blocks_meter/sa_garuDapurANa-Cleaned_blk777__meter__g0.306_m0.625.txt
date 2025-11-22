@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 777 | label: meter | g:0.306 m:0.625 ---
+
+āsanaṃ mūrtimantraṃ ca homādyaṅgaṣaḍaṅgakam ।
+cakraṃ gadāṃ ca khaḍgaṃ ca musalaṃ śaṃmakhaśarṅgakam ।।

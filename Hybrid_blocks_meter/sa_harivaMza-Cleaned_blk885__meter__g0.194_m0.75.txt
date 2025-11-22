@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 885 | label: meter | g:0.194 m:0.75 ---
+
+sa hi svarbhānudauhitraḥ prabhāyāṃ samapadyata 
+rājā paramatejasvī somavaṃśavivardhanaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 335 | label: hybrid | g:0.465 m:0.5 ---
+
+vīryeṇa śuklaguṇa hāni na abhyupaiti jñānaṃ ananta labhate jinakośagañjam 
+dhyānena kāmaguṇa utsṛjate jugupsyān vidyā abhijña abhinirharate samādhim ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1486 | label: meter | g:0.25 m:0.826 ---
+
+pulastya uvāca ।
+tadvaco aṅgirasaḥ śrutvā kālī tasthāvadhomukhī ।
+harṣamāgatya sahasā punardainyamupāgatā ।।

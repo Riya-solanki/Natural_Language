@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 919 | label: meter | g:0.194 m:0.5 ---
+
+evaṃ vibhajya pṛthivīṃ yayātir yadum abravīt 
+jarāṃ me pratigṛhṇīṣva putra kṛtyāntareṇa vai ।।

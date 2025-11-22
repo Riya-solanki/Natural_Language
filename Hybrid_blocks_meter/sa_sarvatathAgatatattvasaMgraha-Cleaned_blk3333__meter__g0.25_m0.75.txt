@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3333 | label: meter | g:0.25 m:0.75 ---
+
+āgacchaṃ gacchato vai vajracakṣurviśuddhitāṃ ।
+jānanvai pūjayā siddhimāpnotyanuttarām ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 403 | label: meter | g:0.306 m:0.5 ---
+
+śṛṇvanti ye nātmahitaṃ gurūṇāṃ vākyaṃ hitārthodayakāryabhadram ।
+teṣām imāni vyasanāni puṃsāṃ māyāvahanti prabhavanti mūrdhni ।।

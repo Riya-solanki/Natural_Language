@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 265 | label: meter | g:0.29 m:0.747 ---
+
+sarvādhvavartibhūtānāṃ yasminnudvṛttatejasi 
+bhayamutpadyate śaktyā saṃhartryā codite prabhoḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11043 | label: meter | g:0.306 m:0.625 ---
+
+rudrāntaḥ stho hariścaiva vahaṃ dattvā striyāṃ prabhuḥ ।
+antardhānaṃ yayau śrīmānsvalokaṃ gatavānabhūt ।।

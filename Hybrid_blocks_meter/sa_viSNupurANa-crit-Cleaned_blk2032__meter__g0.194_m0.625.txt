@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2032 | label: meter | g:0.194 m:0.625 ---
+
+vāryoghaiḥ saṃtatair yasyāḥ plāvitaṃ śaśimaṇḍalam 
+bhūyo adhikatarāṃ kāntiṃ vahaty etad upakṣayam ।।

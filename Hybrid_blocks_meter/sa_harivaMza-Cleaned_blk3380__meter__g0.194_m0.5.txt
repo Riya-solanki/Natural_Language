@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3380 | label: meter | g:0.194 m:0.5 ---
+
+tasya tad vadanaṃ śyāvaṃ suptākṣaṃ mukuṭaṃ vinā 
+na vibhāti viparyastaṃ vipalāśaṃ yathāmbujam ।।

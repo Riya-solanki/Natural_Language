@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1146 | label: meter | g:0.25 m:0.5 ---
+
+atha bhūtvā kumārī sā bibhratī paramaṃ vapuḥ 
+varayām āsa nṛpatiṃ tām iyeṣa ca sa prabhuḥ ।। 
+tasyām ādhatta garbhaṃ sa tejasvinamudāradhīḥ । 
+atha sā daśame māsi suṣuve saritāṃ varā 
+putraṃ sarvaguṇopetaṃ babhruṃ devāvṛdhān nṛpāt ।।

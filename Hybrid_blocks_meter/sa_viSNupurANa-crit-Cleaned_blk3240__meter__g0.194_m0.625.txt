@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3240 | label: meter | g:0.194 m:0.625 ---
+
+saṃvatsaraṃ kriyāhānir yasya puṃso abhijāyate 
+tasyāvalokanāt sūryo nirīkṣyaḥ sādhubhiḥ sadā ।।

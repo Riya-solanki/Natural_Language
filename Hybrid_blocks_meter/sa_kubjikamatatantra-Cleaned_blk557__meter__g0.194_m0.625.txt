@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 557 | label: meter | g:0.194 m:0.625 ---
+
+rudrākṣaiḥ siddhim āpnoti yac cānyaṃ khecarīpadam 
+jīvakā sarvadā jñeyā gopucchāgrathitānaghe ।।

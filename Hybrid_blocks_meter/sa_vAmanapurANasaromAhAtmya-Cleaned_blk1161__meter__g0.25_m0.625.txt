@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1161 | label: meter | g:0.25 m:0.625 ---
+
+ye nadīṣu samudreṣu parvateṣu guhāsu ca ।
+vṛbhamūleṣu goṣṭheṣu kāntāragahaneṣu ca ।।

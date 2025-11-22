@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 113 | label: grammar | g:0.604 m:0.5 ---
+
+svadharmaṃ tu parityajya paradharmaṃ yathā caret tathā hariṃ parityajya cānyaṃ devam upāsate ।।

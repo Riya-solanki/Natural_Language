@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 428 | label: grammar | g:0.583 m:0.5 ---
+
+atra bhujaga-kaṅkaṇa-lakṣaṇena veṣeṇa janitasya pārvatī-bhaya-hāsyāsya śṛṅgārāṅgatayā kathanāt tad idam aṅgaṃ bhaya-hāsyajam ।

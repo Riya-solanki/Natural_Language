@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3984 | label: meter | g:0.102 m:0.695 ---
+
+tato gambhīranirghoṣā vāg uvācāśarīriṇī 
+baladevasya taṃ kopaṃ vardhayantī mahātmanaḥ 
+satyam āha balaḥ śrīmān dharmeṇaiṣa parājitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 37 | label: hybrid | g:0.51 m:0.5 ---
+
+vṛddhāḥ prasiddhā vibudhā vidagdhāḥ śūrā śrutijñāḥ kavayaḥ kulīnāḥ ।
+vilokayantaḥ sadhanasya vaktraṃ jayeti jīveti sadā vadanti ।।

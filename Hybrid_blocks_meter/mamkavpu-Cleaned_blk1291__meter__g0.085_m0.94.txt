@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1291 | label: meter | g:0.085 m:0.94 ---
+
+{vidvanmānasahaṃsa vairikamalāsaṃkocadīptadyute
+durgāmārgaṇanīlalohita samitsvīkāravaiśvānara ।
+satyaprītividhānadakṣa vijayaprāgbhāvabhīma prabho
+sāmrājyaṃ varavīra vatsaraśataṃ vairiñcamuccaiḥ kriyāḥ ।।}

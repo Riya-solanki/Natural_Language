@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1273 | label: meter | g:0.29 m:0.634 ---
+
+atha narma-dyutiḥ-
+kopasyāpahnavārthaṃ yad dhāsyaṃ narma-dyutir matā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 261 | label: meter | g:0.25 m:0.5 ---
+
+yatra yatra samaṃ tv asyā bhūmer āsīt tadānagha 
+tatra tatra prajāḥ sarvā nivāsaṃ samarocayan ।।

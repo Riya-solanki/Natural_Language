@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1209 | label: meter | g:0.194 m:0.75 ---
+
+{gāmbhīryagarimā tasya satyaṅgaṅgābhujaṅgavat ।
+durālokaḥ sa samare nidāghāmbararatnavat ।।}

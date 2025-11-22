@@ -1,0 +1,8 @@
+--- source: brsvbh1u-Cleaned.txt | block: 448 | label: hybrid | g:0.305 m:0.451 ---
+
+nanu vyāpāraviṣayaḥ puruṣaprayatnaḥ kathamavyāpārarūpaṃ saṃbandhaṃ gocarayet ।
+na hi ghaṭaṃ kurvityatrāpi sākṣānnāmārthaṃ ghaṭaṃ puruṣaprayatno gocarayatyapi tu daṇḍādi hastādinā vyāpārayati ।
+tasmādghaṭārthāṃ kṛtiṃ vyāpāraviṣayāmeva puruṣaḥ pratipadyate, na tu rūpato ghaṭaviṣayām ।
+uddeśyatayā tvasyāmasti ghaṭo na tu viṣayatayā ।
+viṣayatayā tu hastādivyāpāra eva ।
+ata

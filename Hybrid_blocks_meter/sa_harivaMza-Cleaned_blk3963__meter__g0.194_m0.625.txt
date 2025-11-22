@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3963 | label: meter | g:0.194 m:0.625 ---
+
+ete saṃmantrya rājāno dākṣiṇātyā maharddhayaḥ 
+abhigamyābruvan sarve rukmiṇaṃ rahasi prabhum ।।

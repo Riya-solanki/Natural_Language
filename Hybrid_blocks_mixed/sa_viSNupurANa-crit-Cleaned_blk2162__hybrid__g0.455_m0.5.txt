@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2162 | label: hybrid | g:0.455 m:0.5 ---
+
+yadā tu śuddhaṃ nijarūpi sarvaṃ karmakṣaye jñānam apāstadoṣam 
+tadā hi saṃkalpataroḥ phalāni bhavanti no vastuṣu vastubhedāḥ ।।

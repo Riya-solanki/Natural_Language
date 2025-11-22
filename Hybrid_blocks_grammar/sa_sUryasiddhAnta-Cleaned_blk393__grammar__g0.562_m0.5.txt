@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 393 | label: grammar | g:0.562 m:0.5 ---
+
+madhye samantād aṇḍasya bhūgolo vyomni tiṣṭhati। bibhrānah paramāṃ śaktiṃ brahmaṇo dhāraṇātmakām।।

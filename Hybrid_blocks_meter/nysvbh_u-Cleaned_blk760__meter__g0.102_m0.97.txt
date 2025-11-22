@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 760 | label: meter | g:0.102 m:0.97 ---
+
+gandhādayaḥ pṛthivyādiguṇā ityuddiṣṭam ।
+uddeśaśca pṛthivyādīnāmekaguṇatve cānekaguṇatve
+samāna ityata āha

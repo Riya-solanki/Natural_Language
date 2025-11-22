@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9564 | label: meter | g:0.326 m:0.5 ---
+
+samāḥ sahasrāṇi ca sapta vai jale daśaikamagnau pavane ca ṣoḍaśa ।
+mahāhave paṣṭiraśītirgogṛhe anāśake kāśyapa cākṣayā gatiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 62 | label: meter | g:0.25 m:0.5 ---
+
+kāntāviyogaḥ svajanāpamāno ṛṇasya śeṣaḥ kunarasya sevā ।
+dāridrabhātpravimukta mitraṃ vināgninaiete pradahanti pañca ।।

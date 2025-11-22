@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1085 | label: grammar | g:0.573 m:0.5 ---
+
+janma vyomasaraḥsarojakuhare mitrāṇi kalpadrumāḥ krīḍā svargapurandhribhiḥ paricitāḥ sauvarṇavallīsrajaḥ ।
+apy asmād avatāra eva bhavato nonmādabherīravaḥ samyaṅ mūrchitikelayaḥ punar ime bhṛṅga dvir abhyāhatiḥ ।।

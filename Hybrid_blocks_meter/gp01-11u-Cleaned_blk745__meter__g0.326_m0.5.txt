@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 745 | label: meter | g:0.326 m:0.5 ---
+
+sarvadā kramate yasya buddhiḥ sad-bhaktaye hareḥ ।
+sa sadā kramate tasya lakṣmīś ca kramatetarām ।। [anuṣṭubh] iti ।

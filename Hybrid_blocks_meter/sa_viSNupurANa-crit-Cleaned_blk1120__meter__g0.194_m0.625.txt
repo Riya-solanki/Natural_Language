@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1120 | label: meter | g:0.194 m:0.625 ---
+
+dharmātmā satyaśaucādiguṇānām ākaraḥ paraḥ 
+upamānam aśeṣāṇāṃ sādhūnāṃ yaḥ sadābhavat ।।

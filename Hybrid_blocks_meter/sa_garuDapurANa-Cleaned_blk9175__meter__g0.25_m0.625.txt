@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9175 | label: meter | g:0.25 m:0.625 ---
+
+sādhu pṛṣṭaṃ tvayā loke sadayaṃ jīvakāraṇam ।
+vainateya śṛṇuṣva tvamekāgrakṛtamānasaḥ ।।

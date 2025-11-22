@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 343 | label: meter | g:0.25 m:0.625 ---
+
+atra te tāpasajanapratirūpe subhāṣite ।
+dadāmi kāśyapa varaṃ tadvṛṇīṣva yadicchasi ।।

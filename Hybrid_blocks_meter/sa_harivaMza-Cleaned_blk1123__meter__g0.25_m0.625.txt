@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1123 | label: meter | g:0.25 m:0.625 ---
+
+praśāntaḥ sa vanasthas tu brāhmaṇenāvabodhitaḥ 
+jagāma ratham āsthāya deśam anyaṃ dhvajī rathī ।।

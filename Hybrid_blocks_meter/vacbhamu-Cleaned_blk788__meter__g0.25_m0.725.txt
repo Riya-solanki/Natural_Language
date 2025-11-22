@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 788 | label: meter | g:0.25 m:0.725 ---
+
+parāmidhyānāttu tirohitaṃ tato hyasya bandhaviparyayau ।
+dehayogādvā so apiiti sūtradvayaṃ kṛtopapādanamasmābhiḥ prathamasūtre ।
+nigadavyākhyātaṃ caitayorbhāṣyamiti ।।

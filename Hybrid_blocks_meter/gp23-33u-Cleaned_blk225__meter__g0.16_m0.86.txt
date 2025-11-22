@@ -1,0 +1,10 @@
+--- source: gp23-33u-Cleaned.txt | block: 225 | label: meter | g:0.16 m:0.86 ---
+
+pika-prathita-pañcamaṃ bhramara-pūrṇa-mandra-svaraṃ
+maruc-calita-pallava-prakaṭa-vādyam udyat-prabham ।
+bhujaṅga-ripu-nartana-jñapita-cañcalāvāri-bhṛd-
+vibhā-valita-tad-dvayātula-sabhāsad-aṅgīkṛtam ।। [pṛthvī]
+vicitra-kusumaiś cita-sthalam analpa-talpākulaṃ
+bahu-vyajana-cāmaraṃ surabhi-vīṭikā-sampuṭam ।
+sa-candra-vara-candanāguru-gurūru-pātrānvitaṃ
+latā-gṛha-rahaḥ-puraṃ dhvanayati sma tāḥ praty adaḥ ।। [pṛthvī]

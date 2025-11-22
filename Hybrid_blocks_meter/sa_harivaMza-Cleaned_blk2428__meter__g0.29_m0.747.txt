@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2428 | label: meter | g:0.29 m:0.747 ---
+
+saṃpravṛttamahāvarṣaṃ lambamānamahāmbudam 
+bhāty agādham aparyantaṃ sasāgaram ivāmbaram ।।

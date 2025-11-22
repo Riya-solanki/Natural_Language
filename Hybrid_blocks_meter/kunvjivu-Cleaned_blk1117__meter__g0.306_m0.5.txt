@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1117 | label: meter | g:0.306 m:0.5 ---
+
+āndolyante kati na girayaḥ kandukānandamudrāṃ vyātanvānāḥ kapiparisare kautukotkarṣatarṣāt ।
+lopāmudrāparivṛḍhakathābhijñatāpyasti kiṃ tu vrīḍāveśaḥ pavanatanayocchiṣṭasaṃsparśanena ।।

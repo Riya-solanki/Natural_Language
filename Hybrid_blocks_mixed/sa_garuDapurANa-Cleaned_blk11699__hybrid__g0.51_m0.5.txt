@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11699 | label: hybrid | g:0.51 m:0.5 ---
+
+āgneyakoṇe śrīnivāsasya devi tīrthaṃ tvāste vahnisaṃjñaṃ suśastam ।
+sa vahnidevaḥ śrīnivāsasya pūjāṃ kartuṃ hyāste sarvadā tīrthamadhye ।।

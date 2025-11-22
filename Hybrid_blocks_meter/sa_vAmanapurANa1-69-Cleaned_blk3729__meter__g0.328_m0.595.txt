@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3729 | label: meter | g:0.328 m:0.595 ---
+
+prākṛto ayaṃ mahābāho vikāraścakraneminā ।
+nikṛtto na svarabhāvo me so acchedyo adāhya eva ca ।।

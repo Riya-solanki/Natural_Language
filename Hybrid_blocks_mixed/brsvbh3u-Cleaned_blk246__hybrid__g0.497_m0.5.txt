@@ -1,0 +1,4 @@
+--- source: brsvbh3u-Cleaned.txt | block: 246 | label: hybrid | g:0.497 m:0.5 ---
+
+stutistutyabhāvasyopapatterdvādaśāhādaharantaraṃ na tadaṅgaṃ, patnīsaṃyājāntatvāccāhnāṃ patnīḥ saṃyājya mānasāya prasarpantīti ca mānasasya patnīsaṃyājasya parastācchruteḥ ।
+trayodaśāhe apyavayujya dvādaśasaṃkhyāsamavāyātkathañcijjaghanyayāpi vṛttyā dvādaśāhasaṃjñāvirodhābhāvāditi prāpte abhidhīyate-pramāṇāntareṇa hi

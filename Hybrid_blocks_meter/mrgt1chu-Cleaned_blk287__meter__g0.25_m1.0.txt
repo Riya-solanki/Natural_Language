@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 287 | label: meter | g:0.25 m:1.0 ---
+
+pariṇāmayaty etāśca rodhāntaṃ kārkacittviṣā ।
+yadonmīlanamādhatte tadānugrāhikocyate ।।

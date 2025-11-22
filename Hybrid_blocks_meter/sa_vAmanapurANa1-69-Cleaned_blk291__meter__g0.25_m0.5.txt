@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 291 | label: meter | g:0.25 m:0.5 ---
+
+parvateṣu ca ramyeṣu kānaneṣu ca sānuṣu ।
+vicāran svecchayā naiva śarma lebhe maheśvaraḥ ।।

@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 94 | label: hybrid | g:0.326 m:0.41 ---
+
+mohamayamātmānamavagāhamānenāhaṃpratyayena sedehabādhavirahiṇā virudhyamānā vedāntāḥ svārthātpracyutā upacaritārthā vā japamātropayogino vā ityavivakṣitasvārthāḥ ।
+tathā ca tadarthavicārātmikā caturlakṣaṇī śārīrakamīmāṃsā nārabdhavyā ।

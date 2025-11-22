@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 438 | label: grammar | g:0.75 m:0.5 ---
+
+[] prakaṭaṃ covāca - atra khalv idam asya śrī-vraja-rāja-tanūjasya rahasyam udbhāvayato mama samatikramaḥ svayam amunaiva bāḍhaṃ soḍhavyaḥ । tathā hi asmin sarvato labdhātirekakā saṃsiddhiḥ khalv ekā vartate । yad atikrānta-sarveha-sneha-maya-hṛdaya eva sadā vartamānaḥ snighdatā-digdha-janānāṃ bhāva-mudrayā parokṣaṃ kṛtayāpi svahṛdi pratibimbatatayā mudrito bhavati । asya svarūpeṇāvirbhāvaś ca sneha-maya-sphūrti-pūrti-vaśībhāvata eva sarvathā, na tv anyathā । putratayāvirbhāve ca bījaṃ pitṛ-bhāva-maya-sneha eva nānyeṣām ivānyat । jāte ca kutracit putratayāvirbhāve tat-tat-sambandha-maya-sneha-kṛta-caya-sphūrtir eva tathā tathā bhāvenāvirbhāve nibandhanaṃ bhavati ।

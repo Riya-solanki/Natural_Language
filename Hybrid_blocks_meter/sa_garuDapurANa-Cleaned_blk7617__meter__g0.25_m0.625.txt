@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7617 | label: meter | g:0.25 m:0.625 ---
+
+kartavyaṃ vaiṣṇavaṃ śrāddhaṃ pretamuktyarthamātmanaḥ ।
+pretamokṣaṃ tataḥ kuryāddhṛdi viṣṇuṃ prakalpyaca ।।

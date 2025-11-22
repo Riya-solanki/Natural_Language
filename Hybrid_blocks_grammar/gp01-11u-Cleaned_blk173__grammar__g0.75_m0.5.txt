@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 173 | label: grammar | g:0.75 m:0.5 ---
+
+[] yadā tu śrīla-gopāla-līlā-gāna-grahilā mahilā gātum ārabdhās tadā sarva eva satṛṣṇās tūṣṇīm āsan, kṛṣṇa-muralī-kākalīm anu kokilā iva । yad eva gānaṃ vaidagdhī-digdha-kaṅkanādi-jhaṅkārālaṅkṛta-manthāna-nirghoṣaḥ svara-tālādi-dānam iva kurvāṇaḥ sva-poṣaṃ pupoṣa ।

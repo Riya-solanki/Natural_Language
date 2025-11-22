@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 82 | label: grammar | g:0.587 m:0.282 ---
+
+netyucyate ।
+asa vā eṣa mahājana ātmājaro amaro amṛto abhayo brahma' asa eṣa neti netyātmā', aasthūlamanaṇu' ityādyābhyaḥ sarvavikriyāpratiṣedhaśrutibhyo brahmaṇaḥ kūṭasthatvāvagamāt ।
+nahyekasya brahmaṇaḥ pariṇāmadharmatvaṃ tadrahitatvaṃ ca śkyaṃ pratipattum ।

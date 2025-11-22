@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2572 | label: grammar | g:0.75 m:0.5 ---
+
+athātra maṇḍale yathāvad vidhivistaraṃ kṛtvā, śiṣyānevaṃ brūyāt । "na tvayā adṛṣṭadharmamaṇḍalasya vaktavyaṃ । mā te maraṇakālaḥ śīghramevāsiddhasya syād", ityuktvā, maṇikuladharmajñānānyutpādayet ।

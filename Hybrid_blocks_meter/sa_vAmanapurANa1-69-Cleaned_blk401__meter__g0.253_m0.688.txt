@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 401 | label: meter | g:0.253 m:0.688 ---
+
+prahlāda uvāca ।
+bhagavan kāni tīrthāni pṛthivyāṃ kāni cāmbare ।
+rasātale ca kāni syuretad vaktuṃ mamārhasi ।।

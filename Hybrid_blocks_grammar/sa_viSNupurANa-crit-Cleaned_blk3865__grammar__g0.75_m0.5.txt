@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3865 | label: grammar | g:0.75 m:0.5 ---
+
+romapādāc caturaṅgas tasmāc ca pṛthulākṣaḥ । tataś campo yaś campāṃ niveśayām āsa । campasya haryaṅgas tato bhadrarathas tato bṛhadrathas tato bṛhatkarmā bṛhatkarmaṇaś ca bṛhadbhānus tasmād bṛhanmanās tato jayadrathaḥ । jayadratho brahmakṣatrāntarālasaṃbhūtyāṃ patnyāṃ vijayaṃ nāma putram ajījanat ।।

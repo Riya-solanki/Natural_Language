@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1269 | label: meter | g:0.194 m:0.75 ---
+
+cāturvidyasya yo vettā cāturāśramyasaṃśrayaḥ 
+digantaro nabhobhūto vāyur vāyuvibhāvanaḥ ।।

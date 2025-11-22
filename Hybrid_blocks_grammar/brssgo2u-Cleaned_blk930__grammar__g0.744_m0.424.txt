@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 930 | label: grammar | g:0.744 m:0.424 ---
+
+satīṣvapi prāṇānāmadhiṣṭātrīṣu devatāsu prāṇavatā kāryakaraṇasaṃghātasvāminā śārīreṇaivaiṣāṃ prāṇānāṃ saṃbandhaḥ śruteravagamyate ।
+tathāhi śrutiḥ - aatha yatraitadākāśamanuviṣaṇṇaṃ cakṣuḥ sa cākṣuṣaḥ puruṣo darśanāya takṣuratha yo vededaṃ jighrāṇīti sa ātmā gandhāya ghrāṇam' ityevañjātīyakā śārīreṇaiva prāṇānāṃ saṃbandhaṃ śrāvayati ।

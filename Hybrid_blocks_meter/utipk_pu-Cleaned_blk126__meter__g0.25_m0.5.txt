@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 126 | label: meter | g:0.25 m:0.5 ---
+
+kiṃ tu naisargiko jñāne bahirābhāsanātmani ।
+pūrvānubhavarūpas tu sthitaḥ sa smaraṇādiṣu ।।

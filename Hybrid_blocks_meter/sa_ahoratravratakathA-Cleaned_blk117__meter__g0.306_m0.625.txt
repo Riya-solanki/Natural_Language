@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 117 | label: meter | g:0.306 m:0.625 ---
+
+pradakṣiṇāṃ ye vitaranti tasmin bhavanti jātismaralābhinas te ।
+suvarṇavarṇā bahuputrapautrāḥ pūjyā manuṣyāmaranāthasaṃgḥaiḥ ।।

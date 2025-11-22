@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 547 | label: meter | g:0.25 m:0.826 ---
+
+atha śramaḥ-
+śramo mānasa-khedaḥ syād adhva-nṛtya-ratādobhiḥ ।
+aṅga-mardana-niḥśvāsau pāda-saṃvāhanaṃ tathā ।। 
+jṛmbhaṇaṃ mandayānaṃ ca mukhanetra-vighūrṇanam ।
+sītkṛtiś ceti vijñeyā anubhāvāḥ śramodbhavāḥ ।।

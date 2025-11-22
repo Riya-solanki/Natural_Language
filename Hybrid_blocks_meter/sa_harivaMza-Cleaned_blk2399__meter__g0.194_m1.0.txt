@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2399 | label: meter | g:0.194 m:1.0 ---
+
+patatā meghavātena navatoyānukarṣiṇā 
+saṃmārjitatalā bhūmir yauvanastheva lakṣyate ।।

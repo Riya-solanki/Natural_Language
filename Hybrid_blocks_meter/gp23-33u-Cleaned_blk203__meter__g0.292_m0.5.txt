@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 203 | label: meter | g:0.292 m:0.5 ---
+
+[] tad evaṃ sādhāraṇīnāṃ varṇanam ākarṇya rādhā-sakhyaḥ punar ālapanti sma-

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 177 | label: grammar | g:0.667 m:0.5 ---
+
+atha bhagavānamoghasiddhistathāgato bhagavato vairocanasya tathāgatasya sarvatathāgatajñānamudraṇārthaṃ karmapāramitāsaṃbhavavajrādhiṣṭhānaṃ nāma samādhiṃ samāpadyemāṃ sarvatathāgatakarmasamayāṃ nāma svamudrāṃ svahṛdayānniścacāra karmavajri ।।

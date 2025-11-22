@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 123 | label: meter | g:0.0 m:0.625 ---
+
+ittham īśānacaraṇanuter yat samupārjitam
+śreyas tena jagat kṛtsnaṃ dveṣadoṣād vimucyatām

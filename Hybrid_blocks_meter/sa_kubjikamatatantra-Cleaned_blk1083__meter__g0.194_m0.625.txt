@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1083 | label: meter | g:0.194 m:0.625 ---
+
+mano buddhis tathā garvaḥ prakṛtau guṇa raudrajam 
+puruṣādinivṛt[t]yantam unmanatvaṃ parāntikam ।।

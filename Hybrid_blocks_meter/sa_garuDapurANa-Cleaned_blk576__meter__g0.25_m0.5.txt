@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 576 | label: meter | g:0.25 m:0.5 ---
+
+aiśānyāṃ sthāpayetsomaṃ paurandaryāṃ tu lohitam ।
+āgneyyāṃ somatanayaṃ yāmyāṃ caiva bṛhaspatim ।।

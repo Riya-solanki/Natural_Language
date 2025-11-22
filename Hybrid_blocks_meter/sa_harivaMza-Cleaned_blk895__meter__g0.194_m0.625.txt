@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 895 | label: meter | g:0.194 m:0.625 ---
+
+badarīphalamātraṃ vai puroḍāśaṃ vidhatsva me 
+brahmarṣe yena tiṣṭheyaṃ tejasāpyāyitaḥ sadā ।।

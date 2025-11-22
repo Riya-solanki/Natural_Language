@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10295 | label: meter | g:0.25 m:0.5 ---
+
+yataḥ prakṛtirūpāṇāṃ paricchedo na vidyate ।
+ataḥ prakṛtijā jñeyā na mūlāste khageśvara ।।

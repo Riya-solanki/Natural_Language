@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 219 | label: meter | g:0.25 m:0.621 ---
+
+itaśca na pradhānasya pravṛttiravalpate ।
+yaddhi sattvarajastamasāmānyonyaguṇapradhānabhāvamutsṛjya sāmyena svarūpamātreṇāvasthānaṃ sā pradhānāvasthā ।
+tasyāmavasthāyāmanapekṣasvarūpāṇāṃ svarūpapraṇāśabhayātparasparaṃ pratyaṅgibhāvānupapatteḥ ।
+bāhyasya ca kasyacitkṣobhayiturabhāvādguṇavaiṣamyanimitto mahadādyutpādo na syāt ।।

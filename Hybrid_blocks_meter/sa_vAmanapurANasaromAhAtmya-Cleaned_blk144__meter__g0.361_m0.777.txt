@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 144 | label: meter | g:0.361 m:0.777 ---
+
+śrībhagavānuvāca
+manorathāṃstvamadite yānicchasyabhivāñchitān ।
+tāṃstvaṃ prāpyasi dharmajñe matprasādānna saṃśayaḥ ।।

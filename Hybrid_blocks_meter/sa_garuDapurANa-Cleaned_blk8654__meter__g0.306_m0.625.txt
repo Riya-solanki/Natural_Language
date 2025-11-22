@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8654 | label: meter | g:0.306 m:0.625 ---
+
+pretadoṣaḥ kule yasya sukhaṃ tasya na vidyate ।
+matiḥ prītī ratirbuddhirlakṣmīḥ pañcavināśanam ।।

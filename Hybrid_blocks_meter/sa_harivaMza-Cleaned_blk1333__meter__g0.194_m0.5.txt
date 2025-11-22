@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1333 | label: meter | g:0.194 m:0.5 ---
+
+tato lokahitaṃ vākyaṃ śrutvā devaḥ prajāpatiḥ 
+provāca bhagavān vākyaṃ sarvān devagaṇāṃs tadā ।।

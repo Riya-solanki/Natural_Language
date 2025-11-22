@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 269 | label: hybrid | g:0.321 m:0.493 ---
+
+tasmād udvīkṣasva paraṃ ca lokam imāṃ ca vṛddhām aparāyaṇāṃ tvam ।
+mā gā vaśaṃ roṣaniśācarasya lokadvayānarthaśatāvahasya ।।

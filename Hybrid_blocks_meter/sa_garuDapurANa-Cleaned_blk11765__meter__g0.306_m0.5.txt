@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11765 | label: meter | g:0.306 m:0.5 ---
+
+tata ūrdhvaṃ mahābhāgā yayau tatra dadarśa sā ।
+pañcāyudhānāṃ tīrthāni teṣu snānaṃ cakāra sā ।।

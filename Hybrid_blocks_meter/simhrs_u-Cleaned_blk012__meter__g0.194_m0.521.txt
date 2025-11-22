@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 12 | label: meter | g:0.194 m:0.521 ---
+
+sodaryo balabhadra-mūrtir aniśaṃ devī priyā rukmiṇī
+pradyumnas tanayo' p pautra-nivaho yasyāniruddhādayaḥ ।
+so' yaṃ śrīpatir annapota-nṛpatiḥ kiṃ cānanāmbhoruhe
+dhatte cāru-sudarśana-śriyam asau satvātma-hastāmbuje ।।

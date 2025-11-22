@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1322 | label: hybrid | g:0.389 m:0.521 ---
+
+mayā mūrdhni prahve pitur iti dhṛtaṃ śāsanam idaṃ
+sa yakṣo rakṣo vā bhavatu bhagavān vā raghupatiḥ ।
+nivartiṣye so' haṃ bharata-kṛta-rakṣāṃ raghupurīṃ
+samāḥ samyaṅ nītvā vana-bhuvi catasraś ca daśa ca ।।

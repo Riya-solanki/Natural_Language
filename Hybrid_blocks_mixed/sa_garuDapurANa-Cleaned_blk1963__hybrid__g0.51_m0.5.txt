@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1963 | label: hybrid | g:0.51 m:0.5 ---
+
+na dātuṃ jāyate so api nātra kāryā vicāraṇā ।
+atha saṃgrāmamadhye tu yatra nāḍī sadā vahet ।।

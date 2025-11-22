@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 26 | label: grammar | g:0.601 m:0.5 ---
+
+śāpaḥ ko api mahānayaṃ pariṇatir duṣkarmaṇām īdṛśī daurjanyaṃ paramaṃ vidher idam iyaṃ sākṣād alakṣmī sthirā
+sauhārdasya ca vibhramasya ca rater bhartuś ca yūnāṃ tathā yat saṃtyajya kulāṅganāṃ bahu-mukho dāsī-janaḥ sevyate ।।

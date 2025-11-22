@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6478 | label: meter | g:0.194 m:0.75 ---
+
+bhṛguṇā purukutsāya narmadāyai sa coktavān 
+narmadā dhṛtarāṣṭrāya nāgāyāpūraṇāya ca ।।

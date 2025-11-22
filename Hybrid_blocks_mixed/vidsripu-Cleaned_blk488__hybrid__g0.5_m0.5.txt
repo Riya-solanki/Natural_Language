@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 488 | label: hybrid | g:0.5 m:0.5 ---
+
+tasyā mukhasyāyatalocanāyāḥ kartuṃ na śaktaḥ sadṛśaṃ priyāyāḥ ।
+itīva śītadyutir ātmabimbaṃ nirmāya nirmāya punar bhinatti ।।

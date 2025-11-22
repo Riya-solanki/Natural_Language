@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3053 | label: meter | g:0.25 m:0.5 ---
+
+tatastān prāha bhagavān saṃpariṣvajya devatāḥ ।
+gacchadhvaṃ svāni dhiṣṇyāni bhuñjadhvaṃ tridivaṃ sukham ।।

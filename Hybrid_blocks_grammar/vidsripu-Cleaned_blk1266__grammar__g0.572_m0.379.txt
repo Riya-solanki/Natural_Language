@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1266 | label: grammar | g:0.572 m:0.379 ---
+
+śvāsonmūlitamerur ambaratalavyāpī nimajjan muhur yatrāsīc chiśumāravibhramakaraḥ krīḍāvarāho hariḥ ।
+sīmā sarvamahādbhuteṣu sa tathā vārāṃpatiḥ pīyate pītaḥ so api na pūritaṃ ca jaṭharaṃ tasmai namo agastaye ।।
+vācaspateḥ

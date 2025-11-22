@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 54 | label: grammar | g:0.633 m:0.308 ---
+
+upādhiśca dvividhaḥ vastudharmo vaktṛyadṛcchāsaṃniveśitaśca । vastudharmo api dvividhaḥ siddhaḥ sādhyaśca । siddho api dvividhaḥ padārthasya prāṇaprado viśeṣādhānahetuśca । uktaṃ hi vākyapadīye 
+{na hi gauḥ svarūpeṇa gaurnāpyagauḥ । gotvābhisaṃvandhātu gauḥ} iti ।

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6013 | label: meter | g:0.316 m:0.856 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+ekaṃ punarnavāmūlamapāmārgasya vā śiva ।
+sarasaṃ yoniniḥ kṣiptaṃ varāṅgasya vyathāṃ haret ।
+prasūtivedanāñcaiva taruṇīnāṃ vyathāṃ haret ।।

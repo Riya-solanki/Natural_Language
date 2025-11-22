@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1314 | label: meter | g:0.194 m:0.854 ---
+
+yam adrākṣur netraiḥ purayuvatayaḥ snehavikacair
+gajaskandhārūḍhaṃ patim iva surāṇāṃ narapatim ।
+tam evāpaśyaṃs tāḥ paravaśagataṃ valkaladharaṃ
+mukhaiḥ śokāyāsastimitagurupakṣmāntanayanaiḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 167 | label: grammar | g:0.562 m:0.5 ---
+
+smṛtyutprekṣārūpeṣu pratyakṣapṛṣṭhapātiṣu svatantreṣu vānyeṣu vikalpeṣu kālatrayaviṣayeṣv arthāvabhāso antas tulya evāvasthitaḥ ।।

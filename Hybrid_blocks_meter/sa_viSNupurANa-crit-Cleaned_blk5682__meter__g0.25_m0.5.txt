@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5682 | label: meter | g:0.25 m:0.5 ---
+
+cakraṃ tathā gadā śārṅgatūṇī śaṅkho asir eva ca 
+pradakṣiṇaṃ hariṃ kṛtvā jagmur ādityavartmanā ।।

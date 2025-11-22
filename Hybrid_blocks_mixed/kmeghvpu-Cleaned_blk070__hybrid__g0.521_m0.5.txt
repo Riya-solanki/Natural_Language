@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 70 | label: hybrid | g:0.521 m:0.5 ---
+
+tatrāgāraṃ dhanapatigṛhān uttareṇāsmadīyaṃ dūrāl lakṣyaṃ tad amaradhanuś cāruṇā toraṇena ।
+yasyopānte kṛtakatanayaḥ kāntayā vardhito me hastaprāpyastavakanamito bālamandāravṛkṣaḥ ।।

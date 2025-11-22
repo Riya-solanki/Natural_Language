@@ -1,0 +1,7 @@
+--- source: mrgt1chu-Cleaned.txt | block: 49 | label: grammar | g:0.655 m:0.2 ---
+
+te bharadvājādayas taṃ pratyakṣīkṛtasvasvarūpam indraṃ ṛgyajuḥsāmabhiḥ prahvāḥ santas tuṣṭuvuḥ ।
+sa ca sarvajagatpravaro varo bhavadbhir abhyarthyatām iti tān āha ।
+te tadaivam uktāḥ pārameśvaraṃ jñānaṃ śāstraṃ vṛtavantaḥ ।
+sa tu tadabhyarthitaṃ jñānopadeśaṃ dātuṃ tān prativacanaṃ śrūyatām ity āha kiṃ tu mamaika eva bhavatāṃ madhyāt sakalaśrotṛjanābhimato yathāvasaram anuktavastunaḥ praṣṭā bhavatu sarvaiś caiva bhavadbhiḥ śrūyatām iti ।। 
+evaṃ bhagavatā śakreṇokte sati ।।

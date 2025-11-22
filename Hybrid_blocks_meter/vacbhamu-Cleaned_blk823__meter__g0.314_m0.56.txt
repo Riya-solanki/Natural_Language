@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 823 | label: meter | g:0.314 m:0.56 ---
+
+sthānaviśeṣātprakāśādivat ।
+buddhyādyupādhisthānaviśeṣayogādudbhūtasya jāgratsvapnayorviśeṣavijñānasyopādhyupaśame abhibhave suṣuptāvasthānamiti ।
+tathā bhedavyapadeśo api trividho brahmaṇa upādhibhedāpekṣayeti ।
+yathā saudhajālamārganiveśinyaḥ savitṛbhāso jālamārgopādhibedādbhinnā bhāsante tadvigame tu gabhastimaṇḍalenaikībhavantyatastena saṃbadhyanta evamihāpīti ।।

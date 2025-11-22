@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 48 | label: grammar | g:0.708 m:0.5 ---
+
+kṛṣṇe ratāḥ kṛṣṇam anusmarantaḥ tad bhāvitās tad gatamānasāś ca te bhinnadehāḥ praviśanti viṣṇuṃ havir yathā mantrahutaṃ hutāśe ।।

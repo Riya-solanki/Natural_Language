@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 752 | label: meter | g:0.151 m:0.984 ---
+
+svarūpayoḥ sandhir, yathā-
+ari-vrajānām anapota-siṃha-
+khaḍga-prahārair avani gatānām ।
+priyā-janāṅka-prahitāṅgakānāṃ
+bhavanti netrānta-nimīlanāni ।।

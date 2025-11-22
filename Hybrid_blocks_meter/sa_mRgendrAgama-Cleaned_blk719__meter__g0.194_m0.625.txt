@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 719 | label: meter | g:0.194 m:0.625 ---
+
+gacchantaṃ pṛṣṭhato yāyād viśantamanusaṃviśet 
+tadvaco nānuyuñjīta śayānaṃ na prabodhayet ।।

@@ -1,0 +1,6 @@
+--- source: ttssarvu-Cleaned.txt | block: 63 | label: grammar | g:0.794 m:0.345 ---
+
+iṣṭāpūrtādikarmasvasāratāṃ puruṣasvarūpopalabdhereva sāratāṃ buddhyamānasya prathamaḥ tato bhūtendriyādiṣvapi vikāratāṃ tataḥ pṛthagātmānaṃ jānataḥ prakṛtirūpastṛtīyaḥ ।
+yadyapi prathamadvitīyau na tāttvikamokṣau tathāpyaikadeśikānyatākhyatyā tāvadbandhāpagamena mokṣatvavyavahāra iti draṣṭavyam ।
+atra bandhamokṣasaṃsārāḥ prakṛtāveva na puruṣe savāsanakleśakarmāśayānāmapariṇāmini puruṣe asambhavāt tathā ca bhṛtyajayaparājayayoḥ svāminyupacārāt prakṛtigatānāṃ bandhādīnāṃ puruṣe upacāra eva bhogāpavargayoḥ prakṛtigatayorapi vivekāgrahāt puruṣasambandhaḥ susādhito bhavati ।
+evaṃ ca dharmajñānājñānavairāgyāvairāgyaiśvaryānaiśvaryaiḥ saptabhī rūpaiḥ prakṛtirbhogāpavargarūpapuruṣārthaṃ pratyātmānaṃ badhnāti tattvajñānena vivekakhyātyā ekena rūpeṇa vimocayati itīdṛśasya tattvajñānasyābhyāsādādaranairantaryadīrghakālasevitāt sattvapuruṣānyatāsākṣātkāri kevalaṃ jñānamutpadyate tenānādirapi viparyayavāsanā pratibadhyate tataścādhyavasāyābhimānasaṅkalpālocanāni antarāṇi bāhyāśca sarve vyāpārā ātmani pratiṣiddhā bhavanti ayameva mokṣa iti siddhāntaḥ ।।

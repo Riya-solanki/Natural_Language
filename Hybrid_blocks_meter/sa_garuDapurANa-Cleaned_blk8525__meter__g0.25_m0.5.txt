@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8525 | label: meter | g:0.25 m:0.5 ---
+
+mānuṣaiśca kṛtaṃ karma kasmājjānanti te prabho ।
+kathaṃ śṛṇvanti te sarve kasmājjñānaṃ samāgatam ।।

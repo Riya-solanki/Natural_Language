@@ -1,0 +1,6 @@
+--- source: brssbh1u-Cleaned.txt | block: 537 | label: meter | g:0.25 m:0.854 ---
+
+sarvagatasyāpi paramātmano hṛdaye avasthānamapekṣyāṅguṣṭhamātratvamidamucyate ।
+ākāśasyeva vaṃśaparvāpekṣamaratrimātratvam ।
+nahyañjasātimātrasya paramātmano aṅguṣṭhamātratvamupapadyate ।
+na cānyaḥ paramātmana iha grahaṇamarhatīśānaśabdādibhya ityuktam ।

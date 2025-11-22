@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2191 | label: meter | g:0.298 m:0.622 ---
+
+pulastya uvāca ।
+pitāmahavacaḥ śrutvā sādhyaḥ prāha tapodhanaḥ ।
+triḥ satyaṃ tava putro ahaṃ deva yogaṃ vadasva me ।।

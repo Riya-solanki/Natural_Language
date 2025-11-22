@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11601 | label: hybrid | g:0.528 m:0.5 ---
+
+evaṃ smṛtvā śrīnivāsasya devī kṛtvā śaucaṃ jaigiṣavyeṇa sākam ।
+snātuṃ yayau puṣkariṇīṃ hareśca snānaṃ samyak tatra cakāra deśe ।
+samyag japtvā vyaṅkaṭeśasya mantramuvāca sā jaigiṣavyaṃ guruṃ ca ।।

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1913 | label: meter | g:0.25 m:0.625 ---
+
+[ayi pīna-ghana-stana-śobhane paritrasta-kuraṅga-vilocane ।
+yadi ramase kāpālinī-bhāvaiḥ śrāvakāḥ kiṃ kariṣyanti ।

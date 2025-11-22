@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6321 | label: meter | g:0.25 m:0.5 ---
+
+gandhyākarmāvasāne tu svayaṃ homo vidhīyate ।
+svayaṃ homaphalaṃ yattu tadanyena na jāyate ।।

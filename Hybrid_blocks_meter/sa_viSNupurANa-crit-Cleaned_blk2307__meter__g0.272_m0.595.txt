@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2307 | label: meter | g:0.272 m:0.595 ---
+
+evaṃ vināśibhir dravyaiḥ samidājyakuśādibhiḥ 
+niṣpādyate kriyā yā tu sā bhavitrī vināśinī ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 800 | label: meter | g:0.25 m:0.5 ---
+
+sunīthā nāma yā kanyā mṛtyoḥ prathamajābhavat 
+aṅgasya bhāryā sā dattā tasyāṃ veno vyajāyata ।।

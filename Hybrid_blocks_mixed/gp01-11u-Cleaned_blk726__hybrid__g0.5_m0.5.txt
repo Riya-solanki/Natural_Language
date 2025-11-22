@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 726 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tadā ca tām ārabhya jana-rodana-paramparayā paritaḥ prasarpaṇād amandena tad-ākrandena sarva-gokulam ākulaṃ babhūva । [] avigaṇayya ca tādṛśaṃ visadṛśam upadravaṃ sadravam evāgamyāgamyāpāra-duḥkha-vāra-vārāṃ nidhau sarve mamajjuḥ । tatra ca-

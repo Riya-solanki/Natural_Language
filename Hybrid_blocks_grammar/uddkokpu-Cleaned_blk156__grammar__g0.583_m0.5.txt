@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 156 | label: grammar | g:0.583 m:0.5 ---
+
+rāgo nāma truṭati viraheṇeti lokapravādas tvatsambaddho mama śataguṇaḥ saṅgamādviprayoge ।
+so ayaṃ bhedo viṣayabhidayā saṅgame tvaṃ kilaikā viśleṣe tu tribhuvanamidaṃ jāyate tvanmayaṃ hi ।।

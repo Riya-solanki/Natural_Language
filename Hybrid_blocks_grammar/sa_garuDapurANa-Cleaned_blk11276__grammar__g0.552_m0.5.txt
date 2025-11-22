@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11276 | label: grammar | g:0.552 m:0.5 ---
+
+dagdhau ca hastau mama vāsudeva na pūjitaṃ tava viṣṇoḥ pratīkam ।
+mayā kṛtaṃ pāpajātaṃ murāre kadā drakṣye tava vakraṃ mukunda ।।

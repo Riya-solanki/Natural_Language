@@ -1,0 +1,5 @@
+--- source: visa01cu-Cleaned.txt | block: 103 | label: grammar | g:0.547 m:0.284 ---
+
+tathāhi
+tayoḥ kāvyasvarūpeṇābhimatayoḥ śabdārthayo raso asti, na vā ? nāsti cet, guṇavattvamapi nāsti, guṇānāṃ tadanvayavyatirekānuvidhāyitvāt ।
+asti cet ? kathaṃ noktaṃ rasavantāviti viśeṣaṇam ।

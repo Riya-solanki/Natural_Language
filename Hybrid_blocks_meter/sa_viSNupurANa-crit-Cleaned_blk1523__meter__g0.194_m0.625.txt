@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1523 | label: meter | g:0.194 m:0.625 ---
+
+sālambano mahāyogaḥ sabījo yatra saṃsthitaḥ 
+manasy avyāhate samyag yuñjatāṃ jāyate mune ।।

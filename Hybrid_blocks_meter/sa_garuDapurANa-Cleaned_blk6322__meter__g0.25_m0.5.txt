@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6322 | label: meter | g:0.25 m:0.5 ---
+
+ṛtvikputro gururbhrātā bhāgineyo atha viṭpatiḥ ।
+ebhireva hutaṃ yattu taddhutaṃ svayameva hi ।।

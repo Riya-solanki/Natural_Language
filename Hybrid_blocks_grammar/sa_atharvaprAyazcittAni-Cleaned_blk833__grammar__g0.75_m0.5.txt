@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 833 | label: grammar | g:0.75 m:0.5 ---
+
+yo vām aśvinā manaso javīyān rathaḥ svaśvo viśa ājigāti । yena gachathaḥ sukṛto duroṇaṃ tena narā vartir asmabhyaṃ yātaṃ ।।

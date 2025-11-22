@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 800 | label: meter | g:0.25 m:0.5 ---
+
+kiṃ dharmo astam itaḥ prajāhitakaraḥ kiṃ lokapālā mṛtāḥ
+tejaḥ kopaviṣātisaṅgarabhasaṃ kiṃ proṣitaṃ bhoginām ।
+śūnyaṃ kiṃ nu patiprabhābhir adhunā niḥśuklamūlaṃ jagad
+yena tvaṃ vyasanaṃ duruttaram idaṃ prāpto vināśāya te ।।

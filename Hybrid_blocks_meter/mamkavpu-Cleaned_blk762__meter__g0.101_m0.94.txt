@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 762 | label: meter | g:0.101 m:0.94 ---
+
+{mahāpralayamārutakṣubhitapuṣkarāvartaka-
+pracaṇḍaghanagarjitapratirutānukārī muhuḥ ।
+ravaḥ śravaṇabhairavaḥ sthagitarodasīkandaraḥ
+kuto adya samarodadherayambhūtapūrvaḥ puraḥ ।।}

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 357 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataḥ sarvānanda-varṣe harer navame varṣe parutnād apy adhikatayā yatnād aiṣamastye sāmastyena kṛta-vistāre giri-yajña-sāre nirvṛtte māsa-katipaye ca vṛtte vilakṣaṇa-lakṣaṇā śiva-kṣaṇadātipracuraṃ jana-samājam ājahāra । kintu prāyaśo yaśodhanādikām anayā sāmānādhikaraṇyād ambikāraṇyāya samam ambikā-pati-pūjanārthaṃ janā varṣaṃ varṣaṃ prati saharṣaṃ gacchanti । yacchanti ca vividhāni dhanāni kimuta tasyāṃ yogaviśeṣād asamāyāṃ samāyām । yatra kutūhalāvakalanādi-līlā-kallolinī-kallola-lola-śrī-gopāla-cālita-cittā gopālāḥ । kiṃ bahunā, gopāla-kṣiti-pāla-caraṇāś ca tad-yātrā-spṛhā-pātratām avāpuḥ ।

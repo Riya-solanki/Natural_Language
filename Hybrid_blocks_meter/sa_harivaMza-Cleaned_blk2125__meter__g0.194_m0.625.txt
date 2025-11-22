@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2125 | label: meter | g:0.194 m:0.625 ---
+
+ity ambupatinā prokto varuṇenāham acyuta 
+gavāṃ kāraṇatattvajñaḥ kaśyape śāpam utsṛjam ।।

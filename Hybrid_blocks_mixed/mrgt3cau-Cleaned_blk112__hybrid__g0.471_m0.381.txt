@@ -1,0 +1,5 @@
+--- source: mrgt3cau-Cleaned.txt | block: 112 | label: hybrid | g:0.471 m:0.381 ---
+
+Vṛtti:
+gurau śivībhūte māsam anadhyāyaḥ। [bhrātṛśiṣyādike] bhrātari śiṣye ca śivībhūte tryaham। [saptāhaṃ] saptarātraṃ śaive [rājani] rājñi।
+paśudharmiṇi rājanyuparate trirātraṃ vyākhyāniṣedhaḥ।

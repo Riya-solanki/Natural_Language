@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 713 | label: meter | g:0.25 m:0.695 ---
+
+tataḥ sā sarvamācaṣṭa viśvāmitraviceṣṭitam ।
+tataste munayaḥ prītāḥ sarasvatyāṃ samānayan ।
+aruṇāṃ puṇyatoyaughāṃ sarvaduṣkṛtanāśanīm ।।

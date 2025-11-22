@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 215 | label: meter | g:0.25 m:0.5 ---
+
+sthālikāyāṃ kṣiped dugdhaṃ baddhvā śaithilyadātharam ।
+dāthare gandhakaṃ kṣiptvā lipetkaṇṭhaṃ mṛdā dṛḍham ।।
+agniṣṭaṃ copari kṣiptvā jvālayed ghaṭikādvayam ।
+yāvad vyeti payo madhye sa śuddho gandhako bhavet ।।

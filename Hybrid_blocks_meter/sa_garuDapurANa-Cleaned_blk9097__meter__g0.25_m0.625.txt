@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9097 | label: meter | g:0.25 m:0.625 ---
+
+viṣṇoḥ smaraṇamātreṇa prāpyate paramā gatiḥ ।
+etatte sarvamākhyātaṃ martyairyā gatirāpyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1565 | label: meter | g:0.194 m:0.5 ---
+
+ekas tvam anapatyaś ca gotrāpatyaṃ na vartate 
+kaumāraṃ vratam āsthāya kleśam evānuvartase ।।

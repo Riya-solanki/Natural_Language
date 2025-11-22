@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1315 | label: meter | g:0.25 m:0.5 ---
+
+brūta nūtanakūṣmāṇḍa- phalānāṃ ke bhavanty amī ।
+aṅgulīkathanād eva yan na jīvanti māninaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1733 | label: meter | g:0.306 m:0.5 ---
+
+vitatakare apy anurāgiṇi mitre koṣaṃ sadaiva mudrayataḥ ।
+ucitānabhijñakairava kairavahasitaṃ na te caritam ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1373 | label: meter | g:0.306 m:0.5 ---
+
+ko nāma teṣu matimān svamano nidadhyād utkṣepaṇīyakusumāvayavopameṣu ।
+svargopabhogajaniteṣu sukheṣu yeṣām anteṣv apāyavaḍavāmukhasaṃniveśaḥ ।।

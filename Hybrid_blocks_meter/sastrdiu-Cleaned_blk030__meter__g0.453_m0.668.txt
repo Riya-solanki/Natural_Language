@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 30 | label: meter | g:0.453 m:0.668 ---
+
+vyākaraṇādapi pāṇinīyādadhyayanāṅgataivopanayanasyānagamyate ।
+adhyayanāṅgatā hi smarannācāryakaraṇe nayaterātmanepadaṃ vidhatte, adhyāpanāṅgatve hi kartrabhiprāyatvātkriyāphalasya tritvādevātmanepadaṃ sidhyet ।
+aupanīya tu yaḥ śiṣyam' iti ktvāpratyayo hi kathañcit adarśapūrṇamāsābhyāmiṣṭvetivadasatyapyaṅgāṅgibhāve avakalpyate punarvidhānaṃ

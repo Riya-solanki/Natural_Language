@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6440 | label: meter | g:0.194 m:0.5 ---
+
+puṇyāḥ pradeśā medinyāḥ puṇyā nadyo atha sāgarāḥ 
+parvatāś ca mahāpuṇyāś caritāni ca dhīmatām ।।

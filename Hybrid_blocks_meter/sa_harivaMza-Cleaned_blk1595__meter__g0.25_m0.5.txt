@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1595 | label: meter | g:0.25 m:0.5 ---
+
+vaḍavāmukhe asya vasatiḥ samudre vai bhaviṣyati 
+mama yonir jalaṃ vipra tac ca me toyapaṃ mukham ।।

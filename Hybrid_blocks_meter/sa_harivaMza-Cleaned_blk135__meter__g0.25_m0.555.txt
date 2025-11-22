@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 135 | label: meter | g:0.25 m:0.555 ---
+
+yathā sūryasya kauravya udayāstamayāv iha 
+tathā yugāni rājendra praḷayā manavas tathā । 
+evaṃ devanikāyās te saṃbhavanti yuge yuge ।।

@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 84 | label: grammar | g:0.625 m:0.5 ---
+
+nanu saviturdāhyaprakāśasaṃyoge sati dahati prakāśayatīti vyapadeśaḥ syāt, natu brahmaṇaḥ prāgutpatterjñānakarmasaṃyogo astīti viṣamo dṛṣṭāntaḥ ।

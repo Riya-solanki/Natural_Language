@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 173 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad-anantaraṃ ca dhavalāḥ parataś cālayitvā tat-pūrva-kāla-pālakāsadbhāve' pi śrīmatāṃ tatra-bhavatām eṣāṃ prabhāveṇa tatrodapātra-mātraṃ na vikalpam āgād iti svalpa-paribhavāyāpy akalpamāne samasta-vraje yātayāmam api yātayāmatāṃ nāgataṃ tad-ghṛta-pakva-pracurānnam iti sadyastanam iva rāma-parvaṇi pūrvāhnetanaṃ gṛhāntaḥ-saṅgṛhīta-jemana-sāmagrī-samudayaṃ sarva eva tāv agrajānujāv agrato vidhāyāvyagraṃ samyag rasayāmāsuḥ ।

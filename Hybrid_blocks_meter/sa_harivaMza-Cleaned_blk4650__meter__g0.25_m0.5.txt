@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4650 | label: meter | g:0.25 m:0.5 ---
+
+vaiśākhe māsi harmyasthāṃ dvādaśyāṃ tvāṃ dinakṣaye 
+dharṣayiṣyati yaḥ svapne sa te bhartā bhaviṣyati ।।

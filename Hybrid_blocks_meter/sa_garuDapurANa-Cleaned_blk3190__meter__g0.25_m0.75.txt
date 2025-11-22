@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3190 | label: meter | g:0.25 m:0.75 ---
+
+agnihotraphalā vedāḥ śīlavṛttiphalaṃ śubham ।
+ratiputraphalā dārā dattabhuktaphalaṃ dhanam ।।

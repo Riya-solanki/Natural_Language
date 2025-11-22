@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4290 | label: meter | g:0.25 m:0.5 ---
+
+yad iṣṭaṃ vo yaduśreṣṭhāḥ kartāsmi tad atandritaḥ 
+bhavatām asmi yūyaṃ ca mama yuṣmāsv ahaṃ sthitaḥ ।।

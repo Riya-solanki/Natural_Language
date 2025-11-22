@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4517 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ samāsthāya rathaṃ kṛṣṇo ahaṃ brāhmaṇaḥ sa ca 
+prayātāḥ sma diśaṃ saumyām udīcīṃ kauravarṣabha ।।

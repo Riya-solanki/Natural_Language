@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2119 | label: meter | g:0.194 m:0.5 ---
+
+ādatte raśmibhir yaṃ tu kṣitisaṃsthaṃ rasaṃ raviḥ 
+tam utsṛjati bhūtānāṃ puṣṭyarthaṃ sasyavṛddhaye ।।

@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 8 | label: meter | g:0.429 m:0.553 ---
+
+ata āha- ādikarmikasandhānaṃ paramārthāvatāraṇe । upāyaścaiva saṃbuddhaiḥ sopānamiva nirmitaḥ ।। iti ।
+prabodhanamelāvaṇasaṃśayaparicchedaḥ prathamaḥ ।।
+dvitīyaḥ paricchedaḥ

@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 222 | label: hybrid | g:0.328 m:0.416 ---
+
+itaśca na nīlāderjñānātmakatvam, anumānādiṣu viṣayākārāṇāṃ parokṣatvāt, jñānasya ca sarvatra pratyakṣatvābyupagamāt, nahi parokṣāparokṣayorekatvaṃ saṃbhavati ।
+evamatyantāsadrūpatvenābhimatasya sthāyitvādeḥ sadrūpajñānātmakatvamatyantāṃsaṃbhāvyam ।
+tathā bhūtānumāneṣu bhūtatvamavabhāsate ।
+na ca vartamānasya jñānasya bhūtatvamātmā saṃbhavati ।।

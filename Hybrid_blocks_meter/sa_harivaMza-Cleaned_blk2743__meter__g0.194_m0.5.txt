@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2743 | label: meter | g:0.194 m:0.5 ---
+
+kṛṣṇo api mūle śailasya śailastambha ivocchritaḥ 
+dadhāraikena hastena śailaṃ priyam ivātithim ।।

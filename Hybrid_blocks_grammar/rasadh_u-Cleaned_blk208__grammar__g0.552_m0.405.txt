@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 208 | label: grammar | g:0.552 m:0.405 ---
+
+ketakīnāṃ stanānnisāhāyāṃ jalaṃ vinaiva gāḍhaṃ vartayitvā vastreṇa ca gālitvā raso grāhyaḥ ।।
+tatastena rasena manaḥśilāṃ vartayitvā tayā hīrakān saṃveṣṭya vajramūṣāmadhye kṣiptvāgninā tāṃ vajramūṣāṃ dhmātvāgnivarṇaṃ kṛtvārkadugdhena vidhyāpayet ।।
+tataḥ punarapi ketakīstanarasavartitamanaḥśilayā vajrāṇi veṣṭayitvā vajramūṣāyāṃ kṣiptvā dhmātvā cārkadugdhena vidhyāpayet evaṃ punaḥpunaḥ saptavelaṃ kṛte vajrāṇi bhasmībhavanti ।।
+iti hīrakabhasmīkaraṇaṃ tṛtīyam ।।

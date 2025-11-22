@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 347 | label: grammar | g:0.552 m:0.5 ---
+
+etāṃ paśya purastaṭīmahi kila krīḍākirāto haraḥ kodaṇḍena kirīṭinā sarabhasaṃ cūḍāntare tāḍitaḥ ।
+ityākarṇya kathādbhutaṃ himanīdhāvadrau subhadrāpater mandaṃ mandamakāri yena nijayorderdaṇḍayormaṇḍanam ।।

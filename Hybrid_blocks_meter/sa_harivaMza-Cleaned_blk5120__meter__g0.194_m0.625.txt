@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5120 | label: meter | g:0.194 m:0.625 ---
+
+mūrkhāḥ svārthaparā lubdhāḥ kṣudrāḥ kṣudraparicchadāḥ 
+vyavāhāropavṛttāś ca cyutā dharmāc ca śāśvatāt ।।

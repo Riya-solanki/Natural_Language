@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4446 | label: meter | g:0.194 m:0.5 ---
+
+ete dhanyā dvijaśrestha parvatā dhārayanti mām 
+eṣv āścaryāṇi dṛśyante ete lokasya setavaḥ ।।

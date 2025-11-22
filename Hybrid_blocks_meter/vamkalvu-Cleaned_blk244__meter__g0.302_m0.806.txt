@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 244 | label: meter | g:0.302 m:0.806 ---
+
+dhammillasya na kasya prekṣya nikāmaṃ kuraṅgaśāvākṣyāḥ ।
+rajyatyapūrvabandhavyutpattermānasaṃ śobhām ।।

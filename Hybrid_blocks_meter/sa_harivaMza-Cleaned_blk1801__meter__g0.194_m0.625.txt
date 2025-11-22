@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1801 | label: meter | g:0.194 m:0.625 ---
+
+kathaṃ tatrāsatas tasya viśvaṃ jagad idaṃ mahat 
+śriyam āpnoti vipulāṃ surāsuranarārcitām ।।

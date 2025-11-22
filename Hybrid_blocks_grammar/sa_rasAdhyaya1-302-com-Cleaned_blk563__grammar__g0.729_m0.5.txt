@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 563 | label: grammar | g:0.729 m:0.5 ---
+
+iha prathamaṃ śuddhanāgasyaikena patrevadyena patraṃ kṛtvā tatra ratimātraṃ kramitaṃ rasaṃ kṣiptvā nārāpatrasthātanugālayitvā veḍhanīṃ ca kṛtvā tāṃ veḍhanīṃ gālayet ।

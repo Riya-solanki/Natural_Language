@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 433 | label: grammar | g:0.666 m:0.173 ---
+
+tīkṣṇasya hiṅgulayogena guṇādhikyamāha tadapītyādi ।।
+api niścayena tat tīkṣṇaṃ daradena hiṅgulena hataṃ māritaṃ vā mākṣikena svarṇamākṣikena ravisahitaṃ tāmrasaṃyutaṃ tīkṣṇaṃ hataṃ māritaṃ punarvāsanayā vāsanauṣadhena vāsitaṃ paribhāvitaṃ ghanavad abhravat cāryaṃ jāryaṃ ca satvābhravat nānyathā ।।

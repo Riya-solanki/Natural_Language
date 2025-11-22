@@ -1,0 +1,10 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1053 | label: meter | g:0.171 m:0.87 ---
+
+ayaṃ khalu vādo nityaṃ pratyācaṣṭe nityasya ca pratyākhyānamanupapannam ।
+kasmāt ?, yathopalabdhi vyavasthānāt ।
+yasyotpattivināśadharmakatvamupalabhyate
+pramāṇatastadanityam yasya nopalabhyate tad
+viparītam, na ca paramasūkṣmāṇāṃ bhūtānām ākāśakāladigātmamanasāṃ
+tadguṇānāṃ ca keṣāñcit sāmānyaviśeṣasamavāyānāṃ
+cotpattivināśadharmakatvaṃ pramāṇata upalabhyate
+tasmād nityānyetānīti ।।

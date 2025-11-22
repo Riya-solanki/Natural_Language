@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2102 | label: meter | g:0.25 m:0.5 ---
+
+dṛśyate sūryavad bimbaṃ pratyakṣaṃ cāgrataḥ sthitam 
+hrasve nīle bhayaṃ vindyād dīrghe sthūle hy arogatā ।।

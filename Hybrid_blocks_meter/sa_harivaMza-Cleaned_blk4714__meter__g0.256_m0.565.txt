@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4714 | label: meter | g:0.256 m:0.565 ---
+
+āvidhya parighaṃ ghoraṃ teṣāṃ madhye vyavasthitaḥ 
+sūryo divicaranmadhye meghānām iva sarvataḥ ।। 
+daṇḍakāṣṭhājinadharo nārado hraṣṭacetanaḥ । sādhu sādhv iti vai tatra so aniruddham abhāṣata । 
+te hanyamānā raudreṇa parigheṇāmitaujasā 
+prādravanta bhayāt sarve megho vāteritā yathā ।। 
+vidrāvya dānavān vīraḥ parigheṇāśuvikramaḥ । 
+aniruddho nadan hṛṣṭaḥ siṃhanādaṃ vyarocata 
+gharmānte toyado vyomni nadann iva mahāsvanaḥ ।।

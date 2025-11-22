@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 257 | label: meter | g:0.056 m:0.875 ---
+
+{ullāsya kālakaravālamahāmbuvāhaṃ
+devena yena jaraṭhorjitagarjitena ।
+nirvāpitaḥ sakala eva raṇe ripūṇāṃ
+dhārājalaistrijagati jvalitaḥ pratāpaḥ ।।}

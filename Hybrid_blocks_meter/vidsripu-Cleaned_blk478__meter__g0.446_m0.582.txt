@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 478 | label: meter | g:0.446 m:0.582 ---
+
+candro jaḍaḥ kadalakāṇḍam akāṇḍaśītam indīvarāṇi ca visūtritavibhramāṇi ।
+yenākriyanta sutanoḥ sa kathaṃ vidhātā kiṃ candrikāṃ kvacid aśītaruciḥ prasūte ।।
+ayam api tasyaiva

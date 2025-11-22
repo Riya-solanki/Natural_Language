@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 343 | label: meter | g:0.25 m:0.5 ---
+
+ayam āndolitaprauḍhacandanadrumapallavaḥ utpādayati sarvasya prītiṃ malayamārutaḥ ।।

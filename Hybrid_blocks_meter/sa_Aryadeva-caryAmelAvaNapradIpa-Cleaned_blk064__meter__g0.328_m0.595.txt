@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 64 | label: meter | g:0.328 m:0.595 ---
+
+ye varṇāḥ pṛṣṭhataḥ proktā abhimukhāśca ye punaḥ ।
+strīpunnapuṃsakāste ca dhātvādiparikalpitāḥ ।।

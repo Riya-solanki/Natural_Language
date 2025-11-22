@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 224 | label: grammar | g:0.562 m:0.5 ---
+
+vikasanti kadambāni sphuṭanti kuṭajadrumāḥ unmīlanti ca kandalyo dalanti kakubhāni ca ।।

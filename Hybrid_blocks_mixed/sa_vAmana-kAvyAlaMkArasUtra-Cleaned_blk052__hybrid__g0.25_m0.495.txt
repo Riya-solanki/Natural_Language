@@ -1,0 +1,6 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 52 | label: hybrid | g:0.25 m:0.495 ---
+
+kiṃ bhāṣitena bahunā rūpaskandhasya santi me na guṇāḥ ।
+guṇānāntarīyakaṃ ca prameti na te'styupālambhaḥ ।।
+atra rūpaskandhanāntarīyakapade na loka ityapratītam ।।pūraṇārthamanarthakam ।।
+pūraṇamātraprayojanamavyayapadamanarthakam । daṇḍāpūnyāyena padamanyadapyanarthakameva । yathā

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 48 | label: meter | g:0.217 m:0.858 ---
+
+atha dharmikatvam-
+dharma-pravaṇa-cittatvaṃ dhārmikatvam itīryate ।।

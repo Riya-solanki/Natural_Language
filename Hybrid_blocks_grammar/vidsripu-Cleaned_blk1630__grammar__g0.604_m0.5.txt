@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1630 | label: grammar | g:0.604 m:0.5 ---
+
+rudrādes tulanaṃ svakaṇṭhavipinacchedo harer vāsanaṃ kārāveśmani puṣpakasya ca jayo yasyedṛśaḥ kelayaḥ ।
+so ahaṃ durjayabāhudaṇḍasacivo laṅkeśvaras tasya me kā ślāghā ghuṇajarjareṇa dhanuṣā kṛṣṭena bhagnena vā ।।

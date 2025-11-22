@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1672 | label: grammar | g:0.625 m:0.5 ---
+
+ete akṣṇor janayanti kāmavirujaṃ sītāviyoge ghanā vātāḥ śīkariṇo api lakṣmaṇa dṛḍhaṃ saṃtāpayanty eva mām ।
+itthaṃ vṛddhaparamparāpariṇatair yasmin vacobhir munīn adyāpy unmanayanti kānanaśukāḥ so ayaṃ girir mālyavān ।।

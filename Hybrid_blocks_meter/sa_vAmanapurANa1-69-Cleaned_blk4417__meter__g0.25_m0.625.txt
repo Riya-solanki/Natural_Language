@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4417 | label: meter | g:0.25 m:0.625 ---
+
+tatrāste vividhān bhogān bhuñjan divyān sa mānuṣān ।
+nāmnā vindhyāvalītyevaṃ bhāryāsya dayitābhavat ।
+yuvatīnāṃ sahasrasya pradhānā śīlamaṇḍitā ।
+tayā saha mahātejā reme vairocanirmune ।।

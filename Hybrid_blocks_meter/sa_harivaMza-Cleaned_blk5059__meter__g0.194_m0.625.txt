@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5059 | label: meter | g:0.194 m:0.625 ---
+
+nivṛttāv aśvamedhasya kiṃ nimittaṃ bhaviṣyati 
+śrutvā parihariṣyāmi bhagavan yadi śakyate ।।

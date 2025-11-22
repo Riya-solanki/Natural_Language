@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2819 | label: meter | g:0.25 m:0.5 ---
+
+saṃhatābhis tribhiḥ pūrvaṃ soṣṭaṃ tu samupaspṛśet ।।

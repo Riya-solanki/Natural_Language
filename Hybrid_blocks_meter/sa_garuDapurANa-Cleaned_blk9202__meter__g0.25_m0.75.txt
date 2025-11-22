@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9202 | label: meter | g:0.25 m:0.75 ---
+
+sūtivātaiḥ samākṛṣṭaḥ pīḍayā vihvalīkṛtaḥ ।
+puṣṭo nāḍyāḥ suṣumṇāyā yoṣidgarbhasthitastvaran ।।

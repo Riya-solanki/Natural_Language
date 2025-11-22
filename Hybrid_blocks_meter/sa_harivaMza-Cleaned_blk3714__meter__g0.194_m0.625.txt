@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3714 | label: meter | g:0.194 m:0.625 ---
+
+kṛṣṇo api kālayavanaṃ jñātvā keśiniṣūdanaḥ 
+jarāsaṃdhabhayāc cāpi purīṃ dvāravatīṃ yayau ।।

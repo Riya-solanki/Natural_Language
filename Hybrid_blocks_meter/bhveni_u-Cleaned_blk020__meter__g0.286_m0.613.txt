@@ -1,0 +1,5 @@
+--- source: bhveni_u-Cleaned.txt | block: 20 | label: meter | g:0.286 m:0.613 ---
+
+pāripārśvikaḥ
+sasaṃbhramam
+bhāva śāntaṃ pāpaṃ pratihatamamaṅgalam ।

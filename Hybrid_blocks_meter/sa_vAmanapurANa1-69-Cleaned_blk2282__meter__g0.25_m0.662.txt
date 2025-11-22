@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2282 | label: meter | g:0.25 m:0.662 ---
+
+hara uvāca ।
+tapasā parituṣṭo asmi sutaptena tapodhana ।
+tasmāt saṃjīvanīṃvidyāṃ bhavān jñāsyati tattavattaḥ ।।

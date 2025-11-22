@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8302 | label: meter | g:0.25 m:0.831 ---
+
+garuḍa uvāca ।
+sarpāddhi prāptamṛtyūnāmagnidāhādi na kriyā ।
+jalena śṛṅgiṇā vāpi śastrādyairmriyate yadi ।।

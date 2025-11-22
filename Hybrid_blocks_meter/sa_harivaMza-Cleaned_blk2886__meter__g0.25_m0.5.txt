@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2886 | label: meter | g:0.25 m:0.5 ---
+
+sa saṃsaktas tu kṛṣṇena vṛṣeṇeva mahāvṛṣaḥ 
+mumoca vaktrajaṃ phenaṃ nastato atha sa śabdavat ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 454 | label: meter | g:0.25 m:0.927 ---
+
+kiṃ punastajjñāpakamata āha 
+cakṣiṅo dvayanubandhakaraṇam ।।
+cakṣiṅ ikāreṇaivānudāttena siddhamātmanepadasyānityatvajñāpanārtham ।

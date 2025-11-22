@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3498 | label: grammar | g:0.667 m:0.5 ---
+
+ity uccāryāharniśam andhakārapraveśe vā na sarpair daśyate na cāpi kṛtānusmaraṇabhujo viṣam api bhuktam upaghātāya bhaviṣyati ।।

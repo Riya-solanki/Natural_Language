@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1688 | label: meter | g:0.328 m:0.595 ---
+
+etā dagdhā na gantavyaṃ pīḍādiḥ kila mānavaiḥ ।
+viśākhātrayamāditye pūrvāṣāḍhātraye śaśī ।।

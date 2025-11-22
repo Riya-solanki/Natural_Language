@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 758 | label: meter | g:0.009 m:0.858 ---
+
+dṛṣṭo hi vāyvādīnāṃ bhūtānāṃ guṇaviśeṣābhivyaktiniyamaḥ
+uvāyuḥ sparśavyañjakaḥ āpo rasavyañjikāḥ
+tejo rūpavyañjakam pārthivaṃ kiñcid dravyaṃ
+kasyacid dravyasya grandhavyañjakamadva asti cāyamindriyāṇāṃ
+bhūtaguṇaviśeṣopalabdhiniyamaḥ tena bhūtaguṇaviśeṣopalabdhermanyāmahebhūtaprakṛtīnīndriyāṇi
+nāvyaktaprakṛtīniti ।।

@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 52 | label: meter | g:0.306 m:0.5 ---
+
+yathā bāryo na laśunasya gandhaḥ kastūrikācandanacandrasaṃjñaiḥ ।
+tathā na vāryā varaśāstraśikṣābhyāsena duṣṭasya ca duṣṭatāpi ।।

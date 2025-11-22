@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 527 | label: grammar | g:0.562 m:0.5 ---
+
+apicedṛgrūpatvaṃ prājñasyaivaitmanaḥ smaryate bhagavadgītāsu- ana tadbhāsayate sūryo na śaśāṅ ko na pāvakaḥ ।
+yadgatvā na nivartante taddhāma paramaṃ mama' iti, ayadādityagataṃ tejo jagadbhāsayate akhilam ।
+yaccandramasi yaccāgnau tattejo viddhi māmakam' iti ca ।।

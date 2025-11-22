@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 444 | label: meter | g:0.194 m:0.979 ---
+
+{vāṇīrakuñjuḍḍīṇasa-uṇikolāhalaṃ suṇantī-e ।
+gharakammavāvaḍā-e bahu-e sī-anti aṅgā-iṃ ।। }
+[vānīrakuñjoḍḍīnaśakunikolāhalaṃ śṛṇvantyāḥ ।
+gṛhakarmavyāpṛtāyā vadhvāḥ sīdantyaṅgāni ।।]

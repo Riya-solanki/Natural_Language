@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 365 | label: hybrid | g:0.285 m:0.335 ---
+
+ādityaś cābravīt saṃjñāṃ kimarthaṃ tanayeṣu vai 
+tulyeṣv abhyadhikaḥ snehaḥ kriyate ati punaḥ punaḥ 
+sā tat pariharantī sma nācacakṣe vivasvataḥ ।। 
+ātmānaṃ sa samādhāya yogāt tathyam apaśyata । mūrdhajeṣu ca jagrāha sā cātmānaṃ śaśaṃsa ha । ātmānaṃ gopayāmāsa saṃyogāt tasya naiva tu । 
+tāṃ śaptukāmo bhagavān nāśāya kurunandana 
+mūrdhajeṣu ca jagrāha samaye atigate tu sā । 
+tataḥ sarvaṃ yathāvṛttam ācacakṣe vivasvataḥ 
+vivasvān atha tac chrutvā kruddhas tvaṣṭāram abhyagāt ।।

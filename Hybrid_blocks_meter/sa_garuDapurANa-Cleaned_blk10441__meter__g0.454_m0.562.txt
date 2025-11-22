@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10441 | label: meter | g:0.454 m:0.562 ---
+
+bhāratyuvāca ।
+brahmeśa lakṣmīśa hare murāre guṇāṃstava śraddadhānasya nityam ।
+tathā stuvantosya vivardhamānāṃ matiṃ ca nityaṃ viṣayeṣvasatsu ।।

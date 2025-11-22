@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 506 | label: meter | g:0.25 m:0.625 ---
+
+idaṃ tatsarvabuddhatvaṃ vajrasattvakare sthitam ।
+tvayāpi hi sadā dhāryaṃ vajrapāṇidṛḍhavratama ।।

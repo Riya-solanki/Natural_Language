@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 244 | label: meter | g:0.194 m:0.625 ---
+
+jvaladbhir niśitair bāṇair dīptatejasam acyutam 
+mahāyogaṃ mahātmānaṃ durdharṣam amarair api ।।

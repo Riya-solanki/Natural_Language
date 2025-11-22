@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 359 | label: grammar | g:0.531 m:0.317 ---
+
+pratyakṣam indriyārthasaṃnikarṣajaṃ na cāvidyamānam ।
+asad indriyeṇa saṃnikṛṣyate, na cāyaṃ vidyamānam ।
+sat kiñcidanujānātīti pratyakṣanimittaṃ pratyakṣaviṣayaḥ pratyakṣajñānaṃ sarvaṃ nopapadyate, pratyakṣānupapattau tatpūrvakatvād anumānāgamayoranupapattiḥ sarvapramāṇavilope sarvagrahaṇaṃ na bhavatīti।
+ubhayathā ca vartamānaḥ kālo gṛhyate kvacidarthasadbhāvavyaṅgyo yathā aasti dravyam' iti kvacit kriyāsaṃtānavyaṅgyo yathā apacati chinattīti nānāvidhā caikārthā kriyā kriyāsaṃtānaḥ kriyābhyāsaśca, nānāvidhā caikārthā kriyā apacatīti ।
+sthālyadhiśrayaṇam udakāsecanaṃ taṇḍulāvapanamedhopasarpaṇam agnyabhijvālanaṃ darvīghaṭṭanaṃ maṇḍasrāvaṇam adhovatāraṇamiti chinattīti kriyābhyāsaḥ udyabhyodyamya paraśuṃ dāruṇi nipātayan chinattītyucyate ।।

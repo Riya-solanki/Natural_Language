@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 167 | label: grammar | g:0.75 m:0.5 ---
+
+bhedaḥ adhimuktiḥ svārthā svaparārthā parārthā ceti mūlabhedena trividhā । trividhā api satī mṛdumadhyādhimātrabhedena pratyekaṃ medāt trikatribhirnavadhā bhavati । tadyathā mṛdvī madhyā adhimātrā ca svārthādhimuktiḥ; evaṃ svaparārthādhimuktiḥ parārthādhimuktiśceti । evameṣā api navaprakārā adhimuktiḥ mṛdumṛdvādiprakārabhedena pratyekaṃ vibhidyamānā navabhistribhiḥ saptaviṃśatiprakārā bhavati । tadyathā - mṛdumṛduḥ, mṛdumadhyaḥ, mṛdvadhimātraḥ, madhyamṛduḥ, madhyamadhyaḥ, madhyādhimātraḥ; adhimātramṛduḥ, adhimātramadhyaḥ, adhimātrādhimātra iti svārthādhimukternavaprakārāḥ । tathā svaparārthādhimukteḥ parārthādhimukteśca veditavyāḥ ।

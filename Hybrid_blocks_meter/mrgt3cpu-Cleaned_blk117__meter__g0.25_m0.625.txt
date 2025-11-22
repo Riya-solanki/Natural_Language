@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 117 | label: meter | g:0.25 m:0.625 ---
+
+samayī putrako vāpi jñātvā kiṃcidapūrvakam ।
+nivedayedanujñāto gurave pīṭhavartine ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2993 | label: meter | g:0.25 m:0.5 ---
+
+payasā vāpi māsena parākeṇāpi vā punaḥ ।
+ṛṣabhaikaṃ sahasraṃ gā dadyātkṣattravadhe pumān ।।

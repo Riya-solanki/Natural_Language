@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4971 | label: meter | g:0.25 m:0.625 ---
+
+śūlagulmau ca viṇmūtrasthānaviṣṭambhasūcakau ।
+vidheyaṃ svedanaṃ tatra pānīyaṃ lavaṇodakam ।।

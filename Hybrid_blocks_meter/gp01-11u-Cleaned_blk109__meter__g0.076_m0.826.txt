@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 109 | label: meter | g:0.076 m:0.826 ---
+
+gāyanti tatra dhavalāḥ paripālayantaḥ
+pārāvatīṃ madhura-rāgavatīm udasrāḥ ।
+janmādi-kṛṣṇa-caritāni ciraṃ gatāni
+smṛtvā yataḥ sapadi muhyati sarva eva ।। [vasanta]

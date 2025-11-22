@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 470 | label: hybrid | g:0.5 m:0.5 ---
+
+pūrvapaścādbhāvena pratīteḥ kālasya śabdāśrayatvena śabdatadekadeśatadarthavarṇaghaṭanāśrayatvena ca āśrayasya śabdānuśāsabajñānena prakaraṇādisahāyapratibhānairmalyasahitena tena cāvagama iti nimittasya boddhṛmātravidagdhavyapadeśayoḥ pratītimātracamatkṛtyośca karaṇāt kāryasya "gato astamarkaḥ" ityādau pradarśitanayena saṃkhyāyāḥ

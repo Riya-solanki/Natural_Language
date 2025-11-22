@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1042 | label: grammar | g:0.75 m:0.5 ---
+
+atra kecid āhuḥ-karuṇo nāma vipralambha-śṛṅgāro nāsti । ubhayālambanasya tasya ekatraivāsambhavāt । yatra tv ekasyāpāye sati tad-itara-gatāḥ pralāpādayo bhavanti sa śokān na bhidyate iti । yatra punar-ujjīvanena sambhogo nāsti, tatra satyaṃ śoka eva । yatra so' sti tatra vipralambha eva । anyathā sambhoga-śiraske anyatarāpāya-lakṣaṇe vairūpya-śāpa-pravāse' pi śoka-rūpatvāpatteḥ ।

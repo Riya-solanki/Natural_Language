@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 93 | label: meter | g:0.25 m:0.75 ---
+
+bhūtātmendriyātmeti ca prayogadarśanāt ।
+yathaika eva jyotiḥśabdaḥ kratujvalanaviṣayaḥ ।
+tatra kuta etadātmaśabdādīkṣateragauṇatvamityata uttaraṃ paṭhati-

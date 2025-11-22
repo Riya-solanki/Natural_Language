@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 500 | label: hybrid | g:0.522 m:0.441 ---
+
+līlātāṇḍavitabhru vibhramavalad vaktraṃ kuraṅgīdṛśā sākūtaṃ ca sakautukaṃ ca suciraṃ nyastāḥ kilāsmān prati ।
+nīlābjavyatimiśraketakadaladrāghīyasīnāṃ srajāṃ sodaryāḥ suhṛdaḥ smarasya sudhayā digdhāḥ kaṭākṣacchaṭāḥ ।।
+rājaśekharasya

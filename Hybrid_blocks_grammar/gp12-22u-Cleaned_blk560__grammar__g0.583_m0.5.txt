@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 560 | label: grammar | g:0.583 m:0.5 ---
+
+[] kanyās tu tā dhanyā varaṃ-manyālayāntaḥ-prayāṇaṃ tatra ca labdha-tad-añcala-nyāsa-nijāñcalatādy-anyāyam asammanyamānā babhūvuḥ ।

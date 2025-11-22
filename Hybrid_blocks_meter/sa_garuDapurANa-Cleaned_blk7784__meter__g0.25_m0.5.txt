@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7784 | label: meter | g:0.25 m:0.5 ---
+
+kva kīnāśānugaiḥ krodhātkuṭhāraiḥ śirasi vyathā ।
+ūnābdikañca yacchrāddhaṃ tatra bhuṅkte suduḥ khitaḥ ।।

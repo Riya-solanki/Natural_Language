@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4152 | label: meter | g:0.194 m:0.75 ---
+
+tair dāśārhair mahābhāgair babhāse bhavanahradaiḥ 
+vāsudevendraparjanyair gṛhameghair alaṃkṛtā ।।

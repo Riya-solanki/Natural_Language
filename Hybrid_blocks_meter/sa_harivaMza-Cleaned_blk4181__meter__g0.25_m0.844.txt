@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4181 | label: meter | g:0.25 m:0.844 ---
+
+puṣpākulajalopetā nānādrumalatākulāḥ 
+aparāś cābhavan nadyo hemaśarkaravālukāḥ ।। 
+nīlotpalavibhūṣitāḥ । nadyaḥ padmacayodbhāsaḥ । 
+mattabarhiṇasaṃghaiś ca kokilaiś ca sadāmadaiḥ 
+bahūvuḥ paramopetās tasyāṃ puryāṃ tu pādapāḥ ।।

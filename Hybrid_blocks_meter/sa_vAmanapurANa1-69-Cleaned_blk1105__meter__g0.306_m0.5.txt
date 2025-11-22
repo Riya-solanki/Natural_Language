@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1105 | label: meter | g:0.306 m:0.5 ---
+
+mṛte bhartari sā śyāmā yakṣāṇāṃ śaraṇaṃ gatā ।
+rakṣitā guhyakaiḥ sādhvī nivārya mahiṣaṃ tataḥ ।।

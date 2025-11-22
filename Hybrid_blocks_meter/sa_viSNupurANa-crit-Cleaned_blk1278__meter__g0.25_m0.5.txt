@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1278 | label: meter | g:0.25 m:0.5 ---
+
+teṣv ahaṃ mitrapakṣe ca samaḥ pāpo asmi na kvacit 
+yathā tenādya satyena jīvantv asurayājakāḥ ।।

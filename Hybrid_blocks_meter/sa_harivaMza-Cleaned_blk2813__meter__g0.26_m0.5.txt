@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2813 | label: meter | g:0.26 m:0.5 ---
+
+pitṛṣvasari jātas te mamāṃśo aham iva sthitaḥ 
+sa te rakṣyaś ca mānyaś ca sakhye ca viniyujyatām ।।

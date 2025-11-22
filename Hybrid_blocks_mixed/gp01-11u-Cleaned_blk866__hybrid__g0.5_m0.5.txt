@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 866 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atheyam asyāścaryasya paryantaṃ paryālocituṃ tābhir eva gṛhād anyāny api manthana-dāmāni muhur muhur ānāyya sanirbandhaṃ bandham ādadhaty api gaty-antaraṃ na prāpa । tataś ca-

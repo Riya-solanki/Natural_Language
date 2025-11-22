@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 223 | label: meter | g:0.25 m:0.5 ---
+
+hate jarati gāṅgeye puraskṛtya śikhaṇḍinam ।
+yā ślāghā pāṇḍuputrāṇāṃ saivāsmākaṃ bhaviṣyati ।।

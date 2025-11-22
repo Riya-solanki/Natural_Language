@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 707 | label: meter | g:0.194 m:0.5 ---
+
+tatas taiḥ sa kramaḥ sarvaḥ prayuktaḥ śāstrakovidaiḥ 
+tasmin kāle kuruśreṣṭha karma cārabdham uttamam ।।

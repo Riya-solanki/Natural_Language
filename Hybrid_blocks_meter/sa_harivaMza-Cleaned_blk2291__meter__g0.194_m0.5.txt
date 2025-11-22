@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2291 | label: meter | g:0.194 m:0.5 ---
+
+pibantaṃ stanam ālakṣya putraṃ svastho abravīt punaḥ 
+vṛṣayuddhaṃ vinā kena paryastaṃ śakaṭaṃ mama ।।

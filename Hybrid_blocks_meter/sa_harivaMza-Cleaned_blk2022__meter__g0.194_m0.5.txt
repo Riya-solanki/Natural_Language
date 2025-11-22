@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2022 | label: meter | g:0.194 m:0.5 ---
+
+kṛtakārye gate kāle jagatyāṃ ca yathānayam 
+aṃśāvataraṇe vṛtte surāṇāṃ bhārate kule ।।

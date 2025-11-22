@@ -1,0 +1,5 @@
+--- source: visa01cu-Cleaned.txt | block: 99 | label: meter | g:0.25 m:0.85 ---
+
+evamadoṣāviti viśeṣaṇaṃ dūṣayitvā saguṇāviti viśeṣaṇaṃ dūṣayitumāhakiñceti ।
+tena guṇāśrayarasavyañjakatvarūpaparamparāsambandhena śabdārthayorguṇavattvopacāra ityarthaḥ ।
+tathāpyuktaṃ guṇavattvaviśeṃṣaṇamityarthaḥ ।

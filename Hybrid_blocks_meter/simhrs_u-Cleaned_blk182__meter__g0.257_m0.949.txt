@@ -1,0 +1,12 @@
+--- source: simhrs_u-Cleaned.txt | block: 182 | label: meter | g:0.257 m:0.949 ---
+
+tatra prathama-yauvanam-
+īṣac-capala-netrāntaṃ smara-smera-mukhāmbujam ।
+sa-garva-jarajogaṇḍam asamagrāruṇādharam ।। 
+lāvaṇyodbheda-ramyāṅgaṃ vilasad-bhāva-saurabham ।
+unmīlitāṅkura-kucam asphuṭāṅgaka-sandhikam ।। 
+prathamaṃ yauvanaṃ tatra vartamānā mṛgekṣaṇā ।
+apekṣate mṛdu-sparśaṃ sahate noddhatāṃ ratim ।। 
+sakhī-keli-ratā svāṅga-saṃskāra-kalitādarā ।
+na kopa-harṣau bhajate sapatnī-darśanādiṣu । 
+nātirajyati kāntasya saṅgame kiṃ tu lajjate ।।

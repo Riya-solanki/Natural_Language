@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1292 | label: meter | g:0.194 m:0.625 ---
+
+iti śrutvā sa daityendraḥ prāsādaśikhare sthitaḥ 
+krodhāndhakāritamukhaḥ prāha daiteyakiṃkarān ।।

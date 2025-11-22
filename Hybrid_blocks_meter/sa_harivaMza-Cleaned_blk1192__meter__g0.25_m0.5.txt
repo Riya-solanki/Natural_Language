@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1192 | label: meter | g:0.25 m:0.5 ---
+
+satrājito daśa tv āsan bhāryās tāsāṃ śataṃ sutāḥ 
+khyātimantas trayas teṣāṃ bhaṅgakāras tu pūrvajaḥ ।।

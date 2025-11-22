@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1987 | label: meter | g:0.231 m:0.952 ---
+
+śrī-toya-śaila-vasatiḥ sa tamāla-nīlo
+jīyād dharir muni-cakora-suśāradenduḥ ।
+lakṣmī-stanastavaka-kuṅkuma-kardama-śrī-
+saṃlipta-nirmala-viśāla-bhujāntarālaḥ ।।

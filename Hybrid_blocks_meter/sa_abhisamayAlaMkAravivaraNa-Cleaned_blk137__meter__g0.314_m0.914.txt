@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 137 | label: meter | g:0.314 m:0.914 ---
+
+caturṇāmāryasatyānāmākārānupalambhataḥ ।
+śrāvakāṇāmayaṃ mārgo jñeyo mārgajñatānaye ।।

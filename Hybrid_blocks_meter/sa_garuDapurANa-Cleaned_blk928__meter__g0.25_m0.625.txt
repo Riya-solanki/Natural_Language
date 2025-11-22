@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 928 | label: meter | g:0.25 m:0.625 ---
+
+pūrvādiṣu pradeśeṣu hyetāstu paripūjayet ।
+koṇeṣvastraṃ yajedrudra netraṃ madhyai prapūjayet ।।

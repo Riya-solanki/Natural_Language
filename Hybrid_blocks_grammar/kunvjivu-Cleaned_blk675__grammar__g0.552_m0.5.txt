@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 675 | label: grammar | g:0.552 m:0.5 ---
+
+kṣipto hastāvalagnaḥ prasabhamabhihato apyādadānoṃ'śukāntaṃ gṛhṇan keśeṣvapāstaścaraṇanipatito nekṣitaḥ saṃbhrameṇa ।
+āliṅgan yo avadhūtastripurayuvatibhiḥ sāstranetrotpalābhiḥ kāmīvārdrāparādhaḥ sa dahatu duritaṃ śāmbhavo vaḥ śarāgniḥ ।।

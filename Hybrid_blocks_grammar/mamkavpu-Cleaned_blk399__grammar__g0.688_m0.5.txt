@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 399 | label: grammar | g:0.688 m:0.5 ---
+
+atra lipteti payodasuhṛdāmiti ca atyantatiraskṛtavācyayoḥ saṃsṛṣṭiḥ । tābhyāṃ saha rāmo asmītyarthāntarasaṃkramitavācyasyānugrāhakabhāvena rāmapadalakṣaṇaikavyañjakānupraveśena cārthāntarasaṃkramitavācyarasadhvanyoḥ saṃkaraḥ । evamanyadapyudāhāryam ।।

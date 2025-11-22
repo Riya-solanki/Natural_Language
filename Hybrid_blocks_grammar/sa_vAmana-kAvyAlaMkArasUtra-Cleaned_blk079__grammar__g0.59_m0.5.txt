@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 79 | label: grammar | g:0.59 m:0.5 ---
+
+vaitālīyayugmapāde laghvakṣarāṇāṃ paṇṇāṃ nairantaryaṃ nipiddham । tacca kṛtamiti bhinnavṛttatvam ।।
+virasavirāmaṃ yatibhraṣṭam ।।virasaḥ śrutikaṭurvirāmo yasmiṃstad virasavirāmaṃ yatibhraṣṭam ।।taddhātunāmabhāgabhede svarasaṃdhyakṛte prāyeṇa ।।
+tad yatibhraṣṭaṃ dhātubhāgabhede nāmabhāgabhede ca sati bhavati । svarasandhinā kṛte prāyeṇa bāhulyena । dhātubhāgabhede mandākrāntāyāṃ yathā

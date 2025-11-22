@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 28 | label: hybrid | g:0.465 m:0.5 ---
+
+pūrvāntato na upalabhyati bodhisattvo aparāntato api pratiupanna triyadhvaśuddho 
+yo śuddha so anabhisaṃskṛtu niṣprapañco eṣā sa prajñavarapāramitāya caryā ।।

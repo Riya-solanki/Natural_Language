@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11374 | label: hybrid | g:0.5 m:0.5 ---
+
+pāṇigrahaṃ lakṣmaṇāyāśca kṛtvā gatvā purīṃ ramayāmāsa devī ।
+tathaivāhaṃ jāṃbavatyā vivāhaṃ matpatnītve kāraṇaṃ tvāṃ bravīmi ।।

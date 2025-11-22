@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3774 | label: meter | g:0.25 m:0.75 ---
+
+dvijātī natha pāṣaṇḍānannadānena pūjayet ।
+dhvajapatrapatākādyai rathayātrāsu vastrakaiḥ ।
+mahānavamyāṃ pūjeyaṃ jayarājyādidāyikā ।।

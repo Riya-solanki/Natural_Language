@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1055 | label: meter | g:0.232 m:0.843 ---
+
+yathā-
+vimarda-ramyāṇi samatsarāṇi
+vibhejire tair mithunai ratāni ।
+vaiyātya-visrambha-vikalpitāni
+mānāvasādād viśadīkṛtāni ।।

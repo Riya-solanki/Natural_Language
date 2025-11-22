@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 567 | label: meter | g:0.25 m:0.625 ---
+
+vividhadhavavanā nāgagarddharddhanānā vivitatagaganānāmamajjajjanānā ।
+ruruśaśalalanā nāvavandhundhunānā mama hi hitatanānānanasvasvanānā ।।

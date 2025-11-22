@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2894 | label: meter | g:0.25 m:0.5 ---
+
+vratasthasya phalaṃ hy etat kathitaṃ tu mayā priye 
+sāmprataṃ yogamārgeṇa yathā bhavati tac chṛṇu ।।

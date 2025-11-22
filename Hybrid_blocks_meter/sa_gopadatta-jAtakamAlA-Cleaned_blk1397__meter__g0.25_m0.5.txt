@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1397 | label: meter | g:0.25 m:0.5 ---
+
+susrāva kṣatajam athāsya khaḍgadhārāc chedebhyaḥ sphuṭakaradhīrapuṣpatāmram ।
+saṃprāptaghanasamaye vicitrasānor vindhyādrer jalam iva dhātunirjharebhyaḥ ।।

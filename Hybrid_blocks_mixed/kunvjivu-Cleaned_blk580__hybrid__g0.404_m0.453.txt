@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 580 | label: hybrid | g:0.404 m:0.453 ---
+
+avyutpannamanobhavā madhurimasparśollasanmānasā bhinnāntaḥ karaṇaṃ dṛśau mukulayantyāghrātabhūtodbhramāḥ ।
+rāgecchāṃ na samāpayanti manasaḥ khedaṃ vinaivālasā vṛttāntaṃ na vidanti yānti ca vaśaṃ kanyā manojanmanaḥ ।।

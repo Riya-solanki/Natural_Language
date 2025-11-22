@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 23 | label: hybrid | g:0.398 m:0.5 ---
+
+imāni yūthāni vane mṛgāṇāṃ caranti dhāvanti ramanti śaṃbho ।
+tathācirābhāḥ sutarāṃ sphuranti paśyeha nīleṣu ghaneṣu deva ।
+nūnaṃ samṛddhiṃ salilasya dṛṣṭvā caranti śūrāstaruṇadrumeṣu ।।

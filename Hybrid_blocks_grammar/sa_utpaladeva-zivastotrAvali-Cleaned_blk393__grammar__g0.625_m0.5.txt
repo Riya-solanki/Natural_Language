@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 393 | label: grammar | g:0.625 m:0.5 ---
+
+pūjārambhe vibho dhyātvā mantrādheyāṃ tvadātmatām svātmany eva pare bhaktā mānti harṣeṇa na kvacit ।।

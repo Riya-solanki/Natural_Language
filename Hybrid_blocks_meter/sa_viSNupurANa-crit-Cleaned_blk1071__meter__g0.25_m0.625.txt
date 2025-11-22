@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1071 | label: meter | g:0.25 m:0.625 ---
+
+agniputraḥ kumāras tu śarastambe vyajāyata 
+tasya śākho viśākhaś ca naigameyaś ca pṛṣṭhajāḥ ।।

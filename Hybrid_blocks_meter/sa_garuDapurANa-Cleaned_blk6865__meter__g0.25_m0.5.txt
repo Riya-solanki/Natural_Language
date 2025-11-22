@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6865 | label: meter | g:0.25 m:0.5 ---
+
+rāṣṭrasya śaraṇaṃ rājā pitaro bālakasya ca ।
+dharmaśca sarvamartyānāṃ sarvasya śaraṇaṃ hariḥ ।।

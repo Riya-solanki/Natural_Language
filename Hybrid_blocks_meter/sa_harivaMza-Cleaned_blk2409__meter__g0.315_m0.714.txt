@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2409 | label: meter | g:0.315 m:0.714 ---
+
+bhramattūrṇamahāvegā varṣaprāptamahārayāḥ 
+haryantas tīrajān vṛksān vistarāṃ yānti nimnagāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1084 | label: hybrid | g:0.521 m:0.5 ---
+
+vālāgramātram api yatra vicāryamāṇe nekṣāmahe śuci nijāśucigarbharandhre ।
+tasmin ratiṃ katham amī prakhalā labhante kāyādhame nidhanadharmiṇi roganīḍe ।।

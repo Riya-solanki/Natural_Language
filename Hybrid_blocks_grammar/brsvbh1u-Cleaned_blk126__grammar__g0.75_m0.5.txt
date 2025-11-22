@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 126 | label: grammar | g:0.75 m:0.5 ---
+
+-saṃnihitarajatagocarajñānasārūpyeṇeti । atraivaṃ tajjñānasārūpyaṃ-yathedaṃ rajatamitijñānaṃ idamo rajatasya cāsaṃsargaṃ na gṛhṇāti, tayoḥ saṃsṛṣṭatvāt । evamete api smaraṇagrahaṇe svagatabhedaṃ, svaviṣayāsaṃsṛṣṭatvaṃ na nivedayata iti ।

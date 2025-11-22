@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 41 | label: grammar | g:0.583 m:0.5 ---
+
+nityāḥ purastāddhomāḥ saṃsthitahomeṣu mitraḥ pṛthivyā adhyakṣa iti madhyata opya saṃsrāvabhāgaiḥ saṃsthāpayet ।

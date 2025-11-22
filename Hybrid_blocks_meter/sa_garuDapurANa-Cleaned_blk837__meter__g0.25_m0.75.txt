@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 837 | label: meter | g:0.25 m:0.75 ---
+
+tathā pradyumnarūpeṇāniruddhākhyena ca sthitaḥ ।
+nārāyaṇasvarūpeṇa pañcadhā hyadvayaḥ sthitaḥ ।।

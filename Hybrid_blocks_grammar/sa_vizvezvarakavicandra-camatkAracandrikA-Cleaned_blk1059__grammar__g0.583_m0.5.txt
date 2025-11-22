@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1059 | label: grammar | g:0.583 m:0.5 ---
+
+atra vardhamanāyāḥ nāyakakorteḥ pratināyakaśuddhāntakāntāśarīrapradeśeṣu kramasaṃkrāntyā yo ayaṃ paridhānādaupamyalābhaḥ । evaṃ deśato'rthakramaḥ ।

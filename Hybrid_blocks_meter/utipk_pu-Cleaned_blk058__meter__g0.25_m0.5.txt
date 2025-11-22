@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 58 | label: meter | g:0.25 m:0.5 ---
+
+yoginām api bhāsante na dṛśo darśanāntare ।
+svasaṃvidekamānās tā bhānti meyapade api vā ।।

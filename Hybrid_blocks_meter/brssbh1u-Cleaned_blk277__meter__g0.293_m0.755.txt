@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 277 | label: meter | g:0.293 m:0.755 ---
+
+pradarśanamupalakṣaṇam ।
+naca brahkṣatre evātra vivakṣite, mṛtyūpasecanena prāṇabhṛnmātropasthāpanāt ।
+prāṇiṣu pradhānatvena ca brahmakṣatropanyāsasyopapatteḥ ।

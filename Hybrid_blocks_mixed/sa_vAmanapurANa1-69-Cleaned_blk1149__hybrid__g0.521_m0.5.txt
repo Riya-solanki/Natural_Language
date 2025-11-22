@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1149 | label: hybrid | g:0.521 m:0.5 ---
+
+vinandhyo api dṛṣṭvā gagane mahāśramaṃ vṛddhiṃ na yātyeva bhayānmaharṣeḥ ।
+nāsau nivṛtteti matiṃ vidhāya sa saṃsthito nīcatarāgraśṛṅgaḥ ।।

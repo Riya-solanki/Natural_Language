@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 942 | label: meter | g:0.0 m:0.625 ---
+
+taddharmayogyatāṃ buddhvā yogī saṃsādhayenmatam 
+pūrakaṃ kumbhakaṃ vāpi bhajeccandrapathi sthite ।। MT

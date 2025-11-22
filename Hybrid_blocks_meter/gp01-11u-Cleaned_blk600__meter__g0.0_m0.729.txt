@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 600 | label: meter | g:0.0 m:0.729 ---
+
+"kiṃ grahārditatayā sa bālako
+dūnatām agamad eka-rātrataḥ ।"
+ity acintayad amuṃ tadenduvat
+sphītam aikṣata punar vrajādhipaḥ ।। [rathoddhata]

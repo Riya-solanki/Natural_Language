@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3949 | label: meter | g:0.194 m:0.625 ---
+
+śubhāṅgī nāma vaidarbhī kāntidyutisamanvitā 
+pṛthivyām abhavat khyātā rukmiṇas tanayā tadā ।।

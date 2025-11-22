@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 881 | label: meter | g:0.194 m:0.5 ---
+
+āvayor bhagavan yuddhe vijetā ko bhaviṣyati 
+brūhi naḥ sarvabhūteśa śrotum icchāmahe vacaḥ ।।

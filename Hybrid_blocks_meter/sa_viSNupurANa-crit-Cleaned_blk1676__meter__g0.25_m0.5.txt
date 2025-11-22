@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1676 | label: meter | g:0.25 m:0.5 ---
+
+catvāri bhārate varṣe yugāny atra mahāmune 
+kṛtaṃ tretā dvāparaṃ ca kaliś cānyatra na kvacit ।।

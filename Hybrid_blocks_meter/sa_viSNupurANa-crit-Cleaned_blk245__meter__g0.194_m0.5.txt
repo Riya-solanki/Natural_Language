@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 245 | label: meter | g:0.194 m:0.5 ---
+
+paśvādayas te vikhyātās tamaḥprāyā hy avedinaḥ 
+utpathagrāhiṇaś caiva te ajñāne jñānamāninaḥ ।।

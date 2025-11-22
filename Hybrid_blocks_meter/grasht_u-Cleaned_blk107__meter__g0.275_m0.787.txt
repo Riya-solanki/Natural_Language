@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 107 | label: meter | g:0.275 m:0.787 ---
+
+saṃskāra utthāpana
+amunā vimardanena hi suviśuddho nāgavaṅgaparimuktaḥ ।
+sūtaḥ pātanayantre samutthitaḥ kāñjikakvāthāt ।।

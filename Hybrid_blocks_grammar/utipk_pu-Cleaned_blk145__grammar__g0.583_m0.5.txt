@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 145 | label: grammar | g:0.583 m:0.5 ---
+
+bhinnasvābhāsamātraniṣṭhānāṃ jñānānāṃ ko virodhaḥ, tat kathaṃ bādhyabādhkatvam । ekaprāmātṛviśrāntau tu yuktam ।।

@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 304 | label: meter | g:0.368 m:0.531 ---
+
+digādiṣu satsu jñānabhāvāt tānyapi kāraṇānīti akāraṇabhāvepi jñānotpatterdigādisaṃnidheravarjanīyatvāt ।
+yadāpyakāraṇaṃ digādīni jñānotpattau tadāpi satsu digādiṣu jñānena bhavitavyaṃ na hi digādīnāṃ saṃnidhiḥ śakyaḥ parivarjayitumiti।
+tatra kāraṇabhāve hetuvacanam etasmād hetordigādīni jñānakāraṇānīti।
+ātmamanaḥsaṃnikarṣastarhyupasaṃkhyeya iti ।।

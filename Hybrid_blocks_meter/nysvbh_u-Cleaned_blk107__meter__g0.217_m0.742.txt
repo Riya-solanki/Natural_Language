@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 107 | label: meter | g:0.217 m:0.742 ---
+
+smṛtyanumānāgamasaṃśayapratibhāsvapnajñānohāḥ sukhādipratyakṣamicchādayaśca manaso liṅgāni।
+teṣu satsviyamapi

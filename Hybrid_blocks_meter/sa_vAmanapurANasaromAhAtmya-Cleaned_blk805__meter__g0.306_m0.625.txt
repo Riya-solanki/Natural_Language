@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 805 | label: meter | g:0.306 m:0.625 ---
+
+saṃkarasya ca kuhyāni viṣṇoḥ stānāni yāni ca ।
+kathayasya mahābhāga sarasvatyāḥ savistaram ।।

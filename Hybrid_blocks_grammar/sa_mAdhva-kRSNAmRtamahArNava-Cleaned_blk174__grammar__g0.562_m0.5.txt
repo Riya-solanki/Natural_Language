@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 174 | label: grammar | g:0.562 m:0.5 ---
+
+varaṃ svamātṛgamanaṃ varaṃ gomāṃsabhakṣaṇam varaṃ hatyā surāpānam ekādaśyāṃ tu bhojanāt ।।

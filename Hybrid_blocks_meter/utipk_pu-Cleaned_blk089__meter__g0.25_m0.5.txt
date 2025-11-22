@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 89 | label: meter | g:0.25 m:0.5 ---
+
+ātmāta eva caitanyaṃ citkriyā citikartṛtā ।
+tātparyeṇoditas tena jaḍāt sa hi vilakṣaṇaḥ ।।

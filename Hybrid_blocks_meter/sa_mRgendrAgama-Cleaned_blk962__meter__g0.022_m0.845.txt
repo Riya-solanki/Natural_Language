@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 962 | label: meter | g:0.022 m:0.845 ---
+
+parijñāyeti matimān yojayediṣṭasiddhaye 
+kāni prāṇādivṛttīnāṃ sthānānyasmin śarīrake ।। MT

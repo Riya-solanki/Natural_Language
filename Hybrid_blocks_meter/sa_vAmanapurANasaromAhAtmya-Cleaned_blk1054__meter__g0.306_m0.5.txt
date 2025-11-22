@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1054 | label: meter | g:0.306 m:0.5 ---
+
+tīrthayātrāṃ yayau rājā uddiśya janakaṃ svakam ।
+sa teṣu plāvanaṃ kurvastīrtheṣu ca dine dine ।।

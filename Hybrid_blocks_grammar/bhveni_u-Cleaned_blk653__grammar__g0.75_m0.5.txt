@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 653 | label: grammar | g:0.75 m:0.5 ---
+
+āḥ durātmandraupadīkeśāmbarākarṣaṇamahāpātakindhārtarāṣṭrāpasada cirasya khalu kālasya matsaṃmukhamāgato asi । kṣudrapaśo kvedānīṃ gamyate । api ca bho bho rādheyaduryodhanasaubalaprabhṛtayaḥ pāṇḍavavidveṣaṇaścāpapāṇayo mānadhanāḥ śṛṇvantu bhavantaḥ ।

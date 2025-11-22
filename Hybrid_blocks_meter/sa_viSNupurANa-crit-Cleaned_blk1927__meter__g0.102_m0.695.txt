@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1927 | label: meter | g:0.102 m:0.695 ---
+
+mānasottaraśaile tu pūrvato vāsavī purī 
+dakṣiṇena yamasyānyā pratīcyāṃ varuṇasya ca 
+uttareṇa ca somasya tāsāṃ nāmāni me śṛṇu ।।

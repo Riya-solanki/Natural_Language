@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 962 | label: meter | g:0.25 m:0.625 ---
+
+aṅgino ananusaṃdhānaṃ prakṛtīnāṃ viparyayaḥ ।
+anaṅgasyābhidhānaṃ ca rase doṣāḥ syurīdṛśāḥ ।।

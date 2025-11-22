@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 681 | label: hybrid | g:0.492 m:0.438 ---
+
+avasthitivaiśeṣyāditi cennābhyupagamāddhṛdi hi ।
+candanabindoḥ pratyakṣato alpīyastvaṃ buddhvā yuktā kalpanā bhavati, yasya tu saṃdigdhamaṇutvaṃ sarvāṅgīṇaṃ ca kāryamupalabhyate tasya vyāpitvamautsargikamapahāya neyaṃ kalpanāvakāśaṃ labhata iti śaṅkārthaḥ ।
+naca haricandanabindudṛṣṭāntenāṇatvānumānaṃ jīvasya,

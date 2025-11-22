@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 32 | label: meter | g:0.25 m:0.5 ---
+
+tatra tatra sthite tat tad bhavatīty eva dṛśyate 
+nānyan nānyo asti saṃbandhaḥ kāryakāraṇabhāvataḥ ।।

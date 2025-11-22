@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 139 | label: meter | g:0.194 m:0.5 ---
+
+sa eva sarvabhūteśo viśvarūpo yato avyayaḥ 
+sargādikaṃ tato asyaiva bhūtastham upakārakam ।।

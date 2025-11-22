@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3572 | label: grammar | g:0.75 m:0.5 ---
+
+khaṭvāṅgād dīrghabāhuḥ putro abhavat । tato raghus tasmād apy ajaḥ । ajād daśaratho daśarathasyāpi bhagavān abjanābho jagatsthityartham ātmāṃśena rāmalakṣmaṇabharataśatrughnarūpiṇā caturdhā putratvam āyāsīt । rāmo api bāla eva viśvāmitrayajñarakṣaṇāya gacchaṃs tāṭakāṃ jaghāna ।।

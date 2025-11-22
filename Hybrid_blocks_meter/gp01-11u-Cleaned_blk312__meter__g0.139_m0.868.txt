@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 312 | label: meter | g:0.139 m:0.868 ---
+
+vidhāya gā gokula-sammukhīnā,
+mahā-taru-cchāyam upāsya kṛṣṇaḥ ।
+devopadeva-stuti-gīta-vādyaṃ
+śṛṇvan muhuḥ prāpa taṭaṃ vrajasya ।। [upajāti]

@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3256 | label: meter | g:0.102 m:0.555 ---
+
+ekadā tu samaṃ snātau tau tu bhāryāpatī jale 
+bhāgīrathyāḥ samuttīrṇau kārttikyāṃ samupoṣitau 
+pāṣaṇḍinam apaśyetām āyāntaṃ saṃmukhaṃ dvija ।।

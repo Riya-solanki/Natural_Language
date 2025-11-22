@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 61 | label: meter | g:0.25 m:0.75 ---
+
+srotāṃsi kāmikādyūrdhvam asitāṅgādi dakṣiṇam ।
+sammohādyuttaraṃ prācyaṃ trotalādi suvistaram ।
+āpyaṃ caṇḍāsidhārādi caṇḍanāthaparigraham ।

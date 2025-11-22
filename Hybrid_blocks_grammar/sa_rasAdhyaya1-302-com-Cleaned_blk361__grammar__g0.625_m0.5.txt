@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 361 | label: grammar | g:0.625 m:0.5 ---
+
+evaṃ kurvatā yadi kāntalohacūrṇacatuḥṣaṣṭitamo jīrṇo bhavati tadā punarapi catuḥṣaṣṭitamabhāgena kāntalohacūrṇaṃ kṣiptvā thūthāviḍena peṣaṇīyam ।।

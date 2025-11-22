@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9172 | label: meter | g:0.306 m:0.625 ---
+
+kāmaḥ krodho bhayaṃ lajjā mano harṣaḥ sukhāsukham ।
+citritaṃ chidritañcāpi nānājālena veṣṭitam ।।

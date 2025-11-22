@@ -1,0 +1,8 @@
+--- source: brssbh2u-Cleaned.txt | block: 90 | label: meter | g:0.253 m:0.539 ---
+
+itaśca kāraṇādananyatvaṃ kāryasya, yatkāraṇaṃ bhāva eva kāraṇasya kāryamupalabhyate, nābhāve ।
+tadyathā satyāṃ mṛdi ghaṭa upalabhyate satsu ca tantuṣu paṭaḥ ।
+naca niyamenānyabhāve anyasyopalabdhirdṛṣṭā ।
+nahyaśvo goranyaḥ san gorbhāva evopalabhyate ।
+naca kulālabhāva eva ghaṭa upalabhyate ।
+satyapi nimittanaimittikabhāve anyatvāt ।

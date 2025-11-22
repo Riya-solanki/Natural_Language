@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5869 | label: meter | g:0.25 m:0.625 ---
+
+trikoṇaṃ svasthikairyuktaṃ jvālāmā lānalaṃ smaret ।
+bhinnāñjananibhākāraṃ svavṛttaṃ bindubhūṣitam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3473 | label: meter | g:0.306 m:0.5 ---
+
+tato aparo yojanakoṭibhistu ṣaḍbhistapo nāma tapasvijuṣṭaḥ ।
+tiṣṭhanti yatrāsura sādhyavaryā yeṣāṃ hi naśvāsamarut tvasahyaḥ ।।

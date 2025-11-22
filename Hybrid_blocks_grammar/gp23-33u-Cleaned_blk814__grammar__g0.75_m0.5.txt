@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 814 | label: grammar | g:0.75 m:0.5 ---
+
+[] tathāpi nāsūyan khalu kṛṣṇāya [BhP ] itivad asūyābhāsavattayā sambhāvitās tat-patiṃ-manyāḥ samādhātavyāḥ । tac ca tad-rahasyaṃ pūrvaṃ guptam āsīd iti māyā-dvārā yathā-guptaṃ samāhitam । sāmprataṃ tu vyaktam abhūd iti tathā tad-dvārā vyaktam eva samādheyam । yena ca sarveṣām api sarva-samādhānam ādheyaṃ bhavitā, anyathā tat-tat-karaṇaṃ vṛthā-paraṃ syāt iti ।

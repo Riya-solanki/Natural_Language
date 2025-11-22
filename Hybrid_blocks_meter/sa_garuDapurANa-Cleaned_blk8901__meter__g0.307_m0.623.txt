@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8901 | label: meter | g:0.307 m:0.623 ---
+
+bhrātā vā bhrātṛputtro vā sapiṇḍaḥ śiṣya eva vā ।
+sapiṇḍanakriyāṃ kṛtvā kuryānnāndīmukhaṃ tataḥ ।।

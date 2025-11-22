@@ -1,0 +1,9 @@
+--- source: vacbhamu-Cleaned.txt | block: 381 | label: meter | g:0.253 m:0.939 ---
+
+antara upapatteḥ ।
+nanu aantastaddharmopadeśāt' ityanenaivaitadgatārtham ।
+santi khalvatrāpyamṛtatvābhayatvādayo brahmadharmāḥ pratibimbajīvadevatāsvasaṃbavinaḥ ।
+tasmādbrahmadharmopadeśādbrahmaivātra vivakṣitam ।
+sākṣācca brahmaśabdopādānāt ।
+ucyate-'eṣa dṛśyata ityetatpratyakṣer'the prayujyate ।
+parokṣaṃ brahma na tathā pratibimbe tu yujyate ।।

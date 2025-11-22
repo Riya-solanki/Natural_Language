@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2406 | label: meter | g:0.194 m:0.75 ---
+
+kvacit kadambahāsāḍhyaṃ silindhrābharaṇaṃ kvacit 
+saṃpradīptaṃ ivābhāti phullanīpadrumaṃ vanam ।।

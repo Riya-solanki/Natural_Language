@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 811 | label: grammar | g:0.75 m:0.5 ---
+
+upāṃśvantaryāmau ca cet te prāṇāpānau pātām । upāṃśusavanas te vyānaṃ pātu । śrotraṃ cāśvinau pātāṃ । dakṣakratū te mitrāvaruṇau pātāṃ । stana ity ṛtupātre । ātmānaṃ ta āgrayaṇaḥ pātu । aṅgāni ca ta ukthyaḥ pātu । āyuṣ ṭe dhruvaḥ pātu । vīryaṃ te lakṣmīḥ pātv iti juhuyāt ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4535 | label: meter | g:0.194 m:0.5 ---
+
+te kṛṣṇasya vacaḥ śrutvā pratigṛhya ca parvatāḥ 
+pradaduḥ kāmato mārgaṃ gacchato bharatarṣabha ।।

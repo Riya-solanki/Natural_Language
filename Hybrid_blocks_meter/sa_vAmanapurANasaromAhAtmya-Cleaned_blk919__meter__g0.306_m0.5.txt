@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 919 | label: meter | g:0.306 m:0.5 ---
+
+iha ye puruṣāḥ kecid brāhmaṇāḥ kṣatriyā viśaḥ ।
+liṅgasya darśanādeva paśyanti paramaṃ padam ।।

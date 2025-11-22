@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8613 | label: meter | g:0.25 m:0.75 ---
+
+caturyuktāśīti lakṣairnarakaiḥ paryupāsitāḥ ।
+yamena rakṣitāstatra bhūtaiścaiva sahasraśaḥ ।।

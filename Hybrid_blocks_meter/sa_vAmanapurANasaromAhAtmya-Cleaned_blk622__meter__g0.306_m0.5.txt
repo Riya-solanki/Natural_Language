@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 622 | label: meter | g:0.306 m:0.5 ---
+
+tato munestadā kṣobhādretaḥ skannaṃ yadambhasi ।
+tadretaḥ sa tu jagrāha kalaśe vai mahātapāḥ ।।

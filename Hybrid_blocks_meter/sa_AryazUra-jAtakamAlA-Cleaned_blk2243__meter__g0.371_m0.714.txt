@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2243 | label: meter | g:0.371 m:0.714 ---
+
+yasmin sādhūpacīrṇe api mitradharmo na lakṣyate ।
+aniṣṭhuramasaṃrabdhamapayāyācchanaistataḥ ।।

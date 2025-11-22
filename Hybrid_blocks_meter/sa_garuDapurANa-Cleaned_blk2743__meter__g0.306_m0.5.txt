@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2743 | label: meter | g:0.306 m:0.5 ---
+
+somaḥ śaucaṃ dadau tāsāṃ gandharvaśca subhāṃ giram ।
+pāvakaḥ sarvamedhyatvaṃ medhyā vai yoṣito yataḥ ।।

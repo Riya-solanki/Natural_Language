@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 206 | label: meter | g:0.306 m:0.625 ---
+
+nāpare na pare tīre nāntarāle tayoḥ sthitā ।
+adhvanāṃ samatājñānāt prajñāpāramitā matā ।।

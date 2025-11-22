@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2061 | label: meter | g:0.25 m:0.5 ---
+
+ādāya tatsakalameva tato annabhāṇḍaṃ jambīrajātarasayojanayā vipakram ।
+ghṛṣṭaṃ tato mṛdutanūkṛtapiṇḍamūlaiḥ kuryādyatheṣṭamanu mauktikamāśu viddham ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 311 | label: meter | g:0.194 m:0.5 ---
+
+{khalavavahārā dīsanti dāruṇā jahavi tahavi dhīrāṇaṃ ।
+hiaavaassavahumaā ṇa hu vavasāā vimujjhanti ।। }
+[khalavyavahārāḥ dṛśyante dāruṇāḥ yadyapi tathāpi dhīrāṇām ।
+hṛdayavayasyabahumatāḥ na khalu vyavasāyāḥ vimuhyanti ।।]

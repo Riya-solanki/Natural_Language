@@ -1,0 +1,5 @@
+--- source: jalmugpu-Cleaned.txt | block: 8 | label: hybrid | g:0.486 m:0.396 ---
+
+mūḍho nirvyasano vaṇig vikapaṭo rājādhikārī śuciḥ svādhīno bhṛtako jaḍo guṇarataś cauro vyapetaspṛhaḥ ।
+bhītaḥ śāntamatir vitaḥ savinayaḥ karṇejapo dhārmikaḥ kiṃ kutrāpi kadāpi ko api bhavitā veśyājano rāgavān ।।
+{ for bhītaḥ var nītaḥ}

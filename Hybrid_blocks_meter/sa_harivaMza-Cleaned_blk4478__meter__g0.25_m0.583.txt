@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4478 | label: meter | g:0.25 m:0.583 ---
+
+punar eva mahābāho kṛṣṇasya jagatīpateḥ 
+kṛtārthāḥ sarvathā vipra nārāyaṇasamāśrayāt । 
+jātā hi vayam adyaiva tatkathāśravaṇād dvija । 
+ity uktaḥ sa smitaṃ kṛtvā praṇamya munipuṃgavam । 
+māhātmyaṃ śrotum icchāmi paramaṃ dvijasattama ।।

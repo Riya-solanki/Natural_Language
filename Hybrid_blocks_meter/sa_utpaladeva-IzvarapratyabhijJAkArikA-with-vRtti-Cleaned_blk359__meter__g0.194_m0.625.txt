@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 359 | label: meter | g:0.194 m:0.625 ---
+
+prāṇāpānamayaḥ prāṇaḥ pratyekaṃ suptajāgratoḥ 
+tacchedātmā samānākhyaḥ sauṣupte viṣuvatsv iva ।।

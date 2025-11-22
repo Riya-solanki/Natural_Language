@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 472 | label: grammar | g:0.568 m:0.289 ---
+
+neti brūmaḥ - atasmādvā etasmādātmana ākāśaḥ saṃbhūtaḥ' iti purastātsaṃbhavatyapādānasyātmanaḥ pañcamīnirdeśātsa, tasyaiva ca saṃbhavaterihādhikārāt, parastādapi ca tadadhikāre apṛthivyā oṣadhayaḥ' ityapādānapañcamīdarśanādvāyoragnirityapādānapañcamyevaiṣeti gamyate ।
+apica vāyorūrdhvamagniḥ saṃbhūta iti kalpya upapadārthayogaḥ kḷptastu kārakārthayogo vāyoragni saṃbhūta iti ।
+tasmādeṣā śrutirvāyuyonitvaṃ tejaso avagamayati ।

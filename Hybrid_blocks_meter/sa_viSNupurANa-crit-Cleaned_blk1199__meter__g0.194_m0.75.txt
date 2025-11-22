@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1199 | label: meter | g:0.194 m:0.75 ---
+
+garbhavāsādi yāvat tu punarjanmopapādanam 
+samastāvasthakaṃ tāvad duḥkham evāvagamyatām ।।

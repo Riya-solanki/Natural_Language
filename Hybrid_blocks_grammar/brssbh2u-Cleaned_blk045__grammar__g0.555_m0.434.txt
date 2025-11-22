@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 45 | label: grammar | g:0.555 m:0.434 ---
+
+atrāha- yadi sthaulyasāvayavatvācetanatvaparicchinnatvāśuddhyādidharmakaṃ kāryaṃ brahmakāraṇamabhyupagamyeta tadapītau pralaye pratisaṃsṛjyamānaṃ kāryaṃ kāraṇāvibhāgamāpadyamānaṃ kāraṇamātmīyena dharmeṇa dūṣayedityapītau kāraṇasyāpi brahmaṇaḥ kāryasyevāśuddhyādirūpaprasaṅgātsarvajñaṃ brahma jagatkāraṇamityasamañjasamidamaupaniṣadaṃ darśanam ।
+apica samastasya vibhāgasyāvibhāgaprāpteḥ punarutpattau niyamakāraṇābhāvādbhoktṛbhogyādivibhāgenotpattirna prāpnotītyasamañjasam ।
+apica bhoktṛṇāṃ pareṇa brahmaṇāvibhāgaṃ gatānāṃ karmādinimittapralaye api punarutpattāvabhyupagamyamānāyāṃ muktānāmapi punaruttattiprasaṅgādasamañjasam ।
+athedaṃ jagadapītāvapi vibhaktameva pareṇa brahmaṇāvatiṣṭheta, evamapyapītīśca na saṃbhavati, kāraṇāvyatiriktaṃ ca kāryaṃ na saṃbhavatītyasamañjasameveti ।।

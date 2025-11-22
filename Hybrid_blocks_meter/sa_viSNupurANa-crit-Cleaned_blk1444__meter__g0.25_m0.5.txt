@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1444 | label: meter | g:0.25 m:0.5 ---
+
+sa ca tasyai varaṃ prādād bhāryāyai munisattamaḥ 
+dattvā ca varam avyagraḥ kaśyapas tām uvāca ha ।।

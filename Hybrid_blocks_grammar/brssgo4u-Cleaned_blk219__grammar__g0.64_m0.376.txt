@@ -1,0 +1,7 @@
+--- source: brssgo4u-Cleaned.txt | block: 219 | label: grammar | g:0.64 m:0.376 ---
+
+asti hārdavidyā - aatha yadidamasminbrahmapure daharaṃ puṇḍarīkaṃ veśma' iti upakramya vihitā ।
+tat prakriyāyām aatha yā etā hṛdayasya nāḍyaḥ' iti upakramya saprapañcaṃ nāḍīraśmisaṃbandham uktvā uktam aatha yatraitadasmāccharīrādutkrāmatyathaitaireva raśmibhirūrdhvamākramate' iti ।
+punaḥ ca uktam atayordhvamāyannamṛtatvameti' iti ।
+tasmāt śatādhikayā nāḍyā niṣkrāman raśmi anusārī niṣkrāmati iti gamyate ।
+tat kiṃm aviśeṣeṇa eva ahani rātrau vā mriyamāṇasya raśmi anusāritvam āhosvit ahani eva iti saṃśaye sati aviśeṣaśravaṇāt aviśeṣeṇa eva tāvat raśmi anusāri iti pratijñāyate ।।

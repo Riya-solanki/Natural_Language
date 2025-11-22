@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4861 | label: meter | g:0.25 m:0.75 ---
+
+vātaśoṇitasaṃśotho jānumadhye mahārujaḥ ।
+jñeyaḥ kroṣṭukaśīrṣastu sthūlakroṣṭukaśīrṣavat ।।

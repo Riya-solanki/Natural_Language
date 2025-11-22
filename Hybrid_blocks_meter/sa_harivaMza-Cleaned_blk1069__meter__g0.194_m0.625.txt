@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1069 | label: meter | g:0.194 m:0.625 ---
+
+śrutvā pañcavisargaṃ tu rājā dharmārthakovidaḥ 
+vaśī bhavati pañcānām ātmajānāṃ tatheśvaraḥ ।।

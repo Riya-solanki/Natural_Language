@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11842 | label: meter | g:0.306 m:0.5 ---
+
+pitryaṃ nayāmi pravihāyaiva ye tu pitruddeśātkevalaṃ yaḥ karoti ।
+sa pāpātmā narakānvai prayātītyetadvākyaṃ satyametadbravīmi ।।

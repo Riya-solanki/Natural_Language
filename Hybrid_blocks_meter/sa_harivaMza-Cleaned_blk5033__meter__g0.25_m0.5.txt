@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5033 | label: meter | g:0.25 m:0.5 ---
+
+tato asya vijñāya cikīrṣitaṃ tadā kṛṣṇo mahātmā sahasājagāma 
+pārikṣitaṃ draṣṭum adīnasattvam dvaipāyanaḥ sarvaparāvarajñaḥ ।।

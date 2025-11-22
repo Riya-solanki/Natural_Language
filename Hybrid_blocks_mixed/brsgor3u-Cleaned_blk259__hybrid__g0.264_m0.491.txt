@@ -1,0 +1,5 @@
+--- source: brsgor3u-Cleaned.txt | block: 259 | label: hybrid | g:0.264 m:0.491 ---
+
+kiñca pūrvottarabrāhmaṇayoḥ svatantravidyāvidhānāttanmadhyasthasyāpi brāhmaṇasya svatantravidyāvidhiparatvamityāha-pareṇa ceti ।
+cite agnau lokadṛṣṭividhānaṃ svatantramuttaratra gamyate pūrvatra maṇḍalapuruṣopāstistatsāṃnidhyānmadhye api mānasāgnayaḥ svatantrā ityarthaḥ ।
+tarhi kriyāgninā saha pāṭhaḥ kimarthamityata āha-bhūyāṃsastviti ।।

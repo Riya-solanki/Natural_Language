@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4457 | label: meter | g:0.25 m:0.5 ---
+
+śrūyante girayaś cāmī vane asmin kāmarūpiṇaḥ 
+tat tad rūpaṃ samāsthāya ramante sveṣu sānuṣu ।।

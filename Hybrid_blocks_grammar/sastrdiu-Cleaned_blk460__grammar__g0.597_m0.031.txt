@@ -1,0 +1,12 @@
+--- source: sastrdiu-Cleaned.txt | block: 460 | label: grammar | g:0.597 m:0.031 ---
+
+yastvevaṃvidhānvādānyathāśrutārthāngṛhṇāti sa paśvantareṣvapaśutvavādaṃ ādityo yūpaḥ ityādi ca yathāśrutaṃ gṛhṇīyāt ।
+atha tatra pramāṇāntaravirodhaḥ so atrāpi samānaḥ ।
+athārthavādatvāttatra na yathāśrutārthagrahaṇaṃ, tadapi samānam ।
+prapañcasyāpyasatyatvaṃ vairāgyajananārtham, ātmanaśca paramārthatvaṃ mumukṣūṇāmutsāhajananārthaṃ ।
+vispaṣṭaṃ caitanmṛtpiṇḍavikāradṛṣṭāntadarśanāt ।
+tataśca yathā kāraṇabhūtamṛtpiṇḍajñānena mṛnmayo vikāraḥ sarvo vijñāto bhavati śarāvādivikāro hi vācārambhaṇaṃ nāmadheyamātraṃ mṛttikasyaiva satyaṃ, evaṃ prapañcasyeva satyaṃ, evaṃ prapañcopi sadvijñānena vijñāto bhavati vikāro hi vācārambhaṇaṃ nāmadheyamātraṃ sadityeva satyamityukte jñāyata etat yathāvirbhāvatirobhāvadharmā nānāvidho vikāraḥ śarāvādiḥ prapañco mṛttikā ca sarvatrānapāyinī teṣāṃ kāraṇaṃ kāryakāraṇayoścāvasthāmātrabhedātsvarūpabhedābhāvātkāraṇajñānena tatsarvaṃ kāryamavasthābhedenājñātamapi svarūpeṇa jñātaṃ bhavati ।
+tathā prapañcopyāvirbhāvatirobhāvadharmānavasthāyī tatkāraṇaṃ cātmā sadrūpaḥ sarvānuyāyī nāpāyadharmā ।
+tasminvijñāte sarvaṃ tadātmakamavijñātamapi vyāsarūpeṇa samāsena jñātaṃ bhavatītyetadatra vivakṣitamiti, tasmādekasyaivātmanaḥ pariṇāmo ayaṃ bhedaprapañco nanvasanneva ।
+asatve hi kathaṃ sadvijñānena vijñātaḥ syācchaśaviṣāṇavat ।
+na hi mṛtpiṇḍe vijñāte sati śaśaviṣāṇaṃ vijñātaṃ bhavati tathā prapañcopi syāt, tatastu prastutahānireva syāt ekopyātmāntaḥkaraṇopādhibhedādbhinno jīva ityucyate jīvabhedācca bandhamuktivyavasthāpyupapanneti ।।

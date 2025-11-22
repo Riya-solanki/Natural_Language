@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 25 | label: grammar | g:0.75 m:0.5 ---
+
+[] tadā ca dina-katipayānantaraṃ sabhāyāṃ bhāsamānāyāṃ śrī-vraja-rājasya vailakṣyam ālakṣya sarve' narvācīna-gopā mitho nirīkṣya hasanti sma । [] tatra ca śrī-vraja-rāje kathaṃ katham? iti sa-smitam uktavati vadanti sma, yad asmābhir akasmād vismāyanam anubhūtam, tad eva bhavadbhir apīti sambhāvyate ।

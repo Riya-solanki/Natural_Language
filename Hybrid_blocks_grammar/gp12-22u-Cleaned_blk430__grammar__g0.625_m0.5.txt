@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 430 | label: grammar | g:0.625 m:0.5 ---
+
+[] atha sāśru-vṛndāṃ vṛndāṃ praṇamantīm eva ramā-ramaṇas tu vanamālayā puraskurvan vana-mālayā puraścakāreti gamayāmāsa ।

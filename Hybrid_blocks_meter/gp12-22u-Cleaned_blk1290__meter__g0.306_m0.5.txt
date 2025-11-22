@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1290 | label: meter | g:0.306 m:0.5 ---
+
+kṣaṇād uccaiḥ kṣaṇān nīcair gati-bhājāṃ kanīyasām ।
+reṇūnām iva kārmāṇāṃ viṣamā rītir īkṣyate ।।
+pūrvī kṛṣṇasya sevāyām iṣṭī vā tatra yaḥ sadā ।
+adhītī vā bhāgavate bhakta-pūrvī sa taṃ bhajet ।।

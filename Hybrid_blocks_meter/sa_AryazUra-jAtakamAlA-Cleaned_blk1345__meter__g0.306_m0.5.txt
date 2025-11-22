@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1345 | label: meter | g:0.306 m:0.5 ---
+
+alabdhagādhā navasaṃstave jane na yānti kāmaṃ praṇayapragalbhatām ।
+vacastu dākṣiṇyasamāhitākṣaraṃ na te na jalpantyupacāraśībharam ।।

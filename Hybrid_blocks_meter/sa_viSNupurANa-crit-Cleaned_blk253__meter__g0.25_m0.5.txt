@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 253 | label: meter | g:0.25 m:0.5 ---
+
+tasmāt te duḥkhabahulā bhūyo bhūyaś ca kāriṇaḥ 
+prakāśā bahir antaś ca manuṣyāḥ sādhakās tu te ।।

@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1092 | label: grammar | g:0.646 m:0.5 ---
+
+mārdhe sahoktiḥ । uttarārdhe śeṣakīrti meteṣāṃ saṅkaraḥ kāvyacamatkāramakalaṅkamaṅkurayati । evaṃ saṅkarāntarāṇi yathāsaṃbhavaṃ mahākaviprabandheṣu rasajñairanusandheyāni ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2250 | label: meter | g:0.306 m:0.625 ---
+
+maduno aṣṭau jalasyoktāḥ sarve te dviguṇāḥ surāḥ ।
+tato rocanayā devamaṣṭottaraśatena hi ।।

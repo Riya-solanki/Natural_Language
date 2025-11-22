@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 878 | label: meter | g:0.194 m:0.646 ---
+
+kṛtvā vyāghrabhayān namo bhagavate buddhāya sarvātmanā
+nāmnaivānupamasya puṇyamahatīm ālokya nāndīṃ pumān ।
+niḥśeṣavyasanāndhakāragahanapradhvaṃsinīṃ prāptavāñ
+chāntiṃ kām api vāgatītaviṣayāṃ prahlādasaṃvardhanīm ।।

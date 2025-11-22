@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3619 | label: meter | g:0.306 m:0.5 ---
+
+utthito vā niṣaṇṇo vā [caṅkramanvā] yathā tathā ।
+vāmamudrāguhyakaraḥ sarvaṃ kurvaṃ sa sidhyatī- ।।

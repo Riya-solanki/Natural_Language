@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3851 | label: meter | g:0.194 m:0.75 ---
+
+saṃkhyānaṃ yādavānāṃ kaḥ kariṣyati mahātmanām 
+yatrāyutānām ayutaṃ lakṣeṇāste sadāhukaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 8 | label: grammar | g:0.646 m:0.5 ---
+
+tad alpam api nopekṣyaṃ kāvye duṣṭaṃ kathaṃ cana syād vapuḥ sundaram api śvitreṇaikena durbhagam ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 67 | label: grammar | g:0.559 m:0.5 ---
+
+amī ye dṛśyante nanu subhagarūpāḥ saphalatā bhavaty eṣāṃ yasya kṣaṇam upagatānāṃ viṣayatām 
+nirāloke loke katham idam aho cakṣur adhunā samaṃ jātaṃ sarvair na samam athavānyair avayavaiḥ ।।

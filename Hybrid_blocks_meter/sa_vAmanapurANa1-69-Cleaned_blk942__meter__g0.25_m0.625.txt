@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 942 | label: meter | g:0.25 m:0.625 ---
+
+yathāmī kamalāḥ ślakṣṇā raṇadbhṛṅgaṇāvṛtāḥ ।
+vikacāḥ pratibhāsante jātaḥ sūryodayo dhruvam ।।

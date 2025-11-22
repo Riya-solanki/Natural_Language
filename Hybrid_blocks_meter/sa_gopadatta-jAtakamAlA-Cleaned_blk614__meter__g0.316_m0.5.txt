@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 614 | label: meter | g:0.316 m:0.5 ---
+
+duḥkhadviṣā hṛdi na lobhakalir niṣevyo janmāntaropacitalobhaviṣāśayasya ।
+śāntātmano api kila nirvivaraṃ babhūva bhaktābhihārasamaye mukham eva bhikṣoḥ ।।

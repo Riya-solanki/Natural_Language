@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1650 | label: meter | g:0.194 m:0.5 ---
+
+{vibhinnavarṇā garuḍāgrajena sūryasya rathyāḥ paritaḥ sphurantyā ।
+ratnaiḥ punaryatra rucā rucaṃ svāmāninyire vaṃśakarīranīlaiḥ ।।}

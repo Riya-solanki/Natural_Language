@@ -1,0 +1,5 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 132 | label: meter | g:0.25 m:0.538 ---
+
+kati niṣpannāḥ । pañcādhyātmikāḥ । caturṇāmekadeśaḥ ।।
+katyaniṣpannāḥ śiṣṭā daśa, caturṇāmekadeśaśca ।।
+kati sabhāgāḥ । ādhyātmikāḥ pañca rūpiṇaḥ । svavijñānasahitaviṣayasadṛśatāmupādāya ।।

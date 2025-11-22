@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1221 | label: meter | g:0.306 m:0.5 ---
+
+bhavatparitrāṇamaye sukhodaye niyojya kāyaṃ niyataṃ mayāpsyate ।
+abhedyam acchedyam ahāryam avyayaṃ niruttaraṃ dharmaśarīram avraṇam ।।

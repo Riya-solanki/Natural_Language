@@ -1,0 +1,8 @@
+--- source: kunvjivu-Cleaned.txt | block: 374 | label: meter | g:0.257 m:0.991 ---
+
+abhidheyāntaratamastasyātiśayapoṣakaḥ ।
+ramyacchāyāntarasparśāttadalaṅkartumīśvaraḥ ।।
+svayaṃ viśeṣaṇenāpi svacchāyotkarṣapeśalaḥ ।
+asaṃbhāvyārthapātratvagarbhaṃ yaścābhidhīyate ।।
+alaṅkāropasaṃskāramanohārinibandhanaḥ ।
+paryāyastena vaicitryaṃ parā paryāyavakratā ।।

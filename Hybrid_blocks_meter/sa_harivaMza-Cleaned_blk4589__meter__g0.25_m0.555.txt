@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4589 | label: meter | g:0.25 m:0.555 ---
+
+karmāṇy aparimeyāni śrutāni dvijasattama 
+bhūya eva mahābāhor yadusiṃhasya dhīmataḥ । 
+tvattaḥ śrutavatāṃ śreṣṭha vāsudevasya dhīmataḥ ।।

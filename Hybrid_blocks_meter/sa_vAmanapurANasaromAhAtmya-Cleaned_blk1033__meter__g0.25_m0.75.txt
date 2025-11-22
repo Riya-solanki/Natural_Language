@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1033 | label: meter | g:0.25 m:0.75 ---
+
+pitā mama durācāro devabrāhmaṇanindakaḥ ।
+svakarmarahito vipra paralokamavāptavān ।।

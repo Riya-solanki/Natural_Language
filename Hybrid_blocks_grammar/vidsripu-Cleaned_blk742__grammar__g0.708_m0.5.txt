@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 742 | label: grammar | g:0.708 m:0.5 ---
+
+āhāre viratiḥ samastaviṣayagrāme nivṛttiḥ parā nāsāgre nayanaṃ yad etad aparaṃ yac caikatānaṃ manaḥ ।
+maunaṃ cedam idaṃ ca śūnyam akhilaṃ yad viśvam ābhāti te tad brūyāḥ sakhi yoginī kim asi bhoḥ kiṃ vā viyoginy asi ।।

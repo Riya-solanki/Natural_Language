@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3083 | label: meter | g:0.306 m:0.5 ---
+
+tasyāḥ pradakṣiṇāṃ kṛtvā dṛṣṭvā śailaṃ ca suprabham ।
+dadṛśe dānavān sarvān saṃhṛṣṭān bhogasaṃyutān ।।

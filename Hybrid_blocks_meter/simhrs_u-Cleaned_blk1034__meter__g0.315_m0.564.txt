@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1034 | label: meter | g:0.315 m:0.564 ---
+
+atha sambhramāt-
+āvegaḥ sambhramaḥ so' pi naiko divyādibhedataḥ ।।

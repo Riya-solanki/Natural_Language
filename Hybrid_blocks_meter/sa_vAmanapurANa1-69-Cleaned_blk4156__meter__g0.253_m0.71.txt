@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4156 | label: meter | g:0.253 m:0.71 ---
+
+bharadvāja uvāca ।
+svecchayā tiṣṭha vā gaccha nāhamājñāpayāmi te ।
+gamiṣyāmo vayaṃ viṣṇo baleradhvaraṃ mā khida ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 117 | label: meter | g:0.25 m:0.625 ---
+
+bhavopabhogaspṛhalālasāḥ svayaṃ praviśya saṃmohatamisradurdinān ।
+caranti mattā iva bhagnalocanā ghanāndhakāre viparītabuddhayaḥ ।।

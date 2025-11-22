@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1583 | label: grammar | g:0.698 m:0.375 ---
+
+dvayoratyantavilakṣaṇatayā yat anupapadyamānatayaiva yogaḥ pratīyate yacca kiñcidārabhamāṇaḥ kartā kriyāyāḥ praṇāśāt na kevalamabhīṣṭaṃ yat phalaṃ na labhet yāvadaprārthitamapyanarthaṃ viṣayamāsādayet tathā satyapi kāryasya kāraṇarūpānukāre tat tayorguṇau kriye ca parasparaṃ viruddhatāṃ vrajataḥ sa samaviparyayātmā catūrūpo viṣamaḥ ।।
+krameṇodāharaṇam

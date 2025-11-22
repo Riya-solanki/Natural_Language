@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 64 | label: hybrid | g:0.507 m:0.5 ---
+
+tasyotsaṅge praṇayina iva srastagaṅgādugūlāṃ na tvaṃ dṛṣṭvā na punar alakāṃ jñāsyase kāmacārin 
+yā vaḥ kāle vahati salilodgāram uccairvimānā muktājālagrathitam alakaṃ kāminīvābhravṛndam ।।

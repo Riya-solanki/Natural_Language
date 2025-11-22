@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 327 | label: meter | g:0.194 m:0.75 ---
+
+svāṅgarūpeṣu bhāveṣu pramātā kathyate patiḥ 
+māyāto bhediṣu kleśakarmādikaluṣaḥ paśuḥ ।।

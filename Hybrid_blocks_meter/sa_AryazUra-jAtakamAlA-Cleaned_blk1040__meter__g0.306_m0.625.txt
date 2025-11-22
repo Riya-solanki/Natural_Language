@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1040 | label: meter | g:0.306 m:0.625 ---
+
+paraprasādārjitavṛttirapyato rame vanānteṣu kucelasaṃvṛtaḥ ।
+adharmamiśraṃ tu sukhaṃ na kāmaye viṣeṇa saṃpṛktamivānnamātmavān ।।

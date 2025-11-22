@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 666 | label: meter | g:0.166 m:0.641 ---
+
+sandeha-pratyayanād, yathā-
+aṅkaṃ ke' pi śaśaṅkire jala-nidheḥ paṅkaṃ pare menire
+sāraṅgaṃ katicic ca saṃjagadire bhūmeś ca bimbaṃ pare ।
+indau yad dalitendra-nīla-śakala-śyāmaṃ darīdṛśyate
+tan manye ravi-bhītam andha-tamasaṃ kukṣi-stham ālakṣyate ।।

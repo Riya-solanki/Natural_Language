@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 274 | label: meter | g:0.29 m:0.759 ---
+
+āmānavo vidyullokamāgato vaidyutastenetyarthaḥ ।
+śrutau vaidyutāllokādityarthaḥ ।
+śrutyā varuṇādīnāṃ netṛtvābhāve apyanugrāhakatvena mārgāntarbhāva iti bhāvaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 597 | label: hybrid | g:0.51 m:0.5 ---
+
+jambhaṃ ca pāśena tathā nihatya tāraṃ talenāśanisaṃnibhena ।
+pādena vṛtraṃ tarasā kujambhaṃ nipātayāmāsa balaṃ ca muṣṭyā ।।

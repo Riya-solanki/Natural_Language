@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1353 | label: grammar | g:0.58 m:0.382 ---
+
+tatprakṛtavacane mayaṭ ।।
+prācuryeṇa prastutaṃ prakṛtam, tasya vacanaṃ pratipādanam । bhāve adhikaraṇe vā lyuṭ । ādye prakṛtamannamannamayam । dvitīye tu annamayo yajñaḥ ।।

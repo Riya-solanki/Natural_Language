@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2166 | label: meter | g:0.306 m:0.625 ---
+
+jātyasya sarve api maṇestu yādṛgvijātayaḥ santi samānavarṇāḥ ।
+tathāpi nānākaraṇānumeyabhedaprakāraḥ paramaḥ pradiṣṭaḥ ।।

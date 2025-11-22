@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 517 | label: meter | g:0.478 m:0.625 ---
+
+devadānavagandharvasiddhaguhyakakhecaraiḥ 
+raso vaktre sthito yasya tadgatiḥ khe na hanyate ।।

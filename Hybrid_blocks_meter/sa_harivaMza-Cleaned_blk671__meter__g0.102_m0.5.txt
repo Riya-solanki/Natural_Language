@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 671 | label: meter | g:0.102 m:0.5 ---
+
+sakhā hi gālavo yasya yogācāryo mahāyaśāḥ 
+śikṣāṃ utpādya tapasā kramo yena pravartitaḥ 
+kaṇḍarīkaś ca yogātmā tasyaiva sacivo abhavat ।।

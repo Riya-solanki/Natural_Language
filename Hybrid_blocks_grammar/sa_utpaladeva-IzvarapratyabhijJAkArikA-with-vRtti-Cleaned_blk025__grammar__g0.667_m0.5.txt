@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 25 | label: grammar | g:0.667 m:0.5 ---
+
+sukhaduḥkhajñānādibhinnadharmāśrayatvenāpy ātmano anupayogo bhinnair dharmair asaṃbhinnasyānupajātaviśeṣasya smṛtav avyāpṛteḥ । tad draṣṭṛvat kalpanāmātram etad ātmā smṛteti ।।

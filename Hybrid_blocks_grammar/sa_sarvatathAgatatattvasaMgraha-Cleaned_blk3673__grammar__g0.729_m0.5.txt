@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3673 | label: grammar | g:0.729 m:0.5 ---
+
+athāsmin[bhāṣitamātre sarvabuddhakṣetrāntargata]sarvasatvāḥ sūkṣmā vā sthūlā vā te sarve sarvatathāgataṃ sumerugirimūrdhni vajramaṇiratnaśikharakūṭāgāre sarvatathā[gatasiṃhāsane sthitvā vajradhātvādīn sarva]cakrāṇi pravartayantaṃ sarvato adrākṣuriti ।।

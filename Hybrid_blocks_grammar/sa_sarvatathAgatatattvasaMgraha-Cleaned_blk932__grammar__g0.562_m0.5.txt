@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 932 | label: grammar | g:0.562 m:0.5 ---
+
+atha vajrāpāṇirmaheśvarasaṃśodhananimittamevamāha oṃ pādākarṣākarṣasya sarvavajradharānucara [kaṇḍa kaṇḍa va]jra hūṃ jaḥ ।।

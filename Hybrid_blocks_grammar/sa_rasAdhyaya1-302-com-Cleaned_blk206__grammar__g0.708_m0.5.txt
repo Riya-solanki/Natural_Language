@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 206 | label: grammar | g:0.708 m:0.5 ---
+
+rasapala tāmracūrṇapala lavaṇapala sarvaṃ nimbukarase mṛditvā pūrvavatpīṭhīṃ kṛtvā sthālikāyāṃ kṣiptvopari ca madhye mukhasthālīṃ dattvā dvayormukhayoge karpaṭamṛttikayā lipyate ।।

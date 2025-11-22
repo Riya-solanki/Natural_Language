@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 306 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tataś ca svasthī-bhūteṣu teṣu samutthiteṣu gāḥ prati prasthiteṣu ca madhur madhura-smitam uvāca, "brāhmaṇān prati duranudhyānasya phalaṃ sadya eva jātaṃ nidhyātam । yad aho mama mūkatvam anudhyātaṃ sarva-madhyam adhyāsīnenaikena, sarvasyaiva tu mūkatvaṃ jātam ।"

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1735 | label: meter | g:0.306 m:0.5 ---
+
+gurur api galati vivekaḥ skhalati ca cittaṃ vinaśyati prajñā ।
+patati puruṣasya dhairyaṃ viṣayaviṣāghūrṇite manasi ।।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1180 | label: grammar | g:0.61 m:0.375 ---
+
+tatra jātaḥ ।।
+saptamīsamarthājjāta ityarthe aṇādayo ghādayaśca syuḥ । srugghne jātaḥ sraugghnaḥ । utse jāta autsaḥ । rāṣṭre jāto rāṣṭriyaḥ । avārapāre jātaḥ avārapārīṇaḥ, ityādi।।

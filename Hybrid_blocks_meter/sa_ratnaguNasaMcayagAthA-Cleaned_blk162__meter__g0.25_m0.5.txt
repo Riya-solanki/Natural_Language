@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 162 | label: meter | g:0.25 m:0.5 ---
+
+niryāyanāya ya icchati buddhajñāne samacitta sarvajagatī pitṛmātṛsaṃjñā 
+hitacitta maitramana eva parākrameyyā akhilārjavo mṛdugirāya parākrameyyā ।।

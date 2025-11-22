@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 221 | label: meter | g:0.25 m:0.521 ---
+
+nimbukānāṃ rasaiḥ kṣālyaṃ yat kiṃcittāmrapātrakam ।
+kṛtvā cātyujjvalaṃ tatra śuddhaṃ rasarantīṃ kṣipet ।।
+saṃśuddhāṃ gandhakarantīṃ kṣiptvāṅgulyā pramardayet ।
+vidhinaivaṃ muhuḥ kāryā pīṭhā gandhakasūtayoḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1166 | label: grammar | g:0.604 m:0.5 ---
+
+dauvāriko atha sugrīvaḥ puṣpadanto gaṇādhipaḥ । asuraḥ śeṣapāpau ca rogo।ḍahimukha eva ca ।।

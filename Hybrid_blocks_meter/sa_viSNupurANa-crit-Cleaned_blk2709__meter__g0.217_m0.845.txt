@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2709 | label: meter | g:0.217 m:0.845 ---
+
+dharitrīpālanenaiva kṛtakṛtyo narādhipaḥ 
+bhavanti nṛpater aṃśā yato yajñādikarmaṇām ।।

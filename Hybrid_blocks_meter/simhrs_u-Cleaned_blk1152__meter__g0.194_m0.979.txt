@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1152 | label: meter | g:0.194 m:0.979 ---
+
+hariścandro rakṣākaraṇa-ruci-satyeṣu vacasāṃ
+vilāse vāgīśo mahati niyame nīti-nigame ।
+vijetā gāṅgeyaṃ jana-bharaṇa-saṃmohana-kalā-
+vrateṣu śrī-siṃha-kṣitipatir udāro viharate ।।

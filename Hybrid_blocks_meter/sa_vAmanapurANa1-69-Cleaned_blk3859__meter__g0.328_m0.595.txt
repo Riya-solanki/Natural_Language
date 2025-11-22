@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3859 | label: meter | g:0.328 m:0.595 ---
+
+adṛśyamavyaktamacintyamavyayaṃ maharṣayo brahmayaṃ sanātanam ।
+vadanti yaṃ vai puruṣaṃ sanātanaṃ taṃ devaguhyaṃ śaraṇaṃ prapadye ।।

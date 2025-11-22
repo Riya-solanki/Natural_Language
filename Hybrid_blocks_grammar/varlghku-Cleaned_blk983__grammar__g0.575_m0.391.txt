@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 983 | label: grammar | g:0.575 m:0.391 ---
+
+avyayaṃ vibhaktisamīpasamṛddhivyṛddhyarthābhāvātyayāsaṃpratiśabdaprādurbhāvapaścādyathānupūrvyayaugapadyasādṛśyasampattisākalyānta vacaneṣu ।।
+vibhaktyarthādiṣu vartamānamavyayaṃ subantena saha nityaṃ samasyate so avyayībhāvaḥ । prāyeṇāvigraho nityasamāsaḥ, prāyeṇāsvapadavigraho vā । vibhaktau, hari ṅi adhi iti sthite ।।

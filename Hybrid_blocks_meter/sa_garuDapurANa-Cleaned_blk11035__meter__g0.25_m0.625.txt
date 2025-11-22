@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11035 | label: meter | g:0.25 m:0.625 ---
+
+caturthajanmanyapyevaṃ dvitīye janmani prabho ।
+samāpsyathānyagātvaṃ cetyevaṃ śaptā ha bhāmini ।।

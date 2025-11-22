@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5584 | label: meter | g:0.194 m:0.625 ---
+
+adyāpy āghūrṇitākāraṃ lakṣyate tat puraṃ dvija 
+eṣa prabhāvo rāmasya balaśauryopalakṣaṇaḥ ।।

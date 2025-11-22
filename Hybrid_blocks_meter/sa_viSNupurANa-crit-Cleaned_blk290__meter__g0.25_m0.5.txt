@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 290 | label: meter | g:0.25 m:0.5 ---
+
+padbhyāṃ cāśvān samātaṅgān rāsabhān gavayān mṛgān 
+uṣṭrān aśvatarāṃś caiva nyaṅkūn anyāś ca jātayaḥ ।।

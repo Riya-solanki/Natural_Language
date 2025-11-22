@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 249 | label: grammar | g:0.583 m:0.5 ---
+
+bhāvānāṃ śabdarūpasaṃsthānādinā bhedākṣepo jātyādinā caikatākṣepo anubhūyamānaḥ pramātraikye ghaṭate । anyonyabhedavyavasthāpy anusaṃdhānāyattā ।।

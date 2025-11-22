@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4532 | label: meter | g:0.25 m:0.625 ---
+
+mūtrotsargaṃ savicchinnaṃ tacchreyo guruśephasoḥ ।
+antarvasti mukhe tṛṣṇā sthirālpaṃ sahasā bhavet ।।

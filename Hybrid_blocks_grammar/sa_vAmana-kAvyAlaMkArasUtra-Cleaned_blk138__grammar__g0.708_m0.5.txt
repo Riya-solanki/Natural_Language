@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 138 | label: grammar | g:0.708 m:0.5 ---
+
+etasyārthasya mokṣaśāstre sthitatvāttadviruddhārtham । ete vākyavākyārthadoṣāstyāgāya jñātavyāḥ । ye tvanye śabdārthadoṣāḥ sūkṣmāste guṇavivecane lakṣyante । upamādoṣāścopamāvicāra iti ।।

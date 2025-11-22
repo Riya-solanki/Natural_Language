@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 1058 | label: hybrid | g:0.521 m:0.5 ---
+
+kāraṇaṃ kāryabhāvena yadā vāvyavatiṣṭhate kāryaśabdaṃ tadā labdhvā kāryatvenopajāyate ।।

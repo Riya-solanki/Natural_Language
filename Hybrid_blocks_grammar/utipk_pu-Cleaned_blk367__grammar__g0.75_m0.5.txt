@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 367 | label: grammar | g:0.75 m:0.5 ---
+
+etad eva viśvātmanaḥ parimitatvakaraṇam apratyabhijñānam ucyate । evaṃ cānekabuddhiprāṇādikhaṇḍagatāparāhaṃkāraparāmarśaḥ parāparijñānasaṃjñaḥ । pratyakātmano bahavas, teṣu pramātṛrūpeṣu maheśvareṇa svānandaḥ svakriyaikakartṛtānusāriṇī nirmitā । sa eva bhoga ānandaleśākhyaḥ sukhasaṃjñitaḥ kriyālavātmā duḥkharūpaḥ kriyā duḥkhaṃ ca vakṣyate ।।

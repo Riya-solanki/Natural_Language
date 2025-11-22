@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1552 | label: meter | g:0.194 m:0.625 ---
+
+te anyonyaṃ nāvabudhyanta devān vā vāhanāni vā 
+ghoreṇa tamasāviṣṭāḥ puruhūtasya tejasā ।।

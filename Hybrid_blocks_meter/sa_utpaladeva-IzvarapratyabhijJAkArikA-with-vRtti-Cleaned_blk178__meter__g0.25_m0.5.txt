@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 178 | label: meter | g:0.25 m:0.5 ---
+
+vikalpe yo ayam ullekhaḥ so api bāhyaḥ pṛthakprathaḥ 
+pramātraikātmyam āntaryaṃ tato bhedo hi bāhyatā ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2417 | label: meter | g:0.25 m:0.5 ---
+
+paśya kṛṣṇa ghanān kṛṣṇān balākotpātabhūṣaṇān 
+gagane tava gātrāṇāṃ varṇacorān samutthitān ।। 
+kāmināṃ hṛdayasyāśu nighnatas tān samantataḥ । 
+tava nidrākaraḥ kālas tava gātropamam nabhaḥ 
+tvam ivājñātavasatiṃ candro vasati vārṣikīm ।।

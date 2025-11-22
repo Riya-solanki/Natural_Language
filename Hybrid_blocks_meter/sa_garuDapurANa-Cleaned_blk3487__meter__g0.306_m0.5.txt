@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3487 | label: meter | g:0.306 m:0.5 ---
+
+ye padasthasya mittrāṇi te tasya riputāṃ gatāḥ ।
+bhānoḥ padme jale prītiḥ sthaloddharaṇaśoṣaṇaḥ ।।

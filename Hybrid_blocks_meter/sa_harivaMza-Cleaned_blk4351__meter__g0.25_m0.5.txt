@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4351 | label: meter | g:0.25 m:0.5 ---
+
+kāśyā supārśvaṃ tanayaṃ lebhe sāmbāt tarasvinam 
+aniruddhasya vaidarbhyā bhāryā rukmavatī śubhā । 
+tasyāṃ vajro aniruddhasya vajrasya tanayaṃ śṛṇu । 
+sānor vajro aniruddhasya vajras tv ādāv ajāyata ।।

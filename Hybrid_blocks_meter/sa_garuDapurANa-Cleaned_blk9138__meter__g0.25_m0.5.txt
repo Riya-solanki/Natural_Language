@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9138 | label: meter | g:0.25 m:0.5 ---
+
+pratyahañca pradātavyaṃ mārge suviṣame naraiḥ ।
+yāvat saṃvatsaraṃ vāpi pretasya sukhalipsayā ।।

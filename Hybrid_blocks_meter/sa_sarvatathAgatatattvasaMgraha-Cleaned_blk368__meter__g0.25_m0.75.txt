@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 368 | label: meter | g:0.25 m:0.75 ---
+
+vajrāveśavidhiṃ yojya vajrabandhatalaiḥ hanet ।
+sūkṣmatālaprayogeṇa parvate api samāviśet ।।

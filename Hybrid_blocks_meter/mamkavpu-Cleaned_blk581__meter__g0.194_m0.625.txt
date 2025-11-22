@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 581 | label: meter | g:0.194 m:0.625 ---
+
+{sa rātu vo duścyavano bhāvukānāṃ paraṃparām ।
+aneḍamūkatādyaiśca dyatu doṣairasaṃmatān ।।}

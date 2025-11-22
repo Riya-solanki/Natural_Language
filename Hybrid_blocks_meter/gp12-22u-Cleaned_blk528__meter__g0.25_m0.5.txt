@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 528 | label: meter | g:0.25 m:0.5 ---
+
+vāhaka-śirasi praharaṇam atrādiṣṭaṃ sadā vihṛtau ।
+maryādātikrāntā pralamba bhavatā tathā tu nāsmābhiḥ ।। [udgīti]

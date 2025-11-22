@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1168 | label: meter | g:0.25 m:0.625 ---
+
+sarvavidyottamānāṃ tu trilokavijayā smṛtā ।
+[ghātanī caiva] sarvasya sarvakarmakarī tathā ।।

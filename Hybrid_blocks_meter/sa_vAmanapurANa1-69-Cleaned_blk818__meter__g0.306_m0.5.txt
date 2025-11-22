@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 818 | label: meter | g:0.306 m:0.5 ---
+
+na devagobrāhmaṇavahnimārge na rājamārge na catuṣpathe ca ।
+kuryādathotsargamapīha goṣṭhe pūrvāparāṃ caiva samāśrito gām ।।

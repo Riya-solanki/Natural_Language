@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2617 | label: grammar | g:0.562 m:0.5 ---
+
+atha bhagavān punarapi sarvatathāgatābhiṣekakarmasamayasaṃbhavādhiṣṭhānannāma samādhiṃ samāpadyemāṃ svavidyottamamabhāṣat oṃ sarvatathāgatakarmābhiṣeke hūṃ ।।

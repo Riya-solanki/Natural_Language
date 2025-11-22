@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 728 | label: grammar | g:0.562 m:0.5 ---
+
+pāpaṃ samācarati vītaghṛṇo jaghanyaḥ prāpyāpadaṃ saghṛṇa eva tu madhyabuddhiḥ ।
+prāṇātyaye api tu na sādhujanaḥ svavṛttiṃ velāṃ samudra iva laṅghayituṃ samarthaḥ ।।

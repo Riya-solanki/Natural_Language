@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 353 | label: meter | g:0.194 m:0.625 ---
+
+kuśo abhūtkāñcanaḥ kauśe svayaṃbhuvi yiyakṣati 
+krauñce krauñco hato daityaḥ krauñcādrau hemakandare ।।

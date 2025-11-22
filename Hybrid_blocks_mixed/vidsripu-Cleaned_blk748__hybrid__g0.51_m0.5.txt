@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 748 | label: hybrid | g:0.51 m:0.5 ---
+
+parimlānaṃ pīnastanajaghanasaṅgād ubhayatas tanor madhyasyāntaḥ parimalanam aprāpya haritam ।
+idaṃ vyastanyāsaṃ ślathabhujalatākṣepavalanaiḥ kṛśāṅgyāḥ saṃtāpaṃ vadati bisinīpatraśayanam ।।

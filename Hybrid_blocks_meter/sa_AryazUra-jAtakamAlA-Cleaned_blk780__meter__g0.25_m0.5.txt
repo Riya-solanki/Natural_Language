@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 780 | label: meter | g:0.25 m:0.5 ---
+
+iyaṃ hi saṃdarśanamātrakeṇa kuryānmunīnāmapi siddhivighnam ।
+prāgeva bhāvārpitadṛṣṭivṛṣṭeryūnaḥ kṣitīśasya sukhe sthitasya ।।

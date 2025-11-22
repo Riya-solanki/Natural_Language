@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1254 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ bhikṣā-niṣṭhānām iva tasminn upatiṣṭhamānānām api śāstrārthaṃ nayamānānāṃ tad avadhārya te vāryācāryā manasi paryālocayāmāsuḥ-hanta ! brāhmaṇā evāsmākam etān brahma-vicāram api viśiṣṭatayā lobhād anuśiṣṭavantaḥ santi । yena tatrāpi kṛta-mukhatayā mukharatām āpannāḥ । bhavatu, tathāpy ete paramebhyayopalabhyamānāḥ kiñcid dāna-rūpam avadānaṃ vinā pratyutādānāya param atrāgatāḥ । aho ! kali-praveśa-deśasya deśa-rūpam idam ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 346 | label: meter | g:0.328 m:0.595 ---
+
+dārānmano abhilaṣitāṃstanayānprabhutva marthānabhīpsitaviśālatarāṃśca labdhvā ।
+yenābhitaptamatireti na jātu tṛptiṃ lobhānalaḥ sa hṛdayaṃ mama nābhyupeyāt ।।

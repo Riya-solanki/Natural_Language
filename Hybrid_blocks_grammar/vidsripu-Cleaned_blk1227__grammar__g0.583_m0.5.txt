@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1227 | label: grammar | g:0.583 m:0.5 ---
+
+payasi sarasaḥ svacche matsyāñ jighṛkṣur itas tato valitanayano mandaṃ mandaṃ padaṃ nidadhad bakaḥ ।
+viyati vidhṛtaikāṅghris tiryagvivartitakandharo dalam api calatsapratyāśaṃ muhur muhur īkṣate ।।

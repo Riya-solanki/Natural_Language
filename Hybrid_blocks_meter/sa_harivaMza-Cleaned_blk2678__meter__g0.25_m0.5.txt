@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2678 | label: meter | g:0.25 m:0.5 ---
+
+yajanānte tad annaṃ tu tat payo dadhi cottamam 
+māṃsaṃ ca māyayā kṛṣṇo girir bhūtvā samaśnute ।। 
+īdṛśaṃ hy abhavat tatra gopānāṃ bharatarṣabha । 
+tarpitāś cāpi viprāgryās tuṣṭāḥ saṃpūrṇabhojanāḥ 
+uttasthuḥ prītamanasaḥ svasti vācya yathāsukham ।।

@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 292 | label: grammar | g:0.559 m:0.377 ---
+
+yadyapi bhoktā praśāsitā vā kaściccetanaḥ saṃhantā sthiro nābhyupagamyate tathāpyavidyādīnāmitaretarakāraṇatvādupapadyate lokayātrā ।
+tasyāṃ copapadyamānāyāṃ vā kiñcidaparamapekṣitavyamasti ।
+te cāvidyādayo avidyā saṃskāro vijñānaṃ nāma rūpaṃ ṣaḍāyatanaṃ sparśā vedanā tṛṣṇā upādānaṃ bhavo jātirjarā maraṇaṃ śokaḥ paridevanā duḥkhaṃ durmanastetyevañjātīyakā itaretarahetukāḥ saugate samaye kvacitsaṃkṣiptā nirdiṣṭāḥ kvacitprapañcitāḥ ।
+sarveṣāmapyayamavidyādikalāpo apratyākhyeyaḥ ।
+tadevamavidyādikalāpe parasparanimittanaimittikabhāvena ghaṭīyantravadaniśamāvartamāner'thākṣipta upapannaḥ saṃghāta iti cet ।

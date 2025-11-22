@@ -1,0 +1,3 @@
+--- source: brssgo4u-Cleaned.txt | block: 385 | label: grammar | g:0.625 m:0.5 ---
+
+bhāve punaḥ tanoḥ yathā jāgarite vidyamānā eva pitrādikāmā bhavanti evaṃ muktasya api upapadyate ।।

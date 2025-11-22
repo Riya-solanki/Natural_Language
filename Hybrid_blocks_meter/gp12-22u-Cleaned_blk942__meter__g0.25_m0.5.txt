@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 942 | label: meter | g:0.25 m:0.5 ---
+
+īdṛśas te vrajādhīśa sutaḥ sūta-mukhotsavaḥ ।
+yo gavendratayā gāṃ ca gāṃ ca gāṃ ca sukhākarot ।। [anuṣṭubh]
+subhagambhaviṣṇu jātaṃ jagad api kṛṣṇābhiṣekataḥ paścāt ।
+andhambhāvukam āsīd bhāvuka-śūnyaṃ kulaṃ tu danujānām ।। [gīti]

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1109 | label: meter | g:0.194 m:0.5 ---
+
+yena vedhena viddhasya sukhāsvādo na vidyate 
+sa kathaṃ svārthanirmukto viṣayeṣu virajyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 136 | label: meter | g:0.39 m:0.688 ---
+
+sṛṣṭisthityantakaraṇād brahmaviṣṇuśivātmikām 
+sa saṃjñāṃ yāti bhagavān eka eva janārdanaḥ ।।

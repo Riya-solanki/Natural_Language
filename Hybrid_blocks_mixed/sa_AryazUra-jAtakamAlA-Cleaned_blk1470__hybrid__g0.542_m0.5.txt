@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1470 | label: hybrid | g:0.542 m:0.5 ---
+
+śīlaṃ viśodhaya samarjaya dātṛkīrtiṃ maitraṃ manaḥ kuru jane svajane yathaiva ।
+dharmeṇa pālaya mahīṃ ciramapramādādevaṃ sameṣyasi sukhaṃ tridivaṃ yaśaśca ।।

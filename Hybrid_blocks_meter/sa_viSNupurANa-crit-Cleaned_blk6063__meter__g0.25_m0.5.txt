@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6063 | label: meter | g:0.25 m:0.5 ---
+
+parārdhadviguṇaṃ yat tu prākṛtaḥ sa layo dvija 
+tadāvyakte akhilaṃ vyaktaṃ svahetau layam eti vai ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1510 | label: grammar | g:0.604 m:0.5 ---
+
+saṃkalpe aṅkuritaṃ dvipatritam atha prasthānavelāgame mārge pallavitaṃ puraṃ praviśataḥ śākhāśatair udgatam ।
+prātarbhāvini darśane mukulitaṃ dṛṣṭe tu deva tvayi protphullaṃ phalitaṃ ca samprati manorājyadrumeṇādya me ।।

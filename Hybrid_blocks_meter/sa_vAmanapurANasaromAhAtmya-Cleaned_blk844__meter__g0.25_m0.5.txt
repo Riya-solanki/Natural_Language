@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 844 | label: meter | g:0.25 m:0.5 ---
+
+deva pradarśayātmānaṃ paraṃ kautūhalaṃ hi me ।
+sa ityukta uvācedaṃ devīṃ devaḥ smitānanāḥ ।।

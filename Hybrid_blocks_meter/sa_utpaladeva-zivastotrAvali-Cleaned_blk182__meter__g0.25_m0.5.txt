@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 182 | label: meter | g:0.25 m:0.5 ---
+
+ātmasātkṛtaniḥśeṣamaṇḍalo nirvyapekṣakaḥ kadā bhaveyaṃ bhagavaṃs tvadbhaktagaṇanāyakaḥ ।।

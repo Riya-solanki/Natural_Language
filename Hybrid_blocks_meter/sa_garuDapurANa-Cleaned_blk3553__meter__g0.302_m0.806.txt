@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3553 | label: meter | g:0.302 m:0.806 ---
+
+evamabhyarcya gṛhṇīyādvratārcanajapādikam ।
+sarvāghaṃ ca kṣayaṃ yāti cikīrṣedyo harervratam ।।

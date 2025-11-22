@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 161 | label: meter | g:0.25 m:0.5 ---
+
+sādhyātmako api dhātvartho yadā nāmnābhidhīyate ।
+tadā dravyavad evāsau niṣpannātmā pratīyate ।।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1903 | label: grammar | g:0.75 m:0.5 ---
+
+tato yathāvatkarma kṛtvā, padmavigrahaṃ pāṇau dātavyaṃ oṃ padmahasta vajradharmatāṃ pālaya ।। tena vaktavyaṃ "kīdṛśīmā vajradharmate-" ti । tato vaktavyaṃ ।

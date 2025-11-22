@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 257 | label: hybrid | g:0.528 m:0.5 ---
+
+astu pradhānasyāpi dharmādi karma puruṣo vā pravartaka ityāśaṅkya sūtraṃ pravṛttaṃ, tadvyācaṣṭe-sāṃkhyānāmityādinā ।
+pradhānavyatirekeṇa karmaṇo anavasthiteḥ puruṣasyodāsīnatvāt kadācitsṛṣṭipravṛttiḥ kadācitpralaya ityayuktamityarthaḥ ।
+karmaṇo api pradhānātmakasyācetanatvāt sadāsatvācca na kādācitkapravṛttiniyāmakatvamiti bhāvaḥ ।।

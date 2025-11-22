@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1296 | label: meter | g:0.254 m:0.736 ---
+
+sahasrāsyaṃ sahasrākṣaṃ sahasracaraṇaṃ ca yam 
+sahasraśirasaṃ devaṃ sahasrakaram avyayam ।। 
+sahasrayugaparyantaṃ sahasraparivatsaram । sahasraśatadhā bhūtvā pralayaṃ kārayet tu yaḥ । 
+sahasrajihvaṃ bhāsvantaṃ sahasramukuṭaṃ prabhum 
+sahasradaṃ sahasrādiṃ sahasrabhujam avyayam ।।

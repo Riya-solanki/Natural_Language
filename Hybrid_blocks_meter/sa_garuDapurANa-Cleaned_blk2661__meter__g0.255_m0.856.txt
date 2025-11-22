@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2661 | label: meter | g:0.255 m:0.856 ---
+
+hariruvāca ।
+pravakṣyāmi harerdhyānaṃ māyātantravimardakam ।
+mūrtāmūrtādibhedena taddhyānaṃ dvividhaṃ hara ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1151 | label: hybrid | g:0.373 m:0.431 ---
+
+kasya tṛṣaṃ na kṣapayasi na payasi tava kathaya ke nimajjanti ।
+yadi sanmārgajalāśaya nakro na kroḍam adhivasati ।।
+vīrasya

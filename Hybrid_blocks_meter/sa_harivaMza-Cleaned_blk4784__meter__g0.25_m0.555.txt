@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4784 | label: meter | g:0.25 m:0.555 ---
+
+tūṣṇīṃbhūteṣu sarveṣu vipṛthur vākyam abravīt 
+nītijño hitavaktā ca yādavānāṃ priyaṃkaraḥ । 
+kṛṣṇaṃ praharatāṃ śreṣṭhaṃ niḥśvasantaṃ muhur muhuḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3826 | label: meter | g:0.194 m:0.5 ---
+
+tam uvāca hṛṣīkeśaḥ śaṅkhaṃ guhyakam uttamam 
+janā ye asmin kṛśadhanās tān dhanenābhipūraya ।।

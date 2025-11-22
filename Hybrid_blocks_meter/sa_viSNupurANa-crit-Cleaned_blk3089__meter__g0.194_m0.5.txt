@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3089 | label: meter | g:0.194 m:0.5 ---
+
+mantrapūrvaṃ pitṝṇāṃ tu kuryād āvāhanaṃ budhaḥ 
+tilāmbunā cāpasavyaṃ dadyād arghyādikaṃ nṛpa ।।

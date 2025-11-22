@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1003 | label: meter | g:0.056 m:0.979 ---
+
+ekaṃ padam uddeśyaṃ
+bhavati samantād bahūnāṃ cet ।
+vividha-bhuvām api teṣāṃ
+milanaṃ ghaṭate yathā sa-tīrthānām ।। [udgīti]

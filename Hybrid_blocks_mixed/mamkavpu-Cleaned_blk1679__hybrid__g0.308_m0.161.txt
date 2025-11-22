@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1679 | label: hybrid | g:0.308 m:0.161 ---
+
+dvayorbahūnāṃ vā alaṅkārāṇāmekatra samāveśe api virodhāt na yatra yugapadavasthānam na caikatarasya parigrahe sādhakam taditarasya vā parihāre bādhakamasti yenaikatara eva parigṛhyate sa niścayābhāvārūpo
+dvitīyaḥ saṃkaraḥ samuccayena saṃkarasyaivākṣepāt । udāharaṇam

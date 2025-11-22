@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 269 | label: meter | g:0.194 m:0.5 ---
+
+pitṛbhiḥ śrūyate cāpi punar dugdhā vasuṃdharā 
+rājataṃ pātram ādāya svadhām amitavikramaiḥ ।।

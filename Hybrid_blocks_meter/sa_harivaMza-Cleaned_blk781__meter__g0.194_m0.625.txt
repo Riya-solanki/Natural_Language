@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 781 | label: meter | g:0.194 m:0.625 ---
+
+aṇuhas tu nṛpaśreṣṭho brahmadattam akalmaṣam 
+abhiṣicya tadā rājye parāṃ gatim avāptavān ।।

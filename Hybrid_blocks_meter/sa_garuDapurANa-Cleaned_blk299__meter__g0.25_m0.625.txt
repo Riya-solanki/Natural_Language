@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 299 | label: meter | g:0.25 m:0.625 ---
+
+tannāma kārayettasya strīṇāṃ nāmāṅkitaṃ svayam ।
+śūdrāṇāṃ dāsasaṃyuktaṃ kārayettu vicakṣaṇaḥ ।।

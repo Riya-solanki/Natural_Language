@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7375 | label: meter | g:0.25 m:0.625 ---
+
+tayā tapantyā sā sarvā prodyadvidyutsamaprabhā ।
+vibhāvyate mahāraudrā pāpināṃ darśanādiṣu ।।

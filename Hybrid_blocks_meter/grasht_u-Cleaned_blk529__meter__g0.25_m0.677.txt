@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 529 | label: meter | g:0.25 m:0.677 ---
+
+mākṣika sattva phys properties
+raktaṃ mṛdu nāgasamaṃ satvaṃ yasmāddhi mākṣikātpatitam ।
+gandhāśmano'pi tadvatkāryaṃ yatnena mṛdubhāvam ।।

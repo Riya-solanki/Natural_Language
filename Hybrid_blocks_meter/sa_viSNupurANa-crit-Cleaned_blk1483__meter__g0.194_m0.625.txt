@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1483 | label: meter | g:0.194 m:0.625 ---
+
+sṛjaty eṣa jagat sṛṣṭau sthitau pāti sanātanaḥ 
+hanti caivāntakatve ca rajaḥsattvādisaṃśrayaḥ ।।

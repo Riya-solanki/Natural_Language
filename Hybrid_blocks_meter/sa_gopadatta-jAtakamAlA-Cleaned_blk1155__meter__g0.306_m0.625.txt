@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1155 | label: meter | g:0.306 m:0.625 ---
+
+śūlāntalagnavapuṣaḥ parivījyamānāḥ pakṣānilair nagaravāyasamaṇḍalānām ।
+vyājena mitranayanair abhivīkṣyamāṇā nāśaṃ vrajanti puruṣā viṣayāhidaṣṭāḥ ।।

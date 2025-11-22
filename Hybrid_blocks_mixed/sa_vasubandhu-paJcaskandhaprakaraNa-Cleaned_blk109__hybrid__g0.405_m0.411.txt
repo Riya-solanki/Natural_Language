@@ -1,0 +1,5 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 109 | label: hybrid | g:0.405 m:0.411 ---
+
+ebamaṣṭādaśadhātuvyavasthānam । yo rūpaskandhastāni daśāyatanadhātavaḥ ।।
+dharmāyatanaṃ dharmadhātvekadeśaḥ ।।
+yo vijñānaskandhastanmana āyatanam, saptama manodhātavaśca ।। anye ye trayaḥ skandhā rūpadhātvekadeśaśca, te asaṃskṛtai sahitā dharmāyatanaṃ dharmadhātuśca ।।

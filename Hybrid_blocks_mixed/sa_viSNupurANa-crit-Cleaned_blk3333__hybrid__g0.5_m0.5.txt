@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3333 | label: hybrid | g:0.5 m:0.5 ---
+
+pṛṣadhras tu manoḥ putro gurugovadhāc chūdratvam agamat ।।

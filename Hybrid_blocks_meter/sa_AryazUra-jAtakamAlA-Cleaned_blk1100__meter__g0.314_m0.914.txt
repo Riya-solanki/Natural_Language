@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1100 | label: meter | g:0.314 m:0.914 ---
+
+guṇasambhāvanāvyaktiryatparīkṣyopalabhyate ।
+mayā vinihitānyasmātparīkṣārthaṃ bisāni vaḥ ।।

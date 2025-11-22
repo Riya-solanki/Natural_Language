@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4104 | label: meter | g:0.25 m:0.75 ---
+
+kurupāṇḍavayorvairaṃ daivayo gādbabhūva ha ।
+duryodhanenādhīreṇa pāṇḍavāḥ samupadrutāḥ ।।
+dagdhā jatugṛhe vīrāste muktāḥ svadhiyāmalāḥ ।।
+tatastadekacakrāyāṃ brāhmaṇasya niveśane ।
+viviśuste mahātmāno nihatya bakarākṣasam ।।

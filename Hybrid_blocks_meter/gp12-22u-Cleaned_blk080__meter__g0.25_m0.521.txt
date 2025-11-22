@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 80 | label: meter | g:0.25 m:0.521 ---
+
+sukhaṃ vā vīryaṃ vā tad iha paramaṃ yat pratimukhaṃ
+pratīpaṃ nirjityānavaratam atulyaṃ vijayate ।
+kaviś ca śreyān sa sphurati khalu yas tad-vidhatayā
+sadā tat tad gāyann api na paritas tṛpyatitarām ।। [śikhariṇī]

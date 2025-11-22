@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11396 | label: hybrid | g:0.5 m:0.5 ---
+
+tīrthāṭanaṃ pādacairaiḥ kṛtaṃ cetpūrṇaṃ phalaṃ prāhurāryāḥ khagendra ।
+pādatrāṇaṃ pādarakṣāṃ ca kṛtvā tīrthāṭanaṃ pādahīnaṃ tadāhuḥ ।।

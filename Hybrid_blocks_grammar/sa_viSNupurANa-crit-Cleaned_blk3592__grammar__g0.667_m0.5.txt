@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3592 | label: grammar | g:0.667 m:0.5 ---
+
+tasmāc chāpāc ca mitrāvaruṇayos tejasi vasiṣṭhatejaḥ praviṣṭam । urvaśīdarśanād udbhūtabījaprapātayos sakāśād vasiṣṭho deham aparaṃ lebhe ।।

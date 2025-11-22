@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 125 | label: grammar | g:0.562 m:0.5 ---
+
+hasyate nṛtyate yatra rāgadveṣādi bhujyate pīyate bhaktipīyūṣarasas tat prāpnuyāṃ padam ।।

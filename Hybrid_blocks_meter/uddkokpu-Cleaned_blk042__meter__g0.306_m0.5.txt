@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 42 | label: meter | g:0.306 m:0.5 ---
+
+prāptavyaste yadi kṛtamaho vāṅmayītīravāsī devo dakṣādhvaravimathanoḍḍāmaraścandracūḍaḥ ।
+āste śātatriśikhaśikhayā dārukaṃ jaghnuṣī sā yasyādūre mṛgapatiśirastasthuṣī bhadrakālī ।।

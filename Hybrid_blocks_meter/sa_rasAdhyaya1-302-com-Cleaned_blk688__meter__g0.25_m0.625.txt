@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 688 | label: meter | g:0.25 m:0.625 ---
+
+gālite caikagadyāṇe tithivarṇe ca hemaje 
+prakṣipte bhasmano vallaṃ vallaṃ ca prakṣipet punaḥ ।।

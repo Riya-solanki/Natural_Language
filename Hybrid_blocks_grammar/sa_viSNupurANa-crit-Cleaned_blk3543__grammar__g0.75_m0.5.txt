@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3543 | label: grammar | g:0.75 m:0.5 ---
+
+yan na kevalam abhisaṃdhipūrvakaṃ snānādyupabhogeṣūpakārakam anabhisaṃhitam apy apetaprāṇasyāsthicarmasnāyukeśādyutsṛṣṭaṃ śarīrajam yad bhūpatitam śarīriṇaṃ sadyaḥ svargaṃ nayatīty uktaḥ praṇamya ca bhagavate aśvam ādāya pitāmahayajñam ājagāma ।।

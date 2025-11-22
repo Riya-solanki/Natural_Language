@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1330 | label: grammar | g:0.552 m:0.5 ---
+
+sarvatraiva khalo janaḥ saralatāsadbhāvaniḥsaṅgināṃ sādhūnāṃ padabandhanāya piśunaprauḍhābhimānodyamaḥ ।
+sūtraṃ kiṃcid apūrvam eva jaṭharād utpādya sadyaḥ svayaṃ lūtātantuvitānajālakuṭilaṃ cakraṃ karoty adbhutam ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 499 | label: meter | g:0.25 m:0.625 ---
+
+ṣaṣṭivarṣasahasrāṇi ṣaṣṭivarṣaśatāni ca ।
+pradīptam āyasaṃ cakraṃ tava mūrdhni bhramiṣyati ।।

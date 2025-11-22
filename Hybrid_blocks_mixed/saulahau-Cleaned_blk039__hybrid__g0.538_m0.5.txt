@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 39 | label: hybrid | g:0.538 m:0.5 ---
+
+tava svādhiṣṭhāne huta-vaham adhiṣṭhāya nirataṃ tam īḍe saṃvartaṃ janani mahatīṃ tāṃ ca samayām
+yad-āloke lokān dahati mahati krodha-kalile dayādrā dṛṣṭis te śiśiram upacāraṃ racayati ।।

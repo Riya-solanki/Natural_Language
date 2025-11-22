@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9357 | label: meter | g:0.381 m:0.774 ---
+
+pañcatvañca gate śūdre yaḥ kāṣṭhaṃ nayate citām ।
+anuvrajedyadā viprastrirātramaśucirbhavet ।।

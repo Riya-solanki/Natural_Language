@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 447 | label: meter | g:0.306 m:0.5 ---
+
+dhane tanutvaṃ kramaśo gate vā bhāgyānuvṛttyā kṣayamāgate vā ।
+vijṛmbhamāṇapraṇayaḥ suhṛtsu śobheta na sphītadhanaḥ kṛśeṣu ।।

@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 597 | label: grammar | g:0.75 m:0.5 ---
+
+tataścitrakūṭakhaṭīlavaṇayoḥ samabhāgena cūrṇaṃ kṛtvā sthālīṃ bhṛtvā tasya madhye ūrdhvaṃ bruḍantaṃ pattraṃ muktvā mukhe'dhomukhaṃ śarāvaṃ kṛtvā sādha kaṇṭhe mṛdā liptvā śarāvasyoparyadhomukhaṃ ḍhaṅkaṇīṃ dattvā sthālikādhaḥ praharacatuṣkaṃ yāvat haṭhāgnir jvālanīyaḥ ।।

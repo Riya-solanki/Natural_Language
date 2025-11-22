@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5461 | label: meter | g:0.25 m:0.625 ---
+
+arkapatraṃ gṛhītvā tu mandāgnau tāpayecchanaiḥ ।
+niṣpīḍya pūrayetkarṇau karṇaśūlaṃ vinaśyati ।।

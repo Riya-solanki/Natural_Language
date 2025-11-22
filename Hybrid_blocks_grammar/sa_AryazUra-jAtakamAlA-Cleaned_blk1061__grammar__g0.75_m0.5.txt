@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1061 | label: grammar | g:0.75 m:0.5 ---
+
+atha dvipakalabhadaśanapāṇḍukomalāni samuddhṛtya prakṣālya ca bisāni marakataharitaprabheṣu padminīpatreṣu kamaladalakesaropahārālaṃkṛtānviracayya samānbhāgānkāṣṭhasaṃghaṭṭanaśabdena nivedya kālaṃ teṣāmṛṣīṇāmapasṛtāyāṃ tasyāṃ dāsyāṃ bodhisattvaparīkṣārthaṃ śakro devānāmindraḥ prathamameva bisabhāgamantardhāpayāmāsa ।

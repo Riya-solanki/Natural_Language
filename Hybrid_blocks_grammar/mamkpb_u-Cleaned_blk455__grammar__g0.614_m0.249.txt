@@ -1,0 +1,10 @@
+--- source: mamkpb_u-Cleaned.txt | block: 455 | label: grammar | g:0.614 m:0.249 ---
+
+tadayamanugrāhyānugrāhakatayā saṃdehena, ekapadapratipādyatayā ca vyavasthitatvāttriprakatāra eva saṃkaro vyākṛtaḥ ।
+prakārāntareṇa tu na śakyo vyākartum ānantyāttatprabhedānāmiti pratipāditāḥ śabdārthomayagatatvena traividhyajuṣo alaṃkārāḥ ।।
+kutaḥ punareṣa niyamo yadeteṣāṃ tulye api kāvyaśobhātiśayahetutve kaśvidalaṃkāraḥ śabdasya kaśvidarthasya kaśviccobhayasya, iti cet uktamatra yathā kāvye doṣaguṇālaṃkārāṇāṃ śabdārthobhayagatatvena vyavakthāyāmanvayavyatirekāveva prabhavataḥ, nimittāntarasyābhāvāt tataśva yo alaṃkāro yadīyānvayavyatirekāvanuvidhatte sa tadalaṃkāro viyavasthāpyate, iti ।
+evaṃ ca yathā punaruktavadābhāsaḥ paraṃparitarūpakaṃ cobhayorbhāvābhāvānuvidhāyitayā, ubhayālaṃkārau tathā śabdahetukārthāntaranyāsaprabhṛtayo api draṣṭavyāḥ ।
+arthasya tu tatra vaicitryam utkaṭatayā pratibhāsate, iti vācyālaṃkāramadhye vastusthitimanapekṣyaiva lakṣitāḥ ।
+yo alaṃkāro yadāśritaḥ sa tadalaṃkāra ityapi kalpanāyām anvayavyatirekāveva samāśrayitavyau ।
+tadāśrayaṇamantareṇa viśiṣṭasyāśrayāśrayibhāvasyābhāvādityalaṃkārāṇāṃ yathoktanimitta ।
+eva parasparavyatireko jyāyān ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 63 | label: hybrid | g:0.538 m:0.5 ---
+
+bhūyāṃsy asya mukhāni nāma viditaivāste mahāprāṇatā kadravāḥ satprasavo ayam atra kupite cintyaṃ yathedaṃ jagat 
+trailokyādbhutam īdṛśaṃ tu caritaṃ śeṣasya yenāpi sā pronmṛjyeva nivartitā viṣadharajñāteyadurvṛttitā ।।

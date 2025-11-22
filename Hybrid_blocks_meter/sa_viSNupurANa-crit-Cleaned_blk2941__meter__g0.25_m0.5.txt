@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2941 | label: meter | g:0.25 m:0.5 ---
+
+kiṃcit parasvaṃ na haren nālpam apy apriyaṃ vadet 
+priyaṃ ca nānṛtaṃ brūyān nānyadoṣān udīrayet ।।

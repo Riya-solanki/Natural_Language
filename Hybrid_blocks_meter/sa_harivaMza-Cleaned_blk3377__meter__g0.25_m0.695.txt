@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3377 | label: meter | g:0.25 m:0.695 ---
+
+kṛṣyamāṇaḥ sa kṛṣṇena bhojarājo mahādyutiḥ 
+vaitaneyakaroddhūtaḥ patagendra ivābhavat । 
+samājavāṭe parikhāṃ dehakṛṣṭāṃ cakāra ha ।।

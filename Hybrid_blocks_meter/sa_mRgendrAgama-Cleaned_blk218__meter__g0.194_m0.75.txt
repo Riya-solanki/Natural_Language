@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 218 | label: meter | g:0.194 m:0.75 ---
+
+samantato annapānasya samatvena samarpaṇam 
+kurvansamāna ityukto vyāno vinamanāttanoḥ ।।

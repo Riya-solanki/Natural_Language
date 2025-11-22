@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 471 | label: meter | g:0.257 m:0.616 ---
+
+{kassa va ṇa ho-i roso daṭṭhūṇa pi-ā-i savvaṇaṃ aharaṃ ।
+sabhamarapaḍamagdhā-iṇi vāri-avāme sahasu eṇhiṃ ।।}
+[kasya vā na bhavati roṣo dṛṣṭvā priyāyā savraṇamaṣaram ।
+sabhramarapadmāghrāyiṇi vāritavāse sahasvedānīm ।।]

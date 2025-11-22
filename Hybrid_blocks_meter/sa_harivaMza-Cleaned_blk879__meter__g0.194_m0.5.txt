@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 879 | label: meter | g:0.194 m:0.5 ---
+
+rajiḥ putraśatānīha janayām āsa pañca vai 
+rājeyam iti vikhyātaṃ kṣatram indrabhayāvaham ।।

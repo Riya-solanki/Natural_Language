@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 471 | label: grammar | g:0.625 m:0.5 ---
+
+ārabdhā bhavadabhinutir amunā yenāṅgakena mama śambho tenāparyantam imaṃ kālaṃ dṛḍham akhilam eva bhaviṣīṣṭa ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2419 | label: meter | g:0.306 m:0.625 ---
+
+vajradvikaṃ maṇīkṛtvā dhanaṃ vajradharāllabhet ।
+sā evāṅgu ṣṭhavajreṇa maṇiṃ dadyād hṛdi sthitaṃ ।।

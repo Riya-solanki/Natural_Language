@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 247 | label: meter | g:0.194 m:0.625 ---
+
+yena ketakapuṣpāder vaikṛṣṭye apyupalabhyate 
+iti pañcasu śabdo ayaṃ sparśo bhūtacatuṣṭaye ।।

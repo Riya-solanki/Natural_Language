@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 977 | label: meter | g:0.306 m:0.5 ---
+
+prathamam aruṇacchāyas tāvat tataḥ kanakaprabhas tadanu virahottāmyattanvīkapolataladyutiḥ ।
+prasarati punar dhvāntadhvaṃsakṣamaḥ kṣaṇadāmukhe sarasabisinīkandacchedacchavir mṛgalāñchanaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1039 | label: meter | g:0.25 m:0.555 ---
+
+amībhiḥ ṣaḍbhiraparairmāsaiḥ pāraṇamuttamam ।
+evaṃ saṃvatsaraṃ pūrṇaṃ saṃpūjya ṣabhadhvajam ।
+akṣayān labhate kāmān maheśvaravaco yathā ।।

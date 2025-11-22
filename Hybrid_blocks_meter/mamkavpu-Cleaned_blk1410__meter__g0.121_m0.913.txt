@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1410 | label: meter | g:0.121 m:0.913 ---
+
+{svacchātmatāguṇasamullasitendubimbaṃ
+bimbaprabhādharamakṛtrimahṛdyagandham ।
+yūnāmatīva pibatāṃ rajanīṣu yatra
+tṛṣṇāṃ jahāra madhu nānanamaṅganānām ।।}

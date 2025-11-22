@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 223 | label: meter | g:0.333 m:0.5 ---
+
+[] yatra ca sa eva sarva-rasa-satram amatram ekam āsīt । tatra ca,

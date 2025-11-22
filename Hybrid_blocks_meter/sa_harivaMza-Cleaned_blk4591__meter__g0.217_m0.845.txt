@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4591 | label: meter | g:0.217 m:0.845 ---
+
+śṛṇuṣvāvahito rājan kṛṣṇasyāmitatejasaḥ 
+manuṣyaloke bāṇena yathābhūd vigraho mahān ।।

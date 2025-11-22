@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 458 | label: hybrid | g:0.442 m:0.171 ---
+
+śṛṅgāraṃ caiva hāsyaṃ ca vṛttiḥ syāt kaiśikī śritā ।
+sāttvatī nāma vijñeyā raudra-vīrādbhutāśrayā ।।
+bhayānake ca bībhatse raudre cārabhaṭī bhavet ।
+bhāratī cāpi vijñeyā karuṇābhuta-saṃśrayā ।। 
+Variant found in KLJoshi edition hāsya-śṛṅgāra-bahulā kaiśikī paricakṣitā । sātvatī cāpi vijñeyā vīrādbhuta-śamāśrayā । raudre bhayānake caiva vijñeyārabhaṭī budhaiḥ । bībhatse karuṇe caiva bhāratī samprakīrtitā ।।

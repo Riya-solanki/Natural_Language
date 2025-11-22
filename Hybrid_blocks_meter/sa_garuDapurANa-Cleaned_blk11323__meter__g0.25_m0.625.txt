@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11323 | label: meter | g:0.25 m:0.625 ---
+
+lakṣmaṇāyāṃ pañca doṣāḥ śirogulphādikaṃ vinā ।
+nābhyādhikye sahaivāṣṭau doṣāḥ saṃtyativāhike ।।

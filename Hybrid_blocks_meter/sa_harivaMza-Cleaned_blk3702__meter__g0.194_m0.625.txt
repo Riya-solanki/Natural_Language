@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3702 | label: meter | g:0.194 m:0.625 ---
+
+te tatra ramaṇīyeṣu viṣayeṣu sakhapriyāḥ 
+mumudur yādavāḥ sarve devāḥ svargagatā iva ।।

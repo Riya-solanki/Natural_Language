@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2785 | label: meter | g:0.25 m:0.5 ---
+
+bhavatā rakṣitā gāvo gobhir lokāś ca rakṣitāḥ 
+yad vayaṃ puṃgavaiḥ sārdhaṃ vardhāmaḥ prasavais tathā ।।

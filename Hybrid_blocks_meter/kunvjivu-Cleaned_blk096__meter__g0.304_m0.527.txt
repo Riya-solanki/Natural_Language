@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 96 | label: meter | g:0.304 m:0.527 ---
+
+atra dāho bāṣpaḥ śvāsā vapuriti na kiñcidvaicitryamunmīlitam ।
+pratyekaṃ ca viśeṣaṇamāhātmyāt kācideva vakratāpratītiḥ ।
+yathā ca

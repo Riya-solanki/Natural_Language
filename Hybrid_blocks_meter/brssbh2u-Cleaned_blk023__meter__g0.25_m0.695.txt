@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 23 | label: meter | g:0.25 m:0.695 ---
+
+brahmāsya jagato nimittakāraṇaṃ prakṛtiścetyasya pakṣasyākṣepaḥ smṛtinimittaḥ parihṛtaḥ ।
+tarkanimitta idānīmākṣepaḥ parihriyate ।
+kutaḥ punarasminnavadhārita āgamārthe tarkanimittasyākṣepasyāvakāśaḥ ।

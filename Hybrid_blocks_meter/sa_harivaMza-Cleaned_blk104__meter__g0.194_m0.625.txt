@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 104 | label: meter | g:0.194 m:0.625 ---
+
+kathaṃ praṇāśitāḥ putrā nāradena maharṣinā 
+prajāpater dvijaśreṣṭha śrotum icchāmi tattvataḥ ।।

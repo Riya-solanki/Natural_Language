@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 286 | label: meter | g:0.25 m:0.5 ---
+
+tvayi jīvati jīvanti bahavo dharmajīvinaḥ ।
+nimīlite tvayi vyaktaṃ diśaḥ sarvā nimīlitāḥ ।।

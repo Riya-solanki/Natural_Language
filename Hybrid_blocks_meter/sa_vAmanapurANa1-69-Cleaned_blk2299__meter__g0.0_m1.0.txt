@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2299 | label: meter | g:0.0 m:1.0 ---
+
+iti śrīvāmanapurāṇe ṣaṭtriśodhyāyaḥ

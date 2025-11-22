@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 566 | label: hybrid | g:0.375 m:0.5 ---
+
+atra {kāryaṃ vinā mitram} iti vivakṣitam {akārye mitram iti} tu pratītiḥ । yathā vā

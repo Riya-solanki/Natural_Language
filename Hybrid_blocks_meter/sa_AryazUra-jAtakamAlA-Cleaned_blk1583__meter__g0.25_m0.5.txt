@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1583 | label: meter | g:0.25 m:0.5 ---
+
+sukhāśraye duḥkhavinodane ca samānacittānavagaccha sattvān ।
+ityātmanaḥ syādanabhīpsitaṃ yanna tatpareṣvācarituṃ kṣamaṃ te ।।

@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 147 | label: meter | g:0.25 m:0.606 ---
+
+abhyāso hi karmaṇāṃ kauśalamāvahati ।
+na hi sakṛnnipātamātreṇodabindurapi grāvaṇi nimnatāmādadhāti ।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1458 | label: hybrid | g:0.5 m:0.5 ---
+
+rāmaḥ-param anugṛhītaṃ raghu-kulam ity antena agastya-dattāśīrvāda-rūpa-prasāda-kathanāt prasādaḥ ।

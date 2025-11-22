@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9198 | label: meter | g:0.25 m:0.625 ---
+
+cikitsā jāyate tasya garbhavāsaparikṣaye ।
+nārī vātha naro vātha napuṃstvaṃ vābhijāyate ।।

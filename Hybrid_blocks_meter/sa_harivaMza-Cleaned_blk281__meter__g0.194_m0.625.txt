@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 281 | label: meter | g:0.194 m:0.625 ---
+
+tena kṣīreṇa rakṣāṃsi yakṣāś caivāmaropamāḥ 
+vartayanti piśācāś ca bhūtasaṃghās tathaiva ca ।।

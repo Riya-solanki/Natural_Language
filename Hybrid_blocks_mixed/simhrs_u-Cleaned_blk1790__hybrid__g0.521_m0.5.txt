@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1790 | label: hybrid | g:0.521 m:0.5 ---
+
+iti sūtradhārasya priyā-samāśvāsana-vākyaṃ svasyānukūlatayā paṭhato yaugandharāyaṇasya praveśāt kathodghātaḥ ।

@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 333 | label: grammar | g:0.588 m:0.314 ---
+
+api ca mantrabrāhmaṇayorupeyopāyabhūtayoḥ saṃpratipatterbrahmaivānandamayapadārthaḥ ।
+mantre hi punaḥ aanyo antara ātmā' iti parabrahmaṇyāntaratvaśravaṇāt, tasyaiva ca aanyo antara ātmānandamayaḥ' iti brāhmaṇe pratyabhijñānāt, parabrahmaivānandamayamityāha sūtrakāraḥ- māntravarṇikameva ca gīyate ।
+māntravarṇikameva paraṃ brahma brāhmaṇe apyānandamaya iti gīyata iti ।।

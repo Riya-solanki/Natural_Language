@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 379 | label: hybrid | g:0.5 m:0.5 ---
+
+ye śaktihīnā vibhavārjanādau te dehino duḥkhaśataṃ sahante ।
+lokaṃ punar duḥkhaśatopataptaṃ draṣṭuṃ na śaknomi cirāyamāṇaḥ ।।

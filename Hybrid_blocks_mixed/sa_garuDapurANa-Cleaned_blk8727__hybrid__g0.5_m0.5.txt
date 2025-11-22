@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8727 | label: hybrid | g:0.5 m:0.5 ---
+
+na jānīmo diśaṃ tāta vidiśaṃ cātiduḥ khitāḥ ।
+kva nu gacchāmahe mūḍhāḥ piśācāḥ karmajā vayam ।।

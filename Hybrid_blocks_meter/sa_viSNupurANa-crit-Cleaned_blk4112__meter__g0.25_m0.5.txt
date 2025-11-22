@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4112 | label: meter | g:0.25 m:0.5 ---
+
+yo anantarūpo akhilaviśvarūpo garbhe api lokān vapuṣā bibharti 
+prasīdatām eṣa sa devadevaḥ svamāyayāviṣkṛtabālarūpaḥ ।।

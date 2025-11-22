@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 170 | label: meter | g:0.25 m:0.5 ---
+
+{padmāvatī} - haḷā jadi evvaṃ kiṃ dāṇiṃ viḷambesi 
+[halā yady evaṃ kim idānīṃ vilambase । ]

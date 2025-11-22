@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 593 | label: grammar | g:0.604 m:0.5 ---
+
+prauḍhapremarasān nitambaphalakād viśraṃsite apy aṃśuke kāñcīdāmamaṇiprabhābhir anu cārabdhe dukūlāntare ।
+kāntenāśu mudhā vilokitam atho tanvyā mudhā lajjitaṃ bhūyo anena mudhāvakṛṣṭam atha tat tanvyā mudhā saṃvṛtam ।।

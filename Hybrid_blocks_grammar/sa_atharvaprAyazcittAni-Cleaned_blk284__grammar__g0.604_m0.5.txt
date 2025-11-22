@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 284 | label: grammar | g:0.604 m:0.5 ---
+
+yo vā eṣa prapatito bhavati tad yad enam adhigacheyur atha tena yajeta ।

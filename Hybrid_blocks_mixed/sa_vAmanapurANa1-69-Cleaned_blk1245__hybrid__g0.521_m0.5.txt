@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1245 | label: hybrid | g:0.521 m:0.5 ---
+
+sa mṛdyamāno dharaṇīdharābho devyā balī hīnabalo babhūva ।
+tato asya śūlena bibeda kaṇṭhaṃ tasmāt pumān khaṅgadharo vinirgataḥ ।।

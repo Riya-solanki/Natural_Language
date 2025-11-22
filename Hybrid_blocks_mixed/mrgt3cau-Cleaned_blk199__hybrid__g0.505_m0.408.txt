@@ -1,0 +1,5 @@
+--- source: mrgt3cau-Cleaned.txt | block: 199 | label: hybrid | g:0.505 m:0.408 ---
+
+Vṛtti:
+[nirmālyasamparke] nirmālyasāṅkarye sati [sarvabrahmāṇi lakṣaśo japed] brahmamantrāḥ pratyekaṃ lakṣaśo japyāḥ।
+[nirmālyabhojane] sākṣāttu tadbhojane [samagrasaṃhitālakṣaṃ japet] sādhyamantrasaṃhitāyāḥ śivaikādaśinyā ekaikamantralakṣaṃ japet।

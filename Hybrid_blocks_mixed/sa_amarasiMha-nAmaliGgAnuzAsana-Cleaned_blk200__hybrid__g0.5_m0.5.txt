@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 200 | label: hybrid | g:0.5 m:0.5 ---
+
+bībhatsaraudrau ca rasāḥ śṛṅgāraḥ śucirujjvalaḥ utsāhavardhano vīraḥ kāruṇyaṃ karuṇā ghṛṇā kṛpā dayānukampā syādanukrośo apyatho hasaḥ hāso hāsyaṃ ca bībhatsaṃ vikṛtaṃ triṣvidaṃ dvayam

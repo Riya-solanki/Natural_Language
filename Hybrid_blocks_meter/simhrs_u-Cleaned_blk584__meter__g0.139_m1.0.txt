@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 584 | label: meter | g:0.139 m:1.0 ---
+
+bherī-dhvaninā, yathā-
+nananda nidrā-rasa-bhañjanair api
+prayāṇa-tūrya-dhvanibhir dharāpateḥ ।
+atarkitātaṅka-vilola-padmajā-
+payodhara-dvandva-nipīḍito hariḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1335 | label: meter | g:0.446 m:0.688 ---
+
+ata iha bhavanaṃ vanaṃ ca tulyaṃ jagadupajīvyavibhūtivistarāṇām ।
+avikalabhuvanopakārapārapraṇayakṛtavyavasāyamānasānām ।।

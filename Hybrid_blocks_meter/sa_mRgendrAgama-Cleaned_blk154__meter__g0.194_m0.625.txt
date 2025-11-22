@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 154 | label: meter | g:0.194 m:0.625 ---
+
+koṭiśo maraṇaṃ dṛṣṭvā saṃhatānāṃ śarīriṇām 
+so api pratīyate kālo yatrāśeṣajanakṣayaḥ ।।

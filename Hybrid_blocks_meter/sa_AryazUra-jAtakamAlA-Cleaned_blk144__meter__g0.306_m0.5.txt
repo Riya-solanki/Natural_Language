@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 144 | label: meter | g:0.306 m:0.5 ---
+
+dharmātmakatvānna ca nāma tasya paropatāpāśivamāsa cetaḥ ।
+bhṛtyānurāgastu tathā jajṛmbhe dviṣatsu lakṣmīrna yathāsya reme ।।

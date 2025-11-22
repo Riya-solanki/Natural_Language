@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1187 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca sarva-sammatyā katham api jātayā tasyās tatra saṅgatyā sphurad-atyāveśa-maṅgalā madhumaṅgalena śārṅgiṇam ānāyitavatī । ānāyya cāsanādinā sabhājya smita-sphurad-upālambhaṃ sambhāṣate sma-bhavatu, bhavatā yat kṛtaṃ tat kṛtam eva । samprati tatra sampratipattiṃ vidhehi ।

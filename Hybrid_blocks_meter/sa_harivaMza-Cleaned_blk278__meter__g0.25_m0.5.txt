@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 278 | label: meter | g:0.25 m:0.5 ---
+
+vatsaṃ vaiśravaṇaṃ kṛtvā yakṣaiḥ puṇyajanais tathā 
+dogdhā rajatanābhas tu pitā maṇivarasya yaḥ । 
+yakṣātmajo mahātejās triśīrṣaḥ sumahātapāḥ । 
+dogdhā tu dhanadaḥ svāminn evaṃ taiś ca vasuṃdharā । 
+tena te vartayantīha paramarṣir uvāca ha ।।

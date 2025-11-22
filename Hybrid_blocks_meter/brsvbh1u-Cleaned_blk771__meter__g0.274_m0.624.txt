@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 771 | label: meter | g:0.274 m:0.624 ---
+
+sūtrāntaramavatārayituṃ śaṅkate-kathaṃ punariti ।
+ajākṛtirjātistejo abanneṣu nāsti ।
+naca tejo abannānāṃ janmaśravaṇādajanmanimitto apyajāśabdaḥ saṃbhavatītyāha-naca tejo abannānāmiti ।
+sūtramavatārayati-ata uttaraṃ paṭhati ।

@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 196 | label: meter | g:0.25 m:0.625 ---
+
+ṣaḍahopoṣito lakṣaṃ japedvanyāśano api vā ।
+juhuyādayutaṃ jñāte dviguṇaṃ śuddhikāraṇāt ।

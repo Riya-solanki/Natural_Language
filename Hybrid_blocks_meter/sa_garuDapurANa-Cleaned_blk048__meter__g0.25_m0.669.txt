@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 48 | label: meter | g:0.25 m:0.669 ---
+
+vyāsa uvāca ।
+kathaṃ rudraṃ suraiḥ sārdhamabravīdvai hariḥ purā ।
+purāṇaṃ gāruḍaṃ sāraṃ brūhi brahmanmahārthakam ।।

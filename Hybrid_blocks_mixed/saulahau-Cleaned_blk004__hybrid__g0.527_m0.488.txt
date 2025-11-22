@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 4 | label: hybrid | g:0.527 m:0.488 ---
+
+tvadanyaḥ pāṇibhyām abhayavarado daivatagaṇas tvam ekā naivāsi prakaṭitavarābhītyabhinayā
+bhayāt trātuṃ dātuṃ phalam api ca vāñchāsamadhikaṃ śaraṇye lokānāṃ tava hi caraṇāv eva nipuṇau ।।

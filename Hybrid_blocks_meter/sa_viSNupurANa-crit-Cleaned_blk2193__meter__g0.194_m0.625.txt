@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2193 | label: meter | g:0.194 m:0.625 ---
+
+prātar gatvātidūraṃ ca sāyam āyāt tadāśramam 
+punaś ca bharatasyābhūd āśramasyoṭajājire ।।

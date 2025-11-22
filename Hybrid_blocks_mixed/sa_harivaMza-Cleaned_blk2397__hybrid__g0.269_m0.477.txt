@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2397 | label: hybrid | g:0.269 m:0.477 ---
+
+tās tu gāvaḥ sa ghoṣaś ca sa ca saṃkarṣaṇo yuvā 
+kṛṣṇena vihitaṃ vāsaṃ tam adhyāsanta nirvṛtāḥ ।। 
+yatra tiṣṭhati deveśo devadevo janārdanaḥ । na tatra prāṇināṃ duḥkhaṃ sa ca sarvasukhāvahaḥ । 
+tau tu vṛndāvanaṃ prāptau vasudevasutāv ubhau 
+ceratur vatsayūthāni cārayantau sunirvṛttau ।।

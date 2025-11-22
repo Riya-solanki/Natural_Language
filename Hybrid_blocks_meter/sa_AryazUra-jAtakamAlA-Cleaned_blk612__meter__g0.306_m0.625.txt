@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 612 | label: meter | g:0.306 m:0.625 ---
+
+aho putraviyogāgnirnirdahatyeva me manaḥ ।
+satāṃ tu dharmaṃ saṃsmṛtya ko anutāpaṃ kariṣyati ।।

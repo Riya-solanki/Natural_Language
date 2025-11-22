@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2234 | label: hybrid | g:0.542 m:0.5 ---
+
+tamāgataṃ prāha mune madhughnaḥ prāpto asi kenāsura kāraṇena ।
+sa prāha yoddhuṃ saha vai tvayādya taṃ prāha bhūyaḥ suraśatruhantā ।।

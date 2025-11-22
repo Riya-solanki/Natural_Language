@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1771 | label: meter | g:0.25 m:0.625 ---
+
+upacāravidhijño api nirdhanaḥ kiṃ kariṣyati ।
+niraṅkuśa ivārūḍho mattadviradamūrdhani ।।

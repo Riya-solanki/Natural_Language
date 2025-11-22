@@ -1,0 +1,7 @@
+--- source: brsvbh1u-Cleaned.txt | block: 600 | label: meter | g:0.254 m:0.763 ---
+
+neha tirohitamivāsti kiñcit ।
+yattu sārūpyābhāvānna cidātmanaḥ pariṇāmaḥ prapañca iti ।
+addhā ।
+avivartastu prapañco ayaṃ brahmaṇopariṇāminaḥ ।
+anādivāsanodbhūto na sārūpyamapekṣate ।।

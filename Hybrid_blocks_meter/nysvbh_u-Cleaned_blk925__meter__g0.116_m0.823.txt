@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 925 | label: meter | g:0.116 m:0.823 ---
+
+nātyantarūpoparamaḥ dravyasya śyāme rūpe nivṛtte pākajaṃ
+guṇāntaram
+uraktaṃ rūpamutpadyate, śarīre tu
+cetanāmātroparamo atyantamiti ।।

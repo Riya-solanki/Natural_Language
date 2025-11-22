@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 659 | label: meter | g:0.306 m:0.5 ---
+
+kāmaṃ sadā dīkṣita eva ca tvaṃ dānaprasaṅgānniyamādarācca ।
+vedaprasiddhaiḥ kratubhistathāpi yuktaṃ bhavenmoktumṛṇaṃ surāṇām ।।

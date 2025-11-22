@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1137 | label: grammar | g:0.562 m:0.5 ---
+
+ramyaṃ dveṣṭi yathā purā prakṛtibhirna pratyahaṃ sevyate śayyāprāntavivartanairvigamayatyunnidra eva kṣapāḥ ।
+dākṣiṇyena dadāti vācamucitāmantaḥ purebhyo yadā gotreṣu skhalitastadā bhavati ca vrīḍāvilakṣaściram ।।

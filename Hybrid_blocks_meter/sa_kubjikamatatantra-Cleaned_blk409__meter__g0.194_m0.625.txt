@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 409 | label: meter | g:0.194 m:0.625 ---
+
+kha-paścimaṃ samuddiṣṭaṃ paścimottaram eva ca 
+gha-ca-madhyagataṃ caiva uddhared akṣaraṃ śubham ।।

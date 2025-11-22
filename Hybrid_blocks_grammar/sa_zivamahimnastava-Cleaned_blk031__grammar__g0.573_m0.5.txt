@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 31 | label: grammar | g:0.573 m:0.5 ---
+
+bahularajase viśvotpattau bhavāya namo namaḥ prabalatamase tatsaṃhāre harāya namo namaḥ ।
+janasukhakṛte sattvotpattau mṛdāya namo namaḥ pramahasi pade nistraiguṇye śivāya namo namaḥ ।।

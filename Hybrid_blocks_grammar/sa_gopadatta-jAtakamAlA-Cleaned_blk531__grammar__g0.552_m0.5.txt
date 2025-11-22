@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 531 | label: grammar | g:0.552 m:0.5 ---
+
+śrutvāpi dānaniyatāṃ sa kathāṃ cakampe dṛṣṭvāpi yācanakam udvijate kadaryaḥ ।
+tyāgapriyaiḥ saha cakāra na lokayātrāṃ nando jahāsa kila dāyakam īkṣamāṇaḥ ।।

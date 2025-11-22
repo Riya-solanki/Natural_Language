@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 334 | label: meter | g:0.194 m:0.75 ---
+
+saupārśve dhṛtimannāma kānanaṃ bhadrako hradaḥ 
+saugandhikāmbujacchannaḥ sevyate pitṛbhiḥ sadā ।।

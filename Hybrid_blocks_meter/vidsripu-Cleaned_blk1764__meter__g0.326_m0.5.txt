@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1764 | label: meter | g:0.326 m:0.5 ---
+
+yadā vigṛhṇāti tadā hataṃ yaśaḥ karoti maitrīm atha dūṣitā guṇāḥ ।
+sthitaḥ samīkṣyobhayatā parīkṣakaḥ karoty avajñopahataṃ pṛthagjanam ।।

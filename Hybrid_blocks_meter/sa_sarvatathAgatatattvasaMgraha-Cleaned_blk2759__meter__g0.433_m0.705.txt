@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2759 | label: meter | g:0.433 m:0.705 ---
+
+vajrasatvasamādhisthaḥ candravajraprayogataḥ ।
+yathā varṇau tu tau vetti tathā lokaṃ tu vetti saḥ ।।

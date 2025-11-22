@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 274 | label: meter | g:0.326 m:0.5 ---
+
+vāpītaḍe kuḍuṅgā piasahi hnāuṃ gaehiṃ dīsaṃti ।
+ṇa dharanti kareṇa bhaṇanti ṇa tti valiuṃ puṇa ṇar deti ।।

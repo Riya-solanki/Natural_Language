@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 836 | label: grammar | g:0.635 m:0.5 ---
+
+śyāmāṃ śyāmalimānam ānayata bhoḥ sāndrair masīkūrcakais tantraṃ mantram atha prayujya harata śvetotpalānāṃ smitam ।
+candraṃ cūrṇayata kṣaṇāc ca kaṇaśaḥ kṛtvā śilāpaṭṭake yena draṣṭum ahaṃ kṣame daśa diśas tadvaktramudrāṅkitāḥ ।।

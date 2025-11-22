@@ -1,0 +1,6 @@
+--- source: brssgo4u-Cleaned.txt | block: 30 | label: meter | g:0.25 m:0.728 ---
+
+na ayaṃ doṣaḥ ।
+viruddhaguṇatāyā mithyātva upapatteḥ ।
+yatpunaḥ uktam īśvara abhāvaprasaṅga iti ।
+tat asat ।

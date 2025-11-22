@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1818 | label: meter | g:0.351 m:0.565 ---
+
+idaṃ purāṇaṃ paramaṃ pavitraṃ devyā jayaṃ maṅgaladāyi puṃsām ।
+śrotavyametanniyataiḥ sadaiva rakṣoghnametadbhagavānuvāca ।।

@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 459 | label: grammar | g:0.625 m:0.5 ---
+
+saha dīrghā mama śvāsair imāḥ samprati rātrayaḥ pāṇḍurāś ca mamaivāṅgeḥ saha tāś candrabhūṣaṇāh ।।

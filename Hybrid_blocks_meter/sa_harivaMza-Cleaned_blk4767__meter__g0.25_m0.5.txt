@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4767 | label: meter | g:0.25 m:0.5 ---
+
+aho dhik kim idaṃ loke nāthe kṛṣṇe vyavasthite 
+anāthā iva saṃtrastā rudimo bhayamohitāḥ ।।

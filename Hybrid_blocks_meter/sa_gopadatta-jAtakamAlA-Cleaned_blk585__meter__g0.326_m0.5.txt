@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 585 | label: meter | g:0.326 m:0.5 ---
+
+etāṃ suhṛjjanaviṣādakarīm avasthām ālokya mohatamasaḥ pratibimbabhūtām ।
+svāṅgān nikṛtya piśitāny api ko na dadyāt saṃsāravartmani naraḥ parivartamānaḥ ।।

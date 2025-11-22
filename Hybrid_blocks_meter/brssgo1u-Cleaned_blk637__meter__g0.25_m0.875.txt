@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 637 | label: meter | g:0.25 m:0.875 ---
+
+ṇijadhyāhārapakṣe smṛtibalamapyastītyāha-apiceti ।
+sūtraṃ vyācaṣṭe-apiceti ।
+abhāsyatve sarvabhāsakatve ca ślokadvayaṃ draṣṭavyam ।
+tasmādanubhānamantro brahmaṇi samanvita iti siddham ।।

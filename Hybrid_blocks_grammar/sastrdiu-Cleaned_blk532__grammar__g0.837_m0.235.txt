@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 532 | label: grammar | g:0.837 m:0.235 ---
+
+nanu vibhutve sarvaśarīreṣveka evātmāstu kiṃ nānātmabhirabhyupagataiḥ,naivam- ekatve sati yathā paraṇabhede api karturekatvāccakṣuṣā dṛṣṭamarthaṃ yajñadattaḥ pratyabhijānāti- yamahamadarśaṃ tamahaṃ spṛśāmīti, tathā devadattaśarīrasthenātmanā dṛṣṭamarthaṃ yajñadattaḥ pratyabhijānīyāt, śarīrabhede apyātmanasaḥ, śarīrabhede apyātmanaḥ pratyabhijñāturekatvāt ।
+karturekatve api manobhedādvyavastheti cet, na, karaṇatvānmanasaḥ, karaṇabhedasya cakṣurāderbhedavyavasthāpakatvāyogādityuktam ।।

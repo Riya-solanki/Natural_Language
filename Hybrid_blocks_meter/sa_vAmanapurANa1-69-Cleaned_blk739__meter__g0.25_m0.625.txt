@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 739 | label: meter | g:0.25 m:0.625 ---
+
+yadetad bhārataṃ varṣaṃ navadvīpaṃ nisācara ।
+sāgarāntaritāḥ sarve agamyāśca parasparam ।।

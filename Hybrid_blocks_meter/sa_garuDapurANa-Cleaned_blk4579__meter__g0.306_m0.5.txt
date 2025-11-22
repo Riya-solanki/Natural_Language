@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4579 | label: meter | g:0.306 m:0.5 ---
+
+śītapriyatvaṃ galatāluśoṣo mādhurya māsye karapādadāhaḥ ।
+bhaviṣyato mehagaṇasya rūpaṃ mūtre api dhāvanti pipīlikāśca ।।

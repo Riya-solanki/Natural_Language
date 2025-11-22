@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 877 | label: meter | g:0.25 m:0.5 ---
+
+yatra yatra samaṃ tv asyā bhūmer āsīn narādhipaḥ 
+tatra tatra prajānāṃ hi nivāsaṃ samarocayat ।।

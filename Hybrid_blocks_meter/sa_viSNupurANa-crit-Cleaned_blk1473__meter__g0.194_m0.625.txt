@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1473 | label: meter | g:0.194 m:0.625 ---
+
+dakṣiṇasyāṃ diśi tathā kardamasya prajāpateḥ 
+putraṃ śaṅkhapadaṃ nāma rājānaṃ so abhyaṣecayat ।।

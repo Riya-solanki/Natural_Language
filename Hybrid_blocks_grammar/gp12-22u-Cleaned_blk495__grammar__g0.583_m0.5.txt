@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 495 | label: grammar | g:0.583 m:0.5 ---
+
+[] yatrānanda-kandalitatayā svayam api labdha-tṛṣṇāḥ kṛṣṇādayas tadīya-śikṣā-parīkṣaṇāya sudurgama-tālādi-dharās tat-parikarā eva babhūvuḥ ।

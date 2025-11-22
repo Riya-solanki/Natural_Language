@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 96 | label: grammar | g:0.594 m:0.5 ---
+
+tām āyuṣman mama ca vacanād ātmanaś copakartuṃ brūyā evaṃ tava sahacaro rāmagiryāśramasthaḥ ।
+avyāpannaḥ kuśalam abale pṛcchati tvāṃ viyuktaḥ pūrvāśāsyaṃ sulabhavipadāṃ prāṇinām etad eva ।।

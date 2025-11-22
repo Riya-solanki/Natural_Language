@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 305 | label: meter | g:0.194 m:0.5 ---
+
+kiṃ tu maṇḍalayogyās te na bhavanti kuleśvarāḥ 
+candanākṣatadīpānāṃ nārhatvaṃ ca bhajanti te ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4126 | label: meter | g:0.194 m:0.5 ---
+
+cikṣepa ca śilāpṛṣṭhe sā kṣiptā viyati sthitim 
+avāpa rūpaṃ ca mahat sāyudhāṣṭamahābhujam ।।

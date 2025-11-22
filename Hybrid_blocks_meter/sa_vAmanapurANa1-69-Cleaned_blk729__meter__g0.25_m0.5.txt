@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 729 | label: meter | g:0.25 m:0.5 ---
+
+yathā satīnāṃ himavatsutā hi yathārjunīnāṃ kapilā variṣṭhā ।
+yathā vṛṣāṇāmapi nīlavarṇo yathaiva sarveṣvapi duḥsaheṣu ।
+durgeṣu raudreṣu niśācareśa nṛpātanaṃ vaitaraṇī pradhānā ।।

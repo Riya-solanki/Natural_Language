@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 200 | label: hybrid | g:0.486 m:0.5 ---
+
+bhikṣū yathā paramaṛddhibalenupeto gagane sthito yamaka kurvati prātihāryāṃ 
+gaticaṃkramaṃ śayaniṣadya nidarśayāti na nivartate na pi ca khidyati yāva tatra ।।

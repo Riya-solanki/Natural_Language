@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 617 | label: grammar | g:0.583 m:0.5 ---
+
+tataḥ suvarṇamākṣikasya sārdhasaptapalānyānīya stokena madhye kṣiptvā punaḥ śanaistāvadāvartanīyāni yāvatā tāmrabhāgapramāṇāni bhavanti ।।

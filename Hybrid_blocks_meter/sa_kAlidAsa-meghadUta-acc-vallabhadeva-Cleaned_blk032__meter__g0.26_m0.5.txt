@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 32 | label: meter | g:0.26 m:0.5 ---
+
+dīrghīkurvan paṭu madakalaṃ kūjitaṃ sārasānāṃ pratyūṣeṣu sphuṭitakamalāmodamaitrīkaṣāyaḥ 
+yatra strīṇāṃ harati surataglānim aṅgānukūlaḥ siprāvātaḥ priyatama iva prārthanācāṭukāraḥ ।।

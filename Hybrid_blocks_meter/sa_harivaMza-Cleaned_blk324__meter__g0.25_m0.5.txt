@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 324 | label: meter | g:0.25 m:0.5 ---
+
+sādhyā rudrāś ca viśve ca vasavo marutas tathā 
+ādityāś cāśvinau caiva devau vaivasvatau smṛtau ।।

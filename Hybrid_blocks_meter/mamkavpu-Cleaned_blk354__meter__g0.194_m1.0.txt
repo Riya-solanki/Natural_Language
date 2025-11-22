@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 354 | label: meter | g:0.194 m:1.0 ---
+
+{amuṃ kanakavarṇābhaṃ bālamaprāptayauvanam ।
+gṛdhravākyātkathaṃ mūḍhāstyajadhvamaviśaṅkitāḥ ।।}

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 194 | label: meter | g:0.25 m:0.5 ---
+
+dānādadharmaṃ ca yadūcivāṃstvamarthaṃ ca dharmasya viśeṣahetum ।
+tanmānuṣī neyamavaiti buddhirdānādṛte dharmapatho yathārthaḥ ।।

@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 118 | label: meter | g:0.25 m:0.625 ---
+
+pramātṛtvenāham iti vimarśo anyavyapohanāt ।
+vikalpa eva sa para- pratiyogy avabhāsajaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 290 | label: meter | g:0.194 m:0.5 ---
+
+rasaviddhaṃ yathā tāmraṃ na bhūyas tāmratāṃ vrajet 
+ājñāviddhas tathāpy evaṃ na saṃsāram anukramet ।।

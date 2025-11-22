@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1946 | label: meter | g:0.194 m:0.625 ---
+
+etad yuṣmatpravṛttena daivena pariṇāmitā 
+jagaddhitārthaṃ kuruta rājñāṃ hetuṃ raṇakṣaye ।।

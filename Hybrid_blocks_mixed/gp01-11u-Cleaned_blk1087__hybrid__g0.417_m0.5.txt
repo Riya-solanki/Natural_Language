@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1087 | label: hybrid | g:0.417 m:0.5 ---
+
+[] tad evaṃ pūrvavad eva devana-kutukataḥ pūrvadeva-mārayoḥ kumārayor anayoḥ kaumāram ativṛtta-kalpam āsīt । [] yau khalu,

@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 144 | label: meter | g:0.25 m:0.944 ---
+
+mercury abhracāraṇa
+yavaciñcikāmbupuṭitaṃ tanmūlaśatāvarīgadākulitam ।
+ghanaravaśigrupunarnavarasabhāvitamabhrakaṃ carati ।।

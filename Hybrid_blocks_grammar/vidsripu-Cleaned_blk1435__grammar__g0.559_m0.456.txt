@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1435 | label: grammar | g:0.559 m:0.456 ---
+
+tṛṣārtaiḥ śāraṅgaiḥ prati jaladharaṃ bhūri virutaṃ ghanair muktā dhārāḥ sapadi payasas tān prati muhuḥ ।
+khagānāṃ ke meghāḥ ka iva vihagā vā jalamucām ayācyo nārtānām anupakaraṇīyo na mahatām ।।
+amarasiṃhasya

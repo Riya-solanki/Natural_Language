@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2000 | label: meter | g:0.194 m:0.5 ---
+
+brāhmaṇebhyaḥ pitṛbhyaś ca mukham etat tu dānajam 
+dattadānas tu viṣuve kṛtakṛtyo abhijāyate ।।

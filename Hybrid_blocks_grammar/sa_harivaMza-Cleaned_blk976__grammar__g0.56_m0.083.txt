@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 976 | label: grammar | g:0.56 m:0.083 ---
+
+cakravartī suto jajñe duḥṣantasya mahāyaśāḥ 
+śakuntalāyāṃ bharato yasya nāmnā stha bhāratāḥ ।। 
+duḥṣantaṃ prati rājāṇaṃ vāg uvācāśarīriṇī । mātā bhastrā pituḥ putro yena jātaḥ sa eva saḥ । bharasva putraṃ duḥṣanta māvamaṃsthāḥ śakuntalām ।। retodhāḥ putra unnayati naradeva yamakṣayāt । tvaṃ cāsya dhātā garbhasya satyam āha śakuntalā । 
+bharatasya vinaṣṭeṣu tanayeṣu mahīpateḥ 
+mātṝṇāṃ tāta kopeṇa yathā te kathitaṃ tadā ।।

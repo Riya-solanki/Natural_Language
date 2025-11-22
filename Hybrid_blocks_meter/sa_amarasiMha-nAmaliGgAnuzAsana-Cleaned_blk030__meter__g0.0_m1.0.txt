@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 30 | label: meter | g:0.0 m:1.0 ---
+
+vibhūtirbhūtiraiśvaryamaṇimādikamaṣṭadhā

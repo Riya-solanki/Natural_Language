@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 790 | label: grammar | g:0.75 m:0.5 ---
+
+SktCh tataśca deva bhaṇitaṃ svāmināṅgarājena । bho vṛkodara asamāptastava mamāpi samaravyāpāraḥ । tadanumanyasva māṃ muhūrtam । prekṣāvahe tāvadvatsasya tava bhrātuśca dhanurvedaśikṣānipuṇatvam । tavāpyetatprekṣaṇīyamiti ।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1308 | label: meter | g:0.25 m:0.625 ---
+
+ayaṃ nijaḥ paro veti gaṇanā laghucetasām ।
+udāracaritānāṃ tu vasudhaiva kuṭumbakam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 830 | label: meter | g:0.194 m:0.5 ---
+
+sa tābhyaḥ sahasaivātha digbhyo garbhaḥ prabhānvitaḥ 
+papāta bhāsayaṃl lokāñ śītāṃśuḥ sarvabhāvanaḥ ।।

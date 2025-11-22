@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3606 | label: meter | g:0.289 m:0.932 ---
+
+śrīgaruḍamahāpurāṇam- 
+pitāmaha uvāca ।
+māndhātā cakravartyāsīdupoṣyaikādaśīṃ nṛpaḥ ।
+ekādaśyāṃ na bhuñjīta pakṣayorubhayārapi ।।

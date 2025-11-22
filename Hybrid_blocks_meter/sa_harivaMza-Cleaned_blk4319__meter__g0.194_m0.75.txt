@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4319 | label: meter | g:0.194 m:0.75 ---
+
+kṛṣṇo bhogavatīṃ ramyām ṛṣikāntāṃ mahāyaśāḥ 
+dvārakām ātmasātkṛtvā samudraṃ gamayiṣyati ।।

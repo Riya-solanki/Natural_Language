@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 360 | label: meter | g:0.194 m:0.5 ---
+
+taṃ śaśāpa tataḥ krodhāt savarṇā jananī tadā 
+caraṇaḥ patatām eṣa taveti bhṛśaduḥkhitā ।।

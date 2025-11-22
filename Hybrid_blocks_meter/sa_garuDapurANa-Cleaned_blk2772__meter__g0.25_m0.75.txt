@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2772 | label: meter | g:0.25 m:0.75 ---
+
+annaṃ bhūmauśvacāṇḍālavāyasebhyaśca niḥ kṣipet ।
+annaṃ pitṛmanuṣyebhyo deyamapyanvahaṃ jalam ।।

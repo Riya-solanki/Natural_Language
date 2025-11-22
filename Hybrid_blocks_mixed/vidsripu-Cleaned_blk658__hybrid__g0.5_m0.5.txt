@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 658 | label: hybrid | g:0.5 m:0.5 ---
+
+nakhakṣataṃ yan navacandrasannibhaṃ sthitaṃ kṛśāṅgi stanamaṇḍale tava ।
+idaṃ tarītuṃ trivalītaraṅgiṇīṃ virājate pañcaśarasya naur iva ।।

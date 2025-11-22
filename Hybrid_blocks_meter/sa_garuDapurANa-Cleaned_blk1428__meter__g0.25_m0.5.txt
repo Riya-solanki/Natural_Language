@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1428 | label: meter | g:0.25 m:0.5 ---
+
+pañca piṇḍānanuddhṛtya snānaṃ duṣyanti nityaśaḥ ।
+mṛdaikayā śiraḥ kṣālyaṃ dvābhyāṃ nābhestathopari ।।

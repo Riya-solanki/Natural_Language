@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 59 | label: grammar | g:0.729 m:0.5 ---
+
+bodhisattvabhūtaḥ kilāyaṃ bhagavānaparimitakālābhyāsātsātmībhūtopacitapuṇyakarmā kadācicchibīnāṃ rājā babhūva । sa bālyātprabhṛtyeva bṛddhopāsanaratirvinayānurakto anuraktaprakṛtiḥ prakṛtimedhāvitvādanekavidyādhigamavipulataramatirutsāhamaṃtraprabhāva[prabhutva]śaktidaivasaṃpannaḥ svā iva prajāḥ prajāḥ pālayati sma ।

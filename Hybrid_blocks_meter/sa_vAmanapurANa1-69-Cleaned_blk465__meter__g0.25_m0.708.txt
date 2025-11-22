@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 465 | label: meter | g:0.25 m:0.708 ---
+
+pītavāsā uvāca ।
+durjayo asau mahābāhustvayā prahlāda dharmajaḥ ।
+sādhyo vipravaro dhīmān mṛdhe devāsurairapi ।।

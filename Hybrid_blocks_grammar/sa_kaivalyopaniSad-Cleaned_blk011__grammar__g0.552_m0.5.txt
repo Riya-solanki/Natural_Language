@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 11 | label: grammar | g:0.552 m:0.5 ---
+
+sa brahmā sa śivaḥ sendraḥ so akṣaraḥ paramaḥ svarāṭ ।
+sa eva viṣṇuḥ sa prāṇaḥ sa kālo agniḥ sa candramāḥ ।।

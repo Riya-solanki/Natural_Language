@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10501 | label: meter | g:0.338 m:0.553 ---
+
+bhṛguruvāca ।
+kimāsanaṃ te garuḍāsanāya kiṃ bhūṣaṇaṃ kaustubhabhūṣaṇāya ।
+lakṣmīkalatrāya kimasti deyaṃ vāgīśa kiṃ te vacanīyamasti ।
+ato na jāne tava sadguṇāṃśca hyahaṃ sadā varuṇā tpādahīnaḥ ।।

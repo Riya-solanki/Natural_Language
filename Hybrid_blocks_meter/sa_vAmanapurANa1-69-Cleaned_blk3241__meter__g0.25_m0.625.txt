@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3241 | label: meter | g:0.25 m:0.625 ---
+
+tasmin hate dānavasainyapāle saṃpīḍyamānāstridaśaistu daityāḥ ।
+vimuktaśastrālakacarmavastrāḥ saṃprādravan bāṇamṛte asurendrāḥ ।।

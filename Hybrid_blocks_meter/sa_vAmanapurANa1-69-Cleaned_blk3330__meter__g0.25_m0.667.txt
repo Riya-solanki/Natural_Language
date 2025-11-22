@@ -1,0 +1,7 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3330 | label: meter | g:0.25 m:0.667 ---
+
+nāstikāḥ śaucarahitāḥ kṛpaṇā bhogavarjitāḥ ।
+steyānṛtakathāyuktā narāḥ śaṅkhaśritā bale ।।
+ityevaṃ kathitastubhyaṃ teṣāṃ dānava nirṇayaḥ ।।
+ahaṃ sā rāgiṇī nāma jāyaśrīstvāmupāgatā ।
+mamāsti dāvanapate pratijñā sādhusaṃmatā ।।

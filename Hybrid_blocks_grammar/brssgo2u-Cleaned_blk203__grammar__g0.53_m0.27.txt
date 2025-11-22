@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 203 | label: grammar | g:0.53 m:0.27 ---
+
+tuśabdenākṣepaṃ pariharati ।
+yathā loke kasyacidāptaiṣaṇasya vā vyatiriktaṃ kiñcitprayojanamabhisaṃdhāya kevalaṃ līlārūpāḥ pravṛttayaḥ krīḍāvihāreṣu bhavanti, yathā cocchvāsapraśvāsādayo anabhisaṃdhāya bāhyaṃ kiñcitprayojanaṃ svabhāvādeva saṃbhavanti evamīśvarasyāpyanapekṣya kiñcitprayojanāntaraṃ svabhāvādeva kevalaṃ līlārūpā pravṛttirbhaviṣyati ।
+na hīśvarasya prayojanāntaraṃ nirūpyamāṇaṃ nyāyataḥ śrutito vā saṃbhavati ।
+naca svabhāvaḥ paryanuyoktuṃ śakyate ।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 197 | label: meter | g:0.111 m:0.521 ---
+
+taj jñātvāsra-parāsabhāś ca paritaḥ sākrandam abhyāyayur
+yān dṛṣṭvā paśupāḥ sa-mādhava-balāḥ śaśvadd hasantaḥ sthitāḥ ।
+hāsāveśa-vaśāt kṛtānavahitiṃ pratyak padābhyāṃ balaṃ
+vajrābhyām iva dhenukas tam anudat tac caiṣa nābudhyata ।। [śārdūlavikrīḍitam]

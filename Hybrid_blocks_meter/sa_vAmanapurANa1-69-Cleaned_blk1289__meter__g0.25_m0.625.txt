@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1289 | label: meter | g:0.25 m:0.625 ---
+
+samutpatya mahāyogī gaganaṃ ravimaṇḍalam ।
+viveśa devaṃ tigmāṃśu dadarśa syandane sthitam ।।

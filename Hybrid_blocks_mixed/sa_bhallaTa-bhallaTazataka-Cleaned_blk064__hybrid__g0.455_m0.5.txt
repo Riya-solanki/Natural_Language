@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 64 | label: hybrid | g:0.455 m:0.5 ---
+
+varṣe samasta ekaikaḥ ślāghyaḥ ko apy eṣa vāsaraḥ 
+janair mahattayā nīto yo na pūrvair na cāparaḥ ।।

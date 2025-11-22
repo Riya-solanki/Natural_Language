@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1402 | label: grammar | g:0.604 m:0.5 ---
+
+ity upakramya, nepathye-biraeha keli-ākaḍḍhaṇa-pāḍaṇijjaṃ goura-duvāraṃ, boḍheha bibiha-ppaharaṇa-saṇṇāha-daha-sahassāi । ity antena devatā-tarjana-laṅkā-pura-janodvejana-kathanād dyutiḥ ।

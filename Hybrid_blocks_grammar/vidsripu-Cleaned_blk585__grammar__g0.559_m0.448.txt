@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 585 | label: grammar | g:0.559 m:0.448 ---
+
+tasyās tāpabhuvaṃ nṛśaṃsa kathayāmy eṇīdṛśas te kathaṃ padminyāḥ sarasaṃ dalaṃ vinihitaṃ yasyāḥ śamāyorasi ।
+ādau śuṣyati saṃkucaty anu tataś cūrṇatvam ādadyate paścān murmuratāṃ dadhad dahati ca śvāsāvadhūtaṃ sakhīm ।।
+utpalarajāsya

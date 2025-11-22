@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 583 | label: hybrid | g:0.5 m:0.5 ---
+
+garjitaṃ mahāravopalakṣaṇam । tena bheryādi-dhvanir api bhavati ।

@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 142 | label: hybrid | g:0.375 m:0.5 ---
+
+rūpaṃ śabdo gandharasasparśāśca viṣayā amī gocarā indriyārthāśca hṛṣīkaṃ viṣayīndriyam karmendriyaṃ tu pāyvādi manonetrādi dhīndriyam

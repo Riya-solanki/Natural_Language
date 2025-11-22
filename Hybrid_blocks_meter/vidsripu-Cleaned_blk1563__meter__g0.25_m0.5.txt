@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1563 | label: meter | g:0.25 m:0.5 ---
+
+labhante katham utthānam asthānaṃ guṇino gatāḥ ।
+dṛṣṭaḥ kiṃ kvāpi kenāpi kardamāt kandukodgamaḥ ।।

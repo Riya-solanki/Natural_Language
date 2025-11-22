@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2104 | label: meter | g:0.194 m:0.625 ---
+
+kṣayo bhuvi mayā dṛṣṭaḥ śakraloke ca satkriyā 
+teṣāṃ puruṣadehānām aparāvṛttivartinām ।।

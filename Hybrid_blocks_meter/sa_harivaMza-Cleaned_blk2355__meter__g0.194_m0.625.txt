@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2355 | label: meter | g:0.194 m:0.625 ---
+
+madhye cāsya mahāśākho nyagrodho yojanocchritaḥ 
+bhāṇḍīro nāma śuśubhe nīlamegha ivāmbare ।।

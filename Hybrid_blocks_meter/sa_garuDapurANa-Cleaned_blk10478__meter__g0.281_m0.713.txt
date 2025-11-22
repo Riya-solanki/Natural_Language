@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10478 | label: meter | g:0.281 m:0.713 ---
+
+ratiruvāca ।
+saṃcintayāmi nṛharervadanāravindaṃ bhṛtyānukaṃpitadhiyā hi gṛhītamūrtim ।
+yacchrīniketamajarudraramādikaiśca saṃlālitaṃ kuṭilaṅkuntalavṛndajuṣṭam ।।

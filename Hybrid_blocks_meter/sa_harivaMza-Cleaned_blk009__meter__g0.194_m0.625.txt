@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 9 | label: meter | g:0.194 m:0.625 ---
+
+mahābhāratam ākhyānaṃ bahvarthaṃ bahuvistaram 
+kathitaṃ bhavatā vipra vistareṇa mayā śrutam ।।

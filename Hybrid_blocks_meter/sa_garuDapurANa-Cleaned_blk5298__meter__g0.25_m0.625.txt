@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5298 | label: meter | g:0.25 m:0.625 ---
+
+jyotiṣmatīñca saṃbhṛtya tailaṃ dhīro vipācayet ।
+etanniṣyandanaṃ tailaṃ bhṛśaṃ dadyādbhagandare ।।

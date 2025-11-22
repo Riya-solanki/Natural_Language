@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 501 | label: meter | g:0.272 m:0.845 ---
+
+sandigdhamapratītaṃ grāmyaṃ neyārthamatha bhavet kliṣṭam ।
+avimṛṣṭavidheyāṃśaṃ viruddhamatikṛtsamāsagatameva ।।

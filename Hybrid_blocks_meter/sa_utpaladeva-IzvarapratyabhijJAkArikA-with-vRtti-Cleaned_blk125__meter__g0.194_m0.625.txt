@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 125 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ smṛtau vikalpe vāpy apohanaparāyaṇe 
+jñāne vāpy antarābhāsaḥ sthita eveti niścitam ।।

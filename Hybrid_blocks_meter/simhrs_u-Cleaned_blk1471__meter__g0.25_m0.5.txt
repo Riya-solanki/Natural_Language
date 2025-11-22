@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1471 | label: meter | g:0.25 m:0.5 ---
+
+rāmo dānta-daśānanaḥ kim aparaṃ sītā satīṣv agraṇīḥ
+saumitriḥ sadṛśo' stu kasya samare yenedrajin nirjitaḥ ।
+kiṃ brūmo bharataṃ ca rāma-virahe tat-pādukārādhakaṃ
+śatrughnaḥ kathito' grajasya ca guṇair vandyaṃ kuṭumbaṃ raghoḥ ।।

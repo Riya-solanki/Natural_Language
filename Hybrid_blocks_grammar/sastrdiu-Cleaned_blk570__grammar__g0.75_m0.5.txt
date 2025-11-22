@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 570 | label: grammar | g:0.75 m:0.5 ---
+
+dharmādharmayorucchedaścotpannānāṃ dharmādharmāṇāmupabhogena nityanaimittikakarmānuṣṭhānenātmajñānena ca virodhāt, utpādyānāṃ ca kāmyānuṣṭhānanimittānāṃ dharmāṇāṃ tadanuṣṭhānenānutpādāt, vihitākaraṇapratiṣiddhānuṣṭhānanimittānāṃ cādharmāṇāṃ vihitānuṣṭhānena pratiṣiddhākaraṇena ca parihārāt, asati śarīrārambhe pūrvaśarīranipāte cāśarīro avasthito mukto bhavati ।।

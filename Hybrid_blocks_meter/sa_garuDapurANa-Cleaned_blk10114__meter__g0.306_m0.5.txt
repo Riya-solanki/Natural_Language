@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10114 | label: meter | g:0.306 m:0.5 ---
+
+upakramairupasaṃhārasya liṅgairhariṃ guruṃ hyantareṇaiva yānti ।
+tānevāhuḥ satpurāṇāni viprāḥ kalau yuge nābhyasūyanti sarve ।।

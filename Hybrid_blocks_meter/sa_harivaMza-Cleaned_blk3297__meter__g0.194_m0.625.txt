@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3297 | label: meter | g:0.194 m:0.625 ---
+
+kṣveditāsphoṭitaravaṃ kṛtvā nāgasya cāgrataḥ 
+karaṃ ca śrīdharas tasya pratijagrāha vakṣasā ।।

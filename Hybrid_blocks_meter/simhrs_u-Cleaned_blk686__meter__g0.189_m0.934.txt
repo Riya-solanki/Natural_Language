@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 686 | label: meter | g:0.189 m:0.934 ---
+
+pūjya-saṅgamena, yathā-
+yugānta-kāla-pratisaṃhṛtātmano
+jaganti yasyāṃ savikāsam āsata ।
+tanau mamus tatra na kaṭabha-dviṣas
+tapadhanābhyāgama-sambhavā mudaḥ ।।

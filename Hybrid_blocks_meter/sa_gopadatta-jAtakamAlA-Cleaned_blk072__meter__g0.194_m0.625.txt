@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 72 | label: meter | g:0.194 m:0.625 ---
+
+avaśyaṃ tyaktavyaḥ paramadayito bāndhavajanaḥ
+praveṣṭavyaṃ ghoraṃ sabhayam asahāyena gahanam ।
+pravāse vastavyaṃ suciram api cāsaṃstutajane
+tad asmāt kartavyaṃ bahukuśalapātheyam asakṛt ।।

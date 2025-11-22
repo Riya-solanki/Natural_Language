@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 274 | label: hybrid | g:0.437 m:0.36 ---
+
+kuvalayadalaśyāmā meghā vihāya divaṃ gatāḥ kuvalayadalaśyāmo nidrāṃ vimuñcati keśavaḥ । kuvalayadalaśyāmā śyāmā latādya vijṛmbhate kuvalayadalaśyāmaṃ candro nabhaḥ pratigāhate ।।
+evamanye'pi draṣṭavyāḥ ।।
+iti śrīpaṇḍitavaravāmanaviracitāyāṃ kāvyālaṅkārasūtravṛttāvālaṅkārike caturthe'dhikaraṇe prathamo'dhyāyaḥ ।

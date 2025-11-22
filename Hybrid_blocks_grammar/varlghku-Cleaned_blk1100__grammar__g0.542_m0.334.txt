@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1100 | label: grammar | g:0.542 m:0.334 ---
+
+āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām ।।
+pratyayādeḥ phasya āyan, ḍhasya ey, khasya īn, chasya īy, ghasya iy ete syuḥ। gargasya yuvāpatyaṃ gārgyāyaṇaḥ । dākṣāyaṇaḥ ।।

@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 716 | label: meter | g:0.275 m:0.658 ---
+
+na ।
+priyādisaṃsūcitasya saṃsāriṇa evātmano draṣṭavyatvenopadeśāt ।
+apahatapāpmatvādi viśeṣaṇaṃ tu stutyarthaṃ bhaviṣyati ।

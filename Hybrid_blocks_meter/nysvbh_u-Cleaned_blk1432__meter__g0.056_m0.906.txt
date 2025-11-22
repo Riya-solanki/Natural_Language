@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1432 | label: meter | g:0.056 m:0.906 ---
+
+nigrahasthānalakṣaṇasya mithyādhyavasāyād anigrahasthāne
+anigṛhītosīti paraṃ bruvan niravanugojyānuyogād
+niranugojyānuyogād nigṛhīto veditavya
+iti ।।

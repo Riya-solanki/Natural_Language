@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3941 | label: meter | g:0.194 m:0.5 ---
+
+cāruṃ ca balināṃ śreṣṭhaṃ sutāṃ cārumatīṃ tathā 
+dharmārthakuśalās te tu kṛtāstrā yuddhadurmadāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 319 | label: meter | g:0.272 m:0.845 ---
+
+adyābhiṣiktastvamasi buddhairvajrābhiṣekataḥ ।
+idante sarvabuddhatvaṃ gṛhṇa vajraṃ susiddhaye ।।

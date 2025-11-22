@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 754 | label: meter | g:0.25 m:1.0 ---
+
+saṃkalpānuvidhāyinyas tasyābhūvan vibhūtayaḥ ।
+sarvalokātiśāyinyo nirupāyāsapeśalāḥ ।।

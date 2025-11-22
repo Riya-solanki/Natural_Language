@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 920 | label: meter | g:0.306 m:0.5 ---
+
+smarāmi na prāṇivadhaṃ yathāhaṃ sañcintya kṛcchre parame api kartum ।
+anena satyena sarāṃsi toyairāpūrayanvarṣatu devarājaḥ ।।

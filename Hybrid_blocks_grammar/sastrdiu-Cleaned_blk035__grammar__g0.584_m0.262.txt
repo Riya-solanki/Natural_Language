@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 35 | label: grammar | g:0.584 m:0.262 ---
+
+yadāhyadhyāpanārthatvenopanītasya māṇavakasya tadupayogivyāpārāpekṣāyāmadhyayanavidhiradhyayanaṃ tadupayogivyāpāratayā vidhatte- traivarṇikairupanītairadhyāpanaupayikavyāpārāpekṣairadhyayanavyāpāraḥ kartavya iti tadāpi spaṣṭamevādhyayanamarthajñānārthatayā vidhatte nādhyāpanaupayikatayā, tadāhyadhyayanasya tadaupayikatvaṃ kena pramāṇena gamyate, nahyatra pratyakṣādīni kramante ।
+saṃnidhānāditi cet, na saṃnidhānaṃ nāma svayaṃ pramāṇaṃ śabdasya tvarthaṃ pratipādayataḥ saṃnidhyapekṣāyogyatvānītikarmatavyatā netrasyevonmīlanam ।
+śabdaścedadhyāpanaupayikatayā vidadhyāt nārthajñānārthatā sidhyet ।
+ato nopanayanasaṃnidhau asvādhyāyo adhyetavya' iti vihitasyādhyayanasyopanayanadvārādhyāpanavidhinā prayuktisaṃbhavaḥ ।।

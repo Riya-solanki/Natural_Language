@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11361 | label: meter | g:0.306 m:0.5 ---
+
+uvāca sā pitaraṃ dīyamānamannādikaṃ tramitrādikeṣu ।
+sadāpi ye tvanusaṃdhānena yuktā antargate tatratatra sthite ca ।।

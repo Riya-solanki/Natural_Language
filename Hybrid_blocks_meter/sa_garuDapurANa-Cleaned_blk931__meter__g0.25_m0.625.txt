@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 931 | label: meter | g:0.25 m:0.625 ---
+
+śrīvatsaṃ kaustubhaṃ mālāṃ tathā pītāmbaraṃ śubham ।
+pūjayetpūrvato rudra śaṅkhacakragadādharam ।।

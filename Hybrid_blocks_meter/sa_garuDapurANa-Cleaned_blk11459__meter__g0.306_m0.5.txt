@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11459 | label: meter | g:0.306 m:0.5 ---
+
+gaṅgādīnāṃ vandanaṃ kāryameva sāṣṭāṅgaṃ vai tulasīnāṃ tathaiva ।
+aśvatthānāṃ namanaṃ kāryameva gavādīnāṃ namanaṃ mānasena ।।

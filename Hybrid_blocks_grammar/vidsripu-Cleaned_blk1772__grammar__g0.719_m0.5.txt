@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1772 | label: grammar | g:0.719 m:0.5 ---
+
+kasyā nāma kim atra nāsti viditaṃ yad vīkṣyamāṇo apy ayaṃ loko mūka ivāsti māṃ prati punaḥ sarvo janas tapyate ।
+śakyaṃ darśayituṃ na pūgaphalavat kṛtvā dvidhedaṃ vapur yat satyaṃ sakhi vīkṣitaḥ khalu mayā nūnaṃ caturthyāḥ śaśī ।।

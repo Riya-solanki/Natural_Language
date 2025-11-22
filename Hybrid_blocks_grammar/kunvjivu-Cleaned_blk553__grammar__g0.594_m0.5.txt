@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 553 | label: grammar | g:0.594 m:0.5 ---
+
+līnaṃ vastuni yena sūkṣmasubhagaṃ tattvaṃ girā kṛṣyate nirmātuṃ prabhavenmanoharamidaṃ vācaiva yo vā bahiḥ ।
+vande dvāvapi tāvahaṃ kavivarau vandetarāṃ taṃ punar- yo vijñātapariśramo ayamanayorbhārāvatārakṣamaḥ ।।

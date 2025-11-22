@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 857 | label: grammar | g:0.646 m:0.5 ---
+
+[] tad etad api kathana-śeṣaṃ samāpya pūrvavad eva sūta-sutayor gatayoḥ sarve' pi yathāsvaṃ prasthitāḥ ।

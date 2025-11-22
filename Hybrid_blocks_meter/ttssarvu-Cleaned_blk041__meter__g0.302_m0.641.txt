@@ -1,0 +1,7 @@
+--- source: ttssarvu-Cleaned.txt | block: 41 | label: meter | g:0.302 m:0.641 ---
+
+indriyavadhā ekādaśa vuddhivadhāśca saptadaśa ityetāḥ aśaktaya ucyante ।
+indriyavadhā yathā ।
+bādhiryaṃ kuṣṭhatā andhatvaṃ jaḍatā ajighratā tathā ।
+mūkatākauṇyapaṅgutvaklaibyodāvartamandatāḥ ।
+iti buddhivadhāstu navatuṣṭīnāmaṣṭasiddhīnāṃ ca viparyayādbhavanti taditthaṃ jātā aśaktayo aṣṭāviṃśatidheti ।।

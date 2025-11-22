@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3217 | label: meter | g:0.25 m:0.75 ---
+
+rāgaśuddhitayā padmaṃ kośaḥ kleśāricchedanāt ।
+cakro maṇḍalayogāttu vāglāpājjapanucyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 16 | label: meter | g:0.337 m:0.5 ---
+
+cetāṃsi yāni sukhaduḥkhaviśeṣabhāñji ye ca pradhānapariṇāmavikārabhedāḥ ।
+tvaṃ deva janmani punaḥ pralaye ca teṣām hetuḥ samastapayasām iva toyarāśiḥ ।।

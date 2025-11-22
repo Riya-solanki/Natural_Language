@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 90 | label: hybrid | g:0.544 m:0.489 ---
+
+nanv evam api yāgena iti dhātvarthe niṣkṛṣṭe tenaiva bhāvanāpy upātteti bhāvayet iti punaḥ prayogo na prāpnoti ।
+naiṣa doṣaḥ ।
+tathā hi dvyarthasya dhātor bhedenārthe kathyamāne yāgena iti viśeṣarūpaṃ karaṇātmanā niṣkṛṣṭam ।
+itarat tu bhāvanātmakaṃ sāmānyarūpaṃ śabdāntareṇa bhāvayet ity anena kathyate ।

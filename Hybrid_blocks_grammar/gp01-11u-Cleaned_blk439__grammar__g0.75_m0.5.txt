@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 439 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ sthite sarvataḥ samudbuddha-śuddha-pitrādi-bhāva-vicitrāṇāṃ vraja-nṛpati-prabhṛtīnāṃ bhṛti-bhuk-paryantānāṃ vraja-janānāṃ yeṣām adhimadhyaṃ prati-dviparārdhaṃ pratikalpam āvirbhavati, vṛddhi-jīvikānām iva teṣām eva prema-sañcaya-paryudañcana-prapañcam añcaṃs tad-vṛddher aparicchedyatābuddhyā pratidātum adhyavasāyaṃ muñcan sadā putrāditayā sa eṣa virājate, nānye tu tatra kila tilam apy avakāśa-kālaṃ labhante ।

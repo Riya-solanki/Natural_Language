@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11595 | label: meter | g:0.25 m:0.62 ---
+
+vitastikāverisatuṅgabhadrāḥ suvañjarā bhīmarathī vipāśā ।
+sutāmraparṇī ca pinākinī ca ku dṛ ।।

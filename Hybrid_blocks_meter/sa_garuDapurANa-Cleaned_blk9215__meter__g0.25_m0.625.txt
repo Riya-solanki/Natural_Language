@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9215 | label: meter | g:0.25 m:0.625 ---
+
+ityete vāyavaḥ proktā daśa deheṣu susthitāḥ ।
+kevalaṃ bhuktamannañca puṣṭidaṃ sarvadehinām ।।

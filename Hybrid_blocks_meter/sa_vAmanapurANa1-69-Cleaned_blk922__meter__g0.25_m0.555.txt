@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 922 | label: meter | g:0.25 m:0.555 ---
+
+svaṃ vikāsaṃ vimuñcanti niśāmiti vyacintayan ।
+kamalākareṣu kamalā mitramityavagamya hi ।
+rātrau vikasitā brahman vibhūtiṃ dātumīpsavaḥ ।।

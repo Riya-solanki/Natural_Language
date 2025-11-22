@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2900 | label: meter | g:0.194 m:0.625 ---
+
+agnir āpyāyayatv annaṃ pārthivaṃ pavaneritaḥ 
+dattāvakāśaṃ nabhasā jarayatv astu me sukham ।।

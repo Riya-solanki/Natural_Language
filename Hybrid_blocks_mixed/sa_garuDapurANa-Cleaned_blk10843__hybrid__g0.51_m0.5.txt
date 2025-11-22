@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10843 | label: hybrid | g:0.51 m:0.5 ---
+
+skandhaḥ supūrṇāḥ sakalāśca bāhavaḥ pūrṇāḥ keśāḥ śmaśrudantāśca pūrṇāḥ ।
+lomāni pūrṇāni tathaiva romakūpāśca pūrṇāstu tathaiva śiśraḥ ।।

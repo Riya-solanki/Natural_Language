@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1102 | label: meter | g:0.25 m:0.5 ---
+
+etāmṛtumatīṃ jātāṃ mahiṣo anyo dadarśa ha ।
+sā cābhyagād ditivaraṃ rakṣantī śīlamātmanaḥ ।।

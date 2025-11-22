@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 91 | label: meter | g:0.25 m:0.5 ---
+
+nanvanyasya bhāve apyanyasyopalabdhirniyatā dṛśyate, yathāgnibhāve dhūmasyeti ।

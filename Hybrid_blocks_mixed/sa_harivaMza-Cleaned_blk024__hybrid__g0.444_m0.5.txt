@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 24 | label: hybrid | g:0.444 m:0.5 ---
+
+āpo nārā iti proktā nāmnā pūrvam iti śrutiḥ 
+ayanaṃ tasya tāḥ pūrvaṃ tena nārāyaṇaḥ smṛtaḥ ।।

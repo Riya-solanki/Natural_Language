@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9201 | label: meter | g:0.25 m:0.625 ---
+
+ṣāṭkauśikamidaṃ piṇḍaṃ syājjantoḥ pāñcabhautikam ।
+navame daśame māsi jāyate pāñcabhautikaḥ ।।

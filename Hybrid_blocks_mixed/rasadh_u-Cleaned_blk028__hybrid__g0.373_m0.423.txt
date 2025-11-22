@@ -1,0 +1,4 @@
+--- source: rasadh_u-Cleaned.txt | block: 28 | label: hybrid | g:0.373 m:0.423 ---
+
+prathamaṃ sūtaḥ ślakṣṇavastreṇa gālanīyo yathā vaṅganāgajāḥ pūrvoktavikārāḥ sarve vastre lagitvā tiṣṭhanti ।।
+iti prathamaḥ saṃskāraḥ pāṭasāraṇaḥ ।।

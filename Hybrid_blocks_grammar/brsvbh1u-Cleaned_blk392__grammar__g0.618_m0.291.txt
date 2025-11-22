@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 392 | label: grammar | g:0.618 m:0.291 ---
+
+stutaśastravat ।
+ātmā tu dravyaṃ karmaṇi guṇa iti saṃskāro vātmano darśanaṃ vidhīyate ।
+yathā darśapūrṇamāsaprakaraṇe apatnyavekṣitamājyaṃ bhavati'iti samāmnātam, prakaraṇinā ca gṛhītamupāṃśuyāgāṅgabhūtājyadravyasaṃskāratayāvekṣaṇaṃ guṇakarma vidhīyate, evaṃ kartṛtvena kratvaṅgabhūte ātmani aātmā vā are draṣṭavyaḥ'iti darśanaṃ guṇakarma vidhīyate ।

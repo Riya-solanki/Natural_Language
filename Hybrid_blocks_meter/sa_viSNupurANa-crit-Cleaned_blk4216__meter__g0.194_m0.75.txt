@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4216 | label: meter | g:0.194 m:0.75 ---
+
+nirguṇenāpi cāpena śakrasya gagane padam 
+avāpyatāvivekasya nṛpasyeva parigrahe ।।

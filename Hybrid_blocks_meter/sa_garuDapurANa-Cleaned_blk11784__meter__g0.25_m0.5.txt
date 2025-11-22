@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11784 | label: meter | g:0.25 m:0.5 ---
+
+yā revatī raivatasyaiva putrī sā vāruṇī balabhadrasya patnī ।
+sauparṇanāmnī balapatnī khagendra yāstāstisraḥ ṣaḍviṣṇośca strībhyaḥ ।
+dviguṇādhamā rudraśeṣādikebhyo daśādhamā tvaṃ vijānīhi pautra ।।

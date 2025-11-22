@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 259 | label: grammar | g:0.572 m:0.455 ---
+
+atra pādāṅguṣṭhena kusuma-lolanādi-kriyāṇāṃ nṛttānta-pariśrāntāv api cārutvān mādhuryam ।
+Note that cārutā, as found in Ujjvala-nīlamaṇi, is the word used here in the place of mārdava

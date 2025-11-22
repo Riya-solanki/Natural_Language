@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 456 | label: hybrid | g:0.481 m:0.371 ---
+
+etena mṛgatṛṣṇikājalasya jñānavināśyatvaṃ pratyūḍham ।
+na hi tajjalaṃ sat paścānnāśyate prāgapi hi tatra naiva jalaṃ, ajalameva hi raśmiprataptamūṣaraṃ bhrāntyā jalātmanāvagataṃ paścādbādhakena yathāvasthitarūpamavagamyata ityalamanena bālajalpitena ।।
+ityadvaitamatanirāsaḥ ।।

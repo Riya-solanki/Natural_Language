@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4263 | label: meter | g:0.354 m:0.824 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+āśukārī yataḥ kāsaḥ sa evātaḥ pravakṣyate ।
+pañca kāsāḥ smṛtā vātapittaśleṣmakṣatakṣayaiḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1700 | label: grammar | g:0.628 m:0.455 ---
+
+mātar lakṣmi bhajasva kaṃcid aparaṃ matkāṅkṣiṇī mā sma bhūr bhogebhyaḥ spṛhayālavas tava vaśāḥ kā niḥspṛhāṇām asi ।
+sadyaḥsyūtapalāśapatrapuṭikāpātrīpavitrīkṛtair bhikṣāsaktubhir eva samprati vayaṃ vṛttiṃ samīhāmahe ।।

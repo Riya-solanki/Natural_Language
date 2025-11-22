@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 699 | label: grammar | g:0.75 m:0.5 ---
+
+atra kaviprītikaraṇa kavitiraskaraṇakriyayoḥ prathamapāde dvitīye tīkṣṇatvaguṇabhedakriyayoḥ tṛtīye kalānāthanāmnaḥ candralakṣaṇadravyasya nakṣatramārgatyajanekriyāyāśca saṅgatiriti trayaḥ kriyāvirodhāḥ । guṇasya guṇadravyābhyāṃ virodhe dvau bhedau ।

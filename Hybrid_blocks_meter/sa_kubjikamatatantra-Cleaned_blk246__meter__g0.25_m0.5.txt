@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 246 | label: meter | g:0.25 m:0.5 ---
+
+tasya rodhādikā devyo mūkatvaṃ janayanti vai 
+na rohati yathā bījaṃ dagdhaṃ tadvad idaṃ priye ।।

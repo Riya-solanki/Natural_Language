@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 774 | label: meter | g:0.133 m:0.83 ---
+
+pṛthivyādīnāṃ pūrvapūrvamuttareṇottareṇa
+viṣṭam ato na saṃsargāniyama iti taccaitad
+bhūtasṛṣṭau veditavyaṃ naitarhīti ।।

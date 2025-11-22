@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4011 | label: meter | g:0.25 m:0.625 ---
+
+hutāśanena prahitā mama jihvāgrasaṃsthitā ।
+jagādainaṃ stavaṃ viṣṇoḥ sarveṣāṃ copaśāntidam ।।

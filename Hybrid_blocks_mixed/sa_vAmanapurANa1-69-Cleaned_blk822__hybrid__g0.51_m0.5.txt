@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 822 | label: hybrid | g:0.51 m:0.5 ---
+
+tataḥ spṛśetkhāni śiraḥ kareṇa saṃdhyāmupāsīta tataḥ krameṇa ।
+keśāṃstu saṃśodhya ca dantadhāvanaṃ kṛtvā tathā darpaṇadarśanaṃ ca ।।

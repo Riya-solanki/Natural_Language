@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 208 | label: grammar | g:0.75 m:0.5 ---
+
+[] tādṛśa-camatkāra-kāraṇam apy avatārayanti, yan naḥ iti । yāṃ khalu guṇa-rūpa-mahasā sahasā nikhila-hṛdayaṃ vindamānaḥ śrī-govindaḥ svayam ayaṃ nināya, na tu na iva na nināya । tat-paripāṭī ca praty-urasaṃ vidhāya prīti-rīti-parītatayā kṛtā, na tu tad-viparītatayā । prītir api smara-mahaḥ-pravaha-rahaḥ-saṃhatatayā, na tu sāmānyatā-mānyatayā । rahaḥ-saṃhananam api śarma-sampad-aṃhati-bṛṃhita-guṇa-baṃhitatayā, na tu tad-asaṃhitatayā । tac ca sarva-guṇa-vismāyikānām apy asmākaṃ tyāga-jāgarūka-samayata eva, na tu tad-vinimayata iti svayaṃ yan gacchann eva nināya iti ।

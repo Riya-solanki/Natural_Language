@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 490 | label: grammar | g:0.604 m:0.5 ---
+
+tataḥ svamudrāsattvamātmānaṃ bhāvya tenādhiṣṭhāyedanena mantreṇa samayasattvādhitiṣṭhasva mām । tataḥ sādhayediti । sādhanāvidhivistaraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6261 | label: meter | g:0.194 m:0.625 ---
+
+kṛtadhvajasya putro abhūt khyātaḥ keśidhvajo dvija 
+putro amitadhvajasyāpi khāṇḍikyajanako abhavat ।।

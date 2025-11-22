@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9458 | label: meter | g:0.25 m:0.5 ---
+
+pitāmahyā samaṃ mātuḥ pituḥ sahapitāmahaiḥ ।
+sapiṇḍīkaraṇaṃ kāryamiti tārkṣya mataṃ mama ।।

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 751 | label: meter | g:0.306 m:0.625 ---
+
+sarūpam asarūpaṃ vā bhinna-kāraṇa-kalpitam ।
+bhāva-dvayaṃ milati cet sa sandhir iti gīyate ।।

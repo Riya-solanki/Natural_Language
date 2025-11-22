@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 84 | label: meter | g:0.25 m:0.5 ---
+
+parājetuṃ rudraṃ dviguṇaśaragarbhau girisute niṣaṅgau jaṅghe te viṣamaviśikho bāḍham akṛta 
+yadagre dṛśyante daśaśaraphalāḥ pādayugalīnakhāgracchadmānaḥ suramukuṭaśāṇaikaniśitāḥ ।।

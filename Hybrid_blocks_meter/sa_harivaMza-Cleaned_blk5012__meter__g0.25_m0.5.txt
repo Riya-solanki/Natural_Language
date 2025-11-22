@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5012 | label: meter | g:0.25 m:0.5 ---
+
+ye cedaṃ dhārayiṣyanti bāṇayuddham anuttamam 
+keśavasya ca māhātmyaṃ nādharmas tān bhajiṣyati ।। 
+teṣāṃ dharmo bhaved rājan nātra kāryā vicāraṇā । 
+eṣā te vaiṣṇavī caryā mayā kārtsnyena kīrtitā 
+pṛcchatas tāta yajñe asmin nivṛtte janamejaya ।।

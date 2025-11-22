@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11284 | label: hybrid | g:0.521 m:0.5 ---
+
+etādṛśo hyanutāpaḥ khagendra prāyaścittaṃ na ca kṣaurādikaṃ ca ।
+bhānoḥ kanyā hyanutāpaṃ ca kṛtvā vicārayāmāsa hareḥ sutattvam ।।

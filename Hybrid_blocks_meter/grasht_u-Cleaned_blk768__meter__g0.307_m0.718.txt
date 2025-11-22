@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 768 | label: meter | g:0.307 m:0.718 ---
+
+druti, sāraṇā
+mākṣīkasattvayogātphaṇiyogānnāgavad dravati śīghram ।
+dravati ca kanake sūtaḥ saṃsāryate vidhinā ।।

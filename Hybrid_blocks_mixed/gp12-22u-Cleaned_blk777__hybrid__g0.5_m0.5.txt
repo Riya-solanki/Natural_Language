@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 777 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evaṃ vṛtte vṛtte, kṛṣṇasya samunnaddhatā-bandhayā kuhanayā mad-yajña-pratyūhanam idam ity ūhamānaḥ śakras tu vakra-bhāva-cakratayā cukrodha । [] kṛṣṇena tasya yā gūḍhāpi khaṭvārūḍhatā tarkitā, sā katham anyathā samparkitayā varteteti vyaktīkartum iva matsaratas tat-sahita-viśva-mahita-śrīman-nandādi-nindā-pūrvakaṃ saṃvartaka-meghān vraja-vighātāya pravartayāmāsa । tataś ca-

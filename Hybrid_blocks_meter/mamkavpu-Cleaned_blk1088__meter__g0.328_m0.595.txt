@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1088 | label: meter | g:0.328 m:0.595 ---
+
+yaduktamanyathā vākyamanyathānyena yojyate ।
+śleṣeṇa kākvā vā jñeyā sā vaktroktistathā dvidhā ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 36 | label: meter | g:0.433 m:0.705 ---
+
+vastrātapatratarumandiracandanāmbuhārādayas tadupaghātanimittabhūtāḥ ।
+duḥkhaṃ tv anāgatam avīcisamudbhavaṃ te nāśaṃ prayāsyati narādhipa kair upāyaiḥ ।।

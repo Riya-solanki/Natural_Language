@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 877 | label: meter | g:0.0 m:1.0 ---
+
+chapter trilokavijaya-maha-mandala-vidhi-vistara

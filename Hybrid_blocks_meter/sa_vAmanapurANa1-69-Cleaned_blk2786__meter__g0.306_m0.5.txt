@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2786 | label: meter | g:0.306 m:0.5 ---
+
+gaṇādhipāṃstān vimukhān sa kṛtvā balanvito vīrataro asurendraḥ ।
+samabhyadhāvat tvarito nihantuṃ gaṇeśvarān skandaviśākhamukhyān ।।

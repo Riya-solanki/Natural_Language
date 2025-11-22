@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 490 | label: grammar | g:0.57 m:0.426 ---
+
+nanvevamaprasiddhasaṃbandhasya kathamanapyanupapannam- yadyapi hi tadā vaktuḥ prasiddhasaṃbandhatvātsaṃbandhakathanāya vākyoccāraṇaṃ saṃbhavati tathāpi śrotāro aprasiddhasamastapadārthā bālāḥ kathaṃ vākyena saṃbadhaṃ pratipadyeran, tasmātkaraṇavatkathanamapyanupapannam ।
+naiṣa doṣaḥ ।
+kathayitustāvanna karturivāśaktiḥ- upāyasaṃbhavāt, pratipattārastūpāyābhāvānna pratipadyanta iti dṛṣṭaviruddham, dṛśyante hyaprasiddhasamastaśabdārthā bālā vṛddhebhyaḥ saṃbandhaṃ pratipadyamānāḥ ।।

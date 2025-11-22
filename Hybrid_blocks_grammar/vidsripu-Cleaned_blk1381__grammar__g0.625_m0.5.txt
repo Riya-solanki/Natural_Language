@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1381 | label: grammar | g:0.625 m:0.5 ---
+
+tasminn eva gṛhodare rasavatī tatraiva sā kaṇḍanī tatropaskaraṇāni tatra śiśavas tatraiva vāsaḥ svayam ।
+etat soḍhavato api duḥsthagṛhiṇaḥ kiṃ brūmahe durdaśām adya śvo vijaniṣyamāṇagṛhiṇī tatraiva yat kunthati ।।

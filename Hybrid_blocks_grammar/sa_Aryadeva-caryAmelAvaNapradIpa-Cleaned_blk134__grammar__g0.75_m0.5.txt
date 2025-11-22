@@ -1,0 +1,3 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 134 | label: grammar | g:0.75 m:0.5 ---
+
+mūlasūtre apyāha- daśakuśalān karmapathānicchanti jñānavarjitāḥ ।। iti । śrāvakayānamaśikṣatha bhikṣo bodhicariyata tatra carīye । bodhicarīṃ cara buddhaguṇeṣu eṣa nidānabhaviṣya svayaṃbhūḥ ।। iti । duṣkarairniyamaistīrvrairmūrtiḥ śuṣyati duḥkhitā । duḥkhād vikṣipyate cittaṃ vikṣepāt siddhiranyathā ।। iti ।

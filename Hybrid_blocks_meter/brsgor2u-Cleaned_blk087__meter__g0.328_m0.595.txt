@@ -1,0 +1,4 @@
+--- source: brsgor2u-Cleaned.txt | block: 87 | label: meter | g:0.328 m:0.595 ---
+
+sāṃkhyatārkikabauddhāśca jaināḥ pāśupatādayaḥ ।
+yasya tattvaṃ na jānanti taṃ vande raghupuṅgavam ।।

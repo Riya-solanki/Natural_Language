@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1372 | label: meter | g:0.194 m:0.5 ---
+
+eṣa te vāmano nāma prādurbhāvo mahātmanaḥ 
+vedavidbhir dvijair etat kathyate vaiṣṇavaṃ yaśaḥ ।।

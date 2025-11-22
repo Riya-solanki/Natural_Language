@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1415 | label: meter | g:0.254 m:0.62 ---
+
+{e ehi kiṃapi kīevi aeṇa ṇikkiva bhaṇāmi alamaha vā ।
+aviāriakajjārambhaāriṇī marau ṇa bhaṇissaṃ ।।}
+[e ehi kimapi kasyā api kṛte niṣkṛpa bhaṇāmi alamatha vā ।
+avicāritakāryārambhakāriṇī mriyatāṃ na bhaniṣyāmi ।।]

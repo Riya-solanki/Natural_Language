@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 931 | label: meter | g:0.389 m:0.57 ---
+
+nṛtyaśramāt karanakhodarapītavāntaiḥ svedārdrabhasmamayabindubhir indugauraiḥ ।
+saṃtyajya tārakitam etad iti pravādaṃ vyomāṅgaṇaṃ gaṇaya citritam īśvareṇa ।।
+lakṣmīdharasya

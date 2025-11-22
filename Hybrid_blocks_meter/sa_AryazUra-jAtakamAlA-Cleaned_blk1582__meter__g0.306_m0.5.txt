@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1582 | label: meter | g:0.306 m:0.5 ---
+
+cikīrṣite te yadi matpriyaṃ tu vyādhavrataṃ vīra vimuñca tasmāt ।
+tiryaktvabhavājjaḍacetaneṣu kṛpaiva śocyeṣu mṛgeṣu yuktā ।।

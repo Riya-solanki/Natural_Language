@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 498 | label: meter | g:0.25 m:0.675 ---
+
+[] tatra devīnāṃ vāṇī-
+iyaṃ vidyud idaṃ śakra-dhanuḥ so' yaṃ navāmbudaḥ ।
+śaśvad-ghana-rasaṃ vaṣan-namūḥ karṣati cātakīḥ ।।

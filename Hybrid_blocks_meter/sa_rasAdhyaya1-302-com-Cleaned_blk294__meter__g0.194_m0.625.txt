@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 294 | label: meter | g:0.194 m:0.625 ---
+
+triphalā citramūlaṃ ca saurāṣṭrī navasādaram 
+śigrurasena saṃbhāvya mardayec ca dinatrayam ।।

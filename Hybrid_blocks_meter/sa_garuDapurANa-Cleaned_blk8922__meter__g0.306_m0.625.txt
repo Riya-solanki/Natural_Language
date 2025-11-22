@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8922 | label: meter | g:0.306 m:0.625 ---
+
+ekagotre mṛtānāṃ tu striyā vā puruṣasya vā ।
+sthaṇḍilaṃ caikataḥ kuryāddhomaṃ kuryātpṛthakpṛthak ।।

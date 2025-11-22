@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 13 | label: grammar | g:0.75 m:0.5 ---
+
+bhedaḥ yāvajjñānaṃ yathāvajjñānamiti sarvākārajñatāyā dvau bhedau । yā prajñā aśeṣākārān jānāti sā yāvajjñānam, yā ca yathā padārthānāṃ svarūpaṃ tathā jānātīti yathāvajjñānam ।

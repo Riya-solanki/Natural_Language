@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 903 | label: meter | g:0.25 m:0.75 ---
+
+atha prabhāte rajatendranīlavaiḍūryahemapratipūrṇanaukāḥ ।
+svadeśatīrāntamupāgatāste prītyā tamānarcurudīrṇaharṣāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 63 | label: grammar | g:0.562 m:0.5 ---
+
+yā sā jagatparibhavasya nimittabhūtā hetuḥ svayaṃ surapater api lāghavasya ।
+sā māṃ viḍambayati nātha sadaiva tṛṣṇā bhindhi prasahya bhagavan na punarbhavāya ।।

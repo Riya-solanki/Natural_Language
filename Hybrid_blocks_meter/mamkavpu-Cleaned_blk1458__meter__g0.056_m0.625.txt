@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1458 | label: meter | g:0.056 m:0.625 ---
+
+{hitvā tvāmuparodhabandhyamanasāṃ manye na mauliḥ paro
+lajjāvarjanamantareṇa na ramāmanyatra saṃdṛśyate ।
+yastyāgaṃ tanutetarāṃ mukhaśatairetyāśritāyāḥ śriyaḥ
+prāpya tyāgakṛtāvamānanamapi tvayyeva yasyāḥ sthitiḥ ।।}

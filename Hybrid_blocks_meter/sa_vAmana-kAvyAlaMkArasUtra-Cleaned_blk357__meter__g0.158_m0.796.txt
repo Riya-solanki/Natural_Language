@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 357 | label: meter | g:0.158 m:0.796 ---
+
+utprekṣevaivātiśayoktiriti kecit । tannirāsārthamāha 
+saṃbhāvyadharmatadutkarṣakalpanātiśayoktiḥ ।।
+saṃbhāvyasya dharmasya tadutkarṣasya ca kalpanātiśayoktiḥ । yathā

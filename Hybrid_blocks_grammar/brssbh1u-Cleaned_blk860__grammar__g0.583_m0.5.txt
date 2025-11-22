@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 860 | label: grammar | g:0.583 m:0.5 ---
+
+he indra, te tava niṣade upaveśanāya yoniḥ sthānaṃ mayā akāri kṛtam ।

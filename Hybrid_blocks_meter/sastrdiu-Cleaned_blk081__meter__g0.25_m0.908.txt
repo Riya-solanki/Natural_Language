@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 81 | label: meter | g:0.25 m:0.908 ---
+
+nanvapūrvameva śreyaḥsādhanam ।
+na ।
+avāntaravyāpārāmātratvāt ।
+tasmādyāgādireva śreyaḥsādhanarūpeṇa dharmaḥ ।
+tadrūpābhāvācca na śūdrakṛtasya dharmatāpattiḥ ।
+codanālakṣaṇamātrasya dharmatvaṃ mābhūdityarthaśabdena viśeṣyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3653 | label: meter | g:0.25 m:0.625 ---
+
+acitta citta cittāgrya tricittācittadarśaka ।
+sarvacitta mahācitta [vajracitta namo astu te ।।

@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 430 | label: hybrid | g:0.25 m:0.465 ---
+
+yattu svalakṣaṇaireva svānubhavadvāreṇa gavādivikalpodayasaṃbhavādaprāmāṇikī jātivikalpaneti tadapyasāram ।
+na hi jātirna dṛśyate yenaivamupālambhaḥ syāt ।
+upajāyamānaṃ tu jñānaṃ svaviṣayabhūtāṃ jātimupasthāpayatīti nedṛśānāṃ pralāpanāmavasaraḥ ।।

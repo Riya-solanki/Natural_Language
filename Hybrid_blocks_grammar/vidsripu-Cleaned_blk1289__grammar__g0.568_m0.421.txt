@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1289 | label: grammar | g:0.568 m:0.421 ---
+
+rājā tvaṃ vayam apy upāsitaguruprajñābhimānonnatāḥ khyātas tvaṃ vibhavair yaśāṃsi kavayo dikṣu pratanvanti naḥ ।
+itthaṃ mānada nātidūram ubhayor apy āvayor antaraṃ yady asmāsu parāṅmukho asi vayam apy ekāntato niḥspṛhāḥ ।।
+bhartṛhareḥ

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2725 | label: meter | g:0.341 m:0.738 ---
+
+śrīgaruḍamahāpurāṇam- 
+yājñavalkya uvāca ।
+śṛṇvantu munayo dharmān gṛhasthasya yatavratāḥ ।
+gurave ca dhanaṃ dattvā snātvā ca tadanujñayā ।।

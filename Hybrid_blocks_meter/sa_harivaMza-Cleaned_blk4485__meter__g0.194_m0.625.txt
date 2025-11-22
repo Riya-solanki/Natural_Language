@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4485 | label: meter | g:0.194 m:0.625 ---
+
+tato dīkṣitam āsīnam abhigamya dvijottamaḥ 
+kṛṣṇaṃ vijñāpayām āsa paritrāhīti cābravīt ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 910 | label: meter | g:0.25 m:0.5 ---
+
+tvayā tyaktaṃ mahādeva liṅgaṃ trailokyavanditam ।
+tasya cānayane nānyaḥ samarthaḥ syānmaheśvara ।।

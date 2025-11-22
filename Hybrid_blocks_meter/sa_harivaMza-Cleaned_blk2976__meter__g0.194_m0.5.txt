@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2976 | label: meter | g:0.194 m:0.5 ---
+
+sāntvam eva tu bāleṣu pradhānaṃ prathamo nayaḥ 
+madhureṇaiva tau mandau svayam evānayāśu vai ।।

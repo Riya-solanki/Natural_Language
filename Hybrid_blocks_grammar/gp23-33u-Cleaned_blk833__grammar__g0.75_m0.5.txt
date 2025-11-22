@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 833 | label: grammar | g:0.75 m:0.5 ---
+
+[] devī vakṣyati-bhojane nirvṛtte man-nirvartitāḥ sva-sva-pati-gṛham anuvartantām । parās tu kṛṣṇa-mātra-pati-sammati-parāyaṇāḥ sva-sva-pitṛ-gṛham । mayā tu yamunā-taṭeṣṭa-praśastālaye sthāsyate, yathā yadā mātṛ-caraṇair ājñāpyate, tathā tadā vyavahartavyam ।

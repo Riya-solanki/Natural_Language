@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 498 | label: meter | g:0.152 m:0.66 ---
+
+viṣādena, yathā-
+tvām ālikhya praṇaya-kupitāṃ dhātu-rāgaiḥ śilāyām
+ātmānaṃ te caraṇa-patitaṃ yāvad icchāmi kartum ।
+asrais tāvan muhur upacitair dṛṣṭir ālupyate me
+krūras tasminn api na sahate saṅgamaṃ nau kṛtāntaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11160 | label: meter | g:0.316 m:0.5 ---
+
+spaṣṭasvarūpeṇa yathā viduḥ surā muktvā brahmāṇaṃ na tathā tepyamuktāḥ ।
+svātmānamanyacca sadā viśeṣaryuktaṃ vijānāti vidhiśca mārutaḥ ।।

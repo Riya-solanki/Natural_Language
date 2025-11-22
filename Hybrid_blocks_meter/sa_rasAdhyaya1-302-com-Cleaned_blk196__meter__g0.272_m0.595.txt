@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 196 | label: meter | g:0.272 m:0.595 ---
+
+sthālīsampuṭayantreṇa dinaṃ caṇḍāgninā pacet 
+ūrdhvalagnaṃ tu taṃ śuddhaṃ pāradaṃ cāharet śubham ।।

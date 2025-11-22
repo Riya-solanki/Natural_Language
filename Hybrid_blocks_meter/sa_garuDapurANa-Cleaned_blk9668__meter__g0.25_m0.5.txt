@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9668 | label: meter | g:0.25 m:0.5 ---
+
+yamāya tvāṣṭame jñeyaṃ yajjagrannavame tathā ।
+taśame yāḥ phalinīti piṇḍe caikādaśe tataḥ ।।

@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 285 | label: grammar | g:0.75 m:0.5 ---
+
+SktCh atra nāsti stokamapi śubhasūcakam । yadyatrālīkaṃ kathayiṣye tatpriyasakhyā aparādhinī bhaviṣyāmi । sa eva snigdho jano yaḥ pṛṣṭaḥ paruṣamapi hitaṃ bhaṇati । sakhi sarvamevaitadaśubhanivedanam । taddevatānāṃ praṇāmena dvijātijanapratigraheṇa cāntaryatām । na khalu daṃṣṭriṇo nakulasya vā darśanamahiśatavadhaṃ ca svapne praśaṃsanti vicakṣaṇāḥ ।

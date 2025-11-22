@@ -1,0 +1,7 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 385 | label: meter | g:0.25 m:0.583 ---
+
+te vimuktāśca kaluṣairanekajanmasaṃbhavaiḥ ।
+paśyanti nirmalaṃ devaṃ hṛdayasthaṃ sanātanam ।।
+brahmavediḥ kurukṣetraṃ puṇyaṃ sānnihitaṃ saraḥ ।।
+grahanakṣatratārāṇāṃ kālena patanād bhayam ।
+kurukṣetre mṛtānāṃ ca patanaṃ naiva vidyate ।।

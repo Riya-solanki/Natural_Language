@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1591 | label: meter | g:0.25 m:0.594 ---
+
+etasminn anantare brahmā munim ūrvaṃ sabhājayan 
+sarvalokapatiḥ prabhuḥ ।
+ājagāma munir yatra vyasṛjat putram uttamam । 
+sa dadarśorum ūrvasya dīpyamānaṃ sutāgninā । 
+aurvakopāgnisaṃtaptāṃl lokāṃś ca ṛṣibhiḥ saha । 
+tam uvāca tato brahmā ।
+putredaṃ dhāryatāṃ tejo lokānāṃ kriyatāṃ dayā ।।

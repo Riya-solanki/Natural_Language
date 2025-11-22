@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 789 | label: meter | g:0.25 m:0.5 ---
+
+tamasā nirantaravisāriṇaiva me parivaryate nayanagocaraṃ balāt ।
+anirūpitātyayavikalpakātaraṃ dravatīva mānasam idaṃ priyaṃ vinā ।।

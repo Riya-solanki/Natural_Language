@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 752 | label: meter | g:0.25 m:0.625 ---
+
+naitad rājāsanaṃ yogyam ajātasya mamodarāt 
+iti garvād avocan māṃ sapatnī mātur uccakaiḥ ।।

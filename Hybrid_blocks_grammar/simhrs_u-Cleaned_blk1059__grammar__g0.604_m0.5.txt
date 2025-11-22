@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1059 | label: grammar | g:0.604 m:0.5 ---
+
+atra aprathama-sambhogatvād bhayābhāvaḥ । danta-kṣatādiṣv aṅgārpaṇānukūlyena vyalīka-smaraṇādy-abhāvaḥ । tābhyām upārūḍha-vaibhavaḥ sampadyate sambhogaḥ ।

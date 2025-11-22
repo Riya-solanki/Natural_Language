@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4050 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ kṣayam aśeṣās te daiteyā dharaṇītale 
+prayāsyanti na saṃdeho maddṛkpātavicūrṇitāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1480 | label: hybrid | g:0.444 m:0.5 ---
+
+paśūnāṃ ye ca patayaḥ patayo ye ca pakṣiṇām 
+manuṣyāṇāṃ ca sarpāṇāṃ nāgānāṃ cādhipās tu ye ।।

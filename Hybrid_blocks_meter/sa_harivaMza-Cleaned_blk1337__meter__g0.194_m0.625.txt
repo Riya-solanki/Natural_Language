@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1337 | label: meter | g:0.194 m:0.625 ---
+
+āśrameṣu mahābhāgān munīn vai saṃśitavratān 
+satyadharmaratān dāntān purā dharṣitavāṃs tu saḥ ।।

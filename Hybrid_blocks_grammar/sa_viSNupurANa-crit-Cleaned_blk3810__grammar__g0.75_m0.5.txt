@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3810 | label: grammar | g:0.75 m:0.5 ---
+
+mamedaṃ pitṛdhanam ity atīva ca satyabhāmā spṛhāṃ cakāra । balabhadrasatyānanāvalokanāt kṛṣṇo apy ātmānaṃ cakrāntarāvasthitam iva mene । sakalayādavapratyakṣaṃ cākrūram āha । etad dhi maṇiratnam ātmasaṃśodhanāya eṣāṃ yadūnāṃ darśitam etac ca mama balabhadrasya ca sāmānyaṃ pitṛdhanaṃ caitat satyabhāmāyā nānyasya ।।

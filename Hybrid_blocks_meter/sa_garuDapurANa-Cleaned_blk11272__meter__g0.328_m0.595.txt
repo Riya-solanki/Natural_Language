@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11272 | label: meter | g:0.328 m:0.595 ---
+
+avaiṣṇavānnaiḥ śigruśākādikaiśca hyanarpitānnaiśca tathāpyasaṃskṛtaiḥ ।
+tathāpyabhakṣyai rasanā ca dagdhā kadā drakṣye tava vaktraṃ mukunda ।।

@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 961 | label: meter | g:0.25 m:0.698 ---
+
+etasminn abhilāṣādi maraṇāntam anekadhā ।
+tat-tat-sañcāri-bhāvānām utkaṭatvād daśā bhavet ।। 
+tathāpi prāktanair asyā daśāvasthāḥ samāsataḥ ।
+proktās tad-anurodhena tāsāṃ lakṣaṇam ucyate ।। 
+abhilāṣaś cintānusmṛti-guṇa-saṅkīrtanodvegāḥ ।
+savilāpā unmāda-vyādhī jaḍatā mṛtiś ca tāḥ kramaśaḥ ।।

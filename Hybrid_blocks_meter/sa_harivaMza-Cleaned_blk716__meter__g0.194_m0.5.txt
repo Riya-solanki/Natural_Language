@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 716 | label: meter | g:0.194 m:0.5 ---
+
+eṣa te drupadasyādau brahmadattasya caiva ha 
+vaṃśaḥ kārtsnyena vai prokto vīrasyogrāyudhasya ca ।।

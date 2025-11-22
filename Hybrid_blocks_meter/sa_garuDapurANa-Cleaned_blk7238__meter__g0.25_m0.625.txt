@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7238 | label: meter | g:0.25 m:0.625 ---
+
+ājyenābhyañjanaṃ kasmātkuta ekāhutikriyā ।
+vasundharā kimarthaṃ ca kutaḥ strīśabdakīrtanam ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 493 | label: meter | g:0.194 m:0.625 ---
+
+neyaṃ dugdha-vikīrṇi-pālir api tu drāg-vāri-dhārā-gatir
+neyaṃ syān navanīta-piṇḍa-visṛtir muktās tu muktāmbudāḥ ।
+neyaṃ dīrṇa-haridra-nīra-vikṛtiḥ kintu prabhā vidyutāṃ
+parvaivedam atīva harṣa-mahasā varṣā-vapur nirmame ।। iti ।

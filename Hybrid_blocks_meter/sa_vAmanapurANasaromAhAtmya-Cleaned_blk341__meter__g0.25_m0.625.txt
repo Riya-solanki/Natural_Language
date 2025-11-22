@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 341 | label: meter | g:0.25 m:0.625 ---
+
+ityetat kathitaṃ tasya viṣṇormāhātmyamuttamam ।
+vāmanasya śṛṇvan yastu sarvapāṣaiḥ pramucyate ।।

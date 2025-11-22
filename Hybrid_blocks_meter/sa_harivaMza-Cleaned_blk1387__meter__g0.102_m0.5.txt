@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1387 | label: meter | g:0.102 m:0.5 ---
+
+vāruṇāṃs turagāñ śubhrān rathaṃ ca rathināṃ varaḥ 
+hiraṇyam akṣayaṃ dhenūr gajendrāṃś ca mahāmatiḥ 
+dadau tasmin mahāyajñe vājimedhe mahāyaśāḥ ।।

@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 9 | label: grammar | g:0.562 m:0.5 ---
+
+nanvanyā śrutirjalūkāvatpūrvadehaṃ na muñcati yāvanna dehāntaramākramatīti darśayati- atadyathā tṛṇajalāyukā' iti ।

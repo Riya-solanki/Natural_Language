@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11313 | label: meter | g:0.25 m:0.5 ---
+
+jānāti lakṣmīrlakṣaṇaṃ vāyurūpe svāpekṣayā hyatiriktaṃ khagendra ।
+svalakṣaṇāpekṣayā bhāratī tu śatairguṇairadhikā vedhasopi ।।

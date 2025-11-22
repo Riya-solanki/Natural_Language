@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 15 | label: meter | g:0.194 m:1.0 ---
+
+hemādri-dānair dharaṇī-surāṇāṃ
+hemācalaṃ hasta-gataṃ vidhāya ।
+yaś cāru-sopāna-pathena cakre
+śrī-parvataṃ sarva-janāṅghri-gamyam ।।

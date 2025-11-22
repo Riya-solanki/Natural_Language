@@ -1,0 +1,9 @@
+--- source: vacbhamu-Cleaned.txt | block: 263 | label: hybrid | g:0.296 m:0.411 ---
+
+parapakṣe mokṣasyānityatāmāpādayati- yasya tuiti ।
+kāryamapūrvaṃ yāgādivyāpārajanyam; tadapekṣate mokṣaḥ svotpattāviti ।
+tayoḥ pakṣayoḥiti; nirvartyavikāryayoḥ ।
+kṣaṇikaṃ vijñānamātmeti bauddhāḥ ।
+tathā ca viśuddhavijñānotpādo mokṣa iti nirvartyo mokṣaḥ ।
+anyeṣāṃ tu saṃskārarūpāvasthāmapahāya yā kaivalyāvasthāvāptirātmanaḥ sa mokṣa iti vikāryo mokṣaḥ; yathā payasaḥ pūrvāvasthāpahānenāvasthāntaraprāptirvikāro dadhīti ।
+tadetayoḥ pakṣayorna nityatā mokṣasya, kāryatvāt, dadhighaṭādivat ।

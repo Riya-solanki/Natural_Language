@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1229 | label: grammar | g:0.583 m:0.5 ---
+
+paścād aṅghrī prasārya trikanativitataṃ drāghayitvāṅgam uccair āsajyābhugnakaṇṭho mukham urasi saṭāṃ dhūlidhūmrāṃ vidhūya ।
+ghāsagrāsābhilāṣād anavaratacalatprothatuṇḍas turaṅgo mandaṃ śabdāyamāno vilikhati śayanād utthitaḥ kṣmāṃ khureṇa ।।

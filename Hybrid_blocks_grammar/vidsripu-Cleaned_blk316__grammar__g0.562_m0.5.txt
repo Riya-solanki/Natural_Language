@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 316 | label: grammar | g:0.562 m:0.5 ---
+
+agre śyāmalabindubaddhatilakair madhye api pākānvaya- prauḍhībhūtapaṭolapāṭalatarair mūle manāgbabhrubhiḥ ।
+vṛnte karkaśakīrapicchaharibhiḥ sthūlaiḥ phalair bandhurāḥ sampraty utsukayanti kasya na manaḥ pūgadrumāṇāṃ chaṭāḥ ।।

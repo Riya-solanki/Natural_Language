@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2081 | label: meter | g:0.306 m:0.625 ---
+
+padmaṃ tu yoṣitāṃ cintya padmaṃ tasyopari svayaṃ ।
+rāmayan padmapadmāgrī śuddhāṃ siddhimavāpnute ।।

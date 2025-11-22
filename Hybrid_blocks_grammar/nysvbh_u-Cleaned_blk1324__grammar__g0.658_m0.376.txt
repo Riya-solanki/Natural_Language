@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1324 | label: grammar | g:0.658 m:0.376 ---
+
+ubhayasādharmyāt prakriyāsiddhiṃ bruvatā pratipakṣāt prakriyāsiddhiruktā bhavati, yadyubhyasādharmyaṃ tatraikataraḥ pratipakṣa ityevaṃ satyupapannaḥ pratipakṣo bhavati pratipakṣopapatteranupapannaḥ pratiṣedhaḥ yataḥ pratipakṣopapattiḥ pratiṣedhopapattiśceti vipratiṣiddhamiti।
+tattvānavadhāraṇācca prakriyāsiddhiḥ viparyaye prakaraṇāvasānātu tattvāvadhāraṇe hyavasitaṃ prakaraṇaṃ bhavatīti ।।

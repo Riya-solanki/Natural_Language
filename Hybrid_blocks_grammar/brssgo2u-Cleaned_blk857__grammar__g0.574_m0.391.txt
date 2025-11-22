@@ -1,0 +1,8 @@
+--- source: brssgo2u-Cleaned.txt | block: 857 | label: grammar | g:0.574 m:0.391 ---
+
+yadyapi atattejo asṛjata' ityetasminprakaraṇe prāṇānāmutpattirna paṭhyate, tejobannānāmeva ca trayāṇāṃ bhūtānāmutpattiśravaṇāt ।
+tathāpi brahmaprakṛtikatejobannapīrvakatvābhidhānādvākprāṇamanasāṃ tatsāmānyācca sarveṣāmeva prāṇānāṃ brahmaprabhavatvaṃ siddhaṃ bhavati ।
+tathāhi- asminneva prakaraṇe tejobannapūrvakatvaṃ vākprāṇamanasāmāmnāyate- aannamayaṃ hi somya mana āpomayaḥ prāṇastejomayī vāk' iti ।
+tatra yadi tāvanmukhyamevaiṣāmannādimayatvaṃ tato vartata eva brahmaprabhavatvam ।
+atha bhāktaṃ tatāpi brahmakartṛkāyāṃ nāmarūpavyākriyāyāṃ śravaṇāt ayenāśrutaṃ śrutaṃ bhavati' iti copakramāt aaitadātmyamidaṃ sarvam' iti copasaṃhārācchrutyantaraprasiddheśca brahmakāryatvaprapañcanārthameva manaādīnāmannādimayatvavacanamiti gamyate ।
+tasmādapi prāṇānāṃ brahmavikāratvasiddhiḥ ।।

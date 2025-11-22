@@ -1,0 +1,6 @@
+--- source: brssgo4u-Cleaned.txt | block: 163 | label: hybrid | g:0.504 m:0.504 ---
+
+atra ucyate - tatra karmaprayuktasya graha atigrahasaṃjñakastha indriyaviṣayātmakasya bandhanasya pravṛttiḥ iti karmāśrayatā uktā ।
+iha punaḥ bhūta upādānāt dehāntara utpattiḥ iti bhūtāśrayatvam uktam ।
+praśaṃsāśabdāt api tatra prādhānyamātraṃ karmaṇaḥ pradarśitaṃ na tu āśrayāntaraṃ nivāritam ।
+tasmāt avirodhaḥ ।।

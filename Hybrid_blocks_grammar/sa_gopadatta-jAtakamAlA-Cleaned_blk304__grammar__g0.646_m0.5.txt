@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 304 | label: grammar | g:0.646 m:0.5 ---
+
+atha sa durātmā tadvākyaśravaṇajvalitakopānalādīptahṛdayaḥ kathāparyavasānam avigaṇayyaiva bodhisattvaṃ tīkṣṇena bāṇena marmadeśe abhihatya prāṇair viyojayāṃ babhūva ।

@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 247 | label: meter | g:0.056 m:0.625 ---
+
+etāvantaṃ diṣṭam ajñāsiṣaṃ na
+preyaḥ-saṅgāt kintv idānīṃ tad ūhe ।
+preyān sarvāḥ projjhya mām eva ramyāṃ
+saṅgamyāntaḥ-kānanaṃ yan nināya ।। [śālinī]

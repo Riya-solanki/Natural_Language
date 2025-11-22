@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8672 | label: meter | g:0.25 m:0.555 ---
+
+nivārayanti tṛptāste jāyamānānukampakāḥ ।
+paścātte muktimāyanti kāle prāpte svaputrataḥ ।
+sadā bandhuṣu yacchanti vṛddhimṛddhiṃ khagādhipa ।।

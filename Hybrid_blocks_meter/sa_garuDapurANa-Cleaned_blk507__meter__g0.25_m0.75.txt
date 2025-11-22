@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 507 | label: meter | g:0.25 m:0.75 ---
+
+upendraśca nṛsiṃhaśca śauriścaiva janārdanaḥ ।
+āraṇeyo bṛhadbhānurbṛhaddīptistathaiva ca ।।

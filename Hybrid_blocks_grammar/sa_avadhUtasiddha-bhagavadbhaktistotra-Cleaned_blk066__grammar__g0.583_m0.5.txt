@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 66 | label: grammar | g:0.583 m:0.5 ---
+
+yat khidyate kamalayonir api stuvānaḥ sākṣāc caturbhir api nāma mukhair bhavantam ।
+tat ke vayaṃ tava guṇastavanakriyāsu bhaktiḥ pramāṇam iti sarvam idaṃ kṣamasva ।।

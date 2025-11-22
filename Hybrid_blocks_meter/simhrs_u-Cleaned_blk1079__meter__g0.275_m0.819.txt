@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1079 | label: meter | g:0.275 m:0.819 ---
+
+avahasitam, yathā-
+phulla-nāsā-puṭaṃ yat syān nikuñcita-śiro' ṃsakam । 
+jihmāvaloka-nayanaṃ tac cāvahasitaṃ matam ।।

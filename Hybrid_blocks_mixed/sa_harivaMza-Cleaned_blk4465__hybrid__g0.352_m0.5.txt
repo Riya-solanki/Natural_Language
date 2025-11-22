@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4465 | label: hybrid | g:0.352 m:0.5 ---
+
+yajñārthe tu vayaṃ sṛṣṭāḥ sṛṣṭā yena sma nārada 
+tad asmākaṃ parā yajñā na vayaṃ svavaśe sthitāḥ 
+svayaṃbhuvo apīha parā vedānāṃ ca parā gatiḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 592 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha vrajarājas tatrāścarya-pāramparyam idam aśṛṇod adarśayad anvabhūd api । [] tatrāśṛṇod yathā prathamaṃ tāvat pūtanā-tanur āyāmatas tri-gavyūtiṃ vyāpya patitavatī, vistāratas tu gavyutim, ucchrāyataś ca prāyaḥ krośam iti । [] sā ca yāma-dvaya-gamyāyāma-tad-ardha-vistāra-vrajāgāra-vrajād bahir eva papāta, tatra ca na prāṇinaḥ pīḍitavatī, kintu drumān eveti ।

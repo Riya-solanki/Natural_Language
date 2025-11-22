@@ -1,0 +1,3 @@
+--- source: mrgt1chu-Cleaned.txt | block: 19 | label: hybrid | g:0.5 m:0.5 ---
+
+na ca tatsādhakaṃ kiṃcit pramāṇaṃ bhāty abādhitam ।

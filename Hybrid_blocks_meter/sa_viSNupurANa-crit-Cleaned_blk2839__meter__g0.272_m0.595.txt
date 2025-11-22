@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2839 | label: meter | g:0.272 m:0.595 ---
+
+yatra kvacana saṃsthānāṃ kṣuttṛṣṇopahatātmanām 
+idam apy akṣayaṃ cāstu mayā dattaṃ tilodakam ।।

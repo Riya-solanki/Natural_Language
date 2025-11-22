@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 60 | label: meter | g:0.217 m:0.845 ---
+
+pitāmahena dattārghyaḥ kṛtāsanaparigrahaḥ 
+mām uvāca mahābhāgo maitreya pulahāgrajaḥ ।।

@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 669 | label: meter | g:0.25 m:0.583 ---
+
+[] "tad etad asmākaṃ khamāṇikyanāmni jyotirgranthe prāg eva nirupitamasti ।
+uccasthāḥ śaśibhaumacāndriśanayo lagnaṃ vṛṣo lābhago
+jīvaḥ siṃhatulāliṣu kramavaśāt puṣośanorāhavaḥ ।
+naiśīthaḥ samayo' ṣṭamī budhadinaṃ brahmarkṣamatra kṣaṇe
+śrīkṛṣṇābhidhamambujekṣaṇamabhūd āviḥ paraṃ brahma tat ।।iti ।

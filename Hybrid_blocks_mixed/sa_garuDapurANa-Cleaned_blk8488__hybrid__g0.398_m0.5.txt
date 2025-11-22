@@ -1,0 +1,8 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8488 | label: hybrid | g:0.398 m:0.5 ---
+
+śailāgamaṃ caturthe sa māse prāpnoti vai puram ।
+pāṣāṇāstatra varṣanti pretasyopari saṃsthitāḥ ।।
+caturthamāsike śrāddhaṃ bhukte tatra sukhī bhavet ।।
+tato yāti puraṃ pretaḥ krūraṃ māse tu pañcame ।
+iha dattaṃ sutairbhuṅkte preto vai tatpure sthitaḥ ।
+ṣaṣṭhe māsi tataḥ preto yāti krauñcābidhaṃ puram ।।

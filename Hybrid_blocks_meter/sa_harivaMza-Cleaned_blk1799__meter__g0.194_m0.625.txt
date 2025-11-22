@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1799 | label: meter | g:0.194 m:0.625 ---
+
+kimarthaṃ cādidevena nītaḥ salilayoninā 
+viṣṇur daityavadhe vṛtte devair akṛtasatkriyaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2018 | label: meter | g:0.306 m:0.5 ---
+
+mūḍha kiṃ te balaṃ bāhvoḥ śārīraṃ cāpi vṛtrahan ।
+yenādhikṣipase māṃ tvaṃ dhruvaṃ na matimānasi ।।

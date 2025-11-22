@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3763 | label: grammar | g:0.727 m:0.021 ---
+
+vāsudevam athālakśya rājā hrasvaṃ pramāṇataḥ 
+parivṛttaṃ yugaṃ mene kālena mahatā tataḥ ।। 
+tam ālokya ghanaśyāmaṃ pītakauśeyavāsasam । śrīvatsavakṣasaṃ bhrājat kaustubhena virājitam ।। caturbhujaṃ rocamānaṃ vaijayantyā ca mālayā । cāruprasannavadanaṃ sphuran makarakuṇḍalam ।। prekṣaṇīyaṃ trilokeśaṃ sānurāgasmitekṣaṇam । apīcyavayasaṃ matta mṛgendrodāravikramam ।। paryapṛcchan mahābuddhis tejasā tasya dharṣitaḥ । śaṅkitaḥ śanakaiḥ kṛṣṇaṃ durdharṣam iva tejasā । 
+uvāca rājā govindaṃ ko bhavān kim ihāgataḥ 
+kaś ca kālaḥ prasuptasya yadi jānāsi kathyatām ।। 
+niḥśaṅko gatabhīḥ prāpto vipine girigahvare । padbhyāṃ padmapalāśābhyāṃ vicarasy urukaṇṭake ।। kiṃ svit tejasvināṃ tejo bhagavāṃs tvaṃ vibhāvasuḥ । sūryaḥ somo mahendro vā lokapālo aparo api vā ।। manye tvāṃ devadevānāṃ trayāṇāṃ puruṣarṣabham । yad bādhase guhādhvāntaṃ pradīpaḥ prabhayā yathā ।। śuśrūṣatām avyalīkam asmākaṃ narapuṃgava । svaṃ janma karma gotraṃ vā kathyatāṃ yadi rocate । 
+somavaṃśodbhavo rājā yayātir nāma nāhuṣaḥ 
+tasya putro yadur jyeṣṭhaś catvāro anye yavīyasaḥ ।।

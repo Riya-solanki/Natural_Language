@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2131 | label: meter | g:0.25 m:0.5 ---
+
+apsu tasminn ahorātre pūrvaṃ viśati candramāḥ 
+tato vīrutsu vasati prayāty arkaṃ tataḥ kramāt ।।

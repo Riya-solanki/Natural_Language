@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 885 | label: meter | g:0.194 m:0.625 ---
+
+kṛtvā cetaḥpradoṣaṃ kṛpaṇakapuruṣo yatra vīthīmukhasthaḥ
+kīṭaḥ kopopadagdho nṛparathacaraṇāghātavicchinnamūrdhā ।
+jvālāmālākalāpaṃ vivṛtam iva bhuvo bhīṣaṇaṃ vaktrakośaṃ
+śvabhraṃ tasmād viveśa pratihatatimiro apuṇyarāśis tato asau ।।

@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 647 | label: meter | g:0.292 m:0.716 ---
+
+FN svayamasupto bhāsamāna evātmā suptānvāgādīnuparavyāpārānabhicākaśīti abhipaśyati ।
+paricchedo vṛttiḥ ।
+gandhāya tadgocarāntaḥkaraṇavṛttaye ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11922 | label: meter | g:0.306 m:0.5 ---
+
+sadā mūḍho harivārtāṃ bhajasva hyāyurgataṃ vyarthamevaṃ kubuddhyā ।
+sadvaiṣṇavānāṃ saṃgamo durlabhaśca kṣubdhaṃ jñānaṃ tāratamyasvarūpam ।।

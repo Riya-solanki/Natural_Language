@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 94 | label: hybrid | g:0.448 m:0.462 ---
+
+tantusaṃsthāne paṭe tantuvyatirekeṇa paṭo nāma kāryaṃ naivopalabhyate kevalāstu tantava ātānavitānavantaḥ pratyakṣamupalabhyante, tathā tantuṣvaṃśavoṃ'śuṣu tadavayavāḥ ।
+anayā pratyakṣopalabdhyā lohitaśuklakṛṣṇāni trīṇi tato rūpāṇi vāyumātramākāśamātraṃ cetyanumeyam ।
+tataḥ paraṃ brahmaikamevādvitīyaṃ, tatra sarvapramāṇānāṃ niṣṭhāmavocāma ।।

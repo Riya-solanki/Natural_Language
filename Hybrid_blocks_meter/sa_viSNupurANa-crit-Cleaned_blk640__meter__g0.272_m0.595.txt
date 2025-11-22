@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 640 | label: meter | g:0.272 m:0.595 ---
+
+nānyadattam abhīpsyāmi sthānam amba svakarmaṇā 
+icchāmi tad ahaṃ sthānaṃ yan na prāpa pitā mama ।।

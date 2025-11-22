@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 81 | label: grammar | g:0.562 m:0.5 ---
+
+tanvaṅgyā navasaṃgame vyavasite kānte balān mekhalāṃ moktuṃ śvāsavikāsakampavikalāḥ kaṇṭhe luṭhantyaḥ sudhām ।
+mīlatpadmanipīḍitāliraṇitāḥ klībāḥ kiranti kṣaṇaṃ dhanyānāṃ nananeti niḥsahatayā huṃkāragarbhā giraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1041 | label: meter | g:0.306 m:0.5 ---
+
+tataḥ śokena mahatā saṃtapto vākyamabravīt ।
+ha mlecchā naumi puruṣaṃ svagṛhaṃ ca nayāmyaham ।।

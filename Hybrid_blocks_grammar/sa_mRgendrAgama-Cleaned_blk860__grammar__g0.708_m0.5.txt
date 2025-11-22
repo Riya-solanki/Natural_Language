@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 860 | label: grammar | g:0.708 m:0.5 ---
+
+[liṅge sākṣasūtrake pramādādddhārite bhraṣṭe vā] daivānmānuṣādvā prabalālliṅgākṣasūtrayorhāritayorbhraṣṭayorvā [maheśasya lakṣaṃ japet] parameśvaramantralakṣajapaṃ kṛtvā [punaḥ parigrahaṃ kuryāt] punarguṇotkṛṣṭayoranyayoḥ saṃgrahaṃ kuryāt।।

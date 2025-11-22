@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3313 | label: meter | g:0.194 m:0.625 ---
+
+puṃsāṃ jaṭādharaṇamauṇḍyavatāṃ vṛthaiva moghāśinām akhilaśaucanirākṛtānām 
+toyapradānapitṛpiṇḍabahiṣkṛtānāṃ saṃbhāṣaṇād api narā narakaṃ prayānti ।।

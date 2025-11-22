@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2986 | label: hybrid | g:0.465 m:0.5 ---
+
+bhojo vā yādavo vāsi kaṃso vāsi yathā tathā 
+sahajaṃ te śiras tāta jaṭī muṇḍo api vā bhava ।।

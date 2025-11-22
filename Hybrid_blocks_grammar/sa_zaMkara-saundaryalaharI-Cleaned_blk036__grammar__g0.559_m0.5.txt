@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 36 | label: grammar | g:0.559 m:0.5 ---
+
+manas tvaṃ vyoma tvaṃ marud asi marutsārathir asi tvam āpas tvaṃ bhūmis tvayi pariṇatāyāṃ na hi param 
+tvam eva svātmānaṃ pariṇamayituṃ viśvavapuṣā cidānandākāraṃ śivayuvati bhāvena bibhṛṣe ।।

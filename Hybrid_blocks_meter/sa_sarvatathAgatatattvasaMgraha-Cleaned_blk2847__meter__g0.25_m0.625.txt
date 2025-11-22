@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2847 | label: meter | g:0.25 m:0.625 ---
+
+vajrasatvamahāmudrāṃ badhvā tu paribhāvayan ।
+purato vajrasatvaṃ ca siddhiḥ śīghratarā bhavet ।।

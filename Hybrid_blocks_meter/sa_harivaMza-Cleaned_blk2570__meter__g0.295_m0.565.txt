@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2570 | label: meter | g:0.295 m:0.565 ---
+
+hariṇākrīḍanaṃ nāma bālakrīḍanakaṃ tataḥ 
+prakrīḍitāś ca te sarve dvau dvau yugapad utpatan ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 797 | label: meter | g:0.25 m:0.5 ---
+
+tatraiva vā gurorgehe dvijo niṣṭhāmavāpnuyāt ।
+gurorabhāve tatputre tacchiṣye tatsutaṃ vinā ।।

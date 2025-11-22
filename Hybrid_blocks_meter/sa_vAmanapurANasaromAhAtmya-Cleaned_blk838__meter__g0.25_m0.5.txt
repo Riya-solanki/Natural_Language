@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 838 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ kālena mahatā umayā saha śaṅkaraḥ ।
+ākāśamārgeṇa tadā dṛṣṭvā devī suduḥkhitāḥ ।।

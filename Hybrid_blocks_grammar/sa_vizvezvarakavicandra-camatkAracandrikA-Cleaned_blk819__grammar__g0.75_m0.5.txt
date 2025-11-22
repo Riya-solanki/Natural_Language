@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 819 | label: grammar | g:0.75 m:0.5 ---
+
+atra yadyapi rāhuriva rāhuḥ kalpapādapa iva kalpapādapa iti cābhedopacāravyāvṛttyā rāhukalpaśabdayorupamānabhāvinorapyupameye bāhau vṛttiḥ । tābhyāṃ ca yadyapi svārthe eva bahuckalpappratyayau bhavataḥ tathāpi yathā śūrādibhya utpadyamānāstarabādayaḥ śauryasyaivātiśayamavagamayanti na punaḥśauyaśriyasya tadvadimāvapi guṇabhūtamevopamānārthaṃ bruvāte iti seyamupamānār thapratyayā nāma pratyayopamā ।

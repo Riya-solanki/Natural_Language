@@ -1,0 +1,10 @@
+--- source: nysvbh_u-Cleaned.txt | block: 838 | label: meter | g:0.0 m:1.0 ---
+
+saṃmūrchanalakṣaṇādavayavavyūhād dravyāntare
+dadhni utpanne gṛhyamāṇe pūrvaṃ payodravyam avayavavibhāgebhyo
+nivṛttamityanumīyate yathā mṛdavayavānāṃ
+vyūhāntarād dravyāntare sthālyāmutpannāyāṃ
+pūrvaṃ mṛtpiṇḍadravyaṃ mṛdavayavavibhāgebhyo
+nivartate iti, mṛdvaccāvayavānvayaḥ payodadhnoḥ,
+nāśeṣanirodhe niranvayo dravyāntarotpādo
+ghaṭate iti ।।

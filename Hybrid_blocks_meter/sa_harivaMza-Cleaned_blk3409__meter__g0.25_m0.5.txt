@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3409 | label: meter | g:0.25 m:0.5 ---
+
+hatvā jarāsaṃdhabalaṃ jitvā yakṣāṃś ca saṃyuge 
+jarāsaṃdhabalaṃ jitvā hatvā rājñāṃ ca saṃyuge । 
+jitvā devagaṇaṃ yuddhe yakṣān api ca saṃyuge । 
+kathaṃ mānuṣamātreṇa hatas tvaṃ jagatīpate ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1183 | label: grammar | g:0.583 m:0.5 ---
+
+abhyudyatkavalagrahapraṇayinas te śallakīpallavās tac cāsphālasahaṃ saraḥ kṣitibhṛtām ity asti ko nihnute ।
+dantastambhaniṣaṇṇaniḥsahakaraḥ śvāsair atiprāṃśubhir yenāyaṃ virahī tu vāraṇapatiḥ svāmin sa vindhyo bhavān ।।

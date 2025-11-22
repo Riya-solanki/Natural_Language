@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 891 | label: grammar | g:0.625 m:0.5 ---
+
+nāyāto yadi tādṛśaṃ sa śapathaṃ kṛtvāpi dūti priyas tat kiṃ kopanayā tvayā svadaśanair agrādharaḥ khaṇḍitaḥ ।
+svedāmbhaḥkaṇadāyi vepanam idaṃ tyaktvā bhaja svasthatāṃ ko lokasya sakhi svabhāvakuṭilasyāntargataṃ jñāsyati ।।

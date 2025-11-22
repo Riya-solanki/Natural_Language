@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 594 | label: meter | g:0.194 m:0.555 ---
+
+śrāddhe ca ye pradāsyanti trīn piṇḍān nāmagotrataḥ 
+sarvatra vartamānāṃs tān pitaraḥ sapitāmahāḥ 
+bhāvayiṣyanti satataṃ śrāddhadānena pūjitāḥ ।। 
+evam ājñā kṛtā pūrvaṃ brahmaṇā parameṣṭhinā । 
+iti tad vacanaṃ satyaṃ bhavatv adya divaukasaḥ 
+putrāś ca pitaraś caiva vayaṃ sarve parasparam ।।

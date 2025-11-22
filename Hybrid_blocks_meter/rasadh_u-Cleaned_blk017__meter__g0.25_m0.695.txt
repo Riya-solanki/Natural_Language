@@ -1,0 +1,5 @@
+--- source: rasadh_u-Cleaned.txt | block: 17 | label: meter | g:0.25 m:0.695 ---
+
+maladoṣo bhavedeko dvitīyo vahnisambhavaḥ ।
+viṣadoṣastṛtīyastu caturtho darpasaṃjñakaḥ ।।
+unmattaḥ pañcamo doṣo doṣāḥ pañca sadā rase ।

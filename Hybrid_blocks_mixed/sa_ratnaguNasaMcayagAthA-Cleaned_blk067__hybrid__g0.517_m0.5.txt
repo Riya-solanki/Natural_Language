@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 67 | label: hybrid | g:0.517 m:0.5 ---
+
+yasmin na rūpa api vedana cāpi saṃjñā vijñāna naiva na pi cetanayopalabdhiḥ 
+anupādu śūnya na ya jānati sarvadharmān eṣā sa prajñavarapāramitāya caryā ।।

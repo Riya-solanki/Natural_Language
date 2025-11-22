@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1474 | label: hybrid | g:0.385 m:0.433 ---
+
+pratyakṣā iva yadbhāvāḥ kriyante bhūtabhāvinaḥ ।
+tadbhāvikaṃ

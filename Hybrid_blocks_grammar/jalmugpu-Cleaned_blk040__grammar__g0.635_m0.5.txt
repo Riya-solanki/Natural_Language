@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 40 | label: grammar | g:0.635 m:0.5 ---
+
+yad bhūyaḥ paricumbanaṃ yad asakṛtsarvāṅgam āliṅganaṃ yat paryutsukam īkṣitaṃ sarabhasaṃ yac cāṭukotkaṭṭanam ।
+yat sadbhāvakathānakaṃ rahasi yat kiṃ cid abhyarthanaṃ veśyānāṃ viṣavat tad eva nipuṇaṃ cintyaṃ sadā kāmukaiḥ ।।

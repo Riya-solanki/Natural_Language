@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4720 | label: meter | g:0.25 m:0.5 ---
+
+bhavadbhir na hi me yuddhe kāryaṃ sāhāyyam adya vai 
+abravīd dhvaṃsatety evaṃ matsamīpāc ca naśyata ।।

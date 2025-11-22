@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5525 | label: meter | g:0.25 m:0.5 ---
+
+tacchiraḥ patitaṃ dṛṣṭvā tatra kāśipateḥ pure 
+janaḥ kim etad ity āha kenety atyantavismitaḥ ।।

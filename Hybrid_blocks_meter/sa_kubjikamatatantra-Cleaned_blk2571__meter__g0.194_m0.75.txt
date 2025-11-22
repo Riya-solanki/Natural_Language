@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2571 | label: meter | g:0.194 m:0.75 ---
+
+sarvajñavihite mārge na doṣas tatprasādhane 
+ātmanaś ca parasyaiva kruddhaceto'vadhāraṇam ।।

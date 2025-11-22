@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 87 | label: hybrid | g:0.486 m:0.5 ---
+
+yatrāntarasmi bhavate pragṛhīta prajñā tatu labdhacakṣu bhavatī imu nāmadheyam 
+yatha citrakarmapariniṣṭhita cakṣuhīno na ca tāva puṇyu labhate akaritva cakṣuḥ ।।

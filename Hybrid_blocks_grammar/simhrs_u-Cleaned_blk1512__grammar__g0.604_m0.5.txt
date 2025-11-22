@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1512 | label: grammar | g:0.604 m:0.5 ---
+
+vidūṣakaḥ-ṇaṃ pucchido hmi । puṇo mandassa bi me tasmiṃ pañcuppaṇṇā madī āsi ।

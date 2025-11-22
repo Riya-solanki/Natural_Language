@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1196 | label: meter | g:0.0 m:0.5 ---
+
+kakṣāpaṭī ca kaupīnaṃ śāṭī ca strīti lakṣyataḥ

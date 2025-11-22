@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 932 | label: meter | g:0.306 m:0.5 ---
+
+sādhāraṇyān nirātaṅkaḥ kanyām anyo' pi yācate ।
+kiṃ punar jagatāṃ jetā prapautraḥ parameṣṭhinaḥ ।। iti ।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 443 | label: meter | g:0.25 m:0.732 ---
+
+lomaharṣaṇa uvāca ।
+tato rāmahṛdaṃ gacchet tīrthasevī dvijottamaḥ ।
+yatra rāmeṇa vipreṇa tarasā dīptatejasā ।।

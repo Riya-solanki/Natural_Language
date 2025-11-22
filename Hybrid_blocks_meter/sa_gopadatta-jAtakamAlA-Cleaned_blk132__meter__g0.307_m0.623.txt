@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 132 | label: meter | g:0.307 m:0.623 ---
+
+davānalapluṣṭapalāśarūkṣaṃ vahan jarājarjaram asthiyantram ।
+kathaṃ cid āyāsanipītaharṣo na kiṃ samo apāyaśatair manuṣyaḥ ।।

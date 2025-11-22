@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 677 | label: hybrid | g:0.542 m:0.5 ---
+
+[] tad evaṃ kathāyāṃ samāpta-prathāyāṃ sarve yathā sva-svāvāsam āsannāḥ ।

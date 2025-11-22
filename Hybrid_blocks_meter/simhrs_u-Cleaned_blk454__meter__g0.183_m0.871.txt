@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 454 | label: meter | g:0.183 m:0.871 ---
+
+yathā-
+yatrārabhaṭy-ādi-gaṇāḥ samantā
+miśratvam āśritya mithaḥ prathante ।
+miśreti tāṃ vṛttim uśanti dhīrāḥ
+sādhāraṇīm artha-catuṣṭayasya ।। iti ।

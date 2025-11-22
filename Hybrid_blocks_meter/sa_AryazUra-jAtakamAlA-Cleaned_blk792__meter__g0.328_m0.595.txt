@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 792 | label: meter | g:0.328 m:0.595 ---
+
+vismartuṃmenāmicchāmi paśyāmīva ca cetasā ।
+sthitaṃ tasyāṃ hi me cetaḥ sā prabhutvena tatra vā ।।

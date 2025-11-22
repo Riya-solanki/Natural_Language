@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 515 | label: grammar | g:0.631 m:0.395 ---
+
+tadevaṃ paurvāparyālocanayā maitreyībrāhmaṇasya brahmadarśanaparatve sthite bhoktrā jīvātmanopakramamācāryadeśīyamatena tāvatsamādhatte sūtrakāraḥ- pratijñāsiddherliṅgamāśmaradhyaḥ ।
+yathā hi vahnervikārā vyuccaranto visphuliṅgā na vahneratyantaṃ bhidyante, tadrūpanirūpaṇatvāt, nāpi tato atyantamabhinnāḥ, vahneriva parasparavyāvṛttyabhāvaprasaṅgāt, tathā jīvātmano api brahmavikāra na brahmaṇo atyantaṃ bhidyante, cidrūpatvābhāvaprasaṅgāt ।
+nāpyatyantaṃ na bhidyante, parasparaṃ vyāvṛttyabhāvaprasaṅgāt, sarvajñaṃ pratyupadeśavaiyarthyācca ।
+tasmātkathañcidbhedo jīvātmanāmabhedaśca ।
+tatra tadvijñānena sarvavijñānapratijñāsiddhaye vijñānātmaparamātmanorabhedamupādāya paramātmani darśayitavye vijñānātmanopakrama ityāśmaradhya ācāryo mene ।।

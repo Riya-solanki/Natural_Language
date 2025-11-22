@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3928 | label: grammar | g:0.75 m:0.5 ---
+
+tataḥ puraṃjayas tato rāmacandras tasmād dharmo dharmād vaṅgaraḥ kṛtanandanaḥ suṣinandis tadbhrātā nandiyaśāḥ śiśukapravīrau caite varṣaśataṃ ṣaḍ varṣāṇi ca bhaviṣyanti । tatas tatputrās trayodaśaite bāhlikāś ca trayaḥ । tataḥ puṣyamitrapaṭumitrās trayodaśa mekalāś ca saptāndhrāḥ । kosalāyāṃ tu navaiva bhūpatayo bhaviṣyanti । naiṣadhās tu tāvanta eva ।।

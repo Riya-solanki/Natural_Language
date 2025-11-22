@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 994 | label: meter | g:0.25 m:0.625 ---
+
+kharṇaliṅgasya paścāttu ṛṣibhistattvadarśibhiḥ ।
+pratiṣṭhitāni liṅgāni yeṣāṃ saṃkhyā na vidyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3927 | label: meter | g:0.194 m:0.5 ---
+
+sārathiṃ cāsya vivyādha sāyakair niśitais tribhiḥ 
+ājaghāna dhvajaṃ cāsya śareṇa nataparvaṇā ।।

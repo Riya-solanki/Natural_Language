@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 296 | label: meter | g:0.25 m:0.523 ---
+
+gold bīja for garbhadruti
+athavā śatanirvyūḍhaṃ rasakavaraṃ śuddhahemni varabījam ।
+bījaṃ jarati rasendre dravati ca garbhe na sandehaḥ ।।

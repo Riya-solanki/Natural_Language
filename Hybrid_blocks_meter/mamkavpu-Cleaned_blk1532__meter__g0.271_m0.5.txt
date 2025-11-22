@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1532 | label: meter | g:0.271 m:0.5 ---
+
+nigūḍhamapi vastuno rūpaṃ kathamapi prabhinnaṃ kenāpi vyapadeśena yadapahnūyate sā vyājoktiḥ ।
+na caiṣāpahnutiḥ prakṛtāprakṛto abhayaniṣṭhasya sāmyasyehāsaṃbhavāt । udāharaṇam

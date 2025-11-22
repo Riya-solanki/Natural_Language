@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4983 | label: meter | g:0.25 m:0.5 ---
+
+āgneyaṃ caiva saumyaṃ ca prakṛtyaivedam āditaḥ 
+tvayā sṛṣṭaṃ jagad idaṃ sa kathaṃ manyase mayi ।।

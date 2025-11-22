@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1085 | label: grammar | g:0.75 m:0.5 ---
+
+tataḥ śapathahṛdayaṃ dadyāt । tato yathāvat mukhabandhaṃ muktvā, mahāmaṇḍalaṃ darśayet । maṇḍale dṛṣṭamātre tu sarvapāpairvimucyate, sakalatrilokavijayasamartho bhavati । huṃkāreṇa ca mahādevādisarvadevākarṣaṇapraveśanabandhanavaśīkaraṇapātanakṣamo bhavati । sarvatathāgatādhiṣṭhānācca vajrapāṇirmahābodhisatvaḥ satatānuddhaḥ svakīyāḥ siddhīrdadāti ।।

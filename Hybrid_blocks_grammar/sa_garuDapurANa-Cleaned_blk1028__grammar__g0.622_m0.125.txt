@@ -1,0 +1,8 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1028 | label: grammar | g:0.622 m:0.125 ---
+
+satyasyāṣṭau kalā jñeyāḥ pūjyāḥ pūrvādiṣu sthitāḥ ।।
+oṃ hāṃ vāmadevāya namaḥ । oṃ hāṃ rajase namaḥ । oṃ hāṃ rakṣāyai namaḥ । oṃ hāṃ ratyai namaḥ । oṃ hāṃ kanyāyai namaḥ । oṃ hāṃ kāmāyai namaḥ । oṃ hāṃ jananyai namaḥ । oṃ hāṃ kriyāyai namaḥ । oṃ hāṃ vṛddhyai namaḥ । oṃ hāṃ kāryāyai namaḥ । oṃ rā tryai namaḥ । 
+oṃ hāṃ bhrāmaṇyai namaḥ ।
+oṃ hāṃ mohinyai namaḥ ।
+oṃ hāṃ kṣa rāyai namaḥ ।
+vāmadevakalā jñeyāstrayo daśa vṛṣadhvaja ।।

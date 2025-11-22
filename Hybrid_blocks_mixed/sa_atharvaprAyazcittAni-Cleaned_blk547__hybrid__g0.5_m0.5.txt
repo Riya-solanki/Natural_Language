@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 547 | label: hybrid | g:0.5 m:0.5 ---
+
+puroḍāśe vikṣāme yato asyākṣāmaḥ syāt tato yajeta ।

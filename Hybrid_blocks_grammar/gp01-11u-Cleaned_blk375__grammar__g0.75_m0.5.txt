@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 375 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tatrānuje saṅkucati sarvatra ca jane vismayaṃ sacamāne pitari ca rocamāna-locane sa covāca-mayedaṃ nāvicāram ācaritam, yataḥ sarva eva sneha-paramparāyāḥ parādhīnaḥ । sā ca sādguṇyasya, tac ca sarva-samañjasatāyāḥ । sā cātra yathā tathā na mad-vidhe । saiva ca khalu sarva-vaśīkāritāyāṃ svairitām arhati ।

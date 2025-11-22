@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 51 | label: meter | g:0.194 m:0.5 ---
+
+yaḥ prāgavyāpakaḥ so ante kathamanyādṛśo bhavet 
+sa vikāsādidharmā cet tato doṣaparamparā ।।

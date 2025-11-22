@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 367 | label: meter | g:0.255 m:0.743 ---
+
+ābhimukhyenāparokṣatayā viśvaṃ mimīte jānātītyabhivimānastam ।
+saṃdeho dehasya madhyabhāgaḥ ।
+rayirdhanam ।

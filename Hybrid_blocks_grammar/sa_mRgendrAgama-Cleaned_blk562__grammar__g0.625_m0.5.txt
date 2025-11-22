@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 562 | label: grammar | g:0.625 m:0.5 ---
+
+[gurusantatiṃ pālayan] gurvāmnāyakramaṃ rakṣan [nyāyavartibhyaḥ] śāstrānuṣṭhānaparebhyaḥ śivabhaktebhyaḥ tantrārthaṃ [gatamatsaraḥ] anviṣṭaḥ san [nyāyataḥ] vakṣyamāṇanyāyena vyākuryāt।।

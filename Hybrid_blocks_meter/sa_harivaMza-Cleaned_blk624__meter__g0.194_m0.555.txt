@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 624 | label: meter | g:0.194 m:0.555 ---
+
+ete putrā mahātmānaḥ pulastyasya prajāpateḥ 
+mahātmāno mahābhāgās tejoyuktās tapasvinaḥ ।। 
+traya ete gaṇāḥ proktā dharmamūrtidharāḥ śubhāḥ । 
+eteṣāṃ mānasī kanyā pīvarī nāma viśrutā 
+yogā ca yogapatnī ca yogamātā tathaiva ca 
+bhavitrī dvāparaṃ prāpya yugaṃ dharmabhṛtāṃ varā ।।

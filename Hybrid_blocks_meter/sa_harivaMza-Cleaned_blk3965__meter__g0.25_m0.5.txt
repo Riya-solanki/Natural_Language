@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3965 | label: meter | g:0.25 m:0.5 ---
+
+te bhavantaṃ puraskṛtya jetum icchāma taṃ vayam 
+ity ukto rocayām āsa dyūtaṃ rukmī mahārathaḥ ।।

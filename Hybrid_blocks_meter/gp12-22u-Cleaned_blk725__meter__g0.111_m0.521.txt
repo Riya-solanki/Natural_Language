@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 725 | label: meter | g:0.111 m:0.521 ---
+
+annāny āḍhaka-koṭi-taṇḍula-kṛtāny ādāya tad-vyañjanāny
+apy eṣa pratikūṭam eka-kavala-prāptānnam ādat tathā ।
+madhyaṃ madhyam anuprakṛṣya tu yathā nīraṃ piban palvalān
+kuṇḍāny āśu sarāṃsi kiṃ ca sarito ninye kṣayaṃ sarvataḥ ।। [śārdūla]

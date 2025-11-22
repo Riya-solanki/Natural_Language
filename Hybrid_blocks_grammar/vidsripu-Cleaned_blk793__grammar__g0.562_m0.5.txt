@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 793 | label: grammar | g:0.562 m:0.5 ---
+
+vāraṃ vāraṃ tirayati dṛśor udgamaṃ bāṣpapūras tatsaṃkalpopahatijaḍima stambham abhyeti gātram ।
+sadyaḥ svidyann ayam aviratotkampalolāṅgulīkaḥ pāṇir lekhāvidhiṣu nitarāṃ vartate kiṃ karomi ।।

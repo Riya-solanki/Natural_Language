@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 128 | label: grammar | g:0.625 m:0.5 ---
+
+tasmād viprā na viddhā hi kartavyaikādasī kvacit viddhā hanti purāpuṇyaṃ śrāddhaṃ ca vṛṣalīpatiḥ ।।

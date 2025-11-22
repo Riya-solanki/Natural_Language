@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 484 | label: meter | g:0.25 m:0.5 ---
+
+bāhor vyasaninas tāta hṛtaṃ rājyam abhūt kila 
+hehayais tālajaṅghaiś ca śakaiḥ sārdhaṃ viśāṃ pate ।।

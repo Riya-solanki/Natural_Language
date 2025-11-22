@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 711 | label: meter | g:0.25 m:0.625 ---
+
+tataḥ pravṛtte tumule sphūrjatpraharaṇe raṇe ।
+paṭahadhvaninotkruṣṭaiḥ sphuṭatīva nabhastalam ।।

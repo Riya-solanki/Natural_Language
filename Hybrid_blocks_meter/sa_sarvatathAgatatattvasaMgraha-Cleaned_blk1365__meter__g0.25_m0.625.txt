@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1365 | label: meter | g:0.25 m:0.625 ---
+
+sūkṣmavajravidhiṃ yojya kruddhaḥ san vajradṛṣṭitaḥ ।
+nirīkṣannandhatāṃ yāti maraṇaṃ vātigacchati ।।

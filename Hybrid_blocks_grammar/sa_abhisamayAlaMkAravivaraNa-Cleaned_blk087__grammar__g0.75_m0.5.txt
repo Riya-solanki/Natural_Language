@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 87 | label: grammar | g:0.75 m:0.5 ---
+
+ūṣma-mūrdha-kṣāntyagradharmākhyacaturvidhalaukikanirvedhabhāgīyānāmādhārāścatvāraḥ, lokottaradarśanamārgamasyādhāra ekaḥ, lokottarabhāvanāmārgasyādhāra eka iti ṣaṭ prakṛtigotrāṇi । tataḥ pratipakṣapratipatterādhāraḥ, tataḥ prahāṇapratipatterādhāraḥ, tadanantaraṃ pratipakṣapraheyānupalabdhyā tadutpādanirodhayuktavikalpāpagamasya vimuktimārgasyādhāraḥ, tataḥ prajñākaruṇayorādhāraḥ, śrāvakādyasādhāraṇadharmasyādhāraḥ, parārthānukramasyādhāraḥ, jñānasyāyatnavṛtteścādhāra iti prakṛtisthagotrasya trayodaśabhedā bhavanti ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3801 | label: meter | g:0.25 m:0.5 ---
+
+tatrārcya bhadrakālīśaṃ vīrabhadraṃ ca dānavaḥ ।
+dhanādhipaṃ ca meghaṅkaṃ yayāvatha girivrajam ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3915 | label: grammar | g:0.75 m:0.5 ---
+
+yo ayaṃ ripuṃjayo nāma bārhadratho antyas tasya muniko nāmāmātyo bhaviṣyati । sa cainaṃ svāminaṃ hatvā svaputraṃ pradyotanāmānam abhiṣekṣyati । tasyāpi pālako nāma putro bhavitā । tataś ca viśākhayūpas tatputro janakas tasya ca nandivardhanaḥ । ity ete aṣṭatriṃśaduttaram abdaśataṃ pañca pradyotāḥ pṛthivīṃ bhokṣyanti ।।

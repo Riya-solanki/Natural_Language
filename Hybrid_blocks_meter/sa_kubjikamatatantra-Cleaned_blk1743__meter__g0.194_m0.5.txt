@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1743 | label: meter | g:0.194 m:0.5 ---
+
+ṣaṣṭhamena tu yogena viṣṇutvaṃ jāyate dhruvam 
+saptamena tu yogena brahmāṇḍāntam anuvrajet ।।

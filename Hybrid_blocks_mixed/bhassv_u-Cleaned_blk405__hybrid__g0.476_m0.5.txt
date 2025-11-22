@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 405 | label: hybrid | g:0.476 m:0.5 ---
+
+kaḥ kaṃ śakto rakṣituṃ mṛtyukāle rajjucchede ke ghaṭaṃ dhārayanti
+evaṃ lokas tulyadharmo vanānāṃ kāle kāle chidyate ruhyate ca ।।

@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 930 | label: hybrid | g:0.398 m:0.357 ---
+
+etasya lakṣaṇānanyatvameva mabhidhāvaicitryavidhāyakatvaṃ ceti dvitayamapyupamāntarbhāvameva sādhayati ।
+tatropamānopameyabhāvavyavasthiteḥ ।
+upamāntareṇa saha lakṣaṇānvitatvamananvayasya na saṃbhavatītyabhīdhīyate tadapi na samādhānaṃ, yasmātsamāropitarūpasya pamānopameyabhāvasaṃbandhanibandhanameva bhavatāmananvayalaśraṇasya pravṛttinimittam, asmākaṃ kevalenāpi sādhyate tadityāha

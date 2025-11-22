@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10534 | label: meter | g:0.272 m:0.743 ---
+
+mitra uvāca ।
+natosmyajñastvaccaraṇāravindaṃ bhavacchidaṃ svastyayanaṃ bhavacchide ।
+veda svayaṃ bhagavānvāsudevo nāhaṃ nāgnirna tridevā munīndrāḥ ।।

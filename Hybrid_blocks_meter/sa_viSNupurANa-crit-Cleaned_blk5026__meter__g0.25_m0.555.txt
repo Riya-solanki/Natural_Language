@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5026 | label: meter | g:0.25 m:0.555 ---
+
+evaṃ dagdhvā sa taṃ pāpaṃ dṛṣṭvā ca madhusūdanam 
+kas tvam ity āha so apy āha jāto ahaṃ śaśinaḥ kule 
+vasudevasya tanayo yador vaṃśasamudbhavaḥ ।।

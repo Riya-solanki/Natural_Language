@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4390 | label: meter | g:0.307 m:0.623 ---
+
+dattvā maghone ca vibhustriviṣṭapaṃ kṛtvā ca devān makhabhāgabhoktṝn ।
+antardadhe viśvapatirmaharṣe saṃpaśyatāmeva murādhipānām ।।

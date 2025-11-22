@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 114 | label: meter | g:0.25 m:0.625 ---
+
+vyaktaṃ viṣṇustathāvyaktaṃ puruṣaḥ kāla eva ca ।
+krīḍato bālakasyeva ceṣṭāstasya niśāmaya ।।

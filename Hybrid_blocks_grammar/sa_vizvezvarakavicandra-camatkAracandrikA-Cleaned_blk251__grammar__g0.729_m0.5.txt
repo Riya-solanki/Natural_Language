@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 251 | label: grammar | g:0.729 m:0.5 ---
+
+atra mīnavijṛmbhaṇakathanasya prakṛtāvasthānupayogitvenāprayojakatve api loke prāyeṇa paribhūtānāṃ parābhaviturāpadaṃ vinā vijṛmbhaṇaṃ na saṃbhavatīti locanayorapunarunmīlanasūcanena navamāvasthāyāḥ parākāṣṭhā pratīyata iti guṇatvam ।

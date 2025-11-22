@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 91 | label: hybrid | g:0.51 m:0.5 ---
+
+yatraiko apy akṛtadhiyo manaḥpradoṣaḥ saṃsāraṃ vyasanaśatais tanoti kṛtsnam ।
+tatraikaḥ katham api cetasaḥ prasādo nocchindyād vyasanasahasratantujālam ।।

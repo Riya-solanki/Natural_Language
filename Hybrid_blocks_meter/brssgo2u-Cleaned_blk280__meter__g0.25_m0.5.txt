@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 280 | label: meter | g:0.25 m:0.5 ---
+
+guṇānāṃ mitho anapekṣasvabhāvatvānna svato vaiṣamyamityuktam, tatra hetvasiddhimāśaṅkya sūtrakāraḥ pariharati-anyatheti ।
+anapekṣasvabhāvādanyathā sāpekṣatvena guṇānāmanumānātpūrvasūtrokto doṣo na prasajyate ।
+na caivamapasiddhāntaḥ, kāryānusāreṇa guṇasvabhāvāṅgīkārādityāha-calaṃ guṇavṛttamiti ।

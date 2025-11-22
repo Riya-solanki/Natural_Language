@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1314 | label: meter | g:0.306 m:0.5 ---
+
+sodāminīṃ sudāmnastu sutāṃ rūpādhikāṃ napaḥ ।
+kurorarthāya vatavān sa prādāt kurave api tām ।।

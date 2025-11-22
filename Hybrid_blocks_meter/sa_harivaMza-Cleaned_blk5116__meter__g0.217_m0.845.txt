@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5116 | label: meter | g:0.217 m:0.845 ---
+
+kaṣāyopaplave kāle jñānavidyāpraṇāśane 
+siddhim alpena kālena yāsyanti nirupaskṛtāḥ ।।

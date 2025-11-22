@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 60 | label: meter | g:0.0 m:0.902 ---
+
+prathamo adhyāyaḥ
+prakaraṇa [varaṇa-saṃvidhāna-prakaraṇam]

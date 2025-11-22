@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10254 | label: meter | g:0.306 m:0.5 ---
+
+viruddhayoścānayoḥ sarvadaiva kathaṃ caikyaṃ saṃvādiṣyanti vedāḥ ।
+deśe kāle sarvadā dduḥ khahīno jagatkartā pūrṇaśaktiḥ sadaiva ।।

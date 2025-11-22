@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 115 | label: grammar | g:0.583 m:0.5 ---
+
+vāsudevaṃ parityajya yo anyaṃ devam upāsate tṛṣito jāhnavītīre kūpaṃ khanati durmatiḥ ।।

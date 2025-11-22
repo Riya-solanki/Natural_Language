@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2205 | label: meter | g:0.25 m:0.5 ---
+
+dattvaikasya ca yā kanyā hṛtvānyasya pradīyate ।
+tajjālastanayo jñeyo loke paunarbhavo mune ।।

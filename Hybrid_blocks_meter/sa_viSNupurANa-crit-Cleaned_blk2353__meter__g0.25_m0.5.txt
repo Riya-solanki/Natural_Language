@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2353 | label: meter | g:0.25 m:0.5 ---
+
+prasīda maddhitārthāya kathyatāṃ yas tvam āgataḥ 
+naṣṭo mohas tavākarṇya vacāṃsy etāni me dvija ।।

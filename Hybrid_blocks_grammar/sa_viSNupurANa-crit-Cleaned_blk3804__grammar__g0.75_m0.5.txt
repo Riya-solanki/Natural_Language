@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3804 | label: grammar | g:0.75 m:0.5 ---
+
+kim atrānuṣṭheyam anyathā ced bravīmy ahaṃ tat kevalāmbaratirodhānam anviṣyanto ratnam etad drakṣyantīty anveṣaṇaṃ na kṣemam iti saṃcintya tam akhilajagatkāraṇabhūtaṃ nārāyaṇam āhākrūraḥ । bhagavan mamaitat syamantakaratnaṃ śatadhanvanā samarpitam ।।

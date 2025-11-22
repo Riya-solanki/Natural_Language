@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 92 | label: hybrid | g:0.446 m:0.474 ---
+
+-sadvādī pratyāha-addheti ।
+atoyātmatattvā marīcaro na bhrame bhāsante, kiṃ tu bhāvāntaratoyātmanaḥ, tasmādupapadyate tadbādha ityaṅgīkāraḥ ।

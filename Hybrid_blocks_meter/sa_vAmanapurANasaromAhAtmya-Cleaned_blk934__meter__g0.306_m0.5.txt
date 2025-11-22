@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 934 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ jñātvā tadā brahmā liṅgaṃ śailamayaṃ tadā ।
+ādyaliṅgaṃ tadā sthāpya tasyopari dadhāra tat ।।

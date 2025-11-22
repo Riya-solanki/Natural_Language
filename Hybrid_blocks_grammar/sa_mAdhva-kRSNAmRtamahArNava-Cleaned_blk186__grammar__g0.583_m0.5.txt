@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 186 | label: grammar | g:0.583 m:0.5 ---
+
+jalenāpi jagannāthaḥ pūjitaḥ kleśanāśanaḥ paritoṣaṃ prayāty āśu tṛṣārtās tu yathā jalaiḥ ।।

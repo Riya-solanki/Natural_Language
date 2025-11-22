@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 60 | label: grammar | g:0.562 m:0.5 ---
+
+kalikalmaṣam atyugraṃ narakārtipradaṃ nṛṇām prayāti vilayaṃ sadyaḥ sakṛt saṃkīrtite acyute ।।

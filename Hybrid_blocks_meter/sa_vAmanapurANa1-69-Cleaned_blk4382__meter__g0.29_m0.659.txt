@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4382 | label: meter | g:0.29 m:0.659 ---
+
+śrībhagavānuvāca ।
+āpūraṇād dakṣiṇāyā gaccha rājan mahāphalam ।
+sutalaṃ nāma pātālaṃ vasa tatra nirāmayaḥ ।।

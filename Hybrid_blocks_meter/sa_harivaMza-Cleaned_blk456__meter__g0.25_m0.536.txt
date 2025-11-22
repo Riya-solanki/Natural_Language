@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 456 | label: meter | g:0.25 m:0.536 ---
+
+tatas tasmiṃs tu viṣaye nāvarṣat pākaśāsanaḥ 
+acirān narapater vasiṣṭhasyāvicārataḥ । 
+parityāgāt kumārasya nāvarṣat pākaśāsanaḥ ।। 
+yadā dvādaśa varṣāṇi tena naṣṭābhavat prajā । 
+svāhākāraḥ svadhākāro vaṣaṭkāro api nābhavat । 
+rāṣṭre tasya mahīpasya dharmanāśo abhavat tadā । 
+samā dvādaśa rājendra tenādharmeṇa vai tadā ।।

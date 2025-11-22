@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 593 | label: grammar | g:0.552 m:0.5 ---
+
+na janasya malo asti lobhatulyo na ca mātsaryasamaḥ paropaghātaḥ ।
+na ca yācakatulyam asti mitraṃ jagatāṃ tyāgasamo na bandhur anyaḥ ।।

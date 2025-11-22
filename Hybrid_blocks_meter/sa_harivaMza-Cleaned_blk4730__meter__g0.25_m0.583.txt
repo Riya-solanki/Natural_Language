@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4730 | label: meter | g:0.25 m:0.583 ---
+
+gajavājirathaughais te uhyamānāḥ samantataḥ 
+kṛtvā cārtasvaraṃ ghoraṃ diśo jagmur hataujasaḥ ।। 
+evaṃ bhayam abhūt teṣāṃ dānavānāṃ mahāraṇe । 
+ekaikasyopari tadā te anyonyaṃ bhayapīḍitāḥ 
+vamantaḥ śoṇitaṃ jagmur viṣādād vimukhā raṇe ।।

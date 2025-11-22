@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 635 | label: meter | g:0.194 m:0.729 ---
+
+anupatati na caitān abhramālī nabhasvān
+upaśamaramaṇīye cāpatanti prakṛtyā ।
+caraṇatalanipāto lakṣyate vyomny amīṣāṃ
+na ca gaganam asaṅgaṃ pādasaṃcārayogyaṃ ।।

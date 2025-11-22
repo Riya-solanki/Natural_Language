@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 72 | label: hybrid | g:0.475 m:0.399 ---
+
+yat tūktaṃ na vidhivyatiriktaṃ liṅādayo arthaṃ vadantīti, tad ayuktam ।
+kutaḥ ।

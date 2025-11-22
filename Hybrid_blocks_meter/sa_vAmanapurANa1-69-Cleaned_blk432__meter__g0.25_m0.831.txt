@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 432 | label: meter | g:0.25 m:0.831 ---
+
+pulastya uvāca ।
+śārṅgapāṇinamāyāntaṃ dṛṣṭvāgre dānaveśvaraḥ ।
+paribhrāmya gadāṃ vegāt mūrdhni sādhyamatāḍayat ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 699 | label: meter | g:0.075 m:0.849 ---
+
+annaṃ dattvā brāhmaṇādiśvapākānt-
+ebhyaḥ śvabhyo' py atra gobhyas tṛṇāni ।
+kṣauṇī-bhartre dīyatām annakūṭo
+yasmād eṣo' py anna-kūṭābhidhaḥ syāt ।। [śālinī]

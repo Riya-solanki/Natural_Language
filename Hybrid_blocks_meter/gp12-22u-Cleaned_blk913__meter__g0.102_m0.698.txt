@@ -1,0 +1,8 @@
+--- source: gp12-22u-Cleaned.txt | block: 913 | label: meter | g:0.102 m:0.698 ---
+
+vādya-spṛg-gīta-nṛtyair upasura-sadasāṃ stotra-mantrair ṛṣīṇāṃ
+harṣāndolātikolāhala-jaya-ninadair brahma-rudrādikānām ।
+utsarpad-bhaktir indraḥ saha harid-adhipais tad-gaṇaiś cābhyaṣiñcat
+kṛṣṇaṃ yenaiva sarve' py ahaha sukha-sudhāsikta-rūpā babhūvuḥ ।। [sragdharā]
+aditir mātṛ-kṛtyāni svasṛ-kṛtyāni pārvatī ।
+garutmān bhṛtya-kṛtyāni cāhṛtyātra mudaṃ yayau ।। [anuṣṭubh]

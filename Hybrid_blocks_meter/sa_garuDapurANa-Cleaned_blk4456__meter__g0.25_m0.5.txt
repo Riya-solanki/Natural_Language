@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4456 | label: meter | g:0.25 m:0.5 ---
+
+stravanti sahasā raktaṃ tasya cātipravṛttitaḥ ।
+kekābhaḥ pīḍyate duḥ khaiḥ śoṇitakṣayasambhavaiḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2266 | label: meter | g:0.36 m:0.663 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahmovāca ।
+kīkaṭeṣu gayā puṇyā puṇyaṃ rājagṛhaṃ vanam ।
+viṣayaścāraṇaḥ puṇyo nadīnāṃ ca punaḥ punā ।।

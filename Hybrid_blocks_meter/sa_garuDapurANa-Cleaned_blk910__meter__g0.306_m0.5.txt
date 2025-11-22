@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 910 | label: meter | g:0.306 m:0.5 ---
+
+sattvaṃ rajastamaścaiva madhyadeśe atha pūjayet ।
+kandaṃ nālaṃ ca padmaṃ ca madhye caiva prapūjayet ।।

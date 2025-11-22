@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 261 | label: meter | g:0.25 m:0.625 ---
+
+evam ekā kriyā saiṣā sakramāntarbahiḥsthitiḥ ।
+ekasyaivobhayākāra- sahiṣṇor apapāditā ।।

@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 518 | label: meter | g:0.25 m:1.0 ---
+
+avihitthavalitajadhanaṃ vivartitābhimukhakucataṭaṃ sthitvā ।
+avalokito'hamanayā dakṣiṇakarakalitahāralatam ।।

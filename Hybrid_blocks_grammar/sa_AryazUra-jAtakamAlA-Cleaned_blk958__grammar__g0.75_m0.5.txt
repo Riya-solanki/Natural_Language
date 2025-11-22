@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 958 | label: grammar | g:0.75 m:0.5 ---
+
+bodhisattvaḥ kila karuṇātiśayaparibhāvitamatiḥ parahitasukhopapādanaparaḥ puṇyāṃ pratipadamudbhāvayandānadamasaṃyamādibhiḥ kadācicchakrā devānāmindro babhūva । sa prakarṣiṇāmapi divyānāṃ viṣayasukhānāṃ nikāmalābhī sannapi karuṇāvaśagatvānnaiva lokārthacaryāsamudyogaśithilaṃ manaścakāra ।

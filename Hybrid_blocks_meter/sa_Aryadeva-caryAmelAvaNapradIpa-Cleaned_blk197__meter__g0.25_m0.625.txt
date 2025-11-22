@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 197 | label: meter | g:0.25 m:0.625 ---
+
+na buddhaḥ parinirvāti na dharmaḥ parihīyate ।
+sattvānāṃ paripākāya parinirvāṇaṃ nidarśayet ।।

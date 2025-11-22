@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1541 | label: grammar | g:0.604 m:0.5 ---
+
+rājā saharṣaṃ-suṣṭhu prayujyatāṃ siddhaye । ity atra vidūṣakeṇa dhāriṇī-hasta-maṇi-mudrikākarṣāṇa-hetu-bhūtasya bhujaga-viṣa-vega-kapaṭasya cintanaṃ dhīḥ ।

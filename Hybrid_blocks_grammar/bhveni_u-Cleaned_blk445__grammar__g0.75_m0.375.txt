@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 445 | label: grammar | g:0.75 m:0.375 ---
+
+rākṣasaḥ
+{Pkt}vaśāgandhe ajja kkhu ahaṃ śāmiṇīe hiḍimbādevīe śavahumāṇaṃ śaddābia āṇatte jaha luhilappiā ajja pahudi tue ajjauttaśśa bhīmaśeṇaśśa piṭṭhadoṇupiṭṭhaṃ śamale āhiṇḍidavvaṃ tti । tā taśśa aṇumaggagāmiṇo hadamāṇuśaśoṇiaṇaīdaṃśaṇappaṇaṭṭhabubhukkhāpibāśaśśa iha evva me śaggaloo huvīadi । tumaṃ bi viśśaddhā bhavia luhilavaśāhiṃ kumbhaśahaśśaṃ śaṃcehi ।

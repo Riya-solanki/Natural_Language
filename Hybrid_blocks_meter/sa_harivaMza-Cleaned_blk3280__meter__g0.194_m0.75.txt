@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3280 | label: meter | g:0.194 m:0.75 ---
+
+antaḥpuragatānāṃ ca prekṣāgārāṇy adūrataḥ 
+rejuḥ kāñcanacitrāṇi ratnajvālākulāni ca ।।

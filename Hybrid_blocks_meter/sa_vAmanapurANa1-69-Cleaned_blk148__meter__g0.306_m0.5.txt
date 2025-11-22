@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 148 | label: meter | g:0.306 m:0.5 ---
+
+caturdaśasu lokeṣu jantavo ye carācarāḥ ।
+nimantritāḥ kratau sarve kiṃ nāsi tvaṃ nimantritā ।।

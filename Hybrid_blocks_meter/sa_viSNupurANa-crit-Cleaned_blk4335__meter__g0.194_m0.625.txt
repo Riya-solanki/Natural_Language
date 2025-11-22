@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4335 | label: meter | g:0.194 m:0.625 ---
+
+kṣaṇenālaṃkṛtā pṛthvī pakvais tālaphalais tathā 
+daityagardabhadehaiś ca maitreya śuśubhe adhikam ।।

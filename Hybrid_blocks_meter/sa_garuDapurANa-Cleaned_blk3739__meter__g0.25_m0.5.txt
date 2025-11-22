@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3739 | label: meter | g:0.25 m:0.5 ---
+
+pure pāṭaliputrākhye vīro nāma dvijottamaḥ ।
+rambhā bhāryā tasya cāsītkauśikaḥ putra uttamaḥ ।।

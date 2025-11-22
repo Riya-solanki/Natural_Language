@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 66 | label: grammar | g:0.635 m:0.5 ---
+
+mātar jīva kim etad añjalipuṭe tātena gopāyitaṃ vatsa svādu phalaṃ prayacchati na me gatvā gṛhāṇa svayam ।
+mātraivaṃ prahite guhe vighaṭayaty ākṛṣya saṃdhyāñjaliṃ śambho bhagnasamādhiruddharabhaso hāsodgamaḥ pātu vaḥ ।।

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1245 | label: meter | g:0.29 m:0.555 ---
+
+atha bhedaḥ-
+bījasyottejanaṃ bhedo yad vā saṅghāta-bhedanam ।।

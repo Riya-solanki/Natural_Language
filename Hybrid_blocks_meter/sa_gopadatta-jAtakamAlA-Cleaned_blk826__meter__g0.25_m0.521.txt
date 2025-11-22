@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 826 | label: meter | g:0.25 m:0.521 ---
+
+dhyāmīkṛtya maṇipradīpakiraṇān etad vapus te sthitaṃ
+vyāhārasphuṭacitravarṇakaraṇo divyaprabhāvaś ca te ।
+kā nu tvaṃ karavāṇi kiṃ bhavati te brūhi tvadājñām imāṃ
+mālāṃ phulladalām ivādya śirasā samyak pratīcchāmy aham ।।

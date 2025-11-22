@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 604 | label: meter | g:0.194 m:0.625 ---
+
+palaikaṃ tīkṣṇalohasya kāṃsyasyāpi paladvayam 
+palāni nava tāmrasya pittalasya palatrayam ।।

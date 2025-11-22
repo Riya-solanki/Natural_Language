@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 50 | label: grammar | g:0.604 m:0.5 ---
+
+nārāyaṇo nāma naro narāṇāṃ prasaṃhya coraḥ kathitaḥ pṛthivyām anekajanmārjitapāpasañcayaṃ dahaty aśeṣaṃ smṛtamātrayaiva ।।

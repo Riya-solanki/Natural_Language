@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9362 | label: meter | g:0.25 m:0.75 ---
+
+strījanaścāgrato gacchet pṛṣṭhato navasañcayaḥ ।
+ācamanaṃ vidhātavyaṃ pāṣāṇopari saṃsthitaiḥ ।।

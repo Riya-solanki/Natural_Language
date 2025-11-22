@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1950 | label: meter | g:0.204 m:0.841 ---
+
+bālātapena parimṛṣṭam ivāravindaṃ
+māñjiṣṭha-celam iva mānmatham ātapatram ।
+sālakta-lekham iva saukhya-karaṇḍam adya
+yūnāṃ mude taruṇi tat padam ārtavaṃ te ।।

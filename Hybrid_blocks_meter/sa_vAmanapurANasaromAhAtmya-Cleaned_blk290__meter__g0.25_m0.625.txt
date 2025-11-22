@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 290 | label: meter | g:0.25 m:0.625 ---
+
+baliścaivākhilaṃ janma mene śaphalamātmanaḥ ।
+tataḥ saṃkṣobhamāpanno na kaścit kiñciduktavān ।।

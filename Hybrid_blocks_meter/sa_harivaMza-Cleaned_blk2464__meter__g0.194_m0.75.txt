@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2464 | label: meter | g:0.194 m:0.75 ---
+
+haṃsakāraṇḍavodghuṣṭāṃ sārasaiś ca vināditām 
+anyonyamithunaiś caiva sevitāṃ mithunecaraiḥ ।।

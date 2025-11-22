@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1783 | label: meter | g:0.25 m:0.5 ---
+
+etad vicintayannartha tvāṃ praharttu na sundari ।
+karomi buddhi tasmāt tvaṃ māṃ bhajasvāyatekṣaṇe ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11406 | label: hybrid | g:0.542 m:0.5 ---
+
+pitrā sākaṃ kanyakā sāpi vīndra śeṣācalasthaṃ śrīnivāsaṃ ca draṣṭum ।
+jagāma sā mārgamadhye hariṃ ca sā cintayāmāsa ramāpatiṃ ca ।।

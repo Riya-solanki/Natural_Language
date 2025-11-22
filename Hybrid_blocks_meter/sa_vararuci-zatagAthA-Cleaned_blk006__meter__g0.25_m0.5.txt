@@ -1,0 +1,7 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 6 | label: meter | g:0.25 m:0.5 ---
+
+guṇini guṇajño ramate nāguṇaśīlasya guṇini paritoṣaḥ ।
+alireti vanātkamalaṃ na dardurasya tannivāso api ।।
+guṇiṣu durlabhā āḍhayā āḍhayeṣu guṇinastathā ।।
+aneke santi bhūbhāgā ratnavantastu durlabhāḥ ।
+durlabhāḥ praṇināṃ santi mātṛpitṛyutastu ca ।।

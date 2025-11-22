@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1185 | label: meter | g:0.25 m:0.625 ---
+
+ākāśe gandhamālī syātkṣetrapālāṃstato yajet ।
+vistārābhihataṃ dairghyaṃ rāśiṃ vāstostu kārayet ।।

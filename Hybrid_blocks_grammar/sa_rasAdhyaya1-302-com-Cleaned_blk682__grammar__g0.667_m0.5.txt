@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 682 | label: grammar | g:0.667 m:0.5 ---
+
+iyaṃ ca suvarṇadrutirevaṃ kāntalohe rūpye vaṅge nāge tāmre ca gadyāṇamātre ca gālite vallamātraṃ bhekacūrṇaṃ kṣipyate ।।

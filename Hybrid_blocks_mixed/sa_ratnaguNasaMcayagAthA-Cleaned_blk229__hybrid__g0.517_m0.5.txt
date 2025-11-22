@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 229 | label: hybrid | g:0.517 m:0.5 ---
+
+yatha śaṅkitena viṣasaṃjñata abhyupaiti no cāsya koṣṭhagatu so viṣu pātyate ca 
+emeva bālupagato ahu mahya eṣo ahasaṃjñi jāyi mriyate ca sadā abhūto ।।

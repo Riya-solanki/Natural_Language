@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10141 | label: meter | g:0.306 m:0.5 ---
+
+daityāḥ sarva viprakuleṣu bhūtvā kṛte yuge bhārate ṣaṭsahasryām ।
+niṣkāsya kāṃścinnavanirmitānāṃ niveśanaṃ tatra kurvanti nityam ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2929 | label: meter | g:0.263 m:0.67 ---
+
+pulastya uvāca ।
+tamāha bhagavān vahniḥ prīto asi tava vāsava ।
+yattvaṃ darpa parityajya māmeva śaraṇaṃ gataḥ ।।

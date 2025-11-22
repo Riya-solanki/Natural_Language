@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 110 | label: hybrid | g:0.517 m:0.5 ---
+
+caramāṇu prajñavarapāramitāya yogī na ca rūpavṛddhi na ca paśyati pārihāṇim 
+dharmā adharma imu paśyati dharmadhātuṃ na ca nirvṛtiṃ spṛśati so viharāti prajñām ।।

@@ -1,0 +1,3 @@
+--- source: sa_pratyakSalakSaNa-of-the-tarkarahasya-Cleaned.txt | block: 64 | label: meter | g:0.25 m:0.5 ---
+
+tādṛśañ ca rūpaṃ gṛhṇad viśeṣaṇaṃ viśeṣyaṃ vā gṛhṇīyāt

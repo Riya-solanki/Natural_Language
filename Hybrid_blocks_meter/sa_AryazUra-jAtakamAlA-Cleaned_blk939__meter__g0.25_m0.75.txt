@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 939 | label: meter | g:0.25 m:0.75 ---
+
+dharmādharmanirāśaṅkaḥ sarvāśī sukhamedhate ।
+dharmyāṃ tu vṛttimanvicchanvicitāśīha duḥkhitaḥ ।।

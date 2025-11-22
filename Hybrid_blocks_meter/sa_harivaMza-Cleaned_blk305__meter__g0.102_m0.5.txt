@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 305 | label: meter | g:0.102 m:0.5 ---
+
+aurvo vasiṣṭhaputraś ca stambaḥ kāśyapa eva ca 
+prāṇo bṛhaspatiś caiva datto atriś cyavanas tathā 
+ete maharṣayas tāta vāyuproktā mahāvratāḥ ।।

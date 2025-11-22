@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2534 | label: meter | g:0.264 m:0.644 ---
+
+pitara ūcuḥ ।
+yuktaṃ prakṣālanaṃ kartumātmano api yatendriyaiḥ ।
+kiṃ tu nopāyamārgo ayaṃ yatastvaṃ putra vartase ।।

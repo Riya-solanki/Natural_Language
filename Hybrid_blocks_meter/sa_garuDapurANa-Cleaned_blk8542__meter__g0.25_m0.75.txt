@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8542 | label: meter | g:0.25 m:0.75 ---
+
+arthadātā vimānaistu aśvaiḥ kāmapradāyakaḥ ।
+haṃsayuktavimānaiśca mokṣākāṅkṣī visarpati ।।

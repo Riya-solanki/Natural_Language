@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1452 | label: meter | g:0.194 m:0.5 ---
+
+bhogaś cāsya hi nādānte layaḥ syād vyāpinīpade 
+ājñābhedadvayaṃ nāthe hy etat tat paramārthataḥ ।।

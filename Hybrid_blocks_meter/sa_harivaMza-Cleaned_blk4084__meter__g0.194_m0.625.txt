@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4084 | label: meter | g:0.194 m:0.625 ---
+
+tasya candropamaṃ vaktram udīkṣya niyatendriyāḥ 
+saṃprahṛṣṭā mahābāhum idaṃ vacanam abruvan ।।

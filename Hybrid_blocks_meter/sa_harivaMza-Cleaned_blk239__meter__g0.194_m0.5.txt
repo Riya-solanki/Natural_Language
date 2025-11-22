@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 239 | label: meter | g:0.194 m:0.5 ---
+
+tayoḥ stavānte suprītaḥ pṛthuḥ prādāt prajeśvaraḥ 
+anūpadeśaṃ sūtāya magadhaṃ māgadhāya ca ।।

@@ -1,0 +1,5 @@
+--- source: mrgt3cau-Cleaned.txt | block: 152 | label: meter | g:0.102 m:0.871 ---
+
+kṛtarakṣaḥ smarannastraṃ paryaṭenmaunamāsthitaḥ
+bhikṣāmalabdhvā no kopaṃ kuryānno vidhṛtaściram ।
+na cādhvasu pradhāvatsu noktaḥ kenacidapriyam

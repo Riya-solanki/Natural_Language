@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1990 | label: meter | g:0.194 m:0.5 ---
+
+utpādya tvaṃ vasūñ śīghraṃ kṛtvā kurukulaṃ mahat 
+praveṣṭāsi tanuṃ tyaktvā punaḥ sāgara sāgarīm ।।

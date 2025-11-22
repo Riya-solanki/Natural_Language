@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3904 | label: grammar | g:0.75 m:0.5 ---
+
+śatānīkād apy aśvamedhadatto bhavitā । tasmād apy adhisīmakṛṣṇaḥ adhisīmakṛṣṇān niścaknuḥ । yo gaṅgayāpahṛte hastināpure kauśāmbyāṃ nivatsyati । tasyāpy uṣṇaḥ putro bhavitā । uṣṇāc citrarathas tataḥ śucirathas tasmād vṛṣṇimāṃs tataḥ suṣeṇaḥ । tasmād api sunīthaḥ sunīthād ṛcas tato nṛcakṣus tasyāpi sukhibalas tasmād pariplavas tataś ca sunayas tato medhāvī । tato npaṃjayas tato mṛdus tasmāt tigmas tigmād bṛhadrathaḥ । tasmād vasudānas tato aparaḥ śatānīkaḥ । tasmāc codayana udayanād ahīnaras tataś ca daṇḍapāṇis tato niramitras tasmāc ca kṣemakaḥ । atrāyaṃ ślokaḥ ।

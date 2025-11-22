@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1494 | label: meter | g:0.306 m:0.5 ---
+
+bhayam ekam anekebhyaḥ śatrubhyo yugapat sadā ।
+dadāti tac ca tenāsti rājaṃś citram idaṃ mahat ।।

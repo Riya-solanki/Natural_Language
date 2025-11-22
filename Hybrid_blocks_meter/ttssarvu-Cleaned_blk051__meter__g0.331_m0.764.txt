@@ -1,0 +1,5 @@
+--- source: ttssarvu-Cleaned.txt | block: 51 | label: meter | g:0.331 m:0.764 ---
+
+pradhānāstitvamekatvamarthavattvamathānyatā ।
+pārārthyaṃ ca tathā naikyaṃ viyogo yoga eva ca ।।
+śeṣavṛttirakarttṛtvaṃ maulikārthāḥ smṛtā daśa ।।

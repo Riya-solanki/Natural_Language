@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1412 | label: grammar | g:0.604 m:0.5 ---
+
+atha sarva eva loko vigatanikhilarogopasargas tasmin mahāsattve samupajātapremagauravabahumānaḥ praṇamya śvānaṃ bodhisattvam abravīt ।।

@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 37 | label: meter | g:0.306 m:0.5 ---
+
+hīnatā yācane yatra syāttatra na ca yācyatām ।
+kāmaṃ hi na bhavedindro himājjīvati tittariḥ ।।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 263 | label: grammar | g:0.75 m:0.5 ---
+
+-atredaṃ bodhyam-brahmātmatāmicchatā jñānameṣitavyaṃ tacca vicāropakaraṇebhyo vedāntebhyaḥ, tathāca sati brahmavicāraḥ kartavya ityarthaḥ syāt, tatkathaṃ jijñāsāyā anadhikāryatvādityuktaṃ, vicārasyādhikāryatvāditicet jñātumicchā jijñāsā । sā hi saṃdigdher'the nirṇayāya bhavati, sa ca vicārasādhya iti vicārakartavyatārthādgamyate । ārthike cāsminnarthe kartavyapadādhyāhāraḥ । śrautastu sādhanacatuṣṭayānantaraṃ brahmajñānecchā bhavituṃ yuktetyeṣaḥ । tasmānna pūrvoktavirodha iti ।

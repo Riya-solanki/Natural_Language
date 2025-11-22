@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3507 | label: meter | g:0.25 m:0.5 ---
+
+govindarāmau saṃprāptau bhrātarau lokaviśrutau 
+sve pure nirbhayāḥ sarve krīḍadhvaṃ saha bāndhavaiḥ ।। 
+tebhyo agacchan videśebhyaḥ kaṃsenodvijitāś ca ye । 
+na tatra kaś cid dīno vā malino vā vicetanaḥ 
+mathurāyāṃ babhau rājan govinde samupasthite ।।

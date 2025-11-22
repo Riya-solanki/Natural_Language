@@ -1,0 +1,7 @@
+--- source: brssgo3u-Cleaned.txt | block: 145 | label: meter | g:0.291 m:0.792 ---
+
+kiñca svapnārthāḥ satyāḥ, prājñanirmitatvāt, ākāśādivaditi sūtrārthamāha-apicetyādinā ।
+rūḍhimāśaṅkya prakaraṇānnirasyati-nanvityādinā ।
+yaḥ supteṣu nirvyāpāreṣu karaṇeṣu jāgarti tadeva śukraṃ svaprakāśaṃ brahmetyarthaḥ ।
+svapnasya jāgradarthaiḥ ।
+samānadeśatvaśruterabhedaśruteśca satyatve tātparyamityāha-atho khalvāhuriti ।।

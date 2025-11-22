@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 308 | label: meter | g:0.251 m:0.623 ---
+
+kṣāntīsthitasya pariśudhyati ātmabhāvo dvātriṃśalakṣaṇaprabhāva anantapāro 
+[sattvāna śūnyavaradharma niśāmayātī priyu bhoti sarvajagatī kṣamamāṇu vijño ।।

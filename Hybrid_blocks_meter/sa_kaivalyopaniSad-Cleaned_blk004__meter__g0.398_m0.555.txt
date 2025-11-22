@@ -1,0 +1,5 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 4 | label: meter | g:0.398 m:0.555 ---
+
+athāśvalāyano bhagavantaṃ parameṣṭhinam upasametyovāca ।
+adhīhi bhagavan brahmavidyāṃ variṣṭhāṃ sadā sadbhiḥ sevyamānāṃ nigūḍhām ।
+yathācirāt [yayācirāt] sarvapāpaṃ vyapohya parātparaṃ puruṣaṃ yāti vidvān ।।

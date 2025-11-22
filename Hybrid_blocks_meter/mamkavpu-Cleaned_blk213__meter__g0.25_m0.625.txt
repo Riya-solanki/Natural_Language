@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 213 | label: meter | g:0.25 m:0.625 ---
+
+ratirhāsaśca śokaśca krodhotsāhau bhayaṃ tathā ।
+jugupsā vismayaśceti sthāyibhāvāḥ prakīrtitāḥ ।।

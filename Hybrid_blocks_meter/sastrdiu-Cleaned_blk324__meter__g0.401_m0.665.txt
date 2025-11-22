@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 324 | label: meter | g:0.401 m:0.665 ---
+
+tathāsati paṭavadbhūtalopalambhe ghaṭo nāstīti vyavahāro na syāt ।
+bhūtalamātropalambhābhāvāt ।
+ghaṭaviviktabhūtalopalambha iti cet, ko ayaṃ ghaṭavivekaḥ, yadi bhūtalarūpameva, ghaṭavatyapi prasaṅgaḥ ।
+ghaṭasaṃyogābhāvaścet, aṅgīkṛtastarhyabhāvaḥ ।।

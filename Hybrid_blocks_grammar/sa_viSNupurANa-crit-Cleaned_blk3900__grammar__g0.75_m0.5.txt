@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3900 | label: grammar | g:0.75 m:0.5 ---
+
+subhadrāyāṃ cārbhakatve api yo asāv atibalaparākramasamastārātirathavijetā so abhimanyur ajāyata । abhimanyor uttarāyāṃ parikṣīṇeṣu kuruṣv aśvatthāmaprayuktabrahmāstreṇa garbha eva bhasmīkṛto bhagavataḥ sakalasurāsuravanditacaraṇayugalasyātmecchākāraṇamānuṣarūpadhāriṇo anubhāvāt punar jīvitam avāpya parīkṣij jajñe । yo ayaṃ sāmpratam etad bhūmaṇḍalam akhaṇḍitāyatidharmeṇa pālayati। ।।

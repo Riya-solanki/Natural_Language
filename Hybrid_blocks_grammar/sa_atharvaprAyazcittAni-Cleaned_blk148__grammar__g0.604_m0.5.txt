@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 148 | label: grammar | g:0.604 m:0.5 ---
+
+saṃsthitahomeṣv agniṃ vayaṃ trātāraṃ havāmahe ya imaṃ trāyatām asmād yakṣmād asmād āmayata ।

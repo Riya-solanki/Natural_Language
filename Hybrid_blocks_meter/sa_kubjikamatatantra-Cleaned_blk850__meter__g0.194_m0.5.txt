@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 850 | label: meter | g:0.194 m:0.5 ---
+
+yatheṣṭaṃ jāyate siddhir nāsty atra-m-anṛtaṃ vacaḥ 
+sahasreṇa jvaraṃ yāti chāgasya piśitair hutaiḥ ।।

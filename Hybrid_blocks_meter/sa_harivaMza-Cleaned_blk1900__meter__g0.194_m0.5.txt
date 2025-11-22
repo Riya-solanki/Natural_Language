@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1900 | label: meter | g:0.194 m:0.5 ---
+
+pīte vasāno vasane lokānāṃ gurur avyayaḥ 
+hariḥ so abhavad ālakṣyaḥ sasaṃdhyābhra ivācalaḥ ।।

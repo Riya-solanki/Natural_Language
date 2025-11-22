@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11065 | label: meter | g:0.289 m:0.917 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+athānantarajānvakṣye śṛṇu pakṣīndrasattama ।
+śṛṇu tānsāvadhānena śrutvā tānavadhāraya ।।

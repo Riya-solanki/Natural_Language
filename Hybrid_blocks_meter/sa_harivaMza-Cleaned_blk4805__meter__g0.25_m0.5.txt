@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4805 | label: meter | g:0.25 m:0.5 ---
+
+tena vairaṃ tvayā sārdhaṃ kartavyaṃ nātra saṃśayaḥ 
+tatrānubandhaś ca mahāṃs tena kāryas tvayā saha ।।

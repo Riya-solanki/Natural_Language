@@ -1,0 +1,9 @@
+--- source: brssgo1u-Cleaned.txt | block: 77 | label: meter | g:0.256 m:0.772 ---
+
+kriyāśrayatvānupapatterātmanaḥ ।
+yadāśrayā kriyā tamavikurvatī naivātmānaṃ labhate ।
+yadyātmā kriyayā vikriyetānityatvamātmanaḥ prasajyeta ।
+aavikāryo ayamucyate' iti caivamādīni vākyāni bādhyeran ।
+taccāniṣṭam ।
+tasmānna svāśrayā kriyā'tmānaḥ saṃbhavati ।
+anyāśrayāyāstu kriyāyā aviṣayatvānna tayātmā saṃskriyate ।

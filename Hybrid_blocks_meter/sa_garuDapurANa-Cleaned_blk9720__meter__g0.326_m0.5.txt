@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9720 | label: meter | g:0.326 m:0.5 ---
+
+agnerapatyaṃ prathamaṃ suvarṇaṃ bhūrvaiṣṇavī sūryasutāśca gāvaḥ ।
+lokatrayaṃ tena bhavetpradattaṃ yaḥ kāñcanaṃ gāṃ ca mahīṃ ca dadyāt ।।

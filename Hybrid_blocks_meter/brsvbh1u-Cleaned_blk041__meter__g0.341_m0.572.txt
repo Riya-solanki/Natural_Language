@@ -1,0 +1,11 @@
+--- source: brsvbh1u-Cleaned.txt | block: 41 | label: meter | g:0.341 m:0.572 ---
+
+bhāvasya svakārye pramitāvanapekṣatvāt ।
+pramitāvanapekṣatve apyutpattau pratyakṣāpekṣatvāttadvirodhādanutpattilakṣaṇamaprāmāṇyamiti cenna ।
+utpādakāpratidvandvitvāt ।
+na hyāgamajñānaṃ sāṃvyavahārikaṃ pratyakṣasya prāmāṇyamupahanti yena kāraṇābhāvānna bhavedapi tu tāttvikam ।
+na ca tattasyotpādakam ।
+atāttvikapramāṇabhāvebhyo api sāṃvyavahārikapramāṇebhyastattvajñānotpattidarśanāt ।
+tathā ca varṇe hrasvatvadīrghatvādayo anyadharmā api samāropitāḥ tattvapratipattihetavaḥ ।
+na hi laukikāḥ anāgaḥ'iti vā"nagaḥ"iti vā padātkuñcaraṃ vā taruṃ vā pratipadyamānā bhavanti bhrāntāḥ ।
+na cā

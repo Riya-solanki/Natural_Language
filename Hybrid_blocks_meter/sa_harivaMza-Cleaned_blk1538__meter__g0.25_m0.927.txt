@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1538 | label: meter | g:0.25 m:0.927 ---
+
+candraprabhābhir vimalaṃ yuddhāya samavasthitam 
+yayau hitaṃ devapathaṃ dīptabhāskaratejasam । 
+pavanāviddhanirghoṣaṃ saṃpradīptahutāśanam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2373 | label: meter | g:0.326 m:0.774 ---
+
+nānyasyādvaitasaṃskārasaṃskṛtaṃ mānasaṃ tathā 
+yathācāryasya tena tvāṃ manye prāptam ahaṃ gurum ।।

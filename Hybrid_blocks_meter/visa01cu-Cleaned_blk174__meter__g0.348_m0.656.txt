@@ -1,0 +1,7 @@
+--- source: visa01cu-Cleaned.txt | block: 174 | label: meter | g:0.348 m:0.656 ---
+
+Vijñapriyā
+rasavata eva kāvyatvāṅgīkāre bījamāhakāvyasya prayojanamiti ।
+kṛtyākṛtyeti rasāsvādamukhapiṇḍadānadarśanāttādṛśamukhapiṇḍasyaiva mukhyaprayojanatvamuktam ।
+tādṛśopadeśastu yathāsambhavamevetyuktam ।
+tathā ca"śūnyaṃ vāsagṛhamityādi'; "yaḥ kaumārahara'; ityādiślekeṣu tādṛśopadeśābhāve api kāvyatvamakṣuṇṇam ।

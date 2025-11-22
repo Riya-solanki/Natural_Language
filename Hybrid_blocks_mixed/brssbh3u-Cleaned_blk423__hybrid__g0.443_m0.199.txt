@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 423 | label: hybrid | g:0.443 m:0.199 ---
+
+naiṣo asti virodhaḥ śabdānumānābhyāṃ śrutismṛtibhyāmityarthaḥ ।
+tathāhi śrutiḥ - atadya itthaṃ viduḥ' iti pañcāgnividyāvatāṃ devayānaṃ panthānamavatārayantī aye ceme araṇye śraddhātapa ityupāsate' iti vidyāntaraśīlināmapi pcāgnividyāvidbhiḥ samānamārgatāṃ gamayati ।
+kathaṃ punaravagamyate vidyāntaraśīlināmiyaṃ gatiriti ।

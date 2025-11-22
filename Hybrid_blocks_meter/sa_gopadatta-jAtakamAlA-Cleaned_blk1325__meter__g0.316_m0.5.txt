@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1325 | label: meter | g:0.316 m:0.5 ---
+
+jātaprasādam atha taṃ nṛpatiṃ viditvā pātrīkṛtaṃ sucaritasya sa bodhisattvaḥ ।
+śiṣyaṃ vinītam iva gauravabhāranamraṃ provāca nīlajaladastanayitnughoṣaḥ ।।

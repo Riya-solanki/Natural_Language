@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2242 | label: meter | g:0.25 m:0.5 ---
+
+tvayoḍhā śibikā ceti tvayy adyāpi ca saṃsthitā 
+mithyaitad atra tu bhavāñ śṛṇotu vacanaṃ mama ।।

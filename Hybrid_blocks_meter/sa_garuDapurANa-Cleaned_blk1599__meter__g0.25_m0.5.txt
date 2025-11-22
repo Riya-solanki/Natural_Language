@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1599 | label: meter | g:0.25 m:0.5 ---
+
+vidhṛtiḥ saptamī tāsāṃ smṛtāḥ pāpapraśāntidāḥ ।
+jyotiṣmataḥ kuśadvīpe sapta putrāḥ śṛṇuṣvatān ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2280 | label: meter | g:0.251 m:0.623 ---
+
+samastāvayavebhyas tvaṃ pṛthag bhūpa vyavasthitaḥ 
+ko aham ity eva nipuṇo bhūtvā cintaya pārthiva ।।

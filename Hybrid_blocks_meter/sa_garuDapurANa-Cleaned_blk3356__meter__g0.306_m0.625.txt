@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3356 | label: meter | g:0.306 m:0.625 ---
+
+samadharmā hi marmajñastīkṣṇaḥ svajanakaṇṭakaḥ ।
+na tathā bādhate śatruḥ kṛtavairo bahiḥ sthitaḥ ।।

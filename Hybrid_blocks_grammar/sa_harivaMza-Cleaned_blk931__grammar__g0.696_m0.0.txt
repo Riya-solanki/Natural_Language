@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 931 | label: grammar | g:0.696 m:0.0 ---
+
+yadānyebhyo na bibheti yadā cāsmān na bibhyati 
+yadā necchati na dveṣṭi brahma saṃpadyate tadā ।। 
+yā dustyajā durmatibhir yā na jīryati jīryataḥ । yo asauprāṇāntiko rogas tāṃ tṛṣṇāṃ tyajataḥ sukham ।। jīryanti jīryataḥ keśā dantā jīryanti jīryataḥ । dhanāśā jīvitāśā ca jīryato api na jīryati ।। yac ca kāmasukhaṃ loke yac ca divyaṃ mahat sukham । tṛṣṇākṣayasukhasyaite nārhataḥ ṣoḍaśīṃ kalām । tāṃ tṛṣṇāṃ duḥkhanivahāṃ śarmakāmo drutaṃ tyajet । cakṣuḥśrotre ca jīryete tṛṣṇaikātaruṇāyate । 
+evam uktvā sa rājarṣiḥ sadāraḥ prāviśad vanam 
+kālena mahatā cāpi cacāra vipulaṃ tapaḥ ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 198 | label: grammar | g:0.562 m:0.5 ---
+
+ko ayaṃ bhāti prakārastava pavana padaṃ lokapādāhatīnāṃ tejasvivrātasevye nabhasi nayasi yatpāṃsupūraṃ pratiṣṭhām ।
+yasminnutthāpyamāne jananayanapathopadravastāvadāstāṃ kenāpāyena sahyo vapuṣi kaluṣatādoṣa eva tvayaiva ।।

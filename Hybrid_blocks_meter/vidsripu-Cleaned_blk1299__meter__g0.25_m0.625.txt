@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1299 | label: meter | g:0.25 m:0.625 ---
+
+añjalisthāni puṣpāṇi vāsayanti karadvayam ।
+aho sumanasāṃ vṛttir vāmadakṣiṇayoḥ samā ।।

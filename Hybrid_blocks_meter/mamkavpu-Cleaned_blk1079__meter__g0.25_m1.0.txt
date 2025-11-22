@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1079 | label: meter | g:0.25 m:1.0 ---
+
+vaktṛvācyaprabandhānāmaucityena kvacitkvacit ।
+racanāvṛttivarṇānāmanyathātvamapīṣyate ।।

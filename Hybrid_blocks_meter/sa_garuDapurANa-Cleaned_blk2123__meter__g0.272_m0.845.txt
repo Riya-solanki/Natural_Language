@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2123 | label: meter | g:0.272 m:0.845 ---
+
+yatsandhiśoṣitaṃ ratnamanyanmarakatādbhavet ।
+śreyaskāmairna taddhāryaṃ kretavyaṃ vā katañcana ।।

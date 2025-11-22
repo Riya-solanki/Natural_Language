@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2551 | label: meter | g:0.25 m:0.625 ---
+
+tataḥ pravyāhṛtāḥ sarve gopā vananivāsinaḥ 
+vītaśokā vanaṃ sarve cañcūryante sma te sukham ।।

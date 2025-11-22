@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 993 | label: grammar | g:0.75 m:0.5 ---
+
+atha bhagavān vajrapāṇiḥ punarapi bhagavantametadavocat । "ahaṃ bhagavadbhiḥ sarvatathāgataiḥ sarvaduṣṭadamaka iti kṛtvādhyiṣṭaḥ । tadājñāpayatu me bhagavān jvarādīnāṃ vyādhīnāṃ kiṅkaromi" ।।

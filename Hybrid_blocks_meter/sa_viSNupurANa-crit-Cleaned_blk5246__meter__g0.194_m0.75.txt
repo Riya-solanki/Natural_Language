@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5246 | label: meter | g:0.194 m:0.75 ---
+
+dvāravatyāṃ tataḥ śauriṃ śakras tribhuvaneśvaraḥ 
+ājagāmātha maitreya mattairāvatapṛṣṭhagaḥ ।।

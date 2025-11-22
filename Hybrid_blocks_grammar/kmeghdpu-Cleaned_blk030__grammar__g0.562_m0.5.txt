@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 30 | label: grammar | g:0.562 m:0.5 ---
+
+prāpyāvantīn udayanakathākovidagrāmavṛddhān pūrvoddiṣṭām anusara purīṃ śrīviśālāṃ viśālām ।
+svalpībhūte sucaritaphale svargiṇāṃ gāṃ gatānāṃ śeṣaiḥ puṇyair hṛtam iva divaḥ kāntimat khaṇḍam ekam ।।

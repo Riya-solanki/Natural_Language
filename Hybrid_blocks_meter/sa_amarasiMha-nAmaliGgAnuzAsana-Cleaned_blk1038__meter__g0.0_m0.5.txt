@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1038 | label: meter | g:0.0 m:0.5 ---
+
+kṣaumaṃ dukūlaṃ syāddve tu nivītaṃ prāvṛtaṃ triṣu

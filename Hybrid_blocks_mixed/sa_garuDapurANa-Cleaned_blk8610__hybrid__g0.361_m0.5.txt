@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8610 | label: hybrid | g:0.361 m:0.5 ---
+
+mahāpuṇyaprabhāveṇa mānuṣyaṃ janma labhyate ।
+yastatprāpya careddharmaṃ sa gacchetparamāṃ gatim ।।
+api jānanvṛthā dharmaṃ duḥ khamāyāti yāti ca ।।
+jātīśatena labhate kila mānuṣatvaṃ tatrāpi durlabhataraṃ khaga bho dvijatvam ।
+yastatra pālayati lālayati vratāni tasyāmṛtaṃ bhavati hastagataṃ prasādāt ।।

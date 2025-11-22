@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 822 | label: hybrid | g:0.5 m:0.5 ---
+
+āpo nārā vai tanava ityevaṃ nāma śuśrumaḥ ।
+tāsu śete sa yasmācca tena nārāyaṇaḥ smṛtaḥ ।।

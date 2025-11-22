@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 31 | label: meter | g:0.0 m:0.5 ---
+
+indo rasāgnitritrīṣusaptabhūdharamārgaṇāh। dasratryaṣṭarasāṅkākṣilocanāni kujasya tu।। checked

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 513 | label: grammar | g:0.757 m:0.385 ---
+
+utaśca pratyayādasaṃyogapūrvāt ।।
+asaṃyogapūrvātpratyayoto herluk । śṛṇutam । guṇāvādeśau । śṛṇavāva । aśṛṇot । aśṛṇvan । aśṛṇutam । aśṛṇavam । aśṛṇma, aśṛṇuma । śṛṇuyātām । śṛṇuyāḥ । śṛṇuyāta । śṛṇuyāva । śrūyāt । aśroṣyat ।। ।।

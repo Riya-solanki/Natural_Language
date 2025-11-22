@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4495 | label: meter | g:0.25 m:0.625 ---
+
+tato ahaṃ vṛṣṇisainyena mahatā parivāritaḥ 
+tam agrato dvijaṃ kṛtvā prayātaḥ saha senayā ।।

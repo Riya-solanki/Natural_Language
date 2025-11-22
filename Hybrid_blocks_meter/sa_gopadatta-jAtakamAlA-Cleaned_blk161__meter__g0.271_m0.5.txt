@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 161 | label: meter | g:0.271 m:0.5 ---
+
+sa taṃ pratyāha । yady apy etad evaṃ tathāpi

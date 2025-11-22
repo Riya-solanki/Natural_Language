@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3491 | label: grammar | g:0.75 m:0.5 ---
+
+taiś ca gandharvavīryāvadhūtair urageśvarair bhagavān aśeṣadeveśastavaśravaṇonmīlitonnidrapuṇḍarīkanayano jalaśayano nidrāvasānād vibuddhaḥ praṇipatyābhihitaḥ । bhagavann apy asmākam etebhyo gandharvebhyo bhayam upaśamam eṣyatīti āha bhagavān anādipuruṣaḥ puruṣottamo yauvanāśvasya māṃdhātuḥ purukutsanāmā putras tam aham anupraviśya tān aśeṣaduṣṭagandharvān upaśamaṃ nayiṣyāmi ।।

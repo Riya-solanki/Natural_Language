@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1968 | label: meter | g:0.194 m:0.625 ---
+
+śānto asīty uktamātras tu tanutvaṃ sāgaro gataḥ 
+saṃhatormitaraṅgaughaḥ sthito rājaśriyā jvalan ।।

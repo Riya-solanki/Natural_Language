@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9004 | label: meter | g:0.268 m:0.957 ---
+
+śrībhāgavānuvāca ।
+evaṃ saṃjalṣatastasya pretena niyatātmanaḥ ।
+senājagāmānupadaṃ hastyaśvarathasaṃkulā ।।

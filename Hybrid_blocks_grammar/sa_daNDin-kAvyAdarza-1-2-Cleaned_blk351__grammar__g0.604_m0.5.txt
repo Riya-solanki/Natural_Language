@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 351 | label: grammar | g:0.604 m:0.5 ---
+
+gato astam arko bhātīndur yānti vāsāya pakṣiṇaḥ itīdam api sādhv eva kālāvasthānivedane ।।

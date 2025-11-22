@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 243 | label: meter | g:0.25 m:0.625 ---
+
+kartṛkāryayoḥ paro'nyaḥ prastutābhidhānaḥ kṣetrajño yaś cātmetyarthaḥ ।। 
+atra cārvākacchāyayā ātmanirāsāyedam āśaṅkyate ।।

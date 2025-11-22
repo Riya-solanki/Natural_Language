@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2650 | label: meter | g:0.25 m:0.5 ---
+
+tacchrutvāsya vaco ghoraṃ prahlādaḥ prāha nārada ।
+na samyaguktaṃ bhavatā viruddhaṃ dharmator'thataḥ ।।

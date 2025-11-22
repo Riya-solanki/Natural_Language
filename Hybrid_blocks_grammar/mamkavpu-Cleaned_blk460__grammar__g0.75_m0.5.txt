@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 460 | label: grammar | g:0.75 m:0.5 ---
+
+yattu {viṣaṃ bhakṣaya mā cānya gṛhe bhuṅkthāḥ} ityatra {etadgṛhe na bhoktavyam} ityatra tātparyamiti sa eva vākyārtha iti, ucyate tatra cakāra ekavākyatāsūcanārthaḥ na cākhyātavākyayor dvayoraṅgāṅgibhāva iti viṣabhakṣaṇavākyasya suhṛdvākyatvenāṅgatā kalpanīyeti {viṣabhakṣaṇādapi duṣṭametadgṛhe bhojanamiti sarvathā māsya gṛhe bhuṅkthāḥ} iti, upāttaśabdārthe eva tātparyam ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5178 | label: meter | g:0.25 m:0.5 ---
+
+bibheti hi sadā tvatto brāhmaṇebhyo api vāsavaḥ 
+ekena vai tad ubhayaṃ tīrṇaṃ śakreṇa māyayā ।।

@@ -1,0 +1,7 @@
+--- source: brsvbh1u-Cleaned.txt | block: 103 | label: grammar | g:0.519 m:0.281 ---
+
+nedaṃ rajatamiti ca bādhakasyedantāmātrabādhenopapattau na rajatagocaratocitā ।
+rajatasya dharmiṇo bhādhe hi rajataṃ ca tasya ca dharma idantā bādhite bhavetām,tadvaramidantaivāsya dharmo bādhyatām na punā rajatamapi dharmi, tathā ca rajataṃ bahirbādhitamarthādāntare jñāne vyavatiṣṭhata iti jñānākārasya bahiradhyāsaḥ sidhyati ।
+kecittujñānākārakhyātāvaparituṣyanto vadanti-yatra yadadhyāsastadvivekāgrahanibandhano bhrama iti ।
+aparitoṣakāraṇaṃ cāhuḥ-vijñānakāratā rajatāderanubhavādvā vyavasthāpyetānumānādvā ।
+tatrānumānamupariṣṭā

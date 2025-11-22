@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4709 | label: meter | g:0.25 m:0.625 ---
+
+tandrā vā cānalabhraṃśastaṃ vadanti halīmakam ।
+ālasyañcātibhavati teṣāṃ pūrvamupadravaḥ ।।

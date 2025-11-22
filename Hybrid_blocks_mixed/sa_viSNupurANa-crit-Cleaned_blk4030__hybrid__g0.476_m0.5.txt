@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4030 | label: hybrid | g:0.476 m:0.5 ---
+
+tvaṃ viśvam ādir bhuvanasya goptā sarvāṇi bhūtāni tavāntarāṇi 
+yad bhūtabhavyaṃ tad aṇor aṇīyaḥ pumāṃs tvam ekaḥ prakṛteḥ parastāt ।।

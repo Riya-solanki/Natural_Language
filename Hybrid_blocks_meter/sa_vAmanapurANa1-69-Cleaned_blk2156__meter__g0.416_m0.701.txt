@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2156 | label: meter | g:0.416 m:0.701 ---
+
+sanatkumāra uvāca। । 
+putra evāsmi deveśa yataḥ śiṣyo asmyahaṃ vibho ।
+na viseṣo asti putrasya śiṣyasya ca pitāmaha ।।

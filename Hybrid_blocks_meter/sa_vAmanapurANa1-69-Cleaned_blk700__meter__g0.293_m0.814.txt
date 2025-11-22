@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 700 | label: meter | g:0.293 m:0.814 ---
+
+svapoṣaṇaparo yastu parityajati mānavaḥ ।
+putrabhṛtyakalatrādibandhuvargamakiñcanam ।
+durbhikṣe saṃbhrame cāpi sa śvabhojye nipātyate ।।

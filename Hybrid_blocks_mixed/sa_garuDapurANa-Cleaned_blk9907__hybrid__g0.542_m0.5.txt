@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9907 | label: hybrid | g:0.542 m:0.5 ---
+
+dānaṃ pradattaṃ grahaṇe dvijendre snānaṃ kṛtaṃ tena sadā sutīrthe ।
+gatvā gayāyāṃ pitṛpiṇḍadānaṃ kṛtaṃ sadā yo mriyate tu yuddhe ।।

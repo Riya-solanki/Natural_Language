@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4070 | label: hybrid | g:0.476 m:0.5 ---
+
+tvaṃ bhūtiḥ sannatiḥ kīrtiḥ kṣāntir dyauḥ pṛthivī dhṛtiḥ 
+lajjā puṣṭir uṣā yā ca kācid anyā tvam eva sā ।।

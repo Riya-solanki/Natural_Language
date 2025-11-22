@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4926 | label: meter | g:0.194 m:0.625 ---
+
+mṛtasya keśeṣu tadā gṛhītvā madhusūdanaḥ 
+cakarṣa dehaṃ kaṃsasya raṅgamadhye mahābalaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 132 | label: hybrid | g:0.5 m:0.5 ---
+
+dharmaphalo'śvamedhādiyajñaphalo vā rājñāṃ mahījayaḥ ityāgamaḥ । tadvirodhāddharmaśāstraviruddhārthametadvākyamiti ।

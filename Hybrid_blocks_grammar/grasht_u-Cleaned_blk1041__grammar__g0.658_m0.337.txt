@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 1041 | label: grammar | g:0.658 m:0.337 ---
+
+rasājīrṇalakṣaṇamāha sambhavatītyādi ।।
+iha rasāyane ajīrṇaṃ yadā sambhavati utpadyate tadā etāni lakṣaṇāni syuḥ ।।
+nidrā atiśayena nidrā ālasyaṃ aṅgāṅgaśaithilyaṃ jvaraḥ prasiddhaḥ tamo mūrchā dāha ūṣmā punarnābhitale bastau alpamalpaṃ śūlaṃ jaḍatāsyasya aruciḥ nirabhilāpitā bhaṅgo'ṅgasya aṅgamardanaṃ bhokturetāni lakṣaṇāni rasājīrṇe syur ityarthaḥ ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 299 | label: grammar | g:0.562 m:0.5 ---
+
+dhammillo viniveśitālpakusumaḥ saundaryadhuryaṃ smitaṃ vinyāso vacasāṃ vidagdhamadhuraḥ kaṇṭhe kalaḥ pañcamaḥ ।
+līlāmantharatārake ca nayane yātaṃ vilāsālasaṃ ko apyevaṃ hariṇīdṛśaḥ smaraśarāpātāvadātaḥ kramaḥ ।।

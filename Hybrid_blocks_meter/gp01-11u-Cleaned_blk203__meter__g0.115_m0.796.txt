@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 203 | label: meter | g:0.115 m:0.796 ---
+
+tasmin nīrāja-nirmañchana-bhavika-padārthāli-saṃsparśanānām
+ājyādarśādi-darśa-dvija-nija-janatārcādikānāṃ śubhānām ।
+kṛṣṇo gotrādir āsīt pravara-vara-daśāṃ tāni jagmuḥ samantād
+yebhyo' nye ca prathante śubha-śata-nivahasyānvayāḥ sarva-loke ।। [srāgdharā]

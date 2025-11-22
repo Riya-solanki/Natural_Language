@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1800 | label: meter | g:0.25 m:0.75 ---
+
+dakṣiṇāvartacalitamūtrā bhiśca nṛpāḥ smṛtāḥ ।
+vikīrṇamūtrā niḥ svāśca pradhānasukhadāyikāḥ ।।

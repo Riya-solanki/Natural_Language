@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 964 | label: hybrid | g:0.332 m:0.439 ---
+
+upapūrvamapītyeke bhāvamaśanavattaduktam ।
+śrutistāvatsarasato asaṅkacadvṛttirbrahmacārimātrasya naiṣṭhikasyopakurvāṇasya cāviśeṣeṇa prāyaścittamupadiśati sākṣāt ।
+prāyaścittaṃ na paśyāmīti tu smṛtiḥ ।
+tasyāmapi ca sākṣātprāyaścittaṃ na kartavyamiti prāyaścittaniṣedho na gamyate, na paśyāmīti tu darśanābhāvena so anumātavyaḥ ।

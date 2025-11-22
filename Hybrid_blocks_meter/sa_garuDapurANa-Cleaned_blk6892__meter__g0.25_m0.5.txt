@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6892 | label: meter | g:0.25 m:0.5 ---
+
+andhakasya vināśāya yā sṛṣṭā mātaro mayā ।
+anādṛtya tu madvākyaṃ bhakṣyantvadbhutāḥ prajāḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1295 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhumaṅgalas tu sa-krodham ivovāca-yuvarāja ! gardhanatayā kukṣim-bharayas te eta eva muhur aśanāyāṃ smarayantaḥ sarvatra ca ghasmarā eva bhaṇyante, bhikṣāyām akṣāma-samudyamatayā sarvānnīnāś ca lakṣyante, na tu vayam ।

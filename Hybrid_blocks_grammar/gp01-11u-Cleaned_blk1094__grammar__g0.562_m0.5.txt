@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1094 | label: grammar | g:0.562 m:0.5 ---
+
+[] atha te śikyitānna-pātrāṇi vṛkṣa-śākhāsv avalambita-gātrāṇi vidhāya kṛṣṇa-bhrū-bhaṅga-taraṅga-saṅgata-raṅgatayā cāpalya-viśeṣaṃ śleṣayāmāsuḥ ।

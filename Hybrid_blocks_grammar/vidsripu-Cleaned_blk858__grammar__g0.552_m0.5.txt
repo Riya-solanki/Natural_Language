@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 858 | label: grammar | g:0.552 m:0.5 ---
+
+udeti yasyāṃ na niśākaro ripus tithir nu kā puṇyavatībhir āpyate ।
+itīva duṣṭyā paridevite muhuḥ kuhūkuhūr ity alam āha kokilaḥ ।।

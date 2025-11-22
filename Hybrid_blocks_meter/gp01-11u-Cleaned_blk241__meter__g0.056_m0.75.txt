@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 241 | label: meter | g:0.056 m:0.75 ---
+
+autsukyaṃ priya-mādhurī-madhu-madaṃ premātipāta-bhramaṃ
+viśleṣāgama-bhītim apy anugatā lajjātiparyākulāḥ ।
+gocārāya vanāya gacchati harau tasyāṅganānāṃ gaṇāś
+citrāṇīva nirīkṣya tasthur abhito dvitra-kṣaṇaṃ bhittiṣu ।। [śārdūla]

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3098 | label: meter | g:0.25 m:0.625 ---
+
+dharmakarmamayīmudrāṃ badhvā padmasamādhinā ।
+bhagena praviśan rakṣedapi sarvāstu yoṣita ।।

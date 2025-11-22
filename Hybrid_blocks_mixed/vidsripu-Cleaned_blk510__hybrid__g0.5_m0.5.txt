@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 510 | label: hybrid | g:0.5 m:0.5 ---
+
+napuṃsakam iti jñātvā tāṃ prati prahitaṃ manaḥ ।
+ramate tac ca tatraiva hatāḥ pāṇininā vayam ।।

@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 155 | label: meter | g:0.25 m:0.625 ---
+
+tīkṣṇalohasya cūrṇena samānaṃ kāṃsyacūrṇakam ।
+prakṣipyāvartya mūṣāyāṃ kriyate caikapiṇḍakam ।।
+piṇḍādardhaguṇaṃ nāgaṃ kṣiptvā jāryaṃ punaḥ punaḥ ।
+ghoṣarājir bhavejjīrṇe nāge kāṃsyācca ṣaḍguṇe ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2330 | label: meter | g:0.25 m:0.5 ---
+
+bho vipravarya bhoktavyaṃ yad annaṃ bhavato gṛhe 
+tat kathyatāṃ kadanneṣu na prītiḥ satataṃ mama ।।

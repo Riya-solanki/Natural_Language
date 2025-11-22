@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4297 | label: meter | g:0.194 m:0.75 ---
+
+parvatānāṃ sahasraṃ ca cakreṇa puruṣottamaḥ 
+vikīrya puṇḍarīkākṣo dyumatsenam apothayat ।।

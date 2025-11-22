@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 6 | label: meter | g:0.378 m:0.641 ---
+
+śreyāṃsi vaḥ sa sugataḥ kurutād apāra- saṃsārasāgarasamuttaraṇaikasetuḥ ।
+durvāramāraparivārabalāvalepa- kalpāntasaṃtatapayaḥprasarair ahāryaḥ ।।
+aparājitarakṣitasya

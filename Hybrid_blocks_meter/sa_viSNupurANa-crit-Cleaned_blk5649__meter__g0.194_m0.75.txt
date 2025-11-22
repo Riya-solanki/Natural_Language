@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5649 | label: meter | g:0.194 m:0.75 ---
+
+yathā gṛhītam ambhodher dattvāhaṃ dvārakābhuvam 
+yādavān upasaṃhṛtya yāsyāmi tridaśālayam ।।

@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 467 | label: meter | g:0.25 m:0.625 ---
+
+anityeṣvavyabhicāraḥ' iti prakṛtam, nendriyagrahaṇasāmarthyāt śabdasyānityatvam।
+kiṃ tarhi ?, indriyapratyāsattigrāhyatvāt saṃtānānumānaṃ tenānityatvamiti ।।

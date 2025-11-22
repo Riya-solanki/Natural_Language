@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 493 | label: meter | g:0.306 m:0.5 ---
+
+kiṃ tad bhaved duḥkham atīvatīvraṃ kā vā vipattir bahuduḥkhayoniḥ ।
+tṛṣṇāviṣāgnikṣatacittavṛtter yā dūrataḥ saṃparivartinī syāt ।।

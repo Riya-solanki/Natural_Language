@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9386 | label: meter | g:0.25 m:0.625 ---
+
+pṛthak śarāvayordadyādekāhaṃ kṣīramambu ca ।
+ekoddiṣṭantu vai śrāddhaṃ caturthe ahani kārayet ।।

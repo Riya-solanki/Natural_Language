@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 616 | label: grammar | g:0.75 m:0.5 ---
+
+śaivāḥ kāmikādayo vakṣyamāṇā daśa bhedāḥ। raudrā vijayādayo aṣṭādaśa। ete [ūrdhvake] ūrdhvasrotasi [mahābhedāḥ] bhedāḥ। tatra śaivāḥ śivabhaṭṭārakeṇa upadiṣṭāḥ। raudrāstu [śivāviṣṭaiḥ] śivādhiṣṭhai rudraiḥ [udgīrṇāḥ। na svabuddhitaḥ] na svamanīṣikayā।।

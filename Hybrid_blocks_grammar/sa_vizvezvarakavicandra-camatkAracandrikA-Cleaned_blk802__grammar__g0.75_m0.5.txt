@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 802 | label: grammar | g:0.75 m:0.5 ---
+
+yathā atraivodāharaṇe yathā nāyakasyāyamabhiprāyaḥ । mama hṛdaye sthitāṃ tvāmeva tvaṃ kimiti sektumicchasi । yadi priye māṃ sektumicchasi tarhi śirasi siñceti । tadāparasyā sthitiśaṅkayā na sektavyo ayamiti yo ayaṃ nāyikāyāḥ pratīptotkaṇṭhāṃ bodhayatītyarthāpattiriyam । evaṃmitarapramāṇasiddhārthānupapattihetukārthāpattiḥ svayamūhanīyā ।

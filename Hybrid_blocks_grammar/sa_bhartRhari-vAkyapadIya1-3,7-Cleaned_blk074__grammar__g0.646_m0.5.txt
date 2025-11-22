@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 74 | label: grammar | g:0.646 m:0.5 ---
+
+na varṇavyatirekeṇa padam anyac ca vidyate vākyaṃ varṇapadābhyāṃ ca vyatiriktaṃ na kiṃ ca na ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 394 | label: grammar | g:0.646 m:0.5 ---
+
+patatīti kriyā । tasyāḥ svaṃ patanam । tadarthe'tyuccayadādhyāsaḥ patanāyeti śaṃsanam । tasya khyāyanamarthaśālināṃ śaṃsaditi ।।

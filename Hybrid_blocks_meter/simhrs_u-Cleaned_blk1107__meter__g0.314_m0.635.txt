@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1107 | label: meter | g:0.314 m:0.635 ---
+
+tathā ca bhāratīye-
+bhāvo vāpi raso vāpi pravṛttir vṛttir eva vā ।
+sarveṣāṃ samavetānāṃ rūpaṃ yasya bhaved bahu ।।
+sa mantavyo rasaḥ sthāyī śeṣāḥ sañcāriṇo matāḥ ।। iti ।

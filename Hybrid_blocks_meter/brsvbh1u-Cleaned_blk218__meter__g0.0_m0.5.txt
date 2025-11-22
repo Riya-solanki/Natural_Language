@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 218 | label: meter | g:0.0 m:0.5 ---
+
+antaḥkaraṇavṛttau brahmasākṣātkāre janayitavye asti tadupāsanāyāḥ karmāpekṣeti cet

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 173 | label: hybrid | g:0.324 m:0.47 ---
+
+yo bodhisattva imu budhyati eva dharmāṃ gambhīrayānaparamārthanirupalepān 
+yasmin na skandha na pi āyatanaṃ na dhātu kiṃ vā svapuṇyasamudāgamu kiṃci tasya ।।

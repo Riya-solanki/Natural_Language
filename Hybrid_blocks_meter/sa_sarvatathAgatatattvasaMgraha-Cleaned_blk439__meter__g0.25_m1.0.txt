@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 439 | label: meter | g:0.25 m:1.0 ---
+
+vajracakrāṃ dṛḍhīkṛtvā maṇḍalādhipatirbhavet ।
+vajrabhāṣaprayogeṇa vajravāksiddhiruttamā ।।

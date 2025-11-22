@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 24 | label: grammar | g:0.604 m:0.5 ---
+
+tasya yajñavarāhasya viṣṇor amitatejasaḥ praṇāmaṃ ye api kurvanti teṣām api namo namaḥ ।।

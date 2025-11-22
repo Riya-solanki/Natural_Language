@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 221 | label: grammar | g:0.75 m:0.5 ---
+
+rasavadamṛtaṃ, kaḥ sandeho madhūnyapi nānyathā madhuramadhikaṃ cūtasyāpi prasannarasaṃ phalam । sakṛdapi punarmadhyasthaḥ san rasāntaravijjano vadatu yadihānyat svādu syāt priyādaśanacchadāt ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 975 | label: grammar | g:0.757 m:0.375 ---
+
+atha patrābhrakriyā ।।
+kṛṣṇaṃ śyāmavarṇaṃ ghanaṃ abhraṃ pītaṃ pītavarṇaṃ ghanaṃ vā bahuśo naikavāraṃ śikhiprabhaṃ agniprabhaṃ sat surabhīkṣīraniṣiktaṃ secitaṃ kāryaṃ punargatagiridoṣaṃ yathā syāttathā gatā girijā doṣā mahīdharasaṃbhavā doṣā yasmāt tadevaṃ saṃśodhayitvā tat ghanaṃ rasāyane jarāvyādhivināśakaraṇe yojyam ।।

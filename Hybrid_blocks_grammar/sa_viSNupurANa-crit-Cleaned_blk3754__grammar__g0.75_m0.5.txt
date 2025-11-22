@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3754 | label: grammar | g:0.75 m:0.5 ---
+
+tasyāṃ cāsau krathakaiśikasaṃjñau putrāv ajanayat । punas tṛtīyaṃ romapādasaṃjñaṃ kumāram ajījanat । romapādād babhruḥ babhroḥ putro dhṛtiḥ । dhṛteḥ kaiśikaḥ kaiśikasyāpi cediḥ putro abhūd yasya saṃtatau caidyā bhūpālāḥ । krathasya snuṣāputrasya kuntir abhavat ।।

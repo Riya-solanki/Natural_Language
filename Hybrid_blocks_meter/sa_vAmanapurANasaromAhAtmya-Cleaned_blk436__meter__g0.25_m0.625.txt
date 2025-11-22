@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 436 | label: meter | g:0.25 m:0.625 ---
+
+patnī tasya mahāyakṣī nāmnodūkhalamekhalā ।
+āhatya dundubhiṃ tatra bhramate nityameva hi ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3427 | label: meter | g:0.194 m:0.625 ---
+
+rāvaṇena purā gītaḥ śloko ayaṃ sādhusaṃmataḥ 
+balajyeṣṭhena lokeṣu rākṣasānāṃ samāgame ।।

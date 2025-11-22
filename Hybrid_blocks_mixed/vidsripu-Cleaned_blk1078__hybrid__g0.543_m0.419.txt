@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1078 | label: hybrid | g:0.543 m:0.419 ---
+
+aye muktāratna prasara bahir uddyotaya gṛhān api kṣoṇīndrāṇāṃ kuru phalavataḥ svān api guṇān ।
+kim atraivātmānaṃ jarayasi mudhā śuktikuhare mahāgambhīro ayaṃ jaladhir iha kas tvāṃ gaṇayati ।।
+murāreḥ

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1643 | label: grammar | g:0.635 m:0.5 ---
+
+putras tvaṃ tripuradruhaḥ punar ahaṃ śiṣyaḥ kim etāvatā tulyaḥ so api kṛtas tavāyam adhikaḥ kodaṇḍadīkṣāvidhiḥ ।
+tatrādhāranibandhano yadi bhaved ādheyadharmodayas tad bhoḥ skanda gṛhāṇa kārmukam idaṃ nirṇīyatām antaram ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 55 | label: grammar | g:0.75 m:0.5 ---
+
+[] yatra hi svacchandatānanda-prada-bahu-vacanārthā gopī-padārthāḥ śriyaḥ śrayante । nānya-vaikuṇṭhavat tad-eka-vacanārthatākuṇṭhāḥ । tāsāṃ tat-padārthatā ca tan-mahā-vāg-artha-sārākarṣa-yantre mahā-mantre ballavī-vallabhatayā tasya japam upadiśantīti sidhyati ।

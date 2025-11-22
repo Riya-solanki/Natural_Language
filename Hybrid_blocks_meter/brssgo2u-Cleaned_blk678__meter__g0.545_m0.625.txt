@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 678 | label: meter | g:0.545 m:0.625 ---
+
+, asa vā eṣa ātmā hṛdi', akatama ātmeti yo ayaṃ vijñānamayaḥ prāṇeṣu hṛdyantarjyotiḥ puruṣaḥ' ityādyupadeśebhyaḥ ।
+tasmāddṛṣṭāntadārṣṭrāntikayoravaiṣamyādyuktamevaitadavirodhaścandanavaditi ।।

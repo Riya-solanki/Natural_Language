@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 497 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tasminn ānanda-pīvni pratidīvni śrī-rāma-jananyā śraddhā-yantritatayā nimantritāḥ kṛta-ghṛta-pakva-jemanāḥ sarva eva parva-lakṣmyā pūritāś candrā iva sva-sva-mandiram avindananta । viditvā ca tad-ānandaṃ prati kṛta-pratijāgarāṃ jāgarām eva nṛtya-gītādi-dhanyāyāṃ rajanyām abhajanta ।

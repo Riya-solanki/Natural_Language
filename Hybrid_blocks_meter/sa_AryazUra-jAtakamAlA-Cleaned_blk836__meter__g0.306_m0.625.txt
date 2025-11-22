@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 836 | label: meter | g:0.306 m:0.625 ---
+
+jihmaṃ śubhaṃ vā vṛṣabhapracāraṃ gāvo anugā yadvadanuprayānti ।
+utkṣiptaśaṅkāṅkaśanirvighaṭṭaṃ prajāstathaiva kṣitipasya vṛttim ।।

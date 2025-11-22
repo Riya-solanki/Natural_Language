@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2389 | label: meter | g:0.194 m:0.625 ---
+
+prāṅmukhaiḥ sicyamānaiś ca saṃdīpyadbhiś ca pāvakaiḥ 
+savatsacarmāstaraṇaiḥ paryaṅkaiś cāvaropitaiḥ ।।

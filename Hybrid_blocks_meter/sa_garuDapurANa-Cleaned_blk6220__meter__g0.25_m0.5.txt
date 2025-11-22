@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6220 | label: meter | g:0.25 m:0.5 ---
+
+guhavaktraiśca sannidrā lalitā syāttabhau jarau ।
+pramitākṣarā sajasasairujjvalā tu nanau bharau ।।

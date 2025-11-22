@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1102 | label: meter | g:0.056 m:0.979 ---
+
+eṣā gatir māyika-dṛg-vimohanī
+jñātātmanāṃ bhaktimatāṃ ca dūragā ।
+yāsādito kṛṣṇam anuvrajārbhakair
+iti sphuṭaṃ śrī-śuka-deva-niścitiḥ ।। [upajāti ]

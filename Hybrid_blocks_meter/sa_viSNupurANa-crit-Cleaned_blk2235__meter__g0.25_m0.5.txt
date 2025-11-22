@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2235 | label: meter | g:0.25 m:0.5 ---
+
+vilokya nṛpatiḥ so api viṣamāṃ śibikāgatim 
+kim etad ity āha samaṃ gamyatāṃ śibikāvahāḥ ।।

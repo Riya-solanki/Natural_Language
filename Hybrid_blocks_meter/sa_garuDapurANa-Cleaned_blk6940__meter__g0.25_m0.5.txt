@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6940 | label: meter | g:0.25 m:0.5 ---
+
+te dhanyāste sujanmānaste hi sarvasukhapradāḥ ।
+saphalaṃ jīvitaṃ teṣāṃ ye stuvanti sadācyutam ।।

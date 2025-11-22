@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1230 | label: meter | g:0.381 m:0.774 ---
+
+ete anye ca mahātmāno dānavā balināṃ varāḥ ।
+kātyāyanīmādravanta nānāśastrāstrapāṇayaḥ ।।

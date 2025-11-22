@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9041 | label: meter | g:0.306 m:0.5 ---
+
+ye dagdhā ye tvadagdhāśca patitā ye narābhuvi ।
+yāni cānyāni bhūtāni teṣāmante bhavecca kim ।।

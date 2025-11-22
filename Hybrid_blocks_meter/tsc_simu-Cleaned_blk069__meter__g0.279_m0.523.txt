@@ -1,0 +1,21 @@
+--- source: tsc_simu-Cleaned.txt | block: 69 | label: meter | g:0.279 m:0.523 ---
+
+śabdastāvat yathodeṣṭṛpuruṣavākyalakṣaṇaḥ indro devarāḍityādiḥ ।
+arthāpattisambhavābhāvaitihyapratibhopamānāni yadi pramāṇāni tarhyatraivāntarbhāvyāni na pṛthak ।
+prakṛtipuruṣau vidyamānāvapi nopalabhyete sūkṣmatvāt yathākāśe dhūmoṣmanīhāraparamāṇavaḥ santo api nopalabhyante ।
+mahadādikāryadarśanena tatkāraṇamiva pradhānamanumīyate ।
+triguṇapradhānajanyaṃ mahadādikāryaṃ kiñcitprakṛtisadṛśaṃ kiñcidvikṛtisadṛśaṃ loke ubhayathā puttrarūpakāryadarśanāt ।
+tacca kāryaṃ sat nāsat na sadasat nānirvacanīyam atyantāsattve sikatābhyo api tailamutpadyeta ।
+anyau ca pakṣau viruddhāveva avyaktasañjñaṃ pradhānaṃ svatantraṃ vyāpi nityaṃ ca vyaktasañjñaṃ kāryamasvatantramavyāpi anityaṃ ca ।
+puruṣaḥ svatantro vyāpī nityaśca ।
+trayāṇāṃ lokānāṃ kāraṇaṃ pradhānaṃ taccaikaṃ lāghavāt ।
+pralayakāle mahadādikāryaṃ pradhāne līyate ।
+tacca pradhānaṃ sattvarajastamomayam ।
+guṇatrayasāmyāvasthā prakṛtiḥ ।
+pradhānamacetanaṃ puruṣastu cetanaḥ ।
+vyaktapradhānavilakṣaṇaḥ śuddho guṇarahitaḥ ।
+kāryasya sukhaduḥkhamohajanakatvena tatra kāraṇībhūtāni sattvarajastamāṃsi anumeyāni ।
+dṛṣṭaṃ ca yathākramaṃ bhartṛsapatnīviṭeṣu sukhaduḥkhamohajanakatvaṃ kāminyāḥ ।
+triguṇamaye api kārye yadā sattvamudriktaṃ bhavati janādṛṣṭāt tadā rajastamasī abhibhūya svakāryaṃ sukhaṃ janayati ।
+evaṃ yadā raja udriktaṃ bhavati tadā sattvatamasī abhibhūya svakāryaṃ janayati duḥkham ।
+evaṃ yadā tama udriktaṃ bhavati tadā sattvarajasī abhibhūya svakāryaṃ mohaṃ janayati ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 409 | label: meter | g:0.185 m:0.741 ---
+
+vyājastutervyājoktiṃ bhinnāṃ darśayitumāha 
+vyājasya satyasārūpyaṃ vyājoktiḥ ।।
+vyājasya cchadmanaḥ satyena sārūpyaṃ vyājoktiḥ । yāṃ māyoktirityāhuḥ । yathā

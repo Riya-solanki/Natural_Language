@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2844 | label: meter | g:0.327 m:0.861 ---
+
+śrīgaruḍamahāpurāṇam- 
+yājñavalkya uvāca ।
+atha dānividhiṃ vakṣye tanme śṛṇuta suvratāḥ ।
+anyebhyo brāhmaṇāḥ śreṣṭhāstebhyaścaiva kriyāparāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6322 | label: meter | g:0.246 m:0.806 ---
+
+ākāśavāyvagnijalapṛthivībhyaḥ pṛthak sthite 
+ātmany ātmamayaṃ bhāvaṃ kaḥ karoti kalevare ।।

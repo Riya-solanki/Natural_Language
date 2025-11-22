@@ -1,0 +1,12 @@
+--- source: simhrs_u-Cleaned.txt | block: 464 | label: meter | g:0.25 m:0.719 ---
+
+atha pravṛttayaḥ-
+tat-tad-deśocitā bhāṣā kriyā veṣā pravṛttayaḥ ।
+tatra bhāṣā dvidhā bhāṣā vibhāṣā ceti bhedataḥ ।। 
+tatra bhāṣā sapta-vidhā prācyāvantyā ca māgadhī ।
+bāhlīkā dākṣiṇātyā ca śaurasenī ca mālavī ।। 
+saptadhā syād vibhāṣādi śabara-dramilāndhrajāḥ ।
+śakārābhīra-caṇḍāla-vanecara-bhavā iti ।। 
+bhāṣā-vibhāṣāḥ santy anyās tat-tad-deśa-janocitāḥ ।
+tāsām anupayogitvān nātra lakṣaṇam ucyate । 
+tat-tad-deśocitā veṣāḥ kriyāś cātisphuṭāntarāh ।।

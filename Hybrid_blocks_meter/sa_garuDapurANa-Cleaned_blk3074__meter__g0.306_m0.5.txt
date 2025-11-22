@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3074 | label: meter | g:0.306 m:0.5 ---
+
+janmanā ca vipattau ca bhavetteṣāṃ ca sūtakam ।
+caturthe daśarātraṃ syātṣaṇṇiśāḥ puṃsi pañcame ।।

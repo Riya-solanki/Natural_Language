@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 258 | label: grammar | g:0.604 m:0.5 ---
+
+atra pūrvaṃ purānnirgatya pratipakṣabhūpaiḥ paśvādatikrāntaprayāṇalagnapariśodhanaṃ kriyata ityapakramatvam । citrahetvādiṣu prāyo guṇatāmasya manvate ।।

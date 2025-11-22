@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 616 | label: hybrid | g:0.25 m:0.474 ---
+
+evaṃ prāpte brūmaḥ ।
+na svābhāvikaṃ kartṛtvamātmanaḥ saṃbhavati, anirmokṣaprasaṅgāt ।
+kartṛtvasvabhāve hyātmano na kartṛtvānnirmokṣaḥ saṃbhavati, agnerivauṣṇyāt ।
+naca kartṛtvādanirmuktasyāsti puruṣārthasiddhiḥ, kartṛtvasya duḥkharūpatvāt ।

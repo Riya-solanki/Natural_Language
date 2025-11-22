@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 485 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra śrī-kṛṣṇaḥ svān uvāca-aho, pratyekam evāsmākaṃ labdha-varṇāv imau karṇāv eva puru-gurū abhūtām yābhyām eṣāṃ mahāśayānāṃ guṇānubhavam āsādyāmahe sma । kiyad vā manaḥ sampraśaṃsayā mānayāmaḥ, yena tatraiva sāmodaṃ prodasāhayiṣmahi? caraṇābhyāṃ paritaḥ kiṃ nācaritam, yābhyāṃ manoratha-patham alambhayiṣmahi? locana-yugalāya rocanaṃ kim anyad vitarāmaḥ, yena gurūpadiṣṭaṃ tan-miṣṭam anubhāvyāmahe? nāsādvayāt kiṃ nāsādayāma, yenānenāmodena sāmodīkriyāmahe? tvacaḥ kiṃ vacaḥ kathayāmaḥ, yayā tam idam adaḥ-sambandhi-gandhavāham avagāhyāmahe? ātmani tu subhaga-nāma-dheyaṃ bhāga-dheyaṃ kiyad ādheyatāṃ vindeta, yasya tat-tat-phala-valayenāntar bahir apy āvriyāmahe?

@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 839 | label: hybrid | g:0.121 m:0.492 ---
+
+abhyanujñāya na niṣkāraṇaṃ kṣīravināśaṃ dadhyutpādaṃ ca pratiṣedha
+ucyate iti

@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 284 | label: hybrid | g:0.47 m:0.5 ---
+
+ekasyāpyasyānekāḥ pratyātmasthāś citkriyāsaṃnirodhikā nityāḥ śaktaya eṣṭavyāḥ ।। 
+anyathaikatve sati ekasmāt puruṣādapasṛte tasmin sarveṣāṃ tulyakālaṃ muktiḥ syāt ।। 
+yatastu na muktir yaugapadyenopalabhyate tasmāt kāraṇāt tacchaktibahutvābhyupagamo yuktaḥ ।। 
+na ca tās tacchaktayaḥ svātantryeṇa rundhanti apasaranti vā kiṃ tarhi ।।

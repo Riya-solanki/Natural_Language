@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1389 | label: hybrid | g:0.51 m:0.5 ---
+
+śrutvātha dhvanim atimānuṣaṃ manuṣyāḥ sāṃhatyasvaritam upetya taṃ pradeśam ।
+ālokya kṣitidharapīvarātmabhāvaṃ taṃ sādhuṃ kṣamiṇam abhīyur udviṣāṇāḥ ।।

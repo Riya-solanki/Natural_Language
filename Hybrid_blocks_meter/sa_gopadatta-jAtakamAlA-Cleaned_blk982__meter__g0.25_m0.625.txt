@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 982 | label: meter | g:0.25 m:0.625 ---
+
+jananī malapaṅkadigdhaveṇī sutaviśrambhaniratyayopacārā ।
+upamṛtyum udīkṣya śokapaṅke vinimajjaty aparāyaṇā rudantī ।।

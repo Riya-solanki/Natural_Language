@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5974 | label: meter | g:0.25 m:0.625 ---
+
+karālo hīnadantaśca śṛṅgī viraladantakaḥ ।
+ekāṇḍaścaiva jātāṇḍaḥ kañcukī dvikhurī stanī ।।

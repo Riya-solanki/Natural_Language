@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2021 | label: meter | g:0.246 m:0.806 ---
+
+yayātivaṃśajasyātha vasudevasya dhīmataḥ 
+kule pūjye yaśaskāmo jajñe nārāyaṇaḥ prabhuḥ ।।

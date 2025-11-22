@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 863 | label: hybrid | g:0.496 m:0.399 ---
+
+naiṣa doṣaḥ ।
+puruṣabhedābhiprāyeyaṃ vīpsā pratipuruṣaṃ sapta sapta prāṇā iti, na tattvabhedābhiprāyā sapta saptānye anye prāṇā iti ।

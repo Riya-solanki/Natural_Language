@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 170 | label: hybrid | g:0.455 m:0.521 ---
+
+prasiddhāni hi pratyakṣādīni pramāṇāni tadantargataṃ ca śāstraṃ, atastadapi prasiddhameva ।
+na ca prasiddhasya pramāṇasya prāmāṇyamanyena parīkṣitavyam, svata eva tasya svaviṣayopasthāpanasāmarthyāt ।
+yadi ca parīkṣyeta, tato yena parīkṣyeta tasyāpyanyenetyavasthā syāt ।
+tasmātprasiddhatvātpramāṇasya codanāpi pramāṇamiti ।।

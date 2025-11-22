@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1091 | label: meter | g:0.25 m:0.758 ---
+
+atha adbhutaḥ-
+vibhāvair anubhāvaiś ca svocitair vyabhicāribhiḥ । 
+nītaḥ sadasya-rasyatvaṃ vismayo' dbhutatāṃ vrajet ।।
+atra dhṛtyāvega-jāḍya-harṣādyā vyabhicāriṇaḥ । 
+ceṣṭās tu netra-vistāra-svedāśru-pulakādayaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1170 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha mādhava-pūrṇimām āsājya, sarvato virajya ca, pūrṇa-śikṣā-vilakṣaṇaṃ-manyamanā mādhavaḥ kiñcana durgamaṃ gahanam avagāhamānaḥ parama-muralī-dhamana-līlayā dhairyam ūnayann, amūḥ pradhūyanati sma; muhuḥ pradharṣayann ākarṣati sma ca, sādhāraṇatayā rādhāpi samāgamiṣyatīti ।

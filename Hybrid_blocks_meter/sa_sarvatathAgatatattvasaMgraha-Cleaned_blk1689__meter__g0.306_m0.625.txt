@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1689 | label: meter | g:0.306 m:0.625 ---
+
+pānamudrā ca mālā ca vajrā ca ṣṭaṃbhanāmitā ।
+mūrdhasthā caiva gaṇikā maṇḍaladvārapālikāḥ ।।

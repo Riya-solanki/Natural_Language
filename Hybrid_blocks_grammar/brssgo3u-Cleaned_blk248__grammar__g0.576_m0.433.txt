@@ -1,0 +1,8 @@
+--- source: brssgo3u-Cleaned.txt | block: 248 | label: grammar | g:0.576 m:0.433 ---
+
+atra vayaṃ pṛcchāmaḥ - ko ayaṃ prapañcapravilayo nāma ।
+kimagnipratāpasaṃparkādghṛtakāṭhinyapravilaya iva ppapañcapravilayaḥ kartavya āhosvidekasmiṃścandre timirakṛtānekacandraprapañcavadavidyākṛto brahmaṇi nāmarūpaprapañco vidyayā pravilāpitavya iti ।
+tatra tāvadvidyāmano ayaṃ prapañco dehādilakṣaṇa ādhyatmiko bāhyaśca pṛthivyādilakṣaṇaḥ pravilāpayitavya ityucyeta sa puruṣamātreṇāśakyaḥ pravilāpayitumiti tatpravilayopadeśo aśakyaviṣaya eva syāt ।
+ekena cādimuktena pṛthivyādipravilayaḥ kṛta itīdānīṃ pṛthivyādiśūnyaṃ jagadabhaviṣyat ।
+athāvidyādhyasto brahmaṇyekasminnayaṃ prapañco vidyayā pravilāpyata iti brūyāt ।
+tato brahmaivāvidyādhyastaprapañcapratyākhyānenāvedayitavyam ekamevādvitīyaṃ brahma, tatsatyaṃ sa ātmā tatvamasi iti tasminnāvedite vidyā svayamevotpadyate tayā cāvidyā bādhyate

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5681 | label: meter | g:0.338 m:0.809 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+aparājitāyā mūlañca gomūtreṇa samanvitam ।
+pītañcāśu haratyeva gaṇḍamālāṃ na saṃśayaḥ ।।

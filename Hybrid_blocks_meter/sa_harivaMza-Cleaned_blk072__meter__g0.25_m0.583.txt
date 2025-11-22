@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 72 | label: meter | g:0.25 m:0.583 ---
+
+tapaś caratsu pṛthivīṃ pracetaḥsu mahīruhaḥ 
+arakṣyamāṇām āvavrur babhūvātha prajākṣayaḥ ।। 
+pratyāhṛtāḥ prajāḥ sarvāś cākṣuṣasyāntare manoḥ । 
+nāśakan māruto vātuṃ vṛtaṃ kham abhavad drumaiḥ 
+daśa varṣasahasrāṇi na śekuś ceṣṭituṃ prajāḥ ।।

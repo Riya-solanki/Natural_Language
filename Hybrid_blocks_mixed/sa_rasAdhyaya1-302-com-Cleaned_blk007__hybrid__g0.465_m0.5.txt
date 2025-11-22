@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 7 | label: hybrid | g:0.465 m:0.5 ---
+
+vakti yo na sa jānāti yo jānāti na vakti saḥ 
+tato yatrāpi tatrāpi prasāryaṃ na mukhaṃ budhaiḥ ।।

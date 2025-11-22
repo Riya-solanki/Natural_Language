@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1217 | label: grammar | g:0.75 m:0.5 ---
+
+yathā tatraiva rākṣasaḥ -kathaṃ tāpasaḥ । tatrāpi viśvāmitra-dharma-putraḥ śunaḥśepaḥ ity upakramyaà sampraty eva rākṣasa-bhayāt satre dīkṣiṣyamāṇaḥ sa bhagavān goptāraṃ rāmabhadraṃ varītum ayodhyāṃ gataḥ । rākṣasaḥ -hanta katham etad api niṣpannam । bhagavan mā kopīḥ ity ādinā kṛtaṃ yat kartavyam । samprati cāra-sañcārasyāyam avasaraḥ ( padyād anantaram] ity antena viśvāmitrānubhāva-kathanāt sarākṣatrāsa-kathanāc ca bīja-niṣpatteḥ parinyāsaḥ ।

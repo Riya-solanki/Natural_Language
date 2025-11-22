@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 406 | label: meter | g:0.194 m:0.5 ---
+
+bhavaṃ śarvam atheśānaṃ tathā paśupatiṃ dvija 
+bhīmam ugraṃ mahādevam uvāca sa pitāmahaḥ ।।

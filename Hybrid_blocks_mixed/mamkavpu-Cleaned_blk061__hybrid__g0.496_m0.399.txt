@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 61 | label: hybrid | g:0.496 m:0.399 ---
+
+{karmani kuśalaḥ} ityādau darbhagrahaṇādyayogāt {gaṅgaāyāṃ ghoṣaḥ} ityādau ca gaṅgādīnāṃ ghoṣādyādhāratvāsaṃbhavāt mukhyārthasya bādhe vivecakatvādau sāmīpye ca saṃbandhe rūḍhitaḥ prasiddheḥ
+tathā gaṅgātaṭe ghoṣa ityādaiḥ prayogāt yeṣāṃ na tathā pratipattiḥ teṣāṃ pāvanatvādīnāṃ dharmāṇāṃ tathāpratipādanātmanaḥ prayojanācca mukhyena amukhyo artho lakṣyate yat sa āropitaḥ śabdavyāpāraḥ sāntarārthaniṣṭho
+lakṣaṇā ।।

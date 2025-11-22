@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 135 | label: meter | g:0.381 m:0.747 ---
+
+sarūpāṇāmekaśeṣa ekavibhaktau ।।
+ekavibhaktau yāni sarūpāṇyeva dṛṣṭāni teṣāmeka eva śiṣyate ।।

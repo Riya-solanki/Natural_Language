@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 482 | label: grammar | g:0.75 m:0.344 ---
+
+utsaṅgaṃ vahati śiśuṃ vrajādhirāje
+sā dūrād adhiśayitā prasūti-śayyām ।
+āsīt tac-chravaṇaja-bāṣpa-romaharṣa-
+stambhādyair vivaśa-tanūr vrajādhirājñī ।।
+[] atha tatra medhā-janakaṃ karma śarmānta-nāmabhir nirmame, yatra bhūs tvayi ity-ādikaṃ paṭhitvā hemāntarhitayānāmikayā bālo ghṛta-lavaṃ lehayāmāse । athāyuṣya-kriyā kriyate sma, yatra oṃ divaspati ity ādikena ḍimbhaḥ spṛṣṭaḥ । dik-catuṣṭaye madhye ca oṃ hṛdam annaṃ prāṇāya ity ādibhir bhūmiś cābhimantritā । atha oṃ aśmā bhava ity ādinā punar arbhako' bhimṛṣṭaḥ । tataḥ oṃ iḍāsi ity ādinā tan-mātābhimantritā । punar mātuḥ stana-dvayaṃ oṃ imaṃ stanam iti, oṃ yas te stanam ity ābhyām ṛgbhyāṃ krameṇa prakṣālitam । tataś ca tam uttāna-śāyinaṃ sūtikā-śayyāyāṃ nidhāya tac-chiraḥ-pradeśe oṃ āpo deveṣu ity ādinodapātraṃ nihitam iti ।

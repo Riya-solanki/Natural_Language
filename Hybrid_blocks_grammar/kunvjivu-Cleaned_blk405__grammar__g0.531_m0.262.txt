@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 405 | label: grammar | g:0.531 m:0.262 ---
+
+atra yathā buddhipūrvakāriṇaḥ keciccetanavarṇacchāyātiśayotpādanecchayā kenacidvidyamānalepanaśaktinā mūrtena nīlādinā rañjanadravyaviśeṣeṇa kiñcideva lepanīyaṃ mūrtimadvastu vastraprāyaṃ limpanti, tadvadeva tatkāritvasāmānyaṃ manāṅmātreṇāpi vidyamānaṃ kāmapyudriktavṛttitāmabhidhātumupacārāt snigdhaśyāmalayā kāntyā liptaṃ viyad dyaurityupanibaddham ।
+"snigdha'-śabdo apyupacāravakra eva ।
+yathā mūrtaṃ vastu sparśasaṃvedyaṃ sneha naguṇayogāt snigdhamityucyate, tathaiva kāntiramūrtāpyupacārāt snigdhetyuktā ।
+yathā vā

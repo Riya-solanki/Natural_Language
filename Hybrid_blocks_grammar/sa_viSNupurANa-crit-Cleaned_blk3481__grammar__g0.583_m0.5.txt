@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3481 | label: grammar | g:0.583 m:0.5 ---
+
+ity ātmānam ātmanaivābhidhāyāsau saubharir apahāya putragṛhāsanaparicchadādikam aśeṣam arthajātaṃ sakalabhāryāsamaveto vanaṃ praviveśa ।।

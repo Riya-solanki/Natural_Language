@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 569 | label: meter | g:0.093 m:0.805 ---
+
+{na trastaṃ yadi nāma bhūtakaruṇāsaṃtānaśāntātmanaḥ
+tena vyārujatā dhanurbhagavato devādbhavānīpateḥ ।
+tatputrastu madāndhatārakavadhādviśvasya dattotsavaḥ
+skandaḥ skanda iva priyo ahamatha vā śiṣyaḥ kathaṃ vismṛtaḥ ।।}

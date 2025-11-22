@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 805 | label: grammar | g:0.559 m:0.425 ---
+
+deśair antaritā śataiś ca saritām urvībhṛtāṃ kānanair yatnenāpi na yāti locanapathaṃ kānteti jānann api ।
+udgrīvaś caraṇārdharuddhavasudhaḥ kṛtvāśrupūrṇāṃ dṛśaṃ tām āśāṃ pathikas tathāpi kim api dhyāyaṃś ciraṃ vīkṣate ।।
+śrīharṣasya

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4328 | label: meter | g:0.25 m:0.625 ---
+
+iti gopakumārāṇāṃ śrutvā saṃkarṣaṇo vacaḥ 
+kṛṣṇaś ca pātayām āsa bhuvi tālaphalāni vai ।।

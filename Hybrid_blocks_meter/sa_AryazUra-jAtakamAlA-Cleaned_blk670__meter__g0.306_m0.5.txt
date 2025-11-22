@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 670 | label: meter | g:0.306 m:0.5 ---
+
+sarvāḥ kriyāstava hitapravaṇāḥ prajānāṃ tatrāvamānanavidhernaradeva ko arthaḥ ।
+brahmāpi te caritamabhyanumantumarhaḥ sādhupramāṇa paramatra bhavānpramāṇam ।।

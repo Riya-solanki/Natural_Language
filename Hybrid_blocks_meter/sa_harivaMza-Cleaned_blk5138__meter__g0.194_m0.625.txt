@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5138 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ bhaviṣyanti tadā manuṣyāḥ kālakāritāḥ 
+hīnādd hīnaṃ tadā dharmaṃ prajā samanuvartsyati ।।

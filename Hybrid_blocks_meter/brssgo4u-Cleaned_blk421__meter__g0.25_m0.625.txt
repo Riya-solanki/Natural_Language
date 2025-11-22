@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 421 | label: meter | g:0.25 m:0.625 ---
+
+antaryāmī jagatsākṣī sarvakartā raghūdvahaḥ ।
+ato atra doṣo aśaṅkyaḥ syādeṣa hyevetiśāsanāt ।।

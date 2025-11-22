@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 25 | label: hybrid | g:0.507 m:0.5 ---
+
+karabha rasabhāt kroṣṭuṃ vāñcchasy aho śravaṇajvaraḥ śaraṇam athavānṛjvī dīrghā tavaiva śirodharā 
+pṛthugalavilāvṛttiśrāntoccariṣyati vāk cirā diyati, samaye ko jānīte bhaviṣyati kasya kim ।।

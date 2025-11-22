@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5055 | label: meter | g:0.25 m:0.5 ---
+
+yadi tac chakyate rājan parihartuṃ kathaṃcana 
+daivaṃ puruṣakāreṇa mā yajethāś ca taṃ kratum ।।

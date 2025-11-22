@@ -1,0 +1,9 @@
+--- source: brssgo2u-Cleaned.txt | block: 389 | label: hybrid | g:0.336 m:0.399 ---
+
+yenāvaraṇabhāvo viśeṣyate tattarhi vastubhūtamevākāśaṃ manyamānasya saugatasya svābhyupagamavirodhaḥ prasajyeta ।
+saugate hi samaye apṛthivī bhagavaḥ kiṃsaṃniścayā' ityasminprativacanapravāhe pṛthivyādīnāmante vāyuḥ akiṃsaṃniścayaḥ' ityasya praśnasya prativacanaṃ bhavati avāyurākāśasaṃniścayaḥ' iti ।
+tadākāśasyāvastutve na samañjasaṃ syāt ।
+tasmādapyayuktamākāśasyāvastutvam ।
+apica nirodhadvayamākāśaṃ ca trayamapyetannirūpākhyamavastu nityaṃ ceti vipratiṣiddham ।
+nahyavastuno nityatvamanityatvaṃ vā saṃbhavati, vastvāśrayatvāddharmadharmivyavahārasya ।
+dharmadharmibhāve hi ghaṭādivadvastutvameva syānna nirupākhyatvam ।।

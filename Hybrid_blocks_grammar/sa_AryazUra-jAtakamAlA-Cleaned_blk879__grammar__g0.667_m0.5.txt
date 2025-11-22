@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 879 | label: grammar | g:0.667 m:0.5 ---
+
+supāraga uvāca - bhoḥ sārthavāhā nivartanaṃ prati yatnaḥ kriyatām । na khalvataḥ kṣamate paraṃ gantum ।

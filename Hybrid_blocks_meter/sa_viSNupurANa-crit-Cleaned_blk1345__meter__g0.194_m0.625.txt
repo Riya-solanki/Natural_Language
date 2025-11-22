@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1345 | label: meter | g:0.194 m:0.625 ---
+
+sa citaḥ parvatair antaḥ samudrasya mahāmatiḥ 
+tuṣṭāvāhnikavelāyām ekāgramatir acyutam ।।

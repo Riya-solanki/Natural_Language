@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4343 | label: meter | g:0.25 m:0.5 ---
+
+taṃ pradāya hṛṣīkeśas tāṃ bhāryāṃ mudito abravīt 
+eṣa vām ubhayor astu dāyādaḥ śāśvatīḥ samāḥ ।।

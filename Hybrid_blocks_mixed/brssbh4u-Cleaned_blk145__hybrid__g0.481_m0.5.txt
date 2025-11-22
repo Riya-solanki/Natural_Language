@@ -1,0 +1,6 @@
+--- source: brssbh4u-Cleaned.txt | block: 145 | label: hybrid | g:0.481 m:0.5 ---
+
+anyathā hi sarvaḥ prāyaṇasamaya eva upādhipratyastamayāt atyantaṃ brahma saṃpadyeta ।
+tatra vidhiśāstram anarthakaṃ syāt vidyāśāstraṃ ca ।
+mithyājñānanimittaḥ ca bandho na samyak jñānāt ṛte visraṃsitum arhati ।
+tasmāt tat prakṛtitve api suṣuptapralayavat bījabhāva avaśeṣa eva eṣā saṃtsapattiḥ iti ।।

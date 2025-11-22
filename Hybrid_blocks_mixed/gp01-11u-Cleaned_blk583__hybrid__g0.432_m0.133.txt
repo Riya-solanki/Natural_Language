@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 583 | label: hybrid | g:0.432 m:0.133 ---
+
+[] atha bālakam apy avalokayantyāv ālokana-vacanayoḥ kārābhir ivāśru-dhārābhir atīva vyagratām agrataḥ prāpatuḥ । tataś cānyābhir eva stanyābhimukhīkṛtena tena sukumāreṇa kumāreṇa kramānusāreṇa dhīratāṃ dhārayāmāsatuḥ । tataś ca,
+āśliṣṭaḥ pratidṛṣṭi-cumbita-mukhaḥ sughrāta-mūrdhā dṛgar-
+ṇaḥ-siktaḥ suhṛdāṃ puro bhuvi dhṛtaḥ svenāpi nirmañchitaḥ ।
+satyaṃ satyam idaṃ na cānyad iti sa vyaktaṃ viviktīkṛto
+mātṛbhyāṃ na tathāpi saṃhṛta-bhayaṃ dṛṣṭo bakī-mardanaḥ ।। [śārdūla]

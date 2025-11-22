@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 986 | label: grammar | g:0.583 m:0.5 ---
+
+bho bhoḥ kauravabalapradhānayodhā alamasmānavalokya bhayāditastato gamanena । kathayantu bhavantaḥ kasminnuddeśe suyodhanastiṣṭhati ।

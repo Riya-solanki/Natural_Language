@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 768 | label: meter | g:0.306 m:0.5 ---
+
+dvijāṃś ca bhojayāmāsuḥ śataśo' tha sahasraśaḥ ।
+gāvaḥ śailaṃ tataś cakrur arcitās tāḥ pradakṣiṇam ।।

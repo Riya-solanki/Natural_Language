@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 894 | label: meter | g:0.347 m:0.538 ---
+
+apica naivātra vivaditavyaṃ jīvapradhānaṃ vedaṃ vākyaṃ syādbrahmapradhānaṃ veti ।
+yato anyārthaṃ jīvaparāmarśaṃ brahmapratipattyarthamasminvākye jaiminirācāryo manyante ।
+kasmāt ।
+praśnavyākhyānābhyām ।

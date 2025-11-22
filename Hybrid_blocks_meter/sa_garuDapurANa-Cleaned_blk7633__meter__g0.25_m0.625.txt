@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7633 | label: meter | g:0.25 m:0.625 ---
+
+āyāti tena kartavyaṃ majjanaṃ ghṛkuṇḍake ।
+jātakarmādisaṃskārāḥ kartavyāḥ punareva tu ।।

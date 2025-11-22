@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1882 | label: meter | g:0.307 m:0.623 ---
+
+tvamatra sanmānasasārathī rathī sva eva deho guṇasūratho rathaḥ ।
+arūkṣatākṣo damadānacakravān samanvitaḥ puṇyamanīṣayeṣayā ।।

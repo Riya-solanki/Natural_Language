@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 55 | label: meter | g:0.25 m:0.625 ---
+
+jvarādatyuṣṇatā raukṣāt kaphaśca vardhate yathā ।
+guṇācārasvabhāvaiḥ syurduṣṭā na parivartitāḥ ।।

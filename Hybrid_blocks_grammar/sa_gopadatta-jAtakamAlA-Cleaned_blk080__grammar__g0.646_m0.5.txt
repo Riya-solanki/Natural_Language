@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 80 | label: grammar | g:0.646 m:0.5 ---
+
+prakṛtiruciravṛttāḥ sādhavo nānuvṛttāḥ suca mānāṃ vāṅmadhūnāṃ nimittam । yad anayagahanāntarvartināṃ vyasanaśaraśatānāṃ lakṣyatām āgato aham ।।

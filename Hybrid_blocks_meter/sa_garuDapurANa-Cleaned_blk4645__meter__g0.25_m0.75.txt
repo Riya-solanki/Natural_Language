@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4645 | label: meter | g:0.25 m:0.75 ---
+
+anīrṇāmayāścāpyanye jāyante malasaṃcayāt ।
+ūrdhvādho vāyavo ruddhvā vyākulāvipravāhiṇī? ।।

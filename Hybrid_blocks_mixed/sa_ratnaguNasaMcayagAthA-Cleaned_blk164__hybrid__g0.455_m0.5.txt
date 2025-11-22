@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 164 | label: hybrid | g:0.455 m:0.5 ---
+
+sthaviro subhūti paripṛcchati lokanāthaṃ araṇāya liṅga bhaṇahī guṇasāgarāṇām 
+avivartiyā yatha bhavanti mahānubhāvā tāṃ vyākuruṣva jinaguṇāna pradeśamātram ।।

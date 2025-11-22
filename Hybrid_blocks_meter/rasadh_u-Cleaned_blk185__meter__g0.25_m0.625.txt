@@ -1,0 +1,10 @@
+--- source: rasadh_u-Cleaned.txt | block: 185 | label: meter | g:0.25 m:0.625 ---
+
+pattraṃ tāmrasya cūrṇaṃ vā kṛtvā muñcetpṛthak sudhīḥ ।
+śuddhagandhakacūrṇaṃ ca tāmrācca dviguṇīkṛtam ।।
+kṣuṇṇaṃ rasena kumāryā dugdhena tadasaṃbhave ।
+tasya pūpādvayasyāntaḥ prakṣipet tāmrapattrakam ।।
+śarāvasampuṭasyāntastat kṣiptvā lipya mṛtsnayā ।
+saṃdhiṃ vastramṛdā liptvā kaṭāhe tatkṣipet puṭam ।।
+chāṇakāni kaṭāhītat kṣiptvāgniṃ jvālayettataḥ ।
+jvalite śītalībhūte tāmraṃ grāhyaṃ mṛtaṃ budhaiḥ ।।

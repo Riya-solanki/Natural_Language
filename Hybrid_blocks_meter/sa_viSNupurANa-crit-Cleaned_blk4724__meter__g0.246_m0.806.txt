@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4724 | label: meter | g:0.246 m:0.806 ---
+
+vilāsivākyapāneṣu nāgarīṇāṃ kṛtāspadam 
+cittam asya kathaṃ bhūyo grāmyagopīṣu yāsyati ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1003 | label: meter | g:0.25 m:0.5 ---
+
+sa gādhir abhavad rājā maghavān kauśikaḥ svayam 
+viśvāmitras tu gādheyo rājā viśvarathaś ca ha ।।

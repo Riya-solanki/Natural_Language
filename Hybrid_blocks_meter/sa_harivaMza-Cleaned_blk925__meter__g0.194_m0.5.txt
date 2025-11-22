@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 925 | label: meter | g:0.194 m:0.5 ---
+
+evam uktvā yaduṃ tāta śaśāpainaṃ sa manyumān 
+arājyā te prajā mūḍha bhavitrīti narādhipa ।।

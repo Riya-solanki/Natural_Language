@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 88 | label: grammar | g:0.562 m:0.5 ---
+
+sabhasmakam āhavanīyaṃ dakṣiṇena dakṣiṇāgniṃ parihṛtya gārhapatyasyāyatane pratiṣṭhāpya tata āhavanīyaṃ praṇayet ।

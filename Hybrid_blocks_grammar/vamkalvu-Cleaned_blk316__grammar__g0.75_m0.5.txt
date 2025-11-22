@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 316 | label: grammar | g:0.75 m:0.5 ---
+
+nanu mālāśabdo'nyatrāpi dṛśyate । yathā, ratnamālā, śabdamāleti । satyam । sa tāvadupacaritasya prayogaḥ । nirupapado hi mālāśabdaḥ puṣparacanāviśeṣamevābhidhatta iti ।।

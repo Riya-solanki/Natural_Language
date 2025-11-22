@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 493 | label: meter | g:0.25 m:0.908 ---
+
+nārāyaṇa uvāca ।
+evaṃ bhaviṣyatyasura varamanyaṃ yamicchasi ।
+taṃ vṛṇīṣva mahābāho pradāsyāmyavicārayan ।।

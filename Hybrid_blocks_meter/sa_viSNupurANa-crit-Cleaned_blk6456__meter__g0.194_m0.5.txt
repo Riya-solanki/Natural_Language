@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6456 | label: meter | g:0.194 m:0.5 ---
+
+śabdādibhiś ca sahitaṃ brahmāṇḍam akhilaṃ dvija 
+meror ivāṇur yasyaitad yanmayaṃ ca dvijottama ।।

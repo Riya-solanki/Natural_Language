@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3104 | label: hybrid | g:0.25 m:0.387 ---
+
+athavajrapāṇirmahābodhisatvaḥ sarvatathāgatamaṇḍalaśuddhisiddhiguhyatantramudājahāra । tatredaṃ sarvatathāgatacakraśuddhisiddhiguhyatantraṃ bhavati । 
+dharmacakrasamākāraṃ kuryādvā guhyamaṇḍalaṃ ।
+mudrā bhāryā parivṛtaṃ tatra buddhanniveśayet ।।

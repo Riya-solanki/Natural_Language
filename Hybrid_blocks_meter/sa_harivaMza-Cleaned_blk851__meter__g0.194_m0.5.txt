@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 851 | label: meter | g:0.194 m:0.5 ---
+
+tasya tat prāpya duṣprāpyam aiśvaryaṃ munisatkṛtam 
+vibabhrāma matis tāta vinayād anayāhṛtā ।।

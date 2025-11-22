@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 313 | label: grammar | g:0.726 m:0.299 ---
+
+indriyārthasaṃnikarṣasya grahaṇaṃ nātmamanasoḥ saṃnikarṣasyeti, ekadā khalvayaṃ prabodhakālaṃ praṇidhāya suptaḥ praṇidhānavaśāt prabudhyate, yadā tu tīvrau dhvanisparśauṃ prabodhakāraṇaṃ bhavatastadāprasuptasyendriyārthasaṃnikarṣanimittaṃ prabodhajñānamutpadyate tatra na jñāturmanasaś ca saṃnikarṣasya prādhānyaṃ bhavati, kiṃ tarhi ? indriyārthayoḥ saṃnikarṣasyanahyatmā jijñāsamānaḥ prayatnena manastadā prerayatīti।
+ekadā khalvayaṃ viṣāyāntarāvyāsaktamanāḥ saṃkalpavaśād viṣayāntaraṃ jijñāsamānaḥ prayatnapreritena manasā indriyaṃ saṃyojya yad viṣayāntaraṃ jānīte, yadā tu khalvasya niḥsaṃkalpasya nirjijñāsasya ca vyāsaktamanaso bāhyaviṣayopanipātanād jñānamutpadyate tadendriyārthasaṃnikarṣasya prādhānyam na hyatrāsau jijñāsamānaḥ prayatnena manaḥ prerayatīti।
+prādhānyāccendrinayārthasaṃnikarṣasya grahaṇaṃ kāryaṃ guṇatvānnātmamanasoḥ saṃnikarṣasyeti ।।

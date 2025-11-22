@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2875 | label: meter | g:0.194 m:0.75 ---
+
+pañcamudrā bhaved devi pañcakāraṇakaṃ tataḥ 
+bhūṣito hṛdi tiṣṭheta pañcamudrāvyavasthitaḥ ।।

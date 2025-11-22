@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 392 | label: grammar | g:0.75 m:0.5 ---
+
+yatra yathāvasthita eva vyavahāre pratyabhijñāmātrāc chivatālābhaḥ । sa ayam avakra evābhinavo mārgaḥ sākṣātkṛtaparameśvarabhaṭṭārakākārair bhaṭṭaśrīsomānandapādaiḥ śivadṛṣṭināmni prakaraṇe nirdiṣṭo mayā yuktinibandhanena hṛdayaṃgamīkṛtaḥ । etat pariśīlanena śivatāveśāj jīvann eva mukto bhavati ।।

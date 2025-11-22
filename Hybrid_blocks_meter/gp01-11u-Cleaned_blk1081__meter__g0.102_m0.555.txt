@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 1081 | label: meter | g:0.102 m:0.555 ---
+
+[] atha kathakaḥ kathā-samāpanam uvāca,
+īdṛk kautukavān putras tava gopa-narādhipa ।
+vatsādi-trayam āninye līlayā yas tu pañcatām ।। [anuṣṭubh]

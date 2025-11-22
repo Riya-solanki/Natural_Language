@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8624 | label: meter | g:0.275 m:0.797 ---
+
+śrīviṣṇuruvāca ।
+svakulaṃ pīḍayetpetaḥ paracchidreṇa pīḍayet ।
+jīvansa dṛśyate snehī mṛto duṣṭatvamāpnuyāt ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2915 | label: meter | g:0.306 m:0.5 ---
+
+tena tvāmabhiṣiñcāmi pāvamānyaḥ punantu te ।
+bhagaṃ tu varuṇo rājā bhagaṃ sūryo bṛhaspatiḥ ।।

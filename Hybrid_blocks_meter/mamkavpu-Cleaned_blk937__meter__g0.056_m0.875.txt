@@ -1,0 +1,10 @@
+--- source: mamkavpu-Cleaned.txt | block: 937 | label: meter | g:0.056 m:0.875 ---
+
+{phullukkaraṃ kalamakūraṇihaṃ vahanti
+je sindhuvāraviḍavā maha vallahā de ।
+je gālidassa mahisīdahiṇo saricchā
+de kiṃ ca muddhaviaillapasūṇapuñjā ।।}
+[puṣpotkaraṃ kalamabhaktanibhaṃ vahanti
+ye sindhuvāraviṭapā mama vallabhāste ।
+ye gālitasya mahiṣīdaghnaḥ sadṛkṣā
+stekiṃ ca mugdhavicakilaprasūnapuñjāḥ ।।]

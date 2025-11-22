@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 643 | label: meter | g:0.316 m:0.5 ---
+
+grīvābhaṅgābhirāmaṃ muhuranupatati syandane dattadṛṣṭiḥ paścārdhena praviṣṭaḥ śarapatanabhayād bhūyasā pūrvakāyam ।
+darbhairardhāvalīḍhaiḥ śramavivṛtamukhabhraṃśibhiḥ kīrṇavartmā paśyodagraplutatvādviyati bahutaraṃstokamurvyāṃ prayāti ।।

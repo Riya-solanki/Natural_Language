@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 928 | label: meter | g:0.078 m:0.595 ---
+
+eṣu vyastasamasteṣu kṛtayatnasya yoginaḥ 
+vibhānti śaktayo viśvaṃ vyāpya bhānoriva tviṣaḥ ।। MT

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 195 | label: meter | g:0.194 m:0.75 ---
+
+rājasūyābhiṣiktaś ca pṛthur ebhir narādhipaiḥ 
+vedadṛṣṭena vidhinā rājarājyena rājabhiḥ ।।

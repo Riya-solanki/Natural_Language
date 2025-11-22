@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3125 | label: meter | g:0.306 m:0.5 ---
+
+tataḥ prabhṛti siddhātmā sādhayan siddhayaḥ sadā ।
+yadā na laghu siddhiḥ syāt sidhyante tatvacodanair ।।

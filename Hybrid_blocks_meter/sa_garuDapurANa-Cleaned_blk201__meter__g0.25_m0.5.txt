@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 201 | label: meter | g:0.25 m:0.5 ---
+
+asṛjanmanasā dakṣaḥ prajāḥ pūrvaṃ caturvodhāḥ ।
+nāvardhanta ca tāstasya apadhyātā hareṇa tu ।।

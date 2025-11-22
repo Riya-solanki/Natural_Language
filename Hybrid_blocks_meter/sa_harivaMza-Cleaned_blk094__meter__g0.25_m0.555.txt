@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 94 | label: meter | g:0.25 m:0.555 ---
+
+manasā tv eva bhūtāni pūrvam evāsṛjat prabhuḥ 
+ṛṣīn devān sagandharvān asurān atha rākṣasān ।। 
+yakṣabhūtapiśācāṃś ca vayaḥpaśumṛgāṃs tathā । 
+yadāsya yatamānasya na vyavardhanta vai prajāḥ 
+apadhyātā bhagavatā mahādevena dhīmatā । 
+tataḥ saṃcintya tu punaḥ prajāhetoḥ prajāpatiḥ ।।

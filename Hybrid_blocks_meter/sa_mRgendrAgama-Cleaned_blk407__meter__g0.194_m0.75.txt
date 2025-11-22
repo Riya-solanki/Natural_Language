@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 407 | label: meter | g:0.194 m:0.75 ---
+
+anantastrikalo goptā kṣemīśo brahmaṇaḥ patiḥ 
+dhruvatejodhiṣau rudrau gahaneśaśca viśvarāṭ ।।

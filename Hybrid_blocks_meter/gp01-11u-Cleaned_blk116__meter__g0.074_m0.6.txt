@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 116 | label: meter | g:0.074 m:0.6 ---
+
+kvacit kuñjāḥ sadma-bhramakara-rucais tair avayavaiḥ
+kvacic citraiḥ sadmāny api tulita-kuñjāni śataśaḥ ।
+jalāni kvāpy udyat-kamala-valitāni pratipadaṃ
+sthalāny apy evaṃ kvāpy atha kim iva kiṃ nirṇaya-padam ।। [śikhariṇī]

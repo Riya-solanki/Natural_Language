@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 491 | label: meter | g:0.172 m:0.956 ---
+
+krodhena, yathā-
+ruṣā samādhmāta-mṛgendra-tuṅgaṃ
+na kevalaṃ tasya vapuś cakampe ।
+sa-sindhu-bhūbhṛd-gaganā ca pṛthvī
+nipātitolkā ca sa-tārakā dyauḥ ।।

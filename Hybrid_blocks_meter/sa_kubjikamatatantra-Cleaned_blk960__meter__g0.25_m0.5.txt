@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 960 | label: meter | g:0.25 m:0.5 ---
+
+eko doṣo hi mantrasya japyamānasya jāyate 
+jarā mṛtyuś ca dāridryaṃ vyādhayo vividhāḥ priye ।।

@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3044 | label: meter | g:0.194 m:0.521 ---
+
+punaḥ punaś ca sa balī prāhiṇot pārśvataḥ khurān 
+kṛṣṇasya dānavo ghoraṃ prahāram amitaujasaḥ । 
+vaktreṇa cāsya ghoreṇa tīkṣṇadaṃṣṭrāyudhena vai 
+adaśad bāhuvivaraṃ kṛṣṇasya ruṣito hayaḥ ।।

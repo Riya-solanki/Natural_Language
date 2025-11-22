@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 726 | label: meter | g:0.306 m:0.5 ---
+
+mūleṣu kandaḥ pravaro yathokto vyādhiṣvajīrṇaṃ kṣaṇadācarendra ।
+śveteṣu dugdhaṃ pravaraṃ yathaiva kārpāsikaṃ prāvaraṇeṣu yadvat ।।

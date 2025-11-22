@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10191 | label: hybrid | g:0.5 m:0.5 ---
+
+atyādaraṃ darśayatīva sā tu īḍe viṣṇuṃ bhaktisaṃvardhitāpi ।
+ceṣṭādirūpeṇa tadā na kiñcidāsīdvinā viṣṇumatha śriyaṃ ca ।।

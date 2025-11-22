@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2214 | label: meter | g:0.25 m:0.5 ---
+
+ye ca tvāṃ matprabhāvajñāḥ praṇamiṣyanti mānavāḥ 
+na teṣāṃ durlabhaṃ kiṃcit putrato dhanato api vā ।।

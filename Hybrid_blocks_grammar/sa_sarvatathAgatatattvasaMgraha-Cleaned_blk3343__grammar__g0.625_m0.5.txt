@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3343 | label: grammar | g:0.625 m:0.5 ---
+
+ākāśe ratnasaṃkāśā hiraṇyādiṣu sādṛśāḥ । yadā tu paśyate khe tu khacakṣuḥ sidhyate sade- ।

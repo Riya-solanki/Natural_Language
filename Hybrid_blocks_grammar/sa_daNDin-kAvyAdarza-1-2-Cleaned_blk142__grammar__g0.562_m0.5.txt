@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 142 | label: grammar | g:0.562 m:0.5 ---
+
+mṛgekṣaṇāṅkaṃ te vaktraṃ mṛgeṇaivāṅkitaḥ śaśī tathāpi sama evāsau notkarṣīti caṭūpamā ।।

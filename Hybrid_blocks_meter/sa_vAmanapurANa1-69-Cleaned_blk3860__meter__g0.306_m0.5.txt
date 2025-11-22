@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3860 | label: meter | g:0.306 m:0.5 ---
+
+yadakṣaraṃ brahma vadanti sarvagaṃ niśamya yaṃ mṛtyumukhāt pramucyate ।
+tamīśvaraṃ tṛptamanuttamairguṇaiḥ parāyaṇaṃ viṣṇumupaimi sāśvatam ।।

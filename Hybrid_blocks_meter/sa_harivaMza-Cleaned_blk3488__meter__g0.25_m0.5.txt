@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3488 | label: meter | g:0.25 m:0.5 ---
+
+tayoḥ prabhāvaṃ sa jñātvā guruḥ provāca hṛṣṭavat 
+putram icchāmy ahaṃ dattaṃ yo mṛto lavaṇāmbhasi ।।

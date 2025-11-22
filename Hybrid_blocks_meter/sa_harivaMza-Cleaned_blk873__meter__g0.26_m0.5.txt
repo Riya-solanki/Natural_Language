@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 873 | label: meter | g:0.26 m:0.5 ---
+
+tayā sahāvasad rājā daśa varṣāṇi pañca ca 
+pañca ṣaṭ sapta cāṣṭau ca daśa cāṣṭau ca bhārata ।।

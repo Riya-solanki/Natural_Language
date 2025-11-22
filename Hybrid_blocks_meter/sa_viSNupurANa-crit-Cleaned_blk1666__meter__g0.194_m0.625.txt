@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1666 | label: meter | g:0.194 m:0.625 ---
+
+brāhmaṇāḥ kṣatriyā vaiśyā madhye śūdrāś ca bhāgaśaḥ 
+ijyāyudhavaṇijyādyair vartayanto vyavasthitāḥ ।।

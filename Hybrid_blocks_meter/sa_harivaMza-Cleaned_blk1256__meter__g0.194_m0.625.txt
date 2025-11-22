@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1256 | label: meter | g:0.194 m:0.625 ---
+
+nābhyaraṇyāṃ samutpannaṃ yasya paitāmahaṃ gṛham 
+ekārṇavagate loke tat paṅkajam apaṅkajam ।।

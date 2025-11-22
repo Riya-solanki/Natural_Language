@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 434 | label: meter | g:0.25 m:0.5 ---
+
+amūni māṃsāni saśoṇitāni dhṛtāni lokasya hitārthameva ।
+yadyātitheyatvamupeyuradya mahodayaḥ so abhyudayo mama syāt ।।

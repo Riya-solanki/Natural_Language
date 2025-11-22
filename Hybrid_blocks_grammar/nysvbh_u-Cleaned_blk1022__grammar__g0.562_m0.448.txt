@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1022 | label: grammar | g:0.562 m:0.448 ---
+
+asataḥ sadutpadyate ityayaṃ pakṣaḥ, kasmāt ?, upamṛdya prādurbhāvāt ।
+upamṛdya bījamaṅkura utpadyate nānupamṛdya, na ced bījopamarde aṅkurakāraṇam ? anupamardepi bījasyāṅkurotpattiḥ syāditi ।।

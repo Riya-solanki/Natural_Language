@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 40 | label: meter | g:0.022 m:0.791 ---
+
+{tāpasī} - saṃtuṭṭhatapassijaṇaṃ idaṃ assamapadaṃ 
+āantueṇa imiṇā hodavvaṃ 
+[santuṣṭatapasvijanam idam āśramapadam । āgantukenānena bhavitavyam । ]

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10179 | label: meter | g:0.25 m:0.625 ---
+
+bāhyopādhirlaye yāti muktāvanyasya saṃśthitiḥ ।
+sarvopādhivi nāśe hi pratibiṃbaḥ kathaṃ bhavet ।।

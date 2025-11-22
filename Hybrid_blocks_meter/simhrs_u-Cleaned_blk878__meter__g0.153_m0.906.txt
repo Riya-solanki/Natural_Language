@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 878 | label: meter | g:0.153 m:0.906 ---
+
+yathā-
+mayy eva vismaraṇa-dāruṇa-citta-vṛttau
+vṛttaṃ rahaḥ-praṇayam apratipadyamāne ।
+bhedād bhruvoḥ kuṭilayor atilohitākṣyā
+bhagnaṃ śarāsanam ivātiruṣā smarasya ।।

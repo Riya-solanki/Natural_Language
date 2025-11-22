@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 416 | label: meter | g:0.433 m:0.705 ---
+
+līlāskhalaccaraṇacārugatāgatāni tiryagvivartitavilocanavīkṣitāni ।
+vāmabhruvāṃ mṛdu ca mañju ca bhāṣitāni nirmāyam āyudham idaṃ makaradhvajasya ।।

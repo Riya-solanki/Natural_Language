@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 392 | label: grammar | g:0.552 m:0.5 ---
+
+stanodbhedaḥ kiṃcit tyajati tanutāyāḥ paricayaṃ tathā madhyo bhāgas trivalivalayebhyaḥ spṛhayati ।
+nitambe ca svairaṃ vilasati vilāsavyasanitā mṛgākṣyāḥ pratyaṅgaṃ kṛtapadam ivānaṅgalaḍitam ।।

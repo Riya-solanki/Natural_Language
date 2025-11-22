@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 387 | label: meter | g:0.25 m:0.5 ---
+
+ekadā nihate raudro hiraṇyakaśipau mune ।
+abhiṣiktastadā rājye prahlādau nāma dānavaḥ ।।

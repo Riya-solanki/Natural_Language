@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 43 | label: hybrid | g:0.498 m:0.399 ---
+
+-iti ।
+tatkiṃ marīciṣu toyanirbhāsapratyayastattvagocaraḥ ? tathā ca samīcīna iti na bhrānto nāpi bādhyeta ।
+addhā ! na bādhyeta yadi marīcīnayaṃ atoyātmatattvānatoyātmanā gṛhṇīyāt ।
+toyātmanā tu gṛhṇan kathama bhrāntaḥ, kathaṃ vā abādhyaḥ ? hanta ! toyābhāvātmanāṃ marīcināṃ toyabhāvātmatvaṃ tāvanna sat, teṣāṃ toyābhāvādabhedena toyabhāvātmatānupapatteḥ ।
+nāpyasat; vastvantarameva hi vastvantarasyāsattvamāsthīyate ।

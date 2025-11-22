@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 164 | label: grammar | g:0.604 m:0.5 ---
+
+ekādaśīm upoṣyātha dvādaśīm apy upoṣayet na tatra vidhilopaḥ syād ubhayor devatā hariḥ ।।

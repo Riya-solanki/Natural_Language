@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7751 | label: grammar | g:0.573 m:0.5 ---
+
+na nityadānaṃ na gavāhnikaṃ kṛtaṃ pustaṃ ca dattaṃ na hi vedaśāstrayoḥ ।
+purāṇadṛṣṭo na hi sevito adhvā śarīra he nistara yattvayā kṛtam ।।

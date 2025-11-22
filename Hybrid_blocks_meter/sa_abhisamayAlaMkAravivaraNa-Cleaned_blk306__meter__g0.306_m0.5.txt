@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 306 | label: meter | g:0.306 m:0.5 ---
+
+lakṣyate yena tajjñeyaṃ lakṣaṇaṃ trividhaṃ ca tat ।
+jñānaṃ viśeṣaḥ kāritraṃ svabhāvo yaśca lakṣyate ।।

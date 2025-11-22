@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3924 | label: grammar | g:0.708 m:0.5 ---
+
+tasmād devabhūtiḥ । ity ete daśa śuṅgā dvādaśottaraṃ varṣaśataṃ pṛthivīṃ bhokṣyanti । tataḥ kaṇvān eṣā bhūr yāsyati ।।

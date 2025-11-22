@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1025 | label: meter | g:0.216 m:0.646 ---
+
+yathā-
+līlā-tāmarasāhato' nya-vanitā-niḥśaṅka-daṣṭādharaḥ
+kaścit kesara-dūṣitekṣaṇa iva vyāmīlya netre sthitaḥ ।
+mugdhā kuḍmalitānanena dadatī vāyuṃ sthitā tasya sā
+bhrāntyā dhūrtatayātha sā natim ṛte tenāniśaṃ cumbitā ।।

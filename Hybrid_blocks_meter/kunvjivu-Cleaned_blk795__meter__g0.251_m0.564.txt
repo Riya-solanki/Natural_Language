@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 795 | label: meter | g:0.251 m:0.564 ---
+
+ityādi lakṣaṇāntarasyāsaṃbhavāt udāharaṇamātrādeva pṛthaṅ nopapadyate, lakṣaṇānantyaprasaṅgāt, punarapi rūpakāntarāvatāropapatteścānavasthāpravartanāt ।
+evaṃ rūpakaṃ vicārya tatsadṛśasāmyanirvacanāmaprastutapraśaṃsāṃ prastauti

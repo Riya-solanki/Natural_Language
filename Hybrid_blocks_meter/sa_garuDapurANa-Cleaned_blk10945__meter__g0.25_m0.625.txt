@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10945 | label: meter | g:0.25 m:0.625 ---
+
+atosau viṣṇubhaktaśca kīrtito nātra saṃśayaḥ ।
+eṣosau sarvajīvānāṃ cittasaṃjñānameva ca ।।

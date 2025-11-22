@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 675 | label: meter | g:0.102 m:0.555 ---
+
+putrāḥ senajitaś cāsaṃś catvāro lokasaṃmatāḥ 
+ruciraḥ śvetakāśyaś ca mahimnāras tathaiva ca 
+vatsaś cāvantako rājā yasyaite pari vatsakāḥ ।।

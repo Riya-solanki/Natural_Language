@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11430 | label: hybrid | g:0.521 m:0.5 ---
+
+nṛṇāṃ sarveṣāṃ śrīnivāso haristu kalau svarūpaṃ śrīnivāsasya devī ।
+na mānuṣāḥ pravijānanti sarve yataḥ kalau tāmasā rājasāstu ।।

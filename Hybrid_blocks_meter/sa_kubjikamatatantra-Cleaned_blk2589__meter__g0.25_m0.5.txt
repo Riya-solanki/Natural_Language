@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2589 | label: meter | g:0.25 m:0.5 ---
+
+duḥkhito ahaṃ virakto ahaṃ bhraṣṭo ahaṃ samayojjhitaḥ 
+gṛhṇantu devatāḥ kṣipraṃ mayā dattāṃ svakāṃ tanum ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8955 | label: hybrid | g:0.5 m:0.5 ---
+
+tena viddho mṛgo atīva bāṇena sudṛḍhena ca ।
+bāṇamādāya taṃ tasya sa vane adarśanaṃ yayau ।।

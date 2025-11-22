@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 619 | label: grammar | g:0.838 m:0.25 ---
+
+śarīragrahaṇena śarīrendriyabuddhivedanāsaṃghātaḥ prāṇibhūto gṛhyate, prāṇibhūtaṃ śarīraṃ dahataḥ prāṇihiṃsākṛtapāpaṃ pātakamityucyate tasyābhāvaḥ tatphalena karturasaṃbandhāt akartuśca saṃbandhāt ।
+śarīrendriyabuddhivedanāprabandhe khalvanyaḥ saṃghāta utpadyate anyo nirudhyate utpādanirodhasaṃtatibhūtaḥ prabandho nānyatvaṃ bādhate dehādisaṃghātasyānyatvādhiṣṭhānatvāt anyatvādhiṣṭhāno hyasau prakhyāyate iti, evaṃ sati yo dehādisaṃghātaḥ prāṇibhūto hiṃsā karoti nāsau hiṃsāphalena saṃbadhyate yaśca saṃbadhyate na tena hiṃsā kṛtā, tadevaṃ sattvabhede kṛtahānamakṛtābhyāgamaḥ prasajyate, sati ca sattvotpāde sattvanirodhe cākarmanimittaḥ sattvasargaḥ prāpnoti tatra muktyartho brahmacaryavāso na syāt।
+tad yadi dehādisaṃghātamātraṃ sattvaṃ syāt śarīradāhe pātakaṃ na bhavet aniṣṭaṃ caitat tasmād dehādisaṃghātavyatirikta ātmā nitya iti ।।

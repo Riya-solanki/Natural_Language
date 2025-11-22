@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6054 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ saṃpūjya te vyāsaṃ praśaśaṃsuḥ punaḥ punaḥ 
+yathāgataṃ dvijā jagmur vyāsoktikṣatasaṃśayāḥ ।।

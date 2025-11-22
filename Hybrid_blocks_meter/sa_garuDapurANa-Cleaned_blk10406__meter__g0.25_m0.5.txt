@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10406 | label: meter | g:0.25 m:0.5 ---
+
+uṣā nāma tathā jajñe budhasyānantaraṃ khaga ।
+uṣānāmā bhimānī tu hyaśvibhāryā prakīrtitā ।।

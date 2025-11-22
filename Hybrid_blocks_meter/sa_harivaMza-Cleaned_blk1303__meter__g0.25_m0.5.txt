@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1303 | label: meter | g:0.25 m:0.5 ---
+
+yat pṛcchasi mahārāja divyāṃ puṇyāṃ kathāṃ śubhām 
+kimarthaṃ bhagavān viṣṇur vasudevakule abhavat ।। 
+sureśo ripusūdanaḥ ।devalokaṃ samutsṛjya ।
+tat te ahaṃ saṃpravakṣyāmi śṛṇu sarvam aśeṣataḥ 
+vāsudevasya māhātmyaṃ caritaṃ ca mahādyuteḥ ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1792 | label: grammar | g:0.553 m:0.447 ---
+
+pātuṃ karṇarasāyanaṃ racayituṃ vācaḥ satāṃ saṃmatāṃ vyutpattiṃ paramām avāptum avadhiṃ labdhuṃ rasasrotasaḥ ।
+bhoktuṃ svāduphalaṃ ca jīvitataror yady asti te kautukaṃ tad bhrātaḥ śṛṇu rājaśekharakaveḥ sūktīḥ sudhāsyandinīḥ ।।
+śaṃkaravarmaṇaḥ

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8182 | label: meter | g:0.25 m:0.5 ---
+
+nimantritāstu ye viprāḥ śrāddhapūrvadineḥ khaga ।
+praviśya pitarasteṣu bhuktvā yānti svamālayam ।।

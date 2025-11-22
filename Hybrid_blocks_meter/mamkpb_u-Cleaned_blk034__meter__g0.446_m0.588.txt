@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 34 | label: meter | g:0.446 m:0.588 ---
+
+atra niṣpandatvena, āśvastatvam, tena ca janarahitatvam, ataḥ saṃketasthānametaditi kayācit kaṃcitpratyucyate ।
+athavā mithyā vadasi na tvamatrāgato abhūriti vyajyate ।।
+vācakādīnāṃ krameṇa svarūpamāha

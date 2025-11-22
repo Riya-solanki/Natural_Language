@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 307 | label: grammar | g:0.75 m:0.5 ---
+
+tataḥ śiṣyāya brūyāt । "adya prabhṛtyahante vajrapāṇiryatte ahaṃ brūyāmidaṃ kuru tatkartavyaṃ, na ca tvayāhamavamantavyo, mā te viṣamāparihāreṇa kālakriyāṃ kṛtvā narapatanaṃ syād" iti uktvā, vaktavyaṃ brūhi, "sarvatathāgatā adhitiṣṭhanto vajrasattvo me āviśatu" ।

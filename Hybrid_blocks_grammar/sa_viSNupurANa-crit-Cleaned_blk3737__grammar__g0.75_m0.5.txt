@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3737 | label: grammar | g:0.75 m:0.5 ---
+
+kroṣṭoś ca yaduputrasyātmajo vṛjinīvān । tataś ca svāhis tato ruṣaṅkuḥ । ruṣaṅkoś citrarathaḥ । tattanayaḥ śaśabinduś caturdaśamahāratnaś cakravarty abhavat । tasya ca śatasahasraṃ patnīnām abhavat । daśalakṣasaṃkhyāś ca putrāḥ ।।

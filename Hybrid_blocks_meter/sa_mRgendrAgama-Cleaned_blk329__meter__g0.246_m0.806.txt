@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 329 | label: meter | g:0.246 m:0.806 ---
+
+taṃ pītvā pakṣisarpākhumṛgaśākhāmṛgādayaḥ 
+babhūvuḥ kāñcanā ye ca sattvāstasyāṃ kṛtāplavāḥ ।।

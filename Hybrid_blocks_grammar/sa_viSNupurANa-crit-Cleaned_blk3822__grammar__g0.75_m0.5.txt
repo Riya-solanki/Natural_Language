@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3822 | label: grammar | g:0.75 m:0.5 ---
+
+śūrasya kuntir nāma sakhābhavat । tasmai cāputrāya pṛthām ātmajāṃ vidhinā śūro dattavān । tāṃ ca pāṇḍur uvāha । tasyāṃ ca dharmānilaśakrair yudhiṣṭhirabhīmārjunākhyās trayaḥ putrāḥ samutpāditāḥ । pūrvam anūḍhāyāś ca bhagavatā bhāsvatā kānīnaḥ karṇo nāma putro ajanyata ।।

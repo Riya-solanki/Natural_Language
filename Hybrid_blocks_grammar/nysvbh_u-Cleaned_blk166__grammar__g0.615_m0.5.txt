@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 166 | label: grammar | g:0.615 m:0.5 ---
+
+yathā nāsata atmalābhaḥ, na sata ātmahānam, niratiśayāścetanāḥ dehendriyamanaḥsaṃ viṣayeṣu tattatkāraṇeṣu ca viśeṣa iti sāṅkhcānām ।
+puruṣakarmādinimitto bhūtasargaḥ, karmahetavo doṣāḥ pravṛttiśca, svaguṇaviśiṣṭāścetanāḥ, asadutpadyate utpannaṃ nirudhyata iti yogānām ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 273 | label: hybrid | g:0.497 m:0.5 ---
+
+ākāśi pakṣi viharāti na co patāti dakamadhyi matsya viharāti na co marāti 
+emeva dhyānabalapāragu bodhisattvo śūnyāvihāri na ca nirvṛti prāpuṇāti ।।

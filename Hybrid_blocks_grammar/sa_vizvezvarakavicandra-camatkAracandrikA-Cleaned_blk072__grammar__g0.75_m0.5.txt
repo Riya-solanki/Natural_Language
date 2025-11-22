@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 72 | label: grammar | g:0.75 m:0.5 ---
+
+kṛto racita ayastambhasya śubhāvahavidhijāḍyasya nirbhedo nivāraṇaṃ yena saḥ kṛtāyastambhanirbhedaḥ । daivānukūlyasaṃpādanacatura ityarthaḥ । bhaktapraṅlādapoṣakaḥ sevakasantoṣavardhanaḥ rājaśekharo bhūpālamauliḥ narasiṃhaḥ śrīsiṅgabhūpālo rājata ityasiddhayā prākaraṇiker'the pratipādite ye ayaṃ kṛtalohastambhabhedanasya prahlādābhidhānabhaktapoṣakasya candrakalādhāriṇo bhagavataḥ śrīnṛsiṃhasya pratītistayā śabdaśaktimūlayā nāyakakaṇṭhīravakapaṭakaṇṭhīravayorupamālaṅkāradhvaniranusandhīyata iti vyañjakamidam ।

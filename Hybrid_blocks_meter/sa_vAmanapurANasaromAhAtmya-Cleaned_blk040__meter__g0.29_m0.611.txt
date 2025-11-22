@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 40 | label: meter | g:0.29 m:0.611 ---
+
+ṛṣaya ūcuḥ
+devānāṃ brūhi naḥ karma yadvṛttāste parājitāḥ ।
+kathaṃ devātidevo asau viṣṇurvāmanatāṃ gataḥ ।।

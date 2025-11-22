@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1780 | label: grammar | g:0.573 m:0.5 ---
+
+pāṇipreṅkhaṇato viśīrṇaśirasaḥ svedāvarugṇaśriyas tā ity ākṛtileśato manasi naḥ kiṃcit pratītiṃ gatāḥ ।
+vaicitryāt punar uktalāñchanabhṛtaḥ khaṇḍena vākyena vā vyākṣepaṃ kathayanti pakṣmaladṛśo lekhākṣaraśreṇayaḥ ।।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 381 | label: grammar | g:0.667 m:0.5 ---
+
+-'viśvajitā yajeta'ityaśrutādhikāramudāharaṇam । tatra asa svargaḥ syātsarvānpratyaviśiṣṭatvāt'iti sarvābhilaṣitasvargakāmanāvānadhikārī kalpitaḥ । evamiha kalpane anityaphalakatvaṃ syāditi bhāvaḥ ।

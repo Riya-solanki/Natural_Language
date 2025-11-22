@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 679 | label: grammar | g:0.552 m:0.5 ---
+
+nirūḍhe sāhitye sarasahṛdayānandasadane vadānye śrīsiṅgakṣitipatilake tiṣṭhati puraḥ ।
+kṛtārthaḥ sarvārthe bhavati bhuvi yaḥ kaścana na cel lalāṭe durlaṃghā duritalipirasyaiva mahatī ।।

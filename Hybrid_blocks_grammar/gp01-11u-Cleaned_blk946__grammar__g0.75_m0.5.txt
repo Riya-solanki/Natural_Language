@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 946 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ bālyam evārabhya vipra-poṣaṇād ātmanas toṣa iti tad ārambhāya stambhamānam āhvānādi-lakṣyeṇa laghu laghu samīpam āsannā sa-rāmaṃ rāmānujaṃ bhujayor gṛhītvā gṛham ānināya ।

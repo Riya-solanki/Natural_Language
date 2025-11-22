@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1118 | label: meter | g:0.25 m:0.5 ---
+
+atraiva pavanatanayocchiṣṭe adhivācini paryāyavakratāprikāraḥ smartavyaḥ ।
+ārya, duṣkaro ayamebhirmakarākarabandhādhyavasāya iti rāmeṇa paryanuyuktasya jāmbavato api vākyam

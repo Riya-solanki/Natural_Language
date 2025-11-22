@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 444 | label: grammar | g:0.61 m:0.212 ---
+
+saṃbandhakaraṇamidam, prasiddhasaṃbandhakathanaṃ hyetat ।
+kathamavagamyate arthāntarakathane bahubhirnivāraṇāt ।
+yo hi kaścit kasmaicit gośabdasyāśvaṃ gavayaṃ vārthamāha tamanye nivārayanti nāyamasyārthaḥ sāsnādimānasyārtha iti, saṃbandhakriyāpakṣe ca devadattādivadyenaiva saṃbandhaḥ kriyate sa evārtha iti nivāraṇaṃ nopapadyate ।
+tasmānna tāvadarvācīnaḥ puruṣā asya śabdasyāyamartha iti vadantopi tatsaṃbandhakartṛtvenāśaṅkanīyāḥ ।
+yadiparamevaṃ syāt sargādikāle bhagavatā prajāpatinā sarvameva sthāvarajaṅgamaṃ dharmādharmau ta sṛṣṭvā saṃvyavahārāya ca śabdānāmarthaiḥ saṃbandhaṃ kṛtvā dharmādharmapratipādanāya ca kṛtasaṃbandhaiḥ padairvedānkṛtvātmajebhyo marīcyādibhyaḥ śabdārthasaṃbandho vedāśca pratipāditāstairapyanyebhyastairapyanyebhya ityevaṃ pūrvapūrvebhyaḥ pratipadyottarottareṣāṃ śabdārthapratipattirvyavahāraśceti ।।

@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 317 | label: grammar | g:0.75 m:0.5 ---
+
+kāryāṇi dvidhā । śabdasparśarūparasagandhāni sūkṣmatvena tanmātrasaṃjñāni pañca, anyonyavyūhena sthūlāni pṛthivyādibuddhīndriyāṇi, vākpāṇipādapāyūpasthākhyāni pañca karmendriyāṇi, manobuddhyahaṅkārā iti tridhāntahkaraṇam iti trayoviṃśatibhedasya kāryakāraṇātmanaḥ prameyasya mūlabhūtaikāvibhāgadaśā prādhānākhyā ।।

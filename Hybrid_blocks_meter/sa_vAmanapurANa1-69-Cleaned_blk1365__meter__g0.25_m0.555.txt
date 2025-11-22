@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1365 | label: meter | g:0.25 m:0.555 ---
+
+menāṃ devāśca śailāya himayuktāya vai daduḥ ।
+tāṃ menāṃ himavāṃllabdhvā prasādād daivateṣvatha ।
+prītimānabhavaccāsau rarāma ca yathecchayā ।।

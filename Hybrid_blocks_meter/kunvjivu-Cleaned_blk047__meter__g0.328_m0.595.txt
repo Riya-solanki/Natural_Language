@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 47 | label: meter | g:0.328 m:0.595 ---
+
+kallolavellitadṛṣaruṣaprahārai ratnānmamūni makarākara māvamaṃsthāḥ ।
+kiṃ kaustubhena bhavato vihito na nāma yācñāprasāritakaraḥ puruṣottamo api ।।

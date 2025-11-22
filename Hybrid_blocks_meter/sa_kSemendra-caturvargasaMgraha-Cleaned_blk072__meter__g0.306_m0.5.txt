@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 72 | label: meter | g:0.306 m:0.5 ---
+
+neyaṃ taruṇyās trivalī taraṅgakusaṅginī rājati romarājiḥ ।
+snātvā gato asyāṃ smarakelivāpyāṃ kalaṅkalekhām apahāya candraḥ ।।

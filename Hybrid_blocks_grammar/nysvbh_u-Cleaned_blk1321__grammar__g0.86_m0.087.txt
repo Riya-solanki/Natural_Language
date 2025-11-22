@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1321 | label: grammar | g:0.86 m:0.087 ---
+
+ubhayenaunityena cānityena sādharmyāt pakṣapratipakṣayoḥ pravṛttiḥ prakriyā, aanityaḥ śabdaḥ prayatnānantarīyakatvād ghaṭavat' ityekaḥ pakṣaṃ pravartayati dvitīyaśca nityasādharmyāt evaṃ ca sati aprayatnānantarīyakatvāt' itiheturanityasādharmyeṇocyamāno na prakaraṇamativartate prakaraṇānativṛtternirṇayānanivartanam, samānaṃ caitannityasādharmyeṇocyamāne hetau, tadidaṃ prakaraṇānativṛttyā pratyavasthānaṃ prakaraṇasamaḥ।
+samānaṃ caitadvaidharmye api ubhayavaidharmyāt prakriyāsiddheḥ prakaraṇasama iti ।।

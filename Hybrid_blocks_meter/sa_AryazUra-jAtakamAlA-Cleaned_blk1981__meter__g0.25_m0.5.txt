@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1981 | label: meter | g:0.25 m:0.5 ---
+
+āpatsu viphalaṃ dhairyaṃ śoke śrutamapārthakam ।
+na hi tadvidyate bhūtamāhataṃ yuanna kampate ।।

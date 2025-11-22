@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1849 | label: meter | g:0.25 m:0.625 ---
+
+viśīryamāṇaiścarṇairmuhurmahurjvalatkukūle narake tathāpare ।
+diśaḥ pradhāvanti tadunmumukṣayā na cāntamāyāntyaśubhasya nāyuṣaḥ ।।

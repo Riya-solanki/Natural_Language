@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4277 | label: meter | g:0.194 m:0.625 ---
+
+bhojarājaḥ śriyā juṣṭaṃ rājamañcaṃ maharddhimat 
+aruroha tataḥ kaṃso vimānaṃ sukṛtī yathā ।।

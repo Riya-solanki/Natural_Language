@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 33 | label: meter | g:0.194 m:0.783 ---
+
+iti kāvyaprakāśe kāvyasya prayojanakāraṇasvarūpaviśeṣanirṇayo nāma
+prathama ullāsaḥ ।।

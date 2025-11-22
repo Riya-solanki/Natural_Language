@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6094 | label: meter | g:0.194 m:0.75 ---
+
+kecid rāsabhavarṇābhā lākṣārasanibhās tathā 
+kecid vaiḍūryasaṃkāśā indranīlanibhāḥ kvacit ।।

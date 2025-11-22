@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 390 | label: grammar | g:0.625 m:0.5 ---
+
+ity āruhya parāṃ koṭiṃ krodho raudrātmatāṃ gataḥ bhīmasya paśyataḥ śatrum ity etad rasavadvacaḥ ।।

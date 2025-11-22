@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1736 | label: meter | g:0.194 m:0.5 ---
+
+vyāptibhāvam ato matvā bhuktvā cāṇḍālajāṃ tanum 
+sa paśyati paraṃ vṛkṣaṃ khecaraṃ maṇḍalodbhavam ।।

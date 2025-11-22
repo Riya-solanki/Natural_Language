@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 774 | label: grammar | g:0.583 m:0.5 ---
+
+[] mātā tan-mukhaṃ dhṛtvā sahāsam āha sma, kim idaṃ ciraṃ nigirann asi?

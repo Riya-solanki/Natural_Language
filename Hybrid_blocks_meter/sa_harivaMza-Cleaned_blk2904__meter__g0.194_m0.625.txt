@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2904 | label: meter | g:0.194 m:0.625 ---
+
+etān sa yādavān sarvān ābhāṣya śṛṇuteti ca 
+ugrasenasuto rājā provāca mathureśvaraḥ ।।

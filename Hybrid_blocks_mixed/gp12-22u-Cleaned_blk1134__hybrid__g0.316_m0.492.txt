@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1134 | label: hybrid | g:0.316 m:0.492 ---
+
+[] madhukaṇṭha uvāca-nūnam etāś ca gargeṇaiva govindād apetāḥ kṛtāḥ ।
+[] snigdhakaṇṭha uvāca-kṛtāḥ, kintu na sākṣāt ।

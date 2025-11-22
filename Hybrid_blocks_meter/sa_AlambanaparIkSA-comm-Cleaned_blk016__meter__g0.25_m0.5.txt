@@ -1,0 +1,3 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 16 | label: meter | g:0.25 m:0.5 ---
+
+adravye asti tataḥ sa hi ।

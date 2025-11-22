@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1442 | label: meter | g:0.0 m:0.75 ---
+
+nista{ha}ṛṇaṃ nihananaṃ kṣaṇanaṃ pariva{ja}ṛnam

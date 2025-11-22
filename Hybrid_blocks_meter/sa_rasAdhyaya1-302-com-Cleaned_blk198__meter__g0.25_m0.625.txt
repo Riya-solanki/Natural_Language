@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 198 | label: meter | g:0.25 m:0.625 ---
+
+tāmrāt sūtaṃ rasāttāmraṃ pātanāya pṛthakkṛtam 
+dvayaṃ tathaiva sampiṣya pīṭhī kāryā ca pūrvavat ।।

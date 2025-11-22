@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2065 | label: meter | g:0.25 m:0.625 ---
+
+tau śaraiḥ sādhuniśitair anyonyam abhijaghnatuḥ 
+na ca tau yuddhavaimukhyaṃ śramaṃ vāpy upajagmatuḥ ।।

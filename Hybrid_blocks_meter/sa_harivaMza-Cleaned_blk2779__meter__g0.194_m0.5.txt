@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2779 | label: meter | g:0.194 m:0.5 ---
+
+sa tu lokas tvayā kṛṣṇa sīdamānaḥ kṛtātmanā 
+dhṛto dhṛtimatā vīra nighnatopadravaṃ gavām ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 200 | label: meter | g:0.25 m:0.625 ---
+
+prajāpatitvaṃ saṃprāpya bhāryā teṣāṃ ca māriṣa ।
+abhavaddhavaśāpena tasyāṃ dakṣo abhavattataḥ ।।

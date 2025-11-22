@@ -1,0 +1,9 @@
+--- source: grasht_u-Cleaned.txt | block: 147 | label: meter | g:0.25 m:0.802 ---
+
+āranāla for jāraṇa
+sarjīkṣitikhagaṭaṅkaṇalavaṇānvitam arkabhājane tridinam ।
+paryuṣitamāranālaṃ gaganādiṣu bhāvane śastam ।।
+tasminnāgaṃ śuddhaṃ pradrāvya niṣecayecchataṃ vārān ।
+vaṅgaṃ vā tāravidhau rasāyane naiva tadyojyam ।।
+gaganarasoparasāmṛtaloharasāyasādicūrṇāni ।
+sarvamanena ha bhāvyaṃ yatkiṃcit cāraṇāvastu ।।

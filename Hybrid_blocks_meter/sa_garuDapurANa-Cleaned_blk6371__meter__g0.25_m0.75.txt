@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6371 | label: meter | g:0.25 m:0.75 ---
+
+snānameva kriyā yasmātkriyāsnānamataḥ param ।
+adbhirgātrāṇi śudhyanti tīrthasnānātphalaṃ labhet ।।

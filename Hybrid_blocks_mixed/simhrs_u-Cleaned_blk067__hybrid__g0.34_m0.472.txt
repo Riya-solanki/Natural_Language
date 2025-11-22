@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 67 | label: hybrid | g:0.34 m:0.472 ---
+
+yathā-
+dadhato maṅgala-kṣaume vasānasya ca balkale ।
+dadṛśur vismitās tasya mukha-rāgaṃ samaṃ janāḥ ।।

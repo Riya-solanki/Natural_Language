@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 722 | label: meter | g:0.26 m:0.938 ---
+
+atha bodhaḥ-
+svapna-sparśana-nidhvāna-nidrā-sampūrṇatādibhiḥ । 
+prabodhaś cetanāvāptiś ceṣṭās tatrākṣi-mardanam ।।
+śayyāyā mokṣaṇaṃ bāhu-vikṣepo' ṅguli-moṭanam । 
+śiraḥ-kaṇḍūyanaṃ cāṅga-valanaṃ caivam ādayaḥ ।।

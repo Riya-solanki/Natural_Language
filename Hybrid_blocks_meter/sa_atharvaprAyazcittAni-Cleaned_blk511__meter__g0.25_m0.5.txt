@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 511 | label: meter | g:0.25 m:0.5 ---
+
+tad ya kratur vidyate atha nirvapati ।

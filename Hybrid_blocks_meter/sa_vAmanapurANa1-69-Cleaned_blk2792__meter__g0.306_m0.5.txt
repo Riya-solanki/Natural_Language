@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2792 | label: meter | g:0.306 m:0.5 ---
+
+duryodhanaḥ prekṣya gaṇādhipena vajrapahārairnihatān ditīśān ।
+prāsaṃ samāvidhya taḍitprakāśaṃ nandiṃ pracikṣepa hato asi vai bruvan ।।

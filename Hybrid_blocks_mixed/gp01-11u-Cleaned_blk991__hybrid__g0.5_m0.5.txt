@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 991 | label: hybrid | g:0.5 m:0.5 ---
+
+[] rāma-kṛṣṇāu ca baddha-tṛṣṇāv āsādita-tīropakaṇṭhāv utkaṇṭhayā bhuvi śakaṭād utplutau pluta-samplutāhvānataḥ sukha-samanvitaṃ sakhīn anvag vidhāya pratyagram api pratyagrāyamāṇa-vaicitrī-gahaṇaṃ gahanam avagāhamānau savyāpasavyayoḥ paśyantau caraṇa-cāritām evācaritavantau । tadā ca kim anyad varṇanīyam, samastaṃ vṛndāvanam api kṛṣṇena spṛṣṭaṃ hṛṣṭam eva nirṇīya parāmṛṣṭam । yataḥ,

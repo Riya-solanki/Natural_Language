@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1009 | label: hybrid | g:0.5 m:0.5 ---
+
+na hi svajana ityeva svajano bahu manyate ।
+jano vā jana ityeva svajanād dṛśyate anyathā ।।

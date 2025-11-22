@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2241 | label: meter | g:0.194 m:0.625 ---
+
+vihāyasagatā raudrā papau pānam anuttamam 
+jahāsa ca mahāhāsaṃ kaṃsaṃ ca ruṣitābravīt ।।

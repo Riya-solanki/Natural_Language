@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 613 | label: grammar | g:0.646 m:0.5 ---
+
+āsādya bhūmiṃ karadān narendrān kṛtvā vaśe sthāpya carācaraṃ ca। jagatsamagraṃ praviveśa dhīmān pātālamagryaṃ puramaśmakāhvam ।।

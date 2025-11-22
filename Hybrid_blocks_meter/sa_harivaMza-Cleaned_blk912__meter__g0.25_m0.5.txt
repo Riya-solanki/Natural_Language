@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 912 | label: meter | g:0.25 m:0.5 ---
+
+sa ca divyo ratho rājan vasoś cedipates tadā 
+dattaḥ śakreṇa tuṣṭena lebhe tasmād bṛhadrathaḥ ।। 
+bṛhadrathāt krameṇaiva gato bārhadrathaṃ nṛpam । 
+tato hatvā jarāsaṃdhaṃ bhīmas taṃ ratham uttamam 
+pradadau vāsudevāya prītyā kauravanandana ।।

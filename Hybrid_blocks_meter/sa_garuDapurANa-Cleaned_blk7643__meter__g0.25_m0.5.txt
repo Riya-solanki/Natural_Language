@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7643 | label: meter | g:0.25 m:0.5 ---
+
+gṛhe hānirbhavatyeva ṛkṣeṣveṣu mṛtasya ca ।
+atha vā ṛkṣamadye ca dāhastu vidhipūrvakaḥ ।।

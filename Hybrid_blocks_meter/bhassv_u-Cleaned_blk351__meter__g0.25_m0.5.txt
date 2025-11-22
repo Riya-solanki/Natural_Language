@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 351 | label: meter | g:0.25 m:0.5 ---
+
+yadi tāvad ayaṃ svapno dhanyam apratibodhanam
+athāyaṃ vibhramo vā syād vibhramo hy astu me ciram ।।

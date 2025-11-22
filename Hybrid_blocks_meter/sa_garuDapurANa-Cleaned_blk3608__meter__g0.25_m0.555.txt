@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3608 | label: meter | g:0.25 m:0.555 ---
+
+dvādaśyekādaśī yatra tatra sannihito hariḥ ।
+daśamyekādaśī yatra tatra sannihito asuraḥ ।
+bahuvākyavirodhena sandeho jāyate yadā ।।

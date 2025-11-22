@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 43 | label: meter | g:0.25 m:0.625 ---
+
+yāvaccālokasaṃketāḥ kalpitā vividhāstathā ।
+bhavanti bodhicittāttu vikalpā vāyutaḥ sadā ।।

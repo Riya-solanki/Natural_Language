@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3879 | label: grammar | g:0.75 m:0.5 ---
+
+aṇuhād brahmadattaḥ । tato viṣvaksenas tasyodaksenaḥ । bhallāṭas tasyātmajaḥ । dvimīḍhasya tu yavīnarasaṃjñas tasyāpi dhṛtimāṃs tataḥ satyadhṛtis tataś ca dṛḍhanemiḥ tasmāc ca supārśvas tataḥ sumatis tataś ca sannatimān sannatimataḥ kṛto abhūt । yaṃ hiraṇyanābho yogam adhyāpayām āsa । yaś caturviṃśati prācyasāmagānāṃ saṃhitāś cakāra ।।

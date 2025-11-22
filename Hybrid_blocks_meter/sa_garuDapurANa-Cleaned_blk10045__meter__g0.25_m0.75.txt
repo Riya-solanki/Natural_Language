@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10045 | label: meter | g:0.25 m:0.75 ---
+
+niyacchedviṣayebhyo akṣānmanasā buddhi sārathiḥ ।
+manaḥ karmabhirākṣiptaṃ śubhārthe dhārayeddhiyā ।।

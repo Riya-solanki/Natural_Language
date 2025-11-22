@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 198 | label: hybrid | g:0.393 m:0.47 ---
+
+yathā ca pitṛbhir dugdhā yathā devair yatha rṣibhiḥ 
+yathā daityaiś ca nāgaiś ca yathā yakṣair yathā drumaiḥ ।। 
+yathā śailaiḥ piśācaiś ca gandharvaiś ca dvijottamaiḥ । rākṣasaiś ca mahāsattvair yathā dugdhā vasuṃdharā । 
+teṣāṃ pātraviśeṣāṃś ca vaiśaṃpāyana kīrtaya 
+vatsān kṣīraviśeṣāṃś ca sarvam evānupūrvaśaḥ ।।

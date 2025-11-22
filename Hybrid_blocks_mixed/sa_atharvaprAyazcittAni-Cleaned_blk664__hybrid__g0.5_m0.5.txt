@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 664 | label: hybrid | g:0.5 m:0.5 ---
+
+agnaye agnimate aṣṭākapālaṃ puroḍāśaṃ nirvaped yasyāgnayo abhiplaveran ।

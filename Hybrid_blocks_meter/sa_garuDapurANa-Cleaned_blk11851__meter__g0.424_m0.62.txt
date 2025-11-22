@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11851 | label: meter | g:0.424 m:0.62 ---
+
+śrīkṛṣṇa uvāca ।
+dvayaṃ cāhustvindriye dve baliṣṭhe dehe hyasmiñ śrotranetre susṛṣṭe ।
+avāntare śrotranetre khagendra dvayaṃ cāhustatsvarūpaṃ ca vakṣye ।।

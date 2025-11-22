@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 476 | label: meter | g:0.194 m:0.521 ---
+
+yāṃ loke pravadanti sādhumatayaḥ kṣetraṃ paraṃ prāṇināṃ
+daivāveśavaśād akāryagurukas tasyāṃ jananyām aham ।
+sādho prāskhalayaṃ śiraḥpraharaṇaṃ pādena pāpāśayas
+tenedaṃ jvalitānalaṃ śirasi me cakraṃ bhramaty āyasam ।।

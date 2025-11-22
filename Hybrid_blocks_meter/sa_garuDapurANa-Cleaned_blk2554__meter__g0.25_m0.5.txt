@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2554 | label: meter | g:0.25 m:0.5 ---
+
+tato varṣaśataṃ divyaṃ tapastepe mahāmanāḥ ।
+tatra sthitaściraṃ kālaṃ vaneṣu niyamasthitaḥ ।
+ārādhanāya sa tadā paraṃ niyamamāsthitaḥ ।।

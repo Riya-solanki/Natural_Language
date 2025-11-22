@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 517 | label: meter | g:0.25 m:0.5 ---
+
+tadā kṣobhaṃ karoty āśu divyādivyetaraṃ priye 
+yonayaḥ pañcadhā yās tu sarvāḥ klidyanti nānyathā ।।

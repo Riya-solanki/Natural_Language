@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 43 | label: hybrid | g:0.542 m:0.5 ---
+
+jyotirlekhāvalayi galitaṃ yasya barhaṃ bhavānī putraprītyā kuvalayapadaprāpi karṇe karoti ।
+dhautāpāṅgaṃ haraśaśirucā pāvakes taṃ mayūraṃ paścād adrigrahaṇagurubhir garjitair nartayethāḥ ।।

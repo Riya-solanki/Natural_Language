@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 53 | label: meter | g:0.217 m:0.845 ---
+
+bhāsayec ca svakāle arthāt pūrvābhāsitam āmṛśan 
+svalakṣaṇaṃ ghaṭābhāsamātreṇāthākhilātmanā ।।

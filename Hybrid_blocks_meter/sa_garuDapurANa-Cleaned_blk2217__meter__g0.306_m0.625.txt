@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2217 | label: meter | g:0.306 m:0.625 ---
+
+kurukṣetraṃ paraṃ tīrthaṃ dānādyairbhuktimuktidam ।
+prabhāsaṃ paraṃ tīrthaṃ somanātho hi tatra ca ।।

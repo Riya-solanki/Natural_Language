@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8068 | label: meter | g:0.25 m:0.625 ---
+
+tataḥ kāmaṃ kuleśānīṃ śivaṃ nārāyaṇaṃ smaret ।
+caturdaśyāṃ tato gacchedyathāprāptāṃ saridvarām ।।

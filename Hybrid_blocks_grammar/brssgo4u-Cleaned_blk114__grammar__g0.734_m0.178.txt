@@ -1,0 +1,8 @@
+--- source: brssgo4u-Cleaned.txt | block: 114 | label: grammar | g:0.734 m:0.178 ---
+
+na etat evam ।
+vidyāsahāyasya agnihotrādeḥ vidyānimittena sāmarthya atiśayena yogāt ātmajñānaṃ prati kaścit kāraṇa atiśayo bhaviṣyati na tathā vidyāvihīnasya iti yuktaṃ kalpayitum ।
+natu ayajñena vividiṣanti' iti atra aviśeṣeṇa ātmajñānāṅgatvena śrutasya agnihotrādeḥ anaṅgatvaṃ śakyam abhyupagantum ।
+tathā hi śrutiḥ - ayadeva vidyayā karoti śraddhayopaniṣadā tadeva vīryavattaraṃ bhavati' iti vidyāsaṃyuktasya karmaṇaḥ agnihotrādeḥ vīryavattaratva abhidhānena svakāryaṃ prati kañcit atiśayaṃ bruvāṇā vidyāvihīnasya tasya eva tat prayojanaṃ prati vīryavattvaṃ darśayati ।
+karmaṇa- ca vīryavattvaṃ tat yat svaprayojanasādhanaprasahatvam ।
+tasmāt vidyāsaṃyuktaṃ nityam agnihotrādi vidyāvihīnaṃ ca ubhayam api mumukṣuṇā mokṣaprayojana uddeśena iha janmani janmāntare ca prāk jñāna utpatteḥ kṛtaṃ yat tat yathāsāmarthyaṃ brahma adhigamapratibandhakāraṇa upāttaduritakṣayahetutvadvāreṇa brahma adhigamakāraṇatvaṃ pratipadyamānaṃ śravaṇa manana śraddhā tātparyādi antaraṅgakāraṇāpekṣaṃ brahmavidyayā saha ekakāryaṃ bhavati iti sthitam ।।

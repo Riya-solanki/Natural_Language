@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 166 | label: meter | g:0.194 m:0.625 ---
+
+viśeṣo arthāvabhāsasya sattāyāṃ na punaḥ kva cit 
+vikalpeṣu bhaved bhāvibhavadbhūtārthagāmiṣu ।।

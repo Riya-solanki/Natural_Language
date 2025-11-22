@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1153 | label: meter | g:0.056 m:0.521 ---
+
+samāgantā yarhi prathamam ṛtu-rājaḥ sakhi tadā
+ṛtūnām anyāyaṃ bata kathayitāsmīti laṣitam ।
+tad āstām eṣa prāk para-bhṛta-śilīvaktra-tatibhir
+vitarjann evāsmān akṛta-vṛjinā dhik praviśati ।। [śikhariṇī]

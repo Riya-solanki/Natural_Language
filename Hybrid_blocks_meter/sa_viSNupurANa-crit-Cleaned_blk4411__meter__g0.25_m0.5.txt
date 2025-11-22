@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4411 | label: meter | g:0.25 m:0.5 ---
+
+tvayā dhṛteyaṃ dharaṇī bibharti carācaraṃ viśvam anantamūrte 
+kṛtādibhedair aja kālarūpo nimeṣapūrvo jagad etad atsi ।।

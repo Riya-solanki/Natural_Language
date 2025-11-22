@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 454 | label: meter | g:0.25 m:0.5 ---
+
+ity uktaḥ sa nirākrāman nagarād vacanāt pituḥ 
+na ca taṃ vārayām āsa vasiṣṭho bhagavān ṛṣiḥ ।।

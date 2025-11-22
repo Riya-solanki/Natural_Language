@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 400 | label: meter | g:0.25 m:0.625 ---
+
+kathaṃ bahuyuge kāle samatīte dvijarṣabha 
+na jarā revatīṃ prāptā raivataṃ ca kakudminam ।।

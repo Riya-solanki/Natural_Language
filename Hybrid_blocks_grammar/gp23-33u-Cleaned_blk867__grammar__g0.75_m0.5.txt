@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 867 | label: grammar | g:0.75 m:0.5 ---
+
+[] bhavān vakṣyati-hanta ! vṛndāvana eva tādṛśaṃ prakāśa-vṛndaṃ vartate । yat khalu brahma-hrade nimajjya punas tasmād unmajjya ca bhavadbhiḥ pūrvam apy apūrvaṃ dṛṣṭam asti । śatāṅgasyāsya kāmaṅgāmitayā tat-praveśitāpi prativeśīyate । tato yathājñāpyate prājñānāṃ rājñā ।

@@ -1,0 +1,6 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 174 | label: meter | g:0.25 m:0.625 ---
+
+bāṇe liṅge svayaṃvyakte munisiddhaniṣevite ।
+svakalpoktena vidhinā svayaṃ vā parikalpite ।
+śuklapakṣe caturdaśyāṃ viśeṣeṇottarāyaṇe ।
+kuryātparigrahaṃ vidvān aṣṭamyāṃ vā samāhitaḥ ।

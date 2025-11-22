@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 771 | label: meter | g:0.194 m:0.5 ---
+
+tasya saṃkalpa āsīc ca teṣām anyatarasya vai 
+putratvaṃ prāpya yogena yujyeyam iti bhārata ।।

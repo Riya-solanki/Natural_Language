@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9577 | label: meter | g:0.25 m:0.75 ---
+
+vastreṇācchādayet tāntu pūjayitvā sugandhibhiḥ ।
+brāhmaṇebhyo viśeṣeṇa jalapūrṇāni dāpayet ।।

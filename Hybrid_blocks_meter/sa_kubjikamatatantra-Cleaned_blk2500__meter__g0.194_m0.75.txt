@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2500 | label: meter | g:0.194 m:0.75 ---
+
+yadīcchasi ciraṃ devi jīvitaṃ paramārthataḥ 
+dehamadhyaṃ parityajya tiṣṭhasvānyatra bhāvitā ।।

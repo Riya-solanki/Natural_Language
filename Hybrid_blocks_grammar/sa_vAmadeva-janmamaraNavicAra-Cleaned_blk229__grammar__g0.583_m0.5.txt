@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 229 | label: grammar | g:0.583 m:0.5 ---
+
+tatrāpi na sarvasya mokṣa ity uktam paśumātrasya sālokyaṃ sāmīpyaṃ dīkṣitasya tu ।।

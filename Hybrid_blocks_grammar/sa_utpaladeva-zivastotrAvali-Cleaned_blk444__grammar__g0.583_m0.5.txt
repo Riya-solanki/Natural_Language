@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 444 | label: grammar | g:0.583 m:0.5 ---
+
+tvad bhaktisudhāsārair mānasam āpūryatāṃ mamāśu vibho yāvad imā uhyantāṃ niḥśeṣāsāravāsanāḥ plutvā ।।

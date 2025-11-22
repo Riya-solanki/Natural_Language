@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 164 | label: meter | g:0.0 m:0.5 ---
+
+mithyābhiyogo abhyākhyānamatha mithyābhiśaṃsanam abhiśāpaḥ praṇādastu śabdaḥ syādanurāgajaḥ

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4079 | label: meter | g:0.25 m:0.5 ---
+
+sītāṃ śuddhāṃ gṛhītvātha vimāne puṣpake sthitaḥ ।
+savānaraḥ samāyāto hyayodhyāṃ pravarāṃ purīm ।।

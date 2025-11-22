@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 797 | label: meter | g:0.25 m:1.0 ---
+
+sākāṅkṣo apadayuktaḥ sahacarabhinnaḥ prakāśitaviruddhaḥ ।
+vidhyanuvādāyuktastyaktapunaḥsvīkṛto aślīlaḥ ।।

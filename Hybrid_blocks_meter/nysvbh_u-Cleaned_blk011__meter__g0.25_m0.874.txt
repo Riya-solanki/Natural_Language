@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 11 | label: meter | g:0.25 m:0.874 ---
+
+caturrthāyamānvīkṣikī nyāyavidyā।
+tasyāḥ pṛthakprasthānāḥ saṃśayādayaḥ padārthāḥ।
+teṣā pṛthagvacanamantareṇādhyātmavidyāmātramiyaṃ syāt, yathopaniṣadaḥ।
+tasmāt saṃśayādibhiḥ padārthaiḥ pṛthak prasthāpyate।

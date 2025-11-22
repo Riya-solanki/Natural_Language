@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 332 | label: meter | g:0.25 m:0.75 ---
+
+bodhaikalakṣaṇaikye api teṣām anyonyabhinnatā ।
+tatheśvarecchābhedena te ca vijñānakevalāḥ ।।

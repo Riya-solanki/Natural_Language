@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2662 | label: meter | g:0.102 m:0.5 ---
+
+gāvo hi pūjyāḥ satataṃ sarveṣāṃ nātra saṃśayaḥ 
+syāt tu sāmnā bhavet prītir bhavatāṃ vaibhavāya ca 
+tata etan mama vacaḥ kriyatām avicāritam ।।

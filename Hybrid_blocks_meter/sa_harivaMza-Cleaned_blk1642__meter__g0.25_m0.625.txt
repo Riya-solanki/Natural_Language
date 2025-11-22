@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1642 | label: meter | g:0.25 m:0.625 ---
+
+tato bhagavatādiṣṭau raṇe pāvakamārutau 
+māyāyā mayasṛṣṭāyāḥ pravṛddhāyāḥ śamāya vai । 
+tataḥ pravṛddhāv anyonyaṃ pravṛddhajvālaveginau । 
+coditau viṣṇuvākyena tau māyām apakarṣatām ।।

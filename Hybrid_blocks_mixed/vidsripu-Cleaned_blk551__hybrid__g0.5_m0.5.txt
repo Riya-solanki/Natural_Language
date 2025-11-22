@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 551 | label: hybrid | g:0.5 m:0.5 ---
+
+eko jayati sadvṛttaḥ kiṃ punar dvau susaṃhatau ।
+kiṃ citraṃ yadi tanvaṅgyāḥ stanābhyāṃ nirjitaṃ jagat ।।

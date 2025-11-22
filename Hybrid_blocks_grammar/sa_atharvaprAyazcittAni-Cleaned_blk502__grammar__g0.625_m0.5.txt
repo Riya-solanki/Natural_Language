@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 502 | label: grammar | g:0.625 m:0.5 ---
+
+yāḥ kāś caikatantrā iṣṭaya syur avyavahitāḥ kāmaṃ tā ekatantre samāveśya haviṣām ānupūrvyeṇa pracaret ।

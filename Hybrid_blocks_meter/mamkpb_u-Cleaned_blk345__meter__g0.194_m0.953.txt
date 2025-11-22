@@ -1,0 +1,4 @@
+--- source: mamkpb_u-Cleaned.txt | block: 345 | label: meter | g:0.194 m:0.953 ---
+
+kāryakāraṇayoryaśva paurvāparyaviparyayaḥ ।
+vijñeyātiśayoktiḥ sā

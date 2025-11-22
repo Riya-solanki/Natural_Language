@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 279 | label: meter | g:0.031 m:0.958 ---
+
+{rājā} - bāḍham 
+prathamaḥ kalpaḥ 
+{utthāya}

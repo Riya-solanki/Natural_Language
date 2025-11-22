@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4279 | label: meter | g:0.194 m:0.625 ---
+
+yadā hi sa mahābhojo rāmakṛṣṇau samāgatau 
+śuśrāva puruṣavyāghrau sūryācandramasāv iva ।।

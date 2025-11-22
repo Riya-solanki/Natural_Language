@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1396 | label: hybrid | g:0.505 m:0.386 ---
+
+aguṇavyatiriktaṃ dravyam' iti pratijñā arūpādito arthāntarasyānupalabdheḥ' iti hetuḥ soyaṃ pratijñāhetvorvirodhaḥ।
+katham ?, yadi guṇavyatiriktaṃ dravyam ? rūpādibhyo arthāntarasyānupalabdheḥ nopapadyate, atha rūpādibhyorthāntarasyānupalabdhiḥ ? guṇavyatiriktaṃ dravyamiti, nopapadyate, guṇavyatiriktaṃ ca dravyaṃ rūpādibhyorthāntarasyānupalabdhiriti virudhyate ।
+vyāhanyate ।
+na saṃbhavatīti ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3296 | label: meter | g:0.194 m:0.5 ---
+
+saṃnikṛṣṭe tato nāge garjamāne yathā ghane 
+sahasotpatya govindaś cakre tālasvanaṃ prabhuḥ ।।

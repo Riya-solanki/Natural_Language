@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 187 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha prasaṅgam anyam api saṅgataṃ prathayāmaḥ । [] atha dhṛta-praṇaya-naya-sārā vayasā mahasā sahasā ca kṛta-savayasaḥ sabhānukārāḥ, svakula-paramparā-gata-paricāraka-śūdrābhīra-kumārāḥ svāvasara-visara-prāptāvasaratayā prātar eva mohanāgāra-dvāra-sāram āvrajantaḥ samaṃ virājante sma ।

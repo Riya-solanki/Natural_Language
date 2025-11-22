@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1880 | label: hybrid | g:0.521 m:0.5 ---
+
+karpūra-caṇḍaḥ-etad api bhavato bhūri । tad upaślokayāvo rāmabhadram ।

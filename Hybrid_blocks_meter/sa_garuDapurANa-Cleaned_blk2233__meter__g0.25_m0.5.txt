@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2233 | label: meter | g:0.25 m:0.5 ---
+
+kṛte śauce muktidaṃ ca śārṅgadhārī tadantike ।
+virajaṃ sarvadaṃ tīrthaṃ svarṇākṣaṃ tīrthamuttamam ।।

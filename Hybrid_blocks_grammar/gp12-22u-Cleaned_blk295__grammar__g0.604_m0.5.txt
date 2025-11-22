@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 295 | label: grammar | g:0.604 m:0.5 ---
+
+[] paurṇamāsī sahāsam uvāca-na lokenātathyaṃ kathyate, na ca grathyate sma tāsām udvāha-bandhah ।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 68 | label: grammar | g:0.559 m:0.5 ---
+
+āhūteṣu vihaṅgameṣu maśako nāyān puro vāryate madhevāridhi vā vasaṃs tṛṇamaṇir dhatte maṇīnāṃ rucam 
+khadyoto api na kampate pracalituṃ madhye api tejasvināṃ dhik sāmānyam acetanaṃ prabhum ivānāmṛṣṭatattvāntaram ।।

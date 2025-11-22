@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2348 | label: meter | g:0.25 m:0.5 ---
+
+mṛṇmayaṃ hi gṛhaṃ yadvan mṛdā liptaṃ sthiraṃ bhavet 
+pārthivo ayaṃ tathā dehaḥ pārthivaiḥ paramāṇubhiḥ ।।

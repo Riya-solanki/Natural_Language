@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 96 | label: grammar | g:0.646 m:0.5 ---
+
+parisamāptam ivogram idaṃ jagad vigalito aviralo manaso malaḥ tad api nāsti bhavatpurārgalakavāṭavighaṭṭanam aṇva pi ।।

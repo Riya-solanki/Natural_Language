@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1611 | label: meter | g:0.056 m:0.625 ---
+
+{na tajjalaṃ yanna sucārupaṅkajaṃ
+napaṅkajaṃ tad yadalīnaṣaṭpadam ।
+ca ṣaṭpado asau kalaguñjito na yo
+na guñjitaṃ tanna jahāra yanmanaḥ ।।}

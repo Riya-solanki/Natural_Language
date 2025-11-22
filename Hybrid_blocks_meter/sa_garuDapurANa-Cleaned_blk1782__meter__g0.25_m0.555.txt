@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1782 | label: meter | g:0.25 m:0.555 ---
+
+aśvatthapatrasadṛśaṃ vipulaṃ guhyamuttamam ।
+nābhiḥ praśastā gambhīrā dakṣiṇāvartikā śubhā ।
+aromā trivalī nāryā hṛtstanau romavarjitau ।।

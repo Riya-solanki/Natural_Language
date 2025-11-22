@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2822 | label: meter | g:0.25 m:0.5 ---
+
+kaniṣṭhāṅguṣṭhato nābhiṃ hṛdayaṃ tu talena vai ।।

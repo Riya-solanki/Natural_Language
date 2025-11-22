@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2829 | label: meter | g:0.194 m:0.625 ---
+
+kaṃse vinihate kṛṣṇa tvayā bhāvyarthadarśinā 
+abhitas tan mahadyuddhaṃ bhaviṣyati mahīkṣitām ।।

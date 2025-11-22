@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7190 | label: meter | g:0.26 m:0.87 ---
+
+sūta uvāca ।
+vasurājo gāruḍaṃ vai śrutvā sarvamavāptavān ।
+garuḍo bhagavānviṣṇudhyāṃyansarvavāptavān ।।

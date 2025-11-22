@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1246 | label: meter | g:0.306 m:0.5 ---
+
+niṣkrāntamātraṃ hṛdaye padā tam āhatya saṃgṛhya kaceṣu kopāt ।
+śiraḥ praciccheda varāsināsya hāhākṛtaṃ daityabalaṃ tadābhūt ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 186 | label: grammar | g:0.75 m:0.5 ---
+
+yady anugatam agniṃ śaṅkamānā mantheyur mathite agnim adhigacheyur bhadrād adhi śreyaḥ prehi iti vyāhṛtibhiś ca mathitaṃ samāropyāthetarasmin punas tvā prāṇaḥ iti pañcabhir ājyāhutīr hutvā yathoktaṃ prākṛtā vṛttir ।

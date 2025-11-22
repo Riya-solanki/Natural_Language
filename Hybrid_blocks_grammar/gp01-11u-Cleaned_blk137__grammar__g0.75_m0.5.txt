@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 137 | label: grammar | g:0.75 m:0.5 ---
+
+[] yatra ca sarva-madhyamāvarodhasyādhimadhyaṃ bṛhat-prāṅgaṇam adhikṛtyākhaṇḍa-puṭa-bhedana-mukuṭa-bhaṅgī-laṅginaṃ niśreṇi-śreṇi-miśrāntaḥ-śvabhra-śubhra-laghu-laghu-dvāra-sukhāroha-sañcāra-merv-ākāra-cārv-aṅga-kuṭṭimād upari paritaḥ stambha-vāra-saṅgatam agāram ekaṃ sarvataś calat-patākam avalokyate । [] yadā ca tasya sarva-kakudam udañcitasya dhiṣṇyasya purūpari cālaṅkariṣṇutayā śrī-kṛṣṇaḥ svayaṃ vartiṣṇur bhavati, tadā sarva-jiṣṇu-tad-uparicariṣṇu-jiṣṇu-nīla-maṇir iva kaṃ vā tal-loka-bhaviṣṇu-lokaṃ kānti-kandalībhir na puṣṇāti?

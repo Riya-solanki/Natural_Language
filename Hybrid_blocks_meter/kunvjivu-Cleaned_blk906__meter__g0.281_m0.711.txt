@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 906 | label: meter | g:0.281 m:0.711 ---
+
+tattulyayogitā nāma nāsau pṛthagalaṅkṛtiḥ ।
+etasyāṃ bahavo dvau padārthāstulyayoginaḥ ।।
+prakāratvaṃ prapadyante prādhānyasya nivartanāt ।
+।।

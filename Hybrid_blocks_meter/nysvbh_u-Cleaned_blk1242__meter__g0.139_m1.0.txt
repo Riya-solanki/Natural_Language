@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1242 | label: meter | g:0.139 m:1.0 ---
+
+mityābuddheścārthavad apratiṣedhaḥ, kasmāt ?,
+nimittopalambhāt sadbhāvopalambhācca ।
+upalabhyate mithyābuddhinimittaṃ mithyābuddhiśca
+pratyātmamutpanna gṛhyate saṃvedyatvāt tasmāt
+mithyābuddhirapyastīti ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1501 | label: grammar | g:0.559 m:0.437 ---
+
+śeṣaṃ kleśayituṃ diśaḥ sthagayituṃ peṣṭuṃ dharitrībhṛtaḥ sindhūn dhūlibhareṇa kardamayituṃ tair eva roddhuṃ nabhaḥ ।
+nāsīre ca muhur muhuś cala calety ālāpakolāhalān kartuṃ nātha varūthinīyam avanīṃ jetuṃ punas tvadbhujau ।।
+vasukalpasya

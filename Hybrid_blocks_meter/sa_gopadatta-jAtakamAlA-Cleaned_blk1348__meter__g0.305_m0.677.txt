@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1348 | label: meter | g:0.305 m:0.677 ---
+
+jagad dṛṣṭvānantavyasanakuliśāpātavihataṃ
+na sa svarge reme prakṛtiramaṇīye api bhagavān ।
+tadā hy enaṃ sā dhīr hṛdi tudati niḥsaṅgam aniśaṃ
+parārthaprāgbhārā paramavidhurā svāduvidhurā ।।

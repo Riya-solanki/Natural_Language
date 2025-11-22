@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2613 | label: grammar | g:0.75 m:0.5 ---
+
+atha dharmamudrā bhavanti । saḥ, rāḥ, rā, sāḥ, rāḥ, teḥ, keḥ, hāḥ, dhaṃ, tīḥ, he, bhā, ka, ra, yaḥ, saḥ ।

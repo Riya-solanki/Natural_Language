@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1592 | label: meter | g:0.194 m:0.5 ---
+
+asyāpatyasya te vipra kariṣye sāhyam uttamam 
+vāsaṃ cāsya pradāsyāmi prāśanaṃ cāmṛtopamam 
+tathyam etan mama vacaḥ śṛṇu tvaṃ vadatāṃ vara ।। 
+bhojanaṃ cāsya dāsyāmi yena prīto bhaviṣyati । 
+dhanyo asmy anugṛhīto asmi yan me adya bhagavāñ śiśoḥ 
+matim etāṃ dadātīha paramānugrahāya vai ।।

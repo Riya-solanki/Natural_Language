@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1658 | label: meter | g:0.102 m:0.871 ---
+
+śatapraharaṇodagraḥ śatabāhuḥ śatānanaḥ 
+śataśīrṣaḥ sthitaḥ śrīmāñ śataśṛṅga ivācalaḥ 
+kakṣe mahati saṃvṛddho nidāgha iva pāvakaḥ ।।

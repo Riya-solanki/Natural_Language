@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 486 | label: meter | g:0.0 m:0.75 ---
+
+pūtikāṣṭhaṃ ca sapta syurdevadāruṇyatha dvayoḥ

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10119 | label: hybrid | g:0.321 m:0.493 ---
+
+pūrvaṃ hi sṛṣṭiḥ pratipādyate tra yato hyato bhāgavataṃ paraṃ smṛtam ।
+yasminpurāṇe kathayanti sṛṣṭiṃ hyādau viṣṇorbrahmarudrādikānām ।।

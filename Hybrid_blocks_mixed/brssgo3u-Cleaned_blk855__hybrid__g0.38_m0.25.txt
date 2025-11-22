@@ -1,0 +1,6 @@
+--- source: brssgo3u-Cleaned.txt | block: 855 | label: hybrid | g:0.38 m:0.25 ---
+
+nanu nityāgnihotrādibhyo bhinnā evāpūyarvajñādayo vividiṣāyāṃ viniyujyantāṃ tatra kuto viniyuktaviniyogastatrāha-sarvathāpīti ।
+nityatve kāmyatve cetyarthaḥ ।
+kuṇḍapāyināmayane māsamagnihotraṃ juhvatītyākhyātasya sādhyahomavācitvāttadekārthakāgnihotrapadasya vyavahitasiddhāgnihotraparāmarśakatvāyogānmāsaguṇaviśiṣṭaṃ karmāntaraṃ vidhīyata iti yuktamiha tu yajñenetyādi subantānāmākhyātenaikārthatvābhāvātsiddhavyavahitakarmānuvādakatvātteṣāmeva karmaṇāṃ jñānārthatvavidhiriti bhāvaḥ ।
+siddhakarmasu saṃskāratvaprasiddhirapi śuddhākhyasaṃskāradvārā jñānārthakakarmābhede liṅgamityāha-yasyaita iti ।।

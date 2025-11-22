@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 672 | label: grammar | g:0.653 m:0.386 ---
+
+vidhyantaramāha vaṅgarasagandhatālamiti ।।
+vaṅgaṃ trapu rasaḥ sūtaḥ gandhako baliḥ tālaṃ haritālaṃ etaccatuṣṭayaṃ khaṭikāyā yogataḥ khaṭikā citrakarajastasyā yogataḥ suparpaṭikāṃ pūrvoktāṃ lohaparpaṭikāṃ rañjayati sūtena vināpi kimuta rasamilitena tālasattveneti vyaktiḥ ।।

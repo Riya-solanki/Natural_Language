@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 855 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha mātā sabhayaṃ cintitavatī, ko jānīyāt, kuryād apīdaṃ mānī । tarhi tan-nibandhanaṃ bandhanam eva sandheyam, yad ekayā mayālaya-bālayor avadhānaṃ durdhānaṃ bhavitā । [] spaṣṭaṃ tv idam uktavatī-

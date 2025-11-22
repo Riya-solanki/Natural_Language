@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 535 | label: meter | g:0.306 m:0.5 ---
+
+kṛtvā sa karmāṇi nikṛṣṭakarmā mṛtas tapasvī mṛta eva pūrvam ।
+caṇḍālanāryāḥ pratisandhibandhaṃ cakāra kukṣau kṣatalocanāyāḥ ।।

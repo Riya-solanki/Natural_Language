@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3710 | label: grammar | g:0.583 m:0.5 ---
+
+viśvācyā devayānyā ca sahopabhogaṃ bhuktvā kāmānām antam avāpsyāmīty anudinaṃ tanmanasko babhūva ।।

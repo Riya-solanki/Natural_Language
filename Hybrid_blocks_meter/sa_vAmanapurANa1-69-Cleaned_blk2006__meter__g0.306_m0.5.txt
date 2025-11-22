@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2006 | label: meter | g:0.306 m:0.5 ---
+
+sa pṛṣṭhataḥ prekṣya śikaṇḍiketanaṃ samāpatantaṃ varaśaktipāṇinam ।
+kailāsamutsṛjya himācalaṃ tathā krauñcaṃ samabhyetva guhaṃ viveśa ।।

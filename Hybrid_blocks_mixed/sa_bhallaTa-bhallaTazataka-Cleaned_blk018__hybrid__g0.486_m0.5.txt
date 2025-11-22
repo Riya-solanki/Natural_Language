@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 18 | label: hybrid | g:0.486 m:0.5 ---
+
+sattvāntaḥsphuritāya vā kṛtaguṇādhyāropatucchāya vā tasmai kātaramohanāya mahaso leśāya mā svasti bhūt 
+yacchāyācchuraṇāruṇena khacatā khadyotanā khadyotanāmnāmunā kīṭenāhitayā hi jaṅgamamaṇibhrāntyā viḍambyāmahe ।।

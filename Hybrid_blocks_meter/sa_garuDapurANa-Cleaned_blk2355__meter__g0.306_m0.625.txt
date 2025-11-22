@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2355 | label: meter | g:0.306 m:0.625 ---
+
+āgacchantu mahābhāgā yuṣamābhī rakṣitāstviha ।
+madīyāḥ pitaro ye ca kule jātāḥ sanābhayaḥ ।।

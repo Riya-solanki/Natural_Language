@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3715 | label: meter | g:0.306 m:0.5 ---
+
+tataḥ prītaḥ prabhuḥ prādād viṣṇave paramaṃ varam ।
+pratyakṣaṃ taijasaṃ śrīmān divyaṃ cakraṃ sudarśanam ।।

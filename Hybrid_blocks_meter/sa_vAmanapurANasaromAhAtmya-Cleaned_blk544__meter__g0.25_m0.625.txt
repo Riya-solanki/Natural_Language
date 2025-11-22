@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 544 | label: meter | g:0.25 m:0.625 ---
+
+dṛṣadvatyāṃ naraḥ snātvā tarpayitvā ca devatāḥ ।
+agniṣṭomātirātrābhyāṃ phalaṃ vindati māvanaḥ ।।

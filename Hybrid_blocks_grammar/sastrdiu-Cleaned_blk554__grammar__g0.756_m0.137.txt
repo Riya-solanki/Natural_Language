@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 554 | label: grammar | g:0.756 m:0.137 ---
+
+nanu yathā prakāśyāsannidhāvapi savituḥ prakāśakatvaṃ nityam, evamindriyābhāve api nityaiva dṛṣṭiriticet, sayādevam- yadi jñānamātraṃ dṛṣṭyādiśabdānāṃ vācyaṃ syāt, na tu tathāsti, lokaprasiddhyabhāvāt ।
+yathā lokaṃ ca śabdārthāvadhāraṇaṃ na yatheccham ।
+na hi loke gandhādanyadghrāṇaṃ jighratītyucyate, gandhamapi yadā ghrāṇādanyenānumānādinā jānāti tadā na jighratītyucyate, tasmādghrāṇādīyajanyagandhādiviṣayajñānaviśeṣavācino ghrātyādiśabdāḥ, na ca teṣāṃ suṣuptau muktau vā saṃbhavatyaparilopaḥ, tasmādghrāṇādiśaktāveva prarocanārthaṃ ghrāṇādyupacāraḥ, yathā tema hyannaṃ kriyate iti śaktivartamānatvena prarocanārthaṃ kriyate iti vartamānatvopacāraḥ, tasmāt na jñātujñāterviparilopo vidyata ityedapi śaktyabhiprāyameva ।।

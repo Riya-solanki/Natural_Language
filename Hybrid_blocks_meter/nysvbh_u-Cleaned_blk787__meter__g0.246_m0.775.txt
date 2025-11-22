@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 787 | label: meter | g:0.246 m:0.775 ---
+
+yadi punargandhaḥ sahakārī ca syād ghrāṇasya ?
+grāhyaśca ityata āha

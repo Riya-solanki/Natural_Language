@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1028 | label: grammar | g:0.583 m:0.5 ---
+
+atra gamyatāmiti kathitasya vidhivākyasyaivānukūlayaiva janmāntarāśiṣā maraṇasūcanāniṣedhaḥ kriyata iti so ayaṃ vidhyākṣepaḥ ।

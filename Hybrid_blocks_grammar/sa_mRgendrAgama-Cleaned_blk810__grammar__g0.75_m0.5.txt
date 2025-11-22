@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 810 | label: grammar | g:0.75 m:0.5 ---
+
+[ādau] prathamaṃ yāgadhāma [vidhāya] kṛtvā tatra vighopaśamanāya [māheśvaram astraṃ yajet] pārameśvaramastramiṣṭvā [daśasahasrāṇi japtvā] daśasahasrasaṃkhyayā taṃ japan [daśāṃśam anuhomayet] taddaśāṃśena ca homaṃ kuryāt।।

@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 8 | label: hybrid | g:0.326 m:0.467 ---
+
+samasto hi prathamaḥ pādaś codanālakṣaṇasūtraparikaraḥ ।
+tatra ca dharmasya codanālakṣaṇatvam uktam ।
+ato avadhāritārthalakṣaṇaśabdasāhacaryāt pramāṇaśabdaḥ pramīyate ity evaṃ vyutpādya dharmaviṣaya eva vyākhyeyaḥ ।
+saty api prameyamātravācitve asmin śāstre jijñāsyatvena dharmaḥ prakrānta iti sa eva gṛhyate ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 612 | label: meter | g:0.25 m:0.625 ---
+
+suveṇuriti vikhyātā kedāre yā sarasvatī ।
+sarvapāpākṣayā jñeyā ṛṣisiddhiniṣevitā ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 351 | label: meter | g:0.25 m:0.625 ---
+
+arthādapi bhraṃśamavāpnuvanti varṇaprasādādyaśasaḥ sukhācca ।
+yenābhibhūtā dviṣateva sattvāḥ sadveṣavahnirmama dūrataḥ syāt ।।

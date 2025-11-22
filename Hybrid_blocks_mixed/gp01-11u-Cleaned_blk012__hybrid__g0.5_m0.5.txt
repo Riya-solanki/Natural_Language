@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 12 | label: hybrid | g:0.5 m:0.5 ---
+
+gopāla-raghunāthāpta-vraja-vallabha iti, "gopāleṣu ye raghavo laghavo, ye ca nāthā mukhyā iti vikhyātagāthās, tair āptasya vrajasya ballava-tallaja-vrajasya vallabha!" kiṃ vā, "gopālānāṃ laghur iṣṭaḥ, sa ca nāthaś ca yas, tasya sambodhanam triṣv iṣṭe' lpe laghur iti nānārthavargalabdhabodhanam । āptavrajavallabha iti "āptavrajānāṃ svajanasamūhānāṃ vallabha! pareṣām alabhya ṃsatprabha!"

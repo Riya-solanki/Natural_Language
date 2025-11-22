@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9022 | label: meter | g:0.306 m:0.5 ---
+
+kathaṃ ca mriyate janturmṛtasya ca kuto gatiḥ ।
+ativāhaśarīraṃ ca kathaṃ viśramate tadā ।।

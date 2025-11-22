@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2144 | label: meter | g:0.306 m:0.5 ---
+
+saṃcūrṇya dantamusalaiḥ puragopurāṇi mattā dvipā yudhi rathāṃśca narān dvīpāṃśca ।
+naivāntakaṃ pratimukhābhigataṃ nudanti vaprāntalabdhavijayairapi tairviṣāṇaiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11600 | label: grammar | g:0.594 m:0.5 ---
+
+aśvatthasya vanāni kiṃ ca tulasīdhātrīvanāni prabho punnāgasya vanāni caṃpakavanānyanyāni puṣpāṇi ca ।
+mandārasya vanāni yāni ca hareḥ saugandhikānyapyaho nityaṃ tāni diśantu matpramuditaṃ śrīveṅkaṭeśa prabho ।।

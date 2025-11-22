@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 65 | label: hybrid | g:0.531 m:0.5 ---
+
+sarvāpadāṃ nilayam adhruvam asvatantram āsannapātam avivekam asārasaṃjñam ।
+yāvac charīrakam idam na vipadyate me tāvan niyojaya vibho kuśalakriyāsu ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 231 | label: meter | g:0.313 m:0.563 ---
+
+ādityāṃśaśca puṣyaṃ ca āśleṣā śaśino gṛham । rāśiḥ karkaṭako nāma pārśve makhavināśinaḥ।tha । 
+pitryarkṣaṃ bhagadaivatyamuttarāṃś ca kesarī ।
+sūryakṣetraṃ vibhorbrahman hṛdayaṃ parigīyate ।।

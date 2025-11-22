@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 614 | label: meter | g:0.281 m:0.761 ---
+
+cakṣuṣo adhipatipratyayādrūpagrahaṇapratiniyamaḥ ।
+ālokātsahakāripratyayādhetoḥ spaṣṭārthatā ।
+evaṃ sukhādīnāmapi caittānāṃ cittābhinnahetujānāṃ catvāryotānyeva kāraṇāni ।
+seyaṃ pratijñā caturvidhān hetūn pratītya cittacaittā utpadyanta ityabhāvakāraṇatva uparudhyeta ।
+athottarakṣaṇotpattiṃ yāvattāvadavatiṣṭhata iti ।
+utpattirutpadyamānādbhāvādabhinnā, tathā ca kṣaṇikatvahāniriti pratijñāhāniḥ ।।

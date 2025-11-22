@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 222 | label: meter | g:0.194 m:0.625 ---
+
+pādākrāntāni puṣpāṇi soṣma cedaṃ śilātalam
+nūnaṃ kācidihāsīnā māṃ dṛṣṭvā sahasā gatā ।।

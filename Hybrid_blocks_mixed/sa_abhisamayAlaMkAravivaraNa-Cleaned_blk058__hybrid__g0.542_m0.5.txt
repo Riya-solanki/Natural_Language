@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 58 | label: hybrid | g:0.542 m:0.5 ---
+
+ālambanam svārthāṃ bodhiṃ parārthaṃ ca parasantatistha nirvāṇamālambya cittotpādaḥ pravartate ।

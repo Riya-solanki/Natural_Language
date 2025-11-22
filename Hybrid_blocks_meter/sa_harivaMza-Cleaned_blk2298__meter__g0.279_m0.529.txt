@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2298 | label: meter | g:0.279 m:0.529 ---
+
+idaṃ kiṃ nv iti saṃtrastāḥ kasyedaṃ karma ceti ca 
+nandagopaṃ puraskṛtya gopās taṃ paryavārayan ।। 
+nādhyagacchanta ca tadā hetuṃ tatra kadācana । āścaryam āścaryam iti bruvanto anuyayur gṛhān । 
+gateṣu teṣu gopeṣu vismiteṣu yathāgṛham 
+yaśodāṃ nandagopas tu papracchāgatasaṃbhramaḥ ।।

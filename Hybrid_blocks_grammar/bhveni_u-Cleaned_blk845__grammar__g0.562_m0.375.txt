@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 845 | label: grammar | g:0.562 m:0.375 ---
+
+duryodhanaḥ
+kiṃ nāma tāto ambā ca saṃprāptau । kaṣṭamatibībhatsamācaritaṃ daivena । sūta gaccha tvaṃ syandanaṃ tūrṇamupahara । ahamapi tātadarśanaṃ pariharannekānte tiṣṭhāmi ।

@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 71 | label: meter | g:0.363 m:0.643 ---
+
+itica ।
+ataḥ puruṣaṃ Dvacidviṣayaviśeṣe pravartayatkutaścidviṣayaviśeṣānnivartayaccārthavacchāstram ।
+taccheṣatayā cānyadupayuktam ।
+tatsāmānyādvedāntānāmapi tathaivārthavattvaṃ syāt ।
+sati ca vidhiparatve yathā svargādikāmasyāgnihotrādisādhanaṃ vidhīyata evamamṛtatvakāmasya brahmajñānaṃ vidhīyata iti yuktam ।

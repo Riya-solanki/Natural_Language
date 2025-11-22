@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6243 | label: meter | g:0.25 m:0.5 ---
+
+bhūteṣu vasate so antar vasanty atra ca tāni yat 
+dhātā vidhātā jagatāṃ vāsudevas tataḥ prabhuḥ ।।

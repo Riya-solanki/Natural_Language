@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 757 | label: grammar | g:0.75 m:0.5 ---
+
+[] kṣaṇaṃ viramya ca ramyānanaḥ stana-dhayanam api tatrārabdhavān, yad darśanam anu saṅkarṣaṇaḥ serṣyam iva nijam utkarṣaṃ vāñchan nija-jananī-stana-pānam ārabdhavān । [] tadaiva ca tau līlābhiḥ pramīlām āgatau yātṛbhyāṃ mātṛbhyāṃ śanaiḥ śanaiḥ śayyām adhiśāyyete sma ।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 354 | label: meter | g:0.056 m:0.521 ---
+
+tanau śyāmā lakṣmīr abhajad ayam antar-hṛdi punaḥ
+sadā gaurīr itthaṃ kapaṭam abhipaśyan muraripoḥ ।
+sphuran-netra-dvandvaṃ bhajad aruṇatām īṣad abhito
+muhuḥ karṇābhyarṇaṃ vrajati kila kiñcit kathayitum ।। [śikhariṇī]

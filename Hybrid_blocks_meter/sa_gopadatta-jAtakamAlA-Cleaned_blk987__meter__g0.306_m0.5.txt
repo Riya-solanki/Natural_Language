@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 987 | label: meter | g:0.306 m:0.5 ---
+
+pariśuṣkagalāntarālanāḍāḥ saritāṃ prāpya taṭāny udanvatīnām ।
+anavāptajalā mṛgāribhītā vayam utplutya diśo diśaṃ vrajāmaḥ ।।

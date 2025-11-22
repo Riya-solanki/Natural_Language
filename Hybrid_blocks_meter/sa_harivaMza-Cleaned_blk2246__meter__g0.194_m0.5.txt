@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2246 | label: meter | g:0.194 m:0.5 ---
+
+nairāśyena kṛto yatnaḥ svajane prahṛtaṃ mayā 
+daivaṃ puruṣakāreṇa na cātikrāntavān aham ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 42 | label: meter | g:0.271 m:0.5 ---
+
+na ca rupavṛddhiparihāṇiparigrahāye na ca śikṣati vividhadharmaparigrahāye 
+sarvajñatāṃ ca parigṛhṇati śikṣamāṇo niryāyatī ya iya śikṣa guṇe ratānām ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2709 | label: meter | g:0.194 m:0.625 ---
+
+vinedur barhiṇas tatra stokakālparutāḥ khagāḥ 
+vivṛddhiṃ nimnagā yātāḥ plavagāḥ saṃplavaṃ gatāḥ ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 617 | label: meter | g:0.124 m:0.888 ---
+
+bhavanam anu suyatne ratna-paryaṅka-varye
+surabhi-mṛdula-tulī-śubhra-vastra-praśaste ।
+hari-maṇi-ruci-bālaḥ śobhate smāsitāmbho-
+ruham iva sura-sindhau kṣīra-sindhau harir vā ।। [mālinī]

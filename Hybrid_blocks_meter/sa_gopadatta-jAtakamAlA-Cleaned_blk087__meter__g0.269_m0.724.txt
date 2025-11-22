@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 87 | label: meter | g:0.269 m:0.724 ---
+
+eṣo ahaṃ tam ṛṣiṃ vrajāmi śaraṇaṃ prāṇair api prāṇinām
+ekaṃ bāndhavam ekam eva suhṛdaṃ śāstāram ekaṃ param ।
+trāṇaṃ traibhuvanārtigahvaradarīvyāvartināṃ prāṇinām
+ācāryaṃ paramārthatattvaviṣaye bhūtārthanāthaṃ vibhum ।।

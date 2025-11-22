@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2611 | label: meter | g:0.25 m:0.625 ---
+
+nivedanañca yattena puṣpagandhānulepanam ।
+tadbhūṣitānatha sa tāndadṛśe purataḥ sthitān ।।

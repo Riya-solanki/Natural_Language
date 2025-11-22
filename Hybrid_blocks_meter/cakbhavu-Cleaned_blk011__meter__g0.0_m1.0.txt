@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 11 | label: meter | g:0.0 m:1.0 ---
+
+namaḥ śiśuniśākāntakalākamalamāline
+paramānandadehāya śivāyāvyaktamūrtaye

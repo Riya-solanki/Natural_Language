@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 55 | label: hybrid | g:0.517 m:0.5 ---
+
+visrabdhaṃ hariṇāś caranty acakitā deśāgatapratyayā vṛkṣāḥ puṣpaphalaiḥ samṛddhaviṭapāḥ sarve dayārakṣitāḥ
+bhūyiṣṭhaṃ kapilāni gokuladhanāny akṣetravatyo diśo niḥsandigdham idaṃ tapovanam ayaṃ dhūmo hi bahvāśrayaḥ ।।

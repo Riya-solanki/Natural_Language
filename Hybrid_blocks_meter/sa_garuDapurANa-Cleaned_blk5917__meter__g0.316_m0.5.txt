@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5917 | label: meter | g:0.316 m:0.5 ---
+
+pūrve kāmarūpāya asitāṅgāya bhairavāya namo brahmāṇyai ।
+dakṣiṇe cai kandāya vai namaḥ rurubhaivāya māheśvaryā vā āvāhayet ।।

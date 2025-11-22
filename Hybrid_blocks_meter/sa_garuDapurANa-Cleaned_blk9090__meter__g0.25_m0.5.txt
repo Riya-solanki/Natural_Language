@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9090 | label: meter | g:0.25 m:0.5 ---
+
+asvasthā turakāle tu dehapāte kṣitisthite ।
+dehe tathātivāhasya parataḥ prīṇanaṃ bhavet ।।

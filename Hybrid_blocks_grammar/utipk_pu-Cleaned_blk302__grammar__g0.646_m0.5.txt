@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 302 | label: grammar | g:0.646 m:0.5 ---
+
+unmeṣanimeṣau bahirantaḥsthitī eveśvarasadāśivau, bāhyāntarayor vedyavedakayor ekacinmātraviśrānter abhedāt sāmānādhikaraṇyenedaṃ viśvam aham iti viśvātmano matiḥ śuddhavidyā ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6379 | label: meter | g:0.194 m:0.75 ---
+
+tayā tirohitatvāc ca śaktiḥ kṣetrajñasaṃjñitā 
+sarvabhūteṣu bhūpāla tāratamyena lakṣyate ।।

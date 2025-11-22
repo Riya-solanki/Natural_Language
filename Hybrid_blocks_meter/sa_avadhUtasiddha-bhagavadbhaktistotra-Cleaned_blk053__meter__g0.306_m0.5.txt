@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 53 | label: meter | g:0.306 m:0.5 ---
+
+śakrātmajasya nijaśārṅgarathāṅgapāṇau kṛṣṇe sthite api śakalīkṛtadānavendre ।
+droṇāpageyakṛpakarṇabhayārditasya śāṃ śāṃkara tvam akṛtha bhṛśam arjunasya ।।

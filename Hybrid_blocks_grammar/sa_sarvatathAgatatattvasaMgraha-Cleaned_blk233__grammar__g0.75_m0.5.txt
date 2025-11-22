@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 233 | label: grammar | g:0.75 m:0.5 ---
+
+atha tena kṣapālavamuhūrtena sarvatathāgatācchaṭikāsaṃjñāsaṃcoditāḥ sarvalokadhātuprasarameghasamudreṣu sarvalokadhātuparamāṇurajaḥsamāstathāgatāḥ sabodhisattvaparṣanmaṇḍalāḥ samājamāpadya, yena bhagavān vajramaṇiratnaśikharakūṭāgāro yena ca bhagavān vairocanastenopajagmurupetya oṃ sarvatathāgatapādavandanāṅkaromi ।। ityenena prakṛtisiddhena mantreṇa rucijaptena sarvatathāgatapādavandanāṃ kṛtvedamudānamudānayāmāsuḥ ।।

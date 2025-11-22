@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 539 | label: hybrid | g:0.375 m:0.5 ---
+
+[] tathā tad-icchayā sudhā-culukāyamānam ity eke । tayaivaṃ cānyad api cakāra । yad uktaṃ-

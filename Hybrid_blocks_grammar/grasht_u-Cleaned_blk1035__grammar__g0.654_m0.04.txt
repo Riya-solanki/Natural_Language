@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 1035 | label: grammar | g:0.654 m:0.04 ---
+
+cintākopanirodhe hetum āha parame ityādi ।।
+rasāyanakartā parame brahmaṇi citsvarūpe līnaḥ tanmayatāṃ prāpto bhavet praśāntacittaśca viṣayebhyo nivṛttamanā bhavet samatvamāpannaḥ svasute śatrau ca nirvairo yathā syāt tathā trivargaṃ dharmārthakāmarūpaṃ vijitya rasānandaparitṛpto bhavet harṣaparipūrita ityarthaḥ ।।

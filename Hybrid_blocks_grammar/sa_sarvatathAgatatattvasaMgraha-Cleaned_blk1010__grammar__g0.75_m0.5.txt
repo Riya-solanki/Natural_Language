@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1010 | label: grammar | g:0.75 m:0.5 ---
+
+atha vajrapāṇirmahābodhisattvaḥ punarapi bhagavantametadavocat । "ahaṃ bhagavannaśeṣānavaśeṣatvadhātuparitrāṇasarvahitasukhānubhavanārtha yāvatsarvatathāgatatvottamasiddhiphalāvāptihetoḥ sarvatathāgatasiddhivajraṃ datvā, sarvatathāgatairadhyiṣṭaḥ ।tatsādhu ājñāpayantu me bhaga[vantaḥ] sarvatathāgatā athaiṣāṃ manuṣyāṇāṃ kiṅkaromī-"ti ।

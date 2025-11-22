@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1398 | label: grammar | g:0.75 m:0.5 ---
+
+rājovāca - yadyavaśyameva gantavyamiti niścitātrabhavato matiḥ, tatpunarapīdānīmihāgamanenāsmānanugrahītumarhati bhavān । asevanādapi hi prītiranurakṣitavyaiva । bodhisattva uvāca - bahvantarāyo mahārāja bahūpadravapratyarthikatvāllokasaṃniveśa iti na śakyametadavadhāraṇayā pratijñātumāgamiṣyāmīti । sati tvāgamanakāraṇasākalye api nāma punarbhavantaṃ paśyema । ityanunīya sa māhatmā taṃ rājānaṃ kṛtābhyanujñāsatkārastena rājñā tadviṣayātpracakrāma । sa tena gṛhijanasaṃstavenākulitahṛdayo anyatamadaraṇyāyatanamupaśritya dhyānābhiyuktamatistatra viharannacireṇeva catvāri dhyānāni pañcābhijñāḥ pratilebhe ।

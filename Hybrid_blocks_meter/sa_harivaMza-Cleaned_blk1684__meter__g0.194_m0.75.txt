@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1684 | label: meter | g:0.194 m:0.75 ---
+
+devatānām api camūr mumude śakrapālitā 
+dīptā śītoṣṇatejobhyāṃ candrabhāskaratejasā ।।

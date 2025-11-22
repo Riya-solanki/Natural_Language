@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1102 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atra ca rāja-padaṃ vyājāya vyājahāra । tataś ca maunaṃ pratilabhya tāsāṃ bhayam upalabhya, tena karuṇa-sabhya-śiromaṇinā pratyayam ācarya, kathañcit pratyaye cācarite śītārtatā-nirvarti-vārtatām āhartuṃ vrīḍā-niviḍa-jaḍa-vapuṣo' pi jaḍād utterur iti vārtayanti । tad yadi tathā syāt tadā vastutas tu tat-kāraṇam idam astu-

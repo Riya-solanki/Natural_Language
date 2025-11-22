@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5140 | label: meter | g:0.306 m:0.666 ---
+
+bhaviṣyati tadā teṣāṃ rogair indriyasaṃkṣayaḥ 
+āyuḥprakṣayasaṃrodhādd hiṃsā coparamiṣyati ।। 
+evaṃ viplāvite loke pīḍitāḥ saṃkṣaye kāle । jñāninas te bhaviṣyanti pīḍayā viphalodyamāḥ । 
+śuśrūṣavo bhaviṣyanti sādhūnāṃ darśane ratāḥ 
+satyaṃ cāpi prapatsyanti vyavahārāpaśaṅkayā ।।

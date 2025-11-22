@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3377 | label: meter | g:0.194 m:0.625 ---
+
+kalāmuhūrtādimayaś ca kālo na yadvibhūteḥ pariṇāmahetuḥ 
+ajanmanāśasya samastamūrter anāmarūpasya sanātanasya ।।

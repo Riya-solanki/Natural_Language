@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 1136 | label: meter | g:0.276 m:0.68 ---
+
+[] stuty-uttara-kālatas tu,
+vayaṃ gopāś cārthavanto brahmā ca tvam anarthavān ।
+brūmas tvāṃ kim itīvāyam avadan smitam ātanot ।। [anuṣṭubh]

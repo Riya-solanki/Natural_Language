@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4565 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ nānāprakārāsu kṛṣṇaceṣṭāsu tās tadā 
+gopyo vyagrāḥ samaṃ cerū ramyaṃ vṛndāvanaṃ vanam ।।

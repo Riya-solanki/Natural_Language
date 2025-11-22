@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 220 | label: meter | g:0.304 m:0.694 ---
+
+।।
+uktivaicitryaṃ mādhuryam ।।
+uktervaicitryaṃ yattanmādhuryamiti । yathā

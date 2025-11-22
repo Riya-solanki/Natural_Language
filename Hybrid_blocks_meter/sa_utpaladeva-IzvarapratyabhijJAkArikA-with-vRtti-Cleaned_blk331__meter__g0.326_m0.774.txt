@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 331 | label: meter | g:0.326 m:0.774 ---
+
+bhinnavedyaprathātraiva māyākhyaṃ janmabhogadam 
+kartary abodhe kārmaṃ tu māyāśaktyaiva tat trayam ।।

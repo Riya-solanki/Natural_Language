@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5501 | label: meter | g:0.25 m:0.5 ---
+
+dhātakīṃ somarājīñca kṣīreṇa saha peṣayet ।
+durbalaśca bhavetsthūlo nātra kāryā vicāraṇā ।।

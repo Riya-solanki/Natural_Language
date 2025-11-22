@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 52 | label: grammar | g:0.75 m:0.5 ---
+
+atha avedārthaḥ sa kāryarūpa eve'ti, tato ayo dharmaḥ sa codanālakṣaṇaḥ' iti vatanavyaktiḥ syāt, tatrārthaśabdo abhyudayavācī kasya viśeṣaṇaṃ, yadyupādeyasya codanālakṣaṇapadārthasya, tataḥ sarvasya vedārthasya kāryatvamarthatvaṃ ca vidhīyate iti śyenādiniyogānāmapyarthatvaṃ syāt ।।

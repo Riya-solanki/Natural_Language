@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1667 | label: meter | g:0.418 m:0.555 ---
+
+pūrvatra parasparanirapekṣau yamakānuprāsau saṃsṛṣṭiṃ prayojayataḥ uttaratra tu tathāvidhe upamotprekṣe ।
+śabdārthālaṅkārayostu saṃsṛṣṭiḥ ।

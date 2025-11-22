@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 530 | label: grammar | g:0.573 m:0.5 ---
+
+dūrāt śmaśānam iva tasya vivarjya gehaṃ anyena yācakajanas tvaritaṃ jagāma ।
+nāmāpi tasya parikīrtya kila prabhāte lebhe na kaś cid aśanaṃ divasāvasāne ।।

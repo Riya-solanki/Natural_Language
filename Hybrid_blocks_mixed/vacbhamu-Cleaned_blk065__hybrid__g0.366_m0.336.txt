@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 65 | label: hybrid | g:0.366 m:0.336 ---
+
+syādetat ।
+aviṣayatve hi cidātmano nādhyāsaḥ, viṣaya eva tu cidātmā asmatpratyayasya, tatkathaṃ nādhyāsa ityata āha- yuṣmatpratyayāpetasya iti ।
+viṣayatve hi cidātmano anyo viṣayī bhavet ।
+tathā ca yo viṣayī sa eva cidātmā ।
+viṣayastu tato anyo yuṣmatpratyayagocaro abhyupeyaḥ ।
+tasmādanātmatvaprasaṅgādanavasthāparihārāya yuṣmatpratyayāpetatvam; ata eva aviṣayatvamātmano vaktavyam; tathā ca nādhyāsa ityarthaḥ ।

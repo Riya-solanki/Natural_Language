@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 305 | label: meter | g:0.263 m:0.651 ---
+
+pāñcālika uvāca ।
+yannātha māṃ vakṣyasi tatkariṣye suduṣkaraṃ yadyapi devasaṃghai ।
+ājñāpayasvātulavīrya śaṃbho dāso asmi te bhaktiyutastatheśa ।।

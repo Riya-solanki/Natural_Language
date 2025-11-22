@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2333 | label: hybrid | g:0.398 m:0.5 ---
+
+sa ca tenaiva nāmnā tu kṛṣṇo vai dāmabandhanāt 
+yena dāmnā nibaddho asāv udare sudṛḍhaṃ vraje । 
+ghoṣe dāmodara iti gopībhiḥ parigīyate ।।

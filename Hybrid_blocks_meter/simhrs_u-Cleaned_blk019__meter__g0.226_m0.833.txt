@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 19 | label: meter | g:0.226 m:0.833 ---
+
+ahīnajyābandhaḥ kanaka-ruciraṃ kārmuka-varaṃ
+bali-dhvaṃsī bāṇaḥ para-puram anekaṃ ca viṣayaḥ ।
+iti prāyo lokottara-samara-saṃnāha-vidhinā
+maheśo' yaṃ siṃha-kṣitipa iti yaṃ jalpati janaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7845 | label: meter | g:0.328 m:0.595 ---
+
+virakta indriyārthebhyaḥ sa me pūjyo na saṃśayaḥ ।
+tīrthayātrāparo nityaṃ vṛṣotsargaviśeṣavit ।।

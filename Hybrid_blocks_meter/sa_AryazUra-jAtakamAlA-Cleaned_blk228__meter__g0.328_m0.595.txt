@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 228 | label: meter | g:0.328 m:0.595 ---
+
+tanmadvidhaḥ kiṃ svidupādadīta ratnaṃ dhanaṃ vā divi vāpi rājyam ।
+yācñābhitāpena vivarṇitāni prasādayennārthimukhāni yena ।।

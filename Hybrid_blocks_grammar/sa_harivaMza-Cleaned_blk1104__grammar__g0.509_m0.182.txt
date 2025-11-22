@@ -1,0 +1,13 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1104 | label: grammar | g:0.509 m:0.182 ---
+
+bhojaś ca vijayaś caiva śāntidevāsutāv ubhau 
+upāsaṅgaṃ varaṃ lebhe tanayaṃdevarakṣitā । 
+vṛkadevaḥ sunāmāyāṃ gadaś cāsyāḥ sutāv ubhau 
+agāvahaṃ mahātmānaṃ vṛkadevī vyajāyata ।। 
+vijayaṃ lomapādaṃ ca vardhamānaṃ ca devakī ।। ete svayaṃ mahātmanā upadevyāṃ ca jajñire । sutanū ca narāvī ca śaurer āstāṃ parigrahaḥ ।। pauṇḍraś ca kapilaś caiva vasudevasutāv ubhau । narākhyāṃ kapilo jajñe pauṇḍraś ca sutanūsutaḥ । tayor nṛpo abhavat pauṇḍraḥ kapilas tu vanaṃ yayau ।। pūrvyāṃ samabhavad dvīpo vasudevān mahābalaḥ । jarā nāma niṣādānāṃ prabhuḥ sarvadhanuṣmatām । 
+kanyā trigartarājasya bhartā vai śiśirāyaṇaḥ 
+jijñāsāṃ pauruṣe cakre na caskande atha pauruṣam ।। 
+kṛṣṇāyasasamācakhyo na pumāṃstvaṃ napuṃsakaḥ । 
+kṛṣṇāyasasamaprakhyo varṣe dvādaśame tadā 
+mithyābhiśapto gārgyas tu manyunābhisamīritaḥ 
+ghoṣakanyām upādāya maithunāyopacakrame ।।

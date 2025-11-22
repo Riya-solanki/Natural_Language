@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 965 | label: meter | g:0.306 m:0.5 ---
+
+kāmato akāmato vāpi yat pāpaṃ tena saṃcitam ।
+tasmād vimucyate pāpāt pūjayitvā haraṃ śuciḥ ।।

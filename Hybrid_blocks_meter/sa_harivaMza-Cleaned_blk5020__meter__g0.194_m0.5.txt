@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5020 | label: meter | g:0.194 m:0.5 ---
+
+sā dṛṣṭvā saṃprayātaṃ taṃ mālinī pṛṣṭhato anvagāt 
+pathi sā suṣuve subhrūr vane rājīvalocanam ।।

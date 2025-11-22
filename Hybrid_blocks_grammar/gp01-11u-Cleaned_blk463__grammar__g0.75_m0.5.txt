@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 463 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca tau nijopakaṇṭhopam anu vraja-rāja ājuhāva । āgatyoś ca tayoḥ śirasi kara-saroruham ādhāya nijālaṅkārair alañcakāra । sarvaṃ ca tat-sampradāyaṃ bahu-sampradānena sampradānam akarot । uvāca ca - adya vāsaḥ samāsādyatāṃ bhojananādy-artham iti । sarvān prati covāca - punar evaṃ prātaḥ prātar āyātavyam iti ।

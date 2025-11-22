@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3653 | label: grammar | g:0.75 m:0.5 ---
+
+bhīmasya kāñcanaḥ kāñcanāt suhotras tasyāpi jahnuḥ । yo asau yajñavāṭam akhilaṃ gaṅgāmbhasā plāvitam ālokya krodhasaṃraktanayano bhagavantaṃ yajñapuruṣam ātmani parameṇa samādhinā samāropyākhilām eva gaṅgām apibat ।।

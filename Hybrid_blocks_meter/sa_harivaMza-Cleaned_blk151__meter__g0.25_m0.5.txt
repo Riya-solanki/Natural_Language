@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 151 | label: meter | g:0.25 m:0.5 ---
+
+ājjiko narakaś caiva kālanābhas tathaiva ca 
+rāhur jyeṣṭhas tu teṣāṃ vai candrasūryapramardanaḥ । 
+śaraḥ potaraṇaś caiva vajranābhaś ca vīryavān ।। 
+mūkaś caiva tuhuṇḍaś ca hradaputrau babhūvatuḥ । 
+mārīcaḥ sundaputraś ca tāḍakāyāṃ vyajāyata । 
+svarbhānuś ca mahāvīryo vaktrayodhī mahāsuraḥ । 
+saramāṇas tathā caiva śarakalpaś ca vīryavān ।।

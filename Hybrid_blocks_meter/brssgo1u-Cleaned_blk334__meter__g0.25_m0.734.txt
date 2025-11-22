@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 334 | label: meter | g:0.25 m:0.734 ---
+
+duḥkhina upāstyayogyatvātphalābhāvācca ।
+ato viśvajinnyāyena sarvābhilaṣitamānandarūpaṃ brahmaivopāsanākriyānubandhīti bhāvaḥ ।
+kiñca brahmapadaśrutyā liṅgabādha ityāha-naceti ।
+anyatarākāṅkṣānugṛhītaṃ phalavatprakaraṇaṃ viphaliṅgādvalīya iti samudāyārthaḥ ।।

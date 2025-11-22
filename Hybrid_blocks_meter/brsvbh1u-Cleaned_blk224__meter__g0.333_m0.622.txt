@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 224 | label: meter | g:0.333 m:0.622 ---
+
+ata eva nopāsanotpattāvapi,nirvicikitsaśābdajñānotpattyuttarakālamanadhikāraḥ karmaṇītyuktam ।
+tathā ca śrutiḥ-'nakarmaṇā na prajayā dhanena tyāgenaike amṛtatvamānaśuḥ' ।
+tatkimidānīmanupayoga eva sarvatheha karmaṇām,tathā ca avividiṣanti yajñena'ityādyāḥ śrutayo virudhyeran ।
+na virudhyante ।

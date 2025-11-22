@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4326 | label: meter | g:0.306 m:0.5 ---
+
+dānaṃ tapo vādhyayanaṃ maharṣe steyaṃ mahāpātakamagnidāham ।
+jñānāni caivābyasaṃtāṃ hi pūrvaṃ bhavanti dharmārthaśāṃsi nātha ।।

@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 77 | label: meter | g:0.306 m:0.5 ---
+
+samāyāte patyau bahutaradinaprāpyapadavīṃ samulaṅghyāvighnāgamanacaturaṃ cārunayanā ।
+svayaṃ harṣodbāṣpā harati turagasyādaravatī rajaḥ skandhālīnaṃ nijavasanakoṇāvahananaiḥ ।।

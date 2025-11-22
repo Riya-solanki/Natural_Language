@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 337 | label: grammar | g:0.625 m:0.5 ---
+
+bhaktikṣīvo api kupyeyaṃ bhavāyānuśayīya ca tathā haseyaṃ udyāṃ ca raṭeyaṃ ca śivety alam ।।

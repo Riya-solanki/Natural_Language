@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1306 | label: meter | g:0.25 m:0.5 ---
+
+rudraṃ puruṣasūktaṃ ca ślokādhyāyaṃ ca śukriyam ।
+brahmāṇaṃ pitṛmaitraṃ ca adhvaryurdakṣiṇe japet ।।

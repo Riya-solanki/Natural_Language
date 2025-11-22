@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1527 | label: grammar | g:0.708 m:0.5 ---
+
+atha vajraśauṇḍo gaṇapatirbhagavate vajrapāṇaye idaṃ hṛdayanniryātayati sma । oṃ vajraśauṇḍa mahāgaṇapati rakṣa sarvaduṣṭebhyo vajradharājñāṃ pālaya huṃ phaṭ ।

@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 556 | label: meter | g:0.25 m:0.521 ---
+
+vasuparāsu parāsumivojjhatīṣvavikalaṃ vikalaṅkaśaśiprabham ।
+priyatamaṃ yatamantumanīśvaraṃ rasikatā sikatāsviva tāsu kā ।।
+sudṛśo rasarecakitaṃ cakitaṃ bhavatīkṣitamasti mitaṃ stimitam ।
+api hāsalavastavakastava kastulayennanu kāmadhurāṃ madhurām ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 85 | label: hybrid | g:0.375 m:0.5 ---
+
+[] atha muhūrta-pūrtāv āgato' yaṃ toyada-śyāmala-mūrtir mūrtān eva tān paśyann anyādṛśa-śyāmalatām ājagāma, vilalāpa ca-

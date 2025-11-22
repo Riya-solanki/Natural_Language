@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8297 | label: meter | g:0.25 m:0.886 ---
+
+śrīkṛṣṇa uvāca ।
+atha vakṣyāmi saṃkṣepātkṣayāhādaurdhvadaihikam ।
+kvahastenaiva kartavyaṃ mokṣakāmaistu mānavaiḥ ।।

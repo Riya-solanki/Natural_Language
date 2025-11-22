@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8612 | label: meter | g:0.328 m:0.741 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+ye kecitpretarūpeṇa kutra vāsaṃ labhanti te ।
+pretalokādvinirmuktāḥ kathaṃ kutra vrajanti te ।।

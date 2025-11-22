@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1882 | label: meter | g:0.24 m:0.823 ---
+
+nepathye-
+kandapp-uddāma-dappa-ppasamaṇa-guruṇo bahmaṇo kāla-daṇḍe
+pāṇiṃ deṃtassa gaṃgā-taralida-sasiṇo pabbaī-ballahassa ।
+cābaṃ caṃḍāhisiṃjāraba-harida-ṇahaṃ karṣaṇāruddha-majjhaṃ
+jaṃ bhaggaṃ tassa saddo ṇisuṇiti huaṇe bittharaṃto ṇamāi ।।

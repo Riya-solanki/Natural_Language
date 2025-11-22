@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2154 | label: meter | g:0.25 m:0.625 ---
+
+pibanti nṝṇāṃ vikṛtogravigrahā śaujasāyūṃṣi dṛḍhagrahā grahāḥ ।
+bhavanti tu prastutamṛtyuvigrahā vipannadarpotkaṭatāparigrahāḥ ।।

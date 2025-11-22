@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 406 | label: grammar | g:0.708 m:0.5 ---
+
+[] atha tayā vṛtta-sva-citta-vṛtti-prathayā tat-kathayā ślathitavāntaḥ śrī-vraja-dharitrī-kāntaḥ kānta-nijālaṅkāra-vāraṃ sūta-kumārāya vitatāra । śrīmatī vrajapati-patnī ca mahā-nīlamaṇi-maya-nāyakaṃ hāraṃ vihāpayāmāsa ।

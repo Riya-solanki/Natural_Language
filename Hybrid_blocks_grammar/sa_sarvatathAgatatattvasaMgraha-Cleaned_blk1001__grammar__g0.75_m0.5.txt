@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1001 | label: grammar | g:0.75 m:0.5 ---
+
+iyaṃ mudrā yasya jvarādisarvavyādhispṛṣṭasya karmato darśayet, tadyuṣmābhirapasartavyaṃ; mā vo jīvitanāśo bhaved" iti । atha ta "evamastv" iti kṛtvā prakrāntā iti ।।

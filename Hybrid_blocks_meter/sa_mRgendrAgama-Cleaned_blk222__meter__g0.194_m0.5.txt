@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 222 | label: meter | g:0.194 m:0.5 ---
+
+taijaso vaikṛto yo anyo bhūtādiriti saṃsmṛtaḥ 
+tebhyaḥ samātrakā devā mātrebhyo bhūtapañcakam ।।

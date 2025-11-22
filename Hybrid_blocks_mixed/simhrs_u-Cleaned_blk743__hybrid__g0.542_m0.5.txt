@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 743 | label: hybrid | g:0.542 m:0.5 ---
+
+atra vṛkṣa-viśeṣatvād acetane śākhoṭake citta-vikārasyāsambhavānucito nirvedo' yam ābhāsatvam āpadyate ।

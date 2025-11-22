@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 512 | label: meter | g:0.0 m:1.0 ---
+
+chapter vajra-guhya-vajra-mandala-vidhi-vistara

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2598 | label: meter | g:0.25 m:0.842 ---
+
+athaiṣāṃ hṛdayāni bhavanti ।
+oṃ ili ।।

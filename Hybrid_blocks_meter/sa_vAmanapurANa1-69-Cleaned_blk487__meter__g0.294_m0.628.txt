@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 487 | label: meter | g:0.294 m:0.628 ---
+
+bhagavānuvāca। । 
+parituṣṭo asmi te daitya stavenānena suvrata ।
+bhaktyā tvanānyayā cāhaṃ tvayā daitya parājitaḥ ।।

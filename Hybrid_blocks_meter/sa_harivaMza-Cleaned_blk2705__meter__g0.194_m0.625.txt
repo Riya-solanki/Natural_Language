@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2705 | label: meter | g:0.194 m:0.625 ---
+
+na saṃpatanti khagamā dudruvur mṛgajātayaḥ 
+parvatābheṣu megheṣu khe nadatsu samantataḥ ।।

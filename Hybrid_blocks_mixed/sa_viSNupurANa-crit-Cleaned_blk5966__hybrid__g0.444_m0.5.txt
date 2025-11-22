@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5966 | label: hybrid | g:0.444 m:0.5 ---
+
+sarvam eva kalau śāstraṃ yasya yad vacanaṃ dvija 
+devatāś ca kalau sarvāḥ sarvaḥ sarvasya cāśramaḥ ।।

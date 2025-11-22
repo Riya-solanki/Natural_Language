@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10715 | label: hybrid | g:0.5 m:0.5 ---
+
+sūryodaye nāsti yathā tamaśca tathājñānaṃ nāstināstyeva deva ।
+karomyahaṃ śravaṇaṃ sarvadaiva hariprītyarthaṃ niścatārthaṃ satāṃ hi ।।

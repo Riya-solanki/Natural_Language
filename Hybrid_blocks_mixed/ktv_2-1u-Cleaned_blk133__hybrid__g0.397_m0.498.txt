@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 133 | label: hybrid | g:0.397 m:0.498 ---
+
+yadi vā sarvadhātūnāṃ sakarmakatvāpattiḥ, atha vākarmakebhyo bhāvanayā na bhavitavyam ।
+naiṣa doṣaḥ ।
+kutaḥ ।

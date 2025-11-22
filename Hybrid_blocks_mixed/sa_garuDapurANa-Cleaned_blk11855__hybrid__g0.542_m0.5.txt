@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11855 | label: hybrid | g:0.542 m:0.5 ---
+
+bhayaṃ ca lajjā naiva cāste vadhūnāṃ tathā nṛṇāṃ vanitānāṃ yatīnām ।
+svasāraṃ te hyaviditvā dinepi suvāma yajñena svābhāvaśca vīndra ।।

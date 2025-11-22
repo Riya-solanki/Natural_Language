@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 401 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatas taṃ hasta-rodhaṃ gṛhṇann ahnāya maṇi-gṛhītaye sphurann urasilaḥ kara-sarasijena tac-chirasi kakkhaṭī-bhāva-vighaṭita-tad-adhīci-muny-asthijena gṛhīta-saṃgrāha-sāraṃ prahāram ājahāra uttarasminn anehasi mṛta-deha-pratīkādānam anuttaram itīva bhraṃśayāmāsa ca tasya tam uttaṃsam ।

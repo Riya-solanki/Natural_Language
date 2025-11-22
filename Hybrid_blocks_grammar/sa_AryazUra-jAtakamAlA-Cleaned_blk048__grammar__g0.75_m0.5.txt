@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 48 | label: grammar | g:0.75 m:0.5 ---
+
+atha sā vyāghrī tena bodhisattvasya śarīranipātaśabdena samutthāpitakautūhalāmarṣā viramya svatanayavaiśasodyamāttato nayane vicikṣepa । dṛṣṭai va ca bodhisattvaśarīramudgataprāṇaṃ sahasābhisṛtya bhakṣayitumupacakrame । atha sa tasya śiṣyo māṃsamanāsādyaiva pratinivṛttaḥ kutropādhyāya iti vilokayaṃstadbodhisattvaśarīramudgataprāṇaṃ tayā vyāghrayuvatyā bhakṣyamāṇaṃ dardaśa । sa tatkarmātiśayavismayātprativyūḍhaśokaduḥkhāvegastadguṇāśrayabahumānamivodgirannidamātmagataṃ bruvāṇaḥ śobheta ।

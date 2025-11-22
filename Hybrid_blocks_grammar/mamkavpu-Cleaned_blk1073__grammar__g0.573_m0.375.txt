@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1073 | label: grammar | g:0.573 m:0.375 ---
+
+vargaprathamatṛtīyābhyāmantyayoḥ dvitīyacaturthayoḥ repheṇa adha upari ubhayatra vā yasya kasyacit tulyayoḥ tena tasyaiva saṃbandhaḥ ṭavargo arthāt ṇakāravarjaḥ śakāraṣakārau dīrghasamāsaḥ vikaṭā saṃghaṭanā ojasaḥ ।
+udāharaṇam

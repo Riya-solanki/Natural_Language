@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5003 | label: meter | g:0.194 m:0.625 ---
+
+pibanto madhumādhvīkaṃ raṃsyāmaḥ prītisaṃyutāḥ 
+kālo yāsyaty avirataṃ viṣayeṣv eva sajjatām ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 366 | label: meter | g:0.194 m:0.5 ---
+
+tvaṣṭā tu taṃ yathānyāyam arcayitvā vibhāvasum 
+nirdagdhukāmaṃ roṣeṇa sāntvayāmāsa vai tadā ।।

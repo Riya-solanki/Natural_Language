@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9247 | label: meter | g:0.306 m:0.5 ---
+
+kāmerṣyākrodhasambandhādyauvane api ca duḥ saham ।
+duḥsvapnaṃ yā vṛddhatā ca maraṇe duḥ khamutkaṭam ।।

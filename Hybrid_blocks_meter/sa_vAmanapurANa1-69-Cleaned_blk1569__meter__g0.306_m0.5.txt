@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1569 | label: meter | g:0.306 m:0.5 ---
+
+athovāca mahādevo dattaṃ mālini muñca mām ।
+saubhāgyaṃ nijagotrīyaṃ yo asyāstaṃ śṛṇu vacmi te ।।

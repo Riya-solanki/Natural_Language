@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 932 | label: meter | g:0.0 m:0.75 ---
+
+pratipādyapratipādakayorjñatve satyapratītaṃ guṇaḥ । yathā

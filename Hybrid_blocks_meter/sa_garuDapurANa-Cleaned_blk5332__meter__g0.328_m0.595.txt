@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5332 | label: meter | g:0.328 m:0.595 ---
+
+nīlī ca karavīraṃ ca guḍametaiḥ samaṃ śṛtam ।
+palitānīha kṛṣṇāni kuryāllepānmahauṣadham ।।

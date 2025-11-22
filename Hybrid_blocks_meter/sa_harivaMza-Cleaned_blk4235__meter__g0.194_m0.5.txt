@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4235 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ prāptau narāgryau tu tasyā duhitaraṃ tadā 
+ekānaṃśeti yām āhur narā vai kāmarūpiṇīm ।।

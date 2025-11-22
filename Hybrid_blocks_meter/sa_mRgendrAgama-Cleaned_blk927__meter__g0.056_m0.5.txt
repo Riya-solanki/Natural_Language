@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 927 | label: meter | g:0.056 m:0.5 ---
+
+yadā vetti padaṃ heyam upādeyaṃ ca tatsthiteḥ 
+tatpoṣakaṃ vipakṣaṃ ca yacca tatpoṣakaṃ param ।। MT

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1432 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā tatraiva rāghavānanda-nāmani daśamāṅke laṅkā-hā duddhara-taba-visesa-paritosidārabindāsaṇa tihubaṇekkamalla dasa-kaṇṭha hā helā-bandīkida-mahinda mehanāda hā samara-saṃraṃbha-suppasaṇṇa kuṃbha-kaṇṇa kahiṃsi dehi me paḍibaaṇaṃ । ity upakramya,

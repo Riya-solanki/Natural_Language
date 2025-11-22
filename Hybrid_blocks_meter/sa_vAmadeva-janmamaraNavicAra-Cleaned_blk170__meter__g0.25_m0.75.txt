@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 170 | label: meter | g:0.25 m:0.75 ---
+
+ity alaṃ bhūyasā uktena ।।

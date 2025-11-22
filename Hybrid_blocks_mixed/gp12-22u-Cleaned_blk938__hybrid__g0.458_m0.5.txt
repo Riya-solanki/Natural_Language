@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 938 | label: hybrid | g:0.458 m:0.5 ---
+
+[] atha svayaṃ cātra sarvataś citraṃ māṅgalikaṃ karma nirmātuṃ yuktam iti vicārya citrāyamāne kṛṣṇa-prāṇe sasamāje vrajarāje viṣṇu-pada-cariṣṇu-vāṇīyam āvirbabhūva-

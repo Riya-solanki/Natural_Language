@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 161 | label: meter | g:0.345 m:0.681 ---
+
+baliruvāca
+tāta nistejaso daityā nirdagdhā iva vahninā ।
+kimete sahasaivādya brahmadaṇḍahatā iva ।।

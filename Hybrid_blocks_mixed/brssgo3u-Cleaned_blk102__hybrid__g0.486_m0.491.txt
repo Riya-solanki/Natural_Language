@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 102 | label: hybrid | g:0.486 m:0.491 ---
+
+aaṇḍajāni ca jarāyujāni ca svedajāni codbhijjāni ca aitiśrutyavaṣṭambhena sūtraṃ vyācaṣṭe-apiceti ।
+anyatrāpyaniṣṭādikāriṣvityarthaḥ ।।

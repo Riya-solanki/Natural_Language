@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5424 | label: meter | g:0.194 m:0.75 ---
+
+dṛṣṭamātre tataḥ kānte pradyumnatanaye dvija 
+dṛṣṭvātyarthavilāsinyā lajjā kvāpi nirākṛtā ।।

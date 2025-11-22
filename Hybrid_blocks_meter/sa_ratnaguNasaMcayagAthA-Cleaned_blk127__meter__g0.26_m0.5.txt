@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 127 | label: meter | g:0.26 m:0.5 ---
+
+tiṣṭhantu lokavidunāṃ parinirvṛtānāṃ [sthita eṣa dharmataniyāma śūnyadharmā 
+tāṃ bodhisattva tathatāmanubuddhayanti tasmā hu buddha kṛta nāma tathāgatebhiḥ ।।

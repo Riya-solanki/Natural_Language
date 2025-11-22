@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1821 | label: grammar | g:0.603 m:0.454 ---
+
+vahati na puraḥ kaścit paścān na ko apy anuyāti māṃ na ca navapadakṣuṇṇo mārgaḥ kathaṃ nv aham ekakaḥ ।
+bhavati viditaṃ pūrvavyūḍho adhunā khilatāṃ gataḥ sa khalu bahulo vāmaḥ panthā mayā sphuṭam urjitaḥ ।।
+dharmakīrtipadānām

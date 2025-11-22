@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 302 | label: meter | g:0.25 m:0.5 ---
+
+ślāghyām avantinṛpateḥ sadṛśīṃ tanūjāṃ kālakrameṇa punar āgatadārabhāraḥ
+lāvāṇake hutavahena hṛtāṅgayaṣṭiṃ tāṃ padminīṃ himahatām iva cintayāmi ।।

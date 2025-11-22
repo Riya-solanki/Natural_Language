@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2002 | label: meter | g:0.306 m:0.5 ---
+
+bhaganān gaṇān vīkṣya maheśvarātmajastaṃ tārakaṃ sāsinamāpatantam ।
+dṛṣṭvaiva śaktyā hṛdaye bibheda sa bhinnamarmā nyapatat pṛthivyām ।।

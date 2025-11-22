@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 240 | label: grammar | g:0.667 m:0.5 ---
+
+atra maugdyetyādau viruddhagaṇaghaṭanayā lāsyetyādau viruddhakriyāghaṭanayā dāmpatyamityatra viruddhajātighaṭanayā vācintyaiśvaryapratipādakor'dhanārīśvaralakṣaṇābhimatadaivatagaicaro vakturbhaktibhāvo vyajyate । evamanyepyādiśabdagrāhyā rasabhāvādirūpā vyaṅyārthāstatratatrodāharaṇe draṣṭavyāḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7848 | label: meter | g:0.306 m:0.5 ---
+
+vadiṣyati samagraṃ te svayaṃ vaktuṃ na sāmpratam ।
+sāmantaḥ sarvavedajño jñātvā hārdaṃ nṛpasya ca ।।

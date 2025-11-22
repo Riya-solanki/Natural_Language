@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1159 | label: grammar | g:0.75 m:0.5 ---
+
+[ataḥ paraṃ dharmamudrāḥ samāsata evaṃ bhavanti ।] huṃ heḥ trāṃ taṃ, hi hīḥ deḥ haḥ, dhik khīḥ hūṃ graṃ, kṛ vaṃ dṛ aḥ ।

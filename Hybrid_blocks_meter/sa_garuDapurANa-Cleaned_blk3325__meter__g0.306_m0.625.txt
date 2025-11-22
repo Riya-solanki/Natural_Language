@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3325 | label: meter | g:0.306 m:0.625 ---
+
+labdhavyānyeva labhate gantavyānyeva gacchati ।
+prāptavyānyeva prāpnāti duḥ khāni ca sukhāni ca ।।

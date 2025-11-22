@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 168 | label: meter | g:0.25 m:0.5 ---
+
+dadanti te bhaya[tra]stā bhojanaṃ divyamaṇḍitam ।
+atikramanti yadi vajrātmā nāśaṃ vajrākṣaraṃ bhavet ।।

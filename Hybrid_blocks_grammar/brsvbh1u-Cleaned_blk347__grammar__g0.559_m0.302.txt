@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 347 | label: grammar | g:0.559 m:0.302 ---
+
+avagamyate,sa ca tadeva kāryamavagacchati yatsvargānukūlam ।
+na ca kriyā kṣaṇabhaṅgurāmuṣmikāya svargāya kalpata iti pāriśeṣyādvedata evāpūrve kārye liṅādīnāṃ saṃbandhagraha iti cet, hanta caityavandanādivākyeṣvapi svargakāmādipadasaṃbandhādapūrvakāryatvaprasaṅgaḥ, tathā ca teṣāmapyaśakyaracanatvenāpauruṣeyatvāpātaḥ ।
+spaṣṭadṛṣṭena pauruṣeyatvena vā teṣāmapūrvārthatvapratiṣedhe vākyatvādinā liṅgena vedāntānāmapi pauruṣeyatvamanumitamityapūrvārthatā na syāt ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1178 | label: meter | g:0.306 m:0.5 ---
+
+tejasā yaśasā caiva yukto bhavati nirmalaḥ ।
+na rākṣasāḥ piśācā vā na bhūtā na vināyakāḥ ।।

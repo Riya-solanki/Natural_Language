@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 737 | label: meter | g:0.0 m:0.5 ---
+
+kṣudrasiddhau japaḥ kāryo bhāṣyo anyaśraṇātmakaḥ। upāṃśurmadhyasiddhyādau

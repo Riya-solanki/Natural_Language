@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5446 | label: meter | g:0.25 m:0.555 ---
+
+vāmāṅge dakṣiṇāṅge ca kramādrudra dravādikṛt ।
+catuḥ ṣaṣṭi kalāḥ proktāḥ kāmaśāstre vaśīkarāḥ ।
+āliṅganādyā nārīṇāṃ kamārīṇāṃ vaśīkarāḥ ।।

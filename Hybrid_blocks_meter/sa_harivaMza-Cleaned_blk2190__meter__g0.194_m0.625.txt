@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2190 | label: meter | g:0.194 m:0.625 ---
+
+tāṃ covāca tadā nidrāṃ viṣṇuḥ satyaparākramaḥ 
+gaccha nidre mayotsṛṣṭā devakībhavanāntikam ।।

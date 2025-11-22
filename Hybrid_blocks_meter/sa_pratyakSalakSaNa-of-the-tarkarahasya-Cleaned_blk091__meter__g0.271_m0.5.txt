@@ -1,0 +1,3 @@
+--- source: sa_pratyakSalakSaNa-of-the-tarkarahasya-Cleaned.txt | block: 91 | label: meter | g:0.271 m:0.5 ---
+
+mīmāmsāyām "satsaṃprayoge puruṣasyendriyāṇāṃ buddhijanma tat pratyakṣam" sarvam etad dravyaguṇātmādinirākaraṇādayathārtham

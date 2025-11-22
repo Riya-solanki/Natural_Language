@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 678 | label: meter | g:0.302 m:0.806 ---
+
+dīkṣāṃ vakṣye pañcatattve sthitāṃ bhūmyādikāṃ pare ।
+nivṛttirbhūpratiṣṭhādyairvidyāgniḥ śāntivannijaḥ ।।

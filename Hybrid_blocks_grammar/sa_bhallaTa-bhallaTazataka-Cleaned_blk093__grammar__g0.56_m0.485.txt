@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 93 | label: grammar | g:0.56 m:0.485 ---
+
+etat tasya mukhāt kiyat kamalinīpatre kaṇaṃ vāriṇo yan muktāmaṇir ity amaṃsta sa jaḍaḥ śṛṇvan yad asmād api 
+aṅgulyagralaghukriyāpravilayiny ādīyamāne śanaiḥ kutroḍḍīyagato mamety anudinaṃ nidrāti nāntaḥśucā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2873 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ dvandravasahasrāṇi pramathāmaradānavaiḥ ।
+kṛtāni ca surābdānāṃ daśatīḥ ṣaṭ mahāmune ।।

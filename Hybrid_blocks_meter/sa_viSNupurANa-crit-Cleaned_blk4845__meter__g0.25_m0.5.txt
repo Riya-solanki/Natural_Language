@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4845 | label: meter | g:0.25 m:0.5 ---
+
+tāḍayām āsa yantāraṃ tasyāsīc chatadhā śiraḥ ।।

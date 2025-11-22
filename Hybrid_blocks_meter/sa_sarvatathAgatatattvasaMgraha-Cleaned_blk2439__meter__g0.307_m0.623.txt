@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2439 | label: meter | g:0.307 m:0.623 ---
+
+sa tu sandhāya vācā vai svājñayā harate dhanaṃ ।
+mahāvajramaṇiṃ badhvā ratnavarṣa [pravarṣitā] ।।

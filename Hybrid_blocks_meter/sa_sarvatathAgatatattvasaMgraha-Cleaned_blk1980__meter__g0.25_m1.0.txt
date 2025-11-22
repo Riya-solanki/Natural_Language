@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1980 | label: meter | g:0.25 m:1.0 ---
+
+padmāñjaliṃ samādhāya tarjanīgranthibandhanā ।
+amoghapāśamudreyaṃ tarjanyaṅguṣṭhaśaṅkalā ।।

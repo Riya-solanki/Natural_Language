@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1045 | label: meter | g:0.306 m:0.5 ---
+
+kva vo vapur bālamṛṇālakomalaṃ matiḥ kva ceyaṃ karapattraniṣṭhurā ।
+paropakāravyatiṣaktacetaso vidher aho mayy anapekṣarūkṣatā ।।

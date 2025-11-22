@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 859 | label: grammar | g:0.667 m:0.5 ---
+
+prāk ca sattābhisaṃbandhān mukhyā sattā kathaṃ bhavet asaṃś ca nāsteḥ kartā syād upacāras tu pūrvavat ।।

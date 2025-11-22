@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 123 | label: hybrid | g:0.46 m:0.5 ---
+
+ekasminnapi hi viṣaye akṣairjāyamānaṃ vijñānamāparokṣyaṃ janayati liṅgādijaṃ tu neti kiṃ nopapadyate ।
+jñānajanyo viṣayagataḥ phalaviśeṣo ayamāparokṣyaṃ nāma sarvasya saṃvedyaḥ ।
+yadbhāvābhāvābhyāṃ liṅgābhyāmakṣaiḥ paśyāmi na paśyāmīti visphāritākṣāṇāmeva vyavahāraḥ pravartate ।
+ato asti vikalpasyāpi viśadāvabhāsitvamiti pratyakṣatvopapattiḥ ।

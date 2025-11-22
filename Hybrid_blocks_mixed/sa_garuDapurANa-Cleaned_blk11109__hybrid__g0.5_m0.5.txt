@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11109 | label: hybrid | g:0.5 m:0.5 ---
+
+ruroda rudro bhayakaṃpitāṅgo jighrāmi nirmālyamidaṃ kathaṃ te ।
+jihvāsthito jihva saṃjño murāre jihvendriyeṇāpi tathārpitaṃ ca ।।

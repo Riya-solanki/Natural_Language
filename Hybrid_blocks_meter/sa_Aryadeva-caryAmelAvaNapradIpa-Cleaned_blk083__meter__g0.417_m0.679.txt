@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 83 | label: meter | g:0.417 m:0.679 ---
+
+yatra yatra sthito vāyustāṃ tāṃ prakṛtimudvaheta ।। iti ।
+cittavivekasaṃśayamelāvaṇaparicchedaścaturthaḥ ।।
+pañcamaḥ paricchedaḥ

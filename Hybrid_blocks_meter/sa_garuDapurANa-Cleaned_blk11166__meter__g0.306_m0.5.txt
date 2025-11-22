@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11166 | label: meter | g:0.306 m:0.5 ---
+
+kecitprapaśyanti hareśca rūpaṃ tvadīyahṛtsthaṃ hṛdi kecitsadaiva ।
+evaṃprakāraṃ pravijānīhi vīndra hyatho śṛṇu tvaṃmama bhāryāḥ ṣaḍetāḥ ।।

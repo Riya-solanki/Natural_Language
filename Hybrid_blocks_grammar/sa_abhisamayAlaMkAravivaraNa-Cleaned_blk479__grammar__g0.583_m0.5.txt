@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 479 | label: grammar | g:0.583 m:0.5 ---
+
+lakṣaṇam ekakṣaṇadānādijñānena anāsravadānādyaśītyanuvyañjanalakṣaṇānāṃ dharmāṇāṃ saṃgraheṇa bodhisattvasya avabodharūpaḥ paryantayogaḥ avipākānāsravasarvadharmaikakṣaṇalakṣaṇo bhavatīti lakṣaṇam ।

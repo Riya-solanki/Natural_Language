@@ -1,0 +1,5 @@
+--- source: brsvbh2u-Cleaned.txt | block: 281 | label: meter | g:0.25 m:0.67 ---
+
+vibhāgasaṃyogotpādau hi tūtkrāntyādīnāṃ phalaṃ ।
+naca sarvagatasya tau staḥ ।
+sarvatra nityaprāptasya vā sarvātmakasya vā tadasaṃbhāvāditi ।।

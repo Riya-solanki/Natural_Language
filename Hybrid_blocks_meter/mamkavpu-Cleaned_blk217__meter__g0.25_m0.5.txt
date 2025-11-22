@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 217 | label: meter | g:0.25 m:0.5 ---
+
+vrīḍā capalatā harṣa āvego jaḍatā tathā ।
+garvo viṣāda autsukyaṃ nidrāpasmāra eva ca ।।

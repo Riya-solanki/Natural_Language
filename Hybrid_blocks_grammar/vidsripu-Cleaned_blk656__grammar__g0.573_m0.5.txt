@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 656 | label: grammar | g:0.573 m:0.5 ---
+
+dampatyor niśi jalpitaṃ gṛhaśukenākarṇitaṃ yad vacaḥ prātas tad gurusannidhau nigadatas tasyaiva tāraṃ vadhūḥ ।
+hārākarṣitapadmarāgaśakalaṃ vinyasya cañcoḥ puro vrīḍārtā prakaroti dāḍimaphalavyājena vāgbandhanam ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 769 | label: grammar | g:0.75 m:0.5 ---
+
+[] suta uvāca-ete khalu nija-nija-vastyān madhura-vastūni muṣṇantaḥ sa-tṛṣṇam atrapam atra parasparam aśnanti, tad anaṅgī-kṛtavataḥ kapāṭita-radane mama vadane prathamaṃ samaṃ balāc chalād api samarpayanti, tac ca tvayi sa-nirvedaṃ nivedayitum icchor mama tucchaṃ sa-vivādaṃ durvādam etam avādiṣuḥ ।

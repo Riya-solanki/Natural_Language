@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 921 | label: meter | g:0.25 m:0.5 ---
+
+gṛhasthabhāve ape sa vartamāno janmāntarābhyastavivekavāsaḥ ।
+āgāradoṣair aparikṣatātmā viśeṣayām āsa tapovanasthān ।।

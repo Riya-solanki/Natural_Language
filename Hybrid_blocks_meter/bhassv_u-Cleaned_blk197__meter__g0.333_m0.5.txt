@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 197 | label: meter | g:0.333 m:0.5 ---
+
+{padmāvatī} - takkemi ayyāe vāsavadattāe guṇāṇi sumaria dakkhiṇṇadāe mama aggado ṇa rodidi tti 
+[tarkayāmy āryāyā vāsavadattāyā guṇān smṛtvā dakṣiṇyatayā mamāgrato na roditīti । ]

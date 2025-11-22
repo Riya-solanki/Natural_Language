@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 830 | label: grammar | g:0.625 m:0.5 ---
+
+vayasya karṇa kimidaṃ bhrātṛśatavadhaduḥkhitaṃ māmapareṇa vākśalyena ghaṭṭayasi । bhadra sundaraka athedānīṃ kimārambho aṅgarājaḥ ।

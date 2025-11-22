@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 684 | label: meter | g:0.25 m:0.665 ---
+
+ṛṣaya ūcuḥ ।
+vasiṣṭhasyāpavāho asau kathaṃ vai saṃbabhūva ha ।
+kimarthaṃ sā saricchreṣṭhā tamṛṣiṃ pratyavāhayat ।।

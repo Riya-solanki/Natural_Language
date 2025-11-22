@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2419 | label: meter | g:0.25 m:0.555 ---
+
+na saṃdeho narapatermahārājñī bhaviṣyati ।
+mahāntaṃ saṃśayaṃ ghoraṃ kanyābhāve gamiṣyati ।
+tato jagāma sa ṛṣirevamuktvā vaco adbhutam ।।

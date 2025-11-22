@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 894 | label: meter | g:0.306 m:0.5 ---
+
+śāstary avajñāmalināśayānāṃ bhūmir vidāraṃ na dadāti sadyaḥ ।
+buddhaprasādadravacetasāṃ vā na jāyate ratnamayī vicitraṃ ।।

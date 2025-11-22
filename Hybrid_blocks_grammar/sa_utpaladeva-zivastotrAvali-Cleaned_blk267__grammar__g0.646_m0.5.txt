@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 267 | label: grammar | g:0.646 m:0.5 ---
+
+tāvake vapuṣi viśvanirbhare citsudhārasamaye niratyaye tiṣṭhataḥ satatam arcataḥ prabhuṃ jīvitaṃ mṛtam athānyad astu me ।।

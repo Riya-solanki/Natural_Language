@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 198 | label: grammar | g:0.646 m:0.5 ---
+
+tenaiva dṛṣṭo asi bhavaddarśanādyo atihṛṣyati kathañcid yasya vā harṣaḥ ko api tena tvam īkṣitaḥ ।।

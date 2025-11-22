@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1069 | label: meter | g:0.337 m:0.5 ---
+
+kiṃ saundaryamahārthasañcitajagatkośaikaratnaṃ vidheḥ kiṃ śṛṅgārasarassaroruhamidaṃ syātsaukumāryāvadhi ।
+kiṃ lāvaṇyapayonidherabhinavaṃ bimbaṃ sudhādīdhiter- vaktuṃ kāntatatamānanaṃ tava mayā sāmyaṃ na niścīyate ।।

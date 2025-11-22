@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 658 | label: meter | g:0.056 m:0.854 ---
+
+"yogya eva para-yogyatākaras
+tādṛśatvam api veda-vedajam ।
+tvaṃ tu veda-viduṣāṃ varas tataḥ
+saṃskuru dvija-janus tanū amū ।। [rathoddhatā]

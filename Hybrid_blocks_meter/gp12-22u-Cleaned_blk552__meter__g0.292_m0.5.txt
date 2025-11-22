@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 552 | label: meter | g:0.292 m:0.5 ---
+
+[] tatrāpi sarvādhikāyāḥ śrī-rādhikāyās tu nitarāṃ, tatra tūpalakṣaṇatayā śrī-rādhā-mādhavayor varṇyate-

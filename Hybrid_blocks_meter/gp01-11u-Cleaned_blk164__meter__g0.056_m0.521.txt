@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 164 | label: meter | g:0.056 m:0.521 ---
+
+mātar mātar janani mama tad dehi dehīti śabdair
+vatsāyuṣman suta vadasi kiṃ prāṇa-lālyeti cārdraiḥ ।
+nānālāpa-praṇaya-valitā māṃ balāt sneha-mudrā
+tasmin goṣṭhe smarayatitarāṃ tau savitrī-kumārau ।। [mandākrāntā]

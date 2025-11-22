@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 922 | label: grammar | g:0.583 m:0.5 ---
+
+[] atha snigdhakaṇṭhaḥ sva-mukha-kamalaṃ namayitvā tuṣṇīm iva sthitvā ca madhukaṇṭhaṃ kaṭākṣeṇekṣāñcakre ।

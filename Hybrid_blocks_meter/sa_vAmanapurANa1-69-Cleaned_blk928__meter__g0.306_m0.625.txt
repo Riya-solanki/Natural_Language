@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 928 | label: meter | g:0.306 m:0.625 ---
+
+anye vadanti cakraāhvo nṛnaṃ kaścin mṛto bhavet ।
+tatkāntayā tapastaptaṃ bhartṛśokārttayā bata ।।

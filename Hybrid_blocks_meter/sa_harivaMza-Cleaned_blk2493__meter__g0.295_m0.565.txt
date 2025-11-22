@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2493 | label: meter | g:0.295 m:0.565 ---
+
+pūrayitvā hradaṃ sarvaṃ bhogenānalavarcasā 
+sphurann iva sa roṣeṇa jvalann iva ca tejasā ।।

@@ -1,0 +1,4 @@
+--- source: kalhans_u-Cleaned.txt | block: 8 | label: grammar | g:0.656 m:0.5 ---
+
+dātuṃ vāñchati dakṣiṇe api nayane vāmaḥ karaḥ kajjalaṃ bhaujaṅgaṃ ca bhuje aṅgadaṃ ghaṭayituṃ vāme api vāmetaraḥ ।
+itthaṃ svaṃ svam aśikṣitaṃ bhagavator ardhaṃ vapuḥ paśyatoḥ sādhārasmitalāñchitaṃ diśatu vo vaktraṃ manovāñchitam ।।

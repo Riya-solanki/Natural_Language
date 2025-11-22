@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1260 | label: meter | g:0.25 m:0.5 ---
+
+prokṣaṇīyaṃ dhruvāṃ caiva āvabhṛthyaṃ tathaiva ca 
+arāṃs trīṇi ca yaś cakre havyakavyapradān makhe ।।

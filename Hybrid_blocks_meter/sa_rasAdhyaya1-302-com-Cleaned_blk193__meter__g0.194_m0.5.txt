@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 193 | label: meter | g:0.194 m:0.5 ---
+
+kāryā cāsyordhvabhāge api kuṇḍalī vihitā parā 
+tadadho jvālayedagniṃ mandaṃ mandaṃ triyāmakam ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2056 | label: meter | g:0.272 m:0.796 ---
+
+pulastya uvāca ।
+tārakaṃ nihataṃ dṛṣṭvā mahiṣaṃ ca raṇe andhakaḥ ।
+krodhaṃ cakre sudurbuddhirdevānāṃ devasainyahā ।।

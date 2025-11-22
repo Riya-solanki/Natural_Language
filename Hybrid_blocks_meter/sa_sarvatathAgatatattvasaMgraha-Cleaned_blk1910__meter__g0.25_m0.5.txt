@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1910 | label: meter | g:0.25 m:0.5 ---
+
+buddhabimbaṃ mukhe vidhvājivhāyāṃ tu prabhāvayet ।
+svayaṃ sarasvatī devī mukhe tiṣṭhatyabhīkṣṇaśaḥ ।।

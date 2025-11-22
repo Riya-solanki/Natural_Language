@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1061 | label: hybrid | g:0.455 m:0.5 ---
+
+rāmāt tato asya mṛtyur vai tasya śāpān mahāmuneḥ 
+varaś caiṣa hi kauravya svayam eva vṛtaḥ purā ।।

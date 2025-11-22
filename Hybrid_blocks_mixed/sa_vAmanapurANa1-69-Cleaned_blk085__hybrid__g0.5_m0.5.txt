@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 85 | label: hybrid | g:0.5 m:0.5 ---
+
+tataḥ prayuddhau subhṛśaṃ mahābalau brahmātmajo bāhubhavaśca śārvaḥ ।
+divyaṃ sahasraṃ parivatsarāṇāṃ tato haro abhyetya virañcimūce ।।

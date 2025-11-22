@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 415 | label: grammar | g:0.667 m:0.0 ---
+
+bhavatā rakṣaṇaṃ kāryaṃ tat tāvat kartum arhasi 
+nirudvignas tapaś cartuṃ na hi śaknomi pārthiva ।। 
+tvayā hi pṛthivī rājan rakṣyamāṇāmahātmanā । bhaviṣyati nirudvignā nāraṇyaṃ gantum arhasi ।। pālane hi mahān dharmaḥ prajānām iha dṛśyate । na tathā dṛśyate araṇye mā te bhūd buddhir īdṛśī ।। īdṛśo na hi rājendra dharmaḥ kva cana dṛśyate । prajānāṃ pālane yo vai purā rājarṣibhiḥ kṛtaḥ । rakṣitavyāḥ prajā rājñā tās tvaṃ rakṣitum arhasi । 
+mamāśramasamīpe vai sameṣu marudhanvasu 
+samudro vālukāpūrṇa ujjānaka iti smṛtaḥ ।।

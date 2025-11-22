@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 371 | label: grammar | g:0.646 m:0.5 ---
+
+iti bhaktyoditaṃ śrutvā mayoktaṃ vākyam asya hi। rahasyaṃ param adhyāyaṃ tatah prāha punah sa tam।।

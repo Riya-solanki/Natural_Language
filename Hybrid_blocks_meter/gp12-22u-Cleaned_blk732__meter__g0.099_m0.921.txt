@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 732 | label: meter | g:0.099 m:0.921 ---
+
+tāmbūlānāṃ vīṭikāḥ koṭi-kharvaṃ
+kūṭī-kurvaṃś carvayan garva-phullaḥ ।
+prānta-cchāyā-maṇḍalaś caṇḍa-raśmiḥ
+prātar yadvat tadvad āsyaṃ cakāra ।। [śālinī]

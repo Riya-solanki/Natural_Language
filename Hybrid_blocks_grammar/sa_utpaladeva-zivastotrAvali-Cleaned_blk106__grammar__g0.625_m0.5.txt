@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 106 | label: grammar | g:0.625 m:0.5 ---
+
+mahatām amareśa pūjyamāno apy aniśaṃ tiṣṭhasi pūjakaikarūpaḥ bahirantarapīha dṛśyamānaḥ sphurasi draṣṭṛśarīra eva śaśvat ।।

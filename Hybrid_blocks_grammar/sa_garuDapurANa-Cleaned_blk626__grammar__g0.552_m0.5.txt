@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 626 | label: grammar | g:0.552 m:0.5 ---
+
+a ā nyasettu pādāgre i ī gulaphe atha jānuni ।
+u ū e ai kaṭitaṭe o nābhau hṛdi au nyaset ।।

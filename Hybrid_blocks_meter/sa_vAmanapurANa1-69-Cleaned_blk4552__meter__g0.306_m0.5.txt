@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4552 | label: meter | g:0.306 m:0.5 ---
+
+āpattau patitānāṃ yeṣāṃ vṛddhā na santi śāstāraḥ ।
+te śocyā banadhūnāṃ jīvanto apīha mṛtatulyāḥ ।।

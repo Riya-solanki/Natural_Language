@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1049 | label: grammar | g:0.691 m:0.375 ---
+
+appūraṇīpramāṇyoḥ ।।
+pūraṇārthapratyayāntaṃ yatstrīliṅgaṃ tadantātpramāṇyantācca bahuvrīhe rapsyāt । kalyāṇī pañcamī yāsāṃ rātrīṇāṃ tāḥ kalyāṇī pañcamā rātrayaḥ । strī pramāṇī yasya sa strīpramāṇaḥ । apriyādiṣu kim ? kalyāṇīpriya ityādi ।।

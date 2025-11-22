@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 1050 | label: meter | g:0.25 m:0.5 ---
+
+tau vatsād api rakṣantau sarvaṃ lokaṃ rarakṣatuḥ ।
+yad-arthaṃ prātarāśādi yasmin daitya-vadhādi ca ।। [anuṣṭubh]

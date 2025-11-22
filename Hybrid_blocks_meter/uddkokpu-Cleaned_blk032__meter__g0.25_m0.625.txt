@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 32 | label: meter | g:0.25 m:0.625 ---
+
+tatratyāstvāṃ kusumakalikāśīthudhārāṃ vamanto nīrandhreṣu skhalitagatayo nirjharīśīkareṣu ।
+vallīḍolāviharadaṭavīdevatālālanīyāḥ seviṣyante capalacamarībālabhārāssamīrāḥ ।।

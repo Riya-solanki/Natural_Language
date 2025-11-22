@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 213 | label: grammar | g:0.635 m:0.5 ---
+
+kiṃ puṃvākyānāṃ sāpekṣatā bhūtārthatvena, āho pauruṣeyatvena ? yadi bhūtārthatvena tataḥ pratyakṣādīnāmapi parasparāpekṣatvenāprāmāṇyaprasaṅgaḥ; tānyapi hi bhūtārthānyeva ।
+atha puruṣabuddhipurvakatayā puṃvākyaṃ sāpekṣam, evaṃ tarhi atatpūrvakāṇāṃ vedāntānāṃ bhūtārthānāmapi nāprāmāṇyaṃ pratyakṣādīnāmiva niyatendriyaliṅgādijanmanām ।

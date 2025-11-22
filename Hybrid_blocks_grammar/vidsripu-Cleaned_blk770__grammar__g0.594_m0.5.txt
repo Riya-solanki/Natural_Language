@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 770 | label: grammar | g:0.594 m:0.5 ---
+
+vāraṃvāram alīka eva hi bhavān kiṃ vyāhṛtair gamyatām ity uddamya sumandabāhulatikām utthāpayantyā ruṣā ।
+saṃkrāntair valayair alaṃkṛtagalo yuṣmadviyogocitāṃ tanvaṅgyāḥ prakaṭīkaroti tanutāṃ draṅge bhraman vāyasaḥ ।।

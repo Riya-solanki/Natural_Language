@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4490 | label: meter | g:0.25 m:0.5 ---
+
+tato mām āha govindo dīkṣito asmi kratāv iti 
+rakṣā ca brāhmaṇe kāryā sarvāvasthāgatair api ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 24 | label: grammar | g:0.562 m:0.5 ---
+
+uddhriyamāṇa uddhara pāpmano mā yad avidvān yac ca vidvāṃś cakāra ।

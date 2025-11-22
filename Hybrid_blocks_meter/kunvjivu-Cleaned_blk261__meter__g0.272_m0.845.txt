@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 261 | label: meter | g:0.272 m:0.845 ---
+
+āñjasena svabhāvasya mahattvaṃ yena poṣyate ।
+prakāreṇa tadaucityamucitākhyānajīvitam ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1092 | label: hybrid | g:0.521 m:0.5 ---
+
+yo naṣṭamityāha na cāsya naṣṭamiṣṭānsa kāmānadhigamya kāmam ।
+upaitu gehāśrita eva mṛtyuṃ bhavatsu yaḥ śaṅkata īdṛśaṃ vā ।।

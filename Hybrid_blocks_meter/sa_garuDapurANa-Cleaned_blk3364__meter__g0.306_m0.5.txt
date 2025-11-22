@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3364 | label: meter | g:0.306 m:0.5 ---
+
+vṛddhāḥ striyo navaṃ madyaṃ śuṣkaṃ māṃsaṃ trimūlakam ।
+rātrau dadhi divā svapnaṃ vidvānṣaṭ parivarjayet ।।

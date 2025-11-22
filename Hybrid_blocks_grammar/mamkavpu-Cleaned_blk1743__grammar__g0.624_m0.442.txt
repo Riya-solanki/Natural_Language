@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1743 | label: grammar | g:0.624 m:0.442 ---
+
+atra tigmaruceḥ kakubhāṃ ca yathā sadṛśaviśeṣaṇavaśena vyaktiviśeṣaparigraheṇa ca nāyakatayā nāyikātvena ca vyaktiḥ, tathā grīṣmadivasaśriyo api pratināyikātvena bhaviṣyatīti kiṃ dayitayeti svaśabdopādānena ।।
+śleṣopamāyāstu sa viṣayaḥ yatropamānasyopādānamantareṇa sādhāraṇeṣvapi viśeṣaṇeṣu na tathā pratītiḥ । yathā

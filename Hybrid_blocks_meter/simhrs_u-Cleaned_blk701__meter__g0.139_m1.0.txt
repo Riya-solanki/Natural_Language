@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 701 | label: meter | g:0.139 m:1.0 ---
+
+tatra adhikṣepād, yathā-
+iti bhīṣma-bhāṣita-vaco' rtham
+adhigatavatām iva kṣaṇāt ।
+kṣobham agamad atimātram
+atho śiśupāla-pakṣa-pṛthivī-bhṛtāṃ gaṇaḥ ।।

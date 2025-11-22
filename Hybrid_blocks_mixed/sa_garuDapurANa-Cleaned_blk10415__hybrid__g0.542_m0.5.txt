@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10415 | label: hybrid | g:0.542 m:0.5 ---
+
+samyak sṛṣṭaṃ svāyatanaṃ ca datvā govinda dāmodara māṃ ca pāhi ।
+stutyā madīyaśca sukhakapūrṇaḥ priyo jano nāsti tathā tvadanyaḥ ।।

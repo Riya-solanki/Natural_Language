@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 622 | label: hybrid | g:0.267 m:0.484 ---
+
+evam uktā tu dāseyī jātā satyavatī tadā 
+matsyayonau anupamā rājñas tasya vasoḥ sutā ।। 
+adrikā matsyabhūtā sā gaṅgāyamunasaṃgame । tasyāṃ jajñe tu sā kanyā rājño vīreṇa caiva hi । 
+baibhrājā nāma te lokā divi bhānti sudarśanāḥ 
+yatra barhiṣado nāma pitaro divi viṣrutāḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4403 | label: meter | g:0.25 m:0.521 ---
+
+pariṣvajyārcya vidhinā vedhāḥ pūjādinā harim ।
+papraccha kiṃ cireṇeha bhavatāgamanaṃ kṛtam ।
+athovāca jagatsvāmī mayā kāryaṃ mahatkṛtam ।
+surāṇāṃ kratubhāgārthaṃ svayaṃbho balibandhanam ।।

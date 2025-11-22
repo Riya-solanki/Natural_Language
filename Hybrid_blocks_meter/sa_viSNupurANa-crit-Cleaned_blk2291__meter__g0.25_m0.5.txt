@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2291 | label: meter | g:0.25 m:0.5 ---
+
+pūrvam eva mahābhāgaṃ kapilarṣim ahaṃ dvija 
+praṣṭum abhyudyato gatvā śreyaḥ kiṃ nv ity asaṃśayam ।।

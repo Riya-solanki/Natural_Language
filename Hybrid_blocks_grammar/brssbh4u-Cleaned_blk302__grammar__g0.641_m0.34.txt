@@ -1,0 +1,6 @@
+--- source: brssbh4u-Cleaned.txt | block: 302 | label: grammar | g:0.641 m:0.34 ---
+
+jaiminiḥ tu ācāryo manovat śarīrasya api sendriyasya bhāvaṃ muktaṃ prati manyate ।
+yataḥ asa ekadhā bhavati tridhā bhavati' ityādinā anekadhā abhāvavikalpam āmananti ।
+na hi anekavidhatā vinā śarīrabhedena āñjasī syāt ।
+yadi api nirguṇāyāṃ bhūmavidyāyām ayam anekadhā abhāvavikalpaḥ paṭhyate tathā api vidyamānameva idaṃ saguṇāvasthāyām aiśvaryaṃ bhūmavidyā stutaye saṃkīrtyata iti ataḥ saguṇavidyāphalabhāvena upatiṣṭhata iti ।।

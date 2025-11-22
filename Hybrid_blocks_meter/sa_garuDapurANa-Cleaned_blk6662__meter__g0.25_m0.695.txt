@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6662 | label: meter | g:0.25 m:0.695 ---
+
+viṣṇurūpaḥśataṃ vāti varṣāṇāṃ vāyurūrjitaḥ ।
+viṣṇure kārṇavī bhūte varṣe brahmasvarūpadhṛk ।
+śete anantāsane viṣṇurnaṣṭe sthāvarajaṅgame ।।

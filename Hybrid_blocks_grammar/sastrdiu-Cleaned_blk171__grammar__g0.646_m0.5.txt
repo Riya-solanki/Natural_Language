@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 171 | label: grammar | g:0.646 m:0.5 ---
+
+nanu na jñānamutpannamityevārthatathātvamadhyavasātuṃ śakyam- prasiddhatarasyāpi pratyakṣasyāyathārthasyotpattidarśanāt, yathā- śuktikāyāṃ rajatamiti pratyakṣamevāyathārthaṃ na śuktikāyāṃ rajatajñānasya, pratyakṣābhāsātvāt ।।

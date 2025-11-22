@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5153 | label: meter | g:0.246 m:0.806 ---
+
+dharmārthakāmasaṃyuktaṃ karuṇaṃ vīraharṣaṇam 
+ramaṇīyaṃ tad ākhyānaṃ kṛtsnaṃ pariṣadā śrutam ।।

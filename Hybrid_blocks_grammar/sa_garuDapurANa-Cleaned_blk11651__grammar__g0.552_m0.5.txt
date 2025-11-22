@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11651 | label: grammar | g:0.552 m:0.5 ---
+
+śṛṇvanti ye bhāgavataṃ purāṇaṃ kiṃ varṇaye tasya puṇyaṃ tu devi ।
+ye kṛṣṇamantraṃ tu japanti devi hyaṣṭā kṣaraṃ mantravaraṃ sugopyam ।।

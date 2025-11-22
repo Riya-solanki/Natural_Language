@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5200 | label: meter | g:0.25 m:0.5 ---
+
+tayā jaghāna taṃ daityaṃ māyayā kālaśambaram 
+utpatya ca tayā sārdham ājagāma pitur gṛham ।।

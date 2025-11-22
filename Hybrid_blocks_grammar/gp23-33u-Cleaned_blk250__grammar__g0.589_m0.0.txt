@@ -1,0 +1,8 @@
+--- source: gp23-33u-Cleaned.txt | block: 250 | label: grammar | g:0.589 m:0.0 ---
+
+hā nātha ha ramaṇa hā priyatātikānta
+hā hā kva gacchasi mahābhuja hā kva vāsi? ।
+dāsyāṃ sadā kṛpaṇatājuṣi nanv amuṣyām
+ātmopakaṇṭham api sūcaya jīviteśa ।। [vasantatilakā]
+[] atrāstu tāvat tava rūpa-nirūpaṇaṃ tvan-nikaṭa-bhūmim ivodhaghaṭanayāpi dhīratāṃ dhārayāmīti dhvanitam ।
+[] tataś ca, yadyapy evam api catura-śiromaṇinā tena vicāritam asti sma, yathā-yady etasyāś ca mayā parityāgaḥ parityaktābhiḥ samprati pratīyate, mayā pṛthag enayā ca saṅgamyate, tadā parasparam āsattyāṃ satyāṃ mahā-rāsa-mahaḥ sampadyate iti, tathāpi sneha-vaśān mūrcchantīṃ tām āgacchati tasminn accha-hṛdaye mṛgayamāṇā mṛgalocanā drutam āgacchanti sma ।

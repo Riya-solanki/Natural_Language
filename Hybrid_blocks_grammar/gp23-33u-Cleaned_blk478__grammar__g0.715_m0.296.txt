@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 478 | label: grammar | g:0.715 m:0.296 ---
+
+[] taṃ gatvā ca satvara-prathama-payaḥ-pāyanāya gaṅgā-yamunādi-nāmnā gāḥ su-vikasvara-sarasijaṃ saraḥ prati kramād veṇu-gānataḥ samākārayati tasmin vraja-ramānāthe buddha-nijākāraṇa iva ruddha-pravāha-prasaratayāsthiratām utkalikām apy anusarati । vidūra-cara-sarid-visare ca punar āsāṃ gītaṃ, yathā-
+candraka-dhātu-dala-stavakādika-kṛta-mallottama-veśam । ākārayati sa gāḥ sarid-ālī labhate tatra viśeṣam ।।kamita-bhaṅga-bhujā kila tat-pada-raja āśuga-tati-nītam । laghu sukṛtāsmād dṛg iva spṛhayati vidatī svam anabhinītam ।।[] atha tadā tadāhūti-kṛtām ānanda-vibhūtim ārabhya tac-caritam upalabhya kadācid vraja-dharitrīśitrī-sadasi gatabhiḥ kābhiścana tābhir utkaṇṭhayā suṣṭhu pratuṣṭuṣamāṇābhir api nija-bhāvaṃ pidhāya bhāvāntara-sādhāraṇyaṃ vidhāya tad idaṃ varṇanaṃ tan-nirvarṇanam ivāsīt ।
+[] tatra gānāntaraṃ, yathā-
+ādi-puruṣa iva vaibhava-śālī । anucara-varṇita-vīrya-samunnatir ayam udayati vanamālī ।। sa gavākāraṇa-muralī-kalam anu tanute yatra vanaṃ ca । tad-rūpāntaryāmi-sphuraṇaja-bhāvān kalayati pañca ।।puṣpa-hasita-madhu-baṣpa-navāṅkura-pulaka-tatīr anuyātam । ejan-namad api śākhā-tatibhir yat kila kalayati śātam ।।[] tad evam aniṅgānām apīṅgānām iva śaśvad iṅga-vyaṅgaṃ vihitavān ।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3383 | label: meter | g:0.25 m:0.5 ---
+
+saṃlikhya tu bhagākāraṃ kuḍye meḍhraṃ samucchritaṃ ।
+yāṃ striyaṃ cintayan mṛduṃ kuryātsāsya vaśībhaved ।।

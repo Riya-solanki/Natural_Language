@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1939 | label: meter | g:0.316 m:0.5 ---
+
+etadvapuḥ khalu tadeva mṛṇālagauraṃ candraṃśuśuklatanujaṃ tanubinducitram ।
+kūrmopamāḥ sitanakhāścaraṇāsta ete vaṃśaḥ sa eva ca dhanurmadhurānato ayam ।।

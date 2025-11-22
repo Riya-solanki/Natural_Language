@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1150 | label: meter | g:0.306 m:0.5 ---
+
+na brahmā na ca govindaḥ paurāṇā ṛṣayo na te ।
+māhātmyaṃ vedituṃ śaktā yātātathyena śaṅkara ।।

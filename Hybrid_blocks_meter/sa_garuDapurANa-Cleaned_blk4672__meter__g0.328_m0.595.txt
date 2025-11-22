@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4672 | label: meter | g:0.328 m:0.595 ---
+
+pakve bhūte yakṛti ca sadā baddhamalo gude ।
+durnāmabhirudāvartairanyairvā pīḍito bhavet ।।

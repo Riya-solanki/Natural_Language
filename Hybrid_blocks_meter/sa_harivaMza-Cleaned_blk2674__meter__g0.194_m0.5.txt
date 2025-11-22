@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2674 | label: meter | g:0.194 m:0.5 ---
+
+viśasyantāṃ ca paśavo bhojyā ye mahiṣādayaḥ 
+pravartatāṃ ca yajño ayaṃ sarvagopasusaṃkulaḥ ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 294 | label: meter | g:0.25 m:0.667 ---
+
+atrocyate bhāva-tattva-vedinā siṃha-bhūbhujā । 
+ādyaḥ prāg eva bhāvādi-samutpatteś ca śaiśave ।।
+kanyā-vinoda-mātratvād anubhāveṣu neṣyate । 
+prema-visrambha-mātratvān nānyasyāpy anubhāvatā ।
+ato viṃśatir ity eṣā saṅkhyā saṅkhyāvatāṃ matā ।।

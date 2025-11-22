@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1047 | label: meter | g:0.25 m:0.5 ---
+
+vedanindā mahatpāpaṃ yasyānto naiva labhyate ।
+so ayaṃ snānānmahattīrthaṃ nāśayiṣyati tatkṣaṇāt ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3229 | label: meter | g:0.194 m:0.5 ---
+
+tau tu mallau mahāvīryau balinau yuddhaśālinau 
+kaṃsasyājñāṃ puraskṛtya hṛṣṭau viviśatus tadā ।।

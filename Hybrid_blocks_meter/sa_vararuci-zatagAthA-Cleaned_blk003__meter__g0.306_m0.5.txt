@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 3 | label: meter | g:0.306 m:0.5 ---
+
+kaumārye paṭhyatāṃ vidyā śaitye saṃpālyatāṃ ca gauḥ ।
+kṣettraṃ ca karṣyatāṃ pītaṃ trayaḥ suphalahetavaḥ ।।

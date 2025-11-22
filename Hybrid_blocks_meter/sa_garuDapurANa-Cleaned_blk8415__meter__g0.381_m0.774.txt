@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8415 | label: meter | g:0.381 m:0.774 ---
+
+piśācā rākṣasā yakṣā ye cānye diśi vāsinaḥ ।
+tasya hotavyadehasyanaivāyogyatvakārakāḥ ।।

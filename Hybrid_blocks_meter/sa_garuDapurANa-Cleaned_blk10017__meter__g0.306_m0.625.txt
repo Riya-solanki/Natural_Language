@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10017 | label: meter | g:0.306 m:0.625 ---
+
+paṭhanti vedaśāstrāṇi bodhayanti parasparam ।
+na jānanti paraṃ tattvaṃ darvī pākarasaṃ yathā ।।

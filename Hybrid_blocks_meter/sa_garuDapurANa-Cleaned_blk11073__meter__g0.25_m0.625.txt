@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11073 | label: meter | g:0.25 m:0.625 ---
+
+sumitrāṃśo daśarathājjāto yo lakṣmaṇaḥ khaga ।
+sopi śeṣastu vijñeyo vāyvanantāṃśasaṃyutaḥ ।।

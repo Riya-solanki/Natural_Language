@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1107 | label: grammar | g:0.635 m:0.5 ---
+
+maryādābhaṅgabhīter amitarasatayā dhairyagāmbhīryayogān na kṣobhyanty eva tāvan niyamitasalilāḥ sarvaite samudrāḥ ।
+āho kṣobhaṃ vrajeyuḥ kvacid api samaye daivayogāt tadānīṃ na kṣoṇī nādrivargā na ca raviśaśinau sarvam ekārṇavaṃ syāt ।।

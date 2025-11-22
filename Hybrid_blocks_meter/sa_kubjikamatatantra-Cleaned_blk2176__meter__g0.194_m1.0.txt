@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2176 | label: meter | g:0.194 m:1.0 ---
+
+kulacakrasamāyuktaṃ triḥprakāraṃ vilakṣayet 
+pīṭhopapīṭhasaṃyuktaṃ kṣetrasandohalakṣitam ।।

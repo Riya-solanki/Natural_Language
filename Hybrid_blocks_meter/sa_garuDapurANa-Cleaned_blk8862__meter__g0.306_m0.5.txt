@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8862 | label: meter | g:0.306 m:0.5 ---
+
+pitṛtaḥ ko api rūpāḍhyo guṇajño dānatatparaḥ ।
+sadṛśaḥ ko api loke asminna bhūto na bhaviṣyati ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8283 | label: meter | g:0.316 m:0.5 ---
+
+ko api mṛtyuṃ na jayati bālo vṛddho yuvāpi vā ।
+sukhaduḥ khādiko vāpi punarāyāti yāti ca ।।

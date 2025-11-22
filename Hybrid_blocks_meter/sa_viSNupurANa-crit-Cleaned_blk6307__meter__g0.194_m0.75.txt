@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6307 | label: meter | g:0.194 m:0.75 ---
+
+kṣatriyāṇām ayaṃ dharmo yat prajāparipālanam 
+vadhaś ca dharmayuddhena svarājyaparipanthinām ।।

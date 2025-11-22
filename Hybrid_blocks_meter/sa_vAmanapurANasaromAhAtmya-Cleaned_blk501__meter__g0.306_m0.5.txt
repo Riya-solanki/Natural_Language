@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 501 | label: meter | g:0.306 m:0.5 ---
+
+ye tu śrāddhaṃ kariṣyanti prāpya tāmāpagāṃ nadīm ।
+te sarvakāmasaṃyuktā bhaviṣyanti na saṃśayaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 19 | label: meter | g:0.277 m:0.571 ---
+
+dharmaḥ
+narasiṃho hṛṣīkeśaḥ puṇḍarīkanibhekṣaṇaḥ
+smaraṇān muktido nṛṇāṃ sa tvayā kiṃ na pūjitaḥ ।।

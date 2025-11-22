@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 451 | label: meter | g:0.306 m:0.625 ---
+
+vātāhatāmbhodhitaraṅgalole ye jīvaloke bahuduḥkhabhīme ।
+viśleṣaduḥkhāya ratiṃ prayānti teṣāṃ paro nāsti vimūḍhacetāḥ ।।

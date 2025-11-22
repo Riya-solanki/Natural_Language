@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11303 | label: meter | g:0.306 m:0.5 ---
+
+yasminkare śaṅkhacakrādirekhā vartante tannavamaṃ prāhurāryāḥ ।
+yasyo daraṃ tanturūpaṃ supuṣṭaṃ valitrayairaṅkitaṃ suṃdaraṃ ca ।।

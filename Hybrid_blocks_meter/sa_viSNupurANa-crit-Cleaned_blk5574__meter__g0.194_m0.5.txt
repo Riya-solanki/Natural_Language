@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5574 | label: meter | g:0.194 m:0.5 ---
+
+vīram ādāya taṃ sāmbaṃ sapatnīkaṃ tataḥ purīm 
+dvārakām ugrasenādīn gatvā drakṣyāmi bāndhavān ।।

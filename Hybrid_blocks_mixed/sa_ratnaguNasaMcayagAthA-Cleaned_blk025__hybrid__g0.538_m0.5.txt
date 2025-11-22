@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 25 | label: hybrid | g:0.538 m:0.5 ---
+
+rupaṃ ca saṃjña api vedana cetanā ca vijñāna bandhu na ca mukta asaṅgabhūto 
+evaṃ ca bodhi kramate na ca līnacitto saṃnā ha eṣa varapudgalauttamānām ।।

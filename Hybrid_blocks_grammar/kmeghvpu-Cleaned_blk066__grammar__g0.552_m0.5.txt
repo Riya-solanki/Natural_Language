@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 66 | label: grammar | g:0.552 m:0.5 ---
+
+netrā nītāḥ satatagatinā yad vimānāgrabhūmīr ālekhyānāṃ navajalakaṇair doṣam utpādya sadyaḥ ।
+śaṅkāspṛṣṭā iva jalamucas tvādṛśā yatra jālair dhūmodgārānukṛtinipuṇaṃ jarjarā niṣpatanti ।।

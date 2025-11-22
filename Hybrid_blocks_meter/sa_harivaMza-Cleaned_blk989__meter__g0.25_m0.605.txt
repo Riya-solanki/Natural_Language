@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 989 | label: meter | g:0.25 m:0.605 ---
+
+alarkasya tu dāyādaḥ kṣemo nāma mahāyaśāḥ 
+kṣemako nāma pārthivaḥ ।
+kṣemakasya tu putro vai ।
+kṣemasya ketumān putro varṣaketus tato abhavat ।।

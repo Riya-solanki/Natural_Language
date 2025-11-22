@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1879 | label: meter | g:0.217 m:0.845 ---
+
+te parāvaradṛṣṭārthā maharṣisamatejasaḥ 
+bhūyaḥ kṛtayugaṃ kartum utsahante narādhipāḥ ।।

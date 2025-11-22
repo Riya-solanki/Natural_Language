@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 110 | label: grammar | g:0.597 m:0.528 ---
+
+nanu mālāśabdo'nyatrāpi dṛśyate । yathā, ratnamālā, śabdamāleti । satyam । sa tāvadupacaritasya prayogaḥ । nirupapado hi mālāśabdaḥ puṣparacanāviśeṣamevābhidhatta iti ।।
+karikalabhaśabde kariśabdastādrūpyasya ।।
+karikalabhaśabde kariśabdaḥ kalabhenaiva gatārthaḥ prayujyate tādrūpyasya pratipattyarthamiti । karī prauḍhakuñjaraḥ । tadrūpaḥ kalabhaḥ karikalabha iti । yathā

@@ -1,0 +1,8 @@
+--- source: grasht_u-Cleaned.txt | block: 752 | label: grammar | g:0.65 m:0.334 ---
+
+anyayantravidhānamāha mūṣe kārye ।।
+kiṃviśiṣṭe tadagrato vitastimātranalike vitastiparimāṇe nalike yayoste evaṃvidhe sudṛḍhe ubhe kārye ityabhiprāyaḥ ।।
+tayormadhye ekā mūṣā uttānā kāryā aparā nimneti bhāvaḥ ।।
+uttānā kiṃviśiṣṭā niśchidrā nirvraṇā chidramudritā chidraṃ mudritaṃ yasyāṃ tanau mūṣāśarīre iti ।।
+taccāha pūrvaṃ prathamaṃ sūtaṃ yantre pūrvokte sāraṇatailānvitaṃ dattvā bhuvi nidhāpya tasyāṃ uktāyāṃ uttānāyāṃ mūṣāyāṃ bījaṃ mahābījaṃ samāvṛtya dravīkṛtya dattvetyarthaḥ ।।
+tato'nantaraṃ bījaṃ svacchamamalaṃ dravarūpaṃ jñātvā chidrasaṃsthitaṃ kuryāt chidrāntaḥ kṣipedityabhiprāyaḥ chidrāntaḥkṣepaṇāt bījaṃ rasasyopari patati sati sūtaṃ asaṃdehaṃ yathā syāttathā badhnāti bīje chidrāntaḥkṣepaṇānantaraṃ chidramacchidraṃ syādityarthaḥ ।।

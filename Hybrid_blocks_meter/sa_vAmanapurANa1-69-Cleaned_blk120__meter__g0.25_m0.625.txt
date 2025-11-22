@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 120 | label: meter | g:0.25 m:0.625 ---
+
+tuṅgani yasyāṃ suramandirāṇi rundhanti candraṃ rajanīsukheṣu ।
+divāpi sūryaṃ pavanāplutābhirdīrghābhirevaṃ supatākikābhiḥ ।।

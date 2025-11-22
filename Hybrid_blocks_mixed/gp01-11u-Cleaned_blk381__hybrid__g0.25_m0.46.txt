@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 381 | label: hybrid | g:0.25 m:0.46 ---
+
+ākṛṣya mat-putram anena putrī-
+kṛtena bhūtiṃ bhajate sa eṣaḥ ।
+iti svayaṃ vetti na tena maitrīṃ
+bhinatti ko' yaṃ vadane vadeti ।।
+[] snigdhakaṇṭhaḥ sotkaṇṭhatayā śīghram eva sānandam uvāca-nanda eva iti ।

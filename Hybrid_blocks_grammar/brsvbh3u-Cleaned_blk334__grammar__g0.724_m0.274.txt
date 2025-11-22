@@ -1,0 +1,5 @@
+--- source: brsvbh3u-Cleaned.txt | block: 334 | label: grammar | g:0.724 m:0.274 ---
+
+svāminaḥ phalaśruter ity ātreyaḥ ।
+prathame kāṇḍe śeṣalakṣaṇe tathākāma ityatrartviksaṃbandhe karmaṇaḥ siddhe kiṃ kāmo yājamāna utārtvijya iti saṃśayyārtvijye api karmaṇi yājamāna eva kāmo guṇaphaleṣviti nirṇītamiha tvevañjātīyakāni cāṅgasaṃbaddhāni upāsanāni kiṃ yājamānanyevotārtvijyānīti vicāryata iti na punaruktam ।
+tatropāsakānāṃ phalaśravaṇādanadhikāriṇastadanupapatteryajamānasya ca karmajanitaphalopabhogabhājo adhikārādṛtvijāṃ ca tadanupapattervacanācca rājājñāsthānīyātkvacidṛtvijāṃ phalaśruterasati vacane yajamānasya phalavadupāsanaṃ tasya phalaśruteḥ taṃ ha bako dālbhyo vidāñcakāretyāderupāsanasya ca siddhaviṣayatayānyāyāpavādasāmarthyabhāvādyājamānamevopāsanākarmeti prāpta ucyate- ।।

@@ -1,0 +1,9 @@
+--- source: visa01cu-Cleaned.txt | block: 66 | label: grammar | g:0.557 m:0.302 ---
+
+vidheyāvimarśo avimṛṣṭavidheyāṃśaḥ ।
+vṛthocchūnairityatra bhujāmucchūnatayā bṛthāttvasya tatkālamātrajātatvābhiprayeṇa vidheyatāṃ netumucitasya tatpuruṣasamāsena kavinā guṇībhāvaṃ nītatayā pūrvasiddhatvāt anuvādyatva-pratītiriti vidheyasya prādhānyenāvimarśaḥ, anirddaśaḥ ।
+asya ślokasyāṅgīkṛtā pūrvācāryyairiti śeṣaḥ ।
+dhvanitvaṃ hyatra pratipadamevāvabhāsate ।
+tathā hi, ayamevetyanyayogavyavacchedasūcakasya evakārasya, me iti kākupadasya, araya iti bahuvacanasya, atraiveti sarvanāmnaḥ, nihanti jīvatīti tiṅaḥ, aho ityavyayasya, rāvaṇa iti tat tat viśeṣārthāntarasaṃkamitavācyapadasya, dhik dhik iti dvirukteḥ, śakajitamiti tācchīlyavihitakkippratyayasya, grāmaṭiketi karūpatadvitasya, viṭhṭhuṇaṭhaneti vyupasargasya, bhujairiti bahuvacanasya tadvyañjakaviśeṣatvāt asaṃlakṣyakamo dhvaniścātra svāmānanānnirvedākhyaḥsaṃcāribhāvaḥ ।
+tasmādavyāptiḥ ।
+dhvanikārādibhiḥ dhvanitvenottamakāvyatvasyāṅgīkārāt samanantaraśleke tadadoṣaviti lakṣaṇāvyāpanāt ।

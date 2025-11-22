@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3942 | label: meter | g:0.194 m:0.625 ---
+
+mahiṣīḥ sapta kalyāṇīs tato anyā madhusūdanaḥ 
+upayeme mahābāhur guṇopetāḥ kulodbhavāḥ ।।

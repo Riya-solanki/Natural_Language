@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 78 | label: grammar | g:0.573 m:0.5 ---
+
+vāsaḥ kampaviśṛṅkhalaṃ vitilakaṃ svedodgamādānanaṃ saṃdaṣṭo adharapallavaḥ kalayati śvāsoṣmanā mlānatām ।
+dūti tvadvacane śaṭhasya kaṭhinasyāgre gate kuṇṭhatāṃ matsnehād vihitas tvayā kupitayā kleśapraveśaḥ kiyān ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7306 | label: meter | g:0.25 m:0.5 ---
+
+lavaṇaṃ tu tadā deyaṃ dvārasyodvāṭanaṃ divaḥ ।
+anyacca śṛṇu pakṣīndra mṛtyo rūpaṃ prapañcataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5109 | label: meter | g:0.272 m:0.595 ---
+
+nirvedād ātmasaṃbodhaḥ saṃbodhād dharmaśīlatā 
+evaṃ gatvā parāṃ kāṣṭhāṃ prapatsyanti kṛtaṃ yugam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2580 | label: meter | g:0.194 m:0.75 ---
+
+namaḥ savitre sūryāya bhāskarāya vivasvate 
+ādityāyādibhūtāya devādīnāṃ namo namaḥ ।।

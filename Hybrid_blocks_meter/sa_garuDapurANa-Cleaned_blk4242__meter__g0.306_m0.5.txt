@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4242 | label: meter | g:0.306 m:0.5 ---
+
+kāye pittaṃ yadā nyastaṃ śleṣmā cānte vyavasthitaḥ ।
+uṣṇatvaṃ tena dehasya śītatvaṃ karapādayoḥ ।।

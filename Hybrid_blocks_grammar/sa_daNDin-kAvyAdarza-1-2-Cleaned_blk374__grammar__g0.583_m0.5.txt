@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 374 | label: grammar | g:0.583 m:0.5 ---
+
+ānandāśru pravṛttaṃ me kathaṃ dṛṣṭvaiva kanyakām akṣi me puṣparajasā vātoddhūtena dūṣitam ।।

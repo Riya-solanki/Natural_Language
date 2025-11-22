@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1736 | label: meter | g:0.25 m:0.75 ---
+
+rājani vidvanmadhye varasuratasamāgame varastrīṇām ।
+sādhvasadūṣitahṛdayo vākpaṭur api kātarībhavati ।।

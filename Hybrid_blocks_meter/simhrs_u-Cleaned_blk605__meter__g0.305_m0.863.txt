@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 605 | label: meter | g:0.305 m:0.863 ---
+
+śātravād, yathā-
+ceṣṭāḥ syuḥ śātravāvege varma-śastrādi-dhāraṇam । 
+ratha-vāji-gajāroha-sahasāpakramādayaḥ ।।

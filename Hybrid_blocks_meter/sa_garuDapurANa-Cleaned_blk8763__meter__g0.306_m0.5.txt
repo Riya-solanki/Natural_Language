@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8763 | label: meter | g:0.306 m:0.5 ---
+
+devadravyaṃ ca brahmasvaṃ gurudravyaṃ tathaiva ca ।
+kanyāṃ dadāti śulkena sa preto jāyate naraḥ ।।

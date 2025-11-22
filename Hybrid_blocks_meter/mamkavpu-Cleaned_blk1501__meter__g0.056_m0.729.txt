@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1501 | label: meter | g:0.056 m:0.729 ---
+
+{kulamamalinaṃ bhadrā mūrtirmatiḥ śrutiśālinī
+bhujabalamalaṃ sphītā lakṣmīḥ prabhutvamakhaṇḍitam ।
+prakṛtisubhagā hyete bhāvā amībhirayaṃ jano
+vrajati sutarāṃ darpaṃ rājan ta eva tavāṅkuśāḥ ।।}

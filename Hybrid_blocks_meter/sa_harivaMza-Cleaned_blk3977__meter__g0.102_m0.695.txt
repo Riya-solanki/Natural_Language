@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3977 | label: meter | g:0.102 m:0.695 ---
+
+rukmiṇaś ca vacaḥ śrutvā parājayanimittajam 
+nigṛhyamāṇas tīkṣṇābhir vāgbhir bhīṣmakasūnunā 
+roṣam āhārayām āsa jitaroṣo api dharmavit ।।

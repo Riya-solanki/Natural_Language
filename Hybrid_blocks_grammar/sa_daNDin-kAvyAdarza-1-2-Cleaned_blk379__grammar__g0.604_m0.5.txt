@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 379 | label: grammar | g:0.604 m:0.5 ---
+
+doṣābhāso guṇaḥ ko api darśitaś cāṭukāritā mānaṃ sakhijanoddiṣṭaṃ kartuṃ rāgād aśaktayā ।। ।।

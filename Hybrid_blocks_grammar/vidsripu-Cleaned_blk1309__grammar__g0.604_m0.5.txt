@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1309 | label: grammar | g:0.604 m:0.5 ---
+
+ye prāpte vyasane apy anākuladhiyaḥ sampatsu naivonnatāḥ prāpte naiva parāṅmukhāḥ praṇayini prāṇopayogair api ।
+hrīmantaḥ svaguṇapraśaṃsanavidhāv anyastutau paṇḍitā dhig dhātrā kṛpaṇena yena na kṛtāḥ kalpāntadīrghāyuṣaḥ ।।

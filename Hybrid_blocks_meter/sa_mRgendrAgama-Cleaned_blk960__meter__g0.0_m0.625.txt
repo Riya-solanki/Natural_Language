@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 960 | label: meter | g:0.0 m:0.625 ---
+
+viṣādyabhibhave vyoma teṣu yatropayogavat 
+khaṃ samasteṣu bhūteṣu vārivāyū śikhikṣitī ।। MT

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7987 | label: meter | g:0.25 m:0.625 ---
+
+adya naḥ kṣantumarhe asītyuktvā te suradāmbhikāḥ ।
+gireriva parāvartaṃ samudrasyeva śoṣaṇam ।।

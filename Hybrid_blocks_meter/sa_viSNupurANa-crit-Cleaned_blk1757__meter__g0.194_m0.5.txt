@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1757 | label: meter | g:0.194 m:0.5 ---
+
+dharmahānir na teṣv asti na saṃgharṣaḥ parasparam 
+maryādāvyutkramo vāpi teṣu deśeṣu saptasu ।।

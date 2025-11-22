@@ -1,0 +1,9 @@
+--- source: tsc_simu-Cleaned.txt | block: 33 | label: meter | g:0.25 m:0.655 ---
+
+prāṇo apānaḥ samānaśca udāno vyāna eva ca ।
+ityete vāyavaḥ pañca śarīreṣu śarīriṇām ।।
+mukhanāsādhicārī yaḥ prāṇanāt prāṇa ucyate ।
+nābheradhicaratyevopānaye apāna iṣyate ।।
+hṛdyadhiṣṭhānanayanāt samāna iti kīrtitaḥ ।
+kaṇṭhādūrdhvāvagamanādudāna iti ca smṛtaḥ ।।
+sandhyadhiṣṭhānato vyāno vikṣepaṇavijṛmbhaṇāt ।

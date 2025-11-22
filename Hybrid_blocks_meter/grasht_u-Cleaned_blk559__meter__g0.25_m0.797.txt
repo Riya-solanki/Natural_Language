@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 559 | label: meter | g:0.25 m:0.797 ---
+
+gold bīja
+mṛdulatāmrakāntaghanasatvaṃ mṛtanāgatīkṣṇakanakaṃ ca ।
+kurvīta bījaśeṣaṃ daradaśilātālamākṣikairvāpāt ।।

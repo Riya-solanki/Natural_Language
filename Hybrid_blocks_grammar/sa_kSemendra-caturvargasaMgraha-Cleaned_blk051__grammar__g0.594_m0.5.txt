@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 51 | label: grammar | g:0.594 m:0.5 ---
+
+sāsvāde navasaurabhe madhulihāṃ padmodare bandhanaṃ dīpe rūparatāḥ prayānti satatāpātāt pataṅgāḥ kṣayam ।
+gītenaiva mṛgāḥ patanti kariṇīsparśena nītā gajās tasmād indriyasaktir eva sahasā puṃsāṃ vipaddūtikā ।।

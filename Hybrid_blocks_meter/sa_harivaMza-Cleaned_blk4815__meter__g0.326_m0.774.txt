@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4815 | label: meter | g:0.326 m:0.774 ---
+
+māyāvidagdhāḥ puṃścalyo daityadānavayoṣitaḥ 
+tābhir hṛto na saṃdeho nānyato vidyate bhayam ।।

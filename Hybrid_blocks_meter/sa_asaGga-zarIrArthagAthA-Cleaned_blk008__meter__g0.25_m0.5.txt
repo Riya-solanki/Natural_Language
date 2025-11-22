@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 8 | label: meter | g:0.25 m:0.5 ---
+
+viparyāsena saṃjñānāṃ cittaṃ te paridahyate ।
+nimittaṃ varjyatāṃ tasmāc chubhaṃ rāgopasaṃhitaṃ ।।

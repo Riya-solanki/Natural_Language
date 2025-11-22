@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 338 | label: grammar | g:0.667 m:0.5 ---
+
+viṣamastho api svastho api rudann api hasann api gambhīro api vicitto api bhaveyaṃ bhaktitaḥ prabho ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2074 | label: meter | g:0.25 m:0.5 ---
+
+śailādiṃ patitaṃ dṛṣṭvā dhāvamānaṃ tathāndhakam ।
+śatarūpābhavad gaurī bhayāt tasya durātmanaḥ ।।

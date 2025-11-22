@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 486 | label: meter | g:0.25 m:0.5 ---
+
+gavāṃ hatvā praśudhyeta daśalakṣais tu saṅkhyayā 
+brāhmaṇas tu yadā devi pramādād ghātito budhaiḥ ।।

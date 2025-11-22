@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 739 | label: meter | g:0.25 m:0.5 ---
+
+tdṛdādikaṃ nava śaktyo rudracaṇḍā pracaṇḍayā ।
+caṇḍogrā caṇḍanāyikā caṇḍā caṇḍavatī kramāt ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1772 | label: grammar | g:0.667 m:0.5 ---
+
+atra jānanti te kim apīti parāpavādāt mama tu ko' pi samāna-dharmety ātmotkarṣa-kathanāc ca bhavabhūter uddhatatvam ।

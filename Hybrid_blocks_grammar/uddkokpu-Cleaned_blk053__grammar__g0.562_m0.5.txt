@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 53 | label: grammar | g:0.562 m:0.5 ---
+
+divyaiśvaryaṃ diśasi bhajatāṃ vartase bhikṣamāṇo gaurīmaṅke vahasi bhasitaṃ pañcabāṇaṃ cakartha ।
+kṛtsnaṃ vyāpya sphurasi bhuvanaṃ mṛgyase cāgamāntaiḥ kaste tattvaṃ prabhavati paricchettumāścaryasindho ।।

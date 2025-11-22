@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 173 | label: meter | g:0.114 m:0.715 ---
+
+śrī vedavyāsa uvāca
+sa brahmahā sa goghnaś ca stenaḥ sa gurutalpagaḥ
+ekādaśyāṃ tu bhuñjānaḥ pakṣayor ubhayor api ।।

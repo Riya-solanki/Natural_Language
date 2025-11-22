@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2146 | label: meter | g:0.25 m:0.5 ---
+
+pūjito ahaṃ tvayā vīra vidhidṛṣṭena karmaṇā 
+gate tv evaṃ mama vacaḥ śrūyatāṃ gṛhyatāṃ ca vai ।। 
+evaṃ gate mahārāja śrūyatāṃ vacanaṃ mama । 
+anusṛtya divo lokān ahaṃ brahmapurogamān 
+gataḥ sūryasakhaṃ tāta vipulaṃ meruparvatam ।।

@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9526 | label: grammar | g:0.75 m:0.5 ---
+
+tāmbūlaṃ dantakāṣṭhañca bhojanaṃ ṛtusevanam । grāmamadhye sthite prete varjayet piṇḍapātanam ।। snānaṃ dānaṃ japo homastarpaṇaṃ surapūjanam । grāmamadhye sthite prete śuddhyarthaṃ jñātidharmataḥ ।। jñātisambandhināmevaṃ vyavahāraḥ khageśvara । vilupya jñātidharmañca pretapāpena lipyate ।।

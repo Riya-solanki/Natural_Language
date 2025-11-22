@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2798 | label: meter | g:0.306 m:0.5 ---
+
+nekṣetāgnyarkanagnāṃ strīṃ na ca saṃsṛṣṭamaithunām ।
+na ca mūtraṃ purīṣaṃ vā svapetpratyakūśirā na ca ।।

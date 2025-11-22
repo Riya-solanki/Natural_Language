@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 619 | label: meter | g:0.234 m:0.5 ---
+
+avaśyaṃbhāvinaṃ jñātvā te artham ūcus tataś ca tām 
+tasya rājño vasoḥ kanyā tvam apatyaṃ bhaviṣyasi 
+utpannasya pṛthivyāṃ tu mānuṣeṣu mahātmanaḥ । 
+kanyaiva bhūtvā lokān svān punaḥ prāpsyasi durlabhān ।। 
+matsyayonau samutpannā sutā rājño bhaviṣyasi । 
+parāśarasya dāyādaṃ tvaṃ vipraṃ janayiṣyasi 
+sa vedam ekaṃ brahmarṣiś caturdhā vibhajiṣyati ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4095 | label: meter | g:0.25 m:0.5 ---
+
+aniruddhādabhūdvajraḥ sa ca rājā gate harau ।
+sandīpaniṃ guruñcakre saputrañca cakāra saḥ ।
+mathurāyāṃ cograsenaṃ pālanaṃ ca divaukasām ।।

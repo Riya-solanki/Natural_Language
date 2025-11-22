@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 74 | label: meter | g:0.25 m:0.75 ---
+
+sadviṣayaṃ ca pratyakṣaṃ sadasadviṣayaṃ cānumānam।
+kasmāt? traikālyagrahaṇāttrikālayuktā arthā anumānena gṛhyante।
+bhaviṣyatītyanumīyate bhavatīti cābhūditi ca।
+asacca khlvatītamanāgataṃ ceti ।।

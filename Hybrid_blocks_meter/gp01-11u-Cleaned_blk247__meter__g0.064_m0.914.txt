@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 247 | label: meter | g:0.064 m:0.914 ---
+
+sukhayitu-kāmaḥ saha-sakhi-rāmaḥ
+samadhura-veśaḥ sapadi viveśa ।। [kusumavicitrā]

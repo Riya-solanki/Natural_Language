@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8501 | label: meter | g:0.326 m:0.5 ---
+
+na dattaṃ na hutaṃ japtaṃ na snātaṃ na kṛtaṃ stutam ।
+yādṛśaṃ karma caritaṃ mūḍha bhuṅkṣveti tādṛśam ।।

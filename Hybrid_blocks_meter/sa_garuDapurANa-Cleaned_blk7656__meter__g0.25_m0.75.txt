@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7656 | label: meter | g:0.25 m:0.75 ---
+
+malināścādhomukhāśca dīnā bhogavivarjitāḥ ।
+aṅgasaṃvāhanaṃ keśamārjanaṃ varjayanti te ।।

@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 930 | label: meter | g:0.25 m:0.798 ---
+
+ekasyobhayarūpaṃ kāraṇatvamaviruddhamiti sūtracatuṣṭayena sādhayati-kutaścetyādinā ।
+abhidhyā sṛṣṭisaṃkalpaḥ ।।

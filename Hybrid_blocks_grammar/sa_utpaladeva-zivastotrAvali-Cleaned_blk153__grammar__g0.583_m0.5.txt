@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 153 | label: grammar | g:0.583 m:0.5 ---
+
+tasmin pade bhavantaṃ satatam upaślokayeyam atyuccaiḥ hariharyaśvaviriñcā api yatra bahiḥ pratīkṣante ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3589 | label: meter | g:0.194 m:0.625 ---
+
+tān uvāca jarāsaṃdhaḥ kṣatradharme vyavasthitaḥ 
+dhig etāṃ kṣatravṛttiṃ vaḥ samare kātarātmanām ।।

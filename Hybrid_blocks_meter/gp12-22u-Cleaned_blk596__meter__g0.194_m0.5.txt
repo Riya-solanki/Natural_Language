@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 596 | label: meter | g:0.194 m:0.5 ---
+
+iraṃmada-radās te' mī nīradā api sarvadā ।
+carvanti kṣauṇi-pṛṣṭha-sthān garjanti kila garvataḥ ।। [udgīti]

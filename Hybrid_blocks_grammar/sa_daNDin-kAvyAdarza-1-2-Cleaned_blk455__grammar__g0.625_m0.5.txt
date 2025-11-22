@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 455 | label: grammar | g:0.625 m:0.5 ---
+
+arthāntarapravṛttena kiṃ cit tatsadṛśaṃ phalam sad asad vā nidarśyeta yadi tat syān nidarśanam ।।

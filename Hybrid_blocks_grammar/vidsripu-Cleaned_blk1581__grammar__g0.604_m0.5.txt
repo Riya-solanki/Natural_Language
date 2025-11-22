@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1581 | label: grammar | g:0.604 m:0.5 ---
+
+kva paṅkaḥ kvāmbhojaṃ kvaṇadalikulālāpamadhuraṃ śiro raudraṃ kvāheḥ sphuradurumayūkhaḥ kva ca maṇiḥ ।
+kaliḥ kvāyaṃ pāpaḥ kva ca guṇanidher janma bhavato vidhiḥ satyaṃ satyaṃ sadṛśaviniyogeṣv akuśalaḥ ।।

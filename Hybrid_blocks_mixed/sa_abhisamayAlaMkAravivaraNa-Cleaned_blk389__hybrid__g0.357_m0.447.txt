@@ -1,0 +1,5 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 389 | label: hybrid | g:0.357 m:0.447 ---
+
+bhavaśāntyoḥ samatā asya samatāprayogasya lakṣaṇādim abhisamayālaṅkāre ekayā kārikayā pratipāditam । tathā hi - 
+svapnopamatvād dharmāṇāṃ bhavaśāntyorakalpanā ।
+karmābhāvādicodyānāṃ parihārā yathoditāḥ ।।

@@ -1,0 +1,7 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 102 | label: grammar | g:0.6 m:0.453 ---
+
+tavyam, rathaṃtaraṃ bhavati, atrādhvaryuḥ syāt, ihokthyāni syuḥ iti ।
+satyaṃ dṛśyate, na tv iha pūrveṇa tulyo bhavatyarthaḥ ।
+siddho hi puruṣaḥ karmasaṃbandhanimittam ṛtviktvaṃ bhavad anyair eva parikrayaṇādibhir vyāpārair bhāvayed ity ucyate ।
+tathā rathaṃtarādiṣu saty api śrutyā bhavanavidhisaṃbandhe tatrāsaṃbhavād anumīyamānā bhāvanaiva vidhīyate ।
+yatra tu ihāmuko bhavet iti prayogas tatra bhavates tiṣṭhatyarthavācitvāt saṃbhavaty eva vyatiriktaṃ bhāvayitavyam ity evaṃ vijñāyate sthānenānyat kiṃcid bhāvayet iti ।

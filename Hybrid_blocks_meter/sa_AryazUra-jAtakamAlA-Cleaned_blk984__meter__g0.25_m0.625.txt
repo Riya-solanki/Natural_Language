@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 984 | label: meter | g:0.25 m:0.625 ---
+
+yatra prasaktāni kulāni neśurlakṣmīniketānyuditoditāni ।
+ucchedanī vittavatāṃ kulānāṃ seyaṃ ghaṭe krayyatayādhirūḍhā ।।

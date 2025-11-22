@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11608 | label: meter | g:0.281 m:0.766 ---
+
+tadā mātā ditirdevī hiraṇyākṣamuvāca sā ।
+ditiruvāca ।
+vatsalastvaṃ mahābhāgamā tapasvāṣṭahāyanaḥ ।।

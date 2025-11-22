@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8834 | label: meter | g:0.355 m:0.698 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīviṣṇuruvāca ।
+ataḥ paraṃ pravakṣyāmi puruṣastrī vinirṇayam ।
+jīvanvāpi mṛto vāpi pañcavarṣādhiko api vā ।।

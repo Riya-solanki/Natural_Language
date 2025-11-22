@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2896 | label: meter | g:0.194 m:0.5 ---
+
+kaṃ śarīram iti proktaṃ tasyānte nayate bhṛśam 
+paśyate mantrasaṃstho api vāṅmayaṃ sacarācaram ।।

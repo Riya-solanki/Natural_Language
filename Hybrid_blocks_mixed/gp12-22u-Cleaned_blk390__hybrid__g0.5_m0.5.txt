@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 390 | label: hybrid | g:0.5 m:0.5 ---
+
+[] vistaram atra cālaṃ kṛtvā, yataḥ śreyāṃsi bahu-vighnāni iti nīti-nighnatayā nātivilambanam ālambanīyam ity utthāya tābhiḥ saha mitho baddha-pāṇitayā pānīya-samīpaṃ prasthāya yamunāṃ praty añjaliṃ valayantī sāśru-gadgadam ardhodgata-varṇam udgadati sma-

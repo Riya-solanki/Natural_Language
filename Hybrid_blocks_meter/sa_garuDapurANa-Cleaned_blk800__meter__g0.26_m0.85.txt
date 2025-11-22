@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 800 | label: meter | g:0.26 m:0.85 ---
+
+hariruvāca ।
+arcanaṃ viṣṇudevasya vakṣyāmi vṛṣabhadhvaja ।
+tacchṛṇuṣva mahābhāga bhuktimuktipradaṃ śubham ।।

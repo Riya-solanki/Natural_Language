@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2563 | label: meter | g:0.194 m:0.75 ---
+
+kruddhaḥ saṃharate kṣipraṃ ghaṭikābhyantareṇa vai 
+tṛṇa vṛkṣalatādīnāṃ ṣaṭpadākāśagāminām ।।

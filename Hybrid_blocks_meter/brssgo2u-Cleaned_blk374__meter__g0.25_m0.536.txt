@@ -1,0 +1,9 @@
+--- source: brssgo2u-Cleaned.txt | block: 374 | label: meter | g:0.25 m:0.536 ---
+
+kṣaṇabhaṅgavāde pūrvakṣaṇo nirodhagrastatvānnottarasya kṣaṇasya heturbhavatītyuktam ।
+athāsatyeva hetau phalotpattiṃ brūyāt, tataḥ pratijñoparodhaḥ syāt ।
+caturvidhānhetūnpratītya cittacaittā utpadyanta itīyaṃ pratijñā hīyeta ।
+nirhetukāyāṃ cotpattāvapratibandhātsarvaṃ sarvatrotpadyeta ।
+athottarakṣaṇotpattiryāvattāvadavatiṣṭhate pūrvakṣaṇa iti brūyāttato yaugapadyaṃ hetuphalayoḥ syāt ।
+tathāpi pratijñoparodha eva syāt ।
+kṣaṇikāḥ sarve saṃskārā itīyaṃ pratijñoparudhyeta ।।

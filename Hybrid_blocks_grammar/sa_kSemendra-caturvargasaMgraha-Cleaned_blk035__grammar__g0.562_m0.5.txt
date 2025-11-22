@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 35 | label: grammar | g:0.562 m:0.5 ---
+
+yat klībair bhaṭakukkuṭotkaṭaraṇakrīḍā samādiśyate yan mūrkhaiḥ sukhalilayā kaviśukālāpaściraṃ carvyate ।
+nīcair uccataraś ca sevakahayaḥ svāmyena yad vāhyate tad vittasya vilāsanṛttavasater udvṛttavṛttāyitam ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1166 | label: meter | g:0.25 m:0.625 ---
+
+{sphuṭamarthālaṅkārāvetāvupamāsamuccayau kiṃ tu ।
+āśritya śabdamātraṃ sśmānyamihāpi saṃbhavataḥ ।।} iti ।

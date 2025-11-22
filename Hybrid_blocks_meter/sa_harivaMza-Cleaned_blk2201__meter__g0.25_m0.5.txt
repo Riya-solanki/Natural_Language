@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2201 | label: meter | g:0.25 m:0.5 ---
+
+tatas tvāṃ gṛhya caraṇe śilāyāṃ nirasiṣyati 
+tatas taddhastavibhraṣṭā madyogād bhavitā śubhā । 
+nirasyamānā gagane sthānaṃ prāpsyasi śāśvatam ।।

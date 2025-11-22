@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1432 | label: meter | g:0.194 m:0.625 ---
+
+{nijadoṣāvṛtamanasāmatisundarameva bhāti viparītam ।
+paśyati pittopahataḥ śaśiśubhraṃ śaṅkhamapi pītam ।।}

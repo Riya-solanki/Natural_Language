@@ -1,0 +1,7 @@
+--- source: brsgor3u-Cleaned.txt | block: 165 | label: meter | g:0.254 m:0.511 ---
+
+saṃjñaikyaṃ pūrvapakṣabījamudbhāvya dūṣayati-saṃjñāta iti ।
+upāsyarūpabhedādvidyānānātvaṃ yaduktaṃ tacchrutyakṣarānugataṃ balavat, saṃjñā tu pauruṣeyī durbaletyarthaḥ ।
+saṃjñaikyaṃ karmaikyavyabhicāri cetyāha-asti ceti ।
+kiṃ saṃjñaikyaṃ sarvatrāpramāṇameva netyāha-yatra tviti ।
+asati bādhake saṃjñaikyamapi mānaṃ yathā saṃvargavidyeti saṃjñaikyātsarvaśākhāsu tadvidyaikyaṃ, tathā pañcāgnyādividyaikyamityādyasūtre darśitamityarthaḥ ।।

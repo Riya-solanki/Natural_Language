@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6629 | label: meter | g:0.25 m:0.625 ---
+
+dvipādavigro dharmaḥ pītāñcācyute gate ।
+catuḥ śatāyuṣo lokā dvijakṣatrodbhavāḥ prajāḥ ।।

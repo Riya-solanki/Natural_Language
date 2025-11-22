@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 823 | label: hybrid | g:0.5 m:0.5 ---
+
+kṛtvā śiraḥsnānamathāṅiḍkaṃ vā saṃpūjya toyena pitṝn sadevān ।
+homaṃ ca kṛtvālabhanaṃ śubhānāṃ kṛtvā bahirnirgamanaṃ praśastam ।।

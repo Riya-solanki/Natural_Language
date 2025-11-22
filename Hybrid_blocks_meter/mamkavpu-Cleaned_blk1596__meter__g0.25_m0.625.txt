@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1596 | label: meter | g:0.25 m:0.625 ---
+
+pratipakṣamaśaktena pratikartuṃ tiraskriyā ।
+yā tadīyasya tatstutyai pratyanīkaṃ taducyate ।।

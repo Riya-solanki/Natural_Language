@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1247 | label: meter | g:0.306 m:0.5 ---
+
+pariśramas tasya babhūva yautako mahākṛpādhīnamater mahīpateḥ ।
+prabhutvam āsīj jagatāṃ tv abādhithaṃ vibhūtisaṃbhogasukheṣu bhūriṣu ।।

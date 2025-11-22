@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 167 | label: grammar | g:0.583 m:0.457 ---
+
+apicaivaṃ bhedadarsananindāpūrvakamabhedadarśanamevaike śākhinaḥ samāmananti - amanasaivedamāptavyaṃ neha nānāsti kiñcana ।
+mṛtyoḥ sa mṛtyupamāpnoti ya iha nāneva paśyati' iti ।
+tathānyepi abhoktā bhogyaṃ preritāraṃ ca matvā sarvaṃ trividhaṃ brahma me tat' iti samastasya bhogyabhoktṛniyantṛlakṣaṇasya prapañcasya brahmaikasvabhāvatāmadhīyate ।।

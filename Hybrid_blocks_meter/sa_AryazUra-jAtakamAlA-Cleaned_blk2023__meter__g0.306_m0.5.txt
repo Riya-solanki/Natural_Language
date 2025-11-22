@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2023 | label: meter | g:0.306 m:0.5 ---
+
+sthāne khalvasya vikhyātaṃ satyavāditayā yaśaḥ ।
+iti prāṇān svarājyaṃ ca satyārthaṃ yo ayamatyajat ।।

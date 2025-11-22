@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 969 | label: meter | g:0.25 m:0.5 ---
+
+daśabhirjanmajanitaṃ śatena tu purā kṛtam ।
+triyugaṃ tu sahasreṇa gāyattrī hanti duṣkṛtam ।।

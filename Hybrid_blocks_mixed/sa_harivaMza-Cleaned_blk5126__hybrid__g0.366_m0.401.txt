@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5126 | label: hybrid | g:0.366 m:0.401 ---
+
+niḥsāre kṣubhite loke niṣkriye vyantare sthite 
+narāḥ śrayiṣyanti vanaṃ karabhāraprapīḍitāḥ ।। 
+pitṝn ājñāpayiṣyanti putrāḥ karmāṇi sarvaśaḥ । snuṣāḥ śvaśrūs tathā caiva yugānte paryupasthite । vākśarais tarjayiṣyanti gurūñ śiṣyāḥ samantataḥ । 
+yajñakarmaṇy uparate rakṣāṃsi śvāpadāni ca 
+koṭimūṣakasarpāś ca dharṣayiṣyanti mānavān ।।

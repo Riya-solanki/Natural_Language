@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 150 | label: hybrid | g:0.355 m:0.443 ---
+
+atra ca brahmapadena tatpramāṇaṃ veda upasthāpitaḥ ।
+sa ca yogyatvāt atadyatheha karmacitaḥ' ityādiḥ aataḥ' iti sarvanāmnā parāmṛśya hetupañcamyā nirdiśyate ।

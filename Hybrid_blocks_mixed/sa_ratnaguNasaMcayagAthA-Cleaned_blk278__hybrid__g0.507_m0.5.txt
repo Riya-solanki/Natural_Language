@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 278 | label: hybrid | g:0.507 m:0.5 ---
+
+yāvanti vṛkṣa phalapuṣpavanaspatī yā sarve ca medinisamudgata prādubhūtāḥ 
+na ca medinī kṣayamupaiti na cāpi vṛddhiṃ na ca khidyatī na parihāyati nirvikalpā ।।

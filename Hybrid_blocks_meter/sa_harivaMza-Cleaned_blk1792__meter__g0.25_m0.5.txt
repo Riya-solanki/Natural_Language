@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1792 | label: meter | g:0.25 m:0.5 ---
+
+gāś ca sūryo rasān somo vāyuḥ prāṇāṃś ca prāṇiṣu 
+tarpayantaḥ pravartantāṃ śivaiḥ saumyaiś ca karmabhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1364 | label: meter | g:0.25 m:0.5 ---
+
+namo astu viṣṇave tasmai yasyābhinnam idaṃ jagat 
+dhyeyaḥ sa jagatām ādyaḥ sa prasīdatu me avyayaḥ ।।

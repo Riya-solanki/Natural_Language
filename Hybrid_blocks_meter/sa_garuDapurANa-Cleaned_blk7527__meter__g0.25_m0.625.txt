@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7527 | label: meter | g:0.25 m:0.625 ---
+
+pūrvoktaiḥ pañcabhiḥ piṇḍaiḥ śavasyāhutiyogyatā ।
+anyathā copaghātācca rākṣasādyā bhavanti hi ।।

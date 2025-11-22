@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 532 | label: meter | g:0.25 m:0.75 ---
+
+vyatibhedāparijñāne nirvāṇe va niveśanam ।
+dharmakāyasya karmedaṃ saptaviṃśatidhā matam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 18 | label: meter | g:0.194 m:0.625 ---
+
+taṃ vai viddhi mahārāja brahmāṇam amitaujasam 
+sraṣṭāraṃ sarvabhūtānāṃ nārāyaṇaparāyaṇam ।।

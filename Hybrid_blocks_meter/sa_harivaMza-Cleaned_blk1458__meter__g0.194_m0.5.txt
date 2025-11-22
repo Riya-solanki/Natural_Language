@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1458 | label: meter | g:0.194 m:0.5 ---
+
+ākāśe tu sthito viṣṇur uttamaṃ vapur āsthitaḥ 
+uvāca devatāḥ sarvāḥ sapratijñam idaṃ vacaḥ ।।

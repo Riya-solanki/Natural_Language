@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11557 | label: hybrid | g:0.521 m:0.5 ---
+
+yadi prasannosi mayi tvamīśa tvatpādamūle dehi bhaktiṃ sadaiva ।
+tvaddarśanāddeva śubhāśubhaṃ ca naṣṭaṃ madīyaṃ hyaśubhaṃ ca nityam ।।

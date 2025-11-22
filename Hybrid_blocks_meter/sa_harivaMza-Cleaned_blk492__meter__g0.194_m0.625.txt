@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 492 | label: meter | g:0.194 m:0.625 ---
+
+te vadhyamānā vīreṇa sagareṇa mahātmanā 
+vasiṣṭhaṃ śaraṇaṃ gatvā praṇipetur manīṣiṇam ।।

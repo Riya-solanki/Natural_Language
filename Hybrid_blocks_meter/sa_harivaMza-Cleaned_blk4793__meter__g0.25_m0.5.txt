@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4793 | label: meter | g:0.25 m:0.5 ---
+
+āhukaś caiva no rājā hṛtaḥ sālvena vai purā 
+pratyānītas tato asmābhir yuddhaṃ kṛtvā sudāruṇam ।।

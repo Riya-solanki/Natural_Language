@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 575 | label: meter | g:0.25 m:0.5 ---
+
+brāhmaṇāḥ kṣatriyā vaiśyāḥ sūdrā ye tatparāyaṇāḥ ।
+snātā bhaktiyutāḥ sarve paśyanti paramaṃ padam ।।

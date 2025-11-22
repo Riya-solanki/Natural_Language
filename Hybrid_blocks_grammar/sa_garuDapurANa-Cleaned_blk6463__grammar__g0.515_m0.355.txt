@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6463 | label: grammar | g:0.515 m:0.355 ---
+
+śrīgaruḍamahāpurāṇam- brahmovāca । vaiśvadevaṃ pravakṣyāmi homalakṣaṇamuttamam । 
+prajvālya cāgniṃ paryukṣya-oṃ kraṣyādamagniṃ prahiṇomi dūraṃ yamarājyaṃ gacchatu ripravāhaḥ ।
+ihaivāyamitaro jātavedā devebhyo havyaṃ vahatu prajānat ।
+oṃ pāvaka vaiśvānara idamāsanaṃ araṇīgarbhasaṃskṛtatejorūpa mahābrahman muhūrtāstriṣu vaiśvānaraṃ pratibodhayāmi ।
+oṃ vaiśvānare na ubhayaṃ āprayātu parāvataḥ agnirna svadyutīrūpapṛṣṭho divi pṛṣṭho aśvi pṛthivyāṃ pṛṣṭhā vivevā oṣadhīcāviveśa vaiśvānaraḥ sahasā pṛṣṭho agniḥ namo divya sa ṣaṣṭhāṃ naktam ।।

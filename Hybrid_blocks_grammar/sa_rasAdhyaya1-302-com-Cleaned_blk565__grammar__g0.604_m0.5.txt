@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 565 | label: grammar | g:0.604 m:0.5 ---
+
+tataḥ pūrvoktāni sarvāṇyapi nāgavaṅgādilohāni ratisahasramātrāṇi gālayitvā bhramatyeva loharase ratimātraṃ veḍhanīrasaṃ cūrṇaṃ kṣipet ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6716 | label: meter | g:0.306 m:0.5 ---
+
+mṛtaḥ pare ahni kṣetrajñaḥ saṃjāto ayaṃ guṇātmakaḥ ।
+ekatve api pṛthagbhāvastathā kṣetrātmano nṛpa ।।

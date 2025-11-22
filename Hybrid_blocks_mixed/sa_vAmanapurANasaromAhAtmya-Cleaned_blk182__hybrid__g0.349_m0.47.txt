@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 182 | label: hybrid | g:0.349 m:0.47 ---
+
+na yasya rūpaṃ na balaṃ prabhāvo na ca pratāpaḥ paramasya puṃsaḥ ।
+vijñāyate sarvapitāmahādyaistaṃ vāsudevaṃ praṇamāmi nityam ।।

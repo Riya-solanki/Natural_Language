@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 941 | label: meter | g:0.194 m:0.5 ---
+
+ṛṣir jāto atrivaṃśe ca tāsāṃ bhartā prabhākaraḥ 
+rudrāyāṃ janayām āsa somaṃ putraṃ yaśasvinam ।।

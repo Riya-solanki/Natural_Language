@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4434 | label: meter | g:0.194 m:0.625 ---
+
+sūryāṃśujanitaṃ tāpaṃ ninye tārāpatiḥ śamam 
+ahaṃkārodbhavaṃ duḥkhaṃ vivekaḥ sumahān iva ।।

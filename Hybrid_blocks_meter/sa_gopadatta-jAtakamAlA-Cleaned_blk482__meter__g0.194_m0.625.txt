@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 482 | label: meter | g:0.194 m:0.625 ---
+
+ye baddhā viṣayeṇa duḥkhanigaḍe anāyāsakarmotkaṭe
+ye tyaktvā guruvākyam andhamatayaḥ pāpāśrayaṃ kurvate ।
+muktāḥ karmabhir eva duḥkhanigaḍapracchedaśūraiḥ śubhair
+mānuṣyaṃ yad avāpya mūḍhamatayo dūre sthitā karmiṇaḥ ।।

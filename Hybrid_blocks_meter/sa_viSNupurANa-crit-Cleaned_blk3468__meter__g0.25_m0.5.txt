@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3468 | label: meter | g:0.25 m:0.5 ---
+
+manorathānāṃ na samāptir asti varṣāyutenāpi tathābdalakṣaiḥ 
+pūrṇeṣu pūrṇeṣu punar navānām utpattayaḥ santi manorathānām ।।

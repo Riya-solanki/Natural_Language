@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 234 | label: meter | g:0.292 m:0.5 ---
+
+iti parasparaṃ sa-vailakṣya-smitam īkṣitvā sthitayos tayoḥ snigdhakaṇṭha eva sotkaṇṭham uvāca-

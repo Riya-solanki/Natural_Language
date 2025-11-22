@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5117 | label: meter | g:0.25 m:0.5 ---
+
+kuṇḍinaṃ na pravekṣyāmi ahatvā yudhi keśavam 
+kṛtvā pratijñāṃ rukmī ca hantuṃ kṛṣṇam abhidrutaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3082 | label: meter | g:0.194 m:0.625 ---
+
+upāvṛttāsu vai goṣu duhyamānāsu ca vraje 
+asakṛd vyāharantīṣu baddhavatsāsu dhenuṣu ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 746 | label: meter | g:0.194 m:0.75 ---
+
+na kaṃcidanugṛhṇīyān na niṣeveta bhartsayet 
+nāsīta ciramanyatra vinā kṣetraparigrahāt ।।

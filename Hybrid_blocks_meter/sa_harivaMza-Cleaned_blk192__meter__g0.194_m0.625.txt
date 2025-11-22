@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 192 | label: meter | g:0.194 m:0.625 ---
+
+paścimasyāṃ diśi tathā rajasaḥ putramacyutam 
+ketumantaṃ mahātmānaṃ rājānaṃ so abhyaṣecayat ।।

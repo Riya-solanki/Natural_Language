@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 502 | label: meter | g:0.194 m:0.521 ---
+
+tāvan mānaṃ vitaraṇam aho sampadas tāḥ kiyatyas
+tāvat saṅkhyaṃ mahasi racanaṃ bhṛtya-vargāḥ kiyantaḥ ।
+tāvat prāntaṃ jana-sama-vanaṃ katy amuṣyāvadhānāny
+evaṃ sarvaṃ vraja-narapateḥ ko nu śakto vivektum ।। iti ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2910 | label: meter | g:0.25 m:0.625 ---
+
+sundaṃ haste samādāya svasainyaṃ punarāgamat ।
+andhake purāyāte svabalaṃ munisattama ।।

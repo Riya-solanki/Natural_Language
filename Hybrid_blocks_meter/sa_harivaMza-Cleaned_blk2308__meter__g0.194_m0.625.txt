@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2308 | label: meter | g:0.194 m:0.625 ---
+
+visarpantau tu sarvatra sarpabhogabhujāv ubhau 
+rejatuḥ pāṃśudigdhāṅgau dṛptau kalabhakāv iva ।।

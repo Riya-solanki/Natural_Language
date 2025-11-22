@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 501 | label: meter | g:0.194 m:0.625 ---
+
+dhvajaṃ sūnākaraṃ vāpi matsyaghātaṃ tu lubdhakam 
+koṅkaṇaṃ cīnabāhlīkaṃ vaṅgālaṃ kāmarūpakam ।।

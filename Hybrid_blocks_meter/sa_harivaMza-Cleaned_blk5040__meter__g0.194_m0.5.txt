@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5040 | label: meter | g:0.194 m:0.5 ---
+
+anumānya tu sarvajñaṃ pṛcchāmi bhagavann aham 
+hetuḥ kurūṇāṃ nāśasya rājasūyo mato mama ।।

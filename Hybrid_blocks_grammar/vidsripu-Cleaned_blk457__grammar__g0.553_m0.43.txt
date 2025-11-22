@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 457 | label: grammar | g:0.553 m:0.43 ---
+
+iyaṃ gehe lakṣmīr iyam amṛtavartir nayanayor asāv asyāḥ sparśo vapuṣi balahaś candanarasaḥ ।
+ayaṃ kaṇṭhe bāhuḥ śiśiramasṛṇo mauktikarasaḥ kim asyā na preyo yadi param asahyas tu virahaḥ ।।
+bhavabhūteḥ

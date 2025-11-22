@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3027 | label: meter | g:0.25 m:0.5 ---
+
+jñātvā sa sarveśvaramīśamavyayaṃ trailokyanāthaṃ varadaṃ vareṇyam ।
+sarvaiḥ surādyairnatamīḍyamādyaṃ tato andhakaḥ stotramidaṃ cakāra ।।

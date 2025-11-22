@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 962 | label: grammar | g:0.75 m:0.5 ---
+
+atra prathamārdhe kṣudraśaṅkhasamutpattisthānajalāśayānāmupamānākathanādeva tadupameyānāṃ pratīyamānasādṛsyānāṃ kṣudrakṣudrakṣatriyotpattisthānānāmanyanarapālavaṃśānāmuktteḥ siddhāvupamānadvāreṇaivopameya garhā pratīyate । uttarārdhe ca dakṣimaṇāvartaśaṅkhajanakakṣīrasāgareṇaivopamānena kathitasādṛśyasya nāyakāva taramapariṇatabhāgadheyasya recarlavaṃśasyoktisiddhā vupamānamukhenaivopameyasya ślāghā pratīyate । tadiyaṃ garhāślāghāsaṃkaravatī samāsoktiḥ । evamanye bhedā lakṣaṇīyāḥ । eṣāṃ vikṛtā api saṃbhavatanti ।

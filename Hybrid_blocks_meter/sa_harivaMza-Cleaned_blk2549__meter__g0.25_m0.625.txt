@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2549 | label: meter | g:0.25 m:0.625 ---
+
+tasmin gardabhadaiteya tu sānuge vinipātite 
+ramyaṃ tālavanaṃ tadd hi bhūyo ramyataraṃ babhau ।।

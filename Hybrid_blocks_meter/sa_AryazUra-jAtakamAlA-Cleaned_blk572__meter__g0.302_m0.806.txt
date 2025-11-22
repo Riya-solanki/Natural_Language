@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 572 | label: meter | g:0.302 m:0.806 ---
+
+haṃsāṃsavikṣobhitapaṅkajāni kiñjalkareṇusphuṭapiñjarāṇi ।
+prādurbabhūvuśca sarāṃsi tasya tatraiva yatrābhicakāṅkṣa vāri ।।

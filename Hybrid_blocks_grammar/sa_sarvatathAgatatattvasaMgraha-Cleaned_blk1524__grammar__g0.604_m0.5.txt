@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1524 | label: grammar | g:0.604 m:0.5 ---
+
+atha vajradaṇḍo vajrakrodhaḥ svahṛdayamadāt । oṃ vajradaṇḍa tanuya sarvaduṣṭān mahākrodha huṃ phaṭ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11098 | label: hybrid | g:0.5 m:0.5 ---
+
+pādāravinde sunakhairvibhūṣite dṛṣṭe mayā kena puṇyena deva ।
+dṛṣṭvādṛṣṭvā pādapadmaṃ murāreḥ punaḥ punā ruddhakaṇṭho babhūva ।।

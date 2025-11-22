@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 302 | label: meter | g:0.194 m:0.625 ---
+
+kiṃ tv āntaradaśodrekāt sādākhyaṃ tattvam āditaḥ 
+bahirbhāvaparatve tu parataḥ pārameśvaram ।।

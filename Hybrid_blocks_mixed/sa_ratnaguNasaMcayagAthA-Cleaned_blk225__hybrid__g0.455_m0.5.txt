@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 225 | label: hybrid | g:0.455 m:0.5 ---
+
+buddhā ya bodhivaraprasthita bodhisattvā kalyāṇamitra imi pāramitā nidiṣṭāḥ 
+te cānuśāsaka iyaṃ pratipattibhūmī duvi kāraṇena anubudhyati buddhabodhim ।।

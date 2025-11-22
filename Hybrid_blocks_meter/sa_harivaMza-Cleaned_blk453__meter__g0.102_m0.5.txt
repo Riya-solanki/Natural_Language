@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 453 | label: meter | g:0.102 m:0.5 ---
+
+pitaraṃ so abravīt tyaktaḥ kva gacchāmīti vai muhuḥ 
+pitā tv enam athovāca śvapākaiḥ saha vartaya 
+nāhaṃ putreṇa putrārthī tvayādya kulapāṃsana ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 75 | label: meter | g:0.333 m:0.5 ---
+
+[] atha pratiprātar iva śrīmad-vrajarāja-samāje virājamāne kathāṃ kathayituṃ samutkaṇṭho madhukaṇṭho nijāntaś cintayāmāsa-

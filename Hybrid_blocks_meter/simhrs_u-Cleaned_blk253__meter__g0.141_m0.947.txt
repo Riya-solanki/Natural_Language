@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 253 | label: meter | g:0.141 m:0.947 ---
+
+yathā-
+yatra strīṇāṃ priyatama-bhujocchvāsitāliṅgitānām
+aṅga-glāniṃ surata-janitāṃ tantu-jālāvalambāḥ ।
+tvat-saṃrodhāpagama-viśadaś candra-pādair niśīthe
+vyālumpanti sphuṭa-jala-lava-syandinaś candra-kāntāḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 387 | label: meter | g:0.271 m:0.5 ---
+
+tat trividhaṃ bhavati । ādimadhyānteṣu vākyeṣu vṛtterbhedāt । yathā

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3208 | label: meter | g:0.25 m:0.625 ---
+
+apakāraparānnityaṃ cinta yenna kadācana ।
+svayameva patiṣyanti kūlajātā iva drumāḥ ।।

@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 39 | label: meter | g:0.25 m:0.625 ---
+
+athātadviṣayatve api smṛtes tadavasāyataḥ ।
+dṛṣṭālambanatā bhrāntyā tad etad asamañjasam ।।

@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 241 | label: grammar | g:0.526 m:0.017 ---
+
+pare hi dvayīṃ nityatāmāhuḥ-kūṭasthanityatā pariṇāminityatāṃ ca ।
+tatra nityamityukte mā bhūdasya pariṇāminityatetyāha- tatra kiñcititi ।
+pariṇāminityatā hi na pāramārthikī ।
+tathā hi-tatsarvātmanā vā pariṇamate ekadeśena vā ? sarvātmanā pariṇāme kathaṃ na tattvavyāhṛtiḥ ? ekadeśapariṇāme vā sa ekadeśastato bhinno vā abhinno vā ? bhinnaścet kathaṃ tasya pariṇāmaḥ ? na hyanyasmin pariṇamamāne anyaḥ pariṇamati, atiprasaṅgāt ।
+abhede vā kathaṃ na sarvātmanā pariṇāmaḥ ?

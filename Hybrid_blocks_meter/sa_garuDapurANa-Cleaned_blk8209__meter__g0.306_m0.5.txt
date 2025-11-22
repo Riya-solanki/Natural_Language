@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8209 | label: meter | g:0.306 m:0.5 ---
+
+uddhṛtā ye gayāśrāddhe brahmalokañca taiḥ saha ।
+bhajante kṣutpipāsā vā na teṣāṃ jāyate kvacit ।।

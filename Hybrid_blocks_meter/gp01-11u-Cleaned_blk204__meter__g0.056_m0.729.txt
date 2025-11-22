@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 204 | label: meter | g:0.056 m:0.729 ---
+
+brāhmaṇyas tv adhikacam acyutasya dūrvā
+pūrvāṇi nyadhiṣata tatra maṅgalāni ।
+yady āśīrvacanam ihārurodha bāṣpaḥ
+kalyāṇaṃ bata bhavatān manorathasya ।। [praharṣiṇī]

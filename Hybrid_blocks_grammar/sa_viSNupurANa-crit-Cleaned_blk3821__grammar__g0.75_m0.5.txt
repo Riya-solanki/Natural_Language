@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3821 | label: grammar | g:0.75 m:0.5 ---
+
+tasyāṃ cāsau daśa putrān ajanayad vasudevapūrvān । vasudevasya jātamātrasyaiva tadgṛhe bhagavadaṃśāvatāram avyāhatadṛṣṭyā paśyadbhir devair divyānakadundubhayaś ca vāditāḥ । tatas tadaivānakadundubhisaṃjñām avāpa । tasyāpi devabhāgadevaśravānādhṛṣṭikarundhakavatsabālakasṛñjayaśyāmaśamīkagaṇḍūṣasaṃjñā nava bhrātaro babhūvuḥ । pṛthā śrutadevā śrutakīrtiḥ śrutaśravā rājādhidevī ca vasudevādīnāṃ pañca bhaginyo abhavan ।।

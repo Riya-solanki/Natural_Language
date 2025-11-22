@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 387 | label: grammar | g:0.646 m:0.5 ---
+
+bhedaḥ nirvedhabhāgīyaprayogamārgasthaḥ, kṣāntijñānasaṃgṛhītadarśanamārgasthaḥ, paraśca prābandhikabhāvanāmārgastha iti trividho bhavati avaivartikabodhisattvasaṃgha iti trayo asya bhedā bhavanti ।

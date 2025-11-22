@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2050 | label: meter | g:0.25 m:1.0 ---
+
+śuktyudbhavaṃ nātinikṛṣṭavarṇaṃ pramāṇasaṃsthānaguṇaprabhābhiḥ ।
+utpadyate vardhanapārasīkapātālalokāntarasiṃhaleṣu ।।

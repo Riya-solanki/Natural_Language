@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2444 | label: meter | g:0.194 m:0.5 ---
+
+tasya manvantaraṃ hy etat sāvarṇikam athāṣṭamam 
+tac chṛṇuṣva mahābhāga bhaviṣyaṃ kathayāmi te ।।

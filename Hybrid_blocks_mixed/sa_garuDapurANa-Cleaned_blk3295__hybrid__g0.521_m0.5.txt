@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3295 | label: hybrid | g:0.521 m:0.5 ---
+
+na cāntarikṣe na samudramadhye na parvatānāṃ vivarapraveśe ।
+na mātṛmūrdhni pradhṛtastathāṅke tyaktuṃ kṣamaḥ karma kṛtaṃ naro hi ।।

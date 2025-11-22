@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 549 | label: meter | g:0.381 m:0.774 ---
+
+prakaṭaṃ naiva kartavyaṃ na meruṃ laṅghayet kvacit ।
+śaṅkhasphaṭikarudrākṣaputrañ jīvakariṣṭakāḥ ।।

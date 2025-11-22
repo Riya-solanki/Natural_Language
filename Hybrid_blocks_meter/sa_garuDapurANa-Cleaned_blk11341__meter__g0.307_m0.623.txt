@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11341 | label: meter | g:0.307 m:0.623 ---
+
+haste pāde udare karṇayośca śiśre gulphe tvadharoṣṭhedhikaṃ ca ।
+caturviṃśatyā lakṣaṇaiścāpi yukto nāstikyavāyustadvadevāṣṭabhiśca ।।

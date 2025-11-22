@@ -1,0 +1,8 @@
+--- source: brssbh1u-Cleaned.txt | block: 455 | label: meter | g:0.283 m:0.917 ---
+
+anyabhāvavyāvṛtteśca ।
+anyabhāvavyāvṛtteśca kāraṇādbrahmaivākṣaraśabdavācyam ।
+tasyaivāmbarāntadhṛtiḥ karma nānyasya kasya cit ।
+kimidamanyabhāvavyāvṛtteriti ।
+anyasya bhāvo anyabhāvasyasmādvyāvṛttiranyabhāvavyāvṛttiriti ।
+etaduktaṃ bhavati-

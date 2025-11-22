@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1914 | label: hybrid | g:0.479 m:0.5 ---
+
+aho kāpālinī-darśanam eva ekaṃ saukhya-mokṣa-sādhanam । bho kāpālika ahaṃ tava samprataṃ dāsaḥ saṃvṛttaḥ । mām api mahā-bhairavānuśāsane dikṣaya ।]

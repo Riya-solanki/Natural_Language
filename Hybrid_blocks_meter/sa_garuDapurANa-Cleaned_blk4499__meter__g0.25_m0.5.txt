@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4499 | label: meter | g:0.25 m:0.5 ---
+
+vibhāge aṅgasya ye proktā pipāsādyāstrayo malāḥ ।
+te apyasya grahaṇīdoṣāḥ samanteṣvasti kāraṇam ।।

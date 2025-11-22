@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1814 | label: hybrid | g:0.51 m:0.5 ---
+
+bhūyaḥ surāstiṣyayuge nirāśinī nirīkṣya mārī ca gṛhe śatakratoḥ ।
+saṃbhūya devyāmitasatyadhāmayā surā bhariṣyāmi ca śākambharī vai ।।

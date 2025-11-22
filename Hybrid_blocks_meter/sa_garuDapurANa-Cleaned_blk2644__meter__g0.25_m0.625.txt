@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2644 | label: meter | g:0.25 m:0.625 ---
+
+bhūtādhyakṣaṃ tathā baddhaniyantāraṃ prabhuṃ vibhum ।
+caitanyarūpatārūpaṃ sarvādhyakṣaṃ nirañjanam ।।

@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 312 | label: grammar | g:0.688 m:0.5 ---
+
+yadā bhāvā bhedenedaṃtayaiva bhāsante aham iti pramātṛtvena ca dehādis, tadā viparyadvayahetur māyāśaktir vimohinī nāma vibhor vijṛmbhate ।।

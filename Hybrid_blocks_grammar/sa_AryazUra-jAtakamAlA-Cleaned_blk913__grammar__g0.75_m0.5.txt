@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 913 | label: grammar | g:0.75 m:0.5 ---
+
+atha kadācitsattvānāṃ bhāgyasampadvaikalyātpramādācca varṣādhikṛtānāṃ devaputrāṇāṃ na samyagdevo vavarṣa । athāsamyagvarṣiṇi deve tatsaraḥ phullakadambakusumagaureṇa navasalilena na yathāpuramāpupūre । krameṇa copagate nidāghakālasamaye paṭutaradīptibhiḥ khedālasagatibhiriva ca dinakarakiraṇaistadabhitaptayā ca dharaṇyā jvālānugateneva ca hlādābhi lāṣiṇā mārutena tarṣavaśādiva pratyahamāpīyamānaṃ tatsaraḥ palvalībabhūva ।

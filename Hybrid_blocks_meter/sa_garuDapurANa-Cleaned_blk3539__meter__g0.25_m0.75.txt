@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3539 | label: meter | g:0.25 m:0.75 ---
+
+gaurīṃ yajedvilvapatraiḥ kuśodakakarastataḥ ।
+kadambādau girisutāṃ pauṣe marubakairyajet ।।

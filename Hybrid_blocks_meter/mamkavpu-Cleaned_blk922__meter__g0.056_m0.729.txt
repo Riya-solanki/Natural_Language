@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 922 | label: meter | g:0.056 m:0.729 ---
+
+{yena dhvastamanobhavena balijitkāyaḥ purā strīkṛto
+yaścoddhṛttabhujaṅgahāravalayogaṅgāṃ ca yodhārayat ।
+yasyāhuḥ śaśimacchirohara iti syutyaṃ ca nāmāmarāḥ
+pāyātsa svayamandhakakṣayakarastvāṃ sarvadomādhavaḥ ।।}

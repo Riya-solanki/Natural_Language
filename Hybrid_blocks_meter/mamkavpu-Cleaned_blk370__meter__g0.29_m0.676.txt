@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 370 | label: meter | g:0.29 m:0.676 ---
+
+atra guṇagrahaṇādīnāṃ bahutvaṃ premṇaścaikatvaṃ dyotyate ।।
+puruṣavyatyayasya yathā

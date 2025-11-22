@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4113 | label: meter | g:0.194 m:0.625 ---
+
+upasaṃhara sarvātman rūpam etac caturbhujam 
+jānātu māvatāraṃ te kaṃso ayaṃ ditijātmajaḥ ।।

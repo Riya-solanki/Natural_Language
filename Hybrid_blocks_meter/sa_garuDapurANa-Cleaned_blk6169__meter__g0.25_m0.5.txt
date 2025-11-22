@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6169 | label: meter | g:0.25 m:0.5 ---
+
+samāsāḥ ṣaṭ samākhyātāḥ sa dvijaḥ karmadhārayaḥ ।
+dvigustrivedī grāmaśca ayaṃ tatpuruṣaḥ smṛtaḥ ।।

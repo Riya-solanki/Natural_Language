@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6910 | label: meter | g:0.25 m:0.695 ---
+
+tasya muktiṃ na paśyāmi janmakoṭiśatairapi ।
+tasmānnārada sarveṣāṃ devānāṃ devamavyayam ।
+ārādhayetsadā samyagadhyāyedviṣṇuṃ mudānvitaḥ ।।

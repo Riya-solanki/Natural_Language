@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9061 | label: meter | g:0.306 m:0.625 ---
+
+tilāḥ śvetāstilāḥ kṛṣṇāstilā gomūtrasannibhāḥ ।
+te me dahantu pāṣāni śarīreṇa kṛtāni ca ।।

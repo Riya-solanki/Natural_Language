@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 332 | label: meter | g:0.096 m:0.872 ---
+
+atha saptaviṃśaṃ pūraṇam
+rāsa-prapañca-pañca-pūraṇī-pūraṇam

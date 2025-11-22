@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5079 | label: meter | g:0.25 m:0.555 ---
+
+dhanāni ślāghanīyāni satāṃ vṛttam apūjitam 
+nāryaś cāpi kariṣyanti kṛṣim eva kalau yuge । 
+akutsanā ca patite bhaviṣyati yugakṣaye ।। 
+aśāntās tāpasā nityaṃ bhaviṣyanti kalau yuge । 
+pranaṣṭacetanā martyā muktakeśā vicūlinaḥ 
+unaṣoḍaśavarṣāś ca prajāsyanti narās tadā ।।

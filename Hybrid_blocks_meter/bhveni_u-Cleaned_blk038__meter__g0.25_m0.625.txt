@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 38 | label: meter | g:0.25 m:0.625 ---
+
+dhṛtarāṣṭrasya tanayānkṛtavairānpade pade ।
+rājā na cenniṣeddhā syātkaḥ kṣameta tavānujaḥ ।।

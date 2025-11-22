@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1978 | label: grammar | g:0.625 m:0.5 ---
+
+iti vicintayatastasya mahāsattvasya tadīyaduḥkhābhitaptamanasaḥ kāruṇyaparicayādaśrūṇi prāvartanta । atha saudāsaḥ sāśrūnayanamabhivīkṣya bodhisattvaṃ samabhiprahasannuvācamā tavadbhoḥ ।

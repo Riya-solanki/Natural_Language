@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1023 | label: hybrid | g:0.275 m:0.463 ---
+
+ṛkṣāt saṃvaraṇo jajñe kuruḥ saṃvaraṇāt tathā 
+yaḥ prayāgād apakramya kurukṣetraṃ cakāra ha ।। 
+tad vaitat sa mahābhāgo varṣāṇi subahūny atha । tapyamāne tadā śakro yatrāsya varado babhau । 
+puṇyaṃ ca ramaṇīyaṃ ca puṇyakṛdbhir niṣevitam 
+tasyānvavāyaḥ sumahān yasya nāmnā stha kauravāḥ ।।

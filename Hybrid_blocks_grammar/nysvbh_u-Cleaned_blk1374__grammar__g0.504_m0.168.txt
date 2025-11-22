@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1374 | label: grammar | g:0.504 m:0.168 ---
+
+sati kāryānyatve anupalabdhikāraṇānupapatteḥ prayatnasyāhetutvaṃ śabdasyābhivyaktau ।
+yatra prayatnānantaramabhivyaktistatrānupalabdhikāraṇaṃ vyavadhānamupapadyate vyavadhānāpohācca prayatnānantarabhāvino arthasayopalabdhilakṣaṇābhivyaktirbhavatīti na tu śabdasyānupalabdhikāraṇaṃ kiṃ cidupapadyate yasya prayatnānantaramapohāt śabdasyopalabdhilakṣaṇābhivyaktirbhavatīti tasmādutpadyate śabdo nābhivyajyate iti ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5546 | label: meter | g:0.306 m:0.625 ---
+
+āṭarūṣakapatreṇa ghṛtaṃ mṛdvagninā pacet ।
+cūrṇaṃ kṛtvā tu lepo ayaṃ arśarogaharaḥ paraḥ ।।

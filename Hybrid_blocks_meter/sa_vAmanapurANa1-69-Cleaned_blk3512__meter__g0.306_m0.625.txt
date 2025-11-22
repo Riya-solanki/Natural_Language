@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3512 | label: meter | g:0.306 m:0.625 ---
+
+tataḥ kālena mahatā āvayoḥ sa pitā mṛtaḥ ।
+tasyordhvadehikaṃ kṛtvā gṛhamāvāṃ samāgatau ।।

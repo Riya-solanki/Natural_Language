@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4868 | label: meter | g:0.25 m:0.695 ---
+
+sarvatas taiḥ pradīptāsyaiḥ sārciṣmadbhir ivānalaiḥ 
+abhyupetya tadātyugrair yakṣarākṣasakiṃnaraiḥ । 
+āpīyata tadā raktaṃ caturṇām api saṃyuge ।।

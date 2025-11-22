@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3104 | label: meter | g:0.25 m:0.5 ---
+
+yajñeśvaro havyasamastakavya bhoktāvyayātmā harir īśvaro atra 
+tatsaṃnidhānād apayāntu sadyo rakṣāṃsy aśeṣāṇy asurāś ca sarve ।।

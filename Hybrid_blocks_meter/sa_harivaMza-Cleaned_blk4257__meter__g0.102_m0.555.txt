@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4257 | label: meter | g:0.102 m:0.555 ---
+
+śītavātārditā gāś ca dṛṣṭvā kṛṣṇena dhīmatā 
+dhṛto govardhanaḥ śailaḥ saptarātraṃ mahātmanā 
+śiśunā vāsudevena gavāṃ trāṇārtham icchatā ।।

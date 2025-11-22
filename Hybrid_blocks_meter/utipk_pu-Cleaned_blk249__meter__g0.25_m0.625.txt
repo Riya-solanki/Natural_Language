@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 249 | label: meter | g:0.25 m:0.625 ---
+
+pramātari purāṇe tu sarvadā bhātavigrahe ।
+kiṃ pramāṇaṃ navābhāsaḥ sarvapramitibhāgini ।।

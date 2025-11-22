@@ -1,0 +1,7 @@
+--- source: mrgt1chu-Cleaned.txt | block: 72 | label: grammar | g:0.564 m:0.477 ---
+
+pāśasadbhāve hy ātmanāṃ janmasthitidhvaṃsatirobhāvānugrahakṛt bhagavān bhavatīti patipaśupāśātmavyatiriktaṃ na kiṃcit padārthāntaraṃ prayojanavad eṣv evānyeṣām antarbhāvād iti tripadārthatvam uktam ।। 
+kiṃ ca pāśajālam apohatīty apohatikriyākṣiptāḥ kriyācaryāyogapādāḥ patipaśupāśoktyākṣiptaś ca vidyāpāda iti pādacatuṣṭayopakṣepaḥ kṛtaḥ ।। 
+mahātantram iti darśanāntarebhyo adhikaphalatvāc chivabhedakatvena paratvād vā mahat tantritatattatprameyatvāc ca tantram ।। 
+ekenaivāmunā sūtreṇa saṃhṛtya saṃgṛhya punar vistareṇaitad eva prameyaṃ jagatpatiḥ śrīkaṇṭhanāthaḥ prāha ।। 
+mūlasūtrāt sarvakṛt sarvavid iti viśeṣaṇadvayaṃ vyācaṣṭe ।।

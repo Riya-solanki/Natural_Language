@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 725 | label: meter | g:0.29 m:0.872 ---
+
+ucyate- tadādravaṇāt ।
+śucamabhidudrāva, śucā vābhidudruve, śucā vā raikvamabhidudrāveti śūdraḥ ।
+avayavārthasaṃbhavādrūḍhārthasya cāsaṃbhavāt ।
+dṛśyate cāyamartho asyāmākhyāyikāyām ।।

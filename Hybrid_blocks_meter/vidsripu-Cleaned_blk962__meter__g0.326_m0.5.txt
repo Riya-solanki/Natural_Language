@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 962 | label: meter | g:0.326 m:0.5 ---
+
+kāśmīreṇa dihānam ambaratalaṃ vāmabhruvām ānana- dvairājyaṃ vidadhānam indudṛṣadāṃ bhindānam ambhaḥśirāḥ ।
+pratyudyatpuruhūtapattanavadhūdattārghadūrvāṅkura- kṣīvotsaṅgakuraṅgam aindavam idaṃ tadbimbam ujjṛmbhate ।।

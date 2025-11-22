@@ -1,0 +1,10 @@
+--- source: grasht_u-Cleaned.txt | block: 999 | label: meter | g:0.25 m:0.672 ---
+
+atha jīrṇarasasyādhikyaṃ darśayannāha ghanetyādi ।।
+ghanasatvaṃ pādapramāṇaṃ jīrṇaṃ yasmin saḥ ।।
+kāntajīrṇa iti pādapramāṇakāntajīrṇa ityarthaḥ ।।
+punastīkṣṇaṃ samaṃ jīrṇaṃ yasminnevaṃvidho rasaḥ ।।
+kṣetrīkaraṇaṃ pradhānaṃ sarvatretyarthaḥ ।
+baddho yaḥ khoṭatāṃ yāto dhmāto dhmātaḥ kṣayaṃ vrajet ।
+khoṭo bandhaḥ sa vijñeyaḥ śīghraṃ sarvagadāpahaḥ ।
+iti granthāntare ।।

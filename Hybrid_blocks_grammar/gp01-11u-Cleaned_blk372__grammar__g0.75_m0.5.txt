@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 372 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhukaṇṭha uvāca-tad evaṃ sati nāmnā sumukhena kenacana gopānāṃ mukhena tasmai parama-dhanyā kanyā dattā । yā khalu sva-guṇa-vaśīkṛta-svajanā yaśāṃsi dadāti śṛṇvantyaḥ, kim uta paśyadbhyaḥ, kim utatarām bhaktimadbhyaḥ । tataś ca tayoḥ sāmpratam eva dāmpatyena sarveṣām api sukha-sampattir ajāyata, kim uta mātara-pitarādīnām ।

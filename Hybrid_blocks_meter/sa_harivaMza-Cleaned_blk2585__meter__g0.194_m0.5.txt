@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2585 | label: meter | g:0.194 m:0.5 ---
+
+tam āha sasmitaṃ kṛṣṇaḥ sāmnā harṣakalena vai 
+abhijño rauhiṇeyasya vṛttasya ca balasya ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1874 | label: meter | g:0.194 m:0.625 ---
+
+sphītāñjanapadān svān svān pālayantaḥ kṣamāparāḥ 
+atīkṣṇad aṇḍāś caturo varṇāñ jugupur añjasā ।।

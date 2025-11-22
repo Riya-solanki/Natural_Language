@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 352 | label: grammar | g:0.75 m:0.5 ---
+
+vṛntāt pracyutasya phalasya bhūmau pratyāsīdato yad ūrdhvaṃ sa patito adhvā tatsaṃyuktaḥ patitakālaḥ, yo adhasyāt sa patitavyo adhvā tatsaṃyuktaḥ kālaḥ patitavyakālaḥ, nedānīṃ tṛtīyo adhvā vidyate yatra patatīti vartamānaḥ kālo gṛhyeta tasmād vartamānaḥ kālo na vidyate iti ।।

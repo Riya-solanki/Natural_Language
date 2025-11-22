@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 762 | label: grammar | g:0.646 m:0.5 ---
+
+nanu saṃdhye sthāne prasupteṣu karaṇeṣu sve śarīre yathākāmaṃ parivartata iti vihāra upadiśyamānaḥ kevalasyātmanaḥ kartṛtvamāvahati ।
+tathopādāne api atadeṣāṃ prāṇānāṃ vijñānena vijñānamādāya' iti karaṇeṣu karmakaraṇavibhaktī śrūyamāṇe kevalasyātmanaḥ kartṛtvaṃ gamayata iti ।

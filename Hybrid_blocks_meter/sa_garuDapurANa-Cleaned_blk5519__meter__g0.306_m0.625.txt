@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5519 | label: meter | g:0.306 m:0.625 ---
+
+saindhavaṃ tryūṣaṇaṃ caiva dadhimadhvājyasaṃyutam ।
+vṛścikasya viṣaṃ hanti lepo ayaṃ vṛṣabhadhvaja ! ।।

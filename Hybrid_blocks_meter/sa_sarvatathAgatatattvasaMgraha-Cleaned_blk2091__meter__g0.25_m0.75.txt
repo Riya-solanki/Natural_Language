@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2091 | label: meter | g:0.25 m:0.75 ---
+
+vajradhātvīśvarīmbadhvā caityaṃ padmaprayogataḥ ।
+saṃdhayenmadhyamābhyāṃ tu buddhapadmeti kīrtitā ।।

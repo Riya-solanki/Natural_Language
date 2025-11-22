@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 80 | label: meter | g:0.25 m:0.5 ---
+
+ṇāśrayaṇe prayojanam asti yenāvācakaḥ prayujyeta ।
+tatrānyad evāniṣṭam āpadyeta kṛñbhuvau dhātū tiṅābhidhīyete iti ।
+tasmād arthaparatvasiddhyartham ākhyātapratyayasahitāv eva prayujyete ।

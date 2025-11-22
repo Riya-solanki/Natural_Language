@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2547 | label: meter | g:0.328 m:0.595 ---
+
+na kaścittāta kenāpi badhyate hanyate api vā ।
+vadhabandhau pūrvakarmavaśyau nṛpatinandana ।।

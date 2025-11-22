@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 196 | label: hybrid | g:0.5 m:0.5 ---
+
+yaccāttha dātā narakaṃ prayāti pratigrahītā tu surendralokam ।
+vivardhitastena ca me tvayā ayaṃ dānodyamaḥ saṃyamayiṣyatāpi ।।

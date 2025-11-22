@@ -1,0 +1,5 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 541 | label: meter | g:0.102 m:0.555 ---
+
+uparisthasya bhāṇḍasya budhnasaṃlepitaṃ dhruvam 
+evaṃ tu gandhakaṃ tāmrarajate hāṭake tathā 
+punaḥ punastathā pātyaṃ cetthaṃ saṃsārayettataḥ ।।

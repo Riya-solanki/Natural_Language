@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 867 | label: meter | g:0.194 m:0.5 ---
+
+prajānām upakārāya yadi māṃ tvaṃ haniṣyasi 
+ādhāraḥ kaḥ prajānāṃ te nṛpaśreṣṭha bhaviṣyati ।।

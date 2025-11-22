@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2157 | label: hybrid | g:0.521 m:0.5 ---
+
+hatvā viṣāṇi ca tapobalasiddhamantrā vyādhīnnṛṇāmupaśamayya ca vaidyavaryāḥ ।
+dhanvantariprabhṛtayo api gatā vināśaṃ dharmāya me namati tena matirvanānte ।।

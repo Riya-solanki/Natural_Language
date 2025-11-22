@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 363 | label: grammar | g:0.586 m:0.365 ---
+
+pratīyate iti kriyāpadavaicitryasyāyamabhiprāyo yadevaṃvidhe viṣaye śabdānāṃ vācakatvena na vyāpāraḥ, api tu vastvantaravatpratītikāritvamātreṇeti yuktiyuktamapyetadiha nātipratanyate ।
+yasyād dhvanikāreṇa vyaṅgyavyañjakabhāvo atra sutarāṃ samarthitastat kiṃ paunaruktyena ।
+sā ca rūḍhivaicitryavakratā mukyatayā dviprakārā saṃbhavatiyatra rūḍhivācyor'thaḥ svayameva ātmanyutkarṣaṃ nikarṣaṃ vā samāropayitukāmaḥ kavinopanibadhyate, tasyānyo vā kaścidvakteti ।
+yathā

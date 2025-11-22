@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9134 | label: meter | g:0.338 m:0.832 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīviṣṇuruvāca ।
+ye narāḥ pāpasaṃyuktāste gacchanti yamālayam ।
+nṛṇāṃ matsākṣikaṃ dattamanantaphaladaṃ bhavet ।।

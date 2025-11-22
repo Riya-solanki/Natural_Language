@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 951 | label: meter | g:0.111 m:0.521 ---
+
+āliṅgya kaṇṭham urasi pratipadya kāntiṃ
+māle kaṭaṃ prakaṭam eva sadā dadhāsi ।
+na śrī-harir na bhavatī tu vā jano' yaṃ
+saṅkoca-leśam ayate tvam ato' si dhanyā ।। [vasantatilakā]

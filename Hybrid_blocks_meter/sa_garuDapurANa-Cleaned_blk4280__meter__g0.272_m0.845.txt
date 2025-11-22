@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4280 | label: meter | g:0.272 m:0.845 ---
+
+snigdhaprasannavakratvaṃ śrīmaddarśananetratā ।
+tato asya kṣayarūpāṇi sarvāṇyāvirbhavanti ca ।।

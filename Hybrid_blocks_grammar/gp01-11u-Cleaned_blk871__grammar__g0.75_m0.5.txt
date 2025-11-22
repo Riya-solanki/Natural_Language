@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 871 | label: grammar | g:0.75 m:0.5 ---
+
+[] etāvan mukta-kaṇṭham uṭṭaṅkayan snigdhakaṇṭhas tad-bhañjane kāraṇaṃ harer aiśvarya-pracāraṇam iti tat pratārayan kāraṇāntaram eva vyājahāra- [] tataḥ sphuṭaṃ jhaṭiti parataḥ paryaṭitum utkaṇṭhayā tan-madhya-sambaddhenaivādhvanā niścakrāma, tad-adhvanas tu saṅkṣiptatayādhaḥ-kṣiptatayā tad udūkhalaṃ pratitaṣṭambhe ।

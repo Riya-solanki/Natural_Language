@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 952 | label: meter | g:0.306 m:0.5 ---
+
+aṣṭamyāṃ ca caturdaśyāṃ yastvetāni parikramet ।
+pade pade yajñaphalaṃ sa prāpnoti na śaṃśayaḥ ।।

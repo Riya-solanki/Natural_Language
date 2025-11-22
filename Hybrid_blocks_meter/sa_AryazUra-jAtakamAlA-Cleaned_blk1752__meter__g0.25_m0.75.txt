@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1752 | label: meter | g:0.25 m:0.75 ---
+
+alaṃkriyā śaktisamanvitānāṃ tapodhanānāṃ balasapadagryā ।
+vyāpādadāvānalavāridhārā pretyeha ca kṣāntiranarthaśāntiḥ ।।

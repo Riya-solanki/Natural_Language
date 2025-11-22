@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5077 | label: meter | g:0.25 m:0.927 ---
+
+vāsārasaḥ khaṇḍamadhuyutaḥ pīto atharaktajit ।
+sallakībadarījambupriyālāmrārjunaṃ dhavaḥ ।
+pītaṃ kṣīrañca madhvāḍhyaṃ pṛthakchoṇitavāraṇam ।।

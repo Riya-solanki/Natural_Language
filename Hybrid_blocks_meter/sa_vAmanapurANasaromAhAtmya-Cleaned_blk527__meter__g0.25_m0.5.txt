@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 527 | label: meter | g:0.25 m:0.5 ---
+
+nārasiṃhaṃ vapuḥ kṛtvā hatvā dānavamūrjitam ।
+tiryagyonau sthito viṣṇuḥ siṃheṣu ratimāpnuvan ।।

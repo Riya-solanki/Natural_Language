@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 41 | label: meter | g:0.25 m:0.625 ---
+
+dharmasthaṃ śīlasaṃpannaṃ hrīmantaṃ satyavādinaṃ ।
+ātmanaḥ priyakartāraṃ taṃ janaḥ kurute priyaṃ ।।

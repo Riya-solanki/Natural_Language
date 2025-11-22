@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 591 | label: meter | g:0.25 m:0.521 ---
+
+śrutvā pūtanayā sutasya nayanaṃ tasyās tu tasmān mṛtiṃ
+mūrcchann eva tadā vraja-kṣiti-patiḥ samyak prabodhaṃ yayau ।
+labdhvā durdhara-kāla-nāga-daśana-troṭaṃ yathā tat-kṣaṇād
+divyaṃ mantram api śrayeta manujaḥ kaścid drutaṃ jīvitum ।। [śārdūla]

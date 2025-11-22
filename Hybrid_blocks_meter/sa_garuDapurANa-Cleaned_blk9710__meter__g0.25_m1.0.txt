@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9710 | label: meter | g:0.25 m:1.0 ---
+
+prathamaṃ vyāhṛtihomaḥ prāyaścittaṃ prajāpatiḥ ।
+saṃstravaprāśanaṃ kuryātpraṇītāparimokṣaṇam ।।

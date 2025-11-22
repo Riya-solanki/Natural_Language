@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 8 | label: meter | g:0.306 m:0.5 ---
+
+antyāśramasthaḥ sakalendriyāṇi nirudhya bhaktyā svaguruṃ praṇamya ।
+hṛtpuṇḍarīkaṃ virajaṃ viśuddhaṃ vicintya madhye viṣadam [viśadaṃ] viśokam ।।

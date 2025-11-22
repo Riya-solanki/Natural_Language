@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2548 | label: meter | g:0.25 m:0.5 ---
+
+vedamitras tu śākalyaḥ saṃhitāṃ tām adhītavān 
+cakāra saṃhitāḥ pañca śiṣyebhyaḥ pradadau ca tāḥ ।।

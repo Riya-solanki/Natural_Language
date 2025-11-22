@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 550 | label: grammar | g:0.594 m:0.5 ---
+
+taraṅgaya dṛśo aṅgane patatu citram indīvaraṃ sphuṭīkuru radacchadaṃ vrajatu vidrumaḥ śvetatām ।
+magāg vapur apāvṛṇu spṛśatu kāñcanaṃ kālikām udañcaya nijānanaṃ bhavatu ca dvicandraṃ nabhaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 423 | label: meter | g:0.306 m:0.625 ---
+
+vetālānāṃ patiścaiva kūṣmāṇḍānāṃ patistathā ।
+pakṣiṇāṃ ca patiḥ śreṣṭhaḥ paśūnāṃ patireva ca ।।

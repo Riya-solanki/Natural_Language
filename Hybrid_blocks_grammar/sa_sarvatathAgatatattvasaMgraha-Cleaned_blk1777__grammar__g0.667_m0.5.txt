@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1777 | label: grammar | g:0.667 m:0.5 ---
+
+atha vajramakarīmāṃ svakarmasamayāmabhāṣat [oṃ vajramakari gra]sa grasa śīghraṃ śīghraṃ praveśaya pātālaṃ bhakṣaya vajramakaradhāriṇi huṃ phaṭ ।।

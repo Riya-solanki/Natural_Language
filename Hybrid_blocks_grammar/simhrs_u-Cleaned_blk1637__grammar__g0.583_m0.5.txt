@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1637 | label: grammar | g:0.583 m:0.5 ---
+
+yathā mālavikāgnimitre, vidūṣakaḥ -hī hī baassa edaṃ khu sīhupāṇu-bejjidassa macchaāḍiā ubaṇadā ।

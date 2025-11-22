@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 520 | label: meter | g:0.194 m:0.521 ---
+
+kiṃ vidyāsu viśāradair api sutaiḥ prāptādhika-praśrayaiḥ
+kiṃ dārair abhirūpa-rūpa-caritair ātmānukūlair api ।
+kiṃ kāryaṃ cira-jīvitena vigata-vyādhi-pracāreṇa vā
+dāridryopahataṃ yad etad akhilaṃ duḥkhāya me kevalam ।।

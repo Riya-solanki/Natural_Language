@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 97 | label: hybrid | g:0.476 m:0.5 ---
+
+rūpasmi yo na carate pariśuddhacārī vijñāna saṃjña api vedana cetanāyām 
+evaṃ carantu parivarjayi sarvasaṅgāṃ saṅgādvimucya carate sugatāna prajñām ।।

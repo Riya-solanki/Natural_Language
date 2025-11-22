@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 666 | label: grammar | g:0.75 m:0.5 ---
+
+[] ṛṣir uvāca-tad evaṃ kāvya-śreṇīr iva nānā-deśa-veśa-bhāṣā-rasair eṇīdṛśaḥ pāṇaukṛtya pūrva-pūrvavad rāginīṃ madrādhipater api kanyāṃ sanyāyatayā varyāṃ bhāryā-varyāṃ kariṣyasi । na kevalā sā, tāsām adharāḥ ṣoḍaśa-sahasra-parimāṇāś cāparāḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 975 | label: meter | g:0.25 m:0.625 ---
+
+tadācakṣva mahābhāga pūrṇaḥ kasya ghaṭo nvayam ।
+kiṃ vā vinimaye prāpyamasmattastvādṛśairapi ।।

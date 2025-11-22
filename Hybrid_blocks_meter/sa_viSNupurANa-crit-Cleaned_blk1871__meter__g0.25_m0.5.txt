@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1871 | label: meter | g:0.25 m:0.5 ---
+
+jñānam eva paraṃ brahma jñānaṃ bandhāya ceṣyate 
+jñānātmakam idaṃ viśvaṃ na jñānād vidyate param ।।

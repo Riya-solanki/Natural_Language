@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8384 | label: meter | g:0.328 m:0.595 ---
+
+nimittamātraṃ sarveṣāṃ kṛtakarmānusārataḥ ।
+yasya yo vihito mṛtyuḥ sa taṃ dhruvamavāpnuyāt ।।

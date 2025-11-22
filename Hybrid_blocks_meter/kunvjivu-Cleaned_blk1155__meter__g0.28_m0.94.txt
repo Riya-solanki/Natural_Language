@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 1155 | label: meter | g:0.28 m:0.94 ---
+
+pratiprakaraṇaṃ prauḍhapratibhābhogayojitaḥ ।
+eka evābhidheyātmā badhyamānaḥ punaḥ punaḥ ।।
+anyūnanūtanollekharasālaṅkaraṇojjvalaḥ ।
+badhnāti vakratodbhedabhaṅgīmutpāditādbhutām ।।

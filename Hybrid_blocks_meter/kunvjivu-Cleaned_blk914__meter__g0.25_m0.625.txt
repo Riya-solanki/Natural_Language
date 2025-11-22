@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 914 | label: meter | g:0.25 m:0.625 ---
+
+ubhau yadi vyomni pṛthak-pravāhā- vākāśagaṅgāpayasaḥ patetām ।
+tenopamīyeta tamālanīla- māmuktamuktālatamasya vakṣaḥ ।।

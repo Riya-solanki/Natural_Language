@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 464 | label: meter | g:0.25 m:0.5 ---
+
+satyavratas tu bālyād vā bhāvino arthasya vā balāt 
+vasiṣṭhe abhyadhikaṃ manyuṃ dhārayām āsa nityadā ।।

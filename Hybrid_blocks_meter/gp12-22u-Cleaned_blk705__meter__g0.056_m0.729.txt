@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 705 | label: meter | g:0.056 m:0.729 ---
+
+ity etan me bāla-bhāvena buddhaṃ
+go-viprādi-prepsitaṃ mad-dhitaṃ ca ।
+yuṣmabhyaṃ ced rocate tarhi śīghraṃ
+kāryaṃ vighnaḥ syād vibhinna-praveśe ।। [śālinī]

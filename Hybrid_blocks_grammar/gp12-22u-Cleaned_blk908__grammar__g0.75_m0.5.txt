@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 908 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tatra sacita-saṅkocanena vilocanena gocaritānumateḥ śrī-gokula-pateḥ prasādam āsādayantī surarṣi-sura-mātṛ-surapati-suratatibhir upasura-prabhṛtibhiś ca sākaṃ surabhī sarabhasam asura-mardanaṃ puraskartuṃ puraḥ-saratām avāpa ।

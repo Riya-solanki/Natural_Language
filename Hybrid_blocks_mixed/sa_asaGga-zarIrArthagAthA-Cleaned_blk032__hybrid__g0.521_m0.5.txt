@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 32 | label: hybrid | g:0.521 m:0.5 ---
+
+rāgaś ca dveṣaś ca itonidānāv aratiratī romaharṣaḥ ito ayaṃ ।
+itaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante ।।

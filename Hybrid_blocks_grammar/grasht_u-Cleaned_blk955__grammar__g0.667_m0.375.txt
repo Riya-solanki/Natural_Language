@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 955 | label: grammar | g:0.667 m:0.375 ---
+
+yogāntaramāha suradārvityādi ।।
+suradārutailaṃ devadārutailaṃ ājyaṃ ghṛtaṃ triphalārasasaṃyutaṃ triphalāyā rasena draveṇa saṃyutaṃ sahitaṃ ca punaḥ samabhāgaṃ tulyāṃśaṃ tatpītaṃ sat saptāhāt saptadinapramāṇataḥ nayanavikāraṃ netrasaṃbhavaṃ rogaṃ śamaṃ nayati śāntiṃ prāpayati ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1327 | label: meter | g:0.25 m:0.713 ---
+
+devadeva uvāca। । 
+vedayo lokanāthasya pañca dharmasya setavaḥ ।
+yāsu yaṣṭaṃ sureśena lokanāthena śaṃbhunā ।।

@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 112 | label: meter | g:0.0 m:0.553 ---
+
+{vāsavadattā} - ṇa hu kiñci 
+taha ṇāma santappia udāsīṇo hodi tti 
+[na khalu kiñcit । tathā nāma santapyodāsīno bhavatīti । ]

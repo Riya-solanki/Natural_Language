@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 555 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa cāṇḍāladārako daivasāmārthyāt krameṇa yadā caṅkramaṇakṣamaḥ saṃvṛttas tadāsya mātrā daṇḍaḥ khaṇḍamallakaṃ cārpitaṃ gacchedānīm adhanyānubhavāśubhānāṃ karmaṇāṃ phalavipākam iti । atha sa caṇḍālaśiśur bhikṣāhetoś candanasyaiva gṛham upajagāma ।

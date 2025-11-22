@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 901 | label: meter | g:0.25 m:0.5 ---
+
+atra samānavilasitānāmubhayeṣāmapi kavivikṣita viralatvalakṣaṇasāmyavyatireki kiñcidanyanmanohāri jīvitamatiricyamānamupalabhyate ।
+tadevaṃ prativastūpamāyāḥ pratīyamānopamāyāmantarbhāvopapattau satyāmidānīmupameyopamāderupamāyāmantarbhāvo vicāryate ।

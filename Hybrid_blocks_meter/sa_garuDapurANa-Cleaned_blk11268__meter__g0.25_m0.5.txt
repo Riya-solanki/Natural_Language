@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11268 | label: meter | g:0.25 m:0.5 ---
+
+na pūjitaṃ haripādāravindaṃ supūjitāḥ putramitrādikāśca ।
+na vanditaṃ haripādāravindaṃ suvandito mitrapādaḥ sughoraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1330 | label: meter | g:0.25 m:0.625 ---
+
+tamamanyata rājarṣiridaṃ kṣetraṃ mahāphalam ।
+kariṣyāmi kṛṣiṣyāmi sarvān kāmān yathepsitān ।।

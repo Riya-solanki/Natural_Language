@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 604 | label: meter | g:0.28 m:0.673 ---
+
+apriya-śruter, yathā-
+apriya-śrutije' py asmin vilāpah parivartanam । 
+ākranditaṃ ca patanaṃ parito bhramaṇādayaḥ ।।

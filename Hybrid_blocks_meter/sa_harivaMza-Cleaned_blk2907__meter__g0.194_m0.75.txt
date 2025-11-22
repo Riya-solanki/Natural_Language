@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2907 | label: meter | g:0.194 m:0.75 ---
+
+yaśaḥpradīpā lokānāṃ vedārthānāṃ vivakṣavaḥ 
+āśramāṇāṃ nisargajñā varṇānāṃ kramapāragāḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 359 | label: grammar | g:0.688 m:0.5 ---
+
+tasmin lohakhalve grastābhrakasūtaṃ tathā catuḥṣaṣṭitamena sūtakasya kāntalohacūrṇaṃ kṣiptvā yathā viḍena saha loṣṭikayā mandaṃ mandaṃ mandaṃ mardayet ।।

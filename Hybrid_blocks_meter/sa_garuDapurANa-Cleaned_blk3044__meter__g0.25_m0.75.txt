@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3044 | label: meter | g:0.25 m:0.75 ---
+
+krītalabdhāśanā bhūmau svapeyuste pṛthakpṛthak ।
+piṇḍayajñakṛtā deyaṃ pretāyānnaṃ dinatrayam ।।

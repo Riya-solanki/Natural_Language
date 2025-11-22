@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 78 | label: hybrid | g:0.5 m:0.5 ---
+
+sahasrasūryakiraṇādhikaśuddhaprakāśavān api tvaṃ sarvabhuvanavyāpako api na dṛśyase ।।

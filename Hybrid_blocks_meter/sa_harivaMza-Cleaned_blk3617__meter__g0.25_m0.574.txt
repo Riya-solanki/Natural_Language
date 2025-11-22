@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3617 | label: meter | g:0.25 m:0.574 ---
+
+rathī rāmo jarāsaṃdhaṃ śarair āśīviṣopamaiḥ 
+āvṛnvann abhyayād vīras taṃ ca rājā sa māgadhaḥ ।। 
+abhyavartata vegena syandanenāśugāminā । anyonyaṃ vividhair astrair vidhvā vidhvā vinedatuḥ । 
+tau kṣīnaśastrau virathau hatāśvau hatasārathī 
+gade gṛhītvā vikrāntāv anyonyam abhidhāvatām ।।

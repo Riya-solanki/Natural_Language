@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 77 | label: meter | g:0.25 m:0.5 ---
+
+ye buddhakoṭiniyutā purimā vyatītā ye vā anantabahukṣetrasahasrakoṭayaḥ 
+tiṣṭhanti ye api parinirvṛta lokanāthā deśanti dharmaratanaṃ dukhasaṃkṣayāya ।।

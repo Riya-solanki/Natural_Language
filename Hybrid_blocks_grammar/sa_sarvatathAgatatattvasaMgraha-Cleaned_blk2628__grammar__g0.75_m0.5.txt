@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2628 | label: grammar | g:0.75 m:0.5 ---
+
+athātra karmamaṇḍale yathāvadvidhivistaraṃ kṛtvā praveśyaivaṃ vadet । "na tvayā kasyacidayaṃ vaktavyaḥ । mā te karmāvaraṇadhiṣṭhitasyaiva maraṇaṃ bhaved" iti, uktvā, maṇikarmajñānāni śikṣayet ।

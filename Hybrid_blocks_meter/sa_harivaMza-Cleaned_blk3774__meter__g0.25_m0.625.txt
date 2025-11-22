@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3774 | label: meter | g:0.25 m:0.625 ---
+
+kalpiteyaṃ mayā bhūmiḥ paśyadhvaṃ devasadmavat 
+nāma cāsyāḥ kṛtaṃ puryāḥ khyātiṃ yad upayāsyati ।।

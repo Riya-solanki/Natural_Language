@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 95 | label: meter | g:0.25 m:0.5 ---
+
+devā bruvanti te sarve kasyapo aditireva ca ।
+tathāstviti surāḥ sarve praṇamya śirasā prabhum ।
+śvetadvīpaṃ samuddiśya gatāḥ saumyadiśaṃ prati ।।

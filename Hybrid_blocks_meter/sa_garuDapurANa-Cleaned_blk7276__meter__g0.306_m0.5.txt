@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7276 | label: meter | g:0.306 m:0.5 ---
+
+aputrasya gatirnāstu svargo naiva ca naiva ca ।
+yena kenāpyupāyena kāryaṃ janma sutasya hi ।।

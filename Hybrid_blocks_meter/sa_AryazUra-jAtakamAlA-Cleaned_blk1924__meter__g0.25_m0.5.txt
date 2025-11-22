@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1924 | label: meter | g:0.25 m:0.5 ---
+
+yatvasti puṇyaṃ mama kiṃcidevaṃ kāntāramagnaṃ janamujjihīrṣoḥ ।
+saṃsārakāntāragatasya tena lokasya nistārayitā bhaveyam ।।

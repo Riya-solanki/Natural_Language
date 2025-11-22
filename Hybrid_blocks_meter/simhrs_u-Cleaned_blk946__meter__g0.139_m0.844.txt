@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 946 | label: meter | g:0.139 m:0.844 ---
+
+śravaṇena pūrvānurāgo, yathā-
+sādhu tvayā tarkitam etad eva
+svenānalaṃ yat kila saṃśrayiṣye ।
+vināmunā svātmani tu prahartuṃ
+mṛṣā-giraṃ tvāṃ nṛpatau na kuryām ।।

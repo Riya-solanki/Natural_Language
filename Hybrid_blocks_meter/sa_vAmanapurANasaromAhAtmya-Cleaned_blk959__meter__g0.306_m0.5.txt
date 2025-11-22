@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 959 | label: meter | g:0.306 m:0.5 ---
+
+praṇamya tāṃ prayatnena buddhiṃ medhāṃ ca vindati ।
+vaṭapārśve sthitaṃ liṅgaṃ brahmaṇā tat pratiṣṭhitam ।।

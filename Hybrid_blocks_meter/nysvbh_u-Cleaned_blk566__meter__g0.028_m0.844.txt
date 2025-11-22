@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 566 | label: meter | g:0.028 m:0.844 ---
+
+ikārasthāne yakāraḥ
+śrūyate yakārasthāne khalvikāro vidhīyate
+vidhyati, tad yadi syāt prakṛtivikārabhāvo
+varṇānām ? tasya prakṛtiniyamaḥ syāt dṛṣṭo
+vikāradharmitve prakṛtiniyama iti ।।

@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 153 | label: grammar | g:0.604 m:0.5 ---
+
+he śvetaketo, uta api ādisyata ityādeśastaṃ śāstrācāryoktigamyaṃ vastvaprākṣyaḥ pṛṣṭavānasyācāryam ।
+vācārabhyamāṇamuccāryamāṇaṃ nāmadheyameva vikāro na tu ghaṭaśarāvādināmātirikto mṛdi vikāro vastuto asti paramārthato mṛttikaiva tu satyaṃ vastvastīti ।

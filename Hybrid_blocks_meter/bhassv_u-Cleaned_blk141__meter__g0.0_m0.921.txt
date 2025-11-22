@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 141 | label: meter | g:0.0 m:0.921 ---
+
+{vāsavadattā} - iaṃ guhmāmi 
+āṇehi dāva 
+[iyaṃ gumphāmi । ]

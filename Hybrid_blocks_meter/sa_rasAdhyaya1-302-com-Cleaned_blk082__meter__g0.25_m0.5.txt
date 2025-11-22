@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 82 | label: meter | g:0.25 m:0.5 ---
+
+mṛṇmayāt kañcukāt kuṣṭhaṃ jāyate ca śarīriṇām ।। d

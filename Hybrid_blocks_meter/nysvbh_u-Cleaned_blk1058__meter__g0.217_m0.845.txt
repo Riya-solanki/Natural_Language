@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1058 | label: meter | g:0.217 m:0.845 ---
+
+utpattikāraṇaṃ copalabhyate vināśakāraṇaṃ
+ca tat sarvanityatve vyāhanyate iti ।।

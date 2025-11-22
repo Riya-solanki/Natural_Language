@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3389 | label: meter | g:0.25 m:0.5 ---
+
+padmaṃ gṛhya karābhyāṃ tu nirīkṣya rāgaśuddhitāṃ ।
+vajradṛṣṭyā tu sa strīṇāṃ rāgayedabhitastathe- ।।

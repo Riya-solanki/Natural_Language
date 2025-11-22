@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 709 | label: hybrid | g:0.361 m:0.491 ---
+
+pravṛttaṃ tasya tac cakram adharmaniratasya vai 
+paradārābhilāṣeṇa sadyas tāta nivartitam ।। 
+na hīdṛśam anāyuṣyaṃ loke kiṃcana vidyate । yādṛśaṃ puruṣasyeha paradāropasevanam । 
+na tv ahaṃ tasya jāne vai nivṛttaṃ cakram uttamam 
+hataṃ svakarmaṇā tat tu pūrvaṃ sadbhiś ca ninditam ।।

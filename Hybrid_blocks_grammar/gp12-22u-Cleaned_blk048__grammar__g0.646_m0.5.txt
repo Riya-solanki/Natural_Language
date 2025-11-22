@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 48 | label: grammar | g:0.646 m:0.5 ---
+
+[] sa ca nitānta-priya-jana-bhānaḥ kānanāntaḥ-sāra-sarasa-gandha-sarasa-sugandha-gandha-vāha-vāhita-nava-pallava-pāṇibhiḥ sphuran-madhura-sakhi-tatiṃ madhupatim āliṅgann utasaṅga-saṅginaṃ vidhāya, svānuvrata-madhuvrata-khaga-mṛga-mañju-guñjitādi-vyañjanayā khelitum iva protsāhayāmāsa ।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1005 | label: hybrid | g:0.455 m:0.5 ---
+
+diśi diśi jātāḥ snigdhā vyatimilitāḥ suṣṭhu bibhrati sneham ।
+medura-mudira-samūhe muhur api yasmāt tathā dṛṣṭam ।। [āryā]

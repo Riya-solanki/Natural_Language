@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 93 | label: grammar | g:0.635 m:0.5 ---
+
+bhoge rogabhayaṃ sukhe kṣayabhayaṃ vitte agnibhūbhṛdbhayaṃ dāsye svāmibhayaṃ gune khalabhayaṃ vaṃśe kuyoṣidbhayam ।
+māne mlānibhayaṃ jaye ripubhayaṃ kāye kṛtāntād bhayaṃ sarvaṃ nāma bhave bhaved bhayam aho vairāgyam evābhayam ।।

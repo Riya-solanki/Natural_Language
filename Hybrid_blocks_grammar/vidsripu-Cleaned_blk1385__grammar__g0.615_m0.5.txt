@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1385 | label: grammar | g:0.615 m:0.5 ---
+
+mā rodīś ciram ehi vatsa viphalaṃ dṛṣṭvādya putrān imān āyāto bhavato api dāsyati pitā graiveyakaṃ vāsasī ।
+śrutvaivaṃ gṛhiṇīvacāṃsi nikaṭe kuḍyasya niḥkiṃcano niśvasyāśrujalaphutānatamukhaḥ pānthaḥ punaḥ proṣitaḥ ।।

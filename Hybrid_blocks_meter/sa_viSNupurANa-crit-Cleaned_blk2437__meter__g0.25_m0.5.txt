@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2437 | label: meter | g:0.25 m:0.5 ---
+
+vājirūpadharaḥ so api tasyāṃ devāv athāśvinau 
+janayām āsa revantaṃ retaso ante ca bhāskaraḥ ।।

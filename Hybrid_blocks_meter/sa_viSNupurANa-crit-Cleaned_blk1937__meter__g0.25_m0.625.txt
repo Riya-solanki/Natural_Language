@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1937 | label: meter | g:0.25 m:0.625 ---
+
+udayāstamanābhyāṃ ca smṛte pūrvāpare diśau 
+yāvat purastāt tapati tāvat pṛṣṭhe ca pārśvayoḥ ।।

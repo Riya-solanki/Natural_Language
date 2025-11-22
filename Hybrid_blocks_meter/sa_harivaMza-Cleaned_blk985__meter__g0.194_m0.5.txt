@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 985 | label: meter | g:0.194 m:0.5 ---
+
+alarko rājaputraś ca rājā saṃnatimān bhuvi 
+hehayasya tu dāyādyaṃ hṛtavān vai mahīpatiḥ ।।

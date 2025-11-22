@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 300 | label: meter | g:0.25 m:0.5 ---
+
+sa yogyaḥ kramiko śiṣyo anyathā nāmadhārakaḥ 
+tataḥ prabhṛti siddho asau pūjyaḥ pūjāpakaḥ smṛtaḥ ।।

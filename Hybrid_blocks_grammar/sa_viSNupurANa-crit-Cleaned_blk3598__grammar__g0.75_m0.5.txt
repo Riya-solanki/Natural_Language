@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3598 | label: grammar | g:0.75 m:0.5 ---
+
+tasyāpi śatadhvajaḥ tataḥ kuṇiḥ kuṇer añjanas tatputra ṛtujit tato ariṣṭanemis tasmāc chrutāyuḥ śrutāyuṣaḥ supārvas tasmāt saṃjayas tataḥ kṣemāris tasmād anenās tasmād mīnarathas tasya satyarathas tasya sātyarathiḥ sātyarather upagus tasmāc chāśvatas tasmāt sudhanvā tasyāpi subhāṣaḥ tataḥ suśrutas tasmāj jayo jayaputro vijayas tasya ca ṛto nāma suśrutaḥ tasmāt suśrutāj jayaḥ tasya putro vijayaḥ vijayasya ṛtaḥ ṛtāt sunayas tato vītahavyas tasmād dhṛtir dhṛter bahulāśvas tasya putraḥ kṛtiḥ kṛtau saṃtiṣṭate ayaṃ janakavaṃśaḥ ।।

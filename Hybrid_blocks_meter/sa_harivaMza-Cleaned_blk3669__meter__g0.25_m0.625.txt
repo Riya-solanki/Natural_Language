@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3669 | label: meter | g:0.25 m:0.625 ---
+
+prasīda rāma bhītāsmi pratilomena karmaṇā 
+viparītam idaṃ rūpaṃ toyaṃ ca mama jāyate ।।

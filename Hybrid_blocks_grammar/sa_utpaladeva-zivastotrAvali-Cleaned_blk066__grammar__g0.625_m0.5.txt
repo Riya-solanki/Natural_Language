@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 66 | label: grammar | g:0.625 m:0.5 ---
+
+tvayi rāgarase nātha na magnaṃ hṛdayaṃ prabho yeṣām ahṛdayā eva te avajñaspadam īdṛśāḥ ।।

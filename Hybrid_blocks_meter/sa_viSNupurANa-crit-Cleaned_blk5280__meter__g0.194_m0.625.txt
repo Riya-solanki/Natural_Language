@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5280 | label: meter | g:0.194 m:0.625 ---
+
+dadṛśe vāruṇaṃ chatraṃ tathaiva maṇiparvatam 
+āropayām āsa harir garuḍe patageśvare ।।

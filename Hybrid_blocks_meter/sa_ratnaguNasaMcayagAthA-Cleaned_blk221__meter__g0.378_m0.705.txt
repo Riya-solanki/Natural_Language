@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 221 | label: meter | g:0.378 m:0.705 ---
+
+so caṃkramārthamabhiyuktakabodhisattvān baladhyānaindriyavimokṣasamādhiprāptān 
+abhimanyate na imi raṇyavivekacārī na vivekagocaru ayaṃ hi jinena ukto ।।

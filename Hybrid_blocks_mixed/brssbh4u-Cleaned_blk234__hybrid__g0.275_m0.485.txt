@@ -1,0 +1,5 @@
+--- source: brssbh4u-Cleaned.txt | block: 234 | label: hybrid | g:0.275 m:0.485 ---
+
+smṛtiḥ api etam artham anujānāti - abrahmaṇā saha te sarve saṃprāpte pratisaṃcare ।
+parasyānte kṛtātmānaḥ praviśanti paraṃ padam'iti ।
+tasmāt kāryabrahmaviṣayā gatiḥ śrūyata iti siddhāntaḥ ।।

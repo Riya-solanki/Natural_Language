@@ -1,0 +1,4 @@
+--- source: brssbh3u-Cleaned.txt | block: 735 | label: meter | g:0.306 m:0.5 ---
+
+) ityādinā aanekajanmasaṃsiddhastato yāti parāṃ gatim' ityetenaitadeva darśayati ।
+tasmādaihikamāmuṣmikaṃ vā vidyājanma pratibandhakṣayāpekṣayeti sthitam ।।

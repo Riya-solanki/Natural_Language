@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2589 | label: hybrid | g:0.5 m:0.5 ---
+
+vajragarbhaṃ mukhe vidhvā bhāvayet tatra eva hi ।
+yadā tu sphuṭate tattu tadā vāgasya sidhyati ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 32 | label: meter | g:0.25 m:0.5 ---
+
+sapta tv ete prajāyante prajā rudraś ca bhārata 
+skandaḥ sanatkumāraś ca tejaḥ saṃkṣipya tiṣṭhataḥ ।।

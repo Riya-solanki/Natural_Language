@@ -1,0 +1,16 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 369 | label: grammar | g:0.68 m:0.006 ---
+
+anukūlaṃ tu te deva yadi syān mama tan matam 
+rūpaṃ nirvartayāmy adya tava kāntam ariṃdama ।। 
+rūpaṃ vivasvataś cāsīt tiryagūrdhvasamaṃ tu vai । tenāsau saṃbhṛto devo rūpeṇa tu vibhāvasuḥ ।। tasmāt tvaṣṭuḥ sa vai vākyaṃ bahu mene prajāpatiḥ । samanujñātavāṃś caiva tvaṣṭāraṃ rūpasiddhaye । 
+tato abhyupagamāt tvaṣṭā mārtaṇḍasya vivasvataḥ 
+bhramim āropya tat tejaḥ śātayāmāsa bhārata ।। 
+kṛtavān aṣṭamaṃ bhāgaṃ na vyaśātayad avyayam ।। yat sūryād vaiṣṇavaṃ tejaḥ śātitaṃ viśvakarmaṇā । tvaṣṭaiva tejasā tena viṣṇoś cakram akalpayat ।। triśūlaṃ caiva śarvasya śibikāṃ dhanadasya ca । śaktiṃ guhasya devānām anyeṣāṃ ca varāyudham ।। tat sarvaṃ tejasā tena viśvakarmā hy akalpayat । 
+tato nirbhāsitaṃ rūpaṃ tejasā saṃhṛtena vai 
+kāntāt kāntataraṃ draṣṭum adhikaṃ śuśubhe tadā ।। 
+mukhe nirvartitaṃ rūpaṃ tasya devasya gopateḥ । tataḥprabhṛti devasya mukham āsīt tu lohitam ।। mukharāgaṃ tu yat pūrvaṃ mārtaṇḍasya mukhacyutam । ādityā dvādaśaiveha saṃbhūtā mukhasaṃbhavāḥ ।। dhātāryamā ca mitraś ca varuṇo aṃśo bhagas tathā । indro vivasvān pūṣā ca parjanyo daśamas tathā । tatas tvaṣṭā tato viṣṇur ajaghanyo jaghanyajaḥ ।। harṣaṃ lebhe tato devo dṛṣṭvādityān svadehajān । gandhaiḥ puṣpair alaṃkārair bhāsvatā mukuṭena ca ।। evaṃ saṃpūjayāmāsa tvaṣṭā vākyam uvāca ha ।। gaccha deveśa svāṃ bhāryāṃ kurūṃś carati cottarān । vaḍavārūpam āsthāya vane carati śāḍvale ।। tāṃ tathārūpam āsthāya svāṃ bhāryāṃ śubhalīlayā । 
+dadarśa yogam āsthāya svāṃ bhāryāṃ vaḍavāṃ tataḥ 
+adhṛṣyāṃ sarvabhūtānāṃ tejasā niyamena ca ।। 
+vaḍavāvapuṣā rājaṃś carantīm akutobhayām । 
+so aśvarūpeṇa bhagavāṃs tāṃ mukhe samabhāvayat 
+maithunāya viveṣṭantīṃ parapuṃso viśaṅkayā ।।

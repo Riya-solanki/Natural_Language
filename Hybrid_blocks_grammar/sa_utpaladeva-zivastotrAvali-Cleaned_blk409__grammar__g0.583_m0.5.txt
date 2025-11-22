@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 409 | label: grammar | g:0.583 m:0.5 ---
+
+jayaty eṣa bhavadbhaktibhājāṃ pūjāvidhiḥ paraḥ yas tṛṇaiḥ kriyamāno api ratnair evopakalpate ।।

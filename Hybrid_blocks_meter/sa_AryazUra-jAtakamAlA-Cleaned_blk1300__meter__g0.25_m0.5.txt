@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1300 | label: meter | g:0.25 m:0.5 ---
+
+tāvāneva ca lābhaste kṛtā syānmama cārthanā ।
+haṃsayūthasya ca prītirmaitrī tena tathaiva ca ।।

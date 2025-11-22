@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 380 | label: hybrid | g:0.41 m:0.5 ---
+
+hā vatsāḥ khara-dūṣaṇa-prabhṛtayo vadhyāḥ stha pāpasya me
+hā hā vatsa vibhīṣaṇa tvam api me kāryeṇa heyaḥ sthitaḥ ।
+hā mad-vatsala vatsa rāvaṇa mahat paśyāmi te saṅkaṭaṃ
+vatse kekasi hā hatāsmi na cirāt trīn putrakān paśyasi ।।

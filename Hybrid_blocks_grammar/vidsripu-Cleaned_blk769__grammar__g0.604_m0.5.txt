@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 769 | label: grammar | g:0.604 m:0.5 ---
+
+kim iti kabarī yādṛk tādṛg dṛśau kim akajjale mṛgamadam asīpatranyāsaḥ sa kiṃ na kapolayoḥ ।
+ayam ayamayaṃ kiṃ ca klāmyaty asaṃsmaraṇena te śaśimukhi sakhīhastanyasto vilāsaparicchadaḥ ।।

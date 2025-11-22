@@ -1,0 +1,3 @@
+--- source: vacbhamu-Cleaned.txt | block: 95 | label: grammar | g:0.667 m:0.5 ---
+
+na ca sarvajanīnāhamanubhavasiddha ātmā saṃdigdho vā saprayojano vā, yena jijñāsyaḥ san vicāraṃ prayuñjīta- iti pūrvapakṣaḥ ।

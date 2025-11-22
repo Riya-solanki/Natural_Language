@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 678 | label: hybrid | g:0.542 m:0.5 ---
+
+[] etena śrīmad-vraje tu tad-atiśayāt sphuṭam eva tad-atiśayaḥ saṅgamitaḥ ।

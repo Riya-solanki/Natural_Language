@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8681 | label: meter | g:0.25 m:0.695 ---
+
+bhūtapretapiśācairvā sa cedanyaiḥ prapīḍyate ।
+pitruddeśena vai kuryānnārāyaṇabaliṃ tadā ।
+vimuktaḥ sarvapīḍābhya iti satyaṃ vaco mama ।।

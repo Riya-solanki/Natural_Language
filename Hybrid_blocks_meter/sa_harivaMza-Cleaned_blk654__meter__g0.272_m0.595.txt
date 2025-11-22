@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 654 | label: meter | g:0.272 m:0.595 ---
+
+teṣāṃ pitṛprasādena pūrvajātikṛtena ca 
+smṛtir utpatsyate prāpya tāṃ tāṃ jātiṃ jugupsitām ।।

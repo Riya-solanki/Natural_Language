@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5833 | label: meter | g:0.25 m:0.695 ---
+
+ayaṃ bhagavato mantro mantrāṇāṃ paramo mahān ।
+vikhyātaṃ kavacaṃ guhyaṃ sarpapāpapraṇāśanam ।
+svamāyākṛtinirmāṇaṃ kalpāntagahanaṃ mahat ।।

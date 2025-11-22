@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8518 | label: meter | g:0.25 m:0.5 ---
+
+śubhāśubhaṃ tu yatkarma te vicārya punaḥ punaḥ ।
+śravaṇā brahmaṇaḥ putrā manuṣyāṇāṃ ca ceṣṭitam ।
+kathayanti tadā loke pūjitāḥ pūjitāḥ svayam ।।

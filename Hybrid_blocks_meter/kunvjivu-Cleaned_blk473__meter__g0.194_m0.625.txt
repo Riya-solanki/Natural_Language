@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 473 | label: meter | g:0.194 m:0.625 ---
+
+atra bhāvasya siddhatvenābhidhānamatīva camatkārakāri ।
+evaṃ bhāvavakratāṃ vicārya prātipadikāntarvartinīṃ liṅgavakratāṃ vicārayati

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4448 | label: meter | g:0.194 m:0.625 ---
+
+kāñcanasyāgraratnasya dhātūnāṃ ca viśeṣataḥ 
+tena ratnākarāḥ sarve bhavanto bhuvi śāśvatāḥ ।।

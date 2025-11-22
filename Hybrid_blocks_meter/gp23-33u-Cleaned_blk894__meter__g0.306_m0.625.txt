@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 894 | label: meter | g:0.306 m:0.625 ---
+
+prāyaḥ sarvā harer līlāḥ kramaśaḥ sūcitā mayā ।
+yathā-svaṃ labdha-rucibhir upāsyantāṃ mahātmabhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 122 | label: meter | g:0.25 m:0.625 ---
+
+jñānaṃ māyopamaṃ śuddhaṃ svacchaṃ prakṛtinirmalam ।
+śabdagandharasātītaṃ tathā sparśavivarjitam ।।

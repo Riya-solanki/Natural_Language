@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 564 | label: grammar | g:0.604 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-agrajanmaṃs tan-mātarau katham iva tām aparicitāṃ na nivāritavatyau, na ca vicāritavatyau?

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6771 | label: meter | g:0.25 m:0.625 ---
+
+bhrāmyatāṃ tatra saṃsāre narāṇāṃ kurmadurgame ।
+hastāvalambane hyekaṃ yena tuṣyejjanārdanaḥ ।
+na śṛṇoti guṇāndivyāndevadevasya cakriṇaḥ ।
+sa maro badhiro jñeyaḥ sarvadharmabahiṣkṛtaḥ ।।

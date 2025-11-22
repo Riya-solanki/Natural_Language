@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8974 | label: meter | g:0.25 m:0.5 ---
+
+yasyaitāni na dīyante pretaśrāddhāni bhūpate ।
+pretatvaṃ susthiraṃ tasya dattaiḥ śrāddhaśatairapi ।।

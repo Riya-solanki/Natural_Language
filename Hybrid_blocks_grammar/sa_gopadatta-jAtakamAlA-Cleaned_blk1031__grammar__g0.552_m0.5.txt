@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1031 | label: grammar | g:0.552 m:0.5 ---
+
+yuṣmadvidhair api sahābhimukho viyogo yenaiva no nṛpa niratyayaśuddhabhāvaiḥ ।
+tenaiva śāntipadam āptum iyaṃ manīṣā mā bhūt punaḥ punar ayaṃ vyasanopatāpaḥ ।।

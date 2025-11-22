@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 304 | label: meter | g:0.292 m:0.5 ---
+
+[] kintu hanta, veṇu-rava-śravaṇa-sukha-vistāra eva tatra nistārāya babhūva । yataḥ,

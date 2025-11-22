@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 403 | label: meter | g:0.194 m:0.5 ---
+
+kakudminas tu taṃ lokaṃ raivatasya gatasya ha 
+hatā puṇyajanais tāta rākṣasaiḥ sā kuśasthalī ।।

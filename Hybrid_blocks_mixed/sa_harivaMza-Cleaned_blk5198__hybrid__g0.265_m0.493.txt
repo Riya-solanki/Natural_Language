@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5198 | label: hybrid | g:0.265 m:0.493 ---
+
+iti caritam idaṃ mahātmanām ṛṣikṛtam adbhutavīryakarmaṇām 
+kathitam idaṃ hi samāsavistaraiḥ kim aparam icchasi kiṃ bravīmi te ।।

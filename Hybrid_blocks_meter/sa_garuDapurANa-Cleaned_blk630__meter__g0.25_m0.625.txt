@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 630 | label: meter | g:0.25 m:0.625 ---
+
+sa vāyunā samākṛṣya daṣṭānāṃ garalaṃ haret ।
+tanau nyaseddaṣṭakasya nīlakaṇṭhādi saṃsmaret ।।

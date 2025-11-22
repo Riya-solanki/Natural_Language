@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5543 | label: meter | g:0.194 m:0.625 ---
+
+bhūya evāham icchāmi balabhadrasya dhīmataḥ 
+śrotuṃ parākramaṃ brahman tan mamākhyātum arhasi ।।

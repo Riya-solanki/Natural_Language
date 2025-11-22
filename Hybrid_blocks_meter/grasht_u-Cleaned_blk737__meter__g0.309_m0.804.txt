@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 737 | label: meter | g:0.309 m:0.804 ---
+
+mercury anusāraṇa
+bījena triguṇena tu sūtakamanusārayetprakāśastham ।
+vidhyantaramāha bījenetyādi ।।
+prakāśasthaṃ prakāśamūṣāgataṃ sūtaṃ triguṇena bījena anusārayet pratisārayet ।।

@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 102 | label: grammar | g:0.583 m:0.5 ---
+
+cintyante yadi nāma rāmanahuṣaśvetādirājarṣayaḥ kiṃ tair yāti viśālakālakalanāmīlatkathākautukaiḥ ।
+gaṇyantāṃ svadṛśaiva bhūrivibhavā dṛṣṭāś ca naṣṭāś ca ye tasmāt sarvam anityatākavalitaṃ jñātvā śamaḥ smaryatām ।।

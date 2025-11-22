@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1358 | label: meter | g:0.259 m:0.764 ---
+
+atha udvegaḥ-
+śatru-vairādi-sambhūtaṃ bhayam udvega ucyate ।।

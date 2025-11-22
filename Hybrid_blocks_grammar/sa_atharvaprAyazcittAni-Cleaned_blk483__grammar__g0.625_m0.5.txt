@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 483 | label: grammar | g:0.625 m:0.5 ---
+
+śarīrādarśane pālāśatsarūṇy āhṛtyāthaitāni puruṣākṛtīni kṛtvā ghṛtābhyajya māṃsatvagasthy asya ghṛtaṃ ca bhavatīti ha vijñāyate ।

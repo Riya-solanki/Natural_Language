@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1256 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad etad vibhāvya durbhāva-bhāvatayā tathā sthiteṣu bahu-pacanatāyām api mitampaceṣu dvirjātatāyām api yathā-jāteṣu yājñika-kitavatāṃ yāteṣu teṣu yācñāyāṃ vadanānatā-kadanataḥ parasparam īkṣitvā mandaṃ mandaṃ mandākṣa-mandatayā śrī-govindam eva te vindate sma ।

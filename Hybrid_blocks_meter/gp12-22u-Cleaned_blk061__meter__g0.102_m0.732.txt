@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 61 | label: meter | g:0.102 m:0.732 ---
+
+[] tatra ca gṛhān nirgamanaṃ yathā,
+hāṭaka-lakuṭi-pāṇir maṇi-cita-niryoga-rājad-uṣṇīṣaḥ ।
+jita-gajarāja-vilāsaḥ sabalaḥ kṛṣṇo yayau goṣṭham ।। [āryā]

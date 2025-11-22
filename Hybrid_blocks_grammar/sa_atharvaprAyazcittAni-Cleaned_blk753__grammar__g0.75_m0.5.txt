@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 753 | label: grammar | g:0.75 m:0.5 ---
+
+yajñaś ca tvā vāyuś ca śṛṇītām ahaś ca tvā rātrīś ca śṛṇītāṃ darśaś ca tvā paurṇamāsaś ca śṛṇītāṃ yajñaś ca tvā dakṣiṇā ca śṛṇītāṃ dakṣaś ca tvā mānasaś ca śṛṇītām arkaś ca tvāśvamedhaś ca śṛṇītām ।

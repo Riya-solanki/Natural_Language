@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9614 | label: meter | g:0.351 m:0.565 ---
+
+evamādibhiranyaiśca sukṛtaiḥ svargabhāgbhavet ।
+sa tat sarvaṃ phalaṃ prāpya pratiṣṭhāṃ paramāṃ labhet ।।

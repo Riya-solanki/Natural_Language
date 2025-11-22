@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 264 | label: meter | g:0.25 m:0.5 ---
+
+purātanair eva hatāṃ karmabhiḥ paruṣair imām ।
+ghnato niraparādhāṃ te kathaṃ notpadyate dayā ।।

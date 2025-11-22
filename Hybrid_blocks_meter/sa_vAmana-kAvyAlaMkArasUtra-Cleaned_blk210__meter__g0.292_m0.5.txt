@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 210 | label: meter | g:0.292 m:0.5 ---
+
+ṛtusandhipratipādanapare'tra dvitīye pāde kramabhedo, malayamarutāmasādhāraṇatvāt । evaṃ dvitīyaḥ pādaḥ paṭhitavyaḥ

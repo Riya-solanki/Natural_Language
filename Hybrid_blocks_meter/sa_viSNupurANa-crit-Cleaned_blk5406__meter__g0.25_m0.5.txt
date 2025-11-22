@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5406 | label: meter | g:0.25 m:0.5 ---
+
+kathaṃ yuddham abhūd brahmann uṣārthe harakṛṣṇayoḥ 
+kathaṃ kṣayaṃ ca bāṇasya bāhūnāṃ kṛtavān hariḥ ।।

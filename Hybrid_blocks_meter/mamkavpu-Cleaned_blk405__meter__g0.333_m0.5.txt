@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 405 | label: meter | g:0.333 m:0.5 ---
+
+kāminīkucakalaśavat gūḍhaṃ camatkaroti । agūḍhaṃ tu sphuṭatayā vācyāyamānamiti guṇībhūtameva । agūḍhaṃ yathā

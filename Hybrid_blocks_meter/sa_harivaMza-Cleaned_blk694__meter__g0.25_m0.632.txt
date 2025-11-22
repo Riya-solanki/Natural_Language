@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 694 | label: meter | g:0.25 m:0.632 ---
+
+evaṃ rājyaṃ ca te sphītaṃ balāni ca na saṃśayaḥ 
+tvayā rājye ca te sthitim ।
+caturaṅgayutāny adya ।
+pradāsyāmi yathākāmam ahaṃ vai ratnabhāg bhuvi ।।

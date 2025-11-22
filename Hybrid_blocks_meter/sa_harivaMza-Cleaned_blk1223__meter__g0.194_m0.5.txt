@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1223 | label: meter | g:0.194 m:0.5 ---
+
+syamantakaṃ ca nāpaśyad dhatvā bhojaṃ mahābalam 
+nivṛttaṃ cābravīt kṛṣṇaṃ ratnaṃ dehīti lāṅgalī ।।

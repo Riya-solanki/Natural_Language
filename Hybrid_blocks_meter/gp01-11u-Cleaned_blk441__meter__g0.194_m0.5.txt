@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 441 | label: meter | g:0.194 m:0.5 ---
+
+tasmān nandātmajo ayaṃ te nārāyaṇa-samo guṇaiḥ ।
+śriyā kīrtyānubhāvena gopāyasva samāhitaḥ ।।[BhP ]

@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 297 | label: meter | g:0.307 m:0.623 ---
+
+sarvagatvān maheśasya nādhiṣṭhānaṃ vihanyate ।
+na ca yatrāsti kartavyaṃ tasminn audāsyam eti saḥ ।।

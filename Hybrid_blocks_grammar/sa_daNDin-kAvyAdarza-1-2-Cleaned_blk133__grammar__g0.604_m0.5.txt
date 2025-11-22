@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 133 | label: grammar | g:0.604 m:0.5 ---
+
+kiṃ padmam antarbhrāntāli kiṃ te lolekṣaṇaṃ mukham mama dolāyate cittam itīyaṃ saṃśayopamā ।।

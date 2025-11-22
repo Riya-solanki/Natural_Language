@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2974 | label: meter | g:0.25 m:0.5 ---
+
+tābhyām āgamane prītiḥ parā mama kṛtā bhavet 
+dṛṣṭvā tu tau mahāvīryau tad vidhāsyāmi yad dhitam ।।

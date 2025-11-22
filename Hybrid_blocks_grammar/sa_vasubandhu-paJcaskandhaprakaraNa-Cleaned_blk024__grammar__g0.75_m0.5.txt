@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 24 | label: grammar | g:0.75 m:0.5 ---
+
+caitaparisaṃkhyānam te katame । sparśaḥ manaskāraḥ vedanā saṃjñā cetanā chandaḥ adhimokṣaḥ smṛtiḥ samādhiḥ prajñā śraddhā hrīḥ apatrapā alobhaḥ kuśalamūlam adveṣaḥkuśalamūlam amohaḥkuśalamūlam vīryam praśrabdhiḥ apramādaḥ upekṣā avihiṃsā rāga pratighaḥ mānaḥ avidyā dṛṣṭiḥ vicikitsā krodha upanāhaḥ mrakṣaḥ pradāśaḥ īrṣyā mātsaryarm māyā śāṭhyam madaḥ ahiṃsā āhrikyam anapatrāpyam styānam, auddhatyam, āśraddhyam, kauśīddhyam pramādaḥ muṣitāsmṛti, bikṣepaḥ, aprasajanyam, kaukrityam, middham,vitarkaḥ, vicāraśca ।।

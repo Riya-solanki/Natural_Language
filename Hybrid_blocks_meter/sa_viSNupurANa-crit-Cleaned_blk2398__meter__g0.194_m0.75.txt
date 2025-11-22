@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2398 | label: meter | g:0.194 m:0.75 ---
+
+vasiṣṭhatanayās tatra sapta saptarṣayo abhavan 
+ajaḥ paraśudivyādyās tathottamamanoḥ sutāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3216 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ budhyata budhyadhvaṃ budhyataivam itīrayan 
+māyāmohaḥ sa daityeyān dharmam atyājayan nijam ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 391 | label: grammar | g:0.604 m:0.5 ---
+
+ko apy asau jayati svāmin bhavatpūjāmahotsavaḥ ṣaṭtriṃśato api tattvānāṃ kṣobho yatrollasaty alam ।।

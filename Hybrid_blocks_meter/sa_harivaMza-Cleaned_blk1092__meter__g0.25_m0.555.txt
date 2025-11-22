@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1092 | label: meter | g:0.25 m:0.555 ---
+
+śrutadevāprajātas tu naiṣādir yaḥ pariśrutaḥ 
+śrutadevāt tu naiṣādiḥ so asmābhir yaḥpariśrutaḥ । 
+ekalavyo mahārāja niṣādaiḥ parivardhitaḥ ।। 
+vasudevasya vai putro vāsudevaḥ pratāpavān । 
+vatsāvate tv aputrāya vasudevaḥ pratāpavān 
+adbhir dadau sutaṃ vīraṃ śauriḥ kauśikam aurasam ।। 
+dadau putraṃ svakaṃ śauriḥ kumāramamitaujasam । 
+gaṇḍūṣāya tv aputrāya viṣvakseno dadau sutam 
+cārudeṣṇaṃ sucāruṃ ca pañcālaṃ kṛtalakṣaṇam ।।

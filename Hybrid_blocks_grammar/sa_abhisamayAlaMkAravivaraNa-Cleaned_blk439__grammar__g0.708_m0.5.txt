@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 439 | label: grammar | g:0.708 m:0.5 ---
+
+bhedaḥ bhāvanāheyānāṃ navānāṃ vikalpānāṃ sākṣāt pratipakṣabhūtā navānantaryamārgāḥ, nava ca vimuktimārgā iti aṣṭādaśa asya bhāvanāmārgākhyasya mūrdhaprayogasya bhedā bhavanti ।

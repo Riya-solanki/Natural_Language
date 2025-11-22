@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 61 | label: meter | g:0.271 m:0.5 ---
+
+emeva prajñavarapāramitāguṇāni yannirvṛte api jinadhātu labhanti pūjām 
+tasmā hu tān jinaguṇā parighettukāmo so prajñapāramita gṛhṇatu eṣa mokṣo ।।

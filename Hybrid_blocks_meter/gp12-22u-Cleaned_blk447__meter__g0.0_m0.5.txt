@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 447 | label: meter | g:0.0 m:0.5 ---
+
+[] nanu tarhi tena cārthena kim? tatrāha-

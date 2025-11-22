@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1974 | label: meter | g:0.25 m:0.5 ---
+
+evam uktas tu māṃ kruddhaḥ so abhigamyāṛṇavo abravīt 
+māṃ prabho devadeveśa kimarthaṃ śaptavān asi ।।

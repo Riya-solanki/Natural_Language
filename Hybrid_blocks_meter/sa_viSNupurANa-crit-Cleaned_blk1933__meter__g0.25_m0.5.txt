@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1933 | label: meter | g:0.25 m:0.5 ---
+
+yair yatra dṛśyate bhāsvān sa teṣām udayaḥ smṛtaḥ 
+tirobhāvaṃ ca yatraiti tatraivāstamanaṃ raveḥ ।।

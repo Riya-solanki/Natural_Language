@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 605 | label: meter | g:0.306 m:0.625 ---
+
+ehi kṛṣṇe mariṣyāvaḥ ko nvartho jīvitena nau ।
+dattāvāvāṃ narendreṇa brāhmaṇāya dhanaiṣiṇe ।।

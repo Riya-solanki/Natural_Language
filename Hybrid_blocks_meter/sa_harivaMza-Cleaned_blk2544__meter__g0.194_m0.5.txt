@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2544 | label: meter | g:0.194 m:0.5 ---
+
+tālānāṃ tam adho dṛṣṭvā sa dhvajākāram avyayam 
+rauhiṇeyaṃ kharo duṣṭaḥ so adaśad daśanāyudhaḥ ।।

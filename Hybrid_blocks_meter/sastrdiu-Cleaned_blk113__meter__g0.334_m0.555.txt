@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 113 | label: meter | g:0.334 m:0.555 ---
+
+nanvanumānādīnāṃ manojanyatvātteṣāṃ ca bhūtabhaviṣyatorapi pravṛtterindriyajanyatvaṃ vidyamānopalambhanatvenānaikāntikaṃ syāt ।
+na syāt ।
+nahīndriyajanyatvaṃ hetuḥ kintvindriyasaṃprayogajatvam ।
+nacānumāne atītāyā bhaviṣyantyā vā vṛṣṭeranumīyamānāyā manasā saṃprayogo astītyavyabhicāraḥ ।

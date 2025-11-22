@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 540 | label: meter | g:0.25 m:0.983 ---
+
+paunaruktyaṃ śaṅkate-tadetaditi ।
+dyubhvādivākyasya brahmaparatvamityarthaḥ ।
+samādhatte-prapañcārthamiti ।
+setuśabdavyākhyānena bhūtayoneḥ pratyagātmatvasphuṭīkaraṇārthamityarthaḥ ।
+tasmānmuṇḍakopaniṣad brahmaṇi samanviteti siddham ।।

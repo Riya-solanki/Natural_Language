@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 690 | label: hybrid | g:0.378 m:0.316 ---
+
+[] yathā ca śambara-gṛhāt prathama-vayasaḥ pradyumnasyāgamana-samaye prāha-kṛṣṇaṃ matvā striyo hrītā nililyustatra tatra ha [BhP ] iti । tatra ca-
+na navyād yauvanād anyāvasthā tasyeti yan matam ।
+varjayaty aṅga-vṛddhiṃ tan, na mādhurya-samarjanam ।। [anuṣṭubh]

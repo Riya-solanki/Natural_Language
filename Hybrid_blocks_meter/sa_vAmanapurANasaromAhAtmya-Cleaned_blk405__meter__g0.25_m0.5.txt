@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 405 | label: meter | g:0.25 m:0.5 ---
+
+tato gaccheta viprendrā viṣṇoḥ sthānamanuttamam ।
+savanaṃ nāma vikhyātaṃ yatra saṃnihito hariḥ ।।

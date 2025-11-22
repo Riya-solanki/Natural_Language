@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10273 | label: meter | g:0.25 m:0.75 ---
+
+ataśca paramāṇūnāṃ pārthivā'nantyavādinām ।
+bhedaḥ parasparaṃ jñeyastatheśasya mahātmanaḥ ।।

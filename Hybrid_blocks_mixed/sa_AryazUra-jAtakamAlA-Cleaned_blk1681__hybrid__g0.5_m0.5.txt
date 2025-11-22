@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1681 | label: hybrid | g:0.5 m:0.5 ---
+
+kṛpayābhivivardhitaḥ sa tasya vyavasāyaḥ paṭutāṃ jagāma śauryāt ।
+sa ca yatnaviśeṣamasya cakre manasaivātha jagāma yatnataikṣṇyāt ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 186 | label: meter | g:0.194 m:0.5 ---
+
+prajāpatīnāṃ dakṣaṃ tu marutām atha vāsavam 
+daityānāṃ dānavānāṃ ca prahlādam amitaujasam ।।

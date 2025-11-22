@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 261 | label: hybrid | g:0.388 m:0.484 ---
+
+nanvevaṃ samudravṛddhau candrodayasya hetutvaṃ na syāt, udayasya samudrasaṃbandhābhāvāt, ekakālasaṃbandhādubhayoradoṣaḥ ।
+yadā tarhi candrasya nabhomadhye sthitiṃ dṛṣṭvā pañcadaśanāḍikātikrāntā samudravṛddhiranumīyate tadā kathaṃ, tatrāpi paramparāsaṃbandhādubhayoradoṣaḥ ।
+nahi sākṣātsaṃbandha eva sarvatrāśrīyate, yaddhi yena sākṣātpraṇāḍyā vā kenāpi saṃbandhena niyataṃ tattasya tathaivānumāpakaṃ bhavatīti darśitamevaitat ।
+tena yādṛśaḥ saṃbandho hetorvādinā darśitastadasiddhau doṣo bhavati nānyathā ।
+gośabdaḥ sāsnādimadvacano gośabdatvāditi vyatirekāsiddhiḥ ।
+nahi dharmivyatirekeṇa gośabdatvaṃ nāma kiñcidasti ।
+nityamākāśamanavayavadravyāditi vyaptyasiddhiḥ mūrtatvasyākāśe vyaptyabhāvāditi ।।

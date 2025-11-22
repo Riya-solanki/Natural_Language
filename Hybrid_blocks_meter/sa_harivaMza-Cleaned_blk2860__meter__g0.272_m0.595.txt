@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2860 | label: meter | g:0.272 m:0.595 ---
+
+sa baddhāṅgadaniryūhaś citrayā vanamālayā 
+śobhamāno hi govindaḥ śobhayām āsa taṃ vrajam ।।

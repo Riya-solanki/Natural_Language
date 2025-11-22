@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10509 | label: meter | g:0.263 m:0.627 ---
+
+vasiṣṭha uvāca ।
+namostu tasmai puruṣāya vedhase namonamo asadvṛjinacchide namaḥ ।
+namonamo svāṅgabhavāya nityaṃ natosmi henātha tavāṅghripaṅkajam ।।

@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 114 | label: grammar | g:0.594 m:0.5 ---
+
+nāsti svastikaraḥ paraḥ paribhavo dharmātmanāṃ prāṇinām āpattāpaśamakṣamaṃ dhanasamaṃ nānyatkriyājīvitam ।
+saṃsāre param asti no atra sukhadaṃ ramyaṃ na rāmānanāt sarvakleśavināśanirvrtirasaḥ ko nāma mokṣāt paraḥ ।।

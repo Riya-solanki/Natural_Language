@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11279 | label: hybrid | g:0.542 m:0.5 ---
+
+sukhaṃ nāptaṃ hyapumātraṃ mukunda sevā muktā tava devasya viṣṇoḥ ।
+itaḥ paraṃ putramitrādikaṃ ca yāsye nāhaṃ tava dāsī bhavāmi ।।

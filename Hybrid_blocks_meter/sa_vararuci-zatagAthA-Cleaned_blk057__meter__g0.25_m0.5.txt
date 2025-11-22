@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 57 | label: meter | g:0.25 m:0.5 ---
+
+vṛthā vṛṣṭiḥ samudrasya vṛthā tṛptasya bhojanam ।
+vṛthā dānaṃ samarthasya vṛthā hīnasya satkṛtiḥ ।।

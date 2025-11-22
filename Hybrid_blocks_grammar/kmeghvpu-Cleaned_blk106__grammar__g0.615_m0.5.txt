@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 106 | label: grammar | g:0.615 m:0.5 ---
+
+kac cit somya vyavasitam idaṃ bandhukṛtyaṃ tvayā me pratyākhyātuṃ na khalu bhavato dhīratāṃ tarkayāmi ।
+niḥśabdo api pradiśasi jalaṃ yācitaś cātakebhyaḥ pratyuktaṃ hi praṇayiṣu satām īpsitārthakriyaiva ।।

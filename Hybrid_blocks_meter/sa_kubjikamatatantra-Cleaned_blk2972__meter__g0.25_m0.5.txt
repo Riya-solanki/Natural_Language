@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2972 | label: meter | g:0.25 m:0.5 ---
+
+taṃ bhittvā gamanaṃ cordhvaṃ muṣalākhyaṃ sadāśivam 
+dhanur lakṣye manākhyaṃ tu yena vedhayate param ।।

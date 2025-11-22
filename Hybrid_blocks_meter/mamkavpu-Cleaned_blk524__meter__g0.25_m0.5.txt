@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 524 | label: meter | g:0.25 m:0.5 ---
+
+{avandhyakopasya vihanturāpadāṃ bhavanti vaśyāḥ svayameva dehinaḥ ।
+amarṣaśūnyena janasya jantunā na jātahārdena na vidviṣādaraḥ ।।}

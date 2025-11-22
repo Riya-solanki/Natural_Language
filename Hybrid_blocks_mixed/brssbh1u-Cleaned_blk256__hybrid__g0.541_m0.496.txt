@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 256 | label: hybrid | g:0.541 m:0.496 ---
+
+itaśca śārīrādanyo manomayatvādiguṇaḥ, yasmācchabdaviśeṣo bhavati samānaprakaraṇe śrutyantari- ayathāvrīhirvā yavo vā śyamako vā śyamākataṇḍulo vaivamayamantarātmanpuruṣo hiraṇmayaḥ' iti ।
+śārīrasyatno yaḥ śabdo abhidhāyakaḥ saptamyanto antarātmanniti tasmādviśiṣṭo anyaḥ prathamāntaḥ puruṣaśabdo manomayatvādiviśiṣṭasyātmano abhidhāyakaḥ ।
+tasmāttayorbhedo adhigamyate ।।

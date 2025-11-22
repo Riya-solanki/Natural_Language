@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4937 | label: meter | g:0.194 m:0.625 ---
+
+vainateyas tataḥ kruddho mayūraṃ dīptatejasam 
+jagrāha śirasi kruddhas tuṇḍenābhyahanat tadā ।।

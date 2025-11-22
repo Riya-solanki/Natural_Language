@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2237 | label: meter | g:0.306 m:0.5 ---
+
+vañcanā sā ca tasyaiva yanna vetti kṛtaṃ paraḥ ।
+ko hi pratyupakārārthī tasya bhūyaḥ kariṣyati ।।

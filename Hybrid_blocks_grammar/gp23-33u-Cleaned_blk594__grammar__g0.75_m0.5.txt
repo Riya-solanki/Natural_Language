@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 594 | label: grammar | g:0.75 m:0.5 ---
+
+[] vraja-janaṃ prati tad idaṃ tu vedavad aparatantraṃ mantraṃ nivedayiṣyasi । samprati ca bhavatāṃ sambandhe jarāsandhādibhiḥ kṛtānusandhe tatrāpi nirb andhāt kaṭakena dhāṭī ghaṭayiṣyate iti ।

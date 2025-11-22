@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 166 | label: grammar | g:0.729 m:0.5 ---
+
+na kāśī na gayā gaṅgā na reva na ca gautamī na cāpi kauravaṃ kṣetraṃ samā bhūpa harer dināt ।।

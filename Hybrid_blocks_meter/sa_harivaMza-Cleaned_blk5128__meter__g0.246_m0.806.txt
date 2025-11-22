@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5128 | label: meter | g:0.246 m:0.806 ---
+
+svayaṃpālāḥ svayaṃcorā yugasaṃbhārasaṃbhṛtāḥ 
+maṇḍalaiḥ prabhaviṣyanti deśe deśe pṛthak pṛthak ।।

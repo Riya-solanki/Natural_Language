@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1356 | label: grammar | g:0.75 m:0.5 ---
+
+aāvaraṇādyanupalabdhirnāsti anupalambhāt' ityahetuḥ, kasmāt ?, anupalambhātmakatvādanupalabdheḥ upalambhābhāvamātratvādanupalabdheḥ yadasti tadupalabdherviṣayaḥ upalabdhyā tadastīti pratijñāyate yannāsti tadanupalabdherviṣayaḥ anupalabhyamānaṃ nāstīti pratijñāyate, soyamāvaraṇādyanupalabdheranupalambho anupalabdhau svaviṣaye pravartamāno na svaviṣayaṃ pratiṣedhati, apratiṣiddhā cāvaraṇādyanupalabdhirhetutvāya kalpayate।
+āvaraṇādīni tu vidyamānatvādupalabdherviṣayāḥ teṣāmupalabdhyā bhavitavyaṃ yattāni nopalabhyante tad upalabdheḥ svaviṣayapratipādikāyā abhāvād anuṣalambhādanupalabdherviṣayo gamyate ana santyāvaraṇādīni śabdasyāgrahaṇakāraṇānīti, anupalambhādanupalabdhiḥ sidhyati viṣayaḥ sa tasyeti ।।

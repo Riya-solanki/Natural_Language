@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 838 | label: grammar | g:0.583 m:0.5 ---
+
+sūtir dugdhasamudrato bhagavataḥ śrīkaustubhe sodare sauhārdaṃ kumudākareṣu kiraṇāḥ pīyūṣadhārākiraḥ ।
+spardhā te vacanāmbujair mṛgadṛśāṃ tat sthāṇucūḍāmaṇe haṃho candra kathaṃ niṣiñcasi mayi jvālāmuco vedanāḥ ।।

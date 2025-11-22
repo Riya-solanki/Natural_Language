@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8663 | label: hybrid | g:0.5 m:0.5 ---
+
+vipro vā vṛṣabho devo bhramate tīrthago yadi ।
+evaṃ dṛṣṭo yadā svapno mṛtaḥ ko apisvagotrajaḥ ।।

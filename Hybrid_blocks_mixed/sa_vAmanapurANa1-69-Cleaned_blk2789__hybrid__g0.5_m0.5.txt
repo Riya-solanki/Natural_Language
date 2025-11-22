@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2789 | label: hybrid | g:0.5 m:0.5 ---
+
+saṃmohitaṃ bhrātṛsutaṃ viditvā balī kujambho musalaṃ pragṛhya ।
+saṃbhrāmayaṃstūrṇataraṃ sa vegāt sasarja nandiṃ prati jātakopaḥ ।।

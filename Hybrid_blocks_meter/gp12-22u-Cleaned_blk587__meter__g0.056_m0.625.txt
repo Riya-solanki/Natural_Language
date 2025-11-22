@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 587 | label: meter | g:0.056 m:0.625 ---
+
+akuṇṭhām utkaṇṭhāṃ niravadhi vitarkyāli-vitatir
+yadā tāsām agre hari-paricitaṃ vṛttam aruṇat ।
+tadā varṣā jātās taḍid-anugatāmbhoda-valitāḥ
+pratīpābhāḥ kṛṣṇa-sphuraṇam adhikaṃ hā vidadhire ।। [śikhariṇī]

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 753 | label: meter | g:0.306 m:0.625 ---
+
+dhātorekāco halādeḥ kriyāsamabhihāre yaṅ ।।
+paunaḥpunye bhṛśārthe ca dyotye dhātorekāco halāderyaṅ syāt ।।

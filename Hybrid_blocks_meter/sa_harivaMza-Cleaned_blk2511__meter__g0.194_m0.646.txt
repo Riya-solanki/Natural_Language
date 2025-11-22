@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2511 | label: meter | g:0.194 m:0.646 ---
+
+tāsāṃ vilapitaṃ śrutvā teṣām ca vrajavāsinām 
+vilāpaṃ nandagopasya yaśodāṃ rudatīṃ tathā । 
+ekabhāvaśarīrajña ekadeho dvidhākṛtaḥ 
+saṃkarṣaṇas tu saṃkruddho babhāṣe kṛṣṇam avyayam ।।

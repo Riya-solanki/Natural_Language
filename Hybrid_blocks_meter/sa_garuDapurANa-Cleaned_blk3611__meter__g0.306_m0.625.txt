@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3611 | label: meter | g:0.306 m:0.625 ---
+
+ekādaśīmupoṣyaivadvādaśīma thavā dvija ! ।
+trimiśrāṃ caiva kurvīta na daśamyā yutāṃ kracit ।।

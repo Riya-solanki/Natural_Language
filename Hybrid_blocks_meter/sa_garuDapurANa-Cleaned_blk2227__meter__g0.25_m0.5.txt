@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2227 | label: meter | g:0.25 m:0.5 ---
+
+pūjā śrāddhaṃ piṇḍadānaṃ sarvaṃ bhavati cākṣayam ।
+śālagrāmaṃ sarvadaṃ syāttīrthaṃ paśupateḥ param ।।

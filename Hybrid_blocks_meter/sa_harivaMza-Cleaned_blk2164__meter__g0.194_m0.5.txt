@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2164 | label: meter | g:0.194 m:0.5 ---
+
+garbhasthānām api gatir vijñeyā bhuvi dehinām 
+nāradena hi garbhebhyo bhayaṃ naḥ samudāhṛtam ।।

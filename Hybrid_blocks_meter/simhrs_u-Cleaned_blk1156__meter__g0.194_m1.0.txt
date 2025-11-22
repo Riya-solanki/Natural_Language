@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1156 | label: meter | g:0.194 m:1.0 ---
+
+sa kṣemadāyī kamalānukūlaḥ
+kaṭhora-pārāvata-kaṇṭha-nīlaḥ ।
+kṛpā-nidhir bhavya-guṇābhirāmaḥ
+paraḥ pumān raja-mahīdhra-vāsī ।।

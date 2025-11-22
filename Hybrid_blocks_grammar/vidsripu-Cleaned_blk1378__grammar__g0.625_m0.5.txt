@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1378 | label: grammar | g:0.625 m:0.5 ---
+
+kṣutkṣāmāḥ śiśavaḥ śavā iva tanur mandādaro bāndhavo liptā jarjarakarkarī jatulavair no māṃ tathā bādhate ।
+gehinyā sphuṭitāṃśukaṃ ghaṭayituṃ kṛtvā sakāku smitaṃ kupyantī prativeśinī pratidinaṃ sūcīṃ yathā yācitā ।।

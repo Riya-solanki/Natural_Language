@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1389 | label: meter | g:0.194 m:0.75 ---
+
+caturviṃśe yuge cāpi viśvāmitrapuraḥsaraḥ 
+jajñe daśarathasyātha putraḥ padmāyatekṣaṇaḥ ।।

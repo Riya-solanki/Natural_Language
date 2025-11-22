@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 101 | label: meter | g:0.276 m:0.504 ---
+
+satyām api tv evamādiṣu bhāvanāyāṃ niṣpannacetanakartṛviṣayatvād vidhipratiṣedhayor asaṃbhavaḥ ।
+syād etat ।
+dṛṣṭo vidhir api tasmāt prāyaṇīyasyāhna ṛtvijā bhavi-

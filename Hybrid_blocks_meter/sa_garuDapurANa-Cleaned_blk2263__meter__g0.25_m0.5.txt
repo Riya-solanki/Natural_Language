@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2263 | label: meter | g:0.25 m:0.5 ---
+
+asaṃskṛtā mṛtā ya ca paśucorahatāśca ye ।
+sarpadaṣṭā gayāśrāddhānmuktāḥ svargaṃ vrajanti te ।।

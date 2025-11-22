@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 75 | label: hybrid | g:0.5 m:0.403 ---
+
+yacca vyabhicārābhyupagame svābhāvikamaprāmāṇyaṃ bhavati puruṣadoṣasya śabde anavatārāditi ।
+syādetadevaṃ yadi yadīyaṃ yadvākyaṃ tat sa puruṣo abhivyañjyāt ।
+tattu

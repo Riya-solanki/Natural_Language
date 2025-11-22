@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4334 | label: meter | g:0.272 m:0.845 ---
+
+prasekaḥ pīnasaḥ śvāsaḥ svarabhedo alpavahnitā ।
+doṣairmandānalatvena śothalepakapholbaṇaiḥ ।।

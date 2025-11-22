@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2615 | label: meter | g:0.194 m:0.5 ---
+
+devo varṣati lokeṣu tataḥ sasyaṃ pravartate 
+pṛthivyāṃ tarpitāyāṃ ca sāmṛtaṃ lakṣyate jagat ।।

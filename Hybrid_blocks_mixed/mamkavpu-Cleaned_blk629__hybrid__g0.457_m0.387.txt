@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 629 | label: hybrid | g:0.457 m:0.387 ---
+
+atra ya utpatsyate taṃ pratīti । evaṃ ca tacchabdānupādāne atra sākāṅkṣatvam । na cāsāviti
+tacchabdārthamāha ।

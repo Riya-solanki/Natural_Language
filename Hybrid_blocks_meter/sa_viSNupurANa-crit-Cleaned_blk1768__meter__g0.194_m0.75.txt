@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1768 | label: meter | g:0.194 m:0.75 ---
+
+daśa varṣasahasrāṇi tatra jīvanti mānavāḥ 
+nirāmayā viśokāś ca rāgadveṣavivarjitāḥ ।।

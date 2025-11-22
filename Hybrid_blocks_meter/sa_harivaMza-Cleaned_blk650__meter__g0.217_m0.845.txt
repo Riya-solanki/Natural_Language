@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 650 | label: meter | g:0.217 m:0.845 ---
+
+apabhraṃśam anuprāptā yogadharmāpacāriṇaḥ 
+mahatas tamasaḥ pāre mānasasya visaṃjñitāḥ ।।

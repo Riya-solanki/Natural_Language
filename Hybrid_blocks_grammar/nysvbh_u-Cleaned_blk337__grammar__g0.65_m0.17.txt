@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 337 | label: grammar | g:0.65 m:0.17 ---
+
+yathā senāṅgeṣu vanāṅgeṣu ca dūrādagṛhyamāṇapṛthaktveṣu aekam' ityupapadyate buddhiḥ evamaṇuṣu saṃciteṣvagṛhyamāṇapṛthaktveṣu aekam' ityupapadyate buddhiriti ।
+yathāgṛhyamāṇapṛthaktvānāṃ senāvanāṅgānām ārāt kāraṇāntarataḥ pṛthaktvasyāgrahaṇaṃ yathāgṛhyamāṇajātīnāṃ palāśa iti vā khadira iti vā nārāj jātigrahaṇaṃ bhavati yathāgṛhyamāṇapraspandānāṃ nārāt spandagrahaṇam gṛhyamāṇe cārthajāte pṛthaktvasyāgrahaṇāt aekam' iti bhāktaḥ pratyayo bhavati na tvaṇūnāṃ gṛhyamāṇapṛthaktvānāṃ kāraṇataḥ pṛthaktvasyāgrahaṇād bhākta ekapratyayaḥ atīndriyatvādaṇṛnāmiti ।
+idameva parīkṣyate kimekapratyayo aṇusaṃcayaviṣayaḥ ? āho svinna ? iti, aṇusaṃcaya eva senāvanāṅgāni, na ca parīkṣyamāṇamudāharaṇamiti yuktam sādhyatvāditi ।।
+dṛṣṭamiticet ? na tadviṣayasya parīkṣopapatteḥ ।
+yadapi manyeta dṛṣṭamidaṃ senāvanāṅgānāṃ pṛthaktvasyāgrahaṇādabhedena aekam' itigrahaṇaṃ na ca dṛṣṭaṃ śakyaṃ pratyākhyātumiti।
+tacca naivam tadviṣayasya parīkṣopapatteḥ

@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1104 | label: meter | g:0.102 m:0.695 ---
+
+hiraṇyakaśipoḥ putrāś catvāraḥ prathitaujasaḥ 
+anuhlādaś ca hlādaś ca prahlādaś caiva dharmavān 
+saṃhlādaś ca mahāvīryā daityavaṃśavivardhanāḥ ।।

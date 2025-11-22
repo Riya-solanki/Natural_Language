@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 274 | label: meter | g:0.194 m:0.625 ---
+
+kāmaṃ mṛte mayi mariṣyati viklaveyaṃ
+hā putraketi kṛpaṇā karuṇaṃ rudantī ।
+yuktas tathāpi mama pūrvataraṃ vināśo
+draṣṭuṃ guruvyasanam asti na me prabhutvam ।।

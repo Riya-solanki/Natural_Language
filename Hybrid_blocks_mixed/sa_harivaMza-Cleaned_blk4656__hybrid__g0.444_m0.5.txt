@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4656 | label: hybrid | g:0.444 m:0.5 ---
+
+uṣe mā bhaiḥ kim evaṃ tvaṃ rudatī paritapyase 
+baleḥ sutasutā ca tvaṃ prakhyātā kiṃ bhayānvitā ।।

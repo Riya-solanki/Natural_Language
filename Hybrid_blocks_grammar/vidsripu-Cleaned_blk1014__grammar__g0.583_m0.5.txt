@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1014 | label: grammar | g:0.583 m:0.5 ---
+
+ekadviprabhṛtikrameṇa gaṇanām eṣām ivāstaṃ yatāṃ kurvāṇā samakocayadṛśaśatāny ambhojasaṃvartikāḥ ।
+bhūyo api kramaśaḥ prasārayati tāḥ sampraty amūn udyataḥ saṃkhyātuṃ sakutūhaleva nalinī bhānoḥ sahasraṃ karān ।।

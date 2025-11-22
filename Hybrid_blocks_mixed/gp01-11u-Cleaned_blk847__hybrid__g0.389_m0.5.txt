@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 847 | label: hybrid | g:0.389 m:0.5 ---
+
+mā meti vadatā tena, cora coreti gīḥ-kalim ।
+rahasā saha sā rājñī sahasā sahasātanot ।। [anuṣṭubh]
+aho rājāsi corāṇāṃ, corās tvat-pitṛ-gotrajāḥ ।
+ity ādy acakalan mātā śiśunā gavya-coriṇā ।। [anuṣṭubh]

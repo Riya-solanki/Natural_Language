@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 218 | label: meter | g:0.25 m:1.0 ---
+
+suptaṃ prabodhomarṣaścāpyavahitthamathogratā ।
+matirvyādhistathonmādastathā maraṇameva ca ।।

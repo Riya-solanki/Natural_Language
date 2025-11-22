@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 656 | label: meter | g:0.166 m:0.635 ---
+
+[] tataś ca, tad-eka-sarge garge vrajeśvara-yācanataḥ svāsanam āgate purataḥ kiñcid dūrataḥ
+sitāsitaikaika-puṣpa viṣṇukrāntādvaya-prabhe ।
+te rohiṇī-yaśodākhye tanayābhyāṃ virejatuḥ ।। [anuṣṭubh]

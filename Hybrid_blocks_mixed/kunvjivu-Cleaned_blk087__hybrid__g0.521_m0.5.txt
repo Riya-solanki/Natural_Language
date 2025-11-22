@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 87 | label: hybrid | g:0.521 m:0.5 ---
+
+vāmaṃ kajjalavadvilocanamuro rohadvisāristanaṃ madhyaṃ kṣāmamakāṇḍa eva vipulābhogā nitambasthalī ।
+sadyaḥ prodgatavismayairiti gaṇairālokyamānaṃ muhuḥ pāyādvaḥ prathamaṃ vapuḥ smararipormiśrībhavatkāntayā ।।

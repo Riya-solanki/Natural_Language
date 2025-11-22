@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 830 | label: meter | g:0.082 m:0.819 ---
+
+tato gṛhābhyantara-śikya-lakṣitaṃ
+haiyaṅgavīnaṃ parigṛhya yatnataḥ ।
+jaghāsa tatrorvaritaṃ tu pakṣaka-
+dvāreṇa nihnutya jahāra keśavaḥ ।। [upajāti ]

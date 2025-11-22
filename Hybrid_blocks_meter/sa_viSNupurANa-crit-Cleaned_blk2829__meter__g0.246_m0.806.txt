@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2829 | label: meter | g:0.246 m:0.806 ---
+
+śucivastradharaḥ snāto devarṣipitṛtarpaṇam 
+teṣām eva hi tīrthena kurvīta susamāhitaḥ ।।

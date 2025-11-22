@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5439 | label: meter | g:0.25 m:0.555 ---
+
+oṃ namaḥ sarvasattvebhyo namaḥ siddhiṃ kuru kuru svāhā ।
+saptābhimantritaṃ kṛtvā karavīrasya puṣpakam ।
+strīṇāmagre bhrāmayacca kṣaṇādvai sā vaśe bhavet ।।

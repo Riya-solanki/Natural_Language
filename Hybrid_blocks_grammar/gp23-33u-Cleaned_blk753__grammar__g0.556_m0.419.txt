@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 753 | label: grammar | g:0.556 m:0.419 ---
+
+yeṣāṃ prema-guṇair yas tvaṃ baddhaḥ suṣṭhutayā hariḥ ।
+tasya tair viniruddhā ye kuryus te katham anyathā ।।
+[] sarve ca militvā nirṇeṣyanti mānyāḥ kanyā-vicāram । kātyāyanyārādhikās tāḥ kanyā dhanyādayaḥ sanyāyatām arhantīti ।

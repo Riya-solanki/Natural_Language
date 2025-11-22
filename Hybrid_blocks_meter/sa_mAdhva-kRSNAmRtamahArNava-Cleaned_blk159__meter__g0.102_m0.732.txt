@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 159 | label: meter | g:0.102 m:0.732 ---
+
+tasmāc chuklām atho kṛṣṇāṃ bharaṇyādiyutām api
+pratyavāyaniṣedhārtham upavāsīta nityaśaḥ
+prīṇanārthaṃ hareś vāpi viṣṇulokasya cā aptaye ।।

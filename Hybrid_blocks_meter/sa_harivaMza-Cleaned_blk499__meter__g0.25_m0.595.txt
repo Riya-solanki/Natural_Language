@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 499 | label: meter | g:0.25 m:0.595 ---
+
+tasya cārayataḥ so aśvaḥ samudre pūrvadakṣiṇe 
+velāsamīpe apahṛto bhūmiṃ caiva praveśitaḥ 
+tasyotsṛṣṭaṃ paśuṃ yajñe jahārāśvaṃpuraṃdaraḥ । 
+hṛtvā kapilapārśve taṃ baddhvāgān nagarīṃ punaḥ ।। 
+sumatyās tanayā dṛptāḥ pitur ādeśakāriṇaḥ । 
+tāni ṣaṣṭisahasrāṇi hayarakṣaṇatatparāḥ । 
+sa taṃ deśaṃ tadā putraiḥ khānayām āsa pārthivaḥ ।।

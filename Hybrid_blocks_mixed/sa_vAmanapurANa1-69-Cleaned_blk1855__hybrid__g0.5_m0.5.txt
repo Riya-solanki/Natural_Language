@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1855 | label: hybrid | g:0.5 m:0.5 ---
+
+tato ambikā prāha haraṃ deva gacchāma śiśum ।
+praṣṭuṃ samāśrayed yaṃ sa tasya putro bhaviṣyati ।।

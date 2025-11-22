@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6410 | label: meter | g:0.194 m:0.625 ---
+
+vijñānaṃ prāpakaṃ prāpye pare brahmaṇi pārthiva 
+prāpaṇīyas tathaivātmā prakṣīṇāśeṣabhāvanaḥ ।।

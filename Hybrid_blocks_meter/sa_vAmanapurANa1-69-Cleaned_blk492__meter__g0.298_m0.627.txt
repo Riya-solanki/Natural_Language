@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 492 | label: meter | g:0.298 m:0.627 ---
+
+prahlāda uvāca ।
+yā yā jāyeya me buddhiḥ sā sā viṣṇo tvadāśritā ।
+devārcane ca niratā tvaccittā tvatparāyaṇā ।।

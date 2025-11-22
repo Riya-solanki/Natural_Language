@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 783 | label: meter | g:0.25 m:0.625 ---
+
+koṭiṃ vidhyati sūto'pyanusāritaḥ sarati bījena ।
+pratisārito'nusārito daśakoṭiṃ vidhyate sūtaḥ ।।

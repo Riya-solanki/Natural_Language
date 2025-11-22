@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3631 | label: meter | g:0.306 m:0.5 ---
+
+caiva sarvatīrthāni ekādaśyāḥ samāni hi ।
+na dānaṃ na japo homo na cānyatsukṛtaṃ kracit ।।

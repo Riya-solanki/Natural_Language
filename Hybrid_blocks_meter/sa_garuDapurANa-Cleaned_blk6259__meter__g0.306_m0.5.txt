@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6259 | label: meter | g:0.306 m:0.5 ---
+
+śrutismṛtī tu vijñāya śrautaṃ karma samācaret ।
+śrautaṃ karma na ceduktaṃ tadā smārtaṃ samācaret ।।

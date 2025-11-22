@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2795 | label: meter | g:0.25 m:0.5 ---
+
+prāptāḥ samayino ye tu te pūjyās tu prayatnataḥ 
+tat sarvaṃ tu prakartavyaṃ cāturmāsyaṃ varānane ।।

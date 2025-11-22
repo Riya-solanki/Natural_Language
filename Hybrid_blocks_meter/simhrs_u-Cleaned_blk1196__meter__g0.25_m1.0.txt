@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1196 | label: meter | g:0.25 m:1.0 ---
+
+atha kāryasya pañcāvasthāḥ-
+kāryasya pañcadhāvasthā nāyakādi-kriyā-vaśāt । 
+ārambha-yatna-prāpty-āśā-niyatāpti-phalāgamāḥ ।
+tatra mukhya-phalodyoga-mātram ārambha iṣyate ।।

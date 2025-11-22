@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 1202 | label: hybrid | g:0.33 m:0.376 ---
+
+agrimā pūrṇā ।
+yathevādiśabdā yatparāstasyaivopamānatāpratītiriti yadyapyupamānaviśeṣaṇānyete tathāpi śabdaśaktimahimnā śrutyaiva ṣaṣṭhīvat saṃbandhaṃ pratipādayantīti tatsadbhāve śrautī upamā ।
+tathaiva {tatra tasyeva} ityanenevārthe vihitasya vaterupādāne ।।

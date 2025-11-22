@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4214 | label: meter | g:0.25 m:0.625 ---
+
+anyāṃś ca vṛddhān vṛṣṇīnāṃ tāṃś ca bhojāndhakāṃs tathā 
+ratnapravekair dāśārho vīryalabdhais tadārcayat ।।

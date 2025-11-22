@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 253 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam īdṛg-vayasi paryavasite tadādīnāṃ tāsāṃ saundarya-sārasya pracāraḥ sarvata eva prasarpan mātara-pitarādibhir nāpasarpayitum īśāñcakre cintayāmāse ca, na jānīmahe, durjanaḥ kaṃsaḥ kiṃ samprati sampratipatsyate iti ।

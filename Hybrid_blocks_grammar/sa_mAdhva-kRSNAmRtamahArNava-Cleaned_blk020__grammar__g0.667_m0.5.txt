@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 20 | label: grammar | g:0.667 m:0.5 ---
+
+dravyāṇām apy abhāve tu salilenāpi pūjitaḥ yo dadāti svakaṃ sthānaṃ sa tvayā kiṃ na pūjitaḥ ।।

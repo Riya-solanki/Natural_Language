@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2908 | label: meter | g:0.246 m:0.806 ---
+
+ālayaḥ sarvasattvānāṃ sukhaduḥkhaparāparaḥ 
+gacchate adha ūrdhvaṃ tu rathyādhāro jagatpatiḥ ।।

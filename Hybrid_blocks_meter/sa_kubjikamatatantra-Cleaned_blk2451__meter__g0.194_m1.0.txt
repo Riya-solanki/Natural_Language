@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2451 | label: meter | g:0.194 m:1.0 ---
+
+svarapañcakayuktāni saṃsaranti kalārṇave 
+padmanāḍīnibaddhetāḥ kālayantropariṣṭhitāḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 41 | label: grammar | g:0.562 m:0.5 ---
+
+na kalau devadevasya janmaduḥkhāpahāriṇaḥ karoti martyo mūḍhātmā smaraṇaṃ kīrtanaṃ hareḥ ।।

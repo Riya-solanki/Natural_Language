@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 793 | label: meter | g:0.194 m:0.75 ---
+
+govardhanādris tatrāsīd ratna-citraṃ mahā-gṛham ।
+harir yatra harid-ratna-stambhatārambhi-vibhramaḥ ।। [anuṣṭubh]

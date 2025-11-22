@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 83 | label: meter | g:0.306 m:0.5 ---
+
+jñātā śrotā tathā mantā vaktā vaktavyameva ca ।
+sarvaḥ sarvātmako devo bhuktimuktikaraḥ paraḥ ।।

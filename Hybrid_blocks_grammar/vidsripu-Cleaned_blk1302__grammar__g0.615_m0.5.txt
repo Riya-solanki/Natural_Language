@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1302 | label: grammar | g:0.615 m:0.5 ---
+
+samparkeṇa tamobhidāṃ jagadaghapradhvaṃsināṃ dhīmatāṃ krūro api prakṛtaṃ vihāya malinām ālambate bhadratām ।
+yat tṛṣṇāglapito api necchati janaḥ pātuṃ tad eva kṣaṇād ujjhaty ambudharodarasthitam apāṃpatyuḥ payaḥ kṣāratām ।।

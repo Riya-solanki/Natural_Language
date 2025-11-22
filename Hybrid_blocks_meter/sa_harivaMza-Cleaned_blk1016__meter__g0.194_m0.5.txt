@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1016 | label: meter | g:0.194 m:0.5 ---
+
+yavīnaraś ca vikrāntaḥ kṛmilāśvaś ca pañcamaḥ 
+pañceme rakṣaṇāyālaṃ deśānām iti viśrutāḥ ।।

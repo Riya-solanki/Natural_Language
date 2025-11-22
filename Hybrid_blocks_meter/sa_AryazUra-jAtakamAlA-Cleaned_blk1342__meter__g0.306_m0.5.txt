@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1342 | label: meter | g:0.306 m:0.5 ---
+
+imaṃ svamāvāsamupāgatau yuvāṃ visṛjyatāṃ tanmayi yantraṇāvratam ।
+prayojanaṃ yena yathā taducyatāṃ bhavatsahāyā hi vibhūtayo mama ।।

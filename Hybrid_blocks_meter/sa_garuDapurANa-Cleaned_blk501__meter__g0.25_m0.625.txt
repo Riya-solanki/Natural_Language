@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 501 | label: meter | g:0.25 m:0.625 ---
+
+tvacā na gamyaḥ kūrṃmaśca jihvāgrāhyastathaiva ca ।
+grāṇondriyāgamya eva vācāgrāhyastathaiva ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2247 | label: meter | g:0.306 m:0.625 ---
+
+caturmukhaṃ tu vai padmaṃ kārayitvā kareṇa tu ।
+saṃgṛhyāveśanādini bhrāmayan prakaroti saḥ ।।

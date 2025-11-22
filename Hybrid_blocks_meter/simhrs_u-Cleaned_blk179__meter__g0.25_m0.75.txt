@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 179 | label: meter | g:0.25 m:0.75 ---
+
+uddīpanaṃ caturdhā syād ālambana-samāśrayam ।
+guṇa-ceṣṭālaṅkṛtayas taṭasthāś ceti bhedataḥ ।।

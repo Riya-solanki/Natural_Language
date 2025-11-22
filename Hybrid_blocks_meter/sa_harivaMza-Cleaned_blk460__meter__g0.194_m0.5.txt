@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 460 | label: meter | g:0.194 m:0.5 ---
+
+satyavratas tu bhaktyā ca kṛpayā ca pratijñayā 
+viśvāmitrakalatraṃ tad babhāra vinaye sthitaḥ ।।

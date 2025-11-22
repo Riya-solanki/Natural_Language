@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1015 | label: meter | g:0.306 m:0.625 ---
+
+ghoṣayāmasa nagare durātmā vedanindakaḥ ।
+na dātavyaṃ na yaṣṭavyaṃ na hotavyaṃ kadācana ।।

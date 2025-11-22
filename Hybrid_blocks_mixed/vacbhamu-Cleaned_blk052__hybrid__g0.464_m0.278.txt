@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 52 | label: hybrid | g:0.464 m:0.278 ---
+
+na kevalamiyamanṛtatā parīkṣakāṇāṃ siddhā, api tu laukikānāmapītyāha- tathā ca loke anubavaḥ śuktikā hi rajatavadavabhāsata iti ।
+na punā rajatamidamiti śeṣaḥ ।

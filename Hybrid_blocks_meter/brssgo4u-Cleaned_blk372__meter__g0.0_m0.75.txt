@@ -1,0 +1,3 @@
+--- source: brssgo4u-Cleaned.txt | block: 372 | label: meter | g:0.0 m:0.75 ---
+
+abhāva adhikaraṇam । sū

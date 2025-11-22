@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 647 | label: grammar | g:0.625 m:0.5 ---
+
+tadevamatyadbhutā bodhisattvacaryeti tadunmukheṣu sattvaviśeṣeṣu nāvajñā pratīghāto vā karaṇīyaḥ । tathāgatavarṇe satkṛtya dharmaśravaṇe copaneyam ।

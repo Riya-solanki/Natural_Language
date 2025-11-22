@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 876 | label: meter | g:0.25 m:0.5 ---
+
+na sasyāni na gorakṣyaṃ na kṛṣir na vaṇikpathaḥ 
+vainyāt prabhṛti maitreya sarvasyaitasya saṃbhavaḥ ।।

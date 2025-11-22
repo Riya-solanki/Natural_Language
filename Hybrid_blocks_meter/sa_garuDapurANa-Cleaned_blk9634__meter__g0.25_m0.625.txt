@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9634 | label: meter | g:0.25 m:0.625 ---
+
+saptāṣṭamāntarai śīrṇe gṛhyasaṃskāravarjite ।
+ahastu sūtakaṃ tasya tvabdānāṃ saṃkhyayā smṛtam ।।

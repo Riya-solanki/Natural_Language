@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 746 | label: meter | g:0.25 m:0.957 ---
+
+FN trapujatubhyāṃ saṃtāpadrutābhyāṃ sīsalākṣābhyām ।
+padyu pādayuktaṃ ।
+saṃcārasamarthamiti yāvat ।
+matirvedārthajñānam ।

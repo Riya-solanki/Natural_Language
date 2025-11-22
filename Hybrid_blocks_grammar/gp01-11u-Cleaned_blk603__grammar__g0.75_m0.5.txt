@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 603 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha "nirvoḍhā nirvoḍhā" ity anuvadanty atyantābhiniveśād ekenāpy akṛta-nirdeśā pṛṣṭha-deśād ita-praveśā jaṭilita-kacā satya-vacāḥ paurṇamāsī sarvair eva tūrṇam utthāya samanaskāreṇa namaskāreṇa puraścakre, arcayāñcakre cāsanādibhiḥ ।

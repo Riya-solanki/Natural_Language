@@ -1,0 +1,8 @@
+--- source: rasadh_u-Cleaned.txt | block: 110 | label: meter | g:0.25 m:0.555 ---
+
+sūtaṃ jīrṇaśilāsattvaṃ lohakhalve catuṣpade ।
+kṣiptvā khāparasattvasya catuḥṣaṣṭyaṃśacūrṇakam ।।
+thūthāviḍena sampiṣya mṛdvagniṃ jvālayed adhaḥ ।
+jīrṇe jīrṇe muhuḥ kṣiptvā jāryam aṣṭaguṇaṃ rasāt ।।
+jīrṇe puṣpākṣasattve ca sasneho jāyate rasaḥ ।
+jīryate annapathaṃ vaktraṃ sampratyūrdhvaṃ ca pāradaḥ ।।

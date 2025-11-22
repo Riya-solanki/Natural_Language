@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 199 | label: grammar | g:0.625 m:0.5 ---
+
+yeṣām prasanno asi vibho yair labdhaṃ hṛdayaṃ tava ākṛṣya tvatpurāttais tu bāhyam ābhyantarīkṛtam ।।

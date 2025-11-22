@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 287 | label: hybrid | g:0.175 m:0.358 ---
+
+{padminikā} - haḷā gaccha sigghaṃ ayyaṃ āvantiaṃ saddāvehi 
+kevaḷaṃ bhaṭṭidāriāe sīsavedaṇaṃ evva ṇivedehi 
+tado saaṃ evva āgamissadi 
+[haḷā gaccha śīghram āryām āvantikāṃ śabdāpaya । kevalaṃ bhartṛdārikāyāḥ śīrṣavedanām eva nivedaya । tataḥ svayam evāgamiṣyati । ]

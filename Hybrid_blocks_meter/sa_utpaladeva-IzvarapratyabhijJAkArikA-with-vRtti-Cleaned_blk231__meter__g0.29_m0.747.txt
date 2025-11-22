@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 231 | label: meter | g:0.29 m:0.747 ---
+
+tathaiva sadghaṭadravyakāñcanojjvalatādayaḥ 
+ābhāsabhedā bhinnārthakāriṇas te padaṃ dhvaneḥ ।।

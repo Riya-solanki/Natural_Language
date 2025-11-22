@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1152 | label: grammar | g:0.562 m:0.5 ---
+
+na sphūrjati na ca garjati na ca karakāḥ kirati sṛjati na ca taḍitaḥ ।
+na ca vinimuñcati vātyāṃ varṣati nibhṛtaṃ mahāmeghaḥ ।।

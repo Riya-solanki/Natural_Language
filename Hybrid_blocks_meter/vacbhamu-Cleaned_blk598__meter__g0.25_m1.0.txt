@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 598 | label: meter | g:0.25 m:1.0 ---
+
+nityameva ca bhāvāt ।
+pravṛtterapravṛtterveti śeṣaḥ ।
+atirohitārthamasya bhāṣyam ।।

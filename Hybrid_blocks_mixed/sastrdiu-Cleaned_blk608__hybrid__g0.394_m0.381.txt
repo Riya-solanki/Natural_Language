@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 608 | label: hybrid | g:0.394 m:0.381 ---
+
+abhidhīyate- prayatnānantaraṃ dṛṣṭairnaikāntyātkāryatā dhvaneḥ ।
+tadabhivyaṅgyapakṣe api yujyate tatra darśanam ।
+yattu kathamabhivyaṅgyatvamiti, śrotrasaṃskāreṇeti brūmaḥ ।
+yattvākāśasyāhaṅkārasya vā śrotratve tatsaṃskāratve ca sarvatra puṃsāmupalabdhiḥ syādityuktaṃ tatra brūmaḥ- yadi tayoḥ śrotratve bhavedayaṃ doṣaḥ ।
+tatkarṇaśaṣkulībhavatu śrotraṃ sā ca pratipuruṣaṃ bhinneti nātiprasaṅgaḥ ।
+yadyapi cākāśameva śrotraṃ tattu na sākṣātsaṃskriyate kintvadhiṣṭhānadvāreṇa, tataśca yadyapi śrotraṃ sarveṣāmekaṃ tathāpyadhiṣṭhānaṃ bhinnatvātsaṃskāravyavasthayā śravaṇasya vyavasthā bhaviṣyati ।।

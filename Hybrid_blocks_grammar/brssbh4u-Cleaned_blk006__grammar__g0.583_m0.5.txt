@@ -1,0 +1,5 @@
+--- source: brssbh4u-Cleaned.txt | block: 6 | label: grammar | g:0.583 m:0.5 ---
+
+nanu asakṛt upadeśā udāhṛtāḥ śrotavyo mantavyo nididhyāsitavya iti evamādayaḥ ।
+evam api yāvat śabdam āvartayet sakṛt śravaṇaṃ sakṛt mananaṃ sakṛt nididhyāsanaṃ ca iti na atiriktam ।
+sakṛt upadeśeṣu tu veda upāsīta iti evamādiṣu anāvṛttiḥ iti ।

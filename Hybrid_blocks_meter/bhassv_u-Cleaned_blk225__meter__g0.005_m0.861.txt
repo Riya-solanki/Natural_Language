@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 225 | label: meter | g:0.005 m:0.861 ---
+
+{vāsavadattā} -
+{ātmagatam} diṭṭhiā pakiditthasarīro ayyautto 
+[diṣṭyā prakṛtisthaśarīra āryaputraḥ । ]

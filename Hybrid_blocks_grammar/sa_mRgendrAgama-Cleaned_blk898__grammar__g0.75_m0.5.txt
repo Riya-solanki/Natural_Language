@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 898 | label: grammar | g:0.75 m:0.5 ---
+
+eṣāṃ sādhakādīnāṃ [sarvacchidrāpahaḥ] samayalopādijasakalacchidrāpahaḥ [anyo] yaḥ pavitrākhyo vidhiḥ prāg devaiḥ [harāt] parameśvarāt tapasā [prāptaḥ] labdhaḥ sa eveṣāmeva [svavidhipuṣṭaye] svavidhipuṣṭyarthaṃ [nigadyate] ucyate।।

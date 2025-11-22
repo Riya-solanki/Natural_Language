@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 318 | label: grammar | g:0.569 m:0.5 ---
+
+śayyā nāvanatā tathāstṛtasamā na vyākulapracchadā na kliṣṭaṃ hi śiropadhānam amalaṃ śīrṣābhighātauṣadhaiḥ
+roge dṛṣṭivilobhanaṃ janayituṃ śobhā na kācit kṛtā prāṇī prāpya rujā punar na śayanaṃ śīghraṃ svayaṃ muñcati ।।

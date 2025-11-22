@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2157 | label: meter | g:0.194 m:0.5 ---
+
+ity eṣa saṃniveśo yaḥ pṛthivyā jyotiṣāṃ tathā 
+dvīpānām udadhīnāṃ ca parvatānāṃ ca kīrtitaḥ ।।

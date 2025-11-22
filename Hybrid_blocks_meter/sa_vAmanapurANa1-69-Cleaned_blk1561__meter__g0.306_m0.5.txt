@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1561 | label: meter | g:0.306 m:0.5 ---
+
+ityevamuktvā varado avapīḍayat karaṃ kareṇādrikumārikāyāḥ ।
+sā cāpi saṃsparśamavāpya śaṃbhoḥ parāṃ mudaṃ labdhavatī surarṣe ।।

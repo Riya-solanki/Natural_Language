@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4814 | label: meter | g:0.25 m:0.5 ---
+
+nāyaṃ devair na gandharvair nāpi yakṣair na rākṣasaiḥ 
+pradyumnaputro apahṛtaḥ puṃścalyā tu hṛtaḥ striyā ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 514 | label: hybrid | g:0.396 m:0.5 ---
+
+[] dūta uvāca-"ānantaryeṇa paryavasitāyā niśāyā niśīthe śrīmad-īśasya tasmin kārāgāra eva śrī-devakī-devītaḥ kācit kanyā jātā ।"

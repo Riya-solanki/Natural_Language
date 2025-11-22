@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 388 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evaṃ kulāṅganānām api tāsāṃ svayam eva niṣkulākṛta-manasām utkṛṣṭa-guṇatayākṛṣṭa-sarva-nayanā śrī-rādhā tu svata eva madhyam ādhāratām āpannātikaṣṭataḥ prakaṭam eva nija-niścayam āviścakāra, yathā-

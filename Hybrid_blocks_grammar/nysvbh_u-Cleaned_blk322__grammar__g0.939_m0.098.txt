@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 322 | label: grammar | g:0.939 m:0.098 ---
+
+nāsti vyāghātaḥ- na hyātmamanaḥsaṃnikarṣasya jñānakāraṇatvaṃ vyabhicarati indriyārthasaṃnikarṣasya prādhānyamupādīyate arthaviśeṣaprābalyāddhi suptavyāsaktamanasāṃ jñānotpattirekadā bhavati।
+arthaviśeṣaḥ kaścidevendriyārthastasya prābalyaṃ tīvratāpaṭute, taccārthaviśeṣaprābalyāmindriyārthasaṃnikarṣaviṣayaṃ nātmamanasoḥ saṃnikarṣaviṣayaṃ tasmādindriyārthasaṃnikarṣaḥ pradhānamiti।
+asati praṇidhāne saṃkalpe cāsati suptavyāsaktamanasāṃ yad indriyārthasaṃnikarṣādutpadyate jñānaṃ tatra manaḥsaṃyogopi kāraṇamiti manasi kriyākāraṇaṃ vācyamiti, yathaiva jñātuḥ khalvayamicchājanitaḥ prayatno manasaḥ preraka ātmaguṇa evamātmani guṇāntaraṃ sarvasya sādhakaṃ pravṛttidoṣajanitamasti yena preritaṃ mana indriyeṇa saṃbadhyate tena hy apreryamāṇe manasi saṃyogābhāvāt jñānātutpattau sarvārthatāsya nivartate eṣitavyaṃ cāsaya guṇāntarasya dravyaguṇakarmakārakatvam anyathā hi caturvidhānāmaṇūnāṃ bhūtasūkṣmāṇāṃ manasāṃ ca tato anyasya kriyāhetorasaṃbhavāt śarīrendriyaviṣayāṇāmanutpattiprasaṅgaḥ ।।

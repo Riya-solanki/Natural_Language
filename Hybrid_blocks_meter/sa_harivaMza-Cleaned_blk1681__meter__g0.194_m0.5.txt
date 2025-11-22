@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1681 | label: meter | g:0.194 m:0.5 ---
+
+vajraiḥ praharaṇīyaiś ca dīpyadbhiś cāpi tomaraiḥ 
+vikośaiś cāsibhis tīkṣṇaiḥ śūlaiś ca śitanirmalaiḥ ।।

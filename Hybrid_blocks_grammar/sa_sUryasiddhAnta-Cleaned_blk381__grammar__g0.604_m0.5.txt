@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 381 | label: grammar | g:0.604 m:0.5 ---
+
+tripādam amṛtaṃ guhyaṃ pādo ayaṃ prakaṭo abhavat। so ahaṅkāraṃ jagatsṛṣṭyai brahmāṇam asṛjat prabhuh।।

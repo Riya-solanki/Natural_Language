@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 498 | label: meter | g:0.306 m:0.5 ---
+
+kvacin nṛtyatsu cānyeṣu gāyakau vādakau svayam ।
+śaśaṃsatur mahārāja sādhu sādhv iti vādinau ।।[] iti ।

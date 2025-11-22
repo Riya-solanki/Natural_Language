@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3007 | label: meter | g:0.306 m:0.5 ---
+
+guruntvaṃ kṛtya huṅkṛtya vipraṃ nirjitya vāda taḥ ।
+prasādya taṃ ca munayastato hyupavaseddinam ।।

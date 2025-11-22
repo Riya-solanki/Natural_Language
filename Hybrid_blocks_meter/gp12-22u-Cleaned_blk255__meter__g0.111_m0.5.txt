@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 255 | label: meter | g:0.111 m:0.5 ---
+
+kanyā dhanyatamā ramām api jitāṃ kurvanty amūr nandajaḥ
+svasmād ūnadaśāṃ ramā-ramaṇam apy āsādayan dṛśyate ।
+tasmāt tulyatayā sa eva varatām arhaty amūṣāṃ tadapy
+āstāṃ dhāma-suhṛt-priyātma-tanaya-prāṇā hi nas tatkṛte ।। [śārdūla]

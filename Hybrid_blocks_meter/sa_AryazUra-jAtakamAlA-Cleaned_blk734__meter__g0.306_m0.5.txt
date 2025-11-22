@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 734 | label: meter | g:0.306 m:0.5 ---
+
+tasya śrutagrahaṇadhāraṇapāṭavaṃ ca bhaktyanvayaśca satataṃ svakulaprasiddhaḥ ।
+pūrve vayasyapi śamābharaṇā sthitiśca premaprasādasumukhaṃ gurumasya cakruḥ ।।

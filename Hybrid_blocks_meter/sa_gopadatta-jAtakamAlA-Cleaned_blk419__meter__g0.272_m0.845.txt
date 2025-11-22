@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 419 | label: meter | g:0.272 m:0.845 ---
+
+phalitāmalabhūṣaṇakalpataruṃ tarukhaṇḍavirājitasānuśikham ।
+śikharasthitadevavadhūmithunaṃ mithunair dahatāṃ vayasāṃ madhuram ।।

@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 738 | label: hybrid | g:0.314 m:0.493 ---
+
+thūthāviḍena taṃ hīrakaṃ sampiṣya pūrvokte rase śanaiḥ śanairjāraṇīyo hīrakaḥ ।
+ityannapathyahīrakajāraṇaṃ prathamam ।। v

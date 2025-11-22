@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 846 | label: meter | g:0.306 m:0.5 ---
+
+tad yathāstāṃ mahāsattvau saṃbuddhopāsakau purā ।
+kadā cit tāv ubhau grāmaṃ gacchantau saṃgatau pathi ।।

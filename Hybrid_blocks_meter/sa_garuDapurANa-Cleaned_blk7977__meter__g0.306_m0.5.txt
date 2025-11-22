@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7977 | label: meter | g:0.306 m:0.5 ---
+
+ityuktaḥ sa mahāghoraṃ kṛtvā roṣaṃ suduḥ saham ।
+jagrāha pretarūpaṃ tatpretānāmapi duḥ khadam ।।

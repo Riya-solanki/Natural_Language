@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6364 | label: meter | g:0.306 m:0.625 ---
+
+caturthe ca tathā bhāge snānārthaṃ mṛda māharet ।
+tilapuṣpakuśādīni snānaṃ cākṛtrime jale ।।

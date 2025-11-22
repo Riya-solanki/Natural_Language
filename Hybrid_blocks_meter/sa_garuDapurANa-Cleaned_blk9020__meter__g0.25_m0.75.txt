@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9020 | label: meter | g:0.25 m:0.75 ---
+
+kimarthamāturo dānaṃ dadāti dvijapuṅgave ।
+bandhūnmitrāṇyamitrāṃśca kṣamāpayati tatkatham ।।

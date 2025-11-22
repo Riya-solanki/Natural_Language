@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3464 | label: grammar | g:0.75 m:0.5 ---
+
+dṛṣṭas te bhagavan sumahān eṣa siddhiprabhāvo naivaṃvidham anyasya kasyacid asmābhir vibhūtivilasitam upalakṣitaṃ । kiyad etad bhagavaṃs tapasaḥ phalam ity abhipūjya tam ṛṣiṃ tatraiva tena ṛṣivaryeṇa saha kiṃcit kālam abhimatopabhogaṃ bubhuje svapuraṃ ca jagāma ।।

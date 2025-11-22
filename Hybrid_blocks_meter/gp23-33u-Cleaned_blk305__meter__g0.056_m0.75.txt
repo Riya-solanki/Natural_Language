@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 305 | label: meter | g:0.056 m:0.75 ---
+
+cāturībhir iha nas tu karṣato
+dharma-dhāma diśataḥ samujjhataḥ ।
+nirdayaṃ punar amuṣya śiṣyate
+yena nāsmad-atiduḥkham īkṣyate ।। [rathoddhatā]

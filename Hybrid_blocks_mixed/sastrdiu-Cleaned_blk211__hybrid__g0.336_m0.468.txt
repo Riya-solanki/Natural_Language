@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 211 | label: hybrid | g:0.336 m:0.468 ---
+
+ahaṃpratyayastarhi jñānāvalambano bhavatu ।
+so api kartravalambano na jñānāvalambana ityātmavāde vakṣyāmaḥ ।
+tathā grāhyalakṣaṇamapi bāhyasyaiva kiñcideṣṭavyam ।
+anyathā nīlādivittīnāṃ svāṃśaparyavasāyitvasādhanārthasya tadīyānumānasya nīlādivittigataṃ svāṃśaviṣayatvaṃ grāhyaṃ na syāt, sthāyitvādayaśca tadbuddhīnām ।।

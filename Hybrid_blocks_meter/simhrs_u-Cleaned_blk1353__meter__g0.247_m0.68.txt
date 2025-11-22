@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1353 | label: meter | g:0.247 m:0.68 ---
+
+dṛpyad-vikrama-kelayaḥ kapi-bhaṭāḥ śṛṇvantu sugrīvajām
+ājñāṃ mauli-niveśitāñjali-puṭāḥ sator iha vyūhane ।
+dor-daṇḍa-dvaya-tāḍana-ślatha-dharā-bandhoddhṛtān bhūdharān
+ānetuṃ sakalāḥ prayāta kakubhaḥ kiṃ nāma vo duṣkaram ।।

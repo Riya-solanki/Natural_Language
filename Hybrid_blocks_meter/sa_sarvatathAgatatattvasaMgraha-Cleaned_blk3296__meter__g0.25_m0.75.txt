@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3296 | label: meter | g:0.25 m:0.75 ---
+
+samādhikarma buddhānāṃ buddhabodhiprasādhakaṃ ।
+idaṃ bhāvayamānastu parāṃ siddhimavāpnuyād ।।

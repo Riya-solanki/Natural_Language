@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 84 | label: meter | g:0.194 m:0.625 ---
+
+ābhāsaḥ punarābhāsad bāhyasyāsīt kathaṃ cana 
+arthasya naiva tenāsya siddhir nāpy anumānataḥ ।।

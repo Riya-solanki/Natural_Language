@@ -1,0 +1,5 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 326 | label: meter | g:0.102 m:0.555 ---
+
+evaṃ ṣaḍguṇajīrṇaṃ tu sūtakaṃ jārayet budhaḥ 
+bhūmau lagati yatkṣipraṃ taddhānyābhrakam ucyate 
+abhrake dviguṇe jīrṇe dhūmavyājena gacchati ।।

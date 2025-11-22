@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1025 | label: meter | g:0.25 m:0.5 ---
+
+aśuddhaṃ śodhayet sarvaṃ sakṛduccāraṇāt tu tam 
+tan na vastvantaraṃ kiñcid yad anena na sidhyati ।।

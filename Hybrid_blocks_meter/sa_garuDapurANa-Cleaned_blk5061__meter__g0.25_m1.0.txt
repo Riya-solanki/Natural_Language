@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5061 | label: meter | g:0.25 m:1.0 ---
+
+pṛśriparṇobalāvilvanāgarotpaladhānyakaiḥ ।
+pāṭhendrayavabhūnimbamustaparpaṭakaiḥ śṛtāḥ ।
+jyantyāmamatīsāraṃ sajvaraṃ samahauṣadhāḥ ।।

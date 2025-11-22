@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4890 | label: meter | g:0.194 m:0.625 ---
+
+mṛta ity abhivijñāya jvaraṃ śatruniṣūdanaḥ 
+kṛṣṇo bhujabalābhyāṃ taṃ cikṣepātha mahītale ।।

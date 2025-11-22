@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 251 | label: hybrid | g:0.503 m:0.415 ---
+
+kimatrāgṛhītam, agnisāmānyaṃ tāvadgṛhītameva, parvato api pratyakṣeṇāvagataḥ, agniviśiṣṭastu parvato na kenāpyavagata iti so anumeyo bhaviṣyati ।
+tatra ca prāptāprāptavivekena saṃbandhamātraṃ prameyamavaśiṣyate ।
+yathā dadhnā juhotīti viśiṣṭaviṣayo api vidhirviśeṣaṇaparo bhavati tathehāpi, viśiṣṭaviṣayamevānumānam, viśeṣaṇaviśeṣyayostu prāptatvāt yajuryuktaṃ rathamadhvaryave dadātītivatsaṃbandhaviṣayaṃ bhavatīti ।

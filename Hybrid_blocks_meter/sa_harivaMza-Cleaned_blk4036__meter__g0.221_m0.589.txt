@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4036 | label: meter | g:0.221 m:0.589 ---
+
+pūjito rāmakṛṣṇābhyām āviveśa sabhāṃ śubhām 
+tatrāsanam alaṃkṛtya sabhām tāṃ sa sureśvaraḥ 
+arghyādisamudācāraṃ pratyagṛhṇād yathāvidhi ।। 
+arghyādibhis tathā rājan madhuparkeṇa vṛtrahā । āsanaṃ lambhayām āsa svātmatulyaṃ śacīpatiḥ । 
+athovāca mahātejā vāsavo vāsavānujaṃ 
+sāntvapūrvaṃ kareṇāsya saṃspṛṣan vadanaṃ śubham ।।

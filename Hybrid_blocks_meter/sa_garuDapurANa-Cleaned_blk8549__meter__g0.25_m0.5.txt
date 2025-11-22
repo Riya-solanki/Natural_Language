@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8549 | label: meter | g:0.25 m:0.5 ---
+
+śṛṇoti pakṣiśārdūla sa ca pāpairna lipyate ।
+iha loke sukhaṃ bhuktvā svargaloke mahīyate ।।

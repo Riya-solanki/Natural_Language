@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3393 | label: meter | g:0.25 m:0.625 ---
+
+ṣaṭkarṇo bhidyate mantraścatuḥ karṇaścadhāryate ।
+dvikarṇasya tu mantrasya brahmāpyanta na budhyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4895 | label: meter | g:0.194 m:0.75 ---
+
+cakralāṅgalapātaiś ca bāṇavarṣaiś ca pīḍitam 
+saṃcukopa mahānīkaṃ dānavānāṃ mahātmanām ।।

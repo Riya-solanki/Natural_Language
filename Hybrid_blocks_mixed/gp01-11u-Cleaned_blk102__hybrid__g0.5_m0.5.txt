@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 102 | label: hybrid | g:0.5 m:0.5 ---
+
+[] hanta kiṃ karavāṇi ? sahasaivārabdhavān etad varṇanam । nirvāhaṃ tu na paśyāmi । [] yataḥ prathamataś caturasra-pari-hari-carita-cārutā-praṇidhāna evedṛśatā dṛśyate, yathā-

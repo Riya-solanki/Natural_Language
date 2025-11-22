@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 847 | label: meter | g:0.25 m:0.5 ---
+
+cintayecca tato nyāsaṃ kayyāndvai kārayordvayoḥ ।
+vyāpakaṃ mūlamantreṇa cāṅganyāsaṃ tataḥ param ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6863 | label: grammar | g:0.604 m:0.5 ---
+
+yasminnyastamatirna yāti narakaṃ svargo api yaccintane vighno yatra navā viśetkathamapi brāhmo apiloko alpakaḥ ।
+muktiñcetasi saṃsthito jaḍadhiyāṃ puṃsāṃ dadātyavyayaḥ kiñcitraṃ yadayaṃ prayāti vilayaṃ tatrācyute kīrtite ।।

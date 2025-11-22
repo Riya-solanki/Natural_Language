@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 292 | label: meter | g:0.318 m:0.733 ---
+
+nanu aata eva prāṇaḥ' ityatra varṇitaṃ prāṇaśabdasya brahmaparatvam ।
+ihāpi ca brahmaliṅgamasti- aānando ajaro amṛtaḥ' ityādi ।
+kathamiha punaḥ saṃśayaḥ saṃbhavati ।
+anekaliṅgadarśanāditi brūmaḥ ।

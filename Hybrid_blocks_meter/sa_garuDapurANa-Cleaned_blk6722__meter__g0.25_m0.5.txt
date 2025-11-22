@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6722 | label: meter | g:0.25 m:0.5 ---
+
+pratyekaṃ trividhaḥ so api pūrakumbhakarecakaiḥ ।
+laghuryo daśamātrastu dviguṇaḥ sa tu madhyamaḥ ।।

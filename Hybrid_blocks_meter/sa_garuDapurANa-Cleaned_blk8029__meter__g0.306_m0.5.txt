@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8029 | label: meter | g:0.306 m:0.5 ---
+
+jñātaśca sa hi me vadhyo bhaviṣyati na saṃśayaḥ ।
+ahaṃ tatsakalaṃ jñātvā rātrāvasidharo gṛham ।।

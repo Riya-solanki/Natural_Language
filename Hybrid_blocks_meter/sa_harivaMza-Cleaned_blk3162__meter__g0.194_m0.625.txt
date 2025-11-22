@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3162 | label: meter | g:0.194 m:0.625 ---
+
+āsīnaṃ caiva somena tulyasaṃhananaṃ prabhum 
+saṃkarṣaṇam ivāsīnaṃ taṃ divyaṃ viṣṭaraṃ vinā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6010 | label: meter | g:0.25 m:0.75 ---
+
+triphalāpañcakole ca daśamūlaṃ viḍaṅgakam ।
+śatāvarīguḍūcī ca nimbavāsakakiṃśukāḥ ।।

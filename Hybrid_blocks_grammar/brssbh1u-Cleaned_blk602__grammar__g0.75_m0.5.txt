@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 602 | label: grammar | g:0.75 m:0.5 ---
+
+FN pañceti caturvedokarmāṇi praṇavaścati pañca kusumāni tebhyaḥ somājyādidravyāṇi hutāni rohitādīni lohitaṃ, śuklaṃ, kṛṣṇaṃ, paraṃ kṛṣṇaṃ, madhye kṣobhata iva, ityuktāni pañca rohitādīnyamṛtāni tattanmantrabhāgaiḥ prāgādyūrdhvāntapañcadigavasthitābhirādityaraśmināḍībhirmadhvaṣūpasthitacchidrarūpābhirādityamaṇḍalamānītāni yaśastejaindriyavīryānnātmanā pariṇatāni pañcadikṣu sthitairvasvādibhirupajīvyānīti dhyāyanto vasvādiprāptiruktetyarthaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 926 | label: meter | g:0.25 m:0.5 ---
+
+chandopaghātavihateṣv aparāyaṇeṣu tiryakṣu mohabahuleṣv adhikaṃ vihbānti ।
+dharmānurāgaviśadāḥ pratipattiśobhās tāmisrapakṣarajanīṣv iva dīpamālāḥ ।।

@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 50 | label: grammar | g:0.562 m:0.5 ---
+
+digyātavyā yadapi bhavato dakṣiṇā rakṣaṇārthaṃ matprāṇānāṃ punarapi sakhe paścimāmeva yāyāḥ ।
+dhūtārāmaṃ mukuṭataṭinīmārutaistatra śambhoḥ sampadgrāmaṃ yadi na bhajase janmanā kiṃ bhṛtena ।।

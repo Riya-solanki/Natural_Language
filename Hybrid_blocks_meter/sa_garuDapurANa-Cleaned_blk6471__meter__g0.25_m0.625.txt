@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6471 | label: meter | g:0.25 m:0.625 ---
+
+āyātu varadā devī aparāhne sarasvatī ।
+atasīkusumaprakhyā vaiṣṇavī garuḍāsanā ।।

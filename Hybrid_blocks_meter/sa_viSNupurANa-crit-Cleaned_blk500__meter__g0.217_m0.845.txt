@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 500 | label: meter | g:0.217 m:0.845 ---
+
+praṇāmapravaṇā nātha daityasainyaparājitāḥ 
+śaraṇaṃ tvām anuprāptāḥ samastā devatāgaṇāḥ ।।

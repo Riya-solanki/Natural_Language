@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 562 | label: grammar | g:0.75 m:0.5 ---
+
+[] ayaṃ tu śrīmān nanda-nandanaḥ sva-tāta-śubhānudhyāna-maya-yogamāyayā sevitatayā janmata eva samasta-jñānādi-sampan-mayatāyāṃ śastaḥ svajana-sneha-vaśaṃvada-bālyādi-līlā-sukhāveśena tatrānādṛtyātula-tad-vyakti-vyatiriktīkṛtas tathāpy avasaram avāpya madhyaṃ madhyaṃ sā sva-sevām adhyavasyantī tatra prādurbhavati । tataḥ samprati ca tām antarvikṛtākṛtim upalabhya bhavya-svabhāva-rocane locane nimīlitavān ।

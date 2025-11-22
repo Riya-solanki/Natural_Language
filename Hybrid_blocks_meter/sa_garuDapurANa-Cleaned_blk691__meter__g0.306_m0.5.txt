@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 691 | label: meter | g:0.306 m:0.5 ---
+
+yajetsūryahṛdā sarvānsoṃ somaṃ maṃ ca maṅgalam ।
+baṃ budhaṃ bṛṃ bṛhaspatiṃ bhaṃ bhārgavaṃ śaṃ śanaiścaram ।।

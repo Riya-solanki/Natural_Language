@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2600 | label: meter | g:0.25 m:0.5 ---
+
+tasyottamāṅgaṃ sve kāye vikapālaṃ viveśa ha 
+tena muṣṭiprahāreṇa kapālaṃ tad dvidhābhavat । 
+jānudbhyāṃ jagatīṃ caiva gatāsuḥ sa jagāma ha ।।

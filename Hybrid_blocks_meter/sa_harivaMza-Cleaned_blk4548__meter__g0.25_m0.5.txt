@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4548 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ kṛṣṇo bhojayitvā śatāni subahūni ca 
+viprāṇām ṛṣikalpānāṃ kṛtakṛtyo abhavat tadā ।। 
+arcayitvā sahasrāṃśuṃ bhāskaraṃ bhuvaneśvaram । 
+tataḥ saha mayā bhuktvā vṛṣṇibhojaiś ca sarvaśaḥ 
+sātyakiṃ purataḥ kṛtvā bhojayām āsa vṛṣṇipān ।। 
+tataḥ sabhāṃ praviṣṭāḥ sma saha vṛṣṇipuraḥsaraiḥ । 
+vicitrāś ca kathā divyāḥ kathayām āsa bhārata ।।

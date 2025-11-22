@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 926 | label: meter | g:0.306 m:0.5 ---
+
+oṃ kṣaiṃ kavacāya namaḥ kavacaṃ paripūjayet ।
+oṃ kṣaiṃ netrāya namaśca netraṃ cānena pūjayet ।।

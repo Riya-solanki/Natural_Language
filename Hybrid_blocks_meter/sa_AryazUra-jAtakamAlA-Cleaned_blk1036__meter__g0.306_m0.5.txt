@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1036 | label: meter | g:0.306 m:0.5 ---
+
+prāyaḥ samṛddhyā madameti gehe mānaṃ kulenāpi balena darpam ।
+duḥkhena roṣaṃ vyasanena dainyaṃ tasminkadā syātpraśamāvakāśaḥ ।।

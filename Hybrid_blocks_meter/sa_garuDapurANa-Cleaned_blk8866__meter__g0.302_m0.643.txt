@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8866 | label: meter | g:0.302 m:0.643 ---
+
+śrāddhaṃ tasya kathaṃ kāryaṃ vidhinā kena tadbhavet ।
+śrībhagavānuvāca ।
+mukhaṃ dṛṣṭvā tu putrasya mucyate paitṛkādṛṇāt ।।

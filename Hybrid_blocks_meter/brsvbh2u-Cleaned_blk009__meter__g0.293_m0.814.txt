@@ -1,0 +1,5 @@
+--- source: brsvbh2u-Cleaned.txt | block: 9 | label: meter | g:0.293 m:0.814 ---
+
+sūtrāntaramavatārayituṃ codayati-nanu cetanatvamapi kvaciditi ।
+na pṛthivyādīnāṃ caitanyamāthameva, kintu bhūyasīnāṃ śrutīnāṃ sākṣādevārtha ityarthaḥ ।
+sūtramavatārayati-ata uttaraṃ paṭhati-

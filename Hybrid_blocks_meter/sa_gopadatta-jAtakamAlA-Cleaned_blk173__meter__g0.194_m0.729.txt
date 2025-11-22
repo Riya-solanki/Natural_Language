@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 173 | label: meter | g:0.194 m:0.729 ---
+
+yeṣām utpādakāle sucaritakiraṇair likhyamānaṃ samantād
+dhvāntaṃ cetaḥ svaraṅgāvivaraparicayasphītam apy astam eti ।
+unmajjantīva lokāḥ pratibhayamahato duḥkhapaṅkaughamadhyāt
+teṣām evānurūpā parahitaviduṣāṃ janmasaṃtānalīlā ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1419 | label: meter | g:0.25 m:0.75 ---
+
+samidbhistaistu saṃkruddhaḥ prajvālyāgniṃ samāhitaḥ ।
+vajrapāṇerjuhenmālyaṃ so apyājñākaratāṃ vrajet ।।

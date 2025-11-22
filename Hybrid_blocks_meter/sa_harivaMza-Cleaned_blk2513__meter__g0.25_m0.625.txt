@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2513 | label: meter | g:0.25 m:0.625 ---
+
+ime no bāndhavās tāta tvāṃ matvā mānuṣaṃ prabho 
+paridevanti karuṇam sarve mānuṣabuddhayaḥ ।।

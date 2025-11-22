@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 969 | label: grammar | g:0.552 m:0.5 ---
+
+dīptyā navārka iva cārutayā śaśīva saṃlakṣyase ca vapuṣānyatamo munīnām ।
+tadvaktumarhasi yathā vidito asi loke saṃbhāvanā hi guṇatastvayi no vicitrā ।।

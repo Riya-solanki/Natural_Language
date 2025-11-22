@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1280 | label: grammar | g:0.553 m:0.429 ---
+
+asanto nābhyarthyāḥ suhṛd api na yācyas tanudhanaḥ priyā vṛttir nyāyyā caritam asubhaṅge apy amalinam ।
+vipady uccaiḥ stheyaṃ padam anuvidheyaṃ ca mahatāṃ satāṃ kenoddiṣṭaṃ viṣamam asidhārāvratam idam ।।
+dharmakīrteḥ

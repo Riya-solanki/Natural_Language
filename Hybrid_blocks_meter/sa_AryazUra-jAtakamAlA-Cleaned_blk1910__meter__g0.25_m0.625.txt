@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1910 | label: meter | g:0.25 m:0.625 ---
+
+dehasyaikasya nāmarthe rogabhūtasya nāśinaḥ ।
+idaṃ sattveṣu nairghṛṇyaṃ dhigaho bata mūḍhatām ।।

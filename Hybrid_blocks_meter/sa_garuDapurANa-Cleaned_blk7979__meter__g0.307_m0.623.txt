@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7979 | label: meter | g:0.307 m:0.623 ---
+
+bāhubhyāṃ dvau dvau ca padbhyāṃ mūrdhnaikaṃ ca samāharat ।
+pretānathāpi sahasā jaghāna dṛḍhamuṣṭinā ।।

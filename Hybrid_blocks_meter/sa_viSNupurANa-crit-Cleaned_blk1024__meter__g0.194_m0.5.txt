@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1024 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ somasya vacanāj jagṛhus te pracetasaḥ 
+saṃhṛtya kopaṃ vṛkṣebhyaḥ patnīdharmeṇa māriṣām ।।

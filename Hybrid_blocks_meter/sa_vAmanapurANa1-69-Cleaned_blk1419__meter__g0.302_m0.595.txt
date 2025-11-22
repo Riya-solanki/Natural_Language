@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1419 | label: meter | g:0.302 m:0.595 ---
+
+bhikṣuruvāca ।
+mayā snānaṃ prayāge tu kṛtaṃ prathamameva hi ।
+tato atha tīrthe kubjāmre jayante caṇḍikeśvare ।।

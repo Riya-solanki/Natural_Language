@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 983 | label: meter | g:0.257 m:0.565 ---
+
+tasyāṃ tu śaptamātrāyāṃ divodāsaḥ prajeśvaraḥ 
+viṣayānte purīṃ ramyāṃ gomatyāṃ saṃnyaveśayat ।। 
+bhadraśreṇyasya pūrvaṃ tu purī vārāṇasībhavat । yaduvaṃśaprasūtasya tapasy abhiratasya ca । 
+bhadraśreṇyasya putrāṇāṃ śatam uttamadhanvinām 
+hatvā niveśayām āsa divodāsaḥ prajeśvaraḥ ।।

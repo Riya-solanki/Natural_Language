@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 888 | label: meter | g:0.25 m:0.686 ---
+
+evaṃ bhaktamapi śakyamupādātum ।
+tasmānna bhojanasya lope prāṇāgnihotralopa iti manyate pūrvapakṣī ।
+adbhiriti tu pratinidhyupādānamāvaśyakatvasūcanārthaṃ bhāṣyakārasya ।।

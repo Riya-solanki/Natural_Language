@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11439 | label: meter | g:0.263 m:0.649 ---
+
+jaigīṣavyastvevamukto mahātmā uvāca kanyāṃ saṃsmaran bhaktavaryaḥ ।
+jaigīṣavya uvāca ।
+prahādādyā śrīnivāsasya bhaktāḥ kṛtvā nṛsiṃhe cottamāṃ bhaktimeva ।।

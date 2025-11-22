@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 815 | label: meter | g:0.306 m:0.5 ---
+
+anayā khalu sāraṇayā krāmaṇena ca viśati yojito vidhivat ।
+asati vedhavidhau na rasaḥ svaguṇānprakāśayati ।।

@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 88 | label: meter | g:0.194 m:0.75 ---
+
+svabhāvam avabhāsasya vimarśaṃ vidur anyathā 
+prakāśo arthoparakto api sphaṭikādijaḍopamaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 449 | label: grammar | g:0.75 m:0.5 ---
+
+asti me prabhur asau janako atha tryambako atha jananī ca bhavānī na dvitīya iha ko api mamāstīty eva nirvṛtatamo vicareyam ।।

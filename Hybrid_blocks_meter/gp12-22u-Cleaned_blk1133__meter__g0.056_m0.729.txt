@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1133 | label: meter | g:0.056 m:0.729 ---
+
+rāga eva kila siddhi-kṛd āsāṃ
+nāsmad arcanam iti pratipadya ।
+nāgamad vara-vidhāv iha durgā
+kintu rāga-viṣayaḥ svayam eva ।। [svāgatā]

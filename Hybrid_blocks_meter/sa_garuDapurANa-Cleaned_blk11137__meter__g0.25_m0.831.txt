@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11137 | label: meter | g:0.25 m:0.831 ---
+
+garuḍa uvāca ।
+ānandanirṇayaṃ brūhi kṛṣṇa pūrṇadayānighe ।
+nirṇetuṃ jñānināṃ yadvajjñāpanārthaṃ tathā mama ।।

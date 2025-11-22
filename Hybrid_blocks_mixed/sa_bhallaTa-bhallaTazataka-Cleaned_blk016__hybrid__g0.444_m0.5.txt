@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 16 | label: hybrid | g:0.444 m:0.5 ---
+
+sūryād anyatra yac candre apy arthāsaṃsparśi tat kṛtam 
+khadyota iti kītasya nāma tuṣṭena kena cit ।।

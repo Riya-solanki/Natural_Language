@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2160 | label: hybrid | g:0.455 m:0.5 ---
+
+yo ahaṃ dorbhyām udārābhyāṃ kṣobhaye ahaṃ dharām imām 
+ko asti yo mānuṣe loke māṃ kṣobhayitum utsahet ।।

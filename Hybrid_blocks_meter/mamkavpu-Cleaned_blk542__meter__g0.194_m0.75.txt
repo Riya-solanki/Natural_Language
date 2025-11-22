@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 542 | label: meter | g:0.194 m:0.75 ---
+
+{rākāvibhāvarīkāntasaṃkrāntadyuti te mukham ।
+tapanīyaśilāśobhā kaṭiśca harate manaḥ ।।}

@@ -1,0 +1,3 @@
+--- source: brssbh3u-Cleaned.txt | block: 478 | label: grammar | g:0.75 m:0.5 ---
+
+vājasaneyake - avadiṣyāmyevāhamīti vāgdadhre' ityatrādhyātmaṃ vāgādīnāṃ śreṣṭho avadhārito adhidaivatamagnyādīnāṃ vāyuḥ tathā chāndogye - avāyurvāva saṃvargaḥ' ityatrādhidaivatamagnyādīnāṃ vāyuḥ sarṅgo avadhāritaḥ aprāṇo vāva saṃvargaḥ' ityatrādhyātmaṃ vāgādīnāṃ prāṇaḥ ।

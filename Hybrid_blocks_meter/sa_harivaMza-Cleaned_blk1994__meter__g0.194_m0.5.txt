@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1994 | label: meter | g:0.194 m:0.5 ---
+
+dvitīyāyāṃ striyāṃ sṛṣṭā dvitīyā śaṃtanos tanuḥ 
+vicitravīryo dyutimān āsīd rājā pratāpavān ।।

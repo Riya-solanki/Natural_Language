@@ -1,0 +1,9 @@
+--- source: kunvjivu-Cleaned.txt | block: 701 | label: grammar | g:0.575 m:0.421 ---
+
+atra yadvastu tadudāttam, alakaraṇaṃ kīdṛśamityākāṅkṣāyām ṛddhimadityanena yadi viśeṣyate tattadeva saṃpadupetaṃ vastu varṇyamānamalaṅkāryaṃ tadevālaṅkaraṇamiti svātmani kriyāvirodhalakṣaṇasya doṣasya durnivāratvāt svarūpādatiriktasya vastvantarasyāpratibhāsanāt ūrjasvivadudātte a ṇabhāvānupapattiḥ ।
+athavā ṛddhimadvastu yasmin yasyetyapi vyākhyānaṃ kriyate, tathāpi tadanyapadārthalakṣaṇaṃ vastu vaktavyameva yatsamāsārthopanītam ।
+tatkāvyameva tathāvidhaṃ bhaviṣyatīti cettadapi na kiñcideva, yasmāt kāvyasyālaṅkāra iti prasiddhirna punaḥ kāvyamevālaṅkaraṇamiti ।
+yadi vā ṛddhimadvastu yasmin yasya vā ityasāvalaṅkāraḥ samāsārthenopanīyate tathāpi varṇanīyādalaṅkaraṇamatiriktamalaṅkaraṇakalpamanyadatra cidevopalabhyate ityubhayathāpi śabdārthāsaṃgatilakṣaṇo doṣaḥ saṃprāptāvasaraḥ saṃpadyate ।
+kiṃ codāttasyālaṅkaraṇatve sati, alaṅkaraṇāntaravidhānāt tadapekṣānibandhanasya saṃsṛṣṭisaṃkaravyapadeśasyāprasiddheranyasmin viṣaye varṇanīyāntare rūpakādivat tadviruddhasya samṛddhirahitasya varṇanīyāntarasya cālaṅkāratvaprasaṃgāt udāttasya na kathañcidapi bhūṣaṇatvopapattirasti ।
+tathā dvitīyasyāpyudāttaprakārasyālaṅkāryatvamevopapannaṃ, na punaralaṅkārabhāvaḥ ।
+tathā caitasya lakṣaṇam

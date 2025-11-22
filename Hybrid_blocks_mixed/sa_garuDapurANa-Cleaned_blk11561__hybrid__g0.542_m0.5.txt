@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11561 | label: hybrid | g:0.542 m:0.5 ---
+
+dravyādike kriyamāṇaṃ ca lobhaṃ dagdhvā vai me dehi pādābjamūle ।
+putrādike kriyamāṇaṃ ca mohaṃ dagdhvā ca me dehi pādābjamūle ।।

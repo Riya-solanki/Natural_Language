@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 98 | label: meter | g:0.25 m:0.625 ---
+
+keśākule raktakaṣāyapaṅkakapālabhāji prakaṭāsthidante ।
+kāyaśmaśāne ramate aṅganānāṃ kāmākulaḥ kāmukakākalokaḥ ।।

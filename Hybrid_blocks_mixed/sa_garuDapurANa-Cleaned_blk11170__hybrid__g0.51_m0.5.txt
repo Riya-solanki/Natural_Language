@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11170 | label: hybrid | g:0.51 m:0.5 ---
+
+etādṛśaṃ na vijānanti yāstu sarvāstā vai vidhavāḥ sarvadaiva ।
+nimittabhūtaṃ bhartṛrūpaṃ ca jīvaṃ daivopetaṃ haribhaktyā vihīnam ।।

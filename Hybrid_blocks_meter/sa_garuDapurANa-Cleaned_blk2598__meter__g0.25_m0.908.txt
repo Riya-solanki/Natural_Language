@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2598 | label: meter | g:0.25 m:0.908 ---
+
+mākraṇḍeya uvāca ।
+evaṃ tu stuvatastasya tejasorāśirucchritaḥ ।
+prādurbabhūva sahasā gaganavyāptikārakaḥ ।।

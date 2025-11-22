@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2625 | label: meter | g:0.25 m:0.5 ---
+
+kṛṣyantāḥ prathitāḥ sīmāḥ sīmāntaṃ śrūyate vanam 
+vanāntā girayaḥ sarve sā cāsmākaṃ gatir dhruvā ।।

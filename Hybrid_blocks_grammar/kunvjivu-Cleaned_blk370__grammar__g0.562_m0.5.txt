@@ -1,0 +1,3 @@
+--- source: kunvjivu-Cleaned.txt | block: 370 | label: grammar | g:0.562 m:0.5 ---
+
+atraiva vidhyamānaguṇātiśayāvyāropagarbhatvaṃ yathā rāmo asau bhuvaneṣu vikramaguṇaiḥ prāptaḥ prasiddhiṃ parām ।।

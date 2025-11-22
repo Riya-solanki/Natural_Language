@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 642 | label: meter | g:0.25 m:0.871 ---
+
+lomaharṣaṇa uvāca ।
+tatastvauśanasaṃ tīrthaṃ gacchettu śraddhāyānvitāḥ ।
+uśanā yatra saṃsiddho grahatvaṃ ca samāptavān ।।

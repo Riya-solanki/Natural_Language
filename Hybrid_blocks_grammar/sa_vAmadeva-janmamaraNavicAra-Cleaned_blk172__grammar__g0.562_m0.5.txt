@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 172 | label: grammar | g:0.562 m:0.5 ---
+
+tathā hi bālyaṃ vṛddhir balaṃ prajñā tvak cakṣuḥ śrotram indriyam ।।

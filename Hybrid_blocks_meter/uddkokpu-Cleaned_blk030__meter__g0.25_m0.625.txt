@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 30 | label: meter | g:0.25 m:0.625 ---
+
+kāle tasmin karadhṛtagalannīvayo vārakāntāḥ sambhogānte nibiḍalatikāmandirebhyaścalantyaḥ ।
+vītasvedāstava viharataḥ pakṣapālīsamīrair ākhinnabhrūvalanamalasairarcayiṣyantyapāṅgaiḥ ।।

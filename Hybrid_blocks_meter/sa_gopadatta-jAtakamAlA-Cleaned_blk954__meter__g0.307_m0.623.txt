@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 954 | label: meter | g:0.307 m:0.623 ---
+
+hatvāpi rāgaviṣabījavijṛṃbhitāni svabhyastayogapadavīsthirabuddhayo api ।
+yoṣinmukhāny alakapallavitāny udīkṣya bhraṣṭā bhavanti tapasaḥ paśubhiḥ samānāḥ ।।

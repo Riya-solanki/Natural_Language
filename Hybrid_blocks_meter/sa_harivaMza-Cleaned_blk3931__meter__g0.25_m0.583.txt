@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3931 | label: meter | g:0.25 m:0.583 ---
+
+tasyābhipatataḥ khaḍgaṃ ciccheda yudhi keśavaḥ 
+nārācaiś ca tribhiḥ kruddho bibhedainam athorasi ।। 
+kruddho bibhedainam atho śarair urasi pañcabhiḥ । 
+sa papāta mahābāhur vasudhām anunādayan 
+visaṃjño mūrchito rājā vajreṇeva hato giriḥ ।।

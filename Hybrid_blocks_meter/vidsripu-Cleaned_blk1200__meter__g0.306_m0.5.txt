@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1200 | label: meter | g:0.306 m:0.5 ---
+
+prabhāte sannaddhastanitamahimānaṃ jaladharaṃ spṛśantaḥ sarvatra sphuṭitavanamallīsurabhayaḥ ।
+amī mandaṃ mandaṃ suratasamaraśrāntataruṇī- lalāṭasvedāmbhaḥkaṇaparimuṣo vānti marutaḥ ।।

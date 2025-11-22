@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1486 | label: meter | g:0.0 m:0.5 ---
+
+yathā tatraiva, tathā cedam astu bharata-vākyam-

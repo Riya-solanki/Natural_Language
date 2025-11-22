@@ -1,0 +1,3 @@
+--- source: varlghku-Cleaned.txt | block: 1253 | label: meter | g:0.25 m:0.75 ---
+
+iti ṭhaño avadhiḥ ।।

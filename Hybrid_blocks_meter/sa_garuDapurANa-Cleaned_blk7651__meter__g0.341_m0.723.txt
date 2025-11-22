@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7651 | label: meter | g:0.341 m:0.723 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+evaṃ dagdhvā naraṃ pretaṃ snātvā kṛtvā tilodakam ।
+agrataḥ strījano gacchedvrajeyuḥ pṛṣṭhato narāḥ ।।

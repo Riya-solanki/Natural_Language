@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1123 | label: hybrid | g:0.5 m:0.5 ---
+
+ity atra pūrvānurāgasyābhāsatva-prasaṅga iti ced ucyate । abhāvo hi trividhaḥ prāg-abhāvo' tyantābhāvaḥ pradhvaṃsābhāvaś ceti । tatra prāg-abhāve darśanādi-kāraṇeṣu sambhāviteṣu rāgotpatti-sambhāvanayā nābhāsatvam । itarayos tu kāraṇa-sad-bhāve' pi rāgānutpatter ābhāsatvam eva । anye tu striyā eva rāgābhāve rasasyābhāsatvaṃ pratijānate । puruṣe' pi rāgābhāve rasasyānāsvādanīyatvāt । yathā-

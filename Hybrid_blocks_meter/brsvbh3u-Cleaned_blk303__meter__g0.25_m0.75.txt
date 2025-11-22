@@ -1,0 +1,5 @@
+--- source: brsvbh3u-Cleaned.txt | block: 303 | label: meter | g:0.25 m:0.75 ---
+
+parāmarśaṃ jaiminiracodanā cāpavadati hi ।
+siddha ūrdhvaretasāmāśramitve tadvidyānāmakarmāṅgatayāpavargārthaṃ syāt ।
+āśramitvaṃ tveṣāmanyārthaparāmarśamātrānna sidhyati ।

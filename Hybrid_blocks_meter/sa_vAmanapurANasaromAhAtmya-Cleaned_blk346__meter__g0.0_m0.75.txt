@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 346 | label: meter | g:0.0 m:0.75 ---
+
+iti śrīvāmanapurāṇe saromāhātmye daśamo adhyāyaḥ

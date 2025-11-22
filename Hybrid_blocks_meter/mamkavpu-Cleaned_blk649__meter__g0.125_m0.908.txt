@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 649 | label: meter | g:0.125 m:0.908 ---
+
+{alamaticapalatvātsvapnamāyopamatvāt
+pariṇativirasatvātsaṃgamenāṅganāyāḥ ।
+iti yadi śatakṛtvastattvamālocayāma-
+stadapi na hariṇākṣīṃ vismaratyantarātmā ।।}

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6088 | label: meter | g:0.25 m:0.625 ---
+
+kṛṣṇārjakaḥ karālaśca kālamānaḥ prakīrtitaḥ ।
+prācī balā nadīkrāntā kākajaṅghātha vāyasī ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1293 | label: meter | g:0.25 m:0.5 ---
+
+idaṃ tattvam idaṃ tattvam āgamoktaṃ na jānatha 
+evaṃ asau rajasālipto yady ātmānaṃ na saṃsmaret ।।

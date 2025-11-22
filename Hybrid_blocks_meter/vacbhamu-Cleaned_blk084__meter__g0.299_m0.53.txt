@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 84 | label: meter | g:0.299 m:0.53 ---
+
+atra ca śabdādibhiḥ śrotrādīnāṃ saṃbandhe sati iti pratyakṣaṃ pramāṇaṃ darśitam ।
+śabdādivijñāne iti tatphalamuktam ।
+pratikūle iti ca anumānaphalam ।
+tathā hi- śabdādisvarūpamupalabhya tajjātīyasya pratikūlatāmanusmṛtya tajjātīyatayopalabhyamānasya pratikūlatāmanumimata iti ।
+udāharati- yathā daṇḍa iti ।
+śeṣamatirohitārtham ।

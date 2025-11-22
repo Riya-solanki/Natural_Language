@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5283 | label: meter | g:0.194 m:0.625 ---
+
+garuḍo vāruṇaṃ chatraṃ tathaiva maṇiparvatam 
+sabhāryaṃ ca hṛṣīkeśaṃ līlayaiva vahan yayau ।।

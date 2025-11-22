@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2246 | label: meter | g:0.25 m:0.5 ---
+
+ahaṃ tvaṃ ca tathānye ca bhūtair uhyāma pārthiva 
+guṇapravāhapatito bhūtavargo api yāty ayam ।।

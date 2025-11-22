@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 779 | label: grammar | g:0.55 m:0.272 ---
+
+bhedena vāgādibhyaḥ prāṇaḥ sarvatra śrūyate- ate ha vācamūcuḥ' ityupakramya vāgādīnasurapāpmavidhvastānupanyasyopasaṃhṛtya vāgādiprakaraṇam aatha hemamāsanyaṃ prāṇamūcuḥ' ityasuravidhvaṃsino mukhyasya prāṇasya pṛthagupakramāt ।
+tathā amano vācaṃ prāṇaṃ tānyātmane akuruta' ityevamādyā api bhedaśrutaya udāhartavyāḥ ।
+tasmādapi tattvāntarabhūtā mukhyāditare ।।

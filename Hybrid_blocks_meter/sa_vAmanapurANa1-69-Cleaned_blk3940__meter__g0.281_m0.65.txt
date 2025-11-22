@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3940 | label: meter | g:0.281 m:0.65 ---
+
+brāhmaṇa uvāca ।
+bho bhadra brūhi yat kāryaṃ gṛhīto yena hetunā ।
+tadanubrūhi bhadraṃ te ayamasmyanuśādhi mām ।।

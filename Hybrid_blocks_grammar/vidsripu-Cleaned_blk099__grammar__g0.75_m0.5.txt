@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 99 | label: grammar | g:0.75 m:0.5 ---
+
+ambeyaṃ neyam ambā na hi kharakapiśaṃ śmaśru tasyā mukhārdhe tāto ayaṃ naiṣa tātaḥ stanam urasi pitur dṛṣṭavān nāham atra ।
+keyaṃ ko ayaṃ kim etad yuvatir atha pumān vastu kiṃ syāt tṛtīyaṃ śambhoḥ saṃvīkṣya rūpād apasarati guhaḥ śaṅkitaḥ pātu yuṣmān ।।

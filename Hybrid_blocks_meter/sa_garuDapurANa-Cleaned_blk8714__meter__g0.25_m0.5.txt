@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8714 | label: meter | g:0.25 m:0.5 ---
+
+śrūyate hi purā vatsa brāhmaṇaḥ śaṃsitavrataḥ ।
+nāmnā santaptakaḥ khyāta stapor'the vanamāśritaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 339 | label: grammar | g:0.75 m:0.5 ---
+
+[] anthānyedyur brāhma-muhūrtam ārabhya pūrvavad eva pūrvaja-rāmaḥ sarvaṃ parvati sma । bhojanaṃ punar aikāntikam eva nityam iva tad-dine jātam । yathā jñāpayanti sma śrīmat-pitṛ-caraṇāḥ - "tāta! prātar eva gobhiḥ śobhiṣyamāṇatāṃ sambhavatā bhavatā tābhyaḥ samagrānuttama-grāsān prādeśya mad-ādeśyatayā yat kiñcid upayujya svayam añcitavyam ।

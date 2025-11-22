@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5115 | label: meter | g:0.25 m:0.555 ---
+
+punarnavākvāthakalkaiḥ siddhaṃ śothaharaṃ ghṛtam ।
+gāvā matreṇa saṃsevyaṃ pippalī vā payo anvitāḥ ।
+guḍana vābhayāṃ tulyāṃ viśvaṃ vā śotharogiṇā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 461 | label: meter | g:0.194 m:0.625 ---
+
+hatvā mṛgān varāhāṃś ca mahiṣāṃś ca vanecarān 
+viśvāmitrāśramābhyāśe māṃsaṃ tad avabandhata ।।

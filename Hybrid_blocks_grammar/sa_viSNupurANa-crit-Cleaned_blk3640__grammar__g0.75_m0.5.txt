@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3640 | label: grammar | g:0.75 m:0.5 ---
+
+tāsāṃ cāpsarasām urvaśī kathayām āsa । ayaṃ sa puruṣotkarṣṭo yenāham etāvantaṃ kālam anurāgākṛṣṭamānasā sahoṣitety evam uktās tām apsarasa ūcuḥ । sādhu sādhv asya rūpam anena sahāsmākam api sarvakālam abhirantuṃ spṛhā bhavet । ity abde ca pūrṇe sa rājā tatrājagāma । kumāraṃ cāyuṣam asmai tadorvaśī dadau ।।

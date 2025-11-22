@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 101 | label: grammar | g:0.573 m:0.5 ---
+
+tadevaṃ sūtratātparyaṃ vyākhyāya tasya prathamapadaṃ atha iti vyācaṣṭe- tatrāthaśabda ānantaryārthaḥ parigṛhyate ।
+teṣu sūtrapadeṣu madhye yo ayaṃ athaśabdaḥ sa ānantaryārtha iti yojanā ।

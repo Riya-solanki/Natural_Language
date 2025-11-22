@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4526 | label: meter | g:0.25 m:0.625 ---
+
+kṛṣṇo api sahito gobhir gopālaiś ca punar vrajam 
+ājagāmātha gopīnāṃ dṛṣṭipūtena vartmanā ।।

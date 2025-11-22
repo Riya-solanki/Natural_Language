@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2716 | label: meter | g:0.194 m:0.625 ---
+
+ayaṃ dhṛto mayā śailo bhūmīgṛhanibhopamaḥ 
+trāsyante savrajā gāvo madvaśyaś ca bhaviṣyati ।।

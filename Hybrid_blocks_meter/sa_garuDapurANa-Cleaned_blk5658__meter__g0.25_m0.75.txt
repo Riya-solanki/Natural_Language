@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5658 | label: meter | g:0.25 m:0.75 ---
+
+saurasarṣapayuktāni sarvāṇyetāni śaṅkara ।
+piṣṭānyanamlatakreṇa granthikaṃ nāśayeddhi vai ।।

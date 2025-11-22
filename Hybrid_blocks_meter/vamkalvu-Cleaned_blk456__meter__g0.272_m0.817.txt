@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 456 | label: meter | g:0.272 m:0.817 ---
+
+nāsantaḥ, sadvedyatvāt ।।
+na khalvete guṇā asantaḥ saṃvedyatvāt ।।

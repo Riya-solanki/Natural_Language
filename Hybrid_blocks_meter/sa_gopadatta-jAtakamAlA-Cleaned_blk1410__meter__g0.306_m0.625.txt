@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1410 | label: meter | g:0.306 m:0.625 ---
+
+pariṇāmakharā batādhamāyā gatir ātmābhiniveśavāsanāyāḥ ।
+upadigdhadhiyo yayā manuṣyāḥ pitṛbhūteṣv api sādhuṣu skhalanti ।।

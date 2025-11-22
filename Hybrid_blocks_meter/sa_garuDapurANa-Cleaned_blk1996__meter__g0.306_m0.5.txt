@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1996 | label: meter | g:0.306 m:0.5 ---
+
+dvau vajravarṇau pṛthivīpatīnāṃ sadbhiḥ pradiṣṭau na tu sārvajanyau ।
+yaḥ syājjavāvidrumabhaṅgaśoṇo yo vā haridrārasannikāśaḥ ।।

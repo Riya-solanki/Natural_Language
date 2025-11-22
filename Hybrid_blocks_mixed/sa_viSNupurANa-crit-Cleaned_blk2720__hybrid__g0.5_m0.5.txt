@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2720 | label: hybrid | g:0.5 m:0.5 ---
+
+atyantaṃ na tu kartavyam anāyāsaḥ sa ucyate ।।

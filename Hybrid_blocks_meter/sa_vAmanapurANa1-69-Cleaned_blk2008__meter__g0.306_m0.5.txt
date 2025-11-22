@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2008 | label: meter | g:0.306 m:0.5 ---
+
+tato abhyagāt puṣkarasaṃbhavastu haro murāristridaseśvaraśca ।
+abhyetya cocurmahiṣaṃ saśailaṃ bhindasva śaktyā kuru devakāryam ।।

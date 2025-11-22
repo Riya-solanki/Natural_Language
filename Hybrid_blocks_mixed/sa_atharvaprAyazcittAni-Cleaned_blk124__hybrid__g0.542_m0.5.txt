@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 124 | label: hybrid | g:0.542 m:0.5 ---
+
+atha cet sarvam eva sāṃnāyyaṃ vyāpadyeta kā tatra prāyaścittir ।

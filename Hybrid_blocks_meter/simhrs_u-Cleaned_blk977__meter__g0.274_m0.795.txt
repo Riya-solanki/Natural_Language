@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 977 | label: meter | g:0.274 m:0.795 ---
+
+atha vyādhiḥ-
+abhīṣṭa-saṅgamābhāvād vyādhiḥ santāpa-lakṣaṇaḥ ।
+atra santāpa-niḥśvāsau śīta-vastu-niṣevaṇam ।। 
+jīvitopekṣaṇaṃ moho mumūrṣā dhṛti-varjanam ।
+yatra kvacic ca patanaṃ srastākṣatvādayo' pi ca ।।

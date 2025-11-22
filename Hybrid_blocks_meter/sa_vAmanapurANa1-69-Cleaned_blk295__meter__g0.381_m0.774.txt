@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 295 | label: meter | g:0.381 m:0.774 ---
+
+sati satyaṃ prakupitā mā kopaṃ kuru sundari ।
+pādapraṇāmāvanatamabhibhāṣitu marhasi ।।

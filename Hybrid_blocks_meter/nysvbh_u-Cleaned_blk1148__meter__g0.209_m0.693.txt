@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1148 | label: meter | g:0.209 m:0.693 ---
+
+nopapadyate kleśānubandhavicchedaḥ,
+kasmāt ?, kleśasaṃtateḥ svābhāvikatvāt anādiriyaṃ kleśasaṃtatiḥ na cānādiḥ
+śakya ucchettumiti ।।

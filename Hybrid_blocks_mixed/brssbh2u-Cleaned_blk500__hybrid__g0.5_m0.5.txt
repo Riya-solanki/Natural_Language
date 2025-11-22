@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 500 | label: hybrid | g:0.5 m:0.5 ---
+
+antarā vijñānamanasī krameṇa talliṅgād iti cen nāviśeṣāt ।

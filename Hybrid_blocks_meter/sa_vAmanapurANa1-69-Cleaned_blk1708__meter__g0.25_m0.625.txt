@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1708 | label: meter | g:0.25 m:0.625 ---
+
+siṃho adravad dhutasaṭaḥ pāṭayan dānavān raṇe ।
+kāṃścit karaprahāreṇa kāṃścidāsyena līlayā ।।

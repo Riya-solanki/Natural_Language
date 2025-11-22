@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4891 | label: meter | g:0.25 m:0.5 ---
+
+muktamātras tu bāhubhyāṃ kṛṣṇadehaṃ viveśa saḥ 
+amuktvā vigrahaṃ tasya kṛṣṇasyāpratimaujasaḥ ।। 
+praviśya hṛdayaṃ tasya babādhe yadusattamam । 
+sa hy āviṣṭas tadā tena jvareṇāpratimaujasā 
+kṛṣṇaḥ skhalann iva muhuḥ kṣitau samabhivartata ।।

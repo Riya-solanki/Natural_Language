@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3872 | label: meter | g:0.102 m:0.555 ---
+
+marīcim iva somasya saumyāṃ strīvigrahāṃ bhuvi 
+śriyam agryām ivāpadmāṃ bhaviśyāṃ śrīsahāyinīm 
+kṛṣṇena manasā dṛṣṭāṃ durnirīkśyāṃ surair api ।।

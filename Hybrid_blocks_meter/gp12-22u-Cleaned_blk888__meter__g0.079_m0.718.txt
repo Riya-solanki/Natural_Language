@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 888 | label: meter | g:0.079 m:0.718 ---
+
+śrī-govardhana-śaila-ratna-dṛśadi prakṣipta-śubhrāstare
+vāmoru-sthita-kañja-cāru-caraṇe savyaṃ karaṃ dakṣiṇe ।
+nyasyann anyam apūrva-rūpa-muralī-nāle manāg atra naḥ
+smereṇākṣi-taṭena sandadhad aho manye kṛpāṃ varṣati ।। [śārdūla]

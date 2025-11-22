@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3690 | label: grammar | g:0.708 m:0.5 ---
+
+sa cāpi rājā prahasyāha । evam evāstv anatikramaṇīyā hi vairipakṣād apy anekavidhacāṭuvākyagarbhā praṇatir ity uktvā svapuraṃ jagāma ।।

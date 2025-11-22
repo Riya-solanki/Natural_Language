@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 230 | label: meter | g:0.0 m:1.0 ---
+
+[] tatra vastu-nirdeśaḥ-

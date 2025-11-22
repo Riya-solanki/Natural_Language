@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 532 | label: grammar | g:0.7 m:0.0 ---
+
+rādhā'jānād asaṅge danuja-vijayinaḥ saṅgam ārād asaṅgaṃ
+saṅge caivaṃ samantād gṛha-samaya-sukha-svapna-śītādikāni ।
+etasyā vṛttir eṣājani sapadi yadānyad vicitraṃ tadāsīt
+kāntākānta-svabhāvo' py ahaha yad anayor vaiparītyāya jajñe ।।
+[] tad evam atibhūmitām ite bhāva-bhūmani tena ca sarvābhyarṇatām iva jāte vṛtta-jāte sva-sva-vadhū-nirodhāya niyukta-pura-janī-janeṣu ca guruṣu tad-uṭṭaṅkanataḥ kṛṣṇas tu tṛṣṇā-lajjābhyāṃ sajjan-manāḥ sva-mānasam anv evaṃ bhāvayāmāsa-[] hanta kim idam antarā jātam ? kaulīnaṃ khalu kaulīnaṃ janaṃ kau līnam iva karotīti man-manaḥ kañcana vicāram ācāraṃ ca na sañcarati । lokaś ca śokaṃ prayāsyatīti nija-vargyam anu duḥkhaṃ pāṇi-sargyaṃ svayam evākaravam । tatḥ kiṃ karavāṇi ?

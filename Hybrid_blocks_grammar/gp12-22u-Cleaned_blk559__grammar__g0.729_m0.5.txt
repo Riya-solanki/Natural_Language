@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 559 | label: grammar | g:0.729 m:0.5 ---
+
+[] atha janyaṃ-manyāṃs teṣām anādaram avadhāya manyuṃ manyamānān svayam eva sā devatādi-mānyā sāmnā sammānya yathā sva-manīṣitam evāṅgīkārayāñ cakāra ।

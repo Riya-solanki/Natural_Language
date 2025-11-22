@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 535 | label: hybrid | g:0.5 m:0.5 ---
+
+[] dūta uvāca-"prātaḥ sa tu malinī-kṛta-nija-kulaḥ khalinī-patiḥ svadayitān daiteyān ānayāmāsa niśāmayāmāsa ca niśīthinī-vṛttam । te ca bhinna-setavaḥ ketava iva rāhu-nibham etaṃ militā vyaghra-varga-nirghoṣa-prabha-ghargharāyamāṇāṃ goṣṭhīm anuṣṭhitavantaḥ, kiṃ bahunā, tatra mahendrādi-nirjaya-garjana-parya-vasānatas tātparyam idam eva jātam, yad viśvadrīcāṃ viṣṇum anucariṣṇūnāṃ deva-devadryag-bhūdeva-gavādīnāṃ pīḍanenaiva tat-pīḍanam īḍitaṃ, tathā tat-sadhrīcīna-tayā nirdaśā-nirdaśānāṃ bālānāṃ nirdayatayā nirdalanam iti khalyām eva balyām avalambya tatra sa ca saṃvalate sma । tayā ca tadānīṃ bahu samprayacchate sma ।"

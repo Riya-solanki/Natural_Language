@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 741 | label: grammar | g:0.78 m:0.38 ---
+
+[] tad etad ākarṇayantaḥ prāpta-kadanāntaratayā vivarṇavadanānte tvan-mātara-pitarādayaḥ kātaratām avāpsyanti ।
+[] tvaṃ tu jantu-mātra-citta-jñas tad vijñāya svayam eva tān vijñāpayiṣyasi-kathaṃ bhavanto nādyāpy ānandād udbhavanto dṛśyante । [] sarve tu sagadgadaṃ gadiṣyanti-asmākam ānanda-kāraṇaṃ tvad-avadhāraṇa-padavīṃ vindata eva ।

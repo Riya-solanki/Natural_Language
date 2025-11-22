@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1159 | label: meter | g:0.268 m:0.902 ---
+
+vikacakanakapadmacchattrasaṃsuptahaṃsyāṃ
+yadi surapuravāpyāṃ ratnanaubhir vigāhya ।
+patati punar akāmaḥ karmabhir vaitaraṇyāṃ
+kvathitanarakaraṅkavyākulāntarjalāyām ।।

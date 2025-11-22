@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 451 | label: grammar | g:0.604 m:0.5 ---
+
+evamanena prakāreṇa avāntarabhedagaṇanetiprabhūtatarā gaṇanā । tathāhiśṛṅgasyaiva bhedaprabhedagaṇanāyāmānantyam । kā gaṇanā tu sarveṣām ।

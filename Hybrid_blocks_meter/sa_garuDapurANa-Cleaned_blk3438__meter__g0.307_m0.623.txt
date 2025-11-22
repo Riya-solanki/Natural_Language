@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3438 | label: meter | g:0.307 m:0.623 ---
+
+āyuḥ karma ca vittaṃ ca vidyā nidhanameva ca ।
+pañcaitāni vivicyante jāyamānasya dehinaḥ ।।

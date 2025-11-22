@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10492 | label: meter | g:0.401 m:0.555 ---
+
+svāyaṃbhuva uvāca ।
+stotuṃ hyanupraviśatopi na garbhaduḥ khaṃ tasmādahaṃ paramapūjyapadaṃ gataste ।।

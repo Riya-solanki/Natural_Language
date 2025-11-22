@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 851 | label: grammar | g:0.552 m:0.5 ---
+
+dhik tvām asadbuddhim asatpralāpinam [!] evaṃ hy api tvaṃ pratibhāṣase atra ।
+kasmān muneḥ śāstur upāsako api saddharmamūrtiṃ pratinindase adya ।।

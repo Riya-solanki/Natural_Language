@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 8 | label: hybrid | g:0.321 m:0.493 ---
+
+bhāvodbhavasthitivipatkaraṇapravṛttau saṃjñā vibhinnaracanās tvayi sambhavanti ।
+sāmye sthitaḥ pratinivṛttasamastakāryo nendro na viṣṇur asi nāpi pitāmaho asi ।।

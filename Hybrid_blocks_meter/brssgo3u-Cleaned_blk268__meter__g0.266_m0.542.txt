@@ -1,0 +1,6 @@
+--- source: brssgo3u-Cleaned.txt | block: 268 | label: meter | g:0.266 m:0.542 ---
+
+tarhi kadā grāhyamiti śaṅkottaraṃ sūtraṃ vyākhyāti-api cainamiti ।
+castvarthaḥ ।
+indriyairna gṛhyate api tu saṃrādhanena śāstrasaṃskṛtamanasetyarthaḥ ।
+bhaktidhyānābhyāṃ pratyagātmanaścitte prakarṣeṇa nidhānaṃ sthāpanaṃ praṇidhānaṃ ।

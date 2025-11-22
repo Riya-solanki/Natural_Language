@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 201 | label: meter | g:0.056 m:0.5 ---
+
+mṛgākṣyā lakṣyaṃ syād iha caraṇa-cihnaṃ hari-pada-
+prasaktaṃ vaiśiṣṭyād api tu nahi pūrvatra kim api ।
+sphuṭaṃ tasmāt kāñcidd hṛdi vidadhad atrārpayad asau
+prasiddhā stenānāṃ jagati hi hatāṅka-praśamitā ।। [śārdūla]

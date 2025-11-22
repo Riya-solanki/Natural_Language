@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9910 | label: meter | g:0.443 m:0.673 ---
+
+śūdraṃ vapuḥ prāpya yaśaskaraṃ sadā dānaṃ dvijebhyo na kṛtaṃ dvijārcanam ।
+cdṛdadyatdadvaḍḍha ḍhaddhadṛthr dadṛdhḍḍhathrḍaḍḍhaddha
+jalāśayo naiva kṛto dharātale asaṃskṛto vipravaro na saṃskṛtaḥ ।।

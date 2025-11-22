@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1326 | label: meter | g:0.272 m:0.595 ---
+
+na devāsuragandharvā na yakṣoragarākṣsāḥ 
+na mānuṣāḥ piśācā vā hanyur māṃ devasattama ।।

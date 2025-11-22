@@ -1,0 +1,9 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 53 | label: grammar | g:0.613 m:0.243 ---
+
+tad yathā pikam ānaya ity ukte yo nāmārthaṃ na pratipadyate, tasmai kokilaśabdam eva kevalaṃ prayuñjate, na kokilaḥ pikaḥ iti, tathātra yady ākhyātasya karotir ṇyanto vā bhavatiḥ paryāyaḥ, tatas tadarthakathane tanmātram eva prayoktavyam, nākhyātapratyayo api ।
+na hi tadānīṃ vivicya jñāyatekenāṃśena kriyā pratyāyyateiti ।
+atra tu bhāvayet kuryāt iti vā punar api liṅ prayujyate eva ।
+ataś ca yo anena yajateḥ pareṇārthaḥ pratipāditaḥ, asau bhāvayater api pareṇa tenaivety adhikāvāpa eva bhāvayatiḥ ।
+tasmād avaidika iti ।
+atrābhidhīyate ।
+sarvatraiva tāvat

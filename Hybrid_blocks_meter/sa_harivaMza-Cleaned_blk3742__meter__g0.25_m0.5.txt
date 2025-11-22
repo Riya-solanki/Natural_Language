@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3742 | label: meter | g:0.25 m:0.5 ---
+
+bahavo jñātayaś caiva yadūnāṃ nihatā nṛpaiḥ 
+vivardhituṃ na śakṣyāmaḥ pure asminn iti keśavaḥ 
+tato vṛṣṇyandhakāḥ kṛṣṇaṃ puraskṛtya mahāmatim । 
+sametya mantrayām āsur jarāsaṃdhabhayena ca । 
+kṛtvā ca niścayaṃ sarve palāyanam arocayan ।। 
+vihāya mathurāṃ ramyāṃ mānayantaḥ pinākinam । 
+kuśasthalīṃ dvāravatīṃ niveśayitum īpsavaḥ । 
+apayāne matiṃ kṛtvā dūtaṃ tasmai sasarja ha ।।

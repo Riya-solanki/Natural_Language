@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 137 | label: meter | g:0.028 m:0.793 ---
+
+kāntasya tābhiḥ sva-karaṃ spṛśan karaḥ
+sarpan paraṃ cāvayavaṃ vitarkitaḥ ।
+kīrṇaś ca tasyāntaram antaraṃ bhajan[]
+dṛṣṭaḥ punas taj jitakāśitāṃ gataḥ ।। [indravaṃśā]
+[] vrajan

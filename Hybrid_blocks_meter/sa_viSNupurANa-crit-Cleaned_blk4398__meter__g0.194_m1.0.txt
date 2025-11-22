@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4398 | label: meter | g:0.194 m:1.0 ---
+
+saṃkarṣaṇas tu taṃ dṛṣṭvā dagdhaśailopamākṛtim 
+sragdāmalambābharaṇaṃ mukuṭāṭopimastakam ।।

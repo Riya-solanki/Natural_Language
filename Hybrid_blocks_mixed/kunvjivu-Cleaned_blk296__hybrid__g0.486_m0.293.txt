@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 296 | label: hybrid | g:0.486 m:0.293 ---
+
+sarvatraiva sāmānyalakṣaṇe vihite viśeṣalakṣaṇaṃ vidhātavyamiti kāvyasya "śabdārthau sahitau" ityādi sāmānyalakṣaṇaṃ vidhāya tadavayavabhūtayoḥ śabdārthayoḥ sāhityasya prathamonmeṣa eva viśeṣalakṣaṇaṃ vihitam ।
+idānīṃ prathamoddiṣṭasya varṇavinyāsavakratvasya viśeṣalakṣaṇamupakramate

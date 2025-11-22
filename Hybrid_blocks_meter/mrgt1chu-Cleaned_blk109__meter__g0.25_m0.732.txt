@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 109 | label: meter | g:0.25 m:0.732 ---
+
+atha cet tadasadbhāve sadayuktataro yataḥ ।।
+tattkarmasaṃkarabhayād avyāpitvaṃ ca te jaguḥ ।
+sāmānyetarasaṃbandhajñānābhāvād acetasaḥ ।।

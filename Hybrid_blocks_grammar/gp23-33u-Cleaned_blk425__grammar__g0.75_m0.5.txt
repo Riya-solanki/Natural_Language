@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 425 | label: grammar | g:0.75 m:0.5 ---
+
+[] dūtī sa-hāsam uvāca-nūnaṃ bhavatāṃ dūtaḥ so' yam agrata eva vyagratām avāpa । yan māmatra ruddhann eva tatra jigamiṣati । tasmān na mādṛg iva niḥśaṅkaṃ so' yam iti bhavatāṃ kalaṅkāya paraṃ pratipatsyate । yuktam eva ca tat-tad-āvayoḥ । svāmi-guṇā hi parijanam anuyanti ।

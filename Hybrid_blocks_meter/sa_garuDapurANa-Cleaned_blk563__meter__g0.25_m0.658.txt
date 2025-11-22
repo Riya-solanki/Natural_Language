@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 563 | label: meter | g:0.25 m:0.658 ---
+
+oṃ khakholkāya namaḥ ।
+sūryasya mūlamantro ayaṃ bhuktimuktipradāyakaḥ ।।

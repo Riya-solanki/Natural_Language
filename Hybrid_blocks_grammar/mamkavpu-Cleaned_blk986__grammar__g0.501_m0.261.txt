@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 986 | label: grammar | g:0.501 m:0.261 ---
+
+prakṛtayo divyā adivyā divyādivyāśca vīraraudraśṛṅgāraśāntarasapradhānā
+dhīrodāttadhīroddhatadhīralalitadhīrapraśāntāḥ uttamādhamamadhyamāśca । tatra ratihāsaśokādbhutāni adivyottamaprakṛtivat divyeṣvapi । kiṃ tu ratiḥ saṃbhogaśṛṅgārarūpā uttamadevatāviṣayā na varṇanīyā । tadvarṇanaṃ hi pitroḥ saṃbhogavarṇanamivātyantamanucitam ।

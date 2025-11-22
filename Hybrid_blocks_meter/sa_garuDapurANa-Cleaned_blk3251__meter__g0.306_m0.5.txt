@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3251 | label: meter | g:0.306 m:0.5 ---
+
+bhṛtye parikṣaṇaṃ vakṣye yasyayasya hi yo guṇaḥ ।
+tamimaṃ saṃpravakṣyāmi ye yathākathitaṃ kila ।।

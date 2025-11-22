@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 131 | label: meter | g:0.401 m:0.747 ---
+
+kaḍevarāvaskaranirjhareṇa subaddhasāsṛṅmaladurdinena ।
+prajāyamānasya narasya duḥkham apāyaduḥkhair api kiṃ na tulyam ।।

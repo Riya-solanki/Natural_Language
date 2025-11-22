@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2897 | label: meter | g:0.272 m:0.845 ---
+
+tato girisutā dūrādāyāntaṃ vīkṣya cāndhakam ।
+maheśvaravapuśchnnaṃ prahārairjarjaracchavim ।।

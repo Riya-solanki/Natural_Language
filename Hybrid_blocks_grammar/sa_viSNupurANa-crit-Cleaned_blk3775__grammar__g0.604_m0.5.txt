@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3775 | label: grammar | g:0.604 m:0.5 ---
+
+tadbāndhavāś ca tatkālocitam akhilam uparatakriyākalāpaṃ cakruḥ । tatrāsya yuddhyamānasyātiśraddhādattaviśiṣṭapātropayuktānnatoyādinā kṛṣṇasya balaprāṇapuṣṭir abhūt ।।

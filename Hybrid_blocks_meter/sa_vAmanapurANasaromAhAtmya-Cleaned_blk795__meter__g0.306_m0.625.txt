@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 795 | label: meter | g:0.306 m:0.625 ---
+
+liṅgānāṃ darśanāt puṇyaṃ sparśanena ca kiṃ phalam ।
+tathaiva saramāhātmyaṃ brūhi sarvamaśeṣataḥ ।।

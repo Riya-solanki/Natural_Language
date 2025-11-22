@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4894 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ sarvāṇy anīkāni bāṇavarṣair mahābalāḥ 
+ardayan vainateyasthā nadanto atibalā raṇe ।।

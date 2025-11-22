@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1056 | label: grammar | g:0.599 m:0.431 ---
+
+yat kṣāraṃ ca malīmasaṃ ca jaladher ambhas tad ambhodharaiḥ kṛtvā svādu ca nirmalaṃ ca nihitaṃ yatnena śuktau tathā ।
+yenānarghatayā ca sundaratayā cedaṃ yaśobhis tava spardhām etya virājate nanu pariṇāmo adbhuto bhautikaḥ ।।
+acalasiṃhasya

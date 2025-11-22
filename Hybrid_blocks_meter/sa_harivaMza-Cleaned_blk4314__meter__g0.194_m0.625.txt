@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4314 | label: meter | g:0.194 m:0.625 ---
+
+jambham airāvataṃ cāpi virūpaṃ ca mahāyaśāḥ 
+jaghāna puruṣavyāghraḥ śambaraṃ cārimardanaḥ ।।

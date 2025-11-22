@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4028 | label: meter | g:0.25 m:0.5 ---
+
+hayagrīvo nisundaś ca vīraḥ pañcajanas tathā 
+muruḥ putrasahasraiś ca varadatto mahāsuraḥ ।। 
+aditiṃ dharṣayām āsa so asuro madadarpitaḥ । 
+ādevayānam āvṛtya panthānaṃ samavasthitaḥ 
+vitrāsanaḥ sukṛtināṃ virūpai rākṣasaiḥ saha ।।

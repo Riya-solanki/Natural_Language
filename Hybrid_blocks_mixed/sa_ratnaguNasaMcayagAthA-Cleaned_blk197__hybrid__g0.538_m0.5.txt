@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 197 | label: hybrid | g:0.538 m:0.5 ---
+
+pakṣisya nāsti padu gacchata antarīkṣe no cāpi tatra sthitu no ca patāti bhūmau 
+tatha bodhisattva caramāṇu vimokṣadvāre na ca nirvṛtiṃ spṛśati no ca nimittacārī ।।

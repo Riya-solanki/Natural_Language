@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4219 | label: meter | g:0.194 m:0.5 ---
+
+tatas tad dhanam akṣayyaṃ kiṃkarair yat samāhṛtam 
+sabhāṃ samānayām āsuḥ puruṣāḥ kṛṣṇaśāsanāt ।।

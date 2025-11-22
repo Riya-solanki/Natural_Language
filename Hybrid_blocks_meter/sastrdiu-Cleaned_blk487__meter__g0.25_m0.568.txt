@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 487 | label: meter | g:0.25 m:0.568 ---
+
+ṛtuliṅganyāyamāśritya sidhyeyurna vā ।
+vedāṃstvanādṛtya dṛṣṭānusāreṇa parvate ivānumānamatyantālaukiker'the pravartayatāmupekṣaivottaramityuparamyate ।
+tasmānna sargādikāle api saṃbandhakāraṇam ।।

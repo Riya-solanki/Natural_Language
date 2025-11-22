@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 615 | label: grammar | g:0.547 m:0.085 ---
+
+iti bruvannakṣisthaṃ draṣṭāraṃ jīvamātmānaṃ nirdiśati ।
+aetaṃ tveva te bhūyo anuvyākhyāsyāmi' iti ca tameva punaḥ punaḥ parāmṛśya aya eṣa svapne mahīyamānaścaratyeṣa ātmā' iti atadyatraitatsuptaḥ samastaḥ saṃprasannaḥ svapnaṃ na vijānātyeṣa ātmā' iti ca jīvamevāvasthāntaragataṃ vyācaṣṭe ।
+tasyaiva cāpahatapāpmatvādi darśayati- aetadamṛtamabhayametadbrahma' iti ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2176 | label: hybrid | g:0.5 m:0.5 ---
+
+atyantalohito yaḥ sa eva khalu padmarāgasaṃjñaḥ syāt ।
+api cendranīlasaṃjñaḥ sa eva kathitaḥ sunīlaḥ san ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 976 | label: hybrid | g:0.444 m:0.5 ---
+
+satyaṃ bhīru vadasy etat parihāso atha vā śubhe 
+dinam ekam ahaṃ manye tvayā sārdham ihāsitam ।।

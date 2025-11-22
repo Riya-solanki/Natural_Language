@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1537 | label: grammar | g:0.581 m:0.209 ---
+
+aruṇāvarajaṃ śrīmān āruroha raṇe hariḥ 
+sthitaḥ samaradurjeyo daityasainyaṃ vilokayan । 
+suparṇaḥ svena vapuṣā suparṇaṃ khecarottamam ।। 
+dahaṃs tasthau surānīke daityān ativibhīṣayan । 
+tam anvayur devagaṇā munayaś ca samāhitāḥ 
+gīrbhiḥ paramamantrābhis tuṣṭuvuś ca gadādharam ।। 
+namas te astu hṛṣīkeśa jahi daityabalaṃ vibho । namas trimūrtaye tubhyaṃ haribrahmaśivātmane । namas traividyarūpāya ṛksāmayajuṣe namaḥ । namo astu yogicintyāya teṣāṃ yogapradāyine । namo vikalpaśūnyāya namo vijñaptirūpine । yaṃ ca jñānamayaṃ tejaḥ pravadanti manīṣiṇaḥ । taṃ natāḥ sma jagannāthaṃ jahi daityagaṇān hare । tvāṃ stotuṃ hi vayaṃ deva śaktā varṣaśatair api । na hi deva jagannātha jayasva puruṣottama । itīritāṃ giriṃ śrutvā gantum abhyudyato hariḥ । 
+tad vaiśravaṇasuśliṣṭaṃ vaivasvatapuraḥsaram 
+vārirājaparikṣiptaṃ devarājavirājitam ।।

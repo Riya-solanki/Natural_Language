@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 815 | label: hybrid | g:0.5 m:0.5 ---
+
+śraddadhīta ka etacca yathāsau tava na priyā ।
+tāṃ parityajya sadyo vā vighātaṃ na samāpnuyāḥ ।।

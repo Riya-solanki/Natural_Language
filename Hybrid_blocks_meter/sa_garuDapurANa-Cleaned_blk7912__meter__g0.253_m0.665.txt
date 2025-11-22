@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7912 | label: meter | g:0.253 m:0.665 ---
+
+kṣipraṃ naśyati dharmajña jalānāṃ śarado yathā ।
+vaiśya uvāca ।
+pītvā te vākyapīyūṣaṃ svāntaṃ me śāntimāgamat ।।

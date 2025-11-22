@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 448 | label: meter | g:0.25 m:0.5 ---
+
+vivardhiteṣvarthijanārthameva saṃvidyamāneṣu ca me bṛhatsu ।
+gātreṣu māṃsopacayonnateṣu yuṣmāsvapi syātpraṇayo virūpaḥ ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 353 | label: meter | g:0.25 m:0.5 ---
+
+{ādityo ayaṃ sthito mūḍhāḥ snehaṃ kuruta sāṃpratam ।
+bahuvighno muhūrto ayaṃ jīvedapi kadācana ।।}

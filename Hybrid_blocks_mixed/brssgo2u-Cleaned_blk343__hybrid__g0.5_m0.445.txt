@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 343 | label: hybrid | g:0.5 m:0.445 ---
+
+na ।
+sthūlasūkṣmatāratamyakrameṇāparamakāraṇādvināśopapatteḥ ।
+yathā pṛthivī dvyaṇukādyapekṣayā sthūlatamā vastubhūtāpi vinaśyati, tataḥ sūkṣmaṃ sūkṣmataraṃ ca pṛthivyekajātīyakaṃ vinaśyati, tato dvyaṇukaṃ, tathā paramāṇavo api pṛthivyekajātīyakatvādvinaśyeyuḥ ।

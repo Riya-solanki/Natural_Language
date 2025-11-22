@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2118 | label: meter | g:0.194 m:0.5 ---
+
+pītaṃ taṃ dvikalaṃ somaṃ kṛṣṇapakṣakṣaye dvija 
+pibanti pitaras teṣāṃ bhāskarāt tarpaṇaṃ tathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2891 | label: meter | g:0.194 m:0.625 ---
+
+nāsandīsaṃsthite pātre nādeśe ca nareśvara 
+nākāle nātisaṃkīrṇe dattvāgraṃ ca naro agnaye ।।

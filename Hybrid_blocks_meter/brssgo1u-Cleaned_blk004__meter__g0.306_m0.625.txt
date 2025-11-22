@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 4 | label: meter | g:0.306 m:0.625 ---
+
+yamiha kāruṇikaṃ śaraṇaṃ gato apyarisahodara āpa mahatpadam ।
+tamahamāśu hariṃ paramāśraye janakajāṅkamanantasukhākṛtim ।।

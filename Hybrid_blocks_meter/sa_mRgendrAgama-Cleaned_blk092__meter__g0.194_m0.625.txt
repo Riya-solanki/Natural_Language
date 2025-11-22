@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 92 | label: meter | g:0.194 m:0.625 ---
+
+yeṣāṃ śarīriṇāṃ śaktiḥ patatyapi nivṛttaye 
+teṣāṃ talliṅgamautsukyaṃ muktau dveṣo bhavasthitau ।।

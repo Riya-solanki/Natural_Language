@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 963 | label: grammar | g:0.604 m:0.5 ---
+
+ya[di krodhaṃ samāviśet] prayuñcet samayohya । tasya yuṣmābhiḥ purataḥ stheyaṃ sarvāgrasiddhaya ।। ।।

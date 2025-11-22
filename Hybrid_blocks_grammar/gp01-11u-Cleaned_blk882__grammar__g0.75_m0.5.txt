@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 882 | label: grammar | g:0.75 m:0.5 ---
+
+[] pitā tu tāṃ pūrvaṃ vigata-saṃvedatayā anantaraṃ tu svata eva jāta-nirvedatayā dūnāṃ veda sma । tata eva na sahasā rahasāpi paribhāṣitum iyeṣa । ajñatayāvajñayā na ca papraccha bālakān, kim idaṃ vṛttam? iti ।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 446 | label: meter | g:0.102 m:0.695 ---
+
+tasya caitrarathī bhāryā śaśabindoḥ sutābhavat 
+sādhvī bindumatī nāma rūpeṇāsadṛśī bhuvi 
+pativratā ca jyeṣṭhā ca bhrātṝṇām ayutasya sā ।।

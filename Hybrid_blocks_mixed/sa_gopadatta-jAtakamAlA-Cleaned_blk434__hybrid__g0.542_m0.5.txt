@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 434 | label: hybrid | g:0.542 m:0.5 ---
+
+adyaiva mā bandhusuhṛdviyogaśokaṃ kṛthāḥ kasya na santy apāyāḥ ।
+dāsyo vayaṃ te apsaraś catasraś chāyā na te laṅghayituṃ samarthāḥ ।।

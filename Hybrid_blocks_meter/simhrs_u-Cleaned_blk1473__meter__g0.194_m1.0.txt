@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1473 | label: meter | g:0.194 m:1.0 ---
+
+atha upagūhanam-
+upagūhanam adbhuta-prāptiḥ ।।

@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 6 | label: meter | g:0.25 m:0.625 ---
+
+yatkṛpālavamātreṇa mūko bhavati paṇḍitaḥ ।
+vedaśāstraśarīrāṃ tāṃ vāṇīṃ vīṇākarāṃ bhaje ।।

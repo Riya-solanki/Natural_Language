@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 678 | label: meter | g:0.25 m:1.0 ---
+
+mahāmaṇḍalayogena mahāsatvānniveśayet ।
+vajramadhye likhedbuddhaṃ buddhamaṇḍalakeṣvapi ।।

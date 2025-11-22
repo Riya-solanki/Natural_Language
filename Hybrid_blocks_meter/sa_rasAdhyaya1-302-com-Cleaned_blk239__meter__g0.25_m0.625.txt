@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 239 | label: meter | g:0.25 m:0.625 ---
+
+hiṅgupūṣā ca tannāśe tathairaṇḍaphailāni ca 
+pūṣā dattvā ca pratyekaṃ prakṣipen naimbukaṃ rasam ।।

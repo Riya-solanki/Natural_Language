@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 187 | label: grammar | g:0.583 m:0.5 ---
+
+āsīnasya śayānasya tiṣṭhato vrajato api vā ramasva puṇḍarīkākṣa hṛdaye mama sarvadā ।।

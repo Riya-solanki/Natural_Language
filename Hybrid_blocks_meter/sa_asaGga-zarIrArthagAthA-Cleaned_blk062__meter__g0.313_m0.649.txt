@@ -1,0 +1,5 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 62 | label: meter | g:0.313 m:0.649 ---
+
+pārāyaṇeṣv ajitapraśnaḥ
+kenāyaṃ nivṛto lokaḥ kenāyaṃ na prakāśate ।
+kiṃ cābhilepanaṃ brūṣe kiṃ ca tasya mahad bhayam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11369 | label: hybrid | g:0.5 m:0.5 ---
+
+janārdanaḥ kṣattrajātau sadāsti dāśeṣu nityaṃ mahidāso haristu ।
+mahyāṃ nityaṃ tiṣṭhati sarvadaiva hyupendrākhyo harirekaḥ suparṇa ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3179 | label: meter | g:0.306 m:0.5 ---
+
+ye bālabhāvānna paṭhanti vidyāṃ ye yauvanasthā hyadhanātmadārāḥ ।
+te śocanīyā iha jīvaloke manuṣyarūpeṇa mṛgāścaranti ।।

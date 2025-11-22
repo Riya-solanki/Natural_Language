@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2362 | label: meter | g:0.333 m:0.5 ---
+
+tataḥ samāviṣṭasya vajravācā paripṛcchet । "kutra mahānidhirasti? । kathaṃ vā prāpyate ।"

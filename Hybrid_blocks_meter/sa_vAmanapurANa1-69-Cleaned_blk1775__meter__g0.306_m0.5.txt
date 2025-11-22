@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1775 | label: meter | g:0.306 m:0.5 ---
+
+tatastu śoṣaṃ prajagāma raktaṃ raktakṣaye hīnabalo babhūva ।
+taṃ hīnavīryaṃ śatadhā cakāra cakreṇa cāmīkarabhūṣitena ।।

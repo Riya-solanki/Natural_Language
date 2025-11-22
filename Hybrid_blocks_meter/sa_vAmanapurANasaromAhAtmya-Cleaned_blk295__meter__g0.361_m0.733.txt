@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 295 | label: meter | g:0.361 m:0.733 ---
+
+baliruvāca
+suvarṇaratnasaṃghāto gajāśvasamitistathā ।
+striyo vastrāṇyalaṅkārān gāvo grāmāśca puṣkalāḥ ।।

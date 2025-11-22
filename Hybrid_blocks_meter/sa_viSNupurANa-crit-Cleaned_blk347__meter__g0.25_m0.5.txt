@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 347 | label: meter | g:0.25 m:0.5 ---
+
+ekāntinaḥ sadā brahmadhyāyino yogino hi ye 
+teṣāṃ tat paramaṃ sthānaṃ yad vai paśyanti sūrayaḥ ।।

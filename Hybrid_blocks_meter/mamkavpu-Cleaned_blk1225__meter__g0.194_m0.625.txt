@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1225 | label: meter | g:0.194 m:0.625 ---
+
+{mṛdhe nidāghagharmāṃśudarśaṃ paśyanti taṃ pare ।
+sa punaḥ pārthasaṃcāraṃ saṃcaratyavanīpatiḥ ।।}

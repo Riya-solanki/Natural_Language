@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 890 | label: meter | g:0.194 m:0.521 ---
+
+vṛndāraṇyābhidhāne sarasi sarasija-śreṇi-lakṣmīṣu gopīṣv
+ekā rādhābhidhā sā vibhavati satataḥ divya-saugandhika-śrīḥ ।
+bhrāmyan yām eva labdhuṃ vrajapati-tanayaś cāvarmūr vartama-vṛttīḥ
+sarvā nirmāya yasyām alir iva kalayā kelim uccais tanoti ।।

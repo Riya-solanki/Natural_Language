@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 762 | label: meter | g:0.25 m:0.648 ---
+
+candramaūehiṃṇisā ṇalinī kamalehiṃ kusumagucchehiṃ laā ।
+haṃsehiṃ sāraasohā kavvakahā sajjanehiṃ karai garuri ।।
+candramayūśairniśā nalinī kamalaiḥ kusumagucchairlatā ।
+haṃsaiśśāradaśobhā kāvyakathā sajjanaiḥ kriyate gurvo ।।
+iti chāyā ।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 258 | label: grammar | g:0.646 m:0.5 ---
+
+-naraśiraḥkapālaṃ śuci, prāṇyaṅgatvāt, śaṅkhavadityanumānaṃ anāraṃ spṛṣṭvāsthi sasnehaṃ savāsā jalamāviśet'ityāgamādbādhitaviṣayaṃ tathā sukṛtamanityaṃ, kāryatvādbaṭavadityanumānamapi aakṣayyam'ityāgamādbādhitaṃ bhavatītyāśayaḥ ।

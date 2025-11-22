@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1032 | label: meter | g:0.25 m:0.5 ---
+
+eṣa me saṃśayo brahman sumahān hṛdi vartate 
+yad dauhitraś ca somasya punaḥ śvaśuratāṃ gataḥ ।।

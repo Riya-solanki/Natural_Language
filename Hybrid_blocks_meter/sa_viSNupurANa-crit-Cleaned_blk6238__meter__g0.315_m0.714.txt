@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6238 | label: meter | g:0.315 m:0.714 ---
+
+tatra pūjyapadārthoktiparibhāṣāsamanvitaḥ 
+śabdo ayaṃ nopacāreṇa anyatra hy upacārataḥ ।।

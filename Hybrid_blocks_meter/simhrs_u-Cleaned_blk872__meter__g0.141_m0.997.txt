@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 872 | label: meter | g:0.141 m:0.997 ---
+
+yathā vīrānande-
+bhrū-bhaṅga-bhinnam uparañjita-locanāntam
+ākampitādharam atiśvasitānubandham ।
+patyur mukhaṃ kṣiti-sutā parilokayantī
+kārā-vimuktir api kaṣṭatareti mene ।।

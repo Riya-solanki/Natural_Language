@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 808 | label: meter | g:0.378 m:0.577 ---
+
+krāmaṇa
+tīkṣṇaṃ daradena hataṃ śulbaṃ vā tāpyamāritaṃ vidhinā ।
+krāmaṇametatkathitaṃ kāntamukhaṃ mākṣikairvāpi ।।

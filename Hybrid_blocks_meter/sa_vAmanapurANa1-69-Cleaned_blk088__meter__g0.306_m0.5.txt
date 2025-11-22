@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 88 | label: meter | g:0.306 m:0.5 ---
+
+ityevamukto vacanaṃ trinetraścikṣepa sūrye puruṣaṃ viriñceḥ ।
+naraṃ narasyaiva tadā sa vigrahe cikṣepa dharmaprabhavasya devaḥ ।।

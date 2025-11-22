@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1392 | label: grammar | g:0.75 m:0.5 ---
+
+sādhyadharmapratyanīkena dharmeṇa pratyavasthite pratidṛṣṭāntadharmaṃ svadṛṣṭānte abhyanujānan pratijñāṃ jahātīti pratijñāhāniḥ, nidarśanam aaindriyakatvādanityaḥ śabdo ghaṭavat' itikṛte apara āha adṛṣṭamaindriyakatvaṃ sāmānye nitye kasmānna tathā śabdaḥ ?' iti pratyavasthite idamāha ayadyaindriyakaṃ sāmānyaṃ nityam ? kāmaṃ ghaṭo nityostu' iti, sa khalvayaṃ sādhakasya dṛṣṭāntasya nityatvaṃ prasañjayan nigamanāntameva pakṣaṃ jahāti pakṣaṃ jahat pratijñā jahātītyucyate pratijñāśrayatvāt pakṣasyeti ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1998 | label: hybrid | g:0.444 m:0.5 ---
+
+atra vo aṃśā vibhajyantāṃ vipakṣaḥ pakṣa eva ca 
+putrāṇāṃ hi tayo rājñor bhavitā vigraho mahān ।।

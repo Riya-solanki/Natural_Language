@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 644 | label: meter | g:0.25 m:0.5 ---
+
+loke prāpya yaśo dīptaṃ viśetāṃ dhāma śāṃkaram b

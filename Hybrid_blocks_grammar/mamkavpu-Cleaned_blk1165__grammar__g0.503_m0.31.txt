@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1165 | label: grammar | g:0.503 m:0.31 ---
+
+na cāyamupamāpratibhotpattihetuḥ śleṣaḥ api tu śleṣapratibhotpattiheturupamā । tathāpi yathā
+{kamalamiva mukhaṃ manojñametatkacatitarām} ityādau guṇasāmye kriyāsāmye ubhayasāmye vā upamā । tathā asakalakalaṃ purametajjātaṃ saṃprati sudhāṃśubimbamiva'; ityādau śabdamātrasāmye api sā yuktaiva । tathā hyuktaṃ rudraṭena

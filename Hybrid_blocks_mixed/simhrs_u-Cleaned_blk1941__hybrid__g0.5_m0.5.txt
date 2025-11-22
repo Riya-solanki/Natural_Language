@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1941 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā tatraiva prahasane mithyā-tīrthaḥ -aye upasarit-tīre pippala-nāmā vanaspatiḥ । yaś ca gītāsu bhagavatā nija-vibhūtitayā nirdiṣṭaḥ । katham asya taror iyatī mahima-sambhāvanā । upapadyata eva-

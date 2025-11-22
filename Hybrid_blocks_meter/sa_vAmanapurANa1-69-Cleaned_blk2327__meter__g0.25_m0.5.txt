@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2327 | label: meter | g:0.25 m:0.5 ---
+
+tato visarjayāmāsa bhṛtyān bhrātṛn suhṛttamān ।
+śukraśiṣyānapi balī ekākī nṛpa āvrajat ।।

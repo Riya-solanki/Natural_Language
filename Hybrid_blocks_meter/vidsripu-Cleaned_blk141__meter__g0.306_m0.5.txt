@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 141 | label: meter | g:0.306 m:0.5 ---
+
+jayanti nirdāritadaityavakṣaso nṛsiṃharūpasya harer nakhāṅkurāḥ ।
+vicintya yeṣāṃ caritaṃ surārayaḥ priyānakhebhyo api rateṣu bibhyati ।।

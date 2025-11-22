@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3213 | label: meter | g:0.306 m:0.5 ---
+
+lokayātrā bhayaṃ lajjā dākṣiṇyaṃ dānaśīlatā ।
+pañca yatra na vidyante na tatra divasaṃ vaset ।।

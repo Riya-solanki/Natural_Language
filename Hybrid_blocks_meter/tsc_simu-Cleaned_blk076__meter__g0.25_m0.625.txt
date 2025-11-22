@@ -1,0 +1,4 @@
+--- source: tsc_simu-Cleaned.txt | block: 76 | label: meter | g:0.25 m:0.625 ---
+
+cittākāśaṃ cidākāśamākāśaṃ ca tṛtīyakam ।
+dvābhyāṃ śūnyatamaṃ viddhi cidākāśaṃ varānane ।।

@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 157 | label: grammar | g:0.583 m:0.5 ---
+
+digbhede miśritāh sāmye viśliṣṭāś cākṣaliptikāh। tābhyo akṣajyā ca tadvargaṃ projjhya trijyākṛteh padam।।

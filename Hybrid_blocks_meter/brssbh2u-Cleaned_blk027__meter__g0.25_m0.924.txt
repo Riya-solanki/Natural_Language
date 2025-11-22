@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 27 | label: meter | g:0.25 m:0.924 ---
+
+FN avaṣṭambho dṛṣṭāntaḥ ।
+aitihyamātreṇa parokṣatayeti yāvat ।
+sukhaduḥkhamohāḥ sattvarajastamāṃsi ।
+upajanāpāyavaddharmayogo atiśayastadabhāvo niratiśayatvam ।
+itaraccetanācetanatvarūpam ।

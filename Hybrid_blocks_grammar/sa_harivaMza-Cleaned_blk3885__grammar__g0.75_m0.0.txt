@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3885 | label: grammar | g:0.75 m:0.0 ---
+
+aṅgavaṅgakaliṅgaiś ca sārdhaṃ pauṇḍraiś ca vīryavān 
+niryayau cedirājaḥ sa bhrātṛbhiḥ sumahārathaiḥ ।। 
+kva vāsudevaḥ kva ca gopakāste ।kuto nu rājā yaduvaṃśajanmanāṃ ।kuto nu rāmo madamattagarhitaḥ ।kuto nu vīro yudhi sātyakiḥ kila ।।iti bruvanto nṛpasattamās tadā ।raṇāya yuktāḥ sabalāḥ samāgadhāḥ ।śaraiś ca khaḍgair yudhi pātayanto ।mahārathā niryayur ugravīryāḥ ।।atha sainye mahārāja māgadhasya mahātmanaḥ । śaṅkhaduṃdubhayaś caiva sasvanur yuddhaśaṃsavaḥ । yādavāś ca mahārāja śaṅkhān dadhmuḥ pṛthak pṛthak ।। bherīṇāṃ ca mṛdaṅgānāṃ jharjharīṇāṃ ca sarvaśaḥ । nādāḥ samabhavantaś ca yadūnāṃ sainyasaṃcaye ।। tato yuddhaṃ samabhavat senayor ubhayor api । jarāsaṃdhapramukhato vṛṣṇayaḥ prathitās tadā । 
+tān pratyagṛhṇan saṃrabdhā vṛṣṇivīrā mahārathāḥ 
+saṃkarṣaṇaṃ puraskṛtya vāsavaṃ maruto yathā ।।

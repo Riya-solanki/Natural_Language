@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1512 | label: meter | g:0.194 m:0.555 ---
+
+vimānayodhī dhanado vimāne puṣpake sthitaḥ 
+sa rājarājaḥ śuśubhe yuddhārthī naravāhanaḥ 
+prekṣamāṇaḥ śivasakhaḥ sākṣād iva śivaḥ svayam ।। 
+kṣaumavāsāḥ śivaḥ sākṣāc chivarūpaḥ svayaṃ svayam । 
+pūrvaṃ pakṣaṃ sahasrākṣaḥ pitṛrājas tu dakṣiṇam 
+varuṇaḥ paścimaṃ pakṣam uttaraṃ naravāhanaḥ ।।

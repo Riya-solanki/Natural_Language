@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 213 | label: meter | g:0.328 m:0.595 ---
+
+FN brahmapratipādanaparatvenaiva padānāmanvayadṛṣṭerityarthaḥ ।
+sa netyādinā dharmādyaspṛṣṭatvaṃ tatkārayitṛtvaṃ tadīśitṛtvaṃ ca sarvamuktam ।

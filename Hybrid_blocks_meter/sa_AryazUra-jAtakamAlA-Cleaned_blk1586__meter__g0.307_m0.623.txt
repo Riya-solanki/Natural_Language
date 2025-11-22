@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1586 | label: meter | g:0.307 m:0.623 ---
+
+kālopacārasubhagairvipulaiḥ pradānaiḥ śīlena sādhujanasaṃgataniścayena ।
+bhūteṣu cātmani yathā hitabuddhisiddhyā puṇyāni saṃcinu yaśaḥ sukhasādhanāni ।।

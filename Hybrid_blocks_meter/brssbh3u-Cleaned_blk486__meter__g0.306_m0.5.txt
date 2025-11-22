@@ -1,0 +1,4 @@
+--- source: brssbh3u-Cleaned.txt | block: 486 | label: meter | g:0.306 m:0.5 ---
+
+naitaduktaṃ svatantrā ete agnayo ananyaśeṣabhūtā iti ।
+pūrvasya kriyāmayasyāgneḥ prakaraṇāttadviṣaya evāyaṃ vikalpaviśeṣopadeśaḥ syānna svatantraḥ ।

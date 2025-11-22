@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 621 | label: grammar | g:0.708 m:0.5 ---
+
+atra rahovāsa ityuttarasya pūrvabhāgo rahaśśabdo viparītaharaśabdena praśnavākyasyāntaḥ pratīyate । uttarāvayavo vāsa ityayaṃ bahireva mṛgyata iti bahirantaḥpraśnottarasya sthitatvādidamubhayapraśnam ।

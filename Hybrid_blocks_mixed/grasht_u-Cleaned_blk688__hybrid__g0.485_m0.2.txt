@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 688 | label: hybrid | g:0.485 m:0.2 ---
+
+abhrakasattvaṃ vahniyogena drutaṃ āste dravarūpamevāvatiṣṭhate ।।
+kiṃviśiṣṭaṃ sattvaṃ nijarasaśataparibhāvitetyādi nijarasena svakīyadraveṇa paribhāvitaṃ yatkañcukikandotthacūrṇaṃ tasya āvāpena yathā śatabhāvitakañcukikandotthacūrṇena sattvaṃ drutamāste tadvatsarvāṇi lohāni drutāni tiṣṭhanti ।।

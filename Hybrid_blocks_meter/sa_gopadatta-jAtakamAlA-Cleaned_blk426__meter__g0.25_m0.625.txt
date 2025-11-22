@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 426 | label: meter | g:0.25 m:0.625 ---
+
+surakarikaradaghnakalpavṛkṣair marakataratnatṛṇaiḥ śukāṃśunīlaiḥ ।
+maṇikanakalatābaddhaśākhaiḥ kva cid urubhis tarubhiḥ prakāmahāri ।।

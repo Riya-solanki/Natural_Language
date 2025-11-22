@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 719 | label: grammar | g:0.596 m:0.403 ---
+
+kṛtvāgaḥ sa ca nāgato api kim api vyaktaṃ mano manyate tat kvāse kam upaimi jaṅgamavane ko mām ihāśvāsayet ।
+ity uktvāśrugalanmukhī viṭasakhī dhvastā viśantī gṛhaṃ dhanyenādhim upāśruṇor asi kṛtātyantaṃ priyā roditā ।।
+vallaṇasya

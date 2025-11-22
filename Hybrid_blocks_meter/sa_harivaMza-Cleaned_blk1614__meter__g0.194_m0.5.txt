@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1614 | label: meter | g:0.194 m:0.5 ---
+
+kṣayavṛddhis tava vyaktā sāgare khe ca maṇḍale 
+parivartasy ahorātraṃ kālaṃ jagati yojayan ।।

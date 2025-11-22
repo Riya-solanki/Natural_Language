@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1992 | label: meter | g:0.306 m:0.5 ---
+
+atyarthaṃ laghu varṇataśca guṇavatpārśveṣu samyak samaṃrekhābindukalaṅkakākapadakatrāsādibhirvarjitam ।
+loke asminparāmāṇumātramapi yadvajraṃ kraciddṛśyate tasmindevasamāśrayo hyavitathastīkṣṇāgradhāraṃ yadi ।।

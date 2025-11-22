@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 512 | label: grammar | g:0.75 m:0.5 ---
+
+[] sarvo' py asau sarva-cālena kālena ghaṭita-kaṭhinatābhyām ābhyāṃ carvita-garvaḥ saṃvṛttaḥ, tad adya samasta-vāsara-visṛmara-vihāra-visaraja-viśvāsa-prapañcanayā vañcayan bandhuvad eva skandha-dvaye hasta-dvaya-kṛta-bandhaṃ dvayam api prakṣipya kṣipram eva bhojarāja-parisaraṃ parisamupahariṣyāmi iti ।

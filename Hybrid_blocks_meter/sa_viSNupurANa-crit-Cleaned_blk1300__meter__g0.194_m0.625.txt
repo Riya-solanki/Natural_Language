@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1300 | label: meter | g:0.194 m:0.625 ---
+
+samāhitamanā bhūtvā śambare api vimatsaraḥ 
+maitreya so api prahlādaḥ sasmāra madhusūdanam ।।

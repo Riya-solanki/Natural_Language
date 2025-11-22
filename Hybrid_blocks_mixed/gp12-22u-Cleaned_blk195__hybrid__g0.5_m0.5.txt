@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 195 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evaṃ saha-prahasite śubhrāṃśu-site kṛṣṇāgraje svayam agrato vraje siṃha-nādam ādadānā dāmodarādayaḥ sāmodaṃ tad-anuplavāḥ plavamānatayā tad-vanāya tad-avasthā eva pratasthire । gās tu sva-sthāna eva sthāpayāmāsuḥ । prasthāya ca rāmam,

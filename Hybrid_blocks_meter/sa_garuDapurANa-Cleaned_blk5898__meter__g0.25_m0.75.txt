@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5898 | label: meter | g:0.25 m:0.75 ---
+
+svabījaṃ mūrtirūpantu prāguktaṃ pārakalpayet ।
+yaṃ vāyumūlaṃ nairṛtye rephastvanalasaṃsthitaḥ ।।

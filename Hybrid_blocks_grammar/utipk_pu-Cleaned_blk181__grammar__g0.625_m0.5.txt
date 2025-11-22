@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 181 | label: grammar | g:0.625 m:0.5 ---
+
+tattadvibhinnasaṃvidanusandhānena hi vyavahāraḥ । ekaś ca prakāśātmā tadanusandhānarūpaḥ sa eva caikaḥ pramātā paramātmasaṃjñaḥ ।।

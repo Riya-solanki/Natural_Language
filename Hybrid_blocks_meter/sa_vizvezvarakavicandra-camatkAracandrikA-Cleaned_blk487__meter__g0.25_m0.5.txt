@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 487 | label: meter | g:0.25 m:0.5 ---
+
+ārūḍhasya parāṃ kāṣṭhāṃ yena kenāpi hetunā ।
+rasasyāpacayo yasya taṃ hrāsaṃ kavayo viduḥ ।।

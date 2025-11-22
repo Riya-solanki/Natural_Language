@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 233 | label: grammar | g:0.583 m:0.5 ---
+
+prākkapāle adhikaṃ madhyād bhavet prāgrahaṇaṃ yadi। maukṣikaṃ lambanaṃ hīnaṃ paścārdhe tu viparyayah।।

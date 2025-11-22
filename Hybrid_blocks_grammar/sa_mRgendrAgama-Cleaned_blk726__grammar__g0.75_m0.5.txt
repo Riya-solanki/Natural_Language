@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 726 | label: grammar | g:0.75 m:0.5 ---
+
+[putrako dhāmni vased, anujñātaḥ kāmaṃ caredvā] putrakasya gurugṛhanivasanaṃ tadājñayā deśāntarāṭanamiti kāmacāraḥ। [samayī prāggṛhasthaśca yatnena gurumupacaret] samayinaḥ prāguktasya prāggṛhasthasya ca yatnato guruparicaryādyabhijñā।।

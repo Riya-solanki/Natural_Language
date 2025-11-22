@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5684 | label: meter | g:0.194 m:0.625 ---
+
+caṅkramyamāṇau tau rāmaṃ vṛkṣamūle kṛtāsanam 
+dadṛśāte mukhāc cāsya niṣkrāmantaṃ mahoragam ।।

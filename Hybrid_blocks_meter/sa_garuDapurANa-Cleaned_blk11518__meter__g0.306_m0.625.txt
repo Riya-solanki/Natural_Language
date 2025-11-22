@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11518 | label: meter | g:0.306 m:0.625 ---
+
+strīrūpebhyo namanaṃ kāryameva tathaiva padmasya ca madhyabhāge ।
+anugrahākhyā viṣṇulakṣmīśca devī vāyurviyaccheṣarudrādikānām ।।

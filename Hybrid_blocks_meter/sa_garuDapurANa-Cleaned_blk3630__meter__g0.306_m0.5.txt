@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3630 | label: meter | g:0.306 m:0.5 ---
+
+na cāpi naimiṣaṃ kṣetraṃ kurukṣetraṃ prabhāsakam ।
+kālindī yamunā gaṅgā na caiva na sarasvatī ।।

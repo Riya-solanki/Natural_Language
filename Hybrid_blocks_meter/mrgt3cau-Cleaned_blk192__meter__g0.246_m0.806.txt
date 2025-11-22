@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 192 | label: meter | g:0.246 m:0.806 ---
+
+vāmasyānnavyatikare hiṃsāyāṃ bahurūpiṇaḥ
+vaktrasya syandane rātrau divā taddviguṇaṃ japet ।

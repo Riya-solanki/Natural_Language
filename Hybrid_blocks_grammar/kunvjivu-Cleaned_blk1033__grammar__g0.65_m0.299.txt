@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 1033 | label: grammar | g:0.65 m:0.299 ---
+
+atra mukhyārthasiddhaye yad bhidheyaṃ vastu vicchittyā tadekenaiva panibaddham ।
+yadi ca nyāyyatvā davaśyaṃ karaṇīyamapi nikṛtilakṣaṇaṃ vastu karuṇāspadatvādakaraṇīyakalpaṃ naivopekṣaṇīyānuṣṭhānam; nirbharagarbhakhinnadevīvivāsanapaṭoḥ dāśaratheḥ pāṇirasītyucitānurodhitvāt kutaste karuṇā tadavadhyasyāpi śūdramuneḥ brāhmaṇaśiśujīvitarakṣaṇāya maṇḍalāgraṃ samarpayetyekaṃ vastu ।
+dvitīyaṃ, yadi nyāyyamavaśyakaraṇīyamapi tathāvidhakāruṇikatvādudāracetasā na karaṇīyameveti manyase, tathāpi rāmasya nirbharagarbhakhinnadevīvivāsanapaṭoḥ niṣkaruṇacūḍāmaṇeḥ karastvamiti munimāraṇaṃ kiyanmātraṃ taveti vipralambhaśṛṅgāraparipoṣāt kimapi rāmaśabdasya rūḍhivaicitryavakratvamubhayatrāpi sphurati ।
+tathā ca

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4100 | label: meter | g:0.194 m:0.75 ---
+
+sa merugirim āsādya devagandharvasevitam 
+devasadmāni sarvāṇi dadarśa madhusūdanaḥ ।।

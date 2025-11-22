@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1723 | label: hybrid | g:0.537 m:0.431 ---
+
+yadā pūrvaṃ nāsīd upari ca yadā naiva bhavitā tadā madhyāvasthātanuparicayo bhūtanicayaḥ ।
+ataḥ saṃyoge asmin paravati viyoge ca sahaje kimādhāraḥ premā kimadhikaraṇāḥ santu ca śucaḥ ।।
+bhartṛhareḥ

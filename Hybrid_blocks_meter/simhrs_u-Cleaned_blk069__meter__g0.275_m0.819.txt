@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 69 | label: meter | g:0.275 m:0.819 ---
+
+sattva-sāratvam, yathā-
+utsmāyitvā mahābāhuḥ prekṣya cāsthi mahābalaḥ ।
+pādāṅguṣṭhena cikṣepa sampūrṇaṃ daśa-yojanam ।।

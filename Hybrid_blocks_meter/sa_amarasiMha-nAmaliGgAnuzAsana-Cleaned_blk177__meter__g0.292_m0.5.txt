@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 177 | label: meter | g:0.292 m:0.5 ---
+
+śrāvyaṃ hṛdyaṃ manohāri vispaṣṭaṃ prakaṭoditam atha mliṣṭamavispaṣṭaṃ vitathaṃ tvanṛtaṃ vacaḥ

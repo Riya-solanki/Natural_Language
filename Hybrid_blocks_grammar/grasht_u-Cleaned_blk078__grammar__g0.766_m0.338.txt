@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 78 | label: grammar | g:0.766 m:0.338 ---
+
+ātmano avekṣayā sūte sugamatvaṃ sūcayannāha pramāṇata ityādi ।।
+yaḥ puruṣaḥ sūtakaṃ rasendraṃ na jānāti kutaḥ pramāṇataḥ pramākaraṇaṃ pramāṇaṃ pramitisādhanaṃ vā tataḥ kimbhūtāt pramāṇataḥ pratyakṣāc cakṣurindriyagrāhyarūpāt sa pumān cinmayam atisūkṣmam ātmānaṃ kathaṃ jñāsyati na katham apītyarthaḥ indriyāgocaratvāt ।।
+kiṃviśiṣṭam anādivigraham ādiśca vigrahaṃ ca ādivigrahe te na vidyete yatra saḥ taṃ utpattiśarīrayorabhāvāt sthūlajñānābhāva iti tātparyārthaḥ ।।

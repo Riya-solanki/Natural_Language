@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 285 | label: grammar | g:0.75 m:0.5 ---
+
+bhedaḥ viṃśatiḥ prayogāṇāṃ bhedā bhavanti । tatra svarūpataḥ pañca pramedāḥ, yathā - rūpādiṣu niḥsvabhāvatayā anavasthānaprayogaḥ, ayoga eva teṣu prayogo bhavatītyayogaprayogaḥ, rūpāditathatāgambhīratayā pratiṣṭhānānupalabdhyarthena sarvajñatādhikāre gambhīraprayogaḥ, rūpādiduravagāhatayā prakṛtyanāvilārthena mārgajñatādhikāre duravagāhaprayogaḥ, rūpādyapramāṇatayā paryantānupalambhārthena sarvākārajñatādhikāre apramāṇaprayoga iti ।

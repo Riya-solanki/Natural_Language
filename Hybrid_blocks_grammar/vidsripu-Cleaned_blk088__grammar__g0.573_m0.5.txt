@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 88 | label: grammar | g:0.573 m:0.5 ---
+
+devasyāmbujasambhavasya bhavanād ambhodhim āgāmukā seyaṃ maulivibhūṣaṇaṃ bhagavato bhargasya bhāgīrathī ।
+udyātān apahāya vigraham iha srotaḥpratīpān api srotas tīvrataratvarā gamayati drāg brahmalokaṃ janān ।।

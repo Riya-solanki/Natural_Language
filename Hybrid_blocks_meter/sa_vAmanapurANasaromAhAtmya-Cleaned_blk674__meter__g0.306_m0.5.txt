@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 674 | label: meter | g:0.306 m:0.5 ---
+
+prasādanārthaṃ viprasya hyavakīrṇaṃ yayau tadā ।
+prasāditaḥ sa rājñā ca tuṣṭaḥ provāca taṃ nṛpam ।।

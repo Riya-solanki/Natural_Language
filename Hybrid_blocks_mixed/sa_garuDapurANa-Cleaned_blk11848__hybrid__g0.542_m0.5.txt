@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11848 | label: hybrid | g:0.542 m:0.5 ---
+
+dvayaṃ svarūpaṃ praviditvaiva pūrvaṃ tvaṃ svīkuruṣva dvayameva nityam ।
+snānādikaṃ ca prakaroti nityaṃ pāpī sa ātmā naiva mokṣaṃ prayāti ।।

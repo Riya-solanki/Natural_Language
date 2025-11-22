@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 583 | label: meter | g:0.272 m:0.621 ---
+
+naivaṃ saṃbhavati ।
+agatikā hīyaṃ gatiḥ, yatkālpanikabhedāśrayaṇam ।
+apica kalpayitvāpi bhedamupamānopameyabhāvaṃ varṇayataḥ paricchinnatvādabhyantarākāśasya na bāhyākāśaparimāṇatvamupapadyeta ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3761 | label: meter | g:0.194 m:0.625 ---
+
+taṃ vāsudevaḥ śrīmantaṃ cirasuptaṃ narādhipam 
+kṛtakāryo abravīd dhīmān idaṃ vacanam uttamam ।।

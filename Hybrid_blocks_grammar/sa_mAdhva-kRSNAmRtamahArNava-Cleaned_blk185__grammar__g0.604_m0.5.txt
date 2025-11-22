@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 185 | label: grammar | g:0.604 m:0.5 ---
+
+bhaktyā grāhyo hṛṣīkeśo na dhanair dharaṇīsurāḥ bhaktyā sampūjito viṣṇuḥ phalaṃ datte samīhitam ।।

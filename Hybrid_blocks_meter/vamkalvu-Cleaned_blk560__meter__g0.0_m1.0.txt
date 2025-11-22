@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 560 | label: meter | g:0.0 m:1.0 ---
+
+ekāntarapādāntayamaka yathā

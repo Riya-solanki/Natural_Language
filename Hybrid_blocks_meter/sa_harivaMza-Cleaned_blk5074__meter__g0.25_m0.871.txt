@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5074 | label: meter | g:0.25 m:0.871 ---
+
+prajāsamudvegakaraṃ yugāntaṃ samupasthitam 
+tasmāt samudvegakare yugānte pratyupasthite । 
+pranaṣṭadharmaṃ dharmajña nimittair vaktum arhasi ।।

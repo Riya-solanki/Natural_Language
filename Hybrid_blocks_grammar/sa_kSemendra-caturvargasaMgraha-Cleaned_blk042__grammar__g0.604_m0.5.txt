@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 42 | label: grammar | g:0.604 m:0.5 ---
+
+jāyā śīlavivarjitā vyayavatī māyānikāyaḥ suhṛd duṣpūro gurur arthabhoganicayair bandhur daridraḥ śaṭhaḥ ।
+dāsaś cauryaparo asalaś ca kupade putraḥ khalaiḥ pātitaḥ so ayaṃ kleśaśatāptasaṃcayanidheḥ pratyakṣalakṣyaḥ kṣayaḥ ।।

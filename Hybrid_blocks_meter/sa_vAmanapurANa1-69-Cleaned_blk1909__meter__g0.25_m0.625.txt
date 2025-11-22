@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1909 | label: meter | g:0.25 m:0.625 ---
+
+sopānīyāṃ mahī prādācchālikāṃ mānaso hradaḥ ।
+śakaghaṇṭāṃ śatānandāṃ tatholūkhalamekhalām ।।

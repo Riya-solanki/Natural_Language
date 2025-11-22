@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 199 | label: meter | g:0.306 m:0.5 ---
+
+vasavo aṣṭau haraṃ dṛṣṭvā susruvurvegato mune ।
+sā tu jātā saricchreṣṭhā sītā nāma sarasvatī ।।

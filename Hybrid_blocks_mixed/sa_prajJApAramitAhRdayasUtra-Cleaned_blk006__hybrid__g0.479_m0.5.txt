@@ -1,0 +1,3 @@
+--- source: sa_prajJApAramitAhRdayasUtra-Cleaned.txt | block: 6 | label: hybrid | g:0.479 m:0.5 ---
+
+tasmāc chāriputra aprāptitvād bodhisattvo prajñā-pāramitām āśritya viharaty acitt'āvaraṇaḥ citt'āvaraṇa-nāstitvād atrasto viparyās'ātikrānto niṣṭhā-nirvāṇaḥ tradhva-vyavasthitāḥ sarva-buddhāḥ prajñāpāramitām āśritya anuttarāṃ samyak-sambodhim abhisambuddhāḥ

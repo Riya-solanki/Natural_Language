@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1187 | label: meter | g:0.194 m:1.0 ---
+
+daśadhā guṇadātāraṃ ciccetāhṛdayātmakam 
+pramāṇapadayogena kṣobhayitvā navān bahūn ।।

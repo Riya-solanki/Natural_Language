@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 434 | label: meter | g:0.114 m:0.776 ---
+
+{gacchāmyacyuta darśanena bhavataḥ kiṃ tṛptirutpadyate
+kiṃ tvevaṃ vijanasthayorhatajanaḥsaṃbhāvayatyanyathā ।
+ityāmantraṇabhaṅgisūcitavṛthāvasthānakhedālasām
+āśliṣyan pulakotkarāñcitatanurgopīṃ hariḥ pātu vaḥ ।। }

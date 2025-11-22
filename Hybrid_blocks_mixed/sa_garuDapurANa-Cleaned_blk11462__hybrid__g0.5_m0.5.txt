@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11462 | label: hybrid | g:0.5 m:0.5 ---
+
+mohādyo vai pūjayeddevadevaṃ mahādharmādyāti cāndhaṃ tamo vai ।
+brahmādināmāni harerhi devīṃ viṣṇoḥ svanāmāni dadau divaukasām ।।

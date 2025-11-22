@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 160 | label: meter | g:0.056 m:0.729 ---
+
+janmādy-arbhakatā hareḥ pravayasāṃ madhye-sabhaṃ prāyaśaḥ
+paugaṇḍādiṣu nirjarāri-vijiteḥ prāyaḥ suhṛn-maṇḍale ।
+kāliyāidiṣu durjaneṣv api kṛpā-bhakta-vraje' nalpaśaḥ
+prāyenātmani rāga-rītir abhitaḥ kāntā-gaṇe gīyate ।। [śārdūlā]

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 532 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ yadālambhi cāstambhi ca naicikīnicayas tadānīm eva ca dṛṣṭa-nirvilamba-pralamba-pralaya-carāḥ kaṃsa-carā labdhāvasarā muñjāṭavīm udbhaṭa-ceṣṭatayā veṣṭayitvā nirnivāraṇa-kṛpīṭa-kāraṇa-vṛṣṭiṃ jhaṭiti tādṛśa-duṣṭa-vauṣaṭ-kārāspada-tad-vilakṣaṇa-tejasi tasmin pratipakṣatā-kalpanayā nisṛṣṭavantaḥ ।

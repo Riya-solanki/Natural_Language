@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6074 | label: meter | g:0.25 m:0.5 ---
+
+sitaṃ malayajaṃ śītaṃ gośīrṣaṃ sitacandanam ।
+vidyādraktaṃ candanaṃ ca dvitīyaṃ raktacandanam ।।

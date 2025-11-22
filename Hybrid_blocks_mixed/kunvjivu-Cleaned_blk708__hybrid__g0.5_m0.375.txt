@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 708 | label: hybrid | g:0.5 m:0.375 ---
+
+rasabhāvatadābhāsānāṃ praśamavyapadeśaviṣayo daśāviśeṣaḥ, tadanantararasāvatārataraṅgavarjito nijavyañjakavyāpāravirāmaviśrāntavibhramaḥ prathamaparispandaiḥ parisamāpteḥ uttarasamudāyādanabhivyakterasaṃvedyamānakramaḥ sandhyāsamayanibhasaṃniveśaviśeṣaḥ satkavibhirapi kathañcidunneyavṛtti nimittamanoharaḥ samāhitamalaṅkaraṇam ।
+tathā

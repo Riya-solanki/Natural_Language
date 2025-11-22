@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5118 | label: meter | g:0.25 m:0.987 ---
+
+viprarūpāṇi rakṣāṃsi rājānaḥ karṇavedinaḥ 
+cariṣyanti vasuṃdharāṃ ।
+pranaṣṭavarṇadharmāś ca ।
+pṛthivīm upabhokṣyanti yugānte pratyupasthite ।।

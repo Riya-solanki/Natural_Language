@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1995 | label: meter | g:0.102 m:0.555 ---
+
+dakṣiṇaṃ cottaraṃ caiva madhyaṃ vaiṣuvataṃ tathā 
+śaradvasantayor madhye tad bhānuḥ pratipadyate 
+meṣādau ca tulādau ca maitreya viṣuvatsthitaḥ ।।

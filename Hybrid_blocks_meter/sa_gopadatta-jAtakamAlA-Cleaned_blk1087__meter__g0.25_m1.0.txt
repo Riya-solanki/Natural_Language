@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1087 | label: meter | g:0.25 m:1.0 ---
+
+ghorāndhakāraparalokamahāprapātasaṃpātacūrṇitatanoḥ kuśalābhilāṣam ।
+āśīviṣāsyapuṭasaṃkaṭasaṃniruddhamaṇḍūkavāsitasamaṃ pravadanti santaḥ ।।

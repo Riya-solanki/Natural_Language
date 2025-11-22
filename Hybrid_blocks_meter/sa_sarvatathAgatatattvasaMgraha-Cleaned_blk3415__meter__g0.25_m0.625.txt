@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3415 | label: meter | g:0.25 m:0.625 ---
+
+satvo hi [sarvātmabhāvaḥ kāye a]pyātmani saṃsthitaḥ ।
+ityadhiṣṭhāya satvo ahamahaṃkāreṇa bhāvayan ।।

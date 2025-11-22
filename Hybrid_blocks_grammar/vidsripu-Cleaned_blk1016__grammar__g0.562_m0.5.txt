@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1016 | label: grammar | g:0.562 m:0.5 ---
+
+tārāṇāṃ tagaratviṣāṃ parikaraḥ saṃkhyeyaśeṣaḥ sthitaḥ spardhante astarucaḥ pradīpakaśikhāḥ sārdhaṃ haridrāṅkuraiḥ ।
+tatra stambhitapāradadravajaḍo jātaḥ prage candramāḥ paurastyaṃ ca purāṇasīdhumadhuracchāyaṃ nabho vartate ।।

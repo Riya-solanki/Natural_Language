@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2135 | label: meter | g:0.102 m:0.695 ---
+
+niḥsṛtaṃ tad amāvāsyāṃ gabhastibhyaḥ sudhāmṛtam 
+māsatṛptim avāpyāgryāṃ pitaraḥ santi nirvṛtāḥ 
+saumyā barhiṣadaś caiva agniṣvāttāś ca te tridhā ।।

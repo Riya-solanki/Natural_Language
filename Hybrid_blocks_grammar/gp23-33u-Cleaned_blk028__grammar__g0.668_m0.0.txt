@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 28 | label: grammar | g:0.668 m:0.0 ---
+
+[] tataś ca tūrṇam eva pūrṇa-candrā bahu-tithī tithir atithir iva tasya prasannatāṃ vidhātum āsannavatī । tatra cājñāyāhni vana-vihāra-śālī vana-mālī dhenūr ādāya vrajāgamanaṃ vidhāya sāyaṃ pratyavasāya nija-candra-śālikālindaṃ vindamānaḥ sphuṭam āditye' staṅgatya sthite sa-tārā-samudayaṃ taṃ sāndra-candrikaṃ candram udayantaṃ paśyaṃs tad-vaśya-bhāva-viśeṣa-śleṣatas tad idaṃ cintayāmāsa-
+jāguḍa-piṇḍa-sapiṇḍaṃ kiṃ vidhu-bimbaṃ tad etad unnamati ।
+kiṃ vā roṣāruṇa-ruci mukham idam udbhāti kāmasya? ।। [āryā]

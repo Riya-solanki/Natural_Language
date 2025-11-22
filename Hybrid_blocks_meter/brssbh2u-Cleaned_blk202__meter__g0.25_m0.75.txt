@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 202 | label: meter | g:0.25 m:0.75 ---
+
+FN sādhyavattā pakṣeṇa tulyatvāt ।
+anupanyāsaḥ na vicārabhūmiḥ ।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3683 | label: grammar | g:0.646 m:0.5 ---
+
+[atha bhagavānacirābhi] saṃbuddhaḥ sarvatathāgatakāyavākcittavajraḥ sarvatathāgatakāyamātmānamavabudhya, tasmāt sumerugirimūrdhādyena [bodhimaṇḍaṃ tenopajagā]mopetya, bhagavato bodhivṛkṣasyādhastāt lokānuvartanatayā, punastṛṇāni gṛhyedamudānamudānayāmāsa ।

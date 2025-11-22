@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6697 | label: meter | g:0.306 m:0.5 ---
+
+hṛte kāṣṭhe ca hārītaḥ kapoto vā prajāyate ।
+hṛtvā tu kāñcanaṃ bhāṇḍaṃ kṛmiyonau prajāyate ।।

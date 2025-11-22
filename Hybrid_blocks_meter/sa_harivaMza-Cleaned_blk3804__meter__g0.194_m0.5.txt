@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3804 | label: meter | g:0.194 m:0.5 ---
+
+evam uktas tataḥ kṛṣṇaḥ prāg eva kṛtabuddhimān 
+sāgaraṃ saritāṃ nātham uvāca vadatāṃ varaḥ ।।

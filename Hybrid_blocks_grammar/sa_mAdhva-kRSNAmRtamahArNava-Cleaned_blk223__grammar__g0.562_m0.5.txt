@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 223 | label: grammar | g:0.562 m:0.5 ---
+
+āsphoṭayanti pitaraḥ pranṛtyanti pitāmahāḥ vaiṣṇavo asmatkule jātaḥ sa naḥ santārayiṣyati ।।

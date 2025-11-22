@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4051 | label: meter | g:0.25 m:0.625 ---
+
+aṣṭau śatasahasrāṇi dānavānāṃ paraṃtapaḥ 
+nihatya puruṣavyāghraḥ prāgjyotiṣam upādravat 
+bāhyaprākāramadhye tu jaghāna puruṣottamaḥ । 
+bhagavañ śrotum icchāmi vistareṇa kathām imām । 
+avadhīn narakaṃ kṛṣṇaḥ kathaṃ vada tapodhana । 
+taṃ ca pañcajanaṃ ghoraṃ narakasya mahāsuram ।।

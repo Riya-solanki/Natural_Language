@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4352 | label: meter | g:0.314 m:0.914 ---
+
+makhaśvayathumādhuryatandrāhṛllāsakāsavān ।
+sarvairliṅgaiḥ samāpannastyājyo bhavati sarvathā ।।

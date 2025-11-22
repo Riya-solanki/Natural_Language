@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 193 | label: grammar | g:0.708 m:0.5 ---
+
+tām anumantrayate yasmād bhītā niṣīdasi tato no abhayaṃ kṛdhi paśūn naḥ sarvān gopāya namo rudrāya mīḍhuṣe ity ।

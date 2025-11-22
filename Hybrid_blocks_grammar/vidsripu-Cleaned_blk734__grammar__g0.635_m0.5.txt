@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 734 | label: grammar | g:0.635 m:0.5 ---
+
+gate premābandhe hṛdayabahumāne vigalite nivṛtte sadbhāve jana iva jane gacchati puraḥ ।
+tad utprekṣyotprekṣya priyasakhi gatās te ca divasā na jāne ko hetuḥ sphuṭati śatadhā yan na hṛdayam ।।

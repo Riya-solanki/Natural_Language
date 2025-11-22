@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 15 | label: meter | g:0.306 m:0.5 ---
+
+sa eva māyāparimohitātmā śarīram āsthāya karoti sarvam ।
+striyannapānādivicitrabhogaiḥ sa eva jāgrat paritṛptim eti ।।

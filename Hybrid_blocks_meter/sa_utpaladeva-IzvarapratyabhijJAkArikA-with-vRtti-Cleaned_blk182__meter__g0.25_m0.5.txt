@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 182 | label: meter | g:0.25 m:0.5 ---
+
+tadaikyena vinā na syāt saṃvidāṃ lokapaddhatiḥ 
+prakāśaikyāt tad ekatvaṃ mātaikaḥ sa iti sthitam ।।

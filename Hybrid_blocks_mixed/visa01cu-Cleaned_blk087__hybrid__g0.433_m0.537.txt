@@ -1,0 +1,4 @@
+--- source: visa01cu-Cleaned.txt | block: 87 | label: hybrid | g:0.433 m:0.537 ---
+
+nañaḥ adoṣāvitipadasthitasya ।
+nirdeṣayoḥ kvacit kadācit kavinādoṣabhāvena nirmitayoḥ kāvyatvaṃ na syāt, īṣaddoṣatvakāvyalakṣaṇasya tatrāsambhavāt ।

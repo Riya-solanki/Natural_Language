@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1131 | label: meter | g:0.306 m:0.5 ---
+
+gandharvarājo rajatānuliptaṃ pānasya pūrṇaṃ sadṛśaṃ ca bhājanam ।
+bhujaṅgahāraṃ bhujageśvaro api amlānapuṣpāmṛtavaḥ srajaṃ ca ।।

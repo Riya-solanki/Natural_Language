@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2699 | label: meter | g:0.263 m:0.677 ---
+
+atha karmamudrottamasiddhitantraṃ bhavati ।
+yatkaroti hi karma vai śubhaṃ vā yadi vāśubhaṃ ।
+niryātayaṃ jineṣvastu kṣaṇātsauritāṃ vrajed ।।

@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 522 | label: meter | g:0.25 m:0.732 ---
+
+anāgatecchāsaṃkalpo abhidhyā ।
+etayā khalu svātantryalakṣaṇena kartṛtvena nimittatvaṃ darśitam ।
+abahu syām' iti ca svaviṣayatayopādānatvamuktam ।।

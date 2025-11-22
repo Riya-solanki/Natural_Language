@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 687 | label: grammar | g:0.604 m:0.5 ---
+
+so ayaṃ dvidhā budhairuktaratācvikābhāsa bhedataḥ । tācviko api dvidhā śuddho grathitaśceti gīyate ।।

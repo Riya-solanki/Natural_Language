@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2476 | label: meter | g:0.194 m:0.625 ---
+
+caturyugānte vedānāṃ jāyate kila viplavaḥ 
+pravartayanti tān etya bhuvi saptarṣayo divaḥ ।।

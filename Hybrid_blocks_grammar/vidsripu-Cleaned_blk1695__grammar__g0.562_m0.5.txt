@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1695 | label: grammar | g:0.562 m:0.5 ---
+
+dadati tāvad amī viṣayāḥ sukhaṃ sphurati yāvad iyaṃ hṛdi mūḍhatā ।
+manasi tattvavidāṃ tu vivecake kva viṣayāḥ kva sukhaṃ kva parigrahaḥ ।।

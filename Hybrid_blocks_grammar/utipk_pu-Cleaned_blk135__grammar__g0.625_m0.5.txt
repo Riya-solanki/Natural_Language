@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 135 | label: grammar | g:0.625 m:0.5 ---
+
+tattatpadārthakramācchuritaś caiṣo antaḥsthita eva ābhāsaḥ sarvasaṃvitkālavyāpyakramānantacinmaya ātmasaṃjñaḥ pramātā svāṅgabhūte prameye nirmātṛtayā maheśvaraś ca ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 610 | label: meter | g:0.306 m:0.5 ---
+
+manojanmaprauḍhavyatikaraśatāyāsavidhiṣu priyaḥ prāyo mugdho jhagiti kṛtacetobhavavidhiḥ ।
+sahūṃkārojjṛmbhā smaraparavaśā kāntavimukhaṃ mukhaṃ mugdhāpāṅgaṃ kṣipati virasaṃ prauḍhayuvatī ।।

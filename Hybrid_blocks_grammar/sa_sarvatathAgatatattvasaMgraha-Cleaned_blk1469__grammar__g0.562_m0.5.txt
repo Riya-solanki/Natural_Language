@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1469 | label: grammar | g:0.562 m:0.5 ---
+
+vajrakrodhāṅgulī samyaguttāramukhasandhite । parivartya tathoṣṇīṣe tu tarjanī mukhasusthitā ।। iti ।।

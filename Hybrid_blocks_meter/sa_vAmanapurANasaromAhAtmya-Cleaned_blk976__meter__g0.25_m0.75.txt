@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 976 | label: meter | g:0.25 m:0.75 ---
+
+kaṅgālarūpiṇā cāpi rudreṇa sumahātmanā ।
+pratiṣṭhitaṃ mahāliṅgaṃ sarvapāpapraṇaśanam ।।

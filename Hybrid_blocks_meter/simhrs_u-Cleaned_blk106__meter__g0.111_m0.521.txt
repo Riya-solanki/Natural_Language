@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 106 | label: meter | g:0.111 m:0.521 ---
+
+[kiṃ tātena narendra-śekhara-śikhālīḍhāgra-pādena me
+kiṃ vā me śvaśureṇa vāsava-mahā-siṃhāsanādhyāsinā ।
+te deśā girayaś ca te vana-mahī sā caiva me vallabhāḥ
+kausalyā-tanayasya yatra caraṇau vande ca nandāmi ca ।।]

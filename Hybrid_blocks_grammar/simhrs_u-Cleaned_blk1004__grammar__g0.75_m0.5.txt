@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1004 | label: grammar | g:0.75 m:0.5 ---
+
+nanu aliapasuttety atra gaṇḍa-paricumbanasya niṣedho nāsti । evaṃ muñca kopam ity atra ca niṣedho na śrūyate । tat katham asya nirhetukasya mānatvam iti cet । meti neti vācika-niṣedhasya upalaksaṇatvāt pūrvasminn udāharaṇe apratikriyayā cumbanānaṅgīkāra-lakṣaṇo niṣedho vidyata eva । aparatra punar anuttara-dānādinā anaṅgīkāra-lakṣaṇo niṣedho vaktavya eva ।

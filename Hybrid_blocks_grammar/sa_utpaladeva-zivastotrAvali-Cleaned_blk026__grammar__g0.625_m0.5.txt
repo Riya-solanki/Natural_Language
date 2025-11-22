@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 26 | label: grammar | g:0.625 m:0.5 ---
+
+bhavadbhaktisudhāsāras taiḥ kim apy upalakṣitaḥ ye na rāgādi paṅke asmiṃḷ lipyante patitā api ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 78 | label: hybrid | g:0.528 m:0.5 ---
+
+puṃstvād api pravicaled yadi yady adho api yāyād yadi praṇayane na mahān api syāt 
+abhyuddharet tad api viśvam itīdṛśīyaṃ kenāpi dik prakaṭitā puruṣottamena ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 932 | label: hybrid | g:0.417 m:0.5 ---
+
+[] tau bhavad-bhrātṛjau sa-nija-vraja-vrajeśvara-bhojya-sajjanāya janitāmodāyāṃ yaśodāyāṃ tadīya-sāhāyakā-rohiṇyām api rohiṇyām āśaṅkā-pātrīr dhātrīr vañcayitvā vidūraṃ cañcitavantau । yathā,

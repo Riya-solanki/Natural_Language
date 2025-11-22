@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2867 | label: meter | g:0.25 m:0.583 ---
+
+bhāvaniṣpannamadhuraṃ gāyantyas tā varāṅganāḥ 
+vrajaṃ gatāḥ sukhaṃ cerur dāmodaraparāyaṇāḥ ।। 
+cerur dāmodaraparāḥ sukhaṃ nāryo vrajaṃ gatāḥ । 
+karīṣapāṃsudigdhāṅgyas tāḥ kṛṣṇam anuvavrire 
+ramayantyo yathā nāgaṃ sapramodāḥ kareṇavaḥ ।।

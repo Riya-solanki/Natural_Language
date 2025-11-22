@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 750 | label: meter | g:0.194 m:0.5 ---
+
+tān abhyarthya sa pārthivo bhagavataḥ pratyekabuddhān atha
+prītyutkarṣaparamparām anubhavan kām apy anāyāsinīṃ ।
+āvāsaṃ svam upohya saugatabhavās te api kṣaṇenāyayuḥ
+svarddhyaivāpratighaṃ vigāhya vighanaṃ khaṃ rājahaṃsā iva ।।

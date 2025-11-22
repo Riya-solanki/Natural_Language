@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 172 | label: meter | g:0.25 m:0.5 ---
+
+dattvā ca varam avyagro mārīcas tām abhāṣata 
+indraṃ putro nihantā te garbhe cec charadāṃ śatam ।।

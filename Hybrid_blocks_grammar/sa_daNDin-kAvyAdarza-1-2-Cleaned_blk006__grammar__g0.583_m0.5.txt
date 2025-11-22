@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 6 | label: grammar | g:0.583 m:0.5 ---
+
+ādirājayaśobimbam ādarśaṃ prāpya vāṅmayam teṣām asaṃnidhāne api na svayaṃ paśya naśyati ।।

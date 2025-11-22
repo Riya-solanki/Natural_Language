@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1416 | label: meter | g:0.056 m:0.729 ---
+
+{jyotsnā mauktikadāma candanarasaḥ śītāṃśukāntadravaḥ
+karpūraṃ kadalī mṛṇālavalayānyambhojinīpallavāḥ ।
+antarmānasamāstvayā prabhavatā tasyāḥ sphuliṅgotkara-
+vyāpārāya bhavanti hanta kimanenoktena na brūmahe ।।}

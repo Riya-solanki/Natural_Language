@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 31 | label: grammar | g:0.604 m:0.5 ---
+
+bhedaḥ saṃkṣepataḥ prayogamārgīyo mūrdhaprayogaḥ, darśanamārgīyo mūrdhaprayogaḥ, bhāvanāmārgīyo mūrdhaprayogaḥ, ānantaryamūrdhaprayogaśceti catvāro bhedā bhavanti ।

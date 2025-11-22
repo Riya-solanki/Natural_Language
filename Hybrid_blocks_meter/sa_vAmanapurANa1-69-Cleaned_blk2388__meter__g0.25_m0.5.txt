@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2388 | label: meter | g:0.25 m:0.5 ---
+
+tatastīrtvātha vegena sa kapiḥ parvataṃ prati ।
+gantukāmo mahātejā yatra nyastā sulocanā ।।

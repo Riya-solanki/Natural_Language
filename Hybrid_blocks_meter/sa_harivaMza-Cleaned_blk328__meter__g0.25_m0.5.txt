@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 328 | label: meter | g:0.25 m:0.5 ---
+
+tato anye tapasā yuktāḥ sthānaṃ tat pūrayanty uta 
+atītā vartamānāś ca krameṇaitena bhārata ।।

@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1428 | label: meter | g:0.139 m:0.75 ---
+
+yaḥ pareṇa coditaṃ doṣaṃ svapakṣe abhyupagamya ।
+anuddhṛtya vadati abhavatpakṣepi samāno doṣaḥ'
+iti sa svapakṣe doṣābhyupagamāt parapakṣe
+doṣaṃ prasañjayan paramatam anujānātīti
+matānujñānāma nigrahasthānamāpadyate iti ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2069 | label: meter | g:0.194 m:0.625 ---
+
+ādhārabhūtaḥ savitur dhruvo munivarottama 
+dhruvasya śiśumāro asau so api nārāyaṇāśrayaḥ ।।

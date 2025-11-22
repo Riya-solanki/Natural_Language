@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 176 | label: grammar | g:0.562 m:0.5 ---
+
+pṛthivyāṃ yāni pāpāni brahmahatyādikāni ca annam āśritya tiṣṭhanti samprāpte harivāsare ।।

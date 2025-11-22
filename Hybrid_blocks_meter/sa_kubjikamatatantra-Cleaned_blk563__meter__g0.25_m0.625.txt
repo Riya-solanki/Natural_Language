@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 563 | label: meter | g:0.25 m:0.625 ---
+
+tena śaṅkhamayaṃ proktam akṣasūtraṃ surādhipe 
+sphuṭate mastake yā sā dvidhā caiva visarpiṇī ।।

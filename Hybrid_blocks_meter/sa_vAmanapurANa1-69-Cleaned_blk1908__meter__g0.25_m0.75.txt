@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1908 | label: meter | g:0.25 m:0.75 ---
+
+brahmayoniścaṇḍaśilāṃ bhadrakālīṃ triviṣṭapaḥ ।
+cauṇḍīṃ bhaiṇḍīṃ yogabhaiṇḍīṃ prādāccaraṇapāvanaḥ ।।

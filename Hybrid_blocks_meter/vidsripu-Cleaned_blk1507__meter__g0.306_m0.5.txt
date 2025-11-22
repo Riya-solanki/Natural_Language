@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1507 | label: meter | g:0.306 m:0.5 ---
+
+bhavān īhitakṛn nityaṃ tvaṃ himānīgiristhitaḥ ।
+ataḥ śaṃkara evāsi sadā skandaḥ paraṃ na te ।।

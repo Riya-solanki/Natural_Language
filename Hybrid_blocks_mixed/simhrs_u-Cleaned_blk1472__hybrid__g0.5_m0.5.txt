@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1472 | label: hybrid | g:0.5 m:0.5 ---
+
+ity atra vasiṣṭhena raghu-kuṭumbasya rāmacandrādi-sat-puruṣotpatti-sthānatayā tallakṣaṇa-bahu-māna-prāpti-kathanād bhāṣaṇam ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1800 | label: hybrid | g:0.455 m:0.5 ---
+
+brahmaloke ca kiṃ sthānaṃ kaṃ vā yogam upāsta saḥ 
+kaṃ vā dadhāra niyamaṃ sa vibhur bhūtabhāvanaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2178 | label: meter | g:0.194 m:0.5 ---
+
+tasya cintayatas tv evaṃ pātālam agaman manaḥ 
+yatra te garbhaśayanāḥ ṣadgarbhā nāma dānavāḥ ।।

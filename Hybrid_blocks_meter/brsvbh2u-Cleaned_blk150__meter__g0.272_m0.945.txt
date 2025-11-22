@@ -1,0 +1,4 @@
+--- source: brsvbh2u-Cleaned.txt | block: 150 | label: meter | g:0.272 m:0.945 ---
+
+bhinnakālayorādhārādheyabhāvaḥ ।
+tathā ca kṣaṇikatvahānirityāhakṣaṇikatvābhyupagamācceti ।।

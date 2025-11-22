@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 466 | label: grammar | g:0.604 m:0.5 ---
+
+sarvābhāsāvabhāso yo vimarśavalito akhilam aham etad iti staumi tāṃ kriyāśaktim īśa te ।।

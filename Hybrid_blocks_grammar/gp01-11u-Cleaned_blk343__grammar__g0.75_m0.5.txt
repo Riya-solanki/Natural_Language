@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 343 | label: grammar | g:0.75 m:0.5 ---
+
+[] yasminn udīcī-kuṭṭima-taṭa-ghaṭitām avācī-mukhatayā vibhrājinīṃ rājim adhikṛtya virājamānaḥ śrī-vraja-rājas tasya tu savya-tat-taṭa-ghaṭitāṃ prācī-mukhatayā śrī-nidhānāṃ śreṇim āśritya datta-sukha-samājaḥ śrī-vraja-yuva-rājas tathāpasavyatas tat-taṭa-gata-kuḍya-sanīḍa-ghaṭitāṃ prācīmukhatayā sukha-karīm āvalim āsādya param ahitaḥ kṣiti-surottama-samūha-sahitaḥ purohitaḥ samya-virājate sma । tatrāvācī-kuṭṭima-gatāś ca kecid ābhīra-vīrā virājante sma ।

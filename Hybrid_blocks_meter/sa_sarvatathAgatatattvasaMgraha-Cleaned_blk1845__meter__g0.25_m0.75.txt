@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1845 | label: meter | g:0.25 m:0.75 ---
+
+athātaḥ saṃpravakṣyāmi mahāmaṇḍalamuttamam ।
+vajradhātupratīkāśaṃ jagadvinayaṃ saṃjñitaṃ ।।

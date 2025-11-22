@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 202 | label: meter | g:0.351 m:0.565 ---
+
+prajñayā na bhave sthānaṃ kṛpayā na śame sthitiḥ ।
+anupāyena dūratvam upāyenāvidūratā ।।

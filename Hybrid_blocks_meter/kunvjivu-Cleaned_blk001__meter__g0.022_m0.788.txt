@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1 | label: meter | g:0.022 m:0.788 ---
+
+śrīmadrājānakakuntakaviracitaṃ vakroktijīvitam
+prathamonmeṣaḥ

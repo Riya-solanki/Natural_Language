@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 663 | label: meter | g:0.194 m:0.625 ---
+
+{atipelavamatiparimitavarṇaṃ laghutaramudāharati śaṭhaḥ ।
+paramārthataḥ sa hṛdayaṃ vahati punaḥ kālakūṭaghaṭitamiva ।।}

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1981 | label: meter | g:0.25 m:0.625 ---
+
+teṣu rakṣoviṣavyālavyādhighnānyaghahāni ca ।
+prādurbhavanti ratnāni tathaiva viguṇāni ca ।।

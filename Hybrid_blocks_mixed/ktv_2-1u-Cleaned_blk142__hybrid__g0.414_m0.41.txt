@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 142 | label: hybrid | g:0.414 m:0.41 ---
+
+bhavanti kecit karmaśabdāḥyāgaḥ yajanam ijyā ity udāhartavye tatsāmānādhikaraṇyasiddhaśyenaikatrikādyudāharaṇaṃ yāgādikaraṇatvacodanottarakālabhāvikarmaśabdatvena pāratantryāt sujñānam ।
+svatantrāṇāṃ kathaṃcid api bhāvārthatvāśaṅkāsaṃbhavāt ।
+yāgādayo hi svātantryeṇāpi kadācid anumānād bhāvārthāśaṅkāviṣayāḥ syur iti ।

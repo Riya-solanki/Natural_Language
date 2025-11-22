@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 131 | label: hybrid | g:0.444 m:0.5 ---
+
+rūpasya darśanu adarśanu vedanāye saṃjñāya darśanu adarśanu cetanāye 
+vijñānacittamanudarśanu yatra nāsti aya dharmadarśanu nidiṣṭu tathāgatena ।।

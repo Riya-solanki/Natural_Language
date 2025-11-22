@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4459 | label: hybrid | g:0.265 m:0.493 ---
+
+ṛksāmayajuṣāṃ satyam atharvaṇi ca yan matam 
+tanmayaṃ viddhi māṃ vipra dhṛto ahaṃ tair mayā ca te ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 421 | label: grammar | g:0.75 m:0.5 ---
+
+[] kṛṣṇas tu prema-puṣitena ghuṣitena tena vākyena spaṣṭam api teṣām api nija-bhāvam astariṣṭa । saj-jātānāṃ lajjā kevalaṃ balāya sajjatīti ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1247 | label: meter | g:0.251 m:0.623 ---
+
+gopāyanaṃ yaḥ kurute jagataḥ sārvalaukikam 
+sa kathaṃ gāṃ gato viṣṇur gopatvam agamad vibhuḥ ।।

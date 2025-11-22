@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4337 | label: meter | g:0.306 m:0.5 ---
+
+raso hyasya na raktāya māṃsāya kurute tu tat ।
+upaṣṭabdhaḥ samantācca kevalaṃ vartate kṣayī ।।

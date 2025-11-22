@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1427 | label: meter | g:0.25 m:0.5 ---
+
+yā bhaktiḥ sā bhavec chaktiḥ śaktyā sambhavate kramaḥ 
+kramāt sambhavate vācā vācayājñā pravartate ।।

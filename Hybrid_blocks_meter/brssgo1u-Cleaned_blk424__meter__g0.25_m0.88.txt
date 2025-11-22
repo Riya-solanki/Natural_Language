@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 424 | label: meter | g:0.25 m:0.88 ---
+
+naiṣa doṣaḥ ।
+yānniyacchati tatkāryakaraṇaireva, tasya kāryakaraṇattvopapatteḥ ।
+tasyāpyanyo niyantetyanavasthādoṣaśca na saṃbhavati, bhedābhāvāt ।
+bhede hi satyanavasthādoṣopapattiḥ ।
+tasmātparamātmaivāntaryāmī ।।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 219 | label: hybrid | g:0.497 m:0.5 ---
+
+yad antar yasya sarvaṃ tat tasya jānāty abhīpsitaḥ ।
+sa eva ced vasaty antas taṃ tu jānīta kaḥ paraḥ ।। [anuṣṭubh]

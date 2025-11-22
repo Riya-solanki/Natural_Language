@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 100 | label: grammar | g:0.552 m:0.5 ---
+
+mām ākāśapraṇihitabhujaṃ nirdayāśleṣahetor labdhāyās te katham api sati svapnasaṃdarśaneṣu ।
+paśyantīnāṃ na khalu bahuśo na sthalīdevatānāṃ muktāsthūlās tarukisalayeṣv asruleśāḥ patanti ।।

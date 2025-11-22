@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 499 | label: grammar | g:0.594 m:0.25 ---
+
+svarṇarūpyayoḥ śodhanamāha tanurityādi ।।
+lavaṇetyādi ।।
+lavaṇāni sauvarcalādīni kṣārāḥ svarjikādayaḥ amlāḥ jambīrādayaḥ ravirarkaḥ snuhī sudhā tayoḥ kṣīrāṇi etaiḥ tanurapi sūkṣmamapi patraṃ dalaṃ sāralohākhyayoḥ iti śeṣaḥ liptaṃ dhmātaṃ sat bahuśo'nekavāraṃ nirguṇḍīrase saṃsiktaṃ śephālīdrave siñcitaṃ kuryāt ।।
+tarhi svarṇaṃ rūpyaṃ ca raktaṃ āraktachaviyutaṃ bhavedityarthaḥ caśabdācchudhyati ।।

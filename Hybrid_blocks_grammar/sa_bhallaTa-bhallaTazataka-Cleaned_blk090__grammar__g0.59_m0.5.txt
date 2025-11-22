@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 90 | label: grammar | g:0.59 m:0.5 ---
+
+kilaikaculukena yo munir apāram abdhiṃ papau sahasram api ghasmaro avikṛtam eṣa teṣāṃ pibet 
+na sambhavati kiṃ tv idaṃ bata vikāsidhāmnā vinā sad apy asad iva sthitaṃ sphuritam anta ojasvinām ।।

@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 23 | label: grammar | g:0.611 m:0.5 ---
+
+dūre tāni dhanāni yeṣu malanaṃ mānasya saṃjāyate bandhuḥ sa astu sukhī mukhe madhumayo yo antaś ca māyāmayaḥ
+bhogāḥ pralayaṃ prayāntu katham apy aucitya-bhaṅgena ye yāyātur nidhanaṃ varaṃ nidhuvanaṃ veśyāsu mūlyena yat ।।

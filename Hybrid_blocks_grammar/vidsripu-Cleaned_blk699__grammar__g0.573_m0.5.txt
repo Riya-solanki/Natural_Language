@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 699 | label: grammar | g:0.573 m:0.5 ---
+
+yad etan netrāmbhaḥ patad api samāsādya taruṇī- kapolavyāsaṅgaṃ kucakalaśam asyāḥ kalayati ।
+tataḥ śroṇībimbaṃ vyavasitavilāsaṃ tad ucitaṃ svabhāvasvacchānāṃ vipad api sukhaṃ nāntarayati ।।

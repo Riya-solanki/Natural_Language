@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2385 | label: meter | g:0.306 m:0.5 ---
+
+kṛtakṛtyo viśālo api rājyaṃ kṛtvā divaṃ yayau ।
+ye asmatkule tu pitaro luptapiṇḍodakakriyāḥ ।।

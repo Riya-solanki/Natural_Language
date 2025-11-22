@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 728 | label: meter | g:0.056 m:0.521 ---
+
+{tvamevaṃsaundaryā sa ca ruciratāyāḥ paricitaḥ
+kalānāṃ sīmānaṃ paramiha yuvāmeva bhajathaḥ ।
+api dvandvaṃ diṣṭyā taditi subhage saṃvadati vām
+ataḥ śeṣaṃ yatsyājjitamiha tadānīṃ guṇitayā ।।}

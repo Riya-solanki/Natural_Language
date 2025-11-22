@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 191 | label: meter | g:0.306 m:0.5 ---
+
+kṛṣṇo raktaḥ pīto yo abhraḥ syāt sthūlatārakārahitaḥ ।
+vajrī sa pītakarmaṇi pātitasattvo ghano yojyaḥ ।।

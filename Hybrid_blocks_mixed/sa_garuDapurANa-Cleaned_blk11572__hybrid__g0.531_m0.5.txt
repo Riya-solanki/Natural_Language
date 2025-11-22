@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11572 | label: hybrid | g:0.531 m:0.5 ---
+
+hastau ca me sārthakāvadya jātau agre kṛtvā hastaśabdaṃ murāreḥ ।
+evaṃ vadantī prīṇayantī ca devaṃ jagāmasā stotravacaḥ kadambaiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 959 | label: meter | g:0.25 m:0.625 ---
+
+vajravidyādharābandhaḥ samayā ayaṃ mahātmanaḥ ।
+yastu krodho nirīkṣeta stheyantasya purastathā ।।

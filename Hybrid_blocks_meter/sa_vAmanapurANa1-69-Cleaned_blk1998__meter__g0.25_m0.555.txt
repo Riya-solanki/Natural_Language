@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1998 | label: meter | g:0.25 m:0.555 ---
+
+gadayā mūrdhni bāṇaṃ hi nijaghāna mahābalaḥ ।
+vedanārtto mumocātha sucakrākṣaṃ mahāsuraḥ ।
+sa cāpi tena saṃyukto vrīḍāyukto mahāmanāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6151 | label: meter | g:0.194 m:0.5 ---
+
+pravṛttaṃ ca nivṛttaṃ ca dvividhaṃ karma vaidikam 
+tābhyām ubhābhyāṃ puruṣaiḥ sarvamūrtiḥ sa ijyate ।।

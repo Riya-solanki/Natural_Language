@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5472 | label: meter | g:0.102 m:0.555 ---
+
+parasparam iṣūn dīptān kāyatrāṇavibhedakān 
+kṛṣṇaś ciccheda bāṇais tān bāṇena prahitān śarān 
+bibheda keśavaṃ bāṇo bāṇaṃ vivyādha cakrabhṛt ।।

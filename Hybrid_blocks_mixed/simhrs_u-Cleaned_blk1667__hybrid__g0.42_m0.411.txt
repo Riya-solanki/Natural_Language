@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1667 | label: hybrid | g:0.42 m:0.411 ---
+
+atha tulyārthakaḥ-
+rūpakair upamābhir vā tulyārthābhiḥ prayojitaḥ । apratyakṣārtha-saṃsparśas tulya-tarka itīritaḥ ।।

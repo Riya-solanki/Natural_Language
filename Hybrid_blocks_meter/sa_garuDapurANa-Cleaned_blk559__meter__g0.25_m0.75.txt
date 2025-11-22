@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 559 | label: meter | g:0.25 m:0.75 ---
+
+vāgindriyavihīnaṃ ca prāṇidharṃmavivarjitam ।
+pādendriyavihīnaṃ ca vāgdharmaparivarjitam ।
+pāyūpasthavihīnaṃ ca sarvaiṃndriya vivarjitam ।।

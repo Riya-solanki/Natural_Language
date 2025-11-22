@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 655 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ cetanāṃs tathā vitatha-cetanān vidhāyācetanān api cetanān ivācaritum ārabhate sma । acala-maryādayā paryāptāḥ sphuṭam amūr ākraṣṭum acetanatām atikramyāpi duḥśakā iti ।

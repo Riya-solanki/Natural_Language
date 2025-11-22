@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 902 | label: meter | g:0.306 m:0.625 ---
+
+tato brahma ciraṃ dhyātvā jñātvā devaṃ maheśvaram ।
+hastirupeṇa tiṣṭhantaṃ munibhirmānasaiḥ stutam ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 240 | label: hybrid | g:0.465 m:0.5 ---
+
+yatha rājaputra dhanadāyaku arthakāmo sarveṣu śreṣṭha bhavate abhigāminīye 
+sa hyeṣa etarahi sattva pramocayāti prāgeva rājyasthitu bheṣyati paṭṭadhārī ।।

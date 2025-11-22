@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 196 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha tasmāl labdhavismaye, punar akasmād akhilaśubhapadyāni tadīya-padanalinayor amalināni padāni dadhānā, vasudhā sudhām iva sudhāmāvaliṃ tāsām anyāsām api tadapratītispṛśi dṛśi kirati sma, yāni prekṣya cāmūbhir utprekṣyate sma-

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4956 | label: meter | g:0.194 m:0.625 ---
+
+yathāhaṃ śoṇitādigdho bhṛśārto vraṇapīḍitaḥ 
+bhaktānāṃ nṛtyatām evaṃ putrajanma bheved bhava ।।

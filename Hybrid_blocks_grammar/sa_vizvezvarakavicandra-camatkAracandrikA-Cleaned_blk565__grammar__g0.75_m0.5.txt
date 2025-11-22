@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 565 | label: grammar | g:0.75 m:0.5 ---
+
+tatra karteti pade tṛcpratyayatṛnpratyayayoḥ śleṣaḥ । vairivipattīnāṃ karteti tṛcpratyayaḥ । saṃpadaṃkarteti tṛnpratyayaḥ । anyathā kṛdyogaṣaṣṭhyāvaśyaṃbhāvitvāttadubhayavibhaktisaṃbaṃdhāya pratyayadvayasya vivakṣitatvāt tathokto ayam ।

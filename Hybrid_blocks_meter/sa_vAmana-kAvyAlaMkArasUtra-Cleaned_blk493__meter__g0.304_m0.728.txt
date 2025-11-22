@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 493 | label: meter | g:0.304 m:0.728 ---
+
+।।
+mandaṃ mandamityaprakārārthatve ।।
+mandaṃ mandaṃ nudati pavanaḥ

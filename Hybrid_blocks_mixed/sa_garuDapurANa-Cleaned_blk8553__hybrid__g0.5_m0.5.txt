@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8553 | label: hybrid | g:0.5 m:0.5 ---
+
+vācaiva yatkṛtaṃ karma kṛtaṃ caiva tu kāyikam ।
+mānasaṃ ca tathā karma kṛtaṃ bhuṅkte śubhāśubham ।।

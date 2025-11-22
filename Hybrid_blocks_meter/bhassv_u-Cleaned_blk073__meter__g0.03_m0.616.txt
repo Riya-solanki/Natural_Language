@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 73 | label: meter | g:0.03 m:0.616 ---
+
+{padmāvatī} -
+{ātmagatam} mama hiaeṇa evva saha mantidaṃ 
+[mama hṛdayenaiva saha mantritam । ]

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1274 | label: grammar | g:0.66 m:0.495 ---
+
+kiṃ brūmo harim asya viśvam udare kiṃ vā phaṇāṃ bhoginaḥ śete yatra hariḥ svayaṃ jalanidheḥ so apy ekadeśe sthitaḥ ।
+āścaryaṃ kalaśodbhavaḥ sa jaladhir yasyaikahastodare gaṇḍūṣīyati paṅkajīyati phaṇī bhṛṅgīyati śrīpatiḥ ।।

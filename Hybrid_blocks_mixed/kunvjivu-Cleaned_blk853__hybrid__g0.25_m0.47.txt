@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 853 | label: hybrid | g:0.25 m:0.47 ---
+
+vādīnāṃ parigaṇanamatra daṇḍinā vihitamiti na punarvidhīyate ।
+seyamutprekṣā varṇanīyasya svabhāvavisaṃvādasundaraṃ kamapyatiśayamullāsayati ।
+kavipratibhāsāparaparyāyaprāyāṇāmanyeṣāmapi bhūṣaṇānāṃ keṣāñcidiyaṃ sārasvarūpamāsūtrayantī prathamollekhakāraṇatāṃ svayameva samākrāmati, tannibandhanatvādvicchittiviśeṣānām ।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 786 | label: grammar | g:0.656 m:0.5 ---
+
+unmīlyākṣi sakhīr na paśyasi na cāpy uktā dadāsy uttaraṃ no vetsīdṛśam atra nedṛśam imāṃ śūnyām avasthāṃ gatā ।
+talpādṛśyakaraṅkapañjaram idaṃ jīvena liptaṃ manāṅ muñcantī kim u kartum icchasi kuru premānyadeśagate ।।

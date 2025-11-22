@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1000 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha tatra parama-śarmaṇā gamyamāna-samaya-vraje pūrvavad vraje krīḍā-ratayor api tayor vana-didṛkṣā punar atīva vilakṣaṇā jātā । tataś ca pratidinam api gavāvanāya vanāya prayātena tātena samaṃ samantata eva vrajataḥ sma । yatra-

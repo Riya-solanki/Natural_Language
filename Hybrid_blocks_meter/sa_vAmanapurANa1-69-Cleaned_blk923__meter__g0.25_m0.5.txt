@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 923 | label: meter | g:0.25 m:0.5 ---
+
+kauśikā rātrisamayaṃ buddhvā niragaman kila ।
+tān vāyasāstadā jñātvā divā nighnanti kauśikān ।।

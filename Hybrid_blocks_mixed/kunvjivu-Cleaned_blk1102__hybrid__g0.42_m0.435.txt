@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1102 | label: hybrid | g:0.42 m:0.435 ---
+
+atra varṇanīyātmā sūkṣmo na punaralaṅkāraṇam, kasmātsākṣādabhidhayā vaktavyārthastathāvidhayā yuktyā pratipādyate ।
+leśasyodāharaṇaṃ yathā

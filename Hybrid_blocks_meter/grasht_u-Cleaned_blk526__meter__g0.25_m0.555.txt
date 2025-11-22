@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 526 | label: meter | g:0.25 m:0.555 ---
+
+mākṣika sattva special alchem potency
+hitvā mākṣikasatvaṃ nānyeṣāṃ śaktirasti lohaghnī ।
+na patati tāvatsatvaṃ bhastrānte na yāvad āhriyet ।।

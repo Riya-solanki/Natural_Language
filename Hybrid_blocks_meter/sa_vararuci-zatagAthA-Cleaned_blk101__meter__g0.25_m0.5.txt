@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 101 | label: meter | g:0.25 m:0.5 ---
+
+ye kleśarogiṇo bhuktvā na ca saddharmabheṣajam ।
+pramattā viṣayāsaktā bhavābdhiṃ na taranti te ।।

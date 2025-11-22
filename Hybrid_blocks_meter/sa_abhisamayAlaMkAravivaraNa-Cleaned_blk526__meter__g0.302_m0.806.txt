@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 526 | label: meter | g:0.302 m:0.806 ---
+
+tathā karmāpyanucchinnamasyāsaṃsāramiṣyate ।
+gatīnāṃ śamanaṃ karmaṃ saṃgrahe ca caturvidhe ।।

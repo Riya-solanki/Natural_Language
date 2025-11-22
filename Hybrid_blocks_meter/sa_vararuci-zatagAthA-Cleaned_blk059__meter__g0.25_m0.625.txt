@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 59 | label: meter | g:0.25 m:0.625 ---
+
+abhracchāyā khale prītiḥ siddhamannaṃ ca yoṣitaḥ ।
+tṛṇāgnirhimabinduśca ṣaḍete budbudopamāḥ ।।

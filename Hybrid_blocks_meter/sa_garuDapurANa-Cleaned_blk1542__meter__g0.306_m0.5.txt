@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1542 | label: meter | g:0.306 m:0.5 ---
+
+dadyācchrutāya maitrīṃ ca yāti nityaṃ ca rājabhiḥ ।
+dravyārthaṃ śatruṇā nāśaṃ saṃgrāme cāpi saṃvrajet ।।

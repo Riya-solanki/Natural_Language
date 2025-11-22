@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 656 | label: grammar | g:0.583 m:0.5 ---
+
+atrāha- yadi tarhyeka eva sarveṣāṃ bhūtānāmantarātmā syātkathamanujñāparihārau syātāṃ lokikau vaidikau ceti ।

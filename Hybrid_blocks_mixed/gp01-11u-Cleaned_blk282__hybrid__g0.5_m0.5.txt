@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 282 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha puraskṛtopanandeṣu vrajajana-vṛndeṣu tatra jñāpita-nijānandeṣu tathā teṣu sūteṣu ca kṛta-sarva-kleśa-varjaneṣu bhojya-bhogya-yogya-vastubhiḥ prastuta-visarjaneṣu madhyāhnaḥ so' yam ahnāya vyatīta iti rājñe vijñāpya vijñāta-sakala-tattvaḥ śrīmān mahā-sattvaḥ śrīpatir api śrī-rāmādi-sahita-gatis tat-tan-namanādi-kramān niṣkramya prasthitavān । tatra ca,

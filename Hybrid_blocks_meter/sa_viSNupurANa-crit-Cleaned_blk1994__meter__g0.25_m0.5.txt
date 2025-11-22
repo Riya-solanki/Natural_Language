@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1994 | label: meter | g:0.25 m:0.5 ---
+
+yaḥ śvetasyottare śailaḥ śṛṅgavān iti viśrutaḥ 
+trīṇi tasya tu śṛṅgāṇi yair asau śṛṅgavān smṛtaḥ ।।

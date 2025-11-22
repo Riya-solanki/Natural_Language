@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 311 | label: hybrid | g:0.486 m:0.5 ---
+
+kṣamamāṇu eva puna citta upāditavyo narakeṣu tiryayamaloki aneka duḥkhā 
+anubhūya kāmaguṇahetu akāmakārā kasmā hu adya na kṣameya nidāna bodhau ।।

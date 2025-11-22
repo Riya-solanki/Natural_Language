@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 903 | label: meter | g:0.25 m:0.5 ---
+
+yaduṃ ca turvasuṃ caiva devayānī vyajāyata 
+druhyuṃ cānuṃ ca pūruṃ ca śarmiṣṭhā vārṣaparvaṇī ।।

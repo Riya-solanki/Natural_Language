@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10110 | label: hybrid | g:0.521 m:0.5 ---
+
+vāyoḥ pratīkaṃ yadi vipravaryaiḥ pratiṣṭhitaṃ cennamanaṃ hi kāryam ।
+naivedyaśeṣeṇa hareśca viṣṇoḥ pūjā kṛtā cenna hi doṣaleśaḥ ।।

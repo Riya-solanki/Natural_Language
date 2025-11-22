@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 325 | label: meter | g:0.25 m:0.583 ---
+
+manor vaivasvatasyaite vartante sāṃprate antare 
+ikṣvākupramukhāś caiva daśa putrā mahātmanaḥ ।। 
+manoḥ samabhavad rājan dikṣu sarvāsu bhārata । 
+eteṣāṃ kīrtitānāṃ tu maharṣīṇāṃ mahaujasām 
+rājan putrāś ca pautrāś ca dikṣu sarvāsu bhārata ।।

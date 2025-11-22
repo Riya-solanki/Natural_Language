@@ -1,0 +1,7 @@
+--- source: brssbh1u-Cleaned.txt | block: 415 | label: meter | g:0.25 m:0.969 ---
+
+saṃdṛbdhani saṃgrathitāni ।
+sāmānādhikaraṇyāt vicitra ātmeti saṃbandhaḥ ।
+vikāre anṛte kalpite abhisaṃdho abhimāno yasya ।
+sinoti badhnātīti setuḥ ।
+padārthaikadeśo vidhāraṇamityarthaḥ ।

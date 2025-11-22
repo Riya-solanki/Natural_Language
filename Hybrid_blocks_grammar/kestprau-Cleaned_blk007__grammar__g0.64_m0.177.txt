@@ -1,0 +1,15 @@
+--- source: kestprau-Cleaned.txt | block: 7 | label: grammar | g:0.64 m:0.177 ---
+
+akāraṇamakāryaṃ ca kūṭasthacaitanyarūpaḥ puruṣaḥ atrāyaṃ puruṣaḥ svayaṃ jyotiriti śrutyā tāvat svaprakāśamātmano abhidhīyate svaprakāśaṃ ca vijñānameva tenātmanaḥ svaprakāśatvamabhidadhatīyaṃ śrutirvijñānātmakatāṃ puruṣasyāvedayati ।
+na ca kṣaṇikasya jñānasya nityapuruṣātmakatvaṃ sambhavatīti jñānasya kṣaṇabhaṅguratvāsiddheḥ vināśavyavahārasya tava ghaṭākāśadivināśavyavahāravadaupādhikatvenāpyupapatteḥ puruṣātiriktacaitanyasvīkartustavāpi mate jñānasya kṣaṇikatve mānābhāvaḥ anyathā kālāntare anubhūtasmaraṇānupapattiḥ ।
+na ca saṃskāro dvāraṃ tatkalpanāpekṣayā jñānasya sthairyakalpanāyāṃ lāghavāt nityatvāccāsau na kasyacidvikāraḥ na vā kāraṇaṃ svaprakāśatvāt yadi hi svaprakāśasyāpyasya prakṛtitvamāśrīyate tarhyetadvikṛtitvenābhimatasyāpi svaprakāśatvamasya vā jaḍatvamāpadyeta samānayoreva prakṛtivikṛtibhāvopalambhāt bhedāgrahācca niṣkriyepi puruṣe kartṛtvābhimānaḥ evaṃ sukhaduḥkhādivyavahāropi tathāhi pariśuddhacaitanyavigrahaḥ prakṛtivikṛtibhāvānapetataṭasthaḥ puṣkarapalāśavannirlepo apyantaḥkaraṇākārapariṇataprakṛtitādātmyamavivekalakṣaṇamavidyayā pratipadyate tataścetaretarādhyāsādantaḥkaraṇāvṛttīnāṃ duḥkhādīnāṃ puruṣe puruṣadharmāṇāṃ ciccaitanyādīnāmantaḥkaraṇe adhyāsādahaṃ duḥkhītyādivyavahāro bhavatīti ।
+avidyānāmātāttvikī khyātiḥ sā ca tamoguṇodrekādāvirbhavantī viviktayostādātmyamavabhāsayati ।
+tataścottareṣāmasmitārāgadveṣābhiniveśānāṃ kleśaśabdābhidheyānāṃ heturavidyeti gīyate ।
+tatsiddhaṃ nirlepa evāyamiti ।
+asaṅgo hyayamiti śruterupapadyate ca ।
+na ca kopyasya vyāpāra iti ālocanaṃ tāvadindriyavyāpāraḥ vikalpastu manasaḥ abhimānohaṃkārasya kṛtyadhyavasāyo buddheḥ ।
+atha kṛtyadhyavasāyaḥ kṛtimattayā jñānaṃ tatkathamacetanāyā buddheriti buddhiraṃśatrayavatī puruṣoparāgo viṣayoparāgo vyāpārāveśaśceti ।
+bhavati hi mamedaṃ kartavyamiti tatra mametyaṃśaścetanasya darpaṇanirmalāyā buddheḥ pratibimba upadhānaṃ taccātāttvikameva caitanyena buddhervāstavasambandhābhāvāt yathā darpaṇaṃ mukhasambandhamantareṇāpi puruṣabhramastadvadihāpi ।
+idamiti viṣayopadhānaṃ tacca vāstavameka indriyapraṇālikayā buddhau jñānarūpaviṣayasambandhāt darpaṇasyeva niḥśvāsābhihatasya malinimā pāramārthikaḥ puruṣoparāgaḥ viṣayoparāgamāhimnā ca kṛtimattayādhyavasāyaḥ ayameva vyāpārāveśaḥ ।
+atha jñānameva caitanyaṃ kathamanayorbheda iti ucyate kṛtyadhyavasāyalakṣaṇavyāpāraviśiṣṭā buddhirindriyapraṇālikayā buddherviṣayasya ghaṭādeḥ sambandho vṛttiviśeṣastadeva jñānaṃ viṣayoparāgeṇa saha yaḥ puruṣoparāgasyātāttvikaḥ sambandhaḥ sa upalabdhiḥ yathā darpaṇaniṣṭhā malinimā darpaṇapratibimbitamukhe dṛśyate tatheti yāvat ।
+tathā ghaṭamahaṃ jānāmītyanuvyavasāyākhyopalabdhiriti vibhāvanīyam ।

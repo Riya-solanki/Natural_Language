@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 151 | label: meter | g:0.306 m:0.5 ---
+
+hṛtaṃ rājyaṃ na duḥkhāya mama putrasya keśava ।
+prapannadāyavibhraṃśo bādhāṃ me kurute hṛti ।।

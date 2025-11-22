@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 91 | label: meter | g:0.306 m:0.5 ---
+
+punaḥpunarjanmasahasrahetur malīmasaḥ snehasamo asti nānyaḥ ।
+puṃsaḥ pradīpasya ca yaḥ karoti sevonmukhatvaṃ gṛhasaṃvibhāge ।।

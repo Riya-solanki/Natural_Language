@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10170 | label: meter | g:0.306 m:0.5 ---
+
+praleya samanuprāpte jīvāḥ sa yānti māmakāḥ ।
+virājṛpe hareḥ saṃti tadā te ca hyanekadhā ।।

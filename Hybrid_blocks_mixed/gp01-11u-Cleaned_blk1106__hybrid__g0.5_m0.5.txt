@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1106 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evaṃ bhavya-prasavyam apy upalabhya sphuṭam asabhyatayā śīghram asau baka-bhrātṛkaḥ kṛṣṇa-bhrātṛkāṇāṃ teṣāṃ purataḥ pracaran pracura-tarāṅgam uraṅgam arūpam āsthāya sthitaḥ । kintv athāsau tathāsīd yathātma-pathādhikṛta-prathā-calatayā prathayāmāse । narmaṇā nāga-dharmatām upadiśadbhir amībhir ūce ca-

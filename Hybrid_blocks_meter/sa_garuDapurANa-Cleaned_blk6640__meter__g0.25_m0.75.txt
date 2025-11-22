@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6640 | label: meter | g:0.25 m:0.75 ---
+
+purāṇaṃ dharmaśāstrañca vedāstvaṅgāni yanmune ।
+nyāyaḥ śaunaka mīmāṃsā āyurvedārthaśāstrakam ।
+gāndharvaśca dhanurvedo vidyā hyaṣṭādaśasmṛtāḥ ।।

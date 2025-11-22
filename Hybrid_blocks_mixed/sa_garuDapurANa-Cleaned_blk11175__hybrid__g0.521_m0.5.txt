@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11175 | label: hybrid | g:0.521 m:0.5 ---
+
+tadā naiva hyātmahatyādidoṣāḥ strīṇāmevaṃ nirṇayoyaṃ hi śāstre ।
+yadbhartāro na vijānanti viṣṇuṃ tāsāṃ saṃgo naiva kāryaḥ kadāpi ।।

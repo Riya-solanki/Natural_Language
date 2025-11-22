@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3934 | label: meter | g:0.25 m:0.5 ---
+
+vṛṣṇayo api jarāsaṃdhaṃ bhaṅktvā tāṃś cāpi pārthivān 
+jitvā tu sātyakirvīraḥ śiśupālaṃ mahābalam । 
+baladevo api vārṣṇeyo jitvā magadhapuṃgavam । 
+te api vīrā yathāyogaṃ jitvā tān yādavottamāḥ । 
+prayayur dvārakāṃ hṛṣṭāḥ puraskṛtya halāyudham ।।

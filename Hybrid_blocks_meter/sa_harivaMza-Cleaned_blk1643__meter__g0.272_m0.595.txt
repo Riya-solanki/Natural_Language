@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1643 | label: meter | g:0.272 m:0.595 ---
+
+tābhyām udbhrāntameghābhyāṃ pravṛddhābhyāṃ mahāmṛdhe 
+dagdhā sā pārvatī māyā bhasmabhūtā nanāśa ha ।।

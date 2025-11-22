@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3539 | label: grammar | g:0.646 m:0.5 ---
+
+sagaro apy avagamyāśvānusāri tat putrabalam aśeṣaṃ paramarṣikapilatejasā dagdham aṃśumantam asamañjasaḥ putram aśvānayanāya codayām āsa ।।

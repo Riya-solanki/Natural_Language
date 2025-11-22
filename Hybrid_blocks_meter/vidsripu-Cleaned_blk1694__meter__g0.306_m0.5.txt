@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1694 | label: meter | g:0.306 m:0.5 ---
+
+āstāṃ sakaṇṭakam idaṃ vasudhādhipatyaṃ trailokyarājyam api deva tṛṣṇāya manye ।
+niḥśaṅkasuptahariṇīkulasaṃkulāsu cetaḥ paraṃ valati śailavanasthalīṣu ।।

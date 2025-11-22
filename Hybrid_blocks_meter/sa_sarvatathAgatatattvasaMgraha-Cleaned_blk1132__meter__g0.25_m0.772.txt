@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1132 | label: meter | g:0.25 m:0.772 ---
+
+athātra hṛdayāni bhavanti ।
+huṃ aḥ ।।

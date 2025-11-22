@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 274 | label: grammar | g:0.646 m:0.5 ---
+
+te tathetyasyānuśāsanāṃ pratigṛhyābhivādya pradakṣiṇīkṛtya cainaṃ svānsvānālayānabhijagmuḥ । aciragateṣu ca teṣu sahāyeṣu sa mahātmā cintāmāpede ।

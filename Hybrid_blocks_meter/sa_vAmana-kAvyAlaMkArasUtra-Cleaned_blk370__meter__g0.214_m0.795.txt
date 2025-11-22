@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 370 | label: meter | g:0.214 m:0.795 ---
+
+virodhādvibhāvanāyā bhedaṃ darśayitumāha 
+kriyāpratiṣedhe prasiddhatatphalavyaktirvibhāvanā ।।
+kriyāyāḥ pratiṣedhe tasyā eva kriyāyāḥ phalasya prasiddhasya vyaktivibhāvanā । yathā

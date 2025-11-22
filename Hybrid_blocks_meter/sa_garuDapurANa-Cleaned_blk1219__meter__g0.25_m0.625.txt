@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1219 | label: meter | g:0.25 m:0.625 ---
+
+triviṣṭapaṃ ca pañcaite prāsādāḥ sarvayonayaḥ ।
+prathamaścaturaśro hi dvitīyastu tadāyataḥ ।।

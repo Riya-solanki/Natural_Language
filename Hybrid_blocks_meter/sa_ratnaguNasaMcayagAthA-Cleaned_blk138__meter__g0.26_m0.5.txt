@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 138 | label: meter | g:0.26 m:0.5 ---
+
+sāmudriyāya yatha nāvi praluptikāye bhṛtakaṃ manuṣya tṛṇakāṣṭhamagṛhṇamāno 
+vilayaṃ prayāti jalamadhya aprāptatīro yo gṛhṇate vrajati pārasthalaṃ prayāti ।।

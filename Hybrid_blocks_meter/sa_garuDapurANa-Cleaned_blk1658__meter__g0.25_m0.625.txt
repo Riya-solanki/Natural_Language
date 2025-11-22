@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1658 | label: meter | g:0.25 m:0.625 ---
+
+svātī ca vāyudevatyā nakṣatraṃ parikīrtitam ।
+indrāgnidevatā proktā viśākhā vṛṣabhadhvaja ।।

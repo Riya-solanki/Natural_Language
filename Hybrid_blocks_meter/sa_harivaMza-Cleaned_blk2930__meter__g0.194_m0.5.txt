@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2930 | label: meter | g:0.194 m:0.5 ---
+
+atra me śaṅkate buddhir vasudevaṃ prati prabho 
+asya buddhiviśeṣeṇa vayaṃ kātaratāṃ gatāḥ ।।

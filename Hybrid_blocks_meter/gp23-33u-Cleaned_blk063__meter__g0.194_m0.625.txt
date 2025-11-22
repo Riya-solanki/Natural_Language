@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 63 | label: meter | g:0.194 m:0.625 ---
+
+tam eva paramātmānaṃ jāra-buddhyāpi saṅgatāh।
+jahur guṇa-mayaṃ dehaṃ sadyaḥ prakṣīṇa-bandhanāh ।।[BhP ]

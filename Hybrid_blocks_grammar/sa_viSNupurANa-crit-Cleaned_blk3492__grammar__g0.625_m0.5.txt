@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3492 | label: grammar | g:0.625 m:0.5 ---
+
+ity ākarṇya bhagavate kṛtapraṇāmāḥ punar nāgalokam āgatāḥ pannagapatayo narmadāṃ ca purukutsānayanāya codayām āsuḥ ।।

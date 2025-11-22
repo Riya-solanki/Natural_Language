@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 291 | label: grammar | g:0.569 m:0.5 ---
+
+) ityādityādhāramīśvaraṃ vyapadiśyatato bhedenākṣyādhāramīśvaraṃ vyapadiśati - aatha ya eṣo antikṣiṇi puruṣo dṛśyate' iti ।
+atideśaṃ cāsyāmunā rūpādiṣu karoti - atasyaitasya tadeva rūpaṃ yadamuṣya rūpaṃ yāvamuṣya geṣṇau yannāma tannāma'

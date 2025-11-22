@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4103 | label: meter | g:0.25 m:0.687 ---
+
+pulastya uvāca ।
+gate atha tīrthayātrāyāṃ prahlāde dānaveśvare ।
+kurukṣetraṃ samabhyāgād yaṣṭuṃ vairocano valiḥ ।।

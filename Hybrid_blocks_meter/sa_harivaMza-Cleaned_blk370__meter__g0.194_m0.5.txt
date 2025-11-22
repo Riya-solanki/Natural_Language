@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 370 | label: meter | g:0.194 m:0.5 ---
+
+sā tan niravamac chukraṃ nāsikāyā vivasvataḥ 
+devau tasyām ajāyetām aśvinau bhiṣajāṃ varau ।।

@@ -1,0 +1,5 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 778 | label: grammar | g:0.646 m:0.431 ---
+
+ārtīyate sma sahajāny api yāni citraṃ sādhuḥ śiromaṇimayāni vibhūṣaṇāni । teṣūddhṛteṣu sa kṛtārthatayā pramodaṃ nikṣiptabhāra iva bhogapatir jagāma ।। gonā । 
+śvāsānilaiḥ sphuṭaviṣāgnikarākarālair ucchoṣayet samakarān api yaḥ samudrān ।
+kṣāntiṃ priyām iva sakhīm upaguhya tasthau svasthas tam eva ca ripuṃ karuṇāyamānaḥ ।।

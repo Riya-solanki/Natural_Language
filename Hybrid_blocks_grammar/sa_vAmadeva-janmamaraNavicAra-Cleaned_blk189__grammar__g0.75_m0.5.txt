@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 189 | label: grammar | g:0.75 m:0.5 ---
+
+mṛtibhogaḥ yiyāsutā ca dve caramāvasthe tatra mṛtibhogaḥ vicitrā śarīrapīḍā yiyāsutā ātivāhikaśarīrasambaddhā tām eva ca yiyāsutām uddiśya yaṃ yaṃ vāpi smaran bhāvam ।।

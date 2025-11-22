@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 384 | label: hybrid | g:0.306 m:0.425 ---
+
+laḥ karmaṇi ca bhāve cākarmakebhyaḥ ।।
+lakārāḥ sakarmakebhyaḥ karmaṇi kartari ca syurakarmakebhyo bhāve kartari ca ।।

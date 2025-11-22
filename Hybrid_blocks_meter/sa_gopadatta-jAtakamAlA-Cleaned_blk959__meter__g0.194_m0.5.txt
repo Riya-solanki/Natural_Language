@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 959 | label: meter | g:0.194 m:0.5 ---
+
+ye naikāṅgulitarjanām api guroḥ soḍhuṃ samarthā narāḥ
+mānātyunnatamānasāś ca sakalaṃ paśyanty adhastāj jagat ।
+te rāgena kadarthitā dhṛtibhidā pādair hatā yoṣitām
+ājñā mūrdhabhir udvahanti kṛpaṇā mālām ivāmlāyinīm ।।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 495 | label: grammar | g:0.75 m:0.5 ---
+
+"anenānantaryakāriṇo api sarvatathāgatamokṣā api saddharmapratikṣepakā api sarvaduṣkṛtakāriṇo api sarvatathāgatamudrāsādhakā varjasattvadṛḍhībhāvādihaiva janmanyāsu yathābhirucitāṃ sarvasiddhimuttamasiddhiṃ vajrasiddhiṃ vajrasattvasiddhiṃ vā yāvat tathāgatasiddhiṃ vā prāpsyantī- "tyāha bhagavāṃ sarvatathāgatavajrasattvaḥ ।।

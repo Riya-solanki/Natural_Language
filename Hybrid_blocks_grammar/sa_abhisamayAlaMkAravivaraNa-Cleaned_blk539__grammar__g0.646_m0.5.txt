@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 539 | label: grammar | g:0.646 m:0.5 ---
+
+tathyātathyavibhāgayuktivikalajñānodayātsaṃvṛtau saṃsārārṇavapaṅkamagnamanasī jātāḥ sadā dehinaḥ । sarve amī jananīnibandhanakṛtād bījānmayāptācchubhāt sarvākāravarā bhavantu niyataṃ kāyatrayaprāpiṇaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 128 | label: grammar | g:0.562 m:0.5 ---
+
+strīṇāṃ ca stanayor gartād aṣṭātriṃśadadhikāḥ sapeśyo dhamanyo bhavanti iti sauśrutaḥ ।।

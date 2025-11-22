@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 275 | label: grammar | g:0.75 m:0.5 ---
+
+yastu dṛṣṭāntaparidṛṣṭasādhyaviśeṣavirodhasaṃbhave api tadrahitaṃ sādhyamātraṃ hetuḥ sādhayatyeva, tacca viśeṣāntaramākṣipya siddhyatīti vadati, tasya- uṣṇāgniniyatastṛṇādivikāro hime dṛśyamānaḥ śaityapratyakṣavirodhādauṣṇyasaṃbhave apyanuṣṇamevāgniṃ sādhayet, tasmāddharmiviśeṣaviparyayasādhanatvaṃ hetoradūṣaṇameva ।

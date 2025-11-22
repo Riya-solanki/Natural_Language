@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 23 | label: meter | g:0.022 m:0.97 ---
+
+tṛtīyo adhyayaḥ
+prakaraṇa

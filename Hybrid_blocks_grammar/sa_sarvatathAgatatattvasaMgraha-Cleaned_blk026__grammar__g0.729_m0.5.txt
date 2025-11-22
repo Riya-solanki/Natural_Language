@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 26 | label: grammar | g:0.729 m:0.5 ---
+
+atha yāvantaḥ sarvākāśadhātusamavasaraṇāḥ sarvatathāgatakāyavākcittavajradhātavaḥ, te sarve sarvatathāgatādhiṣṭhānena tasmin sattvavajre praviṣṭāḥ । tataḥ sarvatathāgataiḥ sa bhagavān sarvārthasiddhirmahābodhisattvo vajradhāturvajradhāturiti vajranāmābhiṣekeṇābhiṣiktaḥ ।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2209 | label: grammar | g:0.625 m:0.5 ---
+
+bodhisattvaḥ kilānyatamasmin vanapradeśe nānāvidharāgaruciracitrapatraḥ śatapatro babhūva । karuṇāparicayācca tadavastho api na prāṇihiṃsākaluṣāṃ śatapatravṛttimanuvavarta ।

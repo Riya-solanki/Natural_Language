@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7895 | label: meter | g:0.25 m:0.5 ---
+
+manthanaiḥ sādhanairevaṃ paraṃ jñātvā sukhī bhavet ।
+ātmā nityo avyayaḥ satyaḥ sarvagaḥ sarvabhṛnmahān ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1796 | label: meter | g:0.306 m:0.5 ---
+
+kṣuraprābhyāṃ samaṃ pādau dvau ciccheda dvipasya sā ।
+dvābhyāṃ kumbhe jaghānātha hasantī līlayāmbikā ।।

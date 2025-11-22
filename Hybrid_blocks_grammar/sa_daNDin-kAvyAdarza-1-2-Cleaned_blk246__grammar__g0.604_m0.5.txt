@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 246 | label: grammar | g:0.604 m:0.5 ---
+
+jīvitāśā balavatī dhanāśā durbalā mama gaccha tiṣṭha vā kānta svāvasthā tu niveditā ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 770 | label: meter | g:0.37 m:0.539 ---
+
+dṛṣṭīviṣānalamucāṃ svamaṇiprabhādbhiḥ pātālarandhragahanāntavisarpiṇībhiḥ ।
+tesāṃ sa pannagavaraḥ śamayāṃ babhūva vāgambubhiś ca hṛdayāni bhujaṅgamānām ।।

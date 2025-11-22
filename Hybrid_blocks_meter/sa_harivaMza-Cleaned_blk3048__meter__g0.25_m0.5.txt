@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3048 | label: meter | g:0.25 m:0.5 ---
+
+sa taṃ bāhum aśakto vai khādituṃ bhoktum eva vā 
+punar ābhoginaṃ bāhuṃ tadvaktragatam añjasā । 
+kṛṣṇaḥ prasārayāmāsa līlayā dānavaṃ hasan । 
+daśanair mūlanirmuktaiḥ saphenaṃ rudhiraṃ vaman ।।

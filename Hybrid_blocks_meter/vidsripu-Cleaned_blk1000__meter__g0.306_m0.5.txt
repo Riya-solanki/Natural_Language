@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1000 | label: meter | g:0.306 m:0.5 ---
+
+gauratviṣāṃ kucataṭeṣu kapolapīṭheṣv eṇīdṛśāṃ rabhasahāsam ivārabhante ।
+tanvanti vellanavilāsam ivāmalāsu muktāvalīṣu viśadāḥ śaśino mayūkhāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2232 | label: meter | g:0.306 m:0.625 ---
+
+māṃ punaḥ paribhūyaivamāsādayasi yācñayā ।
+jīvitena nu khinno asi paraṃ lokaṃ didṛkṣase ।।

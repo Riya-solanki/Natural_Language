@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 32 | label: grammar | g:0.562 m:0.5 ---
+
+yat tīrthikair jagati janmabhir aprameyair nāsādyate padam iti svamateṣu gītam ।
+buddhyaikajanmikam iti bruvatāṃ vigṛhya yeṣāṃ tvayā nanu kṛtaś caraṇaḥ śiraḥsu ।।

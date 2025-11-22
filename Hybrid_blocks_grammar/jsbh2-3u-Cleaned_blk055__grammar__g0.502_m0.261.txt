@@ -1,0 +1,5 @@
+--- source: jsbh2-3u-Cleaned.txt | block: 55 | label: grammar | g:0.502 m:0.261 ---
+
+( adhikaraṇam । ) (a pā adhi) phalaṃ ca ।।
+phalasyāgneyamaṣṭākapālaṃ nirvapedrukkāma iti ।
+saṃskārasya tu audumbarīṃ prokṣatīti vrīhiprokṣaṇātkarmāntaram; pañcaiva yathānupādeyāni, tathā vājapeyādhikaraṇe kaustubhe prapañcitam ।। iti dvādaśaṃ phalasaṃskāryādhikaraṇam ।।

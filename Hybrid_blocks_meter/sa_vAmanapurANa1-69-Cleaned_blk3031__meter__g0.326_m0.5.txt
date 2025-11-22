@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3031 | label: meter | g:0.326 m:0.5 ---
+
+niśācarā ugramupārcayanti bhaveti puṇyāḥ pitaro namanti ।
+dāso asmi tubhyaṃ hara pāhi mahyaṃ pāpakṣayaṃ me kuru lokanātha ।।

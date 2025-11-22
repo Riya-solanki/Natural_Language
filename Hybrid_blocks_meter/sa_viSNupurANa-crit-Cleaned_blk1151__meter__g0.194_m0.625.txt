@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1151 | label: meter | g:0.194 m:0.625 ---
+
+paṭhyatāṃ bhavatā vatsa sārabhūtaṃ subhāṣitam 
+kālenaitāvatā yat te sadodyuktena śikṣitam ।।

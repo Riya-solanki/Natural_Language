@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11312 | label: meter | g:0.306 m:0.5 ---
+
+ekasya vai lakṣaṇasyāpi viṣṇorlakṣmīrantaṃ naiva samyak prapede ।
+atonantairlakṣaṇaiḥ saṃyutaṃ ca hariṃ cāhurlakṣaṇajñāḥ sadaiva ।।

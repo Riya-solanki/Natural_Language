@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 674 | label: grammar | g:0.551 m:0.433 ---
+
+tad evājihmākṣaṃ mukham aviśadās tā gira imāḥ sa evāṅgākṣepo mayi sarasam āśliṣyati tanum ।
+yad uktaṃ pratyuktaṃ tad apaṭu śiraḥkampanaparaṃ priyā mānenāho punar api kṛtā me navavadhūḥ ।।
+śambūkasya

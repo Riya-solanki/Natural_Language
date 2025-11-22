@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 981 | label: meter | g:0.0 m:1.0 ---
+
+yatprāpya na punarduḥkhayogametyaśivāvaham 
+etatsamastaguhyānāṃ guhyaṃ siddhāmarastutam ।। MT

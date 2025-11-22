@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 534 | label: meter | g:0.306 m:0.5 ---
+
+caṇḍālaśālāṃ vrajata pragalbhān paśyāmi yuṣmān na punar yathāham ।
+sa yācakān nityasamīkṣyakārī provāca roṣasphuritākṣikośaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2923 | label: hybrid | g:0.521 m:0.5 ---
+
+taṃ cāpi jambho vimukhaṃ nirīkṣya bhūtvāgrataḥ prāha na yuktametat ।
+tiṣṭhasva rājāsi carācarasya na rājadharme gaditaṃ palāyanam ।।

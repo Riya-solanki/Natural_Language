@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5919 | label: meter | g:0.25 m:0.625 ---
+
+agnikoṇe aghorāyonmattabhairavāyeti vārāhyai ।
+rakṣaḥ koṇe sārāya kapāline bhairavāya māherndyai ।।

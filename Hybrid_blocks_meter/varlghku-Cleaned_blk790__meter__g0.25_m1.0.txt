@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 790 | label: meter | g:0.25 m:1.0 ---
+
+samastṛtīyāyuktāt ।।
+rathena sañcarate ।।

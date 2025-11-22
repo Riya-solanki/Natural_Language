@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11936 | label: meter | g:0.306 m:0.5 ---
+
+dvitīyenaiva rūpeṇa gaṅgā bhāryā ca śantanoḥ ।
+suṣeṇā vai suṣeṇasya bhāryā sā vānarī smṛtā ।।

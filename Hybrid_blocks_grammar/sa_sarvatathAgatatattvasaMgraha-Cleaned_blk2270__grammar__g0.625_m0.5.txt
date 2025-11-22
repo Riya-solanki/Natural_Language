@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2270 | label: grammar | g:0.625 m:0.5 ---
+
+tato mahāmudrādimudrābandhaṃ śikṣayet । tathaiva siddhayaḥ, evaṃ paṭādiṣviti ।। mudrāyāmapyekamudrāmaṇḍalayogena tathaiva siddhaya iti ।।

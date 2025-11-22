@@ -1,0 +1,14 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5011 | label: grammar | g:0.655 m:0.0 ---
+
+ādityā vasavo rudrā aśvinau marutas tathā 
+gaganaṃ bhūr diśaś caiva salilaṃ jyotir eva ca ।। 
+sarvam etaj jagaddhātā viṣṇur eva na cāparaḥ । 
+eṣa dhātā vidhātā ca saṃhartā kāla eva ca 
+satyaṃ dharmas tapaś caiva brahma caiva sanātanam 
+anantaś caiva nāgānāṃ rudrāṇāṃ śaṃkaraḥ smṛtaḥ । 
+jaṅgamājaṅgamaṃ caiva jagannārāyaṇodbhavaṃ । 
+etasmāc ca jagat sarvaṃ prasūyeta janārdanāt । 
+jagac ca sarvaṃ deveśas taṃ namas kuru bhārata ।। 
+pūjyaś ca satataṃ sarvair devair eṣa sanātanaḥ । pūjyo ayaṃ devadeveśaḥ pūjyair api savāsavaiḥ । ijyaś ca devadeveśas taṃ namaskuru bhārata ।। ādikartā ca bhoktā ca bhūtādir bhūtir eva ca । namaskuru jagannāthaṃ bhūyo bhūyaḥ prabho nṛpa ।। namaskuru sadā viṣṇuṃ yādavaṃ bhūtabhāvanam । namasyāmo jagannāthaṃ devakīṃ ca hariṃ sadā ।। dhyāhi nityaṃ jagannāthaṃ prayatnaparamo bhava । śreyas tava sadā viṣṇur vidhāsyati na saṃśayaḥ ।। namas tasmin samādhatsva mano anudhyāhi tat param । upāsyaś ca sadā viṣṇur manasā rājasattama । namaskuru jagannāthaṃ bhūyo bhūyo jagatpate । vāsudevaṃ sadā dhyāhi keśavaṃ keśisūdanam ।। nārāyaṇam aṇīyāṃsaṃ dhyāhi yatnena sattamam । dhyāto hi sarvapāpāni nāśayiṣyaty asaṃśayam । 
+ityuktaṃ bāṇayuddhaṃ te māhātmyaṃ keśavasya ca 
+vaṃśapratiṣṭhāṃ atulāṃ śravaṇādeva lapsyase ।।

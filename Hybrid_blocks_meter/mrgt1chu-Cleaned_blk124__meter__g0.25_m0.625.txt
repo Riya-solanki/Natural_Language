@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 124 | label: meter | g:0.25 m:0.625 ---
+
+ityādy ajñānamūḍhānāṃ matam āśritya durdhiyaḥ ।
+apavargam abhīpsanti khadyotāt pāvakārthinaḥ ।।

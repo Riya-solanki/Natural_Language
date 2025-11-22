@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2323 | label: meter | g:0.306 m:0.5 ---
+
+sa papraccha kva śukroti tamūcuḥ paricārikāḥ ।
+gataḥ sa bhagavān śukro yājanāya danoḥ sutam ।।

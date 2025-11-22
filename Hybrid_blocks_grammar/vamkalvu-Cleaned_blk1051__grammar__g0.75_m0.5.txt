@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 1051 | label: grammar | g:0.75 m:0.5 ---
+
+uta ūṅ vihita ūkārāntādapi kvacid bhavati । kvāsau pravṛttiḥ ? । aprāṇijāteścārajjvādīnām iti alābūḥ, karkandhūrityudāharaṇam । tena, subhru ! kiṃ saṃbhrameṇa । atar subhruśabda ūṅi siddho bhavati । ūṅi tvasati subhrūriti syāt ।।

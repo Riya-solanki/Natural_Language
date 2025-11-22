@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1000 | label: meter | g:0.194 m:0.5 ---
+
+jahnos tu dayitaḥ putro ajako nāma vīryavān 
+ajakasya tu dāyādo balākāśvo mahīpatiḥ ।।

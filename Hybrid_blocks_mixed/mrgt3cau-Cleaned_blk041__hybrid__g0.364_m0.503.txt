@@ -1,0 +1,6 @@
+--- source: mrgt3cau-Cleaned.txt | block: 41 | label: hybrid | g:0.364 m:0.503 ---
+
+Vṛtti:
+eteṣāṃ deśikādīnāṃ pṛthakpṛthag vidhiniṣedhātmaka ācāro vidhīyate anuśāsyate।
+[deśikācāravidhiḥ]
+atra deśikasya tāvadāha

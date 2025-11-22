@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 12 | label: hybrid | g:0.25 m:0.426 ---
+
+tan na prasmartavyam iti ।
+avismṛtaprāmāṇyo hi bhedādipratipādanam aviśeṣād anarthakaṃ hi syāt iti kriyamāṇaṃ sahate ।
+anyathā hy anarthakaṃ nāmety api pratyavatiṣṭheta ।

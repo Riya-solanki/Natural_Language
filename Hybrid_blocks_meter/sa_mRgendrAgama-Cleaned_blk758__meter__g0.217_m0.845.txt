@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 758 | label: meter | g:0.217 m:0.845 ---
+
+miṣṭānnapracurāṃ bhīkṣāṃ nādadyānnātisaṃskṛtām 
+parihāsādicaturā yatra nāryastato api vā ।।

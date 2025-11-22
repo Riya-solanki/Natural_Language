@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1088 | label: meter | g:0.306 m:0.5 ---
+
+himavadduhituḥ kānta bhairavāya namo astu te ।
+ugrāya ca namo nityaṃ namo astu daśabāhave ।।

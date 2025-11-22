@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 741 | label: grammar | g:0.594 m:0.5 ---
+
+karṇe yan na kṛtaṃ sakhījanavaco yan nādṛtā bandhuvāg yat pāde nipatann api priyatamaḥ karṇotpalenāhataḥ ।
+tenendur durdahanāyate malayajālepaḥ sphuliṅgāyate rātriḥ kalpaśatāyate bisalatāhāro api bhārāyate ।।

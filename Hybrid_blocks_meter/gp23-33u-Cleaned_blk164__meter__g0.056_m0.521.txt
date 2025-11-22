@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 164 | label: meter | g:0.056 m:0.521 ---
+
+kṛtaṃ ca parirambhanaṃ na parihartum īśāv amū
+babhūvatur aghāri-tat-priya-vadhū-janāv ātmanā ।
+kathañcid api vīrudhā bhavati cet taroḥ saṃgamas
+tayoḥ katham apṛktatā svayam anīhayor jāyatām? ।। [pṛthvī]

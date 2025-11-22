@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1505 | label: meter | g:0.25 m:0.625 ---
+
+maitreya kāraṇaṃ proktaṃ sādhanaṃ sarvavastuṣu 
+sādhyaṃ ca vastv abhimataṃ yat sādhayitum ātmanaḥ ।।

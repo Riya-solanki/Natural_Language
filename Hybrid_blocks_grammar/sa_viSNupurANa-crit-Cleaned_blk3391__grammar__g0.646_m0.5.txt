@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3391 | label: grammar | g:0.646 m:0.5 ---
+
+yāvac ca brahmalokāt kakudmī raivato nābhyeti tāvat puṇyajanasaṃjñā rākṣasās tām asya purīṃ kuśasthalīṃ jaghnuḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 357 | label: grammar | g:0.667 m:0.5 ---
+
+tam [!] api mātre pratipāditavān । atha gāndhikāpaṇikāḥ puruṣāḥ sametyāgatya ca taṃ mahāsattvaṃ vicchandayām āsuḥ ।

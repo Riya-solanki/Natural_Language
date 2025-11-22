@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 774 | label: hybrid | g:0.333 m:0.495 ---
+
+sāraṇā
+sāritavartitasūtaḥ samānabījena milati yaḥ sāryaḥ ।
+dviguṇena pratisāryaḥ sa cānusāryaśca triguṇena ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 66 | label: meter | g:0.194 m:0.5 ---
+
+sā parasyāpi dhūmo anyo girau māhānasādyataḥ 
+loke vapuṣmato dṛṣṭaṃ kṛtyaṃ so apyasmadādivat ।।

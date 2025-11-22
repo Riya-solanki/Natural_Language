@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5305 | label: meter | g:0.289 m:0.9 ---
+
+śrīgaruḍamahāpurāṇam- 
+rudra uvāca ।
+evaṃ dhanvantarirviṣṇuḥ suśrutādīnuvāca ha ।
+hariḥ punarharāyāha nānāyogānrugardanān ।।

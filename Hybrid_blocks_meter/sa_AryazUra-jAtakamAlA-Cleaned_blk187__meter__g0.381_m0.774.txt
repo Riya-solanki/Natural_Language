@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 187 | label: meter | g:0.381 m:0.774 ---
+
+dānaprasaṅgena ca dharmamūlaṃ ghnatā tvayārthaṃ yadakāri pāpam ।
+tvāmattumabhyudgatametadasmājjvālāgrajihvaṃ narakāntakāsyam ।।

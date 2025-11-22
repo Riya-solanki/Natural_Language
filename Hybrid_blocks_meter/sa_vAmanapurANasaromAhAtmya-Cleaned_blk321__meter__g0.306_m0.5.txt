@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 321 | label: meter | g:0.306 m:0.5 ---
+
+atha daityaiśvaraṃ prāha viṣṇuḥ sarveśvareśvaraḥ ।
+yat tvayā salilaṃ dattaṃ gṛhītaṃ pāṇinā mayā ।।

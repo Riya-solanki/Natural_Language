@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 528 | label: meter | g:0.306 m:0.5 ---
+
+vanīyakās tasya gṛhājirebhyo vrajanti niśvasya viśuṣkavaktrāḥ ।
+baliṃ na kākā api nāma tasya smaranti sikthaprakaropahāram ।।

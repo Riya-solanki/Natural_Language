@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2093 | label: meter | g:0.194 m:0.625 ---
+
+sthūlarūpaṃ varārohe sarvatraiva prakāśitam 
+uttaraṃ gopitaṃ rūpaṃ devatābhiḥ susiddhidam ।।

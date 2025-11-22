@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1058 | label: meter | g:0.373 m:0.549 ---
+
+ratikāraṇam atra jīvaloke vyasanodbhedanirantarāntarāle ।
+vada tāta kim asti yena naḥ syād bhavaneṣv eva ratir bahucchaleṣu ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1308 | label: meter | g:0.307 m:0.623 ---
+
+tanmā tavāyaṃ viphalaḥ śramo bhūdādāya māṃ haṃsagaṇādhipaṃ ca ।
+svasthāvabaddhāvadhiropya kācamantaḥpure darśaya bhūmipāya ।।

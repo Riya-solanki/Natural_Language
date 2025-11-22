@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11911 | label: hybrid | g:0.521 m:0.5 ---
+
+viṣṭhādevī pīḍyamānaṃ ca bhaktaṃ vihāya sā kutra palāyitābhūt ।
+vivāhakāle rajakasya gehaṃ gatvā samyak prārthayitvā ca mūḍhaḥ ।।

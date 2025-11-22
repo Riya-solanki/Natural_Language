@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9903 | label: meter | g:0.306 m:0.5 ---
+
+sthānānyanekāni kṛtāni tāni pītānyanekānyapi garhitāni ।
+śastraṃ gṛhītvā samare ripūṇāṃ yaḥ saṃmukhaṃ yāti sa muktapāpaḥ ।।

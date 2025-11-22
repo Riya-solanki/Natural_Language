@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 19 | label: meter | g:0.194 m:0.5 ---
+
+ahaṃkaras tu mahatas tasmād bhūtāni jajñire 
+bhūtabhedāś ca bhūtebhya iti sargaḥ sanātanaḥ ।।

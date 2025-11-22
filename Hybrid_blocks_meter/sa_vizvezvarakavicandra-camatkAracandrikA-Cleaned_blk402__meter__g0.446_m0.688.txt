@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 402 | label: meter | g:0.446 m:0.688 ---
+
+"utphullagaṇḍayugamadbhutamandahāsamudvelarāgamurarīkṛtakāmatantram ।
+hastena hastamavalambya kadā nu seve sallāparūpamamṛtaṃ sarasīruhākṣyāḥ ।।

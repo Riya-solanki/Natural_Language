@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3811 | label: grammar | g:0.583 m:0.5 ---
+
+etat sarvakālaṃ śucinā brahmacaryeṇa dhriyamāṇam aśeṣarāṣṭrasyopakārakam aśucinā dhriyamāṇam ādhāram eva hanti ।।

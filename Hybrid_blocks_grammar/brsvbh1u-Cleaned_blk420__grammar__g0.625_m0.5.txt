@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 420 | label: grammar | g:0.625 m:0.5 ---
+
+-ayamarthaḥ-ekaprayojanasiddhyupayogitvaṃ padārthānāmitaretaravaiśiṣṭyamantareṇa na ghaṭate atastatsiddhyai ekavākyatvāya ca lakṣaṇayānvitaparatvaṃ kalpyate tādṛkprayojanābhāve tu svārthamātrābhidheyatvaṃ padānāmiti ।

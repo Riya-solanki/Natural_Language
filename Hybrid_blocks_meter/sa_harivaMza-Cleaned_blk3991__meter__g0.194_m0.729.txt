@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3991 | label: meter | g:0.194 m:0.729 ---
+
+na hato vāsudevena yaḥ pūrvaṃ paravīrahā 
+jyeṣṭho bhrātātha rukmiṇyā rukmiṇīsnehakāraṇāt । 
+sa rāmakaramuktena nihato dyūtamaṇḍale 
+aṣṭāpadena balavān rājā vajradharopamaḥ ।।

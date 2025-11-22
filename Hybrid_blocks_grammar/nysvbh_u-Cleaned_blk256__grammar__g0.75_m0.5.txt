@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 256 | label: grammar | g:0.75 m:0.5 ---
+
+yāṃ va vipratipattiṃ bhavān saṃśayahetuṃ manyate sā saṃpratipattiḥ sā hi dvayoḥ pratyanīkadharmaviṣayā, tatra yadi viprattipatteḥ saṃśayaḥ ? saṃpratipattereva saṃśaya iti ।।

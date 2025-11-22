@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 465 | label: meter | g:0.25 m:0.5 ---
+
+yataḥ sattvaṃ tato lakṣmīḥ sattvaṃ bhūtyanusāri ca 
+niḥśrīkāṇāṃ kutaḥ sattvaṃ vinā tena guṇāḥ kutaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10239 | label: hybrid | g:0.51 m:0.5 ---
+
+vīryasvarūpī bhagavānvā sudevaḥ sarvatra deśepi ca sarvakāle ।
+sarvārthavānyadi na syātkhagendra tarhīśvaraḥ puruṣo naiva sa syāt ।।

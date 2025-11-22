@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 777 | label: meter | g:0.217 m:0.845 ---
+
+sakhāyau brahmadattasya pūrvajātisahoṣitau 
+pāñcālaḥ pañcamas tatra kaṇḍarīkas tathāparaḥ ।।

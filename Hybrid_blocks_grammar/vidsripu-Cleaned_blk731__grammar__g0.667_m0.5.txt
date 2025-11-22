@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 731 | label: grammar | g:0.667 m:0.5 ---
+
+sakhi sa subhago mandasneho mayīti na me vyathā vidhipariṇataṃ yasmāt sarvo janaḥ sukham aśnute ।
+mama tu hṛdaye saṃtāpo ayaṃ priye vimukhe api yat katham api hatavrīḍaṃ ceto na yāti virāgitām ।।

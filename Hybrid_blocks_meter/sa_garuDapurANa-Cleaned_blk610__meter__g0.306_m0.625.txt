@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 610 | label: meter | g:0.306 m:0.625 ---
+
+rātrau divā suragurorbhāge syādamarāntakaḥ ।
+paṅgoḥ kāle divā rāhuḥ kulikena saha sthitaḥ ।।

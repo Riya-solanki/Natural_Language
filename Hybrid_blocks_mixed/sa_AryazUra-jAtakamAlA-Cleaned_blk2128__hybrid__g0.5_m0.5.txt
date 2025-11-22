@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2128 | label: hybrid | g:0.5 m:0.5 ---
+
+hṛtvāpi śṛṅgāṇi mahīdharāṇāṃ vegena vṛndāni ca toyadānām ।
+vighūrṇya codvartya ca sāgarāmbhaḥ prayāti nāśa pavanaprabhāvaḥ ।।

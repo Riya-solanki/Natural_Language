@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8876 | label: meter | g:0.25 m:0.625 ---
+
+dvāvetau viddhi cāṇḍālau sagotrādyastu jāyate ।
+svaryātivihitānputraḥ samutpādya khageśvara ।।

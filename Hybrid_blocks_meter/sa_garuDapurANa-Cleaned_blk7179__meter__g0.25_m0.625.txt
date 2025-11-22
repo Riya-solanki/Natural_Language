@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7179 | label: meter | g:0.25 m:0.625 ---
+
+vaṭārohiṇavṛkṣasya yojanānāṃ śatāyutā ।
+śākhā bhinnā tvayā yatra vālakhilyāḥ samāsthitāḥ ।।

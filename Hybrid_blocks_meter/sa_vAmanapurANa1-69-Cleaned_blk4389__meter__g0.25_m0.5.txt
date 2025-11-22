@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4389 | label: meter | g:0.25 m:0.5 ---
+
+ityevamuktvā madhuhā ditīśvaraṃ visarjayitvā sutalaṃ sabhāryam ।
+yajñaṃ samādāya jagāma tūrṇaṃ sa śakrasadbhāmarasaṃghajuṣṭam ।।

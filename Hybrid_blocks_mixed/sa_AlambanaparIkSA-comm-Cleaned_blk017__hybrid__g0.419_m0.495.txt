@@ -1,0 +1,5 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 17 | label: hybrid | g:0.419 m:0.495 ---
+
+ākārabhedaḥ saṃvṛtisatsvevāsti na tu paramāṇuṣu । ghaṭādayaśca saṃvṛtisanta eva ।।
+aṇunāṃ parihāre hi tadābhajñānaviplavāt ।।
+dravyasatsu apanītasambandhiṣvapi[nīla-] varṇādivat svabuddhirna tyajyate । tathā sati indriyabuddhīnāṃ viṣayo bahirnāstītyupapadyate ।।

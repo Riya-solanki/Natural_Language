@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10546 | label: meter | g:0.25 m:0.908 ---
+
+viṣvaksena uvāca ।
+bhagavānmokṣadaḥ kṛṣṇaḥ pūrṇānando sadāyadi ।
+yadi syātparamā bhaktirhya parokṣatvasādhanā ।।

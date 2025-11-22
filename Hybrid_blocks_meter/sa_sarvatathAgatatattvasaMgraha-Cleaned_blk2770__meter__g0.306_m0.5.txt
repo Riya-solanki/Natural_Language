@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2770 | label: meter | g:0.306 m:0.5 ---
+
+yasya yasya ca satvasya samāpattyā tu cintayet ।
+tasya tasya tathā caiva sarvacittāni budhyatī- ।।

@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 79 | label: grammar | g:0.604 m:0.5 ---
+
+kiṃ tena manasā kāryaṃ yan na tiṣṭhati keśave mano muktiphalāvāptyau kāraṇaṃ saprayojanam ।।

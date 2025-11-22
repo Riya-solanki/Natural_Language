@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 951 | label: meter | g:0.306 m:0.625 ---
+
+tripadāṣṭākṣarā jñeyā catuṣpādā ṣaḍakṣarā ।
+jepa ca tripadā groktā arcane ca catuṣpadā ।।

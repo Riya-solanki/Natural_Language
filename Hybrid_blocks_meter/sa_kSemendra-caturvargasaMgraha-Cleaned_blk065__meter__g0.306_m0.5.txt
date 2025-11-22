@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 65 | label: meter | g:0.306 m:0.5 ---
+
+ayomayānāṃ hṛdayeṣu teṣāṃ ko apy asti nūnaṃ kuliśopadeśaḥ ।
+soḍhāni yaiḥ prauḍhavilāsinīnāṃ karṇāntamuktāni vilocanāni ।।

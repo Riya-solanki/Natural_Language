@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1132 | label: meter | g:0.337 m:0.5 ---
+
+vicintayantī yamananyamānasā taponidhiṃ vetsi na māmupasthitam ।
+smariṣyati tvāṃ sa na bodhito api san kathāṃ pramattaḥ prathamaṃ kṛtāmiva ।।

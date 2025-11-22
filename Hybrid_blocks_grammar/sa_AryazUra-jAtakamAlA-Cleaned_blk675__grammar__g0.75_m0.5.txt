@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 675 | label: grammar | g:0.75 m:0.5 ---
+
+atha tadviṣayanivāsinaḥ puruṣā yajñapaśunimittaṃ duḥśīlapuruṣānveṣaṇādaraṃ tamanvavekṣya rājñastāṃ ca ghoṣaṇāmatibhīṣaṇāṃ pratyahamupaśrṛṇvantaḥ pāpajanopagrahāvahitāṃśca rājapuruṣānsamantataḥ samāpatato abhivīkṣya tyaktadauḥśīlyānurāgāḥ śīlasaṃvarasamādānaparā vairaprasaṅgaparāṅmukhāḥ parasparapremagauravasumukhāḥ praśāntavigrahavivādā gurujanavacanānuvartinaḥ saṃvibhāgaviśāradāḥ priyātithayo vinayanaibhṛtyaślāghinaḥ kṛta iva yuge babhūvuḥ ।

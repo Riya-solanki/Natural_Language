@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 633 | label: meter | g:0.102 m:0.5 ---
+
+eteṣāṃ mānasī kanyā yaśodā nāma viśrutā 
+patnī yā viśvamahataḥ snuṣā vai vṛddhaśarmaṇaḥ 
+rājarṣer jananī tāta dilīpasya mahātmanaḥ ।।

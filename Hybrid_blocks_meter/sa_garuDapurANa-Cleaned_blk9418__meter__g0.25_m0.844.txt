@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9418 | label: meter | g:0.25 m:0.844 ---
+
+karṇakaṇṭhāṅgulībāhubhūṣaṇaiścitrabhūṣaṇaiḥ ।
+gṛhopakaraṇairyuktaṃ gṛhaṃ dhenvā samanvitam ।।
+tator'ghaḥ sampradātavyaḥ pañcaratnaphalākṣataiḥ ।।
+yathā na kṛṣṇaśayanaṃ śūnyaṃ sāgarakanyayā ।
+śayyā mamāpyaśūnyāstu tathā janmanijanmani ।।

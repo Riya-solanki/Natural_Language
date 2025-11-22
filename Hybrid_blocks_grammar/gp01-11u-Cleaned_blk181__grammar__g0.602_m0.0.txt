@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 181 | label: grammar | g:0.602 m:0.0 ---
+
+[] atha punar vyākulī-bhavantī sā śubhra-dantī rasāntareṇa tābhiḥ sāntvitī-kriyate । tad-dine tu tad idam ācacakṣe "aśeṣa-maṅgala-saṅgatācaraṇānāṃ śrī-vrajeśa-gṛhiṇī-caraṇānām ādeśa-praveśa āsīt, æhanta, sarvā evārvācīna-vayasaḥ samāgatāḥ, mat-prāṇādhikā rādhikā katham adhunāpi nāgatā?' iti ।" tad evam avadhāritavatī śrī-rādhāpi sāvadhānī-bhavantī, śīghram eva prātar aucitīṃ vidhāya, sarvābhir evopaśāya-viśāya-valitābhiḥ kalyam ākalya militābhir lalitā-viśākhādi-sakhibhiḥ sārdhaṃ śrī-vrajādhīśvaryā dhāma jagāma । gatvā ca, parama-kānta-sva-kānti-kandalībhir antima-gatābhīra-kāntāḥ samantād apy antar-bahir api devayāmāsa । [] yatra tāsāṃ nirnimeṣatā ca jātā । sambhāvanāvatī bhāvanā ceyaṃ,
+"adhi-vidhu nīlāmbuja-yugam api tila-puṣpaṃ sabandhūkam ।
+yasyāṃ kanaka-latāyāṃ seyaṃ kṛṣṇāṅganā citram ।। [upagīti]

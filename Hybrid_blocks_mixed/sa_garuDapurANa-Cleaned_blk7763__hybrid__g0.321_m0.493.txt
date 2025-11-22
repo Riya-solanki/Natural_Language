@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7763 | label: hybrid | g:0.321 m:0.493 ---
+
+kva mātā kva pitā mūḍha kva jāyā kva sutaḥ suhṛt ।
+svakarmopārjite bhuṅkṣvaṃ mūrkha yātāściraṃ pathi ।।

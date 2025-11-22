@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 97 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ sati goloka-nāmāyaṃ lokaḥ parama-mānyaḥ sāmānyatayāpi kena varṇyatām ? yaḥ khalv amṛta-sindhur ity amṛtāndhasaḥ, yaśasaḥ savayā iti kavayaḥ, vicitrī-dharmākṛtir iti viśvakarmāṇaḥ, ānandānāṃ brahma-sākṣād iti brahmānubhavinaḥ, premā svayaṃ vyakta iti bhagavad-bhaktā manyanta ity aneka-mata-parāmṛṣṭatayā dṛṣṭaḥ ।

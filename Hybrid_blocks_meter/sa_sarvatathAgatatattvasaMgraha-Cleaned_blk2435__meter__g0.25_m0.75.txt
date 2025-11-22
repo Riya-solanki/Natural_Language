@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2435 | label: meter | g:0.25 m:0.75 ---
+
+ratnāṭṭahāsanāmnā vai hāsāt sarvārthakārikā ।
+sarvāgramaṇipadmā tu dhanahārī samādhinā ।।

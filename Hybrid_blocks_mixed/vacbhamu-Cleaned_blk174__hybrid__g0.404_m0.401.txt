@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 174 | label: hybrid | g:0.404 m:0.401 ---
+
+tamimamākṣepaṃ bhagavān sūtrakāraḥ pariharati- ajanmādyasya yataḥ'iti ।
+mā bhūdanubhūyamānaṃ jagattaddharmatayā tādātmyena vā brahmaṇo lakṣaṇam; tadutpattyā tu bhaviṣyati deśāntaraprāptiriva saviturvrajyāyā iti tātparyārthaḥ ।

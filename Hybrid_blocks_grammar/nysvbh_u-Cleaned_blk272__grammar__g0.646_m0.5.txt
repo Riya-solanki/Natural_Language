@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 272 | label: grammar | g:0.646 m:0.5 ---
+
+gandhādiviṣayaṃ jñānaṃ pratyakṣaṃ tad yadi pūrvaṃ paścād gandhādīnāṃ siddhiḥ ? nedaṃ gandhādi saṃnikarṣādutpadyate iti ।।

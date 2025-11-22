@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4808 | label: meter | g:0.25 m:0.5 ---
+
+senānīs tāta mā maivaṃ na devāḥ kṣudrakarmiṇaḥ 
+nākṛtajñā na vā klībā nāvaliptā na bāliśāḥ ।।

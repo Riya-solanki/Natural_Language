@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9778 | label: meter | g:0.306 m:0.5 ---
+
+anagnayaḥ sāgnayo vā putrā vā pitaro api vā ।
+ekoddiṣṭaṃ sutaiḥ kāryaṃ kṣayāha iti kecana ।।

@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2181 | label: meter | g:0.22 m:0.716 ---
+
+dayāmṛduṣu durjanaḥ paṭutarāvalepodbhavaḥ
+parāṃ vrajati vikriyāṃ na hi bhayaṃ tataḥ paśyati ।
+yatastu bhayaśaṅkayā sukṛśayāpi saṃspṛśyate
+vinīta iva nīcakaiścarati tatra śāntoddhavaḥ ।।

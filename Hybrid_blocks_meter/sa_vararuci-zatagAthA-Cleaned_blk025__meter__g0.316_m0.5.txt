@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 25 | label: meter | g:0.316 m:0.5 ---
+
+kṣudhāsamā nāsti śarīravedanā cintāsamā nāsti śarīraśoṣaṇā ।
+guṇaiḥ samā nāsti śarīrabhūṣaṇā kṣāntyā samaṃ nāsti śarīravarmaṃ vai ।।

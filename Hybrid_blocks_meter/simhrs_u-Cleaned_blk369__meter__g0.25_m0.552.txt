@@ -1,0 +1,37 @@
+--- source: simhrs_u-Cleaned.txt | block: 369 | label: meter | g:0.25 m:0.552 ---
+
+atha vṛttayaḥ-
+bhāratī sātvatī caiva kaiśiky ārabhaṭīti ca ।
+catasro vṛttayas tāsām utpattir vakṣyate sphuṭam ।। 
+jagaty ekārṇave jāte bhagavān avyayaḥ pumān ।
+bhogi-bhogam adhiṣṭhāya yoga-nidrā-paro' bhavat ।। 
+tadā vīrya-madonmattau daityendrau madhu-kaiṭabhau ।
+tarasā devadeveśam āgatau raṇa-kāṅkṣiṇau ।। 
+vividhaiḥ paruṣair vākyair adhikṣepa-vidhāyinau ।
+muṣṭi-jānu-prahāraiś ca yodhayāmāsatur harim ।। 
+tan-nābhi-kamalotpannaḥ prajāpatir abhāṣata ।
+kim etad bhāratī-vṛttir adhunāpi pravartate ।। 
+tad imau naya durdharṣau nidhanaṃ tvarayā vibho ।
+iti tasya vacaḥ śrutvā nijagāda janārdanaḥ ।। 
+idaṃ kāvya-kriyā-hetor bhāratī nirmitā dhruvam ।
+bhāṣaṇād vākya-bāhulyād bhāratīyaṃ bhaviṣyati ।। 
+adhunaiva nihanmy etāv ity ābhāṣya vaco hariḥ ।
+nirmalair nirvikāraiś ca sāṅga-hārair manoharaiḥ ।। 
+aṅgais tau yodhayāmāsa daityendrau yuddha-śālinau ।
+bhūmi-sthānaka-saṃyogaiḥ pada-kṣepais tathā hareḥ ।। 
+bhūmes tadābhavad bhāras tad-vaśād api bhāratī ।
+valgitaiḥ śārṅgiṇas tatra dīptaiḥ sambhrama-varjitaiḥ ।। 
+sattvādhikair bāhu-daṇḍaiḥ sātvatvī vṛttir udgatā ।
+vicitrair aṅga-hāraiś ca helayā sa tadā hariḥ ।। 
+yat tau babandha keśeṣu jātā sā kaiśikī tataḥ ।
+sa-saṃrambhaiḥ savegaiś ca citra-cārī-samutthitaiḥ ।। 
+niyuddha-karaṇair jātā citrair ārabhaṭī tataḥ ।
+yasmāc citrair aṅgahāraiḥ kṛtaṃ dānava-mardanam ।। 
+tasmād abja-bhuvā loke niyuddha-samayaḥ kṛtaḥ ।
+yaḥ śastrāstrādi-mokṣeṣu nyāyaḥ sa pāribhāṣitaḥ ।। 
+nāṭya-kāvya-kriyā-yoge rasa-bhāva-samāśritaḥ ।
+sa eva samayo dhātrā vṛttir ity eva saṃjñitaḥ ।। 
+hariṇā tena yad vastu valigitair yādṛśaṃ kṛtam ।
+tadvad eva kṛtā vṛttir dhātrā tasyāṅga-sambhavā ।। 
+ṛgvedāc ca yajurvedāt sāmavedād atharvaṇaḥ ।
+bhāraty-ādyā kramāj jātā ity anye tu pracakṣate ।।

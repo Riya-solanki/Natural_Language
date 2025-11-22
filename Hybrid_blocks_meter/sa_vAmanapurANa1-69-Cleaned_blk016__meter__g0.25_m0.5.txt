@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 16 | label: meter | g:0.25 m:0.5 ---
+
+evamukto bhavānyā tu śaṅkaro vākyamabravīt ।
+nirāśrayo ahaṃ sudatī sadāraṇyacaraḥ śubhe ।।

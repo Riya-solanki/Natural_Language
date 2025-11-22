@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 356 | label: meter | g:0.056 m:0.625 ---
+
+kaṭākṣe kṛṣṇābhā sphuṭam adharayo rāga-garimā
+kapola-dvandvāntaḥ śucir urasi cārūnnati-ruciḥ ।
+amī ceto-dharmā bahir ahaha yady evam uditā
+bhavet kiṃvā tarhi vraja-mṛgadṛśāṃ gopana-padam ।। [śikhariṇī]

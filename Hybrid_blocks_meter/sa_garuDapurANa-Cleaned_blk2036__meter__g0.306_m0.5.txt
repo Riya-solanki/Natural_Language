@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2036 | label: meter | g:0.306 m:0.5 ---
+
+te veṇavo divyajanopabhogye sthāne prarohanti na sārvajanye ।
+bhaujaṃ gamaṃ mīnaviśuddhavṛttaṃ saṃsthānato atyujjvalavarṇaśobham ।।

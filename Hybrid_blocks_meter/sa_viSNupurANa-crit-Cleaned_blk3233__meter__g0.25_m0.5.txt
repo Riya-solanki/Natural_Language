@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3233 | label: meter | g:0.25 m:0.5 ---
+
+saddharmakavacas teṣām abhūd yaḥ prathamaṃ dvija 
+tena rakṣābhavat pūrvaṃ neśur naṣṭe ca tatra te ।।

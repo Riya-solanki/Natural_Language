@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 913 | label: meter | g:0.309 m:0.724 ---
+
+tatraiva hetvantarārthe sūtraṃ vyācaṣṭe-itaścetyādinā ।
+vṛttiravasthā ।
+agnimanthanādikaṃ vīryavatkarma ।
+kāmādivṛttivajjñāne api pañcatvaniyamo nāstītyaruciṃ svayamevodbhāvya pakṣāntaraṃ gṛhṇāti-nanvatrāpītyādinā ।

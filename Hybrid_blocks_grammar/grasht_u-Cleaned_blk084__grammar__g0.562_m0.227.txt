@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 84 | label: grammar | g:0.562 m:0.227 ---
+
+pūrvapadyābhiprāyaṃ vicārya muktiprāptau praśaṅkitaḥ prāhāsminn ityādi ।।
+asmin śarīre vartamāne kṣetrarūpe yeṣāṃ puṃsām ātmasaṃvedo na jātaḥ brahmajñānaṃ na jātaṃ teṣāṃ puṃsāmeva dehatyāgād ūrdhvaṃ śarīrotsargataḥ paścāt tadbrahma dūrataraṃ dūrāddūrataram ityarthaḥ ।।

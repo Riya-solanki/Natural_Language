@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2307 | label: meter | g:0.25 m:0.75 ---
+
+tasyābhyantarataḥ kāryaṃ vajraratnasamaṃ puraṃ ।
+aṣṭastaṃbhāgrayogena sūtraṇaṃ tatra kārayet ।।

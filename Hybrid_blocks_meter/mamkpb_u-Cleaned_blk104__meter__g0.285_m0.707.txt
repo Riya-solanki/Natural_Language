@@ -1,0 +1,8 @@
+--- source: mamkpb_u-Cleaned.txt | block: 104 | label: meter | g:0.285 m:0.707 ---
+
+ko apyalayakramavyaṅga co lakṣyavyaṅgyakramaḥ paraḥ ।।
+alakṣyeti ।
+na khalu vibhāvānubhāvavyabhicāriṇa eba rasaḥ ।
+api tu rasastaiḥ, ityastikramaḥ ।
+sa tu lāghavānna lakṣyate ।।
+atra

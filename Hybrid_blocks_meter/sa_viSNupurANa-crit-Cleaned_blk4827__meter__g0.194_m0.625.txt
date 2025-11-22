@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4827 | label: meter | g:0.194 m:0.625 ---
+
+akrūrāgamavṛttāntam upalabhya tathā dhanuḥ 
+bhagnaṃ śrutvātha kaṃso api prāha cāṇūramuṣṭikau ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2498 | label: meter | g:0.194 m:0.625 ---
+
+praveśitaś ca taiḥ sarpaiḥ sa kṛṣṇo bhogabandhanam 
+niryatnacaraṇākāras tasthau girir ivācalaḥ ।।

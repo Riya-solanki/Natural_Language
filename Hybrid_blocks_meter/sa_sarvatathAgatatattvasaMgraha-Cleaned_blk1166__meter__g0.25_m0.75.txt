@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1166 | label: meter | g:0.25 m:0.75 ---
+
+trilokavijayā mudrā vajrāgrasamayasya tu ।
+vajrahuṃkāramantrasya sarvasiddhipradā kṣaṇāt ।।

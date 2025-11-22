@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2398 | label: meter | g:0.25 m:0.625 ---
+
+agnidagdhāśca ye kecinnāgnidagdhāstathāpare ।
+vidyuccaurahatā ye ca tebhyaḥ piṇḍaṃ dadāmyaham ।।

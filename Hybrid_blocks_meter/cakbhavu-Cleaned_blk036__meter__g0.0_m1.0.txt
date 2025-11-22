@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 36 | label: meter | g:0.0 m:1.0 ---
+
+prabhūtabhūtasaṃbhūtaśoṇitair arghabhājanam
+kriyate te mahākālakāyakaṃkālakandale

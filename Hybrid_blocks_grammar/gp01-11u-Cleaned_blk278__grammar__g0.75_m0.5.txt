@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 278 | label: grammar | g:0.75 m:0.5 ---
+
+[] punaḥ tāv ūcatuḥ, "samprati ca yad-upadeśād vṛndāvana-deśam āgatā vayam । nūnaṃ yat-prasādād eva deva-varga-durgama-samadhigamasya bhavābhibhava-bhāvana-bhāvanasya tad etad bhavadīya-vaibhava-pradeśasya praveśe sadeśa-rūpatāṃ yātāḥ sma ।" [] punaś ca sarve sāścaryam idaṃ paśyanti sma ।

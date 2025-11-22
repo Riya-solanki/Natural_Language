@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3191 | label: hybrid | g:0.51 m:0.5 ---
+
+etat tavoktā marutaḥ purā yathā jātā viyadvyāptikarā maharṣe ।
+yeṣāṃ śrute janmani pāpahānirbhavecca dharmābhyudayo mahān vai ।।

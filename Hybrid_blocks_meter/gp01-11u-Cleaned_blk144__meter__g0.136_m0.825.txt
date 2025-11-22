@@ -1,0 +1,10 @@
+--- source: gp01-11u-Cleaned.txt | block: 144 | label: meter | g:0.136 m:0.825 ---
+
+mayūra-pārāvata-kokilādyā
+vasatni yasyāṃ tu vināpi yatnam ।
+śabdāyamānā vipinasya tair ye
+vivāda-saṃvādavad ācaranti ।। [upajāti ]
+vicitra-ratnāvali-citra-carcitā
+sauvarṇa-bhittiḥ paritaś cakāsatī ।
+gopāla-bālyādii-vilāsa-mādhurīḥ
+sākṣād ivālakṣayate śiśūn api ।। [upajāti ]

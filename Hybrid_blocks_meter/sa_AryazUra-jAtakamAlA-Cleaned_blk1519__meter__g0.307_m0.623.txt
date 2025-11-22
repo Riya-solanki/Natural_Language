@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1519 | label: meter | g:0.307 m:0.623 ---
+
+śīlābhighātādavabhinnamūrdhā vegādavaplutya ca bodhisattvaḥ ।
+kenāhato asmīti dadarśa nānyaṃ tameva tu hrītamukhaṃ dadarśa ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1238 | label: grammar | g:0.75 m:0.5 ---
+
+[] tata eva ca tān amṛta-kṛtābhiṣekān iva kṛtvā sa-kautukam uvāca-māṃ sukhayantu evābhimukhatas ete taravo virājante, tasmād bhavadbhir vilokya pṛthak pṛthag upaślokyantām ।

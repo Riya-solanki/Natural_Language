@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 849 | label: meter | g:0.326 m:0.5 ---
+
+dadhi-maṇḍaḥ kathaṃ khaṇḍo? daṇḍo' yaṃ parameśituḥ ।
+ghṛtaṃ kīśāya kaḥ prādād? asau yena vinirmitaḥ ।। [anuṣṭubh] iti ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 559 | label: meter | g:0.25 m:0.625 ---
+
+andhako api mahāvegaṃ dhanurākṛṣya bhāsvaram ।
+purandarāya cikṣepa śarān barhiṇavāsasaḥ ।।

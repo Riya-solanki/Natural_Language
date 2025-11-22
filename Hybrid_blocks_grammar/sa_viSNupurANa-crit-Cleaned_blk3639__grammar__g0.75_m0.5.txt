@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3639 | label: grammar | g:0.75 m:0.5 ---
+
+āha corvaśī । mahārājālam anenāvivekaceṣṭitenāntarvatny aham abdānte bhavatātrāgantavyaṃ kumāras te bhaviṣyatīty ekāṃ ca niśām ahaṃ tvayā saha vatsyāmīty uktaḥ prahṛṣṭaḥ svapuraṃ jagāma ।।

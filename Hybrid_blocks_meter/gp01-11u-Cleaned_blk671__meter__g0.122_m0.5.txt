@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 671 | label: meter | g:0.122 m:0.5 ---
+
+"tasmān nandātmajas te yad api hari-samaḥ sarva-sādguṇya-vṛttyā
+sarvatremaṃ tathāpi sva-mahima-vibhava-khyātibhiḥ pālaya tvam ।
+vaśyaṃ kurvan sva-devaṃ harim amum api taṃ svāṅgajaṃ nirmimīṣe
+tad vīra tvāṃ vinā na svayam ayam ayate svairatāṃ svāvanāya ।। [śārdulavikrīḍitam]

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1152 | label: meter | g:0.102 m:0.555 ---
+
+kukurasya suto dhṛṣṇur dhṛṣṇos tu tanayas tathā 
+kapotaromā tasyātha taittiris tanayo abhavat 
+jajñe punar vasus tasmād abhijit tu punar vasoḥ ।।

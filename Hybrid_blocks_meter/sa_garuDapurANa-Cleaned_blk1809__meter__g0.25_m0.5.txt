@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1809 | label: meter | g:0.25 m:0.5 ---
+
+balimadhyagatā nābhiḥ śūlabādhāṃ karoti hi ।
+vāmāvartaśca sādhyaṃ vai medhāṃ dakṣiṇatastathā ।।

@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 98 | label: grammar | g:0.569 m:0.359 ---
+
+atra cakitahariṇīhārīti kriyāviśeṣaṇaṃ netratribhāgāsaṅgasya gurusaṃnidhānavihitāpragalbhatvaramaṇīyasya kāmapi kāma nīyatāmāvahati cakitahariṇīhārivilokana sāmyena ।
+ayamaparaḥ padapūrvārdhavakratāyāḥ prakāro yadidaṃ saṃvṛtivakratvaṃ nāmayatra padārthasvarūpaṃ prastāvānuguṇyena kenāpi nikarṣeṇotkarṣeṇa vā yuktaṃ vyaktatayā sākṣādabhidhātumaśakyaṃ saṃvṛtisāmarthyopayoginā śabdenābhidhīyate ।
+yathā

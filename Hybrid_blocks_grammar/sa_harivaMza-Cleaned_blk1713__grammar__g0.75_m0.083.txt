@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1713 | label: grammar | g:0.75 m:0.083 ---
+
+tena vitrāsitā devāḥ samare kālaneminā 
+na śekur yatnavanto api yatnaṃ kartuṃ vicetasaḥ ।। 
+jitvetthaṃ devatānīkaṃ gadām āvidhya dānavaḥ । airāvatagataṃ śakram uvācāsurasattamaḥ । āgacchāgaccha devendra nirjito asi mayā raṇe । adyaprabhṛti devendro na tvaṃ bhavasi vṛtrahan । eṣa te gadayā śakra śiro bhetsyāmi paśyataḥ ।। adyaprabhṛti devendro dānavendro aham acyuta । bhaviṣyāmi na saṃdeho hatvā tvām ugrapauruṣam । iti bruvāṇaṃ samare vṛtrahā vajram ādade । jaghāna tarasā śakro vajreṇa hi sa dānavam । vajraṃ tadvakṣasi prāpya bahudhā samapadyata ।। aśaktaṃ vajram āsīt tu dānavaṃ hantum ojasā । punaḥ papāta sahasā śakrasyaiva tadā karam । kālanemis tu sahasā gadām ādāya yatnataḥ । airāvatasya rabhasā jaghānaikaṃ sa mastakam । sa vinirbhinnakumbhas tu papāta dharaṇītale ।। sasrāva rudhiraṃ tīkṣṇaṃ gajarājas tadā balī । punaś ca gadayā rājaṃs tadā samaramūrdhani । jaghāna dānavendras tu vṛtrahantāram ojasā । utsṛjya sahasā śakro gajarājaṃ puraṃdaraḥ । bhinnavarmāsthinicayo mukhāc choṇitam udvaman ।। papātorvyāṃ mahārāja kiṃcid viśramya bhūtale । utsṛjya sahasā śakraḥ svargalokaṃ mahīpate । manuṣyalokaṃ saṃprāpya mānuṣīṃ tanum āvrajat । 
+tena śakraḥ sahasrākṣaḥ saṃditaḥ śarabandhanaiḥ 
+airāvatagataḥ saṃkhye calituṃ na śaśāka ha ।।

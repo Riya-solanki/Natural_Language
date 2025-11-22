@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9674 | label: meter | g:0.25 m:0.625 ---
+
+iṣetvorjoti mantreṇa dakṣiṇe sthāpayedyamam ।
+madhye maṇḍalakaṃ kṛtvā sthāpyo darbhamayo naraḥ ।।

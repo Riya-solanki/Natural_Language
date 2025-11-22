@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7760 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ krūrapura māsi pañcame yāti kāśyapa ।
+bhuvi dattaṃ piṇḍajalaṃ bhuktvā krūrapuraṃ vrajet ।।

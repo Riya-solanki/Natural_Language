@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1961 | label: meter | g:0.25 m:0.5 ---
+
+pārthive bhārate vaṃśe pūrvam eva vijānatā 
+pṛthivyāṃ saṃbhavam imaṃ śrūyatāṃ yan mayā kṛtam ।।

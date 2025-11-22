@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4413 | label: meter | g:0.194 m:0.75 ---
+
+tasmin bhūmau nipatite nārade munipuṃgave 
+tad uddhatamahāmeghaṃ durdinaṃ vyapakṛṣyata ।।

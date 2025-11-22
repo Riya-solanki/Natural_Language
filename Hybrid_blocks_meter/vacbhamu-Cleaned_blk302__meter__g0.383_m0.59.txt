@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 302 | label: meter | g:0.383 m:0.59 ---
+
+nanu kasmānnivṛttireva kāryaṃ na bhavati, tatsādhanaṃ vetyata āha- na ca sā kriyāiti ।
+kriyāśabdaḥ kāryavacanaḥ ।
+etadeva vibhajate- akriyārthānāmiti ।

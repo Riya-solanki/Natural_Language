@@ -1,0 +1,13 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4820 | label: grammar | g:0.632 m:0.068 ---
+
+saṃdaṣṭauṣṭhapuṭāḥ kecit kecid bāṣpāvilekṣaṇāḥ 
+kecic cācintañ śūrā āsthāya bhrukuṭiṃ narāḥ ।। 
+evaṃ cintayatāṃ teṣāṃ bahvartham abhibhāṣatām । aniruddhaḥ kutaś ceti saṃbhramaḥ sumahān abhūt । anyonyam abhivīkṣante yādavā jātamanyavaḥ । tāṃ niśāṃ vimanaskās te gamayeyuḥ kathaṃcana ।। aniruddho hṛtaś ceti punaḥ punar ariṃdama । evaṃ ca bruvatāṃ teṣāṃ prabhātā rajanī tadā । 
+tatas tūryaninādaiś ca śaṅkhānāṃ ca mahāsvanaiḥ 
+prabodhanaṃ mahābāhoḥ kṛṣṇasyākriyatālaye ।। 
+kṛṣṇo api devadeveśaḥ kartavye mūḍhavat sthitaḥ ।। kiṃ mayā kāryam ity eva kuto nu bhayam āgatam । sarvathā yatnam āsthāya yatiṣye kāryam uttaram ।। diśām antaṃ gamiṣyāmi sāgaraṃ varuṇālayam । yatrāsau sthitavān pautro gamiṣyāmy aham adya vai ।। prathamaṃ kāṃ diśaṃ yāsye kena syāc chrūyate akhilam । yadi kaścid vijānīyāt tadā tu sukṛtaṃ bhavet । 
+tataḥ prabhāte vimale prādurbhūte divākare 
+praviveśa sabhām eko nāradaḥ prahasann iva ।। 
+dṛṣṭvā tu yādavān sarvān kṛṣṇena saha saṃgatān । tataḥ sa jayaśabdena mādhavaṃ pratyapūjayat । ugrasenādayaste ca tam ṛṣiṃ pratyapūjayan । 
+athābhyutthāya vimanāḥ kṛṣṇaḥ samitidurjayaḥ 
+madhuparkaṃ ca gāṃ caiva nāradāya dadau prabhuḥ ।।

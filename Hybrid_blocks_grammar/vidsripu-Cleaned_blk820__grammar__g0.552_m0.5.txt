@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 820 | label: grammar | g:0.552 m:0.5 ---
+
+vivekād asmābhiḥ paramapuruṣābhyāsarasikaiḥ kathaṃcin nīyante ratiramaṇabāṇair api hataiḥ ।
+priyāyā bālatvād abhinavaviyogāturatanor na jānīmas tasyā bata katham amī yānti divasāḥ ।।

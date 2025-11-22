@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1498 | label: grammar | g:0.553 m:0.435 ---
+
+karṣadbhiḥ sicayāñcalān atirasāt kurvadbhir āliṅganam । gṛhṇānaiḥ kacam ālikhadbhir adharaṃ vidrāvayadbhiḥ kucau ।
+pratyakṣe api kaliṅgamaṇḍalapater antaḥpurāṇām aho dhik kaṣṭaṃ viṭapair viṭair iva vane kiṃ nāma nāceṣṭitam ।।
+vasukalpasya

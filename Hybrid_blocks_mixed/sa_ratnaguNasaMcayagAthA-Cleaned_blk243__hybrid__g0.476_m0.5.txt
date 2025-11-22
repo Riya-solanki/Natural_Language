@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 243 | label: hybrid | g:0.476 m:0.5 ---
+
+māro api tasmi samaye bhavate saśalyo śokātu duḥkhitu anantamano alpasthāmo 
+diśadāha ulka kṣipate bhayadarśanārthaṃ kathameṣa dīnamanaso bhavi bodhisattvo ।।

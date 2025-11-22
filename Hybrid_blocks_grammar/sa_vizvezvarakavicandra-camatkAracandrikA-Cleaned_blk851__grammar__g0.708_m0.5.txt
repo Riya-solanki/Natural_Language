@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 851 | label: grammar | g:0.708 m:0.5 ---
+
+atra kalpavṛkṣanāyakayorupamānopameyabhāve vaktavye kalpavṛkṣalakṣaṇamupamānaṃ parityajya tadekadeśena sahopameyaikadeśo bāhuyugalāśaṃsāvayavaiḥ kisalayakusumaissaha bhujayugāṅgānyaṅgulyaḥ nakharucayaśca pṛthak pṛthag dyotakaśabdaprayogādvistareṇopamitānītīyamekadeśavatī nāma prakṛtarūpā prapañcopamā ।

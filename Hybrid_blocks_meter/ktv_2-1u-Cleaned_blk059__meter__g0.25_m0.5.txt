@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 59 | label: meter | g:0.25 m:0.5 ---
+
+karotiḥ kriyamāṇena na kaścit karmaṇā vinā ।
+bhavatyarthasya kartā ca karoteḥ karma jāyate ।।

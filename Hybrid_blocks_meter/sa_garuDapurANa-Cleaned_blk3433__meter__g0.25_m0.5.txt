@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3433 | label: meter | g:0.25 m:0.5 ---
+
+kāntāviyogaḥ svajanāpamānaṃ ṛṇasya śeṣaḥ kujanasya sevā ।
+dāridrayābhāvādvimukhāśca mitrā vināgninā pañca dahanti tīvrāḥ ।।

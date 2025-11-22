@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1467 | label: grammar | g:0.656 m:0.5 ---
+
+tvaṃ cen nātha kalānidhiḥ śaśadharas tat toyanāthā vayaṃ maryādānidhir ambhasāṃ patir atha tvaṃ ced vayaṃ vāridāḥ ।
+sarvāśāparipūrako jaladharas tvaṃ ced vayaṃ bhūruhaḥ sanmārgvasthitisundaras tvam iha cec chākhī vayaṃ cādhvagāḥ ।।

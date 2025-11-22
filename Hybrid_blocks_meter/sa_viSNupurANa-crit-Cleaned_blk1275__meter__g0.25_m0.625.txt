@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1275 | label: meter | g:0.25 m:0.625 ---
+
+yathā sarveṣu bhūteṣu sarvavyāpī jagadguruḥ 
+viṣṇur eva tathā sarve jīvantv ete purohitāḥ ।।

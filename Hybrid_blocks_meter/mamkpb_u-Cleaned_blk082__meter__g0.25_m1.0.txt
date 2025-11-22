@@ -1,0 +1,4 @@
+--- source: mamkpb_u-Cleaned.txt | block: 82 | label: meter | g:0.25 m:1.0 ---
+
+prastāvadeśakālādervaiśiṣṭyāt pratibhājuṣām ।
+yo artasyānyārthadhīheturvyāpāro vyaktitareva sā ।।

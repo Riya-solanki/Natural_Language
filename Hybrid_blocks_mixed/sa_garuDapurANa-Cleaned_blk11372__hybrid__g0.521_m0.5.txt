@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11372 | label: hybrid | g:0.521 m:0.5 ---
+
+evaṃ jñātvā sarvadā lakṣmaṇā tu hariṃ sadā prīṇayāmāsa devī ।
+saparyayā vai kriyamāṇayā hariḥ patirmamasya diti cintayānā ।।

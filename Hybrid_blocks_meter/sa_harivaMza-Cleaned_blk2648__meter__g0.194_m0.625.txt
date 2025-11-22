@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2648 | label: meter | g:0.194 m:0.625 ---
+
+tyaktvā meghamayaṃ vāsaḥ śaradguṇavidīpitaḥ 
+eṣa vītamale vyomni hṛṣṭo vasati candramāḥ ।।

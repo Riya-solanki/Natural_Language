@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8235 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ tu yātudhānānāṃ tameva ca vadanti hi ।
+suparṇa īdṛśo deho nṛṇāṃ bhavati piṇḍajaḥ ।।

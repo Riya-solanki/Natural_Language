@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1603 | label: meter | g:0.264 m:0.644 ---
+
+indra uvāca ।
+iyaṃ pradīyatāṃ mahyaṃ bhaginī me astu kauśikī ।
+tvatkośasaṃbhavā ceyaṃ kauśikī kauśiko apyaham ।।

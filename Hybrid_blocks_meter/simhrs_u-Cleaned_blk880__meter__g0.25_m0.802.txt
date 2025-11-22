@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 880 | label: meter | g:0.25 m:0.802 ---
+
+atha śokaḥ-
+bandhu-vyāpatti-daurgaty-adhana-nāśādibhiḥ kṛtaḥ । 
+citta-kleśa-bharaḥ śokas tatra ceṣṭā vivarṇatā ।।
+bāṣpodgamo mukhe śoṣaḥ stambha-niḥśvasitādayaḥ । 
+uttamānam ayaṃ prauḍho vibhāvair anya-saṃśritaiḥ ।।
+ātma-sthair atirūḍho' pi prāyaḥ śauryeṇa śāmyati । 
+tatra ceṣṭā guṇākhyāna-nigūḍha-ruditādayaḥ ।।

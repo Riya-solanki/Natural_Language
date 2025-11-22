@@ -1,0 +1,24 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3513 | label: grammar | g:0.507 m:0.03 ---
+
+vasudevasya bhavanaṃ tatas tau yadunandanau 
+praviṣṭau hṛṣṭavadanau candrādityāv ivācalam ।। 
+pareṇa tejasopetau surendrāv iva rūpinau । 
+tāv āyudhāni vinyasya gṛhe sve svairacāriṇau 
+mumudāte yaduvarau vasudevasutāv ubhau ।। 
+udyāneṣu vicitreṣu phalapuṣpāvanāmiṣu । ceratuḥ sumahātmānau yādavaiḥ parivāritau ।। raivatasya samīpeṣu saritsu vimalāsu ca । padmapatrasamṛddhāsu kāraṇḍavayutāsu ca । evaṃ tau bālyam uttīrṇau balabhadrajanārdanau । 
+evaṃ tāv ekanirmāṇau mathurāyāṃ śubhānanau 
+ugrasenānugau bhūtvā kaṃ cit kālaṃ mumodatuḥ ।। 
+uṣitvā caturo māsān nandagopa udāradhīḥ । rāmakṛṣṇau samāliṅgya yadubhiś cānumoditaḥ । vasudevābhyanujñātaḥ svam eva śakaṭaṃ yayau । etad vo bālacaritaṃ sakalaṃ munipuṃgavāḥ । yathāśrutaṃ yathāyogaṃ yathājñānam udāhṛtam । kṛṣṇaṃ keśavam acyutaṃ muraripuṃ śauriṃ hariṃ śārṅgiṇaṃ ।viṣṇuṃ viśvasṛjaṃ caturbhujaṃ śrīvallabhaṃ śrīdharam ।jiṣṇuṃ daityaripuṃ tridhāmanilayaṃ trailokyanāthaṃ paraṃ ।govindaṃ puruṣaṃ namāmi śirasā nārāyaṇaṃ cakriṇam ।
+kasya cit tv atha kālasya rājā rājagṛheśvaraḥ 
+śuśrāva nihataṃ kaṃsaṃ jarāsaṃdhaḥ pratāpavān ।। 
+duhitṛbhyāṃ mahīpatiḥ ।tato nāticirāt kālāj ।astiḥ prāptiś ca kaṃsasya mahiṣyau bharatarṣabha । hate bhartari duḥkhārte īyatuḥ svapitur gṛhān । sa sādhanena mahatā pākaśāsanavikramaḥ । 
+ājagāma ṣaḍaṅgena balena mahatā vṛtaḥ 
+kṛṣṇasya vadham anvicchan madhurām anvavartata । 
+jighāṃsur hi yadūn kruddhaḥ kaṃsasyāpacitiṃ caran ।। 
+ayaśo hy ātmano rakṣaṃl lokanirvādaśaṅkayā । duhitṛprītikāmārthaṃ madhurām avarodhakaḥ । akṣauhinyaikaviṃśatyā senayā ca tadā saha । 
+astiḥ prāptiś ca nāmnās tāṃ māgadhasya sute nṛpa 
+te dve ca kaṃsarājāya dadau hṛṣṭaḥ sa māgadhaḥ ।। 
+tena te vidhave syātām ubhe kṛṣṇena māgadhe । 
+jīvaty eva tathā rājan vīre rājñāṃ purogame । 
+jarāsaṃdhasya kalyānyau pīnaśroṇipayodhare 
+ubhe kaṃsasya te bhārye prādād bārhadratho nṛpaḥ ।।

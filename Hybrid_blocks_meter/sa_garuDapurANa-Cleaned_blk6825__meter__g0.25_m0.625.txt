@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6825 | label: meter | g:0.25 m:0.625 ---
+
+muhūrtamapi yo dhyāyennārāyaṇamatandritaḥ ।
+so api svargatimāpnoti kiṃ punastatparāyaṇaḥ ।।

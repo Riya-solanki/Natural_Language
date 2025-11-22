@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8317 | label: meter | g:0.306 m:0.5 ---
+
+kṛmiḥ kīṭaḥ pataṅgo vā jāyate mriyate punaḥ ।
+asadgarbhe bhavetso api jātaḥ sadyo vinaśyati ।।

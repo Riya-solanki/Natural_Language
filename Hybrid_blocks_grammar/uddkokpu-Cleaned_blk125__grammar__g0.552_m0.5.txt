@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 125 | label: grammar | g:0.552 m:0.5 ---
+
+sthitvā cūte prathamakathite mugdhakāntādharābhaṃ daṣṭvā svairaṃ kisalayamatha prekṣaṇīyā tvayā sā ।
+pṛcchantī vā malayavapanaṃ praśrayānmatpravṛttiṃ madvṛttāntaṃ kathaya kaṭhinasyeti vā prārthayantī ।।

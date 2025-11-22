@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6216 | label: meter | g:0.25 m:0.555 ---
+
+ranau bhasau candravartma vaṃśasthaṃ syājjatau jarau ।
+tato jarāvindravaṃśā vedasaistoṭakaṃ smṛtam ।
+nbhau bhrau drutavilambitaṃ puṭaśca syānnanau mayau ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 442 | label: meter | g:0.337 m:0.5 ---
+
+yad gīyate jagati śastrahatā vrajanti nūnaṃ surālayam iti sphuṭam etad adya ।
+sūcyagramātraparikhaṇḍitavigraheṇa prāptaṃ yataḥ stanataṭaṃ tava kañcukena ।।

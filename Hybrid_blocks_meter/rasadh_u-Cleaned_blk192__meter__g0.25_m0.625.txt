@@ -1,0 +1,10 @@
+--- source: rasadh_u-Cleaned.txt | block: 192 | label: meter | g:0.25 m:0.625 ---
+
+karṇebhyo mahiṣīnāṃ ca malā grāhyāḥ samagrakāḥ ।
+taiśca sampattido hīrān jātyān saṃveṣṭayet sudhīḥ ।।
+sūraṇakṣudrakandeṣu tat kṣiptvā vastramṛtsnayā ।
+veṣṭayitvā puṭaṃ deyaṃ bhūmau kurkuṭasaṃnibham ।।
+vāraṃ vāraṃ śrutimalaiḥ sūraṇakṣudrakandakaiḥ ।
+vastramṛdbhirnavīnābhirdātavyāni puṭāni ca ।।
+ekaviṃśativāraiśca bhūmau kurkuṭakaiḥ puṭaiḥ ।
+vidhīyante sukhenaiva hīrāś cānnapathā budhaiḥ ।।

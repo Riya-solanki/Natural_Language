@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3861 | label: grammar | g:0.75 m:0.5 ---
+
+tataḥ setuḥ । setuputra āradvānnāmā । tadātmajo gāndhāraḥ । tato dharmo dharmād dhṛto dhṛtād durdamaḥ । tataḥ pracetāḥ । pracetasaḥ putraśatam adharmabahulānāṃ mlecchānām udīcyānām ādhipatyam akarot ।।

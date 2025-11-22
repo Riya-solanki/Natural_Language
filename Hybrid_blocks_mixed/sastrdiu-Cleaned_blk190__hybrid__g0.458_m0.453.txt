@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 190 | label: hybrid | g:0.458 m:0.453 ---
+
+saṃbhavati ।
+yadi cārthāntaraṃ nīlaṃ tato asya kiṃ lakṣaṇaṃ vedyatvam ।
+yadyarthatvalakṣaṇaṃ syāt, sarvaṃ sarvasya vedyaṃ syāt vyavasthāhetutvabhāvāt ।
+atha vyavasthāpakaṃ - ya evārtho jñānasya hetuḥ, sa eva vedyo nānya iti cet ।
+na ।
+netrāderapi vedyatvaprasaṅgāt ।
+sādṛśyaṃ hetutvaṃ ca viṣayatvam, nīlārthaśca nīlajñānena sadṛśo na netramiticet, evamapi samanantarapratyayasya hetutvāt vijñānatvena ca sādṛśyādviṣayatvaṃ syāt ।।

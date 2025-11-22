@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 568 | label: hybrid | g:0.441 m:0.497 ---
+
+kimidaṃ svastha iti, ye hyāgamamāpāyino dharmā buddhisukhaduḥkhecchādveṣaprayatnadharmāgharmāsaṃskārastānapahāya yadasya svaṃ naijaṃ jñānaśaktisattādravyatvādi tasminnavatiṣṭhata ityarthaḥ ।
+yadi tu saṃsārāvasthāyāmavidyamāno apyānando muktāvasthāyāṃ janyata ityucyate tato janimattvādanityo mokṣaḥ syāt ।
+kena cāsāvanubhāvyaḥ ।
+na hi svaprakāśatvaṃ kasyacitsaṃbhavītyuktam ।
+na ca manasānubhavaḥ saṃbhavatīti muktasya manaso abhāvāt amanalaskatvaśruterityuktam ।
+ata eva nityo apyānandaḥ saṃsāradaśāyāmabibhūtatvādanubhūtopi muktāvabhibhave nivṛtte manasānubhūyate ityedapi nirastam ।।

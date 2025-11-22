@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 189 | label: grammar | g:0.583 m:0.5 ---
+
+āraktair navapallavair viṭapino netrotsavaṃ tanvate tān dhunvann ayam abhyupaiti madhurāmodo marud dakṣiṇaḥ ।
+tenāliṅgitamātra eva vidhivat prādurbhavan nirbhara- krīḍākūtakaṣāyitena manasā loko ayam unmādyate ।।

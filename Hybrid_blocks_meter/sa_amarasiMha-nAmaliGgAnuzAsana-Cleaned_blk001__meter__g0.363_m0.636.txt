@@ -1,0 +1,4 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1 | label: meter | g:0.363 m:0.636 ---
+
+Amarasiṃha Nāmaliṅgānuśāsana Amarakośa
+amarakośa evaṃ nāmaliṅgānuśāsanaṃ khāṇḍa nāmaliṅgānuśāsanaṃ nāma amarakoṣaḥ prathamaṃ kāṇḍam। maṅgalācaraṇam।

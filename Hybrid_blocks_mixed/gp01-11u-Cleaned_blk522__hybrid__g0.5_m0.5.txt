@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 522 | label: hybrid | g:0.5 m:0.5 ---
+
+[] dūta uvāca-"sā tu kanyā tasyānyāya-bhājo bhojeśasya hastād astāpi prastaram aprāptā, pratyuta tan-mastaka-nyasta-caraṇam ūrdhva-gatyā samutpatyāśu divy anyad eva divyaṃ rūpaṃ smitavatī prakāśitavatī ।"

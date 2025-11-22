@@ -1,0 +1,6 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 884 | label: grammar | g:0.519 m:0.193 ---
+
+deśiko mantravṛttiśca putrakaḥ samayī ca yaḥ। catvāra ete śaivāḥ syurvratino avratino api vā।। iti pūrvamuktatvāt
+avratī yo guruḥ asvavaśa ityanicchuḥ kṛtapātakaḥ sa prāguktānāṃ pātakānāṃ nivṛttyai sādhakoktam uditaṃ vrataṃ kuryāt। dviguṇaṃ svavaśa iti, kāmataḥ kṛtapātako guruḥ sādhakoktaṃ vrataṃ dviguṇamācaret। tāvaccaredasvavaśo vratīti, yadi punaranicchākṛtapāpo vratī sa dviguṇamevācaret।। 
+svavaśastriguṇaṃ tryaṃśaṃ vinā tatputrakaścaret 
+putrakārdhaṃ tu samayī pūrvoktānuktapāpmanām ।।

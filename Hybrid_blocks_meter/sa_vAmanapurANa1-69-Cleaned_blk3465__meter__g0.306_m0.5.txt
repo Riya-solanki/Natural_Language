@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3465 | label: meter | g:0.306 m:0.5 ---
+
+tad varaṃ tasya ca prādāt tapasā paṅkajodbhavaḥ ।
+parituṣṭaḥ sa ca balī nirjagāma triviṣṭapam ।।

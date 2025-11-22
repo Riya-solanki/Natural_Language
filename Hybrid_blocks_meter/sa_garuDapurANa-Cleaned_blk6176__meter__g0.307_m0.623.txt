@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6176 | label: meter | g:0.307 m:0.623 ---
+
+bhrūḥ punarbhūstathā dhenuḥ svasā mātā ca nau striyaḥ ।
+vāksragdiṅmutkrudhaḥ prāyo yuvatiḥ kukubhastathā ।।

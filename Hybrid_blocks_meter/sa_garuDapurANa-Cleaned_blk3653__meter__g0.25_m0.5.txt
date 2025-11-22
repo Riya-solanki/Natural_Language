@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3653 | label: meter | g:0.25 m:0.5 ---
+
+gāyattryā caiva gandheti āpyāyasva dṛ dadhigrahaḥ ।
+tejo asīti ca devasya brahmakūrcavrataṃ caret ।।

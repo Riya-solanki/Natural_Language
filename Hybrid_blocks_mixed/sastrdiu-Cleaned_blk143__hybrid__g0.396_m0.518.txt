@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 143 | label: hybrid | g:0.396 m:0.518 ---
+
+pañcamīkalpanā ।
+sāca śabdavidāṃ nāmarūṣitaiva bhavatīti nāma vikalpeneti vyavahriyate ।
+etena yadāhuḥ-

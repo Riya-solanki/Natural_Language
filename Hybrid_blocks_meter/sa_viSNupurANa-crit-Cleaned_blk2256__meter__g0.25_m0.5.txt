@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2256 | label: meter | g:0.25 m:0.5 ---
+
+yo bhavān yan nimittaṃ vā yad āgamanakāraṇam 
+tat sarvaṃ kathyatāṃ vidvan mahyaṃ śuśrūṣave tvayā ।।

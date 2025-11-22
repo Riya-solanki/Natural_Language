@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1537 | label: meter | g:0.289 m:0.9 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+evaṃ brahmābravīcchrutvā hareraṣṭanidhīṃstathā ।
+tatra padmamahāpadmau tathā makarakacchapau ।।

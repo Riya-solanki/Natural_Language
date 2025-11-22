@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 194 | label: meter | g:0.194 m:0.5 ---
+
+devadevīsutaṃ muktvā kasmāt so api tadudbhavaḥ 
+tata evaṃ samālocya kva sthānasthaḥ kujeśvaraḥ ।।

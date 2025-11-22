@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 39 | label: meter | g:0.25 m:0.5 ---
+
+āyuṣmān kīrtimān dhanyaḥ prajāvāṃś ca bhaven naraḥ 
+sthiravaṃśaś ca bhavati mṛtaḥ svarge mahīyate । 
+ādisargaṃ viditvemaṃ yatheṣṭāṃ prāpnuyād gatim ।।

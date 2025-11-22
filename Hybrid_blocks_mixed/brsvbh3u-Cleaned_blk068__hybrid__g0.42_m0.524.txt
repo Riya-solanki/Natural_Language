@@ -1,0 +1,4 @@
+--- source: brsvbh3u-Cleaned.txt | block: 68 | label: hybrid | g:0.42 m:0.524 ---
+
+vṛddhihrāsabhāktvam antarbhāvād ubhayasāmañjasyād evam ।
+।।

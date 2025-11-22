@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 121 | label: hybrid | g:0.465 m:0.5 ---
+
+ye te bhavanti ratanā ya anarghaprāptā te durlabhā bahupratyarthika nityakālam 
+emeva prajñavarapāramitā jinānāṃ durlābhu dharmaratanaṃ baddupadravaṃ ca ।।

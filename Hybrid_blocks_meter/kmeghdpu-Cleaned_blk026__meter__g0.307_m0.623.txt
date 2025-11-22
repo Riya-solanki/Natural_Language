@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 26 | label: meter | g:0.307 m:0.623 ---
+
+viśrāntaḥ san vraja vananadītīrajātāni siñcann udyānānāṃ navajalakaṇair yūthikājālakāni ।
+gaṇḍasvedāpanayanarujāklāntakarṇotpalānāṃ chāyādānāt kṣaṇaparicitaḥ puṣpalāvīmukhānām ।।

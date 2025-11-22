@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1936 | label: meter | g:0.194 m:1.0 ---
+
+māṃsamedosthidurgandhā digdhā kṣatriyaśoṇitaiḥ 
+rajasvaleva yuvatiḥ kaśyapaṃ samupasthitā ।।

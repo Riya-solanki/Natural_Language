@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 73 | label: grammar | g:0.625 m:0.5 ---
+
+kurukṣetreṇa kiṃ tasya kiṃ kāśyā puṣkareṇa vā jihvāgre vartate tasya harir ity akṣaradvayam ।।

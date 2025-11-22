@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 500 | label: grammar | g:0.632 m:0.0 ---
+
+āsedus te tatas tatra khanyamāne mahārṇave 
+tam ādipuruṣaṃ devaṃ hariṃ kṛṣṇaṃ prajāpatim 
+viṣṇuṃ kapilarūpeṇa svapantaṃ puruṣaṃ tadā ।। 
+hayam anveṣamāṇās te samantān nyakhanan mahīm । prāgudīcyāṃ diśi hayaṃ dadṛśuḥ kapilāntike ।। eṣa vājiharaś cora āste mīlitalocanaḥ । hanyatāṃ hanyatāṃ pāpa iti ṣaṣṭisahasriṇaḥ । muṣṭiprahārair ahanann unmimeṣa tadā muniḥ । sraṣṭāraṃ sarvabhūtānāṃ sādhyaṃnārāyaṇaṃ tathā ।। tasya gatvā samīpe tu so ayaṃ cora iti bruvan । gṛhyatāṃ badhyatām eṣa no aśvahartā sudurmatiḥ ।। tatas te pāśam udyamya grahituṃ taṃ mahādyutim । upākrāmaṃs tadā sarve sagarāḥ kālacoditāḥ । dadṛśuḥ sāgarāḥ sarve sāyudhās taṃpradudruvuḥ । 
+tasya cakṣuḥsamutthena tejasā pratibudhyataḥ 
+dagdhāḥ sarve mahārāja catvāras tv avaśeṣitāḥ ।।

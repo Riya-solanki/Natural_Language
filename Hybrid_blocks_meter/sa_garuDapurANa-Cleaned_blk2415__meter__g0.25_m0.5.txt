@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2415 | label: meter | g:0.25 m:0.5 ---
+
+dharmeṇa dhāritā bhūtyai sarvadevamayī śilā ।
+pretatvaṃ ye gatā nṝṇāṃ mitrādyā bāndhavādayaḥ ।।

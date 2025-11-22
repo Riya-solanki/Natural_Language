@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 190 | label: meter | g:0.056 m:0.875 ---
+
+{durādutsukamāgate vivalitaṃ saṃbhāṣiṇi sphāritaṃ
+saṃśliṣyatyaruṇaṃ gṛhītavasane kiñcāñcitabhrūlatam ।
+māninyāścaraṇānativyatikare bāṣpāmbupūrṇekṣaṇaṃ
+cakṣurjātamaho prapañcacaturaṃ jātāgasi preyasi ।।}

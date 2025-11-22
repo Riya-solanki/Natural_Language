@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1671 | label: meter | g:0.25 m:0.625 ---
+
+trīṇi,pūrvā tathā caiva adhovakrāḥ prakīrtitāḥ? ।
+eṣu vāpītaḍāgādikūpabhūmitṛṇāni ca ।।

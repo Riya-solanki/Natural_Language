@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 739 | label: grammar | g:0.75 m:0.5 ---
+
+sākaṃ hi śucinā śuciḥ praśastā kratunājani । vidvā"n asya vratā dhruvā vayā ivānu rohate ity ādhāya samidhaṃ kṛṣṇāṃ dadyāt ।

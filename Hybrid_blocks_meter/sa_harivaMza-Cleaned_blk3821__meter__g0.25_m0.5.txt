@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3821 | label: meter | g:0.25 m:0.5 ---
+
+bhūyas tu buddhir abhavat kṛṣṇasya viditātmanaḥ 
+janān imān dhanaughais tu tarpayeyam ahaṃ yadi ।।

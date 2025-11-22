@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2291 | label: hybrid | g:0.51 m:0.5 ---
+
+tamāha śaṃbhurdvija gaccha lokaṃ taṃ brahmaṇo durgamamavyayasya ।
+idaṃ ca tīrthaṃ pravaraṃ pṛthivyāṃ pṛthūdakasyāstu samaṃ phalena ।।

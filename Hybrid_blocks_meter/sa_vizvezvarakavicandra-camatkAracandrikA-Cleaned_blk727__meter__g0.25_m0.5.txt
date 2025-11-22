@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 727 | label: meter | g:0.25 m:0.5 ---
+
+vyatyayo vastunonyastu yo vā vinimayo mithaḥ ।
+parivṛttiriyaṃ proktā mukhyā gauṇīti sā dvidhā ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1384 | label: meter | g:0.333 m:0.759 ---
+
+jaradambarasaṃvaraṇagranthividhau granthakāra eko aham ।
+parimitakadannavaṇṭanavidyāpāraṃgatā gṛhiṇī ।।
+vīrasya

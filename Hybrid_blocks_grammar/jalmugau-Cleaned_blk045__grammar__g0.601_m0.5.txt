@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 45 | label: grammar | g:0.601 m:0.5 ---
+
+dāsī nātha tavāam eva vibhavaḥ sarvas tvadīyaḥ sthito mā māṃ nirdaya muñca śūnyam akhilaṃ manye jagat tvāṃ vinā
+ity uktvā sahasā bhujaṅga-purato yad veśyayā rudyate bhuktochiṣṭa-daridra-kāmi-vibhavās te kevalaṃ tad viduḥ ।।

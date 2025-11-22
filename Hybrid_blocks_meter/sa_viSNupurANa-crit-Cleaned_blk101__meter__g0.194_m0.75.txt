@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 101 | label: meter | g:0.194 m:0.75 ---
+
+yathā saṃnidhimātreṇa gandhaḥ kṣobhāya jāyate 
+manaso nopakartṛtvāt tathāsau parameśvaraḥ ।।

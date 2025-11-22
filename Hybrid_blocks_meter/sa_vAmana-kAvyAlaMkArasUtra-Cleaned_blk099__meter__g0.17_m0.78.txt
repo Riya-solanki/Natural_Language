@@ -1,0 +1,7 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 99 | label: meter | g:0.17 m:0.78 ---
+
+evaṃ vākyadoṣānabhidhāya vākyārthadoṣān pratipādayitumāha 
+vyarthaikārthasaṃdigdhāyuktāpakramalokavidyā viruddhāni ca ।।vākyāni duṣṭānīti sambandhaḥ ।।
+krameṇa vyākhyātumāha 
+vyāhatapūrvottarārthaṃ vyartham ।।
+vyāhatau pūrvottarāvarthau yasmiṃstadvyāhatapūrvottarārthaṃ vākyaṃ vyartham । yathā

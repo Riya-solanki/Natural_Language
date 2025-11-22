@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 270 | label: meter | g:0.264 m:0.824 ---
+
+vallībaddhordhvajūṭodbhaṭamaṭati raṭatkoṭikodaṇḍadaṇḍaḥ iti ।।
+pādānuprāsaḥ pādayamakavat ।।
+ye pādayamakasya bhedāste pādānuprāsasyetyarthaḥ । teṣāmudāharaṇāni yathā

@@ -1,0 +1,12 @@
+--- source: brsvbh2u-Cleaned.txt | block: 137 | label: grammar | g:0.529 m:0.26 ---
+
+aparigrahāc cātyantam anapekṣā ।
+nigadavyākhyātena bhāṣyeṇa vyākhyātam ।
+saṃpratyutsūtraṃ bhāṣyakṛdvaiśeṣikatantraṃ dūṣayati-api ca vaiśeṣikā iti ।
+dravyādhīnatvaṃ dravyādhīnanirūpaṇatvam ।
+na hi yathā gavāśvamahiṣamātaṅgāḥ parasparānadhīnanirūpaṇāḥ svatantrā nirūpyante, vanhyādyanadhīnotpattayo vā dhūmādayo yathā vanhyādyanadhīnanirūpaṇāḥ svatantrā nirūpyante, evaṃ guṇādayo na dravyādyanadhīnanirūpaṇāḥ, api tu yadā yadā nirūpyante tadā tadā tadākāratayaiva prathante na tu prathāyāmeṣāmasti svātantryaṃ, tasmānnātiricyante dravyādapi tu dravyameva sāmānyarūpaṃ tathā tathā prathata ityarthaḥ ।
+dravyakāryatvamātraṃ guṇādīnāṃ dravyādhīnatvamiti manvānaścodayatinanvagneranyasyāpīti ।
+pariharati-bhedapratīteriti ।
+na tadadhīnotpādatāṃ tadadhīnatvamācakṣmahe kintu tadākāratāṃ, tathā ca na vyabhicāra ityarthaḥ ।
+śaṅkate-guṇānāṃ dravyādhīnatvaṃ dravyaguṇayorayutasiddhatvāditi yadyucyeta ।
+yatra hi dvāvākāriṇau vibhinnābhyāmākārābhyāmavagamyete tau saṃbaddhāsaṃbaddhau vā vaiyadhikaraṇyena pratibhāsete, yatheha kuṇḍe dadhi

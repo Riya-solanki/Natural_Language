@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1564 | label: meter | g:0.194 m:0.625 ---
+
+tam ūcur brahmaṝṣayo vacanaṃ dharmasaṃhitam 
+ṛṣivaṃśeṣu bhagavañś chinnamūlam idaṃ kulam ।।

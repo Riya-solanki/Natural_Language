@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1971 | label: hybrid | g:0.51 m:0.5 ---
+
+gatvāpi yo nāma mayānukampyo madgocaraṃ sa svayamabyupetaḥ ।
+yuktaṃ mayātithyamato asya kartumevaṃ hi santo atithiṣu pravṛttāḥ ।।

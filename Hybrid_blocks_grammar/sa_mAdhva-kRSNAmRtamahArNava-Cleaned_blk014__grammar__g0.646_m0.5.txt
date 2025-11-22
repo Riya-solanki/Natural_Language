@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 14 | label: grammar | g:0.646 m:0.5 ---
+
+sakṛd abhyarcito yena heḷayā api namaskṛtaḥ sa yāti paramaṃ sthānaṃ yat surair api durlabham ।।

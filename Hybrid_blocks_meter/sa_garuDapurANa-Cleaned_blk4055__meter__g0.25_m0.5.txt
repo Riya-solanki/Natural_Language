@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4055 | label: meter | g:0.25 m:0.5 ---
+
+āgatya rāmaḥ sūnyāñca parṇaśālāṃ dadarśa ha ।
+śokaṃ kṛtvātha jānakyā mārgaṇaṃ kṛtavānprabhuḥ ।।

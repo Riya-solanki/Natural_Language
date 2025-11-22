@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 140 | label: meter | g:0.135 m:0.956 ---
+
+atha sāmānyā-
+sādhāraṇa-strī gaṇikā kalā-prāgalbhya-dhārṣṭya-yuk ।। athā-
+gāḍhāliṅgana-pīḍita-stana-taṭaṃ svidyat-kapola-sthalaṃ
+sandaṣṭādhara-mukta-sītkṛtam atibhrāmyad-bhru-nṛtyat-karam ।
+cāṭu-prāya-vaco-vicitra-bhaṇitair yātai rutaiś cāṅkitaṃ
+veśyānāṃ dhṛti-dhāma puṣpa-dhanuṣaḥ prāpnoti dhanyo ratam ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1025 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ kautuka-viśeṣeṇa jāte bhojana-śeṣe racitācamanaṃ tam ananta-guṇa-kamanaṃ rāma-dāmādibhiḥ sahitaṃ sahitaṃ sā punaḥ karpūra-rasa-pūra-pūrṇa-khapura-pūrita-sacūrṇa-svarṇa-varṇa-parṇa-puṭa-dāna-puraḥ-saram evam avādīt, lālya-pālyamāna-mātṛ-sandeśatayā bālyam apahāya tūrṇam eva vraja-sadanaṃ pūrṇam ācaraṇīyam ।

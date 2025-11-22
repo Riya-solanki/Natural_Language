@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 145 | label: grammar | g:0.583 m:0.5 ---
+
+prakaṭībhava nānyābhiḥ prārthanābhiḥ kadarthanāḥ kurmas te nātha tāmyantas tvām eva mṛgayāmahe ।।

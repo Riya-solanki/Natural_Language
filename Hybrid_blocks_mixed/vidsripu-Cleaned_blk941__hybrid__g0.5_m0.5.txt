@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 941 | label: hybrid | g:0.5 m:0.5 ---
+
+utsārito hasitadīdhitibhiḥ kapolād ekāvalībhir avadhūta iva stanebhyaḥ ।
+aṅgeṣv alabdhaparibhogasukho andhakāro gṛhṇāti keśaracanāsu ruṣeva nārīḥ ।।

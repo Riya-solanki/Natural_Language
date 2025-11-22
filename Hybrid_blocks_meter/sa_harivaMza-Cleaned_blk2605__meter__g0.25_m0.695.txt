@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2605 | label: meter | g:0.25 m:0.695 ---
+
+balenāyaṃ hato daityo bālenākliṣṭakarmaṇā 
+vicaranty aśarīriṇyo vācaḥ surasamīritāḥ । 
+baladeveti nāmasya devaiś coktaṃ divi sthitaiḥ ।।

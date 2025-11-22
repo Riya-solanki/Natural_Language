@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8530 | label: meter | g:0.25 m:0.5 ---
+
+brahmaṇā nirmitaṃ pūrvaṃ viṣṇunā pālitaṃ tadā ।
+rudraḥ saṃhāramūrtiśca nirmito brahmaṇā tataḥ ।।

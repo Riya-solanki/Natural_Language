@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 864 | label: grammar | g:0.559 m:0.437 ---
+
+indur yatra na nindyate na madhuraṃ dūtīvacaḥ śrūyate nālāpā nipatanti bāṣpakaluṣā nopaiti kārśyaṃ tanuḥ ।
+svādhīnām anukūlinīṃ svagṛhiṇīm āliṅgya yat supyate tat kiṃ prema gṛhāśramavratam idaṃ kaṣṭaṃ samācaryate ।।
+lakṣmīdharasya

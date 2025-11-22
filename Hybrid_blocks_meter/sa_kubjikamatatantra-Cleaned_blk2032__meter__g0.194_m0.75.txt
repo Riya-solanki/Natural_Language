@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2032 | label: meter | g:0.194 m:0.75 ---
+
+dvādaśaṃ bhāskaraṃ rūpam īśvarākhyaṃ trayodaśam 
+kodaṇḍadvayamadhyasthaṃ dedīpyantaṃ suvarcasam ।।

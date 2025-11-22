@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 311 | label: meter | g:0.33 m:0.801 ---
+
+tṛṇarājapākasaurabhasugandhayaḥ pariṇatāśavo divasāḥ ।
+ādyakulopanimantraṇasuhitadvijaduḥsahoṣmāṇaḥ ।।
+yogeśvarasya

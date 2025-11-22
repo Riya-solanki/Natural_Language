@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2112 | label: meter | g:0.194 m:0.75 ---
+
+vahanti pannagā yakṣaiḥ kriyate abhīṣusaṃgrahaḥ 
+vālakhilyās tathaivainaṃ parivārya samāsate ।।

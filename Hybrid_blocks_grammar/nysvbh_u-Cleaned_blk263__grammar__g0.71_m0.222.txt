@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 263 | label: grammar | g:0.71 m:0.222 ---
+
+na saṃśayānutpattiḥ saṃśayānucchedaśca prasajyate, katham ? yattāvat asamānadharmādhyavasāyaḥ saṃśayahatuḥ na samānadharmamātramiti,' evametat।
+kasmādevaṃ nocyate ? iti,"vaśeṣāpekṣiḥ"itivacanāt tatsiddheḥ viśeṣasyāpekṣā ākāṅkṣā sā cānupalabhyamāne vaśeṣe simarthā।
+na coktam asamānadharmāpekṣaḥ' iti।
+samāne ca dharme kathamākāṅkṣā na bhaved yadyayamapratyakṣaḥ myāt, etena sāmarthyena vajñāyite asamānadharmādhyavasāyāt' iti।
+upapattivacanādvā samānadharmopapatterityucyate na cānyā sadbhāvasaṃvedanādṛte samānadharmopapattirasti, anupalabhyamānasadbhāvo hi samāno dharmo avadyimānavad bhavatīti।
+vaṣiyaśabdena vā vaṣiyiṇaḥ pratyayasyābhidhānaṃ yathā loke adhūmenāgniranumīyate' ityukte adhūmadarśanenāgniranumīyate' itijñāyate, katham ? dṛṣṭvā hi dhūmamathāgnimanuminoti nādṛṣṭe na caṃ vākye darśanaśabdaḥ śrūyate anujānāti ca vākyasyārthapratyāyakatvaṃ tena manyāmahe vaṣiyaśabdena vaṣiyiṇaḥ pratyayasyābhidhānaṃ boddhānujānāti evamihāpi samānadharmaśabdena samānadharmādhyavasāyamāheti।

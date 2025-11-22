@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 1001 | label: hybrid | g:0.542 m:0.5 ---
+
+ābhāsopagamo vyaktiḥ soḍhatvam iti karmaṇaḥ viśeṣāḥ prāpyamāṇasya kriyāsiddhau vyavasthitāḥ ।।

@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 890 | label: meter | g:0.25 m:0.5 ---
+
+vīrāḥ puruṣā yasya sa vīrapuruṣaḥ ।
+kalo ravo yasya sa kalaravaḥ ।।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 649 | label: grammar | g:0.621 m:0.197 ---
+
+se asici kṛtacṛtacchṛdatṛdanṛtaḥ ।।
+ebhyaḥ parasya sijbhinnasya sāderārdhadhātukasyeḍvā । nartiṣyati, nartsyati । nṛtyatu । nṛtyet । anartīt । anartiṣyat, anartsyat ।। vā bhrāśeti śyanvā । trasyati, trasati ।।

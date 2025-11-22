@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 5 | label: hybrid | g:0.51 m:0.5 ---
+
+tasmai sa hovāca pitāmahaś ca śraddhā-bhakti-dhyāna-yogād avaihi ।
+na karmaṇā na prajayā dhanena tyāgenaike amṛtatvam ānaśuḥ ।।

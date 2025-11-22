@@ -1,0 +1,8 @@
+--- source: brssgo2u-Cleaned.txt | block: 687 | label: meter | g:0.25 m:0.698 ---
+
+yathā guṇasyāpi sato gandhasya gandhavaddravyavyatirekeṇa vṛttirbhavati ।
+aprāpteṣvapi kusumādiṣu gandhavatsu kusumagandhopalabdheḥ ।
+evamaṇorapi sato jīvasya caitanyaguṇavyatireko bhaviṣyati ।
+ataścānaikāntikametadguṇatvādrūpādivadāśrayaviśleṣānupapattiriti ।
+guṇasyaiva sato gandhasyāśrayaviśleṣadarśanāt ।
+gandhasyāpi sahaivāśrayeṇa viśleṣa iti cet ।

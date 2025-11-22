@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2347 | label: meter | g:0.194 m:0.5 ---
+
+icchanty anupabhuktāni bhoktuṃ gāvas tṛṇāni ca 
+tasmād vanaṃ navatṛṇaṃ gacchantu dhanino vrajāḥ ।।

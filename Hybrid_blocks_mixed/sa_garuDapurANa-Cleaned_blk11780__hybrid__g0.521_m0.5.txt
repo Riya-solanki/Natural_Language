@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11780 | label: hybrid | g:0.521 m:0.5 ---
+
+tadaiva devī vāruṇī śeṣapatnī tapaśca kre indirāprītaye ca ।
+tadā prītā indirā suprasannā uvāca tāṃ vāruṇīṃ śeṣapatnīm ।।

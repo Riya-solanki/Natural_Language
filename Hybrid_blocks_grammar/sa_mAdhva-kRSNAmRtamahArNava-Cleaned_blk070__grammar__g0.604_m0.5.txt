@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 70 | label: grammar | g:0.604 m:0.5 ---
+
+buddhyā buddhvā vadasvainaṃ harir ity akṣaradvayam smaraṇād eva kṛṣṇasya na punarjāyate kvacit ।।

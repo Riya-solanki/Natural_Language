@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 220 | label: grammar | g:0.583 m:0.5 ---
+
+tāpaṃ stamberamasya prakaṭayati karaḥ śīkaraiḥ kukṣum ukṣan paṅkāṅkaṃ palvalānāṃ vahati taṭavanaṃ māhiṣaiḥ kāyakāṣaiḥ ।
+uttāmyattālavaś ca pratapati taraṇāvāṃśavīṃ tāpatandrīm adridroṇīkuṭīre kuhariṇi hariṇārātayo yāpayatni ।।

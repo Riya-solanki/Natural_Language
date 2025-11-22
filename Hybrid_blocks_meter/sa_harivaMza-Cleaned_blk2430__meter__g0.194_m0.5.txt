@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2430 | label: meter | g:0.194 m:0.5 ---
+
+śailānāṃ ca vanānāṃ ca drumāṇāṃ ca varānana 
+praticchannāni bhāsante śikharāṇi ghanair ghanaiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5254 | label: meter | g:0.25 m:1.0 ---
+
+śarīrasya ca śaitilyaṃ svarakaṇṭhāsyahṛddahet ।
+chinnabhinnavraṇādīni pācayitvāgnibhāvitaḥ ।।

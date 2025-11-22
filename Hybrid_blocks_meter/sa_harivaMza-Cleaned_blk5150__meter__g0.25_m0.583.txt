@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5150 | label: meter | g:0.25 m:0.583 ---
+
+iha dharmārthakāmānāṃ vedānāṃ ca pratikriyā 
+āśiṣaś ca śubhāḥ puṇyās tathaivāyur yuge yuge ।। 
+bhaviṣyanti mahārāja narā bahvāyuṣas tadā । 
+yathā yugānāṃ parivartanāni cirapravṛttāni vidhisvabhāvāt 
+kṣaṇaṃ na saṃtiṣṭhati jīvalokaḥ kṣayodayābhyāṃ parivartamānaḥ ।।

@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 193 | label: grammar | g:0.625 m:0.5 ---
+
+sā sā prasiddhā kriyā kālaḥ śītādi vā tadupalakṣitaḥ sarvabhinnāvabhāsamānabhāvopādhibhūtaḥ krama eva vāsau tasyaivopayogāt ।।

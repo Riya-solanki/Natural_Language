@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 135 | label: meter | g:0.306 m:0.5 ---
+
+bhagavan muniśārdūla punar vaktuṃ tvam arhasi ।
+kena kena purā nātha vratarājam idaṃ kṛtam ।।

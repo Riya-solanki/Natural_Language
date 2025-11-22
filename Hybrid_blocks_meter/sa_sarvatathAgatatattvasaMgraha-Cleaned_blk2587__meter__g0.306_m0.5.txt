@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2587 | label: meter | g:0.306 m:0.5 ---
+
+vajragarbha hṛdi likhyaṃ bhāvayaṃ susamāhitaḥ ।
+yadā tu hṛdayaṃ kaṃpet tataḥ siddho dhanaṃ dadet ।।

@@ -1,0 +1,6 @@
+--- source: mamkpb_u-Cleaned.txt | block: 246 | label: meter | g:0.25 m:0.7 ---
+
+samagrāṇāṃ rasānāṃ saṃghaṭanānāṃ ca ।
+udāharaṇam parimlānaṃ pīnastanajaghanasaṃgādubhayata- stanormadhyasyāntaḥ parimilanamaprāpya haritam ।
+idaṃ vyastanyāsaṃ śrlathabhujalatākṣepavalanaiḥ kṛśāhgyāḥ saṃtāpaṃ vadati bisinīpatraśayanam ।।
+yadyapi guṇaparatantrāḥ saṃghaṭanādayastathāpi

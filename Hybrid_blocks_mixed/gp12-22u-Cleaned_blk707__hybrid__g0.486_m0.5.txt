@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 707 | label: hybrid | g:0.486 m:0.5 ---
+
+anunmattaḥ svataḥ sarvaṃ vetti svīyaṃ hitaṃ pitaḥ ।
+no ced vetti na ca brūte brūte ced vetti niścitam ।। [anuṣṭubh]

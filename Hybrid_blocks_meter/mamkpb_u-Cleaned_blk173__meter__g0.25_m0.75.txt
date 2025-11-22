@@ -1,0 +1,4 @@
+--- source: mamkpb_u-Cleaned.txt | block: 173 | label: meter | g:0.25 m:0.75 ---
+
+anyathānupapacyā tu bodhecchaktiṃ duyātmikām ।
+arthāpacyāvabodheta saṃbandhaṃ tripramāṇakam ।।

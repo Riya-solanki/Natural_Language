@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4497 | label: meter | g:0.194 m:0.625 ---
+
+tato grāmasya madhye ahaṃ niviṣṭaḥ kurunandanaḥ 
+samantād vṛṣṇisainyena parikṣitya janavrajam ।।

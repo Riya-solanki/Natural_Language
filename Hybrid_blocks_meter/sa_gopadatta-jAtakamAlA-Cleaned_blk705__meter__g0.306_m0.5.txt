@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 705 | label: meter | g:0.306 m:0.5 ---
+
+vayaṃ rājyaṃ ca dātāro yad vānyat sādhu manyase ।
+tathaiva prabhutāṃ tatra nāvagantavyam anyathā ।।

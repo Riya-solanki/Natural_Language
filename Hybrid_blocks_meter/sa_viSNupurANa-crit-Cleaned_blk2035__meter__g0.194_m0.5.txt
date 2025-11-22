@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2035 | label: meter | g:0.194 m:0.5 ---
+
+bhedaṃ cālakanandākhyaṃ yasyāḥ śarvo api dakṣiṇam 
+dadhāra śirasā prītyā varṣāṇām adhikaṃ śatam ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2782 | label: meter | g:0.25 m:0.5 ---
+
+harate nāgarājas tu vinā devi pavitrakāt 
+vṛthā pariśramas tasya yo na kuryāt pavitrakam ।।

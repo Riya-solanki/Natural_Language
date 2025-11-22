@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 11 | label: grammar | g:0.594 m:0.5 ---
+
+tavaiśvaryaṃ yatnād yad upari viriñco harir adhaḥ paricchettuṃ yātāv analam analaskandhavapuṣaḥ ।
+tato bhaktiśraddhābharagurugṛṇadbhyāṃ giriśa yat svayaṃ tasthe tābhyāṃ tava kim anuvṛttir na phalati ।।

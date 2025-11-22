@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 145 | label: grammar | g:0.583 m:0.073 ---
+
+vaiśvānaraḥ pulomā ca vidrāvaṇamahāśirau 
+svarbhānur vṛṣaparvā ca vipracittiś ca vīryavān ।। 
+sūkṣmaś caiva nicandraś ca ūrṇanabho mahāhiriḥ । asilomā sukeśī ca śaṭhaś ca balako madaḥ । tathā gaganamūrdhā ca kumbhanābho mahāsuraḥ । pramado mayaḥ kupatho hayagrīvaś ca vīryavān ।। vaisṛpaḥ savirūpākṣaḥ supatho atha harāharau । hiraṇyakaśipuś caiva śatamāyaś ca śambaraḥ । śarabhaḥ śalabhaś caiva vipracittiś ca vīryavān । 
+sarva ete danoḥ putrāḥ kaśyapād abhijajñire 
+vipracittipradhānās te dānavāḥ sumahābalāḥ ।। 
+eteṣāṃ yad apatyaṃ tu tan na śakyaṃ narādhipa । prasaṃkhyātuṃ mahīpāla putrapautram anantakam । 
+svarbhānos tu prabhā kanyā pulomnas tu śacī sutā 
+upadānavī hayaśirāḥ śarmiṣṭhā vārṣaparvaṇī ।।

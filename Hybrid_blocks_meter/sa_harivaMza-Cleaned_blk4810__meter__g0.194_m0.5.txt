@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4810 | label: meter | g:0.194 m:0.5 ---
+
+tatparas tanmanāś cāsmi tadbhaktas tatpriye rataḥ 
+kathaṃ pāpaṃ kariṣyanti vijñāyaivaṃvidhaṃ hi mām ।।

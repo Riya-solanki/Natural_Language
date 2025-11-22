@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2364 | label: meter | g:0.25 m:0.625 ---
+
+phalgutīrthe caturthe ahini snātvā devāditarpaṇam ।
+kṛtvā śrāddhaṅgayāśīrṣe kuryādrudrapadādiṣu ।।

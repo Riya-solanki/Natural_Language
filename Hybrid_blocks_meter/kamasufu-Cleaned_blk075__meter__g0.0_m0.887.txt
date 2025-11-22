@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 75 | label: meter | g:0.0 m:0.887 ---
+
+caturtho adhyāyaḥ
+prakaraṇa eka-puruṣābhiyoga-prakaraṇam

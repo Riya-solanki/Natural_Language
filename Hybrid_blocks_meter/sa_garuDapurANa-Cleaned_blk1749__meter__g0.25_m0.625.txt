@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1749 | label: meter | g:0.25 m:0.625 ---
+
+śliṣṭāṅgulī tāmranakhau sugulphau śirayojjhitau ।
+kūrmonnatau ca caraṇau syātāṃ nṛpavarasya hi ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 384 | label: meter | g:0.25 m:0.5 ---
+
+japavratejyāvidhinā tapaḥśramairjano ayamanvicchati darśanaṃ mama ।
+bhavānpunarnecchati kena hetunā varapraditsābhigatasya me sataḥ ।।

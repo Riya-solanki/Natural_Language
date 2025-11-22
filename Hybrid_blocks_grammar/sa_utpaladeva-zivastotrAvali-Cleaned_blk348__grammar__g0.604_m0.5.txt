@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 348 | label: grammar | g:0.604 m:0.5 ---
+
+kīrtyaś cintāpadaṃ mṛgyaḥ pūjyo yena tvam eva tat bhavadbhaktimatāṃ ślāghyā lokayātrā bhavanmayī ।।

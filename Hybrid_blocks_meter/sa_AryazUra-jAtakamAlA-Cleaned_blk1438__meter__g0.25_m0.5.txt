@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1438 | label: meter | g:0.25 m:0.5 ---
+
+yadi kāraṇamīśvara eva vibhurjagato nikhilasya tavābhimataḥ ।
+nanu nārhasi mayyadhiropayituṃ vihitaṃ vibhunā kapirājavadham ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10752 | label: meter | g:0.25 m:0.5 ---
+
+kalau saṃti kalpamānaṃ kalerante saṃti ca ।
+tasmindine brahmarūpe gacchanti ca tamontikam ।।

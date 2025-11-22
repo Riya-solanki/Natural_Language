@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 285 | label: hybrid | g:0.542 m:0.5 ---
+
+[] paurṇamāsī uvāca-kim iva vṛttaṃ vṛttam yasmād bhavaty udvṛtta-cittā dṛśyate?

@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 1049 | label: grammar | g:0.75 m:0.5 ---
+
+atra nimagnanābheḥ iti manuṣyajātervivakṣeti ṅīṣ na kṛtaḥ । sutanu jahihi maunaṃ paśya pādānataṃ mām ityatra manuṣyajāteravivakṣeti sutanuśabdāt ūṅutaḥ ityūṅi sati hrasvatve sutanu iti siddhyati । varatanurathavāsau naiva dṛṣṭā tvayā me । atra manuṣyajāteravivakṣetyūṅ na kṛtaḥ ।।

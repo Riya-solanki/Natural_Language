@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 32 | label: meter | g:0.284 m:0.65 ---
+
+atra svairavihārārthinīti vyajyate ।
+lakṣyasya yathā sāhentī sahi suhaaṃ khaṇe khaṇe dūmmiāsi majjhakae ।
+sabbhāvaṇehakaraṇijjasarisaaṃ dāva viraiaṃ tumae ।।

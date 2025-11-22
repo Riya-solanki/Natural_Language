@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 286 | label: grammar | g:0.583 m:0.5 ---
+
+yasyety etad aṇo rūpaṃ saṃjñinām abhidhāyakam na hi pratīyamānena grahaṇasyāsti saṃbhavaḥ ।।

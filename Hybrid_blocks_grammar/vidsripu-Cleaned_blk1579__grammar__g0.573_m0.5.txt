@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1579 | label: grammar | g:0.573 m:0.5 ---
+
+nirānandā dārā vyasanavidhuro bāndhavajano janībhūtaṃ mitraṃ dhanavirahadīnaḥ parijanaḥ ।
+asaṃtuṣṭaṃ cetaḥ kuliśakaṭhinaṃ jīvitam idaṃ vidhir vāmārambhas tad api ca mano vāñchati sukham ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1597 | label: meter | g:0.328 m:0.595 ---
+
+tatastaduttāraṇaniścitātmā svaṃ prāṇasaṃdehamacintayitvā ।
+sa tāṃ nadīṃ bhīmarayāṃ jagāhevimokṣobhayan vīra ivārisenām ।।

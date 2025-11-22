@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 198 | label: meter | g:0.345 m:0.623 ---
+
+upanayati kapole lolakarṇapravāla- kṣaṇamukulaniveśāndolanavyāpṛtānām ।
+parimalitaharidrān samprati drāviḍīnāṃ navanakhapadatiktān ātapaḥ svedabindūn ।।
+yogeśvarasya

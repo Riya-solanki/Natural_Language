@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 616 | label: meter | g:0.194 m:0.5 ---
+
+ūcus te pitaraḥ kanyāṃ bhraṣṭaiśvaryāṃ vyatikramāt 
+bhraṣṭaiśvaryā svadoṣeṇa patasi tvaṃ śucismite ।।

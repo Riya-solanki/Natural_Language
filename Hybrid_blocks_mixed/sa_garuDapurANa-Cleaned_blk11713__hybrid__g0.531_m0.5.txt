@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11713 | label: hybrid | g:0.531 m:0.5 ---
+
+tanmūrtidānaṃ durlabhaṃ tatra devaḥ prīṇāti yasmācchrīnivāso mahātmā ।
+yadā dānaṃ durghaṭaṃ syācca devi tadā śrotavyaṃ lakṣaṇaṃ tasya mūrteḥ ।।

@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 123 | label: grammar | g:0.641 m:0.395 ---
+
+śuddhacitsaṃtatisamutpādo bhavatāṃ mokṣaḥ syāt yadi vā pradīpanirvāṇarūpaḥ ।। 
+ādye pakṣe svaparikalpitasya pratikṣaṇavināśitvalakṣaṇasyopaplavasya muktāv apy anupaśamaḥ ।। 
+dvitīye tu pradīpanirvāṇarūpatvāt saṃvedanāsaṃbhavataḥ kaścid apy anubhavo nāstīti tathāvidhāt saṃvedanavināśātmakāt kāṣṭhakuḍyādīnām api sulabhān mokṣāt saṃsārāvasthā varaṃ saugatānām iti kṛtam evaṃvidhamokṣalipsayā ।। 
+tadiyatā vedāntasāṃkhyasadasatpādārthikādimateṣu asarvadarśipraṇetṛtvād vastusaṃgrahasyāsphuṭatvam asaṃbaddhatāṃ codbhāvya darśanāntarāṇām apy eṣaiva vārteti tattadabhiniveśināṃ na niratiśayaniḥśreyasayoga iti vaktum āha ।।

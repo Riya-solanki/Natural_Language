@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11632 | label: meter | g:0.25 m:0.75 ---
+
+cintitaṃ sādhyate yasmāttasmāccintāmaṇiṃ viduḥ ।
+puṣkariṇyāśca bāhulyādgirāvasminsaraḥ su ca ।
+puṣkarādririti prāhurevaṃ tattvārthavedinaḥ ।।

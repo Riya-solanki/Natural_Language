@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 396 | label: meter | g:0.25 m:0.625 ---
+
+vinigrahapragrahayoḥ pravṛttirdharmoparodhaṃ na cakāra tasya ।
+hitāśayatvānnayanaipuṇācca parīkṣakasyeva pituḥ prajāsu ।।

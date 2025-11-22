@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 643 | label: meter | g:0.194 m:0.75 ---
+
+sa rājaputras tān sarvān praṇipatyābhyabhāṣata 
+praśrayāvanataḥ samyag abhivādanapūrvakam ।।

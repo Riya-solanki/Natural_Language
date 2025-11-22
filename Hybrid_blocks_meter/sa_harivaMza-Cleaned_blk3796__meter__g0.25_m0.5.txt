@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3796 | label: meter | g:0.25 m:0.5 ---
+
+śrutārtho devaguhyasya bhavāny atra vayaṃ sthitāḥ 
+avaśyaṃ tv iha kartavyaṃ sadanaṃ me surottama ।।

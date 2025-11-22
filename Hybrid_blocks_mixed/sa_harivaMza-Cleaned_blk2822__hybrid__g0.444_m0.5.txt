@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2822 | label: hybrid | g:0.444 m:0.5 ---
+
+draṣṭavyaḥ sa yathāhaṃ vai tvayā mānyaś ca nityaśaḥ 
+jñātā tvam eva lokānām arjunasya ca nityaśaḥ ।।

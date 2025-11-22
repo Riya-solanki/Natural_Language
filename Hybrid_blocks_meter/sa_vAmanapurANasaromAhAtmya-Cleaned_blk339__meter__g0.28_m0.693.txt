@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 339 | label: meter | g:0.28 m:0.693 ---
+
+lomaharṣaṇa uvāca
+balervaramimaṃ dattvā śakrāya ca triviṣṭapam ।
+vyāpinā tena rūpeṇa jagāmādarśanaṃ hariḥ ।।

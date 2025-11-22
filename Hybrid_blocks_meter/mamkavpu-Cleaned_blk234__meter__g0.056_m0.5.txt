@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 234 | label: meter | g:0.056 m:0.5 ---
+
+{stumaḥ kaṃ vāmākṣi kṣaṇamapi vinā yaṃ na ramase
+vilebhe kaḥ prāṇān raṇamakhamukhe yaṃ mṛgayase ।
+sulagne ko jātaḥ śaśimukhi yamāliṅgasi balāt
+tapaḥśrīḥ kasyaiṣā madananagari dhyāyasi tu yam ।।}

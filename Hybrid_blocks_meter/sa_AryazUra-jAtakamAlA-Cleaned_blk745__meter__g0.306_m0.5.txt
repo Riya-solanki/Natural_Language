@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 745 | label: meter | g:0.306 m:0.5 ---
+
+āpaddharmaḥ steyamiṣṭaṃ dvijānāmāpaccāntyā niḥsvatā nāma loke ।
+tasmād bhojyaṃ svaṃ pareṣāmaduṣṭaiḥ sarvaṃ caitad brāhmaṇānāṃ svameva ।।

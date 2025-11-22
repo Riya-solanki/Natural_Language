@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1488 | label: grammar | g:0.625 m:0.5 ---
+
+ity atra kavīndrāṇāṃ nirdoṣa-sūkti-grathanāśaṃsanena bhāvakānāṃ ca tad-grantha-bhāvanāśaṃsanena ca sakala-vyavahāra-pravartaka-vāṅmaya-rūpa-jagan-maṅgala-kathanāt praśastir iti sarvaṃ praśastam ।

@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 205 | label: grammar | g:0.587 m:0.375 ---
+
+Vṛtti:
+[liṅge sākṣasūtrake pramādādddhārite bhraṣṭe vā] daivānmānuṣādvā prabalālliṅgākṣasūtrayorhāritayorbhraṣṭayorvā [maheśasya lakṣaṃ japet] parameśvaramantralakṣajapaṃ kṛtvā [punaḥ parigrahaṃ kuryāt] punarguṇotkṛṣṭayoranyayoḥ saṃgrahaṃ kuryāt।

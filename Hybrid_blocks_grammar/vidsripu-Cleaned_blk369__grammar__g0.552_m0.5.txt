@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 369 | label: grammar | g:0.552 m:0.5 ---
+
+nitambaḥ saṃvādaṃ masṛṇamaṇivedyā mṛgayate manāg gaṇḍaḥ pāṇḍur madhumukulalakṣmīṃ tulayati ।
+viśantyās tāruṇyaṃ ghusṛṇaghanalāvaṇyapayasi prakāmaṃ pronmajjad vapur api ca tasyā vijayate ।।

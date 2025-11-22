@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2584 | label: meter | g:0.194 m:0.625 ---
+
+katham asya mayā kāryaṃ śāsanaṃ duṣṭacetasaḥ 
+pralambasya pravṛddhasya darpād dviguṇavarcasaḥ ।।

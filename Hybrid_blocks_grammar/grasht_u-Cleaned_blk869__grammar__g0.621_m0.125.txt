@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 869 | label: grammar | g:0.621 m:0.125 ---
+
+viśeṣamāha sa ityādi ।।
+saḥ karañjatailapluto yogo bahuśo vāraṃvāraṃ kaṅguṇītailena secito yathā syāttathāyaṃ ati vilīnaḥ san mākṣikaravinivāpāṃ punaḥ kārya evaṃvidhaṃ ca kanakaṃ śatāṃśena śatavibhāgena vidhyati sitakanakam iti ।।

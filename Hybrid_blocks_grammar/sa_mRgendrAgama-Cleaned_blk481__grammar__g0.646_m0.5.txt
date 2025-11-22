@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 481 | label: grammar | g:0.646 m:0.5 ---
+
+iyatā kālenaitadvrataṃ saṃnyastavyamiti sāvadhikaṃ yeṣāṃ vrataṃ te bhautikavratinaḥ। yeṣāṃ [dehapātāntakaṃ] śarīrapātāntaṃ nirvāhaḥ te [niṣṭhāvratinaḥ] naiṣṭhikāḥ।।

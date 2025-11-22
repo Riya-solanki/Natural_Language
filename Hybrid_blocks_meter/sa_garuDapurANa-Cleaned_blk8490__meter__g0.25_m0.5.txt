@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8490 | label: meter | g:0.25 m:0.5 ---
+
+tatpuraṃ sa vyatikramya tarjito yamakiṅkaraiḥ ।
+prayāti citranagaraṃ vicitro yatra pārthivaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 407 | label: meter | g:0.306 m:0.5 ---
+
+tato ditīśvaraḥ śrīmān mṛgavyāṃ sa cacāra ha ।
+caran sarasvatīṃ puṇyāṃ dadarśa vimalodakām ।।

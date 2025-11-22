@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6730 | label: meter | g:0.25 m:0.75 ---
+
+kiñcittasmātparasmiṃśca dhāraṇā daśadhā smṛtā ।
+daśaitā dhāraṇāḥ prāpya prāpnotyakṣararūpatām ।।

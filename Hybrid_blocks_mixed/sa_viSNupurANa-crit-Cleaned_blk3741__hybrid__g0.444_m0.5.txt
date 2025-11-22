@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3741 | label: hybrid | g:0.444 m:0.5 ---
+
+bhāryāvaśyās tu ye kecid bhaviṣyanty atha vā mṛtāḥ 
+teṣāṃ tu jyāmaghaḥ śreṣṭhaḥ śaibyāpatir abhūn nṛpaḥ ।।

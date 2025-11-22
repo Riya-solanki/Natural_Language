@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 784 | label: hybrid | g:0.542 m:0.5 ---
+
+antas tāraṃ taralitatalāḥ stokam utpīḍabhājaḥ pakṣāgreṣu grathitapṛṣataḥ kīrṇadhārāḥ krameṇa ।
+cittātaṅkaṃ nijagarimataḥ samyag āsūtrayanto niryānty asyāḥ kuvalayadṛśo bāṣpavārāṃ pravāhāḥ ।।

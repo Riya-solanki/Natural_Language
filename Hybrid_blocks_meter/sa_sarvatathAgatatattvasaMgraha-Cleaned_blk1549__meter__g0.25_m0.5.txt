@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1549 | label: meter | g:0.25 m:0.5 ---
+
+maṇḍalasya tu madhye vai vidhvā khadirakīlakaṃ ।
+tatastu sūtraṃ dviguṇaṃ kṛtvā tena prasūtrayet ।।

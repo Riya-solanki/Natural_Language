@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3678 | label: grammar | g:0.625 m:0.5 ---
+
+atha bhagavān vairocanastathāgataḥ sarvatathāgatakāyavākcittavajramātmānamavabudhya, va[jrapāṇimevamāha । "praviśakulapu]tra tvamapi mama hṛdaye; sarvatathāgatasarvavajrakulasarvamaṇḍalāḥ sarvatathāgatahṛdayeṣu samanupra[viṣṭāḥ" ।

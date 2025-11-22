@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 55 | label: grammar | g:0.604 m:0.5 ---
+
+āloḍya sarvaśāstrāṇi vicārya ca punaḥ punaḥ idam ekaṃ suniṣpannaṃ dhyeyo nārāyaṇaḥ sadā ।।

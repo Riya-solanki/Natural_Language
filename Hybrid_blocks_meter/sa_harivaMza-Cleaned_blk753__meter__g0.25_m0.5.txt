@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 753 | label: meter | g:0.25 m:0.5 ---
+
+yasmāt kāmapradhānas tvaṃ yogadharmam apāsya vai 
+avaraṃ varaṃ prārthayase tasmād vākyaṃ nibodha me ।।

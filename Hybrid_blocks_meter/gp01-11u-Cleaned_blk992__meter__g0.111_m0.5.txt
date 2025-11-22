@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 992 | label: meter | g:0.111 m:0.5 ---
+
+yad gānaṃ vipinasya kokila-kale nṛtyaṃ latā-vibhrame
+romṇām utthitam aṅkure ca kavitaṃ yogyān nidānādṛte ।
+tan mithyā yadi kṛṣṇa-saṅgati-vaśāt tasmiṃs tathā varṇyate
+satyaṃ tarhi sadāpi tat tad akhilaṃ yasmād darīdṛśyate ।। [śārdūla]

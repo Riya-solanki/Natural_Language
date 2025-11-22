@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 544 | label: meter | g:0.306 m:0.5 ---
+
+sukyākurvanta evādhvaṃ tad idaṃ sukham ātmanaḥ ।
+kathāgataṃ tu tad duḥkhaṃ kathakānena bādhatām ।। iti ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 608 | label: meter | g:0.25 m:0.5 ---
+
+sarit sā hi samāhūtā maṅkaṇena mahātmanā ।
+kurukṣetraṃ samāyātā praviṣṭā ca mahānadī ।।

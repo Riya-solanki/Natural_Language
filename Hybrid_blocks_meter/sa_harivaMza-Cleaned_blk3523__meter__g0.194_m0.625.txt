@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3523 | label: meter | g:0.194 m:0.625 ---
+
+madrarājaś ca balavāṃs trigartānām atheśvaraḥ 
+sālvarājaś ca vikrānto daradaś ca mahābalaḥ ।।

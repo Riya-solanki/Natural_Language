@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1343 | label: meter | g:0.056 m:0.5 ---
+
+{yeñāsyabhyuditena candra gamitaḥ klāntiṃ ravau tatra te
+yujyeta pratikartumeva na punastasyaiva pādagrahaḥ ।
+kṣīṇenaitadanuṣṭhitaṃ yadi tataḥ kiṃ lajjase no manāg
+astvevaṃ jaḍadhāmatā tu bhavato yad vyomni visphūrjase ।।}

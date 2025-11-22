@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3458 | label: grammar | g:0.75 m:0.5 ---
+
+tātātiramaṇīyaḥ prāsādo atrātimanojñam upavanam atikalavākyavihaṃgābhirutāḥ protphullapadmākarā jalāśayāḥ । manonukūlabhakṣyabhojyānulepanavastra bhūṣaṇādibhogopabhogā mṛdūni śayanāni sarvasaṃpatsamavetam etad gārhasthyam tathāpi kena vā janmabhūmir na smaryate ।।

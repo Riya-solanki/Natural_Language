@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 249 | label: meter | g:0.194 m:0.5 ---
+
+rūpaṃ triṣu raso ambhaḥsu madhuraḥ ṣaḍvidhaḥ kṣitau 
+gandhaḥ kṣitāvasūrabhiḥ surabhiśca mato budhaiḥ ।।

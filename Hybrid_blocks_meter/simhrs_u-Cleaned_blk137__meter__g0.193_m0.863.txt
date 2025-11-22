@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 137 | label: meter | g:0.193 m:0.863 ---
+
+yathā-
+tāṃ nāradaḥ kāma-caraḥ kadācit
+kanyāṃ kila prekṣya pituḥ samīpe ।
+samādideśaika-vadhūṃ bhavitrīṃ
+premṇā śarīrārdha-harāṃ harasya ।।

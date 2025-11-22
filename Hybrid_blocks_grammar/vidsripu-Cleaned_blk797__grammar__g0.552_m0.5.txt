@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 797 | label: grammar | g:0.552 m:0.5 ---
+
+kasrāghātaiḥ surabhir abhitaḥ satvaraṃ tāḍanīyo gāḍhāmreḍaṃ malayamarutaḥ śṛṅkhalādāma datta ।
+kārāgāre kṣipata tarasā pañcamaṃ rāgarājaṃ candraṃ cūrṇīkuruta ca śilāpaṭṭake piṣṭapeṣam ।।

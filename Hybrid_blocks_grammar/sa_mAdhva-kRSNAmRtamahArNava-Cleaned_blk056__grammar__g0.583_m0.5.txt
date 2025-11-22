@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 56 | label: grammar | g:0.583 m:0.5 ---
+
+smṛte sakalakalyāṇabhājanaṃ yatra jāyate puruṣas tam ajaṃ nityaṃ vrajāmi śaraṇaṃ harim ।।

@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 552 | label: meter | g:0.315 m:0.573 ---
+
+sānyā pratyayavakratā sā samāmnātarūpādanyāparā kācit pratyayavakratvavicchittiḥ ।
+astīti saṃbandhaḥ ।
+yatra yasyāṃ pratyayaḥ kāmapyapūrvāṃ kamanīyatāṃ ramyatāṃ puṣṇāti puṣyati ।
+kīdṛśaḥpratyayāt tiṅādervihitaḥ padatvena vinirmito anyaḥ kaściditi ।
+yathā

@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 831 | label: grammar | g:0.562 m:0.5 ---
+
+nanūcchedābhidhānametat aetebhyo bhūtebhyaḥ samutthāya tānyevānuvinaśyati na pretya saṃjñāsti' iti, kathamedabhedābhidhānam ।

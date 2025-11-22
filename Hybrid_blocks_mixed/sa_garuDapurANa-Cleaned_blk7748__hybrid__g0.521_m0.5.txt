@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7748 | label: hybrid | g:0.521 m:0.5 ---
+
+jalāśayo naiva kṛto mayā tadā manuṣyatṛptyai paśupakṣitṛptaya ।
+gotṛptihetorna ca gocaraḥ kṛtaḥ śarīra he nistara yattvayā kṛtam ।।

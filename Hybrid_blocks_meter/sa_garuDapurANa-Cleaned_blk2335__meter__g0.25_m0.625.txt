@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2335 | label: meter | g:0.25 m:0.625 ---
+
+niścirāsaṃgame snātvā brahmalokaṃ nayetpitṝn ।
+vasiṣṭhasyāśrame snātvā vājapeyaṃ ca vindati ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 508 | label: meter | g:0.25 m:0.625 ---
+
+etaiḥ sametya tatkuṇḍaṃ kalpitaṃ bhuvi durlabham ।
+brahmaṇā sevitaṃ yasmād brahmodumbaramucyate ।।

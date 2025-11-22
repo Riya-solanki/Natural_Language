@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 73 | label: grammar | g:0.562 m:0.5 ---
+
+atra gauṇabhedayorbhede api tādrūpyapratītiḥ sarvathaivābhedāvagamaśca prayojanam । śuddhabhedayostvanyavailakṣaṇyenāvyabhicāreṇa ca kāryakāritvādi ।

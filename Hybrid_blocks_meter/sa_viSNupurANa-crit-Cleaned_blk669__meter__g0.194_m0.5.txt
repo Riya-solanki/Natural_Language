@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 669 | label: meter | g:0.194 m:0.5 ---
+
+etaj jajāpa bhagavān japyaṃ svāyambhuvo manuḥ 
+pitāmahas tava purā tasya tuṣṭo janārdanaḥ ।।

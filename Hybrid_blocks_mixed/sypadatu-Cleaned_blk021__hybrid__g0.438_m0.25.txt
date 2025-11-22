@@ -1,0 +1,6 @@
+--- source: sypadatu-Cleaned.txt | block: 21 | label: hybrid | g:0.438 m:0.25 ---
+
+[] naṭanaṭiceṭāśvabandhānām
+aho nu khalv asya pānopārjane vijñānam tad alam anenābhibhāṣitena ito vayam idam aparaṃ jaṅgamaṃ jīrṇodyānaṃ viṭajanasya eṣā hi purāṇapuṃścalī dharaṇiguptā nāma kāmadevāyatanād devatāyā upayācitaṃ nirvartya sphuṭitakāśavallarīśvetam āgalitam aṃsadeśād upari keśahastaṃ vinyasyantī sadyodhautanivasanā vigalitam uttarīyam ekāṃse pratisamādadhānā balivikṣepopanipatitair balibhṛtaiḥ parivṛtaṃ mayūraṃ nṛtyantam apāṅgenāvalokayantī makarayaṣṭiṃ pradakṣiṇīkaroti bhoḥ yat satyam adyāpy asyāś cirātikrāntaṃ yauvanavibhramaṃ vilāsaśeṣaṃ kathayati tathā hi
+śvetābhir nakharājibhiḥ parivṛtau vyāvṛttamūlau stanau
+sṛkvaṇyoḥ śithilaś ca madhyagaḍulo niṣpītapūrvo adharaḥ

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5291 | label: meter | g:0.25 m:0.5 ---
+
+saṃdhyā rātrir aho bhūmir gaganaṃ vāyur ambu ca 
+hutāśano mano buddhir bhūtādis tvaṃ tathācyuta ।।

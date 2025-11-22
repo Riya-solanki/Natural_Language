@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3982 | label: meter | g:0.25 m:0.5 ---
+
+baladevena dharmeṇa nety uvāca tato balam 
+dhairyān manaḥ saṃniyamya sa na kiṃcid uvāca ha 
+ete bruvantu rājāno ye tathyavacanā iha । 
+baladevaṃ tato rukmī mayā jitam iti smayan ।।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 372 | label: hybrid | g:0.293 m:0.47 ---
+
+rūpeṇāmṛta-sindhuḥ kīrtibhir amṛta-dyutir yad api ।
+tad api harir mama hṛdayaṃ vidahati hā dhig vidhir vāmaḥ ।। [upagīti]

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3022 | label: meter | g:0.25 m:0.625 ---
+
+pṛthak sāntapanairdravyaiḥ ṣaḍahaḥ sopavāsakaḥ ।
+saptāhena tu kṛcchro ayaṃ mahāsāntapanaḥ smṛtaḥ ।।

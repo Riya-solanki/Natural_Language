@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5124 | label: meter | g:0.194 m:0.625 ---
+
+sasyacorā bhaviṣyanti tathā cailāpahāriṇaḥ 
+bhakṣyabhojyaharāś caiva bhāṇḍānāṃ caiva hāriṇaḥ ।।

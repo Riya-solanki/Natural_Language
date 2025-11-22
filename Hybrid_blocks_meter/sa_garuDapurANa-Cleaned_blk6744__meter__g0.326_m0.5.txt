@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6744 | label: meter | g:0.326 m:0.5 ---
+
+tato naṃ mriyate duḥ khī na rogī na ca vandhavān ।
+na pāpairyujyate yogī narake na vipacyate ।।

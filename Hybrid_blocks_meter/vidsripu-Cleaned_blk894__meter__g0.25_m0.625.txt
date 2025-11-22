@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 894 | label: meter | g:0.25 m:0.625 ---
+
+adhareṇonnatibhājā bhujaṅgaparipīḍitena te dūti ।
+saṃkṣobhitaṃ mano me jalanidhir iva mandarāgeṇa ।।

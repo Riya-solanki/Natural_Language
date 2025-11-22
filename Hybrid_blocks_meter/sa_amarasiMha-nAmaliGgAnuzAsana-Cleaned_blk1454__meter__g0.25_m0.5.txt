@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1454 | label: meter | g:0.25 m:0.5 ---
+
+āyur jīvitakālo, nā jīvatur jīvanauṣadham । iti kṣatriyavargaḥ

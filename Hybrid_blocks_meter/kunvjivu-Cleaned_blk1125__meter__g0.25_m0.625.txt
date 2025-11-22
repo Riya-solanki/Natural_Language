@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1125 | label: meter | g:0.25 m:0.625 ---
+
+taṃ bhūpatirbhāsurahemarāśiṃ labdhaṃ kuberādabhiyāsyamānāt ।
+dideśa kautsāya samastameva pādaṃ sumeroriva vajrabhinnam ।।

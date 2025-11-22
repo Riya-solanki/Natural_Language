@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 916 | label: grammar | g:0.583 m:0.5 ---
+
+atha mahādevo devo bhagavantamidamavocat । "ko ayaṃ bhagavannīdṛśaḥ satvo yo ayamīśvarasyaivamājñāndadāti?" ।

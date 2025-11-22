@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 850 | label: meter | g:0.401 m:0.658 ---
+
+ityādivākyakalpitastasya vidyāphalatvam ।
+yathaikasyāpi khādiratvasya nityena saṃyogena kratvarthatvamanityena saṃyogena puruṣārthatvaṃ tadvat ।।

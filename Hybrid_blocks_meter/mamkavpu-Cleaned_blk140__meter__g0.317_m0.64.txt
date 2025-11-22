@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 140 | label: meter | g:0.317 m:0.64 ---
+
+atra mayi na yogyaḥ khedaḥ kuruṣu tu yogya iti kākvā prakāśyate ।
+na ca vācyasiddhyaṅgamatra kākuriti guṇībhūtavyaṅgyatvaṃ śaṅgyam ।
+praśnamātreṇāpi kākorviśrānteḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5836 | label: meter | g:0.194 m:1.0 ---
+
+vyākhyātā bhavatā sargavaṃśamanvantarasthitiḥ 
+vaṃśānucaritaṃ caiva vistareṇa mahāmune ।।

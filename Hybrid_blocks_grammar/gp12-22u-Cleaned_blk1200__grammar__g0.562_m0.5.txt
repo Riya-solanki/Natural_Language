@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1200 | label: grammar | g:0.562 m:0.5 ---
+
+[] paurṇamāsī uvāca-vraja-jana-vraja-jīvana! vācaṃ-yamatām ācaran katham iva giraṃ mama na saṅgirase?

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1577 | label: grammar | g:0.615 m:0.5 ---
+
+sudhāsūtiḥ kṣīṇo gaṇapatir asāv ekadaśanaḥ padabhraṣṭā devī sarid api surāṇāṃ bhagavatī ।
+dvijihvād anyeṣāṃ kva nanu guṇinām īśvarajuṣāṃ tvayā dṛṣṭo bhogaḥ kim iha viphalaṃ kliśyasi manaḥ ।।

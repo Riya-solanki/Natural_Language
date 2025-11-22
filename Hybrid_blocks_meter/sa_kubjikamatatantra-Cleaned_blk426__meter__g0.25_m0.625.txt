@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 426 | label: meter | g:0.25 m:0.625 ---
+
+tha-da-madhyagataṃ devi pa-ba-madhyaṃ tathaiva ca 
+dvau bījau coddhṛtau bhadre pādau jñeyau vipaścitā ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1311 | label: meter | g:0.082 m:0.84 ---
+
+{udayamayate diṅmālinyaṃ nirākurutetarāṃ
+nayati nidhanaṃ nidrāmudrāṃ pravartayati kriyāḥ ।
+racayatitarāṃ svairācārapravartanakartanaṃ
+bata bata lasattejaḥpuñjo vibhāti vibhākaraḥ ।।}

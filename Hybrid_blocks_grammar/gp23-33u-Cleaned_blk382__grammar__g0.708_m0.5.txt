@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 382 | label: grammar | g:0.708 m:0.5 ---
+
+muhur ullāsita-yuvati-kare । samamanyā bahir anaya-care ।।ghana-gahanādhvani gamana-pare । tatra ca bahu kṛta-sukha-vitare ।।āśāstambhita-viraha-gare । dhāmni sanātana-śarma-hare ।।

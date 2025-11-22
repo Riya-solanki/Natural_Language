@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 102 | label: grammar | g:0.583 m:0.5 ---
+
+anena sūtreṇa codanākhyasya nimittasya parīkṣaṇamasminpāde vakṣyamāṇam athātaḥ śeṣalakṣaṇam', atha viśeṣalakṣaṇam' itivatsukhagrahaṇārthamanukīrtyate ।।

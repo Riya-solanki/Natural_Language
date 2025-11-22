@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1394 | label: meter | g:0.306 m:0.5 ---
+
+varaṃ mṛto na tu kṣudras tathāpi mahad antaram ।
+ekasya bandhur nādatte nāmānyasyākhilo janaḥ ।।

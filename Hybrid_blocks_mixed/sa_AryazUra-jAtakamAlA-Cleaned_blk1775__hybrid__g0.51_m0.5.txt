@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1775 | label: hybrid | g:0.51 m:0.5 ---
+
+vimṛśya kāryaṃ tvavagamya tattvataḥ prapadya dharmeṇa ca nītivartmanā ।
+mahānti dharmārthasukhāni sādhayajanasya taireva na hīyate nṛpaḥ ।।

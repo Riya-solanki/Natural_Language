@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1964 | label: grammar | g:0.688 m:0.5 ---
+
+atha kadācitsa mahātmā kusumamāsaprabhāvaviracitakisalayalakṣmīmādhuryāṇi pravikasatkusumamanojñaprahasitāni pravitatanavaśādvalakuthāstaraṇasanāthadharaṇītalāni kamalotpaladalāstīrṇanirmalanīlasalilāni bhramadbhramaramadhukarīgaṇopagītānyanibhṛtaparabhṛtabarhigaṇāni mṛdusurabhiśiśirasukhapavanāni manaḥprasādodbhāvanāni nagaropavanānyanuvicaran anyatamamudyānavanaṃ nātimahatā balakāyena parivṛtaḥ krīḍārthamupanirjagāma ।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 550 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha mathurām āsādya sadya eva karādhikāriṣu karam upasādya tad-dvārā dūrata eva rājānam anujānantaṃ prasādya śakaṭa-ghaṭāvamocanam evānañca, na tu śrī-vasudeva-sadma, kaṃse tena sākaṃ nijānāsañjana-vyañjanāya ।

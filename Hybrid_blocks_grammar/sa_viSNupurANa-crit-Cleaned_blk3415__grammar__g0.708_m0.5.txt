@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3415 | label: grammar | g:0.708 m:0.5 ---
+
+dṛḍhāśvād dharyaśvas tasmān nikumbho nikumbhāt saṃhitāśvaḥ । tataś ca kṛśāśvas । tasmāc ca prasenajit tato yuvanāśvo abhavat ।।

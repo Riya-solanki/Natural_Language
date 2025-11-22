@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 897 | label: meter | g:0.306 m:0.5 ---
+
+oṃ kārayuktā devasya śikhā jñeyā vṛṣadhvaja ।
+oṃ kṣaiṃ kavacāya huṃ vai kavacaṃ parikīrtitam ।।

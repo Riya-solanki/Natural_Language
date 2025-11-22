@@ -1,0 +1,10 @@
+--- source: nysvbh_u-Cleaned.txt | block: 652 | label: meter | g:0.001 m:0.98 ---
+
+jātaḥ khalvayaṃ
+kumāro asmin janmany agṛhīteṣu
+harṣabhayaśokahetuṣu harṣabhayaśokān
+pratipadyate liṅgānumeyān, te ca smṛtyanubandhādutpadyante
+nānyathā smṛtyanubandhaśca pūrvābhyāsamantareṇa
+na bhavati pūrvābhyāsaśca pūrvajanmani sati
+nānyathā iti sidhyatyetat avatiṣṭhate ayamūrdhvam
+śarīrabhedāditi ।।

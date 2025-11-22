@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 420 | label: meter | g:0.185 m:0.758 ---
+
+samāhitamekamavaśiṣyate । tallakṣaṇārthamāha 
+yatsādṛśyaṃ tatsaṃpattiḥ samāhitam ।।
+yasya vastunaḥ sādṛśyaṃ gṛhyate tasya vastunaḥ sampattiḥ samāhitam । yathā

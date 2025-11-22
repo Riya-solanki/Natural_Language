@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 46 | label: hybrid | g:0.263 m:0.421 ---
+
+{padmāvatī} - ayya paḍhamaṃ ugghosia ko kiṃ icchadi tti ajuttaṃ dāṇiṃ viāriduṃ 
+jaṃ eso bhaṇādi taṃ aṇuciṭṭhadu ayyo 
+[ārya prathamam udghoṣya kaḥ kim icchatīty ayuktam idānīṃ vicārayitum । yad eṣa bhaṇati tad anutiṣṭhatv āryaḥ । ]

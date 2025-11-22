@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 540 | label: meter | g:0.194 m:0.625 ---
+
+preyān sāyamapākṛtaḥ saśapathaṃ pādānataḥ kāntayā
+dvitrāṇyeva padāni vāsabhavanāt yāvanna yātyūnmanāḥ ।
+tāvat pratyuta pāṇisampuṭalasagnīvīnitambaṃ dhṛto
+dhāvitvaiva kṛtapraṇāmakamaho premṇo vicitrā gatiḥ ।।

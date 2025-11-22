@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 442 | label: grammar | g:0.562 m:0.5 ---
+
+prāvṛṣeṇyair jaladharair ambaraṃ durdināyate rāgeṇa punar ākrāntaṃ jāyate jagatāṃ manaḥ ।।

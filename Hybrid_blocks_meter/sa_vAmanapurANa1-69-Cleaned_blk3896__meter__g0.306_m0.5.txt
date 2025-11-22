@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3896 | label: meter | g:0.306 m:0.5 ---
+
+ajaṃ vareṇyaṃ varapadmanābhaṃ nārāyaṇaṃ brahmanidhiṃ sureśam ।
+taṃ devaguhyaṃ puruṣaṃ purāṇaṃ vandāmyahaṃ lokapatiṃ vareṇyam ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 846 | label: meter | g:0.194 m:0.75 ---
+
+tilair homaṃ prakurvīta dadhimadhvājyasaṃyutaiḥ 
+ghṛtasaktvā ca madhunā sarvaduḥkhapramardakam ।।

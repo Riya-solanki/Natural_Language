@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 4 | label: grammar | g:0.604 m:0.5 ---
+
+madhusphītā vācaḥ paramam amṛtaṃ nirmitavatas tava brahman kiṃ vāg api suraguror vismayapadam ।
+mama tv etāṃ vāṇīṃ guṇakathanapuṇyena bhavataḥ punāmīty arthe asmin puramathana buddhir vyavasitā ।।

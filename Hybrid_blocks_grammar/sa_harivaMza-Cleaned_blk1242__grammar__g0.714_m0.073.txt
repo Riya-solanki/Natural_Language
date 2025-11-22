@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1242 | label: grammar | g:0.714 m:0.073 ---
+
+sa kṛṣṇahastāt saṃprāpya maṇiratnaṃ syamantakam 
+ābadhya gāṃdinīputro virarājāṃśumān iva ।। 
+yas tv evaṃ śṛṇuyān nityaṃ śucir bhūtvā samāhitaḥ । sukhānāṃ tat sakalpānāṃ phalabhāgī bhaviṣyati । ā brahmabhavanāc cāpi yaśaḥkhyātir na saṃśayaḥ । bhaviṣyati naraśreṣṭha satyam etad bravīmi te । tataḥ sarve yaduvarā hṛṣṭāḥ prāñjalayas tadā । vavandire mahātmānaḥ kṛṣṇaṃ kamalalocanam । 
+vistareṇaiva sarvāṇi karmāṇi ripughātinaḥ 
+śrotum icchāmy aśeṣeṇa hareḥ kṛṣṇasya dhīmataḥ ।। 
+prādurbhāvaḥ purāṇeṣu viṣṇor amitatejasaḥ । satāṃ kathayatāṃ eva vārāha iti naḥ śrutam । na jāne tasya caritaṃ vidhiṃ naiva ca vistaram । na karmaguṇasaṃtānaṃ na hetuṃ na manīṣitam । kimātmako varāhaḥ sa kā mūrtiḥ kā ca devatā । kimācāraḥ prabhāvo vā kiṃ vā tena purā kṛtam । yajñārthaṃ samavetānāṃ miṣatāṃ ca dvijanmanām । mahāvarāhacaritaṃ kṛṣṇadvaipāyaneritam । yathā nārāyaṇo brahman vārāhaṃ rūpam āsthitaḥ । daṃṣṭrayā gāṃ samudrasthāṃ ujjahārārisūdanaḥ । 
+karmaṇām ānupūrvyā ca prādurbhāvāś ca ye vibhoḥ 
+yā cāsya prakṛtir brahmaṃs tāṃ ca vyākhyātum arhasi ।।

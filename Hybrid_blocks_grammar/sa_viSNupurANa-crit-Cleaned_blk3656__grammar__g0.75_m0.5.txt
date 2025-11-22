@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3656 | label: grammar | g:0.75 m:0.5 ---
+
+teṣāṃ kuśāmbaḥ śakratulyo me putro bhaved iti tapaś cakāra । taṃ cogratapasam avalokya mā bhavatv anyo asmattulyavīrya ity ātmanaivāsyendraḥ putratvam agacchat ।।

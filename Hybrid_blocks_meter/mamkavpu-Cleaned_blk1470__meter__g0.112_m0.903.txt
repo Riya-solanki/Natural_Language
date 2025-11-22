@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1470 | label: meter | g:0.112 m:0.903 ---
+
+{latānāmetāsāmuditakusumānāṃ marudayaṃ
+mataṃ lāsyaṃ dattvā śrayati bhṛśamāmodamasamam ।
+latāstvadhvanyānāmahaha dṛśamādaya sahasā
+dadatyādhivyādhibhramiruditamohavyatikaram ।।}

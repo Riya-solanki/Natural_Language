@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 195 | label: meter | g:0.36 m:0.661 ---
+
+snehaṃ sravanti taravaḥ pañcāpi kṣipati mārgaṇān madanaḥ ।
+parimuktakaṇṭharodhaḥ parapuṣṭaḥ kṣarati mādhuryam ।।
+śrīdharmākarasya

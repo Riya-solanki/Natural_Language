@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 1905 | label: meter | g:0.258 m:0.687 ---
+
+atha prahasanam-
+vastu-sandhy-aṅka-lāsyāṅga-vṛttayo yatra bhāṇavat । 
+raso hāsyaḥ pradhānaṃ syād etat prahasanaṃ matam ।।
+viśeṣeṇa daśāṅgāni kalpayed atra tāni tu । 
+avagalitāvaskandau vyavahāro vipralambha upapattiḥ ।
+bhayam anṛtaṃ vibhrāntir gadgada-vāk ca pralāpaś ca ।।

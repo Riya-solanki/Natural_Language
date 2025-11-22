@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 42 | label: hybrid | g:0.528 m:0.5 ---
+
+paśyāmaḥ kim ayaṃ prapatsyata iti svalpābhrasiddhakriyair darpād dūram upekṣitena balavat karmeritair mantribhiḥ 
+labdhātmaprasareṇa rakṣitum athāśakyena muktvāśāniṃ sphītas tādṛg aho ghanena ripuṇā dagdho girigrāmakaḥ ।।

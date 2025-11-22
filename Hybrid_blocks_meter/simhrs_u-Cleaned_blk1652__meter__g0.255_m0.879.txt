@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1652 | label: meter | g:0.255 m:0.879 ---
+
+atha arthāpattiḥ-
+uktārthānupapattyā'nyo yasminn arthaḥ prakalpyate ।
+vākya-mādhurya-saṃyuktā sārthāpattir udāhṛtā ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8743 | label: meter | g:0.264 m:0.807 ---
+
+brāhmaṇa uvāca ।
+ye jīvā bhuvi jīvanti sarve apyāhāramūlakāḥ ।
+yuṣmākamapicāhāraṃ śrotumicchāmi tattvataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 735 | label: meter | g:0.25 m:0.5 ---
+
+vaiśyās tavorujāḥ śūdrās tava padbhyāṃ samudgatāḥ 
+akṣṇoḥ sūryo anilaḥ prāṇāc candramā manasas tava ।।

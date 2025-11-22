@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 293 | label: hybrid | g:0.476 m:0.5 ---
+
+kiṃcāpi rūpamapi śabda tathaiva gandho rasa sparśa kāmaguṇa pañcabhi yukta bhogī 
+rahapratyayāna vigato anantabodhisattvo satataṃ samāhitu prajānayitavya śūro ।।

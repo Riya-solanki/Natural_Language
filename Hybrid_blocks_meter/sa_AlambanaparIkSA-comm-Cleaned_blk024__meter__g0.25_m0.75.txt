@@ -1,0 +1,3 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 24 | label: meter | g:0.25 m:0.75 ---
+
+śaktyarpaṇāt krameṇa [vā] ।

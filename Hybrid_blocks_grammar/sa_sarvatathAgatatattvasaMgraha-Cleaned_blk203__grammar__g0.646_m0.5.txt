@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 203 | label: grammar | g:0.646 m:0.5 ---
+
+atha bhagavān ratnasaṃbhavastathāgato bhagavato vairocanasya tathāgatasya pūjāpratipūjārtha ratnābharaṇapūjāsamayasaṃbhavavajraṃ nāma samādhiṃ samāpadyemāṃ sarvatathāgatapratīhārīṃ svahṛdayānniścacāra vajrapuṣpe ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 170 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam ahitena ya upāhita upāhitas tasminn apavāhite sarva eva trāṇa-prāṇāḥ prabhāte ca prabhāte, tat-prabhāvata eva yathāvasthitaṃ vrajaṃ vraja-vāsinaḥ sānandaṃ tam anv avindanta । kintu tasminn eva madhuratā-kalile kālindī-hrada-salile saṅkarṣaṇena kṛta-kṛṣṇākarṣaṇena viharatā sakhibhir, akhilaṃ saha-dhavalā-vrajaṃ vrajam api samāharatā yadā bahalaṃ kutūhalaṃ jātam, tadā tena gṛhāya gamanam anujñātam ।

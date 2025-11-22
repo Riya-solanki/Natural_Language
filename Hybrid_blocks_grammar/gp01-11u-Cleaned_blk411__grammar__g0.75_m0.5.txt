@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 411 | label: grammar | g:0.75 m:0.5 ---
+
+[] śrī-bhagavatā saha sambandhaḥ kila kevala-prema-nibandhanaḥ-bhaktyāham ekayā grāhyaḥ [BhP ] ity ādeḥ । atas tad-viśeṣasya tad-viśeṣa eva hetuḥ-ye yathā māṃ prapadyante tāṃs tathaiva bhajāmy aham [Gītā ] ity ādeḥ । tatas tasmin vatsatāṃ satāṃ vātsalyābhidha eva premā pramāpayati ।

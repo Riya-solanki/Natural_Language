@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 403 | label: meter | g:0.306 m:0.5 ---
+
+ya etasmin mahā-bhāge prītiṃ kurvanti mānavāḥ ।
+nārayo bhibhavanty etān viṣṇu-pakṣān ivāsurāḥ ।।[] iti ।

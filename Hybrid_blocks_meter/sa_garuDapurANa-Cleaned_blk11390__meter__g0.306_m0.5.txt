@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11390 | label: meter | g:0.306 m:0.5 ---
+
+niṣkāmarūpe ca matiṃ cakāra vāgindriyaṃ stavanaṃ svīcakāra ।
+evaṃ sadā kāryasamūhamātmanā samarpayitvā parameśapādayoḥ ।।

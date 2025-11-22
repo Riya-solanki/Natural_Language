@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 266 | label: grammar | g:0.75 m:0.5 ---
+
+[] varatā-sambhāvanā-viṣayāṇāṃ pitṛ-vargaś ca tādṛg apy anargala-karṇe-japa-labdha-saṃsarga-garga-vacana-sargata eva bhinna-cittatām āpa । [] putrān apy atikramya tatra sthitānāṃ kṛṣṇa eva hi sukhasatrāyate ।

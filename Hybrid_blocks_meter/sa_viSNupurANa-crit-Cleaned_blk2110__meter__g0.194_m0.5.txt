@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2110 | label: meter | g:0.194 m:0.5 ---
+
+tayā cādhiṣṭhitaḥ so api jājvalīti svaraśmibhiḥ 
+tamaḥ samastajagatāṃ nāśaṃ nayati cākhilam ।।

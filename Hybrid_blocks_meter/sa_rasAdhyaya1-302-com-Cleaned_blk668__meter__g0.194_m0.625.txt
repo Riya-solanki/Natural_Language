@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 668 | label: meter | g:0.194 m:0.625 ---
+
+bhekodaraṃ vidāryātha te kṣepyāḥ sūkṣmakhoṭakāḥ 
+ghṛtatailādinā digdhaṃ sthālyā bhekaṃ kṣipecca tat ।।

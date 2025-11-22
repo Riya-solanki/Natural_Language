@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11937 | label: meter | g:0.25 m:0.5 ---
+
+maṇḍūkabhāryā gaṅgā tu saiva maṇḍūkinī smṛtā ।
+evaṃ catvārī rūpāṇi gaṅgāyā iti kirtitamam ।।

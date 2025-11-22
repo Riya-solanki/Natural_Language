@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 192 | label: meter | g:0.312 m:0.5 ---
+
+{ceṭī} - bhaṭṭidārie sāhu bhaṭṭāraṃ bhaṇāhi ahaṃ pi vīṇaṃ sikkhissāmi tti 
+[bhartṛdārike sādhu bhartāraṃ bhaṇa aham api vīṇāṃ śikṣiṣya iti । ]

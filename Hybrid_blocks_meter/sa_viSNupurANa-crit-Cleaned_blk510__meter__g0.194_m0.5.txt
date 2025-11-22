@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 510 | label: meter | g:0.194 m:0.5 ---
+
+evaṃ saṃstūyamānas tu praṇatair amarair hariḥ 
+prasannadṛṣṭir bhagavān idam āha sa viśvakṛt ।।

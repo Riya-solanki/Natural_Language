@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5004 | label: meter | g:0.25 m:0.625 ---
+
+vṛkṣāmlaṃ kaphavātaghnaṃ jambīraṃ kaphavātanut ।
+vātaghnaṃ dāḍimaṃ grāhi nāgaraṅgaphalaṃ guru ।।

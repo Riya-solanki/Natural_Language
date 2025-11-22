@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11896 | label: meter | g:0.25 m:0.5 ---
+
+tava svāminkuladevo mahātmanpalāyitaḥ kutra me tadvadasva ।
+svadehānāṃ pūjayitvā ca samyakkaṇṭhābharaṇairvidhurāṇāṃ ca keśaiḥ ।।

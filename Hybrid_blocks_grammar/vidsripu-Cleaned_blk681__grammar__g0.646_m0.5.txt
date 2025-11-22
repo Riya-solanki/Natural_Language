@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 681 | label: grammar | g:0.646 m:0.5 ---
+
+yad gamyaṃ gurugauravasya suhṛdo yasmiṃl labhante antaraṃ yaddākṣiṇyarasād bhiyā ca sahasā narmopacārāṇy api ।
+yallajjā niruṇaddhi yatra śapathair utpādyate pratyayas tat kiṃ prema sa ucyate paricayas tatrāpi kopena kim ।।

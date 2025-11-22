@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 40 | label: meter | g:0.25 m:0.75 ---
+
+pratītyadvādaśāṅgākhyaṃ svabhāvāt tritayaṃ bhavet ।
+sarvendriyapradhānedaṃ vāyvākhyaṃ bodhicittakam ।।

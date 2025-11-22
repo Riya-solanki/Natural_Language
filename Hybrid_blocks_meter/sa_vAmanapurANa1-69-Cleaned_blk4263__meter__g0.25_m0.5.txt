@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4263 | label: meter | g:0.25 m:0.5 ---
+
+sā dṛṣṭāvā nicitaṃ kūpaṃ śilayā girikalpayā ।
+uccaiḥ provāca keneyaṃ kūpopari śilā kṛtā ।।

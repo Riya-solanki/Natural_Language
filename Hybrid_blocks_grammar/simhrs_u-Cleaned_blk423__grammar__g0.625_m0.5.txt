@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 423 | label: grammar | g:0.625 m:0.5 ---
+
+atra bhṛṅgiriṭer vikṛtākāreṇa vikaṭa-paścād-gamanena pāhi pāhi pāhīty atra varṇa-vyatyāsa-bhāṣaṇena janitasya paśupati-hāsasyānya-rasānaṅgatayā mukhyaṃ bhaya-hāsyajam ।

@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1426 | label: hybrid | g:0.293 m:0.452 ---
+
+yatra kartavyaṃ vyāsajya kathāṃ vyavacchinatti
+aidaṃ me karaṇīyaṃ vidyate tasminn avasite paścāt kathayiṣyāmīti vikṣepo nāma nigrahasthānam।
+ekanigrahāvasānāyāṃ kathāyāṃ svayameva kathāntaraṃ pratipadyate iti
+।।

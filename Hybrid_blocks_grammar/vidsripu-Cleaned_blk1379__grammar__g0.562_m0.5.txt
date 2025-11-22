@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1379 | label: grammar | g:0.562 m:0.5 ---
+
+sākrandāḥ śiśavaḥ sapatrapuṭakā vaptuḥ purovartinaḥ pracchanne ca vadhūr vibhāgakuśalā madhye sthitā gehinī ।
+kaṭyācchādanabandhakena katham apy āsāditenāndhasā sindūrāruṇamaṇḍale savitari prāṇāhutir dīyate ।।

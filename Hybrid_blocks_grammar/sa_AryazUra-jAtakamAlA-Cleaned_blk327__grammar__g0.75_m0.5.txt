@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 327 | label: grammar | g:0.75 m:0.5 ---
+
+tasya tapaḥprakarṣāt pravisṛtena yaśasā samāvarjitahṛdayaḥ śakro devendraḥ sthairyajijñāsayā tasya mahāsattvasya tasminnaraṇyāyatane tāpasajanopabhogayogyaṃ mūlaphalamanupūrveṇa sarvamantardhāpayāmāsa । bodhisattvo api dhyānaprasṛtamānasatayā saṃtoṣaparicayādanadhimūrcchitatvādāhāre svaśarīre cānabhiṣvaṅgānna tamantardhānahetuṃ manasi cakāra । sa taruṇāni taruparṇānyadhiśrāya tairāhāraprayojanamabhiniṣpādyātṛṣyamāṇa āhāraviśeṣānutsukaḥ svasthamatistathaiva vijahāra ।

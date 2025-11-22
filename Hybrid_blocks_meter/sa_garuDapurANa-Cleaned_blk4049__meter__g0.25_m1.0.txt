@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4049 | label: meter | g:0.25 m:1.0 ---
+
+tatpreritaḥ kharaścāgāddūṣaṇastriśirāstathā ।
+caturdaśasahasreṇa rakṣasāntu balena ca ।।

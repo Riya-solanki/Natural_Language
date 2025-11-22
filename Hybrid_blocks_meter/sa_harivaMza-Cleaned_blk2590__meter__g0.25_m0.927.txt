@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2590 | label: meter | g:0.25 m:0.927 ---
+
+sahasrāsyaḥ sahasrāṅgaḥ sahasracaraṇekṣaṇaḥ 
+sahasraśīrṣo viśvātmā śatajihvaḥ śatodaraḥ । 
+sahasrapatranābhas tvaṃ sahasrāṃśudharo arihā ।।

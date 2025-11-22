@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1393 | label: meter | g:0.25 m:0.5 ---
+
+prāptakramo ayaṃ vidhiratra tena yāsyāmi nāprītyabhitaptacittaḥ ।
+ekāvamānābhihatā hi satsu pūrvopakārā na samībhavanti ।।

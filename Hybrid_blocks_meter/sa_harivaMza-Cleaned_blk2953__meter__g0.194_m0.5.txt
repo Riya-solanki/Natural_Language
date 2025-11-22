@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2953 | label: meter | g:0.194 m:0.5 ---
+
+sthāne yadukulaṃ mūḍha śocanīyaṃ tvayā kṛtam 
+vasudeva vṛthāvṛddha yan mayā tvaṃ puraskṛtaḥ ।।

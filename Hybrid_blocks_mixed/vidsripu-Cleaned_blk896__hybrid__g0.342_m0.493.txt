@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 896 | label: hybrid | g:0.342 m:0.493 ---
+
+svakāryabuddhyaiva sadā madarthe dūti pravṛttiṃ pratipālayantyā ।
+tvayā phalenaiva vibhāvito ayaṃ mayā sahābhinnaśarīravādaḥ ।।
+vittokasya

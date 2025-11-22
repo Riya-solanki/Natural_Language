@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 453 | label: meter | g:0.25 m:0.5 ---
+
+sarpāṇāṃ kāraṇaṃ caiva śreyasāṃ kāraṇaṃ tathā ।
+pūśanāṃ kāraṇaṃ caiva sarveṣāṃ kāraṇaṃ tathā ।।

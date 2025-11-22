@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2933 | label: meter | g:0.194 m:0.5 ---
+
+dārikā yā tvayā rātrau śilāyāṃ kaṃsa pātitā 
+tāṃ yaśodāsutāṃ viddhi kṛṣṇaṃ ca vasudevajam ।।

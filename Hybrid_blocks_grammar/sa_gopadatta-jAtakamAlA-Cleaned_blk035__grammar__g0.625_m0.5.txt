@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 35 | label: grammar | g:0.625 m:0.5 ---
+
+sūryātapo dahati vatsa śarīrakaṃ te tasmāt sukhocitam idaṃ tu roganīḍam । duḥkha abhitāpitānām ।।

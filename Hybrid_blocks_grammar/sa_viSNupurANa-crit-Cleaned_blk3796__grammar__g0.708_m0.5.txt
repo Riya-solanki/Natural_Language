@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3796 | label: grammar | g:0.708 m:0.5 ---
+
+kāśīrājasya viṣaye atyantānāvṛṣṭyāṃ śvaphalko anīyata । tatas tatkṣaṇād eva devo vavarṣa । kāśīrājapatnyāś ca garbhe kanyāpūrvam āsīt ।।

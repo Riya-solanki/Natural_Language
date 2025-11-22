@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1430 | label: meter | g:0.306 m:0.5 ---
+
+nirguṇam apy anuraktaṃ prāyo na samāśritaṃ jahati santaḥ ।
+sahavṛddhikṣayabhājaṃ vahati śaśāṅkaḥ kalaṅkam api ।।

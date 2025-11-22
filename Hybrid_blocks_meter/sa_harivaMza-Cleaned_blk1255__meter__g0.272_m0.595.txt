@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1255 | label: meter | g:0.272 m:0.595 ---
+
+sahasracaraṇaṃ brahman sahasrāṃśuṃ sahasraśaḥ 
+sahasraśirasaṃ devaṃ yam āhur vai yuge yuge ।।

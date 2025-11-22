@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 296 | label: grammar | g:0.573 m:0.5 ---
+
+tīṣṇaṃ ravis tapati nīca ivācirāḍhyaḥ śṛṅgaṃ rurus tyajati mitram ivākṛtajñaḥ ।
+toyaṃ prasīdati muner iva dharmacintā kāmī daridra iva śoṇam upaiti paṅkaḥ ।।

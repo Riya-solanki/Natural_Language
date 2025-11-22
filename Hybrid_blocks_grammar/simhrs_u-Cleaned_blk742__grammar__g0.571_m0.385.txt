@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 742 | label: grammar | g:0.571 m:0.385 ---
+
+yathā-
+kas tvaṃ bhoḥ, kathayāmi daiva-hatakaṃ māṃ viddhi śākhoṭakaṃ vairāgyād iva vakṣi, sādhu viditaṃ, kasmād idaṃ, kathyate ।
+vāmenātra vaṭas tam adhvaga-janaḥ sarvātmanā sevate na cchāyāpi paropakāra-karaṇe mārga-sthitasyāpi me ।।

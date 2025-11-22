@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 100 | label: meter | g:0.311 m:0.5 ---
+
+ye ye prītiṃ dadati viṣayā ye ca tat-tad-vidūrās
+teṣūtkaṇṭhā mama nahi kadāpy atra satyaṃ karomi ।
+kṛṣṇe snehaṃ bata vitanute yaś ca yatrāpi kṛṣṇaḥ
+śaśval-lokaṃ sa tu sarabhasaṃ māṃ didṛkṣuṃ karoti ।। [mandākrāntā]

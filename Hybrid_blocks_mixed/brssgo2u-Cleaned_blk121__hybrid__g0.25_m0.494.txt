@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 121 | label: hybrid | g:0.25 m:0.494 ---
+
+FN agre śūnyamāsīcchūnyādeva jagatabhūditi pūrvaḥ pakṣaḥ ।
+rāddhānte tu idaṃ jagadagre sṛṣṭeḥ prāgasadavyākṛtanāmarūpatvādasattulyamatisūkṣmaṃ brahmaivāsīt ।
+tato brahmaṇaḥ sat vyākṛtanāmarūpaṃ jagadajāyateti ।

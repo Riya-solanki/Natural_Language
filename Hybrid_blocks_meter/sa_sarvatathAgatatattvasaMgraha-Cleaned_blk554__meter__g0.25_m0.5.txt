@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 554 | label: meter | g:0.25 m:0.5 ---
+
+vajraratnaṃ tu paryaṅke svābhiṣeketi kīrtitā ।
+paryaṅke vajrapadmaṃ tu āyudhaiti prakīrtitā ।।

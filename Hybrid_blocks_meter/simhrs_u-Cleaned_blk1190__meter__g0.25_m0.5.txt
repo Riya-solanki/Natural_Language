@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1190 | label: meter | g:0.25 m:0.5 ---
+
+śuddhaṃ, yathā mālatī-mādhave, kāmandakī-
+yat prāg eva manorathair vṛtam abhūt kalyāṇam āyuṣmatos
+tat puṇyair mad-upakramaiś ca phalitaṃ kleśo' pi mac-chiṣyayoḥ ।
+niṣṇātaś ca samāgamo' bhivihitas tvat-preyasaḥ kāntayā
+samprītau nṛpa-nandanau yad aparaṃ preyas tad apy ucyatām ।।

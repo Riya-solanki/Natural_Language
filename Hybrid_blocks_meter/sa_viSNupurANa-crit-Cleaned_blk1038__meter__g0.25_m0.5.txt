@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1038 | label: meter | g:0.25 m:0.5 ---
+
+manasā tv eva bhūtāni pūrvaṃ dakṣo asṛjat tadā 
+devān ṛṣīn sagandharvān asurān pannagāṃs tathā ।।

@@ -1,0 +1,9 @@
+--- source: brssgo2u-Cleaned.txt | block: 665 | label: meter | g:0.297 m:0.649 ---
+
+itarādhikārāt ।
+brahmaprakaraṇāt ।
+nanu mahattvaśruteḥ kathaṃ paraprakaraṇasthatvamityata āha-parasyeti ।
+yā vedāntaśrutiḥ sā paraprakaraṇasthetyutsargāttasyāstatsthatvaṃ brahmārabhyādhītatvāccetyāha-viraja iti ।
+nirdeṣa ityarthaḥ ।
+vijñānamayaśrutyā prakaraṇaṃ bādhyamiti śaṅkate-nanviti ।
+aṇorjīvasya brahmaṇā bhedabhedāṅgīkārācchāstrīyābhedadṛṣṭyā mahattvoktiḥ, yathā vāmadevasyāhaṃ manuriti sarvātmatvoktirityavirodhamāha-śāstreti ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11962 | label: meter | g:0.25 m:0.625 ---
+
+hari prītikarāndharmānvakṣye śṛṇu khagādhipa ।
+prātaḥ kāle samutthāya smarennārāyaṇaṃ harim ।।

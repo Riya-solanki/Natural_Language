@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 199 | label: meter | g:0.304 m:0.573 ---
+
+ata uktam-
+yena yena hi bhāvena manaḥ saṃyujyate nṛṇām ।
+tena tanmayatāṃ yāti viśvarūpo maṇiryathā ।।

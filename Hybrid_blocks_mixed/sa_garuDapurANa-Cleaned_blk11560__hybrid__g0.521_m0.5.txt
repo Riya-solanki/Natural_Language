@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11560 | label: hybrid | g:0.521 m:0.5 ---
+
+putrādīnāmaihikaṃ vāsudeva dagdhvā ca me dehi pādāravinde ।
+sadvaṣṇave kriyamāṇaṃ ca kopaṃ dagdhvā ca me dehi pādaravinde ।।

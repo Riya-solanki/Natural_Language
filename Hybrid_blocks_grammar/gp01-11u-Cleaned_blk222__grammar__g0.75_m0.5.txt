@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 222 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatrānupayukta-yukta-bhoktṝṇāṃ viprāṇāṃ paṅktir ekatra, sagdhi-digdhānām asandigdha-snigdhānāṃ vaiśya-vaṃśyānām anyatra । tatra tatra ca vṛddha-madhyama-nava-yauvanānāṃ pṛthak pṛthag iti viyutāv api, mitho yathāsvaṃ parihāsa-vilāsena saṃyutir iva vīkṣyate sma । na ca kevalena tena, tad-avalocana-samunmīlita-locana-rocana-vilāsālāpa-līlā-rasa-vāridher vrajendra-kula-sudhā-nidher asakṛd anubhava-yaugapadyena ca ।

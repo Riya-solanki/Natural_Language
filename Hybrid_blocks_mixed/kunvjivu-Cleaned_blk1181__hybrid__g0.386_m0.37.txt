@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 1181 | label: hybrid | g:0.386 m:0.37 ---
+
+atra śāpa iti evaṃvidhāpacāraprāgbhāraprabhavo bhavatu nāma ।
+sānugraha iti anugrahaḥ punarayamanupapanna evāsyāmavasthāyām ।
+bhagavatetyanarthadarśanena sahajadayālunā ।
+yadi vā bhagavatā śāpo api iti śāpānugrahayordahanavāriṇorivaikakālamekaviṣayavartitvamasatorapi bhagavat saṃpatsāmarthyādeva saṃbhāvyate, adṛṣṭatanayānanapadmaśobhe mayi etasmādevānugrahādavaśyaṃbhāvinaḥ sucirakālābhikāṅkṣitasya sutāvalambanatanorjovitaphalasya vilokanotkaṇṭhāpāravaśyāt ityalamatiprasaṅgena ।
+asyā eva prabhedāntaramunmīlayati

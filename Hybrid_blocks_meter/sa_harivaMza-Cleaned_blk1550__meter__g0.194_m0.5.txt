@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1550 | label: meter | g:0.194 m:0.5 ---
+
+māyāpāśānvikarṣaṃś ca chindan vajreṇa tāñ śarān 
+śakro daityabalaṃ ghoraṃ viveśa bahulocanaḥ ।।

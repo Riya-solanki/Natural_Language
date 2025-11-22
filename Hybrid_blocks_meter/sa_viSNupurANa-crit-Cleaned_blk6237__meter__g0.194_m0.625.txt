@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6237 | label: meter | g:0.194 m:0.625 ---
+
+evam eṣa mahāśabdo bhagavān iti sattama 
+paramabrahmabhūtasya vāsudevasya nānyagaḥ ।।

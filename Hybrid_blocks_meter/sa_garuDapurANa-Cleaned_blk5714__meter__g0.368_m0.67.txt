@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5714 | label: meter | g:0.368 m:0.67 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+punarnavāyā mūlañca śvetaṃ puṣye samāhṛtam ।
+vāri pītaṃ tasya pārśva bhavaneṣu na pannagāḥ ।।

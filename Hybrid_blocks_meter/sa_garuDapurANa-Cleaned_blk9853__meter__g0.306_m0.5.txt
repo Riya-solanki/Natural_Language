@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9853 | label: meter | g:0.306 m:0.5 ---
+
+māṃ narā ye avamanyante cācāryaṃ gurumeva ca ।
+vṛddhānanyāṃścāpi mūḍhāsteṣāṃ vāsastu tatra vai ।।

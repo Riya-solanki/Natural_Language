@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4999 | label: meter | g:0.25 m:0.625 ---
+
+tathāpi ye manuṣyāṇāṃ dharmās tadanuvartanam 
+kurvan balavatā saṃdhiṃ hīnair yuddhaṃ karoty asau ।।

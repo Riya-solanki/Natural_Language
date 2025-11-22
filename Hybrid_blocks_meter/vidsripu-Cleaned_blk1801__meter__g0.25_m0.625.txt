@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1801 | label: meter | g:0.25 m:0.625 ---
+
+jayati kavikaṇṭhaharaḥ śrīraghukāraḥ prameyakedāre ।
+yanmatidātravilūne śiloñcham iva kurvate kavayaḥ ।।

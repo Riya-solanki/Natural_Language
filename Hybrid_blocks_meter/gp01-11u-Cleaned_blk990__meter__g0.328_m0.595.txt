@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 990 | label: meter | g:0.328 m:0.595 ---
+
+vṛndāvanaṃ sampraviśya sarva-kāla-sukhāvaham ।
+tatra cakrur vrajāvāsaṃ śakaṭair ardha-candravat ।।[BhP ] iti।

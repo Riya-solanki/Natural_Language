@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1566 | label: meter | g:0.306 m:0.5 ---
+
+asmādṛśāṃ nūnam apuṇyabhājāṃ na svopayogī na paropayogī ।
+sann apy asadrūpatayaiva vedyo dāridryamudro guṇaratnakoṣaḥ ।।

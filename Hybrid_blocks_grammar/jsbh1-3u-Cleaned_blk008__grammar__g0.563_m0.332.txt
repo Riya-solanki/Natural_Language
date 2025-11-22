@@ -1,0 +1,18 @@
+--- source: jsbh1-3u-Cleaned.txt | block: 8 | label: grammar | g:0.563 m:0.332 ---
+
+śrutiviruddhānāmapi audumbarī sarvā veṣṭitavyetyādismṛtīnāṃ śrutimūlakatvāviśeṣāt prāmāṇyam ।
+nacaudumbarīṃ spṛṣṭvodgāyediti pratyakṣaśrutivirodhāttadanupapattiḥ; parasparaviruddhārthakānāmapi grahaṇāgrahaṇādiśrutīnāṃ bahuśo darśanena virodhe satyapi tatkalpane bādhakābhāvāt, tadvadeva vikalpena virodhasya pariharttuṃ śakyatvācca ।
+na hyatra pratyakṣaśrutyā smṛtermūlākāṅkṣā nivarttate, yena kalpanāmūlocchedādviruddhapratyakṣaśrutyā liṅgasyeva smṛterbādhaḥ syāt ।
+na vā śaityauṣṇyayorivātra viṣayayoratyantavirodhaḥ, yena auṣṇyapratyakṣeṇeva śaityānumānasya prakṛte prameyāpahāralakṣaṇo bādhaḥ syāt ।
+na tvetadasti; vikalpena dvayoḥ saṃbhavāditi prāpte bhāṣyakāreṇaivaṃ siddhāntitam sarvatrānumāne anumeyajijñāsāyāḥ kāraṇatvāt pratyakṣaśrutyā ca sparśavidhānenāveṣṭitatvarūpeṇaudumbaryāḥ paricchinnatvājjijñāsābhāvena naudumbarīveṣṭanaviṣayakaśrutyanumānasambhavaḥ ।
+tathā pratyakṣaśrutivirodhābhāve api yatra lobhādidarśanaṃ, yathā vaisarjanahomīyaṃ vāso adhvaryuḥ parigṛhṇātītyādau tatrāpi na śrutikalpanaṃ kḷptahetoreva mūlatvopapatteḥ iti ।
+(pūrvādhikaraṇenāpavādikasaṃgatyupapādanam) "virodhe tvanapekṣaṃ syāt asati hyanumāna"miti siddhāntasūtragatatuśabdanirasanīyatvena sūcitatatsūtrapūrvapakṣeṇādhikaraṇavicāraṃ darśayitumudāharaṇamāha śrutiviruddhānāmapīti ।।
+apiśabdena yadi śiṣṭatraivarṇikaparigrahānupapattiprasūtaśrutimūlakatvena manvādismṛtīnāṃ prāmāṇyaṃ, tarhi viruddhānāmapi āsāmuktahetorastu prāmāṇyam ityākṣepanirāsāt āpavādikī saṃgatiḥ sūcikā ।।
+(ādipadena aṣṭācatvāriṃśadityādismṛtidvayasaṃgrahanirūpaṇam) ādipadena yathaudumbarīṃ spṛṣṭvodgāyediti pratyakṣaśrutiviruddhāyāḥ sarvaveṣṭanasmṛterudāharaṇatvaṃ, tathā "jātaputraḥ kṛṣṇakeśo agnīnādadhīta" iti śrutyā viruddhāyā "aṣṭācatvāriṃśadvarṣaparyantaṃ vedabrahmacaryami"ti smṛteḥ, tathā "na dīkṣitasyānnamaśnīyāt" iti niṣedhāpekṣitāvadhisamarpikayāgnīṣomīye saṃsthite yajamānasya gṛhe aśitavyamiti śrutyā viruddhāyāḥ "krītarājako bhojyānna" iti smṛterapyudāharaṇatvaṃ saṃgṛhītam ।।
+sadomaṇḍape udumbaravṛkṣasya kāṣṭhamūrdhvatayā yajamānasammitaṃ nikhanya sthāpyate ।
+tadaudumbarīśabdasyārthaḥ ।
+vikalpeneti ।।
+(sparśanaveṣṭanayoḥ prayogabhedena vikalpanirūpaṇam) vahnau śaityauṣṇyayorvikalpāsaṃbhavāt parasparātyantābhāvasamānādhikaraṇayostayoḥ virodhasya pratyakṣasiddhatvāt pratyakṣabādhitatvena na śaityānumataṃ saṃbhavatīti yuktaḥ prameyāpahāralakṣaṇo bādhaḥ, iha tu sparśanaveṣṭanayoḥ parasparātyantābhāvasamānādhikaraṇayoḥ prayogabhedena vikalpenaniveśasya saṃbhavāt yuktaṃ prāmāṇyamityarthaḥ ।
+sarvatreti ।।
+dhūmādidarśanānantaraṃ vyāptismaraṇe satyapi jijñāsābhāve anumityanudayāt parokṣajñāne athavānumityarthāpattyoreva tasyāḥ kāraṇatvamityarthaḥ ।।
+(vaisarjanahomīyamiti viṣayāntaragaveṣaṇaprayojanam) atra

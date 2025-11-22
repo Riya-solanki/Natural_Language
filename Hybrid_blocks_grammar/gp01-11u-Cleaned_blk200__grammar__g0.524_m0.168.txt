@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 200 | label: grammar | g:0.524 m:0.168 ---
+
+[] tataś ca parasparaṃ kara-baddha-karau sitāsita-kumāra-varau mātṛbhyām
+ubhayataḥ pṛṣṭhataḥ pradatta-hastau smita-vaśaṃvada-vadana-śastau mandaṃ mandaṃ tad evāmandam alindam avindatām । [] suvarṇa-svarṇa-kirmīrita-prayatna-nirmita-pṛthu-ratna-pīṭham abhi pṛthak pṛthaṅ niviṣṭavantau sudhā-vṛṣṭim iva ca sarveṣūpaviṣṭeṣu dṛṣṭiṃ sṛṣṭavantau ।

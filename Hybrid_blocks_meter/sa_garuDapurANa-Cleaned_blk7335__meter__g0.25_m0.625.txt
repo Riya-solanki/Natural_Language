@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7335 | label: meter | g:0.25 m:0.625 ---
+
+brahmahā kṣayarogī syātsurāpaḥ śyāvadantakaḥ ।
+hemahārī tu kunakhī duścarmā gurutalpagaḥ ।।

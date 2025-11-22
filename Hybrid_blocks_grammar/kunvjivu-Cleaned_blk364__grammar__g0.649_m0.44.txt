@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 364 | label: grammar | g:0.649 m:0.44 ---
+
+snigdhaśyāmalakāntiliptaviyato velladvalākā ghanā vātāḥ śīkariṇaḥ payodasuhṛdāmānandakekāḥ kalāḥ ।
+kāmaṃ santu dṛḍhaṃ kaṭhorahṛdayo rāmo asmi sarvaṃ sahe vaidehī tu kathaṃ bhaviṣyati hahā hā devi dhīrā bhava ।।

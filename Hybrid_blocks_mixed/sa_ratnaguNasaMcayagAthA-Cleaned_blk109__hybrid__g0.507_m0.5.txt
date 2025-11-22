@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 109 | label: hybrid | g:0.507 m:0.5 ---
+
+yatha istri gurviṇi ya ceṣṭati vedanābhi jñātavyu kālu ayamasya prajāyanāya 
+tatha bodhisattva śruṇamāṇu jināna prajñāṃ rati chanda vīkṣati spṛśiṣyati bodhi śīghram ।।

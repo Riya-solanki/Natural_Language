@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11961 | label: meter | g:0.25 m:0.5 ---
+
+hariprītikaro nityaṃ puṣkare krīḍate yataḥ ।
+atastu puṣkalo nāma loke sa parikīrtitaḥ ।।

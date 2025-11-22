@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 368 | label: grammar | g:0.604 m:0.5 ---
+
+ājñā śakraśikhāmaṇipraṇayinī śāstrāṇi cakṣurnavaṃ bhaktirbhūtapatau pinākini padaṃ laṅketi divyā purī ।
+saṃbhūtirdruhiṇānvaye ca tadaho nedṛgvaro labhyate syāccedeṣa na rāvaṇaḥ kva nu punaḥ sarvatra sarve guṇāḥ ।।

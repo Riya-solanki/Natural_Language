@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3720 | label: meter | g:0.25 m:0.625 ---
+
+namaste vajrasattvāya vajraratnāya ca te namaḥ ।
+namaste vajradharmāya namaste vajrakarmaṇe ।।

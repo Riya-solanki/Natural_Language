@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 912 | label: meter | g:0.217 m:0.845 ---
+
+{dīrghīṅvevīṅsamaḥ kaścidguṇavṛddhyorabhājanam ।
+kvippratyayanibhaḥ kaścidyatra saṃnihite na te ।।}

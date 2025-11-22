@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 158 | label: grammar | g:0.604 m:0.5 ---
+
+kāmino api hi nityārthaṃ kuryur evopavāsanam prīṇanārthaṃ harer nityaṃ na tu kāmavyapekṣayā ।।

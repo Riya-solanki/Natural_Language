@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 537 | label: meter | g:0.316 m:0.5 ---
+
+abhimukhe mayi saṃvṛtam īkṣitaṃ hasitam anyanimittakathodayam ।
+vinayavāritavṛttir atas tayā na vivṛto madano na ca saṃvṛtaḥ ।।

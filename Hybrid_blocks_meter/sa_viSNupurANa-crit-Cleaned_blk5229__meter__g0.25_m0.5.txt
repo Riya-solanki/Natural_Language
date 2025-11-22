@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5229 | label: meter | g:0.25 m:0.5 ---
+
+sahasram ekaṃ niṣkāṇāṃ rukmiṇā vijito balaḥ 
+dvitīye api paṇe cānyat sahasraṃ rukmiṇā jitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 150 | label: meter | g:0.251 m:0.623 ---
+
+kṛṣṇaḥ śarac-candramasaṃ kaumudīṃ kumudākaram ।
+jagau gopī-janas tv ekaṃ kṛṣṇa-nāma punaḥ punaḥ ।।[ViP ]

@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 224 | label: meter | g:0.194 m:0.625 ---
+
+kṛcchraṃ vā pratiṣaṇmāsaṃ pratyabdamathavaindavam
+parākaṃ taptakṛcchraṃ vā mantrī sānucaraścaret ।

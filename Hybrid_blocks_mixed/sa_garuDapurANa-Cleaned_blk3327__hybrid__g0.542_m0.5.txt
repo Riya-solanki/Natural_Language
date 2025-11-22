@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3327 | label: hybrid | g:0.542 m:0.5 ---
+
+śīlaṃ kulaṃ naiva na caiva vidyā jñānaṃ guṇā naiva na bījaśuddhiḥ ।
+bhāgyāni pūrvaṃ tapasārjitāni kāle phalantyasya yathaiva vṛkṣāḥ ।।

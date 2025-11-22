@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1296 | label: grammar | g:0.519 m:0.141 ---
+
+alabhyaḥ siddhasya nihnavaḥ, siddhaṃ ca kiñcitsādharmyādupamānam ayathā gaustathā gavayaḥ' iti, tatra na labhyo gogavayayordharmavikalpaścodayitum, evaṃ sādhake dharme dṛṣṭāntādisāmarthyayukte na labhyaḥ sādhyadṛṣṭāntayordharmavikalpāt
+vaidharmyāt pratiṣedho vaktumiti ।।

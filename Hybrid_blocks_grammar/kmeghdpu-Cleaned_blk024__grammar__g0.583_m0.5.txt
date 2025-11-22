@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 24 | label: grammar | g:0.583 m:0.5 ---
+
+teṣāṃ dikṣu prathitavidiśālakṣaṇāṃ rājadhānīṃ gatvā sadyaḥ phalam api mahat kāmukatvasya labdhā ।
+tīropāntastanitasubhagaṃ pāsyasi svādu yat tat sabhrūbhaṅgaṃ mukham iva payo vetravatyāś calormi ।।

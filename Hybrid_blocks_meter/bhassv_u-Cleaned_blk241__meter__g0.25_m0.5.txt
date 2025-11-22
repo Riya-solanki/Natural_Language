@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 241 | label: meter | g:0.25 m:0.5 ---
+
+padmāvatī bahumatā mama yady api rūpaśīlamādhuryaiḥ
+vāsavadattābaddhaṃ na tu tāvan me mano harati ।।

@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 580 | label: grammar | g:0.75 m:0.5 ---
+
+kāmikādi kāmikādīni jñānāni [ūrdhvaṃ srotāṃsi] ūrdhvasrotaḥ। [asitāṅgādi] asitāṅgādīni dakṣiṇam। sammohādi sammohādīni uttaram। trotalādijñānāni [prācyaṃ] prācyāni। [caṇḍāsidhārādi] caṇḍāsidhārādīni [āpyaṃ] paścimam। tacca [caṇḍanāthaparigrahaṃ] caṇḍeśvaraparigrahatayā jñeyamiti pañcasrotaḥkathanam।।

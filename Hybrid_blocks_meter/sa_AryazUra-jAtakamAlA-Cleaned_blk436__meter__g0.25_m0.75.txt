@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 436 | label: meter | g:0.25 m:0.75 ---
+
+arthinātmagate duḥkhe yācñādainyena darśite ।
+jñātumarhati dātaiva prāptakālamataḥ param ।।

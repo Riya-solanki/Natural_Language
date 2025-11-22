@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 641 | label: meter | g:0.194 m:0.5 ---
+
+nirjagāma gṛhān mātur ity uktvā mātaraṃ dhruvaḥ 
+purāc ca nirgamya tatas tadbāhyopavanaṃ yayau ।।

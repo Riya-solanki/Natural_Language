@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1369 | label: meter | g:0.194 m:0.625 ---
+
+tasya vikramato bhūmiṃ candrādityau stanāntare 
+nabhaḥ prakramamāṇasya nābhyāṃ kila samāsthitau ।।

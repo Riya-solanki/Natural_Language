@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11060 | label: meter | g:0.306 m:0.5 ---
+
+ramaṇaṃ cakrurevaṃ tā ato doṣo na vidyate ।
+ekasmindivase vīndra dharmo vāyuśca tāvubhau ।।

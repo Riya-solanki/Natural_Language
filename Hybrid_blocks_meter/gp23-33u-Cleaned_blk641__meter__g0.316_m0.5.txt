@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 641 | label: meter | g:0.316 m:0.5 ---
+
+tava svabhāvenākṛṣṭā svasya vā tvayi keśava ।
+kṛṣyeya ced balād anyenāsūn madhye jahāmy aham ।। iti ।

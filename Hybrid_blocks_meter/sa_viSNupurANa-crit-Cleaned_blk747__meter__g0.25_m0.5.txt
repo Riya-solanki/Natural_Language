@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 747 | label: meter | g:0.25 m:0.5 ---
+
+tapasas tat phalaṃ prāptaṃ yad dṛṣṭo ahaṃ tvayā dhruva 
+maddarśanaṃ hi viphalaṃ rājaputra na jāyate ।।

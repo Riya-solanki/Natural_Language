@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 886 | label: meter | g:0.194 m:0.5 ---
+
+ya idaṃ janma vainyasya pṛthoḥ saṃkīrtayen naraḥ 
+na tasya duṣkṛtaṃ kiṃcit phaladāyi prajāyate ।।

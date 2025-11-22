@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4949 | label: meter | g:0.272 m:0.845 ---
+
+dīpanojvaratṛṣṇāghnastiktaḥ śodhanaśoṣaṇaḥ ।
+pittalo lekhana stambhī kaṣāyo grāhiśoṣaṇaḥ ।।

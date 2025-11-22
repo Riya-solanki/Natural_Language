@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 115 | label: meter | g:0.29 m:0.679 ---
+
+lomaharṣaṇa uvāca
+evamukte tu devena viṣṇunā prabhaviṣṇunā ।
+tataḥ prahṛṣṭamanasaḥ pūjayanti sma taṃ prabhum ।।

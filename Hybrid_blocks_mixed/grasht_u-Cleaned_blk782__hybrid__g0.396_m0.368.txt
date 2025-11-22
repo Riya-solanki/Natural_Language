@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 782 | label: hybrid | g:0.396 m:0.368 ---
+
+sāritapratisāritādanusāritasya viśeṣamāha anvityādi ।।
+tu punaḥ svacchaḥ pradhānasaṃskāraiḥ saṃskṛtaḥ sūtaḥ anusāritena samaḥ triguṇabījena sārito'nusāritastena tulyo yadi syātsa ca lakṣavedhī syāt ।।
+evaṃ pratisāritaḥ sūtaḥ samena sārito ayutavedhī syāt ।।
+evaṃ svecchātisvacchavṛddhau vedhasyāpi vṛddhiḥ syāditi rahasyam ।।

@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 193 | label: meter | g:0.25 m:0.875 ---
+
+FN adhikāraḥ prakaraṇam ।
+sa ānandamayo rasaḥ sāraḥ ।
+akhaṇḍaikarasasya ।
+lokādanapeto laukiko aprāmāṇikaḥ ।

@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 436 | label: grammar | g:0.646 m:0.344 ---
+
+tadā tatra māyā milad-bālya-kāyā
+tadīyānukūlyaṃ kṛpā-mātra-mūlyam ।
+sadā kurvatī taṃ samastān atītaṃ
+vidhāyāgrajātaṃ svayaṃ prāpa jātam ।।
+[] atha snigdhakaṇṭhena bhāvitaṃ sa-pramāṇaḥ khalv idam - adṛśyatānujā viṣṇoḥ sāyudhāṣṭa-mahābhujā [BhP ] iti śrī-bhāgavatād, tac ca nandas tv ātmaja utpanne jātāhlādo mahā-manāḥ [BhP ] ity ādiṣv ātmaja-padaiḥ sthāpanā-vyapadeśataḥ sadeśa-rūpam eva nirūpyate । kintu tad idam apracchannaṃ vivicya pṛcchāmaḥ yatheha sandehaḥ sarveṣāṃ śāmyati । [] spaṣṭam apy ācaṣṭa - aho ārya tarhi kathaṃ vasudeva-devakī-putratayā so' yam avadhāryate ?

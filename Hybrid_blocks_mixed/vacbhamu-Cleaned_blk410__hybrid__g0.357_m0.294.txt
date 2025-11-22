@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 410 | label: hybrid | g:0.357 m:0.294 ---
+
+ata eva na devatā bhūtaṃ ca ।
+ata evaitebyaḥ śrutismṛtyavagatadyumūrdhatvādisaṃbandhasarvalokāśrayaphalabhāgitvasarṃvapāpmapradāhātmabrahmabrahmapadokramebhyo hetubhya ityarthaḥ ।
+ayo bhānunā pṛthivīṃ dyāmutemām' iti mantravarṇo api na kevalauṣṇyaprakāśavibhavamātrasya bhūtāgneramamīdṛśaṃ mahimānamāhaga, api tu brahmavikāratayā tādrūpyeṇeti bhāvaḥ ।।

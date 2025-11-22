@@ -1,0 +1,5 @@
+--- source: brsvbh3u-Cleaned.txt | block: 301 | label: meter | g:0.25 m:0.818 ---
+
+upamardaṃ ca ।
+adhikopadeśādityanenātmana eva śuddhabuddhodāsīnatvādaya uktāḥ ।
+iha tu samastakriyākārakaphalavibhāgopamardaṃ ceti ।।

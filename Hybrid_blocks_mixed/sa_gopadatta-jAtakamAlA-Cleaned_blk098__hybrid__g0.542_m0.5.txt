@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 98 | label: hybrid | g:0.542 m:0.5 ---
+
+sarvajñe paramagurau niveśya bhaktiṃ śrotavyaṃ vacanam ṛṣeḥ samantaśobhi ।
+nikṣipya vyasanamayīṃ kukāryacintāṃ nāto anyat param adhikaṃ yato asti kṛtyam ।।

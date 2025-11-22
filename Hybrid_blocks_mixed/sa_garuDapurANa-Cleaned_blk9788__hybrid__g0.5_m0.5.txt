@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9788 | label: hybrid | g:0.5 m:0.5 ---
+
+yadā māso na vijñāto vijñātaṃ dinameva ca ।
+tadā mārgaśire māsi māghe vā taddinaṃ bhavet ।।

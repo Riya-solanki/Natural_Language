@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 412 | label: grammar | g:0.667 m:0.5 ---
+
+lakṣaṇam svapne api sarvadharmāṇāṃ svapnābhatvadarśanādiṣu dvādaśaliṅgeṣu anyatamasya prāptyā vyavasthāpitaḥ prathamo nirvedhabhāgīya ūṣmā mūrdhaprayoga iti lakṣaṇam ।

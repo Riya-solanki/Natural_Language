@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 179 | label: grammar | g:0.75 m:0.5 ---
+
+bhedaḥ ayaṃ bhāvanāmārgo dvādaśavidho bhavati, tadyathā - viśeṣapariṇāmanāmanaskāraḥ, anupalambhākārapariṇāmanāmanaskāraḥ, aviparyāsalakṣaṇaḥ pariṇāmanāmanaskāraḥ, viviktapariṇāmanāmanaskāraḥ, buddhapuṇyaughasvabhāvānusmṛtipariṇāmanāmanaskāraḥ, upāyakauśalapariṇāmanāmanaskāraḥ, amimittapariṇāmanāmanaskāraḥ, buddhānujñāta -pariṇāmanāmanaskāraḥ, traidhātukāparyāpannapariṇāmanāmanaskāraḥ, mahāpuṇyodayātmako mṛdupariṇāmanāmanaskāraḥ, mahāpuṇyodayātmako madhyapariṇāmanāmanaskāraḥ, mahāpuṇyodayātmako adhimātrapariṇāmanāmanaskāra iti dvādaśa bhedā bhavanti ।

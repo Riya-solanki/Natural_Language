@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1610 | label: grammar | g:0.552 m:0.5 ---
+
+utkṛtyotkṛtya kṛttiṃ prathamam atha pṛthūcchophabhūyāṃso māṃsāny aṅgasphikpṛṣṭhapiṇḍādyavayavasulabhāny agrapūtīni jagdhvā ।
+āttasnāyvantranetraḥ prakaṭitadaśanaḥ pretaraṅkaḥ karaṅkād aṅkasthād asthisaṃsthasthapuṭagatam api kravyam avyagram atti ।।

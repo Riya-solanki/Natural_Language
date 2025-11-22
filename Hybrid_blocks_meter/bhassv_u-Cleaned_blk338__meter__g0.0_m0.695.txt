@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 338 | label: meter | g:0.0 m:0.695 ---
+
+{rājā} - hā priye hā priyaśiṣye dehi me prativacanam 
+{vāsavadattā} - āḷavāmi bhaṭṭā āḷavāmi 
+[ālapāmi bhartaḥ ālapāmi । ]

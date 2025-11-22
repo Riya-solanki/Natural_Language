@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 683 | label: grammar | g:0.562 m:0.5 ---
+
+atha anyeṣvapi [svakalpānvayasiddheṣu] svakalpopāyena svaśāstrasādhāraṇyenānviṣṭeṣu śivībhūteṣu [deśikaḥ] ācāryaḥ [tathā] tryahamanadhyāyaṃ kuryāt।।

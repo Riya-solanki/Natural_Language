@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 200 | label: meter | g:0.306 m:0.5 ---
+
+deśakramo api bhāveṣu bhāti mātur mitātmanaḥ ।
+svātmeva svātmanā pūrṇā bhāvā bhānty amitasya tu ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2907 | label: meter | g:0.272 m:0.845 ---
+
+rāgāttvamasi saṃbhūtaḥ krodho ahamiti bhāvayan ।
+hṛnmudrāmantravidyānāmāśusiddhikaraṃ bhaved ।।

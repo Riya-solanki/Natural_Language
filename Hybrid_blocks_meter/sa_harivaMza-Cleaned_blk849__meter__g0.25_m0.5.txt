@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 849 | label: meter | g:0.25 m:0.5 ---
+
+sinīvālī kuhūś caiva dyutiḥ puṣṭiḥ prabhā vasuḥ 
+kīrtir dhṛtiś ca lakṣmīś ca nava devyaḥ siṣevire ।।

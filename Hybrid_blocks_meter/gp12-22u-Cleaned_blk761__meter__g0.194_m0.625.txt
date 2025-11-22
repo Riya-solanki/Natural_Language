@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 761 | label: meter | g:0.194 m:0.625 ---
+
+divya-dātavya-sambhāre vraja-rājena yojite ।
+parīkṣakās tatra paraṃ tat-parīkṣakatāṃ yayuḥ ।। [anuṣṭubh]

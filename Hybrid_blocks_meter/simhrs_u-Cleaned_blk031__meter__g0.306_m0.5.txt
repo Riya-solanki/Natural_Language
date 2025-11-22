@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 31 | label: meter | g:0.306 m:0.5 ---
+
+etair anyaiś ca tanayaiḥ so' yaṃ siṃha-mahīpatiḥ ।
+ṣaḍbhiḥ pratiṣṭhām ayate svāmīvāṅgaiḥ susaṅgataiḥ ।।

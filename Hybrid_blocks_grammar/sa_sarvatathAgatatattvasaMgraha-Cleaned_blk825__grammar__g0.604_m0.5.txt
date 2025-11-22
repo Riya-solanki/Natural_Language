@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 825 | label: grammar | g:0.604 m:0.5 ---
+
+atha bhagavān vairocanastathāgataḥ sarvatathāgatādhiṣṭhānena sarvatathāgatakulamutpādya, asya sarvatathāgatakulamahākalpavidhivistarasya sarvasiddhisaṃgrahārthamidaṃ sarvatathāgatamudrāhṛdayamabhāṣat oṃ sarvatathāgatamuṣṭi vaṃ ।।

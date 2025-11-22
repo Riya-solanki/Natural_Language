@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4278 | label: meter | g:0.194 m:0.625 ---
+
+raṅgadvāre gajaṃ mattaṃ prabhūtāyudhakalpitam 
+śūrair adhiṣṭhitaṃ kaṃsaḥ sthāpayām āsa vīryavān ।।

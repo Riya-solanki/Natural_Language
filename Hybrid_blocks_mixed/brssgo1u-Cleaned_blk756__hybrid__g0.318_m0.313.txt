@@ -1,0 +1,9 @@
+--- source: brssgo1u-Cleaned.txt | block: 756 | label: hybrid | g:0.318 m:0.313 ---
+
+śukraṃ svaprakāśam ।
+tadu nātyeti brahmānāśritaḥ ko api loko nāstyevetyukārārthaḥ ।
+sautraṃ liṅgaṃ vyācaṣṭe-ejayitṛtvamiti ।
+savāyukasya sarvasya kampanaśravaṇādapi prāṇaḥ paramātmaivetyarthaḥ ।
+brahmaṇi vajraśabdaḥ kathamityāśaṅkya gauṇa ityāha-vajraśabda iti ।
+bṛhadāraṇyake avāyureva vyaṣṭiḥ'ityatra aapapunarmṛtyum'ityapamṛtyujayarūpamāpekṣikamamṛtatvamucyate na mukhyāmṛtatvam, tatraiva vāyūpāstiprakaraṇaṃ samāpya aatha hainamuṣastaḥ papraccha'iti jñeyātmānamuktvā vāyvādernāśitvokterityāha-yattu vāyvityādinā ।
+tasmātkāṭhakavākyaṃ jñeye samanvitaviti siddham ।।

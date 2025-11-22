@@ -1,0 +1,5 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 9 | label: hybrid | g:0.487 m:0.433 ---
+
+indriyavaikalyāt dvicandradarśanasya tadābhatve api na tasya viṣayo asti । tadvat saṃghātaḥ dravyato asattvena akāraṇātvāt nālambanam ।
+evaṃ bāhyadūyañcaiva na yuktaṃ matigocaraḥ ।।
+aṇuḥ kalāpaśceti bāhyo arthaḥ nālambanam, ekāṅgavaikalyāt ।। tatra sādhanaṃ sañcitākāramicchanti kila kecana ।

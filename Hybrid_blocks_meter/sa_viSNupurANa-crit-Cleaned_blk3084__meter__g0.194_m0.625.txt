@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3084 | label: meter | g:0.194 m:0.625 ---
+
+prāṅmukhān bhojayed viprān devānām ubhayātmakān 
+pitṛpaitāmahānāṃ ca bhojayec cāpy udaṅmukhān ।।

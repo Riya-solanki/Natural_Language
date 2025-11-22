@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5161 | label: meter | g:0.25 m:1.0 ---
+
+drumatvagarkakuṣṭhāni lavaṇāni ca mūtrakam ।
+gambhārikācitrakaistaistailaṃ kuṣṭhavraṇādinut ।।

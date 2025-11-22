@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1137 | label: hybrid | g:0.521 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-parisedhaty api vedhasi kiṃ kiñcid apy uktam?

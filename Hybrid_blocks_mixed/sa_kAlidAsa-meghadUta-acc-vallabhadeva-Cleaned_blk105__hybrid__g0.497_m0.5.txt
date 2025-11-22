@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 105 | label: hybrid | g:0.497 m:0.5 ---
+
+bhittvā sadyaḥ kisalayapuṭān devadārudrumāṇāṃ ye tatkṣīrasrutisurabhayo dakṣiṇena pravṛttāḥ 
+āliṅgyante guṇavati mayā te tuṣārādrivātāḥ pūrvaspṛṣṭaṃ yadi kila bhaved aṅgam ebhis taveti ।।

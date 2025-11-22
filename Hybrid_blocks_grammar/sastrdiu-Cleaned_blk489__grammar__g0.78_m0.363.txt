@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 489 | label: grammar | g:0.78 m:0.363 ---
+
+aśakyaṃ ca kartuṃ sarvaśabdānāṃ saṃbandhakaraṇam- yadā na kaścidapi śabdaḥ kenāpyarthena saṃbaddhaṃ āsīt tadā kathaṃ saṃbandhaḥ kriyeta- saṃbandhaṃ hi kurvatāvaśyaṃ kenacidvākyena sa kartavyaḥ- gauḥ sāsnādimānityādinā ।
+nacāprasiddhamarthapratipādakatvena sāsnādiśabdamarthapratipādanāya śaknoti kartoccārayituṃ, tathā hastasaṃjñādayopi, pratipādakatvāsiddheḥ ।।

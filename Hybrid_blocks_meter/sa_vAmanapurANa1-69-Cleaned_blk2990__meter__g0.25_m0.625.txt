@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2990 | label: meter | g:0.25 m:0.625 ---
+
+iteyavamuktāḥ pramathā vāsudevena sāmarāḥ ।
+cakrurvegaṃ sahendreṇa samaṃ cakradhareṇa ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11242 | label: hybrid | g:0.531 m:0.5 ---
+
+tayo rasajñā yatra na santi tatra na saṃvasetkṣaṇamātraṃ kathañcit ।
+yasmin dine divyakathā ca viṣṇorna vāsti jantostasya cāyurvṛthaiva ।।

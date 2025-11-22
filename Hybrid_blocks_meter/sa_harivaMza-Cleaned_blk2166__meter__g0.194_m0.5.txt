@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2166 | label: meter | g:0.194 m:0.5 ---
+
+sa tu kelikilo vipro bhedaśīlaś ca nāradaḥ 
+suśliṣṭān api lokeṣu bhedayaṃl labhate ratim ।।

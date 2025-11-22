@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 809 | label: meter | g:0.25 m:1.0 ---
+
+dṛḍhapratītisukhasakticumbitāgryasukhāni tu ।
+niryātayaṃstu buddhānāṃ vajradharmasamo bhavet ।।

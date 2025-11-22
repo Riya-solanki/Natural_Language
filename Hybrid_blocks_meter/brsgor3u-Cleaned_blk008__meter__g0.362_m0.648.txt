@@ -1,0 +1,6 @@
+--- source: brsgor3u-Cleaned.txt | block: 8 | label: meter | g:0.362 m:0.648 ---
+
+prāṇānāṃ gatirasiddhetyāśaṅkya niṣedhati-agnyādīti ।
+adarśanādoṣadhivanaspatigamanasyeti śeṣaḥ ।
+lomānyapiyantītyarthaḥ ।।
+prāṇānāmagnyādiṣu layasya mukhyatve jīvasya gatibhogayorayogātsarve prāṇā anūtkrāmantīti vispaṣṭaśruterlomādigauṇalayapāṭhācca gauṇatvamityarthaḥ ।।

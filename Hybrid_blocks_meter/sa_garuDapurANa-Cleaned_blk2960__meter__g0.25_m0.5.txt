@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2960 | label: meter | g:0.25 m:0.5 ---
+
+māṃsaṃ gṛdhraḥ paṭaṃ śvitrī cīrī lavaṇahārakaḥ ।
+yathākarma phalaṃ prāpya tiryaktvaṃ kālaparyayāt ।।

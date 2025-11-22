@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 50 | label: meter | g:0.25 m:0.625 ---
+
+kubhūpakūpāntaralambanāptavittāni randhrair ghaṭasaṃnibhānām ।
+asaṃvṛttair indriyanāmadheyaiḥ puṃsāṃ payāṃsīva parisravanti ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4451 | label: meter | g:0.194 m:0.5 ---
+
+so ahaṃ pitāmahaṃ gatvā sarvaprabhavam avyayam 
+tasya vākyasya paryāyaṃ paryāptam iva lakṣaye ।।

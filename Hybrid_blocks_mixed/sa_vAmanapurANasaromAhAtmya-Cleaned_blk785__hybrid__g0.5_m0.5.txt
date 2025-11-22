@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 785 | label: hybrid | g:0.5 m:0.5 ---
+
+teṣāṃ na durlabhaṃ kiñcidiha loke paratra ca ।
+tasmāt prācī sadā sevyā pañcamyāṃ ca viśeṣataḥ ।।

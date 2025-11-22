@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 798 | label: hybrid | g:0.542 m:0.5 ---
+
+atra bheda-kāraṇe suta-snehe saty api sudakṣiṇā-dilīpayo rater aparihāṇena bheda-rahitatvam ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6712 | label: meter | g:0.25 m:0.75 ---
+
+dhanadhānye mahāpatre pāpamūlo atidurgamaḥ ।
+vidhivatsukhaśāntyarthaṃ jāto ajñānamahātaruḥ ।।

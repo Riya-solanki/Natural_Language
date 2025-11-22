@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 414 | label: meter | g:0.194 m:0.5 ---
+
+maitrī tasya balaṃ dhvajāgraśabalaṃ tvācāramātraṃ balaṃ
+nāsau vetti rūṣaṃ na cāha paruṣaṃ samyak ca gāṃ rakṣati ।
+dharmastasya nayo na nītinikṛtiḥ pūjārthamarthaḥ satām
+ityāścaryamayo api durjanadhanaṃ garvaṃ ca nālambate ।।

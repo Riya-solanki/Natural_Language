@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 918 | label: meter | g:0.194 m:0.625 ---
+
+nikṣiptaśastraḥ pṛthivīṃ nirīkṣya pṛthivīpatiḥ 
+prītimān abhavad rājā yayātir aparājitaḥ ।।

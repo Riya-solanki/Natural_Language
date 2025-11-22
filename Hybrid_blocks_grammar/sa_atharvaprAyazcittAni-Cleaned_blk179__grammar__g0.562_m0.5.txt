@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 179 | label: grammar | g:0.562 m:0.5 ---
+
+atha yo ahutvā navaṃ prāśnīyād agnau vāgamayet kā tatra prāyaścittiḥ ।

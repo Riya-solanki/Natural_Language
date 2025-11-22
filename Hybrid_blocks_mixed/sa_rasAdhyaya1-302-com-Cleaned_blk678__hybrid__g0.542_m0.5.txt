@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 678 | label: hybrid | g:0.542 m:0.5 ---
+
+ṣaṣṭidinaiḥ punaḥ sthālīmākṛṣya madhyātsarvaṃ gṛhītvā kharale piṣṭvā cūrṇaṃ kāryam ।।

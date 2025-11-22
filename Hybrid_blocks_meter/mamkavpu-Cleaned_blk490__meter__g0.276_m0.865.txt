@@ -1,0 +1,10 @@
+--- source: mamkavpu-Cleaned.txt | block: 490 | label: meter | g:0.276 m:0.865 ---
+
+{rūpakādiralaṅkārastasyānyairbahudhoditaḥ ।
+na kāntamapi nirbhūṣaṃ vibhāti vanitānanam ।।
+rūpakādimalaṅkāraṃ bāhyamācakṣate pare ।
+supāṃ tiṅāṃ ca vyutpattiṃ vācāṃ vāñchantyalaṅkṛtim ।।
+tadetadāhuḥ sauśabdyaṃ nārthavyutpattirīdṛśī ।
+śabdābhidheyālaṅkārabhedādiṣṭaṃ dvayaṃ tu naḥ ।।}
+iti ।।
+śabdacitraṃ yathā

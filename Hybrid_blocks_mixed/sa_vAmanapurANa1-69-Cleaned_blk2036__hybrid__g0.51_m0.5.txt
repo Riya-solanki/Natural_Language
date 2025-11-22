@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2036 | label: hybrid | g:0.51 m:0.5 ---
+
+devāt sa vavre varamāyudhārthe cakraṃ tathā vai ripubāhuṣaṇḍam ।
+chindyādyathā tvapratimaṃ kareṇa bāṇasya tanme bhagavān dadātu ।।

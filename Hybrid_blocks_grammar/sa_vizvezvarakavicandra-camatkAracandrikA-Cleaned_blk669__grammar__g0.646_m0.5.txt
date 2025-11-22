@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 669 | label: grammar | g:0.646 m:0.5 ---
+
+atra pūrvadikpārthivabhāṇḍāgāratyāgalakṣaṇasya kāryasyotpatteranantaratvāt kāraṇabhūtasya nāyakakhaḍgamokṣasyotpattikathanādiyaṃ viparyasto nāma citrahetuḥ । yuktakāryakārī heturyuktaḥ । tadviparīto henurayuktaḥ ।

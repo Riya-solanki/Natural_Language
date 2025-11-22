@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1910 | label: meter | g:0.194 m:0.625 ---
+
+bījād vṛkṣapraroheṇa yathā nāpacayas taroḥ 
+bhūtānāṃ bhūtasargeṇa naivāsty apacayas tathā ।।

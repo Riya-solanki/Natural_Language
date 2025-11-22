@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6216 | label: meter | g:0.194 m:0.5 ---
+
+yad yat prītikaraṃ puṃsāṃ vastu maitreya jāyate 
+tad eva duḥkhavṛkṣasya bījatvam upagacchati ।।

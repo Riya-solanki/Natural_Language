@@ -1,0 +1,8 @@
+--- source: brssbh1u-Cleaned.txt | block: 210 | label: grammar | g:0.562 m:0.479 ---
+
+asti kauṣītakibrāhmaṇopaniṣadīndrapratardanākhyāyikā- apratardano ha vai daivodāsirindrasya priyaṃ dhāmopajagāma yuddhena ca pauruṣeṇa ca' ityārabhyāmnātā ।
+tasyāṃ śrūyate- asa hovāca praṇo asmi prajñātmā taṃ māmāyuramṛtamityupāḥsva' iti ।
+tathottaratrāpi aatha khalu prāṇa eva prajñātmedaṃ śarīraṃ parigṛhyotthāpayati' iti ।
+tathā ana vācaṃ vijijñāsīta vaktāraṃ vidyāt' ityādi ।
+ante ca asa eṣa prāṇa eva prajñātmānando ajaro amṛtaḥ' ityādi ।
+tatra saṃśayaḥ- kimiha prāṇaśabdena vāyumātramabhidhīyata upa devatātmeti, jīvo athavā paraṃ brahmeti ।

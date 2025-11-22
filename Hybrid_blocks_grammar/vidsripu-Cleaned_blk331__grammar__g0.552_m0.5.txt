@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 331 | label: grammar | g:0.552 m:0.5 ---
+
+durlakṣyā syād damanakavane dhūmadhūmre patantī kārīṣāgneḥ paṭamayagṛhā vāmalīlāṃ tanoti ।
+prādurbhāvaṃ tirayati raver adhvagānām idānīṃ sarvāṅgīṇaṃ diśati palitaṃ lomalagnā himānī ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1340 | label: meter | g:0.306 m:0.5 ---
+
+tato nṛpatinā bāhurdakṣiṇaḥ prasṛtaḥ kataḥ ।
+prasṛtaṃ taṃ bhujaṃ dṛṣṭvā mayā cakreṇa vegataḥ ।।

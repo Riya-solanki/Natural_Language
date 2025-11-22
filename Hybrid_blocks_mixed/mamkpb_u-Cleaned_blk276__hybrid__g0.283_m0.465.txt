@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 276 | label: hybrid | g:0.283 m:0.465 ---
+
+ekasmin samāse bhinne vā samāse samāsāsamāsayorvā nāmnaḥ prātipadikasya na tu padasya sārūpyam ।
+udāharaṇam sitakarakararucitavibhā vibhākarākāra dharaṇidhara kīrtiḥ ।
+pauruṣakamalā kamalā sāpi tavaivāsti nānyasya ।।

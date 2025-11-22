@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1437 | label: grammar | g:0.75 m:0.5 ---
+
+ity upakramya, laṅkā-aho devadāṇaṃ bi sīdāpakkha-bādo । adhavā sabbo guṇesu rajjadi । ṇa sarīresu । ity antena sītā-śuddhi-rūpa-kāryānveṣaṇād virodhaḥ ।

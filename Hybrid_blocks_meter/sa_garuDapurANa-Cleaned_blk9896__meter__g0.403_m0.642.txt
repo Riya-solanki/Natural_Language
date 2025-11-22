@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9896 | label: meter | g:0.403 m:0.642 ---
+
+śrīgaruḍamahāpurāṇam- 
+tārkṣya uvāca ।
+ye martyaloke nivasanti mānavāste sarvajātau nidhanaṃ prayānti ।
+kāle svakīye nijapuṇyasaṃkhyayā vadanti lāka kathasva tanme ।।

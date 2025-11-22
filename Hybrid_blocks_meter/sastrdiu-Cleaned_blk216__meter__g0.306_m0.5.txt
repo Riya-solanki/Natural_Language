@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 216 | label: meter | g:0.306 m:0.5 ---
+
+niṣpadyamānaḥ saṃbandho na tayā saṃvidā śakyate viṣayīkartum, viramyavyāpārāsaṃbhavāt ।
+nahi prathamamarthaṃ prakāśya punaḥsaṃbandhaṃ prakāśayitumarhati kṣaṇikatvāt ।।

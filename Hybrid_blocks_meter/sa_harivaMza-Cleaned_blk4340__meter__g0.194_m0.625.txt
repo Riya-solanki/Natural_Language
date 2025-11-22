@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4340 | label: meter | g:0.194 m:0.625 ---
+
+subhīmāyāḥ suto mādryā vṛkāśvo vṛkanirvṛtiḥ 
+kumāro vṛkadīptiś ca lakṣmaṇāyāḥ prajāḥ śṛṇu ।।

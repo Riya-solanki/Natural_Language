@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 11 | label: meter | g:0.275 m:0.655 ---
+
+athākṣaragrahaṇādiparamparopajāyamānavākyārthajñānārthamadhyayanaṃ vidhīyate ।
+tatastasya vicāramantareṇāsaṃbhavādadhyayanavidhinaivārthādvicāro vihita iti gurugṛha evāvasthāya vicārayitavyo dharmaḥ ।
+tatra- avināpi vidhinā jñānalābhānnahi tadarthatā ।।
+kalpyastu vighisāmarthyātsvargo viśvajidādivat' ।।

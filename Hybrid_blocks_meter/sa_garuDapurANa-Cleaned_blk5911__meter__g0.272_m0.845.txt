@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5911 | label: meter | g:0.272 m:0.845 ---
+
+trinetramugrarūpañca viṣanāgakṣayaṅkaram ।
+grasanaṃ bhīmavaktraṃ ca garuḍaṃ mantravigraham ।।

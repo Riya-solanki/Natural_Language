@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2832 | label: meter | g:0.25 m:0.625 ---
+
+mātāmahāya tatpitre tatpitre ca samāhitaḥ 
+dadyāt paitreṇa tīrthena kāmyaṃ cānyac chṛṇuṣva me ।।

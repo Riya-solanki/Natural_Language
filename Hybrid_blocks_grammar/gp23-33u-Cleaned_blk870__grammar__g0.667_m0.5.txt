@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 870 | label: grammar | g:0.667 m:0.5 ---
+
+[] atha tena sūtena tu tathākṛta-prathe rathe sarva eva vraja-prāṇi-vrajaḥ svairaṃ nivśamānas taṃ deśaṃ praviveśa ।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6263 | label: meter | g:0.194 m:0.625 ---
+
+tāv ubhāv api caivāstāṃ vijigīṣū parasparam 
+keśidhvajena khāṇḍikyaḥ svarājyād avaropitaḥ ।।

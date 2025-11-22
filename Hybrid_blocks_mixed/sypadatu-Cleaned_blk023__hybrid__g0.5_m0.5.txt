@@ -1,0 +1,3 @@
+--- source: sypadatu-Cleaned.txt | block: 23 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tat kamaṃ veśam avatitīrṣus tīrtham idam atikrāman vañcitaḥ syām tathāpi tv āviṣkṛtam asyāḥ sthāṇumitravadane dantanipatanam tan nābhigamanena vrīḍāṃ punaruktīkaromi sarvathā namo asyai sādhayāmy aham eso asmi veśam avatīrṇaḥ aho nu khalu veśasya parā śrīḥ iha hi - etāni pṛthakpṛthaṅniviṣṭāni ruciravapranemisālaharmyaśikharakapotapālīsiṃhakarṇagopānasīvalabhīpuṭāṭṭālakāvalokanapratolīviṭaṅkaprāsādasaṃbādhāny asaṃbādhakakṣyāvibhāgāni bhāge nimitāni sunirmitarucirakhātapūritasiktasuṣiraphūtkṛtotkoṭitaliptalikhitasūkṣmasthūlaviviktarū paśatani baddhāni baddhasaṃdhidvāragavākṣavitardisaṃjavanavīthīnirvyūhakāny

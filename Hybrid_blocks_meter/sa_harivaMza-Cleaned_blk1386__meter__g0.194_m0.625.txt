@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1386 | label: meter | g:0.194 m:0.625 ---
+
+tasmin yajñe mahādāne dakṣiṇāṃ bhṛgunandanaḥ 
+mārīcāya dadau prītaḥ kaśyapāya vasuṃdharām ।।

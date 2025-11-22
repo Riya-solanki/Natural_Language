@@ -1,0 +1,8 @@
+--- source: brsgor3u-Cleaned.txt | block: 12 | label: grammar | g:0.781 m:0.043 ---
+
+apāṃ gatimupetyādbhiḥ saha jīvānāṃ gatimākṣipya samādhatte-athāpītyādinā ।
+dyulokāgnau śraddhāhuteḥ somo rājā saṃbhavatītyuktvā vākyaśeṣe dhūmādimārgeṇa ākāśāccandramasaṃ prāptā iṣṭyādikāriṇa eṣa somo rājetyuktāḥ, ataḥ somarājāśabdasāmānyādiṣṭyādikāriṇāṃ jīvānāṃ śraddhāśabditādbhiḥ saha gatiriha śraddhāhutivākye pratīyata ityarthaḥ ।
+teṣāṃ sūkṣmābhirdravyāpūrvarūpābhiḥ pañcīkṛtābhiradbhiḥ saṃbandhaṃ vadan sahagatiṃ vivṛṇoti-teṣāṃ cāgnihotreti ।
+nidhanaṃ maraṇaṃ tannimittakamantyeṣṭividhānaṃ, asau yajamānaḥ, svargāya gacchatviti mantrārthaḥ ।
+hutadravyarūpāṇāmapāṃ gamane śrutyantaramāha-tathāceti ।
+agnihotraprakaraṇe janakena yājñavalkyaṃ prati anatvevainayoḥ sāyaṃprātarāhutyostvamutkrāntiṃ na gatiṃ na pratiṣṭhāṃ na tṛptiṃ na punarāvṛttiṃ na lokaṃ pratyutthāyinaṃ vettha'iti ṣaṭ praśnāḥ kṛtāsteṣāṃ nirvacanamapi rājñaiva ate vā ete āhutī hute utkrāmataḥ te antarikṣadvārā divaṃ gacchataste divamevāhavanīyaṃ pratiṣṭhāṃ kurvāte divaṃ tarpayataste tataḥ punarāvartete tataḥ pṛthivyāṃ puruṣe yoṣiti ca hute puruṣarūpeṇottiṣṭhataḥ'iti vākyaśeṣeṇa kṛtam ।।

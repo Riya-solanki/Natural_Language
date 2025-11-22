@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 25 | label: hybrid | g:0.194 m:0.474 ---
+
+yattāvanniyojyābhāvādaprayojakatvamadhyayanavirodheriti, tadayuktaṃ, abhāvāsiddheḥ, aśrutasyāpi viśvajitādivatkalpanāt ।
+kāryaṃ hi vidhyarthaḥ, saṃbandhiśabdaścāyaṃ kāryamiti, kasyaciddhi kiñcitkāryaṃ

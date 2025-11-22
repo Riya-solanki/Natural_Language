@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4199 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ kṛṣṇaḥ suparṇena svaṃ niveśanam abhyayāt 
+cacāra ca yathoddeśam īśvarānucaro hariḥ ।।

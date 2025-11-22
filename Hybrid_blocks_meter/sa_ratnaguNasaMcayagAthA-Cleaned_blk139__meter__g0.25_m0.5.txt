@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 139 | label: meter | g:0.25 m:0.5 ---
+
+emeva śraddhasaṃgato ya prasādaprāpto prajñāya pāramita mātra vivarjayanti 
+saṃsārasāgara tadā sada saṃsaranti jātījarāmaraṇaśokataraṃgabhaṅge ।।

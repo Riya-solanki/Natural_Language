@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 30 | label: hybrid | g:0.377 m:0.357 ---
+
+yadi hi viśeṣo gamyeteidaṃ phalasaṃbandhayogyam, idaṃ naiti, tataḥ kiṃcid eva saṃbadhyeta ।
+anavagamyamāne tu sarvāṇi padāni phalenaiva saṃbadhyante ।
+yadi caikaṃ phalasaṃbandhi, itarāṇi tatsaṃbandhīnīti kalpyate, tato vājapeyādhikaraṇanyāyenaikasya phalaṃ praty upādānavidhānaguṇabhāvāt, itarat tu praty uddeśānuvādaprādhānyād vairūpyanimittavākyabhedaprasaṅgaḥ ।
+sarveṣāṃ phalaṃ praty upādīyamānānām aikarūpyāt tantrasaṃbandhopapattiḥ ।

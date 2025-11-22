@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 19 | label: hybrid | g:0.376 m:0.515 ---
+
+sārdhaślokaḥ spaṣṭaḥ ।।
+atra ca jalamadhye mṛttikāpāṣāṇajalāntarasaṃyogāt tathā dugdhopari tarāvac ca ye dṛśyante te kañcukā ucyante ।।
+ye punaḥ kodraveṣu madavadbhavanti te doṣā iti viśeṣaḥ ।।
+athaiteṣāṃ doṣāṇāṃ pratyekaṃ vikārānāha ।।

@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 802 | label: grammar | g:0.75 m:0.5 ---
+
+kiṃ punaridaṃ pratyabhijñānam ? apūrvamajñāsiṣamarthaṃ tamimaṃ jānāmītijñānayoḥ samāne arthe pratisandhijñānaṃ pratyabhijñānam etaccāvasthitāyā buddherupapannam nānātve tu buddhibhedeṣūtpannāpavargiṣu pratyabhijñānānupapattiḥ nānyajñātamanyaḥ pratyabhijānātīti ।।

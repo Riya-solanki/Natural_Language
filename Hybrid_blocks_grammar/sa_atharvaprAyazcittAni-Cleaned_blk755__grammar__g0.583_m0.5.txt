@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 755 | label: grammar | g:0.583 m:0.5 ---
+
+sasomaṃ cec camasaṃ sadasi stotreṇābhyupākuryāthiraṇyagarbhas tad it padam iti dvābhyāṃ juhuyāt ।

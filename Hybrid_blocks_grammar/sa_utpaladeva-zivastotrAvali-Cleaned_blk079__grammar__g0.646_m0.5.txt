@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 79 | label: grammar | g:0.646 m:0.5 ---
+
+jaḍe jagati cidrūpaḥ kila vedye api vedakaḥ vibhur mite ca yenāsi tena sarvottamo bhavān ।।

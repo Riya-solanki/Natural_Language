@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1028 | label: hybrid | g:0.444 m:0.5 ---
+
+śāṃtanoḥ prasavas tv eṣa yatra jāto asi pārthiva 
+bāhlikasya tu rājyaṃ vai saptabāhlyaṃ viśāṃ pate ।।

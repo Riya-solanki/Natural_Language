@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 371 | label: grammar | g:0.583 m:0.5 ---
+
+sattvarajastamasāṃ ca bhedenāvabhāsān na śaktivyapadeśaḥ śaktiśaktimator abhedāt । vastutaḥ śaktivikāso viśvam ।।

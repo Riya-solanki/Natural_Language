@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 602 | label: hybrid | g:0.5 m:0.5 ---
+
+tamāpatantaṃ saha śambareṇa samīkṣya vahniḥ pavanena sārdham ।
+śaktyā mayaṃ śambarametya kaṇṭhe saṃtāḍya jagrāha balānmaharṣe ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 370 | label: grammar | g:0.646 m:0.5 ---
+
+[] tad etan madhukaṇṭhataḥ śrutvā śrīmad-upanandaḥ śrīmad-abhinandaṃ nīcair uvāca-vijñātā kathāṃ prakurvāṇasya kim asya para-hṛdaya-vijñatā ?

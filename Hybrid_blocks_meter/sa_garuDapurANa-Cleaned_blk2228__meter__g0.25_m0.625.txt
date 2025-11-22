@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2228 | label: meter | g:0.25 m:0.625 ---
+
+kokāmukhaṃ ca vārāhaṃ bhā ṇḍīraṃ svāmisaṃjñakam ।
+lo hadaṇḍe mahāviṣṇurmandāre madhusūdanaḥ ।।

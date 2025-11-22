@@ -1,0 +1,6 @@
+--- source: visa01cu-Cleaned.txt | block: 47 | label: grammar | g:0.55 m:0.375 ---
+
+Locanā
+śaktiḥ kavitvabījarūpaḥ saṃskāraviśeṣaḥ yāṃ vinā kāvyaṃ na prasaret, prasṛtaṃ vā upahasanīyaṃ syāt ।
+nāṭyamabhineyaṃ nāṭakādi ।
+kāvyaparīkṣaṇaṃ didarśayiṣuḥ prācīnakāvyalakṣaṇeṣu prameyavirodhaṃ darśayannāhatat kiṃ svarūpamityāha"tadadoṣāviti" taditi kāvyam, doṣāḥ śrutikaṭvādayaḥ, guṇā mādhuryyādayaḥ, kvāpyanalaṅkṛtītyanena sarvatra sālaṅkārau śabdārthau kāvyam, kvacittu sphuṭālaṅkāravirahe api na kāvyatvahāniriti ।

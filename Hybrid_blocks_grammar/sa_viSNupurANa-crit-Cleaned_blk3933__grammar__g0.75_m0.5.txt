@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3933 | label: grammar | g:0.75 m:0.5 ---
+
+snānam eva prasādhanahetuḥ । dānam eva dharmahetuḥ । svīkaraṇam eva vivāhahetuḥ । sadveśadhāry eva pātram । dūrāyatanodakam eva tīrtham । ity evam anekadoṣottare bhūmaṇḍale sarvavarṇeṣv eva yo yo balavān sa sa bhūpatir bhaviṣyati । evaṃ cātilubdhakarabhārāsahāḥ śailānām antaradroṇīḥ prajāḥ saṃśrayiṣyanti । madhuśākamūlaphalapattrapuṣpādyāhārāś ca bhaviṣyanti । taruvalkalacīraprāvaraṇāś cātibahuprajāḥ śītavātātapavarṣasahā bhaviṣyanti । na ca kaścit trayoviṃśativarṣāṇi jīviṣyati anavarataṃ cātra kaliyuge kṣayam āyāty akhila evaiṣa janaḥ kṣayam upaiṣyati ।।

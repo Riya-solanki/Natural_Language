@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3343 | label: meter | g:0.194 m:0.5 ---
+
+dorbhyām ānamya kṛṣṇas tu cāṇūraṃ pūrṇajīvitam 
+prāharan muṣṭinā mūrdhni vakṣasyāhatya jānunā ।।

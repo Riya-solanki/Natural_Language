@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4116 | label: meter | g:0.25 m:0.75 ---
+
+ekādaśabhirudyuktā yuktā duryodhanādayaḥ ।
+āsīdyuddhaṃ saṃkulaṃ ca devāsuraraṇopamam ।।

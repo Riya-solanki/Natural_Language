@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1287 | label: meter | g:0.056 m:0.854 ---
+
+{saundaryasya taraṅgiṇī taruṇimotkarṣasya harṣodgamaḥ
+kānteḥ kārmaṇakarma narmarahasāmullāsanāvāsabhūḥ ।
+vidyā vakragirāṃ vidheranavadhiprāvīṇyasākṣātkriyā
+vāṇāḥ pañcaśilīmukhasya lalanācūḍāmaṇiḥ sā priyā ।।}

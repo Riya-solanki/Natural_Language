@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 78 | label: hybrid | g:0.444 m:0.5 ---
+
+kavayo ye bhuvi khyātās ta evākavayo matāḥ ।
+sukham āyāsyatīty evaṃ suduḥkhaṃ varṇayanty amī ।। [anuṣṭubh]

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3447 | label: meter | g:0.25 m:0.5 ---
+
+vṛto mayāyaṃ prathamaṃ mayāyaṃ gṛhaṃ viśann eva vihanyase kim 
+mayā mayeti kṣitipātmajānāṃ tadartham atyarthakalir babhūva ।।

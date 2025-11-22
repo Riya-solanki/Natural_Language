@@ -1,0 +1,5 @@
+--- source: mrgt3cau-Cleaned.txt | block: 18 | label: meter | g:0.264 m:0.852 ---
+
+pūrṇavratāvadhiḥ samyag vrateśāyārpitavrataḥ ।
+nyastavratāṅgaḥ satpatnī- parigrahavibhūtimān
+bhautikaḥ kāmya ityuktaḥ satsāntānika eva vā ।

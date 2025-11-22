@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 73 | label: meter | g:0.373 m:0.549 ---
+
+karṇe kokilakāminīkalaravaḥ saṃtaptasūcīcayaḥ phullāśokapalāśacampakavanādyuddāmadāvānalaḥ ।
+tanvaṅgyā virahe vasnatasamayaḥ kālaḥ kim anyan nṛṇāṃ dehoccāṭanam eva ṣaṭpadaghaṭāghrāṇātithir manmathaḥ ।।

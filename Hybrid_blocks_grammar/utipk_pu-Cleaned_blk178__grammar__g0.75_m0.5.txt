@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 178 | label: grammar | g:0.75 m:0.5 ---
+
+vikalpe ghaṭādyullekhaś cakṣurādyagocare api pṛthagābhāsād bāhya eva । ahaṃvimarśo hy āntaratvaṃ, idam iti tu bāhyatā । evaṃ ca ghaṭādīnām ubhayī bāhyatā bāhyāntaḥkaraṇadvayīvedyatā, sukhādes tv ekāntaḥkaraṇavedyataiva ।।

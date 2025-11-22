@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 563 | label: grammar | g:0.729 m:0.5 ---
+
+[] tataś ca sahasā parābhāvya-dhiyā bhiyā vinā bhūtā tam aṅkam eva niḥśaṅkam ānītavatī, mūṣika-dhiyā sarpantī sarpī nakulam iva ।

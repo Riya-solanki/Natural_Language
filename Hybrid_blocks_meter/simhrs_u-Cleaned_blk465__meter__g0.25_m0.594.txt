@@ -1,0 +1,11 @@
+--- source: simhrs_u-Cleaned.txt | block: 465 | label: meter | g:0.25 m:0.594 ---
+
+atha sāttvikāḥ-
+anyeṣāṃ sukha-duḥkhādi-bhāveṣu kṛta-bhāvanam । 
+ānukūlyena yac cittaṃ bhāvakānāṃ pravartate ।।
+sattvaṃ tad iti vijñeyaṃ prājñaiḥ sattvodbhavān imān । 
+sāttvikā iti jānanti bharatādi-maharṣayaḥ ।।
+sarveṣām api bhāvānāṃ yaiḥ sva-sattvaṃ hi bhāvyate । 
+te bhāvā bhāva-tattva-jñaiḥ sāttvikā samudīritāḥ ।।
+te stambha-sveda-romāñcāḥ svara-bhedaś ca vepathuḥ । 
+vaivarṇyam aśru-pralayāv ity aṣṭau parikīrtitāḥ ।।

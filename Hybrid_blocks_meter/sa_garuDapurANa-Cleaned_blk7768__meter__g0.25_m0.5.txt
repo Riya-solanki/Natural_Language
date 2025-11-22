@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7768 | label: meter | g:0.25 m:0.5 ---
+
+āyāti tatra dṛśyante nāvikā dhīvarādayaḥ ।
+te vadanti pradattā gauryadi vaitaraṇī tvayā ।
+nāvamenāṃ samāroha sukenottara vai nadīm ।।

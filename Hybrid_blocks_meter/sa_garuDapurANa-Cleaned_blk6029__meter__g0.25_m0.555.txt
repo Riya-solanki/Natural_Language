@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6029 | label: meter | g:0.25 m:0.555 ---
+
+yasya bālasya tilakaḥ kṛto gaurocanākhyayā ।
+śarkarā-kuṣṭhapānañca dattaṃ sa syācca nirbhayaḥ ।
+viṣa-bhūta-grahādibhyo vyādhibhyo bālakaḥ śiva ।।

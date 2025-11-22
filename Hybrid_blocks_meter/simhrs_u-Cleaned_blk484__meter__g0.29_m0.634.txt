@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 484 | label: meter | g:0.29 m:0.634 ---
+
+atha svara-bhedaḥ-
+vaisvaryaṃ sukha-duḥkhādyais tatra syur gadgadādayaḥ ।।

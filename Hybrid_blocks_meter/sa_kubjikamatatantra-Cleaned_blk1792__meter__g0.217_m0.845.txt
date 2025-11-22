@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1792 | label: meter | g:0.217 m:0.845 ---
+
+hastavṛddhir manaḥsiddhir dūrāśravaṇadarśanam 
+vartamānam atītārthaṃ bhaviṣyaṃ ca laghutvatā ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 238 | label: meter | g:0.194 m:0.625 ---
+
+prāptaṃ gṛhṇāti nātodye śaptaṃ kenāpi dasyunā 
+yuktyagamye api sadvākyāt pratītiraupadravā ।।

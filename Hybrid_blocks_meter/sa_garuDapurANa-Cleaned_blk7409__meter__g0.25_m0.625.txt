@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7409 | label: meter | g:0.25 m:0.625 ---
+
+kṛtāvarte mahātaile kvāthyante pāpakarmiṇaḥ ।
+eṣa te vistareṇoktastaptakumbho mayā khaga ।।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1223 | label: meter | g:0.272 m:0.72 ---
+
+śilpam ।।
+mṛdaṅgavādanaṃ śilpamasya mārdaṅgikaḥ ।।

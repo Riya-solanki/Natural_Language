@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 666 | label: meter | g:0.194 m:0.5 ---
+
+bāhyārthād akhilāc cittaṃ tyājayet prathamaṃ naraḥ 
+tasminn eva jagaddhāmni tataḥ kurvīta niścalam ।।

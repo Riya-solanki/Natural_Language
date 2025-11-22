@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1182 | label: hybrid | g:0.387 m:0.517 ---
+
+ayaṃ janas tvatpratibaddhasarvaprayojanāśāvinivṛttaceṣṭaḥ ।
+yad atra kṛtyaṃ kriyatāṃ tad āśu prāṇātyayaḥ saṃprati vartate naḥ ।।

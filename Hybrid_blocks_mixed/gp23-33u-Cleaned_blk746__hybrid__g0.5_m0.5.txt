@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 746 | label: hybrid | g:0.5 m:0.5 ---
+
+[] sātvatāṃ patir api pūrṇa-ṣaḍaiśvarya-sampattir api pitror yuvayor vrajeśitroḥ parama-sukha-śriyaṃ sadā svalālanā-rūpaṃ priyaṃ vidhāsyate । tatrāpy acyuta evāvasthāsyate, yatas tat tato hetor adyāpi satyaṃ śapathaṃ karoti, kurvann eva vartata ity arthaḥ । tad anenaiva nayena bhavatāṃ praṇayarṇaṃ vinayeya, na tu manāg api gamanāgastvena । tathā hi-

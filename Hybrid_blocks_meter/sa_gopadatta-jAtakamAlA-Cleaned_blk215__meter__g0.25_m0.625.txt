@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 215 | label: meter | g:0.25 m:0.625 ---
+
+atha te tadvacaḥ śrutvā saṃvignoddhatamānasāḥ ।
+anukampāmṛtasnigdhaṃ pratyabhāṣanta taṃ punaḥ ।।

@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 199 | label: grammar | g:0.656 m:0.5 ---
+
+atha yaduktaṃ pūrvasminnapi vākye na brahmabhihitamiti, agāyatrī vā idaṃ sarvaṃ bhūtaṃ yadidaṃ kiñca' iti gāyatryākhyasya chandaso abhihitatvāditi, tatparihartavyam ।
+kathaṃ punaśchandobhidhānānna brahmābhihitamiti śakyate vaktuṃ, yāvatā atāvānasya mahimā' ityetasyāmṛci catuṣpādbrahma darśitam ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3321 | label: meter | g:0.306 m:0.5 ---
+
+śriyā devīti nāmnā tāṃ samaṃ daityaiśca rākṣasaiḥ ।
+evaṃ vibhaktāstā nāryastena devena cakriṇā ।।

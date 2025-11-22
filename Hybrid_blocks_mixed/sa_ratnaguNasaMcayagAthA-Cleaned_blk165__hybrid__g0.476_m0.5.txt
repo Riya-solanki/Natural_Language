@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 165 | label: hybrid | g:0.476 m:0.5 ---
+
+nānātvasaṃjñavigatā gira yuktabhāṇī na ca anya te śramaṇa brāhmaṇa āśrayanti 
+triyapāyavarjita vidū sadakāli bhonti daśabhiśca te kuśalakarmapathebhi yuktā ।।

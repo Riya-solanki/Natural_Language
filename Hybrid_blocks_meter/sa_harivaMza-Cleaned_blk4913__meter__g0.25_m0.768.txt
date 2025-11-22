@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4913 | label: meter | g:0.25 m:0.768 ---
+
+prayukte brahmaśirasi sahasrāṃśusamaprabhe 
+ugre paramadurdharṣe lokakṣayakare tadā ।। 
+pradhāvan sarvabhūtāni dahyamānāni sarvataḥ । 
+mahābhūteṣu sarveṣu pradhāvatsu tatastataḥ 
+astratejaḥpramūḍhe tu viṣaṇṇe jagati prabhuḥ । 
+keśavaḥ keśimathanaś cakraṃ jagrāha vīryavān ।।

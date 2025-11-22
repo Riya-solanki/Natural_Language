@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9740 | label: meter | g:0.378 m:0.778 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīviṣṇuruvāca ।
+jalāgnibandhanabhraṣṭā pravrajyānāśakacyutāḥ ।
+aindavābhyāṃ viśudhyanti dattvā dhenuṃ tathā vṛṣam ।।

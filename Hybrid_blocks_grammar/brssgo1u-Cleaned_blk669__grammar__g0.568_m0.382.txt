@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 669 | label: grammar | g:0.568 m:0.382 ---
+
+nanu janmādyasya yataḥ ityatra brahmaprabhavatvaṃ jagato avadhāritaṃ, kathamiha śabdaprabhavatvamucyate ।
+apica yadi nāma vaidikācchabdādasya prabhavo abhyupagataḥ, kathametāvatā virodhaḥ śabde parihṛtaḥ yāvatā vasavo rudrā ādityā viśvedevā maruta ityeter'thā anityā evotpattimattvāt ।
+tadanityatve ca tadvācināṃ vaidikānāṃ vasvādiśabdānāmanityatvaṃ kena nivāryate ।
+prasiddhaṃ hi loke devadattasya putra utpanne yajñadatta iti tasya nāma kriyata iti ।
+tasmādvirodha eva śabda iti cet ।

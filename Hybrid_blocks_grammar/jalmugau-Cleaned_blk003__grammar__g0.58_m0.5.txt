@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 3 | label: grammar | g:0.58 m:0.5 ---
+
+dhyānaṃ yat parameśvaraṃ prati sadā yad vīta-rāgaṃ mano yat karmāikaṭhora-ghora-gahanaṃ bhūtyai yad atyādaraḥ
+āścaryaṃ ca śarīra-dānam api yat kāryaṃ vikāraṃ vinā tad veśyaia tapasvinī kali-yuge loko api tad-bhāvitaḥ ।।

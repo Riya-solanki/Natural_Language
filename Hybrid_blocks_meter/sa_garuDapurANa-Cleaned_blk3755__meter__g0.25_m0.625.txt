@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3755 | label: meter | g:0.25 m:0.625 ---
+
+ayācitādi ṣaṣṭhyādau rājā śatrujayāyā ca ।
+japahomasamāyuktaḥ kanyāṃ vā bhojayetsadā ।।

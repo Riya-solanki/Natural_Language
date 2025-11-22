@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1399 | label: meter | g:0.25 m:0.625 ---
+
+devo apyāśritya tadraudraṃ vrataṃ nāmnā nirāśrayam ।
+vicacāra mahāśailān seruprāgryān mahāmatiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 704 | label: meter | g:0.194 m:0.5 ---
+
+astrāṇi na prayojyāni na praveśyaś ca saṃgaraḥ 
+āśauce vartamānena vṛddhānām iti śāsanam ।।

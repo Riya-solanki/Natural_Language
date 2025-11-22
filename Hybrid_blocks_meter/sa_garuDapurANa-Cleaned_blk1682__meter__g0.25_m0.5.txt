@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1682 | label: meter | g:0.25 m:0.5 ---
+
+ekādaśyā guruśukrau dvādaśyāṃ ca punarbudhaḥ ।
+trayodaśī śukrabhaumau śanau śreṣṭhā caturdaśī ।।

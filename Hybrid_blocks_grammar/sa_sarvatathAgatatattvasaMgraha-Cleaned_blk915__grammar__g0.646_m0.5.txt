@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 915 | label: grammar | g:0.646 m:0.5 ---
+
+atha vajrapāṇiḥ punarapi vajramullālayannājñāpyati । "bho duṣṭasattva śīghraṃ praviśa maṇḍalaṃ, mama ca samaye tiṣṭha!" ।

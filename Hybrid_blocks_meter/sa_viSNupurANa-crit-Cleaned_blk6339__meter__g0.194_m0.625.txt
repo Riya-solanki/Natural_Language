@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6339 | label: meter | g:0.194 m:0.625 ---
+
+mana eva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ 
+bandhasya viṣayāsaṅgi mukter nirviṣayaṃ tathā ।।

@@ -1,0 +1,6 @@
+--- source: mrgt3cau-Cleaned.txt | block: 57 | label: meter | g:0.194 m:0.729 ---
+
+gaṇādhyakṣaṃ guruṃ caiva kārakaṃ ca kriyāśrayam
+pustakaṃ guptasatsūtraṃ vidhāyopari kasyacit ।
+brūyādaṅga paṭhasveti kṛtārthaṃ prāgudaṅmukhaḥ
+prārabheta gururvyākhyāṃ sambandhārthoktipūrvikām ।

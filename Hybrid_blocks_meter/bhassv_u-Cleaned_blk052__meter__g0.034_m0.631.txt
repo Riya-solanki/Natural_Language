@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 52 | label: meter | g:0.034 m:0.631 ---
+
+{ceṭī} - suṭṭhu ayyā bhaṇādi 
+ahaṃ vi aṇuhūdasuhatti pekkhāmi 
+[suṣṭhu āryā bhaṇati । aham apy anubhūtasukheti paśyāmi । ]

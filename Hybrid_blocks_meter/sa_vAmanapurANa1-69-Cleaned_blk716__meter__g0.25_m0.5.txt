@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 716 | label: meter | g:0.25 m:0.5 ---
+
+tāvaccaiva ghaṭīyantre taptakumbhe tataḥ param ।
+prapāto bhavate teṣāṃ yairidaṃ duṣkṛtaṃ kṛtam ।।

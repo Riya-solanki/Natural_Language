@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1070 | label: meter | g:0.25 m:0.5 ---
+
+musalaṃ śātanaṃ gṛhya puṇḍarīkākṣa rakṣa māma ।
+uttarasyāṃ jagannātha bhavantaṃ śaraṇaṃ gataḥ ।।

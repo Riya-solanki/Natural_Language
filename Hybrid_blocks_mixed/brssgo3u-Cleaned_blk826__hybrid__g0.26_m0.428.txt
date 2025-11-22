@@ -1,0 +1,10 @@
+--- source: brssgo3u-Cleaned.txt | block: 826 | label: hybrid | g:0.26 m:0.428 ---
+
+nanūktaṃ yajñādibhirvividiṣantītyatra na vidhirupalabhyata iti ।
+satyamuktaṃ tathāpi tvatpūrvatvātsaṃyogasya vidhiḥ parikalpyate ।
+nahyayaṃ yajñādīnāṃ vividiṣāsaṃyogaḥ pūrvaṃ prāpto yenānūdyeta ।
+atasmātpūṣā prapiṣṭabhāgo adantako hi ityevamādiṣu cāśrutavidhikeṣvapi vākyeṣvapūrvatvādvidhiṃ parikalpya pauṣṇaṃ peṣaṇaṃ vikṛtau pratīyetyādivicāraḥ prathame tantre pravartitaḥ ।
+tathācoktam avidhirvā dhāraṇavat' iti ।
+smṛtirapi bhagavadgītādyāsvanabhisaṃdhāya phalamanutiṣṭhitāni yajñādīni mumukṣorjñānasādhanāni bhavantīti prapañcitam ।
+tasmādyajñādīni śamadamādīni ca yathāśramaṃ sarvāṇyevāśramakarmāṇi vidyotpattāvapekṣitavyāni ।
+tatrāpyevaṃviditi vidyāsaṃyogātpratyāsannāni vidyāsādhanāni śamādīni, vividiṣāsaṃyogāttu brahyatarāṇi yajñādīnīti vivektavyam ।।

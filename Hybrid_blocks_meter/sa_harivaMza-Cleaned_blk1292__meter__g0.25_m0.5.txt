@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1292 | label: meter | g:0.25 m:0.5 ---
+
+śruto me svasya vaṃśasya pūrvajānāṃ ca saṃbhavaḥ 
+śrotum icchāmi viṣṇos tu vṛṣṇīnāṃ ca yathākramam ।।

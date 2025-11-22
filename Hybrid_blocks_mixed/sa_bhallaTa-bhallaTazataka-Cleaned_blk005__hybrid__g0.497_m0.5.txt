@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 5 | label: hybrid | g:0.497 m:0.5 ---
+
+baddhā yad arpaṇaraseṇa vimardapūrvam arthān kathaṃ jhaṭiti tān prakṛtān na dadyuḥ 
+caurā ivātimṛdavo mahatāṃ kavīnām arthāntarāṇy api haṭhād vitaranti śabdāḥ ।।

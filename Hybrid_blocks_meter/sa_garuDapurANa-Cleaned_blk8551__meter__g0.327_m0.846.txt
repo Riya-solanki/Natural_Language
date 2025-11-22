@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8551 | label: meter | g:0.327 m:0.846 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+śravaṇānāṃ vacaḥ śrutvā kṣaṇaṃ dhyātvā punastataḥ ।
+yatkṛtaṃ tu manuṣyaiścapuṇyaṃ pāpamaharniśam ।।

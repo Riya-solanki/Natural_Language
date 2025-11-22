@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11380 | label: hybrid | g:0.51 m:0.5 ---
+
+śuśrāva nityaṃ satpurāṇāni caivaṃ cakre sadā viṣṇupādapraṇāmam ।
+cakre sadā tārakasyāpi viṣṇoḥ pradakṣiṇaṃ smaraṇaṃ kurvatī sā ।।

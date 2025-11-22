@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 934 | label: grammar | g:0.604 m:0.5 ---
+
+kiṃ svarbhānur asau vilimpati jagad dehaprabhāvistarais tīvrāṃśoḥ patataḥ pataty atha karālambāvakṛṣṭaṃ nabhaḥ ।
+kiṃ sāmbhodhikulābalāṃ vasumatīṃ svasmin vidhatte hariḥ saṃkalpān iti māṃsalaṃ vitanute kādambanīlaṃ tamaḥ ।।

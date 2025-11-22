@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5351 | label: meter | g:0.194 m:0.625 ---
+
+ekaikaṃ śastram astraṃ ca devair muktaṃ sahasradhā 
+ciccheda līlayaiveśo jagatāṃ madhusūdanaḥ ।।

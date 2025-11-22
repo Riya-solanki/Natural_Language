@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 766 | label: grammar | g:0.729 m:0.5 ---
+
+SktCh tataśca deva ubhayabalapravṛttasādhukārāmarṣitena śaravarṣaprajvalitena gāṇḍīvinā turageṣu sārathāvapi rathavare dhanuṣyapi jīvāyāmapi narendralāñchane sitātapatre api ca vyāpāritaḥ samaṃ śilīmukhāsāraḥ ।

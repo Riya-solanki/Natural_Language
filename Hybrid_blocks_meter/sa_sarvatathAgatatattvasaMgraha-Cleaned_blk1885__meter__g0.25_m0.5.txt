@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1885 | label: meter | g:0.25 m:0.5 ---
+
+oṃ padmanṛtye nṛtya sarvapūjāpravartanasamaye hūṃ ।।

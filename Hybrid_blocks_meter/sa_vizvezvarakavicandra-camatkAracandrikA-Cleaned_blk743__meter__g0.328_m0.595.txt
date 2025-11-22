@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 743 | label: meter | g:0.328 m:0.595 ---
+
+kathite vā pratīte vā sādṛśye vastunor dvayoḥ ।
+bhedābhidhānaṃ bhedassyādyvatirekaśca saṃsmṛtaḥ ।।

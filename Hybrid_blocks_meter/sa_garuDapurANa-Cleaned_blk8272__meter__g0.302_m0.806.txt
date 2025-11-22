@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8272 | label: meter | g:0.302 m:0.806 ---
+
+sarveṣā meva jantūnāṃ viveko durlabhaḥ paraḥ ।
+ekapādādirūpeṇa dehabhedāstvanekaśaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 3041 | label: meter | g:0.194 m:0.5 ---
+
+kiṃ tu vāmena jaṅghāyā hataṃ bījena kārayet 
+tad bījaṃ param uddiṣṭaṃ sarvajñānāvatārakam ।।

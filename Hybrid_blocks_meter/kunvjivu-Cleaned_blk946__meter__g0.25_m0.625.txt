@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 946 | label: meter | g:0.25 m:0.625 ---
+
+visṛṣṭarāgādadharānnivartitaḥ stanāṅgarāgāruṇitācca kandukāt ।
+kuśāṅkurādānapikṣatāṅguliḥ kṛto akṣasūtrapraṇayī tayā karaḥ ।।

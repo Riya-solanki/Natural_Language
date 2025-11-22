@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9174 | label: meter | g:0.275 m:0.801 ---
+
+śrīviṣṇuruvāca ।
+kathayāmi paraṃ gopyaṃ kośasyāsya vinirṇayam ।
+yasya vijñānamātreṇa sarvajñatvaṃ prajyate ।।

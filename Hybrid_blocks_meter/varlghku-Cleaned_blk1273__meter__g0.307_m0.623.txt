@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1273 | label: meter | g:0.307 m:0.623 ---
+
+tadasya saṃjātaṃ tārakādibhya itac ।।
+tārakāḥ saṃjātā asya tārakitaṃ nabhaḥ । ākṛtigaṇo ayam ।।

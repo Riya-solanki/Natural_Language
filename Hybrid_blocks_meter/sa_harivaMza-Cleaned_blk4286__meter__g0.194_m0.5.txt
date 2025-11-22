@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4286 | label: meter | g:0.194 m:0.5 ---
+
+etena muram ākramya daityaṃ pañcajanaṃ tathā 
+śailasaṃghān atikramya nisundaḥ sagaṇo hataḥ ।।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3563 | label: meter | g:0.25 m:0.555 ---
+
+pauravo veṇudāriś ca vaidarbhaḥ somakas tathā 
+rukmī ca bhojādhipatiḥ sūryākṣaś caiva mālavaḥ ।। 
+pāñcālānām adhipatir drupadānāṃ mahābalaḥ । 
+vindānuvindāv āvantyau dantavaktraś ca vīryavān 
+dakṣiṇaṃ nagaradvāraṃ śīghram ārodhayantv iti । 
+chāgaliḥ purumitraś ca virāṭaś ca mahīpatiḥ ।।

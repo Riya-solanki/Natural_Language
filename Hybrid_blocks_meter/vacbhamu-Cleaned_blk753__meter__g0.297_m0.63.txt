@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 753 | label: meter | g:0.297 m:0.63 ---
+
+prāṇagateśca ।
+prāṇānāṃ jīvaddehe sāśrayatvamavagataṃ gacchati jīvaddehe tadanuvidhāyinaḥ prāṇā api gacchantīti dṛṣṭam ।
+ataḥ ṣāṭkauśikā dehādutkrāmantaḥ kasmiṃścidutkrāmatyutkrāmanti ।
+sa caiṣāmanuvidheyaḥ sūkṣmo deho bhūtendriyamaya iti gamyate ।
+nahīndriyamātrāśrayatvameṣāṃ dṛṣṭaṃ yatastanmātrāśrayāṇāṃ gatirupapadyeteti ।।

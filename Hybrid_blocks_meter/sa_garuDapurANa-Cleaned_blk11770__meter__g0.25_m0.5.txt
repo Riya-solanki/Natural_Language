@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11770 | label: meter | g:0.25 m:0.5 ---
+
+jātā jāṃbavatī nāma vavṛdhe tasya veśmani ।
+tasyāḥ pitā jāṃbavānsa samādātkanyakāṃ tadā ।
+rukmyā anaṃ tarā saiṣā mama bhāryā khageśvara ।।

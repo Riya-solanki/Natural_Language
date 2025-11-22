@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2884 | label: meter | g:0.25 m:0.5 ---
+
+ṣaṇmāsam athavābdaṃ ca dvirabdaṃ trīṇi-m-eva vā 
+catuḥ pañca tathā ṣaṭsu sapta aṣṭa tathāpi vā ।।

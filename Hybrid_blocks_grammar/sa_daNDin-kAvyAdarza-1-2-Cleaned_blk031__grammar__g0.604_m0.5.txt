@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 31 | label: grammar | g:0.604 m:0.5 ---
+
+kavibhāvakṛtaṃ cihnam anyatrāpi na duṣyati mukham iṣṭāsrthasaṃsiddhau kiṃ hi na syāt kṛtātmanām ।।

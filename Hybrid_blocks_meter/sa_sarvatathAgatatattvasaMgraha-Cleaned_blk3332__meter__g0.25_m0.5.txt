@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3332 | label: meter | g:0.25 m:0.5 ---
+
+yāvanto bhāvā vidyante sthāvarā jaṃgamāstathā ।
+teṣāṃ pratibimbāni paśyati khe pradhāvataḥ ।।

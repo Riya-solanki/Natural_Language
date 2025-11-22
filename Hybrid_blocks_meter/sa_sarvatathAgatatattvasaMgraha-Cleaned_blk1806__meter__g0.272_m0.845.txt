@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1806 | label: meter | g:0.272 m:0.845 ---
+
+sarvasatvahitārthāya buddhaśāsanahetutaḥ ।
+sarvakarmāṇi kurvan vaṃ sa bahupuṇyamāpnute ।।

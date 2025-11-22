@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3971 | label: meter | g:0.194 m:0.5 ---
+
+ity ete dharaṇīgītāḥ ślokā maitreya yaiḥ śrutaiḥ 
+mamatvaṃ vilayaṃ yāti tāpanyastaṃ yathā himam ।।

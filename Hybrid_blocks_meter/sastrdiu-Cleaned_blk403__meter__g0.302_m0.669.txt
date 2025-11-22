@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 403 | label: meter | g:0.302 m:0.669 ---
+
+śaknoti kartum ।
+tadbādhe hi svātmāpi na siddhyet tadapekṣatvāt ।।

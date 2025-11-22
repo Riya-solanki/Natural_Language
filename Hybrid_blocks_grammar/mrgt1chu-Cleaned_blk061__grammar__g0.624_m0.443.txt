@@ -1,0 +1,7 @@
+--- source: mrgt1chu-Cleaned.txt | block: 61 | label: grammar | g:0.624 m:0.443 ---
+
+teṣv anantādiṣu mantramaheśvareṣu maṇḍalyādiṣu ca mantreśvareṣv abhivyakto deva idam ity anantaropakrāntaṃ jñānaṃ prakāśayati ।
+kasmin viṣaye kim arthaṃ prakāśayatīty āha yogyeṣu siddhaye paripakvāñjanatvān niratiśayaśreyaḥprepsuṣu bhuktyarthaṃ muktyarthaṃ ca vaktīty arthaḥ ।
+ato anyeṣv iti etacchāstrārhebhyo ye anye aparipakvāñjanatayā paśuśāstrānuvartinas teṣu viṣayeṣu yaḥ kāpilapāñcarātrādi prāpyo arthaḥ samyag iti taduktayogyatānusāreṇopapadyate anuguṇo bhavati taṃ prakāśayati ।
+paśuśāstrapraṇetḥn adhiṣṭhāya tattacchāstraprakāśanam api pāramparyeṇa kuruta iti yāvat ।। 
+athāsya jñānasyāsmabhyam abhidhīyamānasya kim abhidhānam ity āha ।।

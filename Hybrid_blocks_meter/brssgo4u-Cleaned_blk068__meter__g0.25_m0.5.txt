@@ -1,0 +1,3 @@
+--- source: brssgo4u-Cleaned.txt | block: 68 | label: meter | g:0.25 m:0.5 ---
+
+brahmasya śārīrasya cāsanasya smaraṇānniyama ityāha-smaranti ceti ।।

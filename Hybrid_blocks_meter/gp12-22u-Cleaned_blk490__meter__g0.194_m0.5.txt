@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 490 | label: meter | g:0.194 m:0.5 ---
+
+aṅga-hāre taḍil-līlām aṅge meghendutāṃ kramāt ।
+vyañjaṃ vyañjaṃ viviśatuḥ saṅgi-gātṛ-kulācale ।। [anuṣṭubh]

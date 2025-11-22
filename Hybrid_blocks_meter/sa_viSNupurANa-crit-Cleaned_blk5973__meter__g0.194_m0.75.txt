@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5973 | label: meter | g:0.194 m:0.75 ---
+
+striyaḥ kalau bhaviṣyanti svairiṇyo lalitaspṛhāḥ 
+anyāyāvāptavitteṣu puruṣāś ca spṛhālavaḥ ।।

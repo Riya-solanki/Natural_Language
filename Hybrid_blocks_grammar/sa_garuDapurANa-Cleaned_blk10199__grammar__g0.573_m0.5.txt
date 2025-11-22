@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10199 | label: grammar | g:0.573 m:0.5 ---
+
+na vai biḍaujā na ca vā pulomajā na cedhmavāho na yamo na cānyaḥ ।
+na nārado nāpi bhṛgurvasiṣṭho na vighnapo nāpi balyādayaśca ।।

@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 848 | label: hybrid | g:0.369 m:0.477 ---
+
+FN prāṇaviṣayaḥ prāṇotpattisaṃkhyātattvādiviṣayaḥ ।
+ānulomyamāñjasyam ।
+yathā tṛtīyādhyaye caturthapādeṣvapratigraheṣvadhikaraṇapūrvapakṣanyāyo bahusūtravyavahito api somavamane parāmṛśyate tadvadatrāpi jñeyam ।

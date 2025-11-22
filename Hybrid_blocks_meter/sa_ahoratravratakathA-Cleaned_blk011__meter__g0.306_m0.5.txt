@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 11 | label: meter | g:0.306 m:0.5 ---
+
+śrotum icchāmi tat sarvaṃ yad vratānāṃ samuttamam ।
+yasya puṇyaprabhāvena sattvā yānti sunirvṛtim ।।

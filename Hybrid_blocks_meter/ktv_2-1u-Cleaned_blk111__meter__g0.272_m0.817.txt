@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 111 | label: meter | g:0.272 m:0.817 ---
+
+kṛtyānāṃ vidhāyaktvam ।
+ayam eva ca vidhipraiṣayor viśeṣaḥ ।

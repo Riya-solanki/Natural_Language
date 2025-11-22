@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4151 | label: meter | g:0.194 m:1.0 ---
+
+dāvāgnijvalitaprakhyair nirmitair viśvakarmaṇā 
+ālikhadbhir ivākāśam aticandrārkabhāsvaraiḥ ।।

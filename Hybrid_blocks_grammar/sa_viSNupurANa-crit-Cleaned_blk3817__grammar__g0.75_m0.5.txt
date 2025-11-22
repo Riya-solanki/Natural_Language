@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3817 | label: grammar | g:0.75 m:0.5 ---
+
+kukurād dhṛṣṭas tasmāc ca kapotaromā tataś ca vilomā । tasmād api tumburusakhā bhavasaṃjñaś candanodakadundubhiḥ । tataś cābhijit tataḥ punarvasuḥ । tasyāpy āhukaḥ putra āhukī ca kanyā ।।

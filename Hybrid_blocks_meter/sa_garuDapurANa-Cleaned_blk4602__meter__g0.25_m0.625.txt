@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4602 | label: meter | g:0.25 m:0.625 ---
+
+pakvo hi nābhivastistho bhinno antarbahireva vā ।
+pākaścāntaḥ pravṛddhasya kṣīṇasyopadravārditaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1089 | label: meter | g:0.217 m:0.845 ---
+
+ghūrmaṇaṃ svedaromāñca aśrupātāṅgamoṭanam 
+ārādhya smaraṇād evaṃ sampadyante svabhāvadhṛk ।।

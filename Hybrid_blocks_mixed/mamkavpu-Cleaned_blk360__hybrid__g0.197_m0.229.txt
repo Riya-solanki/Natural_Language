@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 360 | label: hybrid | g:0.197 m:0.229 ---
+
+atha jayatīti na tu śobhate ityādi । samāne api hi sthaganavyāpāre lokottareṇaiva vyāpāreṇāsya pidhānamiti
+tadevotkṛṣṭam । yathā vā

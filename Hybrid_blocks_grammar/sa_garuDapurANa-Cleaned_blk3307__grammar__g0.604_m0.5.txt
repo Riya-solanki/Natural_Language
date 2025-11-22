@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3307 | label: grammar | g:0.604 m:0.5 ---
+
+prāptavyamarthaṃ labhate manuṣyo devo api taṃ vārayituṃ na śaktaḥ ।
+ato na śocāmi na vismayo me lalāṭalekhā na punaḥ prayāti (yadasmadīyaṃ na tu tat pareṣām ।।

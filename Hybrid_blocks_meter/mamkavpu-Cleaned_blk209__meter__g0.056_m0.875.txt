@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 209 | label: meter | g:0.056 m:0.875 ---
+
+{grīvābhaṅgābhirāmaṃ muhuranupatati syandane baddhadṛṣṭiḥ
+paścārdhena praviṣṭaḥ śarapatanabhayādbhūyasā pūrvakāyam ।
+darbhairardhāvalīḍhaiḥ śramavivṛtamukhabhraṃśibhiḥ kīrṇavartmā
+paśyodagraplutatvādviyati bahutaraṃ stokamurvyāṃ prayāti ।।}

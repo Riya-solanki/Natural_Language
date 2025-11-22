@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 53 | label: grammar | g:0.59 m:0.375 ---
+
+syādetat ।
+anyasyānyātmatāvibhramo lokasiddhaḥ, ekasya tvabhinnasya bhedabhramo na dṛṣṭa iti kutaḥ cidātmano abhinnānāṃ jīvānāṃ bhedavibhrama ityata āha- ekaścandraḥ sadvitīyavat iti ।

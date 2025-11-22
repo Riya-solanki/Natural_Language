@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1377 | label: meter | g:0.306 m:0.5 ---
+
+adṛṣṭabhaktiṣvapi dharmavatsalā hitaṃ vivakṣanti parānukampinaḥ ।
+ka eva vādaḥ śucibhājanopame hitārthini premaguṇotsuke jane ।।

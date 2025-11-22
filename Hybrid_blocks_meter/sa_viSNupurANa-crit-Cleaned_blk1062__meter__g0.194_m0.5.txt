@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1062 | label: meter | g:0.194 m:0.5 ---
+
+viśvedevās tu viśvāyāḥ sādhyā sādhyān vyajāyata 
+marutvatyā marutvanto vasos tu vasavaḥ smṛtāḥ ।।

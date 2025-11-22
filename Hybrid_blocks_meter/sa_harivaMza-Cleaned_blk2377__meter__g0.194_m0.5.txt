@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2377 | label: meter | g:0.194 m:0.5 ---
+
+gopīnāṃ gargarībhiś ca mūrdhni cottaṃsitair ghaṭaiḥ 
+niṣpapāta vrajāt paṅktis tārāpaṅktir ivāmbarāt ।।

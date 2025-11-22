@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 472 | label: meter | g:0.194 m:0.625 ---
+
+sa tu dvādaśa varṣāṇi dīkṣām tām udvahan balī 
+upāṃśuvratam āsthāya mahat satyavratonṛpa । 
+avidyamāne māṃse tu vasiṣṭhasya mahātmanaḥ 
+sarvakāmaduhāṃ dogdhrīṃ dadarśa sa nṛpātmajaḥ ।।

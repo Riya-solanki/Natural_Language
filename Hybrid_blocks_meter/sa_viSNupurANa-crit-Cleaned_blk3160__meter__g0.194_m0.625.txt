@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3160 | label: meter | g:0.194 m:0.625 ---
+
+kṣīrodasyottaraṃ kūlaṃ gatvātapyanta vai tapaḥ 
+viṣṇor ārādhanārthāya jaguś cemaṃ stavaṃ tadā ।।

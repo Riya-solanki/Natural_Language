@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 163 | label: meter | g:0.25 m:0.768 ---
+
+tathānumānasya prāmāṇyaṃ na syāt, taddhi niyamagrahaṇamapekṣate ।
+na ca gṛhītamarthaṃ mātrayāpyadhikaṃ gṛhṇātīti bhavatāṃ darśanam ।
+pītaśaṅkhajñānamapyanubhūtitvātpramāṇaṃ syāt ।
+iṣṭameveti vadato lokavirodhaḥ ।
+tasmādyathārthamāgṛhītagrāhijñānaṃ pramāṇamiti vaktavyam ।
+dhārāvāhikeṣvapyuttarottareṣāṃ kālāntarasaṃbandhasyāgṛhītasya grahaṇādyuktaṃ prāmāṇyam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2579 | label: meter | g:0.25 m:0.625 ---
+
+ṛtadhvajo api tanvaṅgīṃ dṛṣṭvā citrāṅgadāṃ sthitām ।
+pratyabhijñāya yogātmā babhau muditamānasaḥ ।।

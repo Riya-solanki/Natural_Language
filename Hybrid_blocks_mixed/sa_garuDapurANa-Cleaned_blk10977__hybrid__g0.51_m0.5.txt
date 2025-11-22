@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10977 | label: hybrid | g:0.51 m:0.5 ---
+
+ataḥ kaliḥ sadā duḥ khī sukhī vāyustu sarvadā ।
+manuṣyāṇā mṛṣīṇāṃ ca sukhaṃ duḥ khaṃ khageśvara ।।

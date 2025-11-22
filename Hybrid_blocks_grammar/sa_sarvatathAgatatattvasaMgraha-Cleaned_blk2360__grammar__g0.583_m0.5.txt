@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2360 | label: grammar | g:0.583 m:0.5 ---
+
+tato yathāvarṇaprāptitayā vastramuttarāsaṅgaṃ kṛtvā, tādṛśenaivākṣiṇī badhvā, praveśayedanena hṛdayena oṃ hūṃ maṇirājakulaṃ ।।

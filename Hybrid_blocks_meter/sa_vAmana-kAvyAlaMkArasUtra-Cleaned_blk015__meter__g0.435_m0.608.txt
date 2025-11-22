@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 15 | label: meter | g:0.435 m:0.608 ---
+
+kiṃ punardeśavaśād dravyaguṇotpattiḥ kāvyānāṃ, yenā'yaṃ deśaviśeṣavyapadeśaḥ । naivaṃ, yadāha 
+vidarbhādiṣu dṛṣṭatvāttatsamākhyā ।।
+vidarbhagauḍapāñcāleṣu tatratyaiḥ kavibhiryathāsvarūpamupalabdhatvāt tatsamākhyā । na punardeśaiḥ kiñcidupakriyate kāvyānām ।।

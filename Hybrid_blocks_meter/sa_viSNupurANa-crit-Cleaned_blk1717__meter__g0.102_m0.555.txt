@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1717 | label: meter | g:0.102 m:0.555 ---
+
+śvetaṃ ca haritaṃ caiva jīmūtaṃ rohitaṃ tathā 
+vaidyutaṃ mānasaṃ caiva suprabhaṃ cātiśobhanam 
+saptaitāni tu varṣāṇi cāturvarṇyayutāni vai ।।

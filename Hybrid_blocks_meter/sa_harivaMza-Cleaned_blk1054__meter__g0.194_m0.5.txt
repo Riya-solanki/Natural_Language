@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1054 | label: meter | g:0.194 m:0.5 ---
+
+tena saptasu dvīpeṣu sapta yajñaśatāni vai 
+prāptāni vidhinā rājñā śrūyante janamejaya ।।

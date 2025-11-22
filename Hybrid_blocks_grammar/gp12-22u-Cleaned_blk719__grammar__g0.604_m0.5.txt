@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 719 | label: grammar | g:0.604 m:0.5 ---
+
+[] tataḥ sa tu caturānana-cāturī-cālana-caturaḥ kṛṣṇa-nāmnā madhuraḥ sa-praśrayaṃ papraccha-bhagavan, ko bhavān? iti ।

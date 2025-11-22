@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 174 | label: meter | g:0.056 m:0.521 ---
+
+gopyas tāḥ pratipadya sarva-viṣaya-śreyāṃsam ātma-priyaṃ
+svādhīnaṃ sapadi pratisvam asakṛt tatrātigarvaṃ dadhuḥ ।
+lokaś ced bahu-rāja-rāṣṭra-vasatir jaṅganti bhaṅgaṃ tadā
+tasyāntar-hitatā hiteti kila so' py antardadhe mādhavaḥ ।। [śārdūla]

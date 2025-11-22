@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 376 | label: meter | g:0.272 m:0.845 ---
+
+te tu bhinnāvabhāsārthāḥ prakalpyāḥ pratyagātmanaḥ ।
+tattadvibhinnasaṃjñābhiḥ smṛtyutprekṣādigocare ।।

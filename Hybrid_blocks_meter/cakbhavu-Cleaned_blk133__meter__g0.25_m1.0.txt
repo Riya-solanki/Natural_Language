@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 133 | label: meter | g:0.25 m:1.0 ---
+
+Q sarvasaṃvinnadībhedābhinnaviśrāmabhūmaye ।
+Q namaḥ pramātṛvapuṣe śivacaitanyasindhave ।।

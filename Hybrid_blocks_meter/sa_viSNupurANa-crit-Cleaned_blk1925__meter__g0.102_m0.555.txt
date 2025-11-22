@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1925 | label: meter | g:0.102 m:0.555 ---
+
+akṣapramāṇam ubhayoḥ pramāṇaṃ tadyugārdhayoḥ 
+hrasvo akṣas tadyugārdhaṃ ca dhruvādhāro rathasya vai 
+dvitīye akṣe tu tac cakraṃ saṃsthitaṃ mānasācale ।।

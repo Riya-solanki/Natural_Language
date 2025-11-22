@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 344 | label: grammar | g:0.562 m:0.5 ---
+
+ghaṃ ḍhaṃ bhaṃ haṃ bhavecchrīśca gaṃ jaṃ vaṃ śaṃ ca puṣṭikā ।
+ghaṃ vaṃ ca vanamālā syācchrī vatsaṃ daṃ saṃ bhavet ।।

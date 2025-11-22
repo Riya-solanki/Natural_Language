@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 386 | label: meter | g:0.334 m:0.645 ---
+
+kramasambandhaprasaṅgena dīpakaṃ darśayitumāha 
+upamānopameyavākyeṣvekā kriyā dīpakam ।।upamānavākyepūpameyavācyeṣu caikā kriyā anupaṅgataḥ sambandhyamānā dīpakam ।।
+tantrividham । ādimadhyāntavākyavṛttibhedāt ।।

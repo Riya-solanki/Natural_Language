@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 60 | label: grammar | g:0.535 m:0.375 ---
+
+atra ko asau munirvālmīkiriti paryāyapadamātre vaktavye paramakāruṇikasya niṣādanirbhinnaśakunisaṃdarśanamātralasamutthitaḥ śokaḥ ślokatvamabhajata yasyeti tasya tadavasthajanakarājaputrīdaśādarśana vivaśavṛtterantaḥ karaṇaparispandaḥ karuṇarasaparipoṣāṅgatayā sahṛdayahṛdayāhlādakārī kaverabhipretaḥ ।
+yathā ca

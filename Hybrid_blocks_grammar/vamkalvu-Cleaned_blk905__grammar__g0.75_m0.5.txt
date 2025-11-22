@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 905 | label: grammar | g:0.75 m:0.5 ---
+
+sambandhena sanbandhaḥ sambandhasambandhastasmin ṣaṣṭhī prayojyā kvacit, na sarvatreti । yathā kamalasya kandaḥ iti । kamalena saṃbaddhā kamalinī tasyā kandaḥ iti sambandhaḥ । tena kadalīkāṇḍādayo vyākhyātāḥ ।।

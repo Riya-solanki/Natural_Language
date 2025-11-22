@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 206 | label: grammar | g:0.583 m:0.5 ---
+
+evaṃ brahmādayo devā ṛṣayaś ca tapodhanāḥ kīrtayanti suraśreṣṭhaṃ devaṃ nārāyaṇaṃ prabhum ।।

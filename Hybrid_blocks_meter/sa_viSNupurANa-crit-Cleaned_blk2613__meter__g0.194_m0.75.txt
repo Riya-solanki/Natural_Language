@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2613 | label: meter | g:0.194 m:0.75 ---
+
+ādyaṃ sarvapurāṇānāṃ purāṇaṃ brāhmam ucyate 
+aṣṭādaśa purāṇāni purāṇajñāḥ pracakṣate ।।

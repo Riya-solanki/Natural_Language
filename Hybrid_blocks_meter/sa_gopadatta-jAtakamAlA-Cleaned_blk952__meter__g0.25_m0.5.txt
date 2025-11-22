@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 952 | label: meter | g:0.25 m:0.5 ---
+
+saṃmūrchitaḥ kusumahāsiṣu mallikānāṃ gulmeṣu vārikaṇakaṇṭakito nabhasvān ।
+saṃtāpayaty anupaśāntavikalparāgaṃ ceto narasya sutarām aparīkṣakasya ।।

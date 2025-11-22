@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1580 | label: meter | g:0.25 m:0.625 ---
+
+ketumālā tāmraparṇo candrabhāgā sarasvatī ।
+ṛṣikulyā ca kāverī mattagaṅgā payasvinī ।।

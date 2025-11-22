@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6127 | label: meter | g:0.25 m:0.5 ---
+
+apām api guṇo yas tu jyotiṣā pīyate tu saḥ 
+naśyanty āpas tatas tāś ca rasatanmātrasaṃkṣayāt ।।

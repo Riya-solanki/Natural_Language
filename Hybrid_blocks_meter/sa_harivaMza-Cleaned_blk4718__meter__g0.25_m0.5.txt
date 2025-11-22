@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4718 | label: meter | g:0.25 m:0.5 ---
+
+mā bhaiṣṭa mā bhaiṣṭa iti rājñā te tena coditāḥ 
+trāsaṃ visṛjya caikasthā yudhyadhvaṃ dānavarṣabhāḥ ।। 
+tān uvāca punar bāṇo bhayavitrastalocanān । 
+kim idaṃ lokavikhyātaṃ yaśa utsṛjya dūrataḥ 
+bhavanto yānti vaiklavyaṃ klībā iva vicetasaḥ ।।

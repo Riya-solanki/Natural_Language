@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 610 | label: meter | g:0.194 m:1.0 ---
+
+haritatanuṣu babhrutvagvimuktāsu yāsāṃ
+kanakakaṇasadharmā mānmatho romabhedaḥ ।

@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 1135 | label: meter | g:0.25 m:0.583 ---
+
+[] madhukaṇṭhaḥ sa-smitam uvāca-na kim api, kintu tatra stuti-samaye tāvat ।
+govindaḥ smitam atanot stuvānam enam
+dṛṣṭvā yat kim api dadarśa tatra citram ।
+ekasmin vadati caturmukhe hi tasmiṃś
+catvāro dadhati rutīr iti bhramaḥ syāt ।। [praharṣiṇī]

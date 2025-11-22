@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 905 | label: meter | g:0.25 m:0.5 ---
+
+{candraṃ gatā padmaguṇānna bhuṅkte padmāśritā cāndramasīmabhikhyām ।
+umāmukhaṃ tu pratipadya lolā dvisaṃśrayāṃ prītimavāpa lakṣmīḥ ।।}

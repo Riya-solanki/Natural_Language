@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 119 | label: meter | g:0.056 m:0.75 ---
+
+premā kāmati tat-kriyā kalahati stambhādi-bhāvāvalī
+sakhyāṃ sañcarati śrutaṃ ca caritaṃ sarva-śrutaṃ laṅghati ।
+itthaṃ keli-kalā-kalāpa-kalitaṃ vṛndāvanāntar-vane
+dampatyor nikhilaṃ vicāra-padavīm uddhūya vibhrājate ।। [śārdūla]

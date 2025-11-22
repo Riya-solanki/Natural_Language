@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1483 | label: meter | g:0.194 m:0.5 ---
+
+tvaṣṭā tv aṣṭādaśahayaṃ yānam āsthāya dānavaḥ 
+vyūhito dānavair vyūhaiḥ paricakrāma vīryavān ।।

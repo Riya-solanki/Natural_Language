@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3555 | label: meter | g:0.25 m:0.5 ---
+
+rāgo vikalpasaṃbhūtaḥ sa ca padme pratiṣṭhitaḥ ।
+tatastu kalpasthāyinyaḥ siddhayaḥ saṃbhavanti hi ।।

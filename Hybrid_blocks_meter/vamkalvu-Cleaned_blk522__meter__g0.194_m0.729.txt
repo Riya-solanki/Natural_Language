@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 522 | label: meter | g:0.194 m:0.729 ---
+
+rasavadamṛtaṃ, kaḥ sandeho madhūnyapi nānyathā
+madhuramadhikaṃ cūtasyāpi prasannarasaṃ phalam ।
+sakṛdapi punarmadhyasthaḥ san rasāntaravijjano
+vadatu yadihānyat svādu syāt priyādaśanacchadāt ।।

@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 166 | label: meter | g:0.25 m:0.555 ---
+
+paramārthataḥ parameśvarasyāśarīratvāc chaktireva dehakāryaṃ kurvatī dehākhyayoktā ।। 
+tasyāścaikasyā api kṛtyabhedād vāmādibhedabhinnatvam ।। 
+yathā vahniśakter dāhyaprakāśyārthaviṣaye dāhaprakāśaprakaraṇād gauṇam anekatvaṃ vastuta ekatvāt tasyāḥ ।।

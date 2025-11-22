@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 747 | label: meter | g:0.194 m:0.5 ---
+
+pūrvajātiṣu yad brahma śrutaṃ gurukuleṣu vai 
+tathaiva tatsthitaṃ brahma saṃsāreṣv api vartatām ।।

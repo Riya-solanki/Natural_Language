@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1329 | label: grammar | g:0.523 m:0.256 ---
+
+ahaṃ krodhaś ca kāmaś ca varuṇo vāsavo yamaḥ 
+dhanadaś ca dhanādhyakṣo yakṣaḥ kiṃpuruṣādhipaḥ ।। 
+evam uktas tu daityena svayaṃbhur bhagavāṃs tadā । uvāca daityarājaṃ taṃ prahasan nṛpasattama । na divā na ca rātrau vā na me mṛtyur bhaviṣyati । 
+ete divyā varās tāta mayā dattās tavādbhutāḥ 
+sarvān kāmān imāṃs tāta prāpsyasi tvaṃ na saṃśayaḥ ।।

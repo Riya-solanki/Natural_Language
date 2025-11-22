@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 15 | label: meter | g:0.194 m:0.5 ---
+
+nanu svalakṣaṇābhāsaṃ jñānam ekaṃ paraṃ punaḥ 
+sābhilāpaṃ vikalpākhyaṃ bahudhā nāpi tad dvayam ।।

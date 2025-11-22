@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 513 | label: meter | g:0.446 m:0.551 ---
+
+yat asatyaṃ jñānam'ityādinā mantravarṇena brahmoktaṃ tadevopāyabhūtena brāhmaṇena svapradhānyena gīyate-'brahma pucchaṃpratiṣṭhā'iti ।
+avayavavacanatve tvasya mantre prādhānyaṃ, brāhmaṇe tvaprādhānyamityupāyopeyayormantrabrāhmaṇayorvipratipattiḥ syāditi ।
+netaro anupapatteḥ ।।

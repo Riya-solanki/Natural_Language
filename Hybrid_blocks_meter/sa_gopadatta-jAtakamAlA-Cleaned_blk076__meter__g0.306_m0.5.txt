@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 76 | label: meter | g:0.306 m:0.5 ---
+
+vipariṇāmakaṭūni mayā purā viṣayasaṅgasukhāny akṛtātmanām ।
+samupaguhya kṛtaṃ bahu duṣkṛtaṃ dahati yan mama saṃprati mānasam ।।

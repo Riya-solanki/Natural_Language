@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 359 | label: hybrid | g:0.521 m:0.5 ---
+
+atra viśiṣṭa-vastu-nirmāṇam apuṇya-kṛtāṃ na bhavatīti loka-sthity-anurodhenaiva varṇanāt kāntiḥ ।

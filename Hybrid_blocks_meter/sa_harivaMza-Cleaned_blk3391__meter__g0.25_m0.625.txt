@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3391 | label: meter | g:0.25 m:0.625 ---
+
+idaṃ te satataṃ saumya hṛdyaniḥśvāsamārutam 
+dahaty arko mukhaṃ kāntaṃ nistoyam iva paṅkajam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2784 | label: meter | g:0.194 m:0.5 ---
+
+āha tvā bhagavān brahmā gāvaś cākāśagā divi 
+karmabhis toṣitā divyais tava saṃrakṣaṇādibhiḥ ।।

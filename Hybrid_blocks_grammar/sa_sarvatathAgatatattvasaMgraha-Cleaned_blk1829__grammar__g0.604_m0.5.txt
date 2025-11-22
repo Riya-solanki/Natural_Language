@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1829 | label: grammar | g:0.604 m:0.5 ---
+
+adhyeṣayāma tvāṃ vīra prakāśaya mahāmune । svakaṃ tu kulamutpādya dharmamaṇḍalamuttamam ।। iti ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4755 | label: meter | g:0.194 m:0.5 ---
+
+āsthāya tāmasīṃ vidyāṃ tadā kruddho baleḥ sutaḥ 
+mumoca viśikhāṃs tīkṣṇāṃś channo māyādharo balī ।।

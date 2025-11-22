@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2027 | label: meter | g:0.259 m:0.914 ---
+
+jvalitāgnipratīkāśo bālārkasadṛśekṣaṇaḥ 
+savyāpavṛttaṃ vipulaṃ jaṭāmaṇḍalam udvahan ।।

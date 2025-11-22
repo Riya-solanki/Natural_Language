@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2013 | label: meter | g:0.328 m:0.595 ---
+
+guṇairanekairiti viśrutāni prāptānyahaṃ prābhṛtavacchrutāni ।
+śaktaḥ kathaṃ nāma na pūjayamājñāṃ kathaṃ vā tava laṅghayeyam ।।

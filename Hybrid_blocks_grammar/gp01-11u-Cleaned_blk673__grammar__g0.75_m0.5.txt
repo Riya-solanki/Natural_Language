@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 673 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam ākarṇya joṣaṃ juṣamāṇe tu vraja-rāje, muniḥ punar uvāca-"vraja-rāja, bhavad-icchayā vayam evāgamya cāgamya cānayor dvijāti-saṃskārān kariṣyāmaḥ, kintu karṇa-vedha-cuḍā-karaṇe na sambhavataḥ । paśya cābhyarṇataḥ sukṣmatayā karṇa-cchidram asti, keśa-lavasyāpi lavaḥ sphuṭaṃ na sambhavatīti, tataś cānna-prāśana-mātraṃ bhavadbhir ācaryam । sāvitra-samāvartana-vivāha-vṛttaṃ tu na svayam udyama-pātraṃ kāryaṃ, kintu samaya-jñair asamaya-jñair asmābhir eva" iti ।

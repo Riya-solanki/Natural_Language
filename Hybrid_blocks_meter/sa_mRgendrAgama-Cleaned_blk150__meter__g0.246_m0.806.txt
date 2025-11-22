@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 150 | label: meter | g:0.246 m:0.806 ---
+
+yeṣāṃ ciddharmakāddhetor acidapyupajāyate 
+teṣāṃ dhūmena liṅgena jalaṃ kiṃ nānumīyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 800 | label: meter | g:0.194 m:0.625 ---
+
+samāhito nirāhāraḥ ṣaḍrātreṇa mahāyaśāḥ 
+dadarśa darśane rājā devaṃ nārāyaṇaṃ harim ।।

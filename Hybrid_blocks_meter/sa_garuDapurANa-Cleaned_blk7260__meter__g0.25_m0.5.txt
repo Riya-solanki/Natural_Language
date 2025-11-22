@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7260 | label: meter | g:0.25 m:0.5 ---
+
+bhīto ahaṃ pāpinastasmāttanme vada jagatprabho ।
+anyacca śṛṇu viśvātmanmayā kautukinā rayāt ।।

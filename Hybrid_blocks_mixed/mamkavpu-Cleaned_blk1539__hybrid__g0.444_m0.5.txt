@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1539 | label: hybrid | g:0.444 m:0.5 ---
+
+{bhaktirbhave na vibhave vyasanaṃ śāstre na yuvatikāmāstre ।
+cintā yaśasi na vapuṣi prāyaḥ paridṛśyate mahatām ।।}

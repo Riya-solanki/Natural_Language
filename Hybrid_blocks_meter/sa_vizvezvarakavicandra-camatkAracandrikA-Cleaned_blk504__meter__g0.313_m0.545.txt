@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 504 | label: meter | g:0.313 m:0.545 ---
+
+saṃbhogaśṛṅgāro yathā
+avyājaspṛhaṇīyamañcati parāṃ kāntiṃ sakhīnāṃ puraḥ śrīsiṅgabhitināyakena sutanoraṅgaṃ samāliṅgitam ।
+svājñānirvahaṇena nirvṛtamanāstatkālamīladdṛśe yasmai puṣpaśarāsanaḥ svasukṛtaiḥ kalyāṇamāśaṃsate ।।

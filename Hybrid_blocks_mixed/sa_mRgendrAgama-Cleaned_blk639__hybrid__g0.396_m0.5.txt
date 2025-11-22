@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 639 | label: hybrid | g:0.396 m:0.5 ---
+
+tripadārthaṃ catuṣpādaṃ mahātantraṃ jagatpatiḥ। sūtreṇaikena saṃgṛhya prāha vistaraśaḥ punaḥ।। iti।quote{tripadārthaṃ catuṣpādaṃdevdot prāha vistaraśaḥ punaḥ{rmmrgvp }}

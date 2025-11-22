@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9737 | label: meter | g:0.306 m:0.625 ---
+
+pratigrahādhyāpanayājaneṣu pratigrahaṃ sveṣṭatamaṃ vadanti ।
+pratigrahācchrudhyati jāpyahomaṃ na yājanaṃ karma punanti vedāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10856 | label: meter | g:0.306 m:0.5 ---
+
+vakṣye ha sārānpunaranyānkhagendra śṛṇuṣva guhyaṃ paramādareṇa ।
+drākṣādayaḥ sarva eva tvasārāḥ kālādiduṣṭā bhāvaduṣṭāḥ padārthāḥ ।।

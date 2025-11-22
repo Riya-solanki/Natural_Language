@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 556 | label: meter | g:0.194 m:1.0 ---
+
+na te mantraprayoktāraḥ punarbhavatayā matāḥ 
+mantrasādhanasaṃsiddheḥ kuryāttānītarāṇyataḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8252 | label: meter | g:0.311 m:0.867 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+mānuṣatvaṃ labhetkasmānmṛtyumāpnoti tatkatham ।
+mriyate kaḥ suraśreṣṭha dehamāśritya kutracit ।।

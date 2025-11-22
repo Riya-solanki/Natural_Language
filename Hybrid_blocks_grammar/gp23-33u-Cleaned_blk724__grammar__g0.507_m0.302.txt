@@ -1,0 +1,10 @@
+--- source: gp23-33u-Cleaned.txt | block: 724 | label: grammar | g:0.507 m:0.302 ---
+
+[] tatra ca ślokaḥ khalv ayam-
+bhīmasyāhaṃ tulya-saṃvid-gadāyā
+dvandvāghāte mādhavaṃ māgadhābham ।
+jitvā rājyaṃ māthuraṃ sādhayiṣyāmy
+evaṃ naṅkṣaty eṣa ko dantavakraḥ ।।
+tataś ca-
+dantavakra-citā-vahni-prāye krodhe tava svayam ।
+vidūrathaś ca bhavitā dūrataḥ krūra-kīṭavat ।।[] tad evaṃ dantavakraṃ vidūratham api vidūratas tadā gadā-cakra-ghātaṃ ghātayitvā sva-vacana-satyaṅkāraḥ svajana-hṛd-rujām agadaṅkāraḥ svīya-mukhānām astuṅkāraḥ śrīmad-vraja-virājamāna-rāja-kumāraḥ svaka-vraja-kulam eva bhavān mathurā-bhavān anuyokṣyate । tat tu sarvaṃ pragāḍha-bhāvam avagāḍhaṃ kurukṣetrād āgater arvāg-bhavad-āgamana-maryādābhyantarīṇa-kālaṃ kālam iva cālayituṃ punar api sudināyamānatāṃ pratipālayituṃ samprati yamunā-pārīṇaṃ jātam ity avakalayyānukāmīnena nija-divya-vimānena samuttīrya diviṣadbhiḥ kusumair avakīryamāṇaḥ sahasā tad-vāsaṃ cāsat tu mud yokṣyate ।

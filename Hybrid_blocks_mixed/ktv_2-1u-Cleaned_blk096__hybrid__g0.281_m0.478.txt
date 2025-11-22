@@ -1,0 +1,8 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 96 | label: hybrid | g:0.281 m:0.478 ---
+
+yat tv astyādiparaḥ pratyayo api bhāvanāṃ jahātīti tulyaṃ dhātusamudāyapakṣayor apy etat ।
+sarvathā yatra pratīyate, tatra tāvat pratyayārthatvaṃ niścīyate ।
+anyatra tv ayaṃ vicāra eva nāsti ।
+kvacid vyabhicārasya cottaram uktaṃ tadbhūtādhikaraṇe ।
+atha vā naivātrāpi vyabhicāraḥ ।
+kutaḥ ।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 162 | label: meter | g:0.056 m:0.625 ---
+
+saṅgāne ced bhajati murajid-bhakta-mātraṃ vimohaṃ
+śarmāśarmāpy anumiti-miyān tarhi na prekṣakāṇām ।
+śāntir dāsyaṃ sahacara-daśā vatsalatvaṃ tathānyad
+gacched eṣāṃ hṛdi katham iha kṣīra-vār-vad vivekam ।। [mandākrāntā]

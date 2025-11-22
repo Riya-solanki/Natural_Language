@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2455 | label: meter | g:0.194 m:0.625 ---
+
+ādhipatyam ivānyeṣāṃ tasya deśasya śākhinām 
+kurvāṇaṃ śubhakarmāṇaṃ tiro varṣantam avyayam ।।

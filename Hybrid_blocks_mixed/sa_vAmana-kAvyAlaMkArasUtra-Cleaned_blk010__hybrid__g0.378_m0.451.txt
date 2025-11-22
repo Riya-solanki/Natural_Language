@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 10 | label: hybrid | g:0.378 m:0.451 ---
+
+।।
+iti śrīpaṇḍitavaravāmanaviracitakāvyālaṅkārasūtravṛttau śarīre prathame'dhikaraṇe prathamo'dhyāyaḥ iti prayojanasthāpanā ।।
+atha pratame'dhikaraṇe dvitīyo'dhyāyaḥ ।

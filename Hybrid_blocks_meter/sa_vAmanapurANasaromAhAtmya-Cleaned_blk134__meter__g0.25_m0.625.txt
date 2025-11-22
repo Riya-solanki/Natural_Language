@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 134 | label: meter | g:0.25 m:0.625 ---
+
+gīyate sarvavedeṣu vedavidbhirvidāṃ gatiḥ ।
+yastasmai vedavedyāya nityāya viṣṇave namaḥ ।।

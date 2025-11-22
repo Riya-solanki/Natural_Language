@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3557 | label: grammar | g:0.583 m:0.5 ---
+
+taṃ mṛgauḥ pikṣikṣiścaiva hīnaṃ dṛṣṭvā śamītarum । śrāntaḥ kṣuttṛṭparītātmā tasyādhaḥ samupāviśat ।।

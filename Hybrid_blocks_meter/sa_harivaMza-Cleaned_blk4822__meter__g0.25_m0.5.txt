@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4822 | label: meter | g:0.25 m:0.5 ---
+
+kim evaṃ cintayāviṣṭā niḥsaṅgaṃ tamasāvṛtāḥ 
+utsāhanāśāt sarve vai klībā iva vicetasaḥ ।। 
+atīte divase vīre yādavā adbhutaṃ mahat । 
+evam ukte tu vacane nāradena mahātmanā 
+vāsudevo abravīd vākyaṃ śrūyatāṃ bhagavann idam ।।

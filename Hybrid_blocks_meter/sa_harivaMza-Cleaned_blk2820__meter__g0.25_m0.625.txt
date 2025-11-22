@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2820 | label: meter | g:0.25 m:0.625 ---
+
+tasyāstracaritaṃ mārgaṃ dhanuṣo lāghavena ca 
+nānuyāsyanti rājāno devā vā tvāṃ vinā prabho ।।

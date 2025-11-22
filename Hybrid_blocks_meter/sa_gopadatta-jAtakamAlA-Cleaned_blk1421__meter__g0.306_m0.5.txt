@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1421 | label: meter | g:0.306 m:0.5 ---
+
+lokān imān svakṛtakarmabhujo viditvā mṛtyor aparvaparuṣasya karodarasthān ।
+pāpāny asahyaparitāpaphalodayāni prāṇātyaye api parivarjayituṃ yatadhvam ।।

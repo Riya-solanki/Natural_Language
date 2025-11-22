@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 795 | label: meter | g:0.25 m:0.94 ---
+
+sugdher'dhasaṃpattiḥ pariśeṣāt ।
+viśeṣavijñānābhāvānmūrcchā jāgarasvapnāvasthābhyāṃ bhidyate punarutthānācca maraṇāvasthāyāḥ ।
+ataḥ suṣuptireva mūrcchā viśeṣajñānābhāvāviśeṣāt ।
+cirānucchvāsavepathuprabhṛtayastu supteravāntaraprabhedāḥ ।

@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1510 | label: meter | g:0.0 m:0.75 ---
+
+paurogavas tadadhyakṣaḥ sūpakārās tu ballavāḥ

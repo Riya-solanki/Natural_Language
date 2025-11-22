@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 406 | label: meter | g:0.194 m:0.5 ---
+
+teṣāṃ vikukṣir jyeṣṭhas tu vikukṣitvād ayodhatām 
+prāptaḥ paramadharmajña so ayodhyādhipatiḥ prabhuḥ ।।

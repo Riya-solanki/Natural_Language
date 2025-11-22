@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 398 | label: meter | g:0.25 m:0.667 ---
+
+etenāvayavidravyaṃ pratyūḍham, tasyāpyavayavabhedādivikalpākṣamatvāt ।
+sthūlāvabhāsastu saṃcitānekarūpādiparamāṇuvaśādeva keśoṇḍrkāvabhāsavadupapanno nāvayavikalpanāyālam ।
+tadabhāve ca nirādhāratvāddūrāpāstaṃ gotvādisāmānyam ।।
+kathamasatyekarūpe sāmānye atyantavilakṣaṇāni svalakṣaṇānyavilakṣaṇarūpaṃ vikalpaṃ janayanti ।
+janayanti cet kimiti kānicideva govikalpaṃ janayanti kānicidevāśvavikalpam, narvāṇi sarvam ।।

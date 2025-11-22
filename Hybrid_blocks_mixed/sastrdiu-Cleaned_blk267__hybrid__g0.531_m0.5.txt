@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 267 | label: hybrid | g:0.531 m:0.5 ---
+
+tathā bādhako nāma hetvābhāso yo viruddha iti tārkikairabhidhīyate ।
+saca ṣaḍvidhi iti kecit, dharmadharmyubhayeṣāṃ svarūpasya viśeṣasya ca bādhāt ।

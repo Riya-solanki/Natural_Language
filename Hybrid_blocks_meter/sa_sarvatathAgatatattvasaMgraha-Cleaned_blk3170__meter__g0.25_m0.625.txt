@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3170 | label: meter | g:0.25 m:0.625 ---
+
+surataśramakhinnastu tatsaukhyaṃ suratodbhavaṃ ।
+catuḥpraṇāme pūjāyāṃ niryātya laghu sidhyatī- ।।

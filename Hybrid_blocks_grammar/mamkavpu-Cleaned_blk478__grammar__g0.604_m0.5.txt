@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 478 | label: grammar | g:0.604 m:0.5 ---
+
+tatra {attā ettha} ityādau niyatasaṃbandhaḥ {kasya va ṇa ho-i roso} ityādau, aniyatasaṃbandhaḥ ।

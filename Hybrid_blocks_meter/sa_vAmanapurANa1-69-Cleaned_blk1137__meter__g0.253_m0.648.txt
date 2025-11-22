@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1137 | label: meter | g:0.253 m:0.648 ---
+
+pulastya uvāca ।
+purā hi vindhyena divākarasya gatirniruddhā gaganecarasya ।
+ravistataḥ kumabhabhavaṃ sametya homāvasāne vacanaṃ babhāṣe ।।

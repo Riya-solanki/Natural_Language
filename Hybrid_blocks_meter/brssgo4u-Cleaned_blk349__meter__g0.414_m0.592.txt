@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 349 | label: meter | g:0.414 m:0.592 ---
+
+kāryagocaramiti ।
+kāryaṃ jyotiḥprāptamityarthaḥ ।
+kāryaṃ prāpto api muktaḥ kiṃ na syādityata āha-na cānativṛtta iti ।।

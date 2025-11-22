@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 20 | label: meter | g:0.25 m:0.5 ---
+
+yadyapi ciram antardhā jātā śrī-gokula-sthānām ।
+tadapi mahātmasu teṣāṃ vyūha-samūhaḥ puraḥ sphuran jayati ।। [udgīti]

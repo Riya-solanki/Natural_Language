@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 10 | label: grammar | g:0.75 m:0.5 ---
+
+caitanya iti । "he sarvaprakāśaka! sadrūpatayā sarvāśrayasvarūpa!" tadrūpatā ca vipaścidbhir avagatā, sac-cid-ānanda-rūpāya kṛṣṇāyākliṣṭa-karmaṇe iti tāpanīya-nāndīni-śamanāt । tvayy eva nitya-sukhabodha-tanau iti śrī-bhāgavatīya-brahma-stave nigamanāc ca ।

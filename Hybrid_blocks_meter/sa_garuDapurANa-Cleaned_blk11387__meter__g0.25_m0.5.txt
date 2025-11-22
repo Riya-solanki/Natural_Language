@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11387 | label: meter | g:0.25 m:0.5 ---
+
+netraṃ ca cakre pratimādidarśane anādikālīnamalāpahariṇī ।
+sadvaiṣṇavānāṃ sparśane caiva saṃge nirmālyagandhānuvilepane tvak ।।

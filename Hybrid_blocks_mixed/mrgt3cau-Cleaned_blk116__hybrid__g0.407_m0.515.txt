@@ -1,0 +1,5 @@
+--- source: mrgt3cau-Cleaned.txt | block: 116 | label: hybrid | g:0.407 m:0.515 ---
+
+Vṛtti:
+pūrvavyākhyānapratyavamarśanāt tadviruddhaṃ yatkiṃcitsyāttatsamādadhyāat।
+kvacicca prastutavyākhyāvasarāgatapāścātyavisaṃvāde itthaṃ tatreṣṭavyamiti pūrvavyākhyāne iṣṭim ativyāptyavyāptiparihāraṃ vadet।

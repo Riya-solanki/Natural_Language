@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1165 | label: grammar | g:0.75 m:0.5 ---
+
+kāmaviṣayā indriyārthā iti rūpādaya ucyante te mityā saṃkalpyamānā rāgadveṣamohān pravartayanti tān pūrvaṃ prasaṃcakṣīta, tāṃśca prasaṃcakṣāṇasya rūpādiviṣayo mithyāsaṃkalpo nivartate, tannivṛttau adhyātmaṃ śarīrādi prasaṃcakṣīta, tatprasaṃkhyānādadhyātmaviṣayo ahaṅkāro nivartate soyamadhyātmaṃ bahiśca viviktacitto viharan mukta ityucyate ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 887 | label: grammar | g:0.75 m:0.5 ---
+
+[] taj-jāyā tu taj-jābhyāṃ duḥkha-lajjābhyāṃ sajjatī gṛhād āgrahāc ca na niṣkrāntavatī, na ca gṛhāgatāḥ sambhāṣitavatī । sarvāsv arvāg eva nivṛttāsu, samādhānohinī rohiṇī gaurava-pātrībhiḥ paurogavībhiḥ pariveṣayāmāsa ।

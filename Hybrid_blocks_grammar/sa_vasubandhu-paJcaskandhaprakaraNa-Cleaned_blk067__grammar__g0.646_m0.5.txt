@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 67 | label: grammar | g:0.646 m:0.5 ---
+
+anapatrāp katamat । avadyena parato alajjā ।। satyānaṃ katamat । cittākarmaṇyatā । staimityam ।। ।।

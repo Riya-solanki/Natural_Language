@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 88 | label: grammar | g:0.573 m:0.5 ---
+
+sā saṃnyastābharaṇam abalā pelavaṃ dhārayantī śayyotsaṅge nihitam asakṛd duḥkhaduḥkhena gātram ।
+tvām apy asraṃ navajalamayaṃ mocayiṣyaty avaśyaṃ prāyaḥ sarvo bhavati karuṇāvṛttir ārdrāntarātmā ।।

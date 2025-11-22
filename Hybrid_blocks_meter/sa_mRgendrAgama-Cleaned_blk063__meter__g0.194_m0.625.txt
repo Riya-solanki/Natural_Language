@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 63 | label: meter | g:0.194 m:0.625 ---
+
+anāgāmi ca tajjñeyaṃ kāryasyānādisaṃsthiteḥ 
+karaṇaṃ ca na śaktyanyac chaktirnācetanā citaḥ ।।

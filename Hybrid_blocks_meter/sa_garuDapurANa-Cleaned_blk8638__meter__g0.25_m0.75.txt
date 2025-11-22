@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8638 | label: meter | g:0.25 m:0.75 ---
+
+vyasanairdravyanāśaḥ syādupakrāntaṃ vinaśyati ।
+caurāgnirājabhirhāniḥ sā pīḍā pretasambhavā ।।

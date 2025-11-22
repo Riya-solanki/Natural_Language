@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11883 | label: grammar | g:0.552 m:0.5 ---
+
+hariṃ vinānyaṃ na bhajasva nityaṃ sā reṇukā tvāṃ tu na pālayiṣyati ।
+adṛṣṭanāmā haririve hi nityaṃ phalaprado yadi na syātkhagendra ।।

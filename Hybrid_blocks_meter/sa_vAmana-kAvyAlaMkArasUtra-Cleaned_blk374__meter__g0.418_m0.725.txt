@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 374 | label: meter | g:0.418 m:0.725 ---
+
+khamiva jalaṃ jalamiva khaṃ haṃsa iva śaśī śaśīva haṃso'yam ।
+kumudākārāstārāstārākārāṇi kumudāni ।।

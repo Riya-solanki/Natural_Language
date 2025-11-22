@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 156 | label: meter | g:0.194 m:0.5 ---
+
+vinatāyās tu putrau dvāv aruṇo garuḍas tathā 
+suparṇaḥ patatāṃ śreṣṭho dāruṇaḥ svena karmaṇā ।।

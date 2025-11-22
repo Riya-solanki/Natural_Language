@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 283 | label: hybrid | g:0.542 m:0.5 ---
+
+bhāvābhāvāya lokānāṃ kalpaneyaṃ pradarśitā। svamārgagāh prayānty ete dūram anyonyam āśritāh।।

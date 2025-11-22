@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5031 | label: meter | g:0.272 m:0.845 ---
+
+pāṇḍutvodarakuṣṭhārśaḥ śothagulmapramehanut ।
+vātaśleṣmaharaṃ balyaṃ tailaṃ kaśyaṃ tilodbhavam ।।

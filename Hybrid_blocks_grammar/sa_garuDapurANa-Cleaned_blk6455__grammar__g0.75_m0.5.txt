@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6455 | label: grammar | g:0.75 m:0.5 ---
+
+oṃ modāstṛpyantām । oṃ pramodāstṛpyantām । oṃ sumukhāstṛpyantām । oṃ durmukhāstṛpyantām । oṃ vighnāstṛpyantām । oṃ vighnakartārastṛpyantām । oṃ chandāṃsi tṛpyantām । oṃ vedāstṛpyantām । oṃ oṣadhayastṛpyantām । oṃ sanātanastṛpyatām । oṃ itarācāryāstṛpyantām । oṃ saṃvatsaraḥsāvayavastṛpyatām । oṃ devāstṛpyantām । oṃ apsarasastṛpyantām । oṃ devāndhakāstṛpyantām । oṃ sāgarastṛpyantām । oṃ nāgāstṛpyantām । oṃ parvatāstṛpyantām । oṃ sarinmanuṣyā yakṣāstṛpyantām । oṃ rakṣāṃsi tṛpyantām । oṃ piśācāstṛpyantām । oṃ suparṇāstṛpyantām । oṃ bhūtāni tṛpyantām । oṃ bhūtagrāmāścaturvidhāstṛpyantām । oṃ dakṣastṛpyatām । oṃ pracetāstṛpyatām । oṃ marīcistṛpyatām । oṃ ātristṛpyatām । oṃ aṅgirāstṛpyatām । oṃ pulastyastṛpyatām । oṃ pulahastṛpyatām । oṃ kratustṛpyatām । oṃ nāradastṛpyatām ! oṃ bhṛgustṛpyatām । oṃ viśvāmitrastṛpyatām । oṃ raivatastṛpyatām । oṃ cākṣuṣastṛpyatām । oṃ mahātejāstṛpyatām । oṃ vaivasvatastṛpyatām । 
+oṃ dhruvastṛpyatām ।
+oṃ dhavastṛpyatām ।
+oṃ anilastṛpyatām ।
+oṃ prabhāsastṛpyatām ।।

@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 698 | label: hybrid | g:0.364 m:0.501 ---
+
+iti ।
+sarvapratyayopasaṃhāre hi sarve sarvavidaḥ iti na vijñānavatā brahmaṇā paripālyatvamitareṣāṃ saṃkīrtyeta ।
+tasmādyathākāmamupāsanānāṃ samuccayo vikalpo veti ।।

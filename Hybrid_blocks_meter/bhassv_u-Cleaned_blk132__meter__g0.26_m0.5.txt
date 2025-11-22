@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 132 | label: meter | g:0.26 m:0.5 ---
+
+{ceṭī} - āma diṭṭho bhaṭṭiidāriāe siṇeheṇa ahmāaṃ kaudūhaḷeṇa a 
+[āma dṛṣṭo bhartṛdārikāyāḥ snehenāsmākaṃ kautūhalena ca । ]

@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 143 | label: hybrid | g:0.521 m:0.5 ---
+
+nanvānandamayāvayavatvenāpi brahmaṇi vijñāyamāne na prakṛtatvaṃ hīyate, ānandamayasya brahmatvāditi ।

@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 13 | label: hybrid | g:0.507 m:0.5 ---
+
+kartuṃ yac ca prabhavati mahīm ucchilindhrām avandhyaṃ tac chrutvā te śravaṇasubhagaṃ garjitaṃ mānasotkāḥ 
+ā kailāsād bisakisalayacchedapātheyavantaḥ saṃpatsyante nabhasi bhavato rājahaṃsāḥ sahāyāḥ ।।

@@ -1,0 +1,7 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 7 | label: hybrid | g:0.477 m:0.456 ---
+
+Vṛtti:
+[vratino jaṭilā muṇḍāḥ] vratināmapi dvau bhedau jaṭitvaṃ muṇḍitā ca।jaṭilo api vakṣyamāṇabhautikanaiṣṭhikabhedād dvividhaḥ।
+[teṣu] sarveṣu caiteṣu madhyād [agryāḥ] brāhmaṇāḥ [bhasmapāṇḍarāḥ] bhasmoddhūlitasarvāṅgāḥ।
+[bhūmipādayaḥ tilakaiḥ puṇḍrakaiḥ paṭṭaiḥ bhūṣitāḥ] kṣatriyāstilakālaṃkṛtatanavaḥ। vaiśyāstripuṇḍrakamaṇḍitāḥ। śūdrāstu paṭṭākṛtinā bhasmoddhūlanena bhūṣitāḥ syuriti śeṣaḥ।
+[jaṭādhāraṇe ayogyāḥ]

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10431 | label: meter | g:0.306 m:0.5 ---
+
+avaiṣṇavāndūṣayiṣye sadāhaṃ sadvaiṣṇavānpā layiṣye murāre ।
+viṣṇudruhāṃ chedayiṣye ca jihvāṃ tacchṛṇvatāṃ pūrayiṣye trapūlkāḥ ।।

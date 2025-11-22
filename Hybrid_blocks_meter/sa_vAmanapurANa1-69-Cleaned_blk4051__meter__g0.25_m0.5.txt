@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4051 | label: meter | g:0.25 m:0.5 ---
+
+svāhākāra namastubhyaṃ hantakāra namo astu te ।
+sarvākāra nirākāra vedākāra namo astu te ।।

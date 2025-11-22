@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 338 | label: grammar | g:0.73 m:0.275 ---
+
+darśanaviṣaya evāyaṃ parīkṣyate yoyamekamiti pratyayo dṛśyate sa parīkṣyate kiṃ dravyāntaraviṣayo vā ? athāṇusaṃcayaviṣayaḥ ? iti, atra darśanamanyatarasya sādhakaṃ na bhavati।
+nānābhāve cāṇūnāṃ pṛthaktvasyāgrahaṇādabhedena aekam' itigrahaṇam atasmiṃstaditipratyayo yathā sthāṇau puruṣa iti।
+tataḥ kim ? atasmiṃstaditipratyayasya pradhānāpekṣitvāt pradhānasiddhiḥ।
+sthāṇau puruṣa iti pratyayasya kiṃ pradhānam ? yo asau puruṣe puruṣapratyayaḥ tasmin sati puruṣasāmānyagrahaṇāt sthāṇau puruṣoyamiti, evaṃ nānābhūteṣu aekam' iti sāmānyagrahaṇāt pradhāne sati bhavitumarhati pradhānaṃ ca sarvasyāgrahaṇād nopapadyate iti tasmādabhinne evāyamabhedapratyayaḥ aekam' iti।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8073 | label: meter | g:0.25 m:0.5 ---
+
+oṃ pṛthivyai namastubhyamiti caikaṃ nivedayet ।
+oṃ yamāya namaśceti dvitīyaṃ tadanantaram ।।

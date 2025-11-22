@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 723 | label: meter | g:0.101 m:0.585 ---
+
+utsarpat-karparāṃśa-vraṇa-janaka-javaḥ śrotra-dṛk-tarja-garja-
+dhvānas truṭy-utkuṭheṣu prakaṭa-kaṭa-kaṭeṣv ardhayan vāyur āyuḥ ।
+goṣṭhaṃ koṣṭhaṃ ca bhindann naṭati bata hahā hanta kiṃ tatra vṛttaṃ
+yatrāste nīla-paṅkeruha-dala-tulanā lālitāṅgaḥ sa bālaḥ ।। [sragdharā]

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 60 | label: meter | g:0.25 m:0.5 ---
+
+mukhyārthabādhe tadyoge rūḍhito atha prayojanāt ।
+anyo artho lakṣyate yatsā lakṣaṇāropitā kriyā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4394 | label: meter | g:0.295 m:0.565 ---
+
+anena śambaraṃ hatvā māyāyuddhaviśāradam 
+hatā māyāś ca tāḥ sarvā yābhir devān abādhata ।।

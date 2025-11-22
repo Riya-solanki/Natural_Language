@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 222 | label: grammar | g:0.778 m:0.077 ---
+
+ātmana eva hi yathā śauryādayo nākārasya tathā rasasyaiva mādhuryādayo guṇā na varṇānām ।
+kvacitu śauryādisamucitasyākāramahacvāderdarśanāt "ākāra evāsya śūraḥ'; ityādervyavahārādanyatrāśūre api vitatākṛtitvamātreṇa "śūraḥ'; iti kvāpi śūre api mūrtilāghavamātreṇa "aśūraḥ'; iti, aviśrāntapratītayo yathā vyavaharanti tadvanmadhurādivyañjakasukumārādivarṇānāṃ madhurādivyavahārapravṛtteramadhurādirasāṅgānāṃ varṇānāṃ saukumāryādimātreṇa mādhuryādi madhurādirasopakaraṇānāṃ teṣāmasaukumāryāderamādhuryādi rasaparyantaviśrāntapratītivandhyā vyavaharanti, ata eva mādhuryādayo rasadharmāḥ samucitairvarṇairvyajyante na tu varṇamātrāśrayāḥ ।
+yathaiṣāṃ vyañjakatvam tathodāhariṣyate ।।

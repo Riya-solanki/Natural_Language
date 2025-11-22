@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2798 | label: meter | g:0.194 m:0.75 ---
+
+dānadharmasya deveśi kalāṃ nārghanti ṣoḍaśīm 
+pavitraṃ paramaṃ puṇyaṃ sarvadoṣavivarjitam ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1413 | label: hybrid | g:0.51 m:0.5 ---
+
+pītāmbarāya tanayāṃ pradadau payodhis tatkālakūṭagaralaṃ ca digambarāya ।
+tatrānayor vadata kasya guṇātirekaḥ prāyaḥ paricchadakṛtādara eva lokaḥ ।।

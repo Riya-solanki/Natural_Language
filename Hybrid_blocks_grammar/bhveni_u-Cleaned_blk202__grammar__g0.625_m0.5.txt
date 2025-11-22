@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 202 | label: grammar | g:0.625 m:0.5 ---
+
+SktCh sakhi bhānumati kasmādidānīṃ tvaṃ svapnadarśanamātrasya kṛte abhimānino mahārājaduryodhanasya mahiṣī bhūtvaivaṃ vigalitadhīrabhāvātimātraṃ saṃtapyase ।

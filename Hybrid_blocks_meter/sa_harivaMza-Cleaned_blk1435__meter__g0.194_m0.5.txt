@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1435 | label: meter | g:0.194 m:0.5 ---
+
+pradhānātmā purā hy eṣa brahmāṇam asṛjat prabhuḥ 
+so asṛjat pūrvapuruṣaḥ purākalpe prajāpatīn ।।

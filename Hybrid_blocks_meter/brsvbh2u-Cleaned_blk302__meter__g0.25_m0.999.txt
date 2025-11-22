@@ -1,0 +1,8 @@
+--- source: brsvbh2u-Cleaned.txt | block: 302 | label: meter | g:0.25 m:0.999 ---
+
+yāvadātmabhāvitvāttu na doṣastaddarśanāt ।
+yāvatsaṃsāryātmabhāvitvādityarthaḥ ।
+samānaḥ sanniti ।
+buddhyā samānaḥ tadguṇasāratvāditi ।
+apica mithyājñāneti ।
+na kevalaṃ yaṃvatsaṃsāryātmabhāvitvamāgamataḥ,

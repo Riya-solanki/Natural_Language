@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 262 | label: grammar | g:0.75 m:0.5 ---
+
+arbhakamalpamoko nīḍaṃ, aeṣa ma ātmāntarhṛdaye' iti paricchinnāyatanatvāt, svaśabdena ca aaṇīyānvrīhervā yavādvā' ityaṇīyastvavyapadeśāt, śārīra evārāgramātro jīva ihopadiśyate, na karvagataḥ paramātmeti yaduktaṃ tatparihartavyam ।

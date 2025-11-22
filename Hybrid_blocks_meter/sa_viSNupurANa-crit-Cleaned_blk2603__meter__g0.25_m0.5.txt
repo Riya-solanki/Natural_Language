@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2603 | label: meter | g:0.25 m:0.5 ---
+
+śaunakas tu dvidhā kṛtvā dadāv ekāṃ tu babhrave 
+dvitīyāṃ saṃhitāṃ prādāt saindhavāya ca saṃjñine ।।

@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 110 | label: meter | g:0.328 m:0.595 ---
+
+abhinnārthānarthaḥ suhṛdariparicchedarahitaḥ samāvajñāmānaḥ sadṛśasukhaduḥkhavyatirekaḥ ।
+na maunī nāmaunī vanajalasamānāsanamanā na dainyaṃ nādainyaṃ spṛśati guṇanairguṇyavirataḥ ।।

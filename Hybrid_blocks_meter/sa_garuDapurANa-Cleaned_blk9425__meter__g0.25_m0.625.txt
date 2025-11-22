@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9425 | label: meter | g:0.25 m:0.625 ---
+
+śayyādānaprabhāveṇa preto mucyate bandhanāt ।
+apiḥ pāpasamāyuktaḥ svargalokaṃ sa gacchati ।।

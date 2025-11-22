@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1236 | label: meter | g:0.306 m:0.5 ---
+
+lakṣmyā samālabdham iva prakāmaṃ pramṛṣṭacāmīkaracāruvarṇam ।
+samudgataprāṇam api prasannaṃ rarāja tat tasya vibhoḥ śarīram ।।

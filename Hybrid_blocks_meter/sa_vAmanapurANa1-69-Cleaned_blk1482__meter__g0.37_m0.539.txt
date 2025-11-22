@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1482 | label: meter | g:0.37 m:0.539 ---
+
+sa eva dhanyo hi pitā yasya putrī śubhaṃ patim ।
+rūpābhijanasaṃpattyā prāpnoti girisattama ।।

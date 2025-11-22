@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 154 | label: meter | g:0.036 m:0.958 ---
+
+[] tan-nirvaṛnane viśeṣas tu varṇyate,
+kolāhalas tvaritatā vivaśāṅga-caryā
+kampaḥ skhalad-vacanatā sravad-asratā ca ।
+vīkṣyādi-tṛpti-parihānir iti vrajasthāḥ
+saukhye' pi duḥkham agaman pratilabhya kṛṣṇam ।। [vasantatilakā]

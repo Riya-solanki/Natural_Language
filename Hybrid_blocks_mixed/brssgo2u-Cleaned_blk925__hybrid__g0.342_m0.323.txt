@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 925 | label: hybrid | g:0.342 m:0.323 ---
+
+FN bhāti dīpyate ।
+tapati svakāryaṃ karoti ।
+sa prāṇo vācaṃ prathamāmudgīthakarmāṇi pradhānāṃ anṛtādipāpmarūpaṃ mṛtyumatītyāvahanmṛtyunā muktāṃ kṛtvā agnidevatātmatvaṃ prāpitavān ।

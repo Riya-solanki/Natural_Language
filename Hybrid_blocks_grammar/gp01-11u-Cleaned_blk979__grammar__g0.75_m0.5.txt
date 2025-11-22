@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 979 | label: grammar | g:0.75 m:0.5 ---
+
+[] kṛṣṇaḥ saharṣaṃ saṅkarṣaṇa-niṣkalaṅka-vidhor aṅkaṃ nija-śyāma-dhāmnālaṅkurvann eva sāṅga-praṇayatayā samuttānitāṅgas tan-mukham unmukhaṃ paśyan vihasan vilasan muhur luṭhati sma । [] saṅkarṣaṇas tu tan-mukham anu mukhaṃ nidhāya muhur vihasita-līlāṃ vidhāya cirāya taṃ hāsayati sma ।

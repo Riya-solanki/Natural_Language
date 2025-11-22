@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5048 | label: meter | g:0.194 m:0.5 ---
+
+bhavān api ca sarveṣāṃ pūrveṣāṃ naḥ pitāmahaḥ 
+atītānāgatajñaś ca nāthaś cādikaraś ca naḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 37 | label: meter | g:0.25 m:0.5 ---
+
+paścād uccairbhujataruvanaṃ maṇḍalenābhilīnaḥ sāṃdhyaṃ tejaḥ pratinavajapāpuṣparaktaṃ dadhānaḥ 
+nṛttārambhe hara paśupater ārdranāgājinecchāṃ śāntodvegastimitanayanaṃ dṛṣṭabhaktir bhavānyā ।।

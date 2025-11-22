@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2248 | label: meter | g:0.194 m:0.625 ---
+
+ātmā śuddho akṣaraḥ śānto nirguṇaḥ prakṛteḥ paraḥ 
+pravṛddhyapacayau nāsya ekasyākhilajantuṣu ।।

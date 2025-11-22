@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10183 | label: meter | g:0.306 m:0.5 ---
+
+daityasthitānāṃ biṃbānāṃ mūlarūpasya vai prabhoḥ ।
+parasparaṃ tathā bhedaṃ hyantaraṃ vā na cintayet ।।

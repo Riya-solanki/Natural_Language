@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10484 | label: meter | g:0.373 m:0.549 ---
+
+saṃsāracakrabhramaṇenaiva deva saṃsāraduḥ khamanubhūyehāgatosmi ।
+śaktirna cāsti navane mama devadeva satyā samaṃ ca satataṃ paripāhi nityam ।।

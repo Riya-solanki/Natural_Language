@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1700 | label: grammar | g:0.75 m:0.5 ---
+
+evaṃ ca yathā punaruktavadābhāsaḥ paraṃparitarūpakaṃ cobhayor bhāvānuvidhāyitayā, ubhayālaṅkārau tathā śabdahetukārthāntaranyāsaprabhṛtayo api draṣṭavyāḥ । arthasya tu tatra vaivitryam utkaṭatayā pratibhāsate, iti vācyālaṅkāramadhye vastusthitimanapekṣyaiva lakṣitāḥ ।।

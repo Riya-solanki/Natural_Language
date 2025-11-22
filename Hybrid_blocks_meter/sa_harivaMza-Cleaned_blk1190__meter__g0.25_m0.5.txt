@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1190 | label: meter | g:0.25 m:0.5 ---
+
+maṇiṃ syamantakaṃ caiva jagrāhātmaviśuddhaye 
+anunīyarkṣarājānaṃ niryayau ca tadā bilāt ।। 
+dvārakām agamat kṛṣṇaḥ śriyā paramayā yutaḥ । 
+evaṃ sa maṇim āhṛtya viśodhyātmānam acyutaḥ 
+dadau satrājite taṃ vai sarvasātvatasaṃsadi ।।

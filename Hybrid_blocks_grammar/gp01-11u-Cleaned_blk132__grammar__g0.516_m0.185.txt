@@ -1,0 +1,10 @@
+--- source: gp01-11u-Cleaned.txt | block: 132 | label: grammar | g:0.516 m:0.185 ---
+
+[] tat tu sambhāvanaṃ, yathā-atha gopāvāsābhyantare tādṛśām eva sabhyānāṃ labhyā sabhāvalir upalabhyate,
+yatra bhūri-vaicitrī-dhurāṇi mahā-gopurāṇi purāṇīva virājante,
+yeṣāṃ panthānaḥ kila kiñjalka-valaja-paryantāḥ samastād vibhrājante,
+yatra ca parasparam abhimukhāḥ sumukhā mahāntas te gṛhā mithaḥ pṛthula-śobhā loka-spṛhā iva vimṛśya dṛśyante,
+yatra ca siṃha-saṃhananānāṃ puruṣa-siṃhānāṃ niścalāṅghrīṇi mahā-siṃhāsanāni vicitratayā netrāṇāṃ paribṛṃhaṇatām aṃhante,
+yatra ca parāvara-kakṣyā-vāsi-loka-lakṣāṇi samam eva samakṣāṇi santi, mithaḥ sukha-śatāni varṣanti,
+yatra caikatrāsīnānām anyatrāpi rūpaka-kāvya iva pratirūpāṇi rūpāṇi pratīyante-na ca tāni kevalāni, api tu pratidhvanayaś ca dhvani-kāvya iva dhvanitayā vibhāvyante, yataḥ svacchāntaḥ-karaṇā mahāntaḥ khalu para-guṇāntarāṇy api āyacchantīti prathitiḥ prathīyasī; yadā ca tathā prathīyante vibhāvyante ca, tadā hy āgantukā nānā-janās tat-tad-rūpāṇāṃ jānānāḥ paritaḥ parihāsyante;
+yatra ca kutrāpi yadā sadā paramānanda-syanda-sandoha-dohana-kānti-kandalī-lambhita-sukha-tandraḥ śrīman-nanda-kula-candraḥ svayam āloka-sudhayā loka-cakṣuś-cakora-vārapārāṇām āpūrayati, tadā tūtsavānām api mahān utsavaḥ sphurati ।

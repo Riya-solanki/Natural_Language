@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10521 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ stutvā tu pulahastūṣṇīmāsa tadā khaga ।
+tadanantarajaḥ stotuṃ kratuḥ samupacakrame ।।

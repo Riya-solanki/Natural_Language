@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1181 | label: hybrid | g:0.531 m:0.5 ---
+
+strīratnamagryaṃ bhavatī ca kanyā prāpto asmi śailaṃ tava kāraṇena ।
+tasmād bhajasveha jagatpatiṃ māṃ patistavārhe asmi vibhuḥ prabhuśca ।।

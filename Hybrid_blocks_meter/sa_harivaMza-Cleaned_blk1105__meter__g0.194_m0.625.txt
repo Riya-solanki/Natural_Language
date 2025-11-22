@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1105 | label: meter | g:0.194 m:0.625 ---
+
+gopālī tv apsarās tasya gopastrīveṣadhāriṇī 
+dhārayām āsa gārgyasya garbhaṃ durdharam acyutam ।।

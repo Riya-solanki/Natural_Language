@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 697 | label: meter | g:0.306 m:0.5 ---
+
+dharmātithyam ato rājan mama tvaṃ kartum arhasi ।
+na hi saṃbhāvanā satsu dṛṣṭā vandhyaphalodayā ।।

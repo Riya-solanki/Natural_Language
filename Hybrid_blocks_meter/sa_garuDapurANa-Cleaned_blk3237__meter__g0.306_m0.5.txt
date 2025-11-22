@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3237 | label: meter | g:0.306 m:0.5 ---
+
+yasya putrāśca bhṛtyāśca mantriṇaśca purohitāḥ ।
+indriyāṇi prasuptāni tasya rājyaṃ ciraṃ na hi ।।

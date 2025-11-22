@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 688 | label: meter | g:0.25 m:0.5 ---
+
+priyo mamety evam anādikālapravṛttam udvṛttam analpagarbhaṃ ।
+sukhābhidhānaṃ pravadanti duḥkhaṃ vyatītaduḥkhā munayaḥ purāṇāḥ ।।

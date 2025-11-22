@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11650 | label: hybrid | g:0.542 m:0.5 ---
+
+ye vāyutīrthe visṛjanti dehajaṃ malaṃ mūtraṃ vamanaṃ śleṣmakaṃ ca ।
+ye apānaśuddhiṃ liṅgaśuddhiṃ ca kanye kurvanti te hyasurā rākṣasāśca ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6523 | label: grammar | g:0.58 m:0.342 ---
+
+tataḥ pitṛbrāhmaṇahaste pātrasthapavitradānam ।
+pātrasthapuṣpeṇa śirasaḥ karapādārcanaṃ brāhmaṇahaste anya jaladānaṃhastābhyāṃ pātramutthāpya oṃ yā divyeti paṭhitvā oṃ amukagotra matpitāmaha amukadevaśarman sapatnīka eṣa te arghyaḥ svadhā ।
+pitṛpātreṇaiva pitāmahabrāhmaṇahaste stokamarghyodakaṃ sapavitraṅgṛhītvāstokamudakaṃ piṇḍasecanārthaṃ pātrāntareṇa pidhāya pitṛbrāhmaṇavāmapārśva dakṣiṇāgrakuśopari pitṛbhyaḥ stānamasīti adhomukhapātrasthapanam ।।

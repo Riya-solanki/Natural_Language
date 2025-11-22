@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 110 | label: meter | g:0.0 m:0.75 ---
+
+pakṣau pūrvāparau śuklakṛṣṇau māsastu tāvubhau

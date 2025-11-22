@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 871 | label: meter | g:0.194 m:0.625 ---
+
+satyavādī puṇyamatiḥ kāmyaḥ saṃvṛtamaithunaḥ 
+atīva triṣu lokeṣu yaśasāpratimaḥ sadā ।।

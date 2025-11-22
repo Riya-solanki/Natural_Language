@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 718 | label: meter | g:0.12 m:0.894 ---
+
+kāya-prāyata-bhājitāñjana-girir vastrāṇi sandhyābhrajid
+vistāra-dyutimanti veṣamaṇayaḥ sūryādi-jetṛ-prabhāḥ ।
+uttaṃsā vara-puṣpa-bhāra-balavac-chākhā-sahasrāṇy aho
+yasya kṣmādhara-deva eṣa kurute netrāṇi citrāṇi naḥ ।। [śārdūla]

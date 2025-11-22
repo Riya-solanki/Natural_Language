@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 383 | label: meter | g:0.194 m:1.0 ---
+
+sādhāraṇo anyathā caiśaḥ sargaḥ spaṣṭāvabhāsanāt 
+vikalpahānaikāgryāt krameṇeśvaratāpadam ।।

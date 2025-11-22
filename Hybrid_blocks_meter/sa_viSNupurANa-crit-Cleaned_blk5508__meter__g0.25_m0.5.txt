@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5508 | label: meter | g:0.25 m:0.5 ---
+
+ājñāpūrvaṃ ca yad idam āgaccheti tvayoditam 
+saṃpādayiṣye śvas tubhyaṃ tad apy eṣo avilambitam ।।

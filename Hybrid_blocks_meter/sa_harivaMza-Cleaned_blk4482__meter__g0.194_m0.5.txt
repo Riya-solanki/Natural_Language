@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4482 | label: meter | g:0.194 m:0.5 ---
+
+rājñāṃ madhye mahārāja jyeṣṭhaṃ bhrātaram abravīt 
+yudhiṣṭhiraṃ jitāmitram iti tac chṛṇu kaurava ।।

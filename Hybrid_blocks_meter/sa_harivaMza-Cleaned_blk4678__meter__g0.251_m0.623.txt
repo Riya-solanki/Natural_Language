@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4678 | label: meter | g:0.251 m:0.623 ---
+
+na hy ayaṃ prākṛtaḥ kaścid yaḥ praviṣṭaḥ prasahya naḥ 
+nagaraṃ lokavikhyātam ekaḥ śatrunibarhaṇaḥ ।।

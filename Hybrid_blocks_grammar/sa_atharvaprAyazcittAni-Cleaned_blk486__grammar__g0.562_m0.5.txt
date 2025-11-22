@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 486 | label: grammar | g:0.562 m:0.5 ---
+
+tasmād yugapad eva sarvāṃt sādayitvātha yady enam anālabheta punar dahet ।

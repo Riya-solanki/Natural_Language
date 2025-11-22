@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2615 | label: meter | g:0.194 m:0.5 ---
+
+āgneyam aṣṭamaṃ caiva bhaviṣyaṃ navamaṃ tathā 
+daśamaṃ brahmavaivartaṃ laiṅgam ekādaśaṃ smṛtam ।।

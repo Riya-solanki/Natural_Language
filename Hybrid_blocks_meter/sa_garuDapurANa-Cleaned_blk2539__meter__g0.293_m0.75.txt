@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2539 | label: meter | g:0.293 m:0.75 ---
+
+ruciruvāca ।
+avidyā pacyate vede karmamārgātpitāmahāḥ ।
+tatkathaṃ karmaṇo mārge bhavanto yojayanti mām ।।

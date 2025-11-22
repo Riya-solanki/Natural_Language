@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2176 | label: grammar | g:0.688 m:0.5 ---
+
+bodhisattvaḥ kilānyatamasminnaraṇyapradeśe paṅkasaṃparkātparuṣavapurṇīlameghaviccheda iva pādacārī vanamahiṣavṛṣo babhūva । sa tasyāṃ durlabhadharmasaṃjñāyāṃ saṃmohabahulāyāmapi tiryaggatau vartamānaḥ paṭuvijñānatvānna dharmacaryānirudyogamatirbabhūva ।

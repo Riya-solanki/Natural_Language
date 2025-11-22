@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 29 | label: grammar | g:0.625 m:0.5 ---
+
+atha bhagavān vajradhātustathāgatastasmin eva kṣaṇe sarvatathāgatasamatājñānābhisaṃbuddha sarvatathāgatavajrasamatājñānamudrāguhyasamayapraviṣṭaḥ sarvatathāgatadharmasamatājñānādhigamasvabhāvaśuddhaḥ sarvatathāgatasarvasamatāprakṛtiprabhāsvarajñānākarabhūtastathāgato arhān samyaksaṃbuddhaḥ saṃvṛtta iti ।।

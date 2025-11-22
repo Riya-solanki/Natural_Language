@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 30 | label: grammar | g:0.75 m:0.5 ---
+
+kiṃ tvasti kācidaparaiva padānupūrvī yasyāṃ na kiñcidapi kiñcidivāvabhāti । ānandayatytha ca karṇapathaṃ prayātā cetaḥ satāmamṛtavṛṣṭiriva praviṣṭā ।। vacasi yamadhiśayya syandate vācakaśrī- rvitathamavitathatvaṃ yatra vastu prayāti । udayati hi sa tādṛk kvāpi vaidarbharītau sahṛdayahṛdayānāṃ rañjakaḥ ko'pi pākaḥ ।।

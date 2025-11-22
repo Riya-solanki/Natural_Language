@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 16 | label: hybrid | g:0.465 m:0.5 ---
+
+prathamaṃ namam iha mātaram atha pitaraṃ tvāṃ tathaivāsmān ।
+pratyūṣaḥ pratisuhṛdaṃ sat-kurute' sāv atīva bālye' pi ।। [udgīti]

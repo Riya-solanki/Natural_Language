@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1805 | label: meter | g:0.26 m:0.5 ---
+
+kāmaṃ tasya gatiḥ sūkṣmā devair api durānugā 
+yat tu śakṣyāmy ahaṃ vaktuṃ tan me nigadataḥ śṛṇu ।।

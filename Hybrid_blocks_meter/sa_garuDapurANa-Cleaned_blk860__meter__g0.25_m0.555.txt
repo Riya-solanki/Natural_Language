@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 860 | label: meter | g:0.25 m:0.555 ---
+
+snānaṃ vastraṃ tathācāmaṃ gandhaṃ puṣpaṃ ca dhūpakam ।
+dīpaṃ naivedyamācāmaṃ namaskāraṃ pradakṣiṇam ।
+kuryācchaṅkara mūlena japaṃ cāpi samarpayet ।।

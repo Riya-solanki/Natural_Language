@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 874 | label: meter | g:0.25 m:0.75 ---
+
+vajrasatvasya nāmāpi sarvasiddhikaraṃ paraṃ ।
+sādhyamānastu śuddhyā vai sukhairbuddhatvamāpnuyāt ।।

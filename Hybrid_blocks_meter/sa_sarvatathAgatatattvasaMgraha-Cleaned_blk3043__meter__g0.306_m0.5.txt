@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3043 | label: meter | g:0.306 m:0.5 ---
+
+satvavajrāṃ hṛdi badhvā bhāryā me tvamiti priyā ।
+dṛḍhībhava iti prokte sarvamudrāstu sādhayet ।।

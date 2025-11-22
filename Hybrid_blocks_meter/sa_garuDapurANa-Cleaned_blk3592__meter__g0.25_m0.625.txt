@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3592 | label: meter | g:0.25 m:0.625 ---
+
+prātargṛhāgato bhāryādattānnaṃ bhuktavānsa ca ।
+kāle mṛto yamabhaṭaiḥ pāśairbaddhvā tu nīyate ।।

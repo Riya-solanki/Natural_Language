@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1740 | label: meter | g:0.194 m:0.75 ---
+
+evaṃ sañcintya manasā bhaktiyukto jitendriyaḥ 
+pañcaviṃśatimāsena prākṛtān labhate guṇān ।।

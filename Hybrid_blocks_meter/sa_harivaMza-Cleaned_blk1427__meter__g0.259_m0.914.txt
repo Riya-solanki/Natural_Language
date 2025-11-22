@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1427 | label: meter | g:0.259 m:0.914 ---
+
+etaduddeśamātreṇa prādurbhāvānukīrtanam 
+kīrtitaṃ kīrtanīyasya sarvalokaguroḥ prabhoḥ ।।

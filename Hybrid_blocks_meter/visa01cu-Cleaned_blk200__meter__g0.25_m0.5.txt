@@ -1,0 +1,8 @@
+--- source: visa01cu-Cleaned.txt | block: 200 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ prāktanalakṣaṇānāṃ prameyavirodhaṃ darśayitvā svalakṣaṇāmavatārayati ।
+tat kiṃ punaritiyadi naitāni kāvyaliṅgalakṣaṇānītyarthaḥ ।
+rasātmakamityatra rasapadenāsaṃlakṣyakamabhedānāṃ sarveṣāṃ parigraha ityāharasyata iti ।
+rasyate āsvādyate, svādaḥ kāvyārthasambhedādātmānandasamudbhava ityuktaprakāraḥ, karmatvaṃ rasādīnāmupacārāt ।
+karmakarttari, vā prayogāditi vakṣyate ।
+tadābhāsāḥ rasābhāsā bhāvābhāsāśca ādiśabdāt bhāvasya śāntirudayaḥ sandhiḥ śabalatā ca ।

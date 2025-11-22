@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3816 | label: hybrid | g:0.25 m:0.475 ---
+
+tato apitarvivasvāṃśca tataḥ sūnurvivasvataḥ manurikṣvākuśaryātī nṛgo dhṛṣṭaḥ praṣadhrakaḥ ।।
+nariṣyantaśca nābhāgo diṣṭaḥ śaśaka eva ca ।
+manorāsīdilā kanyā sudyumno asya suto abhavat ।।

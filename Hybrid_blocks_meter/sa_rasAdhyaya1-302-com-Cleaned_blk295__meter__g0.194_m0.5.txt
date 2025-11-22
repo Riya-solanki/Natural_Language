@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 295 | label: meter | g:0.194 m:0.5 ---
+
+tenaiva madhyagaṃ kṛtvā niyamyo'sau punaḥ punaḥ 
+trayodaśe ahṇi samprāpte jāyate dīpanaṃ śubham ।।

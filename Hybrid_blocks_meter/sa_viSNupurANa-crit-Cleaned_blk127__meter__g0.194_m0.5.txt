@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 127 | label: meter | g:0.194 m:0.5 ---
+
+merur ulbam abhūt tasya jarāyuś ca mahīdharāḥ 
+garbhodakaṃ samudrāś ca tasyāsan sumahātmanaḥ ।।

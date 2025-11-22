@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 561 | label: grammar | g:0.625 m:0.5 ---
+
+rasavad amṛtaṃ kaḥ saṃdeho madhūny api nānyathā madhuram api kiṃ cūtasyāpi prasannarasaṃ phalam ।
+sakṛd api punar madhyasthaḥ san rasāntaravij jano vadatu yad ihānyat svādu syāt priyādaśanacchadāt ।।

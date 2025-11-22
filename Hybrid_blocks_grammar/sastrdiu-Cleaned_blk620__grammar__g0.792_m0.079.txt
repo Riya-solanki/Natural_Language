@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 620 | label: grammar | g:0.792 m:0.079 ---
+
+nanu prāpyakāri śrotraṃ, na ca dhvanyutpattideśaḥ śrotreṇa prāpyata iti kathaṃ tasya śrotreṇa grahaṇam, tadagrahe ca kathaṃ tadviśiṣṭaśabdagrahaḥ ।
+ucyate- nāyaṃ śrotratastadviśiṣṭaśabdapratyayaḥ, kiṃ tu śrotraṃ gi svadeśasthitaṃ śabdaṃ bodhayadapi na deśaviśiṣṭaṃ bodhayati kintu svarūpamātreṇa, yatastu diśa āgatā dhvanayastayā viśiṣṭaṃ śabdaṃ bodayanti, sā hi dik śrotraprāptā śakyate śrotreṇa grahītum, yadyapi na svātantryeṇa diśaḥ śrotragrāhyatvaṃ tathāpi rāve gṛhyamāṇe tadviśeṣaṇatayā atha ca viṣayeṣu sveṣu gṛhyamāṇeṣu tadviśeṣaṇatayā sarvairapīndriyairgṛhyate tadvat ।
+tataścāsyāṃ diśi śabda iti viśiṣṭagrahaṇaṃ tāvatsiddham ।

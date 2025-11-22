@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 203 | label: grammar | g:0.814 m:0.159 ---
+
+gurvadhikaraṇaḥ parameśvaraḥ sthitikāle cidvata iti tadanudhyānavaśāt parāparaniḥśreyasaviṣayayā praśasyayā citā yuktānyānaṇūnanugṛhṇāti te mandatīvrādiśaktisampātavailakṣaṇyāt pañcāṣṭakādirudrāṇāṃ saptakoṭisaṃkhyātānāṃ mantrāṇāṃ tatpatīnāṃ ca vidyeśvarāṇām īśānasya ceśvarasadāśivāntalakṣaṇasya sambandhi padaṃ bhajanta iti tatpadabhājas tatsālokyādipadayogino bhavatītyarthaḥ ।। 
+nanu śaktipātaviśeṣāt tattatpadabhāktvaṃ cet tarhi tadviśeṣaḥ kathaṃ jñeyaḥ ityāha ।।

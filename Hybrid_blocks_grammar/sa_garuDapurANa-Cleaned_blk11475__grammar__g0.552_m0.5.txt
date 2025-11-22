@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11475 | label: grammar | g:0.552 m:0.5 ---
+
+ato hi govinda iti smṛtaḥ sadā bho vedavedyeti tathā na nanṛtuḥ ।
+ānandabāṣpaiśca samanvitā hi hare murāre tava darśanaṃ hi ।।

@@ -1,0 +1,7 @@
+--- source: brssgo2u-Cleaned.txt | block: 18 | label: meter | g:0.375 m:0.533 ---
+
+mahadahaṅkārau tāvadaprasiddhau, ahaṅkāraprakṛtikatvena tanmātrāṇyapyaprasiddhāni smartuṃ na śakyanta ityāha-itareṣāṃ ceti ।
+nanu amahataḥ paramavyaktam'itiśrutiprasiddhāni mahadādīnītyata āha-yadapīti ।
+sūtratātparyamāha-kāryeti ।
+sāṃkhyasmṛtermahadādiṣviva pradhāne api prāmāṇyaṃ neti niścīyata ityarthaḥ ।
+sāṃkhyasmṛterbādhe api taduktayuktīnāṃ kathaṃ bādha ityata āha-tarketi ।।

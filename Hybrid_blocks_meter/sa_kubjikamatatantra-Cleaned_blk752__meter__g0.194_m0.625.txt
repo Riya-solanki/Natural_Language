@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 752 | label: meter | g:0.194 m:0.625 ---
+
+prathamam uddhṛtaṃ bījaṃ dvitīyaṃ ṇa-ha-sandhigam 
+bheditaṃ tu ña-pūrveṇa etad varṇadvayaṃ punaḥ ।।

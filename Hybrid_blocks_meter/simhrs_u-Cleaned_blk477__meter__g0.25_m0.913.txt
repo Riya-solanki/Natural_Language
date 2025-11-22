@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 477 | label: meter | g:0.25 m:0.913 ---
+
+krodhād, yathā-
+dadhat sandhyāruṇa-vyoma-sphurat-tārānukāriṇīḥ ।
+dviṣad-dveṣoparaktāṅga-saṅginīḥ sveda-vipruṣaḥ ।।

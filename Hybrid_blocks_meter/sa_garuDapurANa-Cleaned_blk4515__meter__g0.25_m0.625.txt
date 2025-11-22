@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4515 | label: meter | g:0.25 m:0.625 ---
+
+bhallātakāsthisaṃsthānā raktā pītā sitāśmarā ।
+bastirnistudyata iva śleṣmaṇā śītalo guruḥ ।।

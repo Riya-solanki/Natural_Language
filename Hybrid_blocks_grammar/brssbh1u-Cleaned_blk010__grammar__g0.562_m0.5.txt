@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 10 | label: grammar | g:0.562 m:0.5 ---
+
+nanu śeṣaṣaṣṭhīparigrahe api brahmaṇo jijñāsākarmatvaṃ na virudhyate, saṃbandhasāmānyasya viśeṣaniṣṭhatvāt ।
+evamapi pratyakṣaṃ brahmaṇaḥ karmatvamutsṛjya sāmānyadvāreṇa parokṣaṃ karmatvaṃ kalpayato vyartha prayāsaḥ syāt ।

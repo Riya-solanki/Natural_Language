@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 642 | label: meter | g:0.331 m:0.745 ---
+
+aniṣṭa-darśanād, yathā-
+sasureṇa ḍajjamāṇe gharaṇiaḍabhave ṇiuṃja-puṃjaṃmi ।
+ṇa suṇai suṇhā suṇṇā bahuso kahidaṃ bi sasurāe ।।

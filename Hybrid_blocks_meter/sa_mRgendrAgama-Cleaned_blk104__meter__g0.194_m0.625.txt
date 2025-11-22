@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 104 | label: meter | g:0.194 m:0.625 ---
+
+nādhyakṣaṃ nāpi tallaiṅgaṃ na śābdamapi śāṅkaram 
+jñānamābhāti vimalaṃ sarvadā sarvavastuṣu ।।

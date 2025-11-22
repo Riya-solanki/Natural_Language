@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2680 | label: meter | g:0.194 m:0.5 ---
+
+bhagavān api tenaiva rūpeṇāc chāditaḥ prabhuḥ 
+saha taiḥ praṇato gopair vavandātmānam ātmanā ।।

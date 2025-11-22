@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3908 | label: grammar | g:0.625 m:0.5 ---
+
+tasmād urukṣayas tato vatso vatsād vatsavyūhaḥ । tataḥ prativyomas tasyāpi divākaras tasmāt sahadevaḥ ।।

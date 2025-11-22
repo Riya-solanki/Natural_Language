@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1297 | label: meter | g:0.25 m:0.5 ---
+
+savanaṃ havanaṃ caiva havyaṃ hotāram eva ca 
+pātrāṇi ca pavitrāṇi vediṃ dīkṣāṃ caruṃ sruvam ।।

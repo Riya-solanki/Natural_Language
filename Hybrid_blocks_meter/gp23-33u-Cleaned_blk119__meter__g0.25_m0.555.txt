@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 119 | label: meter | g:0.25 m:0.555 ---
+
+svām āśām anuvardhaya vara-tanu-tatir iha labhatāṃ śātam ।
+satatānaśvara-vara varadeśvara na vitanu vitanūtpātam ।।
+atrānuvardhayeti samedhane chedane vā-

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2946 | label: meter | g:0.25 m:0.695 ---
+
+ārdravāsāstu hemante yogābhyāsāddinaṃ nayet ।
+yaḥ kaṇṭakairvitudati candanairyaśca limpati ।
+akruddhaḥ parituṣṭaśca samastasya ca tasya ca ।।

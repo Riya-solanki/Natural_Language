@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 880 | label: hybrid | g:0.5 m:0.5 ---
+
+atra {viditaṃ testu} ityupasaṃhṛto api tenetyādinā punarupāttaḥ ।।

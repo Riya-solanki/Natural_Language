@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2806 | label: meter | g:0.25 m:0.5 ---
+
+stuvanti munayaḥ sarve vāgbhir mantraparāyaṇāḥ 
+vasiṣṭho vāmadevaś ca jābālir atha kāśyapaḥ । 
+viśvāmitro bharadvājaḥ kaṇvo atrir bhagavān prabhuḥ । 
+ete ca munayaḥ sarve siddhāś ca paramarṣayaḥ । 
+ekārṇavavimuktaṃ ca dadhāra vasudhā vapuḥ ।।

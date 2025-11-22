@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2359 | label: grammar | g:0.729 m:0.5 ---
+
+athātra mahāmaṇḍale svayaṃ maṇiratnācāryo yathāvat praviśya, vidhivistaramātmanaḥ kṛtvā, tato ratnādhiṣṭhitakalaśodakena maṇiśiṣyānabhiṣicya, vajramaṇisamayamudrāṃ bandhayedanena hṛdayena oṃ vajramaṇi samaya vaṃ ।।

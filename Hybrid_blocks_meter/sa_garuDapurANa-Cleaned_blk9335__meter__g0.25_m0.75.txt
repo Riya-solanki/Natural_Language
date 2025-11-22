@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9335 | label: meter | g:0.25 m:0.75 ---
+
+kṣiptvānye ca dharāpṛṣṭhe kuṭhāreṇāvakartitāḥ ।
+krandamānāśca dṛśyante pūrvakarmavipākataḥ ।।

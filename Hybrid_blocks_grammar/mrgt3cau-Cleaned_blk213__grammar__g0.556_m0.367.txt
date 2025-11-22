@@ -1,0 +1,6 @@
+--- source: mrgt3cau-Cleaned.txt | block: 213 | label: grammar | g:0.556 m:0.367 ---
+
+Vṛtti:
+[mahāpātakasaṃyoge] `brahmahatyā surāpānaṃ steyaṃ gurvaṅganāgamaḥ। tatsamparkaśca' iti mahāpātakāni।
+ebhiranicchātaḥ saṃyoge [śivaikādaśikāyutaṃ] śivaikādaśikāyāḥ saṃhitāyā ayutaṃ japet। icchayā tu [prāṇasaṃyamī] saṃyataprāṇaḥ [phalamūlabhuk] phalamūlāśanaḥ tadeva daśaguṇaṃ japet।
+[tatsameṣu] etatsameṣūpapātakeṣu [prāṇāyatiṃ vinā] prāṇāyāmavarjyam [evameva syād] eṣa eva vidhiḥ।

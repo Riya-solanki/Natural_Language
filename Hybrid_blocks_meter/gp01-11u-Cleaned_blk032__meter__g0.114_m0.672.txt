@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 32 | label: meter | g:0.114 m:0.672 ---
+
+śva-snigdha-vṛnda-viṣaya-priyatā-mahimnā
+svedāṃśa eva kim u kṛṣṇatanor visārī ।
+vṛndasya kṛṣṇa-viṣaya-priyataiva kiṃ vā
+tad-bhāva-bhāvita-gatir bhavati sma kṛṣṇā ।। [[vasantatilakā]]

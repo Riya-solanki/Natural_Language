@@ -1,0 +1,14 @@
+--- source: gp01-11u-Cleaned.txt | block: 429 | label: grammar | g:0.517 m:0.215 ---
+
+mukham āpāṇḍu kucāgraṃ sphītaṃ jaṭharaṃ darottuṅgam ।
+abhajata karṇejapatāṃ garbhe vṛtte yaśodāyāḥ ।।
+yathā ca -
+vraja-rājñyāṃ sphuritātmā kṛṣṇaḥ sphurati sma loke' pi ।
+dīpaḥ sphaṭika-ghaṭī-bhāg antar bahir api vibhāti tat-tulyaḥ ।।
+kintu -
+jita-rasanā rasa-dhairyā gāmbhīryādi-pravīṇāpi ।
+spṛhitaṃ kiñcit kiñcid vraja-nṛpa-gṛhiṇī tadā cakre ।।
+yathā -
+aihata dohadam eṣā kṛṣṇāveśāviśat tṛṣṇā ।
+tulasī-saṃskṛta-ghṛta-yuk sa-sitaṃ sita-kānti-gandhi paramānnam ।।
+[] atha yogamāyā rohiṇyāḥ sāptamāsikaṃ garbhaṃ srastaṃ vidhāya devakyās tad-vidhaṃ taṃ tasyāṃ niyojayāmāsa । tataś ca labdha-sarva-samaya-sampad-daśe caturdaśe māsi śrāvaṇataḥ prāk śravaṇa-rkṣe samasta-sukha-rohiṇī rohiṇī guṇa-gaṇanayā suṣamaṃ sita-suṣamaṃ sutaṃ susrāva । sāndra-śubhratā-vibhrājamānatayā paurṇamāsī candramasam iva, darśita-vikrama-kramatayā siṃha-vadhūḥ śāvakam iva, nirmala-parimala-dhārādhāratayā nava-kamalinī dhavala-kamalam iva, sarva-śravaṇa-saṅgha-maṅgalatayā niravadya-vidyatā yaśaḥ-stomam iva ca ।

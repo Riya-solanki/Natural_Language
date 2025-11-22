@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5256 | label: meter | g:0.25 m:0.625 ---
+
+amṛtasrāviṇī divye manmātuḥ kṛṣṇa kuṇḍale 
+jahāra so asuro adityā vāñchaty airāvataṃ gajam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11220 | label: grammar | g:0.552 m:0.5 ---
+
+yamo api taṃ tatra ulūkhale tu nidhāya piṣṭaṃ sukhalaiḥ karoti ।
+yo vā paraṃ na karotyeva tāta pradakṣiṇaṃ devadevasya viṣṇoḥ ।।

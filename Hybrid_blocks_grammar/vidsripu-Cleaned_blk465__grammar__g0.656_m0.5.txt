@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 465 | label: grammar | g:0.656 m:0.5 ---
+
+yannāmāpi sukhākaroti kalayaty urvīm api dyām iva prāptir yasya yadaṅgasaṅgavidhinā kiṃ yan na nihnūyate ।
+antaḥ kiṃ ca sudhāsapatnam aniśaṃ jāgarti yad rāgiṇāṃ viśrambhāspadam adbhutaṃ kim api tat kānteti tattvāntaram ।।

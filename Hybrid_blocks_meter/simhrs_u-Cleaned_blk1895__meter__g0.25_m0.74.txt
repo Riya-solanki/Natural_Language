@@ -1,0 +1,12 @@
+--- source: simhrs_u-Cleaned.txt | block: 1895 | label: meter | g:0.25 m:0.74 ---
+
+nāṭikāyāḥ na pṛthag-rūpatvam-
+nāṭikā tv anayor bhedo na pṛthag rūpakaṃ bhavet ।
+prakhyātaṃ nṛpater vṛttaṃ nāṭakād āhṛtaṃ yataḥ ।। 
+buddhi-kalpita-vastutvaṃ tathā prakaraṇād api ।
+vimarśa-sandhi-rāhityaṃ bhedakaṃ cen na tan matam ।। 
+ratnāvalyādike lakṣye tat-sandher api darśanāt ।
+strī-prāya-caturaṅkādi-bhedakaṃ cen na tan matam ।। 
+eka-dvi-try-aṅka-pātrādi-bhedenānantatā yataḥ ।
+devī-vaśāt saṅgamena bhedaś cet tan na yujyate ।
+mālavikāgni-mitrādau nāṭikātva-prasaṅgataḥ ।।

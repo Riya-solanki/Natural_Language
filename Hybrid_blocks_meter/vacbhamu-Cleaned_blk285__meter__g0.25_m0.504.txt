@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 285 | label: meter | g:0.25 m:0.504 ---
+
+upaniṣatsvevāvagata ityavadhāraṇamamṛṣyamāṇa ākṣipati- nanvātmāiti ।
+sarvajanīnāhaṃpratyayaviṣayo hyātmā kartā bhoktā ca saṃsārī, tatraiva ca laukikaparīkṣakāṇāmātmapadaprayogāt ।
+ya eva laukikāḥ śabdāḥ, te eva vaidikāḥ,

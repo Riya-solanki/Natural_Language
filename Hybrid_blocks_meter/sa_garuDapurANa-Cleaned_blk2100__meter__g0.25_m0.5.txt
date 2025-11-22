@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2100 | label: meter | g:0.25 m:0.5 ---
+
+sapatnamadhye api kṛtādhivāsaṃ pramādavṛttāvapi vartamānam ।
+na padmarāgasya mahāguṇasya bhartāramāpatspṛśatīha kācit ।।

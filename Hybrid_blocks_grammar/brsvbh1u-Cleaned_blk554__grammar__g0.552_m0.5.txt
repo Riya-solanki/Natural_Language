@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 554 | label: grammar | g:0.552 m:0.5 ---
+
+yathā satyasaṃkalpatvādayo brahmaṇyupapadyante, evaṃ śārīre apyupapatsyante, śārīrasya brahmaṇo abhedāt ।
+śārīraguṇā iva manomayatvādayo brahmaṇītyata āha sūtrakāraḥ-anupapattestu na śārīraḥ ।। ।। ।।

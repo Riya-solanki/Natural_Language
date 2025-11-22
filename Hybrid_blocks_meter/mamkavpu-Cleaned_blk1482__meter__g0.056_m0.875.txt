@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1482 | label: meter | g:0.056 m:0.875 ---
+
+{praṇayisakhī salīlaparihāsarasādhigatair
+lalitaśirīṣapuṣpahananairapi tāmyati yat ।
+vapuṣi vadhāya tatra tava śastramupakṣipataḥ
+patatu śirasyakāṇḍayamadaṇḍa ivaiṣa bhujaḥ ।।}

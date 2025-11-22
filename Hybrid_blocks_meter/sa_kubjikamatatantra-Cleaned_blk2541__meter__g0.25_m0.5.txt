@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2541 | label: meter | g:0.25 m:0.5 ---
+
+anyathā kurute yas tu sa pāpī hy ātmabhedakaḥ 
+na duḥkhito na kopena kuryād utkrāntikāraṇam ।।

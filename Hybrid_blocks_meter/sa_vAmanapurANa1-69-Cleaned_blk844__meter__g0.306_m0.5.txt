@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 844 | label: meter | g:0.306 m:0.5 ---
+
+na teṣu deśeṣu vaseta buddhimān sadā nṛpo daṇḍarucistvaśaktaḥ ।
+jano api nityotsavabaddhavairaḥ sadā jigīṣuśca niśācarendra ।।

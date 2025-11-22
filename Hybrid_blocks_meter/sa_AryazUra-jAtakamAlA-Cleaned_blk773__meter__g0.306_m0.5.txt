@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 773 | label: meter | g:0.306 m:0.5 ---
+
+dharmānvayaṃ lokahitaṃ sa paśyaṃstadekakāryoṃ naralokapālaḥ ।
+sarvātmanā dharmapathe abhireme tasyopamardaṃ ca parairna sehe ।।

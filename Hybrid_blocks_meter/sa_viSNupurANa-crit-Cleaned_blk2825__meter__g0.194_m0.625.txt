@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2825 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ svavarṇadharmeṇa vṛttyarthaṃ ca dhanārjanam 
+kurvīta śraddhāsaṃpanno yajec ca pṛthivīpate ।।

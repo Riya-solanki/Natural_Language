@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2142 | label: meter | g:0.194 m:0.625 ---
+
+ākāśasaṃbhavair aśvaiḥ śabalaiḥ syandanaṃ yutam 
+samāruhya śanair yāti mandagāmī śanaiścaraḥ ।।

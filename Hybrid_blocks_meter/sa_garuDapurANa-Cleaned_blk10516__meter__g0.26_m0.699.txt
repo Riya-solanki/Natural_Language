@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10516 | label: meter | g:0.26 m:0.699 ---
+
+aṅgirā uvāca ।
+draṣṭuṃ na śakromi tava svarūpaṃ hyanantabāhūdaramastakaṃ ca ।
+anantasāhasrakirīṭajuṣṭaṃ mahārhanānābharaṇaiśca śobhitam ।
+etādṛśaṃ rūpamanantapāraṃ stotuṃ hyaśaktastu samosmi cātreḥ ।।

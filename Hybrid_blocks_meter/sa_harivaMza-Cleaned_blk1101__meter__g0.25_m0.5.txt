@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1101 | label: meter | g:0.25 m:0.5 ---
+
+vasudevāc ca devakyāṃ jajñe śaurir mahāyaśāḥ 
+kīrtimantaṃ suṣeṇaṃ ca bhadrasenam udāradhī । 
+mṛtyuṃ samardanaṃ bhadraṃ saṃkarṣaṇam ahīśvaram । 
+vipulaṃ teṣv aṣṭatamo svayam eva hariḥ kila । 
+rāmāc ca niśaṭho jajñe revatyāṃ dayitaḥ sutaḥ ।।

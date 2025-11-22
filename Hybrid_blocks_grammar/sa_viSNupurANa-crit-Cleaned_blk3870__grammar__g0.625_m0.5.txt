@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3870 | label: grammar | g:0.625 m:0.5 ---
+
+retodhāḥ putro nayati naradeva yamakṣayāt । tvaṃ cāsya dhātā garbhasya satyam āha śakuntalā ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4828 | label: meter | g:0.26 m:0.681 ---
+
+stambhanākṣepaṇaṃ svapnaḥ sandhibhañjanakampanam ।
+yadā tu dhamanīḥ sarvāḥ kruddho abhyeti muhurmuhuḥ ।
+tadāṅgamākṣipatyeṣa vyādhirākṣepaṇaḥ smṛtaḥ ।।

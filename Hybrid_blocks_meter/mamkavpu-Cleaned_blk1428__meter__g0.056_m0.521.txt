@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1428 | label: meter | g:0.056 m:0.521 ---
+
+{ekastridhā vasasi cetasi citramatra
+deva dviṣāṃ ca viduṣāṃ ca mṛgīdṛśāṃ ca ।
+tāpaṃ ca saṃmadarasaṃ ca ratiṃ ca puṣṇan
+śauryoṣmaṇā ca vinayena ca līlayā ca ।।}

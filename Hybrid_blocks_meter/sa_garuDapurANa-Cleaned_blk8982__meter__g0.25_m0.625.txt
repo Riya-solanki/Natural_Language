@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8982 | label: meter | g:0.25 m:0.625 ---
+
+kṛtaghnā nāstikā raudrāstathā sāhasikā narāḥ ।
+pañcayajñavinirmuktā mahādānaratāśca ye ।।

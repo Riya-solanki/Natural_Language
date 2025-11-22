@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 28 | label: grammar | g:0.569 m:0.5 ---
+
+droho yasya pitā kalāḥ kila catuḥṣaṣṭis tathā mātaraḥ prāṇāḥ sarvam alīkam artha-haraṇaṃ nāma pradhāna-vratam
+vikreyaṃ nijam aṅgam aṅgam api cāaṅgaḥ sahāyaḥ svayaṃ tasyāartha-śatāmakasya gaṇikā-vyādheḥ kim asty auṣadham ।।

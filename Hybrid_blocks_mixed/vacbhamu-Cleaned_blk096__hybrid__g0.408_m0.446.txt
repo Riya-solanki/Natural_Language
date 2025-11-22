@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 96 | label: hybrid | g:0.408 m:0.446 ---
+
+siddhāntastu- bhavedetadevaṃ yadyahaṃpratyayaḥ pramāṇam ।
+tasya tu uktena krameṇa śrutyādibādhakatvānupapatteḥ, śrutyādibhiśca samastatīrthakaraiśca prāmāṇyānabhyupagamādadhyāsatvam ।
+evaṃ ca vedāntā nāvivakṣitārthāḥ, nāpi upacaritārthāḥ, kiṃ tu uktakṣaṇāḥ ।
+pratyagātmaiva teṣāṃ mukhyor'thaḥ ।
+tasya ca vakṣyamāṇena krameṇa saṃdigdhatvāt prayojanatvācca yuktā jijñāsā- ityāśayavān sūtrakāraḥ tajjijñāsāmasūtrayat, athāto brahmajijñāsā iti ।

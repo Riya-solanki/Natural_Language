@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5491 | label: meter | g:0.25 m:0.625 ---
+
+sudhā ca haritālañca śaṅkhabhasma manaḥ śilā ।
+saindhavena sahaikatra chāgamūtreṇa peṣayet ।।

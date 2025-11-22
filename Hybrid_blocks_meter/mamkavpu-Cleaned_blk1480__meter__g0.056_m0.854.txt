@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1480 | label: meter | g:0.056 m:0.854 ---
+
+{vapuḥprādurbhāvādanumitamidaṃ janmani purā
+purāre na prāyaḥ kvacidapi bhavantaṃ praṇatavān ।
+naman muktaḥ saṃpratyahamatanuragre apyanatibhāṅ
+maheśa kṣantavyaṃ tadidamaparādhadvayamapi ।।}

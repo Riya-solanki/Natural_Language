@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 23 | label: grammar | g:0.615 m:0.5 ---
+
+śīlaṃ śilayatāṃ kulaṃ kalayatāṃ sadbhāvam abhyasyatāṃ vyājaṃ varjayatāṃ guṇaṃ gaṇayatāṃ dharme dhiyaṃ badhnatām ।
+kṣāntiṃ cintayatāṃ tamaḥ śamayatāṃ tattvaśrutiṃ śṛṇvatāṃ saṃsāre na paropakārasadṛśaṃ paśyāmi puṇyaṃ satām ।।

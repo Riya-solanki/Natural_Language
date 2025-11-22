@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5521 | label: meter | g:0.25 m:0.5 ---
+
+pītvā kṣīraṃ kṣaudrayutaṃ nāśayedasṛjaḥ strutim ।
+āṭarūpakamūlena bhagaṃ nābhiṃ ca lepayet ।
+sukhaṃ prasūyate nārī nātra kāryā vicāraṇā ।।

@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 155 | label: hybrid | g:0.359 m:0.442 ---
+
+lokasāmānyamanatītāḥ laukikāḥ, naisargikaṃ vainayikaṃ buddhyatiśayam aprāptāḥ।
+tadviparītāḥ parīkṣakāḥ, tarkeṇa pramāṇairarthaṃ parīkṣitumarhantīti।
+yathā yamarthaṃ laukikā budhyatante, tathā parīkṣakā api, so artho dṛṣṭāntaḥ।
+dṛṣṭāntavirodhena hi pratipakṣāḥ pratiṣeddhavyā bhavantīti, dṛṣṭāntasamādhitā na svapakṣāḥ sthāpanīyā bhavantīti, avayaveṣu codāharaṇāya kalpata iti ।।

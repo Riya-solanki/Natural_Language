@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 177 | label: meter | g:0.217 m:0.845 ---
+
+tuṭyādipratyayasyārthaḥ kālo māyāsamudbhavaḥ 
+kalayannā samutthānān niyatyā niyataṃ paśum ।।

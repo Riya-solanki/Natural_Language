@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10440 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ stutvā hariṃ sā tu tūṣṇīmāsa khagaśvara ।
+bhāratī tu tadā stotuṃ hariṃ samupacakrame ।।

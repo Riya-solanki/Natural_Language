@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 275 | label: meter | g:0.307 m:0.623 ---
+
+nāstītyahaṃ guro vakṣye tamabhyāgatamīśvaram ।
+prāṇatyāgaṃ kariṣye ahaṃ na tu nāsti jane kvacit ।।

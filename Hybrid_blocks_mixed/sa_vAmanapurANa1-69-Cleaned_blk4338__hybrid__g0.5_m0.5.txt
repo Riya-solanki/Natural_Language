@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4338 | label: hybrid | g:0.5 m:0.5 ---
+
+na kevalaṃ pramāṇena vāmano ayaṃ laghuḥ priye ।
+yena kramatrayaṃ maurkhyād yācate buddhito api ca ।।

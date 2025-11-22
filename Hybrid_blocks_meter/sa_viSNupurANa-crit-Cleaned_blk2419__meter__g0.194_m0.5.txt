@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2419 | label: meter | g:0.194 m:0.5 ---
+
+aṃśena tasyā jajñe asau yajñaḥ svāyaṃbhuve antare 
+ākūtyāṃ mānaso deva utpannaḥ prathame antare ।।

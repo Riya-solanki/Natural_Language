@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 215 | label: meter | g:0.26 m:0.5 ---
+
+athavāsya manyanupapadyati vyākṛto asmi satyādhiṣṭhāna vividhāni samṛddhyayanti 
+yadi anya vyākṛtaku manyati bodhisattvo jñātavya manyanasthito ayu alpabuddhiḥ ।।

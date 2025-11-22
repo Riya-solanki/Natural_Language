@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 82 | label: grammar | g:0.637 m:0.32 ---
+
+[] yasya ca samīpagānām ālaya-rūpasya kamalasya sarvataś caturasraṃ bhavati, tad idaṃ sarvaṃ vṛndāvanam iti vadanti । tad-bahir-antaraṃ samasta-dīpāyamānaḥ sa
+mahā-dvīpāyamānaḥ parama-suveśaḥ sarvaś ca deśaḥ śvetadvīpa ity ācakṣate goloka iti ca । yas tu bahir-bhāgaḥ sāgaravad aparicchedyas tatra vigata-śokā dhāritra-nibha-vicitra-lokāḥ salokā vidyante । patra-sthitāni tu vanāni keli-vṛndāvanānīti bhaṇanti । yathoktaṃ
+pāñcarātre - mahāvṛndāvanaṃ tatra kelivṛndāvanāni ca iti ।

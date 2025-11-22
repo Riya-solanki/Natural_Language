@@ -1,0 +1,7 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 108 | label: hybrid | g:0.308 m:0.374 ---
+
+atha vā bhāvanopasarjanadhātvarthaniṣpattyarthatvāt kārakāṇāṃ dhātvarthenaiva saṃbandhasiddhiḥ ।
+sa eva hi tāni svasiddhyartham apekṣate ।
+bhāvanāpi ca tathābhūtāny eva tāni gṛhṇātīty aviruddhaḥ sambandhaḥ ।
+kṛtyānāṃ tu praiṣavācitvāt saty api bhāvanānabhidhāne tāvat svārthaparyavasānaṃ nāsti yāvad aṃśatrayaparipūrṇā bhāvanā na labdhā ।
+kutaḥ ।

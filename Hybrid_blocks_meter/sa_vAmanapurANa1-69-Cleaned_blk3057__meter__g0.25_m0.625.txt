@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3057 | label: meter | g:0.25 m:0.625 ---
+
+visarjayāmāsa gaṇānanumānya yathārhataḥ ।
+gaṇāśca śaṅkaraṃ dṛṣṭvā svaṃ svaṃ vāhanamāsthitāḥ ।।

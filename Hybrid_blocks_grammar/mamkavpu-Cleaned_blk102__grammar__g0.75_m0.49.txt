@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 102 | label: grammar | g:0.75 m:0.49 ---
+
+yathā gaṅgāśabdaḥ srotasi sabādha iti taṭaṃ lakṣayati tadvat yadi taṭe api sabādhaḥ syāt tat prayojanaṃ lakṣayet ।
+na ca taṭaṃ mukhyo arthaḥ । na ca gaṅgāśabdārthasya taṭasya pāvanatvādyairlakṣaṇīyaiḥ saṃbandhaḥ । nāpi prayojane lakṣye kiñcit prayojanam । nāpi gaṅgāśabdastaṭamiva prayojanaṃ pratipādayitumasamarthaḥ ।।

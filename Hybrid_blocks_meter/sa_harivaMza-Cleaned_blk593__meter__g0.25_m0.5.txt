@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 593 | label: meter | g:0.25 m:0.5 ---
+
+śrāddhāni puṣṭikāmāś ca ye kariṣyanti mānavāḥ 
+tebhyaḥ puṣṭiṃ prajāś caiva dāsyanti pitaraḥ sadā ।।

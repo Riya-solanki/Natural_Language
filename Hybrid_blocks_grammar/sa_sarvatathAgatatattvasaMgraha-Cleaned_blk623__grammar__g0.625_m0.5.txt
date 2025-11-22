@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 623 | label: grammar | g:0.625 m:0.5 ---
+
+yasarvātmasitthāta hyetā dṛḍhabhāryāḥ svayaṃbhuvāṃ । sādhakeṣu dṛḍhaṃ raktā mā tyajeyuḥ patinnijam ।। iti ।।

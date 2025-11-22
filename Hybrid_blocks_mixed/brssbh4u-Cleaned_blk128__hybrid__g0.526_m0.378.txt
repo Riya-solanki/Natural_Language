@@ -1,0 +1,6 @@
+--- source: brssbh4u-Cleaned.txt | block: 128 | label: hybrid | g:0.526 m:0.378 ---
+
+na eṣa doṣaḥ ।
+saḥ adhyakṣa iti adhyakṣasya api antarāle api upasaṃkhyātatvāt ।
+yaḥ api hi srughnānmathurāṃ gatvā mathurāyāḥ pāṭaliputraṃ vrajati saḥ api srughnātpāṭaliputraṃ yāti iti śakyate vaditum ।
+tasmāt prāṇaḥ tejasi iti prāṇasaṃpṛktasya adhyakṣasya eva etat tejaḥ sahacariteṣu bhūteṣu avasthānam ।।

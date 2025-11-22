@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5183 | label: meter | g:0.194 m:0.75 ---
+
+dustaraṃ pratikūlaṃ hi pratisrota ivāmbhasaḥ 
+strīratnam upabhuṅkṣvemām apāpāṃ vigatajvaraḥ ।।

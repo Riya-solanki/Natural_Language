@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1239 | label: meter | g:0.194 m:0.521 ---
+
+indur lipta ivāñjanena jaḍitā dṛṣṭir mṛgīṇām iva
+pramlānāruṇimeva vidrumalatā śyāmeva hema-prabhā ।
+pāruṣyaṃ kalayā ca kokila-vadhū-kaṇṭheṣv iva prastutaṃ
+sītāyāḥ purataś ca hanta śikhināṃ barhāḥ sagarhā iva ।।

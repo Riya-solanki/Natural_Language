@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 812 | label: grammar | g:0.604 m:0.5 ---
+
+bhūbhārodvahanāya śeṣaśirasāṃ sārthena saṃnahyate viśvasya sthitaye svayaṃ sa bhagavān jāgarti devo hariḥ ।
+adyāpyatra ca nābhimānamasamaṃ rājaṃstvayā tanvatā viśrāntiḥ kṣaṇamekameva na tayorjāteti ko ayaṃ kramaḥ ।।

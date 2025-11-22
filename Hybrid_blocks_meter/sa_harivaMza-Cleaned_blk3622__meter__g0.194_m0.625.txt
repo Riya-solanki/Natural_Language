@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3622 | label: meter | g:0.194 m:0.625 ---
+
+abhidudrāva rāmaṃ tu jarāsaṃdho mahābalaḥ 
+savyaṃ maṇḍalam āvṛtya baladevas tu dakṣiṇam ।।

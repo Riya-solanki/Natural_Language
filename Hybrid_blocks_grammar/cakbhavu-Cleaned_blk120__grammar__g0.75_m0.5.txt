@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 120 | label: grammar | g:0.75 m:0.5 ---
+
+Viv prāṇā eva teṣāṃ vā sarvasvam āṇavaṃ svarūpaṃ, tan nivedayāmimāyīyapārimityābhāsanirāsasamupalabdhasatatasiddhaparapāripūrṇyabṛṃhitatayā niḥśeṣato vedayāmi । mokṣalakṣmyā bhavaunmukhyaparāvṛttāyāḥ saṃviddevyāḥ karāmbhasi paramavīciniḥṣyande jātaṃ yat pātram pātatrāṇātmakam aviluptam avadhānaṃ, tadarpitaṃ kṛtvā, saṃskṛtāṃ kṛtaśāstrācāryasaṃpradāyopaskarām । tad evaṃ māyopakalpitatattadavacchedavicchedikramākramacakracāramahāsāmarasyasamāpattipratipādanena yad eva ``namaḥ sūryakalā'' ityādinā prakrāntaṃ tad eva paryavasitam ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 548 | label: meter | g:0.0 m:1.0 ---
+
+atha saptadaśaṃ pūraṇam

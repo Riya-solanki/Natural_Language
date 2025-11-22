@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1810 | label: meter | g:0.25 m:0.5 ---
+
+yathendriyaiś ca bhūtaiś ca paramātmā vidhīyate 
+tathā vedaiś ca devaiś ca lokaiś ca vidito hariḥ ।।

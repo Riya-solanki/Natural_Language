@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 244 | label: hybrid | g:0.459 m:0.266 ---
+
+atrocyate-kaḥ punarayaṃ bhedo nāma, yaḥ sahābhedenaikatra bhavet ? parasparābhāva iti cet, kimayaṃ kāryakāraṇayoḥ kaṭakahāṭakayorasti na vā ? na cet, ekatvamevāsti, na ca bhedaḥ ।
+asti cet bheda eva, nābhedaḥ ।
+na ca bhāvābhāvayoravirodhaḥ, sahāvasthānāsaṃbhavāt ।
+saṃbhave vā kaṭakavardhamānayorapi tattvenābhedaprasaṅgaḥ, bhedasyābhedāvirodhāt ।
+api ca kaṭakasya hāṭakādabhede yathā hāṭakātmanā kaṭakamukuṭakuṇḍalādayo na bhidyante evaṃ kaṭakātmanāpi na bhidyeran, kaṭakasya hāṭakādabhedāt ।
+tathā ca hāṭakameva vastusat na kaṭakādayaḥ, bhedasyāpratibhāsanāt ।

@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 362 | label: meter | g:0.115 m:0.691 ---
+
+yathā bhrāntijñānasyarūpotprekṣā tathā saṃśayajñānasvarūpaḥ saṃdeho'pīti darśayitumāha 
+upamānopameyasaṃśayaḥ saṃdehaḥ ।।
+upamānopameyayoratiśayārthaṃ yaḥ kriyate saṃśayaḥ sa saṃdehaḥ । yathā

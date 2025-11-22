@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 333 | label: grammar | g:0.667 m:0.5 ---
+
+śuddhabodhānāṃ bodhatvanityatvādvar{nityatvādlemcorr;nityatvādhEd} bhede apy anyonyabhedas tathaiveśvareṇa nirmāṇān nānyathā । te ca sāṃkhyapuruṣaprāyā vijñānakevalā ity ucyate ।।

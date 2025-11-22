@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 296 | label: grammar | g:0.628 m:0.102 ---
+
+pāśāvṛtadṛkkriyāvṛttiṣv aṇuṣu tattatpāśaśaktyanuvartanadvāreṇa janmadrāvaṇādiduḥkhadāyitvād vāmo api parameśvaras tadabhyudayāyaiva pravṛttatvān na duḥkhahetur avagamyate yathā vaidyaḥ kṣāraśastrādinā rogiṇaṃ vyathayann api koṭau prānte abhimatasyārogyalakṣaṇasyārthasya sādhakatvāt vyathāheturapi na duḥkhadāyitvenaiva jñāyate ।। 
+nanv atyantaśuddhasvarūpasya bhagavataḥ kiṃ pāśadharmānuvartanenety āha ।।

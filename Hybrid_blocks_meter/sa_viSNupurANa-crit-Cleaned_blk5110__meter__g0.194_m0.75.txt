@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5110 | label: meter | g:0.194 m:0.75 ---
+
+vivāhārthaṃ tataḥ sarve jarāsaṃdhamukhā nṛpāḥ 
+bhīṣmakasya purīṃ jagmuḥ śiśupālapriyaiṣiṇaḥ ।।

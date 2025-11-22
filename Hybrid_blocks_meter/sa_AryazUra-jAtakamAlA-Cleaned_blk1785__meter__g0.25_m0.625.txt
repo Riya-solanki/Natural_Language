@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1785 | label: meter | g:0.25 m:0.625 ---
+
+anāgasaṃ pravrajitamavadhīd brāhmaṇaṃ nṛpaḥ ।
+iti te matkṛte mā bhūdyaśo vācyavijarjaram ।।

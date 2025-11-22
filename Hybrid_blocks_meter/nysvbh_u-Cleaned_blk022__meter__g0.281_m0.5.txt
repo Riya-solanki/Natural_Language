@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 22 | label: meter | g:0.281 m:0.5 ---
+
+tarko na pramāṇasaṃguhāto, na pramāṇāntaram, pramāṇānāmanugrāhakastatvajñānāya kalpate।
+tasyodāharam, kimidaṃ janma kṛtakena hetunā nirvartyate, āhosvidakṛtakena, athākasmikamiti ? evamavijñātatatve arthe kāraṇopapatyā

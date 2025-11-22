@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1152 | label: meter | g:0.306 m:0.5 ---
+
+madviprayogastvatha śokaheturmayā samaṃ kiṃ na vane vasanti ।
+gehāni cetkāntatarāṇi mattaḥ ko nvādaro bāṣpaparivyayena ।।

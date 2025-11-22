@@ -1,0 +1,9 @@
+--- source: nysvbh_u-Cleaned.txt | block: 718 | label: meter | g:0.053 m:0.712 ---
+
+tṛṇādi sarpad dravyaṃ kāce abhrapaṭale
+vā pratihataṃ dṛṣṭam, avyavahitena saṃnikṛṣyate
+vyāhanyate vai prāptirvyavadhāneneti, yadi
+ca raśmyarthasaṃnikarṣo grahaṇahetuḥ syāt ? na vyavahitasya saṃnikarṣa ity agrahaṇaṃ syāt,
+asti ceyaṃ kācābhrapaṭalasphaṭikāntaritopalabdhaḥ
+sā jñāpiyati aprāpyakārīṇīndriyāṇi ata evābhautikāni prāpyakāritvaṃ hi bhautikadharma
+iti ।।

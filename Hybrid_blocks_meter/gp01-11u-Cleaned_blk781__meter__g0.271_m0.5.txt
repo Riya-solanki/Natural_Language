@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 781 | label: meter | g:0.271 m:0.5 ---
+
+aho bahir ivekṣyate jagad idaṃ mukhābhyantare
+śiśos tad anu bhūr iyaṃ bhuvi ca māthuraṃ maṇḍalam ।
+iha vraja-kulaṃ yad anv api mayā dhṛto bālakaḥ
+sa eva tad aho kathaṃ kim iva hanta kiṃ sidhyati ।। [pṛthvī]

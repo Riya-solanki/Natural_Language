@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 837 | label: meter | g:0.087 m:0.812 ---
+
+adho-mukhī-kṛtya balād udūkhalaṃ
+niviśya tasyopari cañcalekṣaṇam ।
+kīśāya sarpir dadataṃ prasūḥ sutaṃ
+vīkṣya smitaṃ prāpa tathā ca vismitam ।। [upajāti ]

@@ -1,0 +1,5 @@
+--- source: brssbh4u-Cleaned.txt | block: 229 | label: hybrid | g:0.489 m:0.368 ---
+
+tu śabda āśaṅkā vyāvṛttyarthaḥ ।
+parabrahmasāmīpyāt aparasya brahmaṇaḥ tasmin api brahmaśabdaprayogo na virudhyate ।
+param eva hi brahma viśuddha upādhisaṃbandhaṃ kvacit kaiścit vikāradharmaiḥ manomayatvādibhiḥ upāsanāya upadiśyamānam aparam iti sthitiḥ ।।

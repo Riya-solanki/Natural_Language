@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 921 | label: hybrid | g:0.531 m:0.5 ---
+
+pṛthugaganakabandhaskandhacakraṃ kim etat kim u rudhirakapālaṃ kālakāpālikasya ।
+lalalabharitamantaḥ kiṃ nu tārkṣyāṇḍakhaṇḍaṃ janayati hi vitarkān sāṃdhyam arkasya bimbam ।।

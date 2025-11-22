@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1238 | label: meter | g:0.306 m:0.5 ---
+
+tataḥ sa kopādatha tīkṣṇaśṛṅgaḥ kṣipraṃ girīn bhūmimaśīrṇayacca ।
+saṃkṣobhayayayaṃstoyanidhīn ghanāṃś ca vidhvaṃsayan prādvatātha gurgām ।।

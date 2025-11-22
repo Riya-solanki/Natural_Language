@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3236 | label: meter | g:0.194 m:0.625 ---
+
+brahmacārī gṛhasthaś ca vānaprasthas tathāśramāḥ 
+parivrāḍ vā caturtho atra pañcamo nopapadyate ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 69 | label: grammar | g:0.75 m:0.5 ---
+
+tad evaṃbhūte mātṛpitṛsambandhasambhūte agnīṣomātmake raktaretasī kusumasamayād anantaraṃ jananījaṭhare retaḥ kalilībhavati tato budbudam tataḥ peśī tato ghanaḥ yāvad aṅgaparigrahaḥ aṅgavyaktiḥ saṃvidullāsaḥ sarvāṅgasampattir ojaḥsaṃcāraḥ sukhaduḥkhasaṃvittir iti yāvat prajāyate ।।

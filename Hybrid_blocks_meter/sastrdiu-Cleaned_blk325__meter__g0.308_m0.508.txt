@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 325 | label: meter | g:0.308 m:0.508 ---
+
+syānmatam, yadabhāvavādino abhāvajñānasya kāraṇaṃ tadevāsmākaṃ vyavahārakāraṇaṃ bhavatviti ।
+naivaṃ vaktuṃ śakyam ।
+mama hi dṛśyādarśanamabhāvajñānakāraṇam, adarśanaṃ ca darśanābhāvo nacāsau bhavatāṅgīkṛtaḥ, abhāvābhyupagamaprasaṅgāt ।
+pramāṇābhāvāṅgīkāre vā kimaparāddhaṃ prameyābhāvena ।।

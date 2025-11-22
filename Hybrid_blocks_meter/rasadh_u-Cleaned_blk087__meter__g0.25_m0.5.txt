@@ -1,0 +1,3 @@
+--- source: rasadh_u-Cleaned.txt | block: 87 | label: meter | g:0.25 m:0.5 ---
+
+bhūmau lagati yatkṣipraṃ taddhānyābhrakam ucyate ।

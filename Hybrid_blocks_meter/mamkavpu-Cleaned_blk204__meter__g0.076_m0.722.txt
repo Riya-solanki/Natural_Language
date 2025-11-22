@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 204 | label: meter | g:0.076 m:0.722 ---
+
+{tvāmālikhya praṇayakupitāṃ dhāturāgaiḥ śilāyā-
+mātmānaṃ te caraṇapatitaṃ yāvadicchāmi kartum ।
+asraistāvanmuhurupacitairdṛṣṭirālupyate me
+krūrastasminnapi na sahate saṃgamaṃ nau kṛtāntaḥ ।।}

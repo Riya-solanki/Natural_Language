@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 263 | label: meter | g:0.194 m:1.0 ---
+
+{nirupādānasaṃbhāramabhittāveva tanvate ।
+jagaccitraṃ namastasmai kalāślādhyāya śūline ।।}

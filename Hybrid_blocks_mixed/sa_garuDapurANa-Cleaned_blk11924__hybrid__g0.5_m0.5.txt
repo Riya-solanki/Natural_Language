@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11924 | label: hybrid | g:0.5 m:0.5 ---
+
+mayā sārdhaṃ sadguruṃ prāpya samyagvairāgyapūrvaṃ tattvamātraṃ viditvā ।
+tenaiva mokṣaṃ prāpnumo nārjavairyattāryā viṣṇoḥ saṃprasādācca lakṣmyāḥ ।।

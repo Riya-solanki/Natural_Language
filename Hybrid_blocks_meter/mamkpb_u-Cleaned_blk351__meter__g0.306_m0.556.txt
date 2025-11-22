@@ -1,0 +1,8 @@
+--- source: mamkpb_u-Cleaned.txt | block: 351 | label: meter | g:0.306 m:0.556 ---
+
+eteṣāṃ sādhāraṇadharmādīnāma dṛṣṭo antaḥ niśvayo yatra sa dṛṣṭāntaḥ ।
+tvayi dṛṣṭa eva tasyā nirvāti mano manobhavajvalitam ।
+āloke hi himāṃsorvikasati kusumaṃ kumuddhatyāḥ ।।
+eṣa sādharmyeṇa ।
+vaidharmyeṇa tu tavāhave sāhasakarmaśarmaṇaḥ karaṃ kṛpāṇāntikamāninīṣataḥ ।
+bhaṭāḥ pareṣāṃ viśarārutāmaguḥ, dadhatyavāte sthiratāṃ hi pāṃsavaḥ ।।

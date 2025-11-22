@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1559 | label: grammar | g:0.708 m:0.5 ---
+
+vidyāvān api janmavān api tathā yukto api cānyair guṇair yan nāpnoti manaḥ samīhitaphalaṃ daivasya sā vācyatā ।
+etāvat tu hṛdi vyathāṃ vitanute yat prāktanaiḥ karmabhir lakṣmīṃ prāpya jaḍo apy asādhur api ca svāṃ yogyatāṃ manyate ।।

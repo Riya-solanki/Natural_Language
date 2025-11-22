@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1755 | label: grammar | g:0.625 m:0.5 ---
+
+atha vajrakaumārīmāṃ svakarmasamayāmabhāṣat oṃ vajrakaumārī śīghramāveśaya ghaṇ[ṭāśabdena] vajrapāṇipriye vajrasamayamanusmara raṇa raṇa hūṃ phaṭ ।।

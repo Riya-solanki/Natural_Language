@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6212 | label: meter | g:0.25 m:0.5 ---
+
+mattā mabhasagairyuktā narajā go manoramā ।
+paṅkticchandaḥ samākhyātaṃ jasatā gāvupasthitam ।।
+tau jo gāvindravajrā syājjatajgā gupapūrvikā ।।
+upajātayo anyādyantāḥ sumukhī najajā lagau ।
+bhabhabhā gau dodhakaṃ syācchālinī matatā gagau ।।

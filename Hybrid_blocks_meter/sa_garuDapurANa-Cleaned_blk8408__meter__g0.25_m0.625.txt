@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8408 | label: meter | g:0.25 m:0.625 ---
+
+uccairhāheti vilapannīyate yamakiṅkaraiḥ ।
+sthāne śrāddhaṃ prakurvīta tathā cekādaśe ahani ।।

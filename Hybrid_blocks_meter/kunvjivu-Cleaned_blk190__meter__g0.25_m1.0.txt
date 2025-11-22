@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 190 | label: meter | g:0.25 m:1.0 ---
+
+śrutipeśalatāśāli susparśamiva cetasā ।
+svabhāvamasṛṇacchāyamābhijātyaṃ pracakṣate ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 800 | label: grammar | g:0.604 m:0.5 ---
+
+savyādheḥ kṛśatā kṣatasya rudhiraṃ daṣṭasya lālāsravaḥ sarvaṃ naitad ihāsti kevalam ayaṃ pānthas tapasvī mṛtaḥ ।
+ā jñātaṃ madhulampaṭair madhukarair ābaddhakolāhale nūnaṃ sāhasikena cūtamukule dṛṣṭiḥ samāropitā ।।

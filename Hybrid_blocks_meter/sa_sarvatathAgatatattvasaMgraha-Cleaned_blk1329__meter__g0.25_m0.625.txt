@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1329 | label: meter | g:0.25 m:0.625 ---
+
+sūkṣmavajraṃ dṛḍhīkṛtya vajrahuṃkārayogataḥ ।
+huṃkāraṃ yojayedyasya tasya naśyati jīvitaṃ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9826 | label: meter | g:0.25 m:0.5 ---
+
+cātako jalahartā syāddhānyahartā ca mūṣikaḥ ।
+aprāptayauvanāṃ sevan bhavetsarpa iti śrutiḥ ।।

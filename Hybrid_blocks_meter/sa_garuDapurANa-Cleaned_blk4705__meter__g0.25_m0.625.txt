@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4705 | label: meter | g:0.25 m:0.625 ---
+
+yaḥ pittarogī seveta pittalaṃ tasya kāmalam ।
+koṣṭhaśā khodgataṃ pittaṃ dagdhvāsṛṅmāṃsamāharet ।।

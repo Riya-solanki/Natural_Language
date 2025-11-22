@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3125 | label: meter | g:0.25 m:0.5 ---
+
+tvaṃ tu śakrasamaḥ putro yasyās tvatsadṛśo guṇaiḥ 
+pareṣām apy abhayado na sā śocitum arhati ।।

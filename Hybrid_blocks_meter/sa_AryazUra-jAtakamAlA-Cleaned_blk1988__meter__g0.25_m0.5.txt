@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1988 | label: meter | g:0.25 m:0.5 ---
+
+mā cāpayātavyanayo ayamasyetyevaṃ viśaṅkākulamānaso bhūḥ ।
+anyo hi mārgo nṛpa madvidhānāmanyādṛśastvanyajanābhipannaḥ ।।

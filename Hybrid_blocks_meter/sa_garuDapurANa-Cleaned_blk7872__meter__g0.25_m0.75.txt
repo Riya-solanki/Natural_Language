@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7872 | label: meter | g:0.25 m:0.75 ---
+
+viśvarūpaṃ vanditīrthaṃ ratneśaḥ kuhakācalaḥ ।
+naranārāyaṇaṃ dṛṣṭvā mucyate pāpakoṭibhiḥ ।।

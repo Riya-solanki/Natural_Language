@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 532 | label: meter | g:0.25 m:0.625 ---
+
+{sādhanaṃ sumahadyasya yannānyasya vilokyate ।
+tasya dhīśālinaḥ ko anyaḥ sahatārālitāṃ bhruvam ।। }

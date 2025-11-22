@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1404 | label: grammar | g:0.635 m:0.5 ---
+
+yad apahṛtam anāryais tasya māṃsaṃ śarīrād yadi tad apariśeṣaṃ piṇḍitaṃ syāt kathaṃ cit ।
+girim api sa sumeruṃ laṅghayen māṃsarāśir na ca manasi viṣado na ca khedo babhūva ।।

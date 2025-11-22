@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 128 | label: grammar | g:0.552 m:0.5 ---
+
+prāptālambā parijanakaraiḥ prāpya vā citraśālāṃ mugdhā svasyāścaraṇapatitaṃ veti taṃ māṃ nirīkṣya ।
+ehyuttiṣṭha priya na kupitāsmīti bāṣpākulākṣī gāḍhāśleṣapracalitakarā rudhyamānā sakhībhiḥ ।।

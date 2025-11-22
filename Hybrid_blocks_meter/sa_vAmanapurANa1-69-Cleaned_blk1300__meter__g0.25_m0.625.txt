@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1300 | label: meter | g:0.25 m:0.625 ---
+
+samunnataḥ ṣaḍbhirudāravīryastribhirgabhīrastripu ca pralambaḥ ।
+raktastathā pañcasu rājaputraḥ kṛṣṇaścaturbhistribhirānato api ।।

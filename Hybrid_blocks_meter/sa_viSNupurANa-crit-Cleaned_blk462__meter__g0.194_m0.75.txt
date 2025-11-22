@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 462 | label: meter | g:0.194 m:0.75 ---
+
+tataḥprabhṛti niḥśrīkaṃ saśakraṃ bhuvanatrayam 
+maitreyāsīd apadhvastaṃ saṃkṣīṇauṣadhivīrudham ।।

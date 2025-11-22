@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2520 | label: meter | g:0.194 m:0.5 ---
+
+pradhānam ātmayoniś ca guhāsattvaṃ ca śabdyate 
+avibhāgaṃ tathā śukram akṣaraṃ bahudhātmakam ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 472 | label: meter | g:0.25 m:0.625 ---
+
+athāsāṃ karmamudrāṇāṃ vajrakarmāṇyanekadhā ।
+jñānamuṣṭyāṃ tu baddhāyāṃ buddhajñānaṃ samāviśet ।।

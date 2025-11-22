@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 432 | label: meter | g:0.194 m:0.75 ---
+
+ūrdhvaṃ kalāyā vidyādhaḥ śrūyante gahanādhipāḥ 
+tadantarālametāvad iti dhījātra lakṣaṇā ।।

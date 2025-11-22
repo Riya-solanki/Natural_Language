@@ -1,0 +1,17 @@
+--- source: brssgo2u-Cleaned.txt | block: 336 | label: meter | g:0.311 m:0.529 ---
+
+satyaṃ dṛśyate ।
+bhedapratītestu tatrāgnidhūmayoranyatvaṃ niścīyate ।
+iha tu śuklaḥ kambalo rohiṇī dhenurnīlamutpalamiti dravyasyaiva tasya tasya tena tena viśeṣeṇa pratīyamānatvānnaiva dravyaguṇayoragnidhūmayoriva bhedapratītirasti ।
+tasmāddravyātmakatā guṇasya ।
+etena karmasāmānyaviśeṣasamavāyānāṃ dravyātmakatā vyākhyātā ।
+guṇā nāṃ dravyādhīnatvaṃ dravyaguṇayorayutasiddhatvāditi yaducyeta, tatpunarayutasiddhatvamapṛthagdeśatvaṃ vā syādapṛthakkālatvaṃ vāpṛthaksvabhāvatvaṃ vā ।
+sarvathāpi nopapadyate ।
+apṛthakagdeśatve tāvatsvābhyupagamo virudhyeta ।
+katham ।
+tantvārabdho hi paṭaṣṭantudeśo abhyupagamyate na paṭadeśaḥ ।
+paṭasya tu guṇāḥ śuklatvādayaḥ paṭadeśā abhyupagamyante na tantudeśāḥ ।
+tathācāhuḥ - adravyāṇi dravyāntaramārabhante guṇāśca guṇāntaram' iti ।
+tantavo hi kāraṇadravyāṇi kāryadravyaṃ paṭamārabhante ।
+tantugatāśca guṇāḥ śuklādayaḥ kāryadravye paṭe śuklādiguṇāntaramārabhanta iti hi te abhyupagacchanti ।
+so abhyupagamo dravyaguṇayorapṛthagdeśatve abhyupagamyamāne bādhyeta ।

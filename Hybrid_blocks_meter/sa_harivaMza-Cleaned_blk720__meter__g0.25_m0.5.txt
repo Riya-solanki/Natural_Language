@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 720 | label: meter | g:0.25 m:0.5 ---
+
+tata eva hi dharmasya buddhir nirvartate śanaiḥ 
+pīḍayāpy atha dharmasya kṛte śrāddhe purānagha ।। 
+yat prāptaṃ brāhmaṇaiḥ pūrvaṃ tan nibodha narottama । 
+tato ahaṃ nātidharmiṣṭhān kurukṣetre pitṛvratān 
+sanatkumāranirdiṣṭān apaśyaṃ sapta vai dvijān ।। 
+divyena cakṣuṣā tena yān uvāca purā vibhuḥ । 
+vāgduṣṭaḥ krodhano hiṃsraḥ piśunaḥ kavir eva ca 
+khasṛmaḥ pitṛvartī ca nāmabhiḥ karmabhis tathā ।।

@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 419 | label: meter | g:0.271 m:0.675 ---
+
+nāpi svārthamātraparataiva padānām ।
+tathā sati na vākyārthapratyayaḥ syāt ।
+na hi pratyekaṃ svapradhānatayā guṇapradhānabhāvarahitānāmekavākyatā dṛṣṭā ।
+tasmātpadānāṃ svārthamabhidadhatāmeka

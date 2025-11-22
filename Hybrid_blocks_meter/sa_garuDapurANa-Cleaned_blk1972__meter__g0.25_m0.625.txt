@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1972 | label: meter | g:0.25 m:0.625 ---
+
+ūrdhve mṛtyuradhaḥ śāntistiryak coccāṭayetsudhīḥ ।
+madhye stambhaṃ vijānīyānmokṣaḥ sarvatra sarvage ।।

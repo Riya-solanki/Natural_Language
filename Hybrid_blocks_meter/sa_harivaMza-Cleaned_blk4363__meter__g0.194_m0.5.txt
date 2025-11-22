@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4363 | label: meter | g:0.194 m:0.5 ---
+
+prasajjantīṃ tu tāṃ devīṃ babhāṣe cāruhāsinīm 
+mātṛbhāvaṃ parityajya kim evaṃ vartase anyathā ।।

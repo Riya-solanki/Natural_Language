@@ -1,0 +1,34 @@
+--- source: vampsm_u-Cleaned.txt | block: 1 | label: meter | g:0.25 m:0.724 ---
+
+devadeva uvāca
+sarasvatīdṛṣadvatyorantare kurujāṅgale ।
+sunipravaramāsīnaṃ purāṇaṃ lomaharṣaṇam ।
+aṣṭacchanta dvijavarāḥ prabhāvaṃ sarasastadā ।।
+pramāṇaṃ saraso brūhi tīrthānāṃ ca viśeṣataḥ ।
+devatānāṃ ca māhātmyamutpattiṃ vāmanasya ca ।।
+etacchrutvā vacasteṣāṃ romaharṣasamanvitaḥ ।
+praṇipatya purāṇarṣiridaṃ vacanamavravīt ।।
+lomaharṣaṇa uvāca
+brahmaṇamagryaṃ kamalāsanasthaṃ viṣṇuṃ tathā lakṣmisamanvitaṃ ca ।
+rudraṃ ca devaṃ praṇipatya mūrdhnā tīrthaṃ mahad brahmasaraḥ pravakṣye ।।
+rantukādaujasaṃ yāvat pāvanācca caturmukham ।
+saraḥ saṃnihitaṃ proktaṃ brahmaṇā pūrvameva tu ।।
+kalidvāparayormadhye vyāsena ca mahātmanā ।
+saraḥpramāṇaṃ yatproktaṃ tacchṛṇudhvaṃ dvijottamāḥ ।।
+viśveśvarādasthipuraṃ rathā kanyā jaradgavī ।
+yāvadoghavatī proktā tāvatsaṃnihitaṃ saraḥ ।।
+mayā śrutaṃ pramāṇaṃ yat paṭhyamānaṃ tu vāmane ।
+tacchṛṇudhvaṃ dvijaśreṣṭhāḥ puṇyaṃ vṛddhikaraṃ mahat ।।
+viśveśvarād devavarā nṛpāvanāt sarasvatī ।
+saraḥ saṃnihitaṃ jñeyaṃ samantādarthayojanam ।।
+etadāśritya devāśca ṛṣayaśca samāgatāḥ ।
+sevante muktikāmārthaṃ svargārthe cāpare sthitāḥ ।।
+brahmaṇā sevitamidaṃ sṛṣṭikāmena yoginā ।
+viṣṇunā sthitikāmena harirūpeṇa sevitam ।।
+rudreṇa ca saromadhyaṃ praviṣṭena mahātmanā ।
+sevya tīrthaṃ mahātejāḥ sthāṇutvaṃ prāptavān haraḥ ।।
+ādyaiṣā brahmaṇo vedistato rāmahṛdaḥ smṛtaḥ ।
+karuṇā ca yataḥ kṛṣṭaṃ kurukṣetraṃ tataḥ smṛtam ।।
+tarantukārantukayoryadantaraṃ yadantaraṃ rāmahṛdāccaturmukham ।
+etkurukṣetrasamantapañcakaṃ pitāmahasyottaravedirucyate ।।
+iti śrīvāmanapurāṇe saromāhātmye prathamo adhyāyaḥ

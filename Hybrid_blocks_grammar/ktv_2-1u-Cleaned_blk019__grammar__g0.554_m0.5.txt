@@ -1,0 +1,7 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 19 | label: grammar | g:0.554 m:0.5 ---
+
+prāk tāvat pramāṇalakṣaṇād vedārthavicārātmakatvān na kasyacid bhedalakṣaṇādeḥ prastāva ity uttarakālam ārambhaḥ ।
+tatrāpi śeṣaśeṣitvaṃ prayojakāprayojakatvaṃ kramaś ca bhinnānāṃ bhavatīti na bhedalakṣaṇāt prāg ārabhyate ।
+tathādhikāraḥ karmasvarūpe avadhārite tadyogyatayā śakyo nirūpayitum iti pañcāpi lakṣaṇāni pratīkṣate ।
+tathottaraḥ ṣaṭko atideśaviṣayatvād upadeśajñānādhīnasiddhiḥ samastaḥ samastaṃ pūrvaṣaṭkam apekṣate ।
+tataś ca pariśeṣasiddho ayaṃ bhedalakṣaṇasya saṃbandha ity atrārabhyate ।

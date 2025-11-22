@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1219 | label: grammar | g:0.534 m:0.086 ---
+
+vikhyātā hṛdayā nāma śatayojanagāminī 
+bhojasya vaḍavā rājan yayā kṛṣṇam ayodhayat ।। 
+tataḥ kruddhau bhojakṛṣṇau tvaritau tu mahābalau । vañcayitvā tataḥ kṛṣṇaṃ śatadhanvātibuddhimān । pūrvāṃ diśaṃ jagāmāśu hayayā vātavegayā । atha drutam agāt kṛṣṇo rathena rathināṃ varaḥ । balena sahito rājan prayayau tasya mārgaṇe । 
+kṣīṇāṃ javena hṛdayām adhvanaḥ śatayojane 
+dṛṣṭvā rathasya svāṃ vṛddhiṃ śatadhanvānam ārdayat ।।

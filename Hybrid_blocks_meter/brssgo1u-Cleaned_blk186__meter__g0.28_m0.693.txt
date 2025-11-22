@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 186 | label: meter | g:0.28 m:0.693 ---
+
+FN yasmādityasya tasmāditi vyavahitena saṃbandhaḥ ।
+yannirdhāritaṃ tadeveha gīyata iti yojanā ।
+ekārthatvesatyupāyopeyatvayogādityarthaḥ ।

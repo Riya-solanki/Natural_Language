@@ -1,0 +1,10 @@
+--- source: mamkavpu-Cleaned.txt | block: 1034 | label: meter | g:0.056 m:0.625 ---
+
+{citte cihutṭadi ṇa ṭuṭṭadi sā guṇesuṃ
+sejjāsu loṭṭadi visappadi dimuṃhesuṃ ।
+bolammi vaṭṭadi pavaṭṭadi kavvabandhe
+jhāṇeṇa ṭuṭṭadi ciraṃ taruṇī taraṭṭī ।।}
+[citte vighaṭate na truṭyati sā guṇeṣu
+śayyāsu luṭhati visarpati diṅmukheṣu ।
+vacane vartate pravartate kāvyabandhe
+dhyānena truṭyati ciraṃ taruṇī pragalbhā ।।]

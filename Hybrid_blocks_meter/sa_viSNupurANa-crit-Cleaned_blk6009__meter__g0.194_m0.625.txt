@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6009 | label: meter | g:0.194 m:0.625 ---
+
+aṇuprāyāṇi dhānyāni ājaprāyaṃ tathā payaḥ 
+bhaviṣyati kalau prāpte uśīraṃ cānulepanam ।।

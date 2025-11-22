@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3001 | label: meter | g:0.302 m:0.806 ---
+
+ripūndhānyapradānādyaiḥ snehādyairvāpyupakramet ।
+kriyamāṇopakāre ca mṛte vipre na pātakam ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 540 | label: hybrid | g:0.275 m:0.463 ---
+
+tvayā dāyādavān asmi kṛtārtho mutra ceha ca 
+satputreṇa tvayā putra dharmajñena vipaścitā ।। 
+yathā caturthaṃ dharmasya rakṣitā labhate phalam । pāpasya hi tathā mūḍhaḥ phalaṃ prāpnoty arakṣitā । 
+mayā ca tava jijñāsā prayuktaiṣā dṛḍhavrata 
+vyavasthānaṃ ca dharmeṣu kartuṃ lokasya cānagha ।।

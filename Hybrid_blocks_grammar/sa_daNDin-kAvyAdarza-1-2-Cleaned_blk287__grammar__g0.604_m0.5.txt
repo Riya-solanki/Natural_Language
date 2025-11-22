@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 287 | label: grammar | g:0.604 m:0.5 ---
+
+śabdopātte prātīte vā sādṛśye vastunor dvayoḥ tatra yad bhedakathanaṃ vyatirekaḥ sa kathyate ।।

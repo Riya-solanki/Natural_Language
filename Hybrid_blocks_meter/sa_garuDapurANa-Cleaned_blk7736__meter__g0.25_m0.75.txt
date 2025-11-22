@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7736 | label: meter | g:0.25 m:0.75 ---
+
+jāyate saprapañcaṃ tacchṛṇu tvamaruṇānuja ।
+trayodaśadine dattaḥ pāśairbaddhvātidāruṇaiḥ ।।

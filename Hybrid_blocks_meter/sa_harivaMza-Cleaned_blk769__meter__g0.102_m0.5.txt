@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 769 | label: meter | g:0.102 m:0.5 ---
+
+vibhrājas tv aṇuhaṃ rājye sthāpayitvā nareśvaraḥ 
+āmantrya paurān prītātmā brāhmaṇān svasti vācya ca 
+prāyāt saras tapaś cartuṃ yatra te sahacāriṇaḥ ।।

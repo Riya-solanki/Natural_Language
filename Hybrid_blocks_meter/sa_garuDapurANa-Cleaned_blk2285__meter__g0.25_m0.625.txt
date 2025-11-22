@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2285 | label: meter | g:0.25 m:0.625 ---
+
+mārkaṇḍeyeśvaraṃ dṛṣṭvā pitṝṇāmanṛṇo bhavet ।
+phalgutīrthe naraḥ snātvā dṛṣṭvā devaṃ gadādharam ।।

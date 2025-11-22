@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 490 | label: grammar | g:0.583 m:0.5 ---
+
+tataḥ punarapi yathā bhaṇitāsti tathaiva jāryauṣadhopakṣepeṇa vinaiva vidhāpunar navavastreṇa raso gālyate ।।

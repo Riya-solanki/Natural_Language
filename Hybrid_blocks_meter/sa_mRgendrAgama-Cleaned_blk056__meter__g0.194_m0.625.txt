@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 56 | label: meter | g:0.194 m:0.625 ---
+
+vināśalakṣaṇo apaiti na muktāvapyupaplavaḥ 
+na cāstyanubhavaḥ kaścid bhavāvasthā varaṃ tataḥ ।।

@@ -1,0 +1,5 @@
+--- source: brsgor3u-Cleaned.txt | block: 396 | label: meter | g:0.25 m:0.903 ---
+
+nirguṇavidyāyāstvekarūpatvāttatphalaikarūpyamityāha-vidyābhedetyādinā ।
+smṛtau kasyacinnirguṇavida ityarthaḥ ।
+tasmādvidyāsamakālaiva muktiriti siddham ।।

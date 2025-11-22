@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1366 | label: meter | g:0.25 m:0.5 ---
+
+{yadi dahatyanalo atra kimadbhutaṃ yadi ca gauravamadriṣu kiṃ tataḥ ।
+lavaṇamambu sadaiva mahodadheḥ prakṛtireva satāmaviṣāditā ।।}

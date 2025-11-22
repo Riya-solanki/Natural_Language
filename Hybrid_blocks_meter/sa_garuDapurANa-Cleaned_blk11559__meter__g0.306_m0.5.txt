@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11559 | label: meter | g:0.306 m:0.5 ---
+
+mā dehi aiśvaryamanuttamaṃ tvatpādāravindasya viruddhabhūtam ।
+tvaṃ deva me dehi satāṃ ca saṃgaṃ tava svarūpapratipādakānām ।।

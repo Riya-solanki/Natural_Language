@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 362 | label: grammar | g:0.625 m:0.5 ---
+
+aho ko api jayaty eṣa svāduḥ pūjāmahotsavaḥ yato amṛtarasāsvādam aśrūṇy api dadaty alam ।।

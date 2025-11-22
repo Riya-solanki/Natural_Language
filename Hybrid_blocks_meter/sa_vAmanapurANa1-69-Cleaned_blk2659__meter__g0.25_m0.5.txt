@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2659 | label: meter | g:0.25 m:0.5 ---
+
+dharmastu gaditaḥ puṃbhistāraṇe divi ceha ca ।
+patanāya tathādharma iha loke paratra ca ।।

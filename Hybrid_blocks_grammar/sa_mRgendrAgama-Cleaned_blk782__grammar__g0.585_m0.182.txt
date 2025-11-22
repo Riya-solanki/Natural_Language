@@ -1,0 +1,6 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 782 | label: grammar | g:0.585 m:0.182 ---
+
+[tataḥ] paścād brāhme ca savane prabhāte [samidādi] samitkuśakusumāni āharet। tataśca [āvasathaprāptān] svāvasathaprāptān śaivān [liṅgaiḥ tāṃśca jñātvā] viśiṣṭaiścihnairācāryasādhakādīn brahmacārigṛhasthādīn brāhmaṇakṣatriyādīṃśca buddhvā [yathārhataḥ sampannaiḥ kārakaiḥ] yathocitāmatropakaraṇādisampattyā [parayā śraddhayā] utkṛṣṭayā bhaktyā [arcayet] sammānayet।
+liṅgāni cātra vratajātyādicihnāni vratiniyatapavitrakalājapamudrāpradarśanādīni śrīmatkāmikapauṣkarakiraṇādyāgamāmnātānīha na pradarśitāni granthavistaramātanvatīti tata eva jñeyāni।। 
+na kaṃcitpraṇamed brūyāt sādhyamantraṃ na kasyacit 
+nākṣipedoṣadhīrmantragobrāhmaṇatapasvinaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4691 | label: meter | g:0.25 m:0.5 ---
+
+yathā tatra jagad dhāmni dhātary etat pratiṣṭhitam 
+sadasat tena satyena mayy asau yātu saumyatām ।।

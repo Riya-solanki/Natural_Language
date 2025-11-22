@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9389 | label: meter | g:0.25 m:0.5 ---
+
+kaṭipṛṣṭhaṃ gudañcāpi pañcame ahani jāyate ।
+ṣaṣṭhe ūrū ca vijñeye saptame gulphasambhavaḥ ।।

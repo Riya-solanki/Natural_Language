@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6772 | label: meter | g:0.25 m:0.625 ---
+
+nāmni saṃkīrtite viṣṇoryasya puṃso na jāyate ।
+śarīraṃ pulakodbhāsi tadbhavetkuṇapopamam ।।

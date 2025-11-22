@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 469 | label: grammar | g:0.625 m:0.5 ---
+
+dhyātam ātmupatiṣṭhata eva tvadvapur varada bhaktidhanānām apy acintyam akhilādbhutacintākartṛtāṃ prati ca te vijayante ।।

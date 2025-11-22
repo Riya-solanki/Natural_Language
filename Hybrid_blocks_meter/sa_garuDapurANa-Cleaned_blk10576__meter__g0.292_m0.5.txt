@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10576 | label: meter | g:0.292 m:0.5 ---
+
+iti śrīgāruḍe mahāpurāṇe tṛtī- utta- brahmakāṇḍe devakṛtaviṣṇustutidevatātāratamyanirūpaṇaṃ nāma navamo adhyāyaḥ

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 713 | label: grammar | g:0.75 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-tataś ca dīpāvalīnāmānam amāvāsyām anu dīpāvali-bali-kautukaṃ pratipadya pratipat-prātas tu viśrambhataḥ paramāśrayatām āśrayamāṇair amībhir yathā tena vihitaṃ tathā vihitam ।

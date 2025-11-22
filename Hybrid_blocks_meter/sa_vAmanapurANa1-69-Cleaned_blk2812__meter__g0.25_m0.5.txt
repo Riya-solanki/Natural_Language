@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2812 | label: meter | g:0.25 m:0.5 ---
+
+tairvadhyamānā pṛtanā maharṣe sādānavī rudrasutairgaṇaiśca ।
+viṣaṇṇārūpā bhayavihvalāṅgī jagāma sukraṃ śaraṇaṃ bhayārtā ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2230 | label: grammar | g:0.625 m:0.5 ---
+
+ityāśīrvādamadhuramapyucyamāno atha siṃhaḥ krauryamātsaryaparicayādanucitāryavṛttiḥ kopāgnidīptayātipiṅgalayā didhakṣanniva vivartitayā dṛṣṭyā bodhisattvamīkṣamāṇa uvāca - mā tavadbhoḥ ।

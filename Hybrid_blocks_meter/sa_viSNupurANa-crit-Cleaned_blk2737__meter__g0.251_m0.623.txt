@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2737 | label: meter | g:0.251 m:0.623 ---
+
+bhikṣābhujaś ca ye kecit parivrāḍbrahmacāriṇaḥ 
+te apy atraiva pratiṣṭhante gārhasthyaṃ tena vai param ।।

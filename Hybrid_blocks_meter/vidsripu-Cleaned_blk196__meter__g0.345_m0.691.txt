@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 196 | label: meter | g:0.345 m:0.691 ---
+
+saṃkucitā iva pūrvaṃ durvāratuṣārajanitajaḍimānaḥ ।
+sampraty uparamati hime kramaśo divasāḥ prasārajuṣaḥ ।।
+śrīdharaṇīdharasya

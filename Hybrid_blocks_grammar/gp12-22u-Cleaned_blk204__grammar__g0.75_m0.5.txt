@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 204 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha sadyaḥ pitṛ-vana-vilāsa-tāla-vana-vāsa-rāsabha-śava-spṛṣṭāni tāni tālāni na tu taiḥ parāmṛṣṭāni, na ca tadīya-tṛṇāni gāvas tarṇāvitāḥ, kintu tad-visṛṣṭāni tāni kecid itara eva mānavā gāvaś ca vigata-sādhvasādhvatayā ciraṃ sādhv āsvāditavantaḥ ।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 901 | label: meter | g:0.217 m:0.845 ---
+
+{caraṇatraparitrāṇarahitābhyāmapi drutam ।
+pādābhyāṃ dūramadhvānaṃ vrajanneṣa na khidyate ।।}

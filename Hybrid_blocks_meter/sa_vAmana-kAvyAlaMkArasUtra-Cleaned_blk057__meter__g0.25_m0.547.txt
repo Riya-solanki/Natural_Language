@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 57 | label: meter | g:0.25 m:0.547 ---
+
+te duḥkhamuccāvacamāvahanti ye prasmaranti priyasaṅgamānām ।
+atra-āvahatiḥ karotyartho dhāraṇārthe prayuktaḥ, prasmaratirvismaraṇārthaḥ prakṛṣṭasmaraṇe iti ।।kalpitārthaṃ neyārtham ।।
+aśrautasyāpyunneyapadārthasya kalpanātkalpitārthaṃ neyārtham । yathā

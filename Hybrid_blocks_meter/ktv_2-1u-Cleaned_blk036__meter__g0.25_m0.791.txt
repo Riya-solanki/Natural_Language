@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 36 | label: meter | g:0.25 m:0.791 ---
+
+na cātra virodho bhaviṣyati ।
+nāmadheyatvena parihārāt ।
+agatyā vā daśāpavitreṇa grahaṃ saṃmārṣṭi itivan matvarthalakṣaṇāśrayaṇāt ।
+arthākṣiptasādhyāṃśadvāreṇa vā dhātvarthair ātmīyakaraṇagrahaṇasiddheḥ ।

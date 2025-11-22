@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 349 | label: grammar | g:0.562 m:0.5 ---
+
+tadvacchaśāṅkapātasya phalaṃ deyaṃ viparyayāt। karmaitad asakṛt tāvad yāvad krāntī same tayoh।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 978 | label: meter | g:0.056 m:0.646 ---
+
+eṣāṃ ghoṣa-nivāsinām uta bhavān kiṃ devarāteti naś
+ceto viśva-phalāt phalaṃ tvad-aparaṃ kutrāpy ayan muhyati ।
+sad-veṣād iva pūtanāpi sa-kulā tvām eva devāpitā
+yad-dhāmārtha-suhṛt-priyātma-tanaya-prāṇāśayās tvat-kṛte ।।[]

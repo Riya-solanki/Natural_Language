@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 34 | label: meter | g:0.314 m:0.831 ---
+
+vistararūpor'tho dharmo yasyeti vigrahaḥ ।
+vistṛtamityarthaḥ ।

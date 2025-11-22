@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 864 | label: meter | g:0.185 m:0.803 ---
+
+vipacyamānakarmāśayamātraṃ
+jīvanam evaṃ ca sati sādhyamantaḥśarīravṛttitvaṃ
+manasa iti ।।

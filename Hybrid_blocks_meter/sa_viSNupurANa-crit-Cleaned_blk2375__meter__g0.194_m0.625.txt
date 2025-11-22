@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2375 | label: meter | g:0.194 m:0.625 ---
+
+tad etad upadiṣṭaṃ te saṃkṣepeṇa mahāmate 
+paramārthasārabhūtaṃ yad advaitam aśeṣataḥ ।।

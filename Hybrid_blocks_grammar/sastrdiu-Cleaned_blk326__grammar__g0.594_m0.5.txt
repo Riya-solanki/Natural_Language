@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 326 | label: grammar | g:0.594 m:0.5 ---
+
+nanu prathamaṃ pratyakṣeṇa bhūtalaṃ gṛhītvā paścādabhāvo boddhavyastatrābhāvatrānātprāk yādṛśaṃ bhūtalajñānaṃ tādṛśādeva vyavahāro bhavatu ।
+tadidamuktottaram, tathāhi- yasyāmavasthāyāṃ bhūtalasvarūpajñānaṃ ghaṭatadabhāvayoścājñānaṃ jñānābhāvastena ghaṭatadabhāvajñānaśūnyaṃ bhūtalajñānaṃ tasyāmavasthāyāmasmābhirupeyate tadeva bhūtalamātravedanamityucyate ।।

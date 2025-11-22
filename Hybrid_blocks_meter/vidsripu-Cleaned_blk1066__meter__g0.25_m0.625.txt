@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1066 | label: meter | g:0.25 m:0.625 ---
+
+dyām āvṛṇoti dharaṇītalam ātanoti pātālamūlatimirāṇi tiraskaroti ।
+hārāvalīhariṇalakṣmaharāṭṭahāsa- herambadantahariśaṅkhanibhaṃ yaśas te ।।

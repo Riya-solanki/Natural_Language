@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 438 | label: meter | g:0.194 m:0.5 ---
+
+uttaṅkas tu varaṃ prādāt tasmai rājñe mahātmane 
+dadataś cākṣayaṃ vittaṃ śatrubhiś cāparājayam ।।

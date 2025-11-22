@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3209 | label: meter | g:0.201 m:0.62 ---
+
+anuyuktau tatas tau ca bhagne dhanuṣi rakṣibhiḥ 
+dhanuṣo bhaṅganādena vāyunirghoṣakāriṇā 
+cacālāntaḥpuraṃ sarvaṃ diśaś caiva pupūrire ।। 
+nirgamya tv āyudhāgārāj jagmatur gopasaṃnidhau ।। vegenāyudhapālas tu gacchan saṃbhrāntamānasaḥ । 
+sa tv āyudhāgāranaro bhītas tvaritavikramaḥ 
+samīpaṃ nṛpater gatvā kākocchvāso abhyabhāṣata ।।

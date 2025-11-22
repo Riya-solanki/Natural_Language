@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1298 | label: meter | g:0.194 m:0.625 ---
+
+sruksomaśūrpam upabhṛt prokṣaṇīṃ dakṣiṇāyanam 
+adhvaryuṃ sāmagaṃ vipraṃ sadasyaṃ sadanaṃ savam ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2392 | label: meter | g:0.25 m:0.625 ---
+
+badhvā samayāgrīn vai nidhiṃ tu parimārgayet ।
+yatrastho dṛḍhatāṃ yāyānnidhintatra vinirdiśet ।।

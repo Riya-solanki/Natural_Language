@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 823 | label: meter | g:0.25 m:0.625 ---
+
+viṣṇave vāsudevāya namaḥ sthitikarāya ca ।
+grasiṣṇave namaścaiva namaḥ pralayaśāyine ।।

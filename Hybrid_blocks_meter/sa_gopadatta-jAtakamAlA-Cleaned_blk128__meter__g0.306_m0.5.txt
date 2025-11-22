@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 128 | label: meter | g:0.306 m:0.5 ---
+
+kṛtaṃ tvayāpāyikaduḥkhalaṅghanaṃ pravṛttim anvicchasi yena janmanaḥ ।
+jijīviṣus tīvraviṣābhidūṣitaṃ praṇītam apy annam upādadīta kaḥ ।।

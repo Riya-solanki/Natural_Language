@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1912 | label: grammar | g:0.729 m:0.5 ---
+
+aho kāvāliṇīadaṃsaṇaṃ jebba ekkaṃ saukkhamokkha-sāhaṇam । bho kābālia hagge tuhake saṃpadaṃ dāso saṃbutto । maṃ pi mahābhairavānusāsaṇe dikkhaya ।

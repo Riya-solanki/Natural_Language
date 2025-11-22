@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 134 | label: grammar | g:0.688 m:0.5 ---
+
+ityādinā rājānakotpaladevanirvarṇitasvarūpasya śambhoḥ śreyaḥprabhavasya bhāvena sarvabhāvaikyasamāpattisamāveśamayena nutiṃ parāṃ cakre, iti cakranātha cakre śabdābhyām ātmanaś cakrapāṇināma dyotayati ।।

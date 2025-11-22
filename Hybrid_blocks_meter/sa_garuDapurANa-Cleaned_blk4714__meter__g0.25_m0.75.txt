@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4714 | label: meter | g:0.25 m:0.75 ---
+
+sāmānyahetuḥ śothānāṃ doṣajāto viśeṣataḥ ।
+vyādhiḥ karmopavāsādikṣīṇasya bhavati drutam ।।

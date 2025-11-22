@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2342 | label: meter | g:0.194 m:0.5 ---
+
+govāteṣv api ye vṛkṣāḥ parivṛttārgaleṣu ca 
+sarve goṣṭhāgniṣu gatāḥ kṣayam akṣayavarcasaḥ ।।

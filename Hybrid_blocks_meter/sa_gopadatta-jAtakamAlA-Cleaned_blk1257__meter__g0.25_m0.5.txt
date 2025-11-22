@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1257 | label: meter | g:0.25 m:0.5 ---
+
+dhig astv anāryaṃ viṣayāśrayaṃ sukhaṃ samīraṇoddhūtalatāntacañcalam ।
+upāsate yatra nibaddhamānasā narā daśāṃ bandhujanopatāpinīm ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1138 | label: meter | g:0.25 m:0.5 ---
+
+bhūrbhuvaḥ svarṛtaṃ caiva dhruvo dānto maheśvaraḥ ।
+dīkṣito adīkṣitaḥ kānto durdānto dāntasaṃbhavaḥ ।।

@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 322 | label: grammar | g:0.637 m:0.125 ---
+
+[] kṛte ca valaye-
+kṛṣṇāyāḥ pulinaṃ gatena ramaṇenāpūri kāmas tadā tenāmuṣya manas tathā pratipadaṃ tena dvayaṃ cakṣuṣoḥ । tenāṅgasphuradaṅganāsamudayas tenātha pūrvaṃ paraṃ sarvaṃ parva ca tad bruve kim aparaṃ nādyāpi viśrāmyati ।। [śārdūlavikrīḍitam]।।

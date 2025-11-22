@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3854 | label: meter | g:0.102 m:0.5 ---
+
+rukmī cāstrāṇi divyāni drumāt prāpa mahābalaḥ 
+jāmadagnyāt tatha rāmād brāhmam astram avāptavān 
+prāspardhat saha kṛṣṇena nityam adbhutakarmaṇā ।।

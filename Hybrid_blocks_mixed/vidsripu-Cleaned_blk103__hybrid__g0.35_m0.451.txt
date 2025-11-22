@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 103 | label: hybrid | g:0.35 m:0.451 ---
+
+ekaḥ sa eva paripālayatāj jaganti gaurīgirīśacaritānukṛtiṃ dadhānaḥ ।
+ābhāti yo daśanaśūnyamukhaikadeśa- dehārdhahāritavadhūka ivaikadantaḥ ।।
+tasyaiva

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2481 | label: meter | g:0.306 m:0.625 ---
+
+snātvā te api rambhoru samuttīrya taṭe sthite ।
+pratīkṣantyau munivaraṃ taddarśanasamutsuke । ।

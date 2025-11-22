@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2803 | label: meter | g:0.194 m:0.5 ---
+
+dṛṣṭvā tam abhiṣicyantaṃ gāvas tāḥ saha yūthapaiḥ 
+stanaiḥ prasnavasaṃyuktaiḥ siṣicuḥ kṛṣṇam avyayam ।।

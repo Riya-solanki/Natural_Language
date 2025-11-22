@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2548 | label: meter | g:0.307 m:0.623 ---
+
+sā eva tarjanī vajrā tatsthā eva tathāṅku śī ।
+tarjanyā tarjanī karṣā [tābhyantuṣṭipradāyi]kā ।।

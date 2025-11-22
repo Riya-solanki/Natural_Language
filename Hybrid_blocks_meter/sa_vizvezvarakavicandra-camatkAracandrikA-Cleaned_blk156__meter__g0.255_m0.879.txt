@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 156 | label: meter | g:0.255 m:0.879 ---
+
+atha vākyadoṣāḥ
+apaprayuktaṃ dussandhi vyutkamaṃ punaruktimat ।
+duranvayañca vākyāṅgasaṅkīrṇaṃ vākyagarbhitam ।।

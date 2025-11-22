@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 769 | label: meter | g:0.25 m:0.75 ---
+
+kāmbojā daradāścaiva barbarā hyaṅgalaukikāḥ ।
+cīnāścaiva tuṣārāśca bahudhā bāhyatodarāḥ ।।

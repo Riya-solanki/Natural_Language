@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 1377 | label: meter | g:0.25 m:0.862 ---
+
+atha vimarśa-sandhiḥ-
+yatra pralobhana-krodha-vyasanādyair vimṛśyate । 
+bījārtho garbha-nirbhinnaḥ sa vimarśa itīryate ।।
+prakarī-niyatāptyānuguṇyād atrāṅga-kalpanam । 
+apavādo' tha sampheṭo vidrava-drava-śaktayaḥ ।।
+dyuti-prasaṅgau chalana-vyavasāyau nirodhanam । 
+prarocanā vicalanam ādānaṃ syus trayodaśa ।।

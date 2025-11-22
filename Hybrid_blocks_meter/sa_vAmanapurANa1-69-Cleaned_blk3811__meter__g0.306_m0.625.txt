@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3811 | label: meter | g:0.306 m:0.625 ---
+
+tatra sarvagataṃ viṣṇuṃ matvā cakre ratiṃ balī ।
+pūjayan bhagavatpādau mahābhāgavato mune ।।

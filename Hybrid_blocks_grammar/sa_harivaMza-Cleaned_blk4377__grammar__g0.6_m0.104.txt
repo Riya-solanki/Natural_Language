@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4377 | label: grammar | g:0.6 m:0.104 ---
+
+eṣa te kathitaḥ saumya sadbhāvas tvayi yo mama 
+yathā na mama putras tvaṃ na putraḥ śambarasya ca ।। 
+kāmadevaś ca vīra tvaṃ ratiṃ māṃ viddhi vai prabho । śaṃkarasya ca śāpena tvam anaṅgagatiḥ purā ।। tat kālamāyayā rūpaṃ kṛtvā daityasya veśmani । viśīrṇā sāham uṣitā daityasyāsya ca veśmani । 
+śrutvaitan nikhilaṃ sarvaṃ māyāvatyā prabhāṣitam 
+cakrāyudhātmajaḥ kruddhaḥ śambaraṃ sa samāhvayat ।।

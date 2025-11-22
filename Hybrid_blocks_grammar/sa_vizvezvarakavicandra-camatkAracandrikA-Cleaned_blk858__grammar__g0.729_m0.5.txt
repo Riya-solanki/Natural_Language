@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 858 | label: grammar | g:0.729 m:0.5 ---
+
+atra pratīyamāne dharaṇīdhaureyatve śeṣādīnāmupamānatvaṃ nāyakasyopameyatvamiti marvādāyāṃ varṇanīyasyātiśayaṃ vivakṣatā kenāpi vaktā viparyāsādupamānopameyabhāvaḥ kalpita iti seyaṃ viparyāsopamā nāma vikṛtarūpā prapañcopamā ।

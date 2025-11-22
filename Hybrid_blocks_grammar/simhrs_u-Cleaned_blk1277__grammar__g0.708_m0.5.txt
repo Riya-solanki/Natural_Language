@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1277 | label: grammar | g:0.708 m:0.5 ---
+
+rāmaḥ jāmadagnya ! ekaḥ punar ayaṃ śastra-grahaṇādhikāro yad guruṣv api tiraskāraḥ ity antena bhārgava-rāghavayoḥ pūjya-viṣaya-krodhāpahnavārthaṃ hāsya-kathanān narma-dyutiḥ ।

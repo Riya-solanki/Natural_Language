@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 97 | label: hybrid | g:0.5 m:0.5 ---
+
+alpā dṛḍhā ye mṛdubhāṣiṇaśca tebhyo avadhānaṃ karaṇīyameva ।
+niryāti sūryaḥ saghanāddhi meghāt syāt tatprakāśastu tadātitīkṣṇaḥ ।।

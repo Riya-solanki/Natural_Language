@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 173 | label: meter | g:0.25 m:0.5 ---
+
+yadi dhārayase śaucaṃ tatparā vratam āsthitā 
+bhaviṣyati sutas te ayaṃ yady enaṃ dhārayiṣyasi ।।

@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 50 | label: meter | g:0.259 m:0.666 ---
+
+samagrairojaḥprasādapramukairguṇairupetā vaidarbhī nāma rītiḥ ।
+atra ślokaḥ

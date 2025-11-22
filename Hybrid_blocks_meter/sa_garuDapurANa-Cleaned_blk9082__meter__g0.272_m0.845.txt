@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9082 | label: meter | g:0.272 m:0.845 ---
+
+brahmādyā devatāḥ sarvāḥ kāryācca prītimāpnuyuḥ ।
+deyametanmahādānaṃ pretoddharaṇahetave ।।

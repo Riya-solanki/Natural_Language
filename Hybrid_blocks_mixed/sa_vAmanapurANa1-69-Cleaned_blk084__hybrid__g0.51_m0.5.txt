@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 84 | label: hybrid | g:0.51 m:0.5 ---
+
+ityevamuktaḥ sa tu śaṅkareṇa ādyaṃ dhanustvājagavaṃ prasiddham ।
+jagrāha tūṇāni tathākṣayāṇi yuddhāya vīraḥ sa matiṃ cakāra ।।

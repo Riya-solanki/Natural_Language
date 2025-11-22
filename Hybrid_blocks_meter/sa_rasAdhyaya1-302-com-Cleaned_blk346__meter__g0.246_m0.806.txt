@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 346 | label: meter | g:0.246 m:0.806 ---
+
+mātuliṅgakanakasyāpi vārkatoyena mardayet 
+kṣiptvā ṭaṅkaṇakṣāraṃ ca navasāraṃ tathaiva ca ।।

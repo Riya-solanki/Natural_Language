@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 94 | label: hybrid | g:0.025 m:0.452 ---
+
+{vāsavadattā} - atthi ujjaiṇīo rāā pajjodo ṇāma 
+tassa baḷa parimāṇaṇivvuttaṃ ṇāmaheaṃ mahāseṇo tti 
+[asty ujjayinīyo rājā pradyoto nāma । tasya balaparimāṇanirvṛttaṃ nāmadheyaṃ mahāsena iti । ]

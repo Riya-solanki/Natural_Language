@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1019 | label: meter | g:0.306 m:0.5 ---
+
+tadehi pitryaṃ bhavanaṃ tavedaṃ śrutārthasāraṃ bhavatāpi nūnam ।
+saṃpādayethā nivasaṃstvamatra dharmaṃ ca satputramanorathaṃ ca ।।

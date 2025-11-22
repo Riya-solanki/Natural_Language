@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 530 | label: meter | g:0.25 m:0.625 ---
+
+aprameye ca sattvārthe buddhasevādike guṇe ।
+bodheraṅgeṣvanāśe ca karmaṇāṃ satyadarśane ।।

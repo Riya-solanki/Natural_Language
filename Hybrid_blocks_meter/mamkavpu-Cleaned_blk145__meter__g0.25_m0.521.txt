@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 145 | label: meter | g:0.25 m:0.521 ---
+
+{ṇollei aṇollamaṇā attā maṃ gharabharammi saalammi ।
+khaṇamettaṃ jai saṃjhāi hoi ṇa va hoi vīsāmo ।।}
+[nudatyanārdramanāḥ śvaśrūrmāṃ gṛhabhare sakale ।
+kṣaṇamātraṃ yadi saṃdhyāyāṃ bhavati na vā bhavati viśrāmaḥ ।।]

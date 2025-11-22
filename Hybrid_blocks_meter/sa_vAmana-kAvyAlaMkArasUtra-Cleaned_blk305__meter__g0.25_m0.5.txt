@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 305 | label: meter | g:0.25 m:0.5 ---
+
+viśantu viṣṭayaḥ śīghraṃ rudrā iva mahaujasaḥ ।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 875 | label: grammar | g:0.548 m:0.375 ---
+
+anyaccāha rasaketyādi ।।
+tato'nantaraṃ arkacandralepena kanakaṃ rasakasamaṃ dhmātaṃ kuryāt punaretadauṣadhaṃ bhuktvā kanakaṃ syāt punarmākṣikasattvaṃ hemnā saha jīrṇaṃ rasaṃ śatāṃśena vidhyatītyarthaḥ ।।

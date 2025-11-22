@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1458 | label: meter | g:0.194 m:0.5 ---
+
+kiṃ punaś cittayuktānāṃ saṅgād eva na muktidam 
+ato arthaṃ saha saṃyogaṃ khānapānaṃ sahāsanam ।।

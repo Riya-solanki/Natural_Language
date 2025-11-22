@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11359 | label: meter | g:0.25 m:0.75 ---
+
+lakṣaṇālakṣaṇaiścaiva krameṇoktā na saṃśayaḥ ।
+lakṣaṇaiḥ saptaviṃśatyālakṣaṇaiḥ saṃyutāḥ khaga ।।

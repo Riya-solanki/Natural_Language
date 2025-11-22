@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 75 | label: meter | g:0.25 m:0.576 ---
+
+dhir ity ucyate ।
+viśeṣataś ceyam arthavādādhikaraṇe varṇitā ।
+yat tu paryāyasthityatilaṅghanaṃ pratyayāparityāgād abhihitam, tatrocyate

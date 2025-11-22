@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1983 | label: meter | g:0.25 m:0.5 ---
+
+tasmāt prātastanāt kālāt trimuhūrtas tu saṃgavaḥ 
+madhyāhnas trimuhūrtas tu tasmāt kālāt tu saṃgavāt ।।

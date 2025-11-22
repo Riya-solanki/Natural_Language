@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7131 | label: meter | g:0.426 m:0.659 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrībhagavānuvāca ।
+sannapi brahma tasmātkhaṃ marutkhācca tato analaḥ ।।

@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2179 | label: meter | g:0.25 m:0.602 ---
+
+vikrāntavapuṣo dīptās te amṛtaprāśanopamāḥ 
+amarapratimā yuddhe putrā vai kālaneminaḥ ।। 
+āryakaṃ vai parityajya hiraṇyakaśipuṃ purā । 
+upāsāṃ cakrire daityāḥ purā lokapitāmaham 
+tapyamānās tapas tīvraṃ jaṭāmaṇḍaladhāriṇaḥ ।। 
+samāḥ sahasram ayutam ambuvāyuvicāriṇaḥ । 
+teṣāṃ prīto abhavad brahmā ṣadgarbhāṇāṃ varaṃ dadau 
+bho bho dānavaśārdūlās tapasāhaṃ sutoṣitaḥ । 
+brūta vo yasya yaḥ kāmaḥ ko varo vaḥ pradīyatāṃ ।।

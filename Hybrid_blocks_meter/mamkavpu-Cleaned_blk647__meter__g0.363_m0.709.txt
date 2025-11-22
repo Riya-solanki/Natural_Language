@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 647 | label: meter | g:0.363 m:0.709 ---
+
+atra kṣamādiguṇayuktāḥ sukhamāsate iti vivakṣite hatā iti viruddhā pratītiḥ ।।
+padaikadeśe yathāsaṃbhavaṃ krameṇodāharaṇam

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 222 | label: meter | g:0.25 m:0.5 ---
+
+abhinandati yo janma sa duḥkham abhinandati ।
+duḥkhābhinandī duḥkhebhyo na jātu parimucyate ।।

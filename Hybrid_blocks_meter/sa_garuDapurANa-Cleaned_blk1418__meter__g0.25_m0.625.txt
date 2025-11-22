@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1418 | label: meter | g:0.25 m:0.625 ---
+
+bhūrbhuvaḥ svastvamoṅkāraḥ sarvo rudraḥ sanātanaḥ ।
+etadvai sūryahṛdayaṃ japtvā stavanamuttamam ।।

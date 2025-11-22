@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 313 | label: grammar | g:0.562 m:0.5 ---
+
+piban madhu yathākāmaṃ bhramaraḥ phullapaṅkaje apy asaṃnaddhasaurabhyaṃ paśya cumbati kuḍmalam ।।

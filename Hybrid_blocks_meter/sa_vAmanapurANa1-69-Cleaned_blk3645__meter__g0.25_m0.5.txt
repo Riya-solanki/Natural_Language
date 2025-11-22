@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3645 | label: meter | g:0.25 m:0.5 ---
+
+maghāsu nāsikā pūjyā madhu dadyācca dohade ।
+mṛgottamāṅge nayane mṛgamāṃsaṃ ca dohade ।।

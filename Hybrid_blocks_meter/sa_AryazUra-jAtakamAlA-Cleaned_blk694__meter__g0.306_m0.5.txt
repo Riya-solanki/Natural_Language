@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 694 | label: meter | g:0.306 m:0.5 ---
+
+aho prajānāṃ bhāgyāni yāsāṃ gopāyitā bhavān ।
+prajānāmapi hi vyaktaṃ naivaṃ syād gopitā pitā ।।

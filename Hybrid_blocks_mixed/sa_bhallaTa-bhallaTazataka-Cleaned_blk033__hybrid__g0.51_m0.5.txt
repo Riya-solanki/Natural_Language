@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 33 | label: hybrid | g:0.51 m:0.5 ---
+
+grathitaḥ eṣa mithaḥ kṛtaśṛṅkhalair viṣadharair adhiruhya mahājaḍaḥ ।
+malayajaḥ sumanobhir anāśrito yad ata eva phalena viyujyate ।।

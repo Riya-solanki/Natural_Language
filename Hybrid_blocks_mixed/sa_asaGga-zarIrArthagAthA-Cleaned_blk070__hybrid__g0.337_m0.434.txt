@@ -1,0 +1,5 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 70 | label: hybrid | g:0.337 m:0.434 ---
+
+ye ca saṃkhyātadharmāṇo ye ca śaikṣāḥ pṛthagvidhāḥ । teṣāṃ me nipakasyeryāṃ pṛṣṭaḥ prabrūhi mārṣa ।। 
+kāmeṣu nābhigṛdhyeta manasānāvilo bhavet ।
+kuśalaḥ sarvadharmeṣu smṛto bhikṣuḥ parivrajet ।।

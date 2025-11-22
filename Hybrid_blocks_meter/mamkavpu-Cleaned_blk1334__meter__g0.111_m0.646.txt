@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1334 | label: meter | g:0.111 m:0.646 ---
+
+{yātā kiṃ na milanti sundari punaścintā tvayā matkṛte
+no kāryā nitarāṃ kṛśāsi kathayatyevaṃ sabāṣpe mayi ।
+lajjāmantharatārakeṇa nipatatpītāśruṇā cakṣuṣā
+dṛṣṭvā māṃ hasitena bhāvimaraṇotsāhastayā sūcitaḥ ।।}

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9981 | label: meter | g:0.302 m:0.806 ---
+
+jarādarśitapanthānaṃ pracaṇḍavyādhisainikam ।
+adhiṣṭhito mṛtyuśatruṃ trātāraṃ kiṃ na paśyati ।।

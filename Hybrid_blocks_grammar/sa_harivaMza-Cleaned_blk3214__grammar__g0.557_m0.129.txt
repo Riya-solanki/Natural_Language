@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3214 | label: grammar | g:0.557 m:0.129 ---
+
+kṛṣyamāṇaṃ tu tat tena vibāṇaṃ bāhuśālinā 
+muṣṭideśe vikūjitvā dvidhābhūtam abhajyata ।। 
+tataḥ pracalitā bhūmir naiva bhāti ca bhāskaraḥ । dhanuṣo bhaṅganādena bhramatīva nabahstalam ।। tad adbhutam ahaṃ dṛṣṭvā vismayaṃ paramaṃ gataḥ । bhayād bhayadasatrūṇāṃ tad ihākhyātum āgataḥ ।। na jānāmi mahārāja kau tāv amitavikramau । ekaḥ kailāsasaṃkāśa eko añjanagiriprabhaḥ । 
+sa tu tac cāparatnaṃ vai bhaṅktvā stambham iva dvipaḥ 
+niṣpapātānilagatiḥ sānugo amitavikramaḥ 
+jagāma tad dvidhā kṛtvā na jāne ko apy asau nṛpa ।।

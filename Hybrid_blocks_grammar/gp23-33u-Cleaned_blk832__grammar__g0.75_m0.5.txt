@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 832 | label: grammar | g:0.75 m:0.5 ---
+
+[] ṛṣir uvāca-atha sarvābhis tathā tad āścaryaṃ sākṣātkāryamāṇam avadhārya tad-āryāṇāṃ samajyāyāṃ nivedayiṣyate-hanta yathāvad eva devī vadatīti । tataḥ śrī-vraja-rāja-vacanaṃ-tarhy adhunā kiṃ vidheyam ?

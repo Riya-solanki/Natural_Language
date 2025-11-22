@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5436 | label: meter | g:0.25 m:0.625 ---
+
+kākajaṅghā vacā kuṣṭhaṃ nimbapatraṃ sukuṅkumam ।
+ātmaraktasamāyuktaṃ vaśī bhavati mānavaḥ ।।

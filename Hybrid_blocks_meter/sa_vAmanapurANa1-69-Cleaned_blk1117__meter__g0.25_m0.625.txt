@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1117 | label: meter | g:0.25 m:0.625 ---
+
+prabho aśvisūryendvanilāgnivedhasāṃ jaleśaśakrādiṣu cādhikārān ।
+ākramya nākāttu nirākṛtā vayaṃ kṛtāvanisthā mahiṣāsureṇa ।।

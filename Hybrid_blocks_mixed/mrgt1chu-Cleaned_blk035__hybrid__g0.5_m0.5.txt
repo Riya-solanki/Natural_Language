@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 35 | label: hybrid | g:0.5 m:0.5 ---
+
+pravādo apy akhilo mithyā samūlatvān na yuktimat ।
+sa ced amūlo bhūtānāṃ hatāḥ sarvāḥ pravṛttayaḥ ।।

@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 132 | label: meter | g:0.104 m:0.57 ---
+
+atha dhīrādhīra-pragalbhā-
+dhīrādhīra-guṇopetā dhīrādhīreti kathyate ।। athā, mamaiva-
+pratyāsīdati sāgasi priyatame sā sambhramād utthitā
+vaiyātyāt purataḥ sthite sati punar mānāvadhūtāśayā ।
+rātrau kvāsi na cet kvacin māṇimayī mālā kutas te vadety
+uktvā mekhalayā hatena sahasāśliṣṭā sa-bāṣpaṃ sthitā ।।

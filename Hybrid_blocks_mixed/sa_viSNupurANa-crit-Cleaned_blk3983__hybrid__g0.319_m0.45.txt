@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3983 | label: hybrid | g:0.319 m:0.45 ---
+
+bhagīrathādyāḥ sagaraḥ kakutstho daśānano rāghavalakṣmaṇau ca 
+yudhiṣṭhirādyāś ca babhūvur ete satyaṃ na mithyā kva nu te na vidmaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1407 | label: grammar | g:0.625 m:0.5 ---
+
+bhagnāśasya karaṇḍapiṇḍitatanor mlānendriyasya kṣudhā kṛtvākhur vivaraṃ svayaṃ nipatito naktaṃ mukhe bhoginaḥ ।
+tṛptas tatpiśitena satvaram asau tenaiva yātaḥ pathā svasthās tiṣṭhata daivam eva jagataḥ śāntau kṣaye cākulam ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1513 | label: meter | g:0.306 m:0.5 ---
+
+idaṃ ca kāntāramasupratāraṃ kathaṃ tariṣyāmi balena hīnaḥ ।
+paryāptarūpaṃ tvidamasya māṃsaṃ kāntāradurgottaraṇāya me syāt ।।

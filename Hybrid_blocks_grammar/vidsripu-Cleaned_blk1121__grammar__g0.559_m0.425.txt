@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1121 | label: grammar | g:0.559 m:0.425 ---
+
+nyagrodhe phalaśālini sphuṭarasaṃ kiṃcit phalaṃ pacyate । bījāny aṅkuragocarāṇi katicit sidhyanti tasminn api ।
+ekas teṣv api kaścid aṅkuravaro badhnāti tām unnatiṃ yām adhvanyajanaḥ svamātaram iva klāntacchide dhāvati ।।
+śālikasya

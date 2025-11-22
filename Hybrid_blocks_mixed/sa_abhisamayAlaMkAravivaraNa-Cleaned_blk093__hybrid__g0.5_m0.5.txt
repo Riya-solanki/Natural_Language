@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 93 | label: hybrid | g:0.5 m:0.5 ---
+
+bhedaḥ ālambanamekādaśavidhaṃ bhavati । tathā hi - kuśalākuśalāvyākṛtāni kāyakarmādīni trīṇi, bālapṛthagjanasambaddhāḥ pañca skandhāḥ, sarvāryajanasaṃgṛhītāni catvāri anāsravadhyānāni, ātmadarśanāpratipakṣatvena pañcopādānaskandhāḥ, ātmadarśanapratipakṣatvena catvāryanāsravāṇi smṛtyupasthānāni, hetupratyayādhīnakāmādidhātusaṃgṛhītā

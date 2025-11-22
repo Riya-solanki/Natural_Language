@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 14 | label: hybrid | g:0.317 m:0.337 ---
+
+yasya yasyānvaye ye ye tāṃs tān icchāmi veditum 
+pūrvaṃ kathā samākhyātā vicitrā ca mahīpate । 
+teṣāṃ pūrvavisṛṣṭiṃ ca vicitrām ā prajāpateḥ ।। 
+sarvam etad aśeṣeṇa kathayasva dvijottama । yena vai śṛṇvatāṃ puṃsām aputratvaṃ praṇaśyati । evaṃ saṃcodito rājā vyāsaśiṣyo mahāmune । 
+satkṛtya paripṛṣṭas tu sa mahātmā mahātapāḥ 
+vistareṇānupūrvyā ca kathayām āsa tāṃ kathām ।।

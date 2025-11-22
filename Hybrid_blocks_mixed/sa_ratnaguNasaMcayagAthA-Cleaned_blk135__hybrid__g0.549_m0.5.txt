@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 135 | label: hybrid | g:0.549 m:0.5 ---
+
+na ca rāja grāma vrajate na ca rājyarāṣṭrān sarvaṃ ca ādadati so viṣayātu āyam 
+na ca bodhisattva calate kvaci dharmatāyāṃ sarvāṃśca ādadati ye guṇa buddhadharme ।।

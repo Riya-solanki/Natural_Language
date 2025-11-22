@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3689 | label: meter | g:0.194 m:0.5 ---
+
+tam ūcur yādavāḥ sarve hṛṣṭena manasā tadā 
+sādhyatāṃ yad abhipretaṃ janasyāsya bhavāya ca ।।

@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 15 | label: meter | g:0.277 m:0.84 ---
+
+kaṭukauṣadhavacchāstramavidyāvyādhināśanam ।
+āhlādyamṛtavatkāvyamavivekagadāpaham ।। ।।
+āyatyāṃ ca tadātve ca rasanisyandasundaram ।
+yena saṃpadyate kāvyaṃ taditānī vicāryate ।।

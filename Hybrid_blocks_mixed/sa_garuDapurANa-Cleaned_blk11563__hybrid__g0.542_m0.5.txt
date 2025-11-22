@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11563 | label: hybrid | g:0.542 m:0.5 ---
+
+mantraṃ ca me dehi nidānamūrte yenaiva me syāttava saṃgaśca bhūyaḥ ।
+nānyaṃ vṛṇe tava pādābjasaṃgāttadeva me dehi mama prasannaḥ ।।

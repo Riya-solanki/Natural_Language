@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 926 | label: meter | g:0.25 m:0.853 ---
+
+tārakṛṣṭī; copper silver
+kāñcī brāhmī kuṭilaṃ tālakaṃ samabhāgayojitaṃ dhmātam ।
+śulbaṃ viddhamanena tu tārākṛṣṭirbhaveddivyā ।।

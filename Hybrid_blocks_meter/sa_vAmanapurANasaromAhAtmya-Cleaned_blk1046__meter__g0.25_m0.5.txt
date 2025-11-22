@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1046 | label: meter | g:0.25 m:0.5 ---
+
+mā tāta sāhasaṃ kārṣistīrtha rakṣa prayatnataḥ ।
+ayaṃ pāpena ghorema atīva pariveṣṭitaḥ ।।

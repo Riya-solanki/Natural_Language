@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 35 | label: meter | g:0.26 m:0.5 ---
+
+rāma prāg asya paścād bhava subala yuvāṃ śrīla dāman sudāman
+doḥ pārśva-sthau bhavetaṃ diśi vidiśi pare santu cātmīya-bandhoḥ ।
+itthaṃ haste vidhṛtya pratiśiśu diśatī tatra kṛṣṇasya mātā
+tat-tat-karmādhikāra-śriyam api dadatī netra-nīrair asikta ।। [sragdharā]

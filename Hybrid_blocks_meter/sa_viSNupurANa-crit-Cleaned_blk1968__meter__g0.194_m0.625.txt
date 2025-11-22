@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1968 | label: meter | g:0.194 m:0.625 ---
+
+saṃdhyākāle tu saṃprāpte raudre paramadāruṇe 
+mandehā rākṣasā ghorāḥ sūryam icchanti khāditum ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 443 | label: hybrid | g:0.5 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-tataś ca vraja-sundarīṇām unmanastayā dharma-trastatayā ca mahatī manaḥ-kathā jātā । yathā-[] nanu yady evam unmanastā-grastā dharma-rakṣaṇārtham akṣamāsi, tarhi pratyāsanna eva dharma-tyāgaḥ? tatrāha-

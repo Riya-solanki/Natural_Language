@@ -1,0 +1,4 @@
+--- source: kestprau-Cleaned.txt | block: 13 | label: grammar | g:0.708 m:0.5 ---
+
+ekamevādvitīyamityādiśruteśca kathañcidupacaritārthatvena tathā ātmano hi vibhuniyatvādabhinnadeśakālā ityekatvenocyate ajo hyeko juṣamāṇo anuśete jahātyenāṃ bhuktabhogāmajo anya ityādiśruteśca puruṣabhedamavagacchāmaḥ ।
+kiṃ punarasya prayojanaṃ niḥśreyasaṃ kiṃ tat akhilānarthamūlabhūtāyā avidyāyāḥ sattvātiśayaviśeṣāvirbhūtavidyayā vināśe sati tatpuruṣasya sahajacaitanyātmanāvasthānaṃ tanmokṣāparaparyāyaṃ niḥśreyasaṃ prakṛtipuruṣavivekajñānaṃ ca taddhetuḥ ।

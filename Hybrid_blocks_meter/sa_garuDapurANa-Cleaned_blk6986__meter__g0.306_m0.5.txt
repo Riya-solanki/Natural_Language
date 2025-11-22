@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6986 | label: meter | g:0.306 m:0.5 ---
+
+yasya viṣṇau dṛḍhā bhaktiḥ sarvakāmaphalaprade ।
+pūjāṃ kartuṃ tathā stotraṃ kaḥ śaknoti tavācyuta ।।

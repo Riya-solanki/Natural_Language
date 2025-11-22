@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 257 | label: meter | g:0.306 m:0.5 ---
+
+iti pṛṣṭo atha balinā kāvyo vedavidāṃ varaḥ ।
+uvāca daityādhipatiṃ ciraṃ dhyātvā mahāmatiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1161 | label: meter | g:0.194 m:0.625 ---
+
+mantratantrais tvayā deva bhrāmitāhaṃ kriyādibhiḥ 
+dhyānadhāraṇayogaiś ca idānīṃ kathaya sphuṭam ।।

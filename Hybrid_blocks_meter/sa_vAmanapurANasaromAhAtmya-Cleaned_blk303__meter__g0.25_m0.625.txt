@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 303 | label: meter | g:0.25 m:0.625 ---
+
+cantrasūryau tu nayane dyauḥ śiraścaraṇau kṣitiḥ ।
+pādāṅgulyaḥ piśācāstu hastāṅgulyaśca guhyakāḥ ।।

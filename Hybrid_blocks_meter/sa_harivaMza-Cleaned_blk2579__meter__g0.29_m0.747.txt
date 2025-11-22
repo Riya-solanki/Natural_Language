@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2579 | label: meter | g:0.29 m:0.747 ---
+
+sragdāmalambābharaṇaḥ pralambāmbarabhūṣaṇaḥ 
+dhīraḥ pralambaḥ prayayau toyalamba ivāmbudaḥ ।।

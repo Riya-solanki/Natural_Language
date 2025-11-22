@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 861 | label: meter | g:0.25 m:0.5 ---
+
+[] atha prabhāte sabhā-tejasā vibhātayoḥ sūta-jātayor madhukaṇṭha-nāmā kathayāmāsa-

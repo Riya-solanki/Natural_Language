@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 553 | label: meter | g:0.25 m:0.625 ---
+
+calopalapraskhalitodakānāṃ kalā virāvāśca saridvadhūnām ।
+vibhūṣaṇānāmiva saṃninādāḥ pramodayiṣyanti vane manaste ।।

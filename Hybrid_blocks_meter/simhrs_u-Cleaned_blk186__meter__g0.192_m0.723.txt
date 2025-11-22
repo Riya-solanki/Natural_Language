@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 186 | label: meter | g:0.192 m:0.723 ---
+
+yathā-
+tanvī śyāmā śikharī-daśanā pakva-bimbādharauṣṭhī
+madhye kṣāmā cakita-hariṇī-prekṣaṇā nimna-nābhiḥ ।
+śroṇī-bhārād alasa-gamanā stoka-namrā stanābhyāṃ
+yā tatra syād yuvatī-viṣaye sṛṣṭir ādyaiva dhātuḥ ।।

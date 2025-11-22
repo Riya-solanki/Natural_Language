@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 141 | label: hybrid | g:0.361 m:0.5 ---
+
+eṣā syād dvividhā raktā viraktā ceti bhedataḥ ।। 
+tatra raktā tu varṇyā syād aprādhānyena nāṭake ।
+agnimitrasya vijñeyā yathā rājña irāvatī ।। 
+pradhānam apradhānaṃ vā nāṭaketara-rūpake ।
+sā ced divyā nāṭake tu prādhānyenaiva varṇyate ।।

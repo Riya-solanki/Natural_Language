@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 554 | label: grammar | g:0.583 m:0.5 ---
+
+yat paśyanti jhagity apāṅgasaraṇidroṇījuṣā cakṣuṣā viṅkhanti kramadolitobhayabhujaṃ yan nāma vāmabhruvaḥ ।
+bhāṣante ca yad uktibhiḥ stabakitaṃ vaidagdhyamudrātmabhis tad devasya rasāyanaṃ rasanidher manye manojanmanaḥ ।।

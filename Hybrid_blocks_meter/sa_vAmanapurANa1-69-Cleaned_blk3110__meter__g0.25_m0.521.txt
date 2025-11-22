@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3110 | label: meter | g:0.25 m:0.521 ---
+
+te jātā maruto nāma devabhṛtyāḥ śatakratoḥ ।
+māturevāpacāreṇa calante te puraskṛtāḥ ।
+tataḥ sakuliśaḥ śakro nirgamya jaṭharāt tadā ।
+ditiṃ kṛtāñjalipuṭaḥ prāha bhītastu śāpataḥ ।।

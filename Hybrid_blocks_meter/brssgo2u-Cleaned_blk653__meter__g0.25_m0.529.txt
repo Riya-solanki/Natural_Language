@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 653 | label: meter | g:0.25 m:0.529 ---
+
+nanu ca nātmotpadyate nityacaitanyaśyāyamityuktam ।
+ataśca para evātmā jīva ityāpatati ।
+parasyā cātmano anantaratvamāmnātaṃ, tatra kuto jīvasya parimāṇacintāvatāra iti ।

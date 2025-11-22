@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 108 | label: meter | g:0.272 m:0.845 ---
+
+abhiṣeko hi dātavyo dvitīyenaiva vajriṇā ।
+māṅgalyovduṣṭaśabdena vāditravividhasvanaiḥ ।।

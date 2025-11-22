@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4266 | label: meter | g:0.194 m:0.625 ---
+
+iti gopīvacaḥ śrutvā rauhiṇeyo mahābalaḥ 
+gopāṃś ca trāsavidhurān vilokya stimitekṣaṇaḥ ।।

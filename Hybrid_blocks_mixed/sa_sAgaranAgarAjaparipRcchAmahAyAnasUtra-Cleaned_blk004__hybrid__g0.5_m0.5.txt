@@ -1,0 +1,3 @@
+--- source: sa_sAgaranAgarAjaparipRcchAmahAyAnasUtra-Cleaned.txt | block: 4 | label: hybrid | g:0.5 m:0.5 ---
+
+evaṃ mayā śrutam - ekasmin samaye bhagavān buddhaḥ sāgaranāgarājāvasathe viharati sma sārddhaṃ sārdhadvādaśaśatabhikṣūṇāṃ mahāsaṅghena bahubhiśca bodhisattvamahāsattvaiḥ । tasmin samaye bhagavān buddhaḥ sāgaranāgarājamavocat - nāgādhipate, caturṇāṃ dharmoddānānāmabhidhāne kriyamāṇe tadabhidhānena caturaśītidharmaskandhasahasrāṇāmabhidhānaṃ kṛtaṃ bhavati । katamāni catvāri? tathāhi -

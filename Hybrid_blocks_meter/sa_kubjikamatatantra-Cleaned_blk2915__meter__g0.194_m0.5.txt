@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2915 | label: meter | g:0.194 m:0.5 ---
+
+vṛkṣam indriyam ākhyātaṃ vṛkṣaṃ śaktir iti smṛtā 
+kṣayaṃ gatā pare vyomni amanaske nirāmaye ।।

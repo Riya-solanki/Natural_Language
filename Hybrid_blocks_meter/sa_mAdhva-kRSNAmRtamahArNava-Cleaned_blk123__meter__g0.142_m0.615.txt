@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 123 | label: meter | g:0.142 m:0.615 ---
+
+sūta uvāca
+jñātvā viprās tithiṃ samyag daivajñaiḥ samudīritām
+kartavya upavāsaś ca anyathā narakaṃ vrajet ।।

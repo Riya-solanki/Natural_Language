@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 807 | label: meter | g:0.058 m:0.847 ---
+
+iti śrī-śrī-gopāla-campūm anu
+bālya-līlā-caurya-śauryaṃ nāma
+saptamaṃ pūraṇam
+।।

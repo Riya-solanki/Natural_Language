@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 93 | label: hybrid | g:0.521 m:0.5 ---
+
+tām utthāpya svajalakaṇikāśītalenānilena pratyāśvastāṃ samam abhinavair jālakair mālatīnām ।
+vidyudgarbhe stimitanayanāṃ tvatsanāthe gavākṣe vaktuṃ dhīrastanitavacanair māninīṃ prakramethāḥ ।।

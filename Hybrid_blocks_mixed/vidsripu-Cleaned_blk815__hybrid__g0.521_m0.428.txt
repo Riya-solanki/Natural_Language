@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 815 | label: hybrid | g:0.521 m:0.428 ---
+
+sambhūyaiva sukhāni cetasi paraṃ bhūmānam ātanvate yatrālokapathāvatāriṇi ratiṃ prastauti netrotsavaḥ ।
+yad bālendukalodayād avacitaiḥ sārair ivotpāditaṃ tat paśyeyam anaṅgamaṅgalagṛhaṃ bhūyo api tasyā mukham ।।
+bhavabhūteḥ

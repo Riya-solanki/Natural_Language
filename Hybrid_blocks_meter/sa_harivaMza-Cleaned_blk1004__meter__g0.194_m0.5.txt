@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1004 | label: meter | g:0.194 m:0.5 ---
+
+viśvajid viśvakṛc caiva tathā satyavatī nṛpa 
+ṛcīkāj jamadagnis tu satyavatyām ajāyata ।।

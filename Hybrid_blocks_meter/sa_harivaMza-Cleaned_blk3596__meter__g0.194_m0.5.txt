@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3596 | label: meter | g:0.194 m:0.5 ---
+
+tribhir vivyādha saṃsaktaṃ baladevaṃ ca kauśikaḥ 
+baladevo dhanuś cāsya bhallenājau dvidhākarot 
+javenābhyardayac cāpi tān arīñ śaravṛṣṭibhiḥ ।। 
+bahubhir bahudhā vīraḥ samantāt svarṇabhūṣaṇaiḥ । 
+taṃ citrasenaḥ saṃrabdho vivyādha navabhiḥ śaraiḥ 
+kauśikaḥ pañcabhiś cāpi jarāsaṃdhaś ca saptabhiḥ ।।

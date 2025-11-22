@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 185 | label: meter | g:0.07 m:0.96 ---
+
+kāṃścit vikāsi-kusumair upahāsa-bhāvān
+kāṃścin natāgra-valanair vimukhī-kṛtāsyān ।
+kāṃścin madāli-virutai rūṣitokti-yuktān
+matvā tarūṃs tad anuyoga-rasād viremuḥ ।। [vasantatilakā]

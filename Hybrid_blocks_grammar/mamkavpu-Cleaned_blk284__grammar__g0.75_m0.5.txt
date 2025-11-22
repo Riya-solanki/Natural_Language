@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 284 | label: grammar | g:0.75 m:0.5 ---
+
+atra keśagrahaṇāvalokanoddīpitamadanā iva kandarāstadvidhurān kaṇṭhe gṛhṇanti ityutprekṣā । ekatra saṃgrāme vijayadarśanāttasyārayaḥ palāyya guhāsu tiṣṭhantīti kāvyaheturalaṅkāraḥ । na palāyya gatāstadvairiṇo api tu tataḥ parābhavaṃ saṃbhāvya tān kandarā na tyajantītyapahnutiśca ।

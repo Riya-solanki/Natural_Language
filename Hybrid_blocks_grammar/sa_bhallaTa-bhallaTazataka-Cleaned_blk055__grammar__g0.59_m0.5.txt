@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 55 | label: grammar | g:0.59 m:0.5 ---
+
+parārthe yaḥ pīḍām anubhavati bhaṅge api madhuro yadīyaḥ sarveṣām iha khalu vikāro apy abhimataḥ 
+na samprāpto vṛddhiṃ sa yadi bhṛśam akṣetrapatitaḥ kim ikṣor doṣo ayaṃ na punar aguṇāyā marubhuvaḥ ।।

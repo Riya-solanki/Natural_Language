@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6998 | label: meter | g:0.306 m:0.5 ---
+
+bodhasvarūpaṃ puruṣaṃ purāṇamādityavarṇaṃ vimalaṃ viśuddham ।
+sañcintya viṣṇuṃ paramadvitīyaṃ kastatra yogī na laṃya prayāti ।।

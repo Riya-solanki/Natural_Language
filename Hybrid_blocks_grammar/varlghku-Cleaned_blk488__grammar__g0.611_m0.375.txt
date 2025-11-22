@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 488 | label: grammar | g:0.611 m:0.375 ---
+
+jhalo jhali ।।
+jhalaḥ parasya sasya lopo jhali । agaupsuḥ । agauptam । agaupsam । agaupsma । agopāyiṣyat, agopiṣyat, agopsyat ।। cikṣāya । cikṣiyuḥ । ekāca iti niṣedhe prāpte

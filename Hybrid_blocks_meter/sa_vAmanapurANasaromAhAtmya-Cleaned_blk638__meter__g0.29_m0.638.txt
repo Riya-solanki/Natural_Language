@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 638 | label: meter | g:0.29 m:0.638 ---
+
+īśvara uvāca
+tapaste varddhatāṃ vipra matprasādāt sahasradhā ।
+āśrame ceha vatsyāmi tvayā sārddhamahaṃ sadā ।।

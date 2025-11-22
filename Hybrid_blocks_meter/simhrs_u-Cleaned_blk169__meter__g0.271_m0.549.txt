@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 169 | label: meter | g:0.271 m:0.549 ---
+
+tatrottamā-
+abhijātair bhoga-tṛptair guṇibhir yā ca kāmyate ।
+gṛhṇāti kāraṇe kopam anunītā prasīdati ।। 
+vidadhaty apriyaṃ patyau svayam ācarati priyam ।
+vallabhe sāparādhe' pi tūṣṇīṃ tiṣṭhati sottamā ।।

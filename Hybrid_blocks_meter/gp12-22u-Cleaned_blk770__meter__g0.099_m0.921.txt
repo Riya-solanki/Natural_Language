@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 770 | label: meter | g:0.099 m:0.921 ---
+
+ākraṣṭuṃ pratidiśam atra netra-mīnān
+vādyādi-prakaṭana-dhīvarā naṭādyāḥ ।
+kṛṣṇasya prathita-guṇāli-gīta-jālaṃ
+tanvānāḥ punar iha dhīvaratvam āpuḥ ।। [praharṣiṇī]

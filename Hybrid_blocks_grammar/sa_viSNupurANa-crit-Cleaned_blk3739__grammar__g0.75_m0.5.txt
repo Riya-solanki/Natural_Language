@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3739 | label: grammar | g:0.75 m:0.5 ---
+
+pṛthuśravasaś ca putras tamaḥ । tasmād uśanā yo vājimedhānāṃ śatam ājahāra । tasya ca śitapur nāma putro abhūt । tasyāpi rukmakavacaḥ । tataḥ parāvṛt parāvṛto rukmeṣupṛthujyāmaghapālitaharitasaṃjñās tasya pañcātmajā babhūvuḥ ।।

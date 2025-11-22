@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3205 | label: meter | g:0.25 m:0.5 ---
+
+dharmāyaitad adharmāya sad etan na sad ity api 
+vimuktaye tv idaṃ naitad vimuktiṃ saṃprayacchati ।।

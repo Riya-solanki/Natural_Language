@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 150 | label: meter | g:0.194 m:0.75 ---
+
+tāvatsaṃkhyair ahorātraṃ muhūrtair mānuṣaṃ smṛtam 
+ahorātrāṇi tāvanti māsaḥ pakṣadvayātmakaḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1880 | label: meter | g:0.25 m:0.5 ---
+
+teṣām eva prabhāvena śivaṃ varṣati vāsavaḥ 
+yathārthaṃ ca vavur vātā virajaskā diśo daśa ।। 
+vātāḥ śivasugandhinaḥ । nirmalaṃ cābhavad vyoma । 
+nirutpātā ca vasudhā supracārāś ca vai grahāḥ 
+candramāś ca sanakṣatraḥ saumyaṃ carati yogataḥ ।।

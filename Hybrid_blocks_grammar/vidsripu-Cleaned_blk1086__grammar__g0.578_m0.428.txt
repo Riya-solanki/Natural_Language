@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1086 | label: grammar | g:0.578 m:0.428 ---
+
+aṅgenāṅgam anupraviśya milato hastāvalepādibhiḥ kā vārtā yudhi gandhasindhurapater gandho api cet ke dvipāḥ ।
+jetavyo asti hareḥ sa lāñchanam ato vandāmahe tām abhūd yadgarbhe śarabhaḥ svayaṃjaya iti śrutvāpi yo nāṅkitaḥ ।।
+vallaṇasyaitau

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 788 | label: grammar | g:0.75 m:0.5 ---
+
+atha tasya mahātmanaḥ sumanānāmāntaḥpurāgracarā bhujagayoṣid atītāyām ucitāyāṃ tadāgamanavelāyāṃ taṃ bhogipatim apaśyantī jānānā tasya prakṛtibhadratām anāryakarmārāmatāṃ ca mānuṣahṛdayānāṃ tadatyayāśaṅkinī tīvraśokāyāsavyathitahṛdayā tat tad vikalpya satvaraṃ ruroda ।।

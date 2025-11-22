@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3321 | label: grammar | g:0.667 m:0.5 ---
+
+tad yathā sakalajagatām anādir ādibhūta-ṛgyajuḥsāmādimayo bhagavadviṣṇumayasya brahmaṇo mūrtaṃ rūpaṃ hiraṇyagarbho brahmāṇḍato bhagavān brahmā prāg babhūva ।।

@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 86 | label: hybrid | g:0.422 m:0.414 ---
+
+nanu nāsti tāvaj jñānapratibandhakāraṇavānīśvarādanyaḥ saṃsārī, anānyo astī draṣṭā nānyo ato astī vijñātā' iti śruteḥ ।
+tatra kimidamucyate saṃsāriṇaḥ śarīrādyapekṣā jñānotpattirneśvarasyeti ।

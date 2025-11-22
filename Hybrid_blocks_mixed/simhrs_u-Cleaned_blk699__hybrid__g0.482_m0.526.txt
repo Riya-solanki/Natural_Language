@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 699 | label: hybrid | g:0.482 m:0.526 ---
+
+asat-pralāpād, yathā-
+katham api na niṣiddho duḥkhinā bhīruṇā vā drupada-tanaya-pāṇis tena pitrā mamādya ।
+tava bhuja-bala-darpādhyāyamānasya vāmaḥ śirasi caraṇa eṣa nyasyate vārayainam ।।

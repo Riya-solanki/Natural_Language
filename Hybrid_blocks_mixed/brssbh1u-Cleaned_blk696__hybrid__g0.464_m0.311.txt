@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 696 | label: hybrid | g:0.464 m:0.311 ---
+
+atrāha- yadi jagadidamanabhivyaktanāmarūpaṃ bījātmakaṃ prāgavasthamavyaktaśabdārhamabhyupagamyeta, tadātmanā ca śarīrasyāpyavyaktaśabdārhatvaṃ pratijñāyeta, sa eva tarhi pradhānakāraṇavāda evaṃ satyāpadyeta ।
+asyaiva jagataḥ prāgavasthāyāḥ pradhānatvenābhyupagamāditi ।

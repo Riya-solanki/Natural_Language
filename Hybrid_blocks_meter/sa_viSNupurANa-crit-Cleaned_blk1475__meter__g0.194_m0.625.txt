@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1475 | label: meter | g:0.194 m:0.625 ---
+
+tathā hiraṇyaromāṇaṃ parjanyasya prajāpateḥ 
+udīcyāṃ diśi durdharṣaṃ rājānaṃ so abhyaṣecayat ।।

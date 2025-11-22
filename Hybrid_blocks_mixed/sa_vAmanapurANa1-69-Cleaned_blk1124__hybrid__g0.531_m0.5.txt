@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1124 | label: hybrid | g:0.531 m:0.5 ---
+
+saumyena yugmaṃ stanayoḥ susaṃhataṃ madhyaṃ tathaindreṇa ca tejasābhavat ।
+ūraba cajaṅghe ca nitambasaṃyute jāte jaleśasya tu tejasā hi ।।

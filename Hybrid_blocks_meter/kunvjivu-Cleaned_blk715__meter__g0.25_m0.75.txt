@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 715 | label: meter | g:0.25 m:0.75 ---
+
+mānamasyā nirākartuṃ pādayorme patipyataḥ ।
+upakārāya diṣṭayaitadudīrṇaṃ ghanagarjitam ।।

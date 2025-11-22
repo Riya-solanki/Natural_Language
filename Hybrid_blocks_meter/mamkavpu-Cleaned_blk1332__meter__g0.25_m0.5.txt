@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1332 | label: meter | g:0.25 m:0.5 ---
+
+kārye nimitte sāmānye viśeṣe prastute sati ।
+tadanyasya vacastulye tulyasyeti ca pañcadhā ।।

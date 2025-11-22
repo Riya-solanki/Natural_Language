@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 765 | label: meter | g:0.194 m:0.75 ---
+
+viṃśam ekādhikaṃ bhadre aḥ-kha-madhyagataṃ punaḥ 
+ṝ-pūrvāsanam ārūḍhaṃ dvāviṃśatim udāhṛtam ।।

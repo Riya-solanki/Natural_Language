@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5535 | label: grammar | g:0.552 m:0.461 ---
+
+śrotre baddhvā śaṅkhapuṣpīṃ jvaraṃ mantreṇa vai haret ।
+oṃ jambhinī stambhinī mohaya sarvavyādhīnme vajreṇa ṭhaḥ ṭhaḥ sarvavyādhīnme vajreṇa phaṭ iti ।।

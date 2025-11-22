@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 577 | label: grammar | g:0.562 m:0.5 ---
+
+atra garvita-rāvaṇa-kṛtena martyetarābhaya-varaṇena jātā mālyavataḥ śaṅkā marmaṇi spṛśatītyādinā vāg-ārambheṇa pratīyate ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2780 | label: meter | g:0.194 m:0.5 ---
+
+tad ahaṃ samanuprāpto gavāṃ vākyena coditaḥ 
+brahmanaś ca mahābhāga gauravāt tava cāgataḥ ।।

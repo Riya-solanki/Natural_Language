@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 691 | label: meter | g:0.139 m:0.76 ---
+
+tatra iṣṭa-vastu-viyogāt-
+saṃkṣipyante kṣana iva kathaṃ dīrgha-yāmā triyāmā
+sarvāvasthāsv ahar api kathaṃ manda-mandātapaṃ syāt ।
+itthaṃ cetaś caṭula-nayane durlabha-prārthanaṃ me
+gāḍhoṣmābhiḥ kṛtam aśaraṇaṃ tvad-viyoga-vyathābhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3406 | label: meter | g:0.25 m:0.625 ---
+
+aho niṣkaruṇā yātrā narāṇām aurdhvadehikī 
+ye parityajya dārān svān nirapekṣā vrajanti ha ।।

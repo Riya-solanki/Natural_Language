@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1737 | label: meter | g:0.306 m:0.5 ---
+
+kiṃśuke kiṃ śukaḥ kuryāt phalite api bubhukṣitaḥ ।
+adātari samṛddhe api kiṃ kuryur anujīvinaḥ ।।

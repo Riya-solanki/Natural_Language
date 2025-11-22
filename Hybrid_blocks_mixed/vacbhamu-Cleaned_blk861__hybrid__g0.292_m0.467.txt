@@ -1,0 +1,9 @@
+--- source: vacbhamu-Cleaned.txt | block: 861 | label: hybrid | g:0.292 m:0.467 ---
+
+iti prāpta ucyate- na vā viśeṣāt ।
+satyaṃ yatra svarūpamātrasaṃbandho dharmāṇāṃ śrūyate tatraivaṃ svarūpasya pratyabhijñāyamānatvāttanmātrasaṃbandhitvācca dharmāṇām ।
+yatra tu saviśeṣaṇaṃ pradhānamavagamyate tatra saviśeṣaṇasyaiva tasya dharmābhisaṃbandho na nirviśeṣaṇasya nāṭyanyaviśeṣaṇasahitasya ।
+nahi daṇḍinaṃ puruṣamānayetyukte damḍarahitaḥ kamaṇḍalumānānīyate ।
+tasmādadhidaivaṃ satyasyopaniṣaduktā na tasyaivādhyātmaṃ bhavitumarhati ।
+yathā cācāryasya gacchato anugamanaṃ vihitaṃ na tiṣṭhato bhavati, tasmānnopaniṣadoḥ saṃkaraḥ kintu vyavasthitiḥ ।
+tadidamuktaṃ-svarūpānapāyāditi ।।

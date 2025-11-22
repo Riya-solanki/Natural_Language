@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 296 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tataś ca kṛṣṇaḥ savyena pāṇinā tad-apasavyaṃ bāhuṃ gṛhītvā dakṣiṇāṅguṣṭha-madhyamābhyāṃ tad-adhara-puṭaṃ mṛdu niṣpīḍya smayamāna uvāca, "suṣṭhu ghuṣṭa-paṭṭa-ḍorakeṇa tad idaṃ sīvyate cen, munitām āpadyate viprakīrṇa-buddhir ayaṃ yan mitra-vipraḥ ।" madhumaṅgalas tu tadvan mudrita-mukha evāmbū-kṛta-nirasta-grasta-vacanatayā vyaktavān, "tathā ced antar-lobhanam anyatra tu durlabhaṃ nija-gṛhān matsyaṇḍī-khaṇḍa-cayam ādāyākhaṇḍa-kālam eva man-mukhaṃ pūrayathaḥ । tataḥ kathaṃ vā kim-arthaṃ vā vāṇī-vyayaṃ karavāṇi? tad etad api sevanam eva bhaṇyate ।"

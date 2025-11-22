@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 300 | label: grammar | g:0.75 m:0.5 ---
+
+-utkaṭaikatarakoṭikaḥ saṃśayaḥ saṃbhāvanā । kāryeṇa hi kāraṇaṃ kiñcidastīti mitam । tattvekamanekaṃ veti saṃdigdhaṃ । tasya yadaikatvaṃ sidhyati tadā tatsarvajñaṃ sarvaśakti ca bhavati । ayaṃ ca saṃdehaḥ kalpanālāghavākhyatarkeṇa utkaṭaikatarakoṭikatāṃ nītaḥ saṃbhavānetyucyate prāsādādīnāmanekakartṛkatvasya dṛṣṭatvānna tatra nirṇayo bhavati ato nirṇayārthamāvaśyakamagnimādhikaraṇamiti bhāvaḥ ।

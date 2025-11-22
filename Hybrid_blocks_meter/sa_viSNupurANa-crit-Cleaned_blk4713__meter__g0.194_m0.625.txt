@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4713 | label: meter | g:0.194 m:0.625 ---
+
+saha tābhyāṃ tadākrūraḥ kṛtasaṃvandanādikaḥ 
+bhuktabhojyo yathānyāyam ācacakṣe tatas tayoḥ ।।

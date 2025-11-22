@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 180 | label: grammar | g:0.583 m:0.5 ---
+
+sāmyaṃ samprati sevate vicakilaṃ ṣāṇmāsikair mauktikair bāhlīkīdaśanavraṇāruṇatalaiḥ patrair aśoko arcitaḥ ।
+bhṛṅgālaṅghitakoṭi kiṃśukam idaṃ kiṃcid vivṛntāyate māñjiṣṭhair mukulaiś ca pāṭalitaror anyaiva kācil lipiḥ ।।

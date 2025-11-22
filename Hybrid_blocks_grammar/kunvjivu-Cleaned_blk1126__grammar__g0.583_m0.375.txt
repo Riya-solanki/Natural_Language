@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1126 | label: grammar | g:0.583 m:0.375 ---
+
+atra dambholidalitakāñcanācalapādasādṛśyapratīyamānāparimitasya tapanīyakūṭasya sarvasyāpi ṇanāt, anya eva tādṛśadraviṇavyasanavartino dilīpanandanasya, kalpanākalaṅkakadarthitārthavitaraṇānuccatarān kalpatarūpanapi tiraskurvāṇaḥ sa koṣyaudāryasīmāviśeṣaḥ samujjṛmbhate, yena garbhokṛtagarvagarimagranthīśithilādvitīyayaśassandohadohadasya dātrantarāsahiṣṇoḥ "gurvartham" ityādeḥ prathamoditavākyaprakāṇḍasya prāṇaparispandaparipoṣaṇamevādhīyate ।
+anyacca

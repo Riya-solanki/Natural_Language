@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3303 | label: meter | g:0.306 m:0.5 ---
+
+etāni sarvajagataḥ parivyāpya sthitāni hi ।
+balinā balavān brahman tiṣyo api hi kṛtaḥ kṛtaḥ ।।

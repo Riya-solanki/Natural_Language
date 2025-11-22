@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 100 | label: grammar | g:0.572 m:0.032 ---
+
+gaganaṃ gaganobhdūtamākāśākāśaṃ sa paśyati । tathaiva hi gurorvaktrātprayogo ayaṃ pradarśitaḥ ।। iti । dharmā ime śabdarutena vyākṛtā dharmaśca śabdaśca hi nātra labhyate । na caikatāṃ cāpyavatīrya dharmatāmanuttarāṃ kṣāntivarāṃ spṛśiṣyate ।। iti । 
+namaste varadavajrāgrya bhūtakoṭe namo astu te ।
+namaste śūnyatāgarbha buddhabodhe namo astu te ।।

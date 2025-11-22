@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 615 | label: hybrid | g:0.455 m:0.5 ---
+
+tair uktā sā tu mā bhaiṣīr iti vyomni vyavasthitā 
+tataḥ prasādayām āsa svān pitṝn dīnayā girā ।।

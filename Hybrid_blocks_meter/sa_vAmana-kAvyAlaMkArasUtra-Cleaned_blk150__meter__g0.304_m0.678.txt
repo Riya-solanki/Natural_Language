@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 150 | label: meter | g:0.304 m:0.678 ---
+
+।।
+sāmyotkarṣau ca ।।
+sāmyamutkarṣaścaujaḥprasādayoreva । sāmyaṃ yathā

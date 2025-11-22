@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2110 | label: meter | g:0.428 m:0.652 ---
+
+nārada uvāca ।
+yau'sau mura iti khyātaḥ kasya putraḥ sa gīyate ।
+kathaṃ ca nahataḥ saṃkhye viṣṇunā tad vadasva me ।।

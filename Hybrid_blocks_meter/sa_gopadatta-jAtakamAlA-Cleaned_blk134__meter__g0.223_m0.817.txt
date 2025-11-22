@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 134 | label: meter | g:0.223 m:0.817 ---
+
+pratyāvṛttasitākṣikośavikṛtavyāghrānano bhīṣaṇaḥ
+śastreṇeva vidāryamāṇakaraṇo marmacchidā vāyunā ।
+bandhūnāṃ purataḥ kṛtāntamakareṇākramya nighno yadā
+kruddheneva vitīryate adhikataraṃ kiṃ nāma duḥkhaṃ tataḥ ।।

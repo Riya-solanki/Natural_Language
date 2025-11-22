@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10235 | label: meter | g:0.25 m:0.5 ---
+
+ubhau tau nirayaṃ yāto yāvadācandratārakam ।
+sākṣāddhariḥ puruṣaḥ piṅgalākṣaḥ svamāyāyāṃ guṇamayyāṃ mahātmā ।
+svapauruṣeṇaiva sumaṅgalena adhāttu vīryaṃ bhagavānvīryavāṃśca ।।

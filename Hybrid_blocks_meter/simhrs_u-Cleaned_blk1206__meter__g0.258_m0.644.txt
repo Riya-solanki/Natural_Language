@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 1206 | label: meter | g:0.258 m:0.644 ---
+
+atha sandhiḥ-
+ekaikasyās tv avasthāyāḥ prakṛtyā caikayaikayā ।
+yogaḥ sandhir iti jñeyo nāṭya-vidyā-viśāradaiḥ ।। 
+patākāyās tv avasthānaṃ kvacid asti na vā kvacit ।
+patākā-virahe bījaṃ binduṃ vā kalpayet sudhīḥ ।। 
+mukhya-prayojana-vaśāt kathāṅgānāṃ samanvaye ।
+avāntarārtha-sambandhaḥ sandhiḥ sandhāna-rūpataḥ ।।

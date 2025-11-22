@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3526 | label: meter | g:0.25 m:0.5 ---
+
+mathuropavane gatvā niviṣṭāṃs tān narādhipān 
+apaśyan vṛṣṇayaḥ sarve puraskṛtya janārdanam ।। 
+tān āgatān nṛpān rājan māgadhān rājasattamān । 
+tato hṛṣṭamanāḥ kṛṣṇo rāmaṃ vacanam abravīt 
+tvarate khalu kāryārtho devatānāṃ na saṃśayaḥ ।।

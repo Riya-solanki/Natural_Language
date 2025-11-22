@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 584 | label: grammar | g:0.562 m:0.5 ---
+
+garbhagranthiṣu vīrudhāṃ sumanaso madhye aṅkuraṃ pallavā vāñchāmātraparigrahaḥ pikavadhūkaṇṭhodare pañcamaḥ ।
+kiṃ ca trīṇi jaganti jiṣṇu divasairdvitrairmanojanmano devasyāpi cirojjhitaṃ yadi bhavedabhyāsavaśyaṃ dhanuḥ ।।

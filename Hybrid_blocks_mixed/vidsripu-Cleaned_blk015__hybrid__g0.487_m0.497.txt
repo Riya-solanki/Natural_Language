@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 15 | label: hybrid | g:0.487 m:0.497 ---
+
+kandarpād api sundarākṛtir iti prauḍhotsaladrāgayā vṛddhatvaṃ varayoṣito anayad iti trāsākulasvāntayā ।
+mārasyāpi śarair abhedyahṛd iti śraddhābharaprahvayā pāyād vaḥ sphuṭabāṣpakampapulakaṃ ratyā jino vanditaḥ ।।
+tasyaiveti śrutiḥ

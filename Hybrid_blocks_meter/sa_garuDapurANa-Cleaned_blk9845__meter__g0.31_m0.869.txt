@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9845 | label: meter | g:0.31 m:0.869 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+bhagavandevadeveśa kṛpayā parayā vada ।
+dānaṃ dānasya māhātmyaṃ vaitaraṇyāḥ pramāṇakam ।।

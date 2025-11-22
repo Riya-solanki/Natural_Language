@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7524 | label: meter | g:0.25 m:0.625 ---
+
+vedī tatra prakartavyā yathāśāstramathāṇḍaja ।
+pratevastraṃ dvidhā kṛtvārdhena taṃ chādayettataḥ ।।

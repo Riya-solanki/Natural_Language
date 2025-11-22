@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6136 | label: meter | g:0.194 m:0.625 ---
+
+parimaṇḍalaṃ tat suṣiram ākāśaṃ śabdalakṣaṇam 
+śabdamātraṃ tadākāśaṃ sarvam āvṛtya tiṣṭhati ।।

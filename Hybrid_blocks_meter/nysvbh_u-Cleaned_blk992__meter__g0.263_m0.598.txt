@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 992 | label: meter | g:0.263 m:0.598 ---
+
+parīkṣitā iti, buddhisamānāśrayatvādātmaguṇāḥ pravṛttihetutvāt punarbhavapratisaṃdhānasāmarthyācca saṃsārahetavaḥ saṃsārasyānāditvādanādinā prabandhena pravartante।
+mithyājñānanivṛttistattvajñānāt tannivṛttau rāgadveṣaprabandhocchede apavarga iti।
+prādurbhāvatirodhānadharmakā ityevamādyuktaṃ doṣāṇāmiti ।।

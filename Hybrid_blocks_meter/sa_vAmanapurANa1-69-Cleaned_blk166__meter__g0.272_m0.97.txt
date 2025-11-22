@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 166 | label: meter | g:0.272 m:0.97 ---
+
+khaḍgacarmagadāprāsaparaśvadhavarāṅkuśaiḥ ।
+cāpamārgaṇabhṛttasthau hantukāmo gaṇeśvaram ।।

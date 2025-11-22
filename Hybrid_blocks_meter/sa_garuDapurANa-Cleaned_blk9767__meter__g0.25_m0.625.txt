@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9767 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ kṛte gamiṣyanti svarlokaṃ pāpakarmiṇaḥ ।
+sapiṇḍīkaraṇādau tu kṛte caivāpnuvantite ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1560 | label: grammar | g:0.75 m:0.5 ---
+
+rājā -kiṃ nāmātiśayita-divya-rūpiṇo nakulasya darcānenotsukā jātā । tat katham anayā pāpayā mādrī-sutānuraktayā vayam evaṃ vipralabdhāḥ । mūrkha duryodhana kulaṭā-vipralabhyamānam ātmānaṃ bahu manyamāno' dhunā kiṃ vakṣyasi । aho etad artham evāsyāḥ prātar eva vivikta-sthānābhilāṣaḥ sakhī-jana-saṅkathāsu ca pakṣa-pātaḥ । duryodhanas tu mohād avijñāta-bandhakī-hṛdaya-sāraḥ kvāpi paribhrāntaḥ । ity atra devī-svapnasya aniścayād duryodhanasya viparīta-jñānaṃ bhrāntiḥ ।

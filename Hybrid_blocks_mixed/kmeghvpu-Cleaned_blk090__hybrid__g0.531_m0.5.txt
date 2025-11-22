@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 90 | label: hybrid | g:0.531 m:0.5 ---
+
+vāmo vāsyāḥ kararuhapadair mucyamāno madīyair muktājālaṃ ciraparicitaṃ tyājito daivagatyā ।
+saṃbhogānte mama samucito hastasaṃvāhanānāṃ yāsyaty ūruḥ sarasakadalīstambhagauraś calatvam ।।

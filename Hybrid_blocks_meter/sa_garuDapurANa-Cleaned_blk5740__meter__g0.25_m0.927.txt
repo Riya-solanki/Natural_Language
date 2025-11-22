@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5740 | label: meter | g:0.25 m:0.927 ---
+
+tritayaṃ pippalīmūlaṃ viḍaṅgānāṃ catuṣṭayam ।
+aṣṭau muśalikābhāgāstriphalāyāścatuṣṭayam ।
+dviguṇena guḍenaiṣāṃ modakāniha kārayet ।।

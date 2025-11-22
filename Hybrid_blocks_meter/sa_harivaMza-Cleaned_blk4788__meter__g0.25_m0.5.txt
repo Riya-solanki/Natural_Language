@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4788 | label: meter | g:0.25 m:0.5 ---
+
+kim evaṃ cintayāviṣṭo na kiṃcid api bhāṣase 
+cintāṃ kartuṃ vṛthā deva na tvam arhasi mādhava ।।

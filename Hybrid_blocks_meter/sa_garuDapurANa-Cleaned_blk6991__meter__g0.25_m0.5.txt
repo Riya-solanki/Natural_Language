@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6991 | label: meter | g:0.25 m:0.5 ---
+
+sa satyavākūchucirdātā yaḥ stauti puruṣottamam ।
+asaṃbhāṣyā hi te sarve sarvadharmabahiṣkṛtāḥ ।।

@@ -1,0 +1,7 @@
+--- source: brsvbh1u-Cleaned.txt | block: 214 | label: hybrid | g:0.274 m:0.469 ---
+
+ntaḥkaraṇavṛttāvapyasya sākṣātkāre sarvopādhivinirmokaḥ, tasyaiva tadupādhervinaśyadavasthasya svapararūpopādhivirodhino vidyamānatvāt ।
+anyathā caitanyacchāyāpattiṃ vināntaḥkaraṇavṛtteḥ svayamacetanāyāḥ svaprakāśatvānupapattau sākṣātkāratvāyogāt ।
+na cānumitabhāvitavahnisākṣātkāravat pratibhātvenāsyāprāmāṇyam, tatra vahnisvalakṣaṇasya parokṣatvāt ।
+iha tu brahmasvarūpasyopādhikaluṣitasya jīvasya prāgapyaparokṣateti ।
+nahi

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 678 | label: meter | g:0.194 m:0.625 ---
+
+gurau māsaṃ śivībhūte bhrātṛśiṣyādike tryaham 
+śaive rājani saptāhaṃ trirātraṃ paśudharmiṇi ।।

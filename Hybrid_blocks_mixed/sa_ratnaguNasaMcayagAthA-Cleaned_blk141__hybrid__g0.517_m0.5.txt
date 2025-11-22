@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 141 | label: hybrid | g:0.517 m:0.5 ---
+
+ghaṭake apakvi yatha vāri vaheya kācit jñātavyu kṣipra ayu bhetsyati durbalatvāt 
+paripakvi vāri ghaṭake vahamānu mārge na ca bhedanādbhayamupaiti ca svasti geham ।।

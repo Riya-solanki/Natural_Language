@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1189 | label: meter | g:0.331 m:0.677 ---
+
+atha kāryam-
+vastunas tu samastasya dharma-kāmārtha-lakṣaṇam । 
+phalaṃ kāryam iti śuddhaṃ miśraṃ vā kalpayet sudhīḥ ।।

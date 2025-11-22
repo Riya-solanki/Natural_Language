@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2949 | label: meter | g:0.25 m:0.625 ---
+
+nagnāṃ parastriyaṃ caiva sūryaṃ cāstamanodaye 
+na huṃkuryāc chavaṃ caiva śavagandho hi somajaḥ ।।

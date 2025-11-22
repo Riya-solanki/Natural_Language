@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 512 | label: meter | g:0.194 m:0.75 ---
+
+{tīrthāntareṣu snānena samupārjitasatkṛtiḥ ।
+surasrotasvinīmeṣa hanti saṃprati sādaram ।।}

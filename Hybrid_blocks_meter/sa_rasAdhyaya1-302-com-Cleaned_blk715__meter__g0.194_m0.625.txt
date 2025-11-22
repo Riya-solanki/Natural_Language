@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 715 | label: meter | g:0.194 m:0.625 ---
+
+bījapūrasya yadvṛntaṃ kuryāduttārya randhrakam 
+tanmadhye hīrakaṃ jātyaṃ kṣiptvā vṛntena chādayet ।।

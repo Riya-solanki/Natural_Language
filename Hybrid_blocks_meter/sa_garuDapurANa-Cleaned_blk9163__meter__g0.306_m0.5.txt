@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9163 | label: meter | g:0.306 m:0.5 ---
+
+asthi śukraṃ tathā snāyuḥ dehena saha dahyate ।
+eṣa te kathitastārkṣya vināśaḥ sarvadehinām ।।

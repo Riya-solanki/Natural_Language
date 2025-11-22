@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5327 | label: meter | g:0.272 m:0.845 ---
+
+āmrāsthicūrṇalepādvai keśāḥ sūkṣmā bhavanti ca ।
+karañjāmalakailālalākṣālepo aruṇāpahaḥ ।।

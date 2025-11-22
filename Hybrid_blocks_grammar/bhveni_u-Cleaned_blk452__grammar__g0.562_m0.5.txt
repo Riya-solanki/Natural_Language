@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 452 | label: grammar | g:0.562 m:0.5 ---
+
+SktCh sādhu svāmini sādhu । susaṃvidhāno me bhartā tvayā kṛtaḥ ।

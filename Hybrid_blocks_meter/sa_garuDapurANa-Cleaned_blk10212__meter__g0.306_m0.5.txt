@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10212 | label: meter | g:0.306 m:0.5 ---
+
+eteṣāṃ ca hariḥ svāmī vede sarvatra gīyate ।
+evaṃ jānaṃstu yo vedānsaṃpaṭhetsa dvijottamaḥ ।।

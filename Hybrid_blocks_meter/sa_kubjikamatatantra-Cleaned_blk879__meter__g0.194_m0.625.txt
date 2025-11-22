@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 879 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ saṃsmṛtya vidhivat sarvakarmāṇi sādhayet 
+arcanaṃ havanaṃ dhyānaṃ japam ekāntarūpiṇam ।।

@@ -1,0 +1,3 @@
+--- source: brssgo4u-Cleaned.txt | block: 15 | label: grammar | g:0.562 m:0.5 ---
+
+sakṛt śrutau ca brahma ātmatvapratīti anupapatteḥ āvṛtti abhyupagama iti cet ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1803 | label: meter | g:0.194 m:0.5 ---
+
+caritaṃ tasya viprendra divyaṃ bhagavato divi 
+vistareṇa yathātattvaṃ sarvam icchāmi veditum ।।

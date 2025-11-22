@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1949 | label: meter | g:0.25 m:0.625 ---
+
+gaṇā guhavacaḥ śrutvā avatīrya mahītalam ।
+ārāt patantastaddeśaṃ nādaṃ cakrurbhayaṅkaram ।।

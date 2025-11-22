@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 252 | label: grammar | g:0.622 m:0.232 ---
+
+samānasya dharmasyādhyavasāyāt saṃśayo na dharmamātrāt, atha vā asamānamanayordharmamupalabhe' iti dharmadharmigrahaṇe saṃśayābhāva iti, atha vā samānadharmādhyavasāyādarthāntarabhūte dharmiṇi saṃśayo anupapannaḥ na jātu rūpāsayārthāntarabhūtasyādhyavasāyādarthāntarabhūte sparśe saṃśaya iti, atha vā nādhyavasāyāt arthāvadhāraṇād anavadhāraṇajñānaṃ saṃśaya upapadyate kāryakāraṇayoḥ sārūpyābhavāditi।
+etena"anekadharmādhyavasāyāt"iti vyākhyātam।
+anyataradharmādhyavasāyācca saṃśayo na bhavati tato hyanyatarāvadhāraṇameveti ।।

@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 60 | label: hybrid | g:0.521 m:0.5 ---
+
+smaryate yad dṛg āsīn me saivam ity api bhedataḥ ।
+tad vyākaraṇam evāsyā mayā dṛṣṭam iti smṛteḥ ।।

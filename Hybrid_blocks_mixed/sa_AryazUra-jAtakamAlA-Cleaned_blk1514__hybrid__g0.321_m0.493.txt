@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1514 | label: hybrid | g:0.321 m:0.493 ---
+
+kṛtopakāro api ca bhakṣya eva nisargayogaḥ sa hi tādṛśo asya ।
+āpatprasiddhaśca kilaiṣa dharmaḥ pātheyatāmityupaneya eṣaḥ ।।

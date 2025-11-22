@@ -1,0 +1,5 @@
+--- source: brsvbh2u-Cleaned.txt | block: 202 | label: meter | g:0.25 m:0.502 ---
+
+tadetannirācikīrṣurāhaśūnyavādipakṣastu sarvapramāṇavipratiṣiddha iti tannirākaraṇāya nādaraḥ kriyate ।
+laukikāni hi pramāṇāni sadasattvagocarāṇi ।
+taiḥ khalu satsaditi gṛhyamāṇaṃ yathābhūtamaviparītaṃ tattvaṃ

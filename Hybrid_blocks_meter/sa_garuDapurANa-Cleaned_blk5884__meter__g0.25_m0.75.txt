@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5884 | label: meter | g:0.25 m:0.75 ---
+
+bhinnāñjananibhākāraṃ nikhilaṃ vyāpya saṃsthitam ।
+ātmamūrtisthitaṃ dhyāyedvāyavyaṃ tīkṣṇamaṇḍalam ।।

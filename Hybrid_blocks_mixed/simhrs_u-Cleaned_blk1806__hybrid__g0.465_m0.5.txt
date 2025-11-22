@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1806 | label: hybrid | g:0.465 m:0.5 ---
+
+sevyaṃ kiṃ param uttamasya caritaṃ lokottaraḥ kaḥ pumān
+śrī-siṃhaḥ sa tu kīdṛśo vada nidhir dharmasya dharmas tu kaḥ ।
+satyoktir vacanaṃ tu kiṃ kavi-nutaṃ ko nāma tādṛk kavir
+viśveśaḥ sa tu kīdṛśo vijayate viśveṣu viśveśavat ।।

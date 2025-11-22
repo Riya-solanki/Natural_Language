@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4322 | label: meter | g:0.194 m:0.625 ---
+
+surāsuramanuṣyeṣu nāsin na bhavitā kvacit 
+ya imām āvaset kaścid anyatra madhusūdanāt ।।

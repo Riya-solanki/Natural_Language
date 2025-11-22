@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11641 | label: meter | g:0.398 m:0.555 ---
+
+snānaṃ kurvanti ye tatra teṣāṃ muktiḥ kare sthitā ।
+tisraḥ koṭyordhakoṭiśca tīrthāni bhuvanatraye ।
+tāni sarvāṇi tatraiva saṃti tīrthe hareḥ sadā ।।

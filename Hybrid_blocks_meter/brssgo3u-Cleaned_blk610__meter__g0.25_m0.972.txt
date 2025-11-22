@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 610 | label: meter | g:0.25 m:0.972 ---
+
+manaścidādīnāṃ kriyāṅgatve prakaraṇamuktvā liṅgamāha-atideśācceti ।
+kriyāṅgatvasādṛśyādatideśa ityarthaḥ ।।

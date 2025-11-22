@@ -1,0 +1,9 @@
+--- source: brssbh4u-Cleaned.txt | block: 294 | label: hybrid | g:0.46 m:0.432 ---
+
+evaṃ prāpte brūmaḥ saṃkalpādeva tu kevalāt pitrādisamutthānam iti ।
+kutaḥ - tat śruteḥ ।
+asaṃkalpādevāsya pitaraḥ samuttiṣṭhanti' ityādikā hi śrutiḥ nimittāntara apekṣāyāṃ pīḍyeta ।
+nimittāntaram api tu yadi saṃkalpa anuvidhāyi eva syāt bhavatu na tu prayatnāntarasaṃpādyaṃ nimittāntaram iti iṣyate ।
+prāk tat saṃpatteḥ vandhyasaṃkalpatva prasaṅgāt ।
+na ca śruti avagamye arthe lokavat iti sāmānyato dṛṣṭaṃ kramate ।
+saṃkalpabalāt eva ca eṣāṃ yāvat prayojanaṃ sthairya upapattiḥ prākṛtasaṃkalpavilakṣaṇatvāt muktasaṃkalpasya ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 53 | label: meter | g:0.25 m:0.625 ---
+
+viṣṇorārādhanārthaṃ me vratacaryā pitāmaha ।
+tameva gatvā pṛcchāmaḥ sāraṃ yaṃ cintayāmyaham ।।

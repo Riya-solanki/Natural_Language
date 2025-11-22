@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7980 | label: meter | g:0.306 m:0.625 ---
+
+te vivarṇamukhāḥ sarve taṃ dvijañca śavaṃ tathā ।
+ekaikaṃ hastapādaiśca gṛhītvā yuddhamārabhan ।।

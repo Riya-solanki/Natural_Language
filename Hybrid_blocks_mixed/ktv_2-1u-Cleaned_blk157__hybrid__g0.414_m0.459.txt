@@ -1,0 +1,7 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 157 | label: hybrid | g:0.414 m:0.459 ---
+
+kṣaṇikatvena punaḥ punar niṣpattyapekṣopapatteḥ ।
+tebhyaḥ parākāṅkṣā anyākāṅkṣā niṣpādyatvena vā pradhānākāṅkṣā na vidyata ity adhyāhāraḥ ।
+atha vā tebhyaḥ parā dūre ākāṅkṣety arthaḥ ।
+kutaḥ ।
+bhūtatvāt iti svarūpakathanārtham upanyastaṃ niṣpannatvād eveti punar ante tad eva hetutvenopadiṣṭaṃ sūtrakāreṇa ।

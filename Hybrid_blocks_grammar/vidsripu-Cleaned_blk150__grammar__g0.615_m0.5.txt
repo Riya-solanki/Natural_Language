@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 150 | label: grammar | g:0.615 m:0.5 ---
+
+agre gacchata dhenudagdhakalaśān ādāya gopyo gṛhaṃ dugdhe vaskayaṇīkule punar iyaṃ rādhā śanair yāsyati ।
+ity anyavyapadeśaguptahṛdayaḥ kurvan viviktaṃ vrajaṃ devaḥ kāraṇanandasūnur aśivaṃ kṛṣṇaḥ sa muṣṇātu vaḥ ।।

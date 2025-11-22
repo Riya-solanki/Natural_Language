@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5101 | label: meter | g:0.25 m:0.5 ---
+
+pitṝn putrā niyokṣyanti vadhvaḥ śvaśrūś ca karmasu 
+vākśarais tarjayiṣyanti gurūñ śiṣyās tathaiva ca । 
+mukheṣu ca prayokṣyanti pramattāś ca narās tadā । 
+viyoniṣu cariṣyanti pramadāsu narās tadā ।।

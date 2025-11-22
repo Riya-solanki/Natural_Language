@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1418 | label: grammar | g:0.583 m:0.5 ---
+
+karaṅkaḥ-tathaiva । ity atra bhaviṣyataḥ kumbhakarṇādi-rākṣasa-nāśasya kaṅkāla-karaṅkābhyāṃ siddhavat niścitya sūcanāt prarocanā ।

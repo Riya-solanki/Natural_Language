@@ -1,0 +1,8 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10950 | label: meter | g:0.25 m:0.555 ---
+
+vakratvaṃ nāsti yogasya ṛjuryogya iti smṛtaḥ ।
+yogasya vakratā nāma kāmyatā haripūjane ।
+īśarudrādikānāṃ ca kāmyena haripūjanam ।।
+kasyacittvatha pakṣīndra hyatastvanṛjavaḥ smṛtāḥ ।।
+ṛṣyādīnāṃ ca madhyepi kāmyena haripūjanam ।
+ato na ṛjavo jñeyā manuṣyāṇāṃ ca kā kathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2756 | label: meter | g:0.25 m:0.75 ---
+
+karmamudrāprayogeṇa karmavajraṃ hṛdi sthitaṃ ।
+bhāvayaṃ dharmatāmetāvāpnoti svakarmatām ।।

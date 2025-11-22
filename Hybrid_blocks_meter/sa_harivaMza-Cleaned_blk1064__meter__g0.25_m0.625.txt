@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1064 | label: meter | g:0.25 m:0.625 ---
+
+jayadhvajasya putras tu tālajaṅgho mahābalaḥ 
+tasya putrāḥ śatākhyās tu tālajaṅghā iti śrutāḥ ।।

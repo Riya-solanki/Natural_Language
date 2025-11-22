@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4813 | label: meter | g:0.25 m:0.5 ---
+
+saṃrakṣyāś ca vayaṃ devair asmābhiś cāpi devatāḥ 
+devatārthe vayaṃ cāpi mānuṣatvam upāgatāḥ ।। 
+viṣṇur madhunihā vīro devadevaḥ sanātanaḥ । 
+evam akrūravacanaiś coditaḥ puruṣottamaḥ 
+snigdhagambhīrayā vācā punaḥ kṛṣṇo abhyabhāṣata ।।

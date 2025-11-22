@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9591 | label: meter | g:0.264 m:0.852 ---
+
+tatsannidhānamaraṇānmuktirjantoḥ suniścatā ।
+ropaṇāt pālanāt sekāddhyānasparśanakīrtanāt ।
+tulasī dahate pāpaṃ nṛṇāṃ janmārjitaṃ khaga ।।

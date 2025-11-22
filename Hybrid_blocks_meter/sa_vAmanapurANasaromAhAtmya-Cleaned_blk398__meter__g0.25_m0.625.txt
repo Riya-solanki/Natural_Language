@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 398 | label: meter | g:0.25 m:0.625 ---
+
+āpagā ca mahāpuṇyā gaṅgā mandākinī nadī ।
+madhusrāvā vāsunadī kauśikī pāpanāśinī ।।

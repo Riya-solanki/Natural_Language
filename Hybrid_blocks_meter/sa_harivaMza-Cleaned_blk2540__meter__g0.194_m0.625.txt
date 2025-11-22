@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2540 | label: meter | g:0.194 m:0.625 ---
+
+sa tat talavanaṃ ghoraṃ gardabhaḥ parirakṣati 
+nṛpakṣiśvāpadagaṇāṃs trāsayānaḥ sa durmatiḥ ।।

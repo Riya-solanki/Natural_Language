@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 501 | label: meter | g:0.194 m:0.5 ---
+
+kāntīnāṃ mathanād bhavantu jaladāḥ kecit kadācit kvacit
+te' py uccair vilasanti tarhi taḍitaḥ kriḍanti cet tādṛśāḥ ।
+itthaṃ kṛṣṇa-ghane taḍit-tulanayā tā varṇayan śrī-śukas
+tāsām avyabhicāri-śobhayitṛtāṃ vyānañja paśya sphuṭam ।।

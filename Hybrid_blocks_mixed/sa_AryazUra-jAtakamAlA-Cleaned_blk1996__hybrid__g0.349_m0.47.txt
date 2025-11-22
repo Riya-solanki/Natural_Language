@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1996 | label: hybrid | g:0.349 m:0.47 ---
+
+tvatto bhayaṃ yadi ca nāma mamābhaviṣyat saṅgaḥ sukheṣu karuṇāvikalaṃ mano vā ।
+vikhyātaraudracaritaṃ nanu vīramānī tvāmudyatapraharaṇāvaraṇo abhyupaiṣyam ।।

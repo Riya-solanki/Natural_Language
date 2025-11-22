@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 1003 | label: meter | g:0.25 m:0.549 ---
+
+sūtrāntaramavatārayituṃ pṛcchati kiṃviṣayaṃ punaridamiti ।
+asyottaraṃ sūtram ato anyāpi hyekeṣāmubhayoḥ ।
+kāmyakarmaviṣayamaśle,vināśavacanaṃ śākhāntarīyavacanaṃ ca tasya putrā dāyamupayantīti ।।

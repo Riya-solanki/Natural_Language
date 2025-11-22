@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3347 | label: meter | g:0.25 m:1.0 ---
+
+karmamaṇḍalayogena pūjayaṃ sarvanāyakān ।
+rāgasaukhyavipākārthaṃ buddhasiddhimavāpnuyād ।।

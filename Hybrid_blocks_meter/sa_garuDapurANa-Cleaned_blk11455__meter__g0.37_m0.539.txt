@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11455 | label: meter | g:0.37 m:0.539 ---
+
+śeṣācalaṃ samāsādya hyannavastrādibhūṣaṇam ।
+yo na dadyādabhaktaḥ sa tataḥ ko nu paraḥ paśuḥ ।।

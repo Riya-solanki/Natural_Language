@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3284 | label: hybrid | g:0.51 m:0.5 ---
+
+vane api doṣāḥ prabhavanti rāgiṇāṃ gṛhe api pañcendriyanigrahastapaḥ ।
+akutsite karmaṇi yaḥ pravartate nivṛttarāgasya gṛhaṃ tapovanam ।।

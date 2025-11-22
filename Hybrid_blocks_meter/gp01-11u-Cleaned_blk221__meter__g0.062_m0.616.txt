@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 221 | label: meter | g:0.062 m:0.616 ---
+
+"aṅghri-kṣālana-mārjane iha bhavān jīyād" iti prārthanā,
+samyag vījanam antarā pramadasūhāsa-prasū-sūktayaḥ ।
+rucyānāṃ pariveṣaṇaṃ muraripor dṛṣṭi-prasādāmṛtaṃ
+yatraivaṃ suhṛdāṃ sabhojana-vidhiḥ sūte na kiṃ vā sukham? ।। [śārdūla]

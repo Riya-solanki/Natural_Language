@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 358 | label: meter | g:0.272 m:0.595 ---
+
+vavre taṃ gautamaḥ kopādaśapadagamatkṣayam 
+yajñavāṭe asya tā gāvo dagdhāḥ kopāgninā muneḥ ।।

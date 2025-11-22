@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4169 | label: meter | g:0.194 m:0.625 ---
+
+sa śrīmān virajo nāma vyarājat tatra suprabhaḥ 
+upasthānagṛhaṃ yatra keśavasya mahātmanaḥ ।।

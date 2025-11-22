@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1056 | label: meter | g:0.25 m:0.625 ---
+
+tatpūjārthaṃ pradātavyaṃ keśavāya mahātmane ।
+yadā saṃvatsaraṃ pūrṇamakhaṇḍaṃ bhavate gṛhe ।।

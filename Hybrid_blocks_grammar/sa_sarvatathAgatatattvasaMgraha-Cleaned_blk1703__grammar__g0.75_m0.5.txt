@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1703 | label: grammar | g:0.75 m:0.5 ---
+
+atha māyāvajra uvāca oṃ cchinda cchinda huṃ phaṭ ।। oṃ āviśāviśa huṃ phaṭ ।। oṃ bhūrbhuvaḥ sva huṃ phaṭ ।। oṃ bhinda bhinda huṃ phaṭ ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 18 | label: hybrid | g:0.538 m:0.5 ---
+
+yo asau na vidyati sa eṣa avidyamāno tāṃ bālu kalpayi avidya karoti vidyām 
+vidyā avidya ubhi eti asanta dharmā niryāti yo iti prajānati bodhisattvo ।।

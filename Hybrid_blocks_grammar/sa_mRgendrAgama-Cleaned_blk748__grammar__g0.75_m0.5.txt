@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 748 | label: grammar | g:0.75 m:0.5 ---
+
+bhikṣārthaṃ paryaṭan bhaikṣyalobhāt [na kaṃcidanugṛhṇīyād] āśīrvādaparo na bhavet। [na niṣeveta bhartsayed] nāpi praśaṃsāparo bhaved bhikṣāyā alābhād garhayedvā। [vinā kṣetraparigrahād anyatra] sādhyamantrajapārthaṃ parigṛhītapavitrasthānādanyadeśe [ciraṃ nāsīta] bhikṣāṃ pratīkṣamāṇo bahukālaṃ na caret।।

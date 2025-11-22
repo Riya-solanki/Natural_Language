@@ -1,0 +1,14 @@
+--- source: brssgo1u-Cleaned.txt | block: 745 | label: meter | g:0.277 m:0.506 ---
+
+itaśca na śūdrasyādhikāraḥ ।
+yadasya smṛteḥ śravaṇādhyayanārthapratiṣedho bhavati ।
+vedaśravaṇapratiṣedho vedādhyayanapratiṣedhastadarthajñānānuṣṭhānayośca pratiṣedhaḥ śūdrasya smaryate ।
+śravaṇapratiṣedhastāvat aathāsya vedamupaśṛṇvatastrapujatubhyāṃ śrotrapratipūraṇam' iti ।
+apadyu ha vā etacchmaśānaṃ yacchūdrastasmācchūdrasamīpe nādhyetavyam' iti ca ।
+ata evādhyayanapratiṣedhaḥ ।
+yasya hi samīpe api nādhyetavyaṃ bhavati sa kathamaśrutamadhīyīta ।
+bhavati ca vedoccāraṇe jihvācchedo dhāraṇe śarīrabheda iti ।
+ata eva cārthādarthajñānānuṣṭhānayoḥ pratiṣedho bhavati ana śūdrasya matiṃ dadyāt' iti, advijātīnāmadhyayanamijyā dānam' iti ca ।
+yeṣāṃ punaḥ pūrvakṛtasaṃskāravaśādviduradharmavyādhaprabhṛtīnāṃ jñānotpattisteṣāṃ na śakyate phalaprāptiḥ pratiṣeddhuṃ, jñānasyaikāntikaphalatvāt ।
+aśrāvayeccaturo varṇān' iti cetihāsapurāṇādhigame cāturvarṇyasyādhikārasmaraṇāt ।
+vedapūrvakastu nāstyadhikāraḥ śūdrāṇāmiti sthitam ।।

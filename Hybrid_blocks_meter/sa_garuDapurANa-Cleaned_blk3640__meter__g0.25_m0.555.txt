@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3640 | label: meter | g:0.25 m:0.555 ---
+
+evaṃ kṛtvā naro vidyānna bhūya stanapo bhavet ।
+upoṣyaikādaśīṃ puṇyāṃ mucyate vai ṛṇatrayāt ।
+mano abhilaṣitāvāptiḥ kṛtvā sarvavratādikam ।।

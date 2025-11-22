@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9369 | label: meter | g:0.306 m:0.5 ---
+
+yadā puṣpaṃ pranaṣṭaṃ hi tadā garbhaṃ na dhārayet ।
+ādarācca tato bhūmau tiladarbhānviniḥ kṣipet ।।

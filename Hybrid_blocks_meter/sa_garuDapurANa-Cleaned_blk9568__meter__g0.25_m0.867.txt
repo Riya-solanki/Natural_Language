@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9568 | label: meter | g:0.25 m:0.867 ---
+
+śrīkṛṣṇa uvāca ।
+satyaṃ punaḥ pravakṣyāmi udakumbhapradānakam ।
+pretoddeśena dātavyā annapānīyasaṃyutāḥ ।
+viśeṣeṇa mahāpakṣin pretamuktipradāyakāḥ ।।

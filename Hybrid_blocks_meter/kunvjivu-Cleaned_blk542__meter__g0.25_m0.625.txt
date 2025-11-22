@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 542 | label: meter | g:0.25 m:0.625 ---
+
+atra pūrvavadevaikavacanabahuvacanayoḥ sāmānādhikaraṇyaṃ vaicitryavidhāyi ।
+evaṃ saṃkhyāvakratāṃ vicārya tadviṣayatvāt puruṣāṇāṃ kramasamarpitāvasarāṃ puruṣavakratāṃ vicārayati

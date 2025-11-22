@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 972 | label: meter | g:0.205 m:0.828 ---
+
+yathā-
+sevāyā anapota-siṃha-nṛpater yāteṣu rājasv atho
+tat-strībhiś cirayat suteṣu vilasac-cetaḥ-samudbhrāntibhiḥ ।
+niḥśvāsa-glapitādharaṃ paripatat-saṃruddha-bāṣpodayaṃ
+kāmaṃ snigdha-sakhī-jane viracitā dīnā dṛśor vṛttayaḥ ।।

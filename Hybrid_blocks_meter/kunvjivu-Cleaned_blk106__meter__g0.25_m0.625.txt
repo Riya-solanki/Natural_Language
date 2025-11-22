@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 106 | label: meter | g:0.25 m:0.625 ---
+
+yathā vā sudhāvisaraniṣyandasamullāsavidhāyini ।
+himadhāmani khaṇḍe api na jano nonmanāyate ।।

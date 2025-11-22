@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3667 | label: grammar | g:0.562 m:0.5 ---
+
+athāsmin bhāṣitamātre tathaiva] sarvabuddhakṣetreṣu yāvat sarvaparamāṇurajomaṇḍaleṣu bhagavāṃstrilokavijayī tathāgataḥ sarvatathāgatakro[dhacakraṃ pravartayāmāsa ।।

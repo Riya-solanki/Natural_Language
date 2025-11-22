@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 642 | label: grammar | g:0.704 m:0.332 ---
+
+atra hi śivaḥ pāśajālamapohatīti mūlasūtropakṣiptamapohanaṃ lakṣyate। pañcavidhakṛtyātmakamapohanasvarūpamuktam। [tadanyaḥ] tatastvanyāni yāni sūtrāṇi tadvyākhyānāya pravṛttatvād [bhāṣyasaṃgrahaḥ] bhāṣyasaṃgrahatvena jñeyāni। yadvā tallakṣaṇaṃ svarūpoktiriti tairmūlasūtroddeśasūtrādibhiḥ sūtrairyadabhidheyasya lakṣaṇaṃ sā svarūpoktirjñeyā। mūlasūtradvayapramukhasūtrasaṅgrahaḥ svarūpākhyayā boddhavya ityarthaḥ।
+tadanyastu tadvyaktibhedagrantho bhāṣyasaṃgraha iti mantavyaḥ। asmiṃśca pakṣe svarūpagranthasya sarvasyaiva mūlasūtratvam। tena ca `trīṇi mūlāni sūtrāṇi dve tathaikamathāpi vā} vidhāyoparamed' ityaviruddham।। 
+[vyākhyāne phalam]

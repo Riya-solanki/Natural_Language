@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 652 | label: meter | g:0.194 m:0.75 ---
+
+tatas te yogavibhraṣṭā deveṣu suciroṣitāḥ 
+jātāḥ kauśikadāyādāḥ kurukṣetre nararṣabha ।।

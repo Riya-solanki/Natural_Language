@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 48 | label: meter | g:0.256 m:0.933 ---
+
+ātmānyātmamanasoḥ saṃyogapiśeṣādātmā pratyakṣaḥ ।
+agnirāptopadeśāt pratīyate amutrāgniriti।
+pratyāsīdatā dhūmadarśanenānumīyate।
+pratyāsannena
+ca pratyakṣata upalabhyate।
+vyavasthā punaḥ,

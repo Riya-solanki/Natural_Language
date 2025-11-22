@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 890 | label: meter | g:0.25 m:0.625 ---
+
+buddhapūjā mahāpūjā satvapūjā supūjaka ।
+mahopāya mahāsiddhe vajrasiddhi namo astu te ।।

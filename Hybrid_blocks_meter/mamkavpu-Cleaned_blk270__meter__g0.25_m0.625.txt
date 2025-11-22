@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 270 | label: meter | g:0.25 m:0.625 ---
+
+prauḍhoktimātrātsiddho vā kavestenombhitasya vā ।
+vastu vālaṅkṛtirvety ṣaḍbhedo asau vyanakti yat ।।

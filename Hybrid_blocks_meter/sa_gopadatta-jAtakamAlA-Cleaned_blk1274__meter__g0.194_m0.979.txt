@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1274 | label: meter | g:0.194 m:0.979 ---
+
+puṣpādhivāsaśucibhiḥ sa vanāntavātaiḥ
+saṃvījitaḥ prativinodya śarīrakhedam ।
+dhyātvā pramādamalināṃ manujendralakṣmīṃ
+saṃvegam eva manasi kṣitipaḥ pupoṣa ।।

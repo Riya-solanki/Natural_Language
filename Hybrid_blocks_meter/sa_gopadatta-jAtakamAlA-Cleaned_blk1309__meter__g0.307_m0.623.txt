@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1309 | label: meter | g:0.307 m:0.623 ---
+
+taṃ bodhisattvaṃ vinibadhya gāḍhaṃ paścādbhujaṃ cauram iva dvijātiḥ ।
+samācakarṣa prakṛtipragalbho nivāryamāṇo vanadevatābhiḥ ।।

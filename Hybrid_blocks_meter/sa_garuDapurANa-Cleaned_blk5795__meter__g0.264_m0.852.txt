@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5795 | label: meter | g:0.264 m:0.852 ---
+
+sāmudraṃ saindhavaṃ kṣāro rājikā lavaṇaṃ viḍam ।
+kaṭuloharajaścaivaṃ trivṛtsūraṇakaṃ samam ।
+dadhigomūtrapayasā mandapāvakapācitam ।।

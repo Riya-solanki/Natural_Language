@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 228 | label: grammar | g:0.75 m:0.5 ---
+
+[] yau khalu dvayor api tayoḥ savayasām āvalyor ardha-maṇisara-vallyor ivāgrima-sīma-madhyam adhikṛtya mithaḥ śobhā-vinimaya-śīlatayā nīla-pītatā-viveka-vyatireka-maya-mahā-nāyakāyamānaṃ sarvatra prathita-dṛṣṭi-prasādam api mithaḥ samarpita-netra-tribhāga-rāgaṃ tan-mithunam avalokayantau dvi-tra-kṣaṇaṃ citravad ivāsthiṣātām ।

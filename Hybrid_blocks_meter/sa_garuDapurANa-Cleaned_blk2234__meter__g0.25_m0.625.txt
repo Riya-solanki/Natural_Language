@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2234 | label: meter | g:0.25 m:0.625 ---
+
+nanditīrthaṃ muktidaṃ ca koṭitīrthaphalapradam ।
+nāsikyaṃ ca mahātīrthaṃ govardhanamataḥ param ।।

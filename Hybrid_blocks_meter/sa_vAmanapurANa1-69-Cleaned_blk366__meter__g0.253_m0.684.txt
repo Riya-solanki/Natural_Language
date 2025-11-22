@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 366 | label: meter | g:0.253 m:0.684 ---
+
+pulastya uvāca ।
+tato anaṅgaṃ vibhurddaṣṭvā brahman nārāyaṇo muniḥ ।
+prahasyaivaṃ vacaḥ prāha kandarva iha āsyatām ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5170 | label: meter | g:0.25 m:0.5 ---
+
+śauṇḍīryaṃ me anayā bhagnaṃ yaśo mānaś ca dūṣitaḥ 
+naināṃ draṣṭum apīcchāmi parikliṣṭām iva srajam ।।

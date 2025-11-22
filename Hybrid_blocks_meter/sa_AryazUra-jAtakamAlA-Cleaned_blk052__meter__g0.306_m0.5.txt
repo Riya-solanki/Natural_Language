@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 52 | label: meter | g:0.306 m:0.5 ---
+
+anena nāthena sanāthatāṃ gataṃ na śocitavyaṃ khalu sāṃprataṃ jagat ।
+parājayāśaṅkitajātasaṃbhramo dhruvaṃ viniścāsaparo adya manmathaḥ ।।

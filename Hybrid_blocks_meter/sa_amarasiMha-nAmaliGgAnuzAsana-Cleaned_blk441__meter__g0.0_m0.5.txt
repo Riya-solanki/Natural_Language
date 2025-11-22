@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 441 | label: meter | g:0.0 m:0.5 ---
+
+rakto asau madhuśigruḥ syādariṣṭaḥ phenilaḥ samau

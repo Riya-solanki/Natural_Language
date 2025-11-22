@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1836 | label: meter | g:0.25 m:0.75 ---
+
+tasya suptasya śuśubhe nābhimadhyāt samutthitam 
+ādyasya sadanaṃ padmaṃ brahmaṇaḥ sūryasaṃnibham ।। 
+sahasrapatraṃ varṇāḍhyaṃ sukumāraṃ vibhūṣitam । 
+brahmasūtrodyatakaraḥ svapann eva mahāmuniḥ 
+āvartayati lokānāṃ sarveṣāṃ kālaparyayam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5138 | label: meter | g:0.25 m:0.5 ---
+
+ādau bhagnaṃ viditvā tu secayecchītalāṃbunā ।
+pakvenālepanaṃ kāryaṃ bandhanaṃ ca kuśānvitam ।।

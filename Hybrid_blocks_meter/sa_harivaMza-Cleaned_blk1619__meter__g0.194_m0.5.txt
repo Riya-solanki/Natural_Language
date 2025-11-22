@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1619 | label: meter | g:0.194 m:0.5 ---
+
+tvaṃ kāntiḥ kāntavapuṣāṃ tvaṃ somaḥ somavṛttinām 
+saumyas tvaṃ sarvabhūtānāṃ timiraghnas tvam ṛkṣarāṭ ।।

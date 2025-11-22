@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1170 | label: grammar | g:0.625 m:0.5 ---
+
+praśāntāḥ kallolāḥ stimitamasṛṇaṃ vāri vimalaṃ vinīto ayaṃ veśaḥ śamam iva nadīnāṃ kathayati ।
+tathāpy āsāṃ tais tais tarubhir abhitas tīrapatitaiḥ sa evāgre buddhau pariṇamati ruddho apy avinayaḥ ।।

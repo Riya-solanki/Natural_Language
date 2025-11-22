@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2744 | label: meter | g:0.194 m:0.5 ---
+
+tato vrajasya bhāṇḍāni yuktāni śakaṭāni ca 
+viviśur varṣabhītāni tad gṛhaṃ girinirmitam ।।

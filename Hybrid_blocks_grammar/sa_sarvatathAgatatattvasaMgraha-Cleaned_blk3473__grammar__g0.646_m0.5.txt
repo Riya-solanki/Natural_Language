@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3473 | label: grammar | g:0.646 m:0.5 ---
+
+tatrāyaṃ sarvamantropacāravidhiḥ । "niḥprapañcā vāksiddhirbhavatu, sarvatathāgatasamādhayo me ājāyantām" ityuktvā mantraṃ yathābhirucito japet, eṣā siddhiriti ।।

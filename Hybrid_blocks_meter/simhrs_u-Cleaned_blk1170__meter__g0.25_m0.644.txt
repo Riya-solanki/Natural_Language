@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1170 | label: meter | g:0.25 m:0.644 ---
+
+tathā ca bharataḥ -
+sahasaivārtha-sampattir guṇavaty upacārataḥ ।
+patākā-sthānakam idaṃ prathamaṃ parikīrtitam ।। iti ।

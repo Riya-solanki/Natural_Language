@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9366 | label: meter | g:0.25 m:0.5 ---
+
+labdhenaiva ca dehena bhuṅkte sukṛtaduṣkṛte ।
+vāyurūpo bhramatyeva vāyurūrdhvaṃ sa gacchati ।।

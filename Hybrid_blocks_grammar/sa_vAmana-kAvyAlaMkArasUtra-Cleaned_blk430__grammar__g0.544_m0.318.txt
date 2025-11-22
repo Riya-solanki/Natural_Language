@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 430 | label: grammar | g:0.544 m:0.318 ---
+
+samprati kāvyasamayaṃ śabdaśuddhiṃ ca darśayituṃ prāyogikākhyamadhikaraṇamārabhyate । tatra kāvyasamayastāvaducyate ।
+naikaṃ padaṃ dviḥ prayojyaṃ prāyeṇa ।।
+ekaṃ padaṃ na dviḥ prayojyaṃ prāyeṇa bāhulyena । yathā payodapayodaiti । kiñcidivādipadaṃ dvirapi prayoktavyamiti । yathā santaḥ santaḥ khalāḥ khalāḥ

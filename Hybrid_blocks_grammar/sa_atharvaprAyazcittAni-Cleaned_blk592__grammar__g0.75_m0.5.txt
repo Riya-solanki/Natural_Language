@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 592 | label: grammar | g:0.75 m:0.5 ---
+
+agnihotraṃ ced anabhyuddhṛtaṃ sūryo abhyudiyād ihaiva kṣemya edhi mā prahāsīr mām amum āmuṣyāyaṇam iti śamayitvā praṇīya pravṛttātipattau maitraṃ caruṃ nirvapet sauryam ekakapālaṃ ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5131 | label: meter | g:0.194 m:0.5 ---
+
+kṛtsnaṃ ca himavatpārśvaṃ kūlaṃ ca lavaṇāmbhasaḥ 
+araṇyāni ca vatsyanti narā mlecchagaṇaiḥ saha ।।

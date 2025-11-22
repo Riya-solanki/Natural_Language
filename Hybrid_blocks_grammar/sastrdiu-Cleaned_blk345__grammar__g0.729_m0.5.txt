@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 345 | label: grammar | g:0.729 m:0.5 ---
+
+iti pratijñāter'the sādhite saṃprati animittaṃ vidyamānopalambhanatvāt ityanena citrādicodanānāmaihikaphalānāṃ pratyakṣādibhirasaṃvādena visaṃvādena ca prāmāṇyamākṣipyate, pūrvoktastu nanvatathābhūtaṃ ityākṣepaḥ paralokaphalasvargakāmādicodanāviṣaya iti viṣayabhedādapaunaruktyam ।।

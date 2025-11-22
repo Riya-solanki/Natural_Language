@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 15 | label: hybrid | g:0.486 m:0.5 ---
+
+gate tasmin bhanau tribhuvanasamunmeṣavirahavyathāṃ candro neṣyaty anucitam ato nāsty asadṛśam 
+idaṃ cetastāpaṃ janayatitarām atra yad amī pradīpāḥ saṃjātās timirahatibaddhodhuraśikhāḥ ।।

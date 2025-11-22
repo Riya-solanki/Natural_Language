@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 404 | label: grammar | g:0.509 m:0.284 ---
+
+tathāhi bhedābhedavikalpena sāmānyaṃ nirākurvatāvaśyamevaṃ vaktavyam- yadvastu tadbhinnamabhinnaṃ vā bhavati sāmānyamapi yadi vastu syāttato anenāpi bhinnenābhinnena vā bhavitavyam ।
+na ca dvedhāpi saṃbhavati tasmādavastu iti ।
+evaṃ ca vadatā vastutvaṃ sāmānyamaṅgīkāryam, anyathā kathaṃ vastutvasya

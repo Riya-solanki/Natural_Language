@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7930 | label: meter | g:0.306 m:0.5 ---
+
+patiputravatī nārī bharturagre mṛtā yadi ।
+vṛṣotsargaṃ na kurvīta gāṃ dadyācca payasviḥ nīm ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2368 | label: meter | g:0.194 m:0.75 ---
+
+tāsāṃ ruditaśabdena gavāṃ hambhāraveṇa ca 
+vrajasyotthāpanaṃ cakrur ghoṣavṛddhāḥ samāgatāḥ ।।

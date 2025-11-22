@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1895 | label: meter | g:0.306 m:0.5 ---
+
+kaniṣṭhikānāmikā vā yasyā na spṛśate mahīm ।
+aṅguṣṭhaṃ vā gatātītya tarjanī kulaṭā ca sā ।।

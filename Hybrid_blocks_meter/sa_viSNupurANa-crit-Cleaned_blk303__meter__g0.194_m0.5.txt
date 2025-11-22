@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 303 | label: meter | g:0.194 m:0.5 ---
+
+indriyārtheṣu bhūteṣu śarīreṣu ca sa prabhuḥ 
+nānātvaṃ viniyogāṃś ca dhātaivaṃ vyasṛjat svayam ।।

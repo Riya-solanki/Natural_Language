@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1322 | label: meter | g:0.25 m:0.5 ---
+
+diśābhir vidiśābhiś ca nadībhiḥ sāgarais tathā 
+nakṣatraiś ca muhūrtaiś ca khecaraiś ca mahāgrahaiḥ ।।

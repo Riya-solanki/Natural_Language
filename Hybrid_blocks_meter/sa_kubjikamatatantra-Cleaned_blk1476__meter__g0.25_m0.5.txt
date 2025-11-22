@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1476 | label: meter | g:0.25 m:0.5 ---
+
+devyo dūtyas tathā mātryo yoginyaḥ khecarīgaṇaḥ 
+pañcadhā hy adhikāro ayaṃ kurvanty etāḥ kulākule ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 297 | label: meter | g:0.306 m:0.625 ---
+
+saṃtāpinī samadahaṃsakalābhilāpā prāleyadhāmadhavalāmbaram ādadhānā ।
+āpāṇḍupīvarapayodharam udvahantī kācid vadhūr virahiṇīva śarad vibhāti ।।

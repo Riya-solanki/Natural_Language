@@ -1,0 +1,4 @@
+--- source: rasadh_u-Cleaned.txt | block: 22 | label: meter | g:0.351 m:0.565 ---
+
+aṣṭāpi ślokāḥ spaṣṭā eva kevalaṃ cilharī kuṣṭhabheda eva ।।
+iti sūtadoṣaguṇākhyānaṃ samāptam ।।

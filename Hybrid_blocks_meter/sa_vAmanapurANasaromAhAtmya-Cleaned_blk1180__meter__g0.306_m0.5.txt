@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1180 | label: meter | g:0.306 m:0.5 ---
+
+mātṛpakṣe pituḥ pakṣe pūjyā bhavati devavat ।
+śruṇuyād yaḥ stavaṃ divyaṃ kīrtayed vā samāhitaḥ ।।

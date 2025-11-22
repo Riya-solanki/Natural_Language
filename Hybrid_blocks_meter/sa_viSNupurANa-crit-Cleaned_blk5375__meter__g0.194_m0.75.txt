@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5375 | label: meter | g:0.194 m:0.75 ---
+
+saṃstuto bhagavān itthaṃ devarājena keśavaḥ 
+prahasya bhāvagambhīram uvācendraṃ dvijottama ।।

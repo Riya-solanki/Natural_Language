@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3161 | label: meter | g:0.25 m:0.625 ---
+
+taskarasya vadho daṇḍaḥ kumitrasyālpabhāṣaṇam ।
+pṛthak śayyā tu nārīṇāṃ brāhmaṇasyānimantraṇam ।।

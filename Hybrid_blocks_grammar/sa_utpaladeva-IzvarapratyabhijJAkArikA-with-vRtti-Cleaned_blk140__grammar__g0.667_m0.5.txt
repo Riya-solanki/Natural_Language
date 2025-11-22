@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 140 | label: grammar | g:0.667 m:0.5 ---
+
+svarūpam avabhāsanaṃ ca bhāvānāṃ svātmapariniṣṭhitam eva । yugapadekābhāsanibandhanaś caiṣāṃ samanvayaḥ । sa abhinnaḥ pramātṛlīnatayā kalpate ।

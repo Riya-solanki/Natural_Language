@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3380 | label: hybrid | g:0.531 m:0.5 ---
+
+tato dvitīye ahni kṛtapraṇāmā snātvā vidhānena ca pūjayitvā ।
+dattvā dvijebhyaḥ kaṇakaṃ tilājyaṃ tato agrataḥ sā prayatā babhūva ।।

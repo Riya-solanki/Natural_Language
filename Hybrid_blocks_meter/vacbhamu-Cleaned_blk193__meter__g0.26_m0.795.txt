@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 193 | label: meter | g:0.26 m:0.795 ---
+
+na, indriyāviṣayatvenaiti ।
+kasmātpunarnendriyaviṣayatvaṃ pratīca ityata āha- svabhāvataiti ।
+ata eva śrutiḥ-

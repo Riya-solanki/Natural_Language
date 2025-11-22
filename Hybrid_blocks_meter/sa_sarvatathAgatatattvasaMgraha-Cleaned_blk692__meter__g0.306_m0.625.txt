@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 692 | label: meter | g:0.306 m:0.625 ---
+
+prakṛtiprabhāsvarāḥ sarve hyādiśuddhā nabhaḥsamāḥ ।
+adharmo apyatha vā dharm[aḥ spha]raṃ bhāvena tuṣyati ।।

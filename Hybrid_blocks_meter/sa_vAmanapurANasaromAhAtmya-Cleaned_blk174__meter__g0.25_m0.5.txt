@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 174 | label: meter | g:0.25 m:0.5 ---
+
+saṃpaśyan vismayāviṣṭaḥ prakṛtisthaḥ kṣaṇāt punaḥ ।
+prahlādaḥ prāha daityendraṃ baliṃ vairociniṃ tataḥ ।।

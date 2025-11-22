@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 1250 | label: grammar | g:0.733 m:0.0 ---
+
+huṃ phaṭ śrauṣaḍ-vauṣaḍ ity evam ādyāḥ
+śabdāḥ yasmin na kvacit kṛṣṇa-mukhyāḥ ।
+tasmiṃs teṣāṃ kiṃ ruciḥ syāt parantu
+śrī-kṛṣṇārthaṃ kiṃ na te mānayanti ।।
+[] atha nivedanaṃ cedambho bho bhūmi-devāḥ ! kiñcid evāvadhānaṃ vidhīyatām । rāma-rāmānujau khalu parama-prabhāva-yujau śrutavadbhir bhavadbhir avadhāritāv eva staḥ । tau cātra bhavad-vidhānāṃ sannidhānam eva dhenu-sevanānurodhād āgatavantau । kintv adya sadya evānavadya-krīḍā-maya-śūratā-kautuka-puratas tata itaḥ saṅgatyāsannāpi pratyāsannāpi śrī-gopādhibhū-sadana-bhūr vidūrāyamāṇāsmākaṃ bhāti sma । gṛha-lokena ca na tathālocayāmbabhūvimahe । tata eva sākṣāl-lakṣmī-pati-gṛhāyamāṇa-gṛhād bhojana-saṃyojanaṃ vinā krīḍā-yudhi ca kṣudhitāv abhūtām । tataś ca kula-paramparā-prāpta-vyavahāraṃ paryāyatayā pitṛ-paryāyatayā bhavatsu saṅkocam aparyālocamānau pitṛ-bhavanād iva bhavadīya-savanād annaṃ yācitam akurvātām iti ।

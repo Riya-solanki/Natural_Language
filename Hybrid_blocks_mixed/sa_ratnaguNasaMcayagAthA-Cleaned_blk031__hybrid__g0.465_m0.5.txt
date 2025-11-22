@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 31 | label: hybrid | g:0.465 m:0.5 ---
+
+yatha ātmanaṃ tatha prajānati sarvasattvāṃ yatha sarvasattva tatha prajānati sarvadharmān 
+anupādupādu ubhaye avikalpamāno eṣā sa prajñavarapāramitāya caryā ।।

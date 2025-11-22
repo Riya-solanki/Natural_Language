@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 819 | label: grammar | g:0.649 m:0.439 ---
+
+atrāha- yo ayamātmaviṣayaḥ praśno yeyaṃ prete vicikitsā manuṣye astīti, kiṃ sa evāyam aanyatra dharmādanyatrādharmāt' iti punaranukṛṣyate, kiṃvā tato anyo ayamapūrvaḥ praśna utthāpyata iti ।
+kicātaḥ ।
+sa evāyaṃ praśnaḥ punaranukṛṣyata iti yadyucyeta, dvayorātmaviṣayayoḥ praśnayorekatāpatteragniviṣaya ātmaviṣayaśca dvāveva praśnāvityato na vaktavyaṃ trayāṇāṃ praśnopanyāsāviti ।
+athānyo ayamapūrvaḥ praśnaḥ utthāpyata ityucyeta tato yathaiva varapradānavyatirekeṇa praśnakalpanāyāmadoṣa evaṃ praśna vyatirekeṇāpi pradhānopanyāsakalpanāyāmadoṣaḥ syāditi ।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 485 | label: hybrid | g:0.364 m:0.464 ---
+
+kiṃ kaumudīḥ śaśikalāḥ sakalā vicūrṇya saṃyojya cāmṛtarasena punaḥ prayatnāt ।
+kāmasya ghoraharahūṃkṛtidagdhamūrteḥ saṃjīvanauṣadhir iyaṃ vihitā vidhātrā ।।
+bhaṭṭodbhaṭasya

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3330 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ pūrvakṛtaṃ karma kartāramanutiṣṭhāti ।
+sukṛtaṃ bhuṅkṣva cātmīyaṃ mūḍha kiṃ paritapyase ।।

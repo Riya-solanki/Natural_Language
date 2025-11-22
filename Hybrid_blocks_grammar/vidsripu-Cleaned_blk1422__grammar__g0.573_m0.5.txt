@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1422 | label: grammar | g:0.573 m:0.5 ---
+
+svacchāśayo bhavati ko api janaḥ prakṛtyā saṅgaḥ satām abhijanaś ca na hetur atra ।
+dugdhābdhilabdhajanano harakandharāsthaḥ svāṃ kālatāṃ tyajati jātu na kālakūṭaḥ ।।

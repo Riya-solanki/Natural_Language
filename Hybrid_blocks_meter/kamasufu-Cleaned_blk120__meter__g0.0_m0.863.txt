@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 120 | label: meter | g:0.0 m:0.863 ---
+
+dvitīyo adhyāyaḥ
+prakaraṇa [paricaya-kāraṇābhiyoga-prakaraṇam]

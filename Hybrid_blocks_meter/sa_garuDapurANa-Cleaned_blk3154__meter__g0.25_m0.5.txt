@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3154 | label: meter | g:0.25 m:0.5 ---
+
+sañcitaṃ nihitaṃ dravyaṃ parāmṛśyaṃ muhurmuhuḥ ।
+ākhoriva kadaryasya dhanaṃ duḥ khāya kevalam ।।

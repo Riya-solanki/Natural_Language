@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1938 | label: meter | g:0.306 m:0.5 ---
+
+viśveśvinau sādhyamarudgaṇāgnayo divākarāḥ śūladharā maheśvarāḥ ।
+yakṣāḥ piśācā vasavo atha kinnarāḥ te svasti kurvantu sadodyatāstvamī ।।

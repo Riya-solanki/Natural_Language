@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 198 | label: grammar | g:0.75 m:0.5 ---
+
+ayaṃ nānākāro bhavati sukhaduḥkhavyatikaraḥ sukhaṃ vā duḥkhaṃ vā na bhavati bhavatyeva ca tataḥ । punastasmādūrdhvaṃ bhavati sukhaduḥkhaṃ kimapi tat punastasmādūrdhvaṃ bhavati na ca duḥkhaṃ, na ca sukham ।।

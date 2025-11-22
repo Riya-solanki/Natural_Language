@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 848 | label: meter | g:0.25 m:0.5 ---
+
+dakṣiṇām adadāt somas trīṃl lokān iti naḥ śrutam 
+tebhyo brahmarṣimukhyebhyaḥ sadasyebhyaś ca bhārata ।।

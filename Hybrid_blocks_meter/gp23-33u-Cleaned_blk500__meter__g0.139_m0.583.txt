@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 500 | label: meter | g:0.139 m:0.583 ---
+
+[] yathā ca pura-strī-janoditam anumoditaṃ śrī-bādarāyaṇinā-
+gopyas tapaḥ kim acaran yad amuṣya rūpaṃ
+lāvaṇya-sāram asamordhvam ananya-siddham ।
+dṛgbhiḥ pibanty anusavābhinavaṃ durāpam
+ekānta-dhāma yaśasaḥ śriya aiśvarasya ।।[BhP ] iti ।

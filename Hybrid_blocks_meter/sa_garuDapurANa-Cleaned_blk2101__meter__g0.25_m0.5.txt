@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2101 | label: meter | g:0.25 m:0.5 ---
+
+doṣopasargaprabhavāśca ye te nopadravāstaṃ samabhidravanti ।
+guṇaiḥ samuttejitacārurāgaṃ yaḥ padmarāgaṃ prayato bibharti ।।

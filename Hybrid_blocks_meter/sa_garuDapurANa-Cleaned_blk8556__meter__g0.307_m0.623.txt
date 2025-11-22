@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8556 | label: meter | g:0.307 m:0.623 ---
+
+andhakāre mahāghore śvapūrṇe lakṣyavarjite ।
+dīpte adhvani ca te yānti dīpo dattaśca yairnaraiḥ ।।

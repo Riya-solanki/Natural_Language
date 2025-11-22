@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1129 | label: hybrid | g:0.458 m:0.5 ---
+
+[] tad evaṃ nānā-vaibhavam anubhavataḥ kamala-bhavasya traptatayānutaptatayā ca yā racitāvācīnatā, sā svayaṃ praṇāmāya pariṇamati sma । tatra ca,

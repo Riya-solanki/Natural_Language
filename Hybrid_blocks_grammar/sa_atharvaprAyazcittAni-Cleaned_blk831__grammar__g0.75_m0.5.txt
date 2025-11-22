@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 831 | label: grammar | g:0.75 m:0.5 ---
+
+pra vāṃ daṃsāṃsy aśvināv avocam asya patiḥ syāṃ sugavaḥ suvīraḥ । uta paśyann aśnuvan dīrgham āyur astam ivej jarimāṇaṃ jagamyām ।।

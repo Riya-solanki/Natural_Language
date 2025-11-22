@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9777 | label: meter | g:0.25 m:0.5 ---
+
+yadā tvanyataraḥ sāgniḥ putro vāpyathavā pitā ।
+pratyabdaṃ pārvaṇaṃ tatra kuryātāṃ kṣetrajaurasau ।।

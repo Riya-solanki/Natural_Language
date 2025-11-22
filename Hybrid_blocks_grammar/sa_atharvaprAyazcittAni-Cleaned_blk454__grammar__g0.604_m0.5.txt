@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 454 | label: grammar | g:0.604 m:0.5 ---
+
+prāk samiṣṭayajur homāc ced yajamāna āgacchet samastān eva bhakṣajapān japtvā bhakṣayec cheṣaṃ ।

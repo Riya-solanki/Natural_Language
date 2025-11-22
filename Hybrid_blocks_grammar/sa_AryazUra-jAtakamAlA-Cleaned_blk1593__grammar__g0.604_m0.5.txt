@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1593 | label: grammar | g:0.604 m:0.5 ---
+
+atha sa kadācinmahātmā tasmin vanagahane vāsopagatastatsamīpavāhinyā navāmbupurṇayā mahavegayā nadyā hriyamāṇasya puruṣasyākranditaśabdaṃ śuśrāva ।

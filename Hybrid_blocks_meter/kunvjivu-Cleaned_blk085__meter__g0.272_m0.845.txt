@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 85 | label: meter | g:0.272 m:0.845 ---
+
+varṇavinyāsakratvaṃ padapūrvārdhavakratā ।
+vakratāyāḥ paro apyasti prakāraḥ pratyayāśrayaḥ ।।

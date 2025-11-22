@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 648 | label: meter | g:0.194 m:0.625 ---
+
+sādhite ye mṛdo mūṣe kacūlākāravartule 
+ekasyāścāntare kṣiptvā mūṣāṃ cūrṇasya vartatām ।।

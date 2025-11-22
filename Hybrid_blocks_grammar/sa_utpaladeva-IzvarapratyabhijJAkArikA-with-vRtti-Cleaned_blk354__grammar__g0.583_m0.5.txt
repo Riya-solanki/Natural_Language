@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 354 | label: grammar | g:0.583 m:0.5 ---
+
+cakṣurādīndriyaśaktyapravṛttav api manaḥśaktyaiva dṛṣṭarūpādyābhāseśvarasṛṣṭir aṇoḥ svapnapadam । anyapramātṛsādhāraṇarūpādyābhāsānuvṛttitaḥ kālāntarānanuvṛtter bhrāntir eṣā ।।

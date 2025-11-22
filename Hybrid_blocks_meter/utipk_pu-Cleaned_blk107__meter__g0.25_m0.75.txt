@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 107 | label: meter | g:0.25 m:0.75 ---
+
+kevalaṃ bhinnasamvedya- deśakālānurodhataḥ ।
+jñānasmṛtyavasāyādi sakramaṃ pratibhāsate ।।

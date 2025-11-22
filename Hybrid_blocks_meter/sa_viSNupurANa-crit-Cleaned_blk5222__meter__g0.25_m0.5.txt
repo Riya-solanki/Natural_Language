@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5222 | label: meter | g:0.25 m:0.5 ---
+
+tasyāpi rukmiṇaḥ pautrīṃ varayām āsa keśavaḥ 
+dauhitrāya dadau rukmī tāṃ spardhann api śauriṇā ।।

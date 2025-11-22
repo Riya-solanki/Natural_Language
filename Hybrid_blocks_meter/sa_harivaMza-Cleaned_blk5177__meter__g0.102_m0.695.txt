@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5177 | label: meter | g:0.102 m:0.695 ---
+
+atha te guravaḥ śaptās triyajñaśatayājinaḥ 
+bhraṃśitas tvaṃ ca viprāś ca phalād indrasamād iha 
+tvattaś caiva sudurdharṣāt triyajñaśatayājinaḥ ।।

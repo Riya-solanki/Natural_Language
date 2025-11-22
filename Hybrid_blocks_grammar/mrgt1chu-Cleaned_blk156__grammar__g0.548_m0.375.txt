@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 156 | label: grammar | g:0.548 m:0.375 ---
+
+yena guṇena mantreṇa sarvasroto'nusrotasā mūrdhvasthitatvāt sarvānugrahahetutvādvā uparivartinā jagaccidacidātmakaṃ viśvamīṣṭe sa uttamāṅgavat sarvordhvasthitatvān mūrdheva mūrdhā na paramārthato dehāvayavaḥ ।। 
+tatpuruṣavaktraṃ vyācaṣṭe ।।

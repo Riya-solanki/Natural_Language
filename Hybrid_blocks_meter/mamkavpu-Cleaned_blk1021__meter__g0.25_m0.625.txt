@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1021 | label: meter | g:0.25 m:0.625 ---
+
+{guṇaḥ kṛtātmasaṃskāraḥ pradhānaṃ pratimadyate ।
+pradhānasyopakāre hi tathā bhūyasi vartate ।।

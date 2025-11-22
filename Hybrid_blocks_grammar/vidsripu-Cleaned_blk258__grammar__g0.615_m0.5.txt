@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 258 | label: grammar | g:0.615 m:0.5 ---
+
+ākrandāḥ stanitair vilocanajalāny aśrāntadhārāmbubhis tadvicchedabhuvaś ca śokaśikhinas tulyās taḍidvibhramaiḥ ।
+antar me dayitāmukhaṃ tava śaśī vṛttiḥ samaivāvayos tat kiṃ mām aniśaṃ sakhe jaladhara tvaṃ dagdhum evodyataḥ ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 527 | label: meter | g:0.139 m:0.76 ---
+
+prārabdha-kāryānirvāhād, yathā-
+vāraṃ vāraṃ tirayati dṛśāv udgato bāṣpa-pūras
+tat-saṅkalpopahita-jaḍima stambham abhyeti gātram ।
+sadyaḥ svidyann nayam aviratotkampa-lolāṅgulīkaḥ
+pāṇir lekhāvidhiṣu nitarāṃ vartate kiṃ karomi ।।

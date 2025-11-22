@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 1095 | label: hybrid | g:0.521 m:0.5 ---
+
+muṣṇanto' nyo' nya-śikyādīn jñātān ārāc ca cikṣipuḥ ।
+tatratyāś ca punar dūrād hasantaś ca punar daduḥ ।।[BhP ।

@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 91 | label: hybrid | g:0.5 m:0.5 ---
+
+brūte ya evaṃ yo adhīte tāvubhau hatakalmaṣau ।
+loke prāpya yaśo dīptaṃ viśetāṃ dhāma śāṃkaram ।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 293 | label: hybrid | g:0.5 m:0.5 ---
+
+adhaḥ paśyan pārśvadvayavalitasācīkṛtaśirāḥ śanaiḥ pakṣasthairyād divi masṛṇacakrākṛtigatiḥ ।
+cirāc cillas tiryaktvaritataram āhāranipuṇo nipatyaivākasmāc calacaraṇamūrdhaṃ prapatati ।।

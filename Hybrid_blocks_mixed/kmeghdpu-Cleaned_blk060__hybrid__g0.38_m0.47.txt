@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 60 | label: hybrid | g:0.38 m:0.47 ---
+
+tatrāvaśyaṃ valayakuliśodghaṭṭanodgīrṇatoyaṃ neṣyanti tvāṃ surayuvatayo yantradhārāgṛhatvam ।
+tābhyo mokṣas tava yadi sakhe gharmalabdhasya na syāt krīḍālolāḥ śravaṇaparuṣair garjitair bhāyayes tāḥ ।।

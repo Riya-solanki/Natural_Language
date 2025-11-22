@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 671 | label: meter | g:0.25 m:0.521 ---
+
+yāce' haṃ vaṃśa-dehaṃ na tu kulaja-vadhū-deham ādye hi kṛṣṇas
+tṛṣṇag-bhāvena sajjan bahu-ruci viharan durlabhaḥ syāt paratra ।
+vaṃśī-bhāve cid-aṃśa-praśamana-vaśatā-vismṛtātmā yadi syāt
+tena jñāyeya seyaṃ mama viraha-dutā dārutām āgateti ।। [sragdharā]

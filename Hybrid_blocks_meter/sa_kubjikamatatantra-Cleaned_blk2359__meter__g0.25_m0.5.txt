@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2359 | label: meter | g:0.25 m:0.5 ---
+
+tad ahaṃ sampravakṣyāmi śṛṇu kubji mahādhipe 
+kṣa ha sa āditaḥ kṛtvā akārāntena sampuṭam ।।

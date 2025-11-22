@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 828 | label: meter | g:0.152 m:0.57 ---
+
+gopyas tatra tu mānya-bhāva-valitā dadhy-akṣatādi-sphurad
+bhavya-dravya-sabhājitaṃ viracayāmāsur jita-svarpatim ।
+yadyapy evam athāpi mūrdhni ca karaṃ dhṛtvā tam āśīśiṣan
+saṃvitte tad idaṃ sa eva ya idaṃ hṛdy anvabhūt karhy api ।। [śārdūla]

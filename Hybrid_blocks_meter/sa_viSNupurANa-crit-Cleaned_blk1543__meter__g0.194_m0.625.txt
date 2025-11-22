@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1543 | label: meter | g:0.194 m:0.625 ---
+
+lokātmamūrtiḥ sarveṣāṃ pūrveṣām api pūrvajaḥ 
+ādhāraḥ sarvavidyānāṃ svayam eva hariḥ sthitaḥ ।।

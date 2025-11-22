@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6045 | label: meter | g:0.25 m:0.5 ---
+
+nātikleśena mahatā tān eva puruṣo yathā 
+tṛtīyaṃ vyāhṛtaṃ tena mayā sādhv iti yoṣitām ।।

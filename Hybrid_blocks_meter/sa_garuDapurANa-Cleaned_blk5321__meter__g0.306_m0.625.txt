@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5321 | label: meter | g:0.306 m:0.625 ---
+
+pittajvaraghnaḥ samadhuḥ kvāthaḥ parpaṭanimbayoḥ ।
+vidhāne kriyamāṇe api ysaya saṃjñā na jāyate ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3204 | label: meter | g:0.102 m:0.555 ---
+
+bhoḥ kaṃsadhanuṣāṃ pāla śrūyatām āvayor vacaḥ 
+katarat tad dhanuḥ saumya maho ayaṃ yasya vartate 
+āyāgabhūtaṃ kaṃsasya darśayasva yadīcchasi ।।

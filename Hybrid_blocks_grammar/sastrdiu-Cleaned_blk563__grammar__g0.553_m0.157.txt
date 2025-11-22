@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 563 | label: grammar | g:0.553 m:0.157 ---
+
+nanu prakāśajananasvabhāvo api sahakārivaikalyānna janayet ।
+satyaṃ na janayati ।
+yasmiṃstu sahakārisaṃnidhāne tatkṛte vānyasminnāgantuke sati niyamena prakāśata evārthāntaraṃ tajjñānaśabdavācyam ।
+tathā gītiśravaṇapriyāliṅganacandradarśanamadhurāsvādasurabhighrāṇādijanyamāhlādamānandasukhaśabdāvabhidadhāte, nacaivaṃrūpatvamātmāno asti, yathā hyanyasukheṣu sukharūpaṃ pratyabhijñāyate naivamātmani pratyabhijānīmo yenānandamiti ca saṃjñetyucyate na sā laukikī nāpi vaidikī ।
+yadi paraṃ vṛddhyādivatparibhāṣyeta tadastu yathākāmam ।
+yattu vijñānaṃ brahma ānandaṃ brahma iti ca sāmānādhikaraṇyaṃ taddharmamātravacanatvena vartante, satyaṃ, na bāhulyena vartante, kadācittu guṇamātravacanānāmapi guṇini prayogo bhavati yathā śīto madhuro rasaḥ snigdho guruśceti rasaśabdo dravye prayujyate, anyathā śītādiśabdasāmānādhikaraṇyāyogāt ।
+kiṃ ca rasaṃ hyevāyaṃ vidvān, sa eko brahmaṇa ānanda, iti ṣaṣṭhyānandādbrahma vyatiricyate ।।

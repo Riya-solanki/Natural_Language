@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 164 | label: meter | g:0.397 m:0.746 ---
+
+atha vipralabdhā-
+kṛtvā saṅketam aprāpte daivād vyathitā tu yā । 
+vipralabdheti sā proktā budhair asyās tu vikriyā ।
+nirveda-cintā-khedāśru-mūrcchā-niḥśvasanādayaḥ ।।

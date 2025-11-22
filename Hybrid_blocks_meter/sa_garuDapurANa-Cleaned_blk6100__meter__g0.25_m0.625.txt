@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6100 | label: meter | g:0.25 m:0.625 ---
+
+jñeyaṃ puṣkaramūlañca puṣkaraṃ puṣkarāhvayam ।
+yāso atha dhanvayāsaśca duṣparśo atha durālabhā ।।

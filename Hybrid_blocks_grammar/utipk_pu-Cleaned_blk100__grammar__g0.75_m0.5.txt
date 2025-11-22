@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 100 | label: grammar | g:0.75 m:0.5 ---
+
+vartamānapramātṛbhāve nāhaṃpratyavamarśasya prameyatvenedantā । vimarśabhede cābhāsabhede ca pramātaiveśvaraśabdena sṛṣṭo ahaṃ parāmarśavyavadhānena kevalam, yathā kriyādiśabdena pacatyādivācyo arthaḥ । yathāhuḥ kriyāguṇajātisaṃbandhādiśābdair na kriyādaya ucyante pacatyādimukhenābhidhānāt । īśvaraśabdād ātmaśabdāc cāham iti parāmṛśan na evātmānam avaiti na sākṣāt, pratītis tv asty eva smṛtyevānubhavamukhenānubhūtasya ।।

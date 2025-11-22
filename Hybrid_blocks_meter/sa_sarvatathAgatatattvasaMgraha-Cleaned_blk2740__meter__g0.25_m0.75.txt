@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2740 | label: meter | g:0.25 m:0.75 ---
+
+duṣṭasatvopaghātāya yadyatkārya karoti saḥ ।
+karmavajrakule apyeṣa sarvasiddhipradāyakaḥ ।।

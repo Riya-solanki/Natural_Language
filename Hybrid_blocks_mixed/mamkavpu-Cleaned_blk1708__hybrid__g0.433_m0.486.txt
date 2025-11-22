@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 1708 | label: hybrid | g:0.433 m:0.486 ---
+
+atra vāvyasya vicintyamānaṃ na kiñcidapi cārutvaṃ pratīyate, ityapuṣṭārthataivānuprāsasya vaiphalyam ।।
+akuṇṭhotkaṇṭhayā iti atra śṛṅgāre paruṣavarṇāḍambaraḥ pūrvoktarītyā virudhyate iti paruṣānuprāso atra pratikūlavarṇataiva vṛttivirodhaḥ ।।
+yamakasya pādatrayagatatvena yamanamaprayutatvaṃ doṣaḥ ।। yathā

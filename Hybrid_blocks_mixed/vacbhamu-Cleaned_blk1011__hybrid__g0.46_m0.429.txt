@@ -1,0 +1,13 @@
+--- source: vacbhamu-Cleaned.txt | block: 1011 | label: hybrid | g:0.46 m:0.429 ---
+
+tanmanaḥ prāṇa uttarāt ।
+yadi svaprakṛtau vikārasya layastato manaḥ prāṇe saṃpadyate ityatra manaḥsvarūpasyaiva prāṇe saṃpattyā bhavitavyam ।
+tathā hi manaḥ iti nopacārato vyākhyānaṃ bhaviṣyati ।
+saṃbhavati hi prakṛtivikārabhāvaḥ prāṇamanasoḥ ।
+annamayaṃ hi somya mana ityannātmatāmāha manasaḥ śrutirāpomayaḥ prāṇa iti ca prāṇasyābātmatām ।
+prakṛtivikārayostādātmyāt ।
+tathā ca prāṇo manasaḥ prakṛtiriti manaso vṛttimataḥ prāṇe laya iti prāpte abhidhīyate satyam, āpo annamasṛjanta iti śruterabannayoḥ prakṛtivikārabhāvo avagamyate ।
+na tu tadvikārayoḥ prāṇamanasoḥ ।
+khayoniprāṇāḍikayā tu mitho vikārayoḥ prakṛtivikārabhāvābhyupagame saṃkarādatiprasaṅgaḥ syāt ।
+tasmādyo yasya sākṣādvikārastasya tatra laya ityannasyāpsu layo na tvabvikāre prāṇe annavikārasya manasaḥ ।
+tathā cātrāpi manovṛttervṛttimati prāṇe layo na tu vṛttimato manasa iti siddham ।।

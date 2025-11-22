@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 361 | label: meter | g:0.102 m:0.555 ---
+
+yamas tu tat pituḥ sarvaṃ prāñjaliḥ pratyavedayat 
+bhṛśaṃ śāpabhayodvignaḥ saṃjñāvākyair vivejitaḥ 
+śāpo nivarted iti ca provāca pitaraṃ tadā ।।

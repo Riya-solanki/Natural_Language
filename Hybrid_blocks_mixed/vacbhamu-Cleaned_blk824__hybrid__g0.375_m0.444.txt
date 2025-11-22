@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 824 | label: hybrid | g:0.375 m:0.444 ---
+
+syādetat ।
+ekībhāvaḥ kasmādiha saṃbandhaḥ kathañcidvyākhyāyate na mukhya evetyetatsūtreṇa pariharati- upapattaśca ।
+svamapīta iti hi svarūpasaṃbandhaṃ brūte ।
+svabhāvaścedanena saṃbandhatvena spṛṣṭastataḥ svābhāvikastādātmyānnātiricyata iti tarkapāda upapāditamityarthaḥ ।
+tathā bhedo api trividho vānyādṛśaḥ svābhāvika ityarthaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 645 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra satyabhāmāṃ tāvat-pāṇau praṇeṣyasi, yatra jāmbavatīm api saṃvalayiṣyasi, yatra ca jāmbavān kukuda-mudaṃ lapsyate । tathā hi samāsena kathayiṣyanti ।

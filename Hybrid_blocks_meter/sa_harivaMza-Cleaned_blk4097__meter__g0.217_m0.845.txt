@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4097 | label: meter | g:0.217 m:0.845 ---
+
+sa pakṣabalavikṣepair mahādriśikharopamaḥ 
+dikṣu sarvāsu saṃhrādaṃ janayāmāsa pakṣirāṭ ।।

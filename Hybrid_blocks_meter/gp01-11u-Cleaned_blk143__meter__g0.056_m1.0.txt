@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 143 | label: meter | g:0.056 m:1.0 ---
+
+yatrānvitā kumbhā vidhukānta-sambhavāḥ
+kūṭāntaratna-mukuṭā iva sthitāḥ ।
+yatrānvitā svacchatayā vibhātayā
+hīrādi-ratna-cchadir ālir īkṣyate ।। [indravaṃśā]

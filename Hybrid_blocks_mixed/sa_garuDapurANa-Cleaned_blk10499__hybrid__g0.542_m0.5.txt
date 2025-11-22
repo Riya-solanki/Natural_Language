@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10499 | label: hybrid | g:0.542 m:0.5 ---
+
+yajjihvāgre harināmaiva nāsti sa brāhmaṇo naiva sa eva gokharaḥ ।
+ahaṃ na jāne ca tava svarūpaṃ nyūno hyahaṃ varuṇātsarvadaiva ।।

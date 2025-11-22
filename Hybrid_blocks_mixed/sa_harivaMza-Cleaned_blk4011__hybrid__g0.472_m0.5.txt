@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4011 | label: hybrid | g:0.472 m:0.5 ---
+
+iti puruṣavarasya lāṅgaler bahuvidham uttamam anyad eva ca 
+yad akathitam ihādya karma te tad upalabhasva purāṇavistarāt ।। 
+ālolatulasīmālam ārūḍhavinatāsutam । jyotirindīvaraśyāmam āvir astu mamāgrataḥ । 
+pratyetya dvārakāṃ viṣṇur hate rukmiṇi vīryavān 
+akarod yan mahābāhus tan me vada mahāmune ।।

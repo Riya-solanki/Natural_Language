@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7469 | label: meter | g:0.316 m:0.75 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+jñānato ajñānato vāpiyannaraiḥ kaluṣaṃ kṛtam ।
+tasya pāpasya śuddhyarthaṃ vidheyā niṣkṛtirnaraiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3545 | label: meter | g:0.194 m:0.75 ---
+
+tad balaṃ pṛthivīśānāṃ dṛptayodhajanākulam 
+kṣveḍitāsphoṭitaravaṃ meghasainyam ivābabhau ।।

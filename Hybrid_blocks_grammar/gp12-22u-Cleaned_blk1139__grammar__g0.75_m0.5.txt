@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1139 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhukaṇṭha uvāca-satyaṃ, bālyam eva khalu pūrvāsāṃ bodhasya virodhaṃ kurvāṇam āsīd iti viparīta-rītir jātā । katham iva jñānottarāṇām āsāṃ sā bhavet? iti ।

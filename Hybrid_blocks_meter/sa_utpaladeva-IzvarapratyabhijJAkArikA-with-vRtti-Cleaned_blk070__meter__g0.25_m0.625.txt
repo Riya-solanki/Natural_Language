@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 70 | label: meter | g:0.25 m:0.625 ---
+
+prāgivārtho aprakāśaḥ syāt prakāśātmatayā vinā 
+na ca prakāśo bhinnaḥ syād ātmārthasya prakāśatā ।।

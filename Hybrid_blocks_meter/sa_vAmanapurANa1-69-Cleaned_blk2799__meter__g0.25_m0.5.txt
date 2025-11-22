@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2799 | label: meter | g:0.25 m:0.5 ---
+
+amarāribalaṃ dṛṣṭvā bhagnaṃ kruddhā gaṇeśvarāḥ ।
+purato nandinaṃ kṛtvā jighāṃsanti sma dānavān ।।

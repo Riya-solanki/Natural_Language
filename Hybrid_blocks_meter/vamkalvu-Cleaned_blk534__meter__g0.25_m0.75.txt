@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 534 | label: meter | g:0.25 m:0.75 ---
+
+pṛṣṭeṣu śaṅkhaśakalacchaviṣu cchadānāṃ rājībhiraṅkitamalaktakalohinībhiḥ ।
+gorocanāharitababhruvahiḥpalāśamāmodate kumudamambhasi palvalasya ।।

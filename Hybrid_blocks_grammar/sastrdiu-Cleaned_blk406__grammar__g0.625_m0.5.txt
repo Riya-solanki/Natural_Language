@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 406 | label: grammar | g:0.625 m:0.5 ---
+
+kaḥ punarvikalpānāṃ parihāraḥ, na tāvadaparihṛtā api śaknuvanti sāmānyamapahnotuṃ, teṣāmapi tadapekṣatvādityuktaṃ tathāpi parihāro abhidhīyate ।।

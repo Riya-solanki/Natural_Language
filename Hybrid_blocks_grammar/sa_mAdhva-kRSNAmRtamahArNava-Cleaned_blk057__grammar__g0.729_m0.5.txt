@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 57 | label: grammar | g:0.729 m:0.5 ---
+
+vedeṣu yajñeṣu tapasu caiva dāneṣu tīrtheṣu vrateṣu caiva iṣṭeṣu pūrteṣu ca yat pradiṣṭaṃ puṇyaṃ smṛte tat khalu vāsudeve ।।

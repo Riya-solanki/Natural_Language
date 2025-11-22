@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1231 | label: meter | g:0.194 m:0.75 ---
+
+evaṃ kṛtvā praṇidhim acalaṃ sādrisārasthirātmā
+tyaktāpekṣaḥ sucaritaśatopārjite api svadehe ।
+nistriṃśena pramuditamanāḥ pāṭayām āsa kukṣiṃ
+svāṃ śokārtivyathitahṛdayaḥ prāṇināṃ tāraṇāya ।।

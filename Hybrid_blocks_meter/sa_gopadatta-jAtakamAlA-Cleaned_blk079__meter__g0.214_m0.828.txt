@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 79 | label: meter | g:0.214 m:0.828 ---
+
+asadṛśajanasaṅgābhyāsadoṣān mayaiva 
+prakṛtiguṇavināśo mandabhāgyasya jātaḥ ।
+śaṭhamatibhir anāryair vipralabdho asmi vākyair
+yad iha guṇadhanānāṃ śocanīyo asmi jātaḥ ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1720 | label: hybrid | g:0.176 m:0.335 ---
+
+liṅgavacanabhedo api upamānopameyayoḥ sādhāraṇaṃ cet dharmamanyarūpaṃ kuryāt । tadā ekatarasyaiva taddharmasamanvayāvagateḥ saviśeṣaṇasyaiva tasyopamānatvamupameyatvaṃ vā pratīyamānena dharmeṇa
+pratīyate iti prakāntasyārthasya sphuṭamanirvāhādasya bhagnaprakramarūpatvam । yathā

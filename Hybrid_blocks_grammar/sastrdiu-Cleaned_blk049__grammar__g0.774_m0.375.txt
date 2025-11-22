@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 49 | label: grammar | g:0.774 m:0.375 ---
+
+eva ।।
+kiñca pravṛttyadhīnāpi vyutpattirnāvaśyaṃ kāryaviṣayaiva bhavati, tathāhi yadā kaścitpravṛttāvatyantāsamarthaṃ vṛddhamāturaṃ vā prativinodārthaṃ vākyaṃ prayuṅkte anadyāstīre pañca phalāni santī'ti tatrānyo daivasaṃgataḥ kaścidarthī tadvākyamarthācchrutvā nadītīraṃ gatvā phalānyāharati, etatsarvaṃ paśyannanyo vyutpitsuḥ phalasadbhāvapratipādane śabdasya sāmarthyaṃ vyutpadyate, tasmānnaikāntataḥ kāryārthatā śabdānām ।

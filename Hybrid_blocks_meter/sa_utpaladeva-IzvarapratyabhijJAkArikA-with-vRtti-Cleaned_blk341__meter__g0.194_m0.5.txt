@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 341 | label: meter | g:0.194 m:0.5 ---
+
+devādīnāṃ ca sarveṣāṃ bhavināṃ trividhaṃ malam 
+tatrāpi kārmam evaikam mukhyaṃ saṃsārakāraṇam ।।

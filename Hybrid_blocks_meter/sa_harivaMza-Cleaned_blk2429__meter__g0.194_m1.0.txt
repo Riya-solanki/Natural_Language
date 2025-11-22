@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2429 | label: meter | g:0.194 m:1.0 ---
+
+dhārānirmalanārācaṃ vidyut kavacanirmalam 
+śakracāpāyudhadharaṃ yuddhasajjam ivāmbaram ।।

@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 238 | label: grammar | g:0.625 m:0.5 ---
+
+cakṣuṣī tava rajyete sphuraty adharapallavaḥ bhruvau ca bhugne na tathāpy aduṣṭasyāsti me bhayam ।।

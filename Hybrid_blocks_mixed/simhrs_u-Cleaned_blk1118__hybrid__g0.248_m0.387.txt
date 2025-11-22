@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1118 | label: hybrid | g:0.248 m:0.387 ---
+
+atra śṛṅgāra-rasasya arāgād aneka-rāgāt tiryag-rāgāt mleccha-rāgāc ceti caturvidham ābhāsa-bhūyastvam । tatra arāgas tv ekatra rāgābhāvaḥ । tena rasasyābhāsatvaṃ, yathā-
+sa rāmo naḥ sthātā na yudhi purato lakṣmaṇa-sakho
+bhavitrī rambhoru tridaśa-vadana-glānir adhunā ।
+prayāsyaty evoccair vipadam acirād vānara-camūr
+laghiṣṭhedaṃ ṣaṣṭhākṣara-para-vilopāt paṭha punaḥ ।।

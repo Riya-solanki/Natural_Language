@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3681 | label: meter | g:0.306 m:0.5 ---
+
+evaṃprabhāvo danupuṅgavo asau devān maharṣīn nṛpatīn samagrān ।
+ābādhamāno vicacāra bhūmyāṃ sarvāḥ kriyā nāśayadugramūrtiḥ ।।

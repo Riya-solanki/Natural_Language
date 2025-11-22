@@ -1,0 +1,6 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 135 | label: meter | g:0.25 m:0.59 ---
+
+ācāryavasubandhuviracit pañcaskandhaprakaraṇaṃ samāptam । pañcaskandhaprakaraṇaṃ śāstriṇā śāntibhikṣuṇā । 
+bhoṭānuvādamāgamya saṃskṛte punaruddhṛtam
+yadatra sukṛtaṃ sarva tadācāryasya dhīmataḥ ।
+yat kukṛtaṃ tadāgo me kṣantavyaṃ sādhusūribhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 251 | label: meter | g:0.306 m:0.625 ---
+
+cāryaṃ yatnena rase ghanasatvaṃ tadvidhaṃ ghanaṃ tasya ।
+saṃyojya sarvabījaṃ nirvāhya dvandvasaṃkarataḥ ।।

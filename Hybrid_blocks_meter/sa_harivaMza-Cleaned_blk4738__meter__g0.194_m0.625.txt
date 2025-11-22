@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4738 | label: meter | g:0.194 m:0.625 ---
+
+tāni bāṇasahasrāṇi carmaṇā vyavadhūya saḥ 
+babhau pramukhatas tasya sthitaḥ sūrya ivodaye ।।

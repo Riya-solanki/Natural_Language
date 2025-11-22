@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8719 | label: meter | g:0.25 m:0.5 ---
+
+bahūnyabdāni vijane vane tasya gatāni vai ।
+tasya buddhistato jātā tīrthānugamanaṃ prati ।।

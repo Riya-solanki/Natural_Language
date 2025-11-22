@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 104 | label: meter | g:0.25 m:0.5 ---
+
+asthiraṃ jīvanaṃ loke yauvanaṃ dhanamasthiraṃ ।
+asthiere putrapatnyau ca dharmasatyahitāḥ sthirāḥ ।।

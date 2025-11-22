@@ -1,0 +1,18 @@
+--- source: mrgt1chu-Cleaned.txt | block: 106 | label: grammar | g:0.581 m:0.279 ---
+
+nanu svātmanā yathā ghaṭaḥ svasāmarthyakriyāṃ karoti evaṃ paṭātmanāpi tatkāryaṃ kuryāt na ca karoty ataḥ paṭātmanā nāsti yadi svātmanāpi parātmavan na syāt tadā svakāryam api na kuryāt tasmād asti ca nāsti cety uktam ।। 
+tathaitad ghaṭatvam aghaṭatvaṃ ca parasparam abhinnam ।। 
+bhede hi tadbuddhyabhidhānānuvṛttir na syāt ghaṭaś cāghaṭaś ceti sāmānādhikaraṇyaṃ ca na bhavet ।। 
+asti caitat tasmād ubhayātmako asau krameṇa tacchabdābhidheyatām udvahan syāt ghaṭaś cāghaṭaś cety avirodhaḥ ।। 
+etad apy ayuktaṃ yato nāsti kaścid abhedaḥ ।। 
+tathā hi aghaṭaśabde ghaṭo na bhavatīti prasajyapratiṣedho vā syāt ghaṭād anyaḥ paṭādir iti vā paryudāsaḥ ।। 
+ādye pakṣe ghaṭaś cāghaṭaś ca syād ity ukte ghaṭāghaṭayor avyatirekād ghaṭasyābhāva eva ghaṭa ity abhipretam ।। 
+evaṃ ceṣyamāṇe sarpābhāve api sarpa eva syāt ।। 
+tathā ca sati sarpādivat tadabhāvād api bhayaṃ syāt ।। 
+sasarpaniḥsarpadeśayoḥ sama evopalambho bhavet ।। 
+paryudāsapakṣe api ghaṭatvād anyad aghaṭatvaṃ bhinnam eva paṭatvādikaṃ kathyate ।। 
+tac ca ghaṭatvād bhinnam ।। 
+abhede hi ghaṭādiṣv api paṭabuddhyabhidhānānuvṛttir na syāt ।। 
+ghaṭādāv api spaṣṭe ghaṭapratyayaś ca na syāt ।। 
+tasmān na ghaṭāghaṭayor abheda iti na sadasator ekāśrayatvam ।। 
+kiṃ ca ।।

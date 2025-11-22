@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 80 | label: meter | g:0.286 m:0.878 ---
+
+veśa-vastra-sanniveśa-cañcalatva-bhaṅginī
+tat-tad-artha-vaiparītya-kāri-vega-saṅginī ।
+yan-nimittam ātma-sarva-saṅga-bhaṅga-bhāvinī
+yatra sarva-nāma-rūpa-vismrtiś ca bhāvinī ।।

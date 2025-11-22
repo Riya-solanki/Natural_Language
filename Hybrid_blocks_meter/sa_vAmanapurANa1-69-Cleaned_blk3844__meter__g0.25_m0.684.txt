@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3844 | label: meter | g:0.25 m:0.684 ---
+
+gajendra uvāca ।
+oṃ namo mūlaprakṛtaye ajitāya mahātmane ।
+anāśritāya devāya niḥspṛhāya namo astu te ।।

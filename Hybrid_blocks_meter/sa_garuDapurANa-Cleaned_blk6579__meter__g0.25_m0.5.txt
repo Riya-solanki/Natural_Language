@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6579 | label: meter | g:0.25 m:0.5 ---
+
+śudhyettadbhasmanā kāṃsyaṃ surayā yanna lipyate ।
+mūtreṇa surayā miśraṃ tapanaiḥ khalu śudhyati ।।

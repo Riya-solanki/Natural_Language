@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 802 | label: grammar | g:0.558 m:0.401 ---
+
+cakṣuścumabavighnitādharasudhāpānaṃ mukhaṃ śuṣyati dveṣṭi svaṃ ca kacagrahavyavahitaśroṇīvihāraḥ karaḥ ।
+nidre kiṃ viratāsi tāvad aghṛṇe yāvan na tasyāś cirāt krīḍanti kramaśaḥ kṛśīkṛtaruṣaḥ pratyaṅgam aṅgāni me ।।
+abhinandasya

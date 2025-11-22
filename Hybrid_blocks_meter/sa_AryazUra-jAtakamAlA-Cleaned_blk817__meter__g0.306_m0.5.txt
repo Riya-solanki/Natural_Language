@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 817 | label: meter | g:0.306 m:0.5 ---
+
+saputradāro dāso ahaṃ svāmī tvaṃ daivataṃ ca me ।
+dāsyāmasyāṃ yato deva kaste dharmavyatikramaḥ ।।

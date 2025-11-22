@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 189 | label: meter | g:0.217 m:0.785 ---
+
+atrāpi varṇavinyāsavicchittiḥ padasaṃdhānasampacca saṃniveśasaundaryanibandhanā sphuṭāvabhāsaiva ।
+evaṃ lāvaṇyamabhidhāya ābhijātyamabhidhatte

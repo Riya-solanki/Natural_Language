@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 67 | label: meter | g:0.306 m:0.5 ---
+
+smaraśaraniśitākṣyāḥ kampayante na keṣāṃ kurava iva kaṭākṣāḥ prauḍhaśalyā manāṃsi ।
+bhvanajanajigīṣotsāhayogāya yeṣām adhicapalatarāṇāṃ niścalā karṇamaitrī ।।

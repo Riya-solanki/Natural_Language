@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1417 | label: hybrid | g:0.542 m:0.5 ---
+
+svābhāvikaṃ jagaditi pravikathase tvaṃ tattvaṃ ca tadyadi vikutsayasi kimasmān ।
+śākhāmṛge nidhanamāpatite svabhāvāt pāpaṃ kṛto mama yataḥ suhato mayāyam ।।

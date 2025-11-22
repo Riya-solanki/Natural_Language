@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3033 | label: grammar | g:0.646 m:0.5 ---
+
+atha bhagavān vajrapāṇaye bodhisatvāya mahāsatvāya sādhukāramadāt । "sādhu sādhu vajrapāṇe subhāṣitaṃ, pratigṛhīto asmābhiradhiṣṭhitaśce-" ti ।।

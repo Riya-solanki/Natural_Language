@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 545 | label: meter | g:0.272 m:0.595 ---
+
+pratyakṣamāttadhanuṣāṃ manujeśvarāṇāṃ prāyopaveśasadṛśaṃ vratamāsthitasya
+tātasya me palitamaulinirastakāśe ē̃ vyāpāritaṃ śirasi śastramaśastrapāṇeḥ ।।

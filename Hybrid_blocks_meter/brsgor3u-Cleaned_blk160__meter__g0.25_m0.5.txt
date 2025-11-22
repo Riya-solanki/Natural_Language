@@ -1,0 +1,3 @@
+--- source: brsgor3u-Cleaned.txt | block: 160 | label: meter | g:0.25 m:0.5 ---
+
+anyathātvaṃ śabdād iti cen nāviśeṣāt ।

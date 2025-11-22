@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 339 | label: hybrid | g:0.505 m:0.492 ---
+
+yat satyaṃ jñānam' ityādinā mantravarṇena brahmoktaṃ tadevopāyabhūtena brāhmaṇena svapradhānyena gīyate- brahma pucchaṃ pratiṣṭhā iti ।
+avayavavacanatve tvasya mantre prādhānyaṃ, brāhmaṇe prādhānyamityupāyopeyayormantrabrāhmaṇayorvipratipattiḥ syāditi ।
+netaro anupapatteḥ ।।

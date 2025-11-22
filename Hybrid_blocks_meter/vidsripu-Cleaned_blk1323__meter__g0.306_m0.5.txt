@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1323 | label: meter | g:0.306 m:0.5 ---
+
+atimaline kartavye bhavati khalānām atīva nipuṇā dhīḥ ।
+timire hi kauśikānāṃ rūpaṃ pratipadyante dṛṣṭiḥ ।।

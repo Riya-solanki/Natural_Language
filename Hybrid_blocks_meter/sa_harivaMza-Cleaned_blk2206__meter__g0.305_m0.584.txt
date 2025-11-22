@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2206 | label: meter | g:0.305 m:0.584 ---
+
+mukuṭena tricakreṇa keśabandhena śobhitā 
+bhujagābhoganirghoṣair bāhubhiḥ parighopamaiḥ ।। 
+bhujagābhair bhujair bhīmair bhūṣayantī diśo daśa । aṣṭabhiḥ śobhayanty ugraiḥ śārṅgacakrāsidhāribhiḥ । 
+dhvajena śikhibarhāṇām ucchritena samīpataḥ 
+aṅgajena mayūrāṇām aṅgadena ca bhāsvatā ।।

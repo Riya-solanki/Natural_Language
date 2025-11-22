@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 972 | label: meter | g:0.056 m:0.5 ---
+
+jahāti janturyaḥ prāṇān sa śivatvaṃ prapadyate 
+rūpaṃ paraṃ maheśasya dhyātuṃ śakyaṃ na jātucit ।। MT

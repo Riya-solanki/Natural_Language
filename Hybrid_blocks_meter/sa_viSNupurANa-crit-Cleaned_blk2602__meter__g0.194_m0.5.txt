@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2602 | label: meter | g:0.194 m:0.5 ---
+
+pathyasyāpi trayaḥ śiṣyāḥ kṛtā yair dvija saṃhitāḥ 
+jājaliḥ kumudādiś ca tṛtīyaḥ śaunako dvija ।।

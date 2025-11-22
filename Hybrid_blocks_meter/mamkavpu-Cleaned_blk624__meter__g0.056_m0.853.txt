@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 624 | label: meter | g:0.056 m:0.853 ---
+
+{utkampinī bhayapariskhalitāṃśukāntā
+te locane pratidiśaṃ vidhure kṣipantī ।
+krūreṇa dāruṇatayā sahasaiva dagdhā
+dhūmāndhitena dahanena na vīkṣitāsi ।।}

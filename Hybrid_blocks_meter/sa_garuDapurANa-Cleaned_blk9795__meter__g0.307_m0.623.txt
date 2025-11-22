@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9795 | label: meter | g:0.307 m:0.623 ---
+
+dātrā boktrā ca na jñātaṃ sūtakaṃ mṛtakaṃ tathā ।
+ubhayorapi taddoṣaṃ nāropayati karhicit ।।

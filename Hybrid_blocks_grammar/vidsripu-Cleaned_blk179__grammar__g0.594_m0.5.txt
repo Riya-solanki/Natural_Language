@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 179 | label: grammar | g:0.594 m:0.5 ---
+
+cyutasumanasaḥ kundāḥ puṣpodgameṣv alasā drumā manasi ca giraṃ grathnantīme kiranti na kokilāḥ ।
+atha ca savituḥ śītollāsaṃ lunanti marīcayo na ca jaṭharatām ālambante klamodayadāyinīm ।।

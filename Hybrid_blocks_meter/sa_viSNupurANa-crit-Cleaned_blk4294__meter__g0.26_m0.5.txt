@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4294 | label: meter | g:0.26 m:0.5 ---
+
+tvaṃ paras tvaṃ parasyādyaḥ paraṃ tvattaḥ parātmakam 
+parasmāt paramo yas tvaṃ tasya stoṣyāmi kiṃ nv aham ।।

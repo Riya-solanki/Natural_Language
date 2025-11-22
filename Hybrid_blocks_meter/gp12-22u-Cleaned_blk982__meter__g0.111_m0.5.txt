@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 982 | label: meter | g:0.111 m:0.5 ---
+
+yadā yātaḥ pitrā saha varuṇa-lokaṃ harir asau
+tadā rādhādīnāṃ sthitir iha mṛṣā kā prathayitā ।
+jaḍānāṃ jāḍyaṃ syād asukha-sukha-buddhis tu sudhiyāṃ
+na śūnyasya prāptiṃ bhajati paritaḥ kāpi ca daśā ।। [śikhariṇī]

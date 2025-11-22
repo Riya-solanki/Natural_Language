@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 45 | label: meter | g:0.185 m:0.76 ---
+
+kecidanibaddha eva paryavasitāḥ, taddūṣaṇārthamāha 
+nānibaddhaṃ cakāstyekatejaḥparamāṇuvat ।।
+na khalvanibaddhaṃ kāvyaṃ cakāsti dīpyate । yathaikatejaḥparamāṇuriti । atra ślokaḥ

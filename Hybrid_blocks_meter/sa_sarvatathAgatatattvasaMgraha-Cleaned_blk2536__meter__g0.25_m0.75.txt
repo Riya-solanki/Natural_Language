@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2536 | label: meter | g:0.25 m:0.75 ---
+
+athātra maṇḍale mahāmudrābandho bhavati ।

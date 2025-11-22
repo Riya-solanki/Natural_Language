@@ -1,0 +1,27 @@
+--- source: vacbhamu-Cleaned.txt | block: 864 | label: hybrid | g:0.388 m:0.427 ---
+
+puruṣavidyāyamitra cetareṣāmanāmnānāt ।
+puruṣayajñatvamubhayatrāpyaviśiṣṭam ।
+naca viduṣo yajñasyeti na sāmānādhikaraṇyasaṃbhavaḥ ।
+yajñasyātmetyātmaśabdasya svarūpavacanatvāt ।
+yajñasya svarūpaṃ yajamānastasya ca cetanatvādviduṣa iti sāmānādhikaraṇyasaṃbhavaḥ ।
+tasmātpuruṣayajñatvāviśeṣānmaraṇāvabhṛthatvādisāmānyāccaikavidyādhyavasāne ubhayatra ubhayadharmopasaṃhāra iti prāptam ।
+evaṃ prāpta ucyate yādṛśaṃ tāṇḍināṃ paiṅgināṃ ca puruṣayajñasaṃpādanaṃ tadāyuṣaśca tredhā vyavasthitasya savanatrayasaṃpādanam ।
+aśiśiṣādīnāṃ ca dīkṣādibhāvasaṃpādanaṃ naivaṃ taittirīyāṇām ।
+teṣāṃ na tāvat puruṣe yajñasaṃpattiḥ ।
+nahyātmā yajamāna ityatrāyamātmaśabdaḥ svarūpavacanaḥ ।
+nahi yajñasvarūpaṃ yajamāno bhavati ।
+kartṛkarmaṇorabhedābhāvāt ।
+cetanācetanayoścaikyānupapatteḥ yajñakarmaṇoścācetanatvāt ।
+yajamānasya cetanatvāt ।
+ātmanastu cetanasya yajamānatvaṃ ca vidvattvaṃ copapadyate ।
+tathā cāyamarthaḥ-evaṃ viduṣaḥ puruṣasya yaḥ saṃbandhī yajñaḥ tasya saṃbandhitayā yajamāna ātmā tathā cātmano yajamānatvaṃ ca vidvatsaṃbandhitā ca yajñasya mukhye syātāmitarachātmaśabdasya svarūpavācitve viduṣo yajñasyeti ca yajamāno yajñasvarūpamiti ca gauṇe syātām ।
+naca satyāṃ gatau tadyuktam ।
+tasmātpuruṣayajñatā taittirīye nāstīti tayā tāvanna sāmyam ।
+naca patnīyajamānavedavidyādisaṃpādanaṃ taittirīyāṇāmivi tāṇḍināṃ paiṅgināṃ vā vidyate savanasaṃpattirapyeṣāṃ vilakṣaṇaiva ।
+tasmādbhūyo vailakṣaṇye sati na kiñcinmātrasālakṣaṇyādvidyaikatvamucitamatiprasaṅgāt ।
+apica tasyaivaṃ viduṣa ityanuvādaśrutau satyāmanekārthavidhāne vākyabhedadoṣaprasaktirityarthaḥ ।
+api ceyaṃ paiṅgināṃ tāṇḍināṃ ca puruṣayajñavidyāphalāntarayuktā svatantrā pratīyate ।
+taittirīyāṇāṃ tu evaṃviduṣa iti śravaṇātpūrvoktaparāmarśāttatphalatvaśruteśca pāratantryam ।
+naca svatantraparantrayoraikyamucitamityāha-apica sasaṃnyāsāmātmavidyāmiti ।
+upasaṃharati-tasmāditi ।।

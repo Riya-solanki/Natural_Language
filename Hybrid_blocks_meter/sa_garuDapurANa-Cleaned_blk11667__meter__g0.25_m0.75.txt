@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11667 | label: meter | g:0.25 m:0.75 ---
+
+vanamāla sukhayutaṃ mūrdhnasāhasrasaṃyutam ।
+raupyabindusamāyuktaṃ savye bhadrārdhamātrakam ।।

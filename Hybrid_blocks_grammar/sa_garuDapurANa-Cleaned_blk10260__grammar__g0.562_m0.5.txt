@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10260 | label: grammar | g:0.562 m:0.5 ---
+
+iti proktaṃ tatra me saṃśayosti yontyo viśeṣaḥ sa tu nāṃśayuktaḥ ।
+yo hyaṃśayukto na tu soṃtyo viśeṣa evaṃ mamābhāti vacastu tathyam ।।

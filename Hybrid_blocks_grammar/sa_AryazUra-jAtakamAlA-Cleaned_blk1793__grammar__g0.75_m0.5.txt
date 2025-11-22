@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1793 | label: grammar | g:0.75 m:0.5 ---
+
+bodhisattvastvanunayākṣamamenaṃ viditvāyaṃ ca nāmāsya nirbandha iti nainaṃ kiṃciduvāca । atha sa rājā tasya mahātmano dvitīyaṃ pāṇibhūmau bāhu karṇanāsaṃ caraṇau tathaiva nicakarta ।

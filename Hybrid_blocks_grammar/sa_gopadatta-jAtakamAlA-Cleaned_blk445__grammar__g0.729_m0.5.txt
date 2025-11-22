@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 445 | label: grammar | g:0.729 m:0.5 ---
+
+pratyahaṃ ca dakṣiṇena gamanaṃ vārayanti sma । so api yathā yathā nivāryate tathā tathā tayā diśā gamanāyotsukamanā babhūva ।

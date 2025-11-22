@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 78 | label: meter | g:0.272 m:0.845 ---
+
+saṃvittimātrakaṃ jñānamākāśavadalakṣaṇam ।
+kintu tasya prabhedo asti sandhyārātridivātmanā ।।

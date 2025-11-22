@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 743 | label: grammar | g:0.569 m:0.359 ---
+
+satyakāmaḥ kilamṛtapitṛko jabālāṃ mātaramapṛcchat, kiṅgotro ahamiti ।
+taṃ mātovāca bhartṛsevāvyagratayāhamapi tava piturgotraṃ na jānāmi, jabālā tu nāmāhamasmi satyakāmo nāma tvamasīti etāvajjānāmīti ।
+tataḥ sa jābālo gautamamāgatya tena kiṅgotro asīti pṛṣṭa uvāca, nāhaṃ gotraṃ vedmi na mātā vetti parantu me mātrā kathitaṃ, upanayanārthamācāryaṃ gatvā satyakāmo jābālo asmīti brūhīti ।
+anena satyavacanena tasya śūdratvābhāvo nirdhāritaḥ ।
+abrāhmaṇa etatsatyaṃ vivicya vaktuṃ, nārhatīti nirdhārya, he somya, satyāttvaṃ nāgāḥ satyaṃ na tyaktavānasi, atastvāmupaneṣye, tadarthaṃ samidhamāhareti gautamasya pravṛtteśca liṅgānna śūdrasyādhikāra ityāha-tadabhāveti ।।

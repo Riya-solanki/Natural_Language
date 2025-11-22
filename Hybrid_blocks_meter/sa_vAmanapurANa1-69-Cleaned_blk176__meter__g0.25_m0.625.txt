@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 176 | label: meter | g:0.25 m:0.625 ---
+
+te śastravarṣamatulaṃ gaṇeśāya samutsṛjan ।
+gaṇeśo api varāstraistān praciccheda bibheda ca ।।

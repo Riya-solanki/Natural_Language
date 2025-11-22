@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9370 | label: meter | g:0.306 m:0.625 ---
+
+paśutve sthāvaratve ca yatra kvāpi sa jāyate ।
+tatraiva janturutpannaḥ śrāddhaṃ tatropatiṣṭhati ।।

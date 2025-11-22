@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 67 | label: meter | g:0.25 m:0.625 ---
+
+surāsuraguruḥ śrīmān vidyayā vedamāyayā ।
+upāsanta ca tatraiva prajānāṃ patayaḥ prabhum ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 171 | label: grammar | g:0.75 m:0.5 ---
+
+evam asau bhagavān svātantryaśaktimahimnā paśudaśām avalambamāno bhogopadānapravaṇaḥ sampūrṇadehaprāṇabalaḥ san uktena ṣaḍadhvajālakrameṇa prabuddhaḥ śarīraparigraham āsādayati krameṇa bhukteṣu karmasu ṣaḍbhir bhāvavikārair jarārogādibhiḥ kāyayantre vighaṭamāne dehastambho vepathur nāḍīcakrasaṃkocaḥ kvacid viparyayeṇa tadvikāso marmabhaṅgaḥ śoṣa ityādi pūrvasaṃsthāpanopamardakaṃ sarvam upapadyate yāvat vinaśyati vināśaś ca kṣaṇiko asya yady api tathāpi sthūlayā vṛttyā daśabhir daśabhir abhivyaktaḥ proktaḥ ।।

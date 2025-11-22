@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 144 | label: meter | g:0.25 m:0.5 ---
+
+emeva śraddhaparibhāvitu bodhisattvo prajñāvihīnu laghu bodhimupaiti hānim 
+so caiva prajñavarapāramitāsuyukto akṣato anupāhatu spṛśāti jināna bodhim ।।

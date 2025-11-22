@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 985 | label: meter | g:0.25 m:0.5 ---
+
+matsamo dhāraṇād devi satyaṃ satyaṃ yaśasvini 
+mayāpi dhāritā hy eṣā brahmaṇāpi tataḥ punaḥ ।।

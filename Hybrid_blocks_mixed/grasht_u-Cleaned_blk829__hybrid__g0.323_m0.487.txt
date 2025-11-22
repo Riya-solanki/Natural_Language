@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 829 | label: hybrid | g:0.323 m:0.487 ---
+
+pūrvoktavidher viśeṣamāha evamityādi ।।
+evaṃ śatāṃśavedhanyāyena daśavṛddhivibhāgena sahasravedhī syāt ।।
+evaṃ ca jāraṇabījavaśena jāraṇāyāṃ yadbījaṃ kiyadguṇajāritamiti bhāvaḥ tadvaśena koṭivedhī ca syāt ।।
+kiṃ kṛtvā tenaiva jāraṇabījavaśena yattasya balābalaṃ nyūnādhikyaṃ tat jñātvetyabhiprāyaḥ ।।

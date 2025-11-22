@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1870 | label: meter | g:0.194 m:0.625 ---
+
+śakre jayati deveśe tvayi cāsurasūdane 
+dharme prayatamānānāṃ mānavānāṃ kuto bhayam ।।

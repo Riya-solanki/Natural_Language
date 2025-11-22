@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 592 | label: meter | g:0.306 m:0.5 ---
+
+tato jaleśaḥ sagadaḥ sapāśaḥ sambhyadhāvad ditijaṃ nihantum ।
+tataḥ samākrandamanuttamaṃ hi muktaṃ tu daityairghanarāvatulyam ।।

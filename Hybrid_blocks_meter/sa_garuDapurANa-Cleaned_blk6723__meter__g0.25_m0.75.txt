@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6723 | label: meter | g:0.25 m:0.75 ---
+
+triguṇābhistu mātrābhiruttamaḥ sa udāhṛtaḥ ।
+japadhyānayutau garbho viparītastvarbhakaḥ ।।

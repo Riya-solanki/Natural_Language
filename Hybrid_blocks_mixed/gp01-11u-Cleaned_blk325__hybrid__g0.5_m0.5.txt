@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 325 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha tāṃ paśyantāv eva prema-vaśyaṃ tāv ātmānam ajānantāv ātmanā kṛṣṇa eva sāntvayāmāsa, sāntvitau ca tau taṃ ca tāṃ ca nicāyya cintayāmāsatuḥ,

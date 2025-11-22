@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1617 | label: hybrid | g:0.521 m:0.5 ---
+
+hemacchavirmaṇiśatairiva citragātraḥ khyāto mṛgaḥ śrutiṣu dṛṣṭacaraśca kaiścit ।
+yastaṃ pradarśayati tasya dadāti rājā grāmottamaṃ paridaśā rucirāḥ striyaśca ।।

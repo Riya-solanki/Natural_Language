@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11238 | label: meter | g:0.316 m:0.5 ---
+
+sarvaṃ vyarthaṃ vaiṣṇavānāṃ ca dīkṣā kathāṃ vinā samyaganuṣṭhitāṃ vai ।
+yairna śrutaṃ bhāgavataṃ purāṇaṃ sasaṃpradāyairgurubhiḥ saṃyutaiśca ।।

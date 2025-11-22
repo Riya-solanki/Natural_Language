@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 654 | label: grammar | g:0.562 m:0.5 ---
+
+yad rātrau rahasi vyapetavinayaṃ dṛṣṭaṃ rasāt kāminor anyonyaṃ śayanīyam īhitarasavyāptipravṛttaspṛham ।
+tat sānandamiladdṛśoḥ katham api smṛtvā gurūṇāṃ puro hāsodbhedanirodhamantharamilattāraṃ kathaṃcit sthitam ।।

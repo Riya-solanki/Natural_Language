@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1428 | label: meter | g:0.25 m:0.5 ---
+
+prīyante pitaras tasya prādurbhāvānukīrtanāt 
+viṣṇor amitavīryasya yaḥ śṛṇoti kṛtāñjaliḥ ।। 
+sarvapāpavinirmukto dhanaputrapaśūṃl labhet । nāśubhaṃ vidyate tasya putravān dyutimān bhavet । 
+etās tu yogeśvarayogamāyāḥ śrutvā naro mucyati sarvapāpaiḥ 
+ṛddhiṃ samṛddhiṃ vipulāṃś ca bhogān prāpnoti śīghraṃ bhagavatprasādāt ।।

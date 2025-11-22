@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 430 | label: grammar | g:0.646 m:0.5 ---
+
+[] madhumaṅgala uvāca-doṣaika-dṛk purobhāgīty evaṃ yac-chābdikair matam tasmāt tvam eva purataḥ sudhībhis tābhir āhitā ।

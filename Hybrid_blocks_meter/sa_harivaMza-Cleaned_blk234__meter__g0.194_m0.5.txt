@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 234 | label: meter | g:0.194 m:0.5 ---
+
+etasminn eva kāle tu yajñe paitāmahe śubhe 
+sūtaḥ sūtyāṃ samutpannaḥ sautye ahani mahāmatiḥ ।।

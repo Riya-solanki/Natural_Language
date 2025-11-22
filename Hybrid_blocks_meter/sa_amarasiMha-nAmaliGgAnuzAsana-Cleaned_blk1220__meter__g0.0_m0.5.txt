@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1220 | label: meter | g:0.0 m:0.5 ---
+
+śāsti yaścājñayā rājñaḥ sa samrāḍatha rājakam

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2578 | label: meter | g:0.194 m:0.625 ---
+
+mahānano mahāgrīvaḥ umahān antakopamaḥ 
+raudraḥ śakaṭacakrākṣo nāmayaṃs caraṇaiḥ kṣitim ।।

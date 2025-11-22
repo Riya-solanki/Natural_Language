@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 912 | label: grammar | g:0.625 m:0.5 ---
+
+[] anujo' pi sa-smitam āha sma, āṃ āṃ, tatra krīḍām api kariṣyāvaḥ iti ।

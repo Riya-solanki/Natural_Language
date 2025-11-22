@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1657 | label: grammar | g:0.656 m:0.5 ---
+
+jīvākṛṣṭiṃ sa cakre mṛdhabhuvi dhanuṣaḥ śatrur āsīd gatāsur lakṣāptir mārgaṇānām abhavad aribale tadyaśas tena labdham ।
+muktā tena kṣameti tvaritam arigaṇair uttamāṅgaiḥ pratīṣṭhā pañcatvaṃ dveṣisainye sthitam avanipatir nāpa saṃkhyāntaraṃ sa ।।

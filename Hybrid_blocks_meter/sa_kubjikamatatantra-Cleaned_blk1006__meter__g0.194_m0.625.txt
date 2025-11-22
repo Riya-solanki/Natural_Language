@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1006 | label: meter | g:0.194 m:0.625 ---
+
+āgataṃ rakṣayet kālaṃ kruddhaḥ kālaṃ vināśayet 
+kālavat kulasiddho asau tanutrāṇāvalambakaḥ ।।

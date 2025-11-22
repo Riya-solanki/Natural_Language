@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7649 | label: meter | g:0.25 m:0.555 ---
+
+dakṣiṇā dīyate vipre pātakasya pramocanaḥ ।
+mayāte ayaṃ samākhyāto vidhiḥ pañcaharaḥ sthitaḥ ।
+saṃyaminyāṃ yathāyānaṃ yathāvarṣaṃ mṛtakriyā ।।

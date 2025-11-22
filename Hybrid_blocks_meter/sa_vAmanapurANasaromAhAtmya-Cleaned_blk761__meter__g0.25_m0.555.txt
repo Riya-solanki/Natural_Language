@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 761 | label: meter | g:0.25 m:0.555 ---
+
+pūṣā nāma dvijaśreṣṭha darśanānmuktimāpnuyāt ।
+ādityasya dine prāpte tasmin snātastu mānavaḥ ।
+viśuddhadeho bhavati manasā cintitaṃ labhet ।।

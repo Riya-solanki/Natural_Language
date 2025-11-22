@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 894 | label: meter | g:0.259 m:0.914 ---
+
+{prāṇeśvarapariṣvaṅgavibhramapratipattibhiḥ ।
+muktāhāreṇa lasatā hasatīva stanadvayam ।।}

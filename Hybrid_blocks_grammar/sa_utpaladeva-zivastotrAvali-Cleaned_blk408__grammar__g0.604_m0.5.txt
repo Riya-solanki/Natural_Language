@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 408 | label: grammar | g:0.604 m:0.5 ---
+
+kāmakrodhābhimānais tvām upaharīkṛtaiḥ sadā ye arcayanti namas tebhyas teṣāṃ tuṣṭo asmi tattvataḥ ।।

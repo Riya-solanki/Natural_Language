@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1141 | label: grammar | g:0.519 m:0.293 ---
+
+{arthabhedena śabdabhedaḥ} iti darśane {kāvyamārge svaro na gaṇyate} iti ca naye vācyabhedena bhinnā api śabdā yat yugapaduccāraṇena śliṣyanti bhinnaṃ svarūpamapahnuvate sa śleṣaḥ ।
+sa ca varṇapadaliṅgabhāṣāprakṛtipratyayavibhaktivacanñanāṃ bhedādaṣṭadhā । krameṇodāharaṇam

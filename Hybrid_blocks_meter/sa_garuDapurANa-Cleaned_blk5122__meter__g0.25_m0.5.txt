@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5122 | label: meter | g:0.25 m:0.5 ---
+
+triphalā khadiro dārvo nyagrodho vraṇaśodhanaḥ ।
+sadyaḥ kṣataṃ vraṇaṃ vaidyaḥ saśūlaṃ pariṣecayet ।।

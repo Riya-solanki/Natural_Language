@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5591 | label: meter | g:0.194 m:0.625 ---
+
+tato vidhvaṃsayām āsa yajñān ajñānamohitaḥ 
+bibheda sādhumaryādāṃ kṣayaṃ cakre ca dehinām ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1837 | label: grammar | g:0.646 m:0.5 ---
+
+tatra sūtradhāreṇa nirupadrava-lakṣaṇe' rthe vivakṣite' pi svarga-sthiti-lakṣaṇārtha-sūcakasya rakta-prasādhitaa-bhuva ity ādi-śliṣṭa-vākyasya sahasā prastuta-sambandhitayā bhāṣitatvād gaṇḍam ।

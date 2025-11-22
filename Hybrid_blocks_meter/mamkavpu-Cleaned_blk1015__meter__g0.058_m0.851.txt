@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1015 | label: meter | g:0.058 m:0.851 ---
+
+{krāmantyaḥ kṣatakomalalāṅguligaladraktaiḥ sadarbhāḥ sthalīḥ
+pādaiḥ pātitayāvakairiva galadbāṣpāmbudhautānanā ।
+bhītā bhartṛkarāvalambitakarāstvacchatrunāryodhunā
+dāvāgniṃ parito bhramanti punarapyudyadvivāhā iva ।।}

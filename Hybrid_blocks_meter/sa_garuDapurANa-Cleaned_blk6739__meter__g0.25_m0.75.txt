@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6739 | label: meter | g:0.25 m:0.75 ---
+
+ahaṃ brahma paraṃ jyotirvyānodānavivarjitam ।
+ahaṃ brahma paraṃ jyotirajñānaparivarjitam ।।

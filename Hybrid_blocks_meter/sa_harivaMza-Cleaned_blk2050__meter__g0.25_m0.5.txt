@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2050 | label: meter | g:0.25 m:0.5 ---
+
+yat tvayā strīkṛte mohāt sabalo rāvaṇo hataḥ 
+naitad aupayikaṃ manye mahat te karma kutsitam ।।

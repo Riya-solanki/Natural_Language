@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11257 | label: hybrid | g:0.514 m:0.5 ---
+
+ato hyahaṃ śravaṇaṃ satkathāyāḥ sadā kariṣye nātra vicāryamasti ।
+tenāpyahaṃ harināmābhivāñchā niścitya cittaṃ śravaṇe vai cakāra ।
+ādehamevaṃ śravaṇaṃ ca kṛtvā tyaktvā dehaṃ bhūtale saṃprajātā ।।

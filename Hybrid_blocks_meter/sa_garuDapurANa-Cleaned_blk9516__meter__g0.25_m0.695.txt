@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9516 | label: meter | g:0.25 m:0.695 ---
+
+śmaśānavāsibhūtebhyaḥ pañcamaṃ prativeśyakam ।
+ṣaṣṭhaṃ sañcayane proktaṃ daśa piṇḍā daśāhikāḥ ।
+śrāddhaṣoḍaṣakañcaitat prathamaṃ parikīrtitam ।।

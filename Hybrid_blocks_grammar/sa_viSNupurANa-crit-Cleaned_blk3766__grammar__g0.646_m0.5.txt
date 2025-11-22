@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3766 | label: grammar | g:0.646 m:0.5 ---
+
+pratidinaṃ ca tan maṇiratnapravaram aṣṭau kanakabhārān sravati । tatprabhāvāc ca sakalasyaiva rāṣṭrasyopasargānāvṛṣṭivyālāgnitoyadurbhikṣādibhayaṃ na bhavati ।।

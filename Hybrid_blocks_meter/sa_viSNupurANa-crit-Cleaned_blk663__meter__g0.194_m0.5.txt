@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 663 | label: meter | g:0.194 m:0.5 ---
+
+ārādhyaḥ kathito devo bhavadbhiḥ praṇatasya me 
+mayā tatparitoṣāya yaj japtavyaṃ tad ucyatām ।।

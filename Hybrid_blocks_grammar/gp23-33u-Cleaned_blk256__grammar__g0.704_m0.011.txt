@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 256 | label: grammar | g:0.704 m:0.011 ---
+
+[] sudustaraṃ ruditvā ca tām amūs tu papracchuḥ-asmākaṃ khalu na duḥkhaṃ pañcabhiḥ saheti kalpenānalpam api duḥkhaṃ kalpatvāya nākalpata kalpam । tatas tan nātipraṣṭavyaṃ bhavatīty ananya-gatyā bhavatyās tu tat tyāgaḥ katham iti kathyatām, kathaṃ vā vikalatā-hetuḥ kevalatā jātā, tad api ca ।
+[] sā punar anutāpa-vipad-uttaram uttaram uvāca-

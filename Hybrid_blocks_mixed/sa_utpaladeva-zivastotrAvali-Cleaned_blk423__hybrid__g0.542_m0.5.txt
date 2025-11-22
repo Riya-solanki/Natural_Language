@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 423 | label: hybrid | g:0.542 m:0.5 ---
+
+nivasanparamāmṛtābdhimadhye bhavadarcāvidhimātramagnacittaḥ sakalaṃ janavṛttam ācareyaṃ rasayan sarvata eva kiñcanāpi ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 431 | label: grammar | g:0.729 m:0.5 ---
+
+tvayi na stutiśaktir asti kasyāpy athavāsty eva yato atisundaro asi satataṃ punar arthitaṃ mamaitad yad aviśrānti vilokayeyam īśam ।।

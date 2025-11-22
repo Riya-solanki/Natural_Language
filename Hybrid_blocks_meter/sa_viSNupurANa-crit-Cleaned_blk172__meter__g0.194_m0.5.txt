@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 172 | label: meter | g:0.194 m:0.5 ---
+
+viṃśatiś ca sahasrāṇi kālo ayam adhikaṃ vinā 
+manvantarasya saṃkhyeyaṃ mānuṣair vatsarair dvija ।।

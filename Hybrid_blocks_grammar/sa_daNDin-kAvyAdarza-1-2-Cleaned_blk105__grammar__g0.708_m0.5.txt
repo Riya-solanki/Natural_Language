@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 105 | label: grammar | g:0.708 m:0.5 ---
+
+na vidyate yady api pūrvavāsanāguṇānubandhi pratibhānam adbhutam śrutena yatnena ca vāgupāsitā dhruvaṃ karoty eva kam apy anugraham ।।

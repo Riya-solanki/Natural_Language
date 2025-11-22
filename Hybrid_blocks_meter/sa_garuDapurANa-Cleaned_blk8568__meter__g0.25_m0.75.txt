@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8568 | label: meter | g:0.25 m:0.75 ---
+
+bahudharmasamākīrṇe nirvāte toyavarjite ।
+kamaṇḍalupradānena sukhī bhavati niścitam ।।

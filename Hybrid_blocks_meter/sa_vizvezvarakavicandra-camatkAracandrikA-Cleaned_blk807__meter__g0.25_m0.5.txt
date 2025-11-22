@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 807 | label: meter | g:0.25 m:0.5 ---
+
+śabdebhyo ya ivādibhya upamādiḥ pratīyate ।
+viśiṣṭārthaḥ kavīnāṃ tā ubhayālaṅkṛtayo matāḥ ।।

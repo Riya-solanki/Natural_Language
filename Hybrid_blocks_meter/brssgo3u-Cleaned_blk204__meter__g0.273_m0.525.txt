@@ -1,0 +1,7 @@
+--- source: brssgo3u-Cleaned.txt | block: 204 | label: meter | g:0.273 m:0.525 ---
+
+bhidyata iti bhedo viśeṣaḥ, nirviśeṣatvaśrutāvapi viśeṣasyāpi śruterubhayarūpatvaṃ syāditi śaṅkāṃ vyācaṣṭe-athāpi syāditi ।
+pūrvoktaṃ virodhaṃ smārayati-nanūktamiti ।
+bhedaśrutiprāmāṇyārthamaupādhikarūpabhedasvīkārādavirodha iti samādhyarthaḥ ।
+kimupādhigata eva rūpabhedo brahmaṇyupacaryate dhyānārthamutopādhiyogātsatyaviruddharūpavattayā brahmaṇo bhedo bhavatīti ।
+ādye asmādiṣṭasiddhiḥ, dvitīyamabhedaśrutyā dūṣayati-neti brūma iti ।।

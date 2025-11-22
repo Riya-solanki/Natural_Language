@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1974 | label: meter | g:0.25 m:0.75 ---
+
+vajrāṅguliṃ samādhāya vāmadakṣiṇatastathā ।
+nṛtyaṃ salīlavalitā mūrdhnisthā nṛtyapadminī ।।

@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 12 | label: hybrid | g:0.465 m:0.5 ---
+
+tāṃ cāvaśyaṃ divasagaṇanātatparām ekapatnīm avyāpannām avihatagatir drakṣyasi bhrātṛjāyām 
+āśābandhaḥ kusumasadṛśaṃ prāyaśo hy aṅganānāṃ sadyaḥpātapraṇayi hṛdayaṃ viprayoge ruṇaddhi ।।

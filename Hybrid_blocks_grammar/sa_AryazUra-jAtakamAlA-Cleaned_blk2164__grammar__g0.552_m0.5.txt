@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2164 | label: grammar | g:0.552 m:0.5 ---
+
+kāmaṃ sthiteṣu bhavane ca vane ca mṛtyurdharmātmakesu viguṇeṣu ca tulyavṛttiḥ ।
+dharmātmanāṃ bhavati na tvanutāpahetudharmaśca nāma vana eva sukha prapattum ।।

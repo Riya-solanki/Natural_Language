@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 1 | label: meter | g:0.0 m:0.953 ---
+
+pāṇḍitavaraśrīvāmanaviracitasavṛtti-
+kāvyālaṅkārasūtrāṇi

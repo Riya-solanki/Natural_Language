@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 729 | label: meter | g:0.284 m:0.749 ---
+
+mukhyaśca prāṇa itaraprāṇavadbrahmavikāra ityatidiśati ।
+taccāviseṣeṇaiva sarvaprāṇānāṃ brahmavikāratvamākhyātam ।
+aetasmājjāyate prāṇo manaḥ sarvendriyāṇi ca' iti sendriyamanovyatirekeṇa prāṇasyotpattiśravaṇāt ।
+asa prāṇamasṛjata' ityādi śravaṇebhyaśca ।
+kimarthaḥ punaratideśaḥ,

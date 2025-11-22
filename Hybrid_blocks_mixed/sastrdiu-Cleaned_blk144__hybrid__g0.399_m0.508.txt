@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 144 | label: hybrid | g:0.399 m:0.508 ---
+
+ḍittho ayamityaśabdākārasyārthasya śabdākāreṇa vikalpanādapramāṇaṃ savikalpam, iti tadapi nirastam ।
+nahyatra śabdākāreṇārthaḥ pratīyate kintu pūrvāvagatārthasmaraṇamātre śabdasya vyāpāraḥ, tena ca smṛtenārthena tādātmyena puraḥsthitārthavikalpanāt ।
+āhaca- yadā tu yādṛśaḥ piṇḍaḥ pūrvaṃ śabdātpratīyate ।
+tādṛśasmaraṇe hetuḥ śabdastatra yathārthateti ।
+tasmānnāmavikalpe api jātyādivannāstyatadrūpāropaḥ ।
+kiṃ punarjātyādibhirvikalpyate, dravyaṃ, kiṃ punaridaṃ dravyaṃ nāma, pṛthivyudakatejovāyuprabhṛti ।।

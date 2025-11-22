@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 20 | label: grammar | g:0.615 m:0.5 ---
+
+nāndho mūrkhasamo na sevakasamo duḥkhī na yakṣmopamo vyādhir nādhir asatsutapratinidhis trāso na bhṛtyoḥ samaḥ ।
+kaṣṭaṃ nādhvasamānam indriyasamo nāriḥ parastrīsamaṃ nānāyuṣyam avaśyanindyam atha no veśyāsamaṃ dṛśyate ।।

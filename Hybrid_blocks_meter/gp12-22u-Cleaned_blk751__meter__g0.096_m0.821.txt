@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 751 | label: meter | g:0.096 m:0.821 ---
+
+govardhanācala-mahasy ayutādi-yūtha
+go-rodhanāya paśupā nahi tatra śekuḥ ।
+phutkāra-keli-kalayā muralī murārer
+āsīd alaṃ yad asakau guṇa-koṭi-kalpā ।। [vasantatilakā]

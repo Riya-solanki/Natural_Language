@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 96 | label: meter | g:0.34 m:0.806 ---
+
+-na satkiṃ tu asadeveti cettātkiṃ tucchaṃ vā sadbhinnaṃ veti vaktavyam ।
+nādyaḥ, apasiddhāntāt ।
+na dvitīya ityāha-vastvantarameva hīti ।
+tasmādasaṃmatā satkhyātiriti ।

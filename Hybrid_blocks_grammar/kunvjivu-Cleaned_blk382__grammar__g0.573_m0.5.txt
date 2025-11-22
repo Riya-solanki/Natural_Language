@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 382 | label: grammar | g:0.573 m:0.5 ---
+
+itthaṃ jaḍe jagati ko nu bṛhatpramāṇa- karṇaḥ karī nanu bhaved dhvanitasya pātram ।
+ityāgataṃ jhaṭiti yo alinamunmamātha mātaṅga eva kimataḥ paramucyate asau ।।

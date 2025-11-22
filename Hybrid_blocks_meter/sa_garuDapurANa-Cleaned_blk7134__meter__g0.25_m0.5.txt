@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7134 | label: meter | g:0.25 m:0.5 ---
+
+prāṇopānaḥ samānaśca vyānastūdāna eva ca ।
+manontaḥ karaṇaṃ dhīśca syānmanaḥ saṃśayātmakam ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10146 | label: meter | g:0.25 m:0.521 ---
+
+gāruḍākhyapurāṇe tu pratipādyo hariḥ smṛtaḥ ।
+ato harirnamaskāryo gamyo yogyo hariḥ smṛtaḥ ।।
+bhāgyātmakatvācchrīdevyā namanaṃ nadanu smṛtam ।
+paro narottamo vā sa sādhakeśopi ca smṛtaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 371 | label: meter | g:0.316 m:0.5 ---
+
+gehād bahir virama cāpalam astu dūram adyāpi śaiśavadaśālaḍitāni tāni ।
+āpyāyamānajaghanasthalapīḍyamānam ardhorukaṃ truṭati putri tava kṣaṇena ।।

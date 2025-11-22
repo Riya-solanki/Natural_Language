@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10640 | label: hybrid | g:0.5 m:0.5 ---
+
+ata eva tvaje jyeṣṭhe iti loke prakīrtite ।
+sukhaduḥ khapradā caiva aparā duḥ khadaiva tu ।।

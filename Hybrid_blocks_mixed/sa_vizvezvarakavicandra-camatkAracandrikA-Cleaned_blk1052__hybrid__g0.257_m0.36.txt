@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1052 | label: hybrid | g:0.257 m:0.36 ---
+
+atra kriyākartṛkasaṃbandhapadāni prativākyāmāvṛttāni saṃpuṭatayā dīpayantīti saṃpuṭāvṛttirapi dīpakameva । evaṃ bhedāntarāṇi yathāsaṃbhavamanugantavyāni ।
+paripāṭhyā tu bhaṇanaṃ śabdasyārthasya vā kramaḥ ।।
+atra śabdānāṃ kramastridhā samastānāmasamastānāmubhayeṣāṃ ceti ।

@@ -1,0 +1,14 @@
+--- source: brsgor2u-Cleaned.txt | block: 145 | label: meter | g:0.27 m:0.529 ---
+
+abuddhipūrvakastu stambhādīnāṃ svarasabhaṅgurāṇāmityāha- tadviparīta iti ।
+parakriyāmuktvā sūtraṃ vyācaṣṭe- teṣāmiti ।
+bhāvāḥ saṃtāninaḥ ।
+saṃtāno nāma bhāvānāṃ hetuphalabhāvena pravāhaḥ, tasmin saṃtāne caramakṣaṇaḥ kṣaṇāntaraṃ karoti vā na vā ।
+ādye caramatvavyāghātaḥ, saṃtānāvicchedāt ।
+dvitīye caramasyāsattvaprasaṃgaḥ, arthakriyākāritvaṃ sattvamiti svasiddhāntāt, caramasyāsattve pūrveṣāmapyasattvaprasaṅgaḥ, arthakriyāśūnyatvāt ।
+tasmāt saṃtānasya vicchedāsaṃbhavānnirodhāprāptirityāha- na tāvaditi ।
+na dvitīya ityāha- nāpīti ।
+ghaṭakapālacūrṇādyavasthāsuseyaṃ mṛditi pratyabhijñānādanvayibhāvasya mṛdādernātyantikavināśa ityarthaḥ ।
+bījasyāṅkurādiṣu pratyabhijñānādarśanādanvayino viccheda ityata āha- aspaṣṭeti ।
+aṅkurādayo anusyūtānvayibhāvasthāḥ, kāryatvātpaṭavadityanvayyavicchedasiddhirityarthaḥ ।
+yasmādbhāvānāṃ sthāyitvaṃ tasmātpratikṣaṇa nirodhāsaṃbhava ityupasaṃhāraḥ ।।

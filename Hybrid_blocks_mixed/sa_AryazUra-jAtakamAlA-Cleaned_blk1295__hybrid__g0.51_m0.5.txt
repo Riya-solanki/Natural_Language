@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1295 | label: hybrid | g:0.51 m:0.5 ---
+
+naiva te duḥkhamicchāmi na ca baddho bhavān mayā ।
+sa tvaṃ gaccha yathākāmaṃ paśya bandhūṃśca nandaya ।।

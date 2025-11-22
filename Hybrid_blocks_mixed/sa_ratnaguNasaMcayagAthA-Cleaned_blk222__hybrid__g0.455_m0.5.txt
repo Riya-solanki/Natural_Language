@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 222 | label: hybrid | g:0.455 m:0.5 ---
+
+grāmānti yo viharate athavā araṇye dvayayānacittavigato niyato agrabodhim 
+eṣo viveku jagadarthabhiprasthitānāṃ ātmā kṣiṇoti tulayeya sa bodhisattvo ।।

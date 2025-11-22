@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 218 | label: meter | g:0.25 m:0.5 ---
+
+aho hi sarvabuddhānāṃ samākarṣamahaṃ dṛḍhaḥ ।
+yanmayā hi samākṛṣṭā bhajante sarvamaṇḍalam ।।

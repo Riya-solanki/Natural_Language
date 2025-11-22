@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3134 | label: meter | g:0.194 m:0.625 ---
+
+alābuṃ gṛñjanaṃ caiva palāṇḍuṃ piṇḍamūlakam 
+gandhārakaṃ karambhāṇi lavaṇāny auṣarāṇi ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 372 | label: meter | g:0.194 m:0.5 ---
+
+yamas tu karmaṇā tena bhṛśaṃ pīḍitamānasaḥ 
+dharmeṇa rañjayāmāsa dharmarāja imāḥ prajāḥ ।।

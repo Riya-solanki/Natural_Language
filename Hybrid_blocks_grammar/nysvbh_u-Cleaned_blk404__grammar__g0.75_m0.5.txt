@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 404 | label: grammar | g:0.75 m:0.5 ---
+
+"triḥ prathamāmanvāha triruttamām"iti anuvāda upapadyate arthavattvāt, trirvacanena hi prathamottamayoḥ pañcadaśatvaṃ sāmadhenīnāṃ bhavati tathā ca mantrābhivādaḥ"idamahaṃ bhrātṛvyaṃ pañcadaśāreṇa vāgvajreṇa bādhe yo asmān dveṣṭi yaṃ ca vayaṃ dviṣmaḥ"iti pañcadaśasāmidhenīvajraṃ mantro abhivadati tadabhyāsamantareṇa na syāditi ।।

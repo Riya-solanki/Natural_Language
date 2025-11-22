@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 309 | label: meter | g:0.25 m:0.5 ---
+
+{yasya mitrāṇi mitrāṇi śatravaḥ śatravastathā ।
+anukampyonukampyaśca sa jātaḥ sa ca jīvati ।। }

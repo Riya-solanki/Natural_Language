@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 614 | label: meter | g:0.246 m:0.806 ---
+
+{dhammillasya na kasya prekṣya nikāmaṃ kuraṅgaśāvākṣyāḥ ।
+rajyatyapūrvabandhavyutpattermānasaṃ śobhām ।।}

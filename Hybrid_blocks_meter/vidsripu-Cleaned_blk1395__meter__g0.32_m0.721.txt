@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1395 | label: meter | g:0.32 m:0.721 ---
+
+kṛpaṇasyāstu dāridryaṃ kārpaṇyāvṛtikārakam ।
+vibhavas tasya taddoṣa- ghoṣaṇāpaṭuḍiṇḍimaḥ ।।
+vyāsasya

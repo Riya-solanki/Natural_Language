@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1274 | label: meter | g:0.275 m:0.823 ---
+
+śrībhagavānuvāca ।
+somavaṃśodbhavo rājā ṛkṣo nāma mahābalaḥ ।
+kṛsyādau samabhavadṛkṣāt saṃvaraṇo avat ।।

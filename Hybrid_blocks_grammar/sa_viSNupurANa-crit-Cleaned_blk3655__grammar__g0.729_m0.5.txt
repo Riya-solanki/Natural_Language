@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3655 | label: grammar | g:0.729 m:0.5 ---
+
+jahnoś ca sumantur nāma putro abhavat । tasyāpy ajakas tato balākāśvas tasmāt kuśaḥ kuśasya kuśāmbakuśanābhāmūrtarayāmāvasavaś catvāraḥ putrā babhūvuḥ ।।

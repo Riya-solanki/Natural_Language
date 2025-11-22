@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11575 | label: hybrid | g:0.531 m:0.5 ---
+
+ānandamagnā sāpi devī jagāma svamāśramaṃ jaigiṣavyeṇa sārdham ।
+yātrāmevaṃ ye na kurvanti vīndra teṣāṃ ca sarvaṃ niṣphalaṃ cāhurāryāḥ ।।

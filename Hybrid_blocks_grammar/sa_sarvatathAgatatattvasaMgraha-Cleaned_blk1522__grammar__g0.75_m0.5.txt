@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1522 | label: grammar | g:0.75 m:0.5 ---
+
+atha vajrakuṇḍalirvajrakrodho bhagavate vajrapāṇaye idaṃ svahṛdayaṃ pādavandanīyaṃ niryātayāmāsa । oṃ vajrakuṇḍali mahāvajrakrodha guhṇa hana daha paca vidhvaṃsaya । vajreṇa mūrdhānaṃ sphālaya bhinda hṛdayaṃ vajrakrodha huṃ phaṭ ।।

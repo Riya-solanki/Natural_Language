@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 509 | label: meter | g:0.25 m:0.85 ---
+
+satyaṃ darśitaḥ ।
+bhāktastveṣa jīvasya janmamaraṇavyapadeśaḥ ।

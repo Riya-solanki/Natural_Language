@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 305 | label: meter | g:0.33 m:0.757 ---
+
+[] atra prathamā prakṛtiḥ pradhānam, dvitīyā svarūpa-śaktiḥ । tattvāni mahad-ādīni aṃśāḥ,
+jñāna-śakti-balaiśvarya-vīrya-tejāṃsy aśeṣataḥ ।
+bhagavac-chabda-vācyāni vinā heyair guṇādibhiḥ ।।

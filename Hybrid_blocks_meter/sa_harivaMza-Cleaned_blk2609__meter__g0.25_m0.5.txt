@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2609 | label: meter | g:0.25 m:0.5 ---
+
+kautūhalād idaṃ vākyaṃ kṛṣṇaḥ provāca tatra vai 
+ko ayaṃ śakramaho nāma yena vo harṣa āgataḥ ।।

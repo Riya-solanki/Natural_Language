@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2854 | label: meter | g:0.25 m:0.5 ---
+
+kṛṣṇas tu yauvanaṃ dṛṣṭvā niśi candramaso navam 
+śāradīnāṃ niśānāṃ ca manaś cakre ratiṃ prati ।।

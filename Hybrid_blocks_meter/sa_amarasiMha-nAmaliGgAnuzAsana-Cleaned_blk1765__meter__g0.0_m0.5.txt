@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1765 | label: meter | g:0.0 m:0.5 ---
+
+sandhānaṃ syādabhiṣavaḥ kiṇvaṃ puṃsi tu nagnahūḥ

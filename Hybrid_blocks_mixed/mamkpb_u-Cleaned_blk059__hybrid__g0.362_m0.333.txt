@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 59 | label: hybrid | g:0.362 m:0.333 ---
+
+prayojanapratipipādayiṣayā yatra lakṣaṇayā śabdaprayogastatra nānyatastatpratītirapi tu tasmādeva sabdāt ।
+na cātra vyañjanādṛte anyo vyāpāraḥ ।।
+tathāhi

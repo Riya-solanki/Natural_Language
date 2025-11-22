@@ -1,0 +1,5 @@
+--- source: utipk_pu-Cleaned.txt | block: 365 | label: hybrid | g:0.406 m:0.179 ---
+
+tatra svasṛṣṭedaṃbhāge buddhyādigrāhakātmanā ।
+ahaṃkāraparāmarśa- padam nītam anena tat ।।
+maheśvarasya jṛmbhāmaye asmin nirgate tasminn idaṃtāparāmarśe grāhyaṃ yan nirmitaṃ buddhiḥ prāṇo atha śūnyaṃ tad vedyaikadeśarūpam ahaṃkārāvamṛśyatāpādanena paricchinnagrāhakīkṛtam ।।

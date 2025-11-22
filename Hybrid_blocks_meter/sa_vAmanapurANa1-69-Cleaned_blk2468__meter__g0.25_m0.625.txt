@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2468 | label: meter | g:0.25 m:0.625 ---
+
+tataste ūcaturbrahan durlabhaṃ darśanaṃ tava ।
+kimarthaṃ puṣkarāraṇyaṃ bhavān yāsyatyathādarāt ।।

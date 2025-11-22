@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1127 | label: meter | g:0.25 m:0.5 ---
+
+etac chrutvābravīd enaṃ kasya ceyaṃ snuṣeti vai 
+na hi prasūtā putreṇa nānyā bhāryāsti te'nagha । 
+snuṣā saṃbandhavāg eṣā katamena sutena te । 
+abravīt tad upaśrutya jyāmaghorājasattamaḥ । 
+yas te janiṣyate putras tasya bhāryeti jātabhīḥ ।।

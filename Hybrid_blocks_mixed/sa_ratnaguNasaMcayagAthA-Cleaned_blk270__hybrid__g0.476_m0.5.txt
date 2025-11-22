@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 270 | label: hybrid | g:0.476 m:0.5 ---
+
+na ca dharmadhātutathatāya upaiti sthānaṃ bhavatī athānasthita so laghu antarīkṣe 
+vidyādharo va abhilambhu vanābhiprāyā khagu kālahīna druma mantrabalādhiṣṭhāno ।।

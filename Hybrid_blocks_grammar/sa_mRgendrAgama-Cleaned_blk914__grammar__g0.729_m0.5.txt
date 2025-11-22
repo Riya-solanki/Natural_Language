@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 914 | label: grammar | g:0.729 m:0.5 ---
+
+[ekāṅgulam] ekāṅgulādārabhya [dvihastāntaṃ] caturviṃśatyaṅgulāntaṃ [ratnajaṃ] ratnamayaṃ liṅgaṃ kuryāt। na tu tataḥ param iti। paramityadhikam। ādhikyaviṣaya evāyaṃ niṣedhaḥ। tasmādaṅgulānnyūnasyāpi siddhiḥ।

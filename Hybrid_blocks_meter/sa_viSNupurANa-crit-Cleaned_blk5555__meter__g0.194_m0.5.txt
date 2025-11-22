@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5555 | label: meter | g:0.194 m:0.5 ---
+
+bho bhoḥ kim etad bhavatā balabhadreritaṃ vacaḥ 
+ājñāṃ kurukulotthānāṃ yādavaḥ kaḥ pradāsyati ।।

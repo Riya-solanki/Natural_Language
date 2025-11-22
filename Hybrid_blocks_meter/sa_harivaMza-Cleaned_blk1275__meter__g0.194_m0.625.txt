@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1275 | label: meter | g:0.194 m:0.625 ---
+
+sargakāraś ca sargāṇāṃ lokahetur anuttamaḥ 
+vigraho vigrahārhāṇāṃ gatir gatimatām api ।।

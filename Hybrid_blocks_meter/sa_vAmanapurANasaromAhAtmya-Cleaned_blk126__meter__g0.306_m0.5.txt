@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 126 | label: meter | g:0.306 m:0.5 ---
+
+jagacca tiṣṭhate yatra jagato yo na dṛsyate ।
+namaḥ sthūlātisūkṣmāya tasmai devāya śārṅiḍṇe ।।

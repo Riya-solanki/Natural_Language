@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5026 | label: hybrid | g:0.398 m:0.5 ---
+
+vemakasya tu bhāryā tam udvahat putrakāraṇāt 
+sevakasya tu tāṃ bhāryām ūhatus tasya kāraṇāt । 
+vemakyāḥ sa tu putro abhūd brāhmaṇau sucivau ca tau ।।

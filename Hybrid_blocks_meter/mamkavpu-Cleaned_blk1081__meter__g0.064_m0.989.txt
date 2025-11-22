@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1081 | label: meter | g:0.064 m:0.989 ---
+
+{manthāyastārṇavāmbhaḥplutakuharacalanmandaradhvānadhīraḥ
+koṇāghāteṣu garjatpralayaghanaghaṭānyonyasaṃghaṭṭacaṇḍaḥ ।
+kṛṣṇākrodhāgradūtaḥ kurukulanidhanotpātanirghātavātaḥ
+kenāsmatsiṃhanādapratirasitasakho dundubhistāḍitosau ।।}

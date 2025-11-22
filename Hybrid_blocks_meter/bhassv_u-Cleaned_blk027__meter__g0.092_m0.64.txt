@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 27 | label: meter | g:0.092 m:0.64 ---
+
+{vāsavadattā} -
+{svagatam} iaṃ sā rāadāriā 
+abhijaṇāṇurūvaṃ khu se rūvaṃ 
+[iyaṃ sā rājadārikā । abhijanānurūpaṃ khalv asyā rūpam । ]

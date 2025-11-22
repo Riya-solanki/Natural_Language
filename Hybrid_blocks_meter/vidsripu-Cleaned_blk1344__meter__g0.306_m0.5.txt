@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1344 | label: meter | g:0.306 m:0.5 ---
+
+yad yad iṣṭataraṃ tat tad deyaṃ guṇavate kila ।
+ata eva khalo doṣān sādhubhyaḥ samprayacchati ।।

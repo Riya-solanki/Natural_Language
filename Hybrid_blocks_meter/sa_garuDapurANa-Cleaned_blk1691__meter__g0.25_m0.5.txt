@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1691 | label: meter | g:0.25 m:0.5 ---
+
+mūler'kaḥ śravaṇe candraḥ proṣṭhapadyuttare kujaḥ ।
+kṛttikāsu budhaścaiva gurau rudra punarvasuḥ ।।

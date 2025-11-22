@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1366 | label: meter | g:0.25 m:0.625 ---
+
+saddharmasalilotsekair vardhayan pādapān iva ।
+asmān anāgasas tyaktvā mā yāsīḥ priyadarśana ।।

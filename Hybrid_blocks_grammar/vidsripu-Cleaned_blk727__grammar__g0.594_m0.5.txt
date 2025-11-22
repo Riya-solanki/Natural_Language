@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 727 | label: grammar | g:0.594 m:0.5 ---
+
+āśleṣeṇa payodharapraṇiyinīṃ pratyādiśantyā dṛśaṃ dṛṣṭvā cādharabaddhatṛṣṇam adharaṃ nirbhartsayantyā mukham ।
+ūrvor gāḍhanipīḍanena jaghane pāṇiṃ ca ruddhvānayā patyuḥ prema na khaṇḍitaṃ nipuṇayā māno api naivojjhitaḥ ।।

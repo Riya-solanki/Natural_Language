@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 554 | label: meter | g:0.194 m:0.5 ---
+
+ādarśāv iva tau svacchau sadābhimukhatāṃ gatau ।
+rādhā-mādhavayor bhāvau mitho bhāvān upeyatuḥ ।। [anuṣṭubh]

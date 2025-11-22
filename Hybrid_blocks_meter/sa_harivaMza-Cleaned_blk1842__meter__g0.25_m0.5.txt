@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1842 | label: meter | g:0.25 m:0.5 ---
+
+vimṛśanti sma taṃ devaṃ divyābhir upapattibhiḥ 
+vākyair brahmapadaiś cāpi pramāṇaiḥ sarvalakṣaṇaiḥ । 
+na cainaṃ śekur anveṣṭuṃ karmato janmato api vā ।।

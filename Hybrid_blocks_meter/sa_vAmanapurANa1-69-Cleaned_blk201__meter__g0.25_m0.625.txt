@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 201 | label: meter | g:0.25 m:0.625 ---
+
+viśve aśvinau caca sādhyāśca maruto analabhāskarāḥ ।
+samāsādya puroḍāśaṃ bhakṣyāśca mahāmune ।।

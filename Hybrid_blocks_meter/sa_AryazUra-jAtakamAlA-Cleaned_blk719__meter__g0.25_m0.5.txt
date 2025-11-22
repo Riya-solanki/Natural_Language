@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 719 | label: meter | g:0.25 m:0.5 ---
+
+nivartanādasya rathasya kevalaṃ śivaṃ bhavedamburuhākṣa pakṣiṇām ।
+cirasya labdhaprasarā sureṣvasāvabhidravatyeva tu no dviṣaccamūḥ ।।

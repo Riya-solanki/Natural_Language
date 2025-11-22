@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 721 | label: grammar | g:0.56 m:0.048 ---
+
+[] tṛṇāvartas tu vātāvartena vartamānaḥ sura-vartmani taṃ ca vartayan gala-graha-pāśam iva sañjagrāha । goṣṭham api kaṣṭada-karkarādi-vṛṣṭibhir naṣṭa-prāyatayā ghaṭṭayāmāsa । yatra ca trasam atrasam api sarvaṃ vitrastam asti sma । tataś ca,
+tamobhir āvṛtaṃ sarvaṃ bahir eva na kevalam ।
+janānām antaraṃ cāsīt tṛṇāvarta-pravartane ।। [anuṣṭubh]

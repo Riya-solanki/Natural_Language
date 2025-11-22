@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7034 | label: meter | g:0.25 m:0.625 ---
+
+manastanmayatāṃ yāti samādhisthaḥ sa kīrtitaḥ ।
+cittasya sthiratā bhrāntirdairmanasyaṃ pramādatā ।।

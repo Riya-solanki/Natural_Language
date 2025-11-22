@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4036 | label: meter | g:0.194 m:0.5 ---
+
+niravadyaḥ paraḥ śānto niradhiṣṭho akṣaraḥ kramaḥ 
+sarveśvara parādhāra dhāmnāṃ dhāmātmako akṣayaḥ ।।

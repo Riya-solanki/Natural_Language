@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 39 | label: grammar | g:0.75 m:0.5 ---
+
+vīciṃ vadanti vivaraṃ na ca tatra kā cid duḥkhasya vīcir api tiryag upary adho vā । yasmād avīcir iti tena ca saṃprasiddhaḥ śīrṇas tanoti bhavano narakāntareṣu ।।

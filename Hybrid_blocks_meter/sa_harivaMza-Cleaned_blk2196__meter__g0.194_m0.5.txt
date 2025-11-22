@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2196 | label: meter | g:0.194 m:0.5 ---
+
+yā tu sā nandagopasya dayitā kaṃsagopateḥ 
+yaśodā nāma bhadraṃ te bhāryā gopakulodvahā ।।

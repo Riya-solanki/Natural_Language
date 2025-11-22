@@ -1,0 +1,5 @@
+--- source: tsc_simu-Cleaned.txt | block: 62 | label: hybrid | g:0.519 m:0.51 ---
+
+etāni pañca tanmātrāṇi sūkṣmabhūtāni sthūlabhūtānāṃ kāraṇāni ṣoḍaśakaśca vikāraḥ ।
+pañca buddhīndriyāṇi pañca karmendriyāṇi ekādaśaṃ manaḥ pañca mahābhūtāni eṣa ṣoḍaśako gaṇo vikāra eva na prakṛtiḥ ।
+puruṣastu nobhayamityarthaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1737 | label: meter | g:0.295 m:0.565 ---
+
+tadbhāvabhāvanāṃ kṛtvā guruṃ matvāvadhārayet 
+yat kiñcit puratas tasya tat sarvaṃ maṇḍalaṃ viduḥ ।।

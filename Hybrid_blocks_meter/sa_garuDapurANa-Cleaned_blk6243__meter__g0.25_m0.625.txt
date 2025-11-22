@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6243 | label: meter | g:0.25 m:0.625 ---
+
+nanarasairlagayuktaiśca apavāhākhyakaṃ yatiḥ ।
+guhaiḥ ṣaḍbhī rasairbāṇairmonāḥ ṣaṭsagagā gaṇāḥ ।।

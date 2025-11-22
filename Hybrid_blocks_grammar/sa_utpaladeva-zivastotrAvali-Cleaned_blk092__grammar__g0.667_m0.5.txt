@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 92 | label: grammar | g:0.667 m:0.5 ---
+
+ko api deva hṛdi teṣu tāvako jṛmbhate subhagabhāva uttamaḥ tvatkathāmbudaninādacātakā yena te api subhagīkṛtāś ciram ।।

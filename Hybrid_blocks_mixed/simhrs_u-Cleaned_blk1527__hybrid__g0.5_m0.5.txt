@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1527 | label: hybrid | g:0.5 m:0.5 ---
+
+dvitīyaḥ-ām । tarhi ubbasīe baaṇaṃ pamāda-kkhalidaṃ āsi ।

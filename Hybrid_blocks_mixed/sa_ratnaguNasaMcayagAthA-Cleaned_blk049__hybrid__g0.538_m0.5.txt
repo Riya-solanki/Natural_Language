@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 49 | label: hybrid | g:0.538 m:0.5 ---
+
+ya imāṃ grahīṣyati paryāpuṇatī sa nityaṃ prajñāya pāramita yatra caranti nāthāḥ 
+viṣa vahni śastra udakaṃ na kramāti tasyo otāru māru na ca vindati mārapakṣo ।।

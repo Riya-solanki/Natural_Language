@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6840 | label: meter | g:0.306 m:0.5 ---
+
+sā tithistadahorātraṃ sa yogaḥ sa ca candramāḥ ।
+lagnaṃ tadeva vikhyātaṃ yatra saṃsmaryate hariḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 105 | label: grammar | g:0.573 m:0.5 ---
+
+yāte bhoge smaraṇapadavīṃ saktanānāviyoge śokaḥ stokaṃ spṛśati na manaḥ sarvathā nirvyathānām ।
+kāle kāle kila kalayatām antavatsarvamantaḥ prāyaḥ kāyakṣayaparicaye niścaye nirbharaṃ naḥ ।।

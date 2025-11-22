@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 244 | label: grammar | g:0.75 m:0.5 ---
+
+saṃsthitahomeṣv । agniḥ śucivratatamaḥ śucir vipraḥ śuciḥ kaviḥ । śucī rocata āhutaḥ ।। ud agne śucayas tava śukrā bhrājanta īrate । tava jyotīṃṣy arcayaḥ svāheti madhyata opya saṃsrāvabhāgaiḥ saṃsthāpayet ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4570 | label: meter | g:0.25 m:0.625 ---
+
+śarāvamānasaṃsthānā piḍikā syāccharāvikā ।
+sadāhā kūrmasaṃsthānā jñeyā kacchapikā budhaiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10453 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ stutvā bhāratī tu tūṣṇīmāsa khageśvara ।
+tadanantarajaḥ śeṣaḥ prāñjaliḥ prāha keśavam ।।

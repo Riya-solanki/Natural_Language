@@ -1,0 +1,5 @@
+--- source: brsvbh2u-Cleaned.txt | block: 226 | label: meter | g:0.25 m:1.0 ---
+
+karaṇavaccenna bhogādibhyaḥ ।
+rūpādihīnamiti ।
+anudbhūtarūpamityarthaḥ ।

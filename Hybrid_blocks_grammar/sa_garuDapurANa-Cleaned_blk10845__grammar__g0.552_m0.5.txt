@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10845 | label: grammar | g:0.552 m:0.5 ---
+
+tāvadbralaṃ hyekaromādikeṣu saṃtitvime hi yataḥ sa eva pūrṇaḥ ।
+sa eva tu sarvasya kartā sa eva harthā sa tu sārāṃśabhoktā ।।

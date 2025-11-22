@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 281 | label: grammar | g:0.75 m:0.5 ---
+
+katham ? "traikālyāsiddheḥ"ityasya hetoryadyudāharaṇamupādīyate ? hetvarthasya sādhakatvaṃ dṛṣṭānte darśayitavyamiti na ca tarhi pratyakṣādīnāmaprāmāṇyam, atha pratyakṣādīnāmaprāmāṇyam ? upādīyamānamapyudāharaṇaṃ nārthaṃ sādhayiṣyatīti soyaṃ sarvapramāṇairvyāhato heturahetuḥ "siddhāntamabhyupetya tadvirodhī viruddhaḥ "iti, vākyārtho hyasya siddhāntaḥ sa ca vākyārthaḥ apratyakṣādīni nārthaṃ sādhayanti' iti idaṃ cāvayavānāmupādānamarthasya sādhanāyeti। atha nopādīyate? apradarśitahetvarthasya dṛṣṭānte na sādhakatvamiti pratiṣedho nopapadyate hetutvāsiddheriti ।।

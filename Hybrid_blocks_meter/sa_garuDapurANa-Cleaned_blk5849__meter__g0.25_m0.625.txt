@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5849 | label: meter | g:0.25 m:0.625 ---
+
+trivikramastathākāśe sthale rakṣatu vāmanaḥ ।
+aṭavyāṃ narasiṃhastu rāmo rakṣatu parvate ।।

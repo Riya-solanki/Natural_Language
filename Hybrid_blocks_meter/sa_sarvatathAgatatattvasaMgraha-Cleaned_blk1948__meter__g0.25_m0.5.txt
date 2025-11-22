@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1948 | label: meter | g:0.25 m:0.5 ---
+
+padmacandrā mahākāntiṃ dadyād hāsā suhāsatāṃ ।
+tārayā cottarā siddhiḥ saubhogyaṃ padmakhaṅgayā ।।

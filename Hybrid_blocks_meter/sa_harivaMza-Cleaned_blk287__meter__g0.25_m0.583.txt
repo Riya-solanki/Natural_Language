@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 287 | label: meter | g:0.25 m:0.583 ---
+
+āsīd iyaṃ samudrāntā medinīti pariśrutā 
+madhukaiṭabhayoḥ kṛtsnā medasābhipariplutā ।। 
+teneyaṃ medinī devī procyate brahmavādibhiḥ । 
+tato abhyupagamād rājñaḥ pṛthor vainyasya bhārata 
+duhitṛtvam anuprāptā devī pṛthvīti cocyate ।।

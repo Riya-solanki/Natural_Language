@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 13 | label: grammar | g:0.562 m:0.5 ---
+
+nāḍīṣaṣṭyā tu nākṣatram ahorātraṃ prakīrtitam। tattriṃśatā bhaven māsah sāvano arkodayais tathā।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8848 | label: meter | g:0.25 m:0.5 ---
+
+yamena yamadūtaiśca śāsyante niścitaṃ khaga ।
+bālo vṛddho yubā vāpi ghaṭamicchanti dehinaḥ ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 912 | label: meter | g:0.25 m:0.625 ---
+
+janasya sāketanivāsinastau dvāvapyabhūtāmabhinandyasattvau ।
+gurupradeyādhikaniḥ spṛho' rtho nṛpo arthikāmādadhikapradaśca ।।

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6484 | label: grammar | g:0.804 m:0.119 ---
+
+oṃ śanno devīrabhiṣṭaya āpo bhavantu pītaye । śaṃyorabhistravantu na iti pātre jaladānam । oṃ yavo asi yavayāsmadveṣo yavayārātīriti yavadānam । gandhadvārāṃ durādharṣāṃ nityapuṣṭāṃ karīṣiṇīm । īśvarīṃ sarvabhūtānāṃ tā mihopahvaye śriyamiti gandhadānam । oṃ yā divyā āpaḥ payasā saṃbabhūvuryā antarikṣauta pārthavīryāḥ । 
+hiraṇyavarṇā yajñiyāstāna āpaḥ śivāḥ śaṃ syonā suhavā bhavantu ।
+eṣor'gho nama iti brāhmaṇahaste jalaṃ dattvānenaiva pātreṇa pavitragrahaṇaṃ kṛtvā saṃstravaṃ pavitraṃ ca brāhmaṇapārśve dadyāt ।
+tataḥ prathamapātre saṃstravajalaṃ saṃsthāpya kuśopari ūrdhvamukhaṃ sthāpanaṃ kuryat ।
+tadupari kuśadānam ।।

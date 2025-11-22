@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 798 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tad ārabhya vīthīṃ vīthīm upalabhya kutukakarmā balānujanmā saha- sahacaraḥ kolāhalaṃ kalayāmāsa । tadā ca kadācin nijatanūjalabhyaprāgalbhya-spṛhiṇī vrajeśagṛhiṇī tadānandabṛṃhiṇībhir vivadamānābhir iva dīyamāna-tadīyamānasamānābhir upālambhasamādhānalambhanavākovākyavyaṅgam avyaṅgam abhyadhāyi ।

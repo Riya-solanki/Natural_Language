@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 233 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tataś ca tasyāḥ savayasaḥ pravayasaś ca sarvāḥ saṅghaśaḥ sāsram ūcuḥ, "vatsa, nāmnaiva tā mātaraḥ, eṣā tu tava mātaiva, tasmād asyāṃ kathaṃ na vilakṣaṇaṃ pakṣapātam āpātayasi?" sa ca nata-vadanaḥ sāsra-smita-vācam uvāca, "mātaraḥ, kiṃ kurmaḥ? tās tu paśu-jātayo na vivekam ekam api labhante, yato māṃ vinā tṛṇam api na tṛṇvanti ।"

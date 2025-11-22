@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 47 | label: meter | g:0.194 m:0.875 ---
+
+{ua ṇiccalaṇippandā bhisiṇīpattammi rehai valāā ।
+ṇimmalamaragaabhāaṇapariṭṭiā saṃkhasuttivva ।।}
+[paśya niścalaniṣpandā visinīptre rājate balākā ।
+nirmalamarakatabhājanaparisthitā śaṅkhaśuktiriva ।।]

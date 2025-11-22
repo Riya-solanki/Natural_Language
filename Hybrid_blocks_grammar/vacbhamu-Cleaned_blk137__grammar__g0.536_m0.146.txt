@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 137 | label: grammar | g:0.536 m:0.146 ---
+
+nanu śeṣaśeṣibhāvābhāve api kramaniyamo dṛṣṭaḥ yathā godohanasya puruṣārthasya dārśapaurṇamāsikairaṅgaiḥ saha, yathā vā adarśapūrṇamāsābhyāmiṣṭvā somena yajeta' iti darśapūrṇamāsasomayoraśeṣaśeṣiṇorityata āha- adhikṛtādhikāre vā pramāṇābhāvāt- iti yojanā ।
+svargakāmasya hi darśapūrṇamāsādhikṛtasya paśukāmasya sato darśapūrṇamāsa-

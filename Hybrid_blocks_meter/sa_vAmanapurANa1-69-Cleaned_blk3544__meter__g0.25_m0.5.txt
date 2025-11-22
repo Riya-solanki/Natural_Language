@@ -1,0 +1,7 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3544 | label: meter | g:0.25 m:0.5 ---
+
+tatra snātvār'cya ceśānaṃ mādhavaṃ cāpyabhedataḥ ।
+uṣitvā vāsarān sapta kubjāmraṃ prajagāma ha ।।
+tataḥ sutīrthe snātvā ca sopavāsī jitendriyaḥ hṛṣīkeśaṃ samabhyarcya yayau badarikāśramam ।।
+tatroṣya nārāyaṇamarcya bhaktyā snātvātha vidvān sa sarasvatījale ।
+varāhatīrthe garuḍāsanaṃ sa dṛṣṭvātha saṃpūjya subhaktimāṃśca ।।

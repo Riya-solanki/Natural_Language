@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2798 | label: meter | g:0.194 m:0.625 ---
+
+madhyasthaṃ salilārambhaṃ kurvantīṣu nadīṣu ca 
+sasasyāyāṃ ca sīmāyāṃ manoharyāṃ muner api ।।

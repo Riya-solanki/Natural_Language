@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 206 | label: meter | g:0.328 m:0.595 ---
+
+yajñe dhvaste atha dakṣo api śaśāprograṃ maheśvaram ।
+stutvātvāmupacāraiśca pūjayiṣyanti śaṅkara ।।

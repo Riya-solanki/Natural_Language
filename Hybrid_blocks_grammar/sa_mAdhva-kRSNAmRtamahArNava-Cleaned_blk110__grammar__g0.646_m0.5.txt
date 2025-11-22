@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 110 | label: grammar | g:0.646 m:0.5 ---
+
+harir yāti harir yāti dasyuvyājena yo vadet so api sadgatim āpnoti gatiṃ sukṛtino yathā ।।

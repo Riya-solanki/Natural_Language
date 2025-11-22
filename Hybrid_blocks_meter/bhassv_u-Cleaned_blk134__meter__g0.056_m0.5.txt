@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 134 | label: meter | g:0.056 m:0.5 ---
+
+{ceṭī} - ayye bhaṇāmi dāva ṇa īriso diṭṭhapuruvo 
+[ārye bhaṇāmi tāvad nedṛśo dṛṣṭapūrvaḥ । ]

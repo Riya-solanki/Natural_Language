@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 516 | label: hybrid | g:0.486 m:0.481 ---
+
+iti saṃgrahaślokaḥ ।
+tadevaṃ suptiṅantayordvayorapi padapūrvārdhasya prātipadikasya dhātośca yathāyukti vakratāṃ vicāryedānīṃ tayoreva yathāsvamaparārdhasya pratyayalakṣaṇasya vakratāṃ vicārayati ।
+tatra kriyāvaicitryavakrātāyāḥ samanantarasaṃbhavinaḥ kramasamanvitatvāt kālasya vakratvaṃ paryālocyate, kriyāparicchedakatvāttasya ।

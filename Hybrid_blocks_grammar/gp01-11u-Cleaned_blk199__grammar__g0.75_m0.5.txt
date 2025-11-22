@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 199 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha yaś ca sarva-vidyā-niṣṇātas tasyāḥ snātakaḥ śrī-kṛṣṇasya rahasya-narmāṇi baddha-tṛṣṇatayā tad-vayasyatāṃ vaśyatām āninye, yaś cāvidūṣaṇa-bhāva-rūṣita eva devarṣi-prakṛtitayā tasya kautuka-kṛte vidūṣakatām api vibhūṣayati sma, sa khalu madhumaṅgala-nāmā narmaṇā marma-sparśi-kutuka-racanair āśīr-vacanaiḥ sarvān amandam ānandayāmāsa, nidhim iva hari-sannidhiṃ cānañca ।

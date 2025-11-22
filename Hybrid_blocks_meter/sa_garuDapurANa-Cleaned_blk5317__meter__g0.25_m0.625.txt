@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5317 | label: meter | g:0.25 m:0.625 ---
+
+kaṇṭakāryā nāgarasya guḍūcyā puṣkareṇa ca ।
+jagdhvā nāgabalācūrṇaṃ śvasakāsādinudbhavet ।।

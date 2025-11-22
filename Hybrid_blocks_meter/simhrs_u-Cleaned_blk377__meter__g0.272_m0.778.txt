@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 377 | label: meter | g:0.272 m:0.778 ---
+
+atha saṅghātyaḥ -
+mantra-śaktyārtha-śaktyā vā daiva-śaktyātha pauruṣāt ।
+saṅghasya bhedanaṃ yat tu saṅghātyaḥ sa udāhṛtaḥ ।।

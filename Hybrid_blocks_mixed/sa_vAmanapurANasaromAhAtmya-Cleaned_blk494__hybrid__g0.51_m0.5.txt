@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 494 | label: hybrid | g:0.51 m:0.5 ---
+
+nimagnāste saraḥ prāpya kva te yātā dvijottamāḥ ।
+te abruvaṃstatra vai pṛṣṭā vayaṃ te ca dvijottamāḥ ।।

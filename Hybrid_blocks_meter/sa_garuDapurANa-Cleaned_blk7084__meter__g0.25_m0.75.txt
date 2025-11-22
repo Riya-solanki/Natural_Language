@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7084 | label: meter | g:0.25 m:0.75 ---
+
+māyāviṣṭastathā jīvo dehohamiti manyate ।
+māyānāśātpunaḥ svīyarūpaṃ brahmāsmi manyate ।।

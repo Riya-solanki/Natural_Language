@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6053 | label: meter | g:0.194 m:0.5 ---
+
+bhavadbhir yad abhipretaṃ tad etat kathitaṃ mayā 
+apṛṣṭenāpi dharmajñāḥ kim anyat kriyatāṃ dvijāḥ ।।

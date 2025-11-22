@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 91 | label: meter | g:0.25 m:0.5 ---
+
+citiḥ pratyavamarśātmā parā vāk svarasoditā ।
+svātantryam etan mukhyaṃ tad aiśvaryaṃ paramātmanaḥ ।।

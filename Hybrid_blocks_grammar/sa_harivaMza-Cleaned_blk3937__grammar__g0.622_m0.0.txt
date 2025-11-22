@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3937 | label: grammar | g:0.622 m:0.0 ---
+
+vidarbheṣu ca vāsārthaṃ nirmame anyat puraṃ mahat 
+tadbhojakaṭam ity eva babhūva bhuvi viśrutam ।। 
+janmāspadaṃ bhagavato bhṛgusūnor mahātmanaḥ । tacchaśāsa mahāvīryo rukmī jīvati tatra vai । 
+tatraujasā mahātejasāḥ so anvaśād dakṣiṇāṃ diśam 
+bhīṣmakaḥ kuṇḍine caiva rājovāsa mahāmanāḥ ।। 
+jarāsaṃdho api saṃprāpya saṃjñāṃ prāpa svakaṃ puram । sarvair nṛpatibhiḥ sārdhaṃ sajjayāvanatānanaḥ ।। śiśupālo api mandātmā lajjāviṣṭaḥ sabāndhavaḥ । paurajānapadair dṛṣṭaḥ so ayaṃ bhojasutāpatiḥ । idānīm anyathā vṛttaḥ svāṃ purī niryayau bahiḥ ।। ko nu nāma samartho atra kṛṣṇe jīvati sāṃpratam । rukmiṇīm anyathākartuṃ sabale sahasātyakau ।। iti paurāś ca taṃ dṛṣṭvā sunīthaṃ mandavikramam । āhuḥ parasparaṃ sarve gacchantaṃ svapuraṃ nṛpam । 
+dvārakām abhisaṃprāpte rāme vṛṣṇibalānvite 
+rukmiṇyāḥ keśavaḥ pāṇiṃ jagrāha vidhivat prabhuḥ ।।

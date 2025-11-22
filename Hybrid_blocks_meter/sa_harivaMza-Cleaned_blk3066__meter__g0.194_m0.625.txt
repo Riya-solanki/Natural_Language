@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3066 | label: meter | g:0.194 m:0.625 ---
+
+yat tvayā pāṭito dvaidhaṃ bhujenāyataparvaṇā 
+eṣo asya mṛtyur antāya vihito viśvayoninā ।।

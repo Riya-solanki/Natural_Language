@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 629 | label: grammar | g:0.75 m:0.5 ---
+
+sa kadā cin mahīpatir amātyagaṇapuraskṛta udaṅmukho dadarśātasīkusumarāśisaṃkāśam ākāśam avagāhya patato bhagavataḥ pratyekabuddhān paramavismitamanā hy amātyān abravīt ।। paśyantu bhavantaḥ ।।

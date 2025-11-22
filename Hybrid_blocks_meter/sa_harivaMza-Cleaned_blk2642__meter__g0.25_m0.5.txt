@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2642 | label: meter | g:0.25 m:0.5 ---
+
+paṅkajāni ca padmāni tathānyāni sitāni ca 
+śriyā jvalatpaṅkajāni tāmrāṇi ca sitāni ca । 
+utpalāni ca nīlāni bhejire vārijāṃ śriyam ।।

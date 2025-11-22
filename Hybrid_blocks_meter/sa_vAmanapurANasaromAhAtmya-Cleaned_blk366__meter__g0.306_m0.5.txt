@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 366 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ devi tvayā vyāptaṃ sakalaṃ niṣkalaṃ ca yat ।
+advaitāvasthitaṃ brahma yacca dvaite vyavasthitam ।।

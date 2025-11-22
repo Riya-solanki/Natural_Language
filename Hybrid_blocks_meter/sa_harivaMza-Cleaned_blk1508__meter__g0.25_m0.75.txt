@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1508 | label: meter | g:0.25 m:0.75 ---
+
+caturbhiḥ sāgarair gupto lelihadbhiś ca pannagaiḥ 
+śaṅkhamuktāṅgadadharo bibhrat toyamayaṃ vapuḥ ।। 
+śaṅkhamuktāmalatanuḥ śītībhūto ayam ambupaḥ । 
+kālapāśān samāvidhya hayaiḥ śaśikaropamaiḥ 
+vāyvīritajalodgāraiḥ kurvaṃl līlāḥ sahasraśaḥ ।।

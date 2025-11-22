@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4365 | label: meter | g:0.276 m:0.595 ---
+
+bāṇa uvāca ।
+kṛtvā mahīmalpatarāṃ jagatpate svāyaṃbhuvādibhuvanāni vai ṣaṭ ।
+kathaṃ baliṃ prārthayase suvistṛtāṃ yāṃ prāgbhavān no vipulāmathākarot ।।

@@ -1,0 +1,4 @@
+--- source: kalhans_u-Cleaned.txt | block: 12 | label: grammar | g:0.604 m:0.5 ---
+
+prauḍhāḥ kañcukino jaradvṛṣavaraḥ kubjas tuṣāradyutir nityāpto api bahiṣkṛtaḥ parikaraḥ so ayaṃ samasto apy aho ।
+ardhād yadvasatīkṛtād bhagavatā cāritracaryāvidā sā bhidyād duritaṃ carācaraguror antaḥpuraṃ pārvatī ।।

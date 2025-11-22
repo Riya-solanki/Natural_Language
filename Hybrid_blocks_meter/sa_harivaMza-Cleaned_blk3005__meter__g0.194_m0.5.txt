@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3005 | label: meter | g:0.194 m:0.5 ---
+
+prāksaṃdhyā parighagras tā bhābhir badhnāti bhāskaram 
+pratilomaṃ ca yānty ete vyāharanto mṛgadvijāḥ ।।

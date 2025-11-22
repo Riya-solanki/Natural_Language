@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1817 | label: grammar | g:0.575 m:0.44 ---
+
+iyaṃ gaur uddāmā tava nibiḍabandhāpi hi kathaṃ na vaidarbhād anyat spṛśati sulabhatve api hi katham ।
+avandhyā ca khyātā bhuvi katham agamyā kavivṛṣaiḥ kathaṃ vā pīyūṣaṃ sravati bahu dugdhāpi bahubhiḥ ।।
+śabdārṇavasya

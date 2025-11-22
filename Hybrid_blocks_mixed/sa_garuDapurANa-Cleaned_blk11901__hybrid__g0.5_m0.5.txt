@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11901 | label: hybrid | g:0.5 m:0.5 ---
+
+yadā tadā yamadūtaiśca samyak saṃtāḍyamānastatra śabdaṃ prakurvan ।
+saṃtiṣṭhamāne bhaktavaryaṃ vihāya tadā devaḥ kutra palāyitobhūt ।।

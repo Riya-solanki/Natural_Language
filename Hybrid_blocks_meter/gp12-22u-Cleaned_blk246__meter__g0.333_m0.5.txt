@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 246 | label: meter | g:0.333 m:0.5 ---
+
+[] janmānantaraṃ tasyāḥ san-mādhurī ceyaṃ kṛtāvalokena lokena kīdṛg iti pṛcchataḥ prati nirūpitā-

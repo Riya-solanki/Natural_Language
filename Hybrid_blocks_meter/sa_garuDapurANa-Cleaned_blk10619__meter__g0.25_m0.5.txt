@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10619 | label: meter | g:0.25 m:0.5 ---
+
+saṃkhyānugaṇanaṃ nāma yasya nāsti mahāprabho ।
+na dānaṃ jātiproktaṃ sarvadā nāsti saṃśayaḥ ।।

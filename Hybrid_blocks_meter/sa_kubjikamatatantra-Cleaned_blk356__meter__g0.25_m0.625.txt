@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 356 | label: meter | g:0.25 m:0.625 ---
+
+paraṃ bījaṃ tathā mūlam āgamo vidhir eva ca 
+varṇarāśisamāyuktaḥ ṣaḍvidhas tu kulakramaḥ ।।

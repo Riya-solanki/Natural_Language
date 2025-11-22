@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11763 | label: meter | g:0.25 m:0.625 ---
+
+punaḥ paradine prāpte śakratīrthamanuttamam ।
+kapilākhyordhvadeśe tu tattīrthaṃ pāvanaṃ smṛtam ।।

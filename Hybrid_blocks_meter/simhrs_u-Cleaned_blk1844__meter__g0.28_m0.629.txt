@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1844 | label: meter | g:0.28 m:0.629 ---
+
+atha nālikā-
+prahelikā nigūḍhārthā hāsyārthaṃ nālikā smṛtā । 
+antar-lāpā bahir-lāpety eṣā dvedhā samīritā ।।

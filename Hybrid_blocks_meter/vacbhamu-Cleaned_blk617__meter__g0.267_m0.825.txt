@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 617 | label: meter | g:0.267 m:0.825 ---
+
+ubhayathā ca doṣāt ।
+parikaraḥ sāmagrī samyagjñānasya yamaniyamādiḥ śravaṇamananādiśca ।
+mārgāḥ kṣaṇikanairātmyādibhāvanāḥ ।
+atirohitamanyat ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2019 | label: meter | g:0.194 m:0.5 ---
+
+ūrdhvottaram ṛṣibhyas tu dhruvo yatra vyavasthitaḥ 
+etad viṣṇupadaṃ divyaṃ tṛtīyaṃ vyomni bhāsvaram ।।

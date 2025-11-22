@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1029 | label: meter | g:0.194 m:1.0 ---
+
+kriyā-prabandhād ayam adhvarāṇām
+ajasram āhūta-sahasra-netraḥ ।
+śacyāś ciraṃ pāṇḍu-kapola-lambān
+mandāra-śūnyān alakāṃś cakāra ।।

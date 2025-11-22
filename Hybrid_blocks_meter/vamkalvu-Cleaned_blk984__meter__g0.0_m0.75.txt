@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 984 | label: meter | g:0.0 m:0.75 ---
+
+viṣavṛkṣo'pi saṃvardhya svayaṃ chettumasāṃpratam
+paṇḍitaṃ mūrjkha iti manyate

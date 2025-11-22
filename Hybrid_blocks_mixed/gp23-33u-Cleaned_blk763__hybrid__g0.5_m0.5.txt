@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 763 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tatra pūrvaṃ yathā-kuja-gatiṃ gamitā na vidāmaḥ; kaśmalena kavaraṃ vasanaṃ vā [BhP ] ity ādinā । uttaraṃ tu, nivārayāmaḥ samupetya mādhavaṃ; kiṃ no ækariṣyan kula-vṛddha-bāndhavāḥ [BhP ] ity uktvā, visṛjya lajjāṃ ruruduḥ sma su-svaraṃ; govinda dāmodara mādhaveti [BhP ] ity ādinā, kṛṣṇa-dūte samāyāte uddhave tyakta-laukikāḥ [BhP ] ity ādinā, gata-hriyaḥ [BhP ] ity ādinā,

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1865 | label: grammar | g:0.583 m:0.5 ---
+
+oṃ padmamaṇi ketudhara candra pralhādayāvalokiteśvara dehi me sarvārthān śīghraṃ samaya hūṃ ।।

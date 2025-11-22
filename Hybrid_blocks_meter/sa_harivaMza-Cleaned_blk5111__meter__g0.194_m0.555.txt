@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5111 | label: meter | g:0.194 m:0.555 ---
+
+pratyakṣam anumānaṃ ca pramāṇam iti niścitāḥ 
+pramāṇaṃ kiṃ kariṣyati neti paṇḍitamāninaḥ 
+apramāṇaṃ kariṣyanti vedoktam apare janāḥ ।। 
+tadā mukhabhagāś caiva bhaviṣyanti striyo aparāḥ । 
+nāstikyaparamāś cāpi kecid dharmavilopakāḥ 
+bhaviṣyanti narā mūḍhā mandāḥ paṇḍitamāninaḥ ।।

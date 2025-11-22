@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 625 | label: meter | g:0.25 m:0.5 ---
+
+viśrāntiṃ nūpure yāte śrūyate rasanādhvaniḥ ।
+prāyaḥ kānte ratiśrānte kāminī puruṣāyate ।।

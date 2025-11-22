@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3140 | label: meter | g:0.194 m:0.625 ---
+
+tasmāt pariśrite kuryāc śrāddhaṃ śraddhāsamanvitaḥ 
+urvyāṃ ca tilavikṣepād yātudhānān nivārayet ।।

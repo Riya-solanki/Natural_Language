@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 576 | label: meter | g:0.351 m:0.565 ---
+
+tamākranditamākarṇya hiraṇyākṣasuto andhakaḥ ।
+provāca mā bhaiṣṭaca mayi sthite ko ayaṃ surādhamaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 189 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evaṃ sarvāsu tarv-ādikaṃ pṛcchantīṣu tata itaś ca gacchantīṣu tadīyaṃ saurabhyaṃ parirabhya, jagat-prāṇeṣu sannidhānaṃ prati praṇīta-prayāṇeṣu, tad-vaidagdhī-digdha-snigdha-hṛdayā rādhā-sakhī-samudayā hariṇīṃ prati kṛta-praṇayāḥ sānumodatayā hāri vyāharanti sma-

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 312 | label: meter | g:0.0 m:0.5 ---
+
+tatastāṃ mudrāṃ badhvā svahṛdi mokṣayedanena hṛdayena

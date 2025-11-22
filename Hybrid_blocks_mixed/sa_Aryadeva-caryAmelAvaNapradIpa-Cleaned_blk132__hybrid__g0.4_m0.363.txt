@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 132 | label: hybrid | g:0.4 m:0.363 ---
+
+phalena hetumāmudrya phalamāmudrya hetunā । vibhāvyamanyathāsiddhiṃ kalpakoṭirna jāyate ।। iti । vajrasattvo mahārājaścodanīyo muhurmuhuḥ ।। iti । 
+pādaprasārikaṃ muktvā tyaktvā saṃsārapeṭakam ।
+sādhayed vajrasattvāgraṃ nityamudyuktamānasaḥ ।।

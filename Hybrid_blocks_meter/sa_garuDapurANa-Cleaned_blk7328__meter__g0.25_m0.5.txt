@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7328 | label: meter | g:0.25 m:0.5 ---
+
+vaicitryasyottaraṃ praśre dvitīyasya vadāmi te ।
+karmaṇāṃ prāktanānāṃ tu tadasattvenaṃ bhadetaḥ ।।

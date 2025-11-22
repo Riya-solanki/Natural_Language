@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1603 | label: grammar | g:0.729 m:0.5 ---
+
+sahajam āgantukaṃ vā kimapi sādhāraṇaṃ yat lakṣaṇam taddvāreṇa yat kiñcit kenacidvastu vastusthityaiva valīyastayā tirodhīyate tat mīlitamiti dvidhā smaranti ।।

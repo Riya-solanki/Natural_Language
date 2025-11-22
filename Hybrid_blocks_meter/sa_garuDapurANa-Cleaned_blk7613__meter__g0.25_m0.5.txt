@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7613 | label: meter | g:0.25 m:0.5 ---
+
+sarvauṣadiyutaṃ pretaṃ kṛtvā pūjāṃ yathoditām ।
+sāgnike cāpi vidhinā yajñapātraṃ nyasyetkramāt ।।

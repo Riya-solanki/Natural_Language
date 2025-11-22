@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 517 | label: hybrid | g:0.5 m:0.5 ---
+
+[] athārbhaka-samudayaṃ vibhāga-dvayam ayaṃ vidhāya taṃ ca pralambaṃ sva-bala-parivṛḍhatayā dṛḍhaṃ nidhāya tatra ca sa-matsaram iva bala-pralambau śrīdāmātmānau mithaḥ pratisaṅghaṭṭinau saṅghaṭayya parān api sajūḥ-kurvāṇatayā tathā praghaṭayā parājitānāṃ ca śatāya parikrītānām api vāhakatvaṃ prakaṭayya saṅgarāya kṛta-saṅgaraḥ sa mādhavo vividha-krīḍā-niviḍamanā babhūva । tataś ca-

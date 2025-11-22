@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 102 | label: hybrid | g:0.486 m:0.5 ---
+
+śakro jinasya paripṛcchati devarājo caramāṇa prajña katha yujyati bodhisattvo 
+aṇumātra yo na khalu yujyati skandhadhātau yo eva yujyati bodhisattvaḥ ।।

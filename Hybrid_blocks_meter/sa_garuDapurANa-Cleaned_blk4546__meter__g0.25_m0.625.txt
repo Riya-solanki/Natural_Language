@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4546 | label: meter | g:0.25 m:0.625 ---
+
+vasāmehī vasāmiśraṃ vasābhaṃ mūtrayenmuhuḥ ।
+majjābhaṃ majjamiśraṃ vā majjamehī muhurmuhuḥ ।।

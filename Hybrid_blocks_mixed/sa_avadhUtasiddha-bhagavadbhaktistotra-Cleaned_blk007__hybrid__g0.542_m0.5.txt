@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 7 | label: hybrid | g:0.542 m:0.5 ---
+
+yogād apāstatamso bhuvanatraye api mukhyāḥ pitāmahapurandaraviṣṇavo api ।
+adyāpi deva na vidanti kṛtaprayatnās tattvaṃ taveti tad aho mahad indrajālam ।।

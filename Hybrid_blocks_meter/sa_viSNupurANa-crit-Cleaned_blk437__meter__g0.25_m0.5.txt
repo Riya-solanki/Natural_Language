@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 437 | label: meter | g:0.25 m:0.5 ---
+
+idaṃ ca śṛṇu maitreya yat pṛṣṭo aham iha tvayā 
+śrīsaṃbaddhaṃ mayāpy etac śrutam āsīn marīcitaḥ ।।

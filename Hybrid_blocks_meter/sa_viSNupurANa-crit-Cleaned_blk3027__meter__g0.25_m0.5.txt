@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3027 | label: meter | g:0.25 m:0.5 ---
+
+tasmād uttarasaṃjñā yāḥ kriyās tāḥ śṛṇu pārthiva 
+yadā yadā ca kartavyā vidhinā yena cānagha ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 29 | label: meter | g:0.25 m:0.75 ---
+
+aho batātikaṣṭeyamātmasnehasya rodratā ।
+yena mātāpi tanayānāhārayitumicchati ।।

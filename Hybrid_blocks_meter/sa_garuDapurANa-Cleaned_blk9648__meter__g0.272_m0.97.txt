@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9648 | label: meter | g:0.272 m:0.97 ---
+
+daṣṭribhyaśca paśubhyaśca vṛkṣādipatanānmṛtāḥ ।
+udakyāmūtakīśūdrārajakīsaṅgadūṣitāḥ ।।

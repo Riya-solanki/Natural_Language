@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4058 | label: meter | g:0.102 m:0.695 ---
+
+jāmbūnadamayāny atra śātakumbhamayāni ca 
+pradīptajvalanābhāni ca śītaraśmiprabhāṇi ca 
+śayanāni mahārhāṇi tathā siṃhāsanāni ca ।।

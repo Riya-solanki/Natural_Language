@@ -1,0 +1,5 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 74 | label: hybrid | g:0.398 m:0.5 ---
+
+middhaṃ katamat । asvataṃtravṛtticetaso abhisaṃkṣepaḥ ।।
+vitarkaḥ katamaḥ paryeṣako manojalpaḥ cetanāprajñāviśeṣaḥ yā cittasyaudārikatā ।।
+vicāraḥ katamaḥ । paryeṣako manojalpaḥ tathaiva yā cittasya sūkṣmatā ।।

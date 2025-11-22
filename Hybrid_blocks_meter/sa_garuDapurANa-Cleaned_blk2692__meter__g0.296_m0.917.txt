@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2692 | label: meter | g:0.296 m:0.917 ---
+
+śrīgaruḍamahāpurāṇam- 
+yājñavalkya uvāca ।
+garbhāṣṭame aṣṭame vābde brāhmaṇasyopanāyanam ।
+rajñāmekādaśe saike viśāmeke yathākulam ।।

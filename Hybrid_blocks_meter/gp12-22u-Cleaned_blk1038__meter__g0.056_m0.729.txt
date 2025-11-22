@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1038 | label: meter | g:0.056 m:0.729 ---
+
+tāsāṃ jalastha-vapuṣāṃ vadaneṣu kṛṣṇa-
+syārūḍha-nīpaka-taroḥ sahasā dṛg-antaḥ ।
+padmeṣu padmapa-kalām adadhād amuṣmin
+yāsāṃ ca nīrabhṛti cātakarītim āpa ।। [vasantatilakā]

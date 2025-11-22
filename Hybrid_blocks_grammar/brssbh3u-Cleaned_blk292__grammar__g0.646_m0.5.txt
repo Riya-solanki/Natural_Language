@@ -1,0 +1,3 @@
+--- source: brssbh3u-Cleaned.txt | block: 292 | label: grammar | g:0.646 m:0.5 ---
+
+nanu ca ateṣāmevaitāṃ brahmavidyāṃ vadeta śirovrataṃ vidhivadyaistu cīrṇam' iti brahmavidyāsaṃyogaśravaṇādekaiva sarvatra brahmavidyeti saṃkīryetaiṣa dharmaḥ ।

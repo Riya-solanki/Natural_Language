@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1266 | label: grammar | g:0.75 m:0.5 ---
+
+ity ārabhya, rāmaḥ -rudaty api kamanīyā jānakī-ity antena -bhagavan bhārgava sadayaṃ prasīda ity ārabhya, jāmadagnyaḥ-nābhivādana-prasādyo reṇukā-sūnuḥ ( padyāt pūrvam] ity atra rāmānunayasya bhārgaveṇāsvīkārād vidhūtam ।

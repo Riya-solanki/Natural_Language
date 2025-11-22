@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 259 | label: hybrid | g:0.486 m:0.5 ---
+
+duḥkhaṃ tyaktuṃ baddhamūlo anurāgaḥ smṛtvā smṛtvā yāti duḥkhaṃ navatvam
+yātrā tv eṣā yad vimucyeha bāṣpaṃ prāptānṛṇyā yāti buddhiḥ prasādam ।।

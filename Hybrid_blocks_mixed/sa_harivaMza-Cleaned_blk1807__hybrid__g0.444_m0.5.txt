@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1807 | label: hybrid | g:0.444 m:0.5 ---
+
+devena vardhate yad dhi sarvaṃ tad dhi janārdanāt 
+yat pravṛttaṃ ca devebhyas tad viddhi madhusūdanāt ।।

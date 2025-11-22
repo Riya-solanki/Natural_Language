@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1487 | label: meter | g:0.25 m:0.5 ---
+
+śākhātha sā tasya mahīruhasya bhārātiyogānnamitā kṛśatvāt ।
+paraśvadheneva nikṛttamūlā saśabdabhaṅgaṃ sahasā papāta ।।

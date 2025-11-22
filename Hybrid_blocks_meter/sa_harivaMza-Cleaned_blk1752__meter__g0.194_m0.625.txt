@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1752 | label: meter | g:0.194 m:0.625 ---
+
+sa tāḍyamāno atibalair daityaiḥ sarvāyudhodyataiḥ 
+na cacāla harir yuddhe akampyamāna ivācalaḥ ।।

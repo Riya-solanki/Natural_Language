@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 331 | label: meter | g:0.328 m:0.747 ---
+
+baliruvāca
+tatrāsato me pātāle bhagavan bhavadājñayā ।
+kiṃ bhaviṣyatyupādānamupabhogopapādakam ।
+āpyāyito yena deva smareyaṃ tvāmahaṃ sadā ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2357 | label: meter | g:0.25 m:0.5 ---
+
+tatra govardhanaṃ caiva bhāṇḍīraṃ ca vanaspatim 
+kālindīṃ ca nadīṃ ramyāṃ drakṣyāvaś carataḥ sukham ।। 
+sukhaṃ carantaṃ drakṣyāvaḥ kālindīṃ ca nadīṃ śubhām । 
+tatrāyaṃ vasatāṃ ghoṣas tyajyatāṃ nirguṇaṃ vanam 
+saṃvāhayāma bhadraṃ te kiṃcid utpādya kāraṇam ।।

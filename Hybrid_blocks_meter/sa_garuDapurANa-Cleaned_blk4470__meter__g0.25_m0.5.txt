@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4470 | label: meter | g:0.25 m:0.5 ---
+
+śleṣmaṇaḥ snigdhatā tasya grathitatvaṃ savarṇatā ।
+arśasāṃ praśame yatnamāśu kurvīta buddhimān ।
+tānyāśu hi gadandhā yya kuryurbaddhagudodaram ।।

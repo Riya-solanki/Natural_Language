@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9136 | label: meter | g:0.25 m:0.5 ---
+
+ātape śramayogena na dahyante ca kutracit ।
+chattradānena vai pretā vicaranti sukhaṃ pathi ।।
+yamuddiśya dadātyannaṃ tena cāpyāyito bhavet ।।
+andhakāre mahāghore amūrte lakṣyavarjite ।
+uddyotenaiva te yānti dīpadānena mānavāḥ ।।

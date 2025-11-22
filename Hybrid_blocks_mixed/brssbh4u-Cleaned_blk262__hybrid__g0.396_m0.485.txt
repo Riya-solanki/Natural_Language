@@ -1,0 +1,7 @@
+--- source: brssbh4u-Cleaned.txt | block: 262 | label: hybrid | g:0.396 m:0.485 ---
+
+abhāva abhyupagame kaścit doṣaḥ asti ।
+aniyama nyāyasya pratīkavyatirikteṣu api upāsaneṣu upapatteḥ ।
+tatkratuḥ ca asya ubhayathābhāvasya samarthako hetuḥ draṣṭavyaḥ ।
+yo hi brahmakratuḥ sa brāhmam aiśvaryam āsīdediti śliṣyate ataṃ yathā yatopāsate tadeva bhavati' iti śruteḥ ।
+na tu pratīkeṣu brahma akratutvam asti pratīkapradhānatvāt upāsanasya ।

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1611 | label: meter | g:0.307 m:0.623 ---
+
+haṃsa prayaccha me kāntāṃ gatir asyās tvayā hatā ।
+vibhāvitaikadeśena deyaṃ yad abhiyujyate ।।

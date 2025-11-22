@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1616 | label: meter | g:0.194 m:0.5 ---
+
+tvam ādityapathād ūrdhvaṃ jyotiṣāṃ copari sthitaḥ 
+tamaḥ protsārya vapuṣā bhāsayasy akhilaṃ jagat ।।

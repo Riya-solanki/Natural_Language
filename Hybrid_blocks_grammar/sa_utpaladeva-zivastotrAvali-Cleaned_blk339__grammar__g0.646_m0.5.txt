@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 339 | label: grammar | g:0.646 m:0.5 ---
+
+bhaktānāṃ nāsti saṃvedyaṃ tvadantar yadi vā bahiḥ ciddharmā yatra na bhavān nirvikalpaḥ sthitaḥ svayam ।।

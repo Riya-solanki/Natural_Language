@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 588 | label: meter | g:0.056 m:0.75 ---
+
+nūnaṃ nidāghena vibhūya jajñe
+santaptir āsāṃ hari-rāginīnām ।
+varṣāsu śāmyed iti saṅginīnāṃ
+nirṇītir āsīd viparīta-rītiḥ ।। [indravajrā]

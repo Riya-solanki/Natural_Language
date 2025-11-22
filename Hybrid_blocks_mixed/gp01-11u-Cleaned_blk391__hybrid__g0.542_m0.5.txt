@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 391 | label: hybrid | g:0.542 m:0.5 ---
+
+[] madhukaṇṭha uvāca-anuṣṭhāpitam api tat tan na pratiṣṭhām āsasāda ।

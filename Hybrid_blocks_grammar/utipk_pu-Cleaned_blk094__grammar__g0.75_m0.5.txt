@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 94 | label: grammar | g:0.75 m:0.5 ---
+
+sphuradrūpatā sphuraṇakartṛtā abhāvāpratiyoginy abhāvavyāpinī sattā bhavattā bhavanakartṛtā nityā deśakālāsparśāt saiva pratyavamarśātmā citikriyāśāktiḥ । sā viśvātmanaḥ parameśvarasya svātmapratiṣṭhārūpā hṛdayam iti tatra tatrāgame nigadyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2807 | label: meter | g:0.194 m:0.625 ---
+
+tṛṇair āstīrya vasudhāṃ vastraprāvṛtamastakaḥ 
+tiṣṭhen nāticiraṃ tatra naiva kiṃcid udīrayet ।।

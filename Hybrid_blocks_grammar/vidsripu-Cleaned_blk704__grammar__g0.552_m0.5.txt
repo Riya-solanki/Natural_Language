@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 704 | label: grammar | g:0.552 m:0.5 ---
+
+ekasmiñ śayane parāṅmukhatayā vītottaraṃ tāmyator anyonyaṃ hṛdaye sthite apy anunaye saṃrakṣator gauravam ।
+paścād ākulayor apāṅgavalanān miśrībhavaccakṣuṣor bhagno mānakaliḥ sahāsarabhasavyāvṛttakaṇṭhagrahaḥ ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 753 | label: meter | g:0.326 m:0.5 ---
+
+balaṃ vā jñānaṃ vā kiyad abhavad asyeti vimṛśan
+yadā gopī-saṅghaḥ kim api muhur ānetum adiśat ।
+tadā śaktiṃ vyañjan kva ca punar aśaktiṃ kva ca śiśuḥ
+sa paśyaṃs tad-vaktraṃ hasati ca puro hāsayati ca ।। [śikhariṇī]

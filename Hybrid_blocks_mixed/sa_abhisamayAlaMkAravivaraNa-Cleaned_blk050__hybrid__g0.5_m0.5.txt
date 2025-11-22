@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 50 | label: hybrid | g:0.5 m:0.5 ---
+
+sarvākārajñatopalakṣakā daśa dharmāḥ tatra mahāyānacittotpādaḥ, avavādaḥ, nirvadhāṅgam, mahāyānapratipattyādhāraḥ, mahāyānapratipattyālambanam, mahāyānapratipattisamuddeśaḥ, sannāhapratipattiḥ, prasthānapratipattiḥ, sambhārapratipattiḥ, niryāṇapratipattiriti daśa dharmāḥ sarvākārajñatāmupalakṣayantīti abhisamayālaṅkāre dvābhyāṃ kārikābhyāṃ pradarśitāḥ । yathā -

@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 113 | label: meter | g:0.306 m:0.5 ---
+
+dhanārjanavicintanaṃ hṛdayaropitāśāvanaṃ vṛthā caraṇaśātanaṃ khalakadaryasaṃsevanam ।
+sadā vyasanaśocanaṃ priyaviyogadīnānanaṃ vihāya gṛhamajjanaṃ vrajati puṇyavān nirjanam ।।

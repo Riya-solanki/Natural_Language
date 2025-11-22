@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 8 | label: grammar | g:0.573 m:0.5 ---
+
+nindyaṃ janma pramohasthirataratamasāṃ yan manuṣyatvahīnaṃ buddhyā hīno manuṣyaḥ śubhaphalavikalas tulyaceṣṭaḥ paśūnām ।
+buddhiḥ pāṇḍityahīnā bhramati sadasatos tattvacarcāvicāre pāṇḍityaṃ dharmahīnaṃ śukasadṛśagirāṃ niṣphalakleśam eva ।।

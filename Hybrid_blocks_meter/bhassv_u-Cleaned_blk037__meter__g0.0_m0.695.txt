@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 37 | label: meter | g:0.0 m:0.695 ---
+
+{kāñcukīyaḥ} - yad abhipretaṃ bhavatyā 
+bho bho āśramavāsinas tapasvinaḥ 
+śṛṇvantu śṛṇvantu bhavantaḥ 
+ihātrabhavatī magadharājaputrī anena visrambheṇotpāditavisrambhā dharmārtham arthenopanimantrayate

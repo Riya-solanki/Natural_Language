@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 937 | label: meter | g:0.314 m:0.777 ---
+
+ūrdhvaretaḥsu ca śabde hi ।
+subodham ।।

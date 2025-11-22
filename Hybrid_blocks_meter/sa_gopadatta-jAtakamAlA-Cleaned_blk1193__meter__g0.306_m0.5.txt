@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1193 | label: meter | g:0.306 m:0.5 ---
+
+saṃyuktasaṃyogam upetya sarve nirākulāḥ projjhya viṣādadainyam ।
+ātmānam uttārayituṃ yatadhvaṃ mahārṇavān māṃ ca parārtipaṅkāt ।।

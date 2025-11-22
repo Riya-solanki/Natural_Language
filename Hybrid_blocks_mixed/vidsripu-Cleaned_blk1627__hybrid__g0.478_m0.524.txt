@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1627 | label: hybrid | g:0.478 m:0.524 ---
+
+re vṛddhagṛdhra kim akāṇḍam iha pravīra dāvānale śalabhatāṃ labhase pramatta ।
+lakpāvasānapavanollasitasya sindhor ambho ruṇaddhi kim u saikatasetubandhaḥ ।।
+etau saṃghaśriyaḥ।।

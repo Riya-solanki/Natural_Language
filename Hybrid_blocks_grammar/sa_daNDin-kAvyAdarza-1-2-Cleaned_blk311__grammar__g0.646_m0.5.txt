@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 311 | label: grammar | g:0.646 m:0.5 ---
+
+nisargādipadair atra hetuḥ sākṣān nivartitaḥ uktaṃ ca surabhitvādi phalaṃ tat sā vibhāvanā ।।iti vibhāvanācakram।। ।।

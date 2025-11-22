@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1207 | label: meter | g:0.328 m:0.595 ---
+
+yenābhibhūtaḥ kuśalaṃ jahāti prāptādapi bhraśyata eva cārthāt ।
+taṃ roṣamugragrahavaikṛtābhaṃ sphurantamevānayamantamantaḥ ।।

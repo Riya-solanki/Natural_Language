@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 641 | label: meter | g:0.194 m:0.5 ---
+
+bālye prathamam anyo' nyaṃ milato rāma-kṛṣṇayoḥ ।
+sitāsitāṃśavaḥ pṛktā jajñire mṛga-lāñchanāḥ ।। [anuṣṭubh]

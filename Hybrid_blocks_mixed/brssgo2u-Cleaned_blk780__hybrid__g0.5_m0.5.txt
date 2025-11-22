@@ -1,0 +1,3 @@
+--- source: brssgo2u-Cleaned.txt | block: 780 | label: hybrid | g:0.5 m:0.5 ---
+
+aṃśo nānāvyapadeśād anyathā cāpi dāśakitavāditvam adhīyata eke ।

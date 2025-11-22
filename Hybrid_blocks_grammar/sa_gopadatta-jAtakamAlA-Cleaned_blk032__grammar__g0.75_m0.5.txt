@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 32 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa bhikṣuḥ kathāntaravivakṣayā smitam āviścakāra । sa rājā samantato nirīkṣyānyam anīkṣamāṇo mām evādhikṛtya pravrajitena smitam ādarśitam iti viniścitya kutūhalākrāntamatis tam abravīt ।।

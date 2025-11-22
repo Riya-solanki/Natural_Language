@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1101 | label: meter | g:0.161 m:0.681 ---
+
+yathā-
+aṃhaḥ-śeṣair iva parivṛto makṣikāmaṇḍalībhiḥ
+pūya-klinnaṃ vraṇam abhimṛśan vāsasaḥ khaṇḍakena ।
+rathopānte drutam apasṛtaṃ saṅkucan netra-koṇaṃ
+channa-ghrāṇaṃ racayati janaṃ dadru-rogī daridraḥ ।।

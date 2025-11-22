@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 244 | label: hybrid | g:0.5 m:0.5 ---
+
+atra citta-vikārāṇāṃ roṣa-harṣa-lajjādīnāṃ kuṭilekṣaṇa-smita-natānanatvādibhir īṣat-prakāśanād ayaṃ hāvaḥ ।

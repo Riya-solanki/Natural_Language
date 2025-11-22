@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7924 | label: meter | g:0.306 m:0.5 ---
+
+tato dūratarā ye ca dṛśyante malinā janāḥ ।
+durbhagā malinā rūkṣāḥ kṛśā vigatavāsasaḥ ।।

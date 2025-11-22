@@ -1,0 +1,7 @@
+--- source: tsc_simu-Cleaned.txt | block: 53 | label: meter | g:0.254 m:0.805 ---
+
+jñānodrekāduparateśca dharmādharmakṣayo bhavet ।
+dharmādharmakṣayāccātha kaivalyamiti gīyate ।।
+taduktam ।
+ādyo hi mokṣo jñānena dvitīyo rāgasaṃkṣayāt ।
+kṛtsnakṣayāt tṛtīyastu vyākhyātaṃ mokṣalakṣaṇam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 248 | label: meter | g:0.306 m:0.5 ---
+
+gaṇaṃ krodhavaśaṃ viddhi te ca sarve ca daṃṣṭriṇaḥ ।
+krodhā tu janayāmāsa piśācāṃśca mahābalān ।।

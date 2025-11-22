@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 330 | label: hybrid | g:0.449 m:0.375 ---
+
+karmavidhiparatā ekavākyatābalādāśritā, evamatrāpi asadeva somyedam'iti brahmopakramāt atattvamasi'iti ca jīvasya brahmātmanopasaṃhārāt tatparataiva vākyasya ।
+evaṃ vākyā

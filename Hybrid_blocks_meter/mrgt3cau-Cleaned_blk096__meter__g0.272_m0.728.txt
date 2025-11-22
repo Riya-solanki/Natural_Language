@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 96 | label: meter | g:0.272 m:0.728 ---
+
+Vṛtti:
+arkasaṃkramaḥ saṃkrāntidivasaḥ।।

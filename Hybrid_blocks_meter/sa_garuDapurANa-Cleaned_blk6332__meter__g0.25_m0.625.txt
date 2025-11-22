@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6332 | label: meter | g:0.25 m:0.625 ---
+
+hiraṇyaṃ sarpirāditya āpo rājā tathāṣṭamaḥ ।
+etāni satataṃ paśyedarcayecca pradakṣiṇam ।।

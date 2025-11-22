@@ -1,0 +1,6 @@
+--- source: brssbh1u-Cleaned.txt | block: 175 | label: hybrid | g:0.362 m:0.256 ---
+
+iti caivamādau brahmaviṣayaḥ prāṇaśabdo dṛśyate, vāyuvikāre tu prasiddhataro lokavedayoḥ, ata iha prāṇaśabdena katarasyopādānaṃ yuktamiti bhavati saṃśayaḥ ।
+kiṃ punaratra yuktam ।
+vāyuvikārasya pañcavṛtteḥ prāṇasyopādānaṃ yuktam ।
+tatra hi prasiddhataraḥ prāṇaśabda ityavocāma ।

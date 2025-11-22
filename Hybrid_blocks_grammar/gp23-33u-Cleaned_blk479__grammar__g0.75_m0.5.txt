@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 479 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha samāsanne vinodenāhnāyavan madhyāhne kvacin mahā-sarasi sarasija-saurabha-sarasena ghana-rasena snāna-līlām abhiniviśya kevala-tilaka-vanamālā-valita-veśa-bhaṅgi-saṅgitā-pūrvakam apūrve tasminn ekānte kusumita-vanānte kānte mahā-śaila-prānte pallava-lasad-urutara-taru-tala-vilasita-śilāyām upaviśya virājannusrāvāra-cāraṃ prati bhūri-dūrī-bhāvam iteṣu mitreṣu nija-saurabha-rabhasa-samudita-madhura-madhu-kara-nikara-gāna-kṛtāvadhānas tad-dhūṅkāra-kāraṇa-svara-sāram anu kutuka-kṛtānusandhānas tad-anusāri-veṇu-cāri-raṇitena suracita-sārasādi-rasādhānaḥ so' yaṃ ramate sma ।

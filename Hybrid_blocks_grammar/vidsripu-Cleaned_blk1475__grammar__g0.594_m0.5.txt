@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1475 | label: grammar | g:0.594 m:0.5 ---
+
+bhūsamparkarajonipātamalināḥ svasmād gṛhāt pracyutāḥ sāmānyair api jantubhiḥ karatalair niḥśaṅkam āliṅgitāḥ ।
+nirlagnāḥ kvacid ekatām upagatā baddhāḥ kvacin mocitā akṣāṇām iva śārayaḥ pratigṛhaṃ bhrāntās tavāristriyaḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 875 | label: meter | g:0.316 m:0.739 ---
+
+śrīgaruḍamahāpurāṇam- 
+rudra uvāca ।
+sudarśanasya pūjāṃ me vada śaṅkhagadādhara ।
+graharogādikaṃ sarvaṃ yatkṛtvā nāśameti vai ।।

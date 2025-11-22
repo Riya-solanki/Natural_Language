@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 124 | label: meter | g:0.25 m:0.537 ---
+
+tattvaṃ sukṛpaya kṛta-vṛjinātyaya tava yāś caraṇe raktāḥ ।
+tā bhavataḥ smita-vīkṣaṇa-vismita-cittāḥ kuru nija-bhaktāḥ ।।
+idam ubhayatra ca yogyam ।

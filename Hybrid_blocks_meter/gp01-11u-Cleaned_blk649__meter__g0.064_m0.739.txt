@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 649 | label: meter | g:0.064 m:0.739 ---
+
+unmīlad-vidhu-varṇam ardha-palitaṃ vaktrādir upānvitaṃ
+kiñcit sthūlam akharvam āyāta-bhūjaṃ viṣvak-prasādākaram ।
+śubhra-śrī-vasana-dvayaṃ śruti-karālaṅkāra-dīvyat-prabhaṃ
+putra-prema-vilakṣitākhilam ṛṣiḥ śrī-nandam atraikṣata ।। [śārdula]

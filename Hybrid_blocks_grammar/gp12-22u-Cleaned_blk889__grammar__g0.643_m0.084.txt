@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 889 | label: grammar | g:0.643 m:0.084 ---
+
+[] atra cāyam asman-milanam aṅgīkurvann eva saṅginaḥ prasaṅgāntarāya prasthāpitavān । baladevaś ca nādya vanam āgatavān iti cāsthīyate । tasmād atisvacchatara-cetasam amuṃ bhavāṃs tāvan nibhṛtatayā nibhṛtam avyagratayā cābhyagraṃ gatvā daṇḍavan natvā prasādayitum arhati । yataḥ,
+svayam aparādhyati kurute prabhum abhi tan-mārjane sahāyaṃ yaḥ ।
+tasyedaṃ para-śakter darśanam atha naiva dainyasya ।। [āryā]
+yasmin svayam aparādhī namati rahas taṃ sahāya-nirviṇṇaḥ ।
+kṛpayati sā jana-mātraṃ dainyāvasthā mahājanaṃ kim uta? ।। [gīti]

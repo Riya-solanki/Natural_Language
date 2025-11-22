@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3902 | label: meter | g:0.25 m:0.5 ---
+
+kauśikasya ṛciḥ putraḥ tataścaidyo nṛpaḥ kila ।
+kuntiḥ kilāsya putro abhūtkuntervṛṣṇiḥ sutaḥ smṛtaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2028 | label: meter | g:0.194 m:0.625 ---
+
+evam etat padaṃ viṣṇos tṛtīyam amalātmakam 
+ādhārabhūtaṃ lokānāṃ trayāṇāṃ vṛṣṭikāraṇam ।।

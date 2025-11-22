@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 967 | label: meter | g:0.25 m:0.625 ---
+
+karmaṇā yamabhipraiti sa sampradānam ।।
+dānasya karmaṇā yamabhipraiti sa sampradānasaṃjñaḥ syāt ।।

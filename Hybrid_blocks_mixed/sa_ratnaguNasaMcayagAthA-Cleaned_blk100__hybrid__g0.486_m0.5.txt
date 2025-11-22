@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 100 | label: hybrid | g:0.486 m:0.5 ---
+
+prakṛtīya śuddha pariśuddhimi sarvadharmāṃ prajñāya pāramita paśyati bodhisattvo 
+na ca paśyakaṃ labhati nāpi ca sarvadharmān eṣā sa prajñavarapāramitāya caryā ।।

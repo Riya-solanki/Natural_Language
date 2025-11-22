@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1127 | label: hybrid | g:0.51 m:0.5 ---
+
+vidito bhavato na rājavaṃśaḥ kim asau dikṣu vikīrṇakīrtipuñjaḥ ।
+dhanado apy ayathārthanāmadheyo dhanasāraṃ samavekṣya yasya nūnam ।।

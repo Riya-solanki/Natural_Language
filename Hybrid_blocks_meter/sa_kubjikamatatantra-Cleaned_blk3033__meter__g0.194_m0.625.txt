@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 3033 | label: meter | g:0.194 m:0.625 ---
+
+prathamaṃ madguṇair bhadre dvitīyaṃ ca khagāntare 
+tṛtīyaṃ bhūcarīnāthaḥ paścānantabhavātmikā ।।

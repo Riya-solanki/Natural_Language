@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 240 | label: hybrid | g:0.521 m:0.5 ---
+
+naiti svargaṃ kevalayā yacca samṛddhyā dānenaiva khyātimavāpnoti ca puṇyām ।
+mātsaryādīnnābhibhavatyeva ca doṣāṃstasyā hetordānamataḥ ko na bhajeta ।।

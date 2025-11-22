@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 121 | label: hybrid | g:0.272 m:0.385 ---
+
+api cendriyādīnāṃ samīcīnajñānopajanane sāmarthyamupalabdhamiti kathamebhyo mithyājñānasaṃbhavaḥ ।
+doṣasahitānāṃ teṣāṃ mithyāpratyaye api sāmarthyamiti cenna, doṣāṇāṃ kāryopajananasāmarthyavighātamātra hetutvāt,anyathā duṣṭādapi kuṭajabījādvaṭāṅkurotpattiprasaṅgāt ।
+api ca svagocaravyabhicāre vijñānānāṃ sarvatrānāśvāsaprasaṅgaḥ ।
+tasmātsarvaṃ jñānaṃ samīcīnamāstheyam ।

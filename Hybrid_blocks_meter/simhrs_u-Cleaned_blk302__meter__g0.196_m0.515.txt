@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 302 | label: meter | g:0.196 m:0.515 ---
+
+atha mādhuryam-
+tan mādhuryaṃ yatra ceṣṭā-dṛṣṭy-ādeḥ spṛhaṇīyatā ।। ।। MISSING

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2020 | label: meter | g:0.194 m:0.5 ---
+
+bhūyaḥ śṛṇu yathā viṣṇur avatīrṇo mahītalam 
+prajānāṃ vai hitārthāya prabhuḥ prāṇadhaneśvaraḥ ।।

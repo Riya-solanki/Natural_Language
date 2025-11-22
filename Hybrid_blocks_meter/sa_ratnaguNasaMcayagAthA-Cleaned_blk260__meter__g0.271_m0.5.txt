@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 260 | label: meter | g:0.271 m:0.5 ---
+
+ākāśadhātu gaganasya siyā virodho na hi tena tasya kutu kenacideṣa prāptā 
+emeva prajñacarito vidu bodhisattvo abhyovakāśasadṛśo upaśāntacārī ।।

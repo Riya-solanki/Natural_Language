@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 491 | label: meter | g:0.25 m:0.958 ---
+
+iti sūtram ।
+cakāro anuktasamuccayārthaḥ ।
+taccānuktaṃ bhāṣya uktam ।।

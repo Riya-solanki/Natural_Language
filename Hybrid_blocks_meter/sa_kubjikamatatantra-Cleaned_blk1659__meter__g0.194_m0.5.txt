@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1659 | label: meter | g:0.194 m:0.5 ---
+
+kathaṃ rūpaṃ maheśānyāḥ sarvam etad yathākramam 
+ācacakṣva prayatnena yena bhrāntir vinaśyati ।।

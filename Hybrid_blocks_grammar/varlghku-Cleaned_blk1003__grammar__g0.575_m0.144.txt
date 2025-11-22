@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1003 | label: grammar | g:0.575 m:0.144 ---
+
+kartṛkaraṇe kṛtā bahulam ।।
+kartari karaṇe ca tṛtīyā kṛdantena bahulaṃ prāgvat । hariṇā trāto haritrātaḥ । nakhairbhinnaḥ nakhabhinnaḥ । kṛdgrahaṇe gatikārakapūrvasyāpi grahaṇam । nakhanirbhinnaḥ ।।

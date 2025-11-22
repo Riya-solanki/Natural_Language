@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 360 | label: hybrid | g:0.449 m:0.279 ---
+
+kiṃ punaḥ śabdasyārthapratipādane pramāṇam, śabdānantaramarthapratipattireva ।
+nanviyamabhiprāyānumānadvāreṇaivopapannā, neti brūmaḥ ।
+arthābhiprāyaśūnyenāpi svāpādyavasthāyāṃ paravaśaprayuktairapi śabdairarthapratipattidarśanāt ।
+tathā puruṣāntarakṛtamapauruṣeyaṃ vā vedavākyamanarthajñairapi prayujyamānaṃ vyutpannānāmarthabuddhiṃ janayatyeva, tasmāt pratyāyakaḥ śabdaḥ ।
+kimiti tarhi prathamaśravaṇe na pratyāyayati, sahakārivirahātsaṃjñātvagrahaṇamapi śabdasyārthe pratyayato aṅgaṃ netrasyevālokaḥ, tena yaḥ puruṣāntarebhyo ayaṃ puruṣāntarebhyo ayaṃ śabdo asya saṃjñeti jñātavān tasyaiva pratyāyayati nānyasyeti na doṣaḥ ।।

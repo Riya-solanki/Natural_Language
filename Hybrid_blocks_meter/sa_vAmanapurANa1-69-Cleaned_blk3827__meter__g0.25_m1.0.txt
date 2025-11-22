@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3827 | label: meter | g:0.25 m:1.0 ---
+
+vajrendranīlavaiḍūryatejobhirbhāsayan diśaḥ ।
+tṛtīyaṃ brahmasadanaṃ prakṛṣṭaṃ śṛṅgamuttamam ।।

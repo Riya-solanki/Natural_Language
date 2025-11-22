@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 188 | label: hybrid | g:0.476 m:0.5 ---
+
+pṛthvī kṣamā ca nāmnā tvaṃ tat-padāṅkam udaṅkitā ।
+tasmāt tvām eva taṃ praṣṭuṃ tā vayaṃ gatim āgatāḥ ।। [anuṣṭubh]

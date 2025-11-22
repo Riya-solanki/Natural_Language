@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 494 | label: grammar | g:0.562 m:0.5 ---
+
+vaiśākhādiṣu kṛṣṇe ca yogah pañcadaśe tithau। kārttikādīni varṣāṇi guror astodayāt tathā।।

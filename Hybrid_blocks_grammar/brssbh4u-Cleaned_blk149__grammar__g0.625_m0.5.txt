@@ -1,0 +1,3 @@
+--- source: brssbh4u-Cleaned.txt | block: 149 | label: grammar | g:0.625 m:0.5 ---
+
+ata eva sūkṣmatvāt na asya sthūlasya śarīrasya upamardena dāhādinimittena itarat sūkṣmaṃ śarīram upapadyate ।।

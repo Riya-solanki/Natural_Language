@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 578 | label: meter | g:0.314 m:0.914 ---
+
+pradhvastabhṛkuṭībhaṅgakrodhasaṃkucitekṣaṇaṃ ।
+krodhadṛṣṭiṃ samādhāya trailokyamapi nāśayet ।।

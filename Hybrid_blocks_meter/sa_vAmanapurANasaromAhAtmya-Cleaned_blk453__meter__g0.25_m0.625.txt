@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 453 | label: meter | g:0.25 m:0.625 ---
+
+tataśca pāpānmuktastvaṃ pātitāste kvakarmabhiḥ ।
+hradāśca tava tīrthatvaṃ gamīṣyanti na saṃśayaḥ ।।

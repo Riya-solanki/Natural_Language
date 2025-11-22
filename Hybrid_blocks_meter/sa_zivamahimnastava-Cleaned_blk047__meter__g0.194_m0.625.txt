@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 47 | label: meter | g:0.194 m:0.625 ---
+
+kīrtanena hi rudrasya pāpaṃ yāti sahasradhā ।
+pracaṇḍapavanenaiva dhanaṃ jaladamaṇḍalam ।। Smstadd

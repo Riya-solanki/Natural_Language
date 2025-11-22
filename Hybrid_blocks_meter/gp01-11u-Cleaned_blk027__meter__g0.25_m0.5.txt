@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 27 | label: meter | g:0.25 m:0.5 ---
+
+tri-jagati mānasa-gaṅgā govardhanam api vibhindatī viditā ।
+aham iha manye kṛṣṇa- snehaja-dhārā tad-antaraṃ viśati ।। [gīti]

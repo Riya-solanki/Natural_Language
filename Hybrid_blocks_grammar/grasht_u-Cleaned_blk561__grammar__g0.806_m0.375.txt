@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 561 | label: grammar | g:0.806 m:0.375 ---
+
+vidhyantaramāha mṛduletyādi ।।
+mṛdulaṃ nepālasaṃjñikaṃ tāmraṃ kāntaṃ lohajāti ghanasatvamabhrasāraṃ punarmṛtaṃ nāgaṃ sīsakaṃ tīkṣṇaṃ lohajāti kanakaṃ hema etattrayaṃ bījaṃ śulbāditrayaṃ ca bījasaṃjñakaṃ daradaśilātālamākṣikairvāpāt daradaṃ hiṅgulaṃ śilā manohvā tālaṃ haritālaṃ etaiḥ kṛtvā vāpaḥ vahnitapte parikṣepaḥ tasmāt bījaśeṣaṃ kurvīta ubhayorbīje abhrasatvahemnaḥ śeṣe kuryādityarthaḥ vā evaṃ kṛte yaccheṣaṃ tiṣṭhati tadbījamiti ।।

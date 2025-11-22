@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 14 | label: grammar | g:0.562 m:0.5 ---
+
+ātmānam ātmani yadā svayam ātmanaiva saṃyamya tiṣṭhasi nimīlitasarvaśakte ।
+līnaṃ tadā tvayi jagat khalu tāvad āste yāvat tavodbhavati nātha punaḥ sisṛkṣā ।।

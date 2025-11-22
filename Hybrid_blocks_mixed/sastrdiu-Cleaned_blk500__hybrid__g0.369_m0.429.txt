@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 500 | label: hybrid | g:0.369 m:0.429 ---
+
+yajamānaśabdo api tasyaiva yāgasvāmitvātkartṛtvācca vācakaḥ ।
+na ca śakyate tasya kāpilavadakartṛtvaṃ vaktuṃ- śrutivirodhāt, sarvatra hi kartṛbhoktṛśabdayoḥ sāmānādhikaraṇyaṃ dṛśyate ।
+yathātraiva- yajamānaḥ svargaṃ lokaṃ yātīti ।
+tathā ya evaṃ vidvānagniṃ cinute ṛdhnotyeva ya evaṃ vidvāndvirātreṇa yajate svargakāmeva saṃkalpaṃ prati kartṛtvamuktam ।।

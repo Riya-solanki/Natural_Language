@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 668 | label: meter | g:0.293 m:0.75 ---
+
+ṛṣaya ūcuḥ
+kathaṃ pratiṣṭhitaṃ tīrthamavakīrṇena nāmataḥ ।
+dhṛtarāṣṭreṇa rājñā ca sa kimarthaṃ prasāditaḥ ।।

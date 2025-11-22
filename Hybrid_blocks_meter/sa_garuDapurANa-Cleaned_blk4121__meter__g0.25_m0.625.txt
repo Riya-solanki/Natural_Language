@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4121 | label: meter | g:0.25 m:0.625 ---
+
+yatra te pṛthivīpālā hatāḥ pārthena saṃgare ।
+śokasāgaramāsādya droṇo api svargamāptavān ।।

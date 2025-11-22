@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 382 | label: grammar | g:0.635 m:0.43 ---
+
+pratyekaṃ hi vyañjakatve satyuttarairasphuṭābhivyaktiḥ pūrvaiśca sphuṭābhivyaktiḥ syāditi vyutkrameṇāpyuccāraṇaṃ syāt, ato apekṣitakramaviśeṣānekavijātīyanādasamuccayāśrayaṇādavaśyaṃ pūrvanādāhitasaṃskārasahitāntimanādābhivyaṅgyaḥ sphoṭa ityavaśyāṅgīkartavyamiti tulyā saṃskārakalpanā ।
+yadvā tavaiveyaṃ saṃskārāntakalpanā, matpakṣe tu smṛtihetubhireva saṃskāraiḥ siddhyatyarthāvagatiriti na saṃskārāntaraṃ kalpayitavyama ।।

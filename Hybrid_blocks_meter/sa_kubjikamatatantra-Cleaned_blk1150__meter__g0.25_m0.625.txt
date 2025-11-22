@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1150 | label: meter | g:0.25 m:0.625 ---
+
+varjayet kaulikān bauddhān tathā mīmāṃsakāsthitān 
+kasmād bhraṣṭakriyā teṣāṃ na mokṣo naiva sādhanam ।।

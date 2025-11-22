@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 310 | label: meter | g:0.25 m:0.5 ---
+
+bhedadhīr eva bhāveṣu kartur bodhātmano api yā 
+māyāśakty eva sā vidyety anye vidyeśvarā yathā ।।

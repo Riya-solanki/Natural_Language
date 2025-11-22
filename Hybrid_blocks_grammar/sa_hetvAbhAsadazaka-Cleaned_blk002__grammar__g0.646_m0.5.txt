@@ -1,0 +1,4 @@
+--- source: sa_hetvAbhAsadazaka-Cleaned.txt | block: 2 | label: grammar | g:0.646 m:0.5 ---
+
+tvaṃ ruṣṭā mayi cen namāmi bhavatīṃ neyaṃ tvayā namyatāṃ namyatvaṃ tvayi bhāti pārthivatayā manye mahārājavat ।
+kumbhādiṣv ativartanāt tvaduditaṃ sādhāraṇaṃ sādhanaṃ vāgvādeṣv iti nirjito dayitayā rāmaḥ sukhaṃ rātu vaḥ ।।

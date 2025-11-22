@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1150 | label: meter | g:0.25 m:0.555 ---
+
+yajvā dānapatir dhīmān brahmaṇyaḥ sudṛḍhāyudhaḥ 
+kīrtimāṃś ca mahātejāḥ sātvatānāṃ mahārathaḥ । 
+tasyānvavāyaḥ sumahān bhojā ye mārtikāvatāḥ ।।

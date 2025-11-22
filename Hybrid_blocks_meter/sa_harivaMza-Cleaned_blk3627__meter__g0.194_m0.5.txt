@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3627 | label: meter | g:0.194 m:0.5 ---
+
+vihito asya mayā mṛtyus tasmāt sādhu vyupārama 
+acireṇaiva kālena prāṇāṃs tyakṣyati māgadhaḥ ।।

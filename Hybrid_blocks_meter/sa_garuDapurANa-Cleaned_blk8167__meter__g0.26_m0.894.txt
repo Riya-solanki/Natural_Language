@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8167 | label: meter | g:0.26 m:0.894 ---
+
+śrībhagavānuvāca ।
+śruteḥ pratyakṣatastārkṣya prāmāṇyaṃ balavattaram ।
+śrutyā tuḥ bodhitārthasya pīyūṣatvādirūpatā ।।

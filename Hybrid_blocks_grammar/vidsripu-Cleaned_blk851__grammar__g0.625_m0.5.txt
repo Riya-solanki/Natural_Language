@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 851 | label: grammar | g:0.625 m:0.5 ---
+
+pāntha svairagatiṃ vihāya jhaṭiti prasthānam ārabhyatām atyantaṃ karisūkarāhigavayair bhīmaṃ puraḥ kānanam ।
+caṇḍāṃśor api raśmayaḥ pratidiśaṃ mlānās tvam eko yuvā sthānaṃ nāsti gṛhe mamāpi bhavato bālāham ekākinī ।।

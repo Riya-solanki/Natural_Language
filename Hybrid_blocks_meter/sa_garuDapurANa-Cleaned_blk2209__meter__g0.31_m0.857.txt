@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2209 | label: meter | g:0.31 m:0.857 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+ādāya śeṣastasyāntraṃ balasya kelādiṣu ।
+cikṣepa tatra jāyante vidrumāḥ subhahāguṇāḥ ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 386 | label: meter | g:0.287 m:0.751 ---
+
+atha kaiśikī -
+nṛtya-gīta-vilāsādi-mṛdu-śṛṅgāra-ceṣṭitaiḥ ।
+samanvitā bhaved vṛttiḥ kaiśikī ślakṣṇa-bhūṣaṇā ।। 
+aṅgāny asyās tu catvāri narma tat-pūrvakā ime ।
+sphañja-sphoṭau ca garbhaś ca teṣāṃ lakṣaṇam ucyate ।।

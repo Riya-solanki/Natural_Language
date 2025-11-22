@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1730 | label: meter | g:0.143 m:0.88 ---
+
+viśvāmitraḥ -
+janayati tvayi vīra diśāṃ patīn
+api gṛhāṅgaṇa-mātra-kuṭumbinaḥ ।
+ripur iti śrutir eva na vāstavī
+pratibhayonnatir astu kutas tu naḥ ।।

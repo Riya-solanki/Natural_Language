@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1093 | label: meter | g:0.194 m:0.854 ---
+
+durvijñeyaṃ kapaṭam aśivaṃ kleśakarmaprayuktaṃ
+sarvākāraṃ vivṛtam akhilaṃ yena janmābhidhānam ।
+yasmin mūḍho rathacaraṇavad bambhramīty asvatantro
+lokas tīvravyasanakuliśāghātaniṣpiṣṭamūrtiḥ ।।

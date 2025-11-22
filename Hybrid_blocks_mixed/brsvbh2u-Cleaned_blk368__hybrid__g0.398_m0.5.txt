@@ -1,0 +1,5 @@
+--- source: brsvbh2u-Cleaned.txt | block: 368 | label: hybrid | g:0.398 m:0.5 ---
+
+na prāṇaḥ paricchedadhāraṇādikaraṇamasmābhirabhyupeyate yenāsya viṣayāntaramanviṣyeta ।
+ekādaśatvaṃ ca karaṇānāṃ vyākupyetāpi tu prāṇāntarāsaṃbhavi dehendriyavidhāraṇakāraṇaṃ prāṇaḥ ।
+tacca śrutiprabandhena darśitaṃ na kevalaṃ śarīrendriyadhāraṇamasya kāryam ।।

@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 393 | label: grammar | g:0.63 m:0.495 ---
+
+na saṃbandhakāritaṃ śabdārthavyavasthānam kiṃ tarhi ? samayakāritaṃ yattadavocāma aasyedamiti ṣaṣṭhīviśiṣṭasya vākyasyārthaviśeṣo anujñātaḥ śabdārthayoḥ saṃbandhaḥ' iti samayaṃ tamavocāma iti।
+kaḥ punarayaṃ samayaḥ ?, aasya śabdasyedamarthajātamabhidheyam' ityabhidhānābhidhaiyaniyamaniyogaḥ, tasminnupayukte śabdādarthasaṃpratyayo bhavati, viparyaye hi śabdaśravaṇepi pratyayābhāvaḥ, saṃbandhavādināpi cāyamavarjanīya iti।
+prayujyamānagrahaṇācca laukikānām, samayapālanārthaṃ cedaṃ padalakṣaṇāyā vāco anvākhyānaṃ vyākaraṇam, vyākyalakṣaṇāyā vāco arthalakṣaṇam, padasamūho vākyam arthaparisamāptāviti।
+tadevaṃ prāptilakṣaṇasya śabdārthasaṃbandhasyārthajuṣo apy anumānahetur na bhavatīti ।।

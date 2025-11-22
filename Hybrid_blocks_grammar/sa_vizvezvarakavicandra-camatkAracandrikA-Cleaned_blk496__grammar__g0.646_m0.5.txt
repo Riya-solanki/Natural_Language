@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 496 | label: grammar | g:0.646 m:0.5 ---
+
+atra pūrvamārūḍho api kaliṅganarapālagocaro nāyakasya krodho balavatā samucitopāyanasamarpaṇajanitaprasādopabṛhitena kaliṅgarājakanyakāgocareṇa premṇā niravaśeṣamupaśāmyata iti seyaṃ rasaśamoktiḥ ।

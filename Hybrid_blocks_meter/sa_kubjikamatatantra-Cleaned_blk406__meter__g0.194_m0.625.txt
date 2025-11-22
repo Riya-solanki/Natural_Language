@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 406 | label: meter | g:0.194 m:0.625 ---
+
+ṭa-pūrve nāsikā jñeyā saṃsṛṣṭā caiva madhyagā 
+ḍha-ta-madhyagataṃ gṛhya dvirabhyāsapaderitam ।।

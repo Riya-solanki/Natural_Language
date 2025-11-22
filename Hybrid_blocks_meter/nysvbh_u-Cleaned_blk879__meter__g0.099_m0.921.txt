@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 879 | label: meter | g:0.099 m:0.921 ---
+
+yathā khalvātmamanasoḥ saṃnikarṣaḥ saṃskāraśca
+smṛtiheturevaṃ praṇidhānaṃ liṅgādijñānāni
+tāni ca na yugapad bhavanti tatkṛtā smṛtīnāṃ
+yugapadanutpattiriti ।।

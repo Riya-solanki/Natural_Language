@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 100 | label: meter | g:0.291 m:0.571 ---
+
+pradīpa-jvālābhir divasa-kara-nīrājana-vidhiḥ sudhā-sūteś candropala-jala-lavair arghya-ghaṭanā
+svakīyair ambhobhiḥ salila-nidhi-sauhitya-karaṇaṃ tvadīyābhir vāgbhis tava janani vācāṃ stutir iyam ।।

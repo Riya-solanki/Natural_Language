@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 714 | label: meter | g:0.25 m:0.5 ---
+
+āhicchatraṃ svakaṃ rājyaṃ pitryaṃ prāpya mahādyutiḥ 
+drupadasya pitā rājan mamaivānumate tadā ।। 
+tato abhūd drupado rājā droṇas tena nirākṛtaḥ । 
+tato arjunena tarasā nirjitya drupadaṃ raṇe 
+ahicchatraṃ sakāmpilyaṃ droṇāyāthāpavarjitam ।।

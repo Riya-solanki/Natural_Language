@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 278 | label: meter | g:0.316 m:0.5 ---
+
+arthāya netravyasanaṃ tu jātam asyā na māṃ drakṣyati māryamāṇam ।
+yad asya tīkṣṇena durādhareṇa vyādhaprayuktena śilīmukhena ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 118 | label: meter | g:0.194 m:0.5 ---
+
+āpasya putro vaitaṇḍyaḥ śramaḥ śānto munis tathā 
+dhruvasya putro bhagavān kālo lokaprakālanaḥ ।।

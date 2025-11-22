@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 713 | label: grammar | g:0.75 m:0.5 ---
+
+atra dhavalasya yaśaso virodhimukheṣu yadatimālinyakaraṇaṃ tasya ca yādṛśo apyupajāyate tādṛgeva tadbhavatīti prasiddhivaiṣamyāt parasparāsaṅgaterayaṃ viṣamaṃ nāma virodhaḥ । athavā diṅmukheṣu viśadīkaraṇaṃ virodhimukheṣu malinīkaraṇañca samavartanaprakāro na bhavatīti vaiṣamyādviṣam virodhaḥ ।

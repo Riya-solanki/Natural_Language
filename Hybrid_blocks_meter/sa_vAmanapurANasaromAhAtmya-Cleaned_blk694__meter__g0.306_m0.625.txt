@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 694 | label: meter | g:0.306 m:0.625 ---
+
+tasya tad vacanaṃ śrutvā kṛpāśīlasya sā satit ।
+cālayāmāsa taṃ stānāt pravāheṇāmbhasastadā ।।

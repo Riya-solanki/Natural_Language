@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1200 | label: meter | g:0.272 m:0.595 ---
+
+kṣuttṛṣṇopaśamaṃ tadvac śītādyupaśamaṃ sukham 
+manyate bālabuddhitvād duḥkham eva hi tat punaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 397 | label: grammar | g:0.583 m:0.5 ---
+
+pragalbhānām ante nivasati śṛṇoti smarakathāṃ svayaṃ tattacceṣṭāśatam abhinayenārpayati ca ।
+spṛhām antaḥ kānte vahati na samabhyeti nikaṭaṃ yathaiveyaṃ bālā harati ca tathaiveyam adhikam ।।

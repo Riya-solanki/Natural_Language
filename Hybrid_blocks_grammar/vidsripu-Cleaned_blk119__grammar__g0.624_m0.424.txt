@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 119 | label: grammar | g:0.624 m:0.424 ---
+
+devi tvaṃ kupitā tvam eva kupitā ko anyaḥ pṛthivyā gurur mātā tvaṃ jagatāṃ tvam eva jagatāṃ mātā na vijño aparaḥ ।
+devi tvaṃ parihāsakelikalahe anantā tvam evety atha jñātānantyapado namañ jaladhijāṃ śauriś ciraṃ pātu vaḥ ।।
+vākpatirājasya

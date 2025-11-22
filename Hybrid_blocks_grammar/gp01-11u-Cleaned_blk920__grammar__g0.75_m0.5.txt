@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 920 | label: grammar | g:0.75 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-pūrvaṃ dhūrjaṭi-mitrād utpannavantau śrī-devarṣi-varye dhārṣṭyam anuṣṭhitavantau santau, pariṇāmataḥ paramānugraheṇa śrī-devarṣi-varya-kṛta-nigraheṇa vṛkṣatāyām api bhavagad-bhaktatām āgatavantau । pratibhavad-avatāram udbhavatas tasya bṛhadvana-stha-bhavad-gṛhasya tu sadeśe deśe yamalārjuna-veśena sthitavantau । etad-anantaraṃ ca nija-gatim āgatavantau parama-bhagavad-bhaktimantau ca jātavantau । samprati tu tad-bhakti-phala-vyaktim apy ākalayantau vartete ।

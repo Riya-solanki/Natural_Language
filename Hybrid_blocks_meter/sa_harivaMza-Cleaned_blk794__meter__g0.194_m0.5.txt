@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 794 | label: meter | g:0.194 m:0.5 ---
+
+śrutvā tu yācyamānāṃ tāṃ kruddhāṃ sūkṣmāṃ pipīlikām 
+brahmadatto mahāhāsam akasmād eva cāhasat ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 7 | label: meter | g:0.25 m:0.5 ---
+
+yāvanti nadya pravahantiha jambudvīpe phala puṣpa auṣadhā vanaspati rohayanti 
+bhūja gajendranāgapatiniśrayanovata sya tasyānubhāvaśriya sābhu jagādhipasya ।।

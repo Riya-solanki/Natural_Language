@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 57 | label: grammar | g:0.556 m:0.445 ---
+
+upapadyate ca ।
+tathā hi- yo ayamarthaprakāśaḥ phalaṃ yasminnarthaśca ātmā ca prathete sa kiṃ jaḍaḥ svayaṃprakāśo vā ? jaḍaścet viṣayātmāvapi jaḍāviti kasmin kiṃ prakāśeta aviśeṣāt, iti prāptamāndhyamaśeṣasya jagataḥ ।
+tathā cābhāṇakaḥ -

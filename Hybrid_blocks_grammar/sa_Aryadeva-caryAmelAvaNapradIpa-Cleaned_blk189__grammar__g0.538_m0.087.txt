@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 189 | label: grammar | g:0.538 m:0.087 ---
+
+evaṃ samādhiyuktasya nirvikalpasya mantriṇaḥ । kālāvadhiṃ parityajya siddhyate anuttaraṃ padam ।। iti । sūkṣmarūpaṃ laghusparśaṃ vyāptisaṃprāptimeva ca । prakāśaṃ caiva sthairyaṃ ca vaśitvaṃ kāmāvasānikam ।। iti । 
+bodhijñānāgrasaṃprāptaṃ paśyati buddhasuprabham ।
+buddhasaṃbhogakāyaṃ ca ātmānaṃ laghu paśyati ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 3 | label: grammar | g:0.604 m:0.5 ---
+
+na dhyāyato na japataḥ syād yasyāvidhipūrvakam evam eva śivabhāsas taṃ numo bhaktiśālinam ।।

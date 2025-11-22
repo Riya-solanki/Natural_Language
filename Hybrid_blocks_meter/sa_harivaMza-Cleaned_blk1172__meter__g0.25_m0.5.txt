@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1172 | label: meter | g:0.25 m:0.5 ---
+
+devāntaś ca narāntaś ca bhiṣag vaitaraṇaś ca yaḥ 
+sudāntaś cādhidāntaś ca kīnāśo dāmadambhakau ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2572 | label: meter | g:0.25 m:0.5 ---
+
+namasye ahaṃ pitṝñchrāddhe śūdrairapi ca bhaktitaḥ ।
+santarpyate jagatkṛtsnaṃ nāmnā khyātāḥ sukālinaḥ ।।

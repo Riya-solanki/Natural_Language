@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1036 | label: grammar | g:0.625 m:0.5 ---
+
+atra puṣparathādidravyāsaṃbhave api nāyakena yadidaṃ mattakāśī cittasaṃmohanakaraṇaṃ tena rūpādiśaviśeṣakāraṇaṃ pratīyata iti seyaṃ pratīyamānaheturviśeṣoktiḥ ।

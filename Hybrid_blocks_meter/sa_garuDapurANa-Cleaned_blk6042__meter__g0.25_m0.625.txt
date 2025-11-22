@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6042 | label: meter | g:0.25 m:0.625 ---
+
+vraṇañca śamayedrudra jayāyāḥ pūraṇāt tathā ।
+gajamūtrasya vai pānaṃ go-mahiṣyupasarganut ।।

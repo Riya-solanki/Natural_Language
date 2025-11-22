@@ -1,0 +1,3 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 914 | label: meter | g:0.25 m:0.5 ---
+
+parasparaṃ tu sañcintya yāvad brahmabilaṃ gataḥ ।।

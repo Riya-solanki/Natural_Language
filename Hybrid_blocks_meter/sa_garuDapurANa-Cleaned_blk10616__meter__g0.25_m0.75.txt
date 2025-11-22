@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10616 | label: meter | g:0.25 m:0.75 ---
+
+tattvānāṃ bahugopyatvāttathoktaṃ brahmaṇā purā ।
+abhiprāyastvevameva jñātavyo nātra saṃśayaḥ ।।

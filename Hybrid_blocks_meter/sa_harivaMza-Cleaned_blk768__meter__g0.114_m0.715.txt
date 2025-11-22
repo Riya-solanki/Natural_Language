@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 768 | label: meter | g:0.114 m:0.715 ---
+
+satyadharmabhṛtāṃ śreṣṭhā durvijñeyākṛtātmabhiḥ 
+yogā ca yogapatnī ca yogamātā tathaiva ca 
+yathā te kathitaṃ pūrvaṃ pitṛsargeṣu vai mayā ।।

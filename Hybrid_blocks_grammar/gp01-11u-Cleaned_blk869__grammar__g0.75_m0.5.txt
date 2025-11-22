@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 869 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca gatāsu tāsu kṣaṇaṃ kṛta-rodana-vinodaḥ, paścād bahala-khalaṃ praty udūkhala-nodanāya labdha-modaḥ sa tu baddha eva kevala-bāla-valitatayā prabalita-cāpala-śraddhas taiḥ saha prahasan khelann ulūkhalam etaṃ laghu laghu cālayām āsa, hārayāmāsa ca tair evolbaṇa-hāsatayā śulva-hāriṇīnāṃ labdha-śūnya-sādharmya-harmya-śreṇyā hāri-śikyita-nava-nava-nītādikam āhārayāmāsa ca । kintu, tat-karṣaṇa-maya-harṣa-prada-līlayā na ca kareṇa na cāpareṇa tad-uddāna-mocana-rocanatām avāpa ।

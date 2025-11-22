@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1893 | label: meter | g:0.29 m:0.696 ---
+
+pūrṇādi-nāṭaka-bhedānaṅgīkāraḥ-
+nāṭakasya tu pūrṇādi-bhedāḥ kecana kalpitāḥ । 
+teṣāṃ nātīva ramyatvād aparīkṣākṣamatvataḥ ।
+muninānādṛtatvāc ca tān uddeṣṭum udāsmahe ।।

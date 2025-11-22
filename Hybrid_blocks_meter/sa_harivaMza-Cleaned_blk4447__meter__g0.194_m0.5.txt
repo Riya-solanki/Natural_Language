@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4447 | label: meter | g:0.194 m:0.5 ---
+
+so ahaṃ pṛthivyā vākyena parvatān samupasthitaḥ 
+dhanyā bhanto dṛśyante bahvāścaryāś ca bhūdharāḥ ।।

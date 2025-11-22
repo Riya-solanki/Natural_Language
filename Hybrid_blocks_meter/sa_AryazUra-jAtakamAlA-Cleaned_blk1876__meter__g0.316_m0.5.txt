@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1876 | label: meter | g:0.316 m:0.5 ---
+
+suśiṣyavṛttyā śramaṇadvijeṣu pūrve guṇaprema yathā vicakruḥ ।
+nṛpāḥ svavṛttyā ca dayāṃ prajāsu kīrtikṣamaḥ sa tridivasya panthāḥ ।।

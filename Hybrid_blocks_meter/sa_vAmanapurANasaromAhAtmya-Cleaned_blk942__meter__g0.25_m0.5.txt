@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 942 | label: meter | g:0.25 m:0.5 ---
+
+pitṛṇāṃ tarpaṇaṃ yastu jale tasmin kariṣyati ।
+bindo bindau tu toyasya anantaphalabhāgbhavet ।।

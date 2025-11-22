@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 172 | label: hybrid | g:0.486 m:0.5 ---
+
+gambhīra rupa api vedana cetanā ca vijñāna saṃjña prakṛtī animittaśāntā 
+kāṇḍena gādha yatha sāgari eṣamāṇo prajñāya skandha vimṛṣitva alabdhagādhā ।।

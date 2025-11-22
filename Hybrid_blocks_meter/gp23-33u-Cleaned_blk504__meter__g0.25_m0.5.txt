@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 504 | label: meter | g:0.25 m:0.5 ---
+
+pratikṣaṇam amī guṇā hari-ramāsu vṛddhiṃ gatā
+dinaṃ dinam iti bruve kim iha sarvadaivaṃ sthite ।
+nave vayasi kiṃtarām iha ca tatra vā kiṃtamām
+ariṣṭa-śamanānta-niśy ajani yatra sā carcarī ।।

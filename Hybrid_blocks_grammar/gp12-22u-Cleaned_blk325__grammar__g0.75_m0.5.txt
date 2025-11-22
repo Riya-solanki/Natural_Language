@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 325 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha vṛndā tu, bhavatu yāthākathācaṃ । yad idam ācitam, tad ācitam eva । kintv āyatyāṃ sarva-sukha-samutthāpanaṃ bhavad-abhyutthānam eva gaty-antarāya bhavitā iti prārthya namaskṛtya ca calitā ।

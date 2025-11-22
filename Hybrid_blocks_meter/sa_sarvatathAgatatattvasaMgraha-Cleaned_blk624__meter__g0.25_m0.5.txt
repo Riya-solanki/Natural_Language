@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 624 | label: meter | g:0.25 m:0.5 ---
+
+athāsāṃ sarvamudrāṇāṃ bandhāditi karmāṇi bhavanti ।
+vajraveśaṃ samutpādya ātmanaśca parasya vā ।
+bandhayedvā bandhayedvāpi anena hṛdayena tu ।।

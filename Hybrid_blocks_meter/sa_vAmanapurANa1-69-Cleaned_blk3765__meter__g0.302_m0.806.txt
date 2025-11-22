@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3765 | label: meter | g:0.302 m:0.806 ---
+
+tatreśvaraguṇairyuktaṃ putramarthapateratha ।
+pāñcālikaṃ vaśī dṛṣṭvā prayāgaṃ parato yayau ।।

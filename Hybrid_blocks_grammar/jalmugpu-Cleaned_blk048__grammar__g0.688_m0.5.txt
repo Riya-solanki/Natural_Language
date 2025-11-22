@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 48 | label: grammar | g:0.688 m:0.5 ---
+
+vakroktyā prathamaṃ nirādaratayā paścāt tataḥ kena cid dātavyaṃ bahu tatra yāmi bhavatām bhūyo api nau saṃgamaḥ ।
+ity ukto api na budhyate khalu yadā rāgī daridro jaḍaś ceṭībhir bahubhāṣitair api tadā hastārgalair vāryate ।।

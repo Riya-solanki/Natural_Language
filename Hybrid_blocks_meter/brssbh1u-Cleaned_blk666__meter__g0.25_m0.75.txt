@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 666 | label: meter | g:0.25 m:0.75 ---
+
+FN vijñānaṃ buddhistanmayastatprāyaḥ ।
+prāṇeṣviti saptamī vyatirekārthā ।
+prāṇabuddhibhyāṃ bhinna ityarthaḥ ।

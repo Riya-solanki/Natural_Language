@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 919 | label: meter | g:0.306 m:0.5 ---
+
+mīnāvalīraśanayā saritopagūḍhaṃ snehād iva praṇayinaṃ priyayā prakāmam ।
+sarvartupuṣpaphaladaiḥ svajanair ivāntar bālapravālaharitais tarubhir niruddham ।।

@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 737 | label: meter | g:0.264 m:0.852 ---
+
+ityevamādāvātmaśabdaprayogādibhyo hetubhyaḥ ।
+tathāvyaktaśabdo api na vaidike prayoge pradhānamabhidhātumarhati ।
+ataśca nāsyānumānikasya śabdavattvam ।।

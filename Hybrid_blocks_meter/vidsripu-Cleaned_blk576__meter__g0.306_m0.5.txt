@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 576 | label: meter | g:0.306 m:0.5 ---
+
+prakaṭayati kṣaṇabhaṅgaṃ paśyati sarvaṃ jagad gataṃ śūnyam ।
+ācarati smṛtibāhyaṃ jātā sā bauddhabuddhir iva ।।

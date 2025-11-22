@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3033 | label: meter | g:0.307 m:0.623 ---
+
+triṇāciketastripadapratiṣṭhaḥ ṣaḍaṅgavit tvaṃ viṣayeṣvalubdhaḥ ।
+trailokyanātho asi punīhi śaṃbho dāso asmi bhītaḥ śaraṇāgataste ।।

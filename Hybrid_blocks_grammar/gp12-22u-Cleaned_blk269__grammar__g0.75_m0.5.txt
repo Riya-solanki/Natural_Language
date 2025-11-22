@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 269 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ sthagita-samullāse nikhile ca vrajāvāse vrajapaty-anumaty-anusāratas tāsāṃ pitaras tad-vitaram ācarituṃ ruciṃ vināpi bahir udyamam ācaritavantaḥ । [] tat kumāryas tv atibālya-caryā-paryākulatayā na kiñcid api cid-amatratāṃ ninyire ।

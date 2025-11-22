@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 806 | label: grammar | g:0.572 m:0.379 ---
+
+prauḍhānaṅgarasāvilākulamanāṅnyañcattiroghūrṇita- snigdhāhlādi madāndham adhvani tayā yac cakṣur āndolitam ।
+tenāsmākam iyaṃ gatir matir iyaṃ saṃvittir evaṃvidhā tāpo ayaṃ tanur īdṛśī sthitir iyaṃ tasyā apīti śrutiḥ ।।
+vallaṇasya

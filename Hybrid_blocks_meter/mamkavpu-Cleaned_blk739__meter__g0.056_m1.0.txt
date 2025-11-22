@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 739 | label: meter | g:0.056 m:1.0 ---
+
+{aprākṛtasya caritātiśayaiśca dṛṣṭai-
+ratyadbhutairapahṛtasya tathāpi nāsthā ।
+ko apyeṣa vīraśiśukākṛtiraprameya-
+saundaryasārasamudāyamayaḥ padārthaḥ ।।}

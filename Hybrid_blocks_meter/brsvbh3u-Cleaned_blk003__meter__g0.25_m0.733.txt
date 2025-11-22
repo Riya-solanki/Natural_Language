@@ -1,0 +1,11 @@
+--- source: brsvbh3u-Cleaned.txt | block: 3 | label: meter | g:0.25 m:0.733 ---
+
+āhaṅkārikatvātkaraṇānāmahaṅkārasya ca jaganmaṇḍalavyāpitvātkaraṇānāmapi vyāpitetyarthaḥ ।
+bauddhānāṃ kalpanāmāha-kevalasyaivātmana iti ।
+ālayavijñānasaṃtāna ātmā tasya vṛttiḥ ṣaṭ pravṛttivijñānāni ।
+pañcendriyāṇi tu cakṣurādīni abhinavāni jāyante ।
+kaṇabhukklpanāmāha-mana eva ceti ।
+bhogasthānaṃ bhogāyatanaṃ śarīramabhinavamiti yāvat ।
+digambarakalpanāmāha-jīva evotplutyeti ।
+ādigrahaṇena lokāyatikānāṃ kalpanāṃ saṃgṛhṇāti ।
+te hi śarīrātmavādino bhasmībhāvamātmana āhurna kasyacidgamanamiti ।।

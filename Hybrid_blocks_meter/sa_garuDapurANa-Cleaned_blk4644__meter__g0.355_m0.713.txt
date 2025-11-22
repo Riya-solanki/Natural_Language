@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4644 | label: meter | g:0.355 m:0.713 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+udarāṇāṃ nidānañca vakṣye suśruta tacchṛṇu ।
+rogāḥ sarve api mandāgnau sutarāmudarāṇi tu ।।

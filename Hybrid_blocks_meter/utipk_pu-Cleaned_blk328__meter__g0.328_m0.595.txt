@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 328 | label: meter | g:0.328 m:0.595 ---
+
+bhinnavedyaprathātraiva māyākhyaṃ janmabhogadam ।
+kartary abodhe kārmaṃ tu māyāśaktyaiva tat trayam ।।

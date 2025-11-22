@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 809 | label: grammar | g:0.75 m:0.5 ---
+
+[] indra uvāca-lakṣayāmi । mayā pūrvaṃ chinna-pakṣatir apy asau punaḥ kiṃ sa-pakṣaḥ sampannaḥ, yata eva garvavān sa parvataḥ sarvatas teṣām akṣayāya pakṣapātam ācacāra? bhavatu nāma, tam enaṃ punar nihrādi-hrādinī-vahni-prahāreṇa saṃhāre yojayāmi, yena tadīya-tale valamānatayā labdhāvalepās te' pi tūrṇam eva cūrṇatām āsādayanti iti ।

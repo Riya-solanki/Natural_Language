@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1174 | label: hybrid | g:0.51 m:0.5 ---
+
+karṇāhativyatikaraṃ kariṇāṃ vipakṣa- dānaṃ vyavasyati madhuvrata eṣa tiktam ।
+smartavyatām upagateṣu saroruheṣu dhig jīvitavyasanam asya malīmasasya ।।

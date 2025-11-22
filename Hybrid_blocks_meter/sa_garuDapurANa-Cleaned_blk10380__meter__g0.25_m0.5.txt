@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10380 | label: meter | g:0.25 m:0.5 ---
+
+satyānāṃ śṛṇu nāmāni droṇaḥ prāṇo dhruvastathā ।
+arke doṣastathā vaskaḥ saptamastu vibhāvasuḥ ।।

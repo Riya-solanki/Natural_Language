@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1096 | label: meter | g:0.131 m:0.522 ---
+
+dhvastāyāṃ pravṛttau pravṛtteḥ phalaṃ na kāraṇamantareṇotpattamarhati
+na khalu vai vinaṣṭāt kāraṇāt kiñcidutpadyate
+iti ।।

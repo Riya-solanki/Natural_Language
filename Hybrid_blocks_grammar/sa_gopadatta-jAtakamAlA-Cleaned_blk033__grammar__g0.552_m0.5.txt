@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 33 | label: grammar | g:0.552 m:0.5 ---
+
+vinayadhīram idaṃ ca vapus tava smitam idaṃ ca bhadanta vidhāryate ।
+calati buddhir iyaṃ pavanāhatā vanalateva kim atra nu kāraṇam ।।

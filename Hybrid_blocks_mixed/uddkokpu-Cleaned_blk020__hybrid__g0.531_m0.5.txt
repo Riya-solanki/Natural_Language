@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 20 | label: hybrid | g:0.531 m:0.5 ---
+
+spaṣṭālakṣyastvayi pika samālambamāne ambarāntaṃ kāñcīdeśaḥ kimapi vasudhāṃ bhūṣayan gauraveṇa ।
+tatsaundaryāpahṛtahṛdayo mā vilambasva gantuṃ bandhutrāṇād bahumatipadaṃ nāparaṃ tvadvidhānām ।।

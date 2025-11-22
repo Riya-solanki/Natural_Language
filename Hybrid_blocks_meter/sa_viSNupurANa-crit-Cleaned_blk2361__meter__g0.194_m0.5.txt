@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2361 | label: meter | g:0.194 m:0.5 ---
+
+dṛṣṭvā nidāghaṃ sa ṛbhur upagamyābhivādya ca 
+uvāca kasmād ekānte sthīyate bhavatā dvija ।।

@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 191 | label: meter | g:0.25 m:0.75 ---
+
+bhogasādhanamākṣipya kṛtvā kāraṇasaṃśrayam ।
+tac ca sātmakamākramya viśramāyāvatiṣṭhate ।।
+bhavināṃ bhavakhinnānāṃ sarvabhūtahito yataḥ ।

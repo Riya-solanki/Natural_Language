@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 67 | label: grammar | g:0.573 m:0.5 ---
+
+kṛtvā mayā tava nutiṃ jagadekabandho bhaktyā svabuddhisadṛśīm avadhūtanāmna ।
+puṇyaṃ yad alpam api kiṃcid upāttam atra lokasya tena bhagavaṃs tvayi bhaktir astu ।।

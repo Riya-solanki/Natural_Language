@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 51 | label: grammar | g:0.67 m:0.375 ---
+
+athānantaraṃ teṣāṃ madhyād aiśvaryādiguṇayogāt bhagavān vividhaśāstrābhyāsādhivāsapraśasyavāgyuktatvāc ca vāgmī praṣṭavyāvasareṣu akauśalāpratipattyādyayogāt pragalbhaś ca bharadvājo munir nyāyata iti nyāyena śiṣyocitayā nītyā yuktyupapannapūrvapakṣakaraṇena vā indram apṛcchad iti ।। 
+āha ।।

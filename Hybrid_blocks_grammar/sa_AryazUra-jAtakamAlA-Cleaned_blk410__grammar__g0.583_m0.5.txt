@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 410 | label: grammar | g:0.583 m:0.5 ---
+
+īdṛśo asmākaṃ svastyayanaviśeṣaḥ । ityuktvā sāmarṣavismayastān yakṣānavekṣamāṇaḥ punaruvāca - āścaryaṃ batedam ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11245 | label: hybrid | g:0.531 m:0.5 ---
+
+teṣāṃ janma svasthamāhurmahānto mahatphalaṃ cāsti tathaiva teṣām ।
+soṣṇīṣakañcukayutāśca hareḥ kathāṃ vai śṛṇvanti yepi ca paṭhanti sadaiva martyāḥ ।।

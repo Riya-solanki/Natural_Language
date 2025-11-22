@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 285 | label: hybrid | g:0.486 m:0.5 ---
+
+dhyāne sthito atra bhavatī varaprajñalābhī ārūpyarūpi ca samādhi catasra śreṣṭhā 
+upakāribhūta imi dhyāna varāgrabodhau na punāsravakṣati sa śikṣati bodhisattvo ।।

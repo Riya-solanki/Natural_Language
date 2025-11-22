@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9502 | label: hybrid | g:0.398 m:0.5 ---
+
+dāha statra na kartavyo vipradisarvajātiṣu ।
+dīyate na jalaṃ tatra aśubhaṃ jāyate dhruvam ।
+lokayātrā na kartavyā duḥ khārtaḥ svajano yadi ।।

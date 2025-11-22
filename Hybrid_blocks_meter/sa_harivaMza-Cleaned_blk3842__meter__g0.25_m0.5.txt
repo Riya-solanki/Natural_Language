@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3842 | label: meter | g:0.25 m:0.5 ---
+
+yādavānāṃ kulakarān sthavirān daśa tatra vai 
+uddhavo vasudevaś ca kaṅko vipṛthur eva ca । 
+śvaphalkaś citrakaś caiva gadaḥ satyaka eva ca । 
+baladevaḥ pṛthuś caivaṃ matreśv abhyantarā daśa । 
+sthāpayām āsa matimān sarvakāryeṣv anantarān ।।

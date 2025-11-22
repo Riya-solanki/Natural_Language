@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9087 | label: meter | g:0.25 m:0.5 ---
+
+poṣyavarge tathā strīṣu dānaṃ deyamakalpitam ।
+āture voparāge ca dvayaṃ dānaṃ viśiṣyate ।
+āture dīyate dānaṃ tatkāle copatiṣṭhati ।।

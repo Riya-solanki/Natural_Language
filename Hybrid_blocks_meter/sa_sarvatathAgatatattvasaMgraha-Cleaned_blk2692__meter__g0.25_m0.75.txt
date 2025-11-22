@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2692 | label: meter | g:0.25 m:0.75 ---
+
+atha karmamudrottamasiddhitantraṃ bhavati ।
+sarvasya sarvaśuddhitvātsarvakarmāṇi śodhayan ।
+buddhasauritvamāpnoti na cetsiddhiryathoparī- ।।

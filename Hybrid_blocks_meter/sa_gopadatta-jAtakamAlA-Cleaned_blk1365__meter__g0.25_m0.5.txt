@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1365 | label: meter | g:0.25 m:0.5 ---
+
+kṛpālo duḥkhitān asmān parityajya kva yāsyasi ।
+viṣamasthān iva pitā vatsalo bālaputrakān ।।

@@ -1,0 +1,6 @@
+--- source: brsvbh2u-Cleaned.txt | block: 128 | label: meter | g:0.345 m:0.57 ---
+
+sāmānyamupādānaṃ, tacca nityam ।
+naca tatsaṃyogasacivamekatvāt, saṃyogasya dviṣṭhatvenaikasminnabhāvāt ।
+tasmātsāmānyasya paramārthasato anirvācyā viśeṣāvasthāstadadhiṣṭhānā bhujaṅgādaya iva rajjvādyupādānāṃ upajanāpāyadharmāṇa iti sāṃpratam ।
+prakṛtamupasaṃharati-tasmāditi ।।

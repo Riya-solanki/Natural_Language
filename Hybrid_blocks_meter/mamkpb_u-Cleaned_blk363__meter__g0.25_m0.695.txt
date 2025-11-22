@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 363 | label: meter | g:0.25 m:0.695 ---
+
+heturūpakriyāyāḥ, niṣedhe api tatphalaprakāśanaṃ vibhāvanā ।
+yathā kusumitalatābhirahatāpyadhatta rujamalikulairadaṣṭāpi ।
+parivartate sma nalinīlaharībhiralolitāpyaghūrṇata sā ।।

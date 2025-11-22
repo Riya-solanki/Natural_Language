@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 294 | label: grammar | g:0.729 m:0.5 ---
+
+santi ca punarbhagavanto dhārmikāḥ sattvāḥ sarvatathāgataśīlasamādhiprajñottamasiddhyupāyairbuddhabodhiṃ prārthayanto dhyānavimokṣādibhirbhūmibhiryantaḥ kliśyante । teṣāmatraiva vajradhātumahāmaṇḍalapraveśamātreṇaiva sarvatathāgatatvamapi na durlabham, kimaṅgā punaranyā siddhiriti ।।

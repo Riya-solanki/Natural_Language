@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 466 | label: grammar | g:0.75 m:0.5 ---
+
+[vratino jaṭilā muṇḍāḥ] vratināmapi dvau bhedau jaṭitvaṃ muṇḍitā ca।jaṭilo api vakṣyamāṇabhautikanaiṣṭhikabhedād dvividhaḥ। [teṣu] sarveṣu caiteṣu madhyād [agryāḥ] brāhmaṇāḥ [bhasmapāṇḍarāḥ] bhasmoddhūlitasarvāṅgāḥ। [bhūmipādayaḥ tilakaiḥ puṇḍrakaiḥ paṭṭaiḥ bhūṣitāḥ] kṣatriyāstilakālaṃkṛtatanavaḥ। vaiśyāstripuṇḍrakamaṇḍitāḥ। śūdrāstu paṭṭākṛtinā bhasmoddhūlanena bhūṣitāḥ syuriti śeṣaḥ।।

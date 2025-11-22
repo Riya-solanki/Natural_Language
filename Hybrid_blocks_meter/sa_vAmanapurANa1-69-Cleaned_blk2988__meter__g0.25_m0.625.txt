@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2988 | label: meter | g:0.25 m:0.625 ---
+
+śātyantāmasya turāgāḥ samaṃ rathakuṭumbinā ।
+bhajyatāṃ syandanaścāpi virathaḥ kriyatāṃ ripuḥ ।।

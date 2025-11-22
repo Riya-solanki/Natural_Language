@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1478 | label: meter | g:0.306 m:0.5 ---
+
+tasmāddharmaṃ tvaṃ puraskṛtya nityaṃ śreyaḥprāptau yuktacetāḥ prajānām ।
+rāgadveṣonmuktayā daṇḍanītyā rakṣaṃllokānātmano rakṣa lokān ।।

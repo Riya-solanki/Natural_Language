@@ -1,0 +1,12 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 449 | label: meter | g:0.25 m:0.5 ---
+
+saṃbhūtasya tu dāyādaḥ sudhanvā ripumardanaḥ 
+sudhanvanaḥ sutaś cāpi viṣṇuvṛddhir iti smṛtaḥ । 
+viṣṇuvṛddhā iti khyātās tasya vaṃśyā narādhipāḥ । 
+ete tv aṅgirasaḥ pakṣe kṣetropetā dvijātayaḥ ।। 
+saṃbhūtasyāparaḥ putro anaraṇyo mahāyaśāḥ । 
+rāvaṇena hato yo asau trilokajayinā purā ।। 
+trasadaśvo naras tasya haryaśvas tasya cātmajaḥ । 
+haryaśvasya dṛṣadvatyāṃ jajñe sumanasaḥ sutaḥ ।। 
+tasya putro abhavad rājā sudhanvā ripumardanaḥ । 
+sudhanvanaḥ sutaś cāpi tridhanvā nāma pārthivaḥ ।।

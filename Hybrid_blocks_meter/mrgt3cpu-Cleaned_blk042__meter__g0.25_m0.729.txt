@@ -1,0 +1,6 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 42 | label: meter | g:0.25 m:0.729 ---
+
+maheśaśaktinunnānāṃ guruḥ kuryādanugraham ।
+parīkṣābhiḥ parijñāya vṛddhoktābhiḥ prayatnavān ।
+akṛtvā śivabhaktānāṃ kṛtvā ca vyabhicāriṇām ।
+prāyaścittī bhavedyasmāt kuryādyatnamataḥ param ।

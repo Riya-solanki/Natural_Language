@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 236 | label: grammar | g:0.583 m:0.5 ---
+
+nanu asarvaṃ khalvidaṃ brahma' iti svaśabdenaiva brahmopāttaṃ, kathamiha śārīra ātmopāsya āśaṅkyate ।

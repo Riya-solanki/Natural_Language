@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 777 | label: meter | g:0.25 m:0.625 ---
+
+dhanadhānyapriyairyukto bhavate nātra saṃsayaḥ ।
+durgātīrthaṃ tato gacched durgayā sevitaṃ mahat ।।

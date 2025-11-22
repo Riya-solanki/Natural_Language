@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4046 | label: hybrid | g:0.265 m:0.493 ---
+
+surāḥ samastāḥ suranātha kāryam ebhir mayā yac ca tad īśa sarvam 
+ājñāpayājñāṃ paripālayantas tathaiva tiṣṭhāma sadāstadoṣāḥ ।।

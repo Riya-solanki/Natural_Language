@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 792 | label: meter | g:0.25 m:0.625 ---
+
+pratiśrutkopamānuktvā sarvadharmā svabhāvataḥ ।
+anayā dharmapūjayā saṃpūjya svaratāṃ labhet ।।

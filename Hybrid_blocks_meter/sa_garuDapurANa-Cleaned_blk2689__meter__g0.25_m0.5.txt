@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2689 | label: meter | g:0.25 m:0.5 ---
+
+ahanyekādaśe nāma caturthe māsi niṣkramaḥ ।
+ṣaṣṭhe annaprāśanaṃ māsi cūḍāṃ kuryādyathākulam ।।

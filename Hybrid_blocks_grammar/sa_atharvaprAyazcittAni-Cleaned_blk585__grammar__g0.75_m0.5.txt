@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 585 | label: grammar | g:0.75 m:0.5 ---
+
+dohanaprabhṛtyā homa skandet samudraṃ tvā prahiṇomi ity apo ninīyaud uttamam ity abhimantryaud uttamaṃ mumugdhi naḥ ud uttamam varuṇa iti vāruṇy ājyāhutīr juhuyāt ।

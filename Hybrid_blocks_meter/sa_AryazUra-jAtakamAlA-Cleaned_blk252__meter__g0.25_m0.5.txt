@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 252 | label: meter | g:0.25 m:0.5 ---
+
+yataḥ pradānairabhivarṣa yācakān hradān mahāmegha ivābhipūrayan ।
+dhanakṣayaṃ nāpsyasi matparigrahādidaṃ kṣamethāśca viceṣṭitaṃ mama ।।

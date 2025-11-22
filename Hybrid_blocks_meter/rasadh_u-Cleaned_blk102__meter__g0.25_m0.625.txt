@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 102 | label: meter | g:0.25 m:0.625 ---
+
+svarṇasyotpādanārthaṃ ca jāryaḥ śuddho hi gandhakaḥ ।।
+yathā ayaḥprakāśarājirjāraṇā tathā hemarājerapi jāraṇā jñeyā ।।
+pāradādaṣṭaguṇā ca śeṣaṃ spaṣṭam ।।
+iti jīrṇāyaḥprakāśakarājisūtasya hemarājijāraṇaṃ caturtham ।।

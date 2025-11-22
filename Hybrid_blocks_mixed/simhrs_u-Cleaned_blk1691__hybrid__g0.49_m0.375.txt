@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1691 | label: hybrid | g:0.49 m:0.375 ---
+
+atha garhaṇam-
+yatra saṅkīrtayan doṣān guṇam arthena darśayet । guṇān vā kīrtayan doṣān darśayed garhaṇaṃ tu tat ।।

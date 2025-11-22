@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 945 | label: meter | g:0.25 m:0.5 ---
+
+sa tāsu janayām āsa putrikāsu sanāmakān 
+daśa putrān mahātmānas tapasy ugre ratān sadā ।।

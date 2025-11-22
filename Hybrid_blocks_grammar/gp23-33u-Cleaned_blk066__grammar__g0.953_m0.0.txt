@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 66 | label: grammar | g:0.953 m:0.0 ---
+
+te sarve strītvam āpannāh samudbhūtāś ca gokule ।
+hariṃ samprāpya kāmena tato muktā bhavārṇavāt ।।iti ।
+[] kintu, nāsūyan khalu kṛṣṇaya [BhP ] ity ukta-diśā tadīyās tu na tad ūhitum īśāmāsur iti jñeyam । yac ca jighāmsayāpi haraye stanaṃ dattvāpi sad-gatim [BhP ] ity asya sadṛśena tam eva paramātmānaṃ jāra-buddhyāpi ity ādinā sādhanasya nikarṣa-rūpam aper abhidheyaṃ phalasya tu sarvottama-rūpatvaṃ pratipadyate ।

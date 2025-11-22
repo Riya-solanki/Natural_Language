@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 811 | label: meter | g:0.25 m:0.625 ---
+
+prasiddheranurodhena sādṛśyaṃ yatra dharmataḥ ।
+pratītaṃ kathitaṃ vā syādarthayorupamā hi sā ।।

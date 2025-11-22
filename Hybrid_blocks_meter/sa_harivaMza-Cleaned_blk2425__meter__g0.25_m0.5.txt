@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2425 | label: meter | g:0.25 m:0.5 ---
+
+nabhasya ca nabhaś cakṣur na bhāty eṣa nabhaścaraḥ 
+meghaiḥ śītātapakaro viraśmir iva raśmimān ।।

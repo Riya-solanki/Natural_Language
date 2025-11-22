@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 620 | label: meter | g:0.29 m:0.679 ---
+
+lomaharṣaṇa uvāca
+kaśyapasya suto jajñe mānaso maṅkaṇomuniḥ ।
+snānaṃ kartuṃ vyavasito gṛhītvā valkalaṃ dvijaḥ ।।

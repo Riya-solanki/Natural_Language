@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6106 | label: meter | g:0.194 m:0.625 ---
+
+andhakārīkṛte loke naṣṭe sthāvarajaṅgame 
+varṣanti te mahāmeghā varṣāṇām adhikaṃ śatam ।।

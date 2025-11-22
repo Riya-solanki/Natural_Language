@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 905 | label: grammar | g:0.583 m:0.5 ---
+
+atra nāyakāvayavinaḥ kuvalayasya candratayā rūpaṇena śabdaprādhānyamuktaśliṣṭaviśeṣaṇa viśeṣādarthasya prādhānyamiti kevalā nāmedamubhayapradhānaṃ rūpakam ।

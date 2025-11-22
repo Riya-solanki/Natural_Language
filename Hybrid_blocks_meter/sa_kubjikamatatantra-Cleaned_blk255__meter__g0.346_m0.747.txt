@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 255 | label: meter | g:0.346 m:0.747 ---
+
+śarīraṃ dravyavijñānaṃ vastravāhanabhūṣaṇam 
+gurvarthaṃ dhārayed yas tu sa vai saṃskāram arhati ।।

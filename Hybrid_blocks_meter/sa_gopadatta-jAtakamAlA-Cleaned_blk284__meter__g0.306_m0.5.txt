@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 284 | label: meter | g:0.306 m:0.5 ---
+
+putra mā sāhasaṃ kārṣīr mayy eva praharatv ayam ।
+mṛtayāpi mayā kiṃ syāj jarayāpītasārayā ।।

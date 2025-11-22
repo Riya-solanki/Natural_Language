@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2901 | label: meter | g:0.371 m:0.714 ---
+
+haviṣyānnena vai māsaṃ pāyasena tu vatsaram ।
+mātsyahāriṇakaurabhraśākunacchāgapārṣataiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3449 | label: grammar | g:0.562 m:0.5 ---
+
+kiṃ jīvitena dhanamānavivarjitena mitreṇa kiṃ bhavati bhītisaśaṅkitena ।
+siṃhavrataṃ carata gacchata mā viṣādaṃ kāko api jīvati ciraṃ ca baliṃ ca bhuṅkte ।।

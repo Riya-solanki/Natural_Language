@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1843 | label: meter | g:0.194 m:0.625 ---
+
+krodhādāv ekarudrāntaṃ skandhādau cāṅgulāvadhim 
+dakṣiṇe vāmato apy evaṃ kūrmādau śarmakāvadhim ।।

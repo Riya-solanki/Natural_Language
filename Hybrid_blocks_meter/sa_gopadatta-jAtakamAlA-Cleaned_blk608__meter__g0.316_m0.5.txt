@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 608 | label: meter | g:0.316 m:0.5 ---
+
+eṣo aham ity ucita eva manovidāhī satkāyadarśanamayaḥ puruṣasya kīlaḥ ।
+janmādhvani bhramayatīdam anādimadhyaṃ saṃsāracakram aparigraham apraśāntam ।।

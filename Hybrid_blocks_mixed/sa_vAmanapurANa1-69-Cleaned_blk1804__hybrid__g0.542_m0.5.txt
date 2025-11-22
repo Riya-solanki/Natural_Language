@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1804 | label: hybrid | g:0.542 m:0.5 ---
+
+namo astu vārāhi sadā dharādhare tvāṃ nārasiṃhi praṇatā namo asuta te ।
+namo astu nārasiṃhi praṇatā namo astu te ।
+namo astu te vajradhare gajadhvaje namo asuta kaumāri mayūravāhini ।।

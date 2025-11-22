@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3965 | label: meter | g:0.194 m:0.625 ---
+
+samudrāvaraṇaṃ yāti manmaṇḍalam atho vaśam 
+kiyad ātmajayād etan muktir ātmajaye phalam ।।

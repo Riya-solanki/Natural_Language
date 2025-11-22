@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3871 | label: grammar | g:0.75 m:0.5 ---
+
+bharatasya patnitraye nava putrā babhūvuḥ । naite mamānurūpā ity abhihitās tanmātaro jaghnuḥ parityāgabhayāt । tato asya vitathe putrajanmani putrārthino marutsomayājino dīrghatamasā pārṣṇyapāstabṛhaspativīryād utathyapatnīmamatāsamutpanno bharadvājākhyaḥ putro marudbhir dattaḥ ।।

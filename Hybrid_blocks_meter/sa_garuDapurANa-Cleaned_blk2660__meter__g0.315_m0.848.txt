@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2660 | label: meter | g:0.315 m:0.848 ---
+
+śrīgaruḍamahāpurāṇam- 
+rudrauvāca ।
+viṣṇordhyānaṃ punarbrūhi śaṅkhacakragadādhara ।
+yena vijñātamātreṇa kṛtakṛtyo bhavennaraḥ ।।

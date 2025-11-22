@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 431 | label: grammar | g:0.75 m:0.5 ---
+
+bhūdharayantre śarāvasampuṭe jīrṇaṃ gandhakaṃ rasaṃ kṣiptvā dvātriṃśattamena manaḥśilāsattvaṃ ca kṣiptvā mukhe koḍīyakaṃ dattvā karpaṭamṛttikayā ca liptvā haṭhāgniṃ jvālayet jīrṇe ca manaḥśilāsattve punardvātriṃśattamena bhāgena tasya kṣepaḥ ।।

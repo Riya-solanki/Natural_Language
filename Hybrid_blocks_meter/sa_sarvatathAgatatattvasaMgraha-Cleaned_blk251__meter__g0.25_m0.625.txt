@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 251 | label: meter | g:0.25 m:0.625 ---
+
+vajrakarma suvajrājñā karmavajra susarvaga ।
+vajrāmogha mahodārya vajraviśva namo astu te ।।

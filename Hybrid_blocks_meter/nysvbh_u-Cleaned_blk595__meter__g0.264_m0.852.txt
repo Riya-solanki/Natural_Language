@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 595 | label: meter | g:0.264 m:0.852 ---
+
+jāterabhivyaktiḥ ākṛtivyaktī apekṣate ।
+nāgṛhyamāṇāyāmākṛtau vyaktau jātimātraṃ
+śuddhaṃ gṛhyate tasmānna jātiḥ padārtha iti ।।

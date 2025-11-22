@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 884 | label: meter | g:0.194 m:0.625 ---
+
+sūkṣmo apy evam anādaro bhagavati prābandhikīṃ vyāpadaṃ
+yat sarvāyatanopatāpavirasām ākarṣati prāṇinām ।
+sarvotkarṣadaśāvasānamahatīṃ kām apy anāyāsinīṃ
+prāptaḥ śāntim apuṇyarāśir asatāṃ tasmāt sa sattvottamaḥ ।।

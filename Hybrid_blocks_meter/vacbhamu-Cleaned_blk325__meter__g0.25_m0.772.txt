@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 325 | label: meter | g:0.25 m:0.772 ---
+
+tanniṣṭhasya mokṣopadeśāditi ।
+śaṅkottaratvena vā svātantryeṇa vā pradhānanirākaraṇārthaṃ sūtram ।
+śaṅkā ca bhāṣye uktā ।।

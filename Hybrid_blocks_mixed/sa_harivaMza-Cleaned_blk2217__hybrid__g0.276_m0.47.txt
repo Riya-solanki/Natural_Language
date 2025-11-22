@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2217 | label: hybrid | g:0.276 m:0.47 ---
+
+evaṃ tu tāṃ samādiśya gato antardhānam īśvaraḥ 
+sā cāpi taṃ namaskṛtya tathāstv iti vinirgatā ।। 
+yaś caitat paṭhate stotraṃ śṛṇuyād vāpy abhīkṣṇaśaḥ । sarvārthasiddhiṃ labhate naro nāsty atra saṃśayaḥ । 
+kṛte garbhavidhāne tu devakī devatopamā 
+jagrāha sapta tān garbhān yathāvat samudāhṛtān ।।

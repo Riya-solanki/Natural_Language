@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10335 | label: meter | g:0.25 m:0.5 ---
+
+tatsarvaṃ ca militvaiva tveko bhāgastu kīrtitaḥ ।
+mūle rajasi yaccokto rajobhāgaḥ khageśvara ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 399 | label: meter | g:0.25 m:0.5 ---
+
+sa eṣa yauvanācāryaḥ siddhaye smarabhūbhujaḥ ।
+priyāyāṃ balim uddiśya tanoti stanamaṇḍalam ।।

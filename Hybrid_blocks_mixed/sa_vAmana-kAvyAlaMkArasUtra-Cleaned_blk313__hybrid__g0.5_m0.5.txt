@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 313 | label: hybrid | g:0.5 m:0.5 ---
+
+chāyeva sa tasyāḥ, puruṣa iva strī iti ।

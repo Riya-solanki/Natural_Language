@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 15 | label: hybrid | g:0.5 m:0.5 ---
+
+[] sannanda uvāca-sāmpratam evedaṃ, yataḥ sāmprataṃ tatra-bhavatā tatra śikṣā-maya-vīkṣā gāmbhīryam ācaryate । āvābhyāṃ tu kaumāra-kālīne' pi tasminn atiśālīne vidheyatayā paryālocituṃ na pāryate । [] pāśya paśya

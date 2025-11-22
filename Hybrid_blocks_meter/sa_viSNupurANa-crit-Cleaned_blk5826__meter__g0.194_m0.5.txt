@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5826 | label: meter | g:0.194 m:0.5 ---
+
+jātasya niyato mṛtyuḥ patanaṃ ca tathonnateḥ 
+viprayogāvasānaś ca saṃyogaḥ saṃcayāt kṣayaḥ ।।

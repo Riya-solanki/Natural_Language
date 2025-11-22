@@ -1,0 +1,7 @@
+--- source: tsc_simu-Cleaned.txt | block: 61 | label: hybrid | g:0.476 m:0.5 ---
+
+tatra śabdatanamātramahaṃkārājjāyata iti vikṛtistasmādākāśaṃ jāyata iti śabdatanmātraṃ prakṛtiḥ ।
+tathā sparśatanmātramahaṃkārājjāyata iti vikṛtiḥ tadeva vāyuṃ janayatīti prakṛtiḥ ।
+evaṃ rūpatanmātramahaṃkārājjāyata iti vikṛtiḥ tadeva tejo janayatīti prakṛtiḥ ।
+rasatanmātramahaṅkārājjāyata iti vikṛtistadevāmbho janayatīti prakṛtiḥ ।
+tathā gandhatanmātramahaṃkārājjāyata iti vikṛtiḥ tadevāvaniṃ janayatīti prakṛtiḥ ।।

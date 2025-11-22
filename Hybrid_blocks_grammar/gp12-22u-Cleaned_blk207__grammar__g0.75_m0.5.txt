@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 207 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad etat paryantam udantaṃ samudantaḥ kathayitvā tatra ca kṛṣṇa-manaś-corīṇāṃ nava-kiśorīṇāṃ tan-mukha-vidhu-darśana-śāta-jāta-bhrū-bhaṅga-taraṅga-saṅgatānurāga-sāgara-garimāṇam anusmṛtya vismṛta-sarvendriya-kṛtyaḥ sa-bāṣpa-kaṇṭhaḥ snigdhakaṇṭhas tasyāṃ sabhāyāṃ muhūrta-dvayaṃ mūrta-bhāvam evāsasāda । [] śrīmad-vrajarājādayas tu tad-abhiprāya-jānānāḥ sadayatayā tadīya-sāntva-vidhaye sāvadhānā nānā-vidha-vidhānam ācarantaḥ sarva eva cintāturā babhūvuḥ ।

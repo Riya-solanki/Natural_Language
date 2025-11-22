@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 127 | label: hybrid | g:0.306 m:0.455 ---
+
+tacca sanmātraviṣayamiti kecit ।
+bhedasya vikalpavedyatvādagṛhīte ca bhede viśeṣāṇāmagrahaṇāt ।
+kiñcetarābhāvo bhedo pratyakṣeṇa grahītuṃ śakyate natarāṃ avikalpena ।
+ataśca neha nānāsti kiñcanetyādiniṣedhānāṃ pratyakṣavirodhābhāvāt ekamevādvitīyamityādiśrutibhiradvitīyam brahma siddham ।

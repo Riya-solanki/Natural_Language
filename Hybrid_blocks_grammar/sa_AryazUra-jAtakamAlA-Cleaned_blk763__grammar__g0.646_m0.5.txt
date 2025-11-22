@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 763 | label: grammar | g:0.646 m:0.5 ---
+
+atha tasyopādhyāyaḥ praharṣavismayākṣiptahṛdaya utthāyāsanātsampariṣvajyainamuvāca - sādhu sādhu putraka sādhu sādhu mahābrāhmaṇa pratirūpametatte praśamālaṅkṛtasyāsya medhāvikasya ।

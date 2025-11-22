@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8852 | label: meter | g:0.25 m:0.625 ---
+
+vṛṣotsargādikaṃ karma sapiṇḍīkaraṇaṃ vinā ।
+dvādaśe hani samprāpte kuryācchrāddhāni ṣoḍaśa ।।

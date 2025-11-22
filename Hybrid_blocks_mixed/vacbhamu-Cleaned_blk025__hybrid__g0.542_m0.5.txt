@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 25 | label: hybrid | g:0.542 m:0.5 ---
+
+vijñānālambanatve api ahaṃpratyayasya bhrāntatvaṃ tadavasthameva, tasya sthiravastunirbhāsatvādasthiratvācca vijñānānām ।
+etena asthūlo aham andho aham gacchāmi' ityādayo api adhyāsatayā vyākhyātāḥ ।

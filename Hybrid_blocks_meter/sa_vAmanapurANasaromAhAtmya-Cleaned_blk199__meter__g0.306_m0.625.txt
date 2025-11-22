@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 199 | label: meter | g:0.306 m:0.625 ---
+
+śocyo ahaṃ yasya me gehe jātastava pitādhamaḥ ।
+yasya tvamīdṛśaḥ putro devadevāvamānakaḥ ।।

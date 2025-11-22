@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1340 | label: meter | g:0.306 m:0.5 ---
+
+ādityāś ca tataḥ sādhyā viśve atha vasavas tathā 
+maruto apsarasaś caiva gandharvā brahmaviddvijāḥ । 
+ṛṣināgāḥ suparṇāś ca ye cānye apy evamādayaḥ । 
+śaraṇyaṃ śaraṇaṃ viṣṇum upatasthur mahābalam ।।

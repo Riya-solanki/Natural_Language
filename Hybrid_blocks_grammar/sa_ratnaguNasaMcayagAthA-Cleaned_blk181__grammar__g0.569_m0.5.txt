@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 181 | label: grammar | g:0.569 m:0.5 ---
+
+tailasya varti jvalitā prathame nipāte na ca dagdha varti asatā na vinā ya dagdhā 
+na hi arci paścimanipāta sa varti dagdhā asatā pi paścima na dahyati dīpavarti ।।

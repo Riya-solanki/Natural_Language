@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 352 | label: meter | g:0.194 m:0.625 ---
+
+pattrābhram abhracūrṇaṃ vā malanīguṇabhāvitam 
+taptena lohacūrṇena piṣṭiḥ syānmardane rase ।।

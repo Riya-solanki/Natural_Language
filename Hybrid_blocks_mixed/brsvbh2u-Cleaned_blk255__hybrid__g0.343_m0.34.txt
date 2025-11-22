@@ -1,0 +1,9 @@
+--- source: brsvbh2u-Cleaned.txt | block: 255 | label: hybrid | g:0.343 m:0.34 ---
+
+yadyabhyāse bhūyastvamarthasya bhavati nālpatvaṃ dūrata evopacaritatvaṃ, hanta bhoḥ pavanasya nityatvaprasaṅgaḥ ।
+avāyuścāntarikṣametadamṛtam'iti dvayoramṛtatvamuktvā punaḥ pavanasya viśeṣeṇāha-saiṣānastamitā devatā yadvāyuriti ।
+tasmādabhyāsānnāpekṣikaṃ vāyoramṛtatvamapi tvautpattikameveti prāptam ।
+tadidamuktaṃ bhāṣyakṛtā-astamayapratiṣedhādamṛtatvādiśravaṇācceti ।
+cena samuccayārthenābhyāso darśitaḥ ।
+evaṃ prāpta ucyate-ekavijñānena sarvavijñānapratijñānāt, pratijñāvākyārthasya prādhānyāt, tadupapādanārthatvācca vākyāntarāṇāṃ, teṣāmapi cādvaitapratipādakānāṃ mātariśvotpattikramapratipādakānāṃ bahulamupalabdheḥ, mukhyabhūyastvābhyāmamūṣāṃ śrutīnāṃ balīyastvāt, etadanurodhenāmṛtatvāstamayapratiṣedhāvāpekṣikatvena netavyāviti ।
+bhūyasīḥ śrutīrapekṣya dve api śrutī śabdamātramukte ।।

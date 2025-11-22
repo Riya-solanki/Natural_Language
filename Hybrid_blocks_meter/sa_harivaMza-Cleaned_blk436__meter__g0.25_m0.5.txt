@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 436 | label: meter | g:0.25 m:0.5 ---
+
+tasya vārimayaṃ vegam āpīya sa narādhipaḥ 
+yogī yogena vahniṃ ca śamayām āsa vāriṇā ।।

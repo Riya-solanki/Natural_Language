@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4933 | label: meter | g:0.25 m:0.625 ---
+
+vidāhakāle bhuktasya madhyāhne jaladātyaye ।
+grīṣmakāler'ddharātre api pittaṃ kupyati dehinaḥ ।।

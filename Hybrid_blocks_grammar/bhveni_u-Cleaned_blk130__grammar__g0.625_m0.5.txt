@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 130 | label: grammar | g:0.625 m:0.5 ---
+
+SktCh ayi yājñaseni pañcagrāmāḥ prārthyanta iti śrūyate । kasmādidānīmapi te keśā na saṃyamyante ।

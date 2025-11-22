@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 187 | label: hybrid | g:0.538 m:0.5 ---
+
+evaṃ carantu na ca manyati bodhisattvo ahu vyākṛto daśabalehi spṛśeya bodhim 
+na ca trāsu bodhi bhavate na ihāsti kiṃcid evaṃ carantu caratī sugatāna prajñām ।।

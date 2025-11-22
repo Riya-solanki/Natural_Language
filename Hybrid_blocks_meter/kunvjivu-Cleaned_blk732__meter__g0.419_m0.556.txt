@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 732 | label: meter | g:0.419 m:0.556 ---
+
+ityatra rasavadalaṅkārapratyākhyānamayuktam ।
+satyametat, kituṃ vipralambhaśṛṅgāra tā tatra nivāryate, śeṣasya punastattulyavṛttāntatayā rasavadalaṅkāratvamanivāryameva ।
+na cālaṅkārāntare sati rasavadapekṣānibandhanaḥ saṃsṛṣṭisaṃkaravyapadeśaprasaṅgaḥ pratyākhyeyatāṃ pratipadyate ।
+yathā

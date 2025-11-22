@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1064 | label: meter | g:0.25 m:0.555 ---
+
+oṃ hāṃ ātmatattvāya namaḥ ।
+oṃ hāṃ hīṃ hūṃ kṣaiṃ sarvatattvāya namaḥ ।
+kālātmanā tvayā deva yaddṛṣṭaṃ māmake vidhau ।।

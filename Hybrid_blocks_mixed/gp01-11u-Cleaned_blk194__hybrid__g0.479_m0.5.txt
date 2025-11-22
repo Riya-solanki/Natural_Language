@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 194 | label: hybrid | g:0.479 m:0.5 ---
+
+[] atha tasmāt taiḥ parivītaḥ pīta-vasanaḥ svāṅgana-praveśam aṅgīkurvan sadeśa-samavayaskābhiḥ samaṃ, jananyā jīva-nyāsa iva pratimayā labhyate sma । tatra ca,

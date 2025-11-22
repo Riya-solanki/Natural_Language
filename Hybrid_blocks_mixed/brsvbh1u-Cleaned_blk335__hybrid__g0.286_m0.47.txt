@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 335 | label: hybrid | g:0.286 m:0.47 ---
+
+mabhisaṃdhiḥ-puṃvākyanidarśanena hi bhūtārthatayā vedāntānāṃ sāpekṣatvamāśaṅkyate ।
+tatraivaṃ bhavān pṛṣṭo vyācaṣṭām, kiṃ puṃvākyānāṃ sāpekṣatā bhūtārthatvena, āho pauruṣeyatvena ।
+yadi bhūtārthatvena tataḥ pratyakṣā

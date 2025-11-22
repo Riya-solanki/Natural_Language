@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2913 | label: meter | g:0.25 m:0.5 ---
+
+upatiṣṭhanti ye saṃdhyāṃ na pūrvāṃ na ca paścimām 
+vrajanti te durātmānas tāmisraṃ narakaṃ nṛpa ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 60 | label: grammar | g:0.781 m:0.0 ---
+
+pūrvavarṇitaṃ cinmayaṃ viśeṣayannāha paramānandaikamayam ityādi ।।
+tadbrahma īdṛśaṃ jñeyaṃ paramānandaikamayamiti parama utkṛṣṭo asāv ānandaḥ paramānandaḥ sa eva eko advitīyas tātprācuryaṃ yasmiṃs tathoktaṃ punaḥ kiṃviśiṣṭaṃ paramaṃ jyotiḥsvabhāvaṃ paramaṃ yajjyotiḥ tatsvabhāvaḥ svarūpaṃ yasya tad aśarīratvātsvaprakāśitvācca punaḥ avikalpaṃ mithyājñānaśūnyaṃ punarvigalitasarvakleśaṃ vigalitā viśeṣeṇa dūrīkṛtāḥ sarvakleśāḥ duḥkhāni yasmāt tat svarūpatvāt punaḥ śāntaṃ śamamayaṃ punaḥ svayaṃvedyam anyena veditum aśakyam ātmanaiva vedyaṃ tasmānnāparo'stīti bhāvāt ।।

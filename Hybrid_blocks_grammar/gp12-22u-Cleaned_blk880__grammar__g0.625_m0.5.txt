@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 880 | label: grammar | g:0.625 m:0.5 ---
+
+[] tad evaṃ jambhabhedī sakhedī-bhavann avadhāya dhātāram eva gatvā saṅkocam amatvā svāparādham avadhārayāmāsa ।

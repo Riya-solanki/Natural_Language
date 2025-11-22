@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1649 | label: meter | g:0.194 m:0.625 ---
+
+jaye daśaśatākṣasya mayasya ca parājaye 
+dikṣu sarvāsu śuddhāsu pravṛtte dharmasaṃstare ।।

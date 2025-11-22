@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 719 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam adhunā sarvaṃ dhunānaḥ sāmbālam eva bālaṃ sura-vartmani vartayāṇi । kintu pūtanā nūtana-tanu-kalanayā, śakaṭaś ca śakaṭāviṣṭāmūrtatā-valanayā chalayitum iṣṭenāpy anena diṣṭāntam āpyate sma । tasmād ahaṃ tad-ubhayetara-vāta-rūpeṇa praviśāmi iti ।

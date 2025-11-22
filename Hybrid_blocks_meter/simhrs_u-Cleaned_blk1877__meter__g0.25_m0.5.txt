@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1877 | label: meter | g:0.25 m:0.5 ---
+
+nepathye-ayya kappura-caṃḍa esā miṭṭhā pabhāda-ṇiddā ।

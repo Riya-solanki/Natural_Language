@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2282 | label: meter | g:0.25 m:0.555 ---
+
+sa tatraikena pādena śakaṭaṃ paryavartayat 
+añjanena parikṣiptaṃ mukham unnamayan hariḥ । 
+nyubjaṃ payodharākāṅkṣī cakāra ca ruroda ca ।।

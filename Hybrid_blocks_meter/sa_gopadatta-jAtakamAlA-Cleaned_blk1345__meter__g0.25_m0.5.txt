@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1345 | label: meter | g:0.25 m:0.5 ---
+
+paraduḥkhakātarā devarājyam apy avadhīrayanti sādhavaḥ ।।

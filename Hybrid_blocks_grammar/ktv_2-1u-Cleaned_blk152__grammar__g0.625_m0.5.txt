@@ -1,0 +1,3 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 152 | label: grammar | g:0.625 m:0.5 ---
+
+yeṣām utpattau sve prayoge rūpopalabdhis tāni nāmāni tasmāt tebhyaḥ parākāṃkṣā bhūtatvāt sve prayoge ।।

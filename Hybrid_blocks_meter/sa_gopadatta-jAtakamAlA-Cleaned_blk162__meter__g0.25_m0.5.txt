@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 162 | label: meter | g:0.25 m:0.5 ---
+
+sakṛn martavye tvaṃ punar api ca mṛtyuṃ mṛgayase
+sphuṭaṃ dṛṣṭvālokaṃ tamasi vipule majjasi punaḥ ।
+śivaṃ labdhvā mārgaṃ kusṛtim upayāsi pratibhayāṃ
+bhavān yas tvaṃ vāñchasy amṛtapuram utsṛjya sulabham ।।

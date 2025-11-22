@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 64 | label: hybrid | g:0.39 m:0.376 ---
+
+prakṛtamanusarāmaḥ- pratijñātaṃ tāvaccodanaiva pramāṇaṃ sā ca pramāṇameveti ।
+nanu pratyakṣāderanyānapekṣaṃ prāmāṇyaṃ saṃbhavatīti tasyaiva dharme prāmāṇyaṃ, śabdasya tu sarvadaiva pramāṇāntarapramitaviṣayatvānna tadanapekṣaṃ prāmāṇyaṃ saṃbhavatīti ।
+ucyate ।
+pratyakṣaṃ tāvatsaṃyuktaviṣayatvena vidyamānopalambhanatvādbhaviṣyati dharme na samartham ।।

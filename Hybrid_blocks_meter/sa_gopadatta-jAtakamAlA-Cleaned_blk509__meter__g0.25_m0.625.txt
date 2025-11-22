@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 509 | label: meter | g:0.25 m:0.625 ---
+
+tataḥ sravannirjharavāricālinaḥ samīraṇollāsitapuṣpaśākhinaḥ ।
+nabhovicumbyāyataśṛṅgabāhavaś cakampire bhūmibhṛto hatā iva ।।

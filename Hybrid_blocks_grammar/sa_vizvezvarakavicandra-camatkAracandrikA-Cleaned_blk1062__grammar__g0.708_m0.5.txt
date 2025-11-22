@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1062 | label: grammar | g:0.708 m:0.5 ---
+
+atra rahobhaṅgabhīruṇā vidagdhasakhīvargeṇākrośanākarṇanādimiṣātsukhena nirgamopāyo abhihita iti so ayaṃ paryāyaḥ । evaṃ kāryamiṣataḥ kāraṇokte ravivakṣādayo asya bhedāḥ svayamunneyāḥ ।

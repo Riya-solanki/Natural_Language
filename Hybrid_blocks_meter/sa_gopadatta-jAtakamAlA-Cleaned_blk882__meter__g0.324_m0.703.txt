@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 882 | label: meter | g:0.324 m:0.703 ---
+
+kṛtvā cittapradoṣaṃ sakṛd api sugate prāptalokāvasāne
+yatrāvicchinnamaitrījalakalaśaśatakṣālitāntaḥprakope ।
+āsaṃsārāparāntaṃ jvaladanalaśikhāgarbhaparyantarandhraṃ
+gāhante avīcim ajñāḥ katham iva sa jino apuṇyarāśir na tuṅgaḥ ।।

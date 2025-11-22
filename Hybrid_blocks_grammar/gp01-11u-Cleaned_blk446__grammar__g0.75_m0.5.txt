@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 446 | label: grammar | g:0.75 m:0.5 ---
+
+[] atra ca snigdhakaṇṭhenāntaś cintitam - satyam evāha sma nūnaṃ athāham aṃśabhāgena [BhP ] iti hi māyāṃ prati śrī-bhagavad-vākyam ādiṣṭā prabhuṇāṃśena kāryārthe sambhaviṣyati [BhP ] iti ca devān prati brahma-vacanam । atra aṃśabhāgena caturbhuja-rūpeṇākāra-bhedeneti bhagavad-abhiprāyaḥ । kāryārthe tat-tan-mohanāya aṃśena sambhaviṣyati śrī-kṛṣṇasya dvibhuja-rūpeṇākāra-bhedena saha miliṣyati seti brahmaṇo' bhiprāyaḥ । tad evam eva hi vyākhyātam anyatra śrī-bhāgavata-tattvavidbhiḥ avatīrṇau jagaty-arthe svāṃśena bala-keśavau [BhP ] ity atra svāṃśena mūrti-bhedeneti ।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 812 | label: grammar | g:0.75 m:0.5 ---
+
+puṣṭinā puṣṭiṃ prāṇena prāṇaṃ tejasā tejaś cakṣuṣā cakṣuḥ śrotreṇa śrotram āyuṣāyuḥ punar dehi iti sakṛd etāni juhuyād brahmāṇi sūktāni ।।

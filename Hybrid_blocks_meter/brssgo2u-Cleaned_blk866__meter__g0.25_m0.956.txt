@@ -1,0 +1,8 @@
+--- source: brssgo2u-Cleaned.txt | block: 866 | label: meter | g:0.25 m:0.956 ---
+
+FN viśayaḥ saṃśayaḥ ।
+grahatvaṃ bandhakatvam ।
+gṛhṇanti badhnantīti grahā indriyāṇi ।
+atigrahāḥ grahānatikrāntā viṣayā ityarthaḥ ।
+avāñcau pāyūpasthau ।
+gateḥ avagateḥ ।

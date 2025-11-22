@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5088 | label: meter | g:0.29 m:0.747 ---
+
+kuśīlānāryabhūyiṣṭhaṃ vṛthārūpasamāvṛtam 
+puruṣālpaṃ bahustrīkaṃ tad yugāntasya lakṣaṇam ।।

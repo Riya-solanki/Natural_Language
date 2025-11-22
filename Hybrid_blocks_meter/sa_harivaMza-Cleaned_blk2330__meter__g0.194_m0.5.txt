@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2330 | label: meter | g:0.194 m:0.5 ---
+
+autpātikam idaṃ ghoṣe tṛtīyaṃ vartate tv iha 
+pūtanāyā nipātaś ca drumayoḥ śakaṭasya ca ।।

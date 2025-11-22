@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11277 | label: meter | g:0.25 m:0.5 ---
+
+madīyadoṣāngaṇayanna pūrṇa dayāṃ kuru tvaṃ suddhadāsyānmukunda ।
+yāvanti lomāni madīyagātre saṃti prabho sarvadorṣarvidūra ।।

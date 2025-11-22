@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1150 | label: meter | g:0.25 m:0.625 ---
+
+mithyāvikalpakṣaṇamātraramyāḥ svabhāvavāmāḥ suranātha kāmāḥ ।
+vivarjitāḥ sadbhir udāracittair mahāprapātā iva sāndhakārāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7710 | label: meter | g:0.306 m:0.5 ---
+
+ekacityārohaṇe ca ekāhni maraṇe tathā ।
+sāpiṇḍyantu striyā nāsti mṛte bhartuḥ striyo bhavet ।।

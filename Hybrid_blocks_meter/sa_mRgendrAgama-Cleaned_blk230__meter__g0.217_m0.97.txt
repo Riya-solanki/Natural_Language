@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 230 | label: meter | g:0.217 m:0.97 ---
+
+tattvāntaroktavṛttibhyo vailakṣaṇyādvilakṣaṇaḥ 
+saṃkalpo bījamabhyeti manastatpāriśeṣyataḥ ।।

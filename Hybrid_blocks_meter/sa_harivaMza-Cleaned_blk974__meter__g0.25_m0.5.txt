@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 974 | label: meter | g:0.25 m:0.5 ---
+
+upadānavī sutāṃl lebhe caturas tān suraughataḥ 
+tataś cotpādayām āsa caturaḥ purunandanān । 
+duḥṣantam atha suḥṣantaṃ pravīram anaghaṃ tathā ।।

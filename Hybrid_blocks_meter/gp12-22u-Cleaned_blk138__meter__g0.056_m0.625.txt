@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 138 | label: meter | g:0.056 m:0.625 ---
+
+daṇḍaṃ te vidadhatu ye sva-saṅga-mātrād
+duṣṭatvaṃ praśamayituṃ na śaknuvanti ।
+tvat-sparśāj jhaṭiti hrado' pi so' yam aujjhat
+kṣveḍatvaṃ balavad atīha naḥ samakṣam ।। [praharṣiṇī]

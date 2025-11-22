@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 639 | label: grammar | g:0.562 m:0.5 ---
+
+karṇāntasthitapadmarāgakalikāṃ bhūyaḥ samākarṣatā cañcvā dāḍimabījamityabhihatā pādena gaṇḍasthalī ।
+yenāsau tava tasya narmasuhṛdaḥ khedānmuhuḥ krandato niḥśaṅkaṃna śukasya kiṃ prativaco devi tvayā dīyate ।।

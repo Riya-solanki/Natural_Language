@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1524 | label: meter | g:0.194 m:0.5 ---
+
+sa vāyuḥ sarvabhūtāyur uddhataḥ svena tejasā 
+pravavau vyathayan daityān pratilomaḥ satoyadaḥ ।।

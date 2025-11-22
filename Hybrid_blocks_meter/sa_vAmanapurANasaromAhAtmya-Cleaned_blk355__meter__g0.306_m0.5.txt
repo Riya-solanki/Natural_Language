@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 355 | label: meter | g:0.306 m:0.5 ---
+
+oṅkārākṣarasaṃsthānaṃ yat tad devi sthirāsthiram ।
+tatra mātrātrayaṃ sarvamasti yad devi nāsti ca ।।

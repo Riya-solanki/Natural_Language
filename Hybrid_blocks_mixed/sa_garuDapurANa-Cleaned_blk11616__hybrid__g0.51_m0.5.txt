@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11616 | label: hybrid | g:0.51 m:0.5 ---
+
+sadā pitā mukhyapitā yadi syādgarbhasthabāle pālakaḥ ko vadasva ।
+mātāpitroḥ pālakatvaṃ yadi syātkūrmādīnāṃ pālakau kau vadasva ।।

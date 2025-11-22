@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1148 | label: hybrid | g:0.51 m:0.5 ---
+
+hiraṇyaretāḥ puruṣastvamekaḥ tvaṃ strī pumāṃstvaṃ hi napuṃsakaṃ ca ।
+bālo yuvā sthaviro devadaṃṣṭrā tvanno girirviśvakṛd viśvahartā ।।

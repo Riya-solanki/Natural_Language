@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3276 | label: grammar | g:0.654 m:0.224 ---
+
+tad gaccha gajam āruhya sāṅkuśaprāsatomaraḥ 
+sthiro bhava mahāmātra samājadvāri mā ciram ।। 
+samāgatau ca tau dṛṣṭvā jahi gopālakāv ubhau । 
+tasminn ahani nirvṛtte dvitīye samupasthite 
+saṃkīryata mahāraṅgaḥ paurair yuddhadidṛkṣubhiḥ ।। 
+rājabhir viṣayāntasthaiḥ pradhānapuruṣais tataḥ । nārībhir māthurīyābhiḥ śyāmābhiḥ saṃghasaṃsthitāḥ ।। pīnastanībhiḥ kaṃsasya tathā bilvapayodharaiḥ । aparākhaṇḍitābhis tu mañjarīsadṛśaiḥ stanaiḥ । bhrū dhanurdṛṣṭiviśikhaṃ nāsā jyā siñjati tataḥ । ghnanty ākṛṣya ca kṛṣṇaṃ tāḥ kaṃsena viniyojitāḥ ।। kandalīdaṇḍakāṇḍena badhvā taṃ mohapāśakaiḥ । nābhīhrade ca gambhīre kālayākhye parājite ।। kaṃsadhātrīsṛtāṃ snātvā dantaiś chinnastanīṃ tataḥ । pāṇibhyāṃ tatkucau gopo na samarthaḥ pradharṣitum ।। śakaṭasya ca bhaṅgaṃ sa yathā kāritavāñ śiśuḥ । asmākaṃ śakaṭībhaṅgaṃ yugmayoḥ kucayos tataḥ ।। ariṣṭaṃ hatavān yo ayaṃ kakudā sadṛśau stanau । ghātayiṣyati gopo ayaṃ mallābhyāṃ balavattaraḥ । 
+sacitrāṣṭāstricaraṇāḥ sārgaladvāravedikāḥ 
+sagavākṣārdhacandrāś ca satalottamabhūṣitāḥ ।।

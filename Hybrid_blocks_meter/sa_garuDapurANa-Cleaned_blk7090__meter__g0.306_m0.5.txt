@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7090 | label: meter | g:0.306 m:0.5 ---
+
+sattāvakalpanaṃ kāle na santi paramārthataḥ ।
+yathā rathādayaḥ svapne santo naiva ca satyataḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1334 | label: meter | g:0.25 m:0.5 ---
+
+durjanadūṣitamanasāṃ puṃsāṃ svajane api nāsti viśvāsaḥ ।
+bālaḥ pāyasadagdho dadhy api phūtkṛtya bhakṣayati ।।

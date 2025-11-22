@@ -1,0 +1,3 @@
+--- source: brssgo2u-Cleaned.txt | block: 685 | label: meter | g:0.0 m:1.0 ---
+
+ata uttaraṃ paṭhati-

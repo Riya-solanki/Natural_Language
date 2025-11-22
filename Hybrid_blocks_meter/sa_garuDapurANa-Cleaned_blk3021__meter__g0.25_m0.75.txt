@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3021 | label: meter | g:0.25 m:0.75 ---
+
+pañcagavyaṃ tu gokṣīraṃ dadhimūtraśakṛdghṛtam ।
+jagdhvā parehnyupavasetkṛcchraṃ sāntapanaṃ caret ।।

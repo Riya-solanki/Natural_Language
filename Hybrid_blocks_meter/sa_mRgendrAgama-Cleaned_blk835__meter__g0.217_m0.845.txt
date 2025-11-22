@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 835 | label: meter | g:0.217 m:0.845 ---
+
+sādhakāhnikavicchede sadyojātāyutaṃ japet 
+śataṃ vā saṃyataprāṇo vāsaraṃ mārutāśanaḥ ।।

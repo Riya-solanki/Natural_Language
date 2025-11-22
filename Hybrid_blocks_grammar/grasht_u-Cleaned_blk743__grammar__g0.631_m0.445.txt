@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 743 | label: grammar | g:0.631 m:0.445 ---
+
+sāraṇayantramāha kṛtvetyādi ।।
+prathamaṃ dīrghāṃ mūṣāṃ kṛtvā ca punaḥ tāṃ bandhitatribhāgapraṇālikāṃ bandhitā tribhāge praṇālikā yasyāḥ sā tāṃ ca kṛtvā tasyāgre yantrasyāgre praṇālikāyāṃ mūṣāntarityarthaḥ ।।
+sudṛḍhamṛttikāliptā sacchidrā randhrasahitā prakaṭamūṣā prakāśamūṣā kāryeti yantram ।।
+tasminyantre sāraṇatailānvitaṃ rasaṃ prakṣipya tato'nantaraṃ tulyaṃ kanakaṃ pradrāvya gālayitvā tasminneva tapte yantre kṣipte sati raso milati ekatāṃ yāti ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 477 | label: meter | g:0.25 m:0.625 ---
+
+sāmprataṃ śṛṇu kalyāṇi vidyāmāhātmyam uttamam 
+sevanāj japahomād vā dhyānāc ca kramaśo bhavet ।।

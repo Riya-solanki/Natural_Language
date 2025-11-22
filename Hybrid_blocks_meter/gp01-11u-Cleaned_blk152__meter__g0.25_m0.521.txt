@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 152 | label: meter | g:0.25 m:0.521 ---
+
+hariḥ premā sākṣād iva bhavati kiṃ vā vraja-janas
+tayor ekasmiṃś ca sphurati sa hi śaśvat sphurati naḥ ।
+idaṃ vāraṃ vāraṃ vidhi-śiva-surarṣi-prabhṛtayaḥ
+sphuṭaṃ kartuṃ śaktiṃ dadhati natarāṃ yat kiyad api ।। [śikhariṇī]

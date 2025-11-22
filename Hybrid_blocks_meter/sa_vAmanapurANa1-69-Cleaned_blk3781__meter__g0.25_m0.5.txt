@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3781 | label: meter | g:0.25 m:0.5 ---
+
+sahasraliṅgaṃ saṃpūjya snātvā kanyāhrade śuciḥ ।
+abhivādya guruṃ śukraṃ somatīrthaṃ jagāma ha ।।

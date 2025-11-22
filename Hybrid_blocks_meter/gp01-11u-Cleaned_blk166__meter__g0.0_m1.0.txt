@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 166 | label: meter | g:0.0 m:1.0 ---
+
+iti śrī-śrī-gopāla-campūm anu
+śrī-goloka-rūpa-nirūpaṇaṃ nāma
+prathamaṃ pūraṇam

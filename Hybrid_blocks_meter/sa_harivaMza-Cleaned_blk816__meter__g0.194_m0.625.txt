@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 816 | label: meter | g:0.194 m:0.625 ---
+
+kaṇḍarīko api yogātmā sāṃkhyayogam anuttamam 
+prāpya yogagatiṃ siddho viśuddhaḥ svena karmaṇā ।।

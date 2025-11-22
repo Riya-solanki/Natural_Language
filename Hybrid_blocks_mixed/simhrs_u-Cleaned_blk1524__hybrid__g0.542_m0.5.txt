@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1524 | label: hybrid | g:0.542 m:0.5 ---
+
+yudhiṣṭhiraḥ-priyaṃ naḥ, priyaṃ naḥ । ity atra cārvāka-nigraho vadhaḥ ।

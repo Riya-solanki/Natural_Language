@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 890 | label: meter | g:0.194 m:0.75 ---
+
+kṛtvā bhagnāṃ pratikṛtim ṛṣer aṅganā kandukena 
+prakṛīḍantī karakisalayapracyutena pramādāt ।
+paścāttāpajvaraparigatā pūjayitvāpi buddhaṃ
+kiṃ saṃprāptā na kanakavatī bāhuvicchedaduḥkam ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1090 | label: meter | g:0.056 m:0.854 ---
+
+{nārīṇāmanukūlamācarasi cejjānāsi kaścetano
+vāmānāṃ priyamādadhāti hitakṛnnaivābalānāṃ bhavān ।
+yuktaṃ kiṃ hitakartanaṃ nanu balābhāvaprasiddhātmanaḥ
+sāmarthyaṃ bhavataḥ purandaramatacchedaṃ vidhātuṃ kutaḥ ।।}

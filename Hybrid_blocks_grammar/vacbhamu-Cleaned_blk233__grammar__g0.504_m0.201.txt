@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 233 | label: grammar | g:0.504 m:0.201 ---
+
+api ca na brahmarūpapratipādanaparāṇāmeṣāmarthavattvaṃ paśyāmaḥ ।
+na ca arajjuriyaṃ na bhujaṅgaḥ' iti yathākathañcillakṣaṇayā vākyārthatattvaniścayādyathā bhayakampādinivṛttiḥ, evam atattvamasi' iti vākyārthāvagamānnivṛttirbhavati sāṃsārikāṇāṃ dharmāṇām śrutavākyārthasyāpi puṃsasteṣāṃ tādavasthyāt ।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 794 | label: meter | g:0.275 m:0.775 ---
+
+ṛṣaya ūcuḥ
+sthāṇutīrthasya māhātmyaṃ vaṭasya ca mahāmune ।
+sānnihatyasarotpattiṃ pūraṇaṃ pāṃśunā tataḥ ।।

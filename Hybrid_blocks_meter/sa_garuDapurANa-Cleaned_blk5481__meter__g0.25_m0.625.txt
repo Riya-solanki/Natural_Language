@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5481 | label: meter | g:0.25 m:0.625 ---
+
+bhūtalāyāśca cūrṇena stambhaḥ syādyonipūraṇāt ।
+tena lepanato yonau bhagastambhastu jāyate ।।

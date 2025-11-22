@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1470 | label: meter | g:0.25 m:0.625 ---
+
+mṛteṣu vātha jāteṣu brāhmaṇānāṃ dvijottama ।
+ādantajananāt sadya ācūḍādekarātrakam ।।

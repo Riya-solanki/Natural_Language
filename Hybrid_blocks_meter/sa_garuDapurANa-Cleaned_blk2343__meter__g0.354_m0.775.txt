@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2343 | label: meter | g:0.354 m:0.775 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahmovāca ।
+udyatastu gayāṃ gantuṃ śrāddhaṃ kṛtvā vidhānataḥ ।
+vidhāya kārpaṭīviṣaṃ grāmasyāpi pradakṣiṇam ।।

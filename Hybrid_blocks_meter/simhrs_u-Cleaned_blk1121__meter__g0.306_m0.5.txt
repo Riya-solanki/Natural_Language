@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1121 | label: meter | g:0.306 m:0.5 ---
+
+dullaha-jaṇāṇurāo lajjā guruī parabbaso appā ।
+pia-sahi visamaṃ pemmaṃ maraṇaṃ saraṇaṃ nu varam ekkaṃ ।।

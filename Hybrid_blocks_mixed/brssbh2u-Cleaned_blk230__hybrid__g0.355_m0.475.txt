@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 230 | label: hybrid | g:0.355 m:0.475 ---
+
+nanu taptirnāma duḥkhaṃ sā cetayiturnācetanasya dehasya ।
+yadi hi dehasyaiva taptiḥ syātsā dehanāśe svayameva naśyatīti tannāśāya sādhanaṃ naiṣitavyaṃ syāditi ।

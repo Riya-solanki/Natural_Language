@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 217 | label: hybrid | g:0.505 m:0.448 ---
+
+bhuvāṃ gharmārambhe pavanacalitaṃ tāpahataye paṭacchatrākāraṃ vahati gaganaṃ dhūlipaṭalam ।
+amī mandārāṇāṃ davadahanasaṃdehitadhiyo na ḍhaukante pātuṃ jhaṭiti makarandaṃ madhulihaḥ ।।
+bhavabhūteḥ

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 422 | label: meter | g:0.148 m:0.79 ---
+
+mukhyaṃ bhaya-hāsyajaṃ, yathā-
+kṣetrādhīśa-śunā navena vikṛtākāraika-vidveṣiṇā
+ghorārāvam abhidrutasya vikaṭaiḥ paścāt padair gacchataḥ ।
+pā pā pāhi phahīti satvarataraṃ vyastākṣaraṃ jalpato
+dṛṣṭvā bhṛṅgiriṭer daśāṃ paśupatiḥ smerānanaḥ pātu vaḥ ।।

@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 25 | label: meter | g:0.0 m:0.75 ---
+
+{tataḥ praviśati padmāvatī saparivārā ceṭī ca }
+{ceṭī} - edu edu bhaṭṭidāriā 
+idaṃ assamapadaṃ pavisadu 
+[etv etu bhartṛdārikā idam āśramapadaṃ praviśatu । ]

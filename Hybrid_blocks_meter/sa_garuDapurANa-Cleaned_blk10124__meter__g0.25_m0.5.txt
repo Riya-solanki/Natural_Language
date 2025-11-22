@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10124 | label: meter | g:0.25 m:0.5 ---
+
+tṛtīyāṃśe paṭhite vedatulyaṃ phalaṃ bhavennātra vicāryamasti ।
+tṛtīyāṃśaśravaṇādeva viprāḥ phalaṃ proktaṃ paṭhatopyarthamevam ।।

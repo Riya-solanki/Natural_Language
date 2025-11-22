@@ -1,0 +1,3 @@
+--- source: brssbh4u-Cleaned.txt | block: 28 | label: hybrid | g:0.5 m:0.5 ---
+
+pratyakṣādi abhāve śruteḥ api abhāvaprasaṅga iti cet ।

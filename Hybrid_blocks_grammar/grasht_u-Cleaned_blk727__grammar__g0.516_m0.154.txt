@@ -1,0 +1,9 @@
+--- source: grasht_u-Cleaned.txt | block: 727 | label: grammar | g:0.516 m:0.154 ---
+
+mano manīṣāyatam āyatātmanā samācaretkarma paropakārī ।
+arcīva śobhāṃ labhate parātparāṃ parāpavādādapi saṃnivṛttaḥ ।।
+sūte satailayantrasthe svarṇādikṣepaṇaṃ ca yat ।
+vedhādhikyakaraṃ lohe sāraṇaṃ tatprakīrtitam ।
+iti paribhāṣā ।।
+sāraṇamutkṛṣṭaṃ matvā stuvannāha itītyādi ।।
+iti pūrvoktena vidhānena rakto'pi rāgavānapi rasendraḥ sūtaḥ jaritabījo'pi jāritāni bījāni yasminniti sāraṇarahitaḥ sāraṇā vakṣyamāṇasaṃskārastena varjitaḥ vyāpī na bhavati dehe lohe ca vyāpako na syāt hi niścitaṃ athavāpi sāraṇārahito rasendraḥ ṣaṇḍhatāṃ yāti nirvīryatvam āpnoti ।।

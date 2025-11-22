@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 219 | label: meter | g:0.25 m:0.5 ---
+
+calaṃ sauhṛdamarthānāṃ viditaṃ pūrvameva me ।
+arthināmeva pīḍā tu dahatyatra mano mama ।।

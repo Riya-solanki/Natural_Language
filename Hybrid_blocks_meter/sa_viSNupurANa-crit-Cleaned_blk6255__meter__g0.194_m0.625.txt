@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6255 | label: meter | g:0.194 m:0.625 ---
+
+svādhyāyād yogam āsīta yogāt svādhyāyam ācaret 
+svādhyāyayogasaṃpattyā paramātmā prakāśate ।।

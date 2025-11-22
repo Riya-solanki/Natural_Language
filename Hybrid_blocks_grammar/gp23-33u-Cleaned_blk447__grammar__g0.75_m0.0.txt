@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 447 | label: grammar | g:0.75 m:0.0 ---
+
+sa veṇur mūka-vadhiro yatrāgād vāvadūkatām ।
+tatrāyaṃ kiṃ na vāgmī syād brahma-vaṃśa-samudbhavaḥ ।।
+[] kintu yathāsmākaṃ dūtī niruddhā tathā tam etam api nirudhya yuddhāya saṃnahyāmaḥ । anantaraṃ tu parama-pracaṇḍāḥ sva-pitṛ-purohita-paugaṇḍāḥ samādiśyantām । te ca strī-veśam evāsya balāt kurvantu । kṛte ca tad-veśe śrī-vrajarāja-purohita-bhāgineyaḥ so' yaṃ na cārbhakas tatra gacchann asmadīya-saṃdeśa-varṇāṃs tat-karṇābhyarṇān karotu । asmākam anyā kanyā na vidyate । kintu siṃhala-dvīpād dīpābhā padminīyam ekā jita-sarvātirekā nītāsti । sā tu svayaṃ rājñā pariṇīyatām ।

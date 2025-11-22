@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1579 | label: meter | g:0.272 m:0.595 ---
+
+ayoge keśadharaṇam asaṃkalpe vratakriyā 
+brahmacaryaṃ ca caryā ca trayaṃ syād dambhasaṃjñitam ।।

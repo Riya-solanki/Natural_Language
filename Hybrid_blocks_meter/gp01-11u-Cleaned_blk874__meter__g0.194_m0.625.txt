@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 874 | label: meter | g:0.194 m:0.625 ---
+
+citraṃ tutroṭa tat tatra vajra-majjārjuna-dvayam ।
+na punar mātṛ-vātsalya-nirbandha-maya-bandhanam ।। [anuṣṭubh]

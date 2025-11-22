@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2237 | label: meter | g:0.306 m:0.5 ---
+
+hariśca cakraṃ mṛdulāghavena mumoca taddhatakamalasya śatroḥ ।
+ciccheda devāstu gatavyathābhavan devaṃ prasaṃsanti ca padmanābham ।।

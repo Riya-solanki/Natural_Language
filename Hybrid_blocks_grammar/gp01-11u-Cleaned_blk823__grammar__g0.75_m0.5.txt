@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 823 | label: grammar | g:0.75 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-tathā hi, ye geha-dehādayas taṃ vināstamita-prāyā manyante sma, te tu taj-janmārabhya tan-mamatā-maya-mamatā eva tābhyāṃ pitṛbhyām abhyamanyanta । yad-dhāmārtha-suhṛt-priyātma-tanaya-prāṇāśayas tvat-kṛte [BhP ] iti brahma-vākye vraja-mātrasyāpi tathā śrūyate, kim uta tayor iti । idaṃ ca mugdhaṃ dugdhaṃ dadhi ca tad-adhika-tat-pradhānatāvadhikam eveti sa-viśeṣatayāvagamyate ।

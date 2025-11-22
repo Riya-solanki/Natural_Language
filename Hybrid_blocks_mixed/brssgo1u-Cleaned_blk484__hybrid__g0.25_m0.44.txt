@@ -1,0 +1,11 @@
+--- source: brssgo1u-Cleaned.txt | block: 484 | label: hybrid | g:0.25 m:0.44 ---
+
+viśvaścāyaṃ naro jīvaśca sarvātmatvāt ।
+viśveṣāṃ vikārāṇāṃ vā naraḥ kartā ।
+viśve sarve narā jīvā asyātmatvena niyamyatvena vā santīti viśvānaraḥ ।
+rakṣa eva rākṣasa itivatsvārthe taddhitapratyayaḥ ।
+anare saṃjñāyāṃ'iti pūrvapadasya dīrghatā ।
+agidhātorgatyarthasya nipratyayāntasya rūpamagniriti ।
+aṅgayati gamayatyagraṃ karmaṇaḥ phalaṃ prāpayatīti agniragraṇīruktaḥ ।
+abhito aga iti vā agniḥ ।
+vaiśvānaropāsakasyātithibhojanātpūrvaṃ prāṇāgnihotraṃ vidyāṅgatvena vihitaṃ, tadarthamagnitretādikalpanaṃ pradhānāvirodhena netavyamityāha-gārhapatyeti ।।

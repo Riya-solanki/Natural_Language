@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 481 | label: meter | g:0.194 m:0.5 ---
+
+śakānāṃ pahlavānāṃ ca dharmaṃ nirasad acyutaḥ 
+kṣatriyāṇāṃ kuruśreṣṭhāḥ pāradānāṃ ca dharmavit ।।

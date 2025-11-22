@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3354 | label: grammar | g:0.562 m:0.5 ---
+
+tatputraś ca janamejayaḥ । janamejayāt sumatiḥ । ete vaiśālikā bhūbhṛtaḥ ।।

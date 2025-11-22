@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6075 | label: meter | g:0.25 m:0.5 ---
+
+kākolī ca smṛtā vīrā vayasyā cārkapuṣpikā ।
+śṛṅgī karkaṭaśṛṅgī ca mahāghoṣā ca kīrtitā ।।

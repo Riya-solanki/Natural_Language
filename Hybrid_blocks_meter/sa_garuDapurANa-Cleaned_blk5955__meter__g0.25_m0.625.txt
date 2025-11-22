@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5955 | label: meter | g:0.25 m:0.625 ---
+
+gajasthāne sthite siṃhe jayasiddhisamāgamaḥ ।
+sthite śuni gajasthāne ārogyaṃ sukhasampadaḥ ।।

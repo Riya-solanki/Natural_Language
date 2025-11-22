@@ -1,0 +1,10 @@
+--- source: sastrdiu-Cleaned.txt | block: 616 | label: hybrid | g:0.276 m:0.464 ---
+
+yugapaddeśabhedaśca syādekasya sūryavat ।।
+ye vindhyanilayā ye ca kāmarūpe vyavasthitāḥ ।।
+prāgbhāge hyātmanaḥ sarvairudyanbhāsvānnirīkṣyate ।।
+pratyagbhāve tathāstaṃ yanmadhyāhne copari sthitaḥ ।।
+bhinnāśca teṣāṃ prāgbhāgāstathā pratyak tathopari ।।
+teṣvasya dṛśyamānasya vispaṣṭā bhinnadeśatā ।।
+tathā yasminyāvaddūre deśe kaiścitsūryodayo dṛśyate taddeśavartino anyepi tataḥ parastāttāvati paśyanti tato apyasti bhedābhedaḥ ।
+na ca sūryanānātvamāśaṅkanīyam, na hi kecidbhinnaṃ sūryaṃ paśyanti ।।

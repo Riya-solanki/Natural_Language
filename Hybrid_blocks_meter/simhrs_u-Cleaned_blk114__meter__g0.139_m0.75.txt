@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 114 | label: meter | g:0.139 m:0.75 ---
+
+krodhād abhāṣaṇā rudatī, yathā mamaiva-
+kānte kṛtāgasi puraḥ parivartamāne
+sakhyaṃ saroja-śaśinoḥ sahasā babhūva ।
+roṣākṣaraṃ sudṛśi vaktum apārayantyām
+indīvara-dvayam avāpa tuṣāra-dhārām ।।

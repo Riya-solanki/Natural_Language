@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 228 | label: meter | g:0.25 m:0.5 ---
+
+{haratyaghaṃ saṃprati hetureṣyataḥ śubhasya pūrvācaritaiḥ kṛtaṃ śubhaiḥ ।
+śarīrabhājāṃ bhavadīyadarśanaṃ vyanakti kālatritaye api yogyatām ।।}

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 842 | label: meter | g:0.194 m:0.5 ---
+
+dhṛtvā girim asau naikadhuratām āgataḥ param ।
+bhavatāṃ jagatāṃ cāgād api sarva-dhurīṇatām ।। [anuṣṭubh]

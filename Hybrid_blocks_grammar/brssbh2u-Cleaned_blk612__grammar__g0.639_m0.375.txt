@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 612 | label: grammar | g:0.639 m:0.375 ---
+
+yo apyayamaupaniṣadātmapratipattiprayojanaḥ samādhirupadiṣṭo vedānteṣu- aātmā vā are draṣṭavyaḥ śrotavyo mantavyo nididhyasitavya so anveṣṭavyaḥ sa vijijñāsitavyaḥ', aātmetyevaṃ dhyāyatha ātmānam' ityevaṃlakṣaṇaḥ, so apyasatyātmanaḥ kartṛtve nopapadyeta ।
+tasmādapyasya kartṛtvasiddhiḥ ।।

@@ -1,0 +1,54 @@
+--- source: brssgo1u-Cleaned.txt | block: 622 | label: meter | g:0.259 m:0.668 ---
+
+svarūpaṃ cejjñānina eva vyañjyeta jñānātpūrvaṃ vyavahārocchittirityarthaḥ ।
+ataḥ sadaiva vyaktasvarūpatvādityarthaḥ ।
+sadā vṛttiṣu vyaktasya vastuto asaṅgasyātmana āvidyakadehādyavivekarūpasya malasaṅgasya sattvāttadvivekāpekṣayā samutthānādiśrutirityuttaramāha-atreti ।
+vedanā harṣaśokādiḥ ।
+aviviktamiveti tādātmyasya saṅgasya kalpitatvamuktam ।
+tatra kalpitasaṅge dṛṣṭāntaḥ-yatheti ।
+śrutikṛtamiti ।
+tvaṃpadārthaśrutyā ayo ayaṃ vijñānamayaḥ prāṇeṣu'ityādyayā siddhamityarthaḥ ।
+prāṇādibhinnaśuddhatvaṃpadārthajñānasya vākyārthasākṣātkāraḥ phalamityāha-kevaleti ।
+saśarīratvasya satyatvātsamutthānamutkrāntiriti vyākhyeyaṃ na viveka ityāśaṅkyāha-tathā viveketi ।
+uktaśrutyanusāreṇetyarthaḥ ।
+śarīreṣvaśarīramavasthitamiti śruteravivekamātrakalpitaṃ saśarīratvam ।
+ato viveka eva samutthānamityarthaḥ ।
+nanu svakarmārjite śarīre bhogasyāparihāryatvātkathaṃ jīvata eva svarūpāvirbhāva ityata āha-śarīrastho apīti ।
+aśarīratvavaccharīrasthasyāpi bandhābhāvasmṛterjīvato muktiryuktetyarthaḥ ।
+aviruddhe śrutyarthe sūtraśeṣo yukta ityāha-tasmāditi ।
+anyādṛśau satyāvityarthaḥ ।
+jñānājñānakṛtāvāvirbhāvatirobhāvāviti sthite bhedo apyaṃśāṃśitvakṛto nirasta ityāha-evamiti ।
+aṃśādiśūnyatvamasaṅgatvam ।
+ātmā dravyatvavyāpyajātiśūnyaḥ vibhutvāt, vyomavadityātmaikyasiddherbhedo mithyetyarthaḥ ।
+prajāpativākyācca bhedo mithyetyākāṅkṣāpūrvakamāhakutaścetyādinā ।
+etadbhedasya satyatvameva nāstīti kuta ityanvayaḥ chāyāyāṃ brahmadṛṣṭiparamidaṃ vākyaṃ nābhedaparamityata āha-nāpīti ।
+yasya jñānātkṛtakṛtyatā sarvakāmaprāptistamātmānamanvicchāva iti pravṛttayorindravirocanayoryadyanātmacchāyāṃ prajāpatirbrūyāttadā mṛṣāvādi syādityarthaḥ ।
+prathamavat dvitīyādiparyāye vyāvṛttāsvavasthāsu unusyūtātmā brahmatvenokta ityāha-tatheti ।
+avasthābhede apayanusyūtau yuktimāha-kiñceti ।
+suṣuptau jñāturvyāvṛttimāśaṅkyāha-tathā tṛtīya iti ।
+saṣuptau nirvikalpajñānarūpa ātmāstīyatra bṛhadāraṇyakaśrutimāha-nahīti ।
+buddheḥ sākṣiṇo nāśo nāsti, nāśakābhāvādityarthaḥ ।
+etamavasthābhirasaṅgatvenokta ātmaiva turīye api brahmatvenokta ityāha-tatheti ।
+śruterekadeśivyākhyāṃ dūṣayati-kecittviti ।
+jīvaparayorbhadāditi bhāvaḥ ।
+śrutibādhānmaivamityāha-teṣāmiti ।
+saṃnihito jīva eva sarvanāmārtha ityarthaḥ ।
+uktasya punaruktau bhūya iti yujyate ।
+tava tu upakrāntaparamātmanaścaturtha evoktestadbāda ityāha-bhūya iti ।
+lokasiddhajīvānuvādena brahmatvaṃ bodhyata iti svamatamupasaṃharati-tasmāditi ।
+vyākhyānāntarasaṃbhavādityarthaḥ ।
+vilayanaṃ śodhanam ।
+vidyayā mahāvākyeneti yāvat ।
+ye tu saṃsāraṃ satyamicchanti teṣāmidaṃ śārīrakamevottaramityāha-apare tvityādinā ।
+śārīrakasyārthaṃ saṃkṣepaṇopadiśati-eka eveti ।
+avidyāmāyayorbhedaṃ nirasituṃ sāmānādhikaraṇyaṃ, āvaraṇavikṣepaśaktirūpaśabdapravṛttinimittabhedāt sahaprayogaḥ ।
+brahmaivāvidyayā saṃsarati na tato anyo jīva iti śārīrakārtha ityarthaḥ ।
+tarhi sūtrakāraḥ kimiti bhedaṃ brūte, tatrāha-yasttviti ।
+paramātmano asaṃsāritvasidyarthaṃ jīvādbhedaṃ draḍhayati ।
+tasyāsaṃsāritvaniścayābhāve tadabhedoktāvapi jīvasya saṃsāritvānapāyādityarthaḥ ।
+adhiṣṭhānasya kalpitādbhede api kalpitasyādhiṣṭhānānna pṛthaksattvamityāha-jīvasya tviti ।
+kalpitabhedānuvādasya phalamāha-evaṃ hīti ।
+sūtreṣvabhedo nokta iti bhrāntiṃ nirasyati-pratipādyamiti ।
+ātmeti tūpagacchantītyādisūtrāṇyādipadārthaḥ ।
+nanvadvaitasya śāstrārthatve dvaitāpekṣavidhivirodhaḥ tatrāha-varṇitaśceti ।
+advaitamajānataḥ kalpitadvaitāśrayā vidhayo na viduṣa iti sarvamupapannamityarthaḥ ।।

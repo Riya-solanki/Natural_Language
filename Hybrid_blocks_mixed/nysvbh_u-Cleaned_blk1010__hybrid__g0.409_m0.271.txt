@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1010 | label: hybrid | g:0.409 m:0.271 ---
+
+doṣānantaraṃ pretyabhāvaḥ, tasyāsiddhiḥ ātmano nityatvāt ।
+na khalu nityaṃ kiñcit jāyate mriyate vā iti janmamaraṇayornityatvādātmano anupapattiḥ ubhayaṃ ca pretyabhāva iti । tatrāyaṃ siddhānuvādaḥ

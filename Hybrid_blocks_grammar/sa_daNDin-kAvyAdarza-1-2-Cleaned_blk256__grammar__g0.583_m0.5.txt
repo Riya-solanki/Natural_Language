@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 256 | label: grammar | g:0.583 m:0.5 ---
+
+kṣaṇaṃ darśanavighnāya pakṣmaspandāya kupyataḥ premṇaḥ prayāṇaṃ tvaṃ brūhi mayā tasyeṣṭam iṣyate ।।

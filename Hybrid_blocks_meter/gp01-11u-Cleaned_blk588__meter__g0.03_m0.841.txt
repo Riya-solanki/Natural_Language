@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 588 | label: meter | g:0.03 m:0.841 ---
+
+[] tāś ca dhairyaṃ hitvā sa-sambhramaṃ bālakaṃ gṛhītvā procuḥ,
+"asmākaṃ yad akhilam asti puṇya-jātaṃ
+yad vāsmat-pitṛ-jananī-kulānujātam ।
+tenāsau bata bhavatād aho yaśode
+putras te niravadhi-maṅgala-pramode ।। [praharṣiṇī]

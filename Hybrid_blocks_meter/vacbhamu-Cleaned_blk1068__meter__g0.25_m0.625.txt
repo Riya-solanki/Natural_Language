@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 1068 | label: meter | g:0.25 m:0.625 ---
+
+samacaiṣaṃ mahatpuṇyaṃ tatphalaṃ puṣkalaṃ mayā ।
+samarpitamathaitena prīyatāṃ parameśvaraḥ ।।

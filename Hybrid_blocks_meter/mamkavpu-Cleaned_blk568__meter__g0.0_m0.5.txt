@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 568 | label: meter | g:0.0 m:0.5 ---
+
+atra {kaṇṭhagraham} iti vācyam । yathā vā

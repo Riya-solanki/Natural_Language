@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 652 | label: grammar | g:0.562 m:0.5 ---
+
+aapapunarmṛtyuṃ jayati' iti śrutyā hyapamṛtyorvijaya ukto na tu paramamṛtyuvijaya ityāpekṣikatvam ।

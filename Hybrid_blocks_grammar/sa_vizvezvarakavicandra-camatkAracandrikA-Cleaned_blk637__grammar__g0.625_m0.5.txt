@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 637 | label: grammar | g:0.625 m:0.5 ---
+
+atra vinatiśucitvavitānānāṃ bhāradhāvanāṃśukāni hetutayā prasiddhāni tāni nirvartya yaśaso dhāvalyanairmalyabāhulyānyanyāni kāraṇāni vibhāvyanta itīyaṃ kāraṇāntaravibhāvanā ।

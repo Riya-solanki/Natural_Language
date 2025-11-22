@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1090 | label: meter | g:0.375 m:0.565 ---
+
+yathā-
+ārtaṃ kaṇṭha-gata-prāṇaṃ parityaktaṃ sva-bāndhavaiḥ ।
+trāye nainaṃ yadi tataḥ kaḥ śarīreṇa me guṇaḥ ।।

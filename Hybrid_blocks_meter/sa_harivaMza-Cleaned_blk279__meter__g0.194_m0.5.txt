@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 279 | label: meter | g:0.194 m:0.5 ---
+
+rākṣasaiś ca piśācaiś ca punar dugdhā vasuṃdharā 
+śāvaṃ kapālam ādāya prajā bhoktuṃ nararṣabha ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 251 | label: meter | g:0.194 m:0.75 ---
+
+hṛdi paktau dṛśoḥ pitte tejastaddharmadarśanāt 
+prāṇādivṛttibhedena nabhasvānukta eva te ।।

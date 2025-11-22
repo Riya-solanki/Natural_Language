@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 617 | label: meter | g:0.25 m:0.5 ---
+
+tasmān mac-charaṇaṃ goṣṭhaṃ man-nāthaṃ mat-parigraham ।
+gopāye svātma-yogena so æyaṃ me vrata āhitaḥ ।।[BhP ]

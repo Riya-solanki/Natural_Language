@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8781 | label: meter | g:0.25 m:0.695 ---
+
+svapnamadhye tu pakṣīndra pretaliṅgānyanekadhā ।
+svakalatraṃ svabandhuṃ vā svasutaṃ svapatiṃ vibhum ।
+vidyamānaṃ mṛtaṃ paśyetpretadoṣeṇa niścitam ।।

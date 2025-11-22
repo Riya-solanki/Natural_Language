@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1666 | label: meter | g:0.25 m:0.625 ---
+
+tiryaggatānāmapi bhāgyaśeṣaṃ satāṃ bhavatyeva sukhāśrayāya ।
+kartavyasaṃbandhi suhṛjjanānāṃ videśagānāmiva vittaśeṣam ।।

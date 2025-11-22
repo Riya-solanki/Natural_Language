@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 375 | label: grammar | g:0.562 m:0.5 ---
+
+liṅgāni saṃsārādīnavān mokṣaguṇāṃśa śrāvaṃ śrāvaṃ romaharṣodgamāśrupātādayo bhavanti, cittādīnatvaṃ nirbhayatvamityādīni liṅgāni ।

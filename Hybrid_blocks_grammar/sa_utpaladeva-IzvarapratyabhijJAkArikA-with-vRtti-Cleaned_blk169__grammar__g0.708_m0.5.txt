@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 169 | label: grammar | g:0.708 m:0.5 ---
+
+sukhaduḥkhādyābhāsās tatsādhanābhāsāś ca sadaivāntaḥ santo api na tadāhlādādimayīṃ sthitiṃ kurvanty atītatvād bahis tadānīm abhāvāt tadātvaviśiṣṭānāṃ ca tathākāritvāt ।।

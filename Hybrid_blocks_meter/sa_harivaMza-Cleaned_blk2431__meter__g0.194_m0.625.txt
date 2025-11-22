@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2431 | label: meter | g:0.194 m:0.625 ---
+
+gajānīkair ivākīrṇaṃ salilodgāribhir ghanaiḥ 
+varṇasārūpyatāṃ yāti gaganaṃ sāgarasya vai ।।

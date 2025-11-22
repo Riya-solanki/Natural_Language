@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 244 | label: meter | g:0.316 m:0.5 ---
+
+eko rathaśca bhuvi yadvidadhāti vartma tenāparo vrajati dhṛṣṭataraṃ tathānyaḥ ।
+kalyāṇamādyamimamityavadhūya mārgaṃ nāsatpathapraṇayane ramate mano me ।।

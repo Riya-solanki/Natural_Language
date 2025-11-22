@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 101 | label: meter | g:0.25 m:0.5 ---
+
+samānītaḥ padbhyāṃ maṇi-mukuratām ambara-maṇir bhayād antar-baddha-stimita-kiraṇa-śreṇi-masṛṇaḥ
+dadhāti tvad-vaktraṃ pratiphalitam a-śrānti-vikacaṃ nir-ātaṅkaṃ candrān nija-hṛdaya-paṅke-ruham iva ।।

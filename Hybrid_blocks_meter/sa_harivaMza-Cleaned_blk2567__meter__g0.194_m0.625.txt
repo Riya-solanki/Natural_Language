@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2567 | label: meter | g:0.194 m:0.625 ---
+
+prakrīḍitāś ca te sarve saha tenāmarāriṇā 
+gopālavapuṣaṃ gopā manyamānāḥ svabāndhavam ।।

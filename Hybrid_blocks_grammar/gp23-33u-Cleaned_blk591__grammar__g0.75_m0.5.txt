@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 591 | label: grammar | g:0.75 m:0.5 ---
+
+[] ṛṣir uvāca-kiñcid anyad alpaṃ śrūyatām । vitta-vidyas tvaṃ mathurāyām āgata-mātraḥ śrīmad-vrajāya kṛta-yātras tatratya-pitrādibhiḥ kṛta-saṅkocanas tad-ājñā-laṅghanaṃ nāyatyāṃ maṅgalam iti racita-vicāratayā carita-śocanaḥ svānukūlya-kaivalya-lasad-uddhavam ativinītam uddhavam evābhinītaṃ matvā vraja-janānām āvijamānatā-jananāya niyojayiṣyasi । teṣāṃ saṅkocata eva na ca vraja-janam ātmopahṛtam āhariṣyasi ।

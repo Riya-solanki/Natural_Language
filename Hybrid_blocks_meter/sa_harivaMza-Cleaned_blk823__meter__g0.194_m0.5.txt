@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 823 | label: meter | g:0.194 m:0.5 ---
+
+somo hi bhagavān devo lokasyāpyāyanaṃ param 
+vṛṣṇivaṃśaprasaṅgena tasya vaṃśaṃ nibodha me ।।

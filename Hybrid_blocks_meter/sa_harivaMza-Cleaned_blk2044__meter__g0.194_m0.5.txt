@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2044 | label: meter | g:0.194 m:0.5 ---
+
+viṣayāsannabhūto asmi tava rāma ripuś ca saḥ 
+na ca sāmantam icchanti rājāno baladarpitam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7495 | label: meter | g:0.25 m:0.625 ---
+
+indralokātparibhraṣṭa iha loke nṛpo bhavet ।
+sarvopaskaraṇopetaṃ yuvānaṃ doṣavarjitam ।।

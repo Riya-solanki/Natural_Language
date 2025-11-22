@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 916 | label: meter | g:0.25 m:0.625 ---
+
+kartavyaṃ vidhinānena iti te hara kīrtitam ।
+tataścāvāhayeddevaṃ hayagrīvaṃ sureśvaram ।।

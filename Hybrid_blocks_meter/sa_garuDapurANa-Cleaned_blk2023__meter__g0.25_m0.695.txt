@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2023 | label: meter | g:0.25 m:0.695 ---
+
+na teṣāṃ pratibaddhānāṃ bhā bhavatyūrdhvagāminī ।
+tiryak kṣatatvātkeṣāñcitkathañcidyadi jāyate ।
+tiryagvilikhyamānānāṃ sā pārśveṣu vihanyate ।।

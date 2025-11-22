@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4476 | label: meter | g:0.25 m:0.625 ---
+
+satataṃ śāstradṛṣṭena karmaṇā harimarcaya ।
+tatprasādāt parāṃ siddhiṃ bale prāpsyasi śāśvatīm ।।

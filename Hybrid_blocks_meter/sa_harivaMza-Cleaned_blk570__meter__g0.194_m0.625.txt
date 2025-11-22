@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 570 | label: meter | g:0.194 m:0.625 ---
+
+vayaṃ tu yatidharmāṇa āropyātmānam ātmani 
+prajādharmaṃ ca kāmaṃ ca vartayāmo mahāmune ।।

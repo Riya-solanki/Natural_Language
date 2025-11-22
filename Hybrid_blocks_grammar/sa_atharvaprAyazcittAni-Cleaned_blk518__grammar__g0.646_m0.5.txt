@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 518 | label: grammar | g:0.646 m:0.5 ---
+
+varāha-mārjā-māhiṣāṃ śakuno anyo avadānāni māṃsāni jāṃgalāni ca yady aśiṣaḥ syān māsi māsi ṣaḍḍhotāraṃ juhuyāt ।

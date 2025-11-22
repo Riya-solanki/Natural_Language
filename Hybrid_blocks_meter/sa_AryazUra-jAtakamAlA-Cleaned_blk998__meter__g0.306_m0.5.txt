@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 998 | label: meter | g:0.306 m:0.5 ---
+
+dadāmi te grāmavarāṃśca pañca dāsīśataṃ pañca gavāṃ śatāni ।
+sadaśvayuktāṃśca rathāndaśemānhitasya vaktā hi gururmamāsi ।।

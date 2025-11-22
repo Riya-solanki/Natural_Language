@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1517 | label: meter | g:0.194 m:0.75 ---
+
+{taṃ tāṇa sirisahoararaaṇāharaṇammi hiaamekkarasaṃ ।
+bimbāhare piāṇaṃ ṇivesiaṃ kusumabāṇeṇa ।।}
+[tatteṣāṃ śrīsahodararatnābharaṇe hṛdayamekarasam ।
+vimbādhare priyāṇāṃ niveśitaṃ kusumabāṇena ।।]

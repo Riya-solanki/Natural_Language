@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 97 | label: hybrid | g:0.538 m:0.5 ---
+
+ko ayaṃ bhrāntiprakāras tava pavana padaṃ lokapādāhatīnāṃ tejasvivrātasevye nabhasi nayasi yat pāṃsupūraṃ pratiṣṭhām 
+yasminn utthāpyamāne jananayanapathopadravas tāvad āstāṃ kenopāyena sādhyo vapuṣi kaluṣatādoṣa eṣa tvayaiva ।।

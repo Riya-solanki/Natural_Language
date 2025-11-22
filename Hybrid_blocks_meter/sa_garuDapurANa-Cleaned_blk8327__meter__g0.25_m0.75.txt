@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8327 | label: meter | g:0.25 m:0.75 ---
+
+dhanaṃ bhūmigataṃ yadvatsvahastena niveśitam ।
+tadvatphalamavāpnoti hyahaṃ vacmi khageśvara ।।

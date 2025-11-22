@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3141 | label: meter | g:0.272 m:0.845 ---
+
+lubdhamarthapradānena ślādhyamañjalikarmaṇā ।
+mūrkhaṃ chandānuvṛttyā ca yāthātathyena paṇḍitam ।।

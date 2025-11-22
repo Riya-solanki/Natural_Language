@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 318 | label: meter | g:0.351 m:0.565 ---
+
+FN patiṣyati saṃcariṣyatītyarthaḥ ।
+kiṃ samyak niścaya āśrayo asyā iti kiṃ saṃniścayā ।

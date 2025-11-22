@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 221 | label: hybrid | g:0.5 m:0.5 ---
+
+atha yasyāsamāpte karmaṇi yūpaḥ prapatet tatra juhuyāt ।

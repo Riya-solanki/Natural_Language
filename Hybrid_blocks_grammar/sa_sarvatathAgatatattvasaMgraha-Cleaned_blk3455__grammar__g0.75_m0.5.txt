@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3455 | label: grammar | g:0.75 m:0.5 ---
+
+"atha karmasādhanamicchet tena tathaiva japatā māsamekaṃ sādhayitavyaṃ । tato ante sakalāṃ rātriṃ japet । tataḥ sarvakarmāṇi sidhyantī"tyāha bhagavān vajradharaḥ ।। tataḥ karmāṇi bhavanti sakṛduccāritena manīṣitayā rakṣādīni sarvakarmāṇi karoti ।।

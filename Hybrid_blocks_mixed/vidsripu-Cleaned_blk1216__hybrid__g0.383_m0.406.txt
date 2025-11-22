@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1216 | label: hybrid | g:0.383 m:0.406 ---
+
+pakṣābhyāṃ sahitau prasārya caraṇāv ekaikaśaḥ pārśvayor ekīkṛtya śirodharopari śanaiḥ pāṇḍūdare pakṣatī ।
+nidrāśeṣaviśeṣaraktanayano niryāya nīḍodarād āsṛkkāntavidāritānanapuṭaḥ pārāvato jṛmbhate ।।
+bhṛṅgārasya

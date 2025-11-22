@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 729 | label: grammar | g:0.729 m:0.5 ---
+
+yan me manasaś chidraṃ yad vāco yac ca me hṛdaḥ । ayaṃ devo bṛhaspatiḥ saṃ tat siñcatu rādhasā ।

@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 11 | label: hybrid | g:0.531 m:0.5 ---
+
+nityaṃ vināśipadarūpam anekam ekam ugraṃ praśāntam aguṇaṃ guṇasaṃnibaddham ।
+saṃsāriṇaṃ vaśinam adhurvam asvatantram evaṃ bhavantam asakṛt kavayaḥ stuvanti ।।

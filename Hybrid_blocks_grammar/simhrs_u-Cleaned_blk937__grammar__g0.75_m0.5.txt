@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 937 | label: grammar | g:0.75 m:0.5 ---
+
+nanu bhavatu nāmaivam । tathāpi rasasya naṭa-gatatve na sāmājikānubhavānupapattir iti cet, na । naṭe rasa-sambhavaḥ kim anubhāvādi-sad-bhāvena vibhāvādi-sambhavena vā । nādyaḥ, abhyāsa-pāṭavādināpi tat-siddheḥ । kiṃ ca sāmājikeṣu yathocitam anubhāva-sadbhāve' pi tvayā teṣāṃ rasāśrayatānaṅgīkārāt । yadi vibhāvena tatrāpi kim anukārya-mālavikādinā anukāriṇā svakāntādinā vā । nādyaḥ, anaucityāt । nāpi dvitīyaḥ, naṭe sākṣād-dṛṣṭa-nāyakavad aślīlatā-pratīteḥ ।

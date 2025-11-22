@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2950 | label: meter | g:0.194 m:0.625 ---
+
+catuṣpathaṃ caityataruṃ śmaśānopavanāni ca 
+duṣṭastrīsaṃnikarṣaṃ ca varjayen niśi sarvadā ।।

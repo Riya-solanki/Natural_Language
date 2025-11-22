@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 721 | label: meter | g:0.194 m:0.625 ---
+
+buddhisadbhāve mānamāha sūtrakāraḥ-nityeti ।
+amanasā hyeva paśyati, abuddhiśca na viceṣṭati,'

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1226 | label: meter | g:0.25 m:0.5 ---
+
+nivāryamāṇo api śataiḥ suhṛdbhir bāṣpāmbuvisyandivilocanāntaiḥ ।
+sādhuḥ svadehāśrayaṇīm apekṣāṃ tatyāja lokavyasanopataptaḥ ।।

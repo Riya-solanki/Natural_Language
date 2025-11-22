@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 678 | label: grammar | g:0.75 m:0.5 ---
+
+atha yasyāhargaṇe visamāpte yūpo virohet pravṛhya yūpavirūḍhāny avalopya tapo hy agne antarām amitrāṃ tapa śaṃsam araruṣaḥ parasya tapo vaso cikitāno acittān vi te tiṣṭhantām ajarā ayāsaḥ ।

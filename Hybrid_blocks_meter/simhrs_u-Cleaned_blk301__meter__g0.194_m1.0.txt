@@ -1,0 +1,10 @@
+--- source: simhrs_u-Cleaned.txt | block: 301 | label: meter | g:0.194 m:1.0 ---
+
+dhīra-dṛṣṭir, yathā-
+tat gambhīraṃ vinivartitena
+prabhāta-paṅkeruha-bandhureṇa ।
+apaśyad akṣṇā madhumātmajanmā
+pratyābabhāṣe sa ca daitya-dūtam ।।
+sasmitaṃ vaco, yathā-
+dyotitāntaḥ-sabhaiḥ kunda-kuḍmalāgra-dataḥ smitaiḥ ।
+snapitevābhavat tasya śuddha-varṇā sarasvatī ।।

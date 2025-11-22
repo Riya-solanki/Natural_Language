@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3605 | label: hybrid | g:0.25 m:0.404 ---
+
+kīrtiśrīputrarājyādi prāpya śaivaṃ puraṃ vrajet ।
+dvādaśeṣvapi māseṣu prakuryādiha jāgaram ।।
+vratī dvādaśa saṃbhojya dīpadaḥ svargamāpnuyāt ।।
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śivarātrivrataṃ nāma caturviṃśatyuttaraśatatamo adhyāyaḥ

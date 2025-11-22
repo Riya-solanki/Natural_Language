@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4031 | label: meter | g:0.25 m:0.844 ---
+
+atīva hi purī ramyā dvārakā vāsavakṣayāt 
+mahārṇavaparikṣiptā pañcaparvataśobhitā ।। 
+tasyaiva devadevasya nirmitā viśvakarmaṇā । 
+tasyāṃ devapurābhāyāṃ sabhā kāñcanatoraṇā 
+sudāśārhīti vikhyātā yojanāyutavistṛtā ।।

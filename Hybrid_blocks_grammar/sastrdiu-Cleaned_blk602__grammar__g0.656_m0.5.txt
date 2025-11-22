@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 602 | label: grammar | g:0.656 m:0.5 ---
+
+ayaṃ ca doṣaḥ pūrvopakṣipte api śabdasaṃskārapakṣe darśayitavyaḥ- sarve hi śabdāḥ śrotradeśe avasthitāstatraikasminsaṃkriyamāṇe balādanyeṣāmapi saṃskāraḥ syādeva ।
+na hi samānadeśānāṃ samānendriyagrāhyāṇāṃ kasyacitsaṃskāraḥ kasyaciccāsaṃskāra iti vyavasthā saṃbhavati ghaṭādāvadarśanāt, tadidamuktaṃ- etadeva prasaṃktavyam ityādinā ।।

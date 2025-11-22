@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 18 | label: grammar | g:0.646 m:0.5 ---
+
+spraṣṭavyaḥ katamaḥ । kāyagocaraḥ । mahābhūtānyupādāya ślakṣṇatvam karkasatbam gurutvam laghutvam śītatvam jighatsā pipāsā ca ।।

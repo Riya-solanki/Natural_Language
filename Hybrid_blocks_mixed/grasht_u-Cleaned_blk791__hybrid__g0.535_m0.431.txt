@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 791 | label: hybrid | g:0.535 m:0.431 ---
+
+punarviśeṣamāha anvityādi ।।
+anusāritena triguṇaprathamagrāsanyāyena bījena sāritaḥ sūto nikharvasaṃkhyākaṃ śulbaṃ vidhyati tu punaḥ pratisāritaḥ ṣaḍguṇaprathamagrāsanyāyena sāritaḥ sūtaḥ padmasaṃkhyākaṃ vidhyati ।।
+punar anusārito navaguṇagrāsanyāyena bījena sāritaḥ sūtaḥ śaṅkhasaṃkhyāṃ vidhyatīti ।।

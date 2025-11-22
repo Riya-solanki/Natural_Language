@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 244 | label: meter | g:0.058 m:0.851 ---
+
+{utsiktasya tapaḥparākramanidherabhyāgamādekataḥ
+satsaṃgapriyatā ca vīrarabhasotphālaśca māṃ karṣataḥ ।
+vaidaihīparirambha eṣa ca muhurścaitanyamāmīlayan
+ānandī haricandanenduśiśirasnigdho ruṇaddhyanyataḥ ।।}

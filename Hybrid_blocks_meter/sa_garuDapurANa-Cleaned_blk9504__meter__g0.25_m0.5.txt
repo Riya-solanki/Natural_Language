@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9504 | label: meter | g:0.25 m:0.5 ---
+
+gṛhe hānirbhavettasya ṛkṣeṣveṣu mṛtaśca yaḥ ।
+athavā ṛkṣamadhye api dāhastasya vidhīyate ।।

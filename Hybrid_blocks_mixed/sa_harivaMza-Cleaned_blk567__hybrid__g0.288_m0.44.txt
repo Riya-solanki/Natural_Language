@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 567 | label: hybrid | g:0.288 m:0.44 ---
+
+kṣaṇenaiva pramāṇaṃ sa bibhrad anyad anuttamam 
+rūpeṇa na mayā kaścid dṛṣṭapūrvaḥ pumān kvacit ।। 
+sa mām uvāca tejasvī vācā madhurayā punaḥ । kautūhalaparijñāne yat tad brahman dadāmi te । 
+viddhi māṃ brahmaṇaḥ putraṃ mānasaṃ pūrvajaṃ prabho 
+tapovīryāt samutpannaṃ nārāyaṇaguṇātmakam ।।

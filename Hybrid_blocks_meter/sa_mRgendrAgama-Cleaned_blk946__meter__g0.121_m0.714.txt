@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 946 | label: meter | g:0.121 m:0.714 ---
+
+tālo dvādaśabhirjānupariṇāhaparibhramaiḥ 
+so api dhyānajapopetaḥ sagarbho anyastadujjhitaḥ ।। MT

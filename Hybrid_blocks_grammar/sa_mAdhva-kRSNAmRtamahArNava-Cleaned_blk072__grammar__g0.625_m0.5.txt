@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 72 | label: grammar | g:0.625 m:0.5 ---
+
+asāre khalu saṃsāre sārāt sārataro hariḥ puṇyahīnā na vindanti sāraṅgāś ca yathā jalam ।।

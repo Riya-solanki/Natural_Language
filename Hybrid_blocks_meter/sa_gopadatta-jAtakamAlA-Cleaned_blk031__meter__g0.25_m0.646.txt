@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 31 | label: meter | g:0.25 m:0.646 ---
+
+chattrair vyabhraśaśāṅkamaṇḍalasitai ratnaprabhābhāsvarair
+vikṣiptāḥ kiraṇā yad asya bahuśo niryāṇakāle mama ।
+tad vairaṃ hṛdayena saṃcitam ayaṃ nūnaṃ vahaty aṃśumān
+yasyāgnir dahatīva durjanavacas tīkṣṇair mayūkhāṅkuraiḥ ।।

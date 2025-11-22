@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 180 | label: meter | g:0.275 m:0.751 ---
+
+tatra guṇāḥ-
+yauvanaṃ rūpa-lāvaṇye saundaryam abhirūpatā ।
+mārdavaṃ saukumāryaṃ cety ālambana-gatā guṇāḥ ।।

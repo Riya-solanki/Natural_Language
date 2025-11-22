@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6965 | label: meter | g:0.306 m:0.5 ---
+
+tvaṃ khaḍgacarmaṇā sārdhaṃ tvaṃ dikpālāstathā prabho ।
+tvaṃ vedhāstvaṃ vidhātā ca tvaṃ yamastvaṃ hutāśanaḥ ।।

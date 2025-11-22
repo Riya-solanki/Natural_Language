@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3078 | label: meter | g:0.194 m:0.625 ---
+
+nīḍastheṣu vihaṃgeṣu satsu prāduṣkṛtāgniṣu 
+īṣat tamaḥ saṃvṛtāsu dikṣu sarvāsu sarvataḥ ।।

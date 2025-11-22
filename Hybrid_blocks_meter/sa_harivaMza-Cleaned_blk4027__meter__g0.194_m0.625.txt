@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4027 | label: meter | g:0.194 m:0.625 ---
+
+yaṃ mahī suṣuve devī yasya prāgjyotiṣaṃ puram 
+tasyāntapālāś catvāras tasyāsan yuddhadurmadāḥ ।।

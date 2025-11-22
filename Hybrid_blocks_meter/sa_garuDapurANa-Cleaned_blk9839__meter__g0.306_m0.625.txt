@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9839 | label: meter | g:0.306 m:0.625 ---
+
+svakarma baddhasya tadā garbhavṛddhirbhavediti ।
+purā yathā mayā proktaṃ tava jantorhi lakṣaṇam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 635 | label: meter | g:0.25 m:0.625 ---
+
+gandharvavidyāveditvaṃ bhaktirbhānau tathā sthirā ।
+kauśalyaṃ sarvaśilpānāṃ dharmaḥ kiṃpuruṣaḥ smṛtaḥ ।।

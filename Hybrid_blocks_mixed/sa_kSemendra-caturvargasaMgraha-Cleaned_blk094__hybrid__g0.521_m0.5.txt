@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 94 | label: hybrid | g:0.521 m:0.5 ---
+
+kṛtaṃ śamajalena yair viratatīvratṛṣṇaṃ manaḥ paraṃ bhavaparābhavoddharaṇadhīradhuryair na te ।
+bhajanti jananījanaprasṛtadugdhadhārāghanastanapraṇayi tat punar daśanaśūnyam āsyaṃ narāḥ ।।

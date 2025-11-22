@@ -1,0 +1,7 @@
+--- source: brsvbh2u-Cleaned.txt | block: 195 | label: grammar | g:0.761 m:0.306 ---
+
+chidayā chedyaṃ vṛkṣādi vyāpnoti, na tu chidā chidāntareṇa, nāpi chidaiva chetrī, kintu svata eva devadattādiḥ, yathā vā paktā pākyaṃ pākena vyāpnoti nanu pākaṃ pākāntareṇa, nāpi pāka eva paktā kintu svata eva devadettādiḥ, evaṃ pramātā prameyaṃ nīlādi pramayā vyāpnoti na tu pramāṃ pramāntareṇa, nāpi pramaiva pramātrī, kintu svata eva pramāyāḥ pramātā vyāpakaḥ ।
+na ca pramātari kūṭasthanityacaitanye pramāpekṣāsaṃbhavo yataḥ pramātuḥ pramāyāḥ pramātrantarāpekṣāyāmanavasthā bhavet ।
+tasmāt suṣṭhūktaṃ avijñānagrahaṇamātra eva vijñānasākṣiṇaḥ pramātuḥ kūṭasthanityacaitanyasya grahaṇākāṅkṣānutpādāt'iti ।
+yaduktaṃ asamatvādavabhāsyāvabhāsakabhāvānupapatteḥ'iti ।
+tatrāha-

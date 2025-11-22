@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1276 | label: meter | g:0.194 m:0.625 ---
+
+ākāśaprabhavo vāyur vāyuprāṇo hutāśanaḥ 
+devā hutāśanaprāṇāḥ prāṇo agner madhusūdanaḥ ।।

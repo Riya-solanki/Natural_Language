@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 674 | label: meter | g:0.194 m:1.0 ---
+
+tadyaḥ kaścidataḥ prabhṛtyavinayaślāghānuvṛttyudbhavāt
+sāmantakṣitipārcitāmapi nṛpasyājñāmavajñāsyati ।
+sa svaireva viṣahya yajñapaśutāmāpāditaḥ karmabhir
+yūpābaddhatanurviṣādakṛpaṇaḥ śuṣyañjanairdrakṣyate ।।

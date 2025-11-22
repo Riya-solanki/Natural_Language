@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 905 | label: meter | g:0.25 m:0.75 ---
+
+aho hyupāyavinayaṃ mahopāyavatāmahaṃ ।
+yatsatvopāyavinayātkrodhatvaṃ yānti nirmalā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11593 | label: meter | g:0.306 m:0.5 ---
+
+dvārāvatī kāśikāvantikā ca prayāgakāñcyau mathurāpurī ca ।
+māyāvatī hastimatī purī ca kurvantu sa dṛ ।।

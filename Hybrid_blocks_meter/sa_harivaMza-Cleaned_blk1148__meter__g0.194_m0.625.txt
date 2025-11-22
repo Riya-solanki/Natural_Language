@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1148 | label: meter | g:0.194 m:0.625 ---
+
+yathaivāgre śrutaṃ dūrād apaśyāma tathāntikāt 
+babhruḥ śreṣṭho manuṣyāṇāṃ devair devāvṛdhaḥ samaḥ ।।

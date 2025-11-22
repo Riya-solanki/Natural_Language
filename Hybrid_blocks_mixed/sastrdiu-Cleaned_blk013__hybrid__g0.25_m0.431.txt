@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 13 | label: hybrid | g:0.25 m:0.431 ---
+
+tathāhi asatyadhyayanavidhāvagnihotrādiśāstrāṇi vidvāṃsamalabhamānānyavidvāṃsamevādhikṛtya vidyāmantareṇānuṣṭhānāsaṃbhavādvidyāmākṣipatyaviśeṣāccaturo varṇānadhikuryuḥ ।
+satitvadhyayanavidhau traivarṇikānāmeva viduṣāmadhikāro bhavati na turīyādeḥ ।।

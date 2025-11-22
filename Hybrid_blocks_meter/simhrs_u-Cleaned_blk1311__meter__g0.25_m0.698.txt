@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 1311 | label: meter | g:0.25 m:0.698 ---
+
+atha garbha-sandhiḥ-
+dṛṣṭādṛṣṭasya bījasya garbhas tv anveṣaṇaṃ muhuḥ । 
+atrāpy ācāpatākānurodhād aṅgāni kalpayet ।।
+abhūtāharaṇaṃ mārgo rūpodāharaṇe kramaḥ । 
+saṅgrahaś cānumānaṃ ca toṭakādhibale tathā ।
+udvegaḥ sambhramāksepau dvādaśaiṣāṃ tu lakṣaṇam ।।

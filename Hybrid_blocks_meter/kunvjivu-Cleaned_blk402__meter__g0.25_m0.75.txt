@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 402 | label: meter | g:0.25 m:0.75 ---
+
+yatra dūrāntare anyasmātsāmānyamupacaryate ।
+leśenāpi bhavat kāñcidvaktumudriktavṛttitām ।।
+yanmūlā sarasollekhā rūpakādiralaṅkṛtiḥ ।
+upacārapradhānāsau vakratā kāciducyate ।।

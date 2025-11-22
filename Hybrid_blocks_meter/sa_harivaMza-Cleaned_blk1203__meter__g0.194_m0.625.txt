@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1203 | label: meter | g:0.194 m:0.625 ---
+
+citrakasyābhavan putrāḥ pṛthur vipṛthur eva ca 
+aśvaseno aśvabāhuś ca supārśvakagaveṣaṇau ।।

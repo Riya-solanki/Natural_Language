@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 911 | label: meter | g:0.102 m:0.695 ---
+
+yājayām āsa cendrotaḥ śaunako janamejaya 
+aśvamedhena rājānaṃ pāvanārthaṃ dvijottamāḥ 
+sa lohagandho vyanaśat tasyāvabhṛtham etya ha ।।

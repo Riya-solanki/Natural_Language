@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 157 | label: meter | g:0.141 m:0.959 ---
+
+yathā-
+tamaḥ-savarṇaṃ vidadhe vibhūṣaṇaṃ
+nināda-doṣeṇa nunoda nūpuram ।
+pratīkṣituṃ na sphuṭa-candrikā-bhayād
+iyeṣa dūtīm abhisārikā-janaḥ ।।

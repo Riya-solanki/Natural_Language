@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3892 | label: meter | g:0.25 m:0.5 ---
+
+yaṃ yaṃ karābhyāṃ spṛśati jīrṇaṃ yauvanam eti saḥ 
+śāntiṃ cāpnoti yenāgryāṃ karmaṇā tena śāṃtanuḥ ।।

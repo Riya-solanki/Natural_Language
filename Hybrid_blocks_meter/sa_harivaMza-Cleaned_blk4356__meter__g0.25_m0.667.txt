@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4356 | label: meter | g:0.25 m:0.667 ---
+
+rukmiṇyāṃ vāsudevasya lakṣmīkāmo dhṛtavrataḥ 
+śambarāntakaro jajñe pradyumnaḥ kāmadarśanaḥ ।। 
+sanatkumāra iti yaḥ purāṇe parigīyate । 
+taṃ saptarātre saṃpūrṇe niśīthe sūtikāgṛhāt 
+jahāra kṛṣṇasya sutaṃ śiśuṃ vai kālaśambaraḥ ।।

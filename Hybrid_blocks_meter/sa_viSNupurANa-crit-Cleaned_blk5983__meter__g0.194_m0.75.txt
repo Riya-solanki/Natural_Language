@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5983 | label: meter | g:0.194 m:0.75 ---
+
+duḥśīlā duṣṭaśīleṣu kurvantyaḥ satataṃ spṛhām 
+asadvṛttā bhaviṣyanti puruṣeṣu kulāṅganāḥ ।।

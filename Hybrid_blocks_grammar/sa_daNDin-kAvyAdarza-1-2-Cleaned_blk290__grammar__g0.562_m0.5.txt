@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 290 | label: grammar | g:0.562 m:0.5 ---
+
+abhinnavelau gambhīrāv amburāśir bhavān api asāv añjanasaṃkāśas tvaṃ tu cāmīkaradyutiḥ ।।

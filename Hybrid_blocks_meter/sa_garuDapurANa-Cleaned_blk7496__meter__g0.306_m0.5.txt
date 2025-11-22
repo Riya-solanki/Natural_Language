@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7496 | label: meter | g:0.306 m:0.5 ---
+
+yo aśvaṃ dadāti viprāya svargaloke ca tiṣṭhati ।
+yāvanti romāṇi haye bhavanti hi khageśvara ।।

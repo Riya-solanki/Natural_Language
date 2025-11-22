@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 977 | label: grammar | g:0.75 m:0.5 ---
+
+nāyaṃ toyadavicyutasya payasaḥ pūrṇo na tīrthāmbhasaḥ kaiñjalkasya sugandhino na madhunaḥ sarpirviśeṣasya vā । na kṣīrasya vijṛmbhamāṇakumudavyabhrendupādacchaveḥ pūrṇaḥ pāpamayasya yasya tu ghaṭastasya prabhāvaṃ śṛṇu ।।

@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 902 | label: grammar | g:0.583 m:0.5 ---
+
+atra nāyakapratāpapakṣe kṛpāṇakrodhaviśikhamukhalakṣaṇānāmāhāryāṇāmanalapakṣe dhūmasphuliṅgaśikhānāṃ sahajānāṃ cāvayavānāṃ rupakāṇāṃ vairirājanyakṣobhakaraṇe prādhānyamiti sahajāhāryāṅgapradhānaṃ rūpakamidam ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3246 | label: meter | g:0.25 m:0.5 ---
+
+līlāṃ karoti yo rājā bhṛtyasvajanagarvitaḥ ।
+śāsane sarvadā kṣipraṃ ripubhiḥ paribhūyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 550 | label: meter | g:0.25 m:0.5 ---
+
+evamādyāḥ smṛtā ye tu maṇimālā varānane 
+na tatra vidyate devo na mantro naiva cetanā ।।

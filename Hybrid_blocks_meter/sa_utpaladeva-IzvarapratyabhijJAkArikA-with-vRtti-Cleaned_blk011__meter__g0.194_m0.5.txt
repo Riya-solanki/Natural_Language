@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 11 | label: meter | g:0.194 m:0.5 ---
+
+tatra jñānaṃ svataḥsiddhaṃ kriyā kāyāśritā satī 
+parair apy upalakṣyeta tayānyajñānam ūhyate ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 281 | label: grammar | g:0.75 m:0.5 ---
+
+[] vṛndāha-yady evaṃ tarhy anyena tāsāṃ pāṇipīḍanaṃ punar atīva pīḍanam । yatra prāyaścittāntaram api na cintayanti tantra-vidaḥ, tat kathaṃ sāmprataṃ sva-vratam upekṣase?

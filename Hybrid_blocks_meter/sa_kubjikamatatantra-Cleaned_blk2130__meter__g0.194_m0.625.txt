@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2130 | label: meter | g:0.194 m:0.625 ---
+
+dvīpāmnāyas tu prathamo devyāmnāyo dvitīyakaḥ 
+pīṭhāmnāyas tṛtīyas tu siddhāmnāyaś caturthakaḥ ।।

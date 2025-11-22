@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 108 | label: meter | g:0.25 m:0.625 ---
+
+tacchrīmadrāruḍaṃ puṇyaṃ sarvadaṃ paṭhatastava ।
+vakṣye vyāsaṃ namaskṛtya śṛṇu śaunaka tadyathā ।।

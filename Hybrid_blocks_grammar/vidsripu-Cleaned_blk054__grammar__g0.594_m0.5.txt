@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 54 | label: grammar | g:0.594 m:0.5 ---
+
+cyutām indor lekhāṃ ratikalahabhagnaṃ ca valayaṃ dvayaṃ cakrīkṛtya prahasitamukhī śailatanayā ।
+avocad yaṃ paśyety avatu sa śivaḥ sā ca girijā sa ca krīḍācandro daśanakiraṇāpūritatanuḥ ।।

@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 40 | label: meter | g:0.25 m:0.654 ---
+
+tatra nāyakaḥ
+ālambanaṃ mataṃ tatra nāyako guṇavān pumān ।
+tad-guṇās tu mahā-bhāgyam audāryaṃ sthairya-dakṣate ।।
+aujjvalyaṃ dhārmikatvaṃ ca kulīnatvaṃ ca vāgmitā ।
+kṛtajñatvaṃ nayajñatvaṃ śucitā māna-śālitā ।।
+tejasvitā kalāvattvaṃ prajā-rañjakatādayaḥ ।
+ete sādhāraṇāḥ proktāḥ nāyakasya guṇā budhaiḥ ।।

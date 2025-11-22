@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 216 | label: hybrid | g:0.507 m:0.5 ---
+
+svayam api yat puru racitaṃ tad yadi hṛdayaṃ tadā sadā śrāvyam ।
+kāvyaṃ nija-sacitaṃ yat tad idaṃ yuvakāṃ parasparaṃ śṛṇuthaḥ ।। [gīti]

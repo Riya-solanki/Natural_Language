@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 245 | label: grammar | g:0.667 m:0.5 ---
+
+atha deśamātrasya dhūmenopalakṣaṇaṃ na deśaviśeṣasya, tato agnimattvamapi tanmātrasyāvagataṃ na deśaviśeṣasya, ato liṅgaliṅginoraviśeṣāt liṅgasyaiva deśakālātireko na liṅginaḥ iti pralāpamātram ।
+api ca yatrāgnīndhanasaṃyogastatra dhūma ityanena dhūmo apyavagata eveti na kiñcidapyavagantavyamavaśiṣyate dhūmajñānenetyalaṃ bālajalpitena ।।

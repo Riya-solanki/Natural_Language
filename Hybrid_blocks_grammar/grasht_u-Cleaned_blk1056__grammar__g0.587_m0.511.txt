@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 1056 | label: grammar | g:0.587 m:0.511 ---
+
+taccāha śarapuṅkhetyādi ।।
+āsāṃ auṣadhīnāṃ madhye ekatamā yā uditā kathitā śṛtā kvathitā tāṃ hi niścitaṃ ajīrṇe seveta tena ajīrṇaṃ naśyatīti bhāvaḥ ।।
+tāḥ kā auṣadhyaḥ śarapuṅkhā prasiddhā suradālī devadālī paṭolaṃ pratītaṃ nāma bimbī golā kākamācī prasiddhā etā ityarthaḥ ।।

@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 207 | label: meter | g:0.25 m:0.594 ---
+
+svātmaparyavasāyitve nīlabuddhestadvaśena svātmāṃśagrāhitā na siddhyet ।
+āhaca- caitrādipratyayānāṃ ca nirālambanatā yadi ।
+dharmabhūtā na gṛhyeta sādhanotthitayā dhiyā ।।
+tato viṣayanānātvātpratiyogyanirākṛtā ।
+rūpātsālambanaprāptiḥ satī kena nicāryate iti ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 831 | label: grammar | g:0.75 m:0.5 ---
+
+[] tathā hi, ahaha, nava-navanīta-nīti-sukumārā kumāra-tanur iyam akharva-parvata-bhārataḥ kīdṛg abhavad bhavati bhaviṣyati ca iti sneha-maya-sandeha-rīti-bhītimantas te, tad etat kleśa-kulam asmad-vapur āveśaṃ sandeśatayā prayāsyati ity abhiprayanta iva, tam āśliṣyantas tatrāpy aviśvāsā iva, viśeṣād aśeṣāśiṣaḥ prayuñjānā, nija-vaṃśaṃ yaśasvatādi-yuktaṃ kurvāṇā iva, te tat-tan-nāmnā samāmnātāś ciraṃ bāṣpa-niṣpatti-bhitta-netra-vṛttayaḥ saṃvṛttāḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2993 | label: meter | g:0.25 m:0.5 ---
+
+carate carmagā yena svaraṅgena tu rañjitā 
+carmakārī tu sā caikā mātaṅgī ca tatocyate ।।

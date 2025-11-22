@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3923 | label: grammar | g:0.729 m:0.5 ---
+
+asyātmajo agnimitras tasmāt sujyeṣṭhas tato vasumitras tasmād apy ardrakas tataḥ pulindakas tato ghoṣavasus tasmād api vajramitras tato bhāgavataḥ ।।

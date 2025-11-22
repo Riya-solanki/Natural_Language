@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10684 | label: hybrid | g:0.531 m:0.5 ---
+
+hareḥ svarūpaṃ na vijānāti sarvaṃ svayo gyarūpaṃ sarvadā vetti viṣṇoḥ ।
+tatrājñānaṃ nāsti kiñciddvijendra yāvatsvarūpaṃ ca tathaiva lakṣmyāḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 343 | label: grammar | g:0.562 m:0.5 ---
+
+taveśa bhakter arcāyāṃ dainyāṃśaṃ dvayasaṃśrayam vilupyāsvādayanty eke vapur acchaṃ sudhāmayam ।।

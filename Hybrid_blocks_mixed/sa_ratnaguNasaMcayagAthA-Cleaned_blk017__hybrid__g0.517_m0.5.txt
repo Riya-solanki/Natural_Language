@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 17 | label: hybrid | g:0.517 m:0.5 ---
+
+evaṃ carantu caratī sugatāna prajñāṃ no cāpi so labhati yatra carāti dharmam 
+caraṇaṃ ca so acaraṇaṃ ca prajānayitvā eṣā sa prajñavarapāramitāya caryā ।।

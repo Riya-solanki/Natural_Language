@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 800 | label: grammar | g:0.667 m:0.5 ---
+
+tatpratigrahītumenāmarhati madanugrahārthaṃ deva iti । atha rājā pratyādeśāllajjāvanatavadano madanavaśagato api svabhyastadharmasaṃjñatvādaviklavībhūtadhairyaḥ pratyākhyānaviśadākṣaramenamuvāca - naitadasti । kutaḥ?

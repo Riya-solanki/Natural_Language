@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 10 | label: meter | g:0.281 m:0.5 ---
+
+tatra saśayādīnāṃ pṛthagvacanamarthakame saṃśayādayo hi yathāsambhavaṃ pramāṇeṣu prameyeṣu cāntarbhavanto na vyatiraccinta iti।
+satyamevametat, imāstu catastro vidyāḥ pṛthakprasthānāḥ prāṇabhṛtāmanugrahāyopadiśyante, yāsāṃ

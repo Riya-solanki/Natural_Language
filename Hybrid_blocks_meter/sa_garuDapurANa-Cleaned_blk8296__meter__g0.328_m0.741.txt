@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8296 | label: meter | g:0.328 m:0.741 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+karmaṇā kena deveśa pretatvaṃ naiva jāyate ।
+pṛthivyāṃ sarvajantūnāṃ tad brūhi parameśvara ।।

@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 196 | label: grammar | g:0.667 m:0.407 ---
+
+cāraṇāyām abhrapattre vaiṣamyaṃ sattve ca sugamatvaṃ sūcayannāha niścandrikam ityādi ।।
+ihāsmin cāraṇāsaṃskāre niścandrikaṃ gaganaṃ tārakārahitam abhraṃ vāsanābhiḥ pūrvoktābhir vāsanauṣadhibhiḥ śatadhā śataprakāraṃ vāsitaṃ mathitam api rasendraḥ pāradas tadapi bahuśramaiḥ saṃskṛtamapyabhraṃ na carati grāsīkaroti ।।
+atra cāraṇe sattvaṃ yatnataḥ prayatnāt kathaṃ prabhavet kathamapi samarthībhavet sattvaṃ yatnataḥ samarthībhavedityarthaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3641 | label: meter | g:0.25 m:0.5 ---
+
+tava cāgamanaṃ dṛṣṭvā sabhāgyāḥ sma yathā purā 
+tena sma parituṣṭāś ca hṛṣitāś ca sabāndhavāḥ ।।

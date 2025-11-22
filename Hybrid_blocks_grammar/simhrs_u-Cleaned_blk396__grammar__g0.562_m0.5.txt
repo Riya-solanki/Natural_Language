@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 396 | label: grammar | g:0.562 m:0.5 ---
+
+atra sūryāstamayāt prāg eva caraṇa-prakṣālana-lakṣaṇayā kriyayā niṣkramaṇa-nivāraṇa-janitena hāsena sambhogecchā-prakaṭanān narma ।

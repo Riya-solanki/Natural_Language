@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 955 | label: grammar | g:0.632 m:0.375 ---
+
+nityavīpsayoḥ ।।
+ābhīkṣṇye vīpsāyāṃ ca dyotye padasya dvitvaṃ syāt । ābhīkṣṇyaṃ tiṅanteṣvavyayasaṃjñakeṣu ca kṛdanteṣu ca । smāraṃsmāraṃ namati śivam । pāyampāyam । śrāvaṃśrāvam ।।

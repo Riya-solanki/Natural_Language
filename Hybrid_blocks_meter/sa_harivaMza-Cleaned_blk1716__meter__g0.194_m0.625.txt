@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1716 | label: meter | g:0.194 m:0.625 ---
+
+cālayāmāsa dīptāṃśuṃ svargadvārāt sa bhāskaram 
+sāyanaṃ cāsya viṣayaṃ jahāra dinakarma ca ।।

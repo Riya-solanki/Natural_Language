@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 621 | label: grammar | g:0.75 m:0.5 ---
+
+yasyāpi nityenātmanā sātmakaṃ śarīraṃ dahyate tasyāpi śarīradāhe pātakaṃ na bhaved dagdhuḥ, kasmāt ? nityatvādātmanaḥ, na jātu kaścit nityaṃ hiṃsitumarhati, atha hiṃsyate ? nityatvamasya na bhavati, seyamekasmin pakṣe hiṃsā niṣphalā anyasmiṃstv anupapanneti ।।

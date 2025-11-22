@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7160 | label: meter | g:0.309 m:0.786 ---
+
+brahmovāca ।
+iti vyāsa mayā viṣṇoḥ purāṇaṃ muktidaṃ śrutam ।
+vyāsa uvāca ।
+śrutvaitadgāruḍaṃ puṇyaṃ brahmāsmānityuvāca ha ।।

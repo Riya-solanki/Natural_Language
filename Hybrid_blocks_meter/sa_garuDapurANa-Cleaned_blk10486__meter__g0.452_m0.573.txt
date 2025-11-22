@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10486 | label: meter | g:0.452 m:0.573 ---
+
+aniruddha uvāca ।
+evaṃ harestava kathāṃ rasikāṃ vihāya strīṇāṃ bhage ca vadane parimuhya nityam ।
+viṣṭhāntrapūritabile rasiko hi nityaṃ sthāyī ca sūkaravadeva vimūḍhabuddhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 466 | label: meter | g:0.25 m:0.625 ---
+
+pāṇigrahaṇamantrāṇāṃ niṣṭhā syāt saptame pade 
+na ca satyavratas tasmād dhṛtavān saptame pade ।।

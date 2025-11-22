@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 108 | label: grammar | g:0.562 m:0.5 ---
+
+cittattvasya māyāśaktyā bhinnaṃ ghaṭādi saṃvedyaṃ tattaddeśakālabhinnaṃ prakāśyate yasyābhedenāvaṣṭambhād vibhinnadeśakālādinā jñānasmṛtyādyābhāsate ।।

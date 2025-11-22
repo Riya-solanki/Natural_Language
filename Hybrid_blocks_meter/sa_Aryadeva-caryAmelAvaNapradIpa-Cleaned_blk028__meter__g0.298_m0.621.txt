@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 28 | label: meter | g:0.298 m:0.621 ---
+
+vicāryedaṃ samāsena kāyavākcittalakṣaṇam । bhāvayedvidhisaṃyogaṃ samādhiṃ mantrakalpitam ।। iti । 
+na yogaḥ pratibimbeṣu niṣiktādiṣu jāyate ।
+bodhicittamahāyogayoginastena devatāḥ ।।

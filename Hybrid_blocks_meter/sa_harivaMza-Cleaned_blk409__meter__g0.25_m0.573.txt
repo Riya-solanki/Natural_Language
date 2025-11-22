@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 409 | label: meter | g:0.25 m:0.573 ---
+
+ikṣvākuṇā parityakto vasiṣṭhavacanāt prabhuḥ 
+śaśādanāc chaśādo abhūc chaśādo vanamāviśat । 
+ikṣvākau saṃsthite tāta śaśādaḥ puram āvasat ।। 
+prāptaḥ paramadharmātmā yo ayodhyādhipatikriyām । 
+ayodhasya tu dāyādaḥ kakutstho nāma vīryavān 
+indrasya vṛṣabhūtasya kakutstho ajayatāsurān । 
+pūrvam āḍībake yuddhe kakutsthas tena sa smṛtaḥ । 
+anenās tu kakutsthasya pṛthur ānenasaḥ smṛtaḥ ।।

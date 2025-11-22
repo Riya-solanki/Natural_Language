@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9287 | label: hybrid | g:0.51 m:0.5 ---
+
+utpannā ye hi saṃsāre mriyante te na saṃśayaḥ ।
+bubhukṣā ca tṛṣā raudrā dāhodbhūtā ca mūrchanā ।।

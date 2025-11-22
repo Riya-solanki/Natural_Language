@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 223 | label: meter | g:0.25 m:0.75 ---
+
+so antas tathāvimarśātmā deśakālādyabhedini ।
+ekābhidhānaviṣaye mitir vastuny abādhitā ।।

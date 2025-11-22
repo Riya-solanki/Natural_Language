@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4636 | label: meter | g:0.25 m:0.75 ---
+
+garbhāśaye ca sutarāṃ śūlāṃścaivāsṛgāśraye ।
+yonistrāvaśca daurgandhyaṃ bhūyaḥ syandanavedane ।।

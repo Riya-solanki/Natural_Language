@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4049 | label: grammar | g:0.75 m:0.25 ---
+
+kecic cakrāgninirdagdhā dānavāḥ petur ambarāt 
+saṃnikarṣagatāḥ kecid gatāsuvikṛtānanāḥ ।। 
+garuḍasya hatāḥ pakṣaiḥ kecin mathitamastakāḥ । kecid dhanuḥprahāraiś ca pātitā dharaṇītale । kecit talanipātaiś ca pakṣapātaiś ca pakṣiṇaḥ । asṛjañ śaravarṣāṇi vṛṣṭimanta ivāmbudāḥ । vikṛtāṅgāsurāḥ sarve kṛṣṇabāṇaprapīḍitāḥ ।। śoṇitāktāś ca dṛśyante puṣpitā iva kiṃśukāḥ । vyadravanta suvitrastā bhagnāstrāś citrayodhinaḥ ।। punaś ca krodharaktākṣo vāyuvegena dānavaḥ । daśavyāmocchritaṃ vṛkṣaṃ samāruhya vanaspatim । vṛkṣam utpāṭya vegena pratigṛhyābhyadhāvata ।। cikṣepa sumahāvṛkṣaṃ śikṣayā tu ghanākṛtiḥ । vṛkṣavegāniloddhūtaḥ śuśruve sumahāsvanaḥ ।। tataḥ śarasahasreṇa tvaramāṇo janārdanaḥ । naikadhā taṃ praciccheda citrabhaktinibhākṛtim ।। punaś caikena bāṇena hayagrīvasya corasi । vivyādha stanayor madhye sāyako jvalanaprabhaḥ । viveśa so ativegena hṛdaṃ bhittvā vinirgataḥ । 
+taṃ jaghāna mahāghoraṃ hayagrīvaṃ mahāsuram 
+apāratejā durdharṣaḥ sarvayādavanandanaḥ ।।

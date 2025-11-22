@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 70 | label: hybrid | g:0.306 m:0.42 ---
+
+-pūrvadṛṣṭayorabhimukhayoḥ ādarthodakayordeśa eva deśo yasya tasya bhāvastattā ।
+tathā ca mukhādau tadāropa ityarthaḥ ।

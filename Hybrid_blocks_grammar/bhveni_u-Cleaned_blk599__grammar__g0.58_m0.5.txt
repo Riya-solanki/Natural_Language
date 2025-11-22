@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 599 | label: grammar | g:0.58 m:0.5 ---
+
+yo yaḥ śastraṃ bibharti svabhujagurumadaḥ pāṇḍavīnāṃ camūnāṃ yo yaḥ pāñcālagotre śiśuradhikavayā garbhaśayyāṃ gato vā
+yo yastatkarmasākṣī carati mayi raṇe yaśca yaśca pratīpaḥ ē̃ krodhāndhastasya tasya svayamapi jagatāmantakasyāntako aham ।।

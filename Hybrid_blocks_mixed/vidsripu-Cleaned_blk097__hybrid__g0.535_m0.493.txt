@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 97 | label: hybrid | g:0.535 m:0.493 ---
+
+pratyāsannavivāhamaṅgalavidhau devārcananyastayā dṛṣṭāgre pariṇetur eva likhitāṃ gaṅgādharasyākṛtim ।
+unmādasmitaroṣalajjitam asau gauryā kathaṃcic cirād vṛddhastrīvacanāt priye vinihitaḥ puṣpāñjaliḥ pātu vaḥ ।।
+NB Ingalls conjecture @lajjitarasais for @lajjitam asau in c

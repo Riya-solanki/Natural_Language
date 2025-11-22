@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3555 | label: meter | g:0.194 m:0.625 ---
+
+niḥśabdastimite tasmin yogād iva mahārṇave 
+jarāsaṃdho bṛhad vākyaṃ bṛhaspatir ivādade ।।

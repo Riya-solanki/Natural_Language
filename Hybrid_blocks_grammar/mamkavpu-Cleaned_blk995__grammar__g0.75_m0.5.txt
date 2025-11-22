@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 995 | label: grammar | g:0.75 m:0.5 ---
+
+atrautsukyaśabda iva tadanubhāvo na tathā pratītikṛt । ata eva adūrādutsukam'; ityādau vrīḍāpremādyanubhāvānāṃ । vivalitatvādīnāmivotsukatvānubhāvasya sahasā prasaraṇādirūpasya tathā pratipattikāritvābhāvādutsukamiti kṛtam ।।

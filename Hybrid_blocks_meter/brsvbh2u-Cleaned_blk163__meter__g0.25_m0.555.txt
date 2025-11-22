@@ -1,0 +1,5 @@
+--- source: brsvbh2u-Cleaned.txt | block: 163 | label: meter | g:0.25 m:0.555 ---
+
+pratītya cittacaittā utpadyanta ityabhāvakāraṇatva uparudhyeta ।
+athottarakṣaṇotpattiṃ yāvattāvadavatiṣṭhata iti ।
+utpattirutpadyamānādbhāvādabhinnā, tathā ca kṣaṇikatvahāniriti pratijñāhāniḥ ।।

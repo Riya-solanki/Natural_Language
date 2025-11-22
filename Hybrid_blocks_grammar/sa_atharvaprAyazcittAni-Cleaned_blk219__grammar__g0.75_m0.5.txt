@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 219 | label: grammar | g:0.75 m:0.5 ---
+
+yo vanaspatīnām upatāpo na āgād yad vā yajñaṃ no adbhutam ājagāma । sarvaṃ tad agne hutam astu bhāgaśaḥ śivān vayam uttaremābhi vājān । tvaṣṭre svāhā iti hutvā ।

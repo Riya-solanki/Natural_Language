@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 16 | label: hybrid | g:0.5 m:0.5 ---
+
+svapna [svapne] sa jīvaḥ sukhaduḥkhabhoktā svamāyayā kalpitajīvaloke ।
+suṣuptikāle sakale vilīne tamo abhibhūtaḥ sukharūpam eti ।।

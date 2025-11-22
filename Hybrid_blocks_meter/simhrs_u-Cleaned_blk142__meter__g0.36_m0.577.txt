@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 142 | label: meter | g:0.36 m:0.577 ---
+
+yathā-
+ā darśanāt praviṣṭā sā me sura-loka-sundarī hṛdayam ।
+bāṇena makara-ketoḥ kṛta-mārgam abandhya-pātena ।।

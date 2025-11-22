@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 701 | label: meter | g:0.194 m:0.75 ---
+
+ekāgracetāḥ satataṃ viṣṇum evātmasaṃśrayam 
+dṛṣṭavān pṛthivīnāthaputro nānyat kathaṃcana ।।

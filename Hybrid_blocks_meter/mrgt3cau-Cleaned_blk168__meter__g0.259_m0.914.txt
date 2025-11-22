@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 168 | label: meter | g:0.259 m:0.914 ---
+
+guptākṣasūtrapūjāṅgaḥ kriyākālavibhāgavit
+kramaśaḥ siddhimāpnoti siddhikṣetrāṇi saṃcaran ।

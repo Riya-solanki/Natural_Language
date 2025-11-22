@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 54 | label: meter | g:0.056 m:0.729 ---
+
+rāgam īdṛśam asāv acīkpat
+prāpa rāgaīva yaḥ priyā-hṛdi ।
+yaḥ sphuṭaṃ na rasitaḥ purā bhuvi
+kvāpi nāmṛtavad aṅga-viśrutaḥ ।। [rathoddhatā]

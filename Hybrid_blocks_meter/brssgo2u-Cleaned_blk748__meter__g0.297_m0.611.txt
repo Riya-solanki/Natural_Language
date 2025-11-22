@@ -1,0 +1,7 @@
+--- source: brssgo2u-Cleaned.txt | block: 748 | label: meter | g:0.297 m:0.611 ---
+
+jīvasya kartṛtve hetvantarārthaṃ sūtram-śaktīti ।
+buddheḥ karaṇaśaktiviparītā kartṛśaktiḥ syādityarthaḥ ।
+tataḥ kiṃ, tatrāha-satyāṃ ca buddheriti ।
+yo ahandhīgamyaḥ ।
+sa kartā sa eva jīvo yattadapekṣitaṃ karaṇaṃ tanmana iti jīvakartṛtvasiddhiriti bhāvaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 344 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca tayoḥ kuṭṭimayor madhya-bhāgaś ca prāṅgaṇāt kramata unnataḥ । svayaṃ tu vistīrṇatayā nātinimnatayā ca kuṭṭima-sthānāṃ suṣṭhu dṛṣṭi-saṅgataḥ san vibhrājate sma । śrī-bhājaṃ goloka-samrājam abhimukhīkṛtya tayoḥ kuṭṭimayor madhyasthau puṭitāgra-hastau tau sūta-sutau tu saha sahāyam utthāna-yutau vartete sma । yayoś ca savyāpasavyataḥ sarve vrajasthāḥ sūtādiṣu sphurad-arhad-avasthā-viśiṣṭam upaviṣṭā vistīrṇatāsāṅga-prāṅgaṇe tu pare śiṣṭāḥ ।

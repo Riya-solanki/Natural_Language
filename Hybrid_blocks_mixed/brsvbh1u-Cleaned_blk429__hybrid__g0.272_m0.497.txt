@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 429 | label: hybrid | g:0.272 m:0.497 ---
+
+abhāvārthāḥ karmaśabdāstebhyaḥ kriyā pratīyeta'iti ।
+dravyaguṇaśabdānāṃ naimittikāvasthāyāṃ kāryāvamarśe api, bhāvasya svataḥ, dravyaguṇaśabdānāṃ tu bhāvayogātkāryāvamarśa iti

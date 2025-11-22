@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 528 | label: hybrid | g:0.5 m:0.5 ---
+
+alasayati gātram adhikaṃ bhramayati cetas tanoti saṃtāpam ।
+mohaṃ ca muhuḥ kurute viṣamaviṣaṃ vīkṣitaṃ tasyāḥ ।।

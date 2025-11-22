@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 30 | label: hybrid | g:0.41 m:0.345 ---
+
+bhavatā kila śabdamātraṃ hi devatā iti pratijñātam ataḥ śabdavyatiriktadevatānabhyupagame saty etad āpatitaṃ yad uta vācakavyatiriktavācyārthāsambhavaḥ ।
+indrādiśabdānāṃ nānyo vācyo artho vidyate ।
+evaṃ śabdatvāviśeṣāt ghaṭādāv api ayam eva nyāyo astu na caitad yuktam anubhavavirodhāt ।। 
+tathā hi ।।

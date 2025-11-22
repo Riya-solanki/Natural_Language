@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2159 | label: meter | g:0.25 m:0.5 ---
+
+badhvā caikavarāṃ samyak mahāmudrāṃ samādhitaḥ ।
+padmaṃ guhya pradātavyaṃ vaśī[karo avaśyaṃ bhavet] ।।

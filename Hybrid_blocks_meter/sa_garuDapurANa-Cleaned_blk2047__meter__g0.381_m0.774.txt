@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2047 | label: meter | g:0.381 m:0.774 ---
+
+vicitravarṇeṣu viśuddhavarṇā payaḥ su patyuḥ payasāṃ papāta ।
+sampūrṇacandrāṃśukalāpakāntermāṇipravekasya mahāguṇasya ।।

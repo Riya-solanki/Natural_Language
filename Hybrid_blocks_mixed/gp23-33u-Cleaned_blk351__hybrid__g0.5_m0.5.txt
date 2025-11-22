@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 351 | label: hybrid | g:0.5 m:0.5 ---
+
+sambhāvitaṃ na valate sma yad asmakābhis tvat-prāptir atra bhaviteti tayā ca jātam । vijñāpanaṃ tu na idaṃ śṛṇu kṛṣṇa tasmin aṅgīkṛtaṃ pariharanti na jātu santaḥ ।। [vasantatilakā]

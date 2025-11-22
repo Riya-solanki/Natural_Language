@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1387 | label: grammar | g:0.583 m:0.5 ---
+
+mātar dharmarate kṛpāṃ kuru mayi śrānte ca vaideśike dvārālindakakoṇakeṣu nibhṛtaḥ sthitvā kṣipāmi kṣapām ।
+ity evaṃ gṛhiṇīpracaṇḍavadanāvākyena nirbhartsitaḥ skandhe nyastapalālamuṣṭivibhavaḥ pānthaḥ śanair gacchati ।।

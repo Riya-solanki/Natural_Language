@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 510 | label: meter | g:0.25 m:0.625 ---
+
+āveṇikā munereva dharmā ye aṣṭādaśeritāḥ ।
+sarvākārajñatā ceti dharmākāyo abhidhīyate ।।

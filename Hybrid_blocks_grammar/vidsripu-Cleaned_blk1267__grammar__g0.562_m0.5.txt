@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1267 | label: grammar | g:0.562 m:0.5 ---
+
+udyantu nāma subahūni mahāmahāṃsi candro apy alaṃ bhuvanamaṇḍalamaṇḍanāya ।
+sūryād ṛte na tad udeti na cāstam eti yenoditena dinam astamitena rātriḥ ।।

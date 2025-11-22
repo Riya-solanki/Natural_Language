@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 969 | label: meter | g:0.102 m:0.695 ---
+
+pūrṇabhadraprasādena haryaṅgo asya suto abhavat 
+tato vibhāṇḍakas tasya vāraṇaṃ śatruvāraṇam 
+avatārayām āsa mahīṃ mantrair vāhanam uttamam ।।

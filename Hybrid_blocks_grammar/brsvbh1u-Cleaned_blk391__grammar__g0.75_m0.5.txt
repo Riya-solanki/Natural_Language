@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 391 | label: grammar | g:0.75 m:0.5 ---
+
+-stutaśastravaditi । aājyaiḥ stuvate praugaṃ śaṃsati iti stutaśastre samāmnāte, pragītamantrasādhyaṃ devatāguṇasaṃbandhābhidhānaṃ stotram । apragītamantrasādhyaṃ śastram । te mantrairevārthaḥ smartavyaḥ'iti niyamāddevatāprakāśanasaṃskārārthatvena guṇakarmaṇi vā apūrvārthatvena pradhānakarmaṇi veti saṃdehe kratūpayogidevatāsmaraṇasya dṛṣṭatvādguṇakarmatve prāpte siddhāntaḥ-guṇābhidhānena svarūpaprakāśanarūpastutiriha vihitā śrūyate astuvate' aśaṃsati'iti । abhidhānavivakṣāyāṃ stuterasaṃbhavāt, stautiśaṃsatī apūrvotpattiṃ prati stotraśastre vidadhyātāmiti । evamihātmopāsanadarśane pradhānakarmetyaśayaḥ ।

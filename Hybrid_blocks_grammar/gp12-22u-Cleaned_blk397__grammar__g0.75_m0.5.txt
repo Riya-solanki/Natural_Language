@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 397 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca vismaya-phulla-vilocanatayā vyativilokamānāsu tāsu sūrajā-pūrataḥ kāpy adūrataḥ sametya śrī-rādhām upetya sarvāś cāhūya svayaṃ vibhūya tat-tad-gātraṃ gṛhītvā pātraṃ mocayitum īhitvā tīraṃ pratīrayāmāsa । [] sā hi phullendīvara-sundarī svayam eva kālindī । tayā ca tīram ānītāsu tāsu vṛndayā kathita-tat-tad-vṛtta-vṛndayā madhumaṅgalena ca vāñchita-tad-vṛtta-maṅgalena sahitā parama-hitā mahitā pūrṇimā ca tūrṇam evāgatā ।

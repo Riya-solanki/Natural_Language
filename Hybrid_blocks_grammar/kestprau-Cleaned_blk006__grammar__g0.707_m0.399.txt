@@ -1,0 +1,9 @@
+--- source: kestprau-Cleaned.txt | block: 6 | label: grammar | g:0.707 m:0.399 ---
+
+nanu viṣayāṇāṃ ghaṭādīnāṃ cetanasambandhaḥ sākṣādevāstu kiṃ mahadādipraṇālikayeti cet ।
+tat kiṃ citireva viṣayabandhanasvabhāvā tathā sati caityanyanityatayā mokṣaḥ kadāpi na syāt ।
+atha caitanyaṃ prakṛtau pratibimbitaṃ prakṛtiviṣayayostu sākṣāt sambandhaḥ syāt kiṃ mahadādineti cet tathāhi puruṣavannityatayā punaranirmokṣāpattireva ।
+atha citirviṣayasambaddhasvabhāvā māstu viṣayā eva citisambaddhasvabhāvāḥ santu tathā ca viṣayatirobhāve mokṣaḥ syāditi cet tarhīdaṃ dṛṣṭamiti na syāt sarvathā citisambandhasvābhāvyenāvyavadhānāt ।
+atha viṣayā indriyadvārā citisambaddhātmānaḥ santu dṛṣṭādṛṣṭavyavahārādi sannikarṣaviprakarṣābhyāmupapatsyata iti cenna vyāsaṅgānupapatteḥ indriyasambaddhe viṣaye jñānotpatterāvaśyakatvāt ।
+atha vyāsaṅgānupapattyā manaḥ kalpyatāṃ kimahaṃkāreṇa maivaṃ evaṃ ca sati svasmin vyāghrohaṃ varāhohamiti nāropayet kiṃtvindriyaṃ manodvārā citisambaddhaṃ svakīyaṃ naratvameva gṛhṇīyāt ।
+athaivamahaṃkārostu svapnadaśāyāmāropārthaṃ buddhitattve na mānamasti maivaṃ suṣuptyavasthāyāṃ manovadahaṃkāropi nivṛttavyāpāra eva tathā ca śvāsaprayojakajīvanayoniyatnasya vyāpāraḥ syāditi tadanurodhena buddhitattvasyāpyāvaśyakatvāt tasmādbuddhitattvaṃ parigamena sambaddho viṣayo gajaturagamahiṣādiḥ puruṣeṇa caitanyena sambadhyate tata āsaṃsārabuddhitattvanāśādeva ca mokṣa iti nānirmokṣaḥ ।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1298 | label: grammar | g:0.667 m:0.5 ---
+
+[] sakhāyas tu yājñikeṣu jagmivāṃso jakṣivāṃsaś ca vayam iti saṅkocena na kañcid apy ūcivāṃsaś ca ।

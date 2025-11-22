@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4256 | label: meter | g:0.194 m:0.5 ---
+
+akrūrasya ca pratyakṣaṃ yan nāgabhavane prabhuḥ 
+pūjyamānas tadā nāgair divyaṃ vapur adhārayat ।।

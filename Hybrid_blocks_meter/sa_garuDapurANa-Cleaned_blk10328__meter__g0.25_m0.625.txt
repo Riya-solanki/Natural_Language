@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10328 | label: meter | g:0.25 m:0.625 ---
+
+miśritaṃ bhavati hyaddhā mahattattvaṃ tadā smṛtam ।
+etadanyo viśeṣaśca mantadhyo vinatāsuta ।।

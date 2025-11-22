@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2237 | label: meter | g:0.194 m:0.5 ---
+
+bhūpater vadatas tasya śrutvetthaṃ bahuśo vacaḥ 
+śibikodvāhakāḥ procur ayaṃ yātīty asatvaram ।।

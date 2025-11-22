@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 625 | label: meter | g:0.25 m:0.5 ---
+
+sagauravo asau guruṣu prakṛtyā dīneṣu kāruṇyamṛdusvabhāvaḥ ।
+kṛtāparādheṣv api maitracittaḥ samantabhadras tu suhṛjjaneṣu ।।

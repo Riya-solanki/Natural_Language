@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1391 | label: meter | g:0.306 m:0.5 ---
+
+strāyānnadīṣu śuddhāsu śaucaṃ kṛtvā yathāvidhi ।
+prataḥ snānena pūyante ye api pāpakṛto janāḥ ।।

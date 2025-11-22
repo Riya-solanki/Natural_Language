@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 196 | label: meter | g:0.194 m:0.625 ---
+
+saṃbhakṣayitvā sakalaṃ jagaty ekārṇavīkṛte 
+śeṣe tvam eva govinda cintyamāno manīṣibhiḥ ।।

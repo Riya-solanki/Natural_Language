@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2034 | label: meter | g:0.306 m:0.5 ---
+
+ityevamukto hariṇā kumārastvabhyetya tīrthaṃ prasamīkṣya śaṃbhum ।
+snātvārcya devān sa raviprakāśo jagāma śailaṃ sadanaṃ harasya ।।

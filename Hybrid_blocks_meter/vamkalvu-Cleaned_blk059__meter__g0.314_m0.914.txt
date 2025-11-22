@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 59 | label: meter | g:0.314 m:0.914 ---
+
+samastātyudbhaṭapadāmojaḥkāntiguṇānvitām ।
+gauḍīyāmiti gāyanti rītiṃ rītivicakṣaṇāḥ ।।

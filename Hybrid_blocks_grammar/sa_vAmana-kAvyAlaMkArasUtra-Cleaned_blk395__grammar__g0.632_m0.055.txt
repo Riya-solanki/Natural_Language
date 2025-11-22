@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 395 | label: grammar | g:0.632 m:0.055 ---
+
+idaṃ ca nārthāntaranyāsaḥ । sa hyanyathābhūtastamāha 
+uktisiddhyai vastuno'rthāntarasyaiva nyasanamarthāntaranyāsaḥ ।।
+uktasiddhyai uktasyārthasya siddhyartha vastuno vākyārthāntarasyaiva nyasanamarthāntaranyāsaḥ । vastugrahaṇādarthasya hetornyasanannārthāntaranyāsaḥ । yathā iha nātidūragocaramasti saraḥ kamalasaugandhyāt iti । arthāntarasyaiveti vacanam, yatra heturvyāptigūḍhatvāt kathañcit pratīyate tatra yathā syāt । yadyat kṛtakaṃ tattadanityamityevamprāyeṣu māṃ bhūditi । udāharaṇam ।

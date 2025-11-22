@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 552 | label: meter | g:0.306 m:0.625 ---
+
+tato vyāsavanaṃ gacchenniyato niyatāśanaḥ ।
+manojave naraḥ snātvā miśrake snāti yo naraḥ ।।

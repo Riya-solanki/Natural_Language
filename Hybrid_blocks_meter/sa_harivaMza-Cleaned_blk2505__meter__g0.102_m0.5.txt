@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2505 | label: meter | g:0.102 m:0.5 ---
+
+vrīḍitā vismitāś caiva śokārtāś ca punaḥ punaḥ 
+kecit tu kṛṣṇa hā heti hā dhig ity apare punaḥ 
+apare hā hatāḥ smeti rurudur bhṛśaduḥkhitāḥ ।।

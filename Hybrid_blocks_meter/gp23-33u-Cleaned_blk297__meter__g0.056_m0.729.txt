@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 297 | label: meter | g:0.056 m:0.729 ---
+
+kācit karaṃ caraṇam asya parā tathorum
+anyāvalagnam aparā mṛdu mardayantī ।
+antar nigūḍha-kupitā bahir accha-bhāvā
+bhrū-locana-prasṛmara-smitam abhyuvāca ।। [vasantatilakā]

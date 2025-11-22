@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2432 | label: meter | g:0.25 m:0.5 ---
+
+jagannāthaṃ ye apcayanti subhadrāṃ balabhadrakam ।
+jñānaṃ prāpya śriyaṃ putrānvrajanti puruṣottamam ।।

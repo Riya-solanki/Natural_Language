@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 139 | label: grammar | g:0.604 m:0.5 ---
+
+[] evaṃ śrī-balarāmasya rāma-ghaṭṭākhya-nija-krīḍā-vana-gamanaṃ ca tala-vartmanaiva vartate, kintu saṃkṣiptatayā nihitena patrāvali-paryantāla-vāla-pihitena mantavyam ।

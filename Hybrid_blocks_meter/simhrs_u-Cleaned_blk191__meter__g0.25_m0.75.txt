@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 191 | label: meter | g:0.25 m:0.75 ---
+
+tatra śṛṅgāra-yogyatvaṃ sarasāhlāda-kāraṇam ।
+ādya-dvitīyayor eva na tṛtīya-caturthayoḥ ।।

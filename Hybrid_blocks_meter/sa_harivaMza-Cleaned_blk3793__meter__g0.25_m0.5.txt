@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3793 | label: meter | g:0.25 m:0.5 ---
+
+yathā syād devadeveśas tryambakaś ca yathāvyayaḥ 
+tathā tvaṃ deva mānyo asi viśeṣo nāsti me prabho ।।

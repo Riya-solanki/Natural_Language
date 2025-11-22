@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 925 | label: meter | g:0.194 m:0.625 ---
+
+gṛhītān indriyair arthān ātmane yaḥ prayacchati 
+antaḥkaraṇabhūtāya tasmai viśvātmane namaḥ ।।

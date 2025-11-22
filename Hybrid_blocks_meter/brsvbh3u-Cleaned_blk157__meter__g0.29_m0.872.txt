@@ -1,0 +1,4 @@
+--- source: brsvbh3u-Cleaned.txt | block: 157 | label: meter | g:0.29 m:0.872 ---
+
+ānandādayaḥ pradhānasya ।
+guṇavadupāsanāvidhānasya

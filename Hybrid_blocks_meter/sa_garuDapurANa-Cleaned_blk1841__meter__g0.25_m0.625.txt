@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1841 | label: meter | g:0.25 m:0.625 ---
+
+āḍhyānāṃ vartulaṃ vakraṃ nirdravyāṇāṃ ca dīrghakam ।
+bhīruvakraḥ pāpakarmā dhūrtānāṃ caturaśrakam ।।

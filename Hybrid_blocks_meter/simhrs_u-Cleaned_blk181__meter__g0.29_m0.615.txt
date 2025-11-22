@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 181 | label: meter | g:0.29 m:0.615 ---
+
+tatra yauvanam-
+sarvāsām api nārīṇāṃ yauvanaṃ tu caturvidham ।
+pratiyauvanam etāsāṃ ceṣṭitāni pṛthak pṛthak ।।

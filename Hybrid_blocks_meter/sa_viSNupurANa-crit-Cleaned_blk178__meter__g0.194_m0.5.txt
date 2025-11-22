@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 178 | label: meter | g:0.194 m:0.5 ---
+
+ekam asya vyatītaṃ tu parārdhaṃ brahmaṇo anagha 
+tasyānte abhūn mahākalpaḥ pādma ity abhiviśrutaḥ ।।

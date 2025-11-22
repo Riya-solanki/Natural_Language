@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 186 | label: meter | g:0.306 m:0.625 ---
+
+aṃśāvatīrṇena ca yena garbhe hṛtāni tejāṃsi mahāsurāṇām ।
+namāmi taṃ devamanantamīśamaśeṣasaṃsārataroḥ kuṭhāram ।।

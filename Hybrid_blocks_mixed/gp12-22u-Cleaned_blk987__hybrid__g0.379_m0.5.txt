@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 987 | label: hybrid | g:0.379 m:0.5 ---
+
+rāgaṃ vināsti hṛdayaṃ mādhava tava rocate ca tat tubhyam ।
+iti niyataṃ kanakāṅgī pāṇḍū-bhavati sphuṭaṃ rādhā ।। [āryā]
+[] tataś ca tasya sneha-vaśād deha-dravī-bhāvaṃ vyavasya punaḥ prahasya provāca-

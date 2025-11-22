@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1569 | label: grammar | g:0.594 m:0.5 ---
+
+chitvā pāśam apāsya kūṭaracanāṃ bhaṅktvā balād vāgurāṃ paryastāgniśikhākalāpajaṭilān niḥsṛtya dūraṃ vanāt ।
+vyādhānāṃ śaragocarād atijavenotplutya gacchan mṛgaḥ kūpāntaḥpatitaḥ karoti viguṇe kiṃ vā vidhau pauruṣam ।।

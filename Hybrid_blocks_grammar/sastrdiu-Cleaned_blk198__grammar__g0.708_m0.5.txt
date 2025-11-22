@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 198 | label: grammar | g:0.708 m:0.5 ---
+
+vyavahāro ato anubhūte sukhe na kaścitsukhaviṣayo vyavahāro asti na ca saṃbhavati, yataḥ sukhapratibaddhavyavahāro astīti kathaṃ tasya viṣayatvam ।।

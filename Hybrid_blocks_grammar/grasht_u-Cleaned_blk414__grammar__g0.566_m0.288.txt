@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 414 | label: grammar | g:0.566 m:0.288 ---
+
+jāraṇāyāṃ kṣāravidhānamāha jambīretyādi ।।
+kṣārā uktavṛkṣodbhavāḥ nitarām atiśayena garbhadrutijāraṇe rasāntargrāsajāraṇe śastā utkṛṣṭā bhavanti ।।
+kutaḥ jambīrabījapūrakacāṅgerīvetasāmlasaṃyogāt jambīraḥ pratītaḥ bījapūrako mātuluṅgaḥ cāṅgerī amlapatrikā vetasāmlaṃ cukrakaṃ eṣāṃ yo rasastasya saṃyogāt etairbhāvitāḥ kṣārā biḍavatkāryakarā iti bhāvaḥ ।।

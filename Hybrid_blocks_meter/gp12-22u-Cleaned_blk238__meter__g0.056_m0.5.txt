@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 238 | label: meter | g:0.056 m:0.5 ---
+
+janmārabhya harer vraja-sthalam abhūd viśva-rddhi-yuktaṃ punar
+lakṣmīṇāṃ ramaṇāspadaṃ ca tad-adhiṣṭhānād viśiṣyājani ।
+rādhā yāsu lalāsa pūrṇa-śaśabhṛn-mūrtīva tārāsu sā
+kāntiḥ kintv iha citra-bhāva-valitā yā kṛṣṇa-pakṣādhikā ।। [śārdūla]

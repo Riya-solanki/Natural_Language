@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 448 | label: meter | g:0.194 m:0.625 ---
+
+ekādaśamam etad dhi padaṃ sarvaguṇāvaham 
+tad yatheti samārabhya dvitīyaṃ śobhanaṃ priye ।।

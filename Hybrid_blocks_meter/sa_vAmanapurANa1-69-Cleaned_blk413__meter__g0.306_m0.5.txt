@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 413 | label: meter | g:0.306 m:0.5 ---
+
+kiṃ bhavadbhyāṃ samāraḥdhaṃ dambhaṃ dharmavināśanam ।
+kva tapaḥ kva jaṭābhāraḥ kva cemau pravarāyudhau ।।

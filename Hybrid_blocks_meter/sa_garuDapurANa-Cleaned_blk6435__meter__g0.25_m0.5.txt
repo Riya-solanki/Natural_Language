@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6435 | label: meter | g:0.25 m:0.5 ---
+
+oṃ kāreṇa vyāhṛtibhirgāyatryā ca samanvitaḥ ।
+ādāvante ca kurvīta abhiṣekaṃ yathākramam ।।

@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 462 | label: grammar | g:0.604 m:0.5 ---
+
+kriyāntare na caiteṣāṃ vibhavanti na śaktayaḥ rūpād eva tu tādarthyaṃ niyamena pratīyate ।।

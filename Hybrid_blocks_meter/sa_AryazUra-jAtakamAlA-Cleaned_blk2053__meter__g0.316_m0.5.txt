@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2053 | label: meter | g:0.316 m:0.5 ---
+
+tadeva kartuṃ na tu saṃsmarāmi bhavedyato me manaso anutāpaḥ ।
+sātmīkṛtaṃ karma ca śuklamasmāddharmasthitaḥ ko maraṇādvibhīyāt ।।

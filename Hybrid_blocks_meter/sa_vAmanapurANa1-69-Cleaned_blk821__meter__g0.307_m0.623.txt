@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 821 | label: meter | g:0.307 m:0.623 ---
+
+udaṅmukhaḥ prāṅmukho vāpi vidvān prakṣālya pādau bhuvi saṃniviṣṭaḥ ।
+samācamedadbhiraphenilābhirādau parimṛjya mukhaṃ dviradbhiḥ ।।

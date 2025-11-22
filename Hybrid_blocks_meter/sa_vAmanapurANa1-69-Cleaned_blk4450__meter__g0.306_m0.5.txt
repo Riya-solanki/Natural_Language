@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4450 | label: meter | g:0.306 m:0.5 ---
+
+devaṃ sārṅgadharaṃ viṣṇuṃ ye prapannāḥ parāyaṇam ।
+na teṣāṃ yamasālokyaṃ na ca te narakaukasaḥ ।।

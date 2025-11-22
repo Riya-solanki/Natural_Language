@@ -1,0 +1,3 @@
+--- source: tsc_simu-Cleaned.txt | block: 90 | label: grammar | g:0.625 m:0.5 ---
+
+ete ca sṛṣṭisthitisaṃhārarūpāḥ sthūlā eva pariṇāmāścaturviṃśatitattvānāṃ kūṭasthapuruṣavivekāya pradarśitāḥ sūkṣmā apyanye pratikṣaṇapariṇāmā eteṣāṃ smaryante ।

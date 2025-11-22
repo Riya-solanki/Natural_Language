@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5574 | label: meter | g:0.25 m:0.5 ---
+
+satakraṃ kuśamalaṃ vā markaṭī mūlameva vā ।
+kāñjikena ca vākucyā mūlaṃ vai dantaroganut ।।

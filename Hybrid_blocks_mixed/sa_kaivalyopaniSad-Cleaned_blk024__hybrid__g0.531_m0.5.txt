@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 24 | label: hybrid | g:0.531 m:0.5 ---
+
+apāṇipādo aham acintyaśaktiḥ paśyāmy acakṣuḥ sa śṛṇomy akarṇaḥ ।
+ahaṃ vijānāmi viviktarūpo na cāsti vettā mama cit sadāham ।।

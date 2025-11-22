@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 829 | label: hybrid | g:0.438 m:0.5 ---
+
+[] śrī-vrajeśvarādīnāṃ milanaṃ tu śrīman-muni-varyeṇaivaṃ varṇyate sma, yatra cedaṃ suṣṭhutaram anuṣṭup-chandasā svalpa-vadyam api padyam amṛta-sambhṛta-kumbhavad akṣaya-rasaṃ prasūte-

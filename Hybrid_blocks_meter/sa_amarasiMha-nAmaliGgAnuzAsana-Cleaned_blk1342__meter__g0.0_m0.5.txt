@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1342 | label: meter | g:0.0 m:0.5 ---
+
+śīrṣaṇyaṃ ca śirastre atha tanutraṃ varma daṃśanam

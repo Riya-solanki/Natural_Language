@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 70 | label: grammar | g:0.625 m:0.5 ---
+
+mantravanti ca kāryāṇi sarvāṇy adhyayanaṃ ca yat । nāntarāgamanaṃ teṣāṃ sādhu vichedanād bhayam ।।

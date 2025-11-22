@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 339 | label: meter | g:0.194 m:0.625 ---
+
+bodhānām api kartṛtvajuṣāṃ kārmamalakṣatau 
+bhinnavedyajuṣāṃ māyāmalo vidyeśvarāś ca te ।।

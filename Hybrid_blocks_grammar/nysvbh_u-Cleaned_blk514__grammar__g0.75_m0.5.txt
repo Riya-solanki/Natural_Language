@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 514 | label: grammar | g:0.75 m:0.5 ---
+
+anumānāccopalabhyamāne śabdasya vināśakaraṇe abavanāśakāraṇānupalabdheḥ asattvāt' ityanapadeśaḥ yathā ayasmādviṣāṇī tasmādaśvaḥ' iti।
+kimanumānamiticet ? saṃtānopapattiḥ, upapāditaḥ śabdasaṃtānaḥ saṃyogavibhāgajāt śabdācchabdāntaraṃ tatopyanyat tatopyanyaditi, tatra kāryaḥ śabdaḥ kāraṇaśabdaṃ viruṇaddhi pratighātidravyasaṃyogastu antyasya śabdasya nirodhakaḥ, dṛṣṭaṃ hi tiraḥpratikuḍyamantikasthenāpyaśravaṇaṃ śabdasya śravaṇaṃ dūrasthenāpyasati vyavadhāne iti।
+ghaṇṭāyāmabhihanyamānāyāṃ tārastārataro mando mandatara iti śrutibhedād nānāśabdasaṃtāno avicchedena śrūyate, tatra nitye śabde ghaṇṭāsthamanyagataṃ vāvasthitaṃ saṃtānavṛtti vā abhivyaktikāraṇaṃ vācyaṃ yena śrutisaṃtāno bhavatīti, śabdabhede cāsati śrutibheda upapādayitavya iti।
+anitye tu śabde ghaṇṭāsthaṃ saṃtānavṛtti saṃyogasahakāri nimittāntaraṃ saṃskārabhūtaṃ paṭumandamanuvartate tasyānuvṛttyā śabdasaṃtānānuvṛttiḥ paṭumandabhāvācca tīvramandatā śabdasya tatkṛtaśca śrutibheda iti ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1586 | label: meter | g:0.194 m:0.75 ---
+
+ūrvas tu tapasāviṣṭo niveśyoruṃ hutāśane 
+mamanthaikena darbheṇa sutasya prabhavāraṇim ।।

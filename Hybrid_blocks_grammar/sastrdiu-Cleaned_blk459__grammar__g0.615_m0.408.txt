@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 459 | label: grammar | g:0.615 m:0.408 ---
+
+ye ca punarasattvavādāḥ prapañcaviṣayā avidyāvādā bhrāntivādā māyāvādāśca te sarve prapañcasyānityatvādaupacārikāḥ ।
+yathā mṛgatoyarajjusarpasvapnaprapañcādayaḥ kiñcitkālamāvirbhūya paścādvilīyante tathā bhedaprapañcarūpo brahmapariṇāmo apyāvirbhavati vilīyate cetyāvirbhāvatirobhāvadharmakatvasāmyādasannityupacaryate, tasya cāsatkalpatve tadviṣayasya jñānasyāpi siddhyatyaupacārikaṃ bhrāntitvam ।
+māyānibandhanatvaṃ ca indro māyābhiḥ pururūpa īyate ityādiṣu yuktamupacāreṇa vaktum ।
+ātmaivaikaḥ satyaḥ ici ca tasyaiva nityatvāducyate, yathā go aśvā eva paśavo anyetvapaśava iti tadevaṃ draṣṭavyam ।।

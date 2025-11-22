@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 358 | label: grammar | g:0.583 m:0.5 ---
+
+saṃsārasadaso bāhye kaiś cittvaṃ parirabhyase svāmin parais tu tatraiva tāmyadbhis tyaktayantraṇaiḥ ।।

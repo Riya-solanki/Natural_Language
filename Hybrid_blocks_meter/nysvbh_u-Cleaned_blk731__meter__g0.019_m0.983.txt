@@ -1,0 +1,13 @@
+--- source: nysvbh_u-Cleaned.txt | block: 731 | label: meter | g:0.019 m:0.983 ---
+
+ādarśodakayoḥ prasādaḥ ।
+rūpaviśeṣaḥ svo dharmaḥ- niyamadarśanāt,
+prasādasya vā svo dharmo rūpopalambhanam,
+yathādarśapratihatasya parāvṛttasya nayanaraśmeḥ
+svena mukhena saṃnikarṣe sati svamukhopalambhanaṃ
+pratibimbagrahaṇākhyam ādarśarūpānugrahāt
+tannimittaṃ bhavati ādarśarūpopaghāte tadabhāvāt
+kuḍyādiṣu ca pratibimbagrahaṇaṃ na bhavati,
+evaṃ kācābhrapaṭalādibhiravighātaścakṣūraśmeḥ
+kuḍyādibhiśca pratighātaḥ dravyasvabhāvaniyamāditi
+।।

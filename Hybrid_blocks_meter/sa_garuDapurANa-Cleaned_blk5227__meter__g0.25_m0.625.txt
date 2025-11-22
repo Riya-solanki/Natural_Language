@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5227 | label: meter | g:0.25 m:0.625 ---
+
+tiladhātrībhṛṅgarājau jagdhvā varṣaśatī bhavet ।
+trikaṭu triphalā vahnirguḍūcī ca śatāvarī ।।

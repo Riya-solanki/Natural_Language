@@ -1,0 +1,6 @@
+--- source: mrgt3cau-Cleaned.txt | block: 136 | label: meter | g:0.215 m:0.722 ---
+
+gacchantaṃ pṛṣṭhato yāyād viśantamanusaṃviśet
+tadvaco nānuyuñjīta śayānaṃ na prabodhayet ।
+anujñātaścaredbhaikṣaṃ prāptamadyānniveditam
+śayīta supta ityādi kuryādvidhyuditaṃ ca yat ।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 293 | label: meter | g:0.306 m:0.5 ---
+
+na ca me kāyikaṃ duḥkhaṃ tathā janayati vyathām ।
+mānasenaiva duḥkhena yathā pīḍye vidāhinā ।।

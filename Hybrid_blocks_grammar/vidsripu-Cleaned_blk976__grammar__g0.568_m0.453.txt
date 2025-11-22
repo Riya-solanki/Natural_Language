@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 976 | label: grammar | g:0.568 m:0.453 ---
+
+tamobhir dikkālair viyad api vilaṅghya kva nu gataṃ gatā drāṅ mudrāpi kva nu kumudakoṣasya sarasaḥ ।
+kva dhairyaṃ tac cābdher viditam udayādreḥ pratisara- sthalīmadhyāsīne śaśini jagad apy ākulam idam ।।
+aparājitasya

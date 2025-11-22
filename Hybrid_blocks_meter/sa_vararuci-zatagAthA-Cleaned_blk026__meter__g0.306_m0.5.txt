@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 26 | label: meter | g:0.306 m:0.5 ---
+
+dhanena kiṃ kṣudrajanasya mitraiḥ kiṃ vañcakasyāpi ca matsarasya ।
+kiṃ hānidasyātiguṇagrahaiśca kiṃ vā vipattau vimukhātmajena ।।

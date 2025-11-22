@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1151 | label: grammar | g:0.75 m:0.5 ---
+
+nanu sītādi-vibhāvair vastu-mātrair eva yoṣin-mātra-pratītau sāmājikānāṃ rasodayaḥ । na punar viśiṣṭaiḥ । tat katham iti ced, ucyate । atra janaka-tanayatva-rāma-parigrahatvādi-viruddha-dharma-parihāreṇa lalitojjvala-śuci-darśanīyatvādi-viśiṣṭa eva śabdataḥ । sītādi-vibhāvo yoṣit-sāmānyaṃ tādṛśam eva jñāpayati । na punaḥ strī-jāti-mātram iti sakalam api kalyāṇam ।

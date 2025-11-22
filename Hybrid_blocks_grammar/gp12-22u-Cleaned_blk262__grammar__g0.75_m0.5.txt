@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 262 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam ādiśya prasthite yadu-purohite tat-kṛtopadeśopajātādaro nija-nija-kanyā-gopana-paro gopa-nikaro' pi tāsāṃ sampradānāya sampradānam anveṣṭuṃ suṣṭhu cintām avāpa, kintu santatam asya sā lālasā tu nālasā jātā ।

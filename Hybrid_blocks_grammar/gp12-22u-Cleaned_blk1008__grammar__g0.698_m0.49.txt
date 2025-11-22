@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1008 | label: grammar | g:0.698 m:0.49 ---
+
+[] tataś ca parasparaṃ hṛd-bāṣpam udgīrṇavatīnāṃ dṛg-bāṣpam api vikīrṇavatīnāṃ tāsāṃ daśānta-daśāvaśāṅgatayā sambhāvyamānānām anukṣaṇaṃ sukhā-kāṅkṣiṇī pārikāṅkṣiṇī-veśa-viśeṣaṃ vindamānā tatra vṛndā gatā ।
+[] sā hy evaṃ purā cintitavatī-rāga eva khalv āsāṃ vrajanāgarasya tasya samāgamāya vāgagocaraśaktibhāg avasīyate ।

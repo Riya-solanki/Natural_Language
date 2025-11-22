@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 940 | label: grammar | g:0.75 m:0.5 ---
+
+anye tv anyathā samādhānam āhuḥ । loke pramadādi-kāraṇādibhiḥ sthāyy-anumāne abhyāsa-pāṭavavatāṃ sahṛdayānāṃ kāvye nāṭye ca vibhāvādi-pada-vyapadeśyaiḥ sva-sambandhitvena anya-sambandhitvena ca sādhāraṇyāt pratītair abhivyaktībhūto vāsanātmatayā sthitaḥ sthāyī ratyādiḥ pānaka-rasa-nyāyena carvyamāṇo lokottara-camatkāra-kārī paramānandam iva kandalayan rasa-rūpatām āpnotīti ।

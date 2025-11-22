@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 32 | label: meter | g:0.25 m:0.75 ---
+
+niścārya padmanāsāgre piṇḍarūpeṇa kalpayet ।
+pañcavarṇaṃ mahāratnaṃ prāṇāyāmamiti smṛtam ।।

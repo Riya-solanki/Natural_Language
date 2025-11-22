@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10783 | label: meter | g:0.25 m:0.625 ---
+
+mūleṣvaṃśāvatāreṣu rudrādīnā mahāprabho ।
+buddhirvinaśyate yasmāttasmācchinnā hi te akhilāḥ ।।

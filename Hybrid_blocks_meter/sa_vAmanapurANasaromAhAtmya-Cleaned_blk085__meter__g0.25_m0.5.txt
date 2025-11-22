@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 85 | label: meter | g:0.25 m:0.5 ---
+
+tasyaiva tu prasādena pravakṣye paramāṃ gatim ।
+yatra yogaṃ samāsthāya tapaścarati duścaram ।।

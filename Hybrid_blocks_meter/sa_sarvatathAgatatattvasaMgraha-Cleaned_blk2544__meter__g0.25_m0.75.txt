@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2544 | label: meter | g:0.25 m:0.75 ---
+
+vajrabandhaṃ samādhāya maṇimuṣṭiṃ prasārayet ।
+maṇistu madhyamābhyāṃ tu maṇimālābhiṣekadā ।।

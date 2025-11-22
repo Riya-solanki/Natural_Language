@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 930 | label: meter | g:0.022 m:0.845 ---
+
+nivṛttermanaso hetuḥ saṃsargātprāṇakhedanam 
+nivṛttirdhāraṇādīnāṃ mūlaṃ sarvasya tattataḥ ।। MT

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1703 | label: grammar | g:0.562 m:0.5 ---
+
+viṣayasaritas tīrṇāḥ kāmaṃ rujo apy avadhīritā viṣayavirahaglāniḥ śāntā gatā malinātha dhīḥ ।
+iti cirasukhaprāptaḥ kiṃcinnimīlitalocano vrajati nitarāṃ tuṣṭiṃ puṣṭaḥ śmaśānagataḥ śavaḥ ।।

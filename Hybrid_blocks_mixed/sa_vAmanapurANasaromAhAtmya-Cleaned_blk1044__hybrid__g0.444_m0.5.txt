@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1044 | label: hybrid | g:0.444 m:0.5 ---
+
+dattvā śulkaṃ ca dviguṇaṃ sukhena nayata dvijam ।
+tataḥ śrutvā tu vacanaṃ tasya rājño dayāvataḥ ।
+gṛhītvā śivikāṃ kṣipraṃ kurukṣetreṇa yānti te ।
+tatra nītvā sthāṇutīrthe avatārya ca te gatāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 61 | label: hybrid | g:0.542 m:0.5 ---
+
+kāyānubandhibhir anekavidhair apāyai rāgādibhiś ca manasi pratilabdhabhāvaiḥ ।
+mūḍhaḥ pṛthak pṛthag aham pravilupyamānas tvattaḥ paraṃ kathaya kaṃ śaraṇaṃ vrajāmi ।।

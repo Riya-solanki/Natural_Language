@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 150 | label: grammar | g:0.646 m:0.5 ---
+
+[] etad-anantara-līlā taṃ pūjayāmāsa [] ity ādikaṃ śrī-śuka-vacanam anūdya, mahattvaṃ ca ity ādinā viśadyate ।

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1275 | label: meter | g:0.194 m:0.5 ---
+
+rāmaḥ śiṣyo bhṛgubhava bhavān bhāgineyī-suto me
+vāme bāhāv uta tad-itare kāryataḥ ko viśeṣaḥ ।
+divyāstrāṇāṃ tava paśupater asya lābhas tu mattas
+tat tvāṃ yāce virama kalahād āryakarmārabhasva ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3411 | label: grammar | g:0.75 m:0.5 ---
+
+kakutsthasyāpy anenāḥ putro abhūt pṛthur anenasaḥ pṛthor viśvagaśvas tasyāpi cāndro yuvanāśvaś cāndrasya tasya yuvanāśvasya śrāvasto yaḥ purīṃ śrāvastīṃ niveśayām āsa ।।

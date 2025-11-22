@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1162 | label: meter | g:0.194 m:0.625 ---
+
+devakī śāntidevā ca sudevā devarakṣitā 
+vṛkadevy upadevī ca sunāmnī caiva saptamī ।।

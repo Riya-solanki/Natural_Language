@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 477 | label: meter | g:0.25 m:0.625 ---
+
+brahmāvarte naraḥ snātvā brahmajñānasamanvitaḥ ।
+bhavate nātra sandehaḥ prāṇān muñcati svecchayā ।।

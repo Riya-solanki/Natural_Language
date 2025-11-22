@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 859 | label: meter | g:0.25 m:0.5 ---
+
+bhṛtya-krodhe tu ceṣṭāḥ syus tarjanaṃ mūrdha-dhananam ।
+nirbhartsanaṃ ca bahudhā muhur nirvarṇanādayaḥ ।।

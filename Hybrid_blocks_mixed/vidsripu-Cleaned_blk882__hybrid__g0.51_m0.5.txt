@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 882 | label: hybrid | g:0.51 m:0.5 ---
+
+sādhu dūti punaḥ sādhu kartavyaṃ kim ataḥ param ।
+yan madarthe vilagnāsi dantair api nakhair api ।।

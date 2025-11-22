@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 473 | label: hybrid | g:0.333 m:0.488 ---
+
+tāṃ vai krodhāc ca mohāc ca śramāc caiva kṣudhānvitaḥ 
+daśadharmagato rājā jaghāna janamejaya ।। 
+mattaḥ pramatta unmattaḥ śrāntaḥ kruddho bubhukṣitaḥ । tvaramāṇaś ca bhītaś ca lubdhaḥ kāmī ca te daśa । 
+ta ca māṃsaṃ svayaṃ caiva viśvāmitrasya cātmajān 
+bhojayām āsa tac chrutvā vasiṣṭho apy asya cukrudhe ।। 
+kruddhas tu bhagavānvākyam idam āha nṛpātmajan । 
+pātayeyam ahaṃ krūra tava śaṅkum ayasmayam 
+yadi te dvāv imau śaṅkū na syātāṃ vai kṛtau punaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4305 | label: meter | g:0.25 m:0.5 ---
+
+pāṇḍyaṃ pauṇḍraṃ ca matsyaṃ ca kaliṅgaṃ ca janārdanaḥ 
+jaghāna sahitān sarvān vaṅgarājaṃ tathaiva ca ।।

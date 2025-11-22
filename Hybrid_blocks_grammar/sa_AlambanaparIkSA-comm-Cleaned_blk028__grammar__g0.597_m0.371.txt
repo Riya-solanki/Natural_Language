@@ -1,0 +1,5 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 28 | label: grammar | g:0.597 m:0.371 ---
+
+evaṃ viṣayarūpakam ।
+pravartete anādikālaṃ śaktiścānyonyahetuke ।।
+cakṣurākhyāṃ śaktimantaḥ rūpañcopādāya vijñānamarthāvabhāsi ālambanādavibhaktamutpadyate । idaṃ dvayamapi anādikālamanyonyahetukam । kadācit vijñānasya śaktiparipākāt viṣayākāratā bhavati । kadācicca tadākāraśaktiḥ । vijñānaṃ sā ca ubhayamanyatvenānanyatvena ca yatheṣṭamucyatām । evamantarālambanaṃ dharmatādvayaviśiṣṭatvāt viṣayatayā upapadyate ।।

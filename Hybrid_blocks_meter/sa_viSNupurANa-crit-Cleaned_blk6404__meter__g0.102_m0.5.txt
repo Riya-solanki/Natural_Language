@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6404 | label: meter | g:0.102 m:0.5 ---
+
+tāvad yāvad dṛḍhībhūtā tatraiva nṛpa dhāraṇā 
+vrajatas tiṣṭhato anyad vā svecchayā karma kurvataḥ 
+nāpayāti yadā cittāt siddhāṃ manyeta tāṃ tadā ।।

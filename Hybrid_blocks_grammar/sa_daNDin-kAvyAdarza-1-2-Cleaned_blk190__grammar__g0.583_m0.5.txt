@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 190 | label: grammar | g:0.583 m:0.5 ---
+
+na mīlayati padmāni na nabho apy avagāhate tvanmukhendur mamāsūnāṃ haraṇāyaiva kalpate ।।

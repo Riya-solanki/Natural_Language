@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 257 | label: hybrid | g:0.375 m:0.5 ---
+
+evaṃ sthānāntarayoge'pi draṣṭavyaḥ । sajāntīyanairantaryādasya prakarṣo bhavati । sa cāyaṃ hariprabodhe dṛśyate । yathā

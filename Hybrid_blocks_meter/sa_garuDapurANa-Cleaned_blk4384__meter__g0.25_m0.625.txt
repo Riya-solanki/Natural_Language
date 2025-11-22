@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4384 | label: meter | g:0.25 m:0.625 ---
+
+na veda śīkamohārtaṃ śoṣa mohādisaṃyutaḥ ।
+sonmādabhramamūrchāyāṃ sāpasmāraḥ patatyadhaḥ ।।

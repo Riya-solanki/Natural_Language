@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 44 | label: meter | g:0.25 m:0.5 ---
+
+ity eṣā vāṅmayī pūjā śrīmacchaṃkarapādayoḥ ।
+arpitā tena deveśaḥ prīyatāṃ me sadāśivaḥ ।। Smstadd

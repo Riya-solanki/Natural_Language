@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 79 | label: meter | g:0.29 m:0.872 ---
+
+kāñci-kāñci-kaṅkaṇādi-śiñjad-ambha-sañjinī
+prāyaśas tu haṃsa-saṅgha-śṣabditānurañjinī ।
+tūrṇa-tūrṇa-ghūrṇanādi-saṅkulāṅga-nartinī
+pūrṇa-pūrṇa-bhāva-gūrṇa-jāḍya-jāta-vartinī ।।

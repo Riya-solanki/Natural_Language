@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1038 | label: meter | g:0.319 m:0.6 ---
+
+nārada uvāca
+gaccha tvaṃ tasya taṃ dehaṃ tīrtheṣu kuru nirmalam ।
+yatra sthāṇormahattīrthaṃ saraḥ saṃnihitaṃ prati ।।

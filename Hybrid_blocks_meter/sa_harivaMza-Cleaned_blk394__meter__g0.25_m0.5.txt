@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 394 | label: meter | g:0.25 m:0.5 ---
+
+dhṛṣṇos tu dhārṣṇikaṃ kṣatraṃ raṇadṛṣṭaṃ babhūva ha 
+karūṣasya tu kārūṣāḥ kṣatriyā yuddhadurmadāḥ । 
+sahasraṃ kṣatriyagaṇo vikrāntaḥ saṃbabhūva ha ।। 
+nābhāgāriṣṭaputrāś ca kṣatriyā vaiśyatāṃ gatāḥ ।। 
+prāṃśor eko abhavat putraḥ prajāpatir iti śrutaḥ । 
+nariṣyantasya dāyādo rājā daṇḍadharo damaḥ । 
+śaryāter mithunaṃ cāsīd ānarto nāma viśrutaḥ 
+putraḥ kanyā sukanyā ca yā patnī cyavanasya ha ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 158 | label: grammar | g:0.75 m:0.5 ---
+
+atha sā devī praharṣavismayaviśālākṣī sabahumānamudīkṣamāṇā rājānamityuvāca । upapannarūpaḥ puṇyānāmayamevaṃvidho vipākābhyudayaviśeṣaḥ । puṇyaphalapratyakṣiṇaśca mahārājasya yadayaṃ puṇyeṣvādaraḥ । tadevameva pāpapravṛttivimukhaḥ piteva prajānāṃ samyakparipālanasumukhaḥ puṇyagaṇārjanābhimukhaḥ ।

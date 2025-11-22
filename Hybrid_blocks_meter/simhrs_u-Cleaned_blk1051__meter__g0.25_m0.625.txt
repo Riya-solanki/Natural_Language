@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1051 | label: meter | g:0.25 m:0.625 ---
+
+līlā-hitulia-selo rakkhadu vo rāhiāi tthaṇa-paṭṭhe ।
+hariṇo puḍhama-samāama-saddhasa-basa-bebilo hattho ।।

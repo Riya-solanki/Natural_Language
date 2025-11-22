@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 399 | label: grammar | g:0.826 m:0.331 ---
+
+nānṛtadoṣaḥ putrakāmeṣṭau, kasmāt ?, karmakartṛsādhanavaiguṇyāt, iṣṭyā pitarau saṃyujyamānau putraṃ janayata iti, iṣṭiḥ karaṇam sādhanaṃ pitarau kartārau saṃyogaḥ karma trayāṇāṃ guṇayogāt putrajanma vaiguṇyād viparyayaḥ, iṣṭyāśrayaṃ tāvat karmavaiguṇyaṃ samīhābhreṣaḥ, kartṛvaiguṇyam avidvān prayoktā kapūyācaraṇaśca, sādhanavaiguṇyaṃ havirasaṃskṛtam upahatamiti mantrā nyūnādhikāḥ svaravarṇahīnā iti dakṣiṇā durāgatā hīnā ninditā ceti।
+athopajanāśrayaṃ karmavaiguṇyaṃ mithyāsaṃprayogaḥ, kartṛvaiguṇyaṃ yonivyāpādo bījopaghātaśceti, sādhanavaiguṇyam iṣṭāvabhihitam।
+loke ca aagnikāmo dāruṇī mathnīyāt' iti vidhivākyam tatra karmavaiguṇyaṃ mithyābhimanthānam kartṛvaiguṇyaṃ prajñāprayatnagataḥ pramādaḥ sādhanavaiguṇyam ārdraṃ suṣiraṃ dāru iti tatra phalaṃ na niṣpadyate iti nānṛtadoṣaḥ, guṇayogena phalaniṣpattidarśanāt, na cedaṃ laukikād bhidyate"putrakāmaḥ putreṣṭyā yajeta"iti ।।

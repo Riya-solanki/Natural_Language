@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 6 | label: grammar | g:0.583 m:0.5 ---
+
+kimīhaḥ kiṃkāyaḥ sa khalu kimupāyas tribhuvanaṃ kimādhāro dhātā sṛjati kimupādāna iti ca ।
+atarkyaiśvarye tvayy anavasaraduḥstho hatadhiyaḥ kutarko ayaṃ kāṃścin mukharayati mohāya jagataḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 39 | label: grammar | g:0.75 m:0.5 ---
+
+siṃho balī hariṇaraktapāmāṃsabhojī saṃvatsareṇa kurute ratimekavāram । yo gardabhaḥ khalu rajaḥkaṇamātrabhojī kāmī bhavedanudinaṃ vada ko atra hetuḥ ।। sarpāḥ pibanti pavanaṃ na ca durbalāste śuṣkaistṛṇairvanagajā balino bhavanti । kandaiḥ phalairmunivarā gamayanti kālam saṃtoṣa eva puruṣasya paraṃ nidhānam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2760 | label: meter | g:0.306 m:0.625 ---
+
+jāto ambaṣṭhastu śūdrāyāṃ niṣādaḥ parvato api vā ।
+māhiṣyaḥ kṣattriyājjāto vaiśyāyāṃ mlecchasaṃjñitaḥ ।।

@@ -1,0 +1,9 @@
+--- source: brsvbh1u-Cleaned.txt | block: 362 | label: grammar | g:0.56 m:0.462 ---
+
+na ca rajjuriyaṃ na bhujaṅgaḥiti yathākathañcillakṣaṇayā vākyārthatattvaniścaye yathā bhayakampādinivṛttiḥ, evam atattvamasi'iti vākyārthāvagamānnivṛttirbhavati sāṃsārikāṇāṃ dharmāṇām ।
+śrutavākyārthasyāpi puṃsasteṣāṃ tādavasthyāt ।
+api ca yadi śrutabrahmaṇo bhavati sāṃsārikadharmanivṛttiḥ, kasmāt punaḥ śravaṇasyopari mananādayaḥ śrūyante ।
+tasmātteṣāṃ vaiyarthyaprasaṅgādapi na brahmasvarūpaparā vedāntāḥ, kiṃ tvātmapratipattiviṣayakāryaparāḥ ।
+tacca kāryaṃ svātmani niyojyaṃ niyuñjānaṃ niyoga iti ca mānāntarāpūrvatayāpūrvamiti cākhyāyate ।
+na ca viṣayānuṣṭhānaṃ vinā tatsiddhiriti svasiddhyarthaṃ tadeva kāryaṃ svaviṣayasya karaṇasyātmajñānasyānuṣṭhānamākṣipati ।
+yathā ca kāryaṃ svaviṣayādhīnanirūpaṇamiti jñānena viṣeyeṇa nirūpyate, evaṃ jñānamapi svaviṣayamātmānamantareṇāśakyanirūpaṇamiti tannirūpaṇāya tādṛśamātmānamākṣipati, tadeva kāryam ।

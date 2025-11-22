@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3232 | label: meter | g:0.25 m:0.5 ---
+
+tan matto yadi satkāraḥ smaryate sukṛtāni vā 
+kartavyaṃ me mahat karma bhavadbhyāṃ svena tejasā ।।

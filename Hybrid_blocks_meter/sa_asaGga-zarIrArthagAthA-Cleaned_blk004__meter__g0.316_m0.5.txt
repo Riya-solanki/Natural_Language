@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 4 | label: meter | g:0.316 m:0.5 ---
+
+ākhyeyaṃ tu parijñāya ākhyātāraṃ na manyate ।
+tad vai na vidyate tasya vadeyur yena taṃ pare ।।

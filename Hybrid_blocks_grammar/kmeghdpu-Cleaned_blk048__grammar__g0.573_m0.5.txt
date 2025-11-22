@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 48 | label: grammar | g:0.573 m:0.5 ---
+
+hitvā hālām abhimatarasāṃ revatīlocanāṅkāṃ bandhuprītyā samaravimukho lāṅgalī yāḥ siṣeve ।
+kṛtvā tāsām abhigamam apāṃ saumya sārasvatīnām antaḥśuddhas tvam asi bhavitā varṇamātreṇa kṛṣṇaḥ ।।

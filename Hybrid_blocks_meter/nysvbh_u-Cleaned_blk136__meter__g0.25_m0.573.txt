@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 136 | label: meter | g:0.25 m:0.573 ---
+
+iṣṭādhigamārthā pravṛttiriti cet? na, aniṣṭoparamārthatvāt।
+idam anumānam, iṣṭādhigamārtho mokṣopadeśaḥ pravṛttiśca mumukṣūṇām, nobhayamanarthakamiti।
+etaccāyuktam, aniṣṭoparamārtho mokṣopadeśaḥ, pravṛttiśca mumukṣūṇāmiti।
+neṣṭamaniṣṭenānanubaddhaṃ sambhavatīti aniṣṭānubandhāt iṣṭamapyaniṣṭasampadyate, aniṣṭahānāya ca ghaṭamāna iṣṭamapi jahāti, vivekahānasyāśakyatvāditi।।

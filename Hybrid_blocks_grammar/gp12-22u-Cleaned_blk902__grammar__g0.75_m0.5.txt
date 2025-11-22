@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 902 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha dūrataḥ surabhir abhītam iva tam abhīkṣya, huṅkārataḥ sva-santāna-santānam ākārya, kārya-viduṣī sa-tṛṣṇa-nayanā kṛṣṇam abhijagāma । [] kṛṣṇaś ca svajāti-rītikāvasthitita evāvanamantīm iva tām imāṃ sahasā sahasām asasambhramam añjali-sañjita-karaḥ sañjagāda-mātā kathaṃ samāyātā?

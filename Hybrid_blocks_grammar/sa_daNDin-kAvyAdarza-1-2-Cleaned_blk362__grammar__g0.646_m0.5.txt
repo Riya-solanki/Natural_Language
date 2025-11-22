@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 362 | label: grammar | g:0.646 m:0.5 ---
+
+tvadapāṅgāhvayaṃ jaitram anaṅgāstraṃ yad aṅgane muktaṃ tad anyatas tena so apy ahaṃ manasi kṣataḥ ।।

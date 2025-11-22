@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 589 | label: meter | g:0.25 m:0.5 ---
+
+uktāś ca yasmād yuṣmābhiḥ putrakā iti vai vayam 
+tasmād bhavantaḥ pitaro bhaviṣyanti na saṃśayaḥ ।।

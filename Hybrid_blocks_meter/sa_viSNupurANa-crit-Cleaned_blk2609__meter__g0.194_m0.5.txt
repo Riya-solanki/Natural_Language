@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2609 | label: meter | g:0.194 m:0.5 ---
+
+prakhyāto vyāsaśiṣyo abhūt sūto vai romaharṣaṇaḥ 
+purāṇasaṃhitāṃ tasmai dadau vyāso mahāmuniḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2977 | label: meter | g:0.298 m:0.513 ---
+
+akrūra kuru me prītim etāṃ paramadurlabhām 
+yadi vā nopajapto asi vasudevena suvrata ।। 
+tathā kartavyam etad dhi yathā tāv āgamiṣyataḥ । ity uktvā virarāmaiva kaṃsaḥ sa madhureśvaraḥ । 
+evam ākruṣyamānas tu vasudevo vasūpamaḥ 
+sāgarākāram ātmānaṃ niṣprakampam adhārayat ।।

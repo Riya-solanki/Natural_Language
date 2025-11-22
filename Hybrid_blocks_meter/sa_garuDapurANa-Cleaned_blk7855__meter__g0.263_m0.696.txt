@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7855 | label: meter | g:0.263 m:0.696 ---
+
+dṛṣṭvā tvāṃ dharmanilayaṃ praklinnaṃ mānasaṃ mama ।
+viśvambhara uvāca ।
+śīryamāṇaṃ śarīraṃ hi jñātvā mṛtyuṃ puraḥ sthitam ।।

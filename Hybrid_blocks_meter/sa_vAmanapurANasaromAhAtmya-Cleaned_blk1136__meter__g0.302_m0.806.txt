@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1136 | label: meter | g:0.302 m:0.806 ---
+
+gūḍhavrato guhyatapāstārakāstārakāmayaḥ ।
+dhātā vidhātā saṃdhātā pṛthivyā dharaṇo aparaḥ ।।

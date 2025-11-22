@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10164 | label: meter | g:0.333 m:0.852 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīśaunaka uvāca ।
+kathaṃ sasarja bhagavāṃstattattattvābhimāninaḥ ।
+sṛṣṭikramaṃ na jānāmi devānāṃ hyantaraṃ mune ।।

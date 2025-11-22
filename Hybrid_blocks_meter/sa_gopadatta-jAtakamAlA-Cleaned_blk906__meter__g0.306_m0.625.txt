@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 906 | label: meter | g:0.306 m:0.625 ---
+
+iti śāstrā samādiṣṭaṃ śrutvā sa nṛpatir mudā ।
+tatheti saṃpratijñāya prābhyanandat sapārṣadaḥ ।।

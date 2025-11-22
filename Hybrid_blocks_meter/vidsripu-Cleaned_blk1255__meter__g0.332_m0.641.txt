@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1255 | label: meter | g:0.332 m:0.641 ---
+
+abhinavamukhamudraṃ kṣudrakūpopavītaṃ praśithilavipulatvaṃ jvālakocchvāsipālam ।
+pariṇatiparipāṭivyākṛtenāruṇimnā hataharitim aśeṣaṃ nāgaraṅgaṃ cakāsti ।।
+abhinandasya

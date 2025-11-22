@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3473 | label: meter | g:0.194 m:0.625 ---
+
+bhavān rājāstu me mānyo yadūnām agraṇīḥ prabhuḥ 
+vijayāyābhiṣicyasva svarājye rājasattama ।।

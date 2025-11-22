@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9059 | label: meter | g:0.25 m:0.5 ---
+
+miśritaṃ lohatāmraṃ tu tathaiva janma jāyate ।
+tasmaivaṃ vāyubhūtasya na śrāddhaṃ nodaka kriyā ।।

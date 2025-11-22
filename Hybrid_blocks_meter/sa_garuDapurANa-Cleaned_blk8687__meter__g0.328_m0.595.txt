@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8687 | label: meter | g:0.328 m:0.595 ---
+
+śarīrameva jantūnāṃ svargamokṣaikasādhanam ।
+deho datto hi yenaivaṃ ko anyaḥ pūjyatamastataḥ ।।

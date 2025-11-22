@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 286 | label: grammar | g:0.562 m:0.5 ---
+
+[] vṛndāha-mama mukhataḥ kācid apy uktir na vyaktībhavati, kim iva vaktavyam?

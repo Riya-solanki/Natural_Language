@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 195 | label: meter | g:0.194 m:0.625 ---
+
+putrakrauryaṃ vivṛtam aśivaṃ janmaduḥkhopataptaṃ
+bhartṛsnehaḥ ciraparicayād baddhamūlo na dṛṣṭaḥ ।
+dagdhaṃ vaṃśadvayam api mayā durnayāṅgāravarṣair
+hā kāmānāṃ prakṛtir asatī sarvaduḥkhaprasūtiḥ ।।

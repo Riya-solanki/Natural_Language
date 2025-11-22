@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 236 | label: hybrid | g:0.5 m:0.5 ---
+
+jīvanmuktā na teṣāṃ syān mṛtau kāpi vicāraṇā ।।

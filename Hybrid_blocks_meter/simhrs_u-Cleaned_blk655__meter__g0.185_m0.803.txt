@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 655 | label: meter | g:0.185 m:0.803 ---
+
+nītyā, yathā-
+bahiḥ sarvākāra-pravaṇa-ramaṇīyaṃ vyavaharan
+parābhyūha-sthānāny api tanutarāṇi sthagayati ।
+janaṃ vidvān ekaḥ sakalam atisandhāya kapaṭais
+taṭasthaḥ svān arthān ghaṭayati ca maunaṃ ca bhajate ।।

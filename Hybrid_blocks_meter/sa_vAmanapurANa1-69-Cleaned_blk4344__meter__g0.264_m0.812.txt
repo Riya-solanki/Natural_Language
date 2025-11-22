@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4344 | label: meter | g:0.264 m:0.812 ---
+
+vāmana uvāca ।
+gajāśvabhūhiraṇyādi tadarthibhyaḥ pradīyatām ।
+etāvatā tvahaṃ cārthī dehi rājan padatrayam ।।

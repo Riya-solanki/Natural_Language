@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 37 | label: meter | g:0.25 m:0.594 ---
+
+svaccha-svādu-rasādhāro vastu-cchāyā-manoharaḥ ।
+sevyaḥ suvarṇa-nidhivan nāṭya-mārgaḥ sa-nāyakaḥ ।।
+sāttvikādyair abhinayaiḥ prekṣakāṇāṃ yato bhavet ।
+naṭe nāyaka-tādātmya-buddhis tan nāṭyam ucyate ।।
+rasotkarṣo hi nāṭyasya prāṇās tat sa nirūpyate ।
+vibhāvair anubhāvaiś ca sāttvikair vyabhicāribhiḥ ।।
+ānīyamānaḥ svādutvaṃ sthāyī bhāvo rasaḥ smṛtaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4444 | label: meter | g:0.306 m:0.5 ---
+
+ye narā vāsudevasya satataṃ pūjane ratāḥ ।
+mṛtā api na śocyāste satyaṃ satyaṃ mayoditam ।।

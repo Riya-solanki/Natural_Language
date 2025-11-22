@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1181 | label: grammar | g:0.583 m:0.5 ---
+
+vigarjām unmuñca tyaja taralatām arṇava manāg ahaṃkāraḥ ko ayaṃ katipayamaṇigrāvaguḍakaiḥ ।
+dṛśaṃ merau dadyāḥ sa hi maṇimayaprasthamahito mahāmaunaḥ sthairyād atha bhuvanam eva sthirayati ।।

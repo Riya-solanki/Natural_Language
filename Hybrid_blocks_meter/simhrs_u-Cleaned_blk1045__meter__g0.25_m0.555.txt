@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 1045 | label: meter | g:0.25 m:0.555 ---
+
+vipralambhasya yadi vā vañcanāmātra-vācinaḥ ।
+vinā samāse caturāś caturo' rthān niyuñjate ।।
+pūrvānurāge vividhaṃ vañcanaṃ vrīḍitādibhiḥ ।
+māne viruddhaṃ tat prāhuḥ punar īrṣyāyitādibhiḥ ।।
+nyāviddhaṃ dīrgha-kālatvāt pravāse tat pratīyate ।
+viniṣiddhaṃ tu karuṇe karuṇatvena gīyate ।।

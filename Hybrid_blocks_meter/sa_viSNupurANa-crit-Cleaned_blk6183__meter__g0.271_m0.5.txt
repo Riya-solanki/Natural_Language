@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6183 | label: meter | g:0.271 m:0.5 ---
+
+kena bandhena baddho ahaṃ kāraṇaṃ kim akāraṇam 
+kiṃ kāryaṃ kim akāryaṃ vā kiṃ vācyaṃ kiṃ ca nocyate ।।

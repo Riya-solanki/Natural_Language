@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 78 | label: grammar | g:0.625 m:0.5 ---
+
+ittaviprayuktalakṣaṇāni ।। tatra prāptiḥ katamā । pratilambhaḥ samanvāgamaśca । bījam, vaśitā,abhimukhībhāvaśca yathāyogam ।। ।।

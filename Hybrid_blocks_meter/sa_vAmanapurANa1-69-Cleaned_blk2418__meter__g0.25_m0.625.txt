@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2418 | label: meter | g:0.25 m:0.625 ---
+
+tadvākyasamakālaṃ ca vyanadad devadundubhiḥ ।
+śivā cāśivanirghoṣā tato bhūyo abravīnamuniḥ ।।

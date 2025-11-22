@@ -1,0 +1,4 @@
+--- source: tsc_simu-Cleaned.txt | block: 85 | label: grammar | g:0.653 m:0.5 ---
+
+tata eva cādipuruṣāt vyaṣṭipuruṣāṇāṃ vibhāgādante ca tatraiva layāt sa eva caika ātmeti śrutismṛtyorvyavahriyate ato na vyavahāraparatayā nārāyaṇa eva sarvabhūtānāmātmetyādiśrutismṛtivirodha iti ।
+tataśca sa nārāyaṇo virāṭśarīrī svanābhikamalakarṇikāsthānīyasya sumerorupari caturmukhākhyaṃ svayaṃbhuvaṃ sṛṣṭvā taddvārānyānapi vyaṣṭiśarīriṇaḥ sthāvarāntān sasarja taduktam -

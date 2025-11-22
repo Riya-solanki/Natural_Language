@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1040 | label: hybrid | g:0.542 m:0.5 ---
+
+[] kṛṣṇa uvāca-yadi bhavad-ādiṣṭaṃ syāt tarhy etaṃ diṣṭāntam āsādayāmi ।

@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 217 | label: hybrid | g:0.442 m:0.412 ---
+
+sthālikāmadhye dugdhaṃ kṣiptvā mukhe śaithilyadātharaṃ baddhvā tatra dāthare gandhakaṃ kṣiptvā kaṇṭhe mṛttikayā liptvopari agniṣṭaṃ kṣiptvā ghaṭīdvayaṃ yāvajjvālayet ।।
+tato gandhako galitvā yo dugdhamadhye yāti sa śuddhagandhako jñeyaḥ ।।
+iti gandhakaśodhanam prathamam ।।
+atha dvitīyagandhakaśodhanam ।।

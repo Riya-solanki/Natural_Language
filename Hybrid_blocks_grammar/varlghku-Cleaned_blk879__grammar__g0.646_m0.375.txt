@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 879 | label: grammar | g:0.646 m:0.375 ---
+
+niṣṭhā ।।
+bhūtārthavṛtterdhātorniṣṭhā syāt । tatra tayoreveti bhāvakarmaṇoḥ ktaḥ । kartari kṛditi kartari ktavatuḥ । snātaṃ mayā । stutastvayā viṣṇuḥ । viśvaṃ kṛtavān viṣṇuḥ ।।

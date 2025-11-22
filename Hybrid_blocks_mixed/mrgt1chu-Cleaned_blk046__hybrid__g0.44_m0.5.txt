@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 46 | label: hybrid | g:0.44 m:0.5 ---
+
+pratyagrārkabhāsvaraṃ devair gaṇaiś ca stūyamānam ātmīyaṃ rūpaṃ vajrapāṇir devaḥ śatakratuḥ prakaṭīcakāra ।
+tejo'tiśayayogasya hetutayā śatakratur vajrīti ca viśeṣaṇadvayam ।
+kuliśasya svabhāva evāyaṃ yad adbhutaprabhābhāsvaratvaṃ śatakratutvāc ca tajjanitapuṇyaprabhāvād adbhutabhūrimahaḥsamūhatvam iti ।।

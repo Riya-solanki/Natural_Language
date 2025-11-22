@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2134 | label: meter | g:0.194 m:0.521 ---
+
+tvadbhaktāḥ puṇḍarīkākṣa tava cittavaśānugāḥ 
+goṣu gopā bhaviṣyanti sahāyāḥ satataṃ tava । 
+vane cārayato gās tu goṣṭhāṃś ca paridhāvataḥ 
+majjato yamunāyāṃ ca ratim āpsyanti te tvayi ।।

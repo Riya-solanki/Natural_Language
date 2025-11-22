@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 34 | label: hybrid | g:0.265 m:0.493 ---
+
+bhartuḥ kaṇṭhacchavir iti gaṇaiḥ sādaraṃ dṛśyamāṇaḥ puṇyaṃ yāyās tribhuvanaguror dhāma caṇḍeśvarasya 
+dhūtodyānaṃ kuvalayarajogandhibhir gandhavatyās toyakrīḍāniratayuvatisnānatiktair marudbhiḥ ।।

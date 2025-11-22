@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10498 | label: meter | g:0.25 m:0.79 ---
+
+nārada uvāca ।
+yannāmadheyaśravaṇānukīrtanātsvādvanyatattvaṃ mama nāsti viṣṇo ।
+punīhyataścaiva parovarāyānyajjihvāgre vartate nāma tasya ।।

@@ -1,0 +1,8 @@
+--- source: gp12-22u-Cleaned.txt | block: 520 | label: meter | g:0.009 m:0.555 ---
+
+ūhe kṛṣṇaḥ śrīdāmānaṃ daityaḥ sa śrī-rāmākhyānam ।
+anyo' py anyaṃ śūraṃ-manyaḥ sarvaḥ proce dhanyo dhanyaḥ ।।[vidyunmālā]
+pūrvaṃ kṛṣṇaḥ kautuke yena dṛṣṭaḥ
+saumyaḥ paścād rāmakarṣe tu bhīṣmaḥ
+ity evāyaṃ sa pralambas tu paryaṅ-
+maryādātaḥ paryagāt taṃ pragṛhya ।। [śālinī]

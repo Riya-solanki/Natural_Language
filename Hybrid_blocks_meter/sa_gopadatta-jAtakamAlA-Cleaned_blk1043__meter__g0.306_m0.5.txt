@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1043 | label: meter | g:0.306 m:0.5 ---
+
+soḍhuṃ na duḥkhāni vapūṃṣi śaktāny adṛṣṭaduḥkhāni sukhocitāni ।
+dantābhighātā dviradādhipānām abaddhamūlā iva cūtavṛkṣāḥ ।।

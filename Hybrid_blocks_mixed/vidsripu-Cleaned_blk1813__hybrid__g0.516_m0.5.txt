@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1813 | label: hybrid | g:0.516 m:0.5 ---
+
+yallagnaṃ hṛdi puṃsāṃ bhūyo bhūyaḥ śiro na ghūrṇayati ।
+tad api kaveḥ kim u kāvyaṃ kāṇḍo vā dhanvināṃ kim asau ।।
+tāmarasasya

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 822 | label: hybrid | g:0.521 m:0.5 ---
+
+aham iva śūnyam araṇyaṃ vayam iva tanutāṃ gatāni toyāni ।
+asmākam ivocchvāsā divasā dīrghāś ca taptāś ca ।।

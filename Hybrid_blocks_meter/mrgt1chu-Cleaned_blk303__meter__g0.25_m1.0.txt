@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 303 | label: meter | g:0.25 m:1.0 ---
+
+boddhṛtvapariṇāmitvadharmayor anuvartanam ।
+malasya sādhikārasya nivṛttestatparicyutau ।।

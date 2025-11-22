@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 818 | label: grammar | g:0.584 m:0.42 ---
+
+sā lambālakam ānanaṃ namayati pradveṣṭy ayaṃ māṃ śaśī naivonmuñcati vācam añcitakalā vighnanti māṃ kokilāḥ ।
+bhūbhaṅgaṃ kurute na sā dhṛtadhanur mathnāti māṃ manmathaḥ ko vā tām abalāṃ vilokya sahasā nātropakṛcchro bhavet ।।
+śṛṅgārasya

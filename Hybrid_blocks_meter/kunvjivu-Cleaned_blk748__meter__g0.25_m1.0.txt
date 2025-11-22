@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 748 | label: meter | g:0.25 m:1.0 ---
+
+ādimadhyāntaviṣayāḥ prādhānyetarayoginaḥ ।
+antargatopamādharmā yatra taddīpakaṃ viduḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 469 | label: meter | g:0.255 m:0.92 ---
+
+muhurekānubhāvānuvṛttilakṣaṇo yathā
+karpūravāsitavasantavinodanānte yāntībhi rātmabhavanāni vilāsinībhiḥ ।
+āmantrito valitakaṣṭhamanekavāraṃ śrīsiṅgabhūpatirapāṅgavilokanena ।।

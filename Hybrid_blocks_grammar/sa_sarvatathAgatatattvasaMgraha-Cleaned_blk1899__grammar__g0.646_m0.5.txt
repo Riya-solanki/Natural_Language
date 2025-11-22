@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1899 | label: grammar | g:0.646 m:0.5 ---
+
+tataḥ padmaśiṣyān praveśayet । tatrāditaḥ padmaśiṣyāya śapathahṛdayaṃ dadyāt । "padmasatvaḥ svayante adya iti kartavyam" ।

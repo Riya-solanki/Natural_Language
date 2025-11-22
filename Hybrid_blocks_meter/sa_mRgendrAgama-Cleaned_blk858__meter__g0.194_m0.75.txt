@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 858 | label: meter | g:0.194 m:0.75 ---
+
+pramādāddhārite liṅge bhraṣṭe vā sākṣasūtrake 
+lakṣaṃ japenmaheśasya punaḥ kuryātparigraham ।।

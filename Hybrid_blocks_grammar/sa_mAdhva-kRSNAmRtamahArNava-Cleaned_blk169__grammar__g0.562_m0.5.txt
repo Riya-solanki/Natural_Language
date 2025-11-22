@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 169 | label: grammar | g:0.562 m:0.5 ---
+
+nedṛśaṃ pāvanaṃ kiñcin narāṇāṃ bhuvi vidyate yādṛśaṃ padmanābhasya dinaṃ pātakahānidam ।।

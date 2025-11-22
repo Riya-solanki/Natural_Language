@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 64 | label: grammar | g:0.573 m:0.5 ---
+
+te vandyā makarandabindumadhurair abhyutthitād akṣarair yeṣā vānti sarasvatīparimalodgārā mukhāmbhoruhāt ।
+vandyās te api tadantarālapatitā ye bhṛṅgabhaṅgījuṣaḥ sāndrānandakarambitaṃ jagad idaṃ vindanti nindanti ca ।।

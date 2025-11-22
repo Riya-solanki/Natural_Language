@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 447 | label: meter | g:0.194 m:0.625 ---
+
+parivartaka-bhedatvāt tad upekṣāmahe vayam ।। thāvapātanam -
+vibhrāntir avapātaḥ syāt praveśa-drava-vidravaiḥ ।।

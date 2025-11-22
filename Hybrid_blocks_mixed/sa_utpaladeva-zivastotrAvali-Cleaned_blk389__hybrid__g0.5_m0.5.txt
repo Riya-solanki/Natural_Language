@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 389 | label: hybrid | g:0.5 m:0.5 ---
+
+tvaddhyānadarśanasparśatṛṣi keṣām api prabho jāyate śītalasvādu bhavatpūjāmahāsaraḥ ।।

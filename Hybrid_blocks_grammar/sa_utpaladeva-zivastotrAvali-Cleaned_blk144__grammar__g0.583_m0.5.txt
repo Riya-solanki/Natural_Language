@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 144 | label: grammar | g:0.583 m:0.5 ---
+
+bhavadaṅgapariṣvaṅgasambhogaḥ svecchayaiva me ghaṭatām iyati prāpte kiṃ nātha na jitaṃ mayā ।।

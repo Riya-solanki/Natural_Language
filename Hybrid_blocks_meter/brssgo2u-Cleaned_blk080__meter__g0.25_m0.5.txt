@@ -1,0 +1,3 @@
+--- source: brssgo2u-Cleaned.txt | block: 80 | label: meter | g:0.25 m:0.5 ---
+
+bhoktrāpatter avibhāgaś cet syāl lokavat ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 80 | label: meter | g:0.194 m:0.75 ---
+
+sa imāṃ dagdhabhūyiṣṭhāṃ yuṣmattejomayena vai 
+agnināgnisamo bhūyaḥ prajāḥ saṃvardhayiṣyati ।।

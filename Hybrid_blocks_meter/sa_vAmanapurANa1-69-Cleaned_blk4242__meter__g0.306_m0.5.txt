@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4242 | label: meter | g:0.306 m:0.5 ---
+
+sa prāha na tvayā bhadre bhadramācaritaṃ tviti ।
+mahājñānī dvijendro asau tataḥ śapsyati kopitaḥ ।।

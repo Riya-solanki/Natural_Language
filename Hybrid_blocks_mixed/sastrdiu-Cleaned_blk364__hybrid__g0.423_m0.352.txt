@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 364 | label: hybrid | g:0.423 m:0.352 ---
+
+kiñca saṃbanghasiddhyarthamavaśyaṃ varṇānāṃ vācakatvaṃ samarthanīyam, anyathā hi teṣāṃ saṃgatyābhāvādvācakabhāvo nirādhāratvānna syānnatarāṃ nityatvamiti tatsiddhyarthaṃ vācakatvaṃ samarthayituṃ śabdasvarūpaṃ nirūpyate ।
+ki gaurityatra varṇā eva śabdaḥ, uta tebhyor'thāntaramityetatprādhānyena nirūpyate ।
+varṇāvayava-gatva-gośabdāvayavi-jātinirākaraṇaṃ tu prāsaṅgikam ।
+varṇā eva śabda ityavadhāraṇasamarthanārtham ।।

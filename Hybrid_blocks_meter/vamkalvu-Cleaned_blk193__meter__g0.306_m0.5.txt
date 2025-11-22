@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 193 | label: meter | g:0.306 m:0.5 ---
+
+kiṃ bhāṣitena bahunā rūpaskandhasya santi me na guṇāḥ ।
+guṇānāntarīyakaṃ ca prameti na te'styupālambhaḥ ।।

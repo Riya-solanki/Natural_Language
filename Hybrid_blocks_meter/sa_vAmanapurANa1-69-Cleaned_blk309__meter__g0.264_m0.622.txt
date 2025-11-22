@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 309 | label: meter | g:0.264 m:0.622 ---
+
+hara uvāca ।
+yasmāttvayā putra sudurdharāṇi vijṛmbhaṇādīn pratīcchitāni ।
+tasmādvaraṃ tvāṃ pratipūjanāya dāsyāmi lokya ca hāsyakāri ।।

@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 764 | label: meter | g:0.25 m:0.75 ---
+
+apyasajjanasāṅgatye na vasatyeva vaikṛtam ।
+akṣālitāviśuddheṣu hṛdayeṣu manīpiṇām ।।

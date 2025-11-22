@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 100 | label: grammar | g:0.583 m:0.5 ---
+
+utsaṅgaśayanaṃ sakhyāḥ stananaṃ gauravaṃ klamaḥ itīme garbhiṇīdharmā bahavo apy atra darśitāḥ ।।

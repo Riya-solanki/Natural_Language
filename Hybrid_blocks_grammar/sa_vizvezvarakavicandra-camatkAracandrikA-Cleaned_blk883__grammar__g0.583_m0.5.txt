@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 883 | label: grammar | g:0.583 m:0.5 ---
+
+atra ekasminnava nāyake mālikāprakāreṇa rūpakāṇāṃ nirūpaṇādidaṃ mālikā nāma vikṛtaśabda pradhānaṃ rupakam ।

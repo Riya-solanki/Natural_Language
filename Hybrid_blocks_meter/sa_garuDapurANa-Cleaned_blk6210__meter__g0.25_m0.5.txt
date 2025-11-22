@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6210 | label: meter | g:0.25 m:0.5 ---
+
+ranasaiḥ syāddhalamukhī nau maḥ śiśubhṛtā bhavet ।
+bṛhatīchanda ityuktaṃ smau jagau sa virājitam ।।

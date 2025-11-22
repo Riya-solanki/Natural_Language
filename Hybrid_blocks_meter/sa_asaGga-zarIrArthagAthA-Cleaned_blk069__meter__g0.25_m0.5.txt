@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 69 | label: meter | g:0.25 m:0.5 ---
+
+adhyātaṃ ca bahirdhā ca vedanāṃ nābhinandataḥ ।
+evaṃ smṛtasya carato vijñānam uparudhyate ।।

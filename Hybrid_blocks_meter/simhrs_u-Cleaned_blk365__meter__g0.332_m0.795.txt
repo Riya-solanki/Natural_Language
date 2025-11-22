@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 365 | label: meter | g:0.332 m:0.795 ---
+
+atha miśra-rītiḥ-
+yatrobhaya-guṇa-grāma-saṃniveśas tulādhṛtaḥ ।
+sā miśrā saiva pāñcālīty uktā tad-deśaja-priyā ।।

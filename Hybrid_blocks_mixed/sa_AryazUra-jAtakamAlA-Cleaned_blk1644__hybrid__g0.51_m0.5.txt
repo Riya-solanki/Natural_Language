@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1644 | label: hybrid | g:0.51 m:0.5 ---
+
+ataḥ kṛpāmatra kurūṣva mā ruṣaṃ yadīpsitaṃ caivamanena kiṃcana ।
+kiruṣva tenainamavandhyasāhasaṃ sthitaṃ tvadājñāpravaṇaṃ hi me śiraḥ ।।

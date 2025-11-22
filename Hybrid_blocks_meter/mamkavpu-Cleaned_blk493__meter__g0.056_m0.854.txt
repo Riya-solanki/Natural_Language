@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 493 | label: meter | g:0.056 m:0.854 ---
+
+{te dṛṣṭimātrapatitā api kasya nātra
+kṣobhāya pakṣmaladṛśāmalakāḥ khalāśca ।
+nīcāḥ sadaiva savilāsamalīkalagnā
+ye kālatāṃ kuṭilatāmiva na tyajanti ।।}

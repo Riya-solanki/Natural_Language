@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2041 | label: meter | g:0.25 m:0.5 ---
+
+hiṃsanti yasyāhiśiraḥ samutthaṃ muktāphalaṃ tiṣṭhati kośamadhye ।
+nābhyeti meghaprabhavaṃ dharitrīṃ vipradgataṃ tadvibudhā haranti ।।

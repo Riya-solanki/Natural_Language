@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 184 | label: meter | g:0.25 m:0.625 ---
+
+anena dhyānayogena cittaratnaṃ dṛḍhībhavet ।
+adhiṣṭhānaṃ ca kurvanti buddhā bodhipratiṣṭhitāḥ ।।

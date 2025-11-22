@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 374 | label: meter | g:0.246 m:0.693 ---
+
+atha utthāpakaḥ -
+preraṇaṃ yat parasyādau yuddhāyotthāpakas tu saḥ ।।

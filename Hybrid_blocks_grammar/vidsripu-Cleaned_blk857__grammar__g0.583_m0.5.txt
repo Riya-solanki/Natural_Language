@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 857 | label: grammar | g:0.583 m:0.5 ---
+
+kva prasthitāsi karabhoru ghane niśīthe prāṇādhiko vasati yatra janaḥ priyo me ।
+ekākinī vada kathaṃ na bibheṣi bāle nanv asti puṅkhitaśaro madanaḥ sahāyaḥ ।।

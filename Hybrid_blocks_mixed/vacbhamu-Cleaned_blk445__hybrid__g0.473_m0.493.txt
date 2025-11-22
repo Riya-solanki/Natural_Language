@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 445 | label: hybrid | g:0.473 m:0.493 ---
+
+saṃprasādasamutthanābhyāṃ hi jīvaparāmarśo na jīvaparaḥ, kintu tadīyatāttvikarūpabrahmabhāvaparaḥ ।
+tathā caiṣa parāmarśo brahmaṇa eveti na saṃprasādasamutthāne jīvaliṅgam, api tu brahmaṇa eva tādarthyādityagre vakṣyate ।
+ākāśopamānādayastu brahmāvyabhicāriṇaśca brahmaparāścetyasti vinigamanetyarthaḥ ।।

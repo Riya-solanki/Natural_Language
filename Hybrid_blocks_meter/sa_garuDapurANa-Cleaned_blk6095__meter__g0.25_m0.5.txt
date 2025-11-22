@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6095 | label: meter | g:0.25 m:0.5 ---
+
+kāmpillako atha raktāṅgo guṇḍā rocaniketi ca ।
+hemakṣīrī smṛtā pītā gaurī vai kāladugdhikā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10510 | label: hybrid | g:0.51 m:0.5 ---
+
+māṃ pāhi nityaṃ bhagavanvāsudeva hyagnerahaṃ sarvadā nyūna eva ।
+mitrādahaṃ sarvadā kiñcidūnaḥ stutvā deva sobhavattatra tūṣṇīm ।।

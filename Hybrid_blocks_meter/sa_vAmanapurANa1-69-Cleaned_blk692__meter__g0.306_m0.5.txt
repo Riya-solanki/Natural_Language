@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 692 | label: meter | g:0.306 m:0.5 ---
+
+mitrajāyātha jananī jyeṣṭho bhrātā pitā svasā ।
+jāmayo guravo vṛddhā yaiḥ saṃspṛṣṭāḥ padā nṛbhiḥ ।।

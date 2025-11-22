@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 210 | label: meter | g:0.194 m:0.75 ---
+
+tatraikam āntaraṃ tattvaṃ tad evendriyavedyatām 
+saṃprāpyānekatāṃ yāti deśakālasvabhāvataḥ ।।

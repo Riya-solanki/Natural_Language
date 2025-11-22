@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 512 | label: hybrid | g:0.416 m:0.29 ---
+
+atrocyate- pratyabhijñāyate kartā yaḥ pūrvāparakālayoḥ ।।
+tasya sthāsnoḥ bhedo vijñānātkṣaṇabhaṅgurāt ।
+viṣayapratyabhijñānānupapatterjñāturekatvakalpanāyāṃ syādapyetaduttaraṃ- saṃtānaikatvādevopapadyata iti ।
+yadā tu jñātaivaikaḥ pūrvāparakālayoḥ pratyabhijñāyate- yo ahaṃ pūrvamadrākṣaṃ sa evāhamanupaśyāmīti tadā pratyabhijñayaiva jñāturekatvāvagamāt, vijñānasya ca kṣaṇikatvāttato anyo jñātā siddho bhavatīti ।।

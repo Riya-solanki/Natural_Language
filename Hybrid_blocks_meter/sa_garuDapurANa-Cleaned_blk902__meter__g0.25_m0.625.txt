@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 902 | label: meter | g:0.25 m:0.625 ---
+
+bhāvayitvā mahātmānaṃ sarvadevaiḥ samanvitam ।
+aṅgamantraistato nyāsaṃ mūlamantreṇa vai tathā ।।

@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 80 | label: meter | g:0.0 m:0.99 ---
+
+{kāñcukīyaḥ} - tad āgamyatām 
+ita ito bhavati 
+samprati hi

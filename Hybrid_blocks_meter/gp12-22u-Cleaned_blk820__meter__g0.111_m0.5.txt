@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 820 | label: meter | g:0.111 m:0.5 ---
+
+vikṣeptuṃ vrajam aicchad eṣa pavanair vikṣepam āpa svayaṃ
+varṣair dharṣayituṃ ca dharṣam agamad bāḍhaṃ viḍaujā hṛdi ।
+vajrais tāḍayituṃ tathāpa śirasi sve vajra-tāḍyātmatāṃ
+sādhūtpāta-karatvam arjati viparyastā gatir yujyate ।। [śārdūlavikrīḍitam]

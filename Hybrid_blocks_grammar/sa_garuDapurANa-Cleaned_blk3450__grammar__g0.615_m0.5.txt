@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3450 | label: grammar | g:0.615 m:0.5 ---
+
+yo vātmanīha na gurau na ca bhṛtyavarge dīne dayāṃ na kurute na ca mitrakārye ।
+kiṃ tasya jīvitaphalenamanuṣyaloke kāko api jīvati ciraṃ ca baliṃ ca bhuṅkte ।।

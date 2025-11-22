@@ -1,0 +1,14 @@
+--- source: simhrs_u-Cleaned.txt | block: 517 | label: meter | g:0.25 m:0.555 ---
+
+vy-abhī ity upasargau dvau viśeṣābhimukhatvayoḥ ।
+viśeṣeṇābhimukhyena caranti sthāyinaṃ prati ।। 
+vāg-aṅga-sattva-sūcyā jñeyās te vyabhicāriṇaḥ ।
+taṃ cārayanti bhāvasya gatiṃ sañcāriṇo' pi ।। 
+unmajjanto nimajjantaḥ sthāyiny amṛta-vāridhau ।
+ūrmivad vardhayanty enaṃ yānti tad-rūpatāṃ ca te ।। 
+nirvedo' tha viṣādo dainyaṃ glāni-śramau ca mada-garvau ।
+śaṅkā-trāsāvegā unmādāpasmṛtī tathā vyādhiḥ ।। 
+moho mṛtir ālasyaṃ jāḍyaṃ vrīḍāvahitthā ca ।
+smṛtir atha vitarka-cintā-mati-dhṛtayo harṣa utsukatvaṃ ca ।। 
+augryam arṣāsūyāś cāpalyaṃ caiva nidrā ca ।
+suptir bodha itīme bhāvā vyabhicāriṇaḥ samākhyātāḥ ।।

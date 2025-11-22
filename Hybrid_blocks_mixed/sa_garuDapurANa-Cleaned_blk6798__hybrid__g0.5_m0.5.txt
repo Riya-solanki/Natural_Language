@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6798 | label: hybrid | g:0.5 m:0.5 ---
+
+caturmukho vā yadi koṭivaktro bhavennaraḥ kopi viśuddhacetāḥ ।
+sa vai guṇānāmayutaikadeśaṃ vadenna vā devavarasya viṣṇoḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_abhinavagupta-anuttarASTikA-Cleaned.txt | block: 8 | label: grammar | g:0.635 m:0.5 ---
+
+bhāvānāṃ na samudbhavo asti sahajas tvadbhāvitā bhānty amī niḥsatyā api satyatām anubhavabhrāntyā bhajanti kṣaṇam ।
+tvatsaṅkalpaja eṣa viśvamahimā nāsty asya janmānyataḥ tasmāt tvaṃ vibhavena bhāsi bhuvaneṣv ekopy anekātmakaḥ ।।

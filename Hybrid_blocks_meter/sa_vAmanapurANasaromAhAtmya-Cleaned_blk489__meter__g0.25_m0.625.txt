@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 489 | label: meter | g:0.25 m:0.625 ---
+
+prāṇāyāmairniharanti svalomāni dvijottamāḥ ।
+pūtātmānaśca te viprāḥ prayānti paramāṃ gatim ।।

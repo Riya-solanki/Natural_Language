@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1312 | label: meter | g:0.25 m:0.695 ---
+
+atha vajrakulaguhyakarmamudrābandho bhavati ।
+karmamudrāḥ samāsena vajramuṣṭirdvidhīkṛtā ।
+yathā sthāneṣu saṃstheyā krodhaduṣṭyā suroṣavān ।।

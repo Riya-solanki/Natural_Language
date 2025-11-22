@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 78 | label: grammar | g:0.729 m:0.5 ---
+
+mahāyānaprayogamārgabhedāḥ ūṣma-mūrdha-kṣāntyagradharmākhyāścaturnirvedhabhāgīyāḥ śrāvakanirvedhabhāgīyebhyaḥ pañcabhirviśeṣairviśiṣṭā bhavanti । eteṣu nirvedhabhāgīyeṣu pratyekaṃ mṛdu-madhyādhimātrabhedena tridhā bhavati । evaṃ mahāyānaprayogamārgasya dvādaśa bhedā jāyante ।

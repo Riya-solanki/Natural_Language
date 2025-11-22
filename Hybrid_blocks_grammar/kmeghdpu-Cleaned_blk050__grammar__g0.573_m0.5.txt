@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 50 | label: grammar | g:0.573 m:0.5 ---
+
+tasyāḥ pātuṃ suragaja iva vyomni paścārdhalambī tvaṃ ced acchasphaṭikaviśadaṃ tarkayes tiryag ambhaḥ ।
+saṃsarpantyā sapadi bhavataḥ srotasi cchāyayā sā syād asthānopagatayamunāsaṃgam evābhirāmā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4195 | label: meter | g:0.306 m:0.625 ---
+
+bahireva bahirvege tāpo api ca sa sādhitaḥ ।
+varṣāśaradvasanteṣu vātādyaiḥ prakṛtaḥ kramāt ।।

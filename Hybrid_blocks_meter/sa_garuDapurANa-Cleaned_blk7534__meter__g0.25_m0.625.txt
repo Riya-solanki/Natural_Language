@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7534 | label: meter | g:0.25 m:0.625 ---
+
+roditavyaṃ tato gāḍhamevaṃ tasya sukhaṃ bhavet ।
+dāhasyānantaraṃ tatra kṛtvā sañcayanikriyām ।।

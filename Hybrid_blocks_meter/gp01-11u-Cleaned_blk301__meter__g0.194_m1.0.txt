@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 301 | label: meter | g:0.194 m:1.0 ---
+
+"sarvaḥ pravāhaḥ sarvatra
+svānukūlyena karṣakaḥ ।
+veṇu-dhvani-pravāhas tu
+prātikūlyena karṣati ।।

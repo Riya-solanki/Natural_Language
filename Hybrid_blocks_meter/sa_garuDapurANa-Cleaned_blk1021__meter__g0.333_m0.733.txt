@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1021 | label: meter | g:0.333 m:0.733 ---
+
+śrīgaruḍamahāpurāṇam- 
+śaṅkara uvāca ।
+māheśvarīṃ ca me pūjāṃ vada śaṅkhagadādhara ।
+yāṃ jñātvā mānavāḥ siddhiṃ gacchanti parameśvara ।।

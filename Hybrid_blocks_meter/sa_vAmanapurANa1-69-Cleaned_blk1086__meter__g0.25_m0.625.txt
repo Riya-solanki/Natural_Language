@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1086 | label: meter | g:0.25 m:0.625 ---
+
+ekaṃ mimagnaṃ salile grāharūpeṇa vāsavaḥ ।
+caraṇābhyāṃ samādāya nijaghāna yathecchayā ।।

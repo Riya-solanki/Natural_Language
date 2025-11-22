@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10350 | label: meter | g:0.25 m:0.625 ---
+
+tamobhāgāstu vijñeyāstaddaśāṃśādhikaḥ smṛtaḥ ।
+sattvabhāga iti jñeyo mahattattve khageśvara ।।

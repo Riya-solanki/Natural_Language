@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1502 | label: meter | g:0.29 m:0.747 ---
+
+vajravisphūrjitoddhūtair vidyudindrāyudhārpitaiḥ 
+gupto balāhakagaṇaiḥ parvatair iva kāmagaiḥ ।।

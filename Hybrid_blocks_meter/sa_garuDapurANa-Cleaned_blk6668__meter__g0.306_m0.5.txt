@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6668 | label: meter | g:0.306 m:0.5 ---
+
+vāyuḥ khe khañca bhūtādau viśate ca tadā mahān ।
+mahānprapadyate avyaktaṃ prakṛtiḥ puruṣe pare ।।

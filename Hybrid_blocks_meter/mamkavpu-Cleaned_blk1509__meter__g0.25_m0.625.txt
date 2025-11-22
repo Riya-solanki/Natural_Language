@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1509 | label: meter | g:0.25 m:0.625 ---
+
+{kaluṣaṃ ca tavāhiteṣvakasmātsitapaṅkeruhasodaraśri cakṣuḥ ।
+patitaṃ ca mahīpatīndra teṣāṃ vapuṣi prasphuṭamāpadāṃ kaṭākṣaiḥ ।।}

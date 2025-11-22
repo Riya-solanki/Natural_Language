@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1339 | label: meter | g:0.25 m:0.5 ---
+
+tato mayāsya gaditaṃ nṛpa bījaṃ kva tiṣṭhati ।
+sa cāha mama dehasthaṃ bījaṃ tamahamabruvam ।
+dehyahaṃ vāpayiṣyāmi sīraṃ kṛṣatu vai bhavān ।।

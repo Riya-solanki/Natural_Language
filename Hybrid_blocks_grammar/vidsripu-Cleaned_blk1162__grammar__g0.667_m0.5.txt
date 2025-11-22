@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1162 | label: grammar | g:0.667 m:0.5 ---
+
+dhanyas tvaṃ sahakāra samprati phalaiḥ kākāñ śukān pūrayan pūrvaṃ tu tvayi muktamañjaribharonnidre ya indindiraḥ ।
+akrīḍan nimiṣaṃ sa naiti phalinaṃ yat tvāṃ vikāśaikamut taddharmo asya phalāśayā paricayaḥ kalpadrume apy asti kim ।।

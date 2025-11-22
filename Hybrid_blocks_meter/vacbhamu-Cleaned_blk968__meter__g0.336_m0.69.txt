@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 968 | label: meter | g:0.336 m:0.69 ---
+
+ārtvijyamityauḍulomistasmai hi parikrīyate ।
+upākhyānāttāvadupāsanamaudgātramavagamyate ।
+tadbalavati sati bādhake anyathopapādanīyam ।
+na cartvikkartṛka upāsane yajamānagāmitā phalasyāsaṃbhavinī tena hi sa parikrīyastadgāmine phalāya ghaṭate ।
+tasmānna vyasanitāmātreṇopākhyānamanyathayituṃ yuktamiti rāddhāntaḥ ।।

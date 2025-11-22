@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3604 | label: meter | g:0.306 m:0.5 ---
+
+yanmayā śraddhayā dattaṃ prīyatāṃ tena me prabhuḥ ।
+iti kṣamāpya ca vratī kuryādvādaśavārṣikam ।।

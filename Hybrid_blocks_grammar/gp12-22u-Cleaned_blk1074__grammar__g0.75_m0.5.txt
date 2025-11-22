@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1074 | label: grammar | g:0.75 m:0.5 ---
+
+[] kṛṣṇas tu gūḍham api smitam agūḍha । samūḍha-priya-vadyatayāpy avādīt-hanta, nahi nahi, yasmād vrata-kṛśatayā bhṛśa-dayā-viṣayā eva yūyam, na tu dūyamānatām arhatha ।

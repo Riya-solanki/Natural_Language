@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 118 | label: meter | g:0.095 m:0.802 ---
+
+viṣa-hradāntād vinivartitāś ca te
+pratīyur evādhi tad-ātmanaḥ sthitim ।
+yat kāla-kūṭa-jvalanāntaraṅgataṃ
+svaṃ menire vīkṣya tad-antare harim ।। [upajāti ]

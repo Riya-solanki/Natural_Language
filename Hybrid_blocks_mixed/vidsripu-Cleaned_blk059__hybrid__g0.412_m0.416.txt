@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 59 | label: hybrid | g:0.412 m:0.416 ---
+
+pāyāt pārvaṇasāṃdhyatāṇḍavavidhau yasyollasatkānano hemādriḥ karaṇāṅgahāravalanaiḥ sārdhendur āndolitaḥ ।
+dhatte atyadbhutavismayena dharayā dhūtasya kāntatviṣo lolatkuntalakuṇḍalasya śirasaḥ śobhāṃ sa vo dhūrjaṭiḥ ।।
+NB Ingalls conjectures sārkenduḥ in b

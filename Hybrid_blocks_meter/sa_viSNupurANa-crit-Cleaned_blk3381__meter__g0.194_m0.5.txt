@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3381 | label: meter | g:0.194 m:0.5 ---
+
+ceṣṭāṃ karoti śvasanasvarūpī lokasya tṛptiṃ ca jalānnarūpī 
+dadāti viśvasthitisaṃsthitas tu sarvāvakāśaṃ ca nabhaḥsvarūpī ।।

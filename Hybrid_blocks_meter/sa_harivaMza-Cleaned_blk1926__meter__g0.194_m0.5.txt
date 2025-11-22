@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1926 | label: meter | g:0.194 m:0.5 ---
+
+tāv ubhāv āplutau toye vapurbhyām ekatāṃ gatau 
+medo mumucatur daityau mathyamānau jalormibhiḥ ।।

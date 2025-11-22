@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 75 | label: meter | g:0.194 m:0.5 ---
+
+drumakṣayam atho buddhvā kiṃcic chiṣṭeṣu śākhiṣu 
+upagamyābravīd etān rājā somaḥ pratāpavān ।।

@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 227 | label: meter | g:0.25 m:0.75 ---
+
+sarvacchidraharaścānyo vidhireṣāṃ nigadyate ।
+yaḥ prāptastapasā devair harātsvavidhipuṣṭaye ।

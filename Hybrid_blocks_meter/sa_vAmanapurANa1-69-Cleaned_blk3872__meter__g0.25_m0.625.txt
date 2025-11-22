@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3872 | label: meter | g:0.25 m:0.625 ---
+
+namaste puṇḍarīkākṣa bhaktānāmabhayaprada ।
+subrahmaṇya namaste astu trāhi māṃ śaraṇāgatam ।।

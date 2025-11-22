@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 389 | label: meter | g:0.25 m:0.625 ---
+
+vajrāveśaṃ samutpādya mahāmudrāṃ yathāvidhi ।
+badhvā tu paratastaṃ tu mahāsattvaṃ prabhāvayet ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1133 | label: hybrid | g:0.51 m:0.5 ---
+
+namo astu daivyai surapūjitāyai yā saṃsthitā yogaviśuddhadehā ।
+nidrāsvarūpeṇa mahīṃ vitatya tṛṣṇā trapā kṣud bhayadātha kāntiḥ ।।

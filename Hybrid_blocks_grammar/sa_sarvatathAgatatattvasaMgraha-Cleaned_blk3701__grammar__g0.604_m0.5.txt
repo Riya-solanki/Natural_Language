@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3701 | label: grammar | g:0.604 m:0.5 ---
+
+atha bhagavān rātrau prabhātāyāṃ [lokānu]vartanatayā mārāṃ jitvānuttarāṃ samyaksaṃbodhimabhisaṃbudhya, aśeṣānavaśeṣa[satvadhātuṣu sarvasatvahitārthāya, svahṛda]yāvasthitamāryavajrapāṇinamanena nāmāṣṭaśatenābhistauti ।

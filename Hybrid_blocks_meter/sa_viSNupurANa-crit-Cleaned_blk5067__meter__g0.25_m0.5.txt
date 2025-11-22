@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5067 | label: meter | g:0.25 m:0.5 ---
+
+kaccit smarati naḥ kṛṣṇo gītānugamanaṃ kalam 
+apy asau mātaraṃ draṣṭuṃ sakṛd apy āgamiṣyati ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3875 | label: grammar | g:0.75 m:0.5 ---
+
+vitathasya bhavan manyuḥ putro abhūt । bṛhatkṣatramahāvīryanaragargā abhavan manyuputrāḥ । narasya saṃkṛtiḥ saṃkṛte ruciradhīrantidevau । gargāc chinis tato gārgyāḥ śainyāḥ kṣatropetā dvijātayo babhūvuḥ ।।

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1757 | label: meter | g:0.194 m:0.875 ---
+
+niṣpratyūham upāsmahe bhagavataḥ kaumodakī-lakṣmaṇaḥ
+koka-prīti-cakora-pāraṇa-paṭū jyotiṣmatī locane ।
+yābhyām ardha-vibodha-mugdha-madhura-śrīr ardha-nidrāyito
+nābhī-palvala-puṇḍarīka-mukulaḥ kamboḥ sapatnī-kṛtaḥ ।।

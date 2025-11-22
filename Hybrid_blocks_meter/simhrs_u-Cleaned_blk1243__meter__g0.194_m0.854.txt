@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1243 | label: meter | g:0.194 m:0.854 ---
+
+lokottaraṃ caritam arpayati pratiṣṭhāṃ
+puṃsāṃ kulaṃ na hi nimittam udāratāyāḥ ।
+vātāpitāpana-muneḥ kalaśāt prasūtir
+līlāyitaṃ punar amuṣya samudra-pānam ।।

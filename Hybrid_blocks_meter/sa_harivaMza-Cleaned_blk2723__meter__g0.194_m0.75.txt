@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2723 | label: meter | g:0.194 m:0.75 ---
+
+sa kṛṣṇatalavinyasto muktamūlaḥ kṣites talāt 
+rītīr nirvartayāmāsa kāñcanāñ janarājatīḥ ।।

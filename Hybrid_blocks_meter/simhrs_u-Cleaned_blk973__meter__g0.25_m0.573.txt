@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 973 | label: meter | g:0.25 m:0.573 ---
+
+atha vilāpaḥ-
+iha me dṛk-pathaṃ prāpad ihātiṣṭhad ihāsta ca ।
+ihālapad ihāvātsīd ihaiva nyavṛtat tathā ।। 
+ity ādi-vākya-vinyāso vilāpa iti kīrtitaḥ ।
+tatra ceṣṭās tu kutrāpi gamanaṃ kvacid īkṣaṇam । 
+kvacit kvacid avasthānaṃ kvacic ca bhramaṇādayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1372 | label: meter | g:0.25 m:0.5 ---
+
+jātāstāḥ kanyakāstisraḥ ṣaḍabdāt parato mune ।
+kartuṃ tapaḥ prayātāstā devāstā dadṛśuḥ śubhāḥ ।।

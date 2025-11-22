@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1296 | label: grammar | g:0.75 m:0.5 ---
+
+[] sarve' py ūcuḥ-vāvadūka ! vipratayā bhavān eva yāyajūkatāyāṃ jañjapūkatām āsīdan purobhāśānāṃ dandaśūkas tad-āsvādāya jāgarūkatām āsādayati । asmābhis tu bhavaj-jāter dvijāteḥ parīkṣaivācaritā iti ।

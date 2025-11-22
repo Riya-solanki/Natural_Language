@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 299 | label: grammar | g:0.625 m:0.5 ---
+
+[] atha sarva-guṇa-śālī vanamālī bahala-kutūhala-kalita-cittatayā calitaḥ, sakhibhir valitaḥ, phalita-śākhi-śākhā-śikhā-lalitenādhvanā dhenūr labdhvā veṇu-dhvanim udbhāvayāmāsa ।

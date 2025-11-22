@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 405 | label: meter | g:0.29 m:0.872 ---
+
+bhuvaneśamahādevavāmadevabhavodbhavāḥ 
+ekapiṅgekṣaṇeśānā-ṅguṣṭhamātrāśca bhāsvarāḥ ।।

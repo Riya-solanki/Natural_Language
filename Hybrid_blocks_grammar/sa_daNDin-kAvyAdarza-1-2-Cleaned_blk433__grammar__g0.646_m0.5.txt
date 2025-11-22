@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 433 | label: grammar | g:0.646 m:0.5 ---
+
+na baddhā bhrūkuṭir nāpi sphurito daśanacchadaḥ na ca raktābhavad dṛṣṭir jitaṃ ca dviṣatāṃ kulam ।।

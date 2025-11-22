@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 628 | label: meter | g:0.25 m:0.5 ---
+
+traya ete mayā proktāś caturo anyān nibodha me 
+yān vakṣyāmi dvijaśreṣṭha mūrtimanto hi te smṛtāḥ 
+samutpannāḥ svadhāyāṃ tu kāvyād agneḥ kaveḥ sutāḥ ।।

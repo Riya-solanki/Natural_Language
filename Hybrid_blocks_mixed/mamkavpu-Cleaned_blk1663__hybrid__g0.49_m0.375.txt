@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1663 | label: hybrid | g:0.49 m:0.375 ---
+
+eteṣāṃ samanantaramevoktasvarūpāṇāṃ yathāsaṃbhavananyonyanirapekṣatayā yat ekatra śabdabhāge eva arthaviṣaye eva ubhayatrāpi vā avasthānam sā ekārthasamavāyasvabhāvā saṃsṛṣṭiḥ ।
+tatra śabdālaṅkārasaṃsṛṣṭiryathā

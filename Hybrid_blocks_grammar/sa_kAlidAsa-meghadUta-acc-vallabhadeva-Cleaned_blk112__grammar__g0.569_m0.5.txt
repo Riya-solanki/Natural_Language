@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 112 | label: grammar | g:0.569 m:0.5 ---
+
+etat kṛtvā priyam anucitaprārthanāvartmano me sauhārdād vā vidhura iti vā mayy anukrośabuddhyā 
+iṣṭān deśān vicara jalada prāvṛṣā saṃbhṛtaśrīr mā bhūd evaṃ kṣaṇam api ca te vidyutā viprayogaḥ ।।

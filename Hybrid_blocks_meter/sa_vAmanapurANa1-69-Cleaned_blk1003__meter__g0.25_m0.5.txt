@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1003 | label: meter | g:0.25 m:0.5 ---
+
+tato vibudhyanti surāḥ kramaśaḥ kramaśo mune ।
+tulāsther'ke hariḥ kāmaḥ śivaḥ paścādvibudhyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 840 | label: meter | g:0.306 m:0.625 ---
+
+teṣāṃ kleśakṣayaṃ deva vidhehi kuru me dayām ।
+kiṃ vedadharmaniṣṭhanāmanantaṃ deva dṛṣkṛtam ।।

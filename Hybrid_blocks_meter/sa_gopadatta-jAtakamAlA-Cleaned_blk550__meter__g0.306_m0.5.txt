@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 550 | label: meter | g:0.306 m:0.5 ---
+
+mithyāvikalpapariṇāmasukhānupātī sneho vivṛddhim upayāti sukhe sthitānām ।
+duḥkhopataptamanasāṃ śithilībhavanti pāśās tv amī priyavikalpamayā janānām ।।

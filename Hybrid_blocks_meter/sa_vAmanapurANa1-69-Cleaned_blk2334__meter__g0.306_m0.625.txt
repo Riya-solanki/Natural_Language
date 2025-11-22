@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2334 | label: meter | g:0.306 m:0.625 ---
+
+daṇḍo abravīt sutanvaṅgi kālakṣepo na me kṣamaḥ ।
+cyutāvasarakartṛtve vighno jāyeta sundari ।।

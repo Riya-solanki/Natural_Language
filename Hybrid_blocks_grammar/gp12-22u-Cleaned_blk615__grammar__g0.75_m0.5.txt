@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 615 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ yadyapy utkaṇṭhāyāḥ parama-kāṣṭhā jātā, tathāpi kācid api kāñcit prati na prakāśayāmāsa । adharmeṇāpi taṃ bhajāni, iti yathā tās tathā kṛṣṇo' pi tatra tā nirvidyā nirvidya khidyate sma ।

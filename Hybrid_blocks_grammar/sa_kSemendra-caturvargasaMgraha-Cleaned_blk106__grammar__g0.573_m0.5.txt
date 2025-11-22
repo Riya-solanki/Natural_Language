@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 106 | label: grammar | g:0.573 m:0.5 ---
+
+yātu vyaktiṃ kusumasamayaḥ saṃcayaḥ saurabhāṇāṃ khe khelanto malayanilayāḥ saṃtataṃ vāntu vātāḥ ।
+kāmaḥ kāmaṃ kṣapayatu dhṛtiṃ pakṣmalākṣīkaṭākṣaiḥ śāntiś citte sthirasukhasakhī nirvikāre mamāstu ।।

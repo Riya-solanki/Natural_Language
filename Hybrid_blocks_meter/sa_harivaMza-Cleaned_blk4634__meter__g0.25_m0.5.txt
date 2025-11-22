@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4634 | label: meter | g:0.25 m:0.5 ---
+
+iha tv āste trinayanaḥ kārttikeyaś ca vīryavān 
+tenotpanno api doṣo naḥ kaccid gacchet parābhavam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 54 | label: meter | g:0.25 m:0.5 ---
+
+mūḍhānām eṣa bhavati krodho jñānavatāṃ kutaḥ 
+hanyate tāta kaḥ kena yataḥ svakṛtabhuk pumān ।।

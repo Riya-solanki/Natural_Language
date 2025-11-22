@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 94 | label: meter | g:0.25 m:0.5 ---
+
+bhagavāneva naḥ putro bhavatviti prasīda naḥ ।
+uktaśca parayā vācā tathāstvati sa vakṣyati ।।

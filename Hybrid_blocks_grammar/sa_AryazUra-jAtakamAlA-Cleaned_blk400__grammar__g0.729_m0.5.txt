@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 400 | label: grammar | g:0.729 m:0.5 ---
+
+yadā ca paramapi prayatnaṃ kurvanto naiva śaknuvanti sma kasyacidviṣayanivāsino janasyaujo apahartumatha teṣāṃ parasparamavekṣyaitadabhūt । kiṃ nu khalvidaṃ mārṣāḥ ।

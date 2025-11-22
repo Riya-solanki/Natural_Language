@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 736 | label: meter | g:0.102 m:0.5 ---
+
+prāṇo antaḥsuṣirāj jāto mukhād agnir ajāyata 
+nābhito gaganaṃ dyauś ca śirasaḥ samavartata 
+diśaḥ śrotrāt kṣitiḥ padbhyāṃ tvattaḥ sarvam abhūd idam ।।

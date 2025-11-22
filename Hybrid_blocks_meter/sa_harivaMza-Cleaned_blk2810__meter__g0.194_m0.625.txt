@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2810 | label: meter | g:0.194 m:0.625 ---
+
+abhiṣiktaṃ tu taṃ gobhiḥ śakro govindam avyayam 
+divyaśuklāmbaradharam devarājo abravīd idam ।।

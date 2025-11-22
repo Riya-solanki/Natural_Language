@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 404 | label: meter | g:0.25 m:0.5 ---
+
+nāma dehīti taṃ so atha pratyuvāca prajāpatiḥ 
+rudras tvaṃ deva nāmnāsi mā rodīr dhairyam āvaha 
+evam uktaḥ punaḥ so atha saptakṛtvo ruroda vai ।।

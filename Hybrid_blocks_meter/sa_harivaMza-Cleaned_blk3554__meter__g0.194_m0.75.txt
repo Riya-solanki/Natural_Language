@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3554 | label: meter | g:0.194 m:0.75 ---
+
+tasya rūpaṃ balasyāsīn niḥśabdastimitasya vai 
+līnamīnagrahasyeva niḥśabdasya mahodadheḥ ।।

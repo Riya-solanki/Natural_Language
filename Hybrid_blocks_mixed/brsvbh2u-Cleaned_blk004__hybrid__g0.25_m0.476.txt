@@ -1,0 +1,7 @@
+--- source: brsvbh2u-Cleaned.txt | block: 4 | label: hybrid | g:0.25 m:0.476 ---
+
+pradhānasya tāvatkvacid vedapradeśe vākyābhāsānudṛśyante, tadvikārāṇāṃ tu mahadādīnāṃ tānyapi na sandhi ।
+naca bhūtendriyādivanmahadādayo lokasiddhāḥ ।
+tasmādātyantikāt pramāṇāntarāsaṃvādāt pramāṇamūlatvācca smṛtermūlābhāvādabhāvo vandhyāyā iva dauhitryasmṛteḥ ।
+na cārṣajñānamatra mūlamupapadyata iti yuktam ।
+tasmānna kāpilasmṛteḥ pradhānopādānatvaṃ jagata iti siddham ।।

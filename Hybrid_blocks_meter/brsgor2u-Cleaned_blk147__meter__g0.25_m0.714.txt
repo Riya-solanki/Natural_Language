@@ -1,0 +1,5 @@
+--- source: brsgor2u-Cleaned.txt | block: 147 | label: meter | g:0.25 m:0.714 ---
+
+avidyādīnāṃ pratisaṃkhyānirodhaṃ tadabhimataṃ dūṣayati- ubhayatheti ।
+yamaniyamādayaḥ parikarāḥ ।
+sarvaṃ duḥkhaṃ kṣaṇikamiti bhāvanopadeśo mārgopadeśaḥ ।।

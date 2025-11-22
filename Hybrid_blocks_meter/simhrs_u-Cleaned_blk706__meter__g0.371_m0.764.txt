@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 706 | label: meter | g:0.371 m:0.764 ---
+
+para-vidyayā, yathā-
+pratyakṣādi-prabhā-siddha-viruddhārthābhidhāyinaḥ ।
+vedāntā yadi śāstrāṇi bauddhaiḥ kim aparāddhyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1471 | label: meter | g:0.25 m:0.5 ---
+
+adyaprabhṛti dhanyo asmi śailarāḍadya sattamāḥ ।
+saṃśuddhadeho asmayadyaiva yad bhavanto mamājiram ।।

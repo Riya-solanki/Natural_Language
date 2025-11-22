@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 332 | label: meter | g:0.29 m:0.747 ---
+
+yāmyādrimūle gandharvasurasiddhāpsarovṛtam 
+nandanaṃ mānasaṃ tatra saro mānasataskaram ।।

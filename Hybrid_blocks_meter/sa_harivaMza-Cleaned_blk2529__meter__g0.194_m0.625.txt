@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2529 | label: meter | g:0.194 m:0.625 ---
+
+damite sarparāje tu kṛṣṇena yamunāhrade 
+tam eva ceratur deśam sahitau rāmakeśavau ।।

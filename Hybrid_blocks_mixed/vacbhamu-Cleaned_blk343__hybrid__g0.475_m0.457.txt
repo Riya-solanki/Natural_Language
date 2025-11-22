@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 343 | label: hybrid | g:0.475 m:0.457 ---
+
+ityanayorapi sūtrayorbhāṣye ānandamayasthāne brahma pucchaṃ pratiṣṭhā iti pāṭho draṣṭavyaḥ ।
+taddhetuvyapadeśācca ।।

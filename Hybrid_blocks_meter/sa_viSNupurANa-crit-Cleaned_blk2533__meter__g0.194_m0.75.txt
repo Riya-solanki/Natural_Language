@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2533 | label: meter | g:0.194 m:0.75 ---
+
+ṛgvedaśrāvakaṃ pailaṃ jagrāha sa mahāmuniḥ 
+vaiśampāyananāmānaṃ yajurvedasya cāgrahīt ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 266 | label: grammar | g:0.646 m:0.5 ---
+
+arthasya bāhyatāpādanaṃ kāryatvaṃ, tato bāhyatā kāryatā caikāpekṣayā pramātaram apekṣya cāntarbahirvyavahāraḥ । tatas tasyaiva kāryam ।।

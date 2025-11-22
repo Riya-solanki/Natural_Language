@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 273 | label: meter | g:0.194 m:0.75 ---
+
+tenaiva vartayanty ugrā mahākāyā mahābalāḥ 
+tadāhārās tadācārās tadvīryās tadapāśrayāḥ ।।

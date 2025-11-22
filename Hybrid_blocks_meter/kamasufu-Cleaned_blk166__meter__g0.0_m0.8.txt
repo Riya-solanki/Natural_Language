@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 166 | label: meter | g:0.0 m:0.8 ---
+
+ṣaṣṭho adyāyaḥ
+prakaraṇa [arthānarthānubandha-saṃśaya-vicāra-prakaraṇam]

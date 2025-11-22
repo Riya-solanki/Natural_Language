@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 95 | label: grammar | g:0.562 m:0.5 ---
+
+na kevalam etāv evānvayavyatirekau yau parasparaparityāgena lakṣyete ।
+tasminn eva hi pade tadāgame hi tad dṛśyate ity anena nyāyena viveko avadhāryate ।

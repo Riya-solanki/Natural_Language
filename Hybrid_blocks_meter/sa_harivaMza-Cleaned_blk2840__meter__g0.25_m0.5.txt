@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2840 | label: meter | g:0.25 m:0.5 ---
+
+yac ca vakṣyati māṃ śakra tanūjas tava so arjunaḥ 
+bhṛtyavat tat kariṣyāmi tava snehena yantritaḥ ।।

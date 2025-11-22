@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 708 | label: meter | g:0.25 m:0.5 ---
+
+kṣudrasattvo api ko nāma tvadājñām abhilaṅghayet ।
+draṣṭavyaratnaṃ dṛṣṭvā ca na prasīded bhavādṛśaṃ ।।

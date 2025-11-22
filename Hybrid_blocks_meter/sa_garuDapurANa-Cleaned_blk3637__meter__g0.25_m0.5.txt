@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3637 | label: meter | g:0.25 m:0.5 ---
+
+keśāḥ śatamayūkhāya pūjyā devasya cakriṇaḥ ।
+vidhinā pūjayitvā tu kṛtvā jāgaraṇaṃ niśi ।।

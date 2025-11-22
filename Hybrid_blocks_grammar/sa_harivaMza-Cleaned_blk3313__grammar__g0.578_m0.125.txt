@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3313 | label: grammar | g:0.578 m:0.125 ---
+
+sa roṣeṇa tu cāṇūraḥ kaṣāyīkṛtalocanaḥ 
+abhyavartata yuddhāya apāṃ pūrṇo yathā ghanaḥ ।। 
+āha cainaṃ sa govindaṃ vyapaneṣyāmi te madam । acirād drakṣyase gopa mama vaivasvataṃ balāt ।। tac chrutvaiva tu govindo babhāṣe taṃ gatāyuṣam । tādṛśaṃ tava sāmarthyaṃ drakṣyāmi balam uttamam । acirād drakṣyase malla tvayā vātha mayādhama ।। darśayasva samarthaś cet tvadbalaṃ kathyase adhama । evam uktvā tu govindo nanāda vividhaṃ bahu । 
+avaghuṣṭe samāje tu niḥśabdastimite jane 
+yādavās tatra sahitā idaṃ vacanam abruvan ।। 
+bāṇapakṣaṃ parityaṃ ca yuddhaṃ sāmnā nirīkṣya ca । 
+bāhuyuddham idaṃ raṅge saprāśnikam akātaram 
+kriyābalasamājñātam aśastraṃ nirmitaṃ purā ।।

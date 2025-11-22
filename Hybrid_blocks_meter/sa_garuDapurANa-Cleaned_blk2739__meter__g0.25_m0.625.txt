@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2739 | label: meter | g:0.25 m:0.625 ---
+
+sakṛtpradīyate kanyā haraṃstāṃ coradaṇḍabhāk ।
+aduṣṭāṃ hi tyajandaṇḍyaḥ suduṣṭāṃ tu parityajet ।।

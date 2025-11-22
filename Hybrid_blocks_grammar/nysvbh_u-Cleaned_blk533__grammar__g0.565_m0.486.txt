@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 533 | label: grammar | g:0.565 m:0.486 ---
+
+davyavikārā nyūnāḥ samā adhikāśca gṛhyante tadvadayaṃ vikāro nyūnaḥ syāditi।
+dvividhasyāpi hetor abhāvād asādhanaṃ dṛṣṭāntaḥ atra nodāharaṇasādharmyād heturasti na vaidharmyāt anupasaṃhṛtaśca hetunā dṛṣṭānto na sādhaka iti ।।
+pratidṛṣṭānte cāniyamaḥ prasajyeta।
+yathānaḍuhaḥ sthāne aśvo voḍuṃ niyukto na tadvikāro bhavati evamivarṇasya sthāne yakāraḥ prayukto na vikāra iti।
+na cātra niyamaheturasti dṛṣṭāntaḥ sādhako na pratidṛṣṭānta iti ।।

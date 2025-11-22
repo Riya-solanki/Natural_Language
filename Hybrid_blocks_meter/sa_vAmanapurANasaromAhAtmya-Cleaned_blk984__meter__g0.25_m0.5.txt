@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 984 | label: meter | g:0.25 m:0.5 ---
+
+tasya dabhiṇato liṅgaṃ vajriṇā sthāpitaṃ purā ।
+tasya prasādāt prāpnoti manasā cintitaṃ phalam ।।

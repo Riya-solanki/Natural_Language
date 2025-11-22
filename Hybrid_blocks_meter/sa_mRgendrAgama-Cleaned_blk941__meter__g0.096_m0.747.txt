@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 941 | label: meter | g:0.096 m:0.747 ---
+
+rodhaśaktistadabhyāsād vyaktimetyanivāritā 
+tathāsya carato vidvān somasūryeśavartmasu ।। MT

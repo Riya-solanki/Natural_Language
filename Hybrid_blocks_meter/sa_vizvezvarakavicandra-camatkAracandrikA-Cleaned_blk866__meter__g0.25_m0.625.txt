@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 866 | label: meter | g:0.25 m:0.625 ---
+
+prādhānyāttadidaṃ tredhā śabdārthobhayasaṃbhavāt ।
+śabdapradhānaṃ prakṛtaṃ vikṛtaṃ ceti tad dvidhā ।।

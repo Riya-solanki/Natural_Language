@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2704 | label: meter | g:0.25 m:0.625 ---
+
+mahāpāśupatā nāma cakraśūladharāstathā ।
+bhairavo viṣṇunā sārddhamabhedenārcito hi yai ।।

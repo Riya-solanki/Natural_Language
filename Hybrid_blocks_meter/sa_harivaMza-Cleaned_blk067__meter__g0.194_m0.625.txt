@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 67 | label: meter | g:0.194 m:0.625 ---
+
+prācīnabarhir bhagavān mahān āsīt prajāpatiḥ 
+havirdhānān mahārāja yena saṃvardhitāḥ prajāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 172 | label: meter | g:0.25 m:0.625 ---
+
+prayogādīṃśca tattvena varjayet tattvavit sadā ।
+vajrasattvadahaṃkāraṃ muktvā nānyatra kārayet ।।

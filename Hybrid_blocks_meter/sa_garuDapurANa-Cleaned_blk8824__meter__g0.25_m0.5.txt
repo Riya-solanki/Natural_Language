@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8824 | label: meter | g:0.25 m:0.5 ---
+
+dugdhaṃ bhojyaṃ tāśakti bālānāṃ ca pradīyate ।
+ā cūḍātpañcavarṣe tu dehadāho vidhīyate ।।

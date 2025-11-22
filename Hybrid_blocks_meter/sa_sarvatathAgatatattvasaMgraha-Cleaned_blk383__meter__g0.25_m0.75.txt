@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 383 | label: meter | g:0.25 m:0.75 ---
+
+sagarvaṃ vajramullāsya vajragarvāṃ samudvahan ।
+kāyavākcittavajraistu vajrasattvaḥ svayaṃ bhaveta ।।

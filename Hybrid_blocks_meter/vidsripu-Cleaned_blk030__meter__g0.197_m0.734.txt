@@ -1,0 +1,6 @@
+--- source: vidsripu-Cleaned.txt | block: 30 | label: meter | g:0.197 m:0.734 ---
+
+aṅgāmodasamocchvaladghṛṇipatadbhṛṅgāvalīmālitaḥ sphūrjatkāñchanasūtragumphitamilannīlotpalaśrīr iva ।
+niryatpādanakhonmukhāṃśuvisarasragdanturaḥ smaryatāṃ mañjuśrīḥ suramuktamañjariśikhāvarṣair ivābhyarcitaḥ ।।
+।var{@mālitaḥ sphūrjatkāñchana@।lem
+। ।Ingalls, @mālitasphūrjallāñchana@ ।edKG}

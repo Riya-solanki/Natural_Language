@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7422 | label: meter | g:0.306 m:0.5 ---
+
+mahājvālī duhitaraṃ snuṣāṃ gacchati yastu vai ।
+vedo vikrīyate yaiśca vedaṃ dūṣayate tu yaḥ ।।

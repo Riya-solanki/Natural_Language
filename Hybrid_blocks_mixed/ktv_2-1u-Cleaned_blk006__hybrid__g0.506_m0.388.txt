@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 6 | label: hybrid | g:0.506 m:0.388 ---
+
+lokaprasiddhārthāni hi tāny aparīkṣyatvenoktāni na prathamādhyāyaviṣayatvenopasaṃhāram arhanti ।
+tasmād yat prathame adhyāye vṛttaṃ tad ālocyaitad bhāṣyaṃ neyam ।
+tatra

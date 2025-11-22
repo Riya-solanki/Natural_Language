@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1135 | label: meter | g:0.25 m:0.605 ---
+
+madhor jajñe tu vaidarbhyāṃ purutvān puruṣottamaḥ 
+putro maruvasas tathā ।
+āsīn maruvasaḥ putraḥ ।
+mātā jajñe atha vaidarbhyāṃ bhadravatyāṃ kurūdvaha ।।

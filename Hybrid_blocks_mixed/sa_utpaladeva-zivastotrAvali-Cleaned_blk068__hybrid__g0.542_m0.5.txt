@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 68 | label: hybrid | g:0.542 m:0.5 ---
+
+harṣāṇām atha śokānāṃ sarveṣāṃ plāvakaḥ samam bhavaddhyānāmṛtāpūro nimnāṇimnabhuvām iva ।।

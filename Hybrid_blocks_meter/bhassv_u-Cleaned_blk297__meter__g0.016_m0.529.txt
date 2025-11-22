@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 297 | label: meter | g:0.016 m:0.529 ---
+
+{padminikā} - teṇa hi bhaṭṭiṇo ṇivedehi ṇaṃ 
+jāva ahaṃ vi sīsāṇuḷevaṇaṃ tuvāremi 
+[tena hi bhartre nivedayainām । yāvad aham api śīrṣānulepanaṃ tvarayāmi । ]

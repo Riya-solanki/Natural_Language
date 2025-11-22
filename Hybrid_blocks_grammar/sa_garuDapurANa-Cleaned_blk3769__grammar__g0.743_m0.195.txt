@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3769 | label: grammar | g:0.743 m:0.195 ---
+
+-oṃ mahākauśikāya namaḥ ।
+oṃ hūṃ hūṃ prasphura lala lala kulva kulva culva culva khalla khalla mulva mulva gulva gulva tulva pulla pulla dhalva dhulva dhuma dhuma dhamadhama māraya māraya dhakadhaka vajñāpayajñāpaya vidārayavidāraya kampakampa kampayakampaya pūrayapūraya āveśayāveśaya oṃ hrīṃ oṃ hrīṃ haṃ vaṃ vaṃ huṃ taṭataṭa madamada hrīṃ oṃ hūṃ nairṛtāyā namaḥ nirṛtaye dātavyam ।
+mahākauśikamantreṇa mantritaṃ balimarpayet ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2278 | label: meter | g:0.25 m:0.625 ---
+
+sarasvatīṃ ca sāyāhne dṛṣṭvā dānaphalaṃ labhet ।
+nagasthamīśvaraṃ dṛṣṭvā pitṝṇāmanṛṇo bhavet ।।

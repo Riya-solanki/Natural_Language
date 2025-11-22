@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 779 | label: grammar | g:0.625 m:0.5 ---
+
+atra vacanasya । akāśicitkīrṇā rajobhirdivamanuvidadhurmandavaktrenduśobhā niḥśrīkāḥ'; iti akampamānāḥ'; ityatra akampamāpuḥ'; iti ca paṭhanīyam ।

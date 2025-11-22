@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 224 | label: meter | g:0.139 m:0.844 ---
+
+latā-maṇḍapasya, yathā-
+eṣā pūgavanī praphulla-kusumā paryanta-cūta-drumā
+tan-madhye' pi sarovaraṃ nidhuvanāntānanda-mandānilam ।
+tat-tīre kadalī-gṛhaṃ vilasitaṃ tasyāntare mallikā-
+vallī-maṇḍapam atra sā sunayanā tvan-mārgam avekṣate ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3682 | label: meter | g:0.25 m:0.5 ---
+
+kasyacit tv atha kālasya sabhāyāṃ yadusaṃsadi 
+babhāṣe puṇḍarīkākṣo hetumad vākyam uttamam ।। 
+śrūyatāṃ yādavā vākyaṃ sarve cāvahitā mama । 
+yādavānām iyaṃ bhūmir mathurā rāṣṭravardhanī 
+vayaṃ caiveha saṃbhūtā vraje ca parivardhitāḥ ।।

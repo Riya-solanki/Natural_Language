@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3139 | label: hybrid | g:0.5 m:0.5 ---
+
+āpatsu mitraṃ jānī yādraṇe śūraṃ rahaḥ śucim ।
+māryā ca vibhave kṣīṇe durbhikṣe ca priyātithim ।।

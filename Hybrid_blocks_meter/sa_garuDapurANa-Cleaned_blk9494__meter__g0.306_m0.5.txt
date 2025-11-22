@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9494 | label: meter | g:0.306 m:0.5 ---
+
+vidhinā kurute yastu saṃsāre śrāddhamuttamam ।
+jāyate atra na sandehaḥ śṛṇu tasyāpi yat phalam ।।

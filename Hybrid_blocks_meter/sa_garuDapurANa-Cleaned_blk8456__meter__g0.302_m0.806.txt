@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8456 | label: meter | g:0.302 m:0.806 ---
+
+śītoṣṇaśaṅkukravyādavahnimārgastu pāpinām ।
+kṣudhā tṛṣṇātmikā caiva savva saumyaṃ kṛtātmanām ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1340 | label: meter | g:0.291 m:0.571 ---
+
+{suhṛdvadhūbāṣpajalapramārjanaṃ karoti vairapratiyātanena yaḥ ।
+sa eva pūjyaḥ sa pumānsa nītimānsujīvitaṃ tasya sa bhājanaṃ śriyaḥ ।।}

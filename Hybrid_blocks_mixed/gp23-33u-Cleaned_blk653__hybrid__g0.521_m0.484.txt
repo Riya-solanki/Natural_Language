@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 653 | label: hybrid | g:0.521 m:0.484 ---
+
+bhaved yaḥ proṣya-pāpīyāṃs tasya kiṃ karma śarmadam ।
+yad yat karoti tatraiva snātvā kālaka eva saḥ ।।
+[] spaṣṭaṃ cācaṣṭa-kathāntaraṃ prathyatām । yad-anantaraṃ goṣṭhasthā mamānantarasthā bhaviṣyanti ।

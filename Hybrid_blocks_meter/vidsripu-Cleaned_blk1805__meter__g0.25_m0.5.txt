@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1805 | label: meter | g:0.25 m:0.5 ---
+
+kavayaḥ kālidāsādyāḥ kavayo vayam apy amī ।
+parvate paramāṇau ca vastutvam ubhayor api ।।

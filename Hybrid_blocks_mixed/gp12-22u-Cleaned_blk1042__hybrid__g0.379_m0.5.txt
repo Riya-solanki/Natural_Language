@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 1042 | label: hybrid | g:0.379 m:0.5 ---
+
+kṛtyaṃ vā kim akṛtyaṃ vā na vidmo vayam aṇv api ।
+śikṣārthaṃ kintu vaḥ prāptā vīkṣyājñāsiṣma tat punaḥ ।। [anuṣṭubh]
+[] atha sarvāḥ salajjaṃ parasparam īkṣitvā punar ūcuḥ-

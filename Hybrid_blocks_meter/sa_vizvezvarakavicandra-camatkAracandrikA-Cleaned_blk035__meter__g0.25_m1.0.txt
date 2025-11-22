@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 35 | label: meter | g:0.25 m:1.0 ---
+
+kṣemaṃ sarvagururdatte magaṇo bhūmidaivataḥ ।
+karotyarthānādilaghuryagaṇo vāridaivataḥ ।।

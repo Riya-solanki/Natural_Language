@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 414 | label: grammar | g:0.615 m:0.5 ---
+
+yāsāṃ saty api sadguṇānusaraṇe doṣānurāgaḥ sadā yāḥ prāṇān varam arpayanti na punaḥ sampūrṇadṛṣṭiṃ priye ।
+atyantābhimate api vastuni vidhir yāsāṃ niṣedhātmakaṃ tās trailokyavilakṣaṇaprakṛtayo vāmāḥ prasīdantu vaḥ ।।

@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 32 | label: hybrid | g:0.349 m:0.47 ---
+
+bhartuḥ kaṇṭhacchavir iti gaṇaiḥ sādaraṃ dṛśyamāṇaḥ puṇyaṃ yāyās tribhuvanaguror dhāma caṇḍeśvarasya ।
+dhūtodyānaṃ kuvalayarajogandhibhir gandhavatyās toyakrīḍāniratayuvatisnānatiktair marudbhiḥ ।।

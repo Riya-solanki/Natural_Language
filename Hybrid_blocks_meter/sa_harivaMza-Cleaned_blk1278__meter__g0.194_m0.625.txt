@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1278 | label: meter | g:0.194 m:0.625 ---
+
+asthno majjā samabhavan majjāyāḥ śukrasaṃbhavaḥ 
+śukrād narbhaḥ samabhavad rasamūlena karmaṇā ।।

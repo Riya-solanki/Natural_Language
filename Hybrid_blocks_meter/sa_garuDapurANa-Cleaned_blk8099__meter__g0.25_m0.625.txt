@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8099 | label: meter | g:0.25 m:0.625 ---
+
+nyagrodhaṃ vīkṣya tasyāśu jaṭāsvaśvaṃ babandha ha ।
+sa tatrāstaramāstīrya kheṭakānupadhāya ca ।।

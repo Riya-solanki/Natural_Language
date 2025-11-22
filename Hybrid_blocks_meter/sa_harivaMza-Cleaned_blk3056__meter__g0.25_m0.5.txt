@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3056 | label: meter | g:0.25 m:0.5 ---
+
+taṃ hataṃ keśinaṃ dṛṣṭvā gopā gopastriyaś ca tāḥ 
+babhūvur muditāḥ sarve hatavighnā hataklamāḥ ।।

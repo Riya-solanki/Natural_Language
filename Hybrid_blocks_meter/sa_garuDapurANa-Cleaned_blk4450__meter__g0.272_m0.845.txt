@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4450 | label: meter | g:0.272 m:0.845 ---
+
+picchilāḥ stimitāḥ ślakṣṇāḥ kaṇḍvāḍhyāḥ sparśanapriyāḥ ।
+karīrapanasāsthyābhāstathā gostanasannibhāḥ ।।

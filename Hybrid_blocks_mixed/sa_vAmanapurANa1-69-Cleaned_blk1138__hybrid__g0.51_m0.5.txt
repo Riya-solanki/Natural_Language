@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1138 | label: hybrid | g:0.51 m:0.5 ---
+
+samāgato ahaṃ dvija dūratastvāṃ kuruṣva māmuddharaṇaṃ munīndra ।
+dadasva dānaṃ mama yanmanīṣinaṃ carāmi yena tridiveṣu nirvṛtaḥ ।।

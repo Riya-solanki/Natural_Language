@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 517 | label: meter | g:0.226 m:0.602 ---
+
+anaraṇyasuto nighno nighnaputrau babhūvatuḥ 
+anamitro raghuś caiva pārthivarṣabhasattamau ।। 
+anamitrasutaḥ stambaḥ śaṅkhaṇas tasya cātmajaḥ । 
+anamitras tu dharmātmā vidvān duliduho abhavat 
+dilīpas tasya tanayo rāmasya prapitāmahaḥ 
+dīrghabāhur dilīpasya raghur nāmnābhavat sutaḥ ।। 
+ayodhyāyāṃmahārāja raghur āsīn mahābalaḥ । 
+ajas tu rāghuto jajñe tathā daśaratho apy ajāt 
+rāmo daśarathāj jajñe dharmārāmo mahāyaśāḥ ।।

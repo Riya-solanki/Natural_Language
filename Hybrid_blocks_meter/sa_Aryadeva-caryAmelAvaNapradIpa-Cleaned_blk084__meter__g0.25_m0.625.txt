@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 84 | label: meter | g:0.25 m:0.625 ---
+
+payodharā yathā naike nānāsaṃsthānavarṇakāḥ ।
+ubhdūtā gaganābhogāllayaṃ gacchanti tatra vai ।।

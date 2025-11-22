@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 123 | label: grammar | g:0.552 m:0.5 ---
+
+yadyapyasyāḥ kraśayati vapurvallarīṃ dīpyamāno viśleṣāgnirdviguṇayati tāṃ kintu lāvaṇyalakṣmīm ।
+taptāṃ taptāṃ nayati nitarāṃ tānavaṃ jātavedā haimīṃ lekhāmapi tu janayatyeva varṇaprakarṣam ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 987 | label: grammar | g:0.596 m:0.178 ---
+
+avidhinā patrābhrakayogo vikārāyetyata āha ya ityādi ।।
+ye ajñātadravyaguṇaiḥ ajñātā dravyāṇāṃ abhrādināṃ guṇā yais tair evaṃvidhaiḥ puṃbhiḥ vidhinā sāmānyavidhānena patrābhrakayogāḥ rasāyanārthaṃ kīrtitās tair eva jarā mṛtyuśca upadiṣṭaḥ jarā pālityaṃ mṛtyur vyādhiḥ ।।

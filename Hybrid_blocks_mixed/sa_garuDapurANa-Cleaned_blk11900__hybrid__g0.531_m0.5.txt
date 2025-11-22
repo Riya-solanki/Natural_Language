@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11900 | label: hybrid | g:0.531 m:0.5 ---
+
+sadā mūḍhaṃ khaḍgadevaṃ ca bhaktyā taṃ bhaktavatpūjayitvā ca samyak ।
+taiḥ sārdhaṃ tvaṃ śvānavadgarjayitvā saṃtiṣṭhamāne svagṛhe caiva nityam ।।

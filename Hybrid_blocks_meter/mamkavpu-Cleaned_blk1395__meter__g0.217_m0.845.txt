@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1395 | label: meter | g:0.217 m:0.845 ---
+
+{asimātrasahāyasya prabhūtāriparābhave ।
+anyatucchajanasyeva na smayo asya mahādhṛteḥ ।।}

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2862 | label: meter | g:0.351 m:0.565 ---
+
+kuśāḥ śākaṃ payo gandhāḥ pratyākhyeyā na vāri ca ।
+ayacitāhṛtaṃ grāhyamapi duṣkṛtakarmaṇaḥ ।।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 221 | label: grammar | g:0.583 m:0.5 ---
+
+-kiṃ upāsanākārye sākṣātkāre karmaṇāmupayogaḥ uta, upāsanāsvarūpe । na kārye ityāha-tasyā iti ।

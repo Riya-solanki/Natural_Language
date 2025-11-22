@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 400 | label: grammar | g:0.667 m:0.5 ---
+
+apakartāham asmīti hṛdi te mā sma bhūd bhayam vimukheṣu na me khaḍgaḥ prahartuṃ jātu vāñchati ।।

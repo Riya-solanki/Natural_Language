@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1147 | label: grammar | g:0.625 m:0.5 ---
+
+karmakrodhā sukarmāṇi kuryād rakṣāṃ tu rakṣayā । krodhayakṣā ripuṃ khādet krodhamuṣṭistu siddhidā ।। ।।

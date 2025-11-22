@@ -1,0 +1,10 @@
+--- source: brssgo4u-Cleaned.txt | block: 16 | label: grammar | g:0.531 m:0.363 ---
+
+na ।
+āvṛttau api tat anupapatteḥ ।
+yadi hi atattvamasi' iti evañjātīyakaṃ vākyaṃ sakṛt śrūyamāṇaṃ brahmātmatva pratītiṃ na utpādayet tataḥ tadeva āvartyamānam utpādayiṣyati iti kā pratyāśā syāt ।
+atha ucyeta na kevalaṃ vākyaṃ kañcidarthaṃ sākṣātkartuṃ śaknoti ato yuktyapekṣaṃ vākyam anubhāvayiṣyati brahmātmatvam iti ।
+tathā api āvṛtti ānarthakyameva ।
+sā api hi yuktiḥ sakṛt pravṛttaiva svam artham anubhāvayiṣyati ।
+athāpi syāt uktyā vākyena ca sāmānyaviṣayameva vijñānaṃ kriyate na viśeṣaviṣayam ।
+yathā asti me hṛdaye śūlam ityato vākyāt gātra kampādi liṅgāt ca śūlasadbhāva sāmānyameva paraḥ pratipadyate na viśeṣam anubhavati yathā sa eva śūlī ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4125 | label: meter | g:0.25 m:0.5 ---
+
+atha bhīmena vīreṇa gadayā vinipātitaḥ ।
+aśvatthāmā gato drauṇiḥ suptasainyaṃ tato niśi ।।

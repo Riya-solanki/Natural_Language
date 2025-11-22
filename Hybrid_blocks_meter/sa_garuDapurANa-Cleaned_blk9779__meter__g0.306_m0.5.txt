@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9779 | label: meter | g:0.306 m:0.5 ---
+
+darśakāle kṣayo yasya pretapakṣe atha vā punaḥ ।
+pratyabdaṃ pārvaṇaṃ kāryaṃ tasya sarvaiḥ sutairapi ।।

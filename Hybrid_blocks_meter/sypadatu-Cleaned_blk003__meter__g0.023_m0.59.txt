@@ -1,0 +1,12 @@
+--- source: sypadatu-Cleaned.txt | block: 3 | label: meter | g:0.023 m:0.59 ---
+
+l dehatyāgena śambhor nayanahutavahe mānito yena kopaḥ
+sendrā yasyānuśiṣṭiṃ srajam iva vibudhā dhārayanty uttamāṅgaiḥ
+pāyāt kāmaḥ sa yuṣmān pravitatavanitālocanāpāṅgaśārṅgo
+bāṇā yasyendriyārthā munijanamanasāṃ sādakā bhedakāś ca
+api ca
+sabhrūkṣepaṃ sahāsaṃ stananihitakarām īkṣamāṇena devīṃ
+saṃtrāsākṣiptavāgbhiḥ saha gaṇapatibhir nandinā vanditena
+pāyād vaḥ puṣpaketur vṛṣapatikakudāpāśrayanyastadoṣṇā
+yasya kruddhena bāhyaṃ karaṇam apahṛtaṃ śambhunā na prabhāvaḥ
+evam āryamiśrān śirasā praṇipatya vijñāpayāmi yad vayam āryaśyāmilakasya kṛtiṃ pādatāḍitakaṃ nāma bhāṇaṃ prayoktuṃ

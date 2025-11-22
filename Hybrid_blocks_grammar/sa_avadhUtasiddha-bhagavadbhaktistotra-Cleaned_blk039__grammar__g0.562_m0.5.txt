@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 39 | label: grammar | g:0.562 m:0.5 ---
+
+yatnād upāttatamaso api hi yad durāpam ātyantikaṃ sukham apāstasamastaduḥkham ।
+nītāḥ kharoṣṭrataravo api tad ity aho te svātantryam apratihataṃ bhuvanatraye api ।।

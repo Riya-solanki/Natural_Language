@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1512 | label: meter | g:0.292 m:0.5 ---
+
+ekaṃ vastu krameṇānekasmin bhavati kriyate vā sa paryāyaḥ । krameṇodāharaṇam

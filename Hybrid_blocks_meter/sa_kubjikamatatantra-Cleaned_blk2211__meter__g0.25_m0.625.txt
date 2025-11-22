@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2211 | label: meter | g:0.25 m:0.625 ---
+
+kathaṃ deva sthitā dehe pīṭhadvīpādhipāśrayam 
+kva sthāne saṃsthitā deva etad ācakṣva niścayam ।।

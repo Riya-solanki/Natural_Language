@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1010 | label: grammar | g:0.75 m:0.5 ---
+
+[] athāgamya ca tat-kṛtābhivādana-sva-kṛtābhivadana-vidhau labdha-vidhau sābhidadhāti sma-[] aham atraiva vane vasantī bhavatīnāṃ bhāvavatīnām avasthāḥ paśyantī dayā-vidīrṇa-hṛdayā samāyātāsmi । tad iyaṃ mama siddhā vidyā sva-karṇānubiddhā vidhīyatām । nātiprayāsa-bhāvitatā ca bhavatīnāṃ bhavitā, kintu māsa-mātram atra śramābhāsaḥ । [] sā khalu mantra-mayī yogamāyā mayā dayāvatī sādhitāstīti ।

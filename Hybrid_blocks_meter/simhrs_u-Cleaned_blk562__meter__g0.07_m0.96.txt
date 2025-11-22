@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 562 | label: meter | g:0.07 m:0.96 ---
+
+(tathā tathā grāmīṇa-gṛhiṇī
+mada-vivaśā kim api kim api vyāharati ।
+yathā yathā kula-vadhvaḥ
+śrutvā saranti pihita-karṇāḥ ।।)

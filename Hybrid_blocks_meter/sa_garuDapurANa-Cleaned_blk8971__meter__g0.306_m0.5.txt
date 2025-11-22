@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8971 | label: meter | g:0.306 m:0.5 ---
+
+tatsarvaṃ viphalaṃ tāta mama daivādupāgatam ।
+yathā me niṣphalaṃ jātaṃ sukṛtaṃ tadvadāmi te ।।

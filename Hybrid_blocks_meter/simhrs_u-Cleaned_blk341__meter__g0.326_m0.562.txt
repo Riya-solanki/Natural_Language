@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 341 | label: meter | g:0.326 m:0.562 ---
+
+yathā mamaiva utphulla-gaṇḍa-yugam ity ādau śliṣṭa-varṇa-miśrita-bandhatvāt śleṣaḥ ।
+Quoted just above

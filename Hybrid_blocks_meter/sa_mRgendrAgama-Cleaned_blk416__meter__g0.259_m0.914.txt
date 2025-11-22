@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 416 | label: meter | g:0.259 m:0.914 ---
+
+yonirviśvasya vāgīśāḥ patayaḥ parataḥ śivaḥ 
+sadāśivaśivāntādhvakalpitāṇuvapuḥsthitiḥ ।।

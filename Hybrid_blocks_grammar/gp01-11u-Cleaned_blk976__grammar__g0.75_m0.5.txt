@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 976 | label: grammar | g:0.75 m:0.5 ---
+
+[] rāmas tu mātṛ-mukhaṃ sāścaryatayā sa-sukha-caryaṃ paśyati sma । [] kṛṣṇa uvāca-tatra-bhavatā kila na tarkitaṃ, yat khalv ita iva tatrāccha gacchantī sā dṛśyate sma ।

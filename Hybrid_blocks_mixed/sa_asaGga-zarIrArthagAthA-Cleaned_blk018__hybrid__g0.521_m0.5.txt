@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 18 | label: hybrid | g:0.521 m:0.5 ---
+
+yaḥ śīlavāñ jñānavān bhāvitātmā samāhitaḥ smṛtimān ṛjugataś ca ।
+sarve asya śokajvarathāḥ prahīṇāḥ samyaksmṛto yasya cittaṃ vimuktaṃ ।।

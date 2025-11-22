@@ -1,0 +1,5 @@
+--- source: visa01cu-Cleaned.txt | block: 49 | label: meter | g:0.332 m:0.723 ---
+
+tatkiṃsvarūpaṃ tāvatkāvyamityapekṣāyāṃ kaścidāha
+"tadadoṣau śabdārthau saguṇāvanavālaṃkṛtī punaḥ kvapi" iti ।
+etaccintyam ।

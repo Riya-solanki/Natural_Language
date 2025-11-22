@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1729 | label: meter | g:0.058 m:0.997 ---
+
+{pratyagramajjanaviśeṣaviviktamūrtiḥ
+kausumbharāgarucirasphuradaṃśukāntāḥ ।
+vibhrājase makaraketanamarcayantī
+bālaprabālaviṭapaprabhavā lateva ।।}

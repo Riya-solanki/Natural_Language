@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 1075 | label: hybrid | g:0.136 m:0.444 ---
+
+[] tad evaṃ saṃhata-saṃhananam apy etaṃ niḥsandhi-bandhanaṃ visṛjya tat-pada-paddhatiṃ saṃsṛjya tad-gupti-dvāram anusasāra । tataś ca,
+sadyo nirbhidyāpidhānaṃ guhāyās
+tatrāviśya dyotam āviścakāra ।
+tasyās teṣāṃ cārbhakāṇāṃ samantād
+ātmālābhād yat tamas taj jahāra ।। [śālinī]

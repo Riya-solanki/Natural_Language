@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 256 | label: meter | g:0.194 m:0.625 ---
+
+eṣa cānantaśaktitvād evam ābhāsayaty amūn 
+bhāvān icchāvaśād eṣā kriyā nirmātṛtāsya sā ।।

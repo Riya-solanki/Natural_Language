@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 117 | label: meter | g:0.306 m:0.5 ---
+
+tatrāsti nagarī puṇyā khyātā vārāṇasī śubhā ।
+yasyāṃ hi bhogino apīśa prayānti bhavato layam ।।

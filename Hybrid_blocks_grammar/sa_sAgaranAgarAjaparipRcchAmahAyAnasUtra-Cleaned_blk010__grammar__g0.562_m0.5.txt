@@ -1,0 +1,3 @@
+--- source: sa_sAgaranAgarAjaparipRcchAmahAyAnasUtra-Cleaned.txt | block: 10 | label: grammar | g:0.562 m:0.5 ---
+
+idamavocat bhagavān । āttamanaso bhikṣavaḥ sarve ca bodhisattvā bhagavato bhāṣitamabhyanandanniti ।

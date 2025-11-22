@@ -1,0 +1,7 @@
+--- source: brssbh3u-Cleaned.txt | block: 635 | label: grammar | g:0.577 m:0.501 ---
+
+audgīthamupāsīta' asāmopāsīta' aahamukthamasmīti vidyāt' ityādayaśca vispaṣṭā vidhiśabdāḥ śrūyante te ca stutimātraprayojanatāyāṃ vyāhanyeran ।
+tathāca nyāyavidāṃ smaraṇam -'kuryātkriyeta kartavyaṃ bhavetasyāditi pañcamam ।
+etatsyātsarvavedeṣu niyataṃ vidhilakṣaṇam' iti liṅgādyartho vidhiriti manyamānāsta evaṃ smaranti ।
+pratiprakaraṇaṃ ca phalāni śrāvyate - aāpayitā ha vai kāmānāṃ bhavati' aeṣa hyeva kāmāgānasyeṣṭe' akalpante hāsmai lokā ūrdhvaścāvṛttāśca' ityādīni ।
+tasmādapyupāsanāvidhānārthā udgīthādiśrutayaḥ ।।

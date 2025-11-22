@@ -1,0 +1,8 @@
+--- source: grasht_u-Cleaned.txt | block: 361 | label: grammar | g:0.809 m:0.196 ---
+
+bījavaravidhānamāha patrābhrakam ityādi ।।
+patrābhrakamiti abhrakasya patrāṇi vābhrakasya satvaṃ punaḥ kāṃkṣī saurāṣṭrī kāntamākṣikaṃ kāntaścumbakaḥ mākṣikaṃ svarṇamākṣikaṃ eteṣāṃ dvandva ekatvaṃ punaretat nirguṇḍīgṛhakanyācāṅgerīpalāśaśākaiḥ puṭitaṃ nirguṇḍī sephālikā gṛhakanyā kumārī cāṅgerī amlaśākaḥ palāśo brahmavṛkṣaḥ śāko vṛkṣaviśeṣaḥ eteṣāṃ dvandvasamāsaḥ eteṣāṃ rasaṃ gṛhītvā pūrvauṣadhapuṭitaṃ kuryāt gharme iti śeṣaḥ ।।
+tadauṣadhaṃ puṭitaṃ kṛtvā punastatpuṭitamauṣadhaṃ tatpādaśeṣaṃ caturthāṃśaṃ lavaṇaṃ saindhavaṃ dattvā haṇḍikāpākena haṇḍikāyāṃ mṛdbhājane yaḥ pākastena pācitaṃ vahnau puṭitaṃ tāvatkuryād yāvat sindūrasaṃprabhaṃ sindūratulyavarṇaṃ bhavati ।।
+kathaṃ pācitaṃ kuryāt sudṛḍhaṃ yathā syāttathā ekaikaṃ śatavyūḍhamiti ।।
+pūrvoktānāṃ sindūrīkṛtānām uparasānām adharāt ekaikaṃ ekaṃ ekaṃ pṛthaktvena śatavyūḍhaṃ śatavāraṃ vāhitaṃ bījavaraṃ jāyate kanake iti śeṣaḥ tadbījaṃ rasendrasya garbhe dravati caśabdāt kṣipraṃ śīghraṃ jarati ca ।।
+kathaṃ aṅgulyā anāmikayā yo abhiṣavayogaḥ saṃmardanayogasteneti viśeṣakam ।।

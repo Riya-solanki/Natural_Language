@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11574 | label: hybrid | g:0.531 m:0.5 ---
+
+tathaiva tāstalaśabdaṃ ca kṛtvā tadā sarvā namanaṃ cāpi cakruḥ ।
+ānandaśaile sarvadā tvitthameva sā sarvadā nartayantī ca vīndra ।।

@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1610 | label: meter | g:0.194 m:0.5 ---
+
+yady eṣā pratihantavyā kartavyo bhagavān sukhī 
+dīyatāṃ me sakhā śakra toyayonir niśākaraḥ 
+tenāhaṃ saha saṃgamya yādobhiś ca samāhitaḥ । 
+māyām etāṃ haniṣyāmi tvatprasādān na saṃśayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5405 | label: meter | g:0.25 m:0.625 ---
+
+abhayāṃ saindhavaṃ śuṇṭhīmetatpiṣṭvodakena tu ।
+bhakṣayitvā hyajīrṇasya nāśo bhavati śaṅkara ! ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4368 | label: hybrid | g:0.521 m:0.5 ---
+
+proktaṃ śrutau bhavatāpīśa vākyaṃ dānaṃ pātre bhavate saukhyadāyi ।
+deśe supuṇye varade yacca kāle taccāśeṣaṃ dṛśyate cakrapāṇe ।।

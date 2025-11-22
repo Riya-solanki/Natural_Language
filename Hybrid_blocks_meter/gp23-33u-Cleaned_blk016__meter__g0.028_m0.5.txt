@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 16 | label: meter | g:0.028 m:0.5 ---
+
+[] tadā ca vana-gīrvāṇibhir ākāśa-vāṇīyam udbhāvitā-
+śuṣkā tapta-śalākayā ca parito biddhā suvaṃśodbhavā
+seyaṃ te muralī priyeti niyataṃ vijñātavān manmathaḥ।
+tāṃ śuṣyad-vapuṣaṃ vidhāya kulajāṃ bāṇair nijaiḥ pañcabhir
+biddhāṅgīṃ vidadhāti hā bakaripo tvat-prītaye samprati ।। [śārdūla-vikrīḍītam]

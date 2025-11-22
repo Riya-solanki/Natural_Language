@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2191 | label: meter | g:0.25 m:0.625 ---
+
+cakārānudinaṃ cāsau mṛgapotasya vai nṛpaḥ 
+poṣaṇaṃ puṣyamāṇaś ca sa tena vavṛdhe mune ।।

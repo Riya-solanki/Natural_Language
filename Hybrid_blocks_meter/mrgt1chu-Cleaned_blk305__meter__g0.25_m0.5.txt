@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 305 | label: meter | g:0.25 m:0.5 ---
+
+ityevaṃ yaugapadyena kramātsughaṭa eva hi ।
+māyāyāḥ sādhikārāyāḥ karmaṇaścokta eva te ।।

@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 661 | label: hybrid | g:0.25 m:0.419 ---
+
+mukhyabhūyastvābhyāmamūṣāṃ śrutīnāṃ balīyastvāt, etadanurodhenāmṛtatvāstamayapratiṣedhāvāpekṣikatvena netavyāviti ।
+bhūyasīḥ śrutīrapekṣya dve api śrutī śabdamātramukte ।।

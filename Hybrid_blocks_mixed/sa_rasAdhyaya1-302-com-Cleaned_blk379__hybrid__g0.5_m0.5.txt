@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 379 | label: hybrid | g:0.5 m:0.5 ---
+
+agretanakṣiptāyaḥprakāśaṃ cūrṇe ca jīrṇe punas tāvan mātramayaḥ ।।

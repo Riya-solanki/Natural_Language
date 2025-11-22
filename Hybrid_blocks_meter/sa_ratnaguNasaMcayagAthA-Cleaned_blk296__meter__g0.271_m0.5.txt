@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 296 | label: meter | g:0.271 m:0.5 ---
+
+emeva bodhivaraprasthitu bodhisattvo tiṣṭheya sarvajagatī yatha preṣyabhūto 
+anu bodhiāgamu guṇāna ca pāripūrī tṛṇa agni kāṣṭhaprabhavo dahate tameva ।।

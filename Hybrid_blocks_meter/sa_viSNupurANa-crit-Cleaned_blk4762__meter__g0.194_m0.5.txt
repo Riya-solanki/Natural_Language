@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4762 | label: meter | g:0.194 m:0.5 ---
+
+vivakṣoḥ stambhayām āsa vācaṃ tasya janārdanaḥ 
+tato niṣkramya salilād ratham abhyāgataḥ punaḥ ।।

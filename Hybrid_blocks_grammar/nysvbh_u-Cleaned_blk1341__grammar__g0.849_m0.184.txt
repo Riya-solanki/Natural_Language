@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1341 | label: grammar | g:0.849 m:0.184 ---
+
+yathā sādhyadṛṣṭāntayorekadharmasya prayatnānantarīyakatvasyopapatteranityatvaṃ dharmāntaram aviśeṣo naivaṃ sarvabhāvānāṃ sadbhāvopapattinimittaṃ dharmāntaramasti yenāviśeṣaḥ syāt।
+atha matam anityatvameva dharmāntaraṃ sadbhāvopapattinimittaṃ bhāvānāṃ sarvatra syāditi ?, evaṃ khalu vai kalpyamāne aanityāḥ sarve bhāvāḥ sadbhāvopapatteḥ' itipakṣaḥ prāpnoti, tatra pratijñārthavyatiriktamanyadudāharaṇaṃ nāsti anudāharaṇaśca heturnāstīti, pratijñaikadeśasya codāharaṇatvamanupapannam na hi sādhyamudāharaṇaṃ bhavati, sataśca nityānityabhāvādanityatvānupapattistasmāt asadbhāvopapatteḥ sarvāviśeṣaprasaṅgaḥ' iti nirabhidheyametadvākyamiti।
+asarvabhāvānāṃ sadbhāvopapatteranityatvam' iti bruvatānujñātaṃ śabdasyānityatvaṃ tatrānupapannaḥ pratiṣedha iti ।।

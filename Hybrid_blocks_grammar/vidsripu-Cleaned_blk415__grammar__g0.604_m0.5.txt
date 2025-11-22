@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 415 | label: grammar | g:0.604 m:0.5 ---
+
+kaṇṭhe mauktikamālikāḥ stanataṭe kārpūram acchaṃ rajaḥ sāndraṃ candanam aṅgake valayitāḥ pāṇau mṛṇālīlatāḥ ।
+tanvī naktam iyaṃ cakāsti śucinī cīnāṃśuke bibhratī śītāṃśor adhidevateva galitā vyomāgram ārohataḥ ।।

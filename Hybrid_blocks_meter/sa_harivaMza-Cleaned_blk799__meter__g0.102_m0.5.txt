@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 799 | label: meter | g:0.102 m:0.5 ---
+
+tat tasyā vacanaṃ śrutvā mahiṣyāḥ paruṣaṃ vibho 
+sa rājā paramāpanno devaśreṣṭham agāt tadā 
+śaraṇyaṃ sarvabhūteśaṃ bhaktyā nārāyaṇaṃ prabhum ।।

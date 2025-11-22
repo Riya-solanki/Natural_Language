@@ -1,0 +1,8 @@
+--- source: gp01-11u-Cleaned.txt | block: 754 | label: meter | g:0.194 m:0.555 ---
+
+nāmādeśaṃ yadā mātā diśate nayanādikam ।
+kṛṣṇaś ca kurute bāḍhaṃ cakre tasyā na kiṃ tadā? ।। [anuṣṭubh]
+rudantam indave mantha-gargaryāṃ pratirūpiṇe ।
+piṇḍena nāvanītena vṛddhāgardhayatārbhakam ।। [anuṣṭubh]
+svasya svalpāpahāre' pi cakranda maṇi-hānivat ।
+kṛtvānya-maṇi-hāniṃ ca prāhasīd bāla-kṛṣṇakaḥ ।। [anuṣṭubh]

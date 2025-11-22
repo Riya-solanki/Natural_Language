@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8115 | label: meter | g:0.306 m:0.5 ---
+
+teṣā rājā svayaṃ kuryātkarmāṇi tu yato nṛpaḥ ।
+ātmanaśca śubhaṃ karma kartavyaṃ pāralaukikam ।।

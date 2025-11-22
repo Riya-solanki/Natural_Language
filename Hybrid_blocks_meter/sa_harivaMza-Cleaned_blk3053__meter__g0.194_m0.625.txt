@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3053 | label: meter | g:0.194 m:0.625 ---
+
+keśī ca kṛṣṇasaṃsaktaḥ śrāntagātro vyarocata 
+prabhātāvanataś candraḥ śrānto merum ivāśritaḥ ।।

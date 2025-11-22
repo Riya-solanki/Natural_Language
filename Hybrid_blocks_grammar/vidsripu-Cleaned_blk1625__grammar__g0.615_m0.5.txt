@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1625 | label: grammar | g:0.615 m:0.5 ---
+
+saṃtuṣṭe tisṛṇāṃ purām api ripau kaṇḍūladormaṇḍala- krīḍākṛttapunaḥprarūḍhaśiraso vīrasya lipsor varam ।
+yācñādainyaparāñci yasya kalahāyante mithas tvaṃ vṛṇu tvaṃ vṛṇv ity abhito mukhāni sa daśagrīvaḥ kathaṃ kathyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 260 | label: meter | g:0.25 m:0.5 ---
+
+ity ete kathitāḥ sargāḥ ṣaḍ atra munisattama 
+prathamo mahataḥ sargo vijñeyo brahmaṇas tu saḥ ।।

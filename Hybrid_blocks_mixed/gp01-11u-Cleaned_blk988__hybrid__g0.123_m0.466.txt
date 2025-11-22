@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 988 | label: hybrid | g:0.123 m:0.466 ---
+
+[] tad evaṃ paśyatoḥ śṛṇvator api sa-tṛṣṇayo rāma-kṛṣṇayor gopāḥ gāḥ pārayituṃ vyāpāraṃ kārayāmāsuḥ,
+nīraṃ taraṇi-kanyāyās tīraṃ ca taraṇe tadā ।
+go-mayaṃ gomaya-mayaṃ kṣaṇād ajani sarvataḥ ।। [anuṣṭubh]

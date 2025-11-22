@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 878 | label: meter | g:0.194 m:0.5 ---
+
+āyoḥ putrāś tathā pañca sarve vīrā mahārathāḥ 
+svarbhānutanayāyāṃ ca prabhāyāṃ jajñire nṛpa । 
+nahuṣaḥ prathamaṃ jajñe vṛddhaśarmā tataḥ param 
+dambho rajir anenāś ca triṣu lokeṣu viśrutāḥ ।।

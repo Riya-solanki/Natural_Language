@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1368 | label: meter | g:0.24 m:0.53 ---
+
+deva stambhaya cetanāṃ śravaṇayor abhyeti śuṣkāśaniḥ ।
+vāmadevaḥ-
+tvad-rūpād vipināya cīvaradharo dhanvī jaṭī śāsanaṃ
+rāmaḥ prāpya gataḥ kutaścana vanaṃ saumitri-sītā-sakhaḥ ।।

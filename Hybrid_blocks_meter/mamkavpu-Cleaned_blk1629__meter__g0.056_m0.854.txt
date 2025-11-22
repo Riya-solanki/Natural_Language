@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1629 | label: meter | g:0.056 m:0.854 ---
+
+{ahameva guruḥ sudāruṇānām
+iti hālāhala tāta mā sma dṛpyaḥ ।
+nanu santi bhavādṛśāni bhūyo
+bhuvanesmin vacanāni durjanānām ।।}

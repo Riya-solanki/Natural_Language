@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 743 | label: grammar | g:0.667 m:0.5 ---
+
+vatsa naite payodāḥ surapatikariṇo no bakāḥ karṇaśaṅkhāḥ saudāminyo api naitāḥ kanakamayam idaṃ bhūṣaṇaṃ kumbhapīṭhe ।
+naitat toyaṃ nabhastaḥ patati madajalaṃ śvāsavātāvadhūtaṃ tat kiṃ mugdhe vṛthā tvaṃ malinayasi mukhaṃ prāvṛḍ ity aśrupātaiḥ ।।

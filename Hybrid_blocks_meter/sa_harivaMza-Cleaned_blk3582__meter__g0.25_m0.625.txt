@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3582 | label: meter | g:0.25 m:0.625 ---
+
+darśanīyaṃ ca lokeṣu dhanur jaladanisvanam 
+nāmnā śārṅgam iti khyātaṃ viṣṇur jagrāha vīryavān ।।

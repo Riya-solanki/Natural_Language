@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 482 | label: meter | g:0.194 m:0.5 ---
+
+kathaṃ sa sagaro jāto gareṇaiva sahācyutaḥ 
+kimarthaṃ ca śakādīnāṃ kṣatriyāṇāṃ mahaujasām ।।

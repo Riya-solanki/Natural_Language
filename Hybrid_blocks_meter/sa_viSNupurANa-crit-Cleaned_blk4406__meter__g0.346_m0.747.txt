@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4406 | label: meter | g:0.346 m:0.747 ---
+
+smarāśeṣajagannātha kāraṇaṃ kāraṇāgrajam 
+ātmānam ekaṃ tadvac ca jagaty ekārṇave ca yat ।।

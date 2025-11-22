@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 92 | label: grammar | g:0.583 m:0.5 ---
+
+tasmin kāle jalada yadi sā labdhanidrāsukhā syād anvāsyaināṃ stanitavimukho yāmamātraṃ sahasva ।
+mā bhūd asyāḥ praṇayini mayi svapnalabdhe kathaṃ cit sadyaḥ kaṇṭhacyutabhujalatāgranthi gāḍhopagūḍham ।।

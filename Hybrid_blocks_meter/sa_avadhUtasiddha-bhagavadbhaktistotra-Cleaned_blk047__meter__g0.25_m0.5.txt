@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 47 | label: meter | g:0.25 m:0.5 ---
+
+mandākinī kanakapaṅkajapārijāta- puṣpādhivāsitajalā nabhasaḥ patantī ।
+lagnā tuṣārakaṇikeva jaṭāgrabhāge kenāpareṇa bhavateva dhṛtānugṛhya ।।

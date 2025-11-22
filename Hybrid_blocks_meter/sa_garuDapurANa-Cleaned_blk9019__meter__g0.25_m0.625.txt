@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9019 | label: meter | g:0.25 m:0.625 ---
+
+kimarthaṃ putraputrāśca tasya tiṣṭhanti cāgrataḥ ।
+kimarthaṃ dīpadānañca kimarthaṃ viṣṇupūjanam ।।

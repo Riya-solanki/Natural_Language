@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4482 | label: meter | g:0.25 m:0.625 ---
+
+kṛte apyakṛtasaṅgaśca sarvātmā sarvalakṣaṇaḥ ।
+bhayena kṣubhite citte śāyite drāvayetsa kṛt ।।

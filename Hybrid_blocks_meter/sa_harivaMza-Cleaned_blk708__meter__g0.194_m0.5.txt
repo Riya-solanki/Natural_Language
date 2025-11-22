@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 708 | label: meter | g:0.194 m:0.5 ---
+
+sa sāmādibhir apy ādāv upāyaiḥ śāstracintakaiḥ 
+anunīyamāno durbuddhir anunetuṃ na śakyate ।।

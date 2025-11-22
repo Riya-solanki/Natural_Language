@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 200 | label: hybrid | g:0.51 m:0.5 ---
+
+na pūjayanti pratipattibhir ye giro gurūṇām anukampakānām ।
+imāni cānyāni ca te labhante viṣādanīnāṃ vipadāṃ śatāni ।।

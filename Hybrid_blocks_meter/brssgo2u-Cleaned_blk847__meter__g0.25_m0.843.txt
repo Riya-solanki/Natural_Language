@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 847 | label: meter | g:0.25 m:0.843 ---
+
+nanu keṣucitpradeśeṣu na prāṇānāmutpattiḥ śrūyata ityuktaṃ tadayuktam ।
+pradeśāntareṣu śravaṇāt ।
+nahi kvacidaśravaṇamanyatra śrutaṃ nivārayitumutsahate ।
+tasmācchrutatvāviśeṣādākāśādivatprāṇā apyutpadyanta iti sūktam ।।

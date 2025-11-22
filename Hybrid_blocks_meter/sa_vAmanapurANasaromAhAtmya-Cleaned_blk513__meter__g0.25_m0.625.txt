@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 513 | label: meter | g:0.25 m:0.625 ---
+
+tatra snātvār'cayitvā ca rudraṃ diṇḍisamanvitam ।
+antardhānamavāpnoti śivaloke sa modate ।।

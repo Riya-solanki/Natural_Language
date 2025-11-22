@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 219 | label: meter | g:0.26 m:0.5 ---
+
+grāme ca rāṣṭri nigame viharanti nityaṃ rahapratyayāni spṛhatāṃ janayanti tatra 
+anyatra sattvaparipācanabodhiyuktā eṣo viveku kathito sugatātmajānām ।।

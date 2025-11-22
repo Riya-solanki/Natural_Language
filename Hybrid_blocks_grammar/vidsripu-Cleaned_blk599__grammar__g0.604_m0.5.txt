@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 599 | label: grammar | g:0.604 m:0.5 ---
+
+samāliṅgaty aṅgair apasarati yat preyasi vapuḥ pidhātuṃ yad dṛśyaṃ ghaṭayati ghanāliṅganam api ।
+tapobhir bhūyobhiḥ kim u na kamanīyaṃ sukṛtinām idaṃ ramyaṃ vāmyaṃ madanavivaśāyā mṛgadṛśaḥ ।।

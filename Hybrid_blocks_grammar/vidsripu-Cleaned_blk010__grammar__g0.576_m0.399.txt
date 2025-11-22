@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 10 | label: grammar | g:0.576 m:0.399 ---
+
+ekasyāpi manobhuvas tadabalāpāṅgair jagannirjaye kāmaṃ nihnutasarvavismayarasavyaktiprakārā vayam ।
+yas tv enaṃ sabalaṃ ca jetum abhitas tatkampamātraṃ bhruvor nārebhe sugatas tu tadguṇakathā stambhāya naḥ kevalam ।।
+kumudākaramateḥ

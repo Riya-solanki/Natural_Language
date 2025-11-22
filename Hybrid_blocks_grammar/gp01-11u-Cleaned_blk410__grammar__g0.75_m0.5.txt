@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 410 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha snigdhakaṇṭhaḥ svagataṃ cintayāmāsa-tad evaṃ jātāny eva mama praśnānām uttārāṇi । tatra ca bhavator eveti yuktam evoktaṃ śrī-bhagavatāprāg ayaṃ vasudevasya kvacij jātas tavātmajaḥ [] iti vadato' py avyabhicāra-vacaḥ-pracāra-sargasya muneḥ śrī-gargasya prāyaḥ so' yam abhiprāyaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1103 | label: meter | g:0.373 m:0.549 ---
+
+na bāndhavā naiva vayaṃ sahāyā na te naṭā nāpi viḍambakāḥ smaḥ ।
+kasminnavaṣṭabhya nu devarāja krīḍāpathenaivamṛṣīnupaiṣi ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 677 | label: meter | g:0.194 m:0.625 ---
+
+teṣāṃ vaṃśakaro rājā nīpānāṃ kīrtivardhanaḥ 
+kāmpilye samaro nāma sa ceṣṭasamaro abhavat ।।

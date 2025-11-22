@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 817 | label: meter | g:0.306 m:0.5 ---
+
+ātmā nadī saṃyamapuṇyatīrthā satyodakā śīlamādhiyuktā ।
+tasyāṃ snātaḥ puṇyakarmā punāti na viriṇā suddhyati cāntarātmā ।।

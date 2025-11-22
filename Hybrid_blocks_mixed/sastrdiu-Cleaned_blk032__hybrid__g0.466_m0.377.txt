@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 32 | label: hybrid | g:0.466 m:0.377 ---
+
+na syāt ।
+tajjanyaḥ saṃskāro hi māṇavakasamavāyī ।
+satyam, māṇavakasamaveto api na tadarthaḥ, kartrarthatvaṃ ca phalasya kartrabhiprāyatvaṃ natu tatsamavāyaḥ, anyathāhi aagnīnādadhītetyātmanepadaṃ na syāt- ādhānaphalasyāhavanīyatvāderagnisamavetatvena kartṛsamavāyābhāvāt ।
+iyaṃ ca smṛtiḥ aupanīya tu yaḥ śiṣyam' iti, ato balīyasī dvitīyā śrutiḥ, tasmānnādhyāpanāṅgamupanayanamiti na taddvāreṇādhyāpanasya prayuktiḥ ।।

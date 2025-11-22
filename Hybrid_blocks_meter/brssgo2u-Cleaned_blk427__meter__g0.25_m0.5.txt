@@ -1,0 +1,3 @@
+--- source: brssgo2u-Cleaned.txt | block: 427 | label: meter | g:0.25 m:0.5 ---
+
+FN bhāva utpattiḥ sattā vā ।

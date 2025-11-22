@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3919 | label: meter | g:0.328 m:0.595 ---
+
+yathā paraṃ brahma haristathā paraṃ jagatsvarūpaśca sa eva keśavaḥ ।
+ṛtena tenācyutanāmakīrtanātpraṇāśametu trividhaṃ mamāsubham ।।

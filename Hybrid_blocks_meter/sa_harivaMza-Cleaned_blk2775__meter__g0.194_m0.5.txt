@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2775 | label: meter | g:0.194 m:0.5 ---
+
+tasyopari gavāṃ lokaḥ sādhyās taṃ pālayanti hi 
+sa hi sarvagataḥ kṛṣṇa mahākāśagato mahān ।।

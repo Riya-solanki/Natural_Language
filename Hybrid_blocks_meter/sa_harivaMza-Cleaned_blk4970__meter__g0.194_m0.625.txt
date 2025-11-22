@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4970 | label: meter | g:0.194 m:0.625 ---
+
+apāṃ patir abhikruddhaḥ putrapautrabalānvitaḥ 
+āhvayann iva yuddhe sa visphāritamahādhanuḥ ।।

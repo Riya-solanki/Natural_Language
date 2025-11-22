@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 124 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca samuttejita-tat-tejobhir udvejita-cittaḥ kuṇṭhatāvaguṇṭhitotkaṇṭhatayā dūrata evotkaṇṭhatayātiṣṭhan mūḍha-dhīr asau gūḍha-pāt prarūḍha-krodhaḥ svabodha-rodhatas taṃ pratidrogdhum udyataḥ sann, uddhata-buddhis thūtkāra-phutkāra-dṛṣṭi-vāra-kṛta-kūṭaṃ kālakūṭaṃ prakaṭī-kurvan girikūṭāyamānaḥ kartavya-vihvalatayā jihvā-dvaya-samudayena muhuḥ kṣveḍa-bāḍava-pakvaṃ sṛkvaṇī-dvaya-samudaya-lehanād dvijihva-lelihānādy-āhvayo' smīty uṭṭaṅkanena ghaṭayitu-kāmaḥ sarvato dṛṣṭa-vapur babhūva ।

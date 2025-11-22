@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1492 | label: grammar | g:0.625 m:0.5 ---
+
+pṛthur asi guṇaiḥ kīrtyā rāmo nalo bharato bhavān mahati samare śatrughnas tvaṃ sadaiva yudhiṣṭhiraḥ ।
+iti sucaritair bibhrad rūpaṃ ciraṃtanabhūbhujāṃ katham asi na māṃdhātā deva trilokavijayy api ।।

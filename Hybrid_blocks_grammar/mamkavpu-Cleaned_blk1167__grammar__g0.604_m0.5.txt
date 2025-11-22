@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1167 | label: grammar | g:0.604 m:0.5 ---
+
+na ca {kamalamiva mukham} ityādiḥ sādhāraṇadharmaprayogaśūnya upamāviṣaya iti vaktaṃ yuktaṃ pūrṇopamāyā nirviṣayatvāpatteḥ ।।

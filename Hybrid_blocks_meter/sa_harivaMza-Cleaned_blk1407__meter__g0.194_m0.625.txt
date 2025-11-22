@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1407 | label: meter | g:0.194 m:0.625 ---
+
+etāni kṛtvā karmāṇi rāmo dharmabhṛtāṃ varaḥ 
+daśāśvamedhāñ jārūthyān ājahāra nirargalān ।।

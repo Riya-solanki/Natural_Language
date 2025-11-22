@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1512 | label: meter | g:0.25 m:0.5 ---
+
+jvalantaṃ vā viśedagniṃ jalaṃ vā praviśetsvayam ।
+brāhmaṇārthe gavārthe vā samyak prāṇānparityajet ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 436 | label: meter | g:0.194 m:0.5 ---
+
+aiṃ namo bhagavate rudrāya padaṃ caiva daśākṣaram 
+namaś cāmuṇḍe dvitīyaṃ syāt pañcākṣaram udāhṛtam ।।

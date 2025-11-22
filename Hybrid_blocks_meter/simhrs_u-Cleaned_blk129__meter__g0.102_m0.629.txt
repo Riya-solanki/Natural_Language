@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 129 | label: meter | g:0.102 m:0.629 ---
+
+tatra dhīra-pragalbhā-
+udāste surate dhīrā sāvahitthā ca sādarā ।। athā-
+na pratyudgamanaṃ karoti raśanā-vyāsañjanādi-cchalān
+nādatte nava-mañjarīm ali-bhaya-vyājena dattām api ।
+datte darpaṇam ādareṇa na giraṃ rūkṣākṣaraṃ māninī
+cāturyād vidadhāti mānam athavā vyaktīkaroti priyā ।।

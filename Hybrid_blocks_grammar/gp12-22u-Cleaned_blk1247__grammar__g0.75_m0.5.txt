@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1247 | label: grammar | g:0.75 m:0.5 ---
+
+[] ārtiś ced varivarti, tarhi nikaṭām api kuṭilayā sūratanayā-ghaṭanayā dūrāyamāṇām itas tu dakṣiṇāhi yā śūrasena-purī, tām uttareṇa niravajñaṃ yajña-śālā-mālām ālokayanta evānena samyag upatiṣṭhamānena pathā pratiṣṭhadhvam । gatvā ca tān kārmān karmaṭhācāryatamasya mama ca nāmnā yācadhvam । kintu bhikṣākāṇāṃ titikṣā-mātram ucitam iti śikṣā manasi kāryā ।

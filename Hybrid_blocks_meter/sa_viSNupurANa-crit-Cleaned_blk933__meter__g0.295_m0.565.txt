@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 933 | label: meter | g:0.295 m:0.565 ---
+
+param īśitvaguṇavat sarvabhūtam asaṃśrayam 
+natāḥ sma tat padaṃ viṣṇor jihvādṛggocaraṃ na yat ।।

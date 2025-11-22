@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 492 | label: meter | g:0.306 m:0.5 ---
+
+teṣāṃ munīnāṃ vigatavyathānāṃ deyaṃ kathaṃ pādarajo na mūrdhni ।
+yair laṅghitās tīvraviṣapracaṇḍā āśāprapātā bahuduḥkhabhīmāḥ ।।

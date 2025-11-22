@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4115 | label: meter | g:0.25 m:0.5 ---
+
+ity uktvā bhagavāṃs tūṣṇīṃ babhūva munisattama 
+vasudevo api taṃ rātrāv ādāya prayayau bahiḥ ।।

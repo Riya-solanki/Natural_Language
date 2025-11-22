@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3152 | label: meter | g:0.306 m:0.5 ---
+
+nītvā svamandiraṃ sarve puravāpyāṃ samutsṛjan ।
+tataḥ pramācchaṅkhinī sī suṣuve sapta vai śiśūn ।।

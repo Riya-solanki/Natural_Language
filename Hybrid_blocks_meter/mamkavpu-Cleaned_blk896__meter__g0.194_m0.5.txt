@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 896 | label: meter | g:0.194 m:0.5 ---
+
+{saundaryasaṃpat tāruṇyaṃ yasyāste te ca vibhramāḥ ।
+ṣaṭpadān puṣpamāleva kān nākarṣati sā sakhe ।।}

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9672 | label: meter | g:0.306 m:0.5 ---
+
+sīsakaṃ tu bhavetpretaṃ tvatha vā darbhakaṃ tathā ।
+śannodevīti mantreṇa govindaṃ paścime nyaset ।।

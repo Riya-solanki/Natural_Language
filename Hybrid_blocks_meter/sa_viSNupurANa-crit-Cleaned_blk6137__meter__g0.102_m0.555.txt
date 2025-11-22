@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6137 | label: meter | g:0.102 m:0.555 ---
+
+tataḥ śabdaguṇaṃ tasya bhūtādir grasate punaḥ 
+bhūtendriyeṣu yugapad bhūtādau saṃsthiteṣu vai 
+abhimānātmako hy eṣa bhūtādis tāmasaḥ smṛtaḥ ।।

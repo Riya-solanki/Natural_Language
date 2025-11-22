@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 428 | label: meter | g:0.25 m:0.625 ---
+
+ekahaṃse naraḥ snātvā gosahasraphalaṃ labhet ।
+kṛtaśocaṃ samāsādya tīrthasevī dvijottamaḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3693 | label: meter | g:0.25 m:0.583 ---
+
+tato jarāsaṃdhabalaṃ durnivāryaṃ mahat tadā 
+te kālayavanaṃ caiva śrutvaivaṃ pratipedire ।। 
+etasminn antare caiva yadūnāṃ nandivardhanaḥ । 
+keśavaḥ punarevāha yādavān satyasaṃgarān 
+adyaiva divasaḥ puṇyo niryāma sapadānugāḥ ।।

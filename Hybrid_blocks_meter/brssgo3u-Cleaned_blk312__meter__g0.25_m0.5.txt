@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 312 | label: meter | g:0.25 m:0.5 ---
+
+mukhyāveva saṃbandhabhedau kiṃ na syātamityatra sūtram-upapatteśceti ।।

@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3518 | label: meter | g:0.306 m:0.521 ---
+
+ta enam anvayuḥ sarve sainyaiḥ samuditair vṛtāḥ 
+ye nṛpāḥ parvatāt tasmād gomantād vrīḷitā gatāḥ । 
+te ca sarve yadūn hantuṃ jarāsaṃdhaṃ samanvayuḥ । 
+maheṣvāsā mahāvīryā jarāsaṃdhapriyaiṣiṇaḥ ।।

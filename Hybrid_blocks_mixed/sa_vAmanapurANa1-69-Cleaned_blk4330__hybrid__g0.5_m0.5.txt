@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4330 | label: hybrid | g:0.5 m:0.5 ---
+
+oṅkārapūrvāḥ śrutayo makhe asmin tiṣṭhanti rūpeṇa tapodhanānām ।
+yajño aśvamedhaḥ pravaraḥ kratūnāṃ mukhyastathā satriṣu daityanāthaḥ ।।

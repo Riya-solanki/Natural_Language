@@ -1,0 +1,3 @@
+--- source: kunvjivu-Cleaned.txt | block: 905 | label: meter | g:0.0 m:1.0 ---
+
+etadādestulyayogitāprakāratvamupapadyate na vetyāha

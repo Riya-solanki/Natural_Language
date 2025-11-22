@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 414 | label: meter | g:0.25 m:0.637 ---
+
+saṃpatteriti jaiminiḥ ।
+mūrdhānamupakramya cubukānto hi kāyapradeśaḥ prādeśamātraḥ ।
+tatraiva trailokyātmano vaiśvānarasyāvayavānsaṃpādayanprādeśamātraṃ vaiśvānaraṃ darśayati ।।

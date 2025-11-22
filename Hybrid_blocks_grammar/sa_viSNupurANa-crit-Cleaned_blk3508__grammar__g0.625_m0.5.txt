@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3508 | label: grammar | g:0.625 m:0.5 ---
+
+tenāsyā garbhaḥ saptavarṣāṇi jaṭhara eva tasthau । sa ca bāhur vṛddhabhāvād aurvāśramasamīpe mamāra ।।

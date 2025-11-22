@@ -1,0 +1,7 @@
+--- source: brssgo2u-Cleaned.txt | block: 366 | label: meter | g:0.253 m:0.708 ---
+
+FN kāryaṃ prati ayate gacchatīti pratyayaḥ kāraṇam ।
+vijñānaṃ pṛthivyādicatuṣṭayaṃ rūpaṃ ceti ṣaḍāyatanāni yasyendriyajātasya tatṣaḍāyatanam ।
+tṛṣṇyā vākkāyaceṣṭopādānam ।
+hā putra, tātetyādipralāpaḥ paridevanā ।
+āśrayetyādi bhoktṛviśeṣaṇaṃ adṛṣṭāśrayeṣvityarthaḥ ।

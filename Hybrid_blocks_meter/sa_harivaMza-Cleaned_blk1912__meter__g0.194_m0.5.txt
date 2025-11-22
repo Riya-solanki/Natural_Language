@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1912 | label: meter | g:0.194 m:0.5 ---
+
+vāyuprāṇau tu tau gṛhya brahmā parimṛśyañ śanaiḥ 
+ekaṃ mṛdutaraṃ mene kaṭhinaṃ veda cāparam ।।

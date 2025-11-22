@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1132 | label: meter | g:0.314 m:0.914 ---
+
+brahmakālayamāgnīnāṃ daṇḍī muṇḍī trimuṇḍadhṛk ।
+caturyugaścaturvedaścāturhetrapravartakaḥ ।।

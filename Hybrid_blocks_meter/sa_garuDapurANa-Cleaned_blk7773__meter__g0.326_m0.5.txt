@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7773 | label: meter | g:0.326 m:0.5 ---
+
+na dattaṃ na hutaṃ taptaṃ na snātaṃ na kṛtaṃ hitam ।
+yādṛśaṃ caritaṃ karma mūḍhātman bhuṅkṣva tādṛśam ।।

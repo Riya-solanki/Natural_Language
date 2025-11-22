@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3697 | label: meter | g:0.194 m:0.75 ---
+
+syandanaiḥ kāñcanāpīḍair mattaiś ca varavāraṇaiḥ 
+sṛtaplutaiś ca turagaiḥ kaśāpārṣṇipracoditaiḥ ।।

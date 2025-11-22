@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 97 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha kāliyasya varuṇa-pāśapāśīyamānābhogāśaya-nīyamānāśī-rāśībhyāṃ yāhaṅkṛtis tasyāś cūrṇī-kṛti-kautukāya yogamāyā-maya-kaṅkaṭa-saṅghaṭitāṅgatāṅgatas tṛṇāvarta-vartana-samudvartanaḥ sa muhūrtaṃ tathaiva vartate sma, yatra hi tasya sad-ahitasya bhoginaḥ śatam ekātirekābhogā markaṭikā-jālavad vighaṭita-śaktayaḥ santi sma । āśiṣaś ca tūla-varti-tulāṃ kalayāmāsuḥ ।
+[] kintu yadā kadambād asau kadamba-mālī kāliyālaya-kālindī-śambaram apaptat tadātitapta-hṛdayatayā hāhā-kāra-kṛta-mithaḥ-kreṅkāraḥ sa khinnaḥ sakhi-vāraḥ skhalac-caraṇa-cāraḥ sahasā tasminn eva sasāra । [] gāvaś ca śāva-sahitāḥ sahitās tam evānudrāvakatām avāpuḥ ।

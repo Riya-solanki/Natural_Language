@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 168 | label: meter | g:0.25 m:0.5 ---
+
+sa dhyānapathagaṃ kṛtvā prahlādaśca mano asuraḥ ।
+vicārayāmāsa tato yathā devo janārdanaḥ ।।

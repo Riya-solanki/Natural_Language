@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2068 | label: meter | g:0.25 m:0.5 ---
+
+tasmin madhuvanasthāne mathurā nāma sā purī 
+śatrughnena purā sṛṣṭā hatvā taṃ dānavaṃ raṇe ।।

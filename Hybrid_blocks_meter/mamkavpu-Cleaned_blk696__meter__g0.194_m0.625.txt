@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 696 | label: meter | g:0.194 m:0.625 ---
+
+{urvyasāvatra tarvālī marvante cārvavasthitiḥ ।
+mātrarju yujyate gantuṃ śiro namaya tanmanāk ।।}

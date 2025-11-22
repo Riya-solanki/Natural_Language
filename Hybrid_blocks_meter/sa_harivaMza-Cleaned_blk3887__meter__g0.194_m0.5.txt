@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3887 | label: meter | g:0.194 m:0.5 ---
+
+akrūro dantavaktraṃ tu vivyādha navabhiḥ śaraiḥ 
+taṃ pratyavidhyat kārūṣo bāṇair daśabhir āśugaiḥ ।।

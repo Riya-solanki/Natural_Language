@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 23 | label: meter | g:0.194 m:0.979 ---
+
+nayanam ayaṃ guṇam aguṇaṃ
+padam apadaṃ nijam avetya ripu-bhūpāḥ ।
+yasya ca naya-guṇa-viduṣo
+vinamanti padāravinda-pīṭhāntam ।।

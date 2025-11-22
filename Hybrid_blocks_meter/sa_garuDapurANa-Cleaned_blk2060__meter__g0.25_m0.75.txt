@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2060 | label: meter | g:0.25 m:0.75 ---
+
+ṣaṣṭirnikaraśīrṣaṃ syāttasyā mūlyaṃ caturdaśa ।
+aśītirnavatiścaiva kūpyeti parikīrtitā ।
+ekādaśa syānnava ca tayormūlyamanukramāt ।।

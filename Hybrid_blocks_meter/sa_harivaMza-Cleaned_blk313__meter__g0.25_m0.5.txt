@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 313 | label: meter | g:0.25 m:0.5 ---
+
+purāṇe kīrtitās tāta putrāḥ pautrāś ca bhārata 
+satyā devagaṇāś caiva tāmasasyāntare manoḥ ।। 
+putrāṃś caiva pravakṣyāmi tāmasasya manor nṛpa । 
+dyutis tapasyaḥ sutapās tapomūlas tapodhanaḥ 
+taporatir akalmāṣas tanvī dhanvī paramṭapaḥ ।।

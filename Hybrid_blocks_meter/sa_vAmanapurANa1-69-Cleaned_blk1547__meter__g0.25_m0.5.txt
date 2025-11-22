@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1547 | label: meter | g:0.25 m:0.5 ---
+
+sa eṣa yenāṅgamānaṅgatāṃ kṛtaṃ kandarpanāmnaḥ kusumāyudhasya ।
+kratoḥ kṣayī dakṣavināśakartā bhagākṣihā śūladharaḥ pinākī ।।

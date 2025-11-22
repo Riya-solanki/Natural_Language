@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 60 | label: meter | g:0.306 m:0.5 ---
+
+pitāmaho apyahaṅkārāt pratyuvācātha ko bhavān ।
+bhavato janakaḥ ko atra jananī vā taducyatām ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 457 | label: grammar | g:0.719 m:0.375 ---
+
+abhrakayogamāha athetyādi ।।
+atha rasakayogānantaraṃ kṛṣṇavarṇābhrakacūrṇaṃ śyāmavarṇābhrakarajaḥ tathā ravirasakavidhānena kharparakeṇa sahitaṃ puṭitaṃ sat sakalaṃ samastaṃ raktaṃ bhavet tadraktabhūtamabhraṃ triguṇaṃ yathā syāttathā cīrṇaḥ cāraṇamāpannas tato jīrṇo jāraṇamāpannaśca san sūto hemadrutisannibhaḥ svarṇadravasadṛśo bhaved ityarthaḥ ।।

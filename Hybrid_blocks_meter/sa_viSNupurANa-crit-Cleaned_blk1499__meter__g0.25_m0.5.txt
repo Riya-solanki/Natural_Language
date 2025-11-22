@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1499 | label: meter | g:0.25 m:0.5 ---
+
+yat kiṃcit sṛjyate yena sattvajātena vai dvija 
+tasya sṛjyasya saṃbhūtau tat sarvaṃ vai hares tanuḥ ।।

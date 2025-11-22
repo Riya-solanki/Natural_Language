@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 380 | label: meter | g:0.307 m:0.623 ---
+
+yadyevaṃ ya eva te pūrvai nādāstairevābhyasyamānairīdṛśī sphuṭābhivyaktiḥ syāt ।
+uttarairvā kevalairabhyasyamānaiḥ, tatra vijātīyanādāśrayaṇamanarthakam ।।

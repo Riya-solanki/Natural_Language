@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 389 | label: meter | g:0.306 m:0.5 ---
+
+sarasvatyāṃ naraḥ snātvā yakṣaṃ dṛṣṭvā praṇamya ca ।
+puṣpaṃ dhūpaṃ ca naivaidyaṃ datvā vācamudīrayet ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5417 | label: meter | g:0.25 m:0.695 ---
+
+ulūkakṛṣṇakākasya bilvasyātha samicchatam ।
+rudhireṇa samāyuktaṃ yayornāmnā tu hūyate ।
+tayormadhye mahāvairaṃ bhavennāstyatra saṃśayaḥ ।।

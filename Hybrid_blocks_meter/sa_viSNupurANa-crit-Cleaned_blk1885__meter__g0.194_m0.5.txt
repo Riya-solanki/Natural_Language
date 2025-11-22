@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1885 | label: meter | g:0.194 m:0.5 ---
+
+ṛṣibhyas tu sahasrāṇāṃ śatād ūrdhvaṃ vyavasthitaḥ 
+meḍhībhūtaḥ samastasya jyotiścakrasya vai dhruvaḥ ।।

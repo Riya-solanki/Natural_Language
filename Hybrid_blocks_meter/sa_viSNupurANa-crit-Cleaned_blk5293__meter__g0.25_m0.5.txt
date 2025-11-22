@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5293 | label: meter | g:0.25 m:0.5 ---
+
+devā yakṣās tathā daityā rākṣasāḥ siddhapannagāḥ 
+kūṣmāṇḍāś ca piśācāś ca gandharvā manujās tathā ।।

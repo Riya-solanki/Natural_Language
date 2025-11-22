@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1012 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra ca nivāryamāṇāv api visphāry-aham-pūrvikayā go-goyugaṃ gogoyuga-yugaṃ go-ṣaḍ-gavam api yugapad vaśayantāv akrīḍatām । anantaram api parasparam aparasparaṃ sadravam eva dravantau vighaṭita-dhenv-anaḍuha-saṅghaṭṭāv uddhatā dhenur vṛṣabhān api śṛṅga-grāhaṃ nivartayataḥ sma । kiṃ ca, pañcakenāpi paśūn gṛhṇītaḥ sma ।

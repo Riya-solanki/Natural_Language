@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 52 | label: meter | g:0.306 m:0.5 ---
+
+kathaṃ maheśvarād etad āgataṃ jñānam uttamam ।
+kiṃ ca cetasi saṃsthāpya nirmame bhagavān idam ।।

@@ -1,0 +1,7 @@
+--- source: brsvbh1u-Cleaned.txt | block: 798 | label: grammar | g:0.558 m:0.41 ---
+
+pratijñāsiddherliṅgamāśmaradhyaḥ ।
+yathā hi vahnervikārā vyuccaranto visphuliṅgā na vahneratyantaṃ bhidyante, tadrūpanirūpaṇatvāt, nāpi tato atyantamabhinnāḥ, vahneriva parasparavyāvṛttyabhāvaprasaṅgāt, tathā jīvātmano api brahmavikāra na brahmaṇo atyantaṃ bhidyante, cidrūpatvābhāvaprasaṅgāt ।
+nāpyatyantaṃ na bhidyante, parasparaṃ vyāvṛttyabhāvaprasaṅgāt, sarvajñaṃ pratyupadeśavaiyarthyācca ।
+tasmātkathañcidbhedo jīvātmanāmabhedaśca ।
+tatra tadvijñānena sarvavijñānapratijñāsiddhaye vijñānātmaparamātmanorabhedamupādāya paramātmani darśayitavye vijñānātmanopakrama ityāśmaradhya ācāryo mene ।।

@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 397 | label: grammar | g:0.729 m:0.5 ---
+
+arthaśūnyā api vikalpā vicitrārthakriyāsamarthasvalakṣaṇābhimānino jāyamānāstatra vyavahārārthinaṃ pravartayantaḥ paramparayā tatprabhavatayā tatprāpayanto maṇimiva maṇiprabhāviṣayamaṇibuddhirvyavahārāvisaṃvādino bhavantīti na lokayātrāsthiteḥ kaścidvirodhaḥ tasmānnāsti jātiḥ ।।

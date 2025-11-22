@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5683 | label: meter | g:0.194 m:0.625 ---
+
+kṣaṇena nābhavat kaścid yādavānām aghātitaḥ 
+ṛte kṛṣṇaṃ mahābāhuṃ dārukaṃ ca mahāmune ।।

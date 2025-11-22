@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 214 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca kṣaṇa-katipayād akṣīṇānanda-vṛndārpita-satvara-visṛtvara-mohād unmagneṣu teṣu tadīya-śrīman-mukha-nirīkṣaṇa-lagneṣu śrīmān vraja-rājas taṃ vyājahāra, "tāta, tavādya vidyate sarva-sampan-mayī janma-tārā । tasmād vraja-dhāma svayam ā madhyāhnam adhyāsitavyam । go-sambhālana-pālanāya punaḥ prātar eva mayā samayāsthitā yuktā niyuktāḥ santi । svayam atha prathama upaviśya dṛśyatāṃ svajana-vrajaḥ" iti ।

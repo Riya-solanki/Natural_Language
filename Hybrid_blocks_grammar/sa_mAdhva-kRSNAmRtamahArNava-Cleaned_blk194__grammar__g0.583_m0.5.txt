@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 194 | label: grammar | g:0.583 m:0.5 ---
+
+adhyetavyam idaṃ śāstraṃ śrotavyam anasūyayā bhaktebhyaś ca pradātavyaṃ dhārmikebhyaḥ punaḥ punaḥ ।।

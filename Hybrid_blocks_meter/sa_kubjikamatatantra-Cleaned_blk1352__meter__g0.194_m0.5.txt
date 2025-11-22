@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1352 | label: meter | g:0.194 m:0.5 ---
+
+ṣaḍasraṃ caturasraṃ tu ātmānaṃ ca samarpitam 
+tena te kāraṇatvena sṛṣṭikṛt kāraṇeśvarāḥ ।।

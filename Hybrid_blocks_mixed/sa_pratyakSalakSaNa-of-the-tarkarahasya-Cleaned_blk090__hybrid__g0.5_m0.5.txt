@@ -1,0 +1,3 @@
+--- source: sa_pratyakSalakSaNa-of-the-tarkarahasya-Cleaned.txt | block: 90 | label: hybrid | g:0.5 m:0.5 ---
+
+naiyāyikīyam "indriyārthasannikarṣotpannaṃ jñānam avyapadeśyam avyabhicāri vyavasāyātmakaṃ pratyakṣam" vaiśeṣikīyam "dravyeṣu pratyakṣam ātmendriyamano arthasannikarṣād yan niṣpadyate tad anyad" iti kāpilānām api "śrotrādivṛttiḥ pratyakṣam śrotratvakcakṣurjihvāghrāṇānāṃmanasādhiṣṭhitāvṛttiḥ śabdasparśarūparasagandheṣu yathākramaṃ grahaṇe vartamānā pratyakṣaṃ pramāṇam"

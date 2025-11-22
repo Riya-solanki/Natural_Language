@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 731 | label: grammar | g:0.583 m:0.5 ---
+
+atra nāyakayaśasāpākṛtasya candrakalaṅkasya virodhinaranāthavadaneṣu lakṣyamāṇatvaṃ tadidamanupapadyamānatayā na mukhyamiti gauṇīyaṃ vyatyayavatī parivṛttiḥ ।

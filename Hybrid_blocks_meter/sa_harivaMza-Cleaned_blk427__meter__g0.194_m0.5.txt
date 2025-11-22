@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 427 | label: meter | g:0.194 m:0.5 ---
+
+kuvalāśvas tu putrāṇāṃ śatena saha pārtivaḥ 
+prāyād uttaṅkasahito dhundhos tasya nibarhaṇe ।।

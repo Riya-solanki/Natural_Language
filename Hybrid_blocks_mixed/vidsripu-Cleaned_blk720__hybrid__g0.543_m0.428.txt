@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 720 | label: hybrid | g:0.543 m:0.428 ---
+
+kapolaṃ pakṣmabhyaḥ kalayati kapolāt kucataṭaṃ kucān madhyaṃ madhyān navamuditanābhīsarasijam ।
+na jānīmaḥ kiṃ nu kva nu kiyad anena vyavasitaṃ yad asyāḥ pratyaṅgaṃ nayanajalabindur viharati ।।
+narasiṃhasya

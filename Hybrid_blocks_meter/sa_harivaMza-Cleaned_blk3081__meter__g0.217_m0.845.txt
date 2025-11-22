@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3081 | label: meter | g:0.217 m:0.845 ---
+
+adhiśrayaṇavelāyāṃ prāptāyāṃ gṛhamedhinām 
+vanyair vaikhānasair mantrair hūyamāne hutāśane ।।

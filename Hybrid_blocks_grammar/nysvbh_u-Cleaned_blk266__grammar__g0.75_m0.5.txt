@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 266 | label: grammar | g:0.75 m:0.5 ---
+
+yatra yatra saṃśayapūrvikā parīkṣā śāstre kathāyāṃ vā tatra tatraivaṃ saṃśaye pareṇa pratiṣiddhe samādhirvācya iti, ataḥ sarvaparīkṣāvyāpitvāt prathamaṃ saṃśayaḥ parīkṣita iti ।।

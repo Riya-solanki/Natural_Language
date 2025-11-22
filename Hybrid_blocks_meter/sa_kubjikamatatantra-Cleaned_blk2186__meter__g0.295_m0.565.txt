@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2186 | label: meter | g:0.295 m:0.565 ---
+
+pīṭhavyūhavaraṃ madhye dvīpavyūhaṃ bahisthitam 
+puraṃ nāma bhaved yatra tāṃ diśaṃ tu samāśrayet ।।

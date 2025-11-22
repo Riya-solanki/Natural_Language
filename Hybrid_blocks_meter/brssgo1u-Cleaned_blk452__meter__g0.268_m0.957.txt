@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 452 | label: meter | g:0.268 m:0.957 ---
+
+FN aśnoti vyāpnoti svavikārajātamityakṣaram ।
+avyākṛtamavyaktam ।
+nāmarūpayorbījamīśvarastasya śaktirūpam ।

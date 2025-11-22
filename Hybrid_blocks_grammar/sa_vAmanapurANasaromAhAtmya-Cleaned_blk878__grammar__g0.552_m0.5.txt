@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 878 | label: grammar | g:0.552 m:0.5 ---
+
+yatkrodhano yajati yad dadāti yad vā tapastapatila yajjuhoti ।
+na tasya prāpnoti phalaṃ hi loke moghaṃ phalaṃ tasya hi krodhanasya ।।

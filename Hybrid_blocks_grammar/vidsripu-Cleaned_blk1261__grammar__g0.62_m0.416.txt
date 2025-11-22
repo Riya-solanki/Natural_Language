@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1261 | label: grammar | g:0.62 m:0.416 ---
+
+kiṃ brūmo jaladheḥ śriyaṃ sa hi khalu śrījanmabhūmiḥ svayaṃ vācyaḥ kiṃ mahimāpi yasya hi kila dvīpaṃ mahīti śrutiḥ ।
+tyāgaḥ ko api sa tasya bibhrati jaganty asyārthino apy ambudāḥ śakteḥ kaiva kathāpi yasya bhavati kṣobheṇa kalpāntaram ।।
+vācaspateḥ

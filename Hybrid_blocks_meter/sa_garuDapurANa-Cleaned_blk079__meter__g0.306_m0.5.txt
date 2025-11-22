@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 79 | label: meter | g:0.306 m:0.5 ---
+
+ahaṃ hi pūjito rudra ! dadāmi paramāṃ gatim ।
+niyamaiśca vrataistuṣṭa ācāreṇa ca mānavaiḥ ।।

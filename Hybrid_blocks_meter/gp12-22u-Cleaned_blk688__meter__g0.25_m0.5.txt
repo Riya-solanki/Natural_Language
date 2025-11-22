@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 688 | label: meter | g:0.25 m:0.5 ---
+
+yathā vidhātuṃ bhavatāṃ tathā śrotuṃ ca naḥ spṛhā ।
+ubhayeṣāṃ yatas tatra viśeṣāśrayatā-sthitiḥ ।। [anuṣṭubh]

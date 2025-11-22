@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10385 | label: meter | g:0.306 m:0.5 ---
+
+gaṅgāsamastu parjanya iti coktaḥ khageśvara ।
+savitā hyaryamā dhātā pūṣā tvaṣṭā tathā bhagaḥ ।।

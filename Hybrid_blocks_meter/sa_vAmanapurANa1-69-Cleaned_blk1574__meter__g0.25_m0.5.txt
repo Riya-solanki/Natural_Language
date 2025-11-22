@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1574 | label: meter | g:0.25 m:0.5 ---
+
+tato abravīdvaro brahman na dvijān hantumarhasi ।
+amī maharṣayo dhanyā vālakhilyāḥ pitāmaha ।।

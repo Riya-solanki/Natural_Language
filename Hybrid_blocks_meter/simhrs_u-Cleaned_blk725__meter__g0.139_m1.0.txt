@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 725 | label: meter | g:0.139 m:1.0 ---
+
+śabdād, yathā-
+uṣasi sa gaja-yūtha-karṇa-tālaiḥ
+paṭu-paṭaha-dhvnaibhir vinīta-nidraḥ ।
+aramata madhurāṇi tatra śṛṇvan
+vihaga-vikūjita-vandi-maṅgalāni ।।

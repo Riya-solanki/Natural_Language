@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 574 | label: meter | g:0.25 m:0.5 ---
+
+tato ham artham etaṃ vai tam apṛcchaṃ sanātanam 
+pṛṣṭaḥ pitṝṇāṃ sargaṃ ca phalaṃ śrāddhasya cānagha 
+ciccheda saṃśayaṃ bhīṣma sa tu deveśvaro mama ।।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 148 | label: meter | g:0.241 m:0.558 ---
+
+paulomāḥ kālakeyāś ca dānavās te mahābalāḥ 
+avadhyā devatānāṃ hi hiraṇyapuravāsinaḥ 
+pitāmahaprasādena ye hatāḥ savyasācinā ।। 
+prabhāyā nahuṣaḥ putro jayantaś ca sacīsutaḥ । pūruṃ jajñe atha śarmiṣṭhā duḥṣantam upadānavī । 
+tato apare mahāvīryā dānavā atidāruṇāḥ 
+siṃhikāyām athotpannā vipracitteḥ sutās tathā ।।

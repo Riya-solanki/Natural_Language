@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1550 | label: meter | g:0.25 m:0.5 ---
+
+{haṃsāṇaṃ sarehiṃ sirī sārijjai aha sarāṇa haṃsehiṃ ।
+aṇṇoṇṇaṃ via ee appāṇṇaṃ ṇavara garuanti ।।}
+[haṃsānāṃ sarobhiḥ śrīḥ sāryate atha sarasāṃ haṃsaiḥ ।
+anyonyameva ete ātmānaṃ kevalaṃ garayanti ।।]

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1774 | label: meter | g:0.306 m:0.5 ---
+
+tato ambikā keśavikarṣaṇākulaṃ kṛtvā ripuṃ prākṣipata svavaktre ।
+bibheda śūlena tathāpyurastaḥ kṣatodbhavānye nyapataṃśca vaktre ।।

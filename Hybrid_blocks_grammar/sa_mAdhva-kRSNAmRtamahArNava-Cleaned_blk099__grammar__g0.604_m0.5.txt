@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 99 | label: grammar | g:0.604 m:0.5 ---
+
+gaṇgāprayāgagayapuṣkaranaimiśāni saṃsevitāni bahuśaḥ kurujāṅgalāni kālena tīrthasalilāni punanti pāpaṃ pādodakaṃ bhagavataḥ prapunāti sadyaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1087 | label: grammar | g:0.646 m:0.5 ---
+
+ājanmasthitayo mahīruha ime kūle samunmūlitāḥ kallolāḥ kṣaṇabhaṅgurāḥ punar amī nītāḥ parām unnatim ।
+antaḥ prastarasaṃgraho bahir api bhraśyanti gandhadrumā bhrātaḥ śoṇa na so asti yo na hasati tvatsampadāṃ viplave ।।

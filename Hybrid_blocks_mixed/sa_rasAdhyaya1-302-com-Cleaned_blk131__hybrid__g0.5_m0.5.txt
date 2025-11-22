@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 131 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā yathā sūto bruḍati tathā tathā mardanīyaḥ ।।

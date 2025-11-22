@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3989 | label: meter | g:0.194 m:0.5 ---
+
+jagāma śibiraṃ rāmaḥ svam eva svajanāvṛtaḥ 
+nyavedayata kṛṣṇāya tac ca sarvaṃ yathābhavat ।।

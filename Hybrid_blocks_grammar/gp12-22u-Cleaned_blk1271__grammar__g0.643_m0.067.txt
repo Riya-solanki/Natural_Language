@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 1271 | label: grammar | g:0.643 m:0.067 ---
+
+śrutvā śaśvat sphuṭam ahaha yaṃ draṣṭum āśā nibaddhā
+sa drāg aikṣi svayam iti gatas tat-kṛtas tāpa-vargaḥ ।
+yaḥ kaścid vā vyavahitatayā tasya leśas tu śiṣṭaḥ
+so' py āveśān milana-tulitāt tāsu na sphūrtim āpa ।।
+[] atha bhojana-bhājanāni śirastaḥ-kṛtya sthitāsu tāsu sakala-bhāva-vicaksaṇaḥ smitāvaloka-lakṣaṇa-svamukha-mādhurya-dhuryaḥ suvicārya yasya kṛte prayasyanti sma, tās tad etad avadhārya tāsāṃ vāñchitaṃ kiñcid añcayan vañcayaṃś ca kāñcana-vasanaḥ kāñcana vācam uvāca-svāgataṃ vo mahābhāgāḥ [] iti prāyaś cāyamm asyābhiprāyaḥ-

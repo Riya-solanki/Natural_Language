@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2989 | label: meter | g:0.25 m:0.75 ---
+
+buddhājñān satvaśuddhyarthamabhayārthaṃ ca dehināṃ ।
+buddhaśāsanarakṣārthaṃ mārayaṃ vaśamānayed ।।

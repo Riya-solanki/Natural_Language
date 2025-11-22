@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 629 | label: meter | g:0.25 m:0.731 ---
+
+FN saṃvargavidyāvidhyanantaramarthavādārambhārtho athābdaḥ ।
+ha śabdo vṛttāntāvadyotī ।
+śunakaputraṃ kapigotraṃ purohitamabhipratārināmakam ।

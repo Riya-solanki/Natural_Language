@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 340 | label: meter | g:0.102 m:0.555 ---
+
+saśeṣās tatra tiṣṭhanti devā brahmarṣibhiḥ saha 
+tapasā brahmacaryeṇa śrutena ca samanvitāḥ 
+pūrṇe yugasahasre tu kalpo niḥśeṣa ucyate ।।

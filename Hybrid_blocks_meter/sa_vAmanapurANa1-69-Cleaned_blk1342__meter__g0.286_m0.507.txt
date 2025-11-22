@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1342 | label: meter | g:0.286 m:0.507 ---
+
+tathaivoruyugaṃ prādānmayā chinnau ca tāvubhau ।
+tataḥ sa me śiraḥ prādāt tena prīte asmi tasya ca ।
+varado asmītyathetyukte kururvaramayācata ।।

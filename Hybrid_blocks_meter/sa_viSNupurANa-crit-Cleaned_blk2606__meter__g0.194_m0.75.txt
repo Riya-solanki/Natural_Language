@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2606 | label: meter | g:0.194 m:0.75 ---
+
+ākhyānaiś cāpy upākhyānair gāthābhiḥ kalpaśuddhibhiḥ 
+purāṇasaṃhitāṃ cakre purāṇārthaviśāradaḥ ।।

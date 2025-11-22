@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 29 | label: grammar | g:0.594 m:0.5 ---
+
+bhavaḥ śarvo rudraḥ paśupatir athograḥ sahamahāṃs tathā bhīmeśānāv iti yad abhidhānāṣṭakam idam ।
+amuṣmin pratyekaṃ pravicarati deva śrutir api priyāyāsmai dhāmne praṇihitanamasyo asmi bhavate ।।

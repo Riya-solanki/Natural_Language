@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 807 | label: meter | g:0.141 m:0.932 ---
+
+yathā-
+pratiśrutaṃ dyūta-paṇaṃ sakhībhyo
+vivakṣati preyasi kuñcita-bhrūḥ ।
+kaṇṭhaṃ karābhyām avalambya tasya
+mukhaṃ pidhatte svakapolakena ।।

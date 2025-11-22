@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 804 | label: meter | g:0.25 m:0.5 ---
+
+śītābhilāṣī pravivikṣur agniṃ ko mārutoddhataśikhākalāpam ।
+āditsate krūraviṣaṃ bhujaṅgaṃ kaḥ puṣpadāmākṛtivipralabdhaḥ ।।

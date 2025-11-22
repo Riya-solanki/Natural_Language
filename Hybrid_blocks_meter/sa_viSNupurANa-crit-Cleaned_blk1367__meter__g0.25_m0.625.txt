@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1367 | label: meter | g:0.25 m:0.625 ---
+
+sarvagatvād anantasya sa evāham avasthitaḥ 
+mattaḥ sarvam ahaṃ sarvaṃ mayi sarvaṃ sanātane ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1441 | label: grammar | g:0.625 m:0.5 ---
+
+kākutsthasya daśānano na kṛtavān dārāpahāraṃ yadi kvāmbhodhiḥ kva ca setubandhaghaṭanā kvottīrya laṅkājayaḥ ।
+pārthasyāpi parābhavaṃ yadi ripur nādāt kva tādṛk tapo nīyante ripubhiḥ samunnatipadaṃ prāyaḥ paraṃ māninaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 387 | label: meter | g:0.194 m:0.625 ---
+
+meyaṃ sādhāraṇaṃ muktaḥ svātmābhedena manyate 
+maheśvaro yathā baddhaḥ puna atyantabhedavat ।।

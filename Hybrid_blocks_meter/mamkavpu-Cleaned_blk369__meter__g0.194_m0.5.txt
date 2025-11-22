@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 369 | label: meter | g:0.194 m:0.5 ---
+
+{tāṇaṃ guṇaggaaṇāṇaṃ tāṇukkaṇṭhāṇaṃ tassa pemmassa ।
+tāṇaṃ bhaṇi-āṇaṃ suṃdara erisi-aṃ jā-amavasāṇaṃ ।।}
+[teṣāṃ guṇagrahaṇānāṃ tāsāmutkaṇṭhānāṃ tasya premnaḥ ।
+tāsāṃ bhaṇitīnāṃ sundara īdṛśaṃ jātamavasānam ।।]

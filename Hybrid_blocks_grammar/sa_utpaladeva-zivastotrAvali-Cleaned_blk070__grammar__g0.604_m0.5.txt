@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 70 | label: grammar | g:0.604 m:0.5 ---
+
+garjāmi bata nṛtyāmi pūrṇā mama manorathāḥ svāmī mamaiṣa ghaṭito yat tvam atyantarocanaḥ ।।

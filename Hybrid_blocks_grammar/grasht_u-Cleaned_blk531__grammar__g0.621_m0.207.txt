@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 531 | label: grammar | g:0.621 m:0.207 ---
+
+mākṣikasatvam udāsyānyasatvapravṛttim āha raktamityādi ।।
+raktaṃ lohitaṃ nāgasamaṃ sīsakatulyaṃ mṛdu komalaṃ evaṃvidhaṃ satvaṃ yasmāddhetor mākṣikāt patati tāpyāt nirgacchati tadvattasmāddhetor vā tasmādvidhānataḥ gandhāśmano gandhakasya yatnena mṛdubhāvaṃ kāryaṃ yathā gandhako'pi mṛdurbhavatītyarthaḥ ।।

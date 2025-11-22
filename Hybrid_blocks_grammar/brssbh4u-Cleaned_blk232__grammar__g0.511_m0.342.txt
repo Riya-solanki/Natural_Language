@@ -1,0 +1,5 @@
+--- source: brssbh4u-Cleaned.txt | block: 232 | label: grammar | g:0.511 m:0.342 ---
+
+kāryabrahmalokapralayapratyupasthāne sati tatra eva utpannasamyagdarśanāḥ santaḥ tat adhyakṣeṇa hiraṇyagarbheṇa sahātaḥ paraṃ pariśuddhaṃ viṣṇoḥ paramaṃ padaṃ pratipadyanta iti ।
+kramamuktiḥ anāvṛttyādi śruti abhidhānebhyo abhyupagantavyā ।
+na hi āñjasa eva gatipūrvikā paraprāptiḥ saṃbhavati iti upapaditam ।।

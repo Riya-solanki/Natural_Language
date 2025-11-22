@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 127 | label: meter | g:0.064 m:0.837 ---
+
+[] tataś ca vivaśāṅga-saṅghe tasminn uraṅgame tu,
+udyad-ratna-citeṣu puṣṭa-niṭila-prastheṣu raṅga-śriyā
+śasteṣu sphuṭa-nṛtya-kṛtya-kalanā-lobhena śobhekṣaṇaḥ ।
+dyo-vidyotana-vādya-gīta-kalayā saṃhāya sāhāyakaṃ
+śrī-kṛṣṇas tad upary udapluta mudām uccair udāra-cchaviḥ ।। [śārdūlavikrīḍitam]

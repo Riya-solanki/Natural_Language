@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1205 | label: meter | g:0.194 m:0.625 ---
+
+karoti he daityaputrā yāvanmātraṃ parigraham 
+tāvanmātraṃ sa evāsya duḥkhaṃ cetasi yacchati ।।

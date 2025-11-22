@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 599 | label: grammar | g:0.625 m:0.5 ---
+
+itaścāsya kartṛtvaṃ, yajjīvaprakriyāyāmeva karaṇānāmupādānaṃ saṃkīrtayati- atadeṣāṃ prāṇānāṃ vijñānena vijñānamādāya' iti, aprāṇāngṛhītvā' iti ca ।।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3475 | label: grammar | g:0.75 m:0.5 ---
+
+"atha sarvahṛdayamudrāmantravidyānāṃ yathākāmakaraṇīyatayā vajrajāpavidhivistaro bhavati । yasya satvasya hṛnmudrāṃ mantraṃ vidyāṃ tu sādhayet । jāpārthatastamātmānaṃ satvaṃ vā sādhya sidhyatī-" tyāha bhagavān vajrasatvaḥ ।।

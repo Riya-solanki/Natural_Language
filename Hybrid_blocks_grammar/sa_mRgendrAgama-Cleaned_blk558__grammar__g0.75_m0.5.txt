@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 558 | label: grammar | g:0.75 m:0.5 ---
+
+te caiva dīkṣitā api punarbhavatayā [mantraprayoktāraḥ na matāḥ] mantraprayogārhā na bhavanti। nānyasyānugrahādivyāpārayogyāḥ। nāpyātmano [mantrasādhanasaṃsiddheḥ] mantrasādhanajanitāyāḥ siddheḥ prayoktāraḥ prayojakāḥ syuḥ। mantrasiddhyarthamāmnātasya kriyākāṇḍasya prayoge teṣāmanarhakatvaṃ bhavatīti yāvat। ataḥ ebhyaḥ sakāśād [itarāṇi kuryād] mantrasādhanānyanyāni sampādayet pṛthak kuryāt। na tveṣāṃ tāni prakaṭayedityarthaḥ।।

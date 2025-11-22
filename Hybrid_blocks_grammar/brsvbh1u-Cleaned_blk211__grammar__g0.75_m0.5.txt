@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 211 | label: grammar | g:0.75 m:0.5 ---
+
+-svato aparokṣasyāpi brahmaṇaḥ pārokṣayaṃ bhramagṛhītam, tannivṛttiḥ śabdena na bhavati, tasya parokṣapramāhetutvāt । tasmādaparokṣapramāṇādeva tatsākṣātkāro abhyupeyaḥ । antaḥkaraṇaṃ ca sopādhike ātmani janayatyahaṃvṛttimiti tasya siddhamaparokṣadhīhetutvam । tacca śābdabrahmaikyadhīsaṃtativāsitaṃ jīvasya tatpadalakṣaṇabrahmātmatāṃ sākṣātkārayatītyāśayavānāha-na caiṣa iti ।

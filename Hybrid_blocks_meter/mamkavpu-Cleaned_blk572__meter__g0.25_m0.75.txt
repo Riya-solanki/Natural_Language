@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 572 | label: meter | g:0.25 m:0.75 ---
+
+atrāmbikāramaṇa iti viruddhāṃ dhiyamutpādayati ।।

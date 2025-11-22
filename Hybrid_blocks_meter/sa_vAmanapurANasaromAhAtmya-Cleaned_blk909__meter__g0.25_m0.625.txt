@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 909 | label: meter | g:0.25 m:0.625 ---
+
+dṛṣṭvā devaṃ harṣayuktāḥ sarve devāḥ saharṣibhiḥ ।
+brahmaṇamagrataḥ kṛtvā idaṃ vacanamabruvan ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 143 | label: grammar | g:0.552 m:0.5 ---
+
+viṣayeṣu yadi pramādam eṣe tvam anāryācariteṣu hanta naṣṭam ।
+atha te virajanti naiva cetas tava ko artho vada tair anarthabhūtaiḥ ।।

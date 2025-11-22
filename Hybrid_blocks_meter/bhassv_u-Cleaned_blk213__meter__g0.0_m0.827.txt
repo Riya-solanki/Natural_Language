@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 213 | label: meter | g:0.0 m:0.827 ---
+
+{ubhau parikrāmataḥ }
+{padmāvatī} - savvaṃ āuḷaṃ kattukāmo ayyavasantao 
+kiṃ dāṇiṃ karehma 
+[sarvam ākulaṃ kartukāma āryavasantakaḥ । ]

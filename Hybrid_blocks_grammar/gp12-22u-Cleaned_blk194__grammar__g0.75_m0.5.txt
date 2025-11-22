@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 194 | label: grammar | g:0.75 m:0.5 ---
+
+[] te ca procuḥ-sarvato' py atiguṇavantau bhavantau khalv asmākaṃ sārau rāja-kumārau । rāja-nīti-rītiś caivam eva yad rāja-kulam eva vriyate puraskriyate ca । mṛgayāyāṃ mṛga-tāḍanavan na punar anyena svayam agra-gaṇyena bhūyate । yadi tat kulaṃ parama-vīryākulaṃ bhavati, tadā tu kim uta? tatra cāgrajatayā bhavataḥ sadāpāgryato nāgryāyate । tasmād yady asmad-icchā-pūraṇāya bhavator icchā saṅgacchate, tadā nānyad anumanyatām ।

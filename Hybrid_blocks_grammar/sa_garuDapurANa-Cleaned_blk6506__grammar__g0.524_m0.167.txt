@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6506 | label: grammar | g:0.524 m:0.167 ---
+
+adhomukhaḥ piṇḍapātrāṇi cālayitvā ācamya dakṣiṇopavītī pūrvābhimukhaḥ oṃ amukagotrāya amukadevaśarmaṇe brāhmaṇāya sapatnīkāya śrāddhapratiṣṭhārthadakṣiṇāmetadrajataṃ tubhyamahaṃ sampradade iti dakṣiṇāṃ dadyāt ।
+iti devūbrāhmaṇāya dakṣiṇādānam ।।

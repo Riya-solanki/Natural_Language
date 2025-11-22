@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 136 | label: meter | g:0.306 m:0.5 ---
+
+sā tyaktā cābhavajjyotsnā prāksandhyā yābhidhīyate ।
+jyotsnā rātryahanī sandhyā śarīrāṇi tu tasya vai ।।

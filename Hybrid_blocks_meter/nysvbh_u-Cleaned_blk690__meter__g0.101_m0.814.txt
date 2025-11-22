@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 690 | label: meter | g:0.101 m:0.814 ---
+
+rūpasparśavaddhi tejaḥ
+mahattvādanekadravyavattvād rūpavattvāccopalabdhiriti
+pradīpavat pratyakṣata upalabhyeta cākṣuṣo raśmiryadi
+syāditi ।।

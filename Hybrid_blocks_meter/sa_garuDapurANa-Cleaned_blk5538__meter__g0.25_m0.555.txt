@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5538 | label: meter | g:0.25 m:0.555 ---
+
+karavīraṃ bhṛṅgapatraṃ lavaṇaṃ kuṣṭhakarkaṭe ।
+caturguṇena mūtreṇa pacettailaṃ harecca tat ।
+pāmāṃ vicarcikāṃ kuṣṭhamabhyaṅgāddhi vraṇāni vai ।।

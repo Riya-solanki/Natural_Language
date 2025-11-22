@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 697 | label: meter | g:0.25 m:0.5 ---
+
+āśritya rāmaṃ dvividaḥ svecchayā narakaṃ śritaḥ ।
+iti tan-niṣkṛtiṃ kurvan rāmo' nyas tam adaṇḍayat ।।
+[] śrī-rāma uddiśya ca vandi-vṛndāni vandiṣyante-

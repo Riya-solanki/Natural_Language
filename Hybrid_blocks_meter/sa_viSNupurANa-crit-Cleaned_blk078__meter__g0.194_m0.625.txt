@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 78 | label: meter | g:0.194 m:0.625 ---
+
+kathayāmi yathāpūrvaṃ dakṣādyair munisattamaiḥ 
+pṛṣṭaḥ provāca bhagavān abjayoniḥ pitāmahaḥ ।।

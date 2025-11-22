@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3210 | label: meter | g:0.306 m:0.5 ---
+
+kāryakālocitāpāpā matiḥ sañjāyate hi vai ।
+sānukūle tu daive śaṃ puṃsaḥ sarvatra jāyate ।।

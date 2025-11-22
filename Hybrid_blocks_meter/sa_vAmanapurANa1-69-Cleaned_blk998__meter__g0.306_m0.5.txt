@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 998 | label: meter | g:0.306 m:0.5 ---
+
+yathā hi lakṣmyā na viyujyase tvaṃ trivikramānanta jagannivāsa ।
+tathāstvaśūnyaṃ śayanaṃ sadaiva asmākameveha tava prasādāt ।।

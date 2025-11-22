@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2219 | label: meter | g:0.25 m:0.625 ---
+
+kedāraṃ sarvapāpaghnaṃ sa mbhalagrāma uttamaḥ ।
+naranarāyaṇaṃ tīrthaṃ muktyai vadarikāśramaḥ ।।

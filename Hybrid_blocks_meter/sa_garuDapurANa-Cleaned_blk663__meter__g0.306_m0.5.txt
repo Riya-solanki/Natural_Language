@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 663 | label: meter | g:0.306 m:0.5 ---
+
+rajā rakṣā ratiḥ pālyā kānti stṛṣṇā matiḥ kriyā ।
+kāmā buddhiśca rātriśca trāsanī mohinī tathā ।।

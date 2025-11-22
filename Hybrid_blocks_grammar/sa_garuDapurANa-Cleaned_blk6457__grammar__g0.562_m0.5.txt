@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6457 | label: grammar | g:0.562 m:0.5 ---
+
+prācīnāvītī । oṃ agniṣvāttāḥ pitarastṛpyantām । oṃ somapāḥ pitarastṛpyantām । oṃ barhiṣadaḥ pitarastṛpyantām । yamāya namaḥ । dharmarājāya namaḥ । mṛtyave namaḥ । antakāya namaḥ । vaivasvatāya namaḥ । kālāya namaḥ । sarvabhūtakṣayāya namaḥ । audumbarāya namaḥ! dadhnāya namaḥ । nīlāya namaḥ । 
+parameṣṭhine namaḥ ।
+vṛkodarāya namaḥ ।
+citrāya namaḥ ।
+citraguptāya namaḥ ।।

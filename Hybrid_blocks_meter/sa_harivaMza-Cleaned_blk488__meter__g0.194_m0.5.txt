@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 488 | label: meter | g:0.194 m:0.5 ---
+
+tasyāśrame ca taṃ garbhaṃ gareṇaiva sahācyutam 
+vyajāyata mahābāhuṃ sagaraṃ nāma pārthivam ।।

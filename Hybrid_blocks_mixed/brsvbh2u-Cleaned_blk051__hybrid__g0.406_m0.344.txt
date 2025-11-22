@@ -1,0 +1,6 @@
+--- source: brsvbh2u-Cleaned.txt | block: 51 | label: hybrid | g:0.406 m:0.344 ---
+
+satyamayaṃ paramātmā sarvajñatvādyathā jīvān vastuta ātmano abhinnān paśyati, paśyatyevaṃ na bhāvata eṣāṃ sukhaduḥkhādivedanāsaṅgostyavidyāvaśāttveṣāṃ tadvadabhimāna iti ।
+tathā ca teṣāṃ sukhaduḥkhādivedanāyāmapyahamudāsīna iti na teṣāṃ bandhanāgāraniveśe apyastikṣatiḥ kācinmameti na hitākaraṇādidoṣāpattiriti rāddhāntaḥ ।
+tadidamuktam-apica yadā tattvamasīti ।
+apiceti caḥ pūrvopapattisāhityaṃ dyotayati, nopapattyantaratām ।।

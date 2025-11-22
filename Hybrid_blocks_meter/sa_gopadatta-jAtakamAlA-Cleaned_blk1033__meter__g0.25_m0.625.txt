@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1033 | label: meter | g:0.25 m:0.625 ---
+
+āstīrṇakomalavicitrakuthodareṣu svairaṃ vihṛtya bhavaneṣu kathaṃ bhavatyaḥ ।
+sprakṣyanti durjanamanoviṣamāṃ śmaśānabhūmiṃ sitāsthiśakalaprakarottarīyām ।।

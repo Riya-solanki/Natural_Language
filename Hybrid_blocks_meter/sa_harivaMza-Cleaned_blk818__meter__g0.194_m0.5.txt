@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 818 | label: meter | g:0.194 m:0.5 ---
+
+evam etat purā vṛttaṃ mama pratyakṣam acyuta 
+tad dhārayasva gāṅgeya śreyasā yokṣyase tataḥ ।।

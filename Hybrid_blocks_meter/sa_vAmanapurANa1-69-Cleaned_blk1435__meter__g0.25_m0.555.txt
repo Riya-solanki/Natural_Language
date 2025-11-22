@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1435 | label: meter | g:0.25 m:0.555 ---
+
+yādṛśastādṛśo vāpi sa me nātho bhaviṣyati ।
+nivāryatāmayaṃ bhikṣurvivakṣuḥ sphuritādharaḥ ।
+na tathā nindakaḥ pāpī yathā śṛṇvan śaśiprabhe ।।

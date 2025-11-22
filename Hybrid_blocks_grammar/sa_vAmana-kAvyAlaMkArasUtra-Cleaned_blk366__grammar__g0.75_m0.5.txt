@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 366 | label: grammar | g:0.75 m:0.5 ---
+
+pītaṃ pānamidaṃ tvayādya dayite mattaṃ mamedaṃ manaḥ patrālī tava kuṅkumena racitā raktā vayaṃ mānini ! । tvaṃ tuṅgastanabhāramantharagatirgātreṣu me vepathu- stvanmadhye tanutā mamādhṛtiraho premṇo vicitrā gatiḥ ।।

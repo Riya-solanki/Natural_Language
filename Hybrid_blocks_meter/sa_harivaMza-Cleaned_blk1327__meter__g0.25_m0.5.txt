@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1327 | label: meter | g:0.25 m:0.5 ---
+
+ṛṣayo vā na māṃ śāpaiḥ kruddhā lokapitāmaha 
+śapeyus tapasā yuktā varam etaṃ vṛṇomy aham ।।

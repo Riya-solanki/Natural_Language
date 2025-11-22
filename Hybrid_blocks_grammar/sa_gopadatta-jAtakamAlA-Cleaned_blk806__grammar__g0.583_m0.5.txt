@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 806 | label: grammar | g:0.583 m:0.5 ---
+
+atha bodhisattvas tāṃ tapasvinīm aviṣahyakopāgnipradīptamānasāṃ hlādayann iva tadāmṛtaśiśirābhir vāgbhir ity abravīt ।।

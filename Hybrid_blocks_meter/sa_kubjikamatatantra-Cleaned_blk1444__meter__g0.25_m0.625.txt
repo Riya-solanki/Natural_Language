@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1444 | label: meter | g:0.25 m:0.625 ---
+
+asya randhrāntarasthānam ājñādhyānaṃ tu śāmbhavam 
+na mantroccāraṇaṃ jñānaṃ na mudrā dhyāna cintanam ।।

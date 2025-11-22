@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1807 | label: grammar | g:0.604 m:0.5 ---
+
+brahmāṇī tvaṃ mṛḍānī varaśikhigamanā śaktihastā kumārī vārāhī tvaṃ suvaktrā khagapatigamanā vaiṣṇavī tvaṃ saśārṅgo ।
+durdṛśyā nārasiṃhī ghuraghuritaravā tvaṃ tathaindrī savajrā tvaṃ mārī carmamuṇḍāśavagamanaratā yoginī yogasiddhā ।।

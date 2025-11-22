@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 167 | label: meter | g:0.25 m:0.927 ---
+
+FN kāraṇādhipā jīvasteṣāmadhipaḥ ।
+vastutantraṃ bhavejjñānaṃ karmatantramupāsanam ।
+āvistarāmatiśayena prakaṭam ।

@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 425 | label: meter | g:0.257 m:0.577 ---
+
+yadapyuktaṃ vināpyarthena jñānavaicitryaṃ vāsanāvaicitryādevāvakalpyata iti ।
+tatprativaktavyam ।
+atrocyate- nabhāvo vāsanānāmupapadyeta tvatpakṣe anupalabdherbāhyānāmarthānām ।
+arthopalabdhinimittā hi pratyarthaṃ nānārūpā vāsanā bhavanti ।

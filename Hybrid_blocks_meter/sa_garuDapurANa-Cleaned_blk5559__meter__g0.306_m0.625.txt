@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5559 | label: meter | g:0.306 m:0.625 ---
+
+namaste īśavaradāya ākarṣiṇi vikarṣiṇi mugdhe svāhā iti ।
+yonilaṅgasya tailena śaṅkara mlakṣaṇāttataḥ ।।

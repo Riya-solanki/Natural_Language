@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 324 | label: meter | g:0.194 m:1.0 ---
+
+tato lohakapālasthaṃ svedayenmṛduvahninā 
+sukhoṣṇenāranālena prakṣālitarasaṃ budhaḥ ।।

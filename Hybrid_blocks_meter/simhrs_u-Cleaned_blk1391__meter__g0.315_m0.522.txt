@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1391 | label: meter | g:0.315 m:0.522 ---
+
+atha dravaḥ-
+guru-vyatikramaṃ prāha dravaṃ tu bharato muniḥ ।।

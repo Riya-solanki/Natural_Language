@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 217 | label: grammar | g:0.604 m:0.5 ---
+
+[] tasmāt prathamaṃ tāvat preyasī-gaṇādhikāyā rādhikāyā bimboṣṭhī-goṣṭhī-madhyam adhyāsya vyasyatām eṣā paṭīyasī rasa-paripāṭī ।

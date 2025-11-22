@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 119 | label: hybrid | g:0.476 m:0.5 ---
+
+ye cāpi tasmi samaye imu dharma śreṣṭhaṃ śruṇanāya chandika utpādayiṣyanti śraddhām 
+te dharmabhāṇaka viditvana kāryayuktaṃ premāpanīta gamiṣyanti sudurmanāśca ।।

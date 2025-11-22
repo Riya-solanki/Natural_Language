@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 167 | label: meter | g:0.25 m:0.625 ---
+
+tadanugrāhakaṃ tattvaṃ kalākhyaṃ taijasaṃ haraḥ 
+māyāṃ vikṣobhya kurute pravṛttyaṅgaṃ paraṃ hi tat ।।

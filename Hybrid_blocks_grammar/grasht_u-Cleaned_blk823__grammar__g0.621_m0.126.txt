@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 823 | label: grammar | g:0.621 m:0.126 ---
+
+vedhavidhānamāha aṣṭānavatir ityādi ।।
+eṣa rasadaradetyādiśatāṃśavedhavidhiḥ kathaṃ atra śatāṃśe aṣṭānavatirbhāgāstārasya rūpyasya punariha kanakabhāgaḥ syāt eka eveti punaḥ sūtasya daradādimilitarasasyaiko bhāgaḥ ekāṃśaḥ iti sarve śatāṃśāḥ śatāṃśena vedha iti ।।

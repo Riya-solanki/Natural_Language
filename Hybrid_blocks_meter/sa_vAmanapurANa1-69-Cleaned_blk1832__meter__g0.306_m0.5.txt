@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1832 | label: meter | g:0.306 m:0.5 ---
+
+sā cāha śaṅkaraṃ yattacchrukraṃ pītaṃ hi vahninā ।
+tadaśaktena tenādya nikṣiptaṃ mayi sattama ।।

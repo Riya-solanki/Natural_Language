@@ -1,0 +1,6 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 10 | label: meter | g:0.25 m:0.875 ---
+
+kalātattvapavitrāṇu- śaktimantreśasaṃkhyayā ।
+vibhajya keśānsampātya pratyaṃśaṃ saṃhitāṇubhiḥ ।
+vrateśvarasya purato badhnīyācchivatejasā ।
+mantriṇaḥ sādhyamantreṇa hṛdā putrakayogyayoḥ ।

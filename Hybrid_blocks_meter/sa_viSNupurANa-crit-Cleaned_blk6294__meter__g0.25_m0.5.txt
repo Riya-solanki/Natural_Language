@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6294 | label: meter | g:0.25 m:0.5 ---
+
+khāṇḍikyo api punar dṛṣṭvā tam āyāntaṃ dhṛtāyudhaḥ 
+tasthau hantuṃ kṛtamatis tam āha sa punar nṛpaḥ ।।

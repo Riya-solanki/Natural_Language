@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 78 | label: grammar | g:0.667 m:0.5 ---
+
+avinayo anugato mṛditaṃ yaśo na gaṇitaṃ kulam āyatir ujjhitā । kaluṣaṃ vivṛto anayo viṣayalaulyatayā yāgayā ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3594 | label: grammar | g:0.75 m:0.5 ---
+
+bhagavanto akhilasaṃsāraduḥkhasaṃghātasya chettāro na hy etāvaj jagaty anyad duḥkham asti yac charīrātmanor viyoge bhavati । tad aham icchāmi sakalalokalocaneṣu vastuṃ na punaḥ śarīragrahaṇaṃ kartum ity evam uktair devair asāv aśeṣabhūtānāṃ netreṣv avatāritaḥ ।।

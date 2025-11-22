@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1292 | label: meter | g:0.25 m:0.625 ---
+
+kalaśeṣu ca vinyasya uttarādiṣvanukramāt ।
+ratnāni caiva dhānyāni oṣadhīṃ śatapuṣpikām ।।

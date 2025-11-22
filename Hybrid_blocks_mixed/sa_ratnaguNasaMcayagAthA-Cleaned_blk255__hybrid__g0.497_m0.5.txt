@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 255 | label: hybrid | g:0.497 m:0.5 ---
+
+ye cāpi śrāvakaguṇā tatha pratyayānāṃ sarveṣu bhonti vidu śikṣitu bodhisattvā 
+no cāpi tatra sthihatāna spṛheti teṣām ayu śikṣitavyamati śikṣati etamartham ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11919 | label: grammar | g:0.552 m:0.5 ---
+
+bhajasva mūḍha paradaivataṃ ca nārāyaṇaṃ tārakaṃ sarvaduḥ khāt ।
+sukṣudradeveṣu matiṃ ca mā kuru na ca śṛṇu tvaṃ phalguvākyaṃ tathaiva ।।

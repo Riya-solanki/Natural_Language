@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1640 | label: meter | g:0.25 m:0.5 ---
+
+sa hi yuddhagataḥ śrīmān īśo na sma vyakampata 
+sahiṣṇutvāj jagatsvāmī na cukrodha gadādharaḥ ।।

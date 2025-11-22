@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3514 | label: grammar | g:0.729 m:0.5 ---
+
+utpannabuddhiś ca mātaram apṛcchat । amba katham atra vayaṃ kva tāto asmākam ity evamādi pṛcchatas tanmātā sarvam avocat ।।

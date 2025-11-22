@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 849 | label: meter | g:0.111 m:0.521 ---
+
+rādhā tatra sukhātisīma-dṛśayā yuktāpi muktāvalī
+svacche netra-jale tad-īkṣaṇa-bhave koṣṇatvam itthaṃ gatā ।
+hā dhig daiva sadaiva nāsti tava ko' py uccair viveko yataḥ
+kāntasyāniśa-darśitasya ca cirād adriḥ kare dṛśyate ।। [śārdūlavikrīḍitam]

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 787 | label: hybrid | g:0.51 m:0.5 ---
+
+ime tavoktā viṣayāḥ suvistarād dvipe kumāre rajanīcareśa ।
+eteṣu deśeṣu ca deśadharmān saṃkīrtyamānāñ śṛṇu tattvāto hi ।।

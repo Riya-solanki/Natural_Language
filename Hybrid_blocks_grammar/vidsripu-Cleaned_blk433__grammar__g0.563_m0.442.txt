@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 433 | label: grammar | g:0.563 m:0.442 ---
+
+so anaṅgaḥ kusumāni pañca viśikhāḥ puṣpāṇi bāṇāsanaṃ svacchandacchidurā madhuvratamayī paṅktir guṇaḥ kārmuke ।
+evaṃsādanam utsaheta sa jagaj jetuṃ kathaṃ manmathaṃ tasyāmogham amūr bhavanti na hi ced astraṃ kuraṅgīdṛśaḥ ।।
+amarasiṃhasya

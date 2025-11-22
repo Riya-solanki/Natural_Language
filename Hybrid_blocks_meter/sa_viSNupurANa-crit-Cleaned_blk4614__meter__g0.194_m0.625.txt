@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4614 | label: meter | g:0.194 m:0.625 ---
+
+tasya darpabalaṃ bhaṅktvā gṛhītasya viṣāṇayoḥ 
+apīḍayad ariṣṭasya kaṇṭhaṃ klinnam ivāmbaram ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9543 | label: meter | g:0.25 m:0.625 ---
+
+annañcaiva tathā toyaṃ parityajya naro yadi ।
+pītamatpādatoyaśca na punarjāyate kṣitau ।।

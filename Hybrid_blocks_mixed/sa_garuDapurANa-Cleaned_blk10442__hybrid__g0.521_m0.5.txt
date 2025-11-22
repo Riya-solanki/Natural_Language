@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10442 | label: hybrid | g:0.521 m:0.5 ---
+
+kurvanti vairāgyamamutra loke tataḥ paraṃ bhaktidṛḍhāṃ tathaiva ।
+tataḥ paraṃ caiva hareḥ prasannatāṃ kurvanti nityaṃ tava devadeva ।।

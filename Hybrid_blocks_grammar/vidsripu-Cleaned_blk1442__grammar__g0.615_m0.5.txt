@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1442 | label: grammar | g:0.615 m:0.5 ---
+
+śambūkāḥ kila nirgatā jalanidhes tīreṣu dāvāgninā dahyante maṇayo vaṇikkaratalair āyānti rājñāṃ śiraḥ ।
+sthānapracyutir alpakasya vipade santas tu deśāntaraṃ yānto yānti sadā samarpitaguṇāḥ ślāghyāḥ parām unnatim ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2740 | label: meter | g:0.194 m:0.75 ---
+
+teṣāṃ svāgatadānādi vaktavyaṃ madhuraṃ nṛpa 
+gṛhāgatānāṃ dadyāc ca śayanāsanabhojanam ।।

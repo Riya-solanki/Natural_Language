@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1365 | label: meter | g:0.194 m:0.5 ---
+
+{devībhāvaṃ gamitā parivārapadaṃ kathaṃ bhajatveṣā ।
+na khalu paribhogayogyaṃ daivatarūpāṅkitaṃ ratnam ।।}

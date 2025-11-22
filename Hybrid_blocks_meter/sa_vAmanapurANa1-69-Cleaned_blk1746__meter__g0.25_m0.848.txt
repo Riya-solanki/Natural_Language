@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1746 | label: meter | g:0.25 m:0.848 ---
+
+pulastya uvāca ।
+caṇḍamuṇḍau ca nihatau sainyaṃ ca vidrutam ।
+samādideśātibalaṃ raktabījaṃ mahāsuram ।
+akṣauhiṇīnāṃ triṃśadbhiḥ koṭibhiḥ parivāritam ।।

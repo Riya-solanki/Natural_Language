@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 552 | label: meter | g:0.194 m:0.625 ---
+
+saṃskārair manusaṃkhyaiśca sūtaḥ saṃskṛtya māritaḥ 
+khalve kṣiptvā sa sampiṣṭaḥ procyate pratisāraṇam ।।

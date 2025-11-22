@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 49 | label: meter | g:0.0 m:0.934 ---
+
+navamo adhyāyaḥ
+prakaraṇa aupariṣṭaka-prakaraṇam

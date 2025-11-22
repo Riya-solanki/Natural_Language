@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6036 | label: meter | g:0.25 m:0.625 ---
+
+samādhvājyapayobhiśca bhakṣayitvā ca kāmayet ।
+strīṇāṃ śataṃ mahādeva tatkṣaṇānnātra saṃśayaḥ ।।

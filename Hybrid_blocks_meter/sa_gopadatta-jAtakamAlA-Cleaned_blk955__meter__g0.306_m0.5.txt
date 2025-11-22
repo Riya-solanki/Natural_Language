@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 955 | label: meter | g:0.306 m:0.5 ---
+
+dṛṅmārgaheyam avahatya balaṃ malānām ekāvaśiṣṭabhavabandhanatantavo api ।
+āryā manaḥsthitibhidānugatāḥ smareṇa lajjālavo apy anubhavanti daśām anāryām ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1156 | label: meter | g:0.25 m:0.625 ---
+
+vajralāsyādisandhīnāṃ mudrāstā eva huṃkṛtāḥ ।
+dharmamudrāstu tā eva huṃkāraiḥ sahitāḥ punaḥ ।।

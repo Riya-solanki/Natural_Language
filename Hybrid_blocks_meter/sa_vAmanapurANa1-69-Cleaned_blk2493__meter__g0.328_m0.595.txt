@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2493 | label: meter | g:0.328 m:0.595 ---
+
+tasmādimaṃ samāyātā tīrthapravaramuttam ।
+na cāpi dṛṣṭaḥ surathaḥ sa manohlādanaḥ patiḥ ।।

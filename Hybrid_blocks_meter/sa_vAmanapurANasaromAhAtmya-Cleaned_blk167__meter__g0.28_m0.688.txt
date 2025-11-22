@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 167 | label: meter | g:0.28 m:0.688 ---
+
+lomaharṣaṇa uvāca
+ityuktvā dānavapatiṃ prahlādaḥ so asurottamaḥ ।
+atyarthabhakto deveśaṃ jagāma manasā harim ।।

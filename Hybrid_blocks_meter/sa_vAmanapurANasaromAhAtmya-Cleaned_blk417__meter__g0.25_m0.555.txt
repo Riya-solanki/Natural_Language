@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 417 | label: meter | g:0.25 m:0.555 ---
+
+tava prasādād yakṣendra mukto bhavati kilbiṣaiḥ ।
+siddhirmayābhilaṣitā tayā sārddhaṃ bhavāmyaham ।
+evaṃ prasādya yakṣendraṃ tataḥ pañcanadaṃ vrajet ।।

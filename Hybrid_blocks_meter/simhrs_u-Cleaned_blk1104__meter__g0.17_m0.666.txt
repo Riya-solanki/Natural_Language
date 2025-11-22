@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1104 | label: meter | g:0.17 m:0.666 ---
+
+yathā-
+śrī-siṃha-kṣiti-nāyakasya ripavo dhāṭī-śruter ākulāḥ
+śuṣyat-tālu-puṭaṃ skhalat-pada-talaṃ vyālokayanto diśaḥ ।
+dhāvitvā katham apy upetya tamasā gāḍhopagūḍhāṃ guhām
+anviṣyanti tad-antare' pi kara-saṃsparśena gartāntaram ।।

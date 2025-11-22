@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 444 | label: grammar | g:0.604 m:0.5 ---
+
+catuṣpāde lohaṣairaleṣāparasūtvaṃ tasmāccatuḥṣaṣṭiguṇaṃ jīrṇamanaḥśilāsattvaṃ pāradaṃ ca kṣiptvā thūthāviḍena saṃpiṣann adho mṛduvahnir jvālayet ।।

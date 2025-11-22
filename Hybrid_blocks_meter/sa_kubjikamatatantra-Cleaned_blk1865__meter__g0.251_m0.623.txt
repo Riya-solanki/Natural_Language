@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1865 | label: meter | g:0.251 m:0.623 ---
+
+padadvayaṃ samākhyātaṃ tatra haṃso vyavasthitaḥ 
+yāvac carati tau dvau tu tāvad ātmā samāpyate ।।

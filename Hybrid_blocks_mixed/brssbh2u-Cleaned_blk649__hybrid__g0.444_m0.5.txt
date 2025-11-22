@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 649 | label: hybrid | g:0.444 m:0.5 ---
+
+atrāha- nanu jīvasyeśvarāṃśatvābhyupagame tadīyena saṃsāraduḥkhopabhogenāṃśina īśvarasyāpi duḥkhitvaṃ syāt ।
+yathā loke hastapādādyanyatamāṅgagatena duḥkhenāṅgino devadattasya duḥkhitvaṃ tadvat ।
+tataśca tatprāptānāṃ mahattaraṃ duḥkhaṃ prāpnuyāt ।
+ato varaṃ pūrvāvasthaḥ saṃsāra evāstviti samyagdarśanānarthakyaprasaṅgaḥ syāditi ।

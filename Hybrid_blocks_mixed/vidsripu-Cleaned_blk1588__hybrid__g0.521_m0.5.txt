@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1588 | label: hybrid | g:0.521 m:0.5 ---
+
+artho na sambhṛtaḥ kaścin na vidyā kācid arjitā ।
+na tapaḥ saṃcitaṃ kiṃcid gataṃ ca sakalaṃ vayaḥ ।।

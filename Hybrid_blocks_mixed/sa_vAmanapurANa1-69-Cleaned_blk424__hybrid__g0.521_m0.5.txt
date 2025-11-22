@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 424 | label: hybrid | g:0.521 m:0.5 ---
+
+śataṃ narastrīṇi śatāni daityaḥ ṣaḍ dharmaputro daśa daityarājaḥ ।
+tato apyasaṃkhyeyatarān hi bāṇān mumocatustau subhṛśaṃ hi kopāt ।।

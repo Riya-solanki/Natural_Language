@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 412 | label: meter | g:0.194 m:0.75 ---
+
+{ayaṃ sa raśanotkarṣī pīnastanavimardanaḥ ।
+nābhyūrujaghanasparśī nīvīvisraṃsanaḥ karaḥ ।।}

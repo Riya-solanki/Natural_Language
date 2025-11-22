@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 490 | label: grammar | g:0.557 m:0.23 ---
+
+rasānāṃ krameṇa śodhanamāha svinnamityādi ।।
+sakṣārāmlairvaikrāntakaṃ svinnaṃ dolābhidhānena sveditaṃ kuryāt tat svinnaṃ vaikrāntaṃ haṭhāt prābalyāt dhmātaṃ sat dravati sāraṃ muñcati drutamātraṃ satvanirgamamātrameva śudhyati pūrvasaṃbandhāt dravati ।।

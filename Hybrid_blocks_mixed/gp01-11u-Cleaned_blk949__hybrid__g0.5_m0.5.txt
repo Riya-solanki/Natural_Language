@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 949 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tatpatnī prāha-vicāraḥ punas tatrabhavaty eva sthāsyate ।

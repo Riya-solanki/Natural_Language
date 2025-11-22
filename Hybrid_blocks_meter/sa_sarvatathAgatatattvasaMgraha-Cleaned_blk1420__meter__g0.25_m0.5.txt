@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1420 | label: meter | g:0.25 m:0.5 ---
+
+taireva tu samidbhistu prajvālyāgniṃ suroṣitaḥ ।
+cīvarāṇi juhet buddho yātyājñākaratāṃ kṣaṇāt ।।

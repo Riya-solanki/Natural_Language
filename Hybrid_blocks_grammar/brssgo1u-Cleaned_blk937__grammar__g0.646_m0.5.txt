@@ -1,0 +1,3 @@
+--- source: brssgo1u-Cleaned.txt | block: 937 | label: grammar | g:0.646 m:0.5 ---
+
+FN sat pratyakṣaṃ bhūtatrayam, tyat parokṣaṃ bhūtadvayam, niruktaṃ vaktuṃ śakyaṃ ghaṭādi, aniruktaṃ vaktumaśakyaṃ kapotarūpādikam ।

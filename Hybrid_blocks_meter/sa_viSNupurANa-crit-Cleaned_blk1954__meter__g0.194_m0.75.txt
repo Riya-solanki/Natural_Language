@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1954 | label: meter | g:0.194 m:0.75 ---
+
+kulālacakramadhyastho yathā mandaṃ prasarpati 
+tathodagayane sūryaḥ sarpate mandavikramaḥ ।।

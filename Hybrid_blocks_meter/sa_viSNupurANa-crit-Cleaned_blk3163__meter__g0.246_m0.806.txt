@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3163 | label: meter | g:0.246 m:0.806 ---
+
+tathāpy arātividhvaṃsadhvastavīryā bhavārthinaḥ 
+tvāṃ stoṣyāmas tavoktīnāṃ yāthārthyaṃ naiva gocare ।।

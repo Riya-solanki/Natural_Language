@@ -1,0 +1,3 @@
+--- source: brssgo1u-Cleaned.txt | block: 893 | label: hybrid | g:0.5 m:0.5 ---
+
+anyārthaṃ tu jaiminiḥ praśnavyākhyānābhyām api caivam eke ।

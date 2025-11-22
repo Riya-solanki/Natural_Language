@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 221 | label: meter | g:0.306 m:0.5 ---
+
+krīḍāsu bālakusumāyudhasaṃgatāyā yattat smitaṃ na khalu tat smitamātrameva ।
+ālokyate smitapaṭāntaritaṃ mṛgākṣyās tasyāḥ parisphuradivāparameva kiñcit ।।

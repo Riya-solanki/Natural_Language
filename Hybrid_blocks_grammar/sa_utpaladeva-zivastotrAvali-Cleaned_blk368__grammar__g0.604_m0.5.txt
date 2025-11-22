@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 368 | label: grammar | g:0.604 m:0.5 ---
+
+brahmādīnām apīśāste te ca saubhāgyabhāginaḥ yeṣāṃ svapne api mohe api sthitas tvatpūjanotsavaḥ ।।

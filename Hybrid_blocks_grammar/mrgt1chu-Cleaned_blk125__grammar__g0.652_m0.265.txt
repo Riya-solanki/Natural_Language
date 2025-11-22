@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 125 | label: grammar | g:0.652 m:0.265 ---
+
+śivaśaktividyeśvarādāv upādeyasatattve malakarmamāyādau ca heyaparamārthe yeṣāṃ nāsty avabodhaḥ teṣām ajñānamūḍhānāṃ darśanāntarapraṇetḥṇāṃ saṃbandhi mataṃ śāstram āśrityākuśalamatayo ye muktim icchanti te khadyotād agnyabhyarthinaḥ kīṭamaṇer vahniṃ lipsavaḥ ।। 
+te yathā vyarthaśramās tathā te viphalakleśā bhavantīty arthaḥ ।। 
+tathā hi ।।

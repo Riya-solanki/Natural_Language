@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 230 | label: grammar | g:0.646 m:0.5 ---
+
+kurvan eveha karmāṇi jijīviṣec chataṃ samāḥ evaṃ tvayi nānyatheto asti na karma lipyate nare ।।

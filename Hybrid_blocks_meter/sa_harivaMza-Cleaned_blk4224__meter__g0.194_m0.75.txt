@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4224 | label: meter | g:0.194 m:0.75 ---
+
+tatropaviṣṭāṃs tān vīrān yathāprīti yathāvayaḥ 
+samābhāṣya yaduśreṣṭhān uvāca madhusūdanaḥ ।।

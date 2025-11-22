@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 828 | label: meter | g:0.036 m:0.833 ---
+
+[] atra tu varṇayanti,
+dantendu-lekhāviśad ādharāruṇaṃ
+cakṣuś-cakora-dvayam aśru cādadhe ।
+tadā śiśor asya karāmbu-janmanāpy
+ariṣṭam uddhūya balād vijṛmbhitam ।। [upajāti ]

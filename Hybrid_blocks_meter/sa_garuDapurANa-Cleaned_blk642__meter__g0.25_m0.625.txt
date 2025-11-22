@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 642 | label: meter | g:0.25 m:0.625 ---
+
+śūlaṃ gṛhītvā hastenābhrāmya cākāśasaṃmukham ।
+taddarśanāndrahā nāgā dṛṣṭvā vā nāśamāpnu yuḥ ।।

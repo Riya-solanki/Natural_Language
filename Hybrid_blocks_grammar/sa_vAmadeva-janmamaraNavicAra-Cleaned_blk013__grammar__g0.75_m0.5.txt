@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 13 | label: grammar | g:0.75 m:0.5 ---
+
+tatra āṇavena ekenaiva malena saṃyukto vijñānākala ucyate dvābhyām āṇavamāyī yābhyām apavedyaḥ pralayākalaḥ tribhir āṇavamāyīyakārmaiḥ saṃvedyaḥ tair eva kalādidharaṇyantatattvamayaḥ sakalaḥ tadartham eva ayam arthasargaḥ ।।

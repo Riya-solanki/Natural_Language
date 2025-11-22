@@ -1,0 +1,7 @@
+--- source: brsvbh2u-Cleaned.txt | block: 101 | label: hybrid | g:0.405 m:0.548 ---
+
+bhogasya ca sakṛcchabdādyupalabghimātrādeva samāptatvānna tadarthaṃ punaḥ pradhānaṃ pravartetetyayatnasādhyo mokṣaḥ syāt ।
+niḥśeṣaśabdādyupabhogasya cānantyena samāpteranupapatteranirmokṣaprasaṅgaḥ ।
+kṛtabhogamapi pradhānamāsattvapuruṣānyatākhyāteḥ kriyāsamabhihāreṇa bhojayatīti cet, atha puruṣārthāya pravṛttaṃ kimarthaṃ sattvapuruṣānyatākhyātiṃ karoti ।
+apavargārthamiti cet, hantāyāṃ sakṛcchabdādyupabhogena kṛtaprayojanasya pradhānasya nivṛttimātrādeva sidhyatīti kṛtaṃ sattvānyatākhyātipratīkṣaṇena ।
+na cāsyāḥ svarūpataḥ

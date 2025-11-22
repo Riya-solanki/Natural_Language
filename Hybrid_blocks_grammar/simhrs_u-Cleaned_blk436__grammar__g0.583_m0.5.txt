@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 436 | label: grammar | g:0.583 m:0.5 ---
+
+atra vidūṣaka-vākya sūcita-devī-śaṅkā-visṛṣṭa-sāgarikā-hastena rājñā akāṇḍe tvayā sambhoga-bhaṅgaḥ kṛta ity uktatvāt narma-sphoṭaḥ ।

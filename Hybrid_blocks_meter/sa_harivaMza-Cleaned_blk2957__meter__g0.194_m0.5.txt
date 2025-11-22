@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2957 | label: meter | g:0.194 m:0.5 ---
+
+prahartukāmo viśvaste yas tvaṃ svasthena cetasā 
+tat te pratikariṣyāmi putrayos tava paśyataḥ ।।

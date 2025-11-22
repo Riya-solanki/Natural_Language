@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 619 | label: meter | g:0.25 m:0.625 ---
+
+{apāṅgasaṃsargi taraṅgitaṃ dṛśorbhruvorarālāntavilāsi vellitam ।
+visāri romāñcanakañcukaṃ tanostanoti yo asau subhage tavāgataḥ ।।}

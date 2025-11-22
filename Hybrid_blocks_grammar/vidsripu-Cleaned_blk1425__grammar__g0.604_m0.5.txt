@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1425 | label: grammar | g:0.604 m:0.5 ---
+
+khanati na khuraiḥ kṣoṇīpṛṣṭhaṃ na nardati sādaraṃ prakṛtipuruṣaṃ dṛṣṭvaivāgre na kupyati gām api ।
+vahati tu dhuraṃ dhuryo dhairyād anuddhatakandharo jagati kṛtinaḥ kāryaudāryāt parān atiśerate ।।

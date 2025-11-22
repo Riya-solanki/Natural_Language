@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1721 | label: meter | g:0.0 m:0.5 ---
+
+{cintāratnamiva cyutosi karato dhiṅmandabhāgyasya me ।।}

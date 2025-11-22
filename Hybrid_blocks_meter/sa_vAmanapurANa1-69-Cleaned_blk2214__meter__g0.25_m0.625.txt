@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2214 | label: meter | g:0.25 m:0.625 ---
+
+pitāmaho api taṃ putraṃ sādhyaṃ saddhinayānvitam ।
+sanatkumāraṃ provāca yogaṃ dvādaśapatrakam ।।

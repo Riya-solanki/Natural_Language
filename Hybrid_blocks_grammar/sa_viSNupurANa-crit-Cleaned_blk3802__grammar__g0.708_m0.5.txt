@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3802 | label: grammar | g:0.708 m:0.5 ---
+
+tatra copaviṣṭeṣv akhileṣu yādaveṣu pūrvaprayojanam upanyasya paryavasite ca tasmin prasaṅgāgataparihāsakathām akrūreṇa saha kṛtvā janārdanas tam akrūram āha ।।

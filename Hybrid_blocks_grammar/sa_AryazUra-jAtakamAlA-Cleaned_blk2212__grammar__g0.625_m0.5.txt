@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2212 | label: grammar | g:0.625 m:0.5 ---
+
+iti paripālyamānastena mahāsattvena tasmin vanapradeśe sattvakāyaḥ sācāryaka iva bandhumāniva savidya iva rājanvāniva sukhamabhyavardhata ।

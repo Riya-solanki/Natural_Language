@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6830 | label: meter | g:0.25 m:0.625 ---
+
+nāsti viṣṇoḥ paraṃ dhtheyaṃ tapo nānaśanātparam ।
+tasmātpradhānamatroktaṃ vāsudevasya cintanam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3364 | label: meter | g:0.194 m:0.5 ---
+
+vasudevaś ca durvṛtto nityaṃ chadmacaro mama 
+avṛddhārheṇa daṇḍena kṣipram adyaiva vadhyatām ।।

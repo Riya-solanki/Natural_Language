@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1021 | label: meter | g:0.25 m:0.555 ---
+
+ākasmika-bhayādīnāṃ kalpanā syad rasāntaram ।
+yādṛcchikaṃ buddhi-pūrvam iti dvedhā nigadyate । 
+anukūlena daivena kṛtaṃ yādṛcchikaṃ bhavet ।।

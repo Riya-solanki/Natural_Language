@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5582 | label: meter | g:0.371 m:0.614 ---
+
+śrīgaruḍamahāpurāṇam- ।
+hariruvāca ।
+āṃ gaṇapataye iti ayaṃ gaṇapaternmantro dhanavidyāpradāyakaḥ ।।

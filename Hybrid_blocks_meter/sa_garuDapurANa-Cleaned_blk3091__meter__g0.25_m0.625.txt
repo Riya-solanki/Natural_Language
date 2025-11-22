@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3091 | label: meter | g:0.25 m:0.625 ---
+
+pañcasvāpatsu nārīṇāṃ patiranyo vidhīyate ।
+bhartrā sahamṛtā nārī romābdāni vaseddivi ।।

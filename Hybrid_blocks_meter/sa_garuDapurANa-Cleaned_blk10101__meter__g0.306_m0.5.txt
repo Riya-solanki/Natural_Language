@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10101 | label: meter | g:0.306 m:0.5 ---
+
+saṃtarpya tuṣṭaiḥ svamanonu sārāttaiḥ kāritāṃ kāmyapūjāṃ tathaiva ।
+nivedayitvā paradevatāyāṃ viṣṇau harau śrīpuruṣādivandye ।।

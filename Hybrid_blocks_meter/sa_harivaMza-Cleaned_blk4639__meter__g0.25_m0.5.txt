@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4639 | label: meter | g:0.25 m:0.5 ---
+
+ye hi devair virudhyante puṇyakarmabhir āhave 
+yathā balir niyamitas tathā te yānti saṃkṣayam ।।

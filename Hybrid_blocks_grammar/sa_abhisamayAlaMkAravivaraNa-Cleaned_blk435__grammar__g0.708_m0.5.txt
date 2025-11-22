@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 435 | label: grammar | g:0.708 m:0.5 ---
+
+bhedaḥ heyadṛṣṭyā darśanaprahātavyānāṃ caturṇāṃ vikalpānāṃ catvāraḥ pratipakṣā iti catvāro asya prabhedā bhavanti । samāhitaḥ pṛṣṭhalabdhaśceti dvāvapi bhedau ।

@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 30 | label: grammar | g:0.583 m:0.5 ---
+
+prāpnoty ārādhite viṣṇau manasā yad yad icchati trailokyāntargataṃ sthānaṃ kimu lokottarottarān ।।

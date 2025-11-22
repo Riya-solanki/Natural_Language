@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 826 | label: meter | g:0.056 m:0.625 ---
+
+{idaṃ te kenoktaṃ kathaya kamalātaṅkavadane
+yadetasmin hemnaḥ kaṭakamiti dhatse khalu dhiyam ।
+idaṃ tad duḥsādhākramaṇaparamāstraṃ smṛtibhuvā
+tava prītyā cakraṃ karakamalamūle vinihitam ।।}

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1273 | label: grammar | g:0.646 m:0.5 ---
+
+[] tad evam ehi-svāgatāṃ kriyām ācarya tat-pratyuttara-saṅkathane tāsāṃ saṅkocaṃ vicārya punar uvāca āsyatām iti ।

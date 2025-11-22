@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3163 | label: hybrid | g:0.364 m:0.267 ---
+
+sa kṛṣṇaṃ tatra sahasā vyāhartum upacakrame 
+tasya saṃstambhayāmāsa vākyaṃ kṛṣṇaḥ svatejasā ।। 
+sa ca bhāgavatair mantrair arcayitvā gadādharam । stutvā ca devam īśānaṃ varadaṃ bhaktavatsalam । ātmānaṃ kṛtakṛtyānām agresaram amaṃsta saḥ । 
+so anubhūya bhujaṃgānāṃ taṃ bhāgavatam avyayam 
+udatiṣṭhat punas toyād vismito amitadakṣiṇaḥ ।।

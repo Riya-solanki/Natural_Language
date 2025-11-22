@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 22 | label: meter | g:0.194 m:0.5 ---
+
+tal-labdhāni ghanāghanair atitarāṃ vārāṃ pṛṣanty ambudhau
+svātyām eva hi śuktikāsu dadhate muktāni muktātmatām ।
+yad dānodaka-vipruṣas tu sudhiyāṃ haste patantyo' bhavan
+māṇikyāni mahāmbarāṇi bahuśo dhāmāni hemāni ca ।।

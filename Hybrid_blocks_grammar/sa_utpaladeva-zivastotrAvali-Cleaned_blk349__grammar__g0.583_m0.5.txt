@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 349 | label: grammar | g:0.583 m:0.5 ---
+
+muktisaṃjñā vipakvāyā bhakter eva tvayi prabho tasyām ādyadaśārūḍhā muktakalpā vayaṃ tataḥ ।।

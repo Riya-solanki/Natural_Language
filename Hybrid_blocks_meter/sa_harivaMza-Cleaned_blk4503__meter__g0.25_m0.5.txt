@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4503 | label: meter | g:0.25 m:0.5 ---
+
+kālo ayaṃ samanuprāpto brāhmaṇyāḥ prasavasya me 
+yattā bhavantas tiṣṭhantu na bhaved vañcanā yathā ।।

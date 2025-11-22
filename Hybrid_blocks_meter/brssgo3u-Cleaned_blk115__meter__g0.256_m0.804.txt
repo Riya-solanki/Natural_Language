@@ -1,0 +1,9 @@
+--- source: brssgo3u-Cleaned.txt | block: 115 | label: meter | g:0.256 m:0.804 ---
+
+iti ।
+takāra etaścandasyāṃ prakriyāyāṃ lupto mantavyaḥ ।
+durniprapatataraṃ durniṣkramataraṃ duḥkhataramasmādvrīhyādibhāvānniḥsaraṇaṃ bhavatītyarthaḥ ।
+tadatra duḥkhaṃ niṣprapatanaṃ pradarśayanpūrveṣu sukhaṃ niṣprapatanaṃ darśayati ।
+sukhaduḥkhatāviśeṣaścāyaṃ niṣprapatanasya kālālpatvadīrghatvanimittaḥ ।
+tasminnavadhau śarīrāniṣpatterupabhogāsaṃbhavāt ।
+tasmādvrīhyādibhāvāpatteḥ prāgalpenaiva kālenāvarohaḥ syāditi ।।

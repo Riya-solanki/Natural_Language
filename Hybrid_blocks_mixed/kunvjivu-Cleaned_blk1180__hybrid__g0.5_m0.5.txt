@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1180 | label: hybrid | g:0.5 m:0.5 ---
+
+śāpo apyadṛṣṭatanayānanapadmaśobhe sānugraho bhagavatā mayi pātito ayam ।
+kṛṣyāṃ dahannapi khalu kṣitimindhaneddhaḥ bījaprarohajananīṃ dahanaḥ karoti ।।

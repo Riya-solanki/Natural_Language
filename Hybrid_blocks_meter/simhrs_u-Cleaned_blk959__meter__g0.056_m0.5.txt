@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 959 | label: meter | g:0.056 m:0.5 ---
+
+[durlabhaḥ priyo me tasmin bhava hṛdaya-nirāsaṃ
+amho apāṅgo me parisphurati kim api vāmaḥ ।
+eṣa sa cira-dṛṣṭaḥ kathaṃ punar draṣṭavyaḥ
+nātha māṃ parādhīnāṃ tvayi parigaṇaya satṛṣṇām ।।]

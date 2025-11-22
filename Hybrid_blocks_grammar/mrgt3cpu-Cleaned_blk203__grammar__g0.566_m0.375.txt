@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 203 | label: grammar | g:0.566 m:0.375 ---
+
+Vṛtti:
+[tatsaṅkaraviśuddhaye] sāṅkaryamātre jāte tu tacchuddhyai lakṣam īśānasya japet। [kāpālikasaṃkrame] kāpālikasaṅkare tu [kṛtasaṃyamaḥ] triṣavaṇasnāto nirāhāraḥ trīṇi lakṣāṇi।।

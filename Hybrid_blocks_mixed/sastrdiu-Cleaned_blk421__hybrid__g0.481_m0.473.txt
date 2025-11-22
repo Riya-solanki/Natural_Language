@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 421 | label: hybrid | g:0.481 m:0.473 ---
+
+nanvanuvṛttā nityānutpattivināśadharmā ca jātiḥ, viparītasvabhāvā ca vyaktiḥ, kathaṃ tayauraikyam ।
+nahyekameva vastvanuvṛttaṃ vyāvṛttaṃ nityamanityamutpattivināśadharmakamataddharmakaṃ ca saṃbhavati trailokyasaṃkaraprasaṅgāt, jātirapyevamanityatvādidharmā syāt, vyaktirapi nityatvādidharmā ।
+naiṣa doṣaḥ ।
+nānākāraṃ hi tadvastu kenacidākāreṇa nityatvādikaṃ kenaciccānityatvādikaṃ bibhranna virotsyate ।
+jātirapi vyaktirūpeṇānityā vyaktirapi jātyātmanā nityeti nātra kācidaniṣṭāpattiḥ ।।

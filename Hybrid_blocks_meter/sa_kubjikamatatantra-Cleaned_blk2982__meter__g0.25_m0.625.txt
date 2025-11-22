@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2982 | label: meter | g:0.25 m:0.625 ---
+
+bāhyataḥ kathayiṣyāmi dūtīnāṃ lakṣaṇaṃ subham 
+antaraṅge tathā hy evaṃ śrūyatāṃ teṣu niścayam ।।

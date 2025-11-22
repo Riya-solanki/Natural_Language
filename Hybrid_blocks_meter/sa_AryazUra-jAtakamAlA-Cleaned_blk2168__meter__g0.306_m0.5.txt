@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2168 | label: meter | g:0.306 m:0.5 ---
+
+vane tu saṃtyaktakukāryavistaraḥ parigrahakleśavivarjitaḥ sukhī ।
+śamaikakāryaḥ parituṣṭamānasaḥ sukhaṃ ca dharmaṃ ca yaśāṃsi cārcchati ।।

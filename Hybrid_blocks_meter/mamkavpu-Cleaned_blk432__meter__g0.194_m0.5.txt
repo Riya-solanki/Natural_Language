@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 432 | label: meter | g:0.194 m:0.5 ---
+
+{bhramimaratimalasahṛdayatāṃ pralayaṃ mūrchā tamaḥ śarīrasādam ।
+maraṇaṃ jaladabhujagajaṃ prasahya kurute viṣaṃ viyoginīnām ।।}

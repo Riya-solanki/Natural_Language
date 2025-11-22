@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1519 | label: meter | g:0.194 m:0.5 ---
+
+jyotiṣām īraṇaṃ vyomni rasānāṃ rasanaṃ prabhum 
+oṣadhīnāṃ paritrāṇaṃ nidhānam amṛtasya ca ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 515 | label: meter | g:0.25 m:0.75 ---
+
+ityayaṃ padapūrvārdhavakrabhāvo vyavasthitaḥ ।
+diṅmātramevametasya śiṣṭaṃ lakṣye nirūpyate ।।

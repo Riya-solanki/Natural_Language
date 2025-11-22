@@ -1,0 +1,6 @@
+--- source: brssbh3u-Cleaned.txt | block: 146 | label: grammar | g:0.61 m:0.308 ---
+
+yasmāccātmaiva suptisthānamata eva ca kāraṇānnityavadevāsmādātmanaḥ prabodhaḥ svāpādhikāre śiṣyate - akuta etadāgāt' ityasya praśnasya prativacanāvasare ayathāgneḥ kṣudrā visphuliṅgā vyuccārantyevamevaitasmādātmanaḥ sarve prāṇāḥ' ityādinā ।
+asata āgamya na viduḥ sata āgacchāmahe' iti ca ।
+vikalpyamāneṣu tu suṣuptisthāneṣu kadācinnāḍībhyaḥ pratibudhyate kadācitpurītataḥ kadācidātmana ityaśāsiṣyat ।
+tasmādapyātmaiva suptisthānamiti ।।

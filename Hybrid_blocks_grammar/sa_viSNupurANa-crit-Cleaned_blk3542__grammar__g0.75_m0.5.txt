@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3542 | label: grammar | g:0.75 m:0.5 ---
+
+taṃ cāha bhagavān uktam evaitan mayā pautras te tridivād gaṅgāṃ bhuvam ānayiṣyatīti । tadambhasā saṃspṛṣṭeṣv asthibhasmasv ete svargam ārokṣyanti । bhagavadviṣṇupādāṅguṣṭhavinirgatasya jalasya hi tanmāhātmyam ।।

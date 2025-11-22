@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 841 | label: meter | g:0.306 m:0.5 ---
+
+snāyācchiraḥsnānatayā ca nityaṃ na kāraṇaṃ caiva vinā niśāsu ।
+grahoparāge svajanāpayāte muktvā ca janmarkṣagate śaśaṅke ।।

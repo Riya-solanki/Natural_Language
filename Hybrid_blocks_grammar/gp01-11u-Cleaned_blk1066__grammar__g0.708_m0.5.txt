@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1066 | label: grammar | g:0.708 m:0.5 ---
+
+[] atha sarve samaya-vyagratayā śīghram eva tasmin sarasi militvā snātvā taṃ pradeśaṃ hitvā kṛṣṇaṃ gṛhītvā gṛhāya pratasthire ।

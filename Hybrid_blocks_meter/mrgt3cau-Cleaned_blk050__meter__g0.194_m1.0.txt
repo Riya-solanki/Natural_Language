@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 50 | label: meter | g:0.194 m:1.0 ---
+
+na te mantraprayoktāraḥ punarbhavatayā matāḥ
+mantrasādhanasaṃsiddheḥ kuryāttānītarāṇyataḥ ।

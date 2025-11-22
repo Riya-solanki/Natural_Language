@@ -1,0 +1,10 @@
+--- source: brssgo1u-Cleaned.txt | block: 568 | label: meter | g:0.25 m:0.797 ---
+
+praśnapūrvakaṃ sūtraṃ vyākaroti-kimidamiti ।
+ghaṭatvādvayāvṛttiriti bhrāntiṃ nirasyati-etaditi ।
+ambarāntasyādhāramakṣaraṃ śrutiracetanatvādvyāvartayatītyartaḥ ।
+jīvanirāsaparatvenāpi sūtraṃ yojayati-tatheti ।
+anyabhāvo bhedastanniṣedhāditi sūtrārthaḥ ।
+tarhi śodhito jīva evākṣaraṃ na para ityata āha-nahīti ।
+śodhite jīvatvaṃ nāstītyarthaḥ ।
+tasmādgārgibrāhmaṇaṃ nirguṇākṣare samanvitamiti siddham ।।

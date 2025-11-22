@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 629 | label: meter | g:0.25 m:0.695 ---
+
+suraṇāṃ hitakāmārthaṃ mahādevo abhyabhāṣata ।
+harṣasthānaṃ kimarthaṃ ca tavedaṃ munisattama ।
+tapasvino dharmapathe sthitasya dvijasattama ।।

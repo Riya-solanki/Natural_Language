@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 89 | label: hybrid | g:0.302 m:0.438 ---
+
+prakṛtyābhā[savidhinā kleśavantaśca ye janāḥ । etajjñātvā vimu]cyanti jñānino bhavapañjarāt ।। iti । 
+yadi śūnyamidaṃ sarvamanutpannasvabhāvakam ।
+kathaṃ karmātra saṃsāre sukhaduḥkhaṃ pravartate ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1609 | label: grammar | g:0.604 m:0.5 ---
+
+mā caivamucyamāno manyupraṇayavirasaṃ hṛdayaṃ kārṣiḥ । mṛgā hi vayamanabhyastamānusopacāraśāṭhyāḥ । api ca ।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2217 | label: grammar | g:0.75 m:0.5 ---
+
+siṃha uvāca - sādho pakṣivara na me śramajātamidamasvāsthyaṃ rujayā vyādheṣuṇā vā । idaṃ tvasthiśakalaṃ galāntare vilagnaṃ śalyamiva māṃ bhṛśaṃ dunoti । na hyenacchaknomya bhyavahartumudgarituṃ vā । tadeṣa kālaḥ suhṛdām । yathedānīṃ jānāsi, tathā māṃ sukhinaṃ kuruṣveti ।

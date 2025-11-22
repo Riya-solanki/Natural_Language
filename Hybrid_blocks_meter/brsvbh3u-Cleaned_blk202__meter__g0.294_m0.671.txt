@@ -1,0 +1,6 @@
+--- source: brsvbh3u-Cleaned.txt | block: 202 | label: meter | g:0.294 m:0.671 ---
+
+vidyāyāmaśvaromādivatkiṃ bhavatvityākāṅkṣāyāṃ na tāvatprāyaścitteneva tadvilayasaṃbhavastathā satyaśvaromarāhudṛṣṭāntānupapatteḥ ।
+na jātvaśvaromarāhumukhayorvilayanamasti ।
+api tvaśvacandrābhyāṃ vibhāgaḥ ।
+naca naṣṭe

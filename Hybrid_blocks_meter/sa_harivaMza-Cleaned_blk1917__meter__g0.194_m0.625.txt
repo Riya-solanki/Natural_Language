@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1917 | label: meter | g:0.194 m:0.625 ---
+
+tāv ubhau jalagarbhasthau nārāyaṇapitāmahau 
+bahūn varṣagaṇān apsu śayānau na cakampatuḥ ।।

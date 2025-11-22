@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 504 | label: meter | g:0.25 m:0.667 ---
+
+dve bhārye sagarasyāstāṃ tapasā dagdhakilbiṣe 
+jyeṣṭhāvidarbhaduhitā keśinī nāma viśrutā । 
+kanīyasī tu yā tasya patnī paramadharmiṇī । 
+ariṣṭanemiduhitā rūpeṇāpratimā bhuvi । 
+aurvas tābhyāṃ varaṃ prādāt tan nibodha narādhipa ।।

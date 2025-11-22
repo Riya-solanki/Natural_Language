@@ -1,0 +1,4 @@
+--- source: brsgor3u-Cleaned.txt | block: 119 | label: grammar | g:0.605 m:0.375 ---
+
+siddhāntasūtram-pūrvavaddheti ।
+dharmabhedanaikadharmeṇa vā bhedābhedasvīkāre bhedasya satyatvādabhedavadanivṛttiḥ syāt ekatraiva bhedābhedasvīkāre loke virodhakathoccheda ityapi draṣṭavyaṃ, tasmāt niṣprapañcaṃ cidekarasaṃ brahma tatpadalakṣyamastīti siddham ।। ।।

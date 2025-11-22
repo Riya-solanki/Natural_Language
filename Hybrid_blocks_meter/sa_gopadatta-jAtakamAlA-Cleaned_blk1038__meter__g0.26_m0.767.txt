@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1038 | label: meter | g:0.26 m:0.767 ---
+
+sālokaṃ bhuvanatrayaṃ narapate saddharmavāgaṃśubhir
+yāvad buddhadivākarasya vilasatkīrtiprabhāmālinaḥ ।
+niryātuṃ vyasanāndhakārapaṭalacchannāntarālād bhavāt
+tāvan nyāyyam ataḥ purā hy atimahat paryeti ghoraṃ tamaḥ ।।

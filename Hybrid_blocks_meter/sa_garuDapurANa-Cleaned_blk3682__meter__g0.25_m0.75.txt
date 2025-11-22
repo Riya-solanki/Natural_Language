@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3682 | label: meter | g:0.25 m:0.75 ---
+
+somavāre caturthyāṃ ca samupoṣyārcayedgaṇam ।
+japañjuhvatsmaranvidyā svargaṃ nirvāṇatāṃ vrajet ।।

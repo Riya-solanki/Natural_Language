@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 13 | label: grammar | g:0.75 m:0.5 ---
+
+[] sarvā ūcuḥ-nātrāpy anyathā manyasva । gopa-kula-tilakāyamāna-bālakānāṃ sa eṣa eva svabhāvaḥ sarvatra nābhāvam āsīdati । kim uta teṣv api parama-citra-caritrasya tasya iti ।

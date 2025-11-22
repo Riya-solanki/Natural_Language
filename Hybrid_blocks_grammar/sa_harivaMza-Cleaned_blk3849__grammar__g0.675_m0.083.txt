@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3849 | label: grammar | g:0.675 m:0.083 ---
+
+nikṛttaśatruṃ kāliṅgaṃ gāndhārādhipatiṃ tathā 
+paṭuśaṃ ca mahābāhuṃ kāśyādhipatim eva ca ।। 
+sabhārhān sakalān sarvān dhārtarāṣṭrān mahābalān । vindānuvindāv āvantyau bāhlikān saha bāhlikaiḥ ।। saṃśaptakās tu te sarve āsyandā yavanās tathā । yavanasya sutaś cāpi ārṣāyaṇas tathā śakāḥ ।। svabhāvaś candrahāsaś ca pārasīkās tathāpare । virāṭo drupadaś caiva jayadrathavidūrathau । bhagadatto mahāsenaḥ śalaḥ śālvo mahābalaḥ । bhūriśravā mahāsenaḥ kuntibhojaś ca vīryavān ।। akṣauhiṇīnāṃ ṣaṣṭiṃ ca saptādhikadaśānugāḥ । svayaṃvarārthaṃ saṃprāptā bhojarājaniveśane । 
+kasmin deśe nṛpo jajñe rukmī vedavidāṃ vara 
+kasyāṇvavāye dyutimān saṃbhūto dvijasattama ।।

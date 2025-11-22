@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 275 | label: meter | g:0.217 m:0.845 ---
+
+pūrvakarmaviśuddhasya śaktipātaḥ sunirmalaḥ 
+tīvraśaktinipāto asya śīghram eva prapadyate ।।

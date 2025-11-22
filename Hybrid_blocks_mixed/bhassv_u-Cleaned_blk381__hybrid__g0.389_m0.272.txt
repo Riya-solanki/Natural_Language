@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 381 | label: hybrid | g:0.389 m:0.272 ---
+
+{rājā} - padmāvati kiṃ śrutaṃ mahāsenasya sakāśād raibhyasagotraḥ kāñcukīyaḥ prāptas tatrabhavatyā cāṅgāravatyā preṣitāryā vasundharā nāma vāsavadattādhātrī ca pratihāram upasthitāv iti 
+{padmāvatī} - ayyautta piaṃ me ñādikuḷassa kusaḷavuttantaṃ soduṃ 
+[āryaputra priyaṃ me jñātikulasya kuśalavṛttāntaṃ śrotum । ]

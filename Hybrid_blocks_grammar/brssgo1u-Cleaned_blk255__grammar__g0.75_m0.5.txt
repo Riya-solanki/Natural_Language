@@ -1,0 +1,3 @@
+--- source: brssgo1u-Cleaned.txt | block: 255 | label: grammar | g:0.75 m:0.5 ---
+
+nanu sahāpi viṣayairindriyāṇāṃ svāpaprabodhayoḥ prāṇe apyayaṃ prāṇācca prabhavaṃ śṛṇumaḥ- ayadā suptaḥsvapnaṃ na kañcana paśyatyathāsminprāṇa evaikadhā bhavati tadainaṃ vāksarvairnāmabhiḥ sahāpyeti' iti ।

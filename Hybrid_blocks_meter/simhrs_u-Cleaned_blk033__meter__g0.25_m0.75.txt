@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 33 | label: meter | g:0.25 m:0.75 ---
+
+vindhya-śrī-śaila-madhya-kṣmā-maṇḍalaṃ pālayan sutaiḥ ।
+vaṃśa-pravartakair arthān bhuṅkte bhoga-purandaraḥ ।।

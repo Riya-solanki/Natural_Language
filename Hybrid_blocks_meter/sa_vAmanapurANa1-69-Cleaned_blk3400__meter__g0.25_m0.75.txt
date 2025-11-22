@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3400 | label: meter | g:0.25 m:0.75 ---
+
+tasyopari mahāpuryastvaṣṭau lokapatīstathā ।
+teṣāmātuḥ sa dadṛśe mṛgapakṣigaṇairvṛtam ।।

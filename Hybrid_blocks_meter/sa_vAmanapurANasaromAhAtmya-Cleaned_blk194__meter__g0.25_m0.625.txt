@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 194 | label: meter | g:0.25 m:0.625 ---
+
+devadevaṃ mahābhāgaṃ vāsudevamajaṃ vibhum ।
+tvāmṛte pāpasaṅkalpa ko anya evaṃ vadiṣyati ।।

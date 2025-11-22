@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 742 | label: meter | g:0.056 m:0.729 ---
+
+kiṃ nas tapaḥ pūrtam aśeṣa-sauhṛdam
+dattaṃ tatheṣṭaṃ hari-tuṣṭaye' jani ।
+rakṣo-gṛhītaḥ punar eṣa bālakaḥ
+svayaṃ sva-bandhūn sukhayan yad āgataḥ ।। [upajāti ]

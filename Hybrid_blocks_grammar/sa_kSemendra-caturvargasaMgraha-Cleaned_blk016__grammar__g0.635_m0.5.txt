@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 16 | label: grammar | g:0.635 m:0.5 ---
+
+prāṇāṇāṃ parirakṣaṇāya satataṃ sarvāḥ kriyāḥ prāṇiṇāṃ prāṇebhyo apy adhikaṃ samastajagatāṃ nasty eva kiṃcit priyam ।
+puṇyaṃ tasya na śakyate gaṇayituṃ yaḥ pūrṇakāruṇyavān prāṇānām abhayaṃ dadāti sukṛtī teṣām ahiṃsāvrataḥ ।।

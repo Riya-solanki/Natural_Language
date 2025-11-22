@@ -1,0 +1,9 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6253 | label: meter | g:0.253 m:0.555 ---
+
+।
+upasthitapracupitaṃ prathame aghrau masau jabhau ।
+gau dvitīye sanajarā gastṛtīye nanau ca saḥ ।
+nau najau yaścaturthe syāccheṣa pādāśca pūrvavat ।।
+tṛtīrye aghrau viśeṣaśca vṛttaṃ syānnau sanau nasau ।।
+ārṣabhaṃ tajarāḥ pāde tṛtīye anyacca pūrvavat ।
+pūrvavatprathamaṃ śeṣe tajrāḥ śuddhavirāḍbhavet ।।

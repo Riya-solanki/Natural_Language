@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 85 | label: meter | g:0.194 m:0.5 ---
+
+parasya brahmaṇo rūpaṃ puruṣaḥ prathamaṃ dvija 
+vyaktāvyakte tathaivānye rūpe kālas tathāparam ।।

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11408 | label: meter | g:0.25 m:0.5 ---
+
+kadā drakṣye śrīnivāsasya kaṇṭhaṃ maharlokasyāśrayaṃ kaṃbutulyam ।
+kadā drakṣye śrīnivāsasya nābhiṃ sadāntarikṣasyāśrayaṃ vai supūrṇam ।।
+kadā drakṣye vadanaṃ vai murārerjanalokasyāśrayaṃ sarvadaiva ।।
+śiraḥ kadā śrīnivāsasya drakṣye satyasya lokasyāśrayaṃ sarvadaiva ।
+kaṭiṃ kadā śrīnivāsasya drakṣye bhūrlokasyāśrayaṃ sarvadaiva ।।

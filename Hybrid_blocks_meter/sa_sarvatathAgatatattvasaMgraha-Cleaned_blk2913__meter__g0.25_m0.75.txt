@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2913 | label: meter | g:0.25 m:0.75 ---
+
+sarvākāśasamādhistu bhāvayan susamāhitaḥ ।
+hṛnmudrāmantravidyāsu sādhayan sarvago bhaved ।।

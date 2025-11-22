@@ -1,0 +1,10 @@
+--- source: simhrs_u-Cleaned.txt | block: 1898 | label: meter | g:0.25 m:0.979 ---
+
+atha vyāyogaḥ-
+khātetivṛtta-sampanno niḥsahāyaka-nāyakaḥ ।
+yukto daśāvaraih khyātair uddhataiḥ pratināyakaiḥ ।। 
+vimarśa-garbha-rahito bhāraty-ārabhaṭī-sphuṭaḥ ।
+hāsya-śṛṅgāra-rahita ekāṅko raudra-saṃśrayaḥ ।। 
+eka-vāsara-vṛttāntaḥ prāpta-viṣkambha-cūlikaḥ ।
+astrī-nimitta-samaro vyāyogaḥ kathito budhaiḥ । 
+vijñeyam asya lakṣyaṃ tu dhanañjaya-jayādikam ।।

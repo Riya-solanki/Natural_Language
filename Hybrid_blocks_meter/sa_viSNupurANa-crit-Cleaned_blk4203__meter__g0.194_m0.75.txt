@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4203 | label: meter | g:0.194 m:0.75 ---
+
+dravyāvayavanirdhūtaṃ kṣaṇamātreṇa tat tadā 
+kākabhāsasamākīrṇaṃ vrajasthānam abhūd dvija ।।

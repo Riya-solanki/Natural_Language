@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3097 | label: meter | g:0.194 m:0.625 ---
+
+hārārheṇa ca pīnena suvistīrṇena vakṣasā 
+dvābhyāṃ bhujābhyāṃ dīrghābhyāṃ vṛttābhyām upaśobhitaḥ ।।

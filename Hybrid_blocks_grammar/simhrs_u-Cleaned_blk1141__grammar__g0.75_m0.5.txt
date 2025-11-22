@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1141 | label: grammar | g:0.75 m:0.5 ---
+
+na tāvat tiraścāṃ vibhāvatam upapadyate । śṛṅgāre hi samujjvalasya śucino darśanīyasyaiva vastuno muninā vibhāvatvenāmnātam । tiraścam udvartana-majjanākalpa-racanādy-abhāvād ujjvala-śuci-darśanīyatvānām asambhāvanā prasiddhaiva ।

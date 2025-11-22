@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4473 | label: meter | g:0.25 m:0.5 ---
+
+yan mayābhihito hy eṣa tvam āścaryaṃ janārdana 
+dhanyaś cāsīti bhavatāṃ madhyastho hy atra pārthivāḥ ।।

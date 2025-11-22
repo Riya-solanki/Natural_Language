@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 305 | label: meter | g:0.333 m:0.5 ---
+
+lakṣaṇāni saṃkṣepeṇa lakṣaṇasya pratipādanam abhisamayālaṅkāre ekayā kārikayā kṛtam । tathā hi -

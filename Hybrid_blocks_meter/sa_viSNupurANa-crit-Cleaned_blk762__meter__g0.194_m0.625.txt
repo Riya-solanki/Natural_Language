@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 762 | label: meter | g:0.194 m:0.625 ---
+
+sūryāt somāt tathā bhaumāt somaputrād bṛhaspateḥ 
+sitārkatanayādīnāṃ sarvarkṣāṇāṃ tathā dhruva ।।

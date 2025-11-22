@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 70 | label: meter | g:0.246 m:0.806 ---
+
+tattrāṇādvyañjanāccāpi sa tatpuruṣavaktrakaḥ 
+hṛdayaṃ bodhaparyāyaḥ so asyāghoraḥ śivo yataḥ ।।

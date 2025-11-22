@@ -1,0 +1,7 @@
+--- source: brssgo2u-Cleaned.txt | block: 875 | label: grammar | g:0.595 m:0.406 ---
+
+nanu sarvaśabdo apyatra paṭhyate, tatkathaṃ saptanāmeva gatiḥ pratijñāyata iti ।
+viśeṣitatvādityāha ।
+saptaiva hi prāṇāścakṣurādayastvakparyantā viśeṣitā iha prakṛtāḥ asa yatraiva cākṣuṣaḥ puruṣaḥ parāṅparyāvartate athārūpajño bhavati' aekībhavati na paśyatītyāhuḥ' ityevamādinānukramaṇena ।
+prakṛtagāmī ca sarvaśabdo bhavati yathā sarve brāhmaṇā bhojayitavyā iti ye nimantritāḥ prakṛtā brāhmaṇāsta eva sarvaśabdenocyante nānye ।
+evamihāpi ye prakṛtāḥ sapta prāṇāsta eva sarvaśabdenocyante nānya iti ।

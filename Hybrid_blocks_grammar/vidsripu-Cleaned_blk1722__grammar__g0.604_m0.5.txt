@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1722 | label: grammar | g:0.604 m:0.5 ---
+
+retaḥśoṇitayor iyaṃ pariṇatir yad varṣma tac cābhavan mṛtyor āmiṣam āspadaṃ guruśucāṃ rogasya viśrāmabhūḥ ।
+jānann apy avaśī vivekavirahān majjann avidyāmbudhau śṛṅgārīyati putrakāmyati bata kṣetrīyati strīyati ।।

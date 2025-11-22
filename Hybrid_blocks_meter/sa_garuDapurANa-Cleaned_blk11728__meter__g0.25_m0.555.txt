@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11728 | label: meter | g:0.25 m:0.555 ---
+
+etaddānaphalaṃ prāpya modate viṣṇumandire ।
+pūrvauktā mūrtayo yasmin gṛhe tiṣṭhanti bhāmini ।
+bhāgīrathī tīrthavarā saṃnidhatte na saṃśayaḥ ।।

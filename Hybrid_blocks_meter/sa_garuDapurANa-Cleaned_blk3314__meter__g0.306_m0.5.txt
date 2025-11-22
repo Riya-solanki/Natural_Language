@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3314 | label: meter | g:0.306 m:0.5 ---
+
+yasya satyañca śaucañca tasya svargo na durlabhaḥ ।
+satyaṃ hi vacanaṃ yasya so aśvamedhādviśiṣyate ।।

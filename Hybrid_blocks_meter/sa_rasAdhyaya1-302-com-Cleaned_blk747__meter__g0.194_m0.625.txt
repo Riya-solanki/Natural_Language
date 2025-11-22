@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 747 | label: meter | g:0.194 m:0.625 ---
+
+yā bhūmyā mardakī tasyā mṛdupattrāṇi vartayet 
+tatpiṇḍyāntar vinikṣipya hīrakān kurugolakam ।।

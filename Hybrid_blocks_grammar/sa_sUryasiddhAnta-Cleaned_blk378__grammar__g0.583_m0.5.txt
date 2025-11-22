@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 378 | label: grammar | g:0.583 m:0.5 ---
+
+prakāśātmā tamohantā mahān ity eṣa viśrutah। ṛco asya maṇḍalaṃ sāmānyustrāmūrtir yajūṃṣi ca।।

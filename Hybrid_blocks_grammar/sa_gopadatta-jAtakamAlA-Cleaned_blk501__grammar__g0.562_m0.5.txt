@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 501 | label: grammar | g:0.562 m:0.5 ---
+
+etad bhāsuravahnipiṅgalaśikhājvālākalāpojjvalaṃ ko anyo avabhramitaṃ prayāsyati samaṃ chittvā paraḥ caiṣyati ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3387 | label: meter | g:0.306 m:0.5 ---
+
+tasmād yathā surapatiḥ śakraḥ syāt surarāḍiha ।
+yathā ca na mama kleśastathā kuru janārdana ।।

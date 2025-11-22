@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1402 | label: meter | g:0.306 m:0.5 ---
+
+nākasmikaṃ bhavitumarhati sarvametadastyatra sarvamadhi kaścidananta ekaḥ ।
+svecchāviśeṣaniyamādya imaṃ vicitraṃ lokaṃ karoti ca punaśca samīkaroti ।।

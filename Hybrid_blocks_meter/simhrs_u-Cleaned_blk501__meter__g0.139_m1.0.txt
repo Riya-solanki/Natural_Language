@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 501 | label: meter | g:0.139 m:1.0 ---
+
+santoṣeṇa, yathā-
+ānandajaḥ śokajam aśru bāṣpas
+tayor aśītaṃ śiśiro bibheda ।
+gaṅgā-sarayvor jalam uṣṇa-taptaṃ
+himādri-niṣyanda ivāvatīrṇaḥ ।।

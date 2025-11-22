@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2956 | label: meter | g:0.26 m:0.5 ---
+
+chinnāśas tvaṃ vṛthāvṛddha mithyā hy evaṃ vicāritam 
+jijīviṣur na sa hy asti yo hi tiṣṭhen mamāgrataḥ ।।

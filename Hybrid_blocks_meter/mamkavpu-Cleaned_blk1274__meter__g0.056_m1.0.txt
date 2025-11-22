@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1274 | label: meter | g:0.056 m:1.0 ---
+
+{jyotsnābhasmacchuraṇadhavalā bibhratī tārakāsthī-
+nyantardhānavyasanarasikā rātrikāpālikīyam ।
+dvīpād dvīpaṃ bhramati dadhatī candramudrākapāle
+nyastaṃ siddhāñjanaparimalaṃ lāñchanasyacchalena ।।}

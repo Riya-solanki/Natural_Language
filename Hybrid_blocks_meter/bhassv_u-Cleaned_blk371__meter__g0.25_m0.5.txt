@@ -1,0 +1,3 @@
+--- source: bhassv_u-Cleaned.txt | block: 371 | label: meter | g:0.25 m:0.5 ---
+
+api ca asnigdhāsi ghoṣavati yā tapasvinyā na smarasi

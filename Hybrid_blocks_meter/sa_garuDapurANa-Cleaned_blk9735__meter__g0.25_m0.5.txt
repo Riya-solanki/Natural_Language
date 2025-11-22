@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9735 | label: meter | g:0.25 m:0.5 ---
+
+brāhmaṇāti kramo nāsti vipre vidyāvivarjite ।
+jvalantamagnimutsṛjya na hi bhasmani hūyate ।।

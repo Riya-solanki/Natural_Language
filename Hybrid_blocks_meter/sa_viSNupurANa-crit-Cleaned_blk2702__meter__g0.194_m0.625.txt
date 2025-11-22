@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2702 | label: meter | g:0.194 m:0.625 ---
+
+brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca yathākramam 
+tvam ekāgramanā bhūtvā śṛṇu dharmān mayoditān ।।

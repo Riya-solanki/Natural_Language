@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1655 | label: meter | g:0.26 m:0.85 ---
+
+hariruvāca ।
+kṛttikāstvagnidevatyā rohiṇyo brahmaṇaḥ smṛtāḥ ।
+ilvalāḥ somadevatyā raudraṃ cārdramudāhṛtam ।।

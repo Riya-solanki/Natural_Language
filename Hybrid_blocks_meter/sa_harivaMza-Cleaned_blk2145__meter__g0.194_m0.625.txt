@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2145 | label: meter | g:0.194 m:0.625 ---
+
+niṣasādāsane tasmin sa vai śakrasakho muniḥ 
+uvāca cograsenasya sutaṃ paramakopanam ।।

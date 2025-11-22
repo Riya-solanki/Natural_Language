@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4931 | label: meter | g:0.194 m:0.75 ---
+
+tato astrabalavegena sārciṣmatyaḥ sudāruṇāḥ 
+ghorarūpā mahāvegā niṣpetur bāṇavṛṣṭayaḥ ।।

@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 644 | label: hybrid | g:0.39 m:0.5 ---
+
+[] tad evaṃ dina-śata-pūraṇam adūratām anujasyāgrajasya tu tasmād apy adūratāṃ labdham ।
+samyaṅ mātuḥ paricitir abhūd yatra kiñcit pituś ca
+prāptaḥ so' yaṃ svasadana-janaḥ kiṃ na vetthaṃ matiś ca ।
+tasmin bālye valayati tayoḥ kāpi śobhā sudhābdhi
+prakhyā goṣṭhaṃ bhūvanam api sā vīcibhiḥ siñcati sma ।। [mandākrāntā]

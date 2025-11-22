@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 46 | label: meter | g:0.194 m:0.625 ---
+
+saṃjīvanaṃ na dagdhasya karmaṇo asti mṛṣā citaḥ
+khedanāpāyaśamanaṃ prāyaścittaṃ hi tadguroḥ ।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1128 | label: meter | g:0.306 m:0.5 ---
+
+ity ādiṣṭā bhagavatā labdha-kāmāḥ kumārikāḥ ।
+dhyāyatyas tat-padāmbhojaṃ kṛcchrān nirviviśur vrajam ।।[] iti ।

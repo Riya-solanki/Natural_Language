@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1138 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhukaṇṭha uvāca-stava-paryāvasāne khalu nija-rūpa-rūpatayā sarva-paryāptimadbhir api paścād āvirbhūtavadbhir bālādibhiḥ paritoṣa-poṣam amanyamānaḥ sa dhanyaḥ svajana-prema-jitaḥ śrīmān ajitas tān vraja-bālādīn evānetuṃ yadā vāñchām ānañca, tadāñjali-bandha-vyañjitāṃ sañjñām anu samanujñāṃ yācamānaṃ viriñciṃ khalv evaṃ lambhita-tad-upālambha-narma-smitam anujñāpayāmāsa-yadi tatra-bhavatām ājñā vijñāyate, tadā tān pūrvam evānusaṃhitān sannihitān ānayāmi iti ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1285 | label: meter | g:0.194 m:0.5 ---
+
+prāṇo asya prathamaṃ sthānaṃ vardhayan parivartate 
+apānaḥ paścimaṃ kāyam udānordhvaṃ śarīriṇaḥ ।।

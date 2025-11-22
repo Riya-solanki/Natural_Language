@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 496 | label: grammar | g:0.604 m:0.5 ---
+
+bhedaḥ catvāro asya bhedā bhavanti, yathā - svabhāvakāyaḥ, jñānadharmakāyaḥ, sambhogakāyaḥ, nirmāṇakāyaśceti catvāraḥ ।

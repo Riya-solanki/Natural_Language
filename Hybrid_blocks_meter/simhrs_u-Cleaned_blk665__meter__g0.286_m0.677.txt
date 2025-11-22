@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 665 | label: meter | g:0.286 m:0.677 ---
+
+atha vitarkaḥ-
+ūho vitarkaḥ sandeha-vimarṣa-pratyayādibhiḥ ।
+janito nirṇayāntaḥ syād asatyaḥ satya eva vā । 
+tatrānubhāvāḥ syur amī bhrū-śiraḥ- ksepaṇādayaḥ ।।

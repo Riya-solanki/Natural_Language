@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 192 | label: meter | g:0.251 m:0.623 ---
+
+namas te sarvabhūtāya tubhyaṃ śaṅkhagadādhara 
+mām uddharāsmād adya tvaṃ tvatto ahaṃ pūrvam utthitā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4345 | label: meter | g:0.25 m:0.75 ---
+
+ityevamukte vacane vāmanena mahāsuraḥ ।
+balirbhṛṅgāramādāya dadau viṣṇoḥ kramatrayam ।।

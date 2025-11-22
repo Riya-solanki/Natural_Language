@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 988 | label: grammar | g:0.708 m:0.5 ---
+
+atha vajrapāṇirmahākāruṇika idaṃ sarvasatvamaraṇanimittajñānamudrāhṛdayamabhāṣat oṃ vajra pratigṛhaṇa hṛdayamākarṣaya, yadyayaṃ satvo māṃsādatvena mriyate, tadasya hṛdayanniṣkramatu, samaya huṃ jjaḥ ।।

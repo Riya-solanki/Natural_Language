@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 218 | label: meter | g:0.0 m:1.0 ---
+
+autsukyaviśvasitanāmaikādaśaṃ stotram

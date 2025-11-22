@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10096 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ śriyaṃ tato vāyuṃ bhāratīṃ ca tataḥ param ।
+ante vyāsaṃ kimarthaṃ ca tvaṃ namaskṛtavānasi ।
+sūtasūta mahābhāga brūhi kāraṇamatra ca ।।

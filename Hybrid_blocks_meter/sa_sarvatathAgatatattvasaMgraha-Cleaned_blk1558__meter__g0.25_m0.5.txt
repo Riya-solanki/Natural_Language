@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1558 | label: meter | g:0.25 m:0.5 ---
+
+saurvarṇarājate vāpi mṛṇmaye vā sucitrite ।
+iṣṭake tu caturaśre tu buddhabimbaṃ niveśayet ।।

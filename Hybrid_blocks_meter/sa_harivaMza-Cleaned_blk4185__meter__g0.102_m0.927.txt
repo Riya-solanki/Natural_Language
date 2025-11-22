@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4185 | label: meter | g:0.102 m:0.927 ---
+
+maṇistambhasahasrāṇām ayutair vidhṛtaṃ sitam 
+toraṇair jvalanaprakhyair maṇividrumarājataiḥ 
+tatra tatra prabhāsadbhiś citrakāñcanavedikaiḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 161 | label: hybrid | g:0.375 m:0.5 ---
+
+vārtā pravṛttirvṛttānta udantaḥ syādathāhvayaḥ ākhyāhve abhidhānaṃ ca nāmadheyaṃ ca nāma ca hūtirākāraṇāhvānaṃ saṃhūtirbahubhiḥ kṛtā

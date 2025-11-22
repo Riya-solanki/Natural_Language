@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 503 | label: meter | g:0.194 m:0.625 ---
+
+sagarasyātmajā vīrāḥ kathaṃ jātā mahābalāḥ 
+vikrāntāḥ ṣaṣṭisāhasrā vidhinā kena vā dvija ।।

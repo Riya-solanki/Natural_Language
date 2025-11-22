@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1993 | label: meter | g:0.102 m:0.695 ---
+
+saṃvatsaras tu prathamo dvitīyaḥ parivatsaraḥ 
+idvatsaras tṛtīyas tu caturthaś cānuvatsaraḥ 
+vatsaraḥ pañcamaś cātra kālo ayaṃ yugasaṃjñitaḥ ।।

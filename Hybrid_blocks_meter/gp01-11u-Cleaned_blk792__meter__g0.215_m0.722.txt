@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 792 | label: meter | g:0.215 m:0.722 ---
+
+gokuleṣu kila śīlam īdṛśaṃ
+yad divā vanam ayanti gonarāḥ ।
+yoṣitaḥ pracura-gavya-saṃskriyāṃ
+krīḍanaṃ rahasi bāla-tarṇakāḥ ।। [rathoddhatā] iti ।

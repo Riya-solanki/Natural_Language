@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 55 | label: meter | g:0.102 m:0.5 ---
+
+ūruḥ pūruḥ śatadyumnas tapasvī satyavit kaviḥ 
+agniṣṭud atirātraś ca sudyumnaś ceti tenava 
+abhimanyuś ca daśamo naḍvalāyāṃ mahaujasaḥ ।।

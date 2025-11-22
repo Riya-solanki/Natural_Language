@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1402 | label: hybrid | g:0.5 m:0.5 ---
+
+atrevārthe vatiḥ । guṇaśabdaḥ śliṣṭaḥ । śābdamaupamyam ।।

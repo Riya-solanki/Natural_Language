@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4309 | label: meter | g:0.194 m:0.5 ---
+
+yathāhaṃ bhavatā sṛṣṭo jātyā rūpeṇa ceśvara 
+svabhāvena ca saṃyuktas tathedaṃ ceṣṭitaṃ mayā ।।

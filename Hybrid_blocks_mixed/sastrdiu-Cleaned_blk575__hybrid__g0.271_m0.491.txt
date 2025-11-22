@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 575 | label: hybrid | g:0.271 m:0.491 ---
+
+yāni punaritikartavyatāviśeṣayuktānyupāsanātmakāni vidhīyante teṣāṃ kratau dṛṣṭopayogābhāvādadṛṣṭaphalatvam ।
+adṛṣṭaṃ ca phalaṃ vākyaśeṣāddvividhaṃ abhyudayarūpaṃ niḥśreyasarūpaṃ ca, sarvankāmānāpnoti so aśnute sarvānkāmān ityādyabhyudayaphalam ।
+na sa punarāvartate ityādi niḥśreyasaphalamiti vivekaḥ ।।

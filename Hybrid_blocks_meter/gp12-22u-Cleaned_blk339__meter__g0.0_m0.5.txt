@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 339 | label: meter | g:0.0 m:0.5 ---
+
+[] evaṃ śrī-kṛṣṇasya ca tadīya-pracariṣṇu-tat-tad-guṇa-bhaviṣṇu-tṛṣṇasya bhāva-ramyatā gamyatām-

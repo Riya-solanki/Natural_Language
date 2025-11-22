@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 158 | label: meter | g:0.25 m:0.625 ---
+
+śuddhatāmrasya catvāri palānyāvartayet pṛthak ।
+thūthāpalāni catvāri mākṣikaṃ ca catuḥpalam ।।
+palāṣṭānāṃ kṛtaṃ cūrṇaṃ stoke stokena prakṣipet ।
+tāmraśeṣaṃ bhavedyāvadrājirmākṣīkajā matā ।।

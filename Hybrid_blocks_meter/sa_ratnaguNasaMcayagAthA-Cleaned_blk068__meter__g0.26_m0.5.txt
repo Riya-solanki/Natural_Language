@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 68 | label: meter | g:0.26 m:0.5 ---
+
+yāvanti gaṅganadivālikatulyakṣetre tāvanti sattva arahanti vineya kaścit 
+yaścaiva prajña ima pāramitā likhitvā parasattvi pustaku dadeya viśiṣṭapuṇyaḥ ।।

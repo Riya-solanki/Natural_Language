@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 26 | label: meter | g:0.022 m:0.97 ---
+
+caturthe adhyāyaḥ
+prakaraṇa

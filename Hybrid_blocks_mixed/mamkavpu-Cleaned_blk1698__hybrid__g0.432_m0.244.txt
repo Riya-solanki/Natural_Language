@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1698 | label: hybrid | g:0.432 m:0.244 ---
+
+tadayamanugrāhyānugrāhakatayā saṃdehena ekapadapratipādyatayā ca vyavasthitatvāttriprakāra eva saṃkaro vyākṛtaḥ । prakārāntareṇa tu na śakyo vyākartum ānantyāttatprabhedānāmiti pratipāditāḥ
+śabdārthobhayagatatvena trividhyajuṣo alaṅkārāḥ ।।

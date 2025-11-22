@@ -1,0 +1,4 @@
+--- source: tsc_simu-Cleaned.txt | block: 86 | label: meter | g:0.25 m:0.625 ---
+
+taccharīrasamutpannaiḥ kāryaistaiḥ kāraṇaiḥ saha ।
+kṣetrajñāḥ samajāyanta gātrebhyastasya dhīmataḥ ।। iti ।

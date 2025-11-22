@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4708 | label: meter | g:0.194 m:0.75 ---
+
+tataḥ kiṃkarasainyaṃ tu vyādiṣṭaṃ bhīmakarmaṇā 
+baleḥ putreṇa bāṇena vīreṇāmitraghātinā ।।

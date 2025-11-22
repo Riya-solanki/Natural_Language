@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7704 | label: meter | g:0.328 m:0.595 ---
+
+tripakṣe abhyudaye vāpi dvādaśāhe atha vā nṛṇām ।
+ānantyātkuladharmāṇāṃ puṃsāñcaivāyuṣaḥ kṣayāt ।।

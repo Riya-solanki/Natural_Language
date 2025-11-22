@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1094 | label: meter | g:0.194 m:0.5 ---
+
+mātā bālye pratisaravatīṃ veṇikāṃ yatra cakre
+yasmin kānto maṇimakarikāṃ yauvanāgre babandha ।
+vipraiḥ siktaṃ sukusumalavair yac ca śāntyambuleśaiḥ
+kaṣṭaṃ dhṛṣṭaḥ spṛśati balibhuk tac chiro adyāṅganāyāḥ ।।

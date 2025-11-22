@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3467 | label: grammar | g:0.583 m:0.5 ---
+
+na sā sabhā yatra na santi vṛddhāḥ vṛddhā na te ye na vadanti dharmam ।
+dharmaḥ sa no yatra na satyamasti naitatsatyaṃ yacchalenānuviddham ।।

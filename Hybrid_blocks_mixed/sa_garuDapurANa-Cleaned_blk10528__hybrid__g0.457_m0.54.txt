@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10528 | label: hybrid | g:0.457 m:0.54 ---
+
+viśvāmitra uvāca ।
+na dhyāte caraṇāṃbuje bhagavato saṃdhyāpi nānuṣṭhitā jñānadvārakapāṭapāṭanapaṭurdharmopinopārjitaḥ ।
+antarvyāphamalābhighātakaraṇe paṭvī śrutā te kathā no deva śravaṇena pāhi bhagavanmāmatritulyaṃ sadā ।।

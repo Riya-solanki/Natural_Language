@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 338 | label: meter | g:0.306 m:0.5 ---
+
+sukhopapannānparibhūya bhogāṃcchokākulaṃ bandhujanaṃ ca hitvā ।
+na hetunālpena hi yānti dhīrāḥ sukhoparodhīni tapovanāni ।।

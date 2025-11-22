@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 396 | label: meter | g:0.25 m:0.5 ---
+
+revasya raivataḥ putraḥ kakudmī nāma dhārmikaḥ 
+jyeṣṭhaḥ putraśatasyāsīd rājyaṃ prāpya kuśasthalīm ।। 
+tasya putraśataṃ tv āsīt kanyā cāpikurūdvaha । 
+sa kanyāsahitaḥ śrutvā gāndharvaṃ brahmaṇo antike 
+muhūrtabhūtaṃ devasya martyaṃ bahuyugaṃ prabho ।।

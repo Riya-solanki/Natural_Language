@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2776 | label: meter | g:0.194 m:0.625 ---
+
+brahmacaryeṇa vā kālaṃ kuryāt saṃkalpapūrvakam 
+guroḥ śuśrūṣaṇaṃ kuryāt tatputrāder athāpi vā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4242 | label: meter | g:0.194 m:0.625 ---
+
+dadṛśus tāṃ priyāṃ madhye bhaginīṃ rāmakṛṣṇayoḥ 
+rukmapadmakaravyagrāṃ śriyaṃ padmālayām iva ।।

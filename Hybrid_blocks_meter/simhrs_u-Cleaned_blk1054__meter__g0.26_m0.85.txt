@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1054 | label: meter | g:0.26 m:0.85 ---
+
+atha saṅkīrṇaḥ-
+saṅkīrṇas tu parādhīna vyalīka-maraṇādibhiḥ । 
+saṅkīryamāṇaḥ sambhogaḥ kiñcit puṣpeṣu-peśalaḥ ।।

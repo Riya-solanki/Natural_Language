@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2321 | label: meter | g:0.25 m:0.625 ---
+
+ravipāde piṇḍadānātpatitoddhāraṇaṃ bhavet ।
+gayāstho yo dadātyannaṃ pitarastena putriṇaḥ ।।

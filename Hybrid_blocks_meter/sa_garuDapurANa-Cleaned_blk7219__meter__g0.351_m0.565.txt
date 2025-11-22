@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7219 | label: meter | g:0.351 m:0.565 ---
+
+na yatra māyā nāśaśca na cai rāgādayo malāḥ ।
+śyāmāvadātāḥ surucaḥ śatapatravilocanāḥ ।।

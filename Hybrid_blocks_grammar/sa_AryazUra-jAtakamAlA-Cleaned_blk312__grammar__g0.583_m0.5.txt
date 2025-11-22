@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 312 | label: grammar | g:0.583 m:0.5 ---
+
+atha śakrastatkarmātiśayavikhyāpanārthaṃ lokahitāvekṣī śaśabimbalakṣaṇena vaijayantasya prāsādavarasya sudharmāyāśca devasabhāyāḥ kūṭāgārakarṇike candramaṇḍalaṃ cābhyalaṃcakāra ।

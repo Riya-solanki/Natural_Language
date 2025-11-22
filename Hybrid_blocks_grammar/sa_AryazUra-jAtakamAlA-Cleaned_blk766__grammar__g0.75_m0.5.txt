@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 766 | label: grammar | g:0.75 m:0.5 ---
+
+tadevamātmalajjayaiva satpuruṣā nācāravelāṃ laṅghayantīti hrībalenāryeṇa bhavitavyam । evaṃ hrīparikhāsampanna āryaśrāvako akuśalaṃ prajahāti kuśalaṃ ca bhāvayatītyevamādiṣu sūtreṣūpaneyam । hrīvarṇapratisaṃyukteṣu lokādhipateyeṣu ceti ।

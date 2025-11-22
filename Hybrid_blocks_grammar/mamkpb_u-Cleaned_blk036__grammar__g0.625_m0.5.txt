@@ -1,0 +1,3 @@
+--- source: mamkpb_u-Cleaned.txt | block: 36 | label: grammar | g:0.625 m:0.5 ---
+
+ihāgṛhītasaṃketasya śabdasyārthapratīterabhāvātsaṃketasahāya eva śabdo arthaviśeṣaṃ pratipādayatīti yasya yatrāvyavadhānena saṃketo gṛhyate sa tasya vācakaḥ ।

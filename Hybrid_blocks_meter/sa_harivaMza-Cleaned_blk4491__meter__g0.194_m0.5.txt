@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4491 | label: meter | g:0.194 m:0.5 ---
+
+śrutvāham evaṃ kṛṣṇasya tato avocaṃ narottama 
+māṃ niyojaya govinda rakṣiṣyāmi dvijaṃ bhayāt ।।

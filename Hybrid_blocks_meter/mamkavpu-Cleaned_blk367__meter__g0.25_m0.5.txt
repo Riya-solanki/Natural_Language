@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 367 | label: meter | g:0.25 m:0.5 ---
+
+{gāmāruhamhi hāme vasāmi ṇa-araṭṭhi-iṃ ṇa jāṇāmi ।
+ṇā-ari-āṇaṃ pa-iṇo haremi jā homi sā homi ।।}
+[grāmaruhāsmi grāme vasāmi nagarasthitiṃ na jānāmi ।
+nāgarikāṇāṃ patīn harāmi yā bhavāmi sā bhavāmi ।।]

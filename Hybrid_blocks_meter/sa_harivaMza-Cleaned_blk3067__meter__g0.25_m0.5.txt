@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3067 | label: meter | g:0.25 m:0.5 ---
+
+yasmāt tvayā hataḥ keśī tasmān macchāsanaṃ śṛṇu 
+keśavo nāma nāmnā tvaṃ khyāto loke bhaviṣyasi ।।

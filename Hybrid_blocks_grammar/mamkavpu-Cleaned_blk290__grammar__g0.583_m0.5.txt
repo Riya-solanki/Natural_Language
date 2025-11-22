@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 290 | label: grammar | g:0.583 m:0.5 ---
+
+atra niḥśvāsaiḥ prāptaiśvaryā vāyavaḥ kiṃ kiṃ na kurvantīti vastunā vastu vyajyate ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9857 | label: meter | g:0.306 m:0.5 ---
+
+brāhmaṇāya pratīśrutya yamārthaṃ na dadāti tam ।
+āhūya nāsti yo brūyāttasya vāsastu tatra vai ।।

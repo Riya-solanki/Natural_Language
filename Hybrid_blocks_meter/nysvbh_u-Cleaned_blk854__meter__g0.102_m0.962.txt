@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 854 | label: meter | g:0.102 m:0.962 ---
+
+ātmendriyasaṃnikarṣamātrād gandhādijñānamutpadyate
+iti nātrotpattikāraṇamapadiśyate yenaitat
+pratipadyemahīti ।।

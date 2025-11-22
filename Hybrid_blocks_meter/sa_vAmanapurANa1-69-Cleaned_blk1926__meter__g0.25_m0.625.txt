@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1926 | label: meter | g:0.25 m:0.625 ---
+
+athomā prāha tanayaṃ putra ehyehi śatruhan ।
+vandasva caraṇau divyau viṣṇorlokanamaskṛtau ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1089 | label: grammar | g:0.552 m:0.5 ---
+
+yuktaṃ tyajanti madhupāḥ sumanovināśa- kāle yad enam avanīruham etad astu ।
+etat tv adṛṣṭacaram aśrutavārtam etāḥ śākhātvaco api tanukāṇḍasamās tyajanti ।।

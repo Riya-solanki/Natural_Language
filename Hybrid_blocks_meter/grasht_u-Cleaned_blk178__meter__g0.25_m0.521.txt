@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 178 | label: meter | g:0.25 m:0.521 ---
+
+mercury māraṇa, compound with gold
+athavā gandhakapiṣṭiṃ paktvā drutagandhakasya madhye tu ।।
+sā cāpi hemapiṣṭirvipacyate gandhake bhūyaḥ ।
+itthaṃ hemnā sūto milati dvaṃdve tathā kṣaṇānmriyate ।।

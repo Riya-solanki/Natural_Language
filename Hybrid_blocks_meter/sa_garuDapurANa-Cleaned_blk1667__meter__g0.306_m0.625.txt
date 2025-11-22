@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1667 | label: meter | g:0.306 m:0.625 ---
+
+dvādaśyāṃ ca caturthyāṃ tu kaumārī nairṛte tathā ।
+yoginīsuṃmukhenaiva gamanādi na kārayet ।।

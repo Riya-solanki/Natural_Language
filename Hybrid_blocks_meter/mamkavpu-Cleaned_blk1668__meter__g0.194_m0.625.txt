@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1668 | label: meter | g:0.194 m:0.625 ---
+
+{so ṇatthi ettha gāme jo eaṃ mahamahantalāaṇṇaṃ ।
+taruṇāṇa hiaalūḍiṃ parisakkantīṃ ṇivārei ।।}
+[sa nāstyatra grāme ya enāṃ mahamahāyamānalāvaṇyām ।
+taruṇānāṃ hṛdayaluṇṭhākiṃ pariṣvakkamāṇāṃ nivārayati ।]

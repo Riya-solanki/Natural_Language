@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 867 | label: grammar | g:0.75 m:0.5 ---
+
+iṣṭaliṅge akṣasūtre vā [paśunā] adīkṣiteṇa dṛṣṭe sahasraṃ japet। spṛṣṭe tu [daśaguṇaṃ japed] ayutaṃ japyam। saṃkhyāsūtrasya ityakṣasūtrasya akasmād [guṇacchede] sūtrasya cchede hāritārthaṃ lakṣārdhaṃ doṣanut। [kaphaviṇmūtraspṛṣṭasya kaphādispṛṣṭasya tyāgaḥ kāryaḥ। anyatra taijasād iti hemādilohasya duṣṭasya tenaiva dravyeṇa punarghaṭanaṃ na tu tyāga iti। ayaṃ ca liṅgākṣasūtravidhiḥ sādhakādanyatrāpi vijñeyaḥ।।

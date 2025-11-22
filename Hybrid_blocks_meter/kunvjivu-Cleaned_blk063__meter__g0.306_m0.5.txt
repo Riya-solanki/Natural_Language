@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 63 | label: meter | g:0.306 m:0.5 ---
+
+sadyaḥ purīparisare api śirīṣamṛdvī gatvā javāttricaturāṇi padāni sītā ।
+gantavyamadya kiyadityasakṛd bruvāṇā rāmāśruṇaḥ kṛtavatī prathamāvatāram ।।

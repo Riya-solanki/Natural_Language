@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 6 | label: meter | g:0.056 m:0.75 ---
+
+rāsa-kelir ajaniṣṭa jāgaraṃ
+sa sphuṭaṃ bhavatu tat-kathā tathā ।
+kāraṇaṃ bhavati yasya yad-vidhaṃ
+tasya tad-vidhatayā matā sthitiḥ ।। [rathoddhatā]

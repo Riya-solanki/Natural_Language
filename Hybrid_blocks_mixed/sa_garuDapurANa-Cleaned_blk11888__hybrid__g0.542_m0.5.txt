@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11888 | label: hybrid | g:0.542 m:0.5 ---
+
+tadā hyalakṣmīḥ kutra palāyate asāvato mūlaṃ viṣṇupādaṃ bhajasva ।
+pate bhaja tvaṃ sarvadā vāyutattvaṃ na cāśrayestvaṃ sūkṣmaskandaṃ ca mūḍha ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2029 | label: meter | g:0.306 m:0.5 ---
+
+tvaksāranāgendratimiprasūtaṃ yacchaṅkhajaṃ yacca varā hajātam ।
+prāyo vimuktāni bhavanti bhāsā śastāni māṅgalyatayā tathāpi ।।

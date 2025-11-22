@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2057 | label: meter | g:0.194 m:0.625 ---
+
+saritsamudrabhaumās tu tathāpaḥ prāṇisaṃbhavāḥ 
+catuṣprakārā bhagavān ādatte savitā mune ।।

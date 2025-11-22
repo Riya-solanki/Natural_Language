@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 10 | label: meter | g:0.25 m:0.75 ---
+
+saptaitāni camatkārakāraṇaṃ bruvate budhāḥ ।
+guṇādīnāṃ vākyaśobhākṛtau sādharmyayogataḥ ।।

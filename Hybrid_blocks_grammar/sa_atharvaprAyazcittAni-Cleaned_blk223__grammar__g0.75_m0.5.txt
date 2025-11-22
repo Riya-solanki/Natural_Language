@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 223 | label: grammar | g:0.75 m:0.5 ---
+
+atha yasyāsamāpte karmaṇi yūpe dhvāṅkṣo nipatet tatra juhuyāt ā pavasva hiraṇyavad aśvāvat soma vīravat । vājaṃ gomantam ā bhara svāhā iti madhyata opya saṃsrāvabhāgaiḥ saṃsthāpayet ।

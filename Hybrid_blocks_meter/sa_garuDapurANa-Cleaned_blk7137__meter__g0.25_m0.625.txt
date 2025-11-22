@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7137 | label: meter | g:0.25 m:0.625 ---
+
+lokaprasiddhaṃ sthūlākhyaṃ śarīraṃ caraṇādimat ।
+pañcīkṛtāni bhūtāni tatkāryaṃ tatsthameva ca ।।

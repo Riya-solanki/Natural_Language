@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3376 | label: meter | g:0.302 m:0.515 ---
+
+bhraṃśitenottarīyeṇa sahasā calitāsanaḥ 
+veṣṭamānaḥ samākṣiptaḥ kaṃsaḥ kṛṣṇena tejasā ।। 
+śirasy abhyahanat kṛṣṇo muṣṭinā balavad balī । yenaiva muṣṭinā viṣṇur yathā syāt prāṇasaṃśayaḥ । 
+cakarṣa ca mahāraṅge mañcān niṣkramya keśavaḥ 
+keśeṣu balavad gṛhya kaṃsaṃ kleśārhatāṃ gatam ।।

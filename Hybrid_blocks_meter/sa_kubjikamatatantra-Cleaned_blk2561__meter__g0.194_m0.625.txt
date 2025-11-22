@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2561 | label: meter | g:0.194 m:0.625 ---
+
+tatpramāṇau samau bhūmyāṃ yantrayen mṛduyantraṇāt 
+evaṃ saṃśodhayitvā tu pūrvasiddhi[r] yathā yathā ।।

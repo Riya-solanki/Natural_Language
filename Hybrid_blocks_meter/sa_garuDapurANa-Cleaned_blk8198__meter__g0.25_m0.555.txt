@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8198 | label: meter | g:0.25 m:0.555 ---
+
+tatsarvaṃ mama tanvaṅgi kāraṇaṃ vada mā ciram ।
+evamuktā tadā bhartrā sītā sādhomukhī sthitā ।
+muñcantī cāśrusaṃghātaṃ rāghavaṃ vākyamabravīt ।।

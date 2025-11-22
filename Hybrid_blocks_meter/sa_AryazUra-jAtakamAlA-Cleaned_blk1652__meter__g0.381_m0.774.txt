@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1652 | label: meter | g:0.381 m:0.774 ---
+
+dayāṃ sattveṣu manye ahaṃ dharmaṃ saṃkṣepato nṛpa ।
+hiṃsāsteyanivṛttyādiprabhedaṃ vividhakriyam ।।

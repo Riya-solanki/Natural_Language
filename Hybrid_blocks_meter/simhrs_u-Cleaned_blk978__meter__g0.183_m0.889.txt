@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 978 | label: meter | g:0.183 m:0.889 ---
+
+yathā-
+saṅgatyām anapota-siṃha-nṛpater āsakta-ceto-gataiḥ
+kandarpānala-dīpitāni sutanor aṅgāni paryākulāḥ ।
+vyālimpan hima-bālukā-paricitaiḥ śrī-gandha-sāra-dravaiḥ
+sakhyaḥ pāṇi-talāni patra-marutā nirvāpayantyo muhuḥ ।।

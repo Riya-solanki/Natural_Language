@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6040 | label: meter | g:0.379 m:0.655 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+yā gaurdveṣṭiṃ svakaṃ vatsaṃ tasyā deyaṃ svakaṃ payaḥ ।
+lavaṇena samāyuktaṃ tasyā vatsaḥ priyo bhavet ।।

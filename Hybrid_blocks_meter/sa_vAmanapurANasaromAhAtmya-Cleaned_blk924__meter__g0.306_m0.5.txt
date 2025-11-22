@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 924 | label: meter | g:0.306 m:0.5 ---
+
+tato devāḥ sarva eva brahmāṇaṃ śaraṇaṃ yayuḥ ।
+tānuvāca tadā brahmā kimarthamiha cāgatāḥ ।।

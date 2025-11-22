@@ -1,0 +1,9 @@
+--- source: visa01cu-Cleaned.txt | block: 27 | label: meter | g:0.349 m:0.585 ---
+
+"dharmārthakāmamokṣeṣu vaicakṣaṇyaṃ kalāsu ca ।
+karoti kīrtiṃ prītiṃ ca sādhukāvyaniṣevaṇam" ।
+iti ।
+kiñca kāvyāddharmaprāptirbhagavannārāyaṇacaraṇāravindastavādinā, "ekaḥ śabdaḥ suprayuktaḥ samyagjñātaḥ svarge loke kāmadhugbhavati" ityādivedavākyebhyaśca suprasiddhaiva ।
+arthaprāptiśca pratyakṣasiddhā ।
+kāmaprāptiścārthadvāraiva ।
+mokṣaprāptiścaitajjanyadharmaphalānanusaṃdhānāt, mokṣopayogivākye vyutpattyādhāyakatvācca ।

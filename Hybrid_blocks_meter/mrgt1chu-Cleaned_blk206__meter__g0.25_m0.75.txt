@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 206 | label: meter | g:0.25 m:0.75 ---
+
+paśudṛgyogasiddhānāṃ karmavyaktidvayaṃ samam ।
+jyeṣṭhādiphalayogyānāṃ sādhikārāsu muktiṣu ।।
+upāyādaravaiśiṣṭyān mṛgyate tattrayaṃ punaḥ ।

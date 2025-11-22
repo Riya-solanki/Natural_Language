@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4317 | label: meter | g:0.194 m:0.5 ---
+
+gate sarpe pariṣvajya mṛtaṃ punar ivāgatam 
+gopā mūrdhani govindaṃ siṣicur netrajair jalaiḥ ।।

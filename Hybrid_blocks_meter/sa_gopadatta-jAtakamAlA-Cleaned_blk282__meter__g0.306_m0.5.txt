@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 282 | label: meter | g:0.306 m:0.5 ---
+
+amogho yad ayaṃ bāṇas tvayā tāta samudyataḥ ।
+mayi prahara niḥśaṅkaṃ mā kārṣīr mṛtamārikām ।।

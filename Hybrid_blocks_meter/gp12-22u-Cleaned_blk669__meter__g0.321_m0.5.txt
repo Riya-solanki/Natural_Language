@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 669 | label: meter | g:0.321 m:0.5 ---
+
+veṇoḥ puṇyam atīva hanta yad asāv astrī ca tasyādharaṃ
+gopīnāṃ svam api hriyaṃ pariharan śaśvat pibann ardati ।
+tṛptyā chardi-nibhād amuṣya raṇitān nadyo' pi phullanty amūr
+yad-vaṃśyā naga-jātayo' pi madhubhir bāṣpaṃ madād bibhrati ।। [śārdūla]

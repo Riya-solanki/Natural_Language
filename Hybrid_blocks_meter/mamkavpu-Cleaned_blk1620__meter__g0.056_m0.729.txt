@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1620 | label: meter | g:0.056 m:0.729 ---
+
+{kapāle mārjāraḥ paya iti karān leḍhi śaśinas
+tarucchidraprotān bisamiti karī saṃkalayati ।
+ratānte talpasthān harati vanitāpyaṃśukamiti
+prabhāmattaścandro jagadidamaho viplavayati ।।}

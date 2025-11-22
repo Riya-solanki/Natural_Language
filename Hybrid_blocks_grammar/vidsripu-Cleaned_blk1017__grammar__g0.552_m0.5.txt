@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1017 | label: grammar | g:0.552 m:0.5 ---
+
+dvitrair vyomni purāṇamauktikamaṇicchāyaiḥ sthitaṃ tārakair jyotsnāpānabharālasena vapuṣā suptāś cakorāṅganāḥ ।
+yāto astācalacūlam udvasamadhucchatracchaviś candramāḥ prācī bālabiḍālalocanarucāṃ yātā ca pātraṃ kakup ।।

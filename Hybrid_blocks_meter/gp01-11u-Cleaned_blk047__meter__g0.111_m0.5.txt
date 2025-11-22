@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 47 | label: meter | g:0.111 m:0.5 ---
+
+kathā gānaṃ nāṭyaṃ gamanam api vaṃśī priya-sakhī
+cid-ānanda-jyotiḥ param api tad āsvādyam api ca ।
+sa yatra kṣīrābdhiḥ sarati surabhibhyaś ca sumahān
+nimeṣārdhākhyo vā vrajati na hi yatrāpi samayaḥ ।।[brasaṃ ]

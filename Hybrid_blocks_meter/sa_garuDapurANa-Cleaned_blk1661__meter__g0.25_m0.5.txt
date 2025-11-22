@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1661 | label: meter | g:0.25 m:0.5 ---
+
+vāsavastu tathā ṛkṣaṃ dhaniṣṭhā procyate budhaiḥ ।
+tathā śatabhiṣā proktaṃ nakṣatraṃ vāruṇaṃ śiva ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 414 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhukaṇṭha uvāca-tad evaṃ paramārter upakaṇṭhatāṃ prāptāyām utkaṇṭhāyām ekadā sarve' narvācīnā vraja-vāsinaḥ sabhāvāḥ sabhāyāṃ militāḥ । militvā ca tad eva sotkaṇṭhaṃ suṣṭhu pratuṣṭuvuḥ ।

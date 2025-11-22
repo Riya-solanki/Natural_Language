@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 127 | label: meter | g:0.25 m:0.5 ---
+
+yeṣāṃ vratavikāro na pūjane jinapuṃgave ।
+etaiḥ pradakṣiṇāṃ kṛtvā vandanīyaḥ svabhaktitaḥ ।।

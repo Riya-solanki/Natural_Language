@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2052 | label: meter | g:0.194 m:0.625 ---
+
+ādhāraḥ śiśumārasya sarvādhyakṣo janārdanaḥ 
+dhruvasya śiśumāraś ca dhruve bhānur vyavasthitaḥ ।।

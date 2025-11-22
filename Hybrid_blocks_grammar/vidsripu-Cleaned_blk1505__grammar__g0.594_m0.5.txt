@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1505 | label: grammar | g:0.594 m:0.5 ---
+
+deva tvaṃ kila kuntalagraharuciḥ kāñcīm apāsārayan kṣipraṃ kṣiprakaras tataḥ prahaṇanaṃ prārabdham aṅgeṣv api ।
+ity ākūtajuṣas tava stavakṛtā vaitālikenodite lajjante pramadāḥ parasparam abhiprekṣyārayo bibhyati ।।

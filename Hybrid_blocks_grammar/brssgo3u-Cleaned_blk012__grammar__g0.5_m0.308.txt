@@ -1,0 +1,38 @@
+--- source: brssgo3u-Cleaned.txt | block: 12 | label: grammar | g:0.5 m:0.308 ---
+
+tadantarapratipattau raṃhati saṃpariṣvaktaḥ praśnanirūpaṇābhyām ।
+vṛttamanūdya tṛtīyādhyāyārthamāha-dvitīya ityādinā ।
+aviruddhe vedāntārthe tajjñānasādhanacintāvasara ityanayorhetuhetumadbhāvaḥ ।
+liṅgopādhisiddhau tadupahitajīvasaṃsāracinteti pādayorapi tadbhāvasaṅgatiḥ ।
+atra prathamapāde vairāgyam ।
+dvitīye svapnādyavasthoktyā tvaṃpadārtho brahmatattvaṃ cocye ।
+tṛtīye vākyārthastadarthamupāsanāśca vicāryante ।
+caturthapādārthamāha-samyagdarśanāditi ।
+darśanopāyāḥ saṃnyāsādayaḥ ।
+muktirūpaphalasya svargavattāratamyaniyamābhāvaḥ ekarūpatvamiti yāvat ।
+prasaṅgāgataṃ dehātmadūṣaṇam ।
+pañcasu dyuparjanyapṛthivīpuruṣayoṣitsvagnitvadhyānaṃ pañcāgnividyā ।
+yasmāt karmaṇā gatyāgatirūpo anarthastasmāt karmaphale jugupsāṃ ghṛṇāṃ viraktiṃ kurvīteti pañcāgnividyopasaṃhāre śravaṇādvairāgyārthaṃ pradarśyate ityanvayaḥ ।
+śāstrādisūtre nityānityavivekakṛtaṃ vairāgyamuktam, iha taddārḍhyāya gatyāgatikleśabhāvanākṛtaṃ taducyata ityapaunaruktyam ।
+adhikaraṇaviṣayamāha-jīva iti ।
+avidyā prasiddha ।
+vidyeti pāṭhe upāsanā grāhyā ।
+karma dharmādharmākhyaṃ, pūrvaprajñā janmāntarasaṃskāraḥ ।
+atha maraṇakāle prāṇā hṛdaye jīvenaikībhavantītyarthaḥ ।
+rūpaṃ śarīraṃ, pañcīkṛtabhūtabhāgāḥ uttaradehapariṇāmino bhūtasūkṣmāḥ ।
+vedāntārthajñānasādhanavicāratvāt sarvādhikaraṇānāṃ, śrutiśāstrādhyāyasaṅgatayaḥ vairāgyaphalakatvādetatpādasaṅgatiḥ ।
+pūrvādhikaraṇe vyavahārārthaṃ pañcīkaraṇamuktaṃ sa vyavahāro atra nirūpyata iti phalaphalibhāvo avāntarasaṅgatiḥ ।
+atra pūrvapakṣe nirāśrayaprāṇagatyabhāvāt, na vairāgyaṃ, siddhānte bhūtāśrayaprāṇagatervairāgyamiti phalabhedaḥ ।
+tejomātrāścakṣurādayaḥ, paśyati jighratīti vākyaśeṣāt ।
+āpaḥ pañcasvagniṣu hutāḥ pañcamyāmāhutau hutāyāṃ yathā puruṣaśabdavācyāḥ puruṣātmanā pariṇamante tathā kiṃ tvaṃ vettheti śvetaketuṃ prati rājñaḥ pravāhaṇasya praśnaḥ, tasya cottarājñāne tatpitaraṃ prati rājovāca aasau vāva loke gautamāgnistatra śraddhākhyā āpaḥ āhutiḥ parjanyāgnau somarūpā iha khlvagnihotre śraddhayā hutā dadhyādirūpā āpo yajamānasaṃlagnāḥ svargaṃ lokaṃ prapya somākhyadivyadehātmanā sthitāḥ karmānte drutāḥ parjanye hūyante tato vṛṣṭirūpāḥ pṛthivyā annarūpāḥ puruṣe retorūpāḥ yoṣiti hutāḥ āpaḥ puruṣaśabdavācyāḥ pumātmakā bhavanti'iti nirūpaṇaṃ kṛtam ।
+nanvetaddehaṃ tyaktvādbhiḥ saha gatasya paścāddehāntaraprāptirityayuktam ।
+yathā tṛṇajalāyukā tṛṇāntaraṃ gṛhītvā pūrvatṛṇaṃ tyajati tathā jīvo dehāntaraṃ gṛhītvā pūrvadehaṃ tyajatīti śrutivirodhāditi śaṅkate-nanvanyeti ।
+ihaiva karmāyattabhāvidehaṃ devo ahamityādibhāvanayā gṛhītvā pūrvadehaṃ tyajatīti śrutyarthaḥ, ato na virodha iti samādhatte-tatrāpīti ।
+bhāvanāyā dīrghībhāvo bhāvidehaviṣayatvam ।
+ghaṭākāśavadupahito jīvaḥ sūkṣmopādhigatyā lokāntaraṃ gacchatīti pañcāgniśrutyuktaḥ prakārastadvirodhādanyāḥ kalpanāḥ sarvā anādartavyā ityanvayaḥ ।
+sāṅkhyakalpanāmāha-vyāpināmiti ।
+sugatakalpanāmāha-kevalalasyeti ।
+nirvikalpakajñānasantānarūpasyātmano dehāntare śabdādisavikalpakajñānākhyavṛttilābho bhavatītyarthaḥ ।
+kāṇādakalpanāmāha-mana iti ।
+dehāntaraṃ prati manomātraṃ gacchati, indriyāṇi tu nūtanānyevārabhyante ।
+digambarakalpanāmāha-jīva iti ।।

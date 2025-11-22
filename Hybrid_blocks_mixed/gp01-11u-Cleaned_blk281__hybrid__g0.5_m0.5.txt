@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 281 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad anumodya punar vrajarāja uvāca, "ratnacūḍa, adya dinam ārūḍham । prāghuṇāś ca ta ete ghuṇākṣara-nyāyenopalabdhāḥ, tad eṣām ātitheya-vastubhir avitatham ātithyam evādya vidhīyatām ।" pārśva-vartinaś cādiṣṭavān, "dīyatām ebhyo varṣaṃ yāvad bhogyā varīyasī samagrā sāmagrī, sā ca yathaivāsmākaṃ tathaiva । prātar ārabhya tu sabhyāḥ samāhūyantāṃ kautukāvalokāya ।"

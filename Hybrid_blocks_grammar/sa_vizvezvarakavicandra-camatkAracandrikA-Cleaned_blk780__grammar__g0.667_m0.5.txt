@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 780 | label: grammar | g:0.667 m:0.5 ---
+
+atra bahuśo mṛgatṛṣṇikāpratāritānāṃ nāyakaparipanthināṃ pāramārthikeṣvapi jaleṣu na jalānīti yā pratipattiḥ seyaṃ tattvepyatattvarūpā bhrāntiḥ sādaśyajanitā bhrāntiḥ ।

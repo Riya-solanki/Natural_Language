@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 456 | label: grammar | g:0.707 m:0.216 ---
+
+iti pratipāditadiśā devadatta gāmānaya ityādyuttamavṛddhavākyaprayogāddeśāntaraṃ sāsnādimantamarthaṃ madhyamavṛddhe nayati sati anenāsmādvākyādevaṃvidho arthaḥ pratipannaḥ iti tacceṣṭayānumāya tayorakhaṇḍavākyavākyārthayorarthāpattyā vācyavācakabhāvalakṣaṇaṃ saṃbandhamavadhārya bālastatra vyutpadyate । parataḥ caitra gāmānaya devadatta aśvamānaya devadatta gāṃ naya ityādivākyaprayoge tasya tasya
+śabdasya taṃ tamarthamavadhārayatīti anvayavyatirekābhyāṃ pravṛttinivṛttikāri vākyameva prayogayogyamiti vākyasthitānāmeva padānāmanvitaiḥ padā[r]thairanvitānāmeva saṃketo gṛhyate iti viśiṣṭā eva padārthā vākyārthāḥ ।
+na tu padārthānāṃ vaiśiṣṭyam ।

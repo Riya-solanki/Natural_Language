@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3182 | label: hybrid | g:0.531 m:0.5 ---
+
+tarke apratiṣṭhā śrutayo vibhinnāḥ nāsāvṛṣiryasya mataṃ na bhinnam ।
+dharmasya tattvaṃ nihitaṃ guhāyāṃ mahājano yena gataḥ sa panthāḥ ।।

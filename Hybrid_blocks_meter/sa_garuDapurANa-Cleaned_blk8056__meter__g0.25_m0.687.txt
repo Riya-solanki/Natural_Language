@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8056 | label: meter | g:0.25 m:0.687 ---
+
+garuḍa uvāca ।
+ukteṣveko api cenna syādadhikārī surottama ।
+kartavyaṃ kiṃ tadā viṣṇo puruṣeṇa vijānatā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3711 | label: meter | g:0.194 m:0.5 ---
+
+dhruvāya tatra nyavasat keśavaḥ saha yādavaiḥ 
+deśe puraniveśāya sa yadupravaro vibhuḥ ।।

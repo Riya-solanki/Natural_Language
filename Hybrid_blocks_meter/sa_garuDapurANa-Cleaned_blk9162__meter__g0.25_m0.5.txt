@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9162 | label: meter | g:0.25 m:0.5 ---
+
+sambhaveyustathā tārkṣya sarve vātāśca dehinām ।
+mūtraṃ purīṣaṃ tadyogā ye cānye vyādhayastathā ।।

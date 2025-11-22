@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 659 | label: grammar | g:0.75 m:0.5 ---
+
+[nirghātolkāmahīkampapaścāccāpeṣu] nirghātaḥ āntarikṣaḥ śabdaḥ। ulkā daṇḍākāratejorūpā। mahīkampaḥ bhūmikampaḥ। paścāccāpaḥ vāruṇyāṃ diśīndradhanuḥ। eteṣu [vāsaraḥ] ekavāsaro anadhyāyaḥ। sandhyāstanitadigdāhapariveṣopaleṣu ca] sandhyayormeghagarjitaśrutau, digdāhe, sūryapariveṣadarśane, antarikṣād upalavarṣe caśabdādekāhameva।।

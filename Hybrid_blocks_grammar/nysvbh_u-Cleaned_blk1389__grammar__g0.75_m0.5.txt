@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1389 | label: grammar | g:0.75 m:0.5 ---
+
+pratijñāhāniḥ pratijñāntaraṃ pratijñāvirodhaḥ pratijñāsaṃnyāso hetvantaramarthāntaraṃ nirarthakam avijñātārtham apārthakam aprāptakālaṃ nyūnamadhikaṃ punaruktam ananubhāṣaṇam ajñānam apratibhā vikṣepo matānujñā paryanuyojyopekṣaṇaṃ niranuyojyānuyogopasiddhānto hetvābhāsāśca nigrahasthānāni ।।

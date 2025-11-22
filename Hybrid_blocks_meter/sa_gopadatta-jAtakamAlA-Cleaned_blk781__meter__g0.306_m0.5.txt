@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 781 | label: meter | g:0.306 m:0.5 ---
+
+karuṇādravam eva durjanaḥ sutarāṃ satpuruṣaṃ prabādhate ।
+mṛdam eva bhinatti kaṇṭakaḥ kaṭhine kuṇṭhaka eva jāyate ।।

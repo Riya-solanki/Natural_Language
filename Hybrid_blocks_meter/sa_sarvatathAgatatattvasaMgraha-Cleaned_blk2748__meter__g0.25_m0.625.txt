@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2748 | label: meter | g:0.25 m:0.625 ---
+
+vajrasatvasamādhistu buddhānāṃ dharmatā smṛtā ।
+etadbuddhasya buddhatvaṃ na buddho bhavate anyataḥ ।।

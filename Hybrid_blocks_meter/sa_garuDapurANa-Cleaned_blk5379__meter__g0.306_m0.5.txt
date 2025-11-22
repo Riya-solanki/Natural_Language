@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5379 | label: meter | g:0.306 m:0.5 ---
+
+gokṣuraṃ kvathitaṃ tvabhirvāri pītaṃ śramāpahan ।
+dāhaṃ pittaṃ jvaraṃ śoṣaṃ mūrchāṃ caiva kṣayaṃ nayet ।।

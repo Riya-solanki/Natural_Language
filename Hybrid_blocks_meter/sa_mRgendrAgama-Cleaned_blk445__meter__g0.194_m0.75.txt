@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 445 | label: meter | g:0.194 m:0.75 ---
+
+evaṃ mantreśamukhyeṣu viśatsvabhimataṃ padam 
+vidyāmatti sadātattvaṃ tadbindurbaindavaṃ dhvaniḥ ।।

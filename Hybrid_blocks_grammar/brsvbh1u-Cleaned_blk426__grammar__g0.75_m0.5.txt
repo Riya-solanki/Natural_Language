@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 426 | label: grammar | g:0.75 m:0.5 ---
+
+-kāryānvayo hi na śabdārthaḥ kintu upādhiḥ । tathāhi-kartavyatātadabhāvāvagamādhīne hi pravṛttinivṛttī, tadadhīnaṃ ca prayojanaṃ, tadadhīnau vivakṣāprayogau, prayogādhīne ca vākyārthapratipattī । tasmādvivakṣādivatkāryānvayasyāpi śabdārthāvagatyupāyatāvagamyate । ato virahayyāpi kāryānvayaṃ prayogabhede bhavati bhūtaṃ vastu padavācyam । tadidamuktam-nahyupahitamiti ।

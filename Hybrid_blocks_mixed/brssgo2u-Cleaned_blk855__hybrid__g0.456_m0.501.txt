@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 855 | label: hybrid | g:0.456 m:0.501 ---
+
+tasya jāyata iti padasyākāśādiṣu mukhyasya pāṭhāpekṣayā prācīneṣu prāṇeṣu śrutermukhyaṃ janmeti sūtrayojanā-tatsāmānyāditi ।
+tenākāśādijanmanā sāmānyamekaśabdoktatvaṃ tasmādityarthaḥ ।
+ekasminvākye ekasya śabdasya kvacinmukhyatvaṃ kvacidgauṇatvamiti vairūpyaṃ na yuktamiti nyāyamanyatrāpyatidiśati-yatrāpi paścācchruta iti ।।

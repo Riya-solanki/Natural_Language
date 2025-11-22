@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1000 | label: grammar | g:0.75 m:0.5 ---
+
+atra kācidanatidhīrā nāyakā mānāgraha parigrahānuguṇamarthaṃ sakhīnāyakāgrataḥ pratijñāya padanirvāhamāśaṅkamānā sakhījanaparihāsaparijihīrṣayā cāṭuvādādilakṣaṇamastosaṃ mānapratyūhakāraṇaṃ nāyakaguṇagrāmaṃ doṣībhāvena samupanyasyatīti so ayaṃ guṇasya doṣībhāvo nāma leśaḥ ।

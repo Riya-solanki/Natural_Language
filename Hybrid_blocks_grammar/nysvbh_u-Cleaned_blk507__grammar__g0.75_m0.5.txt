@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 507 | label: grammar | g:0.75 m:0.5 ---
+
+anyasmād anyatāmupapādayati bhavān upapādya ca anyat pratyācaṣṭe, aananyat' iti ca śabdamanujānāti prayuṅkte ca aananyat' iti etat samāsapadam anyaśabdoyaṃ pratiṣedhena saha samasyate yadi cātrottaraṃ padaṃ nāsti kasyāyaṃ pratiṣedhenana saha samāsaḥ ?, tasmāt tayoranyānanyaśabdayoritaro ananyaśabda itaramanyaśabdamapekṣamāṇaḥ sidhyatīti tatra yaduktam aanyatāyā abhāvaḥ' iti etadayuktamiti ।।

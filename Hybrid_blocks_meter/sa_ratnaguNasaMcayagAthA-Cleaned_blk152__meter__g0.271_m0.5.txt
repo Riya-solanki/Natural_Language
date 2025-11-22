@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 152 | label: meter | g:0.271 m:0.5 ---
+
+saṃnāhu duṣkarū mahāyaśu saṃnahantī na ca skandhadhātu na ca āyatanaiḥ sanaddhāḥ 
+tribhi yānasaṃjñavigatā aparigṛhītā avivartikā acalitāśca akopyadharmāḥ ।।

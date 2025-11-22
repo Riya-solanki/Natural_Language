@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9905 | label: hybrid | g:0.521 m:0.5 ---
+
+upadruteṣveṣu parāṅmukho yaḥ syustasya devāḥ sakalāḥ parāṅmukhāḥ ।
+tilodakaṃ naiva pibanti pūrve hutaṃ na gṛhṇāti hutāśanopi tat ।।

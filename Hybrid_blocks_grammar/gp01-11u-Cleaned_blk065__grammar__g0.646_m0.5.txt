@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 65 | label: grammar | g:0.646 m:0.5 ---
+
+iti brahmavacanānusāreṇa kṛta-prapañcānukāre līlā-sāre tasya tat-prapanna-janasya ca yathāveśaḥ syāt, na tathā ñityākāre' pīti labhyate ।

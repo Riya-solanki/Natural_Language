@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 505 | label: grammar | g:0.75 m:0.5 ---
+
+tato abhyantaramaṇḍale apyanenaiva vajrastutigītena vajranṛtyakarapuṭena gṛhya dhūpādibhiḥ pūjā kāryā । tato bāhyamaṇḍale vajradhūpādibhiḥ pūjāṃ kṛtvā, tāḥ pūjā svasthāneṣu sthāpayet । tataḥ "sarve yathāśaktyā pūjayantvi" ti sarvatathāgatān vijñāpya, yathecchayā dhūpādibhiḥ pūjāṃ kārayitvā, yathā praviṣṭāṃ yathā vibhavataḥ sarvarasāhāravihārādibhiḥ sarvopakaraṇarmahāmaṇḍale niryātitaiḥ santuṣyedaṃ sarvatathāgatasiddhivajravrataṃ dadyāt ।

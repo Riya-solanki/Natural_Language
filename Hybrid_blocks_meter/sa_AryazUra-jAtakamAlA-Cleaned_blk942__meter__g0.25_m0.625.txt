@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 942 | label: meter | g:0.25 m:0.625 ---
+
+hrīmatā tviha durjīvaṃ nityaṃ śucigaveṣiṇā ।
+saṃlīnenāpragalbhena śuddhājīvena jīvatā ।।

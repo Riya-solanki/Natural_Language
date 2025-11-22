@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 374 | label: grammar | g:0.552 m:0.5 ---
+
+śāridyūtakathākutūhali manaś chekoktiśikṣāratir nityaṃ darpaṇapāṇitā sahacarīvargeṇa cācāryakam ।
+prauḍhastrīcaritānuvṛttiṣu raso bālyena lajjā manāk stokārohiṇi yauvane mṛgadṛśaḥ ko apy eṣa kelikramaḥ ।।

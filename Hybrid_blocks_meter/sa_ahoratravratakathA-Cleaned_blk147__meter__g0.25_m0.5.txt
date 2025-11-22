@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 147 | label: meter | g:0.25 m:0.5 ---
+
+tatas ta vañcitāḥ sarvāḥ śambukā dharmamānasāḥ ।
+dhānyāṃ pradakṣiṇāṃ cakrur bhāvayantyo jinālayam ।।

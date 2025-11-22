@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3167 | label: meter | g:0.194 m:0.625 ---
+
+bhūyaś ca sahasotthāya taṃ mantraṃ manasā vahan 
+rathaṃ tenaiva mārgeṇa jagāmāmitadakṣiṇaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 1 | label: meter | g:0.022 m:0.896 ---
+
+Bhartṛhari Vākyapadīya, 
+brahmakāṇḍam

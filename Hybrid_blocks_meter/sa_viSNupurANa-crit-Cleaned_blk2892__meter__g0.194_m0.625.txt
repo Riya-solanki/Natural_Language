@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2892 | label: meter | g:0.194 m:0.625 ---
+
+mantrābhimantritaṃ śastaṃ na ca paryuṣitaṃ nṛpa 
+anyatra phalamāṃsebhyaḥ śuṣkaśākādikāṃs tathā ।।

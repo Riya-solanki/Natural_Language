@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11981 | label: hybrid | g:0.521 m:0.5 ---
+
+śākādīnāṃ bhakṣaṇe caiva kāle dhanvantariṃ smareccaiva nityam ।
+tathā parānnasya ca bhogakāle smarecca samyak pāṇḍuraṅgaṃ ca viṣṇum ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 22 | label: grammar | g:0.592 m:0.484 ---
+
+tad vaidagdhyaṃ samucitapayastoyatattvaṃ vivektuṃ saṃlāpās te sa ca mṛdupadanyāsahṛdyo vilāsaḥ 
+āstāṃ tāvad baka yadi tathā vetthi kiṃ cic chlathāṃsas tūṣṇīm evāsitum api sakhe tvaṃ kathaṃ me na haṃsaḥ ।।

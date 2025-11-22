@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2695 | label: meter | g:0.194 m:0.75 ---
+
+ete vṛndāvana gatā dāmodaraparāyaṇāḥ 
+nandagopādayo gopā vidviṣanti mamotsavam ।।

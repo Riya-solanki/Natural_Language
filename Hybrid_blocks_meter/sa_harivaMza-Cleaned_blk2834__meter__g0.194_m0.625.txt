@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2834 | label: meter | g:0.194 m:0.625 ---
+
+jānāmi bhavato bhāvaṃ jānāmy arjunasaṃbhavam 
+jāne pitṛṣvasā dattā pāṇḍor vasumatīpateḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1197 | label: meter | g:0.307 m:0.623 ---
+
+trāṇāśayāyāṃ samupāśritānāṃ guṇaiḥ pavitrīkṛtamānasānām ।
+hitāya dehaṃ tyajato mamaikaṃ dayāparītaṃ kim ivātra citram ।।

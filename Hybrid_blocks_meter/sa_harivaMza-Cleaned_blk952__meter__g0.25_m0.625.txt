@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 952 | label: meter | g:0.25 m:0.625 ---
+
+uśīnarasya patnyas tu pañca rājarṣivaṃśajāḥ 
+nṛgā kṛmī navā darvā pañcamī ca dṛṣadvatī ।।

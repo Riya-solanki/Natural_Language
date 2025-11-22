@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 17 | label: meter | g:0.401 m:0.747 ---
+
+ācāraśuddhyā nibhṛtendriyatvātsaṃtoṣayogātkaruṇāguṇācca ।
+asaṃstutasyāpi janasya loke so abhūt priyastasya yathaiva lokaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 462 | label: grammar | g:0.625 m:0.5 ---
+
+anubhāvāḥ saṃkṣopato dvividhāhyuktāḥ kāyikā vācikāśceti । anubhāvatve api stambhapralayaromā ñcasvedavaivarṇyavepathugadgadikāśrulakṣaṇānāṃ sācvikānāṃ pṛthagabhidhānaṃ viśeṣadyotanāya ।

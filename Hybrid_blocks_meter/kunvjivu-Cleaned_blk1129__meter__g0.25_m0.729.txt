@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 1129 | label: meter | g:0.25 m:0.729 ---
+
+itivṛttaprayukte api kathāvaicitryavartmani ।
+utpādyalavalāvaṇyādanyā lasati vakratā ।।
+tathā yathā, prabandhasya sakalasyāpi jīvitam ।
+bhāti prakaraṇaṃ kāṣṭhādhirūḍharasanirbharam ।।

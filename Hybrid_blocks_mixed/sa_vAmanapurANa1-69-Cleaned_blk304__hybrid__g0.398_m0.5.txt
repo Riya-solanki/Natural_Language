@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 304 | label: hybrid | g:0.398 m:0.5 ---
+
+dadarśa yakṣādhipatestanūjaṃ pāñcālikaṃ nāma jagatpradhānam ।
+dṛṣṭvā trinetro dhanadasya putraṃ pārśvaṃ samabhyetya vaco babhāṣe ।
+bhrātṛvya vakṣyasi vaco yadadya tat tvaṃ kuruṣvāmitavikramo asi ।।

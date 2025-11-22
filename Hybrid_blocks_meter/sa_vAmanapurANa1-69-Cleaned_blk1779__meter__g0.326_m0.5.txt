@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1779 | label: meter | g:0.326 m:0.5 ---
+
+khaḍgaṃ samādāya ca carma bhāsvaraṃ dhunvan śiraḥ prekṣya ca rūpamasyāḥ ।
+saṃstambhamohajvarapīḍite atha citre yathāsau likhito babhūva ।।

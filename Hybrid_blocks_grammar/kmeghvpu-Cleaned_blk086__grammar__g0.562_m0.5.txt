@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 86 | label: grammar | g:0.562 m:0.5 ---
+
+pādān indor amṛtaśiśirāñjālamārgapraviṣṭān pūrvaprītyā gatam abhimukhaṃ saṃnivṛttaṃ tathaiva ।
+cakṣuḥ khedāt sajalagurubhiḥ pakṣmabhiś chādayantīṃ sābhre ahnīva sthalakamalinīṃ na prabuddhāṃ na suptām ।।

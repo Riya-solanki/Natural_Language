@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 311 | label: meter | g:0.194 m:0.625 ---
+
+svapurasthaṃ prayatnena yadārādhyaṃ na paśyati 
+bhuñjate mohitātmānaḥ kilbiṣaṃ bhuñjate tu saḥ ।।

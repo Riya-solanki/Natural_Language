@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 837 | label: meter | g:0.194 m:0.75 ---
+
+{vidhāya dūre keyūramanaṅgāṅgaṇamaṅganā ।
+babhāra kāntena kṛtāṃ karajollekhamālikām ।।}

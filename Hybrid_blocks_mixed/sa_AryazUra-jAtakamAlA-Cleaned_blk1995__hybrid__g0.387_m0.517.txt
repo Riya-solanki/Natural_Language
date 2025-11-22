@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1995 | label: hybrid | g:0.387 m:0.517 ---
+
+saṃdṛśyamānavyabhicāramārge tvadṛṣṭakalyāṇaparākrame vā ।
+śraddheyatāṃ naiti śubhaṃ tathā ca kiṃ vīkṣya śaṅkā tava mayyapīti ।।

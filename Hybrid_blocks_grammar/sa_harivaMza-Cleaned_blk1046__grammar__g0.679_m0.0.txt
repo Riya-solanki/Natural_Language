@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1046 | label: grammar | g:0.679 m:0.0 ---
+
+hehayasyābhavat putro dharmanetra iti śrutaḥ 
+dharmanetrasya kāntas tu kāntaputrās tato abhavan ।। 
+sāhañjasya mahiṣmāṃs tu bhadraśreṇyaś catatsutaḥ । sāhañjanī nāmapurī tena rājñā niveśitā ।। sāhañjasya tu dāyādo mahiṣmān nāma pārthivaḥ । māhiṣmatī nāma purī yena rājñā niveśitā ।। āsīn mahiṣmataḥ putro bhadraśreṇyaḥ pratāpavān । vārāṇasyadhipo rājā kathitaḥ pūrvam eva tu । bhadraśreṇyasya dāyādo durdamo nāma viśrutaḥ ।। durdamasya suto dhīmān kanako nāma nāmataḥ । kanakasya tu dāyādāś catvāro lokaviśrutāḥ । 
+kṛtavīryaḥ kṛtaujāś ca kṛtadhanvā tathaiva ca 
+kṛtāgniś ca caturtho abhūt kṛtavīryāt tathārjunaḥ ।।

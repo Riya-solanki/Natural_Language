@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10878 | label: meter | g:0.25 m:0.5 ---
+
+sasāramiti saṃproktaṃ candanaṃ sarvadā smṛtam ।
+śuddhanniḥ sārabhūtāṃśca vakṣye śṛṇu khageśvara ।।

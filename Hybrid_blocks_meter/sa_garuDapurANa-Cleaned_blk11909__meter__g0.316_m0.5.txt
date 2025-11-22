@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11909 | label: meter | g:0.316 m:0.5 ---
+
+saṃtiṣṭhaṃmāne yamadūtaiśca samyak saṃtāḍyamāne taptadaṇḍaiśca mūḍha ।
+dantaṃ vihāyaiva ca vighnarājaḥ palāyitaḥ kutra me taṃ vadatvam ।।

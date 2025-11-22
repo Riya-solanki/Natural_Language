@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 28 | label: grammar | g:0.75 m:0.5 ---
+
+atikrāntā bhaktirasāvibhāgabhūmir yena tādṛg yo ayam āveśaḥ sarvatodikkatanmayatodayas tena vivaśā viśiṣṭā vaśeva kareṇur iva nijabodharasacarvaṇasadāvaraṇanirāvaraṇamadavighūrṇitatvād viśvataḥ sarvato mukhāni yasya sa tathā, ity anenaitad uktaṃ bhavatina tad vācyaṃ kṛtyaṃ vā kiṃcana yat tvatparicarvaṇacārurūpatayā na cakāsti । tataś ca suptapralāpagālidānādibhir api tvam eva stūyase ity āha viśvato mukha iti visvata ā mukhaṃ yasyeti vā । paśukukkuṭādimūrtiparyantam asyāvirbhūtatvam abādhyam ity arthaḥ । sarvathāpy anuditān astamitāparimitacidekaghanam iti pratipāditam ।।

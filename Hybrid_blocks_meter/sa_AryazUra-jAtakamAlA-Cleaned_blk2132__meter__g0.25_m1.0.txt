@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2132 | label: meter | g:0.25 m:1.0 ---
+
+pravrajyāsaṃśrayātkartumicchāmi hitamātmanaḥ ।
+kṛtāṃ tatrābhyanujñāṃ ca tvayānugrahapaddhatim ।।

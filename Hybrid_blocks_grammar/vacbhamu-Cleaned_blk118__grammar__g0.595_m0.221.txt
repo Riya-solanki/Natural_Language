@@ -1,0 +1,11 @@
+--- source: vacbhamu-Cleaned.txt | block: 118 | label: grammar | g:0.595 m:0.221 ---
+
+atrocyate- satyam; asadeva somyedamagra āsīt' ityupakramāt atattvamasi' ityantācchabdādbrahmamīmāṃsopakaraṇādasakṛdabhyastānnirvicikitse anādyavidyopādānadehādyatiriktapratyagātmatattvāvabodhe jāte api avidyāsaṃskārānuvṛttyānuvartante sāṃsārikāḥ pratyayāstadvyavahārāśca, tathāpi tānapyayaṃ vyavahārapratyayānmithyeti manyamāno vidvān ca śraddhatte, pittopahatendriya iva guḍaṃ thūtkṛtya tyajannapi tasya tiktatām ।
+tathā cāyaṃ kriyākartṛkaraṇetikartavyatāphalaprapañcamatāttvikaṃ viniścinvan kathamadhikṛto nāma ? viduṣo hyadhikāraḥ ।
+anyathā paśuśūdrādīnāmapi adhikāro durvāraḥ syāt ।
+kriyākartrādisvarūpavibhāgaṃ ca vidvasyamāna iha vidvānabhimataḥ karmakāṇḍe ।
+ata eva bhagavān avidvadviṣayatvaṃ śāstrasya varṇayāṃbabhūva bhāṣyakāraḥ ।
+tasmādyathā rājajātīyābhimānikartṛke rājasūye na vipravaiśyajātīyābhimāninoradhikāraḥ, evaṃ dvijātikartṛkriyākaraṇādivibhāgābhimānikartṛke karmaṇi na tadanabhimānino adhikāraḥ ।
+na cānadhikṛtena samarthenāpi kṛte vaidikaṃ karma phalāya kalpate, vaiśyastoma iva brāhmaṇarājanyābhyām ।
+tena dṛṣṭārtheṣu karmasu śaktaḥ pravartamānaḥ prāpnotu phalam, dṛṣṭatvāt ।
+adṛṣṭārtheṣu tu śāstraikasamadhigamyaṃ phalamanadhikāriṇi na yujyata iti nopāsanākārye karmāpekṣā ।

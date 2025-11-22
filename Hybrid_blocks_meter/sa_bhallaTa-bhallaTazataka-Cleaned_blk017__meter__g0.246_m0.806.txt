@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 17 | label: meter | g:0.246 m:0.806 ---
+
+kīṭamaṇe dinam adhunātaraṇikarāntaritacārusitakiraṇam 
+ghanasantamasamalīmasadaśadiśi niśi yad virājasi tad anyat ।।

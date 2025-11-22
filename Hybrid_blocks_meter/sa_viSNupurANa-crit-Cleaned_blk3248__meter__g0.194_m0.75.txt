@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3248 | label: meter | g:0.194 m:0.75 ---
+
+caturṇāṃ yatra varṇānāṃ maitreyātyantasaṃkaraḥ 
+tatrāsyā sādhuvṛttīnām upaghātāya jāyate ।।

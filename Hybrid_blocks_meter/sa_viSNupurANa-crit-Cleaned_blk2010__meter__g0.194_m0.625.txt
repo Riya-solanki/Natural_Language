@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2010 | label: meter | g:0.194 m:0.625 ---
+
+evam āvartamānās te tiṣṭhanty ābhūtasaṃplavāt 
+savitur dakṣiṇaṃ mārgaṃ śritā hy ācandratārakam ।।

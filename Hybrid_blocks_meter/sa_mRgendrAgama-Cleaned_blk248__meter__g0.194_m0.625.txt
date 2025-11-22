@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 248 | label: meter | g:0.194 m:0.625 ---
+
+aśītoṣṇo mahīvāyvoḥ śītoṣṇau vāritejasoḥ 
+bhāsvadagnau jale śuklaṃ kṣitau śuklādyanekadhā ।।

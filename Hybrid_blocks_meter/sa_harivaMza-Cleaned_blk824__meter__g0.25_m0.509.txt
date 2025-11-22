@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 824 | label: meter | g:0.25 m:0.509 ---
+
+pitā somasya vai rājañ jajñe atrir bhagavān ṛṣiḥ 
+athātaḥ śrūyatāṃ rājan vaṃśaḥ somasya pāvanaḥ । 
+yasminn ailādayo bhūpāḥ kīrtyante puṇyakīrtayaḥ ।। 
+yatra jāto hariḥ sākṣāt kṛṣṇas trailokyapāvanaḥ । 
+sahasraśirasaḥ puṃso nābhihradasaroruhāt ।। 
+jātasyāsīt suto dhātur atriḥ pitṛsamo guṇaiḥ । 
+brahmaṇo mānasāt pūrvaṃ prajāsargaṃ vidhitsataḥ । 
+tatrātriḥ sarvalokānāṃ tasthau svavinayair vṛtaḥ 
+karmaṇā manasā vācā śubhāny eva cacāra ha ।।

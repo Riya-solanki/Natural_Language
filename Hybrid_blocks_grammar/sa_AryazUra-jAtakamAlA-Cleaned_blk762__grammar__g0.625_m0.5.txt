@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 762 | label: grammar | g:0.625 m:0.5 ---
+
+kapālamādāya vivarṇavāsasā varaṃ dviṣadveśmasamṛddhirīkṣitā । vyatītya lajjāṃ na tu dharmavaiśase surendratārthe apyupasaṃhṛtaṃ manaḥ ।।

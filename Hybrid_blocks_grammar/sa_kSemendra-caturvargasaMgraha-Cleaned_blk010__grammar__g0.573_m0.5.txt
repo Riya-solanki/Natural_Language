@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 10 | label: grammar | g:0.573 m:0.5 ---
+
+tatprājñatvaṃ harati vimalaṃ yena śīlaṃ na kāmas taddhīratvaṃ praśamavaśatāṃ yānti yenendriyāṇi ।
+tadvaidagdhyaṃ bhuvanajayinī vañcyate yena māyā tatpāṇḍityaṃ bhavaparibhavaḥ śāntim āyāti yena ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5422 | label: meter | g:0.25 m:0.695 ---
+
+mantreṇānena tatkṣiptaṃ mahābhaṅgakaraṃ ripoḥ ।
+oṃ ṭha ṭha ṭha cāhīhicāhīhi svāhā ।
+oṃ udaraṃ pāhihi pāhihisvāhā ।।

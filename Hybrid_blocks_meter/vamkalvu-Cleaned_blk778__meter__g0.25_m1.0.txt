@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 778 | label: meter | g:0.25 m:1.0 ---
+
+ādāya karṇakisalayamiyamasmai caraṇamaruṇamarpayati ।
+ubhayossadṛśavinimayādanyonyamavañcitaṃ manye ।।

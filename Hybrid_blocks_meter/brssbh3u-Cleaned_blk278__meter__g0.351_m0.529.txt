@@ -1,0 +1,4 @@
+--- source: brssbh3u-Cleaned.txt | block: 278 | label: meter | g:0.351 m:0.529 ---
+
+vyākhyātaṃ vijñeyasya brahmaṇastattvam ।
+idānīṃ tu prativedāntaṃ vijñānāni bhidyante na veti vicāryate ।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1100 | label: meter | g:0.194 m:0.625 ---
+
+na kampadhunane tasya īśadghūrmiḥ pravartate 
+viṣonmūrchāgatas tv evaṃ tiṣṭhate bhūtakumbhavat ।।

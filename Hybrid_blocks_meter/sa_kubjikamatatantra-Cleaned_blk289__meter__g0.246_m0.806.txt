@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 289 | label: meter | g:0.246 m:0.806 ---
+
+parāparavibhāgena kālabhāvavaśena ca 
+bahustokaṃ na mantavyaṃ pratyayaś cātra kāraṇam ।।

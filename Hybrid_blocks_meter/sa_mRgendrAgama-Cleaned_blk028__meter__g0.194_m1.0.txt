@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 28 | label: meter | g:0.194 m:1.0 ---
+
+śivodgīrṇamidaṃ jñānaṃ mantramantreśvareśvaraiḥ 
+kāmadatvātkāmiketi pragītaṃ bahuvistaram ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1440 | label: grammar | g:0.594 m:0.5 ---
+
+mūrdhenduḥ parameśvareṇa vidhṛto vakro jaḍātmā kṣayī karṇānte ca parāpakāracaturo nyasto dvijihvādhipaḥ ।
+nandī dvāri bahiḥkṛto guṇanidhiḥ kaṣṭaṃ kim atrocyatāṃ pātrāpātravicāraṇāsv anipuṇaḥ prāyo bhaved īśvaraḥ ।।

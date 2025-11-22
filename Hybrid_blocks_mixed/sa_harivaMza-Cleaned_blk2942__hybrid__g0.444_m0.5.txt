@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2942 | label: hybrid | g:0.444 m:0.5 ---
+
+yas tv ayaṃ nandagopasya kṛṣṇa ity ucyate sutaḥ 
+atra me nāradaḥ prāha sumahat karma kāraṇam ।।

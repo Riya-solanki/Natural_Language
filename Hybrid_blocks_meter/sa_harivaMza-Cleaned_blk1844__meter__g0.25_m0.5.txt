@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1844 | label: meter | g:0.25 m:0.5 ---
+
+śrūyate cāsya caritaṃ deveṣv api purātanam 
+mahāpurāṇāt prabhṛti paraṃ tasya na vidyate ।। 
+tat purāṇād ṛte tasya caritaṃ naiva vidyate । 
+yac cāsya veda vedo api caritaṃ svaprabhāvajam 
+tenemāḥ śrutayo vyāptā vaidikā laukikāś ca yāḥ ।।

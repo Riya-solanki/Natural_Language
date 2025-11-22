@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 117 | label: hybrid | g:0.444 m:0.5 ---
+
+āpo dhruvaś ca somaś ca dharaś caivānilo analaḥ 
+pratyūṣaś ca prabhasaś ca vasavo nāmabhiḥ śrutāḥ ।।

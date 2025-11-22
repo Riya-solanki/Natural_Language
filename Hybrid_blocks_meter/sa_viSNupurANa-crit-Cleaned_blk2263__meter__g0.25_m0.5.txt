@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2263 | label: meter | g:0.25 m:0.5 ---
+
+śabdo aham iti doṣāya nātmany eṣa tathaiva tat 
+anātmany ātmavijñānaṃ śabdo vā bhrāntilakṣaṇaḥ ।।

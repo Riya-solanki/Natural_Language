@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1023 | label: hybrid | g:0.5 m:0.5 ---
+
+atra māna-praṇodana-ghana-garjita-santrāsasya priya-prayatnair vinā daiva-vaśena sambhūtatvād yādṛcchikatvam ।

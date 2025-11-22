@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7540 | label: meter | g:0.25 m:0.5 ---
+
+jalāvaghaṭṭanaṃ cava na kuryuḥ snānakārakāḥ ।
+tatastaṭe samāgatya śikhāṃ baddhvā ṛjūn kuśān ।।

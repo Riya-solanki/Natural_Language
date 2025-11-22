@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2907 | label: meter | g:0.251 m:0.623 ---
+
+tripathasthaikabhāvastho yaḥ karoti sa sidhyati 
+grāmaṃ deham iti proktam ātmā deham iti smṛtaḥ ।।

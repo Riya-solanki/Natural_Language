@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1076 | label: meter | g:0.194 m:0.625 ---
+
+kadā cit kāśirājasya vibhor bharatasattama 
+trīṇi varṣāṇi viṣaye nāvarṣat pākaśāsanaḥ ।।

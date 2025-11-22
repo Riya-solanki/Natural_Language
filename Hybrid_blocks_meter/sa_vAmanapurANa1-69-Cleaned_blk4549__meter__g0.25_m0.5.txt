@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4549 | label: meter | g:0.25 m:0.5 ---
+
+ye vṛddhavākyāni samācaranti śrutvā duruktānyapi pūrvatastu ।
+snigdhāni paścānnavanītaśuddhā modanti te nātra vicāramasti ।।

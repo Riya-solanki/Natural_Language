@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1310 | label: grammar | g:0.604 m:0.5 ---
+
+ity antena hara-cāpa-dalanasya niṣiddhayā kartṛtayā anumantṛtayā stotṛtayā ca rāghava-viśvāmitra-pīrādi-parāmarśena brāhmaṇa-kṣatriyādi-varṇānāṃ saṅgrahaṇād varṇa-saṃhāraḥ ।

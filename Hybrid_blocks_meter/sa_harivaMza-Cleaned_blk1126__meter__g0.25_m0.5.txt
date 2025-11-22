@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1126 | label: meter | g:0.25 m:0.5 ---
+
+tasyāsīd vijayo yuddhe tatra kanyām avāpa saḥ 
+ratham āropya sā nītā patnyarthaṃ strīniveśanam ।। 
+tāṃ dṛṣṭvā ruṣitā śaibyā bhartāram idam abravīt । 
+kimartham iyam ānītā sapatnī durnayā mama । 
+bhāryām uvāca saṃtrāsāt snuṣeti sa nareśvaraḥ ।।

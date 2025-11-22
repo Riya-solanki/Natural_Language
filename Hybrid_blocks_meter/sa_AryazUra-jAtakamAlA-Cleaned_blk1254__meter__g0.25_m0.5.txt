@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1254 | label: meter | g:0.25 m:0.5 ---
+
+ucyate nāma madhuraṃ svanubandhi niratyayam ।
+vaṇijo api hi kurvanti lābhasiddhyāśayā vyayam ।।

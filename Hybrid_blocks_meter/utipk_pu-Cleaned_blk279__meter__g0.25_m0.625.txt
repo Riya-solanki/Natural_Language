@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 279 | label: meter | g:0.25 m:0.625 ---
+
+na hi svātmaikaniṣṭhānām anusandhānavarjinām ।
+sadasattāpade apy eṣa saptamyarthaḥ prakalpyate ।।

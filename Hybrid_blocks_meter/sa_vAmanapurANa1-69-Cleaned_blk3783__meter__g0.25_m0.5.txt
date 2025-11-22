@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3783 | label: meter | g:0.25 m:0.5 ---
+
+pradakṣiṇīkṛtya taruṃ varuṇaṃ cārcya buddhimān ।
+bhūyaḥ kurudhvajaṃ dṛṣṭvā padmākhyāṃ nagarī gataḥ ।।

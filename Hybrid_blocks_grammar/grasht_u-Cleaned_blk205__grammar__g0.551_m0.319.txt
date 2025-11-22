@@ -1,0 +1,8 @@
+--- source: grasht_u-Cleaned.txt | block: 205 | label: grammar | g:0.551 m:0.319 ---
+
+pakṣacchinnapāradasya lakṣaṇamāha netyādi ।।
+evaṃvidhaḥ pāradaḥ sūto yaḥ sa pakṣacchinnaḥ pakṣau chinnau cheditau yasyeti samāsaḥ ।।
+sa kaḥ yo nādhaḥ patati adhaḥpātane kṛte ūrdhvato adhobhāgo na patati punaradhobhāgata ūrdhvapātane kṛte ūrdhvaṃ na yāti anudgārī acañcalo bhavet yantre svastha eva tiṣṭhatītyarthaḥ ।।
+punaḥ kiṃviśiṣṭaḥ abhrajīrṇaḥ abhrakaṃ jīrṇaṃ niḥśeṣatām āptaṃ yasmin rasa iti samāsaḥ ।।
+grāsamātreṇa pakṣacchedo na jāyate yāvanna cāritamabhrakaṃ jaratīti dhvanyarthaḥ ।।
+sa pakṣacchinnaḥ sūta iti ।।

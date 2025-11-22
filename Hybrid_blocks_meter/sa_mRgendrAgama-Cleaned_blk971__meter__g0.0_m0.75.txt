@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 971 | label: meter | g:0.0 m:0.75 ---
+
+sarvān padarthān saṃtyajya śivatattvaṃ samabhyaset 
+śivagarbhān samātiṣṭhan prāṇāyāmādikānapi ।। MT

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1599 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā śākuntale rājā iyaṃ khalu kathā mām eva lakṣyīkaroti । yadi tāvad asya śiśor mātaraṃ nāmataḥ pṛcchāmi । athavā anyāyyaḥ para-dāra-vyavahāraḥ । ity upakramya,

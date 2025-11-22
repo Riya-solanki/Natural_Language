@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 395 | label: meter | g:0.328 m:0.595 ---
+
+yatpa vitraṃ paraṃ japyaṃ kathayāmi vṛṣadhvaja ! ।
+śṛṇuṣvāvahito bhūtvā sarvapāpavināśanam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 293 | label: meter | g:0.194 m:0.625 ---
+
+śvāpado dvikhuro hastī vānaraḥ pakṣipañcamāḥ 
+audakāḥ paśavaḥ ṣaṣṭhāḥ saptamās tu sarīsṛpāḥ ।।

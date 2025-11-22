@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 697 | label: meter | g:0.25 m:0.625 ---
+
+tvamevākāśagā devī megheṣu sṛjase payaḥ ।
+sarvāstvāpastvameveti tvatto vayamadhīmahe ।।

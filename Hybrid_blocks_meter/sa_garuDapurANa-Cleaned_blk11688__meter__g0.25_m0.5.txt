@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11688 | label: meter | g:0.25 m:0.5 ---
+
+lakṣaṇaṃ yo vijānāti tadā tatsadṛśaṃ phalam ।
+prāpnotyeva na saṃdeho nātra kāryā vicāraṇā ।।

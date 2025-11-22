@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 373 | label: meter | g:0.056 m:0.625 ---
+
+tasya ca pūrvaṃ hṛdayam aliptaṃ
+bhāvaḥ kaḥ punar alipta me sahasā? ।
+smarad api yasya tu viṣayān
+svayam atha cittaṃ svato' pi jihreti ।। [udgīti]

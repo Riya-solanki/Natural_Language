@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4331 | label: meter | g:0.25 m:0.625 ---
+
+itthaṃ vacanamākarṇya dānavādhipatirvaśī ।
+sārghapātraḥ samabhyāgādyatra devaḥ sthito abhavat ।।

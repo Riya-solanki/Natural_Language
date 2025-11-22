@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 65 | label: meter | g:0.25 m:0.846 ---
+
+sarvaviṣayaṃ ca, nāsya saguṇasyendriyabhāva iti।
+sati cendriyārthasannikarṣe sannidhimasannidhi cāsya yugapajjñānānutpattikāraṇaṃ vakṣyāmaḥ iti।
+manasaścendriyābhāvānna vācyaṃ lakṣaṇāntaramiti।

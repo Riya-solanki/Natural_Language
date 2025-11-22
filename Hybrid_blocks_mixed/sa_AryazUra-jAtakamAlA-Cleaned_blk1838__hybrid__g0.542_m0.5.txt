@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1838 | label: hybrid | g:0.542 m:0.5 ---
+
+dṛṣṭo hi kālaniyamaḥ kamalaprabodhe saṃmīlane ca na punaḥ stanapānayatne ।
+yatnaśca nāsti kamale stanape tu dṛṣṭaḥ sūryaprabhāva iti padmavikāsahetuḥ ।।

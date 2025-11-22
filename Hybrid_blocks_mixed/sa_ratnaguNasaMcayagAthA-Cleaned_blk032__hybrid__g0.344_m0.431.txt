@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 32 | label: hybrid | g:0.344 m:0.431 ---
+
+yāvanti loki parikīrtita dharmanāma sarveṣupādasamatikramu nirgamitvā 
+amṛtaṃ ti jñānu paramaṃ na tu yo pareṇa ekārtha prajña ayu pāramiteti nāmā ।।

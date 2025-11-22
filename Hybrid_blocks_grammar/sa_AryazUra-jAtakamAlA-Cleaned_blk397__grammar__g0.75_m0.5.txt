@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 397 | label: grammar | g:0.75 m:0.5 ---
+
+tasyaivaṃ dharmeṇa prajāḥ pālayataḥ satyatyāgopaśamaprajñādibhiśca parahitapariṇāmanātsaviśeṣodāttakramairbodhisambhāravidhibhirabhivardhamānasya kadācitkasmiṃścidaparādhe yakṣāṇāmadhipatinā svaviṣayātpravrājitā ojohārāḥ pañca yakṣāḥ paravadhadakṣāstadviṣayamabhijagmuḥ । vyapagatasarvopadravatvācca nityapravṛttavividhotsavaṃ parayā sampadā samupetarūpaṃ pramuditatuṣṭapuṣṭajanamabhisamīkṣya tadviṣayaṃ tannivāsināṃ puruṣāṇāmojāṃsyapahartuṃ teṣāmabhilāṣo babhūva ।

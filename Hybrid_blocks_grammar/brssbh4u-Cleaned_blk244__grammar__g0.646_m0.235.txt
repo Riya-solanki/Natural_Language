@@ -1,0 +1,8 @@
+--- source: brssbh4u-Cleaned.txt | block: 244 | label: grammar | g:0.646 m:0.235 ---
+
+na ।
+pratiṣiddhasarvaviśeṣatvāt brahmaṇaḥ ।
+aniṣkalaṃ niṣkriyaṃ śāntaṃ niravadyaṃ nirañjanam' aasthūlamanaṇvahrasvamadīrgham' asabāhyābhyantaro hyajaḥ' asa vā eṣa mahānaja ātmājaro amaro amṛto abhayo brahma' asa eṣa neti netyātmā' ityādi śruti smṛti nyāyebhyo na deśakālādi viśeṣayogaḥ paramātmani kalpayituṃ śakyate ।
+yena bhūpradeśa vayovasthā nyāyena asya gantavyatā syāt ।
+bhūvayasoḥ tu pradeśa avasthādi viśeṣayogāt upapadyate deśa kāla viśiṣṭā gantavyatā ।
+jagat utpatti sthiti pralayahetutva śruteḥ anekaśaktitvaṃ brahmaṇa iti cet ।

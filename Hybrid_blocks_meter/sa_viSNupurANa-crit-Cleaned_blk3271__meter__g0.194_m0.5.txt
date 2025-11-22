@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3271 | label: meter | g:0.194 m:0.5 ---
+
+nirviṇṇacittaḥ sa tato nirgamya nagarād bahiḥ 
+maruprapatanaṃ kṛtvā śārgālīṃ yonim āgataḥ ।।

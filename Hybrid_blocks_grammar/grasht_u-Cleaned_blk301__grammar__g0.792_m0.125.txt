@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 301 | label: grammar | g:0.792 m:0.125 ---
+
+pūrvārthe vidhyantaramāha athavetyādi ।।
+tālakasatvaṃ haritālasāraṃ śataguṇaṃ śataguṇitaṃ hemni kanake nirvyūḍhaṃ andhamūṣāyāṃ vā prakāśamūṣāyāṃ vahniyogena iti śeṣaḥ tālakasatvasya hemni nirvāhaḥ kārya iti vyaktiḥ tacca tat sattvaṃ kevalaṃ vā śilayā manaḥśilayā sārdhaṃ nirvyūḍhaṃ kāryaṃ taddhema garbhe rasodare dravati atha rasendro rasarājaḥ drutaṃ jarati vidhāneneti ।।

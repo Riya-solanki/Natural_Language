@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 525 | label: grammar | g:0.75 m:0.5 ---
+
+vratina idamavaśyamanuṣṭheyam। māṃsayoṣinmadhutyāgaḥ māṃsasya yoṣito madhunaśca varjanam। māṃsatyāgastvatra śūdrasyaiva। anyeṣāmavratitve api tanniṣedhāsiddheḥ। kṣitiśāyitā iti sthalaśāyitvam। [mātrārakṣaṇam] ajinākṣasūtradaṇḍakamaṇḍalvādimātrāyāḥ svopayoginaḥ parikarasya rakṣaṇam apramādaḥ। [ekasya kamaṇḍalusahāyatā] ekasyaiva kamaṇḍaludvitīyasyāvasthānam। [strīgītanartitālāpavilāsānāṃ] srīsambandhino gītanṛtyasalāpavilāsādeḥ [upekṣaṇaṃ] pariharaṇam। [striyā raho avyavasthānam] striyā ca sahaikānte avasthitivarjanamiti sahāvasthitimātrasyeha niṣedhaḥ, pūrvaṃ tu tatsambhogasyeti na paunaruktyam। [sragabhyaṅgādivarjanaṃ] sragvilepanābhyaṅgādivarjanaṃ ca।।

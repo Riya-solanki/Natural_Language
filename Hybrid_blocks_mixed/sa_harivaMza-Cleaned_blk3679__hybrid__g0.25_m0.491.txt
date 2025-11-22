@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3679 | label: hybrid | g:0.25 m:0.491 ---
+
+sa dṛṣṭvā tūrṇam āyāntaṃ rāmaṃ laṅgaladhāriṇam 
+sahasotthāya govindo dadāv āsanam uttamam ।। 
+abhivādya mahātmānaṃ balabhadraṃ janārdanaḥ । punaḥ praṇāmam akarot svāgataṃ te halāyudha । 
+upaviṣṭaṃ tato rāmaṃ papraccha kuśalaṃ vraje 
+bāndhaveṣu ca sarveṣu goṣu caiva janārdanaḥ ।।

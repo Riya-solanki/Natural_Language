@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 44 | label: grammar | g:0.694 m:0.5 ---
+
+[] tad evaṃ vicintya samucita-sthānaṃ vicitya dūrataś caturāṃś caturaḥ kumāran vartmani vartamānatayā vidhāya, svayam upasaritam uccatara-catvaram ātmanā rūḍhaṃ sandhāya, vraja-diśam avadhāya, veṇuṃ mukhe nidhāya, vādayiṣyamānaś cintayāmāsa-prathamaṃ rādhā-
+gamanam eva sādhayāmaḥ । tām vinā phalasya ca viphalatām kalayāmi । tad-āgamana-kamanīyatayā tu ramaṇīnāṃ anyāsām apy āgatir mama manasi ramaṇīyatām āyāmam ānayati । kintu tad eva bhavyaṃ kathaṃ bhavyam ity eva pratipattavyam । ām ām, bāṇa-vidyā-pravīṇenaiva vaiṇavikena mayā tathā yoktavyam, yathā tena saivāviṣṭākṛṣṭā ca bhavati nāparā iti ।

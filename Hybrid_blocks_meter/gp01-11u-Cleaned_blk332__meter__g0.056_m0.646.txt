@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 332 | label: meter | g:0.056 m:0.646 ---
+
+amilana-haṭha-kṛd yadāmilad vā
+harim atha bhedayiteyam āśu kena ।
+dvayam api caritaṃ na citram asyā
+yad alam asau rasa-rūpatām ayāsīt ।। [puṣpitāgrā]

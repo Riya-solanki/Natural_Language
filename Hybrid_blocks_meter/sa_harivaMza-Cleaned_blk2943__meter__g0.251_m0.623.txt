@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2943 | label: meter | g:0.251 m:0.623 ---
+
+dvitīyo vasudevād vai vāsudevo bhaviṣyati 
+sa hi te sahajo mṛtyur bāndhavaś ca bhaviṣyati ।।

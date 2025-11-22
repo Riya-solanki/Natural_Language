@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7311 | label: meter | g:0.25 m:0.5 ---
+
+saritaḥ sāgarāścaiva bhāvābhāvau ca sarpahan ।
+sarve kālena sṛjyante saṃkṣipyante yathā punaḥ ।।

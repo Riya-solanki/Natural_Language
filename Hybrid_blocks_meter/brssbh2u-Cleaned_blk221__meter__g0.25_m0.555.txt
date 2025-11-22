@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 221 | label: meter | g:0.25 m:0.555 ---
+
+athāpi syādanyathā vayamanumimīmahe yathā nāyamanantaro doṣaḥ prasajyeta ।
+nahyanapekṣasvabhāvāḥ kūṭasthāścāsmābhirguṇā abhyupagamyante pramāṇābhāvāt ।
+kāryavaśena tu guṇānāṃ svabhāvo abhyupagamyate ।

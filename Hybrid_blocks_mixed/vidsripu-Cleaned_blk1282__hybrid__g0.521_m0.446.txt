@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1282 | label: hybrid | g:0.521 m:0.446 ---
+
+nindantu nītinipuṇā yadi vā stuvantu lakṣmīḥ parāpatatu gacchatu vā yatheṣṭam ।
+adyaiva vā maraṇam astu yugāntare vā nyāyyāt pathaḥ pravicalanti padaṃ na dhīrāḥ ।।
+bhartṛhareḥ

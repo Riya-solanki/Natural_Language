@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 940 | label: meter | g:0.25 m:0.625 ---
+
+ajñānājjñānato vāpi striyo vā puruṣasya vā ।
+naśyate duṣkṛtaṃ sarvaṃ sthāṇutīrthaprabhāvataḥ ।।

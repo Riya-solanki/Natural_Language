@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 522 | label: grammar | g:0.541 m:0.335 ---
+
+asyaivopakrame aantavatkila te sāma'itiantavattvadoṣeṇa śālāvatyasyeti ।
+na cākāśaśabdo gauṇo api vilambitapratipattiḥ, tatra tatra brahmaṇyākāśaśabdasya tatparyāyasya ca prayogaprācuryādatyantābhyāsenāsyāpi mukhyavatpratipatteravilambanāditi darśanārthaṃ brahmaṇi prayogaprācuryaṃ vaidikaṃ nidarśitaṃ bhāṣyakṛtā ।
+tatraiva ca prathamāvagatānuguṇyenottaraṃ nīyate, yatra tadanyathā kartuṃ śakyam ।
+yatra tu na śakyaṃ tatrottarānuguṇyenaiva prathamaṃ nīyata ityāha-vākyopakrame apīti ।।

@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4562 | label: meter | g:0.25 m:0.5 ---
+
+ahaṃ yajūṃṣi sāmāni ṛcaś cātharvaṇāni ca 
+brahmā rudras tathendraś ca varuṇaś ca tathā yamaḥ । 
+kuberaś ca tathā cānye dikpālāḥ sanakādayaḥ । 
+ṛṣayo devatā yajñā mattejo bharatarṣabha ।।

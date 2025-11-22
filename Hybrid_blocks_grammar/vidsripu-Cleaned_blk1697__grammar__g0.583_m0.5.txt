@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1697 | label: grammar | g:0.583 m:0.5 ---
+
+dhig dhik tān kriminirviśeṣavapuṣaḥ sphūrjanmahāsiddhayo niṣkandīkṛtaśānti ye api ca tapaḥkārāgṛheṣv āsate ।
+taṃ vidvāṃsam iha stumaḥ karapuṭībhikṣālpaśāke api vā mugdhāvaktramṛṇālinīmadhuni vā yasyāviśeṣo rasaḥ ।।

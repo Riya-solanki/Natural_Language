@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1193 | label: meter | g:0.306 m:0.5 ---
+
+naśyeti śāpāśaninābhimṛṣṭaḥ syādyasya śailaḥ smaranīyamūrtiḥ ।
+itthaṃgatāyāmapi tasya maunaṃ tathāpi jīvāmi ca mandabhāgyā ।।

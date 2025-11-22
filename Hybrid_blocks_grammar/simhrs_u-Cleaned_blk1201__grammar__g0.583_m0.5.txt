@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1201 | label: grammar | g:0.583 m:0.5 ---
+
+yathā tatraiva garbha-sandhau mālavan māyā-prayoga-vana-pravāsa-sītāpaharaṇādibhir antaritāyāḥ rāmasya paramotkarṣa-prāpter dhanur-bhaṅgādi-sugrīva-sandhi-setu-bandhanādibhiḥ siddhi-sad-bhāva-bhāvanā-kathanāt prāpty-āśā ।

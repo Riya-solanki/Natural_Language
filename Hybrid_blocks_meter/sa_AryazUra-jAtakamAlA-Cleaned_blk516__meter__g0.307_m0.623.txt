@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 516 | label: meter | g:0.307 m:0.623 ---
+
+yattejasākrāntabalaprabhāvāḥ saṃsuptadarpā iva vidviṣaste ।
+viśvaṃtareṇaiṣa gajaḥ sa datto rūpī jayaste hriyate anyadeśam ।।

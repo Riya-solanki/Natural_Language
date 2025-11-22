@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 153 | label: meter | g:0.251 m:0.623 ---
+
+te eva dharmasamudāgata niṣprapañcā kāṅkṣāvilekhavimatīvigatārthayuktāḥ 
+prajñāya pāramita śrutva na sīdayanti aparapraṇeya avivartiya veditavyāḥ ।।

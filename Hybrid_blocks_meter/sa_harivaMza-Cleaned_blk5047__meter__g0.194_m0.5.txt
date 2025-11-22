@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5047 | label: meter | g:0.194 m:0.5 ---
+
+rājasūye hy asaṃhārye yajñāṅgaiś ca durāsadaiḥ 
+mithyāpraṇīte yajñāṅge prajānāṃ saṃkṣayo dhruvaḥ ।।

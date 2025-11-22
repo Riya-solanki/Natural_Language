@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 124 | label: grammar | g:0.563 m:0.379 ---
+
+Vṛtti:
+[na nīcaiḥ saṃvaset] na nikṛṣṭairjanaiḥ sahavāsaṃ kuryāt। vṛthā [gṛhādgṛhamapi gṛhād gṛhāntaraṃ ca [na yāyāt] na paryaṭet।
+[kaṃcinnopahased nānukuryāt] na ca kasyāpyupahāsamanukaraṇaṃ ca kuryāt। [na kaṃcit pīḍayet] na ca kaṃcinmarmodghāṭanadehatāḍanadhanāpaharaṇairhiṃsyāt।।

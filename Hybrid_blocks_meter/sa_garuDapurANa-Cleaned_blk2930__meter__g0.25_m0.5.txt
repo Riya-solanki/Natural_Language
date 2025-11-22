@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2930 | label: meter | g:0.25 m:0.5 ---
+
+raktaḥ śuklastathā raktaḥ pītaḥ pītaḥ sitositaḥ ।
+kṛṣṇaḥ kṛṣṇaḥ kramādvarṇā dravyāṇi munayastataḥ ।।

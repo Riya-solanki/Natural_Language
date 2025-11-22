@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 42 | label: grammar | g:0.649 m:0.375 ---
+
+jñānagamyaṃ brahmopavarṇayatyekāṃśenetyādi ।।
+kiṃviśiṣṭaṃ brahma paraṃ jyotiḥ prakāśasvarūpaṃ tatparaṃ jyotir jaganti saṃsārāṇi svargamṛtyupātālādīni viṣṭabhya vyāpya sthitaṃ kena ekāṃśena anekabrahmāṇḍanāyakatvāt ekaikasmin brahmāṇḍe bahūni saṃsārāṇi vartante ata ekāṃśenetyuktaṃ punas tatparaṃ jyotīrūpam amṛtaṃ tribhiḥ pādair abhyāsasthiradehajñānasaṃjñakaiḥ sulabhaṃ sukhena labhyam ityarthaḥ ।।
+prathamam abhyāso'mṛtasulabhatve ।।
+heturekaḥ sthiradehaś ca dvitīyo hetur jñānaṃ tṛtīyaheturmokṣe yathāvākyaṃ na viraktimātram ।।

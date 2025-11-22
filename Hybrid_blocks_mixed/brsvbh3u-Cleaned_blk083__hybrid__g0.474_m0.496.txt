@@ -1,0 +1,6 @@
+--- source: brsvbh3u-Cleaned.txt | block: 83 | label: hybrid | g:0.474 m:0.496 ---
+
+anenāhirūpeṇābhedaḥ ।
+kuṇḍalādirūpeṇa tu bheda ityuktaṃ tena viṣayabhedādbhedābhedayoravirodha ityekaviṣayatvena vā sarvadopalabdheravirodhaḥ ।
+viruddhamiti hi naḥ kva saṃpratyayo na yatpramāṇenopalabhyate ।
+āgamataśca pramāṇādekagocarāvapi bhedābhedau pratīyamānau na virodhamāvahataḥ savitṛprakāśayoriva pratyakṣātpramāṇādbhedābhedāviti ।।

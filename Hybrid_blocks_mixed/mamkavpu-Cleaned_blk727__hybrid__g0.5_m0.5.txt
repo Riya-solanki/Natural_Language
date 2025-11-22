@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 727 | label: hybrid | g:0.5 m:0.5 ---
+
+atra {guṇānāṃ ca parārthatvādasaṃbandhaḥ samatvātsyāt} ityuktanayena yacchabdanidaśyānāmarthānāṃ parasparasamanvayena yair ityatra viśeṣasyāpratītiriti । {kṣapācāribhiḥ} iti pāṭhe yujyate samanvayaḥ । yathā vā

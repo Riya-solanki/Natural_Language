@@ -1,0 +1,5 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 26 | label: meter | g:0.25 m:0.695 ---
+
+aṣṭabhujaṃ virājantaṃ vāgīśvaraṃ jagadgurum ।
+dhanurbāṇadharaṃ dvābhyāṃ pāśāṅkuśadharaṃ tathā ।
+prajñāpustaṃ tathā khaḍgaṃ vajraghaṇṭāṃ tathāparaiḥ ।।

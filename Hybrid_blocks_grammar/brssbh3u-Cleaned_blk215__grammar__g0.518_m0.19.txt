@@ -1,0 +1,6 @@
+--- source: brssbh3u-Cleaned.txt | block: 215 | label: grammar | g:0.518 m:0.19 ---
+
+yatpratiṣiddhātprapañcajātādanyatparaṃ brahma tadasti cetkasmānna gṛhyata iti ।
+ucyate - tadavyaktamanindriyagrāhyaṃ sarvadṛśyasākṣitvāt ।
+āha hyevaṃ śrutiḥ ana cakṣuṣā gṛhyate nāpi vācā nānyairdevaistapasā karmaṇā vā' asa eṣa neti netyātmāgṛhyo nahi gṛhyate' yattadadreśyamagrāhyam ayadā hyevaiṣa etasminnadṛśye anātmye anirukte anilayane' ityādyā ।
+smṛtirapi - aavyakto ayamacintyo ayamavikāryo ayamucyate' ityādyā ।।

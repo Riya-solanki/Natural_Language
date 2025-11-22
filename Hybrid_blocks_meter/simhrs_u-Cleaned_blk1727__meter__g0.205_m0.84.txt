@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1727 | label: meter | g:0.205 m:0.84 ---
+
+go-rakṣaṇaṃ sama-daśātrava-māna-bhaṅgaḥ
+prītir virāṭa-nṛpater upakāriṇaś ca ।
+paryāptam ekam api me samartosavāya
+sarvaṃ punar militam atra mamaiva bhāgyaiḥ ।।

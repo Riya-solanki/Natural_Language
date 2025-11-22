@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 46 | label: meter | g:0.194 m:0.521 ---
+
+bhaje śvetadvīpaṃ tam aham iha goloka iti yaṃ
+vidantas te santaḥ kṣiti-virala-cārāḥ katipaye ।
+śriyaḥ kāntāḥ kāntaḥ parama-puruṣaḥ kalpa-taravaḥ
+drumā bhūmiś cintāmaṇi-gaṇa-mayī toyam amṛtam ।।

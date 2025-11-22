@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2133 | label: meter | g:0.351 m:0.565 ---
+
+tacchratvā priyatanayaḥ sa tasya rājā digdhena dvirada iveṣuṇābhividdhaḥ ।
+gambhīro apyudadhirivānilāvadhūtastacchokavyathitamanāḥ samācakampe ।।

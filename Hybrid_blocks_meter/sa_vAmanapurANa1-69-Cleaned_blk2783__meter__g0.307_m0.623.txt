@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2783 | label: meter | g:0.307 m:0.623 ---
+
+hate tuhuṇḍe vimukhe ca rāhau gaṇeśvarāḥ krodhaviṣaṃ mumukṣavaḥ ।
+pañcaikakālānalasannikāśā viśānti senāṃ danupuṅgavānām ।।

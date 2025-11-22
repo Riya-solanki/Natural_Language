@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3460 | label: grammar | g:0.708 m:0.5 ---
+
+kiṃtv ekaṃ mamaitad duḥkhakāraṇaṃ yad asmadgṛhān maharṣir ayaṃ madbhartā na niṣkrāmati mamaiva kevalam atiprītyā samīpavartī nānyāsām asmadbhaginīnām ।।

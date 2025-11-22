@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 832 | label: grammar | g:0.621 m:0.41 ---
+
+te jaṅghe jaghanaṃ ca tat tad udaraṃ tau ca stanau tat smitaṃ sūktiḥ sā ca tad īkṣaṇotpalayugaṃ dhammillabhāraḥ sa ca ।
+lāvaṇyāmṛtabinduvarṣi vadanaṃ tac caivam eṇīdṛśas tasyās tad vayam ekam evam asakṛd dhyāyanta evāsmahe ।।
+narasiṃhasya

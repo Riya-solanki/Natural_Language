@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 983 | label: meter | g:0.0 m:0.625 ---
+
+asyābhyāsāddivyasiddhyaṃśujālair iṣṭān lokān rorucāno vihṛtya 
+kāle hitvāpāsravaṃ dehamāste svātmanyevāścaryacaryādhivāsaḥ ।। MT

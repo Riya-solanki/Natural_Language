@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 77 | label: grammar | g:0.708 m:0.5 ---
+
+te katame । prāpti, asaṃjñisamāpattiḥ, nirodhasamāpattiḥ, āsaṃjñikam, jīvitendriyam, nikāyasabhāgatā, jāti, jarā, sthitiḥ, anityatā, nāmakāyaḥ, padakāyaḥ, vyañjanakāyaḥ, pṛthagjanatvamityevamādibhedasamādānāḥ ।।

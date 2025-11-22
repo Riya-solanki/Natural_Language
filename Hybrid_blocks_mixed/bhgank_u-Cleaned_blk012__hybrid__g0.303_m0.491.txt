@@ -1,0 +1,57 @@
+--- source: bhgank_u-Cleaned.txt | block: 12 | label: hybrid | g:0.303 m:0.491 ---
+
+mithyājñānamadharmaśca saktihetuś cyutistathā ।
+paśutvaṃ mūlaṃ pañcaite tantre heyādhikārataḥ ।। 
+[
+tatra pramāṇābhāsajaṃ jñānaṃ mithyājñānam uktaṃ saṃśayaviparyayādilakṣaṇam ।। 
+śāstrāntarebhyo'pi tarhi saṃśayādinivṛtter aviśeṣaprasaṅga iti cen na śāstrāntarapraṇetḥṇām api viparyayānivṛttipratipādanād ācāryavaiśeṣyaprakaraṇe ।। 
+tanna śāstrāntarebhyo'pi saṃśayādinivṛttiriti ।। 
+kāmakrodhadveṣāḥ kaluṣaṃ tasyāpyajñāne antarbhāvaḥ ।। 
+kasmāt ।। 
+avyaktāvasthāgamane pratyanīkatvāt ।। 
+tadidaṃ saṃśayādi kaluṣaṃ ca saha bījena mithyājñānam ityucyate ।। 
+dvitīyaṃ malaṃ darśayati adharmaśca iti ।। 
+pāpmabījaṃ pāpam evātrādharma ityabhipretam ।। 
+tasya savikārasyaikamalatvaṃ vikāravikāriṇorananyatvād iti ।। 
+saty apy ajñānakaluṣasaṅgacyutihetor adharmatve pāpākhya evātrādharmo abhipreta iti caḥ sūcayati ।। 
+tṛtīyaṃ malam āha ।। 
+saktihetuḥ iti ।। 
+saktiḥ saṅgaḥ viṣayāsaktilakṣaṇasukhaṃ bhāṣye sukhābhimāna ityanenoktam ।। 
+tasyaiva lakṣaṇārthaṃ bhāṣyam avivecanamiśraṇapreraṇalakṣaṇo vanagajavat iti ।। 
+tasya saṅgasya hetus tanmayakaraṇaṃ vidhyantaropārjito dharmaḥ saṅgakara iti ya uktaḥ saha vikāreṇāsau tṛtīyo mala iti ।। 
+caturthaṃ malam āha ।। 
+cyutis tathā iti ।। 
+rudratattvādīṣaccittaṃ cyavate viṣayaṃ na prāpnoti taccittacyavanaṃ cyutir ityucyate ।। 
+tathāśabdaḥ samānārthe ।। 
+yathā mithyājñānasya svabījena saha malatvam adharmasaṅgakarayoś ca savikāreṇa tathā cyuterapi ūṣmavad avasthitādharmākhyena svabījena saha malatvam iti ।। 
+atra bhāṣyavirodhānna mithyājñānakaluṣapāpmasaṅgacyutayaḥ puruṣasya bhāvāś cittavidyayor vā ।। 
+nāpi kaluṣamicchāyā bhāvaḥ kiṃtvadharmavikārā evaite jñānecchābhyāṃ saha kṣīrodakavad abhinnā iva gṛhyante ।। 
+tathā ca satkāryavicāre prapañcitametad iti ।। 
+pañcamaṃ malamāha paśutvam iti ।। 
+dharmādharmavyatiriktaḥ pratighātānumeyaḥ puruṣaguṇaḥ paśutvam ।। 
+tasya caturdaśalakṣaṇopetasya malatvam ।। 
+tāni ca lakṣaṇāny asarvajñatvādīny apatitvāntāni sarvajñatvādiviparyayeṇaiva vyākhyātānīti ।। 
+taccetthaṃbhūtaṃ paśutvaṃ saṃsārasyānādikāraṇaṃ pradhānabhūtam ityevaṃ matvāha mūlamiti ।। 
+tathāhi kaivalyagatānāmanyamalābhāve api paśutvādeva punaḥ saṃsārāpattiriti ।। 
+pañca iti nyūnādhikavyavacchedenopasaṃhārārtham ।। 
+ete ityavadhāraṇārtham ।। 
+ete eva saṃsārabandhātmakā malā na tu śāstrāntaroktā bhoktṛbhogyasambandhādaya ityarthaḥ ।। 
+kva punaritthaṃbhūtā malāḥ prasiddhā ityāha ।। 
+tantre sākṣān maheśvarapraṇītam athaśabdādi śivāntaṃ śāstraṃ tantraṃ tasminnete pratipāditā ityarthaḥ ।। 
+dharmajñānāderapi tyajyamānatvād adharmāderiva malatvaṃ prāptamityāśaṅkyāha heyādhikārataḥ iti ।। 
+yeṣāṃ kardamādivadduḥkhahetutvaṃ matvā sādhakaḥ kṣapaṇārtham adhikriyate ta eva malā na tu yeṣāṃ puṣpādivadanicchato'pi vināśa ityato heyādhikārād ajñānādaya eva malā iti ।। 
+heyādhikārikā iti vā pāṭhastatrāpyayam arthaḥ ।। 
+heyatvena kṣapaṇīyatvenādhikāro yogyatāsti yeṣāṃ te heyādhikāriṇasta eva heyādhikārikāḥ ।। 
+svārthe kapratyayaḥ ।। 
+adhikāraśabdād vā ikaṅpratyaye kṛte heyapadena karmadhārayas tadayamartho yato heyādhikārikā evātra malā vivakṣitāḥ ।। 
+tasmānna dharmajñānavairāgyādayo'pi malā iti ।। 
+ityetatsarvamākhyātaṃ saṃkṣipyābdhisamaṃ mayā ।
+ācāryāṇāṃ prasādena jñānaṃ pañcārthalakṣaṇam ।। 
+kiṃ jñātairbahubhiḥ śāstraiḥ svānuṣṭhānāpahāribhiḥ ।
+idamevottamaṃ jñātvā yogābhyāsaratirbhavet ।। 
+kṛtakṛtyaṃ svamātmānaṃ śrutvaitanmanyate tu yaḥ ।
+tasmai deyamidaṃ jñānaṃ nānyasmin siddhimicchatā ।। 
+yastu maryādāhīnebhyo dadyātkenāpi hetunā ।
+sa guhyabhedato gacchetsaha śiṣyairadhogatim ।। 
+namaḥ sadgurave tasmai sarvavidyāntagāmine ।
+sacchlokair aṣṭabhir yena pañcārthābdhiḥ pradarśitaḥ ।। ]

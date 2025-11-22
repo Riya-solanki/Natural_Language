@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1100 | label: meter | g:0.25 m:0.5 ---
+
+sāpi tenaiva patinā mahiṣī cārudarśanā ।
+samaṃ jagāma tat puṇyaṃ yakṣamaṇḍalamuttamam ।।

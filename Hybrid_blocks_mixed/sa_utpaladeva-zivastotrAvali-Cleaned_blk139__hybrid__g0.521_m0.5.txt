@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 139 | label: hybrid | g:0.521 m:0.5 ---
+
+bhavadāveśataḥ paśyan bhāvaṃ bhāvaṃ bhavanmayam vicareyaṃ nirākāṅkṣaḥ praharṣaparipūritaḥ ।।

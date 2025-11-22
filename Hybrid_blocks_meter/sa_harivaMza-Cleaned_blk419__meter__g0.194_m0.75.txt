@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 419 | label: meter | g:0.194 m:0.75 ---
+
+tasya niḥśvāsavātena raja uddhūyate mahat 
+ādityapatham āvṛtya saptāhaṃ bhūmikampanam ।।

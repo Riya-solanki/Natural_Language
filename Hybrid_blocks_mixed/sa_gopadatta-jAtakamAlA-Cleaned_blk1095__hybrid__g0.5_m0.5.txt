@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1095 | label: hybrid | g:0.5 m:0.5 ---
+
+ye vāsitāḥ sukusumena vivāhakāle mātuḥ kareṇa kṛtakautukamaṅgalena ।
+te adya pracaṇḍapavanair avadhūyamānāḥ keśāḥ śmaśānatarucāmaratāṃ prayātāḥ ।।

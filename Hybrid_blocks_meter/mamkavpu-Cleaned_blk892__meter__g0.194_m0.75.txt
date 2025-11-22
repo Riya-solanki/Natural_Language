@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 892 | label: meter | g:0.194 m:0.75 ---
+
+{jyābandhaniṣpandabhujena yasya viniśvamadvaktraparaṃpareṇa ।
+kārāgṛhe nirjitavāsavane laṅkeśvareṇoṣitamā prasādāt ।।}

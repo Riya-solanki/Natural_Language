@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9899 | label: meter | g:0.331 m:0.697 ---
+
+śrībhagavānuvāca ।
+dharmārthakāmaṃ ciramokṣasañcayamanyaṃ dvitīyaṃ yamamārgagāminām ।
+praviśyacāṅguṣṭhasame sa tatra vai taṃ prāpya dehaṃ svamandiram? ।।

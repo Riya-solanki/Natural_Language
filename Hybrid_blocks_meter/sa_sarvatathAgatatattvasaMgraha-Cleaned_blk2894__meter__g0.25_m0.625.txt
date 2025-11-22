@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2894 | label: meter | g:0.25 m:0.625 ---
+
+dharmavajrīṃ samādhāya puraḥ śīrṣe pratiṣṭhitāṃ ।
+tayābhiṣikto buddhaistu lokeśvarye abhiṣicyatī- ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11119 | label: hybrid | g:0.321 m:0.493 ---
+
+punaḥ punardarśanaṃ me kathaṃ syādevaṃ rudraḥ sa ca bhaktyā ruroda ।
+atastūrurnāma saṃprāpya rudrastatputrobhūddaurvasaṃjñaḥ sa eva ।।

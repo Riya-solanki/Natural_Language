@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1947 | label: meter | g:0.25 m:0.5 ---
+
+gamanāgamane caiva vāmā sarvatra pūjitā ।
+yuddhādibhojane ghāte strīṇāṃ caiva tu saṃgame ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 760 | label: hybrid | g:0.5 m:0.5 ---
+
+na cātra me niścayameti mānasaṃ dhanārthamevaṃ prataredbhavānapi ।
+avetya ko nāma guṇāguṇāntaraṃ guṇopamardaṃ dhanamūlyatāṃ nayet ।।

@@ -1,0 +1,4 @@
+--- source: jsbh2-3u-Cleaned.txt | block: 1 | label: meter | g:0.194 m:0.625 ---
+
+atha tṛtīyaḥ pādaḥ ।
+( adhikaraṇam । ) (a pā adhi)

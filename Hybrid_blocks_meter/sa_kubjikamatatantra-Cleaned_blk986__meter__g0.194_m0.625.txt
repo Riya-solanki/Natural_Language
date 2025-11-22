@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 986 | label: meter | g:0.194 m:0.625 ---
+
+viṣṇunā devarājena yuddhe daityās tu nirjitāḥ 
+agnivāyukubereṇa yamena varuṇena ca ।।

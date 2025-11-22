@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 441 | label: meter | g:0.25 m:0.779 ---
+
+dhṛteśca mahimno asyāsminnupalabdheḥ ।
+sautro dhṛtiśabdo bhāvavacanaḥ ।
+dhṛteśca parameśvara eva daharākāśaḥ ।
+kutaḥ, asya dhāraṇalakṣaṇasya mahimno asminneveśvara eva śrutyantareṣūpalabdheḥ ।
+nigadavyākhyānamasya bhāṣyam ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1992 | label: grammar | g:0.708 m:0.5 ---
+
+bodhisattva uvāca - kathamevaṃ mahadapi mamāgamanakāraṇamatrabhavānnābabhudhyate? nanu mayā pratipannamāgamiṣyāmīti । tadalaṃ māṃ khalajanasamatayaivaṃ pariśaṅkitum । sutasomaḥ khalvaham ।

@@ -1,0 +1,5 @@
+--- source: brsvbh3u-Cleaned.txt | block: 275 | label: meter | g:0.468 m:0.627 ---
+
+tasmātkāmānāmanityatvāttadavabaddhānāmupāsanānāmapyanityatvam ।
+nityānityasaṃyogavirodhāt satyapi tadāśrayāṇāṃ nityatve idameva cāśrayatantratvamāśritānāṃ yadāśraye satyeva vṛttirnāsatīti ।
+na tu tatra vṛttireva nāvṛttiriti tadidamuktam-āśrayatantrāṇyapi hīti ।।

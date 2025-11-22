@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 95 | label: meter | g:0.194 m:0.5 ---
+
+sūryāṅko bandhakṛt prokto yakṣasaṃsthas tu sāraṇaḥ 
+māraṇo manusaṃkhyaḥ syāt tithyaṅkaḥ pratisāraṇaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 106 | label: meter | g:0.25 m:0.625 ---
+
+dūrvākundākṣatān puṣpān lājayā saha bhaktimān ।
+prakṣipej jinacaityeṣu svastivākyam udāharan ।।

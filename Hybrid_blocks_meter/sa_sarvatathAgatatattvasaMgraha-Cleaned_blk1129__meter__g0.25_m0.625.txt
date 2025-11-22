@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1129 | label: meter | g:0.25 m:0.625 ---
+
+cumbaṃstu daśanairoṣṭhaṃ gṛhya huṅkārayogataḥ ।
+dvayendriyasamāpattyā yasya tasya mukhaṃ patet ।।

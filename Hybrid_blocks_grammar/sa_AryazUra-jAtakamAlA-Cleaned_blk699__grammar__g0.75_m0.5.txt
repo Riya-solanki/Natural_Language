@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 699 | label: grammar | g:0.75 m:0.5 ---
+
+evaṃ rājāpavāde api vācyam । dharmābhyāsaḥ prajānāṃ bhūtimāvahatīti bhūtikāmena dharmānuvartinā bhavitavyamityevamapyunneyam । na paśuhiṃsā kadācidabhyudayāya dānadamasaṃyamādayastvabhyudayāyeti tadarthinā dānādipareṇa bhavitavyamityevamapi vācyam । lokārthacaryāpravaṇamatirevaṃ pūrvajanmasvapi bhagavāniti tathāgatavarṇe api vācyam ।

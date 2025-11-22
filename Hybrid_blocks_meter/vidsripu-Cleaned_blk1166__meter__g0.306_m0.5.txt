@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1166 | label: meter | g:0.306 m:0.5 ---
+
+bhagavati yāmini vande tvayi bhuvi dṛṣṭaḥ pativratādharmaḥ ।
+gatavati rajanīnāthe kajjalamalinaṃ vapur vahasi ।।

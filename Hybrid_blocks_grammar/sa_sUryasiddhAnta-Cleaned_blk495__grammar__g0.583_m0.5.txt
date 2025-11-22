@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 495 | label: grammar | g:0.583 m:0.5 ---
+
+udayād udayaṃ bhānoh sāvanaṃ tat prakīrtitam। sāvanāni syur etena yajñakālavidhis tu taih।।

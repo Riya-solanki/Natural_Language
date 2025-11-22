@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 173 | label: grammar | g:0.67 m:0.375 ---
+
+Vṛtti:
+tataśca kṣetre parameśvarapratiṣṭhānāt pūrvakaṃ [gaṇeśavṛṣabhaskandamātṛlokeśakīlitaṃ] gaṇeśādyākrāntaṃ [dakṣiṇottaradigdvāraṃ] yāmyodaggatadvāraṃ śivadhāma [anyarakṣitam] anyasya sādhakasya rakṣitaṃ [mahājanākulaṃ] bahulokākīrṇaṃ [dūrasamitpuṣpakuśodakaṃ] viprakṛṣṭakuśakusumasamijjalaṃ [sopadravaṃ ca] hiṃsraprāṇicorādyupadravayutaṃ ca [saṃtyajya] tyaktvā [parigrahaṇamācared] etaddoṣarahitaṃ gṛhṇīyāt।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1088 | label: meter | g:0.062 m:0.741 ---
+
+śubhra-śyāma-rucī rucīm akurutāṃ paugaṇḍa-lakṣmī-kṛte
+cāpalyena muner api sma kurutaś cittaṃ milac-cāpalam ।
+nānā-krīḍita-mādhurī-vara-kalā śikṣā-kalāpaṃ gatau
+veṇūdgāna-sudhāṃ sudhāṃśu-vadanāv ātatya cikrīḍatuḥ ।। [śārdūla]

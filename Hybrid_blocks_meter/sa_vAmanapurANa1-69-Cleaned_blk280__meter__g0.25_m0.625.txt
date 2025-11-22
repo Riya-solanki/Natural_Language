@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 280 | label: meter | g:0.25 m:0.625 ---
+
+tato nārāyaṇo dṛṣṭvā āśramasyānavadyatām ।
+samīkṣya ca diśaḥ sarvāstato anaṅgamapaśyata ।।

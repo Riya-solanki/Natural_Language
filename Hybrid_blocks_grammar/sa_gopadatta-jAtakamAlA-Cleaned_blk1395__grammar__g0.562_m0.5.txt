@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1395 | label: grammar | g:0.562 m:0.5 ---
+
+taṃ matvā vitatavikāram eva dhairyāt te tīkṣṇais tarum iva cicchiduḥ kuṭhāraiḥ ।
+niḥśaṅkā galitakṛpāśivair manobhiḥ so apy āsīt tarur iva cāpanītamanyuḥ ।।

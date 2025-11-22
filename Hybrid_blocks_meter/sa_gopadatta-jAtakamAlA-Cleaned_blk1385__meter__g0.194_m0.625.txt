@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1385 | label: meter | g:0.194 m:0.625 ---
+
+tapobhir yāṃ dīrghair yamaniyamasaṃskāragurubhir
+vyavasyanti prāptuṃ salilaphalamūlānilabhujaḥ ।
+vibhūtiṃ tām aindrīṃ tṛṇam iva parityajya kṛpayā
+tiraścāṃ sābhāgyaṃ sa jagadupakārārtham agamat ।।

@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 785 | label: meter | g:0.25 m:0.5 ---
+
+dyūta-krīḍā bhagavatā kṛtā gopa-janaiḥ saha ।
+paṇāvahāra-rūpeṇa jitā gopyo dhanāni ca ।
+gopair ānīya tatraiva kṛṣṇāya viniveditāḥ ।।iti ।

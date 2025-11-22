@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1143 | label: meter | g:0.306 m:0.5 ---
+
+saṃbhāvanāyāṃ guṇabhāvanāyāṃ saṃdṛśyamāno hi yathā tathā vā ।
+viśeṣato bhāti yaśaḥprasiddhyā syāttvanyathā śuṣka ivodapānaḥ ।।

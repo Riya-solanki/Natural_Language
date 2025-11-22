@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4025 | label: meter | g:0.25 m:0.5 ---
+
+vareṇya viṣṇo vaikuṇṭha namaste puruṣottama ।
+namo jayanta vijaya jayānanta parājita ।।

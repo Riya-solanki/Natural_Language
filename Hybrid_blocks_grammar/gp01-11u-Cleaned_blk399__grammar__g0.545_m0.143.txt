@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 399 | label: grammar | g:0.545 m:0.143 ---
+
+śyāmaś cañcala-cāru-dīrgha-nayano bālas tavāṅka-sthale
+dugdhodgāri-payodhare sphuṭam asau krīḍan mayālokyate ।
+svapnas tat kim u jāgaraḥ kim athavety etan na niścīyate
+satyaṃ brūhi sadharmiṇi sphurati kiṃ so' yaṃ tavāpy antare ।।
+[] sovāca-śrīman ! mamāpīyam eva mano-vṛttir mati-vṛttim ativartamānā vartate । kevala-vilajjayā taj jātu bhavantaṃ na nivedayāmi । tasmād asmād asambhava-manorathān nivṛtti-śāstra-vicāram udyacchantau mana eva saṃyacchevahi ।

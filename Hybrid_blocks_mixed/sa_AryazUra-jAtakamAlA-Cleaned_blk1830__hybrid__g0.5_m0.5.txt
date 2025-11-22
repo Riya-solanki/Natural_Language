@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1830 | label: hybrid | g:0.5 m:0.5 ---
+
+yadbuddhipūrvaiva ca buddhisiddhirlokaḥ paro astīti tato apyavehi ।
+ādyā hi yā garbhagatasya buddhiḥ sānantaraṃ pūrvakajanmabuddheḥ ।।

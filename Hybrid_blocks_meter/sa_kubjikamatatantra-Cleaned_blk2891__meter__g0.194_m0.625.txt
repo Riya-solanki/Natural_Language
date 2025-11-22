@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2891 | label: meter | g:0.194 m:0.625 ---
+
+sidhyanti sādhakendrasya iti śāstre pracoditāḥ 
+aṣṭame īśvarākhyaṃ tu navame tu sadāśivam ।।

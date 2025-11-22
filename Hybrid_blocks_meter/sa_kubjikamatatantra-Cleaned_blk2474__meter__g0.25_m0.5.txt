@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2474 | label: meter | g:0.25 m:0.5 ---
+
+vismṛtir nitya cittasya daśa māsān sa jīvati 
+hṛdayaṃ śuṣyate yasya svakaṃ kāryaṃ na jānati ।।

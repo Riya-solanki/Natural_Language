@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 135 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra cāharahar aviraha-rahaḥ-keli-kalita-tṛṣṇayo rāma-kṛṣṇayor vikhyāta-tat-tan-nāmasu madhyama-kakṣyā-dvaya-dhāmasu parama-ramā-gaṇa-śreyasīnāṃ preyasīnām āvāsa-prāsādāvalir udbhāsate; [] yatra cāveśanam anu sāveśaṃ nānā-kalā-kalāpaṃ kalayantīnām ālīnāṃ nija-nija-yūtha-varūthapāyāḥ paramāpūrva-pūrva-pūrvānurāgādi-kathānikāyāṃ gāyantīnāṃ madhu-madhura-kākalī-kulāni tatrakīyaṃ sarvaṃ tarv-antam ārdrīkurvanti, kim uta bahu-kaṣṭa-sṛṣṭatayā mithunī-bhūtaṃ tat tan mithunam ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2597 | label: meter | g:0.25 m:0.75 ---
+
+snehārdranayanāḥ sarvāstadā sasvajire pitṝn ।
+nandayantyādikā dṛṣṭvā sapitṛkā varānanā ।।

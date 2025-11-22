@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2038 | label: meter | g:0.306 m:0.5 ---
+
+yaṃ nāma pratipannasya dharmādaikāntikī cyutiḥ ।
+na tu prasiddhiḥ saukhyasya tatra kiṃ nāma kauśalam ।।

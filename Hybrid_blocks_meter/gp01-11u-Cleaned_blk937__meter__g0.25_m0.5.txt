@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 937 | label: meter | g:0.25 m:0.5 ---
+
+krīḍantaṃ tanayaṃ bālair ativelaṃ sahāgrajam ।
+vīkṣya stana-miṣāt snehaṃ varṣantī hūtim ātanot ।। [anuṣṭubh]

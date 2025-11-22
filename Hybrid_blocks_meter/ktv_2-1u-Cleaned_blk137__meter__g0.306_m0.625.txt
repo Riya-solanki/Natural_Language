@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 137 | label: meter | g:0.306 m:0.625 ---
+
+yajer api tu yat karma pūjyatvād devateṣyate ।
+tadujjhitvaiva putrādeḥ karmatvaṃ bhāvanāśritam ।।

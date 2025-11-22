@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7497 | label: meter | g:0.25 m:0.677 ---
+
+tāvato rājitāṃllokānāpnuvanti hi puṣkalān ।
+caturbhisturagairyuktaṃ sarvopakaraṇairyutam ।।
+rathaṃ dvijātaye dattvā rājasūyaphalaṃ labht ।।
+dugdhādhikāṃ ca mahiṣīṃ navameghavarṇāṃ santuṣṭatarṇakavalīṃ jaghanābhirāmām ।
+dattvā suvarṇatilakāṃ dvijapuṅgavāya lokodayaṃ sa jayatīti kimatra citram ।।

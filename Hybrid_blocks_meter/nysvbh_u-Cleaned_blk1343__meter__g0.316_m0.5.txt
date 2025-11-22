@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1343 | label: meter | g:0.316 m:0.5 ---
+
+yady anityatvakāraṇamupapadyate śabdasya ity anityaḥ śabdaḥ ? nityatvakāraṇamapyupapadyate asyāsparśatvamiti nityatvamapyupapadyate।
+ubhayasya anityatvasya nityatvasya ca kāraṇopapattyā pratyavasthānamupapattisamaḥ ।।

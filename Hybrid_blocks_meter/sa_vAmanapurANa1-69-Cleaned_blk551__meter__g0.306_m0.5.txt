@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 551 | label: meter | g:0.306 m:0.5 ---
+
+virocanaścāpi jaleśvaraṃ tvagājjambhastvathāgād dhanadaṃ balāḍhyam ।
+vāyuṃ samabhyetya ca śambaro atha mayo hutāśaṃ yuyudhe munīndra ।।

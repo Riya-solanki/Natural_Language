@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1172 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha śrī-vanamāli-śāli vṛndāvanam indranīla-kāntibhir valitam iva dṛśā, yamunā-jala-paramāṇubhiḥ paricitam iva tvacā, mṛgamada-parāgaiḥ sa-rāgam iva nasā vicārya, tābhir viveśa । tataś ca-

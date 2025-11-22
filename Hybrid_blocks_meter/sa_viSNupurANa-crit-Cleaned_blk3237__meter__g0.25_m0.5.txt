@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3237 | label: meter | g:0.25 m:0.5 ---
+
+yas tu saṃtyajya gārhasthyaṃ vānaprastho na jāyate 
+parivrāḍ vāpi maitreya sa nagnaḥ pāpakṛn naraḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 577 | label: grammar | g:0.562 m:0.5 ---
+
+ityevasuktvā vacanaṃ vegenābisasāra ca। jagrāha pāṇinā daṇeḍaṃ hasan savyena nārada ।।

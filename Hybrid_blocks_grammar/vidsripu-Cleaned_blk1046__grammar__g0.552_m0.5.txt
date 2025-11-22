@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1046 | label: grammar | g:0.552 m:0.5 ---
+
+viṣvaṅ murmuranarma bibhrati pathāṃ garbheṣv adabhrāḥ paṭu- jyotir muktanirabhradīdhitighaṭānirdhūpitā dhūlayaḥ ।
+meghacchāyadhiyābhidhāvati puro nirdagdhadūrvāvanaṃ pānthaḥ kiṃ ca marīcivīciṣu payaḥpūrabhramaḥ klāmati ।।

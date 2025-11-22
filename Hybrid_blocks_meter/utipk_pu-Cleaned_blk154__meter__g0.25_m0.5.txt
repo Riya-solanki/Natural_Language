@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 154 | label: meter | g:0.25 m:0.5 ---
+
+piśācaḥ syād anāloko apy ālokābhyantare yathā ।
+adṛśyo bhūtalasyānta na niṣedhyaḥ sa sarvathā ।।

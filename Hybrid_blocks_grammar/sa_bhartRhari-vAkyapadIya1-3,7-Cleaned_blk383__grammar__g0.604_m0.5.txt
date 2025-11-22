@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 383 | label: grammar | g:0.604 m:0.5 ---
+
+janayitvā kriyā kā cit saṃbandhaṃ vinivartate śrūyamāṇe kriyāśabde saṃbandho jāyate kva cit ।।

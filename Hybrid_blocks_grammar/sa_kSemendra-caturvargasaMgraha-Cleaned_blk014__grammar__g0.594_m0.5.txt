@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 14 | label: grammar | g:0.594 m:0.5 ---
+
+satyaṃ vāci dṛśi prasādamayatā sarvāśayāśvāsinī pāṇau dānavimuktir ātmajananakleśāntacintā matau ।
+saṃsaktā hṛdaye dayaiva dayitā kāye parārthodyamo yasyaikaḥ puruṣaḥ sa jīvati bhave bhrāmyanty ajīvāḥ pare ।।

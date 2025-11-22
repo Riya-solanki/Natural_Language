@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1444 | label: grammar | g:0.604 m:0.5 ---
+
+apetāḥ śatrubhyo vayam iti viṣādo ayam aphalaḥ pratīkāras tv eṣām aniśam anusaṃdhātum ucitaḥ ।
+jarāsaṃdhād bhagnaḥ saha halabhṛtā dānavaripur jaghānainaṃ paścān na kim anilasūnuḥ priyasakhaḥ ।।

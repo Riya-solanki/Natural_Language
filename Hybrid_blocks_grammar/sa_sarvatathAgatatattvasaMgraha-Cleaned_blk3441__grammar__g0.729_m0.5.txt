@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3441 | label: grammar | g:0.729 m:0.5 ---
+
+"tato aviraktaḥ sarvakāmaguṇeṣu sarvāhāraḥ sarvakāmopabhogīhṛdayārthaḥ svamātmānaṃ buddhabimbaṃ purato vāṅmātreṇāpi bhāvayan yathākāmakaraṇīyatayā, aṣṭaśataṃ vajravācā japannāśu prasidhyatī-" tyāha bhagavān vajrasatvaḥ ।।

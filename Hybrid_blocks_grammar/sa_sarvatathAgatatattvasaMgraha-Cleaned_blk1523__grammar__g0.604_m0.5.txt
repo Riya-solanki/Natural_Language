@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1523 | label: grammar | g:0.604 m:0.5 ---
+
+atha vajraprabho vajrakrodha idaṃ svahṛdayamadāt । oṃ vajraprabha māraya saumyakrodha huṃ phaṭ ।।

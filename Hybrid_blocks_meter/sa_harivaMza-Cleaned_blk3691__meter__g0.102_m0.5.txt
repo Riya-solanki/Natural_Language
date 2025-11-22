@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3691 | label: meter | g:0.102 m:0.5 ---
+
+kṛtaḥ sainyakṣayaś cāpi mahān iha narādhipaiḥ 
+balāni ca sasainyāni hantuṃ varṣaśatair api 
+na śakṣyāmo hy atas teṣām apayāne abhavan matiḥ ।।

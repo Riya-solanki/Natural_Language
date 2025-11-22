@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1232 | label: hybrid | g:0.521 m:0.5 ---
+
+priyāyāṃ svairāyām atikaṭhinagarbhālasatayā kirāte cākarṇīkṛtadhanuṣi dhāvaty anupadam ।
+priyāpremaprāṇapratibhayavaśākūtavikalo mṛgaḥ paścād ālokayati ca muhur yāti ca muhuḥ ।।

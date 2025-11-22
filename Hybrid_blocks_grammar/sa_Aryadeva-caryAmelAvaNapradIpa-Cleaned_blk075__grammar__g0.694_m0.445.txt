@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 75 | label: grammar | g:0.694 m:0.445 ---
+
+akāraḥ sarvavarṇāgryo mahārthaḥ paramākṣaraḥ । mahāprāṇo hyanutpādo vāgudāhāravarjitaḥ । sarvābhilāpahetvagryaḥ sarvavāksuprabhāsvaraḥ ।। iti । jvalantaṃ dīpasadṛśaṃ hṛdi madhyamanāhatam । akṣaraṃ paramaṃ sūkṣmam akāraṃ paramaṃ prabhum ।। iti । dharmā ime śabdarutena vyākṛtā dharmaśca śabdaśca hi nātra labhyate । na caikatāṃ cāpyavatīrya dharmatām anuttarāṃ kṣāntivarāṃ spṛśiṣyate ।। iti ।
+vāgvivekamelāvaṇasaṃśayaparicchedastṛtīyaḥ ।।
+caturthaḥ paricchedaḥ

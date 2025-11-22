@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 628 | label: meter | g:0.25 m:0.5 ---
+
+nodvegas tāta kartavyaḥ kṛtaṃ yad bhavatā purā 
+tat ko apahartuṃ śaknoti dātuṃ kaś cākṛtaṃ tvayā ।।

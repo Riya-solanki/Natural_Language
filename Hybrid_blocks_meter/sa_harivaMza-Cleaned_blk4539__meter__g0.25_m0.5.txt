@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4539 | label: meter | g:0.25 m:0.5 ---
+
+niṣkramya tamasas tasmād ākāśe darśite tadā 
+bhaviṣyāmīti saṃjñā me bhayaṃ ca vigataṃ mama ।।

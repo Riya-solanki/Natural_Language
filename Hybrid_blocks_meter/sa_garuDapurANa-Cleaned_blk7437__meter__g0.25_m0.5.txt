@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7437 | label: meter | g:0.25 m:0.5 ---
+
+upariṣṭātsthito ghora uṣṇātmā rauravo mahān ।
+sudāruṇaḥ suśītātmā tasyā dhastāmasaḥ smṛtaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7126 | label: meter | g:0.25 m:0.75 ---
+
+avyayānandacaitanyaṃ parokṣasahitaṃ param ।
+prāṇapiṇḍātmako yotha sa dvitīyavibhāgakaḥ ।।

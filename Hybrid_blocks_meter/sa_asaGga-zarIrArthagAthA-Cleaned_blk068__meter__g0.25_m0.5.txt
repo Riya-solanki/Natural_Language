@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 68 | label: meter | g:0.25 m:0.5 ---
+
+kathaṃ smṛtasya carato vijñānam uparudhyate ।
+ācakṣva pṛṣṭa etan me yathātatham asaṃśayaḥ ।।

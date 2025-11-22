@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 756 | label: meter | g:0.194 m:0.5 ---
+
+agninā dahyate naiva bhajyate na hato ghanaiḥ 
+jale bruḍati naivāyaṃ duḥśakyo hi parīkṣitum ।।

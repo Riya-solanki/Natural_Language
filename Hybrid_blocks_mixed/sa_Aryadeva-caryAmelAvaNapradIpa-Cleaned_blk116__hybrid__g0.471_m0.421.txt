@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 116 | label: hybrid | g:0.471 m:0.421 ---
+
+sthūlaṃ śabdamayaṃ prāhuḥ sūkṣmaṃ cittāmayantathā । cittayā rahitaṃ yat tad yogināṃ paramaṃ padam ।। iti । 
+svasaṃvedyaṃ tu tattattvaṃ vaktuṃ nānyasya pāryate ।
+bhaktibhāvanayā gamyaṃ na gamyaṃ cānyathā nu tat ।।

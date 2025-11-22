@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 551 | label: meter | g:0.306 m:0.625 ---
+
+vyāsena muniśārdulā dadhīcyarthaṃ mahātmanā ।
+sarvatīrtheṣu sa snāti miśrake snāti yo naraḥ ।।

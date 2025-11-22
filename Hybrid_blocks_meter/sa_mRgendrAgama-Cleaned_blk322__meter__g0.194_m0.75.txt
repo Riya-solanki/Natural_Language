@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 322 | label: meter | g:0.194 m:0.75 ---
+
+bhadrāśvaṃ mālyavatprācyāṃ varṣaṃ bhadrajanākulam 
+suketanaṃ ketumālaṃ pratīcyāṃ gandhamādanāt ।।

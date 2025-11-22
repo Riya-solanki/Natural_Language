@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10466 | label: meter | g:0.25 m:0.5 ---
+
+avarā ca sadāsmyeva nātra kāryā vicāraṇā ।
+evaṃ stutvā sā girijā stūṣṇīmāsa khageśvara ।।

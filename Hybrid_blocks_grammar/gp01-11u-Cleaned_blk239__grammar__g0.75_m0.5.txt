@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 239 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha rāmānujaṃ hitavatī rohiṇy abhihitavatī, "tāta, yaśodāmāta, bālyād eva lālya-bhāvān mātur upadeśaṃ jātu na ca manyase । mama tu taṃ na matāntaram ātanoṣi । tataḥ sakṛd api mama nideśam asakṛd iva manyasva । mātur manas-tāpa-vistārān nistārāya nija-vadanāṃśu-sudhāṃ vistāraya tvaritam" iti ।

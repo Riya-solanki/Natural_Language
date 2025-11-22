@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 340 | label: meter | g:0.25 m:0.75 ---
+
+pratibhadraṃ ca padyānte kalpayetkalikāṣṭakam ।
+tataḥ saptadaśā vyastāḥ kalikārdhasamātṛkāḥ ।।

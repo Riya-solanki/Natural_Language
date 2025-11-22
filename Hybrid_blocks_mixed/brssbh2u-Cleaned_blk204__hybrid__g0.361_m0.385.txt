@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 204 | label: hybrid | g:0.361 m:0.385 ---
+
+sāṃkhyānāṃ trayo guṇāḥ sāmyenāvatiṣṭhamānāḥ pradhānam ।
+natu tadvyatirekeṇa pradhānasya pravartakaṃ nivartakaṃ vā kiñcidbāhyamapekṣyamavastitamasti ।
+puruṣastūdāsīno na pravartako na nivartaka ityato anapekṣaṃ pradhānaṃ, anapekṣatvācca kadācitpradhānaṃ mahadādyākāreṇa pariṇamate kadācinna pariṇamata ityetadayuktam ।
+īśvarasya tu sarvajñatvātsarvaśaktitvānmahāmāyatvācca pravṛttyapravṛttī na virudhyete ।।

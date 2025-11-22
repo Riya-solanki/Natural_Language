@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3749 | label: meter | g:0.306 m:0.5 ---
+
+snātvā virajase tīrthe dattvā piṇḍaṃ pitṝṃs tathā ।
+darśanārtha yayau śrīmān ajitaṃ puruṣottamam ।।

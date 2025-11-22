@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 982 | label: meter | g:0.185 m:0.646 ---
+
+yathā-
+tanvī darśana-saṃjñayaiva laitkām āpṛcchya saṃvardhitāṃ
+nyāsīkṛtya ca śārikāṃ parijane snigdhe samaṃ vīṇayā ।
+jyotsnām āviśatī viśārada-sakhī-vargeṇa karṇāntike
+siktena hy anapota-siṃha-nṛpater nāmnā punar jīvitā ।।

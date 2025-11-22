@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4155 | label: meter | g:0.194 m:0.625 ---
+
+prāsādavarasaṃpannair yuktaṃ jagati parvataiḥ 
+yaś cakāra mahābhāgas tvaṣṭā vāsavacoditaḥ ।।

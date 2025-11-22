@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1577 | label: meter | g:0.306 m:0.5 ---
+
+tato adraputrīṃ samavāpya śaṃbhuḥ saraiḥ samaṃ bhūtagaṇaiś ca hṛṣṭaḥ ।
+saṃpūjitaḥ parvatapārthivena sa mandaraṃ śīghramupādajagāma ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 826 | label: meter | g:0.306 m:0.5 ---
+
+tvattaḥ paraṃ cāhavanīyamanyaṃ loke na paśyāmi mahīmahendra ।
+unmādayantī mama puṇyavṛddhyai tāṃ dakṣiṇāmṛtvigiva pratīccha ।।

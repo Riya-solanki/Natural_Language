@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 349 | label: meter | g:0.102 m:0.5 ---
+
+śyāmavarṇaṃ tu tadrūpaṃ saṃjñā dṛṣṭvā vivasvataḥ 
+asahantī tu svāṃ chāyāṃ savarṇāṃ nirmame tataḥ 
+māyāmayī tu sā saṃjñā tasyāś chāyā samutthitā ।।

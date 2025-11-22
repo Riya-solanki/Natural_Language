@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 843 | label: grammar | g:0.583 m:0.5 ---
+
+rātriparyāyāś ced abhivichidyerann indrāya svāhā । indrāṇyai svāhā । chandobhyaḥ svāhā ।

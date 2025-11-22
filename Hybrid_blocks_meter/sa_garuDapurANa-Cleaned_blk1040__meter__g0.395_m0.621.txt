@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1040 | label: meter | g:0.395 m:0.621 ---
+
+śrīgaruḍamahāpurāṇam- 
+vāsudeva uvāca ।
+oṃ viśvāvasurnāma gandharvaḥ kanyānāmadhipatirlabhāmi te kanyāṃ samutpādya tasmai viśvavāsave svāhā ।
+strīlābho mantrajāpyācca kālarātriṃ vadāmyaham ।।

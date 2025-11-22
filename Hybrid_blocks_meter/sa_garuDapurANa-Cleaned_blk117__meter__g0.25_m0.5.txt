@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 117 | label: meter | g:0.25 m:0.5 ---
+
+aṇḍo hiraṇmayo rudra tasyāntaḥ svayameva hi ।
+śarīragrahaṇaṃ pūrvaṃ sṛṣṭyarthaṃ kurute prabhuḥ ।।

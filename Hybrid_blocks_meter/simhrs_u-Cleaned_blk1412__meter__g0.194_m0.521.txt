@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1412 | label: meter | g:0.194 m:0.521 ---
+
+bho laṅkeśvara dīyatāṃ janakajā rāmaḥ svayaṃ yācate
+ko' yaṃ te mati-vibhramaḥ smara nayaṃ nādyāpi kiṃcid gatam ।
+naivaṃ cet khara-dūṣaṇa-triśirasāṃ kaṇṭhāsṛjā paṅkilaḥ
+patrī naiṣa sahiṣyate mama dhanur jyā-bandha-bandhūkṛtaḥ ।।

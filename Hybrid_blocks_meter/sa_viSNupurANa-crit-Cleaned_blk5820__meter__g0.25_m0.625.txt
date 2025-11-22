@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5820 | label: meter | g:0.25 m:0.625 ---
+
+yasmād virūparūpaṃ māṃ matvā hāsāvamānanā 
+bhavatībhiḥ kṛtā tasmād eṣaṃ śāpaṃ dadāmi vaḥ ।।

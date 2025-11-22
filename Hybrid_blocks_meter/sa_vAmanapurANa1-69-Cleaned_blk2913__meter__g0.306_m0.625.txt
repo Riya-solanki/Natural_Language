@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2913 | label: meter | g:0.306 m:0.625 ---
+
+pañca ṣaṭ sapta cāṣṭau vā vraghnapādairghanā iva ।
+gadayā kāṃścidavadhīt cakreṇānyān janārdanaḥ ।।

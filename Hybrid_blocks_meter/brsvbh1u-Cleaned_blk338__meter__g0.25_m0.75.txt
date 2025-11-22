@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 338 | label: meter | g:0.25 m:0.75 ---
+
+-upādheḥ sādhanavyāpakatvaṃ śaṅkate-yadyucyetetyādi ।

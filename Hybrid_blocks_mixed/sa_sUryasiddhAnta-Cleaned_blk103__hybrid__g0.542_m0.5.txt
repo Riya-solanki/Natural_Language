@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 103 | label: hybrid | g:0.542 m:0.5 ---
+
+tadavāptaphalaṃ yojyaṃ jyāpiṇḍe gatasaṃjñake। syāt kramajyāvidhir ayaṃ utkramajyāsv api smṛtah।।

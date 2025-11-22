@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 340 | label: hybrid | g:0.496 m:0.411 ---
+
+atra aitaścānandamayaḥ iti bhāṣyasya sthāne itaśca brahma pucchaṃ pratiṣṭhā iti paṭhitavyam ।
+bhedavyapadeśācca ।।

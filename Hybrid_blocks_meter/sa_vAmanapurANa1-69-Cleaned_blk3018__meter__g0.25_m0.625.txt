@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3018 | label: meter | g:0.25 m:0.625 ---
+
+yadbhūbhyāṃ nyapatad vipra svedabinduḥ śivānanāt ।
+tasmādaṅgarapuñjābho bālakaḥ samajāyata ।।

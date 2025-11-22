@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 264 | label: hybrid | g:0.497 m:0.5 ---
+
+palagaṇḍa dakṣa vidunā kṛtu dāruyantro puruṣe stritulya sa karoti ha sarvakāryam 
+emeva prajñacarito vidu bodhisattvo jñānena sarva kriya kurvati nirvikalpo ।।

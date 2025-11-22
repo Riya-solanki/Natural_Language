@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 99 | label: meter | g:0.17 m:0.774 ---
+
+akhaṇḍamaṇḍalākāraśivatābhāvanāmbaram
+upariṣṭān mayā śambhor vitānam upakalpitam

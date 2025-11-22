@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1703 | label: meter | g:0.194 m:0.75 ---
+
+pañcavarṣasahasrāṇi janā jīvanty anāmayāḥ 
+dharmaḥ pañcasv athaiteṣu varṇāśramavibhāgaśaḥ ।।

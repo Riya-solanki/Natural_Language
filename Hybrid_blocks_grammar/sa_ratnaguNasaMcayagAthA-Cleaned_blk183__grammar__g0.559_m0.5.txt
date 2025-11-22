@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 183 | label: grammar | g:0.559 m:0.5 ---
+
+bījātu stamba phala puṣpa samāgamanti so vāniruddha asato na hi tasya vṛkṣo 
+emeva citta prathamaṃ tu nidāna bodheḥ so vā niruddha asato na hi tasya bodhiḥ ।।

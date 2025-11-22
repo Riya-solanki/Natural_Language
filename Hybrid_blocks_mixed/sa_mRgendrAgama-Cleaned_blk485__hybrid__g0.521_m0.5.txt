@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 485 | label: hybrid | g:0.521 m:0.5 ---
+
+[guravaḥ] ācāryāḥ putrakāḥ tathā [na prāthamikasādhakāḥ] dehapātāvadhimantrasādhakāśceti niṣṭhāvratino jñeyāḥ।

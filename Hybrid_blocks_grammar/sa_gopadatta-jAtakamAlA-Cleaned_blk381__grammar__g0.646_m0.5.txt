@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 381 | label: grammar | g:0.646 m:0.5 ---
+
+atha maitrakanyako bodhisattvo mātaram apramāṇīkṛtya nirgatya gṛhād vārāṇasyāṃ puryām ātmānaṃ sārthavāham ity udghoṣayām āsa ।

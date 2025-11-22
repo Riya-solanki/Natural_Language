@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 310 | label: grammar | g:0.765 m:0.125 ---
+
+mahābījaprabhāvaṃ darśayannāha samagarbha ityādi ।।
+ihāsmiñśāstre vidhinā śāstroktarītyā yāni bījānyuktāni tāni kartavyāni sāmānyeneti bhāvaḥ paraṃ garbhadrutyarthaṃ ayaṃ vārttikendro yogaḥ vārttāsu kuśalā vārtikāḥ śāstropadeśarahitā ityarthaḥ atra bhāvādyarthe ikpratyayaḥ teṣu vārtikeṣu indraḥ pravaro yogaḥ tathānenaiva prakāreṇa ekamataścāyaṃ śāstropadeśikānāṃ śāstropadeśarahitānāṃ ca abhimata ityarthaḥ ।।

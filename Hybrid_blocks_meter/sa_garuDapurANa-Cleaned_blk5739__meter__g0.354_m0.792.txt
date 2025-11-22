@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5739 | label: meter | g:0.354 m:0.792 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+citrakasyāṣṭabhāgāśca śūraṇasya ca ṣoḍaśa ।
+śuṇṭhyā bhāgāśca catvāro maricānāṃ dvayaṃ tathā ।।

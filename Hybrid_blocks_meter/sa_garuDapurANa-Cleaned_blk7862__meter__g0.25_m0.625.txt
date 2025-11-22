@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7862 | label: meter | g:0.25 m:0.625 ---
+
+yatrāsta muktidaḥ sākṣādrāmo rājīvalocanaḥ ।
+āgneyaṃ vāyukauberaṃ kaumāraṃ bhūruhāṃ punaḥ ।।

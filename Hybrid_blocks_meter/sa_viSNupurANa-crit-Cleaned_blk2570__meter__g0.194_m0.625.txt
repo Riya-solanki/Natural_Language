@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2570 | label: meter | g:0.194 m:0.625 ---
+
+yājñavalkyo api maitreya prāṇāyāmaparāyaṇaḥ 
+tuṣṭāva praṇataḥ sūryaṃ yajūṃṣy abhilaṣaṃs tataḥ ।।

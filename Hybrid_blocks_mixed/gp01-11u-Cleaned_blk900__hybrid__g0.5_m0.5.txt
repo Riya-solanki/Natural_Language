@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 900 | label: hybrid | g:0.5 m:0.5 ---
+
+[] kṛṣṇaḥ sa-roṣāsram uvāca-māṃ vihāyeyam apīyāya iti ।

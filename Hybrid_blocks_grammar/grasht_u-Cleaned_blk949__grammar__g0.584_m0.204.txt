@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 949 | label: grammar | g:0.584 m:0.204 ---
+
+rasāyanādhikāratvam āha itītyādi ।।
+pūrvoktavidhānena śuddhaḥ san yo jātabalo bhavati sa kṣetrīkṛtanijadehaḥ akṣetraṃ kṣetraṃ kriyata iti kṣetrīkṛto nijadehaḥ śarīraṃ yena saḥ matimān rasāyanaṃ vidhivatprakurvīta ।।
+kaiḥ jātabalaḥ śālyodanaṃ ca yāvakākhyaṃ ca mudgāśca taiḥ ।।

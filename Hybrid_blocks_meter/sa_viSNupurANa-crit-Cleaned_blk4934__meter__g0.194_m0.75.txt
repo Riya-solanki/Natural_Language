@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4934 | label: meter | g:0.194 m:0.75 ---
+
+tvam antaḥ sarvabhūtānāṃ sarvabhūteṣv avasthitaḥ 
+pravartete samastātmaṃs tvatto bhūtabhaviṣyatī ।।

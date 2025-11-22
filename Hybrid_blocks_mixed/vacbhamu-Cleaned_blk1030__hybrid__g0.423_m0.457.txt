@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 1030 | label: hybrid | g:0.423 m:0.457 ---
+
+sūtrāntarāvataraṇāya codayati nanu ca yatra kāle tviti ।
+kāla evātra prādhānyenocyate na tvātivāhikī devatetyarthaḥ ।
+yoginaḥ prati ca smaryate smārte caite ।
+smārtīmupāsanāṃ pratyayaṃ smārtaḥ kālabhedaviniyogaḥ pratyāsatteḥ na tu śrautīṃ pratītyarthaḥ ।
+atra yadi smṛtau kālabhedavidhiḥ śrautau cāgnijyotirādividhistatrāgnyādīnāmātivāhikatayā viṣayavyavasthayā virodhābhāva uktaḥ ।
+atha pratyabhijñānaṃ tathāpi yatra kāla ityatrāpi kālābhidhānadvāreṇātivāhikya eva devatā uktā ityavirodha eveti ।।

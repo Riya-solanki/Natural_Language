@@ -1,0 +1,10 @@
+--- source: nysvbh_u-Cleaned.txt | block: 928 | label: meter | g:0.0 m:1.0 ---
+
+yāvatsu dravyeṣu pūrvaguṇapratidvandvisiddhistāvatsu
+pākajotpattirdṛśyate pūrvaguṇaiḥ saha
+pākajānāmavasthānasyāgrahaṇāt na ca śarīre
+cetanāpratidvandvi sahānavasthāyi
+guṇāntaraṃ gṛhyate yenānumīyeta tena
+cetanāyā virodhaḥ, tasmādapratiṣaddhā
+cetanā yāvaccharīraṃ varteta na tu vartate
+tasmānna śarīraguṇaścetanā iti ।।

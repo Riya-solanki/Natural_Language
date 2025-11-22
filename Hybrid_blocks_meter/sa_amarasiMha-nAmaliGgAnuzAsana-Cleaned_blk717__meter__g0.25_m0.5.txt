@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 717 | label: meter | g:0.25 m:0.5 ---
+
+kharjūraḥ ketakī tālī kharjurī ca tṛṇadrumāḥ iti vanauṣadhivargaḥ

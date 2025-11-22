@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3801 | label: grammar | g:0.75 m:0.5 ---
+
+tan nūnam asya sakāśe sa mahāmaṇiḥ syamantakākhyas tiṣṭhati । tasya hy evaṃvidhāḥ prabhāvāḥ śrūyante । ayam api ca yajñād anantaram anyat kratvantaraṃ anantaram ca tasmād yajñāntaraṃ yajatīti । alpopādānaṃ cāsyā saṃśayam atrāsau varamaṇis tiṣṭhatīti kṛtādhyavasāyo anyat prayojanam uddiśya sakalayādavasamājam ātmageha evācīkarat ।।

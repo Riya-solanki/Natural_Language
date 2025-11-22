@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 401 | label: hybrid | g:0.25 m:0.378 ---
+
+atha vyaktīnāmapyavilakṣaṇarūpasāmānyasaṃbandhasiddhyarthaṃ paramavilakṣaṇarūpamabhyupagamyate tatastenāpi saṃbandhasiddhyarthamaparāparāsāmānyāpekṣayāmanavasthā syāt ।
+tasmādvikalpamātramevedam, na paramārthataḥ sāmānyaṃ nāma kiñcit ।।

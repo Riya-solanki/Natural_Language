@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3746 | label: meter | g:0.25 m:0.625 ---
+
+vairasyāntaṃ vidhitsaṃs tu vāsudevo mahāyaśāḥ 
+niveśya dvārakāṃ rājan vṛṣṇīn āśvāsya caiva ha ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 934 | label: grammar | g:0.552 m:0.5 ---
+
+jātaḥ kule mahati mānamadāvalipte kṣudvikṣato abhyudayakāla iva praharṣāt ।
+uccheṣapiṇḍam api nāma nṛpasya bhuṅkte yat sārameya iva kaṣṭataraṃ kim anyat ।।

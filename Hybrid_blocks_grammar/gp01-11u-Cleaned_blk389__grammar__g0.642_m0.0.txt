@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 389 | label: grammar | g:0.642 m:0.0 ---
+
+maryādāṃ pitur ayam āvad eva sarvāṃ
+dharmādir na vipadam eti yatra cārthaḥ ।
+sampattir na punar abhūd amuṣya vaśyā
+yenāsau prasabham avāpa vṛddhim eva ।।
+[] tad evaṃ sarva-samṛddhi-vṛddhi-siddhim āyāte rājanvati vraja-jana-jāte kalikāyamānā kācid utkalikā krameṇa vikāsam ayāmāsa । sarveṣāṃ prāṇa-tulyasya nija-kulyasya rājñas tasya santatir na jāyata iti । kālātyaye cāśā-vyatyayāt sarvaṃ janam atīva kṛcchram ānarccha । agrajādīṃs tu sutarām । śrīmad-vrajapati-jampatī tu prajāśāṃ pūrvata eva sandigdhi-digdhām api kurvāte sma, uttaratas tu viśeṣataḥ ।

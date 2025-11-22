@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 261 | label: grammar | g:0.542 m:0.25 ---
+
+oṃ sūryāsanāya namaḥ । oṃ namaḥ sūryamūrtaye । oṃ hrāṃ hrīṃ saḥ sūryāya namaḥ । oṃ somāya namaḥ । oṃ maṅgalāya namaḥ । oṃ budhāya namaḥ oṃ bṛhaspataye namaḥ । oṃ śukrāya namaḥ । 
+oṃ śanaiścarāya namaḥ ।
+oṃ rāhave namaḥ ।
+oṃ ketave namaḥ ।
+oṃ tejaścaṇḍāya namaḥ ।।

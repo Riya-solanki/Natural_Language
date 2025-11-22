@@ -1,0 +1,5 @@
+--- source: vamkalvu-Cleaned.txt | block: 64 | label: hybrid | g:0.344 m:0.338 ---
+
+mādhruyeṇa saukumāryeṇa ca guṇonopapannā pāñcālī nāma rītiḥ । ojaḥkāntyabhāvādanulbaṇapadā vicchāyā ca । tathā ca ślokaḥ 
+āśliṣṭaślathabhāvāṃ tu purāṇacchāyayānvitām ।
+madhurāṃ sukumārāṃ ca pāñcālīṃ kavayo viduḥ ।।

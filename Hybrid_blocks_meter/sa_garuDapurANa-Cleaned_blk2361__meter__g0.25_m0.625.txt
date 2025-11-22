@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2361 | label: meter | g:0.25 m:0.625 ---
+
+kūpodakena tatkāryaṃ pitṝṇāṃ dattamakṣayam ।
+tṛtīye abahni brahmasado gatvā snātvātha tarpaṇam ।।

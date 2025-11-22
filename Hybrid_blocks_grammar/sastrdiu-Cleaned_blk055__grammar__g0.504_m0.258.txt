@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 55 | label: grammar | g:0.504 m:0.258 ---
+
+atha pratijñātasyaiva vedārthasya kāryatvasiddhaye dharmatvamucyate ।
+kiṃ kāryaṃ eva dharmarūpo vedārthaḥ sa eva jijñāsyo nānyaḥ, tathācet ya eva jijñāsyo dharmastasyaiva sūtrākṣaravināśena jijñāsā pratijñāsyeti vedārthapratijñāvacanārthakam ।।

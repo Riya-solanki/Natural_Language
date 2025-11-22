@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 371 | label: meter | g:0.25 m:0.521 ---
+
+yuvateriva rūpamaṅgakāvyaṃ svadate śuddhaguṇaṃ tadapyatīva ।
+vihitapraṇayaṃ nirantarābhiḥ sadalaṅkāravikalpakalpanābhiḥ ।।
+yadi bhavati vacaścyutaṃ guṇebhyo vapuriva yauvanavandhyamaṅganāyāḥ ।
+api janadayitāni durbhagatvaṃ niyatamalaṅkaraṇāni saṃśrayante ।।

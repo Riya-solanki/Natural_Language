@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3146 | label: meter | g:0.25 m:0.625 ---
+
+athāha kṛṣṇam akrūro yamunātīram āśritaḥ 
+syandanaṃ tāta rakṣasva yatnaṃ ca kuru vājiṣu ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4083 | label: meter | g:0.25 m:0.625 ---
+
+agastyādīnmunīnnatvā śrutvotpattiñca rakṣasām ।
+svargaṃ gato janaiḥ sārdhamayodhyāsthaiḥ kṛtārthakaḥ ।।

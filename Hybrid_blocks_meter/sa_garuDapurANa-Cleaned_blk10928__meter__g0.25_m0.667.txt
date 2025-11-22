@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10928 | label: meter | g:0.25 m:0.667 ---
+
+vedābhimāninī vīndra annapūrṇā prakīrtitā ।
+nārāyaṇasya bhāryā tu lakṣmīrūpā tvajā smṛtā ।।
+yajñākhyasya harerbhāryā dakṣiṇā saṃprakīrtitā ।।
+jayantī vṛṣabhasyaiva patnī saṃparikīrtitā ।
+videhaputrī sītā tu rāmabhāryā prakīrtitā ।।

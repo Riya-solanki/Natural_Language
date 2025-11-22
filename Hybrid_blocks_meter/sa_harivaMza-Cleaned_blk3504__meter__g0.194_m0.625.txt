@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3504 | label: meter | g:0.194 m:0.625 ---
+
+nanditūryāṇy avādyanta tuṣṭuvuś ca janārdanam 
+rathyāḥ patākāmālinyo bhrājanti sma samantataḥ ।।

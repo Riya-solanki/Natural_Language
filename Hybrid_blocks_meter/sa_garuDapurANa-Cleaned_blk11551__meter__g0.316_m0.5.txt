@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11551 | label: meter | g:0.316 m:0.5 ---
+
+māṃ pāhi nityaṃ hyaravindanetra prasannadṛṣṭyā karuṇāsudhārdra ।
+govinda govinda suduḥ khitāṃ māṃ jñānādidānena hi pāhi nityam ।।

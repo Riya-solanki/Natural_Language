@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1460 | label: meter | g:0.35 m:0.511 ---
+
+satsu rakto dviṣāṃ kālaḥ pītaḥ strīṇāṃ vilocanaiḥ ।
+śubhrakīrtyāsi tat satyaṃ caturvarṇāśramo bhavān ।।
+acalasya

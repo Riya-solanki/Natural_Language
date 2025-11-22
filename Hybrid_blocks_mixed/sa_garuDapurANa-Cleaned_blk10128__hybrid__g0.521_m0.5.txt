@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10128 | label: hybrid | g:0.521 m:0.5 ---
+
+rajaḥ prācuryādrājasānīti ca huḥ śrāvyāṇi naitāni mumukṣubhiḥ sadā ।
+teṣāṃ madhye sāttvikāṃśāśca saṃti teṣāṃ śrutergāruḍīyaṃ phalaṃ ca ।।

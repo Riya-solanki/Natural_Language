@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1069 | label: grammar | g:0.604 m:0.5 ---
+
+rāmaḥ sainyasamanvitaḥ kṛtaśilāsetur yad ambhonidheḥ pāraṃ laṅghitavān purā tad adhunā nāścaryam āpādayet ।
+ekākiny api setubandhurahitān saptāpi vārāṃnidhīn helābhis tava deva deva kīrtivanitā yasmāt samullaṅghati ।।

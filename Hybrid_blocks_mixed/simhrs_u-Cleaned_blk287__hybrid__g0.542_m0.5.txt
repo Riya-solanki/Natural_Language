@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 287 | label: hybrid | g:0.542 m:0.5 ---
+
+atra na vrajāva ity uttaram adattvā kuṭila-darśanenaiva vyañjanād vihṛtam ।

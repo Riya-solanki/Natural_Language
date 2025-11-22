@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1837 | label: meter | g:0.272 m:0.595 ---
+
+vivṛtāt tasya vadanān niḥśvāsapavaneritāḥ 
+prajānāṃ paṅktayo hy oghair niṣpatanti viśanti ca ।।

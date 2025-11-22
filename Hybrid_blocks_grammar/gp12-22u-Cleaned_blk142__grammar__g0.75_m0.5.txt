@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 142 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha hīne tasmin ahīne sadayaṃ tad-anumoda-mānaḥ krodhaṃ vinayamānaḥ kṛta-yaśodā-yaśo-dānaḥ svāṅghri-saṅghaṭṭana-truṭitāt kāliya-niṭilād avatīrya nātiprakaṭita-vīryas tasyāvag-vaktratayā sthitasyāgre kṣaṇa-katipayaṃ karuṇā-vyagrekṣaṇatayāvatasthe । atha vanamālī kālindīya-hradam iva kāliya-hradaṃ dāyati sma ।

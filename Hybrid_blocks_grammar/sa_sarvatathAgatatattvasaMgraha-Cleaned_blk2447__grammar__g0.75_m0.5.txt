@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2447 | label: grammar | g:0.75 m:0.5 ---
+
+atha mahāmaṇikuladharmamudrājñānaṃ bhavanti, traḥ, graḥ, triḥ, hrīḥ, śrīḥ, iḥ, raḥ haḥ, dhrīḥ dhīḥ, kṛ, vā, ro, ḍhaḥ, ya, aḥ ।

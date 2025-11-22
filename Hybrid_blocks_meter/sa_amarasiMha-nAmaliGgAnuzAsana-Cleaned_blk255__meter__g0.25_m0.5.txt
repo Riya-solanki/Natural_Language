@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 255 | label: meter | g:0.25 m:0.5 ---
+
+madgurasya priyā śṛṅgī durnāmā dīrghakośikā jalāśayā jalādhārāstatrāgādhajalo hradaḥ

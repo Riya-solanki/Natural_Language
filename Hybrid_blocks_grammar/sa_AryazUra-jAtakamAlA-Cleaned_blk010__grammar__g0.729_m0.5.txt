@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 10 | label: grammar | g:0.729 m:0.5 ---
+
+sarvasattveṣvakāraṇaparamavatsalasvabhāvaḥ sarvabhūtātmabhūtaḥ pūrvajanmasvapi sa bhagavāniti buddhe bhagavati paraḥ prasādaḥ kāryaḥ ।। tadyathānuśrūyate - ratnatrayagurubhiḥ pratipattiguṇābhirādhitagurubhirguṇapravicayagurubhirasmadgurubhiḥ parikīrtyamānamidaṃ bhagavataḥ pūrvajanmāvadānam ।

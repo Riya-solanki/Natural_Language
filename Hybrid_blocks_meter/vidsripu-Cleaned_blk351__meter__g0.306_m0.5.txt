@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 351 | label: meter | g:0.306 m:0.5 ---
+
+manasi kusumabāṇair ekakālaṃ trilokīṃ kusumadhanur anaṅgas tāḍayaty aspṛśadbhiḥ ।
+iti vitatavicitrāścaryasaṃkalpaśilpo jayati manasijanmā janmibhir mānitājñaḥ ।।

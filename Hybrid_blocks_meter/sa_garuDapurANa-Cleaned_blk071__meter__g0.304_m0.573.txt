@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 71 | label: meter | g:0.304 m:0.573 ---
+
+brahmovāca ।
+yathā papraccha māṃ vyāsa stathāsau bhagavān bhavaḥ ।
+papraccha viṣṇuṃ devādyaiḥ śṛṇvatāmamaraiḥ saha ।।

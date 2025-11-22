@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3864 | label: grammar | g:0.75 m:0.5 ---
+
+tannāmasaṃtatisaṃjñāś ca pañca viṣayāḥ babhūvuḥ । aṅgasya tv anapānas tasyātmajo divirathas tasmād dharmarathaḥ । tataś citraratho romapādasaṃjñaḥ । yasya putro daśaratho jajñe । yasmai ajaputro daśarathaḥ śāntāṃ nāma kanyām anapatyāya duhitṛtve yuyoja ।।

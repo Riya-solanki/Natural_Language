@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 611 | label: grammar | g:0.822 m:0.329 ---
+
+darśanena yāvadartho gṛhītaḥ sparśanenāpi so artho gṛhyate ayamahamadrākṣaṃ cakṣuṣā taṃ sparśanenāpi spṛśāmi, iti ayaṃ cāspārkṣaṃ sparśanena taṃ cakṣuṣā paśyāmīti ekaviṣayau cermā pratyayau ekakartṛkau pratisaṃdhīyete na ca saṃghātakartṛkau na indriyeṇaikakartṛkau, tad yo asau cakṣuṣā tvagindriyeṇa caikārthasya grahītā bhinnanimittau ananyakartṛkau pratyayau samānaviṣayau pratisaṃdadhāti so arthāntarabhūta ātmā।
+kathaṃ punarnendriyeṇaikakartṛkau ? indriyaṃ khalu svaṃ svaṃ viṣayagrahaṇam ananyakartṛkaṃ pratisaṃdhātumarhati nendriyāntarasya viṣayāntaragrahaṇamiti।
+kathaṃ na saṃghātakartṛkau ? ekaḥ khalvayaṃ bhinnanimittau svātmakartṛkau pratyayau pratisaṃhitau vedayate na saṃghātaḥ, kasmāt ? anivṛttaṃ hi saṃghāte pratyekaṃ viṣayāntaragrahaṇasyāpratisaṃdhānam indriyāntareṇeveti ।।

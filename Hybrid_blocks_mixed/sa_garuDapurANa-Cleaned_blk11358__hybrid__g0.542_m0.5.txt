@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11358 | label: hybrid | g:0.542 m:0.5 ---
+
+na te narā naiva te vai kṣitīśāḥ sarve naiva hyuttamāḥ sarvadaiva ।
+ye devā ye ca daityāśca sarvepyevaṃ khagādhipa ।।

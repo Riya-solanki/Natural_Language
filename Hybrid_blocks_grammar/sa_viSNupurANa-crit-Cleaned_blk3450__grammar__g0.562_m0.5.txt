@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3450 | label: grammar | g:0.562 m:0.5 ---
+
+kṛtānurūpavivāhaś ca maharṣiḥ sakalā eva tāḥ kanyāḥ svam āśramam anayat ।।

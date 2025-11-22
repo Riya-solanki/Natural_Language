@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 136 | label: hybrid | g:0.5 m:0.5 ---
+
+vasātrayaṃ ca dvau medo majjaikārdhaṃ ca mastake ।।

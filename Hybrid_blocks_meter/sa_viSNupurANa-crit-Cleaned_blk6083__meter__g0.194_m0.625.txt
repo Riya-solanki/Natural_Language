@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6083 | label: meter | g:0.194 m:0.625 ---
+
+dahyamānaṃ tu tair dīptais trailokyaṃ dvija bhāskaraiḥ 
+sādrinadyarṇavābhogaṃ niḥsneham abhijāyate ।।

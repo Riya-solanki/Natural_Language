@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 11 | label: hybrid | g:0.396 m:0.5 ---
+
+sa-sanātana-rūpaka iti, "he sanātanena sadātanena śvasvarūpam anubhavadbhir api sunirūpaṇa rūpeṇa saha vartamāna! tena svabhaktivittacittam anuvartamāna!"

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2616 | label: meter | g:0.194 m:0.5 ---
+
+kṣīravatya imā gāvo vatsavatyaś ca nirvṛtāḥ 
+tena saṃvardhitā gāvas tṛṇaiḥ puṣṭāḥ sapuṃgavāḥ ।।

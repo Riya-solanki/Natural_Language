@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 390 | label: meter | g:0.0 m:1.0 ---
+
+veśena sambhogecchā-prakaṭanād, yathā-

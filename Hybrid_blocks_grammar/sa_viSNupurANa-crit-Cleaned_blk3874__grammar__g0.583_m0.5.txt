@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3874 | label: grammar | g:0.583 m:0.5 ---
+
+iti bharadvājaś ca tasya vitathe putrajanmani marudbhir dattas tato vitathasaṃjñām avāpa ।।

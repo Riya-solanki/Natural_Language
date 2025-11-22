@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 263 | label: meter | g:0.451 m:0.637 ---
+
+kaścittvāha- na viruddhārthaṃ hetudvayaṃ tulyabalamekatra saṃbhavati, tadbhāve vastuni nityaṃsaśayāpatteḥ ।
+dravyatve satyarūpatvasyāparokṣāvabhāsīvirodhādapratyakṣatvamanumāpayitumasāmathryāddaurbalyam ।
+spārśanānumānaṃ tvaviruddhaṃ balavaditi na dvayostulyabalavattvaṃ, ato nāsti sapratisādhano heturiti ।
+sa vaktavyaḥ- savyabhācāro api tarhi na saṃśayahetuḥ syānnityasaṃśayāpattiprasaṅgādeva ।।

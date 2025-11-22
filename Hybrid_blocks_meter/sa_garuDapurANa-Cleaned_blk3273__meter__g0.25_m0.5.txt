@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3273 | label: meter | g:0.25 m:0.5 ---
+
+yatkiñcitkurute karma śubhaṃ vā yādi vāśubham ।
+tena sma vardhate rājā sūkṣmato bhṛtyakāryataḥ ।।

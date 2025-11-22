@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3645 | label: grammar | g:0.75 m:0.5 ---
+
+ūcuś cainam agnim āmnāyānusārī bhūtvā tridhā kṛtvorvaśīsalokatāmanoratham uddiśya samyag yajethās tato avaśyam abhilaṣitam avāpsyasīty uktas tām agnisthālīm ādāyājagāma antar aṭavyām acintayad aho me atimūḍhatā yad agnisthalī mayānītā norvaśīti । athainām aṭavyām evāgnisthālīṃ tatyāja svapuraṃ cājagāma ।।

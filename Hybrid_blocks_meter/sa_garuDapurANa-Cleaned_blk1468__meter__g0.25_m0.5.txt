@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1468 | label: meter | g:0.25 m:0.5 ---
+
+bhuṅkte sa yāti narakāntsūṃkareṣveva jāyate ।
+aśaucaṃ saṃpravakṣyāmi aśuciḥ pātakī sadā ।।

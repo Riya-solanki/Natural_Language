@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 78 | label: hybrid | g:0.5 m:0.5 ---
+
+kiñcānumite buddhiviśeṣe paścādanuvādabhūtaṃ vākyaṃ vākyārthamavabodhayatīti vaḥ siddhāntaḥ, tataśca yo nāmānāpta evābuddhyā gṛhītastadvākyādayathārthameva jñānamutpannamityabhyupagantavyam, tataśca doṣādhīnatvādapramāṇyasya vaktṛdoṣāṇāṃ ca śabde saṃkrāntyanabhyupagamātsvārasikameva śabde

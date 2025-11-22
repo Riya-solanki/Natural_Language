@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1422 | label: meter | g:0.102 m:0.721 ---
+
+vijñātārthasya pariṣadā prativādinā trirabhihitasya yadavijñāna
+tad ajñānaṃ nigrahasthānamiti, ayaṃ khalvavijñāya
+kasya pratiṣedhaṃ brūyāditi ? ।।

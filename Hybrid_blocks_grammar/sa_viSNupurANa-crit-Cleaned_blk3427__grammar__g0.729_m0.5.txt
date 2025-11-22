@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3427 | label: grammar | g:0.729 m:0.5 ---
+
+bhavati cātra ślokaḥ । yāvat sūrya udeti sma yāvac ca pratitiṣṭhati । sarvaṃ tad yauvanāśvasya māṃdhātuḥ kṣetram ucyate ।।

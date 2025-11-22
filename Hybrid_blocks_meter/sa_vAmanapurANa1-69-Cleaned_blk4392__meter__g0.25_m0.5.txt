@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4392 | label: meter | g:0.25 m:0.5 ---
+
+mayastu kṛtvā tripuraṃ mahātmā suvarṇatāmrāyasamagryasaukhyam ।
+satārakākṣaḥ saha vaidyutena saṃtiṣṭhate bhṛtyakalatravān saḥ ।।

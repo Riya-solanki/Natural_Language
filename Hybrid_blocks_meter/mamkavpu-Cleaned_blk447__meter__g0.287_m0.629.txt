@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 447 | label: meter | g:0.287 m:0.629 ---
+
+yathāyogamiti
+{vyajyante vastumātreṇa yadālaṅkṛtayastadā ।
+dhruvaṃ dhvanyaṅgatā tāsāṃ kāvyavṛttestadāśrayāt ।।}
+iti dhvanikāroktadiśā vastumātreṇa yatrālaṅkāro vyajyate na tatra guṇībhūtavyaṅgyatvam ।

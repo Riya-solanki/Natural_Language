@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1442 | label: meter | g:0.194 m:0.5 ---
+
+ditir vinaṣṭaputrā vai toṣayām āsa kaśyapam 
+tayā cārādhitaḥ samyak kaśyapas tapatāṃ varaḥ ।।

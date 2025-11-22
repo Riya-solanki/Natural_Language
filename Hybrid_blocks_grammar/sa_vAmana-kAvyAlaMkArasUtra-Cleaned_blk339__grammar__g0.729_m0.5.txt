@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 339 | label: grammar | g:0.729 m:0.5 ---
+
+iyaṃ gehe lakṣmīriyamamṛtavartirnayanayo- rasāvasyāḥ sparśo vapuṣi vahulaścandanarasaḥ । ayaṃ kaṣṭhe vāhuḥ śiśiramasṛṇo mauktikasaraḥ kimasyā na preyo paramasahyastu virahaḥ ।।

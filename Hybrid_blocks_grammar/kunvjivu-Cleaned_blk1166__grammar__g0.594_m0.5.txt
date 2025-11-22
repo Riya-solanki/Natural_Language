@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1166 | label: grammar | g:0.594 m:0.5 ---
+
+tvatsaṃprāptivilobhanena sacivaiḥ prāṇā mayā dhāritāḥ tanmatvātyajataḥ śarīrakamidaṃ me nāsti niḥsnehatā ।
+āsanno avasarastadānugamane jātā dhṛtiḥ kiṃ tvayaṃ khedo yacchatadhā gataṃ na hṛdayaṃ tadvatkṣaṇe dāruṇe ।।

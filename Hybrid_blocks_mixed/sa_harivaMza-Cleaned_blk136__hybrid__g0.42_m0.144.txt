@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 136 | label: hybrid | g:0.42 m:0.144 ---
+
+dityāḥ putradvayaṃ jajñe kaśyapād iti naḥ śrutam 
+kaśyapasyātmajāv etau sarvebhyaḥ pūrvajau matau । 
+hiraṇyakaśipuś caiva hiraṇyākṣaś ca bhārata 
+siṃhikā cābhavat kanyā vipracitteḥ parigrahaḥ ।। 
+saiṃhikeyā iti khyātās tasyāḥ putrā mahābalāḥ । gaṇas teṣāṃ tu rājendra daśasāhasra ucyate । teṣāṃ putrāś ca pautrāś ca śataśo atha sahasraśaḥ । asaṃkhyātā mahābāho hiraṇyakaśipoḥ śṛṇu । 
+hiraṇyakaśipoḥ putrāś catvāraḥ prathitaujasaḥ 
+anuhrādaś ca hrādaś ca prahrādaś caiva vīryavān ।।

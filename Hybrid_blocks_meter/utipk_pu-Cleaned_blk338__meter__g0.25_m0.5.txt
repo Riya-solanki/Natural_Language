@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 338 | label: meter | g:0.25 m:0.5 ---
+
+devādīnāṃ ca sarveṣāṃ bhavināṃ trividhaṃ malam ।
+tatrāpi kārmam evaikam mukhyaṃ saṃsārakāraṇam ।।

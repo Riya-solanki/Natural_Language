@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1640 | label: meter | g:0.306 m:0.625 ---
+
+evaṃvidhenāpi pariśrameṇa mṛdūkṛtaṃ yasya na nāma cetaḥ ।
+tulyākṛtīnāmayaśodhvajena kiṃ jīvatānena narādhamena ।।

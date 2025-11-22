@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1106 | label: meter | g:0.193 m:0.816 ---
+
+hasta-pallava-kṛtāgra-vastrikāḥ
+keśa-vistṛti-dhṛtāparāmbarāḥ ।
+ādi-niṣṭhita-kaniṣṭha-dārikāḥ
+kubjikāvad amilan kumārikāḥ ।। [rathoddhatā]

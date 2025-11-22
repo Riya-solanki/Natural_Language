@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1088 | label: meter | g:0.179 m:0.914 ---
+
+yathā-
+rathī niṣaṅgī kavacī dhanuṣmān
+dṛptah sa rājanyakam eka-vīraḥ ।
+vilolayāmāsa mahā-varāhaḥ
+kalpa-kṣayodvṛttam ivārṇavāmbhaḥ ।।

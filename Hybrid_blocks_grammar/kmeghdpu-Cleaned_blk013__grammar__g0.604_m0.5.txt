@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 13 | label: grammar | g:0.604 m:0.5 ---
+
+mārgaṃ tāvac chṛṇu kathayatas tvatprayāṇānurūpaṃ saṃdeśaṃ me tadanu jalada śroṣyasi śrotrapeyam ।
+khinnaḥ khinnaḥ śikhariṣu padaṃ nyasya gantāsi yatra kṣīṇaḥ kṣīṇaḥ parilaghu payaḥ srotasāṃ copabhujya ।।

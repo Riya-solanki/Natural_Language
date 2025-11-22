@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 45 | label: meter | g:0.25 m:0.808 ---
+
+sūta uvāca ।
+dakṣanāradamukhyaistu yuktaṃ tvāṃ kathamuktavān ।
+brahmā śrīgāruḍaṃ puṇyaṃ purāṇaṃ sāravācakam ।।

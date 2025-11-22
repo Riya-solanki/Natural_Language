@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 362 | label: grammar | g:0.75 m:0.4 ---
+
+[] yatra ca kṛṣṇaṃ paśya rāmaṃ paśya śrīdāmānaṃ paśyety amī paśyantaḥ kolāhalaṃ baṃhayām āsuḥ ।
+[] yatra ca tadīya-vṛndāni govindīya-sundaratā-maranda-vinisyandam amandaṃ nayana-rasanayā rasayanti । mohātiśayavanti vihita-hita-sarvasvātma-nivedanaṃ sāsra-namra-kamra-vadanaṃ sadana-sadanād asīdanti ca saṃjitāñjalitayā tasthuḥ ।
+[] śrī-kṛṣṇas tu tad aṅgīkṛtyāpi śīla-vṛttyā tadīya-snehaṃ sāṅgīkurvan madīyā eva bhavad-bhavadīyārthā mat-pratyarpaṇataḥ pratisvaṃ yathā-niṣṭham avatiṣṭhantām iti santoṣayan kramaśo nijāśramam evāśramam ājagāma ।
+[] āgamya ca sāyantanam aśanaṃ saṃgatya mātur mānasam ānandena vitatya praśasta-vastra-mālālaṃkāra-sāraṃ parikṛtya sakhibhir ātmānaṃ parivṛtya sarva-bhāgavata-śiva-pradasya bhāgavata-paramparā-parama-guroḥ śivasya varivasyāyāṃ śiva-rātri-yātribhiḥ pitrādibhir ekāgratayā sva-maṅgala-kṛte kṛta-jāgaraṃ svīya-parakīya-rājakīya-janakīya-bahala-kolāhala-prakāraṃ śivāgāram anu nānā-vidyā-vismāyakatayā vidyamānān saṃpaśyati sma ।

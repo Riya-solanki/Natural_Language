@@ -1,0 +1,6 @@
+--- source: vidsripu-Cleaned.txt | block: 188 | label: hybrid | g:0.454 m:0.456 ---
+
+vāpyo danturitodarāḥ kamalinīpatrāṅkuragranthibhiś cūtānāṃ kalikāmilanmadhulihāṃ kāpi sthitir vartate ।
+daurbhāgyopanayāya sāmpratamayām alpo api mārgaśramaḥ śikṣām ullalituṃ dadāti rajasāṃ gantrīpathe mārutaḥ ।।
+NB Ingalls conjectures tentatively sampravasatām for sāmpratamayām in c
+abhinandasya

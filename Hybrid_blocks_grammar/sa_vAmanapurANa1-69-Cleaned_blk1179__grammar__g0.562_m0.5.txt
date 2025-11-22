@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1179 | label: grammar | g:0.562 m:0.5 ---
+
+na so asti nāke na mahītale vā rasātale devabhaṭo asuro vā ।
+yo māṃ hi saṃgrāmamupeyivāṃstu bhūto na yakṣo na jijīviṣuryaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2080 | label: meter | g:0.25 m:0.555 ---
+
+sa kaṃsas tatra saṃbhūtas tvayā yuddhe parājitaḥ 
+sa badhvā pitaraṃ rājā mathurām abhyarakṣata । 
+kravyādo bādhate lokān āsureṇāntarātmanā ।।

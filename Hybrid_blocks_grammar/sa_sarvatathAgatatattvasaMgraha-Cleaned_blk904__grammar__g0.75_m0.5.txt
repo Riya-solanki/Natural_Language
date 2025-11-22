@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 904 | label: grammar | g:0.75 m:0.5 ---
+
+athāsmin viniḥsṛtamātre vajrapāṇihṛdayavajrātsa eva bhagavān vajradharaḥ samantajvālāgarbhāḥ sabhrukuṭibhrūbhaṅgotkuñcitalalāṭavikaṭadaṃṣṭrākarālamukhāḥ vajrāṅkuśakoṣapāśādivajrajvālānnipradīptapraharaṇavyagrakarāḥ anekavidhavarṇālaṅkāravicitraveṣadharāḥ vajrapāṇivigrahā viniścaritvā, sarvalokadhātuṣu sarvaduṣṭavinayaṅkṛtvā, bhagavato vairocanasya sarvato vajradhātumahāmaṇḍalayogena candramaṇḍalāśritā bhutvedamudānamudānayiṃsuḥ ।।

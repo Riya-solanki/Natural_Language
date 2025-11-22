@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4209 | label: meter | g:0.25 m:0.62 ---
+
+satyabhāmottamā strīṇāṃ saubhāgyenābhavat tadā 
+kuṭumbasyeśvarī tv āsīd rukmiṇī bhīṣmakātmajā ।। 
+sarvakāryasamādhyakṣā keśavasyātivallabhā । 
+tāsāṃ yathārhaṃ harmyāṇi prāsādaśikharāṇi ca 
+ādideśa gṛhān kṛṣṇaḥ paribarhāṃś ca puṣkalān ।। 
+satyabhāmā sadā viṣṇoḥ pārśvasthā saṃsadi priyā । 
+tataḥ saṃpūjya garuḍaṃ vāsudevo anumānya ca 
+sakhivac copagṛhyainam anujajñe gṛhaṃ prati ।।

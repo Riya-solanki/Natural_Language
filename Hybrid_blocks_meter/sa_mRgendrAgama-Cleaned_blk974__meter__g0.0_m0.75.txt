@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 974 | label: meter | g:0.0 m:0.75 ---
+
+tathāpyabhyāsataḥ siddhāḥ śrūyante yoginastayoḥ 
+bhogaviplutacittasya kathaṃ syāccittasaṃsthitiḥ ।। MT

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 694 | label: meter | g:0.141 m:0.687 ---
+
+[] gīḥ-śikṣā yathā-
+prathamam agrajasya tuṇḍa-puṇḍarīke ।
+kṣarad-akṣara-madhu-madhure jāte ।। []
+[] This is not in any recognizable metre Probably editor's mistake

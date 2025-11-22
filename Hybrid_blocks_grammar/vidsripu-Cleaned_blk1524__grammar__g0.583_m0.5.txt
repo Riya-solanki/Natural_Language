@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1524 | label: grammar | g:0.583 m:0.5 ---
+
+pūrṇe agre kalaśo vilāsavanitāḥ smerānanāḥ kanyakā dānaklinnakapolapaddhatir ibho gauradyutir govṛṣaḥ ।
+kṣīrakṣmāruhi vāyaso madhuravāg vāmā śiveti dhruvaṃ tvāṃ praty uccalatāṃ narendratilaka prādurbhavanty arthinām ।।

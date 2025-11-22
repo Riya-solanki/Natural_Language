@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3374 | label: meter | g:0.25 m:0.5 ---
+
+nigṛhītaś ca keśeṣu mandāsur iva niḥśvasan 
+na śaśāka mukhaṃ draṣṭuṃ kaṃsaḥ kṛṣṇasya vai tadā ।।

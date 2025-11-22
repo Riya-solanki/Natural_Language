@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1615 | label: meter | g:0.25 m:0.5 ---
+
+atalaṃ vitalaṃ caiva nitalaṃ ca gabhastimat ।
+mahākhyaṃ sutalaṃ cāgryaṃ pātālaṃ cāpi saptamam ।।

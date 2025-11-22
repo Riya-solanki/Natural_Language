@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 94 | label: meter | g:0.306 m:0.5 ---
+
+rogādibhiḥ prabaladuḥkhakarair vimuktāḥ snigdhānanāḥ kanakatulyamanojñavarṇāḥ ।
+rājyaṃ hi yad vigatakaṇṭakam āpnuvanti bhaiṣajyadānavidhinā tad uśanti caitye ।।

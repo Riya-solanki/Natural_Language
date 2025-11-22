@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 532 | label: meter | g:0.25 m:0.5 ---
+
+namaḥ śivāya devāya viṣṇave prabhaviṣṇave ।
+haraye ca umābhartre sthitikālabhṛte namaḥ ।।

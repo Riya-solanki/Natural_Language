@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6644 | label: meter | g:0.25 m:0.625 ---
+
+yadā karmasu kāmyeṣu śaktiryaśasi dehinām ।
+tadā tretā rajobhūtiriti jānīhiśaunaka ।।

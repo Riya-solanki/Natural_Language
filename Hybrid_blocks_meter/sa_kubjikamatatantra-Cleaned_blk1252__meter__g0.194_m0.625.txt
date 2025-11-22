@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1252 | label: meter | g:0.194 m:0.625 ---
+
+lalāṭordhvaṃ kuleśasya jñātavyaṃ tu kuleśvari 
+tadadhaḥ pañcadhā nādaṃ kṛtrimaṃ mukhamaṇḍale ।।

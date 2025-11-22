@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 193 | label: meter | g:0.194 m:0.625 ---
+
+tathā hiraṇyalomānaṃ parjanyasya prajāpateḥ 
+udīcyāṃ diśi durdharṣaṃ rājānaṃ so abhyaṣecayat ।।

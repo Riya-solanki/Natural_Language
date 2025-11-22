@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 9 | label: meter | g:0.272 m:0.595 ---
+
+śrīr viśṛṅkhalakhalābhisārikā vartmabhir ghanatamomalīmasaiḥ 
+śabdamātram api soḍhum akṣamā bhūṣaṇasya guṇinaḥ samutthitam ।।

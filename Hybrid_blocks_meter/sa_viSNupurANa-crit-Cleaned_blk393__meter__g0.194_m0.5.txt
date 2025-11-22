@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 393 | label: meter | g:0.194 m:0.5 ---
+
+brāhmo naimittikas tatra yac chete jagataḥ patiḥ 
+prayāti prākṛte caiva brahmāṇḍaṃ prakṛtau layam ।।

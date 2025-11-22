@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 757 | label: meter | g:0.194 m:0.625 ---
+
+bhīkṣāṃ tu carato bhikṣāṃ nādadyānna vigarhitāt 
+śaivātsvāyambhuvādeśca kutaścilliṅgino api vā ।।

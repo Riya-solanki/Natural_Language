@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3890 | label: meter | g:0.194 m:0.5 ---
+
+prativivyādha tāṃś caidyaḥ pañcabhiḥ pañcabhiḥ śaraiḥ 
+jaghāna cāśvāṃś caturaś caturbhir vipṛthoḥ śaraiḥ ।।

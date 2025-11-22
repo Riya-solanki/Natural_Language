@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1448 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ saṃsmaraṇād eva jñānānandaṃ pravartate 
+vācāmātreṇa cānyeṣāṃ kurute pratyayān bahūn ।।

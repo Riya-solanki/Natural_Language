@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 395 | label: grammar | g:0.75 m:0.5 ---
+
+sāmayikaḥ śabdārthasaṃpratyayo na svābhāvikaḥ ṛṣyāryamlecchānāṃ yathākāmaṃ śabdaprayogo arthapratyāyanāya pravartate, svābhāvike hi śabdasyārthapratyāyakatve yathākāmaṃ na syāt, yathā taijasasya prakāśasya rūpapratyayahetutvaṃ na jātiviśeṣaṃ vyabhicaratīti ।।

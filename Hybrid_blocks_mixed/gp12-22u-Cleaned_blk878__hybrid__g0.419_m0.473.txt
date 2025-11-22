@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 878 | label: hybrid | g:0.419 m:0.473 ---
+
+yad-ālambāj janaḥ prāṇaṃ yasmād rakṣitum icchati ।
+vaiparītyaṃ tayoḥ kurvann anunmatto na kathyate ।। [anuṣṭubh]
+[] indra uvāca-avicāritam evācaritam idaṃ mayā, bhavadbhiś ca sāmprataṃ sāmpratam upadiśyatām ।

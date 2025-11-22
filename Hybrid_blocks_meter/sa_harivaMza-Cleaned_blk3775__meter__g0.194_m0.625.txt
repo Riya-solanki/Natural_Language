@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3775 | label: meter | g:0.194 m:0.625 ---
+
+iyaṃ dvāravatī nāma pṛthivyāṃ nirmitā mayā 
+bhaviṣyati purī ramyā śakrasyevāmarāvatī ।।

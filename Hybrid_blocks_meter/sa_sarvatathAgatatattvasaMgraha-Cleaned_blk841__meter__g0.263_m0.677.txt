@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 841 | label: meter | g:0.263 m:0.677 ---
+
+tataḥ sarvamudrārahasyaṃ bruyāt ।
+vidārya svendriyaṃ gṛṇhedvajramuṣṭigraheṇa tu ।
+tena mudrāṃ spṛśedyāṃ tu sā vaśaṃ yāti tatkṣaṇāt ।।

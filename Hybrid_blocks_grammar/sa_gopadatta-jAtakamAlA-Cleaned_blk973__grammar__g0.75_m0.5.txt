@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 973 | label: grammar | g:0.75 m:0.5 ---
+
+yasmin rakto bhavati puruṣas tatra kuryāt priyāṇi dviṣṭo yasmai tadadhikatarāṇy apriyāṇy eva dhatte । alpāvadye avigatarajasā tena roṣaḥ praviṣṭaḥ krodhaṃ krodhopaśamakuśalā vadyayoniṃ vadanti ।।

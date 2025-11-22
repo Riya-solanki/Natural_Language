@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1698 | label: meter | g:0.25 m:0.5 ---
+
+teṣāṃ nadyaś ca saptaiva varṣāṇāṃ tu samudragāḥ 
+nāmatas tāḥ pravakṣyāmi śrutāḥ pāpaṃ haranti yāḥ ।।

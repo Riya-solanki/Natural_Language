@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 400 | label: hybrid | g:0.531 m:0.5 ---
+
+grāsaṃ na muñcati na vāñchati taṃ ca bhūyaḥ kāṃścidguṇānbhajati bhuktavibhuktimātrāt ।
+yajjīryate pracurakevalavahniyogāt tasmādviḍaiḥ suniviḍaiḥ saha jāraṇā syāt ।।

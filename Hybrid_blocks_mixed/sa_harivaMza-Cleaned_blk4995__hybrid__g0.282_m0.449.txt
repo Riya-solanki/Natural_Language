@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4995 | label: hybrid | g:0.282 m:0.449 ---
+
+evaṃ kathayatām eva dvārakāvāsināṃ tadā 
+vāsudevagṛhaṃ devā viviśus te mahārathāḥ ।। 
+avatīrya suparṇāt tu vāsudevo balas tadā । pradyumnaś cāniruddhaś ca gṛhān praviviśus tadā । 
+tāni teṣāṃ vimānāni divi saṃcaratāṃ tadā 
+sthitāny eva pradṛśyante nānārūpāṇi sarvaśaḥ ।।

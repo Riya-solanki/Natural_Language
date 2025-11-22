@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 254 | label: grammar | g:0.625 m:0.5 ---
+
+gaccheti vaktum icchāmi matpriya tvatpriyaiṣiṇī nirgacchati mukhād vāṇī mā gā iti karomi kim ।।

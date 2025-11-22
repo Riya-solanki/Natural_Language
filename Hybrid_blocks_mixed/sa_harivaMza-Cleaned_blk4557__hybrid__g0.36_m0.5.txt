@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4557 | label: hybrid | g:0.36 m:0.5 ---
+
+ahaṃ te parvatāḥ sapta ye dṛṣṭvā vividhās tvayā 
+paṅkabhūtaṃ hi timiraṃ dṛṣṭavān asi yad dhi tat । 
+ahaṃ tamo ghanībhūtam aham eva ca pāṭakaḥ ।। 
+yac ca taṃ dīrgham adhvānaṃ kṛtaṃ cāpi gatāgatam । yogaśaktyā gataś cāhaṃ kṣipram āgatavāṃs tataḥ । 
+ahaṃ ca kālo bhūtānāṃ dharmaś cāhaṃ prakīrtitaḥ 
+candrādityau mahāśailāḥ saritaś ca sarāṃsi ca । 
+cāturvarṇyaṃ matprasūtaṃ cāturāśramyam eva ca ।।

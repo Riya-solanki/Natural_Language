@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 325 | label: grammar | g:0.646 m:0.5 ---
+
+bhaktir bhagavati bhavati trilokanāthe nanūttamā siddhiḥ kiṃ tv aṇimādikavirahāt saiva na pūrṇeti cintā me ।।

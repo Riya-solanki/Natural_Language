@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9550 | label: meter | g:0.306 m:0.625 ---
+
+dattvā vā svarṇadānāni go-mahī-gaja-vājinaḥ ।
+tīrthaṃ yadi labhed yastu mṛtyukāle sa bhāgyavān ।।

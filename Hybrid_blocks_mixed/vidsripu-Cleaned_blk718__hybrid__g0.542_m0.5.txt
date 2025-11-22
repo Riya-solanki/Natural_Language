@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 718 | label: hybrid | g:0.542 m:0.5 ---
+
+daivād ayaṃ yadi jano vidito aparādhī dāsocitaiḥ paribhavair ayam eva śāsyaḥ ।
+eṣā kapolaphalake agarupatravallī kiṃ pīḍyate sutanu bāṣpajalapraṇālaiḥ ।।

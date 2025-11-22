@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11210 | label: meter | g:0.25 m:0.625 ---
+
+kuṃbhakasya sutā nīlā dehasthāḥ prāviśan bhṛśam ।
+ekāvayavato yasmāttasmāttatraiva sāviśat ।।

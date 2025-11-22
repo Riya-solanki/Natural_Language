@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 92 | label: meter | g:0.194 m:0.5 ---
+
+dākṣiṇyam ānukūlyaṃ ca dhārṣṭyaṃ cāniyatatvataḥ । 
+nocitānyasya śāṭhyaṃ syād anya-cittatva-sambhavāt ।। śaṭhopapatir, yathā-

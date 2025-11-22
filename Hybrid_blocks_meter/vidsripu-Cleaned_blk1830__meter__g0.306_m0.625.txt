@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1830 | label: meter | g:0.306 m:0.625 ---
+
+kīrtyā samaṃ tridivavāsam upasthitānāṃ martyāvatīrṇamarutām api satkavīnām ।
+jagrantha durlabhasubhāṣitaratnakoṣaṃ vidyākaraḥ sukṛtikaṇṭhavibhūṣaṇāya ।।

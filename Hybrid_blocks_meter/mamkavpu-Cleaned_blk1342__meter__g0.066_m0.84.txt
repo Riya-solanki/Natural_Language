@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1342 | label: meter | g:0.066 m:0.84 ---
+
+{puṃstvādapi pravicalet yadi yadyadho api
+yāyād yadi praṇayane na mahānapi syāt ।
+abhyuddharettadapi viśvamitīdṛśīyaṃ
+kenāpi dik orakaṭitā puruṣottamena ।।}

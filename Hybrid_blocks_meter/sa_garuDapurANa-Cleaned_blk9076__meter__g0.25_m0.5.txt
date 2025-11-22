@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9076 | label: meter | g:0.25 m:0.5 ---
+
+pitṝṇāṃ ca priyaṃ bhavyaṃ tasmātsvargapradaṃ bhavet ।
+viṣṇudehasamudbhūto yato ayaṃ lavaṇo rasaḥ ।।

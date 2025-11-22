@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 43 | label: grammar | g:0.562 m:0.5 ---
+
+subhāṣitaṃ hy uttamam āhur āryāḥ priyaṃ vaden nāpriyaṃ tad dvitīyaṃ ।
+satyaṃ vaden nānṛtaṃ tat tṛtīyaṃ dharmaṃ vaden nādharmaṃ tat caturtham ।।

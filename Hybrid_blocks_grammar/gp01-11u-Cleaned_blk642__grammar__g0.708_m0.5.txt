@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 642 | label: grammar | g:0.708 m:0.5 ---
+
+[] tad evam eva sarva eva parva vidhāya nija-nija-nūtana-tanūjān gaṇaka-gaṇita-guṇa-gaṇe' hani snehaṃ teṣāṃ teneha sahehamānāḥ sa-maṅgalaṃ saṅgamayāmāsuḥ ।

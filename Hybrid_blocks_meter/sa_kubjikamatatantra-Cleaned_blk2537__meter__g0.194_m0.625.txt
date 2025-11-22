@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2537 | label: meter | g:0.194 m:0.625 ---
+
+prastutaṃ śṛṇu kalyāṇi ucyamānaṃ nigadyate 
+ariṣṭadarśanādy evam abhyasyanto anyathā yadi ।।

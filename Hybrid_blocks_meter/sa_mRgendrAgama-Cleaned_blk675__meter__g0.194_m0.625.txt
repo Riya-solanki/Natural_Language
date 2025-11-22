@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 675 | label: meter | g:0.194 m:0.625 ---
+
+antaḥ śavaśrutau dāhe śavagandhe kharānile 
+tadvirāmaṃ vinā khyātajantumṛtyau ca vāsaram ।।

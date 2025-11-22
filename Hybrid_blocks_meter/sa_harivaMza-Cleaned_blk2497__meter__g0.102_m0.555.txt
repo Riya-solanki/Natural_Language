@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2497 | label: meter | g:0.102 m:0.555 ---
+
+tasya putrāś ca dārāś ca bhṛtyāś cānye mahoragāḥ 
+vamantaḥ pāvakaṃ ghoraṃ vaktrebhyo viṣasaṃbhavam 
+sadhūmāḥ pannagendrās te nipetur amitaujasaḥ ।।

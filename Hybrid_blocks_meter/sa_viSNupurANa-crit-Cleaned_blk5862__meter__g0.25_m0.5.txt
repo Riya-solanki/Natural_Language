@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5862 | label: meter | g:0.25 m:0.5 ---
+
+pramāṇotpannayā buddhyā yo vidyāṃ jñātum icchati ।। @

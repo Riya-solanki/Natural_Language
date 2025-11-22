@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 754 | label: meter | g:0.25 m:1.0 ---
+
+aucityāvahamamlānaṃ tadvidāhlādakāraṇam ।
+aśaktaṃ dharmamarthānāṃ dīpayadvastu dīpakam ।।

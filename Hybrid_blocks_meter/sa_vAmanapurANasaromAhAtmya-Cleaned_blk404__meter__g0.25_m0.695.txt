@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 404 | label: meter | g:0.25 m:0.695 ---
+
+tatra snātvā ca dṛṣṭvā ca aditiṃ devamātaram ।
+putraṃ janayate śūraṃ sarvadoṣivivarjitam ।
+ādityaśatasaṃkāśaṃ vimānaṃ cādhirohati ।।

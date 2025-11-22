@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 98 | label: meter | g:0.31 m:0.629 ---
+
+vedāntamīmāṃsāśāstrasya vyācikhyāsitasya asmābhiḥ, idamādimaṃ sūtram ।
+pūjitavicāravacano mīmāṃsāśabdaḥ ।
+paramapuruṣārthahetubhūtasūkṣmatamārthanirṇayaphalatayā ca vicārasya ca pūjitatā ।
+tasya mīmāṃsāyāḥ śāstram, sā hyanena śiṣyate śiṣyebhyo yathāvatpratipādyata iti ।
+sūtraṃ ca bahvarthasūcanāt bhavati ।
+yathāhuḥ-

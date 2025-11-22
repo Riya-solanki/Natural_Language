@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2425 | label: meter | g:0.194 m:0.5 ---
+
+manvantare tu saṃprāpte tathā vaivasvate dvija 
+vāmanaḥ kaśyapād viṣṇur adityāṃ saṃbabhūva ha ।।

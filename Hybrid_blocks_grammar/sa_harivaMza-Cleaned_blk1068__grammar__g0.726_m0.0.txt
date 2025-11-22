@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1068 | label: grammar | g:0.726 m:0.0 ---
+
+vṛṣaṇād vṛṣṇayaḥ sarve madhos tu mādhavāḥ smṛtāḥ 
+yādavā yadunā cāgre nirucyante ca hehayāḥ ।। 
+śūrāś ca śūravīrāś ca śūrasenās tathānagha ।। śūrasena iti khyātas tasya deśo mahātmanaḥ । 
+na tasya vittanāśaḥ syān naṣṭaṃ pratilabhec ca saḥ 
+kārtavīryasya yo janma kathayed iha nityaśaḥ ।। 
+vittavāṃś ca bhavec caiva dharmaścaiva vivardhate । yathā sṛṣṭir yador jātā tathā svarge mahīyate । kimarthaṃ tad vanaṃ dagdham āpavasya mahātmanaḥ । kārtavīryeṇa vikramya tan me brūhi prapṛcchataḥ ।। rakṣitā sa hi rājarṣiḥ prajānām iti naḥ śrutam । kathaṃ sa rakṣitā bhūtvā nāśayām āsa tadvanam ।। ādityo viprarūpeṇa kārtavīryam upasthitaḥ । tṛptim ekām prayacchasva ādityo aham upasthitaḥ ।। bhagavan kena tṛptis te bhaved brūhi vibhāvaso । kīdṛśaṃ bhojanaṃ dadmi śrutvā te vidadhāmy aham ।। sthāvaraṃ dehi me sarvam āhāraṃ vadatāṃ vara । tena tṛpsir bhaven mahyaṃ tena tuṣṭiś ca pārthiva ।। na śakyaṃ sthāvaraṃ sarvaṃ tejasā mānuṣeṇa tu । nirdagdhuṃ tapatāṃ śreṣṭha tvām eva praṇamāmy aham ।। tuṣṭas te ahaṃ śarān dadmi cākṣayān sarvatomukhān । ye [pra]kṣiptāḥ saṃjvalanti mama tejaḥsamanvitāḥ ।। āviṣṭas tejasā me adya sthāvaraṃ śoṣayiṣyasi । śuṣkaṃ bhasma kariṣyāmi tena tṛptir narādhipa ।। tataḥ śarāṃs tadādityo arjunāya tadā dadau । tataḥ sa prācyam adahat sthāvaraṃ sarvam eva tat ।। āśramān atha grāmāṃś ca ghoṣāṃś ca nagarāṇy api । tapovanāni ramyāṇi vanāny upavanāni ca ।। evaṃ sa prācyam adahat tataḥ sarvaṃ pradakṣiṇam । nirvṛkṣā nistṛṇā bhūmir dagdhā sā yogatejasā ।। etasminn eva kāle tu āpavo jalam āśritaḥ । daśa varṣasahasrāṇi jalavāsī mahān ṛṣiḥ ।। pūrṇe vrate mahātejā udatiṣṭhan mahān ṛṣiḥ । krodhāc chaśāpa rājarṣiṃ kīrtitaṃ vai yathā mayā । 
+ete yayātiputrāṇāṃ pañca vaṃśā viśāṃ pate 
+kīrtitā lokavīrāṇāṃ ye lokān dhārayanti vai 
+bhūtānīva mahārāja pañca sthāvarajaṅgamam ।।

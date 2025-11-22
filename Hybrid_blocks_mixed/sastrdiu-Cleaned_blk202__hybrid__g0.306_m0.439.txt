@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 202 | label: hybrid | g:0.306 m:0.439 ---
+
+sahopalambhaniyamo api jñānārthayoraniyamavyāptaṃ bhedaṃ vyāpakaviruddhopalabdhyā pratiṣedhanna bhedamupasthāpayati, bhinnānāṃ ghaṭapaṭādīnāmaniyatasahopalambhatvāt ।
+na cāsiddhau vedyopalambhasamaye vitterupalambha iti vācyam ।
+uttarakālaṃ sahaiva jñānena viṣayasmaraṇadarśanāt- jñāto ghaṭa iti ।
+nacānubhūtasya smaraṇaṃ saṃbhavati, tasmādutpattivelāyāmeva jñānasya

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2175 | label: meter | g:0.251 m:0.623 ---
+
+puṇyadeśaprabhāvena dhyāyataś ca sadā harim 
+kathaṃ tu nābhavan muktir yadābhūt sa dvijaḥ punaḥ ।।

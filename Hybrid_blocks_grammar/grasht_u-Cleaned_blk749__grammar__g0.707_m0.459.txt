@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 749 | label: grammar | g:0.707 m:0.459 ---
+
+anyadyantravidhānamāha kṛtvetyādi ।।
+aṣṭāṅgulamūṣāṃ aṣṭāṅgulaparimāṇadīrghāṃ dhūrtakusumopamāṃ kanakapuṣpasadṛśāṃ dṛḍhāṃ kaṭhināṃ ślakṣṇāṃ masṛṇāṃ evaṃvidhāṃ mūṣāṃ kṛtvā aparā dvitīyā saptāṅgulā saptāṅgulaparimāṇadīrghā sacchidrā randhrayuktā sā madhyagatā antaḥpraviṣṭā kāryā apītyavaśyaṃ iti mūṣādvayayantraṃ siddham ।।
+taccāha pūrvoktāyāmantaḥpraviṣṭāyāṃ saptāṅgulāyāṃ sūtaṃ tailasaṃyuktaṃ sāraṇatailasahitaṃ prakṣipya niruddhatāṃ ca kṛtvā nirdhūmaṃ yathā syāt tathā karṣāgnau mūṣāṃ sthāpya punaḥ kiṃ kṛtvā susaṃdhitāṃ sandhimudritāṃ kṛtvā pūrvavatsārayedityarthaḥ ।।

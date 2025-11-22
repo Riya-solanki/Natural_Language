@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7062 | label: meter | g:0.302 m:0.806 ---
+
+tyāgena kenaciddhyānapūjākarmādibhiryathā ।
+dvividhaṃ vedavacanaṃ kuru karma tyajeti ca ।।

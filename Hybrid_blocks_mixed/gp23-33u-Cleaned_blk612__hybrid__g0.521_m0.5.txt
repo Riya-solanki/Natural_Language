@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 612 | label: hybrid | g:0.521 m:0.5 ---
+
+[] kṛṣṇa uvāca-kathaṃ tarhi tasya garhitasya maraṇaṃ bhavitā ?

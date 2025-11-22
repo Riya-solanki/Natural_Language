@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1638 | label: meter | g:0.306 m:0.625 ---
+
+yamuhyamānaṃ salilena hāriṇā kṛpavaśadabhyupapannavāhanam ।
+tato bhayaṃ māṃ nṛvaredamāgataṃ na khalvasatsaṃgatamasti bhūtaye ।।

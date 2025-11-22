@@ -1,0 +1,8 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 765 | label: meter | g:0.25 m:0.698 ---
+
+anyāḥ sahasraśaścātra kṣudranadyo hi rākṣasa ।
+sadākālavahāścānyāḥ pravṛṭkālavahāstathā ।
+udaṅmadhyodbhavā deśāḥ pibanti svecchayā śubhāḥ ।।
+matsyāḥ kuśaṭṭāḥ kuṇikuṇḍalāśca pāñjālakāśyāḥ saha kosalābhiḥ ।।
+vṛkāḥ śabarakauvīrāḥ sabhūliṅgā janāstvime ।
+śakāścaiva samaśakā madhyadeśya janāstvime ।।

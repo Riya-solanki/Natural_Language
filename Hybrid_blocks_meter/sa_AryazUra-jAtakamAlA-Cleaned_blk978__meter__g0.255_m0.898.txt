@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 978 | label: meter | g:0.255 m:0.898 ---
+
+yatpītvā madadoṣavihvalatayā svatantraścaran
+deśeṣvaprapateṣvapi prapatito mandaprabhāvasmṛtiḥ ।
+bhakṣyābhakṣyavicāraṇāvirahitastattatsamāsvādayet
+tatsaṃpūrṇamimaṃ gataṃ krayapathaṃ krīṇīta kumbhādhamam ।।

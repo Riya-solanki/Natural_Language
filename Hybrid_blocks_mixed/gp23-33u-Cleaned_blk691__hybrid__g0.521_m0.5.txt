@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 691 | label: hybrid | g:0.521 m:0.5 ---
+
+vāsudevo' vatīrṇo' ham eka eva na cāparaḥ ।
+bhūtānām anukampārthaṃ tvaṃ tu mithyābhidhāṃ tyaja ।।[BhP ] iti ।

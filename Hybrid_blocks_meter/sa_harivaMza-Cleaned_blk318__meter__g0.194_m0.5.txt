@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 318 | label: meter | g:0.194 m:0.5 ---
+
+araṇyaś ca prakāśaś ca nirmohaḥ satyavāk kṛtiḥ 
+raivatasya manoḥ putrāḥ pañcamaṃ caitad antaram ।।

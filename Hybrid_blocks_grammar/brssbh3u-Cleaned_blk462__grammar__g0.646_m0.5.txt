@@ -1,0 +1,3 @@
+--- source: brssbh3u-Cleaned.txt | block: 462 | label: grammar | g:0.646 m:0.5 ---
+
+samānaṃ hyubhayamatrāpi hṛdayamātanaṃ samānaśca vedya īśvaraḥ samānaṃ ca tasya setutvaṃ lokāsaṃbhedaprayojanamityevamādi bahu sāmānyaṃ dṛśyate ।

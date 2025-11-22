@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 164 | label: meter | g:0.25 m:0.732 ---
+
+na kaṃcitpraṇamed brūyāt sādhyamantraṃ na kasyacit ।
+nākṣipedoṣadhīrmantra- gobrāhmaṇatapasvinaḥ ।
+vyaktisthānaṃ śivasyaite śivanindaiva sā yataḥ ।

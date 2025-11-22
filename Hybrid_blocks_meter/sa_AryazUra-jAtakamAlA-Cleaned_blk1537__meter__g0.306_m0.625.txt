@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1537 | label: meter | g:0.306 m:0.625 ---
+
+kastvaṃ pretaḥ piśāco vā mūrtaḥ pāṣmātha pūtanaḥ ।
+anekarogasaṃghātaḥ katamo vāsi yakṣmaṇām ।।

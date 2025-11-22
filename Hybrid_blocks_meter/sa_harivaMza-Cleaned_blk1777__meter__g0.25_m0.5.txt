@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1777 | label: meter | g:0.25 m:0.5 ---
+
+yo ayaṃ tvayā hato viṣṇo kālanemir mahāsuraḥ 
+tvam eko asya mṛdhe hantā nānyaḥ kaścana vidyate ।।

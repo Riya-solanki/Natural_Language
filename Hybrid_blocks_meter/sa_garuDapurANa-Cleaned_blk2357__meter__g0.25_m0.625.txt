@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2357 | label: meter | g:0.25 m:0.625 ---
+
+gadādharaṃ tataḥ paśyetpitṝṇāmanṛṇāmanṛṇo bhavet ।
+phalgutīrthe naraḥ snātvā dṛṣṭvā devaṃ gadādharam ।।

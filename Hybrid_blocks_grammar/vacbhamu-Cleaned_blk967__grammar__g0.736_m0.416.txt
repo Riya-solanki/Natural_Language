@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 967 | label: grammar | g:0.736 m:0.416 ---
+
+svāminaḥ phalaśruterityātreyaḥ ।
+prathame kāṇḍe śeṣalakṣaṇe tathākāma ityatrartviksaṃbandhe karmaṇaḥ siddhe kiṃ kāmo yājamāna utārtvijya iti saṃśapyārtvijye api karmaṇi yājamāna eva kāmo guṇaphaleṣviti nirṇītamihi tvevañjātīyakāni cāṅgasaṃbaddhāni upāsanāni kiṃ yājamānanyevotārtvijyānīti vicāryata iti na punaruktam ।
+tatropāsakānāṃ phalaśravaṇādanadhikāriṇastadanupapatteryajamānasya ca karmajanitaphalopabhogabhājo adhikārādṛtvijāṃ ca tadanupapattervacanācca rājājñāsthānīyātkkacidṛtvijāṃ phalaśruterasati vacane yajamānasya phalavadupāsanaṃ tasya phalaśruteḥ taṃ ha bako dālabhyo vidāñcakāretyāderupāsanasya ca siddhaviṣayatayānyāyāpavādasāmarthyabhāvādyājamānamevopāsanākarmeti prāpta ucyate- ।।

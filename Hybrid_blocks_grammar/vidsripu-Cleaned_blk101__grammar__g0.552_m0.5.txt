@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 101 | label: grammar | g:0.552 m:0.5 ---
+
+haṃsaśreṇikutūhalena kalayan bhūṣākapālāvalīṃ bālām indukalāṃ mṛṇālarabhasād āndolayan pāṇinā ।
+raktāmbhojadhiyā ca locanapuṭaṃ lālāṭam udghāṭayan pāyād vaḥ pitur aṅgabhāk śiśujanakrīḍonmukhaḥ ṣaṇmukhaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4780 | label: meter | g:0.194 m:0.625 ---
+
+kṛtakṛtyam ivātmānaṃ manyamāno mahāmatiḥ 
+ājagāma rathaṃ bhūyo nirgamya yamunāmbhasaḥ ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 53 | label: hybrid | g:0.521 m:0.5 ---
+
+saṃrambhaḥ karikīṭameghaśakaloddeśena siṃhasya yaḥ sarvasyaiva sa jātimātravihito hevākaleśaḥ kila ।
+ityāśādviradakṣayāmbhudaghaṭābandhe apyasaṃrabdhavān yo asau kutra camatkṛteratiśayaṃ yātvamvikākesarī ।।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2176 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ sa yatnavān kaṃso devakīgarbhakṛntane 
+bhayena mantrayām āsa śrutārtho nāradāt sa vai ।। 
+atha brahmatanūjas tu nārado munipuṃgavaḥ । viṣṇave sarvam ācakhyau yathā kaṃsaviceṣṭitam । 
+evaṃ śrutvā prayatnaṃ vai kaṃsasyāriṣṭasaṃjñitam 
+śrutvaiva kaṃsarājasya ceṣṭitaṃ jagatīpatiḥ । 
+antardhānaṃ gato viṣṇuś cintayām āsa vīryavān ।।

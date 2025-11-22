@@ -1,0 +1,7 @@
+--- source: brssgo3u-Cleaned.txt | block: 241 | label: hybrid | g:0.39 m:0.513 ---
+
+ityādiśrutivaiyarthyaprasaṅgāt ।
+kathaṃ vā nirastasattāko bodho abhyupagamyeta ।
+nāpyubhayalakṣaṇameva brahmeti śakyaṃ vaktum ।
+pūrvābhyupagamavirodhaprasaṅgāt ।
+sattāvyāvṛttena ca bodhena bodhavyāvṛttayā ca sattayopetaṃ brahma pratijānānasya tadeva pūrvādhikaraṇapratiṣiddhaṃ saprapañcatvaṃ brahmaṇaḥ prasajyeta ।

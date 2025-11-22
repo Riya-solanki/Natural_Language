@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1361 | label: meter | g:0.194 m:0.625 ---
+
+{hṛdayamadhiṣṭhitamādau mālatyāḥ kusumacāpabāṇena ।
+caramaṃ ramaṇīvallabha locanaviṣayaṃ tvayā bhajatā ।।}

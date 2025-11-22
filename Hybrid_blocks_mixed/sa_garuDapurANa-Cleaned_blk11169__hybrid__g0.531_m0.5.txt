@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11169 | label: hybrid | g:0.531 m:0.5 ---
+
+yato loke sustriyaḥ sarva eva saṃdā jñeyā vidhavāste hi nityam ।
+anādi nityaṃ bhuvanaikasāraṃ susuṃdaraṃ mokṣadaṃ kāmadaṃ ca ।।

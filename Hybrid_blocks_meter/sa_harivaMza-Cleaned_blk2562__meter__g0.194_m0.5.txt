@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2562 | label: meter | g:0.194 m:0.5 ---
+
+tatra spandolikābhiś ca yuddhamārgaiś ca daṃśitau 
+aśmabhiḥ kṣepaṇīyaiś ca tau vyāyāmam akurvatām ।।

@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 52 | label: grammar | g:0.583 m:0.5 ---
+
+madhuraṃ rasavad vāci vastuny api rasasthitiḥ yena mādyanti dhīmanto madhuneva madhuvratāḥ ।।

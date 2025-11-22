@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3168 | label: meter | g:0.326 m:0.774 ---
+
+dambhaprāyam asaṃbodhi titikṣādamavarjitam 
+yad rūpaṃ tava govinda tasmai daityātmane namaḥ ।।

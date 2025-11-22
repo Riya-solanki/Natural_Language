@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2200 | label: meter | g:0.194 m:0.5 ---
+
+ahaṃ yaśodāṃ yāsyāmi tvaṃ devi bhaja devakīm 
+āvayor garbhavyatyāse kaṃso gacchatu mūḍhatām ।।

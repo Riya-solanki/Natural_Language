@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 620 | label: meter | g:0.351 m:0.565 ---
+
+rahī-bhūta-marū-bhūtaṃ cakṣū-bhūtaṃ manī-kṛtam ।
+yasya yat tat kathaṃ tena tyajyatāṃ vyajyatām api ।।

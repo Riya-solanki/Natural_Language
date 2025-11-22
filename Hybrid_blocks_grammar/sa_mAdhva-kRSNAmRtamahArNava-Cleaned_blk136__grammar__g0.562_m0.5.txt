@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 136 | label: grammar | g:0.562 m:0.5 ---
+
+udayāt prāk trighaṭikā vyāpiny ekādaśī yadā sandigdhaikādaśī nāma varjyā dharmārthanāśinī ।।

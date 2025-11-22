@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1680 | label: meter | g:0.25 m:0.5 ---
+
+ghātanībhiś ca gurvībhiḥ śataghnībhis tathaiva ca 
+yugair yantraiś ca nirmuktair argalaiś cāgratāḍitaiḥ ।। 
+dānavā yuddhadurdharṣāḥ saṃgrāmamukhataḥ sthitāḥ । 
+dorbhiś cāyatapīnābhiḥ prāsaiḥ pāśaiś ca mudgaraiḥ 
+sarpair lelihyamānaiś ca visarpadbhiś ca sāyakaiḥ ।।

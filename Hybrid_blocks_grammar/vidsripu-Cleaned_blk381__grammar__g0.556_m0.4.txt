@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 381 | label: grammar | g:0.556 m:0.4 ---
+
+bālo adyāpi kileti lakṣitam alaṃkartuṃ nijair bhūṣaṇair rāmābhiś ciram udyate hṛdi lihann icchām anicchāṃ vahan ।
+snihyattāram athānyadṛṣṭivirahe yaḥ saṃmukhaṃ vīkṣito namraḥ smeramukhībhavann iti vayaḥsandhiśriyāliṅgitaḥ ।।
+vallaṇasya

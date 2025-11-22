@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1699 | label: grammar | g:0.611 m:0.5 ---
+
+kutaḥ punareṣa niyamo yadeteṣāṃ tulye api kāvyaśobhātiśayahetutve kaścidalaṅkāraḥ śabdasya kaścidarthasya kaściccobhayasya iti cet । uktamtra yathā kāvye doṣaguṇāḷaṅkārāṇāṃ śabdārthobhayagatatvena
+vyavasthāyāmanvayavyatirekāveva prabhavataḥ nimittāntarasyābhāvāt । tataśca yo alaṅkāro yadīyānvayavyatirekāvanuvidhatte sa tadalaṅkāro vyavasthāpyate iti ।

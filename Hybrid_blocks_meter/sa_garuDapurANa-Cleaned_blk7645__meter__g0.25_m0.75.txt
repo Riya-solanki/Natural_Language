@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7645 | label: meter | g:0.25 m:0.75 ---
+
+śavasthānasamīpe tu kṣeptavyāḥ puttalāstataḥ ।
+darbhakḷptāstu catvāra ṛkṣamantrābhimantritāḥ ।।

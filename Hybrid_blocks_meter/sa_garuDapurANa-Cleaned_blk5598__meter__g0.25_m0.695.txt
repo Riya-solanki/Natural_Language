@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5598 | label: meter | g:0.25 m:0.695 ---
+
+puṣpāṇi pañcaraktāni gṛhītvā yāni kāni ca ।
+tattulyañca priyaṅguñca peṣayedekayogataḥ ।
+anena liptaliṅgasya kāminīvaśatāmiyāt ।।

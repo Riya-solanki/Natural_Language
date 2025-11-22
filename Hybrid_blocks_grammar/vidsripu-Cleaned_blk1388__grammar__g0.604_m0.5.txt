@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1388 | label: grammar | g:0.604 m:0.5 ---
+
+lagnaḥ śṛṅgayuge gṛhī satanayo vṛddhau gurū pārśvayoḥ pucchāgre gṛhiṇī svareṣu śiśavo lagnā vadhūḥ kambale ।
+ekaḥ śīrṇajaradgavo vidhivaśāt sarvasvabhūto gṛhe sarveṇaiva kuṭumbakena rudatā suptaḥ samutthāpyate ।।

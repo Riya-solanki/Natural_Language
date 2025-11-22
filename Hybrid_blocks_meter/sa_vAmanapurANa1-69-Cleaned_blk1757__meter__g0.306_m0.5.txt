@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1757 | label: meter | g:0.306 m:0.5 ---
+
+samāyāto asmi vai durge dehyājñāṃ kiṃ karomi te ।
+tadvākyasamakālaṃ ca devyā dehodbhavā śivā ।।

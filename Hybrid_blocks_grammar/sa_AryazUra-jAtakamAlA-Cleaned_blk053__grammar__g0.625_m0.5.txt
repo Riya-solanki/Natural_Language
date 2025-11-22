@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 53 | label: grammar | g:0.625 m:0.5 ---
+
+sarvathā namo astvasmai mahābhāgāya sarvabhūtaśaraṇyāyātivipulakāruṇyāyāprameyasattvāya bhūtārthabodhisattvāya mahāsattvāyeti । atha sa tamarthaṃ sabrahmacāribhyo nivedayāmāsa ।

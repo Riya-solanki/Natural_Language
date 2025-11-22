@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 48 | label: meter | g:0.217 m:0.845 ---
+
+sadanyadasadanyacca tadevaṃ siddhasādhyatā 
+asajjaghanyaṃ sacchreṣṭham ityapi bruvate budhāḥ ।।

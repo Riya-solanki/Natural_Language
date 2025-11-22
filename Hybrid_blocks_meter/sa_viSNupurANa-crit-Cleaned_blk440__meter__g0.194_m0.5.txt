@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 440 | label: meter | g:0.194 m:0.5 ---
+
+unmattavratadhṛg vipraḥ sa dṛṣṭvā śobhanāṃ srajam 
+tāṃ yayāce varārohāṃ vidyādharavadhūṃ tataḥ ।।

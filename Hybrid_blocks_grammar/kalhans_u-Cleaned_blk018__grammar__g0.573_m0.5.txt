@@ -1,0 +1,4 @@
+--- source: kalhans_u-Cleaned.txt | block: 18 | label: grammar | g:0.573 m:0.5 ---
+
+vapuḥkhaṇḍe khaṇḍaḥ prativasati śailendraduhituḥ śikhaṇḍe khaṇḍenduḥ svayam api vibhuḥ khaṇḍaparaśuḥ ।
+tathāpi pratyagraṃ śaraṇam upayātaṃ prati vibhor akhaṇḍo vyāpāro jagati karuṇāyā vijayate ।।

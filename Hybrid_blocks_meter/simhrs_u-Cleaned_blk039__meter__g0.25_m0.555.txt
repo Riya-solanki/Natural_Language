@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 39 | label: meter | g:0.25 m:0.555 ---
+
+tatra jñeyo vibhāvas tu rasa-jñāpana-kāraṇam ।।
+budhair jñeyo' yam ālamba uddīpana iti dvidhā ।
+ādhāra-viṣayatvābhyāṃ nāyako nāyikāpi ca ।।

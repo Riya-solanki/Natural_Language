@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1077 | label: meter | g:0.306 m:0.625 ---
+
+pūrṇendoḥ paripoṣakāntavapuṣaḥ sphāraprabhābhāsuraṃ nedaṃ maṇḍalamabhuyudeti gaganābhoge jigīṣorjagat ।
+mārasyocitamātapatramadhunā pāṇḍu pradoṣaśriyā mānonnaddhajanābhimānadalanodyogaikahevākinaḥ ।।

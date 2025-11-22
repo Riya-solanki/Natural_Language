@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2442 | label: meter | g:0.194 m:0.625 ---
+
+śikhābhis tasya muktābhī rarāja mukhapaṅkajam 
+vṛttaṃ ṣaṭpadapaṅktībhir yathā syāt padmamaṇḍalam ।।

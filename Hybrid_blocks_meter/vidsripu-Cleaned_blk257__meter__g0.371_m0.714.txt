@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 257 | label: meter | g:0.371 m:0.714 ---
+
+majjānam api vilimpati nākṛtapuṇyasya varṣati payode ।
+nirgamakelisamutsukaśiśivāraṇagāḍhaparirambhaḥ ।।

@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 807 | label: grammar | g:0.542 m:0.375 ---
+
+sundarakaḥ
+{Pkt}tado a deva adikkante saravarise khaṇamettaṃ evva saharisasiṃhaṇāde paṇḍavaseṇṇe savisādamukkakkande koravabale samutthido mahanto kalaalo hā hado kumālavisaseṇo tti ।

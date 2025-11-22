@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3635 | label: grammar | g:0.646 m:0.5 ---
+
+tāvac ca gandharvair atīvojjvalā vidyuj janitā । tatprabhayā corvaśī rājānam apagatāmbaraṃ dṛṣṭvāpavṛttasamayā tatkṣaṇād evāpakrāntā ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 354 | label: grammar | g:0.667 m:0.5 ---
+
+guhye bhaktiḥ pare bhaktir bhaktir viśvamaheśvare tvayi śambhau śive deva bhaktir nāma kim apy aho ।।

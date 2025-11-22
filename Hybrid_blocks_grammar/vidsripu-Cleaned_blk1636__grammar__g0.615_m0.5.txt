@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1636 | label: grammar | g:0.615 m:0.5 ---
+
+bhagnaṃ deva samastavānarabhaṭair naṣṭaṃ ca yūthādhipaiḥ kiṃ dhairyeṇa puro vilokya daśagrīvo ayam ārād abhūt ।
+itthaṃ jalpati sambhramolbaṇamukhe sugrīvarāje muhus tenākekaram īkṣitaṃ daśa śanair bāṇān ṛjūkurvatā ।।

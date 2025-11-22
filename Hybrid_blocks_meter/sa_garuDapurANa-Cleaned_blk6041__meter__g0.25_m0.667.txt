@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6041 | label: meter | g:0.25 m:0.667 ---
+
+śuno asthi kaṇṭhabaddhaṃ hi mahiṣāṇāṃ gavā tathā ।
+kṛmijālaṃ pātayati sakalaṃ nātra saṃśayaḥ ।।
+gojaṅganābhipātaḥ syādguñjāmūlasya bhakṣaṇāt ।।
+varuṇaphalasyarasaṃ kareṇa mathitaṃ śiva ।
+catuṣpāda-dvipadayoḥ kṛmijālaṃ nipātayet ।।

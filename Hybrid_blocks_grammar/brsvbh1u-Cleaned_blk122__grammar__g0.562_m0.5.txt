@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 122 | label: grammar | g:0.562 m:0.5 ---
+
+-sarvajñānānāṃ samīcīnatve udāhṛtasthale bhrama eva na syāditi cettatra svamatamāha-tathā ceti ।

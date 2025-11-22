@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3612 | label: meter | g:0.194 m:0.5 ---
+
+sātyakiś citrakaḥ śyāmo yuyudhānaś ca vīryavān 
+rājādhidevo mṛduraḥ śvaphalkaś ca mahābalaḥ ।।

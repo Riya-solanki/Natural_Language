@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5051 | label: meter | g:0.308 m:0.919 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+jvaro aṣṭadhā pṛthagdvandvasaṃghātāgantujaḥ smṛtaḥ ।
+mustaparpaṭakośīracandanodīcyanāgaraiḥ ।
+śṛtaśītaṃ jalaṃ dadyātpipāsājvaraśāntaye ।।

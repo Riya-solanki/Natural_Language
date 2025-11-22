@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2172 | label: hybrid | g:0.25 m:0.427 ---
+
+śāṇaścaturmāṣamāno māṣakaḥ pañcakṛṣṇalaḥ ।
+palasya daśamo bhāgo dharaṇaḥ parikīrtitaḥ ।।
+itthaṃ maṇividhiḥ prokto ratnānāṃ mūlyaniścaye ।।
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vaidūryaparīkṣaṇaṃ nāma trisaptatitamo adhyāyaḥ

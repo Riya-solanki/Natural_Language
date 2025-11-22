@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6121 | label: meter | g:0.194 m:0.625 ---
+
+anāvṛṣṭyagnisaṃparkāt kṛte saṃkṣālane mune 
+samasteṣv eva lokeṣu pātāleṣv akhileṣu ca ।।

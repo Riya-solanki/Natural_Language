@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 348 | label: grammar | g:0.688 m:0.5 ---
+
+[] yatra śrīmatāṃ mitrāṇāṃ saṅgatau madhumaṅgalo' pi raṅga iva tat-tat-prasaṅgena narma-bhaṅgibhiḥ śarma dātum aṅgīkurvann iva niviveśa ।

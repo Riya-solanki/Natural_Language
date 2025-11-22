@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 73 | label: hybrid | g:0.494 m:0.486 ---
+
+nanu vastumātrakathane api rajuriyaṃ nāyaṃ sarpa ityādau bhrāntijanitabhītinivartanenārthavattvaṃ dṛṣṭaṃ tathehāpyasaṃsāryātmavastukathanena saṃsāritvabhrāntinivartanenārthavattvaṃ syāt ।
+syādetadevaṃ, yadi rajusvarūpaśravaṇa iva sarpabhrāntiḥ, saṃsāritvabhrāntirbrahmasvarūpaśravaṇamātreṇa nivarteta ।
+natu nivartate, śrutabrahmaṇo api yathāpūrvaṃ sukhaduḥkhādisaṃsāridharmadarśanāt, aśrotavyo mantavyo nididhyāsitavyaḥ' iti ca śravaṇottarakālayormanananididhyāsanayorvidhirdarśanāt ।
+tasmātpratipattividhiviṣayatayaiva śāstrapramāṇakaṃ brahmābhyupagantavyamiti ।

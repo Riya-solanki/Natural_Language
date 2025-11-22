@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 103 | label: grammar | g:0.75 m:0.5 ---
+
+prakāśātmanaḥ parameśvarasya māyāśaktyā svātmarūpaṃ viśvaṃ bhede ābhāsyate । tataḥ saiva citir jñānam adhyakṣam । tasyaiva bhinnasyābhātasya smṛtiḥ saṃkalpo adhyavasāyo manobuddhirūpatve api citir eva ।।

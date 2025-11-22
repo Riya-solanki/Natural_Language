@@ -1,0 +1,7 @@
+--- source: brssbh1u-Cleaned.txt | block: 650 | label: meter | g:0.292 m:0.814 ---
+
+yattu vāyuvijñānātkvacidamṛtatvamabhihitaṃ tadāpekṣikam ।
+tatraiva prakaṇāntarakaraṇena paramātmānamabhidhāya aanto anyadārtam' iti vāyvāderārtatvābhidhānāt ।
+prakaraṇādapyatra paramātmaniścayaḥ ।
+anyatra dharmādanyatrādharmādanyatrāsmatkṛtākṛtāt ।
+anyatra bhūtācca bhavyācca yattatpaśyasi tadvada iti paramātmanaḥ pṛṣṭatvāt ।।

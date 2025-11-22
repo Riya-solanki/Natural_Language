@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1562 | label: meter | g:0.25 m:0.5 ---
+
+{vaktrasyandisvedabinduprabandhairdṛṣṭvā bhinnaṃ kuṅkumaṃ kāpi kaṇṭhe ।
+puṃstvaṃ tanvyā vyañjayantī vayasyā smitvā pāṇau khaḍgalekhāṃ lilekha ।।}

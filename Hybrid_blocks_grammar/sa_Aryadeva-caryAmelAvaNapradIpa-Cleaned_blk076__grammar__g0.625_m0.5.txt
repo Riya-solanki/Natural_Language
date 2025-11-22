@@ -1,0 +1,3 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 76 | label: grammar | g:0.625 m:0.5 ---
+
+dūraṅgamekacaramaśarīraṃ guhāśayam । ye cittaṃ sanniveśayanti mucyante mārabandhanād ।। iti । pratītyotpadyate yadyadindriyairviṣayairmanaḥ ।।

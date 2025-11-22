@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10063 | label: meter | g:0.25 m:0.5 ---
+
+ya idaṃ śṛṇuyānmartyo yo vāpyabhidadhāti ca ।
+ihāmutra ca loke sa sarvatra sukhamāpnuyāt ।।

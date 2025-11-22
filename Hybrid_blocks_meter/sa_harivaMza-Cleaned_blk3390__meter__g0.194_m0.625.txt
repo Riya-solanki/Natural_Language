@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3390 | label: meter | g:0.194 m:0.625 ---
+
+ko naḥ pāṃsuparītāṅgyo ratisaṃsargalālasāḥ 
+latā iva viceṣṭantyaḥ śayanīyāni neṣyati ।।

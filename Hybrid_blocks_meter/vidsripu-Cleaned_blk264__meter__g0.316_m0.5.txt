@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 264 | label: meter | g:0.316 m:0.5 ---
+
+kāle vāridharāṇām apatitayā naiva śakyate sthātum ।
+utkaṇṭhitāsi tarale na hi na hi sakhi picchilaḥ panthāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3181 | label: meter | g:0.25 m:0.75 ---
+
+tatastāṃ vārayāmāsurṛṣayaḥ sapta mānasāḥ ।
+tasyāmāsaktacittāstu sarva eva tapodhanāḥ ।।

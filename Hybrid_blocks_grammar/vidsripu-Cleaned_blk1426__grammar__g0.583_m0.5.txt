@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1426 | label: grammar | g:0.583 m:0.5 ---
+
+śiraḥ śārvaṃ svargāt paśupatiśirastaḥ kṣitibhṛtaṃ mahīdhrād uttuṅgād avanitalam asmāc ca jaladhim ।
+adho adho gaṅgāvad vayam upagatā dūram athavā padabhraṃśetānāṃ bhavati vinipātaḥ śatamukhaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 161 | label: grammar | g:0.646 m:0.5 ---
+
+bhedaḥ sāsravo bhāvanāmārgaḥ, anāsravo bhāvanāmārgaśceti dvau bhedau । tatra sāsravaḥ savikalpabhāvanāmārgaḥ anāsravaśca nirvikalpa iti ।

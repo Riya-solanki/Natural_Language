@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1659 | label: meter | g:0.194 m:0.521 ---
+
+saṃkṣepeṇa dayāmataḥ sthiratayā paśyanti dharmaṃ buddhāḥ
+ko nāmāsti guṇaḥ sa sādhudayito yo nānuyāto dayām ।
+tasmātputra ivātmanīva ca dayāṃ nītvā prakarṣaṃ jane
+sadvṛttena haranmanāṃsi jagatāṃ rājatvamudbhāvaya ।।

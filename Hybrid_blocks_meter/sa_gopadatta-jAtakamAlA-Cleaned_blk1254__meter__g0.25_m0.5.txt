@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1254 | label: meter | g:0.25 m:0.5 ---
+
+udadhir iva yugānte plāvayaṃl lokam antarlulitamakarapucchacchinnacañcattaraṅgaḥ ।
+sa nṛpabalasamūho nagnanistriṃśapattrasphuritaravimayūkhas tatpuraṃ saṃrurodha ।।

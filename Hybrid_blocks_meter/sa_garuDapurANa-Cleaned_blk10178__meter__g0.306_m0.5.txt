@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10178 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ vadanti ye mūḍhā stepi yāntyadharaṃ tamaḥ ।
+upādhirdvividhaḥ proktaḥ svarūpo bāhya eva ca ।।

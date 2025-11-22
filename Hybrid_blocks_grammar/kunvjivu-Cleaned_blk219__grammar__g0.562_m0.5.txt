@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 219 | label: grammar | g:0.562 m:0.5 ---
+
+vaktrendorna haranti bāṣpapayasāṃ dhārā manojñāṃ śriyaṃ niśvāsā na kadarthayanti madhurāṃ bimbādharasya dyatim ।
+tasyāstvadvirahe vipakvalavalīlāvaṇyasaṃvādinī chāyā kāpi kapolayoranudinaṃ tanvyāḥ paraṃ puṣyati ।।

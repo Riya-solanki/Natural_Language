@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 649 | label: meter | g:0.328 m:0.595 ---
+
+sa tena lagnena tadā dvijātirna śaśāka ha ।
+abhigantuṃ mahāprājñastīrthānyāyatanāni ca ।।

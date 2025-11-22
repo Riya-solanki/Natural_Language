@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8157 | label: meter | g:0.316 m:0.756 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+sapiṇḍīkaraṇa jāte ābdike ca svakarmabhiḥ ।
+devatvaṃ vā manuṣyatvaṃ pakṣitvaṃ vāpnuyurnarāḥ ।।

@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 223 | label: grammar | g:0.582 m:0.45 ---
+
+sūryātapapītarasā iti sūryātape savitṛgharme pītāḥ śoṣitā rasā dravā yaiḥ evaṃvidhā dhātavo dhmātāḥ santaḥ svalpaṃ īṣanmātraṃ sattvaṃ muñcanti tyajanti ।।
+punasta eva sūryātapapītarasā dhātavaḥ svasthānasthāḥ svakīyaṃ yatsthānaṃ draveṇa sthānapiṇḍaṃ rūpaṃ tasmin tiṣṭhantīti evaṃvidhāḥ santo bahalaṃ bhūyiṣṭhaṃ satvaṃ muñcanti dravantītyarthaḥ ।।
+sūryātapapītarasā iti keṣāṃ sūryāvartakadalīvandhyākarkoṭakyādīnāṃ drāvakauṣadhīnām ।।

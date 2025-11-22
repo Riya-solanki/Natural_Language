@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1425 | label: meter | g:0.326 m:0.5 ---
+
+sukhārthamiṣṭān viṣayān prapadyase niṣevituṃ necchasi tadvirodhinaḥ ।
+nṛpasya sevāṃ ca karoṣi tatkṛte na heturastīti ca nāma bhāṣase ।।

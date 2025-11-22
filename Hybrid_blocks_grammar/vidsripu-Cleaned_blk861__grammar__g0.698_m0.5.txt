@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 861 | label: grammar | g:0.698 m:0.5 ---
+
+ākṛṣyādāv amandagraham alakacayaṃ vaktram āsajya vaktre kaṇṭhe lagnaḥ sukaṇṭhaḥ punar api kucayor dattagāḍhāṅgasaṅgaḥ ।
+baddhāsaktir nitambe patati caraṇayor yaḥ sa tādṛk priyo me bāle lajjā praṇaṣṭā na hi na hi kuṭile colakaḥ kiṃ trapākṛt ।।

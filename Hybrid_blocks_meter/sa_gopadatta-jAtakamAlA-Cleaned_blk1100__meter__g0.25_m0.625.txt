@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1100 | label: meter | g:0.25 m:0.625 ---
+
+yenāyaṃ kampitaḥ pūrvaṃ śākhāntaravicāriṇā ।
+kvemaṃ kāyadrumaṃ tyaktvā sa gataś cittamarkaṭaḥ ।।

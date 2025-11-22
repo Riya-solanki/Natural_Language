@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6377 | label: meter | g:0.194 m:0.625 ---
+
+viṣṇuśaktiḥ parā proktā kṣetrajñākhyā tathāparā 
+avidyā karmasaṃjñānyā tṛtīyā śaktir iṣyate ।।

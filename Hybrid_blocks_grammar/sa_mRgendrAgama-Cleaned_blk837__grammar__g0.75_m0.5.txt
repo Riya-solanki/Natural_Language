@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 837 | label: grammar | g:0.75 m:0.5 ---
+
+[sādhakāhnikavicchede] ahnā nirvartyaḥ āhnikaḥ pratyahaṃ kāryo vidhiḥ sādhakasādhyaḥ prāgukto vidhiḥ, tasyecchāto vicchede tallope [sadyojātāyutaṃ] daśasahasrāṇi sadyojātasya japet। yadvā [vāsaraṃ mārutāśanaḥ] ekāhopoṣitaḥ [saṃyataprāṇaḥ] prāṇāyāmaśatena tameva [śataṃ] śataśo japet। atra ca dūrasthādapi yathāyogaṃ prāktanamakāmakṛta ekaguṇatvaṃ kāmakṛte tu traiguṇyamabhisambandhanīyam।।

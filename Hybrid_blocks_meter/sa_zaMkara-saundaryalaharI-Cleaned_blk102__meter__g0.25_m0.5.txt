@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 102 | label: meter | g:0.25 m:0.5 ---
+
+samānītaḥ padbhyāṃ maṇimukuratām ambaramaṇir bhayād antarbaddhastimitakiraṇaśreṇimasṛṇaḥ 
+dadhāti tvadvaktraṃ pratiphalitam aśrāntivikacaṃ nirātaṅkaṃ candrān nijahṛdayapaṅkeruham iva ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 756 | label: meter | g:0.139 m:0.583 ---
+
+atyārūḍhasya bhāvasya vilayaḥ śāntir ucyate ।। athā-
+śuddhāntasya nivārito' py anunayair niḥśaṅkam aṅkūrito
+vṛddhāmātya-hitopadeśa-vacanai ruddho' pi vṛddhiṃ gataḥ ।
+mānodreka-taruḥ pratikṣiti-bhujām āmūlam unmūlyate
+vāhinyām anapota-siṃha-nṛpater ālokitāyām api ।।

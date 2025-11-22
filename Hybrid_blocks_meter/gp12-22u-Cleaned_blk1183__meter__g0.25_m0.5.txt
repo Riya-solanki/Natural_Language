@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1183 | label: meter | g:0.25 m:0.5 ---
+
+nātṛpat karuṇā-dṛṣṭir nātrāpsīt prāpitā śrutiḥ ।
+nātārpsīt prārcchitā nāsā nātarpīd arpitaṃ manaḥ ।। [anu]

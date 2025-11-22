@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2232 | label: meter | g:0.25 m:0.555 ---
+
+tato hāhākṛtāḥ sarvā devakīpramukhāḥ striyaḥ 
+uvāca devakī dīnā bāṣpaviklavayā girā । 
+dārikā putra jāteti kaṃsaṃ tūvāca devakī ।।

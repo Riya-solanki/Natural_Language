@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 97 | label: hybrid | g:0.419 m:0.248 ---
+
+vastvantarameva hi vastvantarasyāsattvamāsthīyate abhāvāntaramabhāvo anyo na kaścidanirūpaṇāt'iti vadadbhiḥ, na cāropitaṃ rūpaṃ vastvantaram,taddhi marīcayo vā bhavet, gaṅgādigataṃ toyaṃ vā ।
+pūrvasminkalpe marīcayaḥ iti pratyayaḥ syāt, na toyamiti ।
+uttarasmiṃstu gaṅgāyāṃ toyamiti syāt, na punariheti ।
+deśabhedāsmaraṇe toyamiti syānna punariheti ।

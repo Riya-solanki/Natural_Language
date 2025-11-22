@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 570 | label: meter | g:0.182 m:0.814 ---
+
+vidyayā, yathā-
+bindu-dvandva-taraṅgitāgra-saraṇiḥ kartā śiro-bindukaṃ
+karmeti krama-śikṣitānvaya-kalā ye ke' pi tebhyo namaḥ ।
+ye tu grantha-sahasra-śāṇakaṣaṇa-truṭyat-kalaṅkair girām
+ullekhaiḥ kavayanti bilhaṇa-kavis teṣv eva saṃnahyati ।।

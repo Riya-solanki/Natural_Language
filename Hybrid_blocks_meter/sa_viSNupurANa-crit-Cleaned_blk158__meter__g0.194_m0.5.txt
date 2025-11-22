@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 158 | label: meter | g:0.194 m:0.5 ---
+
+saptarṣayaḥ surāḥ śakro manus tatsūnavo nṛpāḥ 
+ekakāle hi sṛjyante saṃhriyante ca pūrvavat ।।

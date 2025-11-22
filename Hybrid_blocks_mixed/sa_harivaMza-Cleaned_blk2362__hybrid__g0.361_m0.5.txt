@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2362 | label: hybrid | g:0.361 m:0.5 ---
+
+na vanaṃ śakyate gantuṃ na gāś ca parirakṣitum 
+na vanāt kiṃcid āhartuṃ na ca vā tarituṃ nadīm ।। 
+trastā hy udvignamanaso gatās tasmin vane avasan । 
+evaṃ vṛkair udīrṇais tu vyāghratilyaparākramaiḥ 
+vrajo niṣpandaceṣṭaḥ sa ekasthānacaraḥ kṛtaḥ ।।

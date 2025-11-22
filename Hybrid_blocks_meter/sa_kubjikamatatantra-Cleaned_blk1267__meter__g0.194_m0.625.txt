@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1267 | label: meter | g:0.194 m:0.625 ---
+
+divyasiddho bhaviṣyāmaḥ krīḍāmaḥ kāminījanaiḥ 
+madhyadeśāntarastho asau na kiñcid api cintayet ।।

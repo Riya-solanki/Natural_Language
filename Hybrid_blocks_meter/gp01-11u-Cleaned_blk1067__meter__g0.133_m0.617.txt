@@ -1,0 +1,10 @@
+--- source: gp01-11u-Cleaned.txt | block: 1067 | label: meter | g:0.133 m:0.617 ---
+
+kṛta-gṛhāgamanā vraja-bālakās
+tad akhilaṃ khalu vṛttam avarṇayan ।
+baka-khagasya tathākṛtitā
+tathā śiśu-kṛtā mṛtir evam abhūd iti ।। [drutavilambitā]
+tad-vārtā-yugalena gokula-bhuvāṃ dagdhaṃ ca siktaṃ ca yat
+pratyaṅgaṃ tad idaṃ layāya bhavitety evaṃ janaiḥ śaṅkitam ।
+paścāt pratyuta romaharṣam adadhād yat tat tu yuktaṃ parā
+vārtā tatra varāmṛtād api parā tair evam āsvādyata ।। [śārdūla]

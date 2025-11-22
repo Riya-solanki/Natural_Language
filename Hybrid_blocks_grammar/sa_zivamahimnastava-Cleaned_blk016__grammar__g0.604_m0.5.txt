@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 16 | label: grammar | g:0.604 m:0.5 ---
+
+asiddhārthā naiva kvacid api sadevāsuranare nivartante nityaṃ jagati jayino yasya viśikhāḥ ।
+sa paśyan īśa tvām itarasurasādhāraṇam abhūt smaraḥ smartavyātmā na hi vaśiṣu pathyaḥ paribhavaḥ ।।

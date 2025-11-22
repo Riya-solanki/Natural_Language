@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 375 | label: grammar | g:0.621 m:0.222 ---
+
+nanu kramavartināmapyutpattyapūrvavaśena yuktaṃ sāhityam, varṇānāṃ tu katham ।
+teṣāmapi saṃskāreṇa bhaviṣyati tatsadbhāve kiṃ pramāṇam, yadevāgneyādiṣu ।
+yathāhi teṣāṃ śāstreṇa saṃhatyakāritāvagamātsvarūpataśca tadasaṃbhavādapūrvaṃ dvāraṃ kalpyate, tathā varṇānāmapyekaikaśo abhidhānādarśanātsakaloccāraṇe cāvagamātsaṃhatyakāritve niścite svarūpeṇāsaṃbhavātsaṃskārakalpanaṃ yuktameva, tadvadeva caikakartṛtvaṃ kramaviśeṣaścādriyate viparyayeṇārthābhidhānādarśanāt ।।

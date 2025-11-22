@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1477 | label: meter | g:0.0 m:0.75 ---
+
+punnapuṃsakayor vapraḥ kedāraḥ kṣetramasya tu

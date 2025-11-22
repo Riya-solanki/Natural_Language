@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1044 | label: grammar | g:0.583 m:0.5 ---
+
+dhatte padmatalād alepsur upari svaṃ karṇatālaṃ dvipaḥ śaṣpastambarasān niyacchati śikhī madhyeśikhaṇḍaṃ śiraḥ ।
+mithyā leḍhi mṛṇālakoṭirabhasād daṃṣṭrāṅkuraṃ śūkaro madhyāhne mahiṣaś ca vāñchati nijacchāyāmahākardamam ।।

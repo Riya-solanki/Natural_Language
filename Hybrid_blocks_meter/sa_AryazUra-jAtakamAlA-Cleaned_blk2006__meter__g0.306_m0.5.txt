@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2006 | label: meter | g:0.306 m:0.5 ---
+
+dīpaḥ śrutaṃ mohatamaḥpramāthī caurādyahāryaṃ paramaṃ dhanaṃ ca ।
+saṃmohaśatruvyathanāya śastraṃ nayopadeṣṭā paramaśca mantrī ।।

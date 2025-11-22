@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1302 | label: meter | g:0.194 m:0.854 ---
+
+tasya viṣṇoḥ sureśasya śrīvatsāṅkasya dhīmataḥ 
+prādurbhāvasahasrāṇi samatītāny anekaśaḥ 
+sarvayajñamukhaṃ devaṃ sarvayajñapravartinam । 
+bhūyaś caiva bhaviṣyantīty evam āha pitāmahaḥ ।।

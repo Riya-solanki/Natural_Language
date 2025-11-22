@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11923 | label: hybrid | g:0.542 m:0.5 ---
+
+hariṃ guruṃ hyanusṛtyaiva satyaṃ gatiṃ svakīyāṃ tena jānīhi mūḍha ।
+dagdhvā duṣṭāṃ buddhimevaṃ ca mūḍha subuddhirūpaṃ mā bhajasvaiva nityam ।।

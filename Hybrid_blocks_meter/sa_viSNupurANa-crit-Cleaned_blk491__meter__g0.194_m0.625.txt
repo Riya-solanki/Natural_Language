@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 491 | label: meter | g:0.194 m:0.625 ---
+
+śaktayo yasya devasya brahmaviṣṇuśivātmikāḥ 
+bhavanty abhūtapūrvasya tad viṣṇoḥ paramaṃ padam ।।

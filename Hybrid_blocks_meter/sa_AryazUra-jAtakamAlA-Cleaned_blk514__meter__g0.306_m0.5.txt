@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 514 | label: meter | g:0.306 m:0.5 ---
+
+taṃ hemajālarucirābharaṇaṃ gajendraṃ vidyutpinaddhamiva śāradamabhrarāśim ।
+dattvā parāṃ mudamavāpa narendrasūnuḥ saṃcukṣubhe ca nagaraṃ nayapakṣapātāt ।।

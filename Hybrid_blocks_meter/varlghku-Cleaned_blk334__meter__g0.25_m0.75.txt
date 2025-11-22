@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 334 | label: meter | g:0.25 m:0.75 ---
+
+prathamāyāśca dvivacane bhāṣāyām ।।
+auṅyetayorātvaṃ loke । āvām ।।

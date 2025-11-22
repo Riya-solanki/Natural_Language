@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1059 | label: meter | g:0.194 m:0.5 ---
+
+yasmān na varjitam idaṃ vanaṃ te mama hehaya 
+tasmāt te duṣkaraṃ karma kṛtam anyo hariṣyati 
+arjuno nāma kauravyaḥ pāṇḍavaḥ kuntinandanaḥ ।। 
+rāmo nāmamahābāhur jāmadagnyaḥ pratāpavān । 
+chittvā bāhusahasraṃ te pramathya tarasā balī 
+tapasvī brāhmaṇaś ca tvāṃ haniṣyati sa bhārgavaḥ ।।

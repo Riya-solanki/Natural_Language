@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 485 | label: meter | g:0.25 m:0.555 ---
+
+yavanāḥ pāradāś caiva kāmbojāḥ pahlavās khaśāḥ 
+kātisarpā māhiṣikāḥ pāradāṣṭaṅkaṇāḥ śakāḥ । 
+ete hy api gaṇāḥ pañca hehayārthe parākraman ।।

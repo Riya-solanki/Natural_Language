@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2622 | label: meter | g:0.194 m:0.625 ---
+
+gopavṛddhasya vacanaṃ śrutvā śakraparigrahe 
+prabhāvajño api śakrasya vākyaṃ dāmodaro abravīt ।।

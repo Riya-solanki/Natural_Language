@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 118 | label: meter | g:0.25 m:0.625 ---
+
+vilāsinīnāṃ raśanāsvanena śrutisvanairbrahmaṇapuṅgavānām ।
+śucisvaratvaṃ guravo niśamya hāsyādaśāsanta muhurmuhustān ।।

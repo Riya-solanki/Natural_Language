@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 427 | label: meter | g:0.306 m:0.5 ---
+
+tatastu daityena varāstrapāṇinā cāpe niyuktaṃ tu pitāmahāstram ।
+maheśvarāstraṃ puruṣottameva samaṃ samāhatya nipetatustau ।।

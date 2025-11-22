@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 64 | label: hybrid | g:0.521 m:0.5 ---
+
+FN pūrvapakṣiṇā kriyāśeṣatayā brahma pratipādyata ityuktaṃ tadvyāvṛttyarthamiti bhāvaḥ ।

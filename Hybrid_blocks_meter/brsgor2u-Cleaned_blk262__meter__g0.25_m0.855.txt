@@ -1,0 +1,5 @@
+--- source: brsgor2u-Cleaned.txt | block: 262 | label: meter | g:0.25 m:0.855 ---
+
+tatraiva śrutyantarārthaṃ sūtram- pṛthagiti ।
+vijñānamindriyāṇāṃ jñānaśaktiṃ vijñānena caitanyaguṇenādāya śeta ityarthaḥ ।
+etaṃ caitanyaguṇavyāptigocaramabhiprāyam ।।

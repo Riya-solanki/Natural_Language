@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3440 | label: meter | g:0.272 m:0.595 ---
+
+uttiṣṭha naraśārdūla dīrghabāho mahābala 
+trāhi dīnaṃ janaṃ sarvaṃ puram antaḥpuraṃ tathā ।।

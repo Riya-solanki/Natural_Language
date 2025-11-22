@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3776 | label: meter | g:0.25 m:0.5 ---
+
+tāny evāsyāḥ kārayiṣye cihnāny āyatanāni ca 
+sthānāni vidadhuś cātra brahmādīnāṃ yathākramam । 
+catvarān rājamārgāṃś ca samān antaḥpurāṇi ca ।।

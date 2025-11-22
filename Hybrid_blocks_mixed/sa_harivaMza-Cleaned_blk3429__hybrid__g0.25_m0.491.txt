@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3429 | label: hybrid | g:0.25 m:0.491 ---
+
+tathaiva jñātilubdhasya mama putrasya dhīmataḥ 
+jñātibhyo bhayam utpannaṃ śarīrāntakaraṃ mahat ।। 
+vinamrasya hy anaukasya vaktur vigraham ṛcchataḥ । jātivigrahabhūtasya [nūnaṃ] mṛtyur bhaviṣyati । 
+sā patiṃ bhūpatiṃ vṛddham ugrasenaṃ vicetasam 
+uvāca rudatī vākyaṃ vivatsā saurabhī yathā ।।

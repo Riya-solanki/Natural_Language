@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4074 | label: meter | g:0.194 m:0.625 ---
+
+surāmāṃsopahārais tu bhakṣyabhojyaiś ca pūjitā 
+nṝṇām aśeṣakāmāṃs tvaṃ prasannā saṃpradāsyasi ।।

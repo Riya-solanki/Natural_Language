@@ -1,0 +1,5 @@
+--- source: mrgt3cau-Cleaned.txt | block: 3 | label: hybrid | g:0.438 m:0.371 ---
+
+Vṛtti:
+[deśikādīnām] ācāryasādhakaputrakasamayināṃ [sāmānyācārasaṃgrahaḥ] sādhāraṇāsādhāraṇācārasamuccayaḥ [avasaraprāptaḥ] kramāyātaḥ [samāsena] saṃkṣepād idānīm upadiśyate abhidhīyata iti।
+athaśabdo adhikārārthaḥ। ataḥśabdastu yogapādānantaryam।

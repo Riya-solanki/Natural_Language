@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 108 | label: grammar | g:0.562 m:0.5 ---
+
+atha so arhan mandasaṃvegāpanno ayam āyuṣmān iti viditvā tam āha ।

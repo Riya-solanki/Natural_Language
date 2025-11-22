@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 173 | label: meter | g:0.25 m:0.5 ---
+
+svīyā trayodaśa-vidhā vividhā ca varāṅganā ।
+vaiśikaivaṃ ṣoḍaśadhā tāś cāvasthābhir aṣṭabhiḥ ।। 
+ekaikam aṣṭadhā tāsām uttamādi-prabhedataḥ ।
+traividhyam evaṃ sa-caturaśītis triśatī bhavet ।। 
+avasthā-trayam eveti kecid āhuḥ para-striyāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3675 | label: meter | g:0.194 m:0.625 ---
+
+lāṅgalākṛṣṭamārgā tvam imaṃ me priyadarśane 
+deśam ambupradānena nikhilaṃ bhāvayasva naḥ ।।

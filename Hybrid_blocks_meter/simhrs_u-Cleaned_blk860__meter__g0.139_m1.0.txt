@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 860 | label: meter | g:0.139 m:1.0 ---
+
+yathā vīrānande-
+ādhūta-mūrdha-daśakaṃ taralāṅulīkaṃ
+rūkṣekṣaṇaṃ paruṣa-huṅkṛti-garbha-kaṇṭham ।
+paśyan niśācara-mukhāni tato' vatīrṇaḥ
+saudhāt plavaṅga-pati-muṣṭi-hato daśāsyaḥ ।।

@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 42 | label: hybrid | g:0.497 m:0.5 ---
+
+gatair māṇikyatvaṃ gagana-maṇibhiḥ sāndra-ghaṭitaṃ kirīṭaṃ te haimaṃ hima-giri-sute kīrtayati yaḥ
+sa nīḍeyac-chāyā-cchuraṇa-śabalaṃ candra-śakalaṃ dhanuḥ śaunāsīraṃ kim iti na nibadhnāti dhiṣaṇām ।।

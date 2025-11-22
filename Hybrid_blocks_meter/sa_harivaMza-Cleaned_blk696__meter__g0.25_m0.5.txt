@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 696 | label: meter | g:0.25 m:0.5 ---
+
+adhaḥ prastāraśayane śayānas tena coditaḥ 
+dūtāntaritam etad vai vākyam agniśikhopamam ।। 
+śarīraṃ me adahat tasya vākyaṃ caitad durātmanaḥ । 
+tato ahaṃ tasya durbuddher vijñāya matam acyuta 
+ājñaptavān vai saṃgrāme senādhyakṣāṃś ca sarvaśaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7156 | label: meter | g:0.28 m:0.693 ---
+
+ahaṃ brahmāsmi nirlepamahaṃ brahmāsmi sarvagam ।
+yosāvādityapuruṣasosāvahamanādimat ।
+gītāsāror'junāyokto yena brahmaṇi vai layaḥ ।।

@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 141 | label: grammar | g:0.625 m:0.5 ---
+
+kāryakāraṇabhāva iva tatsiddhir api pratyakṣānupalambhair ekapramātṛmukhena samanvayam āgatya kriyate, asamanvitāḥ pratyakṣānupalambhāḥ kramikasvaviṣayamātrajñāpanakṣīṇā nānyonyāpekṣopalakṣaṇakṣamāḥ ।।

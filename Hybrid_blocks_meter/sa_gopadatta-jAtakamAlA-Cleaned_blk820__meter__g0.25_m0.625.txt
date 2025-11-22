@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 820 | label: meter | g:0.25 m:0.625 ---
+
+bodhisattvo atha tāṃ sādhvīṃ bahalasnehaviklavām ।
+anukampāvaśāt sādhur īdṛśaṃ pratyabhāṣata ।।

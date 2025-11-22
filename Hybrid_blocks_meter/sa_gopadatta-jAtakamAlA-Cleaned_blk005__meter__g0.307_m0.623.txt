@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 5 | label: meter | g:0.307 m:0.623 ---
+
+abhūtasaṃbhāvanayā tayā tu hato apy asau kālavaśena bhūpaḥ ।
+tuṣāradagdhadrumavad vasante guṇaprabhāvojjvalatām upaiti ।।

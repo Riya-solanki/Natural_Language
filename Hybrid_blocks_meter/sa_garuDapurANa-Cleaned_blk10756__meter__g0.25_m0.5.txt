@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10756 | label: meter | g:0.25 m:0.5 ---
+
+sarveṣāmuttamonte yaḥ kalireva na saṃśayaḥ ।
+dūṣako viṣṇubhaktānāṃ tatsamo nāsti sarvadā ।।

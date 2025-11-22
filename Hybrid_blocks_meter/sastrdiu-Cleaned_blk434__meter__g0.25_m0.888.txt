@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 434 | label: meter | g:0.25 m:0.888 ---
+
+tajjātīyaśukraniṣpattiriti nātyantaṃ tādātmyāpattiḥ ।
+tasmādastyekamākṛtijātisāmānyaśabdābhilapanīyaṃ śābaleyādiṣvanugatam ।।
+ityākṛtivādaḥ ।

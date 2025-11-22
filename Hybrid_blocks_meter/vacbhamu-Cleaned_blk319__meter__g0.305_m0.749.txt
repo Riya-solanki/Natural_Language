@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 319 | label: meter | g:0.305 m:0.749 ---
+
+avidyayā mṛtyuṃ tīrtvā vidyayāmṛtamaśnute ।।
+iti ।
+tasmātsarvamavadātam ।।

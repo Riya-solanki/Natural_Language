@@ -1,0 +1,11 @@
+--- source: vacbhamu-Cleaned.txt | block: 698 | label: meter | g:0.25 m:0.762 ---
+
+samādhyabhāvācca ।
+samādhiriti saṃyamamupalakṣayati ।
+dhāraṇādhyānasamādhayo hi saṃyamapadevadanīyāḥ ।
+yathāhuḥ-'trayamekatra saṃyamaḥ' iti ।
+atra śrotavyo mantavya iti dhāraṇopadeśaḥ ।
+nididhyāsitavya iti dhyānopadeśaḥ ।
+draṣṭavya iti samādherupadeśaḥ ।
+yathāhuḥ-'tadeva dhyānamarthamātranirbhāsaṃ svarūpaśūnyamiva samādhiḥ' iti ।
+so ayamiha kartātmā samādhāvupadiśyamāna ātmanaḥ kartṛtvamavaitīti sūtrārthaḥ ।।

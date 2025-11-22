@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 299 | label: hybrid | g:0.5 m:0.5 ---
+
+[] vṛndā sa-kāku prāha-tarhi svayam evedaṃ rahasyaṃ prakāśyatām?

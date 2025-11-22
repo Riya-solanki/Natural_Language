@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1310 | label: meter | g:0.194 m:0.625 ---
+
+gṛhītanītiśāstras te putro daityapate kṛtaḥ 
+prahlādas tattvato vetti bhārgaveṇa yad īritam ।।

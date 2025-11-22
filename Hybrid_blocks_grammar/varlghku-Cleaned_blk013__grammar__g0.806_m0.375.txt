@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 13 | label: grammar | g:0.806 m:0.375 ---
+
+aṇuditsavarṇasya cāpratyayaḥ ।।
+pratīyate vidhīyata iti pratyayaḥ । avidhīyamāno aṇudicca savarṇasya saṃjñā syāt । atraivāṇ pareṇa ṇakāreṇa । ku cu ṭu tu pu ete uditaḥ । tadevam - a ityaṣṭādaśānāṃ saṃjñā । ṛkārastriṃśataḥ । eco dvādaśānām । anunāsikānanunāsikabhedena yavalā dvidhā; tenānanunāsikāste dvayordvayossaṃjñā ।

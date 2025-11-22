@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 266 | label: meter | g:0.25 m:0.625 ---
+
+bījānāṃ saṃskāraḥ kartavyaḥ ko'pi tādṛśaḥ prathamam ।
+yena dravanti garbhe rasarājasyāmlavargeṇa ।।

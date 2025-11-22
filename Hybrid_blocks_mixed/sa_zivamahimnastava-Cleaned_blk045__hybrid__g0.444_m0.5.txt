@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 45 | label: hybrid | g:0.444 m:0.5 ---
+
+tava tattvaṃ na jānāmi kīdṛśo asi maheśvara ।
+yādṛśo asi mahādeva tādṛśāya namo namaḥ ।। Smstadd

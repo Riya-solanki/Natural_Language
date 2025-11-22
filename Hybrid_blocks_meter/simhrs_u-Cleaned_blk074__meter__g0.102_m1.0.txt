@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 74 | label: meter | g:0.102 m:1.0 ---
+
+atha dhīra-lalitaḥ-
+niścinto dhīra-lalitas taruṇo vanitā-vaśaḥ ।। athā-
+so' dhikāram abhikaḥ kulocitaṃ
+kāścana svayam avartayat samāḥ ।
+saṃniveśya saciveṣv ataḥparaṃ
+strī-vidheya-nava-yauvano' bhavat ।।

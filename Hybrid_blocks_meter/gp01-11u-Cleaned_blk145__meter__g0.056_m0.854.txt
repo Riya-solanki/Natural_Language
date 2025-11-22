@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 145 | label: meter | g:0.056 m:0.854 ---
+
+vistāritotsaṅga-nibhair alindaiḥ
+śliṣyanti kṛṣṇaṃ bhavanāni nityam ।
+yeṣāṃ sadāntar nivasanti te tad-
+bhaktā amī tādṛśatāṃ vrajanti ।। [indravajrā]

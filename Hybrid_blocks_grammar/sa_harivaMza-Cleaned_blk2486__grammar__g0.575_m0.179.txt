@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2486 | label: grammar | g:0.575 m:0.179 ---
+
+tad asya sarparājasya kartavyo nigraho mayā 
+yathevaṃ saridambhodā bhavec chivajalāśayā ।। 
+ayaṃ ca sevyaḥ kartavyo hradaḥ śītajalāśraya । sa saṃkarṣaṇaṃ āmantrya keśavas tv idam abravīt । ātmānam ātmano vākyaṃ provāca sa priyaṃvadaḥ । idaṃ vanaṃ nadī ceyaṃ śaraṇyam iti me matiḥ । na nisarpanti dṛśyante sattvānīha mahītale । 
+vrajopabhogyā ca śubhā nāge vai damite mayā 
+sarvartusukhasaṃcārā sarvatīrthasukhāśrayā ।।

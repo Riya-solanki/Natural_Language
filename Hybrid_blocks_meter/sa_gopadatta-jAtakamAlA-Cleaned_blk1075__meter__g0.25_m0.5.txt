@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1075 | label: meter | g:0.25 m:0.5 ---
+
+muhur upāgatasādhvasacañcalaiḥ kuvalayāvayavair iva locanaiḥ ।
+tam abhivīkṣya kalevarapañjaraṃ bahuvidhāni vacāṃsi babhāṣire ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3730 | label: meter | g:0.102 m:0.555 ---
+
+tasminn uparate rājan sa kālayavano nṛpaḥ 
+yuddhābhikāmo rājā tu paryapṛcchad dvijottamam 
+vṛṣṇyandhakakulaṃ tasya nārado vai nyavedayat ।।

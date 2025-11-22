@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 199 | label: grammar | g:0.625 m:0.5 ---
+
+atra karavālopamānasya kṛṣṇāheranupādānān nyūnopamatve api vasanti candane kṛṣṇasarpā iti rūḍheranatikleśena tatpratītiriti na duṣṭatvam ।

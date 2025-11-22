@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1684 | label: meter | g:0.25 m:0.5 ---
+
+tadācacakṣe śumbhāya nisumbhāya ca kauśikīm ।
+bhūyo api tadvidhāṃ jātāṃ kauśikīṃ rūpaśālinīm ।।

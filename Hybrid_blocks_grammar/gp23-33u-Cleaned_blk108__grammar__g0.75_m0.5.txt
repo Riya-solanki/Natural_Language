@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 108 | label: grammar | g:0.75 m:0.5 ---
+
+[] yadyapi ca tāsām ajāta-putrāṇām api devaraṃ-manya-putrādiṣu putratā-vyavahāraḥ kevalaṃ sannihita-bālaka-viṣayaka-vatsalatā-svabhāvākāras tat-sambandhābhimānas tu bahir evācāra ity āpta-vacanān nirdhāritavāṃs tathāpi tat-tad-ullekhana-karmaṇā narma-mātram ācaritavān । tad ācarya ca tad-bandhūnām andhāyamānānām api tad-anveṣaṇa-nirbandhād bhayaṃ vicārya sāmarṣam iva vivakṣitam uvāca-katham iha tat-tad-bhayaṃ kurutha iti । atra ca ṣaṣṭhī pañcamī vā samasyate ।

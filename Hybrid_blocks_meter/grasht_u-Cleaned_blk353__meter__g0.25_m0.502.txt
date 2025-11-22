@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 353 | label: meter | g:0.25 m:0.502 ---
+
+mercury jāraṇa of tin
+athavā vastranibaddhaṃ girijatusahitaṃ suveṣṭitaṃ māṣaiḥ ।
+pakvaṃ taile vaṭakaṃ nirvaṅgaṃ jāyate nūnam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3024 | label: meter | g:0.194 m:0.75 ---
+
+atipravṛddho mattaś ca duṣṭāśvo vanagocaraḥ 
+ākampitasaṭo raudraḥ kaṃsasya caritānugaḥ ।।

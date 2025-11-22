@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 970 | label: grammar | g:0.75 m:0.5 ---
+
+[] kṛṣṇaḥ sāścaryaṃ dṛṣṭvā śrī-rāmaṃ spṛṣṭvā jahāsa, punar uvāca ca, tathyam idaṃ kathyate sma । yasmād vidūra-kṣitigā api kṣiti-ruhās tathā lakṣyante ।

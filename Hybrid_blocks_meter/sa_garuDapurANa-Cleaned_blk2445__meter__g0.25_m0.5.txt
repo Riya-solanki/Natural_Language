@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2445 | label: meter | g:0.25 m:0.5 ---
+
+rāmeśvaraṃ naro natvā rāmavatsupriyo bhavet ।
+brahmeśvaraṃ naraḥ stutvā brahmalokāya kalpyate ।।

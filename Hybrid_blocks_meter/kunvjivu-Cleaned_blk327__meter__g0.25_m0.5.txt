@@ -1,0 +1,3 @@
+--- source: kunvjivu-Cleaned.txt | block: 327 | label: meter | g:0.25 m:0.5 ---
+
+svasthāḥ santu vasanta te ratipateragresarā vāsarāḥ ।।

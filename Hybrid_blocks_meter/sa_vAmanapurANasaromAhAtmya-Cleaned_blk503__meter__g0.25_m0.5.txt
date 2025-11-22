@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 503 | label: meter | g:0.25 m:0.5 ---
+
+ya āpagāṃ nadīṃ gatvā tilaiḥ saṃtarpayiṣyati ।
+tena tṛptā bhaviṣyāmo yāvatkalpaśataṃ gatam ।।

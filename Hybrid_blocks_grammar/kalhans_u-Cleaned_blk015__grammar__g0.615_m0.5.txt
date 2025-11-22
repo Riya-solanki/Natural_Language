@@ -1,0 +1,4 @@
+--- source: kalhans_u-Cleaned.txt | block: 15 | label: grammar | g:0.615 m:0.5 ---
+
+ardhaṃ snigdhavimugdham iddhahutabhugdigdhaṃ tathārdhaṃ jagat pāyād īśvarayos tad akṣi tilakasthānasthitaṃ vīkṣya yat ।
+krīḍākarmaṇi kārmukaṃ karatale kartuṃ kirīṭendunā sotsekaś ca nirutsukaś ca yugapad devaḥ smaro jāyate ।।

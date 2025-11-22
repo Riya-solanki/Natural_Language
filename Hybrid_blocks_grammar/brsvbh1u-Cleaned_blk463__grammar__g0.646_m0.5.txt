@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 463 | label: grammar | g:0.646 m:0.5 ---
+
+NOTE -nanu nañarthaścenna vidhīyate tarhi hananaṃ nāstītyādāviva siddhatayā pratīyetetyāśaṅkyāha-abhāvaśceti । rāgaprāptahananalakṣaṇapratiyogigataṃ sādhyatvamabhāva āropyata ityarthaḥ ।

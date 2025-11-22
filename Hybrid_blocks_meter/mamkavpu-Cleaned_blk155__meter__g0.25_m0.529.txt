@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 155 | label: meter | g:0.25 m:0.529 ---
+
+atra ceṣṭayā pracchannakāntaviṣaya ākūtaviśeṣo dhvanyate ।
+nirākāṅkṣapratipattaye prāptāvasaratayā ca punaḥ punarudāhriyate । vaktrādīnāṃ mithaḥsaṃyoge dvikādibhedena ।
+anena krameṇa lakṣyavyaṅgyayośca vyañjakatvamudāhāryam ।।

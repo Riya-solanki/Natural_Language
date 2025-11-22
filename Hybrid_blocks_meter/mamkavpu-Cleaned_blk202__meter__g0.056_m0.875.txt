@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 202 | label: meter | g:0.056 m:0.875 ---
+
+{sā patyuḥ prathamāparādhasamaye sakhyopadeśaṃ vinā
+no jānāti savibhramāṅgavalanāvakroktisaṃsūcanam ।
+svacchairacchakapolamūlagalitaiḥ paryastanetrotpalā
+bālā kevalameva roditi luṭhallolālakairaśrubhiḥ ।।}

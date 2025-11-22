@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9941 | label: meter | g:0.268 m:0.818 ---
+
+śrīgaruḍamahāpurāṇam- garuḍa uvāca । śrutā mayā dayāsindho hyajñānājjīvasaṃsṛtiḥ ।
+adhunā śrotumicchāmi mokṣopāyaṃ sanātanam ।।
+bhagavandevadeveśa śaraṇāgatavatsala ।
+asāre ghorasaṃsāre sarvaduḥ khamalīmase ।।

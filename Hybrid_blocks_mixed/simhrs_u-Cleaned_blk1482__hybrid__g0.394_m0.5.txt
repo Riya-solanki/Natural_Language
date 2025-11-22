@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1482 | label: hybrid | g:0.394 m:0.5 ---
+
+rugṇaṃ cājagavaṃ na cāpi kupito bhargaḥ sura-grāmaṇīḥ
+setuś ca grathitaḥ prasanna-madhuro dṛṣṭaś ca vārāṃ nidhiḥ ।
+paulastyaś caramaḥ sthitaś ca bhagavān prītaḥ śrutīnāṃ kaviḥ
+prāptaṃ yānam idaṃ ca yācitavate dattaṃ kuberāya ca ।।

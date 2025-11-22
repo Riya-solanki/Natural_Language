@@ -1,0 +1,7 @@
+--- source: sypadatu-Cleaned.txt | block: 70 | label: meter | g:0.072 m:0.697 ---
+
+[] sakalakṣititalasamāgatāḥ priyakalahāḥ kalahānāṃ ca niveditāro dhūrtamiśrāḥ śṛṇvantu śṛṇvantu bhavantaḥ
+kāmas tapasviṣu jayaty adhikārakāmo
+viśvasya cittavibhur indriyavājyadhīśaḥ
+bhūtāni bibhrati mahānty api yasya śiṣṭiṃ
+vyāvṛttamaulimaṇiraśmibhir uttamāṅgaiḥ

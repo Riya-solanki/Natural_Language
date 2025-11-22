@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 906 | label: grammar | g:0.562 m:0.5 ---
+
+dāvāstraśaktir ayam eti ca śītabhāvaṃ bhāsvāñ jvalanti hṛdayāni ca kokayūnām ।
+kiṃ brūmahe abhyudayate ca jagatpidhānaṃ dhvāntaṃ bhavanti ca viśuddhadṛśo divāndhāḥ ।।

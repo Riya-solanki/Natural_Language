@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 636 | label: grammar | g:0.667 m:0.5 ---
+
+[] atha madhukaṇṭha uvāca-vatsa, bālakena mahā-śakaṭa-samuccāṭanam asambhāvyam iti sambhāvya bhaṇyatām, anyathā hi kaver evānyathātvam āpadyeta ।

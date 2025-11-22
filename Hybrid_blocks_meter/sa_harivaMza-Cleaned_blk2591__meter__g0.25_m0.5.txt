@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2591 | label: meter | g:0.25 m:0.5 ---
+
+yat tvayā darśitaṃ loke tat paśyanti divaukasaḥ 
+yat tvayā noktapūrvaṃ hi kas tad anveṣṭum arhati ।।

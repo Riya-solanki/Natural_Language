@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 791 | label: meter | g:0.0 m:0.5 ---
+
+[] atha līlāntaram udbhāvayitum evaṃ vibhāvyate-

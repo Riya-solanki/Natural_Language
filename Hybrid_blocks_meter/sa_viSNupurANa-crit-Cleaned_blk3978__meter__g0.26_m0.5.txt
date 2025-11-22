@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3978 | label: meter | g:0.26 m:0.5 ---
+
+taptaṃ tapo yaiḥ puruṣapravīrair udbāhubhir varṣagaṇān anekān 
+iṣṭāś ca yajñā balino ativīryāḥ kṛtās tu kālena kathāvaśeṣāḥ ।।

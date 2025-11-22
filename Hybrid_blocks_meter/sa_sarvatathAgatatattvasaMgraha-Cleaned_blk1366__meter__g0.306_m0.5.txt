@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1366 | label: meter | g:0.306 m:0.5 ---
+
+bhagena tu praviṣṭyā vai manasā yasya kasyacit ।
+hṛdayākarṣaṇādyāti vaśaṃ svaṃ vā yamasya ve- ।।

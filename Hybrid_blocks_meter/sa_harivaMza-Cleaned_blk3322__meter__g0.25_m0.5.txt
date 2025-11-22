@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3322 | label: meter | g:0.25 m:0.5 ---
+
+yo ayaṃ karīṣadharmaś ca toyadharmaś ca raṅgajaḥ 
+kaṣāyasya ca saṃsargaḥ samayo hy eṣa kalpitaḥ ।।

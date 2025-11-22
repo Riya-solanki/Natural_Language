@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3783 | label: meter | g:0.194 m:1.0 ---
+
+asmadarthe suvihitaṃ kriyatām atra mandiram 
+vibhaktacatvarapathaṃ suniviṣṭeṣṭadaivatam ।।

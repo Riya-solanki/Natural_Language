@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4327 | label: meter | g:0.272 m:0.763 ---
+
+pulastya uvāca ।
+ityevamuktvā balavān sa śukraṃ daityeśvaraḥ svaḥ gurumīśitāram ।
+dhyāyaṃstadāste madhukaiṭabhaghnaṃ nārāyaṇaṃ cakragadāsipāṇim ।।

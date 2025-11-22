@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1212 | label: grammar | g:0.646 m:0.5 ---
+
+[] tad etad avadhāya bhavān apy etad-arthaṃ veṇu-vādanādikaṃ kurvann evāste, tasmād avadhānaṃ sandhāya samādhīyatām ।

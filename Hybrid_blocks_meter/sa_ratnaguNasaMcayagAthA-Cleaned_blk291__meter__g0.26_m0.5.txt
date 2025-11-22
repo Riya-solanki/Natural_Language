@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 291 | label: meter | g:0.26 m:0.5 ---
+
+emeva dhyāna catureva samādhi śāntāṃ labdhvāna prīti sukhadāṃ vidu bodhisattvāḥ 
+avasṛjya dhyānasukhaprītisamādhilābhaṃ puna kāmadhātu praviśanti jagānukampī ।।

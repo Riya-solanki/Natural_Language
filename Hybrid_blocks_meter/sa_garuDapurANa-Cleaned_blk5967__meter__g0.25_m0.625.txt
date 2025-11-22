@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5967 | label: meter | g:0.25 m:0.625 ---
+
+vardhante guṇasaṃghātā anyathā vighnamaucitam ।
+saṃkrāntyaḥ ṣoḍaśaproktā divā rātrau varānane ।।

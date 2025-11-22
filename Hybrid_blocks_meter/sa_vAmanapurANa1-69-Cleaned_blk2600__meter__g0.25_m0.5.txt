@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2600 | label: meter | g:0.25 m:0.5 ---
+
+kathaṃ tu viśvakarmāsau vānaratvaṃ gato adhunā ।
+duṣputryāṃ mayijātāyaṃ tasmāt tyakṣe kalevaram ।।

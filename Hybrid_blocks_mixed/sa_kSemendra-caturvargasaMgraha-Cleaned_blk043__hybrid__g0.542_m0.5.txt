@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 43 | label: hybrid | g:0.542 m:0.5 ---
+
+dākṣyaṃ vittasya mūlaṃ sunayaparicayaḥ saṃpadudyānasekaḥ prāgalbhyaṃ ratnavarṣi vyasanavanasamunmūlanaṃ saṃyatatvam ।
+śrīrakṣā mantraguptir vipadupaśamanaṃ varjanaṃ durjanānām ālasyaṃ mānavānāṃ dhanavananalināsahyabhāras tuṣāraḥ ।।

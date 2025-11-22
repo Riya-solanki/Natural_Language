@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 757 | label: grammar | g:0.583 m:0.5 ---
+
+SktCh tataśca deva tattādṛśaṃ prekṣya śatroḥ samaravyāpāracaturatvamavibhāvitatūṇīramukhadhanurguṇagamanāgamanaśarasaṃdhānamokṣacaṭulakaratalena kumāravṛṣasenenāpi saviśeṣaṃ prastutaṃ samarakarma ।

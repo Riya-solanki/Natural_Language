@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2614 | label: meter | g:0.194 m:0.625 ---
+
+tena saṃpāditaṃ sasyaṃ vayam anye ca mānavāḥ 
+vartayāmopabhujjānās tarpayāmaś ca devatāḥ ।।

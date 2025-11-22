@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6414 | label: meter | g:0.25 m:0.555 ---
+
+etadvā divase proktamanuṣṭhānaṃ mayā dvija ।
+ācāraṃ yaḥ paṭhedvidvāñchṛṇuyātsa divaṃvrajet ।
+ācārādirdharmakartā keśavo hi smṛto dvija ।।

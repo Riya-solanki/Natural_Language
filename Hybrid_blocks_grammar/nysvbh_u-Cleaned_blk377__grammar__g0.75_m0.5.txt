@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 377 | label: grammar | g:0.75 m:0.5 ---
+
+śabdo anumānaṃ na pramāṇāntaram, kasmāt ? śabdārthasyānumeyatvāt, kathamanumeyatvam ? pratyakṣato anupalabdheḥ, yathānupalabhyamāno liṅgī mitena liṅgena paścād mīyate ityanumānam evaṃ mitena śabdena paścād mīyate artho anupalabhyamāna ityanumānaṃ śabdaḥ ।।

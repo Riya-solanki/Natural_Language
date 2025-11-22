@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 452 | label: grammar | g:0.583 m:0.5 ---
+
+["buddha bodhi" iti] prokte maṇḍalādhipatirbhavet । "pratiśabda" iti prokte buddhaiḥ sahasamālapet ।।

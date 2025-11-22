@@ -1,0 +1,9 @@
+--- source: brssgo3u-Cleaned.txt | block: 224 | label: grammar | g:0.559 m:0.235 ---
+
+darśayati ca śrutiḥ pararūpapratiṣedhenaiva brahma nirviśeṣatvāt- aathāta ādeśo neti neti' iti, aanyadeva tadviditādatho aviditādadhi ayato vāco nivartante aprāpya manasā saha' ityevamādyā ।
+bāṣkalinā ca bādhvaḥpṛṣṭaḥ sannavacanenaiva brahma provāceti śrūyate - asa hovācādhīhi bho iti sa tūṣṇīṃ babhūva taṃ ha dvitīye vā tṛtīye vā vacana uvāca brūmaḥ khalu tvaṃ tu na vijānāsi ।
+upaśānto ayamātmā' iti ।
+tathā smṛtiṣvapi parapratiṣedhenaivopadiśyate - ajñeyaṃ yattatpravakṣyāmi yajjñātvāmṛtamaśnute ।
+anādimatparaṃ brahma na sattannāsaducyate' ityevamādyāsu ।
+tathā viśvarūpadharo nārāyaṇo nāradamuvāceti smaryate - amāyā hyeṣā mayā sṛṣṭā yanmāṃ paśyasi nārada ।
+sarvabhūtaguṇairyuktaṃ naivaṃ māṃ jñātumarhasi' iti ।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 522 | label: grammar | g:0.688 m:0.5 ---
+
+[] atha tathāpi giri-nivaha-nibha-vahala-sāratā-vaha-durvaha-svabhāvatā-bhāvita-saṅkarṣaṇa-vapuḥ-karṣaṇa-jāta-dharṣaṇa-vaśān niviḍa-pīḍitatayā vrīḍita-cittatayā ca sa punaḥ punar īḍitaṃ-manyaḥ svam akharvaṃ pūrva-siddhaṃ pūrvadeva-vapur āvirbhāvayāmāsa ।

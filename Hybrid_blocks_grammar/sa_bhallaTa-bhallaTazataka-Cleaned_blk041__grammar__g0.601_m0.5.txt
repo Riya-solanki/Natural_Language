@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 41 | label: grammar | g:0.601 m:0.5 ---
+
+tvanmūle puruṣāyuṣaṃ gatam idaṃ dehena saṃśuṣyatā kṣodīyaṃsam api kṣaṇaṃ param atah śaktiḥ kutaḥ prāṇitum 
+tat svasty astu vivṛdddhim ehi mahatīm adyāpi kā nas tvarā kalyāṇin! phalitāsi tālaviṭapin! putreṣu pautreṣu vā ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1038 | label: meter | g:0.25 m:0.5 ---
+
+dakṣiṇāṃ śvetavṛṣabhaṃ dhenuṃ ca kapilāṃ śubhām ।
+kanakaṃ rakkavasanaṃ pradadyād brāhmaṇāya hi ।
+gaṅgādhareti japtavyaṃ nāma śaṃbhośca paṇḍitaiḥ ।।

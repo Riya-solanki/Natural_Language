@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 133 | label: grammar | g:0.646 m:0.5 ---
+
+mayānviṣṭo dhūrtaḥ sa sakhi nikhilām eva rajanīm iha syād atra syād iti nipuṇam anyām abhisṛtaḥ ।
+na dṛṣṭo bhāṇḍīre taṭabhuvi na govardhanagirer na kālindyāḥ kūle na ca niculakuñje muraripuḥ ।।

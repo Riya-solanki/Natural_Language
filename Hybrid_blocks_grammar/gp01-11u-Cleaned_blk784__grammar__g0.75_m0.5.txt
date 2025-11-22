@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 784 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha kautukāntaraṃ cāntaram ānīyatām । tad evaṃ sarvānandanaḥ śrīman-nanda-nandanaḥ krīṇīhi bhoḥ phalāni iti [BhP ] gīti-rīti-rocana-vacanaṃ karṇayor āracayann eva capala-locanaḥ kiñcanāpy ālocayann eva ca laghunāpi pāṇi-yugalena laghutayā puraḥ patita-dhānya-puñjataḥ pūrṇam añjalim ādāya tad-abhimukhaṃ jagāma । kintu drava-vaśād alpakāñjalitaḥ skhalitam idam iti bhidāṃ na vidāñcakāra, kevalam eva kara-yugalaṃ krayya-phala-pūrita-tat-patra-pātropari parivṛttyā ca cālayāmāsa ।

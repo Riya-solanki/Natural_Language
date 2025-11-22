@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2361 | label: meter | g:0.25 m:0.5 ---
+
+bhakṣayadbhiś ca tair vatsāṃs trāsayadbhiś ca govrajān 
+niśi bālān haradbhiś ca vṛkair utsādyate vrajaḥ ।।

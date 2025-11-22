@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 539 | label: meter | g:0.295 m:0.897 ---
+
+atha glāniḥ-
+ādhi-vyādhi-jarā-tṛṣṇā-vyāyāma-suratādibhiḥ । 
+niṣprāṇatā glānir atra kṣāmāṅga-vacana-kriyāḥ ।
+kampānutsāha-vaivarṇya-nayana-bhramaṇādayaḥ ।।

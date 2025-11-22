@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 370 | label: meter | g:0.056 m:0.5 ---
+
+śūnyaṃ paśyati bāṣpa-pūram aniśaṃ momucyate kampate
+svidyaty udgata-kaṇṭakatvam ayate stambhaṃ punaḥ prārcchati ।
+glāniṃ gacchati vācitāpi vacanaṃ nābhāṣate seti tāṃ
+paśyantī suhṛdāṃ tatir muhur aho rādhām aśocan muhuḥ ।। [śārdūla]

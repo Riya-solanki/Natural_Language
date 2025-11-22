@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 384 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha yathā durvahaś ca vivāha-niśamana-saṅklamaḥ prathama-labhya-bālyam ārabhya pūrva-pūrva-krama-labdha-visaratayā paramparayāvadhārita iti krama-viṣayatayā viṣa-bhakṣaṇavad abhyāsavyāsata eva soḍhas tathedam api bāḍhaṃ soḍhavyam iti tathaiva śrāvayāmāsa ।

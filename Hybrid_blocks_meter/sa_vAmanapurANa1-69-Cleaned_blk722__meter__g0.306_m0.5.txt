@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 722 | label: meter | g:0.306 m:0.5 ---
+
+mukhyaḥ purāṇeṣu yathaiva mātsyaḥ svāyaṃbhuvoktistvapi saṃhitāsu ।
+manuḥ smṛtīnāṃ pravaro yathaiva tithīṣu darśā viṣuveṣu dānam ।।

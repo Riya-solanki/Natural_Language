@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2685 | label: meter | g:0.194 m:0.5 ---
+
+ye ceme prathitā gopā nandagopādayaḥ sthitāḥ 
+eṣāṃ prītaḥ prayacchāmi gopānāṃ vipulaṃ dhanam ।।

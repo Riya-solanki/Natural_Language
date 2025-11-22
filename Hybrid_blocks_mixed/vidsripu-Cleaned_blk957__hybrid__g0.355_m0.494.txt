@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 957 | label: hybrid | g:0.355 m:0.494 ---
+
+bhavati bhaviṣyati kim idaṃ nipatiṣyati bimbam ambarāc chaśinaḥ ।
+aham api candanapaṅkair aṅkam anaṅkaṃ kariṣyāmi ।।
+bhikṣusumateḥ

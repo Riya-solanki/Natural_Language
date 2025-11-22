@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 13 | label: meter | g:0.194 m:0.625 ---
+
+athāstvevaṃ ghaṭe nyāyaḥ śabdatvādindraśabdavat 
+nādatte ghaṭaśabdo ambhaś candraśabdo na rājate ।।

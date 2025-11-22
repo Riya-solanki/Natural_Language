@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3912 | label: meter | g:0.194 m:0.625 ---
+
+tam anvayur nṛpāś caiva dakṣiṇāpathavāsinaḥ 
+krātho aṃśumāñ śrutarvā ca veṇudāriśca vīryavān ।।

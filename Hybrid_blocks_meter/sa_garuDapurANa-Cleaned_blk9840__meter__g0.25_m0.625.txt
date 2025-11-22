@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9840 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ pravartitaṃ cakraṃ bhūtagrāme caturvidhe ।
+samutpattirvināśaśca jāyate tārkṣya dehinām ।।

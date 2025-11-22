@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 556 | label: meter | g:0.306 m:0.5 ---
+
+aaṇimā mahimā caiva garimā prāptirīśitā ।
+prākamyaṃ ca vaśitvaṃ ca tatra kāmāvasāyitā' ityaṇimādyāḥ ।

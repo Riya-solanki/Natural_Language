@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1287 | label: meter | g:0.307 m:0.623 ---
+
+jatupaṅkāyate doṣaḥ praviśyaivāsatāṃ hṛdi ।
+satāṃ tu na viśaty eva yadi vā pāradāyate ।।

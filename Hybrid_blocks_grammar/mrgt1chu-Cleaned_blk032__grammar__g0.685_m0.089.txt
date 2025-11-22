@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 32 | label: grammar | g:0.685 m:0.089 ---
+
+ghaṭate ceṣṭate arthakriyām iti ghaṭaḥ candati hlādayati dīpyate ceti candra ity evaṃvidhayā śabdavyutpattyā śabdavyatiriktavācyārthāsaṃbhavato ghaṭaśabdasyaivodakāharaṇaṃ candraśabdasyaiva cāhlādanādi prāptaṃ na cānayos tad asti api tu tadvācyayoḥ pṛthubudhnodarādyākārabhāsvarabimbasvarūpayos tattadarthakriyākaraṇakṣamatvaṃ dṛṣṭam ।। 
+tato na vācyavācakayor aikyam ।। 
+tataś ca na śabdamātraṃ devatā kiṃ tarhi tadvācyaiveti siddham ।। 
+idānīṃ vākyaṃ tadanyathāsiddham iti paramatam anusaṃdhāya dūṣayati ।।

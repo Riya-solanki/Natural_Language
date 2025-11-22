@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3062 | label: meter | g:0.194 m:0.75 ---
+
+sarvābhāve vanaṃ gatvā kakṣamūlapradarśakaḥ 
+sūryādilokapālānām idam uccair paṭhiṣyati ।।

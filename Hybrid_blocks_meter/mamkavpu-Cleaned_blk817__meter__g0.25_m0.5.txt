@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 817 | label: meter | g:0.25 m:0.5 ---
+
+{svapiti yāvadayaṃ nikaṭe janaḥ svapimi tāvadahaṃ kimapaiti te ।
+tadapi sāṃpratamāhara kūrparaṃ tvaritamūrumudañcaya kuñcitam ।।}

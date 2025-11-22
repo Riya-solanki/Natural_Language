@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1795 | label: meter | g:0.26 m:0.881 ---
+
+yathā bāla-rāmāyaṇe-
+prakaṭita-rāmāmbhojaḥ kauśikavān sapadi lakṣmaṇānandī ।
+śara-cāpa-namana-hetor ayam avatīrṇaḥ śarat-samayaḥ ।।

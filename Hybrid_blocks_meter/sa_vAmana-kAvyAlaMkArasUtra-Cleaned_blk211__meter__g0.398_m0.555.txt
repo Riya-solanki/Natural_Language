@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 211 | label: meter | g:0.398 m:0.555 ---
+
+manasi ca giraṃ vadhvantīme kiranti na kokilāḥ ।
+iti ।।sugamatvaṃ vā'vaiṣamyamiti ।।sukhena gamyate jñāyata ityarthaḥ । yathā 
+astyuttarasyāṃ diśi devatātmā ityādi ।

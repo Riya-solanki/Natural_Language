@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 265 | label: grammar | g:0.602 m:0.29 ---
+
+garbhadruterādhikyaṃ darśayannāha garbhetyādi ।।
+cīrṇo api grāsaḥ cāraṇatāṃ prāpto api kavalaḥ yadi garbhadrutyā rahito bhavet rasasyodare rasarūpakaraṇavarjito bhavet tadā ekatāṃ na yāti rasarūpo na bhavati ।।
+punarekībhāvena vinā grāso na jīryate jāraṇatvaṃ nāpnoti ।।
+tena hetunā garbhadrutipūrvikā jāraṇā kāryā rasabandhe jāraṇaṃ heturiti bhāvaḥ ।।

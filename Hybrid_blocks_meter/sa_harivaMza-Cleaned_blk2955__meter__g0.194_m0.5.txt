@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2955 | label: meter | g:0.194 m:0.5 ---
+
+kiṃ ca tvaṃ sādhu jānīṣe vasudeva vṛthāmate 
+hate kaṃse mama suto mathurāṃ pālayiṣyati ।।

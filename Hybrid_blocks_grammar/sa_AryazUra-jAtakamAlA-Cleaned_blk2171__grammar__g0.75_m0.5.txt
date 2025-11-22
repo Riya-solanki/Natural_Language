@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2171 | label: grammar | g:0.75 m:0.5 ---
+
+ityanunīya sa mahātmā pitaraṃ kṛtābhyanujñaḥ pitrā tṛṇavadapāsya rājyalakṣmīṃ tapovanāśrayaṃ cakāra । tatra ca dhyānānyapramāṇāni cotpādya teṣu ca pratiṣṭhāpya lokaṃ brahmalokamadhiroha ।

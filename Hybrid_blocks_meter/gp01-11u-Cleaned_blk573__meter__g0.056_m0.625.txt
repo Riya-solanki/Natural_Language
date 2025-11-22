@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 573 | label: meter | g:0.056 m:0.625 ---
+
+tasmin hṛte pūtanayā tu bāle
+mātror yadi prāṇa-gaṇo na mūrcchet ।
+bhoktuṃ tad ābhīla-kulaṃ tadā te
+kiṃ śaknuyātām? api kintu naiva ।। [indravajrā]

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2480 | label: meter | g:0.194 m:0.625 ---
+
+caturdaśabhir etais tu gatair manvantarair dvija 
+sahasrayugaparyantaḥ kalpo niḥśeṣa ucyate ।।

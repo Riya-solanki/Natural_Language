@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 535 | label: grammar | g:0.625 m:0.5 ---
+
+[svakāle strīniṣevaṇam] vratasamāpterūrdhvaṃ dārasaṃgrahakālaḥ strīṇāṃ svakālaḥ, tasminniṣevaṇam। [maṅgalācārayogitvaṃ gandhamālyādidhāraṇam] maṅgalācaraṇayogaṃ prakaṭaṃ sragādidhāraṇaṃ ca kuryāt।।

@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 382 | label: grammar | g:0.75 m:0.5 ---
+
+īśvarasya tu sṛṣṭiḥ sarvapramātṝṇāṃ sādhāraṇī teṣāṃ tanmadhya evotpādād, ekapramātṛniyatā caikapramātrāveśena svapnabhrāntyādau sṛṣṭiḥ । sā cāham idam ity etāvat parāmarśamayī bhedānudayād vikalpojjhitā spaṣṭāvabhāsā ca । tatrāntarāntarodyatkṣetrajñavyāpāravikalpananirhrāsapariśīlanena saṃsāriṇāṃ krameṇaikarasaiśvaryodgamāt kṣetrajñatāvimuktiḥ ।।

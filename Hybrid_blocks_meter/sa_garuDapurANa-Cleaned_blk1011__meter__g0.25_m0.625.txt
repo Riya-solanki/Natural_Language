@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1011 | label: meter | g:0.25 m:0.625 ---
+
+disvastraṃ pūjayedrudra somaṃ tu śvetavarṇakam ।
+dale pūrver'cayedrudra budhaṃ cāmīkaraprabham ।।

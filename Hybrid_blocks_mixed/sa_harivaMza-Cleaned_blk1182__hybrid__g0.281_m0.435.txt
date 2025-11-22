@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1182 | label: hybrid | g:0.281 m:0.435 ---
+
+sa śaṅkyamāno dharmātmā nakārī tasya karmaṇaḥ 
+āhariṣye maṇim iti pratijñāya vanaṃ yayau ।। 
+devadvijātibhakto ayaṃ śriyaḥ sarvecaro api ca । yatra praseno bhṛgayām ācarat tatra cāpy atha । 
+prasenasya padaṃ gṛhya puruṣair āptakāribhiḥ 
+ṛkṣavantaṃ girivaraṃ vindhyaṃ ca girim uttamam ।।

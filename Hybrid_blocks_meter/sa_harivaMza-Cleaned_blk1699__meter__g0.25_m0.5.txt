@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1699 | label: meter | g:0.25 m:0.5 ---
+
+teṣāṃ rathānāṃ tumulaḥ sa śabdaḥ śabdavāhinām 
+nabhaḥ svasvāna hi yathā nabhasye jaladasvanaiḥ ।। 
+babhūvātha prasaktānāṃ nabhasīva payomucām । 
+babhañjire rathān kecit kecit saṃmṛditā rathaiḥ 
+saṃbādham eke saṃprāpya na śekuś calituṃ rathāḥ ।।

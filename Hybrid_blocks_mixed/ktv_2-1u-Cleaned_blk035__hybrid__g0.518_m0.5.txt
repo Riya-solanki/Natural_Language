@@ -1,0 +1,8 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 35 | label: hybrid | g:0.518 m:0.5 ---
+
+yadi hi phalasaṃbandhamātraparyavasāyy eva vākyaṃ bhavet, tataḥ kadācid sarvāṇy api phalena saṃbadhyeran ।
+iha tu tāvanmātreṇāsiddher apūrvam anyat kalpayitavyam, tac cānupapattipramāṇakam ।
+tatraikāpūrvakalpanayopapanne vākye nādṛṣṭāntarakalpanāpramāṇam asti ।
+yo hy anekāny apūrvāṇi kalpayati, kalpayaty asāv ekam ।
+tac cet kalpitam, arthavattvād vākyasya kṣīṇānyathānupapattir nāpūrvāntarasya pramāṇaṃ bhavati ।
+tasmād ekam eva phalasaṃbandhi, tasmāc cāpūrvam, itarat phalavadupakārīty adhyavasīyate ।

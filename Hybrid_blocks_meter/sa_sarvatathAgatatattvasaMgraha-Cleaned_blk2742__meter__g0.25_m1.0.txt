@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2742 | label: meter | g:0.25 m:1.0 ---
+
+bhayātmanāmabhayado yathāvadvinayastathā ।
+etatpadmakule karma buddhasiddhipradāyakaṃ ।।

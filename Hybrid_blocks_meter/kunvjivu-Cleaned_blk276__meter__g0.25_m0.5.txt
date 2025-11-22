@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 276 | label: meter | g:0.25 m:0.5 ---
+
+ityupādeyavarge asmin yadarthaṃ pratibhā kaveḥ ।
+samyak saṃrabhate tasya guṇaḥ saubhāgyamucyate ।।

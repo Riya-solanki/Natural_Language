@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 228 | label: grammar | g:0.618 m:0.375 ---
+
+Vṛtti:
+eṣāṃ sādhakādīnāṃ [sarvacchidrāpahaḥ] samayalopādijasakalacchidrāpahaḥ [anyo] yaḥ pavitrākhyo vidhiḥ prāg devaiḥ [harāt] parameśvarāt tapasā [prāptaḥ] labdhaḥ sa eveṣāmeva [svavidhipuṣṭaye] svavidhipuṣṭyarthaṃ [nigadyate] ucyate।

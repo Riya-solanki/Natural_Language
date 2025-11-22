@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 838 | label: meter | g:0.25 m:0.625 ---
+
+ātmānamapi cecchaktirna syātpālayituṃ mama ।
+kā nvavasthā janasyāsya matto rakṣābhikāṅkṣiṇaḥ ।।

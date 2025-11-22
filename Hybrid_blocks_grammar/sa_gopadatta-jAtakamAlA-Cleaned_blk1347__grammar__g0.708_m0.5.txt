@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1347 | label: grammar | g:0.708 m:0.5 ---
+
+bodhisattvabhūtaḥ kila bhagavān svapuṇyaparipākaviśeṣopanatam amarapurādhipatyam kārayām āsa । naparidyūtahṛdayena sarvalokātiśayināpi mahimnā kevalaṃ puṇyānām avandhyaphalam āviṣkurvann amarapuranivāsināṃ cānugrahāya ।।

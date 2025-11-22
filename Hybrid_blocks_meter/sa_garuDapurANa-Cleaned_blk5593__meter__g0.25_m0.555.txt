@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5593 | label: meter | g:0.25 m:0.555 ---
+
+gorocanā mahādeva ! dhātuśoṇitabhāvitā ।
+etairvaitilakaṃ kṛtvā sā naraṃ yaṃ nirīkṣate ।
+tatkṣaṇāttaṃ vaśe kuryā nnātra kāryā vicāraṇā ।।

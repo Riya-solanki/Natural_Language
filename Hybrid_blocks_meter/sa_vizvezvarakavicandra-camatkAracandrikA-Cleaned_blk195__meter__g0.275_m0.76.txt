@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 195 | label: meter | g:0.275 m:0.76 ---
+
+nyūnopamaṃ yathā
+nibhāti siṅgakṣitipasya mauliḥ chatreṇa cāmīkarakumbhakena ।
+mānonnataṃ śṭaṅgamivodayādreḥ sampūrṇabimbena sudhākareṇa ।।

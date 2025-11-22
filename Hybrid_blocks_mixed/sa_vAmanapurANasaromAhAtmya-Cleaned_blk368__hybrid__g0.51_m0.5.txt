@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 368 | label: hybrid | g:0.51 m:0.5 ---
+
+yadvā mūrtaṃ yadamūrtaṃ samastaṃ yadvā bhūteṣvekamekaṃ ca kiñcit ।
+yacca dvaite vyastabhūtaṃ ca lakṣyaṃ tatsaṃbaddhaṃ tvatsvarairvyañjanaiśca ।।

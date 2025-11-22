@@ -1,0 +1,5 @@
+--- source: bhveni_u-Cleaned.txt | block: 1011 | label: meter | g:0.01 m:0.986 ---
+
+arjunaḥ
+upagamya
+tāta amba

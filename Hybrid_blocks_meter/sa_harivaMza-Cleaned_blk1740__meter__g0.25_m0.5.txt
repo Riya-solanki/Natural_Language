@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1740 | label: meter | g:0.25 m:0.5 ---
+
+eṣo antakaḥ purā bhūtvā padmanābha iti smṛtaḥ 
+jaghānaikārṇave ghore tāv ubhau madhukaiṭabhau ।। 
+viniveśya svake ūrau nihatau dānaveśvarau । 
+dvidhābhūtaṃ vapuḥ kṛtvā siṃhārdhaṃ narasaṃsthitam 
+pitaraṃ me jaghānaiko hiraṇyakaśipuṃ purā ।।

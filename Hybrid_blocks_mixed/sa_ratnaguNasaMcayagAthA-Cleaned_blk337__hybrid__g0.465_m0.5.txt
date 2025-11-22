@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 337 | label: hybrid | g:0.465 m:0.5 ---
+
+paripūrayitva imi dharma sa bodhisattvo api kṣetraśuddhi parigṛhṇati sattvaśuddhim 
+api buddhavaṃśa parigṛhṇati dharmavaṃśaṃ tatha saṃghavaṃśa parigṛhṇati sarvadharmān ।।

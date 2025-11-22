@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1374 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa mahātmā lokānugrahārthamanuvicaran grāmanagaranigamajanapadarāṣṭrarājadhāṇīranyatamasya rājño viṣāyāntaramupajāgāma । śrutagunavistaraprabhavastu sa rājā tasyāgamanaṃ dūrata evopalabhya prītamanā ramaṇīye svasminnudyānavanapradeśe tasyāvasathaṃ kārayāmāsa । abhyudgamanādisatkārapuraḥsaraṃ cainaṃ praveśya svaviṣayaṃ śiṣya ivācāryaṃ paricaraṇaparyupāsanavidhinā saṃmānayāmāsa ।

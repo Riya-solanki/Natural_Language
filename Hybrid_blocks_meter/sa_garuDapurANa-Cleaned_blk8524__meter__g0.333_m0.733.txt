@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8524 | label: meter | g:0.333 m:0.733 ---
+
+śrīgaruḍamāhāpurāṇam- 
+garuḍa uvāca ।
+eko me saṃśayo deva hṛdaye samprabādhate ।
+śramaṇāḥ kasya putrāśca kathaṃ yamapure sthitāḥ ।।

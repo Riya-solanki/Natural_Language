@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2447 | label: meter | g:0.328 m:0.595 ---
+
+latācchannaṃ tatastūrṇamāruroha munirvaṭam ।
+prāptaṃ svapitaraṃ dṛṣṭvā jābāliḥ saṃyato api san ।।

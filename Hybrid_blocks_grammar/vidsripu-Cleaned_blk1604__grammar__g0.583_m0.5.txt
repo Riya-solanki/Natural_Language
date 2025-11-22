@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1604 | label: grammar | g:0.583 m:0.5 ---
+
+gātrair girā ca vikalaś caṭum īśvarāṇāṃ kurvann ayaṃ prahasanasya naṭaḥ kṛto asmi ।
+no vedmi māṃ palitavarṇakabhājam etaṃ nāṭyena kena naṭayiṣyati dīrgham āyuḥ ।।

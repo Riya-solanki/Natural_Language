@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11953 | label: meter | g:0.306 m:0.5 ---
+
+āsāṃ jñānatpuṇyamāpnoti nityaṃ sadā hariḥ prīyate keśavolam ।
+gaṅgādibhyo hyavarāhyagnijāyā svāhāsaṃjñādhiguṇā naiva hīnā ।।

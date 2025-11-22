@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1618 | label: grammar | g:0.75 m:0.5 ---
+
+vidūṣakaḥ -aho accariaṃ । īrisaṃ kaṇṇāraaṇaṃ māṇusaloe ṇa dīsadi । bho baassa taha takkemi paāvaiṇobi edaṃ ṇimmābia puṇo puṇo bihmao saṃbutto tti ।

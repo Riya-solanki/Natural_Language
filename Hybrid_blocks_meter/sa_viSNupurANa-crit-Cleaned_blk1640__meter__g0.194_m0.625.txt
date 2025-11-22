@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1640 | label: meter | g:0.194 m:0.625 ---
+
+bhāratāḥ ketumālāś ca bhadrāśvāḥ kuravas tathā 
+patrāṇi lokapadmasya maryādāśailabāhyataḥ ।।

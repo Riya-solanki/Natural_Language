@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3495 | label: meter | g:0.194 m:0.5 ---
+
+tad aśakyam acintyaṃ ca dṛṣṭvā sumahad adbhutam 
+sarveṣām eva bhūtānāṃ vismayaḥ samajāyata ।।

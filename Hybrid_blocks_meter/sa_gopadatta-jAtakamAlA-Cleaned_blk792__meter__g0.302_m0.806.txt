@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 792 | label: meter | g:0.302 m:0.806 ---
+
+maṇivedikākiraṇapāṭalormayo gṛhadīrghikā na ramayanti me manaḥ ।
+priyavipravāsaparitāpaviplutaṃ sphuṭapadmakośamakarandavāsitāḥ ।।

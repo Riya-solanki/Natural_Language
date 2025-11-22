@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 674 | label: meter | g:0.271 m:0.5 ---
+
+triphaṇini vyāle sarpe dṛṣṭe tryaham। dviphaṇini tu dvyaham anadhyāyaḥ।।newverse

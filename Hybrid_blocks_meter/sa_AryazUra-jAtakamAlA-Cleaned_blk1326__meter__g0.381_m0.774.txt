@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1326 | label: meter | g:0.381 m:0.774 ---
+
+api śuddhatayopadhāsvasaktairanuraktairnipuṇakriyairamātyaiḥ ।
+samavekṣayase hitaṃ prajānāṃ na ca tatrāsi parokṣabuddhireva ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3871 | label: meter | g:0.194 m:0.5 ---
+
+vahner iva śikhāṃ dīptāṃ māyāṃ bhūmigatām iva 
+pṛthivīm iva gambhīrām utthitāṃ pṛthivītalāt ।।

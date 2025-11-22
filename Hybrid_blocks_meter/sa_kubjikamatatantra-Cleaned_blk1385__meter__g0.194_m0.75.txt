@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1385 | label: meter | g:0.194 m:0.75 ---
+
+karṣayen nikhilān sarvān phalapuṣpāditaḥ kramāt 
+martyalokāditaḥ kṛtvā pātālasvargasaṃsthitān ।।

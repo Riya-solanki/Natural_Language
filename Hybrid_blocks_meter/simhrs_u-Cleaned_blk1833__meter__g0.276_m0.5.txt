@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1833 | label: meter | g:0.276 m:0.5 ---
+
+mā bhūc cintā taveyaṃ mayi sati kuśale duṣkaraḥ kiṃ prayogo
+mānin jānāsi kiṃ tvaṃ kim api na viditā cāturī me tvayā kim ।
+āstāṃ sva-stotra-kanthā kṛtam iha kathaitair bhūta-pūrvaiḥ prasaṅgaiḥ
+patnyāhaṃ vaśya-karmā sapadi naṭavidhāv eṣa sajjībhavāmi ।।

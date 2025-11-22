@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1172 | label: hybrid | g:0.355 m:0.473 ---
+
+kṛtam idam asādhu hariṇaiḥ śirasi tarūṇāṃ davānale jvalati ।
+ājanma kelibhavanaṃ yad bhītair ujjhitaṃ vipinam ।।
+khadirasya

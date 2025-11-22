@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 542 | label: meter | g:0.091 m:0.682 ---
+
+gavāṃ dhūlir nādaḥ khura-ghaṭita-ghaṭṭa-dhvani-ghaṭā
+hares tāsāṃ hūtiḥ śravaṇa-gaṇa-bhid-veṇu-raṇitam ।
+amībhis te kṛṣṭās taratamatayā gokula-janā
+na pṛṣṭhyaṃ nāgrīyaṃ na samam avidur na svam api ।। [śikhariṇī]

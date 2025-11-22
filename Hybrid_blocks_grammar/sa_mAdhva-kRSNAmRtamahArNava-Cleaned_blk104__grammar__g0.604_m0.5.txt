@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 104 | label: grammar | g:0.604 m:0.5 ---
+
+bhaktyā vā yadi vā abhaktyā cakrāṅkitaśilām prati darśanaṃ sparśanaṃ vā api sarvapāpapraṇāśanam ।।

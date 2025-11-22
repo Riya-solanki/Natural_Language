@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1264 | label: meter | g:0.25 m:0.5 ---
+
+tathaiva nṛtyan vāmāṃ tu gṛhya dakṣiṇamuṣṭinā ।
+parivartya lalāṭo tu niveśyāgryā mukhena tu ।।

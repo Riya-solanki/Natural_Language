@@ -1,0 +1,4 @@
+--- source: jsbh2-4u-Cleaned.txt | block: 1 | label: meter | g:0.246 m:0.785 ---
+
+caturthaḥ pādaḥ ।
+( adhikaraṇam । ) (a pā adhi)

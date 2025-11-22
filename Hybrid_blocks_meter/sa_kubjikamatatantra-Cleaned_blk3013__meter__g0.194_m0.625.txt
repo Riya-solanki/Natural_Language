@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 3013 | label: meter | g:0.194 m:0.625 ---
+
+acalaṃ tat samākhyātam acalatvena saṃsthitam 
+etāvasthāḥ samākhyātā udayanti krameṇa tu ।।

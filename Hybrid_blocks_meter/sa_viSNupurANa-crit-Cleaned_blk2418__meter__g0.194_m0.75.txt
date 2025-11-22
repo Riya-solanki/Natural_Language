@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2418 | label: meter | g:0.194 m:0.75 ---
+
+viṣṇuśaktir anaupamyā sattvodriktā sthitau sthitā 
+manvantareṣv aśeṣeṣu devatvenādhitiṣṭhati ।।

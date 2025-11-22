@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 79 | label: meter | g:0.194 m:0.5 ---
+
+yuṣmākaṃ tejaso ardhena mama cārdhena tejasaḥ 
+asyām utpatsyate vidvān dakṣo nāma prajāpatiḥ ।।

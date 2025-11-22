@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 953 | label: meter | g:0.194 m:0.625 ---
+
+kṣobhitaḥ sa tayā sārdhaṃ varṣāṇām adhikaṃ śatam 
+atiṣṭhan mandaradroṇyāṃ viṣayāsaktamānasaḥ ।।

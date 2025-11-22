@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 770 | label: meter | g:0.194 m:0.625 ---
+
+{yaśodhigantuṃ sukhalipsayā vā manuṣyasaṃkhyāmativartituṃ vā ।
+nirutsukānāmabhiyogabhājāṃ samutsukevāṅkamupaiti siddhiḥ ।।}

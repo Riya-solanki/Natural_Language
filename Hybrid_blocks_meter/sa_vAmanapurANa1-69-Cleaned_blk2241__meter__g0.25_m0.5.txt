@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2241 | label: meter | g:0.25 m:0.5 ---
+
+tacchrutvā bhagavān prāha gacchāmo haramandiram ।
+sa tavtsyati mahājñānī jagatkṣubdhaṃ caracaram ।।

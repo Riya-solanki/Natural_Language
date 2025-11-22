@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 349 | label: meter | g:0.194 m:0.75 ---
+
+sākṣāṇām āntarī vṛttiḥ prāṇādiprerikā matā 
+jīvanākhyāthavā prāṇe ahantā puryaṣṭakātmikā ।।

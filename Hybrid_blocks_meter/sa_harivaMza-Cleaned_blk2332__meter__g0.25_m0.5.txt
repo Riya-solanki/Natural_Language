@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2332 | label: meter | g:0.25 m:0.5 ---
+
+nandagopas tu sahasā muktvā kṛṣṇam udūkhalāt 
+niveśya cāṅke suciraṃ mṛtaṃ punar ivāgatam ।। 
+nātṛpyat prekṣamāṇo vai kṛṣṇaṃ kamalalocanam । 
+tato yaśodāṃ garhan vai nandagopo viveśa ha 
+sa ca gopajanaḥ sarvo ghoṣam eva jagāma ha ।।

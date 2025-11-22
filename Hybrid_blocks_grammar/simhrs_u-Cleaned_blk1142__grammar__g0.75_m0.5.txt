@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1142 | label: grammar | g:0.75 m:0.5 ---
+
+atha sva-jāti-yogyair dharmaiḥ kāriṇāṃ kariṇīṃ prati padye iva) vibhāvatvam iti cen, na । tasyāṃ kakṣyāyāṃ kariṇāṃ kariṇī-rāgaṃ prati kāraṇatvaṃ na punar vibhāvatvam ।

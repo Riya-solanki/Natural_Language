@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1513 | label: meter | g:0.073 m:0.956 ---
+
+{nanvāśrayasthitiriyaṃ tava kālakūṭa
+kenottarottaraviśiṣṭapadopadiṣṭā ।
+prāgarṇavasya hṛdaye vṛṣalakṣmaṇo atha
+kaṇṭhedhunā vasasi vāci punaḥ khalānām ।।}

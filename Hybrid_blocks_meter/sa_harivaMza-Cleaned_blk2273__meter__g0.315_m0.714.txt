@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2273 | label: meter | g:0.315 m:0.714 ---
+
+sakaṭāvartavipulaṃ kaṇṭakīvāṭasaṃkulam 
+paryanteśv āvṛtaṃ vanyair bṛhadbhiḥ patitair drumaiḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 979 | label: meter | g:0.314 m:0.914 ---
+
+sphaṭikālavālalakṣmīṃ pravahati śaśibimbam ambarodyāne ।
+kiraṇajalasiktalāñchanabālatamālaikaviṭapasya ।।

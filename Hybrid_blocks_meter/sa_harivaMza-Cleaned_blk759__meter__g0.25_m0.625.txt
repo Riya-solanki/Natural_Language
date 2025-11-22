@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 759 | label: meter | g:0.25 m:0.625 ---
+
+sarvasattvarutajñaś ca svatantro ayaṃ bhaviṣyati 
+pitṛprasādo hy asmābhir asya prāptaḥ kṛtena vai ।।

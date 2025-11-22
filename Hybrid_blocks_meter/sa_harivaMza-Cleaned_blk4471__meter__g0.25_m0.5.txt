@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4471 | label: meter | g:0.25 m:0.5 ---
+
+āścaryaśabdo nāsmāsu dhanyaśabdo api vā mune 
+āścaryaṃ paramaṃ viṣṇuḥ sa hy asmākaṃ parā gatiḥ ।।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 191 | label: grammar | g:0.708 m:0.5 ---
+
+-'khādire paśuṃ badhnāti' akhādiraṃ vīryakāmasya yūpaṃ kurvīta'iti ekasyaiva khādiratvasya kratvarthatvaṃ puruṣārthatvaṃ ca yathā tathā karmaṇāmapi ubhayārthatvaṃ syādityarthaḥ ।

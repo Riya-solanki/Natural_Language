@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11399 | label: hybrid | g:0.521 m:0.5 ---
+
+ādau snātvā harinirmātyagandhaṃ visarjayitvā śravaṇaṃ vai cakāra ।
+pitrā sākaṃ bhojanaṃ cāpi kṛtvā agre dine krośamekaṃ jagāma ।।

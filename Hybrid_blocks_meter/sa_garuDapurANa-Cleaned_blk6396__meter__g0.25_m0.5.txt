@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6396 | label: meter | g:0.25 m:0.5 ---
+
+dadyātpuruṣasūktena yaḥ puṣpāṇyapa eva vā ।
+arcitaṃ syājjagādidaṃ tena sarvaṃ carācaram ।।

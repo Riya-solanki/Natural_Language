@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 608 | label: meter | g:0.25 m:0.625 ---
+
+{tāmbūlabhṛtagalloyaṃ bhallaṃ jalpati mānuṣaḥ ।
+karoti khādanaṃ pādaṃ sadaiva tu yathā tathā ।।}

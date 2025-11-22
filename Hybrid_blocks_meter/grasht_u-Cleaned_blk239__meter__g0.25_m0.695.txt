@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 239 | label: meter | g:0.25 m:0.695 ---
+
+abhra sattva induction of cāraṇa
+vaṃgamatho ghanasatvaṃ tālakaṣaḍbhāgasāritaṃ carati ।
+abhiṣavayogāccarati vrajati raso nātra sandehaḥ ।।

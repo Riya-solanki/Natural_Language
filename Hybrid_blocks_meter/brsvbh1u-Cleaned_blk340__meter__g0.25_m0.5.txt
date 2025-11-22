@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 340 | label: meter | g:0.25 m:0.5 ---
+
+-vedāntavākyaṃ pauruṣeyaṃ, vākyatvāt, ghaṭamānayeti vākyavadityanumānam ।

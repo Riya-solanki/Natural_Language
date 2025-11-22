@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1543 | label: grammar | g:0.75 m:0.5 ---
+
+yathā ratnāvalyāṃ tṛtīyāṅke, vāsavadattā-hañje kaṃcaṇamāle edeṇa ebba ladāpāseṇa bandhia gehaṇa eṇaṃ bahmaṇaṃ । eṇaṃ duṭṭha-kaṇṇaāṃ a aggado karehi । ity atra vāsavadattāyāḥ roṣaḥ krodhaḥ ।

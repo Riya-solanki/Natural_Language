@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 14 | label: meter | g:0.306 m:0.5 ---
+
+adhvānaṃ te hitamupadiśāmyaśrameṇaiva gantuṃ snigdhacchāyaistarubhirabhitaḥ śāntagharmapracāram ।
+saṃskartāsi dhruvamupagato yatra patrīndra teṣām uddāmānāmapi navanavodyānalīlāyitānām ।।

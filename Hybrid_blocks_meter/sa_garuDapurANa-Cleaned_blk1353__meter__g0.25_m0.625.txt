@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1353 | label: meter | g:0.25 m:0.625 ---
+
+sarveṣāmāśramāṇāṃ ca dvaividhyaṃ tu caturvidham ।
+brahmacāryupakurvāṇo naiṣṭhiko brahmatatparaḥ ।।

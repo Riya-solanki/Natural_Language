@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 461 | label: grammar | g:0.75 m:0.5 ---
+
+yadi śabdaśruterantaraṃ yāvānartho labhyate tāvati śabdasyābhidhaiva vyāpāraḥ tataḥ kathaṃ abrāhmaṇa putraste jātaḥ brāhmaṇa kanyā te garbhiṇī'; ityādau harṣaśokādīnāmapi na vācyatvam । kasmācca lakṣaṇā lakṣaṇīye apyarthe dīrghadīrghatarābhidhāvyaāpāreṇaiva pratītisiddheḥ । kimiti ca śrutiliṅgavākyaprakaraṇasthānasamākhyānāṃ pūrvapūrvabalīyastvam ityanvitābhidhānavāde api vidherapi siddhaṃ vyaṅgyatvam ।।

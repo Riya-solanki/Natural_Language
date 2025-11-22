@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9997 | label: meter | g:0.381 m:0.774 ---
+
+svasvavarṇāśramācāraniratāḥ sarvamānavāḥ ।
+na jānanti paraṃ dharmaṃ vṛthā naśyanti dāmbhikāḥ ।।

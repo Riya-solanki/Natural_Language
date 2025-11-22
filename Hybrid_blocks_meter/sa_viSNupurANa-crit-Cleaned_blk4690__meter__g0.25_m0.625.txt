@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4690 | label: meter | g:0.25 m:0.625 ---
+
+yajvibhir yajñapuruṣo vāsudevaś ca sātvataiḥ 
+vedāntavedibhir viṣṇuḥ procyate yo nato asmi tam ।।

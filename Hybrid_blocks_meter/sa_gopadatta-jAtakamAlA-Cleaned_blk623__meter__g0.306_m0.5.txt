@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 623 | label: meter | g:0.306 m:0.5 ---
+
+na tasya rājyadyutivistareṣu vyāsaktadīnaṃ hṛdayaṃ babhūva ।
+anarthabhūtān sa parārtham arthān drumaḥ phalānīva babhāra sādhuḥ ।।

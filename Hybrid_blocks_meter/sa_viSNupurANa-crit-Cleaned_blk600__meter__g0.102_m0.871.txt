@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 600 | label: meter | g:0.102 m:0.871 ---
+
+kratoś ca sannatir bhāryā vālakhilyān asūyata 
+ṣaṣṭis tāni sahasrāṇi ṛṣīṇām ūrdhvaretasām 
+aṅguṣṭhaparvamātrāṇāṃ jvaladbhāskaratejasām ।।

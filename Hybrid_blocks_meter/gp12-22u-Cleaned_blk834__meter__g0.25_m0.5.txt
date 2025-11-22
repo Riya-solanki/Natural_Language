@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 834 | label: meter | g:0.25 m:0.5 ---
+
+mātā sāśru mamārja vaktram abhitas tātaḥ śikhām aspṛśad
+dvāv apy aṅgakulaṃ nibhālya paritaḥ papracchatuḥ śantamam ।
+mitrādyāḥ samavāhayann avayavān evaṃ vrajasthāḥ pare
+pretyekānvitam eva sevanam adhuḥ prāṇā hi sarvasya saḥ ।। [śārdūla]

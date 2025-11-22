@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4292 | label: grammar | g:0.501 m:0.273 ---
+
+yatra hrīḥ śrīḥ sthitā tatra yatra śrīs tatra saṃnatiḥ 
+saṃnatir hrīs tathā śrīś ca nityaṃ kṛṣṇe mahātmani ।। 
+hatā brahmadviṣaḥ sarve yajadhvaṃ brāhmaṇāḥ sadā । namaskurudhvaṃ haraye sadā namata mādhavam ।। yajadhvaṃ satataṃ yajñair enaṃ lokanamaskṛtam । āraṇyakāḥ sadā santu bhavatāṃ jñānahetavaḥ । 
+sāditā mauravāḥ pāśā nisundanarakau hatau 
+kṛtaḥ kṣemaḥ punaḥ panthāḥ puraṃ prāgjyotiṣaṃ prati ।। 
+bhūyaś ca khalu vakṣyāmi śṛṇudhvaṃ yādavottamāḥ । yat kṛtaṃ śauriṇā samyag lokānāṃ hitakāmyayā । 
+śauriṇā pṛthivīpālās trāsitāḥ spardhino yudhi 
+dhanuṣaś ca ninādena pāñcajanyasvanena ca ।।

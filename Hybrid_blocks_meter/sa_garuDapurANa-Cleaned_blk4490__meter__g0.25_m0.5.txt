@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4490 | label: meter | g:0.25 m:0.5 ---
+
+āba ddhodaratā chardiḥ karṇake apyanukūjakam ।
+sāmānyalakṣaṇaṃ kārśyaṃ vamaka stamako jvaraḥ ।।

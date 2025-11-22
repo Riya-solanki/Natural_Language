@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2560 | label: meter | g:0.25 m:0.847 ---
+
+mārkaṇḍeya uvāca ।
+ityṛṣirvacanaṃ śrutvā brahmaṇo avyaktajanmanaḥ ।
+nadyā vivikte puline cakāra pitṛtarpaṇam ।।

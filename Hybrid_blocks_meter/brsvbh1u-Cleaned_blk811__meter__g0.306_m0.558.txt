@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 811 | label: meter | g:0.306 m:0.558 ---
+
+ākāśādeva ।
+brahmaṇa evetyarthaḥ ।
+sākṣāditi ceti sūtrāvayavamanūdya tasyārthaṃ vyācaṣṭe-ākāśādeveti ।
+śrutirbrahmaṇo jagadupādānatvamavadhārayantī upādānāntarābhāvaṃ sākṣādeva darśayatītisākṣāditisūtrāvayavena darśitamiti yojanā ।।

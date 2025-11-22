@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 819 | label: grammar | g:0.625 m:0.5 ---
+
+bāṇān saṃhara muñca kārmukalatāṃ lakṣyaṃ tava tryambakaḥ ke nāmātra vayaṃ śirīṣakalikākalpaṃ yadīyaṃ manaḥ ।
+tatkāruṇyaparigrahāt kuru dayām asmin vidheye jane svāmin manmatha tādṛśaṃ punar api svapnādbhutaṃ darśaya ।।

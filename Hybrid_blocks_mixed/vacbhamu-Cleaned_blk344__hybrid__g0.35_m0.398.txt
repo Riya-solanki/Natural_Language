@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 344 | label: hybrid | g:0.35 m:0.398 ---
+
+vikārasyānandamayasya brahma pucchamavayavaścetkathaṃ sarvasyāsya vikārajātasya sānandamayasya brahma pucchaṃ kāraṇamucyeta idaṃ sarvamasṛjata ।
+yadidaṃ kiñca iti śrutyā ।
+nahyānandamayavikārāvayavo brahma vikāraḥ san sarvasya kāraṇamupapadyate ।
+tasmādānandamayavikārāvayavo brahmeti tadavayavayogyānandamayo vikāra iha nopāsyatvena vivakṣitaḥsa kintu svapradhānamiha brahma pucchaṃ jñeyatveneti siddham ।।

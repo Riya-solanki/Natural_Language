@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 16 | label: grammar | g:0.573 m:0.5 ---
+
+tvām āsārapraśamitavanopaplavaṃ sādhu mūrdhnā vakṣyaty adhvaśramaparigataṃ sānumān āmrakūṭaḥ ।
+na kṣudro api prathamasukṛtāpekṣayā saṃśrayāya prāpte mitre bhavati vimukhaḥ kiṃ punar yas tathoccaiḥ ।।

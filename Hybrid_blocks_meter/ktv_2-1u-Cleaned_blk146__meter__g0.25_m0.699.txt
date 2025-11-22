@@ -1,0 +1,7 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 146 | label: meter | g:0.25 m:0.699 ---
+
+na caiṣām arthinā iti phalapadābhiprāyam ।
+vivibhaktitvāt iti saṃbandhanimittākhyātavibhaktivigamāt ।
+atha vā niṣpannārthābhidhāyisubvibhaktiviśeṣayogo vivibhaktitvam ।
+tasmān na dravyādiśabdānāṃ phalasaṃbandha iti ।
+āha ca

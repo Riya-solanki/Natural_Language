@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3804 | label: hybrid | g:0.51 m:0.5 ---
+
+tatastrikūṭaṃ girimatriputraṃ jagāma draṣṭuṃ sa hi cakrapāṇinam ।
+tamīḍya bhaktyā tu gajendrasokṣaṇaṃ jajāpa japyaṃ paramaṃ pavitram ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 544 | label: meter | g:0.25 m:0.5 ---
+
+vyasanaṃ nirupāyadāruṇaṃ vyasanasyaiva mamopari sthitam ।
+animittakhareva lakṣyate mayi daivasya gatir garīyasī ।।

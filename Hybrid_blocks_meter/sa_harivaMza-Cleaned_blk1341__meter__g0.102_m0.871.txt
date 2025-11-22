@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1341 | label: meter | g:0.102 m:0.871 ---
+
+devaṃ brahmamayaṃ yajñaṃ brahmadevaṃ sanātanam 
+bhūtabhavyabhaviṣyasya prabhuṃ lokanamaskṛtam 
+nārāyaṇaṃ vibhuḥ devāḥ śaraṇyaṃ śaraṇyaṃ gatāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 32 | label: meter | g:0.251 m:0.623 ---
+
+sādhv eva tavidhāv asya vedhā kliṣṭo na yad vṛthā 
+svarūpānanurūpeṇa candanasya phalena kim ।।

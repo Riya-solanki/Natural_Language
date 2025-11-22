@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 262 | label: hybrid | g:0.455 m:0.5 ---
+
+emeva prajñacarite na kadāci bhoti buddhitva bodhi jagatī parimocayitvā 
+ātmopapatti vividhāṃ kriyasaṃprayogāṃ darśeti māyasadṛśo na vikalpacārī ।।

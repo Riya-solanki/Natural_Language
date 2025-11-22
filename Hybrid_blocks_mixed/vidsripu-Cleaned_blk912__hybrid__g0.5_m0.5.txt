@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 912 | label: hybrid | g:0.5 m:0.5 ---
+
+astavyāstān kramatatagatīn patrimālātaraṅgān veṇīdaṇḍān iva dhṛtavatī muktasaṃdhyāṅgarāgā ।
+dhvāntamlānāṃśukaparicayacchannalāvaṇyaśocyā dyauḥ pratyagradyumaṇivirahād vāntam akṣṇor na yāti ।।

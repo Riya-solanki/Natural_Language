@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 40 | label: grammar | g:0.604 m:0.5 ---
+
+na cāpi bhrāntyā pūrvānubhavaṃ tadviṣayaṃ ca śuktau rajatam ivāsaṃvedyamānam adhyavasyatīti smṛtis tadviṣayā ।।

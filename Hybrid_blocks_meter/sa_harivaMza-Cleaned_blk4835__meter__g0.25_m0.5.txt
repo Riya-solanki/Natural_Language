@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4835 | label: meter | g:0.25 m:0.5 ---
+
+āsthito garuḍaṃ devas tasya cānu halāyudhaḥ 
+pṛṣṭhato anu balasyāpi pradyumnaḥ śatrukarśanaḥ ।। 
+śrūyante sma tadā vācaḥ sūtamāgadhabandinām । 
+jaya bāṇaṃ mahābāho ye cāsyānucarā raṇe 
+na hi te pramukhe sthātuṃ kaścic chakto mahāmṛdhe ।।

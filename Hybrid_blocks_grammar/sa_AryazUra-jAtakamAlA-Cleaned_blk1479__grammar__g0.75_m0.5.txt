@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1479 | label: grammar | g:0.75 m:0.5 ---
+
+iti sa mahātmā taṃ rājānaṃ dṛṣṭikṛtakāpathādvivecya samavatārya ca sanmārgaṃ saparṣatkaṃ tata eva gaganatalaṃ samutpatya prāñjalinā tena janena sabahumānapraṇatena pratyarcyamānastadevāraṇyāyatanaṃ pratijagāma ।

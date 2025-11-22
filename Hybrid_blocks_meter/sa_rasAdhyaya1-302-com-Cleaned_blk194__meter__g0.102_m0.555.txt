@@ -1,0 +1,5 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 194 | label: meter | g:0.102 m:0.555 ---
+
+adhaḥ sthālīṃ parityajya cordhvasthālyāṃ parivrajet 
+kāsīsaṃ saindhavaṃ sūtaṃ tattulyaṃ ca dināvadhi 
+kāsīsasya hy abhāvena dātavyā phullatūrikā ।।

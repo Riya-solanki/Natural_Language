@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1362 | label: meter | g:0.306 m:0.625 ---
+
+ityevamukto devaistu devācāryo abravīdidam ।
+yadi varṣādhipo ahaṃ syāṃ tato yāsyāmi devatāḥ ।।

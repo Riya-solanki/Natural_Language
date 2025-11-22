@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1711 | label: meter | g:0.194 m:0.729 ---
+
+asau vidyāśābhiḥ śiśur api vinirgatya bhavanād
+ihāyātaḥ sampraty avikala-śarac-candra-vadanaḥ ।
+yadāloka-sthāne bhavati puram unmāda-taralaiḥ
+kaṭākṣair nārīṇāṃ kuvalayita-vātāyanam iva ।।

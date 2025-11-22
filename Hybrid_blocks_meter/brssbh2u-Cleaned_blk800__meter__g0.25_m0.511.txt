@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 800 | label: meter | g:0.25 m:0.511 ---
+
+vyavahāraprasiddhyarthaṃ cedaṃ trivṛtkaraṇam ।
+vyavahāraśca trivṛtkṛtarajjuvadekatvāpattau satyāṃ na bhedena bhūtatrayagocaro lokasya prasiddhyet ।
+tasmātsatyapi trivṛtkaraṇe vaiśeṣyādeva tejobannaviśeṣavādo bhūtabhautikaviṣaya upapadyate ।
+tadvādastadvāda iti padābhyāso adhyāyaparisamāptiṃ dyotayati ।।

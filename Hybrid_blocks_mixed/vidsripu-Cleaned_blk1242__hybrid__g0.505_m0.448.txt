@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1242 | label: hybrid | g:0.505 m:0.448 ---
+
+vikāsayati locane spṛśati pāṇinākuñcite vidūram avalokayaty atisamīpasaṃsthaṃ punaḥ ।
+bahir vrajati sātape smarati netravarteḥ pumāñ jarāpramukhasaṃsthitaḥ samavalokayan pustakam ।।
+varāhasya

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 18 | label: meter | g:0.29 m:0.679 ---
+
+lomaharṣaṇa uvāca
+śṛṇudhvaṃ munayaḥ prītā vāmanasya mahātmanaḥ ।
+utpattiṃ ca prabhāvaṃ ca nivāsaṃ kurujāṅgale ।।

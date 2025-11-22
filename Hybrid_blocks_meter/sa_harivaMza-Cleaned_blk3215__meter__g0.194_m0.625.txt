@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3215 | label: meter | g:0.194 m:0.625 ---
+
+śrutvaiva dhanuṣo bhaṅgaṃ kaṃso apy udvignamānasaḥ 
+visṛjyāyudhapālaṃ vai praviveśa gṛhottamam ।।

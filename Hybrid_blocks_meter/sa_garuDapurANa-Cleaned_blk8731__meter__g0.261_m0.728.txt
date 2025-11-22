@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8731 | label: meter | g:0.261 m:0.728 ---
+
+evaṃ nāmnā ca sarve vai saṃprāptāḥ pretatāṃ vayam ।
+brāhmaṇa uvāca ।
+pretānāṃ karmajātānāṃ kathaṃ vai nāmasambhavaḥ ।
+kiñcitkāraṇamudiśya yena brūyāḥ svanāmakān ।।

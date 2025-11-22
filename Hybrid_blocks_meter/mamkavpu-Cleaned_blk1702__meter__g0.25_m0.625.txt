@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1702 | label: meter | g:0.25 m:0.625 ---
+
+eṣāṃ doṣā yathāyogaṃ saṃbhavanto api kecana ।
+ukteṣvantarbhavantīti na pṛthak pratipāditāḥ ।।

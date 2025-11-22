@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5483 | label: meter | g:0.25 m:0.5 ---
+
+tat prasīdābhayaṃ dattaṃ bāṇasyāsya mayā prabho 
+tat tvayā nānṛtaṃ kāryaṃ yan mayā vyāhṛtaṃ vacaḥ ।।

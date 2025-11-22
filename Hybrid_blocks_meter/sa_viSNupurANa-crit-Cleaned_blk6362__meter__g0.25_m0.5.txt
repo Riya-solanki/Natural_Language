@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6362 | label: meter | g:0.25 m:0.5 ---
+
+āśrayaś cetaso brahma dvidhā tac ca svarūpataḥ 
+bhūpa mūrtam amūrtaṃ ca paraṃ cāparam eva ca ।।

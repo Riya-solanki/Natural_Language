@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9402 | label: meter | g:0.306 m:0.5 ---
+
+yasmin dine mṛto janturaṭavyāṃ viṣame api vā ।
+yadā tadā bhaveddāhaḥ sūtakaṃ mṛtavāsarāt ।।

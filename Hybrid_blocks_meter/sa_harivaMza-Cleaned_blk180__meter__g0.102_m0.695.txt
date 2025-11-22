@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 180 | label: meter | g:0.102 m:0.695 ---
+
+teṣām evaṃ pravṛddhānāṃ bhūtānāṃ janamejaya 
+nikāyeṣu nikāyeṣu hariḥ prādāt prajāpatīn 
+kramaśas tāni rājyāni pṛthoḥ pūrvaṃ tu bhārata ।।

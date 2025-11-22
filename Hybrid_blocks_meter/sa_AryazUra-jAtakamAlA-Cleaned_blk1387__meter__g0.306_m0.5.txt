@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1387 | label: meter | g:0.306 m:0.5 ---
+
+ayaṃ hi pūrvaṃ paṭucāṭukarmā bhūtvā mayi śvā bhavato anuvṛttyā ।
+ākāraguptyajñatayā tvidānīṃ tvadbhāvasūcāṃ bhaṣitaiḥ karoti ।।

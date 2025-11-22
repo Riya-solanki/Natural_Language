@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 667 | label: grammar | g:0.552 m:0.375 ---
+
+aśvatthāmā
+kathamiyamamānuṣī vāgnānumanute saṃgrāmāvataraṇaṃ mama । āḥ pakṣapātino devā api pāṇḍavānām । sarvathā pītaṃ duḥśāsanaśoṇitaṃ bhīmena । bhoḥ kaṣṭaṃ kaṣṭam ।

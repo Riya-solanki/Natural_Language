@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 62 | label: grammar | g:0.573 m:0.5 ---
+
+tasyotsaṅge praṇayina iva srastagaṅgādukūlāṃ na tvaṃ dṛṣṭvā na punar alakāṃ jñāsyase kāmacārin ।
+yā vaḥ kāle vahati salilodgāram uccairvimānā muktājālagrathitam alakaṃ kāminīvābhravṛndam ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 82 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam arjunīṣu paryāg eva cirāya cāryamāṇāsu pari kāliyālaya-jalāśayāśayam eva calituṃ khalu śrī-balarāmaḥ samanujñāṃ kalayāñcakre, śrī-vrajeśvaryāḥ śikṣita-caryānugamāt । śrī-balāvarajasya tu tasya cirata evāvirataṃ tad didṛkṣā na kṣīṇāsīt । [] bahalena kutūhalena, janmata eva durjana-tejasām asahanatāyām avikalena tejasvitā-balena ca ।

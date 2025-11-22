@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2004 | label: meter | g:0.326 m:0.5 ---
+
+bāṇo api vīre nihate atha tārake gate himādriṃ mahiṣe bhayātte ।
+bhayād viveśogramapāṃ nidhānaṃ garṇairbale vadhyati sāparādhe ।।

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 586 | label: hybrid | g:0.5 m:0.5 ---
+
+[] ṛṣir uvāca-tataḥ sāndīpani-sandīpita-vidyā-sabhām avantīm āsādyānavadya-vidyā-samudāyāya bhrātarau yuvām akātarau sa-brahmacāritayā gaurava-saṅkulatayā gauravaṃ kulam eṣyatha । yatra sakṛn-nigada-mātreṇa sarvāṃ vidyām adhīyantau dhārayantau ca sarvataś camatkāram arpayiṣyathaḥ । yatredaṃ sakhedam upaślokayan mahāṃl loka-saṅghaḥ parasparaṃ savismayam ālokayiṣyati । yathā-

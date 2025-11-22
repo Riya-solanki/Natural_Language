@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3642 | label: grammar | g:0.625 m:0.5 ---
+
+uvāca cainaṃ rājānam asmatprītyā mahārājāya sarva eva gandharvā varadāḥ saṃvṛttā vriyatāṃ vara iti ।।

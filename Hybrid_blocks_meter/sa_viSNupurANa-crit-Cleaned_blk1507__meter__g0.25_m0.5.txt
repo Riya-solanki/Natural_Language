@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1507 | label: meter | g:0.25 m:0.5 ---
+
+sādhanālambanaṃ jñānaṃ muktaye yogināṃ hi yat 
+sa bhedaḥ prathamas tasya jñānabhūtasya vai mune ।।

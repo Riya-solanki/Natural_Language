@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 304 | label: meter | g:0.25 m:0.625 ---
+
+viśvedevāśca jānusthā jaṅghe sādhyāḥ surottamāḥ ।
+yakṣā nakheṣu saṃbhūtā rekhāsvapsarasastathā ।।

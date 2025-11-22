@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3420 | label: grammar | g:0.708 m:0.5 ---
+
+atra hi pīte rājño yuvanāśvasya patnī mahābalaparākramaṃ putraṃ janayiṣyatīty ākarṇya sa rājā ajānatā mayā pītam ity āha ।।

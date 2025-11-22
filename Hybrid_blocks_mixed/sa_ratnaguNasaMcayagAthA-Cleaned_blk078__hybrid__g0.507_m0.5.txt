@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 78 | label: hybrid | g:0.507 m:0.5 ---
+
+prathamaṃ upādu varabodhayi cittupādo yāvat su dharmakṣayakālu vināyakānām 
+ekasmi tatra ciya teṣa jināna puṇyaṃ saha yukta pāramita ye api ca buddhadharmāḥ ।।

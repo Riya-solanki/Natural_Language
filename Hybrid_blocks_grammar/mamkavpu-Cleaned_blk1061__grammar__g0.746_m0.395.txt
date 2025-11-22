@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1061 | label: grammar | g:0.746 m:0.395 ---
+
+bahunāmapi padānāmekapadavadbhāsanātmā yaḥ śleṣaḥ yaścārohābarohakramarūpaḥ samādhiḥ yā ca vikaṭatvalakṣaṇā udāratā yaścaujomiśritaśaithilyātmā prasādaḥ
+teṣāmojastantarbhāvaḥ । pṛthakpadatvarūpaṃ mādhuryaṃ bhaṅgyā sākṣādupāttam । prasādenārthavyaktirgṛhītā । mārgābhedarūpā samatā kvaciddoṣaḥ । tathāhi {mātaṅgāḥ kimu valgataiḥ} ityādau siṃhābhidhāne masṛṇamārgatvāyo guṇaḥ । kaṣṭatvagrāmyatvayorduṣṭābhidhānāttannirākaraṇenāpāruṣyarūpaṃ saukumāryam aujjvalyarūpā kāntiśca svīkṛtā ।।

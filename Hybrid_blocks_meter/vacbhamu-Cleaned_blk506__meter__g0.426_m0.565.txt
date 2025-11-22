@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 506 | label: meter | g:0.426 m:0.565 ---
+
+vyakriyata iti ca karmakartari karmaṇi vā rūpaṃ, na cetanatiriktaṃ kartāraṃ pratikṣipati kintūpasthāpayati ।
+nahi lūyate kedāraḥ svayameveti vā lūyate kedāra iti vā lavitāraṃ devadattādiṃ pratikṣipati ।
+api tūpasthāpayatyeva ।
+tasmātsarvamavadātam ।।

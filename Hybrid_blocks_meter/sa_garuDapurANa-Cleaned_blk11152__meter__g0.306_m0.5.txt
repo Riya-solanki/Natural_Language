@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11152 | label: meter | g:0.306 m:0.5 ---
+
+sarve guṇaiḥ śataguṇāḥ krameṇoktā nu te akhilāḥ ।
+bhāratyāśca śataṃ jñānaṃ sukhaṃ bhaktibalādhike ।।

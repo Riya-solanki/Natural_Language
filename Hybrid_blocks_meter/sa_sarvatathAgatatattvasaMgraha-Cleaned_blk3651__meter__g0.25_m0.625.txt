@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3651 | label: meter | g:0.25 m:0.625 ---
+
+ā[kāśakāya kāyāgrya trikāyākāyabhā]vaka ।
+sarvakāya mahākāya vajrakāya namo astu te ।।

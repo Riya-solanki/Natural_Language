@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 159 | label: grammar | g:0.597 m:0.5 ---
+
+nanu bhavatvavagatiparyantaṃ jñānam; kimetāvatāpīṣṭaṃ bhavati ? na hyanapekṣaṇīyaviṣayamavagatiparyantamapi jñānamiṣyata ityata āha- jñānena hi pramāṇenāvagantumiṣṭaṃ brahma ।
+bhavatu brahmaviṣayāvagatiḥ, evamapi kathamiṣṭetyata āha- brahmāvagatirhi puruṣārthaḥ ।
+kimabhyudayaḥ ? na, kiṃ tu niḥśreyasaṃ vigalitanikhiladuḥkhānuṣaṅgaparamānandaghanabrahmāvagatirbrahmaṇaḥ svabhāva iti saiva niḥśreyasaṃ puruṣārtha iti ।

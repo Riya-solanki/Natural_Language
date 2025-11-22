@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 283 | label: meter | g:0.056 m:0.625 ---
+
+buddhir eva suhṛdām anumene
+taṃ gavānugataye na manas tu ।
+sā hi mantra-sacivaṃ suvicāraṃ
+pāti tat tu rahitārgala-kāmam ।। [svāgatā]

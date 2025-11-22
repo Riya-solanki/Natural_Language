@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8863 | label: meter | g:0.25 m:0.5 ---
+
+andhādandho na bhavati mūkānmūko na jāyate ।
+badhirādbadhiro naiva vidyāvānviduṣo na hi ।
+anurūpā na dṛśyante madīyaṃ vacanaṃ śṛṇu ।।

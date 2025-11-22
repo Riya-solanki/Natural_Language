@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2182 | label: hybrid | g:0.521 m:0.5 ---
+
+patreṇa kāñcanamayena tu veṣṭayitvā taptaṃ yadā hutavahe bhavati prakāśam ।
+rogapraṇāśanakaraṃ kalināśanaṃ tadāyuṣkaraṃ kulakaraṃ ca sukhapradaṃ ca ।।

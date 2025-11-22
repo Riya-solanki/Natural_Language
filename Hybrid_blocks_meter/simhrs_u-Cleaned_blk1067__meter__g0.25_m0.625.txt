@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1067 | label: meter | g:0.25 m:0.625 ---
+
+kaupīnācchādane valkam akṣa-sūtraṃ jaṭā-cchaṭāḥ ।
+rudrāṅkuśas tripuṇḍraṃ ca veṣo bhṛṅgiriṭer ayam ।।

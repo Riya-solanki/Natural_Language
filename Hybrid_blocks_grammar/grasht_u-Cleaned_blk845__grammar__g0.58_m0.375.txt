@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 845 | label: grammar | g:0.58 m:0.375 ---
+
+atiśuddhaṃ nirmalaṃ amlādyudvartitaṃ tārāriṣṭaśabdātsitaṃ svarṇaṃ grāhyaṃ tataḥ rasenālipya tataḥ kramaṇālipte krāmaṇapiṇḍena lepe kṛte sati puṭeṣu utpalāgnau viśrāntaṃ sthāpitaṃ kuryāt ।।
+patrarañjanavidhir ayam ।।

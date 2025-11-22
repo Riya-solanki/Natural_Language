@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 525 | label: grammar | g:0.583 m:0.5 ---
+
+yāñcāṃ dainyaparigrahapraṇayinīṃ nekṣvākavaḥ śikṣitāḥ sevāsaṃvalitaḥ kadā raghukule maulau nibaddho añjaliḥ ।
+sarvaṃ tadvihitaṃ tathāpyudadhinā naivoparodhaḥ kṛtaḥ pāṇiḥ saṃprati me haṭhāt kimaparaṃ spraṣṭuṃ dhanurdhāvati ।।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 219 | label: grammar | g:0.604 m:0.5 ---
+
+lakṣaṇam śrāvakādīnām adhvasamatājñānābhāvāt anityādyākārāṇāṃ sākṣātkāri jñānaṃ sanimittopalambhayogena kṛpāprajñāvaikalyāt dūrībhūtaṃ jinajananyā iti lakṣaṇam ।

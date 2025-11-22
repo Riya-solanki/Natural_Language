@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2770 | label: meter | g:0.25 m:0.5 ---
+
+svayaṃ svayaṃbhūr bhagavān buddhyātha vayasāpi vā 
+na tvānugantuṃ śakto vai paṅgur drutagatiṃ yathā ।।

@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 163 | label: meter | g:0.306 m:0.5 ---
+
+sthalajāḥ pakṣiṇo abjās ca dharāyāḥ prasavaḥ smṛtaḥ 
+anāyuṣāyāḥ putrās tu pañcāśat sumahābalāḥ । 
+surato guṇavṛttaś ca vikṣaro atha nṛpas tathā । 
+gās tu vai janayām āsa surabhī mahiṣī tathā ।।

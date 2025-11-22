@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 410 | label: meter | g:0.25 m:0.75 ---
+
+śaraccandrāṃ'sugaureṇa vātāviddhena bhāmini ।
+kāśapuṣpalavenedaṃ sāśrupātaṃ mukhaṃ kṛtam ।।

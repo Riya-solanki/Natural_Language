@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 232 | label: meter | g:0.262 m:0.78 ---
+
+taduktam-'aśabdam'ityādivākyaṃ tañjñeyaparamityāha-apiceti ।
+tarhi rūpaṃ kutaḥ, tatrāha-sarveti ।
+yatra tūpāsyatvenocyate tatretyadhyāhṛtya sarvakāraṇatvātprāptarūpavatvaṃ asarvakarmā'ityādiśrutyā nirdiśyata iti yojanā ।
+maryādāvadaiśvaryamīśvarasya netyuktaṃ nirākaroti-aiśvaryeti ।
+adhyātmādhidaivatadhyānayorvibhāgaḥ pṛthakprayogastadapekṣameva, natvaiśvaryasya paricchedārthamityarthaḥ ।।

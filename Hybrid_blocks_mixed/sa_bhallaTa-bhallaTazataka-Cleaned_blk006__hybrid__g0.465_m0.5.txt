@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 6 | label: hybrid | g:0.465 m:0.5 ---
+
+kāco maṇir maṇiḥ kāco yeṣāṃ te anye hi dehinaḥ 
+santi te sudhiyo yeṣāṃ kācaḥ kāco maṇir maṇiḥ ।।

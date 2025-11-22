@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 31 | label: meter | g:0.306 m:0.5 ---
+
+tatra tatra sthite tat tad bhavatīty eva dṛśyate ।
+nānyan nānyo asti saṃbandhaḥ kāryakāraṇabhāvataḥ ।।

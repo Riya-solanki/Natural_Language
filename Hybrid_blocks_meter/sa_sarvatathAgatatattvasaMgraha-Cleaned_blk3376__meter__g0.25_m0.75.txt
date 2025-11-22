@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3376 | label: meter | g:0.25 m:0.75 ---
+
+samantabhadro rājāhaṃ sarvasatva[mahārthadaḥ ।
+sarvārthasiddhirūpeṇa] pūjayaṃ siddhimāpnuyād ।।

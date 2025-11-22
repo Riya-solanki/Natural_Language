@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 273 | label: meter | g:0.194 m:0.625 ---
+
+niyāmikāṃ tato vacmi sūtasya mārakarmaṇi 
+sarpākṣī kṣīriṇī vadhyā matsyākṣī śaṅkhapuṣpikā ।।

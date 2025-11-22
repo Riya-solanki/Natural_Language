@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8479 | label: hybrid | g:0.521 m:0.5 ---
+
+jānāsi śaṃbalavaśaṃ balamadhvagānāṃ no śaṃbalaḥ prayatate paralokapāntha ।
+gantavyamasti tava niścitameva tena mārgeṇa yatra bhavataḥ krayavikrayau na ।।

@@ -1,0 +1,8 @@
+--- source: rasadh_u-Cleaned.txt | block: 136 | label: grammar | g:0.684 m:0.302 ---
+
+iha sāraṇasaṃskāre kṛte yāvanto raktaṣoṭasya gadyāṇā bhavanti tebhyo dviguṇāttu śuddhamanaḥśilāgadyāṇān gāḍhaṃ sūkṣmacūrṇarūpān kṛtvā prauḍhakācakūpīmadhye ardhacūrṇaṃ kṣiptvā tato raktaṣoṭaṃ muktvā punarupari śeṣaṃ manaḥśilācūrṇam adhaḥ kṣiptvā kūpīmadhye'dhaścūrṇaṃ kṣiptvā tato raktaṣoṭaṃ muktvā punarupari śeṣaṃ manaḥśilācūrṇamadhaḥ liptvā kūpīdvāre abhrasya cātikāṃ dattvā saptatāraṃ tasyāṃ kūpikāyāṃ paritaḥ karpaṭamṛttikāṃ dattvāraṇyachāṇakaiḥ pūrṇāyāṃ puruṣapramāṇakhanitagartāyāṃ madhye kūpīṃ muktvā haṭhāgnir jvālanīyaḥ ।।
+yadi ca jvalitā svayaṃ śītalaṃ bhavati tadā kūpīmadhyāt sa raso grāhyaḥ ।।
+etanmāraṇam ucyate ।।
+atrāmnāyaḥ ।।
+khaḍḍāyām ardhaṃ yāvacchaṇakāni muktvopari kūpī mucyate tataḥ pārśveṣattathopari chāṇakair gartā bhriyate ।।
+iti sāritasūtasya māraṇasaṃskāraś caturdaśaḥ ।।

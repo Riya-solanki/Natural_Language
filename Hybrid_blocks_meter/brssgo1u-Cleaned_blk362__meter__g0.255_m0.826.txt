@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 362 | label: meter | g:0.255 m:0.826 ---
+
+FN arbhakaśabdasya śiśuviṣayatvaniṣedhārthamalpamiti paryāyatvokti ।
+kathamapi brahmabhāvapekṣe api ।
+nicāyyatvāddraṣṭavyatvāt ।

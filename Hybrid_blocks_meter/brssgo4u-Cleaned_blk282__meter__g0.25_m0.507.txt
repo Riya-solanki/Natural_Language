@@ -1,0 +1,6 @@
+--- source: brssgo4u-Cleaned.txt | block: 282 | label: meter | g:0.25 m:0.507 ---
+
+brahmalokeṣviti bahuvacanalokaśabdādhārasaptamīśrutibhirgantavyasya parasmādvyāvṛttatvācca na paraṃ gantavyamityāha-viśeṣitatvācceti ।
+parabrahmaṇi bhogyatvopacārādgauṇī lokaśrutirityarthaḥ ।
+napuṃsakabrahmaśabdena kāraṇavācinā kāryaṃ lakṣyate gantavyatvanyāyopetabahuvacanādyanekaśrutyanugrahāyaḥ ।
+na cānāvṛttiliṅgātparasya gantavyatā, kramamuktyā liṅgasyānyathāsiddheriti bhāvaḥ ।।

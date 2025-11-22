@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 172 | label: meter | g:0.326 m:0.774 ---
+
+bhāvābhāvāvabhāsānāṃ bāhyatopādhir iṣyate 
+nātmā sattā tatas teṣām āntarāṇāṃ satāṃ sadā ।।

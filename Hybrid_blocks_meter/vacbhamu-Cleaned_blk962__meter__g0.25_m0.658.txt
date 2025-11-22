@@ -1,0 +1,10 @@
+--- source: vacbhamu-Cleaned.txt | block: 962 | label: meter | g:0.25 m:0.658 ---
+
+tadbhūtasya tu nātadbhāvo jaiminerapi niyamātadrūpābhāvebhyaḥ ।
+ārohavatpratyavaroho api kadācidūrdhvaretasāṃ syāditi mandāśaṅkānivāraṇārthamidamadhikaraṇam ।
+pūrvadharmeṣu yāgahomādiṣu ।
+rāgato vā gṛhastho ahaṃ patnyādiparivṛtaḥ syāmiti ।
+niyamaṃ vyācaṣṭe-tathāhi- atyantamātmanāmiti ।
+atadrūpatāmārohatulyatābhāvaṃ vyācaṣṭe- tathāca brahmacaryaṃ samāpyeti ।
+abhāvaṃ śiṣṭācārābhāvaṃ vibhajate- na caivamācārāḥ śiṣṭā iti ।
+atirohitārthamanyat ।।

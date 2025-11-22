@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1583 | label: meter | g:0.25 m:0.5 ---
+
+yad idaṃ luptadharmārthaṃ yuṣmābhir iha nirbhayaiḥ 
+vyāhṛtaṃ sadbhir atyartham asadbhir iva me matam ।।

@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 675 | label: grammar | g:0.562 m:0.5 ---
+
+yadyapyasamarthasyaivāprayuktādayaḥ kecana bhedāḥ tathāpyanyairālaṅkārikairvibhāgena pradarśitā iti bhedapradarśanenodāhartavyā iti ca vibhajyoktāḥ ।।

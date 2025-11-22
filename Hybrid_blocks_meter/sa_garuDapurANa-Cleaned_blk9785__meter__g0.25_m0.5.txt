@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9785 | label: meter | g:0.25 m:0.5 ---
+
+dadyāt pūrvaṃ mṛtasyādau dvitīyasya tataḥ punaḥ ।
+tṛtīyasya tataḥ kuryāt saṃnipāte tvayaṃ vidhiḥ ।।

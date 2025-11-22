@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2168 | label: meter | g:0.194 m:0.625 ---
+
+upadvīpāruṇaṃ cādyaṃ vāruṇaṃ tu dvitīyakam 
+narasiṃhaṃ tṛtīyaṃ tu lokālokaṃ caturthakam ।।

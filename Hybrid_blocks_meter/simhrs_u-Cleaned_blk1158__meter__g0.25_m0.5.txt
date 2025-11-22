@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1158 | label: meter | g:0.25 m:0.5 ---
+
+tad īdṛśa-rasādhāraṃ nāṭyaṃ rūpakam ity api ।
+naṭasyātipravīṇasya karmatvān nāṭyam ucyate ।। 
+yathā mukhādau padmāder ārope rūpaka-prathā ।
+tathaiva nāyakāropo naṭe rūpakam ucyate । 
+tac ca nāṭyaṃ daśa-vidhaṃ vākyārthābhinayātmakam ।।

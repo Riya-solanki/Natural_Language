@@ -1,0 +1,7 @@
+--- source: brsvbh2u-Cleaned.txt | block: 317 | label: grammar | g:0.576 m:0.461 ---
+
+karaṇādīni kārakāntarāṇi kartā prayuṅkte na tvayaṃ kārakāntaraiḥ prayujyata ityetāvanmātramasya svātantryaṃ na tu kāryakriyāyāṃ na kārakāntarāṇyapekṣata iti ।
+īdṛśaṃ hi svātantryaṃ neśvarasyāpyatrabhavato astītyutsannasaṃkathaḥ kartā syāt ।
+tathā cāyamadṛṣṭaparipākavaśādiṣṭamabhiprepsustatsādhanavibhrameṇāniṣṭopāyaṃ vyāpārayannaniṣṭaṃ prāpnuyādityaniyamaḥ kartṛtvaṃ ceti na virodhaḥ ।
+viṣayaprakalpanamātraprayojanatvāditi ।
+nityacaitanyasvabhāvasya khalvātmana indriyādīni karaṇāni svaviṣayamupanayanti, tena viṣayāvacchinnameva caitanyaṃ vṛttiriti vijñānamiti cākhyāyate, tatra cāsyāsti svātantryamityarthaḥ ।।

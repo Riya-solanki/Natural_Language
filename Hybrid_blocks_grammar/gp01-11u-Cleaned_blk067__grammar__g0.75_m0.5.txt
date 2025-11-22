@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 67 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataḥ pūrvatra tasya tasya cāveśaḥ paratra ca praveśaḥ syāt । [] tataś ca, tad-icchā-vaśāl līlā-śaktiḥ paratra ca prāyaḥ sarvaṃ vyaktīkarotīti vivektavyam ।

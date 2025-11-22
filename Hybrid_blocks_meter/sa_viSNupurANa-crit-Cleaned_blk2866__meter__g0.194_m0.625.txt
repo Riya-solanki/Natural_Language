@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2866 | label: meter | g:0.194 m:0.625 ---
+
+pitrarthaṃ cāparaṃ vipram ekam apy āśayen nṛpa 
+taddeśyaṃ viditācārasaṃbhūtiṃ pāñcayajñikam ।।

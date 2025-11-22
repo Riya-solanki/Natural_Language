@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 751 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha punar dāruka-sārathiṃ prati prathayiṣyasi-bho sārathe ! sarathaḥ prathamānayātyantīnatayā bhavān yadu-bhavanam āsādya sadyaḥ śrīmad-bhrātaraṃ tan-mātaraṃ ca prāpayeti । punar vicārya vakṣyasi-hanta ! tam uddhavam apy ānayeti ।

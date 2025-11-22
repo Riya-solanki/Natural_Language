@@ -1,0 +1,23 @@
+--- source: brssgo4u-Cleaned.txt | block: 28 | label: grammar | g:0.603 m:0.39 ---
+
+yaḥ śāstroktaviśeṣaṇa paramātmā sa kim aham iti grahītavyaḥ kiṃvā mat anya iti etat vicārayati ।
+kathaṃ punaḥ ātmaśabde pratyagātmaviṣaye śrūyamāṇe saṃśaya iti ।
+ucyate - ayam ātmaśabdo mukhyaḥ śakyate abhyupagantuṃ sati jīva īśvarayoḥ abhedasaṃbhava itarathā tu gauṇaḥ ayam abhyupagantavya iti manyate ।
+kiṃ tāvat prāptaṃ na aham iti grāhyaḥ ।
+na hi apahatapāpmatvādi guṇo viparīta guṇatvena śakyate grahītuṃ viparīta guṇo ca apahatapāpmatvādi guṇatvena ।
+apahatapāpmatvādi guṇaḥ ca parameśvaraḥ tadviparītaguṇaḥ tu śārīraḥ ।
+īśvarasya ca saṃsāri ātmatva īśvara abhāvaprasaṅgaḥ ।
+tataḥ śāstra ānarthakyam ।
+saṃsāriṇaḥ api īśvara ātmatve adhikāri abhāvāt śāstra ānarthakyameva, pratyakṣādi virodhaḥ ca ।
+anyatve api tādātmya darśanaṃ śāstrāt kartavyaṃ pratimādiṣu iva viṣṇu ādidarśanam iti cet kāmamevaṃ bhavatu ।
+na tu saṃsāriṇo mukhya ātma īśvara ityetat naḥ prāpayitavyam ।
+evaṃ prāpte brūmaḥ - ātma ityeva parameśvaraḥ pratipattavyaḥ ।
+tathā hi parameśvara prakriyāyāṃ jābālā ātmatvena eva etam upagacchanti - atvaṃ vā ahamasmi bhagavo devato ahaṃ vai tvamasi bhagavo deveti' iti ।
+tathā anye api aahaṃ brahmāsmi' ityevam ādaya ātmatva upagamā draṣṭavyāḥ ।
+grāhayanti ca ātmatvena eva īśvaraṃ vedāntavākyāni aeṣa ta ātmā sarvāntaraḥ' aeṣa ta ātmāntaryāmyamṛtaḥ' atatsatyaṃ sa ātmā tattvamasi' iti evamādīni ।
+yat uktaṃ pratīka darśanam idaṃ viṣṇupratimā nyāyena bhaviṣyati iti tat ayuktaṃ gauṇatva prasaṅgāt ।
+vākya vairūpyāt ca ।
+yatra hi pratīkadṛṣṭiḥ abhipreyate sakṛdeva tatra vacanaṃ bhavati yathā - amano brahma' aādityo brahma' ityādi ।
+iha punaḥ tvam aham asmi ahaṃ ca tvam asi iti āha, ataḥ pratīka śruti vairūpyāt abhedapratipattiḥ ।
+bhedadṛṣṭi apavādāt ca ।
+tathā hi - aatha yo anyāṃ devatāmupāste anyo asāvanyo ahamīti na sa veda' amṛtyoḥ sa mṛtyumāpnoti ya iha nāneva paśyati' iti evamādyā bhūyasī śrutiḥ bhedadarśanam apavadati ।

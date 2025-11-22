@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2343 | label: meter | g:0.194 m:0.625 ---
+
+saṃnikṛṣṭāni yāny āsan kāṣṭhāni ca tṛṇāni ca 
+tāni dūrāvakṛṣṭāni mārgitavyāni bhūmiṣu ।।

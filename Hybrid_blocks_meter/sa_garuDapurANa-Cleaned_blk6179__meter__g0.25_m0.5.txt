@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6179 | label: meter | g:0.25 m:0.5 ---
+
+satyā nāgnyastathā puṃso hyabhakṣayata dīrghapāt ।
+sarvaviśvobha ye cobhau ekonyānyatarāṇi ca ।।

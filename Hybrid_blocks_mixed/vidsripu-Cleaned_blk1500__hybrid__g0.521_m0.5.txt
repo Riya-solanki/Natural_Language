@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1500 | label: hybrid | g:0.521 m:0.5 ---
+
+tvatsainyaglapitasya pannagapater acchinnadhārākramaṃ visphārāyataśālini pratiphaṇaṃ phelāmbhasi bhraśyati ।
+deva kṣmāvalayaprabho phaṇikulaiḥ pravyaktam ekottara- sthūlastambhasahasradhāritam iva kṣmācakram ālokyate ।।

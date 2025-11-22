@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4212 | label: meter | g:0.194 m:0.625 ---
+
+prāvṛṭkālas tato atīva meghaughasthagitāmbaraḥ 
+babhūva vāridhārābhir aikyaṃ kurvan diśām iva ।।

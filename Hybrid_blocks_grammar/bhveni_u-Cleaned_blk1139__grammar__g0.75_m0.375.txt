@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 1139 | label: grammar | g:0.75 m:0.375 ---
+
+yudhiṣṭhiraḥ
+kṛṣṇe evaṃ manyate jarāsaṃdhaghātī । hatasakalasuhṛdbandhuvīrānujarājanyāsu kṛpakṛtavarmāśvatthāmaśeṣāsvekādaśasvakṣauhiṇīṣvabāndhavaḥ śarīramātravibhavaḥ kadācidutsṛṣṭanijābhimāno dhārtarāṣṭraḥ parityajedāyudhaṃ tapovanaṃ vā vrajetsaṃdhiṃ vā pitṛmukhena yāceta । evaṃ sati sudūramatikrāntaḥ pratijñābhāro bhavetsakalaripujayasyeti । samaraṃ pratipattuṃ pañcānāmapi pāṇḍavānāmekasyāpi naiva kṣamaḥ suyodhanaḥ । śaṅke cāhaṃ gadāyuddhaṃ vṛkodarasyaivānena । ayi sukṣatriye paśya ।

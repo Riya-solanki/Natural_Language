@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 337 | label: grammar | g:0.75 m:0.5 ---
+
+kartṛtāyoge api bodhānāṃ karmottīrṇānāṃ vidyeśvaratve api bhinnavedyayogān māyāmalam asty eva । pūrṇakartṛtvābhāvād īśvarād bhinnā anyonyaṃ ca pūrvavad ata evaiṣām aṇutvam api syāt ।।

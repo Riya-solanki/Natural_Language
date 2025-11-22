@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 349 | label: grammar | g:0.75 m:0.5 ---
+
+[] kintu tasya vaṃśī-śaṃsana-mādhuryam eva tāsv abhiṣajyad avabudhya tad-avadhi tāsāṃ pratibandhāya bandhavas tenātinirbandhaṃ yayur iti kadācic cirato darśanam api tasya tāsu paryavasyati sma ।

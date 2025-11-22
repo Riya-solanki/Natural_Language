@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1962 | label: meter | g:0.194 m:0.5 ---
+
+samudre ahaṃ surāḥ pūrve velām āsādya paścimām 
+āse sārdhaṃ tanūjena kaśyapena mahātmanā ।।

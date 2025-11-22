@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1399 | label: meter | g:0.25 m:0.625 ---
+
+gavāṃ hi rajasā proktaṃ vāyavyaṃ snānamuttamam ।
+yattu sātapavarṣeṇa snānaṃ taddivyamucyate ।।

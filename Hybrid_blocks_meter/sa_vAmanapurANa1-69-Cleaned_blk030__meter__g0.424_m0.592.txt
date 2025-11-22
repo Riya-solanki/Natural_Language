@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 30 | label: meter | g:0.424 m:0.592 ---
+
+pulastya uvāca ।
+iti vacanamathograṃ śaṅkarātsā mṛḍānī ṛtamapi tadasatyaṃ śrīmadākarṇya bhītā ।
+avanitasamavekṣya svāmino vāsakṛcchrāt parivadati saroṣaṃ lajjayocchvasya coṣm ।।

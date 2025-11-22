@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 553 | label: grammar | g:0.583 m:0.5 ---
+
+iha manusaṃkhyaiś caturdaśabhiḥ saṃskārair anantaroktaiḥ saṃskṛtya yo māritasūtaḥ sukhalve kṣiptvātyarthaṃ piṣyate ।।

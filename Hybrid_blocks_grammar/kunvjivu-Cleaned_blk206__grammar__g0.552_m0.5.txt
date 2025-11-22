@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 206 | label: grammar | g:0.552 m:0.5 ---
+
+āryasyājimahotsavavyatikare nāsaṃvibhakto atra vaḥ kaścit kāpyavaśiṣyate tyajata re naktañcarāḥ saṃbhramam ।
+bhūyiṣṭheṣvapi kā bhavatsu gaṇanātyarthaṃ kimuttāmyate tasyodārabhujoṣmaṇo anavasitā nārāca saṃpattayaḥ ।।

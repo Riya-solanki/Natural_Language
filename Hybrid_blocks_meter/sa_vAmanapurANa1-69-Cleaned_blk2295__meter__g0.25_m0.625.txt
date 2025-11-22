@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2295 | label: meter | g:0.25 m:0.625 ---
+
+bhavānapi kurukṣetre mūrtiṃ sthāpya garīyasīm ।
+gamiṣyati mahāpuṇyaṃ brahmalokaṃ sudurgamam ।।

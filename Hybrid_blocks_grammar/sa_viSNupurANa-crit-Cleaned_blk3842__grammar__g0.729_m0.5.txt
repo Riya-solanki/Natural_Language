@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3842 | label: grammar | g:0.729 m:0.5 ---
+
+tāṃś ca sarvān eva kaṃso ghātitavān । anantaraṃ ca saptamaṃ garbham ardharātre bhagavatprahitā yoganidrā rohiṇyā jaṭharam avakṛṣya nītavatī ।।

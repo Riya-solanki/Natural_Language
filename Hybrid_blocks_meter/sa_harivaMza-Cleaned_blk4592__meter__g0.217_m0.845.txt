@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4592 | label: meter | g:0.217 m:0.845 ---
+
+vāsudevena yatrāsau rudraskandasahāyavān 
+baliputro raṇaślāghī jitvā jīvan visarjitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1552 | label: hybrid | g:0.5 m:0.5 ---
+
+tataḥ śubhe harmyatale hiraṇmaye sthitāḥ surāḥ saṃkarakāliceṣṭitam ।
+pasyanti devo api samaṃ kuśāṅgyā lokānujuṣṭaṃ padamāsasāda ।।

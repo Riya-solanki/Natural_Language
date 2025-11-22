@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 931 | label: meter | g:0.306 m:0.5 ---
+
+pūritaṃ ta caco dṛṣṭvā ṛṣayaḥ sarva eva te ।
+pāṃśunā sarvagātrāṇi spṛśanti śraddhayā yutāḥ ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 359 | label: meter | g:0.214 m:0.974 ---
+
+{ra-ikelihi-aṇivasaṇakarakisala-aruddhaṇa-aṇaju-alassa ।
+ruddhassa ta-i-aṇa-aṇaṃ pavva-īparicuṃbi-aṃ ja-a-i ।।}
+[ratikelibṛtanivasanakarakisalayaruddhanayanayugalasya ।
+rudrasya tṛtīyanayanaṃ pārvatīparicumbitañjayati ।।]

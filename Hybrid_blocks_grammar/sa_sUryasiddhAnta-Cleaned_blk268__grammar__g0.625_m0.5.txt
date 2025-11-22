@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 268 | label: grammar | g:0.625 m:0.5 ---
+
+labdhaṃ prācyām ṛṇaṃ saumyād vikṣepāt paścime dhanam। dakṣiṇe prākkapāle svaṃ paścime tu tathā kṣamah।।

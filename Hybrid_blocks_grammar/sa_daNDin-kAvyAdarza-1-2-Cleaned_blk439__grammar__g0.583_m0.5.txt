@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 439 | label: grammar | g:0.583 m:0.5 ---
+
+saṃgatāni mṛgākṣīṇāṃ taḍidvilasitāni ca kṣaṇadvayaṃ na tiṣṭhanti ghanārabdhāny api svayam ।। ।।

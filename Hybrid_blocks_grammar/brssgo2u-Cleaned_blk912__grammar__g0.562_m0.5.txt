@@ -1,0 +1,3 @@
+--- source: brssgo2u-Cleaned.txt | block: 912 | label: grammar | g:0.562 m:0.5 ---
+
+FN pramāṇaṃ pramitiḥ, viparyayo bhramaḥ, śabdajñānānupātī vastuśūnyo vikalpaḥ, tāmasī vṛttirnidrā ।

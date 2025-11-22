@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 402 | label: grammar | g:0.667 m:0.146 ---
+
+atrābhidhīyate- pratyakṣabalasiddhasya sāmānyasya kutarkataḥ ।।
+na śakyo apahnavaḥ kartuṃ sarvaṃ vijayate hi tat ।।
+sarveṣvapi vastuṣu iyamapi gauriyamapi gauḥ, ayamapi vṛkṣo ayamapīti vyāvṛttānuvṛttākāraṃ pratyakṣaṃ deśakālāvasthāntareṣvaviparyastamudīyamānaṃ sarvameva tarkābhāsaṃ vijitya dvyākāraṃ vastu vyavasthāpayat kenānyena śakyate bādhitum, na hi tato anyadbalavattaramasti pramāṇam, tanmūlatvātpramāṇāntarāṇāṃ tadbādhasāmarthyābhāvāt ।
+kiñcānumānānyapi sāmānyāpekṣatvātsutarāṃ sāmānyaṃ samarthayante na tu bādhituṃ śaknuvanti, nahi yadyapekṣaṃ tattasya bādhaṃ

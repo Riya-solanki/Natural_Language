@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 455 | label: meter | g:0.251 m:0.623 ---
+
+sa tu satyavratas tāta śvapākāvasathāntike 
+pitrā tyakto avasad vīraḥ pitāpy asya vanaṃ yayau ।।

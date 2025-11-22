@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1909 | label: meter | g:0.102 m:0.695 ---
+
+evam avyākṛtāt pūrvaṃ jāyante mahadādayaḥ 
+viśeṣāntās tatas tebhyaḥ saṃbhavanti surādayaḥ 
+tebhyaś ca putrās teṣāṃ ca putrāṇām apare sutāḥ ।।

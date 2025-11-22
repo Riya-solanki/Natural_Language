@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2690 | label: meter | g:0.112 m:0.931 ---
+
+mayūracitrāṅgadino bhujaiḥ praharaṇāvṛtaiḥ 
+mayūrapatravṛntānāṃ keśabandhaiḥ suyojitaiḥ 
+babhrājur adhikaṃ gopāḥ samavāye tadādbhute ।।

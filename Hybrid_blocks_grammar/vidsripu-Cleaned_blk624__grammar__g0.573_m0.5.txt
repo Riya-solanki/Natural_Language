@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 624 | label: grammar | g:0.573 m:0.5 ---
+
+karakisalayaṃ dhūtvā dhūtvā vimārgati vāsasī kṣipati sumanomālāśeṣaṃ pradīpaśikhāṃ prati ।
+sthagayati karaiḥ patyur netre vihasya samākulā surataviratau ramyā tanvī muhur muhur īkṣitum ।।

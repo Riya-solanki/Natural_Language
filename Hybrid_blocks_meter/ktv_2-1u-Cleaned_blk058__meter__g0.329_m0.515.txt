@@ -1,0 +1,8 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 58 | label: meter | g:0.329 m:0.515 ---
+
+yadā tu labdhātmako anyatra vyāpriyate, tadā karoti ity evam apadiśyate ।
+tathā ca kiṃ karoti paṭhati gacchati iti sāmānyaviśeṣarūpeṇa sāmānādhikaraṇyaprayogo dṛśyate ।
+na tu kiṃ karoti bhavati asti veti prayujyate ।
+tasmāl labdhātmakakartṛvyāpāravacanāni karotyarthavanty ākhyātāni ।
+tatra ca kriyamāṇena kenacid avaśyaṃ bhavitavyam ।
+kutaḥ ।

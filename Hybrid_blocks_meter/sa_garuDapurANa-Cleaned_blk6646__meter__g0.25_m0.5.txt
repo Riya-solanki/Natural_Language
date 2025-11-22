@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6646 | label: meter | g:0.25 m:0.5 ---
+
+yadā sadānṛtaṃ nandrā nidrā hiṃsādisādhanam ।
+śokamohau bhayaṃ dainyaṃ sa kalistamasi smṛtaḥ ।।

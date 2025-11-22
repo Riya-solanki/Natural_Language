@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6318 | label: meter | g:0.25 m:0.5 ---
+
+aham avidyayā mṛtyuṃ tartukāmaḥ karomi vai 
+rājyaṃ yāgāṃś ca vividhān bhogaiḥ puṇyakṣayaṃ tathā ।।

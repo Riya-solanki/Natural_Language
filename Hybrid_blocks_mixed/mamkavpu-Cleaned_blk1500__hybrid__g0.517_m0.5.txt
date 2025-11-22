@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1500 | label: hybrid | g:0.517 m:0.5 ---
+
+atra virahāsahatvaṃ smaramārgaṇā eva kurvanti । tadupari priyatamadūrasthityādi upāttam ।।
+eṣa eva samuccayaḥ sadyoge asadyoge sadasadyoge ca paryavasyatīti na pṛthak lakṣyate । tathāhi

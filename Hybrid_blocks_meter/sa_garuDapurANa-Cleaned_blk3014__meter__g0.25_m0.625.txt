@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3014 | label: meter | g:0.25 m:0.625 ---
+
+surāpaḥ svarṇahārī ca rudrajāpī jale sthitaḥ ।
+sahasraśīrṣājapyena mucyate gurutalpagaḥ ।।

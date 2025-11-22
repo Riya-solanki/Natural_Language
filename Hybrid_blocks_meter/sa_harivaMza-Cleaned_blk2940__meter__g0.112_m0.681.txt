@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2940 | label: meter | g:0.112 m:0.681 ---
+
+divyabhṛṅgāracamarair ādarśaiś ca vibhūṣitam 
+devatūryaninādaiś ca śataśaḥ pratināditam 
+sthānaṃ tasyā nage vindhye nirmitaṃ svena tejasā ।।

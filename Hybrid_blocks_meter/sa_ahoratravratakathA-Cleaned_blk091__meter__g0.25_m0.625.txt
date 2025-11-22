@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 91 | label: meter | g:0.25 m:0.625 ---
+
+netrābhirāmā bahuratnakoṣā narādhipair arcitapādapadmāḥ ।
+jñānapradīpāhatamohajālā ye dīpamālā racayanti buddhe ।।

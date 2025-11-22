@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8627 | label: meter | g:0.328 m:0.595 ---
+
+kṛtādau dvāparānte ca na preto naiva pīḍanam ।
+bahūnāmekajātānāmekaḥ saukhyaṃ samaśnute ।।

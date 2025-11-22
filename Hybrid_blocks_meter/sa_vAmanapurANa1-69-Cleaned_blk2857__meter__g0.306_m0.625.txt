@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2857 | label: meter | g:0.306 m:0.625 ---
+
+vinirgato bhārgāvavaṃśacandraḥ śukratvamāpadya mahānubhāvaḥ ।
+praṇamya śaṃbhuṃ sa jagāma tūrṇa mahāsurāṇāṃ balamuttamaujāḥ ।।

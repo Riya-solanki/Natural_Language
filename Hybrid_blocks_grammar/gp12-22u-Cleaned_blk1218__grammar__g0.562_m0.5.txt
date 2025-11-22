@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1218 | label: grammar | g:0.562 m:0.5 ---
+
+[] kṛṣṇaś ca kampa-sampadā padāravindaṃ sandadhad eva vaivaśya-vaśyatāṃ vindati sma ।

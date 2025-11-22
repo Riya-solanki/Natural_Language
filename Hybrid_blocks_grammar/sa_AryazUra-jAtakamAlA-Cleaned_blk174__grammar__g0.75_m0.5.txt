@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 174 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ cittaprasādodgataṃ pātrātiśayapratipāditaṃ ca nālpakaṃ nāma dānamasti vipākamahattvāditi prasannacittenānuttare puṇyakṣetra āryasaṃghe dānaṃ dadatā parā prītirutpādayitavyā । adūre mamāpyevaṃvidhā ato viśiṣṭatarāśca sampattaya iti ।

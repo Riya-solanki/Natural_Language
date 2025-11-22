@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 207 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha prācī-gata-dvitīya-prakoṣṭhād āgamya ramya-kumāraḥ kaścid ācaṣṭa, yaḥ khalv etad-artham eva pūrvaṃ visṛṣṭaḥ । "śrīman vraja-rāja-kumāra, śrīmad-vraja-rāja-sabhāyāṃ sarva eva parvaṇīha saṃvalitā vartante, kintu bhavad-yātrā-dvāra-mātrāvalokinaḥ । yāni ca sarvārādhana-dhanāni śrīmad-vraja-rāja-caraṇa-rājīva-parisarāya sajjitāni bhavad-visarjitāni tāmbūla-dukūlādīni, tāni cādhunāpi mūrdhānaṃ dhunānā nopayuñjate sma ।"

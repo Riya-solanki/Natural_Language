@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1822 | label: meter | g:0.25 m:0.625 ---
+
+padmahasta mahāhasta samāśvāsaka dāyaka ।
+buddhadharma mahābuddha buddhātmaka namo astu te ।।

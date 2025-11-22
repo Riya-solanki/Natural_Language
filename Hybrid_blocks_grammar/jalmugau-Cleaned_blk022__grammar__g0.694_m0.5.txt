@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 22 | label: grammar | g:0.694 m:0.5 ---
+
+kiṃ tat karma yad asta-śarma rasanā kiṃ sā na yāruṃtudā kiṃ tat prema yad asthiraṃ sa ca pumān kiṃ nāma yo nirguṇaḥ
+sā kiṃ śrīr upabhogam arhati na yā sevyaḥ sa kiṃ yo antaraṃ no jānāti tad asti kiṃ vilasitaṃ veśyāsu yat kṛtrimam ।।

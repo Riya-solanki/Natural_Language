@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 22 | label: grammar | g:0.75 m:0.5 ---
+
+atha bodhisattvaḥ sarvatathāgatānevamāha- "ājñātaṃ me bhagavantastathāgatāḥ svahṛdi candramaṇḍalākāraṃ paśyāmi" । sarvatathāgatāḥ procuḥ- "prakṛtiprabhāsvaramidaṃ kulaputra cittaṃ, tadyathā parikarṣyate tat tathaiva bhavati । tadyathāpi nāma śvetavastre rāgarañjanam" iti ।

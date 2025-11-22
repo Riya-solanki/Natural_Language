@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 663 | label: meter | g:0.194 m:0.5 ---
+
+brahmadatto abhavad rājā yas teṣāṃ saptamo dvijaḥ 
+pitṛvartīti vikhyāto nāmnā śīlena karmaṇā ।।

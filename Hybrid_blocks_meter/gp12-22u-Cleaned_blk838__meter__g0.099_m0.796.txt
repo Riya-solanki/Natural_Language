@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 838 | label: meter | g:0.099 m:0.796 ---
+
+tadā divi bhuvi sthitair vividha-vādya-gītādibhiḥ
+kṛta-stavatayā calan-mudita-gopa-vṛndair vṛtaḥ ।
+diviṣṭha-mahilā-jayi-prakaṭa-gīta-gopī-tati-
+sphurat-parama-sampadaṃ vrajam agād vrajeśātmajaḥ ।। [pṛthvī]

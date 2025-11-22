@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5181 | label: meter | g:0.25 m:0.5 ---
+
+mā vāsavaṃ mā ca gurum ātmāṇaṃ mā vapuṣtamām 
+gaccha doṣeṇa kālo hi sarvathā duratikramaḥ ।।

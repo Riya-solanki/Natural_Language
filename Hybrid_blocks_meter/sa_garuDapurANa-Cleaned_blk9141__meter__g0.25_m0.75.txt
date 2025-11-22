@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9141 | label: meter | g:0.25 m:0.75 ---
+
+sarvopahārayuktāni padānyatra trayodaśa ।
+yo dadāti mṛtasyeha jīvannapyātmahetave ।
+sa gacchati mahāmārge mahākaṣṭavivarjitaḥ ।।

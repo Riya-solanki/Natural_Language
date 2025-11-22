@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 44 | label: meter | g:0.107 m:0.902 ---
+
+atha sthairyam-
+vyāpāraṃ phala-paryantaṃ sthairym āhur manīṣiṇaḥ ।। athā-
+na navaḥ prabhur āphalodayāt
+sthira-karmā virarāma karmaṇaḥ ।
+na ca yoga-vidher navetaraḥ
+sthira-dhīrā paramātma-darśanāt ।।

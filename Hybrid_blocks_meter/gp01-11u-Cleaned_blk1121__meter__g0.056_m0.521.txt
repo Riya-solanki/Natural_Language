@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1121 | label: meter | g:0.056 m:0.521 ---
+
+vibhrad-veṇuṃ jaṭhara-paṭayoḥ śṛṅga-vetre ca kakṣe
+vāme pāṇau masṛṇa-kavalaṃ vyañjanāny aṅgalīṣu ।
+tiṣṭhan madhye priya-savayasāṃ hāsayan hāsitas tair
+divye loke kalayati mudā bhuktavān bāla-kṛṣṇaḥ ।। [mandākrāntā]

@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 27 | label: meter | g:0.306 m:0.625 ---
+
+dharmatvaṃ phalasaṃbandhāt padārthasyaiva yujyate ।
+tat kim ekasya sarveṣām iti yuktā vicāraṇā ।।

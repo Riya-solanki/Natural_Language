@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9293 | label: meter | g:0.25 m:0.5 ---
+
+pañcaitāni hi sṛjyante garbhasthasyaiva dehinaḥ ।
+karmaṇā jāyate jantuḥ karmaṇaiva pralīyate ।।

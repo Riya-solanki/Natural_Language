@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 958 | label: meter | g:0.25 m:0.5 ---
+
+liṅgaṃ pratyaṅmukhaṃ dṛṣṭvā siddhimāpnoti mānavaḥ ।
+tatraiva liṅgarūpeṇa sthitā devī sarasvatī ।।

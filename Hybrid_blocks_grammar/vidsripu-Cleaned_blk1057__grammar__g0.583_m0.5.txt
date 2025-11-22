@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1057 | label: grammar | g:0.583 m:0.5 ---
+
+dṛṣṭaṃ saṃgarasākṣibhir nigaditaṃ vaitālikaśreṇibhir nyastaṃ cetasi sajjanaiḥ sukavibhiḥ kāvyeṣu saṃcāritam ।
+utkīrṇaṃ kuśalaiḥ praśastiṣu sadā gītaṃ ca nākesadāṃ dārair ujjayanībhujaṅga bhavataś candrāvadātaṃ yaśaḥ ।।

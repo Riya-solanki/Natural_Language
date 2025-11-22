@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1407 | label: meter | g:0.139 m:0.5 ---
+
+yathā tatraiva cāraṇaḥ -kim āha rāmabhadraḥ । re re rākṣasa-putra-
+yad gaurī-caraṇābjayoḥ prathamatas tyakta-praṇāma-kriyaṃ
+premārdreṇa sa-vibhrameṇa ca purā yenekṣitā jānakī ।
+lūnaṃ te tad idaṃca rākṣasa-śiro jātaṃ ca śāntaṃ manaḥ
+śeṣa-ccheda-vidhis tu samprati paraṃ svar-vandin-mokṣāya me ।।

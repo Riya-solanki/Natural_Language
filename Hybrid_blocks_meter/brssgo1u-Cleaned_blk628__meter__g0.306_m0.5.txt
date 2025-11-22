@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 628 | label: meter | g:0.306 m:0.5 ---
+
+upāsyatvādalpatvamuktamiti vyākhyāya śrutyā nirastamityarthāntaramāha-śrutyaiva cedamiti ।
+evaṃ daharavākyaṃ prajāpativākyaṃ ca saguṇe nirguṇe ca samanvitamiti siddham ।।

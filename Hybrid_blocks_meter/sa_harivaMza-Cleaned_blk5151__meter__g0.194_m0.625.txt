@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5151 | label: meter | g:0.194 m:0.625 ---
+
+ity evam āśvāsayato rājānaṃ janamejayam 
+atītānāgataṃ vākyam ṛṣeḥ pariṣadā śrutam ।।

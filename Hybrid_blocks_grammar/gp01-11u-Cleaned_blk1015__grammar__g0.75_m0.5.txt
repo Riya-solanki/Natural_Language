@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1015 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad etad eva vrajarājaḥ sahajādibhir mantra-vidbhiḥ saha mantra-sahatayā vicārya, tantra-vidbhiḥ puṇya-dinam avadhārya, puṇyāha-vācanādikam api sañcārya tābhyāṃ go-bāla-pālanārambham ācārayāmbabhūva । [] tābhyām eva saha mahā-gopālā mahaṃ vidhāya manasi ca sukhaṃ nidhāya nija-nija-bālān vatsa-pālān kalayāmāsuḥ । yasya cādau jananī-janitena majjana-sajjanena bhojana-bhajanena vasana-vasanena sad-alaṅkaraṇa-dharaṇena vetra-netra-muralī-gavalānāṃ valanena ca bala-kṛṣṇau śobhāṃ lebhāte ।

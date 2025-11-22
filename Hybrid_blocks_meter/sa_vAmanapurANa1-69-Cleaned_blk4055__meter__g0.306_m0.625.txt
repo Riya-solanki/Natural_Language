@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4055 | label: meter | g:0.306 m:0.625 ---
+
+brahmeśāya namastubhyaṃ brahmāde brahmarūpadhṛk ।
+parabrahma namaste astu śabdabrahma namo astu te ।।

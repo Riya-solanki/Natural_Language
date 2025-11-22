@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 709 | label: meter | g:0.092 m:0.702 ---
+
+{tathābhūtāṃ dṛṣṭvā nṛpasadasi pāñcālatanayāṃ
+vane vyādhaiḥ sārdhaṃ suciramuṣitaṃ valkaladharaiḥ ।
+virāṭasyāvāse sthitamanucitārambhanibhṛtaṃ
+guruḥ khedaṃ khinne mayi bhajati nādyāpi kuruṣu ।।}

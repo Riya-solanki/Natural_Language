@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 565 | label: meter | g:0.307 m:0.623 ---
+
+jyeṣṭhāśramaṃ ca tatraiva sarvapātakanāśanam ।
+taṃ tu dṛṣṭvā naro muktiṃ saṃprayāti na saṃśayaḥ ।।

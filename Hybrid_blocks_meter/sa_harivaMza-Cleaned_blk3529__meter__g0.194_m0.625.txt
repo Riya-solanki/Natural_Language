@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3529 | label: meter | g:0.194 m:0.625 ---
+
+aho nṛparathodagrā vimalāś chatrapaṅktayaḥ 
+abhivartanti naḥ śubhrā yathā khe haṃsapaṅktayaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 579 | label: grammar | g:0.604 m:0.5 ---
+
+[] ṛṣir uvāca-tat-tat-kārya-jālataḥ kāla-kṣepaaṃ kṣepayaty api bhavati yāvat kaṃsa-pakṣa-lakṣa-vidhvaṃsanaṃ, yāvad-bhavat-putrādi-vicitra-sampad-gaṇaś ca sampatsyate ।

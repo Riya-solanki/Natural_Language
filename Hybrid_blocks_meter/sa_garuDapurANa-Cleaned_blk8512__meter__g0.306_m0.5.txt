@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8512 | label: meter | g:0.306 m:0.5 ---
+
+kiñcinnyūne tato varṣe sārdhe caikādaśe atha vā ।
+yāti śītapuraṃ tatra śītaṃ yatrātiduḥ khadam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5008 | label: meter | g:0.25 m:0.5 ---
+
+viṣṇos tu māthure kalpe yatra te saṃśayo mahān 
+vāsudevagatiś caiva sā mayā samudāhṛtā ।।

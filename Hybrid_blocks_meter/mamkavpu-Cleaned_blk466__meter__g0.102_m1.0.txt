@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 466 | label: meter | g:0.102 m:1.0 ---
+
+vāctavtañjyayoḥ niḥśeṣetyādau niṣedhavidhyātmanā
+{mātsaryamutsārya vicārya kāryamāryāḥ samaryādamudāharantu ।
+sevyānitambāḥ kimubhūdharāṇāmutasmarasmeravilāsinīnām ।।}

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1186 | label: hybrid | g:0.468 m:0.539 ---
+
+śrīdevyuvāca ।
+kule asmadīye śṛṇu daitya śulkaṃ kṛtaṃ hi yatpūrvataraiḥ prasahya ।
+yo jeṣyate asmatkulajāṃ raṇāgre tasyāḥ sa bharttāpi bhaviṣyatīti ।।

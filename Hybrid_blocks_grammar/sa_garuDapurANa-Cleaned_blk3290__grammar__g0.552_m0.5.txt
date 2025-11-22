@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3290 | label: grammar | g:0.552 m:0.5 ---
+
+brahmā yena kulālavanniyamito brahmāṇḍabhāṇḍodare viṣṇuryena daśāvatāragahane kṣipto mahāsaṅkaṭe ।
+rudroyena kapālapāṇipuṭake bhikṣāṭanaṃ kāritaḥ sūryo bhrāmyati nityameva gagane taramai namaḥ karṇaṇe ।।

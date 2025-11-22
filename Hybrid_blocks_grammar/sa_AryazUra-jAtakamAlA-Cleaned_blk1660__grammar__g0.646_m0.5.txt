@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1660 | label: grammar | g:0.646 m:0.5 ---
+
+atha sa rājā samabhinandya tattasya vacanaṃ sayaurajānapado dharmaparāyaṇo babhūva । abhayaṃ ca sarvamṛgapakṣiṇāṃ dattvān ।

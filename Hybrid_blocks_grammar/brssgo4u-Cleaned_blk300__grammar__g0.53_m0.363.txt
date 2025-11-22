@@ -1,0 +1,9 @@
+--- source: brssgo4u-Cleaned.txt | block: 300 | label: grammar | g:0.53 m:0.363 ---
+
+api ca aprajāpateḥ sabhāṃ veśma prapadye' iti na ayaṃ kāryaviṣayaḥ pratipatti abhisaṃdhiḥ anāmarūpayornirvahitā te yadantarā tadbrahma' iti kāryavilakṣaṇasya parasya eva brahmaṇaḥ prakṛtatvāt ।
+ayaśo ahaṃ bhavāmi brāhmaṇānām' iti ca sarvātmatvena upakramaṇāt ।
+ana tasya pratimā asti, yasya nāmamahadyaśaḥ' iti ca parasya eva brahmaṇo yaśonāmatva prasiddheḥ ।
+asā ceyaṃ veśmapratipattirgatipūrvikā hārdavidyāyāmuditā tadaparājitā pūrbrahmaṇaḥ prabhuvimitaṃ hiraṇmayam' iti atra ।
+paderapi ca gatyarthatvāt mārga apekṣā avasīyate ।
+tasmāt parabrahmaviṣayā gatiśrutaya iti pakṣāntaram ।
+tau etau dvau pakṣau ācāryeṇa sūtritau gati upapattyādibhiḥ

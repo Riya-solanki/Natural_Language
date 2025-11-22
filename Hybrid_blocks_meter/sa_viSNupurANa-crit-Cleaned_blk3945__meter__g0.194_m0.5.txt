@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3945 | label: meter | g:0.194 m:0.5 ---
+
+viparītāni dṛṣṭvā ca nimittāni sa pāṇḍavaḥ 
+yāte kṛṣṇe cakārātha so abhiṣekaṃ parīkṣitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1325 | label: meter | g:0.25 m:0.625 ---
+
+samantapañcakaṃ nāma dharmasthānamanuttamam ।
+ākamantād yojanāni pañca ca sarvataḥ ।।

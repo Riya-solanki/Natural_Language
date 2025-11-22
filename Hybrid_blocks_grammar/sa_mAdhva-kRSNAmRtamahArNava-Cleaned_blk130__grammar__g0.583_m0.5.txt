@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 130 | label: grammar | g:0.583 m:0.5 ---
+
+ekādaśyāṃ yadā brahman dinakṣayatithir bhavet upoṣyā dvādaśī tatra trayodaśyāṃ tu pāraṇam ।।

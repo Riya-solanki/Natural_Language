@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 24 | label: grammar | g:0.583 m:0.5 ---
+
+sādṛśaiḥ kiṃ na carvyeta bhavadbhaktimahauṣadhiḥ tādṛśī bhagavan yasyā mokṣākhyo anantaro rasaḥ ।।

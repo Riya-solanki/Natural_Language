@@ -1,0 +1,9 @@
+--- source: varlghku-Cleaned.txt | block: 485 | label: grammar | g:0.613 m:0.154 ---
+
+ekāca upadeśe anudāttāt ।।
+upadeśe yo dhāturekājanudāttaśca tata ārdhadhātukasyeṇna ।
+ūdṝdantairyautirukṣṇuśīṅsnunukṣuśviḍīṅśribhiḥ ।
+vṛṅvṛñbhyāṃ ca vinaikāco ajanteṣu nihatāḥ smṛtāḥ ।।
+kānteṣu śaklekaḥ । cānteṣu pacmucricvacvicsicaḥ ṣaṭ । chānteṣu pracchekaḥ । jānteṣu tyajnijirbhajbhañjbhujbhrasjmasjyajyujruj rañjvijirsvañjsañjsṛjaḥ pañcadaśa ।। dānteṣu adkṣudkhidchidtud nudpadyabhidvidyativinadvindśadsadsvidyaskandhadaḥ ṣoḍaśa । dhānteṣu krudhkṣudhbudhyabandhyudhrudhrādhvyadhsādhśudhsidhyā ekādaśa । nānteṣu manyahanī dvau । pānteṣu āpchupkṣiptaptiptṛpyadṛpyalipalupvapśapsvap sṛpastrayodaśa । bhānteṣu yabhrabhlabhastrayaḥ । mānteṣu gamyamnamramaścatvāraḥ । śānteṣu kraśdaṃśdiśdṛśmṛśriśruśliśviśspṛśo daśa । ṣānteṣu kṛṣ tviṣtuṣdviṣpuṣyapiṣviṣśiṣśuṣśliṣyā ekādaśa ।। sānteṣu ghasvasatī dvau । hānteṣu dahdihduhnahmihruhlihvaho aṣṭau ।
+anudāttā halanteṣu dhātavastryadhikaṃ śatam ।
+gopāyāñcakartha । gopāyāñcakra । gopāyāñcakara । gopāyāñcakṛma । gopāyāmbabhūva, gopāyāmāsa । jugopa । jugupuḥ ।।

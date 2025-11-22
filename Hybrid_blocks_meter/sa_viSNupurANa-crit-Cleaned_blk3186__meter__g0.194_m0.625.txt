@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3186 | label: meter | g:0.194 m:0.625 ---
+
+tam ūcuḥ sakalā devāḥ praṇipātapuraḥsaram 
+prasīda deva daityebhyas trāhīti śaraṇārthinaḥ ।।

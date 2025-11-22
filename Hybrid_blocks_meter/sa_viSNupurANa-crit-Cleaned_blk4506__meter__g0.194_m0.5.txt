@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4506 | label: meter | g:0.194 m:0.5 ---
+
+kṛṣṇa kṛṣṇa śṛṇuṣvedaṃ yadartham aham āgataḥ 
+tvatsamīpaṃ mahābhāga naitac cintyaṃ tvayānyathā ।।

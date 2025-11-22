@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4140 | label: meter | g:0.194 m:0.625 ---
+
+tathāpi khalu duṣṭānāṃ teṣām abhyadhikaṃ mayā 
+apakārāya daityendrā yatanīyaṃ durātmanām ।।

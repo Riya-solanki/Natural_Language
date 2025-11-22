@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3341 | label: hybrid | g:0.521 m:0.5 ---
+
+triviṣṭapaṃ śāsati dānavendre nāsīn kṣudhārto malino na dīnaḥ ।
+sadojjvalo dharmarato atha dāntaḥ kāmopabhoktā manujo api jātaḥ ।।

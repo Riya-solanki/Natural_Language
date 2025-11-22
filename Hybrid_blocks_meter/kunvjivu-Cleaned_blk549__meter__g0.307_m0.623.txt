@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 549 | label: meter | g:0.307 m:0.623 ---
+
+tasyāpareṣvapi mṛgeṣu śarānmumukṣoḥ karṇāntametya bibhide nibiḍo api muṣṭiḥ ।
+trāsātimātracaṭulaiḥ smarayatsu netraiḥ prauḍhapriyānayanavibhramaceṣṭitāni ।।

@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 390 | label: meter | g:0.135 m:0.549 ---
+
+{niṣkrāntā}
+{tataḥ praviśati kāñcukīyaḥ dhātrī pratīhārī ca }
+{kāñcukīyaḥ} - bhoḥ

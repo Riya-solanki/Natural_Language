@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 167 | label: hybrid | g:0.468 m:0.487 ---
+
+manvīran ।
+te tu yathārthatāmevaitasya manvānaḥ prāmāṇyamabhrāntatvaṃ ca manyante ।
+yetvayathārthatāṃ jānanti te naiva prāmāṇyaṃ manyante, nāpyabhrāntatām, tasmānnāsti virodhaḥ ।।

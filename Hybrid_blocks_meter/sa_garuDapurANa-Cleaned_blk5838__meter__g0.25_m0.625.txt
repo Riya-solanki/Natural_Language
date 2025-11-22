@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5838 | label: meter | g:0.25 m:0.625 ---
+
+ātmārāmāya śāntāya nivṛttadvaitadṛṣṭaye ।
+tvadrūpāṇi ca sarvāṇi tasmāttubhyaṃ namo namaḥ ।।

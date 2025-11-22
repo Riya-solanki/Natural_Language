@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 819 | label: grammar | g:0.75 m:0.5 ---
+
+[] sā tatra gardhenārdhe tena pīte dhanye stanye netrānantara-gṛhāntara-santāpyamāna-payaḥ-santānānām utsekaṃ prati nirvivekatāṃ pratipadya sadya eva taṃ vihāya yad-drutavatī, drava-gamane tasya patana-bhītyā ca na taṃ gṛhītvā gatavatī ।

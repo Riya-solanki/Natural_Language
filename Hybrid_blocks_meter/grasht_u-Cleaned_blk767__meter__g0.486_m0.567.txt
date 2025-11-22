@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 767 | label: meter | g:0.486 m:0.567 ---
+
+pūrvoktaguṇānāha saratītyādi ।।
+pūrvavidhānā sūtaḥ sarati sāritaḥ sūto mukhaṃ na dahati hastapādādi ca aṅgavibhāgaṃ naiva dahati ।।
+punaḥ phaṇiyogāt nāgasaṃyogataḥ mākṣikayutahemagairikayā saha tāpyamilitasvarṇagairikayā sārdhaṃ krāmati ।।

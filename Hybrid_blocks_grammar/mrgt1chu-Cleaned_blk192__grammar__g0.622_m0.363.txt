@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 192 | label: grammar | g:0.622 m:0.363 ---
+
+ityante bhogasādhanaṃ tanukaraṇabhuvanādi upasaṃhṛtya kāraṇe māyākhye līnaṃ kṛtvā tac ca māyākhyaṃ kāraṇam antarnihitātmavrātamadhiṣṭhāya saṃsāriṇāṃ bhavādhvabhramaṇaśrāntānāṃ viśramārtham avatiṣṭhate niruddhavyāpārāṃs tāṃs tān karotītyarthaḥ ।। 
+kuta ityāha sarvabhūtahito yataḥ yasmāt sarveṣāṃ bhūtānāṃ hitāya pravṛttaḥ parameśvaraḥ khedāpanodāya viśrāntiṃ svāpalakṣaṇāmeṣāṃ karoti ।। 
+tatastu ।।

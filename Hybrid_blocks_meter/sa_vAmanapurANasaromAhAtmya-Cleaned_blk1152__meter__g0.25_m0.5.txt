@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1152 | label: meter | g:0.25 m:0.5 ---
+
+yaṃ vinidrā jitaśvāsāḥ sattvasthāḥ saṃyatendriyāḥ ।
+jyotiḥ paśyanti yuñjānāstasmai yogātmane namaḥ ।।

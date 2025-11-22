@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1047 | label: grammar | g:0.706 m:0.375 ---
+
+halantātsaptamyāḥ saṃjñāyām ।।
+halantādadantācca saptamyā aluk । prāptamudakaṃ yaṃ sa prāptodako grāmaḥ । upahṛtapaśū rudraḥ । uddhṛtaudanā sthālī । pītāmbaro hariḥ । vīrapuruṣako grāmaḥ । । prapatitaparṇaḥ, praparṇaḥ । avidyamānaputraḥ, aputraḥ ।।

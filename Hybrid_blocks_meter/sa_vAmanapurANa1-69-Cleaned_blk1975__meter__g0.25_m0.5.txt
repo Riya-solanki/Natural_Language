@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1975 | label: meter | g:0.25 m:0.5 ---
+
+piṅgalo daṇḍamudyāmya yatra yatra pradhāvati ।
+tatra tatra pradṛśyante rāśayaḥ śāvadānavaiḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 203 | label: grammar | g:0.625 m:0.5 ---
+
+atra tṛtīyapāde dvitīyavarṇasya saṃyogapūrvatvādgurutvena chandovaikalye api prākṛtādiṣu saṃyuktavarṇānāṃ hvāṇvākāralpakāradīnāṃ tīvraprayatnoccāraṇena pūrvalaghutvaṃ kaiścidiṣṭamiti guṇatvam ।

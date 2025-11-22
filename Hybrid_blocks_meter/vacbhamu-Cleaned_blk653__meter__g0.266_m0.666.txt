@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 653 | label: meter | g:0.266 m:0.666 ---
+
+siddhāntyekadeśī sūtreṇa svābhiprāyamāviṣkaroti- gauṇyasaṃbhavāt ।
+pramāṇāntaravirodhena bahuśrutyantaravirodhena cākāśotpattyasaṃbhavādgauṇyeṣākāśotpattiśrutirityavirodha ityarthaḥ ।
+pramāṇāntaravirodhamāha- na hyākāśasyeti ।
+samavāṭyasamavāyinimittakāraṇebhyo hi kāryasyotpattirniyatā tadabhāve na bhavitumarhati dhūma iva dhūmadhvajābhāve ।

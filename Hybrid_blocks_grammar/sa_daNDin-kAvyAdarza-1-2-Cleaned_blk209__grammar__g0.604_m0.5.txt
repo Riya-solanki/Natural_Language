@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 209 | label: grammar | g:0.604 m:0.5 ---
+
+ityādidīpakāny uktāny evaṃ madhyāntayor api vākyayor darśayiṣyāmaḥ kāni cit tāni tad yathā ।।

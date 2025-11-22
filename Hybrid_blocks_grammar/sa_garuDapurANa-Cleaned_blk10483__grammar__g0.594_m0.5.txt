@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10483 | label: grammar | g:0.594 m:0.5 ---
+
+eteṣu śaktiryadi vai sa jīvo kartā ca bhoktā ca sadā ca dātā ।
+yoṣāṃ ca putrasuhṛdau ca paśūṃśca sarvamevaṃ vinaśyati yato hi tadāśu chindhi ।।

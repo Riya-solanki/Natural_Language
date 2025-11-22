@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 28 | label: grammar | g:0.75 m:0.5 ---
+
+jñānaṃ buddhiḥ । sā jaḍāpi yathā viṣayarūpachāyāṃ dhatte tathātmano api caitanyachāyām, ato asav arthaprakāśas tathā ca tasyāś citsvarūpatā syāt । evaṃ jñānaṃ sad api nānyasya saṃbandhi, anupapatteḥ । kriyā tu na svarūpeṇāsti nānyasaṃbandhitayā ।।

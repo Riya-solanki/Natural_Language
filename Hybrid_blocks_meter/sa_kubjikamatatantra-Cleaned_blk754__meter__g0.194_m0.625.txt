@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 754 | label: meter | g:0.194 m:0.625 ---
+
+prathamaṃ saptamaṃ jñeyaṃ dvitīyasya dvitīyakam 
+aṣṭamam uddhṛtam bījaṃ navamaṃ bha-ña-madhyagam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5831 | label: meter | g:0.194 m:0.625 ---
+
+vyāsavākyaṃ ca te sarve śrutvārjunasamīritam 
+rājye parīkṣitaṃ kṛtvā yayuḥ pāṇḍusutā vanam ।।

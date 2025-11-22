@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 610 | label: meter | g:0.276 m:0.579 ---
+
+FN samyakprasīdatyasmiñjīvo viṣayendriyasaṃyogajanitaṃ kāluṣyaṃ jahātīti suṣuptiḥ saṃprasādo jīvasyāvasthābhedaḥ ।
+asaṃprasāde ratvā caritvā' iti bṛhadāraṇyakasthaṃ śrutyantaram ।
+upādhidharmāḥ pāpmādayaḥ ।

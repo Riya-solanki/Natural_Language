@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 446 | label: hybrid | g:0.5 m:0.5 ---
+
+atra rāmabhadra-sahavāsena parihṛta-dhīroddhata-vikārasya jāmadagnyasya dhīra-śāntāvasthā-parigrahāt saṅkṣiptir iti ।

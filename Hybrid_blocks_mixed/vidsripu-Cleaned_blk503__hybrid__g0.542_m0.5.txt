@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 503 | label: hybrid | g:0.542 m:0.5 ---
+
+bisakavalanalilāmagnapūrvārdhakāyaṃ kamalam iti gṛhītaṃ haṃsam āśu tyajantyāḥ ।
+viratacaritatārasphāranetraṃ yad asyāś cakitam iha na dṛṣṭaṃ mūḍha tad vañcito asi ।।

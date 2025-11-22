@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2845 | label: meter | g:0.328 m:0.595 ---
+
+brahmavettā ca tebhyo api pātraṃ vidyāttapo anvitāḥ ।
+gobhūdhānyahiraṇyādi pātre dātavyamarcitam ।।

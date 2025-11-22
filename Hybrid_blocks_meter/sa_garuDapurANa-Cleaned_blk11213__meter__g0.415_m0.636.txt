@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11213 | label: meter | g:0.415 m:0.636 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+yā pūrvasarge nalasaṃjñasya vīndra putrī bhūtvā viṣṇupatnī sakāmā ।
+pradakṣiṇaṃ bhramaṇaṃ vai cakāra guṇena bhadrā bhadrasaṃjñā babhūva ।।

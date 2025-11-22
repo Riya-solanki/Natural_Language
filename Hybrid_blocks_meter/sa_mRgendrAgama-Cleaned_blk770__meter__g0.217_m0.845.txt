@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 770 | label: meter | g:0.217 m:0.845 ---
+
+vyatīte kṣetrapālāya svāhetyoṃkārapūrvakam 
+baliṃ ca nairṛte dadyād gandhadhūpapuraḥsaram ।।

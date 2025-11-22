@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 1164 | label: grammar | g:0.584 m:0.332 ---
+
+atrādhigamapratyāśāsaṃbhāvitapadmāvatīpāṇipīḍasyānaṅkuritamanorathaleśasyāpi tatkālakandalitautsukyaparavaśīkṛtāntaḥ karaṇavṛtterunmādyata iva prāptāmeva pradyotarājaputrīṃ rājñaḥ prasādasamayasamucitaprakāra karuṇasyāvatārayati ।
+tatraivāṅke
+kiṃ prāṇā na mayā tavānugamanaṃ kartuṃ samutsāhitā baddhā kiṃ na jaṭā na vā praruditaṃ bhrāntaṃ vane nirjane ।
+tvatsaṃprāptivilobhanena punarapyūnena pāpena kiṃ kiṅkṛtvā kupitā yadadya na vacastvaṃ me dadāsi priye ।।

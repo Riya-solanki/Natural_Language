@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 298 | label: grammar | g:0.604 m:0.5 ---
+
+tatastathaivotthāya vajrāṃjalibandhena śirasā mukhena praṇamedanena mantreṇa oṃ sarvatathāgatapūjāpravartanāyātmānaṃ niryātayāmi sarvatathāgatavajradharma pravartaya mām ।।

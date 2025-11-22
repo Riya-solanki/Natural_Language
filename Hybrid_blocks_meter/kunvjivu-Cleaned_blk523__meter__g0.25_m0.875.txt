@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 523 | label: meter | g:0.25 m:0.875 ---
+
+yatra kārakasāmānyaṃ prādhānyena nibadhyate ।
+tattvādhyāropaṇānmukhyaguṇabhāvābhidhānataḥ ।।
+paripoṣayituṃ kāñcid bhaṅgībhaṇitiramyatām ।
+kārakāṇāṃ viparyāsaḥ soktā kārakavakratā ।।

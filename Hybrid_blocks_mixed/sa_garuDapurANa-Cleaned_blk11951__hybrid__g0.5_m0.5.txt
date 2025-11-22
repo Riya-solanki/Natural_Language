@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11951 | label: hybrid | g:0.5 m:0.5 ---
+
+saṃjānātītyeva saṃjñāmavāpa saṃjñeti loke sūrya bhāryā khagendra ।
+brahmaṇḍasya hyabhimānī tu devo virāḍiti hyabhidhāmāpa tena ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 813 | label: meter | g:0.306 m:0.5 ---
+
+sanatkumāraḥ sanakaḥ sanandanaḥ sanātano apyāsuripiṅgalau ca ।
+sapta svarāḥ sapta rasātalāśca kurvantu sarve mama suprabhātam ।।

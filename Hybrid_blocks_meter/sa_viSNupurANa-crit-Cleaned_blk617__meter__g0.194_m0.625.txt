@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 617 | label: meter | g:0.194 m:0.625 ---
+
+sapatnī tanayaṃ dṛṣṭvā tam aṅkārohaṇotsukam 
+svaputraṃ ca tathārūḍhaṃ surucir vākyam abravīt ।।

@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 937 | label: hybrid | g:0.433 m:0.46 ---
+
+atha bhakṣaṇavidhānamāha itītyādi ।।
+rasarājasya vidhau rasendrakarmavidhāne vedhavidhānaṃ prasaṅgataḥ prastāvataḥ proktaṃ na tu svaprajñāsamam ।।
+adhunā proktānapi api śabdādanubhūtānapi rasāyane jarāvyādhināśanavidhau yogān dravyasamudāyātkān vakṣyāmi kathayāmītyarthaḥ ।।

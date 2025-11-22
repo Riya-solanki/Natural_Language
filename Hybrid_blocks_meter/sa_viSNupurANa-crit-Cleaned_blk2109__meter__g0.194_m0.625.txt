@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2109 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ sā sāttvikī śaktir vaiṣṇavī yā trayīmayī 
+ātmasaptagaṇasthaṃ taṃ bhāsvantam adhitiṣṭhati ।।

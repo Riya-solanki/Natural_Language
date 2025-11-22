@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 511 | label: meter | g:0.251 m:0.623 ---
+
+tejaso bhavatāṃ devāḥ kariṣyāmy upabṛṃhaṇam 
+vadāmy ahaṃ yat kriyatāṃ bhavadbhis tad idaṃ surāḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 914 | label: grammar | g:0.552 m:0.5 ---
+
+utsarpaddhūmalekhātviṣi tamasi manāg visphuliṅgāyamānair udbhedais tārakāṇāṃ viyati parigate paścimāśām upetā ।
+khedenevānatāsu skhaladalirasanāsv abjinīpreyasīṣu prāyaḥ sandhyātapāgniṃ viśati dinapatau dahyate vāsaraśrīḥ ।।

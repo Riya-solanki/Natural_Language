@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 260 | label: meter | g:0.229 m:0.552 ---
+
+atha dhairyam-
+sthirā cittonnatir yā tu tad dhairyam iti saṃjñitam ।। athā-
+atha viśvātmane gaurī sandideśa mithaḥ sakhīm ।
+dātā me bhūtbhṛtāṃ nāthaḥ pramāṇīkriyatām iti ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7391 | label: meter | g:0.25 m:0.625 ---
+
+duḥ khasya hetubhūtāni pāpakarmakṛtāṃ nṛṇām ।
+cakreṣvāropitāḥ kecidbhāmyante tatra mānavāḥ ।।

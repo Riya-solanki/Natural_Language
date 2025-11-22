@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 260 | label: grammar | g:0.75 m:0.5 ---
+
+yena kalpena bhavān samānadharmopapatteḥ saṃśaya iti manyate tena khalv atyantasaṃśayaḥ prasajyate samānadharmopapatteranucchedāt saṃśayānucchedaḥ nāyamataddharmā dharmī vimṛśyamāno gṛhyate satataṃ tu taddharmā bhavatīti ।।

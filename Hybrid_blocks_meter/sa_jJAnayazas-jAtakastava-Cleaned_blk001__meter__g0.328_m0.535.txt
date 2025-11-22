@@ -1,0 +1,5 @@
+--- source: sa_jJAnayazas-jAtakastava-Cleaned.txt | block: 1 | label: meter | g:0.328 m:0.535 ---
+
+Jñānayaśas Jātakastava
+kvedaṃ dāśabalaṃ guṇair aśabalaṃ caryāvibhutvaṃ vibho janmasyandanikāvivartanajaḍaṃ cetaḥ kva cedaṃ mama 
+yenāvandhyaphalodayās tvayi bhavanty abhyāhitāḥ pāṃsavas tena stutyanubandhinā mukharatām ālambate bhāratī ।।

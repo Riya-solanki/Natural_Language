@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 477 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha prabhāte sabhātejasā prabhāte parama-prabhāvavatāṃ gomatāṃ prabhāv upaviṣṭe kṛṣṇa-viśiṣṭe tasmin sadasi pūrvavan madhukaṇṭhaś ca kathāyāṃ yathāvad upakramate smasnigdhakaṇṭha! madupakaṇṭhatayā rāma-vikramāntaram ākarṇyatām, yathā-

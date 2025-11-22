@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4550 | label: meter | g:0.25 m:0.625 ---
+
+āpadbhujaṅgadaṣṭasya mantrahīnasya sarvadā ।
+vṛddhavākyaiṣadhā nūnaṃ kurvanti kila nirviṣam ।।

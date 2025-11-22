@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 589 | label: hybrid | g:0.514 m:0.396 ---
+
+evaṃvidhaviṣaye svābhāvikasaukumāryaprādhānyena varṇyamānasya vastunastadācchādanabhayādeva na bhūyasā tatkavibhiralaṅkaraṇamupanibadhyate ।
+yadi vā kadācidupanibadhyate tattadeva svābhāvikaṃ saukumāryaṃ sutarāṃ samunmīlayitum, na punaralaṅkāravaicitryopapattaye ।
+yathā

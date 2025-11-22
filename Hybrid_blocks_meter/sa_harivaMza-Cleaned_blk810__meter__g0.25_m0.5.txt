@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 810 | label: meter | g:0.25 m:0.5 ---
+
+tatas te tat saraḥ smṛtvā yogaṃ tam upalabhya ca 
+brāḥmaṇaṃ vipulair arthair bhogaiś ca samayojayan ।।

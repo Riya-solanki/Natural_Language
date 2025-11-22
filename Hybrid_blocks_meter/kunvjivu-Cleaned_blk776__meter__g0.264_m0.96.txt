@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 776 | label: meter | g:0.264 m:0.96 ---
+
+upacāraikasarvasvaṃ sāmyamudvahan ।
+yadarpayati rūpaṃ svaṃ vastu tadrupakaṃ viduḥ ।।
+varṇanīyasya vicchitteḥ kāraṇaṃ ।
+samastavastuviṣayamekadeśavivarti ca ।।

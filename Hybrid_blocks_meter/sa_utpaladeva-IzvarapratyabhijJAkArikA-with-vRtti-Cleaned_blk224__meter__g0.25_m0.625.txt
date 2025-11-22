@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 224 | label: meter | g:0.25 m:0.625 ---
+
+idam etādṛgityevaṃ yad vaśād vyavatiṣṭhate 
+vastu pramāṇaṃ tat so api svābhāso abhinavodayaḥ ।।

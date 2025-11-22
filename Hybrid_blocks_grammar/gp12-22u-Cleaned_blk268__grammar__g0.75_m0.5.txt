@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 268 | label: grammar | g:0.75 m:0.5 ---
+
+[] vrajarājas tu tad ākarṇyam ākarṇya sa-niśvāsam idaṃ vivarṇatayā varṇitavān, asmābhiḥ sva-putrāya sarvathā na te sambandhāḥ sandhātavyāḥ, kintu yūyam apīdaṃ vidāṃkurute । yat khalu yuṣmākam apatyāni yuṣmākam ivāsmākaṃ sneha-sātatya-vahāni samudvāhayitavyāni ca, tasmād asmābhir eva tatra tatra satrā-kurvadbhiḥ prayatanīyam ।

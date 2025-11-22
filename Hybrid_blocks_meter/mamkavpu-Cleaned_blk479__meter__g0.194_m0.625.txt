@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 479 | label: meter | g:0.194 m:0.625 ---
+
+{viparī-ara-e lacchī bamhaṃ daṭaṭhūṇa ṇāhikamalaṭṭhaṃ ।
+hariṇo dāhiṇaṇa-aṇaṃ rasā-ulā jhatti ḍhakke-i ।।}
+[viparītarate lakṣmīrvrahmāṇaṃ dṛṣṭvā nābhikamalastham ।
+harerdakṣiṇanayanaṃ rasākulā jhaṭiti sthagayati ।।]

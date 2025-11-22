@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1511 | label: grammar | g:0.75 m:0.5 ---
+
+yathā mālavikāgnimitre, rājā-na khalu mudrām adhikṛtya bravīmi । etayor baddhayoḥ kiṃ-nimitto mokṣaḥ । kiṃ devyāḥ parijanam atikramya bhavān sandiṣṭaḥ ity evam anayā praṣṭavyam ।

@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 99 | label: meter | g:0.25 m:0.823 ---
+
+tatha pīṭhamardaḥ-
+nāyakānucaro bhaktaḥ kiñcid ūnaś ca tad-guṇaiḥ । 
+pīṭhamarda iti khyātaḥ kupita-strī-prasādakaḥ ।।
+kāma-tantra-kalā-vedī viṭa ity abhidhīyate । 
+sandhāna-kuśalaś ceṭaḥ kalahaṃsādiko mataḥ ।
+vikṛtāṅga-vaco-veṣair hāsya-kārī vidūṣakaḥ ।।

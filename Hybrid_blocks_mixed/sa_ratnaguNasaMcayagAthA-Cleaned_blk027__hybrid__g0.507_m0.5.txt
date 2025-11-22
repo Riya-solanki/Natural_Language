@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 27 | label: hybrid | g:0.507 m:0.5 ---
+
+na ca labhyate ya vrajate diśa āruhitvā nirvāṇaokagamanaṃ gati nopalabdhiḥ 
+yatha agni nirvṛtu na tasya gatipracāro so tena nirvṛti pravucyati kāraṇena ।।

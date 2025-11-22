@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 56 | label: meter | g:0.306 m:0.5 ---
+
+naiva hy anubhavo bhāti smṛtau pūrvo arthavat pṛthak ।
+prāg anvabhūvam aham ity ātmārohaṇabhāsanāt ।।

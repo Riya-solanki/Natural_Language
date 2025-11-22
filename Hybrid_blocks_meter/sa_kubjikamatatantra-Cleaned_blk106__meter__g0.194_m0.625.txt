@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 106 | label: meter | g:0.194 m:0.625 ---
+
+vāmano harṣaṇaś caiva siṃhavaktro mahābalaḥ 
+mahākālaikavīraś ca bhairavaś ca pracaṇḍakaḥ ।।

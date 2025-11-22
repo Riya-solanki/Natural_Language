@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1547 | label: grammar | g:0.646 m:0.5 ---
+
+vayam akuśalāḥ karṇopānte niveśayituṃ mukhaṃ kṛtakacaritair bhartuś ceto na vañcayituṃ kṣamāḥ ।
+priyam api vaco mithyā vaktuṃ jaḍair na ca śikṣitaṃ ka iva hi guṇo yo asmān kuryān nareśvaravallabhān ।।

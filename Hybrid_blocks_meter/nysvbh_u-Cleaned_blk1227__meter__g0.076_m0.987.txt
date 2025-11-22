@@ -1,0 +1,9 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1227 | label: meter | g:0.076 m:0.987 ---
+
+kāryadravyaṃ kāraṇadravyāśritaṃ tatkāraṇebhyaḥ
+pṛthaṅ nopalabhyate viparyaye pṛthak grahaṇāt
+yatrāśrayāśritabhāvo nāsti tatra pṛthag
+grahaṇamiti, buddhyā vivecanāttu bhāvānāṃ
+pṛthag grahaṇam ।
+atīndriyeṣvaṇuṣu yadindriyeṇa gṛhyate tadetayā
+buddhyā vivicyamānamanyaditi ।।

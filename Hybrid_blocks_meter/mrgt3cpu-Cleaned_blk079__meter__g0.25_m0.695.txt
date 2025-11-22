@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 79 | label: meter | g:0.25 m:0.695 ---
+
+śaivānāṃ kāmikaṃ pūrvaṃ yogodbhavamacintyakam ।
+kāraṇaṃ jñānamajitaṃ dīptākhyaṃ sūkṣmakaṃ param ।
+sāhasramaṃśumatsaṃjñaṃ suprabhiddaśamaṃ viduḥ ।

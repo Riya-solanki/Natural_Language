@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 390 | label: meter | g:0.194 m:0.5 ---
+
+udbhave śuddham ity ukto viśleṣe dvandvajaḥ smṛtaḥ 
+saṅkīrṇe layasaṃsthā hi upadeśas tridhā smṛtaḥ ।।

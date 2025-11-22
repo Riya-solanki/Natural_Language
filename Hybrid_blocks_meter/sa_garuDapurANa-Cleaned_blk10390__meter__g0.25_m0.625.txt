@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10390 | label: meter | g:0.25 m:0.625 ---
+
+dyāvā pṛthivyau vijñeyau ete ca ṣaḍaśītayaḥ ।
+devāḥ prajajñire sarve nāsikadriyamāninaḥ ।।

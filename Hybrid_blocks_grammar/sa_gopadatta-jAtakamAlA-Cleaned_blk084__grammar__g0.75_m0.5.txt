@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 84 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa mahātmā taṃ rājānaṃ saṃvignamānasam avetya pātram ayaṃ śreyasa iti vinirdhāryovāca । tena hi mahārāja tam eva bhagavantaṃ vinipāta janāvalambavatsalam apā tyaktasakalasattvadhātum akhilajagaddhitādhānāmlānaprayogam aparimitaviśuddhodārātiśayaguṇagaṇaratnādhivāsaṃ mahākāruṇikaṃ sarvajñaṃ sarvadarśanaṃ śākyamuniṃ śaraṇam upaihi । tata eva te duḥkhaparaṃparāparyanto bhaviṣyati ।

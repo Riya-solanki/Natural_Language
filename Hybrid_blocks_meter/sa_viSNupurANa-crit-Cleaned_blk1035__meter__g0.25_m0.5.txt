@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1035 | label: meter | g:0.25 m:0.5 ---
+
+kāniṣṭhyaṃ jyaiṣṭhyam apy eṣāṃ pūrvaṃ nābhūd dvijottama 
+tapa eva garīyo abhūt prabhāvaś caiva kāraṇam ।।

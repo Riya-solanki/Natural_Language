@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1684 | label: meter | g:0.25 m:0.75 ---
+
+sarvavajrakulānāṃ tu vāmavajrāgrasaṃgraham ।
+mudrābandhaṃ pravakṣyāmi samayānāṃ yathāvidhi ।।

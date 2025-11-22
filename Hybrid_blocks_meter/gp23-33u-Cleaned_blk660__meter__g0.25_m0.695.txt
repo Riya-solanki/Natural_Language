@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 660 | label: meter | g:0.25 m:0.695 ---
+
+yathārtha-nāmnā sāmnātā mitravindā sva-bandhubhiḥ ।
+sva-mitraṃ vindamānā yā tad-amitrān nirākarot ।।
+[] bhadrām anu varṇayiṣyanti-

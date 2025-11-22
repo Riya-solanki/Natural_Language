@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1787 | label: meter | g:0.25 m:0.5 ---
+
+ṛkṣaiḥ saha yathāyogaṃ kālaṃ caratu candramāḥ 
+abdaṃ hy ṛtumukhaṃ sūryo bhajatām ayanaiḥ saha ।।

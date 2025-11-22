@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 31 | label: hybrid | g:0.327 m:0.491 ---
+
+syādetat ।
+advā pūrvapratītimātramupayujyate ārope, na tu pratīyamānasya paramārthasattā ।
+pratītireva tu atyantāsato gaganakamalinīkalpasya dehendriyādeḥ nopapadyate ।
+prakāśamānatvameva hi cidātmano api sattvaṃ na tu tadatiriktaṃ sattāsāmānyasamavāyor'thakriyākāritā vā dvaitāpatteḥ ।
+sattāyāścārthakriyākāritāyāśca sattāntarārthakriyākāritāntarakalpane anavasthāpātāt prakāśamānataiva sattā abhyupetavyā ।
+tathā ca dehādayaḥ prakāśamānatvānnāsantaḥ cidātmavat, asattve vā na prakāśamānāḥ; tatkathaṃ satyānṛtayormithunībhāvaḥ ?

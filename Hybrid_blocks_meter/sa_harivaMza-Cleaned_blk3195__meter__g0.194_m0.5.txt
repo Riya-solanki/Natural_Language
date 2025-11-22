@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3195 | label: meter | g:0.194 m:0.5 ---
+
+vayaṃ hi deśātithayo mallāḥ prāptā varānane 
+draṣṭuṃ dhanurmahaṃ divyaṃ rāṣṭraṃ caiva maharddhimat ।।

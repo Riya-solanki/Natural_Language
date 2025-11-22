@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 800 | label: grammar | g:0.562 m:0.5 ---
+
+indurlipta ivāñjanena jaḍitā dṛṣṭirmṛgīṇāmiva pramlānāruṇimeva vidrumalatā śyāmeva hemaprabhā ।
+kārkaśyaṃ kalayā ca kokilavadhūkaṇṭheṣviva prastutaṃ sītāyāḥ purataśca hanta śikhināṃ barhāḥ saharhā iva ।।

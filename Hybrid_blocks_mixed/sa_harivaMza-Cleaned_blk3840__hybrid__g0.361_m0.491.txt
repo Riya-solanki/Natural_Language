@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3840 | label: hybrid | g:0.361 m:0.491 ---
+
+evaṃ sa divyair bhaumaiś ca jalajaiś cāvyayo hariḥ 
+dravyairalaṃkaroti sma purīṃ svāṃ pramadām iva ।। 
+śuśubhe sā purī ramyā ratnajālasamākulā । nānāpakṣisamākīrṇā prāsādair upaśobhitā । 
+maryādāś caiva saṃcakre śreṇīḥ prakṛtayas tathā 
+balādhyakṣāṃś ca yuktāṃś ca prakṛtīśāṃs tathaiva ca ।।

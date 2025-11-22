@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1731 | label: meter | g:0.0 m:0.5 ---
+
+{gaṅgeva pravahatu te sadaiva kīrtiḥ ।।}

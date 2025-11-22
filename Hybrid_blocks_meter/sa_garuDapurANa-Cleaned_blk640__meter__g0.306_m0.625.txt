@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 640 | label: meter | g:0.306 m:0.625 ---
+
+aṣṭavargaṃ cāṣṭamaṃ ca khyātamīśānapatrake ।
+oṃ kāro brahma bījaṃ syāddhrīṅkāro viṣṇureva ca ।।

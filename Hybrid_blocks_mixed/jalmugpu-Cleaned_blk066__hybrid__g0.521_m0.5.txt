@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 66 | label: hybrid | g:0.521 m:0.5 ---
+
+vidyābhyāsaparamparāparicayair bālyaṃ kṛtārthīkṛtaṃ tāruṇyaṃ taruṇīnirantaraparīrambhaiś ca saṃbhāvitam ।
+asmākaṃ surasindhurodhasi punaḥ śaṃbhāvadaṃbhārcanair vṛddhatvasya viśuddhatāṃ janayituṃ kartavyaśeṣaḥ sthitaḥ ।।

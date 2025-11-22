@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 60 | label: hybrid | g:0.5 m:0.5 ---
+
+krodhaḥ katamaḥ । vartaṃmānamapakāramāgamya yā cetasa āghātacetanā ।।

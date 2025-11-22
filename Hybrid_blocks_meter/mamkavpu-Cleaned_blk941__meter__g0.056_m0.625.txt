@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 941 | label: meter | g:0.056 m:0.625 ---
+
+{tiṣṭhetkopavaśātprabhāvapihitā dīrghaṃ na sā kupyati
+svargāyotpatitā bhavenmayi punarbhāvādramasyā manaḥ ।
+tāṃ hartuṃ vibudhadviṣo api na ca me śaktāḥ purovartinīṃ
+sā cātyantamagocaraṃ nayanayoryāteti ko ayaṃ vidhiḥ ।।}

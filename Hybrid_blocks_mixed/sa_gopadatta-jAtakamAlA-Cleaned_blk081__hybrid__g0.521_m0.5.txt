@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 81 | label: hybrid | g:0.521 m:0.5 ---
+
+viṣayasukhalavāśāpāśam āmucya citte tṛṇalavam iva jīrṇaṃ projjhya sadvṛttavantam ।
+pariṇativirasānāṃ karmaṇām ātmanaiva kṣitidhara iva tuṅgā rāśayaḥ saṃcitā ।।

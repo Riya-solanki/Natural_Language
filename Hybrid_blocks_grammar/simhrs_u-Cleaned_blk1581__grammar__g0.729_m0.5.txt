@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1581 | label: grammar | g:0.729 m:0.5 ---
+
+nipuṇikā-sudaṃ bhaṭṭiṇīe । kassa eso attaṇioa-saṃpādaṇ vissasaṇijjo hadāso । sabba-kālaṃ ido ebba sotthibāaṇa-modaehiṃ kucchiṃ pūria saṃpadaṃ mālabiaṃ ussibiṇābedi ।

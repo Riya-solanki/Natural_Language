@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10716 | label: meter | g:0.25 m:0.75 ---
+
+śatajanmagatānāṃ tvanṛjūnāṃ pūrvameva tu ।
+aparokṣābhāva eva hyajñānaṃ samudīritam ।।

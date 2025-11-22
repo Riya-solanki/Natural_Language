@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 1933 | label: meter | g:0.25 m:0.5 ---
+
+priyām ahaṃ pūrva-bhṛtāṃ nāmnā svacchanda-bhakṣiṇī ।
+gṛhṇāmy enāṃ yadi trātuṃ kṛpā vaḥ śrūyatām idam ।।
+surāghaṭānāṃ saptatyā viṃśatyā dṛpta-gaḍḍuraiḥ ।
+chāgaiś ca daśabhiḥ kāryā ciraṇṭī-tarpaṇa-kriyā ।।
+adya kartum aśakyaṃ cet tat-paryāptatamaṃ dhanam ।
+āsthāpyam asyāḥ sākṣiṇyāḥ jaraṭhāyāḥ paṭāñcale ।।

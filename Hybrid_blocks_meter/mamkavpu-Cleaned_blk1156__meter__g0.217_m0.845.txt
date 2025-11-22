@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1156 | label: meter | g:0.217 m:0.845 ---
+
+{sarvasvaṃ hara sarvasya tvaṃ bhavacchedatatparaḥ ।
+nayopakārasāṃmukhyamāyāsi tanuvartanam ।।}

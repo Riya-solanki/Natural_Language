@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3426 | label: meter | g:0.194 m:0.5 ---
+
+prasuptaś cāsi vivṛte kiṃ putra śayanaṃ vinā 
+tāta naivaṃvidhā bhūmau śerate kṛtalakṣaṇāḥ ।।

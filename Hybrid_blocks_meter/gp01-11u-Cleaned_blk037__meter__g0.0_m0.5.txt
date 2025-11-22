@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 37 | label: meter | g:0.0 m:0.5 ---
+
+[] aho premagambhīryam asya paśya vṛndāvanasya! yataḥ-

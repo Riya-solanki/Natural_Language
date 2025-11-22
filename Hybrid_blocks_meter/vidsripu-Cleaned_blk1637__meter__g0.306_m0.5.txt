@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1637 | label: meter | g:0.306 m:0.5 ---
+
+bhramaṇajavasamīraiḥ śerate śālaṣaṇḍā mama nakhakuliśāgrair grāvagarbhāḥ sphuṭanti ।
+ajagaram api cāhaṃ muṣṭiniṣpiṣṭavaktraṃ nijabhujatarumūlasyālavālaṃ karomi ।।

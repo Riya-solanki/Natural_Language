@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1905 | label: meter | g:0.194 m:0.75 ---
+
+tayoḥ saiva pṛthagbhāvakāraṇaṃ saṃśrayasya ca 
+kṣobhakāraṇabhūtā ca sargakāle mahāmate ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8667 | label: meter | g:0.25 m:0.5 ---
+
+aśreyasi pravṛtti ca prerayanti punaḥ punaḥ ।
+uccāṭanaṃ ca krūratvaṃ sarvaṃ pretakṛtaṃ khaga ।।

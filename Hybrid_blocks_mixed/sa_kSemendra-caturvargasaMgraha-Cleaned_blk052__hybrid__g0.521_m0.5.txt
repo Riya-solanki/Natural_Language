@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 52 | label: hybrid | g:0.521 m:0.5 ---
+
+kulaṃ kuvṛttyā kaluṣīkṛtaṃ taiḥ kṛto guṇaughas tṛnatulyamūlyaḥ ।
+mānasya mūle nihitaḥ kuṭhāraḥ prāptaṃ na vittaṃ parirakṣitaṃ yaiḥ ।।

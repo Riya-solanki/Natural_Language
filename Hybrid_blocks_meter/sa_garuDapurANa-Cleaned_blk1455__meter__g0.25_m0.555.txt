@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1455 | label: meter | g:0.25 m:0.555 ---
+
+aprete saśirā vetiyajetvā puṣpake harim ।
+devayajñaṃ pitṛyajñaṃ tathaiva ca ।
+mānuṣaṃ brahmayajñaṃ ca pañca yajñānsamācaret ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4348 | label: meter | g:0.25 m:0.75 ---
+
+nābhipṛṣṭhaṃ rujatyāśu pārśve cāhāramutkṣipet ।
+tato vicchrinnalpālpakaṣāyaṃ phenilaṃ vamet ।।

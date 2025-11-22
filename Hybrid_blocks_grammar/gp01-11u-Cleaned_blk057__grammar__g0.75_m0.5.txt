@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 57 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃvidhānāṃ tāsām api sarvāsām eka eva ramanas, tata eva gokuladhāmā govindanāmā pratyekam ekām ekāṃ ramāṃ ramayatāṃ ramā-ramaṇanāmnāṃ
+purupuruṣāṇāṃ paramaḥ । [] yat tu madhye māyayā pratyāyitam aupapatyaṃ, tat khalv avāstavatvāt parastād avadhvastam iti śrīparamapuruṣaśabdābhyāṃ pramitam । kathāyāṃ tu pramāṇa-viśeṣagrathanayā prathamiṣyāmaḥ । [] evaṃ śiṣṭaḥ śrīrāmo' py atidiṣṭaḥ ।
+[] kiṃ ca, aśeṣā evataravaḥ kalpataravaḥ saṅkalpadānabalāt kevalān, na tu mānyatā-dhanya-sāmānya-viśeṣāt । teṣu ca jātyā kalpa-taravas tu vilakṣaṇa-tayā kṛta-lakṣaṇā eva ।

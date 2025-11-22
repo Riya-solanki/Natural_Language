@@ -1,0 +1,9 @@
+--- source: gp01-11u-Cleaned.txt | block: 50 | label: meter | g:0.25 m:0.5 ---
+
+catur-asraṃ catur-mūrteś catur-dhāma catuṣ-kṛtam ।।
+caturbhiḥ puruṣārthaiś ca caturbhir hetubhir vṛtam ।
+śūlair daśabhir ānaddham ūrdhvādho-dig-vidikṣu ca ।।
+aṣṭabhiḥ nidhibhir juṣṭam aṣṭabhiḥ siddhibhis tathā ।
+manu-rūpaiś ca daśabhir dik-pālaiḥ parito vṛtam ।।
+śyāmair gauraiś ca raktaiś ca śuklaiś ca pārṣada-rṣabhaiḥ ।
+śobhitaṃ śaktibhis tābhir adbhutābhiḥ samantataḥ ।।

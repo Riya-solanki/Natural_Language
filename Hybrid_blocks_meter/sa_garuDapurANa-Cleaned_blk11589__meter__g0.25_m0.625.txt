@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11589 | label: meter | g:0.25 m:0.625 ---
+
+śrīkṛṣṇamūrtiśca gadādharaśca śrīviṣṇupādastu prayāgavāsaḥ ।
+nārāyaṇaḥ śrībadarīnivāsaḥ kurvantu sarve mama suprabhātam ।।

@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 58 | label: hybrid | g:0.342 m:0.063 ---
+
+[] kiṃ ca, ādarśanibhasvacchavibhavanānādarśasparśādimayabhūmikā bhūmiś ca kānter uta kānter vṛṣṭisṛṣṭikāriṇī cintāmaṇīyate । [] āstāṃ tāvad uttaram anu tāratamya-ramyatā-gamya-mahimā gṛhādiṣu mahā-cintāmaṇi-mayī, yasmād udbhinnās tad-udbhidaś ca
+tadīya-śobhām ātmany udbhāvayanti । yatra ca,

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1326 | label: grammar | g:0.573 m:0.5 ---
+
+nirvāte vyajanaṃ madāndhakariṇāṃ darpopaśāntau śṛṇiḥ poto dustaravārirāśitaraṇe dīpo andhakārāgame ।
+itthaṃ tad bhuvi nāsti yatra vidhinā nopāyacintā kṛtā manye durjanacittavṛttiharaṇe dhātāpi bhagnodyamaḥ ।।

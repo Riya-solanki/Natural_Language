@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3897 | label: grammar | g:0.75 m:0.5 ---
+
+somadattasyāpi bhūribhūriśravaḥśalyasaṃjñās trayaḥ putrāḥ । śāṃtanor apy amaranadyāṃ gaṅgāyām udārakīrtir aśeṣaśāstrārthavid bhīṣmaḥ putro abhūt । satyavatyāṃ ca citrāṅgadavicitravīryau putrāv utpādayām āsa śāṃtanuḥ । citrāṅgadas tu bāla eva citrāṅgadena gandharveṇāhave vinihataḥ । vicitravīryo api kāśīrājatanaye ambikāmbālike upayeme । tadupabhogātikhedāc ca yakṣmaṇā gṛhītaḥ pañcatvam agamat । satyavatīniyogāc ca tatputraḥ kṛṣṇadvaipāyano mātur vacanam anatikramaṇīyam iti vicitravīryakṣetre dhṛtarāṣṭrapāṇḍū tatprahitabhujiṣyāyāṃ ca viduraṃ utpādayām āsa ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3381 | label: meter | g:0.194 m:0.625 ---
+
+asaṃgrāme hataḥ kaṃsaḥ sa bāṇair aparikṣataḥ 
+kaṇṭhagrāhān nirastāsur vīramārgān nirākṛtaḥ ।।

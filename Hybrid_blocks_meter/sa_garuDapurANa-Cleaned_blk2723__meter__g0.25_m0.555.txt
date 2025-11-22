@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2723 | label: meter | g:0.25 m:0.555 ---
+
+tadabhāve asya tanaye patnyāṃ vaiśvānare api vā ।
+anena vidhinā dehe sādhayedvijitendriyaḥ ।
+brahmalokamavāpnoti na ceha jāyate punaḥ ।।

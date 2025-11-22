@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1330 | label: meter | g:0.286 m:0.527 ---
+
+evam uktvā tu bhagavāñ jagāmākāśam eva ha 
+vairājaṃ brahmasadanaṃ brahmarṣigaṇasevitam ।। 
+śrutvā devā varaṃ taṃ ca dattaṃ salilayoninā । vibhuṃ vijñāpayām āsur devāḥ śakrapurogamāḥ । 
+tato devāś ca nāgāś ca gandharvā munayas tathā 
+varapradānaṃ śrutvaiva pitāmaham upasthitāḥ ।।

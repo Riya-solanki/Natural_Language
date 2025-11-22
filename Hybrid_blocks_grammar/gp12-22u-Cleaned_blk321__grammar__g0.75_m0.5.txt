@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 321 | label: grammar | g:0.75 m:0.5 ---
+
+[] atra rasotkarṣasya tarṣata eva kaṃsāriṇāvatāritānām iti tāsāṃ nityaṃ tan-nija-preyasītayā vihāras, tad-avatāra-samaya eva tu rasa-maya-mahotkarṣāya māyayā paroḍha-vyavahāra ity ato na doṣaḥ, pratyuta parama-guṇa eveti bhāvaḥ । iha cāvatāritānām iti devī-caratāṃ sādhāraṇa-lakṣmī-caratāṃ ca na pracārayati, nāyaṃ śriyo' ṅga u nitānta-rateḥ prasādaḥ svar-yoṣitāṃ nalina-gandha-rucāṃ kuto' nyāḥ? [] ity anena virodhāt । tenaivānyatamatānyathā-kāritayā tadīya-parama-lakṣmītvam eva tāsāṃ lakṣyata iti ।

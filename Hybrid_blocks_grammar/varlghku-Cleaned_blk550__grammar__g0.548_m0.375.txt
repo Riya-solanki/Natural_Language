@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 550 | label: grammar | g:0.548 m:0.375 ---
+
+na vṛdbhyaścaturbhyaḥ ।।
+vṛtuvṛdhuśṛdhusyandūbhyaḥ sakārāderārdhadhātukasyeṇ na syāt taṅānayorabhāve । vartsyati, vartiṣyate । vartatām । varteta । avartiṣṭa । avartsyat, avartiṣyat ।।

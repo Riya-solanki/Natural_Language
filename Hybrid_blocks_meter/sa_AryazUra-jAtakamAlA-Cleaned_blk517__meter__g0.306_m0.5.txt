@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 517 | label: meter | g:0.306 m:0.5 ---
+
+gāvaḥ suvarṇaṃ vasanāni bhojyamiti dvijebhyo nṛpa deyarūpam ।
+yasmiñjayaśrīrniyatā dvipendre deyaḥ sa nāmetyatidānaśauryam ।।

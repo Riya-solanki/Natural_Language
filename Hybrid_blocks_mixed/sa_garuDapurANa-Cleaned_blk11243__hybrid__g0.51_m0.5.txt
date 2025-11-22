@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11243 | label: hybrid | g:0.51 m:0.5 ---
+
+garbhe gate nātra vicāryamasti tanmanyate durlabhaṃ martyaloke ।
+karṇaṃ kalpairbhūṣitaṃ suṃdaraṃ ca na suṃdaraṃ cāhurāryā rasajñāḥ ।।

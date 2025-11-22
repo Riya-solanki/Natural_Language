@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3878 | label: meter | g:0.328 m:0.595 ---
+
+gajo api viṣṇunā spṛṣṭo jāto divyavapuḥ pumān ।
+āpadviktau yugapad gajagandharvasattamau ।।

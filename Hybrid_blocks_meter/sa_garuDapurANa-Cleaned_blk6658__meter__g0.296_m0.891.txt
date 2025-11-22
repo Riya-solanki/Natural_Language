@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6658 | label: meter | g:0.296 m:0.891 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+caturyugasahasrānte brāhmo naimittiko layaḥ ।
+anāvṛṣṭiśca kalpānte jāyate śatavārṣikī ।।

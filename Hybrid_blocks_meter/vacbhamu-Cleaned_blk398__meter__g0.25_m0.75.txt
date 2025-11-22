@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 398 | label: meter | g:0.25 m:0.75 ---
+
+akṣarātparata iti śrutistvavyākṛte matā ।
+aśrute yatsvakāryāṇi tato avyākṛtamakṣaram ।।

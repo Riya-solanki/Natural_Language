@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 409 | label: meter | g:0.194 m:0.625 ---
+
+sūryādīnāṃ naraśreṣṭha rudrādyair nāmabhiḥ saha 
+patnyaḥ smṛtā mahābhāga tadapatyāni me śṛṇu ।।

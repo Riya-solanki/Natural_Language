@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5162 | label: meter | g:0.194 m:0.5 ---
+
+tāṃ tu sarvānavadyāṅgīṃ cakame vāsavas tadā 
+saṃjñaptam aśvaṃ āviśya tayā miśrībabhūva saḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3262 | label: meter | g:0.194 m:0.625 ---
+
+dhik tvām īdṛśam akṣāntaṃ dauṣkulaṃ vyutthitendriyam 
+aviśvāsyam anāyuṣyaṃ paradārābhimarśanam ।।

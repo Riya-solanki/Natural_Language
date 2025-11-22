@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 301 | label: grammar | g:0.625 m:0.5 ---
+
+[] vṛndā viśvasya niśvasya ca punar uvāca-tathāpi tāsāṃ tathā khyātir api na yuktā ।

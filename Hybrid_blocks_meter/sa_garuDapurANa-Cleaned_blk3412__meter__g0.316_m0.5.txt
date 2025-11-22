@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3412 | label: meter | g:0.316 m:0.5 ---
+
+nave vayasi yaḥ śāntaḥ sa śānta iti me matiḥ ।
+dhātuṣu kṣīyamāṇeṣu śamaḥ kasya na jāyate ।।

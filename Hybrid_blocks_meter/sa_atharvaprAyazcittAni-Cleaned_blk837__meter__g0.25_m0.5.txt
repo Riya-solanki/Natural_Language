@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 837 | label: meter | g:0.25 m:0.5 ---
+
+agnaye svāhā vasubhyaḥ svāhā gāyatryai svāhā ।

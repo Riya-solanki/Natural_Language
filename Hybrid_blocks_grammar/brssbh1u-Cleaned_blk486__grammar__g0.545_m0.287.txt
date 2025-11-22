@@ -1,0 +1,7 @@
+--- source: brssbh1u-Cleaned.txt | block: 486 | label: grammar | g:0.545 m:0.287 ---
+
+yadi vākyaśeṣabalena dahara iti parameśvaraḥ parigṛhyetāstītarasyāpi jīvasya vākyaśeṣe parāmarśaḥ - aatha ya eṣa saṃprasādo asmāccharīrātsamutthāya paraṃ jyotirūpasaṃpadya svena rūpeṇābhiniṣpadyata eṣa ātmeti hovāca' iti ।
+atra hi saṃprasādaśabdaḥ śrutyantare suṣuptāvasthāyāṃ dṛṣṭatvāttadavasthāvantaṃ jīvaṃ śaknotyupasthāpayituṃ nārthāntaram ।
+tathā śarīravyapāśrayasyeva jīvasya śarīrātsamutthānaṃ saṃbhavati ।
+yathākāśavyapāśrayāṇāṃ vāyvādīnāmākāśātsamutthānaṃ tadvat ।
+yathā cādṛṣṭo api loke parameśvaraviṣaya ākāśaśabdaḥ parameśvaradharmasamabhivyāhārāt aākāśo vai nāma nāmarūpayornirvahitā' ityevamādau parameśvaraviṣayo abhyupagata evaṃ jīvaviṣayo api bhaviṣyati ।

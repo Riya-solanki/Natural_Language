@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 385 | label: grammar | g:0.583 m:0.5 ---
+
+aho bhaktibharodāracetasāṃ varada tvayi slāghyaḥ pūjāvidhiḥ ko api yo na yācñākalaṃkitaḥ ।।

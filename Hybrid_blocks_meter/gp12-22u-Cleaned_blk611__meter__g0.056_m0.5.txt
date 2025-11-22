@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 611 | label: meter | g:0.056 m:0.5 ---
+
+jalaṃ kumudam ambujaṃ vidhu-ruciś ca yasyāṃ śarady
+aho vikasad-ātmatām agamad āśu tasyām api ।
+mano nayanam ānanaṃ daśana-kāntir āsāṃ punaḥ
+sadā malinatām agād iti kim ālibhiḥ sahyatām? ।। [pṛthvī]

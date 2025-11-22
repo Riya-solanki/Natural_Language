@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 660 | label: hybrid | g:0.5 m:0.5 ---
+
+[] vrajarāja uvāca-"bhaved evaṃ, kintu kvacid utsarge' py apavāda-vargaṃ bādhate' dhikāri-viśeṣa-śleṣam āsādya, yathaivāhiṃsā-nivṛtta-karmaṇi baddha-śraddhaṃ prati yajñe' pi paśu-hiṃsāṃ । tasmād bhavatāṃ brāhmaṇa-bhāvād utsarga-siddhā gurutā śraddhā-viśeṣavatām asmākaṃ kule kathaṃ laghutām āpnotu? tatrāpi bhavataḥ sarva-pramāṇataḥ samadhikatā samadhigatā, tasmād anyathā mā sma manyathāḥ । etad upari nija-purohitānām api hitam apihita-mahasā kariṣyāmaḥ ।"

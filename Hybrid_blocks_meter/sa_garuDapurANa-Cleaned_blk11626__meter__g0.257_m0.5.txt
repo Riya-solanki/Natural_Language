@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11626 | label: meter | g:0.257 m:0.5 ---
+
+ārādhayiṣyanti ca māṃ kva ete teṣāṃ dayāṃ kutra vāhaṃ kariṣye ।
+evaṃ hariścintayitvā sukanye vaikuṇṭhalokādacalaṃ śeṣa saṃjñam ।
+vīndraskandhe sthāpayitvā svayaṃ ca samāgatobhūdbhūtalaṃ bhūtaleśaḥ ।।

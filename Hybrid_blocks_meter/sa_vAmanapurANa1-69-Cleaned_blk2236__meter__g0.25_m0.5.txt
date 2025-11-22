@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2236 | label: meter | g:0.25 m:0.5 ---
+
+ityevamukto madhusūdanena murustadā sve hṛdaye svahastam ।
+kathaṃ kva kasyeti muhustathoktvā nipātayāmāsa vipannabuddhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5599 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ sa vānaro abhyetya gṛhītvā sīriṇo halam 
+musalaṃ ca cakārāsya saṃmukhaṃ saviḍambanam ।।

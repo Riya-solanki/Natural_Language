@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 845 | label: meter | g:0.25 m:0.75 ---
+
+yatroktibhaṅgyā vākyārthe sādṛśyamavagamyate ।
+vākyārthayorvistarataḥ sā prapañcopamā yathā ।।

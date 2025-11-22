@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 513 | label: grammar | g:0.564 m:0.083 ---
+
+[] tac ca yuktaṃ, yathā-
+atipūrvaṃ yad apūrvaṃ nija-matir
+durlabham atīva hṛdyaṃ ca । vṛttaṃ tat pratinavatāṃ prayāti
+bhūyo' nubhūyamānaṃ ca ।।[] tad etad varṇayitvā snigdhakaṇṭhaḥ samāpanam āha sma-
+rādhe tvad-vallabhaḥ satyaṃ sarvair api sudurlabhaḥ । sulabho' py adhunā yo' yaṃ bhavatyā manyate' nyathā ।।[] atha kathaṃcid api jāta-sāntvane tan-manasāṃ tv aneka-vikāre pāre manoratha-patham akhila-śobhā-śubha-pathya-nepathya-sāratanya-māna-dānatas tau sūta-kumārāv ārādhayāmāsur āśu rādhā-ramaṇa-prabhṛtayaḥ kṛta-sādhāraṇātikrama-prakṛtayaḥ sadaḥ-sadaḥ-sadayatayā śubhāśīrbhir abhyudayam āsādayāmāsuś ca । tataś ca pūrva-pūrvavad eva sarve svadhāma samāsannāḥ svapnataś ca tat-tad-anubhavantaś carita-jāgarā iva vāsarādim āsāditavantaḥ ।

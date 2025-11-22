@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 463 | label: meter | g:0.194 m:0.625 ---
+
+ayodhyāṃ caiva rāṣṭraṃ ca tathaivāntaḥpuraṃ muniḥ 
+yājyopādhyāyasaṃyogād vasiṣṭhaḥ paryarakṣata ।।

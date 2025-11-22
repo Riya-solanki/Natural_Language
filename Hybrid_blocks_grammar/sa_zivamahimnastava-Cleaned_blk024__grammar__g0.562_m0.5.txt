@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 24 | label: grammar | g:0.562 m:0.5 ---
+
+svalāvaṇyāśaṃsādhṛtadhanuṣam ahnāya tṛṇavat puraḥ pluṣṭaṃ dṛṣṭvā puramathana puṣpāyudham api ।
+yadi straiṇaṃ yamanirata dehārdhaghaṭanād avaiti tvām addhā bata varada mugdhā yuvatayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2121 | label: meter | g:0.194 m:0.5 ---
+
+pakṣatṛptiṃ tu devānāṃ pitṝṇāṃ caiva māsikīm 
+śaśvat tṛptiṃ ca martyānāṃ maitreyārkaḥ prayacchati ।।

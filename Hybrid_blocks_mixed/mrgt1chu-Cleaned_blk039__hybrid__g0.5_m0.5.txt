@@ -1,0 +1,3 @@
+--- source: mrgt1chu-Cleaned.txt | block: 39 | label: hybrid | g:0.5 m:0.5 ---
+
+kathaṃ tasya vaco mithyā yasya vaśyaḥ payonidhiḥ ।।

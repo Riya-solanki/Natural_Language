@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2456 | label: meter | g:0.25 m:0.625 ---
+
+nyagrodhaṃ parvatākāraṃ bhāṇḍīraṃ nāma nāmataḥ 
+dṛṣṭvā tatra matiṃ cakre nivāsāya divā prabhuḥ ।।

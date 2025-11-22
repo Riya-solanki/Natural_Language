@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 476 | label: hybrid | g:0.396 m:0.5 ---
+
+[] tatra sarve cāmoda-garveṇa procuḥ-anyad vā yat kiñcid asyā hitaṃ samīhitaṃ bhavati । tataś ca-

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3746 | label: meter | g:0.25 m:0.5 ---
+
+udapāne tathā snātvā tatrābhyarcya pitṝn vaśī ।
+gadāpāṇiṃ samabhyarcya gopatiṃ cāpi śaṅkaram ।।

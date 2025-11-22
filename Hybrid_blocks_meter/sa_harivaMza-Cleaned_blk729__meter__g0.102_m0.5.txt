@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 729 | label: meter | g:0.102 m:0.5 ---
+
+upayujya ca gāṃ sarve guros tasya nyavedayat 
+śārdūlena hatā dhenur vatso ayaṃ gṛhyatām iti 
+ārjavāt sa tu vatsaṃ taṃ pratijagrāha vai dvijaḥ ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 203 | label: meter | g:0.056 m:0.521 ---
+
+{prasthānaṃ valayaiḥ kṛtaṃ priyasakhairasrairajasraṃ gataṃ
+dhṛtyā na kṣaṇamāsitaṃ vyavasitaṃ cittena gantuṃ puraḥ ।
+yātuṃ niścitacetasi priyatame sarve samaṃ prasthitā
+gantavye sati jīvita priyasuhṛtsārthaḥ kimu tyajyate ।।}

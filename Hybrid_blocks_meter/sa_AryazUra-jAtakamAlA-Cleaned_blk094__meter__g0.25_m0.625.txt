@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 94 | label: meter | g:0.25 m:0.625 ---
+
+dāsyāmīti pratijñāya yo anyathā kurute manaḥ ।
+kārpaṇyāniścitamateḥ kaḥ syātpāpatarastataḥ ।।

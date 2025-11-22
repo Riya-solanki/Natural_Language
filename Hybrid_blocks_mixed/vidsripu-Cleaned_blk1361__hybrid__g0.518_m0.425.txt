@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1361 | label: hybrid | g:0.518 m:0.425 ---
+
+dayāmṛduṣu durjanaḥ paṭutarāvalepoddhavaḥ parāṃ vrajati vikriyāṃ na hi bhayaṃ tataḥ paśyati ।
+yatas tu bhayaśaṅkayā sukṛśayāpi saṃspṛśyate vinīta iva nīcakaiś carati tatra śāntoddhavaḥ ।।
+śūrasya

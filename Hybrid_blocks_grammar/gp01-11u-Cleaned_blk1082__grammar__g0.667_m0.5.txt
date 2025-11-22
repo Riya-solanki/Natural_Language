@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1082 | label: grammar | g:0.667 m:0.5 ---
+
+[] tad evam amī sākṣād iva vyoma-vadham anubhūya bhūyasā sukhena vilasan-mukhena lalitā gṛhāya calitā babhūvuḥ ।

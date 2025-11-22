@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1722 | label: meter | g:0.25 m:0.76 ---
+
+yudhiṣṭhiraḥ -durātman ! bhīmārjuna-śatro duryodhana-hataka !
+āśaiśavād anudinaṃ janitāparādhaḥ
+kṣībo balena bhujayor hata-rāja-putra ।
+āsādya me' ntaram idaṃ bhuja-pañjarasaya
+jīvan prayāsi na padāt padam adya pāpa ।।

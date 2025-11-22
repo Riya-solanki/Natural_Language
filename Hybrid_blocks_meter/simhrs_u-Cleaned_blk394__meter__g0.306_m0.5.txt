@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 394 | label: meter | g:0.306 m:0.5 ---
+
+sāloe cia sūre ghariṇī ghara-sāmiassa ghettūṇa ।
+ṇecchaṃ tassa bi pāe dhubai hasaṃtī hasaṃtassa ।।

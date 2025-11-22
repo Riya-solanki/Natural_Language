@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 81 | label: grammar | g:0.583 m:0.5 ---
+
+SktCh hañje yadyevaṃ tadavadhīraṇāpyeṣā māmāśvāsayati । tadatropaviṣṭā bhūtvā śṛṇomi tāvannāthasya vyavasitam ।

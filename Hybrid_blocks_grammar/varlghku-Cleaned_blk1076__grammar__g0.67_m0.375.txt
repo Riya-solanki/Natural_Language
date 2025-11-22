@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1076 | label: grammar | g:0.67 m:0.375 ---
+
+ṛkpūrabdhūḥpathāmānakṣe ।।
+a anakṣe iticchedaḥ । ṛgādyantasya samāsasya apratyayo antāvayavo akṣe yā dhūstadantasya tu na । ardharcaḥ । vimalāpaṃ saraḥ । akṣe tu akṣadhūḥ । sakhipathaḥ ।।

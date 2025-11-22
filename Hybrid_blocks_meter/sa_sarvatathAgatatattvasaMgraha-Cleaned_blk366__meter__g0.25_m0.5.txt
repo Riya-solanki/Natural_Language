@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 366 | label: meter | g:0.25 m:0.5 ---
+
+vajrāveśaṃ samutpādya tālaṃ dadyāt samāhitaḥ ।
+vajrāṃjalitalaiḥ sūkṣmaṃ parvato api vaśaṃ nayet ।।

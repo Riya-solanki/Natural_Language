@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 92 | label: meter | g:0.25 m:0.625 ---
+
+idaṃ prakaraṇādibhyo viśeṣāvagamepi ca ।
+utkarṣe vāviroghe ca doṣakakṣyāṃ na gāhate ।।

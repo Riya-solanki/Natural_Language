@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8978 | label: meter | g:0.275 m:0.797 ---
+
+nṛpatiruvāca ।
+kathaṃ pretā bhavantīha kṛtairapyaurdhvadaihikaiḥ ।
+piśācāśca bhavantīha karmabhiḥ kaiśca tadvada ।।

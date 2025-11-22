@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 190 | label: meter | g:0.217 m:0.845 ---
+
+sādhakāhnikavicchede sadyojātāyutaṃ japet
+śataṃ vā saṃyataprāṇo vāsaraṃ mārutāśanaḥ ।

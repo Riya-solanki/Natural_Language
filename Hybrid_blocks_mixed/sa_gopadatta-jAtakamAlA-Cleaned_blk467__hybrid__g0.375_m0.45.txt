@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 467 | label: hybrid | g:0.375 m:0.45 ---
+
+praviṣṭamātrasya punas tṛtīyaṃ dvāraṃ parikṣiptakapāṭayantram ।
+kṣaṇād abhūt tan nagaraṃ ca sarvaṃ bhrāntaṃ ca kṛtsnaṃ sa dadarśa bhītaḥ ।।

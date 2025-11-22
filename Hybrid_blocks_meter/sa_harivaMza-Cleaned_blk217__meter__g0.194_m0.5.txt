@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 217 | label: meter | g:0.194 m:0.5 ---
+
+yadā na śakyate mānād avalepāc ca pārthivaḥ 
+anunetuṃ tadā venaṃ tataḥ kruddhā maharṣayaḥ ।।

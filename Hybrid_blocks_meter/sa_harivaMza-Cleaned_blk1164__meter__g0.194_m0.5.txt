@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1164 | label: meter | g:0.194 m:0.5 ---
+
+eṣāṃ svasāraḥ pañcāsan kaṃsā kaṃsavatī tathā 
+sutanū rāṣṭrapālī ca kaṅkā caiva varāṅganā ।।

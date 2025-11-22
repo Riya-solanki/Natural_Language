@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 699 | label: grammar | g:0.75 m:0.5 ---
+
+[na nīcaiḥ saṃvaset] na nikṛṣṭairjanaiḥ sahavāsaṃ kuryāt। vṛthā [gṛhādgṛhamapi gṛhād gṛhāntaraṃ ca [na yāyāt] na paryaṭet। [kaṃcinnopahased nānukuryāt] na ca kasyāpyupahāsamanukaraṇaṃ ca kuryāt। [na kaṃcit pīḍayet] na ca kaṃcinmarmodghāṭanadehatāḍanadhanāpaharaṇairhiṃsyāt।।

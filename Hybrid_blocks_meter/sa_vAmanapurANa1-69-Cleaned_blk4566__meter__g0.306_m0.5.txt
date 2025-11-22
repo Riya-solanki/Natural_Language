@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4566 | label: meter | g:0.306 m:0.5 ---
+
+caturdaśaṃ vāmanamāhuragryaṃ śrute ca yasyāghacayāśca nāśam ।
+prayānti nāstyatra ca saṃśayo me mahānti pāpānyapi nāradāśu ।।

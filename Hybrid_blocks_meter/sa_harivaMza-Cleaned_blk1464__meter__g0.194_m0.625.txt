@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1464 | label: meter | g:0.194 m:0.625 ---
+
+yathārtham ūhuḥ sarito nāpi cukṣubhire arṇavāḥ 
+āsañ śubhānīndriyāṇi narāṇām antarātmasu ।।

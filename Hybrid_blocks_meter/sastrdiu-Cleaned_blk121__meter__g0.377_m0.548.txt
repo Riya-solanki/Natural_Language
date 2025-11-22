@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 121 | label: meter | g:0.377 m:0.548 ---
+
+maivam ।
+unmīlitanetrasya vikalpo api gaurayamityaparokṣāvabhāsa eva pratīyate nacāsāvanyasaṃsargakṛtaḥ pramāṇābhāvāt ।
+abhilāpasaṃsargayogyasyāpi sāmānyākārasyābhilāpaliṅgādibhiravaiśadyamindriyaiśca vaiśādyamupapadyata eva ।
+nahyayaṃ parokṣāparokṣavibhāgo viṣayakṛtaḥ, yadi hi tathā syāt sarvadaiva sāmānyaṃ parokṣaṃ syāt, nacaivamasti,

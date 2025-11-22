@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5045 | label: meter | g:0.194 m:0.625 ---
+
+tato anantaram āryeṇa pāṇḍavenāpi dustaraḥ 
+mahābhāratasaṃhāraḥ saṃbhṛto agnir iva kratuḥ ।।

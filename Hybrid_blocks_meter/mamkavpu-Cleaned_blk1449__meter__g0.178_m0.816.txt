@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1449 | label: meter | g:0.178 m:0.816 ---
+
+{paricchedātītaḥ sakalavacanānāmaviṣayaḥ
+punarjanmanyasminnanubhavapathaṃ yo na gatavān ।
+vivekapradhvaṃsādupacitamahāmohagahano
+vikāraḥ ko apyantarjaḍayati ca tāpaṃ ca kurute ।।}

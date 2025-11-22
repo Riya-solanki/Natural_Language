@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4183 | label: meter | g:0.306 m:0.5 ---
+
+udaye śaśinaṃ sūryaṃ dhruvaṃ ca tritayaṃ sthitam ।
+hemakūṭe hiraṇyākṣaṃ skandaṃ śaravaṇe mune ।।

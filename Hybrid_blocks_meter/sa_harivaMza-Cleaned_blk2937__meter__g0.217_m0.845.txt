@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2937 | label: meter | g:0.217 m:0.845 ---
+
+surāpiśitapūrṇābhyāṃ kumbhābhyām upaśobhitā 
+mayūrāṅgadacitraiś ca barhabhāraiś ca bhūṣitā ।।

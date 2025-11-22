@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1925 | label: meter | g:0.25 m:0.5 ---
+
+kalāliṅgā ca yā tiṣṭhetpañcamastasya vai mṛtiḥ ।
+kalā tithistathā vāro nakṣatraṃ māsameva ca ।।

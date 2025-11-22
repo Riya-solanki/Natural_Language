@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 320 | label: grammar | g:0.671 m:0.435 ---
+
+[] atha prahara-mātrāyāṃ rātrāv ācarita-yātrāyāṃ nandita-sarva-samājena śrī-vraja-rājena samajyā-pradhāneṣu prātar navya-kāvya-śravaṇa-nimantraṇam
+apavarjya visṛjyamāneṣu, taṃ nija-janakam anujñāpya kanaka-vasanas tau sukumārau sūta-kumārau kare gṛhītvā spṛhāntaraṃ hitvā mātṛ-gṛhāntaḥ saṅgatavān । mātaraṃ prati tayoḥ prasaṅgaṃ saṅgamitavāṃś ca ।

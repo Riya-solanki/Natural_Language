@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 229 | label: meter | g:0.137 m:0.591 ---
+
+{vidūṣakaḥ} - bho suṇṇaṃ khu idaṃ pamadavaṇaṃ 
+pucchidavvaṃ kiñci atthi 
+pucchāmi bhavantaṃ 
+[bhoḥ śūnyaṃ khalv idaṃ pramadavanam । praṣṭavyaṃ kiñcid asti । pṛcchāmi bhavantam । ]

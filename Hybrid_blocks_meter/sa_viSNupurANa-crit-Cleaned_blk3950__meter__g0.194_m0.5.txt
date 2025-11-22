@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3950 | label: meter | g:0.194 m:0.5 ---
+
+brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca dvijasattama 
+yuge yuge mahātmānaḥ samatītāḥ sahasraśaḥ ।।

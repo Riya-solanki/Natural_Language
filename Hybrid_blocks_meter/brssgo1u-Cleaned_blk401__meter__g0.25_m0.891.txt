@@ -1,0 +1,9 @@
+--- source: brssgo1u-Cleaned.txt | block: 401 | label: meter | g:0.25 m:0.891 ---
+
+bahupramāṇasaṃvādastātparyānugrāhaka iti nyāyānugṛhītābhyāmātmabrahmaśrutibhyāṃ dṛśyaliṅgaṃ bādhyamityāha-saṃyadvāmeti ।
+vāmāni karmaphalānyetamakṣipuruṣamabhilakṣya saṃyanti utpadyante ।
+sarvaphalodayaheturityarthaḥ ।
+lokānāṃ phaladātāpyayamevetyāha-vāmanīriti ।
+nayati phalāni lokānprāpayatītyarthaḥ ।
+bhāmāni bhānāni nayatyayamityāha-bhāmanīriti ।
+sarvārthaprakāśaka ityarthaḥ ।।

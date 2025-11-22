@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2652 | label: meter | g:0.25 m:0.5 ---
+
+na hi śaśikaluṣacchaviḥ kadācit timiraparābhavatām upaiti candraḥ 
+bhavati hi harau sthitāntarātmā bhṛśamalino api virājate manuṣyaḥ ।।

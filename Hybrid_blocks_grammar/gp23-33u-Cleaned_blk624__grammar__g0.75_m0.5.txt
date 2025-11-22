@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 624 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha mathurām eva rāmeṇa saha sahacara-yadu-kumāra-vṛtaḥ pratigatya patyabhāvavataḥ puruṣā mleccatas tān mleccha-yodhān nidhanam eva rodhayamānas tad-amāna-dhanāni nija-rājadhānīti dvārakāṃ hārayann api mleccha-paricchadatayā manasi nācchatāṃ maṃsyase ।

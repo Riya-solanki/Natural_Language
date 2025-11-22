@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6224 | label: meter | g:0.25 m:0.5 ---
+
+mañjubhāṣiṇī sajsā jgau sunandinī sajasā magau ।
+nanau tatau candrikā gaḥ saptabhiśca rasairyatiḥ ।।

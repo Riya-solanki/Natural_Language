@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 699 | label: meter | g:0.154 m:0.539 ---
+
+tadā ca-
+pṛcchantyā vṛddhayāṅgāni yadā kim api pṛcchyate ।
+tadāmbā-śikṣayā bālaḥ sa tāṃ muhur atāḍayat ।। [anuṣṭubh]

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10957 | label: meter | g:0.25 m:0.625 ---
+
+ityādyamakhilaṃ jñānaṃ viparītamiti smṛtam ।
+śilādyeṣu ca sarveṣu aikyenava vicintanam ।।

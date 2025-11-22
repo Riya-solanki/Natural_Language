@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2929 | label: meter | g:0.302 m:0.806 ---
+
+cchatradhvajapatākābhiḥ rājapūjābhirarcayan ।
+sidhyate maṇikulaṃ sarvadadan dānāni vā sidhyatī- ।।

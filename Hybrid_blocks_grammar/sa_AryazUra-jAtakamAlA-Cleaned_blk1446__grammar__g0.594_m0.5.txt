@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1446 | label: grammar | g:0.594 m:0.5 ---
+
+lokaḥ paro yadi na kaścana kiṃ vivarjyaṃ pāpaṃ śubhaṃ prati ca kiṃ bahumānamohaḥ ।
+svacchandaramyacarito atra vicakṣaṇaḥ syādevaṃ gate suhata eva ca vānaro ayam ।।

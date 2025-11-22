@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4003 | label: meter | g:0.25 m:0.5 ---
+
+japannevaṃ naraḥ puṇyaṃ vaiṣṇavaṃ dharmamuttamam ।
+iṣṭāniṣṭaprasaṃgebhyo jñānato ajñānato api vā ।।

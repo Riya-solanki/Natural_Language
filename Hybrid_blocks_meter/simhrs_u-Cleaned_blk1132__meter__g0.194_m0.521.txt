@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1132 | label: meter | g:0.194 m:0.521 ---
+
+ramyaṃ gāyati menakā kṛta-rucir vīṇā-svanair urvaśī
+citraṃ vakti tilottamā paricayaṃ nānāṅga-hāra-krame ।
+āsāṃ rūpam idaṃ tad uttamam iti premānavasthā dviṣā
+bheje śrī-yanapota-siṃha-nṛpate tvat-khaḍga-bhinnātmanā ।।

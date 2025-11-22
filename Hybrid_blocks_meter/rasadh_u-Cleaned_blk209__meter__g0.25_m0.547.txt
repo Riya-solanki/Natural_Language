@@ -1,0 +1,10 @@
+--- source: rasadh_u-Cleaned.txt | block: 209 | label: meter | g:0.25 m:0.547 ---
+
+mandārārkāstu ye śvetāsteṣāṃ mūlāni dāhayet ।
+jvālyamāneṣu teṣu taiśca kartavyā mṛtajīvinaḥ ।।
+teṣvagālepane teṣu kāryā yatnena gartakāḥ ।
+teṣu vajrāṇi vinyasyāgniṣṭe sauvarṇake kṣipet ।।
+āmbilyāulibabulaiḥ saṃpatyāmṛtajīvibhiḥ ।
+suvajrānagninā dhmātvā kvāthe kaulatthake kṣipet ।।
+sukhenātha tayā yuktyā māryaṃ te hīrakā budhaiḥ ।
+bhasmībhūtaṃ tu vastrāṇi cūrṇaṃ kṣepyaṃ ca kumpake ।।

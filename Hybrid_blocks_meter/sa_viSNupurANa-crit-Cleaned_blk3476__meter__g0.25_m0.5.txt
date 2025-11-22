@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3476 | label: meter | g:0.25 m:0.5 ---
+
+niḥsaṅgatā muktipadaṃ yatīnāṃ saṅgād aśeṣāḥ prabhavanti doṣāḥ 
+ārūḍhayogo api nipātyate adhaḥ saṅgena yogī kim utālpasiddhiḥ ।।

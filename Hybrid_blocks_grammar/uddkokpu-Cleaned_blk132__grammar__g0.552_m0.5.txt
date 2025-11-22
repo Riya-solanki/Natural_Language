@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 132 | label: grammar | g:0.552 m:0.5 ---
+
+vakti dhvāṅkṣaḥ suhṛdupagamaṃ dakṣiṇe kṣīravṛkṣe vāmaṃ netraṃ sphurati sucirāducchvasityadya cetaḥ ।
+kiñca svānaḥ śravaṇamadhuro jāyate kokilānāṃ prāṇeṣvāśāmiti kathamapi bhrātarābadhnatī vā ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1122 | label: meter | g:0.102 m:0.5 ---
+
+pālitaṃ ca hariṃ caiva videhebhyaḥ pitā dadau 
+rukmeṣur abhavad rājā pṛthurukmaś ca saṃśritaḥ 
+tābhyāṃ pravrājito rājyāj jyāmagho avasad āśrame ।।

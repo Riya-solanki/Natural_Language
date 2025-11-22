@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10257 | label: meter | g:0.306 m:0.5 ---
+
+māyī sadā māyibhṛtyastathāpi bhedajñānānnindyate kāryate ca ।
+tenāpi teṣāṃ duḥ khavṛddhirbhavecca hyadhaṃ tamaḥ punarāvṛttihīnam ।।

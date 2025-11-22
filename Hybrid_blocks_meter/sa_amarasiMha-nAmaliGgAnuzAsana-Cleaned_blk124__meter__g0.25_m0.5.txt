@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 124 | label: meter | g:0.25 m:0.5 ---
+
+daive yugasahasre dve brāhmaḥ kalpau tu tau nṛṇām

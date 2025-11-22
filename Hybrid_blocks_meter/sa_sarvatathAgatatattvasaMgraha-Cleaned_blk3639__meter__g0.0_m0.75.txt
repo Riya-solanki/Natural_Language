@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3639 | label: meter | g:0.0 m:0.75 ---
+
+chapter epilogue of the sarva-tathagata-tattva-sangraha

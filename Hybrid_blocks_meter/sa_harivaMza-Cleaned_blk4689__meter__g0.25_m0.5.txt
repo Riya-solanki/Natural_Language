@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4689 | label: meter | g:0.25 m:0.5 ---
+
+ete deveṣu ye mukhyās tathā dānavavaṃśajāḥ 
+kiṃ naroragayakṣāṇāṃ rākṣasānāṃ ca sarvaśaḥ ।। 
+gandharvāsuradaityānāṃ ye cānye bhoginaḥ smṛtāḥ । 
+manuṣyāṇāṃ ca sarveṣāṃ ye viśiṣṭatamā narāḥ 
+tad etān paśya sarvāṃs tvaṃ yathābhilikhitān mayā ।।

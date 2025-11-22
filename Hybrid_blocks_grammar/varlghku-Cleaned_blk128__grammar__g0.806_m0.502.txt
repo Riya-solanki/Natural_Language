@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 128 | label: grammar | g:0.806 m:0.502 ---
+
+svaujasamauṭchaṣṭābhyāmbhisṅebhyāmbhyasṅasibhyāmbhyasṅasosāmṅyossup ।।
+su au jas iti prathamā । am auṭ śas iti dvitīyā । ṭā bhyām bhis iti tṛtīyā । ṅe bhyām bhyas iti caturthī । ṅasi bhyām bhyas iti pañcamī । ṅas os ām iti ṣaṣṭhī । ṅi os sup iti saptamī ।।

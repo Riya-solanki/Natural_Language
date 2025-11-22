@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 3024 | label: meter | g:0.194 m:0.5 ---
+
+gṛhaṃ tad yogapīṭhaṃ ca mantavyam anvayānvitaiḥ 
+āgamaṃ maṇḍalādyais tu pūjyoghaṃ pārameśvaram ।।

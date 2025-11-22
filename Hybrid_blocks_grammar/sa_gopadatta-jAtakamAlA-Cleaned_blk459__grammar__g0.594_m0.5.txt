@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 459 | label: grammar | g:0.594 m:0.5 ---
+
+tasmād ato me gamanaṃ bhavantyo [!] mā vārayadhvaṃ na hi no asty apāyaḥ ।
+asmād viśeṣāṇi sukhāni manye lapsye aham ity uccalito aham adya ।।

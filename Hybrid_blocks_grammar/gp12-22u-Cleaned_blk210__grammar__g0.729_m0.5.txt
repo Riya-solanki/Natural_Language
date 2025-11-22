@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 210 | label: grammar | g:0.729 m:0.5 ---
+
+[] tad evam atiparicaritam । hari-carita-varṇanaṃ madhura-rāga-nīrandhraṃ karṇa-randhraṃ praviśad eva taṃ mūrcchām ṛcchantam api jāgarayāmāsa, nāma-dheyam iva nidrā-labdha-cid-rāhityam ।

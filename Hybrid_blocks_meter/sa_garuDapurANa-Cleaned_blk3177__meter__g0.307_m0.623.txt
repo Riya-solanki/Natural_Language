@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3177 | label: meter | g:0.307 m:0.623 ---
+
+śanairvidyā śanairthāḥ śanaiḥ parvatamāruhet ।
+śanaiḥ kāmaṃ ca dharmaṃ ca pañcaitāni śanaiḥ śanaiḥ ।।

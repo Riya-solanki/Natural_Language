@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4206 | label: meter | g:0.194 m:0.5 ---
+
+taṃ ca divyaṃ drumaśreṣṭhaṃ pārijātam amitrajit 
+arcyam arcitam avyagram iṣṭe deśe nyaveśayat ।।

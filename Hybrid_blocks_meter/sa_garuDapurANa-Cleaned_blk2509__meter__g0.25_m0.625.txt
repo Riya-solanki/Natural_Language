@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2509 | label: meter | g:0.25 m:0.625 ---
+
+trayodaśasya raucyasya manoḥ putrānnibodha me ।
+citraseno vicitraśca tapodharmarato dhṛtiḥ ।।

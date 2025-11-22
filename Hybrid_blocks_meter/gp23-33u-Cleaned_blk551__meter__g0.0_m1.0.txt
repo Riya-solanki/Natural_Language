@@ -1,0 +1,10 @@
+--- source: gp23-33u-Cleaned.txt | block: 551 | label: meter | g:0.0 m:1.0 ---
+
+[] dṛṣṭvā ca gīrdevatā-deham ivākṣara-rūpatāṃ dharantaṃ
+gaṅgā-pravāham iva viṣṇupadād avatarantam,
+kailāsam iva vaiṣṇava-lakṣa-śiva-mūrtiṃ,
+nija-yaśaḥ-stomam iva vividha-gāna-kṛta-karṇa-pūrtim,
+kṣīra-nīra-nidhi-m ivāntarvāsita-nārāyaṇaādi-nāmānam,
+amanda-kalā-sāndra-candramasam ivāntaraṅgatayā dhṛta-kṛṣṇa-dhāmānam,
+śārada-nīrada-samudāyam iva śarma-netrāpy adhārā varṣantam,
+bhakti-viśeṣāsakti-vyakta-nija-bhakta-prahāsam iva kṛta-harṣantaṃ parāmamarśa ।

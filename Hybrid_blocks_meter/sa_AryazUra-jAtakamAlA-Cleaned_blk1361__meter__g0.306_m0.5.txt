@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1361 | label: meter | g:0.306 m:0.5 ---
+
+surādhipaśrīrapi vīkṣate guṇān guṇoditāneva paraiti saṃnati ।
+guṇebhya eva prabhavanti kīrtayaḥ prabhāvamāhātmyamiti śritaṃ guṇān ।।

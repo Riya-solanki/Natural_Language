@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1087 | label: meter | g:0.0 m:0.5 ---
+
+guṇavivecane kṛte alaṅkārāḥ prāptāvasarāḥ iti saṃprati śabdālaṅkārānāha

@@ -1,0 +1,3 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1004 | label: meter | g:0.0 m:0.5 ---
+
+iti kulālikāmnāye śrīkubjikāmate śikhākalpaikadeśo nāma navamaḥ paṭalaḥ

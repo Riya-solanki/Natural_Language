@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1120 | label: meter | g:0.194 m:1.0 ---
+
+vṛttāvanyatra tatra vā ।
+nāmnaḥ sa vṛttyavṛttyośca

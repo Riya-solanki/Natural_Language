@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 953 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evaṃ paurṇamāsīm api vijñāpya samanujñāpya purataḥ prasthāpya ca śīghram utthāpyatāṃ vrajaḥ iti dundubhi-nirghoṣaṇayā kṛta-poṣaḥ so' yaṃ ghoṣaḥ sva-niruktim evātiriktatayā vyaktavān । gavyānāṃ mānuṣyakānām api kolāhalān mahā-ghoṣāspadatā hi ghoṣatā nirdiṣṭā । yathā,

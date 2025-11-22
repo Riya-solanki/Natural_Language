@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 322 | label: meter | g:0.306 m:0.5 ---
+
+gadyaṃ padyaṃ ca miśraṃ cetyetat sarvaṃ tridhā smṛtam ।
+apādaḥ padasandarbho gadyaṃ hṛdyaṃ manīṣiṇām ।।

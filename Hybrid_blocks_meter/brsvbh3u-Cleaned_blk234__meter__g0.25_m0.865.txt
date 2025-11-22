@@ -1,0 +1,6 @@
+--- source: brsvbh3u-Cleaned.txt | block: 234 | label: meter | g:0.25 m:0.865 ---
+
+naiyamikāgnihotragatapayaḥprabhṛtiprāptau bhojanāgatabhaktadravyatā vidhīyate ।
+na caitāvatā bhojanasya prayojakatvam ।
+uktametadyathā bhojanakālātikramātprāṇāgnihotrasya na bhojanaprayuktatvamiti ।
+na caikadeśadravyatayottarārdhātsviṣṭakṛte samavadyatītivadaprayojakatvamekadeśadravyasādhanasyāpi

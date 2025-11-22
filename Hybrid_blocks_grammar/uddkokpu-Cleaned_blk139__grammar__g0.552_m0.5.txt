@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 139 | label: grammar | g:0.552 m:0.5 ---
+
+evaṃ brūyāḥ punarajani yaḥ premakope mitho vāṃ jāte maune capalacapalastatkṣaṇaṃ pūrvamuktyām ।
+tādṛkpremṇaściravirahiṇaḥ prāṇanāthasya vāṇī seyaṃ mattaḥ śravaṇasarasā śrūyatāṃ śrāvyabandhā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3904 | label: meter | g:0.25 m:0.625 ---
+
+jīmūtādvikṛtirjajñe tato bhīmaratho abhavat ।
+tato madhuratho jajñe śakunistasya cātmajaḥ ।।

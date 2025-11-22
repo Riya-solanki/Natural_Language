@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1047 | label: hybrid | g:0.506 m:0.453 ---
+
+kimanityaṃ nāma ?, yasya kadācid bhāvastadanityam utpattidharmakamanutpannaṃ nāsti vināśadharmakaṃ
+cāvinaṣṭaṃ nāsti।
+kiṃ punaḥ ?, sarvaṃ bhautikaṃ ca śarīrādi abhautikaṃ ca buddhyādi tadubhayamutpattivināśadharmakaṃ vijñāyate tasmāttatsarvamanityamiti ।।

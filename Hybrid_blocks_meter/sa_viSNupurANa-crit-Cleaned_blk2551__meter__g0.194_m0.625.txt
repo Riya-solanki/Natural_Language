@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2551 | label: meter | g:0.194 m:0.625 ---
+
+saṃhitātritayaṃ cakre śākapūṇir athetaraḥ 
+niruktam akarot tadvac caturthaṃ munisattama ।।

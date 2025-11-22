@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 300 | label: grammar | g:0.625 m:0.5 ---
+
+dvitīya daśakam hetuphalasambandhabhraṃśaḥ, niruttarasthānabhraśaḥ, bahuvidhaviṣayavikalpapratibhānotpādaḥ, akṣaralikhanābhiniveśaḥ, abhāvābhiniveśaḥ, akṣarābhiniveśaḥ, anakṣarābhiniveśaḥ, janapadādimanaskāraḥ, lābhasatkāraślokāsvādanam, amārgopāyakauśalamārgaṇañceti daśa ।

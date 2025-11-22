@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1253 | label: meter | g:0.306 m:0.5 ---
+
+yā sā himavataḥ putrī bhavenoḍhā tapodhanā ।
+umā nāmnā ca tasyāḥ sā kośāñjātā tukauśikī ।।

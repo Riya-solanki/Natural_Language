@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 40 | label: meter | g:0.37 m:0.539 ---
+
+dharmādhāno aśaśiśuciyamaḥ preyasīmitrabandhusthānotsāhopacayavijayaprāṇavidyākalāptau ।
+ślāghye dehapraśamasamaye nirvivāde vibhāge vittatyāge na bhavati satāṃ granthibandhānubandhaḥ ।।

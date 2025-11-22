@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 392 | label: hybrid | g:0.521 m:0.5 ---
+
+[] atha sahāyāntarāṇy api tābhis tad antarāptāni yathā ।

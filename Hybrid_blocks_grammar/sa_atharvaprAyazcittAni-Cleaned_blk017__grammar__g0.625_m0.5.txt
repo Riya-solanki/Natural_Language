@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 17 | label: grammar | g:0.625 m:0.5 ---
+
+yadi manasi kurvītābhayam vo abhayaṃ me astv ity abhayaṃ haivāsya bhavaty evam upatiṣṭhamānasya ।।

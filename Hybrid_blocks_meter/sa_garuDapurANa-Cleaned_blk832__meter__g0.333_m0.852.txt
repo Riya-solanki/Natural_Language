@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 832 | label: meter | g:0.333 m:0.852 ---
+
+śrīgaruḍamahāpurāṇam- 
+maheśvara uvāca ।
+pañcatattvārcanaṃ brūhi śaṅkhacakragadādhara ।
+yena vijñānamātreṇa naro yāti paraṃ padam ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1173 | label: grammar | g:0.604 m:0.5 ---
+
+ity atra iyaṃ vāsavattety anenopacāra-prayogeṇa bhāvino vāsavadattā-kopasya sūcanāt sahasārtha-sampatti-rūpam idam ekaṃ patākā-sthānakam ।

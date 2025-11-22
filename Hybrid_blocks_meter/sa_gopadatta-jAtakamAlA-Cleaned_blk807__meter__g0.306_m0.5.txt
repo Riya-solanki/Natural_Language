@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 807 | label: meter | g:0.306 m:0.5 ---
+
+alam alaṃ mā gā bhadre vai kopasya cetovidāhinaḥ ।
+prakṛtiduḥkheṣu ko bhūyaḥ sattveṣu duḥkhāni cintayet ।।

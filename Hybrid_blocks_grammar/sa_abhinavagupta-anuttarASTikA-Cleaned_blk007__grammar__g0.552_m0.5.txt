@@ -1,0 +1,4 @@
+--- source: sa_abhinavagupta-anuttarASTikA-Cleaned.txt | block: 7 | label: grammar | g:0.552 m:0.5 ---
+
+pūrvābhāvabhavakriyā hi sahasā bhāvāḥ sadā asmin bhave madhyākāravikārasaṃkaravatāṃ teṣāṃ kutaḥ satyatā ।
+niḥsatye capale prapañcanicaye svapnabhrame peśale śaṅkātaṅkakalaṅkayuktikalanātītaḥ prabuddho bhava ।।

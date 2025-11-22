@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 812 | label: hybrid | g:0.373 m:0.462 ---
+
+vilīyenduḥ sākṣād amṛtarasavāpī yadi bhavet kalaṅgas tatratyo yadi ca vikacendīvaravanam ।
+tataḥ snānakrīḍājanitajaḍabhāvair avayavaiḥ kadācin muñceyaṃ madanaśikhipīḍāparibhavam ।।
+rājaśekharasyaitau

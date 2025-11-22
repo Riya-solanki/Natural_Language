@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 243 | label: grammar | g:0.562 m:0.5 ---
+
+śrīrāmabhaṭṭārake api tāvat kṣetraṃ tathā tīrthaṃ yāvad brahmaṇi no viśet ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1149 | label: grammar | g:0.75 m:0.5 ---
+
+[] tasmād athedaṃ vivriyate । tad evaṃ dīrgha-rātratayā mandatā-pātraṃ hemantārdhena sārdhaṃ śiśiraṃ niśi niśi vaṃśī-śaṃsitam abhyasyati tasmin vasanta āyātaḥ ।

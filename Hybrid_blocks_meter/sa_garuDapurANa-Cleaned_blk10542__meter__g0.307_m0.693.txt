@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10542 | label: meter | g:0.307 m:0.693 ---
+
+pravāhyuvāca ।
+sutāḥ prasaṃgena bhavanti vīryāttava prasādātparamāḥ sampadaśca ।
+yā hyuttamaślokarasāyanāḥ kathāstatsevanādāstvapavargavartmani ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 634 | label: meter | g:0.306 m:0.5 ---
+
+padbhyāṃ spṛśedvasumatīṃ yadi sā sugātrī meghābhivṛṣṭasikatāsu vanasthalīṣu ।
+paścānnatā gurunitambatayā tato asyā dṛśyeta cārupadapaṅktiralaktakāṅkā ।।

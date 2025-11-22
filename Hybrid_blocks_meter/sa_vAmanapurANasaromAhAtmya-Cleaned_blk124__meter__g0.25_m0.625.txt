@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 124 | label: meter | g:0.25 m:0.625 ---
+
+śriyaḥ kāntāya dāntāya dāntadṛśyāya cakriṇe ।
+namaḥ padmāsihastāya namaḥ kanakaretase ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 213 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ vṛtte nivṛtte sarvatra ca vraja-jane gṛha-vartmānuvṛtte nityavad eva vraja-mahendra-tanūjas tau sūta-rāja-tanūjau saṅgata eva nināya । nītvā ca tayor ātmanā tṛtīyaḥ san prasaṅgataḥ pracchannatayā papraccha-kathayataṃ, katham etāvān kasmān mūrcchāveśaḥ kleśa iva parāmṛṣṭaḥ? iti ।

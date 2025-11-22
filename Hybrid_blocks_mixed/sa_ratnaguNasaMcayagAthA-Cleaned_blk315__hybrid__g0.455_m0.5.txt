@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 315 | label: hybrid | g:0.455 m:0.5 ---
+
+saci pratyayānarahabodhi spṛhāṃ janeti [duḥśīla bhoti]viduṣāṃ tatha chidracārī 
+atha bodhi uttamaśivāṃ pariṇāmayanti sthitu śīlapāramita kāmaguṇebhi yukto ।।

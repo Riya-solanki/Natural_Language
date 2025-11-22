@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1652 | label: meter | g:0.194 m:0.75 ---
+
+devapakṣe pramudite daityapakṣe viṣīdati 
+tripādavigrahe dharme adharme pādavigrahe ।।

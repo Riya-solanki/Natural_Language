@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 304 | label: grammar | g:0.831 m:0.166 ---
+
+anantatvāditi । tathāhi nava rasāḥ । tatra śṛṅgārasya dvau bhedau । saṃbhogo vipralambhaśca । saṃbhogasyāpi parasparāvalokanāliṅganaparicumbanādikusumoccayajalakelisūryāstamayacandrodayaṣaḍṛtuvarṇanādayo bahavo bhedāḥ । vipralambhasyābhilāṣādaya uktāḥ । tayorapi vibhāvānubhāvavyabhicārivaicitryam । tatrāpi nāyakayoruttamamadhyamādhamaprakṛtitvam । tatrāpi deśakālāvasthādibhedā ityekasyaiva rasasyānantyam ।
+kā gaṇanā tvanyeṣāṃ । kramatvaṃ tu sāmānyamāśritya rasādidhvanibheda eka eva gaṇyate ।।

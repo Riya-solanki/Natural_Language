@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3359 | label: meter | g:0.29 m:0.747 ---
+
+keśavāyāsadhūmena roṣaniḥśvāsavāyunā 
+dīptam antargataṃ tasya hṛdayaṃ mānasāgninā ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1086 | label: meter | g:0.25 m:0.5 ---
+
+āgacchata drutaṃ devā aditiṃ saṃpraviśya vai 
+manvantare prasūyāmas tan naḥ śreyo bhaved iti ।।

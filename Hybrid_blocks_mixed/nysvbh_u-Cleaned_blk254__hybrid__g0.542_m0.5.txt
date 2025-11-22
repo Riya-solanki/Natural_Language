@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 254 | label: hybrid | g:0.542 m:0.5 ---
+
+na vipratipattimātrādavyavasthāmātrādvā saṃśayaḥ, kiṃ tarhi ? vipratipattimupalabhamānasya saṃśayaḥ, evamavyavasthāyāmapīti।
+atha vā aastyātmā' ityeke anāstyātmā' ityapare manyante ityupalabdheḥ kathaṃ saṃśayaḥ syāt ? iti।
+tathopalabdhiravyavasthitā anupalabdhiś cāvyavasthiteti vibhāgenādhyavasite saṃśayo nopapadyate iti ।।

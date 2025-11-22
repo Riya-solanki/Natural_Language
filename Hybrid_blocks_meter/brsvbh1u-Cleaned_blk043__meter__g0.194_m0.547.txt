@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 43 | label: meter | g:0.194 m:0.547 ---
+
+nanyaparaṃ vākyaṃ svārthaṃ upacaritārthaṃ yuktam ।
+uktaṃ hi - ana vidhau

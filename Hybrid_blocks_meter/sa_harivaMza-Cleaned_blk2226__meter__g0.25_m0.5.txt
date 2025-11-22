@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2226 | label: meter | g:0.25 m:0.5 ---
+
+garbhakāle tv asaṃpūrṇe aṣṭame māsi te striyau 
+devakī ca yaśodā ca suṣuvāte samaṃ tadā ।।

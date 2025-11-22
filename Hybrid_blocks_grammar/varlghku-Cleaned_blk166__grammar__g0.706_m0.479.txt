@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 166 | label: grammar | g:0.706 m:0.479 ---
+
+pūrvaparāvaradakṣiṇottarāparādharāṇi vyavasthāyāmasaṃjñāyām ।।
+eteṣāṃ vyavasthāyāmasaṃjñāyāṃ ca sarvanāmasaṃjñā gaṇasūtrātsarvatra yā prāptā sā jasi vā syāt । asaṃjñāyāṃ kim ? uttarāḥ kuravaḥ । svābhidheyāpekṣāvadhiniyamo vyavasthā । vyavasthāyāṃ kim ? dakṣiṇā gāthakāḥ, kuśalā ityarthaḥ ।।

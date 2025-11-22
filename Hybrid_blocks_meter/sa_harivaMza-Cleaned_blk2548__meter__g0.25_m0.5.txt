@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2548 | label: meter | g:0.25 m:0.5 ---
+
+taṃ gatāsuṃ gataśrīkaṃ patitaṃ vīkṣya gardabham 
+jñātīṃs tathāparāṃs tasya cikṣepa tṛṇarājani ।। 
+te sarve tālapakvaiś ca nipetur dharaṇītale । 
+sā bhūr gardabhadehaiś ca tālapakvaiś ca pātitaiḥ 
+babhāse channajaladā dyaur ivāvyaktaśāradī ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 102 | label: meter | g:0.246 m:0.806 ---
+
+taccāsyāvṛtiśūnyatvān na vyañjakamapekṣate 
+tanna sāṃśayikaṃ tasmād viparītaṃ na jātucit ।।

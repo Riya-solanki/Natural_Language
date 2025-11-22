@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 238 | label: grammar | g:0.562 m:0.5 ---
+
+ata eva uktaṃ śrīniśāṭane godoham iṣupātaṃ vā nayanonmīlanaṃ ca vā ।।

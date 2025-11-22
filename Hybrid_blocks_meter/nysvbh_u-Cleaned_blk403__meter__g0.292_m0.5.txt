@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 403 | label: meter | g:0.292 m:0.5 ---
+
+apunaruktadoṣo abhyāsena' itiprakṛtam, anarthako abhyāsaḥ punaruktaḥ arthavānabhyāso anuvādaḥ, yo ayamabhyāsaḥ

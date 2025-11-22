@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3346 | label: meter | g:0.25 m:0.5 ---
+
+viparītaratiḥ kāmaḥ svāyateṣu na vidyate ।
+yathopāyo vadho daṇḍastathaiva hyanu vartate ।।

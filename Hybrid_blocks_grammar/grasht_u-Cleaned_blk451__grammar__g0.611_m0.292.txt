@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 451 | label: grammar | g:0.611 m:0.292 ---
+
+rāgādhikārigandhakādīn āha ।।
+tatra gandhakaḥ kīdṛśaṃ rāgaṃ dadāti tatsvarūpamāha bāhya ityādi ।।
+gandhakarāgo bāhyo bahirbhavaḥ punarmanaḥśilātāle manaḥśilā manohvā tālaṃ haritālaṃ tāvubhe vilulitarāge cañcalarāge punar mākṣikasatvarasakau svarṇamākṣikasatvakharparikau dvāveva rañjane rasarāge śastau gandhakamanaḥśilātālebhyaḥ pradhānau atyadhikāvityarthaḥ ।।

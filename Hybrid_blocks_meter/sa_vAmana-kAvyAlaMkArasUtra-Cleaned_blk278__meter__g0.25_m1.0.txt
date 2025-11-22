@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 278 | label: meter | g:0.25 m:1.0 ---
+
+udgarbhahūṇataruṇīramaṇopamardabhugnonnatistananiveśanibhaṃ himāṃśoḥ ।
+bimbaṃ kaṭhoravisakāṇḍakaḍāragaurairviṣṇoḥ padaṃ prathamamagrakarairavyabakti ।।

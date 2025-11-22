@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 953 | label: hybrid | g:0.5 m:0.5 ---
+
+sūkṣmāṇi saṃdhigahanāny api cāvagāhya svapratyayā bahuvidhāni matāntarāṇi ।
+medhāvino api nanu rāgapiśācavaśyāḥ saṃprāpnuvanti paramaṃ smṛtivipralopam ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 916 | label: hybrid | g:0.542 m:0.5 ---
+
+tatpūrvānubhave bhavanti laghavo bhāvāḥ śaśāṅkādayaḥ tadvaktropamite paraṃ pariṇamecceto rasāyāmbujāt ।
+evaṃ niścinute manastava mukhaṃ saundaryasārāvadhi badhnāti vyavasāyametumupamotkarṣaṃ svakāntyā svayam ।।

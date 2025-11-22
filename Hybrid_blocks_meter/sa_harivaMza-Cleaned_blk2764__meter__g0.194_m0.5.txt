@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2764 | label: meter | g:0.194 m:0.5 ---
+
+aho me supriyaṃ kṛṣṇa yat tvaṃ mānuṣadehavān 
+samagraṃ vaiṣṇavaṃ tejo vinigūhasi roṣitaḥ ।।

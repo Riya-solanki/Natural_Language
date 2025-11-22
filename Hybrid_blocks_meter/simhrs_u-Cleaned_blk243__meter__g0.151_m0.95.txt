@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 243 | label: meter | g:0.151 m:0.95 ---
+
+yathā-
+dhātrī-vacobhir dhvani-marma-garbhaiḥ
+kṣaṇaṃ saroṣa-smita-mātta-lajjā ।
+pāñcālikā-dvandvam ayojayat sā
+sambandhinī svasya sakhī-janasya ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 892 | label: meter | g:0.194 m:0.5 ---
+
+tasmiṃs tu devaiḥ sadṛśo divaṃ prāpte mahīpatau 
+dāyādyam indrād ājahrur ācārāt tanayā rajeḥ ।।

@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 29 | label: hybrid | g:0.549 m:0.5 ---
+
+bhavatu māṇavakasaṃskārastaddvāreṇa tvadhyāranāṅgaṃ nādhyayanāṅgamiticet, maivaṃ, antaraṅgatvādadhyayanasya tadarthyameva saṃskārasya yuktam ।
+adhyayanamapi phalavadadhyāpanamapi tayoḥ kasyāyaṃ māṇavakasaṃskāro aṅgaṃ bhavatvityapekṣāyāmadhyāpanasya puruṣāntaragāmitvena bahiraṅgatvānmāṇavakagatādhyayanārthatvameva yuktam ।
+yathaiva hyadhyayanasyācāryakasiddhiprayojanatāmanāhṛtya vedamadhītya snāyād' iti smṛtiṃ bādhitvāntaraṅgatvādarthajñānārthataivāśrīyate, tathopanayanasyāpyadhyayanārthatā veditavyā ।

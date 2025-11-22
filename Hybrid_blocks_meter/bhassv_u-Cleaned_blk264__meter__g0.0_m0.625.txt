@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 264 | label: meter | g:0.0 m:0.625 ---
+
+{padmāvatī} - kiṃṇukhu pavisāmi 
+[kin nu khalu praviśāmi । ]

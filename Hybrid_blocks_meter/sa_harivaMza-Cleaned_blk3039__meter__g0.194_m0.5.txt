@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3039 | label: meter | g:0.194 m:0.5 ---
+
+sa phenaṃ vaktrajaṃ caiva vavarṣa rajasāvṛtam 
+himakāle yathā vyomni nīhāram iva candramāḥ ।।

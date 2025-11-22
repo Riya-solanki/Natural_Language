@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 220 | label: meter | g:0.194 m:0.5 ---
+
+pūrvakāle tvayā mahyaṃ prasādo yaḥ kṛtaḥ prabho 
+kubjatvaṃ śabdarūpeṇa pūrvaṃ vyāharitaṃ yataḥ ।।

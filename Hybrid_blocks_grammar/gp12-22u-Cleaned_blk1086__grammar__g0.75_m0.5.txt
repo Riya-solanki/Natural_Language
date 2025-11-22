@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1086 | label: grammar | g:0.75 m:0.5 ---
+
+[] kṛṣṇa uvāca-mamānayaṃ ko vā nayana-viṣayaḥ kṛtaḥ? pratyuta sat-kula-prabhavatīnāṃ bhavatīnāṃ vana-devatāhṛta-vastrāṇāṃ sāhāyyam eva kāryam iti tathā mayārabdham asti । na tu bhavatīnāṃ cela-cela-pracaye mādṛśām abhilāṣa-melaḥ sambhavati । tasmād asmat-paritoṣa-poṣaṇāya yadi kiñcid api dattha, tadā tan-madād eva devatā-virodham apy anurodha-viṣayī-kurmaḥ ।

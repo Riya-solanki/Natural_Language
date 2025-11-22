@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 123 | label: hybrid | g:0.542 m:0.5 ---
+
+atha bhagavānavācamahābodhisattvasamayasaṃbhavadharmādhiṣṭhānavajrannāma samādhiṃ samāpadyedaṃ sarvatathāgatajāpasamayaṃ nāma sarvatathāgatahṛdayaṃ svahṛdayānniścacāra vajrabhāṣa ।।

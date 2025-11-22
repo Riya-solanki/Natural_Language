@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 480 | label: grammar | g:0.856 m:0.04 ---
+
+ānarcire vrajeśitrā mātṛkā yās tadā tu tāḥ ।
+mātuḥ kam iva kaṃ yāsām ity artha-vyaktim āgatāḥ ।।atha nāndīmukha-śrāddhaṃ rāddhaṃ gopāla-pālinā ।
+pitaro hi svayaṃ yasmiṃs te nāndīmukhatāṃ gatāḥ ।।
+[] atha veda-vidhāna-paṭubhiḥ sārdham antaḥpuraṃ praviṣṭe bhadra-kumbhādi-bhadra-viśiṣṭa-sūtikā-gṛhāgra-vedy-upaviṣṭe śrī-vraja-kula-mahiṣṭhe parama-manorathārohiṇī rohiṇī tad avadhāya kula-traya-yaśo-dāyi-yaśodā-khaṭṭām antaḥ-paṭena vyavadhāya bālaṃ pidhāya gṛhāvagrahaṇīm ānināya । kintu nava-bālakaṃ vilokayituṃ śarmaṇā narmaṇā ca nijālaṅkṛty-arthaṃ prajāvatyas taṃ pratyabhitaḥ kim api kim apy amūlyatā-paryācitaṃ yācitavatyaḥ pratiśrute tu taṃ vilokayāmāsuḥ ।

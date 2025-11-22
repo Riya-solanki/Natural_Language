@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2955 | label: meter | g:0.25 m:0.75 ---
+
+svarṇacoraḥ kṛmiḥ kīṭaḥ tṛṇādirgurutalpagaḥ ।
+kṣayarogī śyāvadantaḥ kunakhī śipiviṣṭakaḥ ।।

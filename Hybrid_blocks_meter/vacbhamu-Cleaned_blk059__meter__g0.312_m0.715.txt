@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 59 | label: meter | g:0.312 m:0.715 ---
+
+iti ।
+na ca nilīnameva vijñānamarthātmānau jñāpayati cakṣurādivaditi vācyam ।
+jñāpanaṃ hi jñānajananam, janitaṃ ca jñānaṃ jaḍaṃ sannoktadūṣaṇamativarteteti ।
+evamuttarottarāṇyapi jñānāni jaḍānītyanavasthā ।
+tasmādaparādhīnaprakāśā saṃvidupetavyā ।

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 725 | label: grammar | g:0.667 m:0.5 ---
+
+tīrāntānatabālavetasataruśreṇīniruddhātapā nadyaḥ svacchajalāntarālavilasanmīnāvalīmekhalāḥ । sakhyaḥ premaniratyayā iva sakhe tatrāpy alaṃ yoginām ākṣeptuṃ viṣayābhilāṣavimukhaṃ pradhyānadhīraṃ manaḥ ।।

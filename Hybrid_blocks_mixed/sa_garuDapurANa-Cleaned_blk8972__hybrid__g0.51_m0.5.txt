@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8972 | label: hybrid | g:0.51 m:0.5 ---
+
+na me asti santatistāta na suhṛnna ca bāndhavaḥ ।
+na ca mitraṃ hi me tādṛgyaḥ kuryādaurdhvadaihikam ।।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 242 | label: grammar | g:0.75 m:0.5 ---
+
+-'sauryaṃ caruṃ nirvapedbrahmavarcasakāmaḥ' aāryamaṇaṃ caruṃ nirvapet svargakāmaḥ' aprājāpatyaṃ caruṃ nirvapecchatakṛṣṇalakāmaḥ'ityādi bhinnaphalakayagānāṃ na kramaḥ, asaṃbandhāt । yugapatpāṭhāsaṃbhavādavarjanīyatā prāptaḥ pāṭhakramo adhyayanārthaḥ syāt ।

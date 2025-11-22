@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 279 | label: grammar | g:0.75 m:0.5 ---
+
+asya tu vibhāgaḥ pūrvaṃ hi pratiṣedhasiddhāvasati pratiṣedhye kimanena pratiṣidhyate ?, paścāt siddhau pratiṣedhāsiddhiḥ- pratiṣedhābhāvāditi, yūgapatsiddhau pratiṣedhyasiddhyabhyanujñānādanarthakaḥ pratiṣedha iti, pratiṣedhalakṣaṇe ca vākye anupapadyamāne siddhaṃ pratyakṣādīnāṃ pramāṇatvamiti ।।

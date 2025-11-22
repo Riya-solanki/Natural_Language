@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 880 | label: meter | g:0.272 m:0.841 ---
+
+sanatkumāra uvāca ।
+brahmaṇo vacanaṃ śrutvā ṛṣayaḥ sarva eva te ।
+punareva ca papracchurjagataḥ śreyakāraṇam ।।

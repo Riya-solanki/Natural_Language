@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2084 | label: meter | g:0.25 m:0.5 ---
+
+riṣṭo nāma diteḥ putro variṣṭho dānaveṣu yaḥ 
+sa kuñjaratvam āpanno daityaḥ kaṃsasya vāhanaḥ ।। 
+kuñjaratvam agād daityaḥ kaṃsasyaiva sa vāhanaḥ । 
+lambo nāmeti vikhyāto yo asaudaityeṣu darpitaḥ 
+pralambo nāma bhūtvāsau vaṭaṃ bhāṇḍīram āśritaḥ ।। 
+śikharo nāma balavān ya āsīd dānavarṣabhaḥ । 
+khara ity ucyate daityo dhenukaḥ so asurottamaḥ 
+ghoraṃ tālavanaṃ daityaś caraty utsārayan prajāḥ ।।

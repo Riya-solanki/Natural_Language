@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 756 | label: meter | g:0.25 m:0.5 ---
+
+ahaṃ punarna paśyāmi śūnyaṃ kvacana kiñcana ।
+yatrāpyanyaṃ na paśyāmi nanvaśūnyaṃ mayaiva tat ।।

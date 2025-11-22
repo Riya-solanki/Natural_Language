@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3822 | label: meter | g:0.194 m:0.625 ---
+
+sa vaiśravaṇavastavyaṃ nidhīnām uttamaṃ nidhim 
+śaṅkham āhvayatopendro niśi svabhavane vibhuḥ ।।

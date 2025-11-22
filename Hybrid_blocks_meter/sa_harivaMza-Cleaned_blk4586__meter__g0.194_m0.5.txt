@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4586 | label: meter | g:0.194 m:0.5 ---
+
+anena yadumukhyena yaduvaṃśaś ca vardhitaḥ 
+kuntyāś ca pramukhe proktā pratijñā pāṇḍavān prati 
+nivṛtte bhārate yuddhe pratidāsyāmi te sutān ।। 
+api satyaṃ ca kṛtavān kuntyā niryātya pāṇḍavān । 
+mokṣitaś ca mahātejā nṛgaḥ śāpāt sudāruṇāt 
+yavanaś ca hataḥ saṃkhye kāla ity abhiviśrutaḥ ।।

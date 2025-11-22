@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 770 | label: meter | g:0.29 m:0.638 ---
+
+saṃsargeṇa, yathā-
+utpattir deva-yajanād brahma-vādī nṛpaḥ pitā ।
+suprasannojjvalā mūrtir asyāṃ snehaṃ karoti me ।।

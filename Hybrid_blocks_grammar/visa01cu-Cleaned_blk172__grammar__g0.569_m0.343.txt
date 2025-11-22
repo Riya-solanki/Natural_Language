@@ -1,0 +1,5 @@
+--- source: visa01cu-Cleaned.txt | block: 172 | label: grammar | g:0.569 m:0.343 ---
+
+anyathā "devadatto grāmaṃ yāti" iti vākye tadbhṛtyasya tadanusaraṇarūpavyaṅgyāvagaterapi kāvyatvaṃ syāt ।
+astviti cet ? na, rasavata eva kāvyatvāṅgīkārāt ।
+kāvyasya prayojanaṃ hi rasāsvādasukhapiṇḍadānadvārā vedaśāstravimukhānāṃ sukumāramatīnāṃ rājaputrādīnāṃ vineyānāṃ "rāmādivatpravartitavyaṃ na rāvaṇādivat" ityādikṛkatyākṛtyapravṛttinivṛttyupadeśa iti cirantanairapyuktatvāt ।

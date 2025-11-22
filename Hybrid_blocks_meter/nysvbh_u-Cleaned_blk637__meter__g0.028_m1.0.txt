@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 637 | label: meter | g:0.028 m:1.0 ---
+
+kasyacidamlaphalasya gṛhītatadrasasāhacarye rūpe
+gandhe vā kena cidindriyeṇa gṛhyamāṇe rasanasyendriyāntarasya
+vikāro rasānusmṛtau rasagardhipravartito
+dantodakasaṃplavabhūto gṛhyate tasyendriyacaitanye anupapattiḥ
+nānyadṛṣṭamanyaḥ smarati ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11870 | label: meter | g:0.316 m:0.5 ---
+
+mahādevīṃ pūjayasvādya bhaktyā sadvaiṣṇavānāṃ mā dadasvāpyathānnam ।
+sadvaiṣṇavānāṃ yadi vānnaṃ dadāsi bhāgyaṃ ca te paśyato nāśameti ।।

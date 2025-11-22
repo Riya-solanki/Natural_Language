@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 90 | label: meter | g:0.25 m:0.5 ---
+
+yuge yuge bhavanty ete sarve dakṣādayo nṛpa 
+punaś caiva nirudhyante vidvāṃs tatra na muhyati ।।

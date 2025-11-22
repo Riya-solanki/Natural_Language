@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1201 | label: meter | g:0.217 m:0.845 ---
+
+atyantastimitāṅgānāṃ vyāyāmena sukhaiṣiṇām 
+bhrāntijñānavatāṃ puṃsāṃ prahāro api sukhāyate ।।

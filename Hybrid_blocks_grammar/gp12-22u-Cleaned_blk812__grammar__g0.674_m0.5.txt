@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 812 | label: grammar | g:0.674 m:0.5 ---
+
+[] atha taṃ nikhiloccaṃ śiloccayaṃ prati pratihata-nija-ṭaṅkatayā sa-śaṅkaḥ sa vajrapāṇir vismaya-lajjā-bhayāni sajjaṃś ciram eva tuṣṇīmbhūṣṇutayā cintayāmāsa-
+āṃ, kṛṣṇākāram anu viṣṇur eva tatrāvirbhaviṣṇutām āsasāda । kathaṃ vā sa ca parāt parājiṣṇutām āsīdatu, yaḥ khalv ahāryam api hāryatām āsādayāmāsa ।

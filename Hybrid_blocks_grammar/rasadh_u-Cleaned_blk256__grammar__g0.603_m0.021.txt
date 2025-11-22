@@ -1,0 +1,10 @@
+--- source: rasadh_u-Cleaned.txt | block: 256 | label: grammar | g:0.603 m:0.021 ---
+
+vyāghramadanākhyakodravānāṃ setikāṃ piṣṭvā tanmadhyānmāṇakadvayaṃ susūkṣmacūrṇamādāya sthālyāṃ kṣiptvopari kāṃjikaṃ tathā jalaṃ cākaṇṭhaṃ kṣipet ।।
+tacca saptabhirdinair atyamlaṃ bhavati tathānena vidhinā śeṣamāṇadvayenātyartham amlaṃ jalaṃ kṛtvā ekaśaḥ kāryam ।।
+tataḥ śvetābhrakamaṇacūrṇaṃ tenāmlajalena saholūkhale yāmamekaṃ kuṭṭayitvā tasminneva jale brūḍat dināni rāhayitvā paścādātape śoṣayitvā tato rālāṭaṃkaṇakṣārau lavaṇaṃ kaṇagugguluśceti caturṇāmauṣadhānāṃ pratyekamaṇacaturthāṃśaṃ tathā tilasya gadyāṇān guḍasya gadyāṇān vallapīṭhīpālī madhukarṣaḥ dugdhakarṣaḥ etatsarvamekatra kṛtvā dhānyābhrakeṇa saha muhurmuhuḥ kṣodayitvā gadyāṇakadaśakamātrāḥ anekapūpāḥ kṛtvā rākṣase yantre aṅgārān kṣiptvā ekāṃ pūpāṃ muñcet ।।
+ekasyāṃ ca galitāyāṃ dvitīyāṃ kṣipet ।।
+evaṃ prahareṇaikena sarvā api gālanīyā ।।
+tataḥ svayaṃ śītalāḥ pūpāḥ samuddhṛtya tāsāṃ madhyād dhānyābhrakasaṃbhavā drutirgrāhyā ।।
+anayā yuktyā sukhenāpi dhānyābhrakadrutirbhavati ।।
+iti dhānyābhrakadrutikaraṇaṃ prathamam ।।

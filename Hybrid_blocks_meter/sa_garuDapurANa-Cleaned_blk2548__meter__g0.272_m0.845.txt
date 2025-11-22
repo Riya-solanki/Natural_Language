@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2548 | label: meter | g:0.272 m:0.845 ---
+
+muniḥ kraiñcukaye prāha mārkaṇḍeyo mahātapāḥ ।
+rucivṛttāntamakhilaṃ pitṛsaṃvādalakṣaṇam ।।

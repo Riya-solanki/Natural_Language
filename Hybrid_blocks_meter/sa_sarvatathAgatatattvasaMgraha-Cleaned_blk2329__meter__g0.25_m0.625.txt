@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2329 | label: meter | g:0.25 m:0.625 ---
+
+tasya pārśveṣu sarveṣu mahāsatvān samālikhet ।
+maṇicinhān samāsena yathāvadanupūrvaśaḥ ।।

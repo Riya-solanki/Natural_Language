@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5813 | label: hybrid | g:0.5 m:0.5 ---
+
+udaraṃ musalaṃ pātu pṛṣṭhaṃ me pātu lāṅgalam ।
+ūrdhvaṃ rakṣatu me śārṅgaṃ jaṅghe rakṣatu nandakaḥ ।।

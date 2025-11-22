@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1348 | label: meter | g:0.25 m:0.75 ---
+
+mahendrakalpena saha tvayā saṃbhāṣaṇotsavaḥ ।
+iti darśitasauhārde kasya nātimanorathaḥ ।।

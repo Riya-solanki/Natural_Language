@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11882 | label: meter | g:0.306 m:0.5 ---
+
+tasyāḥ saṃgaṃ suvidūraṃ visṛjyaceṣṭvā samagraṃ kuru sarvadā tvam ।
+subuddhirūpā tvīrayantī jagāda bhajasva viṣṇuṃ paramādareṇa ।।

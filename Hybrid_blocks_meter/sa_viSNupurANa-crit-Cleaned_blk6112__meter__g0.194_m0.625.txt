@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6112 | label: meter | g:0.194 m:0.625 ---
+
+sarvabhūtamayo acintyo bhagavān bhūtabhāvanaḥ 
+anādir ādir viśvasya pītvā vāyum aśeṣataḥ ।।

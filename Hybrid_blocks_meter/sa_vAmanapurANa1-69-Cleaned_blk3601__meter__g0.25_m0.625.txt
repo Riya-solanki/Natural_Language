@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3601 | label: meter | g:0.25 m:0.625 ---
+
+gayāyāṃ tīrthajuṣṭāyāṃ snātvā śaucasamanvitaḥ ।
+mama nāma samuddiśya piṇḍanirvapaṇaṃ kuru ।।

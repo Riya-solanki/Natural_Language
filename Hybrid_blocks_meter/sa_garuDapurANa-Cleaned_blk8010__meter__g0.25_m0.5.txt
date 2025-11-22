@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8010 | label: meter | g:0.25 m:0.5 ---
+
+tamutsaṅgagataṃ sūre naṣṭe pūre akṣipaṃ tadā ।
+katkṛtyaṃ kurvato nāvi lokaistu jñātameva na ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 675 | label: meter | g:0.25 m:0.5 ---
+
+ko nu saṃbhāvayet puṇyāṃ pramodāmṛtapeśalāṃ ।
+āvayoḥ saṃgatim imāṃ himavadvindhyayor iva ।।

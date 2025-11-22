@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 924 | label: meter | g:0.307 m:0.623 ---
+
+muktā vimuktā iva tairvimuktā dhārā nipetuḥ praśaśāma reṇuḥ ।
+gandhaścacārānibhṛto dharaṇyāṃ vikīryamāṇo jaladānilena ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3134 | label: hybrid | g:0.361 m:0.5 ---
+
+evaṃ te kurvataḥ kṛṣṇa mātāpitror anugraham 
+parityajetāṃ tau śokaṃ syāc ca dharmas tavātulaḥ ।। 
+dharmas te vipulo ananto bhaviṣyati na saṃśayaḥ । 
+kṛṣṇas tu viditārtho vai tam āhāmitadakṣiṇam 
+bāḍham ity eva tejasvī na ca cukrodha keśavaḥ ।।

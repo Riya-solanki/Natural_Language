@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4852 | label: meter | g:0.25 m:0.5 ---
+
+tān dṛṣṭvācintayaṃs tatra rudrasyānucarāgnayaḥ 
+niyuktāḥ śūlinā pūrvaṃ rakṣaṇe nagarasya hi । 
+ūcuḥ paramasaṃkruddhā jvālayanto diso daśa । 
+āsthitā garuḍaṃ hy ete nānārūpā bhayāvāhāḥ 
+kim artham iha saṃprāptāḥ ke vāpīme janās trayaḥ ।।

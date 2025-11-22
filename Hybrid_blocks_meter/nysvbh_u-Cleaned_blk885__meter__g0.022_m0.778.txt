@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 885 | label: meter | g:0.022 m:0.778 ---
+
+atra bhūtacaitanika
+āha

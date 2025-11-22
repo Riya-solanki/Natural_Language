@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 606 | label: meter | g:0.205 m:0.536 ---
+
+yathā-
+rāmo nāma babhūva huṃ tad abalā sīteti huṃ tāṃ pitur
+vācā pañcavaṭī-vane nivasatas tasyāharad rāvaṇaḥ ।
+kṛṣṇasyeti purātanīṃ nija-kathām ākarṇya mātreritāṃ
+saumitre kva dhanur dhanur dhanur iti vyagrā giraḥ pāntu vaḥ ।।

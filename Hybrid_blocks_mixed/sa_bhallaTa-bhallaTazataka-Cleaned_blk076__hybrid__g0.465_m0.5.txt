@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 76 | label: hybrid | g:0.465 m:0.5 ---
+
+saṃrakṣituṃ kṛṣim akāri kṛṣīvalena paśyātmanaḥ pratikṛtis tṛṇapūruṣo ayam 
+stabdhasya niṣkriyatayāstabhiyo asya nūnam aśnanti gomṛgagaṇāḥ pura eva sasyam ।।

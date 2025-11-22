@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 55 | label: grammar | g:0.625 m:0.5 ---
+
+yathā prayoktuḥ prāg buddhiḥ śabdeṣv eva pravartate vyavasāyo grahītṝṇām evaṃ teṣv eva jāyate ।।

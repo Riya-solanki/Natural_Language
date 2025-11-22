@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5280 | label: meter | g:0.344 m:0.734 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvatariruvāca ।
+ghṛtatailādi vakṣyāmi śṛṇu suśruta roganut ।
+śaṅkhapuṣpī vacā somā brāhmī brahmasuvarcalā ।।

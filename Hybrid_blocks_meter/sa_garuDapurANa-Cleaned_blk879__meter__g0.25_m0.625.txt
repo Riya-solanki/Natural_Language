@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 879 | label: meter | g:0.25 m:0.625 ---
+
+śaṅkacakragadāpadmadharaṃ saumyaṃ kirīṭinam ।
+āvāhya maṇḍale devaṃ pūrvoktavidhinā hara ।।

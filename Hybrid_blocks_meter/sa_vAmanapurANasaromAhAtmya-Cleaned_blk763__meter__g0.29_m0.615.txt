@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 763 | label: meter | g:0.29 m:0.615 ---
+
+ṛṣaya ūcuḥ
+kāmyakasya tu pūrveṇa kuñjaṃ devairniṣevitam ।
+tasya tīrthasya saṃbhūtiṃ vistareṇa bravīhi naḥ ।।

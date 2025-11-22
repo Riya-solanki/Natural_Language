@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9536 | label: meter | g:0.306 m:0.5 ---
+
+ya āturaḥ san sannyāsaṃ gṛhṇāti yadi mānavaḥ ।
+punarna jāyate bhūmau saṃsāre duḥ khasāgare ।।

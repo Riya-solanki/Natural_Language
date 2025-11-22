@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 108 | label: grammar | g:0.604 m:0.5 ---
+
+sthūlo dūram ayaṃ na yāsyati kṛśo naiṣa prayāṇakṣamas tenaikasya mamaiva tatra kaśipuprāptiḥ parā dṛśyate ।
+ityādau paricintitaṃ pratimuhus tad bhṛṅgikūṣṇāṇḍayor anyonyapratikūlam īśaśivayoḥ pāṇigrahe pātu vaḥ ।।

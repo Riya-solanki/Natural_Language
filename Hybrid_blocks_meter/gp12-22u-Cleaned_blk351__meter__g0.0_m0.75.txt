@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 351 | label: meter | g:0.0 m:0.75 ---
+
+[] tatra tasya śrī-kṛṣṇasya, yathā-

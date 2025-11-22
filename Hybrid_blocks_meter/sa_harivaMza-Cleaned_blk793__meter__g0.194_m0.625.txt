@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 793 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ pipīlikarutaṃ sa śuśrāva narādhipaḥ 
+kāminīṃ kāminas tasya yācataḥ krośato bhṛśam ।।

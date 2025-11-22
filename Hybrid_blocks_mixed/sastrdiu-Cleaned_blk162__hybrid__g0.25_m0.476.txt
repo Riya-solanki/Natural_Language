@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 162 | label: hybrid | g:0.25 m:0.476 ---
+
+athānapekṣaṃ pramāṇaṃ yatsvaviṣaye pramāṇāntaraṃ nāpekṣate tatpramāṇam ।
+anuvādānāṃ tu purovādasāpekṣatvādaprāmāṇyamiti ।
+evaṃ tarhi laukikaṃ vākyamapyanumiter'the pravartamānamanumānasya śaṅkānirākaraṇamātraupayikatvādarthapratipādane tadapekṣābhāvātpramāṇaṃ syāt ।।

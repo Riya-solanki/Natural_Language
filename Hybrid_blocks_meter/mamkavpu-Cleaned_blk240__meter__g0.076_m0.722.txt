@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 240 | label: meter | g:0.076 m:0.722 ---
+
+{tasyāḥ sāndravilepanastanataṭapraśleṣamudrāṅkitaṃ
+kiṃ vakṣaścaraṇānativyatikaravyājena gopāyyate ।
+ityukte kva tadityudīrya sahasā tat saṃpramārṣṭuṃ mayā
+sāśliṣṭā rabhasena tatsukhavaśāttanvyā ca tadvismṛtam ।।}

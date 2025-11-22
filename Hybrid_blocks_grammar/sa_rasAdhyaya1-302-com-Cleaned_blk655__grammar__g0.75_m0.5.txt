@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 655 | label: grammar | g:0.75 m:0.5 ---
+
+tataḥ karpaṭamṛttikayā sarvapārśveṣu niśchidraṃ vidhāya sattvapātanāya īdṛśas tumbanalī nāmā yantraḥ kartavyaḥ tataḥ koṭhīmadhye babbūlakhadiram āmbalīprabhṛtīnāṃ līhālakaiḥ pūrayitvā yantraṃ ca tatra kṣiptvā punaḥ punar dhmātvā saṃdaṃśair adhomukhīṃ yantranalīṃ dhūtvā yāvanmātro raso madhyād galitvādhomūṣāyāṃ sameti tat khāparasattvaṃ kathyate ।।

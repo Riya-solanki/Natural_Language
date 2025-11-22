@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 448 | label: hybrid | g:0.521 m:0.5 ---
+
+mā bhavantamanalaḥ pavano vā vāraṇo madakalaḥ paraśurvā ।
+vāhinījalabharaḥ kuliśaṃ vā svasti te'stu latayā saha vṛkṣa ! ।।

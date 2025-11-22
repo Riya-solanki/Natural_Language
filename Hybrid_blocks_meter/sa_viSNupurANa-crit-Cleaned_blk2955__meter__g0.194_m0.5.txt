@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2955 | label: meter | g:0.194 m:0.5 ---
+
+daṃṣṭriṇaḥ śṛṅgiṇaś caiva prājño dūreṇa varjayet 
+avaśyāyaṃ ca rājendra puro vātātapau tathā ।।

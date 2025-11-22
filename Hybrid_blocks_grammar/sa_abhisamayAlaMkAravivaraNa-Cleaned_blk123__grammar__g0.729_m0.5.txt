@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 123 | label: grammar | g:0.729 m:0.5 ---
+
+bhedaḥ niryāṇapratipattiḥ seyamaṣṭavidhātmikā bhavati । tadyathā - trividhasamuddeśe niryāṇam, samatāyāṃ niryāṇam, sattvārthe niryāṇam, anābhoganiryāṇam, atyantaniryāṇam, prāptiniryāṇam, sarvākārajñātāniryāṇam, mārganiryāṇamiti ।

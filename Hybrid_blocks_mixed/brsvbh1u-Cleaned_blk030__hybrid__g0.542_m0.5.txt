@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 30 | label: hybrid | g:0.542 m:0.5 ---
+
+-itarasyetaratra bhāva iti yojane siddhasya saṃsargādhyāsaniṣedhasya sādhanaṃ bhavettadanenāpahṛtaṃ boddhavyam ।

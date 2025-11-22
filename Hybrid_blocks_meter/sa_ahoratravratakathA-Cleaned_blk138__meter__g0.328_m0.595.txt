@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 138 | label: meter | g:0.328 m:0.595 ---
+
+pātāle ca purā vīro daityendro balavān abhūt ।
+nirghoṣadamano nāma devāsurapramardakaḥ ।।

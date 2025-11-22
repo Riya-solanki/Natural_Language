@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2133 | label: grammar | g:0.708 m:0.5 ---
+
+athātra padmadharmamaṇḍale ākarṣaṇādividhivistaraṃkṛtvā, yathāvat praveśyaivaṃ vadet "na tvayānyasya vaktavyaṃ; mā te narakaṃ patanaṃ bhavet, duḥkhāni ve-" ti ।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 384 | label: hybrid | g:0.5 m:0.5 ---
+
+anartharāgagrahamūḍhabuddhayo narā hi paśyanti na kevalaṃ hitam ।
+satāṃ hitādhānavidhānacetasāṃ giro api śṛṇvanti na bhūtavādinām ।।

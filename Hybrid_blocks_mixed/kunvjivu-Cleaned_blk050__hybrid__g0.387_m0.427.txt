@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 50 | label: hybrid | g:0.387 m:0.427 ---
+
+tasmādevaṃvidhe viṣaye sāmānyābhidhāyyeva śabdaḥ sahṛdayahṛdayahāritāṃ pratipadyate ।
+tathā cāsmin prakṛte pāṭhāntaraṃ sulabhameva"ekena kiṃ na vihito bhavataḥ sa nāma" iti ।
+yatra ca viśeṣātmanā vastu pratipādayitumabhimataṃ tatra viśeṣābhidhāyakamevābhidhānaṃ nibadhnanti kavayaḥ ।
+yathā

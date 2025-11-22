@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3370 | label: hybrid | g:0.51 m:0.5 ---
+
+papraccha sā kāraṇamīśvaraṃ tam āghrāya cāliṅgya sahāśrudṛṣṭyā ।
+sa cācacakṣe balinā raṇe jayaṃ tadātmano devagaṇaiśca sārdham ।।

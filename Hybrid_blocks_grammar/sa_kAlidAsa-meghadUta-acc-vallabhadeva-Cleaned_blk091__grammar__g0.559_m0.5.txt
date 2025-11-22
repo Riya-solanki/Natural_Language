@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 91 | label: grammar | g:0.559 m:0.5 ---
+
+jāne sakhyās tava mayi manaḥ saṃbhṛtasneham asmād itthaṃbhūtāṃ prathamavirahe tām ahaṃ tarkayāmi 
+vācālaṃ māṃ na khalu subhagaṃmanyabhāvaḥ karoti pratyakṣaṃ te nikhilam acirād bhrātar uktaṃ mayā yat ।।

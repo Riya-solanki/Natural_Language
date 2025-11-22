@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 151 | label: hybrid | g:0.542 m:0.5 ---
+
+autpattikastu śabdasyārthena saṃbandhaḥ, tasya jñānamupadeśo anyatirekaścārthe anupalabdhe tatpramāmāṇaṃ bādarāyaṇasyānapekṣatvāt ।।

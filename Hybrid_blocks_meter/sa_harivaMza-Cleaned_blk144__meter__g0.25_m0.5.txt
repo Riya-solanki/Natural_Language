@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 144 | label: meter | g:0.25 m:0.5 ---
+
+indrajit sasrvajic caiva vajranābhas tathaiva ca 
+mahānābhaś ca vikrāntaḥ kālanābhas tathaiva ca । 
+ekacakro mahābāhus tārakaś ca mahābalaḥ ।।

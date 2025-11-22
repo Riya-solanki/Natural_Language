@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1006 | label: meter | g:0.289 m:0.615 ---
+
+oṃ arkāsanāya namaḥ । oṃ hrāṃ sūryamūrtaye namaḥ । 
+etāstu pūjayenmadhye hranmantrāñchṛṇu śaṅkara ।
+oṃ haṃ saṃ khaṃ khakholkāya krāṃ krīṃ saḥ svāhā sūryamūrtaye namaḥ ।
+anenāvāhanaṃ kuryātsthāpanaṃ sannidhāpanam ।
+sanniropanamantreṇa sakalīkaraṇaṃ tathā ।।

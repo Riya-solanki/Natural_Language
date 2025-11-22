@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8117 | label: meter | g:0.25 m:0.5 ---
+
+na kāryasteṣu viśrambha svakṛtaṃ bhujyateyataḥ ।
+gṛheṣvarthā nivarnttante śmaśāne caiva bāndhavāḥ ।।

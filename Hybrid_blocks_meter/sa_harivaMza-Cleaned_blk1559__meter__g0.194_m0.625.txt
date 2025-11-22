@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1559 | label: meter | g:0.194 m:0.625 ---
+
+te dahyamānā aurveṇa tejasā bhraṣṭatejasaḥ 
+śaśaṃsur vajriṇe devāḥ saṃtaptāḥ śaraṇaiṣiṇaḥ ।।

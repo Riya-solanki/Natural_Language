@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 671 | label: meter | g:0.194 m:0.625 ---
+
+[īṣad-valitāvanatā'syāḥ kūṇita-pakṣmanta-tārakā stimitā ।
+dṛṣṭiḥ kapola-pālī nihitā kara-pallave manaḥ śūnyam ।।]

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1668 | label: meter | g:0.25 m:0.75 ---
+
+tasyābhyantaratastatra pūrvadvārantathaiva ca ।
+tasya madhye yathāyogaṃ buddhabimbanniveśayet ।।

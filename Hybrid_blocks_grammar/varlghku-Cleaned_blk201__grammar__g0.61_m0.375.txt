@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 201 | label: grammar | g:0.61 m:0.375 ---
+
+na lumatāṅgasya ।।
+lumatā śabdena lupte tannimittamaṅgakāryaṃ na syāt । katibhiḥ । katīnām । yuṣmadasmatṣaṭsaṃjñakāstriṣu sarūpāḥ ।। triśabdo nityaṃ bahuvacanāntaḥ । trīn । tribhyaḥ ।।

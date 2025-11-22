@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9560 | label: meter | g:0.25 m:0.625 ---
+
+atikleśena labdhasya prakṛtyā cañcalasya ca ।
+gatirekaiva vittasya dānamanyā vipattayaḥ ।।

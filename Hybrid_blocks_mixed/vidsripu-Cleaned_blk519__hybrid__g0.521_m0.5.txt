@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 519 | label: hybrid | g:0.521 m:0.5 ---
+
+amṛtasiktam ivāṅgam idaṃ yadi bhavati tanvi tavādbhutavīkṣitaiḥ ।
+adharam indukarād api śubhrayanty aruṇayanty aruṇād api kiṃ dṛśam ।।

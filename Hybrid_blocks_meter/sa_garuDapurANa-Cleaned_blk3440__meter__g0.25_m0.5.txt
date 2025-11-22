@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3440 | label: meter | g:0.25 m:0.5 ---
+
+abhracchāyā khale prītiḥ paranārīṣu saṃgatiḥ ।
+pañcaite hyasthirā bhāvā yauvanāni dhanāni ca ।।

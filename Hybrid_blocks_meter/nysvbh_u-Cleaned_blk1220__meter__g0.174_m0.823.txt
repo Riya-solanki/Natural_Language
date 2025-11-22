@@ -1,0 +1,11 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1220 | label: meter | g:0.174 m:0.823 ---
+
+yāvad mūrtimad yāvacca saṃyujyate tat sarvaṃ sāvayavamityanavasthākāriṇāvimau hetū
+sācānavasthā nopapadyate
+satyāmanavasthāyāṃ satyau hetū syātāṃ
+tasmādapratiṣedhoyaṃ niravayavatvasyeti।
+vibhāgaśca vibhajyamānahānernopapadyate tasmāt pralayāntatā nopapadyate iti।
+anavasthāyāṃ capratyadhikaraṇaṃ dravyāvayavānāmānantyāt
+parimāṇabhedānāṃ gurutvasya cāgrahaṇaṃ samānaparimāṇatvaṃ
+cāvayavāvayavinoḥ paramāṇvavayavavibhāgādūrdhvamiti
+।।

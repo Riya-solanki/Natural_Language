@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1014 | label: grammar | g:0.708 m:0.5 ---
+
+atra kāmukasya dantakṣatādīni yathā camatkārakārīṇi tathā jinasya । yathā vā paraḥ śṛṅgārī tadalokanātsaspṛhastadvat etaddṛśo munaya iti sāmyavivakṣā ।।

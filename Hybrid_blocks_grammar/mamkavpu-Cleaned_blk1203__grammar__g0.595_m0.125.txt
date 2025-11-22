@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1203 | label: grammar | g:0.595 m:0.125 ---
+
+{tena tulyaṃ mukham} ityādāvupameye eva {tattulyamasya} ityādau copamāne eva {idaṃ ca tacca tulyam} ityubhayatrāpi tulyādiśabdānāṃ viśrāntiriti sāmyaparyālocanayā tulyatāpratītiriti sādharmyasyārthatvāttulyādiśandopādāne ārthī tadvat atena tulyaṃ kriyā cedvatiḥ'; ityanena
+vihitasya vateḥ sthitau ।

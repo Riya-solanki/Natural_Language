@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 923 | label: meter | g:0.25 m:0.625 ---
+
+saṃsaktakekaiḥ śikhibhiḥ prahṛṣṭaiḥ saṃstūyamānā iva nṛttacitraiḥ ।
+prasaktamandrastanitā virejurdhīraprahāsādiva te ghanaughāḥ ।।

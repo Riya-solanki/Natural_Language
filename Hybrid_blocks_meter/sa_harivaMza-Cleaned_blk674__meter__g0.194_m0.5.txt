@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 674 | label: meter | g:0.194 m:0.5 ---
+
+satyajit tasya tanayo viśvajit tasya cātmajaḥ 
+putro viśvajitaś cāpi senajit pṛthivīpatiḥ ।।

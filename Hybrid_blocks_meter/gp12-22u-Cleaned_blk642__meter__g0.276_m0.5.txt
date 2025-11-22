@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 642 | label: meter | g:0.276 m:0.5 ---
+
+vṛndāraṇyasya puṇyaṃ vrajitum iha na naḥ śaktir astīti cāstāṃ
+yad barhyādyāś ca bhānti pratipada-sukṛta-prodayād asmad-arhyāḥ ।
+gṛhyāṇāṃ gṛhyakāḥ smaḥ sphuṭam iha tad alaṃ gṛhyakebhyaś ca garhyās
+te tasya svairam īkṣāṃ vidadhati na tad-ābhāsam aṇv apy ayāma ।।[sragdharā]

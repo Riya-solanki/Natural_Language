@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 263 | label: grammar | g:0.75 m:0.5 ---
+
+atrānaparādhe' pi niṣkāsayato rāmasyānupālambhāt sītāyā audāryaṃ pratīyate । sarvāvasthā-samatvāviditeṅgitākāratva-rūpayor lakṣaṇayoś citta-dhairya evāntarbhūtatvāt bhoja-rāja-lakṣitau sthairya-gāmbhīrya-rūpāv anyau dvau cittārambhau cāsmad-ukte dhairya evāntarbhūtāv iti daśaiva cittārambhāḥ ।

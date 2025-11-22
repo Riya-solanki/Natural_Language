@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 276 | label: meter | g:0.333 m:0.674 ---
+
+prakṛtisiddhyarthamekadeśimataṃ dūṣayitumanubhāṣate- yadapi kecidāhuḥiti ।
+dūṣayati- tannaiti ।
+idamatrākūtam-

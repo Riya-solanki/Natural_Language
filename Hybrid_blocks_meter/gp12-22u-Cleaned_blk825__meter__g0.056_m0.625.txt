@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 825 | label: meter | g:0.056 m:0.625 ---
+
+svabhāvaḥ saundaryaṃ guṇa-garima-bhūmā mṛdulatā-
+khila-vyāpi-premā giri-dhṛtir api svāvana-kṛte ।
+kramād ete dharmāḥ praṇayam anu sāndrīkṛti-parā
+yadīyāḥ so' bhyāgān nijadṛśi gires tasya talataḥ ।। [śikhariṇī]

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 543 | label: meter | g:0.25 m:0.695 ---
+
+tato gacchena viprandrāḥ phalakīvanamuttamam ।
+yatra devāḥ sagandharvāḥ sādhyāśca ṛṣayaḥ sthitāḥ ।
+tapaścaranti vipulaṃ divyaṃ varṣasahasrakam ।।

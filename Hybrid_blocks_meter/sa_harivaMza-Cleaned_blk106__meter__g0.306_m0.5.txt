@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 106 | label: meter | g:0.306 m:0.5 ---
+
+bāliśā bata yūyaṃ ye nāsyā jānīta vai bhuvaḥ 
+pramāṇaṃ sraṣṭukāmā vai prajā prācetasātmajāḥ । 
+antar ūrdhvam adhaś caiva kathaṃ srakṣyatha vai prajāḥ ।। 
+vāyor anaśanaṃ prāpya gatās te vai parābhavam । 
+te tu tadvacanaṃ śrutvā prayātā sarvatodiśam 
+adyāpi na nivartante samudrebhya ivāpagāḥ ।।

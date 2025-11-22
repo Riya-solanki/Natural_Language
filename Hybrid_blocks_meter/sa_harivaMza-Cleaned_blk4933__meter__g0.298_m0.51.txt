@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4933 | label: meter | g:0.298 m:0.51 ---
+
+tato astraṃ sumahāvegaṃ jagrāha madhusūdanaḥ 
+pārjanyaṃ nāma bhagavān yamāntakanibhaṃ raṇe ।। 
+tato vitimire loke sa cāgniḥ praśamaṃ gataḥ । dānavā moghasaṃkalpāḥ sarve abhuvaṃs tadā bhṛśam । 
+dānavāstraṃ praśāntaṃ tu parjanyāstre abhimantrite 
+tato devagaṇāḥ sarve praṇedur jahṛṣus tadā ।।

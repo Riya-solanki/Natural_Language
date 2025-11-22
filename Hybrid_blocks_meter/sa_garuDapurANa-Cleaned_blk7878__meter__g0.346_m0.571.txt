@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7878 | label: meter | g:0.346 m:0.571 ---
+
+ataḥ pṛcchāmyahaṃ kiñcidādhibhūtaṃ cirantanam ।
+kiṃ kuryāṃ kaṃ nu pṛcche ahaṃ mano me aticalaṃ mune ।।

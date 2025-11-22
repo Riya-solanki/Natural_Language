@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2081 | label: meter | g:0.25 m:0.75 ---
+
+prabhāvakāṭhinyagurutvayogaiḥ prāyaḥ samānāḥ sphaṭikodbhavānām ।
+ānīlaraktotpalacārubhāsaḥ saugandhikotthā maṇayo bhavanti ।।

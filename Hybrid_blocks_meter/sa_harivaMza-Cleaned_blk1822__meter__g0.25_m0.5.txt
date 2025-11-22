@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1822 | label: meter | g:0.25 m:0.5 ---
+
+svāgataṃ te suraśreṣṭha padmanābha mahādyute 
+namo astu te hṛṣīkeśa madhukaiṭabhasūdana । 
+dāmodara namas te astu padmapatrāyatekṣaṇa ।। 
+prabhus tvaṃ sarvadevānāṃ lokānāṃ prabhur avyayaḥ । 
+tvaṃ yajñas tvaṃ vaṣaṭkāras tvayi sarvaṃ pratiṣṭhitam । 
+idaṃ yajñiyam ātithyaṃ mantrataḥ pratigṛhyatām ।।

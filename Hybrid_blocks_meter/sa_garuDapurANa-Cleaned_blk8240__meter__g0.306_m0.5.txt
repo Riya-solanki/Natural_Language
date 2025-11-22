@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8240 | label: meter | g:0.306 m:0.5 ---
+
+vāyavīyāṃ tanuṃ yāti sadya ityuktameva te ।
+prāptirvilaṃbato yasya taṃ dehaṃ khalu me śṛṇu ।।

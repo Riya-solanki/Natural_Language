@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1398 | label: meter | g:0.359 m:0.613 ---
+
+dṛḍhataranibaddhamuṣṭeḥ koṣaniṣaṇṇasya sahajamalinasya ।
+kṛpaṇasya kṛpāṇasya ca kevalam ākārato bhedaḥ ।।
+gobhaṭṭasya

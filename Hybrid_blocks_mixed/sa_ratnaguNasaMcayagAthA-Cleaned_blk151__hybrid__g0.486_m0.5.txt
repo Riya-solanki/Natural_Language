@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 151 | label: hybrid | g:0.486 m:0.5 ---
+
+evaṃ caranta guṇasāgara vādicandrāḥ trāṇā bhavanti jagatī śaraṇā ca lenā 
+gati buddhi dvīpa pariṇāyaka arthakāmāḥ pradyota ulka varadharmakathī akṣobhyāḥ ।।

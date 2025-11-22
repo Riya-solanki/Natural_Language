@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 411 | label: hybrid | g:0.455 m:0.5 ---
+
+atra kenāpyatretyarthaśaktimūlānuraṇanarūpasya । {tasyāpyatra} iti yuktaḥ pāṭhaḥ ।
+aparasya rasādervācyasya vā aṅgaṃ rasādi anuraṇanarūpaṃ vā । yathā

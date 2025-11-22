@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2790 | label: meter | g:0.25 m:0.75 ---
+
+kartavyā'grahaṇeṣṭiśca cāturmāsyāni yatnataḥ ।
+eṣāmasambhave kuryādiṣṭiṃ vaiśvānarīṃ dvijaḥ ।।

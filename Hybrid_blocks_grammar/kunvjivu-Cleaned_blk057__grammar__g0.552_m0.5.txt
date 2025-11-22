@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 57 | label: grammar | g:0.552 m:0.5 ---
+
+daṃṣṭrāpiṣṭeṣu sadyaḥ śikhariṣu na kṛtaḥ skandhakaṇḍūvinodaḥ sindhuṣvaṅgāvagāhaḥ khurakuharagalattucchatoyeṣu nāptaḥ ।
+labdhāḥ pātālapaṅke na luṭhanaratayaḥ potramātropayukte yenoddhāre dharitryāḥ sa jayati vibhutāvighnitecchovarāhaḥ ।।

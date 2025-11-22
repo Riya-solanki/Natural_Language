@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4523 | label: meter | g:0.25 m:0.5 ---
+
+sa tvaṃ gaccha na saṃtāpaṃ putrārthe kartum arhasi 
+nārjunasya ripuḥ kaścin mamāgre prabhaviṣyati ।।

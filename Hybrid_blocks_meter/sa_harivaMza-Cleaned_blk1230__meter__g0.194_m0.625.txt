@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1230 | label: meter | g:0.194 m:0.625 ---
+
+akrūrayajñā iti te khyātās tasya mahātmanaḥ 
+bahvannadakṣiṇāḥ sarve sarvakāmapradāyinaḥ ।।

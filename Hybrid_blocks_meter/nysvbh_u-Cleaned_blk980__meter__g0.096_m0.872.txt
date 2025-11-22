@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 980 | label: meter | g:0.096 m:0.872 ---
+
+"punastatprasaṅgo apavarge "
+etatsasādhitsurāha

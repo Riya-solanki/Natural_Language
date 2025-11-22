@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1926 | label: meter | g:0.25 m:0.547 ---
+
+nāmodayasya pūrvaṃ ca tathā bhavati nānyathā ।
+oṃ kṣaiṃ śivāya namaḥ ।।

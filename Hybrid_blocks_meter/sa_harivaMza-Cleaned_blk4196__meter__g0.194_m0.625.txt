@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4196 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ sarve daśārhāś ca sarve ca kukurāndhakāḥ 
+prīyamāṇāḥ samājagmur ālokya madhusūdanam ।।

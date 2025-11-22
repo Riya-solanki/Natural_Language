@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 2 | label: meter | g:0.328 m:0.595 ---
+
+nānākavīndravacanāni manoharāṇi saṃkhyāvatāṃ paramakaṇṭhavibhūṣaṇāni ।
+ākampakāni śirasaś ca mahākavīnāṃ teṣāṃ samuccayam anargham ahaṃ vidhāsye ।।

@@ -1,0 +1,6 @@
+--- source: mamkpb_u-Cleaned.txt | block: 354 | label: grammar | g:0.597 m:0.456 ---
+
+mālādīpakamādyaṃ cedyathottaraguṇāvaham ।
+pūveṃṇa pūrveṇa vastunā, uttaramuttaraṃ cedupakriyate tat mālādīpakam ।
+yathā saṃgrāmāṅgaṇamāgatena bhavatā cāpe samāropite devākarṇaya yena yena sahasā yadyatsamāsāditam ।
+kodaṇḍena śarāḥ śarairariśirastenāpi bhūmaṇḍalaṃ tena tvaṃ bhavatā ca kīrtiratulā kīrtyā ca lokatraḍalaṃ tena tvaṃ bhavatā ca kīrtiratulā kīrtyā ca lokatrayam ।।

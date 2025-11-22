@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1161 | label: meter | g:0.194 m:0.75 ---
+
+sukham idam iti mithyākalpanāmātram etad
+bhavagatigahanāntarvartināṃ bāliśānām ।
+bhavam avitathavādī duḥkham ity āha buddhaḥ
+sakalam api yato asmān sarvaduḥkhaprasūtiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5958 | label: meter | g:0.194 m:0.625 ---
+
+caturyugāṇy aśeṣāṇi sadṛśāni svarūpataḥ 
+ādyaṃ kṛtayugaṃ muktvā maitreyāntyaṃ tathā kalim ।।

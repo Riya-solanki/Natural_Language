@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2899 | label: meter | g:0.194 m:0.75 ---
+
+prāptāriṣṭam ivātmānaṃ mene sa mathureśvaraḥ 
+visaṃjñendriyabhūtātmā gatāsupratimo abhavat ।।

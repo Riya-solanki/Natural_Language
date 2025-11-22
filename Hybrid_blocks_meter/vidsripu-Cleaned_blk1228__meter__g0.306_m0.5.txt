@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1228 | label: meter | g:0.306 m:0.5 ---
+
+mukteṣu raśmiṣu nirāyatapūrvakāyā niṣkampacāmaraśikhā nibhṛtordhvakarṇāḥ ।
+ātmoddhatair apirajobhir alaṅghanīyā dhāvany amī mṛgajavākṣamayeva rathyāḥ ।।

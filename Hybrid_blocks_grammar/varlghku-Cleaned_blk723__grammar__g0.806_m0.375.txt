@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 723 | label: grammar | g:0.806 m:0.375 ---
+
+pvādīnāṃ hrasvaḥ ।।
+pūñ lūñ stṝñ kṝñ vṝñ dhūñ śṝ pṝ vṝ bhṝ mṝ dṝ jṝ jhṝ dhṝ nṝ kṝ ṝ gṝ jyā rī lī vlī plīnāṃ caturviṃśateḥ śiti hrasvaḥ । pavitā ।। ।। stṝñ ācchādane ।। stṛṇāti । tastāra । tastare । staritā । stīryāt ।।

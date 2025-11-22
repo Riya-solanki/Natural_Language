@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 781 | label: meter | g:0.124 m:0.607 ---
+
+dhārāḥ śakra-dhanur vimukta-śaratāṃ tanvanti varṣopalā
+vajratvaṃ bata vajra-pāta-nicayāḥ sūrya-prapāta-bhramam ।
+itthaṃ duḥkhitayā hariṃ gatim ite goṣṭhe sa govardhanaṃ
+haste' dhatta yathā na kena ca tadā śaktaṃ darāpy ūhitum ।। [śārdūla]

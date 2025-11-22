@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 605 | label: meter | g:0.25 m:0.625 ---
+
+dharmavajrāṃ samādhāya hṛdaye svayamātmanaḥ ।
+krodhadṛṣṭyā nirīkṣan vai jagatsarvaṃ sa mārayet ।।

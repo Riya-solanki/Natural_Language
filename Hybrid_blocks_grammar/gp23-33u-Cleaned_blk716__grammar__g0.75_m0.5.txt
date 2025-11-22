@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 716 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad etat procya maharṣiṇā manasi procyate sma-eṣā ca kalilokair viralair evāvakalayiṣyate । asyā hi bahirmukhān pratavaguṇṭhayitum antarmukhāṃs tūtkaṇṭhayituṃ maharṣibhiḥ parokṣa-prāyī-kṛtāyāḥ khalv asmad-ādi-saṃvādamayyāḥ śrī-bhāgavata-bhārata-pādmādīnām eka-vākyatā-karaṇata eva śakyā pratītir iti । tad idaṃ ca kiñcana mad-upadeśa-nidigdhaṃ madhukaṇṭha-snigdhakaṇṭhābhyāṃ prāpta-kṛṣṇopakaṇṭhābhyāṃ kṣīra-kaṇṭhābhyām api sva-kaṇṭhād eva campū-dvayam apūrva-racanayā sampūrṇaṃ kurvadbhyām uttara-campūttara-bhāgam añcadbhyāṃ tat-tac-chāstra-mata-vistāraṇayā prastoṣyate, tad eva samasya vicāryate ।

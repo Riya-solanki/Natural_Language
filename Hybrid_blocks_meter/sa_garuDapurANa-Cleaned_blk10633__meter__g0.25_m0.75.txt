@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10633 | label: meter | g:0.25 m:0.75 ---
+
+vidyā taraṅgarūpeṇa vāyurūpeṇa bhoṇḍaja ।।
+tamorūpeṇa saivāsī nnānyadāsītkathañcana ।
+asīdgarbhodake caiva nānyadāsītkathañcana ।।

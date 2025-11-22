@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1081 | label: grammar | g:0.75 m:0.5 ---
+
+tatrādita eva tāvatsvayaṃ vajrā [cāryo va]jrakodhaterintirimudrāṃ badhvā praviśet । praviṣṭvā sarvatathāgatāṃ vijñāpayet । "ahaṃ bhagavantastathāgatāḥ krodhavaśaṃ yāsyāmi [nigrahītavyāṃ] nigrahīṣyāmi saṃgrahītavyāṃ saṃgrahīṣyāmi । tanme bhagavanta ājñāpayantu, kathaṃ pratipadyāmī"ti kṛtvā, vajrakrodhaterintirimudrāṃ sva[hṛdaye ya]thāvatsthāpya, vajrāṅkuśādibhiḥ karmāṇi kṛtvā, punaḥ sarvasamayamudrāṃ bandhayet; tataḥ sarve sānnidhyaṅkalpayanti । tato guhyapūjācatuṣṭayaṃ kṛtvā tathā dhūpādibhiśca ।।

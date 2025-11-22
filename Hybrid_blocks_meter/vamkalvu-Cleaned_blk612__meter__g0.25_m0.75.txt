@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 612 | label: meter | g:0.25 m:0.75 ---
+
+pāṇḍyo'yamaṃsārpitalambahāraḥ kḷptāṅgarāgo haricandanena ।
+ābhāti bālātaparaktasānuḥ sanirjharodgāra ivādrirājaḥ ।।

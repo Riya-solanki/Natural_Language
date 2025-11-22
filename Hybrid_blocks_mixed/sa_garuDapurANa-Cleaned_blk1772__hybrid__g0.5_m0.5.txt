@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1772 | label: hybrid | g:0.5 m:0.5 ---
+
+kārye ca mantrī satstrī syātsatī syātkaraṇeṣu ca ।
+streheṣu bhāryā mātā syādveśyā ca śayane śubhā ।।

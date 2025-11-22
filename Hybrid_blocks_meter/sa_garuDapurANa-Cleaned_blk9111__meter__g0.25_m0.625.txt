@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9111 | label: meter | g:0.25 m:0.625 ---
+
+pādādūrdhvaṃ kaṭiṃ yāvat tāvadbrahyādhitiṣṭhati ।
+grīvāṃ yāvaddharirnābheḥ śarīre manujasya ca ।।

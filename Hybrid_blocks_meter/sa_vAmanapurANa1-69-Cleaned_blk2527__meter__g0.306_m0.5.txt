@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2527 | label: meter | g:0.306 m:0.5 ---
+
+śrutvā provāca rājarṣirmā muñcasva kalevaram ।
+āgaccha yāmi tanvaṅgīṃ vicetuṃ bhrātṛjo asi me ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 157 | label: meter | g:0.25 m:0.5 ---
+
+ākāśadhātu purimādiśi dakṣiṇāyāṃ tatha paścimottaradiśāya anantapārā 
+uparādharāya daśaddiśi yāvadasti nānātvatā na bhavate na viśeṣaprāptā ।।

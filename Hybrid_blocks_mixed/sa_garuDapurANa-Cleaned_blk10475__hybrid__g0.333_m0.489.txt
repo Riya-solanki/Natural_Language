@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10475 | label: hybrid | g:0.333 m:0.489 ---
+
+śacyuvāca ।
+saṃcintayāmi aniśaṃ tava pādapadmaṃ vajrāṅkuśadhvajasaroruhalāñchanāḍhyam ।
+vāgīśvarairapi sadā manasāpi dhartuṃ no śakyamīśa tava pādarajaḥ smarāmi ।।

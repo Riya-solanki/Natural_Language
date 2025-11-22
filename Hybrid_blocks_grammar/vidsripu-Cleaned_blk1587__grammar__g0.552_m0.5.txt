@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1587 | label: grammar | g:0.552 m:0.5 ---
+
+daive samarpya cirasaṃcitamohabhāraṃ svasthāḥ sukhaṃ vasata kiṃ parayācanābhiḥ ।
+meruṃ pradakṣiṇayato api divākarasya te tasya sapta turagā na kadācid aṣṭau ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 468 | label: meter | g:0.25 m:0.5 ---
+
+guṇabuddhyā tu bhagavān vasiṣṭhaḥ kṛtavāṃs tadā 
+na ca satyavratas tasya tam upāṃśum abudhyata ।।

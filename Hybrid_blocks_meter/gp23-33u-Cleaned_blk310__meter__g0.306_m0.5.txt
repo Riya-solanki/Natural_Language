@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 310 | label: meter | g:0.306 m:0.5 ---
+
+manojñatvena na paraṃ surūpatvam ihānvabhūt ।
+budhatvenāpi kṛṣṇasya sa-tṛṣṇo' yaṃ priyā-gaṇaḥ ।। [anuṣṭubh] ।।

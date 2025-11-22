@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4082 | label: meter | g:0.194 m:0.625 ---
+
+adṛṣṭāḥ puruṣaiḥ strībhir devakīṃ devatāgaṇāḥ 
+bibhrāṇāṃ vapuṣā viṣṇuṃ tuṣṭuvus tām aharniśam ।।

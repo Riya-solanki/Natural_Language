@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 642 | label: grammar | g:0.729 m:0.5 ---
+
+[] tataś ca marma-spṛśā dharma-dṛśā vidharmād bhayaṃ bhāvayamānas tvam anyathā-manyamānatāṃ na lapsyase । kiṃ bahunā, vivāham api nirvāhayiṣyase ।

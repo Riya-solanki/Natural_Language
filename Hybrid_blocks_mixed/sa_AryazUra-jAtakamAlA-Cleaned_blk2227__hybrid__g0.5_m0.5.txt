@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2227 | label: hybrid | g:0.5 m:0.5 ---
+
+śilātale bījamiva prakīrṇaṃ hutaṃ ca śāntoṣmaṇi bhasmapuñje ।
+samaprakāraṃ phalayogakāle kṛtaṃ kṛtaghne vidule ca puṣpam ।।

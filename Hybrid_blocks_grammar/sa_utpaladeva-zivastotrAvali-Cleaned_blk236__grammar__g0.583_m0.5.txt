@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 236 | label: grammar | g:0.583 m:0.5 ---
+
+api bhāvagaṇād apīndriyapracayād apy avabodhamadhyataḥ prabhavantam api svataḥ sadā paripaśyeyam apoḍhaviśvakam ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 50 | label: meter | g:0.194 m:0.625 ---
+
+bhidyate anupraviśyāntar yo yathārucy upādhinā 
+viśuddhiḥ kīdṛśī tasya jaḍasya sphaṭikāśmanaḥ ।।

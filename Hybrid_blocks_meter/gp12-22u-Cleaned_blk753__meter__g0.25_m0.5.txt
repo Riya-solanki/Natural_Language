@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 753 | label: meter | g:0.25 m:0.5 ---
+
+na bhavati bata bahulānām atibahulānāṃ parikramaḥ sadyaḥ ।
+ity ekasyā vyakteḥ kriyatāṃ yasmād aśeṣagā jātiḥ ।। [gīti]
+tatra pradakṣiṇī-kāryam ekaṃ vṛddhaṃ gavaurasam ।
+mūlārādhanataḥ sarvārādhanaṃ vibudhair matam ।। [anuṣṭubh]

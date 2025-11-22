@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1372 | label: meter | g:0.25 m:0.927 ---
+
+tato vajrakuladharmasamayamudrājñānaṃ śikṣayet ।
+samādhijñānasamayā dvi-huṃ-kārasamandhitā ।
+yathā sthāneṣu saṃstheyā sarvasiddhipradāvaram ।।

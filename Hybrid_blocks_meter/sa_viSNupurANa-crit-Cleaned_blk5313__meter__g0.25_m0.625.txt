@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5313 | label: meter | g:0.25 m:0.625 ---
+
+matprasādān na te subhru jarā vairūpyam eva ca 
+bhaviṣyaty anavadyāṅgī sarvakālaṃ bhaviṣyasi ।।

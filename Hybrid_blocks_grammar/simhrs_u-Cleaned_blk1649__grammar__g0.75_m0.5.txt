@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1649 | label: grammar | g:0.75 m:0.5 ---
+
+senāpatiḥ -sakhe sthira-pratibandho bhava । ahaṃ tāvat svāminaś citta-vṛttim anuvartiṣye । pralapatv eṣa vaidheyaḥ । nanu prabhur eva nidarśanam ।

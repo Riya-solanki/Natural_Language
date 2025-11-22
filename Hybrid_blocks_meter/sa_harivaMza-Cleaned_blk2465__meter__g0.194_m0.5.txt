@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2465 | label: meter | g:0.194 m:0.5 ---
+
+jalajaiḥ prāṇibhiḥ kīrṇāṃ jalajair bhūṣitāṃ guṇaiḥ 
+jalajaiḥ kusumaiś citrāṃ jalajair haritodakām ।।

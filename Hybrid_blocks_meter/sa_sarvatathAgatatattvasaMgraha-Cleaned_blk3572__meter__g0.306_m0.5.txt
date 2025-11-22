@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3572 | label: meter | g:0.306 m:0.5 ---
+
+hṛdayaṃ japya vijñeyamātmano vā parasya vā ।
+bhavyaṃ bhūtaṃ bhaviṣyaṃ ca yaḥ paśyati śṛṇoti ca ।।

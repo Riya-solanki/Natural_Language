@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1020 | label: meter | g:0.353 m:0.623 ---
+
+ājñāṃ śirobhir atha te pratigṛhya tasya mānābhimānamṛdubhir munisattamasya ।
+dharmaikatānamanasaḥ prathayāṃ babhūvuḥ kīrtiṃ śaratkumudinīdhavalāṃ samantāt ।।
+iti ṛṣipañcakajātakam ।।
+saptakumārikā

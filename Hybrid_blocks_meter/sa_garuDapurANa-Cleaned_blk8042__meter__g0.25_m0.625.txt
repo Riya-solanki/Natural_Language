@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8042 | label: meter | g:0.25 m:0.625 ---
+
+stotraistuṣṭāva pakṣīśa daṇḍavatpraṇanāma mām ।
+te api tepustataḥ pretā āścaryotphullacakṣuṣaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8698 | label: meter | g:0.328 m:0.595 ---
+
+gocaraṃ grāmasīmāṃ taḍāgārāmagahvaram ।
+karṣayanti ca ye lobhātpretāste vai bhavanti hi ।।

@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 211 | label: meter | g:0.102 m:0.695 ---
+
+ācaturdaśamād varṣāt karmāṇi niyamena tu
+daśāvarāṇāṃ dehānāṃ kāraṇāni karoty ayam
+ataḥ karmakṣayān muktiḥ kuta eva bhaviṣyati ।।

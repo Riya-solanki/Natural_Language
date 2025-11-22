@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 432 | label: meter | g:0.286 m:0.5 ---
+
+kasmād āgān munīśā phaṇi-hrada-valayāt tatra kiṃ rādhikādyā
+hetau kasmiṅs tad etan mama tu kathayato rudhyate hanta kaṇṭhaḥ ।
+hā dhik kiṃ kiṃ vidhātā kuśalitam akarod eva kiṃ yāvad evaṃ
+sidhyed itthaṃ sa tena vyatikathitayā vyaśvasīn nyaśvasīc ca ।। [sragdharā]

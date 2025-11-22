@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 608 | label: meter | g:0.25 m:0.75 ---
+
+nāgabhogaḥ kramāñjñeyo rātrau bāṇavivartanaiḥ ।
+śeṣor'kaḥ phaṇipaścandrastakṣako bhauma īritaḥ ।।

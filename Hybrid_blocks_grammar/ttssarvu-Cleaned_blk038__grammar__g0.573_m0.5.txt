@@ -1,0 +1,4 @@
+--- source: ttssarvu-Cleaned.txt | block: 38 | label: grammar | g:0.573 m:0.5 ---
+
+anātmasvātmakhyātiravidyā sā ca vidyāvirodhinī pañcaparvā bhavati tāni ca parvāṇi avidyāsmitārāgadveṣābhiniveśākhyāni ।
+tathā ca yadavidyayā viparyayeṇāvadhāryate vastu asmitādayastatsvabhāvāstadabhiniviśante tataścātmano vivekena tatsambandha iti bhāvaḥ ।।

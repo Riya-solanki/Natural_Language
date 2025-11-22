@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 92 | label: grammar | g:0.604 m:0.5 ---
+
+ākrāntaṃ piśunair narendrabhavanaṃ vidyāgṛhaṃ matsarair āyāsair draviṇaṃ kulaṃ kutanayair nānāvitogaiḥ sukham ।
+sādhutvaṃ khalavañcanāparibhavaiś cintāsahasrair manas tan nāsty eva na yat saroṣakaluṣaṃ nirdoṣa ekaḥ śamaḥ ।।

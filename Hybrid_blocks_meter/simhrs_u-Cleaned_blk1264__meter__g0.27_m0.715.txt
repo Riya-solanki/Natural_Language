@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1264 | label: meter | g:0.27 m:0.715 ---
+
+atha vidhutam-
+nāyakāder īpsitānām arthānām anavāptitaḥ ।
+aratir yad bhaved tad dhi vidvadbhir vidhutaṃ matam । 
+athavānunayotkarṣaṃ vidhutaṃ syān nirākṛtiḥ ।। 
+yathā tatraiva bhārgava-bhaṅga-nāmani caturthe' ṅke, śatānandaḥ-

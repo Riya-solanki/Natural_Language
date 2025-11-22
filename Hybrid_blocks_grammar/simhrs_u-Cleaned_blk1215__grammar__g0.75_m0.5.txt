@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1215 | label: grammar | g:0.75 m:0.5 ---
+
+kula-putraketi saprasāmad āśliṣṭo' smi ity upakramyaà sa hi naktaṃ-carāṇāṃ nisargāmitro viśvāmitro vrata-caryayā, vīra-vrata-caryayā samartho daśaratho' pi tathāvidha eva eva ( padyād anantaraṃ] ity antena viśvāmitrārambhasya mālyavadādi-vitarka-gocaratvena bahulīkaraṇāt parikaraḥ ।

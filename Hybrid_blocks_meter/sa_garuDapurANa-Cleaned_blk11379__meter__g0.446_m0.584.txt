@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11379 | label: meter | g:0.446 m:0.584 ---
+
+śrīkṛṣṇa uvāca ।
+yā pūrvasarge somaputrī babhūva piturgṛhe vartamānāpi sādhvī ।
+janma svakīyaṃ sārthakaṃ vai cakāra pitrā sākaṃ viṣṇuśuśrūṣaṇe na ca ।।

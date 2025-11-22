@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 132 | label: hybrid | g:0.486 m:0.5 ---
+
+ākāśa dṛṣṭu iti sattva pravyāharanti nabhadarśanaṃ kutu vimṛṣyatha etamartham 
+tatha dharmadarśanu nidiṣṭa tathāgatena na hi darśanaṃ bhaṇitu śakya nidarśanena ।।

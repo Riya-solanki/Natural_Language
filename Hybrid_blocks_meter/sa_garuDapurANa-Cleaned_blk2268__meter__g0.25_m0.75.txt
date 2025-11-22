@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2268 | label: meter | g:0.25 m:0.75 ---
+
+pañcakrośaṃ gayākṣetraṃ krośamekaṃ gayāśiraḥ ।
+tatra piṇḍapradānena tṛptirbhavati śāśvatī ।।

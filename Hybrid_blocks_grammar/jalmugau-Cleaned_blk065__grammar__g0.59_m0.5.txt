@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 65 | label: grammar | g:0.59 m:0.5 ---
+
+dṛṣṭvā deśam aśeṣam ā jalanidher ālokya kautūhalād āsthānīr avanībhṛtāṃ ca punar apy āgatya deśaṃ nijam
+kāruṇyāt taruṇaṃ janaṃ prati satām abhyarthanābhis tathā so ayaṃ saṃprati Jalhaṇena kavinā Mudghopadeśaḥ kṛtaḥ ।।

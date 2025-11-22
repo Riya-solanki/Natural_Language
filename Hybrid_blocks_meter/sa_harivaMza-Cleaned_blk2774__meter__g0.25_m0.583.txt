@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2774 | label: meter | g:0.25 m:0.583 ---
+
+devalokaḥ paras tasmād vimānagahano mahān 
+yatrāhaṃ kṛṣṇa devānām aindre vinihitaḥ pade ।। 
+tvayā hi lokanāthena viṣṇunā prabhaviṣṇunā । 
+svargād ūrdhvaṃ brahmaloko brahmarṣigaṇasevitaḥ 
+tatra somagatiś caiva jyotiṣāṃ ca mahātmanām ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3983 | label: meter | g:0.306 m:0.625 ---
+
+saṃbhakṣayitvā sakalaṃ yathāsṛṣṭamidaṃ jagat ।
+yo vai nṛtyati rudrātmā praṇato asmi janārdanam ।।

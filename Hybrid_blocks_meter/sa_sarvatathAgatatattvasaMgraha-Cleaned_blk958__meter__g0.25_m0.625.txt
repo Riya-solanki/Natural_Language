@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 958 | label: meter | g:0.25 m:0.625 ---
+
+kaniṣṭhāṅga libandhantu vajramudrādvikasya tu ।
+pṛṣṭhato agrāṅgu ligrastaṃ parivartya śire sthitaṃ ।।

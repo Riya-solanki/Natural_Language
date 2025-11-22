@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 682 | label: meter | g:0.25 m:0.695 ---
+
+pratidṛṣṭāntasaṃbhavenānaikāntikatvādityāha- na cātrānumānamiti ।
+śaṅkāmimāmapākaroti- atrocyata iti ।
+yadyapi pūrvoktābhiḥ śrutibhiraṇutvaṃ siddhamātmanastathāpi vaibhācchutyantaramupanyastam ।।

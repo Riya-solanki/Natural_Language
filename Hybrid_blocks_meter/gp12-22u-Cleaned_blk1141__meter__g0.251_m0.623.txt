@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1141 | label: meter | g:0.251 m:0.623 ---
+
+evaṃ balānujātena yad vilambāvalambanam ।
+tad balaṃ balavaj jātaṃ tava saṃvalanaṃ vinā ।। [anuṣṭubh]

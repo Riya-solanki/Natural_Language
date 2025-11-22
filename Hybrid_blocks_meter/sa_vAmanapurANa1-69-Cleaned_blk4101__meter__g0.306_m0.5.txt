@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4101 | label: meter | g:0.306 m:0.5 ---
+
+etat pavitraṃ paramaṃ purāṇaṃ proktaṃ tvagastayena maharṣiṇā ca ।
+dhnyaṃ yaśasyaṃ bahupāpanāśanaṃ saṃkartanāt smāraṇāt saṃśravācca ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4361 | label: meter | g:0.25 m:0.5 ---
+
+viśvāṅghriṇā prasaratā kaṭāho bhedito balān ।
+kuṭilā viṣṇupāde tu sametya kuṭilā tataḥ ।।

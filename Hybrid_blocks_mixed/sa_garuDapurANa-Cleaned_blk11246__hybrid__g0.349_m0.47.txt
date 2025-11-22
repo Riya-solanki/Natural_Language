@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11246 | label: hybrid | g:0.349 m:0.47 ---
+
+sarvepi te pūjanīyā hi loke na vai śiśre codare caiva saktāḥ ।
+ye dākṣiṇyādarthalobhādvadanti sadā purāṇaṃ bhagavattattvasāram ।।

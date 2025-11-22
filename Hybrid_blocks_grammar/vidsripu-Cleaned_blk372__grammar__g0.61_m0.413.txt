@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 372 | label: grammar | g:0.61 m:0.413 ---
+
+premāsaṅgi ca bhaṅgi ca prativaco apy uktaṃ ca guptaṃ tathā yatnād yācitam ānanaṃ prati samādhāne ca hāne ca dhīḥ ।
+ity anyo madhuraḥ sa ko api śiśutātāruṇyayor antare vartiṣṇor mṛgacakṣuṣo vijayate dvaividhyamugdho rasaḥ ।।
+lakṣmīdharasya

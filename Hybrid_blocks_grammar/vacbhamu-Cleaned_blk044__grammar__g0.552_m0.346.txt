@@ -1,0 +1,13 @@
+--- source: vacbhamu-Cleaned.txt | block: 44 | label: grammar | g:0.552 m:0.346 ---
+
+abhāvāntaramabhāvo anyo na kaścidanirūpaṇāt' iti vadadbhiḥ ।
+na cāropitaṃ rūpaṃ vastvantaram; taddhi marīcayo vā bhavet, gaṅgādigataṃ toyaṃ vā ।
+pūrvasminkalpe amarīcayaḥ' iti pratyayaḥ syāt, na atoyam' iti ।
+uttarasmiṃstu agaṅgāyāṃ toyam' iti syāt, na punaḥ aiha' iti ।
+deśabhedāsmaraṇe atoyam' iti syāt, na pula aiha' iti ।
+na cedamatyantamasat nirastasamastasvarūpamalīkamevāstu iti sāṃpratam, tasyānubhavagocaratvānupapatteḥ, ityuktamadhastāt ।
+tasmānna sat, nāsat, nāpi sadasat parasparavirodhāt, ityanirvācyamevāropaṇīyaṃ marīciṣu toyamāstheyam; tadanena krameṇādhyastaṃ toyaṃ paramārthatoyamiva, ata eva pūrvadṛṣṭamiva; tattvatastu na toyam, na ca pūrvadṛṣṭam; kiṃ tu anṛtam anirvācyam ।
+evaṃ ca dehendriyādiprapañco api anirvācyaḥ; apūrvo api pūrvamithyāpratyayopadarśita iva paratra cidātmanyadhyasyata iti upapannam, adhyāsalakṣaṇayogāt ।
+dehendriyādiprapañcabādhanaṃ ca upapādayiṣyate ।
+cidātmā tu śrutismṛtītihāsapurāmagocaraḥ tanmūlatadaviruddhanyāyanirṇītaśuddhabuddhamuktasvabhāvaḥ sattvenaiva nirvācyaḥ ।
+abādhitā svayaṃprakāśataiva asya sattā, sā ca svarūpameva cidātmanaḥ, na tu tadatiriktaṃ sattāsāmānyasamavāyaḥ arthakriyākāritā vā iti sarvamavadātam ।

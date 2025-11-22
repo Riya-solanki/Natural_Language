@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6754 | label: meter | g:0.306 m:0.5 ---
+
+iha nityakriyāḥ kuryuḥ snigdhā ye vaiṣṇavāstu te ।
+brahmākṣaraṃ na śṛṇvanvai tayā bhagavateritam ।।

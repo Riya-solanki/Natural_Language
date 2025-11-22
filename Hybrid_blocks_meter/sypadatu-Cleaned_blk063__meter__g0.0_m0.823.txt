@@ -1,0 +1,8 @@
+--- source: sypadatu-Cleaned.txt | block: 63 | label: meter | g:0.0 m:0.823 ---
+
+gāyaty eṣā valgu kāntadvitīyā
+suprakvāṇā spṛśyate asau vipañcī
+baddhvā goṣṭhīṃ pīyate pānam etad
+dharmyāgreṣu prāptacandrodayeṣu
+api cedānīm eṣa bhagavān
+viracayati mayūkhair dīrghikāmbhaḥsu setuṃ

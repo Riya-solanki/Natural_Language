@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2909 | label: meter | g:0.25 m:0.5 ---
+
+tena rathyā smṛtā nāḍī brahmādyā ātmanaś ca tu 
+taṭaṃ tīraṃ samākhyātaṃ sindhūccāraṃ nigadyate ।।

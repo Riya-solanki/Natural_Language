@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3979 | label: meter | g:0.25 m:0.75 ---
+
+ṛkṣācca bhīmaseno abhūddilīpo bhīmasenataḥ ।
+pratīpo abhūddilīpācca devāpistu pratīpataḥ ।।

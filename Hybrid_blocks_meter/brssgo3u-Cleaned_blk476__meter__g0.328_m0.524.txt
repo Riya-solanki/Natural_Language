@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 476 | label: meter | g:0.328 m:0.524 ---
+
+uktanāmavyavasthāyāmatideśo liṅgamityāha-darśayati ceti ।
+vidyaikyādevopasaṃhārasiddhāvatideśo vṛthā syāttasmādekavidyāyāmapi sthānabhedenoktaguṇānāṃ vinātideśamanupasaṃhāra iti siddham ।।

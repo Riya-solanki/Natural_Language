@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2416 | label: meter | g:0.194 m:0.625 ---
+
+prāvṛṭpravṛttiṃ saṃdṛśya dṛṣṭvā cāmbudharān ghanān 
+rauhiṇeyo mithaḥ kāle kṛṣṇaṃ vacanam abravīt ।।

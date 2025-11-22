@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 78 | label: meter | g:0.194 m:0.75 ---
+
+sarvajñatvādiyoge api niyojyatvaṃ malāṃśataḥ 
+parasparaṃ viśiṣyante mantrāścaivamadhaḥ sthitāḥ ।।

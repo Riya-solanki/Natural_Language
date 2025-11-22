@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1019 | label: meter | g:0.194 m:0.748 ---
+
+rūpakādiṣvapyete bhedāḥ saṃbhavantīti svayamutprekṣaṇīyam ।
+evaṃ virodhaṃ vicārya samāsoktyādervirodhacchāyānupraveśaprasaṅgataḥ tadvicāramāracayati

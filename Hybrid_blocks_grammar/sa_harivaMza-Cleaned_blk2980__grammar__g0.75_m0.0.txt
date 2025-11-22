@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2980 | label: grammar | g:0.75 m:0.0 ---
+
+akrūras tu mahātejā jānan divyena cakṣuṣā 
+jalam dṛṣṭveva tṛṣitaḥ preṣitaḥ prītimān abhūt ।। 
+paśyāmi devadeveśaṃ śaṅkhacakragadādharam । yogināṃ yogagamyaṃ tam īśvaraṃ sakaleśvaram ।। paśyāmi bālaṃ govindaṃ gopaveṣavibhūṣitam । saṃkarṣaṇasahāyaṃ taṃ padmapatranibhekṣaṇam ।। adya me saphalaṃ janma dṛṣṭo yena mayā hariḥ ।। mayūrāṅgadacitrāṅgaṃ tumbavīṇāvimiśritam । drakṣyāmi lokanāthaṃ taṃ gopīstanavilālasam ।। yadi māṃ cakṣuṣā samyak prītiyuktena paśyati । tadānīṃ saphalaṃ janma mama taṃ paśyato harim ।। yaṃ dṛṣṭvā munayaḥ sarve viramante tapobalāt । sa māṃ vakṣyati kiṃcit tu vacanaṃ vāgvidāṃ varaḥ ।। evaṃ vicintya manasā gantuṃ śīghrataro abhavat । 
+tasminn eva muhūrte tu mathurāyāḥ sa niryayau 
+prītimān puṇḍarīkākṣaṃ draṣṭuṃ dānapatiḥ svayam ।।

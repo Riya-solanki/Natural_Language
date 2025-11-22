@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 695 | label: hybrid | g:0.508 m:0.431 ---
+
+tatra prathamayorlakṣaṇodāharaṇayostāvadetat paryālocanīyam kiṃ tadanaucityaṃ nām, yena pravṛttānāṃ rasādīnāmupanibandhanamalaṅkāraḥ saṃpadyate ।
+yasmādaucityapratiyoginā tena pratīyamānānāṃ teṣāṃ paripoṣaparihāṇiḥ, pratyuta saukumāryavirahaḥ sāvakāśatāṃ pratipadyate ।
+tadidamuktam

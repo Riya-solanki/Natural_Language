@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4492 | label: hybrid | g:0.444 m:0.5 ---
+
+ity uktaḥ sa smitaṃ kṛtvā mām uvāca janārdanaḥ 
+rakṣyasīty evam uktas tu vrīḍito asmi narādhipa ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8616 | label: meter | g:0.25 m:0.75 ---
+
+tathaiva sarvapāpiṣṭhaḥ svātmajānveṣaṇe ratāḥ ।
+vicarantyaśarīrāste kṣuptipāsārditā bhṛśam ।।

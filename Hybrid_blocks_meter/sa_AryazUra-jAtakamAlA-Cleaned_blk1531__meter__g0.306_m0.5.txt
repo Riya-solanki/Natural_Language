@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1531 | label: meter | g:0.306 m:0.5 ---
+
+ekākinaṃ kṣāmaśarīrakaṃ tvāṃ mārganabhijñaṃ hi vane bhramantam ।
+kaścitsamāsādya purā karoti tvatpīḍaṇādvyarthapariśramaṃ mām ।।

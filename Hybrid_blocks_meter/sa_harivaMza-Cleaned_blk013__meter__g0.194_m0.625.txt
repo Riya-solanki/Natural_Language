@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 13 | label: meter | g:0.194 m:0.625 ---
+
+bhavāṃś ca vaṃśakuśalas teṣāṃ pratyakṣadarśivān 
+kathayasva kulaṃ teṣāṃ vistareṇa tapodhana ।।

@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 322 | label: hybrid | g:0.457 m:0.423 ---
+
+sūtraṃ vyācaṣṭe-apiceti ।
+anubhavasvabhāvatve naimittikī pravṛttirvācyā, nimittaṃ ca kālādṛṣṭādikaṃ nityasaṃnihitamiti nityameva pravṛttiprasaṅgaḥ, tasyānimittatve pravṛttyabhāva ityarthaḥ ।।

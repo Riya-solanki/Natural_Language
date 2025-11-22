@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 19 | label: meter | g:0.194 m:0.625 ---
+
+svaṃ rūpaṃ darśayāmāsa vajrī devaḥ śatakratuḥ 
+taruṇādityasaṃkāśaṃ stūyamānaṃ marudgaṇaiḥ ।।

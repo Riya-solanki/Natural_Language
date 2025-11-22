@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 821 | label: meter | g:0.25 m:0.5 ---
+
+idānīṃ śṛṇu cotpattiṃ brahmaṇaḥ paramātmanaḥ ।
+imaṃ codāharantyeva ślokaṃ nārāyaṇaṃ prati ।।

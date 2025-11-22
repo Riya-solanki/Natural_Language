@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 561 | label: meter | g:0.0 m:0.5 ---
+
+ityatra । na tvamuktatānuvādenānyadatra kiñcidvihitam । yathā

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4602 | label: meter | g:0.194 m:0.625 ---
+
+uttiṣṭhottiṣṭha bāhūnām ātmanaḥ svakulasya ca 
+sadṛśaṃ prātsyase vīre yuddham apratimaṃ raṇe ।।

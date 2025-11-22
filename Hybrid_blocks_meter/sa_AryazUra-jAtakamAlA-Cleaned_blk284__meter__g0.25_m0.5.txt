@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 284 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ praharṣādiva sācalā calā mahī babhūvānibhṛtārṇavāṃśukā ।
+vitastanuḥ khe suradundubhisvanā diśaḥ prasādābharaṇāścakāśire ।।

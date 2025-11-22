@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4147 | label: meter | g:0.102 m:0.555 ---
+
+vyūhānām uttamā mārgāḥ sapta caiva mahāpathāḥ 
+tatra vai vihitāḥ sākṣād vividhā viśvakarmaṇā 
+tasmin puravaraśreṣṭhe dāśārhāṇāṃ yaśasvinām ।।

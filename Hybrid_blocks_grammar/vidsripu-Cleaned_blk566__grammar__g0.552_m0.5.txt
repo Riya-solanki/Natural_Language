@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 566 | label: grammar | g:0.552 m:0.5 ---
+
+sāmānyavāci padam apy abhidhīyamānaṃ māṃ prāpya jātam abhidheyaviśeṣaniṣṭham ।
+strī kācid ity abhihite hi mano madīyaṃ tām eva vāmanayanāṃ viṣayīkaroti ।।

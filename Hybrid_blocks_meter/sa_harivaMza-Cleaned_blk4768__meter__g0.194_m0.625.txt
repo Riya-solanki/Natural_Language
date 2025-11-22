@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4768 | label: meter | g:0.194 m:0.625 ---
+
+yasyendrapramukhā devāḥ sādityāḥ samarudgaṇāḥ 
+bāhucchāyāṃ samāśritya vasanti divi devatāḥ ।।

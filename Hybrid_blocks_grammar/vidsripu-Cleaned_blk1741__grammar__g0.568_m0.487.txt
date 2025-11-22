@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1741 | label: grammar | g:0.568 m:0.487 ---
+
+jāne sāsahanā sa cāham apakṛn mayy aṅgaṇasthe punas tasyāḥ sambhavitā sa sādhvasabharaḥ ko api prakopāpahaḥ ।
+yatrodyatpulakaiḥ prakampavikalair aṅgaiḥ kva karṇotpalaṃ kutrātmā kva ca mekhaleti galati prāyaḥ sa mānagrahaḥ ।।
+turuṣkarājabhojadevayoḥ

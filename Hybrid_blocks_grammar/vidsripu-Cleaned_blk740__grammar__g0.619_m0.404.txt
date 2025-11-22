@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 740 | label: grammar | g:0.619 m:0.404 ---
+
+devena prathamaṃ jito asi śaśabhṛllekhābhṛtānantaraṃ buddhenoddhatabuddhinā smara tataḥ kāntena pānthena me ।
+tyaktvā tān bata haṃsi mām atikṛśāṃ bālām anāthāṃ striyaṃ dhik tvāṃ dhik tava pauruṣaṃ dhig udayaṃ dhik kārmukaṃ dhik charān ।।
+śrīrājyapālasya।।

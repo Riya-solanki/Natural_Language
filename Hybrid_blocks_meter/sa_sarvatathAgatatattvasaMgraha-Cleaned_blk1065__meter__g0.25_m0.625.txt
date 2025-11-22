@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1065 | label: meter | g:0.25 m:0.625 ---
+
+athāsāṃ hṛdayamudrā bhavanti ।
+oṃ vajralāsye rāgaya hūṃ phaṭ ।।

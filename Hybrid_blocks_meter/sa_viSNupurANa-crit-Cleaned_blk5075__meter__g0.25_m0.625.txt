@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5075 | label: meter | g:0.25 m:0.625 ---
+
+gopaiś ca pūrvavad rāmaḥ parihāsamanoramāḥ 
+kathāś cakāra reme ca saha tair vrajabhūmiṣu ।।

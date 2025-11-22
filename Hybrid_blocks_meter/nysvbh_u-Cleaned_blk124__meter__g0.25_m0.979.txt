@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 124 | label: meter | g:0.25 m:0.979 ---
+
+tena duḥkhena janmanā atyantaṃ vimuktirapavargaḥ।
+katham? upāttasya janmano hānam, anyasya cānupādānam।
+etāmavasthāmaparyantāmapavargaṃ vedayante apavargavidaḥ।
+tadabhayamajaramamṛtyupadaṃ brahma kṣemaprāpitariti।।

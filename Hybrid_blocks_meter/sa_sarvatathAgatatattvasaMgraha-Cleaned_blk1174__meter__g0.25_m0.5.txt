@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1174 | label: meter | g:0.25 m:0.5 ---
+
+vajramudrādvikaṃ badhvā kavacaṃ svaṃ parasya vā ।
+granthanan tarjanībhyāṃ tu rakṣā bhavatī śāśvatī ।।

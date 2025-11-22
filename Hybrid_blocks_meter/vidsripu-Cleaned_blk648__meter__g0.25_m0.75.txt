@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 648 | label: meter | g:0.25 m:0.75 ---
+
+jayanti kāntāstanamaṇḍaleṣu viṭārpitāny ārdranakhakṣatāni ।
+lāvaṇyasaṃbhāranidhānakumbhe mudrākṣarāṇīva manobhavasya ।।

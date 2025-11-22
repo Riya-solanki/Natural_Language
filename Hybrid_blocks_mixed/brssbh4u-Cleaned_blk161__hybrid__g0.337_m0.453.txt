@@ -1,0 +1,4 @@
+--- source: brssbh4u-Cleaned.txt | block: 161 | label: hybrid | g:0.337 m:0.453 ---
+
+smaryate api ca mahābhārate gati utkrāntyoḥ abhāvaḥ - asarvabhūtātmabhūtasya samyagbhūtāni paśyataḥ ।
+devā api mārge muhyantyapadasya padaiṣiṇaḥ' iti ।

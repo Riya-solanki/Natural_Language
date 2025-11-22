@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1333 | label: grammar | g:0.75 m:0.5 ---
+
+aanityaḥ śabdaḥ prayatnānantarīyakatvād ghaṭavat' iti sthāpite pakṣe arthāpattyā pratipakṣaṃ sādhayato arthāpattisamaḥ, yadi prayatnānantarīyakatvādanityasādharmyādanityaḥ śabda iti ? arthādāpadyate nityasādharmyānnitya iti, asti tvasya nityena sādharmyam asparśatvamiti ।।

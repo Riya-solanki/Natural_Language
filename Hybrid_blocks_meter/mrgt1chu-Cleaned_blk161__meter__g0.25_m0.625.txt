@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 161 | label: meter | g:0.25 m:0.625 ---
+
+vāmas trivargavāmatvād rahasyaśca svabhāvataḥ ।।
+vāmaṃ dhāma paraṃ guhyaṃ yasyāsau vāmaguhyakaḥ ।

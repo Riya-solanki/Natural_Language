@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3512 | label: meter | g:0.194 m:0.5 ---
+
+viśantaṃ mathurāṃ ramyāṃ tam upendram ariṃdamam 
+anujagmur yadugaṇāḥ śakraṃ devagaṇā iva ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1291 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ sarveṣu bhūteṣu bhaktir avyabhicāriṇī 
+kartavyā paṇḍitair jñātvā sarvabhūtamayaṃ harim ।।

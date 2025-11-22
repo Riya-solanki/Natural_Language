@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1406 | label: grammar | g:0.708 m:0.5 ---
+
+yad vākyaṃ pariṣadā prativādinā ca trirabhihitamapi na vijñāyate śliṣṭaśabdam apratītaprayogam atidrutoccāritamityevamādinā kāraṇena tadavijñātārtham, avijñātārtham asāmarthyasaṃvaraṇāya prayuktamiti nigrahasthānamiti ।।

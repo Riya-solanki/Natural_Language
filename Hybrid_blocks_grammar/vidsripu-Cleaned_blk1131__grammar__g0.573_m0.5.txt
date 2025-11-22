@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1131 | label: grammar | g:0.573 m:0.5 ---
+
+akasmād unmatta praharasi kim adhvakṣitiruhaṃ hradaṃ hastāghātair vidalasi kim utphullanalinam ।
+tadā jānīmas te karivara balodgāram asamaṃ saṭāṃ suptasyāpi spṛśasi yadi pañcānanaśiśoḥ ।।

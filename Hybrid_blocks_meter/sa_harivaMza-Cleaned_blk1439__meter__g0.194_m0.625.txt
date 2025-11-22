@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1439 | label: meter | g:0.194 m:0.625 ---
+
+tatra sma dānavā ghorāḥ sarve saṃgrāmadarpitāḥ 
+ghnanti devān sagandharvān sayakṣoragacāraṇān ।।

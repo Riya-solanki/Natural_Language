@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3144 | label: meter | g:0.25 m:0.625 ---
+
+yasyayasya hi yo bhāvastasyatasya hitaṃ vadan ।
+anupraviśya medhāvī kṣipramātmavaśaṃ nayet ।।

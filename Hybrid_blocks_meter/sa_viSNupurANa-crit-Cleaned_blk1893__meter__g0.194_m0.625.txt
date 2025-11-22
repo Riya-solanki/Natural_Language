@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1893 | label: meter | g:0.194 m:0.625 ---
+
+dhruvasūryāntaraṃ yat tu niyutāni caturdaśa 
+svarlokaḥ so api gadito lokasaṃsthānacintakaiḥ ।।

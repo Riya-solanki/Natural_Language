@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9771 | label: meter | g:0.25 m:0.75 ---
+
+pradadyāddhūpadīpantu taṇḍulāṃśca sitān kṣipet ।
+āmapiṣṭaṃ tathaivānnaṃ kṣīrañca vinivedayet ।।

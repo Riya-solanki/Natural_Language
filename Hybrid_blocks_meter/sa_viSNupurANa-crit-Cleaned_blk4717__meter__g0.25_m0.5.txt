@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4717 | label: meter | g:0.25 m:0.5 ---
+
+kariṣye ca mahābhāga yad atraupayikaṃ matam 
+vicintyaṃ nānyathaitat te viddhi kaṃsaṃ hataṃ mayā ।।

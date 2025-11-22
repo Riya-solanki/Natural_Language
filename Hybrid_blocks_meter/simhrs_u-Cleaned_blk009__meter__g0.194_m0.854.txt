@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 9 | label: meter | g:0.194 m:0.854 ---
+
+śrīmān reca-mahīpatiḥ sucarito yasyānujanmā sphuṭaṃ
+prāpto vīra-guru-prathāṃ pṛthutarāṃ vīrasya mudrākarīm ।
+labdhvā labdha-kaṭhāri-rāya-virudaṃ rāhuttarāyāṅkitaṃ
+putraṃ nāgayanāyakaṃ vasumatī-vīraika-cūḍāmaṇim ।।

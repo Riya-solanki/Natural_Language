@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 408 | label: grammar | g:0.625 m:0.5 ---
+
+atra īdṛśī nipuṇatā yadīti caturokti-parihāsena tvayaiva mālavikā-darśanena nāṭyācaryayor vivādaḥ saṃvihita iti priyāparādhoghāṭanān narma ।

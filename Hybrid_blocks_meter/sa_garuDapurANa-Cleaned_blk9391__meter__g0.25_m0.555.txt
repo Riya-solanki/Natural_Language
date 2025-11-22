@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9391 | label: meter | g:0.25 m:0.555 ---
+
+ekādaśāhe yaḥ piṇḍastaṃ dadyādāmiṣeṇa tu ।
+siddhānnaṃ tasya dātavyaṃ kṛśarāḥ pūpakāḥ payaḥ ।
+prakṣālya vipracaraṇāvarghyaṃ dhūpañca dīpakram ।।

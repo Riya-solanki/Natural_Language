@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2896 | label: hybrid | g:0.444 m:0.5 ---
+
+prāg dravaṃ puruṣo aśnan vai madhye ca kaṭhināśanam 
+punar ante dravāśī tu balārogye na muñcati ।।

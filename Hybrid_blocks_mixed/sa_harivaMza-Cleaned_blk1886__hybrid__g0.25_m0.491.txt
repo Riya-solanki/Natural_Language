@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1886 | label: hybrid | g:0.25 m:0.491 ---
+
+kṣatriyāṇāṃ vapurbhiś ca tejasā ca balena ca 
+nṛṇāṃ ca rāṣṭrair vistīrṇaiḥ śrāmyatīva vasuṃdharā ।। 
+yac coktaṃ brahmasadane brahmaṇā parameṣṭhinā । tac chṛṇuṣva mahābāho rahasyam idam uttamam । 
+pure pure narapatiḥ koṭisaṃkhyair balair vṛtaḥ 
+rāṣṭre rāṣṭre ca bahavo grāmāḥ śatasahasraśaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 821 | label: grammar | g:0.646 m:0.5 ---
+
+aśvamedhe ced aśvo nāgacched āgneyo aṣṭākapāla iti mṛgākhare ṣaḍḍhaviṣkām iṣṭiṃ nirvaped daśahaviṣam ity eke ।

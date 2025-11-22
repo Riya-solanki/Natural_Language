@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1436 | label: grammar | g:0.575 m:0.465 ---
+
+payas tejo vāyur gaganam avanir viśvam api vā svayaṃ viṣṇus tasya tridaśajayinaḥ kiṃ na sukaram ।
+chalān nīto adhastād balir aṇukarūpeṇa tad api svabhāvāc cakrī yaḥ praguṇam api cakreṇa sṛjati ।।
+muṣṭikaraguhasya

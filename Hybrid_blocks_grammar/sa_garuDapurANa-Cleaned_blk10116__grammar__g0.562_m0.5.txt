@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10116 | label: grammar | g:0.562 m:0.5 ---
+
+na cāsti viṣṇoḥ sadṛśaṃ ca daivataṃ na cāsti vāyoḥ sadṛśo guruśca ।
+na cāsti tīrthaṃ sadṛśaṃ viṣṇupadyāḥ na viṣṇubhaktena samosti bhaktaḥ ।।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2344 | label: meter | g:0.194 m:0.823 ---
+
+araṇyam idam alpodam alpakakṣaṃ nirāśrayam 
+anveṣitavyaviśrāmaṃ dāruṇaṃ viraladrumam 
+akarmaṇyeṣu vṛkṣeṣu sthitaviprasthitadvijam ।। 
+saṃvāsasyāsya mahato janenotsāditadrumam । 
+nirānandaṃ nirāsvādaṃ niṣprayojanam ārutam 
+nirvihaṃgam idaṃ śūnyaṃ nirvyañjanam ivāśanam ।।

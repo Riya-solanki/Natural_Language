@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2422 | label: meter | g:0.194 m:0.625 ---
+
+kṣarajjalānāṃ śailānāṃ vanānāṃ ca jalāgame 
+sasasyānāṃ ca sīmānāṃ na lakṣmīr vyatiricyate ।।

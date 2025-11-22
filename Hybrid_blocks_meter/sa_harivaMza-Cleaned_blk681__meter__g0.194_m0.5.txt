@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 681 | label: meter | g:0.194 m:0.5 ---
+
+putro aṇuhasya rājarṣir brahmadatto abhavat prabhuḥ 
+yogātmā tasya tanayo viṣvaksenaḥ paraṃtapaḥ ।।

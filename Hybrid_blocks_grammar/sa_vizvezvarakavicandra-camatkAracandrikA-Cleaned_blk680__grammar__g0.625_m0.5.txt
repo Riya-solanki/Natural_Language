@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 680 | label: grammar | g:0.625 m:0.5 ---
+
+atra vidyāpakṣapātavrata nāyakaudāryasya sakalārthi kṛtārthīkaraṇasāmarthye api yatra kutra cit kāryasyānutpādakatve tadarthilālāṭika durlipiparāhatatvakathanādanyaparāhato ayamahetuḥ ।

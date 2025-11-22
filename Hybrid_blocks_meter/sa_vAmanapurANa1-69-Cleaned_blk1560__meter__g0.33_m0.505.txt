@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1560 | label: meter | g:0.33 m:0.505 ---
+
+hi uvāca ।
+na me asti mātā na pitā tathaiva na jñātayo vāpi ca bānadhavāśca ।
+nirāśrayo ahaṃ kiriśṛṅgavāsī sutāṃ pratīcchāsi tavādrirāja ।।

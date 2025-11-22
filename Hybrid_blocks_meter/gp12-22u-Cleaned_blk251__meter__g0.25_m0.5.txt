@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 251 | label: meter | g:0.25 m:0.5 ---
+
+kṛṣṇānurūpam apy āsāṃ vayo-vṛddhiḥ samṛddhyate ।
+yathā candramasaḥ puṣṭis tathā tasya rucām api ।। [anuṣṭubh]

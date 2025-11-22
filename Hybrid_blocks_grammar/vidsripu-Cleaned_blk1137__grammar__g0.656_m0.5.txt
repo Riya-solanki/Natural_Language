@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1137 | label: grammar | g:0.656 m:0.5 ---
+
+āmodais te diśi diśi gatair dūram ākṛṣyamāṇāḥ sākṣāl lakṣmyā tava malayaja draṣṭum abhyāgatāḥ smaḥ ।
+kiṃ paśyāmaḥ subhaga bhavataḥ krīḍati kroḍa eva vyāḍas tubhyaṃ bhavatu kuśalaṃ muñca naḥ sādhu yāmaḥ ।।

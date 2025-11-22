@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 47 | label: grammar | g:0.75 m:0.5 ---
+
+Viv sthāṇor sthāsnor apracalitasarvagatacinmātravapuṣaḥ pṛthag digdeśakālaparigaṇanakalpanābhāvād āhvānopakramaṃ visarjanam avagatatattvah kaḥ karoti, vyatiriktadeśakālasaṃbhave hi kasya cid ānayanaṃ kutra cit prahāṇaṃ saṃbhāvyeta, iha tu sarvasyaiva tanmayatvāt kasyāhvānaṃ kuta āhvānaṃ, kasya visarjanaṃ kutra ca visarjanam iti tatsamāveśenaiva sarvasaṃsaktir uktā ।।

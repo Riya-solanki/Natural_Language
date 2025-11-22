@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8755 | label: meter | g:0.25 m:0.5 ---
+
+nirviṇṇāḥ pretabhāvena pṛcchāmi tvāṃ dṛḍhavrata ।
+yathā na bhavitā pretastanme vada tapodhana ।
+nityaṃ mṛtyurvaraṃ jantoḥ pretatvaṃ mā bhavetkvacit ।।

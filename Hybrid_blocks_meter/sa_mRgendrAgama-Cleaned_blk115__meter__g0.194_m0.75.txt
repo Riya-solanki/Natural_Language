@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 115 | label: meter | g:0.194 m:0.75 ---
+
+pāśābhāve pāratantryaṃ vaktavyaṃ kinnibandhanam 
+svābhāvikaṃ cenmukteṣu muktaśabdo nivartate ।।

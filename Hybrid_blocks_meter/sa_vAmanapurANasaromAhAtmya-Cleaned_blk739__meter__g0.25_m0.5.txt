@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 739 | label: meter | g:0.25 m:0.5 ---
+
+tatra pañcavaṭaṃ nāma tīrthaṃ trailokyaviśrutam ।
+mahādevaḥ sthito yatra yogamūrtidharaḥ svayam ।।

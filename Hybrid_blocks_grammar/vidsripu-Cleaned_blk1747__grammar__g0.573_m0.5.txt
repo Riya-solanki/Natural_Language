@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1747 | label: grammar | g:0.573 m:0.5 ---
+
+vātaiḥ śīkarabandhubhiḥ śrutisukhair haṃsāvalīnisvanaiḥ protphullaiḥ kamalaiḥ payobhir amalair nītvā jagan nirvṛtim ।
+paścāt kṣīṇadhanāṃ bahirnijadaśāṃ dṛṣṭvā mṛṇālacchalād arthibhyaḥ pradadau navenduviśadāny asthīni padmākaraḥ ।।

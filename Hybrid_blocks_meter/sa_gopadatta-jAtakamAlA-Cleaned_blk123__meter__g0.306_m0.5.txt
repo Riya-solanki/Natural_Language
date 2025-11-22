@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 123 | label: meter | g:0.306 m:0.5 ---
+
+na varṇayanti kṣaṇikām apīśvarā bhavābhinirvṛttim avandhyavādinaḥ ।
+tathā hy ayaṃ skandhakadambakodbhavaḥ samudbhavo naikavidhasya pāpmanaḥ ।।

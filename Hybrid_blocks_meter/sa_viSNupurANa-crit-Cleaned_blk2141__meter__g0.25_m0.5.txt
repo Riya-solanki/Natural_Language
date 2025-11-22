@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2141 | label: meter | g:0.25 m:0.5 ---
+
+aṣṭābhiḥ pāṇḍarair yuktair vājibhiḥ kāñcane rathe 
+tasmiṃs tiṣṭhati varṣaṃ vai rāśau rāśau bṛhaspatiḥ ।।

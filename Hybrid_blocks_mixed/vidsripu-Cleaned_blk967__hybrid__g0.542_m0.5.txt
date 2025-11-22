@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 967 | label: hybrid | g:0.542 m:0.5 ---
+
+bhūyastarāṇi yad amūni tamasvinīṣu jyotsnīṣu ca praviralāni tataḥ pratīmaḥ ।
+saṃdhyānalena bhṛśam ambaramūṣikāyām āvartitair uḍubhir eva bhṛto ayam induḥ ।।

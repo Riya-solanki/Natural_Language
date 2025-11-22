@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 156 | label: meter | g:0.264 m:0.652 ---
+
+naca sākṣādbādhakamastītyavyatirekaśabdenocyate ।
+anupalabdhārthatvācca nānuvādalakṣaṇamaprāmāṇyamastīti arthe anupalabdhe ityanenoktam ।
+etacca viśeṣaṇatrayamupāgadadānena sūtrakāreṇa kāraṇadoṣabādhakajñānarahitamagṛhītagrāhijñānaṃ pramāṇamiti pramāṇalakṣaṇaṃ sūcitam ।

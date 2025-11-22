@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1142 | label: meter | g:0.306 m:0.5 ---
+
+kalyāṇadharmeti yadā narendra saṃbhāvanāmeti manuṣyadharmā ।
+tasyā na hīyeta naraḥ sadharmā hriyāpi tāvaddhuramudvahettām ।।

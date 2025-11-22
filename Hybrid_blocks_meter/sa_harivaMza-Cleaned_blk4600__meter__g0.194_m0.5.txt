@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4600 | label: meter | g:0.194 m:0.5 ---
+
+diṣṭyā bāhusahasrasya na vṛthā dhāraṇaṃ mama 
+diṣṭā sahasrākṣam ahaṃ vijetā punar āhave ।।

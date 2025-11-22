@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 705 | label: meter | g:0.275 m:0.819 ---
+
+para-sampattyā, yathā-
+lokopakāriṇī lakṣmīḥ satāṃ vimala-cetasām ।
+tathāpi tāṃ vilokyaiva dūyante duṣṭa-cetasaḥ ।।

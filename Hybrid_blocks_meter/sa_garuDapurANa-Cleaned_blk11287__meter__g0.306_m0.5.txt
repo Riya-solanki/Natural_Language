@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11287 | label: meter | g:0.306 m:0.5 ---
+
+na lakṣmīvadguṇapūrṇo viriñco na viṣṇuvadguṇapūrṇā ramāpi ।
+na vāyuvadbhāratī cāpi pūrṇā na śeṣavadvāruṇī cāpi pūrṇā ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 69 | label: hybrid | g:0.497 m:0.5 ---
+
+kiṃ kāraṇaṃ ta iha śikṣita vādiśreṣṭhā gamayanti dharma nikhilāniha śūnyatāyām 
+yāṃ śrutva śrāvaka spṛśanti vimukti śīghraṃ pratyekabodhi spṛśayanti ca buddhabodhim ।।

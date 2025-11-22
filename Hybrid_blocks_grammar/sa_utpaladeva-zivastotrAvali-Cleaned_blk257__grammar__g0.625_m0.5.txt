@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 257 | label: grammar | g:0.625 m:0.5 ---
+
+bhavadīyagabhīrabhāṣiteṣu pratibhā samyag udetu me puro ataḥ tadanuṣṭhitaśaktir apy atas tadbhavadarcāvyasanaṃ ca nirvirāmam ।।

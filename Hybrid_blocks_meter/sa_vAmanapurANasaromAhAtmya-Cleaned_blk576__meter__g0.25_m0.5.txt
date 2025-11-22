@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 576 | label: meter | g:0.25 m:0.5 ---
+
+dūrastho api smared yastu kurukṣetraṃ savāmanam ।
+so api muktimavāpnoti kiṃ punarnnivasannaraḥ ।।

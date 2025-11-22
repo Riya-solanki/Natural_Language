@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 891 | label: meter | g:0.194 m:0.5 ---
+
+pūrvam eva japel lakṣaṃ sidhyate ghoramūrdhajam 
+aviditvā vidhānena kiñcit kāryaṃ na sādhayet ।।

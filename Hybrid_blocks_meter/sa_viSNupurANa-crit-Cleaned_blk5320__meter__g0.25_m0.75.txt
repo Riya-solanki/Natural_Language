@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5320 | label: meter | g:0.25 m:0.75 ---
+
+tutoṣa paramaprītyā tarurājam anuttamam ।।

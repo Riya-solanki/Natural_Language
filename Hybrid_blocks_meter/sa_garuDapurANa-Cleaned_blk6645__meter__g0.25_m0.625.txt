@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6645 | label: meter | g:0.25 m:0.625 ---
+
+yadā lobhastvasantoṣo māno dambhaśca matsaraḥ ।
+karmaṇāñcāpi kāmyānāṃ dvāparaṃ tadrajastamaḥ ।।

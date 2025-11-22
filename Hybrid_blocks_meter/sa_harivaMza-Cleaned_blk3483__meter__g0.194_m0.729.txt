@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3483 | label: meter | g:0.194 m:0.729 ---
+
+nivedya gotraṃ svādhyāyām ācāreṇābhyalaṃkṛtau 
+śuśrūśū nirahaṃkārāv ubhau rāmajanārdanau 
+cakratuḥ puṇḍarīkākṣau vidyāgrahaṇalālasau । 
+pratijagrāha tāu kāśyo vidyāḥ prādāc ca kevalāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6281 | label: meter | g:0.25 m:0.625 ---
+
+brāhme muhūrte budhyeta dharmārthau cānucintayet ।
+kāyakleśāṃśca tanmūlānvedatattvārthameva ca ।।

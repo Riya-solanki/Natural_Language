@@ -1,0 +1,6 @@
+--- source: brsvbh2u-Cleaned.txt | block: 366 | label: meter | g:0.25 m:0.716 ---
+
+syādetaccakṣurādibhiḥ saha śāsanena karaṇaṃ cet prāṇaḥ ।
+evaṃ sati cakṣurādiviṣayarūpādivadasyāpi viṣayāntaraṃ vaktavyam ।
+naca tacchakyaṃ vaktum ।
+ekādaśakaraṇagaṇanavyākopaśceti doṣaṃ pariharati-

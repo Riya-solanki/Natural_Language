@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2446 | label: meter | g:0.25 m:0.5 ---
+
+kvacid gāyan kvacit krīḍaṃś cañcūryaṃś ca kvacit kvacit 
+parṇavādyaṃ śrutisukhaṃ vādayānaḥ kvacid vane ।।

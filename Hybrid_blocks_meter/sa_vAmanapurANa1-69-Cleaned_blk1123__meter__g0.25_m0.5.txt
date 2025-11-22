@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1123 | label: meter | g:0.25 m:0.5 ---
+
+māheśvarād vaktramatho babhūva netratrayaṃ pāvakatejasā ca ।
+yāmyena keśā haritejasā ca bhujāstathāṣṭādaśa saṃpjajñire ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 289 | label: hybrid | g:0.521 m:0.5 ---
+
+[] paurṇamāsī uvāca-yad adyāpy asiddha-nirvāha eva tāsāṃ vivāhaḥ ।

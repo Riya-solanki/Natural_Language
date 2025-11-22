@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 226 | label: meter | g:0.139 m:1.0 ---
+
+dīrghikāyā, yathā-
+etasmin mada-kala-mallikākṣa-pakṣa-
+vyādhūta-sphurad-uru-daṇḍa-puṇḍarīkāḥ ।
+bāṣpāmbhaḥ paripatanodgamāntarāle
+dṛśantām avirahita-śriyo vibhāgāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2336 | label: meter | g:0.25 m:0.625 ---
+
+vajravegena cākramya ratnavṛṣṭestu maṇḍalaṃ ।
+tatra lekhyaṃ mahāsatvaṃ ra[tnavṛṣṭiṃ pravarṣa]yan ।।

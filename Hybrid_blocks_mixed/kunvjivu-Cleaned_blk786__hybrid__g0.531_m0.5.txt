@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 786 | label: hybrid | g:0.531 m:0.5 ---
+
+lāvaṇyakāntiparipūritadiṅmukhe asmin smere adhunā tava mukhe taralāyatākṣi ।
+kṣobhaṃ yadeti na manāgapi tena manye suvyaktameva jala rāśirayaṃ payodhiḥ ।।

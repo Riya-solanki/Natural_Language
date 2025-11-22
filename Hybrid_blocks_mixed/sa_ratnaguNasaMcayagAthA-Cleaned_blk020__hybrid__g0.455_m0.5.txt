@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 20 | label: hybrid | g:0.455 m:0.5 ---
+
+kalyāṇamitrasahitasya vipaśyakasya trāso na bheṣyati śruṇitva jināna mātrām 
+yo pāpamitrasahito ca parapraṇeyo so āmabhājana yathodakaspṛṣṭa bhinno ।।

@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 182 | label: meter | g:0.25 m:0.5 ---
+
+nāgaṃ manaḥśilā hanti haritālaṃ ca vaṅgakam ।
+hiṅgulena tathā lohaṃ tāmraṃ ca śuddhagandhakam ।।
+rūpyaṃ ca tilamākṣīkaṃ svarṇaṃ nāgena hanyate ।
+yathā tāmravidhiḥ proktaḥ sa vidhiḥ pañcamāraṇe ।।

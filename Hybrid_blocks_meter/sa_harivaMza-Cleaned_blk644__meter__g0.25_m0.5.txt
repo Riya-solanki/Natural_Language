@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 644 | label: meter | g:0.25 m:0.5 ---
+
+pitṛbhakto asi viprarṣe sadbhaktaś ca na saṃśayaḥ 
+śreyas te adya vidhāsyāmi pratyakṣaṃ kuru tat svayam ।।

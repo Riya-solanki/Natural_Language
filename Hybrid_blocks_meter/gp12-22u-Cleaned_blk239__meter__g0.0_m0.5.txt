@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 239 | label: meter | g:0.0 m:0.5 ---
+
+[] bṛhad-gautamīye' py eṣā sarvato labdha-viśeṣā prastūyate-

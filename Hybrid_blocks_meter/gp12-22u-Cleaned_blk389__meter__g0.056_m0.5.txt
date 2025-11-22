@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 389 | label: meter | g:0.056 m:0.5 ---
+
+yady etad-vapur anya-sātkṛtam abhūt pitrādibhis tarhy adaḥ
+preta-grastam ivāpi jīvad adhikaṃ dhik-kāra-yogyaṃ bhavet ।
+dhik cātmānam aho yad eṣa sahate' py etasya saṅgāpadaṃ
+tat-tīrthāya balād balānujakṛte kartavyam asyārpaṇam ।। [śārdūla]

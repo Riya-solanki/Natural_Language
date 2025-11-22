@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 180 | label: grammar | g:0.604 m:0.5 ---
+
+[] "kiṃ kurmahe? yayā marma-pīḍayā kvacana ca śarma na labhāmahe vayam" iti ।

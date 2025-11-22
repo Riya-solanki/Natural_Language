@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 54 | label: hybrid | g:0.528 m:0.5 ---
+
+ye vā caranti cariyāṃ hitasānukampām iha vidyaśikṣita vidu spṛśiṣyanti bodhim 
+ye saukhya saṃskṛta asaṃskṛta ye ca saukhyā sarve ca saukhya prasutā itu veditavyāḥ ।।

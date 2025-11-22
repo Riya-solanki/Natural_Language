@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1955 | label: meter | g:0.272 m:0.845 ---
+
+sā eva maṇimadhyā tu vajraratnapradāyikā ।
+madhyakuḍmalayogena padmasiddhipradāyikā ।।

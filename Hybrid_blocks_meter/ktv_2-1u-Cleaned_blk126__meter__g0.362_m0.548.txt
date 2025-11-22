@@ -1,0 +1,11 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 126 | label: meter | g:0.362 m:0.548 ---
+
+yatra hi śāstrādhīnā puruṣapravṛttiḥ, tatra tatsannikarṣaviprakarṣāv apekṣyete ।
+sādhyaṃ punaḥ svargapaśuputragrāmādi prāg eva śāstrāt sarve puruṣāḥ pratipadyante ।
+tataś ca bhāvayet kim? ity apekṣitamātre vinaiva tāvac chāstreṇaitāvad avagatam puruṣārthaḥ kaścit iti ।
+tatra viśeṣamātream anavagatatvād apekṣyate ।
+tad api ca na sādhyātmanā, kiṃ tarhi, etadbhāvanāviṣayatvena ।
+tataś ca dūrasthasyāpi svargāder eva kṛtāspadasya saṃgatiḥ ।
+dhātvarthasambandhas tv anapekṣitaḥ kriyeta ।
+vidhyānarthakyāc ca bādhyetatarāṃ śrutiḥ ।
+kiñ ca

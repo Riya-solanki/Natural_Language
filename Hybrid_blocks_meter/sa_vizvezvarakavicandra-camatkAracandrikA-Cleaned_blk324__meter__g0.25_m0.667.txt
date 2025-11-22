@@ -1,0 +1,7 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 324 | label: meter | g:0.25 m:0.667 ---
+
+catuṣpādānvitaṃ padyaṃ cādirmātreti tad dvidhā ।
+chandovicitikośeṣu tayorjñeyastu vistaraḥ ।।
+padyabandhamayaṃ kāvyaṃ kṣudrākṣudratayā dvidhā ।।
+kṣudraṃ muktakakāvyaṃ tad bhāmahādyaiḥ prapañcitam ।
+akṣudraṃ sargabandhādi praśastodāttavastukam ।।

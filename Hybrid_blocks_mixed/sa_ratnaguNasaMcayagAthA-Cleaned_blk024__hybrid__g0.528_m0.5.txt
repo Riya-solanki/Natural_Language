@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 24 | label: hybrid | g:0.528 m:0.5 ---
+
+māyākaro yatha catuṣpathi nirmiṇitvā mahato janasya bahu chindati śīrṣakoṭī 
+yatha te ca māya tatha jānati sarvasattvāṃ nirmāṇu sarva jagato na ca tasya trāso ।।

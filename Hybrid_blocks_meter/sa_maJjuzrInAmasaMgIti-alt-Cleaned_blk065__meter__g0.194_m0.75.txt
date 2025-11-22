@@ -1,0 +1,4 @@
+--- source: sa_maJjuzrInAmasaMgIti-alt-Cleaned.txt | block: 65 | label: meter | g:0.194 m:0.75 ---
+
+puṇyavān puṇyasaṃbhāro jñānaṃ jñānākaraṃ mahat 
+jñānavān sadasajjñānī saṃbhāradvayasaṃbhṛtaḥ ।।

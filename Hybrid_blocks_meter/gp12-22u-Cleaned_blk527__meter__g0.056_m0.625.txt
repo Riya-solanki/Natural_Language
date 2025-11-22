@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 527 | label: meter | g:0.056 m:0.625 ---
+
+mahā-ravaṃ kṛtavati ca pralambake
+tadā drutaṃ mṛtavati ca dyavi sthitāḥ ।
+sunirvṛtā vavṛṣur alaṃ kulaṃ
+vyatarkayann upahasitiṃ harer api ।। [rucirā]

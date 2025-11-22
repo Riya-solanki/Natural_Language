@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1957 | label: meter | g:0.25 m:0.75 ---
+
+hema-kumbhavatī ramya-toraṇā cāru-darpaṇā ।
+kāpi gandharva-nagarī dṛśyate bhūmi-cāriṇī ।।

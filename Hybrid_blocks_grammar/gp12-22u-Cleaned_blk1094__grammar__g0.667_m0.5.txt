@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1094 | label: grammar | g:0.667 m:0.5 ---
+
+[] tad evam api kṛṣṇe sa-tṛṣṇe' pi tuṣṇīm eva sthite punar ūcuḥ-dehi vāsāṃsi dharmajña iti ।

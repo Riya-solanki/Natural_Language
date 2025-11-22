@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 157 | label: meter | g:0.194 m:0.75 ---
+
+surasāyāḥ sahasraṃ tu sarpāṇām amitaujasām 
+anekaśirasāṃ tāta khecarāṇāṃ mahātmanām ।।

@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 534 | label: hybrid | g:0.389 m:0.211 ---
+
+vyavasthāpakamiti cet na, karaṇatvāviśeṣāt ।
+syādapyeṣā kalpanā yadyekātmatve dṛḍhaṃ pramāmaṃ syāt ।
+na tu tadasti ।
+yetvātmaikatvavādāḥ śrutiṣu smṛtiṣu purāṇeṣu vā te nirañjanaḥ paramaṃ sāmyamupaiti mama sādharmyamāgatāḥ uttamaḥ puruṣastvanyaḥ ityādibhirātmabedavacanaiḥ pratyakṣādibhiśca virodhānnaikāntataḥ śaknuvantyātmaikatvaṃ niścāyayitum ।।

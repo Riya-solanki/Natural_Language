@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 859 | label: hybrid | g:0.477 m:0.093 ---
+
+tām antaḥprasavāṃ dṛṣṭvā vipraḥ prāha bṛhaspatiḥ 
+madīyāyāṃ na te yonau garbho dhāryaḥ kathaṃ cana ।। 
+satyaṃ kathaya me subhru kasya garbhas tavodare । tyaja tyajāśu durbuddhe matkṣetrād āhitaṃ paraiḥ ।। nāhaṃ tvāṃ bhasmasāt kuryāṃ striyaṃ sāṃtānike sati । śrutvā bṛhaspater vākyaṃ roṣeṇa vyākulābhavat । 
+ayonāv asṛjattaṃ tu kumāraṃ dasyuhantamam 
+iṣīkāstambam āsādya jvalantam iva pāvakam ।।

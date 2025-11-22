@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 969 | label: grammar | g:0.562 m:0.5 ---
+
+[] rāmaḥ prahasann āha-kṛṣṇa, pākādi-nitya-kṛtya-sanniveśa-deśādhaḥ-pradeśān mahā-śakaṭa-veśān gṛhān nikaṭata evāṭataḥ paśya ।

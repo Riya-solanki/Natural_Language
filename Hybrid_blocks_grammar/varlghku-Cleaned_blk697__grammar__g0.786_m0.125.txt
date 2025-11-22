@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 697 | label: grammar | g:0.786 m:0.125 ---
+
+sipi dhāto rurvā ।।
+padāntasya dhātoḥ sasya ruḥ syādvā, pakṣe daḥ । ahinaḥ, ahinat, ahinad ।। untaḥ । undāñcakāra । auntām । aunaḥ, aunat, aunad ।। añjū vyaktimrakṣaṇakāntigatiṣu ।। aṅktaḥ । ānañja । ānañjitha, ānaṅktha । añjitā, aṅktā । anajāni ।।

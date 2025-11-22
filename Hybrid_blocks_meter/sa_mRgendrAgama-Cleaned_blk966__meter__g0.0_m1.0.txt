@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 966 | label: meter | g:0.0 m:1.0 ---
+
+samānavṛtīvijayād bhavettyaktajaro vaśī 
+vapurvihāravaśitā bhavedvinamane jite ।। MT

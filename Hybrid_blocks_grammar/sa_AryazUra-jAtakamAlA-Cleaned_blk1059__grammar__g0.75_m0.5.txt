@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1059 | label: grammar | g:0.75 m:0.5 ---
+
+teṣāmevaṃvidhena niravadyena śīlavṛttasamudācāreṇa pravivekābhiratyā dhyānapravaṇamānasatayā ca sarvatra yaśaḥ samupaśrutya śakro devānāmindrastatparīkṣānimittaṃ tatrābhijagāma । taccaiṣāṃ dhyānābhimukhatvaṃ kukāryeṣvaprasaṅgamanutkaṇṭhāṃ praśamābhirāmaṃ cāvasthānamavekṣya sthirataraguṇasambhāvanastatparīkṣānimittamavahitamanā babhūva ।

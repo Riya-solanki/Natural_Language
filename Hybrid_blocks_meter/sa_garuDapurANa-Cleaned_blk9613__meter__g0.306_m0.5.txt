@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9613 | label: meter | g:0.306 m:0.5 ---
+
+yā vāpī nirjale deśe yaddānaṃ nirdhane dvije ।
+prāṇināṃ yo dayāṃ dhatte sa bhavennākanāyakaḥ ।।

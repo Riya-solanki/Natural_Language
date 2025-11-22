@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2287 | label: meter | g:0.25 m:0.625 ---
+
+etad vivekavijñānaṃ yad aśeṣeṣu jantuṣu 
+bhavatā darśitaṃ vipra tat paraṃ prakṛter mahat ।।

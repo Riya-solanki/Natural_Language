@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 802 | label: grammar | g:0.63 m:0.314 ---
+
+kurvanti maunaṃ krandaṃ vā śūnyaṃ paśyati vartma vā ।
+kṛṣṇaṃ vāñchanti mṛtyuṃ vā tāsām evaṃvidhā gatiḥ ।।
+[] punas tau sāsraṃ vakṣyataḥ-samprati tāḥ prati vatsasya kā vidhitsā ?
+[] sā vakṣyati-tad etat paścād api niścīyatām । yat khalu preyasāṃ premākṣemaṃ tad-bhāvanāmaya-premānurūpam eva sva-sthemānaṃ labhate । na tu svāgraha-grahilatām iti ।

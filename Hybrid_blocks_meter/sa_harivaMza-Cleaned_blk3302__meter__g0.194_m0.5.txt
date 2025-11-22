@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3302 | label: meter | g:0.194 m:0.5 ---
+
+kṛṣṇas tu tena nāgena krīḍitvā śiśunā yathā 
+nidhanāya matiṃ cakre kaṃsadviṣṭena cetasā ।।

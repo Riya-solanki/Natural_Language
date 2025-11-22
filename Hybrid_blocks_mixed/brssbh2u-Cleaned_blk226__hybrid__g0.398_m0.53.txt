@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 226 | label: hybrid | g:0.398 m:0.53 ---
+
+atrāha- nanvaupaniṣadānāmapyasamañjasameva darśanaṃ tapyatāpakayorjātyantarabhāvānabhyupagamāt ।
+ekaṃ hi brahma sarvātmakaṃ sarvasya prapañcasya kāraṇamabhyupagacchatāmekasyaivātmano viśeṣau tapyatāpakau na jātyantarabhūtāvityabhyupagantavyaṃ syāt ।

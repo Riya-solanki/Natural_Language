@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3455 | label: meter | g:0.25 m:0.714 ---
+
+evaṃ bruvati govinde viveśāvanatānanaḥ 
+ugraseno mahātejāḥ kṛṣṇam asrāvilekṣaṇam । 
+pralapantaṃ jagāmaivaṃ yādavānāṃ ca saṃsadi । 
+ugraseno yadūn gṛhya putrakilbiṣaśaṅkitaḥ ।। 
+vṛṣṇibhiḥ sahitaḥ sarvaiḥ śiniprabhṛtibhis tadā । 
+sa kṛṣṇaṃ puṇḍarīkākṣam uvāca yadusaṃsadi 
+bāṣpasaṃdigdhayā vācā dīnayā sajjamānayā ।।

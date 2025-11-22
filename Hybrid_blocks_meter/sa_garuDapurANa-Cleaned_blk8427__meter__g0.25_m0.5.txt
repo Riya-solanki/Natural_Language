@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8427 | label: meter | g:0.25 m:0.5 ---
+
+jātavedomuke deyā ekā pretamukhe tathā ।
+ūrdhvaṃ tu jvālayedvahniṃ pūrvabhāge citāṃ punaḥ ।।

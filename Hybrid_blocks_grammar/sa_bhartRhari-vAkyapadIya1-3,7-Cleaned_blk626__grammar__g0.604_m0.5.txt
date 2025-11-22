@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 626 | label: grammar | g:0.604 m:0.5 ---
+
+lakṣaṇād vyavatiṣṭhante padārthā na tu vastutaḥ upakārāt sa evārthaḥ kathaṃ cid anugamyate ।।

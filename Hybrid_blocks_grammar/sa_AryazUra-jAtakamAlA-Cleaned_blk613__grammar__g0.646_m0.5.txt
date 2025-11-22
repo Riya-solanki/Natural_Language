@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 613 | label: grammar | g:0.646 m:0.5 ---
+
+atha madrī vipriyopanipātaśaṃsibhiraniṣṭernimittairupajanitavaimanasyā mūlaphalānyādāya kṣiprataramāgantukāmāpi vyālamṛgoparudhyamānamārgā ciratareṇāśramapadamupajagāma । ucitāyāṃ ca pratyudgamanabhūmāvākrīḍāsthāne ca tanayāvapaśyantī bhṛśataramarativaśamagāt ।

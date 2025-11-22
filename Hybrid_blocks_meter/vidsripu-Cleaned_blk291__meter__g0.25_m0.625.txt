@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 291 | label: meter | g:0.25 m:0.625 ---
+
+ghanaiḥ śephālīnāṃ hṛdayanibiḍāśliṣṭavasudhaiḥ prasūnair unnālaiḥ pulakitatarodyānataravaḥ ।
+niśāntāḥ prīṇanti pramadakurarodgītarabhaso nabhasvadvyādhūtasphuṭakumudagandhaplutadiśaḥ ।।

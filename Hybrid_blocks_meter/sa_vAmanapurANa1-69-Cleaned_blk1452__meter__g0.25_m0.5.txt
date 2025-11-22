@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1452 | label: meter | g:0.25 m:0.5 ---
+
+tato abravīt surapatirdharmya vākyaṃ hitaṃ surān ।
+ātmano yaśaso vṛddhyai saptarṣīn vinayānvitān ।।

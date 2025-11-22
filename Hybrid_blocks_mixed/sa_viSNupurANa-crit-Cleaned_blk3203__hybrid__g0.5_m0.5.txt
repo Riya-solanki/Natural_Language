@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3203 | label: hybrid | g:0.5 m:0.5 ---
+
+arhadhvaṃ dharmam etaṃ ca sarve yūyaṃ mahābalāḥ ।।

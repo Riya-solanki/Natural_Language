@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 813 | label: meter | g:0.217 m:0.845 ---
+
+prākāraṃ bhasmanā dīptam astraṃ māheśvaraṃ japan 
+tadantarakhilairbījair varmālabdhaistaduccaran ।।

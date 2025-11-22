@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 640 | label: grammar | g:0.583 m:0.5 ---
+
+atha teṣāṃ nṛpatisacivānām abhijñātataro amātyas taṃ rājānam abravīt ।। śrūyatāṃ mahārāja ।।

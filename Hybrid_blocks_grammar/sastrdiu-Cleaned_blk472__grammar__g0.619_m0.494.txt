@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 472 | label: grammar | g:0.619 m:0.494 ---
+
+kiñca prākṛte pralaye prakṛtamātramātmānaśca kevalamavatiṣṭhante, sarve cātmāno nirviśeṣāḥ sarveṣāṃ caitanyamātrarūpatvāt ।
+naca dharmādharmakṛtamapi vailakṣaṇyamātmānāṃ saṃbhavati, tayorātmadharmatvābhāvāt, antaḥkaraṇavṛttitvāt tasya ca tadānīmabhāvādityuktam ।
+evaṃ ca dharmādharmarahiteṣu nirviśeśeṣu puruṣeṣvavasthiteṣu sargakāle prakṛtiḥ śarīrārambheṇātmano badhnātīti cet, ye pūrvasṛṣṭau sthitāḥ, ye ca brahmahatyākāriṇasteṣāṃ sarveṣāmaikavidhyameva syāt pūrvakṛtayordharmādharmayornaṣṭatvat ।।

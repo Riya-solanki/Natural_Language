@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 528 | label: grammar | g:0.719 m:0.48 ---
+
+na tu suṣuptāvapi prakāśata evātmā svābhāvikaparamānandayuktaḥ, anyathā katham sukhamahamasvāpsam iti prabodhe pratisaṃdhānaṃ syāt, arthāntaraṃ tu na kiñciccharīramindriyamanyadvā vastu prakāśata ityetāvān svapradāgakābhyāṃ suṣupterbhedaḥ ।
+naitadevam- saṃvidvirodhāt, na hi suptānāmātmā sukhaṃ vā prakāśate, nahyabhāsamānaṃ vyavahāramātreṇa prakāśata iti śakyamaṅgīkartum ।।

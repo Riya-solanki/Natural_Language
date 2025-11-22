@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 63 | label: meter | g:0.25 m:0.75 ---
+
+yakārārthena yatkiñcit kartavyaṃ siddhimicchatā ।
+rephāditritayenaiva jagatkāryaṃ pravartate ।।

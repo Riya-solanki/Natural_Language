@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 352 | label: hybrid | g:0.396 m:0.5 ---
+
+[] tāv ūcatuḥ-"yathā śiṣṭiḥ śiṣṭāgraṇī-caraṇānām । kintu śāvayor āvayor ekataraḥ samājñāpyatāṃ, yathānyataraḥ śrotā bhavati ।"

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5035 | label: meter | g:0.25 m:0.5 ---
+
+tau copaviṣṭāv abhitaḥ sadasyās tasya śaunaka 
+tatas teṣūpaviṣṭeṣu sadasyaiḥ saha śaunaka । 
+kathā bahuvidhāś citrāś cakrāte vedasaṃhitāḥ ।।

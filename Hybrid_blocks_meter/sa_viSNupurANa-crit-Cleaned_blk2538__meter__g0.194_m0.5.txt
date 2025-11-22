@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2538 | label: meter | g:0.194 m:0.5 ---
+
+eka āsīd yajurvedas taṃ caturdhā vyakalpayat 
+cāturhotram abhūd yasmiṃs tena yajñam athākarot ।।

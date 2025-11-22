@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10902 | label: meter | g:0.306 m:0.5 ---
+
+sa eva viṣṇuḥ sa urukramobhūdāgnīdhraputryāṃ merudevyāṃ ca nābheḥ ।
+vidyāratānāṃ mānināṃ sarvadaivamatyāścaryaṃ darśayituṃ ca vīndra ।।

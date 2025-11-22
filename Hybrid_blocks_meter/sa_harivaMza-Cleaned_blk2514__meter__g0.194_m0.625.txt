@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2514 | label: meter | g:0.194 m:0.625 ---
+
+tac chrutvā rauhiṇeyasya vākyaṃ saṃjñāsamīritam 
+vikrīḍyāsphoṭayad bāhū tad bhittvā bhogabandhanam ।।

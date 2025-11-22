@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 536 | label: grammar | g:0.604 m:0.5 ---
+
+atulyānāṃ dravyāṇāṃ prakṛtibhāvo vikalpane vikāraśca prakṛtīranuvidhīyate, na tvivarṇamanuvidhīyate yakāraḥ tasmādanudāharaṇam adravyavikāraḥ' iti ।।

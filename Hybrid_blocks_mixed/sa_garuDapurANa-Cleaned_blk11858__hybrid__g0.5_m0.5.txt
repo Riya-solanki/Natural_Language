@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11858 | label: hybrid | g:0.5 m:0.5 ---
+
+tasya snānaṃ vyarthamāhuśca yasmāttasmāttyājyaṃ na dvayoḥ kāryameva ।
+abhiprāyaṃ hyetamevaṃ khagendra jānīhi tvaṃ prahasyaiva nityam ।।

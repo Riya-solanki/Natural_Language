@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 314 | label: meter | g:0.25 m:0.75 ---
+
+tataḥ prabhṛti lokena kumudākarahāsanaḥ ।
+kṣaṇadātilakaścandraḥ śaśāṅka iti kīrtyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4680 | label: meter | g:0.194 m:0.5 ---
+
+dhanyāsy anugṛhītāsi yasyās te patir īdṛśaḥ 
+prāpto devyāḥ prasādena pārvatyā mattakāśini ।।

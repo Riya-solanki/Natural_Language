@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 718 | label: meter | g:0.217 m:0.845 ---
+
+jvalitvā śītalībhūte navanavairbījapūrakaiḥ 
+punaḥ punaḥ prakartavyo navavelamayaṃ vidhiḥ ।।

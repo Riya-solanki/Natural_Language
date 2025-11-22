@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 671 | label: meter | g:0.25 m:0.75 ---
+
+pṛthūdake mahātīrthe avakīrṇeti nāmataḥ ।
+juhāva dhṛtarāṣṭrasya rāṣṭraṃ narapatestataḥ ।।

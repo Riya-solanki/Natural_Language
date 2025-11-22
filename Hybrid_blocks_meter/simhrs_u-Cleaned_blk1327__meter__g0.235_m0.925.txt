@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1327 | label: meter | g:0.235 m:0.925 ---
+
+etac chrānta-vicitra-catvara-pathaṃ viśrānta-vaitālika-
+ślāghā-ślokam aguñji-mañju-murajaṃ vidhvasta-gīta-dhvani ।
+vyāvṛttādhyayanaṃ nivṛtta-sukavi-krīḍā-samasyaṃ namad-
+vidvadvad vāda-kathaṃ kathaṃ puram idaṃ mauna-vrate vartate ।।

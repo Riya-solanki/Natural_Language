@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 47 | label: hybrid | g:0.542 m:0.5 ---
+
+tadvat pṛcchāmi pitaraṃ kaśyapaṃ brahmavādinam। parājayārthaṃ daityasya balestasya mahātmanaḥ ।।

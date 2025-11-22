@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 636 | label: meter | g:0.111 m:0.521 ---
+
+gavām asmākaṃ ca śravaṇam anu veṇoḥ samadaśā
+yadapy eṣā jātā tadapi kila bhedo vilasati ।
+amūs tad-vaktenduṃ sapadi kalayanti pratipadaṃ
+vayaṃ naitad vidmaḥ kva bhavati yuge tasya kalanam ।। [śikhariṇī]

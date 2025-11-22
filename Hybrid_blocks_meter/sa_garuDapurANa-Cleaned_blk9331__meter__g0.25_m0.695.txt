@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9331 | label: meter | g:0.25 m:0.695 ---
+
+yat karma kurute kaścittat sarvaṃ vilakhatyasau ।
+dharmarājagṛhadvāri dūtāstārkṣya tathā niśi ।
+tiṣṭhanti pāpakarmāṇaḥ pacyamānā narādhamāḥ ।।

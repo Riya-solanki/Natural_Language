@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 40 | label: meter | g:0.194 m:0.5 ---
+
+sa sṛṣṭāsu prajāsv evam āpavo vai prajāpatiḥ 
+lebhe vai puruṣaḥ patnīṃ śatarūpām ayonijām ।।

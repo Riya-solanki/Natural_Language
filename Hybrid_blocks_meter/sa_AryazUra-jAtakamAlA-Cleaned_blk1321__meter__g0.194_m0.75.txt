@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1321 | label: meter | g:0.194 m:0.75 ---
+
+tadevamatidhārmikaḥ khagavarākṛtiḥ ko apyasau
+mamāpi hṛdi mārdavaṃ janitavān kṣaṇenaiva yaḥ ।
+khagādhipatimokṣaṇaṃ kṛtamanusmaran matkṛte
+sahādhipatināgataḥ svayamayaṃ ca te antaḥpuram ।।

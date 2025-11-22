@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2928 | label: meter | g:0.25 m:0.808 ---
+
+śakra uvāca ।
+nighnano mebalaṃ vajraṃ kṛśāno śatadhā gatam ।
+eṣa cāhūyate jambhastasmāddehyāyudhaṃ mama ।।

@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 3 | label: meter | g:0.022 m:0.896 ---
+
+atha trivarga-pratipatti-nāmako dvitīyo adhyāyaḥ
+prakaraṇa anuṣṭhāna

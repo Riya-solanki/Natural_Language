@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 755 | label: meter | g:0.194 m:0.5 ---
+
+śaptvā tān abhibhāṣyātha catvāraś cakrur aṇḍajāḥ 
+tāṃs trīn abhīpsato rājyaṃ vyabhicārapradharṣitān ।।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3681 | label: grammar | g:0.667 m:0.5 ---
+
+athāsmin bhā]ṣitamātre yāvantastathāgatāḥ sarvalokadhātuparamāṇurajaḥsameṣu sarvalokadhātuṣu tiṣṭhanti te tathā[gatā ekaikena sarvaloka]dhātuparamāṇurajaḥsamāḥ spharaṇakāyāḥ bhagavato vairocanasya hṛdaye praviṣṭāḥ ।

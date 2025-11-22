@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 200 | label: hybrid | g:0.531 m:0.5 ---
+
+idānīṃ plakṣāṇāṃ jaṭharadalaviśleṣacaturaḥ sthitīnām ābandhaḥ sphuṭati śukacañcūpuṭanibhaḥ ।
+tataḥ strīṇāṃ hanta kṣamam adharakāntiṃ kalayituṃ samantān niryāti sphuṭasubhagarāgaṃ kisalayam ।।

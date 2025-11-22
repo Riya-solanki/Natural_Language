@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 396 | label: meter | g:0.25 m:0.625 ---
+
+{kkhaṇapāhuṇi-ā de-ara jā-ā-e suha-a kiṃpi de bhaṇi-ā ।
+ru-a-i paḍoharavalahīgharammi aṇuṇiñja-u varā-ī ।।}
+[kṣaṇaprāghuṇikā devara jāyayā subhaga kimapi te bhaṇitā ।
+roditi gṛhapaścādbhāgavalanbhīgṛhe anunīyatāṃ varākī ।।]

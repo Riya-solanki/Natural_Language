@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 119 | label: hybrid | g:0.444 m:0.33 ---
+
+nanu kvacidasattvamapi prāgutpatteḥ kāryasya vyapadiśati śrutiḥ - aasadevedamagra āsīt iti, aasadvā idamagra āsīt' iti ca ।
+tasmādasadvyapadeśānna prāgutpatteḥ kāryasya sattvamiti cet ।

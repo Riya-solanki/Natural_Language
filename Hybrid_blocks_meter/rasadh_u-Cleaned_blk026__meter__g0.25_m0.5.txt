@@ -1,0 +1,4 @@
+--- source: rasadh_u-Cleaned.txt | block: 26 | label: meter | g:0.25 m:0.5 ---
+
+vāsasā gālite sūte saṃskāraḥ pāṭasāraṇaḥ ।
+vaṅganāgādikāḥ sarvā vastre tiṣṭhanti vikriyāḥ ।।

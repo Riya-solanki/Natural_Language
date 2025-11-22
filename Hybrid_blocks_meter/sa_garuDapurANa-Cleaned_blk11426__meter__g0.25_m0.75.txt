@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11426 | label: meter | g:0.25 m:0.75 ---
+
+anantarūpodhikakāntakāntimānrūdrādīnāṃ dṛśyate veṅkaṭeśaḥ ।
+sasūryalakṣādhikakāntakāntito rudrādīnāṃ dṛśyate śrīnivāsaḥ ।।

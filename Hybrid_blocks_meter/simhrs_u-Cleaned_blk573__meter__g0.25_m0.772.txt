@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 573 | label: meter | g:0.25 m:0.772 ---
+
+atha śaṅkā-
+śaṅkā cauryāparādhādyaiḥ svāniṣṭotprekṣaṇaṃ matam ।
+tatra ceṣṭāmuhuḥ pārśva-darśanaṃ mukha-śoṣaṇam ।। 
+avakuṇṭhana-vaivarṇya-kaṇṭha-sādādayo' pi ca ।
+śaṅkā dvidyeyam ātmotthā parotthā ceti bhedataḥ ।। 
+svākārya-janitā svotthā prāyo vyaṅgyeyam iṅgitaiḥ ।
+iṅgitāni tu pakṣma-bhrū-tārakā-dṛṣṭi-vikriyāḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 234 | label: grammar | g:0.708 m:0.5 ---
+
+ekasminn eva svalakṣaṇe pratyābhāsaṃ niyatiśaktyā kāryaṃ niyamitaṃ tathābhūtānekakāryakṛdābhāsabhedādhikaraṇam ekaṃ ca । sāmānādhikaraṇyābhāsavaśād vastu । anekasyaikatā hi sāmānādhikaraṇyam ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 124 | label: meter | g:0.156 m:0.846 ---
+
+ravy-ādi-dyuti-jiṣṇu-divya-dharaṇi-kṣauṇī-ruhāntargata-
+prāsāda-sthita-siṃha-pīṭha-mahasi cchannānya-dṛṣṭi-tviṣi ।
+spaṣṭātmīya-dṛśi prakīrṇaka-vikīrṇālī-hitālī-vṛtā
+rādhā-mādhava-mādhurī-vara-sudhā tṛṣṇāṃ mudhā yacchati ।। [śārdūla]

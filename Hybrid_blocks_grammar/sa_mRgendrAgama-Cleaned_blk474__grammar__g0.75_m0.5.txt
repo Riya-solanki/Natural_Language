@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 474 | label: grammar | g:0.75 m:0.5 ---
+
+[kalātattvapavitrāṇuśaktimantreśasaṃkhyayā] kalāḥ `tārā sutārā taraṇiḥ' ityādyā aṣṭatriṃśat। tattvāni ṣaṭtriṃśat। pavitrāṇavaḥ sadyojātādimantrāḥ pañca। śaktayo vāmādyā nava। mantreśā anantādividyeśā aṣṭau। ābhyaḥ saṃkhyābhyo madhyādanyatamayā saṃkhyayā keśān vibhajya [pratyaṃśaṃ] ekaikasminnaṃśe [saṃhitāṇubhiḥ] śivaikādaśikayā saṃhitayā [sampātya] sampātahomaṃ kṛtvābhyarcitasya vrateśvarasya śivasya purataḥ [śivatejasā] tanmūlenācāryasya jaṭāṃ badhnīyāt। [mantriṇaḥ] sādhakasya sādhyamantreṇa [putrayogyayoḥ] putrakasamasthayostu hṛdeti bhedaḥ।।

@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 651 | label: meter | g:0.217 m:0.845 ---
+
+koṭhīmadhye kṣipedyantraṃ babbūlakhadirāvalīm 
+prabhṛtīnāṃ mṛtāṅgāraiḥ pūrṇaṃ pūrṇaṃ dhamenmuhuḥ ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 334 | label: grammar | g:0.722 m:0.14 ---
+
+mardanasvedanayoḥ pūrvopakaraṇaṃ darśayannāha jñātvetyādi ।।
+bījabalābalamardanayogaṃ kṛtaṃ jñātvā bījānāṃ dhātūpadhātuyogajanitānāṃ balābale nyūnādhike yo'sau mardanayogastameva kṛtaṃ jñātvā viditvā rasarāje svedavidhānaṃ kuryāt vā puṭaṃ vahniyogaṃ kuryāt vā yantraṃ vihitarasakarma kuryāt vihitaṃ kṛtaṃ rasasya karma saṃskārarūpaṃ yatra tathoktaṃ garbhayantrādikamityarthaḥ ।।

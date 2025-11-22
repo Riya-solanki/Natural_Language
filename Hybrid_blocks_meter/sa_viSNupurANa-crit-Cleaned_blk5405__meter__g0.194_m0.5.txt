@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5405 | label: meter | g:0.194 m:0.5 ---
+
+yatra yuddham abhūd ghoraṃ hariśaṃkarayor mahat 
+chinnaṃ sahasraṃ bāhūnāṃ yatra bāṇasya cakriṇā ।।

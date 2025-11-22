@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1429 | label: meter | g:0.25 m:0.625 ---
+
+manaḥśilāṃ bhaga vidhvā vajrabandhena tāṃ pighet ।
+caturvidhairnimittaistu siddhiścāpi caturvidhā ।।

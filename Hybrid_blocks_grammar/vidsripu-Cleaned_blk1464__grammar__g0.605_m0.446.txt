@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1464 | label: grammar | g:0.605 m:0.446 ---
+
+yasya dvīpaṃ dharitrī sa ca jaladhir abhūd yasya gaṇḍūṣatoyaṃ tasyāścaryaikamūrter api nabhasi vapur yatra durlakṣam āsīt ।
+tat pītaṃ tvadyaśobhis tribhuvanam abhajaṃs tāni viśrāmahetos tac cāntaḥ kaiṭabhāreḥ sa ca tava hṛdaye vandanīyas tvam ekaḥ ।।
+tathāgatadāsasya

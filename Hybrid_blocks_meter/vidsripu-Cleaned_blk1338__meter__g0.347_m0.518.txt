@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1338 | label: meter | g:0.347 m:0.518 ---
+
+pariśuddhām api vṛttiṃ samāśrito durjanaḥ parān vyathate ।
+pavanāśino api bhujagāḥ paropaghātaṃ na muñcanti ।।
+raviguptasya

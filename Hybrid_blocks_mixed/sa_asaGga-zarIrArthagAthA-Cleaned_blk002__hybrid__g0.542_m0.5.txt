@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 2 | label: hybrid | g:0.542 m:0.5 ---
+
+pāpaṃ na kuryān manasā na vācā kāyena vā kiṃcana sarvaloke ।
+riktaḥ kāmaiḥ smṛtimān saṃprajānaṃ duḥkhaṃ na seveta anarthasaṃhitam ।।

@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 710 | label: grammar | g:0.75 m:0.5 ---
+
+samayinā putrakeṇa [śāstramadhītya] śāstrapāṭhānantaraṃ [gurau vasan gurutantraḥ] gurugṛhādhivāsinā tatpāratantryeṇa ca [abhimānamātsaryaḍambhasantatim] abhimānam ahaṃkāraṃ mātsaryaṃ dveṣaṃ ḍambhaṃ kṛtrimaṃ vyasanasantatiṃ kleśahelāparamparāṃ tyaktvā vihāya [śṛṇuyāt] tacchravaṇaṃ kāryam।।

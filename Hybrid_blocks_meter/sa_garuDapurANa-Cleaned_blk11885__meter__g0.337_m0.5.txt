@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11885 | label: meter | g:0.337 m:0.5 ---
+
+tadā kudavī kutra gatā vadasvame hyataḥ pate tvaṃ na bhajasva devīm ।
+pate bhaja tvaṃ brāhmaṇānvaiṣṇavāṃśca saṃsāraduḥ khāttāransuṣṭhurūpān ।।

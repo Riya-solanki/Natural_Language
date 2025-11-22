@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5112 | label: meter | g:0.306 m:0.5 ---
+
+caturguṇe jale mūtre dviguṇe citrakāṇi ca ।
+kalkaiḥ siddha ghṛta prasthaṃ sakṣīraṃ jaṭharī pibet ।।

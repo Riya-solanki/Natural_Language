@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 363 | label: grammar | g:0.74 m:0.5 ---
+
+iti saṃbandhākṣepaḥ pūrvākṣiptaṃ saṃbandhanityatvamasamādhāyedānīṃ atha gaurityatra kaḥ śabdaḥ iti kayā saṃgatyā kena vā prayojanena śabdasvarūpaṃ nirūpyate, saṃgatistāvatprāsaṅgīkā saṃbandhaprastāvāt saṃbandhinorapi śabdārthayoḥ prastutatvātsvarūpaṃ nirūpyate ।
+prayojanamapi tadavayavāśritānāmūhādīnāṃ satyatvaṃ, niravayave hi vākye pade vā vācake avayavānāṃ mṛṣātvāt tadāśritānyapi kāryāṇi mṛṣā bhaveyuḥ ।।

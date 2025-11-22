@@ -1,0 +1,10 @@
+--- source: gp01-11u-Cleaned.txt | block: 576 | label: meter | g:0.069 m:0.627 ---
+
+ūcuś ca,
+"abhajad iha yad eṣā parvatākāra-varṣmā,
+kṣayam atitanu-mūrtiṃ prāpya bālaṃ tam etam ।
+na hi tad ativicitraṃ prekṣyatām eva sākṣād
+vidhur ayam amṛtāṅgaḥ pūtaneyaṃ viṣāṅgī ।। [mālinī]
+tathā ca,
+"viṣaṃ syād viṣam anyasminn amṛtaṃ tu viṣe viṣam ।
+pūtanā-kṛṣṇa-saṅgharṣe dṛśyatām etad eva hi ।। [anuṣṭubh]

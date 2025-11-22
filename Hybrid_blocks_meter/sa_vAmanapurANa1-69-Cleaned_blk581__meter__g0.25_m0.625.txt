@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 581 | label: meter | g:0.25 m:0.625 ---
+
+antarhite dharmarāje prahlādo api mahāmune ।
+dārayāmāsa balavān devasainyaṃ samantataḥ ।।

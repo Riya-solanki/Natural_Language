@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2310 | label: meter | g:0.194 m:0.75 ---
+
+kvacij jānubhir uddhṛṣṭaiḥ sarpamāṇau virejatuḥ 
+krīḍantau vatsaśālāsu śakṛddigdhāṅgamūrdhajau ।।

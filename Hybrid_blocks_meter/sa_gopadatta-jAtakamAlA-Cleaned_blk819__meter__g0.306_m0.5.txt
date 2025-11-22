@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 819 | label: meter | g:0.306 m:0.5 ---
+
+pratibhāti jagac chūnyaṃ tvayā virahitaṃ mama ।
+tvaṃ me jīvitasarvasvaṃ tvaṃ bandhus tvaṃ parāyaṇam ।।

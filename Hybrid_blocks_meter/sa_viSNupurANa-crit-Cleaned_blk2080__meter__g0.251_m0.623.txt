@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2080 | label: meter | g:0.251 m:0.623 ---
+
+indro viśvāvasuḥ srota elāpatras tathāṅgirāḥ 
+pramlocā ca nabhasy ete sarpaś cārke vasanti vai ।।

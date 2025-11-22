@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2144 | label: meter | g:0.25 m:0.5 ---
+
+ādityān niḥsṛto rāhuḥ somaṃ gacchati parvasu 
+ādityam eti somāc ca punaḥ saureṣu parvasu ।।

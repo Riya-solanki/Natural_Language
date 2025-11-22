@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 148 | label: meter | g:0.272 m:0.97 ---
+
+caturasraṃ caturdvāraṃ catustoraṇamaṇḍitam ।
+catuḥsūtrasamāyuktamaṣṭastambhopaśobhitam ।।

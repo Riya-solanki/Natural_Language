@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1988 | label: meter | g:0.25 m:0.625 ---
+
+mahā prabhāvaṃ vibudhairyasyamādvajramudāhṛtam ।
+vajrapūrvā parīkṣeyaṃ tato asmābhiḥ prakīrtyate ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 404 | label: meter | g:0.264 m:0.812 ---
+
+prahlāda uvāca ।
+uttiṣṭhadhvaṃ gamiṣyāmaḥ snātuṃ tīrthaṃ hi naimiṣam ।
+drakṣyāmaḥ puṇḍarīkākṣaṃ pītavāsasamacyutam ।।

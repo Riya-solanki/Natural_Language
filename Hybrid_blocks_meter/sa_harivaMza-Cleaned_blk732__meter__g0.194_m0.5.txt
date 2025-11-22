@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 732 | label: meter | g:0.194 m:0.5 ---
+
+pitṝn abhyarcya dharmeṇa prokṣayitvā ca gāṃ tadā 
+smṛtiḥ pratyavamarśaś ca teṣāṃ jātyantare abhavat ।।

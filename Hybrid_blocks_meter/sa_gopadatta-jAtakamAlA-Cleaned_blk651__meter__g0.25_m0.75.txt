@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 651 | label: meter | g:0.25 m:0.75 ---
+
+svahite apy abhiyuktānāṃ karuṇāvikalātmanāṃ ।
+khedaḥ kaḥ puṇyakāmānāṃ bhavādhvaparivartināṃ ।।

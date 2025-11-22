@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 505 | label: grammar | g:0.667 m:0.5 ---
+
+[] pralamba uvāca-bhavatu, mām api yāmam ekaṃ vyāpāraya । kaṃsas tu tuṣṇīm-bhūya dūyamāna-vadanaḥ kṣaṇam āsīt ।

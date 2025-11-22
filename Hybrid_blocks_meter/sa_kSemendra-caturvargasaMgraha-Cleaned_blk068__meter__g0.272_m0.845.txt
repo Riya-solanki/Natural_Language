@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 68 | label: meter | g:0.272 m:0.845 ---
+
+stanasthalī hāriṇi sundarīṇāṃ nitambabimbe raśanāsanāthe ।
+dhatte viśeṣābharaṇābhimānalīlānavollekhalipiprapañcam ।।

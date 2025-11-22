@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 792 | label: grammar | g:0.708 m:0.5 ---
+
+ātmā vastu svabhāvaś ca śarīraṃ tattvam ity api dravyam ity asya paryāyās tac ca nityam iti smṛtam ।।

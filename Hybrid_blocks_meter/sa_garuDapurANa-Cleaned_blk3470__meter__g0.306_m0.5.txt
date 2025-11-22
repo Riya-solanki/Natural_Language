@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3470 | label: meter | g:0.306 m:0.5 ---
+
+sā strīyā na madaṃ kuryātsa sukhī tṛṣṇayojjhitaḥ ।
+tanmitraṃ yatra viśvāsaḥ puruṣaḥ sa jitendriyaḥ ।।

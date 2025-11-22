@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 585 | label: meter | g:0.25 m:0.625 ---
+
+yūyaṃ śarīrakartāras teṣāṃ devā bhaviṣyatha 
+te tu jñānapradātāraḥ pitaro vo na saṃśayaḥ ।।

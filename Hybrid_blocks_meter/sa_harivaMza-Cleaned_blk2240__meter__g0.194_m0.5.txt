@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2240 | label: meter | g:0.194 m:0.5 ---
+
+sā vai niśi tamograste babhau bhūtagaṇākule 
+nṛtyatī hasatī caiva viparītena bhāsvatī ।।

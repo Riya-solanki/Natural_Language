@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8643 | label: meter | g:0.25 m:0.5 ---
+
+strīṇāṃ garbhavināśaḥ syānna puṣpaṃ dṛśyate tathā ।
+bālānāṃ maraṇaṃ yatra sā pīḍā pretasambhavā ।।

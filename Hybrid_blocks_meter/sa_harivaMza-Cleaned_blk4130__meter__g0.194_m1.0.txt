@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4130 | label: meter | g:0.194 m:1.0 ---
+
+padmaṣaṇḍākulābhiś ca haṃsasevitavāribhiḥ 
+gaṅgāsindhuprakāśābhiḥ parikhābhir vṛtāṃ purīm ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1244 | label: meter | g:0.306 m:0.5 ---
+
+pṛṣṭhasthitāyāṃ mahiṣāsuro api poplūyate vīryamadānmṛḍānyām ।
+sā cāpi padbhyāṃ mṛdukomalābhyāṃ mamarda taṃ klinnamivājinaṃ hi ।।

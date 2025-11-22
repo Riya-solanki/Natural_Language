@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1629 | label: grammar | g:0.625 m:0.5 ---
+
+devo yady api te guruḥ sa bhagavān ardhenducūḍāmaṇiḥ kṣoṇīmaṇḍalam ekaviṃśatim idaṃ vārāñ jitaṃ yady api ।
+draṣṭavyo asy amum eva bhārgavabaṭaḥ kaṇṭhe kuṭhāraṃ vahan paulastyasya puraḥ praṇāmaracitapratyagrasevāñjaliḥ ।।

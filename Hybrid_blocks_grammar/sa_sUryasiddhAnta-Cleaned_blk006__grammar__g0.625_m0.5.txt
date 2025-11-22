@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 6 | label: grammar | g:0.625 m:0.5 ---
+
+viditas te mayā bhāvas toṣitas tapasā hy aham। dadyāṃ kālāśrayaṃ jñānaṃ grahāṇāṃ caritaṃ mahat।।

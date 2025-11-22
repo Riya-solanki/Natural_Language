@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 46 | label: grammar | g:0.573 m:0.5 ---
+
+aṅguṣṭhakena bhavatā vinipīḍitasya yasyāsavo na vigatāḥ sahasā kathaṃcit ।
+yatnāt sa eva vijito hariṇā cireṇa nītyā daśānana iti kva nu vismayo ayam ।।

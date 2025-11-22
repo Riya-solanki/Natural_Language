@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 71 | label: grammar | g:0.567 m:0.436 ---
+
+nanu iyamanādiratinirūḍhanibiḍavāsanānubaddhā avidyā na śakyā niroddhum, upāyābhāvāt, iti yo manyante taṃ prati tannirodhopāyamāha - tadvivekena ca vastusvarūpāvadhāraṇam, nirvicikitsaṃ jñānam, vidyāmāhuḥ paṇḍitāḥ ।
+pratyagātmani khalu atyantavivikte buddhyādibhyaḥ buddhyādibhedāgrahanimitto buddhyādyātmatvataddharmādhyāsaḥ ।
+tatra śravaṇamananādibhiryadvivekavijñānaṃ tena vivekāgrahe nivartite, adhyāsāpabādhātmakaṃ vastusvarūpāvadhāraṇaṃ vidyā cidātmarūpaṃ svarūpe vyavatiṣṭhata ityarthaḥ ।

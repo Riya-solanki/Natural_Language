@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 208 | label: meter | g:0.065 m:0.738 ---
+
+{kṣudrā saṃtrāsamete vijahita harayaḥ kṣuṇṇaśakrebhakumbhā
+yuṣmaddeheṣu lajjāṃ dadhati paramamī sāyakā niṣpatantaḥ ।
+saumitre tiṣṭha pātraṃ tvamasi na hi ruṣāṃ nanvahaṃ meghanādaḥ
+kiñcidbhrūbhaṅgalīlāniyamitajaladhiṃ rāmamanveṣayāmi ।।}

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3364 | label: meter | g:0.306 m:0.5 ---
+
+tato gadādharaḥ prīto vāsavaṃ prāha nārada ।
+gaccha prīto asmi bhavato muktapāpo asi sāmpratam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11250 | label: meter | g:0.306 m:0.5 ---
+
+dhanārjane ye tvatitṛṣṇābhiyuktāsteṣāṃ na vai bhāgavatedhikāraḥ ।
+matvā loke harirevati nityamantaryāmī nāsti tadanya īśaḥ ।।

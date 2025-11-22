@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 851 | label: meter | g:0.194 m:0.5 ---
+
+atha tau cakratuḥ stotraṃ pṛthor vainyasya dhīmataḥ 
+bhaviṣyaiḥ karmabhiḥ samyak susvarau sūtamāgadhau ।।

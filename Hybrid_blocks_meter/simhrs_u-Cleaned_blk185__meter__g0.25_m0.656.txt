@@ -1,0 +1,12 @@
+--- source: simhrs_u-Cleaned.txt | block: 185 | label: meter | g:0.25 m:0.656 ---
+
+atha dvitīya-yauvanam-
+stanau pīnau tanur madhyaḥ pāṇipādasya raktimā । 
+ūrū karikarākārāv aṅgaṃ vyaktāṅga-sandhikam ।
+nitambo vipulo nābhir gabhīrā jaghanaṃ ghanam ।। 
+vyaktā romāvalī snaigdhyam aṅga-keśaradākṣiṣu ।
+dvitīya-yauvane tena kalitā vāma-locanā ।। 
+sakhīṣu svāśayajñāsu snigdhā prāyeṇa māninī ।
+na prasīdaty anunaye sapatnīṣv abhyasūyinī ।। 
+nāparādhān viṣahate praṇayerṣyākaṣāyitā ।
+rati-keliṣv anibhṛtā ceṣṭate garvitā rahaḥ ।।

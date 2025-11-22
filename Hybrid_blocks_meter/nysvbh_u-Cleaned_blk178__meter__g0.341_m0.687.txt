@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 178 | label: meter | g:0.341 m:0.687 ---
+
+udāharaṇena sāmānyātsādhyasya dharmasya sādhanaṃ prajñāpanaṃ hetuḥ।
+sādhye pratisandhāya dharmamudāharaṇe ca pratisandhāya tasya sādhanatāvacanaṃ hetuḥ।
+utpattidharmakatvāditi।
+utpattidharmakamanityaṃ dṛṣṭamiti ।।

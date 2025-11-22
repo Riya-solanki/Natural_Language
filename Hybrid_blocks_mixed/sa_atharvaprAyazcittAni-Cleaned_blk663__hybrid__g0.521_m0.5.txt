@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 663 | label: hybrid | g:0.521 m:0.5 ---
+
+agnaye jyotiṣmate aṣṭākapālaṃ puroḍāśaṃ nirvaped yasyāgnayo divyenāgninā saṃsṛjyeran ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4231 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ sarvadaśārhāṇām āhukasya ca yāḥ striyaḥ 
+prīyamāṇāḥ sabhāṃ jagmur vāsudevadidṛkṣayā ।।

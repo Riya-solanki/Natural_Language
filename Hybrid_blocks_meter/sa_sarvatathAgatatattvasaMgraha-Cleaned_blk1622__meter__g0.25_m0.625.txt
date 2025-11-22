@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1622 | label: meter | g:0.25 m:0.625 ---
+
+māyāvajrasusiddhistu samāveśā tu ghaṇṭikā ।
+daṇḍakāṣṭhā tu nairvāṇī vajravajrā tu māraṇī ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4182 | label: meter | g:0.306 m:0.5 ---
+
+anyatra sannipātotthaṃ yatra pittaṃ pṛthaksthitam ।
+tvaci koṣṭhe ca vā dāhaṃ vidadhāti puro anu vā ।।

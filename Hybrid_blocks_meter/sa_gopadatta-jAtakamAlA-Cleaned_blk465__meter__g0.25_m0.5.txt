@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 465 | label: meter | g:0.25 m:0.5 ---
+
+praviṣṭamātrasya tato dvitīyam āsphālitaṃ dvāram ivoparuddham ।
+paryantakālānilavegaviddhaṃ dvāraṃ surāṇām iva vajrakalpam ।।

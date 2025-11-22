@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 692 | label: meter | g:0.194 m:0.521 ---
+
+lakṣmeva kṣaṇadākarasya vitataṃ gātre na kṛṣṇājinaṃ
+dīkṣāyantraṇayā nisargalalitā ceṣṭā na mandodyamaḥ ।
+mūrdhnaśchatranibhasya keśaracanā śobhā tathaivātha ca
+tyāgaiste śatayajvano apyapahṛtaḥ kīrtyāśrayo vismayaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 529 | label: meter | g:0.25 m:0.5 ---
+
+tato devo mahātmāsau śārabhaṃ rūpamāsthitaḥ ।
+yuddhaṃ ca kārayāmāsa divyaṃ varṣasahasrakam ।
+yudhyamānau tu tau devau patitau saramadhyataḥ ।।

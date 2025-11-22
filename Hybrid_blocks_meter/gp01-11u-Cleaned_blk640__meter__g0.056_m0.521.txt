@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 640 | label: meter | g:0.056 m:0.521 ---
+
+mitho lagnā dṛṣṭiḥ samajani ciraṃ mūrtir acalā
+dravac-cittaṃ netrodaka-miṣatayāgād abhimukham ।
+iti bhrātror bālye' py asita-sitayoḥ sā prasitatā
+nave vyatyāloke kutukam iha kiṃ vā na tanute? ।। [śikhariṇī]

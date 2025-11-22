@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 236 | label: meter | g:0.306 m:0.5 ---
+
+atha pradāne pravijṛmbhitakramaḥ sukheṣu vā naiti janasya vācyatām ।
+ajātapakṣaḥ khamivārurukṣayā vighātabhākkevalayā tu ditsayā ।।

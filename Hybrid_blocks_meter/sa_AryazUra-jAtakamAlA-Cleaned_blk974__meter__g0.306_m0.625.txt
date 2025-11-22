@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 974 | label: meter | g:0.306 m:0.625 ---
+
+yukto vānṛtabhīrūṇāṃ tvadvidhānāmayaṃ vidhiḥ ।
+na hi kṛcchre api saṃtyaktuṃ satyamicchanti sādhavaḥ ।।

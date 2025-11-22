@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 656 | label: meter | g:0.194 m:0.625 ---
+
+yasyāntaḥ sarvam evedam acyutasyāvyayātmanaḥ 
+tam ārādhaya govindaṃ sthānam agryaṃ yadīcchasi ।।

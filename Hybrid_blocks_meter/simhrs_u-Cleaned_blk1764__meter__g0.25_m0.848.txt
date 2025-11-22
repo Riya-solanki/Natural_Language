@@ -1,0 +1,11 @@
+--- source: simhrs_u-Cleaned.txt | block: 1764 | label: meter | g:0.25 m:0.848 ---
+
+deśas tu devatārāja-tīrtha-sthānādir ucyate । 
+tad adya kāla-nāthasya yātretyādiṣu lakṣyatām ।।
+cetanās tu kathā-nātha-kavi-sabhya-naṭāḥ smṛtāḥ । 
+kathā-nāthās tu dharmārtha-rasa-mokṣopayoginaḥ ।।
+dharmopayoginas tatra yudhiṣṭhira-nalādayaḥ । 
+arthopayogino rudra-narasiṃha-nṛpādayaḥ ।।
+rasopayogino vidyādhara-vatseśvarādayaḥ । 
+mokṣopayogino rāma-vāsudevādayo matāḥ ।।
+eke tv abhedam icchanti dharma-mokṣopayoginoḥ ।।

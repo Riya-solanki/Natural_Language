@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9726 | label: meter | g:0.306 m:0.5 ---
+
+varamekāpyapahṛtā na tu dattaṃ gavāṃ śatam ।
+ekāṃ hṛtvā śataṃ dattvā na tena samatā bhavet ।।

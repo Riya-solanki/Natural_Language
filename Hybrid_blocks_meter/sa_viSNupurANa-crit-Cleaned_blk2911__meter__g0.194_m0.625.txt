@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2911 | label: meter | g:0.194 m:0.625 ---
+
+sūryeṇābhyudito yaś ca tyaktaḥ sūryeṇa ca svapan 
+anyatrāturabhāvāt tu prāyaścittīyate naraḥ ।।

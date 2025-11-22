@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 129 | label: meter | g:0.0 m:0.953 ---
+
+caturtho adhyāyaḥ
+prakaraṇa [dūtī-karma-prakaraṇam]

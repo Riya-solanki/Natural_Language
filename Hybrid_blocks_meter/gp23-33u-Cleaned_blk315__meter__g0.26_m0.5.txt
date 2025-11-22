@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 315 | label: meter | g:0.26 m:0.5 ---
+
+vaidagdhī-digdha-buddhīddhaḥ so' yaṃ rādhe sakhā tava ।
+alambhūṣṇuṃ tatra mene yas tvāṃ tuṣṇīṃ sthitām api ।। [anuṣṭubh]

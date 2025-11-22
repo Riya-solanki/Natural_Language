@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 330 | label: meter | g:0.193 m:0.54 ---
+
+vākyārthopamāyāḥ prativastuno bhedaṃ darśayitumāha 
+upameyasyoktau samānavastunyāsaḥ prativastu ।।
+upameyasyārthaādvākyārthasyoktau satyāmiti । atra dvau vākyārthau । eko vākyārthopamāyāmiti bhedaḥ । tadyathā

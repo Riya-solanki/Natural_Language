@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3452 | label: meter | g:0.306 m:0.625 ---
+
+svādhīnavṛtteḥ sāphalyaṃ na parādhīnavartitā ।
+ye parādhīnakarmāṇo jīvanto api ca te mṛtāḥ ।।

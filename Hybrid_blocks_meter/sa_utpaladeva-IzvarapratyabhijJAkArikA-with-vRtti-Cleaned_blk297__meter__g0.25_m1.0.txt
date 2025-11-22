@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 297 | label: meter | g:0.25 m:1.0 ---
+
+iti kriyādhikāraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3804 | label: meter | g:0.316 m:0.5 ---
+
+namonamaste acyuta ! saṃkṣayo astu pāpasya vṛddhiṃ samupaitu puṇyam ।
+aiśvaryavittādi sadākṣayaṃ me tathāstu me santatirakṣayaiva ।।

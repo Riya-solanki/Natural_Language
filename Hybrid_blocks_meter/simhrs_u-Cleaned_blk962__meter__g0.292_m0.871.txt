@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 962 | label: meter | g:0.292 m:0.871 ---
+
+tatra abhilāṣaḥ-
+saṅgamopāya-racita-prārabdha-vyavasāyataḥ ।
+saṅkalpecchā-samudbhūtir abhilāṣo' tra vikriyāḥ ।। 
+praveśa-nirgamau tūṣṇīṃ tad-dṛṣṭi-patha-gāminau ।
+rāga-prakāśana-parāś ceṣṭāḥ svātma-prasādhanam । 
+vyājoktayaś ca vijane sthitir ity evam ādayaḥ ।।

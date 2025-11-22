@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 908 | label: meter | g:0.142 m:0.672 ---
+
+uttamasyāpi hetuja-bhayānaṅgīkāre-
+vidrāṇe dravya-nāthe savitari tarale jāta-śaṅke śaśāṅke
+vaikuṇṭhe kuṇṭha-garve dravati maghavati klānta-kāntau kṛtānte ।
+abrahmṇyaṃ bruvāṇe viyati śata-dhṛtāv uddhṛtaikāgra-haste
+pāyād vaḥ kāla-kūṭaṃ jhaṭiti kavalayan līlayā nīla-kaṇṭhaḥ ।।

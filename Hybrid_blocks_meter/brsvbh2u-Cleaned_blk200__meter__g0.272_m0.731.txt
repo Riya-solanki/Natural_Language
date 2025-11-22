@@ -1,0 +1,10 @@
+--- source: brsvbh2u-Cleaned.txt | block: 200 | label: meter | g:0.272 m:0.731 ---
+
+na bhāvo anupalabdheḥ ।
+yathālokadarśanaṃ cānvayavyatirekāvanuśriyamāṇāvartha evopalabdherbhavato nārthānapekṣāyāṃ vāsanāyām ।
+vāsanāya apyarthopalabdhyadhīnatvadarśanādityarthaḥ ।
+api cāśrayābhāvādapi na laukikī vāsanopapadyate ।
+na ca kṣaṇikamālayavijñānaṃ vāsanādhāro bhavitumarhati ।
+dvayoryugapadutpadyamānayoḥ savyadakṣiṇaśṛṅgavadādhārādheyabhāvābhāvāt ।
+prāgutpannasya cādheyotpādasamaye asataḥ kṣaṇikatvavyāghāta ityāśayavānāhaapi ca vāsanā nāmeti ।
+śeṣamatirohitārtham ।।

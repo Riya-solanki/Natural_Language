@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 904 | label: meter | g:0.102 m:0.555 ---
+
+tasya śakro dadau prīto rathaṃ paramabhāsvaram 
+asaṅgaṃ kāñcanaṃ divyaṃ divyaiḥ paramavājibhiḥ 
+yuktaṃ manojavaiḥ śubhrair yena bhāryāṃ samudvahat ।।

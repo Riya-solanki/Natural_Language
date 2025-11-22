@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1062 | label: meter | g:0.25 m:0.625 ---
+
+atīva tṛṣayā yuktaḥ sarasvatyāṃ mamañja ha ।
+tatra saṃplutadehastu vimuktaḥ sarvākilbiṣaiḥ ।।

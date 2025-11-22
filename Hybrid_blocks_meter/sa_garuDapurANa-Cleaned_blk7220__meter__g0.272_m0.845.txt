@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7220 | label: meter | g:0.272 m:0.845 ---
+
+surāsurārcitā yatra gaṇā viṣṇoḥ supeśasaḥ ।
+piśaṅgavastrābhāraṇā maṇiyuṅniṣkabhūṣitāḥ ।।

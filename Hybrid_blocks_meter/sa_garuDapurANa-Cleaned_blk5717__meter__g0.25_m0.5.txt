@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5717 | label: meter | g:0.25 m:0.5 ---
+
+puṣye lajjālukāmūle hastabaddhe tu pannagān ।
+gṛhṇīyāllepato vāpi nātra kāryā vicāraṇā ।।

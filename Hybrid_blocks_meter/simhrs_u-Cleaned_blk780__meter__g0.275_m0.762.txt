@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 780 | label: meter | g:0.275 m:0.762 ---
+
+sparśena, yathā-
+yad ayaṃ ratha-saṅkṣobhād aṃsenāṃso rathāṅga-suśroṇyāḥ ।
+spṛṣṭaḥ saroma-vikriyam aṅkuritaṃ manobhaveneva ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1143 | label: meter | g:0.056 m:0.75 ---
+
+yarhy ambujākṣa tava pāda-talaṃ ramāyā
+datta-kṣaṇaṃ kvacid araṇya-jana-priyasya ।
+asprākṣma tat-prabhṛti nānya-samakṣam añjaḥ
+sthātuṃ tvayābhiramitā bata pārayāmaḥ ।।[]

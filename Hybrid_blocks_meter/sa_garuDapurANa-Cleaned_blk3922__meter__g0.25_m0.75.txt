@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3922 | label: meter | g:0.25 m:0.75 ---
+
+hṛdikaśca svayambhojātkṛtavarmā tadātmajaḥ ।
+devaḥ śatadhanuścaiva śūrādvai devamīḍhuṣaḥ ।।

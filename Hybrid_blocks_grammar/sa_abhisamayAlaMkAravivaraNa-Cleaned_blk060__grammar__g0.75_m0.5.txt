@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 60 | label: grammar | g:0.75 m:0.5 ---
+
+samprayuktacaitasikadṛṣṭyā cittotpādasya dvāviṃśatiḥ prabhedā bhavanti, yathā pṛthivīsamaḥ, suvarṇasamaḥ, candrasamaḥ, jvalanasamaḥ, mahānidhisamaḥ, ratnākarasamaḥ, mahārṇavasamaḥ, vajrasamaḥ, parvatasamaḥ, auṣadhisamaḥ, kalyāṇamitrasamaḥ, cintāmaṇisamaḥ, ādityasamaḥ, madhuragītisamaḥ, nṛpasamaḥ, koṣṭhāgārasamaḥ, mahāmārgasama, yānasamaḥ, prasravaṇodakasamaḥ, ānandoktisamaḥ, nadīsamaḥ, meghasamaśceti ।

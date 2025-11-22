@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1441 | label: hybrid | g:0.542 m:0.5 ---
+
+athāsti pāpaṃ mama vānaraṃ ghnataḥ kṛtaṃ mayā tarhi na pūrvakarmaṇā ।
+yadiṣyate karma ca karmahetukaṃ na kaścidevaṃ sati mokṣameṣyati ।।

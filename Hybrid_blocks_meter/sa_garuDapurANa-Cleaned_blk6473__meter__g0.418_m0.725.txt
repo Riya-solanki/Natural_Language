@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6473 | label: meter | g:0.418 m:0.725 ---
+
+śvetapadmasanāsīnā śvetapuṣpopaśobhitā ।
+oṃ āpo hiṣṭhā mayo bhuvastā na urje dadhāta naḥ ।।

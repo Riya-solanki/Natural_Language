@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2945 | label: meter | g:0.25 m:0.75 ---
+
+cāndrāyaṇī svapedbhūmau karma kuryātphalādinā ।
+grīṣme pañcāgnimadhyastho varṣāsu sthaṇḍileśayaḥ ।।

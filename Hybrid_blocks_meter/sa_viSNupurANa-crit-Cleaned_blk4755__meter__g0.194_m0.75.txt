@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4755 | label: meter | g:0.194 m:0.75 ---
+
+vṛtaṃ vāsukirambhādyair mahadbhiḥ pavanāśibhiḥ 
+saṃstūyamānaṃ gandharvair vanamālāvibhūṣitam ।।

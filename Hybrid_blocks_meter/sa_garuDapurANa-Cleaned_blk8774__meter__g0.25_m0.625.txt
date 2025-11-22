@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8774 | label: meter | g:0.25 m:0.625 ---
+
+pratiṣṭhā vāyudeheṣu śayānāṃstu svavaṃśajān ।
+tatra yacchanti liṅgāni darśayanti khageśvara ।।

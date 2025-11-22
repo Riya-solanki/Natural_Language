@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 64 | label: meter | g:0.194 m:0.5 ---
+
+teṣu teṣu ca pātreṣu duhyamānā vasuṃdharā 
+prādād yathepsitaṃ kṣīraṃ tena prāṇān adhāryan ।।

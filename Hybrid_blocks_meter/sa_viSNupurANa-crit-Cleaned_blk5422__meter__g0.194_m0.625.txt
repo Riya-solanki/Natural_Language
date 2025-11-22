@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5422 | label: meter | g:0.194 m:0.625 ---
+
+apāsya sā tu gandharvāṃs tathoragasurāsurān 
+manuṣyeṣu dadau dṛṣṭiṃ teṣv apy andhakavṛṣṇiṣu ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4360 | label: grammar | g:0.75 m:0.0 ---
+
+dadau taṃ vāsudevasya putraṃ putram ivātmajam 
+tasyā mahiṣyā nāthinyā dānavaḥ kālacoditaḥ ।। 
+māyāvatī tu taṃ dṛṣṭvā saṃprahṛṣṭatanūruhā । harṣeṇa mahatā yuktā punaḥ punar udaikṣata ।। atha tasyā nirīkṣantyāḥ smṛtiḥ prādurbabhūva ha । ayaṃ sa mama kānto abhūt smṛtvaivaṃ cānvacintayat ।। ayaṃ sa nātho bhartā me yasyārthaṃ hi divāniśam । cintāśokahrade magnā na vindāmi ratiṃ kvacit ।। ayaṃ bhagavatā pūrvaṃ devadevena śūlinā । kheditena kṛto anaṅgo dṛṣṭo jātyantare mayā ।। katham asya stanaṃ dāsye mātṛbhāvena jānatī । bhartur bhāryā tv ahaṃ bhūtvā vakṣye vā putra ity uta ।। evaṃ saṃcintya manasā dhātryās taṃ sā samarpayat । rasāyanaprayogaiś ca śīghram evānvavardhayat ।। dhātryāḥ sakāśāt sa ca tāṃ śṛṇvan rukmiṇinandanaḥ । māyāvatīm avijñānān mene svām eva mātaram । 
+sā taṃ saṃvardhayām āsa kārṣṇiṃ kamalalocanam 
+māyāś cāsmai dadau sarvā dānavīḥ kāmamohitā ।।

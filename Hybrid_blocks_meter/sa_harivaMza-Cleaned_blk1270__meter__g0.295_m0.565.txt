@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1270 | label: meter | g:0.295 m:0.565 ---
+
+candrasūryadvayaṃ jyotir yogīśaḥ kṣaṇadātanuḥ 
+yaḥ paraṃ śrūyate jyotir yaḥ paraṃ śrūyate tapaḥ ।।

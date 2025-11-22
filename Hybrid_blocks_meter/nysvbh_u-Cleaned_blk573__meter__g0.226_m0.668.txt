@@ -1,0 +1,11 @@
+--- source: nysvbh_u-Cleaned.txt | block: 573 | label: meter | g:0.226 m:0.668 ---
+
+sthānyādeśabhāvādaprayoge
+prayogo vikāraśabdārthaḥ sa bhidyate guṇānatarāpattiḥ udāttasyānudatta ityevamādiḥ, upamarde
+nāma ekarūpanivṛttau rūpāntaropajanaḥ, hrāsaḥ ।
+dīrghasya hrāsvaḥ, vṛddhiḥ ।
+hrasvasya dīrghaḥ tayorvāplutaḥ, leśaḥ ।
+lāghavam astaḥ' ityastervikāraḥ, śleṣaḥ ।
+āgamaḥ prakṛteḥ pratyayasya vā, ete eva viśeṣāḥ
+vikārā iti ete evādeśāḥ ete cedvikārā
+upapadyante tarhi varṇavikārā iti ।।

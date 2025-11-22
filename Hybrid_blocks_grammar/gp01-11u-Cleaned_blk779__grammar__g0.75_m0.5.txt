@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 779 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca bhayena sa eṣa mṛc-cihnitam apy ahnāya vadanaṃ vyādadau । [] tatas tad-bhayam avadadhānā samādadhānā ca rasāntareṇa mātuḥ kopa-śāntaye tad-antar-yogam āyātā sā yogamāyā punar viśvaṃ darśitavatī ।

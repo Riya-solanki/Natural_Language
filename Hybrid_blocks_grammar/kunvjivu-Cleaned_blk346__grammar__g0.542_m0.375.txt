@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 346 | label: grammar | g:0.542 m:0.375 ---
+
+tadevaṃ kīdṛśī tarhi kartavyetyāhapūrvāvṛttaparityāganūtanāvartanojjvalā pūrvamāvṛttānāṃ punaḥ punarviracitānāṃ parityāgena prahāṇena nūtanānāmabhinavānāṃ varṇānāmāvartanena punaḥ punaḥ parigraheṇa ca tadevamubhābhyāṃ prakārābhyāmujjvalā bhrājiṣṇuḥ ।
+yathā

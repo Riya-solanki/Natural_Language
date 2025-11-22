@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 298 | label: meter | g:0.25 m:0.5 ---
+
+na śakyaṃ vistaraṃ tāta vaktuṃ varṣaśatair api 
+manvantarāṇāṃ kauravya saṃkṣepaṃ tv eva me śṛṇu ।।

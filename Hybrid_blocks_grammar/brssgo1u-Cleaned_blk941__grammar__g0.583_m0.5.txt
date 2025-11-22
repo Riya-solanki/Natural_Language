@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 941 | label: grammar | g:0.583 m:0.5 ---
+
+FN kartāraṃ kriyāśaktimantam, īśaṃ niyantāram, puruṣaṃ pratyañcam, brahma pūrṇam, yoniṃ prakṛtim ।
+he indra, te tava niṣade upaveśanāya yoniḥ sthānaṃ mayā akāri kṛtam ।

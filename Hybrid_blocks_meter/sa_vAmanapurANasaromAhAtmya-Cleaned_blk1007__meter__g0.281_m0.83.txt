@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1007 | label: meter | g:0.281 m:0.83 ---
+
+sanatkumāra uvāca।
+śṛṇu sarvamaśeṣeṇa sthāṇumāhātmyamuttamam ।
+yacchrutvā sarvapāpebhyo mukto bhavati mānavaḥ ।।

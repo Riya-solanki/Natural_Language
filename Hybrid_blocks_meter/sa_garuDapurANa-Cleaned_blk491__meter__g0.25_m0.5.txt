@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 491 | label: meter | g:0.25 m:0.5 ---
+
+prabodhena vihīnaśca buddhyā caiva vi varjitaḥ ।
+cetasā vigataścaiva prāṇena ca vivarjitaḥ ।।

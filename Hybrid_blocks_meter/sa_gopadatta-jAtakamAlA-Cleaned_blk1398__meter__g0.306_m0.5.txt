@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1398 | label: meter | g:0.306 m:0.5 ---
+
+cakṣāra vraṇamukhakandarebhyo yat tasya kṣatajam iva kṣatāśayasya ।
+tenohur ghanapariṇāhaphenapuñjā viṣṭabdhā vipulasitavīcayaḥ sravantyaḥ ।।

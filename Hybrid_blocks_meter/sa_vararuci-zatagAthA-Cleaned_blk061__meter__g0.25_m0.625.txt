@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 61 | label: meter | g:0.25 m:0.625 ---
+
+sadyo māsaṃ navaṃ sarpirbālāstrī payasaudanam ।
+uṣṇodakaṃ tarucchāyā ṣaḍete prāṇakāriṇaḥ ।।

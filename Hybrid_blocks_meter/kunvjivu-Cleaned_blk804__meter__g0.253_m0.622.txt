@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 804 | label: meter | g:0.253 m:0.622 ---
+
+taṇṇatthi kiṃpi paiṇo pakappiaṃ jaṃ ṇa ṇiai gharaṇīe ।
+aṇavaraagaaṇasīlassa kālapahiassa pāhijjaṃ ।।
+tannāsti kimapi patyuḥ prikalpitaṃ yanna niyatigehinyā ।
+anavaratagamanaśīlasya kālapathikasya pātheyam ।।

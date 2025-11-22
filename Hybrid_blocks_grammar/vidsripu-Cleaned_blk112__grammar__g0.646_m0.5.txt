@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 112 | label: grammar | g:0.646 m:0.5 ---
+
+digvāsā yadi tat kim asya dhanuṣā sāstrasya kiṃ bhasmanā bhasmāṅgasya kim aṅganā yadi ca sā kāmaṃ paridveṣṭi kim ।
+ity anyonyaviruddhaceṣṭitam idaṃ paśyan nijasvāmino bhṛṅgī sāndraśirāvanaddhaparuṣaṃ dhatte asthiśeṣaṃ vapuḥ ।।

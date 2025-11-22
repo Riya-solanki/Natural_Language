@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 725 | label: meter | g:0.194 m:0.625 ---
+
+kṣiptvā tattailasampūrṇe pātre'gniṃ jvālayedadhaḥ 
+yuktyaivaṃ navadhā kāryaṃ hiṅgukhoṭe nave nave ।।

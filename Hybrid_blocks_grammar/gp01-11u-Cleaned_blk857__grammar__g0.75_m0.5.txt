@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 857 | label: grammar | g:0.75 m:0.5 ---
+
+[] bandhodyame ruṣitatā-ruṣitaḥ putraḥ phut-kurvann iva sāsram uccair uvāca-amba, rohiṇi, saha sahajena kva gatāsi? tvayā rahitaṃ mām iyaṃ badhnāti, tad drutam iha samehi ।

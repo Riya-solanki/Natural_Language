@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 73 | label: grammar | g:0.708 m:0.5 ---
+
+prakāśamātraṃ cārthād bhinnaṃ sarvārthasādhāraṇaṃ tasya ghaṭasya prakāśo ayam ayaṃ paṭasyaiveti viṣayaniyamo nirnibandhanaḥ । tasmād arthasya siddhiḥ prakāśātmatāyattā ।।

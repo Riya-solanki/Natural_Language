@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 851 | label: meter | g:0.25 m:0.515 ---
+
+oṃ padmāya namaḥ ।
+aṅganyāsaṃ ca kṛtvā tu mudrāḥ sarvāḥ pradaśayat ।
+ātmānaṃ vāsudevaṃ ca dhyātvā caiva pareśvaram ।।

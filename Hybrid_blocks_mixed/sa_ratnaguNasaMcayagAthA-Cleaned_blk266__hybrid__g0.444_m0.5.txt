@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 266 | label: hybrid | g:0.444 m:0.5 ---
+
+evaṃ carantu vidu nā pṛthudevasaṃghāḥ kṛtaañjalīpuṭa praṇamya namasyayanti 
+buddhā pi yāvata daśaddiśi lokadhātau guṇavarṇamālaparikīrtana kurvayanti ।।

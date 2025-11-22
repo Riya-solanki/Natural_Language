@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 522 | label: meter | g:0.25 m:0.951 ---
+
+vaiśeṣika iti ।
+asādhāraṇa ātmaśabdādirityarthaḥ ।
+atacchabdādityasyārthāntaramāha-tadviparītasyeti ।
+ata evātacchabdādeva ।।

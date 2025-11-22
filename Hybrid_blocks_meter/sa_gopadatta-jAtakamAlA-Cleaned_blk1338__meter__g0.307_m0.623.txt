@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1338 | label: meter | g:0.307 m:0.623 ---
+
+tasmin gate nijapuraṃ vinayaprapanne saṃprāpya rājyam arihīnam udārapuṇyaḥ ।
+dharmeṇa kīrtidhavalāmbudhiphenamālāvelādukūlalalitāṃ pṛthivīṃ śaśāsa ।।

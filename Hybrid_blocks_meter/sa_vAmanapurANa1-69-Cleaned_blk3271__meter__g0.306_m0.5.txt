@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3271 | label: meter | g:0.306 m:0.5 ---
+
+gṛhītaṃ pu vidhivanmayā bhūyo arpitaḥ tava ।
+evaṃ bhava gurūṇāṃ tvaṃ sadā suśrūṣaṇe rataḥ ।।

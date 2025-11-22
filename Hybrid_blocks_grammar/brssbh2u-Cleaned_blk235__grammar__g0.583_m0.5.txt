@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 235 | label: grammar | g:0.583 m:0.5 ---
+
+FN tvaḍyātrameva hi buddhīndriyamanekarūpādigrahaṇasamarthamekaṃ, sarmendriyāṇi pañca, saptamaṃ ca mana iti saptendriyāṇi ।

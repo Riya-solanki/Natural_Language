@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 389 | label: hybrid | g:0.521 m:0.5 ---
+
+grahanakṣatratārānāṃ bhūmer viśvasya vā vibhuh। devāsuramanuṣyāṇāṃ siddhānāṃ ca yathākramam।।

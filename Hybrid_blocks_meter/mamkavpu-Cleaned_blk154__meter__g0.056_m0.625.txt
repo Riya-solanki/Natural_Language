@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 154 | label: meter | g:0.056 m:0.625 ---
+
+{dvāropāntanirantare mayi tayā saundaryasāraśriyā
+prollāsyoruyugaṃ parasparasamāsaktaṃ samāsāditam ।
+ānītaṃ purataḥ śiroṃśukamadhaḥ kṣipte cale locane
+vācastatra nivāritaṃ prasaraṇaṃ saṃkocite dorlate ।।}

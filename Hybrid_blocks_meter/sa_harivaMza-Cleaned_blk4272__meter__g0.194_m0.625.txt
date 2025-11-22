@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4272 | label: meter | g:0.194 m:0.625 ---
+
+kaṃsas tu pitaraṃ badhvā śūrasenā? śaśāsa ha 
+jarāsaṃdhaṃ samāśritya tathaivāhvṛtibhīṣmakau ।।

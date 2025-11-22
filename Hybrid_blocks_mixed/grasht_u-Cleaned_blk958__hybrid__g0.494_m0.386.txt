@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 958 | label: hybrid | g:0.494 m:0.386 ---
+
+yogāntaramāha suratarutailam ityādi ।।
+devadārutailaṃ saghṛtaṃ sājyaṃ etadubhayaṃ pītvā sakṣīraṃ śālyodanaṃ bhuktvā ṣaṣṭikaudanam ityabhiprāyaḥ punarjīrṇāhāre pratidinaṃ dināntavīradvaye veditavyam ।।
+ca punaḥ sakuṣṭhān kuṣṭhaiḥ saha vartante evaṃvidhān pīnasādīn rogān harati dūrīkaroti ।।

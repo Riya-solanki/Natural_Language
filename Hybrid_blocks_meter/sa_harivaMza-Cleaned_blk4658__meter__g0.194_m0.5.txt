@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4658 | label: meter | g:0.194 m:0.5 ---
+
+uttiṣṭhottiṣṭha bhadraṃ te viṣādaṃ mā kṛthāḥ śubhe 
+naivaṃvidheṣu vāseṣu bhayam asti varānane ।।

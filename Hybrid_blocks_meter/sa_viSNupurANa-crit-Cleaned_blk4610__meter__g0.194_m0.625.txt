@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4610 | label: meter | g:0.194 m:0.625 ---
+
+siṃhanādaṃ tataś cakre talaśabdaṃ ca keśavaḥ 
+tacchabdaśravaṇāc cāsau dāmodaramukhaṃ yayau ।।

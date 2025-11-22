@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2087 | label: meter | g:0.194 m:0.5 ---
+
+ete daityā vinihatās tvayā viṣṇo nirākṛtāḥ 
+mānuṣaṃ vapur āsthāya bādhante bhuvi mānavān ।।

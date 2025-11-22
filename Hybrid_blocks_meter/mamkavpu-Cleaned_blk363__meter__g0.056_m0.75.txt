@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 363 | label: meter | g:0.056 m:0.75 ---
+
+{pathi pathi śukacañcūcārurābhāṅkurāṇāṃ
+diśi diśi pavamāno vīrudhāṃ lāsakaśca ।
+nari nari kirati drāk sāyakān puṣpadhanvā
+puri puri vinivṛttā māninīmānacarcā ।।}

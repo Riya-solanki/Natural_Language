@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 564 | label: meter | g:0.25 m:0.5 ---
+
+mātety apūrvam evaitad viśrambhāyatanaṃ bhuvi ।
+putra ity eva niṣyandaḥ snehasyāsya duratyayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 263 | label: meter | g:0.328 m:0.595 ---
+
+naranārāyaṇābhyāṃ ca jagadetaccarācaram ।
+tāpitaṃ tapasā brahman śakraḥ kṣobhaṃ tadā yayau ।।

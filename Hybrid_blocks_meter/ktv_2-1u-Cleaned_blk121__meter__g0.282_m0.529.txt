@@ -1,0 +1,10 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 121 | label: meter | g:0.282 m:0.529 ---
+
+bhāvanāśabdo hi niṣpannātmikāṃ sattvarūpāpannāṃ liṅgasaṃkhyāyoginīm abhidhatte ।
+na cāsāv ākhyāte tādṛśy abhidhīyate ।
+liṅgasaṃkhyārahitarūpeṇa gamyamānatvāt ।
+evaṃ dhātvartho api veditavyaḥ ।
+tathā karoti bhāvayati ity etābhyām api śrutyā tāvad anyādṛg evārthaḥ pratīyate kṛñbhāvayatyarthakaraṇikā bhāvanā ।
+na caivaṃrūpāsau yajeta ityādiṣv astīty aparyāyatvam ।
+tatrānantarapratyayotthāpitabhāvanāntarabuddhim avivakṣitvārthasaṃvādaḥ kartavyaḥ ।
+tenādūraviprakaraṣamātreṇaiṣa prayogaḥ, nārthasāmyenaity avasthitam ananyaśabdavācyatvaṃ bhāvanāyāḥ ।

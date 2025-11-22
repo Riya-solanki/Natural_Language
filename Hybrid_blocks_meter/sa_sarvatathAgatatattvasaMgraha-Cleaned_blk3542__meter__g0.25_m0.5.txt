@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3542 | label: meter | g:0.25 m:0.5 ---
+
+sarvadhāturajaḥsaṃkhyāḥ sa eva tu jino bhavet ।
+tebhyo vai vajrakāyebhyo vajrasatvastu saṃbhavet ।।

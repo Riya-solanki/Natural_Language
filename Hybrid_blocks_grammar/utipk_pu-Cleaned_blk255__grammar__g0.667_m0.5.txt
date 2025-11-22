@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 255 | label: grammar | g:0.667 m:0.5 ---
+
+pramātā cidrūpo anantaśaktir īśvaraḥ svecchāvaśāt tathā tān bhāvān ābhāsayet । saiva cecchāśaktir nirmātṛtākhyā kriyā tasya ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1483 | label: grammar | g:0.75 m:0.5 ---
+
+ity atra rugṇaṃ cājagavaṃ ity anena bhūta-pati-dhanur dalanena sītādhigama-rūpakām aprāpteḥ paulasytaś caramaḥ sthitaḥ ity anena śaraṇāgata-rakṣaṇena dharma-prāpteḥ prāptaṃ yānam idaṃ cety atra vimāna-ratna-lābhenārtha-prāpteś ca na cāpi kupito bhargaḥ sura-grāmiṇīr ity ādibhiḥ pādānta-vākyaiḥ rāmacandreṇa sva-kṛtārthatā-kathanād upasaṃhāraḥ ।

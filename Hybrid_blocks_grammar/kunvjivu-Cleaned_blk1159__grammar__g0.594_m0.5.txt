@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1159 | label: grammar | g:0.594 m:0.5 ---
+
+sarvatra jvaliteṣu veśmasu bhayādālījane vidrute trāsotkampavihastayā pratipadaṃ devyā patantyā tadā ।
+hā nātheti muhuḥ pralāpaparayā dagdhaṃ varākyā tathā śāntenāpi vayaṃ tu tena dahanenādyāpi dahyāmahe ।।

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1519 | label: meter | g:0.29 m:0.555 ---
+
+atha vadhaḥ-
+vadhas tu jīvita-droha-kriyā syād ātatāyinaḥ ।।

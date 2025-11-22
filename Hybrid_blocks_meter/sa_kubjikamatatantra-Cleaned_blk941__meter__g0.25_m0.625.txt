@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 941 | label: meter | g:0.25 m:0.625 ---
+
+sa cāsanaṃ paraṃ tasya sevyate kiṃ na mantrarāṭ 
+vidyārājeti vikhyāto mantrarājeti kathyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7436 | label: meter | g:0.302 m:0.806 ---
+
+varṇāśramaviruddhāni krodhaharṣasamanvitāḥ ।
+karmāṇi ye tu kurvanti sarve nirayavāsinaḥ ।।

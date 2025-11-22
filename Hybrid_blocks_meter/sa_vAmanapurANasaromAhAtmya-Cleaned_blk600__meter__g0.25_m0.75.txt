@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 600 | label: meter | g:0.25 m:0.75 ---
+
+evameṣā saricchreṣṭhā puṣkarasthā sarasvatī ।
+samānītā surukṣetre maṅkaṇena mahātmanā ।।

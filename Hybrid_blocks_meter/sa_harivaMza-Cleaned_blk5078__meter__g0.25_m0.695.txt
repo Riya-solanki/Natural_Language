@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5078 | label: meter | g:0.25 m:0.695 ---
+
+śilpavanto anṛtaparāḥ narā madyāmiṣapriyāḥ 
+paraṃ dharmaṃ haniṣyanti manuṣyā mandabuddhayaḥ । 
+bhāryāmitrā bhaviṣyanti yugānte janamejaya ।। 
+alpodakās tathā meghā alpasasyā ca medinī । 
+rājavṛtte sthitāś corā rākānaś coraśīlinaḥ 
+bhṛtyā anirviṣṭabhujo bhaviṣyanti yugakṣaye ।।

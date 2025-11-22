@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 511 | label: hybrid | g:0.387 m:0.517 ---
+
+vaikrāntakāntasasyakamākṣikavimalādayo vinā satvam ।
+śuddhā api no dvandve milanti na ca tān raso grasati ।।

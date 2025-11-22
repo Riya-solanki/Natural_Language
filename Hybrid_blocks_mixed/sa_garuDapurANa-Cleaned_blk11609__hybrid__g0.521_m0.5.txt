@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11609 | label: hybrid | g:0.521 m:0.5 ---
+
+tvaṃ mā dadasva duḥ khaṃ me pālayiṣyati kovidaḥ ।
+kṣaṇamātraṃ na jīvāmi tvāṃ vinā jīvanaṃ na hi ।।

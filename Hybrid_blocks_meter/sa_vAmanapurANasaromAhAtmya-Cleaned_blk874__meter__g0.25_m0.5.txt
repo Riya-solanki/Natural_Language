@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 874 | label: meter | g:0.25 m:0.5 ---
+
+yasmādatyāvilaṃ dehaṃ na śīghraṃ śuddhyate kila ।
+tena lokeṣu mārgo ayaṃ satpathasya pravartitaḥ ।।

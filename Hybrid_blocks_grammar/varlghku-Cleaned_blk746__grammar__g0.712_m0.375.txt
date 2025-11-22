@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 746 | label: grammar | g:0.712 m:0.375 ---
+
+sanyaṅoḥ ।।
+sannantasya yaṅantasya ca dhātoranabhyāsasya prathamasyaikāco dve sto ajādestu dvitīyasya । paṭhitumicchati pipaṭhiṣati । karmaṇaḥ kim ? gamanenecchati । samāna kartṛkāt kim ? śiṣyāḥ paṭhantvitīcchati guruḥ । vā grahaṇādvākyamapi ।।

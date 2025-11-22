@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 563 | label: meter | g:0.25 m:0.617 ---
+
+ātmani caivaṃ vicitrāśca hi ।
+anena sphuṭito māyāvādaḥ ।
+svapnadṛgātmā hi manasaiva svarūpānupamardena rathādīn sṛjati ।।

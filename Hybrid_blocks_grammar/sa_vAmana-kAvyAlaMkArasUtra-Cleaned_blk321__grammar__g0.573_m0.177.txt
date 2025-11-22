@@ -1,0 +1,7 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 321 | label: grammar | g:0.573 m:0.177 ---
+
+kāvyasya śaśinā saha yat sādṛśyaṃ tadapratītaireva guṇairiti । nanu ca arthānāṃ raśmitulyatve sati kāvyasya śaśitulyatvaṃ bhaviṣyati । naivam । kāvyasya śaśitulyatve siddhe'rthānāṃ raśmitulyatvaṃ siddhyati । na hyarthānāṃ ca kaścit sādṛśyahetuḥ pratīto guṇo'sti । tadevamitaretarāśrayadoṣo duruttara iti ।।
+asādṛśyahatā hyupamā, tanniṣṭhāśca kavayaḥ ।।
+asādṛśyena hatā asādṛśyahatā upamā । tanniṣṭhā upamānaniṣṭhāśca kavaya iti ।।
+upamānādhikyāttadapoha ityeke ।।
+upamānādhikyāt tasyāsādṛśyasyāpoha ityeke manyante । yathā

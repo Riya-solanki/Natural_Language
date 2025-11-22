@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 522 | label: meter | g:0.25 m:0.5 ---
+
+na pratyakṣeṇa lakṣyo ayaṃ nānumānena mānyate ।
+na cāgamena sugamo nopamānena mānitaḥ ।।

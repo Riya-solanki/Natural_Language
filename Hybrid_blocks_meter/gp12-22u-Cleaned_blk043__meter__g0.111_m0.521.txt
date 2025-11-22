@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 43 | label: meter | g:0.111 m:0.521 ---
+
+vadati sakhi-samūhaḥ kṛṣṇa-rāmāv itīdaṃ
+kvacid api vinimāya prāha tat tac ca yuktam ।
+kalayata yad imāv apy ātmanaḥ sthāna eva
+sphuṭam iha vidadhāte yan mithas tatra tatra ।। [mālinī]

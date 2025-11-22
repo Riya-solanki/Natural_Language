@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1127 | label: grammar | g:0.75 m:0.5 ---
+
+prathamo dvitīyādau dvitīyastṛtīyādau tṛtīyaścaturthe prathamastriṣvapīti sapta । prathamo dvitīye tṛtīyaścaturthe prathamaścaturthe dvitīyastṛtīye, iti dve । tadevaṃ pādajaṃ navabhedam । ardhāvṛttiḥ ślokāvṛttiśceti dve ।

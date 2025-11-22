@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 49 | label: meter | g:0.25 m:0.5 ---
+
+kṛtvaitadātmano bimbaṃ strītattvaṃ nirmāya te punaḥ ।। iti । 
+koṭākṣaḥ koṭavaḥ koṭāḥ koṭābhaśca koṭīrakaḥ ।
+kolākṣaḥ kolāvaḥ kolaḥ kolābhaśca kalistathā ।।

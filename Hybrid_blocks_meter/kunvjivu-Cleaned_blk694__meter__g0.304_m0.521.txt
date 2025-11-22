@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 694 | label: meter | g:0.304 m:0.521 ---
+
+apakartāhamasmīti hṛdi te māsma bhūdbhayam ।
+vimukheṣu na me khaṅgaḥ prahartuṃ jātu vāñchati ।।
+iti ।

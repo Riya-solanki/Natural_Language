@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 170 | label: grammar | g:0.75 m:0.5 ---
+
+yatra kiṃcidarthajātamaparīkṣitamabhyupagamyate, astu dravyaṃ śabdaḥ, sa tu nityo athānitya iti? dravyasya sato anityatā nityatā vā tadviśeṣaḥ parīkṣyate, so abhyupagamasiddhāntaḥ svabuddhyatiśayacikhyāpayiṣayā parabuddhyavajñānāya ca pravartata iti ।।

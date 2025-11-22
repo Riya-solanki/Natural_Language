@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 751 | label: hybrid | g:0.37 m:0.511 ---
+
+jñānasādhanavidhyanyathānupapattyāpyātmanaḥ kartṛtvaṃ vācyamityāha-samādhīti ।
+muktiphalabhoktureva tadupāyasamādhikartṛtvaṃ yuktam, anyathātmano akartṛtve buddherapi abhoktryāḥ kartṛtvāyogātsamādhyabhāvaprasaṅga ityarthaḥ ।।

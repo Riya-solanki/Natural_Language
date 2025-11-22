@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1216 | label: meter | g:0.25 m:0.625 ---
+
+itthaṃ kṛtena mānena bāhyabhāgavinirgatam ।
+nemiḥ pādena vistīrṇā prāsādasya samantataḥ ।।

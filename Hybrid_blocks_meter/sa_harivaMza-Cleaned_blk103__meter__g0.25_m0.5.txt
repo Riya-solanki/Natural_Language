@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 103 | label: meter | g:0.25 m:0.5 ---
+
+tato dakṣaḥ sutāṃ prādāt priyāṃ vai parameṣṭhine 
+sa tasyāṃ nārado jajñe bhūyaḥ śāpabhayād ṛṣiḥ ।।

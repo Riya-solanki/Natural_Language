@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5085 | label: meter | g:0.206 m:0.54 ---
+
+tathā dvihāyanā damyās tathā palvalakarṣakāḥ 
+citravarṣī ca parjanyo yuge kṣīṇe bhaviṣyati ।। 
+sarve corakule jātāś corayānāḥ parasaram । svalpenāḍhyā bhaviṣyanti yat kiṃcit prāpya durgatāḥ । 
+na te dharmaṃ cariṣyanti mānavā nirgate yuge 
+ūṣarābahulā bhūmiḥ panthāno nagarāntarā 
+sarve vāṇijakāś caiva bhaviṣyanti kalau yuge ।।

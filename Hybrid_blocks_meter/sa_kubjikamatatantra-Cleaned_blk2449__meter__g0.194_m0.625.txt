@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2449 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ kalanti taṃ kālaṃ pañcapañcāntakāvadhim 
+kālāvadhisthitān dvīpān dvīpaiḥ pīṭhān vidur budhāḥ ।।

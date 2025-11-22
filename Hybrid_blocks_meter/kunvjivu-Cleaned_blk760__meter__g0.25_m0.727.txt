@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 760 | label: meter | g:0.25 m:0.727 ---
+
+kaikesarī vaaṇāṇā motiaraaṇāṇā āiveaṭio ।
+ṭhāṇāṭhāṇa jāṇai kusumāṇa a jīṇamālāro ।।
+kavikesarī vacanānāṃ mauktikaratnānāmādivaikaṭikaḥ ।
+sthānāsthānaṃ jānāti kusumānāṃ ca jīrṇamālākāraḥ ।।
+iti chāyā ।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 326 | label: meter | g:0.194 m:0.5 ---
+
+tato durgāṇi tāś cakrur vārkṣaṃ pārvatam audakam 
+kṛtrimaṃ ca tathā durgaṃ purakharvaṭakādi yat ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1032 | label: hybrid | g:0.276 m:0.457 ---
+
+kṛṣṇadvaipāyanac caiva kṣetre vaicitravīryake 
+dhṛtarāṣṭraṃ ca pāṇḍuṃ ca viduraṃ cāpy ajījanat ।। 
+dhṛtarāṣṭras tu gāndhāryāṃ putrānajanayac chatam । teṣāṃ duryodhanaḥ śreṣṭhaḥ sarveṣām eva sa prabhuḥ । 
+pāṇḍor dhanaṃjayaḥ putraḥ saubhadras tasya cātmajaḥ 
+abhimanyoḥ parīkṣit tu pitā tava janeśvara ।।

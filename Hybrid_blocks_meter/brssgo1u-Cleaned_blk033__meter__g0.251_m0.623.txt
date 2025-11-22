@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 33 | label: meter | g:0.251 m:0.623 ---
+
+amaṅgalānantarārambhapraśnakārtsnyeṣvatho atha'ityathaśabdasya yahavorthāḥ santi ।
+tatra aatha yogānuśāsanam'ityatra, sūtre yathā athaśabda ārambhārthakaḥ yogaśāstramārabhyata iti

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 295 | label: meter | g:0.194 m:0.521 ---
+
+{mahilāsahassabhari-e tuha hi-a-e suha-a sā amā-antī ।
+aṇudiṇamaṇaṇṇakammā aṅgaṃ taṇu-aṃ vi taṇu-e-i ।।}
+[mahilāsahasrabharite tava hṛdaye subhaga sā amāntī ।
+anudinamananyakarmā aṅgaṃ tanukamapi tanayati ।।]

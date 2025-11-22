@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 906 | label: grammar | g:0.75 m:0.5 ---
+
+[vyaktaṃ] pratimā। avyaktam anabhivyaktāṅgam। ubhayātmakaṃ vyaktāvyaktaṃ mukhaliṅgamityarthaḥ।gap siddhyarthaṃ sādhaka ātmanaḥ kṛte sthāpayet paraiḥ samayisādhakaputrakādibhiḥ abhyarthito vā guruḥ ācāryaḥ pratiṣṭhāpayet। parairiti viśeṣaṇād guroḥ pare ye sādhakādayastaistadevaṃsiddhaye ātmanaḥ pratiṣṭhā kāryā। ācāryeṇa tu caturṇāmapīti tātparyam।।

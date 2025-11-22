@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 568 | label: meter | g:0.25 m:0.625 ---
+
+sattvena satyaśaucābhyāṃ tathā śīlādibhir guṇaiḥ 
+tyajyante te narāḥ sadyaḥ saṃtyaktā ye tvayāmale ।।

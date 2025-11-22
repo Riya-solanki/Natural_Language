@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 631 | label: meter | g:0.194 m:0.625 ---
+
+anyajanmakṛtaiḥ puṇyaiḥ surucyāṃ surucir nṛpaḥ 
+bhāryeti procyate cānyā madvidhā puṇyavarjitā ।।

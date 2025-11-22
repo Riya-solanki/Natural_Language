@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 804 | label: hybrid | g:0.496 m:0.485 ---
+
+dyūte paṇaḥ praṇayakeliṣu kaṇṭhapāśaḥ krīḍāpariśramaharaṃ vyajanaṃ ratānte ।
+śayyāniśīthakalaheṣu mṛgekṣaṇāyāḥ prāptaṃ mayā vidhivaśād idam uttarīyam ।।
+dhīranāgasya

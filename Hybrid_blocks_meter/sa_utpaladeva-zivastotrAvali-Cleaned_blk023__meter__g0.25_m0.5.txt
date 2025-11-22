@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 23 | label: meter | g:0.25 m:0.5 ---
+
+śāntakallolaśītācchasvādubhaktisudhāmbudhau alaukikarasāsvāde susthaiḥ ko anāma gaṇyate ।।

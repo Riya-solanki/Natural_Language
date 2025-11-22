@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 1683 | label: grammar | g:0.923 m:0.02 ---
+
+atra kiṃ kāmasyoddīpalaḥ kālo vartate iti bhaṅgyantareṇābhidhānāt paryāyoktam । uta vadanasyendubimbatayā adhyavasānāt atiśayoktiḥ kiṃ vā । etaditi vaktraṃ nirdiśya tadrūpāropavaśāt rūpakam । athavā tayoḥ samuccayavivakṣāyāṃ dīpakam ।athavā tulyayogitā । kimu pradoṣasamaye viśeṣaṇasāmyādānanasyāvagatau samāsoktiḥ । āhosvit mukhanairmalyaprastāvāt aprastutapraśaṃsā iti bahūnāṃ saṃdehādayameva saṃkaraḥ ।
+yatra tu nyāyadoṣayoranyarasyāvatāraḥ tatra ekatarasya niścayāt na saṃśayaḥ ।।
+nyāyaśca sādhakatvam anukūlatā doṣo api bādhakatvaṃ pratikūlatā । tatra

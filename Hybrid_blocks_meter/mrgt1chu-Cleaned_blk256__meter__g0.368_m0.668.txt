@@ -1,0 +1,7 @@
+--- source: mrgt1chu-Cleaned.txt | block: 256 | label: meter | g:0.368 m:0.668 ---
+
+tadeti pratyarthaṃ sakramasaṃvedanaviśeṣasya pariṇāmitvābhyupagame sati smṛtir nāvakalpate ।। 
+pariṇāmaviśeṣāṇāṃ kramabhāvināṃ bhinnatvāt ।। 
+asaṃviditasyānyaviditasya cānyenāsmaraṇāt ।। 
+nahy ananubhūtaṃ devadattānubhūtaṃ vā caitrādinā smartuṃ śakyam ।। 
+evaṃ mā bhūt smṛtiḥ kiṃ naśchinnamiti cet tadapyayuktamityāha ।।

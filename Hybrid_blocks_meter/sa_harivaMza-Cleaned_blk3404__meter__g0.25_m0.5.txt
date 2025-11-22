@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3404 | label: meter | g:0.25 m:0.5 ---
+
+nūnaṃ kāntatarāḥ kānta tasmiṃl loke varastriyaḥ 
+tatas tvaṃ prasthito vīra vihāyemaṃ gṛhe janam ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2599 | label: meter | g:0.25 m:0.667 ---
+
+saṃsmāritaḥ sa kṛṣṇena rauhiṇeyaḥ purātanam 
+sa balena tadā pūrṇas trailokyāntaracāriṇā ।। 
+balenāyujyata tadā mahatānyena dīptimān । 
+tataḥ pralambaṃ durvṛttaṃ subaddhena mahābhujaḥ 
+muṣṭinā vajrakalpena mūrdhni vīraḥ samāhanat ।।

@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 546 | label: hybrid | g:0.502 m:0.481 ---
+
+nanu sukhābhāve api śrutirasti aśarīraṃ vāva santaṃ na priyāpriye spṛśataḥ iti ।
+satyam- viṣayasukhābhiprāyaṃ tvevañjātīyakam, anyathānandaśrutivirodhāt ।
+atha sukhābhāvavacanabalenānandavacanameva duḥkhābhāvābhiprāyaṃ kimiti na vyākhyāyate sukhābhāvavacanānāmatyalpatvātteṣāmevānyathākaraṇaṃ yuktaṃ na bhūyasāmānandavacanānām ।
+kiñcānandaśabdasya duḥkhābhāvaparatve atyantasvārthahāniḥ syāt, sukhaśabdasya tu sāmānyavacanasya viśeṣe api vyākhyāne nātīva svārthahāniriti tadeva yuktam ।।

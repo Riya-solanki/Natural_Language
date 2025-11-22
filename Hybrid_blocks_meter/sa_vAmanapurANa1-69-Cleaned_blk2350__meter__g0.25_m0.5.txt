@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2350 | label: meter | g:0.25 m:0.5 ---
+
+ātmā pradattaḥ svātantryāt tatastāmaśapat pitā ।
+yasmād dharmaṃ parityajya strībhāvān mandacetase ।।

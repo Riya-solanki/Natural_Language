@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 944 | label: meter | g:0.25 m:0.75 ---
+
+yāvanmanvantaraṃ proktaṃ yāvalliṅgasya saṃsthitiḥ ।
+tāpatprītāśca pitaraḥ pibanti jalamuttamam ।।

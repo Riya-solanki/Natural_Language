@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 933 | label: meter | g:0.306 m:0.5 ---
+
+indraṃ savāhanaṃ cātha parivārayutaṃ tathā ।
+agniṃ yamaṃ nirṛtiṃ ca varuṇaṃ vāyumeva ca ।।

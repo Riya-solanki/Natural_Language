@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 423 | label: meter | g:0.306 m:0.5 ---
+
+ekam eva baliṃ baddhvā jagāma harir unnatim ।
+asyās trivalibandhena saiva madhyasya namratā ।।

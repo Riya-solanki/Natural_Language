@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1546 | label: meter | g:0.306 m:0.5 ---
+
+stutaḥ prīto bhavati vai bahubhāryā bhavanti ca ।
+pūrvamitreṣu śaithilyaṃ prītimanyaiḥ karoti ca ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 386 | label: meter | g:0.364 m:0.524 ---
+
+vṛtte asmin mahāpralayedharaṇīdhāraṇāyādhunātvaṃ śeṣaḥ ।।
+iti

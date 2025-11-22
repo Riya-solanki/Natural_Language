@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 89 | label: meter | g:0.25 m:0.5 ---
+
+satkṛto mahatāṃ yo asti vetti tamadhamastṛṇam ।
+paṇḍitaiḥ pūjitastūpe kākaḥ karoti cāsanam ।।

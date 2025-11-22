@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3396 | label: meter | g:0.25 m:0.555 ---
+
+aho kālo mahāvīryo yena paryāyakarmaṇā 
+asmāsu prekṣamāṇāsu tvam ākṣipyāśu nīyase । 
+kālatulyaḥ sapatnānāṃ tvaṃ kṣipram apanīyase ।।

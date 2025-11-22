@@ -1,0 +1,17 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1116 | label: meter | g:0.0 m:0.895 ---
+
+janma ।
+jāyate iti śarīrendriyabuddhayaḥ, śarīrādīnāṃ
+saṃsthānaviśiṣṭānāṃ prādurbhāva utpattiḥ,
+vividhā ca bādhanā hīnā madhyamā utkṛṣṭā
+ceti utkṛṣṭā nārakiṇāṃ tiraścāṃ tu madhyamā,
+manuṣyāpāṃ hīnāḥ devānāṃ hīnatarā vītarāgāṇāṃ
+ca, evaṃ sarvamutpattisthānaṃ vividhabādhanānuṣaktaṃ
+paśyataḥ sukhe tatsādhaneṣu ca śarīrendriyabuddhiṣu
+duḥkhasaṃjñā vyavatiṣṭhate duḥkhasaṃjñāvyavasthānāt
+sarvalokeṣv anabhiratisaṃjñā bhavati anabhiratisaṃjñāmupāsīnasya
+sarvalokaviṣayātṛṣṇā vicchidyate tṛṣṇāprahāṇāt
+sarvaduḥkhād vimucyate iti, yathā
+viṣayogāt payo viṣayamiti budhyamāno
+nopādatte anupādadāno maraṇaduḥkhaṃ nāpnoti
+।।

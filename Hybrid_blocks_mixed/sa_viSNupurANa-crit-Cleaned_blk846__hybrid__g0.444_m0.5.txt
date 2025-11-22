@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 846 | label: hybrid | g:0.444 m:0.5 ---
+
+guṇā na cāsya jñāyante na cāsya prathitaṃ yaśaḥ 
+stotraṃ kimāśrayaṃ tv asya kāryam asmābhir ucyatām ।।

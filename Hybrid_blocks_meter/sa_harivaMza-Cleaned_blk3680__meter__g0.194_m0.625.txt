@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3680 | label: meter | g:0.194 m:0.625 ---
+
+pratyuvāca tato rāmo bhrātaraṃ sādhubhāṣiṇam 
+sarvatra kuśalaṃ kṛṣṇa yeṣāṃ kuśalam icchasi ।।

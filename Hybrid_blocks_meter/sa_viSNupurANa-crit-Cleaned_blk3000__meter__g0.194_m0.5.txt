@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3000 | label: meter | g:0.194 m:0.5 ---
+
+caturthe ahni ca kartavyaṃ bhasmāsthicayanaṃ nṛpa 
+tadūrdhvam aṅgasparśaś ca sapiṇḍānām apīṣyate ।।

@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 148 | label: grammar | g:0.562 m:0.5 ---
+
+jātaṃ ceto madanasubhaṭasyādya yogyaṃ śaravyaṃ naikacchidraṃ niyatamamutaḥ subhru vibhraṃśi dhairyam ।
+kālāt kṣīṇe punaravayave vardhate kevalaṃ no tāpastīvrasmarahutabhujā tasya varṇodgamo api ।।

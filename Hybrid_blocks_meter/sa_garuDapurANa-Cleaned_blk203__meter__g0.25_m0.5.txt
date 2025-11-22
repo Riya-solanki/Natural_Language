@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 203 | label: meter | g:0.25 m:0.5 ---
+
+tasya putrasahasraṃ tu vairaṇyāṃ samapadyata ।
+nāradoktā bhuvaścāntaṃ gatā jñātuṃ ca nāgatāḥ ।।

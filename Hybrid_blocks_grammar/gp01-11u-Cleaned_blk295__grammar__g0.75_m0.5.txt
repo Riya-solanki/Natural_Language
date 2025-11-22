@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 295 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhumaṅgala uvāca, "evam uccaiḥkāram api vivakṣāmi, tayor anayor yathāsvaṃ preyasībhiḥ saha sā sā śreyasī vidyā nādyāpi vicchidyamānā vidyate, yan muhur ārabhyata eva vanābhyantare keli-kalaha-pralāpa-kalāpaḥ" iti ।

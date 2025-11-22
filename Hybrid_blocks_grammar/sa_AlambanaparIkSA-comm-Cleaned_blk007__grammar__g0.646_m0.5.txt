@@ -1,0 +1,3 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 7 | label: grammar | g:0.646 m:0.5 ---
+
+yo arthaḥ svāvabhāsivijñaptimutpādayati sahyālambanaṃ yujyate । yataḥ sa eva hyutpattipratyaya ucyate । saṃghātastu naivam ।

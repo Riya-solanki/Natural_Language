@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 935 | label: meter | g:0.052 m:0.806 ---
+
+hitajīrṇāśanasvasthas trikuḍyāveṣṭite gṛhe 
+bādhāśūnye vanādau vā svāsanastha udaṅmukhaḥ ।। MT

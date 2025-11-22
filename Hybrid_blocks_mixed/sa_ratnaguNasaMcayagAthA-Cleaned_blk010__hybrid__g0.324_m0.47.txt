@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 10 | label: hybrid | g:0.324 m:0.47 ---
+
+yasminna prajñavarapāramitopalabdhiḥ na ca bodhisattvaupalabdhi na cittabodheḥ 
+evaṃ śruṇitva na ca muhyati nāsti trāso so bodhi ttva carate sugatāna prajñām ।।

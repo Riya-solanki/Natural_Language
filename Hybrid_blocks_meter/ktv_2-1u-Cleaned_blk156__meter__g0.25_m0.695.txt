@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 156 | label: meter | g:0.25 m:0.695 ---
+
+prayujyate asmin iti cābhidheya eva prayogaḥ ।
+tadādhāraiva hi niṣpannarūpopalabdhiḥ ।
+anutpannatve kriyārūpasya vaktavye vināśitvapradarśanaṃ niṣpannasyāpi

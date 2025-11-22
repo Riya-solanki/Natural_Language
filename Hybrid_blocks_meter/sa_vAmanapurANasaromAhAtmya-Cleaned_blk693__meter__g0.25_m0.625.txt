@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 693 | label: meter | g:0.25 m:0.625 ---
+
+tapaḥkriyāviśīrṇāṃ ca bhṛśaṃ śokasamanvitām ।
+uvāca sa saricchreṣṭhāṃ viśvāmitrāya māṃ vacaḥ ।।

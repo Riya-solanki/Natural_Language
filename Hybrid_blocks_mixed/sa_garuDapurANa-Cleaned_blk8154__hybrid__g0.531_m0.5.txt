@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8154 | label: hybrid | g:0.531 m:0.5 ---
+
+preto apyayaṃ sapadilabdhasuvarṇadehaḥ karmānta āgata iti praṇanāma bhūpam ।
+deva tvadīyamahimāyamiti stuvan sa yāto divaṃ garuḍa bhūpatinā kṛtajñaḥ ।।

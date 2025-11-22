@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10210 | label: hybrid | g:0.374 m:0.5 ---
+
+indro varo rudrabhāryādikebhya evaṃ jñānaṃ sarvadā dehyamandam ।
+evaṃ jñānaṃ yasya bhavecca loke sa vai jñānī vedavedyaḥ sa eva ।।
+na vai jñānītyantaraṃ yo na veda sa vedavādī na ca vedapāṭhakaḥ ।।
+vedākṣarāṇi yāvanti paṭhitāni dvijātibhiḥ ।
+tāvanti harināmāni priyāṇi ca hareḥsadā ।।

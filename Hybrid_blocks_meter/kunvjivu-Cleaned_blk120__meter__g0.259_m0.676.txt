@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 120 | label: meter | g:0.259 m:0.676 ---
+
+atra ca pūrvavadeva kriyāvaicitryapratītiḥ ।
+yathā ca

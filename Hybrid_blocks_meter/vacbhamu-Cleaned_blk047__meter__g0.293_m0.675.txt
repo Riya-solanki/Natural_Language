@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 47 | label: meter | g:0.293 m:0.675 ---
+
+kecittu- jñānākārakhyātāvaparituṣyanto vadanti- yatra yadadhyāsaḥ tadvivekāgrahanibandhano bhrama iti ।
+aparitoṣakāraṇaṃ cāhuḥ- vijñānakāratā rajatāderanubhavādvā vyavasthāpyeta, anumānādvā ।
+tatrānumānamupariṣṭānnirākariṣyate ।
+anubhavo api rajatapratyayo vā syāt, bādhakapratyayo vā ।
+na tāvadrajatānubhavaḥ ।

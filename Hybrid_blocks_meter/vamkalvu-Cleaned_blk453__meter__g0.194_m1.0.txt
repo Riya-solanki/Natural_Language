@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 453 | label: meter | g:0.194 m:1.0 ---
+
+viparyayastu bhūyānsukabhaśca ।
+ślokāścātra bhavanti

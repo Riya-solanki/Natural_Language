@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1428 | label: grammar | g:0.573 m:0.5 ---
+
+sarasi bahuśas tārāchāyāṃ daśan parivañcitaḥ kumudaviṭapānveṣī haṃso niśāsu vicakṣaṇaḥ ।
+na daśati punas tārāśaṅkī divāpi sitotpalaṃ kuhakacakito lokaḥ satye apy apāyam avekṣate ।।

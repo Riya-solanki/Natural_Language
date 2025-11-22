@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9012 | label: meter | g:0.25 m:0.571 ---
+
+śṛkṛṣṇa uvāca ।
+śṛṇu dānaṃ pravakṣyāmi sarvāśu bhavināśanam ।
+santaptahāṭakamayaṃ ghaṭakaṃ vidhāya brahmeśakeśavayutaṃ saha lokapālaiḥ ।
+kṣīrājyapūrṇaviviraṃ praṇipatya bhaktyā viprāya dehi tava dānaśataiḥ kimanyaiḥ ।।

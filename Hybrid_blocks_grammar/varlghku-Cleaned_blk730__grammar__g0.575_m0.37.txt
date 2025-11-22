@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 730 | label: grammar | g:0.575 m:0.37 ---
+
+satyāpapāśarūpavīṇātūlaślokasenālomatvacavarmavarṇacūrṇa curādibhyo ṇic ।।
+ebhyo ṇic syāt । cūrṇāntebhyaḥ aprātipadikāddhātvarthe'; ityeva siddhe teṣāmiha grahaṇaṃ prapañcārtham । curādibhyastu svārthe । sanādyantā iti dhātutvam । guṇāyādeśau ।।

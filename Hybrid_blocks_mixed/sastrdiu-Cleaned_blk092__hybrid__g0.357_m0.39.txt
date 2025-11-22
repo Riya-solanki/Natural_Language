@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 92 | label: hybrid | g:0.357 m:0.39 ---
+
+nanu na hiṃsyāditi niṣedho nārabhyādhītatvātpuruṣārthaḥ tenānena puruṣārtho eva hiṃsāḥ pratiṣeddhavyāḥ, kratvarthaniṣedhe hi so api kratvarthaḥ syāt ।
+aviśeṣe tvekasya pratiṣedhavidheḥ kratvarthatvapuruṣārthatvāpattyā vairupyaṃ syāt ।
+tasmātpuruṣārthānāmeva hiṃsānāmiha pratiṣedho na kratvarthānāmiti ।।

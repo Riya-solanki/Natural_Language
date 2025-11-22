@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 107 | label: meter | g:0.194 m:0.625 ---
+
+bhūtendriyāṇāṃ hetuḥ sa triguṇatvān mahāmune 
+yathā pradhānena mahān mahatā sa tathāvṛtaḥ ।।

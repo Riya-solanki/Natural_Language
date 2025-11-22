@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 604 | label: hybrid | g:0.5 m:0.5 ---
+
+sa dahyamāno ditijo agninātha suvisvaraṃ ghorataraṃ rurāva ।
+siṃhābhipanno vipine yathaiva matto gajaḥ krandati vedanārttaḥ ।।

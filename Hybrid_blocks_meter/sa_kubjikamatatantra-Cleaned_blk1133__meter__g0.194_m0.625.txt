@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1133 | label: meter | g:0.194 m:0.625 ---
+
+pūjayet pīṭhasaṃyuktāṃ pāramparyeṇa saṃyutām 
+yathā siddhās tathā devyāḥ saṃhāryādi prapūjayet ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 75 | label: meter | g:0.302 m:0.806 ---
+
+jaladamārutacandanaśītalair api vayaṃ vacanais tava tāpitāḥ ।
+svakṛtaduṣkṛtaśaṅkuśatakṣatā viṣayalaulyaparājitamānasāḥ ।।

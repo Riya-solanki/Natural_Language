@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1499 | label: meter | g:0.29 m:0.555 ---
+
+atha bhedaḥ-
+bhedas tu kapaṭālāpaiḥ suhṛdāṃ bheda-kalpanam ।।

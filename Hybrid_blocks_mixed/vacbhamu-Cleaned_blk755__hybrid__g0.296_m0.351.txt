@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 755 | label: hybrid | g:0.296 m:0.351 ---
+
+prathame aśravaṇāditi cenna tā eva hyupapatteḥ ।
+pañcamyāmāhutāvapāṃ puruṣavacastvaprakāre pṛṣṭe prathamāyāmāhutau anapāṃ śraddhāyā hetavyatābhidhānasaṃbhavaddhamanupapannaṃ ca ।
+nahi yathā paśvādibhyo hṛdayādayo avayavā avadāya niṣkṛṣya hūyante, evaṃ śraddhā buddhiprasādalakṣaṇā niṣkraṣṭuṃ vā hotuṃ vā śakyate ।
+na cāpyevamautsargikī kāraṇānurūpatā kāryasya yujyate ।
+tasmādbhaktyāyamapsu śraddhāśabdaḥ prayukta iti ।
+ata eva śrutiḥ aāpo hātmai' iti ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1783 | label: grammar | g:0.559 m:0.43 ---
+
+madhur māso ramyo vipinam ajanaṃ tvaṃ ca taruṇī sphuratkāmāveśe vayasi vayam apy āhitabharāḥ ।
+vrajatv ambā mugdhe kṣaṇam iha vilambasva yadi vā sphuṭas tāvaj jātaḥ piśunavacasām eṣa viṣayaḥ ।।
+vallaṇasya

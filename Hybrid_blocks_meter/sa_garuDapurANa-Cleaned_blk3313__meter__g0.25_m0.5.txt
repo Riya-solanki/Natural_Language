@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3313 | label: meter | g:0.25 m:0.5 ---
+
+satyaṃ śaucaṃ manaḥ śaucaṃ śaucamindriyanigrahaḥ ।
+sarvabhūte dayā śaucaṃ jalaśaucañca pañcamam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 938 | label: meter | g:0.25 m:0.5 ---
+
+tato ye miktikāmāśca siddhāḥ śamaparāyaṇāḥ ।
+sevya pāṃśuṃ prayatnena prayātāḥ paramaṃ padam ।।

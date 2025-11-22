@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1503 | label: meter | g:0.194 m:0.5 ---
+
+tac ca jñānamayaṃ vyāpi svasaṃvedyam anaupamam 
+catuṣprakāraṃ tad api svarūpaṃ paramātmanaḥ ।।

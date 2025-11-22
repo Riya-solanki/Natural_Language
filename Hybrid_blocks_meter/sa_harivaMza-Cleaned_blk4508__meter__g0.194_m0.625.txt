@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4508 | label: meter | g:0.194 m:0.625 ---
+
+vṛṣṇayo hatasaṃkalpās tathāhaṃ naṣṭacetanaḥ 
+mām eva hi viśeṣeṇa brāhmaṇaḥ paryabhāṣata ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 371 | label: meter | g:0.25 m:0.5 ---
+
+nāsatyaś caiva dasraś ca smṛtau dvāv aśvināv iti 
+mārtaṇḍasyātmajāv etāv aṣṭamasya prajāpateḥ ।। 
+saṃjñāyāṃ janayāmāsa vaḍavāyāṃ sa bhārata । 
+tāṃ tu rūpeṇa krāntena darśayāmāsa bhāskaraḥ 
+sā tu dṛṣṭvaiva bhartāraṃ tutoṣa janamejaya ।।

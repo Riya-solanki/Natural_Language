@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 474 | label: meter | g:0.25 m:0.625 ---
+
+asya hi vyavasāyasya na dūrataramīpsitam ।
+śrotavyaṃ caitadasmābhirbaktumarhati no bhavān ।।

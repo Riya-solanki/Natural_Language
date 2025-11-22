@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 45 | label: grammar | g:0.583 m:0.5 ---
+
+mānaḥ katamaḥ । mānaḥ saptavidhaḥ । atimānaḥ, mānātimānaḥ asmimānaḥ, abhimānaḥ, ūnamānaḥ,mithyāmānaśca ।।

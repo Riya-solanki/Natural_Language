@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2494 | label: meter | g:0.102 m:0.5 ---
+
+krodhena tajjalaṃ tasya sarvaṃ śṛtam ivābhavat 
+pratiśrotāś ca bhīteva jagāma yamunā nadī 
+tasya krodhāgnipūrṇena vaktreṇābhūc ca mārutaḥ ।।

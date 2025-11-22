@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3847 | label: meter | g:0.194 m:0.625 ---
+
+ekalavyasya putraṃ ca vīryavantaṃ balānvitam 
+putraṃ ca pāṇḍyarājasya kaliṅgādhipatiṃ tathā ।।

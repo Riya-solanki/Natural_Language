@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1122 | label: meter | g:0.194 m:0.625 ---
+
+{sitakarakararuciravibhā vibhākarākāra dharaṇidhara kīrtiḥ ।
+pauruṣakamalā kamalā sāpi tavaivāsti nānyasya ।।}

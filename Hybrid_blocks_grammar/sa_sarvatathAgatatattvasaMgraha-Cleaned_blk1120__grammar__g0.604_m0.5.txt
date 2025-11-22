@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1120 | label: grammar | g:0.604 m:0.5 ---
+
+manasā mārayāmīti vajraṃ hṛdi tu bhāvayet । huṃkāreṇaiva sarveṣāṃ mudrayatyabhitaḥ svayam ।। ।।

@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 3 | label: meter | g:0.26 m:0.5 ---
+
+tasminn adrau kati cid abalāviprayuktaḥ sa kāmī nītvā māsān kanakavalayabhraṃśariktaprakoṣṭhaḥ 
+āṣāḍhasya praśamadivase megham āśliṣṭasānuṃ vaprakrīḍāpariṇatagajaprekṣaṇīyaṃ dadarśa ।।

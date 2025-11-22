@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 553 | label: meter | g:0.056 m:0.75 ---
+
+prasaṅgecchā vīkṣā-spṛhitam anuṣaṅgābhilaṣitaṃ
+pṛthag loka-dveṣaḥ pratisamayam udvega-kalanā ।
+ime bhāvā yugme yugapad uditās tat-krama-vaśād
+aho dūra-sthityor api dayitayor eka-rucitā ।। [śikhariṇī]

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4900 | label: meter | g:0.25 m:0.555 ---
+
+śotho māṃsena kaṭhino hṛllāsapiṭikāstathā ।
+harṣaḥ pipīlikānāṃ ca saṃcāra iva jāyate ।
+calalagrano mṛduḥ śītaḥ śotho gātreṣu rocakaḥ ।।

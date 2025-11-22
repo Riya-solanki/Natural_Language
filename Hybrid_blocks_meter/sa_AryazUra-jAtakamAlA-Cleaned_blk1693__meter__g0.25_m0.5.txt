@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1693 | label: meter | g:0.25 m:0.5 ---
+
+iyaṃ mahārāja samaṃ mamaibhiḥ saṃbandhajātiścirakālarūḍhā ।
+samānajātitvamayī ca maitrī jñāteyajātā sahavāsayogāt ।।

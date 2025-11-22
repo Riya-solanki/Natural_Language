@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5154 | label: meter | g:0.25 m:0.5 ---
+
+kecid aśrūṇi mumucuḥ śrutvā dadhyus tathāpare 
+itihāsaṃ tam ṛṣiṇā pārāśaryeṇa darśitam ।। 
+atītānāgataṃ yad vai muninoktaṃ dvijarṣabha । 
+sadasyānto abhyanujñāya kṛtvā cāpi pradakṣiṇam 
+punar drakṣyāma ity uktvā jagāma bhagavān ṛṣiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 961 | label: meter | g:0.0 m:0.75 ---
+
+vāryagnī bhūmipavanau vārikṣme analānilau 
+madhyasthārātimitrāṇi catuṣke yugmayugmaśaḥ ।। MT

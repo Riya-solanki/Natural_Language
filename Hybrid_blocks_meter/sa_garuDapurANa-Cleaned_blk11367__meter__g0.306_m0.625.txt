@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11367 | label: meter | g:0.306 m:0.625 ---
+
+govindākhyastiṣṭhati vaṣṇavānāṃ putrairyutastiṣṭhati vāsudevaḥ ।
+mitre mukundaḥ śālake cānirūddho nārāyaṇo dvijavarye sadāsti ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 332 | label: meter | g:0.102 m:0.5 ---
+
+ruceḥ prajāpateḥ putro raucyo nāma manuḥ smṛtaḥ 
+bhūtyāṃ cotpādito devyāṃ bhautyo nāma ruceḥ sutaḥ 
+anāgatāś ca saptaite loke asmin manavaḥ smṛtāḥ ।।

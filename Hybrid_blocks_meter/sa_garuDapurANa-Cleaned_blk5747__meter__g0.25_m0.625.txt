@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5747 | label: meter | g:0.25 m:0.625 ---
+
+kuṣṭhaṃ māṃsī saindhavañca palamekaṃ punarnavā ।
+pāne nasye tathābhyaṅge tailametatpradāpayet ।।

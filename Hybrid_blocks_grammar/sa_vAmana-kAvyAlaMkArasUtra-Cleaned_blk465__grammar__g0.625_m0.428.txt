@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 465 | label: grammar | g:0.625 m:0.428 ---
+
+ityādiṣu naikaśabdo dṛśyate, sa ca na siddhyati । nañsamāse hi nalopo nañ iti nalope, tasmānnuḍaci iti nuḍāgame satyanekamiti rūpaṃ syāt । niranubandhasya naśabdasya samāse lakṣaṇaṃ nāsti । tat kathaṃ naikaśabda ityāha supsupeti samātāt ।।
+madhupipāsuprabhṛtīnāṃ samāso gamigāmyādiṣu pāṭhāt ।।
+madhupipāsumadhuvratasevitaṃ mukulajālamajṛmbhata vīrudhām

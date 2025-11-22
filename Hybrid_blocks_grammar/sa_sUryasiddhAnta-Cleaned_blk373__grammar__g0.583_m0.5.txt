@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 373 | label: grammar | g:0.583 m:0.5 ---
+
+vāsudevah paraṃ brahma tanmūrtih puruṣah parah। avyakto nirguṇah śāntah pañcaviṃśāt paro avyayah।।

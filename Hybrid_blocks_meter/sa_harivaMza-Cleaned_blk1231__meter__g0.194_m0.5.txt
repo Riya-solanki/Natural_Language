@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1231 | label: meter | g:0.194 m:0.5 ---
+
+atha duryodhano rājā gatvā sa mithilāṃ prabhuḥ 
+gadāśikṣāṃ tato divyāṃ balabhadrād avāptavān ।।

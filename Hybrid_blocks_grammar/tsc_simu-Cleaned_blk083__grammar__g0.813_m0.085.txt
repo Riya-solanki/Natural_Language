@@ -1,0 +1,5 @@
+--- source: tsc_simu-Cleaned.txt | block: 83 | label: grammar | g:0.813 m:0.085 ---
+
+ṣaṇṇāmiti ṣaḍindriyaṃ samastaliṅgaśarīropalakṣakam tathā ca svayambhūḥ svaliṅgaśarīrāvayavān sūkṣmānalpān ātmamātrāsu svāṃśacetaneṣu saṃyojya sarvaprāṇinaḥ sasarjjetyartha iti liṅgaśarīram ।
+sthūlaśarīrotpattistu daśaguṇitamahattattvamadhye ahaṃkārastasyāpi daśaguṇitasya madhye vyomno api daśaguṇitasya madhye vāyurvāyorapi daśaguṇitasya madhye tejastejaso api daśaguṇitasya madhye jalaṃ jalasyāpi daśaguṇitasya madhye pṛthivī samutpadyate saiva ca sthūlaśarīrasya bījaṃ tadeva ca pṛthivīrūpaṃ bījamaṇḍarūpeṇa pariṇamate tasyāpi daśaguṇitāṇḍarūpasya pṛthivyāvaraṇasya madhye caturdaśabhuvanātmakaṃ svayambhuvaḥ sthūlaśarīraṃ tatsaṃkalpādevotpadyate tenaiva śarīreṇa svayambhūrnārāyaṇa ityucyate ।
+taduktaṃ manunā svayambhuvaṃ prakṛtya ।

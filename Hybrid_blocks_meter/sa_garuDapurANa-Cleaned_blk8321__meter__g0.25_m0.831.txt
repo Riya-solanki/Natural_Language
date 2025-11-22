@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8321 | label: meter | g:0.25 m:0.831 ---
+
+śrīkṛṣṇa uvāca ।
+ekā gauḥ svasthacittasya hyāturasya ca gośatam ।
+sahasraṃ mriyamāṇasya dattaṃ vittavivarjitam ।।

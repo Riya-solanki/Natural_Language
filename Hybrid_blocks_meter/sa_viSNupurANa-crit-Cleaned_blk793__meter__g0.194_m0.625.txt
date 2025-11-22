@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 793 | label: meter | g:0.194 m:0.625 ---
+
+manor ajāyanta daśa naḍvalāyāṃ mahaujasaḥ 
+kanyāyāṃ tapatāṃ śreṣṭha vairājasya prajāpateḥ ।।

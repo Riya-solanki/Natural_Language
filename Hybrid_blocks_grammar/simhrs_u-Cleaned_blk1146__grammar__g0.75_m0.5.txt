@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1146 | label: grammar | g:0.75 m:0.5 ---
+
+kiṃ ca vibhāvādi-sambhavo hi rasaṃ prati prayojako na vibhāvādi-jñānam ity etan na yujyate । tathā hi-vibhāvāder viśiṣṭasya vastu-mātrasya vā sambhavo rasaṃ prati prayojakaḥ । viśiṣṭa-prayojakatvāṅgīkāre vivekādi-praveśo' ṅgīkṛta iti asmad-anusaraṇam eva śaraṇaṃ gato' si ।

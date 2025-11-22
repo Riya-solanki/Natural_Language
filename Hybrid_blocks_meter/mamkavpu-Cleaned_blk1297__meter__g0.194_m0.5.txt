@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1297 | label: meter | g:0.194 m:0.5 ---
+
+{niravadhi ca nirāśrayaṃ ca yasya sthitamanivartitakautukaprapñcam ।
+prathama iha bhavān sa kūrmamūrtirjayati caturdaśalokavallikandaḥ ।।}

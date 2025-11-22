@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 394 | label: meter | g:0.28 m:0.693 ---
+
+lomaharṣaṇa uvāca।
+śṛṇu sapta vanānīha kuruthetrasya madhyataḥ ।
+yeṣāṃ nāmāni puṇyāni sarvapāpaharāṇi ca ।।

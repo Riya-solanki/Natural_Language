@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6688 | label: meter | g:0.25 m:0.625 ---
+
+yavadhānyāni saṃhṛtya jāyate mūṣako mṛtaḥ ।
+paradārābhimarśāttu vṛko ghoro abhijāyate ।।

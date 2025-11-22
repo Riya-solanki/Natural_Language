@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2690 | label: meter | g:0.25 m:0.625 ---
+
+tato maheśavacanānnandī tūrṇataraṃ gataḥ ।
+upaspṛśya jalaṃ śrīmān sasmāra gaṇanāyakān ।।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 757 | label: meter | g:0.25 m:0.5 ---
+
+svayam āvriyatācāryas tatra nādyavad arthitaḥ ।
+yatra suṣṭhu sitaṃ yaṣṭuś cittaṃ tatraiva tasya ca ।। [anuṣṭubh]

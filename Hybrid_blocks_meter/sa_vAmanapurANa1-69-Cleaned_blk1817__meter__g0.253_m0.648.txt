@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1817 | label: meter | g:0.253 m:0.648 ---
+
+pulastya uvāca ।
+ityevamuktvā varadā surāṇāṃ kṛtvā praṇāmaṃ divajapuṅgavānām ।
+visṛjya bhūtāni jagāma devī khaṃ siddhasaṃghairanugamyamānā ।।

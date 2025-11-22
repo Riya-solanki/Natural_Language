@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 418 | label: meter | g:0.272 m:0.887 ---
+
+FN prajñā vākyārthadhīḥ ।
+brāhmaṇapadamanuktadvijopalakṣaṇam ।

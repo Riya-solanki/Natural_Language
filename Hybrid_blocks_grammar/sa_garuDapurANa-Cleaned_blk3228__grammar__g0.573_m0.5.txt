@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3228 | label: grammar | g:0.573 m:0.5 ---
+
+niḥ śaṅkaṃ kiṃ manuṣyāḥ kuruta parahitaṃ yuktamagre hitaṃ yanmodadhvaṃ kāminībhirmadanaśarahatā mandamandātidṛṣṭyā ।
+mā pāpaṃ saṃkurudhvaṃ dvijahariparamāḥ saṃbhajadhvaṃ sadaiva āyurniḥ śeṣameti skhalati jalaghaṭībhūtamṛtyucchalena ।।

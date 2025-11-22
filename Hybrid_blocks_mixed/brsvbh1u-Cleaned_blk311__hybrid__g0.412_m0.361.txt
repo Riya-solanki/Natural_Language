@@ -1,0 +1,7 @@
+--- source: brsvbh1u-Cleaned.txt | block: 311 | label: hybrid | g:0.412 m:0.361 ---
+
+tasmātsarvamavadātam ।
+śrutiśca ayato vā'iti janma darśayati, ayena jātāni jīvanti'iti jīvanaṃ sthitim, ayatprayanti'iti tatraiva layam ।
+tasya ca nirṇayavākyam ।
+atra ca pradhānādisaṃśaye nirṇayavākyam-ānandāddhyeveti ।
+etaduktaṃ bhavati-yathā rajjvajñānasahitarajjūpādānā hi dhārā rajjvāṃ satyāmasti, rajjvāmeva ca līyate, evamavidyāsahitabrahmopādānaṃ jagat jāyate, brahmaṇyevāsti, tatraiva ca līyatā iti siddham ।।

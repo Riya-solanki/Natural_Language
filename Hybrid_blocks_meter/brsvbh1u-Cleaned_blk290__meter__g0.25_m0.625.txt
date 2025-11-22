@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 290 | label: meter | g:0.25 m:0.625 ---
+
+atyantāprasiddhatayā brahmaṇo apadārthasyāvākyārthatvāt ।
+tasmāllakṣaṇābhāvāt, na brahma jijñāsitavyamityātyākṣepābhiprāyaḥ ।
+tamimamākṣepaṃ bhagavān sūtrakāraḥ pariharati-'janmādyasya yataḥ'iti ।
+mā bhūdanubhūyamānaṃ jagattaddharmatayā tādātmyena vā brahmaṇo lakṣaṇam,

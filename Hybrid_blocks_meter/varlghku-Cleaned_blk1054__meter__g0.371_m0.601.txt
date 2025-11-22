@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1054 | label: meter | g:0.371 m:0.601 ---
+
+saṃkhyāsupūrvasya ।।
+pādasya lopaḥ syātsamāsānto bahuvrīhau । supāt ।।

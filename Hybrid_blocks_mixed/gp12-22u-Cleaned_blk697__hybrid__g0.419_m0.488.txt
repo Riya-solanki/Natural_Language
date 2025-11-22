@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 697 | label: hybrid | g:0.419 m:0.488 ---
+
+rajo-bhūr yavasādy-arthas tasmān nendro gavāśrayaḥ ।
+kintu govardhanākhyāna-kṣauṇī-bhṛd yaḥ sa eva saḥ ।। nijājīvyatayā gāvaḥ kulāgatyā ca bhū-surāḥ ।
+āśrayatve samakṣatvaṃ yānty ete na divaukasaḥ ।। [anuṣṭubh]

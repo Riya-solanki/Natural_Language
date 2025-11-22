@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7978 | label: meter | g:0.25 m:0.625 ---
+
+sa vivṛtya svakau bāhū sṛkkiṇī parilelihan ।
+bhedayannuruvātena pretāṃstānsaṃmukho yayau ।।

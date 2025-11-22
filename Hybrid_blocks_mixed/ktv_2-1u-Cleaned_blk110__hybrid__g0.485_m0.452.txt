@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 110 | label: hybrid | g:0.485 m:0.452 ---
+
+na hi puruṣaḥ svavyāpāraṃ muktvānyad anuṣṭhātuṃ śaktaḥ ।
+praiṣāś cainam anuṣṭhāpayanti ।
+te yadi tadvyāpāraṃ kathaṃcin nopādadyuḥ, na niyokutṃ śaknuyur ity evam api bhāvanākṣepasiddhiḥ ।
+yāvāṃś ca brāhmaṇagataḥ praiṣaḥ sa sarvaḥ prāptyabhāvād vidhir eva bhavatīti vināpi smaraṇena

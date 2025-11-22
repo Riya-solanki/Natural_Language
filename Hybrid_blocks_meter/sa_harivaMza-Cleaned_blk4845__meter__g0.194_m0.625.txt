@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4845 | label: meter | g:0.194 m:0.625 ---
+
+ati vāyor atha gatim āsthāya garuḍas tadā 
+siddhacāraṇasaṃghānāṃ śubhaṃ mārgam avātarat ।।

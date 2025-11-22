@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 597 | label: grammar | g:0.594 m:0.5 ---
+
+yad vrīḍābharabhugnam āsyakamalaṃ yac cakṣur atyullasat pakṣmaśreṇi yad aṅgam aṅgajamanorājyaśriyām āśrayaḥ ।
+yad vardhiṣṇu manobhavapranayitā yan mandamanyugrahas tenaiveha mano haraty adharitaprauḍhā navoḍhā na kim ।।

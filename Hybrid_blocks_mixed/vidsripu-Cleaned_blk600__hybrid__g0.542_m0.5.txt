@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 600 | label: hybrid | g:0.542 m:0.5 ---
+
+idam amṛtam ameyaṃ seyam ānandasindhur madhumadhuram apīdaṃ kiṃcid antar dhunoti ।
+yad ayam udayalīlālālasānāṃ vadhūnāṃ rativinimayabhājāṃ kelibhir yāti kālaḥ ।।

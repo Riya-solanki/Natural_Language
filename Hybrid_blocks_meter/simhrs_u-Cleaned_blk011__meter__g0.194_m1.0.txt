@@ -1,0 +1,10 @@
+--- source: simhrs_u-Cleaned.txt | block: 11 | label: meter | g:0.194 m:1.0 ---
+
+tatrānujo mādhava-nāyakendro
+dig-antarāla-prathita-pratāpaḥ ।
+yasyābhavan vaṃśa-karā narendrās
+tanūbhavā veda-girīndra-mukhyāḥ ।।
+tasyāgrajanmā bhuvi rāja-doṣair
+aprota-bhāvād anapota-saṃjñām ।
+khyātāṃ dadhāti sma yathārtha-bhūtām
+ananta-sajñāṃ ca mahīdharatvam ।।

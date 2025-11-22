@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 64 | label: meter | g:0.25 m:0.5 ---
+
+śrīsiṅgabhūpa samaye samaye bhavantam āsthānamaṇṭapagataṃ janarañjanāya ।
+kalyāṇahemakalaśaiḥ samamātapatrair āndolikāḥ sapadi sevitumāpatanti ।।

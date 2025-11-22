@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5400 | label: meter | g:0.25 m:0.555 ---
+
+karpūragavyasarpirbhyāṃ prahāraḥ pūrito hara ।
+śastrodbhavaḥ sabaddhaśca śuklavarṇena śaṅkara ! ।
+pākaṃ ca vedanāṃ caiva saṃspṛśedvṛṣabhadhvaja ।।

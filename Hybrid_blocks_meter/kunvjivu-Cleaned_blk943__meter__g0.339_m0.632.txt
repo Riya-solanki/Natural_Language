@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 943 | label: meter | g:0.339 m:0.632 ---
+
+iti ।
+parivartanaṃ ca sāvantarāvakāśe vastvantarasyāvasthānam ।
+asau parivṛttiralaṅkāro abhidhīyate ।
+sā ca bahuprakārāekasyaiva viṣayiṇā samucitaviṣayāvakāśe viṣayāntaraṃ parivartate ।
+yathā

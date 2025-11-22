@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4358 | label: meter | g:0.25 m:0.555 ---
+
+bhūmiṃ vikramamāṇasya mahārūpasya tasya vai ।
+dakṣiṇo abhūt stanaścandraḥ sūryo abhūdatha cottaraḥ ।
+nakṣaścākramato nābhiṃ sūryendū savyadakṣiṇau ।।

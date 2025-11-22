@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 94 | label: grammar | g:0.583 m:0.5 ---
+
+-anirvacanīyakhyātivādī pratyāha-yatpunarāropita bhāvāntaratoyātmanā marīcayo bhāsanta ityavādīḥ, tatretthaṃ vicāryate tadvāsat, nādya ityāha-hanteti ।

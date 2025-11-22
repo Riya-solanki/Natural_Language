@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 847 | label: grammar | g:0.75 m:0.5 ---
+
+tasminyāge pūrvaṃ [śuddhikāraṇāt] śuddhihetoḥ dvijādyucchiṣṭasparśaśāntyai [ṣaḍahopoṣitaḥ] kramādekāhadvyahatryahaṣaḍahopoṣito [vanyāśano api vā] vanyaiḥ nīvārādibhiḥ kṛtavṛttirvā yaṣṭavyamantraṃ lakṣaṃ japet। yadi vājānataḥ sthito apyatikramastadā ayutaṃ juhuyāt। anyathā [dviguṇaṃ] taddviguṇam। japasya cāyameva kramaḥ। yathā homastathā japaḥ iti śruteḥ।।

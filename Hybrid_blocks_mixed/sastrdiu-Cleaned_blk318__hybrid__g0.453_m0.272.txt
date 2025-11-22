@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 318 | label: hybrid | g:0.453 m:0.272 ---
+
+abhāvo api pramāṇābhāvo nāstītyasyārthasyāsaṃnikṛṣṭasyeti ।
+kathaṃ punaḥ pramāṇābhāvaḥ pramāṇalakṣaṇaṃ viparītatvāt ।
+pūrvoktasadupalambhakapratyakṣādipramāṇapañcakābhiprāyo ayaṃ pramāṇaśabdaḥ ।
+tadabhāvaśca ṣaṣṭhasya lakṣaṇamiti nānupapattiḥ ।
+kimasya prameyam ।
+uktaṃ nāstītyarthasya iti ।
+sarvaṃ hi vastu sadasadātmanā dvavidhaṃ, tadyadā yatra sadrūpeṇa bodhakānāṃ pratyakṣādīnāṃ sadrūpabodhanāyotpattuṃ yogyatve satyapi yo anutpādod daśyādarśanayogyanupalambhādiparyāyo bhāṣye pramāṇābhāvaśabdenoktasyenaivendriyaśabdādisthānīyena nāstīti pratīyate bhūtale atra ghaṭo nāstīti ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1522 | label: meter | g:0.194 m:0.5 ---
+
+yam āhur agner yantāraṃ sarvaprabhavam īśvaram 
+saptasvaragatā yasya yonir gībhir udīryate ।।

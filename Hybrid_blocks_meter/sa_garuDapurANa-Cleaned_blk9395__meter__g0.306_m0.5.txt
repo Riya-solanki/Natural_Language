@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9395 | label: meter | g:0.306 m:0.5 ---
+
+sā tithirmāsike śrāddhe mṛto yasmin dine naraḥ ।
+riktayośca tripakṣe ca sā tithirnādriyeta vai ।।

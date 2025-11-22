@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4315 | label: meter | g:0.194 m:0.5 ---
+
+tathā nāgapatiṃ toye kāliyaṃ ca mahaujasam 
+nirjitya puṇḍarīkākṣaḥ preṣayām āsa sāgaram ।।

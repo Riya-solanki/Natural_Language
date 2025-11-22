@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 195 | label: hybrid | g:0.476 m:0.5 ---
+
+emeva śūnyatapratiṣṭhitu eṣa sattvo jagati kriyāṃ vividha darśayate vicitrām 
+sattvāna jñānapraṇidhānaadhiṣṭhānameva na ca nirvṛtiṃ spṛśati śūnyata nāsti sthānam ।।

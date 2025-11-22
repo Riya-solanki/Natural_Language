@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 817 | label: meter | g:0.25 m:0.915 ---
+
+tadevaṃ paramatamupanyasya svamatamāha- pūrvavadvā ।
+ayamabhisaṃdhiḥ-yasya mataṃ vastuno ahitvenābhedaḥ ।
+kuṇḍalatvena bheda iti,

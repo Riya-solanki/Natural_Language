@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1211 | label: meter | g:0.194 m:1.0 ---
+
+prathamaṃ pītavarṇaṃ tu saśailavanakānanam 
+vanopavanasaṃyuktaṃ hemaprākāramaṇḍitam ।।

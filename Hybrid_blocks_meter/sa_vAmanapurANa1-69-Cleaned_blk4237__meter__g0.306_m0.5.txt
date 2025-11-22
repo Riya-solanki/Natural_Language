@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4237 | label: meter | g:0.306 m:0.5 ---
+
+taṃ jātaṃ brāhmaṇī putraṃ jaḍaṃ mūkaṃ tvacakṣuṣam ।
+manyamānā gṛhadvāri ṣaṣṭhe ahani samutsṛjat ।।

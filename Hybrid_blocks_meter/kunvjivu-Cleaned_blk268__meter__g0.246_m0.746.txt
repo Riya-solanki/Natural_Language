@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 268 | label: meter | g:0.246 m:0.746 ---
+
+atra pūrvatrodāharaṇayorbhūṣaṇaguṇenaiva tadguṇaparipoṣaḥ, itaratra ca svabhāvaudāryābhidhānena ।
+aucityasyaiva chāyāntareṇa svarūpamunmīlayati

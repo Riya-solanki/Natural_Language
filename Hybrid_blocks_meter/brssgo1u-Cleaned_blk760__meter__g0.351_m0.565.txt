@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 760 | label: meter | g:0.351 m:0.565 ---
+
+FN aatha yā etā hṛdayasya nāḍyaḥ' ityādi nāḍīkhaṇḍaḥ ।
+tatrādityagrahānurodhena mumukṣostatprāptirabhihiteti saṃbandhaḥ ।

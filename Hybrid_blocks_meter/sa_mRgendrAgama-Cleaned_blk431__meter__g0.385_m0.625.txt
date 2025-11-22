@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 431 | label: meter | g:0.385 m:0.625 ---
+
+bhūmiprādhānikagranthividyābindukalādiṣu 
+guṇakārāḥ daśādyāḥ syur nādakoṭeradho mune ।।

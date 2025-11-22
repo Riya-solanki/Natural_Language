@@ -1,0 +1,8 @@
+--- source: brssbh1u-Cleaned.txt | block: 309 | label: grammar | g:0.561 m:0.357 ---
+
+atrocyate- bhavedeṣānavakḷptiḥ, yadyetadevaikaṃ sthānamasya nirdiṣṭaṃ bhavet ।
+santi hyanyānyapi pṛthivyādīni sthānānyasya nirdiṣṭāni- ayaḥ pṛthivyāṃ tiṣṭhan' ityādinā ।
+teṣu hi cakṣurapi nirdiṣṭam- ayaścakṣuṣi tiṣṭhan' iti ।
+asthānādivyapadeśāt' ityādigrahaṇenaitaddarśayati- na kevalaṃ sthānamevaikamanucitaṃ brahmaṇo nirdiśyamānaṃ dṛśyate, kiṃ tarhi nāmarūpamityevañjātīyakamapyanāmarūpasya brahmaṇo anucitaṃ nirdiśyamānaṃ dṛśyate- atasyoditi nāma' ahiraṇyaśmaśruḥ' ityādi ।
+nirguṇamapi sadbrahma nāmarūpagatairguṇaiḥ saguṇamupāsanārthaṃ tatra tatropadiśyata ityetadapyuktameva ।
+sarvagatasyāpi brahmaṇa upalabdhyarthaṃ sthānaviśeṣo na virudhyate, śālagrāma iva viṣṇorityetadapyuktameva ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 785 | label: meter | g:0.25 m:0.75 ---
+
+prakāmamantaḥpurasundarīṇāṃ vapurvilāsaiḥ kalitekṣaṇo api ।
+anuddhato dharmapathānurāgādudyogavānindriyanirjaye api ।।

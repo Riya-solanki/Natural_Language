@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1051 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca tad-dine' pi śrī-kṛṣṇa-rāmayoḥ svadhāma-samāgamanaṃ jātam, kintu tad-vṛttam aniṣṭam iti tad-iṣṭa-gaṇaḥ sarva evāvariṣṭa । tac ca, na jāne kiṃ-vadantī kiṃvadantī syād, iti sacintībhūya ।

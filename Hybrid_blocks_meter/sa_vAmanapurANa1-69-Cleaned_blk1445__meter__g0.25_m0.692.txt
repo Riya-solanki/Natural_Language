@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1445 | label: meter | g:0.25 m:0.692 ---
+
+pulastya uvāca ।
+tataḥ saṃpūjito rudraḥ śailena prītimānabhūt ।
+sasmāra ca maharṣistu arundhatyā samaṃ tataḥ ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1627 | label: grammar | g:0.604 m:0.5 ---
+
+ity atra tapodhaneṣu gūḍha-dāhātmaka-tejaḥ-sadbhāve sādhye tat-sādhakasya anya-tejas tiraskāra-janita-tejaḥ-samudgāra-rūpasya hetoḥ sūrya-kānteṣu darśitatvād dṛṣṭāntaḥ ।

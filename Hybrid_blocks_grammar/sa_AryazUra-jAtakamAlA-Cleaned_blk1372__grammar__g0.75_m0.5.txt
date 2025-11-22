@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1372 | label: grammar | g:0.75 m:0.5 ---
+
+bodhisattvabhūtaḥ kilāyaṃ bhagavān mahābodhirnāma parivrājako babhūva । sa gṛhasthabhāva eva parividitakramavyāyāmo lokābhimatānāṃ vidyāsthānānāṃ kṛtajñānakautūhalaścitrāsu ca kalāsu pravrajyāśrayāllokahitodyogācca viśeṣavattaraṃ dharmaśāstreṣvavahitamatisteṣvācāryakaṃ padamavāpa । sa kṛtapuṇyatvājjñānamāhātmyāllokajñatayā pratipattiguṇasauṣṭhavācca yatra yatra gacchati sma tatra tatraiva viduṣāṃ vidvatpriyāṇāṃ ca rājñāṃ brāhmaṇagṛhapatīnāmanyatīrthikānāṃ ca pravrajitānāmabhigamanīyo bhāvanīyaśca babhūva ।

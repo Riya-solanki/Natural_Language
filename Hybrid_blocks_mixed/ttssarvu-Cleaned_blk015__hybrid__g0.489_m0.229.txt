@@ -1,0 +1,4 @@
+--- source: ttssarvu-Cleaned.txt | block: 15 | label: hybrid | g:0.489 m:0.229 ---
+
+yathā sṛṣṭiprakriyānirvāhakastriguṇapariṇamastathā pratisañcāraḥ pratikūlopi vipariṇāmosti tathā ca pratilomapariṇāmena tattatkāryāṇāṃ svasvakāraṇe laye jāte triguṇāyāḥ prakṛteḥ sāmyasthitireva pralaya iti sūcitam ।
+tadā ca samānapariṇāmatvena vailakṣaṇyānāvirbhāva iti bhāvaḥ ।।

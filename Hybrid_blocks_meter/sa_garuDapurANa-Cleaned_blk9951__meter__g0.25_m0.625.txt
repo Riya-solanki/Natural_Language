@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9951 | label: meter | g:0.25 m:0.625 ---
+
+caturvidhaśarīrāṇi dhṛtvā muktvā sahasraśaḥ ।
+sukṛtānmā navo bhūtvā jñānī cenmokṣamāpnuyāt ।।

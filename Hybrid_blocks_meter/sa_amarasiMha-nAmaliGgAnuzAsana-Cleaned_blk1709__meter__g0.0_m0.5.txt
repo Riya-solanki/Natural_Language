@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1709 | label: meter | g:0.0 m:0.5 ---
+
+vaitaṃsikaḥ kauṭikaś ca māṃsikaś ca samaṃ trayam

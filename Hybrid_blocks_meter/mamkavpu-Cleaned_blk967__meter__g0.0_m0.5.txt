@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 967 | label: meter | g:0.0 m:0.5 ---
+
+rasasya svaśabdena śṛṅgārādiśabdena vā vācyatvam । krameṇodāharaṇam

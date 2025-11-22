@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 644 | label: meter | g:0.25 m:0.625 ---
+
+tubhyameva prayacchāmi madrīṃ bhāryāmimāmaham ।
+vyatītya na hi śītāṃśuṃ candrikā sthātumarhati ।।

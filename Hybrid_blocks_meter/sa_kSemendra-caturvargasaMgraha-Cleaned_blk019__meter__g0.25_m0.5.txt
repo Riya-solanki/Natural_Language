@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 19 | label: meter | g:0.25 m:0.5 ---
+
+vandyaḥ sa puṃsāṃ tridaśābhivandyaḥ kāruṇyapuṇyopacayakriyābhiḥ ।
+saṃsārasāratvam upaiti yasya paropakārābharaṇaṃ śarīram ।।

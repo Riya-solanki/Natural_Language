@@ -1,0 +1,16 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4711 | label: grammar | g:0.729 m:0.095 ---
+
+aho vīryamaho dhairyam aho dhārṣṭyaṃ ca durmateḥ 
+yaḥ puraṃ bhavanaṃ cedaṃ praviṣṭo naḥ subāliśaḥ ।। 
+evam uktvā punas tāṃs tu kiṃkarāṃś codayad bhṛśam ।। te tasyājñām atho gṛhya susaṃnaddhā viniryayuḥ । yatrāniruddho hy abhavat tatrāgacchan mahābalāḥ । 
+nānāśastrodyatakarā nānārūpadharās tu te 
+dānavāḥ samabhikruddhāḥ prādyumnivadhakāṅkṣiṇaḥ ।। 
+rudate tadbalaṃ dṛṣṭvā bāṣpeṇāvṛtalocanā । prādyumnivadhabhītā sā bāṇaputrī yaśasvinī ।। tatas tu rudatīṃ dṛṣṭvā tām uṣāṃ mṛgalocanām । hā hā kānteti vepantīm aniruddho abhyabhāṣata ।। abhayaṃ te astu saśroṇi mā bhais tvaṃ hi mayi sthite । saṃprāpto harṣakālas te na te asti bhayakāraṇam ।। kṛtsno ayaṃ yadi bāṇasya bhṛṭyavargo yaśasvini । āgaccheta na me cintā bhīru paśyādya vikramam ।। tasya sainyasya ninadaṃ śrutvābhyāgacchatas tataḥ । sahasaivotthitaḥ śrīmān prādyumniḥ kim iti bruvan ।। athāsyāpaśyata balaṃ nānāpraharaṇodyatam । sthitaṃ samantatas tatra parivārya gṛhaṃ mahat ।। tato abhyagacchat tvarito yatra tad veṣṭitaṃ balam । kruddhaḥ svabalam āsthāya saṃdaśya daśanacchadam ।। tato yuddham apoḍhānāṃ bāṇeyānāṃ niśamya tu । sā citralekhā sasmāra nāradaṃ devadarśanam ।। tato nimeṣamātreṇa saṃprāpto munipuṃgavaḥ । smṛto atha citralekhāyāḥ puraṃ śoṇitasāhvayam ।। antarikṣe sthitas tatra so aniruddham athābravīt । mā bhayaṃ svasti te vīra prāpto asmy abhimatas tava ।। tataś ca nāradaṃ dṛṣṭvā so abhivādya mahābalaḥ । prahṛṣṭaḥ sumanā bhūtvā yuddhārtham abhyavartata । vadhyatāṃ vadhyatām eṣa gṛhyatāṃ gṛhyatām ayam । hanyatāṃ hanyatāṃ kṣipram ity ūcur dānavās tada । 
+tatas teṣāṃ svanaṃ śrutvā sarveṣām eva garjatām 
+sahasaivotthitaḥ śūras totrārdita iva dvipaḥ ।। 
+niruddho api tayā tatra bahuśo yuddhadurmadaḥ । bhītayā bhīta evāsau dhāvati sma tathāsurān । 
+tam āpatantaṃ dṛṣṭvaiva saṃdaṣṭauṣṭhaṃ mahābhujam 
+prāsādāc cāvarohantaṃ bhayārtā vipradudruvuḥ ।। 
+nadantaṃ siṃhavat tadā ।tasya nādena vai rājan ।
+antaḥpuradvāragataṃ parighaṃ gṛhya cātulam 
+vadhāya teṣāṃ cikṣepa nānāyudhaviśāradaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 335 | label: meter | g:0.25 m:0.5 ---
+
+viṣṇuḥ pitāmahaścobhau haraliṅgaṃ sametya hi ।
+kṛtāñjalipuṭau bhūtvā stotuṃ devaṃ pracakratuḥ ।।

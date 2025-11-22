@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2876 | label: meter | g:0.25 m:0.5 ---
+
+śannodevyā payaḥ kṣiptvā yavo asīti yavāṃstathā ।
+yādivyā iti mantreṇa hasteṣveva viniḥ kṣipet ।।

@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 9 | label: grammar | g:0.646 m:0.5 ---
+
+vastūnāṃ jaḍājaḍabhedena dvaividhyam । tatra jaḍasvarūpasya jīvanniṣṭhā siddhiḥ, jīvatāṃ puno jīvatvaṃ jīvanaṃ jñānakriye eva ।।

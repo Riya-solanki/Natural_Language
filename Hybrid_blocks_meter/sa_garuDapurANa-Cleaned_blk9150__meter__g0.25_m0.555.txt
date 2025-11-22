@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9150 | label: meter | g:0.25 m:0.555 ---
+
+śayyā dakṣiṇayā yuktā āyudhāmbarasaṃyutā ।
+haimaśrīpatinā yuktā deyā viprāya śarmaṇe ।
+tathā pretatvamukto asau modate saha daivataiḥ ।।

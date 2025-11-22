@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 293 | label: grammar | g:0.667 m:0.5 ---
+
+ṛco vā gītimātraṃ vā sāma dravyāntaraṃ na tu gītibhedāt tu gṛhyante tā eva vikṛtā ṛcaḥ ।।

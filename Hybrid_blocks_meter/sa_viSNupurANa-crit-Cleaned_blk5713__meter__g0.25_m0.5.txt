@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5713 | label: meter | g:0.25 m:0.5 ---
+
+tato arjunaḥ pretakāryaṃ kṛtvā teṣāṃ yathāvidhi 
+niścakrāma janaṃ sarvaṃ gṛhītvā vajram eva ca ।।

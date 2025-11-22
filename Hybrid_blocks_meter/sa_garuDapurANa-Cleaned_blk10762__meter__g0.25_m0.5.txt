@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10762 | label: meter | g:0.25 m:0.5 ---
+
+tāveva haṃsahiḍaṃbakau jñeyau tau ca janārdana ।
+vipracittisamo jñeyo bhaumo vai bhūtale smṛtaḥ ।।

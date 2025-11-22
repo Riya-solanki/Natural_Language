@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 640 | label: grammar | g:0.562 m:0.5 ---
+
+kalahakalayā yat saṃvṛtyai trapāvanatānanā pihitapulakodbhedaṃ subhrūś cakarṣa na kañcukam ।
+dayitam abhitas tām utkaṇṭhāṃ vivavrur anantaraṃ jhaṭiti jhaṭiti truṭyanto antaḥ stanāṃśukasandhayaḥ ।।

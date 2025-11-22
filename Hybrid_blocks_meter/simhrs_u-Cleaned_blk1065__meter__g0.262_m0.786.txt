@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 1065 | label: meter | g:0.262 m:0.786 ---
+
+atha hāsyaḥ-
+vibhāvair anubhāvaiś ca svocitair vyabhicāribhiḥ । 
+hāsaḥ sadasya-rasyatvaṃ nīto hāsya itīryate ।।
+tatrālasya-glāni-nidrā-vyādhy-ādyā vyabhicāriṇaḥ । 
+eṣa dvedhā bhaved ātma-para-sthiti-vibhāgataḥ ।।
+ātmasthas tu yadā svasya vikārair hasati svayam ।

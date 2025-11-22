@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1303 | label: meter | g:0.307 m:0.623 ---
+
+kvākarāṇāruṣāṃ saṃkhyā saṃkhyātāḥ kāraṇakrudhaḥ ।
+kāraṇe api na kupyanti ye te jagati pañcaṣāḥ ।।

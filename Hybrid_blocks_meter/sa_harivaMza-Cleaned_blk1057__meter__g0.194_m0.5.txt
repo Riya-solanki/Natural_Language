@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1057 | label: meter | g:0.194 m:0.5 ---
+
+yasya yajñe jagau gāthāṃ gandharvo nāradas tathā 
+varīdāsātmajo vidvān mahimnā tasya vismitaḥ ।।

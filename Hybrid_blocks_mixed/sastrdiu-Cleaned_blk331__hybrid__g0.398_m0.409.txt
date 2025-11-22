@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 331 | label: hybrid | g:0.398 m:0.409 ---
+
+atha naṣṭo api pramāṇānudayaḥ saṃprati smaryamāṇo hyastanāgnijñānam ।
+syādevaṃ yadi pramāṇābhāvo jñāyamānatayā meyābhāvaṃ bodhayet liṅgamiva liṅginam ।
+na ca tathā saṃbhavati anavasthāprasaṅgāt ।
+prameyābhāvaṃ bodhayet jñātavyaḥ ।
+sopicābhāvatvādanyenābhāvajñānena jñātavyaḥ, so apyanyeneti na janmasahasreṇāpi ghaṭābhāvo avadhāryeta ।
+tasmātsattāmātreṇaiva pramāṇābhāvo abhāvajñānamutpādayati netrādivadityaṅgīkartavyam, ataḥ pramīyamāṇasya ghaṭasya kathaṃ prākkālābhāvapramitiriti vaktavyam ।।

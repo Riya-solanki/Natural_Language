@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2726 | label: meter | g:0.194 m:0.625 ---
+
+ṣaḍaṅgabhogasaṃsthānaṃ paṅkti ratnaṃ ca pañcakam 
+guhyaṣaṭkaṃ tathā ḍādi sthānaṣaṭkam ataḥ param ।।

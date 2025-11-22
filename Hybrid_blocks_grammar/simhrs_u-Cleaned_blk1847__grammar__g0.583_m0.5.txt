@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1847 | label: grammar | g:0.583 m:0.5 ---
+
+atra prasanna-rāghava-nāmety uttarasya saptākṣarāṣṭa-paṅkti-krameṇa likhite' sminn eva śloke mṛgyatvād antar-lāpo nāmeyam ।

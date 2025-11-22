@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 758 | label: meter | g:0.25 m:0.5 ---
+
+tatrāpi muktiphaladā kriyā tasmin bhaviṣyati ।
+tīrthe ca sarvatīrthānāṃ yasmin snāto dvijottamāḥ ।।

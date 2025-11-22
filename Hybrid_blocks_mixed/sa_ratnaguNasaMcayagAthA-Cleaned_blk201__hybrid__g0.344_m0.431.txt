@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 201 | label: hybrid | g:0.344 m:0.431 ---
+
+emeva śūnyatasthito vidu bodhisattvo jñānarddhipāramigato aniketacārī 
+vividhāṃ kriyāṃ jagati darśayate anantāṃ na ca bhajyatī na pi ca khidyati kalpakoṭī ।।

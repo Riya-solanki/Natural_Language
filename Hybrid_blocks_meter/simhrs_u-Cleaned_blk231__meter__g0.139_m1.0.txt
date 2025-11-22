@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 231 | label: meter | g:0.139 m:1.0 ---
+
+saṅgītasya, yathā-
+mādhavo madhura-mādhavī-latā-
+maṇḍape paṭu-raṭan-madhuvrate ।
+saṃjagau śravaṇa-cāru gopikā-
+māna-mīna-vaḍiśena veṇunā ।।

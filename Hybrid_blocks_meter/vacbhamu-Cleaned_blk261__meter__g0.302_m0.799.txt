@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 261 | label: meter | g:0.302 m:0.799 ---
+
+ityāntaraślokaḥ ।
+atraivārthe śrutīrudāharati,- tathā ca śāstram-yasyāmatamiti ।
+prakṛtamupasaṃharati- ato avidyākalpita

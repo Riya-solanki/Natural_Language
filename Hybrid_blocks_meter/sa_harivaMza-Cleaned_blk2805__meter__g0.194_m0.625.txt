@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2805 | label: meter | g:0.194 m:0.625 ---
+
+vanaspatīnāṃ sarveṣāṃ susrāvendunibhaṃ payaḥ 
+vavarṣuḥ puṣpavarṣaṃ ca nedus tūryāṇi cāmbare ।।

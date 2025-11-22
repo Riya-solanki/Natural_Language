@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 130 | label: meter | g:0.251 m:0.623 ---
+
+so api na svata eva syād api yogyasya vastunaḥ 
+sarvathā sarvadā yasmāc citprayojyamacetanam ।।

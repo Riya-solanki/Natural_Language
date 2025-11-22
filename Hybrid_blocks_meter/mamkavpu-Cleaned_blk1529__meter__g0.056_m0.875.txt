@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1529 | label: meter | g:0.056 m:0.875 ---
+
+{mahaujaso mānadhanā dhanārcitā
+dhanurbhṛtaḥ saṃyati labdhakīrtayaḥ ।
+na saṃhatāstasya na bhedavṛttayah
+priyāṇi vāñchantyasubhiḥ samīhitum ।।}

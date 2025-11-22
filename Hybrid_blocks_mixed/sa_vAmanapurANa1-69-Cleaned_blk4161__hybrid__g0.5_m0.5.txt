@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4161 | label: hybrid | g:0.5 m:0.5 ---
+
+ete hi mukhyāḥ surasiddhadānavaiḥ pujyāstathā saṃnihitā mahītale ।
+yairdṛṣṭamātraiḥ sahasaiva nāśaṃ prayāti pāpaṃ dvijavarya kīrtanaiḥ ।।

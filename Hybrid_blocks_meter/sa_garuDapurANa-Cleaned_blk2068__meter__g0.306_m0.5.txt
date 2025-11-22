@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2068 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ samastena guṇodayena yanmauktikaṃ yogamupāgataṃ syāt ।
+na tasya bhartāramanarthajāta eko api kaścit samupaiti doṣaḥ ।।

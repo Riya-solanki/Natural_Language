@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4289 | label: meter | g:0.194 m:0.5 ---
+
+kva pannago alpavīryo ayaṃ kva bhavān bhuvanāśrayaḥ 
+prītidveṣau samotkṛṣṭagocarau ca yato avyaya ।।

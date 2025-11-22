@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 893 | label: meter | g:0.28 m:0.629 ---
+
+hariruvāca ।
+hayagrīvasya devasya pūjanaṃ kathayāmi te ।
+tacchṛṇuṣva jagannātho yena viṣṇuḥ pratuṣyati ।।

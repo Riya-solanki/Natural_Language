@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1375 | label: meter | g:0.194 m:0.625 ---
+
+atra yogaṃ pravakṣyāmi yogināṃ śubhadāyakam 
+yena paśyanti taṃ liṅgaṃ pūrvoktaṃ guṇaśālinam ।।

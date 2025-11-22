@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 80 | label: meter | g:0.25 m:0.5 ---
+
+raudrāṇāṃ vijayaṃ pūrvaṃ niḥśvāsaṃ pārameśvaram ।
+svāyambhuvaṃ tathāgneyaṃ vīrabhadraṃ ca rauravam ।

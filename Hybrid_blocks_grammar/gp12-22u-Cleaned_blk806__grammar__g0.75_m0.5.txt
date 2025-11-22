@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 806 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha sarve yathājñāpayantīti vidrutya punaḥ saṅgatya saṃhatya pratyabhāṣanta-sarvadaiva sarva-daivata-mānya! śatamanyo! manyāmahe te sarve śata-parva-sagarbha-vidyud-vahninā pralīnatām eva nītāḥ, yad bahir na hi vilokyante ।

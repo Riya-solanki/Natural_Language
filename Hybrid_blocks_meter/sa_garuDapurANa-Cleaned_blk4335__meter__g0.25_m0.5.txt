@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4335 | label: meter | g:0.25 m:0.5 ---
+
+srotomukheṣu ruddheṣu dhātuṣu svalpakeṣu ca ।
+vidāho manasaḥ sthāne bhavantyanye hyupadravāḥ ।।

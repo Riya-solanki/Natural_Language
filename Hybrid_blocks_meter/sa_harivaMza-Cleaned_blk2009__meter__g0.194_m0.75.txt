@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2009 | label: meter | g:0.194 m:0.75 ---
+
+etau pakṣau bhaviṣyanti rājānaḥ kālacoditāḥ 
+jātarāgāḥ pṛthivyarthe sarve saṃgrāmalālasāḥ ।।

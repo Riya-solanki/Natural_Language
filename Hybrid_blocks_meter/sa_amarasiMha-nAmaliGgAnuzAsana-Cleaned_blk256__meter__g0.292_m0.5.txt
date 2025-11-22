@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 256 | label: meter | g:0.292 m:0.5 ---
+
+āhāvastu nipānaṃ syādupakūpajalāśaye puṃsyevāndhuḥ prahiḥ kūpa udapānṃ tu puṃsi vā

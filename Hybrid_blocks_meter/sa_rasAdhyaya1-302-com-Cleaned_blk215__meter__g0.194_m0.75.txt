@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 215 | label: meter | g:0.194 m:0.75 ---
+
+tāmraṃ tyaktvotthitaṃ sūtaṃ luṇaṃ dvātriṃśadaṃśakam 
+kṛtaprākkulhaḍīmadhye ākṣipettaṃ samagrakam ।।

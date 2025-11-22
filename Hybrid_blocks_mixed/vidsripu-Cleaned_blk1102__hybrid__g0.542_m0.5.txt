@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1102 | label: hybrid | g:0.542 m:0.5 ---
+
+madoṣmāsaṃtāpād vanakarighaṭā yatra vimale mamajjur niḥśeṣaṃ taṭanikaṭa evonnatakarāḥ ।
+gate daivāc choṣaṃ varasarasi tatraiva taralā balagrāsatrāsād viśati śapharī paṅkamadhunā ।।

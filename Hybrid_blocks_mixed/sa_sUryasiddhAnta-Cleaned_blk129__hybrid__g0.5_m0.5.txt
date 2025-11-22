@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 129 | label: hybrid | g:0.5 m:0.5 ---
+
+vikṣepāpakramaikatve krāntir vikṣepasaṃyutā। digbhede viyutā spaṣṭā bhāskarasya yathāgatā।।

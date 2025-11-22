@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 411 | label: hybrid | g:0.426 m:0.432 ---
+
+kathaṃ tarhi tādrūpyaṃ vyakteḥ pratīyate ।
+idameva hi tādrūpyaṃ vyakteryat tat samavāyaḥ saṃbandhaḥ, tasyaiṣa mahimā yenādhāramādheyaṃ svabuddhyānurañjayati tasmādadoṣaḥ ।
+athavā tādātmyapratīterabhedopyastu, pūrvoktanyāyena bhedo api, tasmātpramāṇabalena bhinnābhinnatvameva yuktam ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 368 | label: grammar | g:0.75 m:0.5 ---
+
+sā bālā vayamapragalbhavacasaḥ sā strī vayaṃ kātarāḥ sā pīnonnatimatpayodharayugaṃ dhatte sakhedā vayam । sākrāntā jaghanasthalena guruṇā gantuṃ na śaktā vayaṃ doṣairanyajanāśritairapaṭavo jātāḥ sma ityadbhutam ।।

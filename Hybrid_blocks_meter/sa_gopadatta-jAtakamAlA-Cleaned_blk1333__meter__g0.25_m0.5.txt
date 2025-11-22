@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1333 | label: meter | g:0.25 m:0.5 ---
+
+vana iva bhavane api bodhisattvā viṣayasukhavyasanāparītasattvāḥ ।
+munaya iva vanāntavāsanimnāḥ praśamarasaikavihāriṇo bhavanti ।।

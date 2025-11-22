@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 76 | label: hybrid | g:0.392 m:0.532 ---
+
+tenaiva kriyate varṇā nityāḥ padāni ca, vākyāni tu puruṣaireva kriyante pauruṣeyatvādeva ।
+yathāvasthitāni vyajyamānāni vedavākyavadapauruṣeyāṇyeva syuḥ ।
+tataśca vaktrabhiprāyānumāpakatvamapi na syāt, tadyathādhyetṛbhirabhivyajyamānāni vedavākyāni nādhyetṝṇāmabhiprāyaṃ sūcayanti tathā puruṣavākyānyapi na sūcayeyuḥ ।
+yadi hi vyabhicāraśaṅkyā loke śabdasya prāmāṇyaṃ na saṃbhavatītyucyate, tarhi tadvaktrabhiprāyānumāne api tulyam ।
+anyathāsaṃvidānasyāpyanyathāvākyaracanādarśanāt ।
+kiṃ ca śabdasya cakṣurāderiva svasāmarthyena bodhakatvādvyabhicāre api na bodhakatvahāniḥ ।
+liṅgasyāvyabhicāriṇa eva gamakatvamiti vyabhicāriṇo aliṅgatvamupapannam ।।

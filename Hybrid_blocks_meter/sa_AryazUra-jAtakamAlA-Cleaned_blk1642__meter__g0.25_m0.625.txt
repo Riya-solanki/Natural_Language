@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1642 | label: meter | g:0.25 m:0.625 ---
+
+yadeva lobhadviṣataḥ pratāraṇāṃ vigarhitāmapyayamabhyupeyivān ।
+hatastadeveha yaśaḥparikṣayād dhruvaṃ paratrāpi ca dharmasaṃkṣayāt ।।

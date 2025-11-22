@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3128 | label: grammar | g:0.594 m:0.5 ---
+
+vyālīkaṇṭhapradeśāhyapi ca phaṇabhṛdbhāṣaṇā yā ca raudrī yā kṛṣṇā vyākulāgī rudhiranayanasaṃvyākulā vyāghrakalpā ।
+krodhe yaivogravaktrā sphuradanalaśikhā kākajihvā karālā sevyā na strī vidagdhā parapuragamanā bhrāntacittā virākta ।।

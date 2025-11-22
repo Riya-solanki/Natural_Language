@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4239 | label: meter | g:0.194 m:0.5 ---
+
+tāṃ vai sarve sumanasaḥ pūjayanti sma yādavāḥ 
+devavad divyavapuṣā krṣṇaḥ saṃrakṣito yayā ।।

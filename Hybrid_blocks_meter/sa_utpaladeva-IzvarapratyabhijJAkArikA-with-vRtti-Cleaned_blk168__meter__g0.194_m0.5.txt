@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 168 | label: meter | g:0.194 m:0.5 ---
+
+sukhādiṣu ca saukhyādihetuṣv api ca vastuṣu 
+avabhāsasya sadbhāve apy atītatvāt tathā sthitiḥ ।।

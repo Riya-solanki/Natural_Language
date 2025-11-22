@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 170 | label: grammar | g:0.571 m:0.409 ---
+
+kāntena prahito navaḥ priyasakhīvargeṇa baddhaspṛhaś cittenopahṛtaḥ smarāya na samutsraṣṭuṃ gataḥ pāṇinā ।
+āmṛṣṭo muhur īkṣito muhur abhighrāto muhur loṭhitaḥ pratyaṅgaṃ ca muhuḥ kṛto mṛgadṛśā kiṃ kiṃ na cūtāṅkuraḥ ।।
+vākkuṭasya

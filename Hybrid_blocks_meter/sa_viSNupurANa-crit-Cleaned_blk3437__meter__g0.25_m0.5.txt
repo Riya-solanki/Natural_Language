@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3437 | label: meter | g:0.25 m:0.5 ---
+
+śatārdhasaṃkhyās tava santi kanyās tāsāṃ mamaikāṃ nṛpate prayaccha 
+yat prārthanābhaṅgabhayād bibhemi tasmād ahaṃ rājavarātiduḥkhāt ।।

@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 146 | label: meter | g:0.056 m:0.625 ---
+
+saṅgānaṃ tad idaṃ paraspara-guṇa-grāmānubhūtiḥ svataḥ
+śarmāpy atra manorathāntara-kṛteḥ śaśvad babhūvāspadam ।
+yatrāliṅgana-cumbanādi-vidhaye tāsāṃ harer apy adaḥ
+saukhyaṃ lakṣyam abhūt parāvṛti-vidhāṃ cāveśitā nirmame ।। [śārdūla]

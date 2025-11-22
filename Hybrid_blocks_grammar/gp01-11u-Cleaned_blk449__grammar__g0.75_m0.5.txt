@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 449 | label: grammar | g:0.75 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca - nānusandadhātu nāma । tathāpi yāṃ tanayām atrakīyām apamāya svayam apanināya tasyāḥ pratidānasyāpi sad-bhāvābhāvāt katham iva nyaste' py asminn ātmīyatāṃ pratyapadyata ? āgamādāv api yasya nandanandana-nandātmaja-nandaja-nandatanaya-ballavīnandanādi-nāmāni tat-tad-abhīṣṭa-pradatayā nirdiṣṭānīti ।

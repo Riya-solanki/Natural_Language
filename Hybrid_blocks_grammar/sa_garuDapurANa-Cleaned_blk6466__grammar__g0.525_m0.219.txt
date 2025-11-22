@@ -1,0 +1,12 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6466 | label: grammar | g:0.525 m:0.219 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahmovāca ।
+atha sandhyāvidhaṃ vakṣye dvijātīnāṃ samāsataḥ ।
+apavitraḥ pavitro vā sarvāvasthāṃ gato api vā ।।
+yaḥ smaretpuṇḍarīkākṣaṃ sa bāhyābhyantaraḥ śuciḥ ।।
+gāyattrīcchando viśvāmitra ṛṣistripāt । samudrāḥ kukṣiścandrādityau locanau । agnirmukham । viṣṇurhṛdayam । brahmarudrau śiraḥ । rudraḥ śikhā । upanaya ne viniyogaḥ । oṃ bhūḥ pāde । bhuvaḥ jānuti । svaḥ hṛdaye । mahaḥ śirasi । janaḥ śikhāyām । tapaḥ kaṇṭhe । satyaṃ lalāṭe । oṃ hṛdayāya namaḥ । 
+oṃ bhūḥ śirase svāhā ।
+oṃ bhuvaḥ śikhāyai vauṣaṭ ।
+oṃ svaḥ kavacāya huṃ ।
+oṃ bhūrbhuvaḥ svaḥ astrāya phaṭ ।।

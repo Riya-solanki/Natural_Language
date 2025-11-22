@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10454 | label: meter | g:0.452 m:0.559 ---
+
+śeṣa uvāca ।
+nāhaṃ ca jāne tava pādamūlaṃ rudro na vetti garuḍo na veda ।
+ahaṃ vāṇyāḥ śataguṇāṃśahīno dattvā hyāyatanaṃ pāhi māṃ vāsudeva ।।

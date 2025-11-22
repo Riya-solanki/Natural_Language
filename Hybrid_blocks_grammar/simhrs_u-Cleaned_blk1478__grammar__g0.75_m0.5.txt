@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1478 | label: grammar | g:0.75 m:0.5 ---
+
+yathā tatraiva -vatsa rāmabhadra praśasto muhūrto vartate । tad adhyāssva pitryaṃ siṃhāsanam ity upakramya, vasiṣṭhaḥ-rāmabhadra dhanyo' si । yasya te bhagavān kubero' rthī ity antena vasiṣṭhena rāmabhadrasyābhiṣekāṅgīkaraṇa-kubera-vimāna-pratyarpaṇa-rūpayor arthayor darśanāt pūrva-bhāvaḥ ।

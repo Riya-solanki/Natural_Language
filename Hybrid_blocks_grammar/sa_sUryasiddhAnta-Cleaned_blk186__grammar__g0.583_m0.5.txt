@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 186 | label: grammar | g:0.583 m:0.5 ---
+
+vyastā vyastair yutāh svaih svaih karkaṭādyās tatas trayah। utkrameṇa ṣaḍevaite bhavantīṣṭās tulādayah।।

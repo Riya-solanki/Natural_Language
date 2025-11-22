@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 104 | label: hybrid | g:0.542 m:0.5 ---
+
+saṃtoṣāmbhaḥ pibati nibhṛtasvaccham icchāmayūrī bhrāntvā cāntaḥkaraṇahariṇo yāti viśrāntim antaḥ ।
+līnaś cāyaṃ śamatarujale śītale tāpatāntiṃ mīlatkāmas tyajati niyataṃ mattacittadvipendraḥ ।।

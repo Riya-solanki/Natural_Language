@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 248 | label: meter | g:0.194 m:0.625 ---
+
+guṇaiḥ śabdādibhir bhedo jātyādibhir abhinnatā 
+bhāvānām ittham ekatra pramātary upapadyate ।।

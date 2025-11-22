@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3351 | label: hybrid | g:0.521 m:0.5 ---
+
+parādhīnā nidrā paradṛdayakṛtyānusaraṇaṃ sadā helā hāsyaṃ niyatamapi śokena rahitam ।
+paṇe nyastaḥ kāyo viṭajanakhurairdāritagalo bahūtkaṇṭhavṛtirjagati gaṇikrāyā bahumataḥ ।।

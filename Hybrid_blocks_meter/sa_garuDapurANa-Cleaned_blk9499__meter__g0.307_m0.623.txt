@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9499 | label: meter | g:0.307 m:0.623 ---
+
+ācāryastasya śiṣyo vā yo dūre api hi gātrejaḥ ।
+nārāyaṇabaliṃ kuryāt tasyāddeśena bhaktitaḥ ।।

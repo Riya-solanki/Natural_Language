@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5650 | label: meter | g:0.246 m:0.806 ---
+
+manuṣyadeham utsṛjya saṃkarṣaṇasahāyavān 
+prāpta evāsmi mantavyo devendreṇa tathā suraiḥ ।।

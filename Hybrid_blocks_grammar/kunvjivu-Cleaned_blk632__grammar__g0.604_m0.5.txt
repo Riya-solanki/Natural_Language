@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 632 | label: grammar | g:0.604 m:0.5 ---
+
+tiṣṭhetkopavaśātprabhāvapihitā dīrghaṃ na sā kupyati svargāyotpatitā bhavenmayi punarbhāvārdramasyā manaḥ ।
+tāṃ hartuṃ vibudhadviṣo api na ca me śaktāḥ purovartinoṃ sā cātyantamagocaraṃ nayanayoryāteti ko ayaṃ vidhiḥ ।।

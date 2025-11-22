@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2432 | label: meter | g:0.25 m:0.75 ---
+
+sarvārthasiddhimālā tu svabhiṣekapradāyikā ।
+sā eva hṛdaye aṅguṣṭhamukhasandhānayojitā ।।

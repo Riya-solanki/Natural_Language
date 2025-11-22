@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 721 | label: grammar | g:0.562 m:0.5 ---
+
+vikira nayane mandacchāyaṃ bhavatv asitotpalaṃ vitara dayite hāsajyotsnāṃ nimīlatu paṅkajam ।
+vada suvadane lajjāmūkā bhavantu śikhaṇḍinaḥ paraparibhavo mānasthānair na mānini sahyate ।।

@@ -1,0 +1,4 @@
+--- source: brssbh3u-Cleaned.txt | block: 510 | label: meter | g:0.25 m:0.5 ---
+
+iha dehavyatiriktasyātmanaḥ sadbhāvaḥ samarthyate bandhamokṣādhikārasidamadhayo ।
+nahyasati dehavyatiriktātmani paralokāścodanā upapajadyerankasya vā brahmātmatvamupadiśyeta ।

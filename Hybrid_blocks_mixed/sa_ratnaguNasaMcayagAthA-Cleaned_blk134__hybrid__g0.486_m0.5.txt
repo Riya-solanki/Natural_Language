@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 134 | label: hybrid | g:0.486 m:0.5 ---
+
+yo eva paśyati sa paśyati sarvadharmān sarvānamātyakiriyā ti upekṣya rājā 
+yāvanti buddhakriya dharmata śrāvakāṇāṃ prajñāya pāramita sarva karoti tāni ।।

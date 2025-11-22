@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5065 | label: meter | g:0.284 m:0.649 ---
+
+upāttayajño devebhyo brāhmaṇeṣu nivatsyati 
+vihito yajña eṣo atra devaiś ca brāhmaṇair api । 
+tejasābhyāhṛtaṃ tejas tejasyevāvatiṣṭhate ।।

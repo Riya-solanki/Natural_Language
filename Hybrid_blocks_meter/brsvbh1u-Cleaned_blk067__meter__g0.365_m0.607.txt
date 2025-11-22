@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 67 | label: meter | g:0.365 m:0.607 ---
+
+padaṃ ca samīcīne api pratyaye prasiddham, yathā nīlasyāvabhāsaḥ pītasyāvabhāsa ityata āha-smṛtirūpa iti ।
+smṛte rūpamiva rūpamasyeti smṛtirūpaḥ ।
+asaṃnihitaviṣayatvaṃ ca smṛtirūpatvam, saṃnihitaviṣayaṃ ca pratyabhijñānaṃ samīcīnamiti nātivyāptiḥ ।
+nāpyavyāptiḥ, svapnajñānasyāpi smṛtivibhrama

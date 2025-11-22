@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9252 | label: meter | g:0.25 m:0.831 ---
+
+garuḍa uvāca ।
+madhye kṛtamahāpraśradvayasyāptaṃ mayottaram ।
+praśrasyāpi tṛtīyasya uttaraṃ ca vidhīyatām ।।

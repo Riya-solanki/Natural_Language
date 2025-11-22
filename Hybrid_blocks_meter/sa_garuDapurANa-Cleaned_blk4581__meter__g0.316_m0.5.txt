@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4581 | label: meter | g:0.316 m:0.5 ---
+
+sampūrṇarūpāḥ kaphapittamehāḥ krameṇa ye vai ratisambhavāśca ।
+sakrāmate pittakṛtāstu yāpyāḥ sādhyo asti meho yadi nāsti diṣṭam ।।

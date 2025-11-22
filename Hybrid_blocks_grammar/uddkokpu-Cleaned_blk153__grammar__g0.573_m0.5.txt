@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 153 | label: grammar | g:0.573 m:0.5 ---
+
+pratyākhyātaḥ praṇayini ruṣā bimbito ahaṃ stane te sairandhryajñā sthagayitumabhūccandanena pravṛttā ।
+mā pāṭīraṃ pulakini punaścātra limpeti śaṃsaty ālīvṛnde smitajuṣi kṛtā dṛktvayā vrīlagarbhā ।।

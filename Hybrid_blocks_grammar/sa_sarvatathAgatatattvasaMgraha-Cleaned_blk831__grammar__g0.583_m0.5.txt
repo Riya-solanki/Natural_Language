@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 831 | label: grammar | g:0.583 m:0.5 ---
+
+atha vajrapāṇirmahābodhisatvaḥ svādhiṣṭhānena bhagavato vairocanasya tathāgatasya sarvatathāgatakulamutpādyāsya sarvatathāgatakulamahākalpavidhivistarasya sarvasiddhisaṃgrahāyedaṃ vajrasiddhinnāma caturmudrāmaṇḍalamabhāṣat ।

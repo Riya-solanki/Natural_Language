@@ -1,0 +1,10 @@
+--- source: simhrs_u-Cleaned.txt | block: 984 | label: meter | g:0.25 m:0.802 ---
+
+atha māna-vipralambhaḥ-
+muhuḥ-kṛto meti neti pratiṣedhārtha-vīpsayā ।
+īpsitāliṅganādīnāṃ nirodho māna ucyate ।। 
+so' yaṃ sahetu-nirhetu-bhedād dvedhātra hetujaḥ ।
+īrṣyayā sambhaved īrṣyā tv anyāsaṅgini vallabhe ।। 
+asahiṣṇutvam eva syād dṛṣṭer anumiteḥ śruteḥ ।
+īrṣyā-māne tu nirvedāvahittha-glāni-dīnatāḥ । 
+cintā-cāpalya-jaḍatā-mohādyā vyabhicāriṇaḥ ।।

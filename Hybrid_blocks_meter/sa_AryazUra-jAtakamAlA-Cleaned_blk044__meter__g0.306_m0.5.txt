@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 44 | label: meter | g:0.306 m:0.5 ---
+
+na spardhayā naiva yaśo abhilāṣānna svargalābhānna ca rājyahetoḥ ।
+nātyantike apyātmasukhe yathāyaṃ mamādaro anyatra parārthasiddheḥ ।।

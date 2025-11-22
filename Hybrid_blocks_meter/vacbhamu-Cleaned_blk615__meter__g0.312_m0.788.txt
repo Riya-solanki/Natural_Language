@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 615 | label: meter | g:0.312 m:0.788 ---
+
+pratisaṃkhyāpratisaṃkhyānirodhāprāptiravicchedāt ।
+bhāvapratīpā saṃkhyā buddhiḥ pratisaṃkhyā, tayā nirodhaḥ pratisaṃkhyānirodhaḥ ।
+santamimamasantaṃ karomītyevamākāratā ca buddherbhāvapratīpatvam ।

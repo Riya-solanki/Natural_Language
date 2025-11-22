@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1614 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā śākuntale, rājā -katham ātmāpahāraṃ karomi ? bhavatu, evaṃ tāvad enāṃ vakṣye । bhavati yaḥ pauraveṇa rājñā dharmādhikāre niyuktaḥ so' ham avighna-kriyopalambhāya dharmāraṇyam idam āyātaḥ । ity ārabhya,

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 442 | label: meter | g:0.056 m:0.729 ---
+
+{mathnāmi kauravaśataṃ samare na kopāt
+duḥśāsanasya rudhiraṃ na pbāmyurastaḥ ।।
+saṃcūrṇayāmi gadayā na suyodhanorū
+saṃdhiṃ karotu bhavatāṃ nṛpatiḥ paṇena ।। }

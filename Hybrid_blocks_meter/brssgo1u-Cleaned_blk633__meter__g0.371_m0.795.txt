@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 633 | label: meter | g:0.371 m:0.795 ---
+
+FN tatra tārakāntarāṇi candrādi ca na bhāti taṃ na bhāsayatīti yāvat ।
+prājñatvaṃ svaprakāśakatvaṃ bhāsakatvārthamuktam ।
+anukāraḥ anubhānam ।
+virajaṃ āgantukamalaśūnyam ।
+śubhraṃ naisargikamalaśūnyam ।

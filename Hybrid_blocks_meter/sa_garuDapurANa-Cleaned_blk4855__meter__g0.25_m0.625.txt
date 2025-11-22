@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4855 | label: meter | g:0.25 m:0.625 ---
+
+vāyuḥ kaṭyāśritaḥ sakthnaḥ kaṇḍarāmākṣaipedyadā ।
+tadā khañjo bhavejjantuḥ paṅguḥ sakthnordvayorvadhāt ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 152 | label: grammar | g:0.75 m:0.5 ---
+
+bhūtalam abhūtalaviviktaṃ sadaiva tat kathaṃ tajjñānaṃ kadācid eva tatra bhinnaghaṭābhāvaṃ sādhayet । bhinnaghaṭaviviktatā ca bhūtalasya kadācit kaṃ rūpaṃ syād yadi ghaṭasahitatāpi kadācit svarūpaṃ bhavet, na tv evam । padārtau dvav eva svātmapariniṣṭhitau, sāhityaṃ na tadatiriktam ubhayātmakam ekarūpam । jñānam ekaṃ tūbhayābhāsasaṃsargātmakam apy ekābhāsajñānāntarābhāvarūpam । vastu punaḥ svātmaniṣṭham eva paricchinattīti na vastubalena pradeśadarśanāt pradeśasiddhivad ghaṭābhāvasiddhiḥ । ubhayābhāsaikajñānātmakakāryābhāvāt tu syāt । na caivaṃ vyavadhānena pratītiḥ pradeśadarśanād eva tatsiddheḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8149 | label: meter | g:0.302 m:0.693 ---
+
+śrīkṛṣṇa uvāca ।
+tatheti pratijagrāha maṇiṃ rājā tataḥ khaga ।।

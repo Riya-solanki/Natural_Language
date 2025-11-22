@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 224 | label: meter | g:0.25 m:0.695 ---
+
+evaṃ vaicitryaṃ saṃbhāvanānumānapravṛttāyāḥ pratīyamānatvamutprekṣāyāḥ ।
+tacca dhārādhiroharaṇaramaṇīyatayātiśayoktiparispandasyandi saṃdṛśyate ।
+tadevaṃ vaicitryaṃ vyākhyāya tasyaiva guṇān vyācaṣṭe

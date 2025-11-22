@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11736 | label: meter | g:0.328 m:0.741 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+sā gatā snātukāmātha nandāṃ pāpanivāriṇīm ।
+papraccha taṃ guruṃ vipraṃ vinayāvanatā sudhīḥ ।।

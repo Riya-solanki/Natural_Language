@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3195 | label: meter | g:0.25 m:1.0 ---
+
+yathāvad guhyayogena karmamudrā susādhayan ।
+sarvārthasiddhiyogena pūjāsiddhimavāpnute- ।।

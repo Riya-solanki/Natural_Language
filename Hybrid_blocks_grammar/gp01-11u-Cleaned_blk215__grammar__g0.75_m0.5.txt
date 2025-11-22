@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 215 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha so' py avācīnatā-samīcīna-śiraskatayā rājñāṃ tām ājñāṃ mālām iva śirasi nidhāya, śrī-rāma-mukha-tāmarasam avadhāya, svajana-vraja-sahitatayā sahitam adhiruhya catuṣka-deśa-gataṃ puṣkalam upaveśa-veśma valita-smitaṃ tārā-patir iva pūrva-parvatam adhyāsitavān । viprādi-sampradānatayā yathā-yathaṃ gavādikam api sātavān । tataś ca tasminn upaviśya, punas tāmbulādi-saṃvibhāga-sukha-saṃvalanayā sambandhibhir mitho narma-saṃvāda-sambandhi-sandhi-kutūhalaṃ kalayāmāsa ।

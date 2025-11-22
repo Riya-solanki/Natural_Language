@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 528 | label: hybrid | g:0.321 m:0.481 ---
+
+śaktimattvena mākṣikasatvapraśaṃsanam āha hitvetyādi ।।
+mākṣikasatvaṃ tāpyasāraṃ hitvā tyaktvā anyeṣāṃ rasoparasānāṃ śaktiḥ sāmarthyaṃ nāsti ।।
+kiṃbhūtā śaktiḥ lohaghnīti lohān hantīti vigrahaḥ ।।
+punastāvatsattvaṃ na patati yāvadbhastrā ante satvasamīpe na āhrīyeta na prāpyeta tasmādalpenāgninā satvāpravṛttirityarthaḥ ।।

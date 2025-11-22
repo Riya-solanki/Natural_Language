@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1720 | label: grammar | g:0.75 m:0.5 ---
+
+bodhisattvaḥ kilānekadoṣavyasanopasṛṣṭamarthakāmapradhānatvādanaupaśamikaṃ rāgadveṣamohāmarṣasaṃrambhamadamānamātsaryādidoṣarajasāmāpātaṃ pātanaṃ hrīdharmaparigrahasyāyatana lobhāsadgrāhasya kukāryasaṃbādhatvātkṛśavakāśaṃ dharmasyāvetya gṛhavāsaṃ parigrahaviṣayaparivarjanācca taddoṣavivekasukhāṃ pravrajyāmanupaśyan śīlaśrutapraśamavinayaniyamānasastāpaso babhūva । tamaskhalitasamādānaṃ kṣāntivarṇavādinaṃ tadanurūpadharmākhyānakramaṃ vyatītya sve nāmagotre kṣāntivādinamityeva lokaḥ svabuddhipūrvakaṃ saṃjajñe ।

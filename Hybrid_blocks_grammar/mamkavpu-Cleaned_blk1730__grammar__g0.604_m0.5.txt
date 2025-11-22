@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1730 | label: grammar | g:0.604 m:0.5 ---
+
+atra latā vibhrājate na tu vibhrājase iti saṃbodhyamānaniṣṭhasya parabhāgasya asaṃbodhyamānaviṣayatayā vyatyāsāt puruṣabhedaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2167 | label: hybrid | g:0.465 m:0.5 ---
+
+sadbhāva eṣo bhavato mayokto jñānaṃ yathā satyam asatyam anyat 
+etat tu yat saṃvyavahārabhūtaṃ tatrāpi coktaṃ bhuvanāśritaṃ te ।।

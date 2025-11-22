@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 70 | label: grammar | g:0.729 m:0.5 ---
+
+tasya buddhirabhavat - atisabhāgyāste satpuruṣaviśeṣā ye visrambhaniryantraṇapraṇayamarthibhiḥ svagātrāṇyapi yācyante । mama punaḥ pratyākhyānarūkṣākṣaravacanasaṃtarjita ivārthijano dhanamātrake apragalbhapraṇayaḥ saṃvṛtta iti ।

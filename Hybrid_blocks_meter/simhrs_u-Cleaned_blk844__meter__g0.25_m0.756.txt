@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 844 | label: meter | g:0.25 m:0.756 ---
+
+atha utsāhaḥ-
+śaktir dhariya-sahāyādyaiḥ phala-ślāghyeṣu karmasu । 
+satvarā mānasī vṛttir utsāhas tatra vikriyāḥ ।।
+kālādyavekṣaṇaṃ dhairyaṃ vāg-ārambhādayo' pi ca । 
+sahajāhārya-bhedena sa dvidhā paribhāṣyate ।।

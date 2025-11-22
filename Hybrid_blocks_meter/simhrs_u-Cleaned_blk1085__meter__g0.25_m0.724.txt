@@ -1,0 +1,10 @@
+--- source: simhrs_u-Cleaned.txt | block: 1085 | label: meter | g:0.25 m:0.724 ---
+
+atha vīraḥ-
+vibhāvair anubhāvaiś ca svocitair vyabhicāribhiḥ ।
+nītaḥ sadasya-rasyatvam utsāho vīra ucyate ।। 
+eṣa tridhā samāsena dāna-yuddha-dayodbhavāḥ ।
+dāna-vīro dhṛtir harṣo matyādyā vyabhicāriṇaḥ ।। 
+smita-pūrvābhibhāṣitvaṃ smita-pūrvaṃ ca vīkṣitam ।
+prasāde bahu-dātṛtvaṃ tadvad vācānumoditam । 
+guṇāguṇa-vicārādyās tv anubhāvāḥ samīritāḥ ।।

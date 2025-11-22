@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1206 | label: meter | g:0.25 m:0.625 ---
+
+eko apyasau bahūn devyāḥ kesarī kālasaṃnibhaḥ ।
+vidhunvan kesarasaṭāṃ niṣūdayati dānavān ।।

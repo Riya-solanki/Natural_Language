@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 785 | label: meter | g:0.28 m:0.625 ---
+
+tatra vācyaṃ samastavastuviṣayaṃ rūpakaṃ pūrvamevodāhṛtam ।
+sāmarthyalabhyaṃ tad ekadeśavivarti tadeva "upoḍharāgeṇe"tyādi ।
+pratīyamānaṃ yathā

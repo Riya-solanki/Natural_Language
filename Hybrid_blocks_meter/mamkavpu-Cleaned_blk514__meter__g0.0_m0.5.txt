@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 514 | label: meter | g:0.0 m:0.5 ---
+
+{nihatārthaṃ} yadubhayārthamaprasiddhe arthe prayuktam । yathā

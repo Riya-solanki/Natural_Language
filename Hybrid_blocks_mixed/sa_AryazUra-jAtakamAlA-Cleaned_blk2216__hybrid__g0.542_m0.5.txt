@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2216 | label: hybrid | g:0.542 m:0.5 ---
+
+tad brūhi vācyaṃ mayi cedidaṃ te yadeva vā kṛtyamihocyatāṃ tat ।
+mamāsti yā mitragatā ca śaktistatsādhyasaukhyasya bhavān sukhī ca ।।

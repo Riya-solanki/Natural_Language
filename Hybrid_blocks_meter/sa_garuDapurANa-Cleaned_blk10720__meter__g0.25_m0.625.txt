@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10720 | label: meter | g:0.25 m:0.625 ---
+
+nājñānaṃ cintanīyaṃ hi brahmayvośca deva hi ।
+atra kaścidviśeṣosti jñātavyastatvamicchubhiḥ ।।

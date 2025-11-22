@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1534 | label: meter | g:0.194 m:0.625 ---
+
+āyuṣmataḥ kila lavasya narendra-sainyair
+āyodhanaṃ nanu kim āttha sakhe tatheti ।
+adyāstam etu bhuvaneṣu sa rāja-śabdaḥ
+kṣattrasya śastra-śikhinaḥ śamam adya yāntu ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1299 | label: meter | g:0.316 m:0.5 ---
+
+sarvaṃdado nāma kathaṃ kadā vā yasya svadehe api manaḥprasaṅgaḥ ।
+yathārthanāmā tv adhunā bhaviṣyāmy ahaṃ tvadabhyāgamanotsavena ।।

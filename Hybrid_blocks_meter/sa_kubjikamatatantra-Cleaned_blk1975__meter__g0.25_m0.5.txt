@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1975 | label: meter | g:0.25 m:0.5 ---
+
+kṛtanyāsaḥ patet padbhyāṃ yasyāsau mriyate dhruvam 
+guros tu na patet pāde yāvedaṃ dehasaṃsthitam ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8746 | label: meter | g:0.25 m:0.784 ---
+
+pretā ūcuḥ ।
+śṛṇu cāhāramasmākaṃ sarvasattbavigarhitam ।
+yacchrutvā garhase brahman bhūyobhūyaśca garhitam ।।

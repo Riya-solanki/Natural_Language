@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10724 | label: meter | g:0.25 m:0.5 ---
+
+mūlarūpe tu nāstyeva bhāratyā jñānavismṛtiḥ ।
+bhāratyāstu yathā nāsti sarasvatyāstu kiṃ punaḥ ।।

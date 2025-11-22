@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1945 | label: meter | g:0.194 m:0.5 ---
+
+evaṃ puṣkaramadhye tu yadā yāti divākaraḥ 
+triṃśadbhāgaṃ tu medinyās tadā mauhūrtikī gatiḥ ।।

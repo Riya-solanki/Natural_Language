@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 910 | label: grammar | g:0.573 m:0.5 ---
+
+astaṃ bhāsvati lokalocanakalāloke gate bhartari strīlokocitam ācaranti sukṛtaṃ vahnau vilīya tviṣaḥ ।
+apy etās tu cikīrṣayeva tapasāṃ tārākṣamālā diśo manye khañjanakaṇṭhakomalatamaḥkṛṣṇājinaṃ bibhrati ।।

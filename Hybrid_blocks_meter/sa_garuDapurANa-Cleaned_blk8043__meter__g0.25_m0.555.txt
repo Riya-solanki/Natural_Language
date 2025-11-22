@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8043 | label: meter | g:0.25 m:0.555 ---
+
+praṇayena skhaladvācaḥ khaga nocuḥ kimapyuta ।
+rajasā goracittānāṃ tamasā mūḍhacetasām ।
+kṛpayā yaḥ samuddhāraṃ kuruṣe vai namo asta te ।।

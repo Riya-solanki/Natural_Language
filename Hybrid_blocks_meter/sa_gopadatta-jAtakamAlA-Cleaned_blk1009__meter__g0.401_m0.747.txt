@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1009 | label: meter | g:0.401 m:0.747 ---
+
+kāyāvaskaranirjharavivare niṣpiṣyamāṇadehasya ।
+yā prasavasthasya daśā kiṃ nāma tataḥ paraṃ duḥkham ।।

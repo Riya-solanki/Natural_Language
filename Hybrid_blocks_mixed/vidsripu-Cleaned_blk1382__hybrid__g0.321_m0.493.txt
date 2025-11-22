@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1382 | label: hybrid | g:0.321 m:0.493 ---
+
+adyāśanaṃ śiśujanasya balena jātaṃ śvo vā kathaṃ nu bhaviteti vicintayantī ।
+ity aśrupātamalinīkṛtagaṇḍadeśā necched daridragṛhiṇī rajanīvirāmam ।।

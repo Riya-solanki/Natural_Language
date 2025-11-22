@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 108 | label: meter | g:0.194 m:0.5 ---
+
+vivardhayiṣavas te tu śabalāśvāḥ prajās tadā 
+pūrvoktaṃ vacanaṃ tāta nāradenaiva coditāḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4009 | label: meter | g:0.25 m:0.677 ---
+
+pralambaṃ muṣṭinaikena yaj jaghāna halāyudhaḥ 
+dhenukaṃ ca mahākāyaṃ cikṣepa nagamūrdhani ।। 
+sa gatāsuḥ papātorvyāṃ daityo gardabharūpadhṛk । 
+lavaṇajalagamā mahānadī drutajalavegataraṃgamālinī 
+nagaram abhimukhā yad āhṛtā halavidhṛtā yamunā yamasvasā ।।

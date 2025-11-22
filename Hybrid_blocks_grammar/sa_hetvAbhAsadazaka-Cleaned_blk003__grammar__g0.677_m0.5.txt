@@ -1,0 +1,4 @@
+--- source: sa_hetvAbhAsadazaka-Cleaned.txt | block: 3 | label: grammar | g:0.677 m:0.5 ---
+
+kṛṣṇaḥ puṣṇātu saukhyaṃ sumukhi sumukhatāṃ yāhi yāhi priyāṃ tām anyāsaktaṃ kuto māṃ kalaṣasi dayite kevalaṃ tvatsvabhāvāt ।
+yady evaṃ mugdhatā te karaṇam idam asādhāraṇaṃ pakṣamātre vṛttatvād ity akasmāt praṇayakalahitāṃ rādhikāṃ sāntvayan vaḥ ।।

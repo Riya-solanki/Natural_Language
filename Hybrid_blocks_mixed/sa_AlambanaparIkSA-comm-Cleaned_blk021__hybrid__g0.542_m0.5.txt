@@ -1,0 +1,3 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 21 | label: hybrid | g:0.542 m:0.5 ---
+
+yadi tāvadevamavabhāsa eva vedyate । kathaṃ tadekadeśaḥ sahajātaḥ pratyayaḥ ।

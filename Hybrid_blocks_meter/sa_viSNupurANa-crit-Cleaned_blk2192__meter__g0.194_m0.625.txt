@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2192 | label: meter | g:0.194 m:0.625 ---
+
+cacārāśramaparyante tṛṇāni gahaneṣu saḥ 
+dūraṃ gatvā ca śārdūlatrāsād abhyāyayau punaḥ ।।

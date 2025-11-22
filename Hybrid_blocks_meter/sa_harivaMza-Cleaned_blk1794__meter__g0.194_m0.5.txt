@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1794 | label: meter | g:0.194 m:0.5 ---
+
+daityebhyas tyajyatāṃ bhītiḥ śāntiṃ vrajata devatāḥ 
+svasti vo astu gamiṣyāmi brahmalokaṃ sanātanam ।।

@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1208 | label: grammar | g:0.677 m:0.5 ---
+
+aantaḥ' iti pihitaṃ kāraṇāntaraiḥ kāraṇamucyate, abahiḥ' iti ca vyavadhāyakamavyavahitaṃ kāraṇamevocyate tadetat kāryadravyasya saṃbhavati nāṇoḥ akāryatvāt ।
+akārye hi paramāṇāv antarbahirityasyābhāvaḥ, yatra cāsya bhāvo aṇukāryaṃ tat na paramāṇuḥ, yato hi nālpataramasti sa paramāṇuriti ।।

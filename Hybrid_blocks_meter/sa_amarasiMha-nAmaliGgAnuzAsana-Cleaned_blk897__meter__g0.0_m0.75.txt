@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 897 | label: meter | g:0.0 m:0.75 ---
+
+amāṃso durbalaś chāto balavānmāṃsaloṃ asalaḥ

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1811 | label: hybrid | g:0.521 m:0.5 ---
+
+babhūva valmīkabhavaḥ purā kavis tataḥ prapede bhuvi bhartṛmeṭhatām ।
+punaḥ sthito yo bhavabhūtirekhayā sa vartate samprati rājaśekharaḥ ।।

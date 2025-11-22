@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 168 | label: meter | g:0.194 m:0.625 ---
+
+alpasyāpi śubhasya vistaramimaṃ dṛṣṭvā vipākaśriyaḥ
+syātko nāma na dānaśīlavidhinā puṇyakriyātatparaḥ ।
+naiva draṣṭumapi kṣamaḥ sa puruṣaḥ paryāptavitto api san
+yaḥ kārpaṇyatamisrayāvṛtamatirnāpnoti dānairyaśaḥ ।।

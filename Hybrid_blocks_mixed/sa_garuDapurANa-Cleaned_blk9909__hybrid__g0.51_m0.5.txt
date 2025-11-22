@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9909 | label: hybrid | g:0.51 m:0.5 ---
+
+vaiśyaḥ svakarmāṇi viśocate tadā gṛhītapāśo na mayāpi sañcitam ।
+satyaṃ na coktaṃ kraya vikrayeṇa mohādvimūḍhena kuṭumbahetave ।।

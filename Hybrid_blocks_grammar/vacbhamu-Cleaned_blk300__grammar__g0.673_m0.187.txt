@@ -1,0 +1,12 @@
+--- source: vacbhamu-Cleaned.txt | block: 300 | label: grammar | g:0.673 m:0.187 ---
+
+etena ayadāgneyo aṣṭākapālo bhavati' ityatra saṃbandhaviṣayo vidhiriti parāstam ।
+nanu na bhavatyartho vidheyaḥ; siddhe bhavitari labdharūpasya bhavanaṃ pratyakartṛtvāt; na khalu gaganaṃ bhavati; nāpyasiddhe, asiddhasyāniyojyatvāt, gaganakusumavat; tasmādbhavanena prayojyavyāpāreṇākṣiptaḥ prayojakasya bhāvayiturvyāpāro vidheyaḥ; sa ca vyāpāro bhāvanā, kṛtiḥ, prayatna iti; nirviṣayaścāsāvaśakyapratipattiḥ; ato viṣayāpekṣāyāmāgneyaśabdopasthāpito dravyadevatāsaṃbandha evāsya viṣayaḥ ।
+nanu vyāpāraviṣayaḥ puruṣaprayatnaḥ kathamavyāpārarūpaṃ saṃbandhaṃ gocarayet ? na hi aghaṭaṃ kuru' ityatrāpi sākṣānnāmārthaṃ ghaṭaṃ puruṣaprayatno gocarayati; api tu daṇḍādi hastādinā vyāpārayati ।
+tasmādghaṭārthāṃ kṛtiṃ vyāpāraviṣayāmeva pratipadyate, na tu svarūpato ghaṭaviṣayām ।
+uddeśyatayā tvasyāmasti ghaṭo na tu viṣayatayā ।
+viṣayatayā tu hastādivyāpāra eva ।
+ata eva aāgneyaḥ' ityatrāpi dravyadevatāsaṃbandhākṣipto yajireva kāryaviṣayo vidheyaḥ ।
+kimuktaṃ bhavati"āgneyo bhavati"iti ? āgneyena yāgena bhāvayediti ।
+ata eva aya evaṃ vidvān paurṇamāsyāṃ yajate', aya evaṃ vidvānamāvāsyāṃ yajate' ityanuvādo bhavati ayadāgneyaḥ' ityādivihitasya yāgaṣaṭkasya ।
+ata eva ca vihitānūditasya tasyaiva adarśapūrṇamāsābhyāṃ svargakāmo yajeta' ityādhikārasaṃbandhaḥ ।

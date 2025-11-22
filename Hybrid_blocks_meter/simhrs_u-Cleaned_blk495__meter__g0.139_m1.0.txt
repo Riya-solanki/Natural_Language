@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 495 | label: meter | g:0.139 m:1.0 ---
+
+ātapena, yathā-
+dhūtānām abhimukha-pātibhiḥ samīrair
+āyāsād aviśad alocanotpalānām ।
+āninye mada-janitāṃ śriyaṃ vadhūnām
+uṣṇāṃśu-dyuti-janitaḥ kapola-rāgaḥ ।।

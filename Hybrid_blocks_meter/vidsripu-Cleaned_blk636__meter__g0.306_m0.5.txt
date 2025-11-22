@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 636 | label: meter | g:0.306 m:0.5 ---
+
+dṛṣṭvaikāsanasaṃsthite priyatame paścād upetyādarād ekasyā nayane nimīlya vihitakrīḍānubandhacchalaḥ ।
+tiryagvartitakandharāṃ sapulakasvedodgamotkampinīm antarhāsacalatkapolaphalakāṃ dhūrto aparāṃ cumbati ।।

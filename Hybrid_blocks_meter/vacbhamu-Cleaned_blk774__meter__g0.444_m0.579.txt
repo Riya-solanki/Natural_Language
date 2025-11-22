@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 774 | label: meter | g:0.444 m:0.579 ---
+
+nāticireṇa viśeṣāt ।
+adurniṣprapataram' iti duḥkhena niḥsaraṇaṃ brūte na tu vilambeneti manyate pūrvapakṣī ।
+vinā sthūlaśarīraṃ na sūkṣmaśarīre duḥkhabhāgīti durniṣprapataraṃ vilambaṃ lakṣayatīti rāddhāntaḥ ।।

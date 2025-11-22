@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1573 | label: grammar | g:0.75 m:0.5 ---
+
+eṣā ca virodhabādhinī na virodhaḥ bhinnādharatayaiva dvayoriha virodhitāyāḥ pratibhāsāt । virodhe tu virodhitvam ekāśrayaniṣṭamanuktamapi paryavasitam apavādaviṣayaparihāreṇotsargasya vyavasthiteḥ । tathā caivaṃ nidarśitam ।।

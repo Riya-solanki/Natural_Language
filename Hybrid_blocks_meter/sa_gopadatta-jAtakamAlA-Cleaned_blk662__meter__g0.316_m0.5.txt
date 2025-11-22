@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 662 | label: meter | g:0.316 m:0.5 ---
+
+tyaktaspṛhatvāt kṣitipasya tasya sarvatra kāruṇyamayī pravṛttiḥ ।
+guṇānurāgāt sa tathāpi teṣāṃ pūjāṃ munīnāṃ prati sādaro abhūt ।।

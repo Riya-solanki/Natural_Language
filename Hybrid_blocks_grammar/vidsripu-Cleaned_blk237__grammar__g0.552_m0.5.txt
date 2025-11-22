@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 237 | label: grammar | g:0.552 m:0.5 ---
+
+eṇī yāti vilokya bālaśalabhāñ śaṣpāṅkurāditsayā chatrīkuḍmalakāni rakṣati cirād aṇḍabhramāt kukkuṭī ।
+dhūtvā dhāvati kṛṣṇakīṭapaṭalaśreṇīṃ śikhaṇḍī śiro dūrād eva vanāntare viṣadharagrāsābhilāṣāturaḥ ।।

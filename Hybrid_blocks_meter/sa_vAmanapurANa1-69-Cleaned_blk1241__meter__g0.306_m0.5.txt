@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1241 | label: meter | g:0.306 m:0.5 ---
+
+cakraṃ harerdānapacakrahantuḥ kṣiptaṃ tvacakratvamupāgataṃ hi ।
+gadāṃ samāvidhya dhaneśvarasya kṣiptātu bhagnā nyapatat pṛthivyām ।।

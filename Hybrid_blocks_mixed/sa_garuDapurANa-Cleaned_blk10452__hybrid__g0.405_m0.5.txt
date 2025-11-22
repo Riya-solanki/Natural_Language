@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10452 | label: hybrid | g:0.405 m:0.5 ---
+
+naitāvatā mama vāyośca nityaṃ duḥ khātanaṃ naiva saṃcitanīyam ।
+etādṛśohaṃ stavanenu kāsti śaktirguṇānāṃ madhusūdana prabho ।
+vāyoḥ sakāśācca guṇena hīnā saṃsārarūpe muktarūpe ca deva ।।

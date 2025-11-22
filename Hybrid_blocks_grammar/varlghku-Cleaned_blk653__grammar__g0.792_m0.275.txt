@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 653 | label: grammar | g:0.792 m:0.275 ---
+
+grahijyāvayivyadhivaṣṭivicativṛścatipṛcchatibhṛñjatīnāṃ ṅiti ca ।।
+eṣāṃ samprasāraṇaṃ syātkiti ṅiti ca । vivyādha । vividhuḥ । vivyadhitha, vivyaddha । vyaddhā । vidhyet । avyātsīt ।। ।। puṣyati । pupoṣitha । pokṣyati । apuṣat ।। śuṣa śoṣaṇe ।। śuṣyati । aśuṣat ।। ।। naśyati । neśatuḥ ।।

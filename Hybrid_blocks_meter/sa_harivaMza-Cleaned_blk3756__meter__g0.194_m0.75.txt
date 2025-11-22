@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3756 | label: meter | g:0.194 m:0.75 ---
+
+anupraviśya yavano dadarśa pṛthivīpatim 
+prasvapantaṃ kṛtāntābham āsasāda sudurmatiḥ ।।

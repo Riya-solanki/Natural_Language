@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1842 | label: meter | g:0.326 m:0.5 ---
+
+ihāpi tāvaddhanasaṃpadarthinaḥ prayuñjate naiva dhanaṃ durātmani ।
+na ghasmare nānipuṇe na cālase gataṃ hi yattatra tadantameti tat ।।

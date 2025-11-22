@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 599 | label: meter | g:0.276 m:0.626 ---
+
+[] ṛṣir uvāca-
+vinā candraṃ śaral-lakṣmīr vinā puṣpaṃ madhūnnatiḥ ।
+vinā payodaṃ varṣā-śrīr vinā tvāṃ kā vraja-sthitiḥ ।।iti ।

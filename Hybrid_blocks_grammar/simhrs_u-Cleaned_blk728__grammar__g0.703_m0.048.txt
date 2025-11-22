@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 728 | label: grammar | g:0.703 m:0.048 ---
+
+tathā hi-para-pratāraṇa-rūpa-dambhasya jihmatāvahitthāyām antar-bhāvaḥ । citta-dravatā-lakṣaṇasya snehasya harṣe' ntarbhāvaḥ । sva-viṣaya-dāna-mānādy-amarṣaṇa-rūpāyā īrṣyāyā amarṣe' ntarbhāvaḥ । para-viṣayāyās tv asūyāyām । udvegasya tu nirveda-viṣādādiṣu yathocitam antarbhāva ity ādi draṣṭavyam । tathā ca bhāva-prakāśikā-kāraḥ-
+anye' pi yadi bhāvāḥ syuś citta-vṛtti-viśeṣataḥ ।
+antarbhāvas tu sarveṣāṃ draṣṭavyo vyabhicāriṣu ।। iti ।

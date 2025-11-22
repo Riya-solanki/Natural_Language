@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1358 | label: meter | g:0.25 m:0.5 ---
+
+bibhīmo vayam atyantaṃ cākrikasya guṇād api ।
+niṣpannam api yaḥ pātraṃ guṇenaiva nikṛntati ।।

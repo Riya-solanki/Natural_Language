@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4930 | label: hybrid | g:0.472 m:0.5 ---
+
+tasmin mukte diśaḥ sarvās tamopahatamaṇḍalāḥ 
+prādur āsaṃs tato raudrā na prājñāyata kiṃ cana ।। 
+sughorāṇi ca sarvaśaḥ । tamasā saṃvṛte loke । 
+sādhu sādhv iti bāṇaṃ tu pūjayanti sma dānavāḥ 
+aho dhig iti devānāṃ carate vāg udīritā ।।

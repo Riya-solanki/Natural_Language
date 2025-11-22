@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1661 | label: meter | g:0.25 m:0.5 ---
+
+ataḥ saṃprāpyate svargo muktim asmāt prayānti ca 
+tiryaktvaṃ narakaṃ cāpi yānty ataḥ puruṣā mune ।।

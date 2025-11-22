@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 864 | label: meter | g:0.306 m:0.5 ---
+
+yasya prajvalati pratāpatapane tejasvināmityalaṃ lokālokadharādhare apyatiśayaḥ śītāṃśubimbe vṛthā ।
+trailokyaprathitāpadānamahite kṣoṇīśavaṃśodbhave sūryācandramasau svayaṃ kṛśataracchāyāṃ samārohataḥ ।।

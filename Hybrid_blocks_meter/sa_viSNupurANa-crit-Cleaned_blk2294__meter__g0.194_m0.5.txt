@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2294 | label: meter | g:0.194 m:0.5 ---
+
+sa eva bhagavān nūnam asmākaṃ hitakāmyayā 
+pratyakṣatām atra gato yathaitad bhavatocyate ।।

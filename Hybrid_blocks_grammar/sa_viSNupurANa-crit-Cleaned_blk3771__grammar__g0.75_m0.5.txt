@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3771 | label: grammar | g:0.75 m:0.5 ---
+
+ṛkṣavinihataṃ ca siṃham apy alpe bhūmibhāge dṛṣṭvā tataś ca tadratnagauravād ṛkṣasyāpi padāny anuyayau । giritaṭe ca sakalam eva yadusainyam avasthāpya tatpadānusārī ṛkṣabilaṃ praviveśa । ardhapraviṣṭaś ca dhātryāḥ sukumārakam ullāpayantyā vāṇīṃ śuśrāva । siṃhaḥ prasenam avadhīt siṃho jāmbavatā hataḥ । sukumāraka mā rodīs tava hy eṣa syamantakaḥ ।।

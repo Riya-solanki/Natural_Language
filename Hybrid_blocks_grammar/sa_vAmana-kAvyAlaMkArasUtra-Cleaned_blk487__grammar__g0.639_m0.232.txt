@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 487 | label: grammar | g:0.639 m:0.232 ---
+
+ityādiṣu sudatyādayaḥ śabdāḥ pratividheyāḥ । datrādeśalakṣaṇābhāvāt । tatra pratividhānam । agrānta ādisūtre cakārasyānuktasamuccayārthatvāt sudatyādiṣu datrādeśaḥ ityeke । anye tu varṇayanti । sudatyādayaḥ stryabhidhāyino yogarūḍhaśabdāḥ । teṣu striyāṃ saṃjñāyām iti datrādeśo vikalpena siddha eva iti ।।
+kṣatadṛḍhorsa iti na kap, tadantavidhipratiṣedhāt ।।
+plavaṅganakhakoṭibhiḥ kṣatadṛḍhoraso rākṣasāḥ

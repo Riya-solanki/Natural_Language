@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3974 | label: meter | g:0.102 m:0.927 ---
+
+dhanadhānyarddhim atulāṃ prāpnoty avyāhatendriyaḥ 
+śrutvaivam akhilaṃ vaṃśaṃ praśastaṃ śaśisūryayoḥ 
+ikṣvākujahnumāndhātṛsagarāvikṣitān raghūn ।।

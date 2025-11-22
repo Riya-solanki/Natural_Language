@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1173 | label: meter | g:0.056 m:0.5 ---
+
+ekā dvitrāś catasro yuta-viyutatayā pañcaṣāḥ sapta cāṣṭau
+paṅktis tad-vṛddhi-saṅkhyā-miti-rahitatamās tatra yātāḥ samantāt ।
+yasmād vyaktiḥ prapannā kalita-muralikāt karṣaṇī nāma vidyā
+tac-chrī-vaktraṃ nirīkṣya pratihata-matayaḥ śarmalīnā babhūvuḥ ।।[sragdharā]

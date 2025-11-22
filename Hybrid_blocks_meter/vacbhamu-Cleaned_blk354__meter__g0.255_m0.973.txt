@@ -1,0 +1,14 @@
+--- source: vacbhamu-Cleaned.txt | block: 354 | label: meter | g:0.255 m:0.973 ---
+
+taddhi tasya jagaritasthānam ।
+jāgratvakhalvayaṃ bāhyānpadārthānveda ।
+tathā-'ayaṃ vāva sa yo ayamantaḥ puruṣa ākāśaḥ' ।
+śarīramadhya ityarthaḥ ।
+taddhi tasya svapnasthānam ।
+tathā-'ayaṃ vāva sa yo ayamantarhṛdaya ākāśaḥ' ।
+hṛdayapuṇḍarīka ityarthaḥ ।
+taddhi tasya suṣuptisthānam ।
+tadetat atripādasyāmṛtaṃ divi' ityuktam ।
+tadevaṃ catuṣpāttvasāmānyādgāyatrīśabdena brahmocyata iti ।
+asminpakṣe brahmaivābhihitimiti ।
+brahmaparatvādabhihitamityuktam ।।

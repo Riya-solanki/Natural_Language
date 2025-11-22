@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 786 | label: meter | g:0.25 m:0.625 ---
+
+pañcamyāṃ sevamānastu lakṣmīvān jāyate naraḥ ।
+tatra tīrthamauśanaṃ trailokyasyāpi durlabham ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2140 | label: meter | g:0.25 m:0.625 ---
+
+tamuvāca yamo gaccha kṣīrodaṃ nāma sāgaram ।
+tatrāste bhagavān viṣṇurlokanātho jaganmayaḥ ।।

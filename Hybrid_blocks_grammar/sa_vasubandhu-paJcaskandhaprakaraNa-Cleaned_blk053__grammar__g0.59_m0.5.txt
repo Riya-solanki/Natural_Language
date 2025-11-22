@@ -1,0 +1,5 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 53 | label: grammar | g:0.59 m:0.5 ---
+
+rāgacaritasya rāgapratighayoḥ rāgacaritasyāviddyāyāścetyakuśalānāṃ trīṇī mūlāni । lobho akuśalamūlaṃ ddheṣo akuśalamūlaṃ, moho akuśalamūlaṃ ca ।।
+dṛṣṭiḥ katamā pañcadṛṣṭyaḥ - satkāyadṛṣṭiḥ, antargrāhyadṛṣṭiḥ, mithyādṛṣṭiḥ, dṛṣṭiparāmarśaḥ, śīlavrataparāmarśaśca ।।
+satkāyadṛṣṭiḥ katamā । pañcopādāna - skandhānātmata ātmīyato vā paśyato yā kliṣṭā prajñā ।।

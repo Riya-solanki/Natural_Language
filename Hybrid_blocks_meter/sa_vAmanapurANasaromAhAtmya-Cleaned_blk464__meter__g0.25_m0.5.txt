@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 464 | label: meter | g:0.25 m:0.5 ---
+
+śrītīrthaṃ tu tato gacchet śālagrāmamanuttamam ।
+tatra snātasya sānnidhyaṃ sadā devī prayacchati ।।

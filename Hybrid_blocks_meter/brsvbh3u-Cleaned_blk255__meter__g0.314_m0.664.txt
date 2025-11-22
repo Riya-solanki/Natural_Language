@@ -1,0 +1,4 @@
+--- source: brsvbh3u-Cleaned.txt | block: 255 | label: meter | g:0.314 m:0.664 ---
+
+anubandhādibhyaḥ prajñāntarapṛthaktvavaddṛṣṭaś ca taduktam ।
+।। ।

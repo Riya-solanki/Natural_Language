@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6707 | label: meter | g:0.26 m:0.931 ---
+
+gurudevarṣisiddharṣisevanaṃ sādhusaṃyamaḥ ।
+satkriyāṣvasanaṃ maitrī svargasya lakṣaṇaṃ viduḥ ।
+aṣṭāṅgayogavijñānātprāpnotyātyantikaṃ phalam ।।

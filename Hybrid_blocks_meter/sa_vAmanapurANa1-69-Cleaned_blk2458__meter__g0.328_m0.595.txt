@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2458 | label: meter | g:0.328 m:0.595 ---
+
+tatastaṃ vīkṣya deveśaṃ te ubhe api kanyake ।
+snāpayetāṃ vidhānena pūjayetāmaharniśam ।।

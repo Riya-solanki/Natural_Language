@@ -1,0 +1,9 @@
+--- source: grasht_u-Cleaned.txt | block: 1077 | label: grammar | g:0.777 m:0.301 ---
+
+mṛtasaṃjīvanīguṭikāvidhānaṃ guṇāṃścāha ya ityādi ।।
+yaḥ pūrvoktaḥ sūto lakṣādūrdhvaṃ koṭyarbudādi lohān rūpyādīn vedhate tasminbaddhe sūte mukhasthe prakāśamukhayantre sthāpite sāraṇayogaiḥ sāraṇatailādibhiḥ ratnaṃ vajrādikaṃ jārayet ।।
+punaḥ samāṃśanāgais tulyāṃśasīsakaiḥ sūto yuktaḥ kāryaḥ suralohāyaskāntatāpyasattvaiśca yuktaḥ kāryaḥ suralohaṃ kanakaṃ ayaskāntaḥ kāntalohaṃ tāpyasattvaṃ mākṣikasāraṃ etaiḥ abhrakasattvasametā satī mṛtasaṃjīvanī nāma guṭikā bhavati punastatra mūṣāyāmiyaṃ hemayutā kāryā ।।
+punar iyaṃ guṭikā nityaṃ yasya gulucchake nihitā bhavati vā mukuṭe kirīṭe vā kaṇṭhasūtrakarṇe kaṇṭhasūtraṃ ca karṇaśca kaṇṭhasūtrakarṇaṃ tasmin vā aṅge hastapādādau tasya mṛtyubhayaśokarogaśastrajarāsatataduḥkhasaṃghātaṃ naśyati ityadhyāhāraḥ ।।
+eteṣu sthāneṣu yasyeyaṃ nihitā sthāpitā bhavati sa asurayakṣakinnarapūjyatamaḥ asurā daityāḥ yakṣā devayonayaḥ kinnarāḥ turaṅgavaktrāḥ teṣāṃ pūjyatamo bhavati atiśayena pūjyaḥ pūjyatamaḥ ।।
+siddhayogīndraiḥ pūjyatamaḥ siddhā devaviśeṣāḥ yogīndrā nāgārjunādayaḥ tato'nantaraṃ mṛtajīvanī jalamadhye kṣiptvā prakṣālya ghaṭikādvayaṃ vadanagatā satī mṛtakasya puruṣasyotthāpanaṃ prabodhanaṃ kurute yaḥ pumān puruṣaḥ tadeva toyaṃ guṭikākṣālanaṃ svacchaṃ nirmalaṃ pibati kiṃviśiṣṭaḥ pathyānvito hitāvahadravyabhakṣaṇayuktaḥ sa puruṣo divyaṃ vapuḥ devaśarīraṃ labhate kiṃviśiṣṭaṃ divyaṃ punaḥ mṛtyujarāvarjitaṃ vyādhipālityarahitaṃ punaḥ sudṛḍhaṃ vajravad guṭikāparimāṇaṃ pākavidhānaṃ ca pūrvavad ityarthaḥ ।।
+iti mṛtajīvanīguṭikā ।।

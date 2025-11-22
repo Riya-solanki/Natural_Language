@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 52 | label: grammar | g:0.646 m:0.5 ---
+
+kiṃ tasya bahubhis tīrthaiḥ kiṃ tapobhiḥ kim adhvaraiḥ yo nityaṃ dhyāyate devaṃ nārāyaṇam ananyadhīḥ ।।

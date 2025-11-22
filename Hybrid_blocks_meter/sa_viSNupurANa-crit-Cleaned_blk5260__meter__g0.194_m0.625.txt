@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5260 | label: meter | g:0.194 m:0.625 ---
+
+saṃcintitam upāruhya garuḍaṃ gaganecaram 
+satyabhāmāṃ samāropya yayau prāgjyotiṣaṃ puram ।।

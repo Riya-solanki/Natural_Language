@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1181 | label: meter | g:0.194 m:0.5 ---
+
+maṇḍalaṃ mantravidyāś ca mudrā granthiś caturvidhā 
+māyāyantrodare cānyā puṃsāṃ sṛṣṭir anāhatā ।।

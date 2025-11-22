@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 299 | label: meter | g:0.194 m:0.729 ---
+
+hā mātṛvatsala ripuṣv api maitracitta
+kṣudreṣv api prakṛtibhadra mṛdusvabhāva ।
+putrāpahāya kṛpaṇāṃ kva nu yāsyasi tvaṃ
+mām adya duḥkhaśatabāṇaśaravyabhūtām ।।

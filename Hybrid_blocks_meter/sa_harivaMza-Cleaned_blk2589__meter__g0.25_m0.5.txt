@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2589 | label: meter | g:0.25 m:0.5 ---
+
+śiraḥ khaṃ te jalaṃ mūrtiḥ kṣamā bhūr dahano mukham 
+vāyur lokāyur ucchvāso manaḥsraṣṭā manus tava ।।

@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2621 | label: meter | g:0.25 m:0.5 ---
+
+kvacid durdinasaṃkāśaiḥ kvacic channābhrasaṃsthitaiḥ 
+kvacic chīkaramuktābhaṃ kurvadbhir gaganaṃ ghanaiḥ ।। 
+kvacidbhinnāñjanākāraiḥ kvacicchīkaravarṣibhiḥ । maṇḍayaty eva devendro viśvam eva nabho ghanaiḥ । 
+evam etat payo dugdhaṃ gobhiḥ sūryasya vāridaḥ 
+parjanyaḥ sarvalokānāṃ bhavāya bhuvi varṣati ।। 
+yasmāt prāvṛḍ iyaṃ kṛṣṇa śakrasya bhuvi bhāvinī । 
+tasmāt prāvṛṣi rājānaḥ sarve śakraṃ mudā yutāḥ 
+mahaiḥ sureśam arcanti vayam anye ca mānavāḥ ।।

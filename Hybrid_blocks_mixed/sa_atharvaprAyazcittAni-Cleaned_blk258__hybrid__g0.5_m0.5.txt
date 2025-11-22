@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 258 | label: hybrid | g:0.5 m:0.5 ---
+
+atha yady anugatam abhyuddharet kā tatra prāyaścittiḥ ।

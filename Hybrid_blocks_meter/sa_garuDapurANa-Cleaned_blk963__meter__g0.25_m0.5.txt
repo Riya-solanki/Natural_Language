@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 963 | label: meter | g:0.25 m:0.5 ---
+
+sāyamagniśca metyuktā prātaḥ sūryetyapaḥ pibet ।
+āpaḥ punantu madhyāhne upaspṛśya yathāvidhi ।।

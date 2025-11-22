@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2442 | label: meter | g:0.194 m:0.5 ---
+
+śaktiṃ guhasya devānām anyeṣāṃ ca yad āyudham 
+tat sarvaṃ tejasā tena viśvakarmā vyavardhayat ।।

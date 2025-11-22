@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 1054 | label: meter | g:0.392 m:0.61 ---
+
+atra vākyārthaḥ subhageti bahuvallabhatāpratipādanaparamāmantraṇapadam ।
+nāsūtritam, sākṣādabhidhīyamānatayā na tathā cetanacamatkāritāṃ pratipadyate, yathaitadākṣepamātraṃ bhaṇitivaicitryeṇa pratīyamānatayā niyamāt tadvidāhlādavidhāyitvaṃ puṣṇāti ।
+tadevamākṣepasvarūpamabhidhāya sādhāraṇavaktavyaśeṣameteṣāmabhidhatte

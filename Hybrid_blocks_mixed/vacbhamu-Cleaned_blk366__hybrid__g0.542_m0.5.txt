@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 366 | label: hybrid | g:0.542 m:0.5 ---
+
+yathā satyasaṃkalpatvādayo brahmaṇyupapadyante, evaṃ śārīre apyupapatsyante, śārīrasya brahmaṇo abhedāt ।
+śārīraguṇā iva manomayatvādayo brahmaṇītyata āha sūtrakāraḥ- anupapattestu na śārīraḥ ।।

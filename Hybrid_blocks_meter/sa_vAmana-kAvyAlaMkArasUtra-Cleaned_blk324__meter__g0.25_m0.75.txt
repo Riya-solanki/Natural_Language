@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 324 | label: meter | g:0.25 m:0.75 ---
+
+cakāsti vadanasyāntaḥ smitacchāyāvikāsinaḥ ।
+unnidrasyāravindasya madhye mugdheva candrikā ।।

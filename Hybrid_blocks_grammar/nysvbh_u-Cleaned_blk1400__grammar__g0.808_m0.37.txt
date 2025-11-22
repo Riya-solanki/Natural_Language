@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1400 | label: grammar | g:0.808 m:0.37 ---
+
+nidarśanam aekaprakṛtīdaṃ vyaktam' iti pratijñā kasmād hetoḥ ? aekaprakṛtīnāṃ vikārāṇāṃ parimāṇāt' amṛtpūrvakāṇāṃ śarāvādīnāṃ dṛṣṭaṃ parimāṇaṃ yāvān prakṛtervyūho bhavati tāvān vikāraḥ' iti dṛṣṭaṃ ca prativikāraṃ parimāṇam asti cedaṃ parimāṇaṃ prativyaktam, tadekaprakṛtīnāṃ vikārāṇāṃ parimāṇāt paśyāmo vyaktamidamekaprakṛtīti।
+asya vyabhicāreṇa pratyavasthānam nānāprakṛtīnāmekaprakṛtīnāṃ ca vikārāṇāṃ dṛṣṭaṃ parimāṇamiti।
+evaṃ pratayavasthite āha ekaprakṛtisamanvaye sati śarāvādivikārāṇāṃ parimāṇadarśanāt sukhaduḥkhamohasamanvitaṃ hīdaṃ vyaktaṃ parimitaṃ gṛhyate tatra prakṛtyantararūpasamanvayābhāve satyekaprakṛtitvamiti।
+tadidamaviśeṣokte hetau pratiṣiddhe viśeṣaṃ bruvato hetvantaraṃ bhavati, sati ca hetvantarabhāve pūrvasya hetorasādhakatvānnigahasthānam, hetvantara vacane sati yadi hetvarthanidarśano dṛṣṭānta upādīyate ? nedaṃ vyaktamekaprakṛti bhavati prakṛtyantaropādānāt, atha nopādīyate ? dṛṣṭānte hetvarthasyānidarśitasya sādhakabhāvānupapatteḥ ānarthakyād hetoranivṛttaṃ nigrahasthānamiti ।।

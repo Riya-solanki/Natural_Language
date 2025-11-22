@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 391 | label: hybrid | g:0.528 m:0.5 ---
+
+sambandhirājyam idam etya mahān praharṣaḥ smṛtvā punar nṛpasutānidhanaṃ viṣādaḥ
+kiṃ nāma daiva bhavatā na kṛtaṃ yadi syād rājyaṃ parair apahṛtaṃ kuśalaṃ ca devyāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 911 | label: meter | g:0.25 m:0.5 ---
+
+mūlaṃ malānāṃ pravadanti jātiṃ jātiprapañcopaśamapravīṇāḥ ।
+tathāgatāś cāvitathapratijñāḥ saṃbhodhisattvāś ca viśuddhasattvāḥ ।।

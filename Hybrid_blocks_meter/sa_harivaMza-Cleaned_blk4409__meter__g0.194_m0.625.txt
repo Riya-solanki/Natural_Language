@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4409 | label: meter | g:0.194 m:0.625 ---
+
+sa tatra samudācāraṃ yathāsthānaṃ yathāvayaḥ 
+kṛtvā siṃhāsane kṛṣṇaḥ kāñcane niṣasāda ha ।।

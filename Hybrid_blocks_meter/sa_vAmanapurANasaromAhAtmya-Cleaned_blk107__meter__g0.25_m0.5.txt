@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 107 | label: meter | g:0.25 m:0.5 ---
+
+upāca vacanaṃ samyak tuṣṭaḥ puṣṭapadākṣaram ।
+śrīmān prītamanā devo yadvadet prabhurīśvaraḥ ।।

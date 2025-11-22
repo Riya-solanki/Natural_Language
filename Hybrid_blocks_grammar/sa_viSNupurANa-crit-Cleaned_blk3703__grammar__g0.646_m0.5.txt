@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3703 | label: grammar | g:0.646 m:0.5 ---
+
+yaduṃ ca turvasuṃ caiva devayānī vyajāyata । druhyuṃ cānuṃ ca pūruṃ ca śarmiṣṭhā vārṣaparvaṇī ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3604 | label: meter | g:0.25 m:0.75 ---
+
+suparisphuṭayā vācā praṇāmaparamaḥ sadā ।
+japete vinayaiścāpi sarvamāśu prasidhyatī- ।।

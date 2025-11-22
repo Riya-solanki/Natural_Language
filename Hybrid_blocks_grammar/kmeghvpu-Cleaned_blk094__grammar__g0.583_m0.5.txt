@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 94 | label: grammar | g:0.583 m:0.5 ---
+
+ity ākhyāte pavanatanayaṃ maithilīvonmukhī sā tvām utkaṇṭhocchvasitahṛdayā vīkṣya saṃbhāvya caiva ।
+śroṣyaty asmāt param avahitā somya sīmantinīnāṃ kāntodantaḥ suhṛdupanataḥ saṃgamāt kiṃ cid ūnaḥ ।।

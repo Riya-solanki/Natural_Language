@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2193 | label: hybrid | g:0.25 m:0.495 ---
+
+prasādaṃ te kariṣyāmi matprasādasamaṃ bhuvi 
+yena sarvasya lokasya devi devī bhavīṣyasi ।। 
+bhaviṣyanti mamāsrāṇi tathā bāhusthitāni te । śārṅgaśaṅkhagadācakra musalaṃ śūlam eva ca । 
+saptamo devakīgarbho yo aṃśaḥ saumyo mamāgrajaḥ 
+sa saṃkrāmayitavyas te saptame māsi rohiṇīm ।।

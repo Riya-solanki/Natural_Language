@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 189 | label: grammar | g:0.562 m:0.5 ---
+
+karāvalambanaṃ dehi śrī kṛṣṇa kamalekṣaṇa bhavapaṅkārṇave ghore majjato mama sarvadā ।।

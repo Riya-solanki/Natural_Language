@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1741 | label: meter | g:0.25 m:0.625 ---
+
+dviguṇena tu kālena paiśācaguṇakṛd bhavet 
+triguṇena tu kālena daivatyaṃ bhajate tu saḥ ।।

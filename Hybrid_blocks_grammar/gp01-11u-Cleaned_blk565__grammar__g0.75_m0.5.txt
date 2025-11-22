@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 565 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhukaṇṭha uvāca-purastād yogamāyākhyaṃ kāraṇam upanyastaṃ, prakriyāntaraṃ ca tatra tayā kriyate sma । yathā, sā hi tatrāntar-gūḍhāṅga-bhujaṅgī-saṅgatāyāḥ kūṭa-kanaka-maya-payaḥ-kanakālukāyāḥ sāmyāvagamyaṃ rūpaṃ dadhatī, paritaḥ sravad-asra-dhārā-vārājasra-stanya-pravāhān vahantī, snehānukāraka-dehata eva te mohitavatī ।

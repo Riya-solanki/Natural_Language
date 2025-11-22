@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1797 | label: meter | g:0.306 m:0.5 ---
+
+ghoraṃ tu tatkarmaḥ nṛpaḥ sa kṛtvā sadyo jvareṇānugato agnineva ।
+vinirgataścopavanāntadeśād gāṃ cāvadīrṇāṃ sahasā viveśa ।।

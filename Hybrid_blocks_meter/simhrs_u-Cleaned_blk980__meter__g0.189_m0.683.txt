@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 980 | label: meter | g:0.189 m:0.683 ---
+
+yathā-
+saṅkalpair anapota-siṃha-nṛpatau saṃrūḍha-mūlāṅkurair
+ākrāntā tanutāṃ gatā smara-śaraiḥ śāteva śātodarī ।
+asman-mūlam idaṃ tanutvam iti kiṃ lajjālase locane
+prāpte pakṣma-puṭāvṛtiṃ ratipates tat-ketanaṃ jṛmbhatām ।।

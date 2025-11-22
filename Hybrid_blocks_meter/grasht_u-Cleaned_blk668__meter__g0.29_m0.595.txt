@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 668 | label: meter | g:0.29 m:0.595 ---
+
+mercury māraṇa
+kiṭṭakapurasaṃyogād dhmātaiḥ kiṭṭastu kiṭṭataḥ satvam ।
+nipatati satvaṃ rasasākaṃ janayati tadbhasma tasyāpi ।।

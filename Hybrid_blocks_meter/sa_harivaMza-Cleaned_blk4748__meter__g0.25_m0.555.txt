@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4748 | label: meter | g:0.25 m:0.555 ---
+
+tām āpatantīṃ saṃprekṣya jīvitāntakarīṃ tadā 
+tām eva prāhiṇoc chaktiṃ sarvaśatrubhayaṃkarīm । 
+so abhiplutya tadā śaktiṃ jagrāha puruṣottamaḥ ।।

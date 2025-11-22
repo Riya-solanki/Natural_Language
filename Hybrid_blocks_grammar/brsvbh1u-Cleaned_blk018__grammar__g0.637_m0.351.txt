@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 18 | label: grammar | g:0.637 m:0.351 ---
+
+-aṇimādisiddhilābhāllīlādyarthaṃ yogamahimnā vyāghraśarīraṃ kṛtvā tadābhimānītyarthaḥ atredaṃ bodhyam avayavopacayāpacayātmake bālye sthāvire vā na śarīrabhedaḥ siddhyati, śarīramiti buddheranugatatvādityarucyā asvapnānte'ityudāhṛtam ।
+svāpnabhramavādināṃ mate tadasiddhyā yogavyāghradṛṣṭāntaḥ, jāgratyapi darśayituṃ veti bodhyam ।

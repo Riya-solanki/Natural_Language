@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1648 | label: meter | g:0.194 m:0.625 ---
+
+niṣprayatneṣu daityeṣu trailokye muktabandhane 
+saṃprahṛṣṭeṣu deveṣu sādhu sādhv iti sarvaśaḥ ।।

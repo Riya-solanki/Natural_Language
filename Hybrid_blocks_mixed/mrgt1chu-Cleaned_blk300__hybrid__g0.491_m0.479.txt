@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 300 | label: hybrid | g:0.491 m:0.479 ---
+
+dharmiṇo anugrāhyasya dharmāṇāṃ yad anuvartanaṃ so anugrāhakasyānugrahaḥ kramavikasvarasvarūpāṇāṃ padmānāmiva vivasvataḥ ।। 
+sa iti tathāvidho dharmaḥ kasyacidapi dharmiṇo nāsti yaḥ parameśvareṇa nānuvartyate nādhiṣṭhīyate tasya sarvavyāpakatvāt ।। 
+evaṃ ca ।।

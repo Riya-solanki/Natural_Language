@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1453 | label: meter | g:0.25 m:0.672 ---
+
+hara uvāca ।
+kaśyapātre vāruṇeya gādheya śṛṇu gautam ।
+bharadvāja śṛṇuṣva tvamaṅgirastvaṃ śṛṇuṣva ca ।।

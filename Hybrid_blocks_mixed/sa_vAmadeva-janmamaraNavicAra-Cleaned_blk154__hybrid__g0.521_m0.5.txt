@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 154 | label: hybrid | g:0.521 m:0.5 ---
+
+sa jñeyas taṃ viditveha punar ājāyate na tu ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 341 | label: meter | g:0.36 m:0.594 ---
+
+vyathitavanitāvaktraupamyaṃ bibharti niśāpatir galitavibhavasyājñevādya dyutir masṛṇā raveḥ ।
+abhinavavadhūroṣasvāduḥ karīṣatanūnapād asaralajanāśleṣakrūras tuṣārasamīraṇaḥ ।।
+abhinandasya

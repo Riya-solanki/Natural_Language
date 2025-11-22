@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 153 | label: hybrid | g:0.51 m:0.5 ---
+
+yamarthamāptavyaṃ hātavyaṃ vā vyavasāya tadāptihānopāyamanutiṣṭhati, prayojanaṃ tadveditavyam, pravṛttihetutvāt।
+imamarthamāpsyāmi hāsyāmi vetivyavasāyo arthasyādhikāraḥ, evaṃ vyavasīyamāno artho adhikriyata iti।।

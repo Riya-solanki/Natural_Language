@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2961 | label: meter | g:0.194 m:0.5 ---
+
+kiṃ kariṣyāmahe sarve satsu vaktavyatāṃ gatāḥ 
+yadūnāṃ yūthamukhyasya yasya te vṛttam īdṛśam ।।

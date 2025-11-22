@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 1001 | label: meter | g:0.194 m:0.625 ---
+
+vṛndāvanaṃ govardhanaṃ yamunā-pulināni ca ।
+vīkṣyāsīd uttamā prītī rāma-rāmānujātayoḥ ।। [BhP ]

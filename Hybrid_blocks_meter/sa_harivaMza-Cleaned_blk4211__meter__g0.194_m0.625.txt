@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4211 | label: meter | g:0.194 m:0.625 ---
+
+sa pakṣavātasaṃkṣubdhaṃ samudraṃ makarālayam 
+kṛtvā vegena mahatā yayau pūrvaṃ mahodadhim ।।

@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 212 | label: meter | g:0.25 m:0.75 ---
+
+yogyatātrayam apyetat samatītya maheśvaraḥ ।
+svāpe'ṇumanugṛhṇāti sādhikāramidaṃ yataḥ ।।

@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 2 | label: meter | g:0.309 m:0.716 ---
+
+saṃbandhaṃ tāval lakṣaṇadvayasya karoti ।
+tatra prathame adhyāye pramāṇalakṣaṇaṃ vṛttam ity uktam ।
+tad ayuktam ।
+kutaḥ ।

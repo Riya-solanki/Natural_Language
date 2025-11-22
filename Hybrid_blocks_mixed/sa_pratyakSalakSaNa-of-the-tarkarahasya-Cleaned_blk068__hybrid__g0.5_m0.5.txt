@@ -1,0 +1,3 @@
+--- source: sa_pratyakSalakSaNa-of-the-tarkarahasya-Cleaned.txt | block: 68 | label: hybrid | g:0.5 m:0.5 ---
+
+kiṃ na sarve daṇḍinaḥ, saṃyogasya guṇatvena yatrāsau samavetaḥ sa eva daṇḍīti cet, samavāyo'py asti kiṃ na sarve daṇḍinaḥ, yadaṅgatayā gṛhyate sa eva daṇḍīti cet, evaṃ tarhi daṇḍāder apisāṃvṛtatām abhikhyāyāta

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1038 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ yayāteḥ śāpena jarāsaṃkramaṇe tadā 
+pauravaṃ turvasor vaṃśaḥ praviveśa nṛpottama ।।

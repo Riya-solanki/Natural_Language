@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 1231 | label: meter | g:0.25 m:0.875 ---
+
+pradhānavastusaṃbandhatirodhānavidhāyinā ।
+kāryāntarāntarāyeṇa vicchinnavirasā kathā ।।
+tatraiva tasya niṣpatternirnibandharasojjvalām ।
+prabandhasyānubadhnāti navāṃ kāmapi vakratām ।।

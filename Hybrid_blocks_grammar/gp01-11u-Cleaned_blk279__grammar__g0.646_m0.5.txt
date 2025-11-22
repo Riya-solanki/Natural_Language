@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 279 | label: grammar | g:0.646 m:0.5 ---
+
+[] tataś ca śrī-kṛṣṇaś cintitavān, "āṃ āṃ, cirān mamāpy anayor āgamanaṃ sphuraṇa-mayam āsīt" iti ।

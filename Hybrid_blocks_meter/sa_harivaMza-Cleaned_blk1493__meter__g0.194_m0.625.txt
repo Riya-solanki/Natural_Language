@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1493 | label: meter | g:0.194 m:0.625 ---
+
+te gadāparighair ugrair dhanur vyāyāmaśālinaḥ 
+bāhubhiḥ parighākārais tarjayanti sma dānavāḥ ।।

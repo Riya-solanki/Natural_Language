@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1604 | label: meter | g:0.25 m:0.5 ---
+
+taṃ mā paśya samāpannaṃ tavaivārādhane ratam 
+yat sīdeyaṃ muniśreṣṭha tavaiva syātparājayaḥ ।। 
+śiṣyo asmi te tapaḥśreṣṭha surebhyo me bhayaṃ nuda । 
+dhanyo asmy anugṛhīto asmi yasya te ahaṃ gurur mataḥ 
+nāsti te tapasānena bhayam adyeha suvrata ।।

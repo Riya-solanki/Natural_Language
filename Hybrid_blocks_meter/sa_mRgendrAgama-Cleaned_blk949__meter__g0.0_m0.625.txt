@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 949 | label: meter | g:0.0 m:0.625 ---
+
+potaḥ pitṝṇāṃ yaḥ śaśvatsagarbhamimamācaret 
+dhyāyedadhvāntagaṃ devaṃ japettadvācakaṃ sadā ।। MT

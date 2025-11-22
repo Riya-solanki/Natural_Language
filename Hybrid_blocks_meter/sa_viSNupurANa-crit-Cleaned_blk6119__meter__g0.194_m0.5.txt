@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6119 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ prabuddho rātryante punaḥ sṛṣṭiṃ karoty ajaḥ 
+brahmasvarūpadhṛg viṣṇur yathā te kathitaṃ purā ।।

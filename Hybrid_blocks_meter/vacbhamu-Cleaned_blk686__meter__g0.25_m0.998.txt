@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 686 | label: meter | g:0.25 m:0.998 ---
+
+pṛthagupadeśāt ।
+nigadavyākhyātabhasya bhāṣyam ।।

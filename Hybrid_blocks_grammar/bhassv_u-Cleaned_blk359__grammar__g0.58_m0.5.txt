@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 359 | label: grammar | g:0.58 m:0.5 ---
+
+bhinnās te ripavo bhavadguṇaratāḥ paurāḥ samāśvāsitāḥ pārṣṇī yāpi bhavatprayāṇasamaye tasyā vidhānaṃ kṛtam
+yad yat sādhyam aripramāthajananaṃ tat tan mayānuṣṭhitaṃ tīrṇā cāpi balair nadī tripathagā vatsāś ca haste tava ।।

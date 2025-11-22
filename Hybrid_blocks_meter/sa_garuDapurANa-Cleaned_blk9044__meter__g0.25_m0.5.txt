@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9044 | label: meter | g:0.25 m:0.5 ---
+
+viprasya brāhmaṇī bhāryā saṃgṛhī tā yadā bhavet ।
+tasmātpāpācca bhīto ahaṃ tanme vada jagatpate ।
+sarvametanmayā pṛṣṭo vada lokahitāya vai ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4322 | label: hybrid | g:0.398 m:0.5 ---
+
+jātiṃ yadā paurvikīṃ tu smarate tāta mānavaḥ ।
+tadā sa tebhyaḥ pāpebhyo śubhavardhanāya pāpakṣayāyātha mune hyaraṇyam ।
+bhavān divākīrtimimaṃ suputraṃ gārhasthyadharme viniyojayasva ।।

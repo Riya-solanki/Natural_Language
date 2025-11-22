@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1735 | label: meter | g:0.29 m:0.638 ---
+
+atha upadiṣṭam-
+pratigṛhya tu śāstrārthaṃ yad vākyam abhidhīyate ।
+vidvan-manoharaṃ svantam upadiṣṭaṃ tad ucyate ।।

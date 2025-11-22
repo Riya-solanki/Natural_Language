@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 418 | label: meter | g:0.25 m:0.625 ---
+
+kaiśikyārabhaṭī caiva bhāratī sātvatī tathā ।
+madhyamārabhaṭī caiva tathā madhyamakaiśikī ।।

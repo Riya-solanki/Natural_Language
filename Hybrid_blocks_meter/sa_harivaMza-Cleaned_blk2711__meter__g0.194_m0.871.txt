@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2711 | label: meter | g:0.194 m:0.871 ---
+
+prāpto antakālo lokānāṃ prāptā caikārṇavā mahī 
+iti gopagaṇā vākyaṃ vyāharanti bhayārditāḥ ।। 
+tenotpātāmbuvarṣeṇa gāvo viprahatā bhṛśam । 
+hambhāravaiḥ krandamānā na celuḥ stambhitopamāḥ 
+niṣkampasakthiśravaṇā niṣprayatnakhurānanāḥ 
+hṛṣṭalomārdratanavaḥ kṣāmakukṣipayodharāḥ ।।

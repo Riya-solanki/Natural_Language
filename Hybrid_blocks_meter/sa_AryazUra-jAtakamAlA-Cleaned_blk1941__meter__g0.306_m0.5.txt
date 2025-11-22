@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1941 | label: meter | g:0.306 m:0.5 ---
+
+viṣāṇayugmaṃ tadidaṃ madhuprabhaṃ sadarpacihnaṃ taṭareṇunāruṇam ।
+ādeśayan mārgamimaṃ ca yenaḥ sa eṣa dīrghāṅgalipuṣkaraḥ karaḥ ।।

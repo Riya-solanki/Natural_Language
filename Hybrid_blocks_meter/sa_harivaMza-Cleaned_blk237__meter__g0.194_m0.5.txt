@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 237 | label: meter | g:0.194 m:0.5 ---
+
+tāv ūcatus tadā sarvāṃs tān ṛṣīn sūtamāgadhau 
+āvāṃ devān ṛṣīṃś caiva prīṇayāvaḥ svakarmabhiḥ ।।

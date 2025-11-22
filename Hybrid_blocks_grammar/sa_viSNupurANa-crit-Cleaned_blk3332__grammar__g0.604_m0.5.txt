@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3332 | label: grammar | g:0.604 m:0.5 ---
+
+tatpitrā tu vasiṣṭhavacanāt pratiṣṭhānaṃ nāma nagaraṃ sudyumnāya dattaṃ tac cāsau purūravase prādāt ।।

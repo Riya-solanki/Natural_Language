@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 553 | label: meter | g:0.307 m:0.623 ---
+
+garjantyathānyonyamupetya yuddhe cāpāni karṣantyativegitāśca ।
+muñcanti nārācagaṇān sahasraśa agaccha he tiṣṭhasi kiṃ bruvantaḥ ।।

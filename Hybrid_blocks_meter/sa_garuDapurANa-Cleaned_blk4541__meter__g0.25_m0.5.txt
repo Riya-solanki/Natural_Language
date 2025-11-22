@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4541 | label: meter | g:0.25 m:0.5 ---
+
+śuṣkaṃ samastavarṇaṃ vā mūtrasādaṃ vadantitam ।
+iti vistārataḥ proktā rogā mūtrapravartitāḥ ।।

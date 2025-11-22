@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2266 | label: meter | g:0.251 m:0.623 ---
+
+piṇḍaḥ pṛthag yataḥ puṃsaḥ śiraḥpāṇyādilakṣaṇaḥ 
+tato aham iti kutraitāṃ saṃjñāṃ rājan karomy aham ।।

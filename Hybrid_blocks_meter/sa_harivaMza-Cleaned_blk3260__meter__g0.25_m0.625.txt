@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3260 | label: meter | g:0.25 m:0.625 ---
+
+ekapatnīvratam idaṃ mama saṃdūṣitaṃ tvayā 
+patyur me rūpam āsthāya nīca nīcena karmaṇā ।।

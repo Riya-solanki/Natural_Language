@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3106 | label: meter | g:0.194 m:0.5 ---
+
+nūnaṃ tribhiḥ kramair jitvā yathānena kṛtaḥ prabhuḥ 
+purā puraṃdaro rājā devatānāṃ triviṣṭape ।।

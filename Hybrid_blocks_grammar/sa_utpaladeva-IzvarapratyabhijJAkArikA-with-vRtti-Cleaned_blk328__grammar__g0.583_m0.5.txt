@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 328 | label: grammar | g:0.583 m:0.5 ---
+
+aiśvaryadaśāyāṃ pramātā viśvaṃ śārīratayā paśyan patiḥ puṃstvāvasthāyāṃ tu rāgādikleśakarmavipākāśayaiḥ parītaḥ paśuḥ ।।

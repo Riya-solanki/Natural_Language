@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10571 | label: meter | g:0.25 m:0.625 ---
+
+ākhyātā devagandharvāstebhyaste ca śatāvarāḥ ।
+tebhyastu kṣitipā jñeyā avarāśca śatairguṇaiḥ ।।

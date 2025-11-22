@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3883 | label: meter | g:0.25 m:0.625 ---
+
+satyaketuḥ sunītasya satyaketorvibhuḥ sutaḥ ।
+vibhostu suvibhuḥ putraḥ suvibhoḥ sukumārakaḥ ।।

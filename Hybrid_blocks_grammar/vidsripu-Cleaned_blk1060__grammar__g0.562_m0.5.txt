@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1060 | label: grammar | g:0.562 m:0.5 ---
+
+svasti kṣīrābdhimadhyān nijadayitabhujābhyantarasthābjahastā kṣmāyāmakṣāmakīrtiṃ kuśalayati mahābhūbhujaṃ bhojyadevam ।
+kṣemaṃ me anyad yugāntāvadhi tapatu bhavān yadyaśoghoṣaṇābhir devo nidrādaridraḥ saphalayati harir yauvanarddhiṃ mameti ।।

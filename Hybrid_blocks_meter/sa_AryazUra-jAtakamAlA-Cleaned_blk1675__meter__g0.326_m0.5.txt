@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1675 | label: meter | g:0.326 m:0.5 ---
+
+yo nāma nāmūni phalāni bhuṅkte sa kāni rājyasya phalāni bhuṅkte ।
+yasyānnametattu ca eva rājā vinaiva rājatvapariśrameṇa ।।

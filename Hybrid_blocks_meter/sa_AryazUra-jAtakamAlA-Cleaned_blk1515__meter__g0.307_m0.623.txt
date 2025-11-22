@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1515 | label: meter | g:0.307 m:0.623 ---
+
+yāvacca visrambhasukhaprasuptastāvanmayā śakyamayaṃ nihantum ।
+imaṃ hi yuddhābhimukhaṃ sametya siṃho api saṃbhāvyaparājayaḥ syāt ।।

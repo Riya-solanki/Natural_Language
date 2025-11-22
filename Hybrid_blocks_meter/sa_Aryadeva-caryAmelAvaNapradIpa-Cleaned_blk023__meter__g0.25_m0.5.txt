@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 23 | label: meter | g:0.25 m:0.5 ---
+
+tathā sabāhyā viṣayāśca pañca ekaikaśaḥ pañcatathāgataiśca ।
+svakasvakā nityamadhiṣṭhitāste jñānatrayaṃ pañcasamāśritaṃ ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2190 | label: meter | g:0.194 m:0.625 ---
+
+hariṇīṃ tāṃ vilokyātha vipannāṃ nṛpatāpasaḥ 
+mṛgapotaṃ samādāya punar āśramam āgataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11283 | label: grammar | g:0.573 m:0.5 ---
+
+saṃgaiḥ sadā durjanānāṃ murāre gātraṃ dagdhaṃ na virāgeṇa yuktam ।
+etādṛśāhaṃ kāṃ gātiṃ vā mukunda yāsye na jāne dayayā māṃ ca pāhi ।।

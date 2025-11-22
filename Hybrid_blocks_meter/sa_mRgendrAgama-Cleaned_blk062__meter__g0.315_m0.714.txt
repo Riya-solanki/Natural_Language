@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 62 | label: meter | g:0.315 m:0.714 ---
+
+kramākramasamutpatteḥ kramādyutpattiśaktimat 
+tasyāsti karaṇaṃ yena dṛṣṭā nākaraṇā kṛtiḥ ।।

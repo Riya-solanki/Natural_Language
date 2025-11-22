@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11880 | label: hybrid | g:0.521 m:0.5 ---
+
+sunāgapāśaṃ hi gale ca baddhvā taccheṣānnaṃ bhojayerbhoḥ punastvam ।
+dine caturthe bhoja yasvādya bhaktyā naivedyānnaṃ bhojayasvādya suṣṭhu ।।

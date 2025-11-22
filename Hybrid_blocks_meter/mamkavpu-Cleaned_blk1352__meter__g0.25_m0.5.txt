@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1352 | label: meter | g:0.25 m:0.5 ---
+
+nigīryādhyavasānaṃ tu prakṛtasya pareṇa yat ।
+prastutasya yadanyatvaṃ yadyarthoktau ca kalpanam ।।

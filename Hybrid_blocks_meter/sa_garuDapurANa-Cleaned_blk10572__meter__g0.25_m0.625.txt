@@ -1,0 +1,8 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10572 | label: meter | g:0.25 m:0.625 ---
+
+tebhyaḥ śataguṇājñeyā mānuṣeṣūttamā gaṇāḥ ।
+evaṃ prāsaṃgikānuktvā prakṛtaṃ hyanusarāmyaham ।
+evaṃ brahmādayo devā lakṣmyādyā api sarvaśaḥ ।।
+stutvā tūṣṇīṃ sthitāḥ sarve prāñjalīkṛtya bho dvija ।।
+iti stutaśca deveśo bhagavān hariravyayaḥ ।
+teṣāmāyatanaṃ dātuṃ manasā samacintayat ।।

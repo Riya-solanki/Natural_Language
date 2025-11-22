@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 331 | label: grammar | g:0.583 m:0.5 ---
+
+kartarīti kriyāyāṃ guṇaḥ kartā, pradhānaṃ karma, tatraikasyāṃ kriyāyāmekasya guṇatvapradhānatvayorvirodhānna kartuḥ karmatvamityarthaḥ ।

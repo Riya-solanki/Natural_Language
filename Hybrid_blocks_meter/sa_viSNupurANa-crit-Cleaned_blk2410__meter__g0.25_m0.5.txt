@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2410 | label: meter | g:0.25 m:0.5 ---
+
+āpyāḥ prasūtā bhavyāś ca pṛthugāś ca divaukasaḥ 
+mahānubhāvā lekhāś ca pañcaite hy aṣṭakā gaṇāḥ ।।

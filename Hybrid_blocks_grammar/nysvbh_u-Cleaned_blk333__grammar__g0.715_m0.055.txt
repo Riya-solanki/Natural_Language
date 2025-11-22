@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 333 | label: grammar | g:0.715 m:0.055 ---
+
+yadyavayavī nāsti ? sarvasya grahaṇaṃ nopapadyate।
+kiṃ tat sarvam ?, dravyaguṇakarmasāmānyaviśeṣasamavāyāḥ।
+kathaṃ kṛtvā ?, paramāṇusamavasthānaṃ tāvad darśanaviṣayo na bhavati atīndriyatvādaṇūnām dravyāntaraṃ cāvayavibhūtaṃ darśanaviṣayo nāsti darśanaviṣayāśceme dravyādayo gṛhyante te niradhiṣṭhānā na gṛhyeranu gṛhyante tu akumbhoyaṃ śyāma eko mahān saṃyuktaḥ spandate asti mṛnmayaśca' iti santi ceme guṇādayo dharmā iti tena sarvasya grahaṇāt paśyāmo asti dravyāntarabhūto avayavīti ।।

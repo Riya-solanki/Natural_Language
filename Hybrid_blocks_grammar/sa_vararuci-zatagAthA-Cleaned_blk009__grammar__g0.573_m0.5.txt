@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 9 | label: grammar | g:0.573 m:0.5 ---
+
+alpastu kālo vividhāśca vidhā ḥ simāyuṣo yā kiyatī? na buddhā ।
+haṃsā labhante ca yathā payo adbhyas tathaiva tatvaṃ labhatāṃ ca yattat ।।

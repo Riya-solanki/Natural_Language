@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2587 | label: meter | g:0.306 m:0.5 ---
+
+ye devapūrvāṇyabhitṛptihetora śranti kavyāni śubhāhṛtāni ।
+tṛptāśca ye bhūtisṛjo bhavanti tṛpyantu te asminpraṇato asmi tebhyaḥ ।।

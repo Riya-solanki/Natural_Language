@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 674 | label: grammar | g:0.75 m:0.5 ---
+
+[] ṛṣir uvāca-tad evaṃ tatra sarva-svāsthya-maya-gārhasthya-caye pratiśvastanaṃ sphurad-upacaye sati suta-sampattir api matim atītya pratyahaṃ pratoṣyate । kiṃ bahunā, bhavadvad-varṣa-ṣaṭkān anantaram eva yauvana-prapañcatas teṣām api prajātāḥ prajās tāvaty eva diṣṭe dṛṣṭa-yauvanā bhaviṣyanti । bhavān punar īdṛśatayā paraṃ nava-vayāḥ sthāsyati ।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1001 | label: meter | g:0.426 m:0.58 ---
+
+kacamūlabaddhapannaganiśvāsaviṣāgnidhūmahatamadhyam ।
+aiśānam iva kapālaṃ sphuṭalakṣma sphurati śaśibimbam ।।
+dakṣasya

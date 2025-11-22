@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2551 | label: grammar | g:0.583 m:0.5 ---
+
+vajrabandhaṃ samādhāya jyeṣṭhānāmamukhocchitā । tābhiḥ padmaṃ tu saṃbhāvya madhyamāmyāṃ maṇīkṛtā ।। ।।

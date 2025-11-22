@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 544 | label: meter | g:0.056 m:0.875 ---
+
+śobhāṃ vindan nandajāloka-lokaḥ
+sadmāyāsīt kṛtrimākṛtrimā yā ।
+vastrādīnāṃ citratā yatra pūrvā
+netrādīnāṃ citratāsīd apūrvā ।। [śālinī]

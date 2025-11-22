@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 193 | label: meter | g:0.194 m:1.0 ---
+
+vaśyākrāntistatparijñānayogo bhogānicchā vighnasaṃghavyapāyaḥ 
+bhogāsaktirnyakkṛtirdehalabdhir vighnaścārthāsteṣu sāṃsiddhikeṣu ।।

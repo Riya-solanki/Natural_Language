@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1462 | label: grammar | g:0.568 m:0.414 ---
+
+na lopo varṇānāṃ na khalu parataḥ pratyayavidhir vikāro nāsty eva kvacid api na bhagnāḥ prakṛtayaḥ ।
+guṇo vā vṛddhir vā satatam upakārāya jagatāṃ muner dākṣīputrād api tava samarthaḥ padavidhiḥ ।।
+pāṇineḥ

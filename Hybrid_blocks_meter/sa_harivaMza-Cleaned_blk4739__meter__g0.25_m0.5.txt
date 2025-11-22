@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4739 | label: meter | g:0.25 m:0.5 ---
+
+so abhibhūya raṇe bāṇam āsthito yadunandanaḥ 
+siṃhaḥ pramukhato dṛṣṭvā gajam ekaṃ yathā vane ।।

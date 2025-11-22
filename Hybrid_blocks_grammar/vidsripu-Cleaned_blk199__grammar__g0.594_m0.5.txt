@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 199 | label: grammar | g:0.594 m:0.5 ---
+
+sadyas tapto bhramati rajanīṃ vāsaraḥ khaṇḍayitvā kṣīṇakṣīṇā tadanu bhajate sāpi samyakprasādam ।
+eko loke kathayati narasyeṣṭajāte nisargaṃ nāryāḥ puṃsi sthitim anuguṇāṃ śaṃsati spaṣṭam anyā ।।

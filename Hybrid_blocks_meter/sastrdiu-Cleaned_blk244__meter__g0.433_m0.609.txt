@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 244 | label: meter | g:0.433 m:0.609 ---
+
+kiñca dhūnopalakṣitasya parvatādideśaviśeṣasyāgnisaṃbandho avagata iti vadatā dhūmasaṃbandho apyavagata iti vaktavyam ।
+nahyajñātasaṃbandhamupalakṣyamupalakṣayituṃ kṣaṇam ।।

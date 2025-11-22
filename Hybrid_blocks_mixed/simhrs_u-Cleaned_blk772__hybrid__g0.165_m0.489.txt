@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 772 | label: hybrid | g:0.165 m:0.489 ---
+
+atha abhimāṇaḥ । idam eva mama priyaṃ nānyad ity abhiprāyo' bhimānaḥ । tena, yathā-
+jagati jayinas te te bhāvā navendu-kalādayaḥ
+prakṛti-madhurāḥ santy evānye mano madayanti ye । mama tu yad iyaṃ yātā loke vilocana-candrikā
+nayana-viṣayaṃ janmany ekaḥ sa eva mahotsavaḥ ।।

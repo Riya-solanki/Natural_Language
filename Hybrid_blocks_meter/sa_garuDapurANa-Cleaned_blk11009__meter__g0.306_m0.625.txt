@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11009 | label: meter | g:0.306 m:0.625 ---
+
+kiñcitkālaṃ tathā sthitvā kanyaiva mṛti māpa sā ।
+śacyādisaṃyutā saiva drupadasya mahātmanaḥ ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1635 | label: hybrid | g:0.533 m:0.416 ---
+
+yo yaḥ kṛtto daśamukhabhujas tasya tasyaiva vīryaṃ labdhvā dṛpyanty adhikam adhikaṃ bāhavaḥ śiṣyamāṇāḥ ।
+yady acchinnaṃ daśamukhaśiras tasya tasyaiva kāntau saṃkrāmantyām atiśayavatī śeṣavaktreṣu lakṣmīḥ ।।
+murāreḥ

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2378 | label: meter | g:0.194 m:0.75 ---
+
+nīlapītāruṇais tāsāṃ vastrair udgrathitocchritaiḥ 
+śakracāpāyate paṅktir gopīnāṃ mārgagāminī ।।

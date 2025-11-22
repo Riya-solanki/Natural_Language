@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2703 | label: meter | g:0.25 m:0.75 ---
+
+sārdhadvinetrāḥ padmākṣāḥ śrīvatsāṅkitavakṣasaḥ ।
+samāyātāḥ khagārūḍhā vṛṣabhadhvajino avyayāḥ ।।

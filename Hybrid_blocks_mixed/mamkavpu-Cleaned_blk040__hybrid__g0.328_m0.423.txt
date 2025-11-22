@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 40 | label: hybrid | g:0.328 m:0.423 ---
+
+ākāṅkṣāyogyatāsaṃnidhivaśādvakṣyamāṇasvarūpāṇāṃ padārthānāṃ samanvaye tātparyārtho viśeṣavapurapadārtho api vākyaārthaḥ samullasatītyabhihitānvayavādināṃ matam ।।
+vācya eva vākyārtha ityanvitābhidhānavādinaḥ ।।

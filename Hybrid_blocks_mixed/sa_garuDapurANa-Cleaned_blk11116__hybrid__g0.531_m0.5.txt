@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11116 | label: hybrid | g:0.531 m:0.5 ---
+
+dṛṣṭaṃ mayā tvarivale bhavināśiśaṅkhacakrādikaistrijagatāpi ca deva pūrṇam ।
+etādṛśaṃ tvadudaraṃ ca kathaṃ rameśa drakṣye punaḥ punarahaṃ tviti saṃruroda ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1264 | label: grammar | g:0.729 m:0.5 ---
+
+[] iti kṛṣṇodyam anu sodyamatayā tatra tan-nimeṣata eva jigamiṣatsu teṣu sa-praṇayavatsu kṛṣṇaḥ sa-tṛṣṇam uvāca-annaṃ ca tatra śrīmad-āryādi-sahita-mad-artham arthayadhvam ।

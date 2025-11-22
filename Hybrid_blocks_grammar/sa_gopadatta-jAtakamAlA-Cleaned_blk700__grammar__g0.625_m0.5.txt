@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 700 | label: grammar | g:0.625 m:0.5 ---
+
+atithir mitram arthīva satkārāyatanaṃ paraṃ mayi caitat trayaṃ yasmād ato me abhyarthanāṃ kuru ।।

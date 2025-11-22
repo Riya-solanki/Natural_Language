@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 374 | label: meter | g:0.25 m:0.592 ---
+
+bhāvanāprakarṣaparyantajaṃ vā ।
+tatra śrāvaṇaṃ na vidheyam, svādhyāyavidhinaivāsya prāpitatvāt, karmaśrāvaṇavat ।
+nāpi laukikaṃ pratyakṣam, tasya naisargikatvāt ।
+na caupaniṣadātmaviṣayaṃ bhāvanādheyavaiśiṣṭyaṃ vidheyaṃ, tasyopāsanāvidhānādeva vājina

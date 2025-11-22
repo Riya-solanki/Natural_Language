@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1468 | label: meter | g:0.306 m:0.625 ---
+
+tadvarjanād guṇavivarjayiturjanasya saṃsevanācca guṇasevanapaṇḍitasya ।
+svāṃ kirtimujjvalaya saṃjanayan prajānāṃ doṣānurāgavilayaṃ guṇasauhṛdaṃ ca ।।

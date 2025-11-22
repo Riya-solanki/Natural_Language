@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2508 | label: meter | g:0.194 m:0.625 ---
+
+duḥkhitaṃ bata paśyāmo nandagopaṃ hradāntike 
+nyasya putramukhe dṛṣṭiṃ niścetanam avasthitam ।।

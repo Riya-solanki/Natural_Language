@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2748 | label: meter | g:0.272 m:0.595 ---
+
+gāvas tenaiva mārgeṇa parijagmur gataśramāḥ 
+khaṃ ca sthānaṃ tato ghoṣaḥ pratyayāt punar eva saḥ ।।

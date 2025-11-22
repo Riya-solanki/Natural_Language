@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2040 | label: meter | g:0.25 m:0.5 ---
+
+ye nītimārgapratipattidhīrāḥ prāyeṇa te pretya patantyapāyān ।
+apāsya jihmāniti nītimārgān satyānurakṣī punarāgato asmi ।।

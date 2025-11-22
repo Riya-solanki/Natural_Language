@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 376 | label: meter | g:0.142 m:0.818 ---
+
+iyameva parivṛttirityeke tannirāsārthamāha 
+samavisadṛśābhyāṃ parivartanaṃ parivṛttiḥ ।।
+samena visadṛśena vārthena arthasya parivartanaṃ parivṛttiḥ । yathā

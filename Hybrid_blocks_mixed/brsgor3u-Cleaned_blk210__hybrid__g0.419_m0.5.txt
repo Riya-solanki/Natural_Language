@@ -1,0 +1,5 @@
+--- source: brsgor3u-Cleaned.txt | block: 210 | label: hybrid | g:0.419 m:0.5 ---
+
+kiñca mṛtasya chandato yathākāmaṃ vidyānuṣṭhānānupapatterubhyorvidyākarmakṣayayoḥ śruto hetuphalabhāvo virudhyate ।
+kiñca sati puṣkalahetau na kāryavilamba iti nyāyopetatāṇḍyādiśrutivirodhastava syādasmatpakṣe tvavirodha ityāha-chandata iti ।
+tasmātkarmahānasya vidyāphalatvātkevalahānāvupāyanopasaṃhāro vidyāstutaya iti siddham ।।

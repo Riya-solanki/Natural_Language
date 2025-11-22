@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3198 | label: meter | g:0.25 m:0.5 ---
+
+praṇayāc cāpi kṛṣṇaṃ sā babhāṣe mattakāśinī 
+kva yāsyasi mayā ruddhaḥ kānta tiṣṭha gṛhāṇa mām ।।

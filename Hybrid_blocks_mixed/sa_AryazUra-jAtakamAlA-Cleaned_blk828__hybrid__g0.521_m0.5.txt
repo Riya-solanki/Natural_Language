@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 828 | label: hybrid | g:0.521 m:0.5 ---
+
+lokasya yo nādriyate apavādaṃ dharmānapekṣaḥ parataḥ phalaṃ vā ।
+jano na viśvāsamupaiti tasmindhruvaṃ ca lakṣmyāpi vivarjyate saḥ ।।

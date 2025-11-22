@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 97 | label: meter | g:0.194 m:0.5 ---
+
+guṇasāmye tatas tasmin pṛthak puṃsi vyavasthite 
+kālasvarūpaṃ tad viṣṇor maitreya parivartate ।।

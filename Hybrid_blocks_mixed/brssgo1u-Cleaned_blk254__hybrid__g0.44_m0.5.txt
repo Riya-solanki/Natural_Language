@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 254 | label: hybrid | g:0.44 m:0.5 ---
+
+atrocyate- svāpaprabodhayorindriyāṇāmeva kevalānāṃ prāṇāśrayaṃ saṃveśanodgamanaṃ dṛśyate, na sarveṣāṃ bhūtānām ।
+ihatu sendriyāṇāṃ saśarīrāṇāṃ ca jīvāviṣṭānāṃ bhūtānāṃ, asarvāṇi ha vā imāni bhūtāni' iti śruteḥ ।
+yadāpi bhūtaśrutirmahābhūtaviṣayā parigṛhyate tadāpi brahmaliṅgatvamaviruddham ।

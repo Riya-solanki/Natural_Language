@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 120 | label: meter | g:0.194 m:0.625 ---
+
+ākāśavāyutejāṃsi salilaṃ pṛthivī tathā 
+śabdādibhir guṇair brahman saṃyuktāny uttarottaraiḥ ।।

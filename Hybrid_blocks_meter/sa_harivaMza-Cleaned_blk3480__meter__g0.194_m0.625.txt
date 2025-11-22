@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3480 | label: meter | g:0.194 m:0.625 ---
+
+tathaiva bhrātaraṃ cāsya sunāmānaṃ mahābhujam 
+saṃskāraṃ lambhayām āsuḥ saha kṛṣṇena yādavāḥ ।।

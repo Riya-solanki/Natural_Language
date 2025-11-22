@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1338 | label: meter | g:0.25 m:0.528 ---
+
+eko dharmaḥ prayatnānantarīyakatvaṃ śabdaghaṭayorupapadyate ityaviśeṣe ubhayoranitayatve sarvasyāviśeṣaḥ prasajyate।
+katham ? sadbhāvopapatteḥ eko dharmaḥ sadbhāvaḥ sarvasyopapadyate।
+sadbhāvopapatteḥ sarvāviśeṣaprasaṅgāt pratyavasthānam aviśeṣasamaḥ ।।

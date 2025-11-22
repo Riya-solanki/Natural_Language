@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5411 | label: meter | g:0.284 m:0.649 ---
+
+udumbarapramāṇena saptāhaṃ bhakṣaṇātsamam ।
+pumāṃśca balavānsa syājjīvedvarṣaśatadvayam ।
+oṃ ṭha ṭha ṭha iti sarvavaśyaprayogeṣu prayuktaḥ sarvakāmakṛt ।।

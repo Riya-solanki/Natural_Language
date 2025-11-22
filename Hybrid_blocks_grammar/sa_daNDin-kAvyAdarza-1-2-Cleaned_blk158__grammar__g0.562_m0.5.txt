@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 158 | label: grammar | g:0.562 m:0.5 ---
+
+na liṅgavacane bhinne na hīnādhikatāpi vā upamādūṣaṇāyālaṃ yatrodvego na dhīmatām ।।

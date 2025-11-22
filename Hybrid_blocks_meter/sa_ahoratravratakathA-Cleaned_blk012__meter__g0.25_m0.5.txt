@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 12 | label: meter | g:0.25 m:0.5 ---
+
+tat sarvaṃ gadatāṃ dhīra sarvasattvānukampaka ।
+bhavatā cānupālyo ayaṃ lokaś ca duṣkṛtākulaḥ ।।

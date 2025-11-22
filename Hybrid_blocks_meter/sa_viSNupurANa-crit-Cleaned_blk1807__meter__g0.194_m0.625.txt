@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1807 | label: meter | g:0.194 m:0.625 ---
+
+phaṇāmaṇisahasreṇa yaḥ sa vidyotayan diśaḥ 
+sarvān karoti nirvīryān hitāya jagato asurān ।।

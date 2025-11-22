@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 780 | label: meter | g:0.056 m:0.75 ---
+
+{gāhantāṃ mahiṣā nipānasalilaṃ śṛṅgairmuhustāḍitaṃ
+chāyābaddhakadambakaṃ mṛgakulaṃ romanthamabhyasyatāṃ ।
+viśrabdhaiḥ kriyatāṃ varāhapatibhirmustākṣatiḥ palvale
+viśrāntiṃ labhatāmidaṃ ca śithilajyābandhamasmaddhanuḥ ।।}

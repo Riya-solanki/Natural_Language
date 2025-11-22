@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 687 | label: meter | g:0.25 m:0.625 ---
+
+yatreṣṭvā bhagavān sthāṇuḥ pūjayitvā sarasvatīm ।
+sthāpayāmāsa deveśo liṅgākārāṃ sarasvatīm ।।

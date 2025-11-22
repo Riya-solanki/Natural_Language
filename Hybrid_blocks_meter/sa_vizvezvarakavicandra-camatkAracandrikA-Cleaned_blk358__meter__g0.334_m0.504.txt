@@ -1,0 +1,6 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 358 | label: meter | g:0.334 m:0.504 ---
+
+atra bhinnānāmapi padānāmekapadavatpāṭhasamaye pratibhānaṃ śleṣaḥ ।
+drāgarthāvagatiryatra sa prasādo nigadyate ।।
+yathā saugandhike ca ghanasāriṇi candane ca bimbādhare ca sudṛśāṃ vadane ca tāsām ।
+śrīsiṅgabhūparacite ca girāṃ kadambeṃ ko vā na nandati jano jagadekasāre ।।

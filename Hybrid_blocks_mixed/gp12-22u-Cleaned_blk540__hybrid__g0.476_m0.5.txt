@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 540 | label: hybrid | g:0.476 m:0.5 ---
+
+tataś ca te' kṣīṇy unmīlya punar bhāṇḍīram āpitāḥ ।
+niśāmya vismitā āsann ātmānaṃ gāś ca mocitāḥ ।।iti । []

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1294 | label: meter | g:0.194 m:0.768 ---
+
+etad āścaryam ākhyānaṃ kathayasva sukhāvaham 
+prakhyātabalavīryasya viṣṇor amitatejasaḥ 
+karmaṇāścaryabhūtasya viṣṇos tattvam ihocyatām ।। 
+vyāpino devadevasya saṃbhavaṃ vaktum arhasi । 
+praśnabhāro mahāṃs tāta tvayoktaḥ śārṅgadhanvani 
+yathāśakti tu vakṣyāmi śrūyatāṃ vaiṣṇavaṃ yaśaḥ ।।

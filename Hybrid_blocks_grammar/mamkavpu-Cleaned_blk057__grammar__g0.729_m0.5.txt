@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 57 | label: grammar | g:0.729 m:0.5 ---
+
+himapayaḥśaṅkhādyāśrayeṣu paramārthato bhinneṣu śuklādiṣu yadvaśena śuklaḥ śukla ityādyabhinnābhidhānapratyayotpattistat śuklatvādi sāmānyam । guḍataṇḍulādipākādiṣvevameva pākatvādi ।
+bālavṛddhaśukādyudīriteṣu ḍitthādiśabdeṣu ca pratikṣaṇaṃ bhidyamāneṣu ḍitthādya'rtheṣu vā ḍitthatvādyastīti sarveṣāṃ śabdānāṃ jātireva pravṛttinimittamityanye । tadvān apoho vā śabdārthaḥ kaiściduktaṃ iti granthagauravabhayāt prakṛtānupayogācca na darśitam ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 136 | label: grammar | g:0.75 m:0.5 ---
+
+[] tayor dvayor āvaraṇatayā lakṣye ye cānyatare pratyantara-kakṣyam eka-bhūma-dvi-bhūmatādi-prakāreṇādhika-bhūmikā-racanābhir uccatara-rītikāyāḥ samāna-māna-gṛha-sva-sva-vīthikāyā dhāriṇī goloka-dharaṇī-loka-hāriṇī bhavati । tatra sarvās tu gṛha-lekhā-maṇi-bhitti-sambadhya-madhya-rekhā-labdha-dvaividhyā samantād ubhayataḥ-sthita-dvāratayā paraspara-sammukhatā-śobhānandita-dig-antāḥ kaimutyam āsādayanti ।

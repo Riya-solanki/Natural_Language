@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11548 | label: hybrid | g:0.5 m:0.5 ---
+
+śucirbhūtvā śrīnivāsaṃ ca devāstuptuṃ viviśuḥ śuddhabhaktyā khagendra ।
+yathopadiṣṭaṃ guruṇā tathaiva cakre kanyāśca sarvaṃ khagendra ।।

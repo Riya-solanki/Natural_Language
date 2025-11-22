@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3109 | label: meter | g:0.306 m:0.625 ---
+
+śakro api prāha mā mūḍha rudasveti sughargharam ।
+ityevamuktvā caikaikaṃ bhūyaściccheda saptadhā ।।

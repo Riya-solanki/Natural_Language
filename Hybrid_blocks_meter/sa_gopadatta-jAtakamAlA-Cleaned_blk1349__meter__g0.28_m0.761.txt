@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1349 | label: meter | g:0.28 m:0.761 ---
+
+akṛtakuśalavyāpārānāṃ svabhūtinibandhanaṃ
+kṛpaṇamanasāṃ yad vā mano bahu manyate ।
+svacaritapariprāptaiśvaryaṃ jagaddhitakāriṇā
+na viṣayasukheṣv āsthaṃ ceto mahaty api rakṣyate ।।

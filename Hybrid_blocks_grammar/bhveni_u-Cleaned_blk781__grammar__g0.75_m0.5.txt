@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 781 | label: grammar | g:0.75 m:0.5 ---
+
+SktCh tataśca deva prajvalantīṃ śaktiṃ prekṣya vigalitamaṅgarājasya hastātsaśaraṃ dhanurhṛdayādvīrasulabha utsāho nayanādbāṣpasalilaṃ vadanādrasitam । hasitaṃ ca dhanaṃjayena siṃhanādaṃ vināditaṃ vṛkodareṇa duṣkaraṃ duṣkaramityākranditaṃ kurubalena ।

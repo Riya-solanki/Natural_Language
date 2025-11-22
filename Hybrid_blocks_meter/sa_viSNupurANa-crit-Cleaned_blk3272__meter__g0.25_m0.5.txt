@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3272 | label: meter | g:0.25 m:0.5 ---
+
+sāpi dvitīye saṃprāpte varṣe divyena cakṣuṣā 
+jñātvā sṛgālaṃ taṃ draṣṭuṃ yayau kolāhalaṃ girim ।।

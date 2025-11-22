@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10687 | label: meter | g:0.306 m:0.5 ---
+
+nāḍīṃ samāviśya tadā viriñco na veda nārāyaṇamekavacca ।
+tadā śṛṇottaṃ kamalāsanaṃ prabhustapastapa dvyakṣaraṃ sādareṇa ।।

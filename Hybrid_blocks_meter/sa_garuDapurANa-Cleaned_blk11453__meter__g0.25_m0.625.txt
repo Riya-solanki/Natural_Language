@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11453 | label: meter | g:0.25 m:0.625 ---
+
+vartante vaiṣṇavā yatra haritattvārthabodhakāḥ ।
+tatraiva bhaktāḥ sarvepi saṃti viṣṇostathaiva ca ।।

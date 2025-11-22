@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 145 | label: meter | g:0.306 m:0.5 ---
+
+tatas taiḥ śāpitā evaṃ nāginyaḥ śambukāḥ khalu ।
+bhavadhvaṃ saptajanmāni punaś caityasya sevakāḥ ।।

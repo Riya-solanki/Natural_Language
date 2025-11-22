@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 224 | label: meter | g:0.25 m:0.75 ---
+
+ajaikapādahirbudhnyastvaṣṭā rudraśca vīryavān ।
+tvaṣṭuścāpyātmajaḥ putro viśvarūpo mahātapāḥ ।।

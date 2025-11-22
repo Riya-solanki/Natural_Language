@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 271 | label: meter | g:0.25 m:0.5 ---
+
+nāgaiś ca śrūyate dugdhā vatsaṃ kṛtvā tu takṣakam 
+alābupātram ādāya viṣaṃ kṣīraṃ narottama ।।

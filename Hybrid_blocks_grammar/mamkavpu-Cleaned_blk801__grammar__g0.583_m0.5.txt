@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 801 | label: grammar | g:0.583 m:0.5 ---
+
+atrātivitatatvādayo anupādāne api pratipādyamānamarthaṃ na bādhanta ityapuṣṭāḥ na tvasaṃgatāḥ punaruktā vā ।।

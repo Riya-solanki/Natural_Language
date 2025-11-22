@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 643 | label: meter | g:0.194 m:0.625 ---
+
+śīghraprasādā hy akrodhā lokasyāpyāyanaṃ param 
+sthiraprasādāś ca sadā tān namasyasva bhārgava ।।

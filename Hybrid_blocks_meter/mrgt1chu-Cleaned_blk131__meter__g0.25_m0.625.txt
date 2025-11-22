@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 131 | label: meter | g:0.25 m:0.625 ---
+
+athopalabhya dehādi vastu kāryatvadharmakam ।
+kartāram asya jānīmo viśiṣṭam anumānataḥ ।।

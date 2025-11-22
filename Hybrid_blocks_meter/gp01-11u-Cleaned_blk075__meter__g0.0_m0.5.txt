@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 75 | label: meter | g:0.0 m:0.5 ---
+
+[] tad evam eṣāṃ tajjātitvam evoktaṃ śrī-śukena-

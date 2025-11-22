@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1989 | label: meter | g:0.25 m:0.625 ---
+
+aśeṣāṇāṃ dvijanuṣām āśīrvāda-paramparā ।
+taraṅgayatu kalyāṇaṃ kavīnāṃ cāyur āyatam ।।

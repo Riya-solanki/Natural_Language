@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 224 | label: meter | g:0.25 m:0.625 ---
+
+vavurvātāḥ sukhaspārśā nīrajaskamabhūnnabhaḥ ।
+dharme ca sarvabhūtānāṃ tadā matirajāyata ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4870 | label: meter | g:0.25 m:0.625 ---
+
+tādṛśaivāsṛjā ruddhaḥ prāktadaiva pradūṣayet ।
+tathā vāto gude pīḍāṃ balāsaṃ vātaśoṇitam ।।

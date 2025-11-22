@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 1034 | label: grammar | g:0.667 m:0.5 ---
+
+avidhāvavavidhāne gurośca halaḥ iti striyāṃ bahulaṃ vivakṣā । kvicidvivakṣā, kvacidavivakṣā, kvacidubhayamiti ।
+vivakṣā yathā īhā lajjeti । avivakṣā yathā ātaṅka iti । vivakṣāvivakṣe yathā bādhā bādhaḥ, ūhā ūhaḥ, vrīḍā vrīḍaḥ, iti ।।

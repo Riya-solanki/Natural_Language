@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8694 | label: meter | g:0.25 m:0.5 ---
+
+suprītāste kathaṃ pretāḥ kva tiṣṭhanti sureśvara ।
+prasannaḥ kṛpayā deva praśramenaṃ vadasva me ।।

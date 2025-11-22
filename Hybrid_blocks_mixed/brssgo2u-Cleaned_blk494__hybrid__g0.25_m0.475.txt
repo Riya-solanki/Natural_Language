@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 494 | label: hybrid | g:0.25 m:0.475 ---
+
+nanu śrutisamāśrayaṇenāpyevaṃrūpa eveśvaraḥ prāṅnirdhāritaḥ prakṛtiścādhiṣṭhātā ceti ।
+śrutyanusāriṇī ca smṛtiḥ pramāṇamiti sthitiḥ ।
+tatkasya hetoreṣa pakṣaḥ pratyācikhyāsita iti ।

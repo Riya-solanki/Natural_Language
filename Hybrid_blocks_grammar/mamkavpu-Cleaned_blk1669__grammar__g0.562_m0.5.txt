@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1669 | label: grammar | g:0.562 m:0.5 ---
+
+atrānuprāso rūpakaṃ cānyonyānapekṣe । saṃsargaśca tayorekatra vākye chandasi vā samavetatvāt ।।

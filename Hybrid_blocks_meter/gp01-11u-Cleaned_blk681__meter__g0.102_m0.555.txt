@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 681 | label: meter | g:0.102 m:0.555 ---
+
+[] snigdhakaṇṭhaḥ sahāsam āha sma,
+tan nāma-karaṇaṃ cānna-prāśanaṃ ca vraje mahaḥ ।
+yātam asman-mano-rājyaṃ na pṛthak stotum īśmahe ।। iti । [anuṣṭubh]

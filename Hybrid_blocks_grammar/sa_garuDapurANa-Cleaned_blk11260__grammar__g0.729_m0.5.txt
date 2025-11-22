@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11260 | label: grammar | g:0.729 m:0.5 ---
+
+svayaṃvare mitravindā rājñāṃ madhye tu bhāminī । mamāṃse vyasṛjanmālāṃ tāṃ gṛhītvā khageśvara । vidhūya nṛpatīnsarvānpurīṃ prāptāḥ khageśvara ।। ।।

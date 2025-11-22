@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1386 | label: grammar | g:0.594 m:0.5 ---
+
+kūṣmāṇḍīviṭapaḥ phalaty avirataṃ siktaḥ suvarṇāmbunā bhūyobhir gaditaṃ hitaiṣibhir itīvāsmābhir aṅgīkṛtam ।
+tat saṃyācya kutaścid īśvaragṛhād ānīyamānaṃ śanair adhvany eva hi bindubhir vigalitaṃ śrāṇe śarāvodare ।।

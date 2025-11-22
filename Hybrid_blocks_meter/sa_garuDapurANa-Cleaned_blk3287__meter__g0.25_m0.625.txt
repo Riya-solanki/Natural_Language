@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3287 | label: meter | g:0.25 m:0.625 ---
+
+bhāgyakṣayeṣu kṣīyante nopabhogena sampadaḥ ।
+pūrvārjite hi sukṛte na naśyanti kadācana ।।

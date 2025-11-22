@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 357 | label: meter | g:0.393 m:0.601 ---
+
+smṛtau hṛdisthasya jīvādbhedokterannāpi hṛdistho manomaya īśvara ityāha-smṛteśceti ।
+bhūtāni jīvān ।
+yantraṃ śarīram ।
+atra sūtrakṛtā satyabheda ukta iti bhrāntinirāsāyekṣatyadhikaraṇe nirastamapi codyamudbhāvya nirasyati-atrāhetyādinā ।
+tvaduktarītyā vastuta ekatvameva, bhedastu kalpitaḥ sūtreṣvanūdyata ityāha-satyamiti ।।

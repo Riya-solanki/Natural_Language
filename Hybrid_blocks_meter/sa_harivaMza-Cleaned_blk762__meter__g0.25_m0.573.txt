@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 762 | label: meter | g:0.25 m:0.573 ---
+
+te yogadharmaniratāḥ sapta mānasacāriṇaḥ 
+padmagarbho aravindākṣaḥ kṣīragarbhaḥ sulocanaḥ । 
+ūrubinduḥ subinduś ca haimagarbhas tu saptamaḥ । 
+haṃsā jātā mahātmāno mānaseṣu saraḥsu ca ।। 
+sumanāḥ suvāk suśuddhaś ca tattvadarṣī ca tattvavit । 
+sunetraś ca suhotraś ca dvijā nāmabhir eva ca ।। 
+te brahmacāriṇaḥ sarve vihagāḥ kāmacāriṇaḥ । 
+vāyvambubhakṣāḥ satataṃ śarīrāṇy upaśoṣayan ।।

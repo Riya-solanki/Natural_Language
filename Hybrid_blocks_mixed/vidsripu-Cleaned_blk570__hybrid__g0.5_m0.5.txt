@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 570 | label: hybrid | g:0.5 m:0.5 ---
+
+ambhoruhaṃ vadanam ambakam indukāntaḥ pāthonidhiḥ kusumacāpabhṛto vikāraḥ ।
+prādurbabhūva subhaga tvayi dūrasaṃsthe caṇḍālacandradhavalāsu niśāsu tasyāḥ ।।

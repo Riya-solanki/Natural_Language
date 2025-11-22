@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 541 | label: meter | g:0.307 m:0.796 ---
+
+mākṣika, rasaka sattva pātana
+kadalīrasaśatabhāvitamadhvairaṇḍatailaparipakvam ।
+tāpyaṃ muñcati satvaṃ rasakaṃ caivaṃ trisantāpaiḥ ।।

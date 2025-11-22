@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 33 | label: grammar | g:0.562 m:0.5 ---
+
+vāsudevāt paraṃ nāsti iti vedāntaniścayaḥ vāsudevaṃ praviṣṭānāṃ punar āvartanaṃ kutaḥ ।।

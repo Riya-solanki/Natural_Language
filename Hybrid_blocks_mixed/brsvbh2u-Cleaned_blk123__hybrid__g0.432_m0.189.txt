@@ -1,0 +1,4 @@
+--- source: brsvbh2u-Cleaned.txt | block: 123 | label: hybrid | g:0.432 m:0.189 ---
+
+rūpādimattvācca viparyayo darśanāt ।
+yat kila bhūtabhautikānāṃ mūlakāraṇaṃ tadrūpādimān paramāṇurnitya iti bhavadbhirabhyupeyate, tasya cedrūpādimattvamabhyupeyeta paramāṇutvanityatvaviruddhe sthaulyānityatve prasajyeyātāṃ, so ayaṃ prasaṅga

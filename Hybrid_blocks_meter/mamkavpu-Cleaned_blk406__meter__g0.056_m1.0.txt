@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 406 | label: meter | g:0.056 m:1.0 ---
+
+{yasyāsuhṛtkṛtatiraskṛtiretya tapta-
+sūcīvyadhavyatikareṇa yunakti karṇau ।
+kāñcīguṇagrathanabhājanameṣa so asmi
+jīvanna saṃprati bhavāmi kimāvahāmi ।।}

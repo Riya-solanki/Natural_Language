@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5036 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ kathānte nṛpatiś codayāmāsa taṃ munim 
+pitāmahaṃ pāṇḍavānāṃ ātmanaḥ prapitāmaham ।।

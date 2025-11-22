@@ -1,0 +1,4 @@
+--- source: ttssarvu-Cleaned.txt | block: 32 | label: meter | g:0.326 m:0.5 ---
+
+pañcasaṃkhyākāḥ prāṇāpānasamānodānavyānākhyāḥ vāyavaḥ mahadahaṅkāramanasāṃ sādhāraṇavṛttayaḥ jīvanasādhanāni ।
+tatra prāṇo nāsāgrahṛnnābhipādāṅguṣṭhavṛttiḥ apānaḥ kṛkāṭikāpṛṣṭhapāyupārśvopasthavṛttiḥ samāno hṛnnābhisarvasandhivṛttiḥ udāno hṛtkaṇṭhatālumūrddhabhrūmadhyavṛttiḥ vyānastvavṛttiriti ।।

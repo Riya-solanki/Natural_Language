@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 337 | label: grammar | g:0.583 m:0.5 ---
+
+samudayasatyālambanāni catuḥkṣaṇasaṃgṛhītāni kṣāntijñānāni yathākramaṃ sarvāryapudgalasaṃgrahaviśeṣaḥ, puruṣaviśeṣavedanīyatāviśeṣaḥ śrāvakādyasādhāratāviśeṣaḥ, śrāvakādibhyaḥ kṣiprābhijñatāviśeṣaśceti catvāro bhedāḥ ।

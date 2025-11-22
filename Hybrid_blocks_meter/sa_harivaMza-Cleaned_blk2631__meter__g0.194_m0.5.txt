@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2631 | label: meter | g:0.194 m:0.5 ---
+
+tatra hatvā paśūn medhyān vitatyāyatane kṛte 
+sarvaghoṣasya saṃdohaḥ kriyatāṃ kiṃ vicāryate ।।

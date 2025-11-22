@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 671 | label: grammar | g:0.562 m:0.5 ---
+
+vrātapatīm antataḥ kṣāmavatīṃ parivarttayed yasyāgniṣv anyaṃ yājayed yo vā yajet ।

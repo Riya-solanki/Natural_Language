@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 387 | label: grammar | g:0.646 m:0.5 ---
+
+[] tataś ca samāna-vāsanāvāsita-mānasa-vyasana-śaṃsaka-daśana-vasanādi-ruci-vilokana-valita-mithaḥ-snehād āliṅgita-kaṇṭhā mukta-kaṇṭham utkaṇṭhayā sphuṭam eva rurudur, vividuś ca parasparaṃ hṛdayam ।

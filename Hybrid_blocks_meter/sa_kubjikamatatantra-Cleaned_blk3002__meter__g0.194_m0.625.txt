@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 3002 | label: meter | g:0.194 m:0.625 ---
+
+athānyat sampravakṣyāmi avasthāṃ jñānabodhikām 
+ghoṣaṇī piṅgalā caiva vidyunmālā ca candriṇī ।।

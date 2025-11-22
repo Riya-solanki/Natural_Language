@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 902 | label: grammar | g:0.75 m:0.5 ---
+
+atha bhagavān vairocanastathāgataḥ [sarvatathāga]tādhiṣṭhānena sarvatathāgatamahopāyajñānavajrannāma samādhiṃ samāpannaḥ । samanantarasamāpanne cātha tāvadeva sa[rvatathāga]tāḥ sakalākāśadhātuparamāṇurajaḥ samavasaraṇa[spharaṇa] tāya sumerugirimūrdhni vajramaṇiratnakūṭāgāre [punaḥ] samājamāgamya, sarvatathāgatasamatāmadhyālambhya, bhagavato vairocanasya śrīvatsahṛdaye praviṣṭāḥ ।

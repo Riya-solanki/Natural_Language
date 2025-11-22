@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5100 | label: meter | g:0.194 m:0.625 ---
+
+nakṣatrāṇi vihīnāni viparītā diśas tathā 
+saṃdhyārāgo atha digdāho bhaviṣyaty apare yuge ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1093 | label: grammar | g:0.562 m:0.5 ---
+
+[] atha tāḥ parasparam ālocana-pūrvaṃ nikocita-locanam ūcuḥ-bhavatu, karavāma tavoditam iti ।

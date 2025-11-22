@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1138 | label: grammar | g:0.561 m:0.375 ---
+
+inaṇyanapatye ।।
+anapatyārthe aṇi pare in prakṛtyā syāt । tena nastaddhita iti ṭilopo na । yuvatīnāṃ samūho yauvanam ।।

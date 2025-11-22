@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 861 | label: meter | g:0.25 m:0.875 ---
+
+ebhirnidarśanaiḥ svīyaiḥ parakīyaiśca puṣkalaiḥ ।
+śabdavaicitryagarbheyamupamaiva prapañcitā ।।
+alaṅkāraikadeśā ye matāḥ saubhāgyabhāginaḥ ।
+te'pyalaṅkāradeśīyā yojanīyāḥ kavīśvaraiḥ ।।

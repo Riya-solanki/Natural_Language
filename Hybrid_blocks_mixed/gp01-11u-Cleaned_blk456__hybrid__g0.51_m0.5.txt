@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 456 | label: hybrid | g:0.51 m:0.5 ---
+
+dadṛśe ca prabuddhā sā yaśodā jātam ātmajam ।
+nīlotpala-dala-śyāmaṃ tato' tyarthaṃ mudaṃ yayau ।।[ViP ] iti ।

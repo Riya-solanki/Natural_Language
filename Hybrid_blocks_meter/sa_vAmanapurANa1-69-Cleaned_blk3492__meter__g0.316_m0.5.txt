@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3492 | label: meter | g:0.316 m:0.5 ---
+
+tato agnidhūmena mahī saśailā vyāptā diśaḥ khaṃ vidiśaśca pūrṇāḥ ।
+tenogragandhena divaspṛsena marud vavau brahmaloke maharṣe ।।

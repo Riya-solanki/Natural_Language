@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 194 | label: hybrid | g:0.51 m:0.5 ---
+
+niścandrikaṃ hi gaganaṃ vāsitamapi vāsanābhir iha śatadhā ।
+tadapi na carati rasendraḥ sattvaṃ kathamatra yatnataḥ prabhavet ।।

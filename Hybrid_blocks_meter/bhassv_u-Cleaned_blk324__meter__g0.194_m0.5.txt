@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 324 | label: meter | g:0.194 m:0.5 ---
+
+smarāmy avantyādhipateḥ sutāyāḥ prasthānakāle svajanaṃ smarantyāḥ
+bāṣpaṃ pravṛttaṃ nayanāntalagnaṃ snehān mamaivorasi pātayantyāḥ ।।

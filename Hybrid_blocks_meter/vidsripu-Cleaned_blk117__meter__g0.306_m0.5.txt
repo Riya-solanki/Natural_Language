@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 117 | label: meter | g:0.306 m:0.5 ---
+
+niṣpratyūham upāsmahe bhagavataḥ kaumodakīlakṣmaṇaḥ kokaprīticakorapāraṇapaṭū jyotiṣmatī locane ।
+yābhyām ardhavibodhamugdhamadhuraśrīr ardhanidrāyito nābhīpalvalapuṇḍarīkamukulaḥ kamboḥ sapatnīkṛtaḥ ।।

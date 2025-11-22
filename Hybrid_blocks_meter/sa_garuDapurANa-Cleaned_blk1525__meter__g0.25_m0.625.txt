@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1525 | label: meter | g:0.25 m:0.625 ---
+
+yamāya dharmarājāya mṛtyave cāntakāya ca ।
+vaivasvatāya kālāya sarvabhūtakṣayāya ca ।।

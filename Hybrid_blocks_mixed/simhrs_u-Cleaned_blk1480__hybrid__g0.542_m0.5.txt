@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1480 | label: hybrid | g:0.542 m:0.5 ---
+
+yathā tatraiva, vasiṣṭhaḥ-vatsa rāmabhadra kiṃ te bhūyaḥ priyam upakaromi ।

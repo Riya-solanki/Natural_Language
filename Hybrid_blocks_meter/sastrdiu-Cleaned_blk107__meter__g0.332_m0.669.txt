@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 107 | label: meter | g:0.332 m:0.669 ---
+
+indriyārthasaṃprayogajatvaṃ sukhādijñāneṣvavyāpteraheturiticet ।
+na ।
+teṣāmapi manaḥsaṃjñakendriyasaṃprayogajatvāt ।
+manaḥsadbhāve ca sukhādijñānameva pramāṇam, aparokṣāvabhāsajñānasyendriyādhīnatayā rūpādijñāneṣu vyāptidarśanāt sukhādiviṣayamaparokṣajñānamindriyamanumāpayati ।
+tatra cakṣurādīnāmasaṃbhāvāttebhyo anyadavatiṣṭhate ।।

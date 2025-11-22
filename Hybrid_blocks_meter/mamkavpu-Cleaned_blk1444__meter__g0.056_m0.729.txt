@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1444 | label: meter | g:0.056 m:0.729 ---
+
+{yeṣāṃ kaṇṭhaparigrahapraṇayitāṃ saṃprāpya dhārādharas
+tīkṣṇaḥ so apyanurajyate ca kamapi snehaṃ parāpnoti ca ।
+teṣāṃ saṃgarasaṅgasaktamanasāṃ rājñāṃ tvayā bhūpate
+pāṃsūnāṃ paṭalaiḥ prasādhanavidhirnirvartyate kautukam ।।}

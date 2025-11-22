@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 535 | label: hybrid | g:0.521 m:0.5 ---
+
+pūrvoktayuktyā baddhasūtasya catuḥṣaṣṭipalāni gālayitvā tato dvitīyamuṣāyāṃ hemarājicatuḥṣaṣṭipalāni gālayet ।।

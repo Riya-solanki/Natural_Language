@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 867 | label: meter | g:0.194 m:0.625 ---
+
+tasya tat pāpaśamanaṃ cakārātrir mahāyaśāḥ 
+sa rājayakṣmaṇā muktaḥ śriyā jajvāla sarvaśaḥ ।।

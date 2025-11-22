@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11241 | label: hybrid | g:0.542 m:0.5 ---
+
+yasmin grāme bhāgavataṃ na śāstraṃ na vartate bhāgavatā rasajñāḥ ।
+yasmin gṛhe nāsti gītārthasāraḥ yasmin grāme nāma sahasrakaṃ vā ।।

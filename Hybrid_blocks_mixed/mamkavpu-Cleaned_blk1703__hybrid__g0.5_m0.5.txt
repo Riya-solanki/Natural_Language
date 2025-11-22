@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1703 | label: hybrid | g:0.5 m:0.5 ---
+
+tathāhi anuprāsasya prasiddhyabhāvo vaiphalyaṃ vṛttivirodha iti ye trayo doṣāḥ । te prasiddhiviruddhatām apuṣṭāthatvam pratikūlavarṇatāṃ ca yathākramaṃ na vyatikrāmanti tatsvabhāvatvāt । krameṇodāharaṇam

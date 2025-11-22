@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9021 | label: meter | g:0.306 m:0.5 ---
+
+tilā lohaṃ hiraṇyaṃ ca kārpāsaṃ lavaṇaṃ tathā ।
+saptadhānyaṃ kṣitirgāvo dīyate kena he tunā ।।

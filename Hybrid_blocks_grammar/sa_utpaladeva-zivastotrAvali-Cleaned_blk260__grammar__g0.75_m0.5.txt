@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 260 | label: grammar | g:0.75 m:0.5 ---
+
+bhagavan bhavadicchayaiva dāsas tava jāto asmi parasya nātra śaktiḥ katham eṣa tathāpi vaktrabimbaṃ tava paśyāmi na jātu citram etat ।।

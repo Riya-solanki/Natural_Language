@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 808 | label: hybrid | g:0.5 m:0.5 ---
+
+svāmyarthacaryārjitayā hi tuṣṭyā nirantare cetasi ko vighātaḥ ।
+yataḥ sukāmaṃ kuru deva kāmamalaṃ madutpīḍanaśaṅkayā te ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10195 | label: meter | g:0.418 m:0.725 ---
+
+guṇādipūrṇatābhāvānnānye brahmetyudāhṛtāḥ ।
+deśānantyaṃ guṇataḥ kālato vā nāstyānantyaṃ kvāpi deśe ca kāle ।।

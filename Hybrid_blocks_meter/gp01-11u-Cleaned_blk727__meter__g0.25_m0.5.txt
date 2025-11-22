@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 727 | label: meter | g:0.25 m:0.5 ---
+
+tṛṇāvarta-hṛte kṛṣṇe mātur bhārāyitā tanuḥ ।
+tadīyānāṃ yathā sāsīd ubhayeṣāṃ yathā truṭiḥ ।। [anuṣṭubh]

@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 63 | label: meter | g:0.25 m:0.695 ---
+
+śaivaṃ māntreśvaraṃ gāṇaṃ divyamārṣaṃ ca gauhyakam ।
+yoginīsiddhakaulaṃ ca srotāṃsyaṣṭau vidurbudhaḥ ।
+pratisroto anuyāyīni tāni brūyādvibhāgaśaḥ ।

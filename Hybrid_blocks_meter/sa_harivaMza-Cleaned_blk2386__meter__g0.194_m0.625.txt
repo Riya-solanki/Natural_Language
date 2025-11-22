@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2386 | label: meter | g:0.194 m:0.625 ---
+
+kilair āropyamāṇaiś ca dāmanīpāśapāśitaiḥ 
+stambhanībhir dhṛtaiś cāpi śakaṭaiḥ parivartitaiḥ ।।

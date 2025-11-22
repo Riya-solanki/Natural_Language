@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11401 | label: meter | g:0.326 m:0.5 ---
+
+vinā dayāṃ tīrthayātrā khagendravyarthetyevaṃ vīndra cāhurmahāntaḥ ।
+divā rātrau ye na śṛṇvanti divyāṃ hareḥ kathāṃ tīrthamārge khagendra ।।

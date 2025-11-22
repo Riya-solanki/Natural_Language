@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10075 | label: meter | g:0.0 m:0.5 ---
+
+iti śrīgāruḍe mahāpurāṇe dvitīyo dharmakāṇḍaḥ samāptaḥ

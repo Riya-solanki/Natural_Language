@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 545 | label: meter | g:0.25 m:0.77 ---
+
+yadyatītānāgatayoḥ sargayoreṣa vibhāgo na bhavet ।
+tatastadevādyatanasya vibhāgasya bādhakaṃ syāt ।
+svapnadarśanasyeva jāgradarśanam ।
+na tvetadasti ।
+abādhitādyatadarśanena tayorapi tathātvānumānādityarthaḥ ।
+imāṃ śaṅkāmāpātato avicāritalokasiddhadṛṣṭāntopadarśanamātreṇa nirākaroti sūtrakāraḥ- syāllokavat ।।

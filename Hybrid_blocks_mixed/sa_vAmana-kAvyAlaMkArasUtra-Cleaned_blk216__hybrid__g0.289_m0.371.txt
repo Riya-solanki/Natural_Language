@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 216 | label: hybrid | g:0.289 m:0.371 ---
+
+sūkṣmaṃ vyākhyātumāha 
+sūkṣmo bhāvyo vāsanīyaśca ।।
+sūkṣmo dvedhā bhavato bhāvyo, vāsanīyaśca । śīghranirūpaṇāgamyo bhāvyaḥ । ekāgratāprakarṣagamyo vāsanīya iti । bhāvyo yathā

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 51 | label: meter | g:0.25 m:0.5 ---
+
+yāvanta sattva puna tāntaka kṣetrakoṭyo te sarvi pūjana kareyuranantakalpān 
+divyehi puṣpavaragandhavilepanehi kalpāṃstriyadhvaparikalpa tato api bhūyaḥ ।।

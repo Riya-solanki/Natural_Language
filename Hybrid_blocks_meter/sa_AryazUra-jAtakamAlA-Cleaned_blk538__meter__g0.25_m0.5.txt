@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 538 | label: meter | g:0.25 m:0.5 ---
+
+tadyadasti dhanaṃ kiṃcidasmatto adhigataṃ tvayā ।
+nidhehi tadanindyākṣi yacca te paitrikaṃ dhanam ।।

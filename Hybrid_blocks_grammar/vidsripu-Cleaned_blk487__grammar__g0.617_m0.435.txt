@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 487 | label: grammar | g:0.617 m:0.435 ---
+
+tad vaktraṃ yadi mudritā śaśikathā hā hema sā ced dyutis tac cakṣur yadi hāritaṃ kuvalayais tac cotsmitaṃ kā sudhā ।
+dhik kandarpadhanur bhruvau yadi ca te kiṃ vā bahu brūmahe yat satyaṃ punaruktavastuvimukhaḥ sargakramo vedhasaḥ ।।
+rājaśekharasya

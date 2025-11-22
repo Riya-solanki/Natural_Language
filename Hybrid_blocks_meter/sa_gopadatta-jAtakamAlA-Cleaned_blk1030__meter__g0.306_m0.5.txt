@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1030 | label: meter | g:0.306 m:0.5 ---
+
+jānīmahe kṣitipate bhavato jane api snehārdrapeśalarasābhiniveṣṭitāni ।
+asmāsu kiṃ punar akāraṇavatsalasya svāṅke vivṛddhim anaghāṃ samupāgatāsu ।।

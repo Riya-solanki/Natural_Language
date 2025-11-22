@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 597 | label: meter | g:0.306 m:0.5 ---
+
+ayaṃ māṃ brāhmaṇastāta latayā hanti nirdayaḥ ।
+na cāyaṃ brāhmaṇo vyaktaṃ dhārmikā brāhmaṇāḥ kila ।।

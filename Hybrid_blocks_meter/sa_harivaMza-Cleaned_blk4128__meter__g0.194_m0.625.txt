@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4128 | label: meter | g:0.194 m:0.625 ---
+
+tāṃ purīṃ dvārakāṃ dṛṣṭvā vibhunārāyaṇo hariḥ 
+hṛṣṭaḥ sarvārthasaṃpannaḥ praveṣṭum upacakrame ।।

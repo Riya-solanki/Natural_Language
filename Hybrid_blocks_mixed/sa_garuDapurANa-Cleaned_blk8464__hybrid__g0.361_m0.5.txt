@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8464 | label: hybrid | g:0.361 m:0.5 ---
+
+na tatprāpya pradattaṃ hi yācakebhyaḥ svakaṃ dhanam ।
+parādhīnaṃ tadabhavaditi brūte sagadgadaḥ ।।
+kiṅkaraiḥ pīḍyate atyarthaṃ smarate pūrvadaihikam ।।
+sukhasya duḥ khasya na kopi dātā paro dadātīti kubuddhireṣā ।
+purā kṛtaṃ karma sadaiva bhujyate dehinkvacinnistara yattvayā kṛtam ।।

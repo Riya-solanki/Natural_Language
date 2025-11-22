@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 48 | label: meter | g:0.259 m:0.914 ---
+
+darśanāntarasaṃsthābhyaś cyutānāmanuvartinām
+vidhāyaivaṃ svajātyantaṃ dīkṣāṃ kuryādvilomataḥ ।

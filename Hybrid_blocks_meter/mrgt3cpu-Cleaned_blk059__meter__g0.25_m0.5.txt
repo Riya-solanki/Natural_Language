@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 59 | label: meter | g:0.25 m:0.5 ---
+
+sroto brūyādanusroto bhedān saṃkhyānameva ca ।
+pravṛttaye guruṃ svaṃ ca steyī syāttadakīrtanāt ।

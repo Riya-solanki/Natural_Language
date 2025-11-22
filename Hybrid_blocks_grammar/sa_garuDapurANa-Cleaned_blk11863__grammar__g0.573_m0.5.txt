@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11863 | label: grammar | g:0.573 m:0.5 ---
+
+jīvaṃ yaṃ vai prerayantī kaniṣṭhā kāmyaṃ dharmaṃ kurute sarvadāpi ।
+kva brāhmaṇāḥ kva ca viṣṇurmahātmā kva vai kathā kva ca yajñāḥ kvagāvaḥ ।।

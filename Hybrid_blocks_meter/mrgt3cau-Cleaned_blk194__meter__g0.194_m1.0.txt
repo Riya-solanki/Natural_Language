@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 194 | label: meter | g:0.194 m:1.0 ---
+
+dvijādyucchiṣṭasaṃsarge vaktrādyanyatamaṃ guṇam
+caturdalābjamadhyeṣṭyā tatsthāne pañcamaṃ yajet ।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1152 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ kathakayoḥ kathāṃ prathayitvā sabhyeṣu sākṣād iva kalita-tat-tat-keli-sandhayoḥ kṛtāñjali-bandhayos tad-dine' pi pūrvavad eva sarve gṛha-vartmani vartamānā nija-nija-spṛhaṇīyaṃ karma nirmimāṇā api tām eva līlāṃ bṛṃhitāṃ hṛdi jagṛhire ।

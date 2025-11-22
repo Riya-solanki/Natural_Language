@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2927 | label: meter | g:0.25 m:0.5 ---
+
+anantaḥ śāśvato devaḥ sahasravadano avyayaḥ 
+vārāhaṃ rūpam āsthāya ujjahārārṇavān mahīm ।। 
+sabhūdharavanām urvīṃ śakrāya pradadau hariḥ । 
+amṛte nirmite pūrvaṃ viṣṇuḥ strīrūpam āsthitaḥ 
+surāṇām asurāṇāṃ ca yuddhaṃ cakre sudāruṇam ।।

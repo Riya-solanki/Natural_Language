@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6134 | label: meter | g:0.323 m:0.851 ---
+
+śrīgaruḍamahāpurāṇam- 
+kumāra uvāca ।
+atha vyākaraṇaṃ vakṣye kātyāyana samāsataḥ ।
+siddhaśabdavivekāya bālavyutpattihetave ।।

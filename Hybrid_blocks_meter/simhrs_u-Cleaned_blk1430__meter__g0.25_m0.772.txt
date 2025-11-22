@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 1430 | label: meter | g:0.25 m:0.772 ---
+
+atha nirvahaṇa-sandhiḥ-
+mukha-sandhyādayo yatra vikīrṇā bīja-saṃyutāḥ ।
+mahat-prayojanaṃ yānti tan-nirvahaṇam ucyate ।। 
+sandhi-virodhau grathanaṃ nirṇayaḥ paribhāṣaṇe prasādaś ca ।
+ānanda-samaya-kṛtayo bhāṣopagūhane tadvat ।। 
+atha pūrva-bhāva-sayujāv upasaṃhāra-praśastī ca ।
+iti nirvahaṇasyāṅgāny āhur amīṣāṃ tu lakṣaṇaṃ vakṣye ।।

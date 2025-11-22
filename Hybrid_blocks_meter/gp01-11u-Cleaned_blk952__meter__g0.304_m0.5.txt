@@ -1,0 +1,33 @@
+--- source: gp01-11u-Cleaned.txt | block: 952 | label: meter | g:0.304 m:0.5 ---
+
+æiha na stheyam' itītthaṃ vraja-hitam uktaṃ bhavadbhir yat ।
+tat punar atibālānāṃ hita-pradhānaṃ mama sphurati ।। [upagīti]
+sahajani-janite yan mama para-para-yatnena rakṣite' py atra ।
+jātaṃ viplava-jātaṃ, tasmāt kiṃ syād ihorvaritam? ।। [āryā]
+tat-tad-upadrava-jāte kevala-parameśitū rakṣā ।
+tasmin bhāraṃ dadyād iti ca na khalu tat-parair iṣṭam ।। [udgīti]
+calatā dvayam anucintyaṃ tyājyaṃ gamyaṃ ca yad dhāma ।
+tyājyaṃ duḥkha-nidānaṃ, gamyaṃ sukhitā-nidhānaṃ tu ।। [upagīti]
+sthānaṃ tad apadeyaṃ, yad iha paratra ca ghaṭeta duḥkhāya ।
+bṛhad-ākhyaṃ vanam anupadam aihika-duḥkhāya sāmprataṃ jātam ।। [gīti]
+sthānaṃ tad upadeyaṃ, yad iha paratra ca ghaṭeta saukhyāya ।
+vṛndāvanāraṇyaṃ cādaḥ samasta-sukhatamam atīva puṇyaṃ ca ।। [gīti]
+govardhana iti nāmā yatrāraṇye giriḥ sphurati ।
+tat khalu go-jātīnāṃ gopānāṃ cāsti sarvasvam ।। [upagīti]
+gopāḥ kānana-karadā grāmādīnāṃ viniścayābhāvāt ।
+tad apara-kānana-gamane rājñāṃ cājñā svataḥ-siddhā ।। [āryā]
+sukhato bhayato vā yat kṛtyaṃ kartavyatāṃ yāti ।
+śīghraṃ yat khalu kāryaṃ valayati śaṅkām alaṃ vilambas tu ।। [udgīti]
+utthātavyaṃ tasmād asmāt sadyo na kāryam ālasyam ।
+tulitā hy udyama-kalanā kṛtyaṃ yad yad yadā kriyate ।। [āryā]
+iyam asmākam udīkṣā yuṣmabhyaṃ yadi tu rocamānā syāt ।
+para-vīkṣite' pi vastuni bahu-sammatir utsavaṃ dugdhe ।। [āryā]
+bhavati tu ced iha bhavatāṃ samarthanā tarhi gāvaḥ prāk ।
+samyak pāyita-vatsāś carantu vṛndāṭavī-vartma ।। [upagīti]
+paścāt paṭa-gṛha-śakaṭāny aṭantu gṛhyaṃ samastam ādāya ।
+vidhi-vidhi-siddhā seyaṃ vrajanād vrajatā hi goduhāṃ sadane ।। [gīti]
+tataś ca,
+tad vākyaṃ paśupa-samūham ūha-śūnyaṃ
+svārthāya svayam anugamya kalpate sma ।
+sādharmya-spṛśi mṛdi paśya bīja-bhedaḥ
+sphītaḥ syāt phalati ca tatra nāparatra ।। [praharṣiṇī]

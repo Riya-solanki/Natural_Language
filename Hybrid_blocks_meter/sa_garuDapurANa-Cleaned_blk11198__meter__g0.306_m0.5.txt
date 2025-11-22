@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11198 | label: meter | g:0.306 m:0.5 ---
+
+uvāca parayā bhaktyā śrīnivāsaṃ jagatprabhum ।
+ahaṃ hi bhāryā bhūyāsaṃ tava mādhava suṃdara ।।

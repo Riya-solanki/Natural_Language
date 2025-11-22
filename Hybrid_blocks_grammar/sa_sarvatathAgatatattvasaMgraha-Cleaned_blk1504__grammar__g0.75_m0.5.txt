@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1504 | label: grammar | g:0.75 m:0.5 ---
+
+athāsyāṃ viniḥsṛtamātrāyāṃ tata eva pādatalāc candrottara eva tathāgato [niścacāra, tasya maheśvarasya śire vajrapāṇi pādāvakrānte tadardhacandramūrdhanabhiṣikto, vajrapāṇervāmapārśve sthitaḥ । tataḥ] sarvatathāgatai[rvajrapāṇermitrasya pāṇau] vajraśūlaṃ datvā, vajravidyottamo vajravidyottama iti vajranāmābhiṣekeṇābhiṣiktaḥ ।।

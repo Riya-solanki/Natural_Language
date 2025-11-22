@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3177 | label: hybrid | g:0.444 m:0.5 ---
+
+rajakaḥ sa tu tau prāha yuvāṃ kasya vanecarau 
+rājño vāsāṃsi yau mūrkhau yācetāṃ nirbhayāv ubhau ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1199 | label: meter | g:0.25 m:0.5 ---
+
+lakṣavārasahasrais tu vāraṃ vāraṃ punaḥ punaḥ 
+eṣa sāṅketiko hy arthaḥ kathyamānaṃ na budhyasi ।।

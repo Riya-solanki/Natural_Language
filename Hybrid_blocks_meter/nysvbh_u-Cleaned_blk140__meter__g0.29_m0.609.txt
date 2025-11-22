@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 140 | label: meter | g:0.29 m:0.609 ---
+
+nityasukharāgasyāprahāṇe mokṣādhigamābhāvo rāgasya bandhanasamājñānāt।
+yadyayaṃ mokṣe nityaṃ sukhamabhivyajyata iti nityasukharāgeṇa mokṣāyaghaṭamānā na mokṣamadhigacchet, nādhigantumarhatīti।
+bandhanasamājñāto hi rāgaḥ।
+na ca bandhane satyapi kaścinmukta ityupapadyata iti।।

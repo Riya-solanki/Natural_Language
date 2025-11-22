@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5927 | label: meter | g:0.345 m:0.822 ---
+
+śrīgaruḍamahāpurāṇam- 
+bhairava uvāca ।
+atha cūḍāmaṇiṃ vakṣye śubhāśubhaviśuddhaye ।
+sūryaṃ devīṃ gaṇaṃ soma smṛtvā tu vilikhennaraḥ ।।

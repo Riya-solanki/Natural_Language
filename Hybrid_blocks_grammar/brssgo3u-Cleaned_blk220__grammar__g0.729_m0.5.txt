@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 220 | label: grammar | g:0.729 m:0.5 ---
+
+āha ca śrutiścaitanyamātraṃ vilakṣaṇarūpāntararahitaṃ nirviśeṣaṃ brahma - asa yathā saindhavaghano antaro abāhyaḥ kṛtsno rasaghana evaivaṃ vā are ayamātmānantaro abāhyaḥ kṛtsnaḥ prajñānaghana eva' iti ।
+etaduktaṃ bhavati - nāsyātmano antarbahirvā caitanyādanyadrūpamasti lavaṇarasa eva nirantaro bhavati na rasāntaraṃ tathaiveti ।।

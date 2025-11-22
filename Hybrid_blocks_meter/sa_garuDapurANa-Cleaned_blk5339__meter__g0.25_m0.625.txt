@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5339 | label: meter | g:0.25 m:0.625 ---
+
+kaṣṭhamāṣamarīcāni tagaraṃ madhu pippalī ।
+apāmārgo aśvagandhā ca bṛhatī sitasarṣapāḥ ।।

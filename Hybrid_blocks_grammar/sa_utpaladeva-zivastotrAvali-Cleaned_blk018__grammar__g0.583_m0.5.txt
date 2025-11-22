@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 18 | label: grammar | g:0.583 m:0.5 ---
+
+kadācit kvāpi labhyo asi yogenetīśa vañcanā anyathā sarvakakṣyāsu bhāsi bhaktimatāṃ katham ।।

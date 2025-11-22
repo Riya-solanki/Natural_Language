@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1064 | label: grammar | g:0.552 m:0.5 ---
+
+adya svargavadhūgaṇe guṇamaya tvatkīrtim indūjvalām uccair gāyati niṣkalaṅkimadaśāmād āsyate candramāḥ ।
+gītākarṇanamodamuktayavasagrāsābhilāṣo vada svāminn aṅkamṛgaḥ kiyanti hi dināny etasya vartiṣyate ।।

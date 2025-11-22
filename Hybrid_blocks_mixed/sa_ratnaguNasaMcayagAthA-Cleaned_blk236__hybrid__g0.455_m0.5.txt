@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 236 | label: hybrid | g:0.455 m:0.5 ---
+
+emeva bodhivaraprasthita ratnatulyo prajñāya pāramita yogu na riñcitavyo 
+ratanaṃ va labdhva gṛhamāṇu abhinnasattvo anubuddhayati tvarito śivamabhyupaiti ।।

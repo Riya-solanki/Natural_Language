@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2575 | label: hybrid | g:0.25 m:0.491 ---
+
+saṃkarṣaṇaṃ tu skandhena śīghram utkṣipya dānavaḥ 
+drutaṃ jagāma vimukhaḥ sacandra iva toyadaḥ ।। 
+aviṣahyaṃ manyamānaḥ kṛṣṇaṃ dānavapuṃgavaḥ । vahan drutataraṃ prāgād avarohaṇataḥ param । 
+sa bhāram asahaṃs tasya rauhiṇeyasya dhīmataḥ 
+vavṛdhe sumahākāyaś candrākrānta ivāmbudaḥ ।।

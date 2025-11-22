@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 536 | label: meter | g:0.306 m:0.5 ---
+
+kāmaṃ māṃ śibayaḥ sarve ghnantu pravrājayantu vā ।
+na tvevāhaṃ na dāsyāmi gacchāmyeṣa tapovanam ।।

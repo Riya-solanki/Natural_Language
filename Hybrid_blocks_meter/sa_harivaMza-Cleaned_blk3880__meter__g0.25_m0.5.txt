@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3880 | label: meter | g:0.25 m:0.5 ---
+
+ādāya rukmiṇīṃ kṛṣṇo jagāmāśu purīṃ prati 
+rāme cāsajya taṃ bhāraṃ yuyudhāne ca vīryavān ।।

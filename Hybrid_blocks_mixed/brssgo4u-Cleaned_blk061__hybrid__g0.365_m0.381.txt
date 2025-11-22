@@ -1,0 +1,6 @@
+--- source: brssgo4u-Cleaned.txt | block: 61 | label: hybrid | g:0.365 m:0.381 ---
+
+api ca dhyāyati arthaṃ eṣa yat samānapratyayapravāhakaraṇam ।
+dhyāyatiḥ ca praśithila aṅgaceṣṭeṣu pratiṣṭhitadṛṣṭiṣu ekaviṣaya ākṣiptacitteṣu upacaryamāṇo dṛśyate dhyāyati bako dhyāyati proṣitabandhuḥ iti ।
+āsīnaḥ ca anāyāso bhavati ।
+tasmāt api āsīnakarma upāsanam ।।

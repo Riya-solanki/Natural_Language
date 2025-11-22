@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1572 | label: meter | g:0.194 m:0.5 ---
+
+{jassea vaṇo tassea veaṇā bhaṇai taṃ jaṇo aliaṃ ।
+dantakkhaaṃ kavole bahue veaṇā savattīṇaṃ ।।}
+[yasyaiva vraṇastasyaiva vedanā bhaṇati tajjano alīkam ।
+dantakṣataṃ kapole vadhvāḥ vedanā sapatnīnām ।।]

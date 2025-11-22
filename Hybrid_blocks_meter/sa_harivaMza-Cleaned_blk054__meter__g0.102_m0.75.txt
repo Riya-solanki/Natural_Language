@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 54 | label: meter | g:0.102 m:0.75 ---
+
+prajāpater ātmajāyāṃ vīraṇasya mahātmanaḥ 
+manor ajāyanta daśa naḍvalāyāṃ mahaujasaḥ 
+kanyāyāṃ bharataśreṣṭha vairājasya prajāpateḥ ।।

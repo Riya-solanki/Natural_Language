@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 21 | label: meter | g:0.194 m:0.5 ---
+
+te vavrire śivajñānaṃ śrūyatāmiti so abravīt 
+kiṃtveko astu mama praṣṭā nikhilaśrotṛsammataḥ ।।

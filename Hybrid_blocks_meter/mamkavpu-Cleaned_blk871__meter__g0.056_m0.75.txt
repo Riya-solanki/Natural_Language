@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 871 | label: meter | g:0.056 m:0.75 ---
+
+{prayatnaparibodhitaḥ stutibhiradya śeṣe niśā-
+makeśavamapāṇḍavaṃ bhuvanamadya niḥsomakam ।
+iyaṃ parisamāpyate raṇakathādya doḥśālinā-
+mapaitu ripukānanātigururadya bhāro bhuvaḥ ।।}

@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 298 | label: meter | g:0.272 m:0.845 ---
+
+sa munirlāñchito mauñjyā kṛṣṇājinapaṭaṃ vahan ।
+vyarājannīlajīmūtabhāgāśliṣṭa ivāṃśumān ।।

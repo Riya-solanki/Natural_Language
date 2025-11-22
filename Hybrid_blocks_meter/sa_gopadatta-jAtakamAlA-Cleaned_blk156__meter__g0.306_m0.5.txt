@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 156 | label: meter | g:0.306 m:0.5 ---
+
+khinnā vayaṃ rudhirabindum upādadānāḥ sāṃkleśikeṣu sabhayeṣu bhaveṣu vatsa ।
+āyāsinīṃ ca kaṭasīm abhivardhayanto naikāntarāyavivaśāḥ svaparābhavāya ।।

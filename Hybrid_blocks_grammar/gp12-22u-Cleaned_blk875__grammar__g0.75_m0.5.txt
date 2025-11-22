@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 875 | label: grammar | g:0.75 m:0.5 ---
+
+[] athavā sahasradṛśam apy aho bhavādṛśam abhibhūya bhṛśī-bhavantī tādṛśī madāndhatā nāsadṛśī, yataḥ sureśo' si । kintv amṛtapatā tava kathaṃ mrtapatā jātā? yatas tyakta-prāṇa-prāyaṇa-kāya-prāyataḥ pramādaḥ so' yam āpatitaḥ ।

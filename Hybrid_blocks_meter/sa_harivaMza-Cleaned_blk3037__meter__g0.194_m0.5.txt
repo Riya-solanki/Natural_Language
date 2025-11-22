@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3037 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ savyaṃ dakṣiṇaṃ ca maṇḍalāni paribhraman 
+padbhyām ubhābhyāṃ sa hayaḥ krodhenārujate drumān ।।

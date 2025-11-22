@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1728 | label: meter | g:0.194 m:0.5 ---
+
+ayaṃ sa ripur asmākaṃ pūrveṣāṃ dānavarṣiṇām 
+arṇavāvāsinaś caiva madhor vai kaiṭabhasya ca ।।

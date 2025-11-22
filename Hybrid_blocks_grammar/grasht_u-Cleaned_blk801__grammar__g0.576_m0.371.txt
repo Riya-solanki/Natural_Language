@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 801 | label: grammar | g:0.576 m:0.371 ---
+
+dehalohayoḥ sādṛśyamāha annamityādi ।।
+yatheti sādṛśye ।।
+annaṃ godhūmādikaṃ vā dravyaṃ auṣadhaṃ anupānena saha jalādinā sārdhaṃ dhātuṣu māṃsādiṣu saptasu kramate vyāpnoti tathā amunā vakṣyamāṇavidhānena krāmaṇayogāt krāmaṇāya yogaḥ kunaṭīmākṣikaviṣādis tataḥ sūtarājo loharūpyādiṣu viśati bāhyābhyantaraṃ vidhyatītyarthaḥ ।।

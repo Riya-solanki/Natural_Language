@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 38 | label: hybrid | g:0.465 m:0.5 ---
+
+yo icchatī sugataśrāvaka haṃ bhaveyaṃ pratyekabuddha bhaviyāṃ tatha dharmarājo 
+imu kṣāntyanāgami na śakyati prāpuṇetuṃ yatha ārapāragamanāya atītadarśī ।।

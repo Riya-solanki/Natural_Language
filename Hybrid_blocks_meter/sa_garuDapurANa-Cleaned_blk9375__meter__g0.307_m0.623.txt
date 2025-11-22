@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9375 | label: meter | g:0.307 m:0.623 ---
+
+prathame ahni tṛtīye ca pañcame saptame api vā ।
+navamaikādaśe caiva śrāddhaṃ navakamucyate ।।

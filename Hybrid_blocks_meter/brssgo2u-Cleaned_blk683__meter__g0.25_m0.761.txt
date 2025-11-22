@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 683 | label: meter | g:0.25 m:0.761 ---
+
+na ।
+tasyā api dravyatvābhyupagamāt ।
+nibiḍāvayavaṃ hi tejodravyaṃ pradīpaḥ ।
+praviralāvayavaṃ tu tejodravyameva prabheti ।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 299 | label: grammar | g:0.722 m:0.375 ---
+
+dvitīyāṭaussvenaḥ ।।
+idametadoranvādeśe । kiñcitkāryaṃ vidhātumupāttasya kāryāntaraṃ vidhātuṃ punarupādānamanvādeśaḥ । yathā - anena vyākaraṇamadhīta menaṃ chando adhyāpayeti । anayoḥ pavitraṃ kulamenayoḥ prabhūtaṃ svāmiti ।। enau । enena । enayoḥ ।। rājā ।।

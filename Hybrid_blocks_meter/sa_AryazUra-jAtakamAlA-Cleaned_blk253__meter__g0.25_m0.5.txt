@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 253 | label: meter | g:0.25 m:0.5 ---
+
+ityenamabhisaṃrādhya śakrastaccāsya vibhavasāramupasaṃhṛtya kṣamayitvā ca tatraivāntardadhe ।

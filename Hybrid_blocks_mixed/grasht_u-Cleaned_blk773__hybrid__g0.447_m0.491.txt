@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 773 | label: hybrid | g:0.447 m:0.491 ---
+
+sāraṇayā pāradaguṇānāha tasmādityādi ।।
+tasmāddhetoḥ sūto dravyavidhāyī syāt iti śeṣaḥ dravyakartetyartha ।।
+alaghunā bījena analpaparimāṇena mahābījena sāritaḥ san samasāritaḥ san baddho bhavet ityadhyāhāraḥ ।।
+mūṣāyāṃ samāvarto dravaṇaṃ syāt vahnidhamanāt iti śeṣaḥ ।।

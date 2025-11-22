@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 608 | label: meter | g:0.267 m:0.956 ---
+
+mārgasthavakraśabdārthaguṇālaṅkārasaṃpadaḥ ।
+anyadvākyasya vakratvaṃ tathābhihitijīvitam ।।
+manojñaphalakollekhavarṇacchāyāśriyaḥ pṛthak ।
+citrasyeva manohāri kartuḥ kimapi kauśalam ।।

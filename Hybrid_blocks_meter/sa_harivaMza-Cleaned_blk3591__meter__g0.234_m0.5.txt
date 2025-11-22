@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3591 | label: meter | g:0.234 m:0.5 ---
+
+bhītāḥ kasmān nivartadhvaṃ dhig etāṃ kṣatravṛttitām 
+kṣipraṃ samabhivartadhvaṃ mama vākyena coditāḥ 
+atha vā tiṣṭhata rathaiḥ prekṣakāḥ samavasthitāḥ । 
+yāvad etau raṇe gopau preṣayāmi yamakṣayam ।। 
+sthito asmi yuddhe saṃrabdhaḥ kṣatriyā vijayāya hi । 
+tatas te kṣatriyāḥ sarve jarāsaṃdhena coditāḥ 
+sṛjantaḥ śarajālāni hṛṣṭā yoddhuṃ vyavasthitāḥ ।।

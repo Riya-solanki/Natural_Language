@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 938 | label: meter | g:0.194 m:0.5 ---
+
+pūroḥ pravīraḥ putro abhūn manasyus tasya cātmajaḥ 
+rājā cābhayado nāma manasyor abhavat sutaḥ ।।

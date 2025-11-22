@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1130 | label: meter | g:0.25 m:0.625 ---
+
+huṃ-kāraṃ yaḥ prayuñjīta sukhaṃ hyanubhavannasau ।
+dvayendriyasamāpattyā yasya so duḥkhamāpnuyāt ।।

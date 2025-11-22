@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 525 | label: meter | g:0.194 m:0.625 ---
+
+tyāgasyaiva phalānubandhamadhurāṃ citrāṃ vipākaśriyaṃ
+saṃprāpya praharanty anartharucayo mūleṣu ye saṃpadām ।
+te saṃtyajya nidāghakālasubhagān indoḥ karāñ śīkarān
+hlādāyānupatanti dāvadahanāṃś cañcacchikhāsaṃcayān ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 730 | label: meter | g:0.194 m:0.5 ---
+
+mithyopacarya te taṃ tu gurum anyāyato dvijāḥ 
+kālena samayujyanta sarva evāyuṣaḥ kṣaye ।।

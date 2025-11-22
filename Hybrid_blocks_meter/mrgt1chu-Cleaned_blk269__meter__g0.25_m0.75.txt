@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 269 | label: meter | g:0.25 m:0.75 ---
+
+tatpāratantryaṃ baddhatvaṃ tasminnitye cidādivat ।
+muktisādhanasaṃdoho vyartho'lam anayā dhiyā ।।

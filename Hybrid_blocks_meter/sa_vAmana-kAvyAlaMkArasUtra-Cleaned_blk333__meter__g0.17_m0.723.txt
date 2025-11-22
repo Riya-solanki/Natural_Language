@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 333 | label: meter | g:0.17 m:0.723 ---
+
+prativastunaḥ samāsokterbhedaṃ darśayitumāha 
+anuktau samāsoktiḥ ।।
+upameyasyānuktau samānavastunyāsaḥ samāsoktiḥ । saṃkṣepavacanāt samāsoktirityākhyā । yathā

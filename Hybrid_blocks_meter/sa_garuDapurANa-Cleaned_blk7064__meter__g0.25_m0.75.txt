@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7064 | label: meter | g:0.25 m:0.75 ---
+
+ekena janmanā jñānanmuktirna dvaitabhāvinām ।
+yogabhraṣṭāḥ kuyogāśca viprā yogikulodbhavāḥ ।।

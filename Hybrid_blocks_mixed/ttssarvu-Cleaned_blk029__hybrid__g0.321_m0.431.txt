@@ -1,0 +1,4 @@
+--- source: ttssarvu-Cleaned.txt | block: 29 | label: hybrid | g:0.321 m:0.431 ---
+
+pañca indriyāṇi karmayonayaḥ karmaṇāṃ vacanādānaviharaṇotsargānandānāṃ yonayaḥ kāraṇāni tāni ca vākpāṇipādapāyūpasthākhyāni ।
+anena karmaṇā tattadviṣayasānnidhyena tattatsambandhaḥ sūcitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 295 | label: meter | g:0.333 m:0.5 ---
+
+{padminikā} - ayya vasantaa kiṃ ṇa jāṇāsi tuvaṃ bhaṭṭidāriā padumāvadī sīsavedaṇāe duḥkhāvidetti 
+[ārya vasantaka kiṃ na jānāsi tvaṃ bhartṛdārikā padmāvatī śīrṣavedanayā duḥkhiteti । ]

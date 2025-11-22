@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 300 | label: meter | g:0.194 m:0.5 ---
+
+vyāptāsya kācakumpyataḥ sal lūṇaṃ naimbukaṃ rasam 
+palaṃ dhānyābhrakaṃ kṣiptvā limped vastramṛdā mukham ।।

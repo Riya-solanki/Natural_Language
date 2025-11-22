@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 393 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam amūm anu punar amūr asādhāraṇa-bādhānām ādhāratayā prāṇa-dhāraṇāyāṃ tu dhuta-kāraṇā hradam agādha-jalaṃ valamānāḥ prati prathitākāśa-vāṇī pratyāvartayituṃ pratyāśāṃ vardhayāmāsa ।

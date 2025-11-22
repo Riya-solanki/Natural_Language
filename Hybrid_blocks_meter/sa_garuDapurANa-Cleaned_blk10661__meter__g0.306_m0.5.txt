@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10661 | label: meter | g:0.306 m:0.5 ---
+
+yadā hi kāraṇaṃ cāsti tadā kāryamiti prabho ।
+ityabhiprāyagarbheṇa tvaṃ samādhāsya te yadi ।।

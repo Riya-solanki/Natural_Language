@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 1099 | label: grammar | g:0.625 m:0.5 ---
+
+abhedena kriyaikā tu dvisādhyā ced vivakṣitā meṣāv apāye kartārau yady anyo vidyate avadhiḥ ।।

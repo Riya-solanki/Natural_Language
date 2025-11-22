@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 627 | label: hybrid | g:0.502 m:0.475 ---
+
+yadapyuktam, adaharo asminnantarākāśaḥ' ityākāśasyālpatvaṃ śrūyamāṇaṃ parameśvare nopapadyate, jīvasya tvārāgropanimitasyālpatvamavakalpata iti tasya parihāro vaktavyaḥ ।
+ukto hyasya parihāraḥ parameśvarasyāpekṣikamalpatvamavakalpata iti aarbhakaukastvāttadvyapadeśācca neti cenna nicāyyatvādevaṃ vyomavacca' ityatra ।
+sa eveha parihāro anusaṃdhātavya iti sūcayati ।
+śrutyaiva cedamalpatvaṃ pratyuktaṃ prasiddhenākāśenopamimānayā ayāvānvā ayamākāśastāvāneṣo antarhṛdaya ākāśaḥ' iti ।।

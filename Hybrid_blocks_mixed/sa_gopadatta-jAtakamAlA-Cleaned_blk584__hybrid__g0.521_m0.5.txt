@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 584 | label: hybrid | g:0.521 m:0.5 ---
+
+sthānād itaḥ punar ayaṃ kaluṣāntarātmā yāsyaty apāyam anupāyabhayapratiṣṭham ।
+arciṣmatā hutabhujā vinikīrṇadehā yasmin vasanti vivaśā bahavaḥ kadaryāḥ ।।

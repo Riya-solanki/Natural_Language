@@ -1,0 +1,4 @@
+--- source: sa_yAmuna-catuHzlokI-Cleaned.txt | block: 5 | label: grammar | g:0.635 m:0.5 ---
+
+śāntānantamahāvibhūti paraṃ yad brahma rūpaṃ harer mūrtaṃ brahma tato api tat priyataraṃ rūpaṃ yad atyadbhutam ।
+yāny anyāni yathāsukhaṃ viharato rūpāṇi sarvāṇi tāny āhuḥ svair anurūparūpavibhavair gāḍhopagūḍhāni te ।।

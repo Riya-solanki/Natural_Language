@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11874 | label: meter | g:0.306 m:0.5 ---
+
+taiḥ sārdhaṃ tvaṃ śvānaśabdaṃ kuruṣva haridrācūrṇaṃsarvadā tvaṃ dadhasva ।
+kuruṣva tvaṃ bhīmasenasya pūjāṃ pañcāmṛtaiḥ ṣoḍaśabhiścopacāraiḥ ।।

@@ -1,0 +1,6 @@
+--- source: ttssarvu-Cleaned.txt | block: 52 | label: meter | g:0.321 m:0.5 ---
+
+atraikatvamarthavattvaṃ pārārthyaṃ pradhāne anyatvaṃ prakṛtyapekṣayā akartṛtvaṃ bahutvaṃ puruṣe astitvaṃ yogo viyogaścobhayoḥ ।
+śeṣavṛttiḥ aṅgāṅgibhāvena guṇānāṃ vṛttiḥ sthūlasūkṣmaśarīrayoriti ।
+atra prakṛtipuruṣayoḥ sādharmyavaidharmyanirūpaṇena dvayoḥ pārthakyena jñānaṃ prakṛtipuruṣānyatākhyātibījamiti sūcitaṃ bhavati ।
+tathā caiteṣāṃ dharmāṇāṃ tattatsvabhāvabhūtatvena prakṛtisargatāvyavahāra iti ।।

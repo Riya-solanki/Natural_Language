@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 5 | label: grammar | g:0.551 m:0.433 ---
+
+kāmakrodhau dvayam api padaṃ pratyanīkaṃ vaśitve hatvānaṅgaṃ kim iva hi ruṣā sādhitaṃ tryambakeṇa ।
+yas tu kṣāntyā śamayati śataṃ manmathādyān arātīn kalyāṇaṃ vo diśatu sa munigrāmaṇīr arkabandhuḥ ।।
+saṃghaśriyaḥ

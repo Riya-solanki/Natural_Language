@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6218 | label: meter | g:0.306 m:0.5 ---
+
+sā tu kusumavicitrā jaloddhatagatī rasaiḥ ।
+jasau jasau ca pādeṣu catūraiḥ stragviṇī matā ।।

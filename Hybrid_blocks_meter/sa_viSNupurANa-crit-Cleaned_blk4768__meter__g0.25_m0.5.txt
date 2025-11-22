@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4768 | label: meter | g:0.25 m:0.5 ---
+
+bhūtātmā cendriyātmā ca pradhānātmā tathā bhavān 
+ātmā ca paramātmā ca tvam ekaḥ pañcadhā sthitaḥ ।।

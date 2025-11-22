@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 81 | label: hybrid | g:0.517 m:0.5 ---
+
+khagā vāsopetāḥ salilam avagāḍho munijanaḥ pradīpto agnir bhāti pravicarati dhūmo munivanam
+paribhraṣṭo dūrād ravir api ca saṃkṣiptakiraṇo rathaṃ vyāvartyāsau praviśati śanair astaśikharam ।।

@@ -1,0 +1,6 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 183 | label: grammar | g:0.608 m:0.375 ---
+
+Vṛtti:
+[dhāmaśaṅkuṣu] nivāsaparicchadahetuṣu dikṣvaṣṭasu niviṣṭeṣu śaṅkuṣu [lokeśān] indrādilokapālān [pradoṣe] rātryārambhe [prativāsaraṃ] pratyahaṃ pūjayet। [bāhyāvṛtau] bāhyaprākāranimittaṃ ca śakrādidigaṣṭake śaṅkuṣu [tadastrāṇi] vajrādyāyudhāni antarghanacchadam iti kavacādyāvaraṇaṃ ca yajet। [svadigbhāge] prāgukte nairṛtasthāne kṣetrapālaṃ yajet।
+parv asu caturdaśyaṣṭamyādiṣu kṣetranemigān indrādilokapālān yajet। tathā hyuktaṃ prāk
+nyaseddigīśvarāndikṣu śakrādīn śaṅkuvigrahān।

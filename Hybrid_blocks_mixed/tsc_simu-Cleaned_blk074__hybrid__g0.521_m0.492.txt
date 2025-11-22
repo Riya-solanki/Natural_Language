@@ -1,0 +1,6 @@
+--- source: tsc_simu-Cleaned.txt | block: 74 | label: hybrid | g:0.521 m:0.492 ---
+
+yadā rajastamasī abhibhūya sattvaguṇa utkaṭo vaikarikasañjñāṃ labhamāno ahaṃkāro apravṛttidharmā taijasāhaṃkāraṃ sahāyīkṛtya pravṛttidharmāṇyekādaśendriyāṇi janayati tadā tāni svasāhāyyacchalamadhigamya taijasasvarūpeṇāpi kṛtānītyucyate ।
+yadā ca sattvarajasī abhibhūya tamoguṇotkaṭo bhūtādistaijasāhaṃkārasya rūpaṃ sahāyīkṛtya tanmātrapañcakaṃ pravṛttidharmakaṃ karoti tadā tattanmātrapañcakaṃ svasāhāyyenaiva taijasenāpi kṛtamityucyate tasmāt pravṛttidharmakāt tattanmātrapañcakād bhūtapañcakamutpadyate ।
+eṣa pariṇāmakramaḥ ।
+vaikārikādekādaśendriyāṇi bhūtādestanmātrapañcakamiti ।।

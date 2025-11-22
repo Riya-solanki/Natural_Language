@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3619 | label: grammar | g:0.583 m:0.5 ---
+
+bṛhaspatim induṃ ca tasya kumārasyāticārutayā sābhilāṣau dṛṣṭvā devāḥ samutpannasaṃdehās tārāṃ papracchuḥ ।।

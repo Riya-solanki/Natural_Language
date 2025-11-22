@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 904 | label: meter | g:0.25 m:0.625 ---
+
+dharmam arthaṃ ca kāmaṃ ca mokṣaṃ cānvicchatā sadā 
+ārādhanīyo bhagavān anādiḥ puruṣottamaḥ ।।

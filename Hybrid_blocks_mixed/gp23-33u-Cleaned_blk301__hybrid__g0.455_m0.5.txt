@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 301 | label: hybrid | g:0.455 m:0.5 ---
+
+bhajanti bhajataḥ kecin nānye' nyān eva kecana ।
+ubhayāṃś cāpare ke' pi nobhayān agatīn pare ।। [anuṣṭubh]

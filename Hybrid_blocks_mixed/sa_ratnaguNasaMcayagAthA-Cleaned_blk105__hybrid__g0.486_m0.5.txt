@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 105 | label: hybrid | g:0.486 m:0.5 ---
+
+emeva prajñavarapāramitā jinānāṃ śṛṇu tāta yo labhati bodhi gaveṣamāṇaḥ 
+āśvāsaprāpta bhavatī na ca tasya trāso nārhantabhūmi na pi pratyayabuddhabhūmī ।।

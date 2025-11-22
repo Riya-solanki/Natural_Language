@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3231 | label: meter | g:0.194 m:0.5 ---
+
+ittham unmārgayāteṣu teṣu daityeṣu te amarāḥ 
+udyogaṃ paramaṃ kṛtvā yuddhāya samupasthitāḥ ।।

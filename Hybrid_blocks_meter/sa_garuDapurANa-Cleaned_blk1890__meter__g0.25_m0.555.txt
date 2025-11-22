@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1890 | label: meter | g:0.25 m:0.555 ---
+
+na nimnaṃ nonnataṃ strīṇāṃ bhavetkaratalaṃ śubham ।
+rekhānvitaṃ tvavidhavāṃ kuryātsaṃbhoginīṃ striyam ।
+rekhā yā maṇibandhotthā gatā madhyāṅguliṃ kare ।।

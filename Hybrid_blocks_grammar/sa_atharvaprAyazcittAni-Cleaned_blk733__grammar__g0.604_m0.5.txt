@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 733 | label: grammar | g:0.604 m:0.5 ---
+
+imo agne vītatamāni havyājasro vakṣi devatātim achā prati na īṃ surabhīṇi vyantu ।

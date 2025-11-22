@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1014 | label: meter | g:0.25 m:0.875 ---
+
+tvām upayantā sakhi vanamālī ।
+sakala-śubhākara-vara-guṇa-śālī ।।
+yatra vraja-patir ita-rucir ucitām
+vārtāṃ cālayitā sukha-sacitām ।।

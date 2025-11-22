@@ -1,0 +1,8 @@
+--- source: rasadhpu-Cleaned.txt | block: 10 | label: hybrid | g:0.25 m:0.455 ---
+
+prathamaṃ sūtaḥ ślakṣṇavastreṇa gālanīyo yathā vaṅganāgajāḥ pūrvoktavikārāḥ sarve vastre lagitvā tiṣṭhanti ।। 
+iti prathamaḥ saṃskāraḥ pāṭasāraṇaḥ ।। 
+kārṣṇyaṃ tyājayituṃ sūtād vidheyo loṣṭajīkakaḥ ।
+tatpalaikaṃ ca sūtasya catuḥṣaṣṭipalāni ca ।।
+khalve prakṣipya saṃmelya mardayed yāmamātrataḥ ।
+mardito nirmalībhūtaḥ kṛṣṇatvaṃ tyajati dhruvam ।।

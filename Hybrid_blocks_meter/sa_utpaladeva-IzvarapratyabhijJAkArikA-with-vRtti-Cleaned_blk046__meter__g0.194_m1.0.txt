@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 46 | label: meter | g:0.194 m:1.0 ---
+
+evam anyonyabhinnānām aparasparavedinām 
+jñānānām anusaṃdhānajanmā naśyej janasthitiḥ ।।

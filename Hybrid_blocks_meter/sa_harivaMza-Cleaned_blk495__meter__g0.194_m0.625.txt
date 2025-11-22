@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 495 | label: meter | g:0.194 m:0.625 ---
+
+ardhaṃ śakānāṃ śiraso muṇḍayitvā vyasarjayat 
+yavanānāṃ śiraḥ sarvaṃ kāmbojānāṃ tathaiva ca ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1811 | label: meter | g:0.272 m:0.72 ---
+
+devā ūcuḥ ।
+yadi varadā bhavatī tridaśānāṃ dvijaśiśugoṣu yatasva hitāya ।
+punarapi devaripūnaparāṃstvaṃ pradaha hutāśanatulyaśarīre ।।

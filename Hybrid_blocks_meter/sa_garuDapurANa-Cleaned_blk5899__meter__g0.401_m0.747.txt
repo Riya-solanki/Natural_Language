@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5899 | label: meter | g:0.401 m:0.747 ---
+
+vaṃ ca tvīśe sadā pūjya oṃ hṛdisthañca pūjayet ।
+tanmātrānbhūtamātrāṃstānbahireva prapūjayet ।।

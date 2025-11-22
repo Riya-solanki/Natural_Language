@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4760 | label: meter | g:0.194 m:0.5 ---
+
+kumbhāṇḍa vadhyatāṃ śīghram ayaṃ vai kulapāṃsanaḥ 
+cāritraṃ yena me loke dūṣitaṃ dūṣitātmanā ।।

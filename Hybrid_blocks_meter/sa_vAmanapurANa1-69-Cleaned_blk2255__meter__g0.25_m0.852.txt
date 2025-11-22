@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2255 | label: meter | g:0.25 m:0.852 ---
+
+vāsudeva uvāca ।
+tryahamuṣṇaṃ pibedāpaḥ tryahamuṣṇaṃ payaḥ pivet ।
+tryahamuṣṇaṃ pibetsarpirvāyubhakṣo dinatrayam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7894 | label: meter | g:0.25 m:0.5 ---
+
+na paśyāmi titīrṣoranyad rāmasmaraṇaṃ vinā ।
+navanīyaṃ yathā dadhno jyotiḥ kāṣṭhādapi kvacit ।।

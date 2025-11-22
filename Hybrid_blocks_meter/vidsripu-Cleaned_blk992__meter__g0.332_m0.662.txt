@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 992 | label: meter | g:0.332 m:0.662 ---
+
+sphuṭakokanadāruṇaṃ purastād atha jāmbūnadapatrapiñjarābham ।
+kramalaṅghitamugdhabhāvam indoḥ sphaṭikacchedanibhaṃ vibhāti bimbam ।।
+bhagīrathasya

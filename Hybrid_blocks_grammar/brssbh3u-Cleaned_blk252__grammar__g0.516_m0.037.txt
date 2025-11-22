@@ -1,0 +1,6 @@
+--- source: brssbh3u-Cleaned.txt | block: 252 | label: grammar | g:0.516 m:0.037 ---
+
+evaṃ setvādivyapadeśānparapakṣahetūnunmathya saṃprati svapakṣaṃ hetvāntareṇopasaṃharati ।
+tathānyapratiṣedhāpi na brahmaṇaḥ paraṃ vastvantaramastīti gamyate ।
+tathāhi - sa evādhastāt, ahamevādhastāt, ātmaivādhastāt, sarvaṃ taṃ parādādyo anyatrātmanaḥ sarvaṃ veda, brahmaivedaṃ sarvam ātmaivedaṃ sarvam, neha nānāsti kiñcana, yasmātparaṃ nāparamasti kiñcit, tadetadbrahmāpūrvamanaparamanantaramabāhyam ityevamādivākyāni svaprakaraṇastānyanyārthatvena pariṇetumaśakyāni brahmavyatiriktaṃ vastvantaraṃ vārayanti ।
+sarvāntaraśruteśca na paramātmano anyo antarātmāstītyavadhāryate ।।

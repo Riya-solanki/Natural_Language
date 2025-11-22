@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 749 | label: grammar | g:0.635 m:0.5 ---
+
+manorāgas tīvraṃ vyathayati visarpann avirataṃ pramāthī nirdhūmaṃ jvalati vidhutaḥ pāvaka iva ।
+hinasti pratyaṅgaṃ jvara iva garīyān ita ito na māṃ trātus tātaḥ prabhavati na cāmbā na bhavatī ।।

@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 44 | label: meter | g:0.326 m:0.5 ---
+
+atha teṣāṃ vidhyaśravaṇādividhyantareṇaikavākyatvābhāvācca kāryārthatvānupapattervyutpattivirahācca sigaddhyarthe prāmāṇyayogādaprāmāṇyamevābhimatam ।
+kimidānīmātmādivākyānāmaprāmāṇyapratipādanaparamidaṃ sūtraṃ, suvyāhṛtaṃ tarhi śāstrārambhe prathamaṃ tāvatsūtrakāro aprāmāṇyameva vedavākyānāṃ pratipādayatīti ।।

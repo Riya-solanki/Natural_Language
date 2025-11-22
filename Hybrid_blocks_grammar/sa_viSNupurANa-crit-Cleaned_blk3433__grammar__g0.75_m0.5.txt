@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3433 | label: grammar | g:0.75 m:0.5 ---
+
+athāntarjalāvasthitaḥ sa saubharir ekāgratāsamādhānam apahāyānudinaṃ tat tasya matsyasyātmajapautradauhitrādibhiḥ sahātiramaṇīyaṃ lalitam avekṣyācintayat । aho dhanyo ayam īdṛśam apy anabhimataṃ yonyantaram avāpyaibhir ātmajapautrādibhiḥ saha ramamāṇo atīvāsmākaṃ spṛhām utpādayati । vayam apy evaṃ putrādibhiḥ saha ramiṣyāmaḥ । ity evam abhisamīkṣya sa tasmād antarjalān niṣkramya nirveṣṭukāmaḥ kanyārthaṃ māṃdhātāraṃ rājānam agacchat ।।

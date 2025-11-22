@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 17 | label: hybrid | g:0.542 m:0.5 ---
+
+bhaktānāṃ bhavadadvaitasiddhyai kā nopapattayaḥ tadasiddhyai nikṛṣṭānāṃ kāni nāvaraṇāni vā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 778 | label: meter | g:0.25 m:0.5 ---
+
+pāñcālo bahvṛcas tv āsīd ācāryatvaṃ cakāra ha 
+dvivedaḥ kaṇḍarīkas tu chandogo adhvaryur eva ca ।।

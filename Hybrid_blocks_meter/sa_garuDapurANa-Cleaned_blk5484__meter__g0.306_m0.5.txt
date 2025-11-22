@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5484 | label: meter | g:0.306 m:0.5 ---
+
+harītakī vacā kuṣṭhaṃ vyoṣaṃ hiṅgu manaḥ śilā ।
+kāse śvāse ca hikkāyāṃ lihyātkṣaudraṃ ghṛplutam ।।

@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 37 | label: grammar | g:0.573 m:0.5 ---
+
+tāṃ kasyāṃ cid bhavanavalabhau suptapārāvatāyāṃ nītvā rātriṃ ciravilasanāt khinnavidyutkalatraḥ ।
+dṛṣṭe sūrye punar api bhavān vāhayed adhvaśeṣaṃ mandāyante na khalu suhṛdām abhyupetārthakṛtyāḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7766 | label: meter | g:0.25 m:0.5 ---
+
+vicitranagare tatra vicitro nāma pārithivaḥ ।
+tatra ṣaṇmāsapiṇḍena tṛptaḥ san vrajate puraḥ ।।
+vrajannevaṃ vilapate prāsāgreṇa prapīḍitaḥ ।।
+mātā bhrātā pitā putraḥ ko api me vartate na vā ।
+yo māmuddharate pāpaṃ patantaṃ duḥ khasāgare ।।

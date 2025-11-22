@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1816 | label: meter | g:0.194 m:0.5 ---
+
+so agniṃ prāk savane dṛṣṭvā hūyamānaṃ maharṣibhiḥ 
+avandata mahātejāḥ kṛtvā paurvāhṇikaṃ vidhim ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10323 | label: meter | g:0.25 m:0.886 ---
+
+śrīkṛṣṇa uvāca ।
+rāśībhūtaguṇānāṃ tu trayaṇāmapi sattama ।
+tadā vimiśritatvena hyavasthānaṃ vidurbudhāḥ ।।

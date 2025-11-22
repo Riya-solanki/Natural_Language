@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1597 | label: hybrid | g:0.511 m:0.507 ---
+
+anucitam idam akramaś ca puṃsāṃ yad iha jarāsv api mānmathā vikārāḥ ।
+yad api ca na kṛtaṃ nitambinīnāṃ stanapatanāvadhi jīvitaṃ rataṃ vā ।।
+vidyākālidāsayoḥ

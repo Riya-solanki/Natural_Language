@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 722 | label: meter | g:0.194 m:0.625 ---
+
+svamanīṣikāto anyathā sa vidviṣṭo marīcibhiḥ 
+yasmād bhāṇḍāram ity evaṃ sarvasvaṃ yoginīkule ।।

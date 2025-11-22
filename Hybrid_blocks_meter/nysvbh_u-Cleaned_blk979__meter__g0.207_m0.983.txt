@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 979 | label: meter | g:0.207 m:0.983 ---
+
+vipākasaṃvedanāt karmāśayakṣaye śarīrapātaḥ
+prāyaṇam karmāśayāntarācca punarjanma।
+bhūtamātrāttu karmanirapekṣāt śarīrotpattau kasya kṣayāt śarīrapātaḥ ।
+prāyaṇamiti ? prāyaṇānupapatteḥ khalu vai
+nityatvaprasaṅgaṃ vidmaḥ, yādṛcchike tu prāyaṇe
+prāyaṇabhedānupapattiriti ।।

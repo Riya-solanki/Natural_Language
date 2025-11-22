@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 366 | label: meter | g:0.183 m:0.892 ---
+
+yathā-
+parimlānaṃ pīna-stana-jaghana-saṅgād ubhayatas
+tanor madhyasyāntaḥ parimilanam aprāpya haritam ।
+idaṃ vyasta-nyāsaṃ praśithila-bhujākṣepa-valanaiḥ
+kṛśāṅgyāḥ santāpaṃ vadati visinī-patra-śayanam ।।

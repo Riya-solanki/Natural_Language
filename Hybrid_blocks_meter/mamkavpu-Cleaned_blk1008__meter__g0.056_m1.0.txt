@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1008 | label: meter | g:0.056 m:1.0 ---
+
+{vimānaparyaṅkatale niṣaṇṇāḥ
+kutūhalāviṣṭitayā tadānīm ।
+nirdiśyamānān lalanāṅgulībhir-
+vīrāḥ svadehān patitānapaśyan ।।}

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3495 | label: meter | g:0.306 m:0.5 ---
+
+mātā śatruḥ pitā vairī bālā yena na pāṭhitāḥ ।
+sabhāmadhye na śobhante haṃsamadhye bakāyathā ।।

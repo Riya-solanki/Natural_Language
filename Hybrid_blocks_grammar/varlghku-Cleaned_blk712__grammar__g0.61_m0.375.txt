@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 712 | label: grammar | g:0.61 m:0.375 ---
+
+samavāye ca ।।
+samparipūrvasya karoteḥ suṭ syād bhūṣaṇe saṃghāte cārthe । alaṅkarotītyarthaḥ । saṅghībhavantītyarthaḥ । sampūrvasya kvacidabhūṣaṇe api suṭ । saṃskṛtaṃ bhakṣā iti jñāpakāt ।।

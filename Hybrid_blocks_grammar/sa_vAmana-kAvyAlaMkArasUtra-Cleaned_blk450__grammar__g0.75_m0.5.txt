@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 450 | label: grammar | g:0.75 m:0.5 ---
+
+atha kathaṃ dvitvāviṣṭatvaṃ jāteḥ ? । taddhi dravye, na jātau । atadrūpatvājjāteḥ । na doṣaḥ; tadatadrūpatvājjāteḥ । kathaṃ tadatadrūpatvaṃ jāteḥ ? । taddhi jaiminīyā jānanti । vayaṃ tu lakṣyasiddhau siddhaparamatāmuvādinaḥ । na caivamatiprasaṅgaḥ । lakṣyānusāritvānnyāyasyeti । evamanyāpi vyavasthohyā ।।

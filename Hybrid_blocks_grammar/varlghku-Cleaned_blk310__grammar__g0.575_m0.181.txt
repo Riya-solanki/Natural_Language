@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 310 | label: grammar | g:0.575 m:0.181 ---
+
+na saṃprasāraṇe saṃprasāraṇam ।।
+saṃprasāraṇe parataḥ pūrvasya yaṇaḥ saṃprasāraṇaṃ na syāt । iti yakārasya netvam । ata eva jñāpakādantyasya yaṇaḥ pūrvaṃ saṃprasāraṇam । yūnā ।।

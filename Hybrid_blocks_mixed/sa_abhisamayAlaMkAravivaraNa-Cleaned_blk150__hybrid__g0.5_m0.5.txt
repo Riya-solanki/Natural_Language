@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 150 | label: hybrid | g:0.5 m:0.5 ---
+
+bhedaḥ samāhitajñānaṃ pṛṣṭhalabdhajñānaṃ ceti dvau darśanamārgasya bhedau ।

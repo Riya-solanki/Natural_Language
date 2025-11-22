@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11016 | label: meter | g:0.328 m:0.741 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+caturjanmasu vai kṛṣṇa śacyādyaiḥ saha bhāratī ।
+ekadeha viśiṣṭaiva bhuvi jāteti coktavān ।।

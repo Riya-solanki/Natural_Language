@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 101 | label: hybrid | g:0.486 m:0.5 ---
+
+rajjvā diśaḥ pravitatāḥ salilaṃ viṣeṇa khātā mahī hutabhujā jvalitā vanāntāḥ 
+vyādhā padāny anusaranti gṛhītacāpāḥ kaṃ deśam āśrayatu yūthapatir mṛgāṇām ।।

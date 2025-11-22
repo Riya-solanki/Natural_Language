@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 676 | label: meter | g:0.306 m:0.5 ---
+
+bhayena mṛtyoḥ paralokacintayā kulābhimānena yaśo anurakṣayā ।
+suśuklabhāvācca viruḍhayā hriyā janaḥ saḥ śīlāmalabhūṣaṇo abhavat ।।

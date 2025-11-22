@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 763 | label: grammar | g:0.646 m:0.5 ---
+
+[] sā prāha-vraja-mātra-vrajanaṃ varjyate । dṛṣṭaṃ tu mṛṣṭa-smitaṃ jṛmbhamānasya bālakasya vadana-dvārā jagad eva iti ।

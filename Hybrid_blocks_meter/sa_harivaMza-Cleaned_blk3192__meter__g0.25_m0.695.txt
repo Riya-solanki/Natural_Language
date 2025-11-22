@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3192 | label: meter | g:0.25 m:0.695 ---
+
+rājñaḥ snānagṛhaṃ yāmi tad gṛhāṇānulepanam 
+dṛṣṭvaiva tvāravindākṣa vismitāsmi varānana । 
+sthitāsmy āgaccha bhadraṃ te hṛdayasyāsi me priyaḥ ।।

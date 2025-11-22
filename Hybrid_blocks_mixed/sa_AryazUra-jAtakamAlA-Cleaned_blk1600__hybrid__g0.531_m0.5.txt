@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1600 | label: hybrid | g:0.531 m:0.5 ---
+
+prāpayya tīramatha taṃ puruṣaṃ pareṇa prītyudgamena vinivartitakhedaduḥkham ।
+svenoṣmaṇā samapanīya ca śītamasya gaccheti taṃ sa visasarja nivedya mārgam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3721 | label: meter | g:0.25 m:0.5 ---
+
+vṛṣṇīnām andhakānāṃ ca gurur gārgyo mahātapāḥ 
+brahmacārī purā bhūtvā na sma dārān sa vindati ।।

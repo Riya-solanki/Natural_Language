@@ -1,0 +1,5 @@
+--- source: brsvbh2u-Cleaned.txt | block: 178 | label: meter | g:0.357 m:0.647 ---
+
+kāryahetukānumānocchedaprasaṅgaḥ ।
+diṅmātrasya sūcitam ।
+prapañcastu brahmatatvasamīkṣānyāyakaṇikayoḥ kṛta iti neha pratanyate vistarabhayāt ।।

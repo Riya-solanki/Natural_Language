@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1004 | label: meter | g:0.064 m:0.832 ---
+
+iti śrī-śrī-gopāla-campūm anu
+śrī-vṛndāvana-deśe praveśo nāma
+navamaṃ pūraṇam
+।।

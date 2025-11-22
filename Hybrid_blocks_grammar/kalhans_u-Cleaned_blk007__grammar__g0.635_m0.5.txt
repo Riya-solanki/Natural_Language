@@ -1,0 +1,4 @@
+--- source: kalhans_u-Cleaned.txt | block: 7 | label: grammar | g:0.635 m:0.5 ---
+
+kāpy eteṣu ruciḥ kaceṣu phaṇināṃ puṃskokilasyeva te gobhiḥ kaṇṭhataṭasya hṛṣyati puro dṛk paśya cakṣuḥśruteḥ ।
+saṃdhāne abhinave mitho bhagavator jihvāpṛthakspandinī bhinnārthāṃ sadṛśākṣarām api vadanty evaṃ giraṃ pātu vaḥ ।।

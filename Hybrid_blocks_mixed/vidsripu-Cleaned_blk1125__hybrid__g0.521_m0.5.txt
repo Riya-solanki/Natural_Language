@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1125 | label: hybrid | g:0.521 m:0.5 ---
+
+āyānti yānti satataṃ nīraṃ śiśiraṃ kharaṃ na gaṇayanti ।
+vidmo na hanta divasāḥ kasya kim ete kariṣyanti ।।

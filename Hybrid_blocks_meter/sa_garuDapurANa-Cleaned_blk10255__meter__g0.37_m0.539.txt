@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10255 | label: meter | g:0.37 m:0.539 ---
+
+jīvaḥ sadā svalpakartāsti pūrṇaḥ saṃsārarūpe duḥ kharūpe ca nityam ।
+viruddhayoścānayoraikyamāhurīśasya māyāvaśato māyinaśca ।।

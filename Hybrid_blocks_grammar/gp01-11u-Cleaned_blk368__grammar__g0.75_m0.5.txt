@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 368 | label: grammar | g:0.75 m:0.5 ---
+
+[] atra kecid arjunam upamānīkurvanti । vayaṃ tu tasya madhya-sambadhyamānasya sarvānandanasya śrīmat-parjanya-nandanasya bālaka-paryāyeṇa tena pāṇḍu-tanayenopamānaṃ na manyāmahe । api ca paramodāreṣu ca sahodareṣu teṣu na kevalaṃ janmanā tāvan madhya-vartitayā so' yaṃ vartate । api tu sneha-sampadām āspadatayāpi na ca kevalaṃ teṣām kintu sarveṣām api । yena tasmin pitror apy adhikā sneharddhikāyā vardhiṣṇutā bhrātṝnām api sadā sukha-saṃvardhanī babhūva, na jātu spardhanī । na caitāvān udbhūtaḥ suguṇas tasminn udbhūtaḥ ।

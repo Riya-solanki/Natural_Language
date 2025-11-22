@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 803 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam abhīṣaṅga-bhaṅgībhir vara-varṇinībhir varṇyamānam ākarṇya capala-dṛṣṭi-parāmṛṣṭi-karṇaṃ jhaṭiti jāta-vilakṣaṇa-varṇaṃ śrī-kṛṣṇa-mukha-śrī-parṇaṃ nirvarṇya vihasantīṃ tām anu vihasantībhis tābhiḥ śapantībhir iva bhaṇitam-yadi ca vayaṃ sādhu-caritācaritārthatāṃ gatās, tadā bhavatyā bhavane' pi śīghram etat patiṣyati ।

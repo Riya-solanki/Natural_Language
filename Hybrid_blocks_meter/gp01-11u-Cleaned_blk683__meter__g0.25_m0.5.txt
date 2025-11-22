@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 683 | label: meter | g:0.25 m:0.5 ---
+
+yadavadhi gargaḥ prayayau vraja-sadanān nāma nirmāya ।
+kramatas tadavadhi pṛthukāv abhimānyete sma tena svaiḥ ।। [upagīti]

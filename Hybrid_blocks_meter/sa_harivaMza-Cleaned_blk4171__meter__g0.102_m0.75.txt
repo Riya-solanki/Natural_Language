@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4171 | label: meter | g:0.102 m:0.75 ---
+
+āhṛtya yadusiṃhena vaijayanto acalo mahān 
+haṃsakūṭasya yacchṛṅgam indradyumnasaraḥ prati 
+ṣaṣṭitālasamutsedham ardhayojanam āyatam ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10840 | label: meter | g:0.316 m:0.771 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīgaruḍa uvāca ।
+avatārānhare brūhi tathā lakṣmyā divaukasām ।
+guṇānāmantara brūhi śiṣyasya mama savrata ।।

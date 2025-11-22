@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 422 | label: meter | g:0.194 m:0.625 ---
+
+niṣidhyate pratiṣṭhā sā sthānaṃ tavāṃśca tatpatiḥ 
+tyaktvāptagamyaviṣayaṃ yayā jñānaṃ dadātyaṇoḥ ।।

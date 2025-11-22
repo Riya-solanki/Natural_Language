@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 105 | label: grammar | g:0.75 m:0.5 ---
+
+bata nātha dṛḍho ayam ātmabandho bhavadakhyātimayas tvayaiva kḷptaḥ yad ayaṃ prathamānam eva me tvām avadhīrya ślathate na leśato api ।।

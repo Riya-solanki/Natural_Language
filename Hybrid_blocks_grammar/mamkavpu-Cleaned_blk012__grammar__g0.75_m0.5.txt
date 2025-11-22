@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 12 | label: grammar | g:0.75 m:0.5 ---
+
+śaktiḥ kavitvabījarūpaḥ saṃskāraviśeṣaḥ yāṃ vinā kāvyaṃ na prasaret prasṛtaṃ vā upahasanīyaṃ syāt । lokasya sthāvarajaṅgamātmakalokavṛttasya । śāstrāṇāṃ chandovyākaraṇābhidhānakośakalācaturvargagajaturagakhaḍgādilakṣaṇagranthānām । kāvyānāṃ ca mahākavisaṃbandhinām । ādigrahaṇāditihāsānāṃ ca vimarśanādvyutpattiḥ । kāvyaṃ kartuṃ vicārayituṃ ca ye jānanti tadupadeśena karaṇe yojane ca paunaḥpunyena pravṛttiriti । trayaḥ samuditāḥ na tu vyastāḥ tasya kāvyasyodbhave nirmāṇe samullāse ca heturna tu hetavaḥ ।।

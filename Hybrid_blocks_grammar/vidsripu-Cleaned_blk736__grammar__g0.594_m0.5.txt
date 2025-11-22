@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 736 | label: grammar | g:0.594 m:0.5 ---
+
+dṛṣṭe locanavan manāṅ mukulitaṃ cāgre gate vaktravan nyagbhūtaṃ bahir āsthitaṃ pulakavat saṃsparśam ātanvati ।
+nīvībandhavad āgataṃ śithilatām ābhāṣamāṇe tato mānenāpasṛtaṃ hriyeva sudṛśaḥ pādaspṛśi preyasi ।।

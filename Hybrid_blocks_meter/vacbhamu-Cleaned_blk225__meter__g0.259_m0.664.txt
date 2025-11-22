@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 225 | label: meter | g:0.259 m:0.664 ---
+
+ācāryaikadeśīyānāṃ matamutthāpayati- atrāpare pratyavatiṣṭhanteiti ।
+tathā hi-

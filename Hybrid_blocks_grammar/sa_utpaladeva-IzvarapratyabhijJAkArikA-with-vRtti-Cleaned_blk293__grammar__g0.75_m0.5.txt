@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 293 | label: grammar | g:0.75 m:0.5 ---
+
+ekasmiñ cittattve apy akasmād ābhāsabhedo na ghaṭate, na ca tatra kriyātvam । yadā tu sa cidātmā tathācikīrṣayā parāmṛśan bahir ābhāsayati tadā tad upapadyate । jaḍasyāpy asti bhavatīty asyām api sattākriyāyāṃ bubhūṣāyogena svātantryābhāvād akartṛtvaṃ, tena pramātaiva taṃ bhāvayati tena tena vā himācalādinā rūpeṇa sa bhavatīty atra paramārthaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4170 | label: meter | g:0.102 m:0.871 ---
+
+tasmin suvihitāḥ sarve rukmadaṇḍāḥ patākinaḥ 
+sadane vāsudevasya mārgasaṃjavanadhvajāḥ 
+ratnajālāni tatraiva tatra tatra niveśitāḥ ।।

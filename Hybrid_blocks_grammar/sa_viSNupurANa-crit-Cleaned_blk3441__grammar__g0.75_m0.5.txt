@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3441 | label: grammar | g:0.75 m:0.5 ---
+
+yady evaṃ tadādiśyatām asmākaṃ praveśāya kanyāntaḥpuravarṣavaraḥ । yadi kanyaiva kācin mām abhilaṣati tadāhaṃ dārasaṃgrahaṃ kariṣyāmīty anyathā cet tad alam asmākam etenātītakālārambhenety uktvā virarāma ।।

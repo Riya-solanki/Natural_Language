@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9285 | label: meter | g:0.306 m:0.5 ---
+
+viṣṇusthāne guruṃ vidyācchrukre śukro vyavasthitaḥ ।
+nābhisthāne sthito mando mukhe rāhuḥ sthitaḥ sadā ।।

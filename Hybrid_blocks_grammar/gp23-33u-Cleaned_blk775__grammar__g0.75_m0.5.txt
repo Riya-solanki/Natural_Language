@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 775 | label: grammar | g:0.75 m:0.5 ---
+
+[] ṛṣir uvāca-tatas tau bhāvayiṣyataḥ । satyam asmākaṃ prakaṭatare' pi loka-dharma-ghaṭanānarha-pratikāre' pi tāsāṃ vighaṭana-duḥkhe yad adyāpi snuṣākaraṇa-spṛhā nāpayāti, pratyuta sātatyata eva tāsu snuṣābhānaṃ vibhāti । dharmānyathā-bhāve lakṣyate । yad avaśyam āyatyāṃ vidita-rahasyatām āyātīti । tad api prāpta-kālatāṃ kalayati sma ।

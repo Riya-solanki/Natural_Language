@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 89 | label: grammar | g:0.646 m:0.5 ---
+
+bhadrād abhi śreyaḥ prehi ity etayarca@@ gārhapatya ājyaṃ vilāyotpūya caturgṛhītaṃ gṛhītvāhavanīyagārhapatyāv antareṇa vyavetya juhuyāt ।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 203 | label: meter | g:0.194 m:0.854 ---
+
+matihutabhujā dagdhvā skandhapravṛttiviṣadrumaṃ
+sthitiṣu vaśitāṃ saṃprāpyāpi prakāśayaśotsavāḥ ।
+sakalabhuvanaśreyaḥ kṛtvā gatāḥ sugatāḥ śamaṃ
+viṣayakṛpaṇāḥ kaṣṭaṃ naṣṭā vayaṃ bhavalubdhakāḥ ।।

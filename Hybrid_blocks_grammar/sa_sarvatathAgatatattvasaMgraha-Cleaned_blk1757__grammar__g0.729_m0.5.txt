@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1757 | label: grammar | g:0.729 m:0.5 ---
+
+atha vajramuṣṭirmahādevīmāṃ svakarmasamayāmabhāṣat oṃ vajramuṣṭi [hana hana] vajreṇa bhinda bhinda pīḍaya pīḍaya sarvaduṣṭahṛdayāni oṃ suṃbha nisuṃbha hūṃ phaṭ ।।

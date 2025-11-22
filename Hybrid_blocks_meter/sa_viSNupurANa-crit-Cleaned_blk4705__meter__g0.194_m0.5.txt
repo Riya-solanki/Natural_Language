@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4705 | label: meter | g:0.194 m:0.5 ---
+
+yatrāmbu vinyasya balir manojñān avāpa bhogān vasudhātalasthaḥ 
+tathāmaratvaṃ tridaśādhipatyaṃ manvantaraṃ pūrṇam apetaśatruḥ ।।

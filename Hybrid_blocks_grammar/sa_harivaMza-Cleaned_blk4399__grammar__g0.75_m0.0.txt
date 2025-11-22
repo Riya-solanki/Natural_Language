@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4399 | label: grammar | g:0.75 m:0.0 ---
+
+praveśayaināṃ bhavanaṃ pūjyā hy eṣā snuṣā mama 
+cirapranaṣṭaṃ ca sutaṃ bhajasya punarāgatam ।। 
+śrutvā tu vacanaṃ devī kṛṣṇenodāhṛtaṃ tadā । praharṣam atulaṃ lebhe rukmiṇī vākyam abravīt ।। aho dhanyatarāsmīti vīraputrasamāgamāt । adya me saphalaḥ kāmaḥ pūrṇaś cādya manorathaḥ । cirapranaṣṭaputrasya darśanaṃ priyayā saha ।। āgaccha putra bhavanaṃ viśasva saha bhāryayā ।। tato abhivādya caraṇau govindaṃ mātaraṃ ca saḥ । pradyumnaḥ pūjayām āsa halinaṃ ca mahābalam ।। utthāpya taṃ pariṣvajya mūrdhny upāghrāya vīryavān । pradyumnaṃ balināṃ śreṣṭhaṃ keśavaḥ paravīrahā ।। snuṣāṃ cotthāpya tāṃ devīṃ rukmiṇī rukmabhūṣaṇāṃ । pariṣvajyopasaṃgṛhya snehād gadgadabhāṣiṇī ।। sametaṃ bhavanaṃ patnyā śacyendram aditir yathā । praveśayām āsa tadā rukmiṇī sutam āgatam । evam uktā tu kṛṣṇena rukmiṇī yoṣitāṃ varā । putraṃ prītyā pariṣvajya mūrdhni cāghrāya tāṃ snuṣām । gṛhaṃ praveśayām āsa snuṣayā saha bhāminī । 
+hṛto yadaiva pradyumnaḥ śambareṇātmaghātinā 
+tam eva māsaṃ sāmbas tu jāmbavatyām ajāyata ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 323 | label: meter | g:0.194 m:0.625 ---
+
+niṣadhāddharivarṣe yad yāmyato hemakūṭataḥ 
+nāmnā kiṃpuruṣaṃ khyātaṃ bhārataṃ himavadgireḥ ।।

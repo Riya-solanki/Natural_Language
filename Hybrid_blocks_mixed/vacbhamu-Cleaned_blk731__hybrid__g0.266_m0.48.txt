@@ -1,0 +1,9 @@
+--- source: vacbhamu-Cleaned.txt | block: 731 | label: hybrid | g:0.266 m:0.48 ---
+
+syādetaccakṣurādibiḥ saha śāsanena karaṇaṃ cet prāṇaḥ ।
+evaṃ sati cakṣurādiviṣayarūpādivadasyāpi viṣayāntaraṃ vakyavyam ।
+naca tacchakyaṃ vaktum ।
+ekādaśakaraṇagaṇanavyākopaśceti doṣaṃ pariharati- akaraṇatvācca na doṣastathāhi darśayati ।
+na prāṇaḥ paricchedadhāraṇādikaraṇamasmābhirabhyupeyate yenāsya viṣayāntaramanviṣyeta ।
+ekādaśatvaṃ ca karaṇānāṃ vyākupyetāpi tu prāṇāntarāsaṃbhavi dehendriyavidhāraṇakāraṇaṃ prāṇaḥ ।
+tacca śrutiprabandhena darśitaṃ na kevalaṃ śarīrendriyadhāraṇamasya kāryam ।।

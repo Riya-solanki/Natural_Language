@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 215 | label: meter | g:0.25 m:0.625 ---
+
+prasīda tāta mā kopaṃ kartumarhasi daityapa ।
+tvatkopaparidagdho ahaṃ paritapye divāniśam ।।

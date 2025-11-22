@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 359 | label: grammar | g:0.703 m:0.125 ---
+
+[] yatra putrānurāga-parimala-nirmala-pātrī vraja-dharitrī kṣiti-pālayitrī nānā-gopa-kalatrāṇāṃ sukha-satrāyamāṇatayā taiḥ saha satra-yātrāṃ cakāra । kiṃ bahunā, go-gokula-pālana-kṛte kṛtehānupanandābhinandādīn ṛte sarva eva parva-pūrvaṃ calanti sma । yatra lālya-bhāvataḥ saṃnanda-nandanāv agrajam anuvrajataḥ sma lālaka-bhāvāt taj-janmānam anu ca ।
+[] tatra viśeṣatas tu-

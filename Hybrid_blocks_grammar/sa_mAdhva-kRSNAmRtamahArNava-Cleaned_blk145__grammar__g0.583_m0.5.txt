@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 145 | label: grammar | g:0.583 m:0.5 ---
+
+dvādaśyāṃ bhojanaṃ caiva viddhāyāṃ haryupoṣaṇam yaḥ kuryān mandabuddhitvān nirayaṃ so adhigacchati ।।

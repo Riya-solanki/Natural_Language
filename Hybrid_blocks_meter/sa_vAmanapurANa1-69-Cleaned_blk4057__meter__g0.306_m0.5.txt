@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4057 | label: meter | g:0.306 m:0.5 ---
+
+hotā homaśca havyaṃ ca hūyamānaścahavyāvāṭ ।
+pātā potā ca putaśca pāvanīyaśca oṃ namaḥ ।।

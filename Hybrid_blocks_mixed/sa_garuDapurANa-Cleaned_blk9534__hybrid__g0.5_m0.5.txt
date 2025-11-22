@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9534 | label: hybrid | g:0.5 m:0.5 ---
+
+tīrthe gṛhe vā saṃnyāsaṃ nītvā cenmriyate yadi ।
+pratyahaṃ labhate so api pūrvoktaṃ dviguṇaṃ phalam ।।

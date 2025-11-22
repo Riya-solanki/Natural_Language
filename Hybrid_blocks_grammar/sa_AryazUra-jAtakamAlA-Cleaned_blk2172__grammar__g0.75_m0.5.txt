@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2172 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ saṃvignamanasāṃ rājalakṣmīrapi śreyomārgaṃ nāvṛṇotīti saṃvegaparicayaḥ kāryaḥ । maraṇasaṃjñāvarṇe api vācyam - evamāśumaraṇasaṃjñā saṃvegāya bhavatīti । tathā maraṇānusmṛtivarṇe anityatākathāyāmapyupaneyam - evamanityāḥ sarvasaṃskārā iti । tathā sarvaloke anabhiratisaṃjñāyām - evamanāśvāsikaṃ saṃskṛtamiti । evamatrāṇo ayamasahāyaśca loka ityevamapi vācyam । evaṃ vane dharmaḥ sukhaṃ pratipattuṃ na geha ityevamapyunneyam ।

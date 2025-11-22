@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4433 | label: meter | g:0.25 m:0.5 ---
+
+sa cāpi saṃsmṛtaḥ prāptaḥ sutalaṃ dānaveśvaraḥ ।
+dṛṣṭvā tasthau mahātejāḥ sārghapātro balistadā ।।

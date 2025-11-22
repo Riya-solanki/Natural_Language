@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1601 | label: meter | g:0.25 m:0.5 ---
+
+yatra bhāṇḍāni sarvāṇi labhyante ca sahasradhā 
+layaṃ yānti punas tatra ghaṭasthānaṃ tad ucyate ।।

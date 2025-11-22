@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 626 | label: meter | g:0.25 m:0.5 ---
+
+sa tasyāṃ pitṛkanyāyāṃ pīvaryāṃ janayiṣyati 
+kanyāṃ putrāṃś ca caturo yogācāryān mahābalān ।। 
+putrāṃś ca caturo yogā cāryā vedeṣu kovidāḥ । 
+kṛṣṇaṃ gauraṃ prabhuṃ śaṃbhuṃ kanyāṃ kṛtvīṃ tathaiva ca 
+kanyāṃ kīrtimatīṃ ṣaṣṭhīṃ yogamātāṃ ca yoginīm । 
+kṛtvīṃ kanyāṃ kīrtimatīṃ yogāṃ yogasya mātaram । 
+brahmadattasya jananī mahiṣī tv aṇuhasya yā ।।

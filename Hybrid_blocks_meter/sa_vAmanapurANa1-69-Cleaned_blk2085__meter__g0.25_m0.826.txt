@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2085 | label: meter | g:0.25 m:0.826 ---
+
+nārada uvāca ।
+kva gataḥ śaṅkaro hyāsīdyenāmbā nandinā saha ।
+anadhakaṃ yodhayāmāsa etanme vaktumarhasi ।।

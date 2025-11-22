@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1947 | label: grammar | g:0.583 m:0.5 ---
+
+arūpāmbaraḥ-dhik kaṣṭam । nagara-śīghrakāḥ samāyānti । ity ādau jainādīnāṃ bhaya-kathanād bhayam ।

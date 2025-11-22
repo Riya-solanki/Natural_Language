@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 437 | label: grammar | g:0.728 m:0.253 ---
+
+aasati kāraṇe kāryaṃ notpadyate' itivākyāt pratyanīkabhūto arthaḥ asati kāraṇe kāryamutpadyate' ityarthādāpadyate abhāvasya hi bhāvaḥ pratyanīka iti soyaṃ kāryotpādaḥ sati kāraṇe arthādāpadyamāno na kāraṇasya sattāṃ vyabhicarati na khalv asati kāraṇe kāryamutpadyate tasmād nānaikāntikī।
+yattu asati kāraṇe nimittapratibandhāt kāryaṃ notpadyate' iti ? kāraṇadharmo asau na tvarthāpatteḥ prameyam।
+kiṃ tarhyasyāḥ prameyam ?, sati kāraṇe kāryamupadyate iti ।
+yo asau kāryotpādaḥ kāraṇasattāṃ na vyabhicarati tadasyāḥ prameyam।
+evaṃ tu sati anarthāpattau arthāpattyabhimānaṃ kṛtvā pratiṣedha ucyate iti, dṛṣṭaśca kāraṇadharmo na śakyaḥ pratyākhyātumiti ।। ।

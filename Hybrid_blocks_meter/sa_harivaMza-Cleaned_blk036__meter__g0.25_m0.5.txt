@@ -1,0 +1,15 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 36 | label: meter | g:0.25 m:0.5 ---
+
+uccāvacāni bhūtāni gātrebhyas tasya jajñire 
+brahmāṇaṃ hṛdayaṃ bhittvā niścito bhagavān bhṛguḥ ।। 
+stanaṃ tu dakṣiṇaṃ bhittvā brahmajena ca vigrahaḥ । 
+niśrito bhagavān dharmaḥ sarvalokasukhāvahaḥ ।। 
+trayas tasya varāḥ putrāḥ sarvabhūtamanoharāḥ । 
+kāmaḥ śamaś ca harṣaś ca tejasā lokadhāriṇaḥ ।। 
+kāmasya tu ratir bhāryā śamasya prītir aṅganā । 
+nandā bhāryā ca harṣasya trayo lokāḥ pratiṣṭhitāḥ । 
+āpavasya prajāsargaṃ sṛjato hi prajāpateḥ ।। 
+sṛjyamānāḥ prajā naiva vivardhante yadā tadā । 
+dvidhā kṛtvātmano deham ardhena puruṣo abhavat 
+ardhena nārī tasyāṃ sa sasṛje vividhāḥ prajāḥ 
+divaṃ ca pṛthivīṃ caiva mahimnā vyāpya tiṣṭati ।।

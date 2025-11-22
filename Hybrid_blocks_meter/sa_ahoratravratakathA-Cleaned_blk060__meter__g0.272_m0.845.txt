@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 60 | label: meter | g:0.272 m:0.845 ---
+
+puṣpākṣataṃ kare dhṛtvā kṣipet puṣpāñjalitrayam ।
+pañcabhūtasamutpannaṃ padmakarṇikasaṃsthitam ।।

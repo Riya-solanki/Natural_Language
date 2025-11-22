@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6185 | label: meter | g:0.25 m:0.85 ---
+
+pūrve pūrvāśca pūrvasmātpūrvasminpūrva īritaḥ ।
+sūta uvāca ।
+suptiṅantuṃ siddharūpaṃ nāmamātreṇa darśitam ।
+kātyāyanaḥ kumārāttu śrutvā vistaramabravīt ।।

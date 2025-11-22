@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4290 | label: meter | g:0.306 m:0.625 ---
+
+tataḥ sā pīvaraśreṇī dvāramudghāṭayanmune ।
+udghāṭite tato dvāre nirgato ahaṃ bahiḥ śraṇāt ।।

@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 107 | label: meter | g:0.335 m:0.663 ---
+
+pratiṣedhādarthādasya jñānākārateti cenna ।
+asaṃnidhānā

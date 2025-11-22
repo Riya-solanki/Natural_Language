@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2637 | label: meter | g:0.194 m:0.625 ---
+
+yātanābhyaḥ paribhraṣṭā devādyāsv atha yoniṣu 
+jantavaḥ parivartante śāstrāṇām eṣa nirṇayaḥ ।।

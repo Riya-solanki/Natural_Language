@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1083 | label: grammar | g:0.573 m:0.5 ---
+
+mūrdhāropaṇasatkṛtair di'si diśi kṣudrair vihaṅgair gataṃ chāyādānanirākṛtaśramabhrair naṣṭaṃ mṛgair bhīrubhiḥ ।
+hā kaṣṭaṃ phalalolupair apasṛtaṃ śākhāmṛgaiś cañvalair ekenaiva davānalavyatikaraḥ soḍhaḥ paraṃ śākhinā ।।

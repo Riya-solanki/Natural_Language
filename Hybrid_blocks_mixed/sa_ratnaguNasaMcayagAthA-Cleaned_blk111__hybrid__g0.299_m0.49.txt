@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 111 | label: hybrid | g:0.299 m:0.49 ---
+
+caramāṇu yo na iha kalpayi buddhadharmāṃ bala ṛddhipāda na ca kalpayi bodhi śāntām 
+avikalpakalpavigato adhiṣṭhānacārī eṣā sa prajñavarapāramitāya caryā ।।

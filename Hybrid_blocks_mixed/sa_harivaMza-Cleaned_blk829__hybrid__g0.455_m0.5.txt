@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 829 | label: hybrid | g:0.455 m:0.5 ---
+
+taṃ garbhaṃ daśadhā dṛṣṭvā daśa devyo dadhus tataḥ 
+sametya dhārayām āsur na ca tāḥ tam aśaknuvan ।।

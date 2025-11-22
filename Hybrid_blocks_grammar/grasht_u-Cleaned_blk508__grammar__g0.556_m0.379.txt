@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 508 | label: grammar | g:0.556 m:0.379 ---
+
+sāmānyena sarvalohānāṃ śodhanamāraṇamāha sarva ityādi ।।
+sarvo loho dhātuvargaḥ śudhyati mṛtaśca bhavati punaḥ rajyati ca ।।
+kena bhṛśaṃ atyarthaṃ yathā syāttathā mākṣikadaradena tāpyahiṅgulena kṛtvā yo vāpaḥ galiteṣu loheṣu mākṣikadaradaprakṣepaṇaṃ tasmāt suragopasaṃnibha indragopasadṛśaḥ sarvo loho bhavet ।।
+vā śulbaṃ tāmraṃ mākṣikadaradavāpena suragopasannibhaṃ syāt vā gandhena gandhakavāpena mṛtamapyeva syādityarthaḥ ।।

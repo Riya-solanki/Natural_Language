@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 635 | label: meter | g:0.096 m:0.622 ---
+
+anumīyate cāyaṃ dehādisaṃghātavyatiriktaścetana
+iti

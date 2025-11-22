@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 234 | label: hybrid | g:0.375 m:0.5 ---
+
+samudro abdhirakūpāraḥ pārāvāraḥ saritpatiḥ udanvānudadhiḥ sindhuḥ sarasvānsāgaro arṇavaḥ ratnākaro jalanidhiryādaḥpatirapāmpatiḥ tasya prabhedāḥ kṣīrodo lavaṇodastathāpare

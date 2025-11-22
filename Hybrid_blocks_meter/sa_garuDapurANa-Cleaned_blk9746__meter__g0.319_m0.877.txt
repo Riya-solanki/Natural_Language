@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9746 | label: meter | g:0.319 m:0.877 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīviṣṇuruvāca ।
+svecchayā tārkṣya maraṇaṃ śṛṅgidaṃṣṭrisarīsṛpaḥ ।
+cāṇḍālādyātmaghātaiśca viṣādyaistāḍanaistathā ।।

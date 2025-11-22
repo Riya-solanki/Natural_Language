@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3542 | label: meter | g:0.25 m:0.625 ---
+
+viśālākṣīṃ damanakaiścaitre ca kṛsarapradaḥ ।
+dadhiprāśo dantakāṣṭhaṃ tagaraṃ śrīmukhīṃ yajet ।।

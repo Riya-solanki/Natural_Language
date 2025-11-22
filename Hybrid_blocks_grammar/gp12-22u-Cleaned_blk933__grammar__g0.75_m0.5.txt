@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 933 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra cānantaram ācaritāgatibhiḥ samyag urīkṛta-śrī-rāmānujānumatibhiḥ sūnṛta-vādibhiḥ śrīdāmādibhiḥ sa-samājāya vraja-rājāya divyac-chatrādy-arcāmatrādiṣu samarpiteṣu santarpiteṣu ca sarveṣu tad apracchannam eva sa papraccha-kathyatāṃ tathyaṃ kim idaṃ vṛttaṃ vṛttam? iti ।

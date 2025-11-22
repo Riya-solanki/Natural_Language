@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2033 | label: meter | g:0.306 m:0.5 ---
+
+taṃ prāha viṣṇurvraja tīrthavarthaṃ pṛthūdakaṃ pāpataroḥ kuṭhāram ।
+snātvaughavatyāṃ haramīkṣya bhaktyā bhaviṣyase sūryasamaprabhāvaḥ ।।

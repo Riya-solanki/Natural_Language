@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1024 | label: grammar | g:0.604 m:0.5 ---
+
+tatredaṃ sarvatathāgatākarṣaṇahṛdayaṃ bhavati । oṃ vajra jvālāgnipradīptākarṣaya sarvatathāgatān mahāvajra samaya hūṃ jaḥ ।।

@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 673 | label: meter | g:0.25 m:0.555 ---
+
+ajanāśam asau naṣṭo jīvanāśaṃ nanāśa ca ।
+ūrdhva-śoṣaṃ sa cāśuṣyat kṛṣṇa yas tvat-parāṅmukhaḥ ।।
+[] kṛṣṇa uvāca-tatas tataḥ ?

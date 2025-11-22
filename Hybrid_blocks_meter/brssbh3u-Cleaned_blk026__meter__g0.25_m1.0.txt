@@ -1,0 +1,4 @@
+--- source: brssbh3u-Cleaned.txt | block: 26 | label: meter | g:0.25 m:1.0 ---
+
+asmai yajamānāya ।
+saṃnamante janayanti ।

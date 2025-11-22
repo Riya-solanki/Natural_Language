@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1706 | label: meter | g:0.194 m:0.75 ---
+
+krodhān niḥśvasatas tasya bhrūbhedasvedavarṣiṇaḥ 
+sāgniniṣpeṣapavanā mukhān niścerur arciṣaḥ ।।

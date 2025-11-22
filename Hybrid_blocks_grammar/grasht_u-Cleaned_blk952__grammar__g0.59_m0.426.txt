@@ -1,0 +1,7 @@
+--- source: grasht_u-Cleaned.txt | block: 952 | label: grammar | g:0.59 m:0.426 ---
+
+vidhyantaramāha suratarvityādi ।।
+antaritaśuddhaḥ antaritaṃ śuddhaṃ yasya saḥ grahaṇīrogādivarjita ityarthaḥ etāni auṣadhāni nirmathya pītvā viśuddhakoṣṭho bhavati viśuddhaṃ malavarjitaṃ koṣṭhaṃ udaraṃ kasyetyevaṃvidho bhavati ।।
+tāni kāni suratarutailetyādīni suratarur devavṛkṣaḥ tattailapeṣaṇaṃ tailamityarthaḥ ghṛtaṃ ājyaṃ madhu kṣaudraṃ dhātrīrasaḥ āmalakīsalilaṃ payo dugdhaṃ etāni sarvāṇi nirmathya ekīkṛtyetyarthaḥ ।।
+etadauṣadhabhakṣaṇaguṇaṃ māsakrameṇāha māsenetyādi ।।
+asya auṣadhasya māsena māsapramāṇena bhakṣaṇāt kāntir bhavati medhā ceti dvābhyāṃ dvimāsābhyāṃ doṣanikaraṃ gadasamudāyaṃ praśamayati śāntiṃ nayati punarmāsatritayena trimāsapramāṇena svāt svasāmānyaśarīrāt amaravapurdevaśarīro mahātejāḥ dīptimān syādityarthaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 989 | label: meter | g:0.25 m:0.5 ---
+
+brahmā pratipadi tathā nīlotpalamaye anagha ।
+talpe svapiti lokānāṃ darśayan mārgamuttamam ।।

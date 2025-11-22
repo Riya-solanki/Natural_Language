@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 24 | label: meter | g:0.25 m:1.0 ---
+
+sahasradalapadmasthaṃ candrabimbaprabhāsvaram ।
+raktaṃ bhoḥkārasaṃbhūtaṃ caturmukhaṃ virājitam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3226 | label: meter | g:0.194 m:0.5 ---
+
+ājñā ca deyā mallānāṃ prekṣakāṇāṃ tathaiva ca 
+samāje mañcaśobhāś ca kalpyantāṃ sūpakalpitāḥ ।।

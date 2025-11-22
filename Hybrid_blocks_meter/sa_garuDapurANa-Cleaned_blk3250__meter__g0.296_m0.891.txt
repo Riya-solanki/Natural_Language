@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3250 | label: meter | g:0.296 m:0.891 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+bhṛtyā bahuvidhā jñeyā uttamādhamamadhyamāḥ ।
+niyoktavyā yathārheṣu trividheṣveva karmasu ।।

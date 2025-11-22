@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 869 | label: meter | g:0.25 m:0.583 ---
+
+dhanyam āyuṣyam ārogyaṃ puṇyaṃ saṃkalpasādhakam 
+somasya janma śrutvaiva sarvapāpaiḥ pramucyate ।। 
+naro vigatakalmaṣaḥ śraddadhānaḥ prasannātmā । 
+budhasya tu mahārāja vidvān putraḥ purūravāḥ 
+tejasvī dānaśīlaś ca yajvā vipuladakṣiṇaḥ ।।

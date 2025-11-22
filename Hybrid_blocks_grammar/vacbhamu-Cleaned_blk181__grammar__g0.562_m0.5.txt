@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 181 | label: grammar | g:0.562 m:0.5 ---
+
+nanvevamapi utpattimātraṃ sūcyatām; tannāntarīyakatayā tu sthitibhaṅgaṃ gamyata ityata āha- yotpattirbrahmaṇaḥ kāraṇātiti ।
+tribhirasyopādānatvaṃ sūcyate; utpattimātraṃ tu nimittakāraṇasādhāraṇamiti nopādānatvaṃ sūcayet; tadidamuktam- tatraivaiti ।

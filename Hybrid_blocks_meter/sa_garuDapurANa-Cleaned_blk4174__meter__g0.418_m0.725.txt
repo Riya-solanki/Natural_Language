@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4174 | label: meter | g:0.418 m:0.725 ---
+
+sadā vā naiva vā nidrā mahāsvedo hi naiva vā ।
+gītanartanahāsyādiḥ prakṛtehāpravartanam ।।

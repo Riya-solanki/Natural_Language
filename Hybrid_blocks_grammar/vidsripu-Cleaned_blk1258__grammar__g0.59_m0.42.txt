@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1258 | label: grammar | g:0.59 m:0.42 ---
+
+tad brahmāṇḍam iha kvacit kvacid api kṣoṇī kvacin nīradās te dvīpāntaramālino jaladhayaḥ kvāpi kvacid bhūbhṛtaḥ ।
+āścaryaṃ gaganasya ko api mahimā sarvair amībhiḥ sthitair dūre pūraṇam asya śūnyam iti yan nāmāpi nāchāditam ।।
+keśaṭasya

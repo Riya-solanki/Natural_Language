@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1932 | label: meter | g:0.194 m:0.5 ---
+
+agniḥ suvarṇasya gurur gavāṃ sūryo guruḥ smṛtaḥ 
+akṣatrāṇāṃ guruḥ somo mama nārāyaṇo guruḥ ।।

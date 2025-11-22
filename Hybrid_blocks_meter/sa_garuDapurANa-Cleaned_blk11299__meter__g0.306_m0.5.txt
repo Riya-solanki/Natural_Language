@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11299 | label: meter | g:0.306 m:0.5 ---
+
+ya etatsarvaṃ militaṃ caikameva harerviṣṇorlakṣaṇaṃ cāhurāryāḥ ।
+mukhaṃ strigdhaṃ vartulaṃ puṣṭirūpaṃ dvitīyaṃ tallakṣaṇaṃ cāhurāryāḥ ।।

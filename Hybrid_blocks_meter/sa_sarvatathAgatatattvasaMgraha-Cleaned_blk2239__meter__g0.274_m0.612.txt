@@ -1,0 +1,6 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2239 | label: meter | g:0.274 m:0.612 ---
+
+athāryāvalokiteśvaro bodhisatvo mahāsatva idaṃ caturmudrāmaṇḍalamabhāṣat । [athātaḥ saṃpravakṣyāmi] caturmudrāgramaṇḍalaṃ ।
+vajradhātupratīkāśaṃ mahāmaṇḍalasannibhaṃ ।।
+mudrāmaṇḍalamadhye tu buddhabimbaṃ niveśayet ।
+tasya pārśveṣu sarveṣu [vajrapadmādiṃ vai likhe]t ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 345 | label: meter | g:0.25 m:0.5 ---
+
+na khalv ayaṃ mṛto aṇḍastha iti snehād abhāṣata 
+ajānan kāśyapas tasmān mārtaṇḍa iti cocyate ।।

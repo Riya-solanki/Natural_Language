@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 42 | label: grammar | g:0.583 m:0.5 ---
+
+atha yasya prātar akṛtam agnihotraṃ sāyam ādityo abhyastamiyāt kā tatra prāyaścittir ।

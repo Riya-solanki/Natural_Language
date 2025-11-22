@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3284 | label: meter | g:0.194 m:0.625 ---
+
+tatrāsanāni mukhyāni paryaṅkāś ca hiraṇmayaḥ 
+prakīrṇāś ca kuthāś citrāḥ sapuṣpastabakadrumāḥ ।।

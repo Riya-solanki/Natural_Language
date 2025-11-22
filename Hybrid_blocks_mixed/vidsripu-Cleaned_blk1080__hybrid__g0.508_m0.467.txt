@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1080 | label: hybrid | g:0.508 m:0.467 ---
+
+padmākaraḥ parimito api varaṃ sa eva yasya svakāmavaśataḥ paribhujyate śrīḥ ।
+kiṃ tena nīranidhinā mahatā taṭe api yasyormayaḥ prakupitā galahastayanti ।।
+dāmodarasya

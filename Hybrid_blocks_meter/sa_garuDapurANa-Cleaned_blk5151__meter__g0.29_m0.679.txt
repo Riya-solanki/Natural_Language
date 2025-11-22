@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5151 | label: meter | g:0.29 m:0.679 ---
+
+uṣṇo pītā vāgujī ca kuṣṭhajitkṣīrabhojanaḥ ।
+tilājyatriphalākṣaudravyoṣabhallātaśarkarāḥ ।
+vṛṣyāḥ sapta samā medhyāḥ kaṣṭhahāḥ kāmacāriṇaḥ ।।

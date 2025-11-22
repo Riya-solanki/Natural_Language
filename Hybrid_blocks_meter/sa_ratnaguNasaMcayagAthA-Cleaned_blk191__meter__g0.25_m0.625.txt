@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 191 | label: meter | g:0.25 m:0.625 ---
+
+puruṣo yathā kuśala sarvaguṇairupeto balavān dudharṣu kṛtayogya kalāvidhijño 
+iṣvastrapāramigato pṛthuśilpayukto māyāvidhijñaparamo jagadarthakāmo ।।

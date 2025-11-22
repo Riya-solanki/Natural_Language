@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 615 | label: grammar | g:0.75 m:0.5 ---
+
+atra manobhūḥ kamalobhayaditi praśne kaṃ brahmāṇam । narapativeśma kiṃmiti praśne kinnarapativeśma, kuberagṛhamiti । madhurā keti praśne kāmadhurā kāmabhāra iti cottarāṇi praśnāvayasyāntara itīdamantaḥpraśnam ।

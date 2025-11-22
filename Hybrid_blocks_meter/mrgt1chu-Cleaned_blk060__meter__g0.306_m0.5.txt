@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 60 | label: meter | g:0.306 m:0.5 ---
+
+teṣu vyaktaḥ sa bhagavān idaṃ yogyeṣu siddhaye ।
+prakāśayaty ato anyeṣu yo arthaḥ samupapadyate ।।

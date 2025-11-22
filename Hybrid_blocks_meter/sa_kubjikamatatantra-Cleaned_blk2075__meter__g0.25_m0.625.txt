@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2075 | label: meter | g:0.25 m:0.625 ---
+
+kṛṣṇavarṇena devena ṣaṇmāsān mriyate dhruvam 
+vaktramūrdhni bhayaṃ vindyān mūrdhni pātān mriyed dhruvam ।।

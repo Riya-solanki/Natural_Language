@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 45 | label: meter | g:0.194 m:0.5 ---
+
+saṃtyajya pānācamanocitāni toyāntarāṇy asya siseviṣos tvām 
+nirjaina, jihreṣi jalair janasya jaghanyakāryaupayikaiḥ payodhe ।।

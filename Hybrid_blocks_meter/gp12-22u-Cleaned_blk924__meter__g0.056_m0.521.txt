@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 924 | label: meter | g:0.056 m:0.521 ---
+
+dṛṣṭvā devatatir vidūrataratas taṃ sevyamānaṃ suhṛd-
+vargais tad-guṇa-rūpa-śīla-tulitaiḥ sva-pratta-tat-tac-chriyā ।
+tān svajñāna-vilāsa-sañcita-phalaṃ mene tathā tām api
+sva-premārjita-karma-sampadam amaṃstānyan na mānyaṃ tataḥ ।। [śārdūla]

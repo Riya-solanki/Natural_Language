@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 317 | label: hybrid | g:0.486 m:0.5 ---
+
+yadi pañca kāmaguṇa bhuñjati bodhisattvo buddhaṃ ca dharma śaraṇāgatu āryasaṃgham 
+sarvajñatā ca manasī bhaviṣyāmi buddho sthitu śīlapāramita vedayitavya vijño ।।

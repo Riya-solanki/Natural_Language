@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 132 | label: meter | g:0.25 m:0.625 ---
+
+jṛmbhāvijṛmbhitadṛśaḥ prathamaprabuddha- lakṣmīkarāmburuhalālanalālasasya ।
+gātrāpavṛttibharakharvitaśeṣam avyād avyāhataṃ murajitaḥ kṛtakaprasuptam ।।

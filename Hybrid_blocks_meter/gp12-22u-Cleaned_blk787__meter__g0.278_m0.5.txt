@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 787 | label: meter | g:0.278 m:0.5 ---
+
+[] punaś ca teṣāṃ bhāvāntaraṃ vibhāvya sva-kartṛka-dhāraṇam apy ardham aṅgīkṛtya bhaṇati sma-
+mātar mantraṇayā mā māṃ nivartayata sattamāḥ ।
+udasto yena tad-dhastād dhvastaḥ syād girirāṭ katham? ।। [anuṣṭubh]

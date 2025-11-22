@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 9 | label: hybrid | g:0.25 m:0.397 ---
+
+evaṃ prāpte brūmaḥ - pratyayāvṛttiḥ kartavyā ।
+kutaḥ - asakṛt upadeśāt ।
+aśrotavyo mantavyo nididhyāsitavyaḥ' iti evañjātīyako hi asakṛt upadeśaḥ pratyayāvṛttiṃ sūcayati ।

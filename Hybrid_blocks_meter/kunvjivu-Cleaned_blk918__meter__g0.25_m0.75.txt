@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 918 | label: meter | g:0.25 m:0.75 ---
+
+abhidhāyāḥ prakārāṇāmānantyaṃ pratibhodbhavam ।
+vaktuṃ na pāryate kāntālīlāvaicitryavatsphuṭam ।।

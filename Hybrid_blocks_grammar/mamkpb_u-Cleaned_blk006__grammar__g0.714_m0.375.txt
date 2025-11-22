@@ -1,0 +1,4 @@
+--- source: mamkpb_u-Cleaned.txt | block: 6 | label: grammar | g:0.714 m:0.375 ---
+
+kālidāsānādīnāmiva yaśaḥ śrīharṣāderdhāvakādīnāmiva dhanam rājādigatocitācāraparijñānam ādityādermayūrādīnāmivānarthanivāraṇam sakalaprayojanamaulibhūtaṃ samanantarameva rasāsvādanasamudbhūrta vigalidavedyāntaramānandam prabhusaṃmitaśabdapradhānavedādiśāstrebhyaḥ suhṛtsaṃmitārthatātparyavatpurāṇādītihāsebhyaśva śabdārthayorguṇabhāvena rasāṅgabhūtavyāpārapravaṇatayā vilakṣaṇaṃ yat kāvyaṃ lokottaravarṇanānipuṇakavikarma tat kānteva sarasatāpādanenābhimukhīkṛtya rāmādivadvartitavyaṃ na rāvaṇādivadityupadeśaṃ ca yathāyogaṃ kaveḥ sahṛdayasya ca karotīti sarvathā tatra yatanīyam ।।
+evamasya prayojanamuktvā kāraṇamāha

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1245 | label: meter | g:0.25 m:0.625 ---
+
+jagaddhitādhānasamutsukatvāt sa rājyabhāraṃ bibharāṃ babhūva ।
+kṣitīśvaraḥ pūrvakṛtānavadyapuṇyaprabhāvopanataṃ krameṇa ।।

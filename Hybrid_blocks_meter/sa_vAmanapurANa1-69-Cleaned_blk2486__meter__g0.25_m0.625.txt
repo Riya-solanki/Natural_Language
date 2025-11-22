@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2486 | label: meter | g:0.25 m:0.625 ---
+
+sā cābhyetya jale puṇye snātvā madhyamapuṣkare ।
+dadarśa kanyātritayamubhayostaṭayoḥ sthitam ।।

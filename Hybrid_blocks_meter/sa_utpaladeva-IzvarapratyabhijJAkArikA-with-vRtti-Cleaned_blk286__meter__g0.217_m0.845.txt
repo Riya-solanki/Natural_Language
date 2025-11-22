@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 286 | label: meter | g:0.217 m:0.845 ---
+
+parasparasvabhāvatve kāryakāraṇayor api 
+ekatvam eva bhede hi naivānyonyasvarūpatā ।।

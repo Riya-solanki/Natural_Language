@@ -1,0 +1,8 @@
+--- source: rasadh_u-Cleaned.txt | block: 56 | label: meter | g:0.25 m:0.5 ---
+
+kāsīsaṃ saindhavaṃ sūtaṃ tattulyaṃ ca dināvadhi ।
+kāsīsasya hy abhāvena dātavyā phullatūrikā ।।
+stokaṃ stokaṃ kṣipetkhalve trayamekatra mardayet ।
+pratyekaṃ śataniṣkaṃ syādūnaṃ naivādhikaṃ kvacit ।।
+sthālīsampuṭayantreṇa dinaṃ caṇḍāgninā pacet ।
+ūrdhvalagnaṃ tu taṃ śuddhaṃ pāradaṃ cāharet śubham ।।

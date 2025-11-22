@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1535 | label: grammar | g:0.592 m:0.424 ---
+
+pramānāntarāvagatamapi vastu śabdena pratipāditaṃ prayojanāntarābhāvāt sadṛśavastvanataravyavacchedāya yat paryavasyati sā bhavetparisaṃkhyā । atra ca kathanaṃ praśnapūrvakaṃ tadanyathā ca paridṛṣṭam ।
+tathā ubhayatra vyapohyamānasya pratīyamānatā vācyatvaṃ ceti catvāro bhedāḥ ।। krameṇodāharaṇam

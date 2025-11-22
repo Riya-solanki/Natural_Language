@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2251 | label: meter | g:0.25 m:0.5 ---
+
+garbhakṛntanam etan me sahanīyaṃ tvayā kṛtam 
+mūrdhnā padbhyāṃ nipatatā svaṃ ca karma jugupsatā ।।

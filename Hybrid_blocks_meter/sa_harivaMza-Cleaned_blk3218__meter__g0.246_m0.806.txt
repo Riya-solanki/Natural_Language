@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3218 | label: meter | g:0.246 m:0.806 ---
+
+sottamāgārayuktābhir valabhībhir vibhūṣitam 
+kuṭībhiś ca pravṛddhābhir ekastambhaiś ca bhūṣitam ।।

@@ -1,0 +1,9 @@
+--- source: ttssarvu-Cleaned.txt | block: 66 | label: meter | g:0.302 m:0.823 ---
+
+asandigdhāviparītānadhigataviṣayā cittavṛttirbodhaśca pauruṣeyaḥ phalaṃ pramā tasyāḥ karaṇaṃ pramāṇam ।
+tat trividhaṃ pratyakṣānumānaśabdabhedāt ।
+etenādhikānyupamānādīni naiyāyikādyabhyupagatāni pramāṇāni eṣvevāntarbhavantīti nātiriktānyupayujyante ।
+tatrārthasannikṛṣṭamindriyaṃ pratyakṣam ।
+vyāpyavyāpakabhāvapakṣadharmatājñānapūrvakamanumānam ।
+āptavacanādvedādirūpācchabdamiti ।
+viśeṣata eṣāṃ lakṣaṇodāharaṇānyākarādavaseyānīti śivam ।।

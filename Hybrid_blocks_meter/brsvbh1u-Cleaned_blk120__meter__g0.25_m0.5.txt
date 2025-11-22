@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 120 | label: meter | g:0.25 m:0.5 ---
+
+-idaṃ rajatamiti jñānaṃ na mithyetyāha-api ceti ।

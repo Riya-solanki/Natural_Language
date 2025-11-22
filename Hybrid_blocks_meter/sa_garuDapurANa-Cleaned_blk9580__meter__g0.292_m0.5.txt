@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9580 | label: meter | g:0.292 m:0.5 ---
+
+iti śrīgāruḍe mahāpurāṇe dvitīyāṃśe pretakalpe dharmakāṇḍe sodakumbhaśrāddhanirūpaṇaṃ nāma saptatriṃśo adhyāyaḥ

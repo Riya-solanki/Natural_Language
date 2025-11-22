@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11841 | label: hybrid | g:0.531 m:0.5 ---
+
+teṣāṃ tathā matpitṝṇāṃ ca pūjā vyarthā satyaṃ satyametadbravīmi ।
+etatsarvaṃ yadi mithyā bhavettu tadā tvasau māṃ daśatu hyahīndraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9926 | label: meter | g:0.306 m:0.5 ---
+
+etāni pakṣinmanasā vicintya vākyāni dharmārthayaśaskarāṇi ।
+muktiṃ samāyānti manuṣyaloke vasanti ye dharmaratāḥ sudeśe ।।

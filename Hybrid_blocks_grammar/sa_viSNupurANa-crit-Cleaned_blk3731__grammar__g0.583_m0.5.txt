@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3731 | label: grammar | g:0.583 m:0.5 ---
+
+anaṣṭadravyatā ca tasya rājye abhavat । evaṃ pañcāśītivarṣasahasrāṇy avyāhatārogyaśrībalaparākramo rājyam akarot ।।

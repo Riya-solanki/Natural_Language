@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 73 | label: hybrid | g:0.5 m:0.5 ---
+
+taṃnvaṃs tantur upa sedur agne tvaṃ pathā rajasi devayānaḥ । tvayā agne pṛṣṭhaṃ vayam āruhemādhā devaiḥ sadhamādaṃ madema ।। athā devaiḥ sadhamādaṃ madema]

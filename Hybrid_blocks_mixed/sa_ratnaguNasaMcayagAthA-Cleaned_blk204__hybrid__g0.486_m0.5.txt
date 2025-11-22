@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 204 | label: hybrid | g:0.486 m:0.5 ---
+
+ratanārthiko yatha vrajitvana ratnadvīpaṃ labdhvāna ratna puna gehamupāgameyyā 
+kiṃcāpi tatra sukha jīvati sārthavāho api duḥkhito manasi bhoti sa jātisaṃgho ।।

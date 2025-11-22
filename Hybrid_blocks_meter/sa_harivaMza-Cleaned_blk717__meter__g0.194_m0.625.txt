@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 717 | label: meter | g:0.194 m:0.625 ---
+
+atas te vartayiṣye aham itihāsaṃ purātanam 
+gītaṃ sanatkumāreṇa mārkaṇḍeyāya pṛcchate ।।

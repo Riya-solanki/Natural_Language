@@ -1,0 +1,14 @@
+--- source: gp01-11u-Cleaned.txt | block: 652 | label: hybrid | g:0.401 m:0.5 ---
+
+"alam iha kuśalaṃ pṛṣṭvā kuśalaṃ kuśalaṃ bhaved yasmāt ।
+kintu svaka-kuśalārthaṃ kuśalaṃ tatra ca vipṛcchyate sadbhiḥ ।। [udgīti]
+svāgata-pṛcchā dhārṣṭyaṃ bhavati mahiṣṭhe sadeti gīr-yuktā ।
+tad api surārcām anu sā yadvan nirmīyate tadvat ।। [āryā]
+kevala-vacasā toṣo vaibhava-sattve na yujyate nunam ।
+kintv idam apūrṇa-viṣayaṃ pūrṇe kiñcin na māty eva ।। [āryā]
+na sataḥ svārthāpekṣā kintu sadā sā parārthaiva ।
+tasmād viharati tasmin para-para-vijñāpanaṃ sukhadam ।। [upagīti]
+jyotiḥ-śāstraṃ bhavatā kṛtam atha vede' pi niṣṇātam ।
+tat tat para-sukha-mātrāpekṣaṃ tad idaṃ nivedyaṃ me ।। [upagīti]
+bālo yo mama jātas tasmād adhikaś ca vāsudevo yaḥ ।
+nija-dṛk-sudhayā taṃ taṃ śīkitum āstāṃ bhavān karuṇaḥ ।। [upagīti]

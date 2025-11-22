@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 44 | label: meter | g:0.25 m:0.625 ---
+
+karma saṃjīvanaṃ kuryād vyabhicāriṇi dīkṣite ।
+sṛṣṭitaḥ saṃhitāhomād adhaḥ pūrṇāsamanvitam ।

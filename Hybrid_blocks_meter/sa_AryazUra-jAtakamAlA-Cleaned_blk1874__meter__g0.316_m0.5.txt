@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1874 | label: meter | g:0.316 m:0.5 ---
+
+yathaiva me dṛṣṭitamastvayoddhṛtaṃ divākareṇeva samudyatā tamaḥ ।
+tathaiva mārgaṃ tvamṛṣe pracakṣva me bhajeya yenāhamito na durgatim ।।

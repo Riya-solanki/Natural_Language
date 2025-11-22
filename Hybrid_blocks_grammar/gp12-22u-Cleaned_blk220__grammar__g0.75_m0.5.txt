@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 220 | label: grammar | g:0.75 m:0.5 ---
+
+[] kṛṣṇaś ca sānandam uvāca-tad adya naktam evānavadyā seyaṃ vidyā nivedyatām iti bāhu-yugaṃ gṛhītvā sakhi-goṣṭhīm anu tāv amū nītvā bahala-kutūhala-veṣṭitena ceṣṭitena yāvad virocana-nimlocanāvasaraṃ vāsaraṃ gamayāmāsa ।

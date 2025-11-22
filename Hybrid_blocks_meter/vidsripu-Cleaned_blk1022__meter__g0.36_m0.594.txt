@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1022 | label: meter | g:0.36 m:0.594 ---
+
+kuntala ivāvaśiṣṭaḥ smarasya candanasaronimagnasya ।
+pratibhāti yatra hariṇaḥ sa hariṇalakṣmā gato astamayam ।।
+dakṣasya

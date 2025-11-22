@@ -1,0 +1,7 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 116 | label: meter | g:0.25 m:0.738 ---
+
+atra śyāmasabdaḥ svaparyāyakālaśabdaṃ jñāpayati । 
+tena yamaḥ ।
+karpūraśabdaśva svaparyāyaṃ ghanasāraṃ jñāpayati ।
+tena adhisāra iti labhyate ।
+tataḥ śyāmakarpūraśbdayoḥ svaparyāyakālaghanasāraśabhdamātrajñāpakatvāt pratihastatvam ।।

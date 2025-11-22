@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 705 | label: meter | g:0.194 m:0.5 ---
+
+sāmadānādibhiḥ pūrvam api bhedena vā tataḥ 
+taṃ haniṣyasi vikramya śambaraṃ maghavān iva ।।

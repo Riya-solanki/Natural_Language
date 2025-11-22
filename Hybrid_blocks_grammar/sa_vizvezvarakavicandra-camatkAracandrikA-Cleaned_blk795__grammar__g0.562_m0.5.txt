@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 795 | label: grammar | g:0.562 m:0.5 ---
+
+siṅgakṣmāpatikīrtibhirdhavalite lokatraye svaprabhoḥ kaṇṭhena vyatikālakūṭaghaṭanājīrṇena hṛṣṭā gaṇāḥ ।
+varṇe api pratikūlatāṃ vijaharī patyuḥ priyā pārvatī pūrṇendor api mudritā janatayā rūḍhā kalaṅkaprathā ।।

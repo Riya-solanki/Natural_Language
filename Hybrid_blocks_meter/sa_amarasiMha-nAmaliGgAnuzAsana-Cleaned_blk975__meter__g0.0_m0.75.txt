@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 975 | label: meter | g:0.0 m:0.75 ---
+
+aṅgulyaḥ karaśākhāḥ syuḥ puṃsyaṅguṣṭhaḥ pradeśinī

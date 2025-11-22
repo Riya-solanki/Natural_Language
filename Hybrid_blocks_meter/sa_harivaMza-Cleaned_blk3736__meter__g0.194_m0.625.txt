@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3736 | label: meter | g:0.194 m:0.625 ---
+
+reṇunā sūryamārgaṃ tu samavacchādya pārthivaḥ 
+mūtreṇa śakṛtā caiva sainyena sasṛje nadīm ।।

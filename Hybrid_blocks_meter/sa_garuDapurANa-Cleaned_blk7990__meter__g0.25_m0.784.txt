@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7990 | label: meter | g:0.25 m:0.784 ---
+
+avinītāḥ kathaṃ pūrvaṃ vinītāḥ sāmprataṃ katham ।
+pretā ūcuḥ ।
+śṛṇu viprendra vakṣyāmaḥ praśrānāmanupūrvaśaḥ ।।

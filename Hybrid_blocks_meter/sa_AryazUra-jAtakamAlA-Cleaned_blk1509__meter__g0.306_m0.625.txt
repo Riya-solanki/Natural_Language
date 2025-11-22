@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1509 | label: meter | g:0.306 m:0.625 ---
+
+avyāhatavyālamṛgapraveśe vanapradeśe atra samantamārge ।
+khedaprasuptaṃ sahasā nihanti kaścitpurā māṃ svahitodayaṃ ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 955 | label: meter | g:0.307 m:0.623 ---
+
+paścame mūrdhni cākāraṃ nyasedvarṇānvadāmyaham ।
+indranīlaṃ ca vahniṃ ca pītaṃ śyāmaṃ ca kāpilam ।।

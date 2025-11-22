@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 25 | label: hybrid | g:0.542 m:0.5 ---
+
+vedair anekair aham eva vedyo vedāntakṛd vedavid eva cāham ।
+na puṇyapāpe mama nāsti nāśo na janma dehendriyabuddhir asti ।।

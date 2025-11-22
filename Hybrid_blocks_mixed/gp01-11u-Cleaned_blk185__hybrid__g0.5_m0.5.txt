@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 185 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha lalitādis tad-āli-pālir api tāsu guru-vanitāsu tadvad eva kṛta-varivasyā tasyā eva sadeśam upaviveśa । [] tataś ca śrī-rāma-prasūḥ spaṣṭam ācaṣṭa, "vrajeśvari, sarva-sukha-rohiṇī rohiṇī-tārādya vidyate । tad ādiśyatām iyaṃ sad-bhāva-dhūta-sarva-diśya-vadhū-naipuṇyā, pākādi-sādguṇyāya pūrvam eva somābhānulomatayā yā rasavatīṃ pratītāḥ samam anyā dhanyā maṅgalādyā maṅgalārāma-rāmānuja-rāmās, tathā yāḥ parāpara-nāmānaḥ kalyāṇārāma-rāma-rāmāḥ samantād apy amūr amūm evānuvartantām । lalitādyāḥ punar asyāḥ kāya-nikāya-rūpā eveti, na sāhāyakāyāsmābhir niyojanīyāḥ ।"

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3396 | label: meter | g:0.25 m:0.625 ---
+
+ekenāpi suvṛkṣeṇa puṣpitena sugandhinā ।
+vanaṃ suvāsitaṃ sarvaṃ suputreṇa kulaṃ yathā ।।

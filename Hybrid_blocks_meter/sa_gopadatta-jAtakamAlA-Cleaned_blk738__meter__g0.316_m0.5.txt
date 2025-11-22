@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 738 | label: meter | g:0.316 m:0.5 ---
+
+gaganopamānamanasāṃ spṛśanty amī na manaḥ sukhārativikalpareṇavaḥ ।
+sukham anyad eva tad apākṛtopamaṃ yad upāsate sukṛtino raṇaṃjahāḥ ।।

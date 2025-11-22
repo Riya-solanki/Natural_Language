@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 444 | label: grammar | g:0.75 m:0.5 ---
+
+tataḥ prāg ayaṃ vasudevasya kvacij jātas tavātmajaḥ [BhP ] iti dhṛta-tapo-vargasya gargasya vacanam anusṛtya parāmṛśyate । yadā nṛśaṃsa-kaṃsa-bhiyā svāvirbhūta-caturbhuja-rūpācchādana-pūrvaka-dvibhuja-rūpāvirbhāvanāya śrī-devakīcchā jātā, tadā tasya yad apūrvaṃ dvibhuja-rūpaṃ pūrvaṃ māyayā saha śrī-yaśodāyāḥ svāntaram āyātaṃ, tad eva tatra sannidhānam avāpya caturbhujaṃ rūpam antarbhāvya svayam āvirbabhūva । yatra sākāratayā mātṛ-garbha-sthitāpi māyā nirākāratayā tūrdhva-gatyā tanvā tad-vāhanatām āgatā । gandavāha-śreṇī nīla-kamala-dalam iva tatra sarvālakṣitatayā tat prāpitavatī । yā khalu pūrvaṃ tad-ākarṣeṇa dharṣeṇa paraṃ mātaram api mohena mlāpitavatī ।

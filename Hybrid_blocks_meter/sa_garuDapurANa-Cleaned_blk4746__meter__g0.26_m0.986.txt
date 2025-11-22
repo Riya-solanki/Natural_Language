@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4746 | label: meter | g:0.26 m:0.986 ---
+
+śvāsakāsātisārāsyaśoṣahikkāvamibhramaiḥ ।
+mohavaivarṇyamūrchāṅgabhaṅgagnisadanairyutām ।
+ityayaṃ granthivīsarpaḥ kaphamārutakopajaḥ ।।

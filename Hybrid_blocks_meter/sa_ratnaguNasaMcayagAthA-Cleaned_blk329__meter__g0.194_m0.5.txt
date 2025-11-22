@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 329 | label: meter | g:0.194 m:0.5 ---
+
+yaśco upāyakuśalo vidu bodhisattvo teṣāṃ sa puṇyakriyavastvanumodayitvā 
+sattvārtha agravarabodhayi nāmayeyā abhibhoti sarvajagatī pariṇāmayukto ।।

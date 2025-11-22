@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 835 | label: meter | g:0.194 m:0.625 ---
+
+tathaivāṅgirasas tatra bhṛgor evātmajaiḥ saha 
+ṛgbhir yajurbhiḥ sāmabhir atharvāṅgirasair api ।।

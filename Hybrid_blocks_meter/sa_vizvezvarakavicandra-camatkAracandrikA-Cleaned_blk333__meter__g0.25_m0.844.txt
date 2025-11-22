@@ -1,0 +1,7 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 333 | label: meter | g:0.25 m:0.844 ---
+
+rasabhāvādibhedena saṃpadyante tathocitam ।
+tathāpi prabhuvandyādiharṣaṇārabhaṭīspṛśām ।।
+vakṣye ca caturbhadrādīnāṃ keṣāṃcidiha lakṣaṇam ।।
+padyānantarabaddhānāṃ gadyānāṃ hi yathāruci ।
+avaiṣamyādiyattāyā niyamo bhadramucyate ।।

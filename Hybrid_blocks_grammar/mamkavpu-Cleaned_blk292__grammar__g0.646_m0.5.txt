@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 292 | label: grammar | g:0.646 m:0.5 ---
+
+atra vastunākṛte api prārthane prasanneti vibhāvanā priyadarśanasya saubhāgyabalaṃ dhairyeṇa soḍhuṃ na śakyate ityutprekṣā vā ।

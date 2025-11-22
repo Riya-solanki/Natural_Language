@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1405 | label: hybrid | g:0.542 m:0.5 ---
+
+kṣayam upayayur aṅgeṣv eva śastrāṇi tasya prakṛtimṛduṣu sādhor akṣatādhyāśayasya ।
+abhirucitaparārthaprītisaṃbhogaśānte na ca manasi viṣādo na ca khedo babhūva ।।

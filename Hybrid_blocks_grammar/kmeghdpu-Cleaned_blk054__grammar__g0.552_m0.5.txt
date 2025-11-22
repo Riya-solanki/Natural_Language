@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 54 | label: grammar | g:0.552 m:0.5 ---
+
+tatra vyaktaṃ dṛṣadi caraṇanyāsam ardhendumauleḥ śaśvat siddhair upahṛtabaliṃ bhaktinamraḥ parīyāḥ ।
+yasmin dṛṣṭe karaṇavigamād ūrdhvam uddhūtapāpāḥ kalpante asya sthiragaṇapadaprāptaye śraddadhānāḥ ।।

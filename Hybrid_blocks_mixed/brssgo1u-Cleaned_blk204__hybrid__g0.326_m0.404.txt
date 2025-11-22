@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 204 | label: hybrid | g:0.326 m:0.404 ---
+
+nanvānandamayasyāvayavatvena abrahma pucchaṃ pratiṣṭhā' ityucyate, annamayādīnāmiva aidaṃ pucchaṃ pratiṣṭhā' ityādi ।
+tatra kathaṃ brahmaṇaḥ svapradhānatvaṃ śakyaṃ vijñātum ।

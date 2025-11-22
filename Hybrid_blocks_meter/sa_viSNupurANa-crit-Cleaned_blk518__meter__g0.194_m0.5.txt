@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 518 | label: meter | g:0.194 m:0.5 ---
+
+manthānaṃ mandaraṃ kṛtvā netraṃ kṛtvā ca vāsukim 
+tato mathitum ārabdhā maitreya tarasāmṛtam ।।

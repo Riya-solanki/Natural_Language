@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 228 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evam udara-pūraṇa-mātreṇa tṛptā, na tu tat-tad-bahula-rasa-pūra-kutūhalena, natarāṃ tat-tad-ānanda-mūlena sad-ānukūla-pīta-dukūlena prati-ruci-nava-navāyamānatā hi tatrāyatā, tathāpi balād iva parimala-ramaṇīyam ācamanīyaṃ dattam । gaty-antareṇāsamāpanīya-spṛhaṇīyatā hi tatra bṛhatī । tataś ca,

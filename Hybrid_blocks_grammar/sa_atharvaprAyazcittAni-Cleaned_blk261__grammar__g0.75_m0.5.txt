@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 261 | label: grammar | g:0.75 m:0.5 ---
+
+saṃsthitahomeṣu । śivau bhavatam adya naḥ । agnināgniḥ saṃsṛjyate kavir gṛhapatir yuvā havyavāḍ juhvāsyaḥ । tvaṃ hy agne agninā vipro vipreṇa san satā sakhā sakhyā samidhyase ।। sa no rāsva suvīryam iti madhyata opyātha saṃsrāvabhāgaiḥ saṃsthāpayet ।। ।।

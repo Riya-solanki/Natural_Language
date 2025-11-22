@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 50 | label: meter | g:0.295 m:0.565 ---
+
+kavīnāṃ saṃdarbha-stabaka-makarandaia-rasikaṃ kaṭākṣa-vyākṣepa-bhramara-kalabhau karṇa-yugalam
+a-muñcantau dṛṣṭvā tava nva-rasāvāda-taralāv asūyā-saṃsargād alika-nayanaṃ kiṃ-cid aruṇam ।।

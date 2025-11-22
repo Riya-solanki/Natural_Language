@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4461 | label: meter | g:0.194 m:0.625 ---
+
+so ahaṃ svayaṃbhuvacanād vedān vai samupasthitaḥ 
+uvāca caināṃś caturo mantrapravacanārcitān ।।

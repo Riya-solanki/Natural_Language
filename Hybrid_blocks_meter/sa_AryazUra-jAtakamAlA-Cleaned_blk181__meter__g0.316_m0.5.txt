@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 181 | label: meter | g:0.316 m:0.5 ---
+
+nā asau jugopātmasukhārthamarthaṃ na spardhayā lobhaparābhavādvā ।
+sattvārthiduḥkhaṃ na śaśāka soḍhuṃ nāstīti vaktuṃ ca tato jugopa ।।

@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 215 | label: meter | g:0.431 m:0.571 ---
+
+ihaca saṃvinmātraṃ svayaṃprakāśitaṃ, artho api tadvaśāt, jñānasaṃbandhastu kena prakāśitaḥ ।
+so api tayaiva saṃvidā prakāśata iti cet ।
+na ।
+tadutpattyavasthāyāṃ saṃbandhasyāniṣpannatvāt ।
+prakāśakatvameva hi saṃvidā viṣayeṇa saṃbandho nānyaḥ, tena jātāyāṃ saṃvidi viṣaye ca prakāśite

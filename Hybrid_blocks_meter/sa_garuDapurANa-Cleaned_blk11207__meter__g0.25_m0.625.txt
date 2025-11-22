@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11207 | label: meter | g:0.25 m:0.625 ---
+
+ditijānvinihatyaiva nīlā prāptā khageśvara ।
+tato nāgnijito rājño gṛhe jātā kumārikā ।।

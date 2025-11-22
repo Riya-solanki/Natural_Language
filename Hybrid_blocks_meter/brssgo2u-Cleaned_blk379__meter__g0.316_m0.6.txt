@@ -1,0 +1,9 @@
+--- source: brssgo2u-Cleaned.txt | block: 379 | label: meter | g:0.316 m:0.6 ---
+
+evamādyasūtrābhyāṃ samudāyo nirastaḥ ।
+uttarasūtrābhyāṃ kāryakāraṇabhāvakṣaṇikatve niraste ।
+saṃprati tadabhimataṃ dvividhaṃ vināśaṃ dūṣayati-pratisaṃkhyeti ।
+saṃskṛtamutpādyaṃ buddhibodhyaṃ prameyamātraṃ, trayāttuccharūpādanyadityarthaḥ ।
+kiṃ tatrayaṃ, tadāha-tadapīti ।
+nirupākhyaṃ niḥsvarūpam ।
+pratīpā pratikūlā saṃkhyā santaṃ bhāvamasantaṃ karomītyevaṃrūpā buddhiḥ pratisaṃkhyā, tayā nirodhaḥ kasyacidbhāvasya bhavati ।

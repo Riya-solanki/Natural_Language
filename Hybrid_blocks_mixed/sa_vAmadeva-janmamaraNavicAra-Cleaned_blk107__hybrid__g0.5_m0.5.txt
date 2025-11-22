@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 107 | label: hybrid | g:0.5 m:0.5 ---
+
+grīvā pañcadaśāsthīni jatrv ekaṃ ca tathā hanuḥ ।।

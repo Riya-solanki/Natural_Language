@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 520 | label: meter | g:0.306 m:0.5 ---
+
+nanu tarhi saguṇavidyāyāmapi mārgo vyartha ityata āha-upapanna iti ।
+sā gatirlakṣaṇaṃ kāraṇaṃ yasyārthasya sa tallakṣaṇārthaḥ ।।

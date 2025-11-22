@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8772 | label: meter | g:0.316 m:0.756 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+kiṅkiṃ kurvanti vai pretāḥ piśācatvevyavasthitāḥ ।
+vadanti vā kadācitkiṃ tadvadasva sureśvara ।।

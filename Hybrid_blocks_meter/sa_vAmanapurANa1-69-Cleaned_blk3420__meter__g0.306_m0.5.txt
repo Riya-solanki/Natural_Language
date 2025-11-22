@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3420 | label: meter | g:0.306 m:0.5 ---
+
+śocyaścāsmi na saṃdeho yena jātaḥ pitā tava ।
+yasya tvaṃ karkaśaḥ putro jāto devāvamānyakaḥ ।।

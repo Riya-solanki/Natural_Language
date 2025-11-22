@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 735 | label: meter | g:0.102 m:0.5 ---
+
+nāmadheyāni cāpy eṣām imāny āsan narādhipa 
+nirvairo nirvṛtaḥ kṣānto nirmanyuḥ kṛtir eva ca 
+vaidhaso mātṛvartī ca vyādhāḥ paramadhārmikāḥ ।।

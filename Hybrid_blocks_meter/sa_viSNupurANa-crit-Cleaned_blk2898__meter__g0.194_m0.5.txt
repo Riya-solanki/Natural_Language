@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2898 | label: meter | g:0.194 m:0.5 ---
+
+bhuktvā samyag athācamya prāṅmukhodaṅmukho api vā 
+yathāvat punar ācāmet pāṇī prakṣālya mūlataḥ ।।

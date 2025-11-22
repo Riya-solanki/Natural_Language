@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1789 | label: meter | g:0.25 m:0.75 ---
+
+buddhavajradharādīnāṃ smayāgryo dvidhīkṛtāḥ ।
+vajralāsyādipūjāṃ tu vajravidyottamasya vai ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 509 | label: meter | g:0.25 m:0.5 ---
+
+tarantīvāṅgāni skhaladamalalāvaṇyajaladhau prathimnaḥ prāgalbhyaṃ stanajaghanamunmudrayati ca ।
+dṛśorlolārambhāḥ sphuṭamapavadante saralatāmaho sāraṅgākṣyāstaruṇimani gāḍhaḥ paricayaḥ ।।

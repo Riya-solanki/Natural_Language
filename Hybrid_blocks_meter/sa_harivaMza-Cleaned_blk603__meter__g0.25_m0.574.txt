@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 603 | label: meter | g:0.25 m:0.574 ---
+
+virājasya dvijaśreṣṭha vairājā iti viśrutāḥ 
+yajanti tān devagaṇā vidhidṛṣṭena karmanā ।। 
+manojavāḥ svadhābhakṣāḥ sarvakāmasamanvitāḥ । ete yogaṃ parityajya mahātmano bhavanty uta । 
+ete vai yogavibhraṣṭā lokān prāpya sanātanān 
+punar yugasahasrānte jāyante brahmavādinaḥ ।।

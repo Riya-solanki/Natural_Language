@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3150 | label: meter | g:0.194 m:0.625 ---
+
+svastikāyatanaṃ dṛṣṭvā dvijihvaṃ śrīvibhūṣitam 
+samājas tatra sarpāṇāṃ śāntyarthaṃ vai bhaviṣyati ।।

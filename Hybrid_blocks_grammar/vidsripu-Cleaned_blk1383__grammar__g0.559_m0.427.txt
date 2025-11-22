@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1383 | label: grammar | g:0.559 m:0.427 ---
+
+saktūñ śocati samplutān pratikaroty ākrandato bālakān pratyutsiñcati karpareṇa salilaṃ śayyātṛṇaṃ rakṣati ।
+dattvā mūrdhani śīrṇaśūrpaśakalaṃ jīrṇe gṛhe vyākulā kiṃ tad yan na karoti duḥsthagṛhiṇī deve bhṛśaṃ varṣati ।।
+yogeśvarasya

@@ -1,0 +1,3 @@
+--- source: mamkpb_u-Cleaned.txt | block: 156 | label: grammar | g:0.667 m:0.5 ---
+
+na kevalaṃ śuddhā evaikapañcāśadbhedā bhavanti yāvatteṣāṃ svaprabhedairekapañcāśatā saṃśayāspadatvenānugrāhyānugrāhakatayaikavyañjakānupraveśena ceti trividhena saṃkareṇa parasparanirapekṣarūpayaikaprakārayā saṃsṛṣṭyā ceti caturbhirguṇane ।

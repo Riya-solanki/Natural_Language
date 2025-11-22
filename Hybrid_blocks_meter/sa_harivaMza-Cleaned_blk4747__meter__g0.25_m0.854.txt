@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4747 | label: meter | g:0.25 m:0.854 ---
+
+jvalanādityasaṃkāśāṃ yamadaṇḍopamāṃ śubhām 
+vārayantīṃ durādharṣāṃ cāmīkaravibhūṣitām । 
+gurvīṃ bhārasahasreṇa viśvakarmakṛtāṃ tadā । 
+prāhiṇot tām asaṅgena maholkāṃ jvalitām iva ।।

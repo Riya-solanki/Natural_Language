@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1742 | label: meter | g:0.306 m:0.5 ---
+
+mandākārai ca kujaḥ ṣaṣṭhe gurucandrau ca saptame ।
+jñaśukrāvaṣṭame śreṣṭhau navamastho guruḥ śubhaḥ ।।

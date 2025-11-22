@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 775 | label: grammar | g:0.646 m:0.5 ---
+
+[] suta uvāca-uktam eva mama lapane balād galāntaḥ praveśāya kim api nyastaṃ samastaiḥ iti ।

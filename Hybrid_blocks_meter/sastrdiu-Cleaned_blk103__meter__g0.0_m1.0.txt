@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 103 | label: meter | g:0.0 m:1.0 ---
+
+codanaivetyarthasya sādhanāya pratyakṣādīnāmanimittattvamucyate-

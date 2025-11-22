@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 504 | label: meter | g:0.102 m:0.5 ---
+
+namo namas te viśveśa tvaṃ brahmā tvaṃ pinākadhṛk 
+indras tvam agniḥ pavano varuṇaḥ savitā yamaḥ 
+vasavo marutaḥ sādhyā viśvedevagaṇā bhavān ।।

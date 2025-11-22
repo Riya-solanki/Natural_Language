@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 120 | label: hybrid | g:0.5 m:0.445 ---
+
+Vṛtti:
+[svābhiṣiktāt] svayamabhiṣiktācāryād yogapīṭhe śrīmatkiraṇādāvāmnātalakṣaṇe viśiṣṭe devaguruśāstrapūjādhāre [iṣṭaśaṃkaraḥ śṛṇuyāt] pūjitaparameśvareṇādhigantavyam। yadi tu bahiḥ sthitaḥ deśāntareṣvaṭan granthānadhigantumicchet tadā bahiḥsaṃsthāt bahiḥsthitāt parasiktād anyābhiṣiktād apīṭhagāt apīṭhasthādapyadhigantavyam।।
+[ācāryaniyamāḥ]

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1556 | label: meter | g:0.272 m:0.845 ---
+
+tato madhyasthito bhūtvā vajrācāryaḥ samāhitaḥ ।
+manasodghāṭayeccaiva vajradvāracatuṣṭayaṃ ।।

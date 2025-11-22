@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 65 | label: meter | g:0.251 m:0.623 ---
+
+tan mayā dṛśyate dṛṣṭo ayaṃ sa ity āmṛśaty api 
+grāhyagrāhakatābhinnāv arthau bhātaḥ pamātari ।।

@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 293 | label: meter | g:0.25 m:0.625 ---
+
+na sādhikāre tamasi muktirbhavati kasyacit ।
+adhikāro'pi tacchakteḥ pariṇāmān nivartate ।।
+so api na svata eva syādapi yogyasya vastunaḥ ।
+sarvathā sarvadā yasmāc citprayojyamacetanam ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4220 | label: meter | g:0.281 m:0.594 ---
+
+śukra uvāca ।
+śṛṇuṣva daityeśvara yena bhāgān nāmī pratīcchanti hi āsurīyān ।
+hutāśanā mantrahutānapīha nūnaṃ samāgacchati vāsudevaḥ ।।

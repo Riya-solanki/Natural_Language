@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4214 | label: hybrid | g:0.542 m:0.5 ---
+
+yajñaḥ samāgāt paramākulatvaṃ na vedmi kiṃ me madhuhā kariṣyati ।
+yathā pradagdho asmi maheśvareṇa kiṃ māṃ na saṃdhakṣyayati vāsudevaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3366 | label: grammar | g:0.552 m:0.5 ---
+
+punaś ca praṇamya bhagavate tasmai yathābhimatān ātmanaḥ sa varān kathayām āsa ।
+ka eṣāṃ bhagavato abhimato yasmai kanyām imāṃ prayacchāmīti ।।

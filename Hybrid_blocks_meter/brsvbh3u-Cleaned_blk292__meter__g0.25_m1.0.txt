@@ -1,0 +1,4 @@
+--- source: brsvbh3u-Cleaned.txt | block: 292 | label: meter | g:0.25 m:1.0 ---
+
+niyamāc ca ।
+sugamam ।।

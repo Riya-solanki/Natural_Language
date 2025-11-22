@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 880 | label: grammar | g:0.562 m:0.5 ---
+
+niḥśeṣacyutacandanaṃ stanataṭo niryātarājo adharo netre dūram anañjane jalalavaprasyandinī te tanuḥ ।
+āśācchedini dūti bāndhavajanasyājñātapīḍāgame vāpīṃ snātum ito gatāsi na punas tasyādhamasyāntikam ।।

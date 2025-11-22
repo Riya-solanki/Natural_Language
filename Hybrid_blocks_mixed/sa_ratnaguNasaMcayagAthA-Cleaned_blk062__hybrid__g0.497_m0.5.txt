@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 62 | label: hybrid | g:0.497 m:0.5 ---
+
+pūrvaṃgamā bhavatu dānu dadantu prajñā śīle ca kṣānti tatha vīrya tathaiva dhyāne 
+parigrāhikā kuśaladharmaavipraṇāśe ekā ca sā api nidarśayi sarvadharmān ।।

@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 55 | label: meter | g:0.364 m:0.579 ---
+
+iha kebhyaścid dhātubhyaḥ parā tiṅvibhaktir uccāryamāṇā kartrātmalābhamātram eva vyāpāraṃ pratipādayati ।
+yathāstibhavatividyatibhyaḥ ।
+aparebhyas tu siddhe kartari anyātmalā-

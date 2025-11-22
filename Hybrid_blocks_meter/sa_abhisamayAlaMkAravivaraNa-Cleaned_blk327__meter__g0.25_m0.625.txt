@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 327 | label: meter | g:0.25 m:0.625 ---
+
+svadharmamupaniśritya vihāre tasya sakṛtau ।
+gurutve mānanāyāṃ ca tatpūjā akṛtakatvayoḥ ।।

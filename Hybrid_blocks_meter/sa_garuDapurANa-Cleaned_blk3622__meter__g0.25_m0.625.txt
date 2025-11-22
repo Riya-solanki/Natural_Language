@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3622 | label: meter | g:0.25 m:0.625 ---
+
+āścarya tu vrataṃ kṛtvā pitṝṇāmanṛṇo abhavat ।
+bhīmadvādaśī vikhyātā prāṇināṃ puṇyavardhinī ।।

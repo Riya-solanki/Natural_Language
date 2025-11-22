@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 973 | label: hybrid | g:0.512 m:0.455 ---
+
+yātasyāstam anantaraṃ dinakṛto veṣeṇa rāgānvitaḥ svairaṃ śītakaraḥ karaṃ kamanilīm āliṅgituṃ yojayan ।
+śītasparśam avetya sāndram anayā ruddhe mukhāmbhoruhe hāsyeneva kumadvatīdayitayā vailakṣyapāṇḍūkṛtaḥ ।।
+rājaśekharasya

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8832 | label: meter | g:0.25 m:0.625 ---
+
+adattadānācca bhaveddaridro daridrabhāvācca karotipāpam ।
+pāpaprabhāvānnarakaṃ prayāti punardaridraḥ punareva pāpī ।।

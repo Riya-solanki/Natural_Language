@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3679 | label: grammar | g:0.75 m:0.5 ---
+
+tena ca prītimatātmaputro vatsa vatsety abhihitas tato vatso sāv abhavat । satyaparatayā ṛtadhvajasaṃjñām avāpa । punaś ca kuvalayanāmānam aśvaṃ lebhe tataḥ kuvalayāśva ity asyāṃ pṛthivyāṃ prathitaḥ ।।

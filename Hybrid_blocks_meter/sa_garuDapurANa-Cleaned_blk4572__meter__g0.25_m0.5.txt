@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4572 | label: meter | g:0.25 m:0.5 ---
+
+raktā sitā sphoṭacitā dāruṇā tvalajī bhavet ।
+masūrākṛti saṃsthānā vijñeyā tu masūrikā ।।

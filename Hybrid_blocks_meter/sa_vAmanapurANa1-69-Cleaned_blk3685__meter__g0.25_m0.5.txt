@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3685 | label: meter | g:0.25 m:0.5 ---
+
+jñātvā pranaṣṭaṃ tridivendraśatruṃ nadīṃ viśālāṃ madhumatsupuṇyām ।
+dvayoḥ saśastrau taṭayorharīśau pracchannamūrtī sahasā babhūvatuḥ ।।

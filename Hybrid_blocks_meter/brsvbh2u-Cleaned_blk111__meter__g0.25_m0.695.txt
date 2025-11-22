@@ -1,0 +1,5 @@
+--- source: brsvbh2u-Cleaned.txt | block: 111 | label: meter | g:0.25 m:0.695 ---
+
+cāsya punaḥ saṃsārabhayamasti taddhetoravāstavatvena samūlakāṣaṃ kaṣitatvāt ।
+sāṃkhyasya tu satastamaso aśakyasamucchedatvāditi ।
+tadidamuktamvikārabhedasya ca vācārambhaṇamātratvaśravaṇāditi ।।

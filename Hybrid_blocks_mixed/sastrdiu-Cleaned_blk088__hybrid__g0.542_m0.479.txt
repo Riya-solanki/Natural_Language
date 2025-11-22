@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 88 | label: hybrid | g:0.542 m:0.479 ---
+
+atha śyenādyapūrvasyaiva dharmatvamarthapadena vyāvartyate tato bhāṣye śyenādiśabdena karmanāmadheyena tatsādhyamapūrvaṃ lakṣyata ityaviśiṣṭā lakṣaṇā syāt ।
+yadi cāpūrvameva pratyudāharaṇaṃ tato hiṃsā hi sā sā ca pratiṣiddheti bhāṣyamasaṃgataṃ syāt ।
+śyenayāgo vā tatphalaṃ vā hiṃsā, nanvapūrvaṃ kathañcidapi hiṃsāpadāspadam ।
+asmiṃśca kalpe kathaṃ punarasāvanarthaḥ kartavyatayopadiśyata iti codyam ।
+naiva śyenādayaḥ kartavyā vijñāyante iti cottaramapūrvaviṣayaṃ syāt ।
+na ca tasya kartavyatvaṃ śakyate vārayituṃ kāryasvabhāvatvāt ।।

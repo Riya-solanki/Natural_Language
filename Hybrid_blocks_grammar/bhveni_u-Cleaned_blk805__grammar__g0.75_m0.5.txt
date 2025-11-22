@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 805 | label: grammar | g:0.75 m:0.5 ---
+
+SktCh tataśca deva gāṇḍīvinā tārarasitajīvānirghoṣamātravijñātabāṇavarṣeṇa tathācaritaṃ patribhiryathā na nabhastalaṃ na svāmī na ratho na dharaṇī na kumāro na ketuvaṃśo na balāni na sārathirna turaṃgamā na diśo na vīralokaśca lakṣyate ।

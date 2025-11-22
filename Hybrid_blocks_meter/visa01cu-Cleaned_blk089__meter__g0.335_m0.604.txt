@@ -1,0 +1,9 @@
+--- source: visa01cu-Cleaned.txt | block: 89 | label: meter | g:0.335 m:0.604 ---
+
+sati saṃbhave "īṣaddoṣau" iti cet, etadapi kāvyalakṣaṇo na vācyam, ratnādilakṣaṇo kīṭānuvedhādiparihāravat ।
+nahī kīṭānuvedhādayo ratnasya ratnatvaṃ vyāhantumīśāḥ kintūpādeyatāratamyameva kartum ।
+tadvadatra śrutiduṣṭādayo api kāvyasya ।
+uktaṃ ca
+"kīṭānuviddharatnādisādhāraṇyena kāvyatā ।
+duṣṭeṣvapi matā yatra rasādyanugamaḥ sphuṭaḥ" ।
+iti ।

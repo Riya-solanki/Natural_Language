@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 31 | label: grammar | g:0.59 m:0.5 ---
+
+rāgīi pratipatti-bhūr vita iti prāpto ativandyaṃ padaṃ ślāghāho vyasanīi hīna-kula ity agryaḥ kuṭumbaḥ svayam
+mānyaḥ prāhata ity aho kitava ity āptaś ca kiṃ vāhikaṃ sarvāastha iti pramāṇa-puruṣo veśyābhir abhyarcyate ।।

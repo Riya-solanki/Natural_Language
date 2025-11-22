@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 141 | label: grammar | g:0.618 m:0.405 ---
+
+prahīṇanityasūkharāgasyāpratikūlatvam।
+athāsya nityasukharāgaḥ prahīyate, tasminprahīṇe nāsya nityasukhārāgaḥ pratikūlo bhavati? yadyevam, muktasya nityaṃ sukhaṃ bhavati, athāpi na bhavati, nāsyobhayoḥ pakṣayormokṣādhigamo vikalpyata iti ।।

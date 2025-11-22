@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4146 | label: meter | g:0.181 m:0.765 ---
+
+aṣṭamārgamahākakṣyāṃ mahāṣoḍaśacatvarām 
+ekamārgaparikṣiptāṃ sākṣād uśanasā kṛtām 
+striyo api yasyāṃ yudhyeran kim u vṛṣṇimahārathāḥ ।।

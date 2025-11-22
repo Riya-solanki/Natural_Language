@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 98 | label: hybrid | g:0.316 m:0.418 ---
+
+kimarthaṃ ca śyenasya vidheyatvaṃ nirākriyate, pratiṣedhasiddhyarthamiti cet, kaḥ pratiṣedhaḥ na hiṃsyātsarvabhūtāni iti ।
+nāyaṃ niṣedhaḥ śyene pravartate hiṃsāviṣayatvāt ।
+śyenaphalaṃ ca hiṃsā na śyenaḥ ।
+tathā coktam, yo hiṃsitumicchettasyāyamabhyupāya iti hi teṣāmupadeśa iti ।।

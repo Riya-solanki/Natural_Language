@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1573 | label: grammar | g:0.75 m:0.5 ---
+
+yathā mālavikāgnimitre vidūṣakaḥ-alaṃ bhavado dhīradaṃ ujjhia paridebideṇa । diṭṭhā kkhu mae tattahodīe mālabiāe piasahī baulābaliā । suṇābidāa maha jaṃ bhavadā saṃdiṭṭhaṃ । rājā-tataḥ kim uktavatī ।

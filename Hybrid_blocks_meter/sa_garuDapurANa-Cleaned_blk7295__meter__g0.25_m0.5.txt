@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7295 | label: meter | g:0.25 m:0.5 ---
+
+naite nirmālyatāṃ yānti kriyamāṇāḥ punaḥ punaḥ ।
+tulasī brāhmaṇā gāvo viṣṇurekādaśī khaga ।।

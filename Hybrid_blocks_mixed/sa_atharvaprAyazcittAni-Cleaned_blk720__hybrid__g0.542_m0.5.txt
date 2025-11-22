@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 720 | label: hybrid | g:0.542 m:0.5 ---
+
+agnayaś cen mithaḥ saṃsṛjyerann agnināgniḥ saṃsṛjyate ity ete japet ।

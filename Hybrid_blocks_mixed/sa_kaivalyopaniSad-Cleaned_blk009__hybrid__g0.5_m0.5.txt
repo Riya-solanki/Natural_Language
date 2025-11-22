@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 9 | label: hybrid | g:0.5 m:0.5 ---
+
+acintyam avyaktam anantarūpaṃ śivaṃ praśāntam amṛtaṃ brahmayonim ।
+tam ādimadhyāntavihīnam ekaṃ vibhuṃ cidānandam arūpam adbhutam ।।

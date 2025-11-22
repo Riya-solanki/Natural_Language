@@ -1,0 +1,23 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 483 | label: grammar | g:0.582 m:0.307 ---
+
+atra nimagnanābheḥ iti manuṣyajātervivakṣeti ṅīṣ na kṛtaḥ । sutanu jahihi maunaṃ paśya pādānataṃ mām ityatra manuṣyajāteravivakṣeti sutanuśabdāt ūṅutaḥ ityūṅi sati hrasvatve sutanu iti siddhyati । varatanurathavāsau naiva dṛṣṭā tvayā me । atra manuṣyajāteravivakṣetyūṅ na kṛtaḥ ।।
+ūkārāntādapyūṅ, pravṛtteḥ ।।
+uta ūṅ vihita ūkārāntādapi kvacid bhavati । ācāryapravṛtteḥ । kvāsau pravṛttiḥ ? । aprāṇijāteścārajjvādīnām iti alābūḥ, karkandhūrityudāharaṇam । tena, subhru ! kiṃ saṃbhrameṇa । atar subhruśabda ūṅi siddho bhavati । ūṅi tvasati subhrūriti syāt ।।
+kārtikīya iti ṭhañ durdharaḥ ।।
+kārtikīyo nabhasvān ityatra kālāṭṭhañ iti ṭhañ durdharaḥ । ṭhañ bhavan duḥkhena dhriyata iti ।।
+śārvaramiti ca ।।
+śārvaraṃ tamaḥ ityatra ca kālāṭṭhañ iti ṭhañ durdharaḥ ।।
+śāśvatamiti prayukteḥ ।।
+śāśvataṃ jyotiḥ ityatra śāśvatamiti na siddhyati kālaṭṭhañ iti ṭhañprasaṅgāt । yeṣāṃ ca virodhaḥ śāśvatikaḥ iti sūtrakārasyāpi prayogaḥ । āha prayukteḥ । śāśvate pratiṣedhaḥ iti prayogāt śāśvatamiti bhavati ।।
+rājavaṃśyādayaḥ sādhvarthe ye bhavanti ।।
+rājavaṃśyāḥ, sūryavaṃśyā ityādayaḥ śabdāḥ, tatra sādhuḥ ityanena sādhyarye yati pratyaye sati sādhayo bhavanti । bhāvārthe punardigādipāṭhe'pi vaṃśaśabdasya vaṃśaśabdāntānna yat pratyayaḥ । tadantavidheḥ pratiṣedhāt ।।
+dāravaśabdo duṣprayuktaḥ ।।
+dāravaṃ pātram iti dāravaśabdo duṣprayuktaḥ । nityaṃ vṛddhaśarādibhyaḥ iti mayaṭā bhavitavyam । nanu vikārāvayavayorarthayormayaṅ vidhīyate । atra tu dāruṇa idam iti vivakṣāyāṃ dāravamiti bhaviṣyati ? naitadevamapi syāt । vṛddhācchaḥ iti chavidhānāt ।।
+mugdhimādiṣvivamanij mṛgyaḥ ।।mugdhamā, mauḍimā ityādiṣu imanij mṛgyaḥ anveṣaṇīya iti ।।aupamyādayaścāturvarṇyavat ।।
+aupamyaṃ, sānnidhyamityādayaścāturvarṇyavat guṇavacana ityatra cāturvarṇyādīnāṃupasaṃkhyānam iti vārtikātsvārthikaṣyañantāḥ ।।
+ṣyañaḥ ṣitkaraṇādīkāro bahulam ।।
+guṇavacanabrāhmaṇādibhyaḥ iti yaḥ ṣyañ tasya ṣitkaraṇādīkāro bhavati । sa bahulam । brāhmaṇyam ityādiṣu na bhavati । sāmagryam ityādiṣu vikalpitaḥ । sāmagryaṃ sāmagrī, vaidagdhyaṃ vaidagdhīti ।।
+dhanvīti vrīhyādiṣu pāṭhāt ।।
+vrīhyādiṣu dhanvanśabdasya pāṭhāt dhanvīti inau sati siddho bhavati ।।
+caturasraśobhīti ṇinau ।।
+babhūva tasyāścaturasraśobhi vapurvibhaktaṃ navayauvanena ।

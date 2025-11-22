@@ -1,0 +1,12 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5013 | label: grammar | g:0.708 m:0.0 ---
+
+āścaryaparvam akhilaṃ yo hīdaṃ dhārayen nṛpa 
+sarvapāpavinirmukto viṣṇulokaṃ sa gacchati । 
+kalpa utthāya yo nityaṃ kīrtayet susamāhitaḥ । 
+na tasya durlabhaṃ kiṃ cid iha loke paratra ca ।। 
+brāhmaṇaḥ sarvavedī syāt kṣatriyo vijayī bhavet । 
+vaiśyo dhanasamṛddhaḥ syāc chūdro gacchec ca sadgatim । 
+nāśubhaṃ prāpnuyāt kiṃcid dīrgham āyur avāpnuyāt ।। 
+harivaṃśam imaṃ puṇyaṃ yaḥ śṛṇoti mahīpatiḥ । āyur ārogyam aiśvaryam atulām ṛddhim āpnuyāt । aputro labhate putram adhano api dhanaṃ vrajet । ariṣṭaśamanaṃ sarvaṃ prāpnoti śubhasaṃtatim ।। vāsudeve parāṃ bhaktiṃ bhogān apy atulān bhuvi । avyāhataṃ pratāpaṃ ca yaśo vindeta mānavaḥ ।। harivaṃśam imaṃ śṛṇvan maṇḍalādhipatir bhavet । ācandratārakaṃ bhūmā vaśeṣām ṛddhim āpnuyāt । ya idaṃ śṛṇuyān nityaṃ viṣṇubhaktād dvijarṣabhāt । sadā digvijayī bhūyāc caturaṅgabalānvitaḥ ।। vede rāmāyaṇe caiva harivaṃśe ca bhārata । ādau madhye tathaivānte hariḥ sarvatra gīyate ।। tasmād dhariḥ sadā dhyeyaḥ śaṅkhacakragadādharaḥ । ādikartā mahībhartā śriyā sārdhaṃ jagatpatiḥ ।। tasya vaṃśam imaṃ puṇyam itihāsaṃ purātanam । ye narāḥ kīrtayiṣyanti nāsti teṣāṃ parābhavaḥ । asakṛt paṭha rājendra harivaṃśaṃ maharddhimat । manas te niścalaṃ bhūyāt prasanno astu janārdanaḥ । 
+iti pārikṣito rājā vaiśaṃpāyanabhāṣitam 
+śrutavān amalo bhūtvā harivaṃśaṃ dvijarṣabhāḥ ।।

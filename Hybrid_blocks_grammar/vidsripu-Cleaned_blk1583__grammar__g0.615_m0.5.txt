@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1583 | label: grammar | g:0.615 m:0.5 ---
+
+asmābhiś caturamburāśiraśanāvacchedinīṃ medinīṃ bhrāmyadbhir na sa ko api nistuṣaguṇo dṛṣṭo viśiṣṭo janaḥ ।
+yasyāgre cirasaṃcitāni hṛdaye duḥkhāni saukhyāni vā saṃjalpya kṣaṇam ekam ardham athavā niḥśvasya viśrāmyate ।।

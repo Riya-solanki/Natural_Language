@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3554 | label: grammar | g:0.75 m:0.5 ---
+
+kālena gacchatā sa saudāso yajñam ayajat । pariniṣṭhitayajñe cācārye vasiṣṭhe niṣkrānte tad rakṣo vasiṣṭharūpam āsthāya yajñāvasāne mama samāṃsaṃ bhojanaṃ deyaṃ tat saṃskriyatāṃ kṣaṇād ihāgamiṣyāmīty uktvā niṣkrāntaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1642 | label: grammar | g:0.688 m:0.5 ---
+
+mainākaḥ kim ayaṃ ruṇaddhi gagane manmārgam avyāhataṃ śaktis tasya kutaḥ sa vajrapatanād bhīto mahendrād api ।
+tārkṣyaḥ so api samaṃ nijena vibhunā jānāti māṃ rāvaṇaṃ vijñātaṃ sa jaṭāyur eṣa jarasā kliṣṭo vadhaṃ vāñchati ।।

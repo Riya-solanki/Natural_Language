@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 63 | label: meter | g:0.25 m:0.5 ---
+
+yatha jambudvīpi bahuvṛkṣasahasrakoṭī nānāprakāra vividhāśca anekarūpāḥ 
+na vi chāyanānatu bhaveta viśeṣatāpi anyatra chāyagatasaṃkhya prabhāṣamāṇā ।।

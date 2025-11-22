@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3496 | label: grammar | g:0.594 m:0.5 ---
+
+vidyā nāma kurūparūpamadhikaṃ vidyātiguptaṃ dhanaṃ vidyā sādhukarī janapriyakarī vidyā gurūṇāṃ guruḥ ।
+vidyā bandhujanārtināśanakarī vidyā paraṃ daivataṃ vidyā rājasu pūjitā hi manujo vidyavihīnaḥ paśuḥ ।।

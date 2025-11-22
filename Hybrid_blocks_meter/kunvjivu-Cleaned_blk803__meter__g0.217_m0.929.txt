@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 803 | label: meter | g:0.217 m:0.929 ---
+
+atra prakārāntarapratipādanāgocarastaruṇītāruṇyāvatārastathāvidhamanmathaceṣṭātiśayanimittavataḥ tannimitta ।
+asatyabhūtavākyārthatātparyaprastutapraśaṃsodāharaṇaṃ yathā

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 149 | label: meter | g:0.25 m:0.5 ---
+
+kiṃ kāraṇaṃ tatu guṇāgamu paṇḍitānāṃ prajñāya pāramita te anuśāsayanti 
+evaṃ jino bhaṇati sarvaguṇāgradhārī kalyāṇamitramupaniśrita buddhadharmāḥ ।।

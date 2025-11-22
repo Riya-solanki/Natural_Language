@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1376 | label: meter | g:0.194 m:0.5 ---
+
+{kivaṇāṇaṃ dhaṇaṃ ṇāgāṇaṃ phaṇamaṇī keśarāiṃ sīhāṇaṃ ।
+kulabāliāṇaṃ tthaṇaā kutto chippanti amuāṇaṃ ।।}
+[kṛpaṇānāṃ dhanaṃ nāgānāṃ phaṇamaṇiḥ kesarā siṃhānām ।
+kulabālikānāṃ stanāḥ kutaḥ spṛśyante amṛtānām ।।]

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1365 | label: grammar | g:0.632 m:0.375 ---
+
+ajādyataṣṭāp ।।
+ajādīnāmakārāntasya ca vācyaṃ yat strītvaṃ tatra dyotye ṭāp syāt । eḍakā । caṭakā । bālā । hoḍā । vilātā ।। gaṅgā ।।

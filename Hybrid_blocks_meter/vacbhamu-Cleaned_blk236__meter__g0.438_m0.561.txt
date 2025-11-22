@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 236 | label: meter | g:0.438 m:0.561 ---
+
+iti ।
+abrahma veda brahmaiva bhavati' iti siddhavadarthavādādavagatasyāpi brahmabhavanasya niyojyaviśeṣākāṅkṣāyāṃ brahma bubhūṣorniyojyaviśeṣasya rātrisatranyāyena pratilambhaḥ ।
+piṇḍaputṛyajñānyāyena tu svargakāmasya niyojyasya kalpanāyāmarthavādasyāsamavetārthatayātyantaparokṣā vṛttiḥ syāditi ।
+brahmabhāvaścāmṛtatvamiti amṛtatvakāmasyaityuktam ।
+amṛtatvaṃ ca amṛtatvādeva na kṛtakatvena śakyamanityamanumātum, āgamavirodhāditi bhāvaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2093 | label: meter | g:0.25 m:0.5 ---
+
+sā evāṅguṣṭhamuktā tu tarjanyā tarjanīgrahā ।
+valitā suratiḥ proktā sādhukāryā tathaiva ca ।।

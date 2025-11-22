@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 655 | label: hybrid | g:0.51 m:0.5 ---
+
+kiṃ bhūṣaṇena racitena hiraṇmayena kiṃ rocanādiracitena viśeṣakeṇa ।
+ārdrāṇi kuṅkumarucīni vilāsinīnām aṅgeṣu kiṃ nakhapadāni na maṇḍalāni ।।

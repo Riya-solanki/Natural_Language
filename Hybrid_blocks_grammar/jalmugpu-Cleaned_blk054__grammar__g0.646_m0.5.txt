@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 54 | label: grammar | g:0.646 m:0.5 ---
+
+strīti prītikaraṃ puraḥ pariṇatau hālāhalaṃ kevalaṃ sarvasya vyasanaṃ kilaitad adhikaṃ tatrāpi veśyeti ca ।
+prādhānyena tatas tad eva kathitaṃ yat tatprasaṅgena ca vyākhyātaṃ guṇadoṣajātam ucitaṃ cintyaṃ tad apy ādarāt ।।

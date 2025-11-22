@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2196 | label: meter | g:0.403 m:0.611 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+puṇyeṣu parvatavareṣu ca nimnagāsu sthānāntareṣu ca tathottaradeśagatvāt ।
+saṃsthāpitāḥ svanakhabāhugateḥ prakāśaṃ saṃpūjya dānavapatiṃ prathite pradeśe ।।

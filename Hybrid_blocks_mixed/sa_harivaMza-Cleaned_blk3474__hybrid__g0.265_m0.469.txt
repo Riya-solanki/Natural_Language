@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3474 | label: hybrid | g:0.265 m:0.469 ---
+
+yadi te matpriyaṃ kāryaṃ yadi vā nāsti te vyathā 
+mayā nisṛṣṭaṃ rājyaṃ svaṃ cirāya pratigṛhyatām ।। 
+etac chrutvā tu vacanaṃ nottaraṃ pratyabhāṣata । vrīḍito adhomukhas tasthau kṛṣṇasya purato nṛpaḥ । 
+vrīḍitādhomukhaṃ taṃ tu rājānaṃ yadusaṃsadi 
+abhiṣekeṇa govindo yojayām āsa yogavit ।।

@@ -1,0 +1,3 @@
+--- source: brsgor2u-Cleaned.txt | block: 340 | label: hybrid | g:0.5 m:0.5 ---
+
+akaraṇatvāc ca na doṣas tathā hi darśayati ।

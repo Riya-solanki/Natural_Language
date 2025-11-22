@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 401 | label: meter | g:0.194 m:0.5 ---
+
+ugraḥ pracaṇḍadṛk ceśo guṇānāṃ mūrdhni saṃsthitāḥ 
+tapasā guruṇopāsya krodhādīn gurutāṃ matāḥ ।।

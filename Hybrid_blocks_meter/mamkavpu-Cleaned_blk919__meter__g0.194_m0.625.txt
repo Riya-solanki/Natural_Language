@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 919 | label: meter | g:0.194 m:0.625 ---
+
+atra śirodhūnanena kupitasya vacasi ।।
+kvacinnīrase na guṇo na doṣaḥ । yathā

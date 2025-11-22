@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 106 | label: meter | g:0.25 m:0.5 ---
+
+cakre kṣudhā hṛtaṃ yasya brahmāṇḍamudare hareḥ ।
+yaṃ dṛṣṭvā smṛtamātreṇa nāgāndīnāṃ ca saṃkṣayaḥ ।।

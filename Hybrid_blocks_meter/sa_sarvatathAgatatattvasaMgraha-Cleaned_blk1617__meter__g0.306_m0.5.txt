@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1617 | label: meter | g:0.306 m:0.5 ---
+
+kalpanaṃ maṇḍale sarve [vāma]vajragraheṇa tu ।
+ataḥ paraṃ pravakṣyāmi sādhanaṃ karma eva ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9054 | label: meter | g:0.306 m:0.5 ---
+
+sarvatra vasudhā pūtā yatra lepo na vidyate ।
+yatra lepaḥ sthitastatra punarlepena śudhyati ।।

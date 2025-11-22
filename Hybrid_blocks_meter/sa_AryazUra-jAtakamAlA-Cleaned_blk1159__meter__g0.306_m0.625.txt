@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1159 | label: meter | g:0.306 m:0.625 ---
+
+smarāmi naiṣāṃ viguṇaṃ prayātuṃ snehasya yatsaṃkṣayakāraṇaṃ syāt ।
+suhṛjjanasyaivamiyaṃ sthitirme kaccidbhavetsvastinimittato asmāt ।।

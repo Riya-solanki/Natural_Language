@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1935 | label: meter | g:0.194 m:0.625 ---
+
+sāsmi vedyām samāropya tarpitā nṛpaśoṇitaiḥ 
+bhārgaveṇa pituḥ śrāddhe kaśyapāya niveditā ।।

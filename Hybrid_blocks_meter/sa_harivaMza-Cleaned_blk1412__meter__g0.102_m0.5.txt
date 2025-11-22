@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1412 | label: meter | g:0.102 m:0.5 ---
+
+nāryo nātyacaran bhartṝn bhāryāṃ nātyacarat patiḥ 
+sarvam āsīj jagaddāntaṃ nirdasyur abhavan mahī 
+rāma eko abhavad bhartā rāmaḥ pālayitābhavat ।।

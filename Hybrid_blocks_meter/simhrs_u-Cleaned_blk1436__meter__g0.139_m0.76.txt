@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1436 | label: meter | g:0.139 m:0.76 ---
+
+yathā tatraiva, nepathye-
+rudrāṇi lakṣmi varuṇāni sarasvati dyauḥ
+sāvitri dhātri sakalāḥ kula-devatāś ca ।
+śuddhy-arthinī viśati śuṣmaṇi rāma-kāntā
+tat saṃnidhatta sahasā saha loka-pālaiḥ ।।

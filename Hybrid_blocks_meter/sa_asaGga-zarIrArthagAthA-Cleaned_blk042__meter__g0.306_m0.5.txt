@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 42 | label: meter | g:0.306 m:0.5 ---
+
+yat pareṣūpanidhyāyet karma dṛṣṭveha pāpakam ।
+ātmanā tan na kurvīta karmabaddho hi pāpakaḥ ।।

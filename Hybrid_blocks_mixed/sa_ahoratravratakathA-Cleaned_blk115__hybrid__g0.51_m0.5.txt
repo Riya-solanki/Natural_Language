@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 115 | label: hybrid | g:0.51 m:0.5 ---
+
+ye buddham uddiśya mahānti nityaṃ kurvanti mṛdgomayalepanāni ।
+bhaktyā suśuddhā jalamaṇḍalaṃ vā labhanti te rājabalaṃ subhāgyāḥ ।।

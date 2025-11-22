@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2778 | label: meter | g:0.25 m:0.5 ---
+
+tuṣṭo ahaṃ tasya deveśi kiṃ kartavyaṃ puroditam 
+tato asau daṇḍavad bhūmau mama pādāgrataḥ sthitaḥ ।।

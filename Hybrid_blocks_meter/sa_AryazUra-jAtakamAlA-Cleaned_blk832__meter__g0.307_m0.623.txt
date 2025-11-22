@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 832 | label: meter | g:0.307 m:0.623 ---
+
+nindādiduḥkheṣu parānnipātya neṣṭā satāmātmasukhapravṛttiḥ ।
+eko apyanutpīḍya parānato ahaṃ dharme sthitaḥ svārthadhuraṃ prapatsye ।।

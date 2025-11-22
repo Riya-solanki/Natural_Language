@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1834 | label: grammar | g:0.667 m:0.5 ---
+
+athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ padmākārā anekavarṇarūpaliṅgeryapathā raśmayo viniḥsṛtya, sarvalokadhātuṣu rāgādīni viśuddhadharmatājñānāni saṃśodhya, punarapyāgatyāryāvalokiteśvarasya hṛdaye praviṣṭā iti ।।

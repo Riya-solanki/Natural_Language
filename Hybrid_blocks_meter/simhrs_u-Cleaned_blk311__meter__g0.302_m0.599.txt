@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 311 | label: meter | g:0.302 m:0.599 ---
+
+yathā mamaiva-
+kas te vākyāmṛtaṃ tyaktvā śṛṇoty anya-giraṃ budhaḥ ।
+sahakāra-rasaṃ tyaktvā nimbaṃ cumbati kiṃ śukaḥ ।।

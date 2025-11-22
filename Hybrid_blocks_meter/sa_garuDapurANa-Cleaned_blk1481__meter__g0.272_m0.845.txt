@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1481 | label: meter | g:0.272 m:0.845 ---
+
+īśvaraprīṇanārthāya brahmāvitsupradīyate ।
+cetasā sattvayuktena dānaṃ tadvimalaṃ śivam ।।

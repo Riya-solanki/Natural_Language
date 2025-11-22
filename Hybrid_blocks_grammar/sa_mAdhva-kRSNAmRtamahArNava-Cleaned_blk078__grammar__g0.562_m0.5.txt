@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 78 | label: grammar | g:0.562 m:0.5 ---
+
+nimiṣaṃ nimiṣārdhaṃ vā muhūrtam api bhārgava nādagdhāśeṣapāpānāṃ bhakti bhavati keśave ।।

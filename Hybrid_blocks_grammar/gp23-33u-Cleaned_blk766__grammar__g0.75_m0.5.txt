@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 766 | label: grammar | g:0.75 m:0.5 ---
+
+[] atra patīn putrān iti yad uktaṃ, tat khalu gauṇīm eva vṛttim anukramya, na tu mukhyām iti bhavat-praśnānukrameṇa prakhyāsāmi । tatra yady anyathā manyadhve, tary evam ācakṣmahe-narakādānīta-guru-kumāratayā jita-dharmarāja-dhāmā rājad-aghajin-nāmā so' yam etad anurakta-jano' py adharmasya kalayāpi spraṣṭuṃ draṣṭuṃ ca na śakyata eva । kintu lajjā-mātraṃ tasya tasya ca maryādā-paryāpakam iti vastutas tu na kevalaṃ rāgata eva tās tādṛśīṃ gati-mārgatāḥ kintv anādi-siddha-svabhāvatayā tad-vadhū-bhāvataś ceti mantra-draṣṭāro' pi niṣṭaṅkayanti । tad etad balarāmoddhavau ca suṣṭhu jānīta iti tāv api praṣṭavyau, anyathā tāsu tat-sandeśa-haratā tayor na deśa-rūpatām āsīdet ।

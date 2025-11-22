@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 107 | label: meter | g:0.25 m:0.625 ---
+
+durgatiṃ nābhijānāti sukulī lokanandanaḥ ।
+sarvavidyāgurur vandyaś cānte mokṣam avāpnuyāt ।।

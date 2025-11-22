@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 71 | label: grammar | g:0.75 m:0.5 ---
+
+atha bhagavān sarvatathāgatamaṇiratnavajrannāma samādhiṃ samāpadya, sarvatathāgatābhiprāyaparipūrṇasamayamaśeṣānavaśeṣasattvadhātusarvārthapariprāptisarvasukhasaumanasyānubhavanārthaṃ yāvat sarvatathāgatārthasaṃpaduttamasiddhiprāptyai taṃ vajramaṇiṃ tasmai ākāśagarbhāya mahābodhisattvāya vajraratnacakravartitve vajraratnāṅkurābhiṣekeṇābhiṣicya pāṇibhyāmanuprādāt । tataḥ sarvatathāgatairvajragarbho vajragarbha iti vajranāmābhiṣekeṇābhiṣiktaḥ ।

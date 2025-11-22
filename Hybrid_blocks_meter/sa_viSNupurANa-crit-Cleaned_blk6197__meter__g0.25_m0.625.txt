@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6197 | label: meter | g:0.25 m:0.625 ---
+
+evamādīni duḥkhāni jarāyām anubhūya vai 
+maraṇe yāni duḥkhāni prāpnoti śṛṇu tāny api ।।

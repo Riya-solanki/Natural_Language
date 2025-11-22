@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1224 | label: meter | g:0.056 m:1.0 ---
+
+{pauraṃ sutīyati janaṃ samarāntaresā-
+vantaḥpurīyati vicitracaritracuñcuḥ ।
+nārīyate samarasīmni kṛpāṇapāṇer
+ālokya tasya caritāni sapatnasenā ।।}

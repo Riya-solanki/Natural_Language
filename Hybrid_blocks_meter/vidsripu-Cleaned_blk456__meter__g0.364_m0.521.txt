@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 456 | label: meter | g:0.364 m:0.521 ---
+
+lāvaṇyasindhur aparaiva hi keyam atra yatrotpalāni śaśinā saha samplavante ।
+unmajjati dviradakumbhataṭī ca yatra yatrāpare kadalakāṇḍamṛṇāladaṇḍāḥ ।।
+śrīvikramādityadevasya

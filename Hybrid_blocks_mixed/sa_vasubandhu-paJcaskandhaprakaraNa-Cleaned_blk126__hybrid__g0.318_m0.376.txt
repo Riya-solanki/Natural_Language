@@ -1,0 +1,5 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 126 | label: hybrid | g:0.318 m:0.376 ---
+
+kati skandhasaṃgrahītāḥ । asaṃskṛtān sthāpayitvā ।।
+katyupādānaskandhasaṃgṛhītāḥ ye sāsravāḥ ।।
+kati kuśalākuśalāvyākṛtāḥ । daśa trividhāḥ । sapta manodhātavaḥ, rūpaśabdadharmadhātavaśca । śiṣṭā avyākṛtāḥ ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1140 | label: meter | g:0.25 m:0.75 ---
+
+vācyabhedena bhinnā tad yugapadbhāṣaṇaspṛśaḥ ।
+śliṣyanti śabdāḥ śleṣo asāvakṣarādibhiraṣṭadhā ।।

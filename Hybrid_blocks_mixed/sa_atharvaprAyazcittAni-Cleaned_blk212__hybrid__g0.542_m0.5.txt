@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 212 | label: hybrid | g:0.542 m:0.5 ---
+
+idaṃ barhir amṛteneha siktaṃ hiraṇmayaṃ haritaṃ tat stṛtaṃ naḥ ।

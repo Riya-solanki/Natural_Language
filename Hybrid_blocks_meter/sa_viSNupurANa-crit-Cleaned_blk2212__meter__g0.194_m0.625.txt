@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2212 | label: meter | g:0.194 m:0.625 ---
+
+ukto api bahuśaḥ kiṃcij jaḍavākyam abhāṣata 
+tad apy asaṃskāraguṇaṃ grāmyavākyoktisaṃśritam ।।

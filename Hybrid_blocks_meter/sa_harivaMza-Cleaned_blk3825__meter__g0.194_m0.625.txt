@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3825 | label: meter | g:0.194 m:0.625 ---
+
+bhagavan kiṃ mayā kāryaṃ surāṇāṃ vittarakṣiṇā 
+niyojaya mahābāho yatkāryaṃ yadunandana ।।

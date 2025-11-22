@@ -1,0 +1,5 @@
+--- source: visa01cu-Cleaned.txt | block: 237 | label: hybrid | g:0.398 m:0.538 ---
+
+iha yadyapi guṇānāṃ rasadharmatvaṃ tathāpiguṇaśabdo atra guṇābhivyañjakaśabdārthayorupacaryate ।
+ataśca "guṇābhiñjakāḥ śabdā rasasyotkarṣakāḥ" ityuktaṃ bhavatīti prāgevoktam ।
+eṣāmapi viśeṣodāharaṇāni vakṣayāmaḥ ।

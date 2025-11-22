@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8137 | label: meter | g:0.25 m:0.665 ---
+
+tanmamācakṣva hi preta pretatvānmucyate katham ।
+preta uvāca ।
+liṅgena pīḍayā preto anumātavyo naraiḥ sadā ।।

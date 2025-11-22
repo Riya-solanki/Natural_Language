@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2286 | label: meter | g:0.25 m:0.5 ---
+
+kiṃ nu vakṣyati te putra pitā paramakopanaḥ 
+tvayy adhaḥ śakaṭe supte śakaṭe ca viloḍite ।।

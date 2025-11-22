@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6343 | label: hybrid | g:0.5 m:0.5 ---
+
+dhanaṃ tu trividhaṃ jñeyaṃ śuklaṃ śabalameva ca ।
+kṛṣṇaṃ ca tasya vijñeyo vibhāgaḥ saptadhā pṛthak ।।

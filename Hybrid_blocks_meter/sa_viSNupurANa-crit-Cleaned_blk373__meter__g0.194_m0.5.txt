@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 373 | label: meter | g:0.194 m:0.5 ---
+
+yajñasya dakṣiṇāyāṃ tu putrā dvādaśa jajñire 
+yāmā iti samākhyātā devāḥ svāyambhuve manau ।।

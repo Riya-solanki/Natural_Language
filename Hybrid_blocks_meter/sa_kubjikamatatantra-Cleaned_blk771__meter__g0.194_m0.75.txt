@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 771 | label: meter | g:0.194 m:0.75 ---
+
+gha-na-madhyagataṃ gṛhya kevalaṃ triṃśamaṃ bhavet 
+dha-ha-randhragataṃ devi vāyvāsanasamanvitam ।।

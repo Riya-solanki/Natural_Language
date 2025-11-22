@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 310 | label: hybrid | g:0.531 m:0.5 ---
+
+yastvāṃ yadā paśyati caitramāse spṛśennaro vārcayate ca bhaktyā ।
+vṛddho atha bālo atha yuvātha yoṣit sarve tadonmādadharā bhavanti ।।

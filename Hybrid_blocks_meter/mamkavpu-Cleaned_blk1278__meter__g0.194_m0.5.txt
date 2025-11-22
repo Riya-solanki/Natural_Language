@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1278 | label: meter | g:0.194 m:0.5 ---
+
+{jassa raṇanteurae kare kuṇantassa maṇḍalaggalaaṃ ।
+rasasaṃmuhī vi sahasā paramuhī hoi riuseṇā ।।}
+[yasya raṇāntaḥpure kare kurvato maṇḍalāgralatām ।
+rasasaṃmukhyapi sahasā parāñmukhī bhavati ripusenā ।।]

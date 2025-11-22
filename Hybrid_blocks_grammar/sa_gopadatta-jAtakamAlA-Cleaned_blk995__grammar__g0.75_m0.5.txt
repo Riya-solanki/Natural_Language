@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 995 | label: grammar | g:0.75 m:0.5 ---
+
+yataś ca te mahāsattvāḥ svaṃ svaṃ vādam abhiniviṣṭā na kathāparyavasānam āsādayanti tato bodhisattvam upetya nyāyataḥ praṇamyemam artham ūcuḥ । bhagavan kṣudrāgakrodhamaraṇabhayānāṃ kiṃ nu duḥkham । kasya vāsmākaṃ subhāṣitam ity athainān sa munivaryo abravīt ।

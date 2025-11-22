@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 985 | label: grammar | g:0.548 m:0.375 ---
+
+upasarjanaṃ pūrvam ।।
+samāse upasarjanaṃ prākprayojyam । ityadheḥ prāk prayogaḥ । supo luk । ekadeśavikṛtasyānanyatvātprātipadikasaṃjñāyāṃ svādyutpattiḥ । avyayībhāvaścetya vyayatvātsupo luk ।।

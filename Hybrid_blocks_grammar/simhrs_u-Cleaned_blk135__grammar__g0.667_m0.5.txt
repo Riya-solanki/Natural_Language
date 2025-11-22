@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 135 | label: grammar | g:0.667 m:0.5 ---
+
+atretarasyāṃ paśyantyām api sambhāvanārhatayā pihita-locanāyā jyeṣṭhatvam । tatra samakṣaṃ sambhāvanānarhatvāt cumbitāyāḥ kanīyastvam । evam itarad-udāhāryam ।

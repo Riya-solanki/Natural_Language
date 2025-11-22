@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2293 | label: meter | g:0.194 m:0.625 ---
+
+kṣetrapālaḥ kumārīśo rakṣapālas tathaiva ca 
+balā cātibalā caiva ajitā cāparājitā ।।

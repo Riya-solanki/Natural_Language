@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1154 | label: meter | g:0.139 m:0.868 ---
+
+{rajaniramaṇamauleḥ pādapadmāvaloka-
+kṣaṇasamayaparāptāpūrvasaṃsahasram ।
+pramathanivahamadhye jātucittvatprasādād
+ahamucitaruciḥ syānnanditā sā tathā me ।।}

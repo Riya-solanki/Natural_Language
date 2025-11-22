@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4284 | label: meter | g:0.25 m:0.5 ---
+
+yat kṛtaṃ yadusiṃhena devair api suduḥsaham 
+karma tat keśavād anyaḥ kartum arhati kaḥ pumān ।।

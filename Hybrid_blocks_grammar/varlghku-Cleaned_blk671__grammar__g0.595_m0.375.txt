@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 671 | label: grammar | g:0.595 m:0.375 ---
+
+ṛtaśca saṃyogādeḥ ।।
+ṛdantātsaṃyogādeḥ parayoḥ liṅsicoriḍvā syāttaṅi । stariṣīṣṭa, stṛṣīṣṭa । astariṣṭa, astṛta ।। ।। dhūnoti, dhūnute । svaratīti veṭ । dudhavitha, dudhotha ।।

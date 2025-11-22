@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4846 | label: meter | g:0.25 m:0.5 ---
+
+atha rāmo abravīd vākyaṃ kṛṣṇam apratimam raṇe 
+svābhiḥ prabhābhir hīnāḥ smaḥ kṛṣṇa kasmād apūrvavat ।।

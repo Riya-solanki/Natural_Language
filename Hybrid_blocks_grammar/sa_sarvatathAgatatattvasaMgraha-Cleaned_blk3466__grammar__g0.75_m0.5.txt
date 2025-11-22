@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3466 | label: grammar | g:0.75 m:0.5 ---
+
+"atha maṇijñānamicchet sādhayituṃ tena tathaiva vajraratnodbhavasamādhiryathānukramato bhāvayitavyaḥ । niḥsvabhāvādākāśātkathaṃ ratnasaṃbhava iti, ratnācca kathaṃ bodhisatvakāyasaṃbhava iti । imaṃ samādhiṃ catuḥsaṃdhyaṃ bhāvya japed, yathopari tato māsānte tenaiva samādhinā [sakalāṃ rā]triṃ japet । tataḥ prabhāte sarvatathāgatairāgatya yathābhirucito abhiṣicyata"ityāha bhagavanākāśagarbhaḥ ।।

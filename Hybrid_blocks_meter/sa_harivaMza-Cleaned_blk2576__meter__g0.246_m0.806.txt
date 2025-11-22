@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2576 | label: meter | g:0.246 m:0.806 ---
+
+sa bhāṇḍīravaṭaprakhyaṃ dagdhāñjanagiriprabham 
+svaṃ vapur darśayām āsa pralambo dānavottamaḥ ।।

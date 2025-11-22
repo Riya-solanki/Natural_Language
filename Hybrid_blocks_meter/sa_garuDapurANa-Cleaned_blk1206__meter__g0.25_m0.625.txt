@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1206 | label: meter | g:0.25 m:0.625 ---
+
+caturdikṣu tathā jñeyo nirgamastuḥ tathā budhaiḥ ।
+pañcabhāgena saṃbhajya garbhamānaṃ vicakṣaṇaḥ ।।

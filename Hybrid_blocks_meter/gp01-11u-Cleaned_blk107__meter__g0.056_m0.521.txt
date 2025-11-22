@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 107 | label: meter | g:0.056 m:0.521 ---
+
+yasmin harir yāti vihāra-hetos
+tasmin mudā phullati cet kuṭo' pi ।
+na tatra pṛcchā na ca vaktṛtā tan
+na pṛcchyam etan na ca vācyam asti ।। [upajāti]

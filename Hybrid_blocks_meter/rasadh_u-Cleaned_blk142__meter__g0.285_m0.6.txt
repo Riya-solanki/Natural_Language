@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 142 | label: meter | g:0.285 m:0.6 ---
+
+iha mṛtasīsakena kāñcanaṃ sārayitvā tasya mṛtakāñcanasya cūrṇaṃ yat pratisāritarase kṣipyate ।।
+etat krāmaṇaṃ kathyate ।।
+iti pratisāritasūtasya krāmaṇasaṃskāraḥ ṣoḍaśaḥ ।।
+nāgakāñcanamāraṇavidhiś cāgre svayameva vakṣyati ।।

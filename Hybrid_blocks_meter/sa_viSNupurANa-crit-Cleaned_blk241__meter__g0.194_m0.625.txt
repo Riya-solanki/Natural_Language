@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 241 | label: meter | g:0.194 m:0.625 ---
+
+pañcadhāvasthitaḥ sargo dhyāyato apratibodhavān 
+bahir antaś cāprakāśaḥ saṃvṛtātmā nagātmakaḥ ।।

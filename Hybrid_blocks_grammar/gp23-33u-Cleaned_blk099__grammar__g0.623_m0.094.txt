@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 99 | label: grammar | g:0.623 m:0.094 ---
+
+[] śrī-kṛṣṇas tu yadā viśīṣṭa-lalanā-madhyam adhyāvasann evam adyotiṣṭha, tadā
+tāsāṃ parama-durlabha-parimala-mātrāṇām api vaiṇava-madhura-gīta-madhu-maditatayā svayam eva kṛtābhiyātrāṇām āgatiṃ dṛśoḥ pathi nirmāya, sa-narma-smitas tad-vidhām buddhim upadhayā labdha-śuddhim avadhārayann iva tan-mukhād unmukhānurāga-jāgarūka-vāg-amṛtam āsvādayitum, tāsu ca samutsukatām āsādayituṃ, nijāntika-sthiti-yācñā-garbheṇa sphurad-upekṣā-sandarbheṇa vacasā tāh kṣobhayāmāsa । yathā-

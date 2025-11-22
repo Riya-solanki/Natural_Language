@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3536 | label: meter | g:0.102 m:0.75 ---
+
+sthāne bhārapariśrāntā vasudheyaṃ divaṃ gatā 
+eṣāṃ nṛpatimukhyānāṃ balaughair abhipīḍitā 
+bhūmir nirantarā ceyaṃ balarāṣṭrābhisaṃvṛtā ।।

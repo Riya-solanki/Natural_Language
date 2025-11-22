@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1175 | label: meter | g:0.194 m:0.75 ---
+
+nāḍyaḥ piṇḍe sakarmādyaḥ paśur māyāmalānvitāḥ 
+etat ṣaṭkaṃ samākhyātaṃ kulamārgaprabodhakam ।।

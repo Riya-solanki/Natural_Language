@@ -1,0 +1,13 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4615 | label: meter | g:0.25 m:0.53 ---
+
+iti kumbhāṇḍavacanaiś coditaḥ puruṣarṣabhaḥ 
+bāṇo vācam asaṃsaktāṃ provāca vadatāṃ varaḥ ।। 
+nītimantam athāmātyam anayo nītimat tadā । 
+cirāt prabhṛti kumbhāṇḍa na yuddhaṃ prāpyate mayā 
+tadā mayā mudā pṛṣṭaḥ śitikaṇṭhaḥ pratāpavān ।। 
+tato ahaṃ patito mūrdhnā devadevasya dhīmataḥ । 
+yuddhābhilāṣaḥ sumahān deva saṃjāyate mama 
+api prāpsyāmy ahaṃ yuddhaṃ manasas tuṣṭikārakam ।। 
+vijñaptaḥ sa mayā deva prāha māṃ vṛṣabhadhvajaḥ । 
+tato ahaṃ devadevena hareṇāmitraghātinā 
+prahasya suciraṃ kālam ukto adya vacanaṃ priyam ।।

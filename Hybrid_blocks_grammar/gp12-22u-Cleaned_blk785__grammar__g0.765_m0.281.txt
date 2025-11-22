@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 785 | label: grammar | g:0.765 m:0.281 ---
+
+[] yatra khalu muhur api he-śabdaḥ plutatāpluta evāsīt । tathā hi-amba he, mā vilambasva । tāta he, atraiva yūyam āyāta । ārya he, sarvān ādāyāgaccha iti prabhṛti ।
+[] tad evaṃ balarāmeṇa balenāntikam ānīteṣu teṣu punar ūcivān-

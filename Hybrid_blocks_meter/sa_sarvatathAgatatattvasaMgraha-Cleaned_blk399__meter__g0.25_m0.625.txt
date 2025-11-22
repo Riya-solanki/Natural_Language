@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 399 | label: meter | g:0.25 m:0.625 ---
+
+siddhastu dharmavajra yā vai buddhadharmadharo bhavet ।
+karmavajriṇi mudrāyāṃ vajrakarmakaro bhavet ।।

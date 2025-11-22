@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4361 | label: meter | g:0.194 m:0.625 ---
+
+sa yadā yauvanasthas tu pradyumnaḥ kāmadarśanaḥ 
+cikīrṣitajño nārīṇāṃ sarvāstravidhipāragaḥ ।।

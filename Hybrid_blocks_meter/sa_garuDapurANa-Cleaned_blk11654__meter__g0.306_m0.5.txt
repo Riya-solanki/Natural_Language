@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11654 | label: meter | g:0.306 m:0.5 ---
+
+sudurlabho vāyutīrthe abhiṣeko niṣkāmabuddhyā vaiṣṇavānāṃ ca devi ।
+tatrāpi tīrthe labhyate bhāgyayogādbhāgavatasya śravaṇaṃ viṣṇudāsaiḥ ।।

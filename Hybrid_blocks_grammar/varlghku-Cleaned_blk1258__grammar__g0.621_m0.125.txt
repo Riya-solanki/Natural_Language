@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1258 | label: grammar | g:0.621 m:0.125 ---
+
+ā ca tvāt ।।
+brahmaṇastva ityataḥ prāk tvatalāvadhikriyete । apavādaiḥ saha samāveśārthamidam । cakāro nañsnañbhyāmapi samāveśārthaḥ । striyā bhāvaḥ - straiṇam । strītvam । pausnam । puṃstā ।।

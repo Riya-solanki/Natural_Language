@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 522 | label: hybrid | g:0.5 m:0.5 ---
+
+evam idam ucyamānam alaṃ saṃvegāya । tadyathānuśrūyate ।

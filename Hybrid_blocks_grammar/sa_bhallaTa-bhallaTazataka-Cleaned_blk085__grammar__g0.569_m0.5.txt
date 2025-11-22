@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 85 | label: grammar | g:0.569 m:0.5 ---
+
+nāmāpy anyataror nimīlitam abhūt tat tāvad unmīlitaṃ prasthāne skhalataḥ svavartmani vidher apy udgṛhītaḥ karaḥ 
+lokaś cāyam aniṣṭadarśanakṛtād dṛgvaiśasān mocito yuktaṃ kāṣṭhika lūnavān yad asi tām āmrālim ākālikīm ।।

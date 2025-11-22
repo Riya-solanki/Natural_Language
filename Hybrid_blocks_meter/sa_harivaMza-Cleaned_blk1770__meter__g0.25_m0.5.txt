@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1770 | label: meter | g:0.25 m:0.5 ---
+
+apare ye tu daityā vai yuddhe dṛṣṭaparākramāḥ 
+te sarve bāhubhir vyāptā na śekuś calituṃ raṇe ।।

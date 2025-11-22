@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1264 | label: meter | g:0.306 m:0.5 ---
+
+rājyasya doṣāvayave niveśaṃ prakhyāpayan hanti yaśaḥsukhāni ।
+mām arthataḥ śikṣayate narendro rājyābhidhāne tamasi bhramantam ।।

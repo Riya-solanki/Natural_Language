@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 434 | label: meter | g:0.264 m:0.714 ---
+
+rañjana suitable substances
+kāntaṃ vā tīkṣṇaṃ vā kāñcīṃ vā vajrasasyakādīnām ।
+ekatamaṃ sarvaṃ vā rasaraṃjane saṃkaro'bhīṣṭaḥ ।।

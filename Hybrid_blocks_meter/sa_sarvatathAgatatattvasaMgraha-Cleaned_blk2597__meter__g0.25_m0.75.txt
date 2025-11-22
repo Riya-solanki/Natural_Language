@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2597 | label: meter | g:0.25 m:0.75 ---
+
+ākāśagarbhakarmāgrīṃ badhvā tu susamāhitaḥ ।
+yāce[tsarvara]tnāni kili-ratneti lapsyatīti ।।

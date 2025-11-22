@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 882 | label: meter | g:0.29 m:0.539 ---
+
+[] kintu-
+gavāṃ kaṇḍūyanaṃ kuryād go-grāsaṃ go-pradakṣiṇām ।
+nityaṃ goṣu prasannāsu gopālo' pi prasīdati ।।

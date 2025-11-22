@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 667 | label: meter | g:0.194 m:0.5 ---
+
+etad icchāmy ahaṃ śrotuṃ vistareṇa mahādyute 
+brahmadattasya caritaṃ tad bhavān vaktum arhati ।।

@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 108 | label: grammar | g:0.615 m:0.5 ---
+
+kac cit saumya vyavasitam idaṃ bandhukṛtyaṃ tvayā me pratyādeśān na khalu bhavato dhīratāṃ kalpayāmi ।
+niḥśabdo api pradiśasi jalaṃ yācitaś cātakebhyaḥ pratyuktaṃ hi praṇayiṣu satām īpsitārthakriyaiva ।।

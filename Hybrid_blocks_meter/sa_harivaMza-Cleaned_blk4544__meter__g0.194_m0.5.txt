@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4544 | label: meter | g:0.194 m:0.5 ---
+
+prahṛṣṭo brāhmaṇas tāta putrān dṛṣṭvā punaḥ prabho 
+ahaṃ ca paramaprīto vismitaś cābhavaṃ nṛpa ।।

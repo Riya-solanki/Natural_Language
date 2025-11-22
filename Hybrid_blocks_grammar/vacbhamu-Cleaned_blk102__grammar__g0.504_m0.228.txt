@@ -1,0 +1,17 @@
+--- source: vacbhamu-Cleaned.txt | block: 102 | label: grammar | g:0.504 m:0.228 ---
+
+nanu adhikārārtho apyathaśabdo dṛśyate, yathā aathaiṣa jyotiḥ' iti vede, yathā vā loke aatha śabdānuśāsanam' iti, aatha yogānuśāsanam' iti ca; tatkimatrādhikārārtho na gṛhyata ityata āha- nādhikārārthaḥ ।
+kutaḥ ? brahmajijñāsāyā anadhikāryatvāt ।
+jijñāsā tāvadiha sūtre brahmaṇaśca tajjñānācca śabdataḥ pradhānaṃ pratīyate ।
+na ca yathā adaṇḍī praiṣānanvāha' ityatra apradhānamapi daṇḍaśabdārtho vivakṣyate evamihāpi brahmatajjñāne iti yuktam, brahmamīmāṃsāśāstrapravṛttyaṅgasaṃśayaprayojanasūcanārthatvena jijñāsāyā eva vivakṣitatvāt ।
+tadavivakṣāyāṃ tadasūcanena kākadantaparīkṣāyāmiva na brahmamīmāṃsāyāṃ prekṣāvantaḥ pravarteran ।
+na hi tadānīṃ brahma tajjñānaṃ ca abhidheyaprayojane bhavitumarhataḥ, anadhyastāhaṃpratyayavirodhena vedāntānāmevaṃvidher'the prāmāṇyānupapatteḥ; karmapravṛttyupayogitayā upacaritārthānāṃ vā japopayogināṃ vā ahum' ityevamādīnāmivāvivakṣitārthānāmapi svādhyāyādhyayanavidhyadhīnagrahaṇatvasya saṃbhavāt ।
+tasmātsaṃdehaprayojanasūcanī jijñāsā iha padato vākyataśca pradhānaṃ vivakṣitavyā ।
+na ca tasyā adhikāryatvam, aprastūyamānatvāt, yena tatsamabhivyāhṛto athaśabdo adhikārārthaḥ syāt ।
+jijñāsāviśeṣaṇaṃ tu brahmajñānamadhikāryaṃ bhavet ।
+na ca tadapyathaśabdena saṃbadhyate, prādhānyābhāvāt ।
+na ca jijñāsā mīmāṃsā yena yogānuśāsanavadadhikriyeta; nāntatvaṃ nipātya amāṅ māne' ityasmādvā amānapūjāyām' ityasmādvā dhātoḥ amānbandha-' ityādinā anicchārthe sani vyutpāditasya mīmāṃsāpadasya pūjitavicāravacanatvāt; jñānecchāvācakatvājjijñāsāpadasya ।
+pravartikā hi mīmāṃsāyāṃ jījñāsā syāt ।
+na ca pravartyapravartakayoraikyam, ekatve tadbhāvānupapatteḥ ।
+na ca svārthaparatvasyopapattau satyāṃ anyārthaparatvakalpanā yuktā, atiprasaṅgāt ।
+tasmātsuṣṭhūktam ajijñāsāyā anadhikāryatvāt' iti ।

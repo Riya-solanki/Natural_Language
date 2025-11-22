@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9902 | label: hybrid | g:0.531 m:0.5 ---
+
+yaḥ kṣattriyo bāhubalena saṃyuge lalāṭadeśādrudhiraṃ mukhe papau ।
+tatsomapānaṃ hi kṛtaṃ mahāmakhe jīvanmṛtaḥ so api hi yāti muktik ।।

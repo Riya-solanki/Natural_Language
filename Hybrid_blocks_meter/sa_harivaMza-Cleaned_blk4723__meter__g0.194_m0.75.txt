@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4723 | label: meter | g:0.194 m:0.75 ---
+
+tatrāntarikṣaṃ bahudhā vidyudvadbhir ivāmbudaiḥ 
+bāṇānīkaiḥ samabhavad vyāptaṃ saṃdīptalocanaiḥ ।।

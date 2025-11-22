@@ -1,0 +1,7 @@
+--- source: brssgo2u-Cleaned.txt | block: 71 | label: meter | g:0.25 m:1.0 ---
+
+FN tarkasya kaivalyamanugrāhyāgamarāhityam ।
+dharmasya śuddhiradharmādbhedanirṇayaḥ ।
+atigamabhīratvamāgamātirmekāmānāyogyatvam ।
+bhāvayāthātmyaṃ kāraṇagatamadvitīyatvam ।
+muktinibandhanaṃ paramānandasaccidekatānatvam ।

@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 652 | label: meter | g:0.217 m:0.845 ---
+
+sadṛśaiśca vidhṛtyāstumbīnalīmadhyato mukhīm 
+mūṣāmadhyād dhṛtaṃ yāvat sarvaṃ veṣāparīyakam ।।

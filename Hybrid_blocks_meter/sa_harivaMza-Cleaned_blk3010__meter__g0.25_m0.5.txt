@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3010 | label: meter | g:0.25 m:0.5 ---
+
+yas tvaṃ devopamaṃ vṛddhaṃ vasudevam dhṛtavratam 
+mohāt kṣipasi durbuddhe kutas te śāntir ātmanaḥ ।।

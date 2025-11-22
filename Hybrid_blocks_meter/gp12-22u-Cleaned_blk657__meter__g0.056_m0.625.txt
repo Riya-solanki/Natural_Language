@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 657 | label: meter | g:0.056 m:0.625 ---
+
+dvīpinyaḥ śravaṇena veṇu-raṇiteḥ stambhaṃ gatāḥ sabhramāḥ
+phullat-pūratayā sphurad-ghana-rasā haṃsādi-gīḥ-śiñjitāḥ ।
+unmaryāda-daśām itā muraripuṃ dūre' bhisṛtyāgatā
+bhaṅgālola-bhujaiḥ saroja-valayas tasyāṅghri-yugmaṃ dadhuḥ ।। [śārdūla]

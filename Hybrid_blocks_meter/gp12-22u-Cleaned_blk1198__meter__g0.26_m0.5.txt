@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1198 | label: meter | g:0.26 m:0.5 ---
+
+sātiśrīr bhavatātyāji śrīvakṣā na bhavāṃs tayā ।
+vayaṃ tu saralā yugme yugmaṃ roddhuṃ na śaknumaḥ ।। [anuṣṭubh]

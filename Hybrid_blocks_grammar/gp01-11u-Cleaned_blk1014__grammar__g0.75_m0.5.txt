@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1014 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ tayor asakṛtkṛtim anubhūya bhūyaḥ śrī-vraja-bhūpatī dampatī sukha-sambhūyamānatāyām api bhavya-dūyamāna-manastayā mantrayāmāsatuḥ yadi go-saṅgāvasthānaṃ vinā na sthātuṃ pārayatas, tarhi vraja-sadeśa-deśe vatsān eva tāvat sañcārayatām iti ।

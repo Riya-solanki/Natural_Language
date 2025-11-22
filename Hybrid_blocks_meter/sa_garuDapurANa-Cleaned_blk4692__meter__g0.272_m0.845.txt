@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4692 | label: meter | g:0.272 m:0.845 ---
+
+tvagasṛkchleṣmamāṃsāni pradūṣyanrasamāśritam ।
+tvaṅmāṃsayostu kurute tvaci varṇān pṛthagvidhān ।।

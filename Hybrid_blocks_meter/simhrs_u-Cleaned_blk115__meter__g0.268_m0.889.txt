@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 115 | label: meter | g:0.268 m:0.889 ---
+
+atha madhyā-
+samāna-lajjā-madanā prodyat-tāruṇya-śālinī ।
+madhyā kāmayate kāntaṃ mohānta-surata-kṣamā ।।

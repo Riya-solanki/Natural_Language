@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6877 | label: meter | g:0.293 m:0.75 ---
+
+śaṅkarauvāca ।
+bhavatībhiḥ prajāḥ sarvā rakṣaṇīyā na saṃśayaḥ ।
+tasmāḍvorataraprāyaṃ manaḥ śīghraṃ nivartyatām ।।

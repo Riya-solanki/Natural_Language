@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10489 | label: meter | g:0.306 m:0.5 ---
+
+namāmi nityaṃ tava tatkathāmṛtaṃ vihāyadeva śrutimūlanāśanam ।
+kuṭuṃbapoṣaṃ ca sadā ca kurvandānādyakurvannivasan gṛhe ca ।।

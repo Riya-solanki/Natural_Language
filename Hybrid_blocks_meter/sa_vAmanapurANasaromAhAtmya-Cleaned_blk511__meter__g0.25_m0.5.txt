@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 511 | label: meter | g:0.25 m:0.5 ---
+
+saptarṣīśca samuddaśya pṛtham snānaṃ samācaret ।
+ṛṣīṇāṃ ca prasādena saptalokādhipo bhavet ।।

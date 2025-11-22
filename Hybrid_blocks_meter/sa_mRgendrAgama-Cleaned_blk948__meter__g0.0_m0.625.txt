@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 948 | label: meter | g:0.0 m:0.625 ---
+
+hantyagarbho api devānāṃ pracalatvaṃ pradhāvatām 
+snāto bhavati tīrtheṣu sarvakratuṣu dīkṣitaḥ ।। MT

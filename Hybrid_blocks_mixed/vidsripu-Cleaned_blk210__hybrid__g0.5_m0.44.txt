@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 210 | label: hybrid | g:0.5 m:0.44 ---
+
+pravṛddhatāpo divaso atimātram atyartham eva kṣaṇadā ca tanvī ।
+ubhau virodhakriyayā vibhinnau jāyāpatī sānuśayāv iva staḥ ।।
+baṭoḥ

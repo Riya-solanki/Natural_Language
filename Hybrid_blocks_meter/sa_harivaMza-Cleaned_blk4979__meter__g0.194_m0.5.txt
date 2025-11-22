@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4979 | label: meter | g:0.194 m:0.5 ---
+
+sattvastho nityam āsīt tvaṃ yogīśvara mahāmate 
+pañcabhūtāśrayān doṣān ahaṃkāraṃ ca saṃtyaja ।।

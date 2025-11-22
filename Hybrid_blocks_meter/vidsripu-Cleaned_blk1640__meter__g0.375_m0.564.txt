@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1640 | label: meter | g:0.375 m:0.564 ---
+
+harir alasavilocanaḥ sagarvaṃ balam avalokya punar jagāma nidrām ।
+adhigatapativikramāstabhītis tu dayitāpi vilokayāṃcakāra ।।
+meṭhasya

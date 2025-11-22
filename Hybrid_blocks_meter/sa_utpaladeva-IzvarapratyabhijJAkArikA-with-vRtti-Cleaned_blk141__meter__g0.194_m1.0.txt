@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 141 | label: meter | g:0.194 m:1.0 ---
+
+pratyakṣānupalambhānāṃ tattadbhinnāṃśapātinām 
+kāryakāraṇatāsiddhihetutaikapramātṛjā ।।

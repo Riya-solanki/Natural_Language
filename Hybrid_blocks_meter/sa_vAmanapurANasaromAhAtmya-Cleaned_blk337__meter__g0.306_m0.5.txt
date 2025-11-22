@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 337 | label: meter | g:0.306 m:0.5 ---
+
+kriyā kṛtā ca yā kācid vidhināvidhināpi vā ।
+sarvaṃ tadakṣayaṃ tasya bhaviṣyati na saṃśayaḥ ।।

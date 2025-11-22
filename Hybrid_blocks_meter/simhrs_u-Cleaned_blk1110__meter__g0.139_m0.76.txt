@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1110 | label: meter | g:0.139 m:0.76 ---
+
+nisarga-vairiṇor aṅgāṅgi-bhāvāt svādābhāvo, yathā-
+lālā-jalaṃ sravatu vā daśanāsthi-pūrṇam
+apy astu vā rudhira-bandhuritādharaṃ vā ।
+susnigdha-māṃsa-kalitojjvala-locanaṃ vā
+saṃsāra-sāram idam eva mukhaṃ bhavatyāḥ ।।

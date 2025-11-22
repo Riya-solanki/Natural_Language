@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 7 | label: grammar | g:0.625 m:0.5 ---
+
+gaur gauḥ kāmadughā samyak prayuktā smaryate budhaiḥ duṣprayuktā punār gotvaṃ prayoktuḥ saiva śaṃsati ।।

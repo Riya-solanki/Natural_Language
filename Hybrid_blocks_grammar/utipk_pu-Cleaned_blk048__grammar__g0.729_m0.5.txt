@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 48 | label: grammar | g:0.729 m:0.5 ---
+
+cittatvam eva viśvarūpamato atiriktasyānupapatteḥ, aśeṣapadārthajñānānām anyonyānusaṃdhānam । asyaiva jñānādikāḥ śaktayaḥ । mattaḥ smṛtir jñānam apohanaṃ ceti hy uktam ।।

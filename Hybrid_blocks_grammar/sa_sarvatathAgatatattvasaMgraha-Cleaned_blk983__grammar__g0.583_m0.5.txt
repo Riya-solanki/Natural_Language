@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 983 | label: grammar | g:0.583 m:0.5 ---
+
+atha vajrapāṇirmahābodhisatvaḥ punarapi sarvaḍākinyādiduṣṭagrahākarṣaṇahṛdayamabhāṣat oṃ vajrākarṣaya śīghraṃ sarvaduṣṭagrahān vajradharasatyena huṃ jaḥ ।।

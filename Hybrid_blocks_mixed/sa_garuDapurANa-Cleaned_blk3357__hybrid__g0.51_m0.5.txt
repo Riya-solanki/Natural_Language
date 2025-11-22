@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3357 | label: hybrid | g:0.51 m:0.5 ---
+
+sa paṇḍito yo hyanuñjayedvai miṣṭena bālaṃ viniyena śiṣṭam ।
+arthena nārīṃ tapasā hi devānsarvāṃśca lokāṃśca susaṃgraheṇa ।।

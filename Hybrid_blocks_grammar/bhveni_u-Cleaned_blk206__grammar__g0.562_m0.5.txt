@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 206 | label: grammar | g:0.562 m:0.5 ---
+
+SktCh hañje evametat । kiṃ tvayaṃ svapno atimātramakuśaladarśano me pratibhāti ।

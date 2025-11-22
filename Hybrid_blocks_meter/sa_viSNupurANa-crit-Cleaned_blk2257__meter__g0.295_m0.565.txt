@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2257 | label: meter | g:0.295 m:0.565 ---
+
+śrūyatāṃ ko aham ity etad vaktuṃ bhūpa na śakyate 
+upabhoganimittaṃ ca sarvatrāgamanakriyā ।।

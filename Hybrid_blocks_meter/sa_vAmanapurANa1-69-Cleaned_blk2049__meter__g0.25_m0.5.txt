@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2049 | label: meter | g:0.25 m:0.5 ---
+
+kenāmbaratalād vājī nisṛṣṭo vada suvrata ।
+vāk kasyādehinī jātā paraṃ kautūhalaṃ mama ।।

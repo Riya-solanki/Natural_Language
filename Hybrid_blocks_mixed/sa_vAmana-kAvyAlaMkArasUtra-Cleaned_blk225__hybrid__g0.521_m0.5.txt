@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 225 | label: hybrid | g:0.521 m:0.5 ---
+
+svapiti yāvadayaṃ nikaṭe janaḥ svapimi tāvadahaṃ kimapaiti te ।
+iti nigadya śanairanumekhalaṃ mama karaṃ svakareṇa rurodha sā ।।

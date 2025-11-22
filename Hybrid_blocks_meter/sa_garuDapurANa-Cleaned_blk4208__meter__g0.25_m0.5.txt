@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4208 | label: meter | g:0.25 m:0.5 ---
+
+dviguṇā saptamī yā ca navamyekādaśī tathā ।
+eṣā tridoṣamaryādā mokṣāya ca vadhāya ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 895 | label: meter | g:0.306 m:0.5 ---
+
+ko apy eṣa karmāntarasaṃnirodhaḥ puṇyaprabhāvātiśayo vicitraḥ ।
+karmāṇi yat pātraviśeṣajāni sadyo na nṝṇāṃ phalam udvamanti ।।

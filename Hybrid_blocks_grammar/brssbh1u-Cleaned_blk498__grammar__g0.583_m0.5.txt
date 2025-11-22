@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 498 | label: grammar | g:0.583 m:0.5 ---
+
+mahīyamāno vāsanāmayairviṣayaiḥ pūjyamāna iti svapnaparyāye, tadyatreti suṣuptiparyāye ca jīvameva prajāpatirvyācaṣṭa ityanvayaḥ ।

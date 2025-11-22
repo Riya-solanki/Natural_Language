@@ -1,0 +1,10 @@
+--- source: rasadh_u-Cleaned.txt | block: 134 | label: meter | g:0.25 m:0.5 ---
+
+raktaṣoṭasya yāvanto gadyāṇāḥ sāraṇe kṛte ।
+dvighnāḥ śuddhaśilāyāste bhṛśaṃ cūrṇīkṛtā muhuḥ ।।
+vistīrṇakācakūpyāṃ tad deyaṃ cūrṇamuparyadhaḥ ।
+raktaṣoṭaṃ ca tadgarbhe kṣiptvāsya cābhracācikam ।।
+kūpikāyāṃ veṣṭanāni sapta deyāni ca mṛdaḥ ।
+narapramāṇikaṃ gartaṃ khanitvā chāṇakair bhṛtam ।।
+tadgarbhe kūpikāṃ kṣiptvā haṭhāgniṃ jvālayet tataḥ ।
+svāṅgaśītaṃ ca tad grāhyam etanmāraṇam ucyate ।।

@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 260 | label: hybrid | g:0.417 m:0.5 ---
+
+tad yatibhraṣṭaṃ dhātubhāgabhede nāmabhāgabhede ca sati bhavati । svarasandhinā kṛte prāyeṇa bāhulyena । dhātubhāgabhede mandākrāntāyāṃ yathā

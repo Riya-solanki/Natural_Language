@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 391 | label: hybrid | g:0.444 m:0.5 ---
+
+dharmātmajaṃ prati yamau ca kathaiva nāsti madhye vṛkodarakirīṭabhṛtorbalena
+eko api visphuritamaṇḍalacāpacakraṃ ē̃ kaḥ sindhurājamabhiṣeṇayituṃ samarthaḥ ।।

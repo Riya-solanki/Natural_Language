@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3539 | label: meter | g:0.306 m:0.625 ---
+
+sa eva bhagavāṃ satvaḥ sarvacittaḥ svayaṃ prabhuḥ ।
+kāyavākcittavajrastu dṛḍhaḥ satvaḥ svayaṃbhuvāṃ ।।

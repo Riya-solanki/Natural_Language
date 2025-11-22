@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 661 | label: meter | g:0.25 m:0.625 ---
+
+sadyojātasya cāhvānamanena prathamaṃ caret ।
+oṃ hāṃ sadyojātāyaiva kalā hyaṣṭau prakīrtitāḥ ।।

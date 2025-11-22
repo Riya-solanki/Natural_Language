@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 199 | label: meter | g:0.217 m:0.845 ---
+
+aśaktirapravṛttatvāt tāmasī duḥkhabhāvataḥ 
+rājasyapi guṇo dṛṣṭaḥ kārye kāraṇasaṃśrayaḥ ।।

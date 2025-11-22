@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 418 | label: meter | g:0.25 m:0.625 ---
+
+bhuvanānyapi nādādikalā nānyaḥ patiḥ śivāt 
+kiṃtu yaḥ patibhedo asmin sa śāstre śaktibhedavat ।।

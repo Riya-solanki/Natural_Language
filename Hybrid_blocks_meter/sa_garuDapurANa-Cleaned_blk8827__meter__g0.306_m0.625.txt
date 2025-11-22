@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8827 | label: meter | g:0.306 m:0.625 ---
+
+jātasya hi dhruvo mṛtyurdhruvaṃ janma mṛtasya ca ।
+kartavyaṃ pakṣiśārdūla punardehakṣayāya vai ।।

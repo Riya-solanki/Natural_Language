@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1321 | label: grammar | g:0.75 m:0.5 ---
+
+sa tasmai rājñe yathābhūtam āviścakāra । dhik tvām iti ca nirbhartsitaḥ kopakaluṣayā dṛṣṭyā tena rājñā parāṃ vrīḍām āpannaḥ । svayam eva vimucya bandhanāni kṣitipaḥ so atha yathāsukhaṃ nṛparṣim upaveśya tam āsane mahārhe bahumānānatavigraho jagāda ।

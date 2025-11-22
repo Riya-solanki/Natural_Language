@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 256 | label: hybrid | g:0.5 m:0.5 ---
+
+muṣṭiprahāreṇa sa śailaśṛṅgaṃ śakto api saṃcūrṇayituṃ mahātmā ।
+jālmaṃ tam eva tv anukampamānas tadbāṇasaṃpātapathād vyatītaḥ ।।

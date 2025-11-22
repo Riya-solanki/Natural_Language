@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1123 | label: grammar | g:0.656 m:0.5 ---
+
+mādhuryād atiśaityataḥ śucitayā saṃtāpaśāntyā dvayoḥ sthāne maitryam idaṃ payaḥ paya iti kṣīrasya nīrasya ca ।
+tatrāpy arṇasi varṇanā sphurati me yatsaṃgatau vardhate dugdhaṃ yena puraiva cāsya suhṛdaḥ kvāthe svayaṃ kṣīyate ।।

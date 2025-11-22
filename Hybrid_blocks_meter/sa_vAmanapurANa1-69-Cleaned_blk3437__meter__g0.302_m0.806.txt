@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3437 | label: meter | g:0.302 m:0.806 ---
+
+nūnametena bhāvyaṃ vai bhavato yena dānava ।
+mamāviśanmahābāho vivekapratiṣedhakaḥ ।।

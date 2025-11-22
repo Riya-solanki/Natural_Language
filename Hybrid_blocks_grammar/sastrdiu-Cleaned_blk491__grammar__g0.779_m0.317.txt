@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 491 | label: grammar | g:0.779 m:0.317 ---
+
+kiñcāstyupāyo bālānāṃ- nāvaśyaṃ saṃbandhakathanāvākyenaiva vṛddhebhyo bālāḥ saṃbandhaṃ pratipadyante, kintu yadā vṛddhāḥ prasiddhasaṃbandhāḥ svakāryārthena vyavaharanti tadā teṣāmupaśṛṇvanto bālāḥ saṃbandhaṃ pratipadyante ।
+yadā hi kenacidgāmānayetyuktaḥ kaścitsāsnādimantamānayati tadā samīpastho bālo avagacchati yasmādayametadvākyaśravaṇānantaramasminnarthe pravartate tasmādasmādvākyādayamarthaḥ pratyāyita ityevaṃ saṃmugdharūpeṇāvagataṃ pratyāyakatvaṃ paścādbahuṣu prayogeṣvanvayavyatirekābhyāṃ vākyabhāgānāṃ padānāṃ padabhāgānāṃ ca prakṛtipratyayānāṃ vākyārthabhāgeṣu pādartheṣu vivacyate, tasmānna pauruṣeyaḥ saṃbandha iti na tadvaśena puruṣāpekṣāstīti siddhamanapekṣaṃ vedānāṃ prāmāṇyam ।।
+iti saṃbandhākṣepaparihāraḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1721 | label: hybrid | g:0.531 m:0.5 ---
+
+bhikṣāśanaṃ bhavanam āyatanaikadeśaḥ śayyā bhuvaḥ parijano nijadehabhāraḥ ।
+vāsaś ca kīrṇapaṭakhaṇḍanibaddhakanthā hā hā tathāpi viṣayān na jahāti cetaḥ ।।

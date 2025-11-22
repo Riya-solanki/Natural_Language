@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 123 | label: meter | g:0.0 m:1.0 ---
+
+kālaviruddhaṃ yathā

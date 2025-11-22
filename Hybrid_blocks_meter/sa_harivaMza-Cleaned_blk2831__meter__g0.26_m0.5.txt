@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2831 | label: meter | g:0.26 m:0.5 ---
+
+etan me kṛṣṇa kārtsnyena kartum arhasi bhāṣitam 
+yady ahaṃ te surāś caiva satyaṃ ca priyam acyuta ।।

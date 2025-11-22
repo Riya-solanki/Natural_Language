@@ -1,0 +1,3 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 1 | label: meter | g:0.0 m:0.5 ---
+
+Asaṅga Śarīrārthagāthā a chapter of his Yogācārabhūmi

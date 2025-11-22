@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3032 | label: meter | g:0.194 m:0.625 ---
+
+tam āpatantaṃ saṃprekṣya keśinaṃ hayadānavam 
+pratyujjagāma govindas toyadaḥ śaśinaṃ yathā ।।

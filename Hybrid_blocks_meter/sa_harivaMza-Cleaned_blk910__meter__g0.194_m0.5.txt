@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 910 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ sa duḥkhasaṃtapto nālabhat saṃvidaṃ kva cit 
+indrotaṃ śaunakaṃ rājā śaraṇaṃ pratyapadyata ।।

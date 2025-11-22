@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 835 | label: meter | g:0.056 m:0.854 ---
+
+gatvā gṛhābhyantaram anyad apy asau
+dṛṣṭvā sutasyātula-cāpalaṃ prasūḥ ।
+tadīya-vartmānugamena ca kramād
+ālokayal lola-vilocanaṃ ca tam ।। [upajāti ]

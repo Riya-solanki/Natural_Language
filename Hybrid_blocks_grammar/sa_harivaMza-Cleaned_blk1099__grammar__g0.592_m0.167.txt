@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1099 | label: grammar | g:0.592 m:0.167 ---
+
+pauravī rohiṇī nāma bāhlikasyātmajā nṛpa 
+jyeṣṭhā patnī mahārāja dayitānakadundubheḥ ।। 
+yāḥ patnyo vasudevasya caturdaśa varāṅganāḥ । pauravī rohiṇī nāma madirāpi tathāparā । vaiśākhī ca tathā bhadrā sunāmnī caiva pañcamī ।। sahadevā śāntidevā śrīdevā devarakṣitā । vṛkadevy upadevī ca devakī caiva saptamī ।। sutanur vaḍavā caiva dve ete paricārike । 
+lebhe jyeṣṭhaṃ sutaṃ rāmaṃ śāraṇaṃ śaṭham eva ca 
+durdamaṃ damanaṃ śvabhraṃ piṇḍārakakuśīnarau ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2481 | label: meter | g:0.194 m:0.625 ---
+
+tāvatpramāṇā ca niśā tato bhavati sattama 
+brahmarūpadharaḥ śete śeṣāhāv ambusaṃplave ।।

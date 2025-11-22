@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 30 | label: meter | g:0.056 m:1.0 ---
+
+snāna-jāta-sukṛtān na kevalāt
+sphūrtidā muraripo raveḥ sutā ।
+vīkṣaṇād api yato bibharti sā
+śyāma-dhāma-vara-mādhurī-dhurām ।। [rathoddhatā]

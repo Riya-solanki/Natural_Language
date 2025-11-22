@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4442 | label: meter | g:0.25 m:0.5 ---
+
+kṣīravatya imā gāvo vatsavatyaś ca nirvṛtāḥ 
+tena saṃvardhitaiḥ sasyais tuṣṭāḥ puṣṭā bhavanti vai ।।

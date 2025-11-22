@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10166 | label: meter | g:0.28 m:0.931 ---
+
+evameva kṛtaḥ praśro harau tu garuḍena vai ।
+yaduktavānharistasmaitadvakṣyāmi tavānagha ।
+garuḍa uvāca ।
+sṛṣṭiṃ vrūhi mahābhāga saccidānandavigraha ।।

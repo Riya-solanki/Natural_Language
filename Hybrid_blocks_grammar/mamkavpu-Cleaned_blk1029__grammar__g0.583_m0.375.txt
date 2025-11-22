@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1029 | label: grammar | g:0.583 m:0.375 ---
+
+ye vācakavācyalakṣaṇāṅgātiśayamukhena mukhyaṃ rasaṃ saṃbhavinam upakurvanti te kaṇṭhādyaṅgānāmutkarṣādhānadvāreṇa śarīriṇo api upakārakā hārādaya ivālaṅkārāḥ । yatra tu nāsti rasastatroktivaicitryamātraparyavasāyinaḥ । kvacittu santamapi nopakurvanti ।
+yathākramamudāharaṇāni

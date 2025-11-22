@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4197 | label: meter | g:0.25 m:0.625 ---
+
+kuryācca pittaṃ śaradi tasya cānucaraḥ kaphaḥ ।
+tatprakṛtyā visargācca tatra nānaśanādbhayam ।।

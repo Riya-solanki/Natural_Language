@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3700 | label: meter | g:0.194 m:0.75 ---
+
+te sma nānālatācitraṃ nārikelavanāyutam 
+kīrṇaṃ nāgavanaiḥ kāntaiḥ ketakīṣaṇḍamaṇḍitam ।।

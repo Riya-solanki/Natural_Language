@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 81 | label: grammar | g:0.583 m:0.5 ---
+
+ojaḥ samāsabhūyastvam etad gadyasya jīvitam padye apy adakṣiṇātyānām idam ekaṃ parāyaṇam ।।

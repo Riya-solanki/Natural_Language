@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 493 | label: meter | g:0.25 m:0.625 ---
+
+ākāśena vihīnaśca vāyunā parivarjitaḥ ।
+agninā ca vihīnaśca udakena vivarjitaḥ ।।

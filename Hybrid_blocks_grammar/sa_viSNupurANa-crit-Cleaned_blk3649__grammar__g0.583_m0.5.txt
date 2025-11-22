@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3649 | label: grammar | g:0.583 m:0.5 ---
+
+eko agnir ādāv abhavad ailena tv atra manvantare tredhā pravartita iti ।।

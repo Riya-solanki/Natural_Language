@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 982 | label: grammar | g:0.562 m:0.5 ---
+
+akāṇḍe prathanaṃ yathā veṇīsaṃhāre dvitīyeṅkenekavīrakṣaye pravṛtte bhānumatyā saha duryodhanasya śṛṅgāravarṇanam ।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 747 | label: meter | g:0.161 m:0.939 ---
+
+nīca-narāśrayo, yathā-
+atyuttāna-śayālunā kara-yuga-prāptopadhāna-śriyā
+gandhūrasya taros tale ghuṭa-puṭa-dhvānānusandhāyibhiḥ ।
+dīrghaiḥ śvāsa-bharaiḥ saphūtkṛti-śatair āsphoṭitoṣṭha-dvayaṃ
+tat-pūrvaṃ kṛṣi-karmaṇi śramavatā kṣudreṇa nidrāyate ।।

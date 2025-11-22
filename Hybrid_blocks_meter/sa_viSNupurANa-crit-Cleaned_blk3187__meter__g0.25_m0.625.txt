@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3187 | label: meter | g:0.25 m:0.625 ---
+
+trailokyaṃ yajñabhāgāś ca daityair hrādapurogamaiḥ 
+hṛtaṃ no brahmaṇo apy ājñām ullaṅghya parameśvara ।।

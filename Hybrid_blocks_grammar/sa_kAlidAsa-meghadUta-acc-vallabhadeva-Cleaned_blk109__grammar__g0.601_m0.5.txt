@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 109 | label: grammar | g:0.601 m:0.5 ---
+
+bhūyaś cāha tvam api śayane kaṇṭhalagnā purā me nidrāṃ gatvā kim api rudatī sasvanaṃ viprabuddhā 
+sāntarhāsaṃ kathitam asakṛt pṛcchataś ca tvayā me dṛṣṭaḥ svapne kitava ramayan kām api tvaṃ mayeti ।।

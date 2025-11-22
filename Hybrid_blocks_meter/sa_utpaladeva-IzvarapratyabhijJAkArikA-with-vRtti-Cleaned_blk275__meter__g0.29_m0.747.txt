@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 275 | label: meter | g:0.29 m:0.747 ---
+
+yoginirmāṇatābhāve pramāṇāntaraniścite 
+kāryaṃ hetuḥ svabhāvo vā-ta evotpattimūlajaḥ ।।

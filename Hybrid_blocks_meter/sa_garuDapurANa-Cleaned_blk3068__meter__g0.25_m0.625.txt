@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3068 | label: meter | g:0.25 m:0.625 ---
+
+kṛṣiṃ kurvandvijaḥ śrāntaṃ balīvardaṃ na vāhayet ।
+dinārdhaṃ snānayogādikārī viprāṃśca bhojayet ।।

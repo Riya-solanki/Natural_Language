@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 771 | label: grammar | g:0.75 m:0.5 ---
+
+sa ca mahātmājanmāntarābhyastapraśamarativihārasādhanaḥ sarvalokottarotkṛṣṭair tair api viṣayair anākalitamānaso viḍambanām iva tām aiśvaryalakṣmīm abhimanyamānaḥ pravivekasukhavihāroparodhinaṃ cādhipatyapariśramam āryanyāyamārgakaṇṭakasthānīyāṃś ca snigdhajanasamāgamān prakṛtidhīramānasaḥ san gṛhe apy araṇyasaṃjñābhāvanāsamarthaḥ saśaṅko gārhasthadoṣam evodbhāvayan svabhavanād abhyudgamya vivikteṣv araṇyāyataneṣu poṣadhaniyamālaṃkṛtaśarīraḥ kālam atināmayām āsa ।।

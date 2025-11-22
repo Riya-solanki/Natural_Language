@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2888 | label: meter | g:0.194 m:0.5 ---
+
+tasya darpabalaṃ hatvā kṛtvā śṛṅgāntare padam 
+apīḍayad ariṣṭasya kaṇṭhaṃ klinnam ivāmbaram ।।

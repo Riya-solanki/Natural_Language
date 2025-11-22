@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 53 | label: meter | g:0.194 m:0.75 ---
+
+māṇavake cānubhavasiddhabhede siṃhātsiṃhaśabdaḥ ।
+na tvahaṅkārasya mukhyor'tho nirluṭhita

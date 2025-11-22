@@ -1,0 +1,10 @@
+--- source: tsc_simu-Cleaned.txt | block: 10 | label: meter | g:0.25 m:0.625 ---
+
+tasmādaliṅgakaṃ sūkṣmaṃ tathā prasavadharmikam ।
+ekaṃ sādhāraṇaṃ tatra kāryaṃ kasyāpi netare ।।
+buddhirmahān mano brahmā matiḥ khyātirapūrvakam ।
+prajñā bhūtirdhṛtirjñānaṃ santatiḥ smṛtirityapi ।।
+hairaṇyagarbhyā buddhestu mahato nāma sūcitam ।
+guṇebhyaḥ kṣobhyamāṇebhyastrayo vedā vijajñire ।।
+ekā mūrttistrayo devā brahmaviṣṇumaheśvarāḥ । iti
+viṣṇurevādisargeṣu svayaṃbhūrbhavati prabhuḥ ।।

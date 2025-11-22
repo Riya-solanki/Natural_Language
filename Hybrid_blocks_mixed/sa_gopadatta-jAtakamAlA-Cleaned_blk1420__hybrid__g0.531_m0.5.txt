@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1420 | label: hybrid | g:0.531 m:0.5 ---
+
+kṛtyaṃ na me parahitād aparaṃ garīyaḥ saṃsāracārakanibandhanam etad eva ।
+tasmāt kukāryamalinām atilaṅghya caryāṃ matprītaye satatam ātmahitaṃ kurudhvam ।।

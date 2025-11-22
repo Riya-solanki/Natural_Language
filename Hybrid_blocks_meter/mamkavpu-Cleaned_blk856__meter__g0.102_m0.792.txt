@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 856 | label: meter | g:0.102 m:0.792 ---
+
+{kallolavellitadṛṣatparuṣaprahārai
+ratnānyamūni makarālaya māvamaṃsthāḥ ।
+kiṃ kaustubhena vihito bhavato na nāma
+yā[ñc]āprasāritakaraḥ puruṣottame api ।।}

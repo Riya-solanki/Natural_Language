@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2512 | label: meter | g:0.194 m:0.625 ---
+
+kṛṣṇa kṛṣṇa mahābāho gopānāṃ nandivardhana 
+damyatām eṣa vai kṣipraṃ sarparājo viṣāyudhaḥ ।।

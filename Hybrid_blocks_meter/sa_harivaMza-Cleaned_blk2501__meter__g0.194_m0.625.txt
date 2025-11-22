@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2501 | label: meter | g:0.194 m:0.625 ---
+
+nandagopāya vai kṣipraṃ ballavāya nivedyatām 
+eṣa te kṛṣyate putraḥ sarpeṇeti mahāhrade ।।

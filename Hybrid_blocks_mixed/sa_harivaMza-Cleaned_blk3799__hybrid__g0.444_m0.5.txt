@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3799 | label: hybrid | g:0.444 m:0.5 ---
+
+mama sthānam idaṃ kāryaṃ yathā vai tridive tathā 
+martyāḥ paśyantu me lakṣmīṃ puryā yadukulasya ca ।।

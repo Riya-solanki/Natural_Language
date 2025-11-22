@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 1142 | label: hybrid | g:0.521 m:0.5 ---
+
+tṛṣito asmi bhostṛṣito asmi । saṃbhāvayatu kaścitsalilacchāyāsaṃpradānena mām ।

@@ -1,0 +1,15 @@
+--- source: vacbhamu-Cleaned.txt | block: 299 | label: grammar | g:0.575 m:0.5 ---
+
+api ca ye api kāryaparatvaṃ sarveṣāṃ padānāmāsthiṣata, tairapi abrāhmaṇo na hantavyaḥ', ana surā pātavyā' ityādīnāṃ na kāryaparatā śakyā āsthātum ।
+kṛtyupahitamaryādaṃ hi kāryaṃ kṛtyā vyāptaṃ tannivṛttau nivartate, śiṃśapātvamiva vṛkṣatvanivṛttau ।
+kṛtirhi puruṣaprayatnaḥ; sa ca viṣayādhīnanirūpaṇaḥ ।
+viṣayaścāsya sādhyasvabhāvatayā bhāvārtha eva pūrvāparībhūto anyotpādānukūlo bhavitumarhati, na dravyaguṇau ।
+sākṣātkṛtivyāpyo hi kṛterviṣayaḥ; na ca dravyaguṇayoḥ siddhayorasti kṛtivyāpyatā ।
+ata eva śāstrakṛdvacaḥ- abhāvārthāḥ karmaśabdāstebhyaḥ kriyā pratīyeta' iti ।
+dravyaguṇaśabdānāṃ naimittikāvasthāyāṃ kāryāvamarśe api, bhāvasya svataḥ dravyaguṇaśabdānāṃ tu bhāvayogātkāryāvamarśa iti bhāvārthebhya evāpūrvāvagatiḥ, na dravyaguṇaśabdebhya iti ।
+na ca adadhnā juhoti', asaṃtatamāghārayati' ityādiṣu dadhyādīnāṃ kāryaviṣayatā; tatrāpi hi homaghārabhāvārthaviṣayameva kāryam ।
+na caitāvatā asomena yajeta' itivat dadhisāṃtatyādiviśiṣṭahomāghāravidhānāt, aagnihotraṃ juhoti', aāghāramāghārayati' iti tadanuvādaḥ ।
+yadyapyatrāpi bhāvārthaviṣayameva kāryam, tathāpi bhāvārthānubandhatayā dravyaguṇāvaviṣayāvapi vidhīyete ।
+bhāvārtho hi kārakavyāpāramātratayāviśiṣṭaḥ kārakaviśeṣeṇa dravyādinā viśeṣyata iti dravyādistadanubandhaḥ ।
+tathā ca bhāvārthe vidhīyamāne sa eva sānubandho vidhīyata iti dravyaguṇāvaviṣayāvapi tadanubandhatayā vihitau bhavataḥ ।
+evaṃ ca bhāvārthapraṇālikayā dravyādisaṃkrānto vidhirgauravādbibhyatsvaviṣayasya cānyataḥ prāptatayā tadanuvādena tadanubandhībhūtadravyādiparo bhavatīti sarvatra bhāvārthaviṣaya eva vidhiḥ ।

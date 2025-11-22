@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11785 | label: meter | g:0.424 m:0.611 ---
+
+garuḍa uvāca ।
+rāmeṇa rantuṃ sarvadā vāruṇī tu putrītvamāpe revatasyaiva subhrūḥ ।
+evaṃ trirūpā vāruṇī śeṣapatnī dvirūpabhūtā pārvatī rudrapatnī ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4262 | label: meter | g:0.194 m:0.75 ---
+
+tathā vanagataḥ śaurir daṃṣṭrāyudhabalaṃ hayam 
+pragrahaṃ bhojarājasya jaghāna puruṣottamaḥ ।।

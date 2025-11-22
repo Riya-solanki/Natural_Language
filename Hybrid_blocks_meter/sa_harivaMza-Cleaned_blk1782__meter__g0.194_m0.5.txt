@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1782 | label: meter | g:0.194 m:0.5 ---
+
+evam ukto bhagavatā brahmaṇā harir īśvaraḥ 
+devāñ śakramukhān sarvān uvāca śubhayā girā ।।

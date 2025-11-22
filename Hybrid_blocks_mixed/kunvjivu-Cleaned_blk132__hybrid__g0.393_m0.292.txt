@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 132 | label: hybrid | g:0.393 m:0.292 ---
+
+atra candrahāso lajjata iti pūrvavat kārakavaicitryapratītiḥ ।
+puruṣavaicitryavihitaṃ vakratvaṃ vidyateyatra pratyaktāparabhāvaviparyāsaṃ prayuñjate kavayaḥ, kāvyavaicitryārthaṃ yuṣmadyasmadi vā prayoktavye prātipadikamātraṃ nibadhnanti ।
+yathā

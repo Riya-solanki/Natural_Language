@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1395 | label: meter | g:0.25 m:0.625 ---
+
+prasanna eva tvabhigamyarūpaḥ śaradviśuddhāmbumahāhradābhaḥ ।
+sukhārthinaḥ kleśaparāṅmukhasya lokaprasiddhaḥ sphuṭa eṣa mārgaḥ ।।

@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 266 | label: meter | g:0.25 m:0.871 ---
+
+FN arthābhāvāt puruṣārthābhāvaprasaṅgāt ।
+sukhaduḥkha prāptiparihārarūpātiśayaśūnyasya ।
+mīyante bhujyante iti mātrā bhogāḥ ।

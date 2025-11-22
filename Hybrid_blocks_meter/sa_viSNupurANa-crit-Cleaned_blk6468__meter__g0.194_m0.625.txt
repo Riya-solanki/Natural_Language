@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6468 | label: meter | g:0.194 m:0.625 ---
+
+ālokyarddhim athānyeṣām unnītānāṃ svavaṃśajaiḥ 
+etat kilocur anyeṣām pitaraḥ sapitāmahāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 244 | label: meter | g:0.194 m:1.0 ---
+
+pareṣṭādāśrayāttatra nirṇetānubhavo nṛṇām 
+kadācitkarṇamūle api saṃvidityatha manyase ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 800 | label: meter | g:0.25 m:0.75 ---
+
+kāyavākcittavajreṣu sva ṇavaḥ ।
+bhāvayanvajrasatvāṃstu vajrasatvasamo bhavet ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4066 | label: meter | g:0.272 m:0.845 ---
+
+aśvavaktro mahāmedhāḥ śaṃbhuḥ śakraḥ prabhañjanaḥ ।
+mitrāvaruṇamūrtistvamamūrtiranaghaḥ paraḥ ।।

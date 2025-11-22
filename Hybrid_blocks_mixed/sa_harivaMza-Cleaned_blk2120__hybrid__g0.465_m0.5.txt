@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2120 | label: hybrid | g:0.465 m:0.5 ---
+
+prabhur vā vyutthito brahman gurur vā yadi vetaraḥ 
+tvayā niyamyāḥ sarve vai tvaṃ hi naḥ paramā gatiḥ ।।

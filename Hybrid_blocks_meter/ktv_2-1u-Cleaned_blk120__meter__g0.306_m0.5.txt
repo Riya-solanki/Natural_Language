@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 120 | label: meter | g:0.306 m:0.5 ---
+
+yādṛśī bhāvanākhyāte dhātvarthaś cāpi yādṛśaḥ ।
+nāsau tenaiva rūpeṇa kathyate anyaiḥ padaiḥ kvacit ।।

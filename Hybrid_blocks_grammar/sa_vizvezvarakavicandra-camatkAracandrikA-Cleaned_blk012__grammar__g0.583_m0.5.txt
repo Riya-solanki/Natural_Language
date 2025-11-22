@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 12 | label: grammar | g:0.583 m:0.5 ---
+
+saptāṅgasaṅgataṃ kāvyaṃ sāmrājyamiva bhāsate । lakṣyate taditaṃ sāṅgaṃ mayā kṛtadhiyāṃ mude ।।

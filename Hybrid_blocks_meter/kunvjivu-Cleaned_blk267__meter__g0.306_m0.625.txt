@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 267 | label: meter | g:0.306 m:0.625 ---
+
+he nāgarāja bahudhāsya nitambabhāgaṃ bhogena gāḍhamabhiveṣṭaya mandarādreḥ ।
+soḍhāviṣahyavṛṣavāhanayogalīlā- paryaṅkabandhanavidhestava ko atibhāraḥ ।।

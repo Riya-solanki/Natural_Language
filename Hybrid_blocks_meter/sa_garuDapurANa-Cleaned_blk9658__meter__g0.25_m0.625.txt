@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9658 | label: meter | g:0.25 m:0.625 ---
+
+jitendriyamanā bhūtvā śucipmāndharmatatparaḥ ।
+dānadharmarataḥ śāntaḥ praṇamya vāgyataḥ śuciḥ ।।

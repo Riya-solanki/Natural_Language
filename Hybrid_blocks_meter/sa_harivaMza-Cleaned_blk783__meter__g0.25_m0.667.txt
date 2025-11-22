@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 783 | label: meter | g:0.25 m:0.667 ---
+
+tām ekabhāvasaṃyuktāṃ lebhe kanyām anuttamām 
+saṃnatiṃ saṃnatimatīṃ devalād yogadharmiṇīm ।। 
+upayeme vidhānena brahmadatto narādhipaḥ । 
+śeṣās tu cakravākā vai kāmpilye sahacāriṇaḥ 
+te jātāḥ śrotriyakule sudaridre sahodarāḥ ।।

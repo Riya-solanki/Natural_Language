@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5340 | label: hybrid | g:0.25 m:0.472 ---
+
+yavāstilāḥ saindhavaṃ ca pādikodvartanaṃ śubham ।
+liṅgabāhustanānāṃ ca karṇayorvṛddhikṛdbhavet ।
+kaṭutailaṃ bhallātakaṃ bṛhatī phaladāḍimam ।।
+valkalaiḥ sādhitairliptaṃ liṅgaṃ tena vivardhate ।।
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe keśotpattyādivarṇanaṃ nāma ṣaṭsaptatyuttaraśatatamo adhyāyaḥ

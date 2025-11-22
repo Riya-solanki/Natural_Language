@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4765 | label: meter | g:0.25 m:0.5 ---
+
+imām avasthāṃ nīto api svabāhubalam āśritaḥ 
+na cintayati rājaṃs tvāṃ vīryavān ko apy asau yuvā ।।

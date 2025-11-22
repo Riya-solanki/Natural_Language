@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2434 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ prāvṛṅgunān sarvāñ śrīmān kṛṣṇasya pūrvajaḥ 
+kathayann eva balavān vrajam eva jagāma ha ।।

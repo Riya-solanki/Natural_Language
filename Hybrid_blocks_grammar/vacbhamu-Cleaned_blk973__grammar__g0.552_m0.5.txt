@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 973 | label: grammar | g:0.552 m:0.5 ---
+
+evaṃ tadāśramadvayopanyāsena kkacitkadāciditarābhāvaśaṅkā mandabuddheḥ syāditi tadapākaraṇārthaṃ sūtram- maunavaditareṣāmapyupadeśāt ।
+vṛttirvānaprasthānāmanekavidhairevaṃ brahmācāriṇo apīti vṛttibhedo anuṣṭhātāro vā puruṣā bhidyante, tasmāddvitve api bahuvacanamaviruddham ।।

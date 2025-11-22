@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 76 | label: meter | g:0.319 m:0.511 ---
+
+-prapañcasya punaratyantāsata ityādinānirvacanīyamataṃ nirastam ।
+idānīṃ śūnyamataṃ nirasyati-naceti ।
+śūnyavādino hi śūnyasyāpi bhāsanamabhyupagacchanti, upapattiśca svasamānākāraparvapratyayasāmarthyena āsāditāsādhāraṇasvabhāvabhedaṃ yajjñānaṃ tadevāsatprakāśayati ।
+naca tanmate asatprakāśanajñānasyāpi śūnyatvātsarvatrānāśvāsaprasaṅga iti vācyam, yato jñānamapi pūrvajñānādhīnasattvamityupagamyamānatvāt ।

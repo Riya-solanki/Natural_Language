@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 106 | label: meter | g:0.306 m:0.625 ---
+
+bhūriyaṃ tvaṃ jagannātha jalāmbarahutāśanaḥ ।
+vāyurbuddhirmanaś cāpi śarvarī tvaṃ namo astu te ।।

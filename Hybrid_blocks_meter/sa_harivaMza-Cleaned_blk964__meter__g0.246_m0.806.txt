@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 964 | label: meter | g:0.246 m:0.806 ---
+
+putro divirathasyāsīc chakratulyaparākramaḥ 
+vidvān dharmaratho nāma tasya citrarathaḥ sutaḥ ।।

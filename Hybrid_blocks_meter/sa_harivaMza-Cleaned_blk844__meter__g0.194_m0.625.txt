@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 844 | label: meter | g:0.194 m:0.625 ---
+
+saptaviṃśatim indos tu dākṣāyaṇyo mahāvratāḥ 
+dadau prācetaso dakṣo nakṣatrāṇīti yā viduḥ ।।

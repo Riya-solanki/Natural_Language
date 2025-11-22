@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 220 | label: meter | g:0.306 m:0.5 ---
+
+śāpaṃ prāpya ca me vīra deveśaḥ saṃsmṛtastvayā ।
+tathā tathā vadiṣyāmi śreyastvaṃ prāpsyase yathā ।।

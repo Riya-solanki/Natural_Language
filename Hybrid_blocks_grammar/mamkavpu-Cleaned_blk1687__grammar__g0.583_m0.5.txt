@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1687 | label: grammar | g:0.583 m:0.5 ---
+
+ityatrāparatvamindoranuguṇaṃ na tu vaktrasya pratikūlamiti rūpakasya sādhakatāṃ pratipadyate na tūpamāyā bādhakatām ।

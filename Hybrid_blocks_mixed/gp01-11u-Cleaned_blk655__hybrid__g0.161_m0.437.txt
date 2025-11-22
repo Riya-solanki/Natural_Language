@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 655 | label: hybrid | g:0.161 m:0.437 ---
+
+[] atha saṅkocaṃ vidhāya sannidhāya mātṛbhyām ātmanātmajābhyāṃ ca maunenaivānāmi muni-varaḥ । so' yam uccakair āśīśiṣac ca, yathā,
+"pitroḥ pratisvaṃ kulayos tadīyayoḥ
+sambandhi-bandhu-prakare jagaty api ।
+ānanda-dātā bhava nanda-nandana,
+tvaṃ tadvad apy ānakadundubheḥ suta! ।। [indravaṃśā]

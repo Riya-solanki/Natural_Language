@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 764 | label: grammar | g:0.75 m:0.5 ---
+
+[maunamāsthitaḥ] saṃyatavāk sakalīkaraṇādinā kṛtarakṣaḥ [astraṃ smaran] astramantraṃ japan bhikṣāṃ paryaṭet। tāṃ ca alabdhvā tadarthaṃ vā ciraṃ vidhṛtaḥ san [no kopaṃ kuryāt] na kupyeta। na ca [adhvasu] mārgeṣu [pradhāvatsu] ye pradhāvanto janāḥ satsu teṣvanyeṣu ca। [kenacid apriyam uktaḥ] apriyavādiṣu na kopaṃ kuryāt।।

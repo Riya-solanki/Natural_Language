@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 371 | label: meter | g:0.333 m:0.578 ---
+
+atra "rāma'-śabdena sakalatribhuvanātiśāyī rāvaṇānucaravismayāspadaṃ śauryātiśayaḥ pratīyate ।
+eṣā ca rūḍhivaicitryavakratā pratīyamānadharmabāhulyād bahuprakārā bhidyate ।
+tacca svayamevotprekṣaṇīyam ।
+yathā

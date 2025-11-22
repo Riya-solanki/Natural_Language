@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8164 | label: meter | g:0.263 m:0.67 ---
+
+garuḍa uvāca ।
+kathaṃ kavyāni dattāni havyāni ca janairiha ।
+gacchanti pitṛlokaṃ vā prāpakaḥ ko atra gadyate ।।

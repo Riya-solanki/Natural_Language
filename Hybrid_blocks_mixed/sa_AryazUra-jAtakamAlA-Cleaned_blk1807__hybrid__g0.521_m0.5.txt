@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1807 | label: hybrid | g:0.521 m:0.5 ---
+
+ṛte api rājño maraṇādiduḥkhaṃ jātena sarveṇa niṣevitavyam ।
+janmaiva tenātra na marṣaṇīyaṃ tannāsti cetkiṃ ca kutaśca duḥkham ।।

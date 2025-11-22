@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2653 | label: meter | g:0.25 m:0.625 ---
+
+sarvagoptṛ sarvahantṛ sarvabhūtātmarūpi ca ।
+buddhidharmavihīnaṃ vai nirādhāraṃ śivaṃ harim ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6392 | label: meter | g:0.25 m:0.625 ---
+
+savitā ca bhagaścaiva munayaḥ sanakādayaḥ ।
+ābrahmastambaparyantaṃ jagattṛpyatviti bruvan ।।

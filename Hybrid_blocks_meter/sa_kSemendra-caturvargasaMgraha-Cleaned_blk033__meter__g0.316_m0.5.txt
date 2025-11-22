@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 33 | label: meter | g:0.316 m:0.5 ---
+
+pradhānadhāmnāṃ nidhaye dhanāya namo' stu tasmai guṇino api yatnāt ।
+yadāśayā nirguṇabhūpatīnām agre guṇān ṣaṇyadaśāṃ nayanti ।।

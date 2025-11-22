@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1358 | label: meter | g:0.25 m:0.5 ---
+
+bhūmau mūlaphalāśitvaṃ svādhyāyastapa eva ca ।
+saṃvibhāgo yathānyāyaṃ dharmo ayaṃ vanavāsinaḥ ।।

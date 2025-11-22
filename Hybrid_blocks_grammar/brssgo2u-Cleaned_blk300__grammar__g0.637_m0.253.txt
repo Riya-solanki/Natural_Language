@@ -1,0 +1,7 @@
+--- source: brssgo2u-Cleaned.txt | block: 300 | label: grammar | g:0.637 m:0.253 ---
+
+yadāpi bahavaḥ paramāṇavo bahūni vā dvyaṇukāni dvyaṇukasahito vā paramāṇuḥ kāryamārabhate tadāpi samānaiṣā yojanā ।
+tadevaṃ yathā paramāṇoḥ parimaṇḍalātsato aṇu hrasvaṃ ca dvyaṇukaṃ jāyate mahaddīrghaṃ ca tryaṇukādi na parimaṇḍalam, yathā vā dvyaṇukādaṇorhrasvācca sato mahaddīrghaṃ ca tryaṇukaṃ jāyate nāṇu no hrasvam, evaṃ cetanādbrahmaṇo acetanaṃ jagajjaniṣyata ityabyupagame kiṃ tava cchinnam ।
+atha manyase virodhinā parimāṇāntareṇākrāntaṃ kāryadravyaṃ dvyaṇukādītyato nārambhakāṇi kāraṇagatāni pārimaṇḍalyādīnītyabhyupagacchāmi, natu cetanāvirodhinā guṇāntareṇa jagata ākrāntatvamasti, yena kāraṇagatā cetanā kārye cetanāntaraṃ nārabheta ।
+nahyacetanā nāma cetanāvirodhī kaścidguṇo asti, cetanāpratiṣedhamātratvāt ।
+tasmātpārimāṇḍalyādivaiṣamyātprāpnoti cetanāyā ārambhakatvamiti ।

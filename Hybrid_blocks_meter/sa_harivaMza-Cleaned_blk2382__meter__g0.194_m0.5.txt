@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2382 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ krameṇa ghoṣaḥ sa prāpto vṛndāvanaṃ vanam 
+niveśaṃ vipulaṃ cakre niveśāya gavāṃ hitam ।।

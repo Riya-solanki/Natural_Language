@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 418 | label: meter | g:0.25 m:0.625 ---
+
+saṃvatsarasya paryante sa niḥśvāsaṃ vimuñcati 
+yadā tadā mahī tāta calati sma sakānanā ।।

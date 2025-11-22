@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6614 | label: meter | g:0.272 m:0.845 ---
+
+tryahamuṣṇaṃ pibecchāpaḥ tryahamuṣṇaṃ payaḥ pibet ।
+tryamuṣṇaṃ pibetsarpistaptakṛcchramaghāpaham ।।

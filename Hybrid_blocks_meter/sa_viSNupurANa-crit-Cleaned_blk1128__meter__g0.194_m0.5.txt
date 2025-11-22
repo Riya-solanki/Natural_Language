@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1128 | label: meter | g:0.194 m:0.5 ---
+
+ākrāntaḥ parvataiḥ kasmāt kasmād daṣṭo mahoragaiḥ 
+kṣiptaḥ kim adriśikharāt kiṃ vā pāvakasaṃcaye ।।

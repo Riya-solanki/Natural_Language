@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 640 | label: meter | g:0.194 m:0.625 ---
+
+sāmprataṃ khecarīṇāṃ tu yathā mudrā khagādhipe 
+kathayāmi samāsena tvatprītyā khagagāminī ।।

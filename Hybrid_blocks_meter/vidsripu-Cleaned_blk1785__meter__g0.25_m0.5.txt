@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1785 | label: meter | g:0.25 m:0.5 ---
+
+sarvasyaiva hi lokasya bahumānaṃ yad ātmani ।
+viṣṇor māyāsahasrasya iyam ekā garīyasī ।।

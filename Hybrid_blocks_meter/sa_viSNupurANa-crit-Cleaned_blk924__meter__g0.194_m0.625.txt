@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 924 | label: meter | g:0.194 m:0.625 ---
+
+gṛhṇāti viṣayān nityam indriyātmā kṣarākṣaraḥ 
+yas tasmai jñānamūlāya natāḥ sma harimedhase ।।

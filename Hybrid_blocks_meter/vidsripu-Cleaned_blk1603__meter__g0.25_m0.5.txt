@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1603 | label: meter | g:0.25 m:0.5 ---
+
+ekagarbhoṣitāḥ snigdhā mūrdhnā satkṛtya dhāritāḥ ।
+keśā api virajyante jarayā kim utāṅganāḥ ।।

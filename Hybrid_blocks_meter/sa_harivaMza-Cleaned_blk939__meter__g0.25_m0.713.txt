@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 939 | label: meter | g:0.25 m:0.713 ---
+
+tathaivābhayadasyāsīt sudhanvā ca mahīpatiḥ 
+sudhanvanaḥ subāhus tu raudrāśvas tasya cātmajaḥ ।। 
+saṃpātis tasya cātmajaḥ ।saṃpātes tu rahasyātī ।
+raudrāśvasya daśārṇeyuḥ kṛkaṇeyus tathaiva ca 
+daśāpsarasi sūnavaḥ ।
+ṛceyuś prathamas teṣāṃ ।
+kakṣeyuḥ sthaṇḍileyuś ca saṃnateyus tathaiva ca ।।

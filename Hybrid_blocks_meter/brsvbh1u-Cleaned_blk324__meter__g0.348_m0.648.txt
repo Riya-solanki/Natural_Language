@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 324 | label: meter | g:0.348 m:0.648 ---
+
+masya rūpaṃ vyavasthāpyate na tacchabdena virudhyate,tasyopāsanāparatvāt, samāropeṇa copāsanāyā upapatteriti ।
+prakṛtamupasaṃharati-tasmānneti ।
+sūtreṇa siddhāntayati-evaṃ prāpta ucyate-tattvasamanvayāt ।।

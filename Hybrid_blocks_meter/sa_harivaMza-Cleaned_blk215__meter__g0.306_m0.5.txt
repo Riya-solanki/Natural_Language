@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 215 | label: meter | g:0.306 m:0.5 ---
+
+sraṣṭā dharmasya kaś cānyaḥ śrotavyaṃ kasya vā mayā 
+śrutavīryatapaḥsatyair mayā vā kaḥ samo bhuvi । 
+prabhavaṃ sarvabhūtānāṃ dharmāṇāṃ ca viśeṣataḥ । 
+saṃmūḍhā na vidur nūnaṃ bhavanto māṃ viśeṣataḥ ।।

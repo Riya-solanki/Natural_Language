@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10689 | label: hybrid | g:0.5 m:0.5 ---
+
+tato hariḥ prādurāsītkhagendra varaṃ dātuṃ bhaktavarasya divyam ।
+sadā viṣṇuṃ devadevo dadarśa caturbhujaṃ taṃ jalajāyatākṣam ।।

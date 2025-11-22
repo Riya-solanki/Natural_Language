@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 948 | label: meter | g:0.009 m:0.75 ---
+
+ayaṃ khalvadhyāpako adhīte vrajati kamaṇḍaluṃ
+dhārayati panthānaṃ paśyati śṛṇotyāraṇyajān
+śabdān bibheti vyālaliṅgāni bubhutsate
+smarati ca gantavyaṃ sthānīyamiti
+kramasyāgrahaṇād yugapadetāḥ kriyā iti
+prāptaṃ manaso bahutvamiti ।।

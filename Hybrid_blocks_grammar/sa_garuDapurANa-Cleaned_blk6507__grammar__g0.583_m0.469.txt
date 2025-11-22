@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6507 | label: grammar | g:0.583 m:0.469 ---
+
+tataḥ pitṛbrāhmaṇe piṇḍāḥ sampannā iti praśraḥ । susampannā iti piṇḍe kṣīradhārāṃ dattvā piṇḍacālanaṃ atithibrāhmaṇe piṇḍapātramuttānaṃ kṛtvā oṃ vāje vāje vata vājino no dhaneṣu viprā amṛtā ṛtajñāḥ । asyamadhvaḥ pibata mādayadhvaṃ tṛptā yāta pathibhirdevayānairiti piṇḍā divisarjanaṃ-āmāvājasya prasavo jagamyādeme dyāvāpṛthivī viśvarūpe āmāgantāṃ pitarā cāmā somo amṛtatvena gamyāt । 
+iti devavisarjanam ।
+oṃ abhigamyatāmiti pitṛbrāhmaṇavisarjanam ।
+brāhmaṇairanudgatasya nivartanam ।
+gavādiṣu piṇḍapratipādanamiti śeṣaḥ ।।

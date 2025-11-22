@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 127 | label: grammar | g:0.573 m:0.5 ---
+
+Q yady atattvaparihārapūrvakaṃ tattvam eṣi tad atattvam eva hi ।
+Q yady atattvam atha tattvam eva vā tattvam eva nanu tattvam īdṛśam ।।

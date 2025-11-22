@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5609 | label: meter | g:0.25 m:0.555 ---
+
+triphalāguru bhūteśa śilājatu harītakī ।
+ekaikameṣāṃ cūrṇantu madhunā ca vimiśritam ।
+pītaṃ sarvañca mehantu kṣayaṃ nayati śaṅkara ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4259 | label: meter | g:0.194 m:0.625 ---
+
+dhenukaḥ sa mahākāyo dānavaḥ sumahābalaḥ 
+nihato vāsudevena gavāṃ trāṇāya durmatiḥ ।।

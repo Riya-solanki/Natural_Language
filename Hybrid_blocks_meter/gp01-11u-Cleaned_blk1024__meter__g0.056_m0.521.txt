@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1024 | label: meter | g:0.056 m:0.521 ---
+
+mayā yatnād etad drava-madhuram ārād upahṛtam
+jananyā rāmasya prayatana-yujā sādhitam idam ।
+bhavan-mātrā cāsya svadana-vidhaye datta-śapathaṃ
+muhuḥ sandiṣṭaṃ tan nikhilam upayuṅkṣva trayam api ।। [śikhariṇī]

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1320 | label: meter | g:0.306 m:0.5 ---
+
+atha vihagapaterayaṃ vimokṣānmuditamatirbahudhā vadan priyāṇi ।
+tvadabhiṃgama iti nyayojayanmāṃ viphalaguruḥ kila mā mama śramo bhūt ।।

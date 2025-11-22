@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 376 | label: grammar | g:0.646 m:0.5 ---
+
+sa tasyā hitārthaṃ madhurāṇy api vacanakusumāni tṛṇam ivāvadhūya sapragalbhatayā samavalambitavikatthāśobhaṃ kiṃ cid īdṛśaṃ pratyāha ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2490 | label: meter | g:0.194 m:0.75 ---
+
+tena śabdena saṃkṣubdhaṃ tatsarpabhavanaṃ mahat 
+uttiṣṭhad udakāt sarpo roṣaparyākulekṣaṇaḥ ।।

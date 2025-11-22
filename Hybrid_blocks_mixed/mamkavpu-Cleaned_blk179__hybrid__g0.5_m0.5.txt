@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 179 | label: hybrid | g:0.5 m:0.5 ---
+
+rāma evāyam ayameva rāma iti {na rāmo ayam} ityauttarakālike bādhe rāmo ayam iti rāmaḥ syādvā na vāyam iti rāmasadṛśyo ayam iti ca samyaṅmithyāsaṃśayasādṛśyapratītibhyo vilakṣaṇayā citraturagādinyāyena rāmo ayamiti pratipattyā grāhye naṭe

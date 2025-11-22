@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 282 | label: hybrid | g:0.465 m:0.5 ---
+
+yo tu pratītyasamutpādu anudbhavāye imu prajña akṣayata budhyati bodhisattvo 
+so sūrya abhrapaṭale yatha muktaraśmī vidhamitvavidyapaṭalaṃ bhavate svayaṃbhūḥ ।।

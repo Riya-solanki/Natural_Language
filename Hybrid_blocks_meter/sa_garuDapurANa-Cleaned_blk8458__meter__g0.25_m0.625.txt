@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8458 | label: meter | g:0.25 m:0.625 ---
+
+ahanyahani vai preto yojanānāṃ śatadvayam ।
+catvāriṃśattathā sapta ahorātreṇa gacchati ।।

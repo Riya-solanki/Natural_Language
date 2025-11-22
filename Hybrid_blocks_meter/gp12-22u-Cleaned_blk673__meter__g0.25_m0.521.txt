@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 673 | label: meter | g:0.25 m:0.521 ---
+
+gaṇḍaṃ cumbasi kuṇḍala-stham akari tvaṃ tasya vaṃsi tvam apy
+āsyaṃ prekṣi tathāṅgam aṅgam asakṛn māle tvam āliṅgasi ।
+tad yuktaṃ yad atīta-sarva-vidhikā yūyaṃ, vayaṃ tu sphuṭaṃ
+hā tat-tad-vidhi-bhāg-vicāra-hatakenābhīpsitād vañcitāḥ ।। [śārdūla]

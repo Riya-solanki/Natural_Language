@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 386 | label: meter | g:0.25 m:0.5 ---
+
+duḥkhottarāḥ smṛtā hy ete sarve cādharmalakṣaṇāḥ 
+naiṣāṃ bhāryāsti putro vā te sarve hy ūrdhvaretasaḥ ।।

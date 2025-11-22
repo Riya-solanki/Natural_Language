@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 963 | label: meter | g:0.328 m:0.595 ---
+
+yogaśāyinamārabhya yāvat keśavadarśanam ।
+etat kṣetraṃ hareḥ puṇyaṃ nāmnā vārāṇasī purī ।।

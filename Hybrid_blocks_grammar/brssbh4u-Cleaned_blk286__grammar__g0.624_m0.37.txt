@@ -1,0 +1,9 @@
+--- source: brssbh4u-Cleaned.txt | block: 286 | label: grammar | g:0.624 m:0.37 ---
+
+sthitam etat asvena rūpeṇa' iti atra ātmamātrarūpeṇa abhiniṣpadyata na āgantukena apararūpeṇa iti ।
+adhunā tu tat viśeṣabubhutsāyām abhidhīyate svam asya rūpaṃ brāhmam apahatapāpmatvādi satyasaṃkalpatva avasānaṃ tathā sarvajñatvaṃ sarveśvaratvaṃ ca tena svarūpeṇa abhiniṣpadyata iti jaiminiḥ ācāryo manyate ।
+kutaḥ - upanyāsādibhyaḥ tathātva avagamāt ।
+tathā hi - aya ātmāpahatapāpmā' ityādinā asatyakāmaḥ satyasaṃkalpaḥ' iti evam antena upanyāsena evam ātmakatām ātmano bodhayati ।
+tathā asa tatra paryeti jakṣankrīḍanramamāṇaḥ' iti aiśvaryarūpam āvedayati ।
+atasya sarveṣu lokeṣu kāmacāro bhavati' iti ca ।
+asarvajñaḥ sarveśvaraḥ' ityādi vyapadeśāḥ ca evam upapannā bhaviṣyanti iti ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 482 | label: meter | g:0.25 m:0.5 ---
+
+yaḥ kāraṇaṃ ca kāryaṃ ca kāraṇasyāpi kāraṇam 
+kāryasyāpi ca yaḥ kāryaṃ prasīdatu sa no hariḥ ।।

@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 367 | label: grammar | g:0.611 m:0.312 ---
+
+atha vaṅgayogena bījamāha vaṅgamityādi ।।
+tena pūrvoktena vidhinā vidhānena tu punaḥ hemavare pūrvavarṇite vaṅgaṃ kṣepya tālavāpena haritālanikṣepeṇa nirvyūḍhaṃ kuryāt vā tāre āvartye vaṅgaṃ nikṣipya nirvyūḍhaṃ nirvāhitaṃ sadbījavaraṃ bhavet ।।
+kasmāt truṭitasaṃyogāt truṭitaṃ bhavati tathā bījavaramiti vaṅgabījaṃ tat pūrvavat dravati jarati ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 372 | label: meter | g:0.194 m:0.625 ---
+
+kāmātiśayasampannaḥ koṭayo nava sapta ca 
+sāvitrī mūrtimatyāste yatra vedāśca sānugāḥ ।।

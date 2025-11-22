@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 245 | label: meter | g:0.281 m:0.742 ---
+
+atha helā-
+nānā-vikāraiḥ suvyaktaḥ śṛṅgārākṛti-sūcakaiḥ ।
+hāva eva bhaved dhelā lalitābhinayātmikā ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1525 | label: meter | g:0.084 m:0.713 ---
+
+{yatraitā laharīcalācaladṛśo vyāpārayanti bhruvaṃ
+yat tatraiva patanti saṃtatamamī marmaspṛśo mārgaṇāḥ ।
+taccakrīkṛtacāpamañcitaśarapreṅkhatkaraḥ krodhano
+dhāvatyagrata eva śāsanadharaḥ satyaṃ sadāsāṃ smaraḥ ।।}

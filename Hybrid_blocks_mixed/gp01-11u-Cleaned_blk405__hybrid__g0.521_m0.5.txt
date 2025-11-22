@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 405 | label: hybrid | g:0.521 m:0.5 ---
+
+[] tad evaṃ sampravadamānayor udbhavan deva-dundubhi-nādaḥ sarvam aticakrām ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1341 | label: meter | g:0.306 m:0.5 ---
+
+sahasradhā tataśchidya datto yuṣmākameva hi ।
+tataḥ savyo bhujo rājñā dattaś chinno apyasau mayā ।।

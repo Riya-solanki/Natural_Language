@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4817 | label: meter | g:0.25 m:0.5 ---
+
+cakarṣa padbhyāṃ ca tadā ṛjutvaṃ keśavo anayat 
+tataḥ sā ṛjutāṃ prāptā yoṣitām abhavad varā ।।

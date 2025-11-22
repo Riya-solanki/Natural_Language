@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11182 | label: hybrid | g:0.5 m:0.5 ---
+
+kāñcīkṣetre varadarājasya sevā sudurlabhā darśanaṃ caiva loke ।
+sudurlabhaṃ darśanaṃ rāmasetoḥ sudurlabhā madhvaśāstre ca śaktiḥ ।।

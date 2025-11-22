@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 958 | label: grammar | g:0.552 m:0.5 ---
+
+citācakraṃ candraḥ kusumadhanuṣo dagdhavapuṣaḥ kalaṅkas tatratyo vahati malināṅgāratulanām ।
+idaṃ tv asya jyotir daradalitakarpūradhavalaṃ marudbhir bhasmeva prasarati vikīrṇaṃ diśi diśi ।।

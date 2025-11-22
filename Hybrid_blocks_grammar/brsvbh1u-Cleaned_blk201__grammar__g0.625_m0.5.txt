@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 201 | label: grammar | g:0.625 m:0.5 ---
+
+-sākṣātkārasya brahmaṇo bhinnatve brahma jaḍaṃ syāt śabdaśca parokṣapramāheturiti kevalabhāvanādheyaḥ sākṣātkāro apramā syāditi bhāvaḥ ।

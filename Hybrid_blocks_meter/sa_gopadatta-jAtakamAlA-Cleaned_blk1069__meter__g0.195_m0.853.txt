@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1069 | label: meter | g:0.195 m:0.853 ---
+
+saṃprāptās tāḥ śmaśānaṃ nararudhiravasāvisragandhāndhagṛdhraṃ
+vyāluptāntrodarārdrair aratibhayakaraiḥ saṃniruddhaṃ śavāṅgaiḥ ।
+kundāpītāvadātair hasad iva satataṃ jarjarāṅgaiḥ kapālair
+jīrṇanyagrodharandhravyavahitavividholūkahūṅkārabhīmam ।।

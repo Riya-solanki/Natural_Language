@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2111 | label: meter | g:0.306 m:0.5 ---
+
+sā eva hṛdi sūryā tu mūrdhni padmadhvajīkṛtā ।
+parivartya ca hāsā tu sthitā padmāṭṭahāsinī ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1791 | label: meter | g:0.194 m:0.5 ---
+
+vistāra eṣa kathitaḥ pṛthivyā bhavato mayā 
+saptatis tu sahasrāṇi dvijocchrāyo api kathyate ।।

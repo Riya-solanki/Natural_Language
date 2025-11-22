@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3416 | label: grammar | g:0.75 m:0.5 ---
+
+tasya cāputrasyātinirvedān munīnām āśramamaṇḍale nivasataḥ kṛpālubhis tair munibhir apatyotpādanāya iṣṭiḥ kṛtā । tasyāṃ ca madhyarātrinivṛttāyāṃ mantrapūtajalapūrṇaṃ kalaśaṃ vedimadhye niveśya te munayaḥ suṣupuḥ ।।

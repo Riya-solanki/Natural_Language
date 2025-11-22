@@ -1,0 +1,8 @@
+--- source: visa01cu-Cleaned.txt | block: 170 | label: meter | g:0.256 m:0.88 ---
+
+vastumātrasya vyaṅgyatva iti ।
+mama śayyāyāmāgamiṣyasītyevaṃ vastumātrasya ityarthaḥ ।
+rasābhāseti ।
+upanāyakaviṣayatvādābhāsaḥ ।
+vyaṅgyāntarasattve api rasaparyyavasāna eva kāvyatvam ।
+tathātvābhāve kāvyatvasvīkāre tvativyāptirityāhaanyatheti ।

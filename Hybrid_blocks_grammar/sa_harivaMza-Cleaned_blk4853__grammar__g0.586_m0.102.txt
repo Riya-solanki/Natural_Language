@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4853 | label: grammar | g:0.586 m:0.102 ---
+
+niścayaṃ nādhyagacchanta te girivrajavahnayaḥ 
+prāvartayaṃś ca saṃgrāmaṃ tais tribhiḥ saha yādavaiḥ ।। 
+teṣāṃ yuddhe prasaktānāṃ saṃnādaḥ sumahān abhūt ।। taṃ ca śrutvā mahānādaṃ siṃhānām iva garjatām । athāṅgirāḥ svapuruṣaṃ preṣayām āsa buddhimān । yatra tad vartate yuddhaṃ tatra gacchasva māciram । 
+athājñaptas tu bāṇena puruṣo vai manojavaḥ 
+dṛṣṭvā tat sarvam āgacche tyuktaḥ prahvas tatas tvaran ।।

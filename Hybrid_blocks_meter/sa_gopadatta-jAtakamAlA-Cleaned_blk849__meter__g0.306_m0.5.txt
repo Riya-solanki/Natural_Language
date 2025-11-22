@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 849 | label: meter | g:0.306 m:0.5 ---
+
+iti tenoditaṃ śrutvā dṛṣṭvāparas tam abravīt ।
+aho bata mahān mitra pāparāśir ayaṃ nv iti ।।

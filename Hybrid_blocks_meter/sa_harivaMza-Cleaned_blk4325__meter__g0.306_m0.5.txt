@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4325 | label: meter | g:0.306 m:0.5 ---
+
+na pramātuṃ mahābāhuḥ śakyo ayaṃ madhusūdanaḥ 
+pramāṇaṃ hy atra vicchinnaṃ pramāṇaṃ sarvavastuṣu । 
+yato ayaṃ devadeveśo na pramāṇe pramā bhavet । 
+paraṃ hy aparam etasmād viśvarūpān na vidyate ।।

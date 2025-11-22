@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 239 | label: meter | g:0.25 m:1.0 ---
+
+dūrāntikatayārthānāṃ parokṣādhyakṣatātmanā ।
+bāhyāntaratayā doṣair vyañjakasyānyathāpi vā ।।

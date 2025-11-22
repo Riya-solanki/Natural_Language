@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 262 | label: hybrid | g:0.25 m:0.411 ---
+
+anaikantikatvaṃ dvividham- savyabhicāraṃ sapratisādhanaṃ ca ।
+nityaḥ śabdo mūrtatvāditi karmādiṣvanityeṣvapyamūrtatvasya saṃbhavādvyabhicāryamūrtatvam ।
+apratyakṣo vāyurdravyatve satyarūpatvāt pratyakṣo vāyurmahattve sati sparśavattvāditi saṃpratisādhanatvādubhayamapyanirṇāyakaṃ saṃdhayahetuḥ, agṛhyamāṇabalābalatvādubhayoḥ ।।

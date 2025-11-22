@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 240 | label: meter | g:0.25 m:0.75 ---
+
+tadīśvareśvareśāna vibho varddhasva bhāvana ।
+prabhavāyāsya viśvasya viśvātman pṛthulocana ।।

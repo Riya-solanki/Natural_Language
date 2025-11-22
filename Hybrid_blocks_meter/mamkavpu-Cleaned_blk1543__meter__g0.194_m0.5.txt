@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1543 | label: meter | g:0.194 m:0.5 ---
+
+{jitendriyatvaṃ vinayasya kāraṇaṃ guṇaprakarṣo vinayādavāpyate ।
+guṇaprakarṣeṇa jano anurajyate janānurāgaprabhavā hi saṃpadaḥ ।।}

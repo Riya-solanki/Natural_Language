@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1133 | label: grammar | g:0.604 m:0.5 ---
+
+aśoke śokārtaḥ kim asi bakule apy ākulamanā nirānandaḥ kunde saha ca sahakārair na ramase ।
+kusumbhe viśrambhaṃ yad iha bhajase kaṇṭakaśatair asaṃdigdhaṃ dagdhabhramara bhavitāsi kṣatavapuḥ ।।

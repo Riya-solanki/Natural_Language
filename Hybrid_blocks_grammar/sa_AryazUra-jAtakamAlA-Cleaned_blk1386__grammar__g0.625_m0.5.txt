@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1386 | label: grammar | g:0.625 m:0.5 ---
+
+athāsya sarabhasabhaṣitamativivṛtavadanamabhidravantaṃ vallabhaṃ śvānaṃ tatrāgatamabhipradarśayan punaruvāca - ayaṃ cātra mahārāja amānuṣaḥ sākṣinirdeśo dṛśyatām ।

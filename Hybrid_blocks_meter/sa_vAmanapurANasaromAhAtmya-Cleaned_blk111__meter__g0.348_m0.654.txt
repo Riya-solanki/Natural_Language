@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 111 | label: meter | g:0.348 m:0.654 ---
+
+devā ūcuḥ
+niḥśreyasārthaṃ sarveṣāṃ daivatānāṃ maheśvara ।
+trātā bhartā ca dātā ca śaraṇaṃ bhava naḥ sadā ।।

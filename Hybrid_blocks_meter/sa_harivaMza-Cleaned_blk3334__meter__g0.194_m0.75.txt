@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3334 | label: meter | g:0.194 m:0.75 ---
+
+śalākānakhapātaiś ca pādoddhūtaiś ca dāruṇaiḥ 
+jānubhiś cāsmanirghoṣaiḥ śirobhiś cāvaghaṭṭitaiḥ ।।

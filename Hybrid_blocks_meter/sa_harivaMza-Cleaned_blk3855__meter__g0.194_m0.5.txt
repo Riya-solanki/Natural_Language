@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3855 | label: meter | g:0.194 m:0.5 ---
+
+rukmiṇī tv abhavad rājan rūpeṇāsadṛśī bhuvi 
+cakame vāsudevas tāṃ śravād eva mahādyutiḥ ।।

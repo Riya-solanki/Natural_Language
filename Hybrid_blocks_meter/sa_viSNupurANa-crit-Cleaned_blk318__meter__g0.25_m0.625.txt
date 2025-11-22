@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 318 | label: meter | g:0.25 m:0.625 ---
+
+svargāpavargau mānuṣyāt prāpnuvanti narā mune 
+yad vābhirucitaṃ sthānaṃ tad yānti manujā dvija ।।

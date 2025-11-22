@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 314 | label: meter | g:0.145 m:0.802 ---
+
+yathā-
+sītāṃ sva-hastena vane vimoktuṃ
+śrotuṃ ca tasyāḥ paridevitāni ।
+sukhena laṅkā-samare mṛtaṃ mām
+ajīvayan mārutir ātta-vairaḥ ।।

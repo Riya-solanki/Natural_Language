@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1115 | label: meter | g:0.25 m:0.555 ---
+
+ātmānaṃ rathinaṃ viddhi śarīraṃ rathameva tu ।
+buddhiṃ ca sārathiṃ viddhi manaḥ pragrahameva ca ।
+indriyāṇi hayānāhurviṣayāsteṣu gocarāḥ ।।

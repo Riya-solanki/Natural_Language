@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 198 | label: hybrid | g:0.486 m:0.5 ---
+
+iṣvastraśikṣita yathā puruṣodha kāṇḍaṃ kṣepitva anya puna kāṇḍa paraspareṇa 
+patanāya tasya purimasya na deya bhūmim ākāṅkṣamāṇa puruṣasya pateya kāṇḍam ।।

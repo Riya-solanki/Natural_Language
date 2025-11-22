@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3116 | label: hybrid | g:0.51 m:0.5 ---
+
+sa bandhuryo hite yuktaḥ sa pitā yastu poṣakaḥ ।
+tanmitraṃ yatra viśvāsaḥ sa deśo yatra jīvyate ।।

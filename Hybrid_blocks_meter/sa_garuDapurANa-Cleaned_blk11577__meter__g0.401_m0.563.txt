@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11577 | label: meter | g:0.401 m:0.563 ---
+
+jaigīṣvya uvāca ।
+śṛṇuṣva bhadre veṅkaṭe śasya nāmnastvarthaṃ śrutvā hṛdaye saṃnidhatsva ।।

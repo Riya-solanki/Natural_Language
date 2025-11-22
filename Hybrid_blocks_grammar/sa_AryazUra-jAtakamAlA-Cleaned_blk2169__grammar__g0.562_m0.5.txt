@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2169 | label: grammar | g:0.562 m:0.5 ---
+
+dharmaśca rakṣati naraṃ na dhanaṃ balaṃ vā dharmaḥ sukhāya mahate na vibhutisiddhiḥ ।
+dharmātmanaśca mudameva karoti mṛtyurna hyasti durgatibhayaṃ niratasya dharme ।।

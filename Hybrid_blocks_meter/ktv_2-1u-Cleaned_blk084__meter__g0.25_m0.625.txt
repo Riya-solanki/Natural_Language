@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 84 | label: meter | g:0.25 m:0.625 ---
+
+bhāvanā gamyamānā ca dhātupratyayasaṃnidhau ।
+kasya vācyeti vispaṣṭaṃ na kadācit pratīyate ।।

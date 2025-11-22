@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3064 | label: meter | g:0.306 m:0.5 ---
+
+dānaṃ kaliyuge dharmaḥ kartāraṃ ca kalau tyajet ।
+pāpakṛtyaṃ tu tatraiva śāpaṃ phalati varṣataḥ ।।

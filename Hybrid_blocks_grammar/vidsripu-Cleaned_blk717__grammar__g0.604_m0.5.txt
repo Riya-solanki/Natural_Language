@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 717 | label: grammar | g:0.604 m:0.5 ---
+
+kiyanmātraṃ gotraskhalitam aparādhaś caraṇayoś ciraṃ loṭhaty eṣa grahavati na mānād viramasi ।
+ruṣaṃ muñcāmuñca priyam anugṛhāṇāyatihitaṃ śṛṇu tvaṃ yad brūmaḥ priyasakhi nakhaṃ mā kuru nadīm ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1163 | label: meter | g:0.316 m:0.5 ---
+
+yasyā [ya]syāstu mudrāyā yadyatpārśvaṃ ca karmaṇaḥ ।
+tatra tatra tu vai veṣṭya tāṃ tāṃ mudrāṃ prayojayet ।।

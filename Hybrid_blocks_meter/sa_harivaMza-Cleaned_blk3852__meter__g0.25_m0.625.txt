@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3852 | label: meter | g:0.25 m:0.625 ---
+
+tasyānvavāye bhīmasya vṛṣṇayo jajñire nṛpa 
+krathasya tv aṃśumāṇ vaṃśe kaiśikasya tu bhīṣmakaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 719 | label: grammar | g:0.583 m:0.5 ---
+
+viśvavajrasamo ahaṃ hi vajravācā sakṛdvadan । dvayendriyasamāpattyā sarvakarma sa sādhayed ।। ।।

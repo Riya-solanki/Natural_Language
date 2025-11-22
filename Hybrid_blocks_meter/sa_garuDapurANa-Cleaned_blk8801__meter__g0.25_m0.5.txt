@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8801 | label: meter | g:0.25 m:0.5 ---
+
+prāpayanti vaśaṃ mṛtyostato yāti ca yātanām ।
+svakarmāṇi parityajya mukhyavṛttāni yāni ca ।।

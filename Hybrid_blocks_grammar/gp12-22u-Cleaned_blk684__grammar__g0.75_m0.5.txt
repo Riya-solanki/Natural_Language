@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 684 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad api ca yad api pūrva-pūrva-saṃvatsareṣu dṛṣṭam ity apūrva-dṛṣṭaṃ na bhavati, tathāpi samprati prauḍhatāprakāśataḥ śatamanyuṃ prati manyuṃ janayan janakādiṣu praṇaya-kopaṃ jñāpayann ajñānata iva jijñāsāñcakre । yadyapi śataparva-pāṇir evaṃ garvāyate, ete gopālana-kārakāḥ ke varākāḥ? nikhila-loka-lokapāla-pālakasya mama dakṣa-mukhyāḥ prajāpatayaḥ svīya-manvantara-pati-prabhṛtayaḥ pṛthivī-patayaḥ kamalajanma-janma-pradhānā munīśānā yajamānā virājantetarām iti, tathāpy ete mat-pitṛ-puraḥ-sarās tatra bhaktim atiriktīkurvanti iti ।

@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 14 | label: meter | g:0.346 m:0.515 ---
+
+tathāhi- vasante brāhmaṇamupanayīta, grīṣme rājanyaṃ, śaradivaiśyam' iti dvitīyānirdeśādupanayanasaṃskṛtāstraivarṇikāḥ kimasmābhiḥ kartavyamityapekṣante ।
+tatsaṃnidhau cādhyayanamanirdiṣṭakartṛkaṃ vidhīyamānaṃ kartāramapekṣate ।

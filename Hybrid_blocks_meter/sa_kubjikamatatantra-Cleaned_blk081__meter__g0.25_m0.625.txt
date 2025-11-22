@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 81 | label: meter | g:0.25 m:0.625 ---
+
+rudrabhairavavīrāṇām eṣā cājñā na kasyacit 
+yadi śiṣyaṃ na manyetha mitratvena tadā dada ।।

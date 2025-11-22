@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7875 | label: meter | g:0.25 m:0.625 ---
+
+snānamātreṇa yatrāśu mucyate karmabandhanāt ।
+anyānyapi ca tīrthāni kṛtāni kṛpayā tava ।।

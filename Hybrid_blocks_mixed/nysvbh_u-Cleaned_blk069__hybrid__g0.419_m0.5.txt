@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 69 | label: hybrid | g:0.419 m:0.5 ---
+
+pūrvavaditiyatra kāraṇena kāryamanumīyate, yathā medhonnatyā bhaviṣyati vṛṣṭiriti।
+śeṣavattatyatra kāryeṇa kāraṇamanumīyate, pūrvodakaviparītamudakaṃ nādyāḥ pūrṇatvaṃ śīghratvaṃ dṛṣṭhvā strotaso anumīyate bhūtā vṛṣṭiriti।
+sāmānyatodṛṣṭaṃvrajyāpūrvakamanyatra dṛṣṭasyānyatra darśanamiti, tathā cādityasya, tasmāt astyapratyakṣāpyādityasya vrajyeti।।

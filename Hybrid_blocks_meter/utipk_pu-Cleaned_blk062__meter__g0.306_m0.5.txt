@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 62 | label: meter | g:0.306 m:0.5 ---
+
+yā ca paśyāmy aham imaṃ ghaṭo ayam iti vāvasā ।
+manyate samavetaṃ sāpy avasātari darśanam ।।

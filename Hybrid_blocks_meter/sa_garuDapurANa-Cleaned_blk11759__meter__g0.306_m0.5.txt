@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11759 | label: meter | g:0.306 m:0.5 ---
+
+snānaṃ yaḥ kurute hyatra sa yāti paramāṃ gatim ।
+atra snānaṃ manuṣyāṇāṃ sarveṣāṃ durlabhaṃ kalau ।।

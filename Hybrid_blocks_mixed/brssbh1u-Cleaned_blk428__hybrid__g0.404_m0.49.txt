@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 428 | label: hybrid | g:0.404 m:0.49 ---
+
+prakaraṇaṃ cedaṃ paramātmanaḥ ।
+akasminnu bhagavo vijñāte sarvamidaṃ vijñātaṃ bhavati' ityekavijñānena sarvavijñānāpekṣaṇāt ।
+paramātmani hi sarvātmake vijñāte sarvamidaṃ vijñātaṃ syānna kevale prāṇabhṛti ।।

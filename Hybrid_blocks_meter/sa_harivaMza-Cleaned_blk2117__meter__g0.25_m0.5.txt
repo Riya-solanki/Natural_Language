@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2117 | label: meter | g:0.25 m:0.5 ---
+
+kṛtakāryo hi gās tās tu nānujānāti me guruḥ 
+anvavartata bhārye dve aditiṃ surabhiṃ tathā ।।

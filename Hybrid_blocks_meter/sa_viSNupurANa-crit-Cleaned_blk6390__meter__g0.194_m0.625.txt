@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6390 | label: meter | g:0.194 m:0.625 ---
+
+yathāgnir uddhataśikhaḥ kakṣaṃ dahati sānilaḥ 
+tathā cittasthito viṣṇur yogināṃ sarvakilbiṣam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8640 | label: meter | g:0.302 m:0.806 ---
+
+śrutismṛtipurāṇeṣu dharmaśāstrasamudbhave ।
+abhāvo jāyate dharme sā pīḍā pretasambhavā ।।

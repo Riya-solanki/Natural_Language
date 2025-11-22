@@ -1,0 +1,4 @@
+--- source: sa_yAmuna-catuHzlokI-Cleaned.txt | block: 3 | label: grammar | g:0.667 m:0.5 ---
+
+yasyās te mahimānam ātmana iva tvadvallabho api prabhur nālaṃ mātum iyattayā niravadhiṃ nityānukūlaṃ svataḥ ।
+tām tvāṃ dāsa iti, prapanna iti ca stoṣyāmy ahaṃ nirbhayo lokaikeśvari lokanāthadayite dānte dayāṃ te vidan ।।

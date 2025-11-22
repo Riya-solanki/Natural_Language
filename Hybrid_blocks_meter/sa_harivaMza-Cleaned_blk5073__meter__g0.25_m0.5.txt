@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5073 | label: meter | g:0.25 m:0.5 ---
+
+prāptā vayaṃ hi taṃ kālam anayā dharmatṛṣṇayā 
+prāptā vayaṃ ca dharmaṃ svaṃ sukham alpena karmaṇā ।।

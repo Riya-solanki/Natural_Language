@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2634 | label: meter | g:0.194 m:0.625 ---
+
+priyakaiḥ puṣpitair gauraṃ śyāmaṃ bāṇavanaiḥ kvacit 
+kaṭhoratṛṇam ābhāti nirmayūrarutaṃ vanam ।।

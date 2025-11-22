@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2526 | label: meter | g:0.306 m:0.5 ---
+
+manoḥ putraḥ priyo bhrātā ikṣvākoḥ kathitaṃ tava ।
+sa cāsmai pūrvacaritaṃ sarvaṃ kathitavān nṛpaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3066 | label: meter | g:0.25 m:0.5 ---
+
+vrajasva śaraṇaṃ mātureṣa śreyaskarī tava ।
+ityukto vibhunā nandī andhakaśca gaṇeśvaraḥ ।।

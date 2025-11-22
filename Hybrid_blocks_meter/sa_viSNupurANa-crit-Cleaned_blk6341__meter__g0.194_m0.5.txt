@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6341 | label: meter | g:0.194 m:0.5 ---
+
+ātmabhāvaṃ nayaty enaṃ tad brahmadhyāyinaṃ mune 
+vikāryam ātmanaḥ śaktyā loham ākarṣako yathā ।।

@@ -1,0 +1,13 @@
+--- source: nysvbh_u-Cleaned.txt | block: 825 | label: meter | g:0.02 m:0.908 ---
+
+sarvāsaṃ vyaktiṣu
+upacayāpacayaprabandhaḥ śarīravaditi nāyaṃ niyamaḥ,
+kasmāt ?, hetvabhāvāt nātra pratyakṣamanumānaṃ vā pratipādakamastīti,
+tasmād yathādarśanamabhyanujñā ।
+yatra yatropacayāpacayaprabandho dṛśyate tatra tatra
+vyaktīnām aparāparotpattirupacayāpacayaprabandhadarśanenābhyanujñāyate
+yathā śarīrādiṣu yatra yatra na dṛśyate tatra
+tatra pratyākhyāyate yathā grāvaprabhṛtiṣu, sphaṭikepyupacayāpacayaprabandho
+na dṛśyate tasmādayuktam asphaṭike apy aparāparotpattiḥ'
+iti, yathā cārkasya kaṭukimnā sarvadravyāṇāṃ
+kaṭukimānamāpadayet tādṛgetaditi ।।

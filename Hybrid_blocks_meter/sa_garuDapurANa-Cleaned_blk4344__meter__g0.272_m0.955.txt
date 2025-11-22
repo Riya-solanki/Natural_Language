@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4344 | label: meter | g:0.272 m:0.955 ---
+
+śrīgaruḍamahāpurāṇam- ।
+dhanvantarirudāca ।
+arocakanidānte vakṣye ahaṃ suśrutādhunā ।
+arocako bhaveddoṣairjihvāhṛdayasaṃśrayaiḥ ।।

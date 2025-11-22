@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3210 | label: meter | g:0.328 m:0.595 ---
+
+ādityā vasavo rudrāḥ sādhyā viśve aśvinau tathā ।
+vidyādharā guhyakāśca yakṣarākṣasapannagāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 324 | label: meter | g:0.194 m:0.75 ---
+
+sādhanāni punas teṣāṃ sadyaḥpratyayakārakāḥ 
+kliṣyanti manujātyantaṃ japahomaparāyaṇāḥ ।।

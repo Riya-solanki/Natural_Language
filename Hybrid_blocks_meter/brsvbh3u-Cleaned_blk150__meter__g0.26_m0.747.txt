@@ -1,0 +1,7 @@
+--- source: brsvbh3u-Cleaned.txt | block: 150 | label: meter | g:0.26 m:0.747 ---
+
+saṃjñātaś cet tad uktam asti tu tad api ।
+sphuṭatare bhedāvagame saṃjñaikatvaṃ nābhedasādhanamatiprasaṅgapātāt ।
+apica śrutyakṣarālocanayāṃ bhedapratyayo antaraṅgaścānapekṣaśca ।
+saṃjñaikatvaṃ tu śrutibāhyatayā bahiraṅgaṃ ca pauruṣeyatayā sāpekṣaṃ ca ।
+tasmādurbalaṃ nāmedasādhanāyālamiti ।।

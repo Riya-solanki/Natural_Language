@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 34 | label: meter | g:0.25 m:0.5 ---
+
+pradakṣiṇāsahasraṃ ca yāvat kuryāt pramoditaḥ ।
+rātriṃ divā susaṃpūrṇaṃ pracarec ca pradakṣiṇām ।।

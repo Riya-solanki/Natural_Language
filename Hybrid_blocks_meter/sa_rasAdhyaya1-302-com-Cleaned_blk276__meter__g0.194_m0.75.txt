@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 276 | label: meter | g:0.194 m:0.75 ---
+
+kākamācī mahārāṣṭrī haridrā tilaparṇikā 
+śvetārkau śigrudhattūramṛgadūrvā harītakī ।।

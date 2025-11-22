@@ -1,0 +1,5 @@
+--- source: brsgor3u-Cleaned.txt | block: 128 | label: hybrid | g:0.25 m:0.485 ---
+
+saṃbandhabhedau kalpitau na satyadvitīyasādhakāvityāha-sthāneti ।
+sthānamupādhibuddhyādiḥ ekasyaivopādhinā bhinnasyopādhiśāntau satyāṃ saṃbandha upacaryate ।
+yathā saurālokāderaṅgulyādyupādhinā bhinnasyopādhiviyoge mahālokādyātmanā saṃbandhopacārastadvat tathāditya cakṣuṣoḥ sthānayorbhedāddhiraṇmayapuruṣabhedakalpanetyarthaḥ ।।

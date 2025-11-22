@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 105 | label: meter | g:0.25 m:0.75 ---
+
+kandāduṭṭīkata iti kandāṭṭāderadeśyat ।
+itthaṃ niruktanirvāhā damaryādā praśasyate ।।

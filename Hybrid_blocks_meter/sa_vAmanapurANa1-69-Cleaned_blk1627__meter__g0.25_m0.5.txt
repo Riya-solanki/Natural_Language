@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1627 | label: meter | g:0.25 m:0.5 ---
+
+sīdastu daivateṣvevaṃ hutāso abhyetya śaṅkaram ।
+provāca muñca tejastvaṃ pratīcchāmyeṣa śaṅkara ।।

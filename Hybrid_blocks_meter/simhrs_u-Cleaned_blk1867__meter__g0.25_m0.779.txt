@@ -1,0 +1,11 @@
+--- source: simhrs_u-Cleaned.txt | block: 1867 | label: meter | g:0.25 m:0.779 ---
+
+tatra viṣkambho bhūta-bhāvi-vastv-aṃśa-sūcakaḥ ।
+amukhya-pātra-racitaḥ saṅkṣepaika-prayojanaḥ ।। 
+sa śuddho miśra ity ukto miśraḥ syān nīca-madhyamaiḥ ।
+so' yaṃ ceṭī-naṭācārya-saṃlāpa-parikalpitaḥ ।। 
+mālavikāgnimitrasya prathamāṅke nirūpyatām ।
+śuddhaḥ kevala-madhyo' yam ekāneka-kṛto dvidhā ।। 
+ratnāvalyām eka-śuddhaḥ prāpta-yaugandharāyaṇaḥ ।
+aneka-śuddho viṣkambhaḥ ṣaṣṭhāṅke' nargha-rāghave । 
+nirūpyatāṃ samprayukto mālyavacchuka-sāraṇaiḥ ।।

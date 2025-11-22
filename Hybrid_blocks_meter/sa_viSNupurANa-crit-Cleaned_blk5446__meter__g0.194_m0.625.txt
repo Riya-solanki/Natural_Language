@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5446 | label: meter | g:0.194 m:0.625 ---
+
+taṃ śoṇitapure śrutvā nītaṃ vidyāvidagdhayā 
+yoṣitā pratyayaṃ jagmur yādavā nāmarair iti ।।

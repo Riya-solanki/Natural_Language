@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1525 | label: meter | g:0.25 m:0.583 ---
+
+maruto devagandharvā vidyādharagaṇaiḥ saha 
+cikrīḍur asibhiḥ śubhrair nirmuktair iva pannagaiḥ ।। 
+yakṣaiś ca sumahābhogaiḥ pannagair garuḍair api । 
+sṛjantaḥ sarpapatayas tīvraṃ roṣamayaṃ viṣam 
+śarabhūtāḥ surendrāṇāṃ cerur vyāttamukhā divi ।।

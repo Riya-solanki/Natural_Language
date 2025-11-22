@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1546 | label: grammar | g:0.594 m:0.5 ---
+
+no baddhaṃ śaradindudhāmadhavalaṃ pāṇau muhuḥ kaṅkaṇaṃ vrīḍāmantharakomalaṃ navavadhūvaktraṃ ca nāsvāditam ।
+nītaṃ naiva yaśaḥ surendrabhavanaṃ śastreṇa śāstreṇa vā kālo jīrṇamaṭheṣu dhṛṣṭapiśunaiś chātraiḥ saha preritaḥ ।।

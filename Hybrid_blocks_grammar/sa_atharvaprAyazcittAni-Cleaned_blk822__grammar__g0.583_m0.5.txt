@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 822 | label: grammar | g:0.583 m:0.5 ---
+
+vaḍavāṃ ced aśvo abhīyād agnaye aṃhomuce aṣṭākapālaṃ sauryaṃ payo vāyavyāv ājyabhāgau ।।

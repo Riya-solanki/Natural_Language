@@ -1,0 +1,7 @@
+--- source: tsc_simu-Cleaned.txt | block: 99 | label: grammar | g:0.7 m:0.378 ---
+
+vivekakhyātestvavidyānāśakatvameva na tu śuktirajatavivekadarśina iva punarbhramadarśanāt pratibandhakatvaṃ dṛṣṭānte paṭalakāmādidoṣabāhulyāt punarujjīvanaṃ bhramasya ।
+atra ca anātmanyātmābhimāne anādivāsanaiva doṣaḥ sarvāstikasaṃmataḥ jātamātrasyābhimāne doṣāntarānupalabdheḥ sā mithyājñānavāsanā yadā vivekakhyātiparamparājanyadṛḍhavāsanayonmūlitā tadaiva vivekasākṣātkāraniṣṭhocyate tatpūrvamavaśyaṃ vāsanāleśato mithyāṃśasya kasyāpyātmani bhānāt tasyāṃ ca vivekakhyātiniṣṭhāyāṃ jātāyāṃ na punarabhimānaḥ sambhavati vāsanākhyadoṣābhāvāditi ।
+yadi tu buddhipuruṣayoranyonyapratibimbanādikamavivekakāraṇaṃ doṣa iṣyate tadā tu taṃ doṣaṃ bādhitvaiva vivekasākṣātkāra udita iti na tasya punarbhramahetutvaṃ phalabalena yogajadharmāsahakṛtasyaiva tasya doṣatvakalpanāsambhavāditi ।
+yadyapi vivekapratiyogipadārthānāmāntyādviśeṣarūpeṇa vivekagraho na sambhavati tathāpi dṛśyatvapariṇāmitvādirūpaiḥ sāmānyavivekagrahasambhavāt prakṛtyādipadārthānāṃ viśiṣṭajñānābhāve api sāmānyato vivekakhyātermokṣahetutvam ।
+taduktam ।

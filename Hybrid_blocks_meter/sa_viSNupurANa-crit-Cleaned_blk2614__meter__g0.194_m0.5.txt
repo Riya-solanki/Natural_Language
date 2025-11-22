@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2614 | label: meter | g:0.194 m:0.5 ---
+
+brāhmaṃ pādmaṃ vaiṣṇavaṃ ca śaivaṃ bhāgavataṃ tathā 
+tathānyaṃ nāradīyaṃ ca mārkaṇḍeyaṃ ca saptamam ।।

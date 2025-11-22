@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1914 | label: meter | g:0.194 m:0.625 ---
+
+tau daityau kṛtanāmānau ceratur baladarpitau 
+sarvam ekārṇavaṃ lokaṃ yoddhukāmau sunirbhayau ।।

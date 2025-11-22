@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 157 | label: hybrid | g:0.521 m:0.5 ---
+
+śuktijñānam eva rajatajñānābhāvarūpaṃ sidhyati, tadānīntanaśuktijñānānubhavena na bhinnasyātītasya rūpyajñānasyāprāmāṇyam ।।

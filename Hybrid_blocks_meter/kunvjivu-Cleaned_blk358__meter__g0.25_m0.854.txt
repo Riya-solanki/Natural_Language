@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 358 | label: meter | g:0.25 m:0.854 ---
+
+samānavarṇamanyārthaṃ prasādi śrutipeśalam ।
+aucityayuktamādyādiniyatasthānaśobhi yat ।।
+yamakaṃ nāma ko apyasyāḥ prakāraḥ paridṛśyate ।
+sa tu śobhāntarābhāvādiha nātipratanyate ।।

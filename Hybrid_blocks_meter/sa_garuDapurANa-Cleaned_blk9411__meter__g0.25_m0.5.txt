@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9411 | label: meter | g:0.25 m:0.5 ---
+
+mṛtānāṃ kaḥ suto dadyāddvijeśayyāṃ satūlikām ।
+evaṃ jānannidaṃ sarvaṃ svahastenaiva dāpayet ।।

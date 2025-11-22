@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 55 | label: hybrid | g:0.489 m:0.415 ---
+
+indriyasyārthena sannikarṣādutpadyate yajjñānaṃ tat pratyakṣam।
+na tarhi idānīmidaṃ bhavati ātmā manasā saṃyujyate, mana indriyeṇa, indriyamartheneti? nedaṃ kāraṇāvadhāraṇametāvatpratyakṣe kāraṇamiti, kiṃ tu viśiṣṭakāraṇavacanamiti।
+yatpratyakṣajñānasya viśiṣṭakāraṇaṃ taducyate, yattu samānam anumānādijñānasya, na tannivartyata iti।।

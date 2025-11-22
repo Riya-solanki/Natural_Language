@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 124 | label: hybrid | g:0.508 m:0.461 ---
+
+jīyāsuḥ śakulākṛter bhagavataḥ pucchachaṭāchoṭanād udyantaḥ śatacandritāmbaratalaṃ te bindavaḥ saindhavāḥ ।
+yair vyāvṛtya patadbhir aurvaśikhinas tejojaṭālaṃ vapuḥ pānādhmānavaśād arocakarujaś cakre cirasyāspadam ।।
+rājaśekharasya

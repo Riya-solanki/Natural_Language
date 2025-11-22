@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1388 | label: meter | g:0.194 m:0.625 ---
+
+adyāpi ca hitārthāya lokānāṃ bhṛgunandanaḥ 
+caramāṇas tapo dīptaṃ jāmadagnyaḥ punaḥ punaḥ 
+tiṣṭhate devavac chrīmān mahendre parvatottame ।। 
+kṛṣṇājinottarīyaṃ ca jaṭāmakuṭamaṇḍalī । 
+eṣa viṣṇoḥ sureśasya śāśvatasyāvyayasya ca 
+jāmadagnya iti khyātaḥ prādurbhāvo mahātmanaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 74 | label: meter | g:0.25 m:0.5 ---
+
+unmūlān atha vṛkṣāṃs tān kṛtvā vāyur aśoṣayat 
+tān agnir adahad ghora evam āsīd drumakṣayaḥ ।।

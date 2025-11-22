@@ -1,0 +1,8 @@
+--- source: mamkpb_u-Cleaned.txt | block: 377 | label: meter | g:0.25 m:0.629 ---
+
+vinoktiḥ sā vinānyena yatrānyaḥ sanna netaraḥ ।
+kvacidaśobhanaḥ kvacicchobhanaḥ ।
+krameṇodāharaṇam arucirniśayā vinā śaśī śaśinā sāpi vinā mahattamaḥ ।
+ubhayena vinā manobhavasphuritaṃ naiva cakāsti kāminoḥ ।।
+mṛgalocanayā vinā vicitravyavahārapratibhāprabhāpragalbhaḥ ।
+amṛtadyutisundarāśayo ayaṃ suhṛdā tena vinā narendrasūnuḥ ।।

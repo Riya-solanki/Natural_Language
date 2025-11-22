@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 856 | label: meter | g:0.25 m:0.5 ---
+
+niravadhi ca nirāśrayaṃ ca yasya sthitamanivartitakautukaprapañcam ।
+prathama iva bhavān sa kūrmamūrtirjayati caturdaśalokavallikandaḥ ।।

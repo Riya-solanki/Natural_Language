@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 999 | label: meter | g:0.056 m:0.854 ---
+
+madhye rājñaḥ sadma tat-pārśvatas tad-
+bhrātṝṇāṃ tad-bāhyatas tat pareṣām ।
+yadvat premaṇy antaraṅgādi-rītir
+vāse' pi syād aucitī tadvad eva ।। [śālinī]

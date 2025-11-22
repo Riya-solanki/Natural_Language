@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2571 | label: grammar | g:0.625 m:0.5 ---
+
+apaśyaṃstīrthasalile snāyamānān narottamān । tataścitrāṅgadā dṛṣṭvā jaṭāmaṇḍaladhāriṇam। । surathaṃ hasatī prāha saṃrohatpulakā sakhīm ।।

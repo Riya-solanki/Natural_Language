@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9170 | label: meter | g:0.355 m:0.791 ---
+
+śrīgaruḍamahāpurāṇam- 
+tārkṣya uvāca ।
+kathamutpadyate janturbhūtagrāme caturvidhe ।
+tvacā raktaṃ tathā māṃsaṃ medo majjāsthi jīvitam ।।

@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 43 | label: grammar | g:0.583 m:0.5 ---
+
+arthuṣmā pitṛlālanaṃ viṭaghaṭāmelaḥ priyammanyatā tāruṇyaṃ nagare sthitis taralatā dhiḥ kāmaśāstraṃ prati ।
+saṅgītaṃ rajanī vidhur madhumadaḥ spardhā sapatnais tathā veśyānām anuraktavittaharaṇe kurvanti sāhāyakam ।।

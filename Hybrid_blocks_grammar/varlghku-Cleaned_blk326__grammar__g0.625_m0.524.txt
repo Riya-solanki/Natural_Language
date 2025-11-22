@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 326 | label: grammar | g:0.625 m:0.524 ---
+
+vraścabhrasjasṛjamṛjayajarājabhrājacchaśāṃ ṣaḥ ।।
+jhali padānte ca । rāṭ, rāḍ । rājaḥ ।। evaṃ vibhrāṭ, deveṭ, viśvasṛṭ ।। parāvupapade vrajeḥ kvip syāddīrghaśca padānte ṣatvamapi । parivrājau ।।

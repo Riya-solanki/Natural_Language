@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 109 | label: grammar | g:0.75 m:0.5 ---
+
+athāsmin viniḥsṛtamātre sarvatathāgatahṛdayebhyaḥ sa eva bhagavān vajradharaḥ prajñāśastrāṇi bhūtvā viniḥsṛtya, bhagavato vairocanasya hṛdaye praviṣṭvaikadhano vajrakośavigrahaḥ prādurbhūya, bhagavataḥ pāṇau pratiṣṭhitaḥ । atha tato vajrakośavigrahāt sarvalokadhātuparamāṇurajaḥsamāstathāgatavigrahā viniścaritvā, sarvatathāgataprajñājñānādīni sarvabuddharddhivikurvitāni kṛtvā, sumañjuśriyatvāt vajrasattvasamādheḥ sudṛḍhatvāccaikaghano mañjuśrīmahābodhisattvakāyaḥ saṃbhūya, bhagavato vairocanasya hṛdaye sthitvedamudānamudānayāmāsa ।।

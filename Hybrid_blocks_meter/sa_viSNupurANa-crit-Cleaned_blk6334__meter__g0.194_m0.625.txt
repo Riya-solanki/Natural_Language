@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6334 | label: meter | g:0.194 m:0.625 ---
+
+jalasya nāgnisaṃsargaḥ sthālīsaṅgāt tathāpi hi 
+śabdodrekādikān dharmāṃs tat karoti yathā mune ।।

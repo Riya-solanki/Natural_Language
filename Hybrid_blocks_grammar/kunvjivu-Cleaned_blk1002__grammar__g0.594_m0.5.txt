@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1002 | label: grammar | g:0.594 m:0.5 ---
+
+prāptaśrīreṣa kasmāt puranapi mayi te manthakhedaṃ vidadhyāt nidrāmapyasya pūrvāmanalasamanaso naiva saṃbhāvayāmi ।
+setuṃ badhnāti bhūyaḥ kimiti ca sakaladvīpanāthānuyātaḥ tvayyāyāte vikalpāniti dadhata ivābhāti kampaḥ payodheḥ ।।

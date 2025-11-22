@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 189 | label: meter | g:0.194 m:0.625 ---
+
+vedayajñamayaṃ rūpam aśeṣajagataḥ sthitau 
+sthitaḥ sthirātmā sarvātmā paramātmā prajāpatiḥ ।।

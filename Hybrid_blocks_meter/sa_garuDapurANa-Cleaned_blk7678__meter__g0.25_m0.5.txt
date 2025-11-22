@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7678 | label: meter | g:0.25 m:0.5 ---
+
+tatra tyājyāni vāsāṃsi keśaśmaśrunakhāni ca ।
+vipraḥ śudhyatyapaḥ spṛṣṭvā kṣattriyo vāhanaṃ tathā ।।

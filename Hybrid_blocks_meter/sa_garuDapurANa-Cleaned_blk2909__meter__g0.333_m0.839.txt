@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2909 | label: meter | g:0.333 m:0.839 ---
+
+śrāgaruḍamahāpurāṇam- 
+yājñavalkya uvāca ।
+vināyakopasṛṣṭasya lakṣaṇāni nibodhata ।
+svapne avagāhate atyarthaṃ jalaṃ muṇḍāṃśca paśyati ।।

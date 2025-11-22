@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 219 | label: meter | g:0.316 m:0.5 ---
+
+yathā dānena karṇo dayayā dilīpo nayena kāvyo vinayena rāmaḥ ।
+yadi prasiddhiṃ dadatāmamībhiḥ śrīsiṅgabhūpo nikhilaiḥ prasiddhaḥ ।।

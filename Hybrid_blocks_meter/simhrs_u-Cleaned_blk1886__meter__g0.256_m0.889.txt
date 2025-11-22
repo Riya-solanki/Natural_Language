@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 1886 | label: meter | g:0.256 m:0.889 ---
+
+atha aṅkāsyam-
+pūrvāṅkānte sampraviṣṭaiḥ pātrair bhāvy-aṅka-vastunaḥ । 
+sūcanaṃ tad-avicchityai yat tad aṅkāsyam īritam ।।
+yathā hi vīra-carite dvitīyāṅkāvasānake । 
+praviṣṭena sumantreṇa sūcitaṃ rāma-vigrahe ।।
+vasiṣṭha-viśvāmitrādi-samābhāṣaṇa-lakṣaṇam । 
+vastūttarāṅke pūrvārthāvicchedenaiva kalpitam ।।

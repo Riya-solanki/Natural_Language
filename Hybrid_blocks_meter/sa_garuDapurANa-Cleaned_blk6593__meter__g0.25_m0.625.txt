@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6593 | label: meter | g:0.25 m:0.625 ---
+
+brāhmaṇī kṣatriyā vaiśyā śūdrā caiva rajasvalā ।
+anyonyasparśanāttatra brāhmaṇī tu trirātrataḥ ।।

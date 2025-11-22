@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11895 | label: meter | g:0.25 m:0.5 ---
+
+tathaiva daṣṭvā picumandasya patraṃ sunartayitvā paramādareṇa ।
+yadā tadā yamadūtaiśca pāśairbaddhvābaddhvā tāḍyamānaśca samyak ।।

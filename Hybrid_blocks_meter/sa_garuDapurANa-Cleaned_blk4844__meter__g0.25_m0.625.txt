@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4844 | label: meter | g:0.25 m:0.625 ---
+
+vakrīkaroti vaktraṃ ca hyuccairhasitamīkṣitam ।
+tato asya kurute mṛdvīṃ vākśaktiṃ stabdhanetratām ।।

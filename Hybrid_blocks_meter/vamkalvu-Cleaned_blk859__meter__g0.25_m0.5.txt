@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 859 | label: meter | g:0.25 m:0.5 ---
+
+utprekṣāyā heturutprekṣāvayavaḥ । avayavaśabdo hyārambhakaṃ lakṣayati । yathā

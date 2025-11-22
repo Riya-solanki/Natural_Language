@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2619 | label: meter | g:0.25 m:0.5 ---
+
+tyajya sparśanam eteṣāṃ jinen mṛtyuṃ na saṃśayaḥ 
+eṣa mṛtyuñjayo yogo na bhūto na bhaviṣyati ।।

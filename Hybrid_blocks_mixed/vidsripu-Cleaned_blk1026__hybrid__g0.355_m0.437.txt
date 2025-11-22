@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1026 | label: hybrid | g:0.355 m:0.437 ---
+
+muṣitamuṣitālokās tārātuṣārakaṇatviṣaḥ savitur api ca prācīmūle milanti marīcayaḥ ।
+śrayati śithilacchāyābhogas taṭīm aparāmbudher jaṭharalavalīlāvaṇyācchacchavir mṛgalāñchanaḥ ।।
+śarvasya

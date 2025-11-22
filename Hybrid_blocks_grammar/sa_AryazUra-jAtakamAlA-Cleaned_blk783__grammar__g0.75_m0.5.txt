@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 783 | label: grammar | g:0.75 m:0.5 ---
+
+iti śrutārthaḥ sa rājā - apalakṣaṇā kilāsau, na ca me kulānurūpeti tasyāṃ vinivṛttābhilāṣo babhūva । anarthitāṃ tu vijñāya rājñaḥ sa gṛhapatistāṃ dārikāṃ tasyaiva rājño amātyāyābhipāragāya prāyacchat ।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 523 | label: meter | g:0.25 m:0.75 ---
+
+ekādaśānāṃ rudrāṇāṃ vāhanāni mahāmune ।
+gandharvāśca mahāvīryā bhujagondrāśca dāruṇāḥ ।
+śvetāni saurabheyāṇi vṛṣāṇyugrajavāni ca ।।

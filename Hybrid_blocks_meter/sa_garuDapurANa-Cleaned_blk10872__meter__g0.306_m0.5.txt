@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10872 | label: meter | g:0.306 m:0.5 ---
+
+māsi bhādrapade vīndra hyasāraṃ dadhi cocyate ।
+kṣīraṃ tu hyāśvine māse niḥ sāraṃ parikīrtitam ।।

@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 449 | label: grammar | g:0.531 m:0.375 ---
+
+rākṣasaḥ
+{Pkt}vaśāgandhe teṇa hi śāmiṇā viodaleṇa duśśāśaṇaśśa luhilaṃ pāduṃ paḍiṇṇādaṃ । taṃ ca amhehiṃ lakkhaśehiṃ aṇuppaviśia pādavvaṃ tti ।

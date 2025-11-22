@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1007 | label: meter | g:0.25 m:0.695 ---
+
+mudrāyā darśanaṃ rudra mūlamantreṇa vā hara ।
+tejorūpaṃ raktavarṇaṃ sitapadmopari sthitam ।
+ekacakrarathārūḍhaṃ dvibāhuṃ dhṛtapaṅkajam ।।

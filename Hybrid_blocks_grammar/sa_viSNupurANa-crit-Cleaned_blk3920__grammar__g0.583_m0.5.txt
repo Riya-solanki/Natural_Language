@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3920 | label: grammar | g:0.583 m:0.5 ---
+
+teṣām abhāve mauryāḥ pṛthivīṃ bhokṣyanti । kauṭilya eva candraguptaṃ rājye abhiṣekṣyati ।।

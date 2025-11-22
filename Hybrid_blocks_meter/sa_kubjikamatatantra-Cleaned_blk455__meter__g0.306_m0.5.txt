@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 455 | label: meter | g:0.306 m:0.5 ---
+
+kruddhe ti ca tathā cānyam aṣṭamaṃ śubhalakṣaṇam ।
+māṃsaśoṇitasurāsavapriye navamaṃ daśamaṃ tu hasadvayam ।।

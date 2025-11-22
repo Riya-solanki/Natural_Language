@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1011 | label: hybrid | g:0.5 m:0.5 ---
+
+atra priya-sāmokti-janitā kasyāścid māna-śāntiḥ sakhī-jana-mānādy-ajñāna-sūcitair āliṅganādibhir vyajyate ।

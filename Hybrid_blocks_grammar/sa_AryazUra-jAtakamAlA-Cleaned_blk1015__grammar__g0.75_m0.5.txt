@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1015 | label: grammar | g:0.75 m:0.5 ---
+
+athāsya tatrābhigamanamupalabhya pitṛvayasyaḥ samabhigamya cainaṃ guṇabahumānāt kuśalaparipraśnapūrvakaṃ cāsmai nivedyātmānaṃ pitṛvayasyatāṃ ca saṃkathāprastāvāgatamenaṃ snehāduvāca - cāpalamiva khalvidamanuvartitaṃ bhadantenānapekṣya kulavaṃśamasmin vayasi pravrajatā ।

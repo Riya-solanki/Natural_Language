@@ -1,0 +1,12 @@
+--- source: gp01-11u-Cleaned.txt | block: 491 | label: meter | g:0.264 m:0.888 ---
+
+paśya sakhī-kula gokula-rājam ।
+putrotsavam anu khelā-bhājam ।।
+udadhi-prabha-dadhi-saṃplava-deśam ।
+parito ghūrṇita-mandara-veśam ।।
+madhya-dhaṭī-phaṇi-rāje kṛṣṭam ।
+hṛdya-suhṛdbhir atīva ca hṛṣṭam ।।
+madhye madhye durlabha-dānam ।
+dadataṃ dadhataṃ vismaya-bhānam ।।
+ekaṃ punar alam abhavad apūrvam ।
+ajani vidhur bata yad itaḥ pūrvam ।। iti ।

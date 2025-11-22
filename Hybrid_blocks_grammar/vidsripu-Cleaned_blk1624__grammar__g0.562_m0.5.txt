@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1624 | label: grammar | g:0.562 m:0.5 ---
+
+śrutvā dāśarathī suvelakaṭake sānandam ardhe dhanuṣ- ṭaṅkāraiḥ paripūrayanti kakubhaḥ proñchanti kaukṣeyakān ।
+abhyasyanti tathaiva citraphalake laṅkāpates tat punar vaidehīkucapatravallivalanāvaidagdhyam ardhe karāḥ ।।

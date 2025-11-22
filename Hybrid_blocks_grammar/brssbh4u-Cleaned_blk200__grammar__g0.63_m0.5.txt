@@ -1,0 +1,6 @@
+--- source: brssbh4u-Cleaned.txt | block: 200 | label: grammar | g:0.63 m:0.5 ---
+
+kena punaḥ saṃniveśaviśeṣeṇa gativiśeṣāṇānām itaretara viśeṣaṇaviśeṣyabhāva iti tat etat suhṛt bhūtvā ācāryo grathayati ।
+asa etaṃ devayānaṃ panthānamāpadyāgnilokamāgacchati sa vāyulokaṃ sa indralokaṃ sa prajāpatilokaṃ sa brahmalokam' iti kauṣītakīnāṃ devayānaḥ panthāḥ paṭhyate ।
+tatra arciḥ agnilokaśabdau tāvat ekārthau jvalanavacanatvāt iti na atra saṃniveśakramaḥ kvacit anveṣyaḥ ।
+vāyuḥ tu arcirādau vartmani na śrutaḥ katam asmin sthāne niveśayitavya iti ।

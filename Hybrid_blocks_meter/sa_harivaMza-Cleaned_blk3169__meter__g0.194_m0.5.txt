@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3169 | label: meter | g:0.194 m:0.5 ---
+
+ciraṃ tu bhavatā kālaṃ vyākṣepeṇa vilambitam 
+manye dṛṣṭaṃ tvayāścaryaṃ hṛdayaṃ te yathācalam ।।

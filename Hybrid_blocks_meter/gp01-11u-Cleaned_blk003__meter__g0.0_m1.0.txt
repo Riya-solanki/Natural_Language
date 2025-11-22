@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 3 | label: meter | g:0.0 m:1.0 ---
+
+śrī-śrī-rādhā-ramaṇāya namaḥ
+śrī-śrī-kṛṣṇa-caitanyāya namaḥ

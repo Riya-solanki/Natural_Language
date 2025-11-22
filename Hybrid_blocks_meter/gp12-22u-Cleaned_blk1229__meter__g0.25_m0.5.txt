@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1229 | label: meter | g:0.25 m:0.5 ---
+
+sa īdṛk-praṇayī labdhas tvayā rādhe purā tu yaḥ ।
+nānā-manorathaṃ cakre rathavad bhavad-āptaye ।। [anu]

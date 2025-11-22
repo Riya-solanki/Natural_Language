@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 755 | label: hybrid | g:0.51 m:0.441 ---
+
+nikāmaṃ kṣāmāṅgī sarasakadalīgarbhasubhagā kalāśeṣā mūrtiḥ śaśina iva netrotsavakarī ।
+avasthām āpannā madanadahanoddāhavidhurām iyaṃ naḥ kalyāṇī ramayati matiṃ kampayati ca ।।
+bhavabhūteḥ

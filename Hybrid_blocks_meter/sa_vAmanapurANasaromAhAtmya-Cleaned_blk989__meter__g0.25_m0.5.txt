@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 989 | label: meter | g:0.25 m:0.5 ---
+
+tasyāpi paścime bhāge kārtavīryeṇa sthāpitam ।
+liṅgaṃ pāpaharaṃ sadyo kārtanāt puṇyamāpnuyāt ।।

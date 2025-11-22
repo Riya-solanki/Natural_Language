@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 141 | label: grammar | g:0.562 m:0.5 ---
+
+bodhisattvabhūtaḥ kilāyaṃ bhagavānkośalādhipatirbabhūva । tasyotsāhamantraprabhū [tvaśaktisampatprabhṛtīnāṃ prakarṣiṇāmapi rājaguṇānāṃ vibhūtimatiśiśye daivasampadguṇaśobhā ।

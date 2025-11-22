@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8083 | label: meter | g:0.263 m:0.674 ---
+
+śrīkṛṣṇa uvāca ।
+suparṇa śṛṇu vakṣyāmi yathā rājñā kriyā kṛtā ।
+āsīt kṛtayuge rājā vāṅgo vai babhruvāhanaḥ ।।

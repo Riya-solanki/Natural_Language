@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4545 | label: meter | g:0.316 m:0.5 ---
+
+sūryāyutābhaṃ musalaṃ pragṛhya nighnan sa duṣṭāriyūthāpālān ।
+dvāri sthito na pradadau praveśaṃ prākāragupte balino gṛhe tu ।।

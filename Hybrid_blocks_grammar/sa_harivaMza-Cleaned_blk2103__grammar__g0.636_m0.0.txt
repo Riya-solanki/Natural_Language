@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2103 | label: grammar | g:0.636 m:0.0 ---
+
+vidito me jarāsaṃdhaḥ sthito mūrdhni mahīkṣitām 
+prāgjyotiṣapure cāpi narakaṃ sādhu tarkaye ।। 
+mānuṣe pārthive loke mānuṣatvam upāgatam । bāṇaṃ ca śoṇitapure guhapratimatejasam । dṛptaṃ bāhusahasreṇa devair api sudurjayam । śiśupālaṃ ca jānāmi tau haṃsaḍimakau tathā । jānāmi pauṇḍraṃ sālvaṃ ca taṃ kālayavanaṃ tathā ।। ekalavyaṃ ca jānāmi ye cānye duṣṭacāriṇaḥ । tān sarvān nihaniṣyāmi nātra kāryā vicāraṇā । 
+mayy āsaktāṃ ca jānāmi bhāratīṃ mahatīṃ dhuram 
+tac ca sarvaṃ vijānāmi yathā sthāsyanti te nṛpāḥ ।।

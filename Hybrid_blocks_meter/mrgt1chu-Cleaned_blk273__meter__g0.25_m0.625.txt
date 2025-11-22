@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 273 | label: meter | g:0.25 m:0.625 ---
+
+tadāvaraṇam asyāṇoḥ pañcasrotasi śāṃkare ।
+paryāyair bahubhirgītam adṛṣṭaṃ paśubhiḥ sadā ।।

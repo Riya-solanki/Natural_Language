@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 705 | label: meter | g:0.25 m:0.5 ---
+
+tasyaiva pāṇḍavapaśoranujadviṣo me kṣodairgadāśanikṛtairna vibodhito asmi
+tāmeva nādhiśayito rudhirārdraśayyāṃ ē̃ dauḥśāsanīṃ yadahamāśu vṛkodaro vā ।।

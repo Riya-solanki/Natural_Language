@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2760 | label: meter | g:0.25 m:0.5 ---
+
+śuddhe śuddhamiti jñeyaṃ pāṇḍare tu prabhāsvaraṃ ।
+rakte raktaṃtare kruddhaṃ yādṛgvarṇa tadātmakaṃ ।।

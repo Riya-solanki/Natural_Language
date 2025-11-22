@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 899 | label: grammar | g:0.662 m:0.0 ---
+
+tataḥ karma cakārāsya tejaso vardhanaṃ tadā 
+teṣāṃ ca buddhisaṃmoham akarod ṛṣisattamaḥ ।। 
+nāstivādārthaśāstraṃhi dharmavidveṣaṇaṃ param । paramaṃ tarkaśāstrāṇām asatāṃ tan manonugam । na hi dharmapradhānānāṃ rocate vai kathāntare ।। te tad bṛhaspatikṛtaṃ śāstraṃ śrutvālpacetasaḥ । pūrvoktadharmaśāstrāṇām abhavan dveṣiṇaḥ sadā ।। pracakrur nyāyarahitaṃ tanmataṃ bahu menire । tenādharmeṇa te pāpāḥ sarva eva kṣayaṃ gatāḥ ।। trailokyarājyaṃ śakras tu prāpya duṣprāpam eva ca । bṛhaspatiprasādād dhi parāṃ nirvṛtim abhyagāt । 
+te yadā sma susaṃmūḍhā rāgonmattā vidharmiṇaḥ 
+brahmadviṣaś ca saṃvṛttā hatavīryaparākramāḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3758 | label: grammar | g:0.75 m:0.5 ---
+
+bhajamānasya nimikṛkaṇavṛṣṇayas tathānye tadvaimātrāḥ śatajitsahasrajidayutajitsaṃjñāḥ devāvṛdhasyāpi babhruḥ putro abhūt । tayoś cāyaṃ śloko gīyate । yathaiva śṛṇumo dūrāt saṃpaśyāmas tathāntikāt । babhruḥ śreṣṭho manuṣyāṇāṃ devair devāvṛdhaḥ samaḥ ।।

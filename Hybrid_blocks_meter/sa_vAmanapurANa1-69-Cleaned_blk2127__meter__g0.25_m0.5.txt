@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2127 | label: meter | g:0.25 m:0.5 ---
+
+tamupotyāvravīd daityo yuddhaṃ me dīyatāmiti ।
+no cennivartatāṃ yajño neṣṭavyā devatāstvayā ।।

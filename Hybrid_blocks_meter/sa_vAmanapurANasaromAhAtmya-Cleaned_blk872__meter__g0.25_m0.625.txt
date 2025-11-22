@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 872 | label: meter | g:0.25 m:0.625 ---
+
+tasmin śuddhe hyantarātmā svayameva nirākulaḥ ।
+na śarīrasya saṃkleśairapi nirdahanātmakaiḥ ।।

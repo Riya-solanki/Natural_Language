@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 665 | label: meter | g:0.25 m:0.5 ---
+
+"yuṣmatto janmataḥ pūrvaṃ vasudevāt tavātmajaḥ ।
+jāto yasmāt tato vāsudeva ity api gīyate ।। [anuṣṭubh]

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2142 | label: grammar | g:0.558 m:0.169 ---
+
+triviṣṭapād āpatito mathuropavane sthitaḥ 
+preṣayām āsa kaṃsasya ugrasenasutasya vai ।। 
+sa dūtaḥ kathayām āsa muner āgamanaṃ nṛpe । dvāḥsthaṃ viditavistāraṃ dvāri tiṣṭhati nāradaḥ । iti śrutvā sa kaṃsasya dvārapālas tvarann iva ।। gatvā tu tvaritaṃ rājann uvāca madhureśvaram । eṣa tiṣṭhati rājendra nārado lokanāradaḥ । 
+sa nāradasyāgamanaṃ śrutvā tvaritavikramaḥ 
+nirgajāmāsuraḥ kaṃsaḥ svapuryāḥ padmalocanaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 835 | label: meter | g:0.25 m:0.5 ---
+
+haste tu dakṣiṇe cakraṃ dṛṣṭvā tasya pitāmahaḥ 
+viṣṇor aṃśaṃ pṛthuṃ matvā paritoṣaṃ paraṃ yayau ।।

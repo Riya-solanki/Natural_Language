@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 589 | label: grammar | g:0.615 m:0.5 ---
+
+mṛgaśiśudṛśas tasyās tāpaṃ kathaṃ kathayāmi te dahanapatitā dṛṣṭā mūrtir mayā na hi vaidhavī ।
+iti tu niyataṃ nārīrūpaḥ sa lokadṛśāṃ priyas tava śaṭhatayā śilpotkarṣo vidher vighaṭiṣyate ।।

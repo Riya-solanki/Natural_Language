@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 226 | label: meter | g:0.25 m:0.5 ---
+
+taṃ jātamātraṃ bhagavān brahma lokapitāmahaḥ ।
+jātakarmādikāṃ kṛtvā kriyāṃ tuṣṭāva ca prabhum ।।

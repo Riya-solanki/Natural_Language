@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 683 | label: hybrid | g:0.521 m:0.5 ---
+
+tato dravarūpāṇi sarvāṇi bhaveyus tattannāmnī ca drutir bhavati ।।

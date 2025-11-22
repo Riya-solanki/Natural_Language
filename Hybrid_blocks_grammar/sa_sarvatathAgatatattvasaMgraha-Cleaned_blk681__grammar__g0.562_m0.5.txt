@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 681 | label: grammar | g:0.562 m:0.5 ---
+
+athātra vajrasūkṣmadharmamaṇḍala ākarṣaṇādividhivistaro, mahāmaṇḍalayogena praveśādividhivistaraṃ jñānacinhaṃ pāṇibhyāṃ datvā, svacittaparikarmamahāmudrājñānaṃ śikṣayet ।

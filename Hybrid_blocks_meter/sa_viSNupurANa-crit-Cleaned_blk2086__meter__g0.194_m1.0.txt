@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2086 | label: meter | g:0.194 m:1.0 ---
+
+pauṣamāse vasanty ete sapta bhāskaramaṇḍale 
+lokaprakāśanārthāya vipravaryādhikāriṇaḥ ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 503 | label: meter | g:0.139 m:1.0 ---
+
+dhūmena, yathā-
+tasmin kṣaṇe kāntam alakṣayan sā
+dhūmāvilair udgata-bāṣpa-leśaiḥ ।
+antar-dalair amburuhām ivārdrair
+ayatna-karṇābharaṇair apāṅgaiḥ ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1817 | label: meter | g:0.159 m:0.567 ---
+
+yathā vīrabhadra-vijṛmbhaṇe-
+nāṭyācāryas tvam asi suhṛdāṃ tvādṛśānāṃ prasādāt
+ko' yaṃ gīta-śrama-vidhir aho bhinna-kaṇṭho' dya jātaḥ ।
+jñātaṃ jñātaṃ parihasasi māṃ bhāṣitair bhāva-garbhair
+maivaṃ vācyaṃ tvam asi hi gurus tatra ceṣṭiḥ pramāṇam ।।

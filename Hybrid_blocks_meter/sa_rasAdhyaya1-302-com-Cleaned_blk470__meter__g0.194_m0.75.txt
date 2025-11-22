@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 470 | label: meter | g:0.194 m:0.75 ---
+
+śaṅkhacūrṇaṃ ravikṣīrair ātape bhāvayeddinam 
+tadvajjambīrajair dravair dinaikaṃ dhūmasārakam ।।

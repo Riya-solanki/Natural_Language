@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 1074 | label: hybrid | g:0.3 m:0.499 ---
+
+[] etaj jñātvā nirjarāri-prahārī śiṣṭān kaṣṭantaṃ harantaṃ kumārān vyagrī-bhūtaḥ siṃhavad grāma-siṃhaṃ vidrutyārād agrahīn nyagrahīc ca ।
+svāṅga-vyaṅgāt spaṣṭa-bhūmiṣṭhamānaṃ
+kṛṣṭā ḍimbhāṃs taṃ tataḥ kṣauṇī-pṛṣṭhe ।
+āpātyātha prāṇa-vartmaṇi rundhan
+vyagrī-kṛtyālambhya-kalpaṃ cakāra ।। [śālinī]

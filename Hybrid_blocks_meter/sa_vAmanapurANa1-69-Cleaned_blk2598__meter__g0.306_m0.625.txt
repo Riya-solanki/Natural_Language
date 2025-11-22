@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2598 | label: meter | g:0.306 m:0.625 ---
+
+savāṣpanayanā jātā viśvakarmasutā tadā ।
+atha tāmāha sa muniḥ satyaṃ satyadhvajo vacaḥ ।।

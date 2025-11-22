@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 660 | label: meter | g:0.25 m:0.625 ---
+
+modante devavatteṣāṃ dharmo divya udāhṛtaḥ ।
+kalpānte pralayasteṣāṃ nigadyeta mahābhuja ।।

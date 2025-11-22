@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1927 | label: meter | g:0.25 m:0.5 ---
+
+medasā tajjalaṃ vyāptaṃ tābhyāṃ antardadhe tadā 
+nārāyaṇaś ca bhagavān asṛjat sa punaḥ prajāḥ ।।

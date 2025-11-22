@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1549 | label: grammar | g:0.667 m:0.5 ---
+
+yathā abhirāma-rāghave dvitīyāṅke, baṭuḥ-ayya parittāahi parittāahi । accahide paḍido hmi । ity ādau baṭu-trāso bhayam ।

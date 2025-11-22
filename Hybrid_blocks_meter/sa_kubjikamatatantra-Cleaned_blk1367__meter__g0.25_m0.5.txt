@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1367 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ devi mayāsau tu pūrvaṃ cakradharaḥ sudhīḥ 
+liṅge svādhiṣṭhito yena svādhiṣṭhānaṃ tu tena vai ।।

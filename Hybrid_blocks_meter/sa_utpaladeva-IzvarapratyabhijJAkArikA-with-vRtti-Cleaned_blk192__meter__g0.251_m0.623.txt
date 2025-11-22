@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 192 | label: meter | g:0.251 m:0.623 ---
+
+sakramatvaṃ ca laukikyāḥ kriyāyāḥ kālaśaktitaḥ 
+ghaṭate na tu śāśvatyāḥ prābhavyāḥ syāt prabhor iva ।।

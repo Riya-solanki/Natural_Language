@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2731 | label: meter | g:0.381 m:0.774 ---
+
+tataḥ paśyanti hi gaṇāḥ tamīsaṃ vai śahasraśaḥ ।
+sahasravaktracaraṇaṃ sahastrabhujamīśvaram ।।

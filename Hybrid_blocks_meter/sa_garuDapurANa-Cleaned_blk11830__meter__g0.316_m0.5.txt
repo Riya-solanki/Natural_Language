@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11830 | label: meter | g:0.316 m:0.5 ---
+
+utpādayitvā babhruvāhaṃ ca putraṃ tasyāṃ tyaktvā hyarjuno vai mahātmā ।
+ataścobhe vāracitrāṅgade ca śacīrūpe nātra vivāryamasti ।।

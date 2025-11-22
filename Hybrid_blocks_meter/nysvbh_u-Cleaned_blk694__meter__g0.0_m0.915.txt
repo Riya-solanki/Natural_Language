@@ -1,0 +1,10 @@
+--- source: nysvbh_u-Cleaned.txt | block: 694 | label: meter | g:0.0 m:0.915 ---
+
+bhinnaḥ khalvayaṃ dravyadharmo guṇadharmaśca,
+mahadanekadravyavacca viṣaktāvayavamāpyaṃ dravyaṃ
+pratyakṣato nopalabhyate sparśastu śīto gṛhyate
+tasya dravyasyānubandhāt hemantaśiśirau
+kalpete, tathāvidhameva ca taijasaṃ dravyamanudbhūtarūpaṃ
+saha rūpeṇa nopalabhyate sparśastv asyoṣṇa upalabhnapayate
+tasya dravyasyānubandhād grīṣmavasantau kalpete
+।।

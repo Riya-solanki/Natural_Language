@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3693 | label: meter | g:0.25 m:0.5 ---
+
+yajedbhādrasite nāgānaṣṭau muktiṃ divaṃ vrajet ।
+dvārasyobhayato lekhyāḥ śrāvaṇe tu site yajet ।।

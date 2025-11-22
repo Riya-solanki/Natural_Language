@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3741 | label: meter | g:0.194 m:0.5 ---
+
+kecit kaṃsavadhāc cāpi viraktās tadgatā nṛpāḥ 
+samāśritya jarāsaṃdham asmān icchanti bādhitum ।।

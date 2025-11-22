@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3435 | label: meter | g:0.194 m:0.5 ---
+
+imās te kiṃ kariṣyanti bhāryā rājan sukhocitāḥ 
+tvāṃ patiṃ supatiṃ prāpya yā vipannamanorathāḥ ।।

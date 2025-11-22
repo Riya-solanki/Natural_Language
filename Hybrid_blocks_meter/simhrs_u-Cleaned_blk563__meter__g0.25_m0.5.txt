@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 563 | label: meter | g:0.25 m:0.5 ---
+
+aiśvaryādi-kṛtaḥ kaiścit māno mada itīritaḥ ।
+vakṣyamāṇasya garvasya bheda evety udāsmahe ।।

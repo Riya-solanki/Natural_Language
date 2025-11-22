@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2173 | label: meter | g:0.316 m:0.739 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+patitāyā himādrau tu tvacastasya suradviṣaḥ ।
+prādurbhavanti tābhyastu puṣpa rāgā mahāguṇāḥ ।।

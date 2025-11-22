@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2136 | label: meter | g:0.194 m:0.75 ---
+
+saṣoḍaśapadair yuktaḥ pūjanīyo atra maṇḍale 
+āmnāyamaṇḍalaṃ hy etat samekhalacatuṣkalam ।।

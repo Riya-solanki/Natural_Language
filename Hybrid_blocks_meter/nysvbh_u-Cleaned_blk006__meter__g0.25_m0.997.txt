@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 6 | label: meter | g:0.25 m:0.997 ---
+
+yadyabhaviṣyadidamiva vyajñāsyate vijñānābhāvānnāstīti।
+tadevaṃ sataḥ prakāśakaṃ pramāṇamasadapi prakāśayatīti।
+sacca khalu ṣoḍaśadhā vyūḍhamupadekṣyate।
+tāsāṃ khalvāsāṃ sadvidhānām

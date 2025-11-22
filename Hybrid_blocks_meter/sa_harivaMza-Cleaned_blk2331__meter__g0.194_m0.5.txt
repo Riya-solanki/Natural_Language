@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2331 | label: meter | g:0.194 m:0.5 ---
+
+asmin sthāne niveśo ayaṃ ghoṣasyāsya na vidyate 
+utpātā hy atra dṛśyante kathayanto naśobhanam ।।

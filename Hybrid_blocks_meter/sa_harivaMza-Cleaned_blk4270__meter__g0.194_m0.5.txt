@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4270 | label: meter | g:0.194 m:0.5 ---
+
+nāśakac ca yadā kaṃso grahītuṃ balakeśavau 
+nijagrāha tataḥ krodhād vasudevaṃ sabāndhavam ।।

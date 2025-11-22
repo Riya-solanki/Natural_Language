@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 953 | label: meter | g:0.022 m:0.845 ---
+
+prāpnoti dhāraṇāśabdaṃ dhāraṇāsiddhidānataḥ 
+sthityartho dhāraṇāśabdaḥ sthānārtho apyupacārataḥ ।। MT

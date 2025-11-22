@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 726 | label: hybrid | g:0.505 m:0.541 ---
+
+tathātharvaṇaśrutirapyeṣāmekādaśānāmutkrāntimabhivadati ।
+tasmācchutyantarebhyaḥ smṛteśca sarvaśabdārthāsaṃkocācca sarveṣāmutkrameṇa sthite asminnaivaṃ yaduktaṃ saptaiveti, kintu pradarśanārthaṃ saptatvasaṃkhyeti siddham ।।

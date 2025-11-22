@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 192 | label: meter | g:0.194 m:0.625 ---
+
+ūrdhvasthālīṃ samālipya kartavyaṃ sampuṭaṃ varam 
+saṃdhau ca mṛtsnayāveṣṭya ḍamaruṃ yantramuttamam ।।

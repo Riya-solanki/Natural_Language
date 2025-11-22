@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 74 | label: grammar | g:0.69 m:0.497 ---
+
+yadā hi sarvākhyātānuvartinī karotidhātuvācyā puruṣavyāpārarūpā bhāvanāvagatā bhavati, tadā tadviśeṣāḥ sāmānyākhyātavyatiriktaśabdaviśeṣavācyā vidhipratiṣedhabhūtabhaviṣyadvartamānādayaḥ pratīyante ।
+tathā ca sarvatra sāmānyataḥ karotyartho avagamyate, kiṃ karoti? pacati, kim akārṣīt? apākṣīt, kiṃ kariṣyati? pakṣyati, kiṃ kuryāt? pacet, kiṃ na kuryāt? na pacet iti ।
+tatrārthātmikāyāṃ bhāvanāyāṃ liṅādiśabdānāṃ yaḥ puruṣaṃ prati prayojakavyāpāraḥ, sā dvitīyā śabdadharmo abhidhātmikā bhāvanā vi-

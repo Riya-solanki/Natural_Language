@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 4 | label: grammar | g:0.75 m:0.055 ---
+
+śrī-kṛṣṇa kṛṣṇa-caitanya sa-sanātana-rūpaka ।
+gopāla raghunāthāpta-vraja vallabha pāhi mām ।।
+[] tad evam ārambhasambhavadantarmahasā sahasā vilikhya tad idam ullikhyate । kim idam? madiṣṭadevasya, madanviṣṭadayāśiṣṭatadbhakta-samudayasya ca kramataḥ smaraṇam āvirbhūtam । kiṃ vā, kevalasya madiṣṭa-devasya; kiṃ vā, tadviśiṣṭasya । āṃ āṃ, tantratas tat trayam api svatantratayā labhyate । tatra prathamaṃ tāvat prathamataḥ prathayāmi । atra śrī padam anyad anyad api kiñcid anuṣṭupchandaḥparacchandatayā pūrvatra ca paraparatra ca yatra na dattaṃ, tatra ca sandhātavyam ।

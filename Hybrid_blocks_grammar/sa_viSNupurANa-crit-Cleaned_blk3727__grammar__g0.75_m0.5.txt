@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3727 | label: grammar | g:0.75 m:0.5 ---
+
+tasmād bhadraśreṇyas tato durdamas tasmād dhanakaḥ । dhanakasya kṛtavīryakṛtāgnikṛtadharmakṛtaujasaś catvāraḥ putrāḥ । kṛtavīryād arjunaḥ saptadvīpapatir bāhusahasrī jajñe । yo asau bhagavadaṃśam atrikulaprasūtaṃ dattātreyākhyam ārādhya bāhusahasram adharmasevānivāraṇaṃ dharmeṇa pṛthivījayaṃ dharmataś cānupālanam arātibhyo aparājayam akhilajagatprakhyātapuruṣāc ca mṛtyum ity etān varān abhilaṣitavāṃl lebhe ca ।।

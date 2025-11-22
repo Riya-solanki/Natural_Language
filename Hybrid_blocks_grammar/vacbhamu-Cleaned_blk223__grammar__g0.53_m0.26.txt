@@ -1,0 +1,12 @@
+--- source: vacbhamu-Cleaned.txt | block: 223 | label: grammar | g:0.53 m:0.26 ---
+
+syādetat ।
+yadi vidhivirahe api vedāntānāṃ prāmāṇyam, hanta tarhi aso arodīt' ityādīnāmapyastu svatantrāṇāmevopekṣaṇīyārthānāṃ prāmāṇyam; na hi hānopādānabuddhī eva prāmaṇasya phale, upekṣābuddherapi tatphalatvena prāmāṇikairabhyupetatvāt; iti kṛtam abarhiṣi rajataṃ na deyam' ityādiniṣedhavidhiparatvenaiteṣāmityata āha- yadyapiiti ।
+svādhyāyavidhyadhīnagrahaṇatayā hi sarvo vedarāśiḥ puruṣārthatantra ityavagatam ।
+tatraikenāpi varṇena nāpuruṣārthena bhavituṃ yuktam; kiṃ punariyatā aso arodīt' ityādinā padaprabandhena ।
+na ca vedāntebhya iva tadarthāvagamamātrādeva kaścitpuruṣārtha upalabhyate ।
+tenaiṣa padasaṃdarbhaḥ sākāṅkṣa evāste puruṣārthamudīkṣamāṇaḥ ।
+abarhiṣi rajataṃ na deyam' ityayamapi niṣedhavidhiḥ svaniṣedhyasya nindāmapekṣate; na hyanyathā tataścetanaḥ śakyo nivartayitum ।
+tadyadi dūrato api na nindāmavāpsyattato niṣedhavidhireva rajataniṣedhe ca nindāyāṃ ca darvihenatasvasya sāmarthyadvayamakalpayiṣyat ।
+tadevamuttaptayoḥ aso arodīt' iti ca abarhiṣi rajataṃ na deyam' iti ca padasaṃdarbhayorlakṣyamāṇanindādvāreṇa naṣṭāśvadagdharathavat parasparaṃ samanvayaḥ ।
+na tvevaṃ vedānteṣu puruṣārthāpekṣā, tadarthāvagamādevānapākṣātparamapuruṣārthalābhādityuktam ।

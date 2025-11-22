@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5437 | label: meter | g:0.25 m:0.555 ---
+
+āraṇyasya biḍālasya gṛhitvā rudhiraṃ śubham ।
+karañjataile tadbhāvyaṃ rudrāgnau kajjalaṃ tataḥ ।
+pātayetpadmapatreṇa hādṛśyaḥ syāttadañjanāt ।।

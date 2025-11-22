@@ -1,0 +1,21 @@
+--- source: brsvbh1u-Cleaned.txt | block: 580 | label: grammar | g:0.705 m:0.061 ---
+
+tadarthayorviśeṣitatvācchabdāvapi viśeṣitāvucyete ।
+sukhaśabdasamānādhikaraṇo hi khaṃśabdo bhūtākāśamarthaṃ parityajya brahmaṇi guṇayogena vartate ।
+tādṛśā ca khena sukhaṃ viśiṣyamāṇaṃ sāmayādvyāvṛttaṃ nirāmayaṃ bhavati ।
+tasmādupapannamubhayopādānam ।
+brahmaśabdābhyāsasya prayojanamāha-tatra dvitīya iti ।
+brahmapadaṃ kaṃpadasyopari prayujyamānaṃ śiraḥ, evaṃ khaṃpadasyāpi brahmapadaṃ śiro yayoḥ kaṅkhaṃpadayoste brahmaśirasī, tayorbhāvo brahmaśirastvam ।
+astu prastute kimāyātamityata āha-tadevaṃ vākyopakrama iti ।
+nanvagnibhiḥ pūrvaṃ nirdiśyatāṃ brahma, aya eṣo akṣiṇi'ityācāryavākye api tadevānuvartanīyamiti tu kuta ityāha-ācāryastu te gatiṃ vakteti ca gatimātrābhidhānamiti ।
+yadyapyete bhinnavaktṛṇī vākye tathāpi pūrveṇa vaktrā ekavākyatāṃ gamite, gatimātrābhidhānāt ।
+kimuktaṃ bhavati, tubhyaṃ brahmavidyāsmābhirūpadiṣṭā, tadvidastu gatirnoktā, tāṃ ca kiñcidadhikamādhyeyaṃ pūrayitvācāryo vakṣyatīti ।
+tadanena pūrvāsaṃbaddhārthāntaravivakṣā vāriteti ।
+athaivamagnibhirupadiṣṭe proṣita ācāryaḥ kālenājagāma, āgataśca vīkṣyopakosalamuvāca, brahmavida iva te somya mukhaṃ prasannaṃ bhāti, ko anu tvāmanuśaśāseti ।
+upakosalastu hrīṇo bhītaśca ko nu māmanuśiṣyāt bhagavan proṣite tvayītyāpātato apajñāya nirbadhyamāno yathāvadagnīnāmanuśāsanamavocat ।
+tadupaśrutya cācāryaḥ suciraṃ kliṣṭa upakosale samupajātadayārdrahṛdayaḥ pratyuvāca, somya kila tubhyamagnaye na brahma sākalyenāvocan, tadahaṃ tubhyaṃ sākalyena vakṣyāmi, tadanubhavamāhātmyāt ayathā puṣpakarapalāśa āpo na śliṣyanta evamevaṃvidi pāpaṃ karma na śliṣyate, ityevamuktavatyācārya āhopakosalaḥ, bravītu me bhagavāniti, tasmai hovācācāryo arcirādikāṃ gatiṃ vaktumanāḥ, yaduktamagnibhiḥ prāṇo brahma kaṃ brahma khaṃ brahmeti tatparipūraṇāya aeṣo akṣiṇi puruṣo dṛśyate'ityādi ।
+etaduktaṃ bhavati-ācāryeṇa ye sukhaṃ brahmākṣisthānaṃ saṃyadvāmaṃ vāmanībhāmanītyevaṅguṇakaṃ prāṇasahitamupāsate te sarve apahatapāpmāno anyatkarma kurvantu mā vākārṣuḥ, arciṣamarcirabhimāninīṃ devatāmabhisaṃbhavanti pratipadyante, arciṣo aharahardevatāṃ, ahna āpūryamāṇapakṣaṃ śuklapakṣadevatāṃ, tataḥ ṣaṇmāsān, yeṣu māseṣūttarāṃ diśameti savitā te ṣaṇmāsā uttarāyaṇaṃ taddevatāṃ pratipadyante, tebhyo māsebhyaḥ saṃvatsaradevatāṃ, tata ādityaṃ, ādityāccandramasaṃ, candramaso vidyutaṃ, tatra sthitānetānpuruṣaḥ kaścidbrahmalokādavatīryāmānavo amānavyāṃ sṛṣṭau bhavaḥ ।
+brahmalokabhava iti yāvat ।
+sa tādṛśaḥ puruṣa etānsatyalokasthaṃ kāryaṃ brahma gamayati, sa eṣa devapatho devairarcirādibhirnetṛbhirupalakṣita iti devapathaḥ, sa eva ca brahmaṇā gantavyenopalakṣita iti brahmapathaḥ, etena pathā pratipadyamānāḥ satyalokasthaṃ brahma imaṃ mānavaṃ manoḥ sargaṃ kiṃbhūtamāvartaṃ janmajarāmaraṇapaunaḥ punyamāvṛttistatkartāvarto mānavo lokastaṃ nāvartante ।
+tathāca smṛtiḥ-'brahmaṇā saha te sarve saṃprāpte pratisaṃcare ।
+parasyānte kṛtātmānaḥ praviśanti paraṃ padam ।।

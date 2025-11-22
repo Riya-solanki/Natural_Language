@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 59 | label: grammar | g:0.562 m:0.5 ---
+
+padmopāntāduṣasi ramaṇe prāpnuvatyeva pārśvaṃ madhye mārajvaraparavaśāṃ vīkṣamāṇo rathāṅgīm ।
+dūraṃ prāpte mayi vidhivaśāddūyamānāṃ sakhīṃ te smāraṃ smāraṃ dviguṇagamanotsāha eva dhruvaṃ syāḥ ।।

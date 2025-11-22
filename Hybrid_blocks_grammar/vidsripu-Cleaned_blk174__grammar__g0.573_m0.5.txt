@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 174 | label: grammar | g:0.573 m:0.5 ---
+
+aśithilaparispandaḥ kunde tathaiva madhuvrato nayanasuhṛdo vṛkṣāś caite na kuḍmalaśālinaḥ ।
+dalati kalikā cautī nāsmiṃs tathā mṛgacakṣuṣām atha ca hṛdaye mānagranthiḥ svayaṃ śithilāyate ।।

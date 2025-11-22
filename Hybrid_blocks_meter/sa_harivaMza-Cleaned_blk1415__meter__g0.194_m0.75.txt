@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1415 | label: meter | g:0.194 m:0.75 ---
+
+śyāmo yuvā lohitākṣo dīptāsyo mitabhāṣitā 
+ājānabāhuḥ sumukhaḥ siṃhaskandho mahābhujaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1087 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tad etad evam avadhāritavatyaḥ kātyāyanī-vratavatyas tad etan manasi vicāritavyaḥ-hanta, yad asmābhir manasi rañjitaṃ, tad evāyaṃ vyañjitaṃ kartuṃ prayatate । tasmād asmākam ayam eva samayaḥ । kintu kim api lakṣyam evātra lakṣyam, tad api svata eva labdham yat pṛthu-śīta-bhītatādikam atra prakaṭam eva ghaṭate ।

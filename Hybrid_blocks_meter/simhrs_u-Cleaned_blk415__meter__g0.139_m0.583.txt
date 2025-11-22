@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 415 | label: meter | g:0.139 m:0.583 ---
+
+tatra vācā śuddha-hāsyajaṃ, yathā-
+arciṣmanti vidārya vaktra-kuharāṇyā sṛkkato vāsukes
+tarjanyā viṣa-karburān gaṇayataḥ saṃspṛśya dantāṅkurān ।
+ekaṃ trīṇi navāṣṭa sapta ṣaḍ iti vyastāsta-saṃkhyā-kramā
+vācaḥ śakti-dharasya śaiśava-kalāḥ kurvantu vo maṅgalam ।।

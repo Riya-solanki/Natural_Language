@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 922 | label: meter | g:0.194 m:0.5 ---
+
+santi te bahavaḥ putrā mattaḥ priyatarā nṛpa 
+pratigrahītuṃ dharmajña putram anyaṃ vṛṇīṣva vai ।।

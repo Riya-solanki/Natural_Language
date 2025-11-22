@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 358 | label: grammar | g:0.583 m:0.5 ---
+
+-ayamatrānumānaprakāraḥ-iyaṃ gavānayanaviṣayiṇī pravṛttiḥ arthajñānapūrvikā, pravṛttitvāt, madīyapravṛttivat । taccārthajñānaṃ gāmānayeti vākyajanyaṃ, tādṛśaśabdabhāvābhāvānuvidhāyitvāditi ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3980 | label: meter | g:0.25 m:1.0 ---
+
+śantanuścaiva bāhlīkastrayaste bhrātaro nṛpāḥ ।
+bāhlīkātsomadatto abhūdbhūrirbhūriśravāstataḥ ।।

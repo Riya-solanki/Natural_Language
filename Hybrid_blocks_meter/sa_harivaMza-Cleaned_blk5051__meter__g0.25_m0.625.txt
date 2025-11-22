@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5051 | label: meter | g:0.25 m:0.625 ---
+
+niḥsāmarthyaṃ ca paśyāmi bhaviṣyasya nivedanam 
+parihartuṃ na śakṣyāmi kālaniṣṭhāṃ hi tāṃ gatim ।।

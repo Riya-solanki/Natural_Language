@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 77 | label: meter | g:0.25 m:0.625 ---
+
+ratnabhūtā ca kanyeyaṃ vṛkṣāṇāṃ varavarṇinī 
+bhaviṣyaṃ jānatā tāta dhṛtā garbheṇa vai mayā ।।

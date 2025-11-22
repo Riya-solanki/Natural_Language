@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 695 | label: hybrid | g:0.538 m:0.48 ---
+
+svataḥ karma-vaśād evādātuṃ karmānusāriṇaḥ ।
+īśaś ced asti karmānugāmy asau kā nu devatā ।। sarvaṃ tad bhasmani hutaṃ para-tantre yad arpaṇam ।
+gārhapatye hutaṃ tat tu yad ātmātmīya-poṣaṇam ।। tasmād ābhīra-vaiśyatvād aghnyāsevā tu naḥ kṛtiḥ ।
+devatā yadi manyeta mantavyā sā tad-āśrayā ।। [anuṣṭubh]

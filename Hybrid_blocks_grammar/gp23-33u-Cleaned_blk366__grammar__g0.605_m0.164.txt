@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 366 | label: grammar | g:0.605 m:0.164 ---
+
+kṛṣṇa kṛṣṇa bata kṛṣṇa kṛṣṇa he
+tāta mām ajagaro graseta kim । ity asau smaraṇatas tanūjanes
+tasya moha-maya-bhāvam ayayau ।। [] atha tat-pārśva-vartinaḥ śūra-cakra-vartinaś candra-hāsam ādāya samutthitāś candramasaṃ grasamānaṃ rāhum iva bāhu-śālinas taṃ paśyantaḥ pravyathitā vyarthī-bhūta-tat-prahāra-prayāsās tad-upāyāntaram apaśyantaś ca vyagratā-kvathitāḥ śarārubhir jvalad-agrodagra-dārubhir jaghnuḥ ।
+[] tathāpy atyajati tatrājagare prathama-śabdād eva jāgrad-vrajarāja-tanūjaḥ sura-gaja-rāja iva dhāvaṃs tarhy evājagāma ।

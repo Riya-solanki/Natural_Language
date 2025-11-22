@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 442 | label: grammar | g:0.688 m:0.5 ---
+
+SktCh sādhu sugṛhiṇi sādhu । anena te sugṛhiṇītvenādya punaḥ svāminyā hiḍimbādevyāḥ saṃvidhānena ca pranaṣṭaṃ me janmadāridryam ।

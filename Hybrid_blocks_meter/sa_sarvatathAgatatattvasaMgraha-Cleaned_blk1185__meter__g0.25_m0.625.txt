@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1185 | label: meter | g:0.25 m:0.625 ---
+
+vāmavajrāṅguliṃ gṛhya dakṣiṇāgryāṅku śena tu ।
+ākarṣayatsusaṃkruddho grahāṃ sarvān vaśannayet ।।

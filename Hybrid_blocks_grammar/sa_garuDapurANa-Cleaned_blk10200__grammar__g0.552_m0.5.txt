@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10200 | label: grammar | g:0.552 m:0.5 ---
+
+na vai virāṭo nāpi bhīmaḥ śaniśca na puṣkaro na kaśerustathaiva ।
+na kinnarāḥ pitaro naiva devā gandharvamukhyā nāpi vā tuṣyasaṃjñāḥ ।।

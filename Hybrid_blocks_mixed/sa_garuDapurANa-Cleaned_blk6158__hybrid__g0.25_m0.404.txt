@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6158 | label: hybrid | g:0.25 m:0.404 ---
+
+dātorḷṅ kriyātipattau liṅarthe leṭ prakīrtitaḥ ।
+kṛtastriṣvapi vartante bhāve karmaṇi kartari ।।
+sadṛśāstavyatā ṇyadyadanīyāśca tṛjādayaḥ ।।
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vyākaraṇanirūpaṇaṃ nāma pañcottaradviśatatamo adhyāyaḥ

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11008 | label: meter | g:0.25 m:0.625 ---
+
+tatra svabhartṛsaṃyogaṃ naiva cāpa khageśvara ।
+tatrānyagātvaṃ vijñeyaṃ puruṣasthena vāyunā ।।

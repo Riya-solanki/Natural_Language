@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 552 | label: grammar | g:0.625 m:0.5 ---
+
+kapāle bhinne gāyatryā tvā śatākṣarayā saṃdadhāmi iti saṃdhāya dhātā dadhātu ity eva juhuyāt ।

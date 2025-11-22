@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1377 | label: meter | g:0.194 m:0.625 ---
+
+tuṣṭāva ca punar dhīmān anādiṃ puruṣottamam 
+ekāgramatir avyagro yatavākkāyamānasaḥ ।।

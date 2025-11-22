@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 56 | label: meter | g:0.194 m:0.5 ---
+
+varṇair utpāditāhaṃ te gṛhṇa varṇān svakān iha 
+prasārya varṇamālāṃ tu tattvākāraṃ svarūpiṇam ।।

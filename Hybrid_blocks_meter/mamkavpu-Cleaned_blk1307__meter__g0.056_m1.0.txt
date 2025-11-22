@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1307 | label: meter | g:0.056 m:1.0 ---
+
+{amuṣmiṃllāvaṇyāmṛtasarasi nūnaṃ mṛgadṛśaḥ
+smaraḥ śarvapluṣṭaḥ pṛthujaghanabhāge nipatitaḥ ।
+yadaṅgāṅgāraṇāṃ prathamapiśunā nābhikuhare
+śikhā dhūmasyeyaṃ pariṇaṃmati romāvalivapuḥ ।।}

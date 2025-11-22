@@ -1,0 +1,3 @@
+--- source: brsvbh2u-Cleaned.txt | block: 65 | label: hybrid | g:0.5 m:0.5 ---
+
+vicitraśaktitvamuktaṃ brahmaṇa, tatra śrutyupanyāsaparaṃ sūtram-sarvopetā ca taddarśanāt ।।

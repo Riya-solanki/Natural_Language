@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 153 | label: meter | g:0.25 m:1.0 ---
+
+tadvapuḥ pañcabhirmantraiḥ pañcakṛtyopayogibhiḥ ।।
+īśatatpuruṣāghoravāmājair mastakādikam ।

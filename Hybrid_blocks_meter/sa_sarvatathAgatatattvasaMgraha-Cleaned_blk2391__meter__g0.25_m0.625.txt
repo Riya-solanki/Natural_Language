@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2391 | label: meter | g:0.25 m:0.625 ---
+
+mahāmudrāṃ tu sandhāya nidhānaṃ parimārgayet ।
+yatrasthasya samāveśo bhavettatra vinirdiśet ।।

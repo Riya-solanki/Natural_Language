@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3257 | label: meter | g:0.306 m:0.625 ---
+
+pañcamasya kalerādau dvāparānte sudāruṇaḥ ।
+devāsuro abhūt saṃgrāmo yatra śakro apyabhūd baliḥ ।।

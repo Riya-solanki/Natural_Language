@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 309 | label: meter | g:0.306 m:0.5 ---
+
+mukhe vaiśvānaraścāsya vṛṣaṇau tu prajāpatiḥ ।
+hṛdayaṃ ca paraṃ brahma puṃstvaṃ vai kaśyapo muniḥ ।।

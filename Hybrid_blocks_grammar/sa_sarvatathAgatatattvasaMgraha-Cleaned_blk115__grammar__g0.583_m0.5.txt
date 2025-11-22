@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 115 | label: grammar | g:0.583 m:0.5 ---
+
+atha bhagavān punarapi sahacittotpāditadharmacakrapravartimahābodhisattvasamayasaṃbhavadharmādhiṣṭhānavajraṃ nāma samādhiṃ samāpadyedaṃ sarvatathāgatacakrasamayannāma sarvatathāgatahṛdayaṃ svahṛdayānniścacāra vajrahetu ।।

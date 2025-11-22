@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 535 | label: meter | g:0.25 m:0.555 ---
+
+atra te vartayiṣyāmi yathātattvam ariṃdama 
+ye ca te pitaro nye sma yān yajāmo vayaṃ punaḥ । 
+pitrā mama purā gītaṃ lokāntaragatena vai ।।

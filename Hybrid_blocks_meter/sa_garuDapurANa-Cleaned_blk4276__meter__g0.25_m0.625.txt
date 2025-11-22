@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4276 | label: meter | g:0.25 m:0.625 ---
+
+pārāvata ivotkūjanpārśvaśūlī tato asya ca ।
+kaphādyairvamanaṃ paktibalavarṇañca hīyate ।।

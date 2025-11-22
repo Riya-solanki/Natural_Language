@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 334 | label: grammar | g:0.729 m:0.5 ---
+
+atha śakrastasya dvitīye tṛtīye caturthe pañcame api cāhani tathaiva vratakāle purataḥ prādurabhūt । so api cainaṃ pramuditataramanāstathaiva pratipūjayāmāsa ।

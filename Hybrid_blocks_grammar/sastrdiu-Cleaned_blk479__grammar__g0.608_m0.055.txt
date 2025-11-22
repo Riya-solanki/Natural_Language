@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 479 | label: grammar | g:0.608 m:0.055 ---
+
+vaiśeṣikāstu- pauruṣeyatvameva śabdārthasaṃbandhānāṃ vedānāṃ cāṅgīkurvanto anumānena sṛṣṭipralayāvīśvaraṃ ca siṣādhayiṣantaḥ prayogamāracayanti- trividhaṃ hi vastujātaṃ saṃpratipannacetanakartṛkaṃ ghaṭādi, saṃpratipannātatkartṛkaṃ vyomādi, vipratipannatatkartṛkaṃ mahīmahīdharadūrvāṅkurādi, tatrāntimamadhikṛtyocyate- kṣityādikaṃ buddhimatkartṛkaṃ kāryatvāt ghaṭādivat ।
+kāryatvaṃ ca kṣityādeḥ sāvayavatvāt ghaṭādivat ।।

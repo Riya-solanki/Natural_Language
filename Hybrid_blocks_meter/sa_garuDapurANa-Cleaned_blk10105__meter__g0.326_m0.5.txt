@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10105 | label: meter | g:0.326 m:0.5 ---
+
+abhiprāyaṃ tvatra vakṣye munīndrāḥ paraṃ gopyaṃ hṛdi dhāryaṃ hi taddhi ।
+vāyoḥ pratīkaṃ pūjyameveha viprā na brahmarudrādipratīkameva ।।

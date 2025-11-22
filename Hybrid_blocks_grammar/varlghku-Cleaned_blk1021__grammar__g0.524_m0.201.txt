@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1021 | label: grammar | g:0.524 m:0.201 ---
+
+viśeṣaṇaṃ viśeṣyeṇa bahulam ।।
+bhedakaṃ bhedyena samānādhikaraṇena bahulaṃ prāgvat । nīlamutpalaṃ nīlotpalam । bahulagrahaṇātkvacinnityam - kṛṣṇasarpaḥ । kvacinna - rāmo jāmadagnyaḥ ।।

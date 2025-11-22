@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 740 | label: hybrid | g:0.43 m:0.376 ---
+
+vijñānaśabdo jīvasya nirdeśo na cet tadā prathamānirdeśādviparyayaḥ ।
+karaṇadyotitṛtīyayā nirdeśaḥ syāt ।
+tasmādiha śrutau tanuta ityākhyātena kartṛvācinā vijñānapadasya sāmānādhikaraṇyanirdeśātkriyāyāmātmanaḥ kartṛtvaṃ sūcyata iti sūtrabhāṣyayorarthaḥ ।।

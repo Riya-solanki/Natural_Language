@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 604 | label: meter | g:0.25 m:0.75 ---
+
+nanu prakaraṇālliṅgaṃ balīyaḥ ।

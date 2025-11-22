@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 124 | label: hybrid | g:0.486 m:0.5 ---
+
+mātrāya putra bahu santi gilāni kāye te sarvi durmanasa tatra prayujyayeyuḥ 
+emeva buddha daśaddiśi lokadhātau ima prajñapāramita mātra samanvāharanti ।।

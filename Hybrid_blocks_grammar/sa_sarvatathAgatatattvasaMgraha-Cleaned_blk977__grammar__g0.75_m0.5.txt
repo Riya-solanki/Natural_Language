@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 977 | label: grammar | g:0.75 m:0.5 ---
+
+athāsmin bhāṣitamātre sarvaduṣṭamaṇḍalāni ekadhyībhūtvānekāni vidhvansitāni vikīrṇāni, samayamudrābandhāḥ sphoṭitāḥ । te ca duṣṭasamayasatvā dahyamānāḥ pacyamānā mahānto mahārauravāntāntān khān muñcanto, yena bhagavān mahāvajradharastenāñjalayo badhvaivamāhuḥ । "paritrāyasva bhagavan, yena vayaṃ prāṇān na parityajāmaḥ!" ।

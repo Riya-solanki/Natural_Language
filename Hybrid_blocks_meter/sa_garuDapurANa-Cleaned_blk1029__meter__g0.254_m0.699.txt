@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1029 | label: meter | g:0.254 m:0.699 ---
+
+oṃ hāṃ tatpuruṣāya namaḥ । oṃ hāṃ nivṛttyai namaḥ । 
+oṃ hāṃ pratiṣṭhāyai namaḥ ।
+oṃ hāṃ vidyāyai namaḥ ।
+oṃ hāṃ śāntyai namaḥ ।
+jñeyāstatpuruṣasyaiva catasro vṛṣabhadhvaja ।।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1013 | label: meter | g:0.194 m:0.729 ---
+
+ātmārthapratiyoginī bhagavatāṃ yeṣāṃ kriyā sarvadā
+sarvākāraparopakāramadhurā yeṣāṃ samutpattayaḥ ।
+ślāghyā jātir acintyayogamahatāṃ teṣāṃ jagaccakṣuṣāṃ
+janma svārthaparasya tu kṣaṇikam apy āpāyikī viplutiḥ ।।

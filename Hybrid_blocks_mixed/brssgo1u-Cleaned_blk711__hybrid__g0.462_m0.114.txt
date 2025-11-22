@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 711 | label: hybrid | g:0.462 m:0.114 ---
+
+FN avajrahastaḥ purandaraḥ' ityādayo mantrāḥ aso arodīt' ityādayor'thavādāḥ, aiṣṭānbhogānhi vo devā' ityādītihāsapurāṇāni, loke api yamaṃ daṇḍahastaṃ, indraṃ vajrahastaṃ, likhantīti vigrahādipañcakasadbhāvādanadhikāradoṣo nāstītyarthaḥ ।
+avigraho haviṣāṃ bhoga aiśvaryaṃ ca prasannatā ।
+phalapradānamityetatpañcakam vigrahādikam' iti ।

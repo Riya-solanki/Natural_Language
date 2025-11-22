@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 237 | label: meter | g:0.25 m:0.5 ---
+
+ete danoḥ sutāḥ khyātā vipracittiśca vīryavān ।
+svarbhānoḥ suprabhā kanyā śarmiṣṭhā vārṣaparvaṇī ।।

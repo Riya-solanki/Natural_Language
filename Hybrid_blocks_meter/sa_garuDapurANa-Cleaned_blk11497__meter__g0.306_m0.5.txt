@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11497 | label: meter | g:0.306 m:0.5 ---
+
+yaścaiva dehaṃ praviśedbhaktipūrvaṃ kadā drakṣye sādareṇaiva devi ।
+pradakṣiṇadvādaśakaṃ ca kṛtvā pade pade saṃsmarecchrīnivāsam ।।

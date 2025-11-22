@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7638 | label: meter | g:0.25 m:0.5 ---
+
+tenaiva snāpayitvā tu dāhaṃ kuryātsvageśvara ।
+pañcabhiḥ snāpayitvā tu gavyaiḥ pretāṃ rajasvalām ।।

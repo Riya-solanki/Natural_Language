@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 83 | label: meter | g:0.25 m:0.75 ---
+
+kavivyāpāravakratvaprakārāḥ saṃbhavanti ṣaṭ ।
+pratyekaṃ bahavo bhedāsteṣāṃ vicchittiśobhinaḥ ।।

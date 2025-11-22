@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2137 | label: meter | g:0.25 m:0.625 ---
+
+sarvam etat kramāmnāyaṃ maṇḍalopari maṇḍalam 
+pūjitena bhavaty āsu tat sarvam uditaṃ mayā ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 134 | label: meter | g:0.25 m:0.625 ---
+
+aho hyamoghaṃ buddhānāṃ sarvakarmamahaṃ bahu ।
+yadanābhogabuddhārthaṃ vajrakarma pravartate ।।

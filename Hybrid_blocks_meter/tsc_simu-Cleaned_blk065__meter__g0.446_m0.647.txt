@@ -1,0 +1,5 @@
+--- source: tsc_simu-Cleaned.txt | block: 65 | label: meter | g:0.446 m:0.647 ---
+
+syādetat sphoṭavyañjakasyānupūrvīviśiṣṭacaramavarṇasyaiva padatvamarthapratyāyakatvaṃ vā astu alaṃ sphoṭena taddhetoreva tadastviti nyāyāt ।
+etadeva sāṃkhyasūtreṇoktaṃ pratītyapratītibhyāṃ na sphoṭātmakaḥ śabda iti ।
+ekatvapratyayo apyānupūrvīviśiṣṭacaramavarṇasyaikatvenopapadyate ।।

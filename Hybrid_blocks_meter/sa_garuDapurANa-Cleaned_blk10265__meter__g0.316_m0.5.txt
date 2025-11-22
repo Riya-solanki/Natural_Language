@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10265 | label: meter | g:0.316 m:0.5 ---
+
+yo vā tvaṇīyānparamasya viṣṇoḥ sa eva rūpo mahato mahīyān ।
+teṣāmanyonyaṃ na viśeṣosti kaścidacintyarūpe ca vicintanīyaḥ ।।

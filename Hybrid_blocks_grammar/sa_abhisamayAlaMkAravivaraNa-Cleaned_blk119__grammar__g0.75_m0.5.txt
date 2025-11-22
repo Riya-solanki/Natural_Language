@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 119 | label: grammar | g:0.75 m:0.5 ---
+
+avadhiḥ sambhāramātraṃ tvādikarmikabhūmāvapi bhavati । kintu ye mahābodhiprāpaktvena sākṣānnirdiṣṭāste sambhārāḥ prayogamārgīyāgradharmāvasthāta ārabhya antimakṣaṇasthabodhisattvāvasthāparyantaṃ bhavanti । āditaḥ pañcadaśa sambhārapratipattayaḥ prayogamārgīyāgradharmāvasthāparyantaṃ bhavanti । ṣoḍaśo bhūmisambhāraḥ saptadaśaśca pratipakṣasambhāro daśasu bhūmiṣu bhavataḥ ।

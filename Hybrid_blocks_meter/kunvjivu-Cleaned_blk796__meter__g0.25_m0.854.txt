@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 796 | label: meter | g:0.25 m:0.854 ---
+
+aprastuto api vicchittiṃ prastutasyāvatārayan ।
+padārtho vātha vākyārthaḥ prāpyate varṇanīyatām ।।
+yatra tatsāmyamāśritya saṃbandhāntarameva vā ।
+aprastutapraśaṃseti kathitāsāvalaṅkṛtiḥ ।।

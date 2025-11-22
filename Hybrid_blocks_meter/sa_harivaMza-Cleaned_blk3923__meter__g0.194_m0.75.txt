@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3923 | label: meter | g:0.194 m:0.75 ---
+
+muñcantaḥ śaravarṣāṇi vāsudevaṃ tato abhyayuḥ 
+krathakaiśikamukhyās te rathavaṃśena sarvaśaḥ ।।

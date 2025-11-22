@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1174 | label: hybrid | g:0.521 m:0.5 ---
+
+bhayaṃ bhayānām apahāriṇi sthite manasy anante mama kutra tiṣṭhati ।
+yasmin smṛte janmajarāntakādi bhayāni sarvāṇy apayānti tāta ।।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 412 | label: grammar | g:0.75 m:0.5 ---
+
+-śravaṇaṃ nāma brahmātmani atattvamasi'ityādivākyakadambasya tātparyanirṇayānukūlo vyāpāraḥ tarkarūpaḥ । tatrāsati viṣayāvagame kathaṃ tatkartavyatābodhaḥ, avagame ca kartumakartumanyathākartumaśakyatvam । evaṃ mananāderapi boddhavyamiti ।

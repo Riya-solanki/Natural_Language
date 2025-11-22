@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4397 | label: meter | g:0.272 m:0.845 ---
+
+svapne asambaddhavākyādiḥ kaphāddhyānaparo hi saḥ ।
+sarvotthasannipātena raktastambhāṅgadūṣaṇam ।।

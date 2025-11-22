@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2870 | label: meter | g:0.194 m:0.5 ---
+
+hāheti kurvatas tasya prahṛṣṭās tā varāṅganāḥ 
+jagṛhur niḥsṛtāṃ vāṇīṃ sāmnā dāmodareritām ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 789 | label: meter | g:0.25 m:0.5 ---
+
+anusāritena sārito vidhyati śulbaṃ nikharvasaṃkhyākam ।
+pratisāritastu vidhyati padmaṃ svanusāritaḥ śaṅkham ।।

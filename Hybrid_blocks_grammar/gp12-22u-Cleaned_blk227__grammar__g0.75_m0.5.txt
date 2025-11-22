@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 227 | label: grammar | g:0.75 m:0.5 ---
+
+[] dakṣiṇatas tu kevala-tadīya-nava-taruṇimāvatāra-samucita-sevā-prakāra-kāmanārāma-prathama-vayasaḥ subalādi-savayasaḥ । [] yat-paṅkti-dvayāntima-sīma-madhya-gatau tan-mithunābhimukhatābhiratau tādṛśa-praṇaya-sukumārau sūta-kumārau tasthatuḥ, yayo rāga-tālādi-sāhāyakāḥ sakhāya eva kecana sacante sma ।

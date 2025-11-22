@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8541 | label: meter | g:0.25 m:0.625 ---
+
+aparaḥ kāmamārgaśca mokṣamārgaścaturthakaḥ ।
+uttamā dhamamārgeṇa vainateya prayānti hi ।।

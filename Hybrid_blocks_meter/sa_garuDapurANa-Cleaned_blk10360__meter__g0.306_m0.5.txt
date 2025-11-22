@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10360 | label: meter | g:0.306 m:0.5 ---
+
+viśitvā kṣobhayāmāsa tadāsau daśadhā tvabhūt ।
+śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 734 | label: meter | g:0.056 m:0.625 ---
+
+{catvāro vayamṛtvijaḥ sa bhagavān karmopadeṣṭā hariḥ
+saṃgrāmādhvaradīkṣito narapatiḥ patnī gṛhītavratā ।
+kauravyāḥ paśavaḥ priyāparirabhavakleśopaśāntiḥ phalaṃ
+rājyanyopanimantraṇāya rasati sphītaṃ hato dundubhiḥ ।।}

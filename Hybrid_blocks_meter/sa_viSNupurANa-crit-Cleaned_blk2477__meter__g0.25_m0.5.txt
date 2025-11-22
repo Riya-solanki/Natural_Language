@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2477 | label: meter | g:0.25 m:0.5 ---
+
+kṛte kṛte smṛter vipra praṇetā jāyate manuḥ 
+devā yajñabhujas te tu yāvan manvantaraṃ tu tat ।।

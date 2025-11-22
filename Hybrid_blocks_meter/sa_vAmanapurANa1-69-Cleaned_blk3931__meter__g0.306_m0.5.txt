@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3931 | label: meter | g:0.306 m:0.5 ---
+
+kā sā rakṣā na tāṃ vedmi vedmi nāsyāḥ parāyaṇam ।
+yasyāḥ saṃsargasāsādya nirvedaṃ prāpitaṃ param ।।

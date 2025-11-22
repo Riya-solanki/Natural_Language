@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 241 | label: meter | g:0.102 m:0.695 ---
+
+yasyāsti bhaktir bhagavaty akiñcanā
+sarvair guṇais tatra samāsate surāḥ ।
+[] tataś caivaṃ varṇyate-

@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 62 | label: meter | g:0.25 m:0.625 ---
+
+sānusvāraṃ sadīrghaṃ ca guṇasaṃyogalopavat ।
+hrasvaṃ samastavākyaṃ syānna cānekaṃ na caikakam ।।

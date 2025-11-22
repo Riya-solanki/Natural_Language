@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2167 | label: meter | g:0.306 m:0.5 ---
+
+sukhopalakṣyaśca sadā vicāryo hyayaṃ prabhedo viduṣā nareṇa ।
+snehaprabhedo laghutā mṛdutvaṃ vijātiliṅgaṃ khalu sārvajanyam ।।

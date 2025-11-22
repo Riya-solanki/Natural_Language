@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 442 | label: hybrid | g:0.521 m:0.5 ---
+
+[] atha madhukaṇṭhaḥ sotkaṇṭhaṃ papraccha-tatas tāsāṃ kā matir jātā?

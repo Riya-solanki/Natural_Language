@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 62 | label: meter | g:0.29 m:0.692 ---
+
+atha prajā-rañjakatvam-
+rañjakatvaṃ tu sakala-cittāhlādana-kāritā ।। athā-
+aham eva mato mahīpater iti sarvaḥ prakṛtiṣv acintayat ।
+udadher iva nimnagāśateṣv abhavan nāsya vimānanā kvacit ।।

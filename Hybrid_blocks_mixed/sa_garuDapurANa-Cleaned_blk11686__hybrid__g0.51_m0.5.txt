@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11686 | label: hybrid | g:0.51 m:0.5 ---
+
+kalau nṛṇāṃ tasya lābho durlabhaḥ saṃsmṛto bhuvi ।
+dānaṃ ca sutarāṃ devi darlabhaṃ kiṃ vadāmi te ।।

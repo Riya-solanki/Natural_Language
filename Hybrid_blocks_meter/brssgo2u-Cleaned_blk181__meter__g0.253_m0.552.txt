@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 181 | label: meter | g:0.253 m:0.552 ---
+
+pūrvāvasthānāśenāvasthāntaraṃ pariṇāmaḥ, yathā dugdhasya dadhibhāvaḥ ।
+pūrvarūpānupamardenāvasthāntaraṃ vivartaḥ, yathā śukteḥ rajatabhāvaḥ ।
+tatra brahmaṇo vivartopādānatvaṃ svapnasākṣidṛṣṭāntena draḍhayanmāyāvādaṃ sphuṭayati sūtrakāraḥ-ātmani ceti ।
+rathayogāḥ aśvāḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 209 | label: grammar | g:0.75 m:0.5 ---
+
+lakṣaṇam anityādiṣoḍaśākārāṇāṃ sākṣātkāriṇī hīnayānajātīyā mahākaruṇāgarbhā māhāyānikaryasantatisthā prajñā asyāḥ sarvajñatāyā lakṣaṇam । iyaṃ ca bodhisattvānāṃ prajñāpāramitā prajñayā saṃsārādīnavadarśanāt na saṃsāre bhavānte sthitā ।

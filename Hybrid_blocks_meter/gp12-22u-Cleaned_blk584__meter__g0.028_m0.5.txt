@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 584 | label: meter | g:0.028 m:0.5 ---
+
+[] asya cābhidheyam idam,
+tāsāṃ kṛṣṇāvaloke pramada-samuditir na svarūpeṇa vaktuṃ
+śakyā kintu sva-kārya-sphuraṇa-padatayā kiñcid uddeśam āptā ।
+tad-viśleṣe yathāsāṃ yuga-śataka-daśāṃ yāti kālaḥ kalākhyas
+tadvat tasyānuṣaṅge yuga-śatam api tad bhāti śaśvat kalābham ।। [sragdharā]

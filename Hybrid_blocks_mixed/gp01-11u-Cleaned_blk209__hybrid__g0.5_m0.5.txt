@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 209 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha sodita-meghāś cātakā iva, labdha-candrāś cakorā iva, saṅgata-jalā jala-janmāna iva, samunmīlita-prāṇā dehā iva, sarve' py ānanda-garveṇa vandi-vṛndādi-kalita-kolāhalena ca samam eva samuttasthuḥ । [] kintūtkalikā-kalita-manaso' pi sva-sva-maryādayāparyāpitā iva labdha-stambhārambhās tatra tatra kevalaṃ sthitavantaḥ । yuktam eva ca tat proktaṃ, yatas tasmin khalv asmākaṃ śrī-nanda-vraja-rāja-grāme tat-tat-prema-viśeṣa-rīti-nītir eva grāmaṇīr iva vartate । [] tathā hi, kadācit kasyacit kañcit prati vacanam,

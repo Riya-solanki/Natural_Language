@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 663 | label: meter | g:0.111 m:0.521 ---
+
+haṃho paśya jaḍo' pi vārida-cayaḥ sarvopari sthāyy api
+cchāyābhiḥ svarasaiś ca taṃ paricaraty antaścara-premataḥ ।
+kaṣṭaṃ suṣṭhu vayaṃ tad-eka-śaraṇa-prāṇa-sthitiṃ-manyatā-
+gaṇyās tasya vinā tu sevanam amūr jīvāma dhig jīvitam ।। [sragdharā]

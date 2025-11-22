@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5829 | label: meter | g:0.306 m:0.5 ---
+
+vāsudevasya yaccakraṃ tasya cakrasya ye tvarāḥ ।
+te hi cchindantu pāpānme mama hiṃsantu hiṃsakān ।।

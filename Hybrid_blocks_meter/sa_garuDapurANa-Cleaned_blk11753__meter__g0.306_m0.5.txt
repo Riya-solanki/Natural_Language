@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11753 | label: meter | g:0.306 m:0.5 ---
+
+atra snānaṃ yaḥ karoti sa yāti paramāṃ gatim ।
+snānaṃ cakāra sā kanyā jale paramapāvane ।।

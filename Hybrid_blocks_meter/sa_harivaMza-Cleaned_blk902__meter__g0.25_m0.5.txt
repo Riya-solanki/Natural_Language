@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 902 | label: meter | g:0.25 m:0.5 ---
+
+kakutsthakanyāṃ gāṃ nāma na lebhe sa yatis tadā 
+rājyaṃ naicchad yatiḥ pitrā dattaṃ tatpariṇāmavit । 
+yatra praviṣṭaḥ puruṣa ātmānaṃ nāvabudhyate । 
+tenāsau mokṣam āsthāya brahmabhūto abhavan muniḥ ।। 
+pitari dhvaṃsite sthānād indrāṇyā dharṣaṇād dvijaiḥ । prāpito ajagaratvaṃ vai yayātir abhavan nṛpaḥ । 
+teṣāṃ yayātiḥ pañcānāṃ vijitya vasudhām imām 
+devayānīm uśanasaḥ sutāṃ bhāryām avāpa ha 
+śarmiṣṭhām āsurīṃ caiva tanayāṃ vṛṣaparvaṇaḥ ।।

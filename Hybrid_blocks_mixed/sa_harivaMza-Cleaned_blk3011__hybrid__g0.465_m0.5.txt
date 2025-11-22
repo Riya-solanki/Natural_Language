@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3011 | label: hybrid | g:0.465 m:0.5 ---
+
+tvadgato yo hi naḥ snehas taṃ tyajāmo adya vai vayam 
+ahitaṃ svasya vaṃśasya na tvāṃ vayam upāsmahe ।।

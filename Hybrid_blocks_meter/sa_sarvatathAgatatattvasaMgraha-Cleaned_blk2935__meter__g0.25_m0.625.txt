@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2935 | label: meter | g:0.25 m:0.625 ---
+
+kāye buddhasamādhistu svabhijñā saugatī tviyaṃ ।
+tasyāḥ suprati[veditya]bauddhīṃ siddhimavāpnuyād ।।

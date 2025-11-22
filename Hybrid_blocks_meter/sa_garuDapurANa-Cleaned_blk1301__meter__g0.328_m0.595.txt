@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1301 | label: meter | g:0.328 m:0.595 ---
+
+sthitvā caiva pare tattve mantranyāsaṃ tu kārayet ।
+svaśāstravihito mantro nyāsastasmiṃstathoditaḥ ।।

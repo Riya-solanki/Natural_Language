@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 997 | label: meter | g:0.194 m:0.625 ---
+
+go-purasya puraḥ kṛtvā govardhana-dharādharam ।
+gopa-vāsaḥ sa tatrāsīn nagopa-vasatir yataḥ ।। [anuṣṭubh]
+paurastya-vastya-tyāge' pi tat-tan-maryādayācitaḥ ।
+vrajākāras tathaivāsīt kṛṣṇāpāre yathā sthitaḥ ।। [anuṣṭubh]

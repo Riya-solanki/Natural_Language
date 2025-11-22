@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 98 | label: meter | g:0.306 m:0.5 ---
+
+śikhipatir atidurlaḍitaḥ pitror abhilaṣati madhyam adhiśayitum ।
+tāv apy ekaśarīrāv iti viṣamāśaś ciraṃ jayati ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 598 | label: grammar | g:0.75 m:0.5 ---
+
+yadi na viramayed agnaye suśīryatamo juṣasva svāhā ity aparaṃ dvādaśarātraṃ niśāyāḥ sāyamāhuter atipattir prātarāśe prātarāhuter āsādyāgnihotram ā tamitor āsīta ।

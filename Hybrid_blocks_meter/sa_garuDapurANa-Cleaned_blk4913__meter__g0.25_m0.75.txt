@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4913 | label: meter | g:0.25 m:0.75 ---
+
+iti dvāviṃśatividhaṃ vātaraktāmayaṃ viduḥ ।
+prāṇādayastathānyo anyaṃ samākrāntā yathākramam ।।

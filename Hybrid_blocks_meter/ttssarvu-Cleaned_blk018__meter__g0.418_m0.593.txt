@@ -1,0 +1,4 @@
+--- source: ttssarvu-Cleaned.txt | block: 18 | label: meter | g:0.418 m:0.593 ---
+
+ātmānamadhikṛtyetyadhyātmam taddvividhaṃ śārīraṃ mānasaṃ ceti śārīraṃ vātapittaśleṣmavaiṣamyanimittaṃ mānasaṃ kāmakrodhalobhamoherṣyāviṣayaviśeṣadarśanādarśananimittam ।
+etadubhayamapi āntaropāyasādhyatvādadhyātmamityucyate ।।

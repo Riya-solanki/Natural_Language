@@ -1,0 +1,6 @@
+--- source: brssbh1u-Cleaned.txt | block: 321 | label: meter | g:0.25 m:0.552 ---
+
+FNasya chāyākarasya bimbasya ।
+parāk bāhyaṃ jagat ।
+bhīṣā bhayena, asmāt brahmaṇaḥ, pavate calati ।
+uktāpekṣayā pañcamo mṛtyuḥ samāptāyuṣāṃ nikaṭe dhāvatītyarthaḥ ।

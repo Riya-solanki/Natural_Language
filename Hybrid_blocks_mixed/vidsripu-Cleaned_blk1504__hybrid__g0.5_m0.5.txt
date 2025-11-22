@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1504 | label: hybrid | g:0.5 m:0.5 ---
+
+asindūreṇa sīmanto mā bhūn no yoṣitām iti ।
+ataḥ pariharanty ājā- vasiṃ dūreṇa te arayaḥ ।।

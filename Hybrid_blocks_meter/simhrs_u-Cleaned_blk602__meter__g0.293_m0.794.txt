@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 602 | label: meter | g:0.293 m:0.794 ---
+
+priya-śravaṇād, yathā-
+priya-śravaṇaje hy asmin abhutthānopagūhane । 
+prīti-dānaṃ priyaṃ vākyaṃ romaharṣādayo' pi ca ।।

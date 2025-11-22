@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4731 | label: meter | g:0.25 m:0.625 ---
+
+na babhūva bhayaṃ tādṛg gānavānāṃ purā raṇe 
+yādṛśaṃ yudhyamānānām aniruddhena saṃyuge ।। 
+yudhyatām aniruddhena yathāvartata dāruṇam । tādṛśaṃ na bhayaṃ teṣām abhavad devasaṃyuge । 
+kecid vamanto rudhiram apatan vasudhātale 
+dānavā giriśṛṅgābhā gadāśūlāsipāṇayaḥ ।। 
+kecin mathitamastiṣkāḥ kecid bhinnagalāntarāḥ । 
+te bāṇam utsṛjya raṇe jagmur bhayasamākulāḥ 
+viśālam ākāśatalaṃ dānavā nirjitās tadā ।।

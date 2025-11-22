@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 673 | label: grammar | g:0.532 m:0.155 ---
+
+tasya vaṃśam ahaṃ rājan kīrtayiṣyāmi tac chṛṇu 
+brahmadattasya paurāṇaṃ pauravasya mahātmanaḥ ।। 
+bṛhatkṣatrasya dāyādaḥ suhotro nāma dhārmikaḥ । suhotrasyāpi dāyādo hastī nāma babhūva ha । tenedaṃ nirmitaṃ pūrvaṃ puraṃ vai hastināpuram ।। hastinaś cāpi dāyādās trayaḥ paramadhārmikāḥ । ajamīḍho dvimīḍhaś ca puramīḍhas tathaiva ca । ajamīḍhasya dhūminyāṃ jajñe bṛhadiṣur nṛpa । 
+purumitrasya dāyādo rājā bṛhadiṣur nṛpa 
+bṛhaddhanur bṛhadiṣoḥ putras tasya mahāyaśāḥ 
+āsīd bṛhadiṣoḥ putro bṛhaddharmeti viśrutaḥ । 
+bṛhaddharmeti vikhyāto rājā paramadhārmikaḥ ।।

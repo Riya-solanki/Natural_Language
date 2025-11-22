@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3988 | label: meter | g:0.25 m:0.625 ---
+
+śucidratho vṛṣṇimāṃśca supeṇaśca sunīthakaḥ ।
+nṛcakṣuśca mukhābāṇaḥ medhāvī ca nṛpañjayaḥ ।।

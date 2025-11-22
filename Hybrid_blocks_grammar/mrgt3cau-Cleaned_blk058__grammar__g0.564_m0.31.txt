@@ -1,0 +1,9 @@
+--- source: mrgt3cau-Cleaned.txt | block: 58 | label: grammar | g:0.564 m:0.31 ---
+
+Vṛtti:
+[pūte] upalepanādinā pavitrite [paśuśravaṇavarjite] adīkṣitaśravaṇarakṣite [mahītale] bhūtale [paridhyantaḥsthitaṃ] sūtroccāṭanakṛtamaryādātmakaparidhyantarasthaṃ [śivaṃ praṇavavigrahaṃ] praṇavākāraṃ parameśvaraṃ [gaṇādhyakṣaṃ] gaṇeśvaraṃ guruṃ ca [iṣṭvā] abhyarcya [kriyāśrayaṃ kārakaṃ ca] vyākhyākriyopayogikaraṇīsūtrādikārakamiṣṭvā
+[guptasatsūtraṃ] saṃrakṣitaśobhanagrathitasūtraṃ pustakaṃ kasyacit pīṭhayantrakādeḥ upari [vidhāya] kṛtvā kṛtārthaṃ śiṣyaṃ aṅga ityāmantrya [paṭhasveti] paṭheti [brūyād] ādiśet।
+svayaṃ ca [guruḥ prāgudaṅmukhaḥ] prāṅmukha udaṅmukho vā vyākhyāṃ [prārabheta] upakramet}
+sambandhārthoktipūrvikām iti kīdṛśaḥ sambandhaḥ? paro mahān antarālo divyo divyādivyo adivya iti ṣaṭprakāraḥ।
+arthaḥ prayojanam। uktistātparyakathanam। abhidheyamityarthaḥ। tatpurassaraṃ sambandhābhidheyaprayojanavarṇanaṃ prathamaṃ kuryāditi bhāvaḥ।
+kiṃ ca

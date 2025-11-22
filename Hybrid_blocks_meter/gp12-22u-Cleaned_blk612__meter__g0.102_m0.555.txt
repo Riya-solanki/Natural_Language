@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 612 | label: meter | g:0.102 m:0.555 ---
+
+[] atra ca varṇitaṃ labdha-varṇair api,
+āśliṣya sama-śītoṣṇaṃ prasūna-vana-mārutam ।
+janās tāpaṃ juhur gopyo na kṛṣṇa-hṛta-cetasaḥ ।।[]

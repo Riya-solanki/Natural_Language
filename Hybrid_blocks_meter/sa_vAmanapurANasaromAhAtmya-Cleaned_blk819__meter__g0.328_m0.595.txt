@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 819 | label: meter | g:0.328 m:0.595 ---
+
+naitādṛsaṃ brāhmaṇasyāsti vittaṃ yathaikatā samatā satyatā ca ।
+śīle sthitirdaṇḍavidhānavarjanamakrodhanaścoparamaḥ kriyābhyaḥ ।।

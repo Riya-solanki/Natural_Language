@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 83 | label: grammar | g:0.573 m:0.5 ---
+
+savyāpārām ahani na tathā pīḍayed viprayogaḥ śaṅke rātrau gurutaraśucaṃ nirvinodāṃ sakhīṃ te ।
+matsaṃdeśaiḥ sukhayitum ataḥ paśya sādhvīṃ niśīthe tām unnidrām avaniśayanāsannavātāyanasthaḥ ।।

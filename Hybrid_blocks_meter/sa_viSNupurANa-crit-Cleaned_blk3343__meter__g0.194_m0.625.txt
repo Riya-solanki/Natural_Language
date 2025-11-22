@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3343 | label: meter | g:0.194 m:0.625 ---
+
+amādyad indraḥ somena dakṣiṇābhir dvijātayaḥ 
+marutaḥ pariveṣṭāraḥ sadasyāś ca divaukasaḥ ।।

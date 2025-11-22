@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 10 | label: grammar | g:0.601 m:0.5 ---
+
+māne necchati vārayaty upaśame kṣmām ālikhantyāṃ hriyāṃ svātantrye parivṛtya tiṣṭhati karau vyādhūya dhairyaṃ gate 
+tṛṣṇe tvām anubadhnatā phalam iyatprāptaṃ janenāmunā yaḥ spṛṣṭo na padā sa eva caraṇau spraṣṭuṃ na saṃmanyate ।।

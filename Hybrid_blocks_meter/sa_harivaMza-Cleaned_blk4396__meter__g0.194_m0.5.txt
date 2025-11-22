@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4396 | label: meter | g:0.194 m:0.5 ---
+
+manmathe tu gate nāśaṃ gate cānaṅgatāṃ purā 
+netrāgninā tryambakasya śūlapāṇeḥ purā yuge । 
+kāmapatnī hi kanyaiṣā kāmakāmā ratiḥ śubhā 
+māyārūpeṇa taṃ daityaṃ mohayaty asakṛc chubhā ।।

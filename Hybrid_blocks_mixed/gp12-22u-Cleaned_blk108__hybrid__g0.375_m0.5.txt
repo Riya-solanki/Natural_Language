@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 108 | label: hybrid | g:0.375 m:0.5 ---
+
+[] atha sa evaṃ vivicya sahasā jahāsa । tad anu kiñcil-labdhāśvāsatayā calantaś ca te-

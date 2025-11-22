@@ -1,0 +1,17 @@
+--- source: vacbhamu-Cleaned.txt | block: 991 | label: grammar | g:0.55 m:0.331 ---
+
+brahmadṛṣṭirutkarṣāt ।
+yadyapi sāmānādhikaraṇmubhayathāpi ghaṭate tathāpi brahmaṇaḥ sarvādhyakṣatayā phalaprasavasāmarthyena phalavatvātprādhānyena tadevādityādidṛṣṭibhiḥ saṃskartavyamityādityādidṛṣṭayo brahmaṇyeva kartavyā na tu brahmadṛṣṭirādityādiṣu ।
+na caivaṃvidhe avadhṛte śāstrārthe nikṛṣṭadṛṣṭinorkṛṣṭa iti laukiko nyāyo apavādāya prabhavatyāgamavirodhena tasyaivāpoditatvāditi pūrvapakṣasaṃkṣepaḥ ।
+satyaṃ sarvādhyakṣatayā phalādātṛtvena brahmaṇa eva sarvatra vāstavaṃ prādhānyaṃ tathāpi śabdagatyanurodhena kvacitkarmaṇa eva prādhānyamavasūyate ।
+yathā adarśapūrṇamāsābhyāṃ yajeta svargakāmaḥ', acitrayā yajeta paśukāmaḥ' ityādau ।
+atra hi sarvatra yāgādyārādhitā devataiva phalaṃ prayacchatīti sthāpitaṃ tathāpi śabdataḥ karmaṇaḥ karaṇatvāvagamane phalavatvapratūte- prādhānyam ।
+kvacidravyasya yathā vrīhīnprokṣatītyādau ।
+taduktaṃ 'yaistu dravyaṃ saṃcikīrṣyate guṇastatra pratīyate' iti ।
+tadiha yadyapi sarvādhyakṣatayā vastuto brahmaiva phalaṃ prayacchati tathāpi śāstraṃ brahmabuddhyā'dityādau pratika upāsyamāne brahma phalāya kalpate ityabhivadati kiṃvādityādibuddhyā brahmaiva viṣayīkṛtaṃ palāyetyubhayathāpi brahmaṇaḥ sarvādhyakṣasya phaladānopapatteḥ śāstrārthasaṃdehe lokānusārato niścīyate ।
+tadidamuktam nirdhārite śāstrārtha etadevaṃ syāditi ।
+na kevalaṃ laukiko nyāyo niścaye heturapi tu ādityādiśabdānāṃ prāthamyena mukhyārthatvamapītyāha prāthamyācceti ।
+iti paratvamapi brahmaśabdasyāmumeva nyāyamavagamayati ।
+tathāhi svaravṛtyā ādityādiśabdā yathā svārthe vartante tathā brahmaśabdo api svārthe vartsyati yadi svārtho asya vapavakṣitaḥsyāt ।
+tathācetiparatvamanarthakaṃ tasmāditinā svārthātpracyāvya brahmapadaṃ jñānaparaṃ svarūpaparaṃ vā kartavyam ।
+naca brahmapadamādityādipadārtha iti ,pratūtipara evāyamitiparaḥśabdo yathā gauriti me gavayo abhavaditi ।

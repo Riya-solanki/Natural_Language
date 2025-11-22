@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1055 | label: meter | g:0.194 m:0.625 ---
+
+sarve yajñā mahābāho tasyāsan bhūridakṣiṇāḥ 
+sarve kāñcanayūpāś ca sarve kāñcanavedayaḥ ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 210 | label: meter | g:0.224 m:0.755 ---
+
+"tau śubhra-dyuti-nīrada-dyuti-harāv indrāśma-hema-prabhā
+hṛd-vastrau sita-kañja-nīla-kamala-śrī-cori-cārv-ānanau ।
+cañcat-khañjana-gañjanākṣi-yugalau dantīndrajid-vikramau
+tān astambhayatāṃ janān yad akhilāṃs tan mitra citraṃ na hi ।। [śārdūla]

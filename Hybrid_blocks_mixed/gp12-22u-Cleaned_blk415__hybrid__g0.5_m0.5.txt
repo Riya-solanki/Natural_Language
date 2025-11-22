@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 415 | label: hybrid | g:0.5 m:0.5 ---
+
+[] vṛndāha-yadapi tathā nigūḍham, tathāpi vikriyāṃ vinā prema kathaṃ dhriyatām? satyāṃ ca vikriyāgatyāṃ parasparaṃ durapahnava eva nava-navānurāgaḥ katham āvrīyatām? yataḥ-

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 775 | label: meter | g:0.25 m:0.625 ---
+
+oṃ viṣṇave trailokyamohanāya namaḥ ।
+oṃ śrīṃ klīṃ trailokyamohanāya vipṇave namaḥ ।।

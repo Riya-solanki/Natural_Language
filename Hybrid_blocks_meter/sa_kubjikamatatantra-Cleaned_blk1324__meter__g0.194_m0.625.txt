@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1324 | label: meter | g:0.194 m:0.625 ---
+
+kiṃ tu taddviguṇenaiva kālena prathamāditaḥ 
+krameṇa sidhyate sarvam ādyantena vilakṣayet ।।

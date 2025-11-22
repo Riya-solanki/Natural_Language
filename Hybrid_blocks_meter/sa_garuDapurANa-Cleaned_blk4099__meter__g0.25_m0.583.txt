@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4099 | label: meter | g:0.25 m:0.583 ---
+
+tasyāyustatra vaṃśe abhūdyayātirbharataḥ kuruḥ ।
+śantanustasya vaṃśe abhūdgaṅgāyāṃ śantanoḥ sutaḥ ।।
+bhīṣmaḥ sarvaguṇaiyukto brahmavaivartapāragaḥ ।।
+śantanoḥ satyavatyāṃ ca dvau putrau saṃbabhūvatuḥ ।
+citrāṅgadantu gandharvaḥ putraṃ citrāṅgado avadhīt ।।

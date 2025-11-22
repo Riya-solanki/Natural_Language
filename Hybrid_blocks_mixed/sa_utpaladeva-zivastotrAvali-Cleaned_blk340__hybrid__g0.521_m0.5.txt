@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 340 | label: hybrid | g:0.521 m:0.5 ---
+
+bhaktā nindānukare api tavāmṛtakaṇair iva hṛṣyanty evāntarāviddhās tīkṣṇaromāñcasūcibhiḥ ।।

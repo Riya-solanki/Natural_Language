@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5001 | label: meter | g:0.194 m:0.625 ---
+
+manuṣyadehināṃ ceṣṭām ity evam anuvartataḥ 
+līlā jagatpates tasya chandataḥ saṃpravartate ।।

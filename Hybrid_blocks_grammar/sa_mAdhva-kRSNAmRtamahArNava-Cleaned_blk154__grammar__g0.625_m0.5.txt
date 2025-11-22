@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 154 | label: grammar | g:0.625 m:0.5 ---
+
+ekādaśyāṃ tu yo bhuṅkte mohenā avṛtacetanaḥ śuklāyām atha kṛṣṇāyāṃ nirayaṃ yāti sa dhruvam ।।

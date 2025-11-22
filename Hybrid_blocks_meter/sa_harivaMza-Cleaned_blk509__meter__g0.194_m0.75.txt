@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 509 | label: meter | g:0.194 m:0.75 ---
+
+tato daśasu māseṣu samuttasthur yathākramam 
+kumārās te yathākālaṃ sagaraprītivardhanāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3329 | label: meter | g:0.25 m:0.5 ---
+
+tadā jānīta matimāṃ buddhacakṣuridaṃ mama ।
+tataḥ prabhṛti buddhānāṃ sarvakalpāni sādhayed ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1771 | label: meter | g:0.146 m:0.585 ---
+
+yathā mālatī-mādhave-
+ye nāma kecid iha naḥ prathayanty avajñāṃ
+jānanti te kim api tān prati naiṣa yatnaḥ ।
+utpatsyate' sti mama ko' pi samāna-dharmā
+kālo hy ayaṃ niravadhir vipulā ca pṛthvī ।।

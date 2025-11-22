@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8006 | label: meter | g:0.25 m:0.831 ---
+
+śīghraga uvāca ।
+purāhaṃ vaiśyajātīyaḥ sākaṃ sakhyā ca kenacit ।
+vāṇijyaṃ kartumagamaṃ deśamanyaṃ mahādhanaḥ ।।

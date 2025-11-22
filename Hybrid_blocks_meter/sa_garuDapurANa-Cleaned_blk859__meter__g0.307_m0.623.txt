@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 859 | label: meter | g:0.307 m:0.623 ---
+
+āvāhya maṇḍale devaṃ kṛtvā nyāsaṃ tu tasya ca ।
+mudrāṃ pradarśya pādyadīndadyānmūlena śaṅkara ।।

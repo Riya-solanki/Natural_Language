@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 47 | label: meter | g:0.25 m:0.5 ---
+
+na ced antaḥkṛtānanta- viśvarūpo maheśvaraḥ ।
+syād ekaś cidvapur jñāna- smṛtyapohanaśaktimān ।।

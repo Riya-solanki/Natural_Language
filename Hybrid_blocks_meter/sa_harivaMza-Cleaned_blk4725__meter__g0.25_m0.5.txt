@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4725 | label: meter | g:0.25 m:0.5 ---
+
+tatas tat sumahad yuddhaṃ sametam abhavat punaḥ 
+tiṣṭha tiṣṭheti ca tadā vāco aśrūyanta sarvaśaḥ ।। 
+aniruddho raṇe vīraḥ sa ca tān abhyavartata । 
+tad āścaryaṃ samabhavad yad ekas taiḥ samāgataḥ 
+ayudhyata mahāvīryair dānavaiḥ saha saṃyuge ।।

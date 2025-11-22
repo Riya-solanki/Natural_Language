@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3939 | label: meter | g:0.194 m:0.625 ---
+
+tasyām utpādayāmāsa putrān daśa mahārathān 
+cārudeṣṇaṃ sudeṣṇaṃ ca pradyumnaṃ ca mahābalam ।।

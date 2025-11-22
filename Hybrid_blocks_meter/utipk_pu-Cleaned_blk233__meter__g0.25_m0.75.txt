@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 233 | label: meter | g:0.25 m:0.75 ---
+
+pṛthagdīpaprakāśānāṃ srotasāṃ sāgare yathā ।
+aviruddhāvabhāsānām ekakāryā tathaikyadhīḥ ।।

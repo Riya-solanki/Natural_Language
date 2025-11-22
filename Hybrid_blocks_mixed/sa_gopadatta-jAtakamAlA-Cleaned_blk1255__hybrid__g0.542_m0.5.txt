@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1255 | label: hybrid | g:0.542 m:0.5 ---
+
+upanatam api puṇyair vipralambhāvasānaṃ dhig anupaśamakāri śrīsukhaṃ pārthivānām ।
+piśitam iva vipūti kravyabhugmaṇḍalānāṃ yad iha bhavati puṃsāṃ vairavairasya mūlam ।।

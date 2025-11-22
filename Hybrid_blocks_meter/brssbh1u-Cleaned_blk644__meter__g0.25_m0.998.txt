@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 644 | label: meter | g:0.25 m:0.998 ---
+
+padyu pādayuktaṃ ।
+saṃcārasamarthamiti yāvat ।

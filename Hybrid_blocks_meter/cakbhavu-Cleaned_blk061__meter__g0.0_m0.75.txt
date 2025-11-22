@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 61 | label: meter | g:0.0 m:0.75 ---
+
+ity asya jhara iti rūpam

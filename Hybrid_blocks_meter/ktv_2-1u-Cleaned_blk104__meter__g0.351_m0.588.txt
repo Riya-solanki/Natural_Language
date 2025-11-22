@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 104 | label: meter | g:0.351 m:0.588 ---
+
+yat tu kṛdanteṣv api dhātavo bhāvanāṃ na vyabhicarantīti ।
+satyaṃ dhātvarthā na vyabhicaranti ।
+tair eva tu gamyamānatvād anabhidheyatvam api śakyaṃ vaktum ।
+tathā hi

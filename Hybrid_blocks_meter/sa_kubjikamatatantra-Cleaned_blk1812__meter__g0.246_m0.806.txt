@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1812 | label: meter | g:0.246 m:0.806 ---
+
+etat kulālikāmnāye piṇḍakubjicatuṣṭayam 
+avijñāya na dātavyaṃ yāvan nādeśitaḥ śiśuḥ ।।

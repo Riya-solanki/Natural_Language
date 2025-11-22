@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3126 | label: meter | g:0.194 m:0.75 ---
+
+vṛddhau tavāmbāpitarau parabhṛtyatvam āgatau 
+tvatkṛte bhartsyamānau tau kaṃsenādīrghadarśinā ।।

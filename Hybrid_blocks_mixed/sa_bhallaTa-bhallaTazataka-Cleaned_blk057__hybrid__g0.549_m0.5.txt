@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 57 | label: hybrid | g:0.549 m:0.5 ---
+
+ājanmanaḥ kuśalam aṇv api re kujanman pāṃso tvayā yadi kṛtaṃ vada tat tvam eva 
+utthāpito asy analasārathinā yad arthaṃ duṣṭena tat kuru kalaṅkaya viśvam etat ।।

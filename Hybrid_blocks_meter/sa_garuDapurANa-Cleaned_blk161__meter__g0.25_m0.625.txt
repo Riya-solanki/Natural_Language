@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 161 | label: meter | g:0.25 m:0.625 ---
+
+anasūyā tathaivātrerjajñe putrānakalmaṣān ।
+somaṃ durvāsasaṃ caiva dattātreyaṃ ca yoginam ।।

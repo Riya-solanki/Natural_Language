@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 79 | label: meter | g:0.335 m:0.731 ---
+
+satprakāśanaśaktirevāsyāvidyeti sāṃpratam ।
+yato yeyamasatprakāśanaśaktirvijñānasya kiṃ punarasyāḥ śakyam ,asaditi cet, kimetatkāryamāhosvidasyā jñāpyam ।
+na tāvatkāryam, asatastattvānupapatteḥ ।
+nāpi jñāpyaṃ, jñānāntarānu

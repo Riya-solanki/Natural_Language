@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 882 | label: meter | g:0.25 m:0.625 ---
+
+brahmaṃ bhittvā tato viṣṇuṃ rudram īśvaram eva ca 
+setumadhyena gamanaṃ kuñcikodghāṭayed bilam ।।

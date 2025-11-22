@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2215 | label: meter | g:0.25 m:0.625 ---
+
+gaṅgādvāre prayāge ca gaṅgāsāgarasaṅgame ।
+prayāgaṃ paramaṃ tīrthaṃ mṛtānāṃ bhuktimuktidam ।।

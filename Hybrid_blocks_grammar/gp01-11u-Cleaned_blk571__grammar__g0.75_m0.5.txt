@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 571 | label: grammar | g:0.75 m:0.5 ---
+
+[] sā tu rākṣasa-pakṣiṇī "muñca muñca" iti puṣṭa-kruṣṭatayā vyathita-sanīḍāṃ pīḍāṃ prapañcayantī prāṇān api muñcantī saṃskāra-vaśāt taṃ vakṣasy eva nikṣipya pakṣa-vikṣepād vrajād bahiḥ sasāra mamāra ca । yatra hrādinī sā hrādinīty eva tarkyate sma, yatra ca svarūpāvasthitim eva cāsasāra ।

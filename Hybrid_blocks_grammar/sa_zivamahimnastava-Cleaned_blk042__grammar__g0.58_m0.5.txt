@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 42 | label: grammar | g:0.58 m:0.5 ---
+
+apūrvaṃ lāvaṇyaṃ vivasanatanos te vimṛṣatāṃ munīnāṃ dārāṇāṃ samajani sa ko apy avyatikaraḥ ।
+yato bhagne guhye sakṛd api saparyāṃ vidadhatāṃ dhruvaṃ mokṣaṃ līlāṃ kim api puruṣārthaṃ prasavite ।। Smstadd

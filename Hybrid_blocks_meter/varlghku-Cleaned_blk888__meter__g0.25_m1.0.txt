@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 888 | label: meter | g:0.25 m:1.0 ---
+
+niṣṭhāyāṃ seṭi ।।
+ṇerlopaḥ । bhāvitavān ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3531 | label: meter | g:0.316 m:0.5 ---
+
+ityevamukte vacane mahātmanā vihasya daityādhipatiḥ saṛtvijaḥ ।
+prādād dvijendrāya padatrayaṃ tadā yadā sa nānyaṃ pragṛhāṇa kiñcit ।।

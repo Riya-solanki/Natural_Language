@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2169 | label: meter | g:0.272 m:0.595 ---
+
+dvīpopadvīpasambhūtaṃ sarvam etac carācaram 
+vyaktāvyaktaṃ tu taṃ yasmāt kāraṇaṃ taṃ nigadyate ।।

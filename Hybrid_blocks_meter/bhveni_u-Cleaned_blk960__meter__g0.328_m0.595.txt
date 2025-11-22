@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 960 | label: meter | g:0.328 m:0.595 ---
+
+māmuddiśya tyajanprāṇānkenacinna nivāritaḥ ।
+tatkṛte tyajato bāṣpaṃ kiṃ me dīnasya vāryate ।।

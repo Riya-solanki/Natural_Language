@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4643 | label: meter | g:0.194 m:0.625 ---
+
+veṇuvīṇāmṛdaṅgaiś ca paṇavaiś ca sahasraśaḥ 
+vādyamānaiḥ sa śuśrāva gītam apsarasāṃ tadā ।।

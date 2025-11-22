@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 40 | label: hybrid | g:0.5 m:0.5 ---
+
+namaścarācarākāraparetanicayaiḥ sadā krīḍate tubhyam ekasmai cinmayāya kapāline ।।

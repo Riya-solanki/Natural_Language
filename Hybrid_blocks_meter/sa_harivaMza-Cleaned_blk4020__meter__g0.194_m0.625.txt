@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4020 | label: meter | g:0.194 m:0.625 ---
+
+adya prabhṛti tānīha sahitāḥ sarvanairṛtāḥ 
+mamaivopahariṣyanti daityāś ca saha dānavaiḥ ।।

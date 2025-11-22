@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1421 | label: meter | g:0.239 m:0.587 ---
+
+āstāṃ dhanuḥ kim asinā parato bhusuṇḍī-
+cakrair alaṃ bhavatu paṭṭiśam udgarādyaiḥ ।
+dhāvat-plavaṅga-pṛtanā-kabala-krameṇa
+yāsyāmy ahaṃ suhitatāṃ ca ripu-kṣayaṃ ca ।।

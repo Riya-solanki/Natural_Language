@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 240 | label: grammar | g:0.629 m:0.0 ---
+
+taṃ dṛṣṭvā paramaprītāḥ prajāḥ prāhur maharṣayaḥ 
+vṛttīnām eṣa vo dātā bhaviṣyati janeśvaraḥ ।। 
+taṃ prajāḥ pṛthivīnātham upatasthuḥ kṣudhārditāḥ । oṣadhīṣu pranaṣṭāsu tasmin kāle hy arājake ।। tam ūcus tena tāḥ pṛṣṭās tatrāgamanakāraṇam । arājake naraśreṣṭha dharitryā sakalauṣadhīḥ । grastās tataḥ kṣayaṃ yānti prajāḥ sarvāḥ prajeśvara ।। tvaṃ no vṛttiprado dhātrā prajāpālo nirūpitaḥ । dehi naḥ kṣutparītānāṃ prajānāṃ jīvanauṣahīḥ । 
+tato vainyaṃ mahārāja prajāḥ samabhidudruvuḥ 
+tvaṃ no vṛttiṃ vidhatsveti maharṣivacanāt tadā ।।

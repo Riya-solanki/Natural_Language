@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 540 | label: meter | g:0.139 m:0.844 ---
+
+ādhinā, yathā-
+kisalayam iva mugdhaṃ bandhanād vipralūnaṃ
+hṛdaya-kusuma-śoṣī dāruṇo dīrgha-śokaḥ ।
+glapayati paripāṇḍu kṣāmam asyāḥ śarīraṃ
+śaradija iva gharmaḥ ketakī-patra-garbham ।।

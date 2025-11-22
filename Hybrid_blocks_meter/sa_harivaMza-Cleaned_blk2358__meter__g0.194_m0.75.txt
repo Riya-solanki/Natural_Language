@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2358 | label: meter | g:0.194 m:0.75 ---
+
+evaṃ kathayatas tasya vāsudevasya dhīmataḥ 
+prādurbabhūvuḥ śataśo raktamāṃsavasāśanāḥ ।।

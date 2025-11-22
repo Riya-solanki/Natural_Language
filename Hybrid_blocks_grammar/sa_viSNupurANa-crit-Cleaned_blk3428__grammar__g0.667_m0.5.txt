@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3428 | label: grammar | g:0.667 m:0.5 ---
+
+māṃdhātā śaśabindor duhitaraṃ bindumatīm upayeme । purukutsam ambarīṣaṃ ca mucakundaṃ ca tasyāṃ putratrayam utpādayām āsa ।।

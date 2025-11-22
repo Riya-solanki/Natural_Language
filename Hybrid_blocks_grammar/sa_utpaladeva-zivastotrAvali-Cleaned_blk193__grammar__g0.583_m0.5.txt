@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 193 | label: grammar | g:0.583 m:0.5 ---
+
+ye sadaivānurāgeṇa bhavatpādānugāminaḥ yatra tatra gatā bhogāṃs te kāṃś cid upabhuñjate ।।

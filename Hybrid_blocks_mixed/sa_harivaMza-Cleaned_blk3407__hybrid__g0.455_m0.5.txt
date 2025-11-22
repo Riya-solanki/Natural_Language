@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3407 | label: hybrid | g:0.455 m:0.5 ---
+
+apatitvaṃ striyāḥ śreyo na tu śūraḥ striyāḥ patiḥ 
+svargastrīṇāṃ priyāḥ śurās teṣām api ca tāḥ priyāḥ ।।

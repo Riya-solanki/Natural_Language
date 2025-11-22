@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 423 | label: hybrid | g:0.542 m:0.5 ---
+
+ekaṃ ca ṣaṭ pañca nareṇa muktāstvaṣṭau śarāḥ sapta ca dānavena ।
+ṣaṭ sapta cāṣṭau nava ṣaṇnareṇa dvisaptatiṃ daityapatiḥ sasarjja ।।

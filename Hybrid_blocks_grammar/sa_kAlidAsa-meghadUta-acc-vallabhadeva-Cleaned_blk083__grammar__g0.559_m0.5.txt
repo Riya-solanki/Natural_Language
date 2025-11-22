@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 83 | label: grammar | g:0.559 m:0.5 ---
+
+āloke te nipatati purā sā balivyākulā vā matsādṛśyaṃ virahatanu vā bhāvagamyaṃ likhantī 
+pṛcchantī vā madhuravacanāṃ śārikāṃ pañjarasthāṃ kac cid bhartuḥ smarasi nibhṛte tvaṃ hi tasya priyeti ।।

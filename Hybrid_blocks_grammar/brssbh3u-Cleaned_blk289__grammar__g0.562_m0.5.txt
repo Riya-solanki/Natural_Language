@@ -1,0 +1,3 @@
+--- source: brssbh3u-Cleaned.txt | block: 289 | label: grammar | g:0.562 m:0.5 ---
+
+FN ito asmāllokān diṣṭaṃ lokāntaraṃ pretaṃ gataṃ jñātayo agnaye harantītyarthaḥ ।

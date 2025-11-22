@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 437 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad īdṛg-vacasi sati snigdhakaṇṭhe vacasi kiñcit-kuṇṭhena madhukaṇṭhena manasi bhāvitam - śrīmatā devarṣiṇedam āvāṃ praty atiharṣeṇādiṣṭaṃ - yadi kadācic chrīmati mahā-premavati vraje kṛta-vrajanayoḥ kathā-yogo bhavatoḥ sambhāvyate, tadā śrī-kṛṣṇa-devasya sarvato varṣyam aiśvaryaṃ gopanīyam ity ato munivarga-prasiddha-garga-siddhāntam evālambya saṃvadiṣyāvahe । sa cāmībhiḥ śruta eveti nāścaryāya paryavasiṣyatīti ।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 599 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha dhīratām eva dhārayan parama-dhīra-dhīr asau dvi-tra-mitra-parivṛtatayā bṛhad-gṛhālinda-vedīṃ vindamānaḥ kanakāsana-kṛtāsanaḥ svakula-gokula-kula-purandhrībhiḥ sārdham ardhāṅgena sānandam upananda-vadhū-hasta-vinyastaṃ bālaṃ puraskurvatā purataḥ patir abhijagme । bālaś ca tasyotsaṅga-saṅgī kārayāñcakre । tatra ca-

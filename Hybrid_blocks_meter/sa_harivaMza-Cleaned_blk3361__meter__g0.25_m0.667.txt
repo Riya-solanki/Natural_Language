@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3361 | label: meter | g:0.25 m:0.667 ---
+
+krodharaktān mukhāt tasya prasṛtāḥ svedabindavaḥ 
+udyatasyeva sūryasya prasṛtāḥ pādapaṅktayaḥ ।। 
+yathā ravikaraspṛṣṭā vṛkṣāvaśyāyabindavaḥ । 
+so ājñāpayata saṃkruddhaḥ puruṣān vyāyatān bahūn 
+gopāv etau samājaughān niṣkrāmyetāṃ vanecarau ।।

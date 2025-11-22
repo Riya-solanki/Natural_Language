@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6433 | label: meter | g:0.25 m:0.5 ---
+
+citpatirmeti ca śanaiḥ plāvyātmanaṃ samāhitaḥ ।
+hiraṇyavarṇā iti ca pāvamānyastathā parāḥ ।।

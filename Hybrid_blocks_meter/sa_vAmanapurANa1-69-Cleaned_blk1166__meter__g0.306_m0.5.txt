@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1166 | label: meter | g:0.306 m:0.5 ---
+
+pādau ca tasyāḥ kamalodarābhau prayatnatastau hi kṛtau vidhātrā ।
+ājñāpi tābhyāṃ nakharatnamālā nakṣatramālā gagane yathaiva ।।

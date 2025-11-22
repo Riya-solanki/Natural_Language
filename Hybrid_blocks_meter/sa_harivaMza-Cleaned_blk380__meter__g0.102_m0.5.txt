@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 380 | label: meter | g:0.102 m:0.5 ---
+
+akarot putrakāmas tu manur iṣṭiṃ prajāpatiḥ 
+mitrāvaruṇayos tāta pūrvam eva viśāṃ pate 
+anutpanneṣu navasu putreṣv eteṣu bhārata ।।

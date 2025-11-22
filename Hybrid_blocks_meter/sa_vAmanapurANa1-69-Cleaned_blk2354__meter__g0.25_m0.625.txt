@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2354 | label: meter | g:0.25 m:0.625 ---
+
+tatastāṃ siṣicuḥ sakhyaḥ sarasvatyā jalena hi ।
+sā sicyamānā sutarāṃ śiśireṇāpyathāmbhasā ।।

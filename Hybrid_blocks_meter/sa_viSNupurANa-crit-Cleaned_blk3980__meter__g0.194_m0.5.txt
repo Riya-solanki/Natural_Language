@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3980 | label: meter | g:0.194 m:0.5 ---
+
+yaḥ kārtavīryo bubhuje samastān dvīpān samākramya hatāricakraḥ 
+kathāprasaṅgeṣv abhidhīyamānaḥ sa eva saṃkalpavikalpahetuḥ ।।

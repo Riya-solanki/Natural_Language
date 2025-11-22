@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 597 | label: meter | g:0.25 m:0.561 ---
+
+tasyāśrutaṣaṣṭhyarthasaṃbandhalakṣakatvalpanāyogāt śrutadvitīyāvibhakteḥ pūrvapadasaṃbandhakalpanāyāṃ lāghavāt, ato niṣādasyeṣṭisāmarthyamātraṃ kalpyamiti ।
+tadbrahmalokaśabde karmadhāraya ityarthaḥ ।
+karmadhāraye liṅgaṃ cāstīti vyācaṣṭe-etadeveti ।
+sūtre cakāra uktanyāyasamuccayārthaḥ ।।

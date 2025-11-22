@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 505 | label: meter | g:0.25 m:0.5 ---
+
+yo ayaṃ tavāgato deva samīpaṃ devatāgaṇaḥ 
+sa tvam eva jagatsraṣṭā yataḥ sarvagato bhavān ।।

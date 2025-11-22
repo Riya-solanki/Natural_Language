@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 609 | label: meter | g:0.203 m:0.836 ---
+
+iti śrī-śrī-gopāla-campūm anu
+pūtanā-vadhāvadhāraṇaṃ nāma
+pañcamaṃ pūraṇam ।
+।।

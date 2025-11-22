@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2521 | label: meter | g:0.25 m:0.5 ---
+
+śivaṃ cāsya jalasyāstu tvaṃ ca gaccha mahārṇavam 
+sthāne tv iha bhaved doṣas tavāntakaraṇo mahān ।।

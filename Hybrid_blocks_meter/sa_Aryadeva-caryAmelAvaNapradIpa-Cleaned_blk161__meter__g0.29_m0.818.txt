@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 161 | label: meter | g:0.29 m:0.818 ---
+
+sevayan kāmaguṇān pañca jñānārthirāgiṇaḥ sadā ।। iti । 
+kāyavākcittavajrāṇāṃ kāyavākcittabhāvanam ।
+svarūpeṇaiva tatkāryaṃ laghusiddhiravāpyate ।।

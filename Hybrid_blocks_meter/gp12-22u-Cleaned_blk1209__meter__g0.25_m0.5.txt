@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1209 | label: meter | g:0.25 m:0.5 ---
+
+indur indu-bhramaṃ yāti darpaṇaḥ pratibimbatām ।
+mohaṃ padmālayā yatra kṛṣṇa tan-mukham īkṣyatām ।। [anuṣṭubh]

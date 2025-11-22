@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 478 | label: meter | g:0.25 m:0.625 ---
+
+anāsravāṇāṃ sarveṣāmekaikenāpi saṃgrahāt ।
+ekakṣaṇāvabodho ayaṃ jñeyo dānādinā muneḥ ।।

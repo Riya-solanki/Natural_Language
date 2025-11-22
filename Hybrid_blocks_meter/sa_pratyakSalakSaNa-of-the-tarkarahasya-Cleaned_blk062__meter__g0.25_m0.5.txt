@@ -1,0 +1,3 @@
+--- source: sa_pratyakSalakSaNa-of-the-tarkarahasya-Cleaned.txt | block: 62 | label: meter | g:0.25 m:0.5 ---
+
+yad vijñānaṃ viśeṣaṇarūpatayā vācakaṃ paricchinatti, rūpatayā ca nīlādikam

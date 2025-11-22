@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 439 | label: grammar | g:0.562 m:0.5 ---
+
+dhyātamātramuditaṃ tava rūpaṃ karhi nātha paramāmṛtapūraiḥ pūrayet tvadavibhedavimokṣākhyātidūravivarāṇi sadā me ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 295 | label: hybrid | g:0.497 m:0.5 ---
+
+na ca svāmikasya prativākyu dadāti dāsī ākruṣṭa cāpi athavā sada tāḍitā vā 
+ekāntatrastamanasā sa bhayābhibhūtā māmeva so anu vadhiṣyati kāraṇena ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 101 | label: meter | g:0.25 m:0.625 ---
+
+munīnāṃ śṛṇvatāṃ madhye sargādyaṃ devapūjanam ।
+tīrthaṃ bhuvanakośaṃ ca manvantaramihocyate ।।

@@ -1,0 +1,9 @@
+--- source: grasht_u-Cleaned.txt | block: 393 | label: meter | g:0.253 m:0.858 ---
+
+kacchapayantra
+jalapūrṇapātramadhye dattvā ghaṭakharparaṃ suvistīrṇam ।
+tadupari madhyagataḥ sūtaḥ sthāpyastataḥ kuḍye ।।
+laghulohakaṭorikayā kṛtapaṭamṛtsandhilepayācchādya ।
+pūrṇaṃ tadghaṭakharparam aṅgāraiḥ karīṣatuṣamiśraiḥ ।।
+svedanato mardanataḥ kacchapayantrasthito raso jarati ।
+agnibalenaiva tato garbhadrutiḥ sarvalohānām ।।

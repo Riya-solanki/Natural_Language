@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 813 | label: meter | g:0.194 m:0.5 ---
+
+bhartṛśuśrūṣaṇaṃ dharmo yathā strīṇāṃ paro mataḥ 
+mamājñāpālanaṃ dharmo bhavatāṃ ca tathā dvijāḥ ।।

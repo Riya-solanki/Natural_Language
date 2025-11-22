@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4908 | label: meter | g:0.25 m:0.555 ---
+
+udyate vāruṇāstre tu vāsudevena dhīmatā 
+prayukte vāsudevena vāruṇāstre atitejasi । 
+āgneyaṃ praśamaṃ yātam astraṃ vāruṇatejasā ।। 
+tasmin pratihate hy astre vāsudevena saṃyuge । 
+paiśācaṃ rākṣasaṃ caiva raudram āṅgirasaṃ bhavaḥ 
+mumocāstrāṇi catvāri yugāntāgninibhāni saḥ ।। 
+vāsudevo api cāstrāṇi dṛṣṭvā viprahitāni vai । 
+vāyavyam atha sāvitraṃ vāsavaṃ mohanaṃ tathā 
+atrāṇāṃ vāruṇārthāya vāsudevo mumoca ha ।।

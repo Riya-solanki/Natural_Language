@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10097 | label: meter | g:0.434 m:0.583 ---
+
+sūta uvāca ।
+ādau vandyaḥ sarvavedaikavedyo vede śāstre setihāse purāṇe ।
+sattāṃ prāyo viṣṇurevaika eva prakāśate ato namya eko harirhi ।।

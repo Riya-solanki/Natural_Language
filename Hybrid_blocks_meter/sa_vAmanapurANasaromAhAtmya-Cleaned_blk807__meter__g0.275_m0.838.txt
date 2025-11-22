@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 807 | label: meter | g:0.275 m:0.838 ---
+
+lomaharṣaṇa uvāca।
+mārkaṇḍeyavacaḥ śrutvā brahmatmā sa mahāmuniḥ ।
+atibhaktyā tu tīrthasya pravaṇīkṛtamānasaḥ ।।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 396 | label: meter | g:0.326 m:0.774 ---
+
+virahāvagraha-kliṣṭā gopī-bhūmi-sarojinīḥ ।
+kṛtvā gīḥ-sudhayā siktā devābdās tri-divaṃ yayuḥ ।। [anuṣṭubh}

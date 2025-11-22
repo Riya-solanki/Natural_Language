@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2380 | label: meter | g:0.194 m:0.625 ---
+
+sa vrajo vrajatā bhāti śakaṭaughena bhāsvatā 
+oghaiḥ pavanavikṣiptair niṣpatadbhir ivārṇavaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4064 | label: meter | g:0.307 m:0.623 ---
+
+aṅgulīyaṃ kapirdattvā sītāṃ kauśalyamabravīt ।
+rāmasya tasya dūto ahaṃ śokaṃ mā kuru maithili ।।

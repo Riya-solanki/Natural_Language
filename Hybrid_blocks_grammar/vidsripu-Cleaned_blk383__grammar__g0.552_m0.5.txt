@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 383 | label: grammar | g:0.552 m:0.5 ---
+
+padbhyāṃ muktās taralagatayaḥ saṃśritā locanābhyāṃ śroṇībimbaṃ tyajati tanutāṃ sevate madhyabhāgaḥ ।
+dhatte vakṣaḥ kucasacivatām advitīyatvam āsyaṃ tadgātrāṇāṃ guṇavinimayaḥ kalpito yauvanena ।।

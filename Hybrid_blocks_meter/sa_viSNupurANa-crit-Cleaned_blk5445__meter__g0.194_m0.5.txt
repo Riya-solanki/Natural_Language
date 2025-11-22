@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5445 | label: meter | g:0.194 m:0.5 ---
+
+dvāravatyāṃ kva yāto asāv aniruddheti jalpatām 
+yadūnām ācacakṣe taṃ baddhaṃ bāṇena nāradaḥ ।।

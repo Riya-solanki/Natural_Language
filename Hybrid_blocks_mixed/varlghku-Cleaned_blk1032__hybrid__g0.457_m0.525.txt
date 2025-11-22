@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1032 | label: hybrid | g:0.457 m:0.525 ---
+
+tatpuruṣasyāṅguleḥ saṃkhyāvyayādeḥ ।।
+saṃkhyāvyayāderaṅgulyantasya samāsānto ac syāt । dve aṅgulī pramāṇamasya dvyaṅgulam । nirgatamaṅgulyo niraṅgulam ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1099 | label: meter | g:0.056 m:0.521 ---
+
+vatsebhyaḥ preṣya sarvāṃ sakhitatim aghajid vīkṣituṃ vanya-lakṣmīṃ
+dūre' gād kṛṣṭa-dṛṣṭiḥ kramaśa iha tadā sā nivṛttā vidūrāt ।
+saurabhyāghrāṇa-netrā madhupa-kula-tulā saṅghaśas taṃ dravantī
+spṛṣṭvāham-pūrvikāyām aham-ahamikayā pṛcchatī cānananda ।। [sragdharā]

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4194 | label: meter | g:0.25 m:0.5 ---
+
+rudrākhyaṃ ca haraṇvatyāṃ vīrabhadraṃ triviṣṭape ।
+śaṅkukarṇaṃ ca bhīmāyāṃ bhīmaṃ śālavane viduḥ ।।

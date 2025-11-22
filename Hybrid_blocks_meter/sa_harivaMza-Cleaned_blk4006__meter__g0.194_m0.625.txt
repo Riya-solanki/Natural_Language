@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4006 | label: meter | g:0.194 m:0.625 ---
+
+dadau śiṣyaṃ tadātmānaṃ rāmasya sumahātmanaḥ 
+gadāyuddhe kurupatiḥ pratijagrāha taṃ ca saḥ ।।

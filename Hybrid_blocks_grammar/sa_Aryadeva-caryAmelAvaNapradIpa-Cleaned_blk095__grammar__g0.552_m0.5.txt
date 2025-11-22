@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 95 | label: grammar | g:0.552 m:0.5 ---
+
+phale na pakve kṛtakarmaṇaśca vāyuḥ punaḥ krāmati janmanīha ।
+pakvaṃ phalaṃ syād gata eva vāyuḥ paratra śīghraṃ maraṇaṃ hi loke ।।

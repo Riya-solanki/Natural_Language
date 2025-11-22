@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 841 | label: meter | g:0.056 m:0.75 ---
+
+tokaṃ dhartuṃ sā samīpe' pi śīghraṃ
+dhāvantī tat prāpa dhāvan na mātā ।
+prāgañcantaṃ vāyu-vegāt pratīcī
+stokāmbhodaṃ yadvad ambhoda-vīthī ।। [śālinī]

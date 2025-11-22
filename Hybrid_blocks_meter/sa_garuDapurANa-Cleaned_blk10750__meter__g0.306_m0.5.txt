@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10750 | label: meter | g:0.306 m:0.5 ---
+
+dvimāsahīnāṃ tulasīmaprasūtāṃ ca gāṃ navām ।
+te sarve hyasurā jñeyā nātra kāryā vicāraṇā ।।

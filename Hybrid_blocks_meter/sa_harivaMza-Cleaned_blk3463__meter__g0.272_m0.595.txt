@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3463 | label: meter | g:0.272 m:0.595 ---
+
+asya kṛtvā narendrasya vipannasyaurdhvadehikam 
+sasnuṣo ahaṃ sabhāryaś ca cariṣyāmi mṛgaiḥ saha ।।

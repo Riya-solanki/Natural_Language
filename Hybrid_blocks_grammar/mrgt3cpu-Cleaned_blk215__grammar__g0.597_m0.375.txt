@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 215 | label: grammar | g:0.597 m:0.375 ---
+
+Vṛtti:
+[pātakeṣu] tebhyo mahāpātakopapātakebhyo yānyanyāni pātakāni tattaddravyāpaharaṇaniṣiddhānnabhakṣaṇādīni teṣu teṣvapi [tadanyeṣu kriyāvyatikareṣu] anyeṣu ca kriyācchidreṣu [ekādaśa] śivavaktrāṇyaṅgasahitāni japet। yadvā tattadanusāreṇa bahurūpanāthamevāvartayet।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 7 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha dvitīyam api pratīyamānaṃ nirmāmi śrī-kṛṣṇa iti । eṣā hi śrīpradhānatayā sādhayiṣyamāṇatāyāṃ nirābādhā । tad-anantara-kṛṣṇa-śabdaś cātra śabda-brahma-gūdha-para-brahma nanda-nandana-vācakatāyāṃ rūḍhaḥ । tena, "he śrī-rādhākhya-svarūpa-śakti-yukta-kṛṣṇa" ity arthaś ca nirvyūdhaḥ ।

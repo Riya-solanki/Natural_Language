@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 44 | label: hybrid | g:0.176 m:0.495 ---
+
+{kāñcukīyaḥ} - bhavati mahatī khalv asya vyapāśrayaṇā 
+kathaṃ pratijānīmaḥ 
+kutaḥ

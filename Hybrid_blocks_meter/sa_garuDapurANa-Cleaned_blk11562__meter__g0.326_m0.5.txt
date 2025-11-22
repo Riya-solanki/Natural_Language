@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11562 | label: meter | g:0.326 m:0.5 ---
+
+vidyāṃ putraṃ dravyajātaṃ madaṃ ca dagdhvā ca me dehi pādābjamūle ।
+sadvaiṣṇavāsahamānasvarūpaṃ dagdhvā mātsaryaṃ pāhi māṃ veṅkaṭeśa ।।

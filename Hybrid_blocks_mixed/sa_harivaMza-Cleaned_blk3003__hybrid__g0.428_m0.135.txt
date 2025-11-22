@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3003 | label: hybrid | g:0.428 m:0.135 ---
+
+eṣa ghoro grahaḥ svātīm ullikhan khe gabhastibhiḥ 
+vakram aṅgārakaś cakre vyāharanti kharaṃ dvijāḥ ।। 
+budhena paścimā saṃdhyā vyāptā ghoreṇa tejasā । vaiśvānarapathe śukro hy aticāraṃ cacāra ha ।। ketunā dhūmaketos tu nakṣatrāṇi trayodaśa । bharaṇyādīni bhinnāni nānuyanti niśākaram । 
+śivā śmaśānān niṣkramya niḥśvāsāṅgāravarṣiṇī 
+ubhe saṃdhye purīṃ ghorā paryeti bahu vāśatī ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5004 | label: meter | g:0.194 m:0.5 ---
+
+bāhūnāṃ saṃśrayāt sarve vayam asya mahātmanaḥ 
+pranaṣṭaśokā raṃsyāmaḥ sarva evāmarāḥ sukham ।।

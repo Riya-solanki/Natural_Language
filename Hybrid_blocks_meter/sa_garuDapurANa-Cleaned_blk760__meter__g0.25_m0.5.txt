@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 760 | label: meter | g:0.25 m:0.5 ---
+
+paścime balaprabalau jayaśca vijayo yajet ।
+uttare śrīścaturdvāre gaṇo durgā sarasvatī ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 759 | label: meter | g:0.25 m:0.625 ---
+
+ekadārbhakam ādāya svāṅkam āropya bhāvinī ।
+prasnutaṃ pāyayāmāsa stanaṃ sneha-pariplutā ।।
+pīta-prāyasya jananī sutasya rucira-smitam ।
+lālayantī mukhaṃ viśvaṃ jṛmbhato dadṛśe idam ।।[BhP ] iti ।

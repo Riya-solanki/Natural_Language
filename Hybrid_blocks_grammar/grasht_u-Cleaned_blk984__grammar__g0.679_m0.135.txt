@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 984 | label: grammar | g:0.679 m:0.135 ---
+
+abhrakasyottarottaraṃ darśayannāha itītyādi ।।
+ityevamādayaḥ iti pūrvoktā yogā ādayo yeṣāṃ te anye kāñjikayuktāśca kāñjikenāranālena yuktāḥ yogīkṛtāḥ granthāntare rasāvatārādau bahuśaḥ kīrtitāḥ kathitāḥ te patrābhrakayogāḥ niryuktikāḥ niryukte bhavā ikpratyayāntās te varjyāḥ sevane'yogyā ityarthaḥ ।।

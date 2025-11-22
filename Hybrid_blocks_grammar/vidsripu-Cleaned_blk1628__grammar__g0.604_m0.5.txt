@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1628 | label: grammar | g:0.604 m:0.5 ---
+
+āskandhāvadhi kaṇṭhakāṇḍavipine drāk candrahāsāsinā chettuṃ prakramite mayaiva tarasā truṭyachirāsaṃtatau ।
+asmeraṃ galitāśrugadgadapadaṃ bhinnabhruvā yady abhūd vaktreṣv ekam api svayaṃ sa bhagavāṃs tan me pramāṇaṃ śivaḥ ।।

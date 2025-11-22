@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1955 | label: meter | g:0.306 m:0.5 ---
+
+vāmena vāmikā proktā dakṣiṇe dakṣiṇā śubhā ।
+vāme vāmā śubhe caiva dakṣiṇe dakṣiṇā śubhā ।।

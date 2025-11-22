@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 66 | label: hybrid | g:0.381 m:0.358 ---
+
+dakṣātmajāstārāḥ । tāsāṃ dayito dakṣātmajādayitaścandraḥ । tasya vallabhāścandrakāntāḥ । tadvedikānāmiti । atra hi vyavadhānenārthapratyayaḥ ।।
+anyatrārūḍhatvāt ।।
+arūḍhāvapi yato'rthapratyayo jhaṭiti na tatkliṣṭam । yathā

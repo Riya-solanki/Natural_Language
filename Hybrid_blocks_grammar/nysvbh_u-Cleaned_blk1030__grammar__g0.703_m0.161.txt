@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1030 | label: grammar | g:0.703 m:0.161 ---
+
+uṣamardaprādurbhāvayoḥ paurvāparyaniyamaḥ kramaḥ sa khalvabhāvād bhāvotpatterheturnirdiśyate sa ca na pratiṣidhyate iti ।।
+vyāhatavyūhānāmavayavānāṃ pūrvavyūhanivṛttau vyūhāntarād dravyaniṣpattirnābhāvāt ।
+bījāvayavāḥ kutaścinnimittāt prādurbhūtākriyāḥ pūrvavyūhaṃ jahati vyūhāntaraṃ cāpadyante vyūhāntarādaṅkura utpadyate dṛśyante khalu avayavāstatsaṃyogāścāṅkurotpattihetavaḥ, na cānivṛtte pūrvavyūhe bījāvayavānāṃ śakyaṃ vyūhāntareṇa bhavitumiti upamardaprādurbhāvayoḥ paurvāparyaniyamaḥ kramaḥ tasmānnābhāvād bhāvotpattiriti, na cānyad bījāvayavebhyo aṅkurotpattikāraṇamityupapadyate bījopādānaniyama iti ।।

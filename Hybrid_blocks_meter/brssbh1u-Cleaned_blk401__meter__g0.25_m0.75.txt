@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 401 | label: meter | g:0.25 m:0.75 ---
+
+abhigato vāyaṃ pratyagātmatvādvimānaśca mānaviyogādityabhivimānaḥ ।
+abhivimimīyate vā sarve jagatkāraṇatvādityabhivimānaḥ ।

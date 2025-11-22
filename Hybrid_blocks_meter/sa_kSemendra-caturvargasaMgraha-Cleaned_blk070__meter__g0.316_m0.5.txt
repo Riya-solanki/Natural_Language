@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 70 | label: meter | g:0.316 m:0.5 ---
+
+nāsāditāni vanavāsadṛḍhavratena citrāṇi netracaritāni mṛgair mṛgākṣyāḥ ।
+tatkāntir ujjvalarucivyasanād aho nu hemnā hutāśapatanair api naiva labdhā ।।

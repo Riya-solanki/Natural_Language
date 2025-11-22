@@ -1,0 +1,25 @@
+--- source: simhrs_u-Cleaned.txt | block: 1900 | label: meter | g:0.25 m:0.839 ---
+
+atha geya-padam-
+vīṇādi-vādanenaiva sahitaṃ yatra bhāvyate ।
+lalitaṃ nāyikā-gītaṃ tad geya-padam ucyate ।। 
+cañcat-puṭādinā vākyābhinayo nāyikā-kṛtaḥ ।
+bhūmi-cārī-pracāreṇa sthita-pāṭhyaṃ tad ucyate ।। 
+bhrū-netra-pāṇi-caraṇa-vilāsābhinayānvitam ।
+yojyam āsīnayā pāṭhyam āsīnaṃ tad udāhṛtam ।। 
+nānā-vidhena vādyena nānā-tāla-layānvitam ।
+lāsyaṃ prayujyate yatra sā jñeyā puṣpa-gandhikā ।। 
+anyāsaṅgama-śaṅkinyā nāyakasyātiroṣayā ।
+prema-ccheda-prakaṭanaṃ lāsyaṃ pracchedakaṃ viduḥ ।। 
+aniṣṭhura-ślakṣṇa-padaṃ sama-vṛttair alaṅkṛtam ।
+nāṭyaṃ puruṣa-bhāvāḍhyaṃ trimūḍhakam udāhṛtam ।। 
+deśa-bhāṣā-viśeṣeṇa calad-valaya-śṛṅkhalam ।
+lāsyaṃ prayujyate yatra tat saindhavam iti smṛtam ।। 
+cārībhir lalitābhiś ca citrārthābhinayānvitam ।
+spaṣṭa-bhāva-rasopetaṃ lāsyaṃ yat tad dvimūḍhakam ।। 
+aparijñāta-pārśvasthaṃ geya-bhāva-vibhūṣitam ।
+lāsyaṃ sotkaṇṭha-vākyaṃ tad uttamottamakaṃ bhavet ।। 
+kopa-prasāda-janitaṃ sādhikṣepa-padāśrayam ।
+vākyaṃ tad ukta-pratyuktaṃ yūnoḥ praśnottarātmakam ।। 
+śṛṅgāra-mañjarī-mukhyam asyodāharaṇaṃ matam ।
+lāsyāṅga-daśakaṃ tatra lakṣyaṃ lakṣya-vicakṣaṇaiḥ ।।

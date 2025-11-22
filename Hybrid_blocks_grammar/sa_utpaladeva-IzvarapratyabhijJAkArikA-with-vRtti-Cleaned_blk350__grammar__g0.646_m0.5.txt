@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 350 | label: grammar | g:0.646 m:0.5 ---
+
+eṣa eva śūnyapramātā sarvendriyaśaktisādhāraṇajīvanākhyaprāṇādipreraṇāntarvṛttir jīvākhyas, tāsām indriyaśaktīnām ahaṃtayā saha puryaṣṭakatvam athavā prāṇāhaṃtayā pramātṛtvena puryaṣṭakatā ।।

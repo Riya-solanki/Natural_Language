@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 889 | label: grammar | g:0.667 m:0.5 ---
+
+atra nāyakamukhāravindāvayavinopamānopameyau kathitasādṛśyaiḥ sarasoktimarandalocanapalāśaiḥ svāvayavaissaha yathāvivakṣitaṃ sākalyena rūpitāviti tadyogyavastvādhāratvakathanādasyaiva prādhānyamiti ca tadidaṃ sakalaṃ nāmāṅgipradhānamarthapradhānaṃ rupakam ।

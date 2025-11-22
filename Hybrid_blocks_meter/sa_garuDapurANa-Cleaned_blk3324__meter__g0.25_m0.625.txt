@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3324 | label: meter | g:0.25 m:0.625 ---
+
+nāprāptakālo mriyate viddhaḥ śaraśatairapi ।
+kuśāgreṇa tu saṃspṛṣṭaṃ prāptakālo na jīvati ।।

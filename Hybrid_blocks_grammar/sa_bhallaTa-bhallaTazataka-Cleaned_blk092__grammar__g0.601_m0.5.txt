@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 92 | label: grammar | g:0.601 m:0.5 ---
+
+anīrṣyā śrotāro mama vacasi ced vacmi tad ahaṃ svapakṣād bhetavyaṃ na tu bahu vipakṣāt prabhavataḥ 
+tamasy ākrāntāśe kiyad api hi tejo avayavinaḥ svaśaktyā bhānty ete divasakṛti saty eva na punaḥ ।।

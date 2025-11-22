@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6750 | label: meter | g:0.31 m:0.852 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+viṣṇubhaktiṃ pravakṣyāmi yayā sarvamavāpyate ।
+yathā bhaktyā haristuṣyettathā nānyena kenacit ।।

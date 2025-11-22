@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 138 | label: meter | g:0.25 m:0.5 ---
+
+snātasya tīrthe tripurāntakasya paricyutaṃ hastatalāt kapālam ।
+nāmnā babhūvātha kapālamocanaṃ tattīrthavaryaṃ bhagavatprasādāt ।।

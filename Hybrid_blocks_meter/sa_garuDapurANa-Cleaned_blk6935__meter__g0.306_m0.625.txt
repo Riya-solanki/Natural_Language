@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6935 | label: meter | g:0.306 m:0.625 ---
+
+idaṃ yaḥ paṭhate bhaktyā trikālaṃ niyataṃ śuciḥ ।
+nākāle tasya mṛtyuḥ syānnarasyācyutacetasaḥ ।।

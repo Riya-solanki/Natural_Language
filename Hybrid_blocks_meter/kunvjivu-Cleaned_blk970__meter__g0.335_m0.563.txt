@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 970 | label: meter | g:0.335 m:0.563 ---
+
+mahāsidadhārā na khalūtpalastrajaḥ ।।
+।iti

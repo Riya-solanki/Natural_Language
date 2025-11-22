@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 203 | label: grammar | g:0.75 m:0.5 ---
+
+yathāmuṃ sā garbham abhyaścotayad yathāmuṃ garbhaṃ sadarbham iva sahiraṇyaṃ tam uddhṛtya prakṣālyānupadaṃ śrapayitvā prākśirasam udakpādyaṃ kāmasūktena juhuyād anaṃgan dhītī vā ity aṣṭabhir nabhasvatībhir hiraṇyagarbheṇa vā ।

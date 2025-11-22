@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1537 | label: grammar | g:0.667 m:0.5 ---
+
+atha vajrāṅkuśo vajraceṭa idaṃ svahṛdayaṃ bhagavate vajrapāṇaye niryātayāmāsa । oṃ vajraṅkuśākarṣaya sarva mahāceṭa huṃ phaṭ ।।

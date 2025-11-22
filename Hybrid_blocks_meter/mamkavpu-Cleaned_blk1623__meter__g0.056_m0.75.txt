@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1623 | label: meter | g:0.056 m:0.75 ---
+
+{lāvaṇyaukasi sapratāpagarimaṇyagresare tyāgināṃ
+deva tvayyavanībharakṣamabhuje niṣpādite vedhasā ।
+induḥ kiṃ ghaṭitaḥ kimeṣa vihitaḥ pūṣā kimutpāditaṃ
+cintāratnamado mudhaiva kimamī sṛṣṭāḥ kulakṣmābhṛtaḥ ।।}

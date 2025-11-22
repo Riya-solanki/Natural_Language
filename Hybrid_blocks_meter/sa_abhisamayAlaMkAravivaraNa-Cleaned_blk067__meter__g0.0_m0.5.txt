@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 67 | label: meter | g:0.0 m:0.5 ---
+
+athavā - mahāyānacittotpādadvāreṇa prarthitārthaprāptyupāyātmakaḥ abhrāntaviśuddhopadeśaḥ māhāyānīyāvavādalakṣaṇam

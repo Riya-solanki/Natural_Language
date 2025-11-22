@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 141 | label: meter | g:0.056 m:0.854 ---
+
+yastāṃ patākā mṛdu-vāta-kampitā
+nānāmukhībhāvam itāḥ punaḥ punaḥ ।
+saurabhyam āyāti yadā yatas tadā
+vivṛtya paśyanti diśām amūm iva ।। [upajāti ]

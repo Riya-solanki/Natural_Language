@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4479 | label: hybrid | g:0.5 m:0.5 ---
+
+ye mānavā vigatarāgaparāparajñā nārāyaṇaṃ suraguruṃ satataṃ smaranti ।
+te dhautapāṇḍurapuṭā iva rājahaṃsāḥ saṃsārasāgarajalasya taranti pāram ।।

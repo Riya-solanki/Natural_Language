@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1129 | label: grammar | g:0.632 m:0.5 ---
+
+prathamapādādigatāntyārghādibhāgo dvitīyapādādigate ādyārdhādibhāge yamyate ityādyanvarthatānusaraṇenānekabhedam । ādyantikam । madhyādikam । antamadhyam । teṣāṃ samuccayaḥ । tathā tasminneva pāde
+ādyādibhāgānāṃ madhyādibhāge aniyate ca sthāne āvṛttiriti prabhūtatamabhedam । tadetatkāvyāntargaḍubhūtam iti nāsya bhedalakṣaṇaṃ kṛtam । diṅmātramudāhriyate ।

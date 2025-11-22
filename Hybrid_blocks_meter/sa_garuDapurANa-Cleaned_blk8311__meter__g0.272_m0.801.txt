@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8311 | label: meter | g:0.272 m:0.801 ---
+
+śrīkṛṣṇa uvāca ।
+aputtrasya gatirnāsti svargo naiva ca naiva ca ।
+tasmātkenāpyupāyena puttrasya jananaṃ caret ।।

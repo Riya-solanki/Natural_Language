@@ -1,0 +1,6 @@
+--- source: brssbh4u-Cleaned.txt | block: 112 | label: grammar | g:0.646 m:0.427 ---
+
+atasmādupaśāntatejāḥ ।
+punarbhavamindriyairmanasi saṃpadyamānaiḥ' iti atra aviśeṣeṇa sarveṣām eva indriyāṇāṃ manasi saṃpattiḥ śrūyate ।
+tatra api ata eva vāca iva cakṣurādīnām api savṛttike manasi avasthite vṛttilopadarśanāt tattvapralaya asaṃbhavāt śabda upapatteḥ ca vṛttidvāreṇa eva sarvāṇi indriyāṇi manaḥ anuvartante ।
+sarveṣāṃ karaṇānāṃ manasi upasaṃhāra aviśeṣe sati vācaḥ pṛthak grahaṇaṃ vāk manasi saṃpadyata iti udāharaṇa anurodhena ।।

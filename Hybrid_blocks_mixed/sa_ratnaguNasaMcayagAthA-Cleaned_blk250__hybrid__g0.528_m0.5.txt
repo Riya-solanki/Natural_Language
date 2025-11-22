@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 250 | label: hybrid | g:0.528 m:0.5 ---
+
+yo śikṣamāṇu na upaiti kahiṃci śikṣāṃ na ca śikṣakaṃ labhati nāpi ca śikṣadharmān 
+śikṣā aśikṣa ubhayo avikalpamāno yo śikṣate sa iha śikṣati buddhadharme ।।

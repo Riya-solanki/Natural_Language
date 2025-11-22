@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1231 | label: meter | g:0.25 m:0.625 ---
+
+uttaptacāmīkarasaṃnikāśaṃ śrīmadvapurvyaktapadākṣarā vāk ।
+dharmābhijāto vinayo nayaśca kāvapyamū kevalahaṃsaveṣau ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2786 | label: meter | g:0.25 m:0.625 ---
+
+kusīdakṛṣivāṇijyaṃ pāśupālyaṃ viśaḥ smṛtam ।
+śūdrasya dvijaśuśrūṣā dvijo yajñānna hāpayet ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1949 | label: meter | g:0.0 m:0.75 ---
+
+yathā tatraiva prahasane -

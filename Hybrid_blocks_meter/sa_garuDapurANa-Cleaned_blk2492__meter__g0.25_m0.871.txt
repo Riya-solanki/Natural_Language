@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2492 | label: meter | g:0.25 m:0.871 ---
+
+vāruṇerdakṣasāvarṇernavamasya sutāñchṛṇu ।
+dhṛtiketurdeptiketuḥ pañcahasto nirāmayaḥ ।
+pṛtuśravā bṛhadūdyumna ṛcīko bṛhato guṇaḥ ।।

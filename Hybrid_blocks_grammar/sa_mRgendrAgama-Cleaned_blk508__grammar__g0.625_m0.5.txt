@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 508 | label: grammar | g:0.625 m:0.5 ---
+
+[sarvāmarapratiṣṭhāsu] sarvadevapratiṣṭhāsu [setvādīnāṃ niveśane] setuprapāvihārādipratipādane [sīmantonnayanādyeṣu saṃskāreṣu] sīmantonnayanādiṣu saṃskāreṣu ca annavarjanam annādivarjanaṃ sarveṣāṃ sādhāraṇam।।

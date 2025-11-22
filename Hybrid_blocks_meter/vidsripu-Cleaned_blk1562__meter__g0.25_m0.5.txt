@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1562 | label: meter | g:0.25 m:0.5 ---
+
+api vajreṇa saṃgharṣam api padbhyāṃ parābhavam ।
+sahante guṇalobhena ta eva maṇayo yadi ।।

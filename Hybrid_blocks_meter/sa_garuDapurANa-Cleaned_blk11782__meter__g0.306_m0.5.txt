@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11782 | label: meter | g:0.306 m:0.5 ---
+
+saṃpatsyase nātra vicāryamastītyuktvā sā vai prayayau viṣṇuloke ।
+śrīlakṣmyaṃśācchrīritīḍyāṃ samākhyāṃ labdhvā loke śeṣapatnī babhūva ।।

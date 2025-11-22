@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 325 | label: meter | g:0.326 m:0.774 ---
+
+evam abhrakajīrṇasya rasasyāṣṭamabhāgataḥ 
+viḍaṃ dadyāc ca vidhivaj jārayet taṃ vicakṣaṇaḥ ।।

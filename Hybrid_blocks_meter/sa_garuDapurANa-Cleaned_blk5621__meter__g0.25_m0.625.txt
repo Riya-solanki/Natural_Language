@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5621 | label: meter | g:0.25 m:0.625 ---
+
+niruddhamūtraṃ kvathitaṃ nivartayati śaṅkara ।
+tathā hikkāṃ haretpītaṃ sauvarcalayutañca vai ।।

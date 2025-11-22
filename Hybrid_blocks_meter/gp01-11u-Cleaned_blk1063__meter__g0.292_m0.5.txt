@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1063 | label: meter | g:0.292 m:0.5 ---
+
+[] śrī-kṛṣṇābhiprāyam utprekṣamāṇāḥ sādbhutaṃ prekṣamāṇā bakam upajahasuś ca । yathā-

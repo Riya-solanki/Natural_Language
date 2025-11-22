@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1339 | label: hybrid | g:0.521 m:0.5 ---
+
+caritam atigatopamānaśobhaṃ na hi vibhavo asty anugantum īśvarāṇām ।
+mama kṛpaṇamates tathāpi caitat kṛtam atisāhasam ātmano hitāya ।।

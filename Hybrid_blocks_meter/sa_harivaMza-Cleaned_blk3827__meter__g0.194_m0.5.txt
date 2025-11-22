@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3827 | label: meter | g:0.194 m:0.5 ---
+
+necchāmy anāśitaṃ draṣṭuṃ kṛśaṃ malinam eva vā 
+dehīti cābhibhāṣantaṃ nagaryāṃ nirdhanaṃ naram ।।

@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 993 | label: grammar | g:0.625 m:0.5 ---
+
+nirvartyaṃ ca vikāryaṃ ca prāpyaṃ ceti tridhā matam tatrepsitatamaṃ karma caturdhānyat tu kalpitam ।।

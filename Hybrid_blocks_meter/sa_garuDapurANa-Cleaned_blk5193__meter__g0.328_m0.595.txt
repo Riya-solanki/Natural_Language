@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5193 | label: meter | g:0.328 m:0.595 ---
+
+dagdhameraṇḍakaṃ mūlaṃ lepātkākikapeṣitam ।
+śiro artiṃ nāśayatyāśu puṣpaṃ vā mucukundaka m ।।

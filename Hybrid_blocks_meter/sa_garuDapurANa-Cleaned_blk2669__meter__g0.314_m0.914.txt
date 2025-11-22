@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2669 | label: meter | g:0.314 m:0.914 ---
+
+munidhyeyo asuradhyeyo devadhyeyo atisundaraḥ ।
+brahmādistambaparyantabhūtajātahṛdisthitaḥ ।।

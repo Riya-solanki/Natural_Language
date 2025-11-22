@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 269 | label: meter | g:0.25 m:0.625 ---
+
+yatra vaktuḥ pramāturvā vācyaṃ śobhātiśāyinā ।
+ācchādyate svabhāvena tadapyaucityamucyate ।।

@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 17 | label: meter | g:0.351 m:0.565 ---
+
+athānubhavavidhvaṃse smṛtis tadanurodhinī ।
+kathaṃ bhaven na nityaḥ syād ātmā yady anubhāvakaḥ ।।

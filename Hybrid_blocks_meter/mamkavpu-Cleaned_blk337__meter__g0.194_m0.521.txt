@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 337 | label: meter | g:0.194 m:0.521 ---
+
+{ṇavapuṇṇimāmi-aṅkassa suha-a ko taṃ si bhaṇasu maha saccaṃ ।
+kā sohaggasamaggā pa-osara-aṇivva tuha ajja ।। }
+[navapūrṇimāmṛgāṅkasya subhaga kastvamasi bhaṇa mama satyam ।
+kā saubhāgyasamagrā pradoṣarajanīva tavādya ।।]

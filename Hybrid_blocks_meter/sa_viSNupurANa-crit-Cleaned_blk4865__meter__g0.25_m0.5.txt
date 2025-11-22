@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4865 | label: meter | g:0.25 m:0.5 ---
+
+bhrāmayām āsa taṃ śaurir airāvatasamaṃ bale ।। B

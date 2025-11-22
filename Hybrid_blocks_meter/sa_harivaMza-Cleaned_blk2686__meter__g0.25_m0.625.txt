@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2686 | label: meter | g:0.25 m:0.625 ---
+
+paryāpnuvantu māṃ kṣipraṃ gāvo vatsasamākulāḥ 
+evaṃ mama parā prītir bhaviṣyati na saṃśayaḥ ।।

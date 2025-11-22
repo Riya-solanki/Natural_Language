@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 22 | label: meter | g:0.25 m:0.521 ---
+
+sukṛtaphalaṃ tāvadidaṃ sukule yajjanma dhīśca tatrāpi ।
+sāpi ca sakalamahītalatulanaphalā bhūtalaṃ ca suvidheyam ।।
+bhūtalavidheyatāyāḥ phalamarthāste ca vividhabhogaphalāḥ ।
+bhogāḥ santi śarīre tadanityamaho vṛthā sakalam ।।

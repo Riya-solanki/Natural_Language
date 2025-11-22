@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 74 | label: hybrid | g:0.455 m:0.5 ---
+
+yāvanti loki kvaci jotikaprāṇabhūtā obhāsanārtha prabha osarayanti sarve 
+varasūryamaṇḍalaviniḥsṛta ekaraśmī na kalā pi jyotikagaṇe siya sarvaābhāḥ ।।

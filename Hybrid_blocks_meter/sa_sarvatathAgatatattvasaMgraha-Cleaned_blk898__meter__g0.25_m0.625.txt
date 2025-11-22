@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 898 | label: meter | g:0.25 m:0.625 ---
+
+anena stotrarājena stuyādvai subhaktitaḥ ।
+yo gāyaṃstu stuyātso api bhavedvajradharopamaḥ ।।

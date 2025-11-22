@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6055 | label: meter | g:0.25 m:0.75 ---
+
+nandīvṛkṣaḥ prarohī syātpuṣṭikārīti cocyate ।
+vañjulo vetaso jñeyo bhallātaścāpyaruṣkaraḥ ।।

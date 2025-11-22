@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 170 | label: grammar | g:0.583 m:0.5 ---
+
+tasya muṣṇāti saubhāgyaṃ tasya kāntiṃ vilumpati tena sārdhaṃ vigṛhṇāti tulāṃ tenādhirohati ।।

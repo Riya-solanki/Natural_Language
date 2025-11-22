@@ -1,0 +1,7 @@
+--- source: mrgt1chu-Cleaned.txt | block: 233 | label: meter | g:0.255 m:0.544 ---
+
+yathāvasthitavastvavabhāsātmanas tāvattadīyasyaikasya jñānasya jñeyānantyād upādhibhedāt kṛtamaupacārikamānantyam śāstrātmano'pi srotobhedādadhyetṛbhedāt pravartayitṛbhedāt ।। 
+teṣāṃ ca parāparatvād gauṇamevānantyam ।। 
+sarvajñānakriyārūpā śaktirekaivaśūlinaḥ ।। 
+ityanayā dṛśā tasmāj jñānādabhinnatvātkartṛtvamapi tathaivopacārādānantyaṃ pratipadyate ।। 
+atha nirvarṇitopasaṃhārāya vyākhyeyopakṣepāya cāyaṃ ślokaḥ ।।

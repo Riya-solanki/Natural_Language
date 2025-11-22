@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4905 | label: grammar | g:0.75 m:0.083 ---
+
+sa śarair arditas tena hareṇāmitraghātinā 
+harir jagrāha kupito hy āstraṃ pārjanyam uttamam ।। 
+pracacāla tato bhūmir viṣṇurudraprapīḍitā ।। nāgāś cordhvamukhās tatra vicelur abhipīḍitāḥ । parvatāḥ prastutās tatra jaladhārābhir āplutāḥ ।। ke cin mumucire tatra śikharāṇi samantataḥ । diśaś ca vidiśaś caiva bhūmir ākāśam eva ca ।। pradīptānīva dṛśyante sthāṇukṛṣṇasamāgame । samantataś ca nirghātāḥ patanti dharaṇītale ।। śivāś caivāśivān nādān nadante bhīmadarśanāḥ । vāsavaś cānadad ghoraṃ rudhiraṃ cāpy avarṣata ।। ulkā ca bāṇasainyasya mukhāny āvṛtya tiṣṭhati । na vavau mārutaś cāpi jyotīṃṣy ākulatām iyuḥ । prabhāhīnāś ca oṣadhyo na caranty antarikṣagāḥ ।। etasminn antare brahmā sarvair devagaṇair vṛtaḥ । tripurāntakam udyantaṃ jñātvā rudram upāgamat ।। gandharvāpsarasaś caiva yakṣā vidyādharās tathā । siddhacāraṇasaṃghāś ca paśyanto atha divi sthitāḥ ।। tataḥ pārjanyam astraṃ tat kṣiptaṃ rudrāya viṣṇunā । yayau jvalann atha tadā yato rudro rathe sthitaḥ । 
+tataḥ śatasahasrāṇi śarāṇāṃ nataparvaṇām 
+niṣpetuḥ sarvato digbhyo yato haratanus tataḥ ।।

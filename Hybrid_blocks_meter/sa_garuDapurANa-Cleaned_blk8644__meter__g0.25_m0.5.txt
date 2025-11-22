@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8644 | label: meter | g:0.25 m:0.5 ---
+
+bhāvaśuddhyā na kurute śrāddhaṃ sāṃvatsarādikam ।
+svayameva na kurvīta sā pīḍā pretasambhavā ।।

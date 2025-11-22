@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 986 | label: meter | g:0.194 m:0.625 ---
+
+ājahre pitṛdāyādyaṃ divodāsahṛtaṃ balāt 
+tasyānvaye suhotro abhūd rājā paramadhārmikaḥ । 
+bhadraśreṇyasya putreṇa durdamena mahātmanā 
+divodāsena bālo hi ghṛṇayā sa visarjitaḥ ।।

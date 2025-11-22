@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5081 | label: meter | g:0.217 m:0.845 ---
+
+tapoyajñārthavedānāṃ vikretāro dvijātayaḥ 
+ṛtavaś ca bhaviṣyanti viparītā yugakṣaye ।।

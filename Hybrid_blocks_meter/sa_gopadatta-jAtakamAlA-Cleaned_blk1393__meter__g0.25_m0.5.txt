@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1393 | label: meter | g:0.25 m:0.5 ---
+
+lokānām abhilaṣitopakāramyaṃ matvāsāv upacitamāṃsam ātmabhavam ।
+ekāntavyasananipātalakṣyabhūte saṃsāre apy abhiratim ābabandha sādhuḥ ।।

@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 432 | label: meter | g:0.139 m:0.825 ---
+
+atha narma-sphañjaḥ -
+narma-sphañjaḥ sukhodyogo bhayānto nava-saṅgame ।। athā-
+apeta-vyāhāraṃ dhuta-vividha-śilpa-vyatikaraṃ
+kara-sparśārambha-prakalita-dukūlānta-śayanam ।
+muhur baddhotkampaṃ diśi diśi muhuḥ prerita-dṛśor
+ahalyā-sutrāmṇoḥ kṣaṇikam iva tat saṅgatam abhūt ।।

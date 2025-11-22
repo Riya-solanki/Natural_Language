@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2018 | label: meter | g:0.194 m:0.625 ---
+
+yāvanmātrapradeśe tu maitreyāvasthito dhruvaḥ 
+kṣayam āyāti tāvat tu bhūmer ābhūtasaṃplave ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4684 | label: meter | g:0.246 m:0.806 ---
+
+kāntaṃ padmapalāśākṣaṃ mattamātaṅgavikramam 
+tyakṣyāmy ahaṃ priyān prāṇāṃs tataḥ kamalalocane ।।

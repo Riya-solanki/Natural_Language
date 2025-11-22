@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2998 | label: meter | g:0.25 m:0.5 ---
+
+śarīrasthāṃstān pramathān kṛtvā devāṃśca śaṅkaraḥ ।
+prāha ehyehi tuṣṭātman ahameko api saṃśthitaḥ ।।

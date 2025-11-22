@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 765 | label: grammar | g:0.901 m:0.066 ---
+
+[] evaṃ tad-avadhi tad-vidhinā nātinirodhe vidhīyamāne kvacid api samaye saṃyamanaṃ samayā sarāmaḥ sa rāmānujaḥ śrīdāma-sudāma-vasudāmādibhiḥ samaṃ ramate sma । [] tatra vinodena mṛdadanaṃ cakrāṇe cakrāṅkita-caraṇe saṅkarṣaṇā-dayaḥ khelāyāṃ kalita-kalahā rahas tan-mātaraṃ nivedayāmāsuḥ, ye khalu tayā tad-vidha-vidhāne' vadhāpitā vidhīyante sma । [] mātā ca pracchannam āgacchantī bāhuṃ gṛhītvā papraccha, capala, kim idaṃ duścaritam ācaritam?
+[] sa tu sahasā saṅkalitānana-kamalaḥ kātara-matir mātaram uvāca-mātar, na kim api ।

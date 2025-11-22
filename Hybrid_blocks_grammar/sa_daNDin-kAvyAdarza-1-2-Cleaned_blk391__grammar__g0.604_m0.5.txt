@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 391 | label: grammar | g:0.604 m:0.5 ---
+
+ajitvā sārṇavām urvīm aniṣṭvā vividhair makhaiḥ adatvā cārtham arthibhyo bhaveyaḥ pārthivaḥ katham ।।

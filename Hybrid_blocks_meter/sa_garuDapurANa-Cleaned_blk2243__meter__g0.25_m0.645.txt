@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2243 | label: meter | g:0.25 m:0.645 ---
+
+snātvā kanakhale tīrthe sa bhavenna punarbhave ।
+sū uvāca ।
+etānyanyāni tīrthāni snānādyaiḥ sarvadāni hi ।।

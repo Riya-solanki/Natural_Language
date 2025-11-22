@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1619 | label: grammar | g:0.674 m:0.5 ---
+
+taditi anyat aprākaraṇikaṃ nirdiśyate । tena samānam arthādiha prākaraṇikam āśrīyate । tasya tathāvidhasya dṛṣṭau satyāṃ yat aprākaraṇikatayā saṃvedanaṃ sa bhrāntimān ।
+na caiṣa rūpakaṃ prathamātiśayoktirvā tatra vastuto bhramasyābhāvāt iha ca, arthānugamanena saṃjñāyāḥ pravṛtteḥ tasya spaṣṭameva pratipannatvāt । udāharaṇam

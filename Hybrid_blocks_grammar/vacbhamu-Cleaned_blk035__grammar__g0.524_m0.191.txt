@@ -1,0 +1,9 @@
+--- source: vacbhamu-Cleaned.txt | block: 35 | label: grammar | g:0.524 m:0.191 ---
+
+nāpyavyāptiḥ, svapnajñānasyāpi snṛtivibhramarūpasyaivaṃrūpatvāt ।
+tatrāpi hi smaryamāṇe pitrādau nidropaplavavaśādasaṃnidhānāparāmarśe, tatra tatra pūrvadṛṣṭasyaiva saṃnihitadeśakālatvasya samāropaḥ ।
+evam apītaḥ śaṅkhaḥ' atikto guḍaḥ' ityatrāpyetallakṣaṇaṃ yojanīyam ।
+tathā hi- bahirvinirgacchajatyacchanayanaraśmisaṃpṛktapittadravyavartinīṃ pītatāṃ pittarahitāmanubhavan, śaṅkhaṃ ca doṣācchāditaśuklimānamanubhavan, pītatāyāśca śaṅkhāsaṃbandhamananubhavan, asaṃbandhāgrahaṇasārūpye apītaṃ tapanīyapiṇḍaṃ' apītaṃ bilvaphalaṃ' ityādau pūrvadṛṣṭaṃ sāmānādhikaraṇyaṃ pītatvaśaṅkhatvayorāropyāha apītaḥ śaṅkhaḥ' iti ।
+etena atikto guḍaḥ' iti pratyayo vyākhyātaḥ ।
+evaṃ vijñātṛpuruṣābhimukheṣvādarśodakādiṣu svaccheṣu cākṣuṣaṃ tejo lagnamapi balīyasā saureṇa tejasā pratisrotaḥ pravartitaṃ mukhasaṃyuktaṃ mukhaṃ grāhayet, doṣavaśāttaddeśatāmanabhimukhatāṃ ca mukhyasyāgrāhayat, pūrvadṛṣṭābhimukhādarśodakadeśatāmābhimukhyaṃ ca mukhasyāropayatīti pratibimbavibhramo api lakṣito bhavati ।
+etena dvicandradiṅmohālātacakragandharvanagaravaṃśoragādivibhrameṣvapi yathāsaṃbhavaṃ lakṣaṇaṃ yojanīyam ।

@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 9 | label: grammar | g:0.55 m:0.47 ---
+
+tvām ārūḍhaṃ pavanapadavīm udgṛhītālakāntāḥ prekṣiṣyante pathikavanitāḥ pratyayād āśvasantyaḥ 
+kaḥ saṃnaddhe virahavidhurāṃ tvayy upekṣeta jāyāṃ na syād anyo apy aham iva jano yaḥ parādhīnavṛttiḥ ।।

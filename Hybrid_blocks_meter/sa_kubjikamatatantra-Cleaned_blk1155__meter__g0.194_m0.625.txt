@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1155 | label: meter | g:0.194 m:0.625 ---
+
+bhraṣṭanaṣṭakulaṃ tyajya kulakaulaṃ samāśrayet 
+tatra yogigurūṇāṃ ca pūjyate caraṇāmbujam ।।

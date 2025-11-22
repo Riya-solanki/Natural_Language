@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 452 | label: meter | g:0.25 m:0.625 ---
+
+tapaste varddhūtāṃ putra pitṛbhaktyā viśeṣataḥ ।
+yacca roṣābhibhūtena kṣatramutsāditaṃ tvayā ।।

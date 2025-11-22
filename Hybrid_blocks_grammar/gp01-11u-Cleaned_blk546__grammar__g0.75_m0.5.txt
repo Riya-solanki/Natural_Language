@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 546 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha mathurā-pathikatāṃ prathayiṣyamāṇaḥ śrī-gokula-kula-rājas tv agrajādīn nija-pratinidhitādi-karmaṇi nirmāya calann antaś cintitavān, "hanta, suhṛdi durhṛdi ca mama mānasaṃ samāna-sambandha-hārda-bandham api prasabhaṃ bhṛśam eva tatra prasajjati nava-jātake, yenāsau pībitā jīvitāśāpi na paricchinnatām icchati । samprati duṣṭasyāviprakṛṣṭam aṭann asmi, nānubhavann asmi kiṃ bhavitā । tasmād vikalatāvikalanāya vilokaṃ vilokam eva taṃ bālakaṃ yadu-nilayaṃ calāni" iti ।

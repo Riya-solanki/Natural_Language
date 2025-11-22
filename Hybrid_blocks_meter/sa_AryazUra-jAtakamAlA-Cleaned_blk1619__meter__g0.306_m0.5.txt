@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1619 | label: meter | g:0.306 m:0.5 ---
+
+dāridryaduḥkhagaṇanaparikhinnacetāḥ smṛtvā ca taṃ rurumṛgasya mahopakāram ।
+lobhena tena ca kṛtena vikṛṣyamāṇo dolāyamānahṛdayo vimamarśa tattat ।।

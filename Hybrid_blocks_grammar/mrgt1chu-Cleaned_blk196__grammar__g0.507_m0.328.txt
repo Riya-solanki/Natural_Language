@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 196 | label: grammar | g:0.507 m:0.328 ---
+
+jāgradavasthāyāmiva svāpāvasthāyāmapi malaparipākatāratamyāpekṣayā bodhanārhān bodhayan rodhanārhān rodhanaśaktyārundhan karmiṇāṃ karmāṇi pariṇāmayan māyāśaktīśca prasavābhimukhīḥ kurvan sarvaṃ cidacittattvabhāvabhūtabhuvanātmakaṃ yathāvadavalokayannāste ।। 
+yadyatheti na tv asmadādivat ayathāvastvavabhāso apyasya bhavatīti vakṣyāmaḥ ।। 
+tadiyatā jagatsṛṣṭisthitidhvaṃsalakṣaṇaṃ kṛtyatrayamihoktamiti prakaraṇopasaṃhāraḥ ।।

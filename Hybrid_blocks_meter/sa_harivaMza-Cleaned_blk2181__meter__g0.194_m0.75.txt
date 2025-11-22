@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2181 | label: meter | g:0.194 m:0.75 ---
+
+avadhyāḥ syāma bhagavan daivataiḥ samahauragaiḥ 
+śāpapraharaṇaiś cāpi niyataiḥ paramarṣibhiḥ ।।

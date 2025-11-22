@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 609 | label: meter | g:0.25 m:0.5 ---
+
+karkoṭo jño guruḥ padmo mahāpadmaśca bhārgavaḥ ।
+śaṅkhaḥ śanaiścaro rāhuḥ kulikaścāhayo grahāḥ ।।

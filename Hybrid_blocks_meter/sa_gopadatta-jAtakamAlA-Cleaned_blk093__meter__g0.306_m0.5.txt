@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 93 | label: meter | g:0.306 m:0.5 ---
+
+ity uktvā vyasanaparāṅmukhaḥ sa rājā saṃbuddhe bhagavati niścalaprasādaḥ ।
+taṃ bhikṣuṃ kṣititalalagnamaulimūrdhnā vanditvā svapuravaronmukho jagāma ।।

@@ -1,0 +1,3 @@
+--- source: brssgo1u-Cleaned.txt | block: 443 | label: grammar | g:0.667 m:0.5 ---
+
+nanu ayaḥ sarvajñaḥ sarvavit' ityayaṃ vākyaśeṣo acetane pradhāne na saṃbhavanti, kathaṃ pradhānaṃ bhūtayoniḥ pratijñāyata iti ।

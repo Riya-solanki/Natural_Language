@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3805 | label: hybrid | g:0.51 m:0.5 ---
+
+yathācyuta !tvaṃ parataḥ parasmātsa brahmabhūtaḥ parataḥ parasmāt ।
+tathācyutaṃ me kuru vāñchitaṃ sadā mayā kṛtaṃ pāpaharāprameya ।।

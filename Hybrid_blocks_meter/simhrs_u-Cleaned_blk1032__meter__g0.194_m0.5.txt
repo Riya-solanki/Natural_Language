@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1032 | label: meter | g:0.194 m:0.5 ---
+
+bhavatu viditaṃ chadmālāpair alaṃ priya gamyatāṃ
+tanur api na te doṣo' smākaṃ vidhis tu parāṅmukhaḥ ।
+tava yathā tathābhūtaṃ prema prapannam imāṃ daśāṃ
+prakṛti-capale kā naḥ pīḍā gate hata-jīvite ।।

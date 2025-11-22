@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 791 | label: meter | g:0.094 m:0.803 ---
+
+kare svasya vāme tu vāme vasantaṃ
+giriṃ līlayāspṛśya santaṃ hasantam ।
+tadīyāntar-udyan-mahā-kuṭṭima-sthaṃ
+hariṃ hāri-rūpādibhiḥ prāg-avastham ।। [bhujaṅgaprayātā]

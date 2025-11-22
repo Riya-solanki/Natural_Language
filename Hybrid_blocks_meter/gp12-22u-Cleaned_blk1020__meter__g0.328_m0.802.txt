@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1020 | label: meter | g:0.328 m:0.802 ---
+
+maṇimaya-śṛṅkhala-lasad-avalagnam
+caraṇa-vibhūṣaṇa-gaṇa-ruci-magnam ।
+veṣe cāsminn etad apūrvam
+yat tu na dṛṣṭaṃ kvacana ca pūrvam ।।

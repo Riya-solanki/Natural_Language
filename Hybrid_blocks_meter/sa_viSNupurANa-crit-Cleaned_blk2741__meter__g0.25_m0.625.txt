@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2741 | label: meter | g:0.25 m:0.625 ---
+
+atithir yasya bhagnāśo gṛhāt pratinivartate 
+sa dattvā duṣkṛtaṃ tasmai puṇyam ādāya gacchati ।।

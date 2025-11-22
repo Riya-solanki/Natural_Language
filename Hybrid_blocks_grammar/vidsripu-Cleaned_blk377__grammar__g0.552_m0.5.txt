@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 377 | label: grammar | g:0.552 m:0.5 ---
+
+dormūlāvadhisūtritastanam uraḥ snihyatkaṭākṣe dṛśāv īṣattāṇḍavapaṇḍite smitasudhācchekoktiṣu bhrūlate ।
+cetaḥ kandalitasmaravyatikaraṃ lāvaṇyam aṅgair vṛtaṃ tanvaṅgyās taruṇimni sarpati śanair anyaiva kācid gatiḥ ।।

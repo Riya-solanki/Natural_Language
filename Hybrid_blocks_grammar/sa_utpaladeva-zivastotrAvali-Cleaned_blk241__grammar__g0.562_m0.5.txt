@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 241 | label: grammar | g:0.562 m:0.5 ---
+
+nirvikalpabhavadīyadarśanapraptiphullamanasāṃ mahātmanām ullasanti vimalāni helayā ceṣṭitāni ca vacāṃsi ca sphuṭam ।।

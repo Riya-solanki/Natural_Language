@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 717 | label: hybrid | g:0.1 m:0.201 ---
+
+[] tad evaṃ harṣeṇa varṣe gaṇite, kadācid varṣiyaḥ-prabhṛtiṣu strī-puṃseṣu tat-tat-kṛti-vyāpṛteṣu nijotsaṅgena bāla-gopālaḥ sva-mandirālinde jananyā lālyate sma, yathā
+mukhe mukhaṃ lagayati cumbati sma tad
+vṛthā kathāḥ kathayati tena durgamāḥ ।
+hasaty atho hasati ca tatra bālake
+vrajeśvarī sukha-śata-siktatām agāt ।। [rucirā]

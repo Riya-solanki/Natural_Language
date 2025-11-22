@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2439 | label: meter | g:0.194 m:0.5 ---
+
+bhramam āropya sūryaṃ tu tasya tejoviśātanam 
+kṛtavān aṣṭamaṃ bhāgaṃ na vyaśātayatāvyayam ।।

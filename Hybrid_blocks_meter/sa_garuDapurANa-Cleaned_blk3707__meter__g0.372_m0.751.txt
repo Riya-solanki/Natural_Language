@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3707 | label: meter | g:0.372 m:0.751 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahmovāca ।
+brahman bhādrapade māsi śuklāṣṭamyāmupoṣitaḥ ।
+dūrvāṃ saurīṃ gaṇeśaṃ ca phalapuṣpaiḥ śivaṃ yajet ।।

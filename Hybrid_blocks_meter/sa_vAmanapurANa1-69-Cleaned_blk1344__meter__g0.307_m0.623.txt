@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1344 | label: meter | g:0.307 m:0.623 ---
+
+upavāsaṃ ca dānaṃ ca snānaṃ japyaṃ ca mādhava ।
+homayajñādikaṃ cānyacchubhaṃ vāpyaśubhaṃ vibho ।।

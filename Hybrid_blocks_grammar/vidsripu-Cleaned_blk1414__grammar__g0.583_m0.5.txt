@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1414 | label: grammar | g:0.583 m:0.5 ---
+
+kiṃ janmanā jagati kasyacid īkṣitena śaktyaiva yāti nijayā puruṣaḥ pratiṣṭhām ।
+śaktā hi kūpam api śoṣayituṃ na kumbhāḥ kumbhodbhavena punar ambudhir eva pītaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 330 | label: meter | g:0.25 m:0.625 ---
+
+karmāṇy evāvalambanti dehināṃ sarvasaṃpadaḥ ।
+bhūtānāṃ tuṅgaśṛṅgāc ca vinipāto na bhūtaye ।।

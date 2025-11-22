@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1726 | label: meter | g:0.29 m:0.747 ---
+
+sajalāmbhodasadṛśaṃ vidyutsadṛśavāsasam 
+svārūḍhaṃ svarṇapatrāḍhyaṃ śikhinaṃ kāśyapaṃ khagam ।।

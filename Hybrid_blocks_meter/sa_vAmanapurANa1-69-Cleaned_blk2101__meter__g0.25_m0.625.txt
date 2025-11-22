@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2101 | label: meter | g:0.25 m:0.625 ---
+
+avatīrmastataḥ snātuṃ nimagnaśca mahāmbhasi ।
+drupadāṃ nāma gāyatrīṃ jajāpāntarjale haraḥ ।।

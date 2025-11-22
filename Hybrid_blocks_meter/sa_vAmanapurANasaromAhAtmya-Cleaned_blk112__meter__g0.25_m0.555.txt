@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 112 | label: meter | g:0.25 m:0.555 ---
+
+tatastānabravīdviṣṇurdevān kaśyapameva ca ।
+sarveṣāmeva yuṣmākaṃ ye bhaviṣyanti śatravaḥ ।
+muhūrtamapi te sarve na sthāsyanti mamāgrataḥ ।।

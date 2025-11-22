@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5196 | label: hybrid | g:0.455 m:0.5 ---
+
+purāṇam etac caritaṃ mahātmanām adhītya buddhiṃ labhate ca naiṣṭhikīm 
+vihāya duḥkhāni vimuktasaṅgaḥ sa vītarāgo vicared vasuṃdharām ।।

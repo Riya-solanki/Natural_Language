@@ -1,0 +1,3 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2140 | label: meter | g:0.25 m:0.75 ---
+
+।। śrīvājivadanāya namaḥ ।।

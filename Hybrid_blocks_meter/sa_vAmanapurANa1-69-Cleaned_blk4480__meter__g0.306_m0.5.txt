@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4480 | label: meter | g:0.306 m:0.5 ---
+
+dhyāyanti ye satatamacyutamīśitāraṃ niṣkalmaṣaṃ pravarapadmadalāyatākṣam ।
+dhyānena tena hatakilbaṣavedanāste mātuḥ payodhararasaṃ na punaḥ pibanti ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2105 | label: meter | g:0.194 m:0.5 ---
+
+saṃpravekṣyāmy ahaṃ yogam ātmanaś ca parasya ca 
+saṃprāpya pārthivaṃ lokaṃ mānuṣatvam upāgataḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11338 | label: meter | g:0.25 m:0.5 ---
+
+raktādharaṃ rakta tālu caikīkṛtya mayoditam ।
+ato virodho nāstyeva tathā jñānātpratīyate ।।
+saptādhikairviṃśatilakṣaṇaistu samāyutā yāḥ striyo lakṣmaṇādyāḥ ।।
+bhage netre ca haste ca stane kukṣau tathaiva ca ।
+bhāratyapekṣayā pañcabhirnyūnā tvasti lakṣaṇaiḥ ।।

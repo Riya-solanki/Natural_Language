@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2179 | label: meter | g:0.272 m:0.595 ---
+
+dūrasthāni purasthāni dehasthāni vilakṣayet 
+tair vinā sādhanaṃ siddhir yatnenāpi na jāyate ।।

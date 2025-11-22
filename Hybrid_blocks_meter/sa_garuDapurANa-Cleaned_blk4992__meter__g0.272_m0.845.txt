@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4992 | label: meter | g:0.272 m:0.845 ---
+
+masūro madhuraḥ śīva saṃgrahī kaphapittahā ।
+tadvatsarvaguṇāḍhyaśca kalāyaścātivātalaḥ ।।

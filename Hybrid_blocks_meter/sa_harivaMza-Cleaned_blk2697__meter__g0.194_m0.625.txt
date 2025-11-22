@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2697 | label: meter | g:0.194 m:0.625 ---
+
+airāvatagataś cāham svayam evāmbu dāruṇam 
+srakṣyāmi vṛṣṭiṃ vātaṃ ca vajrāśanisamaprabham ।।

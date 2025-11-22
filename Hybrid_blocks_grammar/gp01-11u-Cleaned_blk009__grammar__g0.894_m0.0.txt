@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 9 | label: grammar | g:0.894 m:0.0 ---
+
+iti pramāṇa-jñāta-caraḥ kṛṣṇa-śabdas tv atra yoga-puraskṛta-rūḍhitayā tat-paraḥ । bhūr iti
+bhāvakvibantatākaraḥ । sa cāyaṃ bhāva-śabdavad dhātv-artha-mātratā-dharaḥ । dhātvarthaś cātrākarṣaṇam, tad eva sphuṭam āptatayāptamanasām ākarṣaṇam । tataś ca bhinna-padārthatayāvagatayor dayitayor iva tayor aikyaṃ yoga eveti tad-yukta ānandaḥ sarvākarṣakānanda ity artha evāmandaḥ; paraṃ brahma iti, । ṇarākṛti paraṃ brahma iti hi prasiddhiḥ । yoga-puraskṛta-rūḍhatopagūdhatayāpi śrī-nandanandanam eva vakti tac-chabda-śaktir iti vyakti-siddhiś ca । tad etad abhidhīyate cābhidhīyate iti । tasmād eva tadīya-svabhāva-viśeṣa-bhāvanārtham eva punar-uktir iyaṃ yuktiṃ yunakti ।

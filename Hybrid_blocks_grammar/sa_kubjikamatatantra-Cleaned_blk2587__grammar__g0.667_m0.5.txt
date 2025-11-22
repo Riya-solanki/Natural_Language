@@ -1,0 +1,3 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2587 | label: grammar | g:0.667 m:0.5 ---
+
+aiṃ śrīṃ ḍāṃ ḍīṃ ḍūṃ ḍākinī sarvaśatrūṇāṃ devadattānāṃ āṇimāri vaśīkuru kuru tvacadhātuṃ gṛhṇa gṛhṇa svāhā ।।

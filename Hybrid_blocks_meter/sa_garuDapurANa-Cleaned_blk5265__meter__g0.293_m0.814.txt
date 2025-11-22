@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5265 | label: meter | g:0.293 m:0.814 ---
+
+kaṣāyo grāhako ropī stambhanakledaśoṣaṇaḥ ।
+eko atyarthaṃ sevyamāno hṛdaye cātha pīḍakaḥ ।
+mukhaśoṣajvarādhmānamanyāstambhādikārakaḥ ।।

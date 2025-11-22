@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 616 | label: meter | g:0.189 m:0.9 ---
+
+yathā-
+romāñcam aṅkūrayati prakāmaṃ
+sparśena sarvāṅgaka-saṅgatena ।
+doḥ-svastikāśliṣṭa-payodharāṇāṃ
+śīta-jvaraḥ kānta ivāṅganānām ।।

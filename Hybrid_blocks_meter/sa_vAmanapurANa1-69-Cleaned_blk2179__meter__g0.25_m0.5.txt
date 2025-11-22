@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2179 | label: meter | g:0.25 m:0.5 ---
+
+etaistu pāpaiḥ puruṣaḥ punnamādyairna saṃśayaḥ ।
+saṃyuktaḥ prīṇayed devaṃ saṃtatyā jagataḥ patim ।।

@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 903 | label: hybrid | g:0.417 m:0.5 ---
+
+[eteṣvanyatame kāle ucyamānavat vakṣyamāṇarītyā śambhoḥ pavitramāpādya maheśvaramūrdhni pavitrāṇyāropya vārṣikaṃ vidhiṃ pūrayet pratyabdamanuṣṭheyaṃ nityāṅgabhūtaṃ prāyaścittātmakaṃ vidhiṃ samāpayet]

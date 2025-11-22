@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 14 | label: meter | g:0.25 m:0.5 ---
+
+vāgarthau sacamatkārau kāvyaṃ kāvyavido viduḥ ।
+vākchabda iti paryāyau vāgbhirarthaḥ śivaḥ smṛtaḥ ।।

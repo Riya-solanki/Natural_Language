@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 655 | label: meter | g:0.25 m:0.5 ---
+
+paraḥ parāṇāṃ puruṣo yasya tuṣṭo janārdanaḥ 
+sa prāpnoty akṣayaṃ sthānam etat satyaṃ mayoditam ।।

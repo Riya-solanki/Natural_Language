@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1134 | label: hybrid | g:0.542 m:0.5 ---
+
+śraddhā smṛtiḥ puṣṭiratho kṣamā ca chāyā ca śaktiḥ kamalālayā ca ।
+vṛttirdayā bhrānti ratheha māyā namo astu daivyai bhavarūpikāyai ।।

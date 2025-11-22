@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1051 | label: meter | g:0.194 m:0.5 ---
+
+saṃgrāmān subahūñ jitvā hatvā cārīn sahasraśaḥ 
+saṃgrāme vartamānasya vadhaṃ cābhyadhikād raṇe ।।

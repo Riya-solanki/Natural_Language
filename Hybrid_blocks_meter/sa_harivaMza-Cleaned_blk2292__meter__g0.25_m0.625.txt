@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2292 | label: meter | g:0.25 m:0.625 ---
+
+pratyuvāca yaśodā taṃ bhītā gadgadabhāṣiṇī 
+na vijānāmy ahaṃ kena śakaṭaṃ pātitaṃ bhuvi ।।

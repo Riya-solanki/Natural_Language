@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 1005 | label: hybrid | g:0.505 m:0.397 ---
+
+viśeṣamāha eṣāmityādi ।।
+eṣāṃ pūrvoktānāṃ yogānāṃ madhye ādita ārambhataḥ ekaṃ yogaṃ kṛtvā niḥśreyaso mokṣaḥ tatsiddhaye niṣpattaye saṃvatsaraṃ varṣaparimāṇaṃ ayanaṃ ṣaṇmāsaparyantaṃ yojyaṃ bhoktṛṣu iti śeṣaḥ ।।
+muktiḥ kaivalyanirvāṇaśreyoniḥśreyasāmṛtam ityamaraḥ ।।

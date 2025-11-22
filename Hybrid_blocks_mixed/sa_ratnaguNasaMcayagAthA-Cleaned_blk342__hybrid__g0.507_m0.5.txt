@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 342 | label: hybrid | g:0.507 m:0.5 ---
+
+kāle asmin bahudṛṣṭisaṃkulakalau pāṭhe api dūraṃ gate gāthābhedamanekapustakagataṃ dṛṣṭvādhunā nyāyataḥ 
+kūpaṃ vādigajendrakumbhadaraṇe bhadreṇa yā śodhitā lokārthaṃ hariṇā mayā suvihitā seyaṃ budhairgṛhyatām ।।

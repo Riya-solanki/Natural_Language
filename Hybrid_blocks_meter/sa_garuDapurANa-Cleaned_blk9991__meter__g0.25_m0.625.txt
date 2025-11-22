@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9991 | label: meter | g:0.25 m:0.625 ---
+
+hitāhitaṃ na jānanto nityamunmārgagāminaḥ ।
+kukṣipūraṇaniṣṭhā ye te narā nārakāḥ khaga ।।

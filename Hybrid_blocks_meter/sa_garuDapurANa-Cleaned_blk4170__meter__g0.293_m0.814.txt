@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4170 | label: meter | g:0.293 m:0.814 ---
+
+yathā svaliṅgaṃ saṃsarge jvarasaṃsargajo api vā ।
+śirortimūrchāvamidehadāhakaṇṭhāsyaśoṣāruciparvabhedāḥ ।
+unnidratā saṃbhramaromaharṣā jṛṃbhātivāktvaṃ pavanātsapittāt ।।

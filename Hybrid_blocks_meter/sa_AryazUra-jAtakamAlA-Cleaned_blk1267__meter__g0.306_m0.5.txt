@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1267 | label: meter | g:0.306 m:0.5 ---
+
+naikāntiko mṛtyuriha sthitasya na gacchataḥ syādajarāmaratvam ।
+sukheṣu ca tvāṃ samupāsya nityamāpadgataṃ mānada kena jahyām ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6740 | label: meter | g:0.371 m:0.714 ---
+
+ahaṃ brahma paraṃ jyotisturīyaṃ paramaṃ padam ।
+dehendriyamanobuddhiprāṇāhaṅkāravarjitam ।।

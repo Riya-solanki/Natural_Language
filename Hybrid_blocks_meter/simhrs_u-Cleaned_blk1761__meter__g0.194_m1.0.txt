@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1761 | label: meter | g:0.194 m:1.0 ---
+
+rājat-koraka-kaṇṭakā madhukarī-jhaṅkāra-huṅkāriṇīr
+ālola-stavaka-stanīr aviralādhūta-pravālādharāḥ ।
+āliṅganti latā-vadhūr atitarām āsanna-śākhā-karair
+atyārūḍha-rasālasāla-rasikāḥ kānte vasantodaye ।।

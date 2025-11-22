@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1767 | label: grammar | g:0.625 m:0.5 ---
+
+sanmārge tāvad āste prabhavati puruṣas tāvad evendriyāṇāṃ lajjāṃ tāvad vidhatte vinayam api samālambate tāvad eva ।
+bhrūcāpākṛṣṭamuktāḥ śravaṇapathagatā nīlapakṣmāṇa ete yāval līlāvatīnāṃ na hṛdi dhṛtimuṣo dṛṣṭibāṇāḥ patanti ।।

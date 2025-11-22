@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 230 | label: meter | g:0.056 m:0.625 ---
+
+{jāne kopaparāṅmukhī priyatamā svapnedya dṛṣṭā mayā
+mā māṃ saṃspṛśa pāṇineti rudatī gantuṃ pravṛttā puraḥ ।
+no yāvatparirabhya cāṭuśatakairāśvāsayāmi priyāṃ
+bhrātastāvadahaṃ śaṭhena vidhinā nidrādaridrīkṛtaḥ ।।}

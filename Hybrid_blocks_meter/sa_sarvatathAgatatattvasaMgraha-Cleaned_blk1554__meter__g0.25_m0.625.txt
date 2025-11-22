@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1554 | label: meter | g:0.25 m:0.625 ---
+
+tatastu sūtraṇaṃ tattu raṅgaiḥ śuddhaistu pūrayet ।
+vāmavajramahāmuṣṭyā prāgrekhāṃ tu yathāsukhaṃ ।।

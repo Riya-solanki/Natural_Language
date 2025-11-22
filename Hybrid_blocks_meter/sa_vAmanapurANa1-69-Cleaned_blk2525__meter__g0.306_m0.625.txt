@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2525 | label: meter | g:0.306 m:0.625 ---
+
+paripṛcchasi śokārtaṃ parikhinnaṃ taponvitam ।
+sa prāha rājāsmi vibho tapasvin śākale pure ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2121 | label: meter | g:0.25 m:0.625 ---
+
+nirācāreṇa mārgeṇa śāmbhavaṃ tu samabhyaset 
+kim abhyāsaḥ punas tasya yasya sarvaṃ puraḥsaram ।।

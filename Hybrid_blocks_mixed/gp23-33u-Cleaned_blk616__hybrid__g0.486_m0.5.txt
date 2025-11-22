@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 616 | label: hybrid | g:0.486 m:0.5 ---
+
+[] samprati śaraṇāgatatayā kṛta-mad-anusaraṇānāṃ yādavānām avanāya yuktatayā niyukta ivāsmi ।
+[] tatas tatra gariṣṭhaṃ prakoṣṭhāntaraṃ vidheyam । tanta yadi govardhana-dharaṇataḥ-

@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 654 | label: meter | g:0.302 m:0.847 ---
+
+arthasya varṇanīyasya vastunaḥ śarīramidam upādeyatayā jñeyaṃ grāhyatvena boddhavyam ।
+kīdṛśaṃ sat rāmaṇīyakanirbharam, saundaryaparipūrṇam,aupahatyarahitatvena tadvidāvarjakamiti yāvat ।
+kavīnāmetadeva yasmādvarṇanāspadamabhidhāvyāparāgocaram ।
+evaṃvidhasyāsya svarūpaśobhātiśayabhrājiṣṇorvibhūṣaṇānyupaśobhāntaramārabhante ।
+etadeva prakārāntareṇa vicārayati

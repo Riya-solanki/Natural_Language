@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1062 | label: grammar | g:0.688 m:0.5 ---
+
+kā tvaṃ kuntalamallakīrtir ahaha kvāsi sthitā na kvacit sakhyas tās tava kutra kutra vada vāg lakṣmīs tathā kāntayaḥ ।
+vāg yātā caturānanasya vadanaṃ lakṣmīr murārer uraḥ kāntir maṇḍalam aindavaṃ mama punar nādyāpi viśrāmabhūḥ ।।

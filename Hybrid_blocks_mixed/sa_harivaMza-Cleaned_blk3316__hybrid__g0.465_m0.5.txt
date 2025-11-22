@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3316 | label: hybrid | g:0.465 m:0.5 ---
+
+bālo vā yadi vā madhyaḥ sthaviro vā kṛśo api vā 
+balastho vā sthito raṅge jñeyaḥ kakṣyāntareṇa vai ।।

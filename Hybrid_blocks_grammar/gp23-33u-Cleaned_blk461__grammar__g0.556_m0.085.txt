@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 461 | label: grammar | g:0.556 m:0.085 ---
+
+dorāndolanam aṅgulī-parimalaṃ keśa-grahaṃ veśanut
+pāṇyoś cañcalatāṃ tathā para-paraṃ vācyāṃ vicārāt param ।
+kurvaṃs tat-para-dāra-sainyam aviśat kṛṣṇas tathā svaṃ yathā
+kutrāgād iti veda na sma janatā sāpy astu nāpi svayam ।।
+[] tataś ca kramaśaḥ para-parātikrama-pūrvakam apūrvotsāha-vṛtayoḥ sakhībhir āvṛtayor asādhāraṇa-krīḍā-raṇa-javayo rādhā-mādhavayor eva vyatiṣaṅgaḥ prasaṅga-māyātaḥ । yathā-yathaṃ tat-kautukāvakalanataḥ sva-sva-vyāpāraṃ parityajya rajyamāna-citratayā citrāyamāṇā vara-varṇinyaḥ sauvarṇa-varṇākāratayā vṛṇvānā mithas tad varṇayāmāsuḥ ।

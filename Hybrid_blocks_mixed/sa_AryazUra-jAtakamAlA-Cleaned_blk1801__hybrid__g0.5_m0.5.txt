@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1801 | label: hybrid | g:0.5 m:0.5 ---
+
+athaitān bodhisattvaḥ samāśvāsayannuvāca - mā bhaiṣṭa āyuṣmantaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4917 | label: meter | g:0.194 m:0.625 ---
+
+abhyāśamāgatāṃ tāṃ tu mahāśaktiṃ mahāmṛdhe 
+huṃkāreṇaiva nirbhartsya pātayām āsa bhūtale ।।

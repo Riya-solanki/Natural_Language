@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 311 | label: meter | g:0.335 m:0.505 ---
+
+nanvarthamevādhyāhṛtya vākyaṃ pūryatāṃ kiṃ śabdakalpanayā ।
+nārthamātreṇa pūraṇaṃ saṃbhavati, ekavākyabhūtapadadvayapratipāditā hi padārthā vākyārthaṃ pratipādayanti nānyathā ।
+na hi ānaya ityetāvatyukte gāmityanukte pratyakṣapratipanne api gavi gavā sahānayanamanvīyate ।
+evaṃ ca vikṛtiṣu

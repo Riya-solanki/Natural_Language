@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4653 | label: meter | g:0.302 m:0.806 ---
+
+sarvatra toye maraṇaṃ śocanaṃ tatra niṣphalam ।
+gavākṣavacchirājālairudaraṃ guḍguḍāyate ।।

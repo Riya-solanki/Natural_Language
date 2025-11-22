@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 666 | label: hybrid | g:0.426 m:0.453 ---
+
+śabdaścānannasya pratiṣedhakaḥ kāmakāranivṛttiprayojanaḥ kāṭhakānāṃ saṃhitāyāṃ śrūyate - atasmādbrahmaṇaḥ surāṃ na pibet' iti ।
+so api ana ha vā evaṃvidi' ityasyārthavādatvādupapannataro bhavati ।
+tasmādevañjātīyakā arthavādā na vidhaya iti ।।

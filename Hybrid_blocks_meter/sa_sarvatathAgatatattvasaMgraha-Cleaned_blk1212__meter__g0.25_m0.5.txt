@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1212 | label: meter | g:0.25 m:0.5 ---
+
+jvālāmadhye likhetpadmaṃ khaṅgaṃ cakrantathaiva ca ।
+vajrajivhāṃ yathāvat tu tasyāḥ pārśveṣu sa[rveṣu ।।

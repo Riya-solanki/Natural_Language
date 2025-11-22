@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2162 | label: meter | g:0.302 m:0.787 ---
+
+brahmovāca ।
+paradārābhigamanaṃ pāpīyāṃsopasevanam ।
+pāruṣyaṃ sarvabhūtānāṃ prathamaṃ narakaṃ smṛtam ।।

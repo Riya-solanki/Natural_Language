@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1403 | label: meter | g:0.373 m:0.549 ---
+
+apacitataramāṃsāsṛgvasākardamāsu vyapagatabhayaśaṅkās tasya vistāriṇīṣu ।
+tanuvivaratareṣu vyāḍasaṃghā vicerur na ca manasi viṣādo na ca khedo babhūva ।।

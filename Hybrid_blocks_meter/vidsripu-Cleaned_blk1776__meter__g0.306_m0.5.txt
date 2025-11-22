@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1776 | label: meter | g:0.306 m:0.5 ---
+
+yauvanaṃ calam apāyi śarīraṃ gatvaraṃ vasu vimṛśya viśiṣṭaḥ ।
+nānyajanmagatatiktavipākaṃ dṛṣṭasaukhyam api karma vidhatte ।।

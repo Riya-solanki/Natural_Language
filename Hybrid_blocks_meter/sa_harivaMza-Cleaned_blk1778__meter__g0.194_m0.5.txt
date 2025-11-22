@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1778 | label: meter | g:0.194 m:0.5 ---
+
+eṣa devān paribhavaṃl lokāṃś ca sacarācarān 
+ṛṣīṇāṃ kadanaṃ kṛtvā mām api pratigarjati ।।

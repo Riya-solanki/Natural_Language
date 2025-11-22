@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 965 | label: meter | g:0.194 m:0.625 ---
+
+tena dharmarathenātha tadā viṣṇupade girau 
+yajatā saha śakreṇa somaḥ pīto mahātmanā ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 685 | label: grammar | g:0.569 m:0.408 ---
+
+kopo yatra bhrukuṭiracanā nigraho yatra maunaṃ yatrānyonyasmitam anunayo dṛṣṭipātaḥ prasādaḥ ।
+tasya premṇas tad idam adhunā vaiśasaṃ paśya jātaṃ tvaṃ pādānte luṭhasi na hi me manyumokṣaḥ khalāyāḥ ।।
+pradyumnasya।।

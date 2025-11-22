@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9491 | label: meter | g:0.25 m:0.5 ---
+
+sapiṇḍaḥ sa bhavedādau sapiṇḍīkaraṇe kṛte ।
+antyastu tyājako jñeyo yo vṛddhaprapitāmahaḥ ।।

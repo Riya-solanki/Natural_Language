@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 637 | label: meter | g:0.25 m:0.5 ---
+
+atṛptā eva te teṣāṃ darśanena mahātmanāṃ ।
+babhūvur atha cātīyus teṣāṃ nayanagocaraṃ ।।

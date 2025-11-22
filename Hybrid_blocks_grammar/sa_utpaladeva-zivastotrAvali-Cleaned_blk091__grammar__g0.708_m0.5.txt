@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 91 | label: grammar | g:0.708 m:0.5 ---
+
+svecchayaiva bhagavan nijamārge kāritaḥ padam ahaṃ prabhunaiva tat kathaṃ janavad eva carāmi tvatpadocitam avaimi na kiṃ cit ।।

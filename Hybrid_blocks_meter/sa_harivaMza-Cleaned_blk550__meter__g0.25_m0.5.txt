@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 550 | label: meter | g:0.25 m:0.5 ---
+
+śrūyante pitaro devā devānām api devatāḥ 
+te vātha pitaro nye vā kān yajāmo vayaṃ punaḥ ।।

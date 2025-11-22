@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1525 | label: meter | g:0.25 m:1.0 ---
+
+paralokādivānīto mṛtyorvaktrāntarādiva ।
+prapātāduddhṛto anyasmādanyatra patito hyasi ।।

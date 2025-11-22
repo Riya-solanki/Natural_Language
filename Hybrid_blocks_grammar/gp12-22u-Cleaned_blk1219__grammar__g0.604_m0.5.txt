@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1219 | label: grammar | g:0.604 m:0.5 ---
+
+[] tataś ca sañjīvanī-pallava-vinyāsavat tal-lava-sparśata eva cakṣuḥ-puṭa-yugam udghaṭayya tayā sa eva dṛṣṭaḥ ।

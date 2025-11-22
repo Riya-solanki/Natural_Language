@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1093 | label: grammar | g:0.562 m:0.5 ---
+
+yasyāvandhyaruṣaḥ pratāpavasater nādena dhairyadruhāṃ śuṣyanti sma madapravāhasaritaḥ sadyo api digdantinām ।
+daivāt kaṣṭadaśāvaśaṃ gatavataḥ siṃhasya tasyādhunā karṣaty eṣa kareṇa keśarasaṭābhāraṃ jaratkuñjaraḥ ।।

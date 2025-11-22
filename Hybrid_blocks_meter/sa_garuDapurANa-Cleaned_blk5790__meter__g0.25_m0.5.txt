@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5790 | label: meter | g:0.25 m:0.5 ---
+
+siddhārthakaṃ vacā hiṅgu karañjaṃ devadāru ca ।
+mañjiṣṭhā triphalā viśvaṃ śirīṣo rajanīdvayam ।।

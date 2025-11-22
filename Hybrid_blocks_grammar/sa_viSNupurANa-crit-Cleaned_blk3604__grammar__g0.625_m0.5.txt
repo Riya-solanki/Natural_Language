@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3604 | label: grammar | g:0.625 m:0.5 ---
+
+ayaṃ hi vaṃśo atibalaparākramadyutiśīlaceṣṭāvadbhir atiguṇānvitair nahuṣayayātikārtavīryārjunādibhir bhūpālair alaṃkṛtaḥ । tam ahaṃ kathayāmi śrūyatām ।।

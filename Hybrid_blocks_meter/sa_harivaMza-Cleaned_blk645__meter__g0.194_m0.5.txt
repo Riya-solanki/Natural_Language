@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 645 | label: meter | g:0.194 m:0.5 ---
+
+cakṣur divyaṃ savijñānaṃ pradiśāmi ca te anagha 
+gatim etām apramatto mārkaṇḍeya niśāmaya ।।

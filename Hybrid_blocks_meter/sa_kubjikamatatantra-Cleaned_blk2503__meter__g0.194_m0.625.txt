@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2503 | label: meter | g:0.194 m:0.625 ---
+
+mārgaśīrṣasya māsasya kṛṣṇāyāṃ pañcamī bhavet 
+tasyāṃ sambhārasampanno rātrau jāgaraṇaṃ yajet ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 81 | label: hybrid | g:0.486 m:0.5 ---
+
+saci eva jānati nirudhyati kṣīṇadharmā taccaita kṣīṇa pariṇāmayiṣyanti yatra 
+na ca dharma dharmi pariṇāmayate kadācit pariṇāmitaṃ bhavati eva prajānamāne ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1111 | label: meter | g:0.25 m:0.5 ---
+
+sraṣṭā carācarasyāsya pātā hantā tathaiva ca ।
+tvāmāhurbrahya vidvāṃso brahma brahmavidāṃ gatim ।।

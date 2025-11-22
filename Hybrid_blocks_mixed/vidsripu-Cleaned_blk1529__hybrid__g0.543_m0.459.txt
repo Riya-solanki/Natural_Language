@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1529 | label: hybrid | g:0.543 m:0.459 ---
+
+ye tṛṣṇārtair adhikam aniśaṃ bhujyamānāḥ prasannā antarbhūtā jhaṭiti guṇino yatra pūrṇā bhavanti ।
+namrībhūtaiḥ phalam abhinavaṃ prāpyate yady avaśyaṃ tat kiṃ kūpāḥ sukṛtaghaṭitās tvādṛśā vā pumāṃsaḥ ।।
+amaradattasya

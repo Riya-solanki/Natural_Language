@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3103 | label: meter | g:0.194 m:0.5 ---
+
+tejasā cāsya yadavaḥ śataśo atha sahasraśaḥ 
+vaṃśam āpūrayiṣyanti oghā iva mahārṇavam ।।

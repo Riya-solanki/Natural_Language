@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 704 | label: grammar | g:0.75 m:0.5 ---
+
+[] kiṃ bahunā, bhavān api tatra bhavitā । vraja-vāsi-tatir api vrajitā । yataḥ parimilanāya parasparam adhikam abhikatāṃ gatānāṃ lakṣya-mātraṃ tvad-ādikaṃ lakṣyate ।

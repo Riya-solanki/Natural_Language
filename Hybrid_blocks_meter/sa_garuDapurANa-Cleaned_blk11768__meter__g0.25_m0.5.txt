@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11768 | label: meter | g:0.25 m:0.5 ---
+
+eteṣāṃ caiva māhātmyaṃ ko vā vaktumihārhati ।
+ṛṣitīrtheṣu sā kanyā cacāra tapa uttamam ।।

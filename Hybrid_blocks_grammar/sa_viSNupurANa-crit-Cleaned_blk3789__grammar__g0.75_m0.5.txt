@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3789 | label: grammar | g:0.75 m:0.5 ---
+
+kṛṣṇo api balabhadram āha । tāvad atraiva syandane bhavatā stheyam aham enam adhamācāraṃ padātinam anugamya yāvad ghātayāmi । atra hi bhūbhāge dṛṣṭadoṣā hayāḥ । naite aśvā bhavatemaṃ bhūmibhāgam ullaṅghya neyāḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 266 | label: grammar | g:0.562 m:0.5 ---
+
+vibhaktīnāṃ vibhaktatvaṃ saṃkhyāyāḥ kārakasya ca । āvṛttiḥ suptiṅantānāṃ mithaśca yamakādabhutam ।।

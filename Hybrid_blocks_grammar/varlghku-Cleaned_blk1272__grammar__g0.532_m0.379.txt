@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1272 | label: grammar | g:0.532 m:0.379 ---
+
+haiyaṅgavīnaṃ saṃjñāyām ।।
+hyogodohaśabdasya hiyaṅgurādeśaḥ vikārārthe khañca nipātyate । duhyata iti dohaḥ kṣīram । hyogodohasya vikāraḥ - haiyaṅgavīnaṃ navanītam ।।

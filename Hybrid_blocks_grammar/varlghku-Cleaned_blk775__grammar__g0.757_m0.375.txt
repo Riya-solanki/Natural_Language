@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 775 | label: grammar | g:0.757 m:0.375 ---
+
+śabdavairakalahābhrakaṇvameghebhyaḥ karaṇe ।।
+ebhyaḥ karmabhyaḥ karotyarthe kyaṅ syāt । śabdaṃ karoti śabdāyate ।। tatkaroti tadācaṣṭe; iti ṇic ।। prātipadikāddhātvarthe bahulamiṣṭhavacca । prātipadikāddhātvarthe ṇic syāt, iṣṭhe yathā prātipadikasya puṃvadbhāva-rabhāva-ṭilopa- vinmatublopa-yaṇādilopa-prasthasphādyādeśa-bhasaṃjñāstadvaṇṇāvapi syuḥ । ghaṭaṃ karotyācaṣṭe vā ghaṭayati ।।

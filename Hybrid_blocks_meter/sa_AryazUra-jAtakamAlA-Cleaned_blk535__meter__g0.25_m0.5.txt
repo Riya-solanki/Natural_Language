@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 535 | label: meter | g:0.25 m:0.5 ---
+
+yasya svagātrairapi yāvakānāṃ vacāṃsi saṃpūjayituṃ manīṣā ।
+bhayānna dadyātsa iti pratarkaḥ prakāśanā bāliśacāpalasya ।।

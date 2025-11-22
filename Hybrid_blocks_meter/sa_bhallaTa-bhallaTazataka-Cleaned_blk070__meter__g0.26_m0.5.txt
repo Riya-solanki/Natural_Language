@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 70 | label: meter | g:0.26 m:0.5 ---
+
+vṛtta eva sa ghaṭo andhakūpa yas tvatprasādam api netum akṣamah 
+mudritaṃ tv adhamaceṣṭitaṃ tvayā tanmukhāmbukaṇikāḥ pratīcchatā ।।

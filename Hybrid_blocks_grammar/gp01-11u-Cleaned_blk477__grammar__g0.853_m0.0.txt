@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 477 | label: grammar | g:0.853 m:0.0 ---
+
+āhlādena samaṃ jajñe bālaḥ kiṃ kiṃ sa eva saḥ ।
+evaṃ viviktuṃ nandasya nāsīn matimatī matiḥ ।।
+[] atha śrīmān vrajeśaḥ svīkṛta-dhārmika-veśas tad api bahulam anyad api bahulādikaṃ dānāya saṃcakpe । yatra sarvaś ca tathābhāvāya kharvaśaś cakpe । saṅkalpya ca gṛhe gantuṃ kṛta-spṛhe dhṛta-veśe ca tat-tad-vṛta-vraja-nareśe śrī-rāma-prasū-samādeśān mahā-gopura-deśād dundubhi-dvandvam unnanāda । tac ca vādya-vidyā-vidura-vyañjitaṃ vādyaṃ vyaktam evedaṃ muhur vakti sma-prādurbhūto nandānanda iti । tataś ca-

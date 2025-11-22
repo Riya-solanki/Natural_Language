@@ -1,0 +1,9 @@
+--- source: brssbh3u-Cleaned.txt | block: 240 | label: meter | g:0.254 m:0.725 ---
+
+tuśabdena pradarśitāṃ prāptiṃ niruṇaddhi ।
+na brahmaṇo anyatkiñcidbhavitumarhati pramāṇābhāvāt ।
+nahyanyasyāstitve kiñcitpramāṇamupalabhāmahe ।
+sarvasya hi janimato vastujātasya janmādi brahmaṇo bhavatīti nirdhāritam ।
+ananyatvaṃ ca kāraṇātkāryasya ।
+anaca brahmavyatiriktaṃ kiñcidajaṃ saṃbhavati sadeva somyedamagra āsīdekamevādvitīyam' ityavadhāraṇāt ।
+ekavijñānena ca sarvavijñānapratijñānānna brahmavyatiriktavastvastitvamavakalpate ।

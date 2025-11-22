@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1128 | label: meter | g:0.328 m:0.595 ---
+
+yam apāsya vayaṃ jarārtimṛtyuvyasanāyāsavighātadainyabhītāḥ ।
+suranātha daśām imāṃ prapannā na bhayān nāpi ca bālacāpalena ।।

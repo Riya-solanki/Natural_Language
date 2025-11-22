@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10556 | label: meter | g:0.25 m:0.5 ---
+
+ajñānajāstu me devāḥ karmajebhyaḥ śatāvarāḥ ।
+ghṛtācī menakā raṃbhā urvaśī ca tilottamā ।।

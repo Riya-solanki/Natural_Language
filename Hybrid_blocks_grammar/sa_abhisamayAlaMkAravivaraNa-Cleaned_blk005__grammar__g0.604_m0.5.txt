@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 5 | label: grammar | g:0.604 m:0.5 ---
+
+sarvākārajñatādyaṣṭau padārthāḥ; cittotpādādayaḥ saptatiśca padārthā abhisamayālaṅkārasyābhidheyā santi । teṣāmiha svarūpaṃ saṃkṣepeṇa prastūyate ।

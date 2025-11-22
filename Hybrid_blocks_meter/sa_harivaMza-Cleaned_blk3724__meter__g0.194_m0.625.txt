@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3724 | label: meter | g:0.194 m:0.625 ---
+
+tato dvādaśa varṣāṇi so ayaś cūrṇam abhakṣayat 
+ārādhayan mahādevam acintyaṃ śūlapāṇinam ।।

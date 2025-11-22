@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1473 | label: meter | g:0.25 m:1.0 ---
+
+atra nyūnenottamasya ।।

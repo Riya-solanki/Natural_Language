@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 498 | label: meter | g:0.25 m:0.625 ---
+
+mukhyārthahatirdoṣo rasaśca mukhyastadāśrayādvācyaḥ ।
+ubhayopayoginaḥ syuḥ śabdādyāstena teṣvapi saḥ ।।

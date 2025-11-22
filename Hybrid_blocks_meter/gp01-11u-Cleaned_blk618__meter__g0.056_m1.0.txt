@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 618 | label: meter | g:0.056 m:1.0 ---
+
+athottāna-śāyī sa sarvātiśāyī
+nijāmbā-yaśodaḥ sva-tāta-pramodaḥ ।
+sva-nakṣatra-bhāte babhūva prabhāte
+balenātisāṅgaḥ parāvartitāṅgaḥ ।। [bhūjaṅgaprayātā]

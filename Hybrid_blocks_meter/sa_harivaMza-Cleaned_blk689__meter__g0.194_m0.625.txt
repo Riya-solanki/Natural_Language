@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 689 | label: meter | g:0.194 m:0.625 ---
+
+āsīt sudharmaṇaḥ putraḥ sārvabhaumaḥ prajeśvaraḥ 
+sārvabhauma iti khyātaḥ pṛthivyāṃ ekarāṭ tadā ।।

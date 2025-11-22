@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8273 | label: meter | g:0.25 m:0.5 ---
+
+kṛṣṇasāro mṛgo yatra dharmadaśaḥ sa ucyate ।
+brahmādyā devatāḥ sarvāstatra tiṣṭhanti sarvaśaḥ ।।

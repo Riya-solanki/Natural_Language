@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 204 | label: meter | g:0.194 m:0.75 ---
+
+pramādāddhārite liṅge bhraṣṭe vā sākṣasūtrake
+lakṣaṃ japenmaheśasya punaḥ kuryātparigraham ।

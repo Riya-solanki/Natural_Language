@@ -1,0 +1,7 @@
+--- source: grasht_u-Cleaned.txt | block: 990 | label: grammar | g:0.717 m:0.307 ---
+
+jarāmṛtyorupadeśe hetumāha aprāptetyādi aprāptalokabhavaṃ yathā syāttathā asya kartuḥ ghanaḥ ।।
+jaṭharāgniṃ vināpi pumān naśyati nāśaṃ prāpnoti ।।
+kiṃbhūtaḥ san vividharogagaṇaiḥ nānārogasamūhaiḥ paribhūto vijitaḥ san iti vākyārthaḥ ।।
+kāṣṭhe sthitam api ghanapaṭalamadhye'pi abhre'bhrasattvaṃ sthitaṃ tadāha abhrasatvaṃ ghanasāraṃ ghanapaṭale sthitamapi nijakāryaṃ svakīyakṛtyaṃ tathā na kurute vahniragniḥ ।।
+kāṣṭhe dāruṇi sthitaḥ san nijakāryaṃ na kurute tu punaḥ yathā ghṛtaṃ payasi dugdhe sthitaṃ sat svīkāryaṃ na kurute cāgrahir iva dhanasthamiva madhye sthitaṃ kāryaṃ kurute'tiniḥsṛtaṃ sat pṛthagbhūtaṃ sat nijakāryaṃ kuruta iti bhāvaḥ ।।

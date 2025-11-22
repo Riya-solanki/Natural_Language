@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 643 | label: grammar | g:0.606 m:0.155 ---
+
+bījavidhānam āha sarveṣām ityādi ।।
+ādau prathamaṃ sarveṣāṃ bījānāṃ yathoktaṃ saṃyogaṃ catuḥṣaṣṭīnāṃ uktasaṃjñānāṃ dravyāṇāṃ saṃyogaṃ ekatrīkaraṇaṃ kṛtvā yadekatrīkṛtaṃ vahnau drāvitaṃ bhavati tatsarvaṃ śatavāpyaṃ bījaṃ siddhaṃ prayatnena syāditi śabdārthaḥ ।।

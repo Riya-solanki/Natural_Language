@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10231 | label: meter | g:0.307 m:0.623 ---
+
+tattve pīḍā na kartavyā tayā duḥ khāni vindati ।
+atyantapīḍanāttasya rogastasya na saṃśayaḥ ।।

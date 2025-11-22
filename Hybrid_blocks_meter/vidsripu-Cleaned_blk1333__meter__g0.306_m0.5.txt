@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1333 | label: meter | g:0.306 m:0.5 ---
+
+ākhubhyaḥ kiṃ khalair jñātaṃ khalebhyaḥ kim athākhubhiḥ ।
+anyat paragṛhotkhātāt karma yeṣāṃ na vidyate ।।

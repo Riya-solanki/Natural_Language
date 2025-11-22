@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 15 | label: grammar | g:0.562 m:0.48 ---
+
+prāṇānāṃ ca dehāntarapratipattau gatiḥ śrāvyate- atamutkrāmantaṃ prāṇo anūtkrāmati prāṇamanūtkrāmantaṃ sarve prāṇā anūtkrāmanti' ityādiśrutibhiḥ ।
+sā ca prāṇānāṃ gatirnāśrayamantareṇa saṃbhavatītyataḥ prāṇagatiprayuktā tadāśrayabhūtānāmapāpamapi bhūtāntaropasṛṣṭānāṃ gatiravagamyate ।
+nahi nirāśrayāḥ prāṇāḥ kvacidgacchanti tiṣṭhanti vā jīvato darśanāt ।।

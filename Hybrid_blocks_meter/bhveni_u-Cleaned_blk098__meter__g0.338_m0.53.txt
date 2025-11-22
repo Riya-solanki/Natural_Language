@@ -1,0 +1,5 @@
+--- source: bhveni_u-Cleaned.txt | block: 98 | label: meter | g:0.338 m:0.53 ---
+
+bhīmasenaḥ
+sāṭopam
+vatsa evaṃ kṛte kiṃ kṛtaṃ bhavati ।

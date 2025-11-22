@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 837 | label: meter | g:0.25 m:0.523 ---
+
+divi deva-gaṇāḥ sādhyāḥ siddha-gandharva-cāraṇāḥ ।
+tuṣṭuvur mumucus tuṣṭāḥ puṣpa-varṣāṇi sarvataḥ ।। śaṅkha-dundubhayo nedur divi devādi-vāditāḥ ।
+jagur gandharva-patayo yeṣāṃ tumburur āditaḥ ।। []

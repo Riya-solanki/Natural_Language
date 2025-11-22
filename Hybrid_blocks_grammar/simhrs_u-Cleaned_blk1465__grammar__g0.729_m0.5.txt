@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1465 | label: grammar | g:0.729 m:0.5 ---
+
+yathā tatraiva, bharataḥ ārya ! rāvaṇa-vidrāvaṇa bharato' ham abhivādaye । ity upakramya ity antena bandhūnām anyonyāvalokana-pariṣvaṅgādibhir duḥkhāpagama-kathanāt samayaḥ ।

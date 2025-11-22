@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1232 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā yathā vādayate devī vādyāni tāni tu ।
+tathā tathā bhūtagaṇā nṛtyanti ca hasnti ca ।।

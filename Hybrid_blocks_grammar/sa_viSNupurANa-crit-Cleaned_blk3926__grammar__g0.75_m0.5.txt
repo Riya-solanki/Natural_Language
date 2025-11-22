@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3926 | label: grammar | g:0.75 m:0.5 ---
+
+saptābhīrāḥ daśa gardabhilāś ca bhūbhujo bhaviṣyanti । tataḥ ṣoḍaśa śakā bhūpatayo bhavitāraḥ । tataś cāṣṭau yavanāś caturdaśa tuṣārā muṇḍāś ca trayodaśa ekādaśa maunāḥ । ete pṛthivīṃ trayodaśavarṣaśatāni navanavatyadhikāni bhokṣyanti ।।

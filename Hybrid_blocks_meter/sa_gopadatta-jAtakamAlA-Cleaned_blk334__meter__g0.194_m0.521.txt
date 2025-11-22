@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 334 | label: meter | g:0.194 m:0.521 ---
+
+vidhim aparam ahaṃ te bodhayāmi prasiddhyai
+tvam api ca kuru tāvat saṃprasiddhyai kadā cit ।
+yadi bhavati sutas te kanyakānāma tasya
+sakalajanapade asmin khyāpayasva prasiddhyai ।।

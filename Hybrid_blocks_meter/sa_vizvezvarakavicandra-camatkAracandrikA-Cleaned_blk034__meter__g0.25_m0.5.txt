@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 34 | label: meter | g:0.25 m:0.5 ---
+
+sarvamūlaṃ tu magaṇaṃ prāpya sarvagaṇaḥ śubhaḥ ।
+pūrvācāryoditaṃ teṣāṃ lakṣma daivaṃ phalaṃ bruve ।।

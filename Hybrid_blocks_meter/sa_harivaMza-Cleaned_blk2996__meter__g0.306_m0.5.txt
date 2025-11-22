@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2996 | label: meter | g:0.306 m:0.5 ---
+
+dāruṇe api pitā putre naiva dāruṇatāṃ vrajet 
+dāruṇo api pituḥ putraḥ kaḥ putre dāruṇaḥ pitā । 
+putrārthe hy āpadaḥ kaṣṭāḥ pitaraḥ prāpnuvanti hi ।। 
+putrās te hy āpadaḥ kaṣṭāt pitaraṃ tārayanti tu । 
+chādito vasudevena yadi putraḥ śiśus tadā 
+manyase yady akartavyaṃ pṛcchasva pitaraṃ svakam ।।

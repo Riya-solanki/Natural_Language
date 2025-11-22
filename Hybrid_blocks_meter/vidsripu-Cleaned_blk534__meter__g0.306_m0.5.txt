@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 534 | label: meter | g:0.306 m:0.5 ---
+
+avacanaṃ vacanaṃ priyasaṃnidhāv anavalokanam eva vilokanam ।
+avayavāvaraṇaṃ ca yad añcala- vyatikareṇa tad aṅgasamarpaṇam ।।

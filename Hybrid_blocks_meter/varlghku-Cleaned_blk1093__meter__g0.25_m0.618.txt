@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1093 | label: meter | g:0.25 m:0.618 ---
+
+apatyaṃ pautraprabhṛti gotram ।।
+apatyatvena vivakṣitaṃ pautrādi gotrasaṃjñaṃ syāt ।।

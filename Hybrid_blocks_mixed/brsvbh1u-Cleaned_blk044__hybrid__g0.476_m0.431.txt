@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 44 | label: hybrid | g:0.476 m:0.431 ---
+
+-vidhāyake śabde, paro lakṣyaḥ śabdārtho na bhavatīti śābarabhāṣye siddhāntitam ।
+naca asomena yajeta'ityādau somavateti matvarthalakṣaṇābhyupagamāt, atattvamasi'ityādau ca jīvabrahmaṇoraikyaṃ bruvatāṃ mate bhāgalakṣaṇāṅgīkārānnaitadyuktamiti vācyam ।
+vidhitulyaṃ, tattulyaṃ vā tātparyavadvākyaṃ yatkiñcudanugrahārthamanyaparaṃ na netuṃ śakyamityarthe tātparyāt ।
+tatra vinā tātparyaṃ siddhireṣṭavyetyāśayaḥ ।

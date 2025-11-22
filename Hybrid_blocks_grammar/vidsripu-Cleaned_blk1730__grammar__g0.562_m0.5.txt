@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1730 | label: grammar | g:0.562 m:0.5 ---
+
+mā garvam udvaha kapolatale cakāsti kāntasvahastalikhitā mama mañjarīti ।
+anyāpi kiṃ na sakhi bhājanam īdṛśānāṃ vairī na ced bhavati vepathur antarāyaḥ ।।

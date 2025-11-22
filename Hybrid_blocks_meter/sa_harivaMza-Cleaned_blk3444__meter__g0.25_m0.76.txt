@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3444 | label: meter | g:0.25 m:0.76 ---
+
+kaṃsārīpralopāṃś ca śrutvā sukaruṇān bahūn 
+vigarhamāṇam ātmānaṃ tasmin yādavasaṃsadi ।। 
+kṛṣṇaḥ provāca nikhilaṃ sarveṣām upaśṛṇvatām । 
+aho mayātibālyena nararoṣānuvartinā 
+vaidhavyaṃ strīsahasrāṇāṃ kaṃsasyāsya kṛte kṛtam ।।

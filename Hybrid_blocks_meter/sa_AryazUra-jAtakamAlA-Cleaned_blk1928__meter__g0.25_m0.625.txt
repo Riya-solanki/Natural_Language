@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1928 | label: meter | g:0.25 m:0.625 ---
+
+asaṃśayaṃ tadvanasaṃśrayāstadā manassu visphāritavismayāḥ surāḥ ।
+vicikṣipurvyomni mudottanūruhāḥ samucchritaikāṅgulipallavān bhujān ।।

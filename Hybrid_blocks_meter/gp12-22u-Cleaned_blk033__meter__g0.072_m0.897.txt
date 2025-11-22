@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 33 | label: meter | g:0.072 m:0.897 ---
+
+[] dig-darśanaṃ tu yathā,
+gopālocita-navya-veṣa-valanai rakṣā-vidhānair dvijādy-
+āśībhiḥ sudināha-labhya-racanair vrajyārha-nīrājanaiḥ ।
+saṅgānānvita-vādya-nṛtya-nikaraiḥ śaśvaj-jayādy-āravaiḥ
+śrīmān gopa-mahendra-sūnur agamad rāmeṇa dhenūr anu ।। [śārdūlavikrīḍita]

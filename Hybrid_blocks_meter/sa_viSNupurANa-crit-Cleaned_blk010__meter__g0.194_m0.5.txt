@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 10 | label: meter | g:0.194 m:0.5 ---
+
+praṇamya viṣṇuṃ viśveśaṃ brahmādīn praṇipatya ca 
+guruṃ praṇamya vakṣyāmi purāṇaṃ vedasaṃmitam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6777 | label: meter | g:0.25 m:0.5 ---
+
+dharmārthakāmaḥ kiṃ tasya muktistasya kare sthitā ।
+samastajagatāṃ mūlaṃ yasya bhaktiḥ sthirā harau ।।

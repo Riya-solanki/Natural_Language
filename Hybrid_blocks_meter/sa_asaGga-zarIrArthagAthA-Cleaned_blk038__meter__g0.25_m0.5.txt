@@ -1,0 +1,5 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 38 | label: meter | g:0.25 m:0.5 ---
+
+arthāprāptyā hṛdayasyeha śāntir jitveha senāṃ priyaśātarūpaṃ ।
+eko dhyāyī sukham asmy anvabhotsaṃ tasmād janena na karomi sakhyaṃ
+sakhyaṃ na saṃvidyate kena cid mama ।।

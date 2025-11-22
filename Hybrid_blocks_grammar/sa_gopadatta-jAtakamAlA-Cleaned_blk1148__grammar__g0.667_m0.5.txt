@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1148 | label: grammar | g:0.667 m:0.5 ---
+
+iti yāsāṃ priyā trātaḥ spṛhā hṛdi vijṛmbhate vareṇa tāsāṃ ko nv arthaḥ sāmiṣeṇa calena ca ।।

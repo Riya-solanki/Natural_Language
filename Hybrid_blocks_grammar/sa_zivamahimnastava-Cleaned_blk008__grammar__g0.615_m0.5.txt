@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 8 | label: grammar | g:0.615 m:0.5 ---
+
+trayī sāṃkhyaṃ yogaḥ paśupatimataṃ vaiṣṇavam iti prabhinne prasthāne param idam adaḥ pathyam iti ca ।
+rucīnāṃ vaicitryād ṛjukuṭilanānāpathajuṣāṃ nṛṇām eko gamyas tvam asi payasām arṇava iva ।।

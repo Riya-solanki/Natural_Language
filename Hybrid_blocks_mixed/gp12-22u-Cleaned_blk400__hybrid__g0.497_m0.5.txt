@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 400 | label: hybrid | g:0.497 m:0.5 ---
+
+candro na hata-kalaṅkaḥ kvacid api na kalaṅki vaktraṃ vaḥ ।
+candro muhur api naśyati naśyati nahi varṣma yuṣmadīyaṃ tu ।। [upagīti]

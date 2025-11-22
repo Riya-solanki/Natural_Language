@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2681 | label: meter | g:0.194 m:0.625 ---
+
+bhūṣitaṃ bhūṣaṇenaiva vāmakarṇasya suvrate 
+dīpanyā kevalā caiva caturdhā tu prakalpayet ।।

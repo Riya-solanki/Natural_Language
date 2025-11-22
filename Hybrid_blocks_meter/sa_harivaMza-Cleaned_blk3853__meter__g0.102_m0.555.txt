@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3853 | label: meter | g:0.102 m:0.555 ---
+
+hiraṇyalomety āhur yaṃ dākṣiṇātyeśvaraṃ janāḥ 
+agastyaguptām āśāṃ yaḥ kuṇḍinastho anvaśān nṛpaḥ 
+rukmī tasyābhavat putro rukmiṇī ca viśāṃ pate ।।

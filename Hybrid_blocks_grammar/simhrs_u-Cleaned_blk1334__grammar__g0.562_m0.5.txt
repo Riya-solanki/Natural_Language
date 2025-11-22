@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1334 | label: grammar | g:0.562 m:0.5 ---
+
+yathā tatraiva ṣaṣṭhāṅke mālyavān -na jāne kiṃ hi vṛttaṃ kaikeyī-daśarathayoḥ ।

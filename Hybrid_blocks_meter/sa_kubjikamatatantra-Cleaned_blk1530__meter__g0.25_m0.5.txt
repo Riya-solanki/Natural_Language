@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1530 | label: meter | g:0.25 m:0.5 ---
+
+tās tu kṣubdhā yadā kāle amṛtaṃ muñcanti bhāvitāḥ 
+tadā caturvidhā sṛṣṭir brahmacakre tu nānyathā ।।

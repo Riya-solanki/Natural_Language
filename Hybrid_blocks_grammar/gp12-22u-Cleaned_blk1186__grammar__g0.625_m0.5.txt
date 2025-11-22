@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1186 | label: grammar | g:0.625 m:0.5 ---
+
+[] yadi mad-uṭaja-kuṭajam etām ekākinīṃ yāma-mātrāyāmam avasaraṃ vāsayatha, tadā mayā nātivirāmayā pratikartavyam iti ।

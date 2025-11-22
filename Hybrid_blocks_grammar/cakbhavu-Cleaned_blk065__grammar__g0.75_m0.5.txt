@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 65 | label: grammar | g:0.75 m:0.5 ---
+
+Viv he vṛṣa svaśaktirasavarṣanapravaṇa! tathā akape acapalakūṭastha! granthipañcakam indhikā dīpikā rocikā mocikā ūrdhvagālakṣaṇaṃ, manograthanād dhāraṇā vāruṇyādyā deśabandharūpāś cittasya tā evāmbhāsi tair aṣṭottaraśatasaṃkhyātāntikamukhyasaṃpradāyasiddhibhūmikolaṅghanakrameṇa amalatām āsādya, anarghyamūlyamatulyatvāt।।

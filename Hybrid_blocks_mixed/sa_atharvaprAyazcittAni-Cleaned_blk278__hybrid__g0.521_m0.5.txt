@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 278 | label: hybrid | g:0.521 m:0.5 ---
+
+iti ca hutvāthainaṃ punaḥ pradiśati vāyave tvā ity ।

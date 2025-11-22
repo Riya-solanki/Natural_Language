@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 125 | label: meter | g:0.25 m:0.5 ---
+
+navacchidrāṇi tāny eva prāṇasyāyatanāni ca ।।

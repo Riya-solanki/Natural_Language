@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 151 | label: grammar | g:0.75 m:0.5 ---
+
+jñānadṛṣṭyā trīṇi jñānāni darśanamārgaḥ । prathamaṃ yad darśanamārgabhūtaṃ śrāvakamārgaṃ jānāti, dvitīyaṃ yat pratyekabuddhamārgaṃ jānāti । tṛtīyaṃ yanmahāyānamārgaṃ jānātīti trayo bhedā bhavanti ।

@@ -1,0 +1,5 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 468 | label: meter | g:0.102 m:0.695 ---
+
+mūlikā lavaṇaṃ gandham abhāve pittatailayoḥ 
+piṣyo jambīranīreṇa hemapattraṃ pralepayet 
+ityevaṃ jāraṇā kāryā tataḥ sūtaṃ vimārayet ।।

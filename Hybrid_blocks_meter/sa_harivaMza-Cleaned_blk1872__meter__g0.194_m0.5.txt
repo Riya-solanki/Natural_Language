@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1872 | label: meter | g:0.194 m:0.5 ---
+
+mānavānāṃ ca patayaḥ pārthivāś ca parasparam 
+ṣaḍbhāgam upayuñjānā na bhedaṃ kurvate mithaḥ ।।

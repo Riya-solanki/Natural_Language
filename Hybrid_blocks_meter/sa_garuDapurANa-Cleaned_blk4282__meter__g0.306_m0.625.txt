@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4282 | label: meter | g:0.306 m:0.625 ---
+
+sidhyetāmapi sāmarthyātsādhyādau ca pṛthakkramaḥ ।
+miśrā yāpyāśca ye sarve jarasaḥ sthavirasya ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1894 | label: meter | g:0.25 m:0.625 ---
+
+trailokyam etat kṛtakaṃ maitreya paripaṭhyate 
+janas tapas tathā satyam iti cākṛtakaṃ trayam ।।

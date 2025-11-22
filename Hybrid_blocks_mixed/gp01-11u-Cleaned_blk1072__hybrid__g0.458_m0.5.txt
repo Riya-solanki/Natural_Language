@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1072 | label: hybrid | g:0.458 m:0.5 ---
+
+[] sa cāgamya vyoma-nāmā kṛta-vyomāvalambatayā nyakṣeṇa vīkṣamāṇaḥ kāmyakāraṇya-dharaṇī-dhara-sannidhānataḥ samam atyarbhaka-vṛndenātyarbhakatayā nirvrīḍa-krīḍā-sandarbhaṃ śrī-yaśodā-garbha-jātaṃ śrī-rohiṇy-arbhakaṃ vinā samāyātaṃ dadarśa vimamarśa ca-

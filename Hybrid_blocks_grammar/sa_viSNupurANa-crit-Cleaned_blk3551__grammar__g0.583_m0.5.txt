@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3551 | label: grammar | g:0.583 m:0.5 ---
+
+tābhyāṃ ca tad vanam apamṛgaṃ kṛtaṃ sa caikaṃ tayor bāṇena jaghāna ।।

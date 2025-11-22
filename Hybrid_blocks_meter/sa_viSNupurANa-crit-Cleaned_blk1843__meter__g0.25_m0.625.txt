@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1843 | label: meter | g:0.25 m:0.625 ---
+
+raṅgopajīvī kaivartaḥ kuṇḍāśī garadas tathā 
+sūcī māhiṣikaś caiva parvagāmī ca yo dvijaḥ ।।

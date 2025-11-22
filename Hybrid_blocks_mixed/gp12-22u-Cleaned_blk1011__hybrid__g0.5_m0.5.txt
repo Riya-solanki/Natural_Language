@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1011 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evaṃ tāsāṃ karṇa-vivaram anu mantra-varṇān nidhivan nidhāya tad-vidhim api sa-vidhim abhidhāya mudāntar-hitavatī sāntarhitavatī । tataś ca tās tad-upadeśa-lagnāḥ parama-sukha-magnā babhūvuḥ । yataḥ-

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1006 | label: meter | g:0.194 m:0.5 ---
+
+devaśravāḥ katiś caiva yasmāt kātyāyanāḥ smṛtāḥ 
+śālāpatir hiraṇyākṣo reṇur yasyātha reṇukā ।।

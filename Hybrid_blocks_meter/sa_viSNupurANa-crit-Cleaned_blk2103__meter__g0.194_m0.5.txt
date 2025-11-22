@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2103 | label: meter | g:0.194 m:0.5 ---
+
+saiṣa viṣṇuḥ sthitaḥ sthityāṃ jagataḥ pālanodyataḥ 
+ṛgyajuḥsāmabhūto antaḥ savitur dvija tiṣṭhati ।।

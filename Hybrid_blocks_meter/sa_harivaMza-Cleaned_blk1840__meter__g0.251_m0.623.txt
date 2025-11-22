@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1840 | label: meter | g:0.251 m:0.623 ---
+
+te tu brahmarṣayaḥ sarve pitāmahapurogamāḥ 
+na vidus taṃ kvacit suptaṃ kvacid āsīnam āsane ।।

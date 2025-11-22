@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1665 | label: meter | g:0.056 m:0.729 ---
+
+[saha divasa-niśābhyāṃ dīrghāḥ śvāsa-daṇḍāḥ
+saha maṇi-valayair bāṣpa-dhārā galanti ।
+tava subhaga viyoge tasyā udveginyāḥ
+saha ca tanu-latayā durbalā jīvitāśā ।।]

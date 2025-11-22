@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6919 | label: meter | g:0.253 m:0.665 ---
+
+sūta uvāca ।
+nāradena purā pṛṣṭa evaṃ sa vṛṣabhadhvajaḥ ।
+yettena tasmai vyākhyātaṃ tanmayā kathitaṃ tava ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 562 | label: grammar | g:0.562 m:0.5 ---
+
+kuvalayavanaṃ pratyākhyātaṃ navaṃ madhu ninditaṃ hasitam amṛtaṃ hanta svādoḥ paraṃ rasasampadaḥ ।
+viṣam upahitaṃ cintāvyājān manasy api kāminām alasamadhurair līlātantrais tayārdhavilokitaiḥ ।।

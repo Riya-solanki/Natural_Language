@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8736 | label: meter | g:0.25 m:0.75 ---
+
+ekākī miṣṭamaśrāti poṣyavargamṛte sadā ।
+brāhmaṇānāmabhāvena rodha kastena cocyate ।।

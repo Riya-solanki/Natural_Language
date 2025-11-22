@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 205 | label: meter | g:0.25 m:0.75 ---
+
+aho hi puṣpapūjāhaṃ sarvālaṅkārakārikā ।
+yattathāgataratnatvaṃ pūjya kṣipramavāpyate ।।

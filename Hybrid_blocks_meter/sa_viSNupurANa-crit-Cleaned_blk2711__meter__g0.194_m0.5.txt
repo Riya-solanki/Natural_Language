@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2711 | label: meter | g:0.194 m:0.5 ---
+
+paśupālyaṃ vaṇijyaṃ ca kṛṣiṃ ca manujeśvara 
+vaiśyāya jīvikāṃ brahmā dadau lokapitāmahaḥ ।।

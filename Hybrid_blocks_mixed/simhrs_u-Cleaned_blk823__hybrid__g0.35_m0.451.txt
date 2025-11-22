@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 823 | label: hybrid | g:0.35 m:0.451 ---
+
+yathā-
+manye priyāhṛtamanās tasyāḥ praṇipāta-laṅghanaṃ sevām ।
+evaṃ hi praṇayavatī sā śakyam upekṣituṃ kupitā ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 329 | label: meter | g:0.348 m:0.705 ---
+
+sampratyupamāprapañco vicāryate । kaḥ punarasāvityāha 
+prativastuprabhṛtirupamāprapañcaḥ ।।
+prativastu prabhṛtiryasya sa prativastuprabhṛtiḥ । upamāyāḥ prapañca upamāprapañca iti ।।

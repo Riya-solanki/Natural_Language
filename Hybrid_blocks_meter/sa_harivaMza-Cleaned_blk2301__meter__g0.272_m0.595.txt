@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2301 | label: meter | g:0.272 m:0.595 ---
+
+yaśodāyām ajānantyāṃ nandagopaḥ sabāndhavaḥ 
+kaṃsād bhayaṃ cakārograṃ vismayaṃ ca jagāma ha ।।

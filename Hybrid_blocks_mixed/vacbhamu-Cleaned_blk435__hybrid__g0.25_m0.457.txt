@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 435 | label: hybrid | g:0.25 m:0.457 ---
+
+sā ca praśāsanāt ।
+praśāsanamājñā cetanadharmo nācetane pradhāne vāvyākṛte vā saṃbhavati ।
+naca mukhyārthasaṃbhave kūlaṃ pipatiṣatītivadbhaktatvamucitamiti bhāvaḥ ।।

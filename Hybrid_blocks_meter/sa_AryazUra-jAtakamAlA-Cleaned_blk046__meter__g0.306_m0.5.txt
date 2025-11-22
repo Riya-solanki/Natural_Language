@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 46 | label: meter | g:0.306 m:0.5 ---
+
+dṛṣṭe guṇe anusmṛtimāgato vā spaṣṭaḥ kathāyogamupāgato vā ।
+sarvaprakāraṃ jagato hitāni kuryāmajasraṃ sukhasaṃhitāni ।।

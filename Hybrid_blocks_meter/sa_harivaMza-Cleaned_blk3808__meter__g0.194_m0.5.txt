@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3808 | label: meter | g:0.194 m:0.5 ---
+
+viśvakarmā tataḥ prītaḥ puryāḥ saṃdṛśya vāstu tat 
+govinde caiva saṃmānaṃ sāgaraḥ kṛtavāṃs tadā ।।

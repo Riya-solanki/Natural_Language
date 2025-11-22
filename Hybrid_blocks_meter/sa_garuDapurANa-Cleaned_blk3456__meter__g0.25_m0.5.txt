@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3456 | label: meter | g:0.25 m:0.5 ---
+
+abalasya balaṃ rājā bālasya ruditaṃ balam ।
+balaṃ mūrkhasya maunaṃ hi taskarasyānṛtaṃ balam ।।

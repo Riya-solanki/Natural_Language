@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 897 | label: meter | g:0.251 m:0.623 ---
+
+yady evaṃ coditaḥ śakra tvayā syāṃ pūrvam eva hi 
+nābhaviṣyat tvatpriyārtham akartavyaṃ mayānagha ।।

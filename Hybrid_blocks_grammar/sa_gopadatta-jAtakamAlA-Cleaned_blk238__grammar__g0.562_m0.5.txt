@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 238 | label: grammar | g:0.562 m:0.5 ---
+
+bodhisattvaḥ kilānyatamasmin vividhavarṇagandharasasaṃpannaphalabhārāvanatadrumopagūḍhe vikacasurabhikusumavallīvirājitaparyante marakatamaṇiprabhāharitaśādvalakuthāstīrṇaviṣamabhūmibhāge kamalakuvalayākaronmīlitavimalajalāśayaparigrahe mahaty araṇye vānarādhipatir babhūva ।।

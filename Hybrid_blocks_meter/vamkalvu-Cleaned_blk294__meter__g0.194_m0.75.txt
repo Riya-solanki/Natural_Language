@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 294 | label: meter | g:0.194 m:0.75 ---
+
+adyāpi smarati rasālasaṃ mano me
+mugdhāyāḥ smaracaturāṇi ceṣṭitāni ।

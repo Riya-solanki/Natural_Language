@@ -1,0 +1,7 @@
+--- source: brssbh1u-Cleaned.txt | block: 315 | label: meter | g:0.25 m:0.844 ---
+
+FN pratīko nāmāśrayāntarapratyayasyāśrayāntare prakṣepaḥ ।
+kṣayitā pāratantryādirvā āmayastatsahita ityarthaḥ ।
+tadarthayorviśeṣitatvātchabdāvapi viśeṣitāvucyete ।
+viśeṣaṇatvena svasya bhūtatvavyāvartakatvena ।
+brahmapadaṃ śiro yayoste brahmaśirasī tayorbhāvo brahmaśirastvam ।

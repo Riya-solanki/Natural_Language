@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 422 | label: grammar | g:0.552 m:0.5 ---
+
+vakṣasyakṣṇośca pārśve karatalayugale kaustubhābhāṃ dayāṃ ca sītāṃ kodaṇḍadīkṣāmabhayavarayutāṃ vīkṣya rāmāṅgasaṅgaḥ ।
+svasyāḥ kva syāditīyaṃ hṛdi kṛtamananā bhāṣyaratnaprabhākhyā, svātmānandaikalubdhā raghuvaracaraṇāmbhojayugmaṃ prapannā ।।

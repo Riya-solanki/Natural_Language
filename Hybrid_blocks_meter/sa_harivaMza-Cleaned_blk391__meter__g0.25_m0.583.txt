@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 391 | label: meter | g:0.25 m:0.583 ---
+
+praviṣṭe tu manau tāta divākaram ariṃdama 
+daśadhā tadgataṃ kṣatram akarot pṛthivīm imām ।। 
+yūpāṅkitā vasumatī yasyeyaṃ savanākarā । 
+ikṣvākur jyeṣṭhadāyādo madhyadeśam avāptavān 
+kanyābhāvāc ca sudyumno nainaṃ guṇam avāptavān ।।

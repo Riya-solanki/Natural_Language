@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 816 | label: meter | g:0.25 m:0.695 ---
+
+sa tredhā kathyate prauḍha-madhya-manda-vibhedataḥ । 
+pravāsādibhir ajñāta-citta-vṛttau priye jane ।
+itara-kleśa-kārī yaḥ sa prauḍhaḥ sneha ucyate ।।

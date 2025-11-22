@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 80 | label: meter | g:0.25 m:0.5 ---
+
+caturdhā so' pi kathito vṛttyā kāvya-vicakṣaṇaiḥ ।
+anukūlaḥ śaṭho dhṛṣṭo dakṣiṇaś ceti bhedataḥ ।।

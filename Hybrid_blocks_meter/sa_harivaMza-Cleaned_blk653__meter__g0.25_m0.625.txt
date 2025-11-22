@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 653 | label: meter | g:0.25 m:0.625 ---
+
+hiṃsayā vicariṣyanto dharmaṃ pitṛkṛtena vai 
+tatas te punar ājātiṃ bhraṣṭāḥ prāpsyanti kutsitāṃ ।।

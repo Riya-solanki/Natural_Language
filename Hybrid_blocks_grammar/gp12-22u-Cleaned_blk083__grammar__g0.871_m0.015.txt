@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 83 | label: grammar | g:0.871 m:0.015 ---
+
+[] tad evaṃ sthite sadāvad eva kadāpi kṛṣṇāgra-janmanaḥ śravaṇākhyaṃ māsikaṃ
+janmarkṣam atithivat prathitiṃ vraja-sadasi samāsasāda । tadā ca saṅkarṣaṇaḥ sa khalu harṣaṇa-maṅgala-snapanādy-āsaṅgataḥ sva-gṛha eva saṅgata āsīt । [] tadā ca kāsāñcanābhinavānāṃ gavām atipratyāsanna-prasavānām avaśyam eva svāvanīyatayā vināpi taṃ vanīm anugata-sakhaḥ śrīdāma-sakhaḥ prasthitavān । kintu sambhojana-samaya-samayane samayaṃ vidhāya tadā ca labdhe vipralabdher avasare tad-itaraṃ prati yaḥ kāla-kūṭa-tulyaḥ kāla-kūṭas tan-maya-kālindīya-kāliya-hrada-haritam eva tvaritaṃ hari-sudhā-vāridhir avajagāhe ।

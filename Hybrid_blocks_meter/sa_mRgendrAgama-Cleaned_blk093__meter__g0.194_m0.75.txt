@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 93 | label: meter | g:0.194 m:0.75 ---
+
+bhaktiśca śivabhakteṣu śraddhā tacchāsake vidhau 
+anenānumitiḥ śiṣṭahetoḥ sthūladhiyāmapi ।।

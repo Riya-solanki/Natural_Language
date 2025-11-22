@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1675 | label: meter | g:0.368 m:0.583 ---
+
+yathā rāmānande-
+vyarthaṃ yatra kapīndra-sakhyam api me vīryaṃ kapīnām api
+prajñā jāmbavato' pi yatra na gatiḥ putrasya vāyor api ।
+mārgaṃ yatra na viśvakarma-tanayaḥ kartuṃ nalo' pi kṣamaḥ
+saumitrer api patriṇām aviṣayas tatra priyā kvāpi me ।।

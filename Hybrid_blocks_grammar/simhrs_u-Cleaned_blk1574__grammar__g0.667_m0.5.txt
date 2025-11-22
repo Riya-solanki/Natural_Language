@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1574 | label: grammar | g:0.667 m:0.5 ---
+
+vidūṣakaḥ-vijñāpaya bhaṭṭārakamà tathāpi ghaṭayiṣyāmi iti । atra ca bakulāvalikayā mālavikāgnimitrayor ghaṭane sahakāritvam aṅgīkṛtam iti dūtyam ।

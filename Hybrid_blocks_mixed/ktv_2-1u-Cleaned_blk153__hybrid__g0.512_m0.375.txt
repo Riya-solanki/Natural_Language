@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 153 | label: hybrid | g:0.512 m:0.375 ---
+
+yad uktam yadaikasmād apūrvaṃ tadetarat tadarthaṃ bhaviṣyati iti tadgataṃ tāvad vastudharmeṇa viśeṣaṃ darśayati ।
+katham ।

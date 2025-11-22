@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 608 | label: hybrid | g:0.527 m:0.431 ---
+
+dhanyāsi yat kathayasi priyasaṃgamena narmasmitaṃ ca vacanaṃ ca rasaṃ ca tasya ।
+nīvīṃ prati praṇihite tu kare priyeṇa sakhyaḥ śapāmi yadi kiṃcid api smarāmi ।।
+vidyāyāḥ

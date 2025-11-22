@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 822 | label: meter | g:0.454 m:0.571 ---
+
+atha mandaḥ-
+dvayor ekasya mānādau tad anyasya karoti yaḥ । 
+naivopekṣāṃ na cāpekṣāṃ sa sneho manda ucyate ।।

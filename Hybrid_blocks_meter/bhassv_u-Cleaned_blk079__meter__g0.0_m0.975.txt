@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 79 | label: meter | g:0.0 m:0.975 ---
+
+{vāsavadattā} - aṇuggahīda hmi 
+[anugṛhītāsmi । ]

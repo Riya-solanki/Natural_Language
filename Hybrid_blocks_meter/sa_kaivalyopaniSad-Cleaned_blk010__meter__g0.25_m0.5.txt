@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 10 | label: meter | g:0.25 m:0.5 ---
+
+umāsahāyaṃ parameśvaraṃ prabhuṃ trilocanaṃ nīlakaṇṭhaṃ praśāntam ।
+dhyātvā munirgacchati bhūtayoniṃ samastasākṣiṃ tamasaḥ parastāt ।।

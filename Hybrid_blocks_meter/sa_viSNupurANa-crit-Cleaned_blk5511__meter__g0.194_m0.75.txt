@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5511 | label: meter | g:0.194 m:0.75 ---
+
+tasyāpi keśavodyogaṃ śrutvā kāśipatis tadā 
+sarvasainyaparīvāraḥ pārṣṇigrāha upāyayau ।।

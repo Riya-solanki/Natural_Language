@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 115 | label: meter | g:0.25 m:0.854 ---
+
+tadevaṃ pratyakṣaṃ tāvadanimittaṃ tatpūrvakatvāccānumānādyapi ।
+nahyagṛhīte dharme tena saha kasyacitsaṃbandhagrahaṇaṃ saṃbhavati ।
+sādṛśyaviṣayakatvāccopamānaṃ dūrabhraṣṭam ।
+arthāpattirapi dharmeṇa vinānupapadyamānasya kasyacidadarśanādasamarthā ।।

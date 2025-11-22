@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4137 | label: meter | g:0.319 m:0.892 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+sarvaroganidānañca vakṣye suśruta tattvataḥ ।
+ātreyādyairmunivarairyathā pūrvamudīritam ।।

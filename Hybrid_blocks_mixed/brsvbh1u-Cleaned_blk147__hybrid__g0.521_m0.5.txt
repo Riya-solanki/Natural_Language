@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 147 | label: hybrid | g:0.521 m:0.5 ---
+
+-saṃvidatiriktaprakāśānaṅgīkāre saṃvidarthātmānau saha prakāśata ityuktaṃ syāt tathā coktaputrapāṇḍityanyāyaprasaraḥ ।

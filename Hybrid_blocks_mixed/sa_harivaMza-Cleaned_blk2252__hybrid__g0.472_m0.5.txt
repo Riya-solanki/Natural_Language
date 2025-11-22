@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2252 | label: hybrid | g:0.472 m:0.5 ---
+
+garbhe api niyato mṛtyur bālye api na nivartate 
+yuvāpi mṛtyor vaśagaḥ sthaviro mṛta eva tu ।। 
+kālamūlam idaṃ sarvaṃ hetubhūtas tvam eva hi । 
+ajāte darśanaṃ nāsti yathā nāsti tathaiva saḥ 
+jāto apy ajātatāṃ yāti vidhātrā yatra nīyate ।।

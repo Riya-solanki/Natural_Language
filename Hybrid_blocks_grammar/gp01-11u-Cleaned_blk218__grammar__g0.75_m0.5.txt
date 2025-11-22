@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 218 | label: grammar | g:0.75 m:0.5 ---
+
+[] rāma-kṛṣṇau tu gavālokana-satṛṣṇau tad-aṅgaṇa-saṅgata-merv-ākāra-mahāgāram āruhya, mahī-mahita-māheyī-sthāneṣu pīyūṣa-vṛṣṭīr iva dṛṣṭīr vidhāya, vidheyair vidūra-deśān nideśayāmāsatuḥ, "bho bho gopa-gaṇāḥ, vartmanaḥ savyāpasavyayor eva pātavyā gavyāḥ" iti ।

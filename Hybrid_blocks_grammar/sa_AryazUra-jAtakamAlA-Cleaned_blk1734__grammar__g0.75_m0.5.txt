@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1734 | label: grammar | g:0.75 m:0.5 ---
+
+sa tatra sāntaḥpura udyānavanavihārasukhaṃ prakāmamanubhūya krīḍāprasaṅgaparikhedānmadapariṣvaṅgācca śrīmati vimānapradeśe mahārhaśayanīyavaragato nidrāvaśamupajagāma । atha tā yoṣitaḥ prastāvāntaragatamavetya rājānaṃ vanaśobhābhirākṣipyamāṇahṛdayāstaddarśanāvitṛptā yathāprītikṛtasamavāyāḥ samākulabhūṣaṇatinādasaṃmiśrakalapralāpāḥ samantataḥ prasasruḥ ।

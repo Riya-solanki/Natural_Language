@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 285 | label: grammar | g:0.604 m:0.5 ---
+
+kṣiṇotu kāmaṃ śītāṃśuḥ kiṃ vasanto dunoti mām malinācaritaṃ karma surabher nanv asāṃpratam ।।

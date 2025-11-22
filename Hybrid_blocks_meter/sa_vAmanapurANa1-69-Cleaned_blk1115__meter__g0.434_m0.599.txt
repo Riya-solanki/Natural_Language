@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1115 | label: meter | g:0.434 m:0.599 ---
+
+pulastya uvāca ।
+tatastu devā mahiṣema nirjitāḥ sthānāni saṃtyajya savāhanāyudhāḥ ।
+jagmuḥ puraskṛtya ricāmahaṃ te draṣṭuṃ tadā cakradharaṃ śriyaḥ patim ।।

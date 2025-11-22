@@ -1,0 +1,9 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8966 | label: meter | g:0.269 m:0.7 ---
+
+nṛpatiruvāca ।
+kṛṣṇavarṇaḥ karālāsyastvaṃ preta iva lakṣyase ।
+kathayasva mama prītyā yathaivaṃ cāsi tattvataḥ ।।
+tathā pṛṣṭaḥ sa vai rājñā provāca sakalaṃ svakam ।।
+preta uvāca ।
+kathayāmi nṛpaśreṣṭha sarvamevāditastava ।
+pretatve kāraṇaṃ śrutvā dayāṃ kartuṃ mamārhasi ।।

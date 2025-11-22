@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5513 | label: meter | g:0.306 m:0.5 ---
+
+puṣpeṇa tu samaṃ piṣṭvā rocanāyāḥ palaikataḥ ।
+striyā puṃsā kṛto rudra ! tilako ayaṃ vaśīkaraḥ ।।

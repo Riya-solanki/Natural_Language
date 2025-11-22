@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 825 | label: hybrid | g:0.324 m:0.47 ---
+
+yathā mahacchabdaḥ sāṃkhyaiḥ sattāmātre api prathamaje prayukte na tameva vaidike api prayoge abhidhatte ।
+abuddherātmā mahānparaḥ', amahāntaṃ vibhumātmānam' avedāhametaṃ puruṣaṃ mahāntam'

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 410 | label: meter | g:0.194 m:0.5 ---
+
+viṣṭarāśvaḥ pṛthoḥ putras tasmād ārdras tv ajāyata 
+ārdrasya yuvanāśvas tu śrāvastas tasya cātmajas ।।

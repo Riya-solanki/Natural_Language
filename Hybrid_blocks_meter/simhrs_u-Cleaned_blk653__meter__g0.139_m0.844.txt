@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 653 | label: meter | g:0.139 m:0.844 ---
+
+jaihmyād, yathā-
+liṅgair mudaḥ saṃvṛta-vikriyās te
+hradāḥ prasannā iva gūḍha-nakrāḥ ।
+vaidarbham āmantrya yayus tadīyāṃ
+pratyarpya pūjām upadācchalena ।।

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 766 | label: meter | g:0.194 m:0.729 ---
+
+alaṃ vivādena yathā śrutas tvayā
+tathāvidhas tāvad aśeṣam astu saḥ ।
+mamātra bhāvaika-rasaṃ manaḥ sthitaṃ
+na kāma-vṛttir vacanīyam īkṣate ।।

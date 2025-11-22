@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 36 | label: hybrid | g:0.507 m:0.5 ---
+
+labdhaṃ cirād amṛtavat kim amṛtyave syād dīrghaṃ rasāyanavad āyur api pradadyāt 
+etat phalaṃ yad ayam adhvagaśāpadagdhaḥ stabdhaḥ khalaḥ phalati varṣaśatena tālaḥ ।।

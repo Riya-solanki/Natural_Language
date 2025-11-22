@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3456 | label: meter | g:0.194 m:0.5 ---
+
+putra niryātitaḥ krodho nīto yāmyāṃ diśaṃ ripuḥ 
+svadharmādhigatā kīrtir nāma viśrāvitaṃ bhuvi ।।

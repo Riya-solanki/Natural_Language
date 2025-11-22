@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10204 | label: meter | g:0.328 m:0.595 ---
+
+na taṃ vinā mātariśvā ca vastumanyonyamāptiḥ kālato nyūnatā ca ।
+yadā mahattattvani yāmakobhūdbrahmāṇḍāntasthūlasṛṣṭau mahātmā ।।

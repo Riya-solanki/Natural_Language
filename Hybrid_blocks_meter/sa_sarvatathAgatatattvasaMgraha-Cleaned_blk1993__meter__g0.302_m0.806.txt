@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1993 | label: meter | g:0.302 m:0.806 ---
+
+mahāmaṇḍalayogena sūtrayetsarvamaṇḍalaṃ ।
+tasya madhye supadme vai vajradhātvīśvarīṃ likhet ।।

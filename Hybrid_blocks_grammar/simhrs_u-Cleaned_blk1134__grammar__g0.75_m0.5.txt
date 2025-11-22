@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1134 | label: grammar | g:0.75 m:0.5 ---
+
+nanv evaṃ dakṣiṇādīnām api rāgasyābhāsatvam iti cet, na । dakṣiṇasya nāyakasya nāyikāsu anekāsu vṛtti-mātreṇaiva sādhāraṇyam । na rāgeṇa । tad ekasyām eva rāgasya prauḍhatvam । itarāsu tu madhyamatvaṃ mandatvaṃ ceti tad-anurāgasya nābhāsatā । atra tu avaiṣamyeṇa anekatra pravṛtter ābhāsatvam upapadyate ।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5365 | label: meter | g:0.194 m:0.625 ---
+
+kīdṛśaṃ devarājyaṃ te pārijātasragujjvalām 
+apaśyato yathā pūrvaṃ praṇayābhyāgatāṃ śacīm ।।

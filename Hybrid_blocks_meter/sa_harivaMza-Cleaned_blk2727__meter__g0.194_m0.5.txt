@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2727 | label: meter | g:0.194 m:0.5 ---
+
+ārtiṃ jagmuḥ khagagaṇā varṣeṇa ca bhayena ca 
+utpatyotpatya gaganāt punaḥ petur avāṅmukhāḥ ।।

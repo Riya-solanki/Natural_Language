@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 869 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataḥ sa-pratiśrava-śravaṇaṃ bhavān vakṣyati-yathā mahecchānām icchā tathaiva setsyati । punaś ca tiryag avekṣya pārśva-lakṣyaṃ dārukam ādekṣyasi-sārathe ! tathā rathaṃ prathaya, yathā sarva eva vrajas tatrāntar-bhavaṃs tad-dhāma praviśaṃś ca dhāma-grāmataḥ svar-vāsinām api dṛg-ārāmatāṃ nāsīdati ।

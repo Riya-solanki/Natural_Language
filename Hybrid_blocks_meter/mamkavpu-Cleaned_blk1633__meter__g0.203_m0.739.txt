@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1633 | label: meter | g:0.203 m:0.739 ---
+
+{malayajarasaviliptanavo navahāralatāvibhūṣitāḥ
+sitataradantapatra kṛtavaktraruco rucirāmalāṃśukāḥ ।
+śaśabhṛti vitatadhāmni dhavalayati dharāmavibhāvyatāṃ gatāḥ ।
+priyavasatiṃ prayānti sukhameva nirastabhiyo abhisārikāḥ ।।}

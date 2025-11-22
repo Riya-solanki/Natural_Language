@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 927 | label: meter | g:0.25 m:0.5 ---
+
+tato vavarṣa bhagavān pāṃśunā pākaśāsanaḥ ।
+saptāhaṃ pūrayāmāsa saro devaistadā vṛtaḥ ।।

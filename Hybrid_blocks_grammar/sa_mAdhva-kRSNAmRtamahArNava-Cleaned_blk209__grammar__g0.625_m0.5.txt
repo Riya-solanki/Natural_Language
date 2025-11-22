@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 209 | label: grammar | g:0.625 m:0.5 ---
+
+jīvaṃś caturdaśād ūrdhvaṃ puruṣo niyamena tu strī vā apy anūnadaśakaṃ dehaṃ mānuṣam ārjate ।।

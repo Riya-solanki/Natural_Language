@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6345 | label: meter | g:0.25 m:0.625 ---
+
+vaiśeṣikaṃ dhanaṃ dṛṣṭaṃ brāhmaṇasya trilakṣaṇam ।
+yājanādhyāpane nityaṃ viśuddhaśca pratigrahaḥ ।।

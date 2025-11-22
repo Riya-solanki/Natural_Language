@@ -1,0 +1,13 @@
+--- source: grasht_u-Cleaned.txt | block: 730 | label: grammar | g:0.556 m:0.377 ---
+
+sāraṇāya vasātailamāha maṇḍūketyādi ।।
+maṇḍūko bhekaḥ matsyo jalacaraviśeṣaḥ kacchapaḥ kamaṭhaḥ pratītaḥ jalaukāḥ pratītāḥ ahiḥ sarpaḥ sūkaro varāhaḥ ādiśabdād gomahiṣagajoṣṭrakharanarakarkaṭaśiśumārā api grāhyāḥ ।।
+atha teṣāṃ madhye ekaikasya pṛthaktvena vasāṃ saṃyojya sāraṇaṃ tailaṃ sāraṇameva tailaṃ tatpacediti vahninā iti śeṣaḥ ।।
+sāraṇatailaviśeṣamāha jyotiṣmatītyādi ।।
+jyotiṣmatīvibhītakakarañjakaṭutumbītailaṃ jyotiṣmatī kaṅguṇī vibhītakaḥ kalidrumaḥ karañjaḥ pratītaḥ kaṭutumbī kaṭukā yā tumbī etāsāṃ tailaṃ ekaṃ ato dviguṇito yo raktakaṣāyaḥ raktagaṇasya kvāthaḥ taṃ niyojya pūrvasaṃbandhāt ।।
+kena saha caturguṇavasayā tathā tailataḥ caturguṇitena dugdhena saha pacet pākaṃ kuryāditi ।।
+sāraṇatailavidhānāya raktavargamāha dāḍimetyādi ।।
+dāḍimaṃ pratītaṃ palāśo brahmavṛkṣaḥ bandhūkapuṣpaṃ madhyāhnavikāśikusumaṃ rajanī haridrā etābhiḥ aruṇasahitābhiḥ aruṇaṃ āraktaṃ yaddravyaṃ kārpāsakusumādikaṃ tatsahitābhiḥ ।।
+kiṃviśiṣṭo'yaṃ raktavargaḥ mañjiṣṭhālākṣārasacandanasahitaḥ mañjiṣṭhā pratītā lākṣārasaḥ alaktakaḥ candanaṃ raktacandanam ।।
+sāraṇataile kalkamāha vidrumetyādi ।।
+vidrumaṃ latāmaṇir bhūnāgamalaṃ gaṇḍūpadapurīṣaṃ makṣikādhvāṅkṣaśalabhānāṃ makṣikā jīvaviśeṣaḥ dhvāṅkṣāḥ kākāḥ śalabhaḥ pataṅgaḥ iti haimaḥ teṣāṃ viṭ śakṛt punarmahiṣīṇāṃ karṇamalaṃ krameṇa kalāṃśena ṣoḍaśāṃśena kalkaṃ prativāpaṃ dattvā pūrvatailamuttārayet ।।

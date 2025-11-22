@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 664 | label: meter | g:0.061 m:0.925 ---
+
+[] athānujam uddiśya,
+"śuklo raktaḥ pīta ity ādi-varṇās
+tat-tad-bhāvād asya tat-tad-yugeṣu ।
+tat-tan-mūla-śyāmataikātmya-yogāj
+janmany asmin kṛṣṇa-nāmāyam asti ।। [śālinī]

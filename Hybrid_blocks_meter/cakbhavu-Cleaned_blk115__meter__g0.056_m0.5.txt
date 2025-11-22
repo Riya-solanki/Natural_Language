@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 115 | label: meter | g:0.056 m:0.5 ---
+
+Q svānandatas tribhuvanaṃ kavalaṃ vidhāya svātmānam apy atitarāṃ samadā grasantī
+Q tṛptā tathāpy aparikhaṇḍitanityasiddhasvātantryapūrṇavibhavā kṛśamūrtir avyāt

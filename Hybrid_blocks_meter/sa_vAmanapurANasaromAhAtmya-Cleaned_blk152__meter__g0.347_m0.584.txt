@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 152 | label: meter | g:0.347 m:0.584 ---
+
+śrībhagavānuvāca
+kṛtaḥ prasādo hi mayā tava devi yathepsitam ।
+svāṃśena caiva te garbhe saṃbhaviṣyāmi kaśyapāt ।।

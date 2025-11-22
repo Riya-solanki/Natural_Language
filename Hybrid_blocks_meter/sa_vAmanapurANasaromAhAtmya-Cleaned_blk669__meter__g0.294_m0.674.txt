@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 669 | label: meter | g:0.294 m:0.674 ---
+
+lomaharṣaṇa uvāca
+ṛṣayo naimiṣeyā ye dakṣiṇārthaṃ yayuḥ purā ।
+tatraiva ca bako dālbhyo dṛtarāṣṭrā mayācata ।।

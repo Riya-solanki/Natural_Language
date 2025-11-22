@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 69 | label: hybrid | g:0.444 m:0.5 ---
+
+hemakāra sudhiye namo astu te dustareṣu bahuśaḥ parīkṣitum 
+kāñcanābharaṇam aśmanā samaṃ yat tvayaivam adhiropyate tulām ।।

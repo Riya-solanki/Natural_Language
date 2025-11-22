@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 392 | label: meter | g:0.194 m:0.75 ---
+
+vasiṣṭhavacanāc cāsīt pratiṣṭhānaṃ mahātmanaḥ 
+pratiṣṭhā dharmarājasya sudyumnasya kurūdvaha ।।

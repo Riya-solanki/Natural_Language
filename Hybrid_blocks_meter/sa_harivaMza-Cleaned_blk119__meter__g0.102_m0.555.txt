@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 119 | label: meter | g:0.102 m:0.555 ---
+
+somasya bhagavān varcā varcasvī yena jāyate 
+dharasya putro draviṇo hutahavyavahas tathā 
+manoharāyāḥ śiśiraḥ prāṇo atha ramaṇas tathā ।।

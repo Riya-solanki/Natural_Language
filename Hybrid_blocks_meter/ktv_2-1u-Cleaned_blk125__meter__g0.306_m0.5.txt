@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 125 | label: meter | g:0.306 m:0.5 ---
+
+sādhyāṃśe purrṣāṇāṃ ca pratyayo na niyojakaḥ ।
+svayam eva hi jānanti kartavyaṃ puruṣāḥ sadā ।।

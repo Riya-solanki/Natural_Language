@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 640 | label: meter | g:0.056 m:0.521 ---
+
+vṛndāraṇyaṃ prathayati bhuvaḥ kīrtim atra svayaṃ hi
+śrīmān kṛṣṇo viharati padāmbhoja-lakṣmīṃ vitanvan ।
+veṇor vādye naṭana-ghaṭanaṃ barhiṇaḥ sabhya-bhāvaṃ
+vanyāḥ sarve yayur iti sadā raṅgatāṃ yaj jagāma ।। [mandākrāntā]

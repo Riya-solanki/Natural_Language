@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1037 | label: meter | g:0.194 m:0.5 ---
+
+prajāḥ sṛjeti vyādiṣṭaḥ pūrvaṃ dakṣaḥ svayaṃbhuvā 
+yathā sasarja bhūtāni tathā śṛṇu mahāmate ।।

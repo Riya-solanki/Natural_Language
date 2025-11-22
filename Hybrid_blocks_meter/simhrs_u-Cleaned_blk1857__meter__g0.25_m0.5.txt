@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1857 | label: meter | g:0.25 m:0.5 ---
+
+sūtradhāraḥ-ārye gargarike nūnam ānanda-kośa-nābhilāṣiṇī pariṣad iyam ।

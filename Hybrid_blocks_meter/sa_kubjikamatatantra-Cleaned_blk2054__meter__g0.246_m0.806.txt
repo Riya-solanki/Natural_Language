@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2054 | label: meter | g:0.246 m:0.806 ---
+
+saṃhārakramaṣaṭkasya vṛddhājñeyaṃ prakīrtitā 
+ājñā kramati bhaktānām abhaktānāṃ na saṅkramet ।।

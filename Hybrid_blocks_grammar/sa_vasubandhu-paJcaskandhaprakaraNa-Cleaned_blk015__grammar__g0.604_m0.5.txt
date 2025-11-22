@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 15 | label: grammar | g:0.604 m:0.5 ---
+
+śabdaḥ katamaḥ । śrotragocaraḥ । niṣpannḥ aniṣpannaḥ ubhayaḥ । upāttacatumarhābhutahetukaḥ anupāttacaturmahābhūtahetukaḥ ubhayacaturmahābhūtahetukaśca ।।

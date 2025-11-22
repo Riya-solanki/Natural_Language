@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2872 | label: hybrid | g:0.5 m:0.5 ---
+
+ye ca viṣṇuparā nityaṃ ye ca vikhānasāśramāḥ ।।

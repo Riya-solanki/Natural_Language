@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3097 | label: meter | g:0.25 m:0.625 ---
+
+gate tasmin muniśreṣṭhe sahasrākṣo api satvaram ।
+tamāśramamupāgamya ditiṃ vacanamabravīt ।।

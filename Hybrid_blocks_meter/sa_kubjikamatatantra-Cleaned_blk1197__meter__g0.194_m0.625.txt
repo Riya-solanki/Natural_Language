@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1197 | label: meter | g:0.194 m:0.625 ---
+
+anekārthaguṇādhāraṃ svādhiṣṭhānaṃ tu ṣaṭkalam 
+catuṣkalaṃ tu ādhāram ājñābhedadvayaṃ viduḥ ।।

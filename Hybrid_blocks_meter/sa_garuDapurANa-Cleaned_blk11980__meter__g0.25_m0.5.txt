@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11980 | label: meter | g:0.25 m:0.5 ---
+
+grāsegrāse smaraṇaṃ caiva kāryaṃ govindasaṃjñasya viśuddhamannam ।
+ekaikabhakṣyagrahaṇasya kāle samyak smaredacyutaṃ vai khagendra ।।

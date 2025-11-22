@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1467 | label: grammar | g:0.75 m:0.5 ---
+
+yathā tatraiva, hanumān-deva mattaḥ śruta-vṛttānto vasiṣṭhaḥ samaṃ bharata-śaturghnābhyām anyābhiś ca prakṛtibhir bhavad-abhiṣeka-sajjas tiṣṭhati । ity upakramya, vasiṣṭhaḥ kā dīyatāṃ tva raghūdvaha samyag āśīr ity ādi paṭhati ।

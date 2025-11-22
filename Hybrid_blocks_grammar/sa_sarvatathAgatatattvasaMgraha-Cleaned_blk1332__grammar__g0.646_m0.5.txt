@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1332 | label: grammar | g:0.646 m:0.5 ---
+
+tathaiva saṃharet tattu yāvadiccheta yogavān । sarvaṃ vāpi hi niḥśeṣa punaradayāt tu jīvitam ।। ।।

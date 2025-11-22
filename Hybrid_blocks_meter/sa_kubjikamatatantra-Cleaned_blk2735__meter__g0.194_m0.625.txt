@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2735 | label: meter | g:0.194 m:0.625 ---
+
+svādhiṣṭhānaṃ tathādhāraṃ pañcaratnaṃ prapūjayet 
+ṣoḍhānyāsasya tattvajño anyathā ca vilomakṛt ।।

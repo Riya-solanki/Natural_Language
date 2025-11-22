@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 782 | label: meter | g:0.306 m:0.5 ---
+
+sa pīḍyamānaḥ puruṣeṇa tena bhujaṅgarājo vigatavyathena ।
+tam eva rakṣan guṇapakṣasākṣī mumoca na śvāsaviṣaṃ viṣādī ।।

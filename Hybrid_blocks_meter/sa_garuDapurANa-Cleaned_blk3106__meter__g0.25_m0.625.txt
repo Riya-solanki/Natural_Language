@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3106 | label: meter | g:0.25 m:0.625 ---
+
+brāhmaṇaṃ bāliśaṃ kṣattramayoddhāraṃ viśaṃ jaḍam ।
+śūdramakṣarasaṃyuktaṃ dūrataḥ parivarjayet ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 930 | label: grammar | g:0.75 m:0.5 ---
+
+atra tāvad anukūla-dāra-siddhi-janitāyāḥ dhṛtes tu rati-paratantratvam ābāla-gopāla-prasiddham । nanu, vastutattvālocanādibhir asyāḥ sthāyitvaṃ kalpyate iti cet, na । naiḥspṛhya-vāsanā-vāsite bhāvaka-citte vibhāvādiṣv api naiḥsvpṛhyonmeṣād dhṛter mūla-ccheda-prasaṅgāt । artha-sampatti-janitā dhṛtis tu agṛdhnu-lakṣaṇa-lokottaratva-prāpti-vyavasāya-rūpam utsāham anusarantī vīropakaraṇatām āpnotīti nātra dhṛteḥ sthāyitvam । dhṛti-sthāyitva-nirākaraṇa-saṃrambheṇaiva naṣṭas tad-viṣayaḥ śama-sthāyī kutra vā līno na jñāyate ।

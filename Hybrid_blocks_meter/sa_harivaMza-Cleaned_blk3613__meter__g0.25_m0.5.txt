@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3613 | label: meter | g:0.25 m:0.5 ---
+
+satrājic ca prasenaś ca balena mahatā vṛtāḥ 
+vyūhasya pakṣaṃ te savyaṃ pratīyur dviṣatāṃ mṛdhe ।।

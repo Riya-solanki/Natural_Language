@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 381 | label: meter | g:0.25 m:0.5 ---
+
+bahiḥ surasatāṃ vyañjann api tarhi balānujaḥ ।
+antas tu virasaḥ praikṣi marmajñaiḥ pakva-pīluvat ।। [anuṣṭubh]

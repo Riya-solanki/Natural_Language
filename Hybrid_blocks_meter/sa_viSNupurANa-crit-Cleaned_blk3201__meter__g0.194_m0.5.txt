@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3201 | label: meter | g:0.194 m:0.5 ---
+
+kurudhvaṃ mama vākyāni yadi muktim abhīpsatha 
+arhadhvaṃ dharmam etaṃ ca muktidvāram asaṃvṛtam ।।

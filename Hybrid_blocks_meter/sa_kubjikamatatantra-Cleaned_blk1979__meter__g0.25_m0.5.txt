@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1979 | label: meter | g:0.25 m:0.5 ---
+
+kṛtanyāsaḥ patet pādau sphuṭaty āśu na saṃśayaḥ 
+sadā pravartate yas tu nyāsaṃ dehasya bhāvini ।।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 955 | label: meter | g:0.194 m:0.5 ---
+
+tadā kedāra-rāgas tu prāpa kedāratāṃ niśi ।
+gopībhir vāsanā-bījam uptaṃ yatrāṅkurāyitam ।। [anuṣṭubh]

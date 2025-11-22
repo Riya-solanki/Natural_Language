@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1294 | label: meter | g:0.056 m:0.875 ---
+
+{ālānaṃ jayakuñjarasya dṛṣadāṃ seturvipadvāridheḥ
+pūrvādriḥ karavālacaṇḍamahaso līlopadhānaṃ śriyaḥ ।
+saṃgrāmāmṛtasāgarapramathanakrīḍāvidhau mandaro
+rājan rājati vīravairivanitāvaidhavyadaste bhujaḥ ।।}

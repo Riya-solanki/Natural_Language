@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 238 | label: meter | g:0.0 m:0.75 ---
+
+{rājā} - kiṃ balātkāreṇa 
+{vidūṣakaḥ} - āma baḷakkāreṇa 
+[āma balātkāreṇa । ]

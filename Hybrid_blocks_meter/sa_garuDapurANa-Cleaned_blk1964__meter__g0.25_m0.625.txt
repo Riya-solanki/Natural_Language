@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1964 | label: meter | g:0.25 m:0.625 ---
+
+sā diśā jayamāpnoti śūnye bhaṅgaṃ vinirdiśet ।
+jātacāre jayaṃ vidyānmṛtake mṛtamādiśet ।।

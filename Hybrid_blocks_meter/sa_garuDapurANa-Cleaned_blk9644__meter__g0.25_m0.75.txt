@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9644 | label: meter | g:0.25 m:0.75 ---
+
+kaṇṭhagrāha vimagnānāṃ kṣīṇānāṃ tuṇḍaghātinām ।
+viṣāgnivṛṣaviprebhyo viṣūcyā cātmaghātakāḥ ।।

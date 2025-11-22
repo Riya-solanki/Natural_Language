@@ -1,0 +1,9 @@
+--- source: brssgo1u-Cleaned.txt | block: 685 | label: hybrid | g:0.381 m:0.469 ---
+
+sāmānyasyāpratyāsattitvena sarvavyaktyupasthityabhāvāt, gotvaṃ śakyatāvacchedakamiti grahāpekṣayā gotvaṃ śakyamiti lāghavāt, nirūḍhājahallakṣaṇayā vyakterlābhenānyalabhyatvābhāvācceti bhāvaḥ ।
+yadvā kevala vyaktiṣu śaktiratra nirasyate, anupapattijñānaṃ, vinaiva vyakteḥ śabdaśaktyāyattajātijñānaviṣayatvenobhayaśakterāvaśyakatvāt ।
+tathāca nityajātitādātmyena vyakteranāditvāttatsaṃbandho apyanādiḥ, satkāryavādāt ।
+ata eva vākyavṛttau tattvamasyādivākye bhāgalakṣaṇoktā yujyate, kevalasāmānyasya vācyatve akhaṇḍārthasya vācyaikadeśatvābhāvāt ।
+aataḥprabhavāt'iti sūtrasvārasyācca kevalavyaktiśaktinirāsa iti gamyate ।
+kevalavyaktivacanāḥ khalu ḍitthādiśabdā arthānantarabhāvinaḥ sāṃketikāḥ gavādiśabdāstu vyaktiprabhavahetutvena prāgevasandhīti na vyaktimātravacanāḥ sāṃketikāḥ kintu sthūlasūkṣmabhāvenānusyūtavyaktyavinābhūtasāmānyavacanā iti mantavyam ।
+na cendrādivyakterekatvena jātyabhāvādākāśaśabdavadindracandrādiśabdaḥ kevalavyaktivacanā iti sāṃpratam ।

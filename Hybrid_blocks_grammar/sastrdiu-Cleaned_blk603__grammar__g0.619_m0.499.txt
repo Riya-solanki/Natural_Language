@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 603 | label: grammar | g:0.619 m:0.499 ---
+
+ubhayasaṃskārapakṣe tūbhaye api doṣāḥ samuccitya darśayitavyāḥ, tathā sati hi kaiścideva kaścideva śabdaḥ śrūyata ityupapadyate, anyathā śrotravyavasthā cobhayamapi na syāt ।
+kica nānādeśasthaiśca vaktṛbhiruccāritaḥ śabdo yugapannānādeśeṣūpalabhyate tadekasya nityasyānupapannamiti śā bhāṣyam ।
+tatra nityasyānupapannamiti pratijñā, ekasyeti hetuḥ, nityo hyasevakaḥ syāt ekasyānupapannaṃ nānādeśeṣūpalambhanamiti ।।

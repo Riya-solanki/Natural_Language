@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8493 | label: meter | g:0.25 m:0.5 ---
+
+santiṣṭhate mṛte ko api madīyaḥ sutabāndhavaḥ ।
+saukhyaṃ yo me janayati patataḥ śokasāgare ।।

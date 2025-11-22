@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10891 | label: meter | g:0.306 m:0.5 ---
+
+sa evaṃ saṃkarṣaṇanāmadheyaḥ pradyumnanāmā ca sa eva viśrutaḥ ।
+sarasvatībhāratīsarjanārthaṃ sa eva devyā mūlarūpo babhūva ।।

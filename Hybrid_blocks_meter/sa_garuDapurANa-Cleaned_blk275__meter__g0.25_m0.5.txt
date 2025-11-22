@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 275 | label: meter | g:0.25 m:0.5 ---
+
+antareṣu ca sarveṣu aṣṭau caiva tunābhayaḥ ।
+pūrvamadhyamanābhi bhyāmathaṃ sūtraṃ tu bhrāmayet ।।

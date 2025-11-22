@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 860 | label: meter | g:0.25 m:0.625 ---
+
+aṅgulībhiriva keśasaścayaṃ sannigṛhya timiraṃ marīcibhiḥ ।
+kuṅmalīkṛtasarojalocanaṃ cumbatīva rajanīmukhaṃ śaśī ।।

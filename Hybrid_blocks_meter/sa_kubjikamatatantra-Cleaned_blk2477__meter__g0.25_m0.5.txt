@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2477 | label: meter | g:0.25 m:0.5 ---
+
+dhūsaro dhūmravarṇaś ca sapta māsān sa jīvati 
+pūrve tu udite sūrye chāyāṃ paśyaiva dakṣiṇām ।।

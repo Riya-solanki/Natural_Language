@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3901 | label: meter | g:0.25 m:0.5 ---
+
+tenaiva karmadoṣema svena pāpakṛtāṃ varaḥ ।
+kruraiścakre tato vṛttiṃ rākṣasatvād viśeṣataḥ ।।

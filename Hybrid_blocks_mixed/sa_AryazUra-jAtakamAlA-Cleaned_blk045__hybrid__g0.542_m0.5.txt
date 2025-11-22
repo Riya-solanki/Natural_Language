@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 45 | label: hybrid | g:0.542 m:0.5 ---
+
+tathā mamānena samānakālaṃ lokasya duḥkhaṃ ca sukhodayaṃ ca ।
+hartuṃ ca kartuṃ ca sadāstu śaktistamaḥ prakāśaṃ ca yathaiva bhānoḥ ।।

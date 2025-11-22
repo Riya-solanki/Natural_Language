@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 432 | label: meter | g:0.25 m:0.646 ---
+
+nanu hetavo vilakṣaṇaḥ kathamekavidhasāmarthyayuktāni svalakṣaṇāni janayanti ।
+na janayeyuryadi vilakṣaṇāḥ syuste api tvekajātīyā eva ।।
+nanvevaṃ tatsaṃbandhasidhyarthaparāparajātyapekṣāyāmanavasthā ।
+naiṣa doṣaḥ, yathā tālabījamekajātīyaṃ pariṇāmaparaṃparayā tālajātīsaṃbaddhāṃ

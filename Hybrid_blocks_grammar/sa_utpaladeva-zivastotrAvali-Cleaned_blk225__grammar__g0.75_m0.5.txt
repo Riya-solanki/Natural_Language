@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 225 | label: grammar | g:0.75 m:0.5 ---
+
+hṛdi te na tu vidyate anyad anyad vacane karmaṇi cānyad eva śaṃbho paramārthasato apy anugraho vā yadi vā nigraha eka eva kāryaḥ ।।

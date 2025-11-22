@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1789 | label: meter | g:0.194 m:0.625 ---
+
+devāś ca balihomena svādhyāyena maharṣayaḥ 
+śrāddhena pitaraś caiva tṛptiṃ yāntu yathāsukham ।।

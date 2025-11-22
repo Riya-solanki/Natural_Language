@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11803 | label: meter | g:0.25 m:0.625 ---
+
+vālmīkiṛṣiṇā yasmātkuśenaiva vinirmitaḥ ।
+ataḥ kuśa iti prokto jānakīnandanaḥ prabhuḥ ।।

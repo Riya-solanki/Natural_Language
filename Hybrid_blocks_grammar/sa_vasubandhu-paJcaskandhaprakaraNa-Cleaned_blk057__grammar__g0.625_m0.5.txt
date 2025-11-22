@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 57 | label: grammar | g:0.625 m:0.5 ---
+
+śīlabrataparāmarśaḥ katamaḥ । śīlaṃ vrataṃ tadāśrayāṃśca skandhānaśuddhito muktito naiyāṇikataśca paśyato yā kliṣṭā prajñā ।।

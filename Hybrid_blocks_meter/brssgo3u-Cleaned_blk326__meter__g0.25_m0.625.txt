@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 326 | label: meter | g:0.25 m:0.625 ---
+
+FN iṣṭaṃ svargaḥ, aniṣṭamavīcyādisthānayogyam, vyāmiśraṃ manuṣyabhogyam ।
+saṃsāro janmamṛtipravāho āśrayo yasya ।

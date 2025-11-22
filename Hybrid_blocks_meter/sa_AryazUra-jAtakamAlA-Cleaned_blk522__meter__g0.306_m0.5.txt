@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 522 | label: meter | g:0.306 m:0.5 ---
+
+ko vā vadhaṃ bandhanatāḍanaṃ vā sutasya te rocayate narendra ।
+dharmātmakastveṣa na rājyabhārakṣobhasya soḍhā karuṇāmṛdutvāt ।।

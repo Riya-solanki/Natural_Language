@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 88 | label: meter | g:0.194 m:0.5 ---
+
+etaṃ me saṃśayaṃ vipra vyākhyātuṃ tvam ihārhasi 
+dauhitraś caiva somasya kathaṃ śvaśuratāṃ gataḥ ।।

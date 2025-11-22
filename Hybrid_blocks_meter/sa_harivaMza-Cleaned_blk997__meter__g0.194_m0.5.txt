@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 997 | label: meter | g:0.194 m:0.5 ---
+
+eṣa te triṣu lokeṣu saṃkṣipyāpaḥ pibāmy aham 
+asya gaṅge avalepasya sadyaḥ phalam avāpnuhi ।।

@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 42 | label: meter | g:0.25 m:0.625 ---
+
+caturmukhamukhe tyādau cavarṇo jagaṇo api ca ।
+brahmanāmāṅkitatvena kavyādāvapi śobhanau ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1965 | label: hybrid | g:0.5 m:0.5 ---
+
+jayaṃ parājayaṃ caiva yo jānāti sa paṇḍitaḥ ।
+vāme vā dakṣiṇe vāpi yatra sañcarate śivam ।।

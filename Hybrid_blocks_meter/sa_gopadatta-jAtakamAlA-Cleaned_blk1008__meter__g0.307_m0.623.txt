@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1008 | label: meter | g:0.307 m:0.623 ---
+
+ruddhocchvāsasya bhṛśaṃ kṛmer ivāmedhyapaṅkamagnasya ।
+yā garbhasthasya daśā kiṃ nāma tataḥ paraṃ duḥkham ।।

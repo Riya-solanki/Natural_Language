@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 9 | label: meter | g:0.302 m:0.806 ---
+
+camatkārastu viduṣāmānandaparivāhakṛt ।
+guṇaṃ rītiṃ rasaṃ vṛttiṃ pākaṃ śayyāmalaṅkṛtīm ।।

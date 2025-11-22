@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2642 | label: hybrid | g:0.476 m:0.5 ---
+
+sa pṛṣṭaś ca mayā bhūyaḥ śraddadhānena vai dvijaḥ 
+yad yad āha na tad dṛṣṭam anyathā hi mayā kvacit ।।

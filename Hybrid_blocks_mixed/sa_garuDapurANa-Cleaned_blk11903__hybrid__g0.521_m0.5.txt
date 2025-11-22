@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11903 | label: hybrid | g:0.521 m:0.5 ---
+
+yadā tadā yamadūtaiśca samyak saṃtāḍyamāne yamamārge ca mūḍhaḥ ।
+bhīmaḥ sa vai kutra palāyitobhūto mūlaṃ viṣṇupādaṃ bhajasva ।।

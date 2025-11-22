@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 219 | label: meter | g:0.258 m:0.841 ---
+
+kokilālāpasya, yathā-
+cūtāṅkurāsvāda-kaṣāya-kaṇṭhaḥ
+puṃskokilo yan madhuraṃ cukūja ।
+manasvinī-māna-vighāta-dakṣaṃ
+tad eva jātaṃ vacanaṃ smarasya ।।

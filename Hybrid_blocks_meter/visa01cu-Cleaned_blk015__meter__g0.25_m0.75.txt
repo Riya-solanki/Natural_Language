@@ -1,0 +1,5 @@
+--- source: visa01cu-Cleaned.txt | block: 15 | label: meter | g:0.25 m:0.75 ---
+
+śaradītyādi-śaradindusundararucereva śaradindoḥ sundararucirityadhyavasānā ।
+seti tacchabdāccaturānanādivāgvaibhavādidātṛtayā prasiddhā ।
+tamo ajñānamamdhakāraśca, arthān-vivakṣitaprameyān ghaṭapaṭāṃśca ।

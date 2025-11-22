@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5746 | label: meter | g:0.25 m:0.625 ---
+
+dravyāṇiyāni peṣyāṇi tāni vakṣyāmi tacchṛṇu ।
+śatapuṣpā devadārurbalā parṇo vacāguru ।।

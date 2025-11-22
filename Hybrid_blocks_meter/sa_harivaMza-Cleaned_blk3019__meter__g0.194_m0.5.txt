@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3019 | label: meter | g:0.194 m:0.5 ---
+
+sa tu dūtavacaḥ śrutvā keśī kleśakaro nṛṇām 
+vṛndāvanagato gopān bādhate sma durāsadaḥ ।।

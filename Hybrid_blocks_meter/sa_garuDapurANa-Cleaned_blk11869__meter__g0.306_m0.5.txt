@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11869 | label: meter | g:0.306 m:0.5 ---
+
+varārtikyaṃ kāṃsyapātre nidhāya kurvārtikyaṃ devatādevatānām ।
+picumandapatrāṇi vitatya bhūmau namasva tvaṃ kṣamyatāṃ ceti coktvā ।।

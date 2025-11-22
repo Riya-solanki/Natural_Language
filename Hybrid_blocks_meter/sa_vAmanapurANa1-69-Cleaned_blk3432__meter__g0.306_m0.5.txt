@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3432 | label: meter | g:0.306 m:0.5 ---
+
+tatsādhu yadahaṃ śapto bhavatā dānaveśvara ।
+na bibhemi parebhyo ahaṃ na ca rājyaparikṣayāt ।।

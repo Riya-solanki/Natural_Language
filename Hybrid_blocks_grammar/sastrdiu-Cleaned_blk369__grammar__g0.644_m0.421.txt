@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 369 | label: grammar | g:0.644 m:0.421 ---
+
+gaurayamiti jāterātmalābhaḥ ।
+kvacittu bhedābhāvabhāso dharmādabhedāvabhāsaśca dharmiṇamālambate-ekasminneva devadatte yuvāyaṃ vṛddho ayaṃ kṛśo ayamiti na tatra jātiraṅgīkriyate ।
+tadiha drutādiṣu dharmiviṣayo abhedo dharmiviṣayastu bhedaḥ tathāhi īdṛśo atrāvabhāsaḥ anenāyamakāro drutamuccārito anena vilambitamiti na tu ayamakāro druto ayaṃ tu vilambita iti yena dharmibhedo jātiścāṅgīkriyetām ।।

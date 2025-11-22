@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1163 | label: meter | g:0.194 m:0.625 ---
+
+dvijānāṃ kākalī tatra viyoge yāga-sammite ।
+ajani vrajatanvīnāṃ dhāyyevāgni-samindhanī ।। [anu]

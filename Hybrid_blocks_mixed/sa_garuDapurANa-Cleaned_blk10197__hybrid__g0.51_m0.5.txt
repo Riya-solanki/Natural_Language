@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10197 | label: hybrid | g:0.51 m:0.5 ---
+
+tathāpi me guṇato nāstyanantaṃ tato dharmā guṇatonantataśca ।
+saṃti śrutāvaviruddhāśca deve cintyā hyacintyā bahudhā te hyanantāḥ ।।

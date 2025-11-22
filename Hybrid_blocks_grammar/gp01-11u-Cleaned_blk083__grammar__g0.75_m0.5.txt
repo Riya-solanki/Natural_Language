@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 83 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha caturasram anu kamalāt patayālutayā paritaḥ sravantīr madhu-dhārāḥ pibanta iva punar uparata-tat-pānāya vamanta iva ca dakṣiṇa-paścimayoḥ sarvataḥ parvataḥ parvata-ṣaṭ-padā dṛśyante । yatra ca tatrāpi mahā-maṇi-maya-kūṭa-ghanaḥ śrī-govardhanaḥ kuṭī-bhūta-mahā-nidhivad akharvam ānanda-garvaṃ sarvādhipater apy āvirbhāvayati ।

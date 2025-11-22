@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 12 | label: grammar | g:0.667 m:0.5 ---
+
+tadidaṃ kavermṛgarājalakṣmaṇo bhaṭṭanārāyaṇasya kṛtiṃ veṇīsaṃhāraṃ nāma nāṭakaṃ prayoktumudyatā vayam । tadatra kavipariśramānurodhādvodāttakathāvastugauravādvā navanāṭakadarśanakutūhalādvā bhavadbhiravadhānaṃ dīyamānamabhyarthaye ।

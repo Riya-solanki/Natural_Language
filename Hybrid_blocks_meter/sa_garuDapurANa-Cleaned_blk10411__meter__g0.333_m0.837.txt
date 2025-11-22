@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10411 | label: meter | g:0.333 m:0.837 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+tatratatra sthitāstattve tattattattvābhimāninaḥ ।
+svesve hyāyatane svāṅge tadarthaṃ ca khageśvara ।।

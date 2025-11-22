@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 28 | label: grammar | g:0.625 m:0.5 ---
+
+trayīṃ tisro vṛttīs tribhuvanam atho trīn api surān nakārādyair varṇais tribhir abhidadhat tīrṇavikṛti ।
+turīyaṃ te dhāma dhvanibhir avarundhānam aṇubhiḥ samastaṃ vyastaṃ tvāṃ śaraṇada gṛṇātīm iti padam ।।

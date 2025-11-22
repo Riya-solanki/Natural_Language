@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1409 | label: meter | g:0.194 m:0.5 ---
+
+paryadevan na vidhavā nānarthaś cābhavat tadā 
+sarvam āsīj jagaddāntaṃ rāme rājyaṃ praśāsati ।।

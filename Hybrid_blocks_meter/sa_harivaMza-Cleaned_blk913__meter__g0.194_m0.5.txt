@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 913 | label: meter | g:0.194 m:0.5 ---
+
+saptadvīpāṃ yayātis tu jitvā pṛthvīṃ sasāgarām 
+vyabhajat pañcadhā rājyaṃ putrāṇāṃ nāhuṣas tadā ।।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 459 | label: hybrid | g:0.5 m:0.5 ---
+
+avadhiḥ mārge apraveśādārabhya aśuddhasaptabhūmiparyantamāsāṃ vipratipattīnāṃ sīmā bhavatīti ।

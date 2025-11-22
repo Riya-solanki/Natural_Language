@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 17 | label: grammar | g:0.75 m:0.5 ---
+
+jñānam ekaṃ sphuṭāvabhāsasvalakṣaṇānubhavasvarūpaṃ nirvikalpakaṃ te kathayanti । aparaṃ tu śabdāruṣaṇayā smṛtisaṃśayotprekṣādibahubhedaṃ vikalpasaṃjñam । ubhayam apy etan na yujyate bodharūpajñānātiriktasyānyasya saṃbandhitayā tasyānupalabdheḥ । ko asau sthirarūpa ātmā ? sābhilāpāhaṃpratyayenāpi śarīrādikavedyavastūttīrṇo vedayitā na kaś cid lokair avadhāryate ।।

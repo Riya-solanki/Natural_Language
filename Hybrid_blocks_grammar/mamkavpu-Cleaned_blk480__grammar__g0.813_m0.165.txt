@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 480 | label: grammar | g:0.813 m:0.165 ---
+
+ityādau saṃbaddhasaṃbandhaḥ । atra hi haripadena dakṣiṇanayanasya sūryātmakatā vyajyate tannimīlanena sūryāstamayaḥ । tena padmasya saṃkocaḥ । tato brahmaṇaḥ sthaganam । tatra sati go apyāṅgasyādarśanena aniryantraṇaṃ nidhuvanavilasitamiti ।
+{akhaṇḍabuddhinirgrāhyo vākyārtha eva vācyaḥ vākyameva ca vācakam} ।।

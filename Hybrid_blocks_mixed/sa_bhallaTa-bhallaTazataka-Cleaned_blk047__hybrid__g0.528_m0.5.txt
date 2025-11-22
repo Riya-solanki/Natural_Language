@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 47 | label: hybrid | g:0.528 m:0.5 ---
+
+svamāhātmyaślāghāgurugahanagarjābhir abhitaḥ kruśitvā kliśnāsi śrutikuharam abdhe kim iti naḥ 
+ihaikaś cūḍālo hy ajani kalaśād yasya sakalaiḥ pipāsor ambhobhiś culukam api no bhartum aśakaḥ ।।

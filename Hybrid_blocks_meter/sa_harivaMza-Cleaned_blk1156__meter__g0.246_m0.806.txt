@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1156 | label: meter | g:0.246 m:0.806 ---
+
+nāputravān nāśatado nāsahasraśatāyudhaḥ 
+nāśuddhakarmā nāyajvā yo bhojam abhito vrajet ।।

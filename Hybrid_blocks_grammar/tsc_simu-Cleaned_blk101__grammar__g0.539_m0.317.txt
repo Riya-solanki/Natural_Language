@@ -1,0 +1,17 @@
+--- source: tsc_simu-Cleaned.txt | block: 101 | label: grammar | g:0.539 m:0.317 ---
+
+ātmā vā are draṣṭavya ityatra tu na ātmano dṛśyatvaṃ vṛttivyāpyatve api phalavyāpyatvarūpaṃ yattu bauddhairapi sukhaduḥkhādimattvenāpi buddhiranubhūyamānā svaprakāśatayā caitanyavyāpyā na bhavati yathā vedāntināmahamityanubhūyamāno apyātmā caitanyākhyaphalavyāpyo na bhavatītyucyate tanniḥpramāṇatvādupekṣyam ।
+tatpradhānādisarge utpadyate ।
+adharmavaśāt paśvādau dharmavaśāddevādau saṃsarati ।
+atattvajñānādeva dharmādharmoparañjitaṃ pralayakāle pradhāne līyate ।
+yadyapi pradhānapuruṣau vibhū tathāpi prakṛtireva liṅgavyavasthāṃ karoti ।
+liṅgaṃ sūkṣmaiḥ paramāṇubhistanmātrairupacitaṃ mānuṣādiṣu vyavatiṣṭhate naṭavat yathā naṭaḥ svarūpeṇa eko api veṣāntareṇa nānārūpaḥ tathā liṅgamudarāntaḥ praviśya hastī strī pumāniti bhavati pañcaviparyayasaṃjñā bhavati yathā tamo moho mahāmohastāmiśro andhatāmiśra iti ।
+dharmeṇa prājāpatyādyūrdhvalokaprāptiḥ ।
+adharmeṇa paśvādiprāptirajñānena bandhaḥ pañcaviṃśatitattvajñānenāpavargaḥ ।
+tacca tattvajñānaṃ guroḥ sakāśāt śāstraśravaṇenaitādṛśaṃ jāyate ।
+tathāhi pradhānādanyaḥ puruṣaḥ anyā buddhiḥ anyo ahaṃkāraḥ anyāni tanmātrāṇi indriyāṇi pañcamahābhūtāni ceti ।
+sarvaṃ kāryaṃ triguṇātmakamapi udriktaguṇāpekṣayā sāttvikādiśabdavyapadeśabhāk cetanaḥ puruṣaḥ nānāyoniṣu jarāmaraṇakṛtaṃ duḥkhaṃ cetayate prāpnotītyarthaḥ ।
+yāvat tattvajñānena liṅgaśarīraṃ na nivarttate tāvat sthūlaṃ śarīraṃ pratijanma nūtanaṃ jāyate naśyati ca ।
+svaprayojanābhāve api pratyupakāranirapekṣaṃ sumitravat pradhānaṃ mahadādiviṣayabhūtaparyantaṃ kāryaṃ puruṣasya bhogāya mokṣāya cārabhate prakṛtiḥ puruṣasya bhedena buddhyahaṃkārādi darśayitvā nivarttate ।
+yathā narttakī śṛṅgārādirasairhāsyādibhāvaiśca nibaddhagītādīni raṅgasya darśayitvā nivarttate kṛtārthatvāt tadvat ।
+kiñca prakṛtirguṇavatī aguṇasya puṃsaḥ jagadyonibhāvena sukhaduḥkhamohātmakena śabdādiviṣayabhāvena vetyevaṃvidhairupakārairanupakāriṇaḥ puruṣasyopakurvatī paścādātmānaṃ prakāśya ahamanyā tvamanya iti nivartate sumitravat ātmanaḥ pratyupakāraṃ necchati ।

@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 484 | label: hybrid | g:0.542 m:0.5 ---
+
+prathamo garbhaḥ dvitīyaḥ piṇḍastṛtīyaḥ pariṇāmaka iti trividhaṃ lakṣaṇaṃ bhavati ।।

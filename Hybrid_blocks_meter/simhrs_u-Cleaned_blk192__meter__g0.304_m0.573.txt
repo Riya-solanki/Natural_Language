@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 192 | label: meter | g:0.304 m:0.573 ---
+
+atha rūpam-
+aṅgāny abhūṣitāny eva prakṣepādyair vibhūṣaṇaiḥ ।
+yena bhūṣitavad bhāti tad rūpam iti kathyate ।।

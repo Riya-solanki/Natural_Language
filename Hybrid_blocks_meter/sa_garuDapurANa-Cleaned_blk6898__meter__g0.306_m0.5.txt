@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6898 | label: meter | g:0.306 m:0.5 ---
+
+japedidaṃ santataduḥ khajālaṃ jahāti nīhāramivāṃśumālī ।
+samātṛvargasya karoti mūrtiṃ yadā tadā tiṣṭhati tatsamīpe ।।

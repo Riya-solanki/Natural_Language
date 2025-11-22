@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11843 | label: grammar | g:0.562 m:0.5 ---
+
+na śrīḥ svatantrā nāpi vidhiḥ svatantro na vāyudevo nāpi śivaḥ svatantraḥ ।
+tadanye no gauripuloma jādyāḥ kiṃ vaktavyaṃ nātra loke svatantraḥ ।।

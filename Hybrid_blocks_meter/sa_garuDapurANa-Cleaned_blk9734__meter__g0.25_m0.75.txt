@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9734 | label: meter | g:0.25 m:0.75 ---
+
+devadravyavināśena brahmasvaharaṇena ca ।
+kulānyakulatāṃ yānti brāhmaṇātikrameṇa ca ।।

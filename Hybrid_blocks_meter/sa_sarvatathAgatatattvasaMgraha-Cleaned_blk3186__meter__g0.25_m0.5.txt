@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3186 | label: meter | g:0.25 m:0.5 ---
+
+vajralāsyāṃ samādhāya vajramālāṃ tu bandha[yet] ।
+vajragītāṃ tato badhvā pūjayed vajranṛtyayā ।।

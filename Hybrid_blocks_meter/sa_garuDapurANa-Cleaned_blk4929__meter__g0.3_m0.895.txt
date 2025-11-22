@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4929 | label: meter | g:0.3 m:0.895 ---
+
+śrīgaruḍamahāpurāṇam- 
+nidānaṃ samāptam ।
+dhanvantariruvāca ।
+sarvarogaharaṃ siddhaṃ yogasāraṃ vadāmyaham ।
+śṛṇu suśrutaṃ saṃkṣepātprāṇināṃ jīvahetave ।।

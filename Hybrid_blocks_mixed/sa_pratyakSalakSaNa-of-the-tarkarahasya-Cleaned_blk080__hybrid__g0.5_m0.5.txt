@@ -1,0 +1,3 @@
+--- source: sa_pratyakSalakSaNa-of-the-tarkarahasya-Cleaned.txt | block: 80 | label: hybrid | g:0.5 m:0.5 ---
+
+uktañ ca "darśanasparśanānvayomānasa eva smārtovibhrama" iti "yam aham adrakṣaṃ tam evahi spṛśāmī"tivikalpāddravyaparikalpaḥ kalpāvadhivyasanam, bhrāntyaiva samarthitatvāt tasmān mano abhisaṃskṛtam arthaviśeṣaṇam arthaṃ nendriyaṃ pratyeti

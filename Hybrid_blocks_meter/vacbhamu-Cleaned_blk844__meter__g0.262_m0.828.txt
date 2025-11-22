@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 844 | label: meter | g:0.262 m:0.828 ---
+
+saṃjñātaścettaduktamasti tu tadapi ।
+sphuṭatare medāvagame saṃjñaikatvaṃ nābhedasādhanamatiprasaṅgapātāt ।
+apica śrutyakṣarālocanayāṃ bhedapratyayo antaraṅgaścānapekṣaśca ।
+saṃjñaikatvaṃ tu śrutibāhyatayā bahiraṅgaṃ ca pauruṣeyatayā sāpekṣaṃ ca ।
+tasmādurbalaṃ nāmedasādhanāyālamiti ।।

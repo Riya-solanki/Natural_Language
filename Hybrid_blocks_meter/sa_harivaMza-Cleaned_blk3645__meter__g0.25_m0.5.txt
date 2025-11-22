@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3645 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ bhuvati sattvaṃ vai gopamadhye halāyudhe 
+saṃhṛṣṭavadanās tatra babhūvur gopayoṣitaḥ 
+evaṃ bahuvidhālāpaṃ kṛtvā gopais tu lāṅgalī । 
+jagāma yamunātīraṃ paśyan vṛndāvanaṃ mudā । 
+tato vanāntaragato reme rāmo mahābalaḥ ।।

@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 439 | label: hybrid | g:0.504 m:0.395 ---
+
+nanviha nāsti praśno asti bhagavaḥ prāṇādbhūya iti, nāpi prativacanamasti prāṇādvāva bhūyo astīti, kathaṃ prāṇādadhi bhūmopadiśyate ।
+prāṇaviṣayameva cātivāditvāmuttaratrānukṛṣyamāṇaṃ paśyāmaḥ- aeṣa tu vā ativadati yaḥ satyenātivadati' iti ।
+tasmānnāsti prādadhyupadeśa iti ।

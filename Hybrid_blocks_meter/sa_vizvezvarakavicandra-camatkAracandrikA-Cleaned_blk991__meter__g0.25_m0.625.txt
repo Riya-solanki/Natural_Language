@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 991 | label: meter | g:0.25 m:0.625 ---
+
+ekasya stuti nindārthaṃ vipakṣitaguṇottaraiḥ ।
+yatsamīkṛtya kathanaṃ sā matā tulyayogitā ।।

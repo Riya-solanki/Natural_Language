@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 1087 | label: meter | g:0.25 m:0.854 ---
+
+śītāṃśuvaṃśasambhavahaihayakulajanmajanitaguṇamahimā ।
+sa jayati śrīmadanaśca kirātanātho rasācāryaḥ ।।
+yasya svayamavatīrṇā rasavidyā sakalamaṅgalādhārā ।
+paramaśreyasahetuḥ śreyaḥ parameṣṭhinaḥ pūrvam ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 730 | label: meter | g:0.059 m:0.62 ---
+
+{saṃgrāmāṅgaṇamāgatena bhavatā cāpe samāropite
+devākarṇaya yena yena sahasā yadyatsamāsāditam ।
+kodaṇḍena śarāḥ śarairariśirastenāpi bhūmaṇḍalaṃ
+tena tvaṃ bhavatā ca kīrtiratulā kīrtyā ca lokatrayam ।।}

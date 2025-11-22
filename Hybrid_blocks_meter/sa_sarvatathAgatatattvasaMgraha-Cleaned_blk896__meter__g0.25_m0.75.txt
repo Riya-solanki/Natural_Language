@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 896 | label: meter | g:0.25 m:0.75 ---
+
+vandyaḥ pūjyaśca mānyaśca satkartavyastathāgataiḥ ।
+yasmādvajradṛḍhaṃ cittaṃ vajrasatvastvamucyase ।।

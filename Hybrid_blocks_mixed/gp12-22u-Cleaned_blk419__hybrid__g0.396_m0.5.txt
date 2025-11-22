@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 419 | label: hybrid | g:0.396 m:0.5 ---
+
+[] tad evaṃ muhur moham ūhamānā śanair upasṛtya tad ādṛtya tāḥ kṛta-kṛtyaṃ-manyā sāsram āśīḥ-sahasreṇedaṃ śrāvitavatī-

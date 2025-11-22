@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11490 | label: meter | g:0.316 m:0.5 ---
+
+snānaṃ kṛtvā tatra tīrthe ca samyagdīpaṃ dattvā dvijavaryāya mukhyam ।
+draṣṭuṃ punaḥ śrīnivāsaṃ prajagmurgovindagovinda iti bruvantaḥ ।।

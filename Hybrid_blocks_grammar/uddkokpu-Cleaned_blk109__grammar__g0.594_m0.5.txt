@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 109 | label: grammar | g:0.594 m:0.5 ---
+
+sthāneṣveṣu kvacana kathiteṣūtsukā puṣpaśayyām adhyāsīnā parijanakṛtāṃ sā na cedīkṣitā syāt ।
+prāsādo asyāḥ paramabhimataḥ ko api māhendranīlas tasmin dṛśyā taṭidiva ghane cārurūpā priyā me ।।

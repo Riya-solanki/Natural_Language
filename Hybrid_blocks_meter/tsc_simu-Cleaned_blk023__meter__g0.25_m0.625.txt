@@ -1,0 +1,6 @@
+--- source: tsc_simu-Cleaned.txt | block: 23 | label: meter | g:0.25 m:0.625 ---
+
+vyutkrameṇaiva līyante tanmātre bhūtapañcakam ।
+tanmātrāṇīndriyāṇi ahaṅkāre vilīyate ।।
+ahaṅkāro atha buddhau tu buddhiravyaktasañjñake ।
+avyaktaṃ na kvacillīnaṃ pratisañcara iti smṛtaḥ ।।

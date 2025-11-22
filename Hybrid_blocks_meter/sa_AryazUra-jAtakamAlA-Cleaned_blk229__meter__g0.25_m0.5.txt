@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 229 | label: meter | g:0.25 m:0.5 ---
+
+mātsaryadoṣopacayāya yaḥ syānna tyāgacittaṃ paribṛṃhayedvā ।
+sa tyāgamevārhati madvidhebhyaḥ parigrahacchadmamayo vighātaḥ ।।

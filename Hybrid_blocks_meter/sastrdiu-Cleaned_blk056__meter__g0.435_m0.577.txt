@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 56 | label: meter | g:0.435 m:0.577 ---
+
+atha tvarthaśabdamanādṛśya yo vedārthaḥ sa kāryarūpa ityucyate tator'thapadamanarthakaṃ vastumātraparyāyamanuvādakaṃ syāt ।
+anarthavyudāsārthatā cāsya bhāṣyakāreṇoktā, tasmādviśeṣaṇamevaitat ।
+viśeṣaṇatve cābhyudayarūpasya vedārthasya kāryatvābhidhānādanabhyudayarūpasya vādārthasya kāryatvaṃ na syāditi sarvasya vedasya eva prāmāṇyamiti niyogo na syāt ।
+tataśca avināśī vā are ayamātmetyādīnāmātmasvarūpaparatvaṃ na nirākartavyamityastāṃ tāvat ।
+tasmāddharmasvarūpapramāṇapratipādanārthamevedaṃ sūtram ।।

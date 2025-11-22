@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 385 | label: hybrid | g:0.438 m:0.5 ---
+
+[] madhukaṇṭha uvāca-tataḥ śrīmān asau dhanyaḥ parjanyaḥ śrī-govinda-padāravinda-bhajanāya vṛndāvanaṃ praviśan samāsata eva samasta-śāstra-sāraṃ pṛcchataḥ putrān upadideśa, yathā-

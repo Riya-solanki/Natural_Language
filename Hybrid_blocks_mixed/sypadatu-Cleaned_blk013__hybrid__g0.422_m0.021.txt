@@ -1,0 +1,6 @@
+--- source: sypadatu-Cleaned.txt | block: 13 | label: hybrid | g:0.422 m:0.021 ---
+
+[] samakuṭam iva tuṣṭyā yo bibharty uttamāṅgam
+sa viṭa iti viṭajñaiḥ kīrtyate yasya cārthān
+salilam iva tṛṣārtāḥ pāṇiyugmair haranti
+kiṃ bravīṣi - uktaṃ viṭalakṣaṇaṃ, viṭān idānīm upadeṣṭum arhasīti śrūyatāṃ tatrabhavān kāmacāro bhāṇur, lomaśo gupto amātyo viṣṇudāsaḥ, śaibya āryarakṣito, dāśerako rudravarmāvantikaḥ skandasvāmī, hariścandro bhiṣag, ābhīrakaḥ kumāro mayūradatto, mārdaṅgikaḥ sthāṇur gāndharvasenaka, upāyanirantakathaḥ, pārvatīyaḥ prathamo aparāntādhipatir indravarmānandapurakaḥ kumāro makhavarmā, saurāṣṭriko jayanandako, maudgalyo dayitaviṣṇur ity evamādayo yathāsaṃbhavaṃ saṃnipātyāḥ kiṃ

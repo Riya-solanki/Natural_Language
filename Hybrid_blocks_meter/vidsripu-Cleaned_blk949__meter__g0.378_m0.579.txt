@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 949 | label: meter | g:0.378 m:0.579 ---
+
+śaśadharaḥ kumudākarabāndhavaḥ kamalaṣaṇḍanimīlanapaṇḍitaḥ ।
+ayam udeti kareṇa digaṅganāḥ parimṛṣann iva kuṅkumakāntinā ।।
+rājaśriyaḥ

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 442 | label: grammar | g:0.646 m:0.5 ---
+
+evaṃ ca bhāvārthapraṇālikayā dravyādisaṃkrānto vidhirgauravādbibhyatsvaviṣayasya cānyataḥ prāptatayā tadanuvādena tadanubandhībhūtadravyādiparo bhavatīti sarvatra bhāvārthaviṣaya eva vidhiḥ ।

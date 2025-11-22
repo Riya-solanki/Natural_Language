@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1706 | label: grammar | g:0.594 m:0.5 ---
+
+bhāgyaṃ naḥ kva nu tādṛg alpatapasāṃ yenāṭavīmaṇḍanāḥ syāmaḥ kṣoṇiruho dahaty avirataṃ yān eva dāvānalaḥ ।
+yeṣāṃ dhūmasamūhabaddhavapuṣaḥ sindhor amī bandhavo nirvyājaṃ paripālayanti jagatīrambhobhir ambhomucaḥ ।।

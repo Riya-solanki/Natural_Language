@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1147 | label: meter | g:0.25 m:0.75 ---
+
+tadasminnastīti deśe tannāmni ।।
+udumbarāḥ santyasmindeśe audumbaro deśaḥ ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 343 | label: meter | g:0.194 m:0.5 ---
+
+{vihalaṅkhalaṃ tumaṃ sahi daṭṭhūṇa kuḍeṇa taralataradiṭṭhiṃ ।
+vārapphaṃsamiseṇa a appā guru-otti pāḍi-a vihiṇṇo ।। }
+[viśṛṅkhalāṃ tvāṃ sakhi dṛṣṭvā kuṭena taralataradṛṣṭim ।
+dvārasparśamiṣeṇa cātmā guruka iti pātayitvā vibhinnaḥ ।।]

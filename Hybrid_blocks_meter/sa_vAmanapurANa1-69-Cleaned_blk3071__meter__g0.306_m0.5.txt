@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3071 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ purā dānavasattamaṃ taṃ maheśvareṇātha virūpadṛṣṭyā ।
+kṛtvaiva rūpaṃ bhayadaṃ ca bhairavaṃ bhṛṅgitvamīsena kṛtaṃ svabhaktyā ।।

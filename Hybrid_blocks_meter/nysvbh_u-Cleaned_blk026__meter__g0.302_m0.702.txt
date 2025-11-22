@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 26 | label: meter | g:0.302 m:0.702 ---
+
+lokayātrāṃ vahata iti।
+so ayaṃ nirṇayaḥ prameyāntarbhūta evamartha pṛthaguddiṣṭa iti।

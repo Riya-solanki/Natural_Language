@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11622 | label: meter | g:0.306 m:0.5 ---
+
+caturmukhaṃ prīṇayitvaiva bhaktyā hyavadhyatvaṃ prāpa tasmānmahātmā ।
+tato bhūmiṃ karavadveṣṭayitvā ninye tadā daityavaryo mahātmā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4372 | label: meter | g:0.25 m:0.5 ---
+
+sā ca te karuṇaṃ mātā tvāṃ bālam anuśocatī 
+atyarthaṃ śrāmyate vīra vivatsā saurabhī yathā ।।

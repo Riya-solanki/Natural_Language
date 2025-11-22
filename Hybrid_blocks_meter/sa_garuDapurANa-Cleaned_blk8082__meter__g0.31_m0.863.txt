@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8082 | label: meter | g:0.31 m:0.863 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+uktamādyāṃ kriyāṃ yāvannṛpo apītitvayānagha ।
+kasyacitkenacidrājñā kimādyā sā kṛtā purā ।।

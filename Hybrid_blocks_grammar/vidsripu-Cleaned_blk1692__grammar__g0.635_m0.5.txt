@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1692 | label: grammar | g:0.635 m:0.5 ---
+
+ātmajñānavivekanirmaladhiyaḥ kurvanty aho duṣkaraṃ yan muñcanty upabhogabhāñjy api dhanāny ekāntato niḥspṛhāḥ ।
+na prāptāni purā na samprati na ca prāptau dṛḍhapratyayo vāñchāmātraparigrahāṇy api vayaṃ tyaktuṃ na tāni kṣamāḥ ।।

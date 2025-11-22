@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 566 | label: meter | g:0.25 m:0.75 ---
+
+prathamaṃ sadvitīyatve brahmaṇāvagate sati ।
+guhyāśrayatvaṃ caramaṃ vyākhyeyamavirodhataḥ' ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5948 | label: meter | g:0.25 m:0.625 ---
+
+vṛṣasthāne vṛṣaṃ dṛṣṭvā kīrtituṣṭisukhādikam ।
+vṛṣasthāne kharaṃ dṛṣṭvā mahālābhādikaṃ bhavet ।।

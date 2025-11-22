@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1513 | label: meter | g:0.251 m:0.623 ---
+
+caturṣu yuktāś catvāro lokapālā balotkaṭāḥ 
+svāṃ svāṃ diśaṃ rarakṣus te tasya devabalasya ha ।।

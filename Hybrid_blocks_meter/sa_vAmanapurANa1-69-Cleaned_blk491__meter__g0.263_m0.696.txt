@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 491 | label: meter | g:0.263 m:0.696 ---
+
+nārāyaṇa uvāca ।
+evaṃ bhavatu daidyendra pāpaṃ te yātu saṃkṣayam ।
+dvitīyaṃ prārthaya varaṃ taṃ dadāmi tavāsura ।।

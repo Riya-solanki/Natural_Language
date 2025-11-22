@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 19 | label: grammar | g:0.604 m:0.5 ---
+
+rathaḥ kṣoṇī yantā śatadhṛtir agendro dhanur atho rathāṅge candrārkau rathacaraṇapāṇiḥ śara iti ।
+didhakṣos te ko ayaṃ tripuratṛṇam āḍambaravidhir vidheyaiḥ krīḍantyo na khalu paratantrāḥ prabhudhiyaḥ ।।

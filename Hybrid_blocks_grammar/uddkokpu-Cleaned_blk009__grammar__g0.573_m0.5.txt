@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 9 | label: grammar | g:0.573 m:0.5 ---
+
+vācālaṃ mā parabhṛta kṛthā māṃ priyāviprayuktaṃ prāyaḥ prāptaṃ praṇayavacanaṃ tvādṛśe mādṛśānām ।
+kiñcillīnāṃ kisalayapuṭe kokilāmākulātmā tvaṃ cāpaśyan bata virahiṇāṃ yena jānāsi tāpam ।।

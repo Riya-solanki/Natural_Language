@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 382 | label: grammar | g:0.562 m:0.5 ---
+
+yāvan na labdhas tvatpūjāsudhāsvādamahotsavaḥ tāvan nāsvādito manye lavo api sukhasampadaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 460 | label: meter | g:0.25 m:0.5 ---
+
+deśiko mantravṛttiśca putrakaḥ samayī ca yaḥ 
+catvāra ete śaivāḥ syur vratino avratino api vā ।।

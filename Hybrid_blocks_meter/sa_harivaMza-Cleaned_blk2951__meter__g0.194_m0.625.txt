@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2951 | label: meter | g:0.194 m:0.625 ---
+
+bāndhavānām api tathā bhedakāle samutthite 
+vadhyate yo antaraprepsuḥ svajano yāti vikriyām ।।

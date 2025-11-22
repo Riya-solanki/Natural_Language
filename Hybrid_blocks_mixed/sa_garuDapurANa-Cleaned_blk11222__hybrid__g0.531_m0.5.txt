@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11222 | label: hybrid | g:0.531 m:0.5 ---
+
+teṣāṃ jihvā yamaloke yamastu niṣkāsya piṣṭaṃ prakaroti nityam ।
+kāśīnivāsena ca kiṃ prayojanaṃ kiṃ vā prayāge maraṇena tāta ।।

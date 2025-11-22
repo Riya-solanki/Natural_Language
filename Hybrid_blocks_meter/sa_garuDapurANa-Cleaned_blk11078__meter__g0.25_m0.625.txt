@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11078 | label: meter | g:0.25 m:0.625 ---
+
+sadāśiva iti tvākhyāmavāpa sa vināśakaḥ ।
+tamobhimānī sa jñeyastvaśivatvātsadāśivaḥ ।।

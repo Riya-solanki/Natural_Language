@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11282 | label: grammar | g:0.562 m:0.5 ---
+
+etādṛśaṃ tattu jātaṃ mukunda alaṃ hyalaṃ tena duḥkhaṃ ca bhuktam ।
+saṃgaṃ dattātsajjanānāṃ sadā tvaṃ vinā ca tvaṃ durjanānāṃ ca saṃgāt ।।

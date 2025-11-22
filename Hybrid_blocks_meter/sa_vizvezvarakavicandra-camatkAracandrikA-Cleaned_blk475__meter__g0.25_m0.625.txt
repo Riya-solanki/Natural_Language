@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 475 | label: meter | g:0.25 m:0.625 ---
+
+sañcāribhāvabāhulye apyamumeva pare jaguḥ ।
+sa bakṣyamāṇo niṣpatterbheda eveti me matam ।।

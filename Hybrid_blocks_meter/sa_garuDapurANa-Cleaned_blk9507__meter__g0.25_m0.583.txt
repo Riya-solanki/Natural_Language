@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9507 | label: meter | g:0.25 m:0.583 ---
+
+darbhamayāśca catvāro viprā mantrābhimantritāḥ ।
+tato dāhaḥ prakartavyaḥ taiśca puttalakaiḥ saha ।।
+sūtakānte tataḥ putraḥ kuryācchāntikamuttamam ।।
+pañcakeṣu mṛto yo asau na gatiṃ labhate naraḥ ।
+tilān gāśca suvarṇaṃ ca tamuddiśya ghṛtaṃ dadet ।।

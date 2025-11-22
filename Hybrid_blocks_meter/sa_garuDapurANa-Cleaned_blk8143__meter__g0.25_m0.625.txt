@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8143 | label: meter | g:0.25 m:0.625 ---
+
+kalatraṃ patikūlaṃ syātsā pīḍā pretasambhavā ।
+evantu pīḍayā rājanpretajñānaṃ bhavennṛṇām ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2710 | label: meter | g:0.194 m:0.625 ---
+
+garjitena ca meghānāṃ parjanyaninadena ca 
+tarjitānīva kampante tṛṇāni tarubhiḥ saha ।।

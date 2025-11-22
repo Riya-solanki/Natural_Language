@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 968 | label: meter | g:0.052 m:0.806 ---
+
+samādhiraṇimādīnāṃ dvādaśaitāni kāraṇam 
+prāṇāyāmaṃ vināpyevaṃ vaśyātmā cetasi sthitaḥ ।। MT

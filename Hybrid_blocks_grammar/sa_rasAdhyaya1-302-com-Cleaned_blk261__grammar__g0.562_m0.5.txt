@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 261 | label: grammar | g:0.562 m:0.5 ---
+
+kācakumpikāyāṃ cikkaṇāṃ mṛdaṃ dattvā madhye niyāmakaṃ rasaṃ kṣiptvā mukhe koḍīyakam ।।

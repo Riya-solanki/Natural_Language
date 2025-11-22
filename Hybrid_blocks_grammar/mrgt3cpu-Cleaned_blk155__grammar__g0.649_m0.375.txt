@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 155 | label: grammar | g:0.649 m:0.375 ---
+
+Vṛtti:
+[gurvagniśivavidhyābhyaḥ kṣetrapālāya ca] gurvādibhyo [aṃśakaṃ samuddhṛtya] bhāgamuddhṛtya [sahāyena] `ātmārthabhāgamavasthāpya śiṣṭaṃ mahyaṃ sthāpayet' ityevamanuśāsitena sadyo vibhajya kṛtatattadvidhiḥ [kṣitau] bhūmau sthāpitapātraḥ [śuciḥ] samāhitaḥ san [adyād] bhuñjīta।

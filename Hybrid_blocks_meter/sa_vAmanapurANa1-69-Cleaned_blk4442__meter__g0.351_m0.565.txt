@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4442 | label: meter | g:0.351 m:0.565 ---
+
+nūnaṃ tatkaṇṭhaśālūkamathavā pratijihvakā ।
+rogovānyo na sā jihvā yā na vakti harerguṇān ।।

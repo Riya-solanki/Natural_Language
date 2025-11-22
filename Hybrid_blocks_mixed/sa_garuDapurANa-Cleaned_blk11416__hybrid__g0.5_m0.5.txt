@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11416 | label: hybrid | g:0.5 m:0.5 ---
+
+atraivāste śrīnivāso haristu dravyeṇa rūpeṇa na cānyatheti ।
+ādausnātvā muṇḍanaṃ tatra kṛtvā tīrthaśrāddhaṃ kārayitvā sutīrthe ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 286 | label: meter | g:0.26 m:0.5 ---
+
+āścaryamadbhutamidaṃ guṇasaṃcayānāṃ dhyāne samādhi viharanti nimitta nāsti 
+tatra sthitāna yadi bhajyati ātmabhāvo puna kāmadhātu upapadyati yathābhiprāyā ।।

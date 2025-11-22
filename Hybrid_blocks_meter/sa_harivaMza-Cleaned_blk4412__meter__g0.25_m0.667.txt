@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4412 | label: meter | g:0.25 m:0.667 ---
+
+tad durdinatalaṃ bhittvā nāradaḥ pratyadṛśyata 
+saṃveṣṭitajaṭābhāro vīṇāsaktena bāhunā ।। 
+gāyann eva harīṃ sāmnā vasantaṃ yadusaṃsadi । 
+sa papāta narendrāṇāṃ madhye pāvakavarcasām 
+nārado agniśikhākāraḥ śrīmāñ śakrasakho muniḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3526 | label: grammar | g:0.667 m:0.5 ---
+
+yasyā yad abhimataṃ tad icchayā gṛhyatām ity ukte keśinī putram ekaṃ sumatiḥ putrasahasrāṇi ṣaṣṭiṃ vavre ।।

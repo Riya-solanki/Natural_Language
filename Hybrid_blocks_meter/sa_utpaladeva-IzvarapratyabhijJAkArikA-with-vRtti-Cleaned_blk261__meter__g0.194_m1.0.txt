@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 261 | label: meter | g:0.194 m:1.0 ---
+
+kāryakāraṇatā loke sāntarviparivartinaḥ 
+ubhayendriyavedyatvaṃ tasya kasyāpi śaktitaḥ ।।

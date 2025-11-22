@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11871 | label: hybrid | g:0.521 m:0.5 ---
+
+svavāmahaste veṇupātre nidhāya dīpaṃ dhṛtvā savyahaste pate tvam ।
+uttiṣṭha bhoḥ pañcagṛheṣu bhikṣāṃ kuruṣva samyak pravihāyaiva lajjām ।।

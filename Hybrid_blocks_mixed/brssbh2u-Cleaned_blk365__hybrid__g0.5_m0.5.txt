@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 365 | label: hybrid | g:0.5 m:0.5 ---
+
+saptānāṃstitvādīnāṃ bhaṅgānāṃ samāhāraḥ saptabhaṅgī tasyā nayo nyāyaḥ ।

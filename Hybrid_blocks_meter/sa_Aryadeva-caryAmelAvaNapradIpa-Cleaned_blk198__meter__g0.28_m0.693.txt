@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 198 | label: meter | g:0.28 m:0.693 ---
+
+laṅkāvatārasūtre apyuktam-
+na hyatrotpadyate kiñcit pratyayairna nirudhyate ।
+utpadyante nirudhyante pratyayā eva kalpitāḥ ।।

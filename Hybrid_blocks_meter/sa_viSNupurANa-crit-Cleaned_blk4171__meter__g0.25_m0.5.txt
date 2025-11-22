@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4171 | label: meter | g:0.25 m:0.5 ---
+
+te ca gopā mahad dṛṣṭvā pūtanāyāḥ kalevaram 
+mṛtāyāḥ paramaṃ trāsaṃ vismayaṃ ca tadā yayuḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6142 | label: meter | g:0.25 m:0.5 ---
+
+udakāvaraṇaṃ yat tu jyotiṣā pīyate tu tat 
+jyotir vāyau layaṃ yāti yāty ākāśe samīraṇaḥ ।।

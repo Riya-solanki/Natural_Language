@@ -1,0 +1,5 @@
+--- source: tsc_simu-Cleaned.txt | block: 72 | label: meter | g:0.25 m:0.555 ---
+
+duḥkhamevāsti na sukhaṃ yasmāt tadupalabhyate ।
+duḥkhārttasya pratīkāre sukhasañjñā vidhīyate ।।
+duḥkhaṃ kāmasukhāpekṣā sukhaṃ duḥkhātyayaḥ smṛtaḥ ।।

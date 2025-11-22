@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2440 | label: meter | g:0.25 m:0.625 ---
+
+taṃ hi mocayituṃ nānyaḥ śaktastvattadanayādṛte ।
+śakunirnāma rājendra sa hyastravidhipāragaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 301 | label: meter | g:0.25 m:0.625 ---
+
+sāndrasthūlanaloparodhaviṣamāḥ śakyāvatārāḥ puras toyottīrṇanivṛttanakrajaṭharakṣuṇṇasthalīvālukāḥ ।
+vyaktavyāghrapadāṅkapaṅktinicitonmudrārdrapaṅkodarāḥ saṃtrāsaṃ janayanti kuñjasaritaḥ kācābhanīlodakāḥ ।।

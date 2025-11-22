@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 877 | label: meter | g:0.25 m:0.521 ---
+
+dvedhā nigaditaḥ strīṇāṃ roṣaḥ puruṣa-gocaraḥ । 
+sapatnī-hetur ādyaḥ syād anyaḥ syād anya-hetukaḥ ।।
+sapatnī-hetuko roṣo vipralambhe prapañcyate । 
+anya-hetu-kṛte tv atra kriyāḥ puruṣa-roṣavat ।।

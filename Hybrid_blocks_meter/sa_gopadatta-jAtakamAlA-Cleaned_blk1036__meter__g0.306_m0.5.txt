@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1036 | label: meter | g:0.306 m:0.5 ---
+
+mātā pitā suhṛd iti vyavahāramātram etat punarbhavanipātavighātabhājām ।
+bhūtārthadarśanaparokṣamalīmasānāṃ loko vṛthā narapate parikhedam eti ।।

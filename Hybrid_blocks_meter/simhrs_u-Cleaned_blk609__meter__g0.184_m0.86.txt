@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 609 | label: meter | g:0.184 m:0.86 ---
+
+yathā-
+āśūtthānaṃ sadṛśa-gaṇanā cetanācetaneṣu
+prauḍhauṣmābhiśvasitam asakṛn nirgato bāṣpa-pūraḥ ।
+nirlakṣyā vāg gatir aviṣayā nirnimittaṃ smitaṃ ca
+prāyeṇāsyāḥ prathayatitarāṃ bhrānti-dātrīm avasthām ।।

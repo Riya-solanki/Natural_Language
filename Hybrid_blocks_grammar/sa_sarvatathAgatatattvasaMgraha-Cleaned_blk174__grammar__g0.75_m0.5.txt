@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 174 | label: grammar | g:0.75 m:0.5 ---
+
+athāsyāṃ viniḥsṛtamātrāyāṃ sarvatathāgatahṛdayebhyaḥ padmaraśmayo viniścaritāḥ । tebhyaḥ padmaraśmibhyaḥ sa eva bhagavān vajradharaḥ sarvalokadhātuparamāṇurajaḥsamāstathāgatavigrahā bhūtvā, sarvatathāgatajñānānyāmudrya, punarapyekaghanaḥ sarvalokadhātusamavasaraṇapramāṇo mahāvajrapadmavigrahaḥ prādurbhūya, bhagavato vairocanasya pṛṣṭhataścandramaṇḍalāśrito bhūtvedamudānamudānayāmāsa ।

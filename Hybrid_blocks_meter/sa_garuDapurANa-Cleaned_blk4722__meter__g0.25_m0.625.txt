@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4722 | label: meter | g:0.25 m:0.625 ---
+
+pītaraktāsiṃtābhāsaḥ pittajātaśca śoṣakṛt ।
+śīghraṃ nāsau vā praśamenmadhye prāgdahate tanum ।।

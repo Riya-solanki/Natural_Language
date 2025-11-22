@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 680 | label: meter | g:0.194 m:0.5 ---
+
+vibhrājasya tu putro abhūd aṇuho nāma pārthivaḥ 
+babhau śukasya jāmātā kṛtvībhartā mahāyaśāḥ ।।

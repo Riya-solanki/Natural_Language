@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 743 | label: meter | g:0.194 m:0.625 ---
+
+karmaṇā tena te tāta śubhenāśubhavarjitāḥ 
+śubhāc chubhatarāṃ yoniṃ cakravākatvam āgatāḥ ।।

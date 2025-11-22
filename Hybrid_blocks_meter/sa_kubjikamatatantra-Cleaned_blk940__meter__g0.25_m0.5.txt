@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 940 | label: meter | g:0.25 m:0.5 ---
+
+tadantaṃ tu japaṃ kuryāt kṛtvā hṛtsthaṃ tu keśavam 
+adhastāt setumārgasya tiṣṭhate tu kujeśvaraḥ ।।

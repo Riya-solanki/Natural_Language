@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 785 | label: meter | g:0.25 m:1.0 ---
+
+tasyāḥ prabandhalīlābhirālāpasmitadṛṣṭibhiḥ ।
+jīyante vallakīkundakusumendīvarasrajaḥ ।।

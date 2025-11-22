@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1411 | label: grammar | g:0.604 m:0.5 ---
+
+akārye tathyo vā bhavati vitathaḥ kāmam athavā tathāpy uccair dhāmnāṃ harati mahimānaṃ janaravaḥ ।
+tulottīrṇasyāpi prakaṭanihatāśeṣatamaso raves tādṛk tejo na hi bhavati kanyāṃ gata iti ।।

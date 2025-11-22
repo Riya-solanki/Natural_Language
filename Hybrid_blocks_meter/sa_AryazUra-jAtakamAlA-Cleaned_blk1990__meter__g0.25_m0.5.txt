@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1990 | label: meter | g:0.25 m:0.5 ---
+
+idaṃ tvayā hyādṛtamucyamānaṃ śraddheyatāṃ naiva kathaṃcideti ।
+ko nāma mṛtyorvadanādvimuktaḥ svasthaḥ sthitastatpunarabhyupeyām ।।

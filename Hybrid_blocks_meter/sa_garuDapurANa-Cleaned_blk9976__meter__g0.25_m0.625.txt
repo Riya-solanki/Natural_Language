@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9976 | label: meter | g:0.25 m:0.625 ---
+
+yujyate veṣṭanaṃ vāyorākāśasya ca khaṇḍanam ।
+grathanañca taraṅgāṇāmāsthā nāyuṣi yujyate ।।

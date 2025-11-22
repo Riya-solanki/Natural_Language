@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 901 | label: meter | g:0.25 m:0.5 ---
+
+yena tāta prajāvṛddhau samarthāḥ karmaṇā vayam 
+bhavema tat samastaṃ naḥ karma vyākhyātum arhasi ।।

@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 479 | label: meter | g:0.25 m:0.625 ---
+
+so'yaṃ samprati candraguptanayaścandraprakāśo yuvā ।
+jāto bhūpatirāśrayaḥ kṛtadhiyāṃ diṣṭyā kṛtārthaśramaḥ ।।

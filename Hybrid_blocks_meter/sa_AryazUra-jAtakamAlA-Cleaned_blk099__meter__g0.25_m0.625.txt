@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 99 | label: meter | g:0.25 m:0.625 ---
+
+yadeva yācyeta tadeva dadyānnānīpsitaṃ prīṇayatīha dattam ।
+kimuhyamānasya jalena toyairdāsyāmyataḥ prārthitamarthamasmai ।।

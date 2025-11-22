@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4823 | label: hybrid | g:0.322 m:0.388 ---
+
+aniruddho hṛto brahman kenāpi niśi suvrata 
+tasyārthe sarva evāsma cintayāviṣṭacetasaḥ ।। 
+eṣa te yadi vṛttāntaḥ śruto dṛṣṭo api vā mune ।। bhagavan kathyatāṃ sādhu priyam etan mamānagha । 
+ity evam ukte vacane keśavena mahātmanā 
+prahasya nāradaḥ prāha śrūyatāṃ madhusūdana ।।

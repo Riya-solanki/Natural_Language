@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 899 | label: grammar | g:0.546 m:0.371 ---
+
+nāgamāraṇavidhānamāha mākṣiketyādi ।।
+mākṣikeṇa nihataṃ māritaṃ yat śulvaṃ śilayā manaḥśilayā nāgaṃ ca nihataṃ māritaṃ ubhayaṃ tulyāṃśaṃ samabhāgaṃ kāryaṃ punar jambīrarasaiḥ jambīradrāvaiḥ saindhavasahitam ubhayaṃ puṭitaṃ bhāvitaṃ satpacedvahninā pakvaṃ kuryāt ।।
+kva sthālyāṃ mṛdbhājane ityarthaḥ ।।

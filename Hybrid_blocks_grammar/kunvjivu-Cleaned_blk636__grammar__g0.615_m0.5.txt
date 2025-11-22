@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 636 | label: grammar | g:0.615 m:0.5 ---
+
+dhārāveśma vilokya dīnavadano bhrāntvā ca līlāgṛhā- nniśvasyāyatamāśu kesaralatāvīthīṣu kṛtvā dṛśaḥ ।
+kiṃ me pārśvamupaiṣi putraka kṛtaiḥ kiṃ cāṭubhiḥ krūrayā mātrā tvaṃ parivarjitaḥ saha mayā yāntyātidīrghāṃ bhuvam ।।

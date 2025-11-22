@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 15 | label: hybrid | g:0.5 m:0.5 ---
+
+brahmātmabhūḥ surajyeṣṭhaḥ parameṣṭhī pitāmahaḥ hiraṇyagarbho lokeśaḥ svayaṃbhūścaturānanaḥ dhātābjayonirdruhiṇo viriñciḥ kamalāsanaḥ sraṣṭā prajāpatirvedhā vidhātā viśvasṛgvidhiḥ nābhijanmāṇḍajaḥ pūrvo nidhanaḥ kamalodbhavaḥ sadānando rajomūrtiḥ satyako haṃsavāhanaḥ

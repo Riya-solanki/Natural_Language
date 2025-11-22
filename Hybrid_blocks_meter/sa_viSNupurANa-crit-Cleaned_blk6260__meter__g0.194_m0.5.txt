@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6260 | label: meter | g:0.194 m:0.5 ---
+
+dharmadhvajo vai janakas tasya putro amitadhvajaḥ 
+kṛtadhvajaś ca nāmnāsīt sadādhyātmaratir nṛpaḥ ।।

@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 201 | label: grammar | g:0.601 m:0.5 ---
+
+kāmenojjayinīṃ gate mayi tadā kām apy avasthāṃ gate dṛṣṭvā svairam avantirājatanayāṃ pañceṣavaḥ pātitāḥ
+tair adyāpi saśalyam eva hṛdayaṃ bhūyaś ca viddhā vayaṃ pañceṣur madano yadā katham ayaṃ ṣaṣṭhaḥ śaraḥ pātitaḥ ।।

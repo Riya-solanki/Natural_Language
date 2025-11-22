@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 52 | label: meter | g:0.25 m:0.5 ---
+
+tasmāc chliṣṭaṃ ca mānyaṃ ca dhruvāc chambur vyajāyata 
+śliṣṭer ādhatta succhāyā pañca putrān akalmaṣān 
+prācīnagarbhaṃ vṛkatiṃ vṛkalaṃ vṛkatejasam । 
+patnī prācīnagarbhasya sūnṛtā suṣuve nṛpa । 
+nāmnodāradhiyaṃ putram indro yaḥ pūrvajanmani ।। 
+udāradhīḥ sutaṃ bhadrā janayad vai divaṃjayam । 
+ripuṃ ripuṃjayaṃ jajñe varāṅgī sā divaṃjayāt । 
+ripuṃ ripuṃjayaṃ vipraṃ vṛkalam vṛkatejasam ।।

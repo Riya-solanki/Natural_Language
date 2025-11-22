@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 666 | label: hybrid | g:0.375 m:0.45 ---
+
+sthite vidyābhede vicāryate kimāsāmicchayā samuccayo vikalpo vā syāt, athavā vikalpa eva niyameneti ।
+tatra sthitatvāttāvadvidyābhedasya na samuccayaniyame kiñcitkāraṇamasti ।

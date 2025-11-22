@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5252 | label: meter | g:0.306 m:0.5 ---
+
+dadhi takraṃ kāñjikaṃ ca lakucaṃ cāmlave tasam ।
+amlo loṇaḥ śuṇṭhīyukto jāraṇaḥ pācano rasaḥ ।।

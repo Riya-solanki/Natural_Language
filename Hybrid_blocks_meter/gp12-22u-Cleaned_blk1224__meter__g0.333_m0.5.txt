@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1224 | label: meter | g:0.333 m:0.5 ---
+
+[] tad ārabhya tu sa khalu parasparaṃ sparśo' yaṃ sparśāyaiva paraṃ sañcakpe,

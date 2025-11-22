@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2297 | label: meter | g:0.194 m:0.625 ---
+
+devatārādhanaṃ kṛtvā dhanasaṃpadam icchati 
+putrān icchati rājyaṃ ca śreyas tatprāptilakṣaṇam ।।

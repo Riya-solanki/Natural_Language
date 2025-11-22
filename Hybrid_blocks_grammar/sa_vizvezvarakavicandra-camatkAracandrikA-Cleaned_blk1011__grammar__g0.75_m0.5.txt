@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1011 | label: grammar | g:0.75 m:0.5 ---
+
+atra mūrtiḥ kīrtiriti dve vastunī pratipadaṃ dyotakena cakāreṇa ekasyāṃ tanotīti kriyāyāṃ samuccitya niveśite । tena tanuta iti dvivacanaṃ cārthe dvandvasamāsaśva bhavatīti so ayaṃ kriyāyāṃ dravyasamuccayo nāma pratipadadyotako dvipadāśrayassamuccayabhedaḥ ।

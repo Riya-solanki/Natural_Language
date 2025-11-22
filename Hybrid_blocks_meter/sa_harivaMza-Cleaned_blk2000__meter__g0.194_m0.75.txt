@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2000 | label: meter | g:0.194 m:0.75 ---
+
+sabaleṣu narendreṣu śātayatsv itaretaram 
+viviktapurarāṣṭraughā kṣitiḥ śaithilyam eṣyati ।।

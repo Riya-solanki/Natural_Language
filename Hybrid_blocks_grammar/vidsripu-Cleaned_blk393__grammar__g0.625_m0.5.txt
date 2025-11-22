@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 393 | label: grammar | g:0.625 m:0.5 ---
+
+yat pratyaṅgaṃ taṭam anusaranty ūrmayo vibhramāṇāṃ kṣobhaṃ dhatte yad api bahalaḥ snigdhalāvaṇyapaṅkaḥ ।
+unmagnaṃ yat sphurati ca manāk kumbhayor dvandvam etat tan manye asyāḥ smaragajayuvā gāhate hṛttaḍāgam ।।

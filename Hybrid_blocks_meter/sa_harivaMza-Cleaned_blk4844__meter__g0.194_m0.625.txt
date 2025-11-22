@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4844 | label: meter | g:0.194 m:0.625 ---
+
+sa pakṣabalavikṣepair vidhunvan parvatān bahūn 
+jagāma mārgaṃ balavān vātasya pratiṣedhayan ।।

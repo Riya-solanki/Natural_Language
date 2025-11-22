@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3131 | label: meter | g:0.194 m:0.75 ---
+
+prasātikāḥ sanīvārāḥ śyāmākā dvividhās tathā 
+vanyauṣadhīpradhānās tu śrāddhārhāḥ puruṣarṣabha ।।

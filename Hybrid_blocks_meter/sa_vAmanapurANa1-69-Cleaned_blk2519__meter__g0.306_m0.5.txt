@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2519 | label: meter | g:0.306 m:0.5 ---
+
+na caiva sā varārohā vibhinnā lāghāvānmayā ।
+na ca jānāmi sā kutra tasmād gacchāmi mārgitum ।।

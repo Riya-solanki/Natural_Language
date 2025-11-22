@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 55 | label: grammar | g:0.54 m:0.372 ---
+
+syādetat ।
+ātmā jaḍo api sarvārthajñāneṣu bhāsamāno api kartaiva na karma, parasamavetakriyāphalaśālitvābhāvāt, caitravat ।
+yathā hi caitrasamavetakriyayā caitranagaraprāptāvubayasamavetāyāmapi kriyamāṇāyāṃ nagarasyaiva karmatā, parasamavetakriyāphalaśālitvāt, na tu caitrasya kriyāphalaśālino api, caitrasamavāyādgamanakrīyāyā iti ।

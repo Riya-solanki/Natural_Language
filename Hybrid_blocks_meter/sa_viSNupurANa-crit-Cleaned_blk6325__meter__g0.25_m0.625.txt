@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6325 | label: meter | g:0.25 m:0.625 ---
+
+sarvaṃ dehopabhogāya kurute karma mānavaḥ 
+dehaś cānyo yadā puṃsas tadā bandhāya tatparam ।।

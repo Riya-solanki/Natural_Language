@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 637 | label: grammar | g:0.688 m:0.5 ---
+
+[] ṛṣir uvāca-bhavitā, kintu kāla-vilambitayā । bhavāṃs tu vrajāgamanaṃ manasi-kṛtya vivāha-kṛtya-vimukhatayā sthāsyati, kintu tad api vyabhicariṣyati ।

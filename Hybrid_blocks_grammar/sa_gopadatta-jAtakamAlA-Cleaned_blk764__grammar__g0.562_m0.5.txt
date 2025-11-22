@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 764 | label: grammar | g:0.562 m:0.5 ---
+
+atha sa mahāsattvaḥ krodhabahulatāṃ nāgayoner avetya tatpratipakṣakṣamākathām udbhāvayām āsa svaparṣadi ।।

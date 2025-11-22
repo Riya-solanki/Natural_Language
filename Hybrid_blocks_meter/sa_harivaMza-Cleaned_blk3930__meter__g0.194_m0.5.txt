@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3930 | label: meter | g:0.194 m:0.5 ---
+
+sa cchinnadhanvā virathaḥ khaḍgam ādāya carma ca 
+utpapāta rathād vīro garutmān iva vīryavān ।।

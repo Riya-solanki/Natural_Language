@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 509 | label: meter | g:0.313 m:0.649 ---
+
+[] sa eṣa eva mahā-rāsa-rasaḥ kiṃcid āgama-kṛtā cāvagamitaḥ ।
+vasanta-kusumāmoda-surabhī-kṛta-diṅ-mukhe ।
+govardhana-girau ramye sthitaṃ rāsa-rasotsukam ।। iti ।

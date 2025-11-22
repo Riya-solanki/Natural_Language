@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1012 | label: meter | g:0.194 m:0.5 ---
+
+ārādhitas tayā viṣṇuḥ prāha pratyakṣatāṃ gataḥ 
+varaṃ vṛṇīṣveti śubhāṃ sā ca prāhātmavāñchitam ।।

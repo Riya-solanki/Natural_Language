@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 541 | label: meter | g:0.25 m:0.5 ---
+
+na tathānāgatāḥ pīḍāṃ kurvanty arthāḥ śarīriṇām ।
+saṃprāptā dhvaṃsamānās tu janayanti yathā vyathām ।।

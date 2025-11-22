@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9036 | label: meter | g:0.306 m:0.5 ---
+
+chidraṃ tu naiva paśyāmi kuto jīvaḥ sa nirgataḥ ।
+kuto gacchanti bhūtāni pṛthivyāpo manastathā ।।

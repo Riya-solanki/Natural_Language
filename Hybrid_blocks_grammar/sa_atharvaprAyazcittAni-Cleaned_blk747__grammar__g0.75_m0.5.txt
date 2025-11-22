@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 747 | label: grammar | g:0.75 m:0.5 ---
+
+devā yujo mitrāvaruṇāryamā yuktaṃ devāḥ sapītayo apāṃ napāt tanūnapān narāśaṃsa udno datto adadhiṃ bhintta divas parjanyād antarikṣāt samudrāt tato no vṛṣṭyāvata iti ।

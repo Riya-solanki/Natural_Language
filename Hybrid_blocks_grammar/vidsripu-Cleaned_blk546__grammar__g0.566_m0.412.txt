@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 546 | label: grammar | g:0.566 m:0.412 ---
+
+dūrād eva kṛto añjalir na sa punaḥ pānīyapānocito rūpālokanavismitena calitaṃ mūrdhnā na śāntyā tṛṣaḥ ।
+romāñco api nirantaraṃ prakaṭitaḥ prītyā na śaityād apām akṣuṇṇo vidhir adhvagena ghaṭito vīkṣya prapāpālikām ।।
+bāṇasya

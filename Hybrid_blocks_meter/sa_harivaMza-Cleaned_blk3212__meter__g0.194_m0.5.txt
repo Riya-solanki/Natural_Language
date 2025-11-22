@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3212 | label: meter | g:0.194 m:0.5 ---
+
+tābhyām ekas tu padmākṣaḥ śyāmaḥ pītāmbarasrajaḥ 
+jagrāha tad dhanūratnaṃ durgrahaṃ daivatair api ।।

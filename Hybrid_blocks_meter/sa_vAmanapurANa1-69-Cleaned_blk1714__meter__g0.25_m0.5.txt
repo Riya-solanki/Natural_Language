@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1714 | label: meter | g:0.25 m:0.5 ---
+
+kāṃścit khaḍgena ciccheda khaṭvāṅgena parān raṇe ।
+nyaṣūdayad bhṛśaṃ kruddhā saratāśvagajān ripūn ।।

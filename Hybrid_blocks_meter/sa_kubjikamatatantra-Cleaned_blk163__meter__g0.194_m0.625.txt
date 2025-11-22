@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 163 | label: meter | g:0.194 m:0.625 ---
+
+anyat kāmāmbike kiñcid bhaṇiṣyāmaḥ kariṣyatha 
+sarvasādhāraṇaṃ tac ca caturṇāṃ tu vijānatha ।।

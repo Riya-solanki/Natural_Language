@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6996 | label: meter | g:0.306 m:0.5 ---
+
+nikhilabhuvana nāthaṃ śāśvataṃ suprasannaṃ tvativimalaviśuddhaṃ nirguṇaṃ bhavapuṣpaiḥ ।
+sukhamuditasamastaṃ pūjayāmyātmabhāvaṃ viśatu hṛdayapadme sarvasākṣī cidātmā ।।

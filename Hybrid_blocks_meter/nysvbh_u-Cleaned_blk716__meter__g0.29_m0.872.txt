@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 716 | label: meter | g:0.29 m:0.872 ---
+
+indriyārthasaṃnikarṣasya
+jñānakāraṇatvānupapattiḥ, kasmāt ?

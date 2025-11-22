@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 179 | label: grammar | g:0.646 m:0.5 ---
+
+jñānasya paramā bhūmir yogasya paramā daśā tvadbhaktir yā vibho karhi pūrṇa me syāt tadarthitā ।।

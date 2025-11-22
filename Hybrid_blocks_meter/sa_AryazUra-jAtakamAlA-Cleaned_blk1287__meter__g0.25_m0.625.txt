@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1287 | label: meter | g:0.25 m:0.625 ---
+
+ayaṃ pāśena mahatā saṃyataścaraṇe tvayā ।
+guṇairasyatu baddho ahamato dṛdhatarairhṛdi ।।

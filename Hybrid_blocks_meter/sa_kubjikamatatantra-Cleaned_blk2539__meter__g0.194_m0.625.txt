@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2539 | label: meter | g:0.194 m:0.625 ---
+
+tadātra niścitaṃ jātaṃ pañcāhān mṛtyulakṣaṇam 
+niścayena tadā kāle gurudevaṃ samāśrayet ।।

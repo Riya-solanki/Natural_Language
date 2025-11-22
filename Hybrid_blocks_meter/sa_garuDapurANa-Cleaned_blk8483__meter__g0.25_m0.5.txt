@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8483 | label: meter | g:0.25 m:0.5 ---
+
+udakaṃ cānnasaṃyuktaṃ bhuṅkte tasminpure gataḥ ।
+traipakṣike tu yaddattaṃ tatpuraṃ sa vyatikramet ।।

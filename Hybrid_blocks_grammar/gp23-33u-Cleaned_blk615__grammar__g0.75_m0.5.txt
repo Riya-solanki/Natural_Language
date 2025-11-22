@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 615 | label: grammar | g:0.75 m:0.5 ---
+
+[] ṛṣis tu tad-abhiprayan prathayati sma-kāmyakataḥ paścimāyāṃ diśi giri-taṭa-gata-gariṣṭhāṭavīm aṭiṣyati । kintu bhavatā yādavānām iva vraja-bhavanānām aritas taniṣyamāṇa-santāpa-santānābhāvāya tad idaṃ cintayiṣyate ।

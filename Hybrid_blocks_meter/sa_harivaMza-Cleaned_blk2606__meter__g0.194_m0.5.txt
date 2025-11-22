@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2606 | label: meter | g:0.194 m:0.5 ---
+
+balaṃ tu baladevasya tadā bhuvi janā viduḥ 
+karmajaṃ nihate daitye devair api durāsade ।।

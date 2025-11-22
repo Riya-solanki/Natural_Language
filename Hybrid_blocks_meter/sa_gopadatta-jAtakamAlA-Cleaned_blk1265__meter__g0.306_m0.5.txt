@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1265 | label: meter | g:0.306 m:0.5 ---
+
+tyaktavyam etena ca kāraṇena kṣitīśvaraśrīsukham ātmakāmaiḥ ।
+yad atra saktasya janasya vairabhayaprasaṅgāḥ śirasi sphuranti ।।

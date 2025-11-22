@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 275 | label: meter | g:0.302 m:0.806 ---
+
+asadākāramārabhya yāvanniścalatākṛtiḥ ।
+catvāraḥ pratisatyaṃ te mārge pañcadaśa smṛtāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2808 | label: meter | g:0.194 m:0.5 ---
+
+madaṃ prasusruvur nāgā yātās toṣaṃ vane mṛgāḥ 
+alaṃkṛtā gātraruhair vātubhir bhānti parvatāḥ ।।

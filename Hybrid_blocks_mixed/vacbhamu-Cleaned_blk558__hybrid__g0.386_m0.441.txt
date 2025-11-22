@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 558 | label: hybrid | g:0.386 m:0.441 ---
+
+syādetat ।
+yadi brahmaviṣarto jagat, hanta sarvasyaiva jīvavacaitanyaprasaṅga ityata āha- aśmādivacca tadanupapattiḥ ।
+atirohitārthena bhāṣyeṇa vyākhyātam ।।

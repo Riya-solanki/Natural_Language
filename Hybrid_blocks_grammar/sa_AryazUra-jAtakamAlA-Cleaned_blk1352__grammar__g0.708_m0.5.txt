@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1352 | label: grammar | g:0.708 m:0.5 ---
+
+sthāne bhavadguṇakathā ramayanti lokaṃ sthāne asi haṃsapatinā gamitaḥ sakhitvam । evaṃvidhaṃ hi vinayaṃ nayasauṣṭhavaṃ ca naivākṛtātmahṛdayāni samudvahanti ।।

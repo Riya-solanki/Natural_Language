@@ -1,0 +1,5 @@
+--- source: brsvbh3u-Cleaned.txt | block: 101 | label: hybrid | g:0.398 m:0.419 ---
+
+svamapīta iti hi svarūpasaṃbandhaṃ brūte ।
+svabhāvaścedanena saṃbandhatvena spṛṣṭastataḥ svābhāvikastādātmyānnātiricyata iti tarkapāda upapāditamityarthaḥ ।
+tathā bhedo api trividho vānyādṛśaḥ svābhāvika ityarthaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 416 | label: grammar | g:0.75 m:0.5 ---
+
+[] sā ca sahāsam āha sma-paurṇamāsī-nāmnī kātyāyanī ca kumāra-śramaṇā ca pārikāṅkṣiṇī cekṣaṇikā cāsmi । ayaṃ ca madhumaṅgala-nāmā snātakaḥ śrī-nārada-prakṛtiḥ । āvāṃ ca vidyā-viśeṣeṇaitad-vayaskāv eva sadā vidyāvahe ।

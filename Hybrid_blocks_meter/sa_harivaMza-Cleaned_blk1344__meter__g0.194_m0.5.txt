@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1344 | label: meter | g:0.194 m:0.5 ---
+
+bhayaṃ tyajadhvam amarā abhayaṃ vo dadāmy aham 
+tathaiva tridivaṃ devāḥ pratipadyata māciram ।।

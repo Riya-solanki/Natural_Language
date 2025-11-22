@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 326 | label: grammar | g:0.583 m:0.5 ---
+
+bāhyato antar api cotkaṭonmiṣattryambakastavakasaurabhāḥ śubhāḥ vāsayanty api viruddhavāsanān yogino nikaṭavāsino akhilān ।।

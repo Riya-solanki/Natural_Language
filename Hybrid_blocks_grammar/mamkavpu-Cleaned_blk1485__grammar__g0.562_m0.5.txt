@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1485 | label: grammar | g:0.562 m:0.5 ---
+
+eṣu aparādhadvaye pūrvāparajanmanoranamanam bhujapāte śastropakṣepaḥ mahāmohe sukhāvalokoccheditvaṃ ca yathākramamuktarūpo hetuḥ ।।

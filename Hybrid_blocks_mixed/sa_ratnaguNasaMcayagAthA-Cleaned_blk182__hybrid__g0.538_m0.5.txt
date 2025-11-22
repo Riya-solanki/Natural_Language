@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 182 | label: hybrid | g:0.538 m:0.5 ---
+
+prathameva citta spṛśatī na ca agrabodhim asatā na tasya spṛśatā puna śakya bhonti 
+na ca citta paścima śivāmanuprāpuṇāti asatā na tasya puna prāpaṇanāya śakyam ।।

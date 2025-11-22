@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9011 | label: meter | g:0.31 m:0.869 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+sarvepāmanukampārthaṃ brūhi me madhusūdana ।
+pretatvānmucyate yena dānena sukṛtena vā ।।

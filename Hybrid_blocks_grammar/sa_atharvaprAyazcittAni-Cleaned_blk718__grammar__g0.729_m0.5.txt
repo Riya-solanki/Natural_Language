@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 718 | label: grammar | g:0.729 m:0.5 ---
+
+dīkṣitasya gārhapatyo ante gārhapatyo anugacched agniṃ naro dīdhitibhir araṇyor hastacyutī janayanta praśastaṃ । dūredṛśaṃ gṛhapatim atharyum iti mathitvāvadadhyāt ।

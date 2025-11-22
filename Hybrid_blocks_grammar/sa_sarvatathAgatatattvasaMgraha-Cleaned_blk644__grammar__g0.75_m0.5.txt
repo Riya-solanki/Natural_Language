@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 644 | label: grammar | g:0.75 m:0.5 ---
+
+atha bhagavān vairocanaḥ sarvatathāgatasūkṣmajñānavajraṃ nāma samādhiṃ samāpannaḥ, samanantarasamāpanne ca bhagavatyatha tāvadeva sarvatathāgatahṛdayebhyaḥ sūkṣmajñānavajraraśmayo viniścaritvā, sarvalokadhātavo avabhāsya sarvasatvānāṃ, sarvatathāgatasūkṣmajñānavajrasamādhisamāpattīn dṛḍhī kṛtya punarapyekadhyībhūtvā, samādhijñānavajrakāyatāmadhyālambyaikaghanastathāgatajñānaḥ saṃbhūya, bhagavato vairocanasya hṛdaye praviṣṭaḥ ।।

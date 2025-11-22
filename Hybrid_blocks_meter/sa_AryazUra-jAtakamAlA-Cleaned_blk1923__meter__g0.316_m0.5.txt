@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1923 | label: meter | g:0.316 m:0.5 ---
+
+nāyaṃ prayatnaḥ sugatiṃ mamāptuṃ naikātapatrāṃ manujendralakṣmīm ।
+sukhaprakarṣaikarasāṃ na ca dyāṃ brāhmīṃ śriyaṃ naiva na mokṣasaukhyam ।।

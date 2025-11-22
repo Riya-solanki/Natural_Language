@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 937 | label: grammar | g:0.75 m:0.5 ---
+
+athāsmin bhāṣitamātre mahādevasya tadāveśaduḥkhamupaśāntaṃ । tacca vajrapāṇipādatalasparśamanuttarasiddhyabhiṣekasamādhivimokṣadhāraṇī jñānābhijñāvāptaye yāvat tathāgatatvāya saṃvṛtta iti । atha mahādevo bhagavatpādatalasparśātsarvatathāgatasamādhidhāraṇīvimokṣasukhānyanubhavanta mahādevakāyaṃ vajrapāṇipādamūle nipātayitvā, adhastād dvātriṃśadgaṅgānadīvālukopamalokadhātuparamāṇurajaḥ samā lokadhātavo atikramya, bhasmacchatrā nāma lokadhātustatra bhasmeśvaranirghoṣo nāma tathāgata utpannaḥ । atha tasmānmahādevakāyādidamudānaṃ niḥ sṛtavān ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8012 | label: meter | g:0.25 m:0.5 ---
+
+tatsarvaṃ svagṛhe muktvā tasya patnyai nyavedayam ।
+dasyubhirme hato bhrātā dhanamācchidya vai pathi ।।

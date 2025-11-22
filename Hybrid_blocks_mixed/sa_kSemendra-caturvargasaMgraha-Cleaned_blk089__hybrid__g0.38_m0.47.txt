@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 89 | label: hybrid | g:0.38 m:0.47 ---
+
+bālyaṃ duḥsahamohasaṃhatihataṃ rāgolbaṇaṃ yauvanaṃ vṛddhatvaṃ sakalopabhogakalanāvaikalyaśalyākulam ।
+vairāgyeṇa vinā vinaṣṭavimalālokaṃ saśokaṃ sadā saṃsāre saratāṃ punaḥ punar aho yātaṃ vṛthā jīvitam ।।

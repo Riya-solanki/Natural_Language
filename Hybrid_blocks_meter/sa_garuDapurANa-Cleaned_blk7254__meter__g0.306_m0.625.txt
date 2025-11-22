@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7254 | label: meter | g:0.306 m:0.625 ---
+
+puṇyaṃ vāpyathavāpuṇyaṃ yatkiñcitsukṛtaṃ tathā ।
+naṣṭe dehe kuto yānti dānāni vividhāni ca ।।

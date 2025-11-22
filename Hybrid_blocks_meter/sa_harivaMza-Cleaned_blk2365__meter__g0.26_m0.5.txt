@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2365 | label: meter | g:0.26 m:0.5 ---
+
+adyaiva kiṃ cireṇa sma vrajāmaḥ saha godhanaiḥ 
+yāvad vṛkair vadhaṃ ghoraṃ na naḥ sarvo vrajo vrajet ।।

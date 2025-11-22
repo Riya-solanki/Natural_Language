@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 145 | label: meter | g:0.306 m:0.625 ---
+
+prayujya sāmācaritaṃ vilobhanaṃ bhayaṃ vibhedāya dhiyaḥ pradarśitam ।
+tathābhiyuktaṃ ca śilīmukhārthinā yathetarannyāyyamivāvabhāsate ।।

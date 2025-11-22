@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 839 | label: meter | g:0.276 m:0.585 ---
+
+FN śākhinaśchandogāḥ ।
+te brahmavādino anayā rītyā vimṛśya dyānayogenānugatāḥ paramātmānamanu praviṣṭāḥ ।
+avidyāśaktiryoniḥ sā ca pratijīvaṃ nānetyuktamato vīpsopapannā ।

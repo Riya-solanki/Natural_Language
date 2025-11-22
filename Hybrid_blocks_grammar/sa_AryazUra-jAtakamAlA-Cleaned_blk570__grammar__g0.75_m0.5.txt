@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 570 | label: grammar | g:0.75 m:0.5 ---
+
+atha bodhisattvaḥ prītamanā rathādavatārya svajanānniryātya rathavaraṃ brāhmaṇāya jālinaṃ kumāramaṅkenādāya padbhyāmevādhvānaṃ pratyapadyata । avimanaskaiva ca madrī kṛṣṇājināṃ kumārīmaṅkenādāya pṛṣṭhato anvagacchadenam ।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 402 | label: grammar | g:0.708 m:0.5 ---
+
+[] athavā tad-viṣayakasya bhāva-mātrasya sa eṣa prabhāvaḥ, kim uta bhavad-vidhānāṃ mahā-bhāvasya? yaṃ khalu gopa-varga-nṛpatiṃ prati gargaḥ pratijñātavān ।

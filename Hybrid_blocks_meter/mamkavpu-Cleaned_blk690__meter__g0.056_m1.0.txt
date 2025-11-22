@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 690 | label: meter | g:0.056 m:1.0 ---
+
+{rājanvibhānti bhavataścaritāni tāni
+indordyutiṃ dadhati yāni rasātalentaḥ ।
+dhīdorbale atitate ucitānuvṛttī
+ātanvatī vijayasaṃpadametya bhātaḥ ।।}

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1072 | label: meter | g:0.25 m:0.625 ---
+
+bhūtaṃ bhāvaṃ tathā śāktaṃ māntraṃ raudraṃ ca śāmbhavam 
+ājñātaḥ sampravarteta ṣaḍadhvedaṃ kulānvaye ।।

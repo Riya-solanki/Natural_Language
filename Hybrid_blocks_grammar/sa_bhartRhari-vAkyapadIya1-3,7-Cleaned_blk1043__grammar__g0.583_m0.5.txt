@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 1043 | label: grammar | g:0.583 m:0.5 ---
+
+svakakṣyāsu prakarṣaś ca karaṇānāṃ na vidyate āśritātiśayatvaṃ tu paratas tatra lakṣaṇam ।।

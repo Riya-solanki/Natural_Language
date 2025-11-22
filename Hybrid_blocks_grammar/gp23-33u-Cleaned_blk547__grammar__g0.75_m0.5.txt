@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 547 | label: grammar | g:0.75 m:0.5 ---
+
+[] anye labdhāntare tat-pradhānatāsv avyapekṣatayā na tatra mama gantavyam asti । yataḥ pitṛ-mukhāvṛtakaḥ khalv aham, na tu svatantra-mantraḥ । kintu yogyaṃ vyājantaraṃ mṛgyate । bhavatu, yathāprāptaṃ tat samāptavyam । tad alaṃ tac-cintanam anena ।

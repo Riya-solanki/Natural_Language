@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 577 | label: meter | g:0.114 m:0.849 ---
+
+athavā,
+"nava-nava-rasa-pākād utpalābhoga-dhātrī
+sthalaja-jalaja-padme sarvadā duḥkha-dātrī ।
+rajanicara-gaṇānāṃ śaśvad āmoda-pātrī
+prati hari-layam āgāt pūtanā vyāja-rātrī ।। [mālinī]

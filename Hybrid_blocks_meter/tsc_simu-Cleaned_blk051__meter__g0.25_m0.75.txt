@@ -1,0 +1,6 @@
+--- source: tsc_simu-Cleaned.txt | block: 51 | label: meter | g:0.25 m:0.75 ---
+
+prakṛtibandhaḥ prakṛtilayaḥ paratvenābhimanyataḥ ।
+saṃnyāsināmindriyeṣu layo vaikāriko aparaḥ ।।
+gṛhīṇāṃ dakṣiṇābandho vadānyatvābhimāninām ।
+ityeṣastrividho bandhastrividho mokṣa ucyate ।।

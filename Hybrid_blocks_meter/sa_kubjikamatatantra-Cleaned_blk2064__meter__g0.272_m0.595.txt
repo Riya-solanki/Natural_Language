@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2064 | label: meter | g:0.272 m:0.595 ---
+
+abhyāso apy asya kartavyaḥ pṛṣṭhe dattvā tu bhāskaram 
+prāsādagṛhavṛkṣāṇāṃ sandhyākālāntare sthitaḥ ।।

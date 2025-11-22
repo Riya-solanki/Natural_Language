@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 58 | label: meter | g:0.25 m:0.5 ---
+
+ekādirnavamadhye tu daśabhiryo na badhyate ।
+tamabaddhaṃ vijānīyāt sa vetti paramaṃ padam ।।

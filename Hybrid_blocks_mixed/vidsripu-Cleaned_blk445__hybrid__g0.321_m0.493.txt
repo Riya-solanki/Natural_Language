@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 445 | label: hybrid | g:0.321 m:0.493 ---
+
+sutanu bhavagabhīraṃ gartam utpādya nābhīm adha upari nidhāya stambhikāṃ romarājīm ।
+stanayugabharabhaṅgāśaṅkiteneva dhātrā trivalivalayabaddhaṃ madhyam ālokayāmaḥ ।।

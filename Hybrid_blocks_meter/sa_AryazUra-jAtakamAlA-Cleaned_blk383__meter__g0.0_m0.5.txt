@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 383 | label: meter | g:0.0 m:0.5 ---
+
+atha śakraḥ sāmarṣavadenamativismayamāna uvāca - mā tāvadbhoḥ

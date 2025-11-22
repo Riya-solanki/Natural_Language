@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 322 | label: meter | g:0.194 m:0.854 ---
+
+dṛṣṭvā lokam imaṃ dhanakṣayabhayāt saṃtyaktadānotsavaṃ
+lobhakleśapiśācikāvaśatayā saṃdūṣitādhyāśayam ।
+kāruṇyāt sa dadāv anāthakṛpaṇaklībāturebhyo dhanaṃ
+matvā vāyuhatārṇavormicapalaṃ svaṃ jīvitaṃ bhūyasā ।।

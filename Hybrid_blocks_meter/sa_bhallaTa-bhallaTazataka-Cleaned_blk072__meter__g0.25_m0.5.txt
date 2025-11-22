@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 72 | label: meter | g:0.25 m:0.5 ---
+
+śatapadī sati pādaśate kṣamā yadi na goṣpadam apy ativartitum 
+kim iyatā dvipadasya hanumato jalanidhikramaṇe vivadāmahe ।।

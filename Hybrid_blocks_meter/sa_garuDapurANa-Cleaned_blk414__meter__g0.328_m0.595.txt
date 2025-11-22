@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 414 | label: meter | g:0.328 m:0.595 ---
+
+paśūnāṃ ca patiḥ prāyo vasūnāṃ patireva ca ।
+patirākhaṇḍalasyaiva varūṇasya patistathā ।।

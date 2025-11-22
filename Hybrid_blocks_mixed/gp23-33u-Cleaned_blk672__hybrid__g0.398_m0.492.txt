@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 672 | label: hybrid | g:0.398 m:0.492 ---
+
+tvām arcanti yadā svargyās tadā svargaḥ surālayaḥ ।
+tvāṃ nārcanti yadā svargyās tadā svargaḥ surālayaḥ ।।
+[] yuktam eva tat-

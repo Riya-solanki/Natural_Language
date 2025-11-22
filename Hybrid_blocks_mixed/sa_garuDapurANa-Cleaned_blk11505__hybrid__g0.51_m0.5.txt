@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11505 | label: hybrid | g:0.51 m:0.5 ---
+
+devasya pīṭhasya ca dakṣiṇe ca durgāṃ namedugrarūpābhidhāṃ ca ।
+pīṭhasya kanye praṇametpaścime vai ārogyāṇā madhipaṃ kāmadevam ।।

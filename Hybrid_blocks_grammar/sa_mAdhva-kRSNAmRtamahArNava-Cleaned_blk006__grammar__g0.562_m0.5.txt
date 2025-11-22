@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 6 | label: grammar | g:0.562 m:0.5 ---
+
+saṃsāre asmin mahāghore janmarogabhayākule ayam eko mahābhāgaḥ pūjyate yad adhokṣajaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3052 | label: meter | g:0.194 m:0.625 ---
+
+keśivaktravilagnas tu kṛṣṇabāhur aśobhata 
+vyābhugna iva gharmānte candrārdhakiraṇair ghanaḥ ।।

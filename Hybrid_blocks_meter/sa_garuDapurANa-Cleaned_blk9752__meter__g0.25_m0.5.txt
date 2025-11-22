@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9752 | label: meter | g:0.25 m:0.5 ---
+
+viṣṇuṃ yamaṃ ca sampūjya gandhapuṣpākṣatādibhiḥ ।
+daśa piṇḍān ghṛtāktāṃśca darbheṣu madhusaṃyutān ।।

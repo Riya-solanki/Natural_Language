@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3955 | label: meter | g:0.194 m:0.5 ---
+
+aniruddhaṃ guṇair dātuṃ kṛtabuddhir nṛpas tadā 
+prītyā ca raukmiṇeyasya rukmiṇyāś cāpy upagrahāt ।।

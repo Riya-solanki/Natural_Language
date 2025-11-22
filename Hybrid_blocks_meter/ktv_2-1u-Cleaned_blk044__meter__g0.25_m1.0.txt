@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 44 | label: meter | g:0.25 m:1.0 ---
+
+yāgadānādanusyūto bhāvanātmāvagamyate ।
+nityam ākhyātaśabdebhyas tasmād bhāvārthateṣyate ।।

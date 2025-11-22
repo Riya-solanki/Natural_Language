@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10853 | label: hybrid | g:0.5 m:0.5 ---
+
+kalyāṇāste sārabhoktāra eva naiṣāṃ bhavettena duḥ khābhivṛddhiḥ ।
+bhuñjanti ye vaiśvadevaṃ vihāya duṣṭāṃstānvai bhukticinttāṃśca viddhi ।।

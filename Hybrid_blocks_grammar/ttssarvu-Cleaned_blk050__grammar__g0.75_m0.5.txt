@@ -1,0 +1,3 @@
+--- source: ttssarvu-Cleaned.txt | block: 50 | label: grammar | g:0.75 m:0.5 ---
+
+daśa arthāḥ padārthāḥ mūlikāḥ santi mūlaṃ prakṛtiḥ puruṣaśca tāvāśrayatvena vidyete yeṣām athavā mūlaṃ svabhāvaḥ sa prayojakatvenāsti yeṣāmiti mūlikā mūlaprakṛtau puruṣe ca vidyamānā iti yāvat tathā ca rājavārttikam ।

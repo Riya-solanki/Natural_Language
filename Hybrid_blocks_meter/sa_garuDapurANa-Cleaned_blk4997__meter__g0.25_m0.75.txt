@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4997 | label: meter | g:0.25 m:0.75 ---
+
+tiktarasaḥ syāderaṇḍaḥ kākamācī tridoṣahṛt ।
+cāṅgerī kaphavātaghnī sarṣapaḥ sarvadoṣadam ।।

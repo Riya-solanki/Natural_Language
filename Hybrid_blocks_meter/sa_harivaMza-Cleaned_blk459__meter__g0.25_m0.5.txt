@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 459 | label: meter | g:0.25 m:0.5 ---
+
+satyavrato mahābāhur bharaṇaṃ tasya cākarot 
+viśvāmitrasya tuṣṭyartham anukampārtham eva ca ।। 
+mahāvrataṃ tadā roṣaṃ vasiṣṭho manasākarot । 
+so abhavad gālavo nāma galabandhān mahātapāḥ 
+maharṣiḥ kauśikas tāta tena vīreṇa mokṣitaḥ ।।

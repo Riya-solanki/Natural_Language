@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 118 | label: hybrid | g:0.514 m:0.5 ---
+
+atha dhava-suta-mukha-gaṇatas tava sukham asti satāṃ hṛdi yātam ।
+tad api ca na hi bhavad-anusaraṇaṃ bhavad-icchati yuvatī-jātam ।।
+atra sandigdha-kāku-padaṃ nahīti padaṃ tad-icchā-nirdhāraṇe, yad vā niṣedhe-

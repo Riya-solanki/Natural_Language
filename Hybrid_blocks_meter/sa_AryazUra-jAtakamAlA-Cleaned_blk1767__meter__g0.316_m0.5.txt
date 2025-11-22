@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1767 | label: meter | g:0.316 m:0.5 ---
+
+kṣitīśavṛttiṃ pratilabdhakīrtiṃ tanuṃ munerasya tapastanuṃ ca ।
+amūnyanāgāṃsi ca no manāṃsi tulyaṃ hi hanyādapi nāma rājā ।।

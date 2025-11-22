@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1673 | label: meter | g:0.25 m:0.5 ---
+
+atra saṅgama-rūpa-sādhyārtha-siddhaye parasparānurāga-siddhi-madana-rūpāṇām upāyānāṃ sad-bhāva-kathanād vicāraḥ ।

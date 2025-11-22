@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 360 | label: meter | g:0.25 m:0.625 ---
+
+puṣpottamāni ramyāṇi surabhīṇi ca nārada ।
+jātiyuktāni devena svayamācaritāni ca ।।

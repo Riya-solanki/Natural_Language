@@ -1,0 +1,7 @@
+--- source: brssbh1u-Cleaned.txt | block: 786 | label: meter | g:0.25 m:0.953 ---
+
+śuṅgena kāryeṇa ।
+anyathānyatheti vīpsā draṣṭavyā ।
+avatārāya brahmadhījanmane ।
+atastadanyathātve api brahmaṇi na bhedaḥ ।
+jñeye vigānaṃ na ।

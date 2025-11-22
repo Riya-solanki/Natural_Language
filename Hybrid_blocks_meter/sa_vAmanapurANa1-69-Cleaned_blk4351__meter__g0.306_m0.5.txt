@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4351 | label: meter | g:0.306 m:0.5 ---
+
+bāhavaśca diśaḥ sarvā vasavo aṣṭau kare smṛtāḥ ।
+hṛdaye saṃsthito brahmā kuliśo hṛdayāsthiṣu ।।

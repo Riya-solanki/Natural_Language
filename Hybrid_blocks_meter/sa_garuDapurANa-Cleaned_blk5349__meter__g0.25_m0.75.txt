@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5349 | label: meter | g:0.25 m:0.75 ---
+
+āṭarūṣakamūlaṃ tu kāñjikāpiṣṭameva tu ।
+tenākṣibūmilepācca cakṣuḥ śūlaṃ vinaśyati ।।

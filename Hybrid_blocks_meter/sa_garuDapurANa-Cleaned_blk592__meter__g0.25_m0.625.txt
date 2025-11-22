@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 592 | label: meter | g:0.25 m:0.625 ---
+
+ṣaḍaṅgādiprakāreṇa pūjanaṃ tu kramoditam ।
+parameśamukhodrītaṃ yo jānāti sa pūjakaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6206 | label: meter | g:0.469 m:0.625 ---
+
+karambhavālukāvahniyantraśastrādibhīṣaṇe 
+pratyekaṃ narake yāś ca yātanā dvija duḥsahāḥ ।।

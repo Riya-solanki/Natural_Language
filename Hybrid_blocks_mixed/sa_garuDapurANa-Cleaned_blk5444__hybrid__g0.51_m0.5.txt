@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5444 | label: hybrid | g:0.51 m:0.5 ---
+
+aṅguṣṭhe ca pade gulphe jānau ca jaghane tathā ।
+nābhau vakṣasi kukṣau ca kakṣe kaṇṭhe kapolake ।।

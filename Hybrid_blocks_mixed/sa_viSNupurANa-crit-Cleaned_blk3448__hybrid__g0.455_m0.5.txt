@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3448 | label: hybrid | g:0.455 m:0.5 ---
+
+yadā tu sarvābhir atīva hārdād vṛtaḥ sa kanyābhir anindyakīrtiḥ 
+tadā sa kanyādhikṛto nṛpāya yathāvad ācaṣṭa vinamramūrtiḥ ।।

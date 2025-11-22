@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 362 | label: grammar | g:0.75 m:0.5 ---
+
+FN jīvājīvau bhoktṛbhogyau, viṣayābhimukhyenenidriyāṇāṃ pravṛttirāsravaḥ, tāṃ saṃvṛṇotīti saṃvaro yamaniyamādiḥ, nirjarayati nāśayati kalmaṣamiti nirjarastaptaśilārohaṇādiḥ, bandhaḥ karma, mokṣaḥ karmapāśanāśe satyalokākāśapraviṣṭasya satatordhvagamanam ।

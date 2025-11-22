@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2500 | label: meter | g:0.194 m:0.5 ---
+
+eṣa mohaṃ gataḥ kṛṣṇo magno vai kāliyahrade 
+bhakṣyate sarparājena tad āgacchata māciram ।।

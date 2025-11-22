@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4588 | label: meter | g:0.194 m:0.5 ---
+
+sāṃdīpanes tathā putras tava caiva pitā nṛpa 
+gatau vaivasvatavaśaṃ jīvitau tasya tejasā ।। 
+nirjitau haṃsaḍibhakau hiḍimbaś caiva rākṣasaḥ । 
+saṃgrāmā bahavaś caiva ghorā naravarakṣayāḥ 
+nihatāś ca nṛpāḥ sarve kṛtvā tad rūpam adbhutam 
+janamejaya yuddheṣu yathā te kathitaṃ purā ।।

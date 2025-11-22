@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2681 | label: meter | g:0.25 m:0.5 ---
+
+tam ūcur vismitā gopā devaṃ girivare sthitam 
+bhagavaṃs tvadvaśe yuktā dāsāḥ kiṃ kurma kiṃkarāḥ ।।

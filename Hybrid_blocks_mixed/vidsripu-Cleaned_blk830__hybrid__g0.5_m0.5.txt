@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 830 | label: hybrid | g:0.5 m:0.5 ---
+
+sā na cen mṛgaśāvākṣī kim anyāsāṃ kathāvyayaḥ ।
+kalā na yadi śītāṃśor ambare kati tārakāḥ ।।

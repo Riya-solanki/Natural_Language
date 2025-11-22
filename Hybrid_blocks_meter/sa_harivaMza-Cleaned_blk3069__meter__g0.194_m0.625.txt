@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3069 | label: meter | g:0.194 m:0.625 ---
+
+tvayi kāryāntaragate narā iva divaukasaḥ 
+viḍambayantaḥ krīḍanti līlāṃ tvadbalam āśritāḥ ।।

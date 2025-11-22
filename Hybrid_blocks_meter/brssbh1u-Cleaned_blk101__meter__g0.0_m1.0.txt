@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 101 | label: meter | g:0.0 m:1.0 ---
+
+[pratijñāvirodhāt ।]

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1146 | label: grammar | g:0.646 m:0.5 ---
+
+snehena bhaktijñatayā ca kāmaṃ yukto vidhirbhṛtyajane tavāyam । vittena tu pravrajitasya kiṃ me parigrahakleśaparigraheṇa ।।

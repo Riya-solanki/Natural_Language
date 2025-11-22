@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9950 | label: meter | g:0.272 m:0.845 ---
+
+sthāvarāḥ kṛmayaścājāḥ pakṣiṇaḥ paśavo nagaḥ ।
+dhārmikāstridaśāstadvanmokṣiṇaśca yathākramam ।।

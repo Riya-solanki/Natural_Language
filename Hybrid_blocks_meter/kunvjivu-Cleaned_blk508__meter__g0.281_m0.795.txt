@@ -1,0 +1,8 @@
+--- source: kunvjivu-Cleaned.txt | block: 508 | label: meter | g:0.281 m:0.795 ---
+
+asya vaicitryaṃ pūrvamevoditam ।
+etacca kriyāviśeṣaṇaṃ dvayorapi kriyākārakayorvakratvamullāsayati ।
+yasmādvicitrakriyākāritvameva kārakavaicitryam ।
+idamaparaṃ kriyāvaicitryavakratāyāḥ prakārāntaramupacāramanojñatā ।
+upacāraḥ sādṛśyādisamanvayaṃ samāśritya dharmāntarādhyāropastena manojñatā vakratvam ।
+yathā

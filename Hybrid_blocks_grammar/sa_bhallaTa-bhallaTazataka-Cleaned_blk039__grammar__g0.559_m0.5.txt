@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 39 | label: grammar | g:0.559 m:0.5 ---
+
+kiṃ jāto asi catuṣpathe ghanatarachāyo asi kiṃ chāyayā saṃyuktaphalito asi kiṃ phalabharaiḥ pūrṇo asi kiṃ sannataḥ 
+he sadvṛkṣa sahasva samprati sakhe śākhāśikhākarṣaṇakṣobhāmoṭanabhañjanāni janataḥ svarair eva duśceṣṭitaiḥ ।।

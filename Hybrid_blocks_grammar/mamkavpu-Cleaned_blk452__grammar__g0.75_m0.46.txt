@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 452 | label: grammar | g:0.75 m:0.46 ---
+
+saṃkalanena punarasya dhvanestrayo bhedāḥ । vyaṅgyasya trirūpatvāt । tathāhikiñcidvācyatāṃ sahate kiñcittvanyathā । tatra vācyatāsaham avicitraṃ vicitraṃ ceti । avicitraṃ vastumātraṃ vicitraṃ tvalaṅkārarūpam ।
+yadyapi prādhānyena tadalaṅkāryaṃ tathāpi brāhmaṇaśramaṇanyāyena tathocyate । rasādilakṣaṇastvarthaḥ svapne api na vācyaḥ । sa hi rasādiśabdena śṛṅgārādiśabdena vābhidhīyeta । na cābhidhīyate tatprayoge api vibhāvādyaprayoge tasyāpratipattestadaprayoge api vibhāvādiprayoge tasya pratipatteścetyanvayavyatirekābhyāṃ vibhāvādyabhidhānadvāreṇaiva pratīyate iti niścīyate ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6893 | label: meter | g:0.25 m:0.5 ---
+
+sṛṣṭvā tāśca na śakto ahaṃ saṃhartumaparājitaḥ ।
+pūrvaṃ kṛtvā kathaṃ tāsāṃ vināśamabhirocaye ।।

@@ -1,0 +1,9 @@
+--- source: mamkpb_u-Cleaned.txt | block: 349 | label: hybrid | g:0.311 m:0.383 ---
+
+sādhāraṇo dharmaḥ, upameyavākye, upamānavākye ca kathitapadasya duṣṭatayābhihitatvāt śabdabhedena yat upādīyate sā vastuno vākyārthasyopamānatvāt prativastūpamā ।
+yathā devībhāvaṃ gamitā parivārapadaṃ kathaṃ bhajatveṣā ।
+na khalu paribhogayogyaṃ daivatarūpāṅkitaṃ ratnam ।।
+yadi dahatyanalo atra kimadbhutaṃ yadi ca gauravamadriṣu kiṃ tataḥ ।
+lavaṇamambu sadaiva mahodadheḥ prakṛtireva satāmaviṣāditā ।।
+ityādikā mālāprativastūpamā draṣṭavyā ।
+evamanyatrāpyanusartavyam ।।

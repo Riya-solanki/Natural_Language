@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 857 | label: grammar | g:0.583 m:0.5 ---
+
+atra {ekena kiṃ na vihito bhavataḥ sa nāma} iti sāmānyaṃ vācyam ।

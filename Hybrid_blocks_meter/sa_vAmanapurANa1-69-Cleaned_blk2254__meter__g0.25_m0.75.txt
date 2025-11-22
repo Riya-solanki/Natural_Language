@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2254 | label: meter | g:0.25 m:0.75 ---
+
+ityuktā vāsudevena devāḥ keśavamabruvan ।
+vidhānaṃ taptakṛcchrasya kathyatāṃ madhusūdana ।
+yasmiścirṇe kāyaśuddhirbhavate sārvakālikī ।।

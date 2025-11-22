@@ -1,0 +1,6 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1861 | label: meter | g:0.274 m:0.593 ---
+
+oṃ padmasaṃbhava padmahasta sādhu hūṃ । vajravegena cākramya dvitīyaṃ maṇḍalantathā ।
+tatra madhye samālekhyaṃ jaṭāmadhye tathāgataṃ ।।
+tasya pārśveṣu sarveṣu bhṛkuṭyādiprayogataḥ ।
+padmacinhadharā lekhya yathāvadanupūrvaśaḥ ।।

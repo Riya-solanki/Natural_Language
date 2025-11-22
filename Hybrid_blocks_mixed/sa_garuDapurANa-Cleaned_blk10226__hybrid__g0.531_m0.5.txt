@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10226 | label: hybrid | g:0.531 m:0.5 ---
+
+tadā harirjagṛhe laukikaṃ ca tamaḥ pānaṃ tena rūpeṇa cakre ।
+tadrūpamāhuḥ prākṛtaṃ vai tadajñā hyandhaṃ tamaḥ praviśantyeva sarve ।।

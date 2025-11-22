@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 466 | label: meter | g:0.35 m:0.535 ---
+
+tanvaṅgyāḥ stanayugmena mukhaṃ na prakaṭīkṛtam ।
+hārāya guṇine sthānaṃ na dattam iti lajjayā ।।
+bhojyadevasya

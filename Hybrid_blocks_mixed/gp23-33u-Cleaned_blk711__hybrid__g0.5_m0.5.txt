@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 711 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tataś ca satvaraṃ gatvā bhīa-prabhṛtaye dik-sīma-vijaya-yaśāṃsi dattvā bhīma-dvārā jarāsandhaṃ hatvā tat-kṛta-bandhāni nṛpa-vṛndāni mocayitvā vijitena rāja-vrajena yudhiṣṭhiraṃ rocayitvā rājasūyena yājayiṣyasi । tatra jarāsandha-ghātanaṃ, yathā-

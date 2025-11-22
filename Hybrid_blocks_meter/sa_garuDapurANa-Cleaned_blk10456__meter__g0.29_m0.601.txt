@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10456 | label: meter | g:0.29 m:0.601 ---
+
+garuḍa uvāca ।
+tava padoḥ stutiṃ kiṃ karomyahaṃ mama padāṃbuje hyarpitaṃ manaḥ ।
+kathamahaṃ mukhe pakṣiyonijaḥ kathamevaṅguṇā nīḍituṃ kṣamaḥ ।।

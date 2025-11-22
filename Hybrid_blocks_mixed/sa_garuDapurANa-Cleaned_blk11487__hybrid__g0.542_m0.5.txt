@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11487 | label: hybrid | g:0.542 m:0.5 ---
+
+asminsnānaṃ ye prakurvanti tīrthe teṣāṃ jñānaṃ paramaṃ dṛḍhaṃ syāt ।
+atra snāne mānuṣāṇāṃ ca tāta buddhirna hi syātkalikāle viśeṣāt ।।

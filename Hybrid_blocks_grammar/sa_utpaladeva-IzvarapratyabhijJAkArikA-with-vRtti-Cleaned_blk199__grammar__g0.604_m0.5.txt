@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 199 | label: grammar | g:0.604 m:0.5 ---
+
+anekasyānyonyabhedābhāsād deśakramaḥ kriyāmukhena kālakramo api । ekasya tu bhāvasya tattajjanmasattāvipariṇāmādikriyābhedāt kālakrama eva ।।

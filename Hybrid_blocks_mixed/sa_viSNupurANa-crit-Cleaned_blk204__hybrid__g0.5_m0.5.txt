@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 204 | label: hybrid | g:0.5 m:0.5 ---
+
+tathaiva māyayā sarvaṃ tvatto aham iva dṛśyate ।।

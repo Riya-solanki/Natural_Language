@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 20 | label: hybrid | g:0.542 m:0.5 ---
+
+[] sannandaḥ sasmitam uvāca-svayam eva gavāṃ sevanam iti yat ।

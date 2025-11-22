@@ -1,0 +1,39 @@
+--- source: vacbhamu-Cleaned.txt | block: 738 | label: meter | g:0.266 m:0.543 ---
+
+ta indriyāṇi tadvyapadeśādanyatra śreṣṭhāt ।
+mā bhūt prāṇo vṛttirindriyāmām ।
+indriyāṇyevāsya jyeṣṭhasya ca prāṇasya vṛttayo bhaviṣyanti ।
+tadbhāvābhāvānuvidhāyibhāvābhāvatvamindriyāṇāṃ śrutyanubhavasiddhaṃ, tathāca prāṇaśabdasyaikasyānyāṭyamanekārtvaṃ na bhaviṣyati ।
+vṛttīnāṃ vṛttimatastattvāntaratvābhāvāt ।
+tattvāntaratve tvindriyāṇāṃ, prāṇaśabdasyānekārthatvaṃ prasajyeta ।
+indriyeṣu lākṣaṇikatvaṃ vā ।
+naca mukhyasaṃbhave lakṣaṇā yuktā ughanyatvāt ।
+naca bhedena vyapadeśo bhedasādhanam aetasmājjāyate prāṇaḥ' ityādirmanaso apīndriyebhyo asti bhedena vyapadeśa ityanindriyatvaprasaṅgaḥ ।
+smṛtivaśāttu tasyendriyatve indriyāmāmapi prāṇādbhedena vyapadiṣṭānāmapyasti prāṇasvabhāvatve ahanta asyaiva rūpamasāma' iti śrutiḥ ।
+tasmādupapatteḥ śruteśca prāṇasyaiva vṛttasya ekādaśendriyāṇi na tattvāntarāṇīti prāptam ।
+evaṃ prāpta ucyate-mukhyāt prāṇāttattvāntarāṇīndriyāmi, tatra tatra bhedena vyapadeśāt ।
+mṛtyuprāptāprāptatvalakṣaṇaviruddhadharmasaṃsargaśruteḥ ।
+arthakriyābhedācca ।
+dehadhāraṇaṃ hi prāṇasya kriyār'thālocanamanane cendriyāṇām ।
+naca tadbhāvābāvānuvidhānaṃ tadvṛttitāmāvahati ।
+dehena vyabhicārāt ।
+prāṇādayo hi dehānvayavyatirekānuvidhāyino naca dehātmanaḥ ।
+yāpi ca prāṇarūpatāmindriyāṇāmabhidadhāti śrutiḥ, tatrāpi paurvāparyālocanāyāṃ bheda eva pratīyata ityuktaṃ bhāṣyakṛtā ।
+tasmādbahuśrutivirodhāt pūrvāparavirodhācca prāṇarūpatābhidhānamindriyāṇāṃ prāṇāyattatayā bhāktaṃ gamayitavyam ।
+manasastvindriyatve smṛteravagate kkacidindriyebhyo bhedenopādānaṃ gobalīvardanyāyena ।
+athavā indriyāṇāṃ vartamānamātraviṣayatvānmanasastu traikālyagocaratvādbhedenābhidhānam ।
+naca prāṇe bhedavyapadeśabāhulyaṃ tathā netuṃ yuktam ।
+prāṇarūpatāśruteśca gatirdarśitā ।
+tathā jyeṣṭhe prāṇaśabdasya mukhyatvādindriyeṣu tatastattvāntareṣu lākṣaṇikaḥ prāṇaśabda iti yuktam ।
+naca mukhyatvānurodhenāvagatabhedayoraikyaṃ yuktaṃ, mā bhūdgaṅgādīnāṃ tīrādibhiraikyamiti ।
+anye tu bhedaśabdādhyayāhārabhiyā bhedaśruteśceti paunaruktyabhiyā ca tacchabdasya cānantaroktaparamārthakatvādanyathā varṇayāñcakruḥ ।
+kimekādaśaiva vāgādaya indriyāṇyāho prāṇo apīti viśaye indrasyātmano liṅgamindriyaṃ, tathāca vāgādivatprāṇasyāpīndraliṅgamindriyāmiti vāgādivatprāṇo apīndriyamiti prāptam ।
+evaṃ prāpte abhidhīyate-indriyāṇi vāgādini śreṣṭhāt prāṇādanyatra ।
+kutaḥ-tenendriyaśabdena teṣāmeva vāgādīnāṃ vyapadeśāt ।
+nahi mukhye prāṇā indriyaśabdo dṛṣṭacaraḥ ।
+indraliṅgatā tu vyutpattimātranimittaṃ yathā gacchatīti gauriti ।
+pravṛttinimittaṃ tu dehādhiṣṭhānatve sati rūpādyālocanakaraṇatvam ।
+idaṃ cāsya dehādhiṣṭhānatvaṃ yaddehānugrahopaghātābhyāṃ tadanugrahopaghātau ।
+tathāca nālokasyendriyatvaprasaṅgaḥ ।
+tasmādrūḍhervāgādaya evendriyāṇi na prāṇa iti siddham ।
+bāṣyakārīyaṃ tvadhikaraṇaṃ bhedaśruterityādiṣu sūtreṣu neyam ।।

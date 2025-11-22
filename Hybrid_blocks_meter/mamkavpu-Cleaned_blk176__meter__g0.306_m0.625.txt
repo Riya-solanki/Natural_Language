@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 176 | label: meter | g:0.306 m:0.625 ---
+
+vibhāvā anubhāvāstat kathyante vyabhicāriṇaḥ ।
+vyaktaḥ sa tairvibhāvādyaiḥ sthāyī bhāvo rasaḥ smṛtaḥ ।।

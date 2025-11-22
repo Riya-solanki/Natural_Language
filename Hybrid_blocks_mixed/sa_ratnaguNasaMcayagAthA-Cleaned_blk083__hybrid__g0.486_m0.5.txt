@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 83 | label: hybrid | g:0.486 m:0.5 ---
+
+tasmā hu nāmapariṇāmana śikṣitavyā yatha te jinā kuśala eva prajānayanti 
+yajjātiyo ayaṃ prabhavo yadalakṣaṇaṃ ca anumodamī tatha tathā pariṇāmayāmi ।।

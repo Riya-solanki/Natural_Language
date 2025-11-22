@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1733 | label: meter | g:0.194 m:0.5 ---
+
+asya cchāyāṃ samāśritya devā makhamukhe sthitāḥ 
+ājyaṃ maharṣibhir dattam aśnuvanti tridhā hutam ।।

@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 979 | label: meter | g:0.266 m:0.676 ---
+
+atha jaḍatā-
+idam iṣṭam aniṣṭaṃ tad iti vetti na kiñcana ।
+nottaraṃ bhāṣate praśne nekṣate na śṛṇoti ca ।। 
+yatra dhyāyati niḥsaṃjñaṃ jaḍatā sā prakīrtitā ।
+atra sparśānabhijñatvaṃ vaivarṇyaṃ śithilāṅgatā । 
+akāṇḍa-huṅkṛtiḥ stambho niḥśvāsa-kṛśatādayaḥ ।।

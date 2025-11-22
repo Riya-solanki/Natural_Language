@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1574 | label: meter | g:0.328 m:0.595 ---
+
+siddhiḥ svābhāvikī rudra ! varjayitvā tu bhāratam ।
+indradvīpaḥ kaśerumāṃstāmravarṇo gabhastitamān ।।

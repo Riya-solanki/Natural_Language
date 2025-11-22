@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4886 | label: meter | g:0.194 m:0.5 ---
+
+netrayor ākulatvaṃ ca muhuḥ kurvan bhramaṃs tadā 
+saṃhṛṣṭalomā glānākṣaḥ kṣiptacitta iva śvasan ।।

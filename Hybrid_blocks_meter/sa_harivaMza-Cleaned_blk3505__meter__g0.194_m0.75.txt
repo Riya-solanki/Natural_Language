@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3505 | label: meter | g:0.194 m:0.75 ---
+
+prahṛṣṭamuditaṃ sarvam antaḥpuram aśobhata 
+govindāgamane atyarthaṃ yathaivendramahe tathā ।।

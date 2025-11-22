@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3303 | label: meter | g:0.194 m:0.5 ---
+
+sa tasya pramukhe pādaṃ kṛtvā kumbhād anantaram 
+dorbhyāṃ viṣāṇam utpāṭya tenaiva prāharat tadā ।।

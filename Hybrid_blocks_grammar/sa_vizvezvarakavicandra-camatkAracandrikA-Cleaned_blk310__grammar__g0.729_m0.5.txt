@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 310 | label: grammar | g:0.729 m:0.5 ---
+
+atra mandaraḥ samudraṃ vimathya keṣāṃcideva rasanānandakāraṇa mamṛtamutpādayāmāsa । nāyakastu vāhinīṃ vimathya sarvalokaśravaṇānandakāraṇaṃ kīrtirūpamamṛtaṃ dikṣupūrayatīti mandarānnāyakasyādhikyapratipādanāt pratīyamānasya vyatirekasya nātisphuṭatvam ।

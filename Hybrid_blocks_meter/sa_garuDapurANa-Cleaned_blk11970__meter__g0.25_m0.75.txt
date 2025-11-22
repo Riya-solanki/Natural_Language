@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11970 | label: meter | g:0.25 m:0.75 ---
+
+gogrāsamapradātuśca gopuṣṭiṃ cāpyakurvataḥ ।
+gatirnāstyeva nāstyeva grāmacāṇḍālavatsmṛtaḥ ।।

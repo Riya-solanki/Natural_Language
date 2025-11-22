@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 754 | label: meter | g:0.306 m:0.5 ---
+
+nāsti loke raho nāma pāpaṃ karma prakurvataḥ ।
+adṛśyāni hi paśyanti nanu bhūtāni mānuṣān ।।

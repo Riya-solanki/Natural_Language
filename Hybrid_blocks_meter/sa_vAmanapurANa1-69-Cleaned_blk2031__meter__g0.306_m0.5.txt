@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2031 | label: meter | g:0.306 m:0.5 ---
+
+sunābhamabhyetya himācalastu pragṛhya haste anyata eva nītavān ।
+hariḥ kumāraṃ saśikhaṇḍinaṃ nayadvegāddivaṃ pannagaśatrupatraḥ ।।

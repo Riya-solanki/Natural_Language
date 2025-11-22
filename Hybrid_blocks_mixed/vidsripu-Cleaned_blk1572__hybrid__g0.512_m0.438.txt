@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1572 | label: hybrid | g:0.512 m:0.438 ---
+
+kapolebhyo baddhaḥ katham akhilaviśvaprabhur asāv anāryair asmābhiḥ param iyam apūrvaiva racanā ।
+yad indoḥ pīyūṣadravamayamayūkhotkarakiraḥ kalaṅko ratnaṃ tu pratiphaṇam anarghaṃ viṣabhṛtām ।।
+vittokasya

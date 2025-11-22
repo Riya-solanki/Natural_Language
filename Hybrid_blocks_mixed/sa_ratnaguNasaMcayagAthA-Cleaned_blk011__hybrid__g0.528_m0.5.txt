@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 11 | label: hybrid | g:0.528 m:0.5 ---
+
+na ca rupa vedana na saṃjña na cetanā ca vijñāna sthānu aṇumātra na bhonti tasya 
+so sarvadharmaasthito aniketacārī aparī gṛhīta labhate sugatāna bodhim ।।

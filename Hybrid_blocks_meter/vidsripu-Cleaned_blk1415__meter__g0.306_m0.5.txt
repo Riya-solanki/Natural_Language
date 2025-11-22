@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1415 | label: meter | g:0.306 m:0.5 ---
+
+puṃsaḥ svarūpavinirūpaṇam eva kāryaṃ tajjanmabhūmiguṇadoṣakathā vṛthaiva ।
+kaḥ kālakūṭam abhinandati sāgarotthaṃ ko vāravindam abhinindati paṅkajātam ।।

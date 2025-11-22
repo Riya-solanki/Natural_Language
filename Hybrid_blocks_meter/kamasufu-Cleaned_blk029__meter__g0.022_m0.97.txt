@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 29 | label: meter | g:0.022 m:0.97 ---
+
+pañcamo adhyāyaḥ
+prakaraṇa

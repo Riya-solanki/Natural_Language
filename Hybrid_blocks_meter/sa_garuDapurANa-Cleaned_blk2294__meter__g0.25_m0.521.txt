@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2294 | label: meter | g:0.25 m:0.521 ---
+
+dakṣiṇe mānase śrāddhī brahmalokaṃ pitṝnnayet ।
+svagadvāre naraḥ śrāddhī brahmalokaṃ nayetpitṝn ।
+bhīṣmatarpaṇakṛttasya kūṭe tārayate pitṝn ।
+gṛdhreśvare tathā śrāddhī pitṝṇāmanṛṇo bhavet ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1615 | label: grammar | g:0.75 m:0.5 ---
+
+śakuntalā-tumhe avedha । kiṃ bi hiae karia matedha । ṇa bo baaṇaṃ suṇissaṃ । atra sābhiprāya-gūḍhārthatayā tad idam udāharaṇam ।

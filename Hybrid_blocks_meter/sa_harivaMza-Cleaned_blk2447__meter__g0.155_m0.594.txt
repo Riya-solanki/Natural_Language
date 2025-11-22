@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2447 | label: meter | g:0.155 m:0.594 ---
+
+gopaveṇuṃ sumadhuraṃ kāmāt tam api vādayan 
+prahlādanārthaṃ ca gavāṃ kvacid vanagato yuvā 
+gokule ambudharaśyāmaś cacāra dyutimān prabhuḥ ।। 
+govardhanasya ca gireḥ parṇavādyaṃ śruteḥ sukham । 
+reme ca tatra ramyāsu citrāsu vanarājiṣu 
+mayūraravaghuṣṭāsu madanoddīpanīṣu ca 
+meghanādaprativyūhair nāditāsu samantataḥ ।।

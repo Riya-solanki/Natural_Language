@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 690 | label: hybrid | g:0.521 m:0.5 ---
+
+oṃ āṃ hṛdarkāya ca śiraḥ śikhā ca bhūrbhuvaḥ svarom ।
+jvālinīṃ hraṃ kavacasya cāstraṃ rājñāṃ ca dīkṣitām ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4978 | label: meter | g:0.102 m:0.5 ---
+
+tāṃs tu prajvalato dṛṣṭvā varuṇo vākyam abravīt 
+smara tāṃ prakṛtiṃ pūrvām avyaktāṃ vyaktalakṣaṇāṃ 
+tamo jahi mahābhāga rajasā muhyase katham ।।

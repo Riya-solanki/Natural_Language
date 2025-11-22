@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 109 | label: meter | g:0.306 m:0.5 ---
+
+ye śuddhacittāḥ stutim ācaranti gadyātmikāṃ padyamayīṃ vicitrām ।
+te śabdasaṃghān bahuvādyajātān śṛṇvanti gītān surabhāminīnām ।।

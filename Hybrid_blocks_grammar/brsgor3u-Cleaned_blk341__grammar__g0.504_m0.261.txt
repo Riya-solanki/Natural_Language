@@ -1,0 +1,7 @@
+--- source: brsgor3u-Cleaned.txt | block: 341 | label: grammar | g:0.504 m:0.261 ---
+
+evamādyādhikaraṇaprameyaṃ vidyāsvātantryamadhikaraṇatrayeṇa dṛḍhīkṛtyādyādhikaraṇasya phalamāha-ata eva ceti ।
+brahmavidyā svaphale mokṣe janayitavye sahakāritvena karmāṇyapekṣate na veti vādivivādātsaṃśaye tenaiti brahmavitpuṇyakṛttaijasa ityādiśrutyā jñānakarmasamuccayena mokṣaprāptikathanādapekṣata iti prāpte vidyāyā muktihetutvādavidyānivṛttyākhyamuktau na karmāpekṣeti siddhāntayati-puruṣārtha iti ।
+agnīndhanapadena tatsādhyakarmāṇi lakṣyante ।
+puṇyakṛttaijasaḥ śuddhasatve brahmavidbhūtvā tena vedanenaiti brahma prāpnotīti śrutirvyākhyeyeti bhāvaḥ ।
+muktāveva karmaṇāmasāmarthyādanapekṣā vidyāyāṃ tvasti cittaśuddhidvārā teṣāmapekṣetyadhikaṃ vaktumayamupasaṃhāra ityupasaṃhārasūtrasya phalamāha-adhiketi ।।

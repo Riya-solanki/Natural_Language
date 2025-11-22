@@ -1,0 +1,4 @@
+--- source: ttssarvu-Cleaned.txt | block: 67 | label: hybrid | g:0.542 m:0.5 ---
+
+ekasmiṃstriguṇātmatattvayutito jātā dvidhā sāpyato dvitvaṃ prāpya prakāśayatyavirataṃ bhogāpavargau svataḥ ।
+ityevaṃ parisūcayan matimatāṃ mohāpahaṃ kāpilaṃ sūtrāṇāmamalaṃ dvikadvayamidaṃ jīyācciraṃ cetasi ।।

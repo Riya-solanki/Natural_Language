@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 810 | label: grammar | g:0.656 m:0.5 ---
+
+raktas tvaṃ navapallavair aham api ślāghyaiḥ priyāyā guṇais tvām āyānti śilīmukhāḥ smaradhanurmuktās tathā mām api ।
+kāntāpādatalāhatis tava mude satyaṃ mamāpy āvayoḥ sarvaṃ tulyam aśoka kevalam ahaṃ dhātrā saśokaḥ kṛtaḥ ।।

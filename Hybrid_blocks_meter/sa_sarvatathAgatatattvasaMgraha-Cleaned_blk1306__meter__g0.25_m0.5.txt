@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1306 | label: meter | g:0.25 m:0.5 ---
+
+hṛdisthā valitā pārśve vāṇākarṣā tu vāmataḥ ।
+hṛdayācca samuddhāntā bhṛkuṭiḥ parivartya vai ।।

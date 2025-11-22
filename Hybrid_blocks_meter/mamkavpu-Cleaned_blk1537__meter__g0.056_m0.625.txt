@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1537 | label: meter | g:0.056 m:0.625 ---
+
+{kiṃ bhūṣaṇaṃ sudṛḍhamatra yaśo na ratnaṃ
+kiṃ kāryamāryacaritaṃ sukṛtaṃ na doṣaḥ ।
+kiṃ cakṣurapratihataṃ dhiṣaṇā na netraṃ
+jānāti kastvadadaparaḥ sadasadvivekam ।।}

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3154 | label: meter | g:0.194 m:0.625 ---
+
+bhogodarāsane śubhre svena dehena kalpite 
+svāsīnaṃ svastikābhyāṃ ca varābhyāṃ ca mahīdharam ।।

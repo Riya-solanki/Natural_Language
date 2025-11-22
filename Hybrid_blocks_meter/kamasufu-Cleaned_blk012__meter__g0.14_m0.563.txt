@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 12 | label: meter | g:0.14 m:0.563 ---
+
+atha nāyaka-sahāya-dūta-karma-vimarśa-nāmakaḥ pañcamo adhyāyaḥ
+prakaraṇa

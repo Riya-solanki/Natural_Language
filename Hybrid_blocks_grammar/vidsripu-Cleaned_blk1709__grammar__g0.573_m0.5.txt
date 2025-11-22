@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1709 | label: grammar | g:0.573 m:0.5 ---
+
+śiśutvaṃ tāruṇyaṃ tadanu ca dadhānāḥ pariṇatiṃ gatāḥ pāṃśukrīḍāṃ viṣayaparipāṭīm upaśamam ।
+lasanto aṅke mātuḥ kuvalayadṛśāṃ puṇyasaritāṃ pibanti svacchandaṃ stanam adharam ambhaḥ sukṛtinaḥ ।।

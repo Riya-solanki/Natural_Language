@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 799 | label: meter | g:0.25 m:0.625 ---
+
+ityevamuktvā sahasā tiro abhūdvimarśavānityahamabhyupetaḥ ।
+taccettathā deva kimetadevamasmāsu te niṣpraṇayatvamaunam ।।

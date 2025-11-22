@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4587 | label: meter | g:0.25 m:0.5 ---
+
+doṣaiḥ pṛthaksamuditaiḥ śoṇitena stratena ca ।
+vahate tatra tatrāṅge dāruṇe grathito astrutaḥ ।।

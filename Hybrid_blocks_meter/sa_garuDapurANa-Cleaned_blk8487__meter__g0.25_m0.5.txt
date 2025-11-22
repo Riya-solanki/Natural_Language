@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8487 | label: meter | g:0.25 m:0.5 ---
+
+tṛtīye māsi samprāpte gandharvanagaraṃ śubham ।
+tṛtīyaṃ māsikaṃ bhuktvā tatra gacchatyasau puraḥ ।।

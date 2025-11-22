@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5616 | label: meter | g:0.25 m:0.695 ---
+
+devadārośca vai cūrṇaṃ ajāmatreṇa bhāvayet ।
+ekaviṃśativāraṃvaitvakṣiṇī tena cāñjayet ।
+rātryandhatā paṭalatā naśyennirlomatā tathā ।।

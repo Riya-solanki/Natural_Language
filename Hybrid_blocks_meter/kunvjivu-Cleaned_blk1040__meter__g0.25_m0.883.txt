@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 1040 | label: meter | g:0.25 m:0.883 ---
+
+ityantaraślokaḥ ।
+evaṃ guṇabhūtādapi svarūpotkarṣamāhātmyādalaṅkārasāmānyasvabhāvāt ।
+kāṃścidalaṅkārānamidhāyedānīṃ vibhūṣaṇatvādeva tathavidhān guṇabhūtānupakramate ।
+tatra dṛṣṭāntaṃ tāvadabhidhatte

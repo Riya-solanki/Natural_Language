@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1073 | label: grammar | g:0.557 m:0.421 ---
+
+tvaṃ kāmboja virājase bhuvi bhavattāto divi bhrājate tattātas tu vibhūṣaṇaḥ sa kim api brahmaukasi dyotate ।
+yuṣmābhis tribhir ebhir arpitatanus tvatkīrtir ujjṛmbhiṇī māṇikyastabakatrayapraṇayinīṃ hārasya dhatte śriyam ।।
+vasukalpasya

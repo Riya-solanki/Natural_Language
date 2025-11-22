@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2279 | label: meter | g:0.306 m:0.625 ---
+
+dharmāraṇyaṃ dharmamīśaṃ dṛṣṭvā syādṛṇanāśanam ।
+devaṃ gṛdhreśvaraṃ dṛṣṭvā ko na mucyeta bandhanāt ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11180 | label: meter | g:0.306 m:0.5 ---
+
+śālagrāmasparśanaṃ durlabhaṃ ca sadvaiṣṇavānāṃ darśanaṃ durlabhaṃ hi ।
+gosparśanaṃ durlabhaṃ martyaloke sadgāyanaṃ durlabhaṃ sadguruñca ।।

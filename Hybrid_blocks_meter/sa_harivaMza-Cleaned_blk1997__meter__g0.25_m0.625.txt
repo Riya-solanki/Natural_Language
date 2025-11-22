@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1997 | label: meter | g:0.25 m:0.625 ---
+
+dhṛtarāṣṭrasya rājñas tu bhāryaikā tulyacāriṇī 
+gāndhārī bhuvi vikhyātā bhartur nityaṃ vrate sthitā ।।

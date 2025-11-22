@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2767 | label: meter | g:0.194 m:0.5 ---
+
+ekas tvam asi lokānāṃ devānāṃ ca sanātanaḥ 
+dvitīyaṃ nānupaśyāmi dhuraṃ yas te samudvahet ।।

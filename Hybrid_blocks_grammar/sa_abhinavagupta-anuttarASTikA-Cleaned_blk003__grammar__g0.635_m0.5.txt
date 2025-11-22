@@ -1,0 +1,4 @@
+--- source: sa_abhinavagupta-anuttarASTikA-Cleaned.txt | block: 3 | label: grammar | g:0.635 m:0.5 ---
+
+saṃsāro asti na tattvatas tanubhṛtāṃ bandhasya vārtaiva kā bandho yasya na jātu tasya vitathā muktasya muktikriyā ।
+mithyāmohakṛd eṣa rajjubhujagacchāyāpiśācabhramo mā kiṃcit tyaja mā gṛhāṇa vihara svastho yathāvasthitaḥ ।।

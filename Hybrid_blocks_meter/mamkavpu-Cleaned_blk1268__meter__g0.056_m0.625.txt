@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1268 | label: meter | g:0.056 m:0.625 ---
+
+{asyāḥ sargavidhau prajāpatirabhūccandro nu kāntipradaḥ
+śṛṅgāraikarasaḥ svayaṃ nu madano māso nu puṣpākaraḥ ।
+vedābhyāsajaḍaḥ kathaṃ nu viṣayavyāvṛttakautūhalo
+nirmātuṃ prabhavenmanoharamidaṃ rūpaṃ purāṇo muniḥ ।।}

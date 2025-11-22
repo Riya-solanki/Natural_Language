@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 573 | label: meter | g:0.246 m:0.806 ---
+
+nyāsamātraṃ samākhyātaṃ ṣoḍhādvādaśabhedataḥ 
+ṣoḍhā śaktiḥ samākhyātā parā caivākṣarā śubhā ।।

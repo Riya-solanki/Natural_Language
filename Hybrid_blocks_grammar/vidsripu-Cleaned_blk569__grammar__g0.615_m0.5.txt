@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 569 | label: grammar | g:0.615 m:0.5 ---
+
+vilimpaty etasmin malayajarasādreṇa mahasā diśāṃ cakraṃ candre sukṛtamaya tasyā mṛgadṛśaḥ ।
+dṛśor bāṣpaḥ pāṇau vadanam asavaḥ kaṇṭhakuhare hṛdi tvaṃ hrīḥ pṛṣṭhe vacasi ca guṇā eva bhavataḥ ।।

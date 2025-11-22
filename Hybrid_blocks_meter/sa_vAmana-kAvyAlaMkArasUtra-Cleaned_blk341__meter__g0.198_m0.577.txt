@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 341 | label: meter | g:0.198 m:0.577 ---
+
+rūpakācchleṣasya bhedaṃ darśayitumāha 
+sa dharmeṣu tantraprayoge śleṣaḥ ।।
+upamānenopameyasya dharmeṣu guṇakriyāśabdarūpeṣu sa tattvāropaḥ । tantraprayoge tantreṇoccāraṇe sati śleṣaḥ । yathā

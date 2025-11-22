@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 195 | label: meter | g:0.339 m:0.613 ---
+
+yathā-
+aṅgeṣu sphaṭikādarśa-darśanīyeṣu jṛmbhate ।
+amalā komalā kāntir jyotsneva pratibimbitā ।।

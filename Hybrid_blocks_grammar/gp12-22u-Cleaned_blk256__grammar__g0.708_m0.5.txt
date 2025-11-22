@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 256 | label: grammar | g:0.708 m:0.5 ---
+
+[] atha, yadyapy adhunā yajña-sūtram alabdhavatas tasya na vivāhāvasaraḥ sambhavati, tathāpi sajjana-samājñām ācārya bhāṣā-bandhaś ca sandhātavya iti ।

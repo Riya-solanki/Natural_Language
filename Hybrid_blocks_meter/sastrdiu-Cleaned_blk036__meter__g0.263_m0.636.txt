@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 36 | label: meter | g:0.263 m:0.636 ---
+
+yadi paramadhyāpanasyādhyayanamantareṇāsaṃbhavāttadarthādhyayanamākṣipyate, tathāsatyavihitena laukikenādhyayanena tatsaṃbhavānna vihitasyādhyayanasya niyogatastatprayuktiḥ ।
+naca prayuktilāghavādapi vihitopajīvanam ।
+tadupajīvane api prayuktyanavalopāt ।
+vihitamapyadhyayanamadhyāpanavidhinaiva tvanmate prayujyate na svavidhinā ।
+tasmāllaukikamevādhyayanamupanītānāmadhyāpanavidhirākṣipet ।
+vidhivihitamadhyayanaṃ paraprayuktyabhāvādadhikāraṃ prakalpayet ।।

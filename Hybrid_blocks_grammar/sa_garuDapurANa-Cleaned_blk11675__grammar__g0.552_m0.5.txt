@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11675 | label: grammar | g:0.552 m:0.5 ---
+
+pūjāṃ kṛtvā bhūvarāhasya marterdānaṃ dattvā śravaṇaṃ cāpi kṛtvā ।
+tatra sthitaṃ bhūvarāhaṃ ca dṛṣṭvā sa vai naraḥ kṛtakṛtyo hi loke ।।

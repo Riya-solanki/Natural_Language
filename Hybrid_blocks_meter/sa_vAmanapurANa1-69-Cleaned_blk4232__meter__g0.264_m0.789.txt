@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4232 | label: meter | g:0.264 m:0.789 ---
+
+śukra uvāca ।
+kathayasva mahābāho kośakārasutāśrayām ।
+kathāṃ paurāṇikīṃ puṇyāṃ mahākautūhalaṃ hi me ।।

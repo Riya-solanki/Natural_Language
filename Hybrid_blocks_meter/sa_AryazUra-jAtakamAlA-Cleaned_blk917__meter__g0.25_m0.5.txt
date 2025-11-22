@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 917 | label: meter | g:0.25 m:0.5 ---
+
+apayānakramo nāsti netāpyanyatra ko bhavet ।
+asmadvyasanasaṃkṛṣṭāḥ samāyānti ca no dviṣaḥ ।।

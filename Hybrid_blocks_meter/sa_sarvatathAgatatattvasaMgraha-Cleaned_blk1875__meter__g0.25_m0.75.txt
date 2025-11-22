@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1875 | label: meter | g:0.25 m:0.75 ---
+
+tasya pārśveṣu sarveṣu vajranṛtyādiyogataḥ ।
+padmacinhadharā lekhyā mahāsatvā yathāvidhi ।।

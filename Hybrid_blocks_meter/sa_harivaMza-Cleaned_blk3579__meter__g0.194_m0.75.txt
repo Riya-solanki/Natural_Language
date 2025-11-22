@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3579 | label: meter | g:0.194 m:0.75 ---
+
+catvāry etāni tejāṃsi viṣṇupraharaṇāni ca 
+tābhyāṃ samavatīrṇāni yādavābhyāṃ mahāraṇe ।।

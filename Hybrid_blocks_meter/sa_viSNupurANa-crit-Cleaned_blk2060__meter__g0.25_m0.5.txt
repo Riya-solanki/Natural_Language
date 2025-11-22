@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2060 | label: meter | g:0.25 m:0.5 ---
+
+dṛṣṭasūryaṃ hi yad vāri pataty abhrair vinā divaḥ 
+ākāśagaṅgāsalilaṃ tad gobhiḥ kṣipyate raveḥ ।।

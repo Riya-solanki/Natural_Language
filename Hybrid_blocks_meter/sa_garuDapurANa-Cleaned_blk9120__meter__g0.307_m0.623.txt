@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9120 | label: meter | g:0.307 m:0.623 ---
+
+viṣṇurmātā pitā viṣṇurviṣṇuḥ svajanabāndhavāḥ ।
+yatra viṣṇuṃ na paśyāmi tena vāsena kiṃ mama ।।

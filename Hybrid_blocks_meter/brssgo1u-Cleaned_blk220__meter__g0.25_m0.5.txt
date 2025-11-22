@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 220 | label: meter | g:0.25 m:0.5 ---
+
+ayamānandamayo brahmarasaṃ labdhvānandī bhavatīti bhedokteśca tasyāpratipādyatetyarthaḥ ।
+ānandamayo brahma, taittarīyakapañcamasthānasthatvāt bhṛguvallisthānandavadityāśaṅkyāha-kāmācca nānumānāpekṣā ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1780 | label: hybrid | g:0.258 m:0.481 ---
+
+tadāgacchasva bhadraṃ te gacchāma divam uttamam 
+brahmarṣayas tvāṃ tatrasthāḥ pratīkṣante sadogatāḥ ।। 
+ahaṃ maharṣayaś caiva tatra tvāṃ vadatāṃ vara । vidhivac cārcayiṣyanti gīrbhir divyābhir acyuta । 
+kiṃ cāhaṃ tava dāsyāmi varaṃ varabhṛtāṃ vara 
+sureṣv api sadaityeṣu varāṇāṃ varado bhavān ।।

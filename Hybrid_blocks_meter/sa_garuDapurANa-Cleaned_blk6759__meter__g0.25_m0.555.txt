@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6759 | label: meter | g:0.25 m:0.555 ---
+
+tasmai deyaṃ tato grāhyaṃ sa ca pūjyo yathā hariḥ ।
+smṛtaḥ saṃbhāṣito vāpi pūjito vā dvijottamaḥ ।
+punāti bhagavadbhaktaścaṇḍālo api yadṛcchayā ।।

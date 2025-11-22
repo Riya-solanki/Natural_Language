@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 245 | label: meter | g:0.305 m:0.747 ---
+
+na ।
+avidyāpratyupasthāpitanāmarūpamāyāveśavaśenāsakṛtpratyuktatvāt ।
+tasmātsaṃbhavati pravṛttiḥ sarvajñakāraṇatve natvacetanakāraṇatve ।।

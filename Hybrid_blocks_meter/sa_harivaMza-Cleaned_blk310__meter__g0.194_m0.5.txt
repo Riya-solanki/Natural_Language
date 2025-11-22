@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 310 | label: meter | g:0.194 m:0.5 ---
+
+ṛṣayo atra mayā proktāḥ kīrtyamānān nibodha me 
+auttameyān mahārāja daśa putrān manoramān ।।

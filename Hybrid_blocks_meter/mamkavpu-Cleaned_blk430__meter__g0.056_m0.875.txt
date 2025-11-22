@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 430 | label: meter | g:0.056 m:0.875 ---
+
+{āgatya saṃprati viyogavisaṃṣṭhulāṅgī
+mambhojinīṃ kvacidapi kṣapitatriyāmaḥ ।
+etāṃ prasādayati paśya śanaiḥ prabhāte
+tanvaṅgi pādapatanena sahasraraśmiḥ ।। }

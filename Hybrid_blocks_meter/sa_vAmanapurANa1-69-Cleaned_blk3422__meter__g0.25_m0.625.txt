@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3422 | label: meter | g:0.25 m:0.625 ---
+
+jānannapi priyataraṃ prāṇebhyo api hariṃ mam ।
+sarveśvareśvaraṃ devaṃ kathaṃ ninditavānasi ।।

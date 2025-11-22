@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1955 | label: meter | g:0.194 m:0.625 ---
+
+tasmād dīrgheṇa kālena bhūmim alpāṃ tu gacchati 
+aṣṭādaśamuhūrtaṃ yad uttarāyaṇapaścimam ।।

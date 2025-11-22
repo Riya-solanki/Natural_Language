@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 87 | label: meter | g:0.25 m:0.573 ---
+
+avidyāvatpuruṣaviṣayatvaṃ nātivartata iti yaduktaṃ tadeva sphuṭayati- tathā hi iti ।
+varṇādhyāsaḥ arājā rājasūyena yajeta' ityādiḥ ।
+āśramādhyāsaḥ agṛhasthaḥ sadṛśīṃ bhāryāṃ vindeta' ityādiḥ ।
+vayo adhyāsaḥ akṛṣṇakeśo agnīnādadhīta' ityādiḥ ।
+avasthādhyāsaḥ aapratisamādheyavyādhīnāṃ jalādipraveśena prāṇatyāgaḥ' ityādiḥ ।
+ādigrahaṇaṃ pātakopapātakasaṃkarīkaraṇāpātrīkaraṇamalinīkaraṇādyadhyāsopasaṃgrahārtham ।

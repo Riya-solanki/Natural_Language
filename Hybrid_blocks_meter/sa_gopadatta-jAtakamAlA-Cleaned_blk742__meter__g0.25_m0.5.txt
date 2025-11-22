@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 742 | label: meter | g:0.25 m:0.5 ---
+
+sukhaduḥkhayor aviṣamapravṛttayo nṛpa yena tena parituṣṭamānasāḥ ।
+satataṃ mṛgā iva nisargatāpasā viharanty anāvṛtavihāragocarāḥ ।।

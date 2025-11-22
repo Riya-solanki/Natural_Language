@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 570 | label: grammar | g:0.575 m:0.195 ---
+
+[] madhukaṇṭha sahāsam uvāca- tataḥ sa tu svamātuḥ sākṣāt tasyās tādṛśa-bhṛśa-durnaya-darśanād upajātena tat-prāṇān pibatā roṣa-tejaḥ-saṅghātena tat-stanyasya ca doṣaṃ śoṣayan mātṛ-bhāvābhāsa-sphurad-ullāsa-sva-sparśa-svābhāvyena tu tad-dehe sugandhitā-sugandhitām iva tat-stanye pīyūṣatāṃ rūṣayaṃs cūṣaṇaṃ cakāra ।
+kṛṣṇena pūtanā-stanya-pānam itthaṃ virocate ।
+yathā gaṅgā-pravāheṇa karmanāśā-jalāhṛtiḥ ।। [anuṣṭubh]

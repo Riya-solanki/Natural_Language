@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1100 | label: meter | g:0.0 m:1.0 ---
+
+[] ramaṇaṃ yathā-

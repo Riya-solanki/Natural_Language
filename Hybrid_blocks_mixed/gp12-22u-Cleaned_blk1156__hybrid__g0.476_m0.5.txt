@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1156 | label: hybrid | g:0.476 m:0.5 ---
+
+ṛturājaḥ praṇāyyo' yaṃ nyāyyam atra na vidyati ।
+prapalāyya kva vā yāmaḥ śyāmaṃ naḥ sa tu karṣati ।। [anuṣṭubh]

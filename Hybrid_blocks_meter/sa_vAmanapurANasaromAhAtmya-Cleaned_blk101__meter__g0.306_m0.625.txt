@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 101 | label: meter | g:0.306 m:0.625 ---
+
+brahmacaryeṇa maunena sthānavīrāsanena ca ।
+krameṇa ca surāḥ sarve tapa ugraṃ samāsthitāḥ ।।

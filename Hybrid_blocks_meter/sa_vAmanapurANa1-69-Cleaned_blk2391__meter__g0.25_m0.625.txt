@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2391 | label: meter | g:0.25 m:0.625 ---
+
+iti saṃcintayanneva samādravat sungadarīm ।
+sā tad bhayācca nyapatannadīṃ caiva hiraṇvatīm ।।

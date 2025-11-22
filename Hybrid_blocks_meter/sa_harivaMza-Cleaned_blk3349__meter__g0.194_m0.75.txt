@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3349 | label: meter | g:0.194 m:0.75 ---
+
+saṃkarṣaṇas tu suciraṃ yodhayitvā mahābalaḥ 
+andhramallaṃ mahāmallo maṇḍalāni vidarśayan ।।

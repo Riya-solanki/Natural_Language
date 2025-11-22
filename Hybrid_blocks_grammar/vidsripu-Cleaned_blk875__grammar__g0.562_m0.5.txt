@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 875 | label: grammar | g:0.562 m:0.5 ---
+
+kṛtvā nūpuramūkatāṃ caraṇayoḥ saṃyamya nīvīmaṇīn uddāmadhvanipiṇḍitān parijane kiṃcic ca nidrāyite ।
+kasmai kupyasi yāvad asmi calitā tāvad vidhipreritaḥ kāśmīrīkucakumbhasambhramaharaḥ śītāṃśur abhyudyataḥ ।।

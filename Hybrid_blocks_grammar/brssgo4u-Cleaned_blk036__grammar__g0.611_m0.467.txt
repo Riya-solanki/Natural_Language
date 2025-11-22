@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 36 | label: grammar | g:0.611 m:0.467 ---
+
+nanu aham īśvara eva uktaḥ śrutyā, yadi evaṃ pratibuddhaḥ asi na asti kasyacit aprabodhaḥ ।
+yaḥ api doṣaḥ codyate kaiścit avidyā kila ātmanaḥ sadvitīyatvāt advaita anupapattiḥ iti saḥ api etena pratyuktaḥ ।
+tasmāt ātma iti eva īśvare mano dadhīta ।।

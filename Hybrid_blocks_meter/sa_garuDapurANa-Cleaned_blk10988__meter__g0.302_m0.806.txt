@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10988 | label: meter | g:0.302 m:0.806 ---
+
+śukraśoṇitasaṃbandho hyavatāracatuṣṭaye ।
+nāsti nāstyeva pakṣīndra yato nāstyaśubhaṃ tataḥ ।।

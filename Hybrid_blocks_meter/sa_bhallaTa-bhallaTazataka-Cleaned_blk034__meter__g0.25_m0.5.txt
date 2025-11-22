@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 34 | label: meter | g:0.25 m:0.5 ---
+
+candane viṣadharān sahāmahe vastu sundaram aguptimatkṛtaḥ 
+rakṣituṃ vada kim ātmagauravaṃ sañcitāḥ khadira kaṇṭakās tvayā ।।

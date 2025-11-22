@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3656 | label: meter | g:0.25 m:0.75 ---
+
+nāmāṣṭaśatakaṃśca tadyaḥ kaścicchṛṇuyā sakṛt ।
+paṭhedvā bhāvayedvāpi [sarvo buddhatvamāpnuyāt ।।

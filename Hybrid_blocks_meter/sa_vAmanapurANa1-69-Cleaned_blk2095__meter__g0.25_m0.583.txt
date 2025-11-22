@@ -1,0 +1,7 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2095 | label: meter | g:0.25 m:0.583 ---
+
+tato haro varaṃ prādāt kedārāya vṛṣadhvajaḥ ।
+puṇyavṛddhikaraṃ brahman pāpaghnaṃ mokṣasādhanam ।।
+ye jalaṃ tāvake tīrthe pītvā saṃyamino narāḥ ।।
+ṣaṇmāsād dhārayiṣnti nivṛttāḥ parapākataḥ ।
+teṣāṃ hṛtpaṅkajeṣveva malliṅgaṃ bhavitā dhruvam ।।

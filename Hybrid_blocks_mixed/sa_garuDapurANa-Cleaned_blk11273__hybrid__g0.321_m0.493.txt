@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11273 | label: hybrid | g:0.321 m:0.493 ---
+
+aṣṭākṣarīpūjayā divyatīrthairviṣṇoḥ purā bhrāmitaiḥ śaṅkhatīrthaiḥ ।
+na pāvitaṃ maccharīraṃ murāre kadā drakṣye tava va ktraṃ mukunda ।।

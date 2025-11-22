@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 999 | label: hybrid | g:0.521 m:0.5 ---
+
+yathā tvaśūnyaṃ tava deva talpaṃ samaṃ hi lakṣmyā varadācyuteśa ।
+satyena tenāmitavīrya viṣṇo gārhasthyanāśo mama nāstu deva ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 780 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ pūrvaṃ jagannāthād devadevāj janārdanāt 
+varaṃ prāpya dhruvaṃ sthānam adhyāste sa mahāmatiḥ ।।

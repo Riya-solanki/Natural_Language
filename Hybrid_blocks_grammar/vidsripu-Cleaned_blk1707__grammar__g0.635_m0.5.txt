@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1707 | label: grammar | g:0.635 m:0.5 ---
+
+etat tad vaktram atra kva tad adharamadhu kvāyātās te kaṭākṣāḥ kvālāpāḥ komalās te kva sa madanadhanurbhaṅguro bhrūvilāsaḥ ।
+itthaṃ khaṭvāṅgakoṭau prakaṭitadaśanaṃ mañjuguñjatsamīraṃ rāgāndhānām ivoccair upahasitam aho mohajālaṃ kapālam ।।

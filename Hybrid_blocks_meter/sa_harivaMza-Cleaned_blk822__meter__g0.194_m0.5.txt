@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 822 | label: meter | g:0.194 m:0.5 ---
+
+evam etat purā gītaṃ mārkaṇḍeyena dhīmatā 
+śrāddhasya phalam uddiśya somasyāpyāyanāya vai ।।

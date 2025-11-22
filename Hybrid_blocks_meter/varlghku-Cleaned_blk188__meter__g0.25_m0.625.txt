@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 188 | label: meter | g:0.25 m:0.625 ---
+
+apṛkta ekāl pratyayaḥ ।।
+ekāl pratyayo yaḥ so apṛktasaṃjñaḥ syāt ।।

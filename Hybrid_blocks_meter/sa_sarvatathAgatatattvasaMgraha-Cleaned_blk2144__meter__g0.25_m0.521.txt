@@ -1,0 +1,6 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2144 | label: meter | g:0.25 m:0.521 ---
+
+ākāśe vānyadeśe va padmabimbaṃ tu bhāvayet ।
+anena vidhinā siddho adṛśyo bhavati kṣaṇāt ।।
+ākāśe vānyadeśe vā padmabimbaṃ tu bhāvayet ।
+tatrārūḍhaḥ svamātmānaṃ bhāvayannadṛśyo bhavet ।।

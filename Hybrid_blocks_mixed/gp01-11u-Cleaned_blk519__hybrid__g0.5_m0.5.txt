@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 519 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha vrajarāja sāsram uvāca-"āḥ katham etad durakṣara-mrakṣitam anakṣaram asmāsu śrāvitam? bhavatv, adyāpy avadyam idaṃ madīya-saṃstyāye na prastāvyam । sā tu tad-duḥkha-duḥkhitā śrī-devakī-sakhī tathā tad-virahiṇī śrī-rohinī ca moham āpsyati ।"

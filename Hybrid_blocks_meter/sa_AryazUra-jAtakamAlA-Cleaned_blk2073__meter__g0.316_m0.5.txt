@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2073 | label: meter | g:0.316 m:0.5 ---
+
+rathā nṛpāṇāṃ maṇihemabhūṣaṇā vrajanti dehāśca jarāvirūpatām ।
+satāṃ tu dharmaṃ na jarābhivartate sthirānurāgā hi guṇeṣu sādhavaḥ ।।

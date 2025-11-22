@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 527 | label: grammar | g:0.604 m:0.5 ---
+
+atha svaprakāśatvamātmanaḥ sukhādīnāṃ ca kiṃ neṣyate, svaprakāśasya kasyacidapyadarśanāt sarvasyaiva hi vastunaḥ paraprakāśyatvaniyamāt ।
+svaprakāśatve cātmā suṣuptāvapi prakāśeta, na ca prakāśate, yathoktam- acetanayanneva suṣupta ityucyate iti ।।

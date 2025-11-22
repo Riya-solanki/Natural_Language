@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6028 | label: meter | g:0.25 m:0.625 ---
+
+karpūra-madanaphala-madhukaiḥ pūritaḥ śiva ।
+yoniḥ subhā syādvṛddhāyā yuvatyāḥ kiṃ punarhara ।।

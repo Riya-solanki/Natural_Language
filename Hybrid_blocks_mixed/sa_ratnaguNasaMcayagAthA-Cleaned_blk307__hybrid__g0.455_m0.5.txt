@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 307 | label: hybrid | g:0.455 m:0.5 ---
+
+so bodhisattva kṣamate guṇadharmayukto yaścaiva ratnabharitaṃ trisahasra dadyāt 
+buddhāna lokavidunārhatapratyayānāṃ kalapuṇya so na bhavate iha dānaskandhe ।।

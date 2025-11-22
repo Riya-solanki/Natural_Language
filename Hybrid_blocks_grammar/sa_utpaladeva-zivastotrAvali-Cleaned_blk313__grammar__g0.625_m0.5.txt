@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 313 | label: grammar | g:0.625 m:0.5 ---
+
+rudanto vā hasanto vā tvām uccaiḥ pralapanty amī bhaktāḥ stutipadoccāropacārāḥ pṛthag eva te ।।

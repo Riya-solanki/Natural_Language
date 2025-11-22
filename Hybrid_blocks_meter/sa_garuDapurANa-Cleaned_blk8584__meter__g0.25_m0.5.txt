@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8584 | label: meter | g:0.25 m:0.5 ---
+
+pretasyaiva viluṇṭhanti madhye mārge bubhukṣitāḥ ।
+māsānte bhojanaṃ piṇḍameke yacchanti tatra vai ।।

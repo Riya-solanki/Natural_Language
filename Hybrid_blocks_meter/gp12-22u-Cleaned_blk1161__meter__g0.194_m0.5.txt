@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1161 | label: meter | g:0.194 m:0.5 ---
+
+rādhā rādhā-padaṃ māsi mādhave vidhutāṃ vidhuḥ ।
+priyā-saṅga-kṛte labdhuṃ paurṇamāsīm avaikṣata ।। [anu]

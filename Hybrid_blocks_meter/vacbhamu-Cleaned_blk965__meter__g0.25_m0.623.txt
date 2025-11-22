@@ -1,0 +1,11 @@
+--- source: vacbhamu-Cleaned.txt | block: 965 | label: meter | g:0.25 m:0.623 ---
+
+tathā ca smṛtirniṣedhārtheti anumāya tadarthā śrutiranumātavyā ।
+śrutistu sāmānyaviṣayā viśeṣamupasarpantī śīghrapravṛttiriti ।
+smārtaṃ prāyaścittādarśanaṃ tu yatnagauravārtham ।
+etaduktaṃ bhavati-kṛtanirṇejanairapi etairna saṃkhyānaṃ kartavyamiti ।
+sūtrārthastu-upapūrvamapi pātakaṃ naiṣṭhikasyāvakīrṇitvaṃ na mahāpātakamapirevakārārthe ata eke prāyaścittabhāvamicchantīti ।
+ācāryāṇāṃ vipratipattau viśeṣābhāvātsāmyaṃ bhavet ।
+śāstrasthā yā vā prasiddhiḥ sā grāhyā śāstramūlatvāt ।
+upapādetaṃ ca prāyaścittabhāvaprasiddheḥ śāstramūlatvamiti ।
+sugamamitaram ।।

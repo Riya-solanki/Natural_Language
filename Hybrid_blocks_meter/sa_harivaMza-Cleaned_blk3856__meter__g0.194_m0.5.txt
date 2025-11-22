@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3856 | label: meter | g:0.194 m:0.5 ---
+
+sa cābhilaṣitas tasyāḥ śravād eva janārdanaḥ 
+tejovīryabalopetaḥ sa me bhartā bhaved iti ।।

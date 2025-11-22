@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 453 | label: grammar | g:0.583 m:0.5 ---
+
+vande tān daivataṃ yeṣāṃ haraś ceṣṭā harocitāḥ haraikapravaṇāḥ prāṇāḥ sadā saubhāgyasadmanām ।।

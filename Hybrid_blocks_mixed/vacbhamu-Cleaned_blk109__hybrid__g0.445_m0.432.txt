@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 109 | label: hybrid | g:0.445 m:0.432 ---
+
+syādetat ।
+dharmajijñāsāyā iva brahmajijñāsāyā api yogyatvāt svādhyāyādhyayanānantaryam, dharmavadbrahmaṇo apyāmnāyaikapramāṇagamyatvāt ।
+tasya cāgṛhītasya svaviṣaye vijñānājananāt, grahaṇasya ca asvādhyāyo adhyetavyaḥ' ityadhyayanenaiva niyatatvāt ।
+tasmādvedādhyayanānantaryameva brahmajijñāsāyā apyathaśabdārtha ityata āha- svādhyāyānantaryaṃ tu samānaṃ dharmabrahmajijñāsayoḥ ।
+atra ca svādhyāyena viṣayeṇa tadviṣayamadhyayanaṃ lakṣayati ।
+tathā ca aathāto dharmajijñāsā' ityanenaiva gatamiti nedaṃ sūtramārabdhavyam; dharmaśabdasya vedārthamātropalakṣaṇatayā dharmavadbrahmaṇo api vedārthatvāviśeṣeṇa vedādhyayanānantaryopadeśasāmyādityarthaḥ ।

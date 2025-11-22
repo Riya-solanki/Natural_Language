@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 837 | label: grammar | g:0.75 m:0.5 ---
+
+[] ṛṣir uvāca-tato devyādeśa-veśa-vaśā yathāyathaṃ te vihitavanta eva । tathāpi vidhiṃ vinā na saṅgrāhyās tā itii śrī-vraja-rājādibhir vihite ca tasmin vivāha-vicāre bhavāṃs tv agrajasya vivāhārtham āgṛhya taṃ tad-artha-rakṣita-kaumārā dvārakāta āgatya kadācit tena prasādī-kṛta-sva-vihārāḥ । kāścin nitya-kiśorikā vidhinā ca vivāhya nairapekṣyam ivāvagāhya vigata-pūrvāśaṅkaḥ parama-lalita-mādhava-samayam ālambyālaṅkṛta-pūrṇa-manorathāṅkaḥ śrī-vraja-rāja-gṛhiṇī-muhur āgraha-gṛhītatayā śanair eva sva-vivāham aṅgīkāra-saṅginaṃ kariṣyati ।

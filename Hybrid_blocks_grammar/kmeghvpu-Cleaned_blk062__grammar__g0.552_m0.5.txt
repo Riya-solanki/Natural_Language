@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 62 | label: grammar | g:0.552 m:0.5 ---
+
+vidyutvantaṃ lalitavanitāḥ sendracāpaṃ sacitrāḥ saṃgītāya prahatamurajāḥ snigdhagambhīraghoṣam ।
+antastoyaṃ maṇimayabhuvas tuṅgam abhraṃlihāgrāḥ prāsādās tvāṃ tulayitum alaṃ yatra tais tair viśeṣaiḥ ।।

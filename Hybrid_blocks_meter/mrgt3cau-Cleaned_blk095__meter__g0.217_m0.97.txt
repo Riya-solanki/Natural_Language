@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 95 | label: meter | g:0.217 m:0.97 ---
+
+nādhyāpayeccaturdaśyām aṣṭamyāṃ pakṣayordvayoḥ ।
+pratipatpañcadaśyośca caturthyāmarkasaṃkrame

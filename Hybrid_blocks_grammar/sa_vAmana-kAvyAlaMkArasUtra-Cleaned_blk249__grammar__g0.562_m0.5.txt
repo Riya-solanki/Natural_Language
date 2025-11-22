@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 249 | label: grammar | g:0.562 m:0.5 ---
+
+aṣyaśakyaṃ tayā dattaṃ duḥkhaṃ śakyantarātmani । vāṣyo vāhīkanārīṇāṃ vegavāhī kapolayoḥ ।।

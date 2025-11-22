@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3091 | label: meter | g:0.25 m:0.5 ---
+
+sa taṃ harṣaparītena vacasā gadgadena vai 
+netrābhyāṃ yādavo viṣṇum ākulaṃ samudaikṣata ।। 
+acintayat tadākrūro loke matsadṛśo na hi । 
+ya enaṃ lokanāthaṃ taṃ sakalaṃ dṛṣṭavān aham ।। 
+nārāyaṇam aṇīyāṃsaṃ sthūlāt sthūlataraṃ harim ।। 
+ko ayaṃ matsadṛśo loke dṛṣṭavān yo aham īśvaram । 
+ehi keśava tāteti pravyāharata dharmavit ।।

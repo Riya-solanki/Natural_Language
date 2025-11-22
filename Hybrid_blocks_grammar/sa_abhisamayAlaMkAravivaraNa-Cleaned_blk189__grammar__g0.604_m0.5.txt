@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 189 | label: grammar | g:0.604 m:0.5 ---
+
+lakṣaṇam māhāyāniko anāsravo anvabhisamayaḥ, yaḥ paryaṃntādhigamakṛtyaṃ vyavasthāpayati, sa abhinirhārākhyo mahāyānabhāvanāmārga iti lakṣaṇam ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2284 | label: meter | g:0.25 m:0.5 ---
+
+gomakaṃ gopatiṃ devaṃ pitṝṇāmanṛṇo bhavet ।
+aṅgāreśaṃ ca siddheśaṃ gayādityaṃ gajaṃ tathā ।।

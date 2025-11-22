@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2296 | label: grammar | g:0.696 m:0.0 ---
+
+dadau stanaṃ ca kṛṣṇāya tatra suptajane niśi 
+tasyāḥ stanaṃ papau kṛṣṇaḥ prāṇaiḥ saha nanāda ca ।। 
+stanyaṃ tadviṣasaṃmiśraṃ rasyam āsīj jagadguroḥ । patantīṃ tāṃ tu saṃdṛśya śakunīṃ bhayaviklavām । prayāṇe śīghracapalāṃ vāśamānāṃ ca visvaram । pādāṅguṣṭena tāṃ kṛṣṇaś cakrākrāntām akārayat । cakrākrāntā tu śakunī papāta ca mamāra ca । nanāda ca mahānādaṃ punaḥ punar asau hariḥ । 
+tena śabdena vitrastās tato bubudhire janāḥ 
+sa nandagopo gopāś ca yaśodā ca suviklavā ।।

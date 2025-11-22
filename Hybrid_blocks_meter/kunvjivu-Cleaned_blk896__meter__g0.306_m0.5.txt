@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 896 | label: meter | g:0.306 m:0.5 ---
+
+rāmeṇa mugdhamanasā vṛṣabhadhvajasya yajjarjaraṃ dhanurabhāji mṛṇālabhañjam ।
+tenāmunā trijagadarpitakīrtibhāro rakṣaḥ patirnanu manāṅ na viḍambito abūt ।।

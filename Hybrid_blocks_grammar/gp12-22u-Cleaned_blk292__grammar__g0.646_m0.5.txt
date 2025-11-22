@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 292 | label: grammar | g:0.646 m:0.5 ---
+
+[] vṛndāha-tad idam api śrutam, yad atibālakatayāvagatāḥ pitṛ-geha eva tā nidhāya te gatā iti ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3437 | label: meter | g:0.194 m:0.5 ---
+
+ahaṃ te jananī putra kimarthaṃ nābhibhāṣase 
+prasthito dīrgham adhvānaṃ parityajyya priyaṃ janam ।।

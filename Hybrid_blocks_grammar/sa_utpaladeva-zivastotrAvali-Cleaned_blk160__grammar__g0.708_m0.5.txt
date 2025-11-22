@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 160 | label: grammar | g:0.708 m:0.5 ---
+
+dehabhūmiṣu tathā manasi tvaṃ prāṇavartmani ca bhedam upete saṃvidaḥ pathiṣu teṣu ca tena svātmanā mama bhava sphuṭarūpaḥ ।।

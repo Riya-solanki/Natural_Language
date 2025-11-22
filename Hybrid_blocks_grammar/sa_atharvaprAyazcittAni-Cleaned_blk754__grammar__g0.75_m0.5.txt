@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 754 | label: grammar | g:0.75 m:0.5 ---
+
+ś ca tvā indur indum upāgāt sāyāme so ma bhūt sarva tasya ta indav । indrapītasyopahūtasyopahūto bhakṣayāmi ity abhimṛṣṭasya bhakṣayet ।

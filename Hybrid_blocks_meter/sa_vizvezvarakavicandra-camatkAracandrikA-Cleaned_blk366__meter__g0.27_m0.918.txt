@@ -1,0 +1,7 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 366 | label: meter | g:0.27 m:0.918 ---
+
+atra saṃyuktākṣaraprāyatve śruterakaṭutvātsaukumāryam ।
+adyāhārānapekṣatva marthavyaktiritīritā ।।
+yathā
+namanti siṅgabhūpālaṃ rājāno nītikovidāḥ ।
+nijarājyapratiṣṭhāyai śaraṇāgatavatsalam ।।

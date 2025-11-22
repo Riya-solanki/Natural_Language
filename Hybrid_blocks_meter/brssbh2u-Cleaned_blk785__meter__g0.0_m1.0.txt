@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 785 | label: meter | g:0.0 m:1.0 ---
+
+saṃjñāmūrtikḷptyadhikaraṇam । sū

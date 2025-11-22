@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 60 | label: hybrid | g:0.5 m:0.5 ---
+
+pratyakṣasūtre tu pratyakṣasya vidyamānopalambhanatvādbhaviṣyati dharme prāmāṇyāsaṃbhavāttatpūrvakatvenetareṣāmapyaprāmāṇyātpramāṇāntaraniyamavikalpasamuccayanirākaraṇāccodanaivetyayamarthaḥ siddhyati ।।

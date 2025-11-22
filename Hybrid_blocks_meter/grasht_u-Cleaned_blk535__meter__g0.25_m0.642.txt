@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 535 | label: meter | g:0.25 m:0.642 ---
+
+sattva colour of diff ~
+tutthāddhi tāpyajasamaṃ samasṛṣṭaṃ patati vai satvam ।
+abhravaikrāntakāntaprabhṛtīnāṃ tatra lohanibham ।।

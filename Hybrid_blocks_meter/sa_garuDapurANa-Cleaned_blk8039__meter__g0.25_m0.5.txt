@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8039 | label: meter | g:0.25 m:0.5 ---
+
+ajñānāstāmasā mandā kāndiśīkā vayaṃ vibho ।
+akasmājjanmanāṃ vipra smṛtiḥ prāptā tu paurvikī ।।

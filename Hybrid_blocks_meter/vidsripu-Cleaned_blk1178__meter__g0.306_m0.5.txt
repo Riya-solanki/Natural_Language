@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1178 | label: meter | g:0.306 m:0.5 ---
+
+chidraṃ maṇer guṇārthaṃ nāyakapadahetur asya tāralyam ।
+katham anyatheśvarāṇāṃ viluṭhati hṛdaye ca maulau ca ।।

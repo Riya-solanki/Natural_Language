@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 219 | label: meter | g:0.25 m:0.75 ---
+
+trāsaścaiva vitarkaśca vijñeyā vyabhicāriṇaḥ ।
+triṃstriśadamī bhāvāḥ samākhyātāstu nāmataḥ ।।

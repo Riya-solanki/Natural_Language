@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7975 | label: meter | g:0.25 m:0.5 ---
+
+maṇibhadrāstato meruṃ gacchandṛṣṭo mayā pathi ।
+nikocyākṣi svapārśvaṃ sa nīto vai yakṣarāṇmayā ।।

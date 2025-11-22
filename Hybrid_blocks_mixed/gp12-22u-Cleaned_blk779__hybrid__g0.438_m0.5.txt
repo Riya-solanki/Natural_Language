@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 779 | label: hybrid | g:0.438 m:0.5 ---
+
+[] upatyakām upetya, taṃ vighnaṃ nighnaṃ kartum ādrim upaghnaṃ kṛtvā kṛtādhiṣṭhāne tu goṣṭhe goṣṭhendra-tanaye ca samayaṃ pratipālayati-

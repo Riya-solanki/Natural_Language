@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1229 | label: meter | g:0.194 m:0.5 ---
+
+arthān ratnāni cāgryāṇi dravyāṇi vividhāni ca 
+ṣaṣṭiṃ varṣāṇi dharmātmā yajñeṣu viniyojayat ।।

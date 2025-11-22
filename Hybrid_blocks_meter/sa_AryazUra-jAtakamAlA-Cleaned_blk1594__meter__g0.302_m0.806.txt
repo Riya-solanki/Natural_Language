@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1594 | label: meter | g:0.302 m:0.806 ---
+
+hriyamāṇamanāthamaplavaṃ saritodīrṇajalaughavegayā ।
+abhidhāvata dīnavatsalāḥ kṛpaṇaṃ tārayituṃ javena mām ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 662 | label: meter | g:0.25 m:0.625 ---
+
+tatraiva brahmayonyasti brahmaṇā yatra nirmitā ।
+pṛthūdakaṃ samāśritya sarasvatyāstaṭe sthitaḥ ।।

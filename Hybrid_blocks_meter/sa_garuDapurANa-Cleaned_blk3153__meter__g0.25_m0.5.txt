@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3153 | label: meter | g:0.25 m:0.5 ---
+
+yadarjitaṃ prāṇaharaiḥ pariśramairmṛtasya taṃ vai vibhajantirikthinaḥ ।
+kṛtaṃ ca yadduṣkṛtamarthalipsayā tadeva doṣopahatasya yautukam ।।

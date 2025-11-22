@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 543 | label: meter | g:0.25 m:0.625 ---
+
+yadyapi bahu-saṅghaṭṭana-dhūli-dhvāntaṃ ca sarvatra ।
+tadapi harer mukha-candraḥ pratijanam ānanditaṃ cakre ।। [upagīti]

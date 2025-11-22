@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1628 | label: meter | g:0.29 m:0.638 ---
+
+atha abhiprāyaḥ-
+abhiprāyas tv abhūtārtho hṛdyaḥ sāmyena kalpitaḥ । 
+abhiprāyaṃ pare prāhur mamatāṃ hṛdya-vastuni ।।

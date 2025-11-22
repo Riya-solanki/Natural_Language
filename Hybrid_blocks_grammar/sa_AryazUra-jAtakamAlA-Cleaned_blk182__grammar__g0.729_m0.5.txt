@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 182 | label: grammar | g:0.729 m:0.5 ---
+
+atha kadācittasya mahāsattvasya bhojanakāle snātānuliptagātrasya kuśalodārasūdopakalpite samupasthitevarṇagandharasasparśādiguṇasamudite vicitre bhakṣyabhojyādividhau tatpuṇyasambhārābhivṛddhikāmo jñānāgninirdagdhasarvakleśendhanaḥ pratyekabuddhastadgṛhamabhijagāma bhikṣārthī । samupetya ca dvārakoṣṭhake vyatiṣṭhata ।

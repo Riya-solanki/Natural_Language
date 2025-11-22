@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 454 | label: hybrid | g:0.469 m:0.412 ---
+
+bhāvārthaviṣaya eva vidhirityekāntaḥ ।
+tathā ca ana hanyāt' ana pibet'ityādiṣu yadi kāryamabhyupeyeta, tatastadvyāpikā kṛtirabhyupetavyā, tadvyāpakaśca bhāvārtho viṣayaḥ ।
+evaṃ ca prajāpativratanyāyena paryudāsavṛttyāhananāpānasaṃkalpalakṣaṇayā tadviṣayo vidhiḥ syāt ।

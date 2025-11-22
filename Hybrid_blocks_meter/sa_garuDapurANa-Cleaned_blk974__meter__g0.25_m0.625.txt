@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 974 | label: meter | g:0.25 m:0.625 ---
+
+tripadā yā tu gāyattrī brahmaviṣṇumaheśvarī ।
+viniyogamṛṣicchando jñātvā tu japamārabhet ।।

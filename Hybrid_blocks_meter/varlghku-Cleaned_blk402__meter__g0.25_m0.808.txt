@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 402 | label: meter | g:0.25 m:0.808 ---
+
+parokṣe liṭ ।।
+bhūtānadyatana parokṣārthavṛtter dhātorliṭ syāt ।

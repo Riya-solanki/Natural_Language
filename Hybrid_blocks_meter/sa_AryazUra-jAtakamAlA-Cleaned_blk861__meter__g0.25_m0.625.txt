@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 861 | label: meter | g:0.25 m:0.625 ---
+
+te trāsadīnāśca viṣādamūkā dhīrāḥ pratīkārasasambhramāśca ।
+svadevatāyācanatatparāśca bhāvānyathā sattvaguṇaṃ vivavruḥ ।।

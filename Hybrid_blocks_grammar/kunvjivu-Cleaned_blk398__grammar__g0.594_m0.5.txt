@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 398 | label: grammar | g:0.594 m:0.5 ---
+
+yo līlātālavṛnto rahasi nirupadhiryaśca kilīpradīpaḥ kopakrīḍāsu yo astraṃ daśanakṛtarujo yo adharasyaikasekaḥ ।
+ākalpe darpaṇa yaḥ śramaśayanavidho yaśca gaṇḍopadhānaṃ devyāḥ sa vyāpadaṃ vo haratu harajaṭākandalīpuṣpaminduḥ ।।

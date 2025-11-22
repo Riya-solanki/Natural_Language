@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1000 | label: meter | g:0.0 m:0.5 ---
+
+karṇaśabdagrahau śrotraṃ śrutiḥ strī śravaṇaṃ śravaḥ

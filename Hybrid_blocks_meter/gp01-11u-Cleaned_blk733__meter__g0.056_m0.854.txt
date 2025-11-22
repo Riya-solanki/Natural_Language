@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 733 | label: meter | g:0.056 m:0.854 ---
+
+danu-sutam alam udvivartitākṣaṃ
+śiśum atha vīkṣya nirīkṣamāṇa-netram ।
+tad-upari sahasā nidhāya lattām
+amum upajahrur amūr mudā jananyām ।। [puṣpitāgrā]

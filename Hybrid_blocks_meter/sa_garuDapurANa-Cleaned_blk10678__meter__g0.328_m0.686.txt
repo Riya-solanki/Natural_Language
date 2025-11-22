@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10678 | label: meter | g:0.328 m:0.686 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+nāḍīṃ samāviśya mahānubhāvaḥ śrīviṣṇubhakto tvatha puṣkarasthaḥ ।
+vicārayāmāsa guruṃ svamūlaṃ nārāyaṇaṃ nirguṇamadvitīyam ।।

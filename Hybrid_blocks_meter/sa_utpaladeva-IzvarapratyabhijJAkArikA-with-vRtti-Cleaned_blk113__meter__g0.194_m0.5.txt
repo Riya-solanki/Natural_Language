@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 113 | label: meter | g:0.194 m:0.5 ---
+
+bhinnayor avabhāso hi syād ghaṭāghaṭayor dvayoḥ 
+prakāśasyeva nānyasya bhedinas tv avabhāsanam ।।

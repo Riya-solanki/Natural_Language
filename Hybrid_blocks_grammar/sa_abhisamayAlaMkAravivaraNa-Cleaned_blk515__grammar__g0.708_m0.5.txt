@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 515 | label: grammar | g:0.708 m:0.5 ---
+
+bhedaḥ mahāsambhogakāyaḥ kaniṣṭhasambhogakāyaśceti bhedadvayamabhidhānadṛṣṭyā kartuṃ śakyate । tatra mahāsambhogakāyaḥ akaniṣṭhabhaumikaḥ sambhogakāya ityanarthāntaram । tathaiva kaniṣṭhasambhogakāyaḥ akaniṣṭhabhaumikau nirmāṇakāyaścetyanarthāntaram ।

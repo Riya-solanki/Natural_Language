@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9182 | label: meter | g:0.25 m:0.625 ---
+
+ṣoḍaśarturniśāḥ strīṇāṃ sāmānyāt samudāhṛtaḥ ।
+yā caturdaśamī rātrirgarbhastiṣṭhati tatra cet ।।

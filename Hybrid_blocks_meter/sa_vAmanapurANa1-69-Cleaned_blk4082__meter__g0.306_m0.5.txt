@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4082 | label: meter | g:0.306 m:0.5 ---
+
+avimuktaṃ ca lolaṃ ca jyeṣṭheyaṃ madhyamaṃ tathā ।
+upaśāntaṃ tamasye ahaṃ mārkaṇḍeyaṃ sajambukam ।।

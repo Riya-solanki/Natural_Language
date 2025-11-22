@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1076 | label: meter | g:0.102 m:0.5 ---
+
+bhūṣaṇānāṃ ca sarveṣāṃ kartā śilpavatāṃ varaḥ 
+yaḥ sarveṣāṃ vimānāni devatānāṃ cakāra ha 
+manuṣyāś copajīvanti yasya śilpaṃ mahātmanaḥ ।।

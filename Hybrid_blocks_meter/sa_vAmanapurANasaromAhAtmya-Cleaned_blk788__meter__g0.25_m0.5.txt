@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 788 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ śukreṇa muninā sevitaṃ tīrthamuttamam ।
+ye sevante śraddadhānāste yānti paramāṃ gatim ।।

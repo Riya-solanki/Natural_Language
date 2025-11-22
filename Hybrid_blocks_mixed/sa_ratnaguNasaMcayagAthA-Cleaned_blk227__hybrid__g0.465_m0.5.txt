@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 227 | label: hybrid | g:0.465 m:0.5 ---
+
+yatha prajñapāramita śūnyata lakṣaṇena tathalakṣaṇā ya imi jānati sarvadharmān 
+śūnyānalakṣaṇa prajānayamāna dharmān evaṃ carantu caratī sugatāna prajñām ।।

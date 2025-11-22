@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 397 | label: meter | g:0.306 m:0.5 ---
+
+vanānyetāni vai sapta nadīḥ śṛṇuta me dvijāḥ ।
+sarasvatī nadī puṇyā tathā vaitaraṇī nadī ।।

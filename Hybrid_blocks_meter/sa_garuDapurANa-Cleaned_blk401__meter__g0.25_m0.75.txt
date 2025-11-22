@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 401 | label: meter | g:0.25 m:0.75 ---
+
+padmajaṅghaḥ puṇḍarīkaḥ padmamālādharaḥ priyaḥ ।
+padmākṣaḥ padmagarbhaśca parjanyaḥ padmasaṃsthitaḥ ।।

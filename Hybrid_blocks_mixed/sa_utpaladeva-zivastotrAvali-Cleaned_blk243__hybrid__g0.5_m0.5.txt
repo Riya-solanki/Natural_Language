@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 243 | label: hybrid | g:0.5 m:0.5 ---
+
+bhavadaṅghrisaroruhodare parilīno galitaparaiṣaṇaḥ atimātramadhūpayogataḥ paritṛpto vicareyam icchayā ।।

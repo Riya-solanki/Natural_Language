@@ -1,0 +1,9 @@
+--- source: nysvbh_u-Cleaned.txt | block: 43 | label: meter | g:0.25 m:0.686 ---
+
+akṣāsyākṣasya prativiṣayaṃ vṛttiḥ pratyakṣam।
+vṛttistu sannikarṣo jñānaṃ vā।
+yadā sannikarṣastadā jñānaṃ pramitiḥ, yadā jñānaṃ tadā hānopādānopekṣabuddhayaḥ phalam।
+mitena liṅgena liṅgino arthasya paścānmānamanumānam।
+upamānaṃ sāmīpyamānam, yathā gaurevaṃ gavaya iti।
+sāmīpyaṃ tu sāmānyayogaḥ।
+śabdaḥ śabdyate anenārtha ityabhidhīyate vijñāpyata iti।।

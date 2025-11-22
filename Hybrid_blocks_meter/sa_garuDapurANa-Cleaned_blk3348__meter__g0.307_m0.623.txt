@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3348 | label: meter | g:0.307 m:0.623 ---
+
+kṣaṇo nāsti raho nāsti na sti prārthayitā janaḥ ।
+tena śaunaka nārīṇāṃ satītvamupajāyate ।।

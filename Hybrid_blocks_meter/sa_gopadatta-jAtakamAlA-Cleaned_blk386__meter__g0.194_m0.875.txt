@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 386 | label: meter | g:0.194 m:0.875 ---
+
+dharaṇitalanimagnāṃ mātaraṃ śokavaśyāṃ 
+śirasi kupitacittaḥ pādavajreṇa hatvā ।
+muhur upacitaśokaḥ karmaṇā preryamāṇas
+tvaritamatir abhūt saṃprayātuṃ vaṇigbhiḥ ।।

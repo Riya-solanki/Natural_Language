@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9807 | label: meter | g:0.328 m:0.724 ---
+
+śrīgaruḍamahāpurāṇam- 
+tārkṣya uvāca ।
+sukṛtasya prabhāveṇa svargo nānāvidho naṇām ।
+bhogāḥ saukhyāti rūpañca balaṃ buddhaiḥ parākramaḥ ।।

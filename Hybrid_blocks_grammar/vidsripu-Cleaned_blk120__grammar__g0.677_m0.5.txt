@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 120 | label: grammar | g:0.677 m:0.5 ---
+
+ko ayaṃ dvāri hariḥ prayāhy upavanaṃ śākhāmṛgeṇātra kiṃ kṛṣṇo ahaṃ dayite bibhemi sutarāṃ kṛṣṇaḥ kathaṃ vānaraḥ ।
+mugdhe ahaṃ madhusūdano vraja latāṃ tām eva puṣpāsavām itthaṃ nirvacanīkṛto dayitayā hrīṇo hariḥ pātu vaḥ ।।

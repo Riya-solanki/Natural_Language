@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 680 | label: grammar | g:0.574 m:0.419 ---
+
+kiṃ pādānte patasi virama svāmino hi svatantrāḥ kaṃcit kālaṃ kvacid api ratis tena kas te aparādhaḥ ।
+āgaskāriṇy aham iha yayā jīvitaṃ tvadviyoge bhartṛprāṇāḥ striya iti nanu tvaṃ mayaivānuneyaḥ ।।
+vākkūṭasya।।

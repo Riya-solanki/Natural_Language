@@ -1,0 +1,6 @@
+--- source: visa01cu-Cleaned.txt | block: 141 | label: meter | g:0.374 m:0.753 ---
+
+etena
+"adoṣaṃ guṇavatkāvyamalaṅkārairalaṅkṛtam ।
+rasānvitaṃ kaviḥ kurvan kīrtiṃ prītiṃ ca vindati" ।
+ityādīnāmapi kāvyalakṣaṇatvamapāstam ।

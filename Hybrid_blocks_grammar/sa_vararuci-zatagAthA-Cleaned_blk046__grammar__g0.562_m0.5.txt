@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 46 | label: grammar | g:0.562 m:0.5 ---
+
+kāmāturāṇāṃ na bhayaṃ na lajjā kṣudhāturāṇāṃ na balaṃ na tejaḥ ।
+rogāturāṇāṃ na sukhaṃ na nidrā mārgāturāṇāṃ na bhayaṃ na vīryam ।।

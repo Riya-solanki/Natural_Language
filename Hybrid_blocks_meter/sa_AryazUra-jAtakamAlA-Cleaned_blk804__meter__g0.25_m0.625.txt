@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 804 | label: meter | g:0.25 m:0.625 ---
+
+dāne sāhāyyadānena dharma eva bhavettava ।
+dānavighnāttvadharmaḥ syāttāṃ matto apratigṛhṇataḥ ।।

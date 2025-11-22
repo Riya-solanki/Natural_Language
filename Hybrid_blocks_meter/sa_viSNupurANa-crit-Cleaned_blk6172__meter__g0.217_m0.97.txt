@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6172 | label: meter | g:0.217 m:0.97 ---
+
+atyamlakaṭutīkṣṇoṣṇalavaṇair mātṛbhojanaiḥ 
+atitāpibhir atyarthaṃ vardhamānātivedanaḥ ।।

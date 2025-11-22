@@ -1,0 +1,6 @@
+--- source: visa01cu-Cleaned.txt | block: 178 | label: meter | g:0.278 m:0.751 ---
+
+tathā cāgneyapurāṇo apyuktam
+"vāgvaidagdhyapradhāne api rasa evātra jīvitam" iti ।
+vyaktivivekakāreṇāpyuktam
+"kāvyasyātmani aṅgini, rasādirūpe na kasyacidvimatiḥ" iti ।

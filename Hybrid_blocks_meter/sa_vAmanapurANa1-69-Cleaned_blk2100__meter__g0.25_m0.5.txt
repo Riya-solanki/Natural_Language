@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2100 | label: meter | g:0.25 m:0.5 ---
+
+tatra snātvā śucirbhūtvā jagāmātha sarasvatīm ।
+vṛtāṃ tīrthaśataiḥ puṇyaiḥ plakṣajāṃ pāpanāśinīm ।।

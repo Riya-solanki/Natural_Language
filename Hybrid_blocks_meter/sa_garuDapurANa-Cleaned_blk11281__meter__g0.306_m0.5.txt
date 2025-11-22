@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11281 | label: meter | g:0.306 m:0.5 ---
+
+mitrādīnāṃ yatkṛtaṃ dravyajātaṃ vṛthā gataṃ malarūpaṃ ca jātam ।
+sadvaiṣṇavānāṃ yatkṛtaṃ dravyajātaṃ hariprāpteḥ kāraṇaṃ syātsadaiva ।।

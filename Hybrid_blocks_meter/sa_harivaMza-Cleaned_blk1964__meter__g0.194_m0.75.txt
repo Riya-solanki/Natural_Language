@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1964 | label: meter | g:0.194 m:0.75 ---
+
+sa vīciviṣamāṃ kurvan gatiṃ vegataraṅgiṇīm 
+yādogaṇavicitreṇa saṃchannas toyavāsasā ।।

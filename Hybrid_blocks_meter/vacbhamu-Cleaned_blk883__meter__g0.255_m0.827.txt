@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 883 | label: meter | g:0.255 m:0.827 ---
+
+anyathā bhedānupapattiriti cennopadeśāntaravaditi ।
+asya tu pūrvapakṣatattvābhiprāyo darśitaḥ ।
+sugamamanyat ।।

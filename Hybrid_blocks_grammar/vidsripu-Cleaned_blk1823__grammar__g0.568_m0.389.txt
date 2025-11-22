@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1823 | label: grammar | g:0.568 m:0.389 ---
+
+ye nāma kecid iha naḥ prathayanty avajñāṃ jānanti te kim api tān prati naiṣa yatnaḥ ।
+utpatsyate tu mama ko api samānadharmā kālo hy ayaṃ niravadhir vipulā ca lakṣmīḥ ।।
+ceḥ।

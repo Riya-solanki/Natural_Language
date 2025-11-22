@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1037 | label: grammar | g:0.573 m:0.5 ---
+
+etasmin divasasya madhyasamaye vāto api caṇḍātapa- trāseneva na saṃcaraty ahimagor bimbe lalāṭaṃtape ।
+kiṃ cānyat paritaptadhūliluṭhanaploṣāsahatvād iva cchāyā dūragatāpi bhūruhatale vyāvartya saṃlīyate ।।

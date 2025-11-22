@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1248 | label: meter | g:0.194 m:0.5 ---
+
+paulastyaḥ praṇayena yācata iti śrtuvā mano modate
+deyo naiṣa hara-prasāda-paraśus tenādhikaṃ tāmyati ।
+tad vācyaḥ sa daśānano mama girā dattā dvijebhyo mahī
+tubhyaṃ brūhi rasātala-tridivayor nirjitya kiṃ dīyatām ।।

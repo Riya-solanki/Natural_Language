@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1113 | label: hybrid | g:0.501 m:0.472 ---
+
+vadata viditajambūdvīpasaṃvṛttavārtāṃ katham api yadi dṛṣṭaṃ vārivāhaṃ vihāya ।
+sariti sarasi sindhau cātakenārpito asāv api bahalapipāsāpāṃśulaḥ kaṇṭhanālaḥ ।।
+lakṣmīdharasya

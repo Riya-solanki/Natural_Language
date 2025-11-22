@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1787 | label: grammar | g:0.604 m:0.5 ---
+
+atra kathā-nāyaka-kavi-sabhya-naṭānāṃ catūrṇāṃ saṅkṣepeṇa varṇanād iyaṃ saṅkṣipta-prarocanā । vistarāt tu bāla-rāmāyaṇādiṣu draṣṭavyā ।

@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 470 | label: meter | g:0.333 m:0.5 ---
+
+śūdramūrkhapramattastrīvṛddhāmayāvivikalāṅgairvā jaṭā na dhāraṇīyāḥ। bahuvacananiṣedhād ekajaṭā ete syuriti kecit।। [jaṭābandhanavidhiḥ] atha tadvidhānam

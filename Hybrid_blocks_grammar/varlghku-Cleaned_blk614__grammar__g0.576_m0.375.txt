@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 614 | label: grammar | g:0.576 m:0.375 ---
+
+vibhāṣorṇoḥ ।।
+iḍādipratyayo vā ṅitsyāt । ūrṇunuvitha, ūrṇunavitha । ūrṇuvitā, ūrṇavitā । ūrṇuviṣyati, ūrṇaviṣyati । ūrṇautu, ūrṇotu । ūrṇavai ।।

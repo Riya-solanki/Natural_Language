@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 390 | label: grammar | g:0.75 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-kathaṃ tat-preṣṭhāḥ putreṣṭyādikaṃ nānuṣṭhāpitavantaḥ ? kathaṃ vā vidagdhayor api tayoḥ sandigdhatā jātā । tathāpi parameśa-parayoḥ kathantarāṃ vā tad-āśā ? uttaratas tu viśeṣataḥ kathantamām ?

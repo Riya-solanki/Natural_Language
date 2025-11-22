@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1920 | label: meter | g:0.25 m:0.826 ---
+
+pulastya uvāca ।
+senāpatye abhiṣiktastu kumāro daivatairatha ।
+praṇipatya bhavaṃ bhaktyā girijāṃ pāvakaṃ śucim ।।

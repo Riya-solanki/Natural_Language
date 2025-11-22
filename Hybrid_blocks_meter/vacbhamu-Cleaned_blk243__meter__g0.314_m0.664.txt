@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 243 | label: meter | g:0.314 m:0.664 ---
+
+hemātmanā yathābhedaḥ kuṇḍalādyātmanā bhidā ।।
+iti ।

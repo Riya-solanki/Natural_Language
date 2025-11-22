@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1029 | label: grammar | g:0.691 m:0.375 ---
+
+gostriyorupasarjanasya ।।
+upasarjanaṃ yo gośabdaḥ strīpratyayāntaṃ ca tadantasya prātipadikasya hrasvaḥ syāt । । avakruṣṭaḥ kokilayā - avakokilaḥ । । pariglāno adhyayanāya paryadhyayanaḥ । । niṣkrāntaḥ kauśāmbyāḥ - niṣkauśāmbiḥ ।।

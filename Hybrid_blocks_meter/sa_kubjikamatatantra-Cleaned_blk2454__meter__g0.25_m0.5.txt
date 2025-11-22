@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2454 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ te trividhaḥ kālaḥ kathitas tu suvistaraḥ 
+lakṣyate yai rutaiḥ so hi tan nibodhayataḥ śṛṇu ।।

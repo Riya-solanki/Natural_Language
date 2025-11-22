@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2636 | label: meter | g:0.37 m:0.717 ---
+
+paṭunā meghavātena vārṣikeṇāvakampitāḥ 
+parṇotkaraghanāḥ sarve prasādaṃ yānti pādapāḥ ।। 
+vinā ca meghanādena nirmayūrarutaṃ vanam । nadyo bahuvidhākārā jalaṃ svacchaṃ vahanti ca । 
+sitavarṇāmbudoṣṇīṣaṃ haṃsacāmaravījitam 
+pūrṇacandrāmalacchatraṃ sābhiṣekam ivāmbaram ।।

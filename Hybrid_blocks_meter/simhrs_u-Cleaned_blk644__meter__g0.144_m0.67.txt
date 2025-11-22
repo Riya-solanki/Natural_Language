@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 644 | label: meter | g:0.144 m:0.67 ---
+
+viyogād, yathā-
+papraccha pṛṣṭam api gadgadikārta-kaṇṭhaḥ
+śuśrāva noktam api śūnya-manāḥ sa kiñcit ।
+sasmāra na smṛtam api kṣaṇam ātma-kṛtyaṃ
+śrutvāham ity upagato' pi na saṃviveda ।।

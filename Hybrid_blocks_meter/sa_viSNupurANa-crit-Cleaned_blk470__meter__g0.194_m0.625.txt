@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 470 | label: meter | g:0.194 m:0.625 ---
+
+yathāvat kathito devair brahmā prāha tataḥ surān 
+parāvareśaṃ śaraṇaṃ vrajadhvam asurārdanam ।।

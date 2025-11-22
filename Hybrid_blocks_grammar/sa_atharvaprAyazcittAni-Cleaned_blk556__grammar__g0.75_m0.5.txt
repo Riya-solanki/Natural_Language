@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 556 | label: grammar | g:0.75 m:0.5 ---
+
+prāk prayājebhyo aṅgāraṃ barhisy adhiṣkanden namas te astv āyate namo astu parāyate । namo yatra niṣīdasi ity abhimantryaāhaṃ yajñaṃ dadhe nirṛter upasthāt taṃ deveṣu paridadāmi vidvān । suprajās tvaṃ śataṃ hi māmadanta iha no devā mahi śarma yachataity ādāya sahasraśṛṅgaḥ ity anuprahṛtya ।

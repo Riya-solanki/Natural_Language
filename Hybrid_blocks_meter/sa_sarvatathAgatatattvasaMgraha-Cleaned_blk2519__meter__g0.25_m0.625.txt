@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2519 | label: meter | g:0.25 m:0.625 ---
+
+sauvarṇa vātha raupyaṃ vajraratnaṃ tu bhāvayet ।
+anyaratnamayaṃ vāpi hṛdi bhāvyābhiṣicyate ।।

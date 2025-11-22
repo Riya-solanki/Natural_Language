@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1058 | label: meter | g:0.194 m:0.5 ---
+
+(danta-kṣataṃ kapole kaca-grahodveellitaś ca dhammillaḥ ।
+parighūrṇana-śīlā ca dṛṣṭiḥ priyāgamaṃ sādhayati vadhvāḥ ।।)

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5092 | label: meter | g:0.194 m:0.625 ---
+
+apravṛttāḥ prapatsyante samayāḥ śapathās tathā 
+ṛṇaṃ ca vinayabhraṃśo yuge kṣīṇe bhaviṣyati ।।

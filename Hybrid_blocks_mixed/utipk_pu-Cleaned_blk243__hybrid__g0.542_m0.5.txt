@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 243 | label: hybrid | g:0.542 m:0.5 ---
+
+ullekhaghaṭādīnāṃ bāhyārthakriyāvirahe api ghaṭāditayaiva, asvabhāvikatvāt tasyā īśvareṇa pratyābhāsaṃ niyamitāyāḥ ।।

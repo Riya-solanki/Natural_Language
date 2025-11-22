@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1131 | label: meter | g:0.194 m:0.5 ---
+
+daśārhasya suto vyomā vidvāñ jīmūta ucyate 
+jīmūtaputro vṛkatis tasya bhīmarathaḥ sutaḥ ।।

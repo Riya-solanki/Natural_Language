@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1089 | label: meter | g:0.272 m:0.595 ---
+
+karūṣādhipater vīro dantavaktro mahābalaḥ 
+pṛthāṃ duhitaraṃ cakre kauntyas tāṃ pāṇḍur āvahat ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 190 | label: hybrid | g:0.476 m:0.5 ---
+
+puna bodhisattva caramāṇu jināna prajñāṃ anupāda skandha imi jānati ādiśūnyān 
+asamāhito karuṇa prekṣati sattvadhātum atrāntare na parihāyati buddhadharmān ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9454 | label: hybrid | g:0.51 m:0.5 ---
+
+asthānikāpi yā vyūḍhā vaiśyā vā kṣattriyāpi vā ।
+yāḥ patnyo vai pituḥ kaścit kuryāt putraḥ sapiṇḍanam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1217 | label: meter | g:0.194 m:0.5 ---
+
+anāptau ca vadhārhau ca kṛtvā bhojajanārdanau 
+śakto api śāṭhyād dhārdikyaṃ nākrūro abhyupapadyata ।।

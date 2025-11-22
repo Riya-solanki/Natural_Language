@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 628 | label: meter | g:0.306 m:0.5 ---
+
+nāya nṛtyed yathā deva tathā tvaṃ kartumarhasi ।
+tato devo muniṃ dṛṣṭvā harṣāviṣṭamatīva hi ।।

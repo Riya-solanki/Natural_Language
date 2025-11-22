@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4616 | label: meter | g:0.25 m:0.583 ---
+
+prāpsyase sumahad yuddhaṃ tvaṃ bāṇāpratimaṃ mahat 
+mayūradhvajabhaṅgas te bhaviṣyati yadāsura ।। 
+tadā tvaṃ prāpsyase yuddhaṃ sumahad ditinandana । 
+tato ahaṃ paramaprīto bhagavantaṃ vṛṣadhvajam 
+praṇamya śirasā devaṃ tavāntikam upāgataḥ ।।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1233 | label: grammar | g:0.764 m:0.604 ---
+
+nauvayodharmaviṣamūlamūlasītātulābhyastāryatulyaprāpyavadhyānāmyasamasamitasaṃmiteṣu ।।
+nāvā tāryaṃ nāvyaṃ jalam । vayasā tulyo vayasyaḥ । dharmeṇa prāpyaṃ dharmyam । viṣeṇa vadhyo viṣyaḥ । mūlena ānāmyaṃ mūlyam । mūlena samo mūlyaḥ । sītayā samitaṃ sītyaṃ kṣetram । tulayā saṃmitam tulyam ।।

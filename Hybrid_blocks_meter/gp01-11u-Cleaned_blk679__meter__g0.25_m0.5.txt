@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 679 | label: meter | g:0.25 m:0.5 ---
+
+[] tad evam avadhārayan madhukaṇṭhaḥ saha-vismaya-gadgada-kaṇṭham āha sma,
+nāmnā prasiddhim anyasya prasādhayati nāma-kṛt ।
+aho kṛṣṇasya tat-kartā gargas tena prasidhyati ।। [anuṣṭubh]

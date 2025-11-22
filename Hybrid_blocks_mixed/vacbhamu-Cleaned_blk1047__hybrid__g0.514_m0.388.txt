@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 1047 | label: hybrid | g:0.514 m:0.388 ---
+
+avibhāgena dṛṣṭatvāt ।
+yadyapi jīvātmā brahmaṇo na bhinna iti tatra tatropapāditaṃ tathāpi sa tatra paryetītyādhārādheyabhāvavyapadeśasya saṃpattṛsaṃpattavyabhāvavyapadeśasya ca samādhānārthamāha ।।

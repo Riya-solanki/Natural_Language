@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5712 | label: meter | g:0.25 m:0.695 ---
+
+bilvamūlañca samadhuguḍūcīkvathitaṃ jalam ।
+pītaṃ harecca trivadhaṃ chardiṃ naivātrasaṃśayaḥ ।
+pītā dūrvā chardinutsyātpiṣṭātaṇḍulavāriṇā ।।

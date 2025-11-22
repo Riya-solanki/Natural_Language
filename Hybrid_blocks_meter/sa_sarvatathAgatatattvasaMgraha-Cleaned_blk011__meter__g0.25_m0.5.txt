@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 11 | label: meter | g:0.25 m:0.5 ---
+
+anādinidha[naḥ śānto rudraḥ krodho mahā]kṣamaḥ ।
+yakṣaḥ surākṣaso dhīraḥ sauriḥ saurirmahāvibhuḥ ।।

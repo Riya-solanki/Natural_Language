@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 194 | label: meter | g:0.306 m:0.625 ---
+
+niṣādastena vai jāto bindhyaśailanivāsakaḥ ।
+tato asya dakṣiṇaṃ pāṇiṃ mamanthuḥ sahasā dvijāḥ ।।

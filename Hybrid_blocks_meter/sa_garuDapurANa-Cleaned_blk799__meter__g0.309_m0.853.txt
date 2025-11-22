@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 799 | label: meter | g:0.309 m:0.853 ---
+
+śrī garuḍamahāpurāṇam- 
+rudra uvāca ।
+bhūya evaṃ jagannātha pūjāṃ kathaya me prabho ।
+yayā tareyaṃ saṃsārasāgaraṃ hyatidustaram ।।

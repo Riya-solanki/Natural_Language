@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 598 | label: grammar | g:0.719 m:0.375 ---
+
+gāṅ liṭi ।।
+iṅo gāṅ syālliṭi । adhijagāte । adhyetā । adhītām । adhīyatām । adhīyāthām । adhyayai । adhyayāmahai । adhyaiyātām । adhyaithāḥ । adhyaidhvam । adhyaivahi । adhīyīta । adhīyīran ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 69 | label: grammar | g:0.75 m:0.5 ---
+
+gṛham āgatya ca sarvām ātma-goṣṭhīṃ miṣṭānnādibhiḥ suṣṭhu tuṣṭām akārṣīt । [] tataś cānanda-viśiṣṭeṣu visṛṣṭeṣu śiṣṭeṣu rāma-kṛṣṇau nija-nija-dhāma samāgamya ramyatama-śayyām adhiśayya mātṛbhyām upacaryamāṇau paricārakaiḥ paricaryamāṇau sukhaṃ nidadratuḥ ।

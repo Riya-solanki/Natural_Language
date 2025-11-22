@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2123 | label: meter | g:0.25 m:0.5 ---
+
+yas te atmā devatā gāvo yā gāvaḥ sa tvam avyayam 
+lokānāṃ tvatpravṛttānām ekaṃ gobrāhmaṇaṃ smṛtam ।।

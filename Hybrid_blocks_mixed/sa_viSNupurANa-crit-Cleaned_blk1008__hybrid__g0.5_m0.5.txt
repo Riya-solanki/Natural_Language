@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1008 | label: hybrid | g:0.5 m:0.5 ---
+
+yaḥ imaṃ stavaṃ paṭhate śṛṇuyād api nityaśaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 216 | label: grammar | g:0.625 m:0.5 ---
+
+tiryakpuṇḍraṃ na kurvīta samprāpte maraṇe api ca na cānyan nāma vibrūyāt paraṃ nārāyaṇādṛte ।।

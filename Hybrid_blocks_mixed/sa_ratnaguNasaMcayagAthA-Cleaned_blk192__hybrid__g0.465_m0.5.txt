@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 192 | label: hybrid | g:0.465 m:0.5 ---
+
+mātā pitā ca parigṛhya saputradāraṃ kāntāramārgi pratipadya bahūamitro 
+so nirmiṇitva puruṣān bahu śūravīrān kṣemeṇa gatva puna gehamupāgameyyā ।।

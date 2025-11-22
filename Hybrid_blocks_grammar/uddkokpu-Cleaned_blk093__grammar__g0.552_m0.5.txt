@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 93 | label: grammar | g:0.552 m:0.5 ---
+
+vaktraupamyaṃ vahati vimalaṃ paśya pārśve sudhāṃśoḥ paścādbhāgaṃ sumukhi ramaṇairitthamāvedyamānāḥ ।
+harmye yasyāṃ hariṇanayanāḥ kurvate asmin kalaṅkaṃ dṛṣṭvā serṣyā iva kuvalayādhyeyaśobhairapāṅgaiḥ ।।

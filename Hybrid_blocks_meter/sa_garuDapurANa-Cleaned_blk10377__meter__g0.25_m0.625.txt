@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10377 | label: meter | g:0.25 m:0.625 ---
+
+sūryeṣu dvādaśasveko mitrastārā guroḥ priyā ।
+koṇādhipo nirṛtiśca pravahapriyā ।।

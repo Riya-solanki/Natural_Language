@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 122 | label: meter | g:0.194 m:0.5 ---
+
+nānāvīryāḥ pṛthagbhūtās tatas te saṃhatiṃ vinā 
+nāśaknuvan prajāḥ sraṣṭum asamāgamya kṛtsnaśaḥ ।।

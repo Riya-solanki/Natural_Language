@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 835 | label: grammar | g:0.534 m:0.357 ---
+
+viśeṣāccāha tadanvityādi ।।
+tadanu lākṣāmatsyādipittabhāvanāyā anantaraṃ tasmin lākṣādikalke krāmaṇamṛdite kāntarasakadaradaraktatailendragopādyair mṛdite sati punastatkalkena taccūrṇenāpi piṇḍitarasena vedhaḥ kartavya iti śeṣaḥ ।।
+kasmin tāre vā śulbe vā vidrute jalarūpe kārya ityarthaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6504 | label: meter | g:0.0 m:0.5 ---
+
+[[iti śrīviṣṇupurāṇe ṣaṣṭhe aṃśe aṣṭamo adhyāyaḥ ]]

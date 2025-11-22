@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1335 | label: grammar | g:0.604 m:0.5 ---
+
+guṇotkarṣadveṣāt prakṛtimahatām apy asadṛśaṃ khalaḥ kiṃcid vākyaṃ racayati ca vistārayati ca ।
+na ced evaṃ tādṛk kamalakalikārdhapratinidhau muner gaṇḍūṣe abdhiḥ sthita iti kuto ayaṃ kalakalaḥ ।।

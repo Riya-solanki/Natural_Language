@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 218 | label: grammar | g:0.583 m:0.5 ---
+
+yasya padasyānekārthasyaiko artho'sabhyaḥ syāt, tadasabhyārthāntaram । yathā varcaḥ iti padaṃ tejasi viṣṭhāyāṃ ca ।
+yattu padaṃ sabhyārthavācakamapyekadeśadvāreṇāsabhyārthaṃ smārayati, tadasabhyasmṛtihetuḥ । yathā kṛkāṭikā iti ।।

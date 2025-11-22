@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2010 | label: meter | g:0.194 m:0.5 ---
+
+gacchatv iyaṃ vasumatī svāṃ yoniṃ lokadhāriṇī 
+sṛṣṭo ayaṃ naiṣṭhiko rājñām upāyo lokaviśrutaḥ ।।

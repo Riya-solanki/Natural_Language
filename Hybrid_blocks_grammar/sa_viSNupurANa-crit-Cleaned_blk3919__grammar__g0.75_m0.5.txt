@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3919 | label: grammar | g:0.75 m:0.5 ---
+
+tasyāpy aṣṭau sutāḥ sumālyādyā bhavitāraḥ । tasya ca mahāpadmasyānu pṛthivīṃ bhokṣyanti । mahāpadmas tatputrāś ca ekaṃ varṣaśatam avanīpatayo bhaviṣyanti । navaitān nandān kauṭilyo brāhmaṇaḥ samuddhariṣyati ।।

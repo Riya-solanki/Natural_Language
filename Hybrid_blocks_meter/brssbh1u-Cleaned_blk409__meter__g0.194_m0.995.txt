@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 409 | label: meter | g:0.194 m:0.995 ---
+
+[atrāspaṣṭabrahmaliṅgānāṃ prāyo jñeyabrahmaviṣayāṇāṃ vicāraḥ ।
+evaṃ pādatrayeṇāpi vākyavicāraḥ]

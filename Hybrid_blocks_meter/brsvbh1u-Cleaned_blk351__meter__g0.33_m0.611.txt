@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 351 | label: meter | g:0.33 m:0.611 ---
+
+kaṇikāyāmiha tu vistarabhayānnoktam ।
+tenāpauruṣeyatve siddhe bhūtārthānāmapi vedāntānāṃ na sāpekṣatayā prāmāṇyavighātaḥ ।
+na cānadhigata

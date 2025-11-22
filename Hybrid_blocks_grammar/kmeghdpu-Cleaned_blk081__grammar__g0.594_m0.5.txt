@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 81 | label: grammar | g:0.594 m:0.5 ---
+
+utsaṅge vā malinavasane saumya nikṣipya vīṇāṃ madgotrāṅkaṃ viracitapadaṃ geyam udgātukāmā ।
+tantrīr ārdrā nayanasalilaiḥ sārayitvā kathaṃ cid bhūyo bhūyaḥ svayam api kṛtāṃ mūrcchanāṃ vismarantī ।।

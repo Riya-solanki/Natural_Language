@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10609 | label: meter | g:0.351 m:0.565 ---
+
+brahmaṇā saha mokṣaṃ ca yāti samyaṅ na cānyathā ।
+kalpaviṃśatimārabhya brahmaṇaḥ parameṣṭhinaḥ ।।

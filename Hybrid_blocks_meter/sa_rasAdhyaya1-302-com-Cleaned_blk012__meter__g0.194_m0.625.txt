@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 12 | label: meter | g:0.194 m:0.625 ---
+
+brahmacaryaṃ tapaḥ kāryaṃ haviṣyānnasya bhojanam 
+kriyābhraṣṭe na sidhyanti taponaṣṭe phalanti na ।।

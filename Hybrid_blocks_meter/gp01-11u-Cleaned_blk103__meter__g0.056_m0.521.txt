@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 103 | label: meter | g:0.056 m:0.521 ---
+
+gavāṃ kṣepaś cāraṃ prati sakhibhir ākrīḍa-paratā
+muhus tāsāṃ dūre gamanam anusambhālana-vidhiḥ ।
+tad-āhvānaṃ tāsu kramam anuvisṛṣṭiḥ savayasāṃ
+punaḥ krīḍāveśaḥ smṛti-padatayā kṣobhayati ।। [śikhariṇī]

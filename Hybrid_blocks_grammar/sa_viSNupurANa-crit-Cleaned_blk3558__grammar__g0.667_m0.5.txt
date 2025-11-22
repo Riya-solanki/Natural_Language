@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3558 | label: grammar | g:0.667 m:0.5 ---
+
+anantaraṃ ca tenāpi bhagavataivābhihito asmīty ukte kiṃ kiṃ mayaivābhihitam iti saṃcintya munir api samādhau tasthau ।।

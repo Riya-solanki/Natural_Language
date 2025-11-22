@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4772 | label: meter | g:0.194 m:0.625 ---
+
+idam evaṃvidhaṃ kṛtvā vipriyaṃ yadupuṃgave 
+kathaṃ jīvan vimucyeta sākṣād api śatakratuḥ ।।

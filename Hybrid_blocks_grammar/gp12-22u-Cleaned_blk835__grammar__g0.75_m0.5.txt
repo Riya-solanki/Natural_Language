@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 835 | label: grammar | g:0.75 m:0.5 ---
+
+[] atrāparāpi kautuka-paramparāvadhāryatām । [] gate ca kaṃsa-pakṣe yakṣe yadā sa khalu vṛddhaśravā vṛddhaśravastvam evātmānaṃ pratimanyate sma, tadā sāvahittham idam utthāpitavān-bho madīya-gaṇāḥ, samavadhīyatām । sa khalu dānavārir vārita-mad-udyamatayā vipakṣavad ācarann api vairi-śamanatayā mayā sahāyatayā niścitas tat-parīkṣārtham eva ca tathā vibhīṣita ity abhinandanīya eva bhavadbhiḥ iti ।

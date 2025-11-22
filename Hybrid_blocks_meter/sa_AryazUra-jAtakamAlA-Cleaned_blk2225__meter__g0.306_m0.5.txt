@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2225 | label: meter | g:0.306 m:0.5 ---
+
+kṛtopakāro api tu na prasehe vaktuṃ sa yācñāvirasākṣaraṃ tam ।
+viśāradasyāpi hi tasya lajjā tatkālamaunavratamādideśa ।।

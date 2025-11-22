@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 66 | label: meter | g:0.25 m:0.5 ---
+
+yatra strīṇāṃ priyatamabhujocchvāsitāliṅgitānām aṅgaglāniṃ suratajanitāṃ tantujālāvalambāḥ ।
+tvatsaṃrodhāpagamaviśadaiś cotitāś candrapādair vyālumpanti sphuṭajalalavasyandinaś candrakāntāḥ ।।

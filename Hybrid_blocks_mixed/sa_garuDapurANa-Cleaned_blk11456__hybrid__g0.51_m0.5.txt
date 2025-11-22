@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11456 | label: hybrid | g:0.51 m:0.5 ---
+
+bhaktā hareḥ śrīnivāsācale ca gaṅgādirūpeṇa ca tatratatra ।
+tiṣṭhanti sevārthamurukramasya teṣāṃ pūjā naiva kāryā ca devi ।।

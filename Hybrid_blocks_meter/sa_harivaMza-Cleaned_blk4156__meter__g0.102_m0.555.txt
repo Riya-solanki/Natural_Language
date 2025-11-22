@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4156 | label: meter | g:0.102 m:0.555 ---
+
+prāsādaṃ caiva hemābhaṃ sarvabhūtamanoharam 
+meror iva gireḥ śṛṅgam ucchritaṃ kāñcanaṃ mahat 
+rukmiṇyāḥ pravaraṃ vāsaṃ vihitaṃ viśvakarmaṇā ।।

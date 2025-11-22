@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 18 | label: grammar | g:0.552 m:0.5 ---
+
+sthitvā tasmin vanacaravadhūbhuktakuñje muhūrtaṃ toyotsargadrutataragatis tatparaṃ vartma tīrṇaḥ ।
+revāṃ drakṣyasy upalaviṣame vindhyapāde viśīrṇāṃ bhakticchedair iva viracitāṃ bhūtim aṅge gajasya ।।

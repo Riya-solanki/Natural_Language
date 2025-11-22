@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 386 | label: grammar | g:0.604 m:0.5 ---
+
+iti sākṣātkṛte deve rājño yad rātavarmaṇaḥ prītiprakāśanaṃ tac ca preya ity avagamyatām ।।

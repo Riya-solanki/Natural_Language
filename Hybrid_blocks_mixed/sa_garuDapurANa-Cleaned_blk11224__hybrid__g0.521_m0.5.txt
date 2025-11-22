@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11224 | label: hybrid | g:0.521 m:0.5 ---
+
+yeṣāṃ jihvāgre harināmaiva nāsti yeṣāṃ gātrairnamanaṃ nāpi viṣṇoḥ ।
+yeṣāṃ padbhyāṃ nāsti hareḥ pradakṣiṇaṃ teṣāṃ sarvaṃ vyarthamāhurmahāntaḥ ।।

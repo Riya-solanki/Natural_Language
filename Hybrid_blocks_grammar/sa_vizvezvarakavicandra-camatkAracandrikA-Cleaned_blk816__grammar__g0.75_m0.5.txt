@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 816 | label: grammar | g:0.75 m:0.5 ---
+
+atra krudhayadityādipade upamānasyāhidaṃṣṭrāmukhasya tulyadharmasya vikaṭatvasya khaḍgamukhasyopameyasya casvasvaśabdairabhidhānena dyotakārthasya pratibhānāt sarvamupamānopameyatulyadharmadyotakaṃ samāse saṃbhavatīti sarvasamāsā nāmeyaṃ padopamā । śeṣāhirivadīrghaḥ śeṣāhidīrgha ityatra dyotakārtha upamānāni sāmānyavacanairiti samāsenokta iti seyamantargatadyotakārthā nāma samāsapadopamā । jalajamiva tāmraṃ karatalaṃ yasyāyaṃ jalajakaratala ityatrānyapadārthaṃsamāsa evadyotakatulya dhayorantarmarbhūtatvādiyamantarbhūtobhayārthā nāma samāsapadopamā ।

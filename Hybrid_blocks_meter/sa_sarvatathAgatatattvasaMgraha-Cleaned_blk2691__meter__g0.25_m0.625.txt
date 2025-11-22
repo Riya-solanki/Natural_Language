@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2691 | label: meter | g:0.25 m:0.625 ---
+
+svabhāvaśuddhyā vācā vai sarvadharmā iti brūvan ।
+buddhasauritvamāpnoti na cetsiddhiryathoparī- ।।

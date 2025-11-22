@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1924 | label: meter | g:0.25 m:1.0 ---
+
+pañcapañcānyatra bhāni caitrādya udayastathā ।
+dvādaśāhairdvayormāsanāmnorādyakṣaraṃ tathā ।।

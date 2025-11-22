@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4255 | label: meter | g:0.25 m:0.648 ---
+
+atyadbhutam idaṃ cāsīd yac chiśuḥ puruṣottamaḥ 
+pādāṅguṣṭhena śakaṭaṃ krīḍamāno vyaloḍayat ।। 
+bhakṣayan dadhi govindaḥ payaḥpānaṃ ca sāgrajaḥ । 
+dāmnā colūkhale baddho viprakurvan kumārakān 
+ulūkhale parāmṛdgād vṛkṣau satyopacāyinau । 
+dāmodara iti khyāto vasudevasutas tataḥ ।। 
+babhañjārjunavṛkṣau dvau khyāto dāmodaras tataḥ । 
+kāliyaś ca mahānāgo durādharṣo mahābalaḥ 
+krīḍatā vāsudevena nirjito yamunāhrade ।।

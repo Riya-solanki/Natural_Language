@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 13 | label: grammar | g:0.583 m:0.5 ---
+
+tasya bhāgyaguṇātiśayasamāvarjito mahāṃ llābhasatkārayaśoviśeṣaḥ prādurabhūt । dharmābhyāsabhāvitamatiḥ kṛtapravrajyāparicayastu bodhisattvo na tenābhireme ।

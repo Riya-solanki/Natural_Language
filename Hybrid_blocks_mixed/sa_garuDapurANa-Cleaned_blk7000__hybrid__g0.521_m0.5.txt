@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7000 | label: hybrid | g:0.521 m:0.5 ---
+
+yaḥ prārthayatyarthamaśeṣasaukhyaṃ dharmaṃ ca kāmaṃ ca tathaiva mokṣam ।
+sa sarvamutsṛjya paraṃ purāṇaṃ prayāti viṣṇuṃ śaraṇaṃ vareṇyam ।।

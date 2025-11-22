@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5972 | label: meter | g:0.194 m:0.5 ---
+
+gṛhāntā dravyasaṃghātā dravyāntā ca tathā matiḥ 
+arthāś cātmopabhogāntā bhaviṣyanti kalau yuge ।।

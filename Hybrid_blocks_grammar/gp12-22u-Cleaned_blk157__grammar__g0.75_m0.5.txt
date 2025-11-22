@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 157 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha prathamata eva prathamataḥ sthitāḥ samāna-vayasaḥ savayasas tasmāt tam uttīrṇaṃ nirvarṇya vistīrṇa-tad-varṇāmṛta-bhṛta-nayanatayā sthitāḥ kramatas tad-aṅga-saṅga-raṅga-bhūmitām itās tad-āliṅgana-riṅgat-sukha-taraṅgatāṃ gatā na tāvat pratisvam ayam aham asmīti tasmin nyavediṣuḥ ।

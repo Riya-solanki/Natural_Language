@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 4 | label: grammar | g:0.615 m:0.5 ---
+
+śrīmantaṃ śirasā bibharti kurute viśvabhramaṃ helayā dhatte pāṭakapakṣapātam aniśaṃ naivāmiśais tṛpyati ।
+raktaṃ pātum apīhate ca sakalaṃ tārkṣyasya mūrtir yathā veśyā kiṃ tu bhujaṅgabhakṣaṇavidhau nādyāpi viśrāmyati ।।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 167 | label: grammar | g:0.59 m:0.383 ---
+
+svamajñātidhanākhyāyām ।।
+jñātidhanānyavācinaḥ svaśabdasya prāptā saṃjñā jasi vā । sve, svāḥ; ātmīyāḥ, ātmāna iti vā । jñātidhanavācinastu, svāḥ; jñātayor'thā vā ।।

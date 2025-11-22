@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11496 | label: meter | g:0.306 m:0.5 ---
+
+pāścātyabhāge śrīnivāsasya devi nandaṃ sunandaṃ saṃsmaredeva bhaktyā ।
+savyadvāre śrīnivāsasya kanye smaretkumudākṣaṃ kumudantameva ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 895 | label: meter | g:0.25 m:0.5 ---
+
+mukham āhavanīyaṃ syāt tasmin mantrāḥ sadā sthitāḥ 
+aghoraṃ kālam ity uktam aghoraṃ viṣṇur ucyate ।।

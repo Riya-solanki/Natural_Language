@@ -1,0 +1,7 @@
+--- source: brsvbh2u-Cleaned.txt | block: 212 | label: meter | g:0.264 m:0.534 ---
+
+punaranantānāmiti ।
+na tāvatpradīpo atra nidarśanaṃ bhavitumarhati, anityatvaprasaṅgāt ।
+viśarāravo hi pradīpāvayavaḥ, pradīpaścāvayavī pratikṣaṇamutpattinirodhadharmā, tasmādanityatvāttasya nāsthiro jīvastadavayavāścābhyupetavyāḥ ।
+tathā ca vikalpadvayoktaṃ dūṣaṇamiti ।
+yacca jīvāvayavānāmānantyamuditaṃ tadanupapannataramityāhaapi ca śarīramātreti ।।

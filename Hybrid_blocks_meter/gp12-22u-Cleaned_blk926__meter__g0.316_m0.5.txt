@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 926 | label: meter | g:0.316 m:0.5 ---
+
+kṛṣṇārcāraci daivataiḥ sukham ayur lokāś ca gāvas tathā
+pṛthvīṃ dugdha-bhṛtāṃ vyadhur bahu-vidhān nadyo rasān susruvuḥ ।
+vṛkṣā madhv adhur uddadhuś ca girayo ratnāni nirvairatāṃ
+jīvāḥ prāpur aho mahaty apacitiḥ puṣyaty akartṝn api ।। [śārdūlavikrīḍita]

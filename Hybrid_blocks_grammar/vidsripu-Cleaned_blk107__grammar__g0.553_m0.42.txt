@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 107 | label: grammar | g:0.553 m:0.42 ---
+
+kasmāt tvaṃ tātagehād aparam abhinavā brūhi kā tatra vārtā devyā devo jitaḥ kiṃ vṛṣaḍamarucitābhasmabhogīndracandrān ।
+ity evaṃ barhināthe kathayati sahasā bhartṛbhikṣāvibhūṣā- vaiguṇyodvegajanmā jagad avatu ciraṃ hāravo bhṛṅgarīṭeḥ ।।
+tuṅgasyaitau

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8505 | label: meter | g:0.25 m:0.5 ---
+
+saptame māsi samprāpte puraṃ bahvāpadaṃ vrajet ।
+tatra bhuktva pradattaṃ yacchrāddhaṃ saptamamāsikam ।।

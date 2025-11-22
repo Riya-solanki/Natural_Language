@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 273 | label: grammar | g:0.573 m:0.5 ---
+
+mātary ayaṃ yadi mama praharaty anāryaḥ saṃpaśyato mama vadhaḥ sakalaḥ sa eva ।
+tyaktvā svajīvitam ataḥ paripālayāmi vṛddhām imāṃ kumudinīdhavalāṃ ca kīrtim ।।

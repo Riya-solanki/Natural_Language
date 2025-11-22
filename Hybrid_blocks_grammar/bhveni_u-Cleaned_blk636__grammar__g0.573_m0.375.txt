@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 636 | label: grammar | g:0.573 m:0.375 ---
+
+aśvatthāmā
+rājanmuñca muñcainam । āsādayatu madbhujāntaraniṣpeṣasulabhamasūnāmavasādanam । anyacca rājan । snehena kāryeṇa vā yattvamenaṃ tātādhikṣepakāriṇaṃ durātmānaṃ mattaḥ parirakṣitumicchasi tadubhayamapi vṛthaiva । paśya ।

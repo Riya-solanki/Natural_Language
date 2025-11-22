@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 325 | label: meter | g:0.194 m:0.75 ---
+
+eṣa pramātā māyāndhaḥ saṃsārī karmabandhanaḥ 
+vidyābhijñāpitaiśvaryaś cidghano mukta ucyate ।।

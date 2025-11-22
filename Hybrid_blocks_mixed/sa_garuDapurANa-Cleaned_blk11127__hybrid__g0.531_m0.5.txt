@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11127 | label: hybrid | g:0.531 m:0.5 ---
+
+eṣāmāyurvyarthamevaṃ gataṃ ca eṣāṃ dṛṣṭvā yauvanaṃ tu dhruvaṃ ca ।
+skandhasthamṛtyurhasate kṛṣṇa viṣṇo taṃ vai na jānanti vimūḍhacetasaḥ ।।

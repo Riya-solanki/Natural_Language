@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 126 | label: meter | g:0.056 m:0.75 ---
+
+abjaṃ tad āliṅgitum abja-bandhor
+bandhur yayau kiṃ pariveṣa eṣaḥ ।
+gopālayānāṃ valayāvalir vā
+gopeśa-veśmābhita evam asti ।। iti । [indravajrā]

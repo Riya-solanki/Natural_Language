@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1712 | label: grammar | g:0.562 m:0.5 ---
+
+diśo vāsaḥ pātraṃ karakuharam eṇāḥ praṇayinaḥ samādhānaṃ nidrā śayanam avanī mūlam aśanam ।
+kadaitat sampūrṇaṃ mama hṛdayavṛtter abhimataṃ bhaviṣyaty atyugraṃ paramaparitoṣopacitaye ।।

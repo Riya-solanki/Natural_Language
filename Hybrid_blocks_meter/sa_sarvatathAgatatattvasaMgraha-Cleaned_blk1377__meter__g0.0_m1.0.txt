@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1377 | label: meter | g:0.0 m:1.0 ---
+
+chapter vajra-kula-karma-mandala-vidhi-vistara

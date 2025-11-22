@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1017 | label: meter | g:0.25 m:0.5 ---
+
+samudgā dakṣiṇā proktā prīmanāya jagadguroḥ ।
+vācyaṃ namaste deveśa tryambaketi prakīrtayet ।।

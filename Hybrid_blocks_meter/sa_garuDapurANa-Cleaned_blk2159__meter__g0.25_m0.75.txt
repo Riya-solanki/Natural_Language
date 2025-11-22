@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2159 | label: meter | g:0.25 m:0.75 ---
+
+tasyaiva dānavapaterninadānurūpāḥ pravṛṭpayodavaradarśita cārurūpāḥ ।
+vaidūryaratnamaṇayo vividhāvabhāsastasmātsphuliṅganivahā iva saṃbabhūvuḥ ।।

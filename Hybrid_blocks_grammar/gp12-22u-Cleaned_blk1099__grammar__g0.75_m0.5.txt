@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1099 | label: grammar | g:0.75 m:0.5 ---
+
+[] kṛṣṇaś ca tad-upayuktam uktavān-aho, kadā dāsyo bhaviṣyatha? kadā vā mayoditaṃ kariṣyatha? tat tu nopalabhāmahe । yadi vettham satyam eva, tadā gaty-antaram antarā, jalād utthāya sarva-sampad utthāya smitena sametam eva sameta, na tu sūkṣmayāpi rukṣatayā । na cen, mithyā-saṅkalpa-jalpānāṃ tata evādharma-marma-kalpānāṃ sāhāyyam asmābhiḥ kathaṃ vā prathanīyam?

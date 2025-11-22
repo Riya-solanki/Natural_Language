@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 91 | label: meter | g:0.306 m:0.625 ---
+
+cakṣuṣā kiṃ daridrasya parābhyudayasākṣiṇā ।
+dhanameva yato dehi deva mā sāhasaṃ kṛthāḥ ।।

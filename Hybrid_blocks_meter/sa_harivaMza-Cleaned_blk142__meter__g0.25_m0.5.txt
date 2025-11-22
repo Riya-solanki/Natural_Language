@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 142 | label: meter | g:0.25 m:0.5 ---
+
+dvimūrdhā śakuniś caiva tathā śaṅkuśirā vibhuḥ 
+śaṅkukarṇo vivādaś ca gaveṣṭhī duṃdubhis tathā । 
+ayomukhaḥ śambaraś ca kapilo vāmanas tathā ।।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2398 | label: meter | g:0.194 m:0.629 ---
+
+pūrṇas tu gharmasamayas tayos tatra vane sukham 
+krīḍatoḥ saha gopālair yamunāṃ cāvagāhatoḥ ।। 
+gate tasmin mahāgharme rajaḥpūrais tirohitaiḥ । 
+tataḥ prāvṛd anuprāptā manasaḥ kāmadīpanī 
+pravavarṣur mahāghorāḥ śakracāpāṅktitodarāḥ 
+babhūvādarśanaḥ sūryo bhūmiś cādarśayat tṛṇam ।।

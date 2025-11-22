@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4324 | label: meter | g:0.194 m:0.625 ---
+
+tat tu tālavanaṃ nityaṃ dhenuko nāma dānavaḥ 
+nṛgomāṃsakṛtāhāraḥ sadādhyāste kharākṛtiḥ ।।

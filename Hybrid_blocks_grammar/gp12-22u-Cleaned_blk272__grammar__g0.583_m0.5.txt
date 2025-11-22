@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 272 | label: grammar | g:0.583 m:0.5 ---
+
+[] vṛndāha-bhagavati, param āpadāṃ padam ekam utpannam asti, kathaṃ tava niścintatā dṛśyate?

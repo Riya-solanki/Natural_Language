@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7667 | label: meter | g:0.272 m:0.845 ---
+
+pretapiṇḍaṃ bahirdadyāddarbhamātravivarjitam ।
+prāgudīcyāṃ caruṃ kṛtvā snātvā prayatamānasaḥ ।।

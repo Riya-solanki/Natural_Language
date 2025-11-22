@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 255 | label: hybrid | g:0.44 m:0.468 ---
+
+ayaṃ tvativistaro gatārthakha iti manvānaḥ saugatā dvyāyavamudāharaṇopanayātmakaṃ manyante ।
+smaryamāṇaniyamaṃ hi liṅgaṃ sādhyadharmiṇyanusaṃdhānasya svayameva liṅgabuddhirutpadyate ।
+tena yatkṛtakaṃ tadanityamiti kṛtakatvasyānityatvena vyāptiniyamaṃ smārayitvā kṛtakaśca śabda ityupanayamātre kṛte śabdasyānityatvamavagamyata eveti kṛtamavayavāntaraiḥ ।।

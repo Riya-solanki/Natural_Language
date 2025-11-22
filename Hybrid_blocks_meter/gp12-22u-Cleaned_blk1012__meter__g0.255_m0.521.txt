@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1012 | label: meter | g:0.255 m:0.521 ---
+
+nityaṃ tāvad analpa-rāga-mahimā sarvaṃ sahāyīyati
+prāpnoty eṣa tu yogya-kalpam atha ced dhatte sad-ullāsitām ।
+tasmiṃs tādṛg abhūd guruḥ svayam asau śaktiḥ parā vaiṣṇavī
+pūjyā mantra-varaś ca vāñchita-dharas tāsām itaḥ kiṃ sukham? ।। [śārdūla]

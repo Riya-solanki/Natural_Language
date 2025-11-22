@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 137 | label: meter | g:0.25 m:0.5 ---
+
+saṃhrādas ca caturtho abhūd dhrādaputro hradas tathā 
+saṃhrādaputrau sundaś ca nisundas tāv ubhau smṛtau । 
+hradasya putro apy āyur vai śivaḥ kālas tathaiva ca 
+saṃhrādaputra āyuṣmāñ śibir bāṣkala eva ca । 
+teṣāṃ madhye mahābhāga sarvatra samadṛg vaśī । 
+prahrādaḥ paramāṃ bhaktiṃ ya uvāca janārdane । 
+virocanaś ca prāhrādir balir jajñe virocanāt ।।

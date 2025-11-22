@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 366 | label: grammar | g:0.625 m:0.5 ---
+
+pitryaṃ māsena bhavati nāḍīṣaṣṭyā tu mānuṣam। tad eva kila sarvatra na bhavet kena hetunā।।

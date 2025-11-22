@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1658 | label: meter | g:0.194 m:0.75 ---
+
+dayālurnodvegaṃ janayati pareṣāmupaśamād
+dayāvān viśvāsyo bhavati jagatāṃ bāndhava iva ।
+na saṃrambhakṣobhaḥ prabhavati dayādhīrahṛdaye
+na kopāgniścitte jvalati hi dayātoyaśiśire ।।

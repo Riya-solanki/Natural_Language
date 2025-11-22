@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 589 | label: meter | g:0.25 m:0.5 ---
+
+atra kailāsa-kampa-janita-pramatha-gaṇa-vismaya-kārtikeyāpasarpaṇa-kātyāyanī-sādhvasādibhir anubhāvais tat-tad-gata-sambhramātiśaya-rūpa āvego vyajyate ।

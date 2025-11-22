@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 376 | label: grammar | g:0.562 m:0.5 ---
+
+hiraṇyagarbho bhagavān eṣa chandasi paṭhyate। ādityo hy ādibhūtatvāt prasūtyā sūrya ucyate।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2428 | label: meter | g:0.25 m:0.5 ---
+
+yasmād viṣṭam idaṃ sarvaṃ tasya śaktyā mahātmanaḥ 
+tasmāt sa procyate viṣṇur viśer dhātoḥ praveśanāt ।।

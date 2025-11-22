@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2033 | label: meter | g:0.25 m:0.5 ---
+
+utpadyate mauktikameṣu vṛttamāpītavarṇaṃ prabhayā vihīnam ।
+pāṭhīnapṛṣṭhasya samānavarṇaṃ mīnātsuvṛttaṃ laghu cātisūkṣmam ।।

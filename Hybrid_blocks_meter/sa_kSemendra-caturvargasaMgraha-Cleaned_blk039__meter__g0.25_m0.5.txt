@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 39 | label: meter | g:0.25 m:0.5 ---
+
+tasmād alabdhadraviṇasya lābhe labdhasya rakṣāniyame yatena ।
+saṃrakṣamāṇasya sadā vivṛddhau vṛddhasya ca sthānavibhāgasarge ।।

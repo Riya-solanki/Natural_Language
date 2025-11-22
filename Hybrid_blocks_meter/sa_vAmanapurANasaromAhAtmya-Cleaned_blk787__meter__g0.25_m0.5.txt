@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 787 | label: meter | g:0.25 m:0.5 ---
+
+uśanā yatra saṃsiddha ārādhya parameśvaram ।
+grahamadhyeṣu pūjyate tasya tīrthasya sevanāt ।।

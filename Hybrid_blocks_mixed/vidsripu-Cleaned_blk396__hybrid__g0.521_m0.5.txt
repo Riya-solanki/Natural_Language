@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 396 | label: hybrid | g:0.521 m:0.5 ---
+
+asti bhayam asti kautukam asti ca mandākṣam asti cotkaṇṭhā ।
+bālānāṃ praṇayijane bhāvaḥ ko apy eṣa naikarasaḥ ।।

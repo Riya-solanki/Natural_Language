@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 395 | label: meter | g:0.266 m:0.655 ---
+
+na ca pramāṇamapi kiñcidākṛtisadbhāve saṃbhavati, na tāvatpratyakṣam ।
+na hi jātiḥ svaviṣayaṃ jñānaṃ janayati nityatvābhyupagamāt ।
+nityānāṃ ca sarvārthakriyāsvasāmarthyāt ।
+na hi jātiḥ svaviṣayaṃ jñānaṃ janayati nityatvābhyupagamāt ।
+nityānāṃ ca sarvārthakriyāsvasāmarthyāt ।
+nacājanakasya viṣayatvaṃ saṃbhavati tallakṣaṇatvādviṣayatvasya ।
+tasmadvikalpākāramātraṃ sāmānyam, alīkaṃ vā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 36 | label: meter | g:0.306 m:0.5 ---
+
+vikāsamāyanti ta paṅkājāni candrāṃśavo bhānti latāḥ supuṣpāḥ ।
+nandanti hṛṣṭānyapi gokulāni santaśca saṃtoṣamanuvrajanti ।।

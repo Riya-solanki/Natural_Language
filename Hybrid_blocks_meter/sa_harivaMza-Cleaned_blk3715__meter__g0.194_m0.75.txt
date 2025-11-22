@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3715 | label: meter | g:0.194 m:0.75 ---
+
+bhagavañ śrotum icchāmi vistareṇa mahātmanaḥ 
+caritaṃ vāsudevasya yaduśreṣṭhasya dhīmataḥ ।।

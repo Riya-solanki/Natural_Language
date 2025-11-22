@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10892 | label: hybrid | g:0.51 m:0.5 ---
+
+sṛṣṭvā yuktaṃ ṣoḍaśabhiḥ kalābhirmahattattvaṃ sūkṣmarūpaṃ sa eva ।
+sāhaṅkāraṃ krīḍayāmāsa devaḥ śṛṇu tvaṃ vai ṣoḍaśākhyāḥ kalāśca ।।

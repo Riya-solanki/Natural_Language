@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 106 | label: grammar | g:0.75 m:0.5 ---
+
+bhedaḥ dānapāramitāsannāhapratipattimārabhya prajñāpāramitāsannāhapratipattiṃ yāvat ṣaḍ bhedā bhavanti । dāne api dānaṃ śīlamityādiṣaṭpāramitā bhavanti । evaṃ ṣaṭsu pāramitāsu ṣaṭ ṣaṭkānīti kṛtvā vistareṇa ṣaṭtriṃśad bhedā bhavanti ।

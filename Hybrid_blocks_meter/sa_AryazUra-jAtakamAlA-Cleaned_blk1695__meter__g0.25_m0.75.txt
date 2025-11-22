@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1695 | label: meter | g:0.25 m:0.75 ---
+
+adhipārthamamātyādi na tadarthaṃ mahīpatiḥ ।
+iti kasmātsvabhṛtyārthamātmānaṃ tyaktavān bhavān ।।

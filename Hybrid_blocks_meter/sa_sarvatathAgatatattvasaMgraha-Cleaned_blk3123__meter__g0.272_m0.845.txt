@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3123 | label: meter | g:0.272 m:0.845 ---
+
+"sarvābhiprāyasiddhīnāṃ rāgāśāsiddhiruttamā ।
+sidhya sidhya mahāsatva bhagavan sarvasiddhaye" ।।

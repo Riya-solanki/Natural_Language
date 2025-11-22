@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 1280 | label: grammar | g:0.559 m:0.5 ---
+
+halī hetuḥ satyaṃ bhavati mama vatsasya nidhane tathāpyeṣa bhrātā sahajasuhṛdaste madhuripoḥ
+ataḥ krodhaḥ kāryo na khalu yadi ca prāṇiṣi tato ē̃ vanaṃ gacchermā gāḥ punarakaruṇāṃ kṣātrapadavīm ।।

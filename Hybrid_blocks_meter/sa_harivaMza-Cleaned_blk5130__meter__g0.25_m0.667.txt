@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5130 | label: meter | g:0.25 m:0.667 ---
+
+tadā skandhe samādāya kumārān pradrutā bhayāt 
+kauśikīṃ saṃśrayiṣyanti narāḥ kṣudbhayapīḍitāḥ ।। 
+pracariṣyanti durbhikṣa vyādhibhiḥ paripīḍitāḥ । 
+aṅgān vaṅgān kaliṅgāṃś ca kāśmīrān atha mekalān 
+ṛṣikāntagiridroṇīḥ saṃśrayiṣyanti mānavāḥ ।।

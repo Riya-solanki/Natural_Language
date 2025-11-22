@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 345 | label: meter | g:0.306 m:0.5 ---
+
+yady api kathayiṣyāmi pitaraṃ yānapātrikam ।
+eṣo api mama mandāyā nāśam eṣyati toyadhau ।।

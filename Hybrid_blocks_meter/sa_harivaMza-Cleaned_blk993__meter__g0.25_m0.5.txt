@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 993 | label: meter | g:0.25 m:0.5 ---
+
+ajamīḍhasya patnyas tu tisro vai yaśasānvitāḥ 
+nīlī ca keśinī caiva dhūminī ca varāṅganā ।।

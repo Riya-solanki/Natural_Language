@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1733 | label: meter | g:0.306 m:0.5 ---
+
+śoko bhogo jvaraḥ kampaḥ sukhaṃ ceti kramātphalam ।
+janmasthaḥ kurute tuṣṭiṃ dvitīye nāsti nirvṛtiḥ ।।

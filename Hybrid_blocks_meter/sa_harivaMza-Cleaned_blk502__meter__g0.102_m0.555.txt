@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 502 | label: meter | g:0.102 m:0.555 ---
+
+taṃ cāśvamedhikaṃ so aśvaṃ samudrād upalabdhavān 
+ājahārāśvamedhānāṃ śataṃ sa sumahāyaśāḥ 
+putrāṇāṃ ca sahasrāṇi ṣaṣṭis tasyeti naḥ śrutam ।।

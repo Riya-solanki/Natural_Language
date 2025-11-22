@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 271 | label: meter | g:0.332 m:0.699 ---
+
+baliruvāca
+brahman kathamahaṃ brūyāmanyenāpi hi yācitaḥ ।
+nāstīti kimu devasya saṃsākasyāghahāriṇaḥ ।।

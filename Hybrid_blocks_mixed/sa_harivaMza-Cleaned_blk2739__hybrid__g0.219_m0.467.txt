@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2739 | label: hybrid | g:0.219 m:0.467 ---
+
+etad devair asaṃbhāvyaṃ divyena vidhinā mayā 
+kṛtaṃ girigṛhaṃ gopā nivātaśaraṇaṃ gavām ।। 
+na trāsa iha vaḥ kāryo maddhastād dhi nipātane । vātavarṣabhayenālaṃ tattrāṇaṃ vihitaṃ hi vaḥ । 
+kṣipraṃ viśantu yūthāni gavām iha hi śāntaye 
+nivāteṣu ca deśeṣu nivasantu yathāsukham 
+yathāvrajaṃ yathāyūthaṃ yathāsāraṃ ca vai sukham ।।

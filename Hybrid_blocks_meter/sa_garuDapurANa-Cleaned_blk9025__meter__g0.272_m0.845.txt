@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9025 | label: meter | g:0.272 m:0.845 ---
+
+yavasarṣapadūrvāścapāṣāṇe nimbacarvaṇam ।
+vastraṃ naraśca nārī ca vidadhyādadharottaram ।।

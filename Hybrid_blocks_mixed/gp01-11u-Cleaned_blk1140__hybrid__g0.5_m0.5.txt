@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1140 | label: hybrid | g:0.5 m:0.5 ---
+
+[] śrī-kṛṣṇaś ca manasi tasyāparādhaṃ manāg apy anāgamayann āgamayamānaḥ prāg-diṣṭa-sadiṣṭa-dveṣa-veśa-kriyānatikrami-kramatayāvasthitāṃs tān vatsāṃs tat-sadṛg-avasthair vatsa-pālair melayāmāsa । [] tathaiva hi teṣāṃ kāla-deśa-viparyayā paryālocanāya druhiṇa-devena sneha-dehany anavadya-vidyeyam udbhāvitā । etad evoktam-

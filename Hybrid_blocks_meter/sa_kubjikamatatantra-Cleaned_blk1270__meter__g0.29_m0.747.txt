@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1270 | label: meter | g:0.29 m:0.747 ---
+
+svabhāvaguṇasaṃyuktaṃ cintayantopadeśataḥ 
+abhyasantasya deveśi avasthāḥ sambhavanti hi ।।

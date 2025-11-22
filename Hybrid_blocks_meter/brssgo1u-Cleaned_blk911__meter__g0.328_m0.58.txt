@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 911 | label: meter | g:0.328 m:0.58 ---
+
+satyasaṃsāradaśāyāṃ bheda eva, muktāvevābheda ityauḍulomimatam ।
+tatra mānamāha-śrutiśceti ।
+samutthānamutkrāntiḥ ।
+nanu saṃsārasyaupādhikatvāt sarvadaivābheda ityāśaṅkya dṛṣṭāntabalena saṃsārasya svābhāvikatvamityāha-kvacicceti ।
+ayathā nadyaḥ syandamānāḥ samudrestaṃ gacchanti nāmarūpe vihāya'iti nadinidarśanaṃ vyācaṣṭe-yathā loke iti ।।

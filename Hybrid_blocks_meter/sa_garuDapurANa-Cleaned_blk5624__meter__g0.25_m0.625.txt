@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5624 | label: meter | g:0.25 m:0.625 ---
+
+dvijayaṣṭyāśca vai mūlaṃ piṣṭaṃ taṇḍulavāriṇā ।
+gaṇḍamālāṃ harellepādasādhyaṃ galagaṇḍakam ।।

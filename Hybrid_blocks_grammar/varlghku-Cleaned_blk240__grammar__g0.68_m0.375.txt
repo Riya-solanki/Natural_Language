@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 240 | label: grammar | g:0.68 m:0.375 ---
+
+na tisṛcatasṛ ।।
+etayornāmi dīrgho na । tisṛṣu ।। dve । dvābhyām । dvābhyām । dvayoḥ ।। gaurī । gauryyaḥ । gauryyai ityādi ।। śeṣaṃ gaurīvat ।। evaṃ tarītantryādayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11898 | label: hybrid | g:0.521 m:0.5 ---
+
+svavāmahaste veṇupātraṃ nidhāya dīpaṃ dhṛtvā savyahaste ca mūḍhaḥ ।
+gṛhegṛhe bhaikṣacaryāṃ ca kṛtvā saṃtiṣṭhamāne svagṛhaṃ caiva devī ।।

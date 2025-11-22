@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 495 | label: grammar | g:0.698 m:0.5 ---
+
+[] tatra ca prajākṛtaṃ rājanīti rājanīti-nyāyena bhavadīya-rājāyamānāyām asyām eva sā jāyamānā syād ity asāv eva tatra pradhānatayāvadhīyate ।
+[] sakhya ūcuḥ-bhavatu, tathāpi yathā-katham api bhavat-prasaṅgata eva saṅgataḥ khalv ayaṃ doṣa iti tan-moṣa-kṛte bhavat-kṛtam evānukartavyam ।

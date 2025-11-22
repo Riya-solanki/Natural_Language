@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8451 | label: meter | g:0.306 m:0.5 ---
+
+dehaṃ prāptaḥ kṣudhāviṣṭo gṛhe dvāre ca tiṣṭhati ।
+daśame ahani yaḥ piṇḍastaṃ dadyādāmiṣeṇa tu ।।

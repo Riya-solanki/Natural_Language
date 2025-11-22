@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 159 | label: grammar | g:0.586 m:0.269 ---
+
+Vṛtti:
+[tataḥ] paścāt [saccarma prasārya] mṛgājinamāstīrya [āsanam] ardhacandrapadmasvastikādyāsanaṃ baddhvā vidvān iti yogapādapradarśitadhyānādividhijño analasaḥ san [mantraṃ dhyāyan japet] tattanmantrajapadhyānaṃ kuryāt।
+[khinnaḥ] śrāntaśca tasmin tatra śayane [laghu] stokaṃ [svapet] śayīta।

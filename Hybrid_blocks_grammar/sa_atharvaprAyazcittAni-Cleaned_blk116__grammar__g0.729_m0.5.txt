@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 116 | label: grammar | g:0.729 m:0.5 ---
+
+saṃsthitahomeṣu tvam agne saprathā asi juṣṭo hotā vareṇyaḥ । tvayā yajñaṃ vi tanvate iti madhyata opya saṃsrāvabhāgaiḥ samsthāpayet ।

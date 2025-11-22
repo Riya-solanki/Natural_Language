@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1865 | label: meter | g:0.25 m:0.625 ---
+
+chatrākāraiḥ śirobhistu nṛpā nimnaśirā dhanī ।
+cipiṭaiśca piturmṛtyurgavādyāḥ parimaṇḍalaiḥ ।।

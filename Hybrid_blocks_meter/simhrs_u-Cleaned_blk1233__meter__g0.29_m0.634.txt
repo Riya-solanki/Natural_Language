@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1233 | label: meter | g:0.29 m:0.634 ---
+
+atha samādhānaṃ-
+bījasya punar ādhānaṃ samādhānam ihocyate ।।

@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 269 | label: meter | g:0.25 m:0.521 ---
+
+rūpyatāmrādināgānāṃ gadyāṇānāṃ śataṃ śatam ।।
+trayāṇāṃ ca śataikasmin pratyekaṃ gālite pṛthak ।
+tanmadhye ṣoṭagadyāṇaṃ pratyekaṃ ca pṛthak kṣipet ।।
+triṣu dhātuṣu hema syānniścitaṃ tithivarṇakam ।

@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 31 | label: grammar | g:0.538 m:0.34 ---
+
+sarvaś ca sati saṃbhave guṇam atilaṅghya pradhānenaiva nityaṃ saṃbadhyate ।
+tasmāt sarveṣāṃ phalasaṃbandhād dharmatvaṃ ।
+tatra tu kiṃ satrivat pratyekaṃ kṛtsnaṃ phalaṃ sādhayanti, atha darśapūrṇamāsavat saṃhatya, tathā kiṃ vikalpena samuccayena vetyādi yatheṣṭaṃ kalpanīyam ।

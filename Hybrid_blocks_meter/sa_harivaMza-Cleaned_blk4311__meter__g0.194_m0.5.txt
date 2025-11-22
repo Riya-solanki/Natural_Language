@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4311 | label: meter | g:0.194 m:0.5 ---
+
+avāpya tapaso vīryaṃ balam ojaś ca mādhavaḥ 
+pūrvadehe jahārāyaṃ bales tribhuvanaṃ hariḥ ।।

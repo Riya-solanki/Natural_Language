@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 684 | label: meter | g:0.268 m:0.896 ---
+
+mitra-saṅgamād, yathā-
+ibha-kumbha-tuṅga-kaṭhinetaretara- stana-bhāra-dūra-vinivāritodarāḥ ।
+pariphulla-gaṇḍa-phalakāḥ parasparaṃ parirebhire kukura-kaurava-striyaḥ ।।

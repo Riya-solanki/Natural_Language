@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1516 | label: grammar | g:0.729 m:0.5 ---
+
+tannāyaṃ vilambituṃ me kāla iti viniścitya sa durātmā lobhadoṣavyāmohitamatirakṛtajño vipannadharmasaṃjñaḥ pranaṣṭakāruṇyasaumyasvabhāvaḥ paridurbalo apyakāryātirāgānmahatīṃ śilāmudyamya tasya mahākapeḥ śirasi mumoca ।

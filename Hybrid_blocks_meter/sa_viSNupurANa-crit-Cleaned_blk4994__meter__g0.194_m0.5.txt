@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4994 | label: meter | g:0.194 m:0.5 ---
+
+daśa cāṣṭau ca saṃgrāmān evam atyantadurmadaḥ 
+yadubhir māgadho rājā cakre kṛṣṇapurogamaiḥ ।।

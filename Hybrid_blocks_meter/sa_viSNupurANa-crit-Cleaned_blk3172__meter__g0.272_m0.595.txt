@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3172 | label: meter | g:0.272 m:0.595 ---
+
+harṣaprāyam asaṃsargi gatimad gamanādiṣu 
+siddhātmaṃs tava yad rūpaṃ tasmai siddhātmane namaḥ ।।

@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 165 | label: grammar | g:0.588 m:0.364 ---
+
+Vṛtti:
+[na kaṃcitpraṇāmed] guruvanna kaṃcinnamet। sādhyamantraṃ na [kasyacid brūyāt] prakāśayet। [oṣadhīḥ] oṣadhyādīn garhāṃ kurvan nākṣipet।
+[yataḥ] yasmāt [śivasya] parameśvarasya ete [vyaktisthānaṃ] vyaktisthānāni। eṣu vyaktaḥ śivabhaṭṭārakastattatphalado bhavati। [sā] tannindā śivanindaiva iti garhaṇayā na tānākṣipet।

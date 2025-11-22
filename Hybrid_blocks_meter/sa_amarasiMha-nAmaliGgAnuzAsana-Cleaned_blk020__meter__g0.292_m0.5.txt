@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 20 | label: meter | g:0.292 m:0.5 ---
+
+aravindamaśokaṃ ca cūtaṃ ca navamallikā nīlotpalaṃ ca pañcaite pañcabāṇasya sāyakāḥ

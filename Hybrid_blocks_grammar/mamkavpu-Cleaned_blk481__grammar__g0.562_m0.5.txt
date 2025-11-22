@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 481 | label: grammar | g:0.562 m:0.5 ---
+
+iti ye apyāhuḥ tairapyavidyāpadapatitaiḥ padapadārthakalpanā kartavyaiveti tatpakṣe apyavaśyamuktodāharaṇādau vidhyādirvyaṅgya eva ।

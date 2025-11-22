@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1488 | label: meter | g:0.25 m:0.871 ---
+
+svarbhānurāsyayodhī tu daśanauṣṭhekṣaṇāyudhaḥ 
+pramukhe devasenāya rarāja girisaṃnibhaḥ । 
+hasaṃs tiṣṭhati daityānāṃ pramukhe sumukho grahaḥ ।।

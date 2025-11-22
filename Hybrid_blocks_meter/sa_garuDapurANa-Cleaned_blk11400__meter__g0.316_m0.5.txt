@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11400 | label: meter | g:0.316 m:0.5 ---
+
+tatra dvijānpūjayitvānnapāna rātrau tattvaṃ śrāvayāmāsa devī ।
+evaṃ yātrāṃ ye prakurvanti nityaṃ teṣāṃ yātrāṃ saphalāṃ prāhurāryāḥ ।।

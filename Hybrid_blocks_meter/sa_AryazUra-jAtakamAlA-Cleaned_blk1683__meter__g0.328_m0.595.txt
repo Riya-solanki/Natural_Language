@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1683 | label: meter | g:0.328 m:0.595 ---
+
+tataḥ samālambya dṛḍhaṃ sa śākhāmātatya tāṃ vetralatāṃ ca yatnāt ।
+svasaṃjñayā yūthamathādideśa drumādataḥ śighramabhirpayāyāt ।।

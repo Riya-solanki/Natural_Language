@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 95 | label: meter | g:0.306 m:0.625 ---
+
+utsṛjya saṃtoṣasukhāmṛtāni prītyai parārādhanasādhanāni ।
+aho nu mānāni dhanāni puṃsāṃ ghanāni nidrāsukhasādhanāni ।।

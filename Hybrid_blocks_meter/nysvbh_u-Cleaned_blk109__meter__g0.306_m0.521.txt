@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 109 | label: meter | g:0.306 m:0.521 ---
+
+anindriyanimittāḥ smṛtyādayaḥ karaṇāntaranimittā bhavitumarhantīti।
+yugapacca khalu ghrāṇādīnāṃ gandhādīnāṃ ca sannikarṣeṣu satsu yugapajjñānāni notpadyante।
+tenānumīyate, asti tattadindriyasaṃyogi sahakāri nimittāntaramavyāpi, yasyāsannidhernotpadyate jñānam, sannidheścotpadyata iti।
+manaḥsaṃyogānapekṣasya hīndriyārthasannikarṣasya jñānahetutve yugapadutpadyeran jñānānīti ।।

@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 784 | label: meter | g:0.25 m:0.625 ---
+
+avyakteśamajaṃ pañcajanādhāraṃ ca kāraṇam ।
+veditanyaṃ priyaṃ vande prakṛtiṃ puruṣaṃ param ।।

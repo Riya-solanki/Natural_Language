@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 487 | label: grammar | g:0.562 m:0.5 ---
+
+tasmāditaraparāmarśāt adaharo asminnantarākāśa' ityatra sa eva jīva ucyate iti cet ।

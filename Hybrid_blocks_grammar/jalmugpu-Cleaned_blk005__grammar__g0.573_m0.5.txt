@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 5 | label: grammar | g:0.573 m:0.5 ---
+
+te gandharvapure vasantu vibhavaṃ svapnārjitaṃ bhuñjatāṃ kurvantu kṣaṇam antarikṣakusumaiḥ sragdāmaśobhām api ।
+veśyānāṃ śaśaśṛṅgabhaṅgisadṛśaṃ vāllabhyam āsādya ye sarvasvakṣapaṇāya kevalam aho mūrkhāḥ sukhenāsate ।।

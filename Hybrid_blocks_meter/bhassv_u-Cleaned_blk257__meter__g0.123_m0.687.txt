@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 257 | label: meter | g:0.123 m:0.687 ---
+
+{vidūṣakaḥ} - dhāredu dhāredu bhavaṃ 
+aṇadikkamaṇīo hi vihī 
+īdisaṃ dāṇi edaṃ 
+[dhārayatu dhārayatu bhavān । anatikramaṇīyo hi vidhiḥ । īdṛśam idānīm etad । ]

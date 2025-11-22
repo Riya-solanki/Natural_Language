@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 335 | label: meter | g:0.25 m:0.625 ---
+
+yaścedaṃ sthānamāśritya kriyāḥ kāścitkariṣyati ।
+na tatra cāsuro bhāgo bhaviṣyati kadācana ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8335 | label: meter | g:0.25 m:0.75 ---
+
+yajñānāṃ caiva sarveṣāṃ vṛṣayajñastathottamaḥ ।
+tasmātsarvaprayatnena vṛṣayajñaṃ samācaret ।।

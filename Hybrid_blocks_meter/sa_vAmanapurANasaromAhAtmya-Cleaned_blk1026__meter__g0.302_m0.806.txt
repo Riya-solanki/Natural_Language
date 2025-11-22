@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1026 | label: meter | g:0.302 m:0.806 ---
+
+mathyamāne kare tasmin utpannaḥ puruṣo aparaḥ ।
+bṛhatsālapratīkāśo divyalakṣaṇalakṣitaḥ ।।

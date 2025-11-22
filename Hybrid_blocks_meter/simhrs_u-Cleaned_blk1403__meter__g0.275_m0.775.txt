@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1403 | label: meter | g:0.275 m:0.775 ---
+
+atha prasaṅgaḥ-
+prastutārthasya kathanaṃ prasaṅgaḥ parikīrtitaḥ । 
+prasaṅgaṃ kathayanty anye gurūṇāṃ parikīrtanam ।।

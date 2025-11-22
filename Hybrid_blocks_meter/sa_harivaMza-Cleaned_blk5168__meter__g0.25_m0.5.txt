@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5168 | label: meter | g:0.25 m:0.5 ---
+
+viṣaye me na vastavyaṃ dhvaṃsadhvaṃ saha bāndhavaiḥ 
+ity uktās tatyajur viprās taṃ nṛpaṃ jātamanyavaḥ ।।

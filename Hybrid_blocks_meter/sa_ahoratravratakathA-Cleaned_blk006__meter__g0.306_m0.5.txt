@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 6 | label: meter | g:0.306 m:0.5 ---
+
+ahorātravrataṃ nātha kasmin kāle pravartate ।
+tadvidhiṃ ca kathaṃ brūhi tat sarvaṃ jagatāṃ prabho ।।

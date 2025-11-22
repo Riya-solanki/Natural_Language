@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1352 | label: meter | g:0.25 m:0.5 ---
+
+akalitanijapararūpaḥ svakam api doṣaṃ parasthitaṃ vetti ।
+nāvāsthitas taṭasthān acalān api vicalitān manute ।।

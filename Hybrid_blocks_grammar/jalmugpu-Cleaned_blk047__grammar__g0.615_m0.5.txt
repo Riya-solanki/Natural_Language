@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 47 | label: grammar | g:0.615 m:0.5 ---
+
+bhrūbhaṅgair atibhaṅguraiḥ kuṭilitaprāntas tathā kuntalaiḥ sopekṣair iva cakṣuṣoḥ saralitāpāṅgaiś ca bhaṅgyantaraiḥ ।
+ātmīyāṃ calacittavṛttiracanāṃ veśyā varākī sadā yūnāṃ darśayatīva te yadi paraṃ mūḍhā na taj jānate ।।

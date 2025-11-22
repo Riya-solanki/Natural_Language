@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2659 | label: meter | g:0.194 m:0.5 ---
+
+sāvataṃsair viṣāṇaiś ca barhāpīḍaiś ca daṃśitaiḥ 
+ghaṇṭābhiś ca pralambābhiḥ puṣpaiḥ śāradikais tathā ।।

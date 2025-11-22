@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4516 | label: meter | g:0.25 m:0.5 ---
+
+āropya brāhmaṇaṃ kṛṣṇas tv avaropya ca dārukam 
+mām uvāca tataḥ śauriḥ sārathyaṃ kriyatām iti ।।

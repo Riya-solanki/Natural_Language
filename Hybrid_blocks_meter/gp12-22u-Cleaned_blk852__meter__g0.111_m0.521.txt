@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 852 | label: meter | g:0.111 m:0.521 ---
+
+girer gartān niṣkrāma-vacanam ākarṇya dayitā
+murāres taṃ prāṇa-pratimam apahāyāpi nirayuḥ ।
+sa evaṃ taṃ bhāvaṃ bata visṛjatītthaṃ sa tu paraṃ
+tad āsāṃ viśliṣṭer bharam asahamāno niragamat ।। [śikhariṇī]

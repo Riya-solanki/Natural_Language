@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 318 | label: meter | g:0.162 m:0.692 ---
+
+yathā-
+mukhaṃ tu candra-pratimaṃ timaṃ timaṃ
+stanau ca pīnau kaṭhinau ṭhinau ṭhinau ।
+kaṭir viśālā rabhasā bhasā bhasā
+aho vicitraṃ taruṇī ruṇī ruṇī ।।

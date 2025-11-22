@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 353 | label: meter | g:0.194 m:0.625 ---
+
+manomātrapathe apy akṣaviṣayatvena vibhramāt 
+spaṣṭāvabhāsā bhāvānāṃ sṛṣṭiḥ svapnapadaṃ matam ।।

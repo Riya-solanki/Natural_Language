@@ -1,0 +1,10 @@
+--- source: brssbh2u-Cleaned.txt | block: 260 | label: meter | g:0.264 m:0.854 ---
+
+apicāṇavaḥ pravṛttisvabhāvā vā nivṛttisvabhāvā vobhayasvabhāvā vānubhayasvabhāvā vābhyupagamyante gatyantarābhāvāt ।
+caturdhāpi nopapadyate ।
+pravṛttisvabhāvatve nityameva pravṛtterbhāvātpralayābhāvaprasaṅgaḥ ।
+nivṛttisvabhāvatve api nityameva nivṛtterbhāvātsargābhāvaprasaṅgaḥ ।
+ubhayasvabhāvatvaṃ ca virodhādasamañjasam ।
+anubhayasvabhāvatve tu nimittavaśātpravṛttinivṛttyorabhyupagamyamānayoradṛṣṭādernimittasya nityasaṃnidhānānnityapravṛttiprasaṅgāt ।
+atantratve apyadṛṣṭāderanityāpravṛttiprasaṅgāt ।
+tasmādapyanupapannaḥ paramāṇukāraṇavādaḥ ।।

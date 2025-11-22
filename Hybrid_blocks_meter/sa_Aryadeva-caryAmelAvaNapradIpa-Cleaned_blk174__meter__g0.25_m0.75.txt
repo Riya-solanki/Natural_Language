@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 174 | label: meter | g:0.25 m:0.75 ---
+
+niḥsvabhāvapadasthasya divyopāyayutasya ca ।
+siddhyate nirvicāreṇa yatkiñcit kalpacoditam ।।

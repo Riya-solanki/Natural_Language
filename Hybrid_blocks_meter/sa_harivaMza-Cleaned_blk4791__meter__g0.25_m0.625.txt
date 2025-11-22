@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4791 | label: meter | g:0.25 m:0.625 ---
+
+dāśārhagaṇamadhye adya vadāmy arthavatīṃ giram 
+śṛṇudhvaṃ yādavāḥ sarve yathā cintānvito hy aham ।।

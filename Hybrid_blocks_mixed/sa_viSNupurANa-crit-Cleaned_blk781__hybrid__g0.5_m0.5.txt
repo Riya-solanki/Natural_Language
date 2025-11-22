@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 781 | label: hybrid | g:0.5 m:0.5 ---
+
+svayaṃ śuśrūṣaṇād dharmyān mātāpitroś ca vai tathā ।।

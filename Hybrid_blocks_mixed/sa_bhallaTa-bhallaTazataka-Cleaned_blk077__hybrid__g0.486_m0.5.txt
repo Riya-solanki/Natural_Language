@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 77 | label: hybrid | g:0.486 m:0.5 ---
+
+kasyānimeṣanayane vidite divaukolokād ṛte jagati te api vai gṛhītvā 
+piṇḍaprasāritamukhena time kim etad dṛṣṭaṃ na bāliśa viśad baḍiśaṃ tvayāntaḥ ।।

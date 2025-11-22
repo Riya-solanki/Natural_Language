@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2387 | label: meter | g:0.306 m:0.5 ---
+
+sa cāpi vānaro devyā kālindyā vegate hṛtaḥ ।
+nītaḥ śivīti vikhyāte deśaṃ śubhajanāvṛtam ।।

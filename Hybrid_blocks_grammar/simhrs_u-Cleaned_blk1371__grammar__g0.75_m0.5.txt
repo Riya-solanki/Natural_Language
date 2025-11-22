@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1371 | label: grammar | g:0.75 m:0.5 ---
+
+daśarathaḥ-vatsa rāmabhadra manye mamaiva malayācala-nivāsinaḥ priya-vayasyasya jaṭāyor api śoka-śaṅkur ayaṃ sarvaṅkaṣo bhaviṣyati । ity antena kausalyā-daśarathādīnāṃ rakṣas-tarakṣu-haryakṣa-prabhṛti-sañcaraṇa-dāruṇāraṇyādiṣu rāma-pravāsa-viṣaya-śaṅkā-trāsānuvṛtti-kathanāt sambhramaḥ ।

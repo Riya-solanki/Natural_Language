@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1035 | label: grammar | g:0.562 m:0.5 ---
+
+īśvarādhīnā cet phalaniṣpattiḥ syād api tarhi puruṣasya samīhāmantareṇa phalaṃ niṣpadyeteti ।।

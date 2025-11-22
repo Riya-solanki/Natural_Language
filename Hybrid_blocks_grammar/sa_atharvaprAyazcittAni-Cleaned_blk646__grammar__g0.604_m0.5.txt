@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 646 | label: grammar | g:0.604 m:0.5 ---
+
+agnīnāṃ cet kaś cid upavakṣ et sa śamyā prāg vāsaṃ pāthikṛtī syāt ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11122 | label: hybrid | g:0.51 m:0.5 ---
+
+kadā caitānheyabuddhyā vimuñce na jānehaṃ ceti samyag ruroda ।
+ete hi mūrkhā viṣayānarthalabdhyai kurvanti yatnaṃ paramādareṇa ।।

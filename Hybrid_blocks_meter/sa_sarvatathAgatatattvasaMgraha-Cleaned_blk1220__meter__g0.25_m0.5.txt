@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1220 | label: meter | g:0.25 m:0.5 ---
+
+oṃ vajratuṣṭi[krodhe toṣya sarvāṇi siḥ ।।

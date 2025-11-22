@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1078 | label: meter | g:0.064 m:0.968 ---
+
+atha parimilitair vicitra-mitrair
+bhuvi divi deva-gaṇais tadopalambhyaḥ ।
+apahṛti-caritaṃ nija-kramāt taiḥ
+kathitam asau kalayan vraje viveśa ।। [puṣpitāgrā]

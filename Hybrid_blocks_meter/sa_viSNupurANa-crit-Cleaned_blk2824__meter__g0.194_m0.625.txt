@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2824 | label: meter | g:0.194 m:0.625 ---
+
+svācāntaś ca tataḥ kuryāt pumān keśaprasādhanam 
+ādarśāñjanamāṅgalyaṃ durvādyālambhanāni ca ।।

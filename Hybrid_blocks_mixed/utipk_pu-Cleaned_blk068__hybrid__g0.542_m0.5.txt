@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 68 | label: hybrid | g:0.542 m:0.5 ---
+
+pratyakṣe api yāvad arthānāṃ bhedenāvabhāsaḥ pramātrantarlīnānām eva satāṃ yuktaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1686 | label: grammar | g:0.646 m:0.5 ---
+
+vāso valkalam āstaraḥ kisalayāny okas tarūṇāṃ talaṃ mūlāni kṣataye kṣudhāṃ girinadītoyaṃ tṛṣāṃ śāntaye ।
+krīḍā mugdhamṛgair vayāṃsi suhṛdo naktaṃ pradīpaḥ śaśī svādhīne api vane tathāpi kṛpaṇā yācanta ity adbhutam ।।

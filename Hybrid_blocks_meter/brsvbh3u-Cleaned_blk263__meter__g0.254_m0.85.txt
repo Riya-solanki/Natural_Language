@@ -1,0 +1,7 @@
+--- source: brsvbh3u-Cleaned.txt | block: 263 | label: meter | g:0.254 m:0.85 ---
+
+mantrādivadvāvirodhaḥ ।
+viruddhamiti naḥ saṃpratyayo yatpramāṇena nopalabhyate ।
+upalabdhaṃ ca mantrādiṣu śākhāntarīyeṣi śākhāntarīyakarmasaṃbandhitvam ।
+tadvadihāpīti darśanādavirodhaḥ ।
+etacca darśitaṃ bhāṣyeṇa sugameneti ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 932 | label: meter | g:0.194 m:0.5 ---
+
+bhṛgutuṅge tapaś cīrtvā tapaso ante mahāyaśāḥ 
+anaśnan deham utsṛjya sadāraḥ svargam āptavān ।।

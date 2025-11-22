@@ -1,0 +1,10 @@
+--- source: vacbhamu-Cleaned.txt | block: 191 | label: grammar | g:0.571 m:0.339 ---
+
+syādetat ।
+bhūte api vastuni vikalpo dṛṣṭaḥ, yathā asthāṇurvā puruṣo vā' iti ।
+tatkathaṃ na vastu vikalpyate, ityata āha- vikalpanāstuiti ।
+puruṣabuddhiḥantaḥkaraṇaṃ; tadapekṣā vikalpanāḥ saṃśayaviparyāsāḥ ।
+savāsanamanomātrayonayo vā yathā svapne; savāsanendriyamanoyonayo vā yathā asthāṇurvā puruṣo vā' iti sthāṇau saṃśayaḥ, apuruṣa eva' iti ca viparyāsaḥ; anyaśabdena vastutaḥ sthāṇoranyasya puruṣasyābhidhānāt ।
+na tu puruṣatattvaṃ vā sthāṇutattvaṃ vāpekṣante, samānadharmadharmidarśanamātrādhīnajanmatvāt ।
+tasmādayathāvastato vikalpanā na vastu vikalpayanti vā anyathayanti vetyarthaḥ ।
+tattvajñānaṃ tu na buddhitantram, kiṃ tu vastutantram; atastato vastuviniścayo yuktaḥ, na tu vikalpanābhya ityāha- na vastuyāthātmyaiti ।

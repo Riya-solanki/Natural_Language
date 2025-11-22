@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4376 | label: meter | g:0.319 m:0.892 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+vakṣye madātyayādeśca nidānaṃ munibhāṣitam ।
+tīkṣṇāmlarūkṣasūkṣmāmlavyavāyāsukaraṃ laghu ।।

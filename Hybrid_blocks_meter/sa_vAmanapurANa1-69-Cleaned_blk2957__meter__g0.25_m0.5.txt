@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2957 | label: meter | g:0.25 m:0.5 ---
+
+gandharvatejasā yuktaḥ śiśuḥ śakraṃ sametya hi ।
+provācaihyehi deveśa priyo yantā bhavāmi te ।।

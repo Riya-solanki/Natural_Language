@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 412 | label: meter | g:0.328 m:0.595 ---
+
+karṃmakartā ca karmaiva kriyā kāryaṃ tathaiva ca ।
+śrīpatirnṛpatiḥ śrīmānsarvasya patirūrjitaḥ ।।

@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 218 | label: meter | g:0.151 m:0.626 ---
+
+{rājā} - mā mā bhavān evam 
+madhukarasantrāsaḥ parihāryaḥ 
+paśya

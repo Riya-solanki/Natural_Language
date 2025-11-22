@@ -1,0 +1,5 @@
+--- source: visa01cu-Cleaned.txt | block: 59 | label: meter | g:0.25 m:0.767 ---
+
+nyakkāra iti-etadrāmabhadreṇābhibhūyamānasya rāvaṇasya nirvedavākyam ।
+kṣudro grāmo grāmaṭikā ।
+viluṇṭhanaṃ vidhūnanam ।

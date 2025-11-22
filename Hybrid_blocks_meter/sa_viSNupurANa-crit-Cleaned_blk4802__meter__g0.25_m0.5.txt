@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4802 | label: meter | g:0.25 m:0.5 ---
+
+balahānir na te saumya dhanahānis tathaiva ca 
+yāvad dināni tāvac ca na naśiṣyati saṃtatiḥ ।।

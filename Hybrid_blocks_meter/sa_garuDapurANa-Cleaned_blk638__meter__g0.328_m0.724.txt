@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 638 | label: meter | g:0.328 m:0.724 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+vakṣye tatparamaṃ guhyaṃ śivoktaṃ mantrabṛndakam ।
+pāśaṃ dhanuśca cakraṃ ca mudraraṃ śūlapaṭṭiśam ।।

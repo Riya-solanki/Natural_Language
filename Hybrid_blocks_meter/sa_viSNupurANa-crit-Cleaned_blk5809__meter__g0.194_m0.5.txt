@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5809 | label: meter | g:0.194 m:0.5 ---
+
+gṛhītā dasyubhir yac ca bhavatā śocitāḥ striyaḥ 
+tad apy ahaṃ yathāvṛttaṃ kathayāmi tavārjuna ।।

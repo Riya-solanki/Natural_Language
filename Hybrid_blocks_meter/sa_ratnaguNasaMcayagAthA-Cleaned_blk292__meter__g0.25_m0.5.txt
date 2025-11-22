@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 292 | label: meter | g:0.25 m:0.5 ---
+
+yadi bodhisattva viharāti samādhidhyāne rahapratyayāni spṛhabuddhi na saṃjaneyyā 
+asamāhito bhavati uddhatakṣiptacitto parihīnabuddhiguṇa nāvika bhinnanāvo ।।

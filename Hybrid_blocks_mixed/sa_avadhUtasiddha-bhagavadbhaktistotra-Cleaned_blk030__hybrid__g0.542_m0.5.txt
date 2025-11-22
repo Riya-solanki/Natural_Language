@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 30 | label: hybrid | g:0.542 m:0.5 ---
+
+karmāṇi vedavihitāni sukhapradāni pretyaiti tatphalam idaṃ phalam antavac ca ।
+tvacchāsane sukham anantam aśeṣadoṣa- ploṣāya bhaktivihitām praṇatiṃ yad āhuḥ ।।

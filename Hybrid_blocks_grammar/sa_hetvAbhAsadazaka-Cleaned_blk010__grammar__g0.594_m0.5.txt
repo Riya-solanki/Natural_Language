@@ -1,0 +1,4 @@
+--- source: sa_hetvAbhAsadazaka-Cleaned.txt | block: 10 | label: grammar | g:0.594 m:0.5 ---
+
+jayyo rāghava eṣa mānuṣatayā tadbhakṣibhīr yātubhiḥ naivaṃ bādhita eva hetur uditaḥ pratyakṣamānena hi ।
+kva pratyakṣam idaṃ kharādinihatāv ity agrajasyāgrato diśyāt tanmatabhidvibhīṣaṇasamudgītas sukhaṃ rāghavaḥ ।।

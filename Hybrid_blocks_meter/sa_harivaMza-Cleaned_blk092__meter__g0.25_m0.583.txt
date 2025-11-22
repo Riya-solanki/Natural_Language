@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 92 | label: meter | g:0.25 m:0.583 ---
+
+imāṃ hi sṛṣṭiṃ dakṣasya yo vidyāt sacarācaram 
+prajāvān āyur uttīrṇaḥ svargaloke mahīyate ।। 
+divyān bhogān avāpnoti rambhādistrībhir āvṛtaḥ । 
+devānāṃ dānavānāṃ ca gandharvoragarakṣasām 
+utpattiṃ vistareṇaiva vaiśaṃpāyana kīrtaya ।।

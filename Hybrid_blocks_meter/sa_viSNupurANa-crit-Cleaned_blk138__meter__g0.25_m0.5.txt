@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 138 | label: meter | g:0.25 m:0.5 ---
+
+pṛthivy āpas tathā tejo vāyur ākāśam eva ca 
+sarvendriyāntaḥkaraṇaṃ puruṣākhyaṃ hi yaj jagat ।।

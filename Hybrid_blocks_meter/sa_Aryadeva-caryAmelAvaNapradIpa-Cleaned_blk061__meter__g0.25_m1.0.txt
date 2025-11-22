@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 61 | label: meter | g:0.25 m:1.0 ---
+
+bhūtāntena samāyuktaṃ kalādiṣoḍaśe sthitam ।
+pañcapañcakasaṃyuktaṃ catusrayaniyojitam ।।

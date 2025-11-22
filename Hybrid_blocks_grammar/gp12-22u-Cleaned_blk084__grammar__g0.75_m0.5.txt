@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 84 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra gavām agresarā ye gopa-kumāra-varās, teṣu cānāśitaṅgavīna-navīna-vana-vibhāgāvakalana-kalita-bahala-kutūhala-jāta-rabhasataḥ kiñcid vilambam ālambamāneṣu nidāgha-drāghīyas tṛṣṇā-vyākulam agrima-gokulaṃ kāliya-viṣākulaṃ kṛṣṇā-jalaṃ pibati sma । pāna-mātrāc ca vicetanatayā nipapāta, kṣaṇatas te cāgre-sarās tad-avaloka-śoka-dharā deha-jihāsayā sahasā svayam api dhayantaḥ patanti sma । [] iyaṃ punar yogamāyāyā evānapāyā gatiḥ, yā khalu khalānām utkalanāyāsambhavam api sambhāvayati ।

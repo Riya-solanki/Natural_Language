@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11590 | label: meter | g:0.25 m:0.62 ---
+
+dāmodaro vai trijagannivāsaḥ śrīpāṇḍuraṅgaśca nṛsiṃhadevaḥ ।
+śrīrāmadevaśca amoghavāsaḥ kudṛ ।।

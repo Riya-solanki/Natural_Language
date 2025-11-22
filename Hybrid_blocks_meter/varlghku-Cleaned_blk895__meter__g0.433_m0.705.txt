@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 895 | label: meter | g:0.433 m:0.705 ---
+
+laṭaḥ śatṛśānacāvaprathamāsamānādhikaraṇe ।।
+aprathamāntena samānādhikaraṇe laṭa etau vā staḥ । pacantaṃ caitraṃ paśya ।।

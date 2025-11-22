@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 256 | label: grammar | g:0.647 m:0.055 ---
+
+atha rasacāraṇe jñeyamāha abhraketyādi ।।
+yo vādī rasakartā ādau prathamaṃ abhracāraṇaṃ na jānāti yathā raso'bhrakaṃ carati grasati punaḥ tatpaścāt garbhadruticāraṇaṃ yadrasagarbhe drutaṃ dravarūpaṃ tiṣṭhatyabhrādikaṃ tasya cāraṇaṃ grasanaṃ punarante hemnaḥ svarṇasya cāraṇaṃ grasanaṃ na jānāti sa vṛthaiva mithyaiva arthakṣayaṃ dhananāśaṃ kurute kāryasiddherabhāvāt ।।
+sarvajña eva rasakriyāyāṃ pravarteteti bhāvaḥ ।।

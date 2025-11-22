@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1144 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tataś ca saṃvatsara-prasara-vatsa-vatsapāla-bāla-viraha-virahān mahatānandena mahitas tair eva sahitaḥ saṃhita-sampad-vrajaṃ vrajaṃ praviśan, tat-tad-unmaryāda-vatsa-parāvartanāya nidiśan, pūrva-pūrvato' py apūrvaṃ parva parvati sma । tathā hy uktam-

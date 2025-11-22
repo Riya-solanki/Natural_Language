@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3403 | label: grammar | g:0.562 m:0.5 ---
+
+tataś cāsau vikukṣir guruṇaivam uktaḥ śaśādasaṃjñām avāpa pitrā ca parityaktaḥ ।।

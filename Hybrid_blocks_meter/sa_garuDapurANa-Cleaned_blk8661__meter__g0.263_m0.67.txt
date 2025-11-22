@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8661 | label: meter | g:0.263 m:0.67 ---
+
+śrīkṛṣṇa uvāca ।
+muktiṃ prāyanti te pretāstadahaṃ kathayāmi te ।
+yadaiva manujo avaiti mama pīḍā kṛtā tviyam ।।

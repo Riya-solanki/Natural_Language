@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 975 | label: meter | g:0.263 m:0.681 ---
+
+atha unmādaḥ-
+sarvāvasthāsu sarvatra tan-manaskatayā sadā । 
+atasmiṃs tad iti bhrāntir unmādo virahodbhavaḥ ।।
+tatra ceṣṭās tu vijñeyā dveṣaḥ sveṣṭe' pi vastuni । 
+dīrghaṃ muhuś ca niḥśvāso nirnimeṣatayā sthitiḥ ।
+nirnimitta-smita-dhyāna-gāna-maunādayo' pi ca ।।

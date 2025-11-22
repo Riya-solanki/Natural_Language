@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 592 | label: grammar | g:0.552 m:0.5 ---
+
+āśāvighātabhayasaṃkucitaś ca dīno dehīty api prasahate kṛpaṇo na vaktum ।
+yan nirdhano dhanavataḥ puruṣān akāle maunavrataṃ tad api lobhakṛtaṃ narāṇām ।।

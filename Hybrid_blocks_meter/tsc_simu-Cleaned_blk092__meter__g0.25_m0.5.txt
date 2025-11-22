@@ -1,0 +1,4 @@
+--- source: tsc_simu-Cleaned.txt | block: 92 | label: meter | g:0.25 m:0.5 ---
+
+atastu sarvaṃ jaḍavastu paramārthataḥ sarvadaivāsaducyate ।
+tataśca tasmādvirajya ātmaiva paramārthasatyo duḥkhabhīrubhirdraṣṭavyaḥ taduktam ।

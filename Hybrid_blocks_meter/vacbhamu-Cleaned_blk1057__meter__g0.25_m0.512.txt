@@ -1,0 +1,10 @@
+--- source: vacbhamu-Cleaned.txt | block: 1057 | label: meter | g:0.25 m:0.512 ---
+
+saṃpannaḥ kevalo mukta ityucyate ।
+na caitasyetthaṃbhāvasaṃbhavaḥ śrutivirodhādityuktamarthajātamākṣipati- kathaṃ punarmuktasyeti salila iti ।
+salilamiva salilaḥ salilaprātipadikātsarvaprātipadikebhya ityupamānādācāre kvipi kṛte pacādyaci ca kṛte rūpam ।
+etaduktaṃ bhavati-yathā salilamambhonidhau prakṣiptaṃ tadekībhāvamupayāti ।
+evaṃ draṣṭāpi brahmaṇeti ।
+atrottaraṃ sūtram- svāpyayasaṃpattyoranyatarāpekṣamāviṣkṛtaṃ hi ।
+āsu kāścicchrutayaḥ suṣuptimapekṣya kāścittu saṃpattiṃ tadadhikārāt ।
+aiśvaryaśrutayastu saguṇavidyāvipākāvasthāpekṣā muktyabhisaṃdhānaṃ tu tadavasthāsatteryathāruṇadarśane saṃdhyāyāṃ divasābhidhānam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8521 | label: meter | g:0.25 m:0.5 ---
+
+teṣāṃ patnyastathai vogrā śravaṇyaḥ pṛthagāhvayāḥ ।
+evaṃ teṣāṃ śaktirasti yartye martyādhikāriṇaḥ ।।

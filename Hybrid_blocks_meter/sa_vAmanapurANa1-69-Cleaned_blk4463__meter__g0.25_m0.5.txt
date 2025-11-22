@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4463 | label: meter | g:0.25 m:0.5 ---
+
+viṣṇukarmaprasaktānāṃ bhaktānāṃ yā parā gatiḥ ।
+sā tu janmasahasreṇa na tapobhiravāpyate ।।

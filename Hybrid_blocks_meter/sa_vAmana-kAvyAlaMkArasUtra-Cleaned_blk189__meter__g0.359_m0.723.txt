@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 189 | label: meter | g:0.359 m:0.723 ---
+
+sampratyarthaguṇavivecanārthamāha 
+ta evārthaguṇāḥ ।।ta evaujaḥprabhṛtayo'rthaguṇāḥ ।।arthasya prauḍhirojaḥ ।।
+arthasyābhidheyasya prauḍhiḥ prauḍhatvamojaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11857 | label: hybrid | g:0.521 m:0.5 ---
+
+alehyalehasya ca tatsvabhāvaḥ pātuṃ tvapeyasya ca tatsvabhāvaḥ ।
+dvayoḥ svarūpaṃ ca vihāya mūḍhaḥ punaḥ punaḥ svīkarotyeva nityam ।।

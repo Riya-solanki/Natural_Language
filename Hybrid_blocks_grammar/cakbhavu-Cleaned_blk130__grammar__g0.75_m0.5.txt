@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 130 | label: grammar | g:0.75 m:0.5 ---
+
+Viv viśvasya sākṣī viśvarūpo vāmantryate, mānāvamānayoḥ grahaṇāgrahaṇayor niṣprapañcaprapañcayor mamatayojjhitā cittavṛttir yasya tadyuktā vā tyaktā cittavṛttir yena, aṃhaḥ pāpaṃ haratīti, ahaṃkṛd eva vāṅghris tadyugam anāvaraṇajñānakriyārūpaṃ tasya pīṭhaṃ paramaśivarūpaṃ tatra nilīnamauleḥ praśāntakaraṇapañcakakañcukopacayaploṣapariśiṣṭena ākhilabhūtihetunā avabodhabhūtivibhavena avaguṇṭhitā ācchāditās tanavo mitatayā sphurantaḥ sarvabhāvā yena, nuḥ aṇor yat kapālaṃ, kaṃ mahāsvātantryarūpam anavacchinnaṃ brahma pālayati gopayatīti nṛkapālaṃ karparaṃ tat pāṇau ekasmin udbubhūṣāmarīcilakṣaṇe mitatayā iyattayā tulitaṃ yasya sa tathoktaḥ ।।

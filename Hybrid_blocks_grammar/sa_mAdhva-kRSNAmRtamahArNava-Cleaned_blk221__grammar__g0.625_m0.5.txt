@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 221 | label: grammar | g:0.625 m:0.5 ---
+
+yajño dānaṃ tapaś caiva svādhyāyaḥ pitṛtarpaṇam vyarthaṃ bhavati tat sarvam ūrdhvapuṇḍraṃ vinā kṛtam ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 624 | label: grammar | g:0.75 m:0.5 ---
+
+[] tadā ca pūtanāvan nūtanārbhakāya kaṃsa-prahitaḥ kaścid diviṣad-ahitaḥ samāgamya divi sthita evaṃ cintayāmāsa "sa pūtanā-pothako' yaṃ poto visaṅkaṭa-śakaṭādhastād āste । sākṣān mantuṃ vidhātuṃ na ko' pi jantur amuṣya śakṣyatīti lakṣyate । chadma-rūpa-sadmatayā ca pūtanā saṃsthitā, tasmād amūrta eva sann atra pūrtaye bhavāni" iti । tataś cāsau śakaṭam aprakaṭam āviṣṭavān ।

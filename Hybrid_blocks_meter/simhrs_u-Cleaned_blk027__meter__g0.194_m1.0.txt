@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 27 | label: meter | g:0.194 m:1.0 ---
+
+ātma-bhavair ativibhavair
+anitara-jana-sulabha-dāna-muditair bhuvi yaḥ ।
+ratnākara iva rājati
+rājakarāra-cita-sukamalollāsaḥ ।।

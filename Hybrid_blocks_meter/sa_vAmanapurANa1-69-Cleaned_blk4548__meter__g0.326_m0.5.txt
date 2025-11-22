@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4548 | label: meter | g:0.326 m:0.5 ---
+
+idaṃ ca vṛttaṃ sa papāṭha daityarāṭ smaran suvākyāni guroḥ śubhāni ।
+tathyāni pathyāni paratra ceha pitāmahasyendrasamasya vīraḥ ।।

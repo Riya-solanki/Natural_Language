@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1127 | label: hybrid | g:0.375 m:0.5 ---
+
+[] tad evaṃ tābhyaḥ pratiśrutavati tasminn adhikam eva tāsām āveśo jātaḥ । yathāha śrī-śukaḥ-

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2098 | label: meter | g:0.306 m:0.625 ---
+
+etad varaṃ harāt tīrthaṃ prāpya puṣṇāti devatāḥ ।
+punāti puṃsāṃ kedārastrinetravacanaṃ yathā ।।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3524 | label: meter | g:0.194 m:0.5 ---
+
+yavanādhipatiś caiva bhagadattaś ca vīryavān 
+sauvīrarājaḥ śaibyaś ca pāṇḍyaś ca balināṃ varaḥ 
+gāndhārarājaḥ subalo nagnajic ca mahābalaḥ ।। 
+kāśmīrarājo gonardo daradādhipatir nṛpaḥ । duryodhanādayaś caiva dhārtarāṣṭrā mahābalāḥ । 
+ete cānye ca rājāno balavanto mahārathāḥ 
+tam anvayur jarāsaṃdhaṃ vidviṣanto janārdanam ।।

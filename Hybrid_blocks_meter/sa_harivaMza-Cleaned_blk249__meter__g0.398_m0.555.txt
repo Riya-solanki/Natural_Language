@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 249 | label: meter | g:0.398 m:0.555 ---
+
+upāyataḥ samārabdhāḥ sarve sidhyanty upakramāḥ 
+tasmād vadāmy upāyaṃ te taṃ kuruṣva yadīcchasi । 
+upāyaṃ paśya yena tvaṃ dhārayethāḥ prajā nṛpa ।।

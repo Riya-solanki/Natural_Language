@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1291 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra ca tair bhojya-madhurādibhir upayojyamānaḥ śrī-kṛṣṇaṃ madhumaṅgala uvāca-suṣṭhu miṣṭam idaṃ pākimatāpannam anna-jātaṃ yācita kam apy amṛtāyate । nedṛśam āpam ity akam amṛtaṃ vā । yat khalu bhūmi-skhalitaṃ sarajasaṃ kaṇam apy abhyavahartum īhāmahe । tasmād asmākam eva parṇaśālābhyarṇe tāḥ kuṭīr vidhāya tiṣṭhantu, tat-kṛta-madhura-paripāka-pāka-śāka-sūpa-pūpa-pūṭīs tu savayaso vayam eva yuṣmabhyam uṣṇāḥ koṣṇā eva samarpayiṣyāmaḥ । tatrāpy āha prāgraharatayā prāgrahara eva bhaviṣyāmīti sthite ko vāyaṃ doṣaḥ । kintu roṣa-bhiyā na vaktuṃ śaktāḥ sma ।

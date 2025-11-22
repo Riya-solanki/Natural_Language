@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 363 | label: meter | g:0.306 m:0.625 ---
+
+oṃ vajrasattvaḥ svayaṃ te adya hṛdayaṃ samavasthitaḥ ।
+nirbhidya tatkṣaṇaṃ yāyādyadi bhūyādidannayam ।।

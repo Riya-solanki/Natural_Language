@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 916 | label: grammar | g:0.528 m:0.232 ---
+
+viśeṣamāha nirbījamityādi ।।
+nirbījaṃ yathā syāttathā samajīrṇaṃ pādena turyāṃśena phalaṃ dadāti tathā ardhena jīrṇena ṣoḍaśāṃśena phalaṃ dadāti ca punastadardhena jīrṇena tatpādayogaṃ tatpādena ekena tatpādayogaṃ phalaṃ dadātīti sarvatra vācyam ।।
+tulyakanakaṃ ca jīrṇaṃ pūrṇaṃ phalaṃ dadātīti ।।

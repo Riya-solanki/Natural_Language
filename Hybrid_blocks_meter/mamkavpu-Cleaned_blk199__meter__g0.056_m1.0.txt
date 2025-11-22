@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 199 | label: meter | g:0.056 m:1.0 ---
+
+{premārdrāḥ praṇayaspṛśaḥ paricayādudgāḍharāgodayāḥ
+tāstā mugdhadṛśo nisargamadhurāśceṣṭā bhaveyurmayi ।
+yāsvantaḥkaraṇasya bāhyakaraṇavyāpārarodhī kṣaṇāt
+āśaṃsāparikalpitāsvapi bhavatyānandasāndro layaḥ ।।}

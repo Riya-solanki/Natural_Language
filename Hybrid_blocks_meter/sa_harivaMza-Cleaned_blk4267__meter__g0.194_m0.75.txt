@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4267 | label: meter | g:0.194 m:0.75 ---
+
+tato manāṃsi gopīnāṃ haramāṇau mahābalau 
+āstāṃ goṣṭhacarau vīrau devaputrasamadyutī ।।

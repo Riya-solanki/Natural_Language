@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 97 | label: hybrid | g:0.464 m:0.502 ---
+
+evaṃ kramājjāgrati suptacittaḥ phalaṃ ca vāñchet savikalpajālam । svapnopamāste khalu sarvadharmā mṛṣāmṛṣāścāpyubhayorabhāvaḥ ।। iti ।
+saṃvṛtisatyamelāvaṇasaṃśayaparicchedaḥ ṣaṣṭhaḥ ।।
+saptamaḥ paricchedaḥ

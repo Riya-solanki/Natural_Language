@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3688 | label: meter | g:0.194 m:0.5 ---
+
+etad yady anukūlaṃ vo mamābhiprāyajaṃ vacaḥ 
+bhavāya bhavatāṃ kāle rocatāṃ yadusaṃsadi ।।

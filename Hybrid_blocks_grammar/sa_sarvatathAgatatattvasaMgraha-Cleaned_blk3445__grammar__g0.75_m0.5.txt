@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3445 | label: grammar | g:0.75 m:0.5 ---
+
+atha karmasādhanaṃ bhavati । tathaiva japanmāsamekaṃ sādhayet । tato ante sakalāṃ rātriṃ ja[pet । tataḥ sarvakarmāṇi sidhyantī-"tyāha bhagavān vajradha]raḥ ।।

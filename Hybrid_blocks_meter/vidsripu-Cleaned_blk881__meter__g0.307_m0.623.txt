@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 881 | label: meter | g:0.307 m:0.623 ---
+
+kiṃ tvaṃ nigūhase dūti stanau vaktraṃ ca pāṇinā ।
+savraṇā eva śobhante śūrādharapayodharāḥ ।।

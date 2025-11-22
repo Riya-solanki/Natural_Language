@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 931 | label: meter | g:0.25 m:0.5 ---
+
+sa dhruvo vāsudevaś ca ajātaḥ parikīrtitaḥ 
+tatra śaktiṃ sadā kuryāt tatrāsaktaḥ sadā bhavet ।।

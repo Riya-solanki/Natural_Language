@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 666 | label: meter | g:0.332 m:0.608 ---
+
+yathā
+śrīsiṅgabhūpaḥ kavitābhiṣaṅgo raṇāṅgaṇe vīragururniṣaṅgāt ।
+bāṇān samākarṣati śātakoṇān prāṇairarīṇāṃ samakālameva ।।

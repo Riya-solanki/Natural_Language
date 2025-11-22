@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 105 | label: meter | g:0.25 m:0.625 ---
+
+bhutvā harervāhanaṃ ca sargādīnāṃ ca kāraṇam ।
+devānvijitya garuḍo hyamṛtāharaṇaṃ tathā ।।

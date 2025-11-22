@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 580 | label: grammar | g:0.708 m:0.5 ---
+
+[] kṛṣṇa uvāca-aho mahātman! mahad vyasanaṃ khalu mayi nyasanam āyāsyati । yatho dīrghasūtratā mama bandhanāya nirbandham āpatsyate ।

@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 51 | label: hybrid | g:0.458 m:0.5 ---
+
+prāṇo apānaḥ samānaścodānavyānau ca vāyavaḥ śarīrasthā ime raṃhastarasī tu rayaḥ syadaḥ javo atha śīghraṃ tvaritaṃ laghu kṣipramaraṃ drutam

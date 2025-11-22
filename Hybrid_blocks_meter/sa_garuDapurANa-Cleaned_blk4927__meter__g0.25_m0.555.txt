@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4927 | label: meter | g:0.25 m:0.555 ---
+
+pūrvoktaśca yathālābhayuktaiścūrṇañca modakaḥ ।
+vaṭikā ghṛtatailaṃ vā kaṣāyo śoṣaroganut ।
+palaṃ palārdhakaṃ vāpi karṣaṃ karṣārdhameva vā ।।

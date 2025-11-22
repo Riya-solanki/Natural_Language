@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2523 | label: meter | g:0.302 m:0.806 ---
+
+anagnimaniketaṃ tamekāhāramanāśramam ।
+nimuktasaṃgaṃ taṃ dṛṣṭvā procuḥ svapitaro munim ।।

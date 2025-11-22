@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 210 | label: meter | g:0.194 m:0.845 ---
+
+kalpitārthaṃ neyārtham ।।
+aśrautasyāpyunneyapadārthasya kalpanātkalpitārthaṃ neyārtham । yathā

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 180 | label: meter | g:0.25 m:0.5 ---
+
+dadyānna dadyāditi tatra nāsīdvicāradolācalamānaso arthī ।
+khyātāvadāne hi babhūva tasminvisrambhadhṛṣṭapraṇayo arthivargaḥ ।।

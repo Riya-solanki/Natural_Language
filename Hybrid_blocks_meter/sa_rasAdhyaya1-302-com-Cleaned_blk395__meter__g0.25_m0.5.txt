@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 395 | label: meter | g:0.25 m:0.5 ---
+
+bhaved dārḍhyaṃ ca rāgena jīrṇe sūtena gandhake 
+rūpyaṃ tāmraṃ tathā lohaṃ vaṅgaṃ nāgaṃ ca pittalam ।।

@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 470 | label: meter | g:0.25 m:0.5 ---
+
+asta-vyasta-gatiḥ pramoda-madhurā paśyanty amūn agrataḥ
+kiñcid vaktum ivodyad āsya-valanā dīrghāyitālpa-kṣitiḥ ।
+hasta-nyasta-phalādir evam api sā putrodbhavaṃ vyañjatī
+yat kiñcid vadati sma tat punar avādīd ity amī menire ।।
+[] madhukaṇṭha uvāca-kim uktavatī sā ?

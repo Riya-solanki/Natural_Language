@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3244 | label: meter | g:0.194 m:0.625 ---
+
+tatas tau patitau dṛṣṭvā vasudevaḥ sabāndhavaḥ 
+chinnamūlo nirālambaḥ sabhāryo vinaśiṣyati ।।

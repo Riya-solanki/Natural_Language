@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 326 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa mahātmā pradānocitatvāttapovane api nivasan kālopanatamatithijanaṃ yathāsaṃnihitena mūlaphalena śucinā salilena hṛdyābhiśca svāgatāśīrvādapeśalābhistapasvijanayogyābhirvāgbhiḥ saṃpūjayati sma । atithijanopayuktaśeṣeṇa ca yātrāmātrārthamabhyavahṛtena tena vanyenāhāreṇa vartayāmāsa ।

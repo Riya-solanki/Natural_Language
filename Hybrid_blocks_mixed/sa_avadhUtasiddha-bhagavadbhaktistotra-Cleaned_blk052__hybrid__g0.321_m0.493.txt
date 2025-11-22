@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 52 | label: hybrid | g:0.321 m:0.493 ---
+
+viṣṇuprajāpatipurandaralokapālais tiryaksurāsuranarair aparaiś ca divyaiḥ ।
+loke yathā paśupate tava kalpitāni sthānāni tadvad aparasya vadantu kasya ।।

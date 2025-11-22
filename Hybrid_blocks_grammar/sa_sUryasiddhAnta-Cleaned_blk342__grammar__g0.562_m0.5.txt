@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 342 | label: grammar | g:0.562 m:0.5 ---
+
+vināśayati pāto asmin lokānām asakṛd yatah। vyatīpātah prasiddho ayaṃ sañjñābhedena vaidhṛtah।।

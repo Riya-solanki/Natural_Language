@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1155 | label: meter | g:0.306 m:0.5 ---
+
+nivāraṇārthāni sagadgadāni vākyāni sāśrūṇi ca locanāni ।
+praṇāmalolāni śirāṃsi caiṣāṃ mānaṃ samānasya yathā karoti ।।

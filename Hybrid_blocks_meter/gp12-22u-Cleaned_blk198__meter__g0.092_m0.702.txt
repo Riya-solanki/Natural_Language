@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 198 | label: meter | g:0.092 m:0.702 ---
+
+na jñātavān api yataḥ sa tu taṃ prahāraṃ
+tenātiroṣa-bhara-nāsti-viveka-caryaḥ ।
+bhūyaḥ parāk-sthiti vinardya vikīrṇa-lattas
+tenātha vatsaka ivāraci dhenukākhyaḥ ।। [vasantatilakā]

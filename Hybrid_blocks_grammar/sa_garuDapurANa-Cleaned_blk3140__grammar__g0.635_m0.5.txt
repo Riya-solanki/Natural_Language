@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3140 | label: grammar | g:0.635 m:0.5 ---
+
+vṛkṣaṃ kṣīṇaphalaṃ tyajanti vihagāḥ śuṣkaṃ saraḥ sārasānirdravyaṃ puruṣaṃ tyajanti gaṇikā bhraṣṭaṃ nṛpaṃ mantriṇaḥ ।
+puṣpaṃ paryuṣitaṃ tyajanti madhupāḥ dargdha vanāntaṃ mṛgāḥ sarvaḥ kāryavaśājjano hi ramate kasyāsti ko vallabhaḥ ।।

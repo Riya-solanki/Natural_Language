@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11155 | label: meter | g:0.25 m:0.625 ---
+
+yathā dīpācchataguṇā agnijvālā na dīpavat ।
+sphuṭībhavedyathaivāgnirbahulopi na sūryavat ।।

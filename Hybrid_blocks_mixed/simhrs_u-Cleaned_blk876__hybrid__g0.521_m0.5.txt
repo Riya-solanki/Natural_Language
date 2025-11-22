@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 876 | label: hybrid | g:0.521 m:0.5 ---
+
+atra svapna-vṛttānta-śravaṇa-bhrānti-janitasya bhānumatī-viṣayakasya suyodhana-roṣasya svapna-śeṣa-śravaṇa-janita-pratyaya-kṛtā śāntiḥ diṣṭyety-ādi-vāg-ārambheṇa vyajyate ।

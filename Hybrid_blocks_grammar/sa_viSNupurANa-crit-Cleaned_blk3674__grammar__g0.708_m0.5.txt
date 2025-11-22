@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3674 | label: grammar | g:0.708 m:0.5 ---
+
+tasyāṃ sa pañca putrān utpādayām āsa । nahuṣakṣatravṛddharambharajisaṃjñās tathaivānenāḥ pañcamaḥ putro abhūt । kṣatravṛddhāt suhotraḥ putro abhavat ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 445 | label: meter | g:0.25 m:0.5 ---
+
+tasyāḥ putro mahān āsīd yuvanāśvo narādhipaḥ 
+yuvanāśvasya tanayaś cakravartī jajāna ha । 
+kaṃ dhārayati kumāro ayaṃ nyasto rorūyate bhṛśam । 
+māndhātar vatsa mā rodīr itīndro deśinīm adāt । 
+māndhātā yuvanāśvasya trilokavijayī nṛpaḥ ।।

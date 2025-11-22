@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 24 | label: grammar | g:0.604 m:0.5 ---
+
+apādaḥ padasaṃtāno gadyam ākhyāyikā kathā iti tasya prabhedau dvau tayor ākhyāyikā kila ।।

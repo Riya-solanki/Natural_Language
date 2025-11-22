@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5066 | label: meter | g:0.194 m:0.625 ---
+
+audbhido bhavitā kaścit senānīḥ kāśyapo dvijaḥ 
+aśvamedhaṃ kaliyuge punaḥ pratyāhariṣyati ।।

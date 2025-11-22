@@ -1,0 +1,4 @@
+--- source: brsvbh2u-Cleaned.txt | block: 356 | label: meter | g:0.25 m:0.625 ---
+
+hastādayastu sthite ato naivam ।
+hastādayas tu sthite ato naivam ।

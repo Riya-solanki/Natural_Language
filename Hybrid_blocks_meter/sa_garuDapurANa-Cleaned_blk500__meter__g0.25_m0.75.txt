@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 500 | label: meter | g:0.25 m:0.75 ---
+
+brahmaṇaḥ kṣobhakaścaiva rudrasya kṣobhakastathā ।
+agamyaścakṣurādeśca śrotrāgamyastathaiva ca ।।

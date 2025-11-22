@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3786 | label: grammar | g:0.75 m:0.5 ---
+
+ity uktaḥ śatadhanvāha । yady asmatparitrāṇāsamarthaṃ bhavān ātmānam avagacchati tad ayam asmanmaṇiḥ saṃgṛhya rakṣyatām ityuktaḥ so apy āha । yady antāyām apy avasthāyāṃ na kasmaicid bhavān kathayiṣyati tad aham enaṃ grahīṣyāmīti । tathety ukte cākrūras tan maṇiratnaṃ jagrāha ।।

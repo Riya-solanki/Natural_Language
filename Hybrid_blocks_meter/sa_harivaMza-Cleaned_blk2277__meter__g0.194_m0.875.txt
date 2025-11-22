@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2277 | label: meter | g:0.194 m:0.875 ---
+
+kākapakṣadharair bālair gopālaiḥ krīḍitālayam 
+dārakair dārikābhiś ca parasparasamākulam । 
+sārgaladvāragovāṭaṃ madhye gosthānasaṃkulam 
+sarpiṣā pacyamānena surabhīkṛtamārutam ।।

@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 42 | label: hybrid | g:0.517 m:0.5 ---
+
+tasyāḥ kiṃ cit karadhṛtam iva prāptavānīraśākhaṃ hṛtvā nīlaṃ salilavasanaṃ muktarodhonitambam 
+prasthānaṃ te katham api sakhe lambamānasya bhāvi jñātāsvādaḥ pulinajaghanāṃ ko vihātuṃ samarthaḥ ।।

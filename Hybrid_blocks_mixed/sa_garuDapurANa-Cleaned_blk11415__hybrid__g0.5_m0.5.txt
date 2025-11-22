@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11415 | label: hybrid | g:0.5 m:0.5 ---
+
+susattamaṃ paramaṃ śrīnivāsaṃ drakṣye athāhaṃ hyārurukṣe acalañca ।
+ityevamuktvā kapilākhyatīrthe sthānaṃ cakre sā svapitrā sahaiva ।।

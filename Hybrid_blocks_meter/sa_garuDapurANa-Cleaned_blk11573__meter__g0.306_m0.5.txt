@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11573 | label: meter | g:0.306 m:0.5 ---
+
+devāstadā dunduṃbhayo vinedire tanmastake puṣpavṛṣṭiṃ ca cakruḥ ।
+tasminkāle ubhayoḥ pārśvayośca nṛtyaṃ cakrurdevatāvāranāryaḥ ।।

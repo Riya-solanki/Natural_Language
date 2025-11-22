@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4833 | label: meter | g:0.102 m:0.75 ---
+
+prajāpatīnāṃ sādhyānāṃ tridaśānāṃ ca śāśvataḥ 
+stūyamānaḥ stavaiḥ sarvaiḥ sūtamāgadhabandibhiḥ 
+ṛṣibhiś ca mahābhāgair vedavedāṅgapāragaiḥ ।।

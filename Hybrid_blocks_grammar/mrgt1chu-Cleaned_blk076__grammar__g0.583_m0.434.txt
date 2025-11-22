@@ -1,0 +1,14 @@
+--- source: mrgt1chu-Cleaned.txt | block: 76 | label: grammar | g:0.583 m:0.434 ---
+
+jñānakriyātmakaṃ yac caitanyaṃ tad ātmany asti na tu śarīrasamavetam iti cārvākanirākaraṇe vakṣyāmaḥ ।। 
+tac ca sarvadaivāsti na tu muktāv eva ।। 
+muktau tu saṃvittyabhāvo yathā vaiśeṣikair iṣṭaḥ tathāvidhāyā moharūpāyā mukter nirākariṣyamāṇatvāt ।। 
+tac cātmanaś caitanyaṃ jñānakriyātmakaṃ sarvatomukham asti na tu kṣapaṇakānām iva dehapramāṇakatvaniyamād avyāpi paśupadārthaprakaraṇe vyāpakatvasya vakṣyamāṇatvāt ।। 
+atra hetum āha yato muktau śrūyate sarvatomukhaṃ muktātmanāṃ sarvatomukhasya caitanyasya śravaṇād ity arthaḥ ।। 
+na ca teṣāṃ tadānīm eva tad utpadyate iti vācyaṃ sadutpatteḥ satkāryavādaprakaraṇe abhidhāsyamānatvāt ।। 
+atha muktāv eva tathāvidhacaitanyaśruteḥ pūrvaṃ ca tadanupalambhād anvayavyatirekābhyāṃ saṃsārāvasthāyāṃ sarvatomukhatvaṃ caitanyasya kuta ity āśaṅkānirāsāyāha sad apy abhāsamānatvād ityādi ।। 
+satyam anupalambhaḥ saṃsārāvasthāyāṃ tathāvidhasya caitanyasya ।। 
+sa tv anyathāsiddhaḥ ।। 
+vyañcakābhāvakṛto hi yo anupalambhaḥ sa nābhāvasādhakaḥ api tu asati vyañjake yaś cāyam anupalambhaḥ sa vyañjakābhāvakṛtaḥ ataś ca nāsattvaṃ sādhayati ।। 
+tac ca sarvatomukhatvaṃ sad api yasmān na prathate tataḥ kenāpi pratibaddham ity avasīyate ।। 
+asmāc ca hetor anāvṛtanijasāmarthyasya mukteḥ purā sa ātmā vaśya iti ।।

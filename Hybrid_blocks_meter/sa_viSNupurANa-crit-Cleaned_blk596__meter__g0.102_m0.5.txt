@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 596 | label: meter | g:0.102 m:0.5 ---
+
+vaṃśasaṃkīrtane putrān vadiṣye ahaṃ tato dvija 
+smṛtiś cāṅgirasaḥ patnī prasūtā kanyakās tathā 
+sinīvālī kuhūś caiva rākā cānumatī tathā ।।

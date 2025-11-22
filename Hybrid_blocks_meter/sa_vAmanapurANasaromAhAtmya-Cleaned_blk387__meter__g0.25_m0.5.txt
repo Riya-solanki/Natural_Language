@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 387 | label: meter | g:0.25 m:0.5 ---
+
+gatvā tu śraddhāyā yuktaḥ snātvā sthāṇumahāhvade ।
+manasā cintitaṃ kāmaṃ labhate nātra saṃśayaḥ ।।

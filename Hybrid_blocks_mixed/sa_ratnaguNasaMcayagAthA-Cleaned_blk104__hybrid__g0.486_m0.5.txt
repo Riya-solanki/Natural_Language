@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 104 | label: hybrid | g:0.486 m:0.5 ---
+
+kāntāramārgi puruṣo bahu janehi gopāla sīma vanasaṃpada paśyate yo 
+āśvāsaprāpta bhavatī na ca tasya trāso abhyāśa grāmanagarāṇa ime nimittāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 88 | label: meter | g:0.25 m:0.625 ---
+
+araghaṭṭaghaṭī yuktā vaśībhavati yoṣitaḥ ।
+bhavatyārambhiko yo api bhavatyeva tadadbhutaḥ ।।

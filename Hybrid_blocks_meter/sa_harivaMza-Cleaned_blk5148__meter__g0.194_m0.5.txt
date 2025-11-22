@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5148 | label: meter | g:0.194 m:0.5 ---
+
+iṣṭaṃ dānaṃ tapo nāma brahmacaryaṃ supūjitam 
+guṇaiḥ karmābhinirvṛttir guṇās tathyena karmaṇā ।।

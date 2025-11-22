@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2389 | label: meter | g:0.25 m:0.647 ---
+
+vṛddhapramātāmahaśca tathā mātāmahī param ।
+pramātāmahī tathā vṛddhapramātāmahīti vai ।।
+anyeṣāṃ caiva piṇḍo ayamakṣayyamupatiṣṭhatām ।।
+iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe gayāmāhātmyaṃ nāma caturaśītitamo adhyāyaḥ

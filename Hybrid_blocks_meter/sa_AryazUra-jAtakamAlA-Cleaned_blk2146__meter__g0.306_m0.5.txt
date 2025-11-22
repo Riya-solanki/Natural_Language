@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2146 | label: meter | g:0.306 m:0.5 ---
+
+siṃhā vikartanakarairnakharairdvipānāṃ kumbhāgramagnaśikharaiḥ praśamayya tejaḥ ।
+bhittvaiva ca śrutamanāṃsi ravaiḥ pareṣāṃ mṛtyuṃ sametya hatadarpabalāḥ svapanti ।।

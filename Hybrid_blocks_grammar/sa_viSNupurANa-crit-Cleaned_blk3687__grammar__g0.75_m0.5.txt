@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3687 | label: grammar | g:0.75 m:0.5 ---
+
+athāha bhagavān yeṣām arthe rajir āttāyudho yotsyatīti । atha daityair upetya rajir ātmasāhāyyadānāyābhyarthitaḥ prāha । yotsye ahaṃ bhavatām arthe yady aham amarajayād bhavatām indro bhaviṣyāmīty ākarṇyaitat tair abhihito na vayam anyathā vadiṣyāmo anyathā kariṣyāmo asmākam indraḥ prahlādas tadartham ayam udyama ity uktvā gateṣv asureṣu devair apy asāv avanīpatir evam evoktas tenāpi ca tathaivokte devair indras tvaṃ bhaviṣyasīti samanvicchitam ।।

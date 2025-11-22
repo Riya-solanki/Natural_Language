@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1419 | label: meter | g:0.326 m:0.5 ---
+
+lokottaraṃ caritam arpayati pratiṣṭhāṃ puṃsaḥ kulaṃ na hi nimittam udāttatāyāḥ ।
+vātāpitāpanamuneḥ kalaśāt prasūtir līlāyitaṃ punar amuṣyasamudrapānam ।।

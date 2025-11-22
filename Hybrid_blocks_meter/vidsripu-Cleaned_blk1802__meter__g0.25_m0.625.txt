@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1802 | label: meter | g:0.25 m:0.625 ---
+
+kavīnām agalad darpo nūnaṃ vāsavadattayā ।
+śaktyeva pāṇḍuputrāṇāṃ gatayā karṇagocaram ।।

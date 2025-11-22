@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 99 | label: hybrid | g:0.507 m:0.5 ---
+
+acetanam api pradhānaṃ buddhimat kartṛpreraṇaṃ vinā svātantryeṇa kathaṃ kāryakaraṇe pravartate ।। 
+na hy anusaṃdhānaśūnyasya buddhimato api ghuṇakīṭasyevākṣaralekhane pravṛttir yuktā kiṃ punaḥ pariṇāmino jaḍasya ।। 
+yaś cātra cetanaḥ puruṣaḥ sa tadadhīno na karteti prakṛtisthānāṃ neyam uktir ucitā ।। 
+idānīm anekāntavādinirākaraṇāya saṃkhyātas tanmataṃ pūrvapakṣayitum ucyate ।।

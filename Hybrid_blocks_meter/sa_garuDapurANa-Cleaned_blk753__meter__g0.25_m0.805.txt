@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 753 | label: meter | g:0.25 m:0.805 ---
+
+atha dehanyāsaḥ ।
+smaṃsmaṃ maṇibandhāya namaḥ ।
+aiṃ hrīṃ śrīṃ karāsphālāya namaḥ ।
+mahātejorūpaṃ huṃhuṅkāreṇa karāsphālanaṃ kuryāt ।।

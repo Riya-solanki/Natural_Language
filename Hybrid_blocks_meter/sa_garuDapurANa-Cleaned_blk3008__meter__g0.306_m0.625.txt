@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3008 | label: meter | g:0.306 m:0.625 ---
+
+vipre daṇḍodyame kṛcchramatikṛcchraṃ nipātane ।
+deśaṃ kālaṃ vayaḥ śaktiṃ pāpaṃ cāvekṣya yatnataḥ ।।

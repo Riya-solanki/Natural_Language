@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2094 | label: meter | g:0.194 m:0.625 ---
+
+kasmāt sidhyati śīghredam anyatra kṣapaṇākulam 
+bhairaveṇa tu rūpeṇa bhairavatvaṃ prasādhayet ।।

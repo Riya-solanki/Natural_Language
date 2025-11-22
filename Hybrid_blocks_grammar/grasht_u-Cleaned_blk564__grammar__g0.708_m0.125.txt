@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 564 | label: grammar | g:0.708 m:0.125 ---
+
+vidhyantaramāha mṛtaṃ nāgam ityādi ।।
+mayannāgaṃ sīsakaṃ tanmṛtanāgaṃ ca mṛtaṃ yadvaṅgaṃ raktagaṇāvāpamṛtaṃ ca yacchulvaṃ vā ghanasatvatārakanakaṃ ghanasatvamabhrasāraṃ tāraṃ rūpyaṃ kanakaṃ hema etannadugaṇasarvaṃ vā pratyekaṃ pṛthak giriṇā śilājatunā saha dhmātaṃ kuryāt adhikaśodhanaiḥ daradaśilātālairvāpāt bījaśeṣaṃ kuryāditi pūrvasaṃbandhaḥ ।।

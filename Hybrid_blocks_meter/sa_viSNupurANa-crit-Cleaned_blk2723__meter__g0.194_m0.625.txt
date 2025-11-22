@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2723 | label: meter | g:0.194 m:0.625 ---
+
+kṣātraṃ karma dvijasyoktaṃ vaiśyakarma tathāpadi 
+rājanyasya ca vaiśyoktaṃ śūdrakarma na caitayoḥ ।।

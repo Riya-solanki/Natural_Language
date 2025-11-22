@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 361 | label: meter | g:0.25 m:0.5 ---
+
+tavaitat paramaṃ rūpaṃ yanna śakyaṃ mayoditum ।
+na cāsyena na vā jihvātālvoṣṭhādibhirucyate ।।

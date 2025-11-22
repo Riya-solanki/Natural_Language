@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 23 | label: grammar | g:0.552 m:0.5 ---
+
+aṇor aṇiyān aham eva tadvan mahān ahaṃ viśvam ahaṃ vicitram ।
+purātano ahaṃ puruṣo aham īśo hiraṇmayo ahaṃ śivarūpam asmi ।।

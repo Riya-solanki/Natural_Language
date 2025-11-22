@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 453 | label: grammar | g:0.69 m:0.055 ---
+
+abībhaṣad ayaṃ horīm ababhāṣad iyaṃ tathā ।
+adīdipad asau bhāvam asau ca tam adīdipat ।।
+[] tataś ca rājāyamāna-gokula-yuvarājas taṃ nikāra-prakāraṃ baṭu-mukhataḥ kaṭu-nibhaṃ karṇa-puṭam ānīya tāṃ dūtīṃ sva-pakṣa-rakṣitābhiḥ kābhiścit pragalbhatā-lakṣitābhis tādṛśa-strībhiḥ puruṣa-veśāṃ vidhāya tena baṭunā saṃdideśa । tasyāḥ kanyāyāḥ so' yam evadhanyo vara iti ।

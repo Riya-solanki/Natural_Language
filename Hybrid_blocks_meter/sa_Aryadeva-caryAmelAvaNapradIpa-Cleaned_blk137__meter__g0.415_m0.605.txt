@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 137 | label: meter | g:0.415 m:0.605 ---
+
+yena mūḍhāḥ prabadhyante śīryante rauravāntike । taireva hi vimucyante sukhaṃ prajñābalena tu ।। iti । 
+athātaḥ saṃpravakṣyāmi sarvato viśvamuttamam ।
+sarvabuddhasamāyogaḍākinījālasaṃvaram ।।

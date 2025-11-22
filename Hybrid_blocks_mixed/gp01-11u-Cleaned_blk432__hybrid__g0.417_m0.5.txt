@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 432 | label: hybrid | g:0.417 m:0.5 ---
+
+[] tad evaṃ dina-katipaye labdha-vyatyaye garbha-sandarbhāt spaṣṭam aṣṭa-māsi tad-avarajanma-janmanaḥ samārambhaḥ sambhavati sma । yathā cādhunāpi varṇayanti

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 177 | label: meter | g:0.142 m:0.739 ---
+
+"pūrvānurāga-galitāṃ mama lambhane' pi
+lokāpavāda-dalitām atha mad-viyuktau ।
+dāvānala-jvalita-jāti-vanī-sadṛkṣām
+etāṃ kathaṃ katham ahaṃ bata sāntvayāmi?" ।। [vasantatilakā]

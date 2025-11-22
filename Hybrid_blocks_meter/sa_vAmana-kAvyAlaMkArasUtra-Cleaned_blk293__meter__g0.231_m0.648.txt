@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 293 | label: meter | g:0.231 m:0.648 ---
+
+tān krameṇa vyākhyātumāha 
+jātipramāṇadharmanyūnatopamānasya hīnatvam ।।
+jātyā pramāṇena dharmeṇa copamānasya nyūnatā yā taddhīnatvamiti । jātinyūnatvarūpaṃ hīnatvaṃ yathā

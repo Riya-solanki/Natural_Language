@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 117 | label: meter | g:0.25 m:0.5 ---
+
+anyad eva hi yāgādau sāmānyaṃ karaṇātmakam ।
+anyac ca bhāvanā nāma sādhyatvena vyavasthitam ।।

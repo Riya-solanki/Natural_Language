@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 770 | label: meter | g:0.25 m:0.5 ---
+
+paścime tu diśābhāge yamunā saṃśritā nadī ।
+yadā uttarato yāti sindhurbhavati sā nadī ।।

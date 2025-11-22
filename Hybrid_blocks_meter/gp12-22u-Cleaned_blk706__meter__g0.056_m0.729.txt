@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 706 | label: meter | g:0.056 m:0.729 ---
+
+sarvaṃ yan-mānasaṃ vācikaṃ vā
+yuṣmadṛgbhiḥ sādhyate kāyikaṃ vā ।
+nityaṃ tat tad dṛśyate man-nimittaṃ
+tasmād etan mad-dhitatvād vidheyam ।। [śālinī]

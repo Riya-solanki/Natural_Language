@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11904 | label: hybrid | g:0.521 m:0.5 ---
+
+mahādevaṃ pūjayitvā ca samyak haretyuktvā svagṛhe vidyamāne ।
+yadā gṛhaṃ dahyate vahninā tu tadā haraḥ kutra palāyitobhūt ।।

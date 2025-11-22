@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5192 | label: hybrid | g:0.476 m:0.5 ---
+
+yathā hi puṣpaprabhavaṃ phalaṃ drumāt tataḥ prajāyanti punaś ca pādapāḥ 
+tathā maharṣiprabhavā imā giraḥ pravardhayante tam ṛṣiṃ pravartitāḥ ।।

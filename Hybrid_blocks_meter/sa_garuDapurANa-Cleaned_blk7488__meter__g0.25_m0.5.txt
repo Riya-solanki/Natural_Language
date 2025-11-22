@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7488 | label: meter | g:0.25 m:0.5 ---
+
+ālayastatra raudre hi dahyate yena mānavaḥ ।
+chatradānena succhāyā jāyate pathi tuṣṭidā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 301 | label: hybrid | g:0.521 m:0.5 ---
+
+taṃ kūjamānaṃ vilapantamārāt samīkṣya pācaṃ tarasā vṛṣaketanaṃ hi ।
+vivyādha cāpaṃ tarasā vināmya saṃtāpanāmnā tu śareṇa bhūyaḥ ।।

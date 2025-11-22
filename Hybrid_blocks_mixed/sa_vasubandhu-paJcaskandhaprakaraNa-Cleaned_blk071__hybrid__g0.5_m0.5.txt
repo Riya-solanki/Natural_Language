@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 71 | label: hybrid | g:0.5 m:0.5 ---
+
+vikṣepaḥ katamaḥ । rāgadveṣamohāṃśikaḥ pañcakāmaguṇeṣu cittasya visāraḥ ।।

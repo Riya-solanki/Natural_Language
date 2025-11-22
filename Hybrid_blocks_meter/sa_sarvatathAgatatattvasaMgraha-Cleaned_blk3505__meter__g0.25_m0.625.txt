@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3505 | label: meter | g:0.25 m:0.625 ---
+
+kṛtvā caturvidhāṃ pūjāṃ mahāpuṇyamavāpnute ।
+buddhapūjāgrapuṇyā hi sidhyate nātraṃ saṃśaya ।।

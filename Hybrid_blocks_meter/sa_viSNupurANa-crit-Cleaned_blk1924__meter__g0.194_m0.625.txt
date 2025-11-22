@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1924 | label: meter | g:0.194 m:0.625 ---
+
+catvāriṃśat sahasrāṇi dvitīyo akṣo vivasvataḥ 
+pañcānyāni tu sārdhāni syandanasya mahāmate ।।

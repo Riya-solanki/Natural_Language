@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 710 | label: hybrid | g:0.468 m:0.317 ---
+
+saptadaśasaṃkhyāparimito rāśirgaṇaḥ saptadaśakaḥ ।
+tadyathā-buddhikarmendriyāṇi bāhyāni daśa buddhimanasī vṛttibhedamātreṇa bhinne apyekīkṛtyaikamantaḥ karamaṃ śarīraṃ pca viṣayā iti saptadaśako rāśiḥ ।।

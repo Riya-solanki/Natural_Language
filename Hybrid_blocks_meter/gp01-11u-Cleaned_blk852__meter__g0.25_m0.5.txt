@@ -1,0 +1,8 @@
+--- source: gp01-11u-Cleaned.txt | block: 852 | label: meter | g:0.25 m:0.5 ---
+
+tvayy udbhaṭaṃ pradravantyām aṅghryāḥ kaṭaka-ghaṭṭanāt ।
+asphuṭad dadhi-maṇḍasya ghaṭaḥ, kā mama dhṛṣṭatā? ।। [anuṣṭubh]
+kīśo' yam īśa-nirdiṣṭaḥ praviṣṭaḥ sadma muṣṭaye ।
+kṛṣṭaḥ sarpiḥ-parāmṛṣṭo mayā, kā mama duṣṭatā? ।। [anuṣṭubh]
+tathāpi tvām ātta-yaṣṭiṃ dṛṣṭvā dudrava coravat ।
+tvaṃ punar māṃ vṛthā bhītam api dudrotha nirdayam ।। [anuṣṭubh]

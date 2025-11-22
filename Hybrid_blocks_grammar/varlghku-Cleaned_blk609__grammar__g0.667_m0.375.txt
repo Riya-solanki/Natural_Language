@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 609 | label: grammar | g:0.667 m:0.375 ---
+
+bruvo vaciḥ ।।
+ārdhadhātuke । ūcatuḥ । uvacitha, uvaktha । vaktāsi, vaktāse । vakṣyati, vakṣyate । bravītu, brūtāt । brūhi । brūtām । abravīt, abrūta । ucyāt, vakṣīṣṭa ।।

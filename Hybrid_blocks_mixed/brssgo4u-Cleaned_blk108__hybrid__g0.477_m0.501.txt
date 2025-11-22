@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 108 | label: hybrid | g:0.477 m:0.501 ---
+
+uttarasūtrārthaṃ gṛhṇāti-kimityādinā ।
+yatprārabdhādanyatkāmyaṃ puṇyaṃ pāpaṃ ca tadeva vidvatsuhṛddviṣatoḥ svasamānajātīyaṃ karma janayati svayaṃ ca jñānānnaśyatīti bhāvaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1277 | label: meter | g:0.25 m:0.5 ---
+
+rasād vai śoṇitaṃ bhavati śoṇitān māṃsam ucyate 
+māṃsāt tu medaso janma medaso asthi nirucyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 203 | label: meter | g:0.25 m:0.5 ---
+
+emeva sthitva karuṇāṃ vidu bodhisattvo prajñāupāyadvayachatraparigṛhīto 
+śūnyānimittapraṇidhiṃ vimṛṣāti dharmān na ca nirvṛtiṃ spṛśati paśyati dharmacārī ।।

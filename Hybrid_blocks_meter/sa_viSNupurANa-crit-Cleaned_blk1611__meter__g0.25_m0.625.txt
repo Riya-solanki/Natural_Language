@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1611 | label: meter | g:0.25 m:0.625 ---
+
+ramyakaṃ cottaraṃ varṣaṃ tasyaivānu hiraṇmayam 
+uttarāḥ kuravaś caiva yathā vai bhārataṃ tathā ।।

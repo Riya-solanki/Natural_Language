@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2071 | label: meter | g:0.306 m:0.625 ---
+
+subhāṣitānyarcayatā sādho sarvātmanā tvayā ।
+sthāne khalu niyukto arthaḥ sthāne nāvekṣitaḥ śramaḥ ।।

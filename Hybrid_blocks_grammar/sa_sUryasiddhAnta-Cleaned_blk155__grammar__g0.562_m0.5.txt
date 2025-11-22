@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 155 | label: grammar | g:0.562 m:0.5 ---
+
+lambākṣajye tayoś cāpe lambākṣau dakṣiṇau sadā। madhyacchāyā bhujas tena guṇitā tribhamaurvikā।।

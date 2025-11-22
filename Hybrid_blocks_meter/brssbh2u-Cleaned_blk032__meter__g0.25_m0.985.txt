@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 32 | label: meter | g:0.25 m:0.985 ---
+
+FN saṃvadanaṃ vivādaḥ ।
+viśiṃṣanti vāgādīnprāṇādīniti śeṣaḥ ।
+ahaṃśreyase svasvaśreṣṭhatvāya ।
+niḥśreyasaṃ śraiṣṭhyam ।

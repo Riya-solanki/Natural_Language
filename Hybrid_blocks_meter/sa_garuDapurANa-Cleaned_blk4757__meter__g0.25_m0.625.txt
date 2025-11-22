@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4757 | label: meter | g:0.25 m:0.625 ---
+
+pāpmabhiḥ karmabhiḥ sadyaḥ prāktanaiḥ preritāmalāḥ ।
+śirāḥ prapadya tairyuktāstvagvasāraktamāmiṣam ।।

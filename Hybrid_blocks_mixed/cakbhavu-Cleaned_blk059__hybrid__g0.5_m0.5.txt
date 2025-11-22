@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 59 | label: hybrid | g:0.5 m:0.5 ---
+
+Viv ubhayor api sāpekṣatvenānupapadyamānasvarūpatvāj jaḍājaḍayos triṣv api kāleṣu cidatirekeṇābhāva evāgamanād avicalatvān nagaḥ tatra yo nirjharo nirgato jharo vayohānirūpaḥ kālo yasmāt tādṛksvarūpaṃ tataḥ pravṛttaṃ paracamatkārarūpaṃ pādyaṃ

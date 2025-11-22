@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 752 | label: meter | g:0.194 m:0.5 ---
+
+tathety uktvā ca tasyāsīt tadā yogātmano matiḥ 
+evaṃ te samayaṃ cakruḥ suvāktaṃ pratyabhāṣata ।।

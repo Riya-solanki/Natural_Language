@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6594 | label: meter | g:0.25 m:0.5 ---
+
+dvirātrataḥ kṣatriyā ca śuddhā vaiśyā hyupoṣitā ।
+śūdrā snānena śudhyettu droṇārthaṃ na visarjayet ।।

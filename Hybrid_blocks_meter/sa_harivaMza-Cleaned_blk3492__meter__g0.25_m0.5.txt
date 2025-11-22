@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3492 | label: meter | g:0.25 m:0.5 ---
+
+samudras tam uvācedaṃ daityaḥ pañcajano mahān 
+timirūpeṇa taṃ bālaṃ grastavān iti mādhava ।। 
+unmathya salilād asmād grastavān iti bhārata । 
+sa pañcajanam āsādya jaghāna puruṣottamaḥ 
+na cāsasāda taṃ bālaṃ guruputraṃ tadācyutaḥ ।।

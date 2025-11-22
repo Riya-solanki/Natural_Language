@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 13 | label: grammar | g:0.559 m:0.5 ---
+
+pātaḥ pūṣṇo bhavati mahate nopatāpāya yasmāt kāle prāpte ka iha na yayur yānti yāsyanti vāstam 
+etāvat tu vyathayatitarāṃ lokabāhyais tamobhis tasminn eva prakṛtimahati vyomni labdho avakāśaḥ ।।

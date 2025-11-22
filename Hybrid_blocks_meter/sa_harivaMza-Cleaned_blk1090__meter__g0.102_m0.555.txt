@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1090 | label: meter | g:0.102 m:0.555 ---
+
+yasyāṃ sa dharmavid rājā dharmād jajñe yudhiṣṭhiraḥ 
+bhīmasenas tathā vātād indrāc caiva dhanaṃjayaḥ 
+loke apratiratho vīraḥ śakratulyaparākramaḥ ।।

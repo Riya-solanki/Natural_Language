@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4369 | label: meter | g:0.306 m:0.5 ---
+
+dānaṃ bhūmiḥ sarvakāmapradeyaṃ bhavān pātraṃ devadevo jitātmā ।
+kālo jyeṣṭhāmūlayoge mṛgāṅgaḥ kurukṣetraṃ puṇyadeśaṃ prasiddham ।।

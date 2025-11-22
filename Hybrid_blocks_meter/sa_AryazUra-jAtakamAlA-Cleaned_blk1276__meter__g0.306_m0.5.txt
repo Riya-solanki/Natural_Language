@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1276 | label: meter | g:0.306 m:0.5 ---
+
+so ahaṃ dharmaṃ ca saṃpaśyan dharmāccārthaṃ samutthitam ।
+tava mānada bhaktyā ca nābhikāṅkṣāmi jīvitam ।।

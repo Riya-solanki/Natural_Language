@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4340 | label: meter | g:0.25 m:0.625 ---
+
+śukavarṇābhakaṇṭhatvaṃ snigdhoṣṇopaśamo anilāt ।
+pittāttālugale dāhaḥ śoṣo bhavati santatam ।।

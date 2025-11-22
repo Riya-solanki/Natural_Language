@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 555 | label: grammar | g:0.646 m:0.5 ---
+
+athemāṃ viśvantarapravrājanapravṛttimupalabhya rājakule tumula ākrandaśabdaḥ prādurabhūta । śokaduḥkhāvegānmūrcchāparīta ivārthijano mattonmatta iva ca tattadbahuvidhaṃ vilalāpa ।

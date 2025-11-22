@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 103 | label: grammar | g:0.569 m:0.5 ---
+
+viśālaṃ śālmalyā nayanasubhagaṃ vīkṣya kusumaṃ śukasyāsīd buddhiḥ phalam api bhaved asya sadṛśam 
+cirāsīnaṃ tasmiṃś ca phalam api daivāt pariṇataṃ vipāke tūlo antaḥ sapadi marutā so apy apahṛtaḥ ।।

@@ -1,0 +1,9 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 66 | label: grammar | g:0.604 m:0.292 ---
+
+bhavatikarotyoḥ śaktibhedād viklidipacatyor iva niyataṃ prayojyaprayojakavyāpāravacanatvam ।
+tatra ca kadācid abhidhīyamānakarmaśaktyākṣiptaprayojyavyāpāro vā svayam evākṣiptaprayojyavyāpāro vā kevalaṃ prayojakavyāpāra eva vivakṣyate kaṭaṃ karoti odanaṃ pacati iti ।
+kadācid ākṣiptaprayojakavyāpāraṃ prayojyavyāpāramātram ghaṭo bhavati viklidyanti taṇḍulāḥ iti ।
+kadācid ubhau bhinnau samuccitya prayogaḥ karoti kaṭaṃ devadattaḥ, sa ca bhavati iti ।
+kadācid upasarjanībhūtaprayojakavyāpāraḥ prayojyavyāpāraḥ kriyate devadattena iti, svayam eveti vā prayoge ।
+kadācit punaḥ samānapadaikadeśopāttopasarjanībhūtaprayojyakriyaḥ prayojakavyāpāro vivakṣyate, tadā ca karotipacatyos tādātmyenāśakter arprayogāt, bhūviklidyoś ca kevalaprayojyakriyāniṣṭhatvān na sākṣāt pravartituṃ śaktir astīti vācakatvena dyotakatvena vā ṇicparaḥ prayujyate bhāvayati vikledayati iti ca ।
+tathā cāha

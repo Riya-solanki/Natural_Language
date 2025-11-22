@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1715 | label: grammar | g:0.562 m:0.5 ---
+
+atra pāśe vāsavadattā-kaṇṭha-gate tat-kārya-bhūtasya prāṇānāṃ kaṇṭha-gatatvasya vatsa-rājena svasmin kalpanāt kṣobhaḥ ।

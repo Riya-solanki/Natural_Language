@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6215 | label: meter | g:0.25 m:0.555 ---
+
+vṛttā nanau sagau gaḥ syānnau ralau gaḥ samadrikā ।
+rajarā lgau śyenikā syājjasatā gau śikhaṇḍitam ।
+triṣṭupchandaḥ samākhyātaṃ piṅgalena mahātmanā ।।

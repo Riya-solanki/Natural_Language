@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1823 | label: meter | g:0.194 m:0.625 ---
+
+rudhirāmbho vaitaraṇī kṛmiśaḥ kṛmibhojanaḥ 
+asipatravanaṃ kṛṣṇo lālābhakṣaś ca dāruṇaḥ ।।

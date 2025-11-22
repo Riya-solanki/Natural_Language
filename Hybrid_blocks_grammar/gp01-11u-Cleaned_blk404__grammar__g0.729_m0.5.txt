@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 404 | label: grammar | g:0.729 m:0.5 ---
+
+[] sa sānandam uvāca-saṅgataṃ bravīṣi । mamāpy utkaṇṭhāṅkuritaṃ sphuritam etad evāsīt । tasmād adyārabhya samārabhyatām eṣa vrata iti ।

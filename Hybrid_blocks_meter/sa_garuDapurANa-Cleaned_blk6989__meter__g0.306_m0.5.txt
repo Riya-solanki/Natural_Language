@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6989 | label: meter | g:0.306 m:0.5 ---
+
+rogādvimucyate rāgī labhate nirdhano dhanam ।
+vidyārtho labhate vidyāṃ bhagyaṃ kīrti ca vindati ।।

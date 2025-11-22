@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 383 | label: meter | g:0.302 m:0.806 ---
+
+dehadharṃmavihīnaśca kṣarākṣaravivarjitaḥ ।
+ṣaḍvidheṣu sthito draṣṭā śrotā ghrātā hyatīndriyaḥ ।।

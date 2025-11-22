@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 462 | label: grammar | g:0.573 m:0.5 ---
+
+smitajyotsnādhautaṃ sphuradadharapatraṃ mṛgadṛśāṃ mukhābjaṃ cet pītaṃ tad alam iha pīyūṣakathayā ।
+aho mohaḥ ko ayaṃ śatamakhamukhānāṃ sumanasāṃ yad asyārthe atyarthaṃ jaladhimathanāyāsam aviśan ।।

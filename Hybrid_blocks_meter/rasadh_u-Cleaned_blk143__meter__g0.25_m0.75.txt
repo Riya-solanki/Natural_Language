@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 143 | label: meter | g:0.25 m:0.75 ---
+
+nāgavallyāśca patreṇa tadataṃttāmitaram ।
+ratimātraṃ kṣipet kuryānnāgapatrasya veḍhanīm ।।
+gālayitvātha taccūrṇaṃ sarvaloheṣu nikṣipet ।
+gālyamāneṣu tāyeta sahasrasya pravedhakam ।।

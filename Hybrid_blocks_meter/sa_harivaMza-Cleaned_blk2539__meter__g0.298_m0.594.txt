@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2539 | label: meter | g:0.298 m:0.594 ---
+
+tat tu tālavanaṃ nṝṇām asevyaṃ duratikramam 
+nirmāṇabhūtam iriṇaṃ puruṣādālayopamam ।। 
+pāṣāṇair atha rājendra bahubhiḥ parvatopamaiḥ । pakvāni caiva rājendra pātayām āsa kāmataḥ । 
+dāruṇo dhenuko nāma daityo gardabharūpavān 
+kharayūthena mahatā vṛtaḥ samupasevate ।।

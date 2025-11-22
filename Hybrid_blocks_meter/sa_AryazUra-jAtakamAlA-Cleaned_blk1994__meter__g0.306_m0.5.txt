@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1994 | label: meter | g:0.306 m:0.5 ---
+
+na jīvitaṃ yatsukhamaihikaṃ vā satyāccyutaṃ rakṣati durgatibhyaḥ ।
+satyaṃ vijahyāditi kastadarthaṃ yaccākaraḥ stutiyaśaḥsukhānām ।।

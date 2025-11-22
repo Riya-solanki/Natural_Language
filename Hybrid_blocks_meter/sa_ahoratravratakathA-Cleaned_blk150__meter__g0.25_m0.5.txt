@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 150 | label: meter | g:0.25 m:0.5 ---
+
+dharmadakṣo mahārājā yathāvidhi vrataṃ caran ।
+bhāryayā saha dharmātmā sukhāvatyāṃ mahīpatiḥ ।।

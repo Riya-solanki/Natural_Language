@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 117 | label: grammar | g:0.604 m:0.5 ---
+
+svamātaraṃ parityajya śvapākīṃ vandate tathā tathā hariṃ parityajya yo anyaṃ devam upāsate ।।

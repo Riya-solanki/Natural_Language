@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1601 | label: meter | g:0.25 m:0.5 ---
+
+kṣaṇāt prabodham āyāti laṅghyate tamasā punaḥ ।
+nirvāsyataḥ pradīpasya śikheva jaratāṃ matiḥ ।।

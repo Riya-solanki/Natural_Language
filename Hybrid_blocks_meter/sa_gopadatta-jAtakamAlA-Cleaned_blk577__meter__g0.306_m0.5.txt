@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 577 | label: meter | g:0.306 m:0.5 ---
+
+cāmīkarādrim iva jaṅgamam āpatantaṃ taṃ tāyinaṃ svakiraṇaiḥ pariviṣṭamūrtim ।
+paurāḥ prasādaśithilāvanataiḥ śirobhir dūrāt praṇemur upaśāntabhavaprapañcam ।।

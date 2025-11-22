@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11586 | label: meter | g:0.25 m:0.5 ---
+
+vyaṅkaṭā iti saṃproktāsteṣāṃ nāśayitā prabhuḥ ।
+atastu vyaṅkaṭeśākhya evaṃ jñātvā japaṃ kuru ।।

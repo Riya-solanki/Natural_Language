@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 564 | label: meter | g:0.25 m:0.5 ---
+
+karoti siṅgabhūpāla karaste viduṣāṃ mudam ।
+kartā vairivipattīnāṃ saṃpadaṃ suhṛdāṃ sphuṭam ।।

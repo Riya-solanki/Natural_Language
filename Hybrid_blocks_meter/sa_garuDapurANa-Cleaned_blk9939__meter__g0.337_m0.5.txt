@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9939 | label: meter | g:0.337 m:0.5 ---
+
+adhyāyamenaṃ sukṛtasya sāraṃ śṛṇoti gāyatyapi bhāvaśuddhyā ।
+sa vai kulīnaḥ sa ca dharmayukto viśvālayaṃ yāti paraṃ sa nūnam ।।

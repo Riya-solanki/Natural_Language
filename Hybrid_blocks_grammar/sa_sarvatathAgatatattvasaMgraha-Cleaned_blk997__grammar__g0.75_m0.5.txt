@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 997 | label: grammar | g:0.75 m:0.5 ---
+
+atha vajrapāṇistān jvarādīnāhūyaivamāha । "pratipadyata mārṣāḥ satvopaghātavairamaṇyaśikṣāgrahaṇasaṃvare!" । atha ta evamāhu । "vayaṃ bhagavan satvau [jo apa]hṛtya jīvikāṃ kalpayāmaḥ । tatsādhu bhagavānājñāpayatu kathaṃ pratipadyāmaha" iti ।

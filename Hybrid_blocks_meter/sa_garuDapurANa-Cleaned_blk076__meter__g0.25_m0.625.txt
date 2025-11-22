@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 76 | label: meter | g:0.25 m:0.625 ---
+
+etatsarvaṃ hare ! brūhi yaccānyadapi kiñcana ।
+parameśvaramāhātmyaṃ yuktayogādikaṃ tathā ।।

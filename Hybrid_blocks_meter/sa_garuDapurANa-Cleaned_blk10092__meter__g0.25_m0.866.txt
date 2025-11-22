@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10092 | label: meter | g:0.25 m:0.866 ---
+
+muktisādhanabhūtaṃ ca brūhi tattvavinirṇayam ।
+sūta uvāca ।
+śṛṇudhvamṛṣyaḥ sarve hariṃ tattvavinirṇayam ।।

@@ -1,0 +1,3 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 28 | label: meter | g:0.25 m:0.75 ---
+
+ity atharvavede kaivalyopaniṣat samāptā ।।

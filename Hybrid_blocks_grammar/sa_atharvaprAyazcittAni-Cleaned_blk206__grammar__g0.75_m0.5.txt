@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 206 | label: grammar | g:0.75 m:0.5 ---
+
+atha yasyāsamāpte karmaṇi barhir ādīpyeta tatra tan nirvāpya juhuyād yad agnir barhir adahad vedyā vāso apoṃ bhata tvam eva no jātavedo duritāt pāhi tasmāt ।।

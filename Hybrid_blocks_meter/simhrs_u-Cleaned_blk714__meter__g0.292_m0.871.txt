@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 714 | label: meter | g:0.292 m:0.871 ---
+
+atha nidrā-
+mada-svabhāva-vyāyāma-niścintatva-śramādibhiḥ । 
+mano-nimīlanaṃ nidrā ceṣṭās tatrāsya-gauravam ।।
+āghūrṇamāna-netratvam aṅgānāṃ parimardanam । 
+niḥśvāsocchvāsane sanna-gātratvaṃ netra-mīlanam ।
+śarīrasya ca saṅkoco jāḍyaṃ cety evam ādayaḥ ।।

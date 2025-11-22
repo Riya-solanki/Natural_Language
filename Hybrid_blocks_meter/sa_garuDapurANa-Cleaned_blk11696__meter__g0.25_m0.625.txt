@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11696 | label: meter | g:0.25 m:0.625 ---
+
+vadanevandane devi sītārāmasya kośakam ।
+durlabhaṃ tu kalau nṝṇāṃ svasāmrājyapradaṃ śubham ।।

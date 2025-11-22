@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3619 | label: meter | g:0.194 m:0.75 ---
+
+vyupāramanta yuddhāni prekṣantau puruṣarṣabhau 
+saṃrabdhāv abhidhāvantau gadāyuddheṣu viśrutau ।।

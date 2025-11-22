@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 66 | label: meter | g:0.26 m:0.5 ---
+
+vidyāhyāsa-paramparā-paricayair bālyaṃ kṛtāthī-kṛtaṃ tāruṇyaṃ taruṇī-nirantara-parīrambhaiś ca saṃbhāvitam
+asmākaṃ sura-sindhu-rodhasi punaḥ śaṃbhāva-daṃbhācanair vṛddhatvasya viśuddhatāṃ janayituṃ kartavya-śeṣaḥ sthitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10135 | label: meter | g:0.25 m:0.75 ---
+
+vināyakapurāṇaṃ ca bṛhadbrahmāṇḍameva ca ।
+etāni rājasānyāhuḥ śravaṇādbhuktaruttamā ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 168 | label: hybrid | g:0.486 m:0.5 ---
+
+na ca kīrtikāma na ca krodhaparītacittā gṛhibhūta nitya anadhyoṣita sarva vastuṃ 
+na ca jīvikāviṣayabhoga gaveṣayanti abhicāramantra na ca istriprayogamantrāḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11861 | label: meter | g:0.434 m:0.606 ---
+
+śrīkṛṣṇa uvāca ।
+buddhiḥ patnī sā dvirūpā khagendra duṣṭā caikā tvaparā suṣṭhurūpā ।
+tayormadhye duṣṭarūpā kaniṣṭhā jyeṣṭhā tu yā suṣṭhubuddhisvarūpā ।।

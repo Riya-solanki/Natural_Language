@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1779 | label: grammar | g:0.552 m:0.5 ---
+
+yo nīvāratṛṇāgramuṣṭikabalaiḥ saṃvardhitaḥ śaiśave pītaṃ yena sarojinīdalapuṭe homāvaśiṣṭaṃ payaḥ ।
+taddānāsavapānamattamadhupavyālolagaṇḍaṃ gajaṃ sotkaṇṭhaṃ sabhayaṃ ca paśyati śanair dūre sthitas tāpasaḥ ।।

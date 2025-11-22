@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 306 | label: meter | g:0.25 m:0.516 ---
+
+FN paramāṇuḥ parimaṇḍalaḥ tadgataṃ parimāṇaṃ pārimāṇḍalyam ।
+dve dve iti paṭhitavyam ।

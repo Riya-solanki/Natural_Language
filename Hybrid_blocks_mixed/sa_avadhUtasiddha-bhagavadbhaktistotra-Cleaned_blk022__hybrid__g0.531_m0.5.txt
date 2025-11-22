@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 22 | label: hybrid | g:0.531 m:0.5 ---
+
+guhyaṃ guhāśrayam ajam paramaṃ pavitram ekaṃ vibhuṃ sakalavāṅmayabījam ādyam ।
+samyak prayuktam abhivāñchitahtubhūtam āhur bhavantam apare nanu śabdatattvam ।।

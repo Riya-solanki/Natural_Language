@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 300 | label: meter | g:0.275 m:0.814 ---
+
+śrīvāmana uvāca
+etāvatā daityapate kṛtakṛtyo asmi mārgaṇe ।
+anyeṣāmarthināṃ vittamicchayā dāsyate bhavān ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 14 | label: meter | g:0.306 m:0.5 ---
+
+ādyaiṣā brahmaṇo vedistato rāmahṛdaḥ smṛtaḥ ।
+karuṇā ca yataḥ kṛṣṭaṃ kurukṣetraṃ tataḥ smṛtam ।।

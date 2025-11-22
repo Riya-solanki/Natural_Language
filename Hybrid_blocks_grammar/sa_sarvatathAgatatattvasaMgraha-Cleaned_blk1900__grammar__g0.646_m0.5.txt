@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1900 | label: grammar | g:0.646 m:0.5 ---
+
+tato [ājñāpa]yāt । "na kasyacittvayedaṃ guhyavidhivistaramākhyeyaṃ; mā te narakapatanaṃ bhavet, viṣamāparihāreṇa ca kālakriye" ti ।।

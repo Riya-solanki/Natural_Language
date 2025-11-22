@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 241 | label: grammar | g:0.75 m:0.5 ---
+
+[] alaṃ-lakṣmīṇām etad-ādīnāṃ lakṣmīṇāṃ janma ca śrīmat-parjanyam ārabhya dhanyatayā labhyasya puruṣa-trayasya paramātula-stotrāṇāṃ mātula-gotrāṇāṃ ye khalv āmuṣyāyaṇa-kulatā-nirbandhinaḥ sambandhinas tebhya eveti māgadhānām anusandhānaṃ sa-yatnī-bhūya yajña-patnīs tyaktavatas tasya tathāvyakta-maryādatānyathā na paryāptatām āpadyate ।

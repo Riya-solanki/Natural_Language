@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 278 | label: grammar | g:0.556 m:0.5 ---
+
+evaṃ mārgaṃ nirūpya gantavyaṃ cintayati-kāryaṃ bādarirasya gatyupapatteḥ ।
+paraṃ brahma gantavyamiti pūrvapakṣe mārgasya muktyarthatā kāryaṃ brahmeti siddhānte bhogārthateti matvā prathamaṃ siddhāntamāha-tatra kāryameveti ।
+sarvagatasyāpi pradeśāntaraviśiṣṭatvenākāśasya gantavyatvaṃ, dṛṣṭaṃ, brahmaṇastu pratyaktvānna kathamapi gantavyatetyarthaḥ ।।

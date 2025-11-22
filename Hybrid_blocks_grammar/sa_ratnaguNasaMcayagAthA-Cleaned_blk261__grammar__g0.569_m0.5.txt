@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 261 | label: grammar | g:0.569 m:0.5 ---
+
+yatha māyakārapuruṣasya na eva bhoti te śiṣya māṃ janata so ca karoti kāryam 
+paśyanti taṃ vividha kāryu nidarśayantaṃ na ca tasya kāyu na pi citta na nāmadheyam ।।

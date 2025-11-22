@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2363 | label: grammar | g:0.75 m:0.5 ---
+
+tato bhagavānākāśagarbho bodhisatvaḥ sarvaṃ jalpāpayatītya; uktamātre mukhabandhaṃ muktvā, mahāmaṇḍalaṃ darśayet, sarvatathāgatābhiṣekasamayaṃ codāharet, yāvad bhagavāṃstathāgatastu gata iti । tato yathāvibhavataḥ pūjān kṛtvā, sarvakāryāṇi sādhayediti ।

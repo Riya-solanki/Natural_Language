@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 333 | label: meter | g:0.194 m:0.521 ---
+
+{vārijjanto vi puṇo saṃdāvakadatthi-eṇa hi-a-eṇa ।
+thaṇaharava-asma-eṇa visuddhajā-ī ṇa cala-i se hāro ।। }
+[vāryamāṇo api punaḥ saṃtāpakadarthitena hṛdayena ।
+stanabharavayasyena viśuddhajātirna calatyasyā hāraḥ ।।]

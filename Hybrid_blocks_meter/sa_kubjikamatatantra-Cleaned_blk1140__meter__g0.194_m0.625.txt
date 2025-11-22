@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1140 | label: meter | g:0.194 m:0.625 ---
+
+ākāśāt patitaṃ toyaṃ yathā gacchati sāgaram 
+gartānadyopacāreṇa tathā sarvaṃ kulānvaye ।।

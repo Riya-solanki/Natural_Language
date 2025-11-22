@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1816 | label: meter | g:0.25 m:0.75 ---
+
+vakṣobhirviṣamairniḥ svaḥ śastreṇanidhanāstathā ।
+viṣamairjatrubhirniḥ svā asthinaddhaiśca mānavāḥ ।।

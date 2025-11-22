@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1485 | label: meter | g:0.194 m:0.625 ---
+
+dhvajasthaṃ janam ity uktaṃ tapolokaṃ tu kandagam 
+satyalokaṃ tu tattvasthaṃ brahmagranthyāvadhisthitam ।।

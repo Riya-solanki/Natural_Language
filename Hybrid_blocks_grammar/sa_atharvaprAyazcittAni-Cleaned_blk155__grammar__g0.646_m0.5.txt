@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 155 | label: grammar | g:0.646 m:0.5 ---
+
+atha sa yo anyo brūyād adarśaṃ cādya paścād iti taṃ tu kim iti brūyāt ।

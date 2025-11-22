@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1020 | label: grammar | g:0.635 m:0.5 ---
+
+prātaḥ kopavilohitena raviṇā dhvastaṃ tamaḥ sarvato bhṛṅgāḥ padmapuṭeṣu varṇasadṛśās tasyeti kṛṣṭāḥ karaiḥ ।
+hā kaṣṭaṃ timiratviṣo vayam api vyaktaṃ hatā ity amī kākāḥ samprati ghoṣayanti sabhayāḥ kāketi nāmnātmanaḥ ।।

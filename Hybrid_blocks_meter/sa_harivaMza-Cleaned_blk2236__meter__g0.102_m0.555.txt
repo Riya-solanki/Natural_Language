@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2236 | label: meter | g:0.102 m:0.555 ---
+
+pāde tāṃ gṛhya puruṣaḥ samāvidhyāvadhūya ca 
+udyacchann eva sahasā śilāyāṃ samapothayat 
+sāvadhūtā śilāpṛṣṭhe aniṣpiṣṭā divam utpatat ।।

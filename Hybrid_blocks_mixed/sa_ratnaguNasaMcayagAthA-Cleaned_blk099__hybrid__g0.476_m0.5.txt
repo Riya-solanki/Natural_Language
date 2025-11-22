@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 99 | label: hybrid | g:0.476 m:0.5 ---
+
+evaṃ carantu vidu paṇḍitu bodhisattvo saṅgā uchinnu vrajate jagatī asakto 
+sūryo va rāhugrahamukta virocamāno agnīva yukta tṛṇakāṣṭhavanaṃ dahāti ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7279 | label: meter | g:0.306 m:0.5 ---
+
+yadā puṣpaṃ pranaṣṭaṃ hi kva tadā garbhadhāraṇam ।
+ādarācca tato bhūmau yena garbhaṃ pradhāryate ।।

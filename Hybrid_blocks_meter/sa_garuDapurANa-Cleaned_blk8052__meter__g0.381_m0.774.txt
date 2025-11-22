@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8052 | label: meter | g:0.381 m:0.774 ---
+
+pratisaṃvatsaraṃ pakṣinnekoddiṣṭavidhānataḥ ।
+śrāddhaṃ tatra prakartavyaṃ phalaṃ tasya śṛṇuṣva me ।।

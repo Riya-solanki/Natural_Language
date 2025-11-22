@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 310 | label: hybrid | g:0.375 m:0.5 ---
+
+[] tataś cācaritācāmaḥ śrīdāma-dāma-sudāma-vasudāmādibhiḥ saha karpūra-pūrita-khapurānukūla-svarṇa-varṇa-parṇa-śubhratāvakīrṇa-cūrṇa-maya- tāmbūla-pūrṇa-kapola-lola-kuṇḍala-maṇḍanānana-lakṣmīkaś cakṣur-vijita-nālīkaḥ svajanāvaloka-nābhīkaḥ śrīla-gopālaḥ svālayāya cacāla । yathā,

@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 134 | label: meter | g:0.25 m:0.625 ---
+
+na bhuñjānaṃ samādhisthaṃ caṅkramantaṃ kriyodyatam ।
+sthitaṃ gurusamīpe vā matimānnābhivādayet ।

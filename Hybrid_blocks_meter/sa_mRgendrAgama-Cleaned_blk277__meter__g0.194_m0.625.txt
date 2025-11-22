@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 277 | label: meter | g:0.194 m:0.625 ---
+
+tatra dvātriṃśato amīṣāṃ nirayāṇāṃ patiḥ sthitaḥ 
+kūṣmāṇḍa iti vikhyātaḥ pralayārkānaladyutiḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3033 | label: meter | g:0.281 m:0.555 ---
+
+anādiṣṭeṣu pāpeṣu śuddhiścāndrāyaṇena tu ।
+dharmārtho yaścaredetaccandrasyaiti salokatām ।।
+kṛcchrakṛddharmakāmastu mahatīṃ śriyamaśnute ।।
+iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktaprāyaścittaviveko nāma pañcottaraśatatamo adhyāyaḥ

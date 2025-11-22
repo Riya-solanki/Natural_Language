@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7627 | label: meter | g:0.25 m:0.886 ---
+
+śrīkṛṣṇa uvāca ।
+tryahaṃ prātastryahaṃ sāyaṃ tryahamadyādayācitam ।
+upavāsastryahañcaiva eṣa kṛcchra udāhṛtaḥ ।।

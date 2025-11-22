@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11445 | label: meter | g:0.307 m:0.623 ---
+
+hariprāsādājjñānamanuttamaṃ cāpyavāpa mokṣaṃ bhaktisaṃvardhitātmā ।
+brahmā ca vāyuśca sarasvatī ca jñātavyāḥ sarve ṛjuyoginaśca ।।

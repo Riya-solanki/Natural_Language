@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 558 | label: meter | g:0.25 m:0.5 ---
+
+tato haṃ tasya vacanān mārkaṇḍeyaṃ samāhitaḥ 
+praśnaṃ tam evānvapṛcchaṃ yan me pṛṣṭaḥ purā pitā ।।

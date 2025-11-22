@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1780 | label: meter | g:0.194 m:0.625 ---
+
+pūrvaṃ vyāvarṇitaṃ yac ca rūpānte guṇaśālinīm 
+vidyāṅgābharaṇopetāṃ piṇḍasthāṃ tāṃ vijānatha ।।

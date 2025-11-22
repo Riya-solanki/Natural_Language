@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7669 | label: meter | g:0.307 m:0.623 ---
+
+daśamaṃ piṇḍamutsṛjya rātriśeṣe śucirbhavet ।
+asagotraḥ sagotro vā yadi strī yati vā pumān ।।

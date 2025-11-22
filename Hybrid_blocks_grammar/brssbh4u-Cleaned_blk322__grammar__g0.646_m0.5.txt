@@ -1,0 +1,3 @@
+--- source: brssbh4u-Cleaned.txt | block: 322 | label: grammar | g:0.646 m:0.5 ---
+
+atha yat uktam aāpnoti svārājyam' ityādi pratyakṣa upadeśāt niravagraham aiśvaryaṃ viduṣāṃ nyāyyam iti tatparihartavyam ।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 693 | label: meter | g:0.194 m:0.625 ---
+
+sa tāṃ vilapatīm evaṃ bāṣpavyākulalocanām 
+samāhitamanā viṣṇau paśyann api na dṛṣṭavān ।।

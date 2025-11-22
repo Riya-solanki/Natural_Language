@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 821 | label: meter | g:0.194 m:0.5 ---
+
+ākhyātaṃ ca janais teṣāṃ caurībhūtair arājake 
+rāṣṭre tu lokair ārabdhaṃ parasvādānam āturaiḥ ।।

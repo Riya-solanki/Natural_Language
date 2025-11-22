@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 893 | label: grammar | g:0.635 m:0.5 ---
+
+śvāsaḥ kiṃ tvaritā gatiḥ pulakitā kasmāt prasādyāgatā veṇī bhraśyati pādayor nipatanāt kṣāmā kim ity uktibhiḥ ।
+svedārdraṃ mukham ātapena galitā nīvī gamād āgamād dūti mlānasaroruhadyutimuṣaḥ svauṣṭhasya kiṃ vakṣyasi ।।

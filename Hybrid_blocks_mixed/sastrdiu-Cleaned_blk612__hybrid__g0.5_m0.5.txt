@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 612 | label: hybrid | g:0.5 m:0.5 ---
+
+yattu sakṛcca saṃskṛtaṃ śrotraṃ sarvaśabdānprakāśayedityuktaṃ, tatrocyate- dhvanayo hi tālvādisthānaviśeṣasaṃparkādvijātīyā vilakṣaṇasāmarthyānniṣpadyante, tataśca kaścideva dhvaniḥ kasyacicchabdasyānuguṇaṃ saṃskāramādhatte na sarvasādhāraṇamityupalabdhivyavasthā kalpyate śabdasaṃskārapakṣe api kaścideva dhvaniḥ kañcicchabdaṃ

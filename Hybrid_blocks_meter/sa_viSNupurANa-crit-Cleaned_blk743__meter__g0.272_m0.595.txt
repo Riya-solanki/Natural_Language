@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 743 | label: meter | g:0.272 m:0.595 ---
+
+sarvasmin sarvabhūtas tvaṃ sarvaḥ sarvasvarūpadhṛk 
+sarvaṃ tvattas tataś ca tvaṃ namaḥ sarvātmane astu te ।।

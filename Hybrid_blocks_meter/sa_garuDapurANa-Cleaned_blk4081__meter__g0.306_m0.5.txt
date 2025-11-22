@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4081 | label: meter | g:0.306 m:0.5 ---
+
+piṇḍānāṃ vidhivatkṛtvā dattvā dānāni rāghavaḥ ।
+putrau kuśalavau dṛṣṭvā tau ca rājye abhyaṣecayat ।।

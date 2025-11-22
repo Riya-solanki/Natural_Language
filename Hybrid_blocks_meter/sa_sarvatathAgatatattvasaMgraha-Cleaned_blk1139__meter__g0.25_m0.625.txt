@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1139 | label: meter | g:0.25 m:0.625 ---
+
+anayā baddhamātrayā trilokavijayī sa tu ।
+siddhavidyo bhavetkṣipraṃ bajrahuṃkārasannibhaḥ ।।

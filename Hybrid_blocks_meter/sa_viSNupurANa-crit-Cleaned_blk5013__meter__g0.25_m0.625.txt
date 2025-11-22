@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5013 | label: meter | g:0.25 m:0.625 ---
+
+tasmād durgaṃ kariṣyāmi yadūnām aridurjayam 
+striyo api yatra yudhyeyuḥ kiṃ punar vṛṣṇipuṃgavāḥ ।।

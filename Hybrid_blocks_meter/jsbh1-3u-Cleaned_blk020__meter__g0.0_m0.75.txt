@@ -1,0 +1,3 @@
+--- source: jsbh1-3u-Cleaned.txt | block: 20 | label: meter | g:0.0 m:0.75 ---
+
+[coditaṃ tu pratīyetāvirodhāt pramāṇena ।]

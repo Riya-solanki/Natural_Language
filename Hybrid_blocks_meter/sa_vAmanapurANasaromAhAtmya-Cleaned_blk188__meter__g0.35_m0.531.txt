@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 188 | label: meter | g:0.35 m:0.531 ---
+
+baliruvāca
+tāta ko ayaṃ harirnāma yato no bhayamāgatam ।
+santi me śataśo daityā vāsudevabalādhikāḥ ।।

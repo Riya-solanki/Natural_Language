@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 835 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa rājā tasya brāhmaṇasyāntikāt taṃ nāgarājānaṃ mahatā mūlyena niṣkrīya parameṇa sapatnīkaṃ svabhavanaṃ praveśya mahārhasiṃhāsanopaviṣṭam abhyarcayām āsa ।। atha bodhisattvas tena tasya rājño atyadbhutena niṣkāraṇopakārasaṃbhrameṇākṛṣṭamanāḥ provācainam ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 162 | label: meter | g:0.332 m:0.631 ---
+
+śukatuṇḍacchavi savituś caṇḍarucaḥ puṇḍarīkavanabandhoḥ ।
+maṇḍalam uditaṃ vande kuṇḍalam ākhaṇḍalāśāyāḥ ।।
+vidyāyāḥ

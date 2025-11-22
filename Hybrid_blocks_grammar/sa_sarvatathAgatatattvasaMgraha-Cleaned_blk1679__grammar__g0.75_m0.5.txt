@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1679 | label: grammar | g:0.75 m:0.5 ---
+
+"anayā sakṛjjaptayā sarvastriyo vaśīkṛtyopabhoktavyāḥ, adharmo na bhavati । yathābhirucittaśca sarvabhujtva sādhyāḥ । tataḥ sarvaśuddhicittatāmavetya, sarvamudrāmanasottamānyapi sarvakarmāṇi kurvantī" tyāha bhagavān vajradharaḥ ।।

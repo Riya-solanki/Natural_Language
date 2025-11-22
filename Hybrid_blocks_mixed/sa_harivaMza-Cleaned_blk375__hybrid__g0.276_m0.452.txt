@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 375 | label: hybrid | g:0.276 m:0.452 ---
+
+merupṛṣṭhe tapo nityam adyāpi sa caraty uta 
+bhrātā śanaiścaraś cāsya grahatvaṃ sa tu labdhavān ।। 
+nāsatyau yau samākhyātau svarvaidyau tu babhūvatuḥ । revanto api tathā rājann aśvānāṃ śāntido abhavat । 
+tvaṣṭā tu tejasā tena viṣṇoś cakram akalpayat 
+tad apratihataṃ yuddhe dānavāntacikīrṣayā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2656 | label: meter | g:0.25 m:0.5 ---
+
+rūpeṇa rahitaṃ ñcaiva gandhena parivarjitam ।
+anādi brahma randhrāntamahaṃ brahmāsmi kevalam ।।

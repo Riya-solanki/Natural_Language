@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 521 | label: meter | g:0.101 m:0.918 ---
+
+rāmaḥ krīḍāviṣṭatāśliṣṭa-bodhas
+taṃ nājñāsīd dṛṣṭa-mātraṃ ca kṛṣṇaḥ ।
+pūrvaḥ prāyeṇārjutā-bhitta-cittaḥ
+paścād-bhāvī cāturī-sandhurīṇaḥ ।। [śālinī]

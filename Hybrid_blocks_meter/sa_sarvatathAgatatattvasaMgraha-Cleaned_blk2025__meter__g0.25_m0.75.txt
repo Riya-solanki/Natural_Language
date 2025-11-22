@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2025 | label: meter | g:0.25 m:0.75 ---
+
+athāsāṃ mudrā bhavanti ।
+oṃ padmaratipūje hoḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1478 | label: meter | g:0.25 m:0.508 ---
+
+athātra guhyamaṇḍale sarvasiddhividhivistaraṃ kṛtvā, vajrahuṃkāraguhyamudrājñānamudīrayet ।
+praviśya maṇḍalamidaṃ trilokavijayāṅgulīṃ ।
+sādhaye tu bhage bidhvā sarvakarma susidhyati ।।

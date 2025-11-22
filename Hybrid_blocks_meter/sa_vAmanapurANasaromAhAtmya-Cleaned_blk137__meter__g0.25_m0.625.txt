@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 137 | label: meter | g:0.25 m:0.625 ---
+
+yo atra toyasvarūpastho bibhartyakhilamīśvaraḥ ।
+viśvaṃ viśvapatiṃ viṣṇuṃ taṃ namāmi prajāpatim ।।

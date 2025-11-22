@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2542 | label: meter | g:0.25 m:0.75 ---
+
+prakṣālayāmīti bhavānyadetanmanyate varam ।
+vihitākaraṇodbhūtaiḥ pāpaistvamapi dahyase ।।

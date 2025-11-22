@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 200 | label: grammar | g:0.583 m:0.5 ---
+
+drapsaś caskanda ity abhimantryāthāhavanīya ājyāhutīr juhuyān manase cetase dhiye iti sūktena ।

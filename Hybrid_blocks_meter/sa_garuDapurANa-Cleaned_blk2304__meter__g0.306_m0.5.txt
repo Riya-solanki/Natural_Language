@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2304 | label: meter | g:0.306 m:0.5 ---
+
+gayāyāṃ na hi tatsthānaṃ yatra tīrthaṃ na vidyate ।
+pañcakrośe gayākṣetre yatra tatra tu piṇḍadaḥ ।।

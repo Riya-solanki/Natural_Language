@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10444 | label: meter | g:0.306 m:0.5 ---
+
+vicchinnaduḥ khasya tadādhikāriṇa ānandarūpākhyaphalaṃ dadāti ।
+harerguṇānastuvatāṃ ca pāpaṃ teṣāṃ hi puṇyaṃ ca tathā kṣiṇoti ।।

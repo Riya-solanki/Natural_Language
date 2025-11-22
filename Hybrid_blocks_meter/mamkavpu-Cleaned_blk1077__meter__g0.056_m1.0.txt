@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1077 | label: meter | g:0.056 m:1.0 ---
+
+{parimlānaṃ pīnastanajaghanasaṃgādubhayatas-
+tanormadhyasyāntaḥ parimilanamaprāpya haritam ।
+idaṃ vyastanyāsaṃ ślathabhujalatākṣepavalanaiḥ
+kṛśāṅgyāḥ saṃtāpaṃ vadati bisinīpatraśayanam ।।}

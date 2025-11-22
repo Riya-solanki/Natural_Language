@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 415 | label: meter | g:0.194 m:0.625 ---
+
+devaḥ sadāśivo bindau nivṛttyādikaleśvarāḥ 
+nāde dhvanipatiḥ śaktau sarvaśaktimatāṃ varaḥ ।।

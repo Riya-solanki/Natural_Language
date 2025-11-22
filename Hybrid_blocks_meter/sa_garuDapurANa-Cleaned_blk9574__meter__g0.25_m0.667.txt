@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9574 | label: meter | g:0.25 m:0.667 ---
+
+eko vai dharmarājāya tena tuṣṭena muktibhāk ।
+citraguptāya caikaṃ tu gatastatra sukhī bhavet ।।
+ṣoḍaśādyāḥ pradātavyā māṣānnajalapūritāḥ ।।
+uktrāntiśrāddhamārabhya śrāddhaṣoḍaṣoḍaśakasya tu ।
+ṣoḍaśabrāhmaṇānāntu ekaikaṃ vinivadayet ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 676 | label: meter | g:0.25 m:0.5 ---
+
+evamuktvā sa nṛpatiṃ rājyena yaśasā punaḥ ।
+utthāpayāmāsa tatastasya rājño hite sthitaḥ ।।

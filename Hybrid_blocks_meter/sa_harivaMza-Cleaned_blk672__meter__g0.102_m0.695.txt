@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 672 | label: meter | g:0.102 m:0.695 ---
+
+jātyantareṣu sarveṣu sahāyāḥ sarva eva te 
+saptajātiṣu saptaiva babhūvur amitaujasaḥ 
+yathovāca mahātejā mārkaṇḍeyo mahātapāḥ ।।

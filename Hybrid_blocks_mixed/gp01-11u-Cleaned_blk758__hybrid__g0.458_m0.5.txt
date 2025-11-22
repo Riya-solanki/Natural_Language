@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 758 | label: hybrid | g:0.458 m:0.5 ---
+
+[] tad evaṃ sarāmasya tasya nirodhe vidhīyamāne bahir vijihīrṣite cātīva tad-upajīvana-pīvatām āsann eva yogamāyā tad-anukulyāya kiñcit prapañcitavatī, yathā-

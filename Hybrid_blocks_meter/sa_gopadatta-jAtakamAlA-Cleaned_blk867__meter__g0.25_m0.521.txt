@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 867 | label: meter | g:0.25 m:0.521 ---
+
+cittaṃ yatra prasādya kṣaṇam api manujo anuttame dakṣiṇīye
+śrīsaubhāgyaprakarṣaṃ bhavagatiṣu paraṃ prāpya nirdvandvaramyam ।
+paścād ālokya lokaṃ vitathavilapitaṃ pratyayagrāhamātraṃ
+jñātvā prāpnoti śāntaṃ katham iva na mahān puṇyarāśir bhavet saḥ ।।

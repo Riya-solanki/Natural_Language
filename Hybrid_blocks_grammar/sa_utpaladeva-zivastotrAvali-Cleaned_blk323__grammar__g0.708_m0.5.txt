@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 323 | label: grammar | g:0.708 m:0.5 ---
+
+kim iyaṃ na siddhir atulā kiṃ vā mukhyaṃ na saukhyam āsravati bhaktir upacīyamānā yeyaṃ śambhoḥ sadātanī bhavati ।।

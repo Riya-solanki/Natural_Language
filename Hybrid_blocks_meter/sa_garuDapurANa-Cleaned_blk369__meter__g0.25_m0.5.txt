@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 369 | label: meter | g:0.25 m:0.5 ---
+
+uttarasyāṃ jagannātha ! bhavantaṃ śaraṇaṃ gataḥ ।
+khaḍgamādāya carṃmātha astraśāstrādikaṃ hare ! ।।

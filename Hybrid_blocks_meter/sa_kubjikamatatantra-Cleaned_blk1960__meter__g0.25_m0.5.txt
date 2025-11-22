@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1960 | label: meter | g:0.25 m:0.5 ---
+
+ekaikaṃ rakṣitaṃ ratnaṃ yoginībhir yathā yathā 
+tat tathā śṛṇu kalyāṇi vyāptibhedo yathā sthitaḥ ।।

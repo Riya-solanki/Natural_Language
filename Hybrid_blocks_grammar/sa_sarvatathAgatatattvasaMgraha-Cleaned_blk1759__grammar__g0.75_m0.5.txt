@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1759 | label: grammar | g:0.75 m:0.5 ---
+
+atha [vajrāmṛtakrodhā imāṃ svakarmasamayāmabhāṣat oṃ vajrāmṛte sarvaduṣṭān gṛhṇa bandha hana paca vidhvaṃsaya vināśaya bhinda cchinda bhasmīkuru mūrdhantānuya [vajreṇa ye ketumamamukasya] vidhnavināyakāstān dāmaya dīptakrodhavajriṇi hūṃ phaṭ ।।

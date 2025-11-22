@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 80 | label: meter | g:0.217 m:0.845 ---
+
+prayoktṛdehasāpekṣaṃ tadardhamakhile adhvani 
+kṛtvādhikāraṃ sthityante śivaṃ viśati seśvaram ।।

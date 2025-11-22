@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 755 | label: meter | g:0.25 m:0.508 ---
+
+nityaṃ kauṭilye gatau ।।
+gatyarthātkauṭilya eva yaṅ syānna tu kriyāsamabhihāre ।।

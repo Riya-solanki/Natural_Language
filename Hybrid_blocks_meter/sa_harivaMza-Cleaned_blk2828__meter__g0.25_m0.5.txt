@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2828 | label: meter | g:0.25 m:0.5 ---
+
+tasya te yudhyataḥ kṛṣṇa svasthāne atha gṛhe api vā 
+voḍhavyā puṃgaveneva dhūḥ sarvā raṇavāhinī ।।

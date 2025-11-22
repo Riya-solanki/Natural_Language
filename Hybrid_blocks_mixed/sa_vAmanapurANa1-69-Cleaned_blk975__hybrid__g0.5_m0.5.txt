@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 975 | label: hybrid | g:0.5 m:0.5 ---
+
+āropito bhṛmitalād bhavena bhūyo api bhānuḥ pratibhāsanāya ।
+svayaṃbhuvā cāpi niśācarendras tvāropitaḥ khe sapuraḥ sabandhuḥ ।।

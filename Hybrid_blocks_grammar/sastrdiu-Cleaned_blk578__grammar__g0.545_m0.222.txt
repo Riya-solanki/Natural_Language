@@ -1,0 +1,11 @@
+--- source: sastrdiu-Cleaned.txt | block: 578 | label: grammar | g:0.545 m:0.222 ---
+
+etaduktaṃ bhavati- vijñānaghanaśabdena jñānaśaktisvabhāvasyātmano abhidhānam, sa hyetebhyo bhūtebhyaḥ samutthāya mukto bhūtvā tānyevānuvinaśyati bhūtavināśātso api vinaṣṭa iva bhavatīti, bhūtastho hyasau svayaṃ pratyakṣeṇa vinaśyatītyucyate, tadanena prakāreṇa mātrāṇāmeva vināśa ityucyate nātmana ityavirodhaḥṣa ।
+taduktam- avināśī svarūpeṇa puruṣo yā tu nāśitā ।।
+mātrāṇāṃ sādhikārāṇāṃ bhūtādīnāmasaṃjñitā iti ।
+kimidaṃ bhūtādīnāmasaṃjñiteti ।
+yadi tāvat na pretya saṃjñāstītyasya vyākhyānaṃ, tadayuktam ।
+na hi na pretya saṃjñāstītyanena bhūtādīnāmasaṃjñitvamucyate ।
+kintarhyātmana eva muktasya saṃjñābhāvo anenocyate, tasyaivopāyābhāvena tatkena kaṃ paśyedityādinā vijñānāramare kena vijānīyādityantena vijñānābhāvopapādanāt ।
+satyam ।
+nedamasya vyākhyānaṃ, prakaraṇārthopasaṃhārastvayaṃ - yata evaṃ pūrvoktena nyāyena bhūtacaitanyaṃ na saṃbhavati brāhmaṇenāpi tathaivoktam, tasmādbhūtendriyāṇāmasaṃjñitvamacaitanyam, anyastu nityaścetanaḥ tasya svargagamanasaṃbhavavānna svargaṃ lokaṃ yātītyasya pratyakṣavirodhaḥ ।।

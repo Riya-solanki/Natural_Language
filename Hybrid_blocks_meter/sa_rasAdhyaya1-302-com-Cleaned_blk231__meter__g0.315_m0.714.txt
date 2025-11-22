@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 231 | label: meter | g:0.315 m:0.714 ---
+
+vyoṣārdraśigrukandaśca mayūramūlakāsurī 
+kāñjikena ca saṃsvedyaṃ sūtaṃ buddhimatā dinam ।।

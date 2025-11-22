@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 132 | label: grammar | g:0.583 m:0.5 ---
+
+śaśīty utprekṣya tanvaṅgi tvanmukhaṃ tvanmukhāśayā indum apy anudhāvāmīty eṣā mohopamā smṛtā ।।

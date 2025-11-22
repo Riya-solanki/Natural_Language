@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 20 | label: grammar | g:0.646 m:0.5 ---
+
+na yogo na tapo nārcākramaḥ ko api pranīyate amāye śivamārge asmin bhaktir ekā praśasyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1906 | label: meter | g:0.25 m:0.5 ---
+
+etāni tu syurdviradapradhāna saptāvaśeṣāṇi nṛṇāṃ śatāni ।
+nimajjatāṃ mṛtyumukhe tu yeṣāṃ mūrtastvamāśvāsa ivābhyupetaḥ ।।

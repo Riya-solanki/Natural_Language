@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1548 | label: grammar | g:0.594 m:0.5 ---
+
+khalollāpāḥ soḍhāḥ katham api parārādhanaparair nigṛhyāntar duḥkhaṃ hasitam api śūnyena manasā ।
+kṛto vittastambhapratihatadhiyām añjalir api tvam āśe moghāśe kim aparam ato nartayasi mām ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 870 | label: meter | g:0.25 m:0.75 ---
+
+bhṛtyādi-kopa-tritaye tat-tat-krodhāditāḥ kriyāḥ ।।

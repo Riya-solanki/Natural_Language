@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 190 | label: grammar | g:0.75 m:0.5 ---
+
+bhedaḥ asya pañca bhedā bhavanti, tadyathā - rūpādisarvadharmāviparītadarśanaṃ svabhāvaḥ, nānyathā buddhatvasamprāptiriti bhāvanāmārgasya śreṣṭhatā, sarvadharmaviśeṣānutpādanena adhigamaprayogo anabhisaṃskāraḥ, sarvadharmāṇāṃ paramārthato anupalambhatayā arpaṇā, buddhatvamahārthasādhanānmahārthateti ।

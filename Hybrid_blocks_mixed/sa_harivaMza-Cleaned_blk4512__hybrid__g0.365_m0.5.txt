@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4512 | label: hybrid | g:0.365 m:0.5 ---
+
+rakṣiṣyāmīti coktaṃ te na ca śaknoṣi rakṣitum 
+moghaṃ gāṇḍīvam etat te moghaṃ vīryaṃ yaśaś ca te ।। 
+arjuno asmīti yā buddhiḥ sā vṛthā satyam ity uta । 
+akiṃcid uktvā taṃ vipraṃ tato ahaṃ prasthitas tadā 
+saha vṛṣṇyandhakasutair yatra kṛṣṇo mahādyutiḥ ।।

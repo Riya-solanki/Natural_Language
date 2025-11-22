@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 283 | label: meter | g:0.25 m:0.625 ---
+
+tato dvāreṣu sarveṣu karma kṛtvāṅku śādibhiḥ ।
+mahākarmāgr yamudrābhiḥ samayāṃstu niveśayet ।।

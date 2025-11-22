@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 256 | label: grammar | g:0.75 m:0.5 ---
+
+na sā matir udeti yā na bhavati tvadicchāmayī sadā śubham athetarad bhagavataivam ācaryate ato asmi bhavadātmako bhuvi yathā tathā sañcaran sthi to aniśam abādhitatvadamalaṅghripūjotsavaḥ ।।

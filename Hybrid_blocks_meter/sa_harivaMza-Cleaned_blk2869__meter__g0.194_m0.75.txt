@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2869 | label: meter | g:0.194 m:0.75 ---
+
+mukham asyāparā vīkṣya tṛṣitā gopakanyakāḥ 
+ratyantaragatā rātrau pibanti ratilālasāḥ ।।

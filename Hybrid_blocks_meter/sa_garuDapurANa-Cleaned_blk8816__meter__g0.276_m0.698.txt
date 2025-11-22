@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8816 | label: meter | g:0.276 m:0.698 ---
+
+taporato yogaśīlo mahājñānī ca yo naraḥ ।
+mahādānarataḥ śrīmāndharmātmātulavikramaḥ ।
+vinā mānupadehaṃ tu sukhaṃ duḥ khaṃ na vindati ।।

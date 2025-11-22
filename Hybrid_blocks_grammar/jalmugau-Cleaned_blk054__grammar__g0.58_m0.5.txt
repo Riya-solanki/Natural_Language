@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 54 | label: grammar | g:0.58 m:0.5 ---
+
+strīi prīti-karaṃ puraḥ pariṇatau hālāhalaṃ kevalaṃ sarvasya vyasanaṃ kilaiad adhikaṃ tatrāi veśyei ca
+prādhānyena tatas tad eva kathitaṃ yat tat-prasaṅgena ca vyākhyātaṃ guṇa-doṣa-jātam ucitaṃ cintyaṃ tad apy ādarāt ।।

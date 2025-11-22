@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 644 | label: meter | g:0.056 m:0.521 ---
+
+āścaryaṃ sakhi kṛṣṇasāra-dayitā-vṛndaṃ milad-bhartṛkaṃ
+jātyā mūḍham api vyatītya bhavatīr apy evam īhāṃ dadhe ।
+śrutvā veṇu-kalaṃ hariṃ prati gatis tad-rūpataś citratā
+tasyāpy arcanam ullasat-praṇayatas tatrāpi netrāñcalaiḥ ।। [śārdūla]

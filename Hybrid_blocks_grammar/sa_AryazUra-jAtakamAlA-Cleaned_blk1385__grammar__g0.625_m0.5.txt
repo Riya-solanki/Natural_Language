@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1385 | label: grammar | g:0.625 m:0.5 ---
+
+nākasmiko ayaṃ gamanodyamo me nāsatkriyāmātrakarūkṣikatvāt । abhajanatvaṃ tu gato asi śāṭhyāddharmasya tenāhamito vrajāmi ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4975 | label: meter | g:0.194 m:0.625 ---
+
+idam astraṃ mahāghoraṃ vaiṣṇavaṃ śatrumardanam 
+mayodyataṃ vadhārthaṃ te tiṣṭhedānīṃ sthiro bhava ।।

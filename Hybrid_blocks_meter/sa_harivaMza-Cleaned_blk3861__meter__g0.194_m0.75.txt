@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3861 | label: meter | g:0.194 m:0.75 ---
+
+damaghoṣasya putrās tu pañca bhīmaparākramāḥ 
+bhaginyāṃ vasudevasya śrutaśravasi jajñire ।।

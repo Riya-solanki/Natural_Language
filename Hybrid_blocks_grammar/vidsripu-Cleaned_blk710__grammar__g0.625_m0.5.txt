@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 710 | label: grammar | g:0.625 m:0.5 ---
+
+jāte kelikalau kṛte kamitari vyarthānunītau cirān māne mlāyati manmathe vikasati kṣīṇe kṣapānehasi ।
+māyāsvāpam upetya tannipuṇayā nidrāndhyam āceṣṭitaṃ mānamlānir abhūn na yena ca na cāpy āsīd rahaḥkhaṇḍanam ।।

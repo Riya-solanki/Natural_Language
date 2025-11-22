@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 573 | label: meter | g:0.194 m:0.625 ---
+
+sroto brūyādanusroto bhedān saṃkhyānameva ca 
+pravṛttaye guruṃ svaṃ ca steyī syāttadakīrtanāt ।।

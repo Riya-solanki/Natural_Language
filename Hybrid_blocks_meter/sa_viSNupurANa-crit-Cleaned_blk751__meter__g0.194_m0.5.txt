@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 751 | label: meter | g:0.194 m:0.5 ---
+
+kiṃ vā sarvajagatsraṣṭaḥ prasanne tvayi durlabham 
+tvatprasādaphalaṃ bhuṅkte trailokyaṃ maghavān api ।।

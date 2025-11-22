@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3123 | label: meter | g:0.306 m:0.5 ---
+
+yasya bhāryā virūpākṣī kaśmalā kalahapriyā ।
+uttarottaravādā syā sā jarā na jarā jarā ।।

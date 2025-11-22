@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5939 | label: meter | g:0.25 m:0.625 ---
+
+siṃhasthāne sthite siṃhe jayo mitrasamāgamaḥ ।
+kauleyake siṃhagate strīcintā grāmalābhakam ।।

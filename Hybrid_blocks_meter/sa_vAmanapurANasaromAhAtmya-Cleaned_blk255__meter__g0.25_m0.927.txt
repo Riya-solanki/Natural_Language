@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 255 | label: meter | g:0.25 m:0.927 ---
+
+lomaharṣaṇa uvāca ।
+saparvatavanāmurvīṃ dṛṣṭvā saṃkṣubhitāṃ baliḥ ।
+papracchośanasaṃ śukraṃ praṇipatya kṛtāñjaliḥ ।।

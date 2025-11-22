@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2831 | label: meter | g:0.25 m:0.625 ---
+
+samayastvamiti prokte sarvamudrān kuleṣvapi ।
+svayaṃ badhvā dṛḍhaṃ yānti tataḥ paścādasādhitā ।।

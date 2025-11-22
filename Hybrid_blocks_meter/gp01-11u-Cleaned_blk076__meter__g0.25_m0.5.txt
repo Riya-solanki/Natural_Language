@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 76 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ kakudminaṃ hatvā stūyamānaḥ svajātibhiḥ ।
+viveśa goṣṭhaṃ sabalo gopīnāṃ nayanotsavaḥ ।।iti ।

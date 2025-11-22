@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1976 | label: meter | g:0.251 m:0.623 ---
+
+bhagavaṃs tvatprasādena vegāt parvaṇi vardhitaḥ 
+yady ahaṃ calito brahman ko atra doṣo mamātmanaḥ ।।

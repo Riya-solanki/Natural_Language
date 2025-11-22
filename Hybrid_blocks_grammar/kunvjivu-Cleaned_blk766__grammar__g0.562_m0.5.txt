@@ -1,0 +1,3 @@
+--- source: kunvjivu-Cleaned.txt | block: 766 | label: grammar | g:0.562 m:0.5 ---
+
+tadbhūṣyaṃ nayavartmanā tadapi cet śauryakriyālaṅkṛtaṃ bibhrāṇaṃ yadiyattayā tribhuvanaṃ chettuṃ vyavasyedapi ।।

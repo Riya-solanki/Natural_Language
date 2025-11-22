@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2166 | label: meter | g:0.291 m:0.571 ---
+
+jñānaṃ viśuddhaṃ vimalaṃ viśokam aśeṣalobhādinirastasaṅgam 
+ekaṃ sadaikaṃ paramaḥ pareśaḥ sa vāsudevo na yato anyad asti ।।

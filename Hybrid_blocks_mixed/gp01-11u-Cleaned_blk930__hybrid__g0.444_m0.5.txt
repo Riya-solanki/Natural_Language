@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 930 | label: hybrid | g:0.444 m:0.5 ---
+
+yasmin prema-pracuraṃ bhayam api tasmin vibhāvyate pracuram ।
+yadvan netraṃ śaṅkā-viṣayas tadvan na karṇādi ।। [gīti]

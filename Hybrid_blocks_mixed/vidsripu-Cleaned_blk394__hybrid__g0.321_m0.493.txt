@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 394 | label: hybrid | g:0.321 m:0.493 ---
+
+kṛtanibhaśataṃ niṣkrāmantīṃ sakhībhir anūddhṛtāṃ katham api haṭhād ākṛṣyānte paṭasya niveśitām ।
+navanidhuvanakrīḍārambhaprakampavivartinīm anubhavamṛdūbhūtatrāsāṃ manaḥ smarati priyām ।।

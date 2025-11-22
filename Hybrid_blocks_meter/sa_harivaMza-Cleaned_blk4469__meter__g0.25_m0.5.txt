@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4469 | label: meter | g:0.25 m:0.5 ---
+
+tena khalv agnayas tṛptiṃ puṣmābhir yānti tarpitāḥ 
+bhāgaiś ca tridaśāḥ sarve mantraiś caiva maharṣayaḥ ।।

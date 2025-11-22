@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1638 | label: grammar | g:0.583 m:0.5 ---
+
+kṛṣṭā yena śiroruheṣu rudatī pāñcālarājātmajā yenāsyāḥ paridhānam apy apahṛtaṃ rājñāṃ gurūṇāṃ puraḥ ।
+yasyoraḥsthalaśoṇitāsavam ahaṃ pātuṃ pratijñātavān so ayaṃ madbhujapañjare nipatitaḥ saṃrakṣyatāṃ kauravāḥ ।।

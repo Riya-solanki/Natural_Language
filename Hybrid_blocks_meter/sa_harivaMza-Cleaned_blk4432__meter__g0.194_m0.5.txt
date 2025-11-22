@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4432 | label: meter | g:0.194 m:0.5 ---
+
+so ahaṃ kutūhalāviṣṭo nadīṃ gaṅgām upasthitaḥ 
+dhanyāsi tvaṃ nadīśreṣṭhe nityam āścaryadarśane ।।

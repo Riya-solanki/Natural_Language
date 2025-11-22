@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3826 | label: grammar | g:0.75 m:0.5 ---
+
+śiśupālatve api bhagavato bhūbhārāvatāraṇāyāvatīrṇāṃśasya puṇḍarīkanayanākhyasyopari dveṣānubandham atitarāñ cakāra । bhagavatā ca nidhanam upanītas tatraiva paramātmabhūte manasas tadekāgratayā tatraiva sāyujyam avāpa ।।

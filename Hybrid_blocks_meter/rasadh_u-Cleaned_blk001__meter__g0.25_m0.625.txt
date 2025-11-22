@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 1 | label: meter | g:0.25 m:0.625 ---
+
+siddhiḥ śrīnāmato yeṣāṃ bhavetsarvepsitaṃ śriyām ।
+natvā tānarhataḥ kurve kaṅkālādhyāyavārttikam ।।
+gurubhyaḥ kiṃcidākarṇya tajjñaiḥ saṃsṛjya kiṃcana ।
+kiṃcidapyanubhūyāsau grantho vivrīyate mayā ।।

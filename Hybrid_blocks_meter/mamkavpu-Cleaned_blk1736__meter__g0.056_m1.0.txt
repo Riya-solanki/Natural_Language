@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1736 | label: meter | g:0.056 m:1.0 ---
+
+{nipeturāsyādiva tasya dīptāḥ
+śarā dhanurmaṇḍalamadhyabhājaḥ ।
+jājvalyamānā iva vāridhārā
+dinārdhabhājaḥ pariveṣiṇorkāt ।।}

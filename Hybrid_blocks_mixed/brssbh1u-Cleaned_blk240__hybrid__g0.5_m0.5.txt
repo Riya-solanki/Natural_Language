@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 240 | label: hybrid | g:0.5 m:0.5 ---
+
+nanu vākyopakrame śamavidhivivakṣayā brahma nirdiṣṭaṃ na svavivakṣayetyuktam ।

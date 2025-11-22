@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 879 | label: grammar | g:0.604 m:0.5 ---
+
+[] vācaspatir uvāca-śatamanyo, tādṛśa-visadṛśatāyāṃ śatadhṛtir eva dhṛtim āsādayitā, tasmāt tad-anusaraṇam eva śaraṇam ।

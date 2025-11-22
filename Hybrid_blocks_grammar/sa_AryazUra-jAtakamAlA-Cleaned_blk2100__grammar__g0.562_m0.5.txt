@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2100 | label: grammar | g:0.562 m:0.5 ---
+
+tūryasvanāna sajalatoyadanādadhīrān gītasvanaṃ ca niśi rājyasukhaṃ ca tattat ।
+bandhūn sutān parijanaṃ ca manonukūlaṃ hitvā kathaṃ nu ramase atra vane vivikte ।।

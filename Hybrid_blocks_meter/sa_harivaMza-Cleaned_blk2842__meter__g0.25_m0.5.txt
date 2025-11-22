@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2842 | label: meter | g:0.25 m:0.5 ---
+
+taṃ sma vṛddhābhinandanti jñātayaś ca sahoṣitāḥ 
+dhanyāḥ smo anugṛhītāḥ smas tvaddhṛtena nagena ha ।।

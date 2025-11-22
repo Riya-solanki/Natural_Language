@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 843 | label: meter | g:0.056 m:0.625 ---
+
+{prāptāḥ śriyaḥ sakalakāmadughāstataḥ kim
+dattaṃ padaṃ śirasi vidviṣatāṃ tataḥ kim ।
+saṃtarpitāḥ praṇayino vibhavaistataḥ kim
+kalpaṃ sthitaṃ tanubhṛtāṃ tanubhistataḥ kim ।।}

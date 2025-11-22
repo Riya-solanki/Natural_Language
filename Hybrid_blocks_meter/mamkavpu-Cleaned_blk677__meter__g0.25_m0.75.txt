@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 677 | label: meter | g:0.25 m:0.75 ---
+
+pratikūlavarṇamupahataluptavisargaṃ visandhi hatavṛttam ।
+nyūnādhikakathitapadaṃ patatprakarṣaṃ samāptapunarāttam ।।

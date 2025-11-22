@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10848 | label: hybrid | g:0.361 m:0.5 ---
+
+tāmbūlasāraṃ khadirasya sāraṃ puṣpasya sāraṃ candanasyāpi sāram ।
+godhūmasāraṃ yavānāṃ ca sāraṃ māṣasya sāraṃ hareṇośca sāram ।।
+śuddhaṃ tathā vrīhinīvārasāraṃ śyāmākasāraṃ śuddhadhānyasya sāram ।।
+niṣiddhānsarvaśākasya sārāṃstathā nipiddhāllāṃvaṇasvāpi sārān ।
+gṛhṇāti viṣṇuḥ paramādareṇa annasya sāraṃ bhakṣyabhojyasya sāram ।।

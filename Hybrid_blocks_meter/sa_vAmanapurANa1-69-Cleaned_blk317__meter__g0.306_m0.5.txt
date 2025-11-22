@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 317 | label: meter | g:0.306 m:0.5 ---
+
+te cāpi ṛṣayaḥ sarve dṛṣṭvā mūrdhnā natābhavan ।
+tatastān prāha bhagavān bhikṣā me pratidīyatām ।।

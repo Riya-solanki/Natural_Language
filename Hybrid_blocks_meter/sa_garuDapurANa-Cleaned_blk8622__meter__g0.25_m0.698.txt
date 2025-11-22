@@ -1,0 +1,8 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8622 | label: meter | g:0.25 m:0.698 ---
+
+ātmajānāṃ chalāllokā bhūtasaṅghaiśca rakṣitāḥ ।
+pibanti te ca pānīyaṃ bhojanocchiṣṭayojitam ।।
+evaṃ pretāḥ pravartante nānādoṣairvikarmiṇaḥ ।।
+garuḍa uvāca ।
+kathaṃ kurvanti te pretāḥ kena rūpeṇa kasya kim ।
+jñāyate kena vidhinā jalpanti na vadanti vā ।।

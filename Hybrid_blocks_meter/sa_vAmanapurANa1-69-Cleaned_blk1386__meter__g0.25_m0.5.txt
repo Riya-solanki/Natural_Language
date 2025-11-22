@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1386 | label: meter | g:0.25 m:0.5 ---
+
+tāmapyathāśapad brahma sandhyā pāpe bhaviṣyasi ।
+yā madvākyamalaṅghyaṃ vai surairlaṅghayase balāt ।।

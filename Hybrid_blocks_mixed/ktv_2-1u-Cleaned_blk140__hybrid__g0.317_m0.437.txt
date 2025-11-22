@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 140 | label: hybrid | g:0.317 m:0.437 ---
+
+āsanaśayanādīnāṃ hi na niyamenānantaryeṇa vā idam tat iti vā karma nirūpyate, tenākarmakā abhidhīyante ।
+pacigamyādīnāṃ tu viklidyattatsaṃyujyamānasākṣātsaṃbandhikarmāvyabhicārāt sakarmakatvam ।
+na tu bhāvanāviśeṣaṇatve kaścid viśeṣaḥ ।

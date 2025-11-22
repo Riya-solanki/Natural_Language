@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2762 | label: meter | g:0.328 m:0.595 ---
+
+mahāmudrāṃ samādhāya candramaṇḍalasaprabhāṃ ।
+svayaṃ kāyaṃ yathā vetti tathā vedyaṃ jaganmanaḥ ।।

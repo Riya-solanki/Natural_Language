@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1350 | label: meter | g:0.25 m:0.5 ---
+
+ṣaṭkauṣikena yukto ahaṃ piṇḍo ahaṃ anaṅgavarcasaḥ 
+tataḥ pravartitā sṛṣṭir mamecchā tu punaḥ priye ।।

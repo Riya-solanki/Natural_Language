@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6709 | label: meter | g:0.378 m:0.684 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca vakṣye sāṅgaṃ mahāyogaṃ bhuktimuktikaraṃ param ।
+sarvapāpapraśamanaṃ bhaktyānupaṭhitaṃ śṛṇu ।।

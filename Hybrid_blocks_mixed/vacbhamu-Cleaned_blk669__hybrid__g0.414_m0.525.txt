@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 669 | label: hybrid | g:0.414 m:0.525 ---
+
+parameśvarāveśavaśāditi ।
+parameśvara evāntaryamibhāvenāviṣṭa īkṣitā, tasmātsarvasya kāryajātasya sākṣātparameśvara evādhiṣṭhātā nimittakāraṇaṃ na tvākāśādibhāvamāpannaḥ ।
+ākāśādibhāvamāpannastūpādānamiti siddham ।।

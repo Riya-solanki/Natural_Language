@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1743 | label: meter | g:0.25 m:0.5 ---
+
+prahāro nigrahāgrayo hi sparśānāṃ tu samīraṇaḥ ।
+tejasāṃ hutabhug jyeṣṭhaḥ bhojanānāṃ tu lohitam ।।

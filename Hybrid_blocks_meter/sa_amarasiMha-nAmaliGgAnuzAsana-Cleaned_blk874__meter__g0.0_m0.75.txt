@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 874 | label: meter | g:0.0 m:0.75 ---
+
+svasrīyo bhāgineyaḥ syājjamātā duhituḥ patiḥ

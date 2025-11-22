@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 946 | label: grammar | g:0.719 m:0.125 ---
+
+saṃśodhanasyākaraṇe doṣamāha akṛtetyādi ।।
+yo naraḥ pumān akṛtakṣetrīkaraṇe dehe iti śeṣaḥ na kṛtaṃ akṛtaṃ kṣetrīkaraṇaṃ yasmin tasminsati rasāyanaṃ jarāvyādhivināśanauṣadhaṃ prayuñjīta tasya puṃso raso na krāmati svaguṇānna prakāśayati tarhi kiṃ sarvāṅgadoṣakṛdbhavati bāhucaraṇādiṣu ṣaṭsvaṅgeṣu vikārakṛt syāt ।।

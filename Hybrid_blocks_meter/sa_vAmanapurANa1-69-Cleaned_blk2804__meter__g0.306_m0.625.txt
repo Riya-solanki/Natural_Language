@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2804 | label: meter | g:0.306 m:0.625 ---
+
+tasmin hate samāvidhya turaṅgakandharaḥ ।
+babandha vīraḥ saha paṭṭiśena gaṇeśvaraṃ cāpyatha nandiṣeṇam ।।

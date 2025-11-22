@@ -1,0 +1,12 @@
+--- source: simhrs_u-Cleaned.txt | block: 910 | label: meter | g:0.25 m:0.573 ---
+
+hetujād itare prokte bhaye soḍhala-sūnunā ।
+kṛtrimaṃ tūttama-gataṃ gurv-ādīn pratyavāstavam ।। 
+vibhīṣikotthaṃ bālāder vitrāsitakam ity ubhe ।
+tatrāntyam antarbhūtaṃ syād ghora-śravaṇaje bhaye ।। 
+bhikṣu-bhallūka-corādi-sūcanā-kalpitatvataḥ ।
+ādyaṃ tu yukti-kākṣyāyāṃ bhaya-kakṣyāṃ na gāhate ।। 
+gurv-ādi-saṃnidhau yasmān nīcaiḥ sthity-ādi-sūcitam ।
+bhāvo vinaya eva syād atha syān nāṭake yadi ।। 
+avahitthatayā tasya bhayatvaṃ dūrato gatam ।
+ato hetujam evaikaṃ bhayaṃ syād iti niścayaḥ ।।

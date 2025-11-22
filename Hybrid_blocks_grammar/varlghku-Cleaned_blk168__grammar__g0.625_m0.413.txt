@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 168 | label: grammar | g:0.625 m:0.413 ---
+
+antaraṃ bahiryogopasaṃvyānayoḥ ।।
+bāhye paridhānīye cārthe antaraśabdasya prāptā saṃjñā jasi vā । antare, antarā vā gṛhāḥ; bāhyā ityarthaḥ । antare, antarā vā śāṭakāḥ; paridhānīyā ityarthaḥ ।।

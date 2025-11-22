@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 264 | label: meter | g:0.25 m:0.555 ---
+
+sasyajātāni sarvāṇi pṛthur vainyaḥ pratāpavān 
+sasyāni tena vai dugdhā vainyeneyaṃ vasuṃdharā । 
+tenānnena prajās tāta vartante adyāpi nityaśaḥ ।।

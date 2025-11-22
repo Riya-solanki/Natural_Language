@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2466 | label: meter | g:0.25 m:0.625 ---
+
+vajravegena niṣkramya sarvasiddhestu maṇḍale ।
+vajraratnasya madhye tu mahāratnamaṇiṃ likhet ।।

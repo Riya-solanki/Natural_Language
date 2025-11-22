@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5748 | label: meter | g:0.194 m:0.5 ---
+
+bhuṅkte apradāya viprebhyo eko miṣṭam atho bhavān 
+kiṃ vā kṛpaṇavittāni hṛtāni bhavatārjuna ।।

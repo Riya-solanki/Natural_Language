@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 439 | label: hybrid | g:0.324 m:0.465 ---
+
+vīrāḥ puruṣā yasya sa vīrapuruṣaḥ । kalo ravo yasya sa kalaravaḥ । iti ।।
+saṃbhāvyaniṣedhanivartane dvau pratiṣedhau ।।
+sambhāvyasya niṣedhasya nivartane svau pratiṣedhau prayoktavyau yathā

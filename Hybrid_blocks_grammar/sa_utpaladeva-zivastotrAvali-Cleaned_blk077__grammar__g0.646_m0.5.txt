@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 77 | label: grammar | g:0.646 m:0.5 ---
+
+sato avaśyaṃ paramasat sac ca tasmāt paraṃ prabho tvaṃ cāsataḥ sataś cānyas tenāsi sadasanmayaḥ ।।

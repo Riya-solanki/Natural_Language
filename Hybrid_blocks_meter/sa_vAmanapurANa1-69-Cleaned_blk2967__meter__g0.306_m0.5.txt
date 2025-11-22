@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2967 | label: meter | g:0.306 m:0.5 ---
+
+gajo viddho hayo bhinnaḥ pṛthivyāṃ patito rathaḥ ।
+mahāmātro dharāṃ prāptaḥ sadyaḥ sīdañcharāturaḥ ।।

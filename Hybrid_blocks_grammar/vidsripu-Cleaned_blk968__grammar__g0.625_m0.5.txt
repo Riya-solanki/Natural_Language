@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 968 | label: grammar | g:0.625 m:0.5 ---
+
+yaṃ prāk pratyag avāg udañci kakubhāṃ nāmāni sambibhrataṃ jyotsnājālajhalajjhalābhir abhito lumpantam andhaṃ tamaḥ ।
+prācīnād acalād itas trijagatām ālokabījād bahir niryāntaṃ hariṇāṅkam aṅkuram iva draṣṭuṃ jano jīvati ।।

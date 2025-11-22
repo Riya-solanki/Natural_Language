@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1267 | label: hybrid | g:0.101 m:0.488 ---
+
+kiṃ tu niścayagarbha iva nātra niścayaḥ pratīyamāna iti upekṣito
+bhaṭṭodbhaṭena । tadanuktau yathā

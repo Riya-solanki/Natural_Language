@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 568 | label: meter | g:0.188 m:0.765 ---
+
+yoyaṃ prakṛteraniyama uktaḥ sa niyataḥ ।
+yathāviṣayaṃ vyavasthitaḥ niyatatvānniyama
+iti bhavati, evaṃ satyaniyamo nāsti tatra
+yaduktam
+"prakṛtyaniyamāt"
+iti etadayuktamiti ।।

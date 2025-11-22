@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 157 | label: hybrid | g:0.5 m:0.5 ---
+
+krūraiḥ parasparavirodhibhir apraśāntair dhātūragaiḥ prakupitair iva kṛṣṇasarpaiḥ ।
+ātudyamānavapuṣām aparāyaṇānāṃ kalpāyutāny abhigatāni ca no mahātman ।।

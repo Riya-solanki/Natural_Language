@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 35 | label: meter | g:0.25 m:0.947 ---
+
+-upaplavo viparyāsaḥ ।
+ahamanubhavastadrahitaḥ kathamityarthaḥ ।
+na ca jyeṣṭhapramāṇapratyakṣavirodhādāmnāyasyaiva tadapekṣasyā

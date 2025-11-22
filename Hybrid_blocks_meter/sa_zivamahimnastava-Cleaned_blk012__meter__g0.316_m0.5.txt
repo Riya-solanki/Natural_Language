@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 12 | label: meter | g:0.316 m:0.5 ---
+
+ayatnād āpādya tribhuvanam avairavyatikaraṃ daśāsyo yad bāhūn abhṛta raṇakaṇḍūparavaśān ।
+śiraḥpadmaśreṇīracitacaraṇāmbhoruhabaleḥ sthirāyās tvadbhaktes tripurahara visphūrjitam idam ।।

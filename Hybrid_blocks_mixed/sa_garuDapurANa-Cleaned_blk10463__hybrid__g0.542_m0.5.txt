@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10463 | label: hybrid | g:0.542 m:0.5 ---
+
+pārvatyuvāca govinda nārāyaṇa vāsudeva tvayā hi me kiñcidapi prayojanam ।
+nāstyeva svāminna ca nāma vācā saubhāgyarūpaḥ sarvadā eka eva ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11357 | label: meter | g:0.306 m:0.5 ---
+
+tribhiḥ keccittato hīnā na saṃti khagasattama ।
+yasminnare kṣitipe vā khagendra ādhikyaṃ yaddṛśyate lakṣaṇasya ।।

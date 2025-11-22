@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 5 | label: meter | g:0.25 m:0.768 ---
+
+kiṃ punastatvam ? sataśca sadbhāvo asataścāsadbhāva iti।
+satsaditi gṛhyamāṇaṃ yathābhūtamaviparītaṃ tatvaṃ bhavati।
+asaccāsaditi gṛhyamāṇaṃ yathābhūtamaviparītaṃ tacvaṃ bhavati।
+kathaṃ punaruttarasya pramāṇenopalabdhiriti ?
+satyupalabhyamāne tadvadanupalabdheḥ pradīpavat।
+yathā darśakena pradīpena dṛśye guhyamāṇe tadiva yanna gṛhyate tatrāsti।

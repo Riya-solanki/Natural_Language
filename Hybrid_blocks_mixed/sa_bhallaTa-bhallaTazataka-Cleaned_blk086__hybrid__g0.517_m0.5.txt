@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 86 | label: hybrid | g:0.517 m:0.5 ---
+
+vātāhāratayā jagadviṣadharair āśvāsya niḥśeṣitaṃ te grastāḥ punar abhratoyakaṇikātīvravratair barhibhiḥ 
+te api krūracamūrucarmavasanair nītāḥ kṣayaṃ lubdhakair dambhasya sphuritaṃ vidann api jano jālmo guṇanīhate ।।

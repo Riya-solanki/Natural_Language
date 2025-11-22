@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 278 | label: grammar | g:0.685 m:0.397 ---
+
+naitadasti ।
+agāyatrī vā idaṃ sarvam' iti gāyatrīmupakramya tāmeva bhūtapṛthivīśarīrahṛdayavākyapramāṇabhedairvyakhyāya asaiṣā catuṣpādā ṣaḍvidhā gāyatrī tadetadṛcābhyanuktaṃ tāvānasya mahimā' iti tasyāmeva vyākhyātarūpāyāṃ gāyatryāmudāhṛto mantraḥ kathamakasmādbrahma catuṣpādabhidadhyāt ।
+yo api tatra ayadvai tadbrahma' iti brahmaśabdaḥ so api chandasaḥ prakṛtatvācchandoviṣaya eva aya etāmevaṃ brahmopaniṣadaṃ veda' ityatra hi vedopaniṣadamiti vyācakṣate, tasmācchandobhidhānānna brahmaṇaḥ prakṛtatvamiticet ।

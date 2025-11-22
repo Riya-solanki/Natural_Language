@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 164 | label: meter | g:0.25 m:1.0 ---
+
+locanāpadasaṃbhogairvajracinhaistu bhāvayet ।
+mudrāmantravidhānajñāṃ mantratantrasuśikṣitām ।।

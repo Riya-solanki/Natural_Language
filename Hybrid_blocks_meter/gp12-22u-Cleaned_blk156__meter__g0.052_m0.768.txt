@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 156 | label: meter | g:0.052 m:0.768 ---
+
+tataś ca-
+stambhaḥ sandhiṣu bandhanaṃ pulakitāsāndra-vraṇābha-sthitir
+bāṣpaḥ srasta-vilokanaḥ svara-bhidā kaṇṭhāntara-stambhinī ।
+kampaḥ pātavad-anta-danta-valayaḥ svedas tanu-drāvaṇaḥ
+syād evaṃ kṛta-vīkṣaṇaṃ sva-suhṛdāṃ vyagrī-babhūva prabhuḥ ।। [śārdūla]

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4176 | label: meter | g:0.306 m:0.625 ---
+
+sasvanau sarujau karṇau mahāśītau hi naiva vā ।
+paridagdhā kharā jihvā gurustrastāṅgasandhitā ।।

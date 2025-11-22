@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 549 | label: hybrid | g:0.25 m:0.455 ---
+
+apare tvāhuḥ- abhāvātmakatvavacanameva svamatamupapattyabhidhānāt ānandavacanaṃ tūpanyāsamātratvā paramatam ।
+na hi muktasyānandānubhavaḥ saṃbhavati karaṇābhāvāc ।
+manaḥ syāditicet, na, amanaskatvaśruteḥ amanoṣaḍavāgiti ।।

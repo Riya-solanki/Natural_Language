@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 209 | label: hybrid | g:0.517 m:0.5 ---
+
+yatha nirmito puruṣa no va adṛśyakāyo nāmena vā puna sa prajñapanāya śakyaḥ 
+tatha bodhisattva caramāṇu vimokṣadvāraṃ nāmena vā puna sa prajñapanāya śakyaḥ ।।

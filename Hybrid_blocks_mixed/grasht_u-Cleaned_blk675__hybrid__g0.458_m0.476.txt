@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 675 | label: hybrid | g:0.458 m:0.476 ---
+
+mahābījānāṃ bījānāṃ ca viśeṣavidhānamāha evamityādi ।।
+evam uktavidhānena bījaṃ vidhāya rañjanavidhinā rañjanavidhānena surañjanaṃ kāryam ।।
+tatkārye rasasya sūtasya triguṇaṃ hema saṃyojyaṃ punas tasya hemnaḥ triguṇaṃ varabījaṃ yojyaṃ iti viśeṣavidhiḥ ।।

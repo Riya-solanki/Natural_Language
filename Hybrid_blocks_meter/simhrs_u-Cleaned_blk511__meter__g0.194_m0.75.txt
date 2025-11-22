@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 511 | label: meter | g:0.194 m:0.75 ---
+
+rakṣāyāṃ rākṣasāriṃ prabala-vimata-vidrāvaṇe vīrabhadraṃ
+kāruṇye rāmabhadraṃ bhuja-bala-vibhavārohaṇe rauhiṇeyam ।
+pāñcālaṃ cañcalākṣī-paricaraṇa-vidhau pūrṇa-candraṃ prasāde
+kandarpa-rūpa-darpe tulayati nitarāṃ siṃha-bhūpāla-candraḥ ।।

@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 441 | label: meter | g:0.102 m:0.5 ---
+
+{rājā} - aye asau yaugandharāyaṇaḥ iyaṃ mahāsenaputrī 
+kin nu satyam idaṃ svapnaḥ sā bhūyo dṛśyate mayā
+anayāpy evam evāhaṃ dṛṣṭayā vañcitas tadā ।।

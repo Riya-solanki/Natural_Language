@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 65 | label: meter | g:0.194 m:0.5 ---
+
+ābaddhakṛtrimasaṭājaṭilāṃsabhittir āropito mṛgapateḥ padavīṃ yadi śvā 
+mattebhakumbhataṭapāṭanalampaṭasya nādaṃ kariṣyati kathaṃ hariṇādhipasya ।।

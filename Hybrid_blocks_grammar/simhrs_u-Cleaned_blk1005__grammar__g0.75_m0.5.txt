@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1005 | label: grammar | g:0.75 m:0.5 ---
+
+nanu nirhetukasya mānasya bhāva-kauṭilya-rūpa-mānasya ca ko bheda iti ced ucyate । nirhetuka-māne tu kopa-vyājena cumbanādi-vilambanāt prema-parīkṣaṇaṃ phalam । bhāva-kauṭilya-māne tu cumbanādy-avilambaḥ phalam iti spaṣṭa eva tayor bhedaḥ ।

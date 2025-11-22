@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1270 | label: grammar | g:0.552 m:0.5 ---
+
+tat tāvad eva śaśinaḥ sphuritaṃ mahīyo yāvan na tigmarucimaṇḍalam abhyudaiti ।
+abhyudgate sakaladhāmanidhau ca tasminn indoḥ sitāmrapaṭalasya ca ko viśeṣaḥ ।।

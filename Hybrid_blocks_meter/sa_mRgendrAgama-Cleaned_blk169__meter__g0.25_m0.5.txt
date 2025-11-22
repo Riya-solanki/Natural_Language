@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 169 | label: meter | g:0.25 m:0.5 ---
+
+kala ityeṣa yo dhātuḥ saṃkhyāne preraṇe ca saḥ 
+protsāraṇaṃ preraṇaṃ sā kurvatī tamasaḥ kalā ।।

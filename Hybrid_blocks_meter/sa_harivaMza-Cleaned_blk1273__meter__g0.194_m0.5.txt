@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1273 | label: meter | g:0.194 m:0.5 ---
+
+vedyo yo vedaviduṣāṃ prabhur yaḥ prabhavātmanām 
+somabhūtaś ca bhūtānām agnibhūto agnivarcasām ।।

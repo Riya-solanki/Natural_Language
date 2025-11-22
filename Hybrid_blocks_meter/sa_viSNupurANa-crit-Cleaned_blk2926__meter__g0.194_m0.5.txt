@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2926 | label: meter | g:0.194 m:0.5 ---
+
+snātaḥ sraggandhadhṛk prītaḥ nādhmātaḥ kṣudhito api vā 
+sakāmaḥ sānurāgaś ca vyavāyaṃ puruṣo vrajet ।।

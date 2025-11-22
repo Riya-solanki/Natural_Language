@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9599 | label: meter | g:0.25 m:0.695 ---
+
+gograhe deśavidhvaṃse maraṇaṃ raṇatīrthayoḥ ।
+uttamādhamamadhyasya bādhyamānasya dehinaḥ ।
+ātmānaṃ tatra santyajya svargavāsaṃ labhecciram ।।

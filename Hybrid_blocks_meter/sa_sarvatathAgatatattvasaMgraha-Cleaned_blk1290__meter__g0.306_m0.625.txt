@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1290 | label: meter | g:0.306 m:0.625 ---
+
+vajrakrodhamahādṛṣṭyā cakṣuṣī tu nimīlayet ।
+nirīkṣat yasya nāmnā tu sphuṭet etasya cākṣiṇī ।।

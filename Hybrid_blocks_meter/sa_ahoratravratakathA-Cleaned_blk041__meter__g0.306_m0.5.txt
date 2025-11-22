@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 41 | label: meter | g:0.306 m:0.5 ---
+
+viśrāmaṃ vā na kuryāc ca khedaṃ vā vratamānasaḥ ।
+ahorātre susaṃpūrṇe prātaḥ snātvā vrataṃ caret ।।

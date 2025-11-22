@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 58 | label: grammar | g:0.75 m:0.5 ---
+
+tathā coktaṃ sauśrute iha khalu pāñcabhautikasya caturvidhasya āhārasya ṣaḍrasopetasya dvividharasavīryasya aṣṭavidharasavīryasya anekaprakāropabhuktasya pariṇatasya yas tejorūpaḥ sāraḥ sūkṣmaḥ sa rasa ity ucyate tasya hṛdayaṃ sthānaṃ sa ca hṛdayāt caturviṃśatidhamanīr anupraviśya ūrdhvagā daśa daśa ca adhogāminīḥ catasraḥ tiryaggāḥ sakalaṃ śarīram aharahas tarpayati jīvayati dhārayati vardhayati adṛṣṭanimittena karmaṇā sa khalu āpyo raso yakṛtplīhādiṃ prāpya rāgam upaiti bhavanti vā atra ślokāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6120 | label: meter | g:0.194 m:0.625 ---
+
+ity eṣa kalpasaṃhārād antarapralayo dvija 
+naimittikas te kathitaḥ prākṛtaṃ śṛṇvataḥ param ।।

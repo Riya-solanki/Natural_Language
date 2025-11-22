@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1363 | label: grammar | g:0.583 m:0.5 ---
+
+nūnaṃ darpāt tuhinarucinā durjanasya pramārṣṭuṃ nītaṃ ceto na ca dhavalitaṃ helayā nārpitaṃ ca ।
+yenedānīṃ malinahṛdayo lakṣyate śītaraśmir yasmāc cāyaṃ hṛdayarahito durvidhaḥ sarvadaiva ।।

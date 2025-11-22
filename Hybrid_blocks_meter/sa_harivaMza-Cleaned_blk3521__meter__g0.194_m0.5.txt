@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3521 | label: meter | g:0.194 m:0.5 ---
+
+veṇudāriḥ śrutarvā ca krāthaś caivāṃśumān api 
+aṅgarājaś ca balavān vaṅgānām adhipas tathā ।।

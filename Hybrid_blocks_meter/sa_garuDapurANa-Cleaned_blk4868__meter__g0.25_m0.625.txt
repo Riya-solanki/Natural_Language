@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4868 | label: meter | g:0.25 m:0.625 ---
+
+prāyaśaḥ sukumārāṇāṃ mithyāhāravihāriṇām ।
+sthūlānāṃ sukhināṃ cāpi kupyate vātaśoṇitam ।।

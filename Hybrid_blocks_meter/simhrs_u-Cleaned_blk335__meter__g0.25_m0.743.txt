@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 335 | label: meter | g:0.25 m:0.743 ---
+
+tatra rītiḥ ।
+rītiḥ syāt pada-vinyāsa-bhaṅgī sā tu tridhā matā । 
+komalā kaṭhinā miśrā ceti syāt tatra komalā ।।
+dvitīya-turya-varṇair yā svalpair vargeṣu nirmitā । 
+alpa-prāṇākṣara-prāyā daśa-prāṇa-samanvitā ।।
+samāsa-rahitā svalpaiḥ samāsair vā vibhūṣitā । 
+vidarbha-jana-hṛdyatvāt sā vaidarbhīti kathyate ।।

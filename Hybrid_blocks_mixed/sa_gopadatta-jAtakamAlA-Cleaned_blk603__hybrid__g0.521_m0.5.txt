@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 603 | label: hybrid | g:0.521 m:0.5 ---
+
+avadhūya balaṃ śamadviṣāṃ yaj jaladānām iva maṇḍalaṃ nabhasvān ।
+padam avyayam āpnuvanti buddhā bhagavantas tad api pradānabijam ।।

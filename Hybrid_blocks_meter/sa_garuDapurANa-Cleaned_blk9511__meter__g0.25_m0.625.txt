@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9511 | label: meter | g:0.25 m:0.625 ---
+
+aṣṭādaśaiva vastūni pretaśrāddhe vivarjayet ।
+āśiṣo dviguṇān darbhān praṇavān naikapiṇḍatām ।।

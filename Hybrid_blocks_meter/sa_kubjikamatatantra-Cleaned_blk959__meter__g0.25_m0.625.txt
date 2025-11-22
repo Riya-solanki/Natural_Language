@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 959 | label: meter | g:0.25 m:0.625 ---
+
+jvalanto dṛśyate bhūtair hṛccakre vidhisaṃsthitaḥ 
+duṣṭāś ca pralayaṃ yānti siṃhasyaiva yathā mṛgāḥ ।।

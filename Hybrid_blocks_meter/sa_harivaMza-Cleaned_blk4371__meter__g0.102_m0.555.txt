@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4371 | label: meter | g:0.102 m:0.555 ---
+
+mama bhartrā hṛto vīra balavīryapravartinā 
+pitus te vāsudevasya dharṣayitvā gṛhaṃ mahat 
+pākaśāsanakalpasya hṛtas tvaṃ śambareṇa ha ।।

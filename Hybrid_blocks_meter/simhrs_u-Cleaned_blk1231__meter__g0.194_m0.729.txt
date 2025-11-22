@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1231 | label: meter | g:0.194 m:0.729 ---
+
+citraṃ netra-rasāyanaṃ tridaśatāsiddher mahā-maṅgalaṃ
+mokṣa-dvāram apāvṛtaṃ mama manaḥ-prahlādanā-bheṣajam ।
+sākaṃ nāka-purandhirbhir nava-pati-prāpty-utsukābhiḥ surāḥ
+sarve paśyata rāma-rāvaṇa-raṇaṃ vakty eṣa vo nāradaḥ ।।

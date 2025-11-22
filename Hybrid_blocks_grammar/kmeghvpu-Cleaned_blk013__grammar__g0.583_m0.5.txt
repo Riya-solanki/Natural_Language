@@ -1,0 +1,6 @@
+--- source: kmeghvpu-Cleaned.txt | block: 13 | label: grammar | g:0.583 m:0.5 ---
+
+mārgaṃ tāvac chṛṇu kathayatas tvatprayāṇānukūlaṃ saṃdeśaṃ me tadanu jalada śroṣyasi śrotrapeyam ।
+khinnaḥ khinnaḥ śikhariṣu padaṃ nyasya gantāsi yatra kṣīṇaḥ kṣīṇaḥ parilaghu payaḥ srotasāṃ copabhujya ।।
+adreḥ śṛṅgaṃ harati pavanaḥ kiṃ svid ity unmukhībhir dṛṣṭotsāhaś cakitacakitaṃ mugdhasiddhāṅganābhiḥ ।
+sthānād asmāt sarasaniculād utpatodaṅmukhaḥ khaṃ diṅnāgānāṃ pathi pariharan sthūlahastāvalehān ।।

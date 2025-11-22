@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 535 | label: hybrid | g:0.25 m:0.497 ---
+
+dyubhvādyāyatanaṃ ca prakṛtya advā supraṇā sayujā sakhāyā' ityatra sthityadane nirdiśyete ।
+atayoranyaḥ pippalaṃ svādvatti' itikarmaphalāśanaṃ, aanaśnannanyo abhicākaśīti' ityaudāsīnyenāvasthānaṃ ca ।
+tābhyāṃ ca sthityadanābhyāmīśvarakṣetrajñau tatra gṛhyete ।
+yadi ceśvaro dyubhvādyāyatanatvena vivakṣitastatastasya prakṛtasyeśvarasya kṣetrajñātpṛthagvacanamavakalpate ।
+anyathā hyaprakṛtavacanamākasmikamasaṃbaddhaṃ syāt ।

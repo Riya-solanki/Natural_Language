@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 824 | label: grammar | g:0.58 m:0.444 ---
+
+vartamānasamīpye vartamānavadvā ।।
+vartamāne ye pratyayā uktāste vartamānasāmīpye bhūte bhaviṣyati ca vā syuḥ । ayamāgacchāmi, ayamāgamaṃ vā । eṣa gacchāmi, gamiṣyāmi vā ।।

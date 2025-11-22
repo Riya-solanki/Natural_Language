@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 50 | label: meter | g:0.306 m:0.5 ---
+
+vratapūjāphalaṃ sarvaṃ kālaṃ ca samayaṃ dinam ।
+kutra sthāne vrataṃ kāryaṃ tat sarvaṃ vada sāṃpratam ।।

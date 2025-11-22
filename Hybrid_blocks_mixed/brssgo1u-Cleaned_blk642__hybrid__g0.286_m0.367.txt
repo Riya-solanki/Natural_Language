@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 642 | label: hybrid | g:0.286 m:0.367 ---
+
+aetadvai tat' iti ca prakṛtaṃ pṛṣṭamihānusaṃdadhāti ।
+etadvai tadyatpṛṣṭaṃ brahmetyarthaḥ ।
+pṛṣṭaṃ ceha brahma aanyatra dharmādanyatrādharmādanyatrāsmātkṛtākṛtāt ।
+anyatra bhūtācca bhavyācca yattatpaśyasi tadvada' iti śabdādevetyabhidhānaśrutereveśāna iti parameśvaro ayaṃ gamyata ityarthaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1475 | label: meter | g:0.25 m:1.0 ---
+
+mahāmaṇḍalayogena bāhyamaṇḍalamālikhet ।
+tasya madhye likhetsamyagvajriṇaṃ candramaṇḍale ।।

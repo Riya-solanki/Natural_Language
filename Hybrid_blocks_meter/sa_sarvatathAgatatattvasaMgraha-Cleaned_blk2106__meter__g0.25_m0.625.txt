@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2106 | label: meter | g:0.25 m:0.625 ---
+
+tathaiva vajrabandhe tu tarjanī padmasandhitā ।
+aṅguṣṭhā bandhaparyaṅkā madhyasaṃkocavigrahā ।।

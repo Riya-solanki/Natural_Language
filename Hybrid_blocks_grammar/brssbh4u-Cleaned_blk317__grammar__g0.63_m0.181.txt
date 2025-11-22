@@ -1,0 +1,9 @@
+--- source: brssbh4u-Cleaned.txt | block: 317 | label: grammar | g:0.63 m:0.181 ---
+
+svāpyayaḥ suṣuptam asvamapīto bhavati tasmādenaṃ svapitītyācakṣate' iti śruteḥ ।
+saṃpattiḥ kaivalyam, abrahmaiva sanbrahmāpyeti' iti śruteḥ ।
+tayoḥ anyatarām avasthām apekṣya etat viśeṣasaṃjñābhāva vacanam ।
+kvacit suṣupta avasthām apekṣya ucyate kvacit kaivalya avasthām ।
+katham avagamyate yataḥ tatra eva etat adhikāravaśāt āviṣkṛtam aetebhyo bhūtebhyaḥ samutthāya tānyevānu vinaśyati na pretya saṃjñāstīti' ayatra tvasya sarvamātmaivābhūt' ayatra supto na kañcana kāmaṃ kāmayate na kañcana svapnaṃ paśyati' ityādi śrutibhyaḥ ।
+saguṇavidyāvipāka avasthānaṃ tu etat svargādivat avasthāntaraṃ yatra etat aiśvaryam upavarṇyate ।
+tasmāt adoṣaḥ ।।

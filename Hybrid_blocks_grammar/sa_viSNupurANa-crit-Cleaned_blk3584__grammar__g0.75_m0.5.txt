@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3584 | label: grammar | g:0.75 m:0.5 ---
+
+hiraṇyanābhasya putraḥ puṣyas tasmād dhruvasaṃdhis tataḥ sudarśanas tasmād agnivarṇas tataś ca śīghragas tasyāpi maruḥ putro abhūt yo asau yogam āsthāyādyāpi kalāpagrāmam āśritas tiṣṭhati । āgāmiyuge sūryavaṃśakṣatrapravartayitā bhaviṣyati । prasuśrutas tasyātmajas tasyāpi susaṃdhis tataś cāpy amarṣas tasya ca mahasvāṃs tataś ca viśrutavāṃs tato bṛhadbalo yo arjunatanayenābhimanyunā bhāratayuddhe kṣayam anīyata ।।

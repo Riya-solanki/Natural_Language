@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 844 | label: meter | g:0.25 m:0.5 ---
+
+stūyatām eṣa nṛpatiḥ pṛthur vainyaḥ pratāpavān 
+karmaitad anurūpaṃ ca pātraṃ stotrasya cāpy ayam ।।

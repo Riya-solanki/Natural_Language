@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 97 | label: grammar | g:0.583 m:0.5 ---
+
+āyāsaprasave vicāravirase lajjājugupsāspade rāgāndhā viramanti naiva kupade strībhoganāmni cyutāḥ ।
+cittaṃ nāsti sacetsām api nijākarṣe vimarṣaḥ kṣaṇaṃ ratyanyeṣu paraṅmukhatvam aniśaṃ prāpnoti nāyaṃ janaḥ ।।

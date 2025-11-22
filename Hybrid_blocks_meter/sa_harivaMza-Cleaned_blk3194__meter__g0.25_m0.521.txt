@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3194 | label: meter | g:0.25 m:0.521 ---
+
+tām uvāca hasantīṃ tu kṛṣṇaḥ kubjām avasthitām 
+tām uvāca tataḥ kṛṣṇaḥ sairandhrīṃ prahasann iva । 
+sugandham etad rājārhaṃ ruciraṃ rucirānane । 
+āvayor gātrasadṛśaṃ dīyatām anulepanam ।।

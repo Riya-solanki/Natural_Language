@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 651 | label: meter | g:0.25 m:0.75 ---
+
+bhairavaṃ piṇḍamākhyātaṃ viṣapāpagrahāpaham ।
+kṣetrasya rakṣaṇaṃ bhūtarākṣasādeḥ pramardanam ।।

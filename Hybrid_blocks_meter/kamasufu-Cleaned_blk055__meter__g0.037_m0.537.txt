@@ -1,0 +1,15 @@
+--- source: kamasufu-Cleaned.txt | block: 55 | label: meter | g:0.037 m:0.537 ---
+
+[]rāgavad []āhārya-rāgaṃ []kṛtrima-rāgaṃ []vyavahita-rāgaṃ []poṭā-rataṃ []khala-ratam []ayantrita-ratam iti rata-viśeṣāḥ
+saṃdarśanāt prabhṛty ubhayor api pravṛddha-rāgayoḥ prayatna-kṛte samāgame pravāsa-pratyāgamane vā kalaha-viyoga-yoge tad []rāgavat
+tatrātmābhiprāyād yāvad-arthaṃ ca pravṛttiḥ
+madhyastha-rāgayor ārabdhaṃ yad anurajyate tad []āhārya-rāgam
+tatra cātuḥṣaṣṭikair yogaiḥ sātmyānuviddhaiḥ saṃdhukṣya saṃdhukṣya rāgam pravarteta
+tat kārya-hetor anyatra saktayor vā []kṛtrima-rāgam
+tatra samuccayena yogāñ śāstrataḥ paśyet
+puruśas tu hṛdaya-priyām anyāṃ manasi nidhāya vyavaharet saṃprayogāt prabhṛti ratiṃ yāvat atas tad []vyavahita-rāgam
+nyūnāyāṃ kumbha-dāsyāṃ paricārikāyāṃ vā yāvad-arthaṃ saṃprayogas tat []poṭā-ratam 
+tatropacarān nādriyeta
+tathā veśyāyā grāmīṇena saha yāvad-artham []khala-ratam
+grāma-vraja-pratyanta-yoṣidbhiś ca nāgarasya
+utpanna-visrambhayoś ca parasparānukūlyād []ayantrita-ratam

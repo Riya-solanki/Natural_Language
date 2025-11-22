@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 654 | label: meter | g:0.25 m:0.5 ---
+
+na cājñārabhasārambhe na rājyabhāraṃ vahāmy ahaṃ ।
+jagatāṃ vayam eveha kṛpayā kiṃkarāḥ kṛtāḥ ।।

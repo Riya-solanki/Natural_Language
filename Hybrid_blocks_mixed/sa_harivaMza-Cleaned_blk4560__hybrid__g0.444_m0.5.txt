@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4560 | label: hybrid | g:0.444 m:0.5 ---
+
+brahma ca brāhmaṇāś caiva tapaḥ satyaṃ ca bhārata 
+ukthyaṃ bṛhadrathaṃ caiva mattas tad viddhi pāṇḍava ।।

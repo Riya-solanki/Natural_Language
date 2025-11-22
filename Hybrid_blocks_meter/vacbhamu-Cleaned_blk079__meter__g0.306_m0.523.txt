@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 79 | label: meter | g:0.306 m:0.523 ---
+
+atha mā pravartiṣata pramāṇāni, kiṃ naśchinnamityata āha- na hīndriyāṇyanupādāya pratyakṣādivyavahāraḥ saṃbhavati ।
+vyavahriyate aneneti vyavahāraḥ phalam, pratyakṣādīnāṃ pramāṇānāṃ phalamityarthaḥ ।
+indriyāṇi iti indriyaliṅgādīnīti draṣṭavyam, adaṇḍino gacchanti' itivat ।
+evaṃ hi pratyakṣādi ityupapadyate ।
+vyavahārakriyayā ca vyavahāryākṣepātsamānakartṛkatā ।
+anupādāya yo vyavahāra iti yojanā ।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 939 | label: meter | g:0.253 m:0.901 ---
+
+kṛṣṇa kṛṣṇāravindākṣa
+tāta ehi stanaṃ piba ।
+alaṃ vihāraiḥ kṣuc-chrāntas
+tad bhavān bhoktum arhati ।।[BhP ] iti ।

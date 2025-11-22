@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 923 | label: meter | g:0.194 m:0.5 ---
+
+sa evam ukto yadunā rājā kopasamanvitaḥ 
+uvāca vadatāṃ śreṣṭho yayātir garhayan sutam ।।

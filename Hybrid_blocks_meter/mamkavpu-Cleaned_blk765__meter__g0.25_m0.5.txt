@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 765 | label: meter | g:0.25 m:0.5 ---
+
+{nāthe niśāyā niyaterniyogādastaṃ gate hanta niśāpi yātā ।
+kulāṅganānāṃ hi daśānurūpaṃ nātaḥparaṃ bhadrataraṃ samasti ।।}

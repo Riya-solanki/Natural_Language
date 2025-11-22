@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 251 | label: grammar | g:0.583 m:0.5 ---
+
+kṛtvā picchilatāṃ pathaḥ sthagayatā nirbhartsanaṃ pādayoḥ sāndrair vārikaṇaiḥ kapolaphalake vicchittim āchindatā ।
+meghenopakṛtaṃ yad āśu vihitā tasyāgaso niṣkṛtiḥ svairiṇyāḥ priyaveśmavartma diśatā vidyudvilāsair muhuḥ ।।

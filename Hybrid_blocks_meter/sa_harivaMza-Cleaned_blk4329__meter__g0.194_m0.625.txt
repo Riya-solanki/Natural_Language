@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4329 | label: meter | g:0.194 m:0.625 ---
+
+iti saṃstūya govindaṃ mahendravacanād ṛṣiḥ 
+yadubhiḥ pūjitaḥ sarvair nāradas tridivaṃ gataḥ ।।

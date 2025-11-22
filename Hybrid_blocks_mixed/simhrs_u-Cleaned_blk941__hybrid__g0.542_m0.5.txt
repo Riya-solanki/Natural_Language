@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 941 | label: hybrid | g:0.542 m:0.5 ---
+
+evaṃ ca bhukti-vyakti-pakṣayor ubhayor api sāmājikānāṃ rasāśrayatvopapatter anyatara-pakṣa-parigrahāgrahād udāsmahe ।

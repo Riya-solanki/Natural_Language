@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1125 | label: meter | g:0.251 m:0.623 ---
+
+jyāmaghasyābhavad bhāryā caitrā pariṇatā satī 
+aputro api ca rājā sa nānyāṃ bhāryām avindata ।।

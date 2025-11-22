@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 326 | label: hybrid | g:0.476 m:0.5 ---
+
+dānaṃ daditva vidu paṇḍitu bodhisattvo yāvanti sattva tribhave samanvāharitvā 
+sarveṣu teṣu bhavate ayu dattadānaṃ taṃ cāgrabodhi pariṇāmayate jagārtham ।।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1161 | label: grammar | g:0.774 m:0.375 ---
+
+śeṣe ।।
+apatyādicaturarthyantādanyor'thaḥ śeṣastatrāṇādayaḥ syuḥ । cakṣuṣā gṛhyate cākṣuṣaṃ rūpam । śrāvaṇaḥ śabdaḥ । aupaniṣadaḥ puruṣaḥ । dṛṣadi piṣṭā dārṣadāḥ saktavaḥ । caturbhiruhyaṃ cāturaṃ śakaṭam । caturdaśyāṃ dṛśyate cāturdaśaṃ rakṣaḥ । "tasya vikāraḥ'; ityataḥ prāk śeṣādhikāraḥ ।।

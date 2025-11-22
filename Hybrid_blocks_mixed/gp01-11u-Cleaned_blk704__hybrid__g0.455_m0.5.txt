@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 704 | label: hybrid | g:0.455 m:0.5 ---
+
+śiśunā bhīṣma-grahaṇe sthāne mātur bhayaṃ yato mātā ।
+kavayas tv idam anumimate tejasvitvasya bījaṃ tat ।। [āryā]

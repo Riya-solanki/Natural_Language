@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 916 | label: meter | g:0.194 m:0.5 ---
+
+bhujyate anudinaṃ devaiḥ pitṛbhiś ca sudhātmakaḥ 
+jīvabhūtaḥ samastasya tasmai somātmane namaḥ ।।

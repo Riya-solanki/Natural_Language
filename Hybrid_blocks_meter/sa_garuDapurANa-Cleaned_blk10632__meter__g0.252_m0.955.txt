@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10632 | label: meter | g:0.252 m:0.955 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+puruṣākhyo hariḥ sākṣādbhagavānpuruṣottamaḥ ।
+śiśyetvaṇḍodaka viṣṇurnṛṇāṃ sāhasravatsaram ।
+lakṣmīścodakarūpeṇa śayyārūpeṇa bhoṇḍajā ।।

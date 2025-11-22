@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 8 | label: meter | g:0.302 m:0.575 ---
+
+kṛṣṇa iti
+kṛṣir bhū-vācakaḥ śabdo ṇaś ca nirvṛtivācakaḥ ।
+tayor aikyaṃ paraṃ brahma kṛṣṇa ity abhidhīyate ।।

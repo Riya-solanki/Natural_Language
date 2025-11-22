@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 1169 | label: grammar | g:0.682 m:0.349 ---
+
+ityādiḥ śleṣasya copamādyalaṅkāraviviktosti viṣaya iti । dvayoryoge saṃkara eva । upapattiparyālocane tu upamāyā evāyaṃ yukto viṣayaḥ । anyathā viṣayāpahāra eva pūrṇopamāyāḥ syāt ।
+na ca aabindusundarī nityaṃ galallāvaṇyabindukā'; ityādau virodhapratibhotpattihetuḥ śleṣaḥ api tu śleṣapratibhotpattiheturvirodhaḥ । na hyatrārthadvayapratipādakaḥ śabdaśleṣaḥ dvitīyārthasya pratibhātamātrasya prarohābhāvāt । na ca virodhābhāsa iva virodhaḥ śleṣābhāsaḥ śleṣaḥ ।
+tadevamādiṣu vākyeṣu śleṣapratibhotpattiheturalaṅkārāntarameva । tathā ca

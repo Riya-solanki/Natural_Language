@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 273 | label: meter | g:0.25 m:0.5 ---
+
+koṇasūtrādubhayataḥ koṇā ye tatra saṃsthitāḥ ।
+teṣu caiva prakurvīta sūtrapātaṃ vicakṣaṇaḥ ।।

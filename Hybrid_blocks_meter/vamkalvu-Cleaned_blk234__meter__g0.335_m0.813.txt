@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 234 | label: meter | g:0.335 m:0.813 ---
+
+dakṣātmajādayitavallabhabhavedikānāṃ
+jyotsnājuṣāṃ jalalavāstaralaṃ patanti ।।

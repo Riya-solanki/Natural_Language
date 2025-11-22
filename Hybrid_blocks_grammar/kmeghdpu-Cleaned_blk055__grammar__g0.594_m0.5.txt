@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 55 | label: grammar | g:0.594 m:0.5 ---
+
+śabdāyante madhuram anilaiḥ kīcakāḥ pūryamāṇāḥ saṃraktābhis tripuravijayo gīyate kiṃnarībhiḥ ।
+nirhrādī te muraja iva cet kandareṣu dhvaniḥ syāt saṃgītārtho nanu paśupates tatra bhāvī samastaḥ ।।

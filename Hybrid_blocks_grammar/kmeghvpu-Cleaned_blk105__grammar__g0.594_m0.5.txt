@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 105 | label: grammar | g:0.594 m:0.5 ---
+
+etasmān māṃ kuśalinam abhijñānadānād viditvā mā kaulīnād asitanayane mayy aviśvāsinī bhūḥ ।
+snehān āhuḥ kim api virahahrāsinas te hy abhogād iṣṭe vastuny upacitarasāḥ premarāśībhavanti ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5814 | label: meter | g:0.25 m:0.5 ---
+
+pārṣṇo rakṣatu śaṅkhaśca padmaṃ me caraṇāvubhau ।
+sarvakāryārthasiddhyarthaṃ pātu māṃ garuḍaḥ sadā ।।

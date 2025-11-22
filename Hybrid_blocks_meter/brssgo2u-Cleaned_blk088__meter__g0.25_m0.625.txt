@@ -1,0 +1,10 @@
+--- source: brssgo2u-Cleaned.txt | block: 88 | label: meter | g:0.25 m:0.625 ---
+
+nanvanekātmakaṃ brahma, yathā vṛkṣo anekaśākha evamanekaśaktipravṛttiyuktaṃ brahma ।
+ata ekatvaṃ nānātvaṃ cobhayamapi satyameva ।
+yathā vṛkṣa ityanekatvaṃ śākhā iti nānātvam ।
+yathāca samudrātmanaikatvaṃ phenataraṅgādyātmanā nānātvam ।
+yathāca mṛdātmanaikatvaṃ ghaṭaśarāvādyātmanā nānātvam ।
+tatraikatvāṃśena jñānānmokṣavyavahāraḥ setsyati ।
+nānātvāṃśena tu karmakāṇḍāśrayau laukikavaidikavyavahārau setsyata iti ।
+evañca mṛdādidṛṣṭāntā anurūpā bhaviṣyantīti ।

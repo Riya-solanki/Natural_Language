@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 26 | label: grammar | g:0.635 m:0.5 ---
+
+vaktraṃ naiṣa kalānidhir dhavalimā naiṣojjvalā kaumudī netre nīrarucī na lāñchanayugaṃ candre asty amandacchavi ।
+ity unnīya vidhor abhītivihasad yat saṃnidhiṃ sādhvagān nūnaṃ nīrajam astu vaḥ śivadive tal lokanāthānanam ।।

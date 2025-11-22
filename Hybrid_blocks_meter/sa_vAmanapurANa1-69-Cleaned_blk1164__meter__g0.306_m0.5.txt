@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1164 | label: meter | g:0.306 m:0.5 ---
+
+tañjānuyugmaṃ mahiṣāsurendra arddhennataṃ bhāti tathaiva tasyāḥ ।
+sṛṣṭvā vidhātā hi nirūpaṇāya śrāntastathā hastatale dadau hi ।।

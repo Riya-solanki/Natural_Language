@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 502 | label: meter | g:0.194 m:0.75 ---
+
+māgadhaṃ saindhavaṃ vāpi gujjaraṃ lāṭasaṃjñakam 
+anye api deśamadhyasthā vanavāsāntyajātayaḥ ।।

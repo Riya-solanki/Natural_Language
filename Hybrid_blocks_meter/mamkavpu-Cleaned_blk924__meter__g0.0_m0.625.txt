@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 924 | label: meter | g:0.0 m:0.625 ---
+
+aślīlaṃ kvacidguṇaḥ । yathā suratārambhagoṣṭhyām {dvyartheḥ
+padaiḥ piśunayecca rahasyavastu} iti kāmaśāstrasthitau

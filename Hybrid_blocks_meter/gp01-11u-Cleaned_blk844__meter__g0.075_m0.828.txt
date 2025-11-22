@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 844 | label: meter | g:0.075 m:0.828 ---
+
+nirmame prasabham ambayā mukhaṃ
+sammukhaṃ nijaśiśor yadā yadā ।
+sarpir-arpita-vilepanaṃ tadā
+rūkṣaṇāya tad aghukṣad eṣa ca ।। [svāgatā]

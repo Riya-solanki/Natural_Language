@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1177 | label: meter | g:0.25 m:0.75 ---
+
+vajramudrādvikaṃ badhvā kuñcitāgryā nibandhitaṃ ।
+valitodvalitaṃ kurvan devākarṣaṇamuttamaṃ ।।

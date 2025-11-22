@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 9 | label: hybrid | g:0.444 m:0.5 ---
+
+kiṃ kāraṇaṃ ya jina bhāṣati dharmanetrīṃ tatrābhiśikṣita nararṣabhaśiṣyabhūtāḥ 
+sākṣātkaritva yatha śikṣita deśayanti buddhānubhāva puna ātmabalānubhāvā ।।

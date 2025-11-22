@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 37 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ śrī-kṛṣṇa-rāmāv etāv atha svānugamana-kamana-manaskān janān kathaṃ katham api tataḥ pathaḥ ślathayitvā, svātmānam api tal-locana-śṛṅkhalā-mocanān mocayitvā, sakhibhir apy akhila-vilambi-lalitair nava-gopa-mahasopavalitaiḥ saha sahasā hasantau lasantau cārāya madhye madhye stabdha-nikhila-gavīkau labdha-mano-gavīkau suvalita-calitaṃ govardhana-diśam uddiśya calataḥ sma ।

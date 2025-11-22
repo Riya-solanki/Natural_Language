@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1009 | label: grammar | g:0.561 m:0.477 ---
+
+pūrvāparādharottaramekadeśinaikādhikaraṇe ।।
+avayavinā saha pūrvādayaḥ samasyante ekatvasaṃkhyāviśiṣṭaścedavayavī । ṣaṣṭhīsamāsāpavādaḥ । pūrvaṃ kāyasya pūrvakāyaḥ । ekādhikaraṇe kim ? pūrvaśchātrāṇām ।।

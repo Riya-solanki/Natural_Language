@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 776 | label: grammar | g:0.562 m:0.5 ---
+
+yadi na pūtīkān arjunāny atha yā eva kāś cauṣadhīr āhṛtyābhiṣuṇuyuḥ ।

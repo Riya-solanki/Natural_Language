@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 887 | label: meter | g:0.194 m:0.75 ---
+
+matvā karmasvakam anuśayasnāyutantrīpraṇeyaṃ
+lokair duḥkhair viṣayakṛpaṇair indriyair vipralabdham ।
+utpadyante vipadupaśamaprāptaye ye janānāṃ
+mātuṃ teṣu prabhavati pumān ko apakāropakārau ।।

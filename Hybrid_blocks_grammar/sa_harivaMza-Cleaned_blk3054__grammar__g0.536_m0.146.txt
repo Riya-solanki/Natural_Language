@@ -1,0 +1,14 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3054 | label: grammar | g:0.536 m:0.146 ---
+
+tasya kṛṣṇabhujoddhūtāḥ keśino daśanā mukhāt 
+keśino vaktranirdhūtā vividhā daśanā bhuvi । 
+petuḥ śaradi nistoyāḥ sitābhrāvayavā iva ।। 
+sa tu keśī bhṛśaṃ śrāntaḥ kṛṣṇenākliṣṭakarmaṇā । svabhujaṃ svāyataṃ kṛtvā pāṭito balavat tadā ।। sa pāṭito bhujenājau kṛṣṇena vikṛtānanaḥ । keśī nadan mahānādaṃ dānavo vyathitas tadā ।। vighūrṇamānaḥ srastāṅgo mukhād rudhiram udvaman । bhṛśaṃ vyaṅgīkṛtavapur nikṛttārdha ivācalaḥ ।। vyāditāsyo mahāraudraḥ so asuraḥ kṛṣṇabāhunā । nipapāta yathā kṛtto nāgo hi dvidalīkṛtaḥ । sa papātāśu vegena bhujāyāmena pāṭitaḥ । 
+bāhunā kṛttadehasya keśino rūpam ābabhau 
+paśor iva mahāghoraṃ nihatasya pinākinā ।। 
+droṇībhyāṃ māṃsapūrṇābhyāṃ pinākibhavane yathā । 
+dvipādapṛṣṭhapucchārdhe sravaṇaikākṣināsike 
+keśinas te dvidhā bhūte dve ardhe rejatuḥ kṣitau ।। 
+vajreṇa vinikṛttārdhau parvatāv iva bhūtale । 
+keśidantakṣataś cāpi kṛṣṇasya śuśubhe bhujaḥ 
+vṛddhas tāla ivāraṇye gajendradaśanāṅkitaḥ ।।

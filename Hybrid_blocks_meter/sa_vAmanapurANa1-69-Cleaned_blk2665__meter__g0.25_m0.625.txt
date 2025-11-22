@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2665 | label: meter | g:0.25 m:0.625 ---
+
+ityevamuktvā prahlādamandhakaḥ prāha śambaram ।
+gaccha śambara śailendraṃ mandaraṃ vada śaṅkaram ।।

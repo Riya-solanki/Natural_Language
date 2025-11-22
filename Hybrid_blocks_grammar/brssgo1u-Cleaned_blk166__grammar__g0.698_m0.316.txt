@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 166 | label: grammar | g:0.698 m:0.316 ---
+
+svaśabdenaiva ca sarvajña īśvaro jagataḥ kāraṇamiti śrūyate śvetāśvatarāṇāṃ mantropaniṣadi sarvajñamīśvaraṃ prakṛtya asa kāraṇaṃ karaṇādhipādhipo na cāsya kaścijjanitā na cādhipaḥ' iti ।
+tasmāt sarvajñaṃ brahma jagataḥ kāraṇaṃ, nācetanaṃ pradhānamanyadveti siddham ।।

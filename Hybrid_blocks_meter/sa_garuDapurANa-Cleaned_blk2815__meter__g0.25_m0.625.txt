@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2815 | label: meter | g:0.25 m:0.625 ---
+
+śrutismṛtyuktamācāraṃ kuryānmarmaṇi na spṛśet ।
+na nindātāḍane kuryātsutaṃ śiṣyaṃ ca tāḍayet ।।

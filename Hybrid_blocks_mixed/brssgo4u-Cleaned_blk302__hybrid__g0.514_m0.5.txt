@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 302 | label: hybrid | g:0.514 m:0.5 ---
+
+nanu loke gatasya api gantavyatā deśāntaraviśiṣṭā dṛṣṭā ।
+yathā pṛthivīstha eva pṛthivīṃ deśāntaradvāreṇa gacchati iti ।
+tathā ananyatve api sarvaśakti upetatvāt kathañcit gantavyatā syāt iti ।

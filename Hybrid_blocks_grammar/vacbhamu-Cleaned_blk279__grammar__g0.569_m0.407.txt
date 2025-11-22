@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 279 | label: grammar | g:0.569 m:0.407 ---
+
+yadi hi padānāṃ kāryābhidhāne tadarthasvārthābhidhāne vā niyamena vṛddhavyavahāre sāmarthyamabadhṛtaṃ bhavet, na bhavedaheyānupādeyabhūtabrahmātmatāparatvamupaniṣadām; tatrāviditasāmarthyatvātpadānāṃ loke, tatpūrvakatvācca vaidikārthapratīteḥ ।
+atha tu bhūte apyarthe padānāṃ loke śakyaḥ saṃgatigrahaḥ, tata upaniṣadāntatparatvaṃ paurvāparyaparyālocanayāvagamyamānamapahnutya na kāryaparatvaṃ śakyaṃ kalpayitum, śrutahānyaśrutakalpanāprasaṅgāt ।
+tatra tāvadevamakāryer'the na saṃgatigrahaḥ, yadi tatparaḥ prayogo na loke dṛśyeta, tatpratyayo vā vyutpannasyonnetuṃ na śakyete ।
+na tāvattatparaḥ prayogo na dṛśyate loke,

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 388 | label: meter | g:0.194 m:0.521 ---
+
+mayi gamananivṛttiṃ kartum abhyudyatāyāṃ
+yad upacitam apuṇyaṃ macchirastāḍanāt te ।
+vyasanaphalam anantaṃ mā tu bhūt karmaṇo asya
+punar api guruvākyaṃ mātigāḥ svapnato api ।।

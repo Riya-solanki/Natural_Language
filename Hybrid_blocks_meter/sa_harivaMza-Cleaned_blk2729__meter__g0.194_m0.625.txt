@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2729 | label: meter | g:0.194 m:0.625 ---
+
+viṣamaiś ca samībhūtaiḥ samaiś cātyantadurgamaiḥ 
+vyāvṛttadehaḥ sa girī ramya evopalakṣyate ।।

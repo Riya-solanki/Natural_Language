@@ -1,0 +1,4 @@
+--- source: kestprau-Cleaned.txt | block: 12 | label: grammar | g:0.698 m:0.018 ---
+
+sa cāyaṃ puruṣaḥ pratiśarīraṃ bhinnaḥ ।
+tathāhi vimatāni śarīrāṇi svasaṃkhyāsaṃkhyeyātmavanti śarīratvāt sampratipannavat kiṃ caivaṃ yathaikasminneva jīvati devadatte śarīre jāte vā ceṣṭāvati vā mṛte vā bhāvopi jātaceṣṭāvān mṛtaḥ kileti loko vyavaharati tathā śarīrāntarepi tathaiva vyavahārāt tasmāt puruṣabhedobhyupeyaḥ ।

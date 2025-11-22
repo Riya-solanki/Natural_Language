@@ -1,0 +1,9 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 453 | label: grammar | g:0.633 m:0.391 ---
+
+sāmprataṃ śabdaśuddhirucyate 
+rudrāvityekaśeṣo'nveṣyaḥ ।।
+rudau ityatra prayoge ekaśeṣoveṣyo'nveṣaṇīyaḥ । rudraśca rudrāṇī ceti pumānstriyā ityekaśeṣaḥ । sa ca na prāpnoti । tatra hi, tallakṣaṇaścedeva viśeṣaḥ ityanuvartata iti tatraivakārakaraṇāt strīpuṃsakṛta eva viśeṣo bhavatīti vyavasthitam । atra tu puṃyogādākhyāyām iti viśeṣāntaramapyastīti । etena indrau bhavau śarvau ityādayaḥ prayogāḥ pratyuktāḥ ।।
+miliklabikṣapiprabhṛtīnāṃ dhātutvam, dhātuguṇasyāsamāpteḥ ।।
+milati viklavati kṣapayatītyādayaḥ prayogāḥ । tatra, mili-klabi-kṣapi-prabhṛtīnāṃ kathaṃ dhātutvam ? । gaṇapāṭhād guṇapaṭhitānāmeva dhātusaṃjñāvidhānāt । tratrāha dhātugaṇasyāparisamāpteḥ । vardhate dhātugaṇaḥ iti hi śabdavida ācakṣate । tenaiṣāṃ gaṇapāṭho'numataḥ । śiṣṭaprayogāditi ।।
+valerātmanepadamanityam, jñāpakāt ।।
+valeranudāttettvādātmanepade yat tadanityaṃ dṛśyate lajjālolaṃ valantī ityādiorayogeṣu । tat lathamityāha jñāyakāt ।।

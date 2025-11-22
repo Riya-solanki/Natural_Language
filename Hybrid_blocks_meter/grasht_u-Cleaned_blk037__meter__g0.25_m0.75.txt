@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 37 | label: meter | g:0.25 m:0.75 ---
+
+sthiradeho'bhyāsavaśātprāpya jñānaṃ guṇāṣṭakopetam ।
+prāpnoti brahmapadaṃ na punarbhavāvāsaduḥkhena ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1784 | label: meter | g:0.306 m:0.5 ---
+
+mama khaṅganipātaṃ hi nendro dhārayituṃ kṣamaḥ ।
+nivarttaya matiṃ yuddhād bhāryā me bhava sāmpratam ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 316 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ tiryaggatānāmapi mahāsattvānāṃ śaktyanurūpā dānapravṛttirdṛṣṭā । kena nāma manuṣyabhūtena na dātavyaṃ syāt? tathā tiryaggatā api guṇavātsalyāt saṃpūjyante sadbhiriti guṇeṣvādaraḥ kārya ityevamapyunneyam ।

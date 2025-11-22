@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 745 | label: meter | g:0.25 m:0.625 ---
+
+pañcamaḥ pañcikas tatra saptajātiṣv ajāyata 
+ṣaṣṭhas tu kaṇḍarīko abhūd brahmadattas tu saptamaḥ ।।

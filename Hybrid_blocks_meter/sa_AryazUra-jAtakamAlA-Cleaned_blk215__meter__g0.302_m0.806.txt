@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 215 | label: meter | g:0.302 m:0.806 ---
+
+bhavanti lokasya hi bhūyasārthā lobhāśrayād durgatimārgasārthāḥ ।
+parātmanorabhyudayāvahatvādarthāstadīyāstu babhuryathārthāḥ ।।

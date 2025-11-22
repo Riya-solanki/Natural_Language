@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 145 | label: meter | g:0.25 m:0.625 ---
+
+brahmaloko brāhmaṇānāṃ śākraḥ kṣattriyajanmanām ।
+mārutaṃ ca viśāṃ sthānaṃ gāndharvaṃ śūdrajanmanām ।।

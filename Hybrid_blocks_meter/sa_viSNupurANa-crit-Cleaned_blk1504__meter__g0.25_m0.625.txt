@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1504 | label: meter | g:0.25 m:0.625 ---
+
+catuṣprakāratāṃ tasya brahmabhūtasya vai mune 
+tvām ācakṣva yathānyāyaṃ yad uktaṃ paramaṃ padam ।।

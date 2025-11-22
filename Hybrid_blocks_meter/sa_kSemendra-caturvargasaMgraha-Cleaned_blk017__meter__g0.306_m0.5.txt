@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 17 | label: meter | g:0.306 m:0.5 ---
+
+sa eva sattvābharaṇaprabhāvabhūrbhuvaḥ prakāmābharaṇaṃ narottamaḥ ।
+mukhāmbuje yasya vasaty anatyayā sadaiva satyābharaṇā sarasvatī ।।

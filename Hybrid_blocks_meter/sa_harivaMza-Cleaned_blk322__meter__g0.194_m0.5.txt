@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 322 | label: meter | g:0.194 m:0.5 ---
+
+ṛṣer aṅgirasaḥ putrā mahātmāno mahaujasaḥ 
+nāḍvaleyā mahārāja daśa putrāś ca viśrutāḥ 
+uruprabhṛtayo rājan ṣaṣṭhaṃ manvantaraṃ smṛtam ।। 
+ṣaṣṭaṃ manvantaraṃ proktaṃ saptamaṃ tu nibodha me । 
+atrir vasiṣṭho bhagavān kaśyapaś ca mahān ṛṣiḥ 
+gautamo atha bharadvājo viśvāmitras tathaiva ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2340 | label: meter | g:0.194 m:0.75 ---
+
+avagītam idaṃ sarvam āvābhyāṃ bhuktabhojanam 
+prakṣīṇatṛṇakāṣṭhaṃ ca gopair mathitapādapam ।।

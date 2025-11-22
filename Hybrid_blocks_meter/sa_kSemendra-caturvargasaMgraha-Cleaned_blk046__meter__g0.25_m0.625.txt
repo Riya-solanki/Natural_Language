@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 46 | label: meter | g:0.25 m:0.625 ---
+
+gurugaṇakair abudhānāṃ kṣayacaturaiś cauramuṣakair vaṇijām ।
+kāyasthagāyanagaṇair bhūmibhujāṃ bhujyate lakṣmīḥ ।।

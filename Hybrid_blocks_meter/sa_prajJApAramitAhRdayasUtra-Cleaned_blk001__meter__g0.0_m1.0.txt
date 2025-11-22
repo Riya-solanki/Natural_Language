@@ -1,0 +1,4 @@
+--- source: sa_prajJApAramitAhRdayasUtra-Cleaned.txt | block: 1 | label: meter | g:0.0 m:1.0 ---
+
+Prajñāpāramitāhṛdayasūtra
+prajñāpāramitā-hṛdaya-sūtra

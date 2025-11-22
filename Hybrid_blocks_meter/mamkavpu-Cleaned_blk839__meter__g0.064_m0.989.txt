@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 839 | label: meter | g:0.064 m:0.989 ---
+
+{kaṣṭāṅgayogapariśīlanakīlanena
+duḥsādhasiddhisavidhaṃ vidadhadvidūre ।
+āsādayannabhimatāmadhunā viveka-
+khyātiṃ samādhidhanamaulimarṇirvimuktaḥ ।।}

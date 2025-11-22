@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1434 | label: meter | g:0.194 m:0.5 ---
+
+bhedo randhraṃ tathā chidram ekā saṃjñā yaśasvini 
+sabījāś ceti nirbījāḥ sthitibhedo dvidhā sthitaḥ ।।

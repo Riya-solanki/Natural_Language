@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4629 | label: meter | g:0.194 m:0.75 ---
+
+evaṃ vividharūpāṇi nimittāni niśāmayan 
+bāṇo balamadonmatto niścayaṃ nādhigacchati ।।

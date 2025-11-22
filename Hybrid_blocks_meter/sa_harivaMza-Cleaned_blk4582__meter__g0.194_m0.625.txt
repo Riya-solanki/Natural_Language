@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4582 | label: meter | g:0.194 m:0.625 ---
+
+vikṣobhya sāgaraṃ sarvaṃ pāñcajanyo vaśīkṛtaḥ 
+hayagrīvaś ca nihato nṛpāś cānye mahābalāḥ ।।

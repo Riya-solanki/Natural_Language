@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 456 | label: hybrid | g:0.412 m:0.5 ---
+
+bhāvo vāpi raso vāpi pravṛttir vṛttir eva vā ।
+sarveṣāṃ samavetānāṃ rūpaṃ yasya bhaved bahu ।
+sa mantavyo rasaḥ sthāyī śeṣāḥ sañcāriṇo matāḥ ।। iti ।

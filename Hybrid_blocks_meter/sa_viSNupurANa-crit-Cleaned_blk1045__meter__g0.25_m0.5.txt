@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1045 | label: meter | g:0.25 m:0.5 ---
+
+ūrdhvaṃ tiryag adhaś caiva yadāpratihatā gatiḥ 
+tadā kasmād bhuvo nāntaṃ sarve drakṣyatha bāliśāḥ ।।

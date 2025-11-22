@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 878 | label: meter | g:0.25 m:0.695 ---
+
+anāyāsena siddhimapekṣya karmaṇaḥ ।
+kartṛtvamupacaryata ityarthaḥ ।
+vyākriyate jagatsvayameva niṣpannamiti vyākhyāya kenacidvyākṛtamiti vyācaṣṭe-yadveti ।
+ataḥ śrutīnāmavirodhātkāraṇadvārā samanvaya iti siddham ।।

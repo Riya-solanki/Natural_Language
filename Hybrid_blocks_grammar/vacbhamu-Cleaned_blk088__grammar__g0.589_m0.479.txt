@@ -1,0 +1,10 @@
+--- source: vacbhamu-Cleaned.txt | block: 88 | label: grammar | g:0.589 m:0.479 ---
+
+tadevamātmānātmanoḥ parasparādhyāsamākṣepasamādhānābhyāmupapādya pramāṇaprameyavyavahārapravartanena ca dṛḍhīkṛtya tasyānaharthahetutvamudāharaṇaprapañcena pratipādayan tatsvarupamuktaṃ smārayati- adhyāso nāma atasmiṃstadbuddhirityavocāma ।
+asmṛtirūpaḥ paratra pūrvadṛṣṭāvabhāsaḥ' ityasya saṃkṣepābhidhānametat ।
+tatra aaham' iti dharmitādātmyādhyāsamātram amama' ityanutpāditadharmādhyāsaṃ nānarthaheturiti dharmādhyāsameva mamakāraṃ sākṣādaśeṣānarthasaṃsārakāraṇamudāharaṇaprapañcānāha- tadyathā putrabhāryādiṣu iti ।
+dehatādātmyamātmanyadhyasya dehamarthaṃ putrakalatrādisvābhyaṃ ca kṛśatvādivat āropyāha- ahameva vikalaḥ, sakalaḥ iti ।
+svasya khalu sākalyena svābhyasākalyāt svāmīśvaraḥ sakalaḥ saṃpūrṇo bhavati; tathā svasya vaikalyena svāmyavaikalyāt svāmīśvaro visalo asaṃpūrṇo bhavati ।
+bāhyadharmā ye vaikalyādayaḥ svābhyapraṇālikayā saṃcaritāḥ śarīre tānātmanyadhyasyatītyarthaḥ ।
+yadā ca paropādhyapekṣe dehadharme svāmye iyaṃ gatiḥ, tadā kaiva kathā anaupādhikeṣu dehadharmeṣu kṛśatvādiṣu ityāśayavānāha- tathā dehadharmān iti ।
+dehādapyantaraṅgāṇāmindriyāṇāmadhyastātmabhāvānāṃ dharmān mūkatvādīn, tato apyantaraṅgasyāntaḥkaraṇasya adhyastātmabhāvasya dharmān kāmasaṃkalpādīn ātmanyadhyasyatīti yojanā ।

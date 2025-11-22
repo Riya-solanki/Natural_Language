@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 785 | label: meter | g:0.056 m:0.875 ---
+
+{dvayaṃ gataṃ saṃprati śocanīyatāṃ
+samāgamaprārthanayā kapālinaḥ ।
+kalā ca sā kāntimatī kalāvataḥ
+tvamasya lokasya ca netrakaumudī ।।}

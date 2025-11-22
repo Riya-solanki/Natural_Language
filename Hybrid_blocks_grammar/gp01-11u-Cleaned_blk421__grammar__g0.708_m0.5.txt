@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 421 | label: grammar | g:0.708 m:0.5 ---
+
+[] sarve sa-bāṣpa-pulaka-kulam ūcuḥ-bṛhad-vanam asmākam ida bṛhat-tīrthaṃ bhavati । tasmād asmabhyaṃ datta-viśrāntike kṛṣṇāntike sphuṭam uṭajaṃ tava ghaṭayāmaḥ ।

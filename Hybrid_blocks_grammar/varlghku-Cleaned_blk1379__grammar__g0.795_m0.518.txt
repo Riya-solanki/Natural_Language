@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1379 | label: grammar | g:0.795 m:0.518 ---
+
+indravaruṇabhavaśarvarudramṛḍahimāraṇyayavayavanamātulacāryāṇāmānuk ।।
+eṣāmānugāgamaḥ syāt ṅīṣ ca । indrasya strī - indrāṇī । varuṇānī । śarvāṇī । mṛḍānī । mahaddhimaṃ himānī । mahadaraṇyamaraṇyānī । । । yavanānāṃ lipiryavanānī । । upādhyāyānī, upādhyāyī । ācāryasya strī ācāryānī । kṣatriyāṇī, kṣatriyā ।।

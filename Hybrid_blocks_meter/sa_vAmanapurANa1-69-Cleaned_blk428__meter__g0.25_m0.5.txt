@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 428 | label: meter | g:0.25 m:0.5 ---
+
+brahmastre tu praśamite prahlādaḥ krodhamūrchitaḥ ।
+gadāṃ pragṛhya tarasā pracaskanda rathottamāt ।।

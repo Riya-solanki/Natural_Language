@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 135 | label: meter | g:0.25 m:0.521 ---
+
+śarīrādisambandhaḥ pratibandhaheturiti cet? na, śarīrādīnāmupabhogārthatvāt, viparyayasya cānanumānāt।
+syānmatam, saṃsārāvasthasya śarīrādisambandho nityasukhasaṃvedanahetoḥ pratibandhakaḥ, tenāviśeṣo nāstīti।
+etaccāyuktam, śarīrādaya upabhogārthāste bhogapratibandhaṃ kariṣyantītya nupapannam ।
+na cāstyanumānamaśarīrasyātmano bhogaḥ kaścidastīti।।

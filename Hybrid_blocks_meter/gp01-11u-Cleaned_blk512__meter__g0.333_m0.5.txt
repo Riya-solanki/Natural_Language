@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 512 | label: meter | g:0.333 m:0.5 ---
+
+[] dūta uvāca-"atha kiṃ? yata eva tadīya-caraṇa-hitaḥ prahitas tenāham ayam asmi ।"

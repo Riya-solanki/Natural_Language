@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6970 | label: hybrid | g:0.521 m:0.5 ---
+
+tvaṃ vedī tvaṃ hare dīkṣā tvaṃ yūpastvaṃ hutāśanaḥ ।
+tvaṃ patnī tvaṃ puroḍāśastvaṃ śālā strukca tvaṃ stuvaḥ ।।

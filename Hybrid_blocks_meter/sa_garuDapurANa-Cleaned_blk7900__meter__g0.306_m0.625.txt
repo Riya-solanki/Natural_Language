@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7900 | label: meter | g:0.306 m:0.625 ---
+
+bhaktiyogena santuṣṭa ātmānaṃ darśayedajaḥ ।
+tataḥ kṛtārtho bhavati sadā sarvatra niḥ spṛhaḥ ।।

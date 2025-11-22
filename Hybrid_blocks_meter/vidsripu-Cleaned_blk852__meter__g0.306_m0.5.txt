@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 852 | label: meter | g:0.306 m:0.5 ---
+
+viṭapini śiśiracchāye kṣaṇam iha viśramya gamyatāṃ pathikāḥ ।
+ataruvārir ataḥ param asamaśilādurgamo mārgaḥ ।।

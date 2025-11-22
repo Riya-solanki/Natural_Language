@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 277 | label: hybrid | g:0.51 m:0.5 ---
+
+hetau mārge ca duḥkhe ca nirodhe ca yathākramam ।
+aṣṭau te sapta pañceti ṣoḍaśeti ca kīrtitāḥ ।।

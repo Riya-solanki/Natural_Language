@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7774 | label: meter | g:0.306 m:0.5 ---
+
+māsyaṣṭame duḥ khade tu pare bhuktvātha sodakam ।
+piṇḍaṃ prayātsayau tārkṣya nānākrandapuraṃ tataḥ ।।

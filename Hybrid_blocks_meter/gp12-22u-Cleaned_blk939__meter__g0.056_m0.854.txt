@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 939 | label: meter | g:0.056 m:0.854 ---
+
+yathābhyaṣiñcāma vayaṃ vrajeśitaḥ
+saṃsajya govindatayā sutaṃ tava ।
+samaṃ samastaiḥ kṛta-maṅgalaṃ tathā
+taṃ yauvarājyena javād virājaya ।। [upajāti ]

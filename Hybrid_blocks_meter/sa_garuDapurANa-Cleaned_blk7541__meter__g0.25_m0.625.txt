@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7541 | label: meter | g:0.25 m:0.625 ---
+
+dakṣiṇāgrahastayostu kṛtvātha satilaṃ jalam ।
+ādāyāñjalinā yāmyāṃ duḥ khī paitṛkatīrthataḥ ।।

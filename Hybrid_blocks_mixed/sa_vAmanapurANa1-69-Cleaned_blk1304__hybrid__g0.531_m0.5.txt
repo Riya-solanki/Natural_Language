@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1304 | label: hybrid | g:0.531 m:0.5 ---
+
+sa eva putri nṛpatestanūjo dṛṣṭaḥ purā kāmayase yamadya ।
+sa eva cāyāti mamāśramaṃ vai ṛkṣātmajaḥ saṃvaraṇo hi nāmnā ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 178 | label: grammar | g:0.75 m:0.5 ---
+
+iti sadā bhāvayantaṃ, samprati cātivyagrībhavantaṃ vraja-yuvarājaṃ prati samāśvāsanayā viśvāsanayā ca tāṃ vyavahitāṃ kurvāṇāḥ, prāṇa-tulyāḥ paramālyas tadīya-tāmbūlodgārādi-saṃvalanayā cetanām ālambayanti; samantād api sāntvitām atha pṛcchanti ca, "hanta, keyaṃ tava rītiḥ?" iti ।

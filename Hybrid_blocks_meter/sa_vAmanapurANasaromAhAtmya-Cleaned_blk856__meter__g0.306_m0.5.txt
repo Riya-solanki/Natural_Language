@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 856 | label: meter | g:0.306 m:0.5 ---
+
+śṛṇvanti bahavo yatra tatra vyākhyā na vidyate ।
+asya vratasya subhagā iti matvā gamiṣyatha ।।

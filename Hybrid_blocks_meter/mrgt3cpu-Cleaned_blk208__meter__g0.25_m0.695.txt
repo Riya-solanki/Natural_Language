@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 208 | label: meter | g:0.25 m:0.695 ---
+
+tadvacca paśunā dṛṣṭe spṛṣṭe daśaguṇaṃ japet ।
+hāritārdhaṃ guṇacchede saṃkhyāsūtrasya doṣanut ।
+tyāgaśca kaphaviṇmūtra- spṛṣṭasyānyatra taijasāt ।

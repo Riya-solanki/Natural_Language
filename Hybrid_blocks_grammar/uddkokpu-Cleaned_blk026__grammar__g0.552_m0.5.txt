@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 26 | label: grammar | g:0.552 m:0.5 ---
+
+sā vaidagdhī śrutiṣu sa punaḥ sarvaśāstrāvagāhas taccāmlānaprasarasarasaṃ niṣkalaṅkaṃ kavitvam ।
+tatratyānāṃ kimiha bahunā sarvametat paṭhantaḥ śṛṅge śṛṅge gṛhaviṭapināṃ spaṣṭayiṣyanti kīrāḥ ।।

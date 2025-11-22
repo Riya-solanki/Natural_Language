@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1758 | label: meter | g:0.306 m:0.5 ---
+
+jātā sā cāha deveśaṃ gaccha dautyena śaṅkara ।
+brūhi śumbhaṃ niśumbhaṃ ca yadi jīvitumicchatha ।।

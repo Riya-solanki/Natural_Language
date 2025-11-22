@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 841 | label: meter | g:0.25 m:0.5 ---
+
+athāśoko mahārāja upaguptaṃ yatiṃ gurum ।
+kṛtāñjalipuṭo natvā prārthayac ca tathādarāt ।।

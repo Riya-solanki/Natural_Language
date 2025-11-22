@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 420 | label: grammar | g:0.75 m:0.5 ---
+
+ityuktvā daṃṣṭrākarālavadanāni dīptapiṅgala kekararaudranayanāni sphuṭitacipiṭavirūpaghoṇāni jvaladanalakapilakeśaśmaśrūṇi sajalajaladharāndhakārāṇi vikṛtabhīṣaṇāni svānyeva vapūṃṣi pratyapadyanta । samabhivīkṣya cainānsa rājāpiśācāḥ khalvime na mānuṣāstenāsmadīyamannapānaṃ nābhilaṣantīti niścayamupajagāma ।

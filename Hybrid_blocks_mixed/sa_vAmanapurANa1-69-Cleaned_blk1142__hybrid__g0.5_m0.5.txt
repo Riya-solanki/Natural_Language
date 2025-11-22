@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1142 | label: hybrid | g:0.5 m:0.5 ---
+
+ityevamuktvā kalaśodbhāvastu sūryaṃ hi saṃstūya vinamya bhaktyā ।
+jagāma saṃtyajya hi daṇḍakaṃ hi vindhyācalaṃ vṛddhvapurmaharṣiḥ ।।

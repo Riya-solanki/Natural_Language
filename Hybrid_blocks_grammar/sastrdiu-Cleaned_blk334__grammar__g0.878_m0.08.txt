@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 334 | label: grammar | g:0.878 m:0.08 ---
+
+evābhāvasya bodhakaḥ smaraṇajñānasyāpi yogyatve satyanudayo bhāvaṃ bodhayatyeva, tena saṃprati dṛśyamāno api ghaṭo yadi prāgapyāsīttato avaśyaṃ tatra sthitena pramitaḥ syāt, pramitaścādhunā smartavyaḥ syāt, evaṃ satyapi na smaryate so ayaṃ smartavyaviṣayasmaraṇānudayaḥ saṃprati vidyamānaḥ saṃpratitanaṃ prākkālīnābhāvaviṣayaṃ vijñānaṃ janayatīti na kiñcidanupapannam ।
+bhāṣye ca pramāṇābhāvaśabdaḥ smaraṇābhāvasyāpyupalakṣaṇārthaḥ, tathā vārtike api ।
+yadvā pramāṇasya smaraṇaphalatvāttadabhāvo api phalataḥ pramāṇābāva eveti śakyate vaktum ।।

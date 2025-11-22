@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 41 | label: meter | g:0.212 m:0.576 ---
+
+kintu,
+candramā rādhikā-vaktram anukurvan virājate ।
+tadākāram idaṃ cetaḥ kathaṃ mama vidūyate? ।। [anuṣṭubh]

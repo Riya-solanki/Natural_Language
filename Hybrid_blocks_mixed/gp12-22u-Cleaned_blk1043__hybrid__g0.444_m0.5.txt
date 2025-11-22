@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1043 | label: hybrid | g:0.444 m:0.5 ---
+
+yaḥ kaścic chikṣakas tasmād bhavadbhiḥ suṣṭhu śikṣitam ।
+abhyasyatha vraje tac ca sva-guror māna-vṛddhaye ।। [anuṣṭubh]

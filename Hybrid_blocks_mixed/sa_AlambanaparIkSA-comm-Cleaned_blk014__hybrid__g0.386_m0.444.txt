@@ -1,0 +1,5 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 14 | label: hybrid | g:0.386 m:0.444 ---
+
+yadi manyase grīvādyākāraḥ viśeṣakriyā yena buddherviśeṣaṇamupādhirbhavet । iti । ayamupādhirdhaṭādāvasti ।
+nāsti tu dravyasatyaṇau ।।
+pramāṇabhedābhāvāt saḥ

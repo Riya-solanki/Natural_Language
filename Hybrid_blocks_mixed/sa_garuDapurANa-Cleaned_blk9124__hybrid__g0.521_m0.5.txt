@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9124 | label: hybrid | g:0.521 m:0.5 ---
+
+ahaṃ dātā ahaṃ grāhī ahaṃ yajvā ahaṃ kratuḥ ।
+ahaṃ hartā ahaṃ dharmo ahaṃ pṛthvī hyahaṃ jalam ।।

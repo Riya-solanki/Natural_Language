@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4534 | label: meter | g:0.194 m:0.625 ---
+
+tān uvāca hṛṣīkeśaḥ praṇāmāvanatān sthitān 
+vivaraṃ gacchato me adya rathamārgaḥ pradīyatām ।।

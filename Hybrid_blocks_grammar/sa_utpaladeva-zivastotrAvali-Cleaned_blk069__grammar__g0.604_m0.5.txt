@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 69 | label: grammar | g:0.604 m:0.5 ---
+
+keva na syād dṛśā teṣāṃ sukhasambhāranirbharā yeṣām ātmādhikeneśa na kvāpi virahas tvayā ।।

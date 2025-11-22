@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 692 | label: grammar | g:0.552 m:0.5 ---
+
+gato dūraṃ candro jaṭharalavalīpāṇḍuravapur diśaḥ kiṃcit kiṃcit taraṇikiraṇair lohitarucaḥ ।
+idaṃ nidrācchede rasati sarasaṃ sārasakulaṃ cakorākṣi kṣipraṃ jahihi jahihi premalaḍitam ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 1021 | label: meter | g:0.25 m:0.5 ---
+
+madyāranālapānaṃ tailaṃ dadhi vā rase neṣṭam ।
+kaṭutailenābhyaṅgaṃ vapuṣi na kuryādrasāyane matimān ।।

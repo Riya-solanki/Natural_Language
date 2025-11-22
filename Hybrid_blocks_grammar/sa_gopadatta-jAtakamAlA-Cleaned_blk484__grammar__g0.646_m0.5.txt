@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 484 | label: grammar | g:0.646 m:0.5 ---
+
+tataḥ sa puruṣo hā heti mūrdhnā [!] pravidāhajena tīvreṇa duḥkhena samākramyamāṇaśarīrakaṃ maitrakanyakaṃ bodhisattvam āha ।

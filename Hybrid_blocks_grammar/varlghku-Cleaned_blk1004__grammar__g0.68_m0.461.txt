@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1004 | label: grammar | g:0.68 m:0.461 ---
+
+caturthī tadarthārthabalihitasukharakṣitaiḥ ।।
+caturthyantārthāya yat tadvācinā arthādibhiśca caturthyaṃntaṃ vā prāgvat । yūpāya dāru yūpadāru । । teneha na - randhanāya sthālī । । dvijārthā yavāgūḥ । bhūtabaliḥ । gosukham ।।

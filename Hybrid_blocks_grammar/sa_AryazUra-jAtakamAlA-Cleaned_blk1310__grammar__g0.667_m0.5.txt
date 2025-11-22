@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1310 | label: grammar | g:0.667 m:0.5 ---
+
+atha naiṣādastasya nirbandhāt paśyatu tāvadatyadbhutamidaṃ haṃsayutaṃ sa rājeti kṛtvā te haṃsamukhyau kācenādaya svasthāvabaddhau rājñe darśayāmāsa ।

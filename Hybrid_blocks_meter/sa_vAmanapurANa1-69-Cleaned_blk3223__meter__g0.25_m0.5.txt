@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3223 | label: meter | g:0.25 m:0.5 ---
+
+tato amṛtarasāsvādād vinā bhūtāḥ surattamāḥ ।
+nirjitāḥ samare daityaiḥ samaṃ skandena nārada ।।

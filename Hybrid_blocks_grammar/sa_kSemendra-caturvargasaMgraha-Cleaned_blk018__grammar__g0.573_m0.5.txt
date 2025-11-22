@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 18 | label: grammar | g:0.573 m:0.5 ---
+
+klinnaṃ koṣaniṣaṇṇam arthiviphalaṃ śalyāyate yatparaṃ vittaṃ kleśānimittam eva malinaṃ yātu svayaṃ tatkṣayam ।
+yatkāruṇyaparopakāravikalaṃ bhūbhārabhūtaṃ vapuḥ svārthāsaktam anarthasārthasadanaṃ mā māstu tat kasyacit ।।

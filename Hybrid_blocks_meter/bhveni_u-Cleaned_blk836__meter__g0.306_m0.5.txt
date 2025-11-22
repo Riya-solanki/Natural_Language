@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 836 | label: meter | g:0.306 m:0.5 ---
+
+vṛṣaseno na te putro na me duḥśāsano anujaḥ ।
+tvāṃ bodhayāmi kimahaṃ tvaṃ māṃ saṃsthāpayiṣyasi ।।

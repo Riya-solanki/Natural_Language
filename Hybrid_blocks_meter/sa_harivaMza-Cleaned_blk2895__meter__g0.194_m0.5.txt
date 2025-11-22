@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2895 | label: meter | g:0.194 m:0.5 ---
+
+pūtanāyāṃ hatāyāṃ ca kāliye ca parājite 
+dhenuke pralayaṃ nīte pralambe ca nipātite ।।

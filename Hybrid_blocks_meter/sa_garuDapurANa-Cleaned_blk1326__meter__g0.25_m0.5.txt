@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1326 | label: meter | g:0.25 m:0.5 ---
+
+ājyaṃ tayoḥ sahakāri tatpradhānaṃ yadaṅka yoḥ ।
+paruṣasuktaṃ pūrveṇaiva rudracaiva tu dakṣiṇe ।।

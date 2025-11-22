@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 1866 | label: meter | g:0.306 m:0.573 ---
+
+evam āmukham āyojya sūtradhāre sahānuge ।
+niṣkrānte' that tad-ākṣiptaiḥ pātrair vastu prapañcayet ।। 
+vastu sarvaṃ dvidhā sūcyam asūcyam iti bhedataḥ ।
+rasa-hīnaṃ bhaved atra vastu tat sūcyam ucyate ।। 
+yad vastu nīrasaṃ tat tu sūcayet sūcakās tv amī ।
+viṣkambha-cūlikāṅkāsyāṅkāvatāra-praveśakāḥ ।।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 516 | label: hybrid | g:0.455 m:0.5 ---
+
+viśvacikīr api sa vidhiḥ pipaṭhīr yasmād bhavet tasmin ।
+ko vā caturaṃ-manyaḥ prathayatu nija-cāturīṃ kṛṣṇe ।। [upagīti]

@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 199 | label: meter | g:0.0 m:0.75 ---
+
+nirvṛtte tvaṅgasattvābhyāṃ dve triṣvāṅgikasāttvike śṛṅgāravīrakaruṇādbhutahāsyabhayānakāḥ

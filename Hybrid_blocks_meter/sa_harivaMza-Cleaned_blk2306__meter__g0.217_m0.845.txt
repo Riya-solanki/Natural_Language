@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2306 | label: meter | g:0.217 m:0.845 ---
+
+ekapramāṇau lokānāṃ devavṛttāntamānuṣau 
+kṛtsnasya jagato gopau saṃvṛttau gopadārakau ।।

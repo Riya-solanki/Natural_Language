@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9142 | label: meter | g:0.25 m:0.667 ---
+
+āsanaṃ bhājanaṃ bhojyaṃ dīyate yaddvijāyate ।
+sukhe na bhuñjamānastu dena gacchatyalaṃ pathi ।।
+kamaṇḍalupradānena tṛṣitaḥ pibate jalam ।।
+bhājanaṃ vastradānañca kusumañcāṅgulīyakam ।
+ekādaśā he dātavyaṃ pretoddharaṇahetave ।।

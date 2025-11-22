@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 241 | label: grammar | g:0.583 m:0.5 ---
+
+valanāgrān nayen madhyaṃ sūtraṃ yady atra saṃspṛśet। tatsamāse tato deyau vikṣepau grāsamaukṣikau।।

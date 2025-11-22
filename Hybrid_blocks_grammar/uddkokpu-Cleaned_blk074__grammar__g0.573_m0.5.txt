@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 74 | label: grammar | g:0.573 m:0.5 ---
+
+śāstā tasyā yadi taṭapathaiḥ śambarakroḍavāsī tiṣṭhannaśve javini mṛgayākautukī sañcareta ।
+lumpestasya śramajalakaṇān komalaiḥ pakṣavātair bhūyāt prītyai laghu ca samaye sevanaṃ hi prabhūṇām ।।

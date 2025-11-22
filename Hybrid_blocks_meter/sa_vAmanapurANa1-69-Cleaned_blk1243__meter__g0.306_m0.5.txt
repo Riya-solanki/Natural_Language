@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1243 | label: meter | g:0.306 m:0.5 ---
+
+vajraṃ surendrasya ca vigrahe asya muktaṃ susūkṣmatvamupājagāma ।
+saṃtyajya siṃhaṃ mahiṣāsurasya durgādhirūḍhā sahasaiva pṛṣṭham ।।

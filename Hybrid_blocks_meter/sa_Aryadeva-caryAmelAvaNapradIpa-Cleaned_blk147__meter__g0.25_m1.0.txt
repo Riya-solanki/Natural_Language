@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 147 | label: meter | g:0.25 m:1.0 ---
+
+svādhidaivatpratimukhaiḥ suprasādhitayoṣitam ।
+svamudrācinhasubhagāṃ kalpayed gaṇamaṇḍalam ।।

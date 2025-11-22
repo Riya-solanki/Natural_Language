@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 20 | label: meter | g:0.25 m:1.0 ---
+
+jayati śaśikhaṇḍamaṇḍitavikaṭajaṭāmukuṭasaṃkaṭalalāṭam ।
+sphuṭadaśanakiraṇavikasitamukhakamalacatuṣṭayaṃ śaṃbhoḥ ।।

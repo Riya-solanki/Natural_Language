@@ -1,0 +1,6 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2160 | label: meter | g:0.25 m:0.521 ---
+
+badhvā caikavarāṃ samyag[mudrāṃ] samayasaṃjñitāṃ ।।
+tayā gṛhya tu vai padmaṃ dadyād vaśyakaro bhavet ।।
+badhvā cakatamāṃ mudrāṃ samādhivihitāṃ śubhāṃ ।
+jñānapadmaṃ dadedyasya so asya śīghaṃ vaśībhavet ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 188 | label: meter | g:0.306 m:0.5 ---
+
+tamāpatantaṃ śatasūryakalpaṃ sudarśanaṃ vīkṣya gaṇeśvarastu ।
+śūlaṃ parityajya jagāra cakraṃ yathā madhuṃ mīnavapuḥ surendraḥ ।।

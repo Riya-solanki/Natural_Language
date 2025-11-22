@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 133 | label: meter | g:0.194 m:0.625 ---
+
+bhaviṣyaty ādhipatyatvaṃ parvato ayaṃ tavodbhavaḥ 
+viṣuvena tu yogena yenedaṃ saṃskṛtaṃ tvayā ।।

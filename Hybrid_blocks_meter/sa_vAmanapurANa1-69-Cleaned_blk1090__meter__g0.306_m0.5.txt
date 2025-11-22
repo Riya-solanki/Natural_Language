@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1090 | label: meter | g:0.306 m:0.5 ---
+
+yacca prārthayase vīra taddadāmi yathepsitam ।
+mā mriyasva mṛtasyeha naṣṭā bhavati vai kathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 104 | label: meter | g:0.194 m:0.625 ---
+
+sākṣātkārakṣaṇe apy asti vimarśaḥ katham anyathā 
+dhāvanādy upapadyeta pratisaṃdhānavarjitam ।।

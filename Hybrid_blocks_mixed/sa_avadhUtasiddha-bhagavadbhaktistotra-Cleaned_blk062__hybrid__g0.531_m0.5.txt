@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 62 | label: hybrid | g:0.531 m:0.5 ---
+
+āyāsakena khalu kāmapiśācakena krodhagraheṇa ca punar niravagraheṇa ।
+grastasya viklavadhiyaḥ pravimuktihetor yat kṛtyam atra mama tatra tavaiva śaktiḥ ।।

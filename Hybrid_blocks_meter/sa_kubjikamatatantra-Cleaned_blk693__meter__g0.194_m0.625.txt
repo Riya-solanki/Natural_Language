@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 693 | label: meter | g:0.194 m:0.625 ---
+
+tadūrdhvam iha nādāntaṃ vibhvī śūnyam udāhṛtam 
+janmasthānāt samudyantī yāvat tadbhavamaṇḍalam ।।

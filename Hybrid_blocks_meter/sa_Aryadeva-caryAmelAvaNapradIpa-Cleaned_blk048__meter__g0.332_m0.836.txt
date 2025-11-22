@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 48 | label: meter | g:0.332 m:0.836 ---
+
+śubhāśubhaphalaṃ tyaktvā bhavatyeva nabhopamaḥ ।। iti । 
+prāṇāpānasamānākhyānudānavyānasaṃjñakān ।
+nāgakūrmakṛkarāṃśca devadattadhanañjayān ।।

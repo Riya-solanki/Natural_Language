@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5823 | label: meter | g:0.293 m:0.814 ---
+
+śatrīnhalena me hanyādrāmo yādavanandanaḥ ।
+pralambakeśicāṇūrapūtanākaṃsanāśanaḥ ।
+kṛṣṇasya yo bālabhāvaḥ sa me kāmānprayacchatu ।।

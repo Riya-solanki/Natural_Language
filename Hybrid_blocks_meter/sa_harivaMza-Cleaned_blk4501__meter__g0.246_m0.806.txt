@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4501 | label: meter | g:0.246 m:0.806 ---
+
+yuyudhānapurogāś ca vṛṣṇyandhakamahārathāḥ 
+sarve yuktarathāḥ sajjāḥ svayaṃ cāhaṃ tathābhavam ।।

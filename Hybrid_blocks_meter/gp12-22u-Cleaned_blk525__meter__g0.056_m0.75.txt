@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 525 | label: meter | g:0.056 m:0.75 ---
+
+tataḥ prahata-mastakaṃ rudhira-rūṣitaṃ tad vapuḥ
+patat tulitam ujjahat pratihari drutaṃ pupluve ।
+yathāñjana-mahī-dharaṃ dalitam akta-rakta-dravaṃ
+tyajan dravati vajrakaḥ sapadi vajra-pāṇiṃ prati ।। [pṛthvī]

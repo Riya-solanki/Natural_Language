@@ -1,0 +1,3 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 80 | label: hybrid | g:0.5 m:0.5 ---
+
+{cd add the following after vs śaucasobhanādikaṃ kṛtvā vratinaḥ maurikuṇḍalasarvābharaṇagāṃgopayādivastra śobhayen mālāpuṣpa lohayen maṇḍalī prajvālayen vistareṇopaḍoṣita gandhāya te agrata dhūpayet sarvapāpaprasamanaṃ bhavati}

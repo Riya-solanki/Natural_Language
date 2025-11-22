@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10201 | label: hybrid | g:0.542 m:0.5 ---
+
+na vai kṣitīśā na ca mānuṣāśca viṣṇorna jānanti kimatra cānye ।
+mattodhamaḥ kociguṇena brahmā samo hi tasya brahmaṇo mātariśva ।।

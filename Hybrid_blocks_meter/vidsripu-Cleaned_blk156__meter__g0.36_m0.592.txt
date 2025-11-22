@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 156 | label: meter | g:0.36 m:0.592 ---
+
+devo harir jayati yajñavarāharūpaḥ sṛṣṭisthitipralayakāraṇam eka eva ।
+yasyodarasthitajagattrayabījakośa- nirgacchadaṅkuraśikheva vibhāti daṃṣṭrā ।।
+sonnokasya

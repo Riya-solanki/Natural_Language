@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 590 | label: meter | g:0.25 m:0.926 ---
+
+anyathānumitau ca jñaśaktiviyogāt ।
+evamapi pradhānasyeti ।
+aṅgitvānupapattilakṣaṇo doṣastāvanna bhavadbhiḥ śakyaḥ parihartumiti vakṣyāmaḥ ।
+abhyupagamyāpyasyādoṣatvamucyata ityarthaḥ ।
+saṃpratyaṅgitvānupapattimupapādayati vaiṣamyopagamayogyā apīti ।।

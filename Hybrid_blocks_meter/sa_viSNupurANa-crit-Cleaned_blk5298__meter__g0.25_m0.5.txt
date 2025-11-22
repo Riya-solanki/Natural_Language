@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5298 | label: meter | g:0.25 m:0.5 ---
+
+sthūlā madhyās tathā sūkṣmāḥ sūkṣmāt sūkṣmatarāś ca ye 
+dehabhedā bhavān sarve ye kecit pudgalāśrayāḥ ।।

@@ -1,0 +1,9 @@
+--- source: gp01-11u-Cleaned.txt | block: 1020 | label: meter | g:0.078 m:0.571 ---
+
+visārya vatsān āvārya paritaḥ śādvale sthale ।
+khelāṃ cakrur mitho melād āvelāṃ bhojanāgateḥ ।। [anuṣṭubh]
+yathā,
+veṇuṃ vādayatoḥ phalādi kiratoḥ śiñjat-tulākoṭi-bhāg-
+aṅghribhyāṃ kṣipator vṛṣānukaraṇaiḥ saṃyudhyator etayoḥ ।
+bhrātror nirjayinor mitho drava-vaśād uccaiḥ sakhāyaś ca te
+pārṣṇi-grāhatayā yudhaṃ vidadhataḥ kolāhalaṃ cakrire ।। [śārdūla]

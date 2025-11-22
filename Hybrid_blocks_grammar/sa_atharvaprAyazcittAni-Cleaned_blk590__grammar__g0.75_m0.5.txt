@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 590 | label: grammar | g:0.75 m:0.5 ---
+
+mitro janān yātayati bruvāṇo mitro dādhāra pṛthivīm uta dyāṃ । mitraḥ kṛṣṭīr animiṣābhicaṣṭe mitrāya havyaṃ ghṛtavaj juhota svāhā iti mantrasaṃskṛtaṃ ।

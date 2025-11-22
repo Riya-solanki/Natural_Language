@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2101 | label: meter | g:0.194 m:0.625 ---
+
+sarvam eva na paśyeta sadyam eva vinaśyati 
+bhrūmadhyagatam ātmānaṃ ṣaḍaṅgena mahāmate ।।

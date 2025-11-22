@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3398 | label: meter | g:0.25 m:0.625 ---
+
+ete kṣatraprasūtā vai punaś cāṅgirasāḥ smṛtāḥ ।
+rathītarāṇāṃ pravarāḥ kṣatropetā dvijātayaḥ ।।

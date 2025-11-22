@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4405 | label: meter | g:0.194 m:1.0 ---
+
+duryodhanamukhāḥ sarve dhṛtarāṣṭravaśānugāḥ 
+pāṇḍavapramukhāś caiva dhṛṣṭadyumnādayo nṛpāḥ ।।

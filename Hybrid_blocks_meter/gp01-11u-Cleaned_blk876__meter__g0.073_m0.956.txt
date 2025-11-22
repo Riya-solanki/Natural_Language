@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 876 | label: meter | g:0.073 m:0.956 ---
+
+śyāmāṅga-dyuti kiṅkiṇi-dhvani-dharaṃ riṅgātiraṅga-pradaṃ
+karṣac chaśvad udūkhalaṃ khara-kharat-kāra-prakāra-pratham ।
+visphūrja-pratimārjuna-dvaya-kaṭat-kārārjitāt kautukāt
+paryāvṛtta-nirīkṣaṇaṃ vraja-vadhū-lālyasya bālyaṃ stuve ।। [śārdūla]

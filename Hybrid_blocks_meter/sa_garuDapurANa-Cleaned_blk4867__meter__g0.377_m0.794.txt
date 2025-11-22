@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4867 | label: meter | g:0.377 m:0.794 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantarīruvāca ।
+vātaraktanidānaṃ te vakṣye suśruta tacchṛṇu ।
+viruddhādhyaśanakrodhadivāsvapnaprajāgaraiḥ ।।

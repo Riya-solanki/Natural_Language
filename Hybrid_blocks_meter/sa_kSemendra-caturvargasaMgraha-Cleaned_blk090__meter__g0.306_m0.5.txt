@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 90 | label: meter | g:0.306 m:0.5 ---
+
+dṛṣṭā bālakaceṣṭā yauvanadarpo atha vṛddhavairāgyam ।
+sāpi gatā so api gatas tad api gataṃ svapnamāyeyam ।।

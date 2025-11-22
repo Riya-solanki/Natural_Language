@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7790 | label: meter | g:0.302 m:0.806 ---
+
+trayodaśa pratīhārāḥ śravaṇā nāma tatra vai ।
+śravaṇākarmatastuṣyantyanyathā krodhamāpnuyuḥ ।।

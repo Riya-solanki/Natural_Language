@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 79 | label: hybrid | g:0.25 m:0.488 ---
+
+duṣṭatvamāpannamiti balādapramāṇyaṃ vedasya prasajyata ityāstāṃ tāvat ।
+tasmādanāptāvacasāṃ satyevāprāmāṇye vaktṛdoṣādhīnatvādvede ca tadabhāvātprāmāṇyameva vaktavyam ।
+tasmāccodanālakṣaṇa eva dharmaḥ śreyaskaraḥ ityarthaḥ ।
+yadeva śreyaḥsādhanarūpaṃ yāgahomādi tadeva dharma ityucyate loke, nāpūrvamantaḥkaraṇapravṛttyādi vā lokaprasiddhivirahāt ।।

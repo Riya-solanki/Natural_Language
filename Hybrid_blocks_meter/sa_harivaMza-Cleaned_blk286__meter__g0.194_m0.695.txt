@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 286 | label: meter | g:0.194 m:0.695 ---
+
+dugdheyaṃ vṛkṣavīrudbhiḥ śrūyate ca vasuṃdharā 
+pālāśaṃ pātram ādāya cchinnadagdhaprarohaṇam ।। 
+sarvakāmadughā dogdhrī pṛthivī janamejaya । 
+seyaṃ dhātrī vidhātrī ca pāvanī ca vasuṃdharā 
+carācarasya sarvasya pratiṣṭhā yonir eva ca 
+sarvakāmadughā dogdhrī sarvasasyaprarohiṇī ।।

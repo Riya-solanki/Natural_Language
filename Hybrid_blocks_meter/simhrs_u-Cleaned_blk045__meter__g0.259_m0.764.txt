@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 45 | label: meter | g:0.259 m:0.764 ---
+
+atha dakṣatā-
+duṣkare kṣipra-kāritvaṃ dakṣatāṃ paricakṣate ।।

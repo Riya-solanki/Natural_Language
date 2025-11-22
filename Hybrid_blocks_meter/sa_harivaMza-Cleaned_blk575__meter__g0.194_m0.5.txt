@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 575 | label: meter | g:0.194 m:0.5 ---
+
+sa mām uvāca prītātmā kathānte bahuvārṣike 
+rame tvayāhaṃ viprarṣe śṛṇu sarvaṃ yathātatham ।।

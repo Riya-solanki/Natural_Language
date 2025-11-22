@@ -1,0 +1,3 @@
+--- source: brssgo1u-Cleaned.txt | block: 403 | label: meter | g:0.25 m:0.5 ---
+
+kathaṃ punarākaśavatsarvagatasya brahmaṇo akṣyalpasthānamupapadyata iti ।

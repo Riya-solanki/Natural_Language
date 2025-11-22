@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3436 | label: meter | g:0.25 m:0.692 ---
+
+prahlāda uvāca ।
+tāta mohena me jñānaṃ vivekaśca tiraskṛtaḥ ।
+yena sarvagataṃ viṣṇuṃ jānaṃstvāṃ saptavānaham ।।

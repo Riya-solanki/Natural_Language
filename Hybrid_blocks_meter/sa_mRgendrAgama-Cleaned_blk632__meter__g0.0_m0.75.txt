@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 632 | label: meter | g:0.0 m:0.75 ---
+
+ābhāti mūlasūtraṃ tad athaśabdādyalaṃkṛtam b

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 872 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha sura-pure sureśasya vṛttam anuvṛtyatām । [] ito gatvā dainyaṃ matvā skhalad-ojā viḍaujāḥ kṣayaṃ gacchann apy asau kṣayam ṛcchann iva sthitavān na tu śacīm acīkamata, na ca nirjara-sadasi nirjagāma ।

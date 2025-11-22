@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 20 | label: meter | g:0.326 m:0.774 ---
+
+te tamṛgbhiryajurbhiśca sāmabhiścāstuvannatāḥ 
+so abravīducyatāṃ kāmo jagatsu pravaro api yaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3883 | label: grammar | g:0.667 m:0.5 ---
+
+tac ca dvidhā gatam apatyadvayaṃ kumāraḥ kanyakā cābhavat । mṛgayām upagataḥ śāntanur dṛṣṭvā kṛpayā jagrāha ।।

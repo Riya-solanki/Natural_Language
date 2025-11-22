@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1118 | label: meter | g:0.056 m:0.625 ---
+
+lajjā-saṃvaraṇārtham asaṃvara-madhur bālā bhṛśaṃ lajjitās
+tarhi svāṅga-vṛtiṃ dadhur muhur aho vyaktāntaraṅgārati ।
+kṛṣṇād alpa-vivṛtta-vaktra-kamalās tasthur dṛgantaḥ punas
+tatrāgād vraja-subhruvām ahaha bhoḥ kāmasya vāmā gatiḥ ।। [śārdūla]

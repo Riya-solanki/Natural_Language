@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 277 | label: meter | g:0.271 m:0.5 ---
+
+agraṃ nidhāna ayu uttamadharmakośa buddhāna gotrajananaṃ sukhasaukhyagañjo 
+atikrāntanāgata daśaddiśi lokanāthā itu te prasūta na ca kṣīyati dharmadhātuḥ ।।

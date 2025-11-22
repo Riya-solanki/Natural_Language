@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1756 | label: meter | g:0.25 m:0.5 ---
+
+sa diśaḥ pradiśaś caiva khaṃ ca gāṃ caiva pūrayan 
+vavṛdhe sa punar lokān krāntukāma ivaujasā ।।

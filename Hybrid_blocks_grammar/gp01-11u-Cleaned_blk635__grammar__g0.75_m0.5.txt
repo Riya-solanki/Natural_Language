@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 635 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca, tad-viḍamba-vādiṣu bālādiṣu hasatsu bībhatsita-bāliśa-bhāṣitāḥ parama-vatsalā vicikitsāṃ na dhitsāṃ cakruḥ । pūtanā-vadhāvadhāritānuvāditayā karkaśa-tarka-cakra-niruddha-buddhayas tu cakruḥ । [] pitā tu punaḥ svasti-vācanābhiṣecanādinā vipra-kula-pratoṣaṇādinā sarvāśī-rāśinā ca taṃ laṅgima-bālaṃ maṅgalena saṅgamayāmāsa mātur utsaṅgena ca । tayā ca sva-bāla-lālanā-kalāpa-mayyā gṛhāntaḥ-śayyāyām evāyaṃ śāyyate sma । gopa-mahendrādibhir mahita-mahā-śakaṭaś ca yathā-sthānaṃ ghaṭayāmāse ।

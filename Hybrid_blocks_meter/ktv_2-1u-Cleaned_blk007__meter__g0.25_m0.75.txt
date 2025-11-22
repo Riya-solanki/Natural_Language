@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 7 | label: meter | g:0.25 m:0.75 ---
+
+pramāṇalakṣaṇaṃ tāvac codanālakṣaṇāśrayam ।
+vidhyāditattvanirṇītiḥ pramāṇenaiva ca sthitā ।।

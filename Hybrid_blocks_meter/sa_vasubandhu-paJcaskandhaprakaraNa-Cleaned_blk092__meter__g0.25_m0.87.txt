@@ -1,0 +1,5 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 92 | label: meter | g:0.25 m:0.87 ---
+
+iti saṃskāraskandho nāma ।।
+saṃskāraskandhaḥ soddyeśanirdeśaḥ pariniṣṭhitaḥ ।।
+।। vijñānalakṣaṇam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11659 | label: hybrid | g:0.5 m:0.5 ---
+
+atyuttamaṃ gṛṣṭidānaṃ ca puṇyaṃ naivāpyate dugdhadohāśca gāvaḥ ।
+atyuttame vastradāne subuddhiḥ sudurghaṭā paramā vai janānām ।।

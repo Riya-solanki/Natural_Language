@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 732 | label: meter | g:0.056 m:0.875 ---
+
+{"cāpācāryastripuravijayī kārtikeyo vijeyaḥ
+śastravyastaḥ sadanamudadhirbhūriyaṃ hantakāraḥ ।
+astyevaitat kimu kṛtavatā reṇukākaṇṭhabādhāṃ
+baddhasparddhastava paraśunā lajjate candrahāsaḥ" ।।}

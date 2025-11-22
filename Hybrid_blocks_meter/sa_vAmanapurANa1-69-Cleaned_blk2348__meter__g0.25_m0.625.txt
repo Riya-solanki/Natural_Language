@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2348 | label: meter | g:0.25 m:0.625 ---
+
+tasmānmāmapi suśroṇi tvaṃ paritrātumarhasi ।
+arajaskābravīd daṇḍaṃ tasyā yad vṛttamuttaram ।।

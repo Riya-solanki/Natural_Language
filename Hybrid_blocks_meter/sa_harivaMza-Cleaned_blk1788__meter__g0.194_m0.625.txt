@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1788 | label: meter | g:0.194 m:0.625 ---
+
+ājyabhāgāḥ pravartantāṃ sadasyair abhipūjitāḥ 
+hūyantām agnayo viprair vedadṛṣṭena karmaṇā ।।

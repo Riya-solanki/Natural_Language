@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3622 | label: grammar | g:0.75 m:0.5 ---
+
+sa cākhyātam evaitad yathelāyām ātmajapurūravasam utpādayām āsa । purūravās tv atidānaśīlo atiyajvātitejasvī yaṃ satyavādinam atirūpiṇaṃ mitrāvaruṇaśāpān mānuṣe loke mayā vastavyam iti kṛtamatir urvaśī dadarśa ।।

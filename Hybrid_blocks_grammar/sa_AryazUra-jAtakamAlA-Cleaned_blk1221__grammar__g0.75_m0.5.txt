@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1221 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ krodhavinayācchatrūnupaśamayati, vardhayatyeva tvanyathā, iti krodhavinaye yatnaḥ kāryaḥ । evamavaireṇa vairāṇi śāmyanti, saṃyamataśca vairaṃ na cīyate । evaṃ cobhayorarthaṃ caratyakrodhana ityevamādiṣu kṣamānuśaṃsāpratisaṃyukteṣu sūtreṣu vācyam । krodhādīnavakathāyāṃ tathāgatamāhātmye ceti ।

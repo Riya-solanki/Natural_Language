@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8048 | label: meter | g:0.31 m:0.863 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+svāminkasyādhikāro atra sarva evaurdhvadehike ।
+kriyāḥ katividhāḥ proktā vadaitatsarvameva me ।।

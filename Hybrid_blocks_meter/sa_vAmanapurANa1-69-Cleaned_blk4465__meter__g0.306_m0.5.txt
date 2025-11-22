@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4465 | label: meter | g:0.306 m:0.5 ---
+
+vṛthā yajñā vṛtā vedā vṛthā dānaṃ vṛthā śrutam ।
+vṛthā tapaśca kīrtiśca yo dveṣṭi madhusūdanam ।।

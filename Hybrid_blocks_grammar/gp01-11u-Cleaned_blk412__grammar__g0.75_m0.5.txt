@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 412 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra śrī-vasudevasya tad-aiśvaryālocanena vātsalyasya tāralyaṃ sāralyaṃ cāsāditam । śrī-vrajarājasya punas tad-vātsalyaṃ śaśvad udbuddhaṃ śuddham eva ca prasiddham । pitṛbhyāṃ putratayā tad-dhāraṇe kāraṇaṃ ca munibhir mana eva manyate । āviveśāṃśa-bhāgena mana ānakadundubheḥ [BhP ] ity ādeḥ । dadhāra sarvātmakam ātma-bhūtaṃ kāṣṭhā yathānanda-karaṃ manastaḥ [BhP ] ity ādeś ca । śrī-vraja-rājābhyām api manasā dhāraṇaṃ tasya kāryānyathānupapatti-siddhena bhakti-svābhāvyenaiva sambhāvyate । tatra ca sati sāmprataṃ tu viśeṣata eva sāmprataṃ parāvasthām anu kṛtāsaktau hi bhaktau tad-udayaḥ syāt । tasmāt tavaivātmajas tasya vasudevasya tu kvacit kārye nimitte jātaḥ prādurbhūtaḥ iti ।

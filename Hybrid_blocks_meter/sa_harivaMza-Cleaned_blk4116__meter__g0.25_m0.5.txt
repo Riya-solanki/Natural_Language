@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4116 | label: meter | g:0.25 m:0.5 ---
+
+so apaśyat satyabhāmāṃ ca divyām apsarasaṃ hariḥ 
+pṛṣṭhataḥ satyabhāmā ca divyā yoṣābhivīkṣitā । 
+tataḥ prāyād dvāravatīṃ vāyujuṣṭena vai pathā ।।

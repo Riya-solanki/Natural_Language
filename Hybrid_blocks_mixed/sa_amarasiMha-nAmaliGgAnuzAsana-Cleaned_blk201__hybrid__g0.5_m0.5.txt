@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 201 | label: hybrid | g:0.5 m:0.5 ---
+
+vismayo adbhutamāścaryaṃ citramapyatha bhairavam dāruṇaṃ bhīṣaṇaṃ bhīṣmaṃ ghoraṃ bhīmaṃ bhayānakam bhayaṅkaraṃ pratibhayaṃ raudraṃ tūgramamī triṣu caturdaśa darastrāso bhītirbhīḥ sādhvasaṃ bhayam

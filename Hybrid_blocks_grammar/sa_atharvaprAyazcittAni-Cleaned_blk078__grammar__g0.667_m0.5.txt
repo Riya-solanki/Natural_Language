@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 78 | label: grammar | g:0.667 m:0.5 ---
+
+mā na āpo medhāṃ mā brahma pramathiṣṭana । śuṣyadā yūyaṃ syandadhvam upahūto ahaṃ sumedhā varcasvī ।

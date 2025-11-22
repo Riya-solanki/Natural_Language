@@ -1,0 +1,8 @@
+--- source: brssbh1u-Cleaned.txt | block: 5 | label: hybrid | g:0.288 m:0.46 ---
+
+tatrāthābda ānantaryārthaḥ parigṛhyate nādhikārārthaḥ, brahmajijñāsāyāḥ anadhikāryatvāt ।
+maṅgalasya ca vākyārthe samanvayābhāvāt ।
+arthāntaraprayukta eva śrutyā maṅgalaprayojano bhavati ।
+pūrvaprakṛtāpekṣāyāśca phalata ānantaryāvyatirekāt ।
+sati cānantaryārthatve yathā dharmajijñāsā pūrvavṛttaṃ vedādhyayanaṃ niyamenāpekṣata evaṃ brahmajijñāsāpi yatpūrvavṛttaṃ niyamenāpekṣate tadvaktavyam ।
+svādhyāyānantaryaṃ tu samānam ।

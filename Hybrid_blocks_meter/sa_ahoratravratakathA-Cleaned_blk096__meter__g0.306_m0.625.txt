@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 96 | label: meter | g:0.306 m:0.625 ---
+
+vitānam uccair vitanoti caitye dhanyas triloke paripūjanīyaḥ ।
+viśālavaṃśo guṇarakṣaṇīyo jāto mahādīptaśarīrabhāsaḥ ।।

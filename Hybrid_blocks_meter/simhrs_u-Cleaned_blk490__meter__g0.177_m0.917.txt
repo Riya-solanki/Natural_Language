@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 490 | label: meter | g:0.177 m:0.917 ---
+
+jarayā, yathā-
+rundhānayā bahu-mukhīṃ gatim indriyāṇāṃ
+vadhveva gāḍham anayā jarayopagūḍhaḥ ।
+aṅgena vepathu-matā jaḍatāyujāhaṃ
+gantuṃ padād api padaṃ gadituṃ ca nālam ।।

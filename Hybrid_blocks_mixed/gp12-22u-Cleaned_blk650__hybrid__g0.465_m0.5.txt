@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 650 | label: hybrid | g:0.465 m:0.5 ---
+
+yasmād asau munis te ca munayaḥ sarvataḥ sthitāḥ ।
+tasmāt kāñcit spṛhām atra nāñcitāṃ kartum arhatha ।। [anuṣṭubh]

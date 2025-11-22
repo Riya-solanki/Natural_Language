@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1726 | label: grammar | g:0.75 m:0.5 ---
+
+sa tatra bahumanyamānastadadhyuṣitairdevatāviśeṣairabhigamyamānaśca śreyobhilāṣiṇāguṇavatsalena janena kṣāntipratisaṃyuktābhiḥ śrutihṛdayalhādinībhirdharmyābhiḥ kathābhisatasya janakāyasya paramanugrahaṃ cakāra । atha kadācittatastyo rājā grīṣmakālaprabhāvādabhilaṣaṇīyatarāṃ salilakrīḍāṃ prati samutsukamatirudyānaguṇātiśayaniketabhūtaṃ taṃ vanapradeśaṃ sāntaḥpuraḥ samabhijagāma ।

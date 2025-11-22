@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1475 | label: meter | g:0.259 m:0.914 ---
+
+kālalohāṣṭacaraṇaṃ loheṣāyugakūbaram 
+timirodgārikiraṇaṃ garjantam iva toyadam ।।

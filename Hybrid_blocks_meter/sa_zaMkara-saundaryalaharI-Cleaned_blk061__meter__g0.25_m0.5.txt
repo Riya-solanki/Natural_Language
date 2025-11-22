@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 61 | label: meter | g:0.25 m:0.5 ---
+
+sarasvatyāḥ sūktīr amṛtalaharīkauśalaharīḥ pibantyāḥ śarvāṇi śravaṇaculukābhyām aviratam 
+camatkāraślāghācalitaśirasaḥ kuṇḍalagaṇo jhaṇatkārais tāraiḥ prativacanam ācaṣṭae iva te ।।

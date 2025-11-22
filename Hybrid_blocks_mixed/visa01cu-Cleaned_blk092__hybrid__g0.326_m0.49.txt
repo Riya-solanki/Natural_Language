@@ -1,0 +1,4 @@
+--- source: visa01cu-Cleaned.txt | block: 92 | label: hybrid | g:0.326 m:0.49 ---
+
+sati sambhava itisphuṭadāṣarahite kadācidīṣaddoṣasya sambhave satītyarthaḥ ।
+uktañcetiyatra rasādīnāmasaṃlakṣyakramāṇām anugamaḥ sphuṭaḥ tatra duṣṭeṣvapi kīṭānuviddharatnādisādhāraṇyena kāvyatā matā ityarthaḥ ।

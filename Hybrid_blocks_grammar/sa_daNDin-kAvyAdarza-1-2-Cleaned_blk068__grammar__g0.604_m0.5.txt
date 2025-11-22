@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 68 | label: grammar | g:0.604 m:0.5 ---
+
+kharaṃ prahatya viśrāntaḥ puruṣo vīryavān iti evamādi na śaṃsanti mārgayor ubhayor api ।।

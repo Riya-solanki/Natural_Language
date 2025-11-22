@@ -1,0 +1,8 @@
+--- source: brssbh2u-Cleaned.txt | block: 97 | label: meter | g:0.448 m:0.557 ---
+
+itaśca kāraṇātkāryasyānanyatvaṃ, yatkāraṇaṃ prāgutpatteḥ kāraṇātmanaiva kāraṇe sattvamavarakālīnasya kāryasya śrūyate ।
+asadeva somyedamagra āsīt', aātmā vā idameka evāgra āsīt' ityādāvidaṃśabdagṛhītasya kāryasya kāraṇena sāmānādhikaraṇyāt ।
+yacca yadātmanā yatra na vartate na tattata utpadyate, yathā sikatābhyastailam ।
+tasmātprāgutpatterananyatvādutpannamapyananyadeva kāraṇātkāryamityavagamyate ।
+yathāca kāraṇaṃ brahma triṣu kāleṣu sattvaṃ na vyabhicaratyevaṃ kāryamapi jagattriṣu kāleṣu sattvaṃ na vyabhicarati ।
+ekaṃ ca punaḥ sattvamato apyananyatvaṃ kāraṇātkāryasya ।।

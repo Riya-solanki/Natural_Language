@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1419 | label: meter | g:0.194 m:0.625 ---
+
+etad ādhāram ity uktam ājñābhedam ataḥ śṛṇu 
+yena vijñātamātreṇa sarvajñatvaṃ prapadyate ।।

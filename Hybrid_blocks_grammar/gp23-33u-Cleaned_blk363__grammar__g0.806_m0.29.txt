@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 363 | label: grammar | g:0.806 m:0.29 ---
+
+sarve vrajajanās tatra kalpa-vṛkṣa-samā babhuḥ । adhideva ivādīpyad dhanyaḥ parjanya-nandanaḥ ।। [] prabhāte ca prabhāte vadānyatā-pracārāhṛta-viprādīnām agaṇeya-gaṇāya guṇa-guṇitānnādi-dānataḥ saṃmānataś ca vitānita-yaśasi śrī-vrajarāja-sadasi teṣu tat-tīrtha-yātri-śateṣu ca cira-paricita-caravat parama-prīti-sphītībhāvana-nītitaḥ katham api prasthāpiteṣu tasyām amāvasyāyāṃ tāsminn eva vraja-vasatibhiḥ saha pitṛbhyāṃ lālitaḥ sa harir vāsateyīm uvāsa ।
+[] tataḥ sā ca rātrir yātrika-jana-prācurya-pūryamāṇā nāsīd iti kolāhalāpagamena hyastana-jāgara-klamena ca suptiḥ sarvataś ca nirbharam evāvirbhavati sma ।

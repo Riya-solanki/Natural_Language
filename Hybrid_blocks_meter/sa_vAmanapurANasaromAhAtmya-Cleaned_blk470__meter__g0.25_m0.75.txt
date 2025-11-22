@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 470 | label: meter | g:0.25 m:0.75 ---
+
+bhavānīvanāmāsādya tīrthasevī yathākramam ।
+tatrābhiṣekaṃ kurvāṇo gosahasraphalaṃ labhet ।।

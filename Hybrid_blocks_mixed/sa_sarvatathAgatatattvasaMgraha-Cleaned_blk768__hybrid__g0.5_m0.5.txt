@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 768 | label: hybrid | g:0.5 m:0.5 ---
+
+tataḥ sarvatathāgatairapi sa pūjyate, kaḥ punarvādo anyairiti ।।

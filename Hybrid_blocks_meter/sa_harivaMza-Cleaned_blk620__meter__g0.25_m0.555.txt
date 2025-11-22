@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 620 | label: meter | g:0.25 m:0.555 ---
+
+mahābhiṣasya putrau ca śaṃtanoḥ kīrtivardhanau 
+vicitravīryaṃ dharmajñaṃ tathā citrāṅgadaṃ prabhum ।। 
+jyeṣṭhaṃ vicitravīryaṃ ca citrāṅgadam ataḥ param । 
+etān utpādya putrāṃs tvaṃ punar lokān avāpsyasi 
+prāpyaitat sumahābhāge kutsitena svakarmaṇā । 
+vyatikramāt pitṝṇāṃ ca janma prāpsyasi kutsitam ।।

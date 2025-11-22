@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 305 | label: meter | g:0.26 m:0.5 ---
+
+yasminna kāyu na pi citta na sattvasaṃjñā saṃjñāvivarti sthitu advayadharmacārī 
+ayu vīryapāramita ukta hitaṃkareṇa ākāṅkṣamāṇu śivamacyutamagrabodhim ।।

@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 872 | label: hybrid | g:0.446 m:0.45 ---
+
+satyamudāhṛte ।
+nanvekādaśābhyaḥ kāryajātebhyo adhikaṃ kāryajātamasti yadarthamadhikaṃ karaṇaṃ kalpyeta ।

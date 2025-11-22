@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3903 | label: meter | g:0.25 m:0.5 ---
+
+vṛṣṇeśca nivṛtiḥ putro daśārhe nivṛtestathā ।
+daśārhasya suto vyomā jīmūtaśca tadātmajaḥ ।।

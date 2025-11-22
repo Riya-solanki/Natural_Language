@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3341 | label: meter | g:0.194 m:0.75 ---
+
+cāṇūreṇa ciraṃ kālaṃ krīḍitvā devakīsutaḥ 
+balam āhārayāmāsa kaṃsasyābhāvadarśivān ।।

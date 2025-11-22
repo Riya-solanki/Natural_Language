@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 259 | label: hybrid | g:0.531 m:0.5 ---
+
+bhuvaḥ kim etā divam utpatanti divo athavā bhūtalam āviśanti ।
+calāḥ sthirā veti vitarkayantyo dhārāḥ karāgrair abalāḥ spṛśnati ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1917 | label: hybrid | g:0.542 m:0.5 ---
+
+śakti hutāśo adrisutā ca vastraṃ daṇḍaṃ guruḥ sā kuṭilā kamaṇḍalum ।
+mālāṃ hariḥ śūladharaḥ patākāṃ kaṇṭhe ca hāraṃ maghavānurastaḥ ।।

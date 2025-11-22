@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 22 | label: meter | g:0.306 m:0.5 ---
+
+dūrastho api samīpastho yo yasya manasi sthitaḥ ।
+yo yasya hṛdaye nāsti samīpastho apidūrataḥ ।।

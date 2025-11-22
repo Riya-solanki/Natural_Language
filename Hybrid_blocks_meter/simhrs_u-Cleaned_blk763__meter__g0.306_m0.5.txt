@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 763 | label: meter | g:0.306 m:0.5 ---
+
+sajātīyair vijātīyair bhāvair ye tv atiraskṛtāḥ ।
+kṣrābdhivan nayanty anyān svātmatvaṃ sthāyino hi te ।। 
+bharatena ca te kathitā rati-hāsotsāha-vismaya-krodhāḥ ।
+śoko' tha jugupsā bhayam ity aṣṭau lakṣma vakṣyate teṣām ।।

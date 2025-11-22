@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 167 | label: hybrid | g:0.455 m:0.5 ---
+
+śuciśaucaambaradharā trivivekaśuddhā na ca lābhakāma vṛṣabhā sada dharmakāmāḥ 
+mārasyatītaviṣayā aparapraṇeyā catudhyānadhyāyi na ca niśrita tatra dhyāne ।।

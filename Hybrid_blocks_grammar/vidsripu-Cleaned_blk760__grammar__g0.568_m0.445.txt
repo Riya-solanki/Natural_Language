@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 760 | label: grammar | g:0.568 m:0.445 ---
+
+bāṣpaṃ cakṣuṣu nāñjanaṃ karatale vaktraṃ na līlāmbujaṃ gaṇḍe pāṇḍarimā na patramakarī śvāsā mukhe na smitam ।
+itthaṃ yasya viyogayogavidhuraṃ mugdhe tavedaṃ vapur no jāte katamaḥ sa puṣpadhanuṣā nītaḥ prasādaśriyam ।।
+bhramaradevasya

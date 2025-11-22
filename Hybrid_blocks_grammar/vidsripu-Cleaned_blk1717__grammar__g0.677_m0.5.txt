@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1717 | label: grammar | g:0.677 m:0.5 ---
+
+vivekaḥ kiṃ so api svarasavalitā yatra na kṛpā sa kiṃ mārgo yasmin na bhavati parānugraharasaḥ ।
+sa kiṃ dharmo yatra sphurati na paradrohaviratiḥ śrutaṃ kiṃ tad vā syād upaśamapadaṃ yan na nayati ।।

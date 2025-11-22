@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 81 | label: meter | g:0.058 m:0.851 ---
+
+tatrāpi doha-samayaṃ samayā samena
+go-vṛnda-pāla-valayena niviśya paśyan ।
+cintāmaṇi-pracita-sadmasu kalpa-śākhi-
+padmāvṛteṣu surabhīr abhipāti kṛṣṇaḥ ।। [vasantatilakā]

@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 693 | label: meter | g:0.33 m:0.643 ---
+
+vihāropadeśāt ।
+vihāraḥ saṃcāraḥ kriyā, tatra svātantryaṃ nākartuḥ saṃbhavati ।
+tasmādapi kartā jīvaḥ ।।

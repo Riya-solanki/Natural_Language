@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 839 | label: meter | g:0.258 m:0.733 ---
+
+atha hāsaḥ-
+bhāṣaṇākṛti-veṣāṇaṃ kriyāyāś ca vikārataḥ । 
+laulyādeś ca parasthānām eṣām anukṛter api ।।
+vikāraś cetaso hāsas tatra ceṣṭāḥ samīritāḥ । 
+dṛṣṭer vikāro nāmauṣṭha-kapola-spandanādayaḥ ।।

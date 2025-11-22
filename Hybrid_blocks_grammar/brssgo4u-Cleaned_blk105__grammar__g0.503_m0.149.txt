@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 105 | label: grammar | g:0.503 m:0.149 ---
+
+kiṃviṣayaṃ punaḥ idam aśleṣavināśa vacanaṃ kiṃviṣayaṃ vā ado viniyogavacanam ekeṣāṃ śākhinām atasya putrā dāyamupayanti suhṛdaḥ sādhukṛtyāṃ dviṣantaḥ pāpakṛtyām' iti ।
+ata uttaraṃ paṭhati -

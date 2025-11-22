@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 611 | label: meter | g:0.25 m:0.5 ---
+
+mama tāvadidaṃ duḥkhaṃ dhīratāṃ kartumicchataḥ ।
+kā tvavasthā mama tayoḥ sutayoḥ sukhavṛddhayoḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 992 | label: meter | g:0.272 m:0.845 ---
+
+aṣṭottarapadānāṃ hi mālā mantramayī japaḥ ।
+ekaikrapadamaṣṭasahasradhā trimadhurāktatilāṣṭasahasrahāmeḥ ।।

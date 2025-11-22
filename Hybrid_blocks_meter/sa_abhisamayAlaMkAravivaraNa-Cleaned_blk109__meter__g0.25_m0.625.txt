@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 109 | label: meter | g:0.25 m:0.625 ---
+
+dhyānārūpyeṣu dānādau mārge maitryādikeṣu ca ।
+gatopalambhayoge ca trimaṇḍalaviśuddhiṣu ।।

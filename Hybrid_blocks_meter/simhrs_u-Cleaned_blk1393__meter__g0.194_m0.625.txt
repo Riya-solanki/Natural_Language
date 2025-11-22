@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1393 | label: meter | g:0.194 m:0.625 ---
+
+dhik śauṇḍīrya-madoddhataṃ bhuja-vanaṃ dhik candrahāsaṃ ca te
+dhig vaktrāṇi nikṛtta-kaṇṭha-valaya-prītendu-maulīni ca ।
+nidrā-lāvatighasmare pratidinaṃ svāpān mahā-medure
+pratyāśā cira-vismṛtāyudha-vidhau yat kumbhakarṇe sthitā ।।

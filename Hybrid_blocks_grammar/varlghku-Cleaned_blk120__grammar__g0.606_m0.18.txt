@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 120 | label: grammar | g:0.606 m:0.18 ---
+
+ḍhralope pūrvasya dīrgho aṇaḥ ।।
+ḍharephayorlopanimittayoḥ pūrvasyāṇo dīrghaḥ । harī ramyaḥ । aṇaḥ kim ? tṛḍhaḥ । manas ratha ityatra rutve kṛte haśi cetyutve rorīti lope ca prāpte ।।

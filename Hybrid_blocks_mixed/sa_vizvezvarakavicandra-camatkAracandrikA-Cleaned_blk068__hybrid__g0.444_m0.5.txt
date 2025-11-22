@@ -1,0 +1,6 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 68 | label: hybrid | g:0.444 m:0.5 ---
+
+atra sarasasāhityacāturīviśrāmabhūmirahamiti viśiṣṭo asmadarthor'thāntarasaṃkramitena mameti padena lakṣyate ।
+anena sāhityasahajasairabhaṃ vinā nānyasmai camatkārakāriteti vyajyate ।
+saṃnaddhā iti padenātyantatiraskṛtavācye tatparatayā grathitā iti lakṣyate ।
+atrānena ca nāyakasāhityasya sarvasājātyātiśāyitvaṃ dyotyata iti padavyañjakametat ।।

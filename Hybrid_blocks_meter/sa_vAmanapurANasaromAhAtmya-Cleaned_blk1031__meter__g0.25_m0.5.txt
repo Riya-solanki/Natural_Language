@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1031 | label: meter | g:0.25 m:0.5 ---
+
+kathaṃ tasya kriyā kāryā paralokasukhāvahā ।
+ityevaṃ cintayānasya nārado abhyājagāma ha ।।

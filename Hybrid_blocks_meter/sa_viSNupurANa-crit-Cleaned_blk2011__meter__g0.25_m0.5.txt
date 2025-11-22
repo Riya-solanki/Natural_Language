@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2011 | label: meter | g:0.25 m:0.5 ---
+
+nāgavīthyuttaraṃ yac ca saptarṣibhyaś ca dakṣiṇam 
+uttaraḥ savituḥ panthā devayānas tu sa smṛtaḥ ।।

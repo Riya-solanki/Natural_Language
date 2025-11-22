@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11892 | label: meter | g:0.316 m:0.5 ---
+
+dīpastaṃbhaḥ kutra palāyitobhūdato mūlaṃ viṣṇupādaṃ bhajasva ।
+lakṣmīdine pūjayitvā ca lakṣmīṃ sūtraṃ tasyāḥ svagale dhāraya tvam ।।

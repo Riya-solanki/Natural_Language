@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 585 | label: grammar | g:0.667 m:0.5 ---
+
+śaivādīni aṣṭau srotāṃsi [pratisroto anuyāyīni] pratisroto anuvidhāyinīti, etānyekaikasminnūrdhvādau srotasyanusrotastvena sthitānītyarthaḥ। [tāni] etāni ca vibhāgaśaḥ [brūyāt] kathayet।।

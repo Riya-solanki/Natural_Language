@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 835 | label: meter | g:0.201 m:0.616 ---
+
+tasyāścenmukhamasti saumyasubhagaṃ kiṃ pārvaṇenendunā
+saundaryasya padaṃ dṛśau ca yadi cet kiṃ nāma nīlotpalaiḥ ।
+kiṃ vā komalakāntibhiḥ kisalayaiḥ satyeva tatrādhare
+hā dhātuḥ punaruktavasturacanārambheṣvapūrvo grahaḥ ।।

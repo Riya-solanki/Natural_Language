@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 274 | label: grammar | g:0.667 m:0.5 ---
+
+na stūyase narendra tvaṃ dadāsīti kadā cana svam eva matvā gṛhṇanti yatas tvad dhanam arthinaḥ ।।

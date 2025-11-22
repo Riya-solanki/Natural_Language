@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 874 | label: meter | g:0.194 m:0.75 ---
+
+maṅgalyatvam acintyayogamahatāṃ sarvārthasiddhyāvahaṃ
+buddhānāṃ tad udīkṣyatāṃ bhagavatāṃ saṃmohanidrācchidām ।
+atyantopaśamāvahaṃ bhavati yat tiryaggatānām api
+prāg evābhimukhāśayasya viduṣaḥ śāstur guṇāmbhonidheḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2244 | label: meter | g:0.25 m:0.5 ---
+
+padmaṃ hastena vai gṛhya samājighran prayatnataḥ ।
+tena gandhena saṃyojya buddhānāṃ tu prasidhya[ti] ।।

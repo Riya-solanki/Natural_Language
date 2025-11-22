@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9211 | label: hybrid | g:0.51 m:0.5 ---
+
+śrotraṃ tvak cakṣuṣī jihvā nāsā buddhīndriyāṇi ca ।
+pāṇī pādau gudaṃ prāk ca guhyaṃ karmendriyāṇi ca ।।

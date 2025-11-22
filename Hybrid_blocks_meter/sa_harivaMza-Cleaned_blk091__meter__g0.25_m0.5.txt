@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 91 | label: meter | g:0.25 m:0.5 ---
+
+jyaiṣṭhyaṃ kāniṣṭhyam apy eṣāṃ pūrvaṃ nāsīj janādhipa 
+tapa eva garīyo abhūt prabhāvaś caiva kāraṇam ।।

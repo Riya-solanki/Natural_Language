@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 188 | label: grammar | g:0.625 m:0.5 ---
+
+aśanāpipāse evaiṣā yajamānasya saṃprakhyāya vāśyatīti tāṃ tṛṇam apy ādayet sūyavasād bhagavatī ity etayarcā ।

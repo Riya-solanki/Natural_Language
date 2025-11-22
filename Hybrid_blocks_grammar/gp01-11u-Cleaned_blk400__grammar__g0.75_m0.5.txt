@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 400 | label: grammar | g:0.75 m:0.5 ---
+
+[] sa uvāca-yadyapi mayāpy etad eva madhye madhye sphuṭam adhyavasīyate, tathāpy astoko vaśita-viśvodreko mahān sahāyaḥ śrīman-nārāyaṇa-deva eva śaraṇam iti citta-vṛttiḥ parivartate-yo' smākam adṛṣṭāśrutam idaṃ dṛṣṭam iva karoti । sa sarvaṃ kṛta-pūrvī tad api kurvīta ।

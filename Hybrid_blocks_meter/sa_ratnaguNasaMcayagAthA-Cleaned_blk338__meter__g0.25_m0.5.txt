@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 338 | label: meter | g:0.25 m:0.5 ---
+
+vaidyottamo jagati rogacikitsakārī prajñopadeśa kathito ayu bodhimārgo 
+nāmena ratnaguṇasaṃcaya bodhimārgaḥ taṃ sarvasattva itu mārgatu prāpnuvanti ।।

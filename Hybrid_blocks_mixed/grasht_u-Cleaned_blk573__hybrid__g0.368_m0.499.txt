@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 573 | label: hybrid | g:0.368 m:0.499 ---
+
+viśeṣavidhyantaramāha bījamityādi ।।
+idaṃ niṣpannabījaṃ raktagaṇe niṣecitaṃ kuryāt ।।
+punastena raktagaṇena kṛtavāpaṃ kṛto vāpo yasmin tat ।।
+punastadbījaṃ cāritajāritamātraṃ pūrvaṃ ca paścāt jāritaṃ santaṃ sūtaṃ rañjayati rāgaṃ prāpayati badhnāti ceti ।।

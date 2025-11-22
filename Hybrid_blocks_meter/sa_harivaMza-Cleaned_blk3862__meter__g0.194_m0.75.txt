@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3862 | label: meter | g:0.194 m:0.75 ---
+
+śiśupālo daśagrīvo raibhyo athopadiśo balī 
+sarvāstrakuśalā vīrā vīryavanto mahābalāḥ ।।

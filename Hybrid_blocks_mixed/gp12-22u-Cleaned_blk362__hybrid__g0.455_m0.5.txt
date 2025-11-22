@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 362 | label: hybrid | g:0.455 m:0.5 ---
+
+tad eva yamunāraṇyaṃ ta eva ca tamālakāḥ ।
+tad eva cittam asmākaṃ sāmprataṃ kim ivānyathā? ।। [anuṣṭubh]

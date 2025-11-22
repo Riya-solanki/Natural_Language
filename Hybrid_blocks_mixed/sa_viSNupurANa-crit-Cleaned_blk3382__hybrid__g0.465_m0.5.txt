@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3382 | label: hybrid | g:0.465 m:0.5 ---
+
+yaḥ sṛjyate sargakṛd ātmanaiva yaḥ pālyate pālayitā ca devaḥ 
+viśvātmanā saṃhriyate antakārī pṛthak trayasyāsya ca yo avyayātmā ।।

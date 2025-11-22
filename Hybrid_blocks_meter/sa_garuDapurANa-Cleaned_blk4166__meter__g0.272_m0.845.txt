@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4166 | label: meter | g:0.272 m:0.845 ---
+
+kāle yathāsvaṃ sarveṣāṃ pravṛttirvṛddhireva vā ।
+nidānoktonupaśayo viparītopaśāyitā ।।

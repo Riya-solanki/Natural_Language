@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3155 | label: meter | g:0.295 m:0.565 ---
+
+ṛgyajuḥsāmasaṃjñeyaṃ trayī varṇāvṛtir dvija 
+etām ujjhati yo mohāt sa nagnaḥ pātakī smṛtaḥ ।।

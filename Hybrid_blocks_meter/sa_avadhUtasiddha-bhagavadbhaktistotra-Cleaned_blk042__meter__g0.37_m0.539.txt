@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 42 | label: meter | g:0.37 m:0.539 ---
+
+kṣīrodasāramathanapratilabdhajanma vitrāsitatridaśasaṃhati kālakūṭam ।
+nirmatsareṇa pibatā jagato hitāya pītas tvayaiva sakalo nanu sādhuvādaḥ ।।

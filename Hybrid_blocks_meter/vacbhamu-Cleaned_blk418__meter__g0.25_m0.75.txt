@@ -1,0 +1,3 @@
+--- source: vacbhamu-Cleaned.txt | block: 418 | label: meter | g:0.25 m:0.75 ---
+
+prathamādhyāye tṛtīyaḥ pādaḥ ।

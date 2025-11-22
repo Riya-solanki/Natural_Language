@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 245 | label: meter | g:0.25 m:0.625 ---
+
+vasuparāsu parāsumivojjhatīṣvavikalaṃ vikalaṅkaśaśiprabham ।
+priyatamaṃ yatamantumanīśvaraṃ rasikatā sikatāsviva tāsu kā ।।

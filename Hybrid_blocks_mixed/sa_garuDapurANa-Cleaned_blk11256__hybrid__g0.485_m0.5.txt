@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11256 | label: hybrid | g:0.485 m:0.5 ---
+
+śrutvā tattvā nāṃ nirṇayaṃ dhāraṇaṃ ca sudurghaṭaṃ cāhurāryāḥ samastam ।
+śrutvā tattvānāṃ dhāraṇānantaraṃ ca kāmakrudhorjāraṇaṃ durghaṭaṃ ca ।।
+śrutvā tattvānāṃ dhāraṇānaṃ taraṃ ta tathā yoge durghaṭaṃ saṃgataṃ ca ।।
+śrutvā tattvānāṃ dhāraṇānantaraṃ ca kāmakrudhorjāraṇaṃ durghaṭaṃ ca ।
+ete doṣā jñānapūtānapīha kurvanti saṃdehayutānsadaiva ।।

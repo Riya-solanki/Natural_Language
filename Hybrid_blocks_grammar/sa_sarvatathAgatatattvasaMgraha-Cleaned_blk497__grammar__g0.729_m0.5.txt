@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 497 | label: grammar | g:0.729 m:0.5 ---
+
+tato hṛdayotthitayā ratnavajrimudrayā svābhiṣekasthānasthitayābhiṣicyāgrāṅgulibhyāṃ mālāṃ veṣṭavyaṃ badhvā tathaiva kavacaṃ bandhayedanena hṛdayena oṃ ratnavajrābhiṣiñca sarvamudrā me dṛḍhīkuru varakavacena vam ।।

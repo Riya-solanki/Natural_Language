@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 93 | label: meter | g:0.25 m:0.625 ---
+
+advaitahānir evaṃ syān niṣpramāṇakatānyathā ।
+bhogasāmyāvimokṣau ca yau neṣṭāv ātmavādibhiḥ ।।

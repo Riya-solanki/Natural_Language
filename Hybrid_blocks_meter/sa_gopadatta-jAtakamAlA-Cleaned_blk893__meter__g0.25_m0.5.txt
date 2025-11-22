@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 893 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ matvā mahārāja saṃbuddhe sadgurau mudā ।
+śraddhayā satkṛtiḥ kāryā nāpakṛtiḥ kathaṃ cana ।।

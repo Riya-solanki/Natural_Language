@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1052 | label: grammar | g:0.75 m:0.5 ---
+
+kaṃsas tu tasmād vatsapād api vatsāsura-nirvāsanam apasarpa-mukhād viṣam iva karṇa-randhra-sparśa-mātreṇāntaḥ sambhūya bhṛśaṃ dṛśau nimīlayāmāsa । tena daśamīm iva daśāṃ prāpitaḥ । sa tu mantribhiḥ kathañcid bahir avadhāpitaḥ sārdham eva tair idam acāru vicārayāmāsa, hanta sambhāvitā dambhānvitā bahavaḥ prasthāpitāḥ, na tu tair bhadraṃ kiñcid api sañcitam । teṣāṃ dhīpsā-vīpsā hi na hīpsāṃ trātavatī, pratyuta tān eva psātavatī । tataḥ kiṃ kurmaḥ?

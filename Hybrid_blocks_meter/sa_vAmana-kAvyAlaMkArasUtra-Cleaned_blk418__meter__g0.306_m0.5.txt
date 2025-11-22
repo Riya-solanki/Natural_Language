@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 418 | label: meter | g:0.306 m:0.5 ---
+
+astaṃ bhāsvān prayātaḥ saha ripubhirayaṃ saṃhriyantāṃ balāni ।
+atrārthayornyūnatvaviśiṣṭatve na sta iti neyaṃ tulyayogiteti ।।

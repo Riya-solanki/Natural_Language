@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 6 | label: meter | g:0.0 m:1.0 ---
+
+tadanantarapratipattyadhikaraṇam । sū

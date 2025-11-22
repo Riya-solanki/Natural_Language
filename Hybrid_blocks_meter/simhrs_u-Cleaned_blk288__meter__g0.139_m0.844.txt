@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 288 | label: meter | g:0.139 m:0.844 ---
+
+mānena, yathā-
+adyāpi tan-manasi samparivartate me
+rātrau mayi kṣutavati kṣiti-pāla-putryā ।
+jīveti maṅgala-vacaḥ parihṛtya roṣāt
+karṇe' rpitaṃ kanaka-patram anālapantyā ।।

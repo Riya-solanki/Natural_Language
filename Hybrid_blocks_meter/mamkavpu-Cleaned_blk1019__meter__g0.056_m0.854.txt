@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1019 | label: meter | g:0.056 m:0.854 ---
+
+{kṣipto hastāvalagnaḥ prasabhamabhihato apyādadāno aṃśukāntaṃ
+gṛhṇan keśeṣvapāstaścaraṇanipatito nekṣitaḥ saṃbhrameṇa ।
+āliṅgan yovadhūtastripurayuvatibhiḥ sāśrunetrotpalābhiḥ
+kāmīvārdrāparādhaḥ sa dahatu duritaṃ śābhavo vaḥ śarāgniḥ ।।}

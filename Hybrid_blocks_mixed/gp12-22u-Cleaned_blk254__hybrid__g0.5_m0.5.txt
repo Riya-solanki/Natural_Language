@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 254 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha pratyaham eva pratyekam antaḥ paraspara-militāḥ santaś ca te sarve vicāritavantaḥ, sāmpratam eva pātrasātkartum etāḥ sāmprataṃ । tatrāpy āsāṃ śrīman-nanda-nandanād avaras tu na varatām arhati । avara eva hi sarvaḥ । tathā hi-

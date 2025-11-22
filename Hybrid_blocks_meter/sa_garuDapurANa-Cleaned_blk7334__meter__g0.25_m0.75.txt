@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7334 | label: meter | g:0.25 m:0.75 ---
+
+kṛmikīṭapataṅgatvaṃ svarṇahārī samāpnuyāt ।
+tṛṇagulmatātvaṃ ca kramaśo gurutalpagaḥ ।।

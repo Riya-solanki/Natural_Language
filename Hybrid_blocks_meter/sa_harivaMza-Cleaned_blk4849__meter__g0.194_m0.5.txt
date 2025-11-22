@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4849 | label: meter | g:0.194 m:0.5 ---
+
+kuruṣva vainateya tvaṃ yan naḥ kāryam anantaram 
+tvayā vidhāne vihite kariṣyāmy aham uttaram ।।

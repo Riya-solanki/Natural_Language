@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 147 | label: meter | g:0.328 m:0.595 ---
+
+sādhyasādhanasaṃbandhaḥ sarvadā bhāvanāśrayaḥ ।
+tena tasya na siddhiḥ syād bhāvanāpratyayād ṛte ।।

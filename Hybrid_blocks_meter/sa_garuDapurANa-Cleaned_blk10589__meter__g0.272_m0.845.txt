@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10589 | label: meter | g:0.272 m:0.845 ---
+
+mahattattvāddaśaguṇairadhikaṃ parikīrtitam ।
+mahattattvānantaraṃ ca tamo hyāvaraṇaṃ smṛtam ।।

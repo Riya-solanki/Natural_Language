@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4716 | label: meter | g:0.25 m:0.625 ---
+
+rodho vegasya vallūramajīrṇaśramamaithunam ।
+pacyate mārgagamanaṃ yānena kṣobhiṇāpi vā ।।

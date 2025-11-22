@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 281 | label: meter | g:0.371 m:0.714 ---
+
+tataḥ śīghraṃ mahāmudrāṃ [badhvā] vajradharasya tu ।
+uccārayetsakṛdvārannāmāṣṭaśatamuttamama ।।

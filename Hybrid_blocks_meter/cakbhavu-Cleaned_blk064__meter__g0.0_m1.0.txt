@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 64 | label: meter | g:0.0 m:1.0 ---
+
+prakṣālya dhāraṇāmbhobhir granthipañcakamauktikam
+anarghyam arghaṃ pādebhyaḥ prayacchāmi vṛṣākape

@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 578 | label: meter | g:0.139 m:0.76 ---
+
+[] idam eva ca tābhir vakṣyate,
+prahasitaṃ priya prema-vīkṣitaṃ
+viharaṇaṃ ca te dhyāna-maṅgalam ।
+rahasi saṃvido yā hṛdi-spṛśaḥ
+kuhaka no manaḥ kṣobhayanti hi ।।[] iti ।

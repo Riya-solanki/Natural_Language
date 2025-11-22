@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 8 | label: meter | g:0.194 m:1.0 ---
+
+kṛtānta-jihvā-kuṭilāṃ kṛpāṇīṃ
+dṛṣṭvā yadīyāṃ trasatām arīṇām ।
+svedodayaś cetasi saṃcitānāṃ
+mānoṣmaṇām ātanute praśāntim ।।

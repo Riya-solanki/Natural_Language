@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5045 | label: meter | g:0.25 m:0.5 ---
+
+saguḍaṃ dadhi vātaghnaṃ saktavo rūkṣavātulāḥ ।
+ghṛtapūrṇo agnikārī syādvṛṣyā gurvo ca śaṣkulī ।।

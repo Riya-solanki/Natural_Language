@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 911 | label: hybrid | g:0.5 m:0.5 ---
+
+yāvad bhāskarakesarī pravitatajyotiḥsaṭābhāsuro hatvā vāsaravāraṇaṃ vanadarīm astācalasyāsthitaḥ ।
+tāvat saṃtamasācchabhallapariṣatsaṃdhyāstram āpīyate kumbhabhraṃśavikīrṇamauktikaruco rājanty amūs tārakāḥ ।।

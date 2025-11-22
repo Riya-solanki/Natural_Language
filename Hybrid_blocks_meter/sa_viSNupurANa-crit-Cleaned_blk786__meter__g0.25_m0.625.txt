@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 786 | label: meter | g:0.25 m:0.625 ---
+
+trailokyāśrayatāṃ prāptaṃ paraṃ sthānaṃ sthirāyati 
+sthānaṃ prāptā paraṃ kṛtvā yā kukṣivivare dhruvam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11703 | label: meter | g:0.316 m:0.5 ---
+
+dāne tasyāḥ śaktya bhāve ca devi snātvā tīrthe vāsudevābhidhasya ।
+samyak śrāvyaṃ lakṣaṇaṃ vai śilāyāstayostulyaṃ phalamāhurmahāntaḥ ।।

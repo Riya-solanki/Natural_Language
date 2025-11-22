@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 735 | label: grammar | g:0.646 m:0.5 ---
+
+paśuśrapaṇaś ced anugacched auttaravedikāt praṇīya tvaṃ no agne sa tvaṃ na iti sarvaprāyaścittaṃ hutvā ।

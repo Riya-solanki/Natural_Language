@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3482 | label: meter | g:0.102 m:0.695 ---
+
+kasyacit tv atha kālasya sahitau rāmakeśavau 
+guruṃ saṃdīpaniṃ kāśyam avantipuravāsinam 
+dhanurvedacikīrṣārtham ubhau tāv abhijagmatuḥ ।।

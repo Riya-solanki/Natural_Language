@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2518 | label: grammar | g:0.633 m:0.167 ---
+
+tadājñāpaya kiṃ kuryāṃ sadārāpatyabāndhavaḥ 
+kasya vā vaśatāṃ yāmi jīvitaṃ me pradīyatām ।। 
+namas te brahmarudrendra surāsuranamaskṛta । śaraṇaṃ tvāṃ prapanno asmi jīvitaṃ me pradīyatām ।। aparādhaṃ kṛtaṃ yat tu mūḍhenākṛtabuddhinā । darpānvitena ca mayā na tat saṃsmartum arhasi ।। prasanne tvayi deveśa vainateyo na māṃ haret । tasmād vidhatsva yat kāryaṃ mayā kartavyam īśvara । ity uktvā sa śirobhis tu kṛṣṇapādāv apūjayat । 
+pañcamūrdhānataṃ dṛṣṭvā sarpaṃ sarpāriketanaḥ 
+akruddha eva bhagavān pratyuvācorageśvaram ।।

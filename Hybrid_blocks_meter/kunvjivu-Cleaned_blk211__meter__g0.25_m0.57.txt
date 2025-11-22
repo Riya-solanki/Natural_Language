@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 211 | label: meter | g:0.25 m:0.57 ---
+
+aṇṇaṃ laḍahattaṇaaṃ aṇṇa ccia kāvi vattaṇacchāā ।
+sāmā sāmaṇṇāpaāvaiṇo reha ccia ṇa hoi ।।
+anyad laṭabhatvamanyaiva ca kāpi vartanacchāyā ।
+śyāmā sāmānyaprajāpate rekhaiva ca na bhavati ।।
+iti chāyā ।

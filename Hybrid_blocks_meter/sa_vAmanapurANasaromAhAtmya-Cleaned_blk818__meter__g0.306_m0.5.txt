@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 818 | label: meter | g:0.306 m:0.5 ---
+
+etatpradhānaṃ puruṣasya karma yadātmasaṃbodhasukhe praviṣṭam ।
+jñeyaṃ tadeva pravadanti santastatprāpya dehī vijahāti kāmān ।।

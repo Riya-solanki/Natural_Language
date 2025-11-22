@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 72 | label: meter | g:0.25 m:0.625 ---
+
+lājākṣataphalārcaiva dūrvākundāni bhaktitaḥ ।
+prakṣiptāni mayā tubhyaṃ gṛhāṇa hitamānasaḥ ।।

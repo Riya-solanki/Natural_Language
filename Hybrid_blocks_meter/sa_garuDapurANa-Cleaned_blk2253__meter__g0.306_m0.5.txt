@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2253 | label: meter | g:0.306 m:0.5 ---
+
+yajñaṃ śrāddhaṃ piṇḍadānaṃ snānādi kurute naraḥ ।
+sa svargaṃ brahmalokaṃ ca gacchenna narakaṃ naraḥ ।।

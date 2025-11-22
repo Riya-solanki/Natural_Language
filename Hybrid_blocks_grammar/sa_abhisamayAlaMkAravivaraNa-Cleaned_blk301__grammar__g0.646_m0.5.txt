@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 301 | label: grammar | g:0.646 m:0.5 ---
+
+amī viśatiḥ doṣāḥ pāramitāyāṃ pravṛttasya yogino antarāyakarāḥ pratipāditāḥ । samprati punaḥ pravṛttipūrvikā visāmagrī nirucyate ।

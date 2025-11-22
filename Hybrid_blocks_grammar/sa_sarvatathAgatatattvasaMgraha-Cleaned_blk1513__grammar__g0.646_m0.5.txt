@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1513 | label: grammar | g:0.646 m:0.5 ---
+
+atha vajranetro bodhisatvo mahāsatva idaṃ svavidyottamamabhāṣat oṃ svabhāvaśuddha vajrapadma śodhaya sarvān vidyottama huṃ phaṭ ।।

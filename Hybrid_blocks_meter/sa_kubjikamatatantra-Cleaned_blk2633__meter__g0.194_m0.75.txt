@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2633 | label: meter | g:0.194 m:0.75 ---
+
+saṃhāreṇa sureśāna kathayasva prasādataḥ 
+niścayārthaṃ mahādeva kṣakārādyā yathāsphuṭam ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 941 | label: meter | g:0.25 m:0.5 ---
+
+he rāmāgaccha tātāśu sānujaḥ kulanandana ।
+prātar eva kṛtāhāraḥ krīḍāśrānto' pi putraka ।।
+pratīkṣate tvāṃ dāśārha bhokṣyamāṇo vrajādhipaḥ ।
+ehy āvayoḥ priyaṃ dhehi, svagṛhaṃ yāta bālakāḥ ।।[BhP ]

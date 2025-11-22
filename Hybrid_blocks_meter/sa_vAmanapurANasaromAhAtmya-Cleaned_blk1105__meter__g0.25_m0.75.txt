@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1105 | label: meter | g:0.25 m:0.75 ---
+
+sāṅkhyāya sāṅkhyamukhyāya sāṅkhyayogamukhāya ca ।
+namo viratharathyāya catuṣpatharathāya ca ।।

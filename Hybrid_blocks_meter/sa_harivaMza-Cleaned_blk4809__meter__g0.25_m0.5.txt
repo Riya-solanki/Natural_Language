@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4809 | label: meter | g:0.25 m:0.5 ---
+
+devatārthaṃ ca me yatno mahān dānavasaṃkṣaye 
+teṣāṃ priyārthaṃ ca raṇe hanmi dṛptān mahāsurān ।।

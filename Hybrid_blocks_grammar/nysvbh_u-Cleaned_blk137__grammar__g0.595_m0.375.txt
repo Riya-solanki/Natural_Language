@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 137 | label: grammar | g:0.595 m:0.375 ---
+
+dṛṣṭātikramaśca dehādiṣu tulyaḥ।
+yathā dṛṣṭamanityaṃ sukhaṃ parityajya nityaṃ sukhaṃ kāmayate, evaṃ dehendriya buddhīranityā dṛṣṭā anikramya muktasya nityā dehendriyabuddhayaḥ kalpayitavyāḥ, sādhīyaścaivaṃ muktasya caikātmyaṃ kalpitaṃ bhavatīti।।

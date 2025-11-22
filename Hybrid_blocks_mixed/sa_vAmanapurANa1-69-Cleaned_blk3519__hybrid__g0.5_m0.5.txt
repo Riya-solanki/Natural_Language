@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3519 | label: hybrid | g:0.5 m:0.5 ---
+
+ke bhavanto atra saṃprāptāḥ sasnehā bāndhavā iva ।
+ko ayaṃ ca śakrapratimo dīkṣito yo mahābhujaḥ ।।

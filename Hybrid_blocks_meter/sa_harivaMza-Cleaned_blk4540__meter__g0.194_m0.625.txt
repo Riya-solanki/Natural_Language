@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4540 | label: meter | g:0.194 m:0.625 ---
+
+tatas tejaḥ prajvalitam apaśyaṃ vadatāṃ vara 
+sarvalokaṃ samāviśya sthitaṃ puruṣavigraham ।।

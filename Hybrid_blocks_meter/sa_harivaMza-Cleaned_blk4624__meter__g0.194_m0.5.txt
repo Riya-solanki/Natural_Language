@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4624 | label: meter | g:0.194 m:0.5 ---
+
+rāhur agrasad ādityam aparvaṇi viśāṃ pate 
+lokakṣayakare kāle nirghātaś cābhavan mahān ।।

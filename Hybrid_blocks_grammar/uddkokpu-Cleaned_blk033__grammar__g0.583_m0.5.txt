@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 33 | label: grammar | g:0.583 m:0.5 ---
+
+cumban bimbādharamiva navaṃ pallavaṃ śīthugarbhaṃ prāptāśleṣaḥ stana iva nave korake kāmacārī ।
+bhoktāsi tvaṃ kamapi samayaṃ tatra mākandavallīḥ kāntārāge sati vikasite kaḥ pumāṃstyaktumīṣṭe ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1015 | label: meter | g:0.194 m:0.729 ---
+
+śrutvā tat tava mātara-pitarau
+sukham ayitārau kṛta-dhana-vitarau ।
+harir api mudam iha hṛdi gopayitā
+sakhibhir narmaṇi yaḥ kopayitā ।।

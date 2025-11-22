@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 395 | label: meter | g:0.194 m:0.854 ---
+
+yan martya-līlaupayikaṃ sva-yoga-
+māyā-balaṃ darśayatā gṛhītam ।
+vismāpanaṃ svasya ca saubhagarddheḥ
+paraṃ padaṃ bhūṣaṇa-bhūṣaṇāṅgam ।।[BhP ] iti ।

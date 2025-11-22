@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 229 | label: grammar | g:0.698 m:0.26 ---
+
+nanu ca - ayatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ ।
+prayātā yānti taṃ phalaṃ vakṣyāmi bharatarṣabha' iti kālaprādhānyena upakramya aharādikālaviśeṣaḥ smṛtau apunarāvṛttaye niyamitaḥ kathaṃ rātrau dakṣiṇāyane vā prayāto anāvṛttiṃ yāyāditi ।

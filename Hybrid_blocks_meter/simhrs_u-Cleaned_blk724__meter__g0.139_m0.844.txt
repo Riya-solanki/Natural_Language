@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 724 | label: meter | g:0.139 m:0.844 ---
+
+sparśanād, yathā-
+āghrāya cānanam adhistanam āyatākṣyāḥ
+suptaṃ tadā tvarita-keli-bhuvā śrameṇa ।
+prābhātikaḥ pavana eṣa saroja-gandhī
+prābodhayan maṇi-gavākṣa-samāgato mām ।।

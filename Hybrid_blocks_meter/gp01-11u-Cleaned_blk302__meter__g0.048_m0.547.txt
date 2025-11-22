@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 302 | label: meter | g:0.048 m:0.547 ---
+
+anantaraṃ ca
+gāvaḥ svān ṛṣabhān bhujaṅgama-bhujaḥ ṣaḍjān pikāḥ pañcamān
+anye ca pratipadya tān nija-nijān suṣṭhu svarān veṇutaḥ ।
+āścaryeṇa vikarṣaṇaṃ muhur aho mohaṃ tathā bhejire
+sarve ced asakṛt kva sāntvana-vidhiṃ kurvantu ke vā tadā? ।। [śārdūla]

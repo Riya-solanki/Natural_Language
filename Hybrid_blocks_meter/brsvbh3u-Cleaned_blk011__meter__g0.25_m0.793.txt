@@ -1,0 +1,6 @@
+--- source: brsvbh3u-Cleaned.txt | block: 11 | label: meter | g:0.25 m:0.793 ---
+
+sūtrāntaramavatārayituṃ śaṅkate-kathaṃ punariti ।
+somaṃ rājānamāpyāyasvāpakṣīyasvetyevamenāṃstatra bhakṣayantīti ।
+kriyāsamabhihāreṇāpyāyanāpakṣayau yathā somasya tathā bhakṣayanti somamayāṃllokānityarthaḥ ।
+ata uttaraṃ paṭhati-

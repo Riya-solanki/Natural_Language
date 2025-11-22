@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 106 | label: grammar | g:0.75 m:0.5 ---
+
+[] bhrātṛ-prabhāva-jñānārāmaḥ śrī-rāmas tu teṣāṃ śaṅkāyām aniśām ayann api na tadānīṃ tad-bhāvam avāpa, kintu rirakṣiṣām eva । anyathā hy anyathāpattir eva syād iti samucita eva bhāvaḥ svayam eva yogamāyayācitaḥ ।

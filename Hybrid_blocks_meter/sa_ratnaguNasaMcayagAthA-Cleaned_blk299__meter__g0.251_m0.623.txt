@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 299 | label: meter | g:0.251 m:0.623 ---
+
+yo bodhisattva cirasaṃsaraṇābhiprāyo sattvārtha kṣetrapariśodhanayuktayogī 
+na ca khedabuddhi aṇumātra upādiyāti so vīryapāramitayukta atandritaśca ।।
