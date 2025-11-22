@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 514 | label: meter | g:0.25 m:0.5 ---
+
+yastatra tarpaṇaṃ kṛtvā pibate culakatrayam ।
+diṇḍidevaṃ namaskṛtya kedārasya phalaṃ labhet ।।

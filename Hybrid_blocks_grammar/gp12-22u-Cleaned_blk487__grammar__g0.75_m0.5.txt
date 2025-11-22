@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 487 | label: grammar | g:0.75 m:0.5 ---
+
+[] sabhāsada ūcuḥ, bho bhoḥ suśīla-vāsanāḥ! kuśīlavā iva stuvānā yadi sarva-parvaṇi vartakā nartakāḥ stha, tarhi bhavadbhiḥ samarhitā nija-kalā-kalāpāḥ kalpyantām, viśeṣād anena śyāma-dhāma-nikāma-rāma-rāma-vigraheṇa । yaḥ khalu citrāṅgo na tu citrāṅgaḥ, candrakī na tu candrakī, pītāṃśuko na tu pītāṃśukaḥ, śyāma-ghano na tu śyāma-ghanaḥ, vaṃśa-pravīṇādharo na tu vaṃśa-pravīṇādharaḥ, guṇa-rūpī na tu guṇa-rūpī, vidyādharo na tu vidyādhara iti vaicitrībhir netrāṇi vicitrayati ।

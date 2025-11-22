@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4727 | label: meter | g:0.194 m:0.5 ---
+
+bhrāntam udbhrāntam āviddham āplutaṃ viplutaṃ plutam 
+iti prakārān dvātriṃśad vicarann abhyadṛśyata ।।

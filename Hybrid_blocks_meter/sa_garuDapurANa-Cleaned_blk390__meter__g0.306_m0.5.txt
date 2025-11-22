@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 390 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ ye mānavā vijñā dhyāyantīśaṃ paraṃ padam ।
+prāpnuyuste ca tadrūpaṃ nātra kāryā vicāraṇā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4773 | label: meter | g:0.251 m:0.623 ---
+
+kṛtāgā na sa śocyas tu vayaṃ tv adya vinākṛtāḥ 
+viprayogena nāthasya kṛtāntavaśagāḥ kṛtāḥ ।।

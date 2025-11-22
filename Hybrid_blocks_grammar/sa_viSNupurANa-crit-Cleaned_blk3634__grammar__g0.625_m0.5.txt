@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3634 | label: grammar | g:0.625 m:0.5 ---
+
+rājāpy amarṣavaśād andhakāram etad iti khaḍgam ādāya duṣṭa duṣṭa hato asīti vyāharann abhyadhāvat ।।

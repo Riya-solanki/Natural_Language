@@ -1,0 +1,5 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1278 | label: meter | g:0.102 m:0.555 ---
+
+kiṃ tu jyeṣṭhacatuṣkasya dve avasthā na bhavanti hi 
+kuleśānām avasthānāṃ lakṣaṇaṃ vada bhairava 
+yena vai anāhataṃ devaṃ jānīmaḥ parameśvara ।।

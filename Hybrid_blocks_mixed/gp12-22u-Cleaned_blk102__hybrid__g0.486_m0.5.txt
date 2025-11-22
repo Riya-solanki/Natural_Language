@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 102 | label: hybrid | g:0.486 m:0.5 ---
+
+divi bhuvi khe cotpātāḥ katham iva tat-kālam udbhūtāḥ ।
+āṃ naḥ sarveṣāṃ yaḥ prāṇeṣv adhi tat-kṛte ta ime ।। [upagīti]

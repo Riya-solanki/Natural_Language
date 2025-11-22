@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 817 | label: meter | g:0.25 m:0.5 ---
+
+tvaṃ puṇya-janasevya-śrīr devānāṃ priyatāṃ gataḥ ।
+so' py agre tvad-vidhānāṃ syād bhojānāṃ gopa-dārakaḥ ।। [anuṣṭubh]

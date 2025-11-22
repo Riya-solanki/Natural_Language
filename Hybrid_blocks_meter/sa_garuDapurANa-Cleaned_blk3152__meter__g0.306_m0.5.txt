@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3152 | label: meter | g:0.306 m:0.5 ---
+
+dhanasya yasya rājato bhayaṃ na cāsti caurataḥ ।
+mṛtaṃ ca yanna mucyate samarjayasva taddhanam ।।

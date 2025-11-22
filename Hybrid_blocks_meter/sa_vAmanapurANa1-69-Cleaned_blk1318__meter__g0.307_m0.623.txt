@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1318 | label: meter | g:0.307 m:0.623 ---
+
+sa eva kṣetrapālo abhūt paśupālaḥ sa eva hi ।
+sa sarvapālakaścāsīt prajāpālo mahābalaḥ ।।

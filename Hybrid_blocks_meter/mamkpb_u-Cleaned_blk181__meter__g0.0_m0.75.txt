@@ -1,0 +1,3 @@
+--- source: mamkpb_u-Cleaned.txt | block: 181 | label: meter | g:0.0 m:0.75 ---
+
+kāvyasvarūpaṃ nirūpya doṣāṇāṃ sāmānyalakṣaṇamāha

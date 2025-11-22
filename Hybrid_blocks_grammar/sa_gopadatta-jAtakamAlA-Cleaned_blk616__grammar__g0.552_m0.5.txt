@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 616 | label: grammar | g:0.552 m:0.5 ---
+
+śrutvā vacāṃsi sa jano jagadekabandhor nandasya tāṃ ca vipadaṃ vipulām udīkṣya ।
+vikṣipya matsaramayīṃ manasas tamisrāṃ dānādikaṃ sucaritaṃ prathayāṃ babhūva ।।

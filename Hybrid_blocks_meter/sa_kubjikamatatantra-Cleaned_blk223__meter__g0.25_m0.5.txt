@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 223 | label: meter | g:0.25 m:0.5 ---
+
+paramārthaṃ yadā deva tadā syāt siddhisādhanam 
+atha cet tan mṛṣā vākyaṃ tat kiṃ nāma pratiṣṭhitam ।।

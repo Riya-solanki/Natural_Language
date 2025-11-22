@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 998 | label: grammar | g:0.583 m:0.5 ---
+
+atha vajrapāṇirmahābodhisatva idaṃ svakarmaviśuddhijñānamudrāhṛdayamudājahāra oṃ vajrakarma viśodhaya sarvāvaraṇāni buddhasatyena samaya hūṃ ।।

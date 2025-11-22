@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1806 | label: meter | g:0.25 m:0.5 ---
+
+sarpodarā daridrāḥ syuḥ piṭharaiśca ghaṭaiḥ samaiḥ ।
+dhanino vipulaiḥ pārśvairniḥ svā raktaiśca nimnagaiḥ ।।

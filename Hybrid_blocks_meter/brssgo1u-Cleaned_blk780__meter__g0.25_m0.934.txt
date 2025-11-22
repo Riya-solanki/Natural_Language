@@ -1,0 +1,9 @@
+--- source: brssgo1u-Cleaned.txt | block: 780 | label: meter | g:0.25 m:0.934 ---
+
+vākyasya brahmātmaikyaparatve hetvantaramāha-patyādīti ।
+sūtraṃ vyācaṣṭe-itaśceti ।
+vaśī svatantraḥ ।
+aparādhīna iti yāvat ।
+īśāno niyamanaśaktimān ।
+śakteḥ kāryamādhipatyamiti bhedaḥ ।
+tasmācchodhitatvamarthaikye ṣaṣṭhādhyāyasamanvaya iti siddham ।।

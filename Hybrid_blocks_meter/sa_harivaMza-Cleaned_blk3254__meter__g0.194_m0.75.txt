@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3254 | label: meter | g:0.194 m:0.75 ---
+
+dvirephābharaṇāś caiva kadambā vāyughaṭṭitāḥ 
+mumucur gandham adhikaṃ saṃtatāsāramūrchitāḥ ।।

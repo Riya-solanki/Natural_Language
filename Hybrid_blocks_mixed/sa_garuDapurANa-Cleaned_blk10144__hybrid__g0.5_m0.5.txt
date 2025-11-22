@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10144 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā surāṇāṃ pravaro janārdano yathāyudhānāṃ pravaraḥ sudarśanam ।
+yathāśvamedhaḥ pravaraḥ kratūnāṃ chinneṣu bhakteṣu tathaiva rudraḥ ।।

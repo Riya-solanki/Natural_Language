@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 235 | label: meter | g:0.194 m:0.618 ---
+
+pāṭhasthānamukhyapravṛttipramāṇakastu kasmānna bhavatītyata āha-śeṣaśeṣitve pramāṇābhāvāt ।
+śeṣāṇāṃ samidādīnāṃ śeṣiṇāṃ cāgneyādīnāṃ ekaphala

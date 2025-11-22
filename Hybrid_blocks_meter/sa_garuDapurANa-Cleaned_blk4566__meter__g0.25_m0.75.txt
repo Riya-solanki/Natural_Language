@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4566 | label: meter | g:0.25 m:0.75 ---
+
+mūtrayetsikatāmehī sikatārūpiṇo malān ।
+śītamehī subahuśo madhuraṃ bhṛśaśītalam ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 100 | label: grammar | g:0.75 m:0.5 ---
+
+[] teṣu ca bahir īdṛg-avastheṣu tathāntar anavastheṣu na ko' pi prakopi tad-vṛttaṃ vraje vṛttaṃ kuryād iti vicārya diviṣad-varya-vrajena muhur utpāta-vrātaṃ pratyāpayya tam anusañcāryate sma ।

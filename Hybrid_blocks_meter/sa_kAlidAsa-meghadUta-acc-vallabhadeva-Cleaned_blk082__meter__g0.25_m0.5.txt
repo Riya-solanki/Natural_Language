@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 82 | label: meter | g:0.25 m:0.5 ---
+
+nūnaṃ tasyāḥ prabalaruditocchūnanetraṃ bahūnāṃ niḥśvāsānām aśiśiratayā bhinnavarṇādharauṣṭham 
+hastanyastaṃ mukham asakalavyakti lambālakatvād indor dainyaṃ tvadupasaraṇakliṣṭakānter bibharti ।।

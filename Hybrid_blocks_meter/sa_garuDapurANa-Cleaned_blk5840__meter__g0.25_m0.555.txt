@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5840 | label: meter | g:0.25 m:0.555 ---
+
+mṛnmayīṃ vahasi kṣoṇīṃ tasmai te brahmaṇe namaḥ ।
+yanna spṛśanti na viduḥ manobuddhīndriyāsavaḥ ।
+antarbahistvaṃ carasi vyomatulyaṃ namāmyaham ।।

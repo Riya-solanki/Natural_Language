@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 287 | label: meter | g:0.281 m:0.5 ---
+
+yatha jambudvīpaka manuṣya alabdhapūrvā divi devauttamapurā anuprāpuṇeyā 
+paśyitva te viṣaya tatra parigṛhītā punarāgameya na ca niśrayu tatra kuryāt ।।

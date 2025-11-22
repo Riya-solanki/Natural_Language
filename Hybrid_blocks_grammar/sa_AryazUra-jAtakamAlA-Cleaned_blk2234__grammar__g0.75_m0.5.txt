@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2234 | label: grammar | g:0.75 m:0.5 ---
+
+athānyatamā vanadevatā tasya tamasatkāramasahamānā dhairyaprayāmajijñāsayā vā samutpatya taṃ mahāsattvamuvāca - pakṣivara, kasmādimamasatkāramasya durātmanaḥ kṛtopakāraḥ । san saṃvidyamānāyāṃ śaktāvapi marṣayasi? ko arthaḥ kṛtaghnenānenaivamupekṣitena?

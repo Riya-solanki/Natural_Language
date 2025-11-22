@@ -1,0 +1,4 @@
+--- source: visa01cu-Cleaned.txt | block: 46 | label: meter | g:0.25 m:0.703 ---
+
+evaṃ cābhidheyaṃ ceti ।
+nirūpaṇārthaṃ kāvyasya etadgranthābhidheyatvāt ।

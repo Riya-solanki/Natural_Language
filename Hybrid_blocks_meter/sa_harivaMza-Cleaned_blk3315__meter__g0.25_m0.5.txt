@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3315 | label: meter | g:0.25 m:0.5 ---
+
+sthito bhūmigataś caiva yo yathāmārgataḥ sthitaḥ 
+sthitau bhūmigatau caiva yathā tau mārgam āsthitau । 
+niyudhyataś ca paryāyaḥ prāśnikaiḥ samudāhṛtaḥ ।।

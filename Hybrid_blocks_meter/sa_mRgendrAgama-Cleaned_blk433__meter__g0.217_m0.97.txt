@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 433 | label: meter | g:0.217 m:0.97 ---
+
+dvayorapyadhvanorevaṃ kramaprasavayoginoḥ 
+vilayaḥ prātilomyena śaktitattvadvayāvadhiḥ ।।

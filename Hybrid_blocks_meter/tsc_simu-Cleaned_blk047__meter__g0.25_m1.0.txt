@@ -1,0 +1,4 @@
+--- source: tsc_simu-Cleaned.txt | block: 47 | label: meter | g:0.25 m:1.0 ---
+
+brahmānugrahamasṛjadrūpatanmātrataḥ pṛthak ।
+utpādyānugrahadhyānāt prāktanādhāravarjanāt ।।

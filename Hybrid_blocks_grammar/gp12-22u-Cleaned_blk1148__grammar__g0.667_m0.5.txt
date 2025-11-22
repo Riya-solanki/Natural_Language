@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1148 | label: grammar | g:0.667 m:0.5 ---
+
+[] tad evaṃ tvayābhiramitā [] ity asya tu tat-sparśānantaraṃ tvayā sarvato-bhāvena prayukta-raty-ākhya-bhāvā ity evārthaḥ saṅgacchate ।

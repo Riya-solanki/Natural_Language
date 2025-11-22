@@ -1,0 +1,8 @@
+--- source: kunvjivu-Cleaned.txt | block: 79 | label: meter | g:0.25 m:1.0 ---
+
+mārgānuguṇyasubhago mādhuryādiguṇodayaḥ ।
+alaṅkaraṇavinyāso vakratātiśayānvitaḥ ।।
+vṛttyaucityamanohāri rasānāṃ paripoṣaṇam ।
+spardhayā vidyate yatra yathāsvamubhayorapi ।।
+sā kāpyavasthitistadvidāhlādaikanibandhanam ।
+padādivākyaparispandasāraḥ sāhityamucyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 889 | label: meter | g:0.351 m:0.565 ---
+
+tasmāt praduṣṭamanasāṃ bhagavān apuṇyarāśiḥ prasannamanasāṃ tu sa puṇyarāśiḥ ।
+paryāyato vigatasarvasavāsanāntaḥsaṃkleśakilbiṣadaśo viṣayāntadarśī ।।

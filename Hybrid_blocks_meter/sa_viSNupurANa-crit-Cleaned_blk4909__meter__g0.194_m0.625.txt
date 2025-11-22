@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4909 | label: meter | g:0.194 m:0.625 ---
+
+balakṣayaṃ vivṛddhiṃ ca dṛṣṭvā cāṇūrakṛṣṇayoḥ 
+vārayām āsa tūryāṇi kaṃsaḥ kopaparāyaṇaḥ ।।

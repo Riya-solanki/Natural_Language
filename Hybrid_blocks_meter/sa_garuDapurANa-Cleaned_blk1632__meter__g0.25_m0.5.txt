@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1632 | label: meter | g:0.25 m:0.5 ---
+
+mitro atristakṣako rakṣaḥ pauruṣeyo atha menakā ।
+hāhā rathasvanaścaiva jyeṣṭhe bhāno rathe sthitāḥ ।।

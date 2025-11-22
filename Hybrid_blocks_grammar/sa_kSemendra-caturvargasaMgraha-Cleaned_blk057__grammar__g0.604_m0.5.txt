@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 57 | label: grammar | g:0.604 m:0.5 ---
+
+arthākṛṣṭiṃ vidhātuṃ kaṭuraṭanapaṭur dāmbhikaḥ śrījaḍānāṃ jānāty anyāsahiṣṇur vitathanijaguṇastotrapāṭheṣv alajjaḥ ।
+āryaḥ kuryān na sevaṃ kulavinayaguṇais tena mūko arthanāyāṃ tīkṣṇānāṃ mārgaṇānāṃ bhavati hi purataḥ kṣmāpater lakṣalābhaḥ ।।

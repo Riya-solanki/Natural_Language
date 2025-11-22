@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1797 | label: meter | g:0.28 m:0.693 ---
+
+atha prayogātiśayaḥ 
+eṣo' yam ity upakṣepāt sūtradhāra-prayogataḥ । 
+prayoga-sūcanaṃ yatra prayogātiśayo hi saḥ ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1526 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā vikramorvaśīye prathamaḥ-aye sadoṣāvakāśa iva te vākya-śeṣaḥ ।

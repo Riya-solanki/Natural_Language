@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 290 | label: grammar | g:0.646 m:0.5 ---
+
+[] tathā ca kṣaṇa-katipaye labdha-kṣaṇa-pracaye tāḥ sādaram ādāya, jala-jāta-jāta-samīraṇa-samīra-saraṇi-taraṇijā-taralatara-taraṅga-raṅga-nibha-nīra-sanīḍa-tīra-sarasaika-saikata-pulināntaraṃ nirvrīḍaṃ krīḍann eva vṛndāvana-devaḥ sevayāmāsa ।

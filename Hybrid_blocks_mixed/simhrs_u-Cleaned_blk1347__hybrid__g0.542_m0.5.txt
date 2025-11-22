@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1347 | label: hybrid | g:0.542 m:0.5 ---
+
+yathā tatraiva pratīhārī -katham ayam anyādṛśa iva lakṣyate' mburāśiḥ ।

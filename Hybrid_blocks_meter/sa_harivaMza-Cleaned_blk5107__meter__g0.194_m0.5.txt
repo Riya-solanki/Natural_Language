@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5107 | label: meter | g:0.194 m:0.5 ---
+
+ata ūrdhvaṃ cyute dharme guṇahīnāḥ prajās tataḥ 
+śīlavyasanam āsādya prāpsyante hrāsam āyuṣaḥ ।।

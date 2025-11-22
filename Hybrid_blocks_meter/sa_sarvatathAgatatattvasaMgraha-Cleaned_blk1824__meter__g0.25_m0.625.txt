@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1824 | label: meter | g:0.25 m:0.625 ---
+
+padmaśrīnātha nāthāgra dharmaśrīnātha nāthavān ।
+brahmanātha mahābrahma brahmaputra namo astu te ।।

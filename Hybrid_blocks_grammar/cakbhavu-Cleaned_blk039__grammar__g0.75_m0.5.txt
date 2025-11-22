@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 39 | label: grammar | g:0.75 m:0.5 ---
+
+Viv bāhyaviṣayākṣepakatvān manonmanālakṣaṇaṃ dvāraṃ tadvāsi kulaṃ dvāḥsthakulaṃ dvāḥsthasamūhaḥ, vikalparasā eva hi svarūparasāveśadravaṇenāsamvibhaktā bāhyakaṣyāsu kṣipanti, tad anu caivaṃ mānitās te svarūpanarapatisamīpam arpayanti, iti svaśaktibhāgāvadhānena pūjyaṃ svīkṛtamanaskaiḥ ।।

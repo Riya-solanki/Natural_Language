@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 142 | label: grammar | g:0.583 m:0.5 ---
+
+mohādvaitaṃ viharati dhṛtirlīyate jāḍyamīne bhātyunmādo bhramati matirityādi so ahaṃ na vedmi ।
+bāṇaṃ muñcan parisaracaro na svapan nāpi khādan kṛtsnaṃ jānātyalasagamane kevalaṃ pañcabāṇaḥ ।।

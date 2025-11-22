@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3568 | label: grammar | g:0.75 m:0.5 ---
+
+aśmakasya mūlako nāma putro abhavat । yo asau niḥkṣatre kṣmātale asmin kriyamāṇe strībhir vivastrābhiḥ parivārya rakṣitaḥ tatas taṃ nārīkavacam udāharanti ।।

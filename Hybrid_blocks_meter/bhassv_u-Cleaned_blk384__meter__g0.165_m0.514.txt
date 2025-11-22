@@ -1,0 +1,8 @@
+--- source: bhassv_u-Cleaned.txt | block: 384 | label: meter | g:0.165 m:0.514 ---
+
+{rājā} - kalatradarśanārhaṃ janaṃ kalatradarśanāt pariharatīti bahudoṣam utpādayati 
+tasmād āsyatām 
+{padmāvatī} - jaṃ ayyautto āṇavedi 
+{upaviśya }
+ayyautta tādo vā ambā vā kiṃṇukhu bhaṇissadi tti āviggā via saṃvuttā 
+[yad āryaputra ājñāpayati । āryaputra tāto vāmbā vā kin nu khalu bhaṇiṣyatīty āvigneva saṃvṛttā । ]

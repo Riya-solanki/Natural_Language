@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 491 | label: meter | g:0.25 m:0.5 ---
+
+tato gaccheta śraddhāvān mānuṣaṃ lokaviśrutam ।
+darśanāt tasya tīrthasya mukto bhavati kilbiṣaiḥ ।।

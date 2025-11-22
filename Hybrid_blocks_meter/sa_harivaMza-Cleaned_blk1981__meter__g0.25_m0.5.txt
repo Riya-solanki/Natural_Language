@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1981 | label: meter | g:0.25 m:0.5 ---
+
+asyāś ca deva gaṅgāyā gāṃ gatāyās tavājñayā 
+maddoṣāt samadoṣāyāḥ prasādaṃ kartum arhasi ।। 
+prasādaṃ kuru me brahman vidyate śāpakāraṇam । 
+tam ahaṃ ślakṣṇayā vācā mahārṇavam athābruvam 
+akāraṇajñaṃ devānāṃ trastaṃ śāpānileritam ।।

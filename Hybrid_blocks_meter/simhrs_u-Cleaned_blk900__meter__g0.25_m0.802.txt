@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 900 | label: meter | g:0.25 m:0.802 ---
+
+atha bhayam-
+bhayaṃ tu mantunā ghora-darśana-śravaṇādibhiḥ ।
+cittasyātīva cāñcalyaṃ tat prāyo nīca-madhyayoḥ ।। 
+uttamasya tu jāyeta kāraṇair atilaukikaiḥ ।
+bhaye tu ceṣṭā vaivarṇyaṃ stabdhatvaṃ gātra-kampanam ।। 
+palāyanaṃ parāvṛtya vīkṣaṇaṃ svātma-gopanam ।
+āsya-śoṣaṇam utkrośa-śaraṇānveṣaṇādayaḥ ।।

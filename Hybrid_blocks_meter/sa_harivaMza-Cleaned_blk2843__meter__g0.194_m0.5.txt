@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2843 | label: meter | g:0.194 m:0.5 ---
+
+gāvo varṣabhayāt tīrṇā vayaṃ tīrṇā mahābhayāt 
+tava prasādād govinda devatulya mahādyute ।।

@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 407 | label: meter | g:0.25 m:0.75 ---
+
+liṅgaṃ tasya vivṛddhiśca nirūḍhiścittasaṃsthitiḥ ।
+caturdhā ca vikalpasya pratipakṣaścaturvidhaḥ ।।

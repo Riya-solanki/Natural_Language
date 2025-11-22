@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2013 | label: grammar | g:0.562 m:0.5 ---
+
+śrutvā kumāravacanaṃ bhagavānmaharṣe kṛtvā matiṃ svahṛdaye guhamāha śakraḥ ।
+matto bhavān na matimān vadase kimarthaṃ vākyaṃ śṛṇuṣva hariṇā gaditaṃ hi pūrvam ।।

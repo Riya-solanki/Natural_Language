@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3041 | label: meter | g:0.29 m:0.747 ---
+
+khuroddharaṇamuktena madhurakṣodapāṇḍunā 
+rajasā sa hayaḥ kṛṣṇaṃ cakārāruṇamūrdhajam ।।

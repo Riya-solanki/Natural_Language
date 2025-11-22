@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 825 | label: meter | g:0.306 m:0.625 ---
+
+dharmātyayo me yadi kaścidevaṃ janāpavādaḥ sukhaviplavo vā ।
+pratyudgamiṣyāmyurasā tu tattattvatsaukhyalabdhena manaḥsukhena ।।

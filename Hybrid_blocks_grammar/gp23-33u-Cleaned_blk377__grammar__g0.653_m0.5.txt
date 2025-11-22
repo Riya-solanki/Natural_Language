@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 377 | label: grammar | g:0.653 m:0.5 ---
+
+mānāgni-maya-dṛg-vāṇaṃ muñca tvaṃ kiṃ nu garvasi । rādhe kṛṣṇaś ca dṛk-paryak-parjanyāstraṃ vimokṣyati ।।
+[] atha sambhramād āgatasya nakharādi-sparśāt kṣatāyamāna-raktimnā samaktasya kāntasya vacanaṃ tasyāḥ prativacanaṃ ca ।
+dayite dayita kathaṃ tvaṃ malina-mukhī dhig na vetsi hā kim idam । nakha-radana-kṣatam ūhet tvayi supte supti-rākṣasī cakre ।।[] atha tasyāḥ sakhyā saṃvādaḥ-
+jalade vilasati vidyud bibhyati hṛdayāṇi bhīrūṇām । hasasi hariṃ kimu mugdhe na hi hṛdi citraṃ stuve' ham etasya ।।[] atha tasyāḥ kṛṣṇaṃ prati-

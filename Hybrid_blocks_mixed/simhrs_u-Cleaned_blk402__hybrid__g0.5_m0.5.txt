@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 402 | label: hybrid | g:0.5 m:0.5 ---
+
+atra pulaka-saṃroha-lakṣaṇa-veṣa-janitena śivasya hasanena gaurī-hṛdayānurāgasya prakāśanān narma ।

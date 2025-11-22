@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 280 | label: meter | g:0.25 m:0.5 ---
+
+dormūlāvadhisūtritastanamuraḥ snihyatkaṭākṣe daśau kiñcittāṇḍavapaṇḍite smitasudhāsiktoktiṣa bhrūlate ।
+cetaḥ kandalitaṃ smaravyatikarairlāvyamaṅgairvṛtaṃ tanvaṅgyāstaruṇimnisarpatiśanairanyaiva kāciddyutiḥ ।।

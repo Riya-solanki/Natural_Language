@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1630 | label: hybrid | g:0.405 m:0.5 ---
+
+kiṃ padmasya ruciṃ na hanti nayanānandaṃ vidhatte na kiṃ
+vṛddhiṃ vā jhaṣaketanasya kurute nāloka-mātreṇa kim ।
+vaktrendau tava saty ayaṃ yad aparaḥ śītāṃśur ujjṛmbhate
+darpaḥ syād amṛtena ced iha tad apy asty eva bimbādhare ।।

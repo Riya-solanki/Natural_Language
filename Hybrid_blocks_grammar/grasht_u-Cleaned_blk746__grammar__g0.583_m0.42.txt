@@ -1,0 +1,11 @@
+--- source: grasht_u-Cleaned.txt | block: 746 | label: grammar | g:0.583 m:0.42 ---
+
+anyadyantramāha kṛtvetyādi ।।
+pūrvavaddīrghāṃ dhūrtakusumasaṃkāśāṃ dhattūrapuṣpasaṃkāśāṃ pūrvayantranalikāyāḥ sthāne evaṃvidhāṃ ṣaḍaṅgulāṃ nalikāṃ kuryād iti vyaktiḥ ।।
+mūṣāpi adho vilagnā nalikāyāstalabhāge mūṣā vilagnā saṃlagnā kāryā ।।
+sā ca mṛdā mṛtsnayā lepyā ।।
+punarapi aparā sūkṣmā nālikā saptāṅgulā saptāṅgulaparimāṇā sudṛḍhā manoharakaṭhinā kāryā yathā madhye ṣaḍaṅgulanālikāntaḥ praviśati tadvattathā kāryā ।।
+kiṃbhūtā dṛḍhamukhā dṛḍhaṃ mukhaṃ yasyāḥ sā evaṃrūpā tasmin saṃsiddhe yantre sāraṇatailānvitaḥ sūtaḥ kṣiptaḥ san madanaruddhamukhaḥ kāryaḥ madanena sikthakena ruddhaṃ mudritaṃ mukhaṃ yasya saḥ ।।
+tadanu tatpaścāt hemakoṣṭhikayā hemno yā koṣṭhī eva koṣṭhikā tayā hema svarṇaṃ pradrāvya drāvayitvā tatra kṣipet ityadhyāhāryam ।।
+tasminyantre madhye'ntaḥ nalikāgraṃ nalikāyāḥ saptāṅgulāyā agrabhāgaṃ kṣiptvā adhomukhīṃ kuryāt punarūrdhvaṃ bhārākrāntāṃ kuryāt ।।
+iti kṛte sati rasaḥ sarati hemnā milati na saṃdehaḥ niyatamityarthaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 295 | label: grammar | g:0.604 m:0.5 ---
+
+amṛtam iti nigīrṇe kālakūṭe api devā yadi pibata tadānīṃ niścitaṃ vaḥ śivatvam ।।

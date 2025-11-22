@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 50 | label: grammar | g:0.688 m:0.5 ---
+
+prauḍha prāṇada kānta nātha subhagodāra priya tvāṃ vinā kiṃ vittena gṛheṇa kiṃ kim asubhir hyo apīti yo bhāṣitaḥ ।
+tasyaivādya nirāśa durbhaga paśo nirlajja gacchādhunā dhik tvāṃ nirdhanacaṅgam ity apavadan hrīto na veśyājanaḥ ।।

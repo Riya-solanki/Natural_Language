@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1176 | label: meter | g:0.25 m:0.75 ---
+
+satvavajraṃ dṛḍhīkṛtya dvyaṅguṣṭhagrastamadhyame ।
+kaniṣṭhā vajramukhato tīkṣṇa[āntu samaya]grahāṃ ।।

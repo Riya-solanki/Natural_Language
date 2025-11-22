@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1834 | label: meter | g:0.25 m:0.625 ---
+
+āhārayogyāsu kṛtaśramatvaṃ taddarśayatyasya bhavāntareṣu ।
+abhyāsasiddhirhi paṭukaroti śikṣāgaṇaṃ karmasu teṣu teṣu ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9428 | label: meter | g:0.25 m:0.5 ---
+
+upakārāya sā bharturjīvantī na mṛtā tathā ।
+uddharejjīvamānā sā satī satyavatī priyam ।।

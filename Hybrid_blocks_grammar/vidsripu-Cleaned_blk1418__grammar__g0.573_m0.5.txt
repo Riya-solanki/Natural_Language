@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1418 | label: grammar | g:0.573 m:0.5 ---
+
+na sambandopādhiṃ dadhata iha dākṣiṇyanidhayaḥ prahṛṣṭapremāṇāṃ sa hi sahaja eṣām udayate ।
+ka ete sambandhān malayamarutaś cūtataravo yad etān ālabhya pratiparurudānaṃ janayati ।।

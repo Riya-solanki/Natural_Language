@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 542 | label: meter | g:0.194 m:0.75 ---
+
+akṛtvā śivabhaktānāṃ kṛtvā ca vyabhicāriṇām 
+prāyaścittī bhavedyasmāt kuryādyatnamataḥ param ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 560 | label: meter | g:0.328 m:0.595 ---
+
+krauryābhyāsāvaliptasya manaso vṛttivaikṛtam ।
+na hi saṃkocam āyāti khalānāṃ kṛpaṇeṣv api ।।

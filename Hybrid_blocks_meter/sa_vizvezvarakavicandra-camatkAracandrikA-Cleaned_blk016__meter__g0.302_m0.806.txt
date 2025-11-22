@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 16 | label: meter | g:0.302 m:0.806 ---
+
+alpaprāṇā mahāprāṇā iti te ddevidhā matāḥ ।
+budhāstatra mahāprāṇānāhurūṣmacatuṣṭayam ।।

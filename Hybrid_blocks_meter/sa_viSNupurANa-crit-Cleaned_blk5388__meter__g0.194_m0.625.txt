@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5388 | label: meter | g:0.194 m:0.625 ---
+
+yam abhyetya janaḥ sarvo jātiṃ smarati paurvikīm 
+vāsyate yasya puṣpotthagandhenorvī triyojanam ।।

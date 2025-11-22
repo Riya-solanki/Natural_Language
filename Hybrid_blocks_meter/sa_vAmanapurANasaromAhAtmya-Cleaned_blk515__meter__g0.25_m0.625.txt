@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 515 | label: meter | g:0.25 m:0.625 ---
+
+yastatra kurute śrāddhaṃ śivamuddiśya mānavaḥ ।
+caitrasuklacaturdaśyāṃ prāpnoti paramaṃpadam ।।

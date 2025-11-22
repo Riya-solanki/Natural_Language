@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 406 | label: meter | g:0.424 m:0.698 ---
+
+sthānanāmarūpāṇāṃ dhyānārthaṃ śrutyantare apyupadeśādakṣisthānatvoktiratra na doṣa iti sūtrayojanā ।
+anavakḷptiḥ akḷptakalpanā tadā bhavet, yadyatraiva nirdiṣṭaṃ bhavedityanvayaḥ ।
+nanvanucitabāhulyoktirasamādhānamityāśaṅkya yuktimāha-nirguṇamapīti ।।

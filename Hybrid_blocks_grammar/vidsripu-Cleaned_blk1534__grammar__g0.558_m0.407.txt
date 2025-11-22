@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1534 | label: grammar | g:0.558 m:0.407 ---
+
+mayā tāvad dṛṣṭo na khalu kalikandarpanṛpater guṇais tulyaḥ ko api kvacid api kim aśrāvi bhavatā ।
+iti praśnaśraddhākulitam iva karṇāntikam agān mṛgākṣīṇāṃ cakṣuś caṭulataratārāntataralam ।।
+vasukalpasya

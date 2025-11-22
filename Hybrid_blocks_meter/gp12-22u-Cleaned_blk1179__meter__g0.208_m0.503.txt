@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1179 | label: meter | g:0.208 m:0.503 ---
+
+mayā svabhāvān muralī nināditā
+tasmād bhavatyaḥ kila saṅgatā iha ।
+ataḥ parīyur bata cet pare janāḥ
+śaṅke tataḥ suṣṭhv iti nātra tiṣṭhata ।। [upajāti ] iti ।

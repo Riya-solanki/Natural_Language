@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 431 | label: grammar | g:0.75 m:0.5 ---
+
+[] dūty uvāca-asaṅkhyāvatāṃ bhavatāṃ purataḥ katham eka-saṅkhyāvatī pratyuttaraṃ dadyām । bhavāṃs tu tatrānubandha eva । tathāpi sarve śṛṇvantu । tāsām abalātvaṃ khalu virodhi-lakṣaṇayā yataḥ śastra-śarīratvam eva dṛśyate । tad etac ca tan-mukhyām upalakṣya lakṣyatām ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2001 | label: meter | g:0.328 m:0.595 ---
+
+śatena saṃpūjayituṃ subhāṣitaṃ paraṃ pramāṇaṃ na tataḥ paraṃ kṣamam ।
+atipradāturhi kiyacciraṃ bhaveddhaneśvarasyāpi dhaneśvaradyutiḥ ।।

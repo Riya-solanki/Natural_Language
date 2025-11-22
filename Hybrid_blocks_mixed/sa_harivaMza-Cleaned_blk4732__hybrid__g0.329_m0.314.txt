@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4732 | label: hybrid | g:0.329 m:0.314 ---
+
+niḥsaṅgabhagnāṃ mahatīṃ dṛṣṭvā tāṃ vāhinīṃ tadā 
+bāṇaḥ krodhāt prajajvāla samiddho agnir ivādhvare ।। 
+antarikṣacaro bhūtvā sādhuvādī samantataḥ । nārado nṛtyati prīto hy aniruddhasya saṃyuge ।। etasminn antare caiva bāṇaḥ paramakopana । 
+kumbhāṇḍasaṃgṛhītaṃ tu ratham āsthāya vīryavān 
+yayau yatrāniruddho vai so asim udyamya dāruṇam ।।

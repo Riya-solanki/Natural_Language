@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 432 | label: hybrid | g:0.373 m:0.492 ---
+
+FN amṛtaśceti vināśino dehāntarabhogānupapatterityarthaḥ ।
+kartarīti kriyāyāṃ guṇaḥ kartā, pradhānaṃ karma, tatraikasyāṃ kriyāyāmekasya guṇatvapradhānatvayorvirodhānna kartuḥ karmatvamityarthaḥ ।

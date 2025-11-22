@@ -1,0 +1,9 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 20 | label: meter | g:0.25 m:0.612 ---
+
+ṣaḍvidhaḥ karmabhedaḥ iti sādhanabhedopacārāt ।
+vakṣyamāṇasūtrakramānurodhena nāmadheyaṃ saṃkhyānantaraṃ paṭhitavyaṃ sad anādarād ante paṭhitam ।
+itikaraṇo hetvarthaḥ ।
+ṣaḍvidhaḥ karmabheda etaiḥ kāraṇair iti yāvat ।
+atha vā karaṇe bhedaśabdaṃ vyutpādya sāmānādhikaraṇyenaiva śabdāntarādīni vyākhyeyāni ।
+saṃjñāśabdāntarayoḥ saṃkhyāguṇayoś cāpaunaruktyaṃ svasthāne vakṣyāmaḥ ।
+sarvadā caiṣāṃ bhinnaviṣayatvān na śrutyādivad

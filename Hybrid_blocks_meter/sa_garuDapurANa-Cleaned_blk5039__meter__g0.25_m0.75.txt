@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5039 | label: meter | g:0.25 m:0.75 ---
+
+vātānulomanī laghvī peyā vastiviśodhanī ।
+satakradāḍimavyoṣā saguḍā madhupippalī ।।

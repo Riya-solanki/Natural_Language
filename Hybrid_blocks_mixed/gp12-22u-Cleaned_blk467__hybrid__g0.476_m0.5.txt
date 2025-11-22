@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 467 | label: hybrid | g:0.476 m:0.5 ---
+
+nahi para-puruṣe vāñchā mama sakhī kācit kathañcid apy asti ।
+prakṛtiḥ seyaṃ yad asita-vastuni dṛṣṭe bhavet kampaḥ ।। [āryā]

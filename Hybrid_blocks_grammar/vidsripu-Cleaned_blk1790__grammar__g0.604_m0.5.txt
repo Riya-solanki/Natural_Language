@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1790 | label: grammar | g:0.604 m:0.5 ---
+
+subandhau bhaktir naḥ ka iha raghukāre na ramate dhṛtir dākṣīputre harati haricandro api hṛdayam ।
+viśuddhoktiḥ śūraḥ prakṛtisubhagā bhāravagiras tathāpy antarmodaṃ kam api bhavabhūtir vitanute ।।

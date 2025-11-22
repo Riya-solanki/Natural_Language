@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 219 | label: meter | g:0.25 m:0.625 ---
+
+pratiyāteṣu deveṣu prahlādādyā ditīsvarāḥ ।
+namaskṛtya tataḥ sarve tasthuḥ prāñjalayo mune ।।

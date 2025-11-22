@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1563 | label: meter | g:0.306 m:0.5 ---
+
+prapātapātādadhṛtiṃ ca mā gāḥ śakto ahamuddhartumito bhavantam ।
+visrambhitavyaṃ mayi manyase cettatkipramājñāpaya yāvadaimi ।।

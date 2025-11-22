@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3684 | label: meter | g:0.194 m:0.5 ---
+
+vāhanāni ca naḥ santi pādātaṃ cāpy anantakam 
+ratnāni ca vicitrāṇi mitrāṇi bahulāni ca ।।

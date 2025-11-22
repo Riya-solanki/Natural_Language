@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1121 | label: meter | g:0.25 m:0.5 ---
+
+taccaikatāṃ parvatakūṭasannibhaṃ jagāma tejaḥ pravarāśram mune ।
+kātyāyanasyāpratimasya tena maharṣiṇā teja upākṛtaṃ ca ।।

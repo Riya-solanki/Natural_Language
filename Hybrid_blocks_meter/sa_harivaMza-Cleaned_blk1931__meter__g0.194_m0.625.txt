@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1931 | label: meter | g:0.194 m:0.625 ---
+
+sāṃprataṃ khidyamānāham enam eva gadādharam 
+anāthā jagato nāthaṃ śaraṇyaṃ śaraṇaṃ gatā ।।

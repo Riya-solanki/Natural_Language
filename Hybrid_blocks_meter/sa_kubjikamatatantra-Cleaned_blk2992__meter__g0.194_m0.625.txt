@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2992 | label: meter | g:0.194 m:0.625 ---
+
+ante ca saṃsthitā hy ekā antyajā parameśvarī 
+rajastamovinirmuktā mahānte rajakī ume ।।

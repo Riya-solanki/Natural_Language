@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3886 | label: meter | g:0.194 m:0.625 ---
+
+āpatantaṃ hi vegena jarāsaṃdhaṃ mahābalam 
+ṣaḍbhir vivyādha nārācair yuyudhāno mahāmṛdhe ।।

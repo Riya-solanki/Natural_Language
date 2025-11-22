@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3644 | label: meter | g:0.194 m:0.5 ---
+
+gṛheṣu bhavatāṃ bhuktaṃ gāvaś ca parirakṣitāḥ 
+asmākaṃ bāndhavāḥ sarve bhavanto baddhasauhṛdāḥ ।।

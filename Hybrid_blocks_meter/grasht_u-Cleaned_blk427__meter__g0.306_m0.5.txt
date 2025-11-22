@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 427 | label: meter | g:0.306 m:0.5 ---
+
+abhrasatvādīnāṃ yoge rase vyavasthāmāha balamityādi ।।
+abhrakasatve'dhikaraṇe balamāste abhrasatvasaṃyogena raso balamāpnotītyarthaḥ ।।
+punastīkṣṇe lohabhede jāraṇarāgā jāraṇena tīkṣṇasthā rāgāḥ pratiṣṭhitā bhavantītyarthaḥ ।।
+sāraṇamatha nāgavaṅgābhyām iti nāgavaṅgābhyāṃ duḥsaraṇaṃ sāraṇadravyaṃ sarata iti ।।

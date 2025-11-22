@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3142 | label: meter | g:0.194 m:0.823 ---
+
+kṣīṇākārāsu tārāsu suptaniṣpratibhāsu ca 
+naiśam antardadhe rūpam udagacchad divākaraḥ 
+śītāṃśuḥ śāntakiraṇo niṣprabhaḥ samapadyata ।। 
+eko nāśayate rūpam eko vardhayate vapuḥ । 
+gobhiḥ samavakīrṇāsu vrajaniryāṇabhūmiṣu 
+manthāvartanapūrṇeṣu gargareṣu nadatsu ca ।।

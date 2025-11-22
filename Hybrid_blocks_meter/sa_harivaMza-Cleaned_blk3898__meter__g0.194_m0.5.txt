@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3898 | label: meter | g:0.194 m:0.5 ---
+
+nyahanat sārathiṃ cāsya dhvajaṃ ciccheda cocchritam 
+prativivyādha taṃ kruddhaḥ pauṇḍraḥ ṣaḍbhiḥ śilīmukhaiḥ ।।

@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 300 | label: meter | g:0.034 m:0.599 ---
+
+{vidūṣakaḥ} - gacchadu bhodī 
+jāva ahaṃ vi tattahodo ṇivedaissaṃ 
+[gacchatu bhavatī । yāvad aham api tatrabhavate nivedayiṣyāmi । ]

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1434 | label: hybrid | g:0.542 m:0.5 ---
+
+laṅkā-jaṃ tiṇetta-mittassa ṇaarī bhaṇadī । ity antena duṣṭa-rākṣasa-śikṣā-rūpa-rāmotsāha-bījopagamanāt sandhiḥ ।

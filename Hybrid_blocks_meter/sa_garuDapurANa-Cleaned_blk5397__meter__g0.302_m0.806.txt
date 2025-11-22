@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5397 | label: meter | g:0.302 m:0.806 ---
+
+sarjarasāḥ sikthakaṃ ca jīrakaṃ ca harītakī ।
+utsādhitaghṛtābhyaṅgo hyagnidagdhavyathāpanut ।।

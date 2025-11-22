@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5553 | label: meter | g:0.302 m:0.806 ---
+
+haste badhvā nāśayecca arśāṃsyeva na saṃśayaḥ ।
+viṣṇukrāntājamūtreṇa cauravyāghnādirakṣaṇam ।।

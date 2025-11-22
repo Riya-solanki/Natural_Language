@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 89 | label: grammar | g:0.559 m:0.362 ---
+
+tadanena prapañcena dharmādhyāsamuktvā tasya mūlaṃ dharmyadhyāsamāha- evamahaṃpratyayinam ।
+ahaṃpratyayo vṛttiryasmin antaḥkaraṇādau, so ayamahaṃpratyayī; taṃ svapracāraṇasākṣiṇi, antaḥkaraṇapracārasākṣiṇi, caitanyodāsīnatābhyāṃ pratyagātmanyadhyasya ।
+tadanena kartṛtvabhoktṛtve upapādite ।
+caitanyamupapādayati- taṃ ca pratyagātmānaṃ sarvasākṣiṇaṃ tadviparyayeṇa, antaḥkaraṇādiviparyayeṇa- antaḥkaraṇādyacetanam, tasya viparyayaḥ caitanyam, tena, itthaṃbhūtalakṣaṇe tṛtīyā-antaḥkaraṇādiṣvadhyasyati ।
+tadanena antaḥkaraṇādyavacchinnaḥ pratyagātmā idamanidaṃrūpaścetanaḥ kartā bhoktā kāryakāraṇāvidyādvayādhāro ahaṅkārāspadaṃ saṃsārī sarvānarthasaṃbhārabhājanaṃ jīvātmā itaretarādhyāsopādānaḥ tadupādānaścādhyāsa ityanāditvāt bījāṅkuravannetaretarāśrayatvamityuktaṃ bhavati ।

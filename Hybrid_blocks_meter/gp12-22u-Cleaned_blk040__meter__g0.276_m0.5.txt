@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 40 | label: meter | g:0.276 m:0.5 ---
+
+pratyekaṃ gāva etā bahir api ca hareḥ prāṇa-rūpā yad āsāṃ
+śaśvat tṛptau ca tṛptiṃ kṣudhi ca kalayati kṣud-vikāraṃ sa eṣaḥ ।
+ānīyānīya caitā nijahṛdi vidadhad ghrāṇa-saukhyaṃ dadhānaḥ
+śliṣyann uccair vicinvann aśanam upadadat pālayan svena bhāti ।। [sragdharā]

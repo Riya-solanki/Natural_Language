@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5098 | label: meter | g:0.194 m:0.75 ---
+
+ayājyān yājayiṣyanti tathābhakṣyasya bhakṣiṇaḥ 
+brāhmaṇā dhanatṛṣṇārtā yugānte samupasthite ।।

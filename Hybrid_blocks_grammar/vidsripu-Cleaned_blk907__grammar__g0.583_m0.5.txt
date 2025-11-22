@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 907 | label: grammar | g:0.583 m:0.5 ---
+
+unmuktābhir divasam adhunā sarvatas tābhir eva svacchāyābhir niculitam iva prekṣyate viśvam etat ।
+paryanteṣu jvalati jaladhau ratnasānau ca madhye citrāṅgīyaṃ ramayati tamaḥstomalīlā dharitrī ।।

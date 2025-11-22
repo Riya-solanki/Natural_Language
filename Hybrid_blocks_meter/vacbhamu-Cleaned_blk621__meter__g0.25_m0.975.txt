@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 621 | label: meter | g:0.25 m:0.975 ---
+
+udāsīnānāmapi caivaṃ siddhiḥ ।
+bhāṣyasya sugamam ।।

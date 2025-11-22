@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1308 | label: hybrid | g:0.319 m:0.45 ---
+
+yaḥ kartā hara-cāpa-daṇḍa-dalane yaś cānumantā nanu
+draṣṭā yaś ca parīkṣitā ca ya iha stotā ca vaktā ca yaḥ ।।

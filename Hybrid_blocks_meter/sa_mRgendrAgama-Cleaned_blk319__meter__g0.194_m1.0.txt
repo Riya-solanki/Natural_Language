@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 319 | label: meter | g:0.194 m:1.0 ---
+
+sahasradvayaviṣkambhā daśotsedhā navāntarāḥ 
+prāgāyataḥ suparvāṇāḥ sāgarāhitakoṭayaḥ ।।

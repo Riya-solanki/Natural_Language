@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4733 | label: meter | g:0.307 m:0.623 ---
+
+prakopanaiḥ prakupitā viśeṣeṇa vidāhibhiḥ ।
+dehe śīghraṃ viśantīha te antare hi sthitā bahiḥ ।।

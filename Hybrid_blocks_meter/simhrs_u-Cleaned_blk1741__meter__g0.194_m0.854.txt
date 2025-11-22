@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1741 | label: meter | g:0.194 m:0.854 ---
+
+vāmaṃ sandhi-stimita-valayaṃ nyasya hastaṃ nitambe
+kṛtvā śyāmā-viṭapa-sadṛśaṃ srasta-muktaṃ dvitīyam ।
+pādāṅguṣṭhālulita-kusume kuṭṭime pātitākṣaṃ
+nṛttād asyāḥ sthitam atitarāṃ kāntam ṛjvāyatārdham ।।

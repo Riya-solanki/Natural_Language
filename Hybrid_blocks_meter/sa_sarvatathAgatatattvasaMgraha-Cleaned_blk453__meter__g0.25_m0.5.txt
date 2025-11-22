@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 453 | label: meter | g:0.25 m:0.5 ---
+
+"śubhasiddham" iti prokte vaśitvaṃ sarvato bhavet ।
+["nirbhayastvam" iti] prokte nirbhayo bhavettatkṣaṇāt ।।

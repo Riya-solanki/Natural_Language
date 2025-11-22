@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 271 | label: hybrid | g:0.538 m:0.5 ---
+
+evaṃ carantu vidu paṇḍitu bodhisattvo na ca budhyakaṃ labhati nāpi ca buddhadharmān 
+na ca deśikaṃ na pi ca paśyaka dharmatāyāṃ śāntaiṣiṇāmayu vihāra guṇe ratānām ।।

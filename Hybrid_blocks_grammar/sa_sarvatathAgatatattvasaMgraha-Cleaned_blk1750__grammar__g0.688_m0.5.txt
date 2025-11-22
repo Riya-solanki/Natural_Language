@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1750 | label: grammar | g:0.688 m:0.5 ---
+
+atha vajrapāṇiḥ punarapi svakarmottamamabhāṣat [oṃ vajravilāse pūjaya hūṃ ।।] atha vajagarbhaḥ svakarmottamamabhāṣat oṃ vajrābhiṣeke abhiṣiñce hūṃ ।।

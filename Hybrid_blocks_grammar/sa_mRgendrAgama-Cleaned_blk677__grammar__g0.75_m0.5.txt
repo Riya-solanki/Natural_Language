@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 677 | label: grammar | g:0.75 m:0.5 ---
+
+[antaḥ] vyākhyānakālamadhye [śavaśrutau] śavapaṭaharodanādiśrutau [dāhe] gṛhadāhādiśravaṇe [śavagandhe] śavanikaṭadhūmāghrāṇe [kharānile] paruṣatare vāyau ca vahati tadvirāmaṃ vinā vyākhyānaṃ na kuryāt। [khyātajantumṛtyau] prakhyāte kasmiṃścijjantau mṛte [vāsaram] naikāhaṃ vyācakṣīta।।

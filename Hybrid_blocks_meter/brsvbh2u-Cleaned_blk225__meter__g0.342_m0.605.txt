@@ -1,0 +1,5 @@
+--- source: brsvbh2u-Cleaned.txt | block: 225 | label: meter | g:0.342 m:0.605 ---
+
+adhiṣṭhānānupapatteśca ।
+yathādarśanamanumānaṃ pravartate nālaukikārthaviṣayamitīhāpi na prasmartavyam ।
+sugamamanyat ।।

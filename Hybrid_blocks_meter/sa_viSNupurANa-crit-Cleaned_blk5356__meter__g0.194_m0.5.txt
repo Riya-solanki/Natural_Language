@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5356 | label: meter | g:0.194 m:0.5 ---
+
+sādhyā viśve ca maruto gandharvāś caiva sāyakaiḥ 
+śārṅgeṇa preritair astā vyomni śālmalitūlavat ।।

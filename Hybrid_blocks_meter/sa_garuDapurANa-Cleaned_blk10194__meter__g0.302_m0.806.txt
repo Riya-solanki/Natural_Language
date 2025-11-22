@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10194 | label: meter | g:0.302 m:0.806 ---
+
+viṣṇāveva brahmaśabdo hi mukhyo hyanyeṣvamukhyo brahmarudrādikeṣu ।
+anantaguṇapūrṇatvādbrahmeti harirucyate ।।

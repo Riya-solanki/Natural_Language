@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1337 | label: meter | g:0.25 m:0.5 ---
+
+gate api śakra rājarṣirahanyahani sīradhṛk ।
+kṛṣate anyān samantācca saptakrośān mahīpatiḥ ।।

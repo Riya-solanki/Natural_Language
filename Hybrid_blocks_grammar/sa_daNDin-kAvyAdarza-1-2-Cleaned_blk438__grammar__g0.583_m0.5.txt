@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 438 | label: grammar | g:0.583 m:0.5 ---
+
+yamaḥ kubero varuṇaḥ sahasrākṣo bhavān api bibhranty ananyaviṣayāṃ lokapāla iti śrutim ।।

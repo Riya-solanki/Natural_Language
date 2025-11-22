@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11117 | label: meter | g:0.306 m:0.5 ---
+
+ānandapūrṇa nakhapūrṇa sukeśapūrṇa lomādipūrṇa guṇapūrṇa sughoṇapūrṇa ।
+vakṣaḥ sthalaṃ tava vibhostu viśālabhūtaṃ sadbhūṣaṇaṃ vimalakaustubhaśobhi lakṣmyā ।।

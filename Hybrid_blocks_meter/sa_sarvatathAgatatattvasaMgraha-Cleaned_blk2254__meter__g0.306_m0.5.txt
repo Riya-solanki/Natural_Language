@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2254 | label: meter | g:0.306 m:0.5 ---
+
+raktaḥ saṃ sarvakāryāṇi sādhayetsamayo hyayaṃ ।
+duḥsādhyāpi hi mudrā vai kṣaṇāt sidhyati yogata ।।

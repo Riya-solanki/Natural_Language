@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 227 | label: meter | g:0.306 m:0.5 ---
+
+adityāṃ kaśyapāccaiva sūryā dvādaśa jajñire ।
+viṣṇuḥ śakror'yyamā dhātā tvaṣṭā pūṣā tathaiva ca ।।

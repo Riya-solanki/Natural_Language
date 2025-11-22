@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 774 | label: meter | g:0.25 m:0.5 ---
+
+{mahībhṛtaḥ putravato api dṛṣṭistasminnapatye na jagāma tṛptim ।
+anantapuṣpasya madhorhi cūte dvirephamālā saviśeṣasaṅgā ।।}

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1303 | label: hybrid | g:0.469 m:0.475 ---
+
+athopanyāsaḥ-
+yuktibhiḥ sahito yo' rthaḥ upanyāsaḥ sa iṣyate ।।

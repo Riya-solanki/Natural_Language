@@ -1,0 +1,8 @@
+--- source: rasadh_u-Cleaned.txt | block: 96 | label: meter | g:0.25 m:0.555 ---
+
+lohakhalve catuṣpāde jīrṇalohaṃ rasaṃ kṣipet ।
+ayaḥprakāśe rājeśca catuḥṣaṣṭyaṃśacūrṇakam ।।
+thūthāviḍena sampiṣya mṛdvagnir jvālayed adhaḥ ।
+sūtādaṣṭaguṇā jāryā rājiścāyaḥprakāśikā ।।
+ayaḥprakāśarājau ca jīrṇāyāṃ pītatā bhavet ।
+raktatāpādanārthaṃ ca himarājiṃ ca jārayet ।।

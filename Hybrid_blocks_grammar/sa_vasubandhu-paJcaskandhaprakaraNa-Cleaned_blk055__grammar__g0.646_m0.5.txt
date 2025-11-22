@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 55 | label: grammar | g:0.646 m:0.5 ---
+
+mithyādṛṣṭiḥ katamā । hetuṃ vā phalaṃ vā kriyāṃ vāpavadataḥ sadāvastu vināśayato yā kliṣṭā prajñā ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 632 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ vicārayatā tena parīkṣā-paryālocanārtham uttaram uttarāṃ vaśyatām atītatarāṇy avarāṇi sattvāni kramaśaḥ sva-vaśatām ānītāni, tathāpi tat-preyasībhiś citta-kṣobha-mātraṃ tu lebha eva ।

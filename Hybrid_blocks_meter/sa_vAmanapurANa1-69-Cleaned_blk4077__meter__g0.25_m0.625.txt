@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4077 | label: meter | g:0.25 m:0.625 ---
+
+ajitaṃ viśvakarmāṇaṃ puṇḍarīkaṃ dvijapriyam ।
+haṃsaṃ śaṃbhuṃ namasye ca brahmāṇaṃ saprajāpatim ।।

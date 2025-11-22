@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10659 | label: meter | g:0.25 m:0.625 ---
+
+brahmaṇyamukhyayā vṛttyā hyastītyevaṃ nibodha me ।
+ato na vāstavamidamaṅgīkāryaṃ khageśvara ।।

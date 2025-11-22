@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 632 | label: meter | g:0.028 m:0.5 ---
+
+[] tasminn anasy abdavac-chabde jāte tu,
+kiṃ tat? kiṃ tan nanāda? śruti-kaṭu-śakaṭas tat kathaṃ sa vyaloṭhīt
+kasmāt kasmād? akasmāt kuśala-kuśalam? oṃ vāsudeva-prasādāt ।
+itthaṃ praśnottarābhyāṃ vraja-kula-patayaḥ prāpur antaḥ-purāntar
+dṛṣṭvā tat-pātam āsan daśana-tati-śikhād aṣṭa-jihvāś cirāya ।। [sragdharā]

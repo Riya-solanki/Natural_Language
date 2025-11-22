@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1555 | label: meter | g:0.194 m:0.5 ---
+
+{vāṇiaa hatthidantā kutto amhāṇa vagdhakittī a ।
+jāva luliālaamuhī dharammi parisakkae soṇhā ।।}
+[vāṇijaka hastidantāḥ kuto asmākaṃ vyāghrakṛtayaśca ।
+yāvat lulitālakamukhī gṛhe pariṣvakkate snuṣā ।।]

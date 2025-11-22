@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6600 | label: meter | g:0.25 m:0.75 ---
+
+śudhye ccāndrāyaṇādvipraḥ prājāpatyena bhūmipaḥ ।
+vaiśyaḥ sāntapanācchūdraḥ pañcāhobhirviśudhyati ।।

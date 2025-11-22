@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10140 | label: meter | g:0.25 m:0.583 ---
+
+vaktuḥ syāddviguṇaṃ puṇyaṃ vyākhyātuśca tathādhikam ।
+anantavedaiḥsāmyamāhurmahāntaḥ bhārānmahattvādbhāratasyāpi viprāḥ ।।
+vedobhyosya tvarthataścādhikatvaṃ vadanti bai viṣṇurahasyavedinaḥ ।।
+tatra śreṣṭhāṃ gītikāmāhurāryāstathaiva viṣṇornāmasāhasraka ca ।
+tayostatra śravaṇādbhāratasya daśādhikaṃ phalamāhurmahāntaḥ ।।

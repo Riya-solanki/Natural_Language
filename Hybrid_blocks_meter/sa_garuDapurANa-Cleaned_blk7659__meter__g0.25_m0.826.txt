@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7659 | label: meter | g:0.25 m:0.826 ---
+
+śṛkṛṣṇa uvāca ।
+apanodyantvidaṃ kālādibhirāśu niṣedhakṛt ।
+piṇḍādhyayanadānādeḥ puṅgato atiśayo hi tat ।।

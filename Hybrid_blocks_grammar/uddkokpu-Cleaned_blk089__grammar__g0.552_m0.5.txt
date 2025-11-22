@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 89 | label: grammar | g:0.552 m:0.5 ---
+
+tīraṃ tasyāḥ prati gatavato dakṣiṇaṃ tatkṣaṇaṃ te deśaḥ sarvātiśayivibhavo dṛkpathetaḥ pratheta ।
+tāṃ jānīyā diśi diśi jayantākhyayā khyāyamānāṃ pratyādiṣṭatridivanagaraprābhavāṃ prāpyabhūmim ।।

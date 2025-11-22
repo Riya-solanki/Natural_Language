@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 989 | label: grammar | g:0.745 m:0.375 ---
+
+avyayībhāve cākāle ।।
+sahasya saḥ syādavyayībhāve na tu kāle । hareḥ sādṛśyaṃ sahari । jyeṣṭhasyānu pūrvyeṇetyanujyeṣṭham । cakreṇa yugapat sacakram । sadṛśaḥ sakhyā sasakhi । kṣatrāṇāṃ saṃpattiḥ sakṣatram । tṛṇamapyaparityajya satṛṇamatti । agnigranthaparyantamadhīte sāgni ।।

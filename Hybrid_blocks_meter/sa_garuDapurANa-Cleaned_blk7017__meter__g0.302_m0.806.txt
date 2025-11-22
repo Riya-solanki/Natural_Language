@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7017 | label: meter | g:0.302 m:0.806 ---
+
+saṃyamya prakṛtiṃ cāpi cicchaktyā kevale sthitaḥ ।
+paśyatyātmāni cātmānamātmanātmaprakāśakam ।।

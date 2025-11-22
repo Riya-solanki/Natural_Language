@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3591 | label: meter | g:0.306 m:0.5 ---
+
+jānubhyāmavanīṃ gatvā liṅgaṃ spṭaṣṭvā gṛhītavān ।
+evaṃ snānaṃ sparśanaṃ ca pūjanaṃ jāgaro abhavat ।।

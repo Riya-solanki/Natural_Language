@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3443 | label: hybrid | g:0.531 m:0.5 ---
+
+āyurvarṣaśataṃ nṛṇāṃ parimitaṃ rātrau tadardhaṃ gataṃ tasyārdhasthitakiñcidardhamadhikaṃ bālyasya kāle gatam ।
+kiñcidvandhuviyogaduḥ khamaraṇairbhūpālasevāgataṃ śeṣaṃ vāritaraṅgagarbhacapalaṃ mānena kiṃ māninām ।।

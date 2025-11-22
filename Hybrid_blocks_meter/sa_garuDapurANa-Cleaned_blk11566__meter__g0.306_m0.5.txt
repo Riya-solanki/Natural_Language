@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11566 | label: meter | g:0.306 m:0.5 ---
+
+ekārayuktaṃ prathamāntaḥ sthayuktaṃ samatrikoṇe coṣmaṇā saṃyutaṃ ca ।
+takārasaktaṃ svarśamantaḥ sthayuktamādyanta oṃkārasamanvitaṃ ca ।।

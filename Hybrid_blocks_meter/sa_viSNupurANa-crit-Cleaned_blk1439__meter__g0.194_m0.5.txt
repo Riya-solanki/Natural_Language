@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1439 | label: meter | g:0.194 m:0.5 ---
+
+eṣa manvantare sargo brahman svārociṣe smṛtaḥ 
+vaivasvate ca mahati vāruṇe vitate kratau ।।

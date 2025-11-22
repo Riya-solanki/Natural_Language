@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 393 | label: hybrid | g:0.459 m:0.511 ---
+
+viśeṣaṇaṃ gantṛgantavyatvādikaṃ liṅgamāha-viśeṣaṇācceti ।
+sa jīvo adhvanaḥ saṃsāramārgasya paramaṃ pāraṃ, kiṃ tat, viṣṇorvyāpanaśīlasya paramātmanaḥ padaṃ svarūpamāpnotītyarthaḥ ।
+durdarśaṃ durjñānaṃ, tatra heturgūḍhaṃ māyāvṛtaṃ māyānupraviṣṭaṃ paścādguhāhitaṃ guhādvārā gahvareṣṭhaṃ, evaṃ bahirāgatamātmānaṃ,

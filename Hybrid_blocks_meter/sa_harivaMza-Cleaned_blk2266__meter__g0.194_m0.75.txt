@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2266 | label: meter | g:0.194 m:0.75 ---
+
+sa jagāma viviktena śītānilavisarpiṇā 
+bahūdakena mārgena yamunātīraśobhinā ।।

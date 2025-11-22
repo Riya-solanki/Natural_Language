@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 758 | label: meter | g:0.25 m:0.5 ---
+
+vadatīti cen na prājño hi prakaraṇāt ।

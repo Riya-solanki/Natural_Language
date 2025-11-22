@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 972 | label: grammar | g:0.656 m:0.236 ---
+
+ityuktavidhānena kalkīkṛtaṃ sūtaṃ bhuktvā amaratāṃ devatvaṃ gacchet ।।
+iti kiṃ ghanakāntamadhughṛtādisaṃyuktaṃ ghano'bhrakaḥ kāntaṃ lohajāti madhu kṣaudraṃ ghṛtam ājyaṃ ādiśabdāt sitā grāhyā etaiḥ saṃyuktaṃ sat kalkīkṛtaṃ idaṃ ca pradhānaṃ kṣetrīkaraṇaṃ kṣetrī kriyate'neneti ।।
+ityāroṭakriyā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 184 | label: hybrid | g:0.51 m:0.5 ---
+
+svayaṃprakāśaḥ paramārthato yaḥ sarveśvaro veditavyaḥ sa yuktyā ।
+śakyaṃ tamīḍyamanaghaṃ ca devaṃ grāhyaṃ nato ahaṃ harimīśitāram ।।

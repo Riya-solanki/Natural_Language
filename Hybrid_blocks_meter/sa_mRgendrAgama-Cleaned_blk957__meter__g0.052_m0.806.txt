@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 957 | label: meter | g:0.052 m:0.806 ---
+
+yogī vyastasamastāni bibhṛyādiṣṭasiddhaye 
+kva deśe dhāraṇārūpaṃ cintanīyaṃ vipaścitā ।। MT

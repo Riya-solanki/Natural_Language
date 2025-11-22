@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11910 | label: hybrid | g:0.51 m:0.5 ---
+
+vivāhakāle piṣṭadevīṃ subhaktyā saṃpūjayitvā vidyamāno gṛhe sve ।
+yadā tadā yamadūtaiśca baddhvā saṃpīḍyamāno yamamārge sa mūḍhaḥ ।।

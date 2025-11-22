@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 53 | label: meter | g:0.194 m:0.625 ---
+
+ripor ādhatta bṛhatī cākṣuṣam sarvatejasam 
+ajījanat puṣkariṇyāṃ vairaṇyāṃ cākṣuṣo manum ।।

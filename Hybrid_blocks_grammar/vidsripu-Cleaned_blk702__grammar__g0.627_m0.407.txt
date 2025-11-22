@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 702 | label: grammar | g:0.627 m:0.407 ---
+
+dhig dhik tvām ayi kena durmukhi kṛtaṃ kiṃ kiṃ na kāyavrataṃ dvitrāṇy atra dināni ko na kupitaḥ ko nābhavan mānuṣaḥ ।
+smaḥ kecin na vayaṃ yad ekam aparasyāpy uktam ākarṇyatām atyunmāthini candane api niyataṃ nāmāgnir uttiṣṭhati ।।
+vallaṇasya

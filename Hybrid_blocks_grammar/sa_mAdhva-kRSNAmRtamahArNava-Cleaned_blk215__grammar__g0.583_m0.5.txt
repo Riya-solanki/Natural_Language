@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 215 | label: grammar | g:0.583 m:0.5 ---
+
+yathā suhṛtsu kartavyaṃ pitṛśatrusuteṣu ca tathā karoti pūjādi samabuddhiḥ sa ucyate ।।

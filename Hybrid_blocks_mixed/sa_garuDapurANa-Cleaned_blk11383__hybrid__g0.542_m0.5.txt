@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11383 | label: hybrid | g:0.542 m:0.5 ---
+
+adyaiva viṣṇuḥ paramo dayāluḥ dayāṃ mayi kṛtavāṃste na suṣṭhu ।
+pitrā sākaṃ kanyakā sā tu vīndra sadātmani hyamale vāsudeve ।।

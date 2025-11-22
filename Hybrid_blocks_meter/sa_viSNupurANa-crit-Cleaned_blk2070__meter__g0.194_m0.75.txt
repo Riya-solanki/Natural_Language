@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2070 | label: meter | g:0.194 m:0.75 ---
+
+hṛdi nārāyaṇas tasya śiśumārasya saṃsthitaḥ 
+bibhartā sarvabhūtānām ādibhūtaḥ sanātanaḥ ।।

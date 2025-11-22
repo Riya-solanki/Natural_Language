@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1711 | label: hybrid | g:0.542 m:0.5 ---
+
+bhāryā me putro me dravyaṃ sakalaṃ ca bandhuvargo me ।
+iti me me kurvantaṃ paśum iva baddhvā nayati kālaḥ ।।

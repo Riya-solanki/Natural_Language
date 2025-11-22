@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 323 | label: meter | g:0.194 m:0.5 ---
+
+adyāpi saṃśayo nātha mantrāṇāṃ nirṇayaṃ prati 
+pūrvaṃ ca kathitā mantrāḥ saptakoṭir asaṅkhyayā ।।

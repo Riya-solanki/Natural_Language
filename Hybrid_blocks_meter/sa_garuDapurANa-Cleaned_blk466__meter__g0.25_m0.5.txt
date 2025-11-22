@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 466 | label: meter | g:0.25 m:0.5 ---
+
+nārāyaṇo mahābhāgaḥ prāṇasya patireva ca ।
+apānasya patiścaiva vyānasya patireva ca ।।

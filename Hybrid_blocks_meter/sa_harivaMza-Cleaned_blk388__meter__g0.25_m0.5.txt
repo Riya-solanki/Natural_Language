@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 388 | label: meter | g:0.25 m:0.5 ---
+
+somaputrād budhād rājaṃs tasyāṃ jajñe purūravāḥ 
+janayitvā tataḥ sā tam iḍā sudyumnatāṃ gatā ।।

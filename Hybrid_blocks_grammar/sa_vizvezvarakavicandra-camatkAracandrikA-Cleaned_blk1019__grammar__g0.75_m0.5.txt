@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1019 | label: grammar | g:0.75 m:0.5 ---
+
+atra kāvyaṃ kīrtanaṃ ceti dve kriye । śrīsadbhāvaḥ sajjanānurañjanañceti dvau guṇau । evaṃ bahūnyapi vastūni dvandvaśa uttarapadavartinā dyotakenāvirāsīdityekasyāṃ kriyāyāṃ niveśyante । tena santīti bahuvacanaṃ dvandvasamāsaśca na syāditi so ayamubhyavargāśrayassamuccayaḥ । anubhayāśrayaḥ punaravidyamānadyotakatvādanvācayasyevāsya viṣayo dīpakenāhṛta itī nodāhriyate । itaretarayogo api dvipadāśrayādibhedena caturvidhaḥ ।

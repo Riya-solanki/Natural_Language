@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 576 | label: hybrid | g:0.207 m:0.375 ---
+
+nāmapadaṃ cādhikṛtya parīkṣā gauriti padaṃ khalu idamudāharaṇam
+tadarthe

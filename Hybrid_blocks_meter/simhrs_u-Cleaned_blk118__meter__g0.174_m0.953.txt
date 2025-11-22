@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 118 | label: meter | g:0.174 m:0.953 ---
+
+mohānta-surata-kṣamatvaṃ, yathā mamaiva-
+ākīrṇa-gharma-jalam ākula-keśa-pāśam
+āmīlitākṣi-yugam ādṛta-pāravaśyam ।
+ānanda-kandalitam astamitānya-bhāvam
+āśāsmahe kim api ceṣṭitam āyatākṣyāḥ ।।

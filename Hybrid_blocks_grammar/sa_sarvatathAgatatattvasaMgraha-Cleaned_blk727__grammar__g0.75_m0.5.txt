@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 727 | label: grammar | g:0.75 m:0.5 ---
+
+dṛ kki । gra gra । ma ṭaḥ । a gra । traṃ traṃ । aṃ aṃ । caṃ caṃ । tra ṭaḥ । dhṛ ṭaḥ । bhṛ ṭaḥ । kra saḥ । ha haḥ । va va । vaṃ vaṃ । pha ṭaḥ । gra saḥ ।।

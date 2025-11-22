@@ -1,0 +1,17 @@
+--- source: grasht_u-Cleaned.txt | block: 378 | label: grammar | g:0.538 m:0.361 ---
+
+atheti tridinasvedānantaraṃ jīrṇasya rasasya lakṣaṇaṃ jñeyaṃ grāso jīrṇo na veti jñātavyaḥ ।।
+kiṃ kṛtvā yantrāddolikābhidhānād uddhṛtya yantrād bahir gṛhītveti ।।
+rasamalāpanayanamāha uddhṛtetyādi ।।
+uddhṛtamātramiti yantrād bahir gṛhītamātraṃ tatpātre bhājane mṛnmaye kāñjikena prakṣālya ।।
+punar ato rasātsamalaṃ malasaṃyutaṃ kāñjikaṃ haraṇīyaṃ bahiḥ kāryam ।।
+kena kṛtvā vastrayogena vastre kṣiptaṃ sat tadeva tiṣṭhati na kāñjikam ।।
+tasyaiva vidhānaṃ cāha tadanvityādi ।।
+tadanu vastrayogānantaraṃ sukhoṣṇe pātre asau rasaḥ saṃmardyaḥ ।।
+kathaṃ yathā na hīyate nāśaṃ nāpnuyāt atyauṣṇyāt vā kāṃsyatāmranāgavaṅgakanakatārapātrāt vā dṛḍhakaraghātād raso hīna eva syāt ato'sau pāradas tāvan saṃmardyo yāvallagnakāñjikaṃ rasasaṃsargasauvīraṃ śuṣyati niḥśeṣatāṃ yātītyarthaḥ ।।
+tasyaiva vidhānaṃ cāha itthamityādi ।।
+itthaṃ amunā prakāreṇa karamardanataḥ hastatalamardanataḥ sunirmalībhūto malarahitaḥ śoṣitajalo rasaścaturguṇena vastreṇa kṛtvā pānasyopari pīḍyaḥ ।।
+jīrṇagrāsalakṣaṇam āha yadītyādi ।।
+tadā pārado jīrṇagrāso jñeyaḥ jīrṇo niḥśeṣatvamāpanno grāso yasmin sa tathoktaḥ ।।
+yadi sakalaḥ sarvaḥ vastrātparigalitaḥ caturguṇavastrāt cyuto bhavati pātre iti śeṣaḥ ।।
+punaryadi grāsena saha ekatāṃ yātaḥ san militaḥ san raso daṇḍadharo na bhavati sthirarūpo na syāt tadā jīrṇagrāso jñātavya ityarthaḥ ।।

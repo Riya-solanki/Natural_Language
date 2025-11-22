@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 119 | label: meter | g:0.194 m:0.625 ---
+
+pramātṛtvenāham iti vimarśo anyavyapohanāt 
+vikalpa eva sa parapratiyogy avabhāsajaḥ ।।

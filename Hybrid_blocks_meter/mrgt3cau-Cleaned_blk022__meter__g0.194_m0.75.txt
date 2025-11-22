@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 22 | label: meter | g:0.194 m:0.75 ---
+
+teṣāṃ sādhāraṇaṃ karma sandhyopāsanamarcanam
+snānādīni tadaṅgāni parvasu dviguṇakriyā ।

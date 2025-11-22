@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2661 | label: grammar | g:0.562 m:0.5 ---
+
+oṃ vajraratna sarvābhiṣeka sarvasiddhayo me prayaccha rala rala hūṃ traḥ ।।

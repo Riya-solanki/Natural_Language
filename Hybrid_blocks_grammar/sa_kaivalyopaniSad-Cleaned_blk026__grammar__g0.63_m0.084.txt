@@ -1,0 +1,6 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 26 | label: grammar | g:0.63 m:0.084 ---
+
+na bhūmir āpo na ca vahnir asti na cānilo me asti na cāmbaraṃ ca ।
+evaṃ viditvā paramātmarūpaṃ guhāśayaṃ niṣkalam advitīyam ।।
+samastasākṣiṃ sadasadvihīnaṃ prayāti śuddhaṃ paramātmarūpam ।।
+yaḥ śatarūdrīyam adhīte so agnipūto bhavati sa vāyupūto bhavati, sa ātmapūto bhavati sa surāpānāt pūto bhavati sa brahmahatyātpūto bhavati sa suvarṇasteyāt pūto bhavati sa kṛtyākṛtyāt pūto bhavati tasmād avimuktam āśrito bhavaty āśramī sarvadā sakṛd vā japet ।

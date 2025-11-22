@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 42 | label: meter | g:0.212 m:0.854 ---
+
+bālye lālāsalilamalinaṃ pāṇinā vaktrapadmaṃ
+yenāmṛṣṭaṃ vikacakamalacchedatāmrodareṇa ।
+tvāṃ kṛtvāṅke kṛpaṇa bhavataḥ kuñcitāḥ kākapakṣā
+ye ।।

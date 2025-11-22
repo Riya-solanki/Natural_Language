@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 289 | label: grammar | g:0.573 m:0.5 ---
+
+dhūmraiḥ pakṣapuṭaiḥ patadbhir abhitaḥ pāṇḍūdaraiḥ khañjanair āyāntīṃ śaradaṃ kiranti rabhasāl lājair ivāśāṅganāḥ ।
+maṅgalyaṃ ca kalaṅkapallavasakhaṃ smerānanā śarbarī jyotsnātarpaṇagauram indukalaśaṃ vyomāṅgaṇe nyasyati ।।

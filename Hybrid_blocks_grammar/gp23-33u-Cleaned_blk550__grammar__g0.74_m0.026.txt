@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 550 | label: grammar | g:0.74 m:0.026 ---
+
+duḥkhāyate pumān kaścit kaścid vā yaḥ sukhāyate ।
+pūrvasmin na dayālutvaṃ parasmiṃs tu dayālutā ।।
+[] tad evaṃ prātar vicāram ācārya tadaiva daivata āpatitaṃ keśinaṃ ca mṛtyuṃ prāpayya gocāraṇāya caraṇa-caryayā vanaṃ sañcarantaṃ śrīkāntaṃ kvacid ekanta-gatayā harṣitaḥ śrīmān devarṣiḥ sapadi sākṣād āsedivān । sa cāsannam āgaccantam accha-paricchadaṃ śrī-nāradaṃ dadarśa ।

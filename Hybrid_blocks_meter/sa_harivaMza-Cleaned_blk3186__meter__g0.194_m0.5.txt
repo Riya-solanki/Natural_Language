@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3186 | label: meter | g:0.194 m:0.5 ---
+
+tābhyāṃ prīto dadau mālyaṃ prabhūtaṃ mālyajīvanaḥ 
+bhavatoḥ svam idaṃ ceti provāca priyadarśanaḥ ।।

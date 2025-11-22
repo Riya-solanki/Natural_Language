@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 206 | label: meter | g:0.127 m:0.734 ---
+
+atha madhyama-saukumāryam-
+na saheta kara-sparśaṃ yenāṅgaṃ madhyamaṃ hi tat ।। athā-
+lākṣāṃ vidhātum avalambita-mātram eva
+sakhyāḥ kareṇa taruṇāmbuja-komalena ।
+kasyāścid agra-padam āśu babhūva raktaṃ
+lākṣā-rasaḥ punar abhūn na tu bhūṣaṇāya ।।

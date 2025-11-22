@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1420 | label: meter | g:0.194 m:0.625 ---
+
+tābhyāṃ putrasahasrāṇi ṣaṣṭir dānavasattamāḥ 
+paulomāḥ kālakeyāś ca mārīcatanayāḥ smṛtāḥ ।।

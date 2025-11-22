@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3044 | label: meter | g:0.306 m:0.5 ---
+
+siddho asi dānavapate parituṣṭo asmi te andhaka ।
+varaṃ varaya bhadraṃ te yamicchasi vināmbikām ।।

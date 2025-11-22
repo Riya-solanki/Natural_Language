@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1869 | label: meter | g:0.25 m:0.5 ---
+
+tad eva prītaye bhūtvā punar duḥkhāya jāyate 
+tad eva kopāya yataḥ prasādāya ca jāyate ।।

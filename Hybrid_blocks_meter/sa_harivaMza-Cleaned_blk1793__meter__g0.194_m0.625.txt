@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1793 | label: meter | g:0.194 m:0.625 ---
+
+yathāvad anupūrveṇa mahendra salilodvahāḥ 
+trailokyamātaraḥ sarvāḥ sāgaraṃ yāntu nimnagāḥ ।।

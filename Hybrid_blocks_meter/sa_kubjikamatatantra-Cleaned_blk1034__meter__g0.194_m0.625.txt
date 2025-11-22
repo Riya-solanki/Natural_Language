@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1034 | label: meter | g:0.194 m:0.625 ---
+
+svāhā oṃ vai parityajya siddhavarṇās triṣaṣṭi ca 
+khādakāstreti vikhyātā sarvārthaguṇarūpadhṛk ।।

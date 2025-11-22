@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 646 | label: grammar | g:0.617 m:0.195 ---
+
+sūtabandhane hetūnāha netyādi ।।
+yadi garbhe rasodare ghanasattvaṃ abhrakasāraṃ na patati na prāpnoti vā garbhe bījāni asminnadhyāye abhihitāni mākṣikakāntaśulbādīni yāvanno dravanti ca punarbāhyadrutistasyā yogo rase drutimelanaṃ na syāt tattasmāddhetoḥ sūta ihāsyāṃ kriyāyāmasatyāṃ kathaṃ badhyate ghanatvaṃ dhatte ।।
+garbhadrutibāhyadrutibhyāṃ sūto badhyate niyatamityabhiprāyaḥ ।।

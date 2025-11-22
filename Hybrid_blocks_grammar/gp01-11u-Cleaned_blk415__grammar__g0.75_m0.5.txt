@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 415 | label: grammar | g:0.75 m:0.5 ---
+
+[] tadā ca tatraikā tāpasī kenacana snātakena samam āyātā । tāṃ ca mahā-prabhāva-lakṣaṇāṃ lakṣayitvā sarve samutthāyātithyam āvitathyena vidhāya vijñāpayāmāsuḥ-sākṣād bhagavato yogamāyeva kā tvam asi ? śrīman-nāradasyābhinava-tanur ivāyaṃ vā kaḥ ?

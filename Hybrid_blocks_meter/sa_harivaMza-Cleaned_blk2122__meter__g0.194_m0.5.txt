@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2122 | label: meter | g:0.194 m:0.5 ---
+
+yathā vāstu tathā vāstu kartavye bhagavān prabhuḥ 
+mama gāvaḥ pratīyantāṃ tato gantāsmi sāgaram ।।

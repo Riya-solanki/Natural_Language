@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7104 | label: meter | g:0.25 m:0.75 ---
+
+manobuddhirahaṅkāramavyaktaṃ puruṣaṃ tathā ।
+prasaṃkhyāya paraṃvyāpto vimukto bandhavairbhavet ।।

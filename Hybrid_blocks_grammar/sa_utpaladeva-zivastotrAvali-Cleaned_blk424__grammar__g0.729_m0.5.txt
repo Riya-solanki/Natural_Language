@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 424 | label: grammar | g:0.729 m:0.5 ---
+
+bhavadīyam ihāstu vastu tattvaṃ vivarītuṃ ka ivātra pātram arthe idam eva hi nāmarūpaceṣṭādyasamaṃ te harate haro asi yasmāt ।।

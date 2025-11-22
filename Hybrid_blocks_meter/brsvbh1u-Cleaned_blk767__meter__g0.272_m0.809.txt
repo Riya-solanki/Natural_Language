@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 767 | label: meter | g:0.272 m:0.809 ---
+
+uttarasūtramavatārayituṃ śaṅkate-tatra tvidaṃ tacchira iti ।
+sūtramavatārayati-atra brūmaḥ ।

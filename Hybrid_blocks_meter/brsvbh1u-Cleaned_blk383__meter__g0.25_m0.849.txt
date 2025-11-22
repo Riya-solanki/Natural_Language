@@ -1,0 +1,7 @@
+--- source: brsvbh1u-Cleaned.txt | block: 383 | label: meter | g:0.25 m:0.849 ---
+
+nyāyamāha-ata eveti ।
+yatkila svābhāvikaṃ tannityam, yathā caitanyam ।
+svābhāvikaṃ cedam,tasmānnityam ।
+pare hi dvayīṃ nityatāmāhuḥ-kūṭasthanityatā pariṇāminityatāṃ ca ।
+tatra nityamityukte mā bhūdasya

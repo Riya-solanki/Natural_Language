@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 866 | label: meter | g:0.25 m:0.625 ---
+
+durdinaniśīthapavane niḥsaṃcārāsu nagaravīthīṣu ।
+patyau videśayāte paraṃ sukhaṃ jaghanacapalāyāḥ ।।

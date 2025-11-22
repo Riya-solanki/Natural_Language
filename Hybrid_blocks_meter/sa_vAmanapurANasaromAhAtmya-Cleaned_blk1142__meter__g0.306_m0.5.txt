@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1142 | label: meter | g:0.306 m:0.5 ---
+
+trailokyagoptā govindo gomārgo mārga eva ca ।
+sthiraḥ śreṣṭhaśca sthāṇuśca vikrośaḥ krośa eva ca ।।

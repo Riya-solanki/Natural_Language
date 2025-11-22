@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 71 | label: grammar | g:0.729 m:0.5 ---
+
+[] atha śrīmad-vraja-rāja-tanūjatā-śīla-līlasya mahā-bhagavatas tadīya-karṇikāṃ-madhyam adhikṛtya nānā-varṇa-dhāmatayā nirvarṇita-maṇi-maya-mahā-dhāma nikāmam udbhrājate, yad eva svayam anantāṃśa-sambhūtam iti sphuṭam anantadhā prakāśate ।

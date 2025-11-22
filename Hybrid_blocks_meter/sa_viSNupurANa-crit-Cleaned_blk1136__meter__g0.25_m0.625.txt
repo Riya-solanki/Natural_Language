@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1136 | label: meter | g:0.25 m:0.625 ---
+
+praharanti mahātmāno vipakṣe cāpi nedṛśe 
+guṇaiḥ samanvite sādhau kiṃ punar yaḥ svapakṣajaḥ ।।

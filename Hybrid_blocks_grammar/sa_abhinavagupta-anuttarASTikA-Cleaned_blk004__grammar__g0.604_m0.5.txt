@@ -1,0 +1,4 @@
+--- source: sa_abhinavagupta-anuttarASTikA-Cleaned.txt | block: 4 | label: grammar | g:0.604 m:0.5 ---
+
+pūjapūjakapūjyabhedasaraṇiḥ keyaṃ kathānuttare saṃkrāmaḥ kila kasya kena vidadhe ko vā praveśakramaḥ ।
+māyeyam na cidadvayāt paratayā bhinnāpy aho vartate sarvaṃ svānubhavasvabhāvavimalaṃ cintāṃ vṛthā mā kṛthāḥ ।।

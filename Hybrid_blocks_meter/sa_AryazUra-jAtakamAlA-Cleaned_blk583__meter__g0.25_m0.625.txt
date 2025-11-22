@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 583 | label: meter | g:0.25 m:0.625 ---
+
+tayā dṛṣṭāvupāghrātau mālināvabhyalaṃkṛtau ।
+ihaikarātraṃ viśramya śvo netāsi sutau mama ।।

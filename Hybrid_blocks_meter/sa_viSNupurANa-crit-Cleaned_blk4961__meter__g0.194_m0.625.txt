@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4961 | label: meter | g:0.194 m:0.625 ---
+
+vāyunā cāhṛtāṃ divyāṃ sabhāṃ te yadupuṃgavāḥ 
+bubhujuḥ sarvaratnāḍhyāṃ govindabhujasaṃśrayāt ।।

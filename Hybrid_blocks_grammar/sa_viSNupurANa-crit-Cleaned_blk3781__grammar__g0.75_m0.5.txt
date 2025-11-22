@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3781 | label: grammar | g:0.75 m:0.5 ---
+
+akrūrakṛtavarmapramukhāś ca śatadhanvānam ūcuḥ । ayam atidurātmā satrājito yo asmābhir bhavatā ca abhyarthito apy ātmajām asmān bhavantaṃ cāvigaṇayya kṛṣṇāya dattavān । tad alam anena jīvatā ghātayitvainaṃ tan mahāratnaṃ tvayā kiṃ na gṛhyate । vayam abhyupapatsyāmo yady acyutas tavopari vairānubandhaṃ kariṣyatīti ।।

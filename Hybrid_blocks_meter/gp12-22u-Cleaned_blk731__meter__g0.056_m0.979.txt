@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 731 | label: meter | g:0.056 m:0.979 ---
+
+gaṇḍūṣāṇām antare vaṃśa-daṇḍair
+dantāntargāny anna-piṇḍāni kuñcan ।
+udyan-mūrtis tatra śailādhidevaḥ
+pūrtiṃ kurvan prāṇa-bhājāṃ sasarja ।। [śālinī]

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2821 | label: meter | g:0.194 m:0.5 ---
+
+sa te bandhuḥ sahāyaś ca saṃgrāmeṣu bhaviṣyati 
+tasya yogo vidhātavyas tvayā govinda matkṛte ।।

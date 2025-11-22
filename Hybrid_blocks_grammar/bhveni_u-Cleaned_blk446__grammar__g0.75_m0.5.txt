@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 446 | label: grammar | g:0.75 m:0.5 ---
+
+SktCh vasāgandhe adya khalvahaṃ svāminyā hiḍimbādevyā sabahumānaṃ śabdāyyājñapto yathā rudhirapriya adya prabhṛti tvayāryaputrasya bhīmasenasya pṛṣṭhato anupṛṣṭhaṃ samara āhiṇḍitavyamiti । tattasyānumārgagāmino hatamānuṣaśoṇitanadīdarśanapranaṣṭabubhukṣāpipāsasyehaiva me svargaloko bhaviṣyati । tvamapi visrabdhā bhūtvā rudhiravasābhiḥ kumbhasahasraṃ saṃcinu ।

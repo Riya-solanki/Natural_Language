@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1334 | label: hybrid | g:0.5 m:0.5 ---
+
+bhavana iva vane api sādhavas te jagadudayaikanibandhanaprayogāḥ ।
+svatanum api parārtham utsṛjanti praṇayijanapraṇayaṃ na khaṇḍayanti ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1006 | label: meter | g:0.306 m:0.5 ---
+
+nabhasye māsi ca tathā yā syātkṛṣṇāṣṭamī śubhā ।
+yuktā mṛgaśireṇaiva sā tu kālāṣṭamī smṛtā ।।

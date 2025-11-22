@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2934 | label: meter | g:0.194 m:0.625 ---
+
+rātrau vyāvartitāv etau garbhau tava vadhāya vai 
+vasudevena saṃdhāya mitrarūpeṇa śatruṇā ।।

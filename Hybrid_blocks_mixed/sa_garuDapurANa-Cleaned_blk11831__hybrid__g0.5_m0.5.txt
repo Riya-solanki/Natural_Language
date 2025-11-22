@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11831 | label: hybrid | g:0.5 m:0.5 ---
+
+pulomajā mantradyumnasya bhāryā yā kāśikā gādhirājasya bhāryā ।
+vikukṣibhāryā sumatiśceti saṃjñā kuśasya patnī kāntimatīti saṃjñā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2898 | label: meter | g:0.328 m:0.595 ---
+
+sundaṃ śailādirūpasthamavaṣṭamyāviśat tataḥ ।
+taṃ dṛṣṭvā mālinīṃ prāha suyaśāṃ vijayāṃ jayām ।।

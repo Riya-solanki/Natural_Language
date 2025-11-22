@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1230 | label: meter | g:0.217 m:0.872 ---
+
+ityantaraślokaḥ ।
+bhūyo api bhedāntaramasyāṃ saṃbhāvayati

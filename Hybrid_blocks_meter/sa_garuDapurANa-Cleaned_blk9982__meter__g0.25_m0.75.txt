@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9982 | label: meter | g:0.25 m:0.75 ---
+
+tṛṣṇāsūcīvinirbhinnaṃ siktaṃ viṣayasarpiṣā ।
+rāgadveṣānale pakvaṃ mṛtyuraśrāti mānavam ।।

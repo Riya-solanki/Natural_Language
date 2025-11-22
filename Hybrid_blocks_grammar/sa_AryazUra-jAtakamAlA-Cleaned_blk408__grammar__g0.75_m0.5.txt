@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 408 | label: grammar | g:0.75 m:0.5 ---
+
+athainaṃ te yakṣāḥ kutūhalaprābalyātsādaramutsāhayanta ivocuḥ - tatkathaya kathaya tāvadbhada kīdṛśo ayaṃ yuṣmākaṃ svastyayanaviśeṣa iti । sa tānprahasannuvāca - śrūyatāṃ yādṛśo ayamasmākamatyadbhūtaḥ svastyayanaviśeṣaḥ ।

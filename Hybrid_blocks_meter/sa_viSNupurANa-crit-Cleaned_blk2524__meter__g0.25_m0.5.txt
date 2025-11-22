@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2524 | label: meter | g:0.25 m:0.5 ---
+
+sa bhidyate vedamayaḥ sa vedaṃ karoti bhedair bahubhiḥ saśākham 
+śākhāpraṇetā sa samastaśākhā jñānasvarūpo bhagavān anantaḥ ।।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 798 | label: meter | g:0.194 m:0.5 ---
+
+ko vai pipīlikarutaṃ mānuṣo vettum arhati 
+ṛte devaprasādād vai pūrvajātikṛtena vā 
+tapaḥphalena vā rājan vidyayā vā narādhipa ।। 
+yady eṣa vai prabhāvas te sarvasattvarutajñatā । 
+sāhaṃ yathaiva jānīyāṃ tathā pratyāyayasva mām 
+prāṇān vāpi parityakṣye rājan satyena te śape ।।

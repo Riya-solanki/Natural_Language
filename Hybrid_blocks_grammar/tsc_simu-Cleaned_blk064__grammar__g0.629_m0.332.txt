@@ -1,0 +1,6 @@
+--- source: tsc_simu-Cleaned.txt | block: 64 | label: grammar | g:0.629 m:0.332 ---
+
+tāni padānyevārthasya karaṇatvāt sphoṭa ityucyate ।
+taddi padaṃ vāgindriyoccāryapratyekavarṇebhyo atiriktaṃ varṇānāmāśutaravināśitayā melanābhāvenaikaṃ padamiti vyavahāragocaratvāsambhavāt arthasmārakatvāsambhavācca ।
+asya ca sphoṭasya kāraṇamekaḥ prayatnaviśeṣaḥ prayatnabhedenoccāraṇe sati ekapadavyavahārābhāvādarthāpratyayācca tasya ca sphoṭasya vyañjaka ānupūrvīviśiṣṭatayā antyavarṇapratyayaḥ ataśca buddhereva sphoṭagrāhakatvam ānupūrvyā buddhyaiva grahaṇasambhavena sāmānādhikaraṇyapratyāsattyaivānupūrvīpratyayasya sphoṭākhyapadābhivyaktihetutve lāghavāt ।
+ata eva sphoṭaḥ śrotreṇa grahītuṃ na śakyate ghottaraṭatvādirarūpiṇyā ānupūrvyāḥ śrotreṇa grahaṇāsambhavāt āśutaravināśitayā varṇānāṃ melanāsambhavāt pūrvapūrvavarṇasaṃskārāṇāṃ tatsmṛtīnāṃ cāntaḥkaraṇaniṣṭhānāmantaḥkaraṇasahakāritvasyaivaucityāditi ।

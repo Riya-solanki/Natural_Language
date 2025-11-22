@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 530 | label: meter | g:0.373 m:0.549 ---
+
+dhik tasya mūḍhamanasaḥ kukaveḥ kavitvaṃ yaḥ strīmukhaṃ ca śaśinaṃ ca samīkaroti ।
+bhrūbhaṅgavibhramavilāsanirīkṣitāni kopaprasādahasitāni kutaḥ śaśāṅke ।।

@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 693 | label: hybrid | g:0.448 m:0.487 ---
+
+dharmo' yaṃ laukikas tāta yadyapi syād athāpy asau ।
+yuktatvād api cāmnāyād āmnāyaja iveṣyate ।। ya indro devatātra syāt parjanyaḥ sa tu sarvavit ।
+tasyārcanaṃ kulāyātam asmākaṃ ketanaṃ matam ।। [anuṣṭubh]

@@ -1,0 +1,5 @@
+--- source: vamkalvu-Cleaned.txt | block: 198 | label: meter | g:0.255 m:0.899 ---
+
+atra {tu}śabdasya pādapūraṇārthameva prayogaḥ ।
+na vākyālaṅkārārtham 
+vākyālaṅkāraprayojanaṃ tu nānarthakam ।

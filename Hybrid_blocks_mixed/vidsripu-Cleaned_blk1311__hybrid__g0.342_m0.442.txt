@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1311 | label: hybrid | g:0.342 m:0.442 ---
+
+vajrād api kaṭhorāṇi mṛdūni kusumād api ।
+lokottarāṇāṃ cetāṃsi ko hi vijñātum arhati ।।
+ceḥ

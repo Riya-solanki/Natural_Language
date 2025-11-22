@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 790 | label: meter | g:0.0 m:0.5 ---
+
+[siddhikṣetracāriṇo niyamāḥ] idānīṃ leśataḥ siddhikṣetracāriṇaṃ prati viśeṣamāha

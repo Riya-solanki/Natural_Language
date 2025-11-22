@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2133 | label: hybrid | g:0.25 m:0.491 ---
+
+gāś ca te rakṣato viṣṇo vanāni paridhāvataḥ 
+vanamālāparikṣiptaṃ dhanyā drakṣyanti te vapuḥ ।। 
+pītāmbaradharaṃ caiva nīlakuñcitamūrdhajam । vanamālākṛtoraskaṃ mayūravyajanākulam । 
+viṣṇo padmapalāśākṣa gopālavasatiṃ gate 
+bāle tvayi mahābāho loko bālatvam eṣyati ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 298 | label: grammar | g:0.729 m:0.5 ---
+
+[] tad evaṃ sakhi-sabhāsatsu hasatsu svayaṃ sa tu narma-paṭur baṭuḥ sa-tṛṣṇaṃ kṛṣṇaṃ kṣaṇam āliṅgya preṅkholayan prakaṭaṃ jahāsīti sma ।

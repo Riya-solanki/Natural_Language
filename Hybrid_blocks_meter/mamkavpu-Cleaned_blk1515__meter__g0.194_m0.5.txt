@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1515 | label: meter | g:0.194 m:0.5 ---
+
+{bimboṣṭa eva rāgaste tanvi pūrvamadṛśyata ।
+adhunā hṛdaye apyeṣa mṛgaśāvākṣi lakṣyate ।।}

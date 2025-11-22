@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6184 | label: meter | g:0.25 m:0.625 ---
+
+sarve tiṣṭhanti sarvasmai sarvasmātsarvanto gataḥ ।
+sarveṣāṃ caiva sarvasminnevaṃ viśvādayastathā ।।

@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 904 | label: meter | g:0.052 m:0.806 ---
+
+smṛtihetūnām ayaugapadyād yugapadasmaraṇamityuktam,
+atha kebhyaḥ smṛtirutpadyate iti ?, smṛtiḥ khalu

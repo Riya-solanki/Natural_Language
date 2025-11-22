@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2370 | label: meter | g:0.194 m:0.75 ---
+
+vṛndāvananiveśāya jñātvā tān kṛtaniścayān 
+nandagopo bṛhadvākyaṃ bṛhaspatir ivādade ।।

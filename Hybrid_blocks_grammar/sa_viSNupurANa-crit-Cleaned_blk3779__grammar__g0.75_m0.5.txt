@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3779 | label: grammar | g:0.75 m:0.5 ---
+
+saha jāmbavatyā sa dvārakām ājagāma । bhagavadāgamanodbhūtaharṣotkarṣasya dvārakāvāsijanasya kṛṣṇāvalokanāt tatkṣaṇam evātipariṇatavayaso api navayauvanam ivābhavat । ānakadundubhiṃ ca diṣṭyā diṣṭyeti sakalayādavāḥ striyaś ca sabhājayām āsuḥ । bhagavān api yathānubhūtam aśeṣayādavasamāje yathāvad ācacakṣe । syamantakaṃ ca satrājitāya dattvā mithyābhiśastiviśuddhim avāpa ।।

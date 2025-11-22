@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 47 | label: meter | g:0.217 m:0.845 ---
+
+syādvādalāñchitāścaite sarve anaikāntikatvataḥ 
+tadeva sattadevāsad iti kena pramīyate ।।

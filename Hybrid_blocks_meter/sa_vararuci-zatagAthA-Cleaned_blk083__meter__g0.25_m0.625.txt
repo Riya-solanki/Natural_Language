@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 83 | label: meter | g:0.25 m:0.625 ---
+
+viśvāsapratipannānāṃ vañcane kā vidagdhatā ।
+aṅkamāruhya suptasya hantuḥ kiṃ nāma pauruṣam ।।

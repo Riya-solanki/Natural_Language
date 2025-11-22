@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 874 | label: meter | g:0.305 m:0.907 ---
+
+saviśeṣaṇaṃ yathā
+antaṃruddhāntasañcāraśrīsiṅganṛpamandaram ।
+bhavati dviṣatāṃ sainyaṃ pīyūṣamadhanāṃbhudhiḥ ।।

@@ -1,0 +1,3 @@
+--- source: ttssarvu-Cleaned.txt | block: 59 | label: meter | g:0.25 m:1.0 ---
+
+trividho bandhaḥ ।।

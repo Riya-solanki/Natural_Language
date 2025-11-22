@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10525 | label: meter | g:0.452 m:0.587 ---
+
+vaivalasvata uvāca ।
+sohaṃ hi karmakaraṇe nirataḥ sadaiva strīṇāṃ bhoge ca nirataśca gude pramattaḥ ।
+jihvendriye ca niratastava darśane ca samyagvirāgasahitaḥ paramo dareṇa ।।

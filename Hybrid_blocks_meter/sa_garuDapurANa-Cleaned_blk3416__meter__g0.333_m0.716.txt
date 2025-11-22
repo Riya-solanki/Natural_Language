@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3416 | label: meter | g:0.333 m:0.716 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+kumāryāṃ ca kumitraṃ ca kurājānaṃ kuputrakam ।
+kukanyāṃ ca kudeśaṃ ca dūrataḥ parivarjayet ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2376 | label: meter | g:0.25 m:0.5 ---
+
+samādhimudrāṃ badhvā vai yadyāviśya svayaṃ punaḥ ।
+brūyādyatra nidhānaṃ tu mahāratnamayaṃ bhavet ।।

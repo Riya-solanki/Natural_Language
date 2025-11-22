@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3196 | label: meter | g:0.306 m:0.5 ---
+
+tamucuḥ sarva evainaṃ śṛṇuṣva suramardana ।
+yat te śreyaskaraṃ karma yadasmākaṃ hitaṃ tathā ।।

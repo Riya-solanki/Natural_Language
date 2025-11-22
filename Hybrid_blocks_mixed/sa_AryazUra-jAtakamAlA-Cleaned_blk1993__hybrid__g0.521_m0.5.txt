@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1993 | label: hybrid | g:0.521 m:0.5 ---
+
+lobhena mṛtyośca bhayena satyaṃ satyaṃ yadeke tṛṇavattyajanti ।
+satāṃ tu satyaṃ vasu jīvitaṃ ca kṛcchre apyatastanna parityajanti ।।

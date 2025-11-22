@@ -1,0 +1,7 @@
+--- source: brssgo3u-Cleaned.txt | block: 247 | label: hybrid | g:0.506 m:0.472 ---
+
+nanu dvaitaprapañcavilayo na yogaviṣayo bhaviṣyati ।
+apravilāpite hi dvaitaprapañce brahmatattvāvabodho na bhavatyato brahmatattvāvabodhapratyanīkabhūto dvaitaprapañcaḥ pravilāpyaḥ ।
+yathā svargāmasya yāgo anuṣṭhātavya upadiśyata evamapavargakāmasya prapañcapravilayaḥ ।
+yathāca tamasi vyavasthitaṃ ghaṭāditattvamavabubhutsamānena tatpratyanīkabhūtaṃ tamaḥ pravilāpyata evaṃ brahmatattavamavabubhutsamānena tatpratyanīkabhūtaḥ prapañcaḥ pravilāpayitavyaḥ ।
+brahmasvabhāvo hi prapañco na prapañcasvabhāvaṃ brahma, tena nāmarūpaprapañcapravilāpanena brahmatattvāvabodho bhavatīti ।

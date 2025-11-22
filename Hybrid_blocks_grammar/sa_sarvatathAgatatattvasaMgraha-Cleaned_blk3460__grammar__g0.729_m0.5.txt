@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3460 | label: grammar | g:0.729 m:0.5 ---
+
+"atha samādhinayasādhanamamicchet tena tathaiva māsānte sakalāṃ rātriṃ yathābhirucitena samādhinā jāpo dātavyaḥ । tataḥ prabhāte sarvasamādhaya āmukhībhavantī-"tyāha bhagavān vajradharmaḥ ।।

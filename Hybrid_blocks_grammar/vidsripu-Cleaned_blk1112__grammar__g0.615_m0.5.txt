@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1112 | label: grammar | g:0.615 m:0.5 ---
+
+kva malayataṭījanmasthānaṃ kva te ca vanecarāḥ kva khalu paraśucchedaḥ kvāsau digantarasaṃgatiḥ ।
+kva ca kharaśilāpaṭṭe dhṛṣṭiḥ kva paṅkasurūpatā malayaja sakhe mā gāḥ khedaṃ guṇās tava dūṣaṇam ।।

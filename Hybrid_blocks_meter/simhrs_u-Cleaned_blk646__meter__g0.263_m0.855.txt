@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 646 | label: meter | g:0.263 m:0.855 ---
+
+atha vrīḍā-
+akārya-karaṇāvajñā-stuti-nūtana-saṅgamaiḥ ।
+pratīkārākriyādyaiś ca vrīḍatvanatidhṛṣṭatā ।। 
+tatra ceṣṭā nigūḍhoktir ādhomukhya-vicintane ।
+anirgamo bahiḥ kvāpi dūrād evāvaguṇṭhanam । 
+nakhānāṃ kṛntanaṃ bhūmi-lekhanaṃ caivam ādayaḥ ।।

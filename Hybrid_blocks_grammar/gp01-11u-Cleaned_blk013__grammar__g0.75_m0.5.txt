@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 13 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tṛtīyam api sambhṛtīkaravāṇi he śrī-kṛṣṇa iti । śrīr atra ca paramapreyasīṣu śreyasī rādhā, tatas "tadyuktatayā madhuralīlāyām asaṃkīrṇa! he kṛṣṇa-caitanyākhya-bhaktāvatāra! tādātmyāpannatayāvatīrṇa! he sanātana-rūpābhyāṃ paramānurakta-subhaktābhyāṃ saha vidyamāna! he gopāla-raghunāthābhyāṃ tat-tan-nāmābhyām api subhaktābhyām āptaḥ prāpto yo vrajas, tasya vallabhatayā sarva-vidyamānaṃ! māṃ pāhi, mat-pālakatāṃ yāhīti ।

@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 125 | label: meter | g:0.363 m:0.725 ---
+
+grahaṇasvabhāvāpi doṣavaśādgṛhītatvāṃśapramoṣādgrahaṇamātramavatiṣṭhate ।
+tathā ca rajatasamṛteḥ purovartidravyamātragrahaṇasya ca mithaḥ svarūpato viṣayataśca bhedāgrahāt, saṃnihita

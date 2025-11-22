@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 674 | label: grammar | g:0.729 m:0.5 ---
+
+atra vacaḥśabdena gīḥśabdo lakṣyate । atra khalu na kevalaṃ pūrvapadam yāvaduttarapadamapi paryāyaparivartanaṃ na kṣamate । jaladhyādāvuttarapadameva vaḍavānalādau pūrvapadameva ।।

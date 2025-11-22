@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 357 | label: meter | g:0.194 m:0.625 ---
+
+yājyo abhūdvahnikalpānām autathyānāṃ manoḥ kule 
+sa teṣu hariyajñāya pravṛtteṣu bhṛgūn gurūn ।।

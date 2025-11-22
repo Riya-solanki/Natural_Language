@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1518 | label: meter | g:0.194 m:0.75 ---
+
+tam ṛkṣayogānugataṃ śiśirāṃśuṃ dvijeśvaram 
+śaśacchāyāṅkitatanuṃ naiśasya tamasaḥ kṣayam ।।

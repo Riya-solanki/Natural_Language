@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 38 | label: meter | g:0.333 m:0.5 ---
+
+airāvato abhramātaṅgairāvaṇābhramuvallabhāḥ hrādinī vajramastrī syāt kuliśaṃ bhiduraṃ paviḥ śatakoṭiḥ svaruḥ śambo dambholiraśanirdvayoḥ

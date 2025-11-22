@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1872 | label: hybrid | g:0.51 m:0.5 ---
+
+niśamya tāvannareṣu yātanāṃ bhayādidaṃ vidravatīva me manaḥ ।
+kathaṃ bhaviṣyāmi na tāṃ sameyivān vitakravahnirdahatīva māṃ punaḥ ।।

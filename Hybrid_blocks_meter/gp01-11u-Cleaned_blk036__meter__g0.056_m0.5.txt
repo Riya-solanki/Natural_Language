@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 36 | label: meter | g:0.056 m:0.5 ---
+
+bhāṇdīrasya sphuṭam adhihari prema kiṃ varṇanīyaṃ
+sāntardhānaṃ sthitavati harau bādham antardadhe yaḥ ।
+yāntu svāṃśena ca viṣayatām atra govardhanādyā
+loke snigdhā racayitum idaṃ na kṣamaḥ syām itīva ।। [mandākrāntā]

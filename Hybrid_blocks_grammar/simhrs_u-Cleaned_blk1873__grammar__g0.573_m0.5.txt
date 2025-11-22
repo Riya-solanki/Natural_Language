@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1873 | label: grammar | g:0.573 m:0.5 ---
+
+kaṇṭhe kṛttāvaśeṣaṃ kanaka-mayam adhaḥ śṛṅkhalā-dāma karṣan krāntvā dvārāṇi helācala-caraṇa-raṇat-kiṅkaṇī-cakravālaḥ ।
+dattātaṅko' ṅganānām anusṛta-saraṇiḥ sambhramād aśva-pālaiḥ prabhraṣṭo' yaṃ plavaṅgaḥ praviśati nṛpater mandiraṃ mandurāyāḥ ।।

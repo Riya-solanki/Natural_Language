@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 924 | label: hybrid | g:0.5 m:0.5 ---
+
+apakartāham asmīti mā te manasi bhūd bhayam ।
+vimukheṣu na me khaḍgaḥ prahartuṃ jātu vāñchati ।।

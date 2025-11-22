@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 268 | label: grammar | g:0.75 m:0.5 ---
+
+artho na saṃbhṛtaḥ kaś cin na vidyā kā cid arcitā na tapaḥ saṃcintaṃ kiṃ cid gataṃ ca sakalaṃ vayaḥ ।।

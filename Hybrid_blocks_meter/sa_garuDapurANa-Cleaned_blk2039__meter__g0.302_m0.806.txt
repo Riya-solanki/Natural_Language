@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2039 | label: meter | g:0.302 m:0.806 ---
+
+rakṣāvidhānaṃ sumahadvidhāya harmyopariṣṭhaṃ kriyate yadā tat ।
+tadā mahādundubhimandraghoṣairvidyullatāvisphuritāntarālaiḥ ।।

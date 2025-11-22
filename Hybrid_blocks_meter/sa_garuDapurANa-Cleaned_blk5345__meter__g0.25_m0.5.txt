@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5345 | label: meter | g:0.25 m:0.5 ---
+
+puṣpaṃ rātryandhatāṃ hanti timiraṃ paṭalaṃ tathā ।
+caturbhāgāni śaṅkhasya tadardhena manaḥ śilā ।।

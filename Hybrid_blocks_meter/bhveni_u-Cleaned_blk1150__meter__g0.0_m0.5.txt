@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 1150 | label: meter | g:0.0 m:0.5 ---
+
+tataḥ praviśati muniveṣadhārī cārvāko nāma rākṣasaḥ

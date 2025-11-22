@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1301 | label: meter | g:0.25 m:0.625 ---
+
+paśyantu tāvadbhavatā vimuktaṃ haṃsādhipaṃ haṃsagaṇāḥ pratītāḥ ।
+virocamānaṃ nabhasi prasanne daityendranirmuktamivoḍurājam ।।

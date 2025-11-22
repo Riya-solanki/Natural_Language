@@ -1,0 +1,14 @@
+--- source: simhrs_u-Cleaned.txt | block: 1888 | label: meter | g:0.25 m:0.733 ---
+
+atha praveśakaḥ-
+yan nīcaiḥ kevalaṃ pātrair bhāvi-bhūtārtha-sūcanam ।
+aṅkayor ubhayor madhye sa vijñeyaḥ praveśakaḥ ।। 
+so' yaṃ ceṭi-dvayālāpa-saṃvidhānopakalpitaḥ ।
+mālatī-mādhave prājñair dvitīyāṅke nirūpyatām ।। 
+asūcyaṃ tu śubhodātta-rasa-bhāva-nirantaram ।
+prārambhe yady asūcyaṃ syād aṅkam evātra kalpayet ।। 
+rasālaṅkāra-vastūnām upalālana-kāṅkṣiṇām ।
+janany-aṅkavadādhāra-bhūtatvād aṅka ucyate ।। 
+aṅkas tu pañcaṣair dvitrair aṅgino' ṅgasya vastunaḥ ।
+rasasya vā samālamba-bhūtaiḥ pātrair manoharaḥ । 
+saṃvidhāna-viśeṣaḥ syāt tatrāsūcyaṃ prapañcayet ।।

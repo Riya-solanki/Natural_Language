@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3788 | label: grammar | g:0.708 m:0.5 ---
+
+sā ca vaḍavā śatayojanapramāṇamārgam atītya punar api vāhyamānā mithilāvanoddeśe prāṇān utsasarja । śatadhanvāpi tāṃ parityajya padātir evādravat ।।

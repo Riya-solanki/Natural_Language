@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 496 | label: meter | g:0.306 m:0.625 ---
+
+sarvapāpavinirmuktā bhaviṣyatha na saṃśayaḥ ।
+tataḥ snātāśca te sarve śuddhadehā divaṃ gatāḥ ।।

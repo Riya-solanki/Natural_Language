@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3847 | label: grammar | g:0.75 m:0.5 ---
+
+jātena ca tenākhilam evaitat sanmārgavarti jagad akriyata । bhagavato apy atra martyaloke avatīrṇasya ṣoḍaśasahasrāṇy ekottaraśatādhikāni bhāryāṇām abhavan । tāsāṃ ca rukmiṇīsatyabhāmājāmbavatīcāruhāsinīpramukhā hy aṣṭau patnyaḥ pradhānā । tāsu cāṣṭāyutāni lakṣaṃ ca putrāṇāṃ bhagavān akhilamūrtir anādimān ajanayat ।।

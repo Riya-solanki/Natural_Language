@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8291 | label: meter | g:0.25 m:0.5 ---
+
+tadīdṛśaṃ parijñāya dharmārthe dīyate dhanam ।
+dhanena dhāryate dharmaḥ śraddhāpūtena cetasā ।।

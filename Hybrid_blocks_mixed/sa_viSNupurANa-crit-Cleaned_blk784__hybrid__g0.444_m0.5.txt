@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 784 | label: hybrid | g:0.444 m:0.5 ---
+
+aho asya tapaso vīryam aho asya tapasaḥ phalam 
+yad enaṃ purataḥ kṛtvā dhruvaṃ saptarṣayaḥ sthitāḥ ।।

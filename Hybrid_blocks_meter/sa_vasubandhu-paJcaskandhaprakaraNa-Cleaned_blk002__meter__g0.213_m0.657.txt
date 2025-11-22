@@ -1,0 +1,5 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 2 | label: meter | g:0.213 m:0.657 ---
+
+prathamādhikāraḥ - skandhoddeśanirdeśakaḥ
+pañcaskandhāḥ
+rūpaskandhaḥ vedanāskandhaḥ saṃjñāskandhaḥ saṃskāraskandhaḥ vijñānaskandhaśca ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4423 | label: meter | g:0.194 m:0.75 ---
+
+avāpus tāpam atyarthaṃ śapharyaḥ palvalodake 
+putrakṣetrādisaktena mamatvena yathā gṛhī ।।

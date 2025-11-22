@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1228 | label: meter | g:0.25 m:0.5 ---
+
+{savitā vidhavati vidhurapi savitarati tathā dinanti yāminyaḥ ।
+yāminayanti dināni ca sukhaduḥkhavaśīkṛte manasi ।।}

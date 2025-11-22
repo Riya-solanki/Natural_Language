@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 134 | label: meter | g:0.139 m:0.967 ---
+
+ubhe api, yathā-
+ekatrāsana-saṅgate priyatame paścād upetyādarād
+ekasyā nayane nimīlya vihita-krīḍānubandha-cchalaḥ ।
+īṣad-vakrima-kandharaḥ sa-pulakaḥ premollasan-mānasām
+antar-hāsa-lasat-kapola-phalakāṃ dhūrto' parāṃ cumbati ।।

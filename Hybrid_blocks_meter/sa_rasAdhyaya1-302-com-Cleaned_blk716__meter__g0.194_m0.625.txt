@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 716 | label: meter | g:0.194 m:0.625 ---
+
+bījapūraṃ samagraṃ tu veṣṭayedvastramṛtsnayā 
+dairghye cādhastathā vyāse gartaṃ hastapramāṇakam ।।

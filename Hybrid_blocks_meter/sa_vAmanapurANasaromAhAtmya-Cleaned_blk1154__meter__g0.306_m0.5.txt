@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1154 | label: meter | g:0.306 m:0.5 ---
+
+rakṣa māṃ rakṣaṇīyo ahaṃ tavānagha namo astu te ।
+bhaktānukampī bhagavān bhaktaścāhaṃ sadā tvayi ।।

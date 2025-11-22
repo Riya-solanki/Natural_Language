@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 494 | label: grammar | g:0.625 m:0.5 ---
+
+[] tataś cānavadyayā vidyayā toṣiteṣu teṣu nikhila-guṇi-jana-garva-nivartakeṣu kṛṣṇādi-nartakeṣu sarva-durāsada-śrīdāmādi-sabhāsadaḥ svaka-sarva-kalā-veditā niveditācaraṇāya nṛtya-vidyām udbhāvayāmāsuḥ ।

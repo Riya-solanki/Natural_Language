@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1327 | label: meter | g:0.25 m:0.625 ---
+
+jyeṣṭhasāma ca bhāruṇḍaṃ tannayāmīti paścime ।
+nīlarudro mahāmantraḥ kumbhasūktamatharvaṇaḥ ।।

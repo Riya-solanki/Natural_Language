@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1156 | label: meter | g:0.316 m:0.5 ---
+
+nālambanāya dharaṇir na tṛṣārtiśāntyai saptāpi vārinidhayo na dhanāya meruḥ ।
+pūrvārjitāśubhavaśīkṛtapauruṣasya kalpadrumo api na samīhitam ātanoti ।।

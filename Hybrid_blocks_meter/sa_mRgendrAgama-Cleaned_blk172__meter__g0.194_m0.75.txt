@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 172 | label: meter | g:0.194 m:0.75 ---
+
+tadarthaṃ kṣobhayitveśaḥ kalāmeva janikṣamām 
+tattvaṃ vidyākhyamasṛjat karaṇaṃ paramātmanaḥ ।।

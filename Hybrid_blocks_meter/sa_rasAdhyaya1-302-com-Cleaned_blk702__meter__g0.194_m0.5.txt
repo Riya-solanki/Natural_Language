@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 702 | label: meter | g:0.194 m:0.5 ---
+
+rūpyaṃ ca tilamākṣīkaṃ svarṇaṃ nāgena hanyate 
+yathā tāmravidhiḥ proktaḥ sa vidhiḥ pañcamāraṇe ।।

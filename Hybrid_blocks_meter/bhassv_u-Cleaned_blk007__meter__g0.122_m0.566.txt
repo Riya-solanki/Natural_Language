@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 7 | label: meter | g:0.122 m:0.566 ---
+
+{tataḥ praviśati parivrājakaveṣo yaugandharāyaṇa āvantikāveṣadhāriṇī vāsavadattā ca }
+{yaugandharāyaṇaḥ} -
+{karṇaṃ dattvā} katham ihāpy utsāryate 
+kutaḥ

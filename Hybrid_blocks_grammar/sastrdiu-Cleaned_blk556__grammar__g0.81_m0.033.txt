@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 556 | label: grammar | g:0.81 m:0.033 ---
+
+eṣā hyatra vacanavyaktiḥ- yadetatsuṣuptau muktau vātmā na paśyati paśyanneva draṣṭuṃ śaknuvanneva na paśyati ।
+na hi draṣcurātmano yā darśanaśaktistasyāḥ kadācidapi lopo vidyate sāhyavināśinīti na draṣṭurdvitīyamanyaddarśanasādhanaṃ cakṣurvyāpārarūpaṃ dṛśyaṃ vā tasyāmavasthāyāsamasti yato darśanaṃ syāt, yadyapi dṛśyaṃ rūpādikaṃ svarūpatastasyāmavasthāyāmasti tathāpi dṛśyatā darśanayogyatā tasyāmavasthāyāṃ nāstīti tena rūpeṇābhāvāddṛśyaṃ nāstītyucyate, tasmātsādhanāntaravaikalyāttasyāmavasthāyāṃ na paśyati na śaktivaikalyāt, śaktistu na kadācidapi lupyata iti ।
+evamanyeṣāmapi vākyānāṃ yojanā ।
+tathā jñānaśaktyaparilopa eva jñatrānāparilopa ucyate, jñātiśabdaścātrānumānādijñānaparaḥ cakṣurādijñānānāṃ svaśabdairuktatvāt ।।

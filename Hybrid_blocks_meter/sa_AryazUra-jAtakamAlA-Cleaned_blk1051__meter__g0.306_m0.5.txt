@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1051 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ hi vaḥ syādyaśasaḥ samṛddhirdharmasya cārthasya sukhāspadasya ।
+sukhāvagāhaśca paro api lokastadapramattā gṛhamāvaseta ।।

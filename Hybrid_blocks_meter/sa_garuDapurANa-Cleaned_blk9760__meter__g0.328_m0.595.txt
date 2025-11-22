@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9760 | label: meter | g:0.328 m:0.595 ---
+
+anyebhyaścāpi sarvebhyaḥ piṇḍadānārthamuddharet ।
+pṛthagvā daśa piṇḍāṃśca pañca dadyāt krameṇa tu ।।

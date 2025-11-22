@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2 | label: grammar | g:0.625 m:0.5 ---
+
+śrīgaṇādhipataye namaḥ । sarasvatyainamaḥ । atha śrīgaruḍamahāpurāṇaṃ prārabhyate । tatrādau karmakāṇḍākhyaḥ pūrvakhaṇḍaḥ prārabhyate ।

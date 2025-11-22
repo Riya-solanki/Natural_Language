@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3165 | label: meter | g:0.194 m:1.0 ---
+
+ekaṃ tavaitad bhūtātman mūrtāmūrtamayaṃ vapuḥ 
+ābrahmastambaparyantaṃ sthānakālavibhedavat ।।

@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 13 | label: grammar | g:0.562 m:0.5 ---
+
+na dānatulyaṃ dhanam anyad asti na satyatulyaṃ vratam anyad asti ।
+na śītatulyaṃ śubham anyad asti na kṣāntitulyaṃ hitam anyad asti ।।

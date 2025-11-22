@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1384 | label: meter | g:0.194 m:0.729 ---
+
+sītā-priyaṃ ca daliteśvara-kārmukaṃ ca
+bāli-druhaṃ ca racitāmbudhi-bandhanaṃ ca ।
+rakṣohaṇaṃ ca vijigīṣu-vibhīṣaṇaṃ ca
+rāmaṃ nihatya caraṇau tava vanditāhe ।।

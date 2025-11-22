@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 48 | label: grammar | g:0.555 m:0.464 ---
+
+athārthasvarūpasmārakaiḥ padairanvitajñānamanamīyate, tataḥ kāryavācake apyasiddheranvitābhidhānaṃ na syāt ।
+kiñca prathamameva kāryavyabhicāraḥ śakyo anagantum ।
+yadā hi putraste jāta ityuktasya kasyācinmukhavikāsaṃ pārśvasthaḥ paśyati tadā harṣaheturanena śabdena pratipādita iti harṣahetubhūtasiddhārthapratipādane śabdasya sāmarthyaṃ kalpayati ।
+yadyapi ca tadānīmarthaviśeṣo na jñāyate harṣahetūnāṃ bahūnāṃ saṃbhavāttathāpi siddhārthatā tāvadavagatā, tāvatāpi kārye vyabhicāraḥ siddhaḥ ।
+kiñca bahuśaḥ putrajanane sati evaṃ śabdaprayogādanyeṣu harṣahetuṣvaprayogāt putrajananarūpārthaviśeṣo api sujñāna

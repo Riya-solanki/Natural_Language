@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3829 | label: meter | g:0.25 m:0.5 ---
+
+nādhano vidyate tatra hīnabhāgyo api vā naraḥ 
+dvāravatyāṃ puri purā keśavasya mahātmanaḥ । 
+kṛśo vā malino vāpi dvāravatyāṃ gṛhe gṛhe ।।

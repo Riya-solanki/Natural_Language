@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 589 | label: hybrid | g:0.289 m:0.487 ---
+
+iti ।
+tatrāha bāhyasya ceti ।
+yatsāmyāvasthayā suciraṃ paryaṇamatkathaṃ tadevāsati vilakṣaṇapratyayopanipāte vaiṣamyamupaiti ।
+anapekṣasya svato vāpi vaiṣamye na kadācitsāmyaṃ bhavedityarthaḥ ।।

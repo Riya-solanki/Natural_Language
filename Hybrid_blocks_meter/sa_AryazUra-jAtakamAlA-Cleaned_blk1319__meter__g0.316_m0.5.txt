@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1319 | label: meter | g:0.316 m:0.5 ---
+
+tenāsya vākyena supeśalena svāmyarthadhīreṇa ca ceṣṭitena ।
+tathā prasanno asmi yathāsya bhartā mayā samaṃ krūratayaiva muktaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 290 | label: meter | g:0.194 m:0.625 ---
+
+brāhmaṇaiś ca mahābhāgair vedavedāṅgapāragaiḥ 
+pṛthur eva namaskāryo vṛttidaḥ sa sanātanaḥ ।।

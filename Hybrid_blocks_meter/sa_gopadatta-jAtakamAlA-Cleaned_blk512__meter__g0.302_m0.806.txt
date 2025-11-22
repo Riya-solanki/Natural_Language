@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 512 | label: meter | g:0.302 m:0.806 ---
+
+sphurattaḍiddāmavirājitorasaḥ surendracāpapratibaddhakaṅkaṇāḥ ।
+payomucaḥ kiṃcidavāśrutāmbhaso vitānavad vyomani te virejire ।।

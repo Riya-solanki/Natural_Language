@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1301 | label: hybrid | g:0.51 m:0.5 ---
+
+vicintyamāno hi karoti vismayaṃ visāriṇā saccaritena sajjanaḥ ।
+yadā tu cakṣuḥpatham eti dehināṃ tadāmṛteneva manāṃsi siñcati ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3325 | label: meter | g:0.194 m:0.625 ---
+
+karūṣeṣu prasūto ayaṃ cāṇūro nāma nāmataḥ 
+bāhuyodhī sarīreṇa karmabhiś cānucintyatām ।।

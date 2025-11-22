@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1119 | label: grammar | g:0.677 m:0.5 ---
+
+haṃho siṃhakiśoraka tyajasi cet kopaṃ vadāmas tadā hatvainaṃ kariṇāṃ sahasram akhilaṃ kiṃ labdham āyuṣmatā ।
+evaṃ kartum ahaṃ samartha iti ced dhiṅ mūrkha kiṃ sarvato nālaṃ plāvayituṃ jagaj jalanhidhir dhairyaṃ yad ālambate ।।

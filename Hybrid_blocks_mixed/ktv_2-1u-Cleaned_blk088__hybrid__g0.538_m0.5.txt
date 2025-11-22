@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 88 | label: hybrid | g:0.538 m:0.5 ---
+
+śakyate ca sarvatra sāmānādhikaraṇyam api darśayituṃ vināpi pūrvāparībhūtatvena ।
+tad yathā kiṃ kartavyaṃ? paktavyam, kathaṃkāraṃ juhoti? abhikrāmam, kiṃ kṛtvā juhoti? abhiṣutya, kiṃ kṛtavān? pakvavān, kiṃ

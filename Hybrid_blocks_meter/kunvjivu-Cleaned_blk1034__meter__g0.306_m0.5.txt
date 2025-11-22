@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1034 | label: meter | g:0.306 m:0.5 ---
+
+ucyatāṃ sa vacanīyamaśeṣaṃ neśvare paruṣatā sakhi sādhvī ।
+ānayainamanunīya kathaṃ vā vipriyāṇi janayannanuneyaḥ ।।

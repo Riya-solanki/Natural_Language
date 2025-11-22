@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1748 | label: meter | g:0.194 m:0.625 ---
+
+adya tvāṃ nāśayiṣyāmi devavyāghātakāriṇam 
+sveṣu sveṣu ca sthāneṣu sthāpayiṣyāmi devatāḥ ।।

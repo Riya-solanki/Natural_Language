@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 45 | label: grammar | g:0.646 m:0.5 ---
+
+hṛdi rūpaṃ mukhe nāma naivedyam udare hareḥ pādodakaṃ ca nirmālyaṃ mastake yasya so acyutaḥ ।।

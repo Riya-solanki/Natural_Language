@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2530 | label: meter | g:0.25 m:0.625 ---
+
+mahāvajramaṇiṃ badhvā dharmamudrāṃ tu bhāvayan ।
+tanmaṇiṃ strībhage vidhvā bhavetsiddhiranuttarā ।।

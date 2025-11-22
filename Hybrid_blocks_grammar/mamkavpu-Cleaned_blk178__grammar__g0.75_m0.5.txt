@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 178 | label: grammar | g:0.75 m:0.5 ---
+
+etadvivṛṇvate {vibhāvairlalanodyānādibhirālambanoddīpanakāraṇaiḥ ratyādiko bhāvo janitaḥ anubhāvaiḥ kaṭākṣabhujākṣepaprabhṛtibhiḥ kāryaiḥ pratītiyogyaḥ kṛtaḥ vyabhicāribhirnirvedādibhiḥ sahakāribhirupacito mukhyayā vṛttyā rāmādāvanukārye tadrūpasaṃdhānānnartake api pratīyamāno rasaḥ} iti bhaṭṭalollaṭaprabhṛtayaḥ ।

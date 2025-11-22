@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 986 | label: meter | g:0.25 m:0.75 ---
+
+arthayorekamullekhi padaṃ śabdatadarthayoḥ ।
+ekāvabhāsayoḥ sāmyaṃ tantratvādatra jṛmbhate ।।
+tulyaśabdasmṛterarthaḥ tasmādanyaḥ pratīyate ।
+śabdasyodbhūtanaṣṭatvāt smṛtiḥ sarvatra vācikā ।।

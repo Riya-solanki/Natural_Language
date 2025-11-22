@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 91 | label: meter | g:0.316 m:0.5 ---
+
+śiṣṭā na gṛhṇanti purā pratijñāṃ gṛhṇanti cet te kaṭhinapratijñām ।
+aṅgikṛtāṃ tāṃ paripālayanti pāṣāṇarekhāmiva te tadānīm ।।

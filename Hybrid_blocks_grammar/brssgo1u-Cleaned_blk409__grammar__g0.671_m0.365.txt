@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 409 | label: grammar | g:0.671 m:0.365 ---
+
+ucyate- aprāṇo brahma kaṃ brahma khaṃ brahma' ityetadagnīnāṃ vacanaṃ śrutvopakosala uvāca- avijānāmyahaṃ yatprāṇo brahma kaṃ ca tu khaṃ ca na vijānāmi' iti ।
+tatredaṃ prativacanam- ayadvāva kaṃ tadeva khaṃ yadeva khaṃ tadeva kaṃ'

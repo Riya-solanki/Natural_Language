@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 27 | label: grammar | g:0.604 m:0.5 ---
+
+vaktraṃ cāparavaktraṃ ca socchvāsatvaṃ ca bhedakam cihnam ākhyāyikāyāś cet prasaṅgena kathāsv api ।।

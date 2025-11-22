@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1881 | label: meter | g:0.25 m:0.5 ---
+
+svapuṇyalakṣmyā nṛpa dīptayāptayā sukṛtsu śuklatvamanojñayājñayā ।
+carātmano arthapratisaṃhitaṃ hitaṃ jagadvyathāṃ kīrtimanoharaṃ haran ।।

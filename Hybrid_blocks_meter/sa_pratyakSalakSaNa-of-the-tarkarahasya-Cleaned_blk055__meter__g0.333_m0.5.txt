@@ -1,0 +1,3 @@
+--- source: sa_pratyakSalakSaNa-of-the-tarkarahasya-Cleaned.txt | block: 55 | label: meter | g:0.333 m:0.5 ---
+
+"pratibhāso'sya nāsyeti nopapattes tu gocaraḥ।" iti, "saṃvedanasya tādātmye na vivādo'sti kasya cit।"

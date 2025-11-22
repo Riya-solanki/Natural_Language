@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4865 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ kiṃkarasainyaṃ tad abhyāgāt samare mahat 
+koṭiśaś cāpi bahudhā dīptapraharaṇaṃ tadā ।।

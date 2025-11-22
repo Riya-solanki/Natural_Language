@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11621 | label: meter | g:0.306 m:0.5 ---
+
+āyurgataṃ vyarthameva tvadīyaṃ śīghraṃ bhajeḥ śrīnivāsasya pādam ।
+upadiśyaivaṃ mātaraṃ putravaryo daityāveśātsobhavadvai tapasvī ।।

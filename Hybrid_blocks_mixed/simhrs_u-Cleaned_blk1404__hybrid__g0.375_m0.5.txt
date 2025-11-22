@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1404 | label: hybrid | g:0.375 m:0.5 ---
+
+yathā tatraiva navamāṅke yama-puruṣaḥ-tatra-bhavato lulāya-lakṣaṇaḥ sakala-prāṇibhṛtāṃ vihita-nāśasya kīnāśasya kim api viśvātiśāyinī prabhaviṣṇutā ity upakramya,

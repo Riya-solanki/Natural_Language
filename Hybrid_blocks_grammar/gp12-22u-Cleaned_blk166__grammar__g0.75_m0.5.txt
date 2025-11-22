@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 166 | label: grammar | g:0.75 m:0.5 ---
+
+[] tadānīm eva cānyataḥ sa vraja-rājātmaja-vraja-vāsināṃ taraṇijā-tīra eva vāsam ākarṇayann abhyarṇa-gatān ājñāpayāmāsa, bhavantas tatra praviśantaḥ samantataḥ pravalatayā jvalanaṃ prajvalanam ācarantaḥ svayam antardhānam ācarantu ।

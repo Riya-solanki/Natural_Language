@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 877 | label: meter | g:0.25 m:0.5 ---
+
+ahaṃ brahmā tathā viṣṇur ahaṃ devo maheśvaraḥ 
+bhairavo aham iti devi cintayitvā tu sādhakaḥ ।।

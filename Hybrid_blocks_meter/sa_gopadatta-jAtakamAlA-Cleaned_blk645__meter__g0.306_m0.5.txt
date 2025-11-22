@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 645 | label: meter | g:0.306 m:0.5 ---
+
+ātmānam ekaṃ praty ete buddhā yasmād ataḥ kila ।
+pratyekabuddhā ity evaṃ pratimānam upāgatāḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2455 | label: meter | g:0.323 m:0.855 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+caturdaśa manūnvakṣye tatsutāśca sukādikān ।
+manuḥ svāyambhuvaḥ pūrvamagnighrādyāśca tatsutāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 994 | label: meter | g:0.194 m:0.625 ---
+
+ajamīḍhasya keśinyāṃ jajñe jahnuḥ pratāpavān 
+ya ājahre mahāsattraṃ sarvamedham mahāmakham ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 513 | label: grammar | g:0.563 m:0.42 ---
+
+sā bālā vayam apragalbhamanasaḥ sā strī vayaṃ kātarāḥ sākrāntā jaghanasthalena guruṇā gantuṃ na śaktā vayam ।
+sā pīnonnatimatpayodharayugaṃ dhatte sakhedā vayaṃ doṣair anyajanāśrito apaṭavo jātāḥ sma ity adbhutam ।।
+dharmakīrteḥ

@@ -1,0 +1,4 @@
+--- source: brsvbh2u-Cleaned.txt | block: 311 | label: hybrid | g:0.328 m:0.497 ---
+
+vihāraḥ saṃcāraḥ kriyā, tatra svātantryaṃ nākartuḥ saṃbhavati ।
+tasmādapi kartā jīvaḥ ।।

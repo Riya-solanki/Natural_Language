@@ -1,0 +1,4 @@
+--- source: visa01cu-Cleaned.txt | block: 202 | label: hybrid | g:0.542 m:0.5 ---
+
+śūnyaṃ vāsagṛhaṃ vilokya śayanādutthāya kiñcicchanairnidrāvyājamupāgatasya suciraṃ nirvarṇya patyurmukham ।
+vistrabdhaṃ paricumbya jātapulakāmālokya gaṇḍasthalīṃ lajjānamramukhī priyeṇa isatā bālā ciraṃ cumbitā ।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 845 | label: grammar | g:0.562 m:0.5 ---
+
+svapna prasīda bhagavan punar ekavāraṃ saṃdarśaya priyatamāṃ kṣaṇamātram eva ।
+dṛṣṭā satī nibiḍabāhunibandhalagnaṃ tatraiva māṃ nayati sā yadi vā na yāti ।।

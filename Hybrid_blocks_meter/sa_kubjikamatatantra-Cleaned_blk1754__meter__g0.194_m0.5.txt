@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1754 | label: meter | g:0.194 m:0.5 ---
+
+catuṣkaṃ pañcakaṃ nātha ṣaṭkaṃ tu pañcakaṃ tathā 
+jñātaṃ vyāptibhṛtaṃ sarvaṃ catuṣkaṃ kīdṛśaṃ punaḥ ।।

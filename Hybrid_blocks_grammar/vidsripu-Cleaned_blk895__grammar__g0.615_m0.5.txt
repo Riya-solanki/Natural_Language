@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 895 | label: grammar | g:0.615 m:0.5 ---
+
+sadbhāvopagatā samapraṇayinī dārāḥ parasyeti vā dūte rāgaparābhavaḥ kriyata ity etan na mīmāṃsitam ।
+yenāmbhoruhasaṃnibhasya vadanasyāpāṇḍutā te kṛtā dūti bhraṣṭaguṇasya tasya nilayaṃ svapne api mā gāḥ punaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 4 | label: grammar | g:0.552 m:0.5 ---
+
+vāgdevī vadane mama sphuratu yā dhvanyātmanollāsinī varṇavyaktimupāgatā ca tadanu sthānaprayatnādibhiḥ ।
+bhāvānāṃ padasaṃjñayā vidadhatī tredhā samullekhanāny ānandānanusaṃdadhāti viduṣāṃ prāptā mahāvākyatām ।।

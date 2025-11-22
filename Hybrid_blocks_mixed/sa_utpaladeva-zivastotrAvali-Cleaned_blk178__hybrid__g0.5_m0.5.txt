@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 178 | label: hybrid | g:0.5 m:0.5 ---
+
+tattvato aśeṣajantūnāṃ bhavatpūjāmayātmanām dṛṣṭyānumoditarasāplāvitaḥ syāṃ kadā vibho ।।

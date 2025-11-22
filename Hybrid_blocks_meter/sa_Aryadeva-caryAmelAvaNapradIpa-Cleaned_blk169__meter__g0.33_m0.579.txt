@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 169 | label: meter | g:0.33 m:0.579 ---
+
+surīṃ nāgīṃ mahāyakṣīmasurīṃ mānuṣīmapi । prāpya vidyāvrataṃ kāryaṃ trivajrajñānasevitam ।। iti । 
+dvayendriyasamāpattyā vyāyāmavidhirantare ।
+harṣacittaṃ muneḥ siddhau mahāsukhamiti smṛtam ।।

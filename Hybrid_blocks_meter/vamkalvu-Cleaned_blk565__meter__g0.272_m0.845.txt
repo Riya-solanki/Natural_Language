@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 565 | label: meter | g:0.272 m:0.845 ---
+
+nānākāreṇa kāntābhrūrārādhitamanoyuvā ।
+viviktena vilāsena tatakṣa hṛdayaṃ nṛṇām ।।

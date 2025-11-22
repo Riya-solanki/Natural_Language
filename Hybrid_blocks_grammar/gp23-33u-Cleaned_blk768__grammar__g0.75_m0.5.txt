@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 768 | label: grammar | g:0.75 m:0.5 ---
+
+sā vakṣyati-sa ca pūrvaṃ kiñcid anusaṃhitavān āsīt । uttaraṃ tu samyag vidann evāste । kintu samprati lajjayā nāvadhānaṃ sajjayati ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4125 | label: meter | g:0.194 m:0.625 ---
+
+kṛṣṇo hi surakāryeṣu sarveṣu satatotthitaḥ 
+saṃgrāmān ghorarūpāṃś ca vigāhati mahābalaḥ ।।

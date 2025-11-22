@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1646 | label: meter | g:0.25 m:0.5 ---
+
+atha vajraprabha uvāca oṃ vajrasaumye hūṃ ।।

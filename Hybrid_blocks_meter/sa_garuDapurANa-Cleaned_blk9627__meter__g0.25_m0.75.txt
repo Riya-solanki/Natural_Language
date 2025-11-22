@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9627 | label: meter | g:0.25 m:0.75 ---
+
+vivāhotsavayajñeṣu antarā mṛtasūtake ।
+pūrvasaṅkalpitaṃ vittaṃ bhojyaṃ tanmanurabravīt ।।

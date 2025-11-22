@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 869 | label: meter | g:0.306 m:0.625 ---
+
+kośātakīkusumam api pradāya stūpe muneḥ paramakāruṇikasya yasya ।
+bhuktvālaye guṇavibhūtisukhaprakarṣaṃ lebhe aṅganāmṛtapurapratipatsamṛddhim ।।

@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 614 | label: grammar | g:0.75 m:0.5 ---
+
+na ca śabdasaṃskāre sarvapuṃsāmupalabdiprasaṅgaḥ- dhvanīnāṃ prādeśikatvāttaddeśe śabdaḥ saṃskriyate na sarvatra, ataḥ saṃskṛtena śabdena yasyendriyaṃ saṃnikṛṣṭaṃ sa eva śṛṇoti nānya ityupapannam ।।

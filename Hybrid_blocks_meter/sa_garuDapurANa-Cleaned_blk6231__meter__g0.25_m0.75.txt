@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6231 | label: meter | g:0.25 m:0.75 ---
+
+svarātkhaṃ vṛṣabhagajajṛmbhitaṃ bhrananā nagau ।
+najabhajarā vāṇinī gaḥ piṅgalenāṣṭirīritā ।।

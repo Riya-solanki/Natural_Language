@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 234 | label: meter | g:0.25 m:0.625 ---
+
+phalabharapariṇāmaśyāmajambūnikuñja- skhalitatanutaraṅgām uttareṇa śravantīm ।
+uparivighaṭamānaprauḍhatāpiñjanīlaḥ śrayati śikharam adrer nūtanas toyavāhaḥ ।।

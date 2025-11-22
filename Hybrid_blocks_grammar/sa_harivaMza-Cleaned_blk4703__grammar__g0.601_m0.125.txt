@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4703 | label: grammar | g:0.601 m:0.125 ---
+
+krīḍāvihāre nārībhiḥ sevyamānam itas tataḥ 
+pibantaṃ madhu mādhvīkaṃ śriyā paramayā yutam 
+varāsanagataṃ tatra yathaivailavilaṃ tathā ।। 
+vādyate samatālaṃ ca gīyate madhuraṃ tathā । na ca tasya manas tatra tam evārtham acintayat ।। striyaḥ sarvaguṇopetā nṛtyante tatra tatra vai । na cāsya manasas tuṣṭiṃ citralekhā prapaśyati । na cābhiramate bhogair na cāpi madhu sevate । vyaktam asya hi tat svapnaṃ hṛdaye parivartate । iti tatraiva buddhyā ca niścitā gatasādhvasā । sā dṛṣṭvā paramastrīṇāṃ madhye śakradhvajopamam । priyāsu gīyamānāsu nṛtyamānāsu sarvaśaḥ । 
+cintayāviṣṭadehā sā citralekhā manasvinī 
+kathaṃ kāryam idaṃ kāryaṃ kathaṃ svasti bhaven mama ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 984 | label: meter | g:0.056 m:0.625 ---
+
+gaurāḥ kṛṣṇa-pradhānāpluta-gati-paśavaḥ ke ramante? hariṇyaḥ
+ke vāmī sairibhāśva-pratima-tanudharā? rohiṣākhyāḥ prasiddhāḥ ।
+ke śṛṅgānekaśākhā-śavalita-vapuṣaḥ? śambarākhyās tad evaṃ
+mātur gīr-jñāta-nāmā sa jayati sa-balo nanda-gopāla-bālaḥ ।। [sragdharā]

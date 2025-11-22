@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5567 | label: meter | g:0.25 m:0.695 ---
+
+cūrṇaṃ chucchundarīdhaṃ dagdhvā rudra pralepayet ।
+tapyate takṣaṇāddagdho yadi samyakpralepayet ।
+candanena bhavenmokṣaḥ pānāllepātsukhī bhavet ।।

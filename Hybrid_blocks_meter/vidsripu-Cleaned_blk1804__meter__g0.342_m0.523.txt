@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1804 | label: meter | g:0.342 m:0.523 ---
+
+santi śvāna ivāsaṃkhyā jātibhājo gṛhe gṛhe ।
+utpādakā na bahavaḥ kavayaḥ śarabhā iva ।।
+bāṇasyāmī

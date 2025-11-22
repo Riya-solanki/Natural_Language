@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 50 | label: hybrid | g:0.542 m:0.5 ---
+
+bhavanti cātra dīkṣāparighaṭanasaṃgrahaślokāḥ padamantravarṇam ekaṃ puraṣoḍaśakaṃ dhareti ca nivṛttiḥ ।।

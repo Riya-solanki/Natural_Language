@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4637 | label: meter | g:0.295 m:0.565 ---
+
+devadānavasaṃghānāṃ yaḥ kartā bhuvanaprabhuḥ 
+sa bhavaḥ kārttikeyaś ca kṛtavāso hi naḥ pure ।।

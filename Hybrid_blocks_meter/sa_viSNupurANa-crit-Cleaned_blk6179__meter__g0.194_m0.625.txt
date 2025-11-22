@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6179 | label: meter | g:0.194 m:0.625 ---
+
+kaṇḍūyane api cāśaktaḥ parivarte apy anīśvaraḥ 
+snānapānādikāhāram avāpnoti parecchayā ।।

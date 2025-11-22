@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 564 | label: grammar | g:0.583 m:0.4 ---
+
+praharaviratau madhye vāhnas tato api pareṇa vā kim uta sakale yāte apy ahni tvam adya sameṣv asi ।
+iti dinaśataprāpyaṃ deśaṃ priyasya yiyāsato harati gamanaṃ bālālāpaiḥ sabāṣpajhalajjhalaiḥ ।।
+jhalajjhalasya

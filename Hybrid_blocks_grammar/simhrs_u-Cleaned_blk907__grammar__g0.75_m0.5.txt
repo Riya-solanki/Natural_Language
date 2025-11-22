@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 907 | label: grammar | g:0.75 m:0.5 ---
+
+atra varṇanīyatayā uttama-rāvaṇaṃ prati devendrasya madhyamatvaṃ nāśaṅkanīyam । yataḥ prakṛtir eva kāraṇaṃ puṃsām uttamatve । na tu varṇanā । varṇanāyāḥ kāraṇatve priyeṇa tasyānaparādha-bādhitāḥ ity ādibhiḥ augryādi-bhāva-kathanam uttamasya rāvaṇasya nocitaṃ syāt । tasmād uttama-prakṛter api devendrasya lokātirikta-vara-prabhāva-bhīṣaṇād rāvaṇād bhayam upapadyate ।

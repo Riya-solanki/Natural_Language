@@ -1,0 +1,3 @@
+--- source: sa_pratyakSalakSaNa-of-the-tarkarahasya-Cleaned.txt | block: 81 | label: hybrid | g:0.5 m:0.5 ---
+
+yat pratyekaṃ samudāye ca tad vastuno rūpam, tad yathā nīlatvam yat pratyekam asat samudāye cāsti sa samudāyadharmaḥ, yathā caturasratvādisthaulyaṃ tu samudāyapratibhāsadharmaḥbahuṣu pratibhāsamāneṣu nirantareṣu sthūlam iti pratyayaḥ tena rūpaṃ sparśo vā sthūlaḥ, na tu tadatiriktaṃ dravyaṃ sthūlam apatibhāsanāt

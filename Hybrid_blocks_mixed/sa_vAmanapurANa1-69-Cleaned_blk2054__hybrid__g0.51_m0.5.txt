@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2054 | label: hybrid | g:0.51 m:0.5 ---
+
+hatvā ca daityaṃ nṛpatestanūjo labdhvā varorūmapi saṃsthito abhūt ।
+dṛṣṭo yathā devapatirmahendraḥ śacyā tathā rājasuto mṛgākṣyā ।।

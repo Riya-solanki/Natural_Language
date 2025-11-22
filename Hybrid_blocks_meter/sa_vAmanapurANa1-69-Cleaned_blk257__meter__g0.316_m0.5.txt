@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 257 | label: meter | g:0.316 m:0.5 ---
+
+etan mayā te kathitaṃ surarṣe yathā trinetraḥ pramātha yajñam ।
+puṇyaṃ purāṇaṃ paramaṃ pavitramākhyātavānpāpaharaṃ śivaṃ ca ।।

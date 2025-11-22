@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3124 | label: meter | g:0.307 m:0.623 ---
+
+yasya bhāryā śritānyañca paraveśmābhikāṅkṣiṇī ।
+kukriyā tyaktalajjā ca sā jarā na jarā jarā ।।

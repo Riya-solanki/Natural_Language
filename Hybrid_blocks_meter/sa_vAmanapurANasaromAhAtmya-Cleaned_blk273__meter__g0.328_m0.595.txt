@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 273 | label: meter | g:0.328 m:0.595 ---
+
+yadarthaṃ sumahārambhā damaśaucaguṇānvitaiḥ ।
+yajñā kriyante yajñeśaḥ sa me dehīti vakṣyati ।।

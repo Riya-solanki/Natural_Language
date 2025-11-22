@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 297 | label: meter | g:0.194 m:0.625 ---
+
+ekaviṃśam atharvāṇam āptoryāmāṇam eva ca 
+anuṣṭubhaṃ sa vairājam uttarād asṛjan mukhāt ।।

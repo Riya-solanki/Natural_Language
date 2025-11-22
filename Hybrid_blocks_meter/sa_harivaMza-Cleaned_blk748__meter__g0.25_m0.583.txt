@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 748 | label: meter | g:0.25 m:0.583 ---
+
+te brahmacāriṇaḥ sarve vihaṅgāḥ kāmacāriṇaḥ 
+yogadharmam anudhyānto viharanti sma tatra ha ।। 
+mānasaṃ tu saraḥ prāpya haṃsā bhūtvā jalaukasaḥ । 
+teṣāṃ tatra vihaṅgānāṃ caratāṃ sahacāriṇām 
+nīpānām īśvaro rājā vibhrājaḥ pauravānvayaḥ ।।

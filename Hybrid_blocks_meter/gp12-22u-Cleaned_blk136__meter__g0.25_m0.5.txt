@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 136 | label: meter | g:0.25 m:0.5 ---
+
+kāścit kumārān atyartha-bālān kāścana tāś tadā ।
+kāścid aṇḍāni puratas tasya nyasya vyanaṃsiṣuḥ ।। [anuṣṭubh]

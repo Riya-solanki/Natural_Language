@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 188 | label: meter | g:0.0 m:0.75 ---
+
+dvividhasya punarhetodvividhasya codāharaṇasyopasaṃhāradvaite ca samānam

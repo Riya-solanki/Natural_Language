@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 38 | label: meter | g:0.25 m:0.5 ---
+
+kruddhyā yutaṃ niścalapakṣmanetraṃ maunānvitaṃ devam ivākulīnam ।
+dīnaḥ kulīnaḥ praṇamatkulīnaḥ kṛtāñjaliḥ stauti dhanābhikāmaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2542 | label: meter | g:0.25 m:0.5 ---
+
+tāmanveva kapiḥ prāyād dṛṣṭo jābālinā tathā ।
+dṛṣṭvaiva pitaraṃ pārthivaṃ ca mahābalam ।।

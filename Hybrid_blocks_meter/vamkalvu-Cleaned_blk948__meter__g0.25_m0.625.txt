@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 948 | label: meter | g:0.25 m:0.625 ---
+
+sitaṃ sitimnā sutarāṃ munervapurvisāribhiḥ saudhamivātha lambhayan ।
+dvijāvalivyājaniśākarāṃśubhiḥ śucismitāṃ vācamavocadacyutaḥ ।।

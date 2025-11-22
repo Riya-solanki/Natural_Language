@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 20 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa bhikṣuḥ sāndrakaruṇāmṛtarasārdraśītalena cakṣuṣā taṃ rājānam abhisamīkṣyābravīt । klībasattvam iva vyā pravādo lokavṛttātivṛttaprabhāveṣv apy upalakṣyate । na khalu sukhocitāḥ paraduḥkhāni jānantīti । nanu bhadantāvaiṣi ।।

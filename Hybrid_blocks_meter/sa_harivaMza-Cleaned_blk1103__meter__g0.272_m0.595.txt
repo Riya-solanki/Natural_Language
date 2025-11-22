@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1103 | label: meter | g:0.272 m:0.595 ---
+
+vasudevasya bhāryāsu mahābhāgāsu saptasu 
+ye putrā jajñire śūrā namatas tān nibodhata ।।

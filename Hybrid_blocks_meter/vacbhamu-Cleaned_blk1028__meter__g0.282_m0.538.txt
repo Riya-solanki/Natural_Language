@@ -1,0 +1,9 @@
+--- source: vacbhamu-Cleaned.txt | block: 1028 | label: meter | g:0.282 m:0.538 ---
+
+yadi ca rātrau preta iti ।
+nahyetadviśiṣyādhīyate adhyetāraḥ ।
+ye tu manyante vidvānapi rātriprāyaṇāparādhena nordhvamākramata iti tānpratyāha atha tu vidvānapīti ।
+nityavatphalasaṃbandhena vihitā vidyā na pākṣikaphalā yukteti ।
+ye tu rātrau pretasya viduṣo aharapekṣāṃ sūryamaṇḍalaprāptirācakṣate tanmatamāśaṅkyāha athāpi rātrāviti ।
+yāvattāvadupabandhenānapekṣā gatiḥ śrutā ।
+na cāpekṣā śakyāvagamā upabandhavirodhāditi ।।

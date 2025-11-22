@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 17 | label: grammar | g:0.569 m:0.488 ---
+
+evañca traivarṇikeṣu vidvasu labdheṣu nāgnihotrādividhayaścaturthavarṇasya vidyāmākṣipanti, kintu traivārṇikāneva viduṣo adhikurvanti ।
+so ayamadhikāraniyamo apaśūdrādhikaraṇe vakṣyamāṇo adhyayanavidhiprasādalabhya iti phalavāneva vidhiḥ ।
+tenārthajñānāvasānamadhyayanamadhyayanavidhinā vidhīyata iti vicāramantareṇa tadanupapatteradhyayanavidhireva vicāramākṣipaṃstadviruddhaṃ smārtā snānaṃ bādhayata iti siddhamadhyayanānantaraṃ dharmajijñāsā kartavyeti ।।

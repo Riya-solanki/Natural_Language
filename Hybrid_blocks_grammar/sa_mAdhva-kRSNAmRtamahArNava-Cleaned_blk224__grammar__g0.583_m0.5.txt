@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 224 | label: grammar | g:0.583 m:0.5 ---
+
+jīvitaṃ viṣṇubhaktasya varaṃ pañcadināny api na tu kalpasahasrais tu bhaktihīnasya keśave ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 88 | label: grammar | g:0.75 m:0.5 ---
+
+[] te ca cetitāḥ sarve cirāya vicāra-pracāraṃ nānucaranti sma, yasmād ātmānam agha-nāma-dhara-viṣadhara-viṣama-viṣa-mohād rakṣitavantam agha-dviṣam eva tatra tatra bhramantam anubhūya, bhūyaḥ sa eva cetanā-mūlam iti niścitavantaḥ ।

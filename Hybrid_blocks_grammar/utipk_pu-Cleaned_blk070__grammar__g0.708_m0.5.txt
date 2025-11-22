@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 70 | label: grammar | g:0.708 m:0.5 ---
+
+pramātṛsaṃjñaprakāśasvarūpatāṃ vinā yathādau ghaṭo asya nāvabhāsas tathā jñānakāle api syāt, prakāśamānatā cārthasya prakāśaḥ svarūpato na tu bhinnaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5134 | label: meter | g:0.194 m:0.5 ---
+
+cīraṃ parṇaṃ ca vividhaṃ valkalāny ajināni ca 
+svayaṃ kṛtvā nivatsyanti yathā munijanās tathā ।।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1370 | label: grammar | g:0.562 m:0.5 ---
+
+huṃ hṛdayākarṣaṇa krodha praviśa kāyaṃ hṛdayaṃ cchinda bhinda kaḍḍhākaḍḍha phaṭ ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 688 | label: meter | g:0.139 m:0.583 ---
+
+ādi-śabdād guru-rāja-prasādādayaḥ । guru-prasādād, yathā-
+asmad-gotra-mahattaraḥ kratu-bhujām adyāyam ādyo ravir
+yajvāno vayam adya te bhagavatī bhūr adya rājanvatī ।
+adya svaṃ bahu manyate sahacarair asmābhir ākhaṇḍalo
+yenaitāvad arundhatī-patir api svenānugṛhṇāti naḥ ।।

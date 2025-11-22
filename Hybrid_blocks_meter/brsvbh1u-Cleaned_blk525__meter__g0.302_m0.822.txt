@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 525 | label: meter | g:0.302 m:0.822 ---
+
+vākyaśeṣabaleneti ।
+vākyātsaṃnidhānaṃ durbalamityarthaḥ ।
+udāharaṇāntaraṃ tu nigadavyākhyātena bhāṣyeṇa dūṣitam ।।

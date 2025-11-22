@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 409 | label: meter | g:0.234 m:0.802 ---
+
+sāhāyakaṃ suvidhir icchati yasya kartuṃ
+tasyānukūla-nicitiṃ yugapac cinoti ।
+nānā-graharkṣa-śakunāmara-mānavās tad-
+rājyādi-labdhi-samaye hy udayanti bhavyāḥ ।। [vasanta] iti ।

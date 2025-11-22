@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3676 | label: grammar | g:0.562 m:0.5 ---
+
+atha punarapi bhagavān sarvata[thāgatānāhūyaivamāha । "pratipadyata bha]gavantastathāgatāḥ punaḥ samājamāpantum" iti ।।

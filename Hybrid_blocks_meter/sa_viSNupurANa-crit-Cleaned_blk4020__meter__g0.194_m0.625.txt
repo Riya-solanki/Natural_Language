@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4020 | label: meter | g:0.194 m:0.625 ---
+
+sarvadaiva jagaty arthe sa sarvātmā jaganmayaḥ 
+svalpāṃśenāvatīryorvyāṃ dharmasya kurute sthitim ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4321 | label: meter | g:0.194 m:0.75 ---
+
+tāṃ sūryasadanaprakhyāṃ matajñaḥ śārṅgadhanvanaḥ 
+visṛṣṭāṃ vāsudevena sāgaraḥ plāvayiṣyati ।।

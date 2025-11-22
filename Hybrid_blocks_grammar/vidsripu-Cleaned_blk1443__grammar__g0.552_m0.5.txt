@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1443 | label: grammar | g:0.552 m:0.5 ---
+
+ya eko lokānāṃ paramasuhṛd ānandajanakaḥ kalāśālī śrīmān nidhuvanavidhau maṅgalaghaṭaḥ ।
+sudhāsūtiḥ so ayaṃ tripuraharacūḍāmaṇir aho prayāty astaṃ hanta prakṛtiviṣamā daivagatayaḥ ।।

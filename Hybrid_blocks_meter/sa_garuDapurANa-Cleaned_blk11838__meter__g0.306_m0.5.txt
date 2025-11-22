@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11838 | label: meter | g:0.306 m:0.5 ---
+
+sarvottamo viṣṇurevāsti nāmnā brahmādayastadadhīnāḥ sadāpi ।
+mayoktametattu satyaṃ na mithyā gṛhṇāmi hastenoragaṃ kopayuktam ।।

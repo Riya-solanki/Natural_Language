@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 314 | label: meter | g:0.0 m:0.5 ---
+
+prāntaraṃ dūraśūnyo adhvā kāntāraṃ vartma durgamam

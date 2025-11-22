@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1251 | label: meter | g:0.25 m:0.75 ---
+
+nadīsaṃgamatīrātthāṃ vālukāṃ tatra dāpayet ।
+caturaśraṃ kārmukābhaṃ vartulaṃ kamalākṛti ।।

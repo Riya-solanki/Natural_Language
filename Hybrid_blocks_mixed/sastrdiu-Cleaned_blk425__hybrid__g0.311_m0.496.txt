@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 425 | label: hybrid | g:0.311 m:0.496 ---
+
+yadvāstu sarvagataṃ sāmānyam, na ca sarvatropalabdhiprasaṅgaḥ vyaktīnāmabhivyañjakatvāt ।
+sarvagatamapi sāmānyaṃ vyakterevātmā tatsamavetaṃ vā ।
+saṃyuktasamavāyasaṃnikarṣeṇa ca sāmānyasyopalambhaḥ, tena ca saṃnikarṣo vyaktideśe eva saṃbhavati nānyatreti na sarvatropalabdhiḥ ।
+abhede api jātivyaktyorbhedasyāpi vidyamānatvānnityatvānnityatvādivatsarvagatatvāsravagatatvamapi nānupapannam ।।

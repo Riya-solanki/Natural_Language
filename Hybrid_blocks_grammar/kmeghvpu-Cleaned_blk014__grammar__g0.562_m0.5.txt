@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 14 | label: grammar | g:0.562 m:0.5 ---
+
+ratnacchāyāvyatikara iva prekṣyam etat purastād valmīkāgrāt prabhavati dhanuṣkhaṇḍam ākhaṇḍalasya ।
+yena śyāmaṃ vapur atitarāṃ kāntim āpatsyate te barheṇeva sphuritarucinā gopaveśasya viṣṇoḥ ।।

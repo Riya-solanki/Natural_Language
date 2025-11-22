@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 618 | label: meter | g:0.0 m:0.5 ---
+
+śaivānāṃ kāmikaṃ pūrvaṃ yogodbhavamacintyakam ।। d

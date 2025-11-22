@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 928 | label: grammar | g:0.562 m:0.5 ---
+
+prathamam alasaiḥ paryastāgraṃ sthitaṃ pṛthukesarair viralaviralair antaḥpatrair manāṅ militaṃ tataḥ ।
+tadanu valanāmātraṃ kiṃcid vyadhāyi bahir dalair mukulanavidhau vṛddhābjānāṃ babhūva kadarthanā ।।

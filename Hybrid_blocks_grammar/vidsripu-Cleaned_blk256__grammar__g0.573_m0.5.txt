@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 256 | label: grammar | g:0.573 m:0.5 ---
+
+pārśvābhyāṃ śirasā nimīlitadṛśaḥ kāmaṃ nimajya kramād aṃsau pṛṣṭham uraḥ sapakṣatitalaṃ gāḍhaṃ spṛśanto muhuḥ ।
+ete kuñcitajānavo navajale nirvānti gharmāhatā bhūyaḥ pakṣapuṭābhipātarabhasotsarpatkaṇāḥ patriṇaḥ ।।

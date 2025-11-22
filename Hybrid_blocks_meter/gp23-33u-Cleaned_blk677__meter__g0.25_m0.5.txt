@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 677 | label: meter | g:0.25 m:0.5 ---
+
+tatra pravayaso' py āsan yuvāno' tibalaujasaḥ ।
+pibanto' kṣair mukundasya mukhāmbhoja-sudhāṃ muhuḥ ।। [BhP ] iti

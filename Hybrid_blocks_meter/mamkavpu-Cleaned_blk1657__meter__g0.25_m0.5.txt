@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1657 | label: meter | g:0.25 m:0.5 ---
+
+{gāṅgamambu sitamambu yāmunaṃ kajjalābhamubhayatra majjataḥ ।
+rājahaṃsa tava saiva śubhratā cīyate na ca na cāpacīyate ।।}

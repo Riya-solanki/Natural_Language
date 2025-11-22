@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1336 | label: grammar | g:0.552 m:0.5 ---
+
+priyasakhi vipaddaṇḍaprāntaprapātaparamparā- paricayacale cintācakre nidhāya vidhiḥ khalaḥ ।
+mṛdam iva balāt piṇḍīkṛtya pragalbhakulākavad bhramayati mano no jānīmaḥ kim atra vidhāsyati ।।

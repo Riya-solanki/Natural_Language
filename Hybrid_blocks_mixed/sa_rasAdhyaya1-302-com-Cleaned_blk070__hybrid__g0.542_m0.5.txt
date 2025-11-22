@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 70 | label: hybrid | g:0.542 m:0.5 ---
+
+vaṅgajau doṣau śyāmakapālikā ceti ṣaṣṭasaptamau nāgajau eteṣāṃ caturṇāṃ lakṣaṇamāha ।।

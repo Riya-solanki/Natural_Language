@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1089 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha kadācid atiprātar agrato jāgrato nija-vihārato jagad eva pātuḥ śrī-rāma-bhrātur yādṛcchikīyam icchā jātā । prātar-bhojanam apy adya nirjana-vana eva yojanīyam iti । tataś ca kṛta-prātaḥ-kriyas tat-prārthanāya racita-mātṛ-priyas tad-anujñayā gacchan śṛṅga-rava-sañjñayā sāgrajaṃ sakhi-vrajaṃ jāgarayāmāsa । jhaṭiti cāṭitvā śṛṅgāṭaka-madhyam adhyāsya kṣaṇa-katipayaṃ tat pratīkṣaṇaṃ pratīkṣaṇaṃ vyāpārayāmāsa । [] śayyotthāyāṃ vidrutya militeṣu savayaḥ-sama-vāyeṣu rāmam āgamayitum ūrdhvaṃ vartamānas tan-mānavena vārtānuvartayāmāse ।

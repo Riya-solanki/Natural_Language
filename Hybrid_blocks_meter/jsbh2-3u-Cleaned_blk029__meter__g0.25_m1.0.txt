@@ -1,0 +1,3 @@
+--- source: jsbh2-3u-Cleaned.txt | block: 29 | label: meter | g:0.25 m:1.0 ---
+
+viṣaye prāyadarśanāt ।

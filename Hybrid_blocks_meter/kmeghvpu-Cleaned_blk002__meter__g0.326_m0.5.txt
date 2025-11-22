@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 2 | label: meter | g:0.326 m:0.5 ---
+
+tasminn adrau kati cid abalāviprayuktaḥ sa kāmī nītvā māsān kanakavalayabhraṃśariktaprakoṣṭhaḥ ।
+āṣāḍhasya praśamadivase megham āśliṣṭasānuṃ vaprakrīḍāpariṇatagajaprekṣaṇīyaṃ dadarśa ।।

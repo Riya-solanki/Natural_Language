@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 421 | label: meter | g:0.25 m:0.5 ---
+
+tatraiva vāmano devaḥ sarvadevaiḥ pratiṣṭhitaḥ ।
+tatrāpi ca naraḥ snātvā hyagniṣṭomaphalaṃ labhet ।।

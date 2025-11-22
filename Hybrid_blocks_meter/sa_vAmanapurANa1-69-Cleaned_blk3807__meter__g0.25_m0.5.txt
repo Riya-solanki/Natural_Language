@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3807 | label: meter | g:0.25 m:0.5 ---
+
+tasyādhasthāt trirātraṃ sa mahābhāgavato asuraḥ ।
+sthitaḥ sthiṇḍilaśāyī tu paṭhan sārasvataṃ stavam ।।

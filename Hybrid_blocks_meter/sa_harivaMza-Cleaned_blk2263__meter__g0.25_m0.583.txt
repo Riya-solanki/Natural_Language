@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2263 | label: meter | g:0.25 m:0.583 ---
+
+sarīsṛpebhyaḥ kīṭebhyaḥ śakunibhyas tathaiva ca 
+goṣṭheṣu gobhyo vatsebhyo rakṣyau te dvāv imau śiśū ।। 
+yamunā naiva gantavyā tasyāṃ vasati kāliyaḥ । 
+nandagopa gatā rātriḥ śīghrayāno vrajāśugaḥ 
+ime tvāṃ tvarayantīha pakṣiṇaḥ savyadakṣiṇāḥ ।।

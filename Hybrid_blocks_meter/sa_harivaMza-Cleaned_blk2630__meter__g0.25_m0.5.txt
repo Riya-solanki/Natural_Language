@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2630 | label: meter | g:0.25 m:0.5 ---
+
+tan mahyaṃ rocate gopā giriyajñaṃ vayaṃ vane 
+kurmaḥ kṛtvā sukhaṃ sthānaṃ pādape vātha vā girau ।।

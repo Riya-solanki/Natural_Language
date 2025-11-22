@@ -1,0 +1,5 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 132 | label: meter | g:0.25 m:0.5 ---
+
+vratināṃ saptabhāgāni kṛtvā puṇyaṃ viśāradaḥ ।
+ekabhāgaṃ labhed rājā caikaṃ tu sārathījanaḥ ।
+sarvasattvasya caikaṃ hi tac cheṣaṃ labhate vratī ।।

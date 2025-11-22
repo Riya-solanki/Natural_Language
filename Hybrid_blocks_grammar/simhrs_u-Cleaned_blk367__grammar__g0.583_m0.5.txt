@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 367 | label: grammar | g:0.583 m:0.5 ---
+
+atrālpa-samāsatva-dīrgha-samāsatva-rūpayoḥ prasāda-sphuṭa-bandhatva-rūpayor aniṣṭhurākṣara-prāyatva-rūpayoḥ pṛthak-padatva-granthilatvayoś ca ubhaya-rīti-dharmayos tulādhṛtayor iva saṃniveśān miśreyaṃ rītiḥ ।

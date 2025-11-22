@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 438 | label: grammar | g:0.604 m:0.5 ---
+
+lakṣaṇam trisarvajñatāparigṛhītayā prakarṣaprāptaprajñayopāttānāṃ bhāvanāprahātavyavikalpapratipakṣāṇāṃ dṛṣṭyā vyavasthāpito māhāyāniko anvabhisamayaḥ bhāvanāmārgākhyo mūrdhaprayoga iti lakṣaṇam ।

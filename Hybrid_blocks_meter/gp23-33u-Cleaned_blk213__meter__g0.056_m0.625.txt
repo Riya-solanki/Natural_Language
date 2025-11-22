@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 213 | label: meter | g:0.056 m:0.625 ---
+
+bhavati sukhadam asmin śrī-harer aṅghri-cihnaṃ
+yadi na sajati tasyā hanta durnīti-matyāḥ ।
+kalayata bata dhārṣṭyaṃ suṣṭhu bhāvatka-bhogyaṃ
+tad-adhara-madhu juṣṭaṃ kurvatī sā nililye ।। [mālinī]

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2116 | label: meter | g:0.25 m:0.625 ---
+
+bāḍhamityāha bhagavān brahma lokapitāmahaḥ ।
+tato abhyāgānmahātejā muraḥ suragiriṃ balī ।।

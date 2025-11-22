@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 165 | label: meter | g:0.326 m:0.5 ---
+
+itthaṃ śaktiḥ kurvatī dehakṛtyaṃ dehābhāvāducyate dehaśabdaiḥ ।
+tasyā bhedā ye api vāmādayaḥ syuste api proktāḥ kṛtyabhedena sadbhiḥ ।।

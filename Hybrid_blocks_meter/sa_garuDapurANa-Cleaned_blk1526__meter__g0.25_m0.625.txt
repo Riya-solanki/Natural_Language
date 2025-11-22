@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1526 | label: meter | g:0.25 m:0.625 ---
+
+pratyekaṃ tilasaṃyuktāndadyātsapta jalāñjalīn ।
+snātvā nadyāṃ tu pūrvāhne mucyate sarvapātakaiḥ ।।

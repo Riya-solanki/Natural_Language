@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 321 | label: grammar | g:0.604 m:0.5 ---
+
+nātha te bhaktajanatā yady api tvayi rāgiṇī tathāpīrṣyāṃ vihāyāsyās tuṣṭāstu svāminī sadā ।।

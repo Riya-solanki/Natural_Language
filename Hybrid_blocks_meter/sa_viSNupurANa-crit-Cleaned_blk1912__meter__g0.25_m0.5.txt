@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1912 | label: meter | g:0.25 m:0.5 ---
+
+vrīhibīje yathā mūlaṃ nālaṃ patrāṅkurau tathā 
+kāṇḍakoṣas tathā puṣpaṃ kṣīraṃ tadvac ca taṇḍulāḥ ।।

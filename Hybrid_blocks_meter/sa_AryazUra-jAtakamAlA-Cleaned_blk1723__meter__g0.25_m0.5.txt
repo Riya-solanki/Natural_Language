@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1723 | label: meter | g:0.25 m:0.5 ---
+
+svabhāvabhūtā mahatī kṣamā ca parāpakāreṣvavikāradhīrā ।
+tadarthayuktāśca kathāviśeṣāḥ kīrtyā muniṃ taṃ prathayāṃbabhūvuḥ ।।

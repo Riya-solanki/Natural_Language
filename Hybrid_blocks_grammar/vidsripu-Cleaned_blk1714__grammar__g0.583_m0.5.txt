@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1714 | label: grammar | g:0.583 m:0.5 ---
+
+kuraṅgāḥ kalyāṇaṃ prativiṭapam ārogyam aṭavi sravanti kṣemaṃ te pulina kuśalaṃ bhadram upalāḥ ।
+niśāntād asvantāt katham api viniṣkrāntamadhunā mano asmākaṃ dīrghām abhilaṣati yuṣmatparicitim ।।

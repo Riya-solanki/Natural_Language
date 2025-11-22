@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 253 | label: hybrid | g:0.25 m:0.495 ---
+
+sukham edhanti bahavo yasmiṃs tu nihate śubhe 
+tasmin hate nāsti bhadre pātakaṃ nopapātakam ।। 
+ekasmin yatra nidhanaṃ prāpite duṣṭakāriṇi । bahūnāṃ bhavati kṣemaṃ tatra puṇyaprado vadhaḥ । 
+so ahaṃ prajānimittaṃ tvāṃ haniṣyāmi vasuṃdhare 
+yadi me vacanaṃ nādya kariṣyasi jagaddhitam ।।

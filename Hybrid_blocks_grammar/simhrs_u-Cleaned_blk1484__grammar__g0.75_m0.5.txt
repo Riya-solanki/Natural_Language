@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1484 | label: grammar | g:0.75 m:0.5 ---
+
+kiṃ ca, rugṇaṃ cājagavaṃ setuś ca grathita ity ādibhyāṃ yuddhotsāha-siddheḥ paulastyaś caramaḥ sthitaḥ ity atra vibhīṣaṇasya pālanena dayā-vīra-siddheḥ yācitavate dattaṃ kuberāya cety anena dānavīra-siddheś ca rāmabhadreṇa svakṛtārthatā-kathanād vā upasaṃhāraḥ ।

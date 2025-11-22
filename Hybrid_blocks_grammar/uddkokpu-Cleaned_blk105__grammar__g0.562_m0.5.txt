@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 105 | label: grammar | g:0.562 m:0.5 ---
+
+tasyāstīre punarupavanaṃ tatra cūto asti potas tvajjatīyaiḥ pika parivṛtaḥ pallavāsvādalubdhaiḥ ।
+pārśve cāsya stabakanamitā mādhavīmugdhavallī preyasyā me pariṇayamahaṃ prāpitau sādaraṃ yau ।।

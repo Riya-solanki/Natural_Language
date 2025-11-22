@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3699 | label: meter | g:0.25 m:0.75 ---
+
+manasaḥ prativedyena bodhicittaṃ dṛḍhīkuru ।
+vajraṃ satve dṛḍhīkṛtvā buddhamātmānubhāvaya ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 185 | label: hybrid | g:0.465 m:0.5 ---
+
+udakabindu kumbha paripūryati stokastokaṃ prathame nipāti anupūrva sa paścimena 
+emeva citta prathamaṃ varabodhihetur anupūrva śuklaguṇapūrṇa bhavanti buddhāḥ ।।

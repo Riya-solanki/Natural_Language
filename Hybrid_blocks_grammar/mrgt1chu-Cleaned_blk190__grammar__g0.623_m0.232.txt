@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 190 | label: grammar | g:0.623 m:0.232 ---
+
+etān kārakair bhogasādhanais tattvabhāvabhuvanādibhir yuktān svatejasā nijecchāśaktyā samyagadhiṣṭhāya svārthasiddhyartham ityātmīyasya vyāpārasya sampattaye yadvā svairātmabhir arthyata ityartho bhogāpavargalakṣaṇaḥ puruṣārthaḥ tasya niṣpattyarthaṃ niyojayati na tūnmattavat nāpy aprayojanaṃ prayojanānuddeśena mandasyāpyapravṛtteḥ naca krīḍārthaṃ rāgādivirahiṇas tadasaṃbhavāt nāpyātmanimittaṃ paripūrṇatvāt ।। 
+bhūtaiḥ prāṇibhiravidyāvaśādaviditataddṛkkriyaḥ ।। 
+tadiyatā sṛṣṭisthitī uktvā saṃhāraṃ vaktum āha ।।

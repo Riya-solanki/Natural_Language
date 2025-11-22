@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11407 | label: hybrid | g:0.5 m:0.5 ---
+
+kadā drakṣye śrīnivāsasya vakṣaḥ śrīvatsaratnairbhūṣitaṃ vistṛtaṃ ca ।
+kadā drakṣye śrīnivāsasya tundaṃ valitrayeṇāṅkitaṃ suṃdaraṃ ca ।।

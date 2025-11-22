@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3986 | label: meter | g:0.25 m:0.677 ---
+
+iti śrutvā vacas tathyam antarikṣāt subhāṣitam 
+saṃkarṣaṇas tadotthāya sauvarṇenoruṇā balī 
+tām anādṛtya vaidarbho duṣṭarājanyanoditaḥ । 
+saṃkarṣaṇaṃ parihasan babhāṣe kālanoditaḥ ।। 
+naivākṣakovidā yūyaṃ gopālā vanagocarāḥ । 
+akṣaiḥ krīḍanti rājāno bāṇaiś ca na bhavādṛśāḥ ।। 
+rukmiṇaivam adhikṣipto rājabhiś copahāsitaḥ । 
+rukmiṇyā bhrātaraṃ jyeṣṭhaṃ niṣpipeṣa mahītale ।।

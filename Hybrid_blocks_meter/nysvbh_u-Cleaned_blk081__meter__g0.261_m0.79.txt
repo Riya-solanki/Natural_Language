@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 81 | label: meter | g:0.261 m:0.79 ---
+
+tayā pravartata ityāptaḥ।
+ṛṣyāryamlecchānāṃ samānaṃ lakṣaṇam।
+tathā ca sarveṣāṃ vyavahārāḥ pravartanta iti।
+evamebhiḥ pramāṇairdevamanuṣyatiraścāṃ vyavahārāḥ prakalpante, nāto anyatheti ।।

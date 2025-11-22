@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7761 | label: meter | g:0.306 m:0.5 ---
+
+vrajannevaṃ vilapate paṭṭiśaiḥ pātitaḥ pathi ।
+hā mātarhāpitarbhrātaḥ sutā hā hā mama striyaḥ ।।

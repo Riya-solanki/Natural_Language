@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 888 | label: meter | g:0.194 m:1.0 ---
+
+{apūrvamadhurāmodapramoditadiśastataḥ ।
+āyayurbhṛṅgamukharāḥ śiraḥśekharaśālinaḥ ।।}

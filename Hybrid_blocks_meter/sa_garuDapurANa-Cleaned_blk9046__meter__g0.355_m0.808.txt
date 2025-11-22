@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9046 | label: meter | g:0.355 m:0.808 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+sādhu pṛṣṭaṃ tvayā bhadra mānuṣāṇāṃ hitāya vai ।
+śṛṇuṣvāvahito bhūtvā sarvamevaurdhvadaihikam ।।

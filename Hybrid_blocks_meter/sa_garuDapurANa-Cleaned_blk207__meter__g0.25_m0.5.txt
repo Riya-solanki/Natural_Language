@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 207 | label: meter | g:0.25 m:0.5 ---
+
+janmāntare api vaireṇa te vinaśyanti śaṅkara ! ।
+tasmādvairaṃ na kartavyaṃ kadācidapi kenacit ।
+asiknyāṃ janayāmāsa dakṣo duhitaro hyatha ।।

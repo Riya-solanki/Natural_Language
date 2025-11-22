@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 828 | label: meter | g:0.085 m:0.94 ---
+
+{upaparisaraṃ godāvaryāḥ parityajatādhvagāḥ
+saraṇimaparo mārgastvadbhavadbhirihekṣyatām ।
+iha hi vihito raktāśokaḥ kayāpi hatāśayā
+caraṇalinanyāsodañcannavāṅkurakañcukaḥ ।।}

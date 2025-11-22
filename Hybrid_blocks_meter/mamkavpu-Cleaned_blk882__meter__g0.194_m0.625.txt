@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 882 | label: meter | g:0.194 m:0.625 ---
+
+{hantumeva pravṛttasya stabdhasya vivaraiṣiṇaḥ ।
+yathāsya jāyate pāto na tathā punarunnatiḥ ।।}

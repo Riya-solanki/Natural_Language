@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 308 | label: grammar | g:0.583 m:0.5 ---
+
+kuṇḍikāyāṃ tathā vālukā kṣepyā yathā tasyā upari kumpikāyāṃ muktāyāṃ tadupari aṅgula ।।

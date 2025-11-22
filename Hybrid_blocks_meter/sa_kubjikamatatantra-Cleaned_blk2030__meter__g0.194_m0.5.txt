@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2030 | label: meter | g:0.194 m:0.5 ---
+
+prāṇarūpaṃ caturthaṃ tu haṃsarūpaṃ tu pañcamam 
+ṣaṣṭham ātmavataṃ rūpaṃ saptamaṃ śaktipūrvakam ।।

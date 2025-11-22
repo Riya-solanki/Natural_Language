@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5135 | label: meter | g:0.194 m:0.625 ---
+
+bījānām ākṛtiṃ nimneṣv īhante kāṣṭhaśaṅkubhiḥ 
+ajaiḍakaṃ kharoṣṭraṃ ca pālayiṣyanti yatnataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 219 | label: meter | g:0.306 m:0.5 ---
+
+prasvasthakāyaḥ sa samāhitātmā catvāri satyāni yathekṣitāni ।
+parīkṣamāṇo na cireṇa sādhur malān yathāsthūlamayāṃś cakāra ।।

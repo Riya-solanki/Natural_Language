@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 328 | label: grammar | g:0.516 m:0.302 ---
+
+atha bhāve deśāntarasthe deśāntaragrahaṇaṃ kāraṇamiti mataṃ, tataḥ śābaleyasthitaṃ gotvaṃ dhāvaleye nāstīti vyavahriyeta, sthūṇāntarasthitaśca vaṃśaḥ sthūṇāntare anusyūto api tatra nāstīti vyavahartavyaḥ syāt, ato atrābhāva eva nāstīti vyavahārakāraṇam, nānyatra sadbhāvaḥ ।
+smaryamāṇe ghaṭe bhūtalavedanaṃ nāstīti vyavahārakāraṇamiticet ।
+na ।
+gṛhyamāṇasyāpi pārśvadeśeṣvabhāvavyavahārāt ।
+saṃpratyānītasya ca ghaṭasya gṛhyamāṇasyaiva prāgayamiha nāsīt iti prākkālīnābhāvavyavahārāt ।।

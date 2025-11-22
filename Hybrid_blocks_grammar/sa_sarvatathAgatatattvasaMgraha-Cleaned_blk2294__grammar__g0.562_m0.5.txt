@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2294 | label: grammar | g:0.562 m:0.5 ---
+
+atha bhagavān vairocanastathāgata idaṃ sarvatathāgatamaṇisamayaṃ nāma vidyottamamabhāṣat oṃ sarvatathāgatāśāparipūraṇamahāratna hūṃ ।।

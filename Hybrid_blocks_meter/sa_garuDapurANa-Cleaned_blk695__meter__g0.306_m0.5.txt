@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 695 | label: meter | g:0.306 m:0.5 ---
+
+adharṃmādyaṃ ca vahnyādau madhye padmasya karṇike ।
+vāmājyeṣṭhā ca pūrvādau raudrī kālī ca pūrṣadaḥ ।।

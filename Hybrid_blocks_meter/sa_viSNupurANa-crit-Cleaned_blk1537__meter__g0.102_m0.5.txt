@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1537 | label: meter | g:0.102 m:0.5 ---
+
+itthaṃ pumān pradhānaṃ ca buddhyahaṃkāram eva ca 
+bhūtāni ca hṛṣīkeśe manaḥ sarvendriyāṇi ca 
+vidyāvidye ca maitreya sarvam etat samāśritam ।।

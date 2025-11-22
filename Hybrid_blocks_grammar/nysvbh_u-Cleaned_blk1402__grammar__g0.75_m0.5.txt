@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1402 | label: grammar | g:0.75 m:0.5 ---
+
+yathoktalakṣaṇe pakṣapratipakṣaparigrahe hetutaḥ sādhyasiddhau prakṛtāyāṃ brūyāt anityaḥ śabdaḥ asparśatvāditi hetuḥ' heturnāma hinoterdhātostuni pratyaye kṛdantapadam padaṃ ca nāmākhyātopasarganipātāḥ, abhidheyasya kriyāntarayogād viśiṣyamāṇarūpaḥ śabdo nāma, kriyākārakasamudāyaḥ kārakasaṃkhyāviśiṣṭakriyākālayogābhidhāyi ākhyātam dhātvarthamātraṃ ca kālābhidhānaviśiṣṭam, prayogeṣvarthādabhidyamānarūpā nipātāḥ, upasṛjyamānāḥ kriyāvadyotakā upasargāḥ, ityevamādi tadarthāntaraṃ veditavyam ।।

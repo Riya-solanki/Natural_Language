@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2180 | label: meter | g:0.25 m:0.5 ---
+
+te tu sarve samānārthā daityā brahmāṇam abruvan 
+yadi no bhagavān prītaḥ śrūyatāṃ no varo varaḥ ।।

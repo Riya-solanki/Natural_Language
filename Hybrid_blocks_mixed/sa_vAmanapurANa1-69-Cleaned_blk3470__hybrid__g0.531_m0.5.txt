@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3470 | label: hybrid | g:0.531 m:0.5 ---
+
+te dhundhuvākyaṃ tu niśamya daityāḥ procurna no vidyati lokapāla ।
+gatiryayā yāma pitāmahājiraṃ sudurgamo ayaṃ parato hi mārgaḥ ।।

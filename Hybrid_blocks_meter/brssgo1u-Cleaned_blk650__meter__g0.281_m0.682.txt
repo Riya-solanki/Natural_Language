@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 650 | label: meter | g:0.281 m:0.682 ---
+
+FN sakaniṣṭhaḥ karo aratniḥ ।
+atra manuṣyaśabdastraivarṇikaparaḥ ।
+aśūdro yajñe anavakḷptaḥ' iti paryudāsāt, upanīyata, tamadhyāpayīta, iti śūdrādhikāravāraṇam ।
+śarīrātsthūlātsūkṣmācca taṃ jīvaṃ pravṛhetpṛthakkaryāt ।
+dhairyeṇa śamādineti yāvat ।

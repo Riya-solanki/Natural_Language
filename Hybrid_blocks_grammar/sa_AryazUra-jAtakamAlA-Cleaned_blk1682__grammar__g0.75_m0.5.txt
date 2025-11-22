@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1682 | label: grammar | g:0.75 m:0.5 ---
+
+adhiruhya ca gireruccataraṃ tātapradeśaṃ tadantarālādhikapramāṇayā mahatyā virūḍhayā aśithilamūlayā dṛḍhayā vetralatayā gāḍhamābadhya caraṇau punastaṃ vanaspatiṃ pracaskandaḥ । viprakṛṣṭatvāttu tasyāntarālasya caraṇabandhanavyākulatvācca sa mahāsattvaḥ kathaṃcittasya vanaspateragraśākhāṃ karābhyāṃ samāsasāda ।

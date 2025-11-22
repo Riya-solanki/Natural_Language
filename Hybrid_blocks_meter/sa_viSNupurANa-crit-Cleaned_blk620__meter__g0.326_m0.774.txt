@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 620 | label: meter | g:0.326 m:0.774 ---
+
+etad rājāsanaṃ sarvabhūbhṛtsaṃśrayaketanam 
+yogyaṃ mamaiva putrasya kim ātmā kliśyate tvayā ।।

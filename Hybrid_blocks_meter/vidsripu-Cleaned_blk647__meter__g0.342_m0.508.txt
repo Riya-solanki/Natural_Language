@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 647 | label: meter | g:0.342 m:0.508 ---
+
+rājanti kāntanakharakṣatayo mṛgākṣyā lākṣārasadravamucaḥ kucayor upānte ।
+antaḥpravṛddhamakaradhvajapāvakasya śaṅke vibhidya hṛdayaṃ niraguḥ sphuliṅgāḥ ।।
+rājaśekharasya

@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 38 | label: meter | g:0.25 m:0.625 ---
+
+pradhānaṃ phalasaṃbandhi tatsaṃbandhy aṅgam iṣyate ।
+pradhānāṅgatvam ekasya na caikatrāvakalpate ।।

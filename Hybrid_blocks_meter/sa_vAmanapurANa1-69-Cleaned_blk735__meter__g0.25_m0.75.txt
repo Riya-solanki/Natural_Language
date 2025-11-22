@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 735 | label: meter | g:0.25 m:0.75 ---
+
+pūrvadakṣiṇataścāpi kiṃnaro varṣa ucyate ।
+bhārato dakṣiṇe prokto harirdakṣiṇapaśacime ।।

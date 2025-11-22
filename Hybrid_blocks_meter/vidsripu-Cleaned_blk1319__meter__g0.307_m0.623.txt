@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1319 | label: meter | g:0.307 m:0.623 ---
+
+satatam asatyād bibhyati mā bhaiṣīr iti vadanti bhīteṣu ।
+atithijanaśeṣam aśnati sajjanajihve kṛtāthāsi ।।

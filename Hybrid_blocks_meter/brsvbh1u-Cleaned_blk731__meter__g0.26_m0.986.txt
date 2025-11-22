@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 731 | label: meter | g:0.26 m:0.986 ---
+
+śravaṇādhyayanārthapratiṣedhātsamṛteśca ।
+nigadavyākhyānena bhāṣyeṇa vyākhyātam ।
+atirohitārthamanyat ।।

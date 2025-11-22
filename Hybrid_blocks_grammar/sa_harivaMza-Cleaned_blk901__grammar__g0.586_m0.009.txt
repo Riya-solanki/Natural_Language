@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 901 | label: grammar | g:0.586 m:0.009 ---
+
+ya idaṃ cyāvanaṃ sthānāt pratiṣṭhāṃ ca śatakratoḥ 
+śṛṇuyād dhārayed vāpi na sa daurātmyam āpnuyāt ।। 
+rajeḥ pañca śatāny āsan putrāṇām amitaujasām । devair abhyarthito daityān hatvendrāyādadād divam ।। indras tasmai punar hatvā gṛhītvā caraṇau rajeḥ । ātmānam arpayām āsa prahrādādyariśaṅkitaḥ ।। pitary uparate putrā yācamānāya no daduḥ । guruṇā hūyamāne agnau balabhit tanayān rajeḥ । avadhīd dhvaṃsitān mārgān na kaś cid avaśeṣitaḥ । arogaś ca bhavet tāta yāvajjīvam akalmaṣaḥ । 
+nahuṣasya tu dāyādāḥ ṣaḍ indropamatejasaḥ 
+yatir yayātiḥ saṃyātir āyātir yātir uddhavaḥ 
+utpannāḥ pitṛkanyāyāṃ virajāyāṃ mahaujasaḥ । 
+ṣaḍ ime nahuṣasyāsann indrayāṇīva dehinaḥ । 
+suyātiḥ ṣaṣṭhas teṣāṃ vai yayātiḥpārthivo abhavat । 
+yatir jyeṣṭhas tu teṣāṃ vai yayātis tu tataḥ param ।।

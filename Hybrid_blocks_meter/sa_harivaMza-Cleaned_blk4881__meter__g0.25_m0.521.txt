@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4881 | label: meter | g:0.25 m:0.521 ---
+
+halāyudham abhikruddhaḥ sākṣepam idam abravīt 
+kiṃ māṃ yudhyasi durbuddhe balavantaṃ mahāsvanam । 
+kim evaṃ balamatto asi na māṃ paśyasi saṃyuge 
+tiṣṭha tiṣṭha na me jīvan mokṣyase raṇamūrdhani ।।

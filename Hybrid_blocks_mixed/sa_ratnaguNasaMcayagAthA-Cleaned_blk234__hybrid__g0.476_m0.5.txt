@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 234 | label: hybrid | g:0.476 m:0.5 ---
+
+cirabuddhadevamanujān triapāyi sattvān parimocituṃ ya iha icchati bodhisattvo 
+pṛthumārgu tīru upadarśayi sattvadhātau prajñāya pāramita yukta divā ca rātrau ।।

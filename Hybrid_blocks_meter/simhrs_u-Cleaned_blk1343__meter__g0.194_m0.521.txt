@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1343 | label: meter | g:0.194 m:0.521 ---
+
+indur lakṣmīr amṛta-madire kaustubhaḥ pārijātaḥ
+svar-mātaṅgaḥ sura-yuvatayo deva dhanvantariś ca ।
+manthāmreḍaiḥ smarasi tad idaṃ pūrvam eva tvayātta
+sampraty abdhiḥ śṛṇu jala-dhanas tvāṃ prapannaḥ praśādhi ।।

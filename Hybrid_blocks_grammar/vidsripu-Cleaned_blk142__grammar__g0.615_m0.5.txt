@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 142 | label: grammar | g:0.615 m:0.5 ---
+
+ete lakṣmaṇa jānakīvirahiṇaṃ māṃ khedayanty ambudā marmāṇīva ca ghaṭṭayanty alam amī krūrāḥ kadambānilāḥ ।
+itthaṃ vyāhṛtapūrvajanmaviraho yo rādhayā vīkṣitaḥ serṣyaṃ śaṅkitayā sa vaḥ sukhayatu svaprāyamāno hariḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2313 | label: meter | g:0.194 m:0.625 ---
+
+eko vyāpī samaḥ śuddho nirguṇaḥ prakṛteḥ paraḥ 
+janmavṛddhyādirahita ātmā sarvagato avyayaḥ ।।

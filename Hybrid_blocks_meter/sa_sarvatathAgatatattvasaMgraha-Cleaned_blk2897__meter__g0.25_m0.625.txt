@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2897 | label: meter | g:0.25 m:0.625 ---
+
+vajraratnāṅkurāṃ badhvā lalāṭe tu pratiṣṭhitāṃ ।
+tayābhiṣikto buddhaistu pūjaiśvarye abhiṣicyatī- ।।

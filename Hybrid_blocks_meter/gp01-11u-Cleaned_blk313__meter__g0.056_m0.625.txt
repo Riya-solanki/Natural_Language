@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 313 | label: meter | g:0.056 m:0.625 ---
+
+gīr-vāṇair divya-yānaiḥ pathi pathi munibhir mantra-yogādi-siddhair
+gavyābhir ghrāṇa-dṛgbhis tad-anugata-narair dṛṣṭi-deśe saradbhiḥ ।
+goṣṭha-sthair unnata-sthaiḥ praṇihita-vadana-śrīmayūkhaḥ samantān
+netrābja-prānta-lakṣmī-kalita-sukha-kulaḥ pūrṇa-veṇur viveśa ।। [srāgdharā]

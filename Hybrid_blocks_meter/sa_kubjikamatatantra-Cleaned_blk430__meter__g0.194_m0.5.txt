@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 430 | label: meter | g:0.194 m:0.5 ---
+
+rudrāṇāṃ yoginīnāṃ ca sā mātaiva nigadyate 
+avarṇā varṇasaṃyogā jñātavyā tu śubhekṣaṇe ।।

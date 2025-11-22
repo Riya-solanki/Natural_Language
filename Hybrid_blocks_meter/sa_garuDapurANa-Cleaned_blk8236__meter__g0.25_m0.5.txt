@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8236 | label: meter | g:0.25 m:0.5 ---
+
+putrādibhiḥ kṛtāścetsyuḥ piṇḍā daśa daśāhikāḥ ।
+piṇḍajena tu dehena vāyujaścaikatāṃ vrajet ।।

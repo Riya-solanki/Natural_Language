@@ -1,0 +1,6 @@
+--- source: brssgo3u-Cleaned.txt | block: 533 | label: meter | g:0.261 m:0.85 ---
+
+FN ūrdhvo vilakṣaṇaḥ brahmarūpaḥ san udgamya ।
+tena janakena, vyudya vivādaṃ kṛtvā ।
+nirviṇṇā viraktāḥ ।
+pratisaṃcaraḥ pralapaḥ ।

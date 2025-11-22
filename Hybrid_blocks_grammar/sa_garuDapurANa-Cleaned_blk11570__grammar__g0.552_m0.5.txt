@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11570 | label: grammar | g:0.552 m:0.5 ---
+
+nanarta devī supratīkasya cāgre lajjāṃ tyaktvā jaya deveti coktvā ।
+ānṛttakāle ca hareśca vaktraṃ dṛṣṭvā ca dṛṣṭyā tu paraṃ nanarta ।।

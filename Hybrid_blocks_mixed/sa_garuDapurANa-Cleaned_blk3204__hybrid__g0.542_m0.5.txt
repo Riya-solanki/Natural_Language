@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3204 | label: hybrid | g:0.542 m:0.5 ---
+
+yadi vibhavavihīnaḥ pracyuto vāśu daivānna tu khalajanasevāṃ kāṅkṣayennaiva nīcām ।
+na tṛṇamadanakārye sukṣudhārto atti siṃhaḥ pibati rudhiramuṣṇaṃ prāyaśaḥ kuñcarāṇām ।।

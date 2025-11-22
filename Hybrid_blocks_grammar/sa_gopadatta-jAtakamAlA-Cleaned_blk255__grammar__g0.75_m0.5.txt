@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 255 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa durātmā dhanuṣi niśitaṃ sāyakaṃ saṃdhāya vegena bodhisattvam abhidudrāva । sa ca mahātmā lobhanīyataraṃ vapur avetya mayi ca nāsyāyaṃ nirbandha iti । śakto api pratyavasthātum apagatasaṃrambhamānasaḥ khaga iva mahatā javena tadbāṇapatham aticakrāma ।

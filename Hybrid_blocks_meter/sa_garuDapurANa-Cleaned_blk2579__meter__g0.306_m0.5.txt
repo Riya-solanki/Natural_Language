@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2579 | label: meter | g:0.306 m:0.5 ---
+
+tṛpyantu te asminpitaraḥ samastā icchāvatāṃ ye pradiśanti kāmān ।
+suratvamindratvamito adhikaṃ vā gajāśvaratnāni mahāgṛhāṇi ।।

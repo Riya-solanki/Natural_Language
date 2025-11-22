@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 393 | label: meter | g:0.194 m:0.75 ---
+
+mukhe koḍīyakaṃ dadyād adhovakraṃ pidhānake 
+vastramṛttikayā limpet haṭhāgniṃ jvālayettathā ।।

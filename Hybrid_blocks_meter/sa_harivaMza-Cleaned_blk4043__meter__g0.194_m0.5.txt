@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4043 | label: meter | g:0.194 m:0.5 ---
+
+krameṇa sapta skandhān sa marutāṃ sahavāsavaḥ 
+paśyatāṃ yadusiṃhānām ūrdhvam ācakrame balī ।।

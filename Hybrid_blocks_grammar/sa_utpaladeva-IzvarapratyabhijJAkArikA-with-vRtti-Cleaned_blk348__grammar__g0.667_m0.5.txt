@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 348 | label: grammar | g:0.667 m:0.5 ---
+
+buddhiprāṇādiniṣedhamātre yadāhaṃtābhimānena pramātṛtā tadā sauṣupte tāvanmātrāvasthitau vedyābhāvaḥ saṃskārasya saṃbhave apy arūpatvenānupalakṣyatvāt । tāvataiva sāṃkhyapuruṣād viśeṣaḥ ।।

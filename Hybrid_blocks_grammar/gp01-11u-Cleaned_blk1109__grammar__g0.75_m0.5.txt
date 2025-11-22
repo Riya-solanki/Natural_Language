@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1109 | label: grammar | g:0.75 m:0.5 ---
+
+[] baka-ceṣṭām anutiṣṭhatas tasya tu pāpiṣṭhasya kaṇṭhe so' yam akuṇṭha-dhāmā kṛṣṇa-nāmā vraja-nṛpa-tapaḥ-pratāpa-maya-yogamāyā-sahāyatayā keśi-praveśi-sva-bhuja-divya-bhujaṅgamavad vavṛdhe । [] sa tu jāta-śvāsa-rodhaḥ parityakta-bodhaś ca kṣaṇa-katipayam āsīt । tad-ūrdhvaṃ pāṭita-mūrdhānaṃ prāṇam apahāya pūtanā-śamayituḥ saṅgataḥ pūtaḥ pūtanā-bhrātur ātmā nitya-nūtanāṃ sad-gatim avāptum asya bahir āgamanaṃ pratīkṣate sma ।

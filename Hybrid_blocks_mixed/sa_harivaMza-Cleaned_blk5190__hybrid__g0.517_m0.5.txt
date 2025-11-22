@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5190 | label: hybrid | g:0.517 m:0.5 ---
+
+vidhivihitam aśakyam anyathā hi kartum yad ṛṣir acintyatapāḥ purābravīt saḥ 
+na ca tad aśakyam anyathā hi kartum ।
+iti narapatir ātmavāṃs tadāsau tad anuvicintya babhūva vītamanyuḥ ।। 
+iti nṛpatir adīnavikramas tad anuvicintya babhūva nirvṛtaḥ । 
+idaṃ mahākāvyam ṛṣer mahātmanaḥ paṭhan nṛṇāṃ pūjyatamo bhaven naraḥ 
+prakṛṣṭam āyuḥ samavāpya durlabhaṃ labheta sarvajñaphalaṃ ca kevalam ।।

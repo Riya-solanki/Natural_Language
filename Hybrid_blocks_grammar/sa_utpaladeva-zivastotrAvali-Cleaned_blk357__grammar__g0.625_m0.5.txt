@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 357 | label: grammar | g:0.625 m:0.5 ---
+
+āvedakād ā ca vedyād yeṣāṃ saṃvedanādhvani bhavatā na viyogo asti te jayanti bhavajjuṣaḥ ।।

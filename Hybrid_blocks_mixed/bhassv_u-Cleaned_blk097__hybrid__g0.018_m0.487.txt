@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 97 | label: hybrid | g:0.018 m:0.487 ---
+
+{ceṭī} - atthi vaccharāo uaaṇo ṇāma 
+tassa guṇāṇi bhaṭṭidāriā abhiḷasadi 
+[asti vatsarāja udayano nāma । tasya guṇān bhartṛdārikābhilaṣati । ]

@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1247 | label: meter | g:0.028 m:1.0 ---
+
+sa tu pratyāhṛtasyendriyārthebhyo
+manaso dhārakeṇa prayatnena dhāryamāṇasyātmanā
+saṃyogastatvabubhutsāviśiṣṭaḥ, sati
+hi tasminnindriyārtheṣu buddhayo notpadyante
+tadabhyāsavaśāt tattvabuddhirutpadyate ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 126 | label: grammar | g:0.667 m:0.5 ---
+
+śreyo asyāś ciram astu mandaragirer mā ghāni pārśvair iyaṃ māvaṣṭambhi mahormibhiḥ phaṇipater mā lepi lālāviṣaiḥ ।
+ity ākūtajuṣaḥ śriyaṃ jalanidher ardhotthitāṃ paśyato vāco antaḥ spuritā bahir vikṛtibhir vyaktā hareḥ pāntu vaḥ ।।

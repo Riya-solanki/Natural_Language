@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 71 | label: meter | g:0.25 m:0.75 ---
+
+śarīraṃ cedalaṅkāraḥ kimalaṅkurute aparam ।
+ātmaiva nātmanaḥ skandhaṃ kvacidapyadhirohati ।।

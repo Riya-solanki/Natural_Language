@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 995 | label: grammar | g:0.542 m:0.39 ---
+
+teṣāṃ doṣāṇāṃ trayo rāśayaḥ ।
+trayaḥ pakṣāḥ rāgapakṣaḥ kāmo matsaraḥ spṛhā tṛṣṇā lobha iti dveṣapakṣaḥ krodha īrṣyāsūyā droho amarṣa iti, mohapakṣaḥ mithyājñānaṃ vicikitsā mānaḥ pramāda iti trairāśyānnopasaṃkhyāyante iti।
+lakṣaṇasya tarhy abhedāt tritvamanupapannam ? nānupapannam rāgadveṣamohārthāntarabhāvāt ।
+āsaktilakṣaṇo rāgaḥ amarṣalakṣaṇo dveṣaḥ mithyāpratipattilakṣaṇo moha iti, etat pratayātmavedanīyaṃ sarvaśarīriṇām ।
+vijānātyayaṃ śarīrī rāgamutpannam aasti me adhyātmaṃ rāgadharmaḥ' iti, virāgaṃ ca vijānāti anāsti me adhyātmaṃ rāgadharmaḥ' iti evamitarayorapīti।
+mānerṣyāsūyāprabhṛtayastu trairāśyamanupatitā iti nopasaṃkhyāyante ।।

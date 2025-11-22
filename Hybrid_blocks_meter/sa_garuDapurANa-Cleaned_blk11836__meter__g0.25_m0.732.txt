@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11836 | label: meter | g:0.25 m:0.732 ---
+
+arthaḥ kaścāsti tannāmnaḥ pratītastaṃ vadasva me ।
+garuḍenaivamuktastu bhagavāndevakīsutaḥ ।
+uvāca paramaprītaḥ saṃstūya garuḍaṃ hariḥ ।।

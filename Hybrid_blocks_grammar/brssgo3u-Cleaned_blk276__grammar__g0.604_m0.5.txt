@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 276 | label: grammar | g:0.604 m:0.5 ---
+
+ataśca svābhāvikatvādabhedasyāvidyākṛtatvācca bhedasya vidyayāvidyāṃ vidhūya jīvaḥ pareṇānantena prājñenātmanekatāṃ gacchati ।
+tathāhi liṅgam - asa yo ha vai tatparamaṃ brahma veda brahmaiva bhavati' abrahmaiva sanbrahmāpyeti' ityādi ।।

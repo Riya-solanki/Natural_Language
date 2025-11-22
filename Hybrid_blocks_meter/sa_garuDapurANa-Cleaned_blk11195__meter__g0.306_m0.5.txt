@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11195 | label: meter | g:0.306 m:0.5 ---
+
+kathaṃ mama syāttava darśanaṃ prabho sarvaiśca doṣaiśca susaṃgatāyāḥ ।
+dāsyāspadāyāstava dāsadāsyāḥ prasīda deveśa jagannivāsa ।।

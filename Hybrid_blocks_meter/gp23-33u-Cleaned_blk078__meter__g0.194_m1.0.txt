@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 78 | label: meter | g:0.194 m:1.0 ---
+
+manda-cāla-bāhu-nāla-pāṇi-padma-sālinī
+accha-bāla-kacchapāṅga-vatsa-janma-jālinī ।
+jūti-dhūti-kṛt-kuṭīra-tīra-dhīra-gāminī
+ūru-bhūruhāli-pāta-samprapāta-kāminī ।।

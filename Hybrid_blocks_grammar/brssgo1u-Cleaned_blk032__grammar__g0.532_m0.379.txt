@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 32 | label: grammar | g:0.532 m:0.379 ---
+
+evaṃ varṇakadvayena vedāntavicārasya kartavyatāyāṃ viṣayaprayojanavattvamagatārthatvaṃ ceti hetudvayaṃ sūtrasyārthikārthaṃ vyākhyāyākṣaravyākhyāmārabhamāṇaḥ punarapyadhikāribhāvābhābhyāṃ śāstrārambhasaṃdehe sati athaśabdasyānantaryārthakatvoktyā adhikāriṇaṃ sādhayati-tatrāthaśabda iti ।
+sūtra ityarthaḥ ।

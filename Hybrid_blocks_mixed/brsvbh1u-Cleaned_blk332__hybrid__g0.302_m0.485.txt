@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 332 | label: hybrid | g:0.302 m:0.485 ---
+
+ntarāṇāmapi paurvāparyālocanayā brahmaparatvamavagantavyam ।
+na ca tatparatvasya dṛṣṭasya sati saṃbhave anyaparatā adṛṣṭā yuktā kalpayitum, atiprasaṅgāt ।
+na kevalaṃ kartṛparatā teṣāmadṛṣṭā, anupapannā cetyāha-

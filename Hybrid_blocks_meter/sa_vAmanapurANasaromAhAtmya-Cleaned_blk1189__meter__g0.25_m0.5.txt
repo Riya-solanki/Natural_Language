@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1189 | label: meter | g:0.25 m:0.5 ---
+
+kurukṣetrasya māhātmyaṃ saraso asya mahīpate ।
+mama liṅgasya cotpattiṃ śrutvā pāpaiḥ pramucyate ।।

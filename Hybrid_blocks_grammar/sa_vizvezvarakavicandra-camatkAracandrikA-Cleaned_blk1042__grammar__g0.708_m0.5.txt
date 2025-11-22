@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1042 | label: grammar | g:0.708 m:0.5 ---
+
+atra hariṇā hariṇā ityādi śabdaikāvalyā vibhinnārthayā nāyakalakṣaṇaṃ kartṛkārakamupaskriyata iti so ayaṃ śabdaikāvalī kārakaparikarabheda eva । evamarthaikāvalyubhayaikāvalyau ṭraṣṭavyau ।

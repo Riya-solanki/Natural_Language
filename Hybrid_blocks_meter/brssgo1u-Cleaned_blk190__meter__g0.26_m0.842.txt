@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 190 | label: meter | g:0.26 m:0.842 ---
+
+sa īśvaraḥ tapaḥ sṛṣṭyālocanamatapyata kṛtavānityarthaḥ ।
+abhidhyānaṃ kāmanā ।
+abuhu syām'ityavyatirekaḥ ।।

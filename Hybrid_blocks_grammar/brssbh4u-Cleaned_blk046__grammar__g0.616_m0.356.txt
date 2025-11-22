@@ -1,0 +1,21 @@
+--- source: brssbh4u-Cleaned.txt | block: 46 | label: grammar | g:0.616 m:0.356 ---
+
+iti ca udgīthameva upāsyatvena upakramya ādityādimatīḥ vidadhāti ।
+yat tu uktam udgīthādimatibhiḥ upāsyamānā ādityādayaḥ karmabhūyaṃ bhūtvā phalaṃ kariṣyanti iti ।
+tat ayuktam ।
+svayameva upāsanasya karmatvāt phalavattva upapatteḥ ।
+ādityādibhāvena api ca dṛśyamānānām udgīthādīnāṃ karmātmakatvān apāyāt ।
+atadetadetasyāmṛcyadhyūḍhaṃ sāma' iti tu lākṣaṇika eva pṛthivī agnyoḥ ṛk sāmaśabdaprayogaḥ ।
+lakṣaṇā ca yathāsaṃbhavaṃ saṃnikṛṣṭena viprakṛṣṭena vā svārthasaṃbandhena pravartate ।
+tatra yadi api ṛk sāmayoḥ pṛthivī agnyoḥ ca saṃnidhānayoreva eṣa ṛk sāmaśabdaprayoga ṛk sāmasaṃbandhāt iti niścīyate ।
+kṣattṛśabdaḥapi hi kutaścit kāraṇāt rājānam upasarpan na nivārayituṃ pāryate ।
+aiyamevarka' iti ca yathā akṣaranyāsam ṛca eva pṛthivītvam avadhārayati ।
+pṛthivyā hi aktve avadhāryamāṇa iyam ṛk eva ityakṣaranyāsaḥ syāt ।
+aya evaṃ vidvānsāma gāyati' iti ca aṅgāśrayameva vijñānam upasaṃharati na pṛthivyādi āśrayam ।
+tathā alokeṣu pañcavidhaṃ sāmopāsīta' iti yadi api saptamīnirdiṣṭā lokāḥ tathāpi sāmnyeva te adhyasyeran dvitīyānirdeśena sāmna upāsyatva avagamāt ।
+sāmani hi lokeṣu adhyasyamāneṣu sāma lokātmana upāsitaṃ bhavati ।
+anyathā punaḥ lokāḥ sāmā ātmana upāsitāḥ syuḥ ।
+etena aetadgāyatraṃ prāṇeṣu protam' ityādi vyākhyātam ।
+yatra api tulyo dvitīyanirdeśaḥ - aatha khalvamumādityaṃ saptavidhaṃ sāmopāsīta' iti, tatra api asamastasya khalu sāmna upāsanaṃ sādhu' aiti ca pañcavidhasya' aatha saptavidhasya' iti ca sāmna eva upāsyatva upakramāt tasmin eva ādityādi adhyāsaḥ ।
+etasmāt eva ca sāmna upāsyatva avagamāt apṛthivī hiṅkāraḥ' ityādinirdeśaviparyaye api hiṅkārādiṣu eva pṛthivyādi dṛṣṭiḥ ।
+tasmāt anaṅgāśrayā ādityādimatayaḥ aṅgeṣu udgīthādiṣu kṣipyeran iti siddham ।।

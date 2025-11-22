@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 67 | label: grammar | g:0.646 m:0.5 ---
+
+ārtā viṣaṇṇāḥ śithilāś ca bhītā ghoreṣu ca vyādhiṣu vartamānāḥ saṃkīrtya nārāyaṅaśabdamātraṃ vimuktaduḥkhāḥ sukhino bhavanti ।।

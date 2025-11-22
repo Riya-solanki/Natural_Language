@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3866 | label: grammar | g:0.75 m:0.5 ---
+
+vijayaś ca dhṛtiṃ putram avāpa । tasyāpi dhṛtavrataḥ putro abhūt । dhṛtavratāt satyakarmā satyakarmaṇas tv adhirathaḥ । yo asau gaṅgāṃ gato mañjūṣāgataṃ pṛthāpaviddhaṃ karṇaṃ putram avāpa । karṇād vṛṣasena ity ete aṅgāḥ ।।

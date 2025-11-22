@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 61 | label: grammar | g:0.75 m:0.5 ---
+
+[] kiṃ ca, cidānanda eva kevalaṃ svarūpānatirikta-śakti-vyakti-vaśād vyakti-viśeṣatayā vyaktībhavan, gokula-śabda-bala-labdha-lokaval-līlā-kaivalya-kalanāya puṣpavad-ādi-lakṣaṇa-prakāśakatayā tat tat prakāśya puṣpādi-lakṣaṇāsvādyatayā ca lāpaṃ kalayantīnām ālīnāṃ nija-nija-yūtha-varūthapāyāḥ paramāpūrva-pūrva-pūrvānurāgādi-kathānikāyaṃ gāyantīnāṃ madhu-madhura-kākalī-kulāni tatrakīyaṃ sarvaṃ tarv-antam ārdrīkurvanti, kim uta bahu-kaṣṭa-sṛṣṭatayā mithunī-bhūtaṃ tat tan mithunam ।

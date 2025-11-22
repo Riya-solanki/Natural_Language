@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 143 | label: meter | g:0.25 m:0.625 ---
+
+viraktā tu prahasana-prabhṛtiṣv eva varṇyate ।
+tasyā dhaurya-prabhṛtayo guāṣ tad-upayoginaḥ ।। 
+channa-kāmān ratārthājñān bāla-pāṣaṇḍa-ṣaṇḍakān ।
+rakteva rañjayed ibhyān niḥsvān mātrā vivāsayet ।।

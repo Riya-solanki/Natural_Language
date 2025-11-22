@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2556 | label: meter | g:0.25 m:0.625 ---
+
+etā eva mahāmudrāḥ saṃpuṭīkṛtya bandhayet ।
+guhyaguhyāḥ samāsena siddhindadyuścaturguṇam ।।

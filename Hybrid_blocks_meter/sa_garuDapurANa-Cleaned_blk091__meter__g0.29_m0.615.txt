@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 91 | label: meter | g:0.29 m:0.615 ---
+
+purāṇasaṃhitākartā yathāhaṃ syāṃ tathā kuruṃ ।
+viṣṇuruvāca ।
+yathā tvayoktaṃ garuḍa tathā sarvaṃ bhaviṣyati ।।

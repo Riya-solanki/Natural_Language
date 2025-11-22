@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4373 | label: meter | g:0.25 m:0.5 ---
+
+sa hi śakrād api mahān pitā te garuḍadhvajaḥ 
+iha tvāṃ nābhijānāti bālam evāpavāhitam ।।

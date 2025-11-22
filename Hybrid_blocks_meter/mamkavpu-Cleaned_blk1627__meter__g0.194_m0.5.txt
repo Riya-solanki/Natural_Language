@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1627 | label: meter | g:0.194 m:0.5 ---
+
+{garvamasaṃvāhyamimaṃ locranayugalena kiṃ vahasi mugdhe ।
+santīdṛśāni diśi diśi sarassu nanu nīlanalināni ।।}

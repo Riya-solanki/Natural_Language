@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 19 | label: meter | g:0.194 m:0.75 ---
+
+dantāntakuntamukhasantatapātaghātasantāḍitonnatagirir gaja eva vetti 
+pañcāsyapāṇipavipañjarapātapīḍāṃ na kroṣṭukaḥ śvaśiśuhuṅkṛtinaṣṭaceṣṭaḥ ।।

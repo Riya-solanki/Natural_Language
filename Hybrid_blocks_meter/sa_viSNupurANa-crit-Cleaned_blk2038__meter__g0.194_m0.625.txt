@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2038 | label: meter | g:0.194 m:0.625 ---
+
+dattāḥ pitṛbhyo yatrāpas tanayaiḥ śraddhayānvitaiḥ 
+samātrayaṃ prayacchanti tṛptiṃ maitreya durlabhām ।।

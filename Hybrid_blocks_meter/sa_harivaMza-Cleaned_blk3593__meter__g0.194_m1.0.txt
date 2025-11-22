@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3593 | label: meter | g:0.194 m:1.0 ---
+
+satanutrāḥ sanistriṃśāḥ sapatākāyudhadhvajāh 
+svāropitadhanuṣmantaḥ sutūṇīrāḥ satomarāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2883 | label: meter | g:0.25 m:0.625 ---
+
+tam āpatantam udvṛttam dṛṣṭvā vṛṣabhadānavam 
+tasmāt sthānān na vyacalat kṛṣṇo girir ivācalaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2995 | label: meter | g:0.25 m:0.625 ---
+
+ṣaṇmāsācchūdrahā caitaddadyādvā dhenavo daśa ।
+apraduṣṭāṃ striyaṃ hatvā śūdrahatyāvrataṃ caret ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1249 | label: meter | g:0.29 m:0.61 ---
+
+ityādikā raśanopamā ca na lakṣitā evaṃvidhavaicitryasahasrasaṃbhavāt
+uktabhedānatikramācca ।।

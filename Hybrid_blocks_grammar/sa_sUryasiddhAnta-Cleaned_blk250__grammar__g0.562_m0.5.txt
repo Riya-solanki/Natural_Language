@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 250 | label: grammar | g:0.562 m:0.5 ---
+
+likhen matsyau tayor madhyān mukhapucchavinihsṛtam। prasārya sūtradvitayaṃ tayor yatra yutir bhavet।।

@@ -1,0 +1,6 @@
+--- source: tsc_simu-Cleaned.txt | block: 29 | label: meter | g:0.25 m:0.625 ---
+
+icchābhirbuddhirvijñeyā ābhimukhyena karmaṇaḥ ।
+idaṃ me kāryamityeṣo adhyavasāyaḥ karomyaham ।।
+icchā vāñchā atha saṅkalpo manasaḥ karma ceṣyate ।
+evametāśca pañcābhibuddhayaḥ parikīrtitāḥ ।।

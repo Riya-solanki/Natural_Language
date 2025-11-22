@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 344 | label: grammar | g:0.855 m:0.055 ---
+
+[] sa eṣa keśavaḥ preyasībhiḥ saha vilalāsa ।
+bhramaram iha nibhālya dattacumbaṃ vratatiṣu kīram apīha dāḍimīṣu । punar api ramaṇo manojavaśya- sthitiramaṇāya babhūva vallavīṣu ।। [puṣpitāgrā] alir iha vadanopadaṃśam āsīn madhurasapānakaraḥ sarojinīnām । yad ajitaramaṇītatir nirīkṣya sphuṭam abhajan madanaṃ vidūrato' pi ।। [puṣpitāgrā] ।।
+[] tac ca tac ca na varṇayitum ātmaśaktiṃ nirvarṇaye, yataḥ-

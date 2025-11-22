@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 604 | label: meter | g:0.25 m:0.5 ---
+
+pāvakaṃ pavamānaṃ ca śuciṃ cāpi jalāśinam ।।

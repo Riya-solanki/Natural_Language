@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 533 | label: hybrid | g:0.438 m:0.5 ---
+
+[] dūta uvāca-"svabhāva-jāṃ kārim eva । tathā hi, prātar asau duṣṭas tv anyad duśceṣṭitam anu ceṣṭitavān ।"

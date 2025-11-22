@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2479 | label: meter | g:0.194 m:0.5 ---
+
+taṃ dṛṣṭvā cintayāmāsa kṛṣṇo vai vipulaṃ hradam 
+agādhaṃ dyotamānaṃ ca kasyedaṃ sumahad dhradam ।।

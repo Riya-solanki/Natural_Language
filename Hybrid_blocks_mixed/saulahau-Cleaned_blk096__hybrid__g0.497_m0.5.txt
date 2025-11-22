@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 96 | label: hybrid | g:0.497 m:0.5 ---
+
+sva-dehodbhūtābhir ghṛṇibhir aṇimāyābhir abhito niṣevye nitye tvām aham iti sadā bhāvayati yaḥ
+kim āścaryaṃ tasya tri-nayan-samṛddhiṃ tṛṇayato mahā-saṃvartāgnir viracayati nīrājana-vidhim ।।

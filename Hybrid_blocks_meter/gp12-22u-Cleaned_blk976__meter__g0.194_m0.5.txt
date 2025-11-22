@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 976 | label: meter | g:0.194 m:0.5 ---
+
+iti nandādayo gopāḥ kṛṣṇa-rāma-kathāṃ mudā ।
+kurvanto ramamāṇāś ca nāvindan bhava-vedanām ।।[]

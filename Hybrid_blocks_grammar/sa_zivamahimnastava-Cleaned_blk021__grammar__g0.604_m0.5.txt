@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 21 | label: grammar | g:0.604 m:0.5 ---
+
+kratau supte jāgrat tvam asi phalayoge kratumatāṃ kva karma pradhvastaṃ palati puruṣārādhanam ṛte ।
+atas tvāṃ samprekṣya tratuṣu phaladānapratibhuvaṃ śrutau śraddhāṃ baddhvā dṛḍhaparikaraḥ karmasu janaḥ ।।

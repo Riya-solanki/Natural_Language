@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 668 | label: grammar | g:0.75 m:0.5 ---
+
+agnaye vratabhṛte aṣṭākapālaṃ puroḍāśaṃ nirvaped parvaṇi yo vratavelāyām avratyaṃ cared agnaye tantumate aṣṭākapālaṃ puroḍāṣaṃ nirvaped yasya saṃtatam agnihotraṃ juhuyuḥ ।।

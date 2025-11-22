@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11223 | label: meter | g:0.307 m:0.623 ---
+
+kiṃ vāraṇāgre maraṇena saukhyaṃ kiṃ vā makhādeḥ samanuṣṭhitena ।
+samastatīrtheṣvaṭanena kiṃ kimadhītaśāstreṇa sutīkṣṇabuddhyā ।।

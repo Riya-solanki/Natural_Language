@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 920 | label: hybrid | g:0.373 m:0.48 ---
+
+taruṇas tava rūpeṇa careyaṃ pṛthivīm imām 
+jarāṃ tvayi samādhāya taṃ yaduḥ pratyuvāca ha ।। 
+notsahe jarayā sthātum antarā prāptayā tava । aviditvā sukhaṃ grāmyaṃ vaitṛṣṇyaṃ naiti pūruṣaḥ । 
+anirdiṣṭā mayā bhikṣā brāhmaṇasya pratiśrutā 
+anapākṛtya tāṃ rājan na grahīṣyāmi te jarām ।।

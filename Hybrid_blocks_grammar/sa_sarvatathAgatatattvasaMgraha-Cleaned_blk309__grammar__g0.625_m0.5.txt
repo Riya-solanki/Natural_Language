@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 309 | label: grammar | g:0.625 m:0.5 ---
+
+ayaṃ tatsamayo vajraṃ vajrasattvamiti smṛtam । āveśayatu te adyaiva vajrajñānamanuttaram । vajrāveśa aḥ ।

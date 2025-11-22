@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7546 | label: meter | g:0.25 m:0.5 ---
+
+aśrupātaṃ na kurvīta dattvā dāhajalāñjalim ।
+śleṣmāśru bāndhavairmuktaṃ preto bhuṅkte yato avaśaḥ ।।

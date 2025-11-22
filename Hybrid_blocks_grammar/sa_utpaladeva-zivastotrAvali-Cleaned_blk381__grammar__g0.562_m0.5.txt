@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 381 | label: grammar | g:0.562 m:0.5 ---
+
+dṛṣṭartha eva bhaktānāṃ bhavatpūjāmahodyamaḥ tadaiva yad asambhāvyaṃ sukham āsvādayanti te ।।

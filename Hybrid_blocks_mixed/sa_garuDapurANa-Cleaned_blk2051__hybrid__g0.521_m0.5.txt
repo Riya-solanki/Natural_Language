@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2051 | label: hybrid | g:0.521 m:0.5 ---
+
+cintyā na tasyākarajā viśeṣā rūpe pramāṇe ca yateta vidvān ।
+na ca vyavasthāsti guṇāguṇeṣu sarvatra sarvākṛtayo bhavanti ।।

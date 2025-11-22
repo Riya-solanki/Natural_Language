@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8294 | label: meter | g:0.25 m:0.5 ---
+
+akiñcanā hi munayaḥ śraddhāvanto divaṃ gatāḥ ।
+aśraddhayā hutaṃ dattaṃ tapastaptaṃ kṛtaṃ ca yat ।
+asadityucyate pakṣinpretya ceha na tatphalam ।।

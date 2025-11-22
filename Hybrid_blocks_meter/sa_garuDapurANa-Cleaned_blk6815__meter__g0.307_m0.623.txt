@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6815 | label: meter | g:0.307 m:0.623 ---
+
+na tatkaroti sā mātā na pitā nāpi bāndhavaḥ ।
+yatkaroti hṛṣīkeśaḥ santuṣṭaḥ śraddhayārcitaḥ ।।

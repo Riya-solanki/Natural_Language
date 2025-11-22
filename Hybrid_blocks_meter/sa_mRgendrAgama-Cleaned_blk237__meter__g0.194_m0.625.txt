@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 237 | label: meter | g:0.194 m:0.625 ---
+
+nāsārandhaviśiṣṭaṃ tad brūta kena nivāryate 
+tadadṛṣṭāvaruddhaṃ vā tadapyanyatra kiṃ kṛtam ।।

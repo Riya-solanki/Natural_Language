@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9431 | label: meter | g:0.306 m:0.625 ---
+
+tat sarvaṃ melayitvā tu svesve sthāne niyojayet ।
+pūjayellokapālāṃśca grahān devīṃ vināyakam ।।

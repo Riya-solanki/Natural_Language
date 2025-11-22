@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 952 | label: meter | g:0.0 m:0.75 ---
+
+sagarbhaṃ kumbhakaṃ vidvān ātiṣṭhedavikhinnadhīḥ 
+ayamarkaguṇaṃ kālaṃ kṛtacittavyavasthitiḥ ।। MT

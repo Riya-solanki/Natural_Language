@@ -1,0 +1,8 @@
+--- source: brssbh1u-Cleaned.txt | block: 202 | label: meter | g:0.339 m:0.57 ---
+
+FN ya etāṃ prakṛtāṃ brahmopaniṣadaṃ vedarahasyaṃ madhuvidyārūpaṃ veda tasyodayāstamayarahitabrahmaprāptirbhavatītyarthaḥ ।
+etamṛgvedino mahatyukthe śastre upāsate, adhvaryavo yajurvedinaḥ kratau chandogāḥ sāmavedino mahāvrate kratau ।
+saṃvargavidyāyāṃ adhidaivamagnisūryacandrāmbhāṃsi vāyau līyate ।
+adhyatmaṃ vāk cakṣuḥśrotramanasi prāṇamapiyanti ।
+te vā ete pañcānye ādhidaivikāḥ, pañcānye ādhyātmikāste militvā daśa santaḥ kṛtamityucyate ।
+kṛtaṃ dyūtam ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7991 | label: meter | g:0.302 m:0.806 ---
+
+uttarāṇi mahāyogiṃstvaddarśanagatāṃhasaḥ ।
+ahaṃ paryuṣito nāmnā eṣa sūcīmukhaḥ smṛtaḥ ।।

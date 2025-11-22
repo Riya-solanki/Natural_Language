@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 148 | label: meter | g:0.102 m:0.927 ---
+
+dhanadārcāvivṛddhyarthaṃ mahāvittalayasya ca
+asurāṇāṃ mohanārthaṃ pāṣaṇḍānāṃ vivṛddhaye
+ātmasvarūpāvijñaptyai svarūpāprāptaye tathā ।।

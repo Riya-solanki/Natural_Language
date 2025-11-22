@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 146 | label: meter | g:0.217 m:0.845 ---
+
+tadacetanameva syāt kāryasyācittvadarśanāt 
+prāptaḥ sarvaharo doṣaḥ kāraṇāniyamo anyathā ।।

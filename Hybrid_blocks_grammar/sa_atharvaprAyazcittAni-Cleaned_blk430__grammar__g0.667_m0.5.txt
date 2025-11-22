@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 430 | label: grammar | g:0.667 m:0.5 ---
+
+vanaspate antataḥ syānuṣṭubhaṃ chandaso yaṃ tam abhyukta etena saṃdadhāmīti saṃdhāya yan me skannam iti skanne ।

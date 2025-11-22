@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1125 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evam ākarṇinīr vara-varṇinī sadya eva gāndharva-parva sampadyatām ity abhiprāyatayā sāpatrapa-nayanāḥ svīkṛta-maya-samayam apekṣamāṇāḥ prati samardhakatayā samardhakatāṃ gacchan punar accham uvāca, yathā-

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3228 | label: meter | g:0.194 m:0.625 ---
+
+āhvānaṃ tatra saṃcakre tasya malladvayasya vai 
+cāṇūrasyāprameyasya muṣṭikasya tathaiva ca ।।

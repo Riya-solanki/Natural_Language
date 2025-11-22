@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1042 | label: grammar | g:0.583 m:0.5 ---
+
+tadevaṃ śīlapraśamapratipakṣasaṃbādhaṃ gārhasthyamityevamātmakāmāḥ parityajantīti । labdhāsvādāḥ praviveke, na kāmeṣvāvartanta iti pravivekaguṇakathāyāmapyupaneyam ।

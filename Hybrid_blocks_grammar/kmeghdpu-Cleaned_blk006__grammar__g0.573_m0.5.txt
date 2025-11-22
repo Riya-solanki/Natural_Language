@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 6 | label: grammar | g:0.573 m:0.5 ---
+
+jātaṃ vaṃśe bhuvanavidite puṣkarāvartakānāṃ jānāmi tvāṃ prakṛtipuruṣaṃ kāmarūpaṃ maghonaḥ ।
+tenārthitvaṃ tvayi vidhivaśād dūrabandhur gato ahaṃ yācñā moghā varam adhiguṇe nādhame labdhakāmā ।।

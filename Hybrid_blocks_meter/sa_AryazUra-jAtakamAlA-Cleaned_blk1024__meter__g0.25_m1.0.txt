@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1024 | label: meter | g:0.25 m:1.0 ---
+
+gārhasthyaṃ mahadasvāsthyaṃ sadhanasyādhanasya vā ।
+ekasya rakṣaṇāyāsāditarasyārjanaśramāt ।।

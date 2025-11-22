@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1184 | label: hybrid | g:0.521 m:0.5 ---
+
+[] tad evaṃ gītaṃ, yarhy ambujākṣa [] ityādi ।

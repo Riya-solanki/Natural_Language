@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3669 | label: meter | g:0.292 m:0.5 ---
+
+sarvasatvahitārthāya sarvalokeṣu sarvataḥ । yathā vi[nayato viśvaṃ padmacakraṃ pravartyatām ।।]

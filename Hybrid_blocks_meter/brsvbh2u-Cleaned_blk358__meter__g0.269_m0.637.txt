@@ -1,0 +1,37 @@
+--- source: brsvbh2u-Cleaned.txt | block: 358 | label: meter | g:0.269 m:0.637 ---
+
+saṃbhavācca dravāvadānasya sruvāvadāne dravāṇīti vyavasthāpyate ।
+evamihāpi rūpādibuddhipañcakakāryavyavasthātaścakṣurādibuddhīndriyakaraṇapañcakavyavasthā ।
+nahyandhādayaḥ satsvapītareṣu ghrāṇādiṣu gandhādyupalabdhyānumitasadbhāveṣu rūpādīnupalabhante ।
+tathā vacanādilakṣaṇakāryapañcakavyavasthāto vākpāṇyādilakṣaṇakarmendriyapañcakavyavasthā ।
+nahi jātu mūkādayaḥ satsvapi viharaṇādyavagatasadbhāveṣu pādādiṣu buddhīndriyeṣu vā vacanādimanto bhavanti ।
+evaṃ karmabuddhīndriyāsaṃbhavinyā saṃkalpādikriyāvyavasthayāntaḥkaraṇavyavasthānumānam ।
+ekamapi cāntaḥkaraṇamanekakriyākāri bhaviṣyati, yathā pradīpa eko rūpaprakāśavartivikārasnehaśoṣaṇahetuḥ ।
+tasmānnāntaḥkaraṇabhedaḥ ।
+ekameva tvantaḥkaraṇaṃ mananānmana iti cābhimānādahaṅkāra iti cādhyavasāyādbuddhiriti cākhyāyate ।
+vṛttibhedāccābhinnamapi bhinnamivopacaryate trayamiti ।
+tattvena tvekameva bhede pramāṇābhāvāt ।
+tadevamekādaśānāṃ kāryāṇāṃ vyavasthānādekādaśa prāṇā iti śrutirāñjasī ।
+tadanuguṇatayā tvitarāḥ śrutayo netavyāḥ ।
+tatrāvayutyanuvādena saptāṣṭanavadaśasaṃkhyāśrutayo yathaikaṃ vṛṇīte dvau vṛṇīte iti trīn vṛṇīta ityetadānuguṇyāt ।
+dvādaśatrayodaśasaṃkhyāśrutī tu kathañcidvṛttibhedena bhedaṃ vivakṣitvopāsanādiparatayā netavye ।
+tasmādekādaśaiva prāṇā netara iti siddham ।
+apica śīrṣaṇyānāṃ prāṇānāṃ yatsaptatvābhidhānaṃ tadapi caturṣvevavyavasthāpanīyam, pramāṇāntaravirodhāt ।
+na khalu dve cakṣuṣī, rūpopalabdhilakṣaṇasya kāryasyābhedāt ।
+pihitaikacakṣuṣastu na tādṛśī rūpopalabdhirbhavati yādṛśī samagracakṣuṣaḥ, tasmādekameva cakṣuradhiṣṭhānabhedena tu bhinnamivopacaryate ।
+kāṇasyāpyekagolakagatena cakṣuravayavenopalambhaḥ ।
+etena ghrāṇaśrotre api vyākhyāte ।
+iyamaparā sūtradvayayojanā-saptaiva prāṇāḥ cakṣurghrāṇarasanavākśrotramanastvaca utkrāntimantaḥ syuḥ ।
+saptānāmeva gatiśruterviśeṣitatvāditi vyākhyātuṃ śaṅkate-nanu sarvaśabdo apyatreti ।
+asyottaraṃviśeṣitatvāditi ।
+cakṣurādayastvakparyantā utkrāntau viśeṣitāḥ ।
+tasmātsarvaśabdasya prakṛtāpekṣatvātsaptaiva prāṇā utkrāmanti na pāṇyādaya iti prāptam ।
+codayati-nanvatra vijñānamaṣṭamamiti ।
+ana vijānātītyāhuḥ'ityanenānukrāntam ।
+pariharati-naiṣa doṣa iti ।
+siddhāntamāha-hastādayastvapare saptabhyo atiriktāḥ prāṇāḥutkrāntibhājo avagamyante grahatvaśruterhastādīnām ।
+evaṃ khalveṣāṃ grahatvāmnānamupapadyeta ।
+yadyāmukterātmānaṃ badhnīyuritarathā ṣāṭkośikaśarīravadeṣāṃ grahatvaṃ nāmnāyeta ।
+ata eva ca smṛtireṣāṃ muktyavadhitāmāha-puryaṣṭakeneti ।
+tathātharvaṇaśrutirapyeṣāmekādaśānām utkrāntimabhivadati ।
+tasmācchrutyantarebhyaḥ smṛteśca sarvaśabdārthāsaṃkocācca sarveṣāmutkrameṇa sthite asminnaivaṃ yaduktaṃ saptaiveti, kintu pradarśanārthaṃ saptatvasaṃkhyeti siddham ।।

@@ -1,0 +1,3 @@
+--- source: mamkpb_u-Cleaned.txt | block: 99 | label: grammar | g:0.688 m:0.5 ---
+
+yadyapi śabdārthayornirṇaye kṛte doṣaguṇālaṃkārāṇāṃ svarūpamabhidhānīyam tathāpi dharmiṇi pradarśite dharmāṇāṃ hermāṇāṃ heyopādeyatā jñāyata iti prathamaṃ kāvyabhedān āha ।

@@ -1,0 +1,9 @@
+--- source: brssgo2u-Cleaned.txt | block: 905 | label: grammar | g:0.545 m:0.362 ---
+
+na tāvadviṣayāntaraprasaṅgo doṣaḥ ।
+akaraṇatvātprāṇasya ।
+nahi cakṣurādivatprāṇasya viṣayaparicchedena karaṇatvamabhyupagamyate ।
+nacāsyaitāvatā kāryābhāva eva ।
+kasmāt ।
+tathāhi śrutiḥ prāṇāntareṣvasaṃbhāvyamānaṃ mukhyaprāṇasya vaiśeṣikaṃ kāryaṃ darśayati prāṇasaṃvādādiṣu- aatha ha prāṇā ahaṃśreyasi vyūdire' ityupakramya ayasminva utkrānte śarīraṃ pāpiṣṭhataramiva dṛśyate sa vaḥ śreṣṭhaḥ' iti copanyasya pratyekaṃ vāgādyutkramaṇena tadvṛttimātrahīnaṃ yathāpūrvaṃ jīvanaṃ darśayitvā prāṇoccikramiṣāyāṃ vāgādiśaithilyāpattiṃ śarīrapātaprasaṅgaṃ ca darśayantī śrutiḥ prāṇanimittāṃ śarīrendriyasthitiṃ darśayati ।
+atāvanvariṣṭhaḥ prāṇa uvāca mā mohamāpadyathāhamevaitatpañcadhātmānaṃ pravibhajyaitadbāṇamavaṣṭabhya vidhārayāmi, iti caitamevārthaṃ śrutirāha- aprāṇena rakṣannavaraṃ kulāyam' (bṛ

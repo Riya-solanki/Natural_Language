@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 190 | label: meter | g:0.25 m:0.625 ---
+
+aruṇakiraṇamālāpāṭalopāntalekhaṃ praviralataratāraṃ khaṃ parāvṛttacandram ।
+pulinam iva payodher vidrumakṣodatāmraṃ parimukulapalāśasvasthasaṃsuptahaṃsam ।।

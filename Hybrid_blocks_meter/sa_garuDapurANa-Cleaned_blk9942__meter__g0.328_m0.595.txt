@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9942 | label: meter | g:0.328 m:0.595 ---
+
+nānāvidhaśarīrasthā anantā jīvarāśayaḥ ।
+jāyante ca mriyante ca teṣāmanto na vidyate ।।

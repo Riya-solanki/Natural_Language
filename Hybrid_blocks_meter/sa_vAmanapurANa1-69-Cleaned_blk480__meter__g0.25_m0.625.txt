@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 480 | label: meter | g:0.25 m:0.625 ---
+
+tvaṃ devaḥ puṇḍarīkākṣastvaṃ viṣṇuḥ śārṅgacāpadhṛk ।
+tvamavyayo maheśānaḥ śāśvataḥ puruṣottamaḥ ।।

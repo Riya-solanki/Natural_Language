@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 496 | label: grammar | g:0.75 m:0.5 ---
+
+[] yā khalu bhavan-maṅgalataḥ sarasī-bhūtāyāḥ savayasaḥ sarasī bhavitā sā punar amara-taraṅginīva kṛṣṇāṅga-rāga-vilāsinī । amṛta-nidhi-priyāvalir iva bahula-tārāṅgatā-bhāsinī । sūtrāma-gṛha-netrīvopendra-deva-ratāmodātirekiṇī । sāvitrī-mukha-vicitra-śrutir iva nālīkinī । umā-mūrtir iva giri-rājād udbhava-dhātrī । māmūrtir iva hari-hṛdi vilāsa-pātrī । rāma-śaktir iva gāmbhīryataḥ pralambamāna-mada-majjanī । kiṃ bahunā, rādheva rādhāntika-pūrṇa-vidhor vaśatā-sajjanīti ।

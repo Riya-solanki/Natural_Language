@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 351 | label: meter | g:0.25 m:0.5 ---
+
+tasmin palkṣe sthitāṃ dṛṣṭvā mārkaṇḍeyo mahāmuniḥ ।
+praṇipatya tadā mūrdhnā tuṣṭāvātha sarasvatīm ।।

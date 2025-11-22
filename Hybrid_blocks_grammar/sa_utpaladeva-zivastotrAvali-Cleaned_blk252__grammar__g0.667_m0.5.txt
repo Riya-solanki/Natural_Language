@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 252 | label: grammar | g:0.667 m:0.5 ---
+
+aham ity amuto avaruddhalokād bhavadīyāt pratipattisārato me aṇumātrakam eva viśvaniṣṭhaṃ ghaṭatāṃ yena bhaveyam arcitā te ।।

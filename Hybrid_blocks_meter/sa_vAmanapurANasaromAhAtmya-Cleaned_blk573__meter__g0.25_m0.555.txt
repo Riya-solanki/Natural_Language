@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 573 | label: meter | g:0.25 m:0.555 ---
+
+varṇānāmāśramāṇāṃ ca tāraṇāya sunirmalam ।
+brahmacaryātparaṃ mokṣaṃ ya icchinti sunirmalam ।
+te api tattīrthamāsādya paśyanti paramaṃ padam ।।

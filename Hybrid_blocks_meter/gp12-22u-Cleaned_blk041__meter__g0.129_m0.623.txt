@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 41 | label: meter | g:0.129 m:0.623 ---
+
+usrāṇāṃ prāṇa-sāmyaṃ vahati harir amūs taṃ vinā rikta-cittāś
+citra-prāyāḥ samantād yad iha vana-tati-śrī-nibhā visphuranti ।
+tal-lābhād ghrāṇa-dṛṣṭi-śravaṇa-sarasana-sparśa-yogād valante
+kintu syāc citram etad bahir upavalitaṃ teṣu taṃ svādayanti ।। [sragdharā]

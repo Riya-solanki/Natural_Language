@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2975 | label: meter | g:0.25 m:0.5 ---
+
+syān nāma vākyaṃ śrutvaivaṃ mama tau paribhāṣitam 
+na gacchetāṃ yathākālaṃ nigrāhyāv api tau mama ।।

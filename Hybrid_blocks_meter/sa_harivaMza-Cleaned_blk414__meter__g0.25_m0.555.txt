@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 414 | label: meter | g:0.25 m:0.555 ---
+
+bṛhadaśvasya putrāṇāṃ śatam uttamadhanvinām 
+sarve vidyāsu niṣṇātā balavanto durāsadāḥ । 
+babhūvātha pitā rājye kuvalāśvaṃ nyayojayat ।। 
+yajvāno bhūridakṣiṇāḥ ।kuvalāśvaṃ sutaṃ rājye ।
+putrasaṃkrāmitaśrīs tu vanaṃ rājā samāviśat 
+tam uttaṅko atha viprarṣiḥ prayāntaṃ pratyavārayat ।।

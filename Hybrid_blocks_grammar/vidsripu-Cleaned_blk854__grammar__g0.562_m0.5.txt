@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 854 | label: grammar | g:0.562 m:0.5 ---
+
+smaravivaśayā kiṃcin mithyāniṣedhamanojñayā diśi diśi bhayād bhūyo bhūyaḥ pravartitanetrayā ।
+kuvalayadṛśā śūnye daivād atarkitalabdhayā nibhṛtanibhṛtaṃ ye cumbyante ta eva viduḥ sukham ।।

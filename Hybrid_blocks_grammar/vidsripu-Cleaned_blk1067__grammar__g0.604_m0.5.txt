@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1067 | label: grammar | g:0.604 m:0.5 ---
+
+deva tvadyaśasi prasarpati śanair lakṣmīsudhoccaiḥśravaś- candrairāvatakaustubhāḥ sthitim ivāmanyanta dugdhodadhau ।
+kiṃ tv ekaḥ param asti dūṣaṇakaṇo yan nopayāti bhramāt kṛṣṇaṃ śrīḥ śitikaṇṭham adritanayā nīlāmbaraṃ revatī ।।

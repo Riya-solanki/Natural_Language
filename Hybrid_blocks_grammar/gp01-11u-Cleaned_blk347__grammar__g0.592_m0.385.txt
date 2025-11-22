@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 347 | label: grammar | g:0.592 m:0.385 ---
+
+upari madhukarāvalī tadīyaṃ
+talam anu sasmita-nīla-vāri-jātam ।
+tad anu ravi-sutācchavāri-pūraṃ
+sphurati sakhe kim iyaṃ sabhā navāsti ।।
+[] athātma-sthāne yuktaḥ śrī-kṛṣṇa-rāmābhyāṃ prayuktaḥ prasiddha-nāmā śrīdāmā śrībhājaṃ vraja-rājam āvedya sadyaḥ pura-madhyam āsādya kṛtī śrī-vrajarājñī-prabhṛtir bahiḥ kuṭṭimāt kiñcid unnata-kuṭṭimam anu maryādām aṃśam apy aticarya sphuṭam upary upari ghaṭita-gātraṃ labdha-sannikṛṣṭi-dṛṣṭi-mātra-pātraṃ śreṇitayālaṅkṛtam aneka-nīrandhra-jāla-randhra-jālaṃ samayā samānīya pratīhāraṃ sapratīhāraṃ praṇīya dṛg-bhaṅgi-kalayā tāsām antaḥ-sabhā-saṅgitām abhinīya punas tayor aviprakṛṣṭa evopaviṣṭaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2034 | label: meter | g:0.194 m:0.5 ---
+
+devabhāgān gatān dṛṣṭvā kiṃ tvaṃ sarvāgrago vibhuḥ 
+vasuṃdharāyāḥ sāhyārtham aṃśaṃ svaṃ nānuyuñjase ।।

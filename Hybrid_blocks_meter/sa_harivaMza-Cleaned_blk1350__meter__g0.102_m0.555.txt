@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1350 | label: meter | g:0.102 m:0.555 ---
+
+vipracittiḥ śibiḥ śaṅkur ayaḥśaṅkus tathaiva ca 
+ayaḥśirā aśvaśirā hayagrīvaś ca vīryavān 
+vegavān ketumān ugraḥ sogravyagro mahāsuraḥ ।।

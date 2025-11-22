@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2876 | label: meter | g:0.25 m:0.5 ---
+
+etais tu bhūṣito mantrī paryaṭet kṣetram āśritaḥ 
+śmaśāne kānane kūpe udyāne devakule api vā ।।

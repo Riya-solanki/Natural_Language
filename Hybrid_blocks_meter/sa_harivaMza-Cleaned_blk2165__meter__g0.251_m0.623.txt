@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2165 | label: meter | g:0.251 m:0.623 ---
+
+bhavanto hi yathākāmaṃ modantāṃ vigatajvarāḥ 
+māṃ ca vo nātham āśritya nāsti devakṛtaṃ bhayam ।।

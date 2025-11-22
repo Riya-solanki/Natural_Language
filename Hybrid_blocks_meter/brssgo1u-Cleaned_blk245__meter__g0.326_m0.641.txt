@@ -1,0 +1,10 @@
+--- source: brssgo1u-Cleaned.txt | block: 245 | label: meter | g:0.326 m:0.641 ---
+
+bhavatu rūpavattvādidurbalaliṅgānāṃ pāpāsparśitvādyavyabhicāribrahmaliṅgairanyathānayanam ।
+iha tvākāśapadaśrutirliṅgādbalīyasīti pratyudāhaṇena prāpte pratyāha-ākāśastalliṅgāditi ।
+chandogyavākyamudāharati-idamiti ।
+śālāvatyo brāhmaṇo jaivaliṃ rājānaṃ pṛcchati, asya pṛthvilokasyānyasya ca ka ādhāra iti ।
+rājābrūte, aākāśa iti ha'iti ।
+ayadeṣa ākāśaḥ'ityānandatvasyāsādhāraṇasya śravaṇādākāśo brahmetyavadhāritam ।
+aākāśo vai nāma'ityatra atadbrahma'iti vākyaśeṣāditi vibhāgaḥ ।
+nirvahitā

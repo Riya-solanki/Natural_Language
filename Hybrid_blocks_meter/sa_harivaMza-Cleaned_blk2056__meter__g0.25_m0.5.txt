@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2056 | label: meter | g:0.25 m:0.5 ---
+
+asad etat tvayā dūta kathitaṃ tasya gauravāt 
+yan māṃ kṣipasi doṣeṇa vedātmānaṃ ca susthiram ।।

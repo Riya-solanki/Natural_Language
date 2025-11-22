@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 96 | label: meter | g:0.21 m:0.625 ---
+
+svābhiprāyam ato bravīmi sakalaṃ saṃsāram apy utsahe
+vastuṃ bhīmabhayānake api narake loke jinālaṃkṛte ।
+na tv evaikam api kṣaṇaṃ surapure saṃbuddhaśūnye jagaty
+udvṛttakṣatavṛttarākṣasagaṇavyāluptapuṇyotsave ।।

@@ -1,0 +1,10 @@
+--- source: nysvbh_u-Cleaned.txt | block: 710 | label: meter | g:0.0 m:0.952 ---
+
+bāhyena prakāśenānugṛhītaṃ cakṣurviṣayagrāhakam
+tadabhāve anupalabdhiḥ, sati ca prakāśānugrahe
+rūpasparśopalabdhau ca satyāṃ tadāśrayasya dravyasya
+cakṣuṣā grahaṇam, rūpasyānudbhūtatvāt
+seyaṃ rūpānabhivyaktito rūpāśrayasya dravyasyānupalabdhirdṛṣṭā,
+tatra yaduktam
+"tadanupalabdherahetuḥ " iti
+etadayuktam ।।

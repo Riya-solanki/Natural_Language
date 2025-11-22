@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 534 | label: meter | g:0.217 m:0.845 ---
+
+ḍhālayeddhemarājiṃ tāṃ baddhasūtadravopari 
+raktaṣoṭo bhavatyevaṃ saṃskāraḥ sāraṇo mataḥ ।।

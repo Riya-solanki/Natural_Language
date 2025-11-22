@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 200 | label: grammar | g:0.797 m:0.171 ---
+
+kiñca na śabdaprayogavaśena jñānasya viṣayanirūpaṇaṃ śakyaṃ viparītatvāt ।
+arthasaṃbaddhaśabdaprayogo hi lakṣaṇaṃ na śabdamātraprayogaḥ, pratyāyyapratyāyakatvameva hi śabdārthayoḥ saṃbandho ato yadarthaviṣayaṃ jñānaṃ yaḥ śabdo janayati sa tasya vācyaḥ, ato jñānaviṣayanirūpaṇapūrvakaṃ śabdaviṣayanirūpaṇaṃ, tadadhīne tu tasmin duruttaramitaretarāśrayamāpadyeta ।।

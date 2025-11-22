@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2761 | label: meter | g:0.251 m:0.623 ---
+
+svāyaṃbhuvena yogena yac cāyaṃ parvatottamaḥ 
+dhṛto veśma ivākāśe ko hy etena na vismayet ।।

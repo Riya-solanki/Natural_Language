@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 319 | label: hybrid | g:0.486 m:0.5 ---
+
+rakṣantu śīla pariṇāmayi agrabodhiṃ na ca tena manyati na ātmana karṣayethā 
+ahusaṃjñatā ca parivarjita sattvasaṃjñā sthitu śīlapāramiti vucyati bodhisattvo ।।

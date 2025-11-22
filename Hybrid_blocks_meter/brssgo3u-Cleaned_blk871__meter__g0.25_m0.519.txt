@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 871 | label: meter | g:0.25 m:0.519 ---
+
+tarhyāśramitvaṃ vṛthetyata āha-atastviti ।
+puṇyakṛttaijasaḥ śuddhasatvastena jñānamārgeṇaiti brahma prāpnotītyarthaḥ ।।
+atra puṇyakṛttvaliṅgādāśramitvaṃ jyāyaḥ puṇyopacaye śīghraṃ vidyālābhādanāśramasya ninditatvācceti bhāvaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 486 | label: grammar | g:0.625 m:0.5 ---
+
+atha te yakṣāstathetyasmai pratiśrutya praṇamya pradakṣiṇīkṛtya cainaṃ tatraivāntardadhire । svamāṃsaśoṇitapradānaniścayasamakālameva tu tasya mahāsattvasya ।

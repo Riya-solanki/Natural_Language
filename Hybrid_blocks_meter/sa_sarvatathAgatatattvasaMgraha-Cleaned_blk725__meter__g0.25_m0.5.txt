@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 725 | label: meter | g:0.25 m:0.5 ---
+
+lalātasthā śiraḥ pṛṣṭhe skandhe hāsaprayojitā ।
+mukhadhātrī hṛdi khaḍgā hṛdvikāsā mukhasthitā ।।

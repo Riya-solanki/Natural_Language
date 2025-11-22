@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 587 | label: meter | g:0.31 m:0.68 ---
+
+atha āvegaḥ-
+cittasya sambhramo yaḥ syād āvego' yaṃ sa cāṣṭadhā । utpāta-vāta-varṣāgni-matta-kuñjara-darśanāt ।।
+priyāpriya-śruteś cāpi śatrava-vyasanād api । 
+tatrautpātas tu śailādi-kampa-ketūdayādayaḥ ।।
+taj-jāḥ sarvāṅga-visraṃso vaimukhyam apasarpaṇam । 
+viṣāda-mukha-vaivarṇya-vismayādyās tu vikriyāḥ ।।

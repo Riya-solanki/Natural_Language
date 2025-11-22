@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 676 | label: meter | g:0.25 m:0.625 ---
+
+upādhyasaṃtānācca nāsti jīvasaṃtānaḥ ।
+tataśca karmavyatikaraḥ phalavyatikaro vā na bhaviṣyati ।।

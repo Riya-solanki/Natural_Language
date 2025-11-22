@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 227 | label: meter | g:0.25 m:0.726 ---
+
+athavā prakāśāśrayavadetatpratipattavyam ।
+yathā prakāśaḥ savitrastadāśrayaśca savitā nātyantabhinnāvubhayorapi tejastvāviśeṣāt ।
+atha ca bhedavyapadeśabhājau bhavata evamihāpīti ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1522 | label: grammar | g:0.562 m:0.5 ---
+
+bhīmaḥ -bhagavan kvāsau dhārtarāṣṭra-sakho rākṣasaś cārvāko yenāryasya mahāṃś citta-vibhramaḥ kṛtaḥ ।

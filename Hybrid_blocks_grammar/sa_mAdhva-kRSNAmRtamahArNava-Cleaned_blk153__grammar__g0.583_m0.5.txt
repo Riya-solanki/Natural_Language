@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 153 | label: grammar | g:0.583 m:0.5 ---
+
+abhartṛkā tathā anye vā sūtavaidehikādayaḥ ekādaśyāṃ na bhuñjīta pakṣayor ubhayor api ।।

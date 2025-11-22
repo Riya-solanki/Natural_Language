@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 100 | label: hybrid | g:0.521 m:0.5 ---
+
+adyāpi smarati rasālasaṃ mano me mugdhāyāḥ smaracaturāṇi ceṣṭitāni ।

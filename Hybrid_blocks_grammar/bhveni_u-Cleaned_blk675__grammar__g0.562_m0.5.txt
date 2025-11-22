@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 675 | label: grammar | g:0.562 m:0.5 ---
+
+bho bho bāhubalāvalepapravartitamahāsamaradohadāḥ kauravapakṣapātapaṇīkṛtaprāṇadraviṇasaṃcayā narapatayaḥ saṃstabhyantāṃ saṃstabhyantāṃ nihataduḥśāsanapītāvaśeṣaśoṇitasnapitabībhatsaveṣavṛkodaradarśanabhayapariskhalatpraharaṇāni raṇātdravanti balāni ।

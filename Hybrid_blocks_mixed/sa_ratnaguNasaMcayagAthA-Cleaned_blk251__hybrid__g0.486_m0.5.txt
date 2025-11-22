@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 251 | label: hybrid | g:0.486 m:0.5 ---
+
+yo bodhisattva imu jānati eva śikṣāṃ na sa jātu śikṣavikalo bhavate duśīlo 
+ārādhiteṣu iha śikṣati buddhadharmaṃ śikṣātiśikṣakuśalo ti nirūpalambho ।।

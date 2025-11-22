@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 330 | label: grammar | g:0.573 m:0.5 ---
+
+kundasyāpi na pūjanavyatikare nāpy ātmano maṇḍane vyāpāre api tathā praheṇakavidher nārghanti baddhādarāḥ ।
+nāryaḥ kundacaturthikāmahasam ārambhābhiṣeke yathā hūtānaṅgam ulūlukākalaravaiḥ prīṇanti yūnāṃ manaḥ ।।

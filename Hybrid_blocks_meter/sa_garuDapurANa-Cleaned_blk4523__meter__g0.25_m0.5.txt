@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4523 | label: meter | g:0.25 m:0.5 ---
+
+karoti tatra rugdāhaṃ spandanodveṣṭanāni ca ।
+binduśaśca pravarteta mūtraṃ bastau tu pīḍite ।।

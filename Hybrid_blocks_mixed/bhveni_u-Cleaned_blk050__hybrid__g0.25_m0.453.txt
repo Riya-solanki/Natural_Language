@@ -1,0 +1,5 @@
+--- source: bhveni_u-Cleaned.txt | block: 50 | label: hybrid | g:0.25 m:0.453 ---
+
+sahadevaḥ
+tamevānugacchannātmagatam
+aye kathamāryaḥ pāñcālyāścatuḥśālaṃ praviṣṭaḥ । bhavatu tāvadahamatraiva tiṣṭhāmi ।iti sthitaḥ

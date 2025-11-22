@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 321 | label: hybrid | g:0.497 m:0.5 ---
+
+yasyo na asti ahasaṃjña na sattvasaṃjñā saṃjñāvirāgu kutu tasya asaṃvaro asti 
+yasyo na saṃvari asaṃvari manyanāsti ayu śīlasaṃvaru prakāśitu nāyakena ।।

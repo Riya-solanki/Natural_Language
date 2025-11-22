@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4798 | label: meter | g:0.194 m:0.625 ---
+
+ekaikaṃ tatra codyānaṃ mārgitavyaṃ samantataḥ 
+gantavyaṃ cāpi niḥsaṅgam udyāneṣu samantataḥ ।।

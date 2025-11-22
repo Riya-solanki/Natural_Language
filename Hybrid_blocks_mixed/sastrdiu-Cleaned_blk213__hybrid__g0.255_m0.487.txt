@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 213 | label: hybrid | g:0.255 m:0.487 ---
+
+tallakṣaṇaṃ cetareṣāmuktadoṣatvāt jñānajanyaphalabhāgitvamevāśriyatavyam ।
+jñānakriyā hi sakarmikā karmabhūter'the phalaṃ janayati pākādivat, tacca phalamindriyakajñānajanyamāparokṣyam, liṅgādijñānajanyaṃ tu pārokṣyamityucyate ।
+asti hi viṣayāviṣayavibhāgaḥ viṣayeṣvapi parokṣāparokṣavibhāgaḥ sārvajanīnaḥ ।
+na ca phalamantareṇāyaṃ vibhāgaḥ saṃbhavatīti tadāśrīyate ।
+tadeva ca phalaṃ kāryabhūtaṃ kāraṇabhūtaṃ vijñānamupakalpayatīti siddhyatyapratyakṣamapi jñānam ।।

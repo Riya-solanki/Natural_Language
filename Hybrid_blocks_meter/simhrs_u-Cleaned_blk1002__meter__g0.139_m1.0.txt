@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1002 | label: meter | g:0.139 m:1.0 ---
+
+striyā, yathā-
+muñca kopam animitta-locane
+sandhyayā praṇamito' smi nānyathā ।
+kiṃ na vetsi sahadharma-cāriṇaṃ
+cakravāka-sama-vṛttim ātmanaḥ ।।

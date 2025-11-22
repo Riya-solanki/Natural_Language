@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 100 | label: grammar | g:0.625 m:0.5 ---
+
+grahaṃ saṃśodhya mandoccāt tathā śīghrād viśodhya ca। śeṣaṃ kendrapadaṃ tasmād bhujajyā koṭir eva ca।।

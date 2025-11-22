@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 371 | label: grammar | g:0.75 m:0.5 ---
+
+-'amāvāsyāyāmaparāhne piṇḍapitṛyajñena caranti'ityanārabhyādhītavākye vihitaḥ piṇḍapitṛyajñaḥ kratvartho vā puruṣārtha iti saṃśaye phalakalpanāparihārāya amāvāsyāśabdasya karmārthakatvena kalpanīyatvāttadaṅgamiti prāpte siddhāntaḥ-aparāhnaśabdasāmānādhikaraṇyāt, rūḍhatvāccābhāvāsyāśabdaḥ kālaparaḥ । tathāca svargakāmaniyojyakalpanayā svargaphalaḥ piṇḍapitṛyajña iti । tadvadatra kalpane tu svargor'thaḥ brahmabhavanaśabdenāsamavetaḥ syāttathāca parokṣavṛttitāpāta iti bhāvaḥ ।

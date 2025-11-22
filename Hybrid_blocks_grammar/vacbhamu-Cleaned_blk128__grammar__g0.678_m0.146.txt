@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 128 | label: grammar | g:0.678 m:0.146 ---
+
+smṛtiśca ajñānamutpadyate puṃsāṃ kṣayātpāpasya karmaṇaḥ' ityādikā ।
+kḷptenaiva ca nityānāṃ karmaṇāṃ nityehitenopāttaduritanibarhaṇena puruṣasaṃskāreṇa jñānotpattāvaṅgabhāvopapattau na saṃyogapṛthaktvena sākṣādaṅgabhāvo yuktaḥ, kalpanāgauravāpatteḥ ।
+tathāhi- nityakarmaṇāmanuṣṭhānāddharmotpādaḥ, tataḥ pāpmā nivartate; sa hi anityāśuciduḥkharūpe saṃsāre nityaśucisukhakhyātilakṣaṇena viparyāsena cittasattvaṃ malinayati; ataḥ pāpanivṛttau pratyakṣopapattidvārāpāvaraṇe sati pratyakṣopapattibhyāṃ saṃsārasya anityāśuciduḥsvarūpatvamapratyūhamavabudhyate; tato asya asminnanabhiratisaṃjñaṃ vairāgyamupajāyate; tatastajjihāsopāvartate; tato hānopāyaṃ paryeṣate; paryeṣamāṇaścātmatattvajñānamasyopāya ityupaśrutya tajjijñāsate; tataḥ śravaṇādikrameṇa tajjānātītyārādupakārakatvaṃ tattvajñānotpādaṃ prati cittasattvaśuddhyā karmaṇāṃ yuktam ।
+iyamevārthamanuvadati bhagavadgītā-

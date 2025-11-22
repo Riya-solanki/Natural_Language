@@ -1,0 +1,7 @@
+--- source: vidsripu-Cleaned.txt | block: 44 | label: hybrid | g:0.383 m:0.486 ---
+
+kiṃ vācyo mahimā mahājalanidher yasyendravajrāhatas trasto bhūbhṛd amajjad ambunicaye kaulīlapotākṛtiḥ ।
+maināko api gabhīranīraviluṭhatpāṭhīnapṛṣṭhoccalac chaivālāṅkurakoṭikoṭarakuṭīkuḍyāntare nirvṛtaḥ ।।
+NB below!
+।var{@viluṭhatpāṭhīna@।lem
+।emend, @viluṭhan pāṭhīna@ ।edKG}

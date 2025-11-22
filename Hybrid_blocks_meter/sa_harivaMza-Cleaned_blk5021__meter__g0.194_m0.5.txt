@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5021 | label: meter | g:0.194 m:0.5 ---
+
+tam apāśya ca tatraiva rājānaṃ sānvagacchata 
+pativratā mahābhāgā draupadīva purā patīn ।।

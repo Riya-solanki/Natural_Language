@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 135 | label: meter | g:0.306 m:0.625 ---
+
+kṣārauṣadhipaṭvamlaiḥ kṣudbodho rāgabandhane svedāt ।
+na punaḥ pakṣacchedo dravatvaṃ vā vinā gaganam ।।

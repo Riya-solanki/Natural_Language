@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 124 | label: meter | g:0.25 m:0.729 ---
+
+ādhānoddharaṇe tāvadyāvaddolāyate manaḥ ।
+padasya sthāpite sthairye hanta siddhā sarasvatī ।।
+yatpadāni tyajantyeva parivṛttisahiṣṇutām ।
+taṃ śabdanyāsaniṣṇātāḥ śabdapākaṃ pracakṣate ।।

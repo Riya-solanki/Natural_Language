@@ -1,0 +1,3 @@
+--- source: brsgor3u-Cleaned.txt | block: 342 | label: meter | g:0.25 m:0.75 ---
+
+sarvāpekṣā ca yajñādiśruter aśvavat ।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3909 | label: grammar | g:0.75 m:0.5 ---
+
+tato bṛhadaśvas tatsūnur bhānurathas tasya pratītāśvas tasyāpi supratīkaḥ । tato marudevo marudevāt sunakṣatras tasmāt kiṃnaraḥ । kiṃnara-d antarikṣas tasmāt suvarṇas tataś cāmitrajit । tataś ca bṛhadrājas tasyāpi dharmī dharmiṇaḥ kṛtaṃjayaḥ । kṛtaṃjayād raṇaṃjayo raṇaṃjayāt saṃjayas tasmāc chākyaḥ । śākyāc chuddhodanas tasmād rāhulas tataḥ prasenajit । tataś ca kṣudrakas tataś ca kuṇḍakas tasmād api surathaḥ । tatputraś ca sumitro antya ity ete cekṣvākavo bṛhadbalānvayāḥ । atrānuvaṃśaślokaḥ ।

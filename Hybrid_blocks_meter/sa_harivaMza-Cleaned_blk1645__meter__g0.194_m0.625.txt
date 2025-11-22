@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1645 | label: meter | g:0.194 m:0.625 ---
+
+vāyuḥ pradhāvitas tatra paścād agniś ca mārutāt 
+ceratur dānavānīke krīḍantāv anilānalau ।।

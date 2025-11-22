@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 800 | label: meter | g:0.194 m:0.5 ---
+
+śmaśāne vā nadītīre kṛtvā vedīṃ tadūrdhvataḥ 
+paścād dhomaṃ prakurvīta ugradravyaiḥ samāhitaḥ ।।

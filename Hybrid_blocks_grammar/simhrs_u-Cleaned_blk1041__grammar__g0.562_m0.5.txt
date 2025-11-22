@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1041 | label: grammar | g:0.562 m:0.5 ---
+
+atrākāśa-sarasvatī-pratyayena rater vipralambhaḥ kṛśatvādy-anumitair glāny-ādibhiḥ vyabhicāri-bhāvaiḥ poṣitaḥ samaya-paripālanādibhir anubhāvair vyajyate ।

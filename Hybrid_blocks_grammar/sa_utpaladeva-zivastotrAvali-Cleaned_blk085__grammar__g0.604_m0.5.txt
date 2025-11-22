@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 85 | label: grammar | g:0.604 m:0.5 ---
+
+śiva śiva śambho śaṅkara śaraṇāgatavatsalāśu kuru karuṇām tava caraṇakamalayugalasmaraṇaparasya hi sampado adūre ।।

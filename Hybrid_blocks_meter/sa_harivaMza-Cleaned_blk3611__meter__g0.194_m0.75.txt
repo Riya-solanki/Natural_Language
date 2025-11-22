@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3611 | label: meter | g:0.194 m:0.75 ---
+
+teṣāṃ yuddhaṃ samabhavat samabhityaktajīvitam 
+śaktyṛṣṭiprāsabāṇaughān sṛjatāṃ tumulaṃ mahat ।।

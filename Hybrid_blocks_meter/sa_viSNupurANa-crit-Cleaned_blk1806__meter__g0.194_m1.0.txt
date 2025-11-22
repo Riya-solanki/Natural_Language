@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1806 | label: meter | g:0.194 m:1.0 ---
+
+yo anantaḥ paṭhyate siddhair devadevarṣipūjitaḥ 
+sahasraśirasā vyaktasvastikāmalabhūṣaṇaḥ ।।

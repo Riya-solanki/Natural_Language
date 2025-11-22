@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 666 | label: meter | g:0.364 m:0.524 ---
+
+kṛpaḥ
+vatsa aśarīriṇī bhāratī bhavantamanṛtādabhirakṣati ।

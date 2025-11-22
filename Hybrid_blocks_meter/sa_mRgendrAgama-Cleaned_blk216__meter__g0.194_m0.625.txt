@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 216 | label: meter | g:0.194 m:0.625 ---
+
+tatkurvannucyate prāṇaḥ prāṇo vā prāṇayogataḥ 
+cityātivāhike śaktau prāṇaśabdaḥ kalāsu ca ।।

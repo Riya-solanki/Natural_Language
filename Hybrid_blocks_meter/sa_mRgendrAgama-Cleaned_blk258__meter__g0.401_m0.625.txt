@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 258 | label: meter | g:0.401 m:0.625 ---
+
+nityatvavyāpakatvādiśravaṇādavasīyate 
+dṛṣṭaṃ purādi yadbhogyaṃ mūrtaṃ pralayadharmi ca ।।

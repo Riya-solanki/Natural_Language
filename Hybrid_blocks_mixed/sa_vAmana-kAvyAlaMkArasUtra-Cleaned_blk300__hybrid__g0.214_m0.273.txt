@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 300 | label: hybrid | g:0.214 m:0.273 ---
+
+avyabhicāre tu bhavantī pratipattiḥ kena vāryate tadāha 
+dharmayorekanirdeśe'nyasya saṃvit, sāhacaryāt ।।
+dharmayorekasyāpi dharmasya nirdeśe'nyasya saṃvit pratipattirbhavati । kutaḥ । sāhacaryāt । sahacaritatvena prasiddhayoravaśyamekasya nirdeśe'nyasya pratipattirbhavati । tadyathā

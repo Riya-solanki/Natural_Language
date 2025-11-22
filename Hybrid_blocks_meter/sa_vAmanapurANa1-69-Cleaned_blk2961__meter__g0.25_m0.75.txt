@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2961 | label: meter | g:0.25 m:0.75 ---
+
+tato adhirūḍhastu rathaṃ śakrastridaśapuṅgavaḥ ।
+raśmīn śamīkatanayo mātaliḥ pragṛhītavān ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3795 | label: meter | g:0.295 m:0.874 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahmovāca ।
+kāmadevatrayodaśyāṃ pūjyo damanakādibhiḥ ।
+ratiprītisamāyukto hyasoko maṇibhūṣitaḥ ।।

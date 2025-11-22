@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 876 | label: grammar | g:0.729 m:0.5 ---
+
+[pātakeṣu] tebhyo mahāpātakopapātakebhyo yānyanyāni pātakāni tattaddravyāpaharaṇaniṣiddhānnabhakṣaṇādīni teṣu teṣvapi [tadanyeṣu kriyāvyatikareṣu] anyeṣu ca kriyācchidreṣu [ekādaśa] śivavaktrāṇyaṅgasahitāni japet। yadvā tattadanusāreṇa bahurūpanāthamevāvartayet।।

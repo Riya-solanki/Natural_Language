@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1103 | label: meter | g:0.25 m:0.5 ---
+
+tamunnāmitanāsaṃ ca mahiṣaṃ vīkṣya dānavaḥ ।
+khaṅga niṣkṛṣya tarasā mahiṣaṃ samupādravat ।।

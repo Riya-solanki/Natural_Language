@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5724 | label: meter | g:0.194 m:0.625 ---
+
+hatvā garvaṃ samārūḍho bhīṣmadroṇajayadrathān 
+karṇādīṃś ca na jānāti balaṃ grāmanivāsinām ।।

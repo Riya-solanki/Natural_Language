@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 91 | label: meter | g:0.25 m:0.5 ---
+
+atha pramāṇaṃ tatrātmā prameyatvaṃ prapadyate ।
+yatraitad ubhayaṃ tatra catuṣṭayam api sthitam ।।

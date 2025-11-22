@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1316 | label: meter | g:0.194 m:0.5 ---
+
+vārāha eṣa kathito nārasiṃham ataḥ śṛṇu 
+yatra bhūtvā mṛgendreṇa hiraṇyakaśipur hataḥ ।।

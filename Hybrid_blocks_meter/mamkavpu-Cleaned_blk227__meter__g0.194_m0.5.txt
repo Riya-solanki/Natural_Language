@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 227 | label: meter | g:0.194 m:0.5 ---
+
+{kaṇṭhakoṇaviniviṣṭamīśa te kālakūṭamapi me mahāmṛtam ।
+apyupāttamamṛtaṃ bhavadvapurbhedavṛtti yadi me na rocate ।।}

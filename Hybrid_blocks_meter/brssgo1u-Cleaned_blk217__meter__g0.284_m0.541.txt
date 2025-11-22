@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 217 | label: meter | g:0.284 m:0.541 ---
+
+tasya brahmaṇaḥ sarvakāryahetutvavyapadeśāt ।
+priyādiviśiṣṭatvākāreṇānandamayasya jīvasya kāryatvāttaṃ prati śeṣatvaṃ brahmaṇo na yuktamityarthaḥ ।
+māntravarṇikameva ca gīyate ।।

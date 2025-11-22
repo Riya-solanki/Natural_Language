@@ -1,0 +1,4 @@
+--- source: sa_yAmuna-catuHzlokI-Cleaned.txt | block: 2 | label: grammar | g:0.625 m:0.5 ---
+
+kāntas te puruṣottamaḥ phaṇipatiḥ śayyāsanaṃ vāhanaṃ vedātmā vihageśvaro yavanikā māyā jaganmohinī ।
+brahmādisuravrajaḥ sadayitas tvaddāsadāsīgaṇaḥ śrīr ity eva ca nāma te bhagavati ! brūmaḥ kathaṃ tvāṃ vayam ।।

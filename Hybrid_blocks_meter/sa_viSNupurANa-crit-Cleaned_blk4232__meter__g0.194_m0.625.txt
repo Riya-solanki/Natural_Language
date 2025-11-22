@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4232 | label: meter | g:0.194 m:0.625 ---
+
+ekadā tu vinā rāmaṃ kṛṣṇo vṛndāvanaṃ yayau 
+vicacāra vṛto gopair vanyapuṣpasragujjvalaḥ ।।

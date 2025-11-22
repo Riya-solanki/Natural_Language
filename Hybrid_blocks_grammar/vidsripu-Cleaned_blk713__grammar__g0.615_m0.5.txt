@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 713 | label: grammar | g:0.615 m:0.5 ---
+
+yāvan no sakhi gocaraṃ nayanayor āyāti tāvad drutaṃ gatvā brūhi yathādya te dayitayā mānaḥ samālambitaḥ ।
+dṛṣṭe dhūrtaviceṣṭite tu dayite tasminn avaśyaṃ mama svedāmbhaḥpratirodhinirbharatarasmeraṃ mukhaṃ jāyate ।।

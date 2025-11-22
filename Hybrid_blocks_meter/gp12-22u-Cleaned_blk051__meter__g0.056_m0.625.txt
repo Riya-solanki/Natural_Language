@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 51 | label: meter | g:0.056 m:0.625 ---
+
+gāyanti tvāṃ ṣaṭpadāś cānuyāntaḥ
+śrī-rohiṇyāḥ putram antarhitaṃ ca ।
+itthaṃ mitrāṇy āhur ūhe' ham evaṃ
+sarveśas tvaṃ na tv amī san-munīśāḥ ।। [śālinī]

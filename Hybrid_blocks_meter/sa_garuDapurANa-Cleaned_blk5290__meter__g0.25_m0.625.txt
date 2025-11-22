@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5290 | label: meter | g:0.25 m:0.625 ---
+
+vāyunā bhagnagātrāṇāṃ ye ca sīdanti maithune ।
+jarājarjaragātrāṇāṃ cādhmānamukha śoṣiṇām ।।

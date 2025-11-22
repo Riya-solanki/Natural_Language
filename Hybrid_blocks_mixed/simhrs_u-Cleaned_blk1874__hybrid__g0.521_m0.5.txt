@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1874 | label: hybrid | g:0.521 m:0.5 ---
+
+atra nepathya-gataiḥ pātraiḥ prayogānucitasya vānara-viplavādy-arthasya sūcanād iyaṃ madhya-cūlikā ।

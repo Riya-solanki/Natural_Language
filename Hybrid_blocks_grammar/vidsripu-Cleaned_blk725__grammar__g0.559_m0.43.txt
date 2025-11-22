@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 725 | label: grammar | g:0.559 m:0.43 ---
+
+na mando vaktrenduḥ śrayati na lalāṭaṃ kuṭilatā na netrābjaṃ rajyaty anuṣajati na bhrūr api bhidām ।
+idaṃ tu preyasyāḥ prathayati ruṣo antarvikasitāḥ śate api praśnānāṃ yadabhiduramudro adharapaṭaḥ ।।
+vaidyadhanyasya

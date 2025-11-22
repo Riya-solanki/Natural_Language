@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 868 | label: grammar | g:0.562 m:0.5 ---
+
+upaplavo hi jñānasya bāhyākārānupātitā kāluṣyam iva tat tasya saṃsarge vyatibhedajam ।।

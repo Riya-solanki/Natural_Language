@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9605 | label: meter | g:0.25 m:0.5 ---
+
+śītavā tātapaharamapi parṇakuṭīrakam ।
+kṛtvā viprāya viduṣe pradadāti kuṭumbine ।।
+tisraḥ koṭyordhakoṭī ca naraḥ svarge mahīyate ।।
+yā strī savarṇā saṃśubā mṛtaṃ patimanuvrajet ।
+sā mṛtā svargamāpnoti varṣāṇāṃ romasaṃkhyatā ।।

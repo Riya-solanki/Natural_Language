@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4436 | label: meter | g:0.264 m:0.663 ---
+
+prahlāda uvāca ।
+sādhu dānavaśārdūla yatte jātā matistviyam ।
+pravakṣyāmi hitaṃ te adya tathāneyeṣāṃ hitaṃ bale ।।

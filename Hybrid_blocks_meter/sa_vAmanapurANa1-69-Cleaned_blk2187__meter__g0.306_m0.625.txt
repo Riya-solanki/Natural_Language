@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2187 | label: meter | g:0.306 m:0.625 ---
+
+jñānādhiramaśeṣeṇa śeṣapāpaṃ jayet tataḥ ।
+śārīraṃ vācikaṃ yat tu mānasaṃ kāyikaṃ tathā ।।

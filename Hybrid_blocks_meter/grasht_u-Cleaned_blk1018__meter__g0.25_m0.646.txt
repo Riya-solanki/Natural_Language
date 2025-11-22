@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 1018 | label: meter | g:0.25 m:0.646 ---
+
+śālestu piṣṭakodbhavabhojanam ājyaṃ ca mudgamāṃsarasaiḥ ।
+yavagodhūmānnāni ca gokṣīraṃ mastu ca viśeṣāt ।।
+pāne jalamakṣāraṃ madhurāṇi yāni kāni śastāni ।
+peyaṃ cāturjātakarpūrāmodamuditamukham ।।

@@ -1,0 +1,5 @@
+--- source: ttssarvu-Cleaned.txt | block: 45 | label: grammar | g:0.848 m:0.212 ---
+
+asyārthaḥ vivekasākṣātkāro hi prakṛtipariṇāmabhedaḥ taṃ ca saiva karotīti kṛtaṃ dhyānābhyāseneti kenacidupadiṣṭe tatra tuṣṭiḥ prakṛtyākhyā atha prakṛteḥ sarvān pratyaviśeṣānna kevalaṃ tata eva vivekasākṣātkāraḥ kintu pravrajyayetyupadiṣṭe tuṣṭirupādānākhyā pravrajyāpi kālaviśeṣaṇādareṇaiva vivekaṃ janayatyalamuttaptatayā ityupadiṣṭe tuṣṭiḥ kālākhyā bhāgyenaiva vivekakhyātiriti tuṣṭirbhāgyākhyā ityetāścatasraḥ prakṛtivyatiriktamātmānamadhikṛtya jāyanta ityādhyātmikya ucyante ।
+viṣayāḥ śabdasparśarūparasagandhākhyāḥ pañca teṣu arjanarakṣaṇakṣayabhogahiṃsādoṣadarśanaṃ tata uparamā viratayopi pañca te ca mahadahaṅkārādīnanātmana ātmanobhimanyamānasya vairāgye satyutpadyante ato bāhyā ucyante ।
+imāśca nava uktaviparyayāḥ aśaktibhiḥ saha dvicatvāriṃśat siddhiparipanthitvāddheyāḥ ।। ।।

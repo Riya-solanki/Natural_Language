@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10122 | label: hybrid | g:0.51 m:0.5 ---
+
+śṛṇudhvaṃ vai taṃ viśeṣaṃ ca viprāstryaṃśairyuktaṃ gāruḍākhyaṃ purāṇam ।
+ādyāṃśaṃ vai karmakāṇḍaṃ vadanti dvitīyāṃśaṃ dharmakāṇḍaṃ tamāhuḥ ।।

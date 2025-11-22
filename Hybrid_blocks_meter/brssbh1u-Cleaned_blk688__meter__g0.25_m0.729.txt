@@ -1,0 +1,6 @@
+--- source: brssbh1u-Cleaned.txt | block: 688 | label: meter | g:0.25 m:0.729 ---
+
+ajāmekāṃ ityādyā śrutiḥ ।
+ahetuḥ prakṛtirucyate' ityādyā smṛtiḥ ।
+ayadalpaṃ tajjaḍaprakṛtikaṃ' iti nyāyaḥ ।
+tato brahmaiva jagatkāraṇamiti matakṣatiriti bhāvaḥ ।

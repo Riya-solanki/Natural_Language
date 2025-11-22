@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2271 | label: meter | g:0.25 m:0.5 ---
+
+vṛkṣārūḍho mahārājo nāyaṃ vadati te janaḥ 
+na ca dāruṇi sarvas tvāṃ bravīti śibikāgatam ।।

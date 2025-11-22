@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 871 | label: grammar | g:0.604 m:0.5 ---
+
+atra yaśaso candreṇa pratāpaṃ tapanamiti dvayorupamānayorupameyaśabdasāmānādhikaraṇyādupamānārthastirohitaḥ samāsaśca kṛta iti samastaṃ nāma prakṛtaśabdapradhānaṃrūpakam ।

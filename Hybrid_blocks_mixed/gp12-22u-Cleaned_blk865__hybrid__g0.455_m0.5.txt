@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 865 | label: hybrid | g:0.455 m:0.5 ---
+
+vāvahiḥ parvataṃ bālaḥ sāsahir na tu cācaliḥ ।
+bahir eva yathā vṛṣṭiḥ pāpatir na tad-antare ।। [anuṣṭubh]

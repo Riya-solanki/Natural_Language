@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6265 | label: meter | g:0.194 m:0.625 ---
+
+iyāja so api subahūn yajñāñjñānavyapāśrayaḥ 
+brahmavidyām adhiṣṭhāya tartuṃ mṛtyum avidyayā ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 996 | label: meter | g:0.306 m:0.5 ---
+
+gorocanārucakabhaṅgapiśaṅgitāṅgas tārāpatir masṛṇam ākramate krameṇa ।
+gobhir navīnabisatantuvitānagaurair āḍhyaṃ bhaviṣṇur ayam ambaram āvṛṇoti ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1090 | label: grammar | g:0.646 m:0.5 ---
+
+sa puṣpamālī trapughṛṣṭakaṇṭho yaṣṭayā hataḥ sarpamukhaṃ paraitu । vaikakṣyabaddhaśca vased gṛheṣu laulyādahārṣīttava yo bisāni ।।

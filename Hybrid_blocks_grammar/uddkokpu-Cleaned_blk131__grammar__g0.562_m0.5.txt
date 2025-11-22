@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 131 | label: grammar | g:0.562 m:0.5 ---
+
+nidrāṃ prāptā kathamapi cirāttatra cālokinī māṃ śūnyāśleṣaṃ viracitavatī hanta ghātāt kucādryoḥ ।
+nirbhindānā nijakaradhṛtaṃ kaṅkaṇaṃ srastaśeṣaṃ paśyantīnāṃ nayanakamale badhnatī vā sakhīnām ।।

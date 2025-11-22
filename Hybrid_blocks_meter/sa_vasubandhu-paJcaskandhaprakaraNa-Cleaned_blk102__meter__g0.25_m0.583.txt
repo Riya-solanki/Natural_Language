@@ -1,0 +1,7 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 102 | label: meter | g:0.25 m:0.583 ---
+
+apratisaṃkhyānirodhaḥ katamaḥ । yo nirodho na visaṃyogaḥ ।।
+sakleśāpratipakṣeṇa skandhānāmātyantiko nirodhaḥ ।।
+pratisaṃkhyānirodhaḥ katamaḥ । yo nirodho visaṃyogaḥ ।।
+sakleśapratipakṣeṇa skandhānāmātyantiko nirodhaḥ ।।
+tathatā katamā । yā dharmāṇāṃ dharmatā । dharmanairātmyam ।।

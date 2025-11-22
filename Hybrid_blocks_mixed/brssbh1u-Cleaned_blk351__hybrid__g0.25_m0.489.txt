@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 351 | label: hybrid | g:0.25 m:0.489 ---
+
+pratyakṣādinā karmasādhyāṃllokānanityatayā jñātvā nirvedaṃ vairāgyaṃ gacchet ।
+kutaḥ, kṛtena karmaṇā akṛto mokṣo nāsti ।

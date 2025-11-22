@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 336 | label: grammar | g:0.667 m:0.5 ---
+
+yadi lepanam eveṣṭaṃ limpatir nāma ko aparaḥ sa eva dharmo dharmī cety anunmatto na bhāṣate ।।

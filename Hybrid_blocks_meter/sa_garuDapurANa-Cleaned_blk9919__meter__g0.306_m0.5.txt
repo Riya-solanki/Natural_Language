@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9919 | label: meter | g:0.306 m:0.5 ---
+
+tasminpranaṣṭe hṛdi cintitaṃ punarmayā svakośe paravañcanaṃ kṛtam ।
+dyūtaiśchalenāpi ca cauryavṛttyā dharmaṃ vyatikramya śarīrarakṣaṇe ।।

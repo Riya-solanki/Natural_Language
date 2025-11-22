@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5179 | label: meter | g:0.194 m:0.625 ---
+
+sa eṣa sumahātejā vijigīṣuḥ puraṃdaraḥ 
+katham anyair anācīrṇaṃ naptur dārān atikramet ।।

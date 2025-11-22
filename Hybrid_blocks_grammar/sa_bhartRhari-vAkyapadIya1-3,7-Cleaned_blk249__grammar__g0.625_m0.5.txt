@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 249 | label: grammar | g:0.625 m:0.5 ---
+
+padasyoccāraṇād artho yathā kaś cin nirūpyate varṇānām api sāṃnidhyāt tathā so arthaḥ pratīyate ।।

@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 1129 | label: meter | g:0.059 m:0.59 ---
+
+tathā hi-
+akṣibhyāṃ vaktra-bimbād bhuja-yuga-rucibhāṅ madhya-bhāgān nitambād
+ūrubhyāṃ jānu-yugmāt pada-sarasi-ruha-dvandvam āpur murāreḥ ।
+vrīḍā-namrāḥ sva-dṛgbhyām ahaha mṛga-dṛśas tad-viyuktau tu tat tat paścād
+dṛṣṭaṃ padaṃ tu pratipadam udabhūd antare lagnam āsām ।। [sragdharā]

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3144 | label: meter | g:0.25 m:0.5 ---
+
+api nas te bhaviṣyanti kule sanmārgaśīlinaḥ 
+gayām upetya ye piṇḍān dāsyanty asmākam ādarāt ।।

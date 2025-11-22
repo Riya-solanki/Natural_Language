@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3388 | label: meter | g:0.275 m:0.77 ---
+
+viṣṇuruvāca ।
+satyametanmahābhāge durdharo asmi surāsuraiḥ ।
+tathāpi saṃbhaviṣyāmi ahaṃ devyudare tava ।।

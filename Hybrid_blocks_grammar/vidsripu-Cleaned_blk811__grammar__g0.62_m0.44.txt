@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 811 | label: grammar | g:0.62 m:0.44 ---
+
+āpuṅkhāgram amī śarā manasi me magnāḥ samaṃ pañca te nirdagdhaṃ virahāgninā vapur idaṃ tair eva sārdhaṃ mama ।
+kaṣṭaṃ kāma nirāyudho asi bhavatā jetuṃ na śakyo jano duḥkhī syām aham eka eva sakalo lokaḥ sukhaṃ jīvatu ।।
+rājaśekharasya

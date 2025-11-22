@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 436 | label: grammar | g:0.568 m:0.5 ---
+
+ata uttaramucyate- syāccaikasyāpi saṃbhūtaśabdasya viṣayaviśeṣavaśādgauṇo mukhyasya prayogo brahmaśabdavat ।
+yathaikasyāpi brahmaśabdasya atapasā brahma vijijñāsasva, tapo brahma' ityasminnadhikāre annādiṣu gauṇaḥ prayoga ānande ca mukhyaḥ ।
+yathā ca tapasi brahmavijñānasādhane brahmaśabdo bhaktyā prayujyate añjasā tu vijñeye brahmaṇi tadvat ।
+kathaṃ punaranutpattau nabhasaḥ aekamevādvitīyam' itīyaṃ pratijñā samarthyate ।

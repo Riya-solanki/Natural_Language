@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 190 | label: meter | g:0.306 m:0.5 ---
+
+sakramatvaṃ ca laukikyāḥ kriyāyāḥ kālaśaktitaḥ ।
+ghaṭate na tu śāśvatyāḥ prābhavyāḥ syāt prabhor iva ।।

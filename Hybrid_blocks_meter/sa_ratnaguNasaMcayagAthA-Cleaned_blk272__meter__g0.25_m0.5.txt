@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 272 | label: meter | g:0.25 m:0.5 ---
+
+yāvanta śrāvakavihāra sapratyayānāṃ śāntā samādhipraśame sukhasaṃprayuktā 
+arhanvimokṣa sthapayitva tathāgatānāṃ sarveṣu agra ayu vihāru niruttaraśca ।।

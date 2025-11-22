@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 173 | label: grammar | g:0.55 m:0.417 ---
+
+ādigrahaṇād bhāvodayabhāvasaṃdhibhāvaśabalatvāni । pradhānatayā yatra sthito rasādistatrālaṅkāryaḥ yathodāhariṣyate । anyatra tu pradhāne vākyārthe yatrāṅgabhūto rasādistatra guṇībhūtavyaṅgye
+rasavatpreyaūrjasvisamāhitādayo alaṅkārāḥ । te ca guṇībhūtavyaṅgyābhidhāne udāhariṣyante ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2871 | label: meter | g:0.25 m:0.5 ---
+
+avakīrṇyāda yo ye ca ye cācāravivarjitāḥ ।
+avaiṣṇavāśca te sarve na śrāddhārhāḥ kadācana ।।

@@ -1,0 +1,8 @@
+--- source: brssgo1u-Cleaned.txt | block: 564 | label: hybrid | g:0.25 m:0.497 ---
+
+ākāśaṃ bhūtaṃ kṛtvā śaṅkate -syādetaditi ।
+cetanakartṛkaśikṣāyā atra śrutermaivamityāha-sā ceti ।
+sūtraṃ vyācaṣṭe-sā ceti ।
+cakāra ākāśasya bhūtatvanirāsārthaḥ ।
+bhūtākāśasya kāryantaḥpātinaḥ śrutasarvakāryāśrayatvāyogādavyākṛtamajñānamevākāśaḥ pradhānaśabdita iti tadāśrayatvāccākṣaraṃ na pradhānamityarthaḥ ।
+vidhṛtau viṣayatvena dhṛtau ।।

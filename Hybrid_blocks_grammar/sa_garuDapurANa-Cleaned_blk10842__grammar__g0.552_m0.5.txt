@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10842 | label: grammar | g:0.552 m:0.5 ---
+
+pādaśca pūrṇaḥ pādatalaṃ ca pūrṇaṃ nakhāśca pūrṇāḥ kaṭikaṇṭhau ca pūrṇau ।
+ūrū ca pūrṇe udaraṃ ca pūrṇaṃ labdhvāpi pūrṇāñjagṛhe tathāpyuraḥ ।।

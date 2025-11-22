@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8380 | label: meter | g:0.31 m:0.869 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+bagavanbrūhi me sarvaṃ yamalokasya nirṇayam ।
+jantoḥ prayāṇamārabhya māhātmyaṃ vartmavistaram ।।

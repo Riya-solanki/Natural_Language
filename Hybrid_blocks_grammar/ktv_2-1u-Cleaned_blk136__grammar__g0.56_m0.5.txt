@@ -1,0 +1,10 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 136 | label: grammar | g:0.56 m:0.5 ---
+
+odanaṃ pacati, grāmaṃ gacchati iti dhātvarthāpavargalabhyam ekaṃ karma, aparaṃ punar bhāvanākarma ।
+tatra kadācid dhātvarthakarmaiva bhāvanākarmatvam api pratipadyate pākenaudanaṃ bhāvayati iti ।
+kadācit punaḥ svakarmaviśiṣṭadhātvarthayuktā bhāvanā karmāntareṇa yujyate grāmagamanena svārthaṃ bhāvayati, odanapākena ceti ।
+tac caitad dhātvarthāt paratas tadavāpyamātratvena gamyamānaṃ dhātvarthāntatirohitam api bhāvanākarmatayā sarvatrāvadhāryate ।
+tac ca prāyeṇaivaṃkāmaśabdenaiva saṃbandham āpadyate sukhakāma āsīta, svāsthyakāmaḥ śayīta iti ।
+saty api āsiśetyor akarmakatve yaḥ pratyayena karotyartho abhihitaḥ, tatkarmatvena svādīny avadhāryante ।
+tena karoteḥ sarvadā sakarmakatvāt,
+akarmakākhyātānām api ca tatsāmānādhikaraṇyadarśanāt kiṃ karoti āste, kiṃ karoti śete itisiddhaivamādiṣv api sakarmikā bhāvanā ।

@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 91 | label: meter | g:0.155 m:0.558 ---
+
+atha upapatiḥ-
+laṅghitācārayā yas tu vināpi vidhinā striyā । 
+saṅketaṃ nīyate prokto budhair upapatis tu saḥ ।। athā-
+bhartā niḥśvasite' py asūyati mano-jighraḥ sapatnī-janaḥ
+śvaśrūr iṅgita-daivataṃ nayanayor ūhāliho yātaraḥ ।
+tad dūrād ayam añjaliḥ kim amunā dṛghaṅgi-pātena te
+vaidagdhī-racanā-prapañca-rasika vyartho' yam atra śramaḥ ।।

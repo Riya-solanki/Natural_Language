@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2698 | label: meter | g:0.25 m:0.625 ---
+
+bhavadbhiś caṇḍavarṣeṇa caratā mārutena ca 
+hatās tāḥ savrajā gāvas tyakṣyanti bhuvi jīvitam ।।

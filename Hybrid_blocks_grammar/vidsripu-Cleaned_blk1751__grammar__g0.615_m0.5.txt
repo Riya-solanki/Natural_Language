@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1751 | label: grammar | g:0.615 m:0.5 ---
+
+grāme asmin pathikāya naiva vasatiḥ pānthādhunā dīyate rātrāv atra vivāhamaṇḍapatale pānthaḥ prasupto yuvā ।
+tenodgīya khalena garjati ghane smṛtvā priyāṃ yat kṛtaṃ tenādyāpi karaṅkadaṇḍapatanāśaṅkī janas tiṣṭhati ।।

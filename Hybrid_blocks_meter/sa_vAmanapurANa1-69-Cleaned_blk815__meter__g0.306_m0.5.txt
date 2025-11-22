@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 815 | label: meter | g:0.306 m:0.5 ---
+
+saptārṇavāḥ sapta kulācalāśca saptarṣayo dvīpavarāśca sapta ।
+bhūrādi kṛtvā bhuvanāni sapta dadantu sarve mama suprabhātam ।।

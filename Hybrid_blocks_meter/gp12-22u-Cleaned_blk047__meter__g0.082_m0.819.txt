@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 47 | label: meter | g:0.082 m:0.819 ---
+
+udīrṇa-muralīkalaḥ sva-guṇa-gātṛ-gopāvṛtir
+balena sahitaḥ sphurad-vividha-mādhurī-vistṛtiḥ ।
+rasārdram aniśa-smitaṃ tad-atihārda-bhājāṃ gavāṃ
+hitaṃ svajana-cittavad vanam athāviśan mādhavaḥ ।। [pṛthvī]

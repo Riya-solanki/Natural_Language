@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2155 | label: meter | g:0.304 m:0.573 ---
+
+brahmovāca ।
+kathayiṣyāmi te sādhya yadi putratvamicchasi ।
+yasya kasya na vaktavyaṃ tatsatyaṃ nānyatheti hi ।।

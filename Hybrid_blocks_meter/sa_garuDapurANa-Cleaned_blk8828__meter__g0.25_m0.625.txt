@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8828 | label: meter | g:0.25 m:0.625 ---
+
+tasmai yadrocate deyamadattvā nirdhane kule ।
+svalpāyurnirdhano bhūtvā ratibhaktivivarjitaḥ ।।

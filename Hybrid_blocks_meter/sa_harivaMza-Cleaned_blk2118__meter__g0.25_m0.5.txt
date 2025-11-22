@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2118 | label: meter | g:0.25 m:0.5 ---
+
+mama tā hy akṣayā gāvo divyāḥ kāmadughā vibho 
+caranti sagārān sarvān rakṣitāḥ svena tejasā ।।

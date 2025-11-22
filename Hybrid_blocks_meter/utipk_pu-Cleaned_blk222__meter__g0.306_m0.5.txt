@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 222 | label: meter | g:0.306 m:0.5 ---
+
+idam etādṛgityevaṃ yad vaśād vyavatiṣṭhate ।
+vastu pramāṇaṃ tat so api svābhāso abhinavodayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2165 | label: meter | g:0.25 m:0.5 ---
+
+tasmān na vijñānam ṛte asti kiṃcit kvacit kadācid dvija vastujātam 
+vijñānam ekaṃ nijakarmabheda vibhinnacittair bahudhābhyupetam ।।

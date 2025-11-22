@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 829 | label: hybrid | g:0.465 m:0.5 ---
+
+[bahu-vallabhasya yā bhavati vallabhā katham api pañca-divasāni ।
+sā kiṃ ṣaṣṭhaṃ mṛgayate kuto mṛṣṭaṃ ca bahukaṃ ca ।।]

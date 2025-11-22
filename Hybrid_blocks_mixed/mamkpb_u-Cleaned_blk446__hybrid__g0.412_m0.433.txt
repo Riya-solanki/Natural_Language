@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 446 | label: hybrid | g:0.412 m:0.433 ---
+
+yenopāyena yat ekenopakalpitam tasyānyena jigīṣutayā tadupāyakameba yat anyathākaraṇam sa sādhitavastuvyāhatihetutvāt vyāghātaḥ ।
+udāharaṇam dṛśā dagdhaṃ manasijaṃ jīvayanti dṛśaiva yāḥ ।
+virūpākṣasya jayinīstāḥ stuve vāmalocanāḥ ।।

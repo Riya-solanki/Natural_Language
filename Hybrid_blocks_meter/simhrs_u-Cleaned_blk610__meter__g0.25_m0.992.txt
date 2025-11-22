@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 610 | label: meter | g:0.25 m:0.992 ---
+
+iṣṭa-nāśād, yathā-
+iṣṭa-nāśa-kṛte tv asmin bhasmādi-parilepanam ।
+nṛtya-gītādi-racanā tṛṇa-nirmālya-dhāraṇam । 
+cīvarāvaraṇādīni prāg-uktāś cāpi vikriyāḥ ।।

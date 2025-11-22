@@ -1,0 +1,9 @@
+--- source: brsvbh2u-Cleaned.txt | block: 222 | label: hybrid | g:0.327 m:0.425 ---
+
+asmākaṃ tu nāyaṃ samaya iti bhāvaḥ ।
+nanu kāruṇyādapi pravartamāno jano dṛśyate ।
+na ca kāruṇyaṃ doṣa ityata āhasvārthaprayukta eva ceti ।
+kāruṇye hi satyasya duḥkhaṃ bhavati tena tatprahāṇāya pravartata iti kāruṇikā api svārthaprayuktā eva pravartanta iti ।
+nanu svārthaprayukta eva pravartatāmevamapi ko doṣa ityata āhasvārthavatvādīśvarasyeti ।
+arthitvādityarthaḥ ।
+puruṣasya caudāsīnyābhyupagamānnavāstavī pravṛttiriti ।।

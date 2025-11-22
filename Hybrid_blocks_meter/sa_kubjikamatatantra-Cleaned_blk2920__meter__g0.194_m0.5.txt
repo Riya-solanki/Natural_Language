@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2920 | label: meter | g:0.194 m:0.5 ---
+
+taṃ ṣaṇḍaṃ kathitaṃ śāstre kṣetrāṇi kathayāmi te 
+kṣetraṃ nāma paraṃ śāntaṃ śarīraṃ tattvasaṃyutam ।।

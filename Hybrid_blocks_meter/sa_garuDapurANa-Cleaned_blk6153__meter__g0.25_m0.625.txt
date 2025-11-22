@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6153 | label: meter | g:0.25 m:0.625 ---
+
+ādeśā iḍbahimahi dhātutotha ṇijādivat ।
+nāmni prayujyamāne api prathamaḥ puruṣo bhavet ।।

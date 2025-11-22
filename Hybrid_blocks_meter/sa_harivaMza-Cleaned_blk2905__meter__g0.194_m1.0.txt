@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2905 | label: meter | g:0.194 m:1.0 ---
+
+bhavantaḥ sarvakāryajñāḥ sarvaśāstraviśāradāḥ 
+nyāyavṛttāntakuśalās trivargasya pravartakāḥ ।।

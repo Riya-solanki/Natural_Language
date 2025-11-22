@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8160 | label: meter | g:0.294 m:0.649 ---
+
+śrībhagavānuvāca ।
+pretānāṃ śṛṇu pakṣīndra yathā śrāddhantu tṛptidam ।
+devo yadapi jāto ayaṃ manuṣyaḥ karmayogataḥ ।।

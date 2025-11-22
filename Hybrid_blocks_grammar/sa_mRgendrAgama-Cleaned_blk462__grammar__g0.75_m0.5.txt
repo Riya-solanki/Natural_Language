@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 462 | label: grammar | g:0.75 m:0.5 ---
+
+deśika ityācāryaḥ। [mantravṛttiḥ] mantra evānanyaniṣṭhā vṛttiḥ yasya sa sādhakaḥ। śaivānāmeva deśikādīnāmiha lakṣaṇam। śāktādayastu te anyādṛśā eveti vijñāpayituṃ śaivapadopādānam। dvividhāstu te śaivāḥ। vratino [avratino api] vratavarjitāśca।

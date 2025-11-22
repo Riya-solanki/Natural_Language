@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2397 | label: meter | g:0.194 m:0.5 ---
+
+sudhāmānas tathā satyāḥ śivāś cāsan pratardanāḥ 
+vaśavartinaś ca pañcaite gaṇā dvādaśakāḥ smṛtāḥ ।।

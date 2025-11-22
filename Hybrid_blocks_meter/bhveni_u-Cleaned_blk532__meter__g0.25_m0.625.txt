@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 532 | label: meter | g:0.25 m:0.625 ---
+
+madviyogabhayāttātaḥ paralokamito gataḥ ।
+karomi virahaṃ tasya vatsalasya kathaṃ pituḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2087 | label: hybrid | g:0.521 m:0.5 ---
+
+dadāmi pūrvān bhavate varāṃstrīnanyaṃ caturthaṃ tu varaṃ vṛṇīṣva ।
+avaiṣi kiṃ na tvamidaṃ yathāhamīśo virantuṃ na manuṣyamāṃsāt ।।

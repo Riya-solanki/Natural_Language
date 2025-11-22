@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3246 | label: meter | g:0.25 m:0.5 ---
+
+etau hatvā gajendreṇa mallair vā svayam eva vā 
+purīṃ niryādavāṃ kṛtvā vicariṣyāmy ahaṃ sukhī ।।

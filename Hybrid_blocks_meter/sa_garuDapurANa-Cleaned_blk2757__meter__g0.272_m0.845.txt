@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2757 | label: meter | g:0.272 m:0.845 ---
+
+āharedvidhivaddārānagniṃ caivāvilambitaḥ ।
+hitā bharturdivaṃ gacchediha kīrtīravāpya ca ।।

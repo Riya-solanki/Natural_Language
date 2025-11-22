@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4935 | label: grammar | g:0.75 m:0.0 ---
+
+tasya tāṃ tarasā sarvāṃ bāṇavṛṣṭiṃ samudyatām 
+punaḥ saṃvārayām āsa keśavaḥ śatrusūdanaḥ ।। 
+keśavasya tu bāṇena vartamāne mahāhave ।। tasya śārṅgavinirmuktaiḥ śarair aśanisaṃnibhaiḥ । tilaśas tad rathaṃ cakre sāśvadhvajapatākinam ।। ciccheda kavacaṃ kāyān mukuṭaṃ ca mahāprabham । kārmukaṃ ca mahātejā hastāc cāpaṃ ca keśavaḥ ।। vivyādha cainam urasi nārācena smayann iva ।। sa marmābhihataḥ saṃkhye pramumohālpacetanaḥ ।। taṃ dṛṣṭvā mūrchitaṃ bāṇaṃ prahāraparipīḍitam । prāsādavaraśṛṅgastho nārado munipuṃgavaḥ ।। utthāyāpaśyata tadā kakṣāsphoṭanatatparaḥ । vādayāno nakhāṃś caiva diṣṭyā diṣṭyeti cābravīt ।। aho me saphalaṃ janma jīvitaṃ ca sujīvitam । dṛṣṭaṃ me yad idaṃ citraṃ dāmodaraparākramam ।। jaya bāṇaṃ mahābāho daiteyaṃ devapūjita । yad artham avatīrṇo asi tat karma saphalaṃ kuru ।। evaṃ stutvā tadā devaṃ bāṇaiḥ khaṃ dyotayañ śitaiḥ । itas tataḥ saṃpatadbhir nārado vyacarad raṇe ।। prāyudhyetāṃ dhvajau tatra tāv anyonyam abhidrutau । 
+yuddhaṃ cābhūd vāhanayor ubhayor devadaityayoḥ 
+garuḍasya ca saṃgrāme mayūrasya ca yudhyataḥ ।।

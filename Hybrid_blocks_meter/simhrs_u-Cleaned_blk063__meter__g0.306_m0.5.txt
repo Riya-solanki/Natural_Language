@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 63 | label: meter | g:0.306 m:0.5 ---
+
+uktair guṇaiś ca sakalair yuktaḥ syād uttamo netā । 
+madhyaḥ katipaya-hīno bahu-guṇa-hīno' dhamo nāma ।।
+netā caturvidho' sau dhīrodāttaś ca dhīra-lalitaś ca । 
+dhīra-praśānta-nāmā tataś ca dhīroddhataḥ khyātaḥ ।।

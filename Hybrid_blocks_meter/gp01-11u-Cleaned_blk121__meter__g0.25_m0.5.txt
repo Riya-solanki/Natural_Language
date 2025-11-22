@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 121 | label: meter | g:0.25 m:0.5 ---
+
+api sundaratāṃ prati tāḥ, sundaratāṃ kila vahanti gopālyaḥ ।
+yan nirdūṣaṇa-bhūṣaṇa-, bhūṣaṇa-kṛṣṇe vibhūṣaṇāyante ।। [udgītiḥ]

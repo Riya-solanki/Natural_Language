@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6189 | label: meter | g:0.25 m:0.5 ---
+
+vyañjanānto visargāntau dīrgho yuktaparo guruḥ ।
+sānusvāraśca pādānto vā ityukto dvimātrakaḥ ।।

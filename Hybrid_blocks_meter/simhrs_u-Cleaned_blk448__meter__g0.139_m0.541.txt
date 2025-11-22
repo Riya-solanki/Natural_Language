@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 448 | label: meter | g:0.139 m:0.541 ---
+
+yathā -
+hṛtvā śantanu-nandanasya turagān sūtaṃ kurūṇāṃ guroś
+chittvā droṇa-sutasya kārmuka-latāṃ kṛtvā visaṃjñaṃ kṛpam ।
+karṇasyāpi rathaṃ vidārya kaṇaśo vidrāvya cānyad balaṃ
+tvat-putro bhaya-vidravat-kurupateḥ panthānam anvety ayam ।।

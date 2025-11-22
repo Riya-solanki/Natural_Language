@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 792 | label: grammar | g:0.667 m:0.5 ---
+
+gamanam alasaṃ śūnyā dṛṣṭiḥ śarīram asauṣṭhavaṃ śvasitam adhikaṃ kiṃ tv etat syāt kim anyad ato atha vā ।
+bhramati bhuvane kandarpājñā vikāri ca yauvanaṃ lalitamadhurās te te bhāvāḥ kṣipanti ca dhīratām ।।

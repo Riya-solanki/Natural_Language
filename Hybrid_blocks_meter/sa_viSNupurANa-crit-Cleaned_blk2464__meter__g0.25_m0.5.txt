@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2464 | label: meter | g:0.25 m:0.5 ---
+
+haritā lohitā devās tathā sumanaso dvija 
+sukarmāṇaḥ supārāś ca daśakāḥ pañca vai gaṇāḥ ।।

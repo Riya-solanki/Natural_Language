@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 88 | label: grammar | g:0.625 m:0.5 ---
+
+-nanu sadvādinā toyātmanā marīcīnāmasattvaṃ cedaṅgīkriyeta tarhi siddhāntahāniriti cenna, marīcirūpameva toyarūpeṇāsat, tyayāvagāhitoyatvenāsanmarīcirūpaṃ satyatvānna bādhyetetyāśayaḥ ।

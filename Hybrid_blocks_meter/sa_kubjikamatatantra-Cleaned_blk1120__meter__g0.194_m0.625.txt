@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1120 | label: meter | g:0.194 m:0.625 ---
+
+śṛṅgātakākṛti hy evaṃ tatra pūjāṃ samārabhet 
+pūjayitvā vidhānena dravyaiḥ pañcanavādibhiḥ ।।

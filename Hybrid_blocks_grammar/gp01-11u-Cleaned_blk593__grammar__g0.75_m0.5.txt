@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 593 | label: grammar | g:0.75 m:0.5 ---
+
+[] athādarśayad yathā, tatra hi kuliśa-tulya-niṣṭhura-mahiṣṭha-kulya-kulākulā-ghanās tad-apaghanāḥ svīya-samājñayā vraja-jana-pṛthak-pṛthag-jana-vrajena jhaṭity eva kaṭhina-kuṭhārair vipāṭitāḥ, pracuratara-sthāna-sthāpitās tato' py ativitatāni nirbandhenendhanāni sandhāya sandagdhāś ceti ।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 752 | label: hybrid | g:0.455 m:0.5 ---
+
+bālena samam anyo' nyaṃ prābalyaṃ darśayann iva ।
+ūrdhvādho-bhāvam āsādya sarvā hāsayati sma saḥ ।। [anuṣṭubh]
+mātṝṇām agrato bāhū vikṣipan dhāvati sma saḥ ।
+darśayann iva tejaḥ svaṃ hasan pāte ruroda ca ।। [anuṣṭubh]

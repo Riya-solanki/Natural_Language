@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1077 | label: meter | g:0.328 m:0.595 ---
+
+priyabhujāntarapañjaraśāyikā jaladharastaniteṣv api kātarā ।
+sadahanād aśivāc ca śivārutāt katham iyaṃ na bibheti tapasvinī ।।

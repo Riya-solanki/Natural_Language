@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 881 | label: grammar | g:0.75 m:0.5 ---
+
+[] sa tūvāca-hanta, vibudhādhipenāpy abudhena bhavatā bhavatā duḥsādha-rādhaḥ so' yaṃ mahān evāparādhaḥ kṛtaḥ, yaṃ khalu sādhavaḥ sakṛd apy avadhārayantas tvām avadhīrayantaḥ sāvadhānāḥ śrotram apidadhate । tathāpi sṛṣṭi-vidhitsā-durvidhinā vidhinā mayā tad idam upadiśyate । pūrvaṃ tan-mahima-jijñāsayā dhārṣṭyam anuṣṭhitam astīti tan-mātra-kilbiṣa-viṣama-viṣama-viṣaha-mānena mayā durmāṇa-mayāgādha-bhavad-aparādha-kṣamāpaṇāya kṣamatā na labhyate ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 43 | label: meter | g:0.25 m:0.5 ---
+
+samīpaṃ prāpya mātuśca kathayāmāsa tāṃ giram ।
+ādityāśca yathā yuddhe dānavena parājitāḥ ।।

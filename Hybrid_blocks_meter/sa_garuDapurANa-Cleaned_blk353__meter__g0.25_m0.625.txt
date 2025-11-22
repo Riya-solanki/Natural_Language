@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 353 | label: meter | g:0.25 m:0.625 ---
+
+homakarṇaṇi caiteṣāṃ svāhāntamupakalpayet ।
+evaṃ japtvā vidhānena śatamaṣṭottaraṃ tathā ।।

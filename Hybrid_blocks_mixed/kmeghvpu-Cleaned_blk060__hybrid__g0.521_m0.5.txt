@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 60 | label: hybrid | g:0.521 m:0.5 ---
+
+hemāmbhojaprasavi salilaṃ mānasasyādadānaḥ kurvan kāmāt kṣaṇamukhapaṭaprītim airāvaṇasya ।
+dhunvan vātaiḥ sajalapṛṣataiḥ kalpavṛkṣāṃśukāni cchāyābhinnaḥ sphaṭikaviśadaṃ nirviśeḥ paravataṃ tam ।।

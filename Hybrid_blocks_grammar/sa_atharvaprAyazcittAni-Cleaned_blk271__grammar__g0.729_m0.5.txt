@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 271 | label: grammar | g:0.729 m:0.5 ---
+
+saṃsthitahomeṣu । tvam agne saprathā asi yena pathā vaivasvataḥ tvam agne vratapā asi iti madhyata opya saṃsrāvabhāgaiḥ saṃsthāpayet ।

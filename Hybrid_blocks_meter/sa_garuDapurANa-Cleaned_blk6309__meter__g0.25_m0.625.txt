@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6309 | label: meter | g:0.25 m:0.625 ---
+
+varjayeddantakāṣṭhantu tathaivārkasya vāsare ।
+abhāve danta kāṣṭhasya niṣiddhāyāṃ tathā tithau ।।

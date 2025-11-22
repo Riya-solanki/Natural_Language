@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4757 | label: meter | g:0.217 m:0.845 ---
+
+jvālāvalīḍhavadanaiḥ sarpabhogair viveṣṭitaḥ 
+abhītaḥ parvatākāraḥ prādyumnir abhavad raṇe ।।

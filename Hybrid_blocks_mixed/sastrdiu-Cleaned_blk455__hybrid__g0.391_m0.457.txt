@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 455 | label: hybrid | g:0.391 m:0.457 ---
+
+kena ca jñānena nāśaḥ, nātmajñānena, virodhābhāvāt ।
+niṣprapañcātmajñāneneticet, na, tatrātmajñānāṃśasyāvirodhāt ।
+niṣprapañcatvajñānaṃ vināśakamiti pāriśeṣyādāpannam- prapañcābhāvaśca niṣprapañcatvaṃ, na ca vidyamānaṃ prapañce tadabhāvajñānamutpattumarhati ।
+jñānena hyutpannena prapañco nāśayitavyaḥ prāk ca jñānātsadrūpa eva prapañcastisminsadrūpe avasthite kathaṃ tadabhāvaviṣayasya jñānasyotpattiḥ ।
+tatra jñānotpattau satyāṃ prapañcasya nāśaḥ, tadvināśe ca sati tadabhāvaviṣayajñānotpattiritītaretarāśrayatvam ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1096 | label: grammar | g:0.571 m:0.408 ---
+
+yan nīḍaprabhavo yad añjanarucir yat khecaro yad dvijas tena tvaṃ svajanaḥ kileti karaṭair yat tair upabrūyase ।
+tatrātīndriyamodimāṃsalarasodgāras tavaiṣa dhvanir doṣo abhūt kalakaṇṭhanāyaka nijas teṣāṃ svabhāvo hi sa ।।
+vallaṇasya

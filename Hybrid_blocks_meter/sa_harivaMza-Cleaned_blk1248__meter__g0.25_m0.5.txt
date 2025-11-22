@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1248 | label: meter | g:0.25 m:0.5 ---
+
+mahābhūtāni bhūtātmā yo dadhāra cakāra ca 
+śrīgarbhaḥ sa kathaṃ garbhe striyā bhūcarayā dhṛtaḥ ।।

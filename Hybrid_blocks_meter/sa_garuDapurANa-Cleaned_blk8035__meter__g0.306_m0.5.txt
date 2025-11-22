@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8035 | label: meter | g:0.306 m:0.5 ---
+
+tasya pīḍāṃ vapaṃ kurmo naiva śrāddhaṃ na tarpaṇam ।
+yasya gehe tadaṅgāttu māṃsañca rudhiraṃ kramāt ।।

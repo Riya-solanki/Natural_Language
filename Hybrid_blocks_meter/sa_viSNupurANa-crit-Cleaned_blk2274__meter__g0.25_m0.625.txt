@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2274 | label: meter | g:0.25 m:0.625 ---
+
+pumān strī gaur ayaṃ vājī kuñjaro vihagas taruḥ 
+deheṣu lokasaṃjñeyaṃ vijñeyā karmahetuṣu ।।

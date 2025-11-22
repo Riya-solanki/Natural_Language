@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 314 | label: grammar | g:0.75 m:0.5 ---
+
+tatastāṃ mālāṃ mahāmaṇḍale kṣepayedanena hṛdayena pratīccha vajra hoḥ ।। tato yatra patati so asya sidhyati । tatastāṃ mālāṃ gṛhya tasyaidha śirasi bandhayedanena hadayena oṃ pratigṛṇhatvamimaṃ satvaṃ mahābalaḥ ।। tayā bandhayā tena mahāsattvena pratīcchito bhavati, śīghraṃ cāsya sidhyati ।

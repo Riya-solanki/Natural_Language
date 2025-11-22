@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 542 | label: grammar | g:0.562 m:0.5 ---
+
+sākūtaṃ dayitena sā parijanābhyāśe samālokitā svākūtapratipādanāya rabhasād āśvāsayantī priyam ।
+vaidarbhākṣaragarbhiṇīṃ giram udīryānyāpadeśāc chiśuṃ prītyā karṣati cumbati tvarayati śliṣyaty asūyaty api ।।

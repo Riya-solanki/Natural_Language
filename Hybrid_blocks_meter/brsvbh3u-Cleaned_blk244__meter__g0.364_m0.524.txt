@@ -1,0 +1,4 @@
+--- source: brsvbh3u-Cleaned.txt | block: 244 | label: meter | g:0.364 m:0.524 ---
+
+iha siddhāntenopakramya pūrvapakṣayitvā siddhāntayati ।
+tatra

@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 539 | label: meter | g:0.25 m:0.5 ---
+
+eteṣāṃ deśikādīnāṃ pṛthakpṛthag vidhiniṣedhātmaka ācāro vidhīyate anuśāsyate।

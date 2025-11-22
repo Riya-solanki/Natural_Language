@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 590 | label: meter | g:0.194 m:0.5 ---
+
+kalāpām āsur etāsu kalāpāś ca kalāpināṃ ।
+smarārdha-candra-bāṇābhā yatraike bhānti conmukhāḥ ।। [anuṣṭubh]

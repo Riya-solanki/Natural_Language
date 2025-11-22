@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10150 | label: meter | g:0.272 m:0.778 ---
+
+ante ca vandane tasya kāraṇaṃ brūhi suvrata ।
+sūta uvāca ।
+viṣṇoranantaraṃ vyāsanamanaṃ mukhyameva hi ।।

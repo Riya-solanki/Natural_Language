@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 234 | label: grammar | g:0.625 m:0.5 ---
+
+ucyate - ataṃ kālaṃ vakṣyāmi' iti smṛtau kālapratijñānāt virodham āśaṅkya parihāra uktaḥ ।
+yadā punaḥ smṛtau api agnyādyā devatā eva ativāhikyo gṛhyante tadā na kaścit virodha iti ।।

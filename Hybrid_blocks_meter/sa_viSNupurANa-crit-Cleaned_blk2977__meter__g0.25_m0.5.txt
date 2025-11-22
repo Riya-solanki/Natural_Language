@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2977 | label: meter | g:0.25 m:0.5 ---
+
+nordhvaṃ na tiryag dūraṃ vā nirīkṣan paryaṭed budhaḥ 
+yugamātraṃ mahīpṛṣṭhaṃ naro gacched vilokayan ।।

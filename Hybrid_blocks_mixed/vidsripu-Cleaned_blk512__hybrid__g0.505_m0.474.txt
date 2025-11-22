@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 512 | label: hybrid | g:0.505 m:0.474 ---
+
+sā sundarīti taruṇīti tanūdarīti mugdheti mugdhavadaneti muhur muhur me ।
+kāntām ayaṃ virahiṇīm anurantukāmaḥ kāmāturo japati mantram ivāntarātmā ।।
+vīryamitrasya

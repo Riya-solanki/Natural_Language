@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 963 | label: grammar | g:0.688 m:0.5 ---
+
+vepante navavāricūrṇaśiśiraiḥ spṛṣṭāḥ kadambānilair bālā jālagavākṣapakṣavisṛtair yā ramyaharmyāśritāḥ । dhārāpātaviśīrṇapuṣparacanāḥ sāraṅgaparyākulās tā paṅkāṅkitamūkanūpuraravā rātrau vrajanty adhvanā ।।

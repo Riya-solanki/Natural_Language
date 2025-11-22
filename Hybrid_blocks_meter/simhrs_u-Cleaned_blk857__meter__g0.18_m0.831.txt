@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 857 | label: meter | g:0.18 m:0.831 ---
+
+avajñayā śatru-viṣaya-krodho, yathā-
+śruti-śikhara-niṣadyāvadya-māna-prabhāvaṃ
+paśupatim avamantuṃ ceṣṭate yasya buddhiḥ ।
+pralaya-śamana-daṇḍoccaṇḍam etasya so' haṃ
+śirasi caraṇam enaṃ pātayāmi tri-vāram ।।

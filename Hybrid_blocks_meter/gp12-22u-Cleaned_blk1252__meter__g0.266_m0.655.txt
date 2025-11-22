@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1252 | label: meter | g:0.266 m:0.655 ---
+
+dīkṣādy-agnīṣoma-paśvaṅga-homa-
+prāntaṃ vijñair yājñikānnaṃ na bhojyam ।
+sautrāmaṇyāṃ sarvadā neti viprās
+tābhyām anyatrāsti tad grāhyam eva ।। iti ।

@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 1123 | label: grammar | g:0.75 m:0.5 ---
+
+ityutthāya parasparakrodhādhikṣepaparuṣavākkalahaprastāvitaghorasaṃgrāmau vicitravibhramabhramitagadāparibhāsurabhujadaṇḍau maṇḍalairvicaritumārabdhau bhīmaduryodhanau । ahaṃ ca devena cakrapāṇinā devasakāśamanupreṣitaḥ । āha ca devo devakīnandanaḥ । aparyuṣitapratijñe ca mārutau pranaṣṭe kauravarāje mahānāsīnno viṣādaḥ । saṃprati punarbhīmasenenāsādite suyodhane niṣkaṇṭakībhūtaṃ bhuvanatalaṃ parikalayatu bhavān । abhyudayocitāścānavarataṃ pravartyantāṃ maṅgalasamārambhāḥ । kṛtaṃ saṃdehena ।

@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 260 | label: hybrid | g:0.542 m:0.5 ---
+
+asataḥ satsvabhāvatā viruddhā sataś ca siddhā । siddhasyaivāntarbāhyāntaḥkaraṇadvayīvedyatāpādanam īśvareṇotpādanam ।।

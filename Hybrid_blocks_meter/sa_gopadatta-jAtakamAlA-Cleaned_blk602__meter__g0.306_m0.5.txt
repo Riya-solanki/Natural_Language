@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 602 | label: meter | g:0.306 m:0.5 ---
+
+kṛpaṇāsu bavopabhogamātrāsv atha vā kaiva kathā vināśinīṣu ।
+niravadyasukhānubandhi ramyaṃ phalam āpnoti sanātanaṃ pradānāt ।।

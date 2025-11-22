@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4859 | label: meter | g:0.25 m:0.5 ---
+
+sakthyasthīni prapūryāntaḥ śleṣmaṇā stambhitena tat ।
+tadāsthi snāti tenorostathā śītānilena tu ।।

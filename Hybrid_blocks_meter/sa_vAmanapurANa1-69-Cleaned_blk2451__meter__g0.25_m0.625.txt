@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2451 | label: meter | g:0.25 m:0.625 ---
+
+yadā na śakitā stena saṃpramocayituṃ jaṭāḥ ।
+tadāvatīrṇaḥ śakuniḥ sahitaḥ paramarṣiṇā ।।

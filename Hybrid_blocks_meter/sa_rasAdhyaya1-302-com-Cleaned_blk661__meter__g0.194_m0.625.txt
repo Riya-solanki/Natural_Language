@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 661 | label: meter | g:0.194 m:0.625 ---
+
+kumpodaraṃ bhavedriktaṃ sattvaṃ galati kaṇṭhake 
+kumpaṃ bhaṅktvā śilāsattvaṃ grāhyaṃ yatnena dhīmatā ।।

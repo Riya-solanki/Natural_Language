@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 173 | label: grammar | g:0.524 m:0.232 ---
+
+asamastāni samāsavarjitāni manohārīṇi hṛdayāhlādakāni śrutiramyatvenārtharamaṇīyatvena ca yāni padāni suptiṅantāni teṣāṃ vinyāsaḥ saṃniveśavaicitryaṃ jīvitaṃ sarvasvaṃ yasya tattathoktaṃ mādhṛryaṃ nāma sukumāralakṣaṇasya mārgasya prathamaḥ pradhānabhūto guṇaḥ ।
+asamastaśabdo atra prācuryārthaḥ, na samāsābhāvaniyamārthaḥ ।
+udāharaṇaṃ yathā

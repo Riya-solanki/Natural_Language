@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2605 | label: meter | g:0.25 m:0.5 ---
+
+ghṛtācī tāṃ sambhyetya prāha citrāṅgadāṃ vacaḥ ।
+putri tyajasva śokaṃ tvaṃ māsaurdaśabhirātmajaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 22 | label: hybrid | g:0.306 m:0.453 ---
+
+ḥ saṃtāpitā ravikaraiḥ sutarāṃ pracaṇḍaiḥ ।
+kalyāṇamitravikalās tu vicāraśūnyā rāgātmakā iva narāḥ pramadāvilāsaiḥ ।।

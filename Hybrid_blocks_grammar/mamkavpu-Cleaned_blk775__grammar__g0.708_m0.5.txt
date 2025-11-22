@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 775 | label: grammar | g:0.708 m:0.5 ---
+
+atra paryāyasya । {mahībhṛtopatyavato api} iti yuktam । {atra satyapi putre kanyārūpe apyapatye sneho abhūt} iti kecitsamarthayante ।

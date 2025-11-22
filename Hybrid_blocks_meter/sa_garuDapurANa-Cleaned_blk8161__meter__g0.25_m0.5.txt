@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8161 | label: meter | g:0.25 m:0.5 ---
+
+tasyānnamamṛtaṃ bhūtvā devatve apyanuyāti ca ।
+gāndhavye bhogarūpeṇa paśutve ca tṛṇaṃ bhavet ।।

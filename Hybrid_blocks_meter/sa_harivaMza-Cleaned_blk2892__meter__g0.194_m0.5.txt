@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2892 | label: meter | g:0.194 m:0.5 ---
+
+sa copendro vṛṣaṃ hatvā kāntavaktro niśāmukhe 
+aravindābhanayanaḥ punar eva rarāja ha ।।

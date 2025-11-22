@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 652 | label: meter | g:0.322 m:0.718 ---
+
+saṅgaḥ kvāyaṃ vrajasthānāṃ mad-eka-prāṇatā-juṣām ।
+kva vā yadūnāṃ satrājic-chatadhanvādi-śālinām ।।
+athavā-

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 186 | label: hybrid | g:0.497 m:0.5 ---
+
+śūnyānimittapraṇidhiṃ caramāṇu dharmā na ca nirvṛtiṃ spṛśati no ca nimittacārī 
+yatha nāviko kuśala gacchati ārapāram ubhayānti asthitu na tiṣṭhati arṇavesmin ।।

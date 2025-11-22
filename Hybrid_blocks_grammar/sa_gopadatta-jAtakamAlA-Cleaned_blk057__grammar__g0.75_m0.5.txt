@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 57 | label: grammar | g:0.75 m:0.5 ---
+
+unmīlitā iva diśo daśa yasya dīptaiḥ kīrtyaṃśubhir ghanatamaḥpaṭalāvanaddhāḥ । tasmin pradoṣam upagacchati yas tapasvī svair eva karmabhir asau prahataḥ kṣatātmā ।।

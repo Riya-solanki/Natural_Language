@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 774 | label: meter | g:0.35 m:0.569 ---
+
+vyapadeśābhāvāt ।
+ko ayaṃ vyapadeśabhedaḥ ।
+te prakṛtāḥ prāṇāḥ śreṣṭhaṃ varjayitvāvaśiṣṭā ekādaśenjadriyāṇītyucyante ।
+śrutāvevaṃ vyapadeśadarśanāt ।
+aetasmājjāyate prāṇo manaḥ sarvendriyāṇi ca' iti hyevañjātīyakeṣu pradeśeṣu pṛthakprāṇo vyapadiśyate pṛthaktcendriyāṇi ।

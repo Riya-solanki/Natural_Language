@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1245 | label: meter | g:0.194 m:0.5 ---
+
+devamānuṣayor netā dyor bhuvaḥ prabhavo vibhuḥ 
+kimarthaṃ divvyam ātmānaṃ mānuṣye saṃnyayojayat ।।

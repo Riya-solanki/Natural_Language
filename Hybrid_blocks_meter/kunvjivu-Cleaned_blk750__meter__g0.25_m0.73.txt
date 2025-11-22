@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 750 | label: meter | g:0.25 m:0.73 ---
+
+caṅkammanti karīndā disāgaamaagandhahāriahiaā ।
+duḥkha baṇe ca kaiṇo bhaṇiivisamamahākaimagge ।।
+caṅkramyante karīndrā diggajamadagandhahāritahṛdayāḥ ।
+duḥkhaṃ vane ca kavayo bhaṇitiviṣamamahākavimārge ।।
+iti chāyā ।

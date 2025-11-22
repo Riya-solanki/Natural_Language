@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9127 | label: meter | g:0.25 m:0.5 ---
+
+manujānāṃ hitā tārkṣya ante vaitaraṇī smṛtā ।
+tayāvamatya pāpaughaṃ viṣṇulokaṃ sa gacchati ।।

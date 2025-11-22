@@ -1,0 +1,4 @@
+--- source: brsgor3u-Cleaned.txt | block: 167 | label: meter | g:0.25 m:0.845 ---
+
+vyāpteśca samañjasam ।
+sāmānādhikaraṇyaṃ viṣayīkṛtya saṃśayamāha-omityetaditi ।

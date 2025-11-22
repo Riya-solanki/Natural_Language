@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 804 | label: grammar | g:0.75 m:0.5 ---
+
+[] hasantī sā covāca-bhadraṃ bhadram, tadaiva vo bhadratvam anubhaviṣyāmaḥ iti । [] vastutas tu tasyāḥ komalatāyām avakalitāyāṃ, muhur ayam asmad-ālayaṃ valiṣyate iti vicāryaiva caryeyam amūbhir ācaryate sma ।

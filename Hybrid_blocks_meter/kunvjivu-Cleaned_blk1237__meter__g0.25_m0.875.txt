@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 1237 | label: meter | g:0.25 m:0.875 ---
+
+yatraikaphalasaṃpattisamudyukto api nāyakaḥ ।
+phalāntareṣvananteṣu tattulyapratipattiṣu ।।
+dhatte nimittatāṃ sphārayaśaḥ saṃbhārabhājanam ।
+svamāhātmyacamatkārāt sā parāpyasya vakratā ।।

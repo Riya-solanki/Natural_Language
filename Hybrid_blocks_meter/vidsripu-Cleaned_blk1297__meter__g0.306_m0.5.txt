@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1297 | label: meter | g:0.306 m:0.5 ---
+
+apekṣante na ca snehaṃ na pātraṃ na daśāntaram ।
+sadā lokahite saktā ratnadīpā ivottamāḥ ।।

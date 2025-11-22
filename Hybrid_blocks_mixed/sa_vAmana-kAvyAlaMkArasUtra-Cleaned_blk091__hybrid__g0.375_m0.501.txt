@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 91 | label: hybrid | g:0.375 m:0.501 ---
+
+।।
+na vṛttadoṣātpṛthagyatidpṣaḥ, vṛttasya yatyātmakatvāt ।।
+vṛttadoṣāt pṛthag yatidoṣo na vaktavyaḥ । vṛttasya yatyātmakatvāt ।।

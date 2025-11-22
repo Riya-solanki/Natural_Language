@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 463 | label: meter | g:0.25 m:0.5 ---
+
+na yajñāḥ saṃpravartante na tapasyanti tāpasāḥ 
+na ca dānādidharmeṣu manaś cakre tadā janaḥ ।।

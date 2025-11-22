@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1163 | label: grammar | g:0.594 m:0.5 ---
+
+yaḥ pūrvasphuṭadasthisampuṭamukhe dṛṣṭaḥ pravālāṅkuraḥ prāyaḥ sa dvidalādikakramavaśād ārabdhaśākhāsanaḥ ।
+snigdhaṃ pallavito ghanaṃ mukulitaḥ sphāracchaṭaṃ puṣpitaḥ sotkarṣaṃ phalito bhṛśaṃ ca vinataḥ ko apy eṣa cūtadrumaḥ ।।

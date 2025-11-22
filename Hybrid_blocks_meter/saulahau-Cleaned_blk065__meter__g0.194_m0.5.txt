@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 65 | label: meter | g:0.194 m:0.5 ---
+
+raṇe jitvā daityān apahṛta-śiras-traiḥ kavacibhir nivṛttaiś caṇḍāṃśu-tri-pura-hara-nirmālya-vi-mukhaiḥ
+viśākhedropedraiḥ śaśi-viśada-karpūra-śakalā vilīyante mātas tava vadana-tāmbūla-kabalāḥ ।।

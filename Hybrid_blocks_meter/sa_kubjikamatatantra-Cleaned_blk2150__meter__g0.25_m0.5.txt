@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2150 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ cāmnāyiko mārgaḥ sarvathā granthato arthataḥ 
+vetti siddhaḥ sa me tulyaḥ sāmānyas tatsamo na hi ।।

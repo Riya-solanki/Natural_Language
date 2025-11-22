@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 232 | label: hybrid | g:0.419 m:0.437 ---
+
+yoginaḥ prati ca ayam aharādikālaviniyogaḥ anāvṛttaye smaryate ।
+smārte ca ete yogasāṃkhye na śraute ।
+ato viṣayabhedāt pramāṇāviśeṣāt ca na asya smārtasya kālaviniyogasya śrauteṣu vijñāneṣu avatāraḥ ।

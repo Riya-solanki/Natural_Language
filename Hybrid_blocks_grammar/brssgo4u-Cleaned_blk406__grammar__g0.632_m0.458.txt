@@ -1,0 +1,7 @@
+--- source: brssgo4u-Cleaned.txt | block: 406 | label: grammar | g:0.632 m:0.458 ---
+
+vikārāvartyapi ca nityamuktaṃ pārameśvaraṃ rūpaṃ na kevalaṃ vikāramātragocaraṃ savitṛmaṇḍalādi adhiṣṭhānam ।
+tathā hi asya dvirūpāṃ sthitim āha āmnāyaḥ atāvānasya mahimā tato jyāyāṃśca puruṣaḥ ।
+pādo asya sarvā bhūtāni, tripādasyāmṛtaṃ divi' iti evamādiḥ ।
+na ca tat nirvikāraṃ rūpam itara ālambanāḥ prāpnuvanti iti śakyaṃ vaktum atatkratutvāt teṣām ।
+ataḥ ca yathā eva dvirūpe parameśvare nirguṇaṃ rūpam anavāpya saguṇa eva avatiṣṭhanta evaṃ saguṇaḥ api niravagraham aiśvaryam anavāpya sāvagraha eva avatiṣṭhanta iti draṣṭavyam ।।

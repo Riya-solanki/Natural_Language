@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1032 | label: meter | g:0.069 m:0.628 ---
+
+{manorāgastīvraṃ viṣamiva visarpatyavirataṃ
+pramāthī nirdhūmaṃ jvalati vidhutaḥ pāvaka iva ।
+hinasti pratyaṅgaṃ jvara iva garīyānita ito
+na māṃ trātuṃ tātaḥ prabhavati na cāmbā na bhavatī ।।}

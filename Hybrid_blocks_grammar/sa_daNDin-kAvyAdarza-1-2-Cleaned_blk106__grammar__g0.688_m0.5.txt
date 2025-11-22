@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 106 | label: grammar | g:0.688 m:0.5 ---
+
+tadastatandrair aniśaṃ sarasvatī śramād upāsyā khalu kīrtim īpsubhiḥ kṛśe kavitve api janāḥ kṛtaśramā vidagdhagoṣṭhīṣu vihartum īśate ।।

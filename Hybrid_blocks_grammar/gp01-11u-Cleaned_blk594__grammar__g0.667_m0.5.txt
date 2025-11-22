@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 594 | label: grammar | g:0.667 m:0.5 ---
+
+[] tad evaṃ tad-vraja-bahir-dhāma-pāmara-carmakārādi-karmākāra-gaṇānām api gaṇanā śakti-samatiriktatā ca na vyaktīkartuṃ śakyate, kim uta gopādīnām iti ।

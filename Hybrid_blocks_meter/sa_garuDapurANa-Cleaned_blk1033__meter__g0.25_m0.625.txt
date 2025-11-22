@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1033 | label: meter | g:0.25 m:0.625 ---
+
+āvāhanaṃ sthāpanaṃ sannidhānaṃ ca śaṅkara ।
+sannirodhaṃ tathā kuryātsakalīkaraṇaṃ tathā ।।

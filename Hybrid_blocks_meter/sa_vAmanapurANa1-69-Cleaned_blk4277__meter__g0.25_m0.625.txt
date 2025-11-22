@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4277 | label: meter | g:0.25 m:0.625 ---
+
+mūḍha bhāvatayā cātha jātaḥ pāparato asmbhaham ।
+paradāraparārtheṣu matirme ca sadābhavat ।।

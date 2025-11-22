@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3561 | label: grammar | g:0.583 m:0.5 ---
+
+tena krodhāśritenāmbhasā dagdhacchāyau tatpādau kalmāṣatām upagatau । tataḥ sa kalmāṣapādasaṃjñām avāpa ।।

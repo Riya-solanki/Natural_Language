@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 866 | label: meter | g:0.194 m:0.625 ---
+
+ekasmin yatra nidhanaṃ prāpite duṣṭacāriṇi 
+bahūnāṃ bhavati kṣemaṃ tasya puṇyaprado vadhaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3525 | label: meter | g:0.194 m:0.625 ---
+
+te śūrasenān āviśya prabhūtayavasendhanān 
+ūṣuḥ saṃrudhya mathurāṃ parikṣipya balais tadā ।।

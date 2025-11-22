@@ -1,0 +1,41 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2294 | label: grammar | g:0.5 m:0.179 ---
+
+tayoḥ kathayator evam abruvaṃs tatra dārakāḥ 
+anena śiśunā yānam etat pādena pātitam 
+asmābhiḥ saṃpatadbhis tu dṛṣṭam etad yadṛcchayā ।। 
+nandagopas tu tac chrutvā vismayaṃ paramaṃ yayau । prahṛṣṭaś caiva bhītaś ca kim etad iti cintayan । na ca te śraddadhur gopāḥ sarve mānuṣabuddhayaḥ । 
+āścaryam iti te sarve vismayotphullalocanāḥ 
+svasthāne śakaṭaṃ caiva cakrabandham akārayan ।। 
+nando aṅkam enam āropya bhūreṇuṃ parigṛhya ca । pradakṣiṇaṃ śiraḥ kurvan mantram etaj jajāpa ha । viṣṇus te pūrvataḥ pātu rudro rakṣatu dakṣiṇam । brahmā ca paścimaṃ pāyāt skando rakṣatv athottaram । upariṣṭāt tathā sūryaḥ pāyāc cādhaś ca vāsukiḥ । pāyāc ca tvām atho vatsa śiṣṭāḥ kāṣṭhāḥ samīraṇaḥ । svastiṃ karotu bhagavān pinākī vṛṣabhadhvajaḥ । gāvo rakṣantu sarvatra bhūmiḥ pātu sadāśivaḥ । evam uccārya nandas tu kṛṣṇaṃ pasparśa sarvaśaḥ । sa eva mantro bālānāṃ rakṣāyai parikīrtitaḥ । kasyacit tv atha kālasya sakunīveṣadhāriṇī । 
+dhātrī kaṃsasya bhojasya pūtaneti pariśrutā 
+pūtanā nāma śakunī thorā prāṇabhayaṃkarī । 
+ājagāmārdharātre vai pakṣau krodhād vidhunvatī । 
+tasmai stanaṃ durjaravīryam ulbaṇaṃ ।
+ghorāṅkam ādāya śiśor dadāv atha ।
+gāḍhaṃ karābhyāṃ bhagavān prapīḍya ।
+prāṇaiḥ samaṃ roṣasamanvito apibat ।।
+sā muñca muñca bālam iti prabhāṣiṇī ।
+niṣpīḍyamānākhilajīvamarmaṇi ।
+vivṛtya netre caraṇau bhujau muhur ।
+viklinnagātrā kṣipatī ruroda ha ।।
+tasyāḥ svanenātigabhīraraṃhasā ।
+sādrir mahī dyauś ca cacāla sagrahā ।
+rasā diśaś ca pratinedire janāḥ ।
+petuḥ kṣitau vajranipātaśaṅkayā ।।
+niśācarītthaṃ vyathitastanā vyasur ।
+vistārya keśāṃś caraṇau bhujāv api ।
+prasārya goṣṭhe nijarūpam āśritā ।
+vajrāhato vṛtra ivāpatan nṛpa ।।
+patamāno api taddehas trigavyūtyantaradrumān । 
+cūrṇayām āsa rājendra mahad āsīt tad adbhutam ।। 
+īṣāmātrogradaṃṣṭrāsyaṃ girikandaranāsikam । 
+gaṇḍaśailastanaṃ raudraṃ prakīrṇāruṇamūrdhajam । 
+andhakūpagabhīrākṣaṃ pulinārohabhīṣaṇam । 
+baddhasetubhujorvaṅghri śūnyatoyahradodaram । 
+bālaṃ ca tasyā urasi krīḍantam akutobhayam । 
+gopyas tūrṇaṃ samabhyetya jagṛhur jātasaṃbhramāḥ ।। 
+yaśodārohiṇībhyāṃ tāḥ samaṃ bālasya sarvataḥ । 
+rakṣām vidadhire samyag gopucchabhramaṇādibhiḥ ।। 
+gomūtreṇa snāpayitvā punar gorajasārbhakam । 
+rakṣāṃ cakruś ca śakṛtā dvādaśāṅgeṣu nāmabhiḥ । 
+tato ardharātrasamaye śakuniḥ pratyadṛśyata ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11597 | label: meter | g:0.306 m:0.5 ---
+
+gururvasiṣṭhaḥ kraturaṅgirāśca manuḥ pulastyaḥ pulahaśca gautamaḥ ।
+raibhyo marīciścyavanaśca dakṣaḥ kurvantu sarve mama suprabhātam ।।

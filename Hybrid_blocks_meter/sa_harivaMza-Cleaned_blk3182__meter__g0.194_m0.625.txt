@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3182 | label: meter | g:0.194 m:0.625 ---
+
+talenāśanikalpena sa taṃ mūrdhany atāḍayat 
+gatāsuḥ sa papātorvyāṃ rajako vyastamastakaḥ ।।

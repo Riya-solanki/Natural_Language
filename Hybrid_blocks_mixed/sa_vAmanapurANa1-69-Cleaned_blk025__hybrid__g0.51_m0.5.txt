@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 25 | label: hybrid | g:0.51 m:0.5 ---
+
+nīlaiśca meghaiśca samāvṛtaṃ nabhaḥ puṣṣaiśca sarjjā mukulaiśca nīpāḥ ।
+phalaiśca bilvāḥ payasā tathāpagāḥ patraiḥ sapadmaiśca mahāsarāṃsi ।।

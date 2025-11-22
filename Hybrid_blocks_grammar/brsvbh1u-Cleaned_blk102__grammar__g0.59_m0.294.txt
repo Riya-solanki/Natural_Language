@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 102 | label: grammar | g:0.59 m:0.294 ---
+
+-ayaṃ bhāvaḥ-idaṃ rajatamityatra rajatānuyogikaṃ idantvapratiyogikaṃ tādātmyaṃ bhāsate ।
+nedaṃ rajatamityukte tadeva bādhitaṃ bhavati, apratiyogyabhāvānvayau tulyayogakṣenau'iti niyamāt ।
+naño asamabhivyāhāre yaddharmāvacchinne yatsaṃbandhāvacchinnayaddharmāvacchinnavattnaṃ nañsamabhivyāhāre taddharmāvacchinne tatsaṃbandhāvacchinnataddharmāvacchinnapratiyogitākastādabhāvaḥ pratīyate ityarthaḥ, tasmānnedaṃ rajatamityatra raḍate bhāsamānā idantaiva bādhitā bhavenna punā rajatamapīti ।
+tathā caitanmate ahaṃ rajatamiti pratyayaḥ prameti bhāvaḥ ।

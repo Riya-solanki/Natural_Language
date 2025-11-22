@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 70 | label: meter | g:0.29 m:0.659 ---
+
+dṛḍha-vratatvaṃ, yathā-
+tam aśakyam apākraṣṭuṃ nideśāt svargiṇaḥ pituḥ ।
+yayāce pāduke paścāt kartuṃ rājyādhidevate ।।

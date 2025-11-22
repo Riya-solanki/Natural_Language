@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4835 | label: meter | g:0.25 m:0.625 ---
+
+pārśvayorvedanāṃ bāhyāṃ hanupṛṣṭhasirograham ।
+dehasya bahirāyāmaṃ pṛṣṭhato hṛdaye śiraḥ ।।

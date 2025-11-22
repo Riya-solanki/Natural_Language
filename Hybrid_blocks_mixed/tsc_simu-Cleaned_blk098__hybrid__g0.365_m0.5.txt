@@ -1,0 +1,7 @@
+--- source: tsc_simu-Cleaned.txt | block: 98 | label: hybrid | g:0.365 m:0.5 ---
+
+iti gītāvākyaiśca vivekajñānasyaiva mokṣahetutvamucyate ato vivekajñānameva sākṣādavidyānivṛttyā mokṣahetuḥ ।
+yogena kevalatmasākṣātkārastu yogyānupalabdhividhayopādhyādigatadharmābhāvamupādhyādibhedaṃ ca grāhayati tato avidyānivṛttiriti ।
+etena sarvabhūteṣu samatājñānam ātmanaḥ sarvātmakatvādijñānaṃ ca śrutismṛtyorgīyamānaṃ vivekajñānasyaiva śeṣabhūtaṃ sarvadarśaneṣu mantavyam ।
+jñānāntarāṇāṃ sākṣādabhimānānivartakatvāt brahmamīmāṃsāyāṃ tvayaṃ viśeṣo yatparamātmavivekaśeṣatvam ।
+sāṃkhyaśāstre tu sāmānyātmavivekaśeṣatvamiti dik ।।

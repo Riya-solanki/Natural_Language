@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 359 | label: grammar | g:0.729 m:0.5 ---
+
+bhedaḥ svabhāvānāṃ ṣoḍaśa bhedā bhavanti । tatra sarvajñatāyāḥ svabhāvāḥ catvāraḥ, mārgajñatāyāḥ, svabhāvāḥ pañca, sarvākārajñatāyāḥ svabhāvāḥ sapteti ṣoḍaśa bhavanti ।

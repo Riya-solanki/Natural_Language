@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 438 | label: meter | g:0.25 m:0.652 ---
+
+adhyāsitaścāsau taruścādhyāsitataruḥ iti ।।
+tena viparyayo vyākhyātaḥ ।।
+bahuvrīhirapi akrmadhārayapratipattikaro na prayoktavyaḥ । yathā

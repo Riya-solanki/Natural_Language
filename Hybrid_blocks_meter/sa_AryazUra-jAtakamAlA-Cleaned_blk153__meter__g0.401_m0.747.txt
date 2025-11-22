@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 153 | label: meter | g:0.401 m:0.747 ---
+
+samantamapyetadamātyamaṇḍalaṃ kutūhalāghūrṇitalolamānasam ।
+puraṃ ca sāntaḥpuramatra tena me niśamyatāṃ yena mayaivamucyate ।।

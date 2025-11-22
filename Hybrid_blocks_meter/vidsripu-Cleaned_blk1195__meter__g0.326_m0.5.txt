@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1195 | label: meter | g:0.326 m:0.5 ---
+
+alīnāṃ mālābhir viracitajaṭābhāramahimā parāgaiḥ puṣpāṇām uparacitabhasmavyatikaraḥ ।
+vanānām ābhoge kusumavati puṣpoccayaparo marun mandaṃ mandaṃ vicarati parivrājaka iva ।।

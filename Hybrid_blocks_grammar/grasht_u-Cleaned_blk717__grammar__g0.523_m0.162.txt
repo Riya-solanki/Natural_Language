@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 717 | label: grammar | g:0.523 m:0.162 ---
+
+vidhinā grāsajārito raso guṇavānityāha athetyādi ।।
+atha drutiyogānantaraṃ rasaḥ sūtaḥ pūrvoktagrāsakramāt yojitakavalakramāt vidhivat śāstroktavidhānena biḍādinā jarate ca punaretāḥ pūrvoktadrutayo rasarājaphaladā bhavanti sūte prayuktāḥ phaladāḥ syurityarthaḥ ।।

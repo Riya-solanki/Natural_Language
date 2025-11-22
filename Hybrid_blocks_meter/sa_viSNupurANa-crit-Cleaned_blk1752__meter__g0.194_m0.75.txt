@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1752 | label: meter | g:0.194 m:0.75 ---
+
+śākas tatra mahāvṛkṣaḥ siddhagandharvasevitaḥ 
+yatpatravātasaṃsparśād āhlādo jāyate paraḥ ।।

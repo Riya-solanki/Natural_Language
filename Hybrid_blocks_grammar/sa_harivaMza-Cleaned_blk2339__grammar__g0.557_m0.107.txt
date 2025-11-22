@@ -1,0 +1,17 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2339 | label: grammar | g:0.557 m:0.107 ---
+
+aravindakṛtāpīḍau rajjuyajñopavītinau 
+saśikyatumbakarakau gopaveṇaupravādakau ।। 
+parṇavādyasamāyuktau dadhyodanakarau kṛtī । kiṃkiṇījālasaṃbaddhakaṭideśavibhūṣitau ।। kakṣakūṭasamālambiśikyasthadhṛtapāyasau । kālayantau ca daṇḍena vatsān vatsau diśaṃ prati ।। gulmeṣu madhumādhvīkaṃ mārgamāṇāvitas tataḥ । khādantau vanyamūlāni pibantau madhumākṣikam ।। dadatau madhumūlāni dārakebhyaḥ samantataḥ । khādantau khādayantau ca mūlāni ca phalāni ca ।। tindukaṃ bhakṣayantu ca gopair āpatya bhūtale । kīlair āpatya vṛkṣebhyaḥ khādayantu phalāni ca । 
+kvacid dhasantāv anyonyaṃ krīḍamānau kvacit kvacit 
+dadhyodanaṃ prabhuñjānau kvacit kakṣavilambitam । 
+kvacic ca pānasaṃbhrāntau kvacit pāyasamoditau । 
+kvacid vṛkṣeṣu viśrāntau sthalīṣv iva yathāsukham । 
+parṇaśayyāsu saṃsuptau kvacin nidrāntaraiṣiṇau ।। 
+vatsān anu yathākāmaṃ carantau vatsapālakau । vatsapucchān samādhūya vikṣiptantau pṛthak pṛthak । 
+evaṃ vatsān pālayantau śobhayantau mahāvanam 
+evaṃ tu vatsapālau tau śobhayām āsatur vanam । 
+cañcūryantau ramantau sma kiśorāv iva cañcalau ।। 
+gāyantu ca kvacid geyān susvaraṃ madhurasvaram । utkarṇaṃ mṛgasaṃghaṃ ca kurvantau gītanisvanaiḥ ।। gajān paravaśān geyaiḥ kurvantau ca gahāvane । lokam itthaṃ carantau ca ramayantau ca ceṣṭitaiḥ । 
+atha dāmodaraḥ śrīmān saṃkarṣaṇam uvāca ha 
+ārya nāsmin vane śakyaṃ gopālaiḥ saha krīḍitum ।।

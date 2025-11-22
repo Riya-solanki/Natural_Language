@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 858 | label: meter | g:0.25 m:0.625 ---
+
+ityuktvā tāstadā taṃ vai jagṛhuḥ pāṇipallavaiḥ ।
+kācit kaṇṭhe sakandarpā bāhubhyāmaparāstathā ।।

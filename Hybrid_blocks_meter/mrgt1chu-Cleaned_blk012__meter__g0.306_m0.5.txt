@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 12 | label: meter | g:0.306 m:0.5 ---
+
+vede asti saṃhitā raudrī vācyā rudraś ca devatā ।
+sāṃnidhyakaraṇe apy asmin vihitaḥ kālpiko vidhiḥ ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 780 | label: meter | g:0.099 m:0.921 ---
+
+ghaḍad-ghaḍad iti dhvana-daghana-ghaṭābhisaṅghaṭṭanaiḥ
+kaṭhora-kuṭha-kuṭṭakaiḥ kuṭila-vāyubhiḥ kuṇṭhite ।
+prakoṣṭha-kuṭa-kuṭṭimā-vaṭa-taṭādi-maty ujjhite
+jane prakaṭam āṭa sā prathita-dhṛṣṭi-vṛṣṭi-prathā ।। [pṛthvī]

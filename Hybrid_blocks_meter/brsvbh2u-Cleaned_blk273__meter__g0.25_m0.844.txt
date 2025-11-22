@@ -1,0 +1,7 @@
+--- source: brsvbh2u-Cleaned.txt | block: 273 | label: meter | g:0.25 m:0.844 ---
+
+na tu jīvajanmajapāpakṣayārtham ।
+ata eva smaranti aevamenaḥ śamaṃ yāti bījagarbhasamudbhavam'iti ।
+tasmānna śarīrotpattivināśābhyāṃ jīvajanmavināśāviti siddham ।
+etacca laukikavyapadeśasyābhrāntimūlatvamabhyupetyādhikaraṇam ।
+uktā tvadhyāsabhāṣye asya bhrāntimūlateti ।।

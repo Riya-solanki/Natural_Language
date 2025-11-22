@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5506 | label: meter | g:0.25 m:0.5 ---
+
+vācyaś ca pauṇḍrako gatvā tvayā dūta vaco mama 
+jñātas tvadvākyasadbhāvo yat kāryaṃ tad vidhīyatām ।।

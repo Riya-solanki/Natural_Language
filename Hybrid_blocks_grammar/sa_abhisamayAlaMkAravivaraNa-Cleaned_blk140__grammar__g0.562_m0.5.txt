@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 140 | label: grammar | g:0.562 m:0.5 ---
+
+avadhiḥ darśanamārgamārabhya buddhabhūmiparyantamasya sīmā bhavati । keṣāṃcana matena mahāyānasambhāramārgamārabhya buddhabhūmiparyantamavadhiriti ।

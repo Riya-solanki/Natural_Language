@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 732 | label: grammar | g:0.744 m:0.357 ---
+
+tataḥ śītalībhūte punaranyāsāṃ vaḍavāikānāṃ piṇḍamadhye tameva hīrakaṃ kṣiptvā tathaiva jvālayitvā hīrako grāhyaḥ ।
+evaṃ navavāraṃ navanavābhir vaḍavāikābhiḥ sa eva pacanīyaḥ rājabadaryāḥ kisalayarūpāṃ komalāṃ śākhāmānīya tasyāṃ chidraṃ kṛtvā nesahiṅguṃ tatrādha ūrdhvaṃ ca dattvā chidramadhye tameva hīrakaṃ kṣiptvā vastramṛttikayā nicchādya pūrvaṃ chāṇakapūrṇagartāyāṃ pacet ।। v

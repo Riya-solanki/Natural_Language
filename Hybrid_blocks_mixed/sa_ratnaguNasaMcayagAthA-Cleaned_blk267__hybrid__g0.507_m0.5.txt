@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 267 | label: hybrid | g:0.507 m:0.5 ---
+
+yāvanti gaṅganadivālisame hi kṣetre sattvā ta sarvi parikalpa bhaveyu mārāḥ 
+ekaika roma puna tāntaka nirmiṇeyyā sarve na śakya karaṇe vidu antarāyam ।।

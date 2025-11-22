@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 327 | label: hybrid | g:0.369 m:0.5 ---
+
+api ca jagatkāraṇaṃ prakṛtya svapitītyasya niruktaṃ karvitī śrutiścetanameva jagatkāraṇaṃ brūte ।
+yadi svaśabda ātmavacanastathāpi cetanasya puruṣasyācetanapradhānatvānupapattiḥ ।
+athātmīyavacanasthathāpyacetane puruṣārthatayātmīye api cetanasya pralayānupapattiḥ ।
+nahi mṛdātmā ghaṭa ātmīye api pāthasi pralīyate api tvātmabhūtāyāṃ mṛdyeva ।
+naca gajatamanātmabhūte hastini pralīyate, kintvātmabhūtāyāṃ śuktāvevetyāha- svāpyayāt ।।

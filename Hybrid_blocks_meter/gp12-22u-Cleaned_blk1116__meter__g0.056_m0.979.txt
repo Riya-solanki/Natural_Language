@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1116 | label: meter | g:0.056 m:0.979 ---
+
+prātikūlya-vacanaṃ ca sauhṛdād
+ānukūlyam abhigamya śarmadam ।
+paśya vastra-haraṇādinā hariḥ
+pratyuta pramadayām babhūva tāḥ ।। [rathoddhatā]

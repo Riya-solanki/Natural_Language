@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3353 | label: meter | g:0.194 m:0.625 ---
+
+samājavāṭo nirmallaḥ so abhavad bhīmadarśanaḥ 
+andhre tadā mahāmalle muṣṭike ca nipātite ।।

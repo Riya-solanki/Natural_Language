@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3863 | label: grammar | g:0.75 m:0.5 ---
+
+yayāteś caturthasyaputrasyānoḥ sabhānaracakṣuparamekṣusaṃjñās trayaḥ putrā babhūvuḥ । sabhānaraputraḥ kālānaraḥ kālānarāt sṛñjayaḥ sṛñjayāt puraṃjayaḥ । tasmāj janamejayas tato mahāśālas tasmāc ca mahāmanāḥ । tasmād apy uśīnaratitikṣū dvau putrāv utpannau । uśīnarasyāpi śibinṛganarakṛmidarvākhyāḥ pañca putrā babhūvuḥ । vṛṣadarbhasuvīrakaikeyamadrakāś catvāraḥ śibiputrāḥ । titikṣor api ruśadrathaḥ putro abhūt । tato api hemo hemāt sutapās tasmād baliḥ । yasya kṣetre dīrghatamasā aṅgavaṅgakaliṅgasuhyapauṇḍrākhyaṃ bāleyaṃ kṣatram ajanyata ।।

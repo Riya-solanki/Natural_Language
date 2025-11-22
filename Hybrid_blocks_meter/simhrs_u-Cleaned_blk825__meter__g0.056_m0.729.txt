@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 825 | label: meter | g:0.056 m:0.729 ---
+
+yaḥ kaumāra-haraḥ sa eva hi varas tā eva caitra-kṣapās
+te conmīlita-mālatī-surabhayaḥ prauḍhāḥ kadambānilāḥ
+sā caivāsmi tathāpi tatra surata-vyāpāra-līlā-vidhau
+revā-rodhasi vetasī-taru-tale cetaḥ samutkaṇṭhate ।।

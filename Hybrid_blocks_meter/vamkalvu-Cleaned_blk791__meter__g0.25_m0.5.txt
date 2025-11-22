@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 791 | label: meter | g:0.25 m:0.5 ---
+
+bhūṣyante pramadavanāni bālapuṣpaiḥ, kāminyo madhumadamāṃsalairvilāsaiḥ ।
+brahmāṇaḥ śrutigaditaiḥ kriyākalāpai, rājāno viralitavairibhiḥ pratāpaiḥ ।।

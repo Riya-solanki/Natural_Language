@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4923 | label: meter | g:0.194 m:0.625 ---
+
+evam ājñāpayānaṃ tu prahasya madhusūdanaḥ 
+utplutyāruhya taṃ mañcaṃ kaṃsaṃ jagrāha vegataḥ ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 45 | label: meter | g:0.056 m:0.5 ---
+
+na tad vanaṃ yan na vihāra-maṅgalaṃ
+nāyaṃ vihāraḥ śubha-gīta-bhṛn na yaḥ ।
+gītaṃ na tad yan na hi vaṃśīkākṛtaṃ
+vaṃśī na sā kṛṣṇa-mukhānugā na yā ।। [upajāti ]

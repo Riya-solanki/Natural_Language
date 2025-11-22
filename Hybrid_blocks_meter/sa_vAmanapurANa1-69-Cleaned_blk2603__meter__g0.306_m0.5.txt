@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2603 | label: meter | g:0.306 m:0.5 ---
+
+bhāvyasya naiva nāśo asti nanmā tyākṣīḥ kalevaram ।
+bhaviṣyati pitā tubhyaṃ bhuyayo apyamaravarddhakiḥ ।।

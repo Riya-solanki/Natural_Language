@@ -1,0 +1,3 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 129 | label: grammar | g:0.646 m:0.5 ---
+
+nāmayo nāśuciḥ kāye kṣuttṛṣṇāsaṃbhavau na ca । tvayā lokānuvṛttyarthaṃ darśitā laukikī kriyā ।। iti ।

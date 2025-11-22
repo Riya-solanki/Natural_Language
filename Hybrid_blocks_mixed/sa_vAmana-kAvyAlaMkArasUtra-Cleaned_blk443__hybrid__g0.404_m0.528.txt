@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 443 | label: hybrid | g:0.404 m:0.528 ---
+
+kruddhasya tasyātha purāmarāterlalāṭapaṭṭādudagādudaiciḥ । girestaḍitvāniva tāvaduccakairjavena pīṭhādudatiṣṭhadacyutaḥ ।
+ityādayo vyākhyātāḥ ।।sarvanāmnānusaṃdhirvṛtticchannasya ।।
+sarvanāmnānusandhiranusandhānaṃ pratyavamarśaḥ । vṛtticchannasya vṛttau samāse channasya guṇībhūtasya । yathā

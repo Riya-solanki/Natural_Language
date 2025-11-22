@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 221 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa mahātmā kṛtakaraṇīyaḥ kṣaṇam apy avasthāṃ tāṃ parityajya sabahumānaḥ kevalaṃ teṣām upāsakānāṃ kṛtajñatām anurakṣan paryaṅkaṃ gaganatale baddhvā taiḥ sabahumānam udīkṣyamāṇo vistareṇa tebhyo yathāvṛttaṃ vyāhṛtya punar api tān ābabhāṣe ।

@@ -1,0 +1,3 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 42 | label: grammar | g:0.75 m:0.5 ---
+
+siddhāntavādī tubhavater ṇijantāt er ac ity acpratyaye kṛte bhāvanāvicinaṃ bhāvaśabdaṃ vyutpādya, ākhyātasya cānvayavyatirekābhyāṃ tatparatvaṃ kartrabhidhānapratiṣedhaṃ cābhipretyodāharati yajati dadāti iti ।

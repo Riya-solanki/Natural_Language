@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 798 | label: grammar | g:0.694 m:0.5 ---
+
+asparśavattvaṃ tābhyāṃ samāno dharma upalabhyate buddhau viśeṣaścopajanāpāyadharmavattvam, viparyayaśca yathāsvamanityanityayostasyāṃ buddhau nopalabhyate tena saṃśaya iti ।।
+anupapannaḥ khalvayaṃ saṃśayaḥ sarvaśarīriṇāṃ hi pratyātmavedanīyānityā buddhiḥ sukhādivat bhavati ca saṃvittiḥ ajñāsyāmi' ajānāmi' aajñāsiṣam' iti, na copajanāpāyāvantareṇa traikālyavyaktistataśca traikālyavyakteḥ aanityā buddhiḥ' ityetat siddham, pramāṇasiddhaṃ cedaṃ śāstrepyuktam

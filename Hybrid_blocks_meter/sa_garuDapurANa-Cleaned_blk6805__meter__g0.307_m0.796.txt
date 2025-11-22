@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6805 | label: meter | g:0.307 m:0.796 ---
+
+pātheyaṃ puṇḍarīkākṣanāmasaṃkīrtanaṃ hareḥ ।
+saṃsārasarpasaṃdaṣṭaviṣaceṣṭaikabheṣajam ।
+kṛṣṇeti vaiṣṇavaṃ kṣāntaṃ japtvā mukto bhavennaraḥ ।।

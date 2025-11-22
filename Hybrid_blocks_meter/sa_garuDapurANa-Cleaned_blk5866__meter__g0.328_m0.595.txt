@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5866 | label: meter | g:0.328 m:0.595 ---
+
+hṛdi pāṇitale dehe karṇe netre karoti ca ।
+japāttu sarvasiddhiḥ syāccaturvaktrasamāyutām ।।

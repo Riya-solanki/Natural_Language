@@ -1,0 +1,8 @@
+--- source: kunvjivu-Cleaned.txt | block: 716 | label: meter | g:0.25 m:0.5 ---
+
+atra pūrvasya pūrvasya vastunaḥ pradhānaṃ samarthanamuttaratra samāhita yaducyate tadāstāṃ, samāhitaśabdavācyatve na kenacit yate ।
+alaṅkaraṇatvaṃ punarddhayorapi sarasavṛttatvāt guṇapradhānabhāvasyābhāvānna kiñcidupapadyate ।
+dvayorapi vastudharmatayā varṇanīyatvameva samānaṃ dīrṇamiveti pratītāvutprekṣā bhaviṣyati ityalamatiprasaṅgena ।
+tadevaṃ cetanācetanapadārthabhedabhinnaṃ svābhāvikasaukumāryamanoharaṃ vastunaḥ svarūpaṃ pratipāditam ।
+idānīṃ tadeva kavipratibhollikhitalokottarātiśayaśālitayā navanarmitaṃ manojñatāmupanīyamānamālocyate ।
+tathāvidhabhūṣaṇavinyāsavihitasaundaryātiśayavyatirekeṇa bhūṣyatvanimittabhūtaṃ na tadvidāhlādakāritāyāḥ kāraṇam ।

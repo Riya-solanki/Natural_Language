@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4344 | label: meter | g:0.194 m:0.5 ---
+
+bṛhatyāṃ tu gadasyāhuḥ śaibyāyām aṅgadaṃ sutam 
+utpannaṃ kumudaṃ caiva śvetaṃ śvetāṃ tathāṅganām ।।

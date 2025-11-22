@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2684 | label: meter | g:0.25 m:0.5 ---
+
+śivas ca vo bhaviṣyāmi madbhaktānāṃ vane vane 
+raṃsye ca saha yuṣmābhir yathā divigatas tathā ।।

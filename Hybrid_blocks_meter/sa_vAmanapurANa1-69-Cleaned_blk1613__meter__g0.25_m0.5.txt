@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1613 | label: meter | g:0.25 m:0.5 ---
+
+samāpte mohvane bālo yaḥ samutpasyate avyayaḥ ।
+sa nūnaṃ devarājasya padamaindaṃ hariṣyati ।।

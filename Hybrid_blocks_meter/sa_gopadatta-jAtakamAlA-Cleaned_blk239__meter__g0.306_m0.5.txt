@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 239 | label: meter | g:0.306 m:0.5 ---
+
+mahākṛpāsvīkṛtamānasatvān nītvāpi puṇyāni paraṃ prakarṣam ।
+gatiṃ tiraścām adhamāṃ prapede sādhuḥ sa kenāpi tu kāraṇena ।।

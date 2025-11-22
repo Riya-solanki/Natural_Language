@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7158 | label: meter | g:0.354 m:0.792 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+purāṇaṃ gāruḍaṃ rudra proktaṃ sāraṃ mayātava ।
+brahmādīnāṃ śṛṇvatāṃ ca bhuktimuktipradāyakam ।।

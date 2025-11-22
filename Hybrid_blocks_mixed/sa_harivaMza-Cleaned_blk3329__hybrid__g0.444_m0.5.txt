@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3329 | label: hybrid | g:0.444 m:0.5 ---
+
+raṇe hy ubhayataḥ siddhir hatasyāpi ghnato api vā 
+sā hi prāṇāntikā yātrā mahadbhiḥ sādhu pūjitā ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 67 | label: grammar | g:0.583 m:0.5 ---
+
+evaṃ sthāpaya subhru bāhulatikām evaṃ kuru sthānakaṃ nātyuccair nama kuñcayāgracaraṇau māṃ paśya tāvat kṣaṇam ।
+evaṃ nartayataḥ svavaktramurajenāmbhodharadhvāninā śambho vaḥ paripāntu nartitalayacchedāhatās tālikāḥ ।।

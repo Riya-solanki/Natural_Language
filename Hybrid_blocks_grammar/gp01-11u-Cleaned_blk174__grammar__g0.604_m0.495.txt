@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 174 | label: grammar | g:0.604 m:0.495 ---
+
+[] tad evaṃ sati, sarvataḥ-sāreṇa sapramāṇa-varṇayitavyānusāreṇāpagatāpara-pati-bhramāḥ sarvā eva vraja-ramā māravāṇa-dalita-marmāṇas tad-eka-sevā-
+dharmyeṣu nija-nija-harmyeṣu samam eva labdhāgamanaṃ tam ekam eva ramaṇaṃ ramaṇatāṃ gamayamānā na virāmam icchantīti sakhībhir eva prābhātikarāgamaya-gāna-narmaṇā tasmād uparamayāmāsire ।

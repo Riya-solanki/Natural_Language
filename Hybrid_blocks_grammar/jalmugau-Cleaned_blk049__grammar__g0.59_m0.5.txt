@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 49 | label: grammar | g:0.59 m:0.5 ---
+
+bhūyaḥ kāla-vaśāt tam arjita-dhanaṃ dṛṣṭvāha mad-vallabhaḥ saḥ kruddho gamitas tvayei kalaho mātrā samaṃ jāyate
+kṛtvā taṃ prati ca vratāi virahaṃ svaṃ nāṭayitvā tatas tasmin mitra-mukhena saṃdhir aparo veśyābhir utpādyate ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2672 | label: meter | g:0.102 m:0.695 ---
+
+bhojanāny upakalpyantāṃ payasaḥ peśalāni ca 
+kumbhāś ca viniveśyantām udapāneṣu śobhanāḥ 
+lehyasya pāyasasyārthe droṇyaś ca vipulāyatāḥ ।।

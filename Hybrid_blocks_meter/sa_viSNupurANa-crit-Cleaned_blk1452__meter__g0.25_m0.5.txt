@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1452 | label: meter | g:0.25 m:0.5 ---
+
+akṛtvā pādayoḥ śaucaṃ ditiḥ śayanam āviśat 
+nidrām āhārayām āsa tasyāḥ kukṣiṃ praviśya saḥ ।।

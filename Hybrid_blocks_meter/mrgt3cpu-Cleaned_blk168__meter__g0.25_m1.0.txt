@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 168 | label: meter | g:0.25 m:1.0 ---
+
+guptākṣasūtrapūjāṅgaḥ kriyākālavibhāgavit ।
+kramaśaḥ siddhimāpnoti siddhikṣetrāṇi saṃcaran ।

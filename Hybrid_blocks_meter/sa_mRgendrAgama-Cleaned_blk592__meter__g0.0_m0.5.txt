@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 592 | label: meter | g:0.0 m:0.5 ---
+
+vijñāya sambhṛtaṃ svoktyā tādākhyaṃ samupāgatam b

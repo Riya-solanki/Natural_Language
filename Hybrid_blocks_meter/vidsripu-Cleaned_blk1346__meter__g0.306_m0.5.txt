@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1346 | label: meter | g:0.306 m:0.5 ---
+
+ārambhagurvī kṣayiṇī krameṇa laghvī purā vṛddhimatī ca paścāt ।
+dinasya pūrvārdhaparārdhabhinnā chāyeva maitrī khalasajjanānām ।।

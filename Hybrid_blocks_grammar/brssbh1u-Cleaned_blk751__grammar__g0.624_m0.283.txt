@@ -1,0 +1,6 @@
+--- source: brssbh1u-Cleaned.txt | block: 751 | label: grammar | g:0.624 m:0.283 ---
+
+) iti pārameśvaryāḥ śakteḥ samastajagadvidhāyinyā vākyopakrame avagamāt ।
+vākyaśeṣe api amāyāṃ tu prakṛti vidyānmāyinaṃ tu maheśvaram' iti ayo yoniṃ yonimadhitiṣṭhatyekaḥ' iti ca tasyā evāvagamānna svatantrā kācitprakṛtiḥ pradhānaṃ nāmajāmantreṇāmnāyata iti śakyate vaktum ।
+prakaraṇāttu saiva daivī śaktiravyākṛtanāmarūpā nāmarūpayoḥ prāgavasthānenāpi mantreṇāmnāyata ityucyate ।
+tasyāśca svavikāraviṣayeṇa trairūpyeṇa trairūpyamuktam ।।

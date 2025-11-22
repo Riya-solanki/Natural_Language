@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1021 | label: meter | g:0.194 m:0.625 ---
+
+kuryāt snānaṃ tu tailāktā bhuñjānas tilapiṣṭakam 
+tṛptāḥ santaḥ prapaśyanti dārikānanamadhyataḥ ।।

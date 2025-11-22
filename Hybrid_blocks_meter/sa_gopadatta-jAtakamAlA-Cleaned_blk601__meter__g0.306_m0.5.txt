@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 601 | label: meter | g:0.306 m:0.5 ---
+
+viśadāgalitaiḥ śiromaṇīnāṃ kiraṇair yac chalayanti pādapīṭham ।
+nṛpater anujīvino vinītā madhuraṃ tyāgavanaspateḥ phalaṃ tat ।।

@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 15 | label: hybrid | g:0.317 m:0.455 ---
+
+dhikaraṇyadarśanāddehālambano ayamahaṅkāra iti sāṃpratam ।
+tadālambanatve hi ayo ahaṃ bālye pitarāvanvabhavaṃ sa eva sthāvire praṇaptṝnanubhavāmi'iti pratisaṃdhānaṃ na bhavet ।
+na hi bālasthavirayoḥ śarīrayorasti manāgapi pratyabhijñāna

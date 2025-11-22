@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1162 | label: grammar | g:0.667 m:0.5 ---
+
+ucyate iha doṣaguṇālaṅkārāṇāṃ śabdārthagatatvena yo vibhāgaḥ saḥ anvayavyatirekābhyāmeva vyavatiṣṭhate । tathāhi kaṣṭavādigāḍhatvādyanuprāsādayaḥ vyarthatvādiprauḍhyādyupamādayastadbhāvatadabhāvānuvidhāyitvādeva śabdārthagatatvena vyavasthāpyante ।

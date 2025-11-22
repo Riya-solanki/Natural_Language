@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 228 | label: grammar | g:0.75 m:0.5 ---
+
+kim iva ca labhyate bata na tair api nātha janaiḥ kṣaṇam api kaitavād api ca ye tava nāmni ratāḥ śiśiramayūkhaśekhara tathā kuru yena mama kṣatamaraṇo aṇimādikam upaimi yathā vibhavam ।।

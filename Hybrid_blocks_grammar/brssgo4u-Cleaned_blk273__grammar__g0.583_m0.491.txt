@@ -1,0 +1,6 @@
+--- source: brssgo4u-Cleaned.txt | block: 273 | label: grammar | g:0.583 m:0.491 ---
+
+tato vidyut abhisaṃbhavanāt ūrdhvaṃ vidyut anantaravartina eva amānavena puruṣeṇa varuṇalokādiṣu ativāhyamānā brahmalokaṃ gacchanti iti avagantavyam ।
+atānvaidyutātpuruṣo amānavaḥ sa etya brahmalokaṃ gamayati' iti tasya eva gamayitṛtvaśruteḥ ।
+varuṇādayaḥ tu tasya eva apratibandhakaraṇena sāhāyya anuṣṭhānena vā kenacit anugrāhakā iti avagantavyam ।
+tasmāt sādhu uktam ativāhikā devatātmānaḥ arcirādaya iti ।।

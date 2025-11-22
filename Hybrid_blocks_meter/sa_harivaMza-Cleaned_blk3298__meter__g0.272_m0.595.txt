@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3298 | label: meter | g:0.272 m:0.595 ---
+
+viṣāṇāntarago bhṛtvā punaś caraṇamadhyagaḥ 
+babādhe taṃ gajaṃ kṛṣṇaḥ pavanas toyadaṃ yathā ।।

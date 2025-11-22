@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 28 | label: meter | g:0.306 m:0.5 ---
+
+dāvāgnibhasmaparuṣaiḥ pavanair udastam etad bhramaty avirataṃ taruparṇacakram ।
+utpīḍyamānam aniśaṃ niravagraheṇa saṃsāracakram iva karmasamīraṇena ।।

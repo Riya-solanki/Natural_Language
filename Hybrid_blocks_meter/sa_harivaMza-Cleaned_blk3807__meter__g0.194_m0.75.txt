@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3807 | label: meter | g:0.194 m:0.75 ---
+
+tataḥ kṛṣṇasya vacanaṃ śrutvā nadanadīpatiḥ 
+samārutena yogena utsasarja mahārṇavaḥ ।।

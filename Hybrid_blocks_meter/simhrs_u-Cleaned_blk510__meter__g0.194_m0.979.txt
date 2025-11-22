@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 510 | label: meter | g:0.194 m:0.979 ---
+
+asmat-kalpa-latā-dalāni gilati tvat-kāma-gaurvāryatāṃ
+mac-cintāmaṇi-vedibhiḥ pariṇamed dūrān nayoccair gajam ।
+ity ārūḍha-vitardikāḥ pratipathaṃ jalpanti bhūdevatāḥ
+siṃha-kṣmābhuji kalpa-vṛkṣa-surabhī-hasty-ādi-dānodyate ।।

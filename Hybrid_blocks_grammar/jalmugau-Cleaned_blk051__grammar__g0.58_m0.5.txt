@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 51 | label: grammar | g:0.58 m:0.5 ---
+
+ke cid dyūta-karā bhavanti kati-cid bhikṣā-carāḥ kiṅkarāḥ ke cit karma-karāḥ pare dhanavatāṃ ślāghā-karāḥ ke cana
+skandhāakta-paṭac-carā dya nucarā śokād a-kiṃ-cit-karās te amī kāmi-varāḥ purā samabhavan veśyāsu ye gocarāḥ ।।

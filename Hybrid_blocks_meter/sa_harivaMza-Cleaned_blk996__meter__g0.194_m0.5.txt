@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 996 | label: meter | g:0.194 m:0.5 ---
+
+tayā ca plāvitaṃ dṛṣṭvā yajñavāṭaṃ samantataḥ 
+sauhotrir abravīd gaṅgāṃ kruddho bharatasattama ।।

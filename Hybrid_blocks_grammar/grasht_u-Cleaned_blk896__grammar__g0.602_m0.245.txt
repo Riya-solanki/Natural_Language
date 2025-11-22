@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 896 | label: grammar | g:0.602 m:0.245 ---
+
+piṣṭividhyantaramāha abhrakam ityādi ।।
+abhrakaṃ pratītaṃ mākṣikaṃ tāpyaṃ kanakaṃ hema nāgayutaṃ nāgena sīsakena yutaṃ sahitaṃ vidhinā kartavyopadeśena etatsarvaṃ sūte militaṃ sat piṣṭiḥ kāryā divyauṣadhiyogataḥ puṭitā piṣṭiḥ kāryā iti ।।
+tāre hemākṛṣṭim āha ṣaḍityādi ।।
+pūrvoktāyāṃ piṣṭyāṃ ṣaḍguṇagandhakadāhaḥ kāryaḥ punaḥ ṣaḍguṇaśilayā kṛtvā nāgaṃ samuttārya sīsakamapahāya sā niṣpannā piṣṭī ṣoḍaśāṃśena tāre rūpye militā satī hemākṛṣṭiḥ syātkanakoddhāraṇaṃ bhavet tāmranāgādiṣu dhātuṣu hema sthitameva tata ākṛṣṭiśabdo yuktaḥ ।।

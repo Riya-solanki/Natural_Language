@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 420 | label: meter | g:0.25 m:0.625 ---
+
+nānāvidhagranthajātaṃ vīkṣya samyagyathāmati ।
+śārīkasya bhāṣyasya kṛtā vyākhyā satāṃ mude ।।

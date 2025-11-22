@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 375 | label: meter | g:0.22 m:0.777 ---
+
+yathānargha-rāghave, yathā-
+nṛpān apratyakṣān kim apavadase nanv ayam ahaṃ
+śiśu-krīḍā-bhagna-tripura-hara-dhanvā tava puraḥ ।
+ahaṅkāra-krūrārjuna-bhuja-vana-vraścana-kalā-
+nisṛṣṭārtho bāhuḥ kathaya kataras te paraharatu ।।

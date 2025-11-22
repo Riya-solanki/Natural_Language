@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1115 | label: meter | g:0.056 m:1.0 ---
+
+bhāsvan-maho yoga-vikāsa-hṛd-gata-
+prabhāmbujātaṃ madhusūdana-prabham ।
+paśyantu mitrāṇi sujīvanālayaṃ
+mahan-manas-tulyataraṃ sarovaram ।। [upajāti ]

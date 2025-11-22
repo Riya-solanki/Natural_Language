@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 211 | label: meter | g:0.25 m:0.5 ---
+
+[] atha svasthāvasthatayā kuṇṭhatā-rahitas tādṛśa-guṇa-mahitaḥ snigdhakaṇṭhaḥ sa-bāṣpa-kaṇṭham uvāca-

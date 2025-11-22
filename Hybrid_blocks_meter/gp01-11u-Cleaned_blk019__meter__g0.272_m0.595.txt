@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 19 | label: meter | g:0.272 m:0.595 ---
+
+śrī-gopāla-gaṇānāṃ gopālānāṃ pramodāya ।
+bhavatu samantād eṣā nāmnā gopāla-campūr yā ।। [upagīti]

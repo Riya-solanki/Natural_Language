@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2337 | label: meter | g:0.25 m:0.695 ---
+
+parṇavādyaṃ śrutisukhaṃ vādayantau varānanau 
+gopavīthyāṃ sumadhuraṃ gāyantau kāmarūpiṇau । 
+śuśubhāte vanagatau triśīrṣāv iva pannagau ।।

@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 9 | label: hybrid | g:0.5 m:0.5 ---
+
+brahmaṇa iti karmaṇiṣaṣṭhī na śeṣe, jijñāsāpekṣyatvājjijñāsāyāḥ, jijñāsyāntarānirdeśācca ।

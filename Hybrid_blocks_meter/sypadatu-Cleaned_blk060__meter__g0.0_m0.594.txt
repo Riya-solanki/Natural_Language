@@ -1,0 +1,9 @@
+--- source: sypadatu-Cleaned.txt | block: 60 | label: meter | g:0.0 m:0.594 ---
+
+[] taiḥ spṛṣṭvā ciram unmukhīṣu kiraṇair udyānaśākhāsv asau
+yāty astaṃ valabhīkapotanayanair ākṣiptarāgo raviḥ
+api cedānīm
+prākārāgre gavākṣaiḥ patati khagarutaiḥ sūcyamāno biḍālaḥ
+prāsādebhyo nivṛtto vrajati samucitāṃ vāsayaṣṭiṃ mayūraḥ
+sāṃdhyaṃ puṣpopahāraṃ pariharati mṛgaḥ sthaṇḍile svaptukāmas
+toyād uttīrya cāsau bhavanakamalinīvedikāṃ yāti haṃsaḥ

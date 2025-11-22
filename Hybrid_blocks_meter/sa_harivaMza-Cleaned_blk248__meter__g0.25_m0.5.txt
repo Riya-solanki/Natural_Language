@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 248 | label: meter | g:0.25 m:0.5 ---
+
+na mām arhasi hantuṃ vai śreyaś cet tvaṃ cikīrṣasi 
+prajānāṃ pṛthivīpāla śṛṇu cedaṃ vaco mama ।।

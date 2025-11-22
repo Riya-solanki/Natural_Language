@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 886 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca kramād eka-dvy-ādi-prakramān militena vraja-janena samaṃ vraja-bhūpālaḥ sva-bālakenāṅkaṃ sad alaṅkṛtya nitya-kṛtya-kṛte kālindīm anuvindamānas tenānuṣajya nimajya tatraiva vipraiḥ svasti-vācanādikam ācarya, mahā-dānādikaṃ visarjya, nikāyyam āsajya ca, pūrvāhna-bhojanāya sasajja ।

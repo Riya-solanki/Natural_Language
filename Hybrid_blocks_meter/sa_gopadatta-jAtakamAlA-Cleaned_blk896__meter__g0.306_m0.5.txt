@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 896 | label: meter | g:0.306 m:0.5 ---
+
+tasyaiva kāpīyam ṛṣer acintyā vibhūtir āveṇikayogasādhvī ।
+yenātra kṛtvāpi manaḥpradoṣaṃ sadyo na pātālatalaṃ viśanti ।।

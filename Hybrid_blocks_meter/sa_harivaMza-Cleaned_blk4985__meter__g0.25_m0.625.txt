@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4985 | label: meter | g:0.25 m:0.625 ---
+
+rakṣa māṃ rakṣaṇīyo ahaṃ tvayānagha namo astu te 
+ādikartāsi lokasya tvayaiva bahulīkṛtam ।।

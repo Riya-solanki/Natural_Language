@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 166 | label: grammar | g:0.75 m:0.5 ---
+
+athāsyāṃ viniḥsṛtamātrāyāṃ sarvatathāgatahṛdayebhyo vajraraśmayo viniścaritāḥ । tebhyaśca vajraraśmibhyaḥ sa eva bhagavān vajradharaḥ sarvalokadhātuparamāṇurajaḥsamāstathāgatavigrahā bhūtvā, sarvatathāgatavajrapāramitājñānānyāmudrya, punarapyekaghanaḥ sarvalokadhātusamavasaraṇapramāṇo mahāvajravigrahaḥ prādurbhūya, bhagavatovairocanasya purataścandramaṇḍalāśrito bhūtvā, idamudānamudānayāmāsa ।

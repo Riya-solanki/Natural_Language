@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 762 | label: grammar | g:0.68 m:0.375 ---
+
+yaṅo'ci ca ।।
+yaṅo'ci pratyaye luk syāt, cakārāttaṃ vināpi kvacit । anaimittiko aya mantaraṅgatvādādau bhavati । tataḥ pratyayalakṣaṇena yaṅantatvāddvitvam । dhātutvāllaḍādayaḥ । śeṣātkartarīti parasmaipadam । carkarītaṃ cetyadādau pāṭhācchapo luk ।।

@@ -1,0 +1,4 @@
+--- source: kalhans_u-Cleaned.txt | block: 6 | label: grammar | g:0.562 m:0.5 ---
+
+nedaṃ parṇasamīraṇāśanatapomāhātmyam ukṣoragau paśyaitāv ata eva saṃprati kṛtau tanmātravṛttī bahiḥ ।
+premṇaivārdham idaṃ carācaraguroḥ prāpeyam ātmastutīr itthaṃ devavadhūmukhāc chrutisukhāḥ śṛṇvaty aparṇāvatāt ।।

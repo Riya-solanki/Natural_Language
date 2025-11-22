@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10369 | label: meter | g:0.272 m:0.845 ---
+
+hastādanantaraṃ jñeyo na tu śacyādivatsmṛtaḥ ।
+tatobhavanmahābhāga cakṣuridriyamātmanaḥ ।।

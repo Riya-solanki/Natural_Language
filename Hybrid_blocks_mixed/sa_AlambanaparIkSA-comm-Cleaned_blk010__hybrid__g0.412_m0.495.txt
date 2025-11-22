@@ -1,0 +1,5 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 10 | label: hybrid | g:0.412 m:0.495 ---
+
+sarvo artho bahvākāraḥ ataḥ tatra kenacidākāreṇa pratyakṣa ipyate । paramāṇuṣvapyasti sañcitābhajñānotpattikāraṇabhāvaḥ ।
+aṇvākāro na vijñapterarthaḥ kaṭhinatādivat ।।
+yathā kaṭhinatādi vidyamānamapi na cākṣuṣabuddhiviṣayaḥ । evamanutvamapi ।।

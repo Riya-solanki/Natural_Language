@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1005 | label: grammar | g:0.579 m:0.25 ---
+
+oṃ padmāya namaḥ । oṃ karṇikāyai namaḥ । maghye tu pūjayedrudra pūrvādiṣu tathaiva ca । dīptādyāḥ pūjayenmadhye pūjayetsarvatomukhīḥ । oṃ vāṃ dīptāyai namaḥ । oṃ vīṃ sūkṣmāyai namaḥ । oṃ vūṃ jayāyai namaḥ । oṃ vauṃ vibūtyai namaḥ । 
+oṃ vaṃ adhorāyai namaḥ ।
+oṃ vaṃ vaidyutāyai namaḥ ।
+oṃ vaḥ vijayāyai namaḥ ।
+oṃ ro sarvatomukhyai namaḥ ।।

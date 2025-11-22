@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1448 | label: meter | g:0.194 m:1.0 ---
+
+{kauñcādriruddāmadṛṣaddṛḍhosau yanmārgaṇānargalaśātapāte ।
+abhūnnavāmbhojadalābhijātaḥ sa bhārgavaḥ satyamapūrvasargaḥ ।।}

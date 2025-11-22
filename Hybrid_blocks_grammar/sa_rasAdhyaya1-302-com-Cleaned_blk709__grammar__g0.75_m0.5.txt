@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 709 | label: grammar | g:0.75 m:0.5 ---
+
+tāmrasya pattraṃ vā cūrṇaṃ kṛtvā tatastāmraṃ dviguṇaṃ śuddhaṃ gandhakacūrṇaṃ kumārīrase nāgo dugdhena vā gāḍhaṃ mṛditvā pūpādvayaṃ ca kṛtvā madhye pūrvakṛtatāmrapattracūrṇaṃ vā kṣiptvā pūpādvayaṃ śarāvasampuṭe muktvā saṃdhau vastramṛttikayā liptvā sarvato mṛttikayā liptvā kaṭāhamadhye śarāvasampuṭe kṣiptvā chāṇakaiśca kaṭāhaṃ bhṛtvā nirjvālanīyaḥ ।।

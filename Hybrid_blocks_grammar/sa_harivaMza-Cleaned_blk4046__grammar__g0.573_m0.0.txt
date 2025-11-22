@@ -1,0 +1,54 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4046 | label: grammar | g:0.573 m:0.0 ---
+
+samādhāyetikartavyaṃ vāsavo vibudhādhipaḥ 
+svam eva bhavanaṃ prāyāt kṛṣṇaḥ prāgjyotiṣaṃ yayau ।। 
+pakṣānilahato vāyuḥ pratilomaṃ vavau tadā ।। tato bhīmaravair meghair babhramur gaganecarāḥ । kṣaṇena samanuprāpto divam ākāśagena vai ।। dūrād eva ca tān dṛṣṭvā prayayau yatra te sthitāḥ । apaśyat parvatadvāri hastyaśvarathavāhanam । ārakṣakān mahārāja narakasya durātmanaḥ । 
+so agryān rakṣogaṇān hatvā narakasya mahābalān 
+pradadhmau devadeveśaḥ pāñcajanyaṃ mahāsvanam । 
+kṣurāntān mauravān pāśān ṣaṭsahasrān dadarśa ha ।। 
+garuḍasyopari śrīmāñ chaṅkhacakragadāsibhṛt । bibhran nīlāmbudākāraṃ pītavāsāś caturbhujaḥ ।। vanamālākuloraskaḥ śrīvatsendunibhorasaḥ । kirīṭamūrdhā sūryābhaḥ savidyud iva candramāḥ । jyāṃ vikūjan mahāśabdaḥ śrūyate aśaninisvanaḥ ।। jñātvā ca dānavaḥ sarvaṃ svayaṃ viṣṇur ihāgataḥ । krodhād rudhiraraktākṣo muraḥ kālāntakaprabhaḥ ।। abhyadhāvata vegena śaktiṃ gṛhya mahāsuraḥ । cikṣepa ca mahāśaktiṃ vajrakāñcanabhūṣitām ।। tām āpatantīṃ śaktiṃ tu maholkāṃ jvālitām iva । samādhatta śaraṃ caiva rukmapuṅkhaṃ janārdanaḥ ।। dvidhācchinat kṣurapreṇa vāsudevaḥ sa vīryavān । śaktiṃ ciccheda tatrāsau vidyutpuñja iva jvalan ।। punas tu krodharaktākṣo murur gṛhya mahāgadām । indrāśanir ivendreṇa visṛṣṭa iva nisvanaḥ ।। ākarṇamuktaṃ cikṣepa ardhacandraṃ surottamaḥ । madhyadeśe tu ciccheda gadāṃ tāṃ rukmabhūṣitām । punaś ciccheda bhallena dānavasya śiro raṇe । sa piśācagaṇaṃ sarvaṃ jaghāna yudhi keśavaḥ । niyutaṃ cārbudaṃ caiva sa murasya durātmanaḥ ।। ācchidya pāśān sarvāṃs tān mureṇa saha saṃgataḥ । sa muro dānavo rājan dadarśa yadunandanam । siṃhanādaṃ tataś cakre gadayā taṃ jaghāna ha । garuḍaṃ ca samājaghne mūrdhni deśe mahāsuraḥ । keśavaṃ pothayām āsa prāsaśaktyṛṣṭitomaraiḥ । tataḥ kruddho hṛṣīkeśaḥ kṣurapreṇāharac chiraḥ । tasya dānavamukhyasya dadhmau śaṅkhaṃ tadā hariḥ ।। kṣubdhāś ca dānavāḥ sarve tena śabdena parvatāḥ । 
+saṃchidya pāśān sarvāṃs tān muraṃ hatvā sahānvayam 
+śilāsaṃghān atikramya nisundam avapothayat 
+bhagavān devakīsutaḥ । 
+apaśyad dānavaṃ sainyaṃ । 
+hayagrīvaṃ ca ditijaṃ tathānyāṃś citrayodhinaḥ । 
+rodhayām āsa tan mārgaṃ svasainyena mahābalaḥ ।। 
+nisundo balināṃ śreṣṭho ratham āruhya satvaram । 
+jagrāha kārmukaṃ divyaṃ hemapṛṣṭhaṃ durāsadam ।। 
+vivyādha daśabhir bāṇair nisundo madhusūdanam । 
+keśavaś cāpi saptatyā vivyādha niśitaiḥ śaraiḥ । 
+aprāptāṃś cāntarikṣe tāñ śarāṃś ciccheda mādhavaḥ ।। 
+te sarve sainikāḥ kṛṣṇaṃ samantāt paryavārayan । 
+śarajālena mahatā chādyamānaḥ surottamaḥ ।। 
+dṛṣṭvā tān dānavān sarvān sakrodho madhusūdanaḥ । 
+tato divyena cāstreṇa pārjanyena janārdanaḥ । 
+mahatā śaravarṣeṇa vārayām āsa tad balam ।। 
+pañcapañcaśarais teṣu ekaikena ca tān bahūn । 
+pārjanyasya prabhāveṇa sarvān marmasv atāḍayat । 
+dudruvur bhayasaṃtrastā bhagnās te dānavā raṇe ।। 
+svasainyaṃ vidrutaṃ dṛṣṭvā niścakrāma punar mṛdhe । 
+visṛjañ śaravarṣāṇi chādayām āsa keśavam ।। 
+na vibhāti raṇe sūryo nāpi vyoma diśo daśa । 
+śaraiḥ saṃchādayām āsa nisundo garuḍadhvajam ।। 
+sāvitraṃ nāma divyāstraṃ jagrāha puruṣottamaḥ । 
+tena bāṇena tān bāṇāṃś ciccheda samare hariḥ ।। 
+bāṇair bāṇāṃs tu saṃchidya tasya kṛṣṇo mahābalaḥ । 
+chatram ekena bāṇena ratheṣāṃ ca tribhiḥ śaraiḥ । 
+punaś ciccheda tān aśvāṃś caturbhiś caturaḥ śaraiḥ ।। 
+sārathiṃ pañcabhir bāṇair dhvajam ekena cicchide । 
+śaraikena punaḥ kṛṣṇaḥ sutīkṣṇena śitena vai । 
+śiraś ciccheda bhallena nisundasya surottamaḥ ।। 
+sa mamāra mahādaityaḥ papāta ca mahītale । 
+nisundaṃ tu gadāpāṇim āpatantaṃ raṇājire ।। 
+tataḥ śārṅgavinirmuktaiḥ śarair vivyādha keśavaḥ । 
+nisundo api mahārāja gadayāpothayadd harim ।। 
+satyabhāmā tataḥ kruddhā gadayā bāhumuktayā । 
+prāharad dānavendraṃ taṃ keśavasyaiva paśyataḥ ।। 
+tatas tuṣṭo hṛṣīkeśaḥ satyabhāmām udaikṣata । 
+sa tayā gadayā viddha udvamañ śoṇitaṃ bahu । 
+muhyan saṃjñām avāpyātha nisundas tv abhyadhāvata । 
+tataḥ kruddho hṛṣīkeśas taṃ jaghāna śilīmukhaiḥ । 
+yaḥ sahasrasamās tv ekaḥ sarvān devān apothayat ।। 
+nisundaṃ patitaṃ dṛṣṭvā hayagrīvaḥ pratāpavān । śilāṃ pragṛhya mahatīṃ tolayām āsa dānavaḥ ।। āvidhya sahasā yuktaḥ śilāṃ śailasamaprabhaḥ । gṛhītvā divyapārjanyam astram astravidāṃ varaḥ ।। divyāstreṇa śilāṃ viṣṇuḥ saptadhākṛta tejasā । tad vidārya mahac cāśma pātayām āsa bhūtale । tataḥ kruddho hayagrīvaḥ saṃdadhe dhanuṣi kṣuram । tataḥ kruddho hayagrīvaś cāpam ādāya cāparam । keśavaṃ vividhaiś cāstrair ājaghāna tadā yudhi । tac cāpi ca dhanuś chitvā pātayām āsa keśavaḥ । 
+yathā devāsuraṃ yuddham abhavad bharatarṣabha 
+nānāpraharaṇākīrṇaṃ tathā ghoram avartata ।।

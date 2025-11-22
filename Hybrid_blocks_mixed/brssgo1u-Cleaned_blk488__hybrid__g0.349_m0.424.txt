@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 488 | label: hybrid | g:0.349 m:0.424 ---
+
+mātrāṃ parimāṇamatikrānto atimātraḥ tasya vibhorityarthaḥ ।
+upāsakānāṃ kṛte anugrahāya prādeśamātro abhivyajyate, pradeśeṣu vā mīyate abhivyajyata iti prādeśamātraḥ ।।

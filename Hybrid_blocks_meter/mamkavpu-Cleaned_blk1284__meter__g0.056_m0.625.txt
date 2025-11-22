@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1284 | label: meter | g:0.056 m:0.625 ---
+
+{kuraṅgīvāṅgāni stimitayati gītadhvaniṣu yat
+sakhīṃ kāntodantaṃ śrutamapi punaḥ praśnayati yat ।
+anidraṃ yaccāntaḥ svapiti tadaho vedmyabhinavāṃ
+pravṛtto asyāḥ sektuṃ hṛdi manasijaḥ premalatikām ।।}

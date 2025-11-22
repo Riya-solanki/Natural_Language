@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 846 | label: meter | g:0.274 m:0.571 ---
+
+pi ca śabdadvayaprayogo dṛśyate ।
+yathā vaiśvadevyāmikṣā vijñānamānandam ।
+vyākhyāyāṃ ca paryāyāṇamapi sahaprayogo yathā sindhuraḥ karī pikaḥ kokila iti ।
+vimṛśyānadhyavasāyalakṣaṇaṃ pakṣaṃ gṛhṇāti- tatrānyatama iti ।

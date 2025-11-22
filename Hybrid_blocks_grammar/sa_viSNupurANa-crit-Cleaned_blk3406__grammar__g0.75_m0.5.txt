@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3406 | label: grammar | g:0.75 m:0.5 ---
+
+idaṃ cānyat purā hi tretāyāṃ devāsuram atīva bhīṣaṇaṃ yuddham āsīt । tatra cātibalibhir asurair amarāḥ parājitā bhagavantaṃ viṣṇum ārādhayāṃ cakruḥ ।।

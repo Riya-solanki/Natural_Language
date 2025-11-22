@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 692 | label: hybrid | g:0.5 m:0.445 ---
+
+FN yajñena pūrvasukṛtena karmaṇā vāco vedasya padavīyaṃ mārgayogyatāṃ grahaṇayogyatāṃ āyannāptavantaḥ, tataḥstāṃ vācamṛṣiṣu praviṣṭāṃ vidyamānāṃ anvavindannanulabdhavanto yājñikā itiyāvat ।
+anuvinānnāmupalabdhām ।
+pūrvamavāntarakalpādau ।

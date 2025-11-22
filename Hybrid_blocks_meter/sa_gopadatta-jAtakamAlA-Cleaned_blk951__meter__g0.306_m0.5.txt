@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 951 | label: meter | g:0.306 m:0.5 ---
+
+nāyaṃ vayas tulayati pragataṃ narāṇāṃ nāpekṣate kulaviśuddhimayīṃ vyavasthām ।
+lokāpavādagahanāny api laṅghayitvā saṃkalparāgaturagaḥ svamatena yāti ।।

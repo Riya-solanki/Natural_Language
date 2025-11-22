@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1219 | label: meter | g:0.306 m:0.5 ---
+
+nīḍād apakramya vidhūya pakṣau vṛkṣāgram āruhya tataḥ krameṇa ।
+udgrīvam utpuccham udekapādam uccūḍam utkūjati tāmracūḍaḥ ।।

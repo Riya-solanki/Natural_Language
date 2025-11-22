@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 830 | label: meter | g:0.056 m:0.75 ---
+
+({susitavasanālaṅkārāyāṃ kadācana kaumudī-
+mahasi sudṛśi svairaṃ yāntyāṃ gatostamabhūdcidhuḥ ।
+tadanu bhavataḥ kīrtiḥ kenāpyagīyata yena sā
+priyagṛhamagānmuktāśaṅkā kva nāsi śubhapradaḥ ।।}

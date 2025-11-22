@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3748 | label: meter | g:0.306 m:0.5 ---
+
+svargaṃ gatau ca pitarau vrataṃ rājyāya kau śikaḥ ।
+cakre ayodhyāmahārājyaṃ dattvā ca bhaginīṃ yame ।।

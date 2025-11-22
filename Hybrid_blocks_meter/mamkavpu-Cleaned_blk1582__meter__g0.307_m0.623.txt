@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1582 | label: meter | g:0.307 m:0.623 ---
+
+guṇakriyābhyāṃ kāryasya kāraṇasya guṇakriye ।
+krameṇa ca viruddhe yat sa eṣa viṣamo mataḥ ।।

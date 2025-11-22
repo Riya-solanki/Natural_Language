@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7108 | label: meter | g:0.25 m:0.555 ---
+
+kṣetrajñādhiṣṭhitaṃ vidvānyo veda sa varaḥ kaviḥ ।
+aśvamedhasahasrāṇi vājapeyaśatāni ca ।
+jñānayajñasya sarvāṇi kalāṃ nārhanti ṣocśīm ।।

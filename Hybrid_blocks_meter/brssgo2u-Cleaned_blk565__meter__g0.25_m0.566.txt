@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 565 | label: meter | g:0.25 m:0.566 ---
+
+iti ca brahmaṇo anupamānatvaṃ darśayati ।
+aato anyadārtam' iti ca brahmaṇo anyeṣāmākāśādīnāmārtatvaṃ darśayati ।
+tapasi brahmaśabdavadākāśasya janmaśrutergauṇatvamityetadākāśasaṃbhavaśrutyanumānābhyāṃ parihṛtam ।
+tasmādbrahmakāryaṃ viyaditi siddham ।।

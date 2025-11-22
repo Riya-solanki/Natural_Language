@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9837 | label: meter | g:0.306 m:0.5 ---
+
+indriyāṇi manaḥ prāṇā jñānamāyuḥ sukhaṃ dhṛtiḥ ।
+dhāraṇā preraṇaṃ duḥ khaṃ mithyāhaṅkāra eva ca ।।

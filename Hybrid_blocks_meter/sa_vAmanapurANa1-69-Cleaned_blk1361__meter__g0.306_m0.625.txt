@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1361 | label: meter | g:0.306 m:0.625 ---
+
+pravartate ravistatra candramāpi viśatyasau ।
+tvadāyattaṃ guro kāryaṃ surāṇāṃ tat kuruṣva ca ।।

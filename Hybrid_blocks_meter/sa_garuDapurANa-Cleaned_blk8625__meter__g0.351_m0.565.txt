@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8625 | label: meter | g:0.351 m:0.565 ---
+
+rudrajāpī dharmarato devatātithipūjakaḥ ।
+satyavāk priyavādī ca na pretaiḥ sa hi pīḍyate ।।

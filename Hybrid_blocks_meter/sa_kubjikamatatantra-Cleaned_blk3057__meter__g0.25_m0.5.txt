@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 3057 | label: meter | g:0.25 m:0.5 ---
+
+kaṭaṃ māṃsaṃ palaṃ kravyaṃ piṣitaṃ phalguṣāmiṣam 
+jāṅgalaṃ devadāruṃ ca kṣmā vai khaḍgodbhavaṃ smṛtam ।।

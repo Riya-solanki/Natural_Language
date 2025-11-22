@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 177 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ tu brahmaṇo varṣam evaṃ varṣaśataṃ ca yat 
+śataṃ hi tasya varṣāṇāṃ paramāyur mahātmanaḥ ।।

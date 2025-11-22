@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4863 | label: grammar | g:0.705 m:0.0 ---
+
+śeṣās tato agnayaḥ sarve catvāro brahmaṇaḥ sutāḥ 
+āvāhayaṃs tadā śīghraṃ bāṇasya puram antikāt ।। 
+avagāhat tataḥ kṛṣṇo yatra bāṇapuraṃ tataḥ । atha bāṇapuraṃ dṛṣṭvā dūrāt provāca nāradaḥ । etat tacchoṇitapuraṃ kṛṣṇa paśya mahābhuja ।। atra rudro mahātejā rudrāṇyā sahito avasat । guhaś ca bāṇaguptyarthaṃ satataṃ kṣemakāraṇāt ।। nāradasya vacaḥ śrutvā kṛṣṇas tv idam athābravīt । kṣemaṃ cintayatām atra śrūyatāṃ ca mahāmune ।। yadi vāvatared rudro bāṇasaṃrakṣaṇaṃ prati । śaktito vayam apy atra saha yotsyāma tena vai ।। evaṃ vivadatos tatra kṛṣṇanāradayos tadā । prāptā nimeṣamātreṇa śīghratvād garuḍena te । 
+tataḥ śaṅkhaṃ samānīya vadane puṣkarekṣaṇaḥ 
+pradadhmau samare kṛṣṇo nādenāpūrayan diśaḥ । 
+vāyuvegena taṃ dadhmau meghaś candram ivodgiran ।।

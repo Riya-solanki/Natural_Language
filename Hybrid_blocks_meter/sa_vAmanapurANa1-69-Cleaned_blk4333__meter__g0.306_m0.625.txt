@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4333 | label: meter | g:0.306 m:0.625 ---
+
+praviṣṭamātraṃ deveśaṃ pratipūjya vadhānataḥ ।
+provāca bhagavan brūhi kiṃ dadmi tava mānada ।।

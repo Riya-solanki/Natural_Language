@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 639 | label: grammar | g:0.583 m:0.5 ---
+
+atha bhagavān punarapi sarvatathāgatasūkṣmavajrajñānamudrāsamayamaṇḍalādhiṣṭhānaṃ nāma samādhiṃ samāpadyemāṃ svavidyottamāmabhāṣat oṃ sūkṣmavajrajñānasamaya hūṃ ।।

@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 387 | label: meter | g:0.25 m:0.695 ---
+
+iti ślokārthasya, ṣoḍaśabhiḥ bhūpairityanena,
+"gayo ambarīṣaḥ śaśibinduraṅga pṛthurmarutto bharatassuhotraḥ ।
+rāmo dilīpaḥ śibirantidevau yayātimāndhātṛbhagīrathāśca" ।।

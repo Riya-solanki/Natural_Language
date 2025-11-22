@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 810 | label: meter | g:0.056 m:0.521 ---
+
+kāñcyā gāḍhatarāvaruddha-vasana-prāntā kim-arthaṃ punar
+mugdhākṣī svapitīti tat-parijanaṃ svairaṃ priye pṛcchati ।
+mātaḥ svaptum apīha vārayati mām ity āhita-krodhayā
+paryasya svapana-cchalena śayane datto' vakāśas tayā ।। ]

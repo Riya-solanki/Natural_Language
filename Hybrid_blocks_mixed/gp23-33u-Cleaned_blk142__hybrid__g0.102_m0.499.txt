@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 142 | label: hybrid | g:0.102 m:0.499 ---
+
+[] tadvad uttarārdhaṃ ca-
+kavibhiḥ kṛṣṇe śaśitā tāsu ca nakṣatratā kavitā ।
+kintu smita-mukha-dīvyad-vilasita-vṛndair amī varitāḥ ।। [anuṣṭubh]

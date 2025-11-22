@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3830 | label: meter | g:0.194 m:0.5 ---
+
+cakāra vāyor āhvānaṃ bhūyaś ca puruṣottamaḥ 
+tatrastha eva bhagavān yādavānāṃ priyaṃkaraḥ ।।

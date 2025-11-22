@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 296 | label: meter | g:0.251 m:0.623 ---
+
+ājñāmātreṇa santuṣṭo anyasyājñāṃ dadāti ca 
+nehatre tu sukhaṃ tasya paratre bādhyate tu saḥ ।।

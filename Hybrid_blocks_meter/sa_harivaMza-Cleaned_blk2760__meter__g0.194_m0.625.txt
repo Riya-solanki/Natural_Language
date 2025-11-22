@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2760 | label: meter | g:0.194 m:0.625 ---
+
+mayā sṛṣṭeṣu megheṣu yugāntāvartakāriṣu 
+yat tvayā rakṣitā gāvas tenāsmi paritoṣitaḥ ।।

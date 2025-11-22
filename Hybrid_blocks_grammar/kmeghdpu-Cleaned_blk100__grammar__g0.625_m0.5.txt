@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 100 | label: grammar | g:0.625 m:0.5 ---
+
+tvām ālikhya praṇayakupitāṃ dhāturāgaiḥ śilāyām ātmānaṃ te caraṇapatitaṃ yāvad icchāmi kartum ।
+asrais tāvan muhur upacitair dṛṣṭir ālupyate me krūras tasminn api na sahate saṃgamaṃ nau kṛtāntaḥ ।।

@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 504 | label: hybrid | g:0.39 m:0.521 ---
+
+etayorvaicitryaṃ pūrvameva pradarśitam ।
+ayamanyaḥ kriyāvaicitryavakrātāyāḥ prabhedaḥsvaviśeṣaṇavaicitryam ।
+mukhyatayā prastutatvāt kriyāyāḥ svasyātmano yad viśeṣaṇaṃ bhedakaṃ tena vaicitryaṃ vicitrabhāvaḥ ।
+yathā

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3134 | label: meter | g:0.307 m:0.623 ---
+
+varaṃ hi narake vāso na tu duścarite gṛhe ।
+narakātkṣīyate pāpa kugṛhānna nivartate ।।

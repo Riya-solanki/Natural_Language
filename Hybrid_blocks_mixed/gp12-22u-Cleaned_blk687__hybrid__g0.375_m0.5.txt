@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 687 | label: hybrid | g:0.375 m:0.5 ---
+
+[] vrajeśvare tu jñāna-pūrvaka-praśna-vijñānatas tad-abhiprāyaṃ prāyaḥ pratipadya sadyaḥ prativacanam adattavati, punar lālyatocita-bālyato dīnatā-dhīnam ivovāca-

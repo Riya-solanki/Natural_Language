@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 495 | label: grammar | g:0.75 m:0.5 ---
+
+yattu prāganuṣṭhānācchāstrārthāvadhāraṇavelāyāṃ nāpūrvamantarbhāvitāmityuktaṃ, yadyapyevaṃ tathāpi paścādevamavagacchati- sādhanatvamātre api śabdenokte bhrāntyā mayā sākṣātsādhanatvameva pratipannaṃ taccedānīmanyathā jātam, ato nūnamasya kenāpi dvāreṇa kālāntare phalamiti ।।

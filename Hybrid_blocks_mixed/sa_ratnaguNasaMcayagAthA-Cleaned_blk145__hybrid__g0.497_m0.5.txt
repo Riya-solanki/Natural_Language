@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 145 | label: hybrid | g:0.497 m:0.5 ---
+
+puruṣo hi jīrṇa dukhito śataviṃśavarṣo kiṃcāpi utthitu svayaṃ na prabhoti gantum 
+so vāmadakṣiṇadvaye puruṣe gṛhīte patanādbhayaṃ na bhavate vrajate sukhena ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 202 | label: meter | g:0.194 m:0.625 ---
+
+buddhirbodhanimittaṃ ced vidyā tadvyatiricyate 
+rāgo api satyavairāgye kalāyoniḥ karoti kim ।।

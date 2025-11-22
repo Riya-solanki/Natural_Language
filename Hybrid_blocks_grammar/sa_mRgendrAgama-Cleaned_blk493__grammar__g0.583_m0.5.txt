@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 493 | label: grammar | g:0.583 m:0.5 ---
+
+uttamaṃ dvijabhaikṣaṃ tu grāhyametattvayā sadā। taddhi sāntānikaṃ nāma bhaikṣaṃ hi parikalpitam।। iti।

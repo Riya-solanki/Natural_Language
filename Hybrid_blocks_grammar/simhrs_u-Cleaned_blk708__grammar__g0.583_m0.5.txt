@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 708 | label: grammar | g:0.583 m:0.5 ---
+
+atra prauḍha-kavi-samaya-prasiddha-mārgānusāriṇo vaktuḥ parimita-dravya-vādini kaṇāde mahaty asūyā mūḍhatama-dhīr iti vāg-ārambheṇa vyajyate ।

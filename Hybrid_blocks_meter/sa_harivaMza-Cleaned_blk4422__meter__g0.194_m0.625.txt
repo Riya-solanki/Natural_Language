@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4422 | label: meter | g:0.194 m:0.625 ---
+
+brūhi nārada tattvārthaṃ śrāvyantāṃ pṛthivīkṣitaḥ 
+yat tvayābhihitaṃ vākyaṃ mayā ca pratibhāṣitam ।।

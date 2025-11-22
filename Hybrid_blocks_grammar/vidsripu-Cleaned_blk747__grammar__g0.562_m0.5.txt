@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 747 | label: grammar | g:0.562 m:0.5 ---
+
+ayaṃ dhārāvāhas taḍid iyam iyaṃ dagdhakarakā sa cāyaṃ nirghoṣaḥ sa ca ravavaśo bhekanicayaḥ ।
+itīva pratyaṅgaprathitamadanāgniṃ kṛśatanur ghanaśvāsotkṣepair jvalayati muhur mṛtyuvaśinī ।।

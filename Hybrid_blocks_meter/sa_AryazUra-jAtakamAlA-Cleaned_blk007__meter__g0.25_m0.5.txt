@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 7 | label: meter | g:0.25 m:0.5 ---
+
+lokārthamityabhisamīkṣya kariṣyate ayaṃ śrutyārṣayuktyaviguṇena pathā prayatnaḥ ।
+lokottamasya caritātiśayapradeśaiḥ svaṃ prātibhaṃ gamayituṃ śrutivallabhatvam ।।

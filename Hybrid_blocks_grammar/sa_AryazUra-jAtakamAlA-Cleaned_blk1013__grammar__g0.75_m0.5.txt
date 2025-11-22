@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1013 | label: grammar | g:0.75 m:0.5 ---
+
+sa mātāpitroḥ kālakriyayā saṃvignahṛdayastamanekaśatasahasrasaṃkhyaṃ gṛhavibhavasāraṃ mitrasvajanakṛpaṇaśramaṇabrāhmaṇebhyo yathārhamatisṛjya pravavrāja । so anupūrveṇa grāmanagaranigamarāṣṭrarājadhānīṣvanuvicarannanyatamanagaramupaśritya kasmiṃścidvanaprasthe nivasati sma । sa dhyānaguṇābhyāsāt sātmībhūtenākṛtakenendriyaprasādena śrutihṛdayāhlādinā ca vidvattāsūcakenānutsiktena vigatalābhāśākārpaṇyadainyena vinayaujasvinā yathārhamadhuropacārasauṣṭhavena dharmādharmavibhāganipuṇena ca vacasā pravrajitācāraśībharayā sajjaneṣṭayā ceṣṭayā tatrābhilakṣito babhūva । kautūhalinā ca janena samupalabdhakulapravrajyākramaḥ suṣṭhutaraṃ lokasaṃmatastatrābhūt ।

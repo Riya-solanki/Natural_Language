@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2796 | label: meter | g:0.194 m:0.5 ---
+
+nivṛtteṣu ca megheṣu niryātya jagato jalam 
+ākāśe śastrasaṃkāśe haṃseṣu vicaratsu ca ।।

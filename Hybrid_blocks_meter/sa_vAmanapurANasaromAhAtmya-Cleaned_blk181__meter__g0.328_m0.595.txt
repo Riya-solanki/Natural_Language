@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 181 | label: meter | g:0.328 m:0.595 ---
+
+bhṛtānyaśeṣāṇi yato bhavanti yathormayastoyandherajasram ।
+layaṃ ca yasmin pralaye prayānti taṃ vāsudevaṃ praṇato asmyacintyam ।।

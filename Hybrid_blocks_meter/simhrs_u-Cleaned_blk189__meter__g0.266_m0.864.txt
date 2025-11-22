@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 189 | label: meter | g:0.266 m:0.864 ---
+
+atha caturtha-yauvanam-
+jarjaratvaṃ stana-śroṇi-gaṇḍoru-jaghanādiṣu ।
+nirmāṃsatā ca bhavati caturthe yauvane striyāḥ ।। 
+tatra ceṣṭā rati-vidhāv anutsāho' samarthatā ।
+sapatnīṣv ānukūlyaṃ ca kāntenāviraha-sthitiḥ ।।

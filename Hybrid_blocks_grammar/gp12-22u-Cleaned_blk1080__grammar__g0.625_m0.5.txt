@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1080 | label: grammar | g:0.625 m:0.5 ---
+
+[] kṛṣṇa sa-hāsam uvāca-aho, kūṭakūṭaṃ ghaṭayamānāḥ! yady anyathā manyadhve, parama-dharma-parān etān eva sametān pṛcchata?

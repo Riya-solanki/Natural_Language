@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2063 | label: meter | g:0.306 m:0.5 ---
+
+śuddhaṃ tato vimalavastranigharṣaṇena syānmauktikaṃ vipulasadguṇakāntiyuktam ।
+vyāḍirjagāda jagatāṃ hi mahāprabhāvaḥ siddho vidagdhahitatatparayā dayāluḥ ।।

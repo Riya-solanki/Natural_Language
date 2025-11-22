@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4834 | label: meter | g:0.25 m:0.555 ---
+
+saṃvidhānam athājñāpya dvārakāyāṃ mahābhujaḥ 
+sātyakau saṃniveśyātha rakṣyatāṃ dvāraketi ca । 
+gamanāya matiṃ cakre vāsudevaḥ pratāpavān ।।

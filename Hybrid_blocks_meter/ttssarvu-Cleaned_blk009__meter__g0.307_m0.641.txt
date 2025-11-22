@@ -1,0 +1,5 @@
+--- source: ttssarvu-Cleaned.txt | block: 9 | label: meter | g:0.307 m:0.641 ---
+
+mūlaprakṛtiravikṛtirmahadādyāḥ prakṛtivikṛtayaḥ sapta ।
+ṣoḍaśakastu vikāro na prakṛtirna vikṛtiḥ puruṣaḥ ।।
+iti ।

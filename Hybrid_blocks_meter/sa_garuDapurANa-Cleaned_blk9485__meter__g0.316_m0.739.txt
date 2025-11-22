@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9485 | label: meter | g:0.316 m:0.739 ---
+
+śrīgaruḍamahāpurāṇam- 
+tarkṣya uvāca ।
+aparaṃ mama sandehaṃ kathayasva janārdana ।
+puruṣasya ca kasyāpi matā pañcatvamāgatā ।।

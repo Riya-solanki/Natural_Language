@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1153 | label: meter | g:0.058 m:0.862 ---
+
+iti śrī-śrī-gopāla-campūm anv
+agha-brahmāgha-mocanam nāma
+ekādaśaṃ pūraṇam
+।।

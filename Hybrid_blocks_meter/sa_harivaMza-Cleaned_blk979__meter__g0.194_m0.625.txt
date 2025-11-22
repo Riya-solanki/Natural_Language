@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 979 | label: meter | g:0.194 m:0.625 ---
+
+babhūva dīrghatapaso vidvān dhanvaṃtariḥ sutaḥ 
+dhanvaṃtares tu tanayaḥ ketumān iti viśrutaḥ ।।

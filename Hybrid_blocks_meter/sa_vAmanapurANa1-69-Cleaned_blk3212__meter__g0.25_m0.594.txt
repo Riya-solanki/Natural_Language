@@ -1,0 +1,7 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3212 | label: meter | g:0.25 m:0.594 ---
+
+vimānāni ca subhrāṇi pakṣivāhyāni nārada ।
+samāruhyādravan sarve yato daityabalaṃ sthitam ।।
+etasmin viṣṇuḥ suraśreṣṭha adhiruhya samabhyagāt ।।
+tamāgataṃ sahasrākṣastrailokyapatimavyayam ।
+vavanda mūrdhnāvanataḥ saha sarvaiḥ surottamaiḥ ।।

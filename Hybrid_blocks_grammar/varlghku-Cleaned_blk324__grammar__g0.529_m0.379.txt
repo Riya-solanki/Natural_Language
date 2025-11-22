@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 324 | label: grammar | g:0.529 m:0.379 ---
+
+yujerasamāse ।।
+yujeḥ sarvanāmasthāne num syādasamāse । saṃyogāntalopaḥ । yuṅ । anusvāraparasavarṇau । yuñjau । yugbhyām ।।

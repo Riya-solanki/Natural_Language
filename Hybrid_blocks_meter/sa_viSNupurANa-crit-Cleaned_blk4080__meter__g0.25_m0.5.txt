@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4080 | label: meter | g:0.25 m:0.5 ---
+
+tato grahagaṇaḥ samyak pracacāra divi dvija 
+viṣṇor aṃśe bhuvaṃ yāte ṛtavaś cābhavan śubhāḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 680 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha madhukaṇṭhaś cintayāmāsa, "tasmān nandātmajas te yad api hari-samaḥ" iti yad uktam, tat tu yuktam eva, nārāyaṇa-samo guṇaiḥ [BhP ] iti hi śrīmad-bhāgavata-sthaṃ tad vākyam apīdṛśaṃ dṛśyate, tat-puruṣa-bahuvrīhibhyāṃ śliṣṭatvād asyādhikatvaṃ ca lakṣyate iti । [] prakaṭaṃ covāca-nanu nāma-karaṇaṃ viśiṣya na proktam anna-prāśanaṃ tu na kiñcid apīti । tac ca tac ca stūyamānatayā prastūyatām ।

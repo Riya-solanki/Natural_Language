@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9075 | label: meter | g:0.25 m:0.5 ---
+
+lavaṇaṃ tadrasaṃ divyaṃ sarvakāmapradaṃ nṛṇām ।
+yasmādannarasāḥ sarve notkaṭā lavaṇaṃ vinā ।।

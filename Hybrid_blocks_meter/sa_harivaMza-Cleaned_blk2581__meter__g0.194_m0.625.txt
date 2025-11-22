@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2581 | label: meter | g:0.194 m:0.625 ---
+
+hriyamāṇaḥ pralambena sa tu saṃkarṣaṇo yuvā 
+uhyamāna ivaikena kālameghena candramāḥ ।।

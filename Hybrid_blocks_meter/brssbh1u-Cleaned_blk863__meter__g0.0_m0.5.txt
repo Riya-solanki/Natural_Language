@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 863 | label: meter | g:0.0 m:0.5 ---
+
+aīkṣaternāśabdam' ityārabhya pradhānakāraṇavādaḥ sūtraireva punaḥ punarāśaṅkya nirākṛtaḥ,

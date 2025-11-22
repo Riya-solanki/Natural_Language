@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 604 | label: meter | g:0.312 m:0.5 ---
+
+[] tad evaṃ suṣṭhu cāpaṣṭhutām anuṣṭhāya gatāyāṃ prāvṛṣi śarad api, yathā-

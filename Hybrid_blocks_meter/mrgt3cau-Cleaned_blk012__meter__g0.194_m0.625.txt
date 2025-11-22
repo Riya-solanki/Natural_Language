@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 12 | label: meter | g:0.194 m:0.625 ---
+
+kṛmighnadravyamiśreṇa bhasmanā traiphalena ca
+sāyacūrṇena vā puṣṭiṃ nayettā bhautikavratī ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1440 | label: hybrid | g:0.521 m:0.5 ---
+
+syātsarvameva yadi pūrvakṛtaprabhāvācchākhāmṛgaḥ suhata eva mayaiṣa tasmāt ।
+dagdhe hi pūrvakṛtakarmadavāgnināsmin pāpaṃ kimatra mama yena vigarhase mām ।।

@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 597 | label: grammar | g:0.629 m:0.129 ---
+
+[] atha purastād uddhava-darśana-mātreṇa ca te parama-sukhaṃ prāpsyanti । yataḥ-
+aparicaye' py avalokād bhaktaṃ bhaktaḥ piparti kṛṣṇasya ।
+svaramātrāt tad-gānārambhaḥ sujanaṃ pramodayati ।।
+[] tataś ca tava viśleṣān nava-navārtās te tvad-vārtām eva vārtām anuvartamānāḥ śīghram iva viyanti kiyanti māsā vāsarāṇīva taṃ katicin māsān vāsayitvā paryavasāne tad-dvārā sambhāvanām evāpekṣya mudrita-mukhena svasti-mukhena sandekṣyanti, yathā-

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1072 | label: meter | g:0.194 m:0.808 ---
+
+tatra smitam -
+smitaṃ cālakṣya-daśanaṃ dṛk-kapola-vikāśa-kṛt ।।

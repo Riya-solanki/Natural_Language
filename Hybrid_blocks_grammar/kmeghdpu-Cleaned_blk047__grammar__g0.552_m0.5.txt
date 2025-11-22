@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 47 | label: grammar | g:0.552 m:0.5 ---
+
+brahmāvartaṃ janapadam adhaśchāyayā gāhamānaḥ kṣetraṃ kṣatrapradhanapiśunaṃ kauravaṃ tad bhajethāḥ ।
+rājanyānāṃ śitaśaraśatair yatra gāṇḍīvadhanvā dhārāpātais tvam iva kamalāny abhyavarṣan mukhāni ।।

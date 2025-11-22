@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 235 | label: meter | g:0.194 m:0.5 ---
+
+tasminn eva mahāyajñe jajñe prājño atha māgadhaḥ 
+pṛthoḥ stavārthaṃ tau tatra samāhūtau maharṣibhiḥ ।।

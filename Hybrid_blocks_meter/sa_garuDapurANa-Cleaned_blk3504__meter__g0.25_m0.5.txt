@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3504 | label: meter | g:0.25 m:0.5 ---
+
+caturthyāṃ ca caturvyūhaḥ pañcamyāmarcito hariḥ ।
+kārtikeyo raviḥ ṣaṣṭhyāṃ saptamyāṃ bhāskaror'thadaḥ ।।

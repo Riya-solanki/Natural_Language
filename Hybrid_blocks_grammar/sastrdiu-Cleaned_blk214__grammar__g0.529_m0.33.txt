@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 214 | label: grammar | g:0.529 m:0.33 ---
+
+athavā jñānakriyādvārako yaḥ kartṛbhūtasyātmanaḥ karmamabhūtasya cārthasya parasparaṃ saṃbandho vyāptṛvyāpyatvalakṣaṇaḥ sa mānasapratyakṣāvagato vijñānaṃ klapayati, nahyāgantukakāraṇamantareṇātmanor'thaṃ prati vyāptṛtvatvamutpattumarhati ।
+tacca kāraṇaṃ loke jñānaśabdenābhidhīyate ।
+ye api svaprakāśaṃ saṃvidamātiṣṭhante tairapyayaṃ saṃbandho mānasapratyakṣagamyo avaśyamabhyupagamanīyaḥ ।
+anyathā jñāto mayā ghaṭaḥ iti jñānajñeyasaṃbandho vā na vyavahartuṃ śakyate ।
+yanmātraṃ hi prakāśitaṃ tanmātrameva vyavahartuṃ śakyate nānyat ।।

@@ -1,0 +1,4 @@
+--- source: brsgor3u-Cleaned.txt | block: 134 | label: grammar | g:0.508 m:0.246 ---
+
+nanu dvitīyābhāve sarvagatatvaśrutivirodha ityata āha-anena sarvagatatvamiti ।
+dvitīyaṃ satyaṃ cetsetvādivadbrahmaṇo alpatāsyāt ayatrānyatpaśyati tadalpam'iti śruteḥ kiñca niravayavāsaṃgabrahmaṇaḥ satyaprapañcasaṃbandhāyogāttavaiva sarvagatatvaśrutivirodha iti bhāvaḥ adhiṣṭhānenādhyastaṃ jagadvyāptamadhyastatvāt rajjvā vyāptasarpavat, iti nyāyaḥ ।।

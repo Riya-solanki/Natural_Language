@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 438 | label: meter | g:0.194 m:0.625 ---
+
+{harastu kiñcitparivṛttadhairyaścandrodayārambha ivāmburāśiḥ ।
+umāmukhe bimbaphalādharoṣṭhe vyāpārayāmāsa vilocanāni ।। }

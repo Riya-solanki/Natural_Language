@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10846 | label: hybrid | g:0.51 m:0.5 ---
+
+asārāṃśaṃ naiva bhoktā haristu sārānvakṣye śṛṇu pakṣīndra samyak ।
+drākṣekṣusāraṃ nārikelasya sāraṃ cūtasya sāraṃ panasasyāpi sāram ।।

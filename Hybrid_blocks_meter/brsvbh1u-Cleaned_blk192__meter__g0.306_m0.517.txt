@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 192 | label: meter | g:0.306 m:0.517 ---
+
+vīryārthatām, aekasya tūbhayārthatve saṃyogapṛthaktvam'iti nyāyāt ।
+atra ca pāramarṣaṃ sūtram-'sarvāpekṣā ca yajñādiśruteraśvavat' iti ।
+yajñatapodānādi sarvam, tadapekṣā brahmabhāvanetyarthaḥ ।
+tasmādyadi śrutyādayaḥ pramāṇaṃ yadi vā pāramarṣaṃ sūtraṃ sarvathā yajñādikarmasamuccitā brahmopāsanā viśeṣaṇa

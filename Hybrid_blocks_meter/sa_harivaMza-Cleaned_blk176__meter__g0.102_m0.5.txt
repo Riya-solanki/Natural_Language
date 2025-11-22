@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 176 | label: meter | g:0.102 m:0.5 ---
+
+akṛtvā pādayoḥ śaucaṃ ditiḥ śayanam āviśat 
+nidrām āhārayām āsa tasyāḥ kukṣiṃ praviśya ha 
+vajrapāṇis tato garbhaṃ saptadhā taṃ nyakṛntata ।।

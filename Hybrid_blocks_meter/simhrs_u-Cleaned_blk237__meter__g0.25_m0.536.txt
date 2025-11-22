@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 237 | label: meter | g:0.25 m:0.536 ---
+
+ālambana-gatāś ceṣṭā anubhāvā vivakṣitāḥ ।
+bhāvaṃ manogataṃ sākṣāt sva-hetuṃ vyañjayanti ye ।
+te' nubhāvā iti khyātā bhrū-kṣepa-smitādayaḥ ।। 
+te caturdhā citta-gātra-vāg-buddhyārambha-sambhavāḥ ।
+tatra ca bhāvo hāvo helā śobhā kānti-dīptī ca ।। 
+prāgalbhyaṃ mādhuryaṃ dhairyaudāryaṃ ca cittajā bhāvāḥ ।
+nirvikārasya cittasya bhāvaḥ syād ādi-vikriyā ।।

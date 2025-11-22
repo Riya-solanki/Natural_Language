@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1785 | label: meter | g:0.194 m:0.5 ---
+
+asmin mahati saṃkrande dvāv eva tu viniḥsṛtau 
+vairocaniś ca daityendraḥ svarbhānuś ca mahāgrahaḥ ।।

@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 776 | label: hybrid | g:0.421 m:0.368 ---
+
+sāraṇakramamāha sarityādi ।।
+sāritavartitasūtaḥ sāritaścāsau vartitaś ceti vigrahaḥ ।।
+yaḥ samānabījena tulyamahābījena milati sa sāryaḥ yo dviguṇena milati saḥ pratisāryaḥ yaśca triguṇena so'nusārya iti sāraṇākramo darśitaḥ ।।

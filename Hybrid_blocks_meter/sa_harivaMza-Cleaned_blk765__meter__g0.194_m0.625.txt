@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 765 | label: meter | g:0.194 m:0.625 ---
+
+aṇuho nāma tasyāsīt putraḥ paramadhārmikaḥ 
+aṇudharmaratir nityam aṇuho adhyagamat padam ।।

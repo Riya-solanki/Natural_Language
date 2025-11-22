@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 391 | label: meter | g:0.194 m:0.625 ---
+
+loṣṭagartaḥ sudhāliptaś cūrṇena saguḍena vā 
+gāḍhaṃ liptasvasaṃśuṣko yantro ayaṃ bhūdharo mataḥ ।।

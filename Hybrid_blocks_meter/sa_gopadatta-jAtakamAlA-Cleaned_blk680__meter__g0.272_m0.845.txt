@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 680 | label: meter | g:0.272 m:0.845 ---
+
+kac cin notkaṇṭhayanti tvāṃ daksiṇāpathacandrikāḥ ।
+pradhyānastimitātāmraparyantanayanāḥ priyāḥ ।।

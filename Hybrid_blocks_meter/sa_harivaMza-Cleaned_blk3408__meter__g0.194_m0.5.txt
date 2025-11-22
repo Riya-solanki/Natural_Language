@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3408 | label: meter | g:0.194 m:0.5 ---
+
+aho kṣipram adṛśyena nayatā tvayā raṇapriyam 
+prahṛtaṃ naḥ kṛtāntena sarvāsām antarātmasu ।।

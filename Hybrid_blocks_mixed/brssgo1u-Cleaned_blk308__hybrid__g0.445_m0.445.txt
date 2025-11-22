@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 308 | label: hybrid | g:0.445 m:0.445 ---
+
+tathā mukhyaprāṇaliṅgamapi- aatha khalu prāṇa eva prajñātmedaṃ śarīraṃ parigṛhyotthāpayati' iti ।
+śarīradhāraṇaṃ ca mukhyaprāṇasya dharmaḥ, prāṇasaṃvāde vāgādīnprāṇānprakṛtya- atānvariṣṭhaḥ prāṇa uvāca mā mohamāpadyathāhamevaitatpañcadhātmānaṃ pravibhajyaitadprāṇamavaṣṭabhya vidhārayāmi' iti śravaṇāt ।
+ye tu imaṃ śarīraṃ parigṛhya iti paṭhanti teṣāmimaṃ jīvamindriyagrāmaṃ vā parigṛhya śarīramutthāpayatīti vyākhyeyam ।
+prajñātmatvamapi jīve tāvaccetanatvādupapannam ।
+mukhye api prāṇe prajñāsādhanaprāṇāntarāśrayatvādupapannameva ।

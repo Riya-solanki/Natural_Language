@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 420 | label: grammar | g:0.667 m:0.5 ---
+
+itare tvānandādayo dharmā brahmasvarūpapratipādanāyaivocyamānā arthasāmānyātpratipādyasya brahmaṇo dharmiṇa ekatvātsarve sarvatra pratīyeranniti vaiṣamyaṃ pratipattimātraprayojanā hi ta iti ।।

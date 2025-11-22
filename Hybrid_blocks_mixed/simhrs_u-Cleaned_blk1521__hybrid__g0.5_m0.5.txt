@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1521 | label: hybrid | g:0.5 m:0.5 ---
+
+yudhiṣṭhiraḥ-kiṃ nāma cārvākeṇa rakṣasā vayam evaṃ vipralabdhāḥ ?

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4230 | label: meter | g:0.25 m:0.5 ---
+
+yat kṛtvā duṣkaraṃ karma devair api suduṣkaram 
+lālayeḥ svajanaṃ bhogai ratnaiś ca svayam arjitaiḥ ।।

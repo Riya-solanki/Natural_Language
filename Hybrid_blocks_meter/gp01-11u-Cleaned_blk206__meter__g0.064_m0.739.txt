@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 206 | label: meter | g:0.064 m:0.739 ---
+
+mātuḥ pitus tasya ca tatra mātṛ-
+bhāvānvitā-bhrātṛ-vadhū-svasṝṇām ।
+upāyanaṃ puṇḍram itīyatī gīr
+āsīt tadīyārtha-caye mitir na ।। [upajāti]

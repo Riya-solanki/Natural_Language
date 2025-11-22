@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 627 | label: meter | g:0.25 m:0.5 ---
+
+yato yataḥ samutpannāḥ sarvamudrāḥ samāsataḥ ।
+tatra tatra tāṃ muñcedanena hṛdayena tu ।।

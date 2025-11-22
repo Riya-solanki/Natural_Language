@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2848 | label: grammar | g:0.72 m:0.0 ---
+
+devo vā dānavo vā tvam yakṣo gandharva eva vā 
+asmākaṃ bāndhavo jāto yo asi so asi namo astu te ।। 
+namo astu kṛṣṇa kṛṣṇeti namo gopālabandhave । namo bālāya goptre ca gopaveṣāya bāndhava ।। namas te śiśusiṃhāya namo bhūdharadhāriṇe । devāyātha variṣṭhāya yakṣāya ca namo namaḥ ।। namas te nandaputrāya yaśodāyāḥ sutāya ca । ko bhavān kaś ca vā devaḥ kimarthaṃ no abhirakṣasi । 
+kenacid yadi kāryeṇa vasasiiha yadṛcchayā 
+vayaṃ tavaanugāḥ sarve bhavantaṃ śaraṇaṃ gatāḥ ।।

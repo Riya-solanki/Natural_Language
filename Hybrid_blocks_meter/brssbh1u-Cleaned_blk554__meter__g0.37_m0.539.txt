@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 554 | label: meter | g:0.37 m:0.539 ---
+
+vaiśvadevaśāstrasya hi nividi kati devā ityupakramya śākalyāya yājñavalkyena trayaścettyuttaram ।
+nivinnāma śasyamānadevatāsaṃkhyāvācakāni mantrapadāni ।

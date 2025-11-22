@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1682 | label: meter | g:0.271 m:0.5 ---
+
+śūdrāś cāvaravarṇāś ca vṛṣalāś ca jaghanyajāḥ । atha śūdravargaḥ

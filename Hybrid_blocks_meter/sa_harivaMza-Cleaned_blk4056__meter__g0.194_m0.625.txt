@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4056 | label: meter | g:0.194 m:0.625 ---
+
+athārthagṛham āsādya narakasya janārdanaḥ 
+dadarśa dhanam akṣayyaṃ ratnāni vividhāni ca ।।

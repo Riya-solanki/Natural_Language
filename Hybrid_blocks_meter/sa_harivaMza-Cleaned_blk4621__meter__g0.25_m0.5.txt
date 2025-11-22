@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4621 | label: meter | g:0.25 m:0.5 ---
+
+devānām api yo devaḥ so apy avarṣata vāsavaḥ 
+śoṇitaṃ śoṇitapure sarvataḥ puram antikāt ।।

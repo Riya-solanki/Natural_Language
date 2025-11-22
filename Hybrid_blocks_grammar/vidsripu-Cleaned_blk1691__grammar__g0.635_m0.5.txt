@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1691 | label: grammar | g:0.635 m:0.5 ---
+
+kvacid vīṇāgoṣṭhī kvacid amṛtakīrṇāḥ kavigiraḥ kvacid vyādhikleśaḥ kvacid api viyogaś ca suhṛdām ।
+iti dhyātvā hṛṣyan kṣaṇam atha vighūrṇan kṣaṇam aho na jāne saṃsāraḥ kim amṛtamayaḥ kiṃ viṣamayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 888 | label: meter | g:0.25 m:0.625 ---
+
+vajradhāto mahāguhya vajraguhya suguhyadhṛk ।
+vajrasūkṣma mahādhyāna vajrakārya namo astu te ।।

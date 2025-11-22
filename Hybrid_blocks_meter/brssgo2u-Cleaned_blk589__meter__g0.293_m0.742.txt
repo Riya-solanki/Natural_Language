@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 589 | label: meter | g:0.293 m:0.742 ---
+
+etatpadārthamāha-tāsāmiti ।
+atajjalān'ityādyuktaśrutīnāṃ sākṣātpranāḍyā vā brahmajatvamātreṇopapatterityarthaḥ ।
+akramaśrutīnāṃ balavatkramaśrutyanusāreṇekavākyatvādviyadvāyudvārā tejaḥ-kāraṇe brahmaṇi iti siddham ।।

@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 722 | label: grammar | g:0.75 m:0.5 ---
+
+[gacchantaṃ] vrajantaṃ gurum [pṛṣṭhato yāyād] anuvrajet। viśantaṃ [anusaṃviśed] anupraviśet। [tadvaco nānuyuñjīta] tadājñāparyanuyogaṃ na kuryāt। na cainaṃ [śayānaṃ] suptaṃ prabodhayet। [anujñātaḥ] tadājñayā bhaikṣaṃ caret। [prāptam] āhṛtya [niveditaṃ] tasmai nivedya tadājñayaiva adyāt। tasmiṃśca supte [śayīta] supyāt। [yacca] ityevamādyanyadapi [vidhyuditaṃ] sāmānyaśāstravihitaṃ karaṇīyaṃ [kuryād] anutiṣṭhet।।

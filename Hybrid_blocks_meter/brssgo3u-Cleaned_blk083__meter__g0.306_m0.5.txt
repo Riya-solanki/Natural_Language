@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 83 | label: meter | g:0.306 m:0.5 ---
+
+nanu viruddhamidaṃ yamāyattā yātanāḥ pāpakarmaṇo anubhavantīti ।
+yāvatā teṣu rauravādiṣvanye citraguptādayo nānādhiṣṭhātāraḥ smaryanta iti ।

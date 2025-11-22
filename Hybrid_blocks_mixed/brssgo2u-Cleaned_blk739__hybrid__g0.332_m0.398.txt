@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 739 | label: hybrid | g:0.332 m:0.398 ---
+
+atrāha- yadi buddhivyatirikto jīvaḥ kartā syātsa svatantraḥ sanpriyaṃ hitaṃ caivātmano niyamena saṃpādayenna viparītam ।
+viparītamapi tu saṃpādayannupalabhyate ।
+naca svatantrasyātmana īdṛśī pravṛttiraniyamenopapadyata iti ।

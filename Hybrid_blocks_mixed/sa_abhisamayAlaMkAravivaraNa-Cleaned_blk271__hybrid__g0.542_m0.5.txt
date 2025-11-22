@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 271 | label: hybrid | g:0.542 m:0.5 ---
+
+ākārāḥ ākārāṇāṃ lakṣaṇādikaṃ sarvam abhisamayālaṅkāre pañcabhiḥ kārikābhiḥ savistaraṃ samyagupavarṇitam ।

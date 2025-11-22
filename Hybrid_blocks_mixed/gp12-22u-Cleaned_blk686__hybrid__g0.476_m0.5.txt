@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 686 | label: hybrid | g:0.476 m:0.5 ---
+
+kathyatāṃ vaḥ pitaḥ ko' yaṃ sambhramaḥ samupāgataḥ? ।
+yajñārtho yadi devaḥ kaḥ? pramāṇaṃ kiṃ, phalaṃ ca kim? ।। [anuṣṭubh]

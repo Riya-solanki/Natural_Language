@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3234 | label: meter | g:0.194 m:0.625 ---
+
+etau raṅgagatau yuddhe yudhyamānau vanecarau 
+nipātān antaraṃ śīghraṃ hantavyau nātra saṃśayaḥ ।।

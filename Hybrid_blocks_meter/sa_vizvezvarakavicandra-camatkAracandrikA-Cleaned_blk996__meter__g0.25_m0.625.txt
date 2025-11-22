@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 996 | label: meter | g:0.25 m:0.625 ---
+
+doṣasya yo guṇībhāvo doṣībhāvo guṇasya yaḥ ।
+sa leśasyāttato nānyā vyājastutiritismṛtā ।।

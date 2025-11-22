@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2259 | label: meter | g:0.102 m:0.5 ---
+
+tad yathā rauhiṇeyaṃ tvaṃ nandagopa mamātmajam 
+gopāyasi yathā tāta tattvānveṣī tathā kuru 
+vighnā hi bahavo loke bālān uttrāsayanti hi ।।

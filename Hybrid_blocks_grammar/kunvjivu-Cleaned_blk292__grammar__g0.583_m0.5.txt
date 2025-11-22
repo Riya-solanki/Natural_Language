@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 292 | label: grammar | g:0.583 m:0.5 ---
+
+mārgāṇāṃ tritayaṃ tadetadasakṛtprāptavyaparyutsukaiḥ kṣuṇṇaṃ kairapi yatra kāmapi bhuvaṃ prāpya prasiddhiṃ gatāḥ ।
+sarve svairavihārahāri kavayo yāsyanti yenādhunā tasmin ko api sa sādhusundarapadānyāsakramaḥ kathyate ।।

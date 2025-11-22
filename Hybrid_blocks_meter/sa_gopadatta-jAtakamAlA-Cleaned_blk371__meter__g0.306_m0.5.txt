@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 371 | label: meter | g:0.306 m:0.5 ---
+
+daivāt kathaṃ cit saṃprāptaṃ cakṣur ekaṃ tvam adya me ।
+putraka kleśabhāginyā mṛtyunā hriyase adhunā ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2935 | label: meter | g:0.194 m:0.625 ---
+
+mṛto narakam abhyeti hīyate atrāpi cāyuṣaḥ 
+paradāraratiḥ puṃsām ubhayatrāpi bhītidā ।।

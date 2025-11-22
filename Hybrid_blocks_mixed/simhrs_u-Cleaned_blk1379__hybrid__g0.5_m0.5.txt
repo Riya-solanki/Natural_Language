@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1379 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā tatraiva aṣṭamāṅke vīra-vilāsa-nāmani ekaḥ-sakhe durmukha kim api mahān sattva-bhraṃśo daśakaṇṭhasya yat kumāra-siṃhanāda-vadham apy ākarṇya na śokaṃ kṛto nāpy amarṣaḥ । ity upakramya,

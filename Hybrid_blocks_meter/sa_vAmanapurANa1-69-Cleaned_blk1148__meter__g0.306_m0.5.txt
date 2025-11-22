@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1148 | label: meter | g:0.306 m:0.5 ---
+
+ṛtāvṛtau parvakāleṣu nityaṃ tammabare hyāśramamāvasat saḥ ।
+śeṣaṃ ca kālaṃ sa hi daṇḍakasthas tapaścārāmitakāntimān muniḥ ।।

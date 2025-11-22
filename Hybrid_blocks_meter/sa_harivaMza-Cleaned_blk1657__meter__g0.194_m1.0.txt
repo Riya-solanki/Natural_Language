@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1657 | label: meter | g:0.194 m:1.0 ---
+
+bhāskarākāramukuṭaḥ śiñjitābharaṇāṅgadaḥ 
+mandarotkīrṇasaṃkāśo mahārajatasaṃvṛtaḥ ।।

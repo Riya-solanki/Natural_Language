@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1971 | label: meter | g:0.272 m:0.845 ---
+
+naṣṭāśva-bhagna-śakaṭa-nyāyena pratipāditam ।
+ucitā te mahārāja seyaṃ kāruṇya-ghoṣaṇā ।।

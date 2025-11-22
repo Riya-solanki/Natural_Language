@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 789 | label: grammar | g:0.75 m:0.5 ---
+
+parvasu aṣṭamīcaturdaśyādiṣu [viśiṣṭenopahāreṇa] saviśeṣeṇa balyādyupahāreṇa [śaṅkaraṃ] parameśvaraṃ [sādhyāṇuṃ] sādhyamantraṃ kṣetrapālaṃ ca [yajed] arcayet। sādhyamantrasaṃskṛtaniveditaṃ caruṃ na [kasyacid] anyasmai dadyāt। kiṃ ca [labdhānujñaḥ] he bhagavan idamahaṃ karomi, anujānīhi māmiti prārthyājñāṃ labdhvā [mṛṣā] tāṃ tāmakurvan [jātu] yadā kadācit [ekamapi kṣaṇaṃ] kṣaṇamapi [na tiṣṭhet] nāsīta।।

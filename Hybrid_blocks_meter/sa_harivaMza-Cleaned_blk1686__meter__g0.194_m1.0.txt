@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1686 | label: meter | g:0.194 m:1.0 ---
+
+yamendravaruṇair guptā dhanadena ca dhīmatā 
+saṃpradīptāgnipavanā nārāyaṇaparāyaṇā ।।

@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 944 | label: hybrid | g:0.274 m:0.375 ---
+
+parīkṣitā buddhiḥ, manasa idānīṃ parīkṣākramaḥ tat kiṃ pratiśarīramekamanekamiti
+vicāre

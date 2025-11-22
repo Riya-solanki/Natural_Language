@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 815 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha spaṣṭam ācaṣṭa[] ṛṣir uvāca-dināntare tu sarva-nimantraṇāyāṃ yathā-vṛttānte vartite sarvāḥ sādhāraṇa-mahodayāḥ śrī-rādhādayaś ca tatrāgamiṣyanti । kintu pūrvata eva jana-saṅgīta-vrajeśa-nirmitānaṅgīkāratām ātmano duḥkha-bhaṅgī-saṅgitāṃ maṃsyanta eva । tava ca rūkṣatā-vīkṣaṇena tāḥ sūkṣmāṅgatāṃ gamiṣyanti । tatra sāmpratam anyāsāṃ svasamāna-kanyānām aṅgīkāreṇa hṛt-kamale' pi bhaṅgitām āpatsyante ।

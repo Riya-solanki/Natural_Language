@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1708 | label: meter | g:0.194 m:0.5 ---
+
+so astrajālair bahuvidhair dhanurbhiḥ parighair api 
+divyam ākāśam āvavre parvatair ucchritair iva ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9038 | label: meter | g:0.25 m:0.5 ---
+
+lobhamohādayaḥ pañca śarīre caiva taskarāḥ ।
+tṛṣṇā kāmo apyahaṅkāraḥ kuto yānti janārdana ।।

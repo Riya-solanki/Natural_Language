@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3605 | label: meter | g:0.307 m:0.623 ---
+
+pretaskandhe samāropya tyājito marumaṇḍalam ।
+ramye atha śūrasenākhye deśe prāptaḥ sa vai vaṇik ।।

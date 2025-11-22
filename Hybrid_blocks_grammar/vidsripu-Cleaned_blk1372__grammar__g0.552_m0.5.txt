@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1372 | label: grammar | g:0.552 m:0.5 ---
+
+prakṛtir iha khalānāṃ doṣacittaṃ guṇajñe vinayalalitabhāve dveṣaraktā ca buddhiḥ ।
+ubhayam idam avaśyaṃ jāyate sarvavāraṃ paṭur api niyatātmā kīrtim evābhidhatte ।।

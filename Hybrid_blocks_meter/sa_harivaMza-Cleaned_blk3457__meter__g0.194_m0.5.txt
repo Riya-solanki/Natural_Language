@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3457 | label: meter | g:0.194 m:0.5 ---
+
+sthāpitaṃ satsu māhātmyaṃ śaṅkitā ripavaḥ kṛtāḥ 
+sthāpito yādavo vaṃśo garvitāḥ suhṛdaḥ kṛtāḥ ।।

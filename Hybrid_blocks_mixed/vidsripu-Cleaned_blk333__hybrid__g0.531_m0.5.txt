@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 333 | label: hybrid | g:0.531 m:0.5 ---
+
+pānthasyārāt kṣaṇam iva gater mandimānaṃ diśanti pratyūṣeṣu pratanusalilodgīrṇabāṣpapravāhāḥ ।
+vārāṃ pūrṇā iva sacakitā vārapārīṇadṛṣṭer dūrottānā api śikhariṇāṃ nirjharadroṇimārgāḥ ।।

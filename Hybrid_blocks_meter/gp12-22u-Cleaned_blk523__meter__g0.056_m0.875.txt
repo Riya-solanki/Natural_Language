@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 523 | label: meter | g:0.056 m:0.875 ---
+
+yarhi rāmam avahad danoḥ sutaḥ
+śubhra-dhāma-vapuṣaṃ tamaḥ-prabhaḥ ।
+indu-hāri tama ity amuṃ tadā
+divya-loka-nikaras tv amanyata ।। [rathoddhatā]

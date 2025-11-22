@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 720 | label: meter | g:0.25 m:0.871 ---
+
+tataḥ sarvatathāgatajñānavajrādhiṣṭhānasamādhimudrājñānaṃ śikṣayet ।
+sūkṣmavajraprayogeṇa bhāvayedvajramadhyataḥ ।
+buddhabimbaṃ svamātmānaṃ buddhatvaṃ so hyavāpnuyād ।।

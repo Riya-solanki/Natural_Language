@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1849 | label: meter | g:0.306 m:0.5 ---
+
+tataḥ papraccha kuṭilā śīghraṃ kva vrajase kave ।
+so abravīt putraduṣṭyarthaṃ jātaṃ śaravaṇe śiśum ।।

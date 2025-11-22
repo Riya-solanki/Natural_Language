@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7504 | label: meter | g:0.25 m:0.695 ---
+
+āsannamaraṇo matyaścettīrthaṃ pratinayite ।
+tīrthaprāptau bhavenmuktirmriyate yadi mārgagaḥ ।
+padepade kratusamaṃ bhavettasya na saṃśayaḥ ।।

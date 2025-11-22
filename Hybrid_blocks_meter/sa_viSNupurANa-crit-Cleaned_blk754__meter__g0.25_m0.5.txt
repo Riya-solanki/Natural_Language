@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 754 | label: meter | g:0.25 m:0.5 ---
+
+yat tvayā prārthitaṃ sthānam etat prāpsyati vai bhavān 
+tvayāhaṃ toṣitaḥ pūrvam anyajanmani bālaka ।।

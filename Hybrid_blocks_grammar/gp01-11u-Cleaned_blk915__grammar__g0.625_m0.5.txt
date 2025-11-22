@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 915 | label: grammar | g:0.625 m:0.5 ---
+
+[] tad evaṃ vṛtte vṛtte sarve tat-tat-kathāṃ api tat-tat-parvaivānubhūya svaṃ svam āvāsam āsannavantaḥ ।

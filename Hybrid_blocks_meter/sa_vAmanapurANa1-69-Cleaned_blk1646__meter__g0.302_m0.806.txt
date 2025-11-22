@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1646 | label: meter | g:0.302 m:0.806 ---
+
+japtvā sahasranāmānamumāpārśvamupāgataḥ ।
+sametya devīṃ vihasan śaṅkaraḥ śūladhṛg vaḥ ।।

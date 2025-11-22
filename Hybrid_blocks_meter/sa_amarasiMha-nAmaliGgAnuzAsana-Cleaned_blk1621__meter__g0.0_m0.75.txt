@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1621 | label: meter | g:0.0 m:0.75 ---
+
+klībe satyāpanaṃ satyaṅkāraḥ satyākṛtiḥ striyām

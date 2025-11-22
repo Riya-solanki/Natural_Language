@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1511 | label: meter | g:0.0 m:1.0 ---
+
+ekaṃ krameṇānekasmin paryāyaḥ

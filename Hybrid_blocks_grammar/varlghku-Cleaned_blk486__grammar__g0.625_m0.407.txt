@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 486 | label: grammar | g:0.625 m:0.407 ---
+
+svaratisūtisūyatidhūñūdito vā ।।
+svaratyāderūditaśca parasya valāderārdhadhātukasyeḍ vā syāt । jugopitha, jugoptha । gopāyitā, gopitā, goptā । gopāyiṣyati, gopiṣyati, gopsyati । gopāyatu । gopāyet । agopāyīt ।।

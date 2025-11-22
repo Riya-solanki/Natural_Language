@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1968 | label: meter | g:0.306 m:0.5 ---
+
+pati-hīnā ca yā nārī jāyā-hīnaś ca yaḥ pumān ।
+tau dampatī yathā-kāmaṃ bhavetām iti ghuṣyatām ।।

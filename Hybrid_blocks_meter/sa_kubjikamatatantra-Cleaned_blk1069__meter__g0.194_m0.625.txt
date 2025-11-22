@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1069 | label: meter | g:0.194 m:0.625 ---
+
+anyathā na bhavet siddhiḥ kiñcijjñaḥ paścimānvaye 
+śrutvā savismayaṃ vākyam ānandapraṇayānvitam ।।

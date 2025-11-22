@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 159 | label: meter | g:0.328 m:0.595 ---
+
+hṛdayaṃ bodhaparyāyaḥ so asya ghoraḥ śivo yataḥ ।।
+parigrahasya ghoratvādghoroktir upacārataḥ ।

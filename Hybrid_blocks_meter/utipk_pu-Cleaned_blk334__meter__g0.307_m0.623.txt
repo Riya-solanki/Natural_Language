@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 334 | label: meter | g:0.307 m:0.623 ---
+
+śūnyādyabodharūpās tu kartāraḥ pralayākalāḥ ।
+teṣāṃ kārmo malo apy asti māyīyas tu vikalpitaḥ ।।

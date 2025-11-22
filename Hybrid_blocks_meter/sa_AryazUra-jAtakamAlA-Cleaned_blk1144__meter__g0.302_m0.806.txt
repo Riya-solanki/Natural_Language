@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1144 | label: meter | g:0.302 m:0.806 ---
+
+guṇapravādairayathārthavṛddhairvimarśapātākulitaiḥ patadbhiḥ ।
+vicūrṇitā kīrtitanurnarāṇāṃ duḥkhena śaknoti punaḥ prasartum ।।

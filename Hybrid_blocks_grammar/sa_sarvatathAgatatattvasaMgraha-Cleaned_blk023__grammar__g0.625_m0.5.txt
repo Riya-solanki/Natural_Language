@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 23 | label: grammar | g:0.625 m:0.5 ---
+
+atha sarvatathāgatāḥ prakṛtiprabhāsvaracittajñānasya sphītīkaraṇahetoḥ punarapi tasmai bodhisattvāya oṃ bodhicittamutpādayāmi ityanena prakṛtisiddhena mantreṇa bodhicittamutpāditavantaḥ ।

@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 365 | label: hybrid | g:0.233 m:0.217 ---
+
+{kāñcukīyaḥ} - bhavati nivedyatāṃ nivedyatāṃ vatsarājyalābhapravṛddhodayāyodayanāya eṣa khalu mahāsenasya sakāśād raibhyasagotrāḥ kāñcukīyaḥ prāptaḥ tatrabhavatyā cāṅgāravatyā preṣitāryā vasundharā nāma vāsavadattādhātrī ca pratīhāram upasthitā iti 
+{pratīhārī} - ayya adesakāḷo paḍihārassa 
+[ārya adeśakālaḥ pratihārasya । ]

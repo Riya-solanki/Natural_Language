@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3269 | label: meter | g:0.25 m:0.555 ---
+
+kṣāntistayavihīnaśca krūrabuddhiśca nindakaḥ ।
+dāmbhikaḥ kapaṭī caiva śaṭhaśca spṛhayānvitaḥ ।
+aśakto bhayabhītaśca rājñā tyaktavya eva saḥ ।।

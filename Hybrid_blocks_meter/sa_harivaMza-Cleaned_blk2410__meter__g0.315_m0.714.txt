@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2410 | label: meter | g:0.315 m:0.714 ---
+
+saṃtatāsāraniryatnāḥ klinnapatrottaracchadāḥ 
+na tyajanty agamāgrāṇi śrāntā iva patatriṇaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9281 | label: meter | g:0.25 m:0.625 ---
+
+tvacāyāṃ śālmalidvāpo plakṣaḥ romṇāṃ ca sañcaye ।
+nakhasthaḥ puṣkaradvīpaḥ sāgarāstadanantaram ।।

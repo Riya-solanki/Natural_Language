@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3214 | label: meter | g:0.272 m:0.595 ---
+
+vijñānamayam evaitad aśeṣam avagacchata 
+budhyadhvaṃ me vacaḥ samyag budhair evam udīritam ।।

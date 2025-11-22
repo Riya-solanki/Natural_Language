@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 811 | label: meter | g:0.25 m:0.75 ---
+
+tasminnaṇḍe sthito brahmā śayanāyopacakrame ।
+sahasrayugaparyantaṃ suptvā sa pratyabudhyata ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1571 | label: meter | g:0.251 m:0.623 ---
+
+jambūdvīpavibhāgāṃs tu teṣāṃ vipra niśāmaya 
+pitrā dattaṃ himāhvaṃ tu varṣaṃ nābhes tu dakṣiṇam ।।

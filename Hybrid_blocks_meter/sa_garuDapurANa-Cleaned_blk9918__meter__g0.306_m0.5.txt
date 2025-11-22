@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9918 | label: meter | g:0.306 m:0.5 ---
+
+mohādvināṣṭaṃ yadi garbhacintitaṃ smṛtaṃ punarmṛtyugate cadehe ।
+tasminpranaṣṭe hṛdi cintitaṃ gataṃ smṛtaṃ punargarbhagate ca dehe ।।

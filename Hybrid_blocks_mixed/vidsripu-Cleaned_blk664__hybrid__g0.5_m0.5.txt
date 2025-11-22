@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 664 | label: hybrid | g:0.5 m:0.5 ---
+
+adharaḥ padmarāgo ayam anarghaḥ savraṇo api te ।
+mugdhe hastaḥ kimartho ayam apārtha iha dīyate ।।

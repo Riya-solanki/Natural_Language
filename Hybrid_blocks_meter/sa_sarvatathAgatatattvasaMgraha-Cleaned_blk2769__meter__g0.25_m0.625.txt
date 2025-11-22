@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2769 | label: meter | g:0.25 m:0.625 ---
+
+etameva samāpattyo gamanāgamanāni tu ।
+kurvantyaśca bhramantyo vā yathā paśyettathāgamaḥ ।।

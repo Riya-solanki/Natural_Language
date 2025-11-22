@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 36 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha yadi kāmābhidhānasya kopa-dhāmānanam idam, tadā viṣama-bāṇasya tasyānuyānam eva bhaya-nirvāṇaṃ viśrāṇayati । yadi ca tasyā eva kānti-sadanaṃ vanam idaṃ vidyate, tadā tu sutarām eva tad-diśaṃ praviśatas tan mama śarma-marma praviśatiti । kiṃ ca-

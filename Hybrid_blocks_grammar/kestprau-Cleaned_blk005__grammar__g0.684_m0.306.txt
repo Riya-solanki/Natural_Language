@@ -1,0 +1,7 @@
+--- source: kestprau-Cleaned.txt | block: 5 | label: grammar | g:0.684 m:0.306 ---
+
+sā ca caturviṃśatidhā prakṛteḥ prathamo mahāniti vikāraḥ pariṇāma iti yāvat mahattattvameva buddhitattvamityabhidhīyate ahamityahaṃkārākhyo mahattattvasya prathamo vikāraḥ tadanantaraṃ pañcatanmātrāḥ śabdasparśarūparasagandhākhyā bhavati athākāśādibhūtapañcakaṃ athaikādaśākṣāṇi śrotrasparśanacakṣūrasanaghrāṇavāggudaliṅgakaracaraṇāntaḥkaraṇānyekādaśendriyāṇi bhavanti ।
+tatra mahattattvamahaṃkāratattvaṃ śabdādyāḥ pañcatanmātrā ityetat tattvasaptakaṃ prakṛtivikṛtibhāvāpannaṃ pūrvaṃ pūrvaṃ prati kāryatvamuttarottaraṃ prati kāraṇatvamityarthaḥ ।
+tathāhi mahattattvaṃ mūlaprakṛteḥ kāryaṃ kāraṇaṃ cāhaṃkāratattvasya ahaṃkāratattvaṃ tathā mahattattvasya kāryaṃ kāraṇaṃ ca śabdatattvākhyāditanmātraṃ prati tathāhi tadapi pūrvaṃ prati kāryamuttaraṃ prati kāraṇaṃ ceti bodhyam ।
+ākāśādibhūtapañcakamekādaśendriyāṇītyete punaḥ ṣoḍaśabhāvāśca prakṛtijanyā eva na tu kasyacit prakṛtiḥ tattvāntaropādānarūpatvābhāvāt ।
+seyaṃ prakṛtiracetanā pariṇāmitvāt ।

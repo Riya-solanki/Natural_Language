@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 383 | label: grammar | g:0.75 m:0.5 ---
+
+[] tāsu gargādi-hita-vargād api kramād adhigata-kṛṣṇaika-tṛṣṇāsu prāṇa-paryanta-saṅkṣayāśaṅkayā tam udvāham api na sahasā na ca sākṣād udbhāvayāmāsa, kim uta tādṛg-avasthānāṃ prasthāpanam?

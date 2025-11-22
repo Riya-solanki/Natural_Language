@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9337 | label: meter | g:0.25 m:0.625 ---
+
+kṣaṇāhni prārthayantyanye dehidehīti koṭiśaḥ ।
+yamaloke mayā dṛṣṭā mamasvaṃ bhakṣitaṃ tvayā ।।

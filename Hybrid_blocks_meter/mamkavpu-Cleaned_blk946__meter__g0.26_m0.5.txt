@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 946 | label: meter | g:0.26 m:0.5 ---
+
+{vada vada jitaḥ sa śatrurna hato jalpaṃśca tava tavāsmīti ।
+citraṃ citramarodīddhā heti paraṃ mṛte putre ।।}

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 411 | label: meter | g:0.217 m:0.845 ---
+
+sa-ta-madhyasthitaḥ kaṇṭhaḥ ma-cha-madhyagatoddharet 
+ra-ma-madhyagataṃ tadvad akṣarau tu śubhātmakau ।।

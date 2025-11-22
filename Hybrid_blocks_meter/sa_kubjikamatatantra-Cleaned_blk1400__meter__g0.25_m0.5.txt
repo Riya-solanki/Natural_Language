@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1400 | label: meter | g:0.25 m:0.5 ---
+
+svādhiṣṭhānaṃ tu tat tasya pūjanāt tat padaṃ labhet 
+prathamaṃ na hi sarvasya sarvajñatvaṃ prapadyate ।।

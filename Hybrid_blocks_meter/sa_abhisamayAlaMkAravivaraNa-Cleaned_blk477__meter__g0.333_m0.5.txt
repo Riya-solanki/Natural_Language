@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 477 | label: meter | g:0.333 m:0.5 ---
+
+avipākalakṣaṇaḥ asya sarvaṃ svarūpam abhisamayālaṅkāre ekayā kārikayā parīdīpitam । tathā hi -

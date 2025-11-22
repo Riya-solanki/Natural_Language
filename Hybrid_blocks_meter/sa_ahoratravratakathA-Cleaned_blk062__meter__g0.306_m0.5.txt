@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 62 | label: meter | g:0.306 m:0.5 ---
+
+āvāhayāmi tvaṃ nātha tiṣṭha tatra manohare ।
+sthiro bhava sadā mā gāḥ sāṃnidhyaṃ kuru sthāvare ।।

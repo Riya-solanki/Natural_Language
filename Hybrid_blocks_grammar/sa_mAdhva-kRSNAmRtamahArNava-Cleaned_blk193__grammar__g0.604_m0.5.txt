@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 193 | label: grammar | g:0.604 m:0.5 ---
+
+kalau keśavabhaktānāṃ na bhayaṃ vidyate kvacit smṛte saṃkīrtite dhyāte saṃkṣayaṃ yāti pātakam ।।

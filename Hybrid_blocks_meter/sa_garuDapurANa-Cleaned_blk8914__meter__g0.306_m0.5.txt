@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8914 | label: meter | g:0.306 m:0.5 ---
+
+jīvamāne ca pitari na hi puttre sapiṇḍatā ।
+strīṇāṃ sapiṇḍanaṃ nāsti tathā bhartari jīvati ।।

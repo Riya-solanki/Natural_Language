@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 948 | label: meter | g:0.25 m:1.0 ---
+
+kimityapāsyābharaṇāni yauvane ।
+tvayā dhṛtaṃ vārdhakaśobhi valkalam ।।

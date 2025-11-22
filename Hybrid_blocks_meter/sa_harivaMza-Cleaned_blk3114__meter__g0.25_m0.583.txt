@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3114 | label: meter | g:0.25 m:0.583 ---
+
+yāsyanti ca vrajāḥ sarve sagokulaparigrahāḥ 
+kaṃsājñayā samucitaṃ karam ādāya vārṣikam ।। 
+vayaṃ caiva pragantāro ratham āsthāya saṃgatāḥ । 
+samṛddhas tasya kaṃsasya bhaviṣyati dhanurmahaḥ 
+taṃ drakṣyatha samṛddhaṃ ca svajanaṃ ca sameṣyatha ।।

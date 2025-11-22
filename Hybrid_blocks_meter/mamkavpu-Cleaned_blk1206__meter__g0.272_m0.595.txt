@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1206 | label: meter | g:0.272 m:0.595 ---
+
+{cakitahariṇalolalocanāyāḥ krudhi taruṇāruṇatārahārikānti ।
+sarasijamidamānanaṃ ca tasyāḥ samamiti cetasi saṃmadaṃ vidhatte ।।}

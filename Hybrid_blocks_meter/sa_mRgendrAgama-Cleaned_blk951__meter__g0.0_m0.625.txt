@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 951 | label: meter | g:0.0 m:0.625 ---
+
+śaivaṃ vapuriti dhyāyed ato yadyatsamīhitam 
+siddhaye dhāraṇādīnāṃ vṛttīnāmanilasya ca ।। MT

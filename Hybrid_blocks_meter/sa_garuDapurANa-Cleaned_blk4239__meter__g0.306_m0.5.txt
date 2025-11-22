@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4239 | label: meter | g:0.306 m:0.5 ---
+
+kaphavātau samau yatra hīnapittasya dehinaḥ ।
+tīkṣṇo atha vā divā mando jāyate rātrijo jvaraḥ ।।

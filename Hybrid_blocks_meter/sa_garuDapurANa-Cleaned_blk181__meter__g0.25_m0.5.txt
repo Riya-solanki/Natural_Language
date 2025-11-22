@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 181 | label: meter | g:0.25 m:0.5 ---
+
+bodhaṃ buddhistathā lajjā vinayaṃ vapurātmajam ।
+vyavasāyaṃ prajajñe vai kṣemaṃ śāntirasūyata ।।

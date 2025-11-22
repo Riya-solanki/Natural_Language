@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 392 | label: meter | g:0.306 m:0.5 ---
+
+alaṃ mahīpāla tava śrameṇa prayuktamapyastramito vṛthā syāt ।
+na pādaponmūlanaśakti raṃhaḥ śiloccaye mūrchati mārutasya ।।

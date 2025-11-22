@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2442 | label: meter | g:0.25 m:0.5 ---
+
+maṇibandheti vikhyātā rakṣā kavacinī smṛtā ।
+sā eva sarvasiddhayarthā yakṣayogā mukhasthitā ।।

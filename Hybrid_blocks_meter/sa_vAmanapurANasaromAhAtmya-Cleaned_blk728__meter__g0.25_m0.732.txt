@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 728 | label: meter | g:0.25 m:0.732 ---
+
+lomaharṣaṇa uvāca ।
+samudrāstatra catvāro darviṇā āha-tāḥ purā ।
+pratyekaṃ tu naraḥ snāto gosahasraphalaṃ labhet ।।

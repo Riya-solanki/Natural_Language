@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1072 | label: meter | g:0.25 m:0.5 ---
+
+apatyaṃ kṛttikānāṃ tu kārttikeya iti smṛtaḥ ।।

@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 919 | label: meter | g:0.305 m:0.868 ---
+
+antaraślokaḥ ।
+tulyayogitāpyatraivāntarbhāvānnātiricyate ।
+tathā ca lakṣaṇaṃ nidarśanaṃ caitasyāḥ

@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 59 | label: grammar | g:0.562 m:0.5 ---
+
+tatrāvaśyaṃ janitasalilodgāram antaḥpraveśān neṣyanti tvāṃ surayuvatayo yantradhārāgṛhatvam ।
+tābhyo mokṣas tava yadi sakhe gharmalabdhasya na syāt krīḍālolāḥ śravaṇaparuṣair garjitair bhāyayes tāḥ ।।

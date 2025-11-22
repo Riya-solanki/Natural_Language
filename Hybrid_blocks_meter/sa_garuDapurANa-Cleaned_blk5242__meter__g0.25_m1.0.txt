@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5242 | label: meter | g:0.25 m:1.0 ---
+
+vaṃśādinetraṃ kurvīta paḍaṣṭadvādaśāṅgulam ।
+karkandhṛphalavacchidraṃ vastiruttānaśāyine ।।

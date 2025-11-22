@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 547 | label: meter | g:0.28 m:0.655 ---
+
+nanu ayo ayaṃ vijñānamayaḥ prāṇeṣu' iti śārīra eva mahattvasaṃbandhitvena pratinirdiśyate ।
+śāstradṛṣṭyā tveṣa nirdeśo vāmadevavaddraṣṭavyaḥ ।
+tasmātprājñaviṣayatvātparimāṇāntaraśravaṇasya ca jīvasyāṇutvaṃ virudhyate ।।

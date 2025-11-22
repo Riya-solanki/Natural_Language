@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1866 | label: meter | g:0.194 m:0.5 ---
+
+padamānam aśeṣaṃ tu atra sarvaṃ samāpyate 
+ājñāto bhuñjate kālaṃ padaṃ jñātvājarāmaram ।।

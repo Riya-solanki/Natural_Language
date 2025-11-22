@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1099 | label: meter | g:0.302 m:0.806 ---
+
+hetuśca sūkṣmo leśo atha nālaṅkāratayā mataḥ ।
+samudāyābhidheyasya vakroktyanabhidhānataḥ ।।

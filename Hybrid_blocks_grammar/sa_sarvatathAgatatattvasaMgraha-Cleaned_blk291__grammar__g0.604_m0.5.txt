@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 291 | label: grammar | g:0.604 m:0.5 ---
+
+santi bhagavantastathāgatāḥ kecit sattvā mahāpāpakāriṇaste idaṃ vajradhātumahāmaṇḍalaṃ dṛṣṭvā praviṣṭā ca sarvāpāyavigatā bhaviṣyanti ।

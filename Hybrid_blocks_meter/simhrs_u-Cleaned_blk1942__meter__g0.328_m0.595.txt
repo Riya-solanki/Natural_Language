@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1942 | label: meter | g:0.328 m:0.595 ---
+
+tat padaṃ tanu-madhyāyā yenāśvattha-dalopamam ।
+tad-aśvattho' smi vṛkṣāṇām ity ūce bhagavān hariḥ ।। iti ।

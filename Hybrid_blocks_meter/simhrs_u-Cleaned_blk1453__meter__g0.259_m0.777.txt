@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1453 | label: meter | g:0.259 m:0.777 ---
+
+atha prasādaḥ-
+śuśrūṣādi-prāptaṃ prasādam āhuḥ prasannatvam ।।

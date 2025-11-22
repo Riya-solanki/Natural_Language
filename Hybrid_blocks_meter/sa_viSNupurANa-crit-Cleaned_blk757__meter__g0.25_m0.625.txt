@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 757 | label: meter | g:0.25 m:0.625 ---
+
+tatsaṅgāt tasya tām ṛddhim avalokyātidurlabhām 
+bhaveyaṃ rājaputro aham iti vāñchā tvayā kṛtā ।।

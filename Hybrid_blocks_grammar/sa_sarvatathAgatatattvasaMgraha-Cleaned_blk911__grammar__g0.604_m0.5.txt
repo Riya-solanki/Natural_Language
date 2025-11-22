@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 911 | label: grammar | g:0.604 m:0.5 ---
+
+atha bhagavān sarvatathāgatasamayākarṣaṇavajrannāma samādhiṃ samāpadyedaṃ sarvatathāgatasamayāṅkuśannāma sarvatathāgatahṛdayaṃ svahṛ[daya]n niścacāra huṃ ṭakki jjaḥ ।।

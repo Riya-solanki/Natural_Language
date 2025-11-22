@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3660 | label: meter | g:0.306 m:0.5 ---
+
+etat tavoktaṃ paramaṃ pavitraṃ dhanyaṃ yaśasyaṃ śubharūpadāyi ।
+nakṣatrapuṃsaḥ paramaṃ vidhānaṃ śṛṇuṣva puṇyāmiha tīrthayātrāma ।।

@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 220 | label: meter | g:0.25 m:0.75 ---
+
+iti kriyādhikāre dvitīyam āhnikam ।।

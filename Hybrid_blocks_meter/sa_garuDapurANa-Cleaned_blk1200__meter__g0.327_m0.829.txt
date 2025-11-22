@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1200 | label: meter | g:0.327 m:0.829 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+prāsādānāṃ lakṣaṇaṃ ca vakṣye śaunaka tacchṛṇu ।
+catuḥ ṣaṣṭipadaṃ kṛtvā digvidikṣūpalakṣitam ।।

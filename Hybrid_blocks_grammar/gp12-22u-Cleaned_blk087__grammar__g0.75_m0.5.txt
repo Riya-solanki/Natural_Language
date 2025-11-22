@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 87 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca vipratīsāra-sārānusārādruta-vidrutatara-cetasaḥ śrī-vraja-kula-candramasaḥ kramaśaḥ sarveṣāṃ mukham abhidatta-dṛśaḥ stimitī-kṛta-nijādharā netrāmbhu-dhārā nipetuḥ, yā evāṅkurī-kṛta-vasudhāḥ sudhāyamānā yathā-kramaṃ sarvaṃ cetayāmāsuḥ । kintu mura-śatruḥ puraḥ puraḥ-stha-gamanāveśād apuraḥ-stha-deśāśritānāṃ cetanāṃ tadā na ciceta, cirād eva tv acetīt ।

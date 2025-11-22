@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1900 | label: meter | g:0.194 m:0.625 ---
+
+mahāntaṃ ca samāvṛtya pradhānaṃ samavasthitam 
+anantasya na tasyāntaḥ saṃkhyānaṃ vāpi vidyate ।।

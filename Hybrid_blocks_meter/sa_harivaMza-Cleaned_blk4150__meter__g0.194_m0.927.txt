@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4150 | label: meter | g:0.194 m:0.927 ---
+
+kāñcanāgrāṇi bhāsvanti merukūṭanibhāni ca 
+pāṇḍupāṇḍuraśṛṅgaiś ca śātakumbhaparicchadaiḥ 
+ramyasānuguhāśṛṅgair vicitrair iva parvataiḥ ।। 
+prāsādaśikharāṇi ca ।gṛhāṇi ramaṇīyāni ।
+pañcavarṇasavarṇaiś ca puṣpavṛṣṭisamaprabhaiḥ 
+parjanyatulyanirghoṣair nānārūpair ivādribhiḥ ।।

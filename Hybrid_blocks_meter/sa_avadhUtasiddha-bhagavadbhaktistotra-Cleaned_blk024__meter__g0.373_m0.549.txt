@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 24 | label: meter | g:0.373 m:0.549 ---
+
+sarvajñabījam avikāram aluptaśaktim niḥśreyasābhyudayamārgavidhānahetum ।
+tvām eva deva guravaḥ prathame api samyag ārādhya tīrthakarabhā mahimānam āpuḥ ।।

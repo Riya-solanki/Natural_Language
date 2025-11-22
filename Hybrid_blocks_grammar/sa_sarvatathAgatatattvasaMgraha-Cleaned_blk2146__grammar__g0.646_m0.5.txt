@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2146 | label: grammar | g:0.646 m:0.5 ---
+
+ākāśe vānyadeśe vā padmabimbaṃ tu bhāvayet । dṛṣṭvā tu bhukṣvā tatpadmamadṛśyo bhavati kṣaṇād ।। ।।

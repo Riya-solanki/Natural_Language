@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5149 | label: meter | g:0.194 m:0.625 ---
+
+āśīs tu puruṣaṃ dṛṣṭvā deśakālānuvartinī 
+yuge yuge yathākālam ṛṣibhiḥ samudāhṛtā ।।

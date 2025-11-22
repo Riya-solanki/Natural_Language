@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2231 | label: meter | g:0.25 m:0.5 ---
+
+sa tatra tvarito dvāri kiṃ jātam iti cābravīt 
+dīyatāṃ śīghram ity evaṃ vāgbhiḥ samabhitarjayat ।।

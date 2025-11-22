@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 511 | label: meter | g:0.25 m:0.75 ---
+
+sarvatathāgatamahāyānābhisamayān mahākalparājād vajradhātumahāmaṇḍalavidhivistaraḥ samāptaḥ ।।

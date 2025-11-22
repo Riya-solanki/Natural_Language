@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5003 | label: meter | g:0.25 m:0.5 ---
+
+gārgyaṃ goṣṭhyāṃ dvijaṃ śyālaḥ ṣaṇḍa ity uktavān dvija 
+yadūnāṃ saṃnidhau sarve jahasur yādavās tataḥ ।।

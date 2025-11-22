@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 306 | label: hybrid | g:0.5 m:0.5 ---
+
+havyavāhanāś caite me bhavanti tat kavyavāhanā iti ।

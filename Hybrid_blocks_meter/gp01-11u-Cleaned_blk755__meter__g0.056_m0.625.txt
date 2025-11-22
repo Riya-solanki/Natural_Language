@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 755 | label: meter | g:0.056 m:0.625 ---
+
+nirmañchanaṃ tava bhajāma kuleśalālya
+bālyātimohana balānuja nṛtya nṛtya ।
+ity aṅganābhir uditas thi thi thitthi thīti
+kptena tāla-valayena harir nanarta ।। [vasantatilakā]

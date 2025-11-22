@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5947 | label: meter | g:0.25 m:0.5 ---
+
+vṛṣasthāne sthite siṃhe saubhāgyañca dhanādikam ।
+sthite śuni vṛṣasthāne balaśrīkāma īritaḥ ।।

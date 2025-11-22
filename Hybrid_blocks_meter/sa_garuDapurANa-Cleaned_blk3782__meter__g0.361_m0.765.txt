@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3782 | label: meter | g:0.361 m:0.765 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahmovāca ।
+śravaṇadvādaśoṃ vakṣye bhuktimuktipradāyinīm ।
+ekādaśī dvādaśī ca śravaṇena ca saṃyutā ।।

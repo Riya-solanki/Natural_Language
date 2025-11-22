@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 748 | label: meter | g:0.25 m:0.625 ---
+
+amlāyamānakaruṇārasaśībharāṇi svāntāny anākulapadakramayogikāni ।
+vākyāni sajjanamukhāmburuhacyutāni pradveṣarūkṣam api mānasam ākṣipanti ।।

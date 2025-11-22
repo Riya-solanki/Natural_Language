@@ -1,0 +1,4 @@
+--- source: rasadh_u-Cleaned.txt | block: 31 | label: meter | g:0.25 m:0.625 ---
+
+vajrīkṣīreṇa sampiṣṭāt saptāhaṃ yāti bhūmijaḥ ।
+saptāhaṃ cārkadugdhena piṣṭād yātyaśmakañcukaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3913 | label: grammar | g:0.75 m:0.5 ---
+
+jarāsaṃdhasutāt sahadevāt somāpis tasmāc chṛtavāṃs tasyāpy ayutāyus tataś ca niramitras tattanayaḥ sukṣatras tasmād api bṛhatkarmā । tataś ca senajit tasmāc ca śrutaṃjayas tato vipras tasya putraḥ śucināmā bhaviṣyati । tasyāpi kṣemyas tataś ca suvrataḥ suvratād dharmas tataḥ suśramaḥ । tato dṛḍhasenas tataḥ sumatis tasmāt subalas tasya sunīto bhavitā । tataḥ satyajit satyajito viśvajit tasyāpi ripuṃjayaḥ putraḥ । ity ete bārhadrathā bhūpatayo varṣasahasram ekaṃ bhaviṣyantīti ।।

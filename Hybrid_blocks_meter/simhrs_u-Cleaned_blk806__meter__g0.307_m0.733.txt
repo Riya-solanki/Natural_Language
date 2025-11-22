@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 806 | label: meter | g:0.307 m:0.733 ---
+
+atha praṇayaḥ-
+bāhyāntaropacārair yat prema-mānopakalpitaiḥ । 
+badhnāti bhāva-viśrambhaṃ so' yaṃ praṇaya ucyate ।।

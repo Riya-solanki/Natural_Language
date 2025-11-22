@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 974 | label: hybrid | g:0.414 m:0.282 ---
+
+anāviṣkurvannanvayāt ।
+bālyeneti yāvadbālacaritaśruteḥ kāmacāravādabhakṣatāyāśacātyantabālyena prasiddheḥ śaucādiniyamavidhāyinaśca sāmānyaśāstrasyānena viśeṣaśāstreṇa bādhanātsakalabālacaritavidhānamiti prāpte abhidhīyate-vidyāṅgatvena bālyavidhānātsamastabālacaryāyāṃ ca pradhānavirodhaprasaṅgādyattadanuguṇamaprauḍhendriyatvādi bhāvaśuddhirūpaṃ tadeva vidhīyate ।
+evaṃ ca śāstrāntarābādhenāpyupapattau na śāstrāntarabādhanamanyāpyaṃ bhaviṣyatīti ।।

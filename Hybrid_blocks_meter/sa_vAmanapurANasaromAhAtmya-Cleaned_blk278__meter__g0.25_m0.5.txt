@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 278 | label: meter | g:0.25 m:0.5 ---
+
+madrājye nāsukhī kaścinna daridro na cāturaḥ ।
+na duḥkhito na cobdigno na śamādivivarjitaḥ ।।

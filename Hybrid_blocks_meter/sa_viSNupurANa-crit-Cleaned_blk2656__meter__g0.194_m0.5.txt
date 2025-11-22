@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2656 | label: meter | g:0.194 m:0.5 ---
+
+kṣitijalaparamāṇavo anilānte punar api yānti yathaikatāṃ dharitryāḥ 
+surapaśumanujādayas tathānte guṇakaluṣeṇa sanātanena tena ।।

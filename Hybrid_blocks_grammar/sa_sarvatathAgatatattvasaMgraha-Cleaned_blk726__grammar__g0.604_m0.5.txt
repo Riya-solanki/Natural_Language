@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 726 | label: grammar | g:0.604 m:0.5 ---
+
+mū vakṣastu vaktrasthā jyeṣṭhasthā puratastathā । ataḥ paraṃ samāsena dharmamudrāstu śikṣayed ।। ।।

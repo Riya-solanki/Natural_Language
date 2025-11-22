@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1085 | label: meter | g:0.134 m:0.874 ---
+
+vraja-nṛpa-kula-ratna tvaṃ vraja-prīti-śālī
+vraja-jana-mahanīyaś cāsi yācāmahe tat ।
+vayam atitara-śīta-vyagratā-grasta-cittā
+vitara vitara vāsaś cānayaṃ mā ca kārṣīḥ ।। [mālinī]

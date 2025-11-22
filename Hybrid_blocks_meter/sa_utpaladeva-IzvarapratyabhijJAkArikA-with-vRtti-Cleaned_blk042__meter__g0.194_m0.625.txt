@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 42 | label: meter | g:0.194 m:0.625 ---
+
+smṛtitaiva kathaṃ tāvad bhrānteś cārthasthitiḥ katham 
+pūrvānubhavasaṃkārā-pekṣā ca kim itīṣyate ।।

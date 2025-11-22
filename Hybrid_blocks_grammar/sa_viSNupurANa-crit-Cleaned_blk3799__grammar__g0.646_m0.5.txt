@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3799 | label: grammar | g:0.646 m:0.5 ---
+
+katham asminn apakrānte marakadurbhikṣādyupadravā na bhaviṣyanti । tad ayam ānīyatām ity alam atiguṇavaty aparādhānveṣaneneti ।।

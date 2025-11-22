@@ -1,0 +1,10 @@
+--- source: gp23-33u-Cleaned.txt | block: 588 | label: grammar | g:0.507 m:0.068 ---
+
+vastv asti yat tad gurave pradīyatām
+adurlabhaṃ ced athavā sudurlabham ।
+naṣṭaṃ vapur yad gurujasya tad vapuṣ-
+mantaṃ yamāt paśyatam ānināya saḥ ।।
+tataś ca-
+yamād api samānetā gurv-apatyaṃ tvayā yadā ।
+vivaderan mukhe tarhi miryeran narayo hṛdi ।।
+[] kṛṣṇaḥ svagatam-na jāne, janena tad varṇyamānam ākarṇya niravalambatāṃ saṃvalamānānāṃ mayy anukampā-sampātavatām ambādīnāṃ kā daśā bhavatā yā samprati ca mama hṛt-kampāya sampadyate । [] bhavatu, prastāvāntaraṃ vistārayāmaḥ iti spaṣṭam ācaṣṭa-bhagavan ! ko' sau pañcajanaḥ ?

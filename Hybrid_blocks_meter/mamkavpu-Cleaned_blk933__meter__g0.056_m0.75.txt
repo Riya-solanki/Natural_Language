@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 933 | label: meter | g:0.056 m:0.75 ---
+
+{ātmārāmā vihitaratayo nirvikalpe samādau
+jñānodrekādvighaṭitatamogranthayaḥ sattvaniṣṭhāḥ ।
+yaṃ vīkṣante kamapi tamasāṃ jyotiṣāṃ vā parastāt
+taṃ mohāndhaḥ kathamayamamuṃ vetti devaṃ purāṇaṃ ।।}

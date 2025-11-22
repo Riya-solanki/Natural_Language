@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 106 | label: hybrid | g:0.344 m:0.372 ---
+
+atha retaḥsigbhāvasyānantaraṃ yonau niṣikte retasi yoneradhikaśarīramanuśayināmanuśayaphalopabhogāya jāyata ityāha śāstram - ātadya iha ramaṇīyacaraṇāḥ' ityādi ।
+tasmādapyavagamyate nāvarohe vrīhyādibhāvāvasare taccharīrameva sukhaduḥkānvitaṃ bhavatīti ।
+tasmādvrīhyādisaṃśleṣamātramanuśayināṃ tajjanmeti siddham ।।

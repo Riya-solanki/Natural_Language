@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 547 | label: grammar | g:0.564 m:0.321 ---
+
+nanu vidyamāno apyānando ananubhūyamāno akiñcitkara eva, na ca muktasya sarvakaraṇahīnasyānandānubhavaḥ saṃbhavati ।
+svaprakāśa'yamānanda iti cenna, saṃsārāvasthāyāmaprakāśāt ।
+nanu tatrāpyānandasvabhāvaḥ puruṣaḥ prakāśata eva ātmani premotpatteḥ, satyamiti bruvāṇasyātisāhasikasya nottaraṃ vācyam ।
+yadi saṃsāriṇo api paramānandamanubhaveyustato muktasya na kaścidatiśaya iti tadevāpuruṣārthatvaṃ mokṣasyāpadyeta, ato balādasukharūpasyāyamabhibhūto na prakāśate ।
+ko ayaṃ prakāśamānasyābhibhavo nāma, prakāśanivāraṇaṃ hyabhibhavaḥ ।
+na ca prakāśamānasyāprakāśanaṃ saṃbhavati, yadi tu naiva prakāśate saṃsārāvasthāyāṃ tasyāmavasthāyāmasataḥ prakāśasya muktāvasthāyāmutpadyamānasya kāraṇaṃ vaktavyam, vijñānameva ca prakāśākhyasya phalasya kāraṇaṃ taccendriyādhīnam, na ca muktasyendriyāṇi saṃbhavantīti kathamānandānubhavaḥ syāt ।।

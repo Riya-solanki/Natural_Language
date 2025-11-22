@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1264 | label: meter | g:0.056 m:0.521 ---
+
+{ayaṃ mārtaṇḍaḥ kiṃ sa khalu turagaiḥ saptabhiritaḥ
+kṛśānuḥ kiṃ sarvāḥ prasarati diśo naiṣa niyatam ।
+kṛtāntaḥ kiṃ sākṣānmahiṣavahano asāviti ciraṃ
+samālokyājau tvāṃ vidadhati vikalpān pratibhaṭāḥ ।।}

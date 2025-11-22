@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 909 | label: meter | g:0.246 m:0.806 ---
+
+{mṛgacakṣuṣamadrākṣamityādi kathayatyayam ।
+paśyaiṣa ca gavityāha sūtrāmāṇaṃ yajeta ca ।।}

@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 63 | label: grammar | g:0.568 m:0.5 ---
+
+ya eva hi pravṛttabhavanaḥ saṃbhāvitabhavano vānyena prayujyate, sa eva kriyamāṇatvenāvadhāryate, nānyaḥ ।
+tathā ca na kaścit khapuṣpam ākāśaṃ vā kurvann upalabhyate ।
+yatrāpi pādau kuru ityādiṣu niṣpannānāṃ karmaprayogo dṛśyate, tatrāpy aniṣpannasaṃskārādivivakṣayā pādādiśabdaprayogād avyabhicāraḥ ।
+saty api ca karoter anekārthatve sarvatra gandhanāvakṣepaṇādau kiñcid anutpannotpādanasāmānyam avagamyate ।

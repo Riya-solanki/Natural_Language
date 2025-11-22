@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5063 | label: meter | g:0.25 m:0.5 ---
+
+kathaṃ hy akīrttyā saṃyuktaḥ sukṛtī madvidho janaḥ 
+lokān utsahate gantuṃ khaṃ sapāśa iva dvijaḥ ।।

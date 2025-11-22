@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 611 | label: meter | g:0.255 m:0.92 ---
+
+saṃbandhapadagūḍhaṃ yathā
+śarānapāṅgaśrī rājan nābhikramati kevalam ।
+bhrūvallīlalitaiścāpaṃ tvatsevā sudṛśāmapi ।।

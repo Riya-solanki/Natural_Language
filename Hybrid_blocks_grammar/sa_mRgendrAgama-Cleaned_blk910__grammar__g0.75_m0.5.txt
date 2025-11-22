@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 910 | label: grammar | g:0.75 m:0.5 ---
+
+tad liṅgaṃ bubhukṣoḥ bhogecchoḥ [itarasya vā] anyasya vā munerarcane prabhavatīti। yataḥ sarvajñatvamato akhilakartṛprasaram। tathā bāhulyena śailalohamṛdratnadāruprakṛtijaṃ praśastam। kvaccittu svaśāstrāmnātānyaprakṛtijamapi bhāvyam।।

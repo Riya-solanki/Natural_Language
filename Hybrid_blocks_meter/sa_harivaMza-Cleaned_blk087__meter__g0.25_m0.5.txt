@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 87 | label: meter | g:0.25 m:0.5 ---
+
+aṅguṣṭhād brahmaṇo jāto dakṣaś coktas tvayānagha 
+vāmāṅguṣṭhāt tathā caiva tasya patnī vyajāyata । 
+kathaṃ prācetasatvaṃ sa punar lebhe mahātapāḥ ।।

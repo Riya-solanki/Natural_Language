@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2772 | label: meter | g:0.194 m:0.625 ---
+
+nārthahīnaṃ na cāśastaṃ nāpaśabdayutaṃ tathā 
+nāmaṅgalyaṃ jugupsyaṃ vā nāma kuryāt samākṣaram ।।

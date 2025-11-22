@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4251 | label: meter | g:0.25 m:0.667 ---
+
+jñātikāryaṃ cikīrṣaṃs tu vasudevaḥ pratāpavān 
+ugrasenasya rakṣārthaṃ svaputraṃ paryarakṣata ।। 
+nandagopasya bhavane govrajeṣu ca vardhitaḥ । 
+sa gopaiḥ saha dharmātmā mathuropavane vasan 
+atyadbhutāni karmāṇi kṛtavān madhusūdanaḥ ।।

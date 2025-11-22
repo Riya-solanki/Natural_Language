@@ -1,0 +1,14 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3572 | label: grammar | g:0.525 m:0.125 ---
+
+adyaiva tu nagary eṣā viṣamoccayasaṃkaṭā 
+kāryā bhūmisamā sarvā bhavadbhir vasudhādhipaiḥ ।। 
+evam uktvā jarāsaṃdhaḥ śakratulyaparākramaḥ । 
+caturaṅgabalaṃ vyūhya jarāsaṃdho vyavasthitaḥ 
+athābhyayād yadūn kruddhaḥ saha sarvair narādhipaiḥ 
+pratijagmur daśārhās taṃ vyūḍhānīkāḥ prahāriṇaḥ ।। 
+tāv āgatau tadā dṛṣṭvā yādavau sainyam agragau । ruṣāha māgadho vīkṣya he kṛṣṇa puruṣādhama । na tvayā yoddhum icchāmi bālakeneti lajjayā ।। tava rāma yada śraddhā yuddhe sthairyaṃ samudvaha । hato vā maccharaiś channa dehaḥ svar yāhi māṃ jahi ।। na vai śūrā vikatthante darśayanty eva pauruṣam । na gṛhṇīmo vaco rājan nāturasya mumūrṣataḥ । 
+tad yuddham abhavad ghoraṃ teṣāṃ devāsuropamam 
+alpānāṃ bahubhiḥ sārdhaṃ vyatiṣaktarathadvipam ।। 
+ugrasenaṃ puraskṛtya vāsudevahalāyudhau । rathasthāv abhivartetāṃ yuddhāya raṇakovidau । 
+nagarān niḥsṛtau dṛṣṭvā vasudevasutāv ubau 
+kṣubdhaṃ naravarānīkaṃ trastasaṃmūḍhavāhanam ।।

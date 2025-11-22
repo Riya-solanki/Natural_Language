@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 573 | label: meter | g:0.25 m:0.625 ---
+
+āvāhanīṃ tato baddhā mudrāmāvāhayedravim ।
+khakholkaṃ sthāpya mudrāṃ tu sthāpayenmantrarūpiṇīm ।।

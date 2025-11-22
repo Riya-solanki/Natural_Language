@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 35 | label: hybrid | g:0.507 m:0.5 ---
+
+aharāhar anavadyaṃ dhūrjaṭe stotram etat paṭhati paramabhaktyā śuddhacittaḥ pumān yaḥ ।
+sa bhavati śivaloke rudratulyaḥ sadātmā pracurataradhanāyuḥ putravān kīrtimāṃś ca ।। Smstadd

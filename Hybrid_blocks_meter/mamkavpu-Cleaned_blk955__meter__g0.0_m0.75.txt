@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 955 | label: meter | g:0.0 m:0.75 ---
+
+apadasthasamāsaṃ kvacid guṇaḥ । yathā

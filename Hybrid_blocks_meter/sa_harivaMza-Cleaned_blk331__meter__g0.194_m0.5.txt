@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 331 | label: meter | g:0.194 m:0.5 ---
+
+dakṣasyaite hi dauhitrāḥ priyāyās tanayā nṛpa 
+mahatā tapasā yuktā merupṛṣṭhe mahaujasaḥ ।।

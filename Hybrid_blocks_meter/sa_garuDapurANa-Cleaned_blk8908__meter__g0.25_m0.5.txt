@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8908 | label: meter | g:0.25 m:0.5 ---
+
+sapiṇḍane kṛte vatsa pṛthaktvaṃ tu vigarhitam ।
+yastu kuryātpṛthak piṇḍaṃ pitṛhā so abhijāyate ।।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1085 | label: meter | g:0.194 m:0.854 ---
+
+evaṃvidhaṃ jagad idaṃ sakalaṃ bhaginyaḥ
+svapnendrajālajalacandracalasvabhāvam ।
+matvā virāgam upagacchata yāvad etat
+prāṇāvaśeṣam upayāti na vo vināśam ।।

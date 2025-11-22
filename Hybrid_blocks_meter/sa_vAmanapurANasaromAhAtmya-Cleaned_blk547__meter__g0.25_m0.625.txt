@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 547 | label: meter | g:0.25 m:0.625 ---
+
+manasā smarate yastu phalakīvanamuttamam ।
+tasyāpi pitarastṛptiṃ prayāsyanti na saṃśayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3463 | label: meter | g:0.272 m:0.845 ---
+
+āsīd dhundhuriti khyātaḥ kaśyapasyaurasaḥ sutaḥ ।
+danugarbhasamudbhūto mābalaparākramaḥ ।।

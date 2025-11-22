@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 71 | label: meter | g:0.143 m:0.889 ---
+
+parigrahasya ghoratvād ghoroktirupacārataḥ 
+vāmastrivargavāmatvād rahasyaśca svabhāvataḥ 
+vāmaṃ dhāma paraṃ guhyaṃ yasyāsau vāmaguhyakaḥ ।।

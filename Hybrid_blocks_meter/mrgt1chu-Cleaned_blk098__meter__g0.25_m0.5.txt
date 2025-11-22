@@ -1,0 +1,3 @@
+--- source: mrgt1chu-Cleaned.txt | block: 98 | label: meter | g:0.25 m:0.5 ---
+
+akartṛbhāvād bhoktuś ca svātantryād apy acittvataḥ ।।

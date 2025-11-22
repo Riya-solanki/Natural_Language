@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 456 | label: hybrid | g:0.25 m:0.498 ---
+
+tathā ca prasajyapratiṣedho dattajalāñjaliḥ prasajyeta ।
+na ca sati saṃbhave lakṣaṇā nyāyyā ।

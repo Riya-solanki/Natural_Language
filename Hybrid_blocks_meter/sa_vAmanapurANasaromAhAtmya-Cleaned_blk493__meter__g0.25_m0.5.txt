@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 493 | label: meter | g:0.25 m:0.5 ---
+
+tato vyādhāśca te sarve tānapṛcchan dvijottamān ।
+mṛgā anena vai yātā asmābhiḥ śarapīḍitāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 414 | label: hybrid | g:0.5 m:0.5 ---
+
+athovāca naro daityaṃ kā te cintā ditīśvara ।
+sāmarthye sati yaḥ kuryāt tatsaṃpadyeta tasya hi ।।

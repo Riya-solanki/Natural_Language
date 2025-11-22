@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3170 | label: meter | g:0.194 m:0.5 ---
+
+pratyuvāca sa taṃ kṛṣṇam āścaryaṃ bhavatā vinā 
+kiṃ bhaviṣyati lokeṣu careṣu sthāvareṣu ca ।।

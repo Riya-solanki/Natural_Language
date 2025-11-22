@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10420 | label: meter | g:0.25 m:0.5 ---
+
+iti stavaṃ viṣṇuguṇānvidhātā tārkṣyasthitaḥ prāñjalistasya cāgre ।
+tadā vāyurdevadevo mahātmā dṛṣṭvā viṣṇu bhaktisaṃvardhitātmā ।।

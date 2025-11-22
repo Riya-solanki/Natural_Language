@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6855 | label: meter | g:0.306 m:0.625 ---
+
+sadā cittaṃ samāsaktaṃ jantorviṣayagocare ।
+yadi nārāyaṇe apyevaṃ ko na mucyeta bandhanāt ।।

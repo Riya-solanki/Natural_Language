@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6278 | label: meter | g:0.25 m:0.5 ---
+
+khāṇḍikya saṃśayaṃ praṣṭuṃ bhavantam aham āgataḥ 
+na tvāṃ hantuṃ vicāryaitat kopaṃ bāṇaṃ vimuñca vā ।।

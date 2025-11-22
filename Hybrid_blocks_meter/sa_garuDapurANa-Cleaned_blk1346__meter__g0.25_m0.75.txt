@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1346 | label: meter | g:0.25 m:0.75 ---
+
+vyajanaṃ grāmavastrādīnsopaskāraṃ sumaṇḍapam ।
+bhojanaṃ ca mahātkuryātkṛtakṛtyaśca jāyate ।
+yajamāno vimuktaḥ syātsthāpakasya prasādataḥ ।।

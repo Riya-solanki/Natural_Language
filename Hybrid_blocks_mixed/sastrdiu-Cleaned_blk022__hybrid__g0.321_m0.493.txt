@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 22 | label: hybrid | g:0.321 m:0.493 ---
+
+arthājjātamarthajñānaṃ prayojanaṃ na śāstrata iticet, ācāryatvamapi prayojanaṃ na syāt tasyāpyarthājjātatvāt ।
+smṛtibādhena ca snānotkarṣo na syādaśāstrasvīkṛtatvādvicārasya ।

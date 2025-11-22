@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5169 | label: meter | g:0.194 m:0.625 ---
+
+amarṣād anvaśāsac ca patnīśālāgatāḥ striyaḥ 
+rājā paramadharmajñas tadāsau janamejayaḥ । 
+asatīṃ vapuṣṭamām etāṃ nirvāsayata me gṛhāt 
+yayā me caraṇo mūrdhni bhasmareṇūṣitaḥ kṛtaḥ ।।

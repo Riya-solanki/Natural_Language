@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3450 | label: meter | g:0.194 m:0.5 ---
+
+svarge tapobhṛtāṃ vāsaḥ phalaṃ puṇyasya karmaṇaḥ 
+ihāpi yaśasā yuktas tatrasthair upadhāryate ।।

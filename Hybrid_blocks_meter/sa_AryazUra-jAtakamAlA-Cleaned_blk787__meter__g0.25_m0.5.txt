@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 787 | label: meter | g:0.25 m:0.5 ---
+
+kaumudī kiṃ nviyaṃ sākṣādbhavanasyāsya devatā ।
+svargastrī daityayoṣidvā na hyetanmānuṣaṃ vapuḥ ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 617 | label: meter | g:0.056 m:0.75 ---
+
+{nyakkāro hyayameva me yadarayastatrāpyasau tāpasaḥ
+so apyatraiva nihanti rākṣasakulaṃ jīvatyaho rāvaṇaḥ ।
+dhigdhik śakrajitaṃ prabodhitavatā kiṃ kumbhakarṇena vā
+svargagāmaṭikāviluṇṭhanavṛthocchūnaiḥ kimebhirbhujaiḥ ।।}

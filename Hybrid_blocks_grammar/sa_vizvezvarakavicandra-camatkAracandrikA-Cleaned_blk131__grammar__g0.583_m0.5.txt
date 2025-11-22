@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 131 | label: grammar | g:0.583 m:0.5 ---
+
+atra parimriyanta iti sākṣādamaṅgalam । "nidrānti dīrghaṃ paripanthibhūpāḥ'; iti pāṭho ramaṇīyaḥ ।

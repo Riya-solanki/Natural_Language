@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10705 | label: hybrid | g:0.5 m:0.5 ---
+
+tathāpyahaṃ kāmahīno hi nityaṃ rudrādayaḥ kāmavanto yatotaḥ ।
+śarīriṇaste bahirarthabhāvā ajñānavanto api ca saṃsmṛtāḥ khaga ।।

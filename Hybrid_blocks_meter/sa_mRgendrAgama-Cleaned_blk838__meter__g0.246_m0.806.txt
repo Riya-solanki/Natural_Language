@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 838 | label: meter | g:0.246 m:0.806 ---
+
+vāmasyānnavyatikare hiṃsāyāṃ bahurūpiṇaḥ 
+vaktrasya syandane rātrau divā taddviguṇaṃ japet ।।

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 650 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha svapuram āgatya tad adhigatya tam evānupaditayānusṛtya nihatya ca maṇim asaṅgatya paścād akrūrāt pratipatya svam abhi durjanābhiśāpam ārjavān mārjayiṣyasi ।

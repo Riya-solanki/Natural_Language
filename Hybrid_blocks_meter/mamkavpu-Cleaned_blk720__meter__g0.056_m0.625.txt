@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 720 | label: meter | g:0.056 m:0.625 ---
+
+{kaḥ kaḥ kutra na ghurghurāyitaghurīghoro ghuretsūkaraḥ
+kaḥ kaḥ kaṃ kamalākaraṃ vikamakaṃ kartuṃ karī nodyataḥ ।
+ke ke kāni vanānyaraṇyamahiṣā nonmūlayeyuryataḥ
+siṃhīsnehavilāsabaddhavasatiḥ pañcānano vartate ।।}

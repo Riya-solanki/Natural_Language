@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 146 | label: hybrid | g:0.26 m:0.411 ---
+
+prakāśo na saṃvido bhidyete', saṃvideva tau ।
+evaṃ cet yāvaduktaṃ bhavati saṃvitātmārthau saheti tāvaduktaṃ bhavati saṃvidarthātmaprakāśau saheti,

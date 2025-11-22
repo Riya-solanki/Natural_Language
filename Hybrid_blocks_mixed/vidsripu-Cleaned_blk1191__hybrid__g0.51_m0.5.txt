@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1191 | label: hybrid | g:0.51 m:0.5 ---
+
+vahati lalitamandaḥ kāminīmānabandhaṃ ślathayitum ayam eko dakṣiṇo dākṣiṇātyaḥ ।
+vitarati ghanasārāmodam antar dhunāno jaladhijalataraṅgān khelayan gandhavāhaḥ ।।

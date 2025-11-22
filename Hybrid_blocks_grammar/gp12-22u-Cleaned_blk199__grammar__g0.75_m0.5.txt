@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 199 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha brahmāṇḍam api khaṇḍayituṃ pracaṇḍatā-maṇḍitāc caṇḍa-caṇḍīśa-śūlād apy uddaṇḍa-prahāreṇa bala-bhuja-daṇḍena tāla-maṇḍala-maṇḍaleśvara-śirasi cakrīvac-chakrārir vicakare । tena ca tāla-parāvara-parasparāsu yaḥ khalu nihita āvega-saṃskāraḥ pralaya-jāta-durvāra-prabhañjanākāraḥ, sa tu hindolayaṃs tat tad uparigam ardham ardham agni-yantra-prakṣiptam iva vikṣiptaṃ vidhāya prāyaḥ sarvam evākharva-tāla-kharva-mayaṃ tad vanaṃ nimeṣa-mātreṇa vitroṭayāmāsa । yatra svayaṃ tu bhavantu tṛṇa-rājāḥ khalv ime, tathāpi tṛṇāny eva iti balabhadraś cintayāmāsa ca ।

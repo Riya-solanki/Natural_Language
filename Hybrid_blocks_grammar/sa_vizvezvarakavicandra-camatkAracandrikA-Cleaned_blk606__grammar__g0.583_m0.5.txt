@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 606 | label: grammar | g:0.583 m:0.5 ---
+
+atra he vibho samṛddhatāmehīti kriyāpadasya vibhava iti saptamyā gopitatvamiti gūḍhakriyāpadatvāt kriyāgūḍham ।

@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 371 | label: meter | g:0.127 m:0.838 ---
+
+tasmāc ca puruṣād devī śatarūpā vyajāyata 
+priyavratottānapādau prasūtyākūtisaṃjñitam 
+kanyādvayaṃ ca dharmajña rūpaudāryaguṇānvitam ।।

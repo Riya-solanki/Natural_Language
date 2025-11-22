@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 532 | label: meter | g:0.326 m:0.5 ---
+
+sā yair dṛṣṭā na vā dṛṣṭā muṣitāḥ samam eva te ।
+hṛtaṃ hṛdayam ekeṣām anyeṣāṃ cakṣuṣaḥ phalam ।।

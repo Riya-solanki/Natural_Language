@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 237 | label: meter | g:0.25 m:0.5 ---
+
+iti śrīpaṇḍitavaravāmanaviracitakāvyālaṅkārasūtravṛttau guṇavivecane tṛtīye'dhikaraṇe dvitīyo'dhyāyaḥ ।

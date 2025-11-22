@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 90 | label: hybrid | g:0.517 m:0.5 ---
+
+yo bodhisattva varapāramiteti cīrṇo paricārikā ya na ca kāṅkṣati paṇḍitehi 
+saha śrutva tasya puna bheṣyati śāstṛsaṃjñā so vā laghū anubudhiṣyati bodhi śāntām ।।

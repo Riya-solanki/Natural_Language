@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4924 | label: hybrid | g:0.402 m:0.356 ---
+
+roṣaparyākule caiva netre tasya babhūvatuḥ 
+jagad didhakṣann iva khe mahāsūrya ivoditau ।। 
+apiban mṛtyunāviṣṭaḥ kṛṣṇo bāṇam abhidravat ।। kṣobhavisphūrjite tasya raktanetre babhūvatuḥ । jagad didhakṣū yugapan mahāsūryāvivoditau । 
+bāṇa kiṃ garjase śūrā na garjanti raṇe sthitāḥ 
+ehy ehi yudhyasva raṇe kiṃ mithyāgarjitena te ।।

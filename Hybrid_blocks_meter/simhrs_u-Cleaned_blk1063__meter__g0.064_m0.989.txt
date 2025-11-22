@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1063 | label: meter | g:0.064 m:0.989 ---
+
+(akalita-parirambha-vibhramāṇi
+ajanita-cumbana-ḍambarāṇi dūram ।
+aghaṭita-ghana-tāḍanāni nityaṃ
+namatānaṅga-ratyor mohanāni ।।)

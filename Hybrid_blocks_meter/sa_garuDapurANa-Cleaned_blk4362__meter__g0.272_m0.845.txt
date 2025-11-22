@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4362 | label: meter | g:0.272 m:0.845 ---
+
+vātātpittātkaphāttṛṣṇā sannipātādbalakṣayaḥ ।
+ṣaṣṭhī syādupasargācca vātapitte ca kāraṇam ।।

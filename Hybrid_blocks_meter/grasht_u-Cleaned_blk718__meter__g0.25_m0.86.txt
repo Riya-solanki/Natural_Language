@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 718 | label: meter | g:0.25 m:0.86 ---
+
+drutijāraṇa vedha potency
+samajīrṇaḥ śatavedhī dviguṇena rasaḥ sahasravedhī ca ।
+kramaśo hi koṭivedhī dviguṇadviguṇadruteścaraṇāt ।।

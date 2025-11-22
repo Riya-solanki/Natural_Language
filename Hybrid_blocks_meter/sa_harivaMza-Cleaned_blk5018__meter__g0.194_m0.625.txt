@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5018 | label: meter | g:0.194 m:0.625 ---
+
+tasmād vanagatād garbhaṃ yādavī pratyapadyata 
+sucāror duhitā subhrūr mālinī bhrātṛmālini ।।

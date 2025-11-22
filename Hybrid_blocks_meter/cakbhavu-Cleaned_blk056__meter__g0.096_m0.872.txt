@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 56 | label: meter | g:0.096 m:0.872 ---
+
+svaprabodhāmbarodāravikasadvastragharṣaṇam
+viniveśya bhavatsaṃvidvikārān vikarāmahe

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 43 | label: meter | g:0.25 m:0.5 ---
+
+vācyor'tho vācakaḥ śabdaḥ prasiddhamiti yadyapi ।
+tathāpi kāvyamārge asmin paramārtho ayametayoḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6061 | label: meter | g:0.194 m:0.625 ---
+
+parārdhasaṃkhyāṃ bhagavan mamācakṣva yayā tu saḥ 
+dviguṇīkṛtayā jñeyaḥ prākṛtaḥ pratisaṃcaraḥ ।।

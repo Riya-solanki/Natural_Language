@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 36 | label: meter | g:0.194 m:0.521 ---
+
+nedānīntana-dīpikā kim u tamaḥ-saṅhātam unmūlayej
+jyotsnā kiṃ na cakora-pāraṇa-kṛte tat-kāla-saṃśobhinī ।
+bālaḥ kiṃ kamalākarān dina-maṇir nollāsayed añjasā
+tat sampraty api mādṛśām api vacaḥ syād eva samprītaye ।।

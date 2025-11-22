@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 1323 | label: grammar | g:0.625 m:0.5 ---
+
+SktCh hā āryaputra hā mama svayaṃvarasvayaṃgrāhadurlalita priyaṃ bhrātaramanugato asi na punarmahārājamimaṃ dāsajanaṃ ca ।

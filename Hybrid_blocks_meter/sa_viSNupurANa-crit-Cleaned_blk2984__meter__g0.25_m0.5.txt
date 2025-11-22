@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2984 | label: meter | g:0.25 m:0.5 ---
+
+prāṇinām upakārāya yad eveha paratra ca 
+karmaṇā manasā vācā tad eva matimān bhajet ।।

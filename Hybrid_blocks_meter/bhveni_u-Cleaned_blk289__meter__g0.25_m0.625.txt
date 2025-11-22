@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 289 | label: meter | g:0.25 m:0.625 ---
+
+grahāṇāṃ caritaṃ svapno animittānyupayācitam ।
+phalanti kākatālīyaṃ tebhyaḥ prājñā na bibhyati ।।

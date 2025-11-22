@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 742 | label: meter | g:0.194 m:0.625 ---
+
+vyaktapradhānapuruṣavirāṭ saṃrāṭ svarāṭ tathā 
+vibhāvyate antaḥkaraṇe puruṣeṣv akṣayo bhavān ।।

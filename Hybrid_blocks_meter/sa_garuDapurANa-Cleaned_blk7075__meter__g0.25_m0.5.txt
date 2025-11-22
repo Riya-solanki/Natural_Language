@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7075 | label: meter | g:0.25 m:0.5 ---
+
+sākṣibhūtaḥ samāśritya ko jānāti viceṣṭitam ।
+satya jñānānanta bhinnaṃ syānnasatyaṃ jñānataḥ pṛthak ।।

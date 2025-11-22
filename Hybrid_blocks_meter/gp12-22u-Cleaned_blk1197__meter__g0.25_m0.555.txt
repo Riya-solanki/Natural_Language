@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 1197 | label: meter | g:0.25 m:0.555 ---
+
+kṛṣṇa ced bata rādhāyām udāsīno bhavān api ।
+udāssva, kim ahaṃ tatra kaṭhora-hṛdayā bruve? ।। [anu]
+[] kṣaṇaṃ vibhāvya punar uvāca-

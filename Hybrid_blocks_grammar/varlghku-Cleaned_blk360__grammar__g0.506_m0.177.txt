@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 360 | label: grammar | g:0.506 m:0.177 ---
+
+na mu ne ।।
+nābhāve kartavye kṛte ca mubhāvo nāsiddhaḥ । amūbhyām । amuṣmai । amuṣmāt । amuyoḥ । amuṣmin ।।

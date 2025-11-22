@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 554 | label: meter | g:0.25 m:0.5 ---
+
+tatra snātvār'cayed devān pitṝṃśca prayato naraḥ ।
+sa devyā samanujñāto yathā siddhiṃ labhennaraḥ ।।

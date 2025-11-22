@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1140 | label: meter | g:0.302 m:0.806 ---
+
+yugamātravilokinyo mṛtpātravyagrapāṇayaḥ ।
+sāvadhānaṃ kadā bhikṣāṃ cariṣyāmaḥ kulāt kulam ।।

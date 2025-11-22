@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 353 | label: meter | g:0.25 m:0.5 ---
+
+tat sarvaṃ tvayi saṃyogi yogivad devi saṃsthitam ।
+akṣaraṃ paramaṃ devī yatra sarvaṃ pratiṣṭhitam ।
+akṣaraṃ paramaṃ brahma viśvaṃ caitat kṣarātmakam ।।

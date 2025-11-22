@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 46 | label: meter | g:0.272 m:0.778 ---
+
+vyāsa uvāca ।
+ahaṃ hi nārado dakṣo bhṛgvādyāḥ praṇipatya tam ।
+sāraṃ brūhīti papracchurbrahmāṇaṃ brahmalokagam ।।

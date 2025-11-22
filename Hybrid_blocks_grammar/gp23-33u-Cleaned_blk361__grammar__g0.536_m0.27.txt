@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 361 | label: grammar | g:0.536 m:0.27 ---
+
+utphulla-netra-kamalaṃ pulaka-prasāra-
+śaivālam aśru-milad-ūrmi-jana-pravāhaḥ । ākramya setum adhigamya suramya-kṛṣṇa-
+śobhā-mahāmbudhim agāj jalatām apīha ।। [] tataś cābhikhyā-mātrataḥ kṛta-sarva-vaśībhāvasya tasya tad-āsecanaka-rūpa-nirūpaṇāt paśya paśyety evāsmin paśyati loke kathaṃcit kṛta-nivāraṇe ca tasmin kolāhala-kāraṇe vraja-vāsi-janaḥ sarva eva yathāyatham āvāsam āsasāda ।
+[] āsādya ca purohita-hita-sahitatayā kṛta-snāna-dāna-vyāpāre śrī-vrajarāja-virājamāna-samāja-vāre kutukatas tairthika-sārtha-darśanārthaṃ snātānuliptatā-dīptaḥ sakhi-rāmārāma-ramaṇaḥ kamana-kamala-locanas tatra tatra bhramaṇa-kramam ācacāra । yatra nānā-deśa-janānāṃ veśa-niveśa-nirveśa-saṃveśa-bhāṣābhiniveśa-kriyā-viniveśa-viśeṣān anubhūya bahula-kutūhalam ākalayāṃ babhūva ।

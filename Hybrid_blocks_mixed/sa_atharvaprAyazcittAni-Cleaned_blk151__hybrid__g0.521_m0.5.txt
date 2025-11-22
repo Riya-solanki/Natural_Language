@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 151 | label: hybrid | g:0.521 m:0.5 ---
+
+uru viṣṇo vikramasva iti madhyata opya saṃsrāvabhāgaiḥ saṃsthāpayet ।

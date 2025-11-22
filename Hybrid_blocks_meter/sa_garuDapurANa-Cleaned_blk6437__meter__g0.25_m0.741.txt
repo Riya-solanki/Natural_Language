@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6437 | label: meter | g:0.25 m:0.741 ---
+
+drupadādyāstrirāvartedayaṃ gauriti ca tryṛcam ।
+anyāṃścaiva tu mantrānvā smṛtidṛṣṭānsamāhitaḥ ।।
+savyāhṛtiṃ sapraṇavāṃ gāyatrīṃ vā japedbudhaḥ āvartayedvā praṇavaṃ smaredvā viṣṇamavyayam ।।
+viṣṇorāyatanaṃ tvāpaḥ sa evāppatirucyate ।
+tasyaivaṃ tanavastvetāstasmāttaṃ hyapsu saṃsmaret ।।

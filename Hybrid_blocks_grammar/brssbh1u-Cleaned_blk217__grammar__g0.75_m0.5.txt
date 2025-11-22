@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 217 | label: grammar | g:0.75 m:0.5 ---
+
+FN tvaṣṭṛputraṃ viśvarūpaṃ brāhmaṇaṃ ahanaṃ, arunmukhān rauti yathārthaṃ śabdayatīti rut vedāntavākyaṃ tanmukhe yeṣāṃ te runmukhāstebhyo anyānvedāntabahirmukhānyatīn sālāvṛkebhyo araṇyaśvabhyo dattavānasmi ।
+yasyāreṣu neminābhyormadhyasthaśalākāsu cakropāntarūpā nemirarpitā, nābhau cakrapiṇḍikāyāmarā arpitāḥ evaṃ bhūtāni pṛthivyādīni pañca mīyanta iti mātrā bhogyāḥ śabdādayaḥ pañceti daśa bhūtamātrāḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3759 | label: meter | g:0.194 m:0.5 ---
+
+saṃsmṛtya ca varaṃ śakrād avaikṣata tamagrataḥ 
+sa dṛṣṭamātraḥ kruddhena saṃprajajvāla sarvataḥ ।।

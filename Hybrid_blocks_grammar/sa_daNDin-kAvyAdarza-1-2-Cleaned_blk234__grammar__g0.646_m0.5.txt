@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 234 | label: grammar | g:0.646 m:0.5 ---
+
+tava tanvaṅgi mithyaiva rūḍham aṅgeṣu mārdavam yadi satyaṃ mṛdūny eva kim akāṇḍe rujanti mām ।।

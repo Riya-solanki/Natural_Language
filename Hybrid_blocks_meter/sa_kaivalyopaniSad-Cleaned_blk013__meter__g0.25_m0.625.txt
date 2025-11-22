@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 13 | label: meter | g:0.25 m:0.625 ---
+
+sarvabhūtastham ātmānaṃ sarvabhūtāni cātmani ।
+saṃpaśyan brahma paramaṃ yāti nānyena hetunā ।।

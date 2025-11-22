@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 872 | label: meter | g:0.246 m:0.806 ---
+
+japeddaśaguṇaṃ prāṇasaṃyamī phalamūlabhuk 
+tatsameṣvevameva syāt kiṃ tu prāṇāyatiṃ vinā ।।

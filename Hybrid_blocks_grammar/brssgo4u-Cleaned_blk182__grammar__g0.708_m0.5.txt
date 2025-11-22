@@ -1,0 +1,3 @@
+--- source: brssgo4u-Cleaned.txt | block: 182 | label: grammar | g:0.708 m:0.5 ---
+
+nanu liṅgātmakasya tejasaḥ kathaṃ sūkṣmatamanāḍīdvārā gatiḥ kuto vā kenacinmūrtena pratighāto nāsti kuto vā na dṛśyata ityata āha-sūkṣmamiti ।।

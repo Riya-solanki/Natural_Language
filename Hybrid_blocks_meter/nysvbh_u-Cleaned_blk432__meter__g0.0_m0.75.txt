@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 432 | label: meter | g:0.0 m:0.75 ---
+
+atrārthāpatteḥ pramāṇabhāvābhyanujñā nopapadyate tathā hīyam

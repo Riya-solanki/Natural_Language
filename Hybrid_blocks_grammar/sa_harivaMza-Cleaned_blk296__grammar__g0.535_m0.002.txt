@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 296 | label: grammar | g:0.535 m:0.002 ---
+
+ete vatsaviśeṣāś ca dogdhāraḥ kṣīram eva ca 
+pātrāṇi ca mayoktāni kiṃ bhūyo varṇayāmi te ।। 
+ya idaṃ śṛṇuyān nityaṃ pṛthoś caritam āditaḥ । putrapautrasamāyukto modate suciraṃ bhuvi । uktāni bharataśreṣṭha vainyasyeha mahātmanaḥ । kim anyad bharataśreṣṭha pṛcchasi tvaṃ nareśvara । yaḥ śṛṇoti sadā bhaktyā sa svargī nātra saṃśayaḥ । 
+manvantarāṇi sarvāṇi vistareṇa tapodhana 
+teṣāṃ pūrvavisṛṣṭiṃ ca vaiśaṃpāyana kīrtaya ।।

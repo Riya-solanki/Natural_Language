@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 81 | label: meter | g:0.315 m:0.714 ---
+
+apakṣayavināśābhyāṃ pariṇāmarddhijanmabhiḥ 
+varjitaḥ śakyate vaktuṃ yaḥ sadāstīti kevalam ।।

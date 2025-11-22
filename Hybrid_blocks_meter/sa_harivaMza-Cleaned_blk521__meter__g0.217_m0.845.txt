@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 521 | label: meter | g:0.217 m:0.845 ---
+
+ikṣvākuvaṃśaprabhavāḥ prādhānyeneha kīrtitāḥ 
+ete vivasvato vaṃśe rājāno bhūritejasaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 513 | label: meter | g:0.194 m:0.5 ---
+
+punaḥ sapta padasyānte tasyānte tu padaṃ punaḥ 
+punaḥ saptakam uccārya padaṃ ca tadanantaram ।।

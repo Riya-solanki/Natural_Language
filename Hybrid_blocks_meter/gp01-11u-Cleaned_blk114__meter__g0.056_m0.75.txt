@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 114 | label: meter | g:0.056 m:0.75 ---
+
+rāmaḥ kṛṣṇaḥ kṛṣṇa-rāmau ca kṛṣṇaḥ
+kṛṣṇaḥ kṛṣṇaḥ kṛṣṇa ity eṣa jalpaḥ ।
+yātāyātaṃ kurvatāṃ sarvadāpi
+svairālāpe śrūyate tatra tatra ।। [śālinī]

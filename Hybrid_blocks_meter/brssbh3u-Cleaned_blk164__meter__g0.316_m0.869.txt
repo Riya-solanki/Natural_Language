@@ -1,0 +1,6 @@
+--- source: brssbh3u-Cleaned.txt | block: 164 | label: meter | g:0.316 m:0.869 ---
+
+nanūktaṃ nobhayaliṅgatvaṃ brahmaṇaḥ saṃbhavatīti ।
+ayamapyavirodhaḥ ।
+upādhikṛtatvādākārabhedasya ।
+anyathā hi nirviṣayameva bhedaśāstraṃ prasajyeteti cet ।

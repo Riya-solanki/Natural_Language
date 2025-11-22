@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1090 | label: grammar | g:0.625 m:0.5 ---
+
+sa vandyaḥ pāthodaḥ sa khalu nayanānandajananaḥ parārthe nīce api vrajati laghutāṃ yo arthisubhagām ।
+kathāpi śrotavyā bhavati hataketor na ca punar janānāṃ dhvaṃsāya prabhavati hi yasyodgatir api ।।

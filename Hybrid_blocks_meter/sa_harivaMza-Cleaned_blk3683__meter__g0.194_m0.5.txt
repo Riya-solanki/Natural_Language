@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3683 | label: meter | g:0.194 m:0.5 ---
+
+tad idānīṃ gataṃ duḥkhaṃ śatravaṣ ca parājitāḥ 
+nṛpeṣu janitaṃ vairaṃ jarāsaṃdhe ca vigrahaḥ ।।

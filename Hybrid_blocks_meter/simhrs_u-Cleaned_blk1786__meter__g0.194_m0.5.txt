@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1786 | label: meter | g:0.194 m:0.5 ---
+
+śrīharṣo nipuṇaḥ kaviḥ pariṣad apy eṣā guṇa-grāhiṇī
+loke hāri ca vatsa-rāja-caritaṃ nāṭye ca dakṣā vayam ।
+vastv-ekaikam apīha vāñchita-phala-prāpteḥ padaṃ kiṃ punar
+mad-bhāgyopacayād ayaṃ samuditaḥ sarvo guṇānāṃ gaṇaḥ ।।

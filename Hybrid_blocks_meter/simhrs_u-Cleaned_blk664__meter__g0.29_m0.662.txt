@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 664 | label: meter | g:0.29 m:0.662 ---
+
+sadṛśālokanena, yathā-
+ārakta-rājibhir iyaṃ kusumair nava-kandalī salila-garbhaiḥ ।
+kopād antar-bāṣpe smarayati māṃ locane tasyāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 259 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ matvā varārohe duḥkhe duḥkhī sukhe sukhī 
+guror vairodhikaṃ sthānaṃ pramādād api na vrajet ।।

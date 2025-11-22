@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2128 | label: meter | g:0.194 m:0.5 ---
+
+girir govardhano nāma mathurāyās tv adūrataḥ 
+tatrāsau goṣu nirataḥ kaṃsasya karadāyakaḥ ।।

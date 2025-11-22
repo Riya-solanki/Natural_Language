@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 27 | label: meter | g:0.373 m:0.549 ---
+
+vīcikṣobhastanitavihagaśreṇikāñcīguṇāyāḥ saṃsarpantyāḥ skhalitasubhagaṃ darśitāvartanābheḥ ।
+nirvindhyāyāḥ pathi bhava rasābhyantaraḥ saṃnipatya strīṇām ādyaṃ praṇayavacanaṃ vibhramo hi priyeṣu ।।

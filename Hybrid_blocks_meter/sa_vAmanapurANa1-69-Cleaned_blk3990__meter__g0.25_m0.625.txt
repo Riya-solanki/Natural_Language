@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3990 | label: meter | g:0.25 m:0.625 ---
+
+śubhaśubhāni karmāṇi rajaḥsattvatamāṃsi ca ।
+anekajanmakarmotthaṃ pāpaṃ naśyatu me tathā ।।

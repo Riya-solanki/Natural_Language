@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 2 | label: grammar | g:0.583 m:0.5 ---
+
+mahimnaḥ pāraṃ te paramaviduṣo yady asadṛśī stutir brahmādīnām api tadavasannās tvayi giraḥ ।
+athāvācyaḥ sarvaḥ svamatipariṇāmāvadhi gṛṇan mamāpy eṣa stotre hara nirapavādaḥ parikaraḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11826 | label: meter | g:0.25 m:0.695 ---
+
+dakṣiṇāṅguṣṭhajo dakṣo brahmaputro mahāmatiḥ ।
+kanyāṃ sṛṣṭvā hareḥ prīṇannāsa bhūmā prajāpatiḥ ।
+putrānudapādayaddakṣastvato dakṣa iti smṛtaḥ ।।

@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 5 | label: meter | g:0.306 m:0.5 ---
+
+śrīgauryā sakalārthadaṃ nijapadāmbhojena muktipradaṃ prauḍhaṃ vighnavanaṃ harantamanaghaṃ śrīḍhuṇḍhituṇḍāsinā ।
+vande carmakapālikopakapaṇairvairāgyasaukhyātparaṃ nāstīti pradiśantamantavidhuraṃ śrīkāśikeśaṃ śivam ।।

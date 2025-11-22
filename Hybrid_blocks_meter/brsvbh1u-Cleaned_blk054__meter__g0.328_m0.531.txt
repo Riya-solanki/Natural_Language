@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 54 | label: meter | g:0.328 m:0.531 ---
+
+-niṣkṛṣya luṭhitaḥ pratibhāsito garbho asādhāraṇākāro yasya sa tathā tattathā ।
+tathā ca nātra vivaditavyamityarthaḥ ।

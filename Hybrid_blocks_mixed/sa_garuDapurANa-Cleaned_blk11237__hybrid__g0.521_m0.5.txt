@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11237 | label: hybrid | g:0.521 m:0.5 ---
+
+yasmindine śravaṇaṃ nāsti viṣṇosteṣāṃ janma vyarthamāhuḥ kathāyām ।
+snāna japaḥ pañcayajñaṃ vrataṃ ca iṣṭāpūrte kṛcchracāndro ca dattam ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1485 | label: grammar | g:0.59 m:0.432 ---
+
+te kaupīnadhanās ta eva hi paraṃ dhātrīphalaṃ bhuñjate teṣāṃ dvāri nadanti vājinivahās tair eva labdhā kṣitiḥ ।
+tair etat samalaṃkṛtaṃ nijakulaṃ kiṃ vā bahu brūmahe ye dṛṣṭāḥ parameśvareṇa bhavatā ruṣṭena tuṣṭena vā ।।
+jayādityasya

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10888 | label: meter | g:0.403 m:0.652 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+athāvatā rānpuruṣākhyo hariśca gato dhyānaṃ kartumīśo mahātmā ।
+prādurbabhūvākhilasadguṇārṇavaḥ sa eva viṣṇuḥ sa ca bījabhūtaḥ ।।

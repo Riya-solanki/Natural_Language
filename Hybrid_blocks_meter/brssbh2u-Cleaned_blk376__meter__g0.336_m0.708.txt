@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 376 | label: meter | g:0.336 m:0.708 ---
+
+apicāntyasya mokṣāvasthābhāvino jīvaparimāṇasya nityatvamiṣyate jainaiḥ ।
+tadvatpūrvayorapyavidyamadhyamayorjīvaparimāṇayornityatvaprasaṅgādaviśeṣaprasaṅgaḥ syāt ।
+ekaśarīraparimāṇataiva syānnopacitāpacitaśarīrāntaraprāptiḥ ।
+athavāntyasya jīvaparimāṇasyāvasthitatvātpūrvayorapyavasthayoravasthitaparimāṇa eva jīvaḥ syāt, tataścāviśeṣeṇa sarvadaivāṇurmahānvā jīvo abhyupagantavyo na śarīraparimāṇaḥ ।
+ataśca saugatavadārhatamapi matamasaṃgatamityupekṣitavyam ।।

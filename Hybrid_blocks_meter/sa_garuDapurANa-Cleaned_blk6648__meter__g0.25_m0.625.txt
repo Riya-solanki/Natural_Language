@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6648 | label: meter | g:0.25 m:0.625 ---
+
+rājānaśca prajābhikṣāḥ śiśrodaraparājitāḥ ।
+avratā vaṭacavo aśaucā bhikṣavaśca kuṭumbinaḥ ।।

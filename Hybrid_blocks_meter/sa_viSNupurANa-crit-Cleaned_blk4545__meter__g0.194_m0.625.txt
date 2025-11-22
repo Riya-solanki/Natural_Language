@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4545 | label: meter | g:0.194 m:0.625 ---
+
+kṛṣṇas tu vimalaṃ vyoma śaraccandrasya candrikām 
+tathā kumudinīṃ phullām āmoditadigantarām ।।

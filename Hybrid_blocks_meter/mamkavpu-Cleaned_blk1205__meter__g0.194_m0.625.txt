@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1205 | label: meter | g:0.194 m:0.625 ---
+
+{svapne api samareṣu tvāṃ vijayaśrīrna muñchati ।
+prabhāvaprabhavaṃ kāntaṃ svādhīnapatikā yathā ।।}

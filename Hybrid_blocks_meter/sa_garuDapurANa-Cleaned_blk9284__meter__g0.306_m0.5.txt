@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9284 | label: meter | g:0.306 m:0.5 ---
+
+nādacakre sthitaḥ sūryo binducakre ca candramāḥ ।
+locanasthaḥ kujo jñeyo hṛdaye ca budhaḥ smṛtaḥ ।।

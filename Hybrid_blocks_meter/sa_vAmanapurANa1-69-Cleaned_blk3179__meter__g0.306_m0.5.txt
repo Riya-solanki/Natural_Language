@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3179 | label: meter | g:0.306 m:0.5 ---
+
+sa samārādhya tapasā bhāskaraṃ tejasāṃ nidhim ।
+avāpa kanyāṃ suratiṃ tāṃ pragṛhya gṛhaṃ yayau ।।

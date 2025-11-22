@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1539 | label: grammar | g:0.606 m:0.47 ---
+
+āsvādya svayam eva vacmi mahatīr marmacchido vedanā mā bhūt kasyacid apy ayaṃ paribhavo yāñcheti saṃsāriṇaḥ ।
+paśya bhrātar iyaṃ hi gauravajarādhikkārakelisthalī mānamlānimasī guṇavyatikaraprāgalbhyagarbhacyutiḥ ।।

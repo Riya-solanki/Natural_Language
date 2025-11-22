@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 193 | label: meter | g:0.25 m:0.75 ---
+
+drakṣyanti īdṛśān svapnān kāyavākcittasiddhidān ।
+sarvalaṅkārasampūrṇāṃ surakanyāṃ manoramām ।।

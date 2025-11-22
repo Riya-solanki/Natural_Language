@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 709 | label: grammar | g:0.75 m:0.5 ---
+
+ekaṃ tv atra mahārāja vaidhuram avagacchāmi । yena me vaktum asty etān maharṣīn asmin prayojane saṃkucati mānasam ।। ete hi mahātmāno vivekaratipriyatvād abhiramante himavati śailarāje ।। paśya mahārāja ।।

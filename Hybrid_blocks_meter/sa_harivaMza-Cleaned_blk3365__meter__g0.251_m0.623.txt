@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3365 | label: meter | g:0.251 m:0.623 ---
+
+ye ceme prākṛtā gopā dāmodaraparāyaṇāḥ 
+eṣāṃ hriyantāṃ gāvaś ca yac cāsti vasu kiṃcana ।।

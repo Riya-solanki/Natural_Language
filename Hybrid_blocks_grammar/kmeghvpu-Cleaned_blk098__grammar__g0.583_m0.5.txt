@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 98 | label: grammar | g:0.583 m:0.5 ---
+
+śyāmāsv aṅgaṃ cakitahariṇaprekṣite dṛṣṭipātaṃ gaṇḍacchāyāṃ śaśini śikhināṃ varhabhāreṣu keśān ।
+utpaśyāmi pratanuṣu nadīvīciṣu bhrūvilāsān hantaikasthaṃ kva cid api na te bhīru sādṛśyam asti ।।

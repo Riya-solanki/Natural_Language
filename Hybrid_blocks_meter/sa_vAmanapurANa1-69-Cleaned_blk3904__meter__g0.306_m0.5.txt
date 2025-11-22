@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3904 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ tasyātiduṣṭasya kurvataḥ prāṇināṃ vadham ।
+jagāma ca mahān kālaḥ pariṇāmaṃ tathā vayaḥ ।।

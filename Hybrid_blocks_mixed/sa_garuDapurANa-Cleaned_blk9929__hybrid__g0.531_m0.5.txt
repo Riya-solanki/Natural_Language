@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9929 | label: hybrid | g:0.531 m:0.5 ---
+
+pitā mṛtaste ca pitāmahaḥ sā yayā dhṛto vāpyudare svakīye ।
+mṛto apyasau bandhujanaḥ samasto dṛṣṭaṃ tvayā sarvamidaṃ gatāyaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1490 | label: meter | g:0.194 m:0.75 ---
+
+kecit kharoṣṭrayātāraḥ kecit toyadavāhanāḥ 
+nānāpakṣigatāḥ kecit kecit pavanavāhanāḥ ।।

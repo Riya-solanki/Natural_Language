@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 817 | label: meter | g:0.328 m:0.595 ---
+
+syātāṃ nāmānujñāpariharāvekasyāpyatmano dehaviśeṣayogāt ।
+yatsvayaṃ karmaphalasaṃbandhaḥ sa caikātmyābhyupagame vyatikīryeta svāmyekatvāditi cet ।

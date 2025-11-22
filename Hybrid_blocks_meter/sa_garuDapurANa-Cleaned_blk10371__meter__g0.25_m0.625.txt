@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10371 | label: meter | g:0.25 m:0.625 ---
+
+candraḥ śrotrābhimānīti tathā jñeyaḥ khageśvara ।
+jihvendriyātmā varuṇaḥ sūryasyānantarobhavat ।।

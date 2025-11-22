@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 803 | label: meter | g:0.194 m:0.5 ---
+
+atha rājā śiraḥsnāto labdhvā nārāyaṇād varam 
+praviveśa purīṃ prīto ratham āruhya kāñcanam ।।

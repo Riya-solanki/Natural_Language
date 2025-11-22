@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10446 | label: hybrid | g:0.5 m:0.5 ---
+
+uddhṛtya puṇyebhya ivārtabandhuḥ śivaśca no druhyati puṇyakīrtim ।
+tava prasādācca śriyaḥ prasādādvāyoḥ prasādācca mamāsti nityam ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 118 | label: meter | g:0.056 m:0.521 ---
+
+kvacid gānaṃ sūkṣmaṃ kvacid api ca tauryatrika-kalā
+kvacit premṇā goṣṭhī kvacid api mahā-keli-kalahaḥ ।
+iti sphāraṃ tābhiḥ praṇaya-maya-sāraṃ viharaṇaṃ
+harer dhyāyan nānā bhavati kavi-cittaṃ muhur api ।। [śikhariṇī]

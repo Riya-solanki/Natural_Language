@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 105 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa rājā nīlotpaladalaśakalarucirakānti nayanamekaṃ vaidyaparidṛṣṭena vidhinā śanakairakṣatamutpāṭya parayā prītyā cakṣuryācanakāya prāyacchat । atha śakro devendrastādṛśamṛddhyabhisaṃskāraṃ cakre yathā dadarśa sa rājā saparijanastattasya cakṣuścakṣuḥsthāne pratiṣṭhitam । athonmiṣitaikacakṣuṣaṃ cakṣuryācanakamabhivīkṣya sa rājā parameṇa praharṣeṇa samāpūrṇahṛdayo dvitīyamapyasmai nayanaṃ prāyacchat ।

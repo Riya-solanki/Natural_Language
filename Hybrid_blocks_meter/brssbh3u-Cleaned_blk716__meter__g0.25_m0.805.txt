@@ -1,0 +1,6 @@
+--- source: brssbh3u-Cleaned.txt | block: 716 | label: meter | g:0.25 m:0.805 ---
+
+naiṣa doṣaḥ ।
+muniśabdasya jñānātiśayārthatvāt ।
+mananānmuniriti ca vyutpattiriti ca vyutpattisaṃbhavāt ।
+amunīnāmapyahaṃ vyāsaḥ' iti ca prayogadarśanāt ।

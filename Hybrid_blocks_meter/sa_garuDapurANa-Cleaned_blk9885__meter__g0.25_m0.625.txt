@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9885 | label: meter | g:0.25 m:0.625 ---
+
+vratatīrthādikaṃ sarvaṃ punaḥ papraccha keśavam ।
+dhyātvā manasi sarveśaṃ sarvakāraṇakāraṇam ।।

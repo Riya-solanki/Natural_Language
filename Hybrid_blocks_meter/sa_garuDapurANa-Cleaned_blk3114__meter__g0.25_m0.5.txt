@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3114 | label: meter | g:0.25 m:0.5 ---
+
+parīvādaṃ parārthaṃ ca parihāsaṃ parastriyam ।
+paraveśmani vāsaṃ ca na kurvīta kadācana ।।

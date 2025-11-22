@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1594 | label: meter | g:0.194 m:0.5 ---
+
+viṣvagjyotiḥpradhānās te yair imā vardhitāḥ prajāḥ 
+tair idaṃ bhārataṃ varṣaṃ navabhedam alaṃkṛtam ।।

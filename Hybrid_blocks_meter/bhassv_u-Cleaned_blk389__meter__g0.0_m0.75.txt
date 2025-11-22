@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 389 | label: meter | g:0.0 m:0.75 ---
+
+{rājā} - śighraṃ praveśyatām 
+{pratīhārī} - jaṃ bhaṭṭā āṇavedi 
+[yad bhartājñāpayati । ]

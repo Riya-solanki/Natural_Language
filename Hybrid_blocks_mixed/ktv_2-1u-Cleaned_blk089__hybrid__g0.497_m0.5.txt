@@ -1,0 +1,7 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 89 | label: hybrid | g:0.497 m:0.5 ---
+
+kṛtam? pakvaṃ, kiṃkriyo devadattaḥ? paktā, keyaṃ kriyā? pākaḥ iti ।
+na ca karotisāmānādhikaraṇyātiriktam ākhyāteṣv api bhāvanāpramāṇaṃ vidyate ।
+tasmād dhātavo api bhāvanāṃ na muñcanti ।
+tathā cāhuḥ karotir artheṣv iva sarvadhātūn iti ।
+yat tv asyāḥ prādhānyaṃ tat kāmaṃ tiṅābhidheyaṃ dyotyaṃ vānvayavyatirekābhyām astu, na svarūpam ।

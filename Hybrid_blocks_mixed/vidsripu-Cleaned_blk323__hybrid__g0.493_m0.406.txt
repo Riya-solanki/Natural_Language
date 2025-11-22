@@ -1,0 +1,6 @@
+--- source: vidsripu-Cleaned.txt | block: 323 | label: hybrid | g:0.493 m:0.406 ---
+
+kṛtvā pṛṣṭhatare paṭaccaram atha jyotiḥprataṅkāṅkayor ūrvor antarayor niṣeduṣi karau kṛtvā kukūlānale ।
+pārśvau kampajaḍau pidhāya kaphaṇidvandvena romāñcitā prātar no na ca sāyam adya jaratī gehodaraṃ muñcati ।।
+vaiśyasya
+NB Ingalls proposes tentatively @kṣatāṅkā@ for @prataṅkā@ in a

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2334 | label: meter | g:0.194 m:0.625 ---
+
+etad āścaryabhūtaṃ hi bālasyāsīd viceṣṭitam 
+kṛṣṇasya bharataśreṣṭha ghoṣe nivasatas tadā ।।

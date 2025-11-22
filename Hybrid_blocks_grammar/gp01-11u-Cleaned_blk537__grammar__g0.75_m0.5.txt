@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 537 | label: grammar | g:0.75 m:0.5 ---
+
+[] dūta uvāca-"atha kiṃ? yat khalu śīghram evāsmai rāja-vyāja-rākṣasāya saṅgamya balir valayitavyo militavyaś cāham" iti । kiṃ cedam api sandiṣṭam, "bhavan-nandanotpatti-samayaṃ samayā vayam atyutkaṇṭhitās tan-maṅgalena saṅgama-nīyāḥ, tathā bhavat-putra-nirviśeṣasya tasya bāla-viśeṣasya vṛttir vartayitavyā" iti ।

@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1337 | label: grammar | g:0.604 m:0.5 ---
+
+atra prasthānodyataṃ bhavantaṃ jñātvā sahasaiva tvadarayaḥ palāyya gatāḥ iti kāraṇe prastute kāryamuktam ।

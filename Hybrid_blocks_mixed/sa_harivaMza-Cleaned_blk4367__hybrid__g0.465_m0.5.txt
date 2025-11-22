@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4367 | label: hybrid | g:0.465 m:0.5 ---
+
+yadi te ahaṃ sutaḥ saumye yadi vā nātmajaḥ śubhe 
+kathitaṃ tat tvam icchāmi kim idaṃ te cikīrṣitam ।।

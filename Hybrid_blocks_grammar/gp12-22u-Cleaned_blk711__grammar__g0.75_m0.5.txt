@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 711 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataḥ kautuka-cāritayāpi tena yad vicāritam iva sampadyate, tad api pāramārthya-varyatayā paryavasyatīty evam aho parama-maho-vara-kara-svabhāva-dhāraḥ so' yaṃ vraja-dharā-pati-vaṃśa-janmā śaśadharaḥ iti ।

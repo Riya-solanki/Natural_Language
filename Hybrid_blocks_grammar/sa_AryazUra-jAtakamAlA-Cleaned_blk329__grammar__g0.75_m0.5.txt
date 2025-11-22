@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 329 | label: grammar | g:0.75 m:0.5 ---
+
+vismitataramanāstu śakro devendrastasya tenāvasthānena sthirataraguṇasaṃbhāvanastatparīkṣānimittaṃ tasminnaraṇyavanapradeśe nidāghakālānilavatsamagraṃ vīruttṛṇatarugaṇaṃ parṇasamṛddhyā viyojayāmāsa । atha bodhisattvaḥ pratyārdratarāṇi śīrṇaparṇāni samāhṛtya tairudakasvinnairanutkaṇṭhitamatirvartamāno dhyānasukhaprīṇitamanāstatrāmṛtatṛpta iva vijahāra ।

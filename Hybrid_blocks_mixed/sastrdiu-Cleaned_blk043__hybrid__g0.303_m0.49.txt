@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 43 | label: hybrid | g:0.303 m:0.49 ---
+
+mantrāṇāmapi prakaraṇena pradhānavidhiśeṣatvaṃ dvitīyapāde vakṣyata iti na tatrāpi vaktavyamasti ।
+tena kasyātra siddhārthatāṃ nirasya kāryārthatocyate ।
+aavināśī vā are ayamātme'tyādīnāmupaniṣadvākyānāmiticet ।
+na ।
+teṣāmapi yadi vidhyekavākyatvamasti tator'thavādādhikaraṇena gatam, atha nāsti kathaṃ teṣāṃ kāryārthatā syāt ।।

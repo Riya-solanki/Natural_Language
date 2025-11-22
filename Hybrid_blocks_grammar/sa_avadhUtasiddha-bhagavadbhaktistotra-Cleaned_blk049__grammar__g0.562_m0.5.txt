@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 49 | label: grammar | g:0.562 m:0.5 ---
+
+śvetasya mṛtyudamanāntaravartino api sūnāpaśor iva vadhāvasare sthitasya ।
+trāṇaṃ nigṛhya bhavatā yad akāri tasya tat kasya vismayam alaṃ na karoti loke ।।

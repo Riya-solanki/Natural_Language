@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2038 | label: grammar | g:0.75 m:0.5 ---
+
+tataḥ samāveśyaivaṃ vadet । "[te cakṣuḥpathe] kīdṛśo avabhāsaḥ? tadyathā vadati tathā siddhir" iti । "tadyadi śvetālokaṃ paśyet tasyottamasiddhijñānaṃ śikṣayet । atha pītaṃ paśyet tasyārthotpattijñānaṃ śikṣayet । atha raktaṃ paśyet tato anurāgaṇajñānaṃ śikṣayet । atha kṛṣṇaṃ paśyet tato abhicārakajñānaṃ śikṣayet । atha vicitraṃ paśyet tataḥ sarvasiddhijñānaṃ śikṣayed" iti jñātvā, yathāvanmukhabandhaṃ muktvā, yathābhājanatayā jñānānyutpādayet । mudrājñānaṃ ca śikṣayet ।

@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 5 | label: hybrid | g:0.521 m:0.5 ---
+
+katamāni catvāri mahābhūtāni । pṛthivī dhātuḥ abdhātuḥ tejodhātuḥvāyudhātuśca ।।

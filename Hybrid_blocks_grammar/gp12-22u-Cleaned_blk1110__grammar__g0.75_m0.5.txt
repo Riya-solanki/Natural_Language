@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1110 | label: grammar | g:0.75 m:0.5 ---
+
+[] tathāpy āsāṃ suṣṭhu tan-niṣṭhāṃ niṣṭaṅkayituṃ paṅka-darśinaṃ mano-ratha-sparśinaṃ parihāsam apy atīva spaṣṭayituṃ cittam idam utkaṇṭhate । yadā gatā api saṅkocāvagāhataḥ parasparam āhata-prakāśāvayavā eva tiṣṭhanti iti ।

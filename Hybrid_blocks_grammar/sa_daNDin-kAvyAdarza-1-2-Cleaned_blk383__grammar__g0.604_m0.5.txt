@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 383 | label: grammar | g:0.604 m:0.5 ---
+
+adya yā mama govinda jātā tvayi gṛhāgate kālenaiṣā bhavet prītis tavaivāgamanāt punaḥ ।।

@@ -1,0 +1,10 @@
+--- source: gp23-33u-Cleaned.txt | block: 308 | label: meter | g:0.125 m:0.5 ---
+
+nāhaṃ teṣāṃ sadṛg api tu māṃ lubdham ūhadhvam ṛddhau
+premṇas tāṃ tad-viṣaya-virahaṃ hanta kṛtvāpi vaśmi ।
+yuṣmān vācyaṃ kim iha mayakā māyitāvat-pratīter
+etad yan me vyasanam asakṛn māṃ ca duḥkhākaroti ।।
+yūyaṃ hitvā nikhilam aniśaṃ kāmayadhve paraṃ māṃ
+mat-kāmyās tu prayuta-niyutaṃ prema-bhedena santi ।
+tasmān na pratyupakṛti-kalāleśa-kalpaṃ vidhātuṃ
+śaknomīti prathayata nijaiḥ sad-guṇair eva tuṣṭim ।। [mandākrāntā]

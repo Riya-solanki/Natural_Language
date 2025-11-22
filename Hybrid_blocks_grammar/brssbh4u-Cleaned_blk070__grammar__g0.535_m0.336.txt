@@ -1,0 +1,24 @@
+--- source: brssbh4u-Cleaned.txt | block: 70 | label: grammar | g:0.535 m:0.336 ---
+
+na eṣa doṣaḥ ।
+na hi vayaṃ karmaṇaḥ phaladāyinīṃ śaktim avajānīmahe, vidyata eva sā, sā tu vidyādinā kāraṇāntareṇa pratibadhyata iti vadāmaḥ ।
+śaktisadbhāvamātre ca śāstraṃ vyāpriyate na pratibandha apratibandhayoḥ api ।
+na hi karma kṣīyata iti etat api smaraṇam autsargikaṃ na bhogāt ṛte karma kṣīyata tadarthatvāt iti ।
+iṣyata eva tu prāyaścittādinā tasya kṣayaḥ asarvaṃ pāpmānaṃ tarati' atarati brahmahatyāṃ yo aśvamedhena yajate ya u cainameva vada' ityādi śrutismṛtibhyaḥ ।
+yat tu uktaṃ naimittikāni prāyaścittāni bhaviṣyanti iti ।
+tat asat ।
+doṣasaṃyogena codyamānānām eṣāṃ doṣanirghātaphalasaṃbhave phalāntarakalpanā anupapatteḥ ।
+yatpunaḥ etat uktaṃ na prāyaścittavat doṣakṣaya uddeśena vidyāvidānam asti iti ।
+atra brūmaḥ - saguṇāsu tāvat vidyāsu vidyata eva vidhānam ।
+tāsu ca vākyaśeṣa aiśvaryaprāptiḥ pāpanivṛttiḥ ca vidyāvata ucyate ।
+tayoḥ ca avivakṣākāraṇaṃ na asti iti ataḥ pāpmaprahāṇapūrvaka aiśvaryaprāptiḥ tāsāṃ phalam iti niścīyate ।
+nirguṇāyāṃ tu vidyāyāṃ yadi api vidhānaṃ na asti tathā api akartṛ ātmatvabodhāt karmapradāhasiddhiḥ ।
+aśleṣa iti ca āgāmiṣu karmasu kartṛtvameva na pratipadyate brahmavit iti darśayati ।
+atikrānteṣu tu yadi api mithyājñānāt kartṛtvaṃ pratipeda iva tathā api vidyāsāmarthyāt mithyājñānanivṛtteḥ tāni api pravilīyanta iti āha vināśa iti ।
+pūrvasiddhakartṛtva bhoktṛtva viparītaṃ hi triṣu api kāleṣu akartṛtva abhoktṛtvasvarūpaṃ brahma aham asmi na itaḥ pūrvam api kartā bhoktā vā aham āsaṃ na idānīṃ na api bhaviṣyatkāla iti brahmavit avagacchati ।
+evam eva ca mokṣa upapadyate ।
+anyathā hi anādikālapravṛttānāṃ karmāṇāṃ kṣayābhāve mokṣa abhāvaḥ syāt ।
+na ca deśakālanimittāpekṣo mokṣaḥ karmaphalavat bhavitum arhati ।
+anityatva prasaṅgāt ।
+parokṣatva anupapatteḥ ca jñānaphalam ।
+tasmāt brahma adhigame duritakṣaya iti sthiram ।।

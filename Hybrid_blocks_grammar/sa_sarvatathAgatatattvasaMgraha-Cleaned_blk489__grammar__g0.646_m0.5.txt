@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 489 | label: grammar | g:0.646 m:0.5 ---
+
+atha sāmānyaḥ sādhanavidhivistaro bhavati । tatrādita eva svamudrāṃ badhvā svamudrāsatvamātmānaṃ bhāvayedanena hṛdayena samayo aham ।।

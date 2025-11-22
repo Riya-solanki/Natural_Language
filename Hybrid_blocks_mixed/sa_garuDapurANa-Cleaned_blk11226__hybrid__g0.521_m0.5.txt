@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11226 | label: hybrid | g:0.521 m:0.5 ---
+
+janma hyetaddurlabhaṃ naśvaraṃ tu yathā jalasthaṃ tattathaiva ।
+no visvāsaṃ kuru gātre tvadīye jīveṣvapi svaḥ paraśceti tāta ।।

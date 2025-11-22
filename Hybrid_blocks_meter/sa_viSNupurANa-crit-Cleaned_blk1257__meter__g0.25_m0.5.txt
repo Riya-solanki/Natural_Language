@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1257 | label: meter | g:0.25 m:0.5 ---
+
+yato dharmārthakāmākhyaṃ vimuktiś ca phalaṃ dvijāḥ 
+tenāpi hi kim ity evam anantena kim ucyate ।।

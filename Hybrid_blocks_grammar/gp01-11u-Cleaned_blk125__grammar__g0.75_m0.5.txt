@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 125 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam ānanda-satra-patrādi-sthitānām upari sāndra-śākhābhir alakṣya-talānām analpa-kalpa-vṛkṣa-lakṣāṇām adhimadhyaṃ rāja-samāja-virājamānāṃ varṇita-mañju-kiñjalka-karṇikām adhivasantaḥ sadā lasataḥ sa-parivāra-vāra-surabhī-pāla-bhūpāla-kumārasya tasya sarva-cintātīta-cintāmaṇi-mayam akṣāmaṃ sapta-kakṣyārāmaṃ dhāma nikāmaṃ dhāma vistārayan netrāṇi vistārayati । tatra ca bhāsamānaṃ tad āvāsam abhitaḥ satatam upaparārdhe gaṇanīyānāṃ sajātīyānām advitīyā vasatiḥ । seyam abhisnihya vandibhiḥ sandihyate ।

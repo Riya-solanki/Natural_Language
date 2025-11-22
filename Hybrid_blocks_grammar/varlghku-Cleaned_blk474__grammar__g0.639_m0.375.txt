@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 474 | label: grammar | g:0.639 m:0.375 ---
+
+tasmānnuḍ dvihalaḥ ।।
+dvihalo dhātordīrghībhūtātparasya nuṭ syāt । ānarcatuḥ । arciṣyati । ārcat । arcyāt । ārciṣyat ।। ।। vrajati । vrajitā । vrajatu । vrajet ।।

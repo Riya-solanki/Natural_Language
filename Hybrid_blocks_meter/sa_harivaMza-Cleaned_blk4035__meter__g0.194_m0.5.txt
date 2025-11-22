@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4035 | label: meter | g:0.194 m:0.5 ---
+
+so avatīrya gajāt tūrṇaṃ pariṣvajya janārdanam 
+sasvaje baladevaṃ ca taṃ ca rājānam āhukam 
+pradyumnam atha deveśas tatputraṃ ca mahādyutim । 
+vṛṣṇīn anyān sasvaje ca yathā sthānaṃ yathā vayaḥ ।।

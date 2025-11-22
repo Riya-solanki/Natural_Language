@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 701 | label: grammar | g:0.594 m:0.5 ---
+
+kapole patrālī karatalanirodhena mṛditā nipīto niḥśvāsair ayam amṛtahṛdyo adhararasaḥ ।
+muhuḥ kaṇṭhe lagnas taralayati bāṣpaḥ stanataṭaṃ priyo manyur jātas tava niranurodhe na tu vayam ।।

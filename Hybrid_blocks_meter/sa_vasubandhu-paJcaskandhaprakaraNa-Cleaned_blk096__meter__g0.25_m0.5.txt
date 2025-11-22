@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 96 | label: meter | g:0.25 m:0.5 ---
+
+kimarthaḥ skandhaḥ rāśyarthaḥ । kālagotrākāragativiṣayabhinnānāṃ rūpādīnāmabhisaṃkṣepatāmupādāya ।।

@@ -1,0 +1,4 @@
+--- source: ttssarvu-Cleaned.txt | block: 47 | label: grammar | g:0.863 m:0.239 ---
+
+tadyathā ūhaḥ śabdodhyayanaṃ duḥkhavighātāstrayaḥ suhṛtprāptiḥ dānañca siddhayoṣṭāviti tatropadeśamantareṇa tattvajñānasya svayamūhādyā asiddhiḥ sā prathamā anyadīyaśāstrapāṭhamākarṇya jñānotpattau śabdākhyā dvitīyā adhyayanatastattvajñāne tṛtīyā ādhyātmikādhidaivikādhibhautikaduḥkhatrayavighātena tattvajñāne jāte siddhitrayam jñānavatsuhṛdo lābhena tattvajñāne suhṛtprāptyākhyā saptamī dhanādinārādhite jñānini tattvajñāne aṣṭamī atra duḥkhavighātarūpāṇāṃ tisṛṇāṃ siddhīnāṃ mukhyatvamitarāsāṃ tadupāyatvādgauṇatvaṃ bobhyam ।
+pañcaviparyayādārabhyāṣṭasiddhiparyantamete pratyayasargāḥ teṣu prakṛtipratyayānyatākhyātiprepsubhirdvicatvāriṃśadādito heyāḥ siddhayastu upādeyā iti tatsvarūpavyākriyayaiva sūcitaṃ bhavati ।।

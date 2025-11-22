@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2685 | label: meter | g:0.25 m:0.5 ---
+
+ihaiva janmani varaṃ yadīccheduttamaṃ śivaṃ ।
+buddhatvaṃ tena kāmedaṃ na cet siddhiryathopari ।।

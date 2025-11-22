@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3173 | label: meter | g:0.25 m:0.5 ---
+
+te tu yuktvā rathavaraṃ sarva evāmitaujasaḥ 
+kṛṣṇena sahitāḥ prāptās tathā saṃkarṣaṇena ca । 
+asasāda purīṃ rasyāṃ mathurāṃ kaṃsapālitām । 
+viviśuḥ pūḥpradhānāṃ vai kāle raktadivākare ।।

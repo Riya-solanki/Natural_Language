@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4521 | label: meter | g:0.306 m:0.5 ---
+
+yaḥ kārayenmandiraṃ keśavasya puṇyāṃllokān sa jayecchāśvatān vai ।
+dattvārāmān puṣpaphalābhipannān bhogān bhuṅkte kāmātaḥ ślāghanīyān ।।

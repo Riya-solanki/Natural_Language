@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 678 | label: meter | g:0.272 m:0.595 ---
+
+evaṃ mudrā samākhyātā vyāpayitvāprameyataḥ 
+ekā eva parā mudrā yasyedaṃ tiṣṭhate jagat ।।

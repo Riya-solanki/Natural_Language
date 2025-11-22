@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 6 | label: grammar | g:0.583 m:0.5 ---
+
+dhṛtyādibhiḥ svatanuvṛttibhir eva yadvad eko bhavān vahati samprati lokayātrām ।
+tadvad vibho yadi jagaty aparo asti kaścin nirmatsarāḥ kim api na pravadanti santaḥ ।।

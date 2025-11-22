@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 696 | label: hybrid | g:0.522 m:0.461 ---
+
+anālocya premṇaḥ pariṇatim anādṛtya suhṛdaṃ tvayākāṇḍe mānaḥ kim iti śarale preyasi kṛtaḥ ।
+samākṛṣṭā hy ete virahadahanodbhāsuraśikhāḥ svahastenāṅgārās tad alam adhunāraṇyaruditaiḥ ।।
+vikaṭanitambāyāḥ।।

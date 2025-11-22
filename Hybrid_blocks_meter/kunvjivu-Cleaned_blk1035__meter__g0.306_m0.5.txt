@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1035 | label: meter | g:0.306 m:0.5 ---
+
+kiṃ gatena na hi yuktamupaituṃ kaḥ priye subhagamānini mānaḥ ।
+yoṣitāmiti kathāsu sametaiḥ kāmibhirbahurasā dhṛtirūhe ।।

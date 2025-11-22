@@ -1,0 +1,3 @@
+--- source: brssgo2u-Cleaned.txt | block: 432 | label: hybrid | g:0.521 m:0.5 ---
+
+FN nādaraḥ kriyate sūtrāntarāṇi na racyanta etānyevāvṛttyā yojayante ।

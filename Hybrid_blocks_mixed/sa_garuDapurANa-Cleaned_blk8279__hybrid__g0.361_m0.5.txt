@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8279 | label: hybrid | g:0.361 m:0.5 ---
+
+ātmādhīnaḥ pumāṃlloke sukhī bhavati niścitam ।
+śabdaḥ sparśaśca rūpaṃ ca raso gandhaśca tadguṇāḥ ।।
+tathā ca viṣayādhīno duḥ khī bhavati niścitam ।।
+kuraṅgamatāṅgapataṅgabhṛṅgamīnā hatāḥ pañcabhireva pañca ।
+ekaḥ pramādī sa kathaṃ na hanyate yaḥ sevate pañcabhireva pañca ।।

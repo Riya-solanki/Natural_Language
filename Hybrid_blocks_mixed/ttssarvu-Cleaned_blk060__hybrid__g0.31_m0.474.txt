@@ -1,0 +1,6 @@
+--- source: ttssarvu-Cleaned.txt | block: 60 | label: hybrid | g:0.31 m:0.474 ---
+
+viparyayādatattvajñānājjāyamāno bandhastrividhaḥ ।
+prākṛto vaikṛto dākṣiṇaśceti ।
+tatra puruṣadhiyā prakṛtyupāsanaṃ prākṛto bandhaḥ ।
+tathā bhūtendriyāhaṅkārabuddhyupāsanaṃ vaikṛtaḥ puruṣatattvamajānataḥ kevalamiṣṭāpūrtakāriṇo dākṣiṇa iti trayāṇāmiti puruṣasvarūpavedakatvābhāve bandhakatvam ।।

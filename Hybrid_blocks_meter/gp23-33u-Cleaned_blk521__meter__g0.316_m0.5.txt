@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 521 | label: meter | g:0.316 m:0.5 ---
+
+[] kaṃsas tu keśi-dhvaṃsanam api śṛṇvan vyagra-manā vigra iva gṛhān na niḥsasāra ।
+so' yaṃ tava vrajādhīśa sutaḥ sūtamanorathaḥ ।
+keśinaṃ cātra yaścakre yamasya prativeśinam ।।
+iti śrī-śrī-gopāla-campūm anu keśi-dhvaṃsana-śaṃsanaṃ nāma dvātriṃśaṃ pūraṇam ।।

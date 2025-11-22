@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3948 | label: meter | g:0.25 m:0.5 ---
+
+jagāma tatra pradyumnaḥ kumārair aparair vṛtaḥ 
+sā hi taṃ cakame kanyā sa ca tāṃ śubhalocanām ।।

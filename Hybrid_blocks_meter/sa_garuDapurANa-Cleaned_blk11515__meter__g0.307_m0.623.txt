@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11515 | label: meter | g:0.307 m:0.623 ---
+
+utkarṣanāmnīṃ paramāṃ ca devīṃ namedramāṃ brahmavāyū ca śeṣam ।
+dakṣasthapadmasya dalāṣṭake ca nārāyaṇākāraśeṣādikānām ।।

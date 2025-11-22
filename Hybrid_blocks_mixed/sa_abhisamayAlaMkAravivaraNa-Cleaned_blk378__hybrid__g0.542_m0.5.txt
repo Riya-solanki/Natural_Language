@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 378 | label: hybrid | g:0.542 m:0.5 ---
+
+paribhāṣā darśanaheyānāṃ savāsanakleśānāṃ nirvedhakatvena darśanamārgapakṣe pātitvāt, tadbhāgahitatvād vā nirvedhabhāgīyam ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1685 | label: meter | g:0.194 m:1.0 ---
+
+vāyuvegavatī saumyā tārāgaṇapatākinī 
+toyadāviddhavasanā grahanakṣatrahāsinī ।।

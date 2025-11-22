@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1289 | label: grammar | g:0.604 m:0.5 ---
+
+daśarathaḥ-bhoḥ sambandhin kṛtaṃ kārmuka-parigraha-vyasanena-ity antena janakasya bhārgava-nimittasya jarā-nimittasya vā vyasanasya kathanād nirodhaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4396 | label: meter | g:0.306 m:0.5 ---
+
+etat proktaṃ bhavataḥ puṇyakīrtteḥ prādurbhāvo balibandho avyayasya ।
+yaccāpyanyan śrotukāmo asi vipra tatprocyatāṃ kathayiṣyāmyaśeṣam ।।

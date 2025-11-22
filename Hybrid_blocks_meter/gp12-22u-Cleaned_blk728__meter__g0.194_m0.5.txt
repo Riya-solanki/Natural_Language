@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 728 | label: meter | g:0.194 m:0.5 ---
+
+atarītṛṇyata grāsān bhūbhṛd-bhūbhṛd yathā yathā ।
+acalīklpyatāpy uccair māṃsalāya tathā tathā ।। [anuṣṭubh]

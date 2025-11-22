@@ -1,0 +1,4 @@
+--- source: visa01cu-Cleaned.txt | block: 230 | label: hybrid | g:0.366 m:0.367 ---
+
+śrutiduṣṭāpuṣṭārthatvādayaḥ kāṇatvakhañjatvādaya iva, śabdārthadvāreṇa dehadvāreṇova, vyabhicāribhāvādeḥ svaśabdavācyatvādayo mūrkhatvādaya iva, sākṣātkāvyasyātmabhūtaṃ rasamapakarṣayantaḥ kāvyasyāpakarṣakā ityucyante ।
+eṣāṃ viśeṣodāharaṇāni vakṣayāmaḥguṇādayaḥ kisvarūpā ityucyante

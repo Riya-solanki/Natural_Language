@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1769 | label: hybrid | g:0.51 m:0.5 ---
+
+vakrakeśā ca yā kanyā maṇḍalākṣī ca yā bhavet ।
+bhartā ca mriyate tasyā niyataṃ duḥ khabhāginī ।।

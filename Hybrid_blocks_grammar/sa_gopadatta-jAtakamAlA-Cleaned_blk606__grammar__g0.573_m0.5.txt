@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 606 | label: grammar | g:0.573 m:0.5 ---
+
+duḥkhāny amūni sati janmani saṃbhavanti kṣīṇe ca janmani na duḥkham upaiti bhūyaḥ ।
+janmakṣayāya matimān prayateta tasmād yaḥ prāptum icchati na duḥkhaśatābhighātam ।।

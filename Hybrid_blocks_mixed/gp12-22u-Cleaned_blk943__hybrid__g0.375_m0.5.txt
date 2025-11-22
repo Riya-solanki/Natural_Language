@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 943 | label: hybrid | g:0.375 m:0.5 ---
+
+[] tad evaṃ divā-kathāyāṃ vṛttāyāṃ naktam api sā pūrvavad vṛttā । yathā madhukaṇṭha uvāca-

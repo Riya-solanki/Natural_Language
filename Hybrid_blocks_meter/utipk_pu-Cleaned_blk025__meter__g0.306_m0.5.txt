@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 25 | label: meter | g:0.306 m:0.5 ---
+
+jñānaṃ ca citsvarūpaṃ cet tad anityaṃ kim ātmavat ।
+athāpi jaḍam etasya katham arthaprakāśatā ।।

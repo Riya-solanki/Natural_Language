@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1909 | label: hybrid | g:0.521 m:0.5 ---
+
+atra kenāpi yati-bhraṣṭena sva-gṛhītasya yaty-āśramasya dūṣaṇād idam avagalitam ।

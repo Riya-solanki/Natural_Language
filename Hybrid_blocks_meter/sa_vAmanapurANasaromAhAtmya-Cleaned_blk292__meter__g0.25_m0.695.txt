@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 292 | label: meter | g:0.25 m:0.695 ---
+
+devadevapatiḥ sākṣād viṣṇurvāmanarūpadhṛk ।
+tuṣṭāva yajñaṃ vahniṃ ca yajamānamathārcitaḥ ।
+yajñakarmādhikārasthān sadasyān dravyasaṃpadam ।।

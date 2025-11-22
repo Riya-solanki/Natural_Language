@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5031 | label: meter | g:0.194 m:0.5 ---
+
+tasmin satre samāpte tu rājā pārikṣitas tadā 
+yaṣṭuṃ sa vājimedhena saṃbhārān upacakrame ।।

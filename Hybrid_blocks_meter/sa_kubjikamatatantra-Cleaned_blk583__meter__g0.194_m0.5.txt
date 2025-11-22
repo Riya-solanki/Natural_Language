@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 583 | label: meter | g:0.194 m:0.5 ---
+
+japasya lakṣaṇaṃ deva pūrvaṃ hi kathitaṃ tvayā 
+ekoccāraśataṃ jñeyaṃ sahasraṃ lakṣam eva ca ।।

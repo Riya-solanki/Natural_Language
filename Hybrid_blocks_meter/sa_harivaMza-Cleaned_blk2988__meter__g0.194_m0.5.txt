@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2988 | label: meter | g:0.194 m:0.5 ---
+
+na cātmano guṇāṃs tāta pravadanti manīṣiṇaḥ 
+pareṇoktā guṇā gauṇyaṃ yānti vedārtasaṃmitāḥ ।।

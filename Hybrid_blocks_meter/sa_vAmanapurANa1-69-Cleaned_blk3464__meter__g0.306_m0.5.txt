@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3464 | label: meter | g:0.306 m:0.5 ---
+
+sa samārādya varadaṃ brahmāṇaṃ tapasāsuraḥ ।
+avadhyatvaṃ suraiḥ sendraiḥ prārthayat sa tu nārada ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 34 | label: meter | g:0.272 m:0.595 ---
+
+tena svabhāvasiddhena bhavitavyaṃ jagatkṛtā 
+arvāksiddhe anavasthā syān mokṣo nirhetuko api vā ।।

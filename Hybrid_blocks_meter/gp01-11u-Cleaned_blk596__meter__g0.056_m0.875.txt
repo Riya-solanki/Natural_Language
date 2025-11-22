@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 596 | label: meter | g:0.056 m:0.875 ---
+
+kaṃsāreḥ sumadhurimā pramāṇa-caryāṃ
+na prāpsyaty adhiyuga-koṭi-kūṭito' pi ।
+sā rākṣasy api rudhirāśanāpi yasya
+sparśāṃśād vara-surabhitvam āsasāda ।। [praharṣiṇī]

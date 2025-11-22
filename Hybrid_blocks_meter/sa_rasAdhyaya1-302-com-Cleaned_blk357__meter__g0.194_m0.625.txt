@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 357 | label: meter | g:0.194 m:0.625 ---
+
+sūto'sau jīrṇalohaḥ san godhūmābhaḥ kaṣāyataḥ 
+pāśito rāgasahano jāto rāgaśca jīryati ।।

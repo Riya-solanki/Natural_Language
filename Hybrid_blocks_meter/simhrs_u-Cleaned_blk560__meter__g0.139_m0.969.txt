@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 560 | label: meter | g:0.139 m:0.969 ---
+
+madhyamasya mada-vṛddhir, yathā-
+vināpi hetuṃ vikaṭaṃ jahāsa
+padeṣu caskhāla same' pi mārge ।
+vighūrṇamānaḥ sa madātirekād
+ākāśam ālambanam ālalambe ।।

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1358 | label: grammar | g:0.75 m:0.5 ---
+
+tasya tad atidāruṇam ālokya lokavyasanaṃ mahat kāruṇyam udapādi । atha sa mahāsattvas tena sattvopadraveṇa vyathitamanāḥ sutarām abhivardhitānukampākampitaḥ pitevaikaputravyasanam asahamānaś cintām apede ।।

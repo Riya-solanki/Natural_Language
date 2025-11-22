@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 357 | label: hybrid | g:0.542 m:0.448 ---
+
+nindānyārthadarśanayorapi na bhedakatvaṃ tattadvidhistutimātratvādbahuśākhādhyayanāśaktāvapi svaśākhanuktaviśeṣasyāpekṣitasyānyato grahaṇasaṃbhavādaśaktirabhedikā, ekasminnapi karmaṇyaṅgalopādinā prāyaścittaṃ saṃbhavati ।
+evaṃ samāptivacanabhedo apyaprayojaka ityaivaṃ karmābhedapramāṇaprābalye bhedahetavaḥ parihṛtā ityarthaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 863 | label: meter | g:0.272 m:0.845 ---
+
+pūrṇacandramaṇḍalārūḍho mahāmudrāparigrahaḥ ।
+vajrasatvaṃ svamātmānaṃ bhāvayaṃ sidhyate laghu ।।

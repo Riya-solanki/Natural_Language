@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2894 | label: meter | g:0.194 m:0.75 ---
+
+nāśeṣaṃ puruṣo aśnīyād anyatra jagatīpate 
+madhvambudadhisarpibhyaḥ saktubhyaś ca vivekavān ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5695 | label: meter | g:0.25 m:0.625 ---
+
+śvetāparā jitāmūlaṃ vartitaṃ cāsya vāriṇā ।
+tallepo rudra māsena śuklakuṣṭhavināśanaḥ ।।

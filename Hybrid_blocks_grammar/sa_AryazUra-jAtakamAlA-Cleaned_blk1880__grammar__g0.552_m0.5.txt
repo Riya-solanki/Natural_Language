@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1880 | label: grammar | g:0.552 m:0.5 ---
+
+kuruṣva tasmād guṇasādhanaṃ dhanaṃ śivāṃ ca loke svahitodayāṃ dayām ।
+sthiraṃ ca śīlendriyasaṃvaraṃ varaṃ paratra hi syādaśivaṃ na tena te ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 154 | label: grammar | g:0.667 m:0.5 ---
+
+pradeśeṣv ālokapuraṃ santamase mṛdum uṣṇādikaṃ sparśaṃ vā ghaṭarūpasparśābhāvātmakam anubhūyālokādi ghaṭābhāvo atrāsti, ghaṭo nāstīti vyavahartuṃ yuktam ।।

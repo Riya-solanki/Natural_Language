@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 15 | label: grammar | g:0.604 m:0.5 ---
+
+tvattaḥ paraṃ jagati nātha na cāsti kiṃcin nāṇuḥ kvacin na ca mahān bhavataḥ sakāśāt ।
+sarvātmako asi bhavataiva samastam etad antaḥkṛtaṃ nanu jagan maṇineva sūtram ।।

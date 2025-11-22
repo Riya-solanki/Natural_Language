@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1303 | label: meter | g:0.276 m:0.637 ---
+
+devadeva uvāca ।
+ityevamuktaḥ savituśca putryā ṛṣistadā dhyānaparo babhūva ।
+jñātvā ca tatrārkasutāṃ sakāmāṃ mudā yuto vākyamidaṃ jagāda ।।

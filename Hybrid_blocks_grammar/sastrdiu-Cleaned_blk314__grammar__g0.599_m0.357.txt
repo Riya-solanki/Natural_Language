@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 314 | label: grammar | g:0.599 m:0.357 ---
+
+arthādhyāhāravādināṃ tu sūryārthenādhyāhṛtena viśiṣṭaṃ nirvapāmipadameva prakāśayatīti nohaḥ sidhyet ।
+tathā yatrādhikāravākyer'thavādamātraṃ śrutaṃ pratitiṣṭhanti ha vā ya etā rātrīrupayantīti tatrāpi bhavanmate vidhyarthaṃ evādhyāhāryo na vidhiśabdaḥ, tataśca prākṛtasyopakārasya padārthānāṃ ca nāpūrvaidamarthyaṃ sidhyet ।
+satsvapi hyarthānāmākāṅkṣāsaṃnidhiyogyatveṣu nābhidhānamantareṇānvayasiddhiḥ ।
+nacehāpūrvābhidhāyī śabdo asti yo apūrvaṃ prākṛtairanvitasteṣāmanvayaḥ nāpyutpattyapūrveṇānvaya eva syāt ।।

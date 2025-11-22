@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2545 | label: meter | g:0.312 m:0.72 ---
+
+ruciruvāca ।
+vṛddho ahaṃ sāmprataṃ ko me pitaraḥ sampridāsyati ।
+bhāryāntathā daridrasya duṣkaro dārasaṃgrahaḥ ।।

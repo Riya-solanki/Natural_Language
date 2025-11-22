@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1966 | label: meter | g:0.25 m:0.75 ---
+
+samāñjaliṃ dṛḍhīkṛtya kuñcitāgryā mukhasthitā ।
+kaniṣṭhābhyāṃ tu vikacā padmabhṛkuṭirucyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10819 | label: meter | g:0.25 m:0.625 ---
+
+vāmākṣṇo nirmame saṃjñāṃ ṣaḍvarṣānantaraṃ prabhuḥ ।
+sūryasyānantaraṃ brahmā śatavarṣādanantaram ।।

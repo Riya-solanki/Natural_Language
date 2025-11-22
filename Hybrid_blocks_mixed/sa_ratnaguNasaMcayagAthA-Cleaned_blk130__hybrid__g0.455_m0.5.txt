@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 130 | label: hybrid | g:0.455 m:0.5 ---
+
+ākāśaniśrita yathaiva hi sūrya[raśmi] tāpetimāṃ dharaṇi darśayate ca rūpam 
+tatha prajñapāramitaniśrita dharmarājo tāpeti tṛṣṇanadi dharma nidarśayāti ।।

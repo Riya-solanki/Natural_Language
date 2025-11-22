@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 736 | label: grammar | g:0.708 m:0.5 ---
+
+ramaṇīyam etad iti vikṛtaṃ mateḥ pravadanty avandhyavacasaḥ purātanāḥ । kṛtināṃ mano hatavikalpavāsanaṃ na samādhijeṣv api sukheṣu rajyate ।।

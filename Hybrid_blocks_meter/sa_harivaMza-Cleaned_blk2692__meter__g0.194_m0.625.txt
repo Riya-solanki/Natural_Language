@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2692 | label: meter | g:0.194 m:0.625 ---
+
+tasmin paryāyanirvṛtte gavāṃ nīrājanotsave 
+antardhānaṃ jagāmāśu tena dehena so giriḥ ।।

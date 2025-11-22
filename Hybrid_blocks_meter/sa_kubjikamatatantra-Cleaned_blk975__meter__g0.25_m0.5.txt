@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 975 | label: meter | g:0.25 m:0.5 ---
+
+sarve te darśanāt tasya sādhakasya mahātmanaḥ 
+duṣṭāś ca pralayaṃ yānti vyādhayo vidravanti ca ।।

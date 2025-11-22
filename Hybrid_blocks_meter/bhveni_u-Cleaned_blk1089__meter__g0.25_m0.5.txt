@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 1089 | label: meter | g:0.25 m:0.5 ---
+
+SktCh kathaṃ samaragocaro vartate me nāthaḥ ।

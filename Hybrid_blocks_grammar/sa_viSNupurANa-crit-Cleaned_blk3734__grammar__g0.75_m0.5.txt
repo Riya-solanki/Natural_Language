@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3734 | label: grammar | g:0.75 m:0.5 ---
+
+jayadhvajāt tālajaṅghaḥ putro abhavat । tālajaṅghasya tālajaṅghākhyaṃ putraśatam āsīt । yeṣāṃ jyeṣṭho vītihotras tathānyo bharataḥ । bharatād vṛṣasujātau ca । vṛṣasya putro madhur abhavat । tasyāpi vṛṣṇipramukhaṃ putraśatam āsīt । yato vṛṣṇisaṃjñām etad gotram avāpa ।।

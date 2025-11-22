@@ -1,0 +1,4 @@
+--- source: mamkpb_u-Cleaned.txt | block: 60 | label: hybrid | g:0.441 m:0.413 ---
+
+nābhidhā samayābhāvāt
+gaṅgāyāṃ ghoṣa ityādau ye pāvanatvādayo dharmāstaṭādau pratīyante na tatra gaṅgādiśabdāḥ saṃketitāḥ ।।

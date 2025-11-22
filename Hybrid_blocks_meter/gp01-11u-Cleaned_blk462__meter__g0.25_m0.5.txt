@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 462 | label: meter | g:0.25 m:0.5 ---
+
+vrajendra so' yaṃ putras te sadaḥ-sādbhuta-sampadaḥ ।
+janma-mātrāj jana-śreṇyā nandana-śreṇi-janmadaḥ ।। iti ।

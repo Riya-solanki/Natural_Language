@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1414 | label: meter | g:0.25 m:0.625 ---
+
+aho jagacchreṣṭhamahādayārdratā aho svasaukhyavyavasāyaniḥspṛhā ।
+śubheṣv aho niścayaniścalaṃ mano manasvināṃ bodhipathānupātinām ।।

@@ -1,0 +1,7 @@
+--- source: visa01cu-Cleaned.txt | block: 186 | label: meter | g:0.382 m:0.661 ---
+
+vāgvaidagdhyamalaṅkāraḥ ।
+saṃjñini kāvyasaṃjñāvati vyaṅgyārthasādhāraṇasyārthasya kāvyasaṃjñāvattvāt ।
+itivṛttaṃ varṇitārthaḥ ।
+guṇakriyeti ।
+yadyapi varṇo guṇasyaiva vyañjako na kriyāyāstathāpi atra varṇapadaṃ varṇādiparaṃ bodhyam ।

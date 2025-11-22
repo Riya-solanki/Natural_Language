@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3104 | label: meter | g:0.25 m:0.625 ---
+
+varjayetkṣudrasaṃvādamaduṣṭasya tu darśanam ।
+virodhaṃ saha mitreṇa saṃprītiṃ śatrusevinā ।।

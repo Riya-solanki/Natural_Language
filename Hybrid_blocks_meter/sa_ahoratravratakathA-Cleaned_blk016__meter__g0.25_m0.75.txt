@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 16 | label: meter | g:0.25 m:0.75 ---
+
+bhojanānte trayodaśyāṃ kuryād dantādiśodhanam ।
+caturdaśyāṃ viśeṣeṇa kṣurakarmāṇi kārayet ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4455 | label: meter | g:0.25 m:0.5 ---
+
+kṛṣyantāḥ prathitāḥ sīmāḥ sīmāntaṃ ca punar vanam 
+vanāntā girayaḥ sarve te cāsmākaṃ parā gatiḥ ।।

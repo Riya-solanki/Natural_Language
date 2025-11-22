@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 486 | label: meter | g:0.272 m:0.97 ---
+
+vāgiti chāndaso dvitīyālopaḥ ।
+śeṣamatirohitārtham ।।

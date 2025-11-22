@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 628 | label: meter | g:0.056 m:0.625 ---
+
+{ye nāma kecidiha naḥ prathayantyavajñāṃ
+jānanti te kimapi tān prati naiṣa yatnaḥ ।
+utpatsyatesti mama ko api samānadharmā
+kālo hyayaṃ niravadhirvipulā ca pṛthvī ।।}

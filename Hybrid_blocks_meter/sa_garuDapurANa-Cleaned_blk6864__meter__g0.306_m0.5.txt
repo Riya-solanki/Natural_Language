@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6864 | label: meter | g:0.306 m:0.5 ---
+
+agnikāryaṃ japaḥ snānaṃ viṣṇordhyānañca pūjanam ।
+gantuṃ duḥ khodadheḥ kuryurye ca tatra naranti te ।।

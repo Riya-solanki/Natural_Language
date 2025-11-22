@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2247 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ protsāhyamāno api sādhurnālaṃ pāpe pravartitumanabhyāsāditi sajjanapraśaṃsāyāṃ vācyam । evaṃ kṣāntikathāyāmapyupaneyam - evaṃ kṣamāparicayānna vairabahulo bhavati, nāvadyabahulo bahujanapriyo manoṅaśceti । evaṃ pratisaṃkhyānabahulāḥ svāṃ guṇaśobhāmanurakṣanti paṇḍitā iti pratisaṃkhyānavarṇe vācyam । tathāgatamāhātmye ca bhadraprakṛtyabhyāsavarṇe ca - evaṃ bhadraprakṛtirabhyastā tiryaggatānāmapi na nivartata iti ।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 454 | label: meter | g:0.078 m:0.595 ---
+
+yenāṇūnāmuṣitamamalaṃ dṛkkriyākhyasvarūpaṃ yatsadbhāvādbhavajalanidhau jantujātasya pātaḥ 
+durvāraṃ tatkṣapayati tamo yatprasādastamīśaṃ caryāpāde vivṛtiracanāṃ kurmahe sampraṇamya ।। MRgCp

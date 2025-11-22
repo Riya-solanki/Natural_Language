@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 796 | label: grammar | g:0.568 m:0.409 ---
+
+nādatse haritāṅkurān kvacid api sthairyaṃ na yad gāhase yat paryākulalocano asi karuṇaṃ kūjan diśaḥ paśyasi ।
+daivenāntaritapriyo asi hariṇa tvaṃ cāpi kiṃ yac ciraṃ pratyadri pratikandaraṃ pratinadi pratyūṣaraṃ bhrāmyasi ।।
+muñjasya

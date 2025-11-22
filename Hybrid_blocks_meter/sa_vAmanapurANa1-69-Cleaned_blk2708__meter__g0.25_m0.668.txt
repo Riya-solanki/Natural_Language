@@ -1,0 +1,7 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2708 | label: meter | g:0.25 m:0.668 ---
+
+mahāpāśupatān dṛṣṭvā samutthāya maheśvaraḥ ।
+saṃpariṣvajatādhyakṣāṃste praṇemurmaheśvaram ।।
+tatastadadbhutatamaṃ dṛṣṭvā sarve gaṇeśvarāḥ suciraṃ vismitākṣāśca vailakṣyamagamat param ।।
+vismitākṣān gaṇān dṛṣṭvā sailadiryogināṃ varaḥ ।
+prāha prahasya deveśaṃ śūlapāṇiṃ gaṇādhipam ।।

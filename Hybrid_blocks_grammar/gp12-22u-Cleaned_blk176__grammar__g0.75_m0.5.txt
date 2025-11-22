@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 176 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ, tarīyamāṇena hariṇā varīyasā vraja-parīvāreṇa saritāv ivātarīṣātāṃ te āpadāv iti sukhada-vṛtte sabhyānāṃ tal-līlā-samādher abhyavakarṣaṇāya stavanāmṛta-varṣaṇāya ca sāñjali-sthitayos tayoś cirād bahir avahita-tad-upasevāḥ pūrvavad eva sa-vraja-devāḥ sarve svaṃ svaṃ kāryam āseduḥ ।

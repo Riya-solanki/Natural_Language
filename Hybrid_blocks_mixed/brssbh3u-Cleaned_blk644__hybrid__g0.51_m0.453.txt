@@ -1,0 +1,4 @@
+--- source: brssbh3u-Cleaned.txt | block: 644 | label: hybrid | g:0.51 m:0.453 ---
+
+apuruṣārtho ataḥ śabdāt' ityetadvyavahitamapi saṃbhavādata iti parāmṛśyate ।
+ateva ca vidyāyāḥ puruṣārthahetutvādagnīndhanādīnyāśramakmāṇi vidyayā svārthasiddhau nāpekṣitavyānītyādyasyaivādhikaraṇasya phalamupasaṃharatyadhikavivakṣayā ।।

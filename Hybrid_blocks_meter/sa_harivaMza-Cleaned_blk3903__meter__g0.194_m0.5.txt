@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3903 | label: meter | g:0.194 m:0.5 ---
+
+taṃ hatvā ratham āruhya dhanur ādāya vīryavān 
+saṃkarṣaṇo jaghānograir nārācaiḥ kaiśikān bahūn ।।

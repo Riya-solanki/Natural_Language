@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 107 | label: grammar | g:0.75 m:0.5 ---
+
+aṣṭadaśa dhātavaḥ । cakṣurdhātuḥ, rūpadhātuḥ, cakṣurvijñānadhātu, śrotradhātuḥ, śabdadhātuḥ, śrotravijñānadhātuḥ, ghrāṇadhātuḥ, gandhadhātuḥ, ghrāṇavijñānadhātuḥ, jihvādhātuḥ, rasadhātuḥ, jihvāvijñānadhātuḥ, kāyadhātuḥ, spraṣṭavyadhātuḥ, kāyabijñānadhātuḥ, manodhātuḥ, dharmadhātuḥ, manovijñānadhātuśca ।।

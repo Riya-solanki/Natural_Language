@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 910 | label: grammar | g:0.75 m:0.5 ---
+
+[] so' yam asyā bādarāyaṇinā ghaṭita-samyag-udghaṭṭanaḥ śrīmān yaśaḥ-paṭaha-śabdas trailokyam eva ślokyatayā paryaṭann asti । tathā hi, nemaṃ viriñciḥ [BhP ] ityādi ।

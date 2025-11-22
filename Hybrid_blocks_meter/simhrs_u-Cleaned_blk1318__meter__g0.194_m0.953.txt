@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1318 | label: meter | g:0.194 m:0.953 ---
+
+atha mārgaḥ-
+mārgas tattvārtha-kathanam ।।

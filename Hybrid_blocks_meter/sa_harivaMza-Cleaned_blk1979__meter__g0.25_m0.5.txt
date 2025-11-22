@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1979 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ yady aparāddho ahaṃ kāraṇais tvatpravartitaiḥ 
+kṣantum arhasi me brahmañ śāpo ayaṃ vinivartyatām ।।

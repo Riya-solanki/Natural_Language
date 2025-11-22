@@ -1,0 +1,13 @@
+--- source: simhrs_u-Cleaned.txt | block: 1897 | label: meter | g:0.25 m:0.689 ---
+
+atha utṛṣṭikāṅkaḥ-
+khyātena vā kalpitena vastunā prākṛtair naraiḥ ।
+anvitaḥ kaiśikī-hīnaḥ sāttvatyārabhaṭī-mṛduḥ ।। 
+strīṇāṃ vilāpa-vyāpārair upetaḥ karuṇāśrayaḥ ।
+nānā-saṅgrāma-saṃnāha-prahāramaraṇotkaṭaḥ ।। 
+mukha-nirvāhavān yaḥ syād eka-dvi-try-aṅka icchayā ।
+utsṛṣṭikāṅkaḥ sa jñeyaḥ sa-viṣkambha-praveśakaḥ ।। 
+asminn amaṅgala-prāye kuryān maṅgalam antataḥ ।
+prayojyasya vadhaḥ kāryaḥ punar ujjīvanāvadhiḥ ।। 
+ujjīvanād apy adhikaṃ manoratha-phalo' pi vā ।
+vijñeyam asya lakṣyaṃ tu karuṇākandalādikam ।।

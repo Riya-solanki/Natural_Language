@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 335 | label: grammar | g:0.937 m:0.001 ---
+
+[] tataś ca bahudhā parihasya vinoda-viśeṣaṇāya sakhyātireka-vivekāya ca dvābhyāṃ dvābhyām ekam ekam aṃśukaṃ dattavān, haris tāḥ sarvā vastraikaika-veṣṭita-dvi-dvi-kāya-yaṣṭīr utthitā nirīkṣya pratimukhaṃ parīkṣya ca bahu jahāsa । hasitvā ca tāsām uttam uttamaṃ vāsas tathā dhārayantīnāṃ cañcalatā-sambhṛtaṃ tiryag añcalatā-saṃvṛtaṃ sambhavad aruṇa-guṇaṃ, madhye madhye stambha-nipuṇaṃ kvacana kvacana cākasmika-smita-lambhanaṃ vināpi dṛg-ambhaḥ kranditena vilokita-dambhaṃ vilocana-saṃrambhaṃ lambhaṃ lambhaṃ trilokī-mohane cikīrṣita-tadīya-ruci-dohane kusumāsāra-kāriṇī vimāna-cāriṇī-saṃhatiḥ praśasta-vastrālaṅkāra-mālyādīnāṃ puṭīḥ peṭakāś ca tat-purataḥ śanaiḥ pātanam anaiṣīt ।
+[] kṛṣṇas tu tāḥ sarva-stutāḥ samunna-vastrāḥ paśyann ati-samunnatānanda-vaśyaḥ svayam anurajya samupayujya vibhajya ca tāni vastrādīni prattavān ।
+[] tatra prathamataḥ svalpenaiva tena tena vicchittir jātā, yathā-

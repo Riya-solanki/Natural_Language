@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9292 | label: hybrid | g:0.51 m:0.5 ---
+
+utpannā ye hi saṃsāre mriyante te na saṃśayaḥ ।
+āyuḥ karma ca vittañca vidyā nidhanameva ca ।।

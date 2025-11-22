@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 393 | label: grammar | g:0.562 m:0.5 ---
+
+bodhisattvaḥ kila svamāhātmyakāruṇyābhiprapanno jagatparitrāṇādhyāśayaḥ, pradānadamaniyamasauratyādibhirlokānugrahānukūlairguṇātiśayairabhivardhamānaḥ sarvasattvamaitramanā maitrabalo nāma rājā babhūva ।

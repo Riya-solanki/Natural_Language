@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1257 | label: meter | g:0.194 m:0.521 ---
+
+etenoccair vihasitam asau kākalī-garbha-kaṇṭho
+laulyāc cakṣuḥ prahitam amunā sāṅga-bhaṅgaḥ sthito' yam ।
+hārasyāgraṃ kalayati kareṇaiṣa harṣāc ca kiṃcit
+straiṇaḥ puṃsāṃ nava-parigamaḥ kāmam unmāda-hetuḥ ।।

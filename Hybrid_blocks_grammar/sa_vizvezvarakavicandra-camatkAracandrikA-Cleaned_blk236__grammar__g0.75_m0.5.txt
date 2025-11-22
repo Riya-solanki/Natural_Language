@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 236 | label: grammar | g:0.75 m:0.5 ---
+
+atra nāyakasya sarveṣu rājasu sevakeṣu raṇābhāvādalabdhanavakapālasya kapālino jīrṇakapālamālikāsthāne bhūbhāraviyuktaṃ śeṣāhiṃ niveśayitukāmasya vetyutprekṣālahkāro vyajyate । kiñca nāyakenaiva jagattrāṇabāra nirvahaṇādāśvastasya nārāyaṇasya nidrāmākāṅkṣata iveti ca tenaiva pratīyate ।

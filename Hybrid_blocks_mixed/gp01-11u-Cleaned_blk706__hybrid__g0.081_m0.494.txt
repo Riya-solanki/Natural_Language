@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 706 | label: hybrid | g:0.081 m:0.494 ---
+
+[] atha krameṇa mātṛ-vañcanī buddhir apy udbuddhā । yatra yatra sa ca sa ca,
+"naiva naiva cala cañcala re re,"
+vākyam etad avakarṇya jananyāḥ ।
+māyayā sma parivṛtya hasitvā
+tāṃ nivartya laṣite varivarti ।। [svāgatā]

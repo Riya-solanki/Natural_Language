@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 652 | label: grammar | g:0.545 m:0.146 ---
+
+mercury māraṇa
+tālakasūtenāpi ca kṛtvā vaṭikāṃ niyāmakauṣadhibhiḥ ।।
+evaṃ nigṛhya dhūmaṃ sudhiyā rasamāraṇaṃ kāryam ।
+rasabandhakaraṃ pāradabandhapradaṃ ca punaḥ tālakaṃ haritālaṃ sūto rasaḥ tenāpi niyāmakauṣadhibhiśca śatāvaryādibhiḥ pūrvoktābhir guṭikāṃ kṛtvā nigṛhya dhūmaṃ rundhitadhūmaṃ yathā syāttathā sudhiyā matimatā rasajñena evamamunā vidhinā rasamāraṇaṃ kāryaṃ pāradabandhaḥ kārya ityarthaḥ ।।

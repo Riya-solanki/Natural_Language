@@ -1,0 +1,7 @@
+--- source: grasht_u-Cleaned.txt | block: 1026 | label: grammar | g:0.546 m:0.302 ---
+
+dagdhaṃ dravyaṃ rasāyane neṣṭaṃ apakvaṃ ca neṣṭaṃ amadhuraṃ kaṭutiktakaṣāyāmlalavaṇaṃ ca neṣṭaṃ uṣṇaṃ vahnitaptamiti tu punaḥ naṣṭamāṃsaṃ ninditamāṃsaṃ neṣṭaṃ punaḥ paryuṣitaṃ saṃdhānīkṛtaṃ evaṃvidhaṃ phalamūlaṃ phalaṃ mūlaṃ ca atra rasāyane bhakṣyaṃ na nirdiṣṭaṃ kathitaṃ ।
+kūṣmāṇḍaṃ karkaṭī caiva kaliṅgaṃ kāravellakam ।
+kusumbhikā ca karkoṭī kadalī kākamācikā ।
+kakārāṣṭakametaddhi varjayedrasabhakṣakaḥ ।
+iti granthāntare ।।

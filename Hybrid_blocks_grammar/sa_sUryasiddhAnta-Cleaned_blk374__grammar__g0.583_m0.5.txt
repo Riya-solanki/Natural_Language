@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 374 | label: grammar | g:0.583 m:0.5 ---
+
+prakṛtyantargato devo bahir antaś ca sarvagah। saṅkarṣaṇo apah sṛṣṭvādau tāsu vīryam avāsṛjat।।

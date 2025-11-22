@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1997 | label: hybrid | g:0.521 m:0.5 ---
+
+tvatsaṃstavastvayamabhīpsita eva me syāt tasya dvijasya saphalaśramatāṃ vidhāya ।
+eṣyāmyahaṃ punarapi svayamantikaṃ te nāsmadvidhā hi vitathāṃ giramudgiranti ।।

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 155 | label: grammar | g:0.667 m:0.5 ---
+
+[] tad etad, yathā-tad evaṃ bhrāmaṃ bhrāmaṃ jāta-prasare' py alabdhāvasare sa-tṛṣṇa-kṛṣṇa-sahita-mahita-mahilāvisare' bhilaṣita-vilasitāya viralatā na jātā ।

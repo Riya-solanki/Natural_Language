@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 54 | label: grammar | g:0.663 m:0.5 ---
+
+[] tad etad-anusāreṇa prathamaṃ tāvat kāvyasya nidhānaṃ vastu-mātraṃ sa-pramāṇaṃ prakāśyate, citrasya phalakam iva । [] tathā hiyasya khalu lokasya golokatayā go-gopa-vāsa-rūpasya, śvetadvīpatayā cānanya-spṛṣṭa-parama-śuddhatā-samudbuddha-svarūpasya
+tādṛśa-jñāna-maya-katipaya-mātra-prameya-gātratayā tat-tat-paramatā matā, parama-golokaḥ parama-śvetadvīpa iti । [] tad eva yuktam uktaṃ bhavati ।

@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 296 | label: grammar | g:0.708 m:0.5 ---
+
+atra hetvalaṅkāreṇa tanostanūkaraṇepi tava hṛdaye na vartate iti viśeṣoktiḥ । eṣu kavinibaddhavaktṛprauḍhoktimātraniṣpannaśarīro vyañjakaḥ । evaṃ dvādaśa bhedāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3050 | label: meter | g:0.246 m:0.806 ---
+
+nirastahanur āviṣṭaḥ śoṇitāsrāvilekṣaṇaḥ 
+utkarṇo naṣṭacetās tu sa keśī bahvaceṣṭata ।।

@@ -1,0 +1,10 @@
+--- source: brsvbh1u-Cleaned.txt | block: 631 | label: meter | g:0.269 m:0.803 ---
+
+hṛdayagranthiścāvidyārāgādveṣabhayamohāḥ ।
+mohaśca viṣādaḥ, śokaḥ ।
+paraṃ hiraṇyagarbhādyavaraṃ yasya tadbrahma tathoktam ।
+tasminbrahmaṇi yaddṛṣṭaṃ darśanaṃ tasmiṃstadarthamiti yāvat ।
+yathā acarmaṇi dvīpinaṃ hanti'iti carmārthamiti gamyate ।
+nāmarūpādityāpyavidyābhiprāyam ।
+kāmā ye asya hṛdi śritā iti ।
+kāmā ityavidyāmupalakṣayati ।।

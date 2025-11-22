@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2873 | label: meter | g:0.306 m:0.5 ---
+
+yugmāndeve tathā pitrye svapradeśeṣu śaktitaḥ ।
+dvau daiva prāgudak pitrye trīṇyekaṃ cobhayoḥ pṛthak ।।

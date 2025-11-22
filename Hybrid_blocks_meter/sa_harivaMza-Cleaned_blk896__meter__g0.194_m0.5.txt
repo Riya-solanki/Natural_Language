@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 896 | label: meter | g:0.194 m:0.5 ---
+
+brahman kṛśo ahaṃ vimanā hṛtarājyo hṛtāśanaḥ 
+hataujā durbalo mūḍho rajiputraiḥ kṛto vibho ।।

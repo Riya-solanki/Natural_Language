@@ -1,0 +1,6 @@
+--- source: ttssarvu-Cleaned.txt | block: 44 | label: meter | g:0.35 m:0.644 ---
+
+yathoktam ।
+ādhyātmikyaścatasraḥ prakṛtyupādānakālabhāgyākhyāḥ ।
+bāhyāḥ viṣayoparamāt pañca nava tuṣṭayobhihitāḥ ।।
+iti

@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 103 | label: grammar | g:0.559 m:0.5 ---
+
+tvām ālikhya praṇayakupitāṃ dhāturāgaiḥ śilāyām ātmānaṃ te caraṇapatitaṃ yāvad icchāmi kartum 
+asrais tāvan muhur upacitair dṛṣṭir ālipyate me krūras tasminn api na sahate saṃgamaṃ nau kṛtāntaḥ ।।

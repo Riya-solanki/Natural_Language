@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 494 | label: grammar | g:0.604 m:0.5 ---
+
+lakṣmīṃ vakṣasi kaustubhastabakini premṇā karoty acyuto dehārdhe vahati tripiḍapagurur gaurīṃ svayaṃ śaṃkaraḥ ।
+śaṅke paṅkajasambhavas tu bhagavān adyāpi bālyāvadhiḥ sarvāṅgapraṇayāṃ priyāṃ kalayituṃ dīrghaṃ tapas tapyate ।।

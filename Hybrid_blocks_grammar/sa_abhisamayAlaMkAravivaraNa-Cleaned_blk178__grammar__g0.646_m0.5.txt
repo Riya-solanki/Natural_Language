@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 178 | label: grammar | g:0.646 m:0.5 ---
+
+lakṣaṇam yo māhāyānikaḥ savikalpo anvabhisamayaḥ svaparakuśalapuṇyakriyāvastu anuttarāyāṃ samyaksambodhau pariṇāmayati, sa pariṇāmanākhyo mahāyānabhāvanāmārga iti lakṣaṇam ।

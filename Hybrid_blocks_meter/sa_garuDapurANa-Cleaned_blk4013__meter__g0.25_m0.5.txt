@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4013 | label: meter | g:0.25 m:0.5 ---
+
+tato rāmo bhaviṣṇuśca caturdhā duṣṭarmadanaḥ ।
+putro daśarathājjajñe rāmaśca bharato anujaḥ ।।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 570 | label: grammar | g:0.565 m:0.375 ---
+
+adaḥ sarveṣām ।।
+adaḥ parasyāpṛktasārvadhātukasya aṭ syātsarvamatena । āttām । ādaḥ । ātta । ādva । adyāt । adyuḥ । adyāstām ।।

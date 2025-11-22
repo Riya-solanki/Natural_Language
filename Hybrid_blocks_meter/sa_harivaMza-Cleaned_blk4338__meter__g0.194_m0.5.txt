@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4338 | label: meter | g:0.194 m:0.5 ---
+
+mitravāhaḥ sunīthaś ca nagnajityāḥ prajāḥ śṛṇu 
+bhadrakāro bhadravindaḥ kanyā bhadravatī tathā ।।

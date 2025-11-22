@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 26 | label: hybrid | g:0.496 m:0.399 ---
+
+yadi hi dharmasvarūpam abhidhīyeta tataḥ kiṃ padena padenocyate iti vicāro yujyate, lākṣaṇike tv ayuktaḥ ।
+tad ucyate ।

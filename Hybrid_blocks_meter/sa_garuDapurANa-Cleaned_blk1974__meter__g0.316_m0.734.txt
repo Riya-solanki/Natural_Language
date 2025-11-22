@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1974 | label: meter | g:0.316 m:0.734 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+parikṣāṃ vacmiratnānāṃ balo nāmāsuro abhavat ।
+indrādyā nirjitāstena vijetuṃ tairna śakyate ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 555 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tenāvrajita-sadeśaḥ śrīmān vraja-maheśaḥ sahasā mahasāvṛtatayā sābhyutthānam utthāya nyāya-paramaḥ, kṛta-tad-abhigamaḥ svam anujam anuraktaḥ pariṣvaktavān pariṣvaktaś cānena na tu kañcit kaścin natavān, jātāv ekasya jyāyastvam anyasya tu jātāv iti । na ca kevalam etad eva kāraṇatām avalambate, api tu paraspara-praṇayātiśayaś ca, yenānyan nānusandhātuṃ śakyate ।

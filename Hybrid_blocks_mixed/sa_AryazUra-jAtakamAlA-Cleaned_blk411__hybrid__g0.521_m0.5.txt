@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 411 | label: hybrid | g:0.521 m:0.5 ---
+
+evaṃ prakāśo nṛpatiprabhāvaḥ kathaṃ nu vaḥ śrotrapathaṃ na yātaḥ ।
+atyadbhutatvādathavā śruto api bhavatsu vipratyayato na rūḍhaḥ ।।

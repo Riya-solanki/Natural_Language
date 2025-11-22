@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1103 | label: meter | g:0.25 m:0.75 ---
+
+rājakanyānuraktaṃ māṃ romodbhedena rakṣakāḥ ।
+avagaccheyurā jñātamaho śītānilaṃ vanam ।।

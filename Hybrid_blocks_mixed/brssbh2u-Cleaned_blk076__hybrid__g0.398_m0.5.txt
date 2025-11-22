@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 76 | label: hybrid | g:0.398 m:0.5 ---
+
+nanvekatvaikāntābhyupagame nānātvābhāvatpratyakṣādīni laukikāni pramāṇāni vyāhanyerannirviṣayatvāt, sthāṇvādiṣviva puruṣādijñānāni ।
+tathā vidhipratiṣedhaśāstramapi bhedāpekṣatvāttadabhāve vyāhanyeta, mokṣaśāstrasyāpi śiṣyaśāsitrādibhedāpekṣatvāttadabhāve vyāghātaḥ syāt ।
+kathaṃ cānṛtena mokṣaśāstreṇa pratipāditasyātmaikatvasya satyatvamupapadyeteti ।

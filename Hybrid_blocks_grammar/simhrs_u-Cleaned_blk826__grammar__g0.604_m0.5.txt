@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 826 | label: grammar | g:0.604 m:0.5 ---
+
+atra kasyāścit svairiṇyā gṛhiṇītva-paricayena pati-daśāṃ prāpte' pi jāre upekṣāpekṣayor abhāva-kathanān mandaḥ snehaḥ ।

@@ -1,0 +1,7 @@
+--- source: mamkavpu-Cleaned.txt | block: 879 | label: meter | g:0.028 m:0.677 ---
+
+{lagnaṃ rāgāvṛtāṅgyetyādi ।।}
+[lagnaṃ rāgāvṛtāṅgyā sudṛḍhamiha yayaivāsiyaṣṭyārikaṇṭhe
+mātaṅgānāmapīhopari parapuruṣairyā ca dṛṣṭā patantī ।
+tatsakto ayaṃ na kiñcidgaṇayati viditaṃ testu tenāsmi dattā
+bhṛtyebhyaḥ śrīniyogādgaditumiva gatetyambudhiṃ yasya kīrtiḥ ।।]

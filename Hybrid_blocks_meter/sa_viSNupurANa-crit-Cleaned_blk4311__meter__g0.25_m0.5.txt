@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4311 | label: meter | g:0.25 m:0.5 ---
+
+tathāpi yaj jagatsvāmī daṇḍaṃ pātitavān mayi 
+sa soḍho ayaṃ varaṃ daṇḍas tvatto nānyatra me varaḥ ।।

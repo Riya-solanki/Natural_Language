@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2189 | label: meter | g:0.194 m:0.5 ---
+
+svapnarūpeṇa teṣāṃ vai viṣṇur dehān athāviśat 
+prāṇeśvarāṃś ca niṣkṛṣya nidrāyai pradadau tadā ।।

@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 121 | label: meter | g:0.0 m:1.0 ---
+
+saṃsāravāridheḥ santaḥ paraṃ pāraṃ titīrṣavaḥ
+candramauleḥ śrayantūccair bhāvapūjātaraṇḍakam

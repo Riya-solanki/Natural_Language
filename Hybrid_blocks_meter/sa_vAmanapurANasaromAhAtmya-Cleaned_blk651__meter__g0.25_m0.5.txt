@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 651 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ sa kathayāmāsa ṛṣīṇāṃ bhāvitātmanām ।
+te abruvan ṛṣayo vipraṃ prayāhyaiśanasaṃ pratiḥ ।।

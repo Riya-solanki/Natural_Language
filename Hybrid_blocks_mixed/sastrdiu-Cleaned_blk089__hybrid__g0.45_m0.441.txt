@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 89 | label: hybrid | g:0.45 m:0.441 ---
+
+evañca yāgakartavyatāniṣedhārthamidaṃ bhāṣyamaṅgīkṛtyayat tatsamādhānāya prayatyate kartavyatāviṣayo hi niyogo na punastasya kartavyatāmāheti tadapārthakam ।
+kāmyeṣvapi vidhireva pravartako na phalaṃ, tasya vidhyadhīnotpattikatvena yāgāpekṣābhāvāt ।
+vidhistu yāgādhīnaniṣpattitvādyāgamanuṣṭhāṃpayatīti yuktam ।।

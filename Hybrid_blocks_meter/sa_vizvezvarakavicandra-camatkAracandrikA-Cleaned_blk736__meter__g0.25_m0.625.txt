@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 736 | label: meter | g:0.25 m:0.625 ---
+
+dṛṣṭāntaḥ proktasiddhayai yaḥ siddher'the sā nidarśanā ।
+pūrvottarasamatvena tridheyaṃ manyate budhaiḥ ।।

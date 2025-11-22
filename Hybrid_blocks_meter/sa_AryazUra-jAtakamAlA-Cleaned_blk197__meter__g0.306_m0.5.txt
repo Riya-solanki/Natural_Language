@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 197 | label: meter | g:0.306 m:0.5 ---
+
+ananyathā cāstu vacastavedaṃ svargaṃ ca me yācanakā vrajantu ।
+dānaṃ hi me lokahitārthamiṣṭaṃ nedaṃ svasaukhyodayasādhanāya ।।

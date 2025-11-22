@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 909 | label: meter | g:0.306 m:0.5 ---
+
+paṭukaṭukoṣmabhiḥ kaṭakadhāturasasya gireḥ kuharakaṭāhakeṣu ravidhāmabhir utkvathataḥ ।
+uparibharād ivotsalitayā chaṭayā gaganaṃ pratinavasaṃdhyayā sapadi saṃvalitaṃ śuśubhe ।।

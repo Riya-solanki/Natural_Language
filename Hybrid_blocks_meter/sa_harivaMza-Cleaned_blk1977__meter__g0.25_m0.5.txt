@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1977 | label: meter | g:0.25 m:0.5 ---
+
+kṣiptābhiḥ pavanenādbhiḥ spṛṣṭo yady asi parvaṇi 
+atra me bhagavan kiṃ nu vidyate śāpakāraṇam ।।

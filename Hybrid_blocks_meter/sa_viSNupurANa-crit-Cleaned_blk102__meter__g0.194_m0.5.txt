@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 102 | label: meter | g:0.194 m:0.5 ---
+
+sa eva kṣobhako brahman kṣobhyaś ca puruṣottamaḥ 
+sa saṃkocavikāsābhyāṃ pradhānatve api ca sthitaḥ ।।

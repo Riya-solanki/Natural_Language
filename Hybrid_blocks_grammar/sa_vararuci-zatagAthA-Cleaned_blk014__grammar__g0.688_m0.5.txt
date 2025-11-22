@@ -1,0 +1,3 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 14 | label: grammar | g:0.688 m:0.5 ---
+
+udayantvamūni subahūni mahāmahāṃsi cando cando apyalaṃ bhuvanamaṇḍalamaṇḍanāya । sūryādūte na tadudeti na cāstameti yenoditena dinamastamitena rātriḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 4 | label: hybrid | g:0.382 m:0.478 ---
+
+praṇamya paramaṃ jyotirvāmanena kavipriyā ।
+kāvyālaṅkārasūtrāṇāṃ teṣāṃ vṛttirvidhīyate ।।
+kāvyaṃ grāhyamalaṅkārāt ।।
+kāvyaṃ khalu grāhyamupādeyaṃ bhavati, alaṅkārāt । kāvyaśabdo'yaṃ guṇālaṅkārasaṃskṛtayoḥ śabdārthayorvartate । bhaktyā tu śabdārthamātravacano'tra gṛhyate ।।

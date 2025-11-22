@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1059 | label: meter | g:0.306 m:0.5 ---
+
+dṛṣṭvā yamo abravīd vākyaṃ śvayoniṃ vaa mā ciram ।
+tadvākyānantaraṃ jātaḥ śva vai saugandhike vane ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 158 | label: hybrid | g:0.476 m:0.5 ---
+
+atikrānta yā tathata yā tathatā aprāptā pratyutpanna yā tathata yā tathatārhatānām 
+yā sarvadharmatathatā tathatārhatānāṃ sarveṣa dharmatathatā na viśeṣaprāptā ।।

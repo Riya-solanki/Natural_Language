@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 428 | label: hybrid | g:0.466 m:0.522 ---
+
+saṃyogasyedānīṃ kathaṃ saṃyogiṣu vṛttiḥ kiṃ jātivat kiṃvāvayavivat ।
+ubhayavilakṣaṇeti brūmaḥ ।
+sa hi saṃyogyantaramapekṣya saṃyogyantare vartate nānapekṣyeti na jātitulyatvam ।
+ekatraiva ca svānurūpāṃ janayati buddhim idamanena saṃyuktamidamanena iti, tenāvayavināpi nātīva tulyatvamityubhayavailakṣaṇyam ।।

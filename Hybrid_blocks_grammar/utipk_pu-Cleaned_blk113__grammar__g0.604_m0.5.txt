@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 113 | label: grammar | g:0.604 m:0.5 ---
+
+prakāśād dvitīyasya bhinnasya pratiyogino aprakāśasaṃjñasyānavabhāsane prakāśetaratvaṃ na syāt । tasyānābhāse vyapohanāyogād vikalpatāhāniḥ ।।

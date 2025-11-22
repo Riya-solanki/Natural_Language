@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1204 | label: meter | g:0.194 m:0.5 ---
+
+uttarasya tu mārgasya yac chatuṣkaṃ susūkṣmagam 
+kṣobhitaṃ tena cātmānaṃ punaḥ ṣoḍaśadhā kṛtam ।।

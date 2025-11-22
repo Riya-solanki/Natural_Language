@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 694 | label: meter | g:0.259 m:0.914 ---
+
+sṛṣṭisaṃhārayogena meḍhram-ādhāramadhyagam 
+evaṃ mudrā samākhyātā vāṅmanaḥkāyakarmabhiḥ ।।

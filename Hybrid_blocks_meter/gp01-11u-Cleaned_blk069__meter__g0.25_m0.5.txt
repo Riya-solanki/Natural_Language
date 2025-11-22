@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 69 | label: meter | g:0.25 m:0.5 ---
+
+[] kiṃ ca, yatra ca tat-kaiśorānurūpārdha-vārdhaka-yauvana-nava-yauvanādi-vayasa
+eva tat-pitṛ-bhrātṛ-sakhi-prabhṛtayas te nikhila-vargā nānyām avasthām āśritā bhavanti ।

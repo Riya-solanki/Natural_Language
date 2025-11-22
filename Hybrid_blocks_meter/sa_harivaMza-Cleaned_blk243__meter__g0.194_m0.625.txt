@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 243 | label: meter | g:0.194 m:0.625 ---
+
+sā lokān brahmalokādīn gatvā vainyabhayāt tadā 
+pradadarśāgrato vainyaṃ pragṛhītaśarāsanam ।।

@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 239 | label: grammar | g:0.646 m:0.5 ---
+
+samāne api tu śabdatve dṛṣṭaḥ saṃpratyayaḥ padāt prativarṇaṃ tv asau nāsti padasyārtham ato viduḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6537 | label: hybrid | g:0.51 m:0.5 ---
+
+na dātā sukhaduḥ khānāṃ na ca hartāsti kaścana ।
+bhuñjate svakṛtānyeva duḥ khāni ca sukhāni ca ।।

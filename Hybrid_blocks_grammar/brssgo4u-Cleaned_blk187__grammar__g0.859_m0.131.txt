@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 187 | label: grammar | g:0.859 m:0.131 ---
+
+asya eva ca sūkṣmasyā śarīrasya eṣa ūṣmā yam etasmin śarīre saṃsparśena ūṣmāṇaṃ vijānanti ।
+tathā hi mṛtāvasthāyām avasthite api dehe vidyamāneṣu api ca rūpādiṣu dehaguṇeṣu na ūṣma upalabhyate jīvat avasthāyām eva tu upalabhyata iti ata dehaguṇeṣu na ūṣma upalabhyate jīvat avasthāyām eva tu upalabhyata iti ata upapadyate prasiddhaśarīravyatiriktavyapāśraya eva eṣa ūṣma iti ।
+tathā ca śrutiḥ - auṣṇa eva jīviṣyañśito mariṣyan iti' ।।

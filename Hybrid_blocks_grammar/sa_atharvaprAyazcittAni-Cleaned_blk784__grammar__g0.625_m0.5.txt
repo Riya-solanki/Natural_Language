@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 784 | label: grammar | g:0.625 m:0.5 ---
+
+yan mārttikaṃ bhidyeta tadāpo gamayet tathaiva dārumayaṃ ya ṛte cid abhiśriṣaḥ ity etayālabhyābhimantrayate ।

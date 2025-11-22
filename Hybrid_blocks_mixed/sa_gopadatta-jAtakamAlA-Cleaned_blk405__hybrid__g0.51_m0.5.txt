@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 405 | label: hybrid | g:0.51 m:0.5 ---
+
+mātur hitāyaiva sadodyatāyāḥ prollaṅghya vākyaṃ mama duṣkṛtasya ।
+puṣpaṃ yad īdṛg bharapāpadāruṇaṃ prāntaṃ gamiṣyāmi kadā phalasya ।।

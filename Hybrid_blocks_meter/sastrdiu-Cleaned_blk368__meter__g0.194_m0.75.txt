@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 368 | label: meter | g:0.194 m:0.75 ---
+
+bhedābhedāvabhāso api dvedhā bhavati ।
+kvacidbhedo dharmiviṣayo yathā śābaleyādiṣvayaṃ gaurayaṃ

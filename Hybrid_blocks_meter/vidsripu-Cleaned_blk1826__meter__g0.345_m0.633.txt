@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1826 | label: meter | g:0.345 m:0.633 ---
+
+paramādbhutarasadhāmany utsalite jagati vallanāmbhodhau ।
+viśrānto rasabhāgastimitayati yathā gabhīrimā ko api ।।
+vallaṇasya

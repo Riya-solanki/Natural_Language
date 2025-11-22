@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3678 | label: meter | g:0.194 m:1.0 ---
+
+tathaiva vanaveṣeṇa sopasṛpto janārdanam 
+pratyagravanamālena vakṣasābhivirājatā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 505 | label: meter | g:0.25 m:0.625 ---
+
+tato gaccheta viprendrā brahmaṇaḥ sthanamuttamam ।
+brahmodumbaramityevaṃ sarvalokeṣu piśrutam ।।

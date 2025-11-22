@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2377 | label: grammar | g:0.625 m:0.5 ---
+
+karmamudrāṃ tu badhvā vai yadāviśya paramparaṃ । hastau bandhe tu samayānnidhintatra vinirdeśed ।। ।।

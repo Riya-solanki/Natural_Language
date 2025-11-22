@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3353 | label: meter | g:0.381 m:0.774 ---
+
+śaṅkhacakragadāpāṇirmādhavaḥ puruṣottamaḥ ।
+taṃ prapadyasva śaraṇaṃ sa te śreyo vidhāsyati ।।

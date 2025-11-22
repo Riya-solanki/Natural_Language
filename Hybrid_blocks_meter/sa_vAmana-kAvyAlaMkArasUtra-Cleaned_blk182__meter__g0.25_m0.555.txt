@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 182 | label: meter | g:0.25 m:0.555 ---
+
+bandhe pṛthakpadatvaṃ ca mādhuryamuditaṃ budhaiḥ ।
+anena hi padantyāsāḥ kāmaṃ dhārāmadhucyutāḥ ।
+tathaiva vāgapi prājñaiḥ samastaguṇagumphitā ।।

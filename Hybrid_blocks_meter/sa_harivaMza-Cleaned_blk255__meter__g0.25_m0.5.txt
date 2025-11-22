@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 255 | label: meter | g:0.25 m:0.5 ---
+
+sā tvaṃ śāsanam āsthāya mama dharmabhṛtāṃ vare 
+saṃjīvaya prajāḥ sarvāḥ samarthā hy asi dhāraṇe ।।

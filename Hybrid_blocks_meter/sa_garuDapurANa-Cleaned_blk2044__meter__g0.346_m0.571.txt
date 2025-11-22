@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2044 | label: meter | g:0.346 m:0.571 ---
+
+mūlyaṃ na vā syāditi niścayo me kṛtsnā mahī tasya muvarṇapūrṇā ।
+hīno apiyastallabhate kadācidvipākayogānmahataḥ śubhasya ।।

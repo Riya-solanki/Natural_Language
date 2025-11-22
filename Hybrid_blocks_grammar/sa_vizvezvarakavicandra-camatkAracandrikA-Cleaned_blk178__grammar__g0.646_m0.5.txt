@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 178 | label: grammar | g:0.646 m:0.5 ---
+
+atra karṇādīnāmabhyarhitatvāt pañcānāmagrajaṃ trayāṇāmagrajaṃ dvayohagrajamekasyāgrajamiti vaktavye api saṃkhyāpacayasūcitāpraśastipratītiparihārāya saṃkhyopacayatvāropeṇo ttarottarābhivṛddhidyotanādapakrape api kramādatisundara iti guṇatvam ।

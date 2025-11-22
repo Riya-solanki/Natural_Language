@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 16 | label: meter | g:0.25 m:0.555 ---
+
+yaś caināṃ dhārayet tāta śṛṇuyād vāpy abhīkṣṇaśaḥ 
+yaś caināṃ dhārayed vipraḥ śrāvayed vā mahātmanām । 
+svavaṃśadhāraṇaṃ kṛtvā svargaloke mahīyate ।।

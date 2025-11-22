@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1568 | label: meter | g:0.25 m:0.625 ---
+
+vārabāṇāvṛtamidaṃ gātraṃ me nātivikṣatam ।
+prapātaniṣpeṣakṛtāḥ sahyā eva ca me rujaḥ ।।

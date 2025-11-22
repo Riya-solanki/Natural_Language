@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 40 | label: hybrid | g:0.431 m:0.289 ---
+
+iti saṃpratyapi tāmevaṃvidhāṃ vīkṣituṃ pravṛttasya mama manaḥ kimiti baddhotkaṇṭhamiti parasamāpte api tathāvidho vastu vinyāso vihitaḥ"athavā premāsamāptotsavam" iti,yena pūrveṣāṃ jīvitamivārpitam ।
+yadyapi dvayorapyetayostatprādhānyenaiva vākyārthopanibandhaḥ, tathāpi kavipratibhāprauḍhireva prādhānyenāvitaṣṭhate ।
+śabdasyāpi śabdāntareṇa sāhityavirahodāharaṇaṃ yathā

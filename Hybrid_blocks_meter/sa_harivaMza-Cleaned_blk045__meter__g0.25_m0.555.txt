@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 45 | label: meter | g:0.25 m:0.555 ---
+
+kāmyā nāma mahābāho kardamasya prajāpateḥ 
+sutā sutapasā yuktā mahatī lokadhāriṇī । 
+kāmyāputrāś ca catvāraḥ samrāṭ kukṣir virāṭ prabhuḥ ।। 
+priyavrataṃ samāsādya patiṃ sājanayat sutān । 
+uttānapādaṃ jagrāha putram atriḥ prajāpatiḥ 
+uttānapādāc caturaḥ sūnṛtā suṣuve sutān ।।

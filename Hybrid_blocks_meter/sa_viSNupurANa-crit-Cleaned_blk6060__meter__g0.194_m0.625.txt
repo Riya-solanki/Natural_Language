@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6060 | label: meter | g:0.194 m:0.625 ---
+
+brāhmo naimittikas teṣāṃ kalpānte pratisaṃcaraḥ 
+ātyantikaś ca mokṣākhyaḥ prākṛto dviparārdhikaḥ ।।

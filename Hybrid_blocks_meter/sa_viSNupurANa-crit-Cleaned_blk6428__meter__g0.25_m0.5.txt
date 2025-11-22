@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6428 | label: meter | g:0.25 m:0.5 ---
+
+tubhyaṃ yathāvan maitreya proktaṃ śuśrūṣave avyayam 
+yad anyad api vaktavyaṃ tat pṛcchādya vadāmi te ।।

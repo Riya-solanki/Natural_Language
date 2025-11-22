@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 122 | label: meter | g:0.306 m:0.5 ---
+
+tad evaṃ vyavahāre api prabhur dehādim āviśan ।
+bhāntam evānta arthaugham icchayā bhāsayed bahiḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3689 | label: grammar | g:0.667 m:0.5 ---
+
+avajitārātipakṣaś cendro rajicaraṇayugalam ātmaśirasā nipīḍyāha । bhayatrāṇadānād asmatpitā bavān aśeṣalokānām uttamo bhavān yasyāhaṃ putras trilokendraḥ ।।

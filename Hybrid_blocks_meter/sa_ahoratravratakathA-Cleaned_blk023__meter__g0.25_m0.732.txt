@@ -1,0 +1,5 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 23 | label: meter | g:0.25 m:0.732 ---
+
+dharmadhātumayaṃ caityaṃ jinānāṃ gṛham uttamam ।
+anādibuddha-m-ākhyātaṃ sarvatathāgatālayam ।
+sarvadevālayaṃ caityam ārādhya vratam ācaret ।।

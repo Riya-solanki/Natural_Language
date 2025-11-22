@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 679 | label: hybrid | g:0.521 m:0.5 ---
+
+parā manīṣā mama rakṣituṃ prajā gatāśca tāḥ samprati dakṣiṇīyatām ।
+idaṃ ca yajñāya dhanaṃ pratarkitaṃ yiyakṣurasmīti yathāpratarkitam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5679 | label: meter | g:0.25 m:0.5 ---
+
+kṛṣṇo api kupitas teṣām erakāmuṣṭim ādade 
+vadhāya so api musalaṃ muṣṭir loham abhūt tadā ।।

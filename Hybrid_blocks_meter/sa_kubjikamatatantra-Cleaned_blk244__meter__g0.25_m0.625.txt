@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 244 | label: meter | g:0.25 m:0.625 ---
+
+martyalokaṃ samāsādya kiñcijjñā guravo yadi 
+tadā jñānasya kā rakṣā jñānacauraṃ haranti tāḥ ।।

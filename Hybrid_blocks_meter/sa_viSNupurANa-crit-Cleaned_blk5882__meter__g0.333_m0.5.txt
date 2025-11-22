@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5882 | label: meter | g:0.333 m:0.5 ---
+
+yac chrotavyaṃ ca yad dṛśyaṃ yac ca bhoktavyam ity uta ।। @

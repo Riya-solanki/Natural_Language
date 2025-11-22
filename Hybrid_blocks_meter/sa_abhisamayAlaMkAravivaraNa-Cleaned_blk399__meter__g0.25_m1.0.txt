@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 399 | label: meter | g:0.25 m:1.0 ---
+
+viṣayo asya prayogaśca śātravāṇāmatikramaḥ ।
+apratiṣṭho yathāvedhasādhāraṇalakṣaṇaḥ ।।

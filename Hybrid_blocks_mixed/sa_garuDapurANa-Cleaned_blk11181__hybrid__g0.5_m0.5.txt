@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11181 | label: hybrid | g:0.5 m:0.5 ---
+
+sadbhāryāḥ satputrakā durlabhā hi śeṣācalasthasya hareśca darśanam ।
+sudurlabhaṃ raṅganāthasya tīre kāveryā vai darśanaṃ viṣṇupadyāḥ ।।

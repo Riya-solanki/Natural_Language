@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4736 | label: meter | g:0.194 m:0.625 ---
+
+ko nu svapnaḥ sabhāgyābhir dṛṣṭas tābhir adhokṣajam 
+vistārikāntinayanā yā drakṣyanty anivāritam ।।

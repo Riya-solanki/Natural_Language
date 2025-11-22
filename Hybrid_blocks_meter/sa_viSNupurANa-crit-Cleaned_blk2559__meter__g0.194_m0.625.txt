@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2559 | label: meter | g:0.194 m:0.625 ---
+
+ṛṣir yo adya mahāmerau samājenāgamiṣyati 
+tasya vai saptarātrāt tu brahmahatyā bhaviṣyati ।।

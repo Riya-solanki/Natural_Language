@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 352 | label: hybrid | g:0.415 m:0.413 ---
+
+atha artha-vyaktiḥ-
+śrūyamāṇasya vākyasya vinā śabdāntara-spṛhām । 
+arthāvagamakatvaṃ yad artha-vyaktir iyaṃ matā ।। athā utphulla-gaṇḍa-yugam ity atra sarveṣāṃ padānām adhyāhāraya-pada-nirākāṅkṣatayā artha-vyaktiḥ ।

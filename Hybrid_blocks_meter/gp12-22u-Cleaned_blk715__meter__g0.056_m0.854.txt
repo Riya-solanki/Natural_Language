@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 715 | label: meter | g:0.056 m:0.854 ---
+
+sṛṣṭeṣv adrer anna-kūṭeṣv analpaḥ
+kṛṣṇākāraḥ kaścid āvirbabhūva ।
+alpīyastvaṃ kevalaṃ bheda-buddher
+yasmāt kṛṣṇe kāraṇatvaṃ jagāma ।। [śālinī]

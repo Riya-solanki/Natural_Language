@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 459 | label: meter | g:0.144 m:0.55 ---
+
+sarvās tāḥ kalakalam eva moda-yuktāḥ
+kurvatyaḥ param avidur na tatra kṛtyam ।
+ekā tu drutam atha suṣṭhu-dhīra-cittā
+taṃ kampre kara-yugale dadhaty apaśyat ।।
+[] tataś ca pum-apatya-cihnam ahnāyāvagatya tāsāṃ pratyekam api samīhitam । yathā -

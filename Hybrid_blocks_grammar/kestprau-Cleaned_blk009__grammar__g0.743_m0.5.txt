@@ -1,0 +1,5 @@
+--- source: kestprau-Cleaned.txt | block: 9 | label: grammar | g:0.743 m:0.5 ---
+
+atra vadāmaḥ caitanyasya jagadupādānatve jagato jaḍatvānupapattiḥ yat kāryaṃ taccetanakartṛkamiti vyāptyā śarīrī kartā syāt kiṃ ca tathāpi jñānasya caitanyaviśiṣṭasya kṣityādijanakatve mānābhāvaḥ kulālādijñānecchayoḥ kṛtijanakatvenaivānyathāsiddhatvāt īśvarakṛteśca janyatvāt ।
+atha yaḥ kṛtimān sa jñānavāniti vyāptyā tatsiddhiḥ evaṃ hi yo jñānavān sa sukhītyādivyāptyā sukhamapīśvare syāt aprayojakatvaṃ cet tulyaṃ tavāpi ।
+karmaiva jagatkāraṇamityapi ye pratipannāste tāvannatyantaṃ pārihartavyāḥ dharmādharmātmakārthānarthalakṣaṇacodanālakṣaṇasya prakṛtyabhedāt buddhyākārapariṇatāyā eva prakṛteraṣṭau bhāvā ityabhyupagamāt ।

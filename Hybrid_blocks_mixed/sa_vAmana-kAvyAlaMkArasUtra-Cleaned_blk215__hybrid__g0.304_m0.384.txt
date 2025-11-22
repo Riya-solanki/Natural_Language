@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 215 | label: hybrid | g:0.304 m:0.384 ---
+
+pūrvasya ślokasyārtho'yoniḥ । dvitīyasya ca chāyāyoniriti ।।
+artho vyaktaḥ sūkṣmaśca ।।
+yasyārthasya darśanaṃ samādhiriti, sa dvedhā vyaktaḥ sūkṣmaśca । vyaktaḥ sphuṭa udāhṛta eva ।।

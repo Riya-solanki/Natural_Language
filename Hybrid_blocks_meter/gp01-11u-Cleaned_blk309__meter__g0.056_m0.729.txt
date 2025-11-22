@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 309 | label: meter | g:0.056 m:0.729 ---
+
+prahāpitaṃ pratiśiśu mātṛbhis tadā
+subhojanaṃ surabhita-yojanaṃ mudā ।
+hariḥ sakhīn pari pariveṣayan hasan
+parīkṣitaṃ sakṛd akṛta svajihvayā ।। [rucirā]

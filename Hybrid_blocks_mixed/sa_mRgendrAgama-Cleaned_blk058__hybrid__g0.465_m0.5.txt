@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 58 | label: hybrid | g:0.465 m:0.5 ---
+
+yatkaivalyaṃ puṃsprakṛtyor vivekād yo vā sarvaṃ brahma matvā virāmaḥ 
+yā vā kāścinmuktayaḥ pāśajanyās tāstāḥ sarvā bhedamāyānti sṛṣṭau ।।

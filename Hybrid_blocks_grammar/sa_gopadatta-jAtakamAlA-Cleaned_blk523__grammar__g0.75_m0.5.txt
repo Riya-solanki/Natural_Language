@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 523 | label: grammar | g:0.75 m:0.5 ---
+
+śrāvastyāṃ nando nāma sārthavāḥ prativasati sma । tasya janmāntare pātrātiśayapratipāditatvāt taddānabījasyāparimāṇo bhogaskandhaḥ prādur babhūva । mātsaryābhyāsāt tu notsahate sma kiṃ cid api kasmai cit pradātum ।

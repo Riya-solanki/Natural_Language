@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 496 | label: meter | g:0.25 m:0.811 ---
+
+ruddassa taiaṇaaṇaṃ pavvaiparicumbiaṃ jaai ।।
+rudrasya tṛtīyanayanaṃ pārvatīparicumbitaṃ jayati ।।
+iti chāyā ।

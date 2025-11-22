@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 178 | label: hybrid | g:0.514 m:0.449 ---
+
+ucyate- jñānasvarasādeva viṣayasya tathātvamadhyavasīyate, tadanyathātvaṃ tu kāraṇadoṣajñānādarthānyathātvajñānādvāvagandavyam ।
+ato yatra prayatnenānviṣyamāṇo api kāraṇadoṣo bādhakajñānaṃ vā nopalabhyate tatpramāṇam, itaraccāpramāṇam ।
+codanārthajñānasya

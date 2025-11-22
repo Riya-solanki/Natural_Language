@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2390 | label: meter | g:0.25 m:0.5 ---
+
+ṣaḍ ete manavo atītāḥ sāmprataṃ tu raveḥ sutaḥ 
+vaivasvato ayaṃ yasyaitat saptamaṃ vartate antaram ।।

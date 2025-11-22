@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 28 | label: meter | g:0.028 m:0.537 ---
+
+kiṃ ca,
+tasmin śrī-hari-rādhayor yugalitaṃ yad bhāti kuṇda-dvayaṃ
+saṃsaṅgena parasparaṃ parimalān manye tayos tan-miṣam ।
+premāsīt prakaṭaṃ yataḥ śvasanakaiḥ kampānvitaṃ jādya-yug
+bhaktārdra-sthiti-kṛc ca tad ghana-rasākāraṃ darīdṛśyate ।। [śārdūla]

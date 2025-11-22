@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3013 | label: meter | g:0.194 m:0.625 ---
+
+kṣāntam eva tadānena vasudevena dhīmatā 
+kālasaṃpakvavijñāno brūhi tvaṃ yad yad icchasi ।।

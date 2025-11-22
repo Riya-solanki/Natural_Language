@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8861 | label: meter | g:0.25 m:0.75 ---
+
+sā tena bhāvayogena puttrāstatkarmakāriṇaḥ ।
+pitṛrūpaṃ samādāya kasyacijjāyate sutaḥ ।।

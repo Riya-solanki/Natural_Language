@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3231 | label: meter | g:0.25 m:0.5 ---
+
+etadarthaṃ hi kurvanti rājāno dhanasañcayam ।
+rakṣayitvā tu cātmānaṃ yaddhanaṃ taddvijātaye ।।

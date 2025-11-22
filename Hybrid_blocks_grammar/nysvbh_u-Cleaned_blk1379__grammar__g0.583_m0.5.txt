@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1379 | label: grammar | g:0.583 m:0.5 ---
+
+sarveṣu sādharmyaprabhatiṣu pratiṣedhahetuṣu yatra yatrāviśeṣo dṛśyate tatrobhayoḥ pakṣayoḥ samaḥ prasajyate iti ।।

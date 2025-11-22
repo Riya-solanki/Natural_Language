@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2651 | label: meter | g:0.26 m:0.5 ---
+
+varṣaśatam apīha dharmyamānaṃ vrajati na kāñcanatāmayaḥ kadācit 
+bhagavati vimukhasya nāsti siddhir viṣam amṛtaṃ bhavatīti naitad asti ।।

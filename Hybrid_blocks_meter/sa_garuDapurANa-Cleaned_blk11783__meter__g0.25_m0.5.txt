@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11783 | label: meter | g:0.25 m:0.5 ---
+
+yadāhīśo vipulāmuddharecca tadā rāmaḥ śrībhidāsaṃgame ca ।
+karoti toṣatsarvadā vai ramāyāstasyāpyāveśo vyaṃstritamonasaṃgam ।।

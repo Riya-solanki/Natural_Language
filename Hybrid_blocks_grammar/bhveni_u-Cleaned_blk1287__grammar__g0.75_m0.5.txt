@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 1287 | label: grammar | g:0.75 m:0.5 ---
+
+SktCh hā bhagavanto lokapālāḥ paritrāyadhvaṃ paritrāyadhvam । eṣa khalu somavaṃśarājarṣī rājasūyasaṃtarpitahavyavāhaḥ khāṇḍavasaṃtarpitahutavahasya kirīṭino jyeṣṭho bhrātā sugṛhītanāmadheyo mahārājayudhiṣṭhiraḥ । eṣāpi pāñcālarājatanayā devī yajñavedimadhyasaṃbhavā yājñasenī । dvāvapi niṣkaruṇajvalanasya praveśenendhanībhavataḥ । tatparitrāyadhvamāryāḥ paritrāyadhvam । kathaṃ na ko api paritrāyate । kiṃ vyavasitaṃ devyā devena ca ।

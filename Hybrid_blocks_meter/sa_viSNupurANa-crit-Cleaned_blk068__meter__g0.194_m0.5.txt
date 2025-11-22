@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 68 | label: meter | g:0.194 m:0.5 ---
+
+viṣṇoḥ sakāśād udbhūtaṃ jagat tatraiva ca sthitam 
+sthitisaṃyamakartāsau jagato asya jagac ca saḥ ।।

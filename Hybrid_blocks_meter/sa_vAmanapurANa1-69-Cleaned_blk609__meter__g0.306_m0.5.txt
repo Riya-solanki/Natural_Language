@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 609 | label: meter | g:0.306 m:0.5 ---
+
+samājaghānātha hutāśanaṃ hi varayudhenātha varāṅgamadhye ।
+samāhato agniḥ parimucya śambaraṃ tathāndhakaṃ sa tvarito abhyadhāvat ।।

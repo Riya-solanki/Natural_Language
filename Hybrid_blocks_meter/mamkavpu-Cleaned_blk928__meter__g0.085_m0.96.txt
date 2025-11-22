@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 928 | label: meter | g:0.085 m:0.96 ---
+
+{nirvāṇavairadahanāḥ praśamādarīṇāṃ
+nandantu pāṇḍutanayā saha mādhavena ।
+raktaprasādhitabhuvaḥ kṣatavigrahāśca
+svasthā bhavantu kururājasutāḥ sabhṛtyāḥ ।।}

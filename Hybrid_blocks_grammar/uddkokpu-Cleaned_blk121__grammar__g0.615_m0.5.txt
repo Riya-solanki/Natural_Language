@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 121 | label: grammar | g:0.615 m:0.5 ---
+
+bhūṣāsvāsthāṃ yadapi jahatī tāṃ vahatyeva kāñcīṃ grāhaṃ grāhaṃ pṛthu pṛthu mayā mauktikaṃ gumbhitā yā ।
+śroṇībimbe sumahati tayā bhūṣite komalāṅgyāḥ sālāvītāṃ sa kila madano manyate rājadhānīm ।।

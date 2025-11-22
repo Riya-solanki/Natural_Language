@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2520 | label: meter | g:0.25 m:0.625 ---
+
+sauvarṇamanyaratnaṃ vā vajraratnaṃ tvanuttaraṃ ।
+sthāpya bhūyo lalāṭe tu bhavedrājā mahādhanaḥ ।।

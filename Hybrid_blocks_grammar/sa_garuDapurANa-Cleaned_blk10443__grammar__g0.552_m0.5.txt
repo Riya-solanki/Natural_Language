@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10443 | label: grammar | g:0.552 m:0.5 ---
+
+tenāparokṣaṃ ca bhavecca tasya ato guṇānāṃ stavane ca me ratiḥ ।
+sā tu prajātā puruṣasya nityaṃ saṃsāraduḥ khaṃ tu tadācchinatti ।।

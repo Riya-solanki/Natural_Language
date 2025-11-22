@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3432 | label: grammar | g:0.604 m:0.5 ---
+
+sa cāpi tatsparśopacīyamānaharṣaprakarṣo bahuprakāraṃ tasya ṛṣeḥ paśyatas tair ātmajapautradauhitrādibhiḥ sahānudinaṃ bahuprakāraṃ reme ।।

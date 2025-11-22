@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1457 | label: meter | g:0.306 m:0.5 ---
+
+vaiśvadevastu kartavyo devayajñaḥ sa tu smṛtaḥ ।
+bhūtayajñaḥṛ sa vai jñeyo bhūtebhyo yastvayaṃ baliḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 248 | label: grammar | g:0.667 m:0.5 ---
+
+tato bhūmau gajapramāṇāṃ gartāṃ kṛtvā tatra saindhavasampuṭaṃ muktvopary aṣṭāṅgulimānāṃ dhūliṃ dattvā chagaṇacūrṇena gartaṃ pūrayitvāgnir jvālanīyaḥ ।।

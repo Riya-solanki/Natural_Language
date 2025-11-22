@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 536 | label: meter | g:0.255 m:0.832 ---
+
+atha dainyam-
+hṛt-tāpa-durgatatvādyair anauddhatyaṃ hi dīnatā । 
+tatrānubhāvā mālinya-gātra-stambhādayo matāḥ ।।

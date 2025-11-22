@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2285 | label: hybrid | g:0.51 m:0.5 ---
+
+bhāvena poplūyati bālavat sa bhujau prasāryaiva nanartta vegāt ।
+tasyaiva vegena samāhatā tu cacāla bhūrbhūmidharaiḥ sahaiva ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1293 | label: meter | g:0.194 m:0.5 ---
+
+āścaryaṃ paramaṃ viṣṇur devair daityaiś ca kathyate 
+viṣṇor utpattim āścaryaṃ mamācakṣva mahāmune ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 608 | label: hybrid | g:0.521 m:0.5 ---
+
+vāruṇaṃ yavamayaṃ caruṃ nirvaped ita eva prathamam iti ।

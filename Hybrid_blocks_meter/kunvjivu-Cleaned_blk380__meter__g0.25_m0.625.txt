@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 380 | label: meter | g:0.25 m:0.625 ---
+
+saṃbandhī raghubhūbhujāṃ manasijavyāpāradīkṣāgurur gaurāṅgīvadanopamāparicitastārāvadhūvallabhaḥ ।
+sadyomārjitadākṣiṇātyataruṇīdantāvadātadyuti- ścandraḥ sundari dṛśyatāmayamasau caṇḍī śacūḍāmaṇiḥ ।।

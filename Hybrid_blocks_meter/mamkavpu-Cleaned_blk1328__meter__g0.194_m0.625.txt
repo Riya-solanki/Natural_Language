@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1328 | label: meter | g:0.194 m:0.625 ---
+
+{unnataṃ padamavāpya yo laghuhelayaiva patediti bruvan ।
+śailaśekharagato dṛṣatkaṇaścārumārutadhutaḥ patatyadhaḥ ।।}

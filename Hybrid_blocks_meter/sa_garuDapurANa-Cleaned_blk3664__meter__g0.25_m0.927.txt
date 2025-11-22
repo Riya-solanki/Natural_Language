@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3664 | label: meter | g:0.25 m:0.927 ---
+
+pratipadyekabhaktāśī samāpte kapilāpradaḥ ।
+caitrādau kārayeccaiva brahmapūjāṃ yathāvidhi ।
+gandhapuṣpārcanairdānairmālyādyaiśca manoramaiḥ ।।

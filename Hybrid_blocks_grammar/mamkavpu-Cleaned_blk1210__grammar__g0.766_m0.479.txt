@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1210 | label: grammar | g:0.766 m:0.479 ---
+
+svādhīnapatikā kāntaṃ bhajamānā yathāṃ lokottaracamatkārabhūḥ tathā jayaśrīstvadāsevanenetyādinā pratīyamānena vinā yadyapi noktervaicitryam । vaicitryaṃ cālaṅkāraḥ । tathāpi na dhvaniguṇībhūtavyaṅgyavyavahāraḥ । na khalu vyaṅgyasaṃsparśaparāmarśādatra cārutāpratītiḥ । api tu vācya vaicityapratibhāsādeva ।।
+rasādistu vyaṅgyor'rthālaṅkārāntaraṃ ca sarvatrāvyabhicārītyagaṇayitvaiva tadalaṅkārā udāhṛtāḥ । tadrahitatvena tu udāhriyamāṇā virasatāmāvahantīti pūrvāparaciruddhābhidhānamiti na codanīyam ।।

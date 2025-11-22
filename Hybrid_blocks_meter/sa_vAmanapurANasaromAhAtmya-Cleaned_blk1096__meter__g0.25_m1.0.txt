@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1096 | label: meter | g:0.25 m:1.0 ---
+
+namaścitrorughaṇṭāya ghaṇṭāghaṇṭanighaṇṭine ।
+sahasraśataghaṇṭāya ghaṇṭāmālavibhūṣiṇe ।।

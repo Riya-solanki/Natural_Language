@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 365 | label: meter | g:0.259 m:0.914 ---
+
+yojanāyutaviṣkambhas tuṅgaśṛṅgaparicchadaḥ 
+tasya śṛṅgeṣu tīkṣṇāṃśor bhāsaścandrātapopamāḥ ।।

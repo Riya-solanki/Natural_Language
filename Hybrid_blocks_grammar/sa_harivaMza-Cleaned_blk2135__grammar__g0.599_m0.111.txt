@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2135 | label: grammar | g:0.599 m:0.111 ---
+
+jīvitaṃ vasudevasya bhaviṣyati sujīvitam 
+yas tvayā tāta ity uktaḥ putra ity eva vakṣyati ।। 
+sa hi dhanyataro loke yasya tvaṃ putratāṃ gataḥ । sa hi puṇyakṛtāṃ śreṣṭho yas tvāṃ putreti kīrtayet ।। ye namasyanti deva tvāṃ gopālakṛtalakṣaṇam । te hi puṇyakṛtāṃ śreṣṭhāḥ praṇamyāḥ sarvajantubhiḥ । 
+atha vā kasya putratvaṃ gaccheran yatra kaśyapāt 
+kā ca dhārayituṃ śaktā viṣṇo tvām aditiṃ vinā ।।

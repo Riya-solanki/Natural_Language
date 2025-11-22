@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 329 | label: meter | g:0.194 m:0.75 ---
+
+etāny uktāni kauravya saptātītāni bhārata 
+manvantarāṇi sarvāṇi nibodhānāgatāni me ।।

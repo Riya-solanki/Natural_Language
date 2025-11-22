@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 387 | label: meter | g:0.0 m:0.5 ---
+
+{padmāvatī} - na kiṃ sakkaṃ rakkhiduṃ pattakāḷe 
+[na kiṃ śakyaṃ rakṣituṃ prāptakāle । ]

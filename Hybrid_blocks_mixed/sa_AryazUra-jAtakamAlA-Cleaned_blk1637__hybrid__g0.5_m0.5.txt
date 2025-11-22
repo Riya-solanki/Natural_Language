@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1637 | label: hybrid | g:0.5 m:0.5 ---
+
+ko hi kṣate kṣāramivāvasiñced rūkṣākṣaraṃ viskhaliteṣu vākyam ।
+priye tu putre api cikitsakasya pravartate vyādhivaśāccikitsā ।।

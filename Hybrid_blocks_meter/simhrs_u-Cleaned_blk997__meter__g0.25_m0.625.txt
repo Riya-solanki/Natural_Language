@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 997 | label: meter | g:0.25 m:0.625 ---
+
+kāraṇābhāsa-sambhūto nirhetuḥ syād dvayor api । 
+avahitthādayas tatra vijñeyā vyabhicāriṇaḥ ।।

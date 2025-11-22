@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 217 | label: grammar | g:0.634 m:0.314 ---
+
+satvapātanavidhānaṃ darśayannāha muñcatītyādi ।।
+ghanas tṛṇasāravikārakaiḥ svinnaḥ tṛṇameva sāro yeṣāṃ te tṛṇasārāḥ teṣāṃ ye vikārakā viśeṣās tair auṣadhaiḥ sūryāvartakādibhiḥ kṛtvā svinnau vahnau dhmāto ghanaḥ satvaṃ muñcati sattvapātaṃ vidadhāti ।।
+punaḥ kācaṃ kiṭṭaṃ ca parihṛtya sattvaṃ patitakācakiṭṭayuktaṃ yadā bhavati tadā prayatnena grāhyam ityarthaḥ ।।

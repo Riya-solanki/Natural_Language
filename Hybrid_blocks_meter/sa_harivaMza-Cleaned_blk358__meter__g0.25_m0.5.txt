@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 358 | label: meter | g:0.25 m:0.5 ---
+
+saṃjñā tu pārthivī tāta svasya putrasya vai tadā 
+cakārābhyadhikaṃ snehaṃ na tathā pūrvajeṣu vai ।।

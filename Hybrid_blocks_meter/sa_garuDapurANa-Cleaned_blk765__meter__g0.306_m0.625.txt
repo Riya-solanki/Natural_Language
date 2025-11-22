@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 765 | label: meter | g:0.306 m:0.625 ---
+
+vidyātattvaṃ paraṃ tattva sūryeduvahnimaṇḍalam ।
+vimalādyā āsanaṃ ca prācyāṃ śrīṃ hrīṃ prapūjayet ।।

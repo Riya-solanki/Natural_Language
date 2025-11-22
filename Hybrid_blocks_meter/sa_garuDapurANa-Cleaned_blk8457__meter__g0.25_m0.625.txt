@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8457 | label: meter | g:0.25 m:0.625 ---
+
+mārge caitāni duḥ khāni asipatravanānvite ।
+kṣutpipāsārdito nityaṃ yamadṛtaiḥ prapīḍitaḥ ।।

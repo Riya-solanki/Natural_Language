@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11845 | label: hybrid | g:0.521 m:0.5 ---
+
+jīvaśca satyaḥ paramātmā ca satyastayorbhedaḥ satye e tatsadāpi ।
+jaḍaścasatyo jīvajaḍayośca bhedo bhedaḥ satyaḥ kiṃ ca jaḍaiśayorbhidā ।।

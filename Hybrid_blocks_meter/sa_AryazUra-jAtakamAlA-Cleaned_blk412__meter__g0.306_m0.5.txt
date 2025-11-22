@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 412 | label: meter | g:0.306 m:0.5 ---
+
+śaṅke guṇānveṣaṇaviklavo vā deśī jano asāvakutūhalo vā ।
+vivarjito bhāgyaparikṣayādvā kīrtyā narendrasya yato abhyupaita ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6981 | label: meter | g:0.25 m:0.5 ---
+
+saṃkarṣaṇādibhedena tava yat pūjitā mayā ।
+kṣantumarhasi tatsarvaṃ yatkṛtaṃ na kṛtaṃ mayā ।।

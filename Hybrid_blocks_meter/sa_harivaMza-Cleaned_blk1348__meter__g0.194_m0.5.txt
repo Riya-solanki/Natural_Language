@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1348 | label: meter | g:0.194 m:0.5 ---
+
+nṛsiṃha eṣa kathito bhūyo ayaṃ vāmano aparaḥ 
+yatra vāmanam āśritya rūpaṃ daityavināśanam ।।

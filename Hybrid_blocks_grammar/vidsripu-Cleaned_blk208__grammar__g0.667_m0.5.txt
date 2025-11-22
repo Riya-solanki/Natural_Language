@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 208 | label: grammar | g:0.667 m:0.5 ---
+
+viśleṣo janitaḥ priyair api janair ujjṛmbhitaṃ nālikair mitreṇāpi kharāyitaṃ ratuṇayā dīrghāyitaṃ tṛṣṇayā ।
+gurvī vallabhatā jaḍair adhigatā doṣākaraḥ sevyate hā kālaḥ kim ayaṃ kalir na hi na hi prāptaḥ sa gharmāgamaḥ ।।

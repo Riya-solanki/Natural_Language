@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 195 | label: meter | g:0.025 m:0.591 ---
+
+"āgacchaj jayatād aho madhuratā nirmañchanadravyatāṃ
+gaccheyaṃ, mama dṛgdvayasya bhavatād atrātipakṣmāsthitiḥ ।"
+itthaṃ kañjavilocanasya kalayann ākasmikīm āgatiṃ
+citraṃ citrajanaḥ sadā bhajati ced āsāṃ tu kiṃ tad bruve? ।। [śārdūla]

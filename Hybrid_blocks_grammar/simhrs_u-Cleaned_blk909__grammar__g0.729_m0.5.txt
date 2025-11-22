@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 909 | label: grammar | g:0.729 m:0.5 ---
+
+ity atra vidrāva-tāralyādibhir udghoṣitasya dravya-nātha-savitrādi-gata-bhayasya apalāpaḥ katham abhidheyaḥ । tad-apalāpe ca kāla-kūṭa-bhakṣaṇasya sukaratvāt tat-kārya-nirvahaṇaika-prāṇasya nīlakaṇṭha-prabhāvotkarṣasya kathaṃ mastakonnamanaṃ syāt ।

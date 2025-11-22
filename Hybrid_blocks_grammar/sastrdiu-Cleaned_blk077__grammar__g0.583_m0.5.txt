@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 77 | label: grammar | g:0.583 m:0.5 ---
+
+atha vaktumāptatvādvyabhicāraśaṅkāṃ nirvartyanumānaṃ, tathāsati śabdamevārthe pramāṇamastu pratibandhakāyāḥ śaṅkāyā nirastatvāt ।
+avaśyaṃ hi buddhiviśeṣamanumitsatā prathamaṃ padārthāsteṣāṃ cānvayayogyatālocayitavyā, te ālocyamānā drāgeva vākyārthaṃ bodhayantīti nānumānaṃ pratīkṣante ।।

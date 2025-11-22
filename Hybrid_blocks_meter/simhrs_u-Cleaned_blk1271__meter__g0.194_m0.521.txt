@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1271 | label: meter | g:0.194 m:0.521 ---
+
+vācā kārmukam asya kauśika-pater āropaṇāyārpitaṃ
+mad-dor-daṇḍa-haṭhāñcanena tad idaṃ bhagnaṃ kṛta-nyak-kṛti ।
+no jāne janakas tad atra bhagavān vrīḍā-vaśād uttaraṃ
+nikṣeptre nata-kandharo bhagavate rudrāya kiṃ dāsyati ।।

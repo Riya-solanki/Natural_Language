@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3282 | label: meter | g:0.194 m:0.5 ---
+
+tatra cāmarahāsaiś ca bhūṣaṇānāṃ ca śiñjitaiḥ 
+maṇīnāṃ ca vicitrāṇāṃ vicitrāś cerur arciṣaḥ ।।

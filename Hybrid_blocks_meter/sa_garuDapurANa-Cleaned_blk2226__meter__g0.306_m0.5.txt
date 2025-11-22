@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2226 | label: meter | g:0.306 m:0.5 ---
+
+sūryaḥ śivo gaṇo devī hariryatra ca tiṣṭhati ।
+eteṣu ca yathānyeṣu snānaṃ dānaṃ japastapaḥ ।।

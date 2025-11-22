@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2759 | label: meter | g:0.31 m:0.884 ---
+
+śrāgaruḍamahāpurāṇam- 
+yājñavalkya uvāca ।
+vakṣye saṅkarajātyādigṛhasthādi vidhiṃ param ।
+viprānmūrdhāvaṣikto hi kṣāttriyāyāṃ viśaḥ striyām ।।

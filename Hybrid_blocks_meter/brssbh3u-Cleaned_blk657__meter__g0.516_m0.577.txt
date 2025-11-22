@@ -1,0 +1,7 @@
+--- source: brssbh3u-Cleaned.txt | block: 657 | label: meter | g:0.516 m:0.577 ---
+
+prāṇasaṃvāde śrūyate chandogānām - ana ha vā evaṃvidi kiñcanānannaṃ bhavati' iti ।
+tathā vājasaneyinām - ana ha vā asyānnaṃ jagdhaṃ bhavati nānannaṃ pratigṛhītam' iti ।
+sarvamevāsyādanīyameva bhavatītyarthaḥ ।
+kimidaṃ sarvānnānujñānaṃ śamādivadvidyāṅgaṃ vidhīyata uta stutyarthaṃ saṃkārtyata iti saṃśaye vidhiriti tāvatprātm ।
+tathāhi - pravṛttiviśeṣakara upadeśo bhavatyataḥ prāṇavidyāsaṃnidhānāttadaṅgatveneyaṃ niyamanivṛttirupadiśyate ।

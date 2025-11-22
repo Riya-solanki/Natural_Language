@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3985 | label: meter | g:0.194 m:0.5 ---
+
+anuktvā vacanaṃ kiṃcit prāpto bhavati karmaṇā 
+manasā samanujñātaṃ tat syād ity avagamyatām ।।

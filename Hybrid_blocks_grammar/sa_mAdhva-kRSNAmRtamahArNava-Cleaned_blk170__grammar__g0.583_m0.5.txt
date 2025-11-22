@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 170 | label: grammar | g:0.583 m:0.5 ---
+
+tāvat pāpāni dehe asmiṃs tiṣṭhanti manujādhipa yāvan nopoṣayej jantuḥ padmanābhadinaṃ śivam ।।

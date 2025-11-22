@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11982 | label: meter | g:0.306 m:0.5 ---
+
+haiyaṅgavīnasya ca bhakṣaṇe vai samyak smarettāṇḍavākhyaṃ ca kṛṣṇam ।
+dadhyannabhakṣe paramaṃ purāṇaṃ gopālakṛṣṇaṃ saṃsmareccaiva nityam ।।

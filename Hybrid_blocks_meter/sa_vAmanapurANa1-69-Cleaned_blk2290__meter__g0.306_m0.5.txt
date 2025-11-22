@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2290 | label: meter | g:0.306 m:0.5 ---
+
+śrutvātha vākyaṃ vṛṣabhadhvajasya matvā munirmaṅkaṇako maharṣe ।
+nṛtyaṃ parityajya suvismito atha vavanda pādau vinayāvanamraḥ ।।

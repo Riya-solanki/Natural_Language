@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 117 | label: grammar | g:0.782 m:0.378 ---
+
+yadyucyeta niścite api tattve viparyāsanibandhano vyavahāro anuvartamāno dṛśyate, yathā guḍasya mādhuryaviniścaye api pittopahatendriyāṇāṃ tiktatāvabhāsānuvṛttiḥ, āsvādya thūtkṛtya tyāgāt ।
+tasmādavidyāsaṃskārānuvṛttyā karmānuṣṭhānam, tena ca vidyāsahakāriṇā tatsamuccheda upapatsyate ।
+na ca- karmāvidyātmakaṃ kathamavidyāmucchinatti, karmaṇo vā taducchedakasya kuta ucchedaḥ iti vācyam, sajātīyasvaparavirodhināṃ bhāvānāṃ bahulamupalabdheḥ ।
+yathā payaḥ payo antaraṃ jarayati svayaṃ ca jīryati, yathā viṣaṃ viṣāntaraṃ śamayati svayaṃ ca śāmyati, yathā vā katakarajo rajo antarāvile pāthasi prakṣiptaṃ rajo antarāṇi bhindat svayamapi bhidyamānamanāvilaṃ pāthaḥ karoti, evaṃ karmāvidyātmakamapi avidyāntarāṇyapagamayat svayamapyapagacchatīti ।

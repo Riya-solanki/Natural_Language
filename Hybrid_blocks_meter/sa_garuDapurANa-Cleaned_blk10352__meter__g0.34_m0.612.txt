@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10352 | label: meter | g:0.34 m:0.612 ---
+
+śrīgaruḍamahāpurāṇam- 
+etādṛśe mahattattve lakṣmyā saha hariḥ svayam ।
+praviveśa mahābhāga kṣobhayāmāsa vai hariḥ ।।

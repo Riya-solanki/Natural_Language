@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 391 | label: meter | g:0.194 m:1.0 ---
+
+abhyudgate śaśini peśala-kānta-dūtī
+santāpa-saṃvalitamānasa-locanābhiḥ ।
+agrā hi maṇḍana-vidhir viparīta-bhūṣā
+vinyāsa-hāsita-sakhījanam aṅganābhiḥ ।।

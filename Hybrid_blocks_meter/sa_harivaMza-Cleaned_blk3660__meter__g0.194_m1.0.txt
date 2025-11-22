@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3660 | label: meter | g:0.194 m:1.0 ---
+
+sā vihvalajalasrotā hradaprasthitasaṃcayā 
+vyāvartata nadī bhītā halamārgānusāriṇī ।।

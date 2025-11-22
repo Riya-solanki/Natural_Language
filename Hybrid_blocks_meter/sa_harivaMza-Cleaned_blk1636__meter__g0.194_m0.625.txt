@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1636 | label: meter | g:0.194 m:0.625 ---
+
+naiśākarī vāruṇī ca māye antardadhatus tataḥ 
+aśmabhiś cāyasaghanaiḥ kiraddevagaṇān raṇe ।।

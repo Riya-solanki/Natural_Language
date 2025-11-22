@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1405 | label: grammar | g:0.667 m:0.5 ---
+
+daśarathaḥ-bhagavan gīrvāṇa-nātha sa-prasādam ito nidhīyantāṃ dṛṣṭayaḥ । ity antena yama-purandarādi-pūjya-saṅkīrtanād vā prastuta-rākṣasa-vadha-rūpasyārthasya prapañcanād vā prasaṅgaḥ ।

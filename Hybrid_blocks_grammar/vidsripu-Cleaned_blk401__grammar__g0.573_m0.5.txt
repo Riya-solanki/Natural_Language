@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 401 | label: grammar | g:0.573 m:0.5 ---
+
+sutanur adhunā seyaṃ nimnāṃ svanābhim abhīkṣate kalayati parāvṛttenākṣṇā nitambasamunnatim ।
+rahasi kurute vāsoguptau svamadhyakadarthanām api ca kim api vrīḍāṃ krīḍāsakhīm iva manyate ।।

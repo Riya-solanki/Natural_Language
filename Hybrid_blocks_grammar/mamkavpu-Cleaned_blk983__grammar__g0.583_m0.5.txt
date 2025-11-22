@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 983 | label: grammar | g:0.583 m:0.5 ---
+
+akāṇḍe chedo yathā vīracarite dvitīyeṅke rāghavabhārgavayordhārādhirūḍhe vīrarase {kaṅkaṇamocanāya gacchāmi} iti rāghavasyoktau ।।

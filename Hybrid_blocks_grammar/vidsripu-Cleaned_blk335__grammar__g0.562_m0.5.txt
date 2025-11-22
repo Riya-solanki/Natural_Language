@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 335 | label: grammar | g:0.562 m:0.5 ---
+
+haṃsair jarjararūkṣapakṣamalinair naktaṃ divāntar bahis tiṣṭhadbhiḥ parivārya bandhubhir iva snigdhaiḥ kṛtāvekṣaṇam ।
+pratyāsīdati vallabhe jalaruhāṃ kṣāmāyamāṇadyutau bāṣpān ujjhati vāri vāriruhiṇīnāśād ivopārjitān ।।

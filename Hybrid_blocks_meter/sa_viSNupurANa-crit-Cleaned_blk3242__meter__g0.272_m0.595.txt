@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3242 | label: meter | g:0.272 m:0.595 ---
+
+devarṣipitṛbhūtāni yasya niḥśvasya veśmani 
+prayānty anarcitāny atra na tasmāt pāpakṛn naraḥ ।।

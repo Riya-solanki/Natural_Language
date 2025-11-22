@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4268 | label: meter | g:0.25 m:0.625 ---
+
+naitau jave vā yuddhe vā krīḍāsu vividhāsu vā 
+nandagopasya gopālāḥ śekuḥ pratisamīkṣitum ।।

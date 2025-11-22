@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 685 | label: meter | g:0.281 m:0.83 ---
+
+lomaharṣaṇa uvāca
+viśvāmitrasya rājarṣervasiṣṭhasya mahātmanaḥ ।
+bhṛśaṃ vairaṃ babhūveha tapaḥsparddhākṛte mahat ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 837 | label: grammar | g:0.573 m:0.5 ---
+
+tasmin pañcaśare smare bhagavatā bhargeṇa bhasmīkṛte jānāmy akṣayasāyakaṃ kamalabhūḥ kāmāntaraṃ nirmame ।
+yasyāmībhir itas tataś ca viśikhair āpuṅkhamagnātmabhir jātaṃ me vidalatkadambamukulaspaṣṭopamānaṃ manaḥ ।।

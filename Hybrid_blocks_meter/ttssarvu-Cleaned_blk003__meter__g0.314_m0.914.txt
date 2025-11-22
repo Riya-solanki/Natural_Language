@@ -1,0 +1,4 @@
+--- source: ttssarvu-Cleaned.txt | block: 3 | label: meter | g:0.314 m:0.914 ---
+
+uddidhīrṣustadunnītasūtratattvārthabuddhaye ।
+sarvopakāriṇīṃ kurve ṭīkāṃ guṇavaśaṃvadaḥ ।।

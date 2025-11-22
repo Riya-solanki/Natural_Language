@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 14 | label: grammar | g:0.594 m:0.5 ---
+
+yadṛddhiṃ sutrāmṇo varada paramoccair api satīm adhaś cakre bāṇaḥ parijanavidheyatribhuvanaḥ ।
+na tac citraṃ tasmin varivasitari tvaccaraṇayor na kasyā unnatyai bhavati śirasas tvayy avanatiḥ ।।

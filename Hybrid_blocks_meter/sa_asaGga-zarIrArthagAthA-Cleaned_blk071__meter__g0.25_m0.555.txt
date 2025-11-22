@@ -1,0 +1,5 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 71 | label: meter | g:0.25 m:0.555 ---
+
+arthavargīyeṣu kāmān ārabhya gāthā
+kāmān kāmāyamānasya tasya cet tat samṛdhyati ।
+addhā prītamanā bhavati labdhvā martyo yad īpsitaṃ ।।

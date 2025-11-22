@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 978 | label: meter | g:0.0 m:0.625 ---
+
+yatroparamate cittaṃ tattaddhyeyaṃ punaḥ punaḥ 
+tenāsya cetasaḥ sthairyaṃ saviśeṣaguṇaḥ śanaiḥ ।। MT

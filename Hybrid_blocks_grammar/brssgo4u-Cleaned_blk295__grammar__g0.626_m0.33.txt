@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 295 | label: grammar | g:0.626 m:0.33 ---
+
+pratisaṃcaro mahāpralayaḥ, tasminprāpte parasya hiraṇyagarbhasyānte samaṣṭiliṅgaśarīrarūpavikārāvasāne brahmalokanivāsinaḥ kutātmānaḥ śuddhadhiyastatrotpannasamyagdhiyaḥ sarve brahmaṇā mucyamānena saha paraṃ padaṃ praviśantīti yojanā ।
+evaṃ siddhāntamuktvā tena nirastaṃ pūrvapakṣamāha-kaṃ punarityādinā ।। ।। ।। ।।

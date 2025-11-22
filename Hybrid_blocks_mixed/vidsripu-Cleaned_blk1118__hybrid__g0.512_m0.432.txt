@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1118 | label: hybrid | g:0.512 m:0.432 ---
+
+bhekaiḥ koṭharaśāyibhir mṛtam iva kṣmāntargataṃ kacchapaiḥ pāṭhīnaiḥ pṛthupaṅkapīṭhaluṭhanād asmin muhur mūrchitam ।
+tasminn eva sarasy akālajaladenāgatya tacceṣṭitaṃ yenākumbhanimagnavanyakariṇāṃ yūthaiḥ payaḥ pīyate ।।
+dvandūkasya

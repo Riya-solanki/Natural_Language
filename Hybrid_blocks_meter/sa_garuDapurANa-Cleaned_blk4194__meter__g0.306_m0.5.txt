@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4194 | label: meter | g:0.306 m:0.5 ---
+
+dāhaḥ pittayute miśraṃ miśre antaḥ saṃśraye punaḥ ।
+jvare adhikaṃ vikārāḥ syurantaḥ kṣobho malagrahaḥ ।।

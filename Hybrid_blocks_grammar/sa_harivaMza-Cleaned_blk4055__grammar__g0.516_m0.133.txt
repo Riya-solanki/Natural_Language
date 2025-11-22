@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4055 | label: grammar | g:0.516 m:0.133 ---
+
+dattas tvayaiva govinda tvayaiva vinipātitaḥ 
+yathecchasi tathā krīḍa bālaḥ krīḍanakair iva । 
+ime te kuṇḍale deva prajās tasyānupālaya ।। 
+nirvighnam ṛṣayo devāś carantu vigatajvarāḥ । prajāś carantu sukhinas tava deva prapālanāt । nirvighnaṃ brāhmaṇā deva bhūyāsus tava śāsanāt । ityuktvā sā dadau tasmai kuṇḍale lokaviśrute । antardhānaṃ gatā devī tadā bhartṛsamīpataḥ । 
+nihatya narakaṃ bhaumaṃ vāsavopamavikramaḥ 
+vāsavāvarajo viṣṇur dadarśa narakālayam ।।

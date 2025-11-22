@@ -1,0 +1,11 @@
+--- source: gp01-11u-Cleaned.txt | block: 434 | label: hybrid | g:0.217 m:0.458 ---
+
+[] kiṃ ca mukhena mahāpadmaṃ vijetā,
+nayanābhyāṃ padmam,
+nāsikayā makaram,
+smitena kundam,
+kaṇṭhena śaṅkham,
+caraṇayoḥ pṛṣṭābhyāṃ kacchapam,
+rucā nīlam,
+sarvair eva ca sarveṣāṃ kharvam ।
+kiṃ bahunā, svena mukundam apīti yugapad atra tat-tad-avasara-prasavādīnāṃ tathā durlabha-sannidhīnāṃ nidhīnām api sannipatanaṃ nāsambhāvyam ।

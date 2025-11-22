@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 217 | label: hybrid | g:0.412 m:0.5 ---
+
+tenāpauruṣeyatve siddhe bhūtārthānāmapi vedāntānāṃ na sāpekṣatayā prāmāṇyavighātaḥ ।
+na cānadhigatagantṛtā nāsti yena prāmāṇyaṃ na syāt, jīvasya brahmatāyā anyato anadhigamāt ।
+tadidamuktam - na ca pariniṣṭhitavastusvarūpatva'piiti ।

@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 802 | label: grammar | g:0.75 m:0.5 ---
+
+vṛtti tataśca kṣetre parameśvarapratiṣṭhānāt pūrvakaṃ [gaṇeśavṛṣabhaskandamātṛlokeśakīlitaṃ] gaṇeśādyākrāntaṃ [dakṣiṇottaradigdvāraṃ] yāmyodaggatadvāraṃ śivadhāma [anyarakṣitam] anyasya sādhakasya rakṣitaṃ [mahājanākulaṃ] bahulokākīrṇaṃ [dūrasamitpuṣpakuśodakaṃ] viprakṛṣṭakuśakusumasamijjalaṃ [sopadravaṃ ca] hiṃsraprāṇicorādyupadravayutaṃ ca [saṃtyajya] tyaktvā [parigrahaṇamācared] etaddoṣarahitaṃ gṛhṇīyāt।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 281 | label: hybrid | g:0.5 m:0.5 ---
+
+atha yasyopākṛtaḥ paśuḥ saṃśīryeta kā tatra prāyaścittiḥ ।

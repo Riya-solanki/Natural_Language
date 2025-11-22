@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2506 | label: meter | g:0.102 m:0.555 ---
+
+striyaś caiva yaśodāṃ tām hā hatāsīti cukruśuḥ 
+yā paśyasi priyaṃ putraṃ sarparājavaśaṃgataṃ 
+saṃditaṃ sarpabhogena kṛṣyamāṇaṃ yathā mṛgam ।।

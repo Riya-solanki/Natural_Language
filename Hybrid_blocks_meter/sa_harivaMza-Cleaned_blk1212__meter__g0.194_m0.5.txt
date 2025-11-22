@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1212 | label: meter | g:0.194 m:0.5 ---
+
+satyabhāmā tu tad vṛttaṃ bhojasya śatadhanvanaḥ 
+bhartur nivedya duḥkhārtā pārśvasthāśrūṇy avartayat ।।

@@ -1,0 +1,5 @@
+--- source: vamkalvu-Cleaned.txt | block: 308 | label: meter | g:0.281 m:0.83 ---
+
+dolāvilāseṣu vilāsinīnāṃ karṇāvataṃsāḥ kalayanti kampam ।
+līlācalacchravaṇakuṇḍamāpatanti ।
+āyayurbhṛṅgamukharāḥ tūrṇaṃ śekharaśālinaḥ ।

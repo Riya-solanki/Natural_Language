@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 28 | label: meter | g:0.194 m:0.625 ---
+
+yasyāḍhyaḥ prathamaḥ kumāra-tilakaḥ śrī-annapoto guṇair
+ekasyāgrajam ātma-rūpa-vibhave cāpe dvayor agrajam ।
+ārūḍhe tritayāgrajaṃ vijayate durvāra-dor-vikrame
+satyoktau caturagrajaṃ vitaraṇe kiṃ cāpi pañcāgrajam ।।

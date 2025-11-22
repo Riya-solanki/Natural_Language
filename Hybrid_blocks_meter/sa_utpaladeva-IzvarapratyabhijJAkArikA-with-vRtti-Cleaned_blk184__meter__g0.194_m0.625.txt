@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 184 | label: meter | g:0.194 m:0.625 ---
+
+sa eva vimṛśattvena niyatena maheśvaraḥ 
+vimarśa eva devasya śuddhe jñānakriye yataḥ ।।

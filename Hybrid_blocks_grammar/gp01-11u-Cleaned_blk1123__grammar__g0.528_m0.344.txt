@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 1123 | label: grammar | g:0.528 m:0.344 ---
+
+[] tad etad aguṇa-guṇa-guṇagaṇa-nidhānasya tasya niravadhānam api na citram adhyasyati । [] eṣa hi prema-maya-līlāveśa-vaśyatām āpannaḥ kadācid avaśyaṃ paśyann apaśyann iva bhavati । tadā hi sadya evedaṃ pratyapadyata । āṃ brahmaṇaḥ khalv idaṃ karma । mama punar etāvantaṃ kālaṃ sañjaṅghanya-māna-sakhi-saṅgha-praṇayāsaṅga-vaśāl laṅghita-jñānatayā na tad-anusandhānaṃ jātam । na ca tena virodhitayedam ācaritam, kintu mayi prema-sthema-saṃhitasya tasya vraja-hitasya samprati mad-vaibhavaṃ prati viśeṣa-vīkṣā-pratīkṣā jātety evam evācaritam । yata eva khalu māyā-vaibhavatas tad ananya-sthāna-sthitaṃ-manyam evānyatra vanya-bhūmāv ākṛṣya punas tatraiva puline pratikṛṣya tat-tad-vṛndam anenāgopāyi, tato na virodhi-buddhir asau । virodhiṣu mad-buddhi-vīryayor nidrāgame' pi jāgarukatā kalitā । tato vayaṃ bhakte tasmin narma-karmaṭhatām eva ghaṭayiṣyāmaḥ । tatra ca prāyaḥ śrīmat-pitṛ-caraṇābhiprāya-mayatayā yā mama yogamāyā sāhāyakam āyāti । yadi tām eva samprati cāvalambeya, tadā svayam eva tat-tad-rūpatāṃ labheya । nānyad dhi mad-dhitānāṃ teṣāṃ sāmyaṃ bhajed iti-[] yena ca śatānandasya vrajānandasya ca mandatā-mandatāṃ vindeta, tad evaṃ cintayann eva, saha-suhṛl-loka-śokaṃ cintayāmāsa, hanta, hanta, kathaṃ tān māṃ vinā tāntān vinā samayaṃ gamayiṣyāmi? iti । tataś ca,
+yasya yasya ca śucā guṇa-rūpaṃ
+cintayann abhajata svatayātha ।
+tasya suṣṭhu dhuta-bhedatayā'sau
+jajñivān prayatanaṃ vyatiricya ।। [svāgatā]

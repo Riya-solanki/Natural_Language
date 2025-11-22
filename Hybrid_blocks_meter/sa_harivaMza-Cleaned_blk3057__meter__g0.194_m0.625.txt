@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3057 | label: meter | g:0.194 m:0.625 ---
+
+dāmodaraṃ ca śrīmantam yathāsthānaṃ yathāvayaḥ 
+abhyanandan priyair vākyaiḥ pūjayantaḥ punaḥ punaḥ ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1344 | label: meter | g:0.056 m:0.75 ---
+
+{ādāya vāri paritaḥ saritāṃ mukhebhyaḥ
+kiṃ tāvadarjitamanena durarṇavena ।
+kṣārīkṛtaṃ ca vaḍavādahane hutaṃ ca
+pātālakukṣikuhare viniveśitaṃ ca ।।}

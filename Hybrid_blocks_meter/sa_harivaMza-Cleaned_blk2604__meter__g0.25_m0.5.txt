@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2604 | label: meter | g:0.25 m:0.5 ---
+
+taṃ tu kṛṣṇaś ca gopāś ca divisthāś ca divaukasaḥ 
+tuṣṭuvur nihate daitye jayāśīrbhir mahābalam ।।

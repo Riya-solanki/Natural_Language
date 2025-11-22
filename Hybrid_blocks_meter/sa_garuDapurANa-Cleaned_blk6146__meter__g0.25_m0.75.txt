@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6146 | label: meter | g:0.25 m:0.75 ---
+
+namaḥ svastisvadhāsvāhālaṃvaṣaḍyoga īritā ।
+caturtho caiva tādarthye tumarthādbhāvavācinaḥ ।।

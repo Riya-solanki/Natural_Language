@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 729 | label: hybrid | g:0.537 m:0.432 ---
+
+parīrambhārambhaḥ spṛśati param icchāṃ na tu bhujau bhajante vijñānaṃ na tu giram anūrodhavidhayaḥ ।
+manasvinyāḥ svairaṃ prasarati niśāsīmasamaye manaḥ pratyāvṛttaṃ kamitari kathaṃcin na tu vapuḥ ।।
+cakrapāṇeḥ

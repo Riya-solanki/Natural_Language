@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2029 | label: meter | g:0.306 m:0.5 ---
+
+imāmavasthāmudarasya hetoḥ prāpto asi saṃtyaktaghṛṇaḥ prajāsu ।
+imāśca dharmaṃ pravadanti gāthāḥ sametyadharmeṇa yato na dharmaḥ ।।

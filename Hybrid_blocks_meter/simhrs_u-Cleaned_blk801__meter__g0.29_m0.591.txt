@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 801 | label: meter | g:0.29 m:0.591 ---
+
+atha mānaḥ-
+yat tu premānubandhena svātantryād dhṛdayaṅgamam । 
+bahnāti bhāva-kauṭilyaṃ so' yaṃ māna itīryate ।।

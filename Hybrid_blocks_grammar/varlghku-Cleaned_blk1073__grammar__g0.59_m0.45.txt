@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1073 | label: grammar | g:0.59 m:0.45 ---
+
+dvandvāccudaṣahāntātsamāhāre ।।
+cavargāntāddaṣahāntācca dvandvāṭṭac syātsamāhāre । vāk ca tvak ca vāktvacam । tvaksrajam । vāktviṣam । samāhāre kim ? prāvṛṭśaradau ।।

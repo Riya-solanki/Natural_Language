@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10868 | label: meter | g:0.25 m:0.625 ---
+
+ekādaśyāṃ harerannaṃ niḥ sāraṃ parikīrtitam ।
+ekādaśyāṃ harestīrthaṃ manuṣyāṇāṃ khageśvara ।।

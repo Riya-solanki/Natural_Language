@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1398 | label: meter | g:0.102 m:0.695 ---
+
+sītāyāḥ padam anvicchan nijaghāna mahāmanāḥ 
+virādhaṃ ca kabandhaṃ ca rākṣasau bhīmavikramau 
+jaghāna puruṣavyāghrau gandharvau śāpavikṣatau ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 901 | label: grammar | g:0.625 m:0.5 ---
+
+[] tad etad ākarṇya sāsrā rohiṇī nīcair uvāca-putra, kathaṃ kaṭhorāyase? mātā tava duḥkhāyate ।

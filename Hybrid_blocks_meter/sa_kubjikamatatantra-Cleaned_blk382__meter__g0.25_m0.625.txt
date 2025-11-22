@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 382 | label: meter | g:0.25 m:0.625 ---
+
+sūkṣmādhārasthito hy ekaḥ sparśākhyo mantravedakaḥ 
+sakalo niṣkalaś cāsau mantro jñeyas tu suvrate ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5611 | label: meter | g:0.25 m:0.5 ---
+
+cūrṇaṃ kṛtvā tāmrapātre tvātapaiḥ śoṣayettataḥ ।
+pītaṃ snuhīgataṃ dugdhaṃ saindhavaṃ śūlanudbhavet ।।

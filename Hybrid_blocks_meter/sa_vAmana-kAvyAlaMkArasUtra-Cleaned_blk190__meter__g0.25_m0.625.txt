@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 190 | label: meter | g:0.25 m:0.625 ---
+
+padārthe vākyavacanaṃ vākyārthe ca padābhidhā ।
+prauḍhitvyāsasamāsau ca sābhiprāyatvameva ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 79 | label: meter | g:0.25 m:0.5 ---
+
+yaścaiva buddhatanayāna śrāvakāṇāṃ śaikṣa aśaikṣa kuśalāsrava nāsravāśca 
+paripiṇḍayitva anumodayi bodhisattvo sarvaṃ ca nāmayi jagārthanidāna bodhi ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1903 | label: meter | g:0.25 m:0.625 ---
+
+cakratīrthaṃ sucajakrākṣaṃ makarāśraṃ gayāśiraḥ ।
+gaṇaṃ pañcaśikhaṃ nāma dadau kanakhalaḥ svakam ।।

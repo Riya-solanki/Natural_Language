@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 84 | label: grammar | g:0.535 m:0.287 ---
+
+nanu kartavyatābodhanameva pravartanam, kartavyatā ca vede yāgasya vinaiva bodhiteti kathamavidheyatvam ।
+satyam ।
+natu yāgasya kartavyatā liṅā bhidhīyate, svārthasya kartavyatāṃ liṅā bhidhatte, yāgaśca tasya viṣayaḥ karaṇaṃ ca, so ayaṃ kartavyatātmā niyogārtho anyathānupapattyā svaviṣayasya kartavyatāṃ bodhayannanuṣṭhāpaka ityucyate ।
+śyenādīnāṃ tu rāgādevānuṣṭhānasiddherna niyogasteṣāmanuṣṭhānamākṣipatīti na teṣāṃ vidheyatvam ।
+asati ca vidheyatve teṣāṃ niṣedhaviṣayatvādanarthatvamiti tadvyāvṛttyarthamarthapadamiti ।।

@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 340 | label: meter | g:0.048 m:0.714 ---
+
+bhojanaṃ, yathā-
+agrye sadmani ratna-pīṭha-mahitau rāmājitau tad-vadhū-
+hastebhyaḥ parigṛhya mātṛ-yugalenānnādi paryāpitam ।
+bhuñjānau sakhibhiḥ sunarma-valitaṃ prasmāyayantau ca tad-
+yugmaṃ tena ca parvaṇā parijanaṃ sarvaṃ sukhācakratuḥ ।। [śārdūla]

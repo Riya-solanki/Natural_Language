@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1348 | label: meter | g:0.056 m:0.625 ---
+
+{kastvaṃ bhoḥ kathayāmi daivahatakaṃ māṃ viddhi śākhoṭakaṃ
+vairāgyādiva vakṣi sādhu viditaṃ kasmādidaṃ kathyate ।
+vāmenātra vaṭastamadhvagajanaḥ sarvātmanā sevate
+na cchāyāpi paropakārakaraṇe mārgasthitasyāpi me।।}

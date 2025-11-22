@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1132 | label: meter | g:0.306 m:0.5 ---
+
+nāthante darśanasyāpi mama loke tapodhanāḥ ।
+kimartham evaṃ varade mayi yūyaṃ tu niṣṭhurāḥ ।।

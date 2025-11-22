@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5488 | label: meter | g:0.306 m:0.625 ---
+
+śuṇṭhī ca śarkarā caiva tathā kṣaudreṇa saṃyutā ।
+kokilasvara eva syādguṭikā bhuktimātrataḥ ।।

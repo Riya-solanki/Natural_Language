@@ -1,0 +1,6 @@
+--- source: kamasufu-Cleaned.txt | block: 168 | label: meter | g:0.17 m:0.551 ---
+
+iti vaiśikam 
+bhavataś cātra ślokau
+raty-arthāḥ puruṣā yena raty-arthāś caiva yoṣitaḥ śāstrasyārtha-pradhānatvāt tena yogo atra yoṣitām
+santi rāga-parā nāryaḥ santi cārtha-parā api prāk tatra varṇito rāgo veśyā-yogāś ca vaiśike

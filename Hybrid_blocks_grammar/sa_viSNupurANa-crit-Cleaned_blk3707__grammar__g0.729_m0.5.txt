@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3707 | label: grammar | g:0.729 m:0.5 ---
+
+anantaraṃ ca durvasuṃ druhyum anuṃ ca pṛthivīpatir jarāgrahaṇārthaṃ svayauvanapradānāya cābhyarthayām āsa । tair apy ekaikaśyena pratyākhyātas tāñ chaśāpa ।।

@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1028 | label: hybrid | g:0.5 m:0.5 ---
+
+na vinaṣṭād bījādaṅkura utpadyate iti tasmānnābhāvād bhāvotpattiriti ।।

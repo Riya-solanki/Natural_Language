@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 303 | label: meter | g:0.25 m:0.625 ---
+
+arthajñāḥ kṛta-hantāro dhārmikā dharma-gāthinaḥ ।
+vimūḍha-pūrṇa-muktāś ca dayāvantaś ca te kramāt ।। [anuṣṭubh]

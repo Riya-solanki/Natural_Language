@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 260 | label: meter | g:0.381 m:0.6 ---
+
+FN pṛthivyaptejorūpaṃ bhūtatrayaṃ mūrtaṃ, vāyvākāśarūpaṃ cāmūrtamiti dvirāśitvena ।
+mahārājanaṃ haridrā ।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8985 | label: meter | g:0.25 m:0.863 ---
+
+preta uvāca ।
+śṛṇu rājendra saṃkṣepādvidhiṃ nārāyaṇātmakam ।
+sacchāstraśravaṇaṃ viṣṇoḥ pūjā sajjanasaṃgatiḥ ।।

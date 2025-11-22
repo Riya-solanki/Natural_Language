@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 31 | label: meter | g:0.056 m:0.5 ---
+
+pūrṇa-candro' yam aindrīṃ haritam anugataḥ preyasīṃ dūradeśād
+asyāvaktraṃ vilimpan ghusṛṇa-śavaliteneva śaśvat kareṇa ।
+tad-vyājān mām amūdṛk-kṛtim upadiśatīvādya sadyaḥ kiśoraṃ
+śubhrātmā yas tadīyaṃ bhavati viracanaṃ sarvato-bhadram eva ।। [śārdūla]

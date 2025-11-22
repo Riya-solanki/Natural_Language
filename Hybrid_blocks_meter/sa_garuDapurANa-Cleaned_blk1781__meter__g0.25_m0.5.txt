@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1781 | label: meter | g:0.25 m:0.5 ---
+
+asvedinau mūdutalau praśastau caraṇau striyāḥ ।
+śubhe jaṅghe virome ca ūrū hastikaropamau ।।

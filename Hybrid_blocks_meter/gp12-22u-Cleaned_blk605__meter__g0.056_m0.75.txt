@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 605 | label: meter | g:0.056 m:0.75 ---
+
+āgamiṣyati śarad bhuvi dyavi
+svacchatāṃ vidadhatīti cintitam ।
+hanta tābhir udaye tadīyake
+svaṃ dadhe dvi-guṇa-bhāvanāvilam ।। [rathoddhatā]

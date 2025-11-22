@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1264 | label: meter | g:0.25 m:0.5 ---
+
+kṣaṇā nimeṣāḥ kāṣṭhāś ca kalās traikālyam eva ca 
+muhūrtās tithayo māsā dinasaṃvatsarās tathā ।।

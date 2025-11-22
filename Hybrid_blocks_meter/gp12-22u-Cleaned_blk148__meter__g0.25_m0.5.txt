@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 148 | label: meter | g:0.25 m:0.5 ---
+
+rephaṃ visṛṣṭaṃ nirmāyād avasāne padāntagam ।
+iti śāsana-vijñānāṃ matam eva mataṃ mama ।। [anuṣṭubh]
+adhunā kāliya yasmān mat-pada-kṛta-lakṣaṇas tvam asi ।
+tad amutra ca sambhavitā mat-pada-kṛta-lakṣaṇaḥ sa bhavān ।। [upagīti]

@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 64 | label: meter | g:0.183 m:0.65 ---
+
+tathāpi,
+prapañcaṃ niṣprapañco' pi vidambhayasi bhūtale ।
+prapanna-janatānanda-sandohaṃ prathituṃ prabho ।।[BhP ]

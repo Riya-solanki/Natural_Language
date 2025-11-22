@@ -1,0 +1,6 @@
+--- source: brssbh3u-Cleaned.txt | block: 156 | label: meter | g:0.25 m:0.764 ---
+
+naiṣa doṣaḥ ।
+kadācitkīyamavastheti na prasiddhā syāt ।
+prasiddhā caiṣā lokāyurvedayoḥ ।
+ardhasaṃpattyabhyupagamācca na pañcamī gaṇyata ityanavadyam ।।

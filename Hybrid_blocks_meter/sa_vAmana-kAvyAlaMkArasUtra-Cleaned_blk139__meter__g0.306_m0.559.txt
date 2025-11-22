@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 139 | label: meter | g:0.306 m:0.559 ---
+
+iti śrīkāvyālaṅkārasūtravṛttau doṣadarśane dvitīye'dhikaraṇe dvitīyo'dhyāyaḥ । vākyavākyārthadoṣavibhāgaḥ ।।
+samāptaṃ cedaṃ doṣadarśanaṃ dvitīyamadhikaraṇam ।।

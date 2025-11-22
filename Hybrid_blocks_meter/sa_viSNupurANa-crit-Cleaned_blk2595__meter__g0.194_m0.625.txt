@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2595 | label: meter | g:0.194 m:0.625 ---
+
+hiraṇyanābhaḥ kausalyaḥ pauṣpiñjiś ca dvijottama 
+udīcyāḥ sāmagāḥ śiṣyās tasya pañcadaśa smṛtāḥ ।।

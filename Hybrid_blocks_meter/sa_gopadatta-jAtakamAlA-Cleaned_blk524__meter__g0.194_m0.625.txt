@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 524 | label: meter | g:0.194 m:0.625 ---
+
+tasya kṣetrātiśayapatitaṃ dānabījaṃ purāṇaṃ
+naikākāraṃ vibhavanicayaṃ sphītam āviś cakāra ।
+pūrvaṃ dānākṛtaparicayādhyāśayatvāt tu nāsau
+dātuṃ kiṃ cit prabhavati tadā matsarākrāntacetāḥ ।।

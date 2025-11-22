@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1921 | label: grammar | g:0.562 m:0.5 ---
+
+saṃbahulāni hi dinānyatra naḥ kāntāre paribhramatām । tadarhasi naḥ svāminnistārayitumiti ।

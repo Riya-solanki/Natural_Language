@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9915 | label: hybrid | g:0.51 m:0.5 ---
+
+varṇāśca catvāra iha praśastāḥ varṇeṣu dharmiṣṭhanarāḥ praśastāḥ ।
+dharmeṇa saukhyaṃ samupaiti sarvaṃ jñānaṃ samāpnoti mahāpathe sthitaḥ ।।

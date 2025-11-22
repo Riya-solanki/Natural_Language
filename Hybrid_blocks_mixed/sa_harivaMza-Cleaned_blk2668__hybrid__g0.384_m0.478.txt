@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2668 | label: hybrid | g:0.384 m:0.478 ---
+
+balena ca parārdhyena yaśasā vikrameṇa ca 
+uttamas tvaṃ ca martyeṣu deveṣv iva puraṃdaraḥ ।। 
+pratāpena ca tīkṣṇena dīptyā pūrṇatayāpi ca । uttamas tvaṃ ca martyeṣu deveṣv iva divākaraḥ । 
+kāntyā lakṣmyā prasādena vadanena smitena ca 
+uttamas tvaṃ ca martyeṣu deveṣv iva niśākaraḥ ।।

@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 705 | label: meter | g:0.26 m:0.987 ---
+
+aṃśo nānāvyapadeśādanyathā cāpi dāśakitavāditvamadhīyata eke ।
+avāntarasaṃgatimāha- jīveśvarayoriti ।
+upakāryopakārakabhāvaḥprayojyaprayojakabhāvaḥ ।
+atrāpātato vinigamanāhetorabhāvādaniyamo niścaya ityuktaḥ ।
+niścayahetvābhāsadarśanena bhedapakṣamālambyāha-athaveti ।

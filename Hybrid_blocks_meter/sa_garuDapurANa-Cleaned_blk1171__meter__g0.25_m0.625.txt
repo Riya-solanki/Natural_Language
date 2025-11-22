@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1171 | label: meter | g:0.25 m:0.625 ---
+
+aṣṭamaścāpavatsaśca parito brahmaṇaḥ smṛtāḥ ।
+īśānakoṇādārabhya durge car vaṃśa ucyate ।।

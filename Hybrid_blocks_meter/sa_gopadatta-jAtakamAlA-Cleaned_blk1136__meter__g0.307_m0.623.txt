@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1136 | label: meter | g:0.307 m:0.623 ---
+
+athavā dustyajāḥ kāmā mithyāsaṃkalpalolupaiḥ ।
+ta eva santu te nityāḥ prabhāvo asti yadīdṛśaḥ ।।

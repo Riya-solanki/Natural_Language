@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3142 | label: meter | g:0.272 m:0.595 ---
+
+śraddhāsamanvitair dattaṃ pitṛbhyo nāmagotrataḥ 
+yadāhārās tu te jātās tadāhāratvam eti tat ।।

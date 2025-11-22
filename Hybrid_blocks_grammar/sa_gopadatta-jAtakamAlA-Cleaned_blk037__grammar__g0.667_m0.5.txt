@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 37 | label: grammar | g:0.667 m:0.5 ---
+
+prāṇoparodhasamakālam avaśyabhāvi yat prāpsyasi tvam akṛtajña bahuprakāram । duḥkhaṃ yadā kṣaṇaya t tava tadgajabhayā kṣaṇena ।।

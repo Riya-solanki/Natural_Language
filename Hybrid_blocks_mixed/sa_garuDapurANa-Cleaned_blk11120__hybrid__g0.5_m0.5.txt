@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11120 | label: hybrid | g:0.5 m:0.5 ---
+
+yasmādrudaṃ corvaritaṃ vai cakāra tasmātsa rudrastvaurvasaṃjño babhūva ।
+aurvastu lokānmokṣayogyāṃśca dṛṣṭvā hyatyantaṃ vai viṣayeṣveva niṣṭhān ।।

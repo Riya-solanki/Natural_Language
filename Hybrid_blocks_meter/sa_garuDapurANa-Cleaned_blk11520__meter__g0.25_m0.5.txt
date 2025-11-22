@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11520 | label: meter | g:0.25 m:0.5 ---
+
+śrīnivāsasya vāme tu lakṣmīṃ ca praṇamedvudhaḥ ।
+śrīnivāsasya savye tu dharāyai praṇamecchubhe ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3469 | label: meter | g:0.306 m:0.5 ---
+
+tato amarān brahmasado nivāsinaḥ śrutvātha dhundhurditijānuvāca ।
+brajāma daitya vayamagrajasya sado vijetuṃ tridaśān saśakrān ।।

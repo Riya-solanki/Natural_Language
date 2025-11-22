@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 562 | label: meter | g:0.25 m:0.793 ---
+
+gold, silver bīja
+mṛtanāgaṃ vaṅgaṃ vā śulvaṃ ghanasatvatārakanakaṃ vā ।
+dhmātaṃ tadeva sarvaṃ giriṇādhikaśodhanairvāpāt ।।

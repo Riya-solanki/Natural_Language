@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 660 | label: grammar | g:0.625 m:0.5 ---
+
+atrotpātabhūtayā rājñāmakāṇḍato nāyakasevāparāṅmukhībhāvabuddhyā teṣāṃ rājyabhraṃśo jñāpyate । tenāyamutpātena jñāpyamāna iti caturthyā vācyo jñāpakahetuḥ ।

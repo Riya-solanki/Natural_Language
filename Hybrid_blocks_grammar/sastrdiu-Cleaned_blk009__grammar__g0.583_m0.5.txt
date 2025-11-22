@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 9 | label: grammar | g:0.583 m:0.5 ---
+
+atredaṃ cintyate- kimadhyayanānantaraṃ dharmajijñāsayā gurugṛhe asthātavyam, uta gurugṛhātsamāvartitavyamiti ।
+yadi hi svādhyāyādhyayanavidhinā dharmamātrārthamadhyayanaṃ svardādyarthena vidhīyate tatasmānmātreṇaiva śāstrārthasya samāptatvāt aadhītyasnāyāt' iti smṛtivacanabalena ca samāvartitavyamiti ।

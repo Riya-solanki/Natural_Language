@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 506 | label: grammar | g:0.552 m:0.5 ---
+
+upary-uḍa-gaṇaḥ kṣitau surabhi-citra-puṣpāvalis tathā tad anu candrikā vividha-ratna-lakṣmīr iha ।
+sa tatra śaśa-lāñchanī vimala-vaktra-saṅghā itas tad evam ubhayoḥ sthitir gagana-rāsa-raṅga-śriyoḥ ।।

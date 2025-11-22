@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 303 | label: hybrid | g:0.465 m:0.5 ---
+
+atha tasyupadyati matī kimutālpamātraṃ kṣaṇamātra bhasma nayatī vilayaṃ sumerum 
+ārambhavīrya bhavate vidu bodhisattvo nacireṇa bodhivara lapsyati nāyakānām ।।

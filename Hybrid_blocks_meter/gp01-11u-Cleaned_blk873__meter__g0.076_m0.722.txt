@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 873 | label: meter | g:0.076 m:0.722 ---
+
+kuṭha-dvayaṃ kaṭakaṭa-śabda-mugja-
+vighaṭṭitaṃ sphuṭam aluṭhad dvayor diśoḥ ।
+na dhī-dhṛtiṃ vadhira-vimugdhatām adhi
+vrajann adhi vrajam adadhāt prajā-vrajaḥ ।। [rucirā]

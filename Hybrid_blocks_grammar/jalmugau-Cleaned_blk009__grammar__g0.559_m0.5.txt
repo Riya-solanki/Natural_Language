@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 9 | label: grammar | g:0.559 m:0.5 ---
+
+kāmo nāti napuṃsakasya kulaṭā-vargasya nāti trapā toyaṃ nāti marīcikāsu satataṃ nāti sthiratvaṃ śriyaḥ
+dharmo nāti ca nāstikasya vibhavo nāti pramattāmanaḥ snehānāṃ kaṇikāi nāti gaṇikā-lokasya ca prāyaśaḥ ।।

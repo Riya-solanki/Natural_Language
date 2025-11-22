@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 1152 | label: meter | g:0.255 m:0.769 ---
+
+ityādi ।
+eka evāyamekadeśānāmiti bahuvacanam ।
+atra dvayorapi bahūnāmupakāryopakārakatvaṃ svayamutprekṣaṇīyam ।

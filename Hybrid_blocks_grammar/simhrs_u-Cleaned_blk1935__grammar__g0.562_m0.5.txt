@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1935 | label: grammar | g:0.562 m:0.5 ---
+
+mithyā-tīrthaḥ-bhoḥ ahiṃsā-vādin ! mriyamāṇaḥ prāṇī na rakṣaṇīya iti kiṃ yuṣmad-dharmaḥ ?

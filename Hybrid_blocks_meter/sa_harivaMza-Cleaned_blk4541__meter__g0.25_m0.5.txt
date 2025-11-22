@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4541 | label: meter | g:0.25 m:0.5 ---
+
+taṃ praviṣṭo hṛṣīkeśo dīptaṃ tejonidhiṃ tadā 
+ratha eva sthitaś cāhaṃ sa ca brāhmaṇasattamaḥ ।।

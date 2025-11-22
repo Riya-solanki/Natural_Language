@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6141 | label: meter | g:0.328 m:0.595 ---
+
+ṅasosāmaśca ṣaṣṭhī syātsvāmisambandhamukhyake ।
+ṅayoḥ supo vai saptamī syātsā cādhikaraṇe bhavet ।।

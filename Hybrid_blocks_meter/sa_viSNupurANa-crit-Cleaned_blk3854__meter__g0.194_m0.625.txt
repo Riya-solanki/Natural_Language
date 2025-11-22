@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3854 | label: meter | g:0.194 m:0.625 ---
+
+viṣṇus teṣāṃ pramāṇe ca prabhutve ca vyavasthitaḥ 
+nideśasthāyinas tasya babhūvuḥ sarvayādavāḥ ।।

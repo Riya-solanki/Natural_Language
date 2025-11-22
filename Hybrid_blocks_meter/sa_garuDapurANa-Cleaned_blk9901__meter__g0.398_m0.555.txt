@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9901 | label: meter | g:0.398 m:0.555 ---
+
+na me asti bandhuryamamārgagāmino mayā na kṛtyaṃ dvijadehalipsayā ।
+samprāpya vipratvamatīva durlabhaṃ nādhītavānvedapurāṇasaṃhitāḥ ।
+prāptaṃ suratnaṃ karasaṃsthitaṃ gataṃ dehankvacinnistara yattvayā kṛtam ।।

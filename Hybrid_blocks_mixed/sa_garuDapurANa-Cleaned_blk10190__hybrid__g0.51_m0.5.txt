@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10190 | label: hybrid | g:0.51 m:0.5 ---
+
+evaṃ janāñjaṭhare saṃnidhāya samyakūśete hyaṃbhasi vai sa kalpe ।
+lakṣmīstu sā sarvavedātmikā ca bhaktyā harau nityasaṃvardhitāpi ।।

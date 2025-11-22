@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 840 | label: hybrid | g:0.5 m:0.5 ---
+
+devālayaṃ caityataruṃ catuṣpathaṃ vidyādhikaṃ cāpi guruṃ pradakṣiṇam ।
+mālyānnapānaṃ vasanāni yatnato nānyairdhṛtāṃścāpi hi dhārayed budhaḥ ।।

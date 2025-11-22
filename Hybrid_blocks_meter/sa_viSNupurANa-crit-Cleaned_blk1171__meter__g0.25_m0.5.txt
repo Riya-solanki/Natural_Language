@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1171 | label: meter | g:0.25 m:0.5 ---
+
+viṣṇuḥ śastreṣu yuṣmāsu mayi cāsau yathā sthitaḥ 
+daiteyās tena satyena mā krāmantv āyudhāni vaḥ ।।

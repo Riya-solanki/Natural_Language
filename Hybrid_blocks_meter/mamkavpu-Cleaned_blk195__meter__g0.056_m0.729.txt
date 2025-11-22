@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 195 | label: meter | g:0.056 m:0.729 ---
+
+{śūnyaṃ vāsagṛhaṃ vilokya śayanādutthāya kiñcicchanair-
+nidrāvyājamupāgatasya suciraṃ nirvarṇya patyurmukham ।
+viśrabdhaṃ paricumbya jātapulakāmālokya gaṇḍasthalīṃ
+lajjānamramukhī priyeṇa hasatā bālā ciraṃ cumbitā ।।}

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10311 | label: meter | g:0.25 m:0.831 ---
+
+uvāca para maprītyā saṃstuvan garuḍaṃ hariḥ ।
+śrīkṛṣṇa uvāca ।
+rajorāśyā tamorāśyā sattvarāśyadhikā sadā ।।

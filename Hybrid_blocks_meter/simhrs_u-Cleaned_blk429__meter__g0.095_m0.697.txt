@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 429 | label: meter | g:0.095 m:0.697 ---
+
+ceṣṭayā, yathā-
+prahlāda-vatsala vayaṃ bibhimo vihārād
+asmād iti dhvanita-narmasu gopikāsu । līlā-mṛdu stana-taṭeṣu nakhāṅkurāṇi
+vyāpārayann avatu vaḥ śikhi-piccha-mauliḥ ।।

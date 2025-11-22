@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1562 | label: meter | g:0.194 m:0.5 ---
+
+taṃ tapantam ivādityaṃ tapasā jagad avyayam 
+upatasthur munigaṇā devā devarṣibhiḥ saha ।।

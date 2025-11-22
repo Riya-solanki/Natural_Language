@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8788 | label: meter | g:0.31 m:0.869 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+nākāle mriyate kaściditi vedānuśāsanam ।
+kasmānmṛtyumavāpnoti rājā vā śrotriyopi vā ।।

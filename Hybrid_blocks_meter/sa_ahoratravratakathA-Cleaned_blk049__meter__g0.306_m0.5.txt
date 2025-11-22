@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 49 | label: meter | g:0.306 m:0.5 ---
+
+bhagavan sarvavin nātha punar vaktuṃ tvam arhasi ।
+saṃsāre bahudhā jātis teṣāṃ pracāraṇaṃ katham ।।

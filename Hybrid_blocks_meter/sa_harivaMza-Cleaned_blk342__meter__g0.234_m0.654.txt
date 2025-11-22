@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 342 | label: meter | g:0.234 m:0.654 ---
+
+vṛṣṇivaṃśaprasaṅgena kathyamānaṃ purātanam 
+nityaḥ sarvagataḥ sūkṣmaḥ śāśvataḥ puruṣottamaḥ । 
+yatrotpanno mahātmā sa harir vṛṣṇikule prabhuḥ ।। 
+sarvāsuravināśāya sarvalokahitāya ca । 
+vivasvān kaśyapāj jajñe dākṣāyaṇyām ariṃdama 
+tasya bhāryābhavat saṃjñā tvāṣṭrī devī vivasvataḥ 
+sureṇur iti vikhyātā triṣu lokeṣu bhāminī ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2921 | label: meter | g:0.306 m:0.5 ---
+
+tamāpatantaṃ tridaśeśvarastu doṣṇāṃ sahasreṇa yatābalena ।
+vajraṃ paribhrāmya balasya mūrdhni cikṣepa he mūḍha hato asyudīrya ।।

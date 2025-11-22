@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9871 | label: meter | g:0.25 m:0.75 ---
+
+kārpāsadroṇaśikhare āsīnaṃ tāmrabhājane ।
+yamaṃ haimaṃ prakurvīta lohadaṇḍasamanvitam ।
+ikṣudaṇḍamayaṃ baddhvā plavaṃ sudṛḍhabandhanaiḥ ।।

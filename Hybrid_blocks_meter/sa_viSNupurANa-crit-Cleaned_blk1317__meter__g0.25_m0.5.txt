@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1317 | label: meter | g:0.25 m:0.5 ---
+
+sāma copapradānaṃ ca bhedadaṇḍau tathaiva ca 
+upāyāḥ kathitā hy ete mitrādīnāṃ ca sādhane ।।

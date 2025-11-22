@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1433 | label: grammar | g:0.583 m:0.5 ---
+
+śaśinam uditaṃ lekhāmātraṃ namanti na cetaraṃ gaganasaritaṃ dhatte mūrdhnā haro na nagātmajām ।
+tribhuvanapatir lakṣmīṃ tyaktvā hariḥ priyagopikaḥ paricitaguṇadveṣī loko navaṃ navam icchati ।।

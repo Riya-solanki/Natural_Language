@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 83 | label: grammar | g:0.57 m:0.322 ---
+
+bhāṣye ca śyenādigrahaṇam tatsādhyahiṃsādilakṣaṇārtham ।
+upariṣṭāt hiṃsā hi sā, sā ca pratiṣiddhā iti vivaraṇāt ।
+kecittu lakṣaṇāṃ pariharantaḥ śyenādisvarūpamevārthapadasya vyāvartya manyante, teṣāmeva śyenādayaḥ kartavyā vijñāyante, iti vidheyatvanirākaraṇena pratiṣedhaviṣayatvasamarthanāt ।
+kathaṃ punasteṣāṃ vidheyatvaṃ nirākriyate, tatrāhuḥ- yasya hi vidhiḥ svasiddhyanyathānupapattyānuṣṭhānamākṣipati tadvidheyamityucyate, kāmyeṣu ca karmasu kāmanāvaśādeva pravṛttisiddhestata eva vidhiḥ siddhyannanyathānupapattyabhāvānna svayamanuṣṭhānamākṣipati ।।

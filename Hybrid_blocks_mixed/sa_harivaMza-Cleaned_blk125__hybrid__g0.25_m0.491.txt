@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 125 | label: hybrid | g:0.25 m:0.491 ---
+
+yaḥ sarveṣāṃ vimānānī daivatānāṃ cakāra ha 
+mānuṣāś copajīvanti yasya śilpaṃ mahātmanaḥ ।। 
+surabhiḥ kaśyapād rudrān ekādaśa vinirmame । mahādevaprasādena tapasā bhāvitā satī । 
+ajaikapād ahirbudhnyas tvaṣṭā rudraś ca vīryavān 
+tvaṣṭuś caivātmajaḥ śrīmān viśvarūpo mahāyaśāḥ ।।

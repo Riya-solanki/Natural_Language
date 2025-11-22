@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6049 | label: meter | g:0.25 m:0.625 ---
+
+punarnavātha parṣābhūḥ kaṭhilyā kāruṇā tathā ।
+eraṇḍaścoruvūkaḥ syādāmardo vardhamānakaḥ ।।

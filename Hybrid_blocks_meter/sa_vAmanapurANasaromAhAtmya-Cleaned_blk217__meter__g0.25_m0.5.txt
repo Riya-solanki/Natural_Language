@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 217 | label: meter | g:0.25 m:0.5 ---
+
+yadi mohena me jñānaṃ nākṣiptaṃ syānmahāsura ।
+tatkathaṃ sarvagaṃ jānan hariṃ kaccicchapāmyaham ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6300 | label: meter | g:0.25 m:0.625 ---
+
+evam etad bhavanto atra arthasādhanamantriṇaḥ 
+paramārthaḥ kathaṃ ko atra yūyaṃ nātra vicakṣaṇāḥ ।।

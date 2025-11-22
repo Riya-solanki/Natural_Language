@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4285 | label: meter | g:0.25 m:0.625 ---
+
+yad dhi nādhigataṃ pūrvaiḥ prahrādabaliśambaraiḥ 
+tad idaṃ śauriṇā cittaṃ prāpitaṃ bhavatām iha ।।

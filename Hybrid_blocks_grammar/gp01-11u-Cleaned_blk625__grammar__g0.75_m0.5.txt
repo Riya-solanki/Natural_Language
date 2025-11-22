@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 625 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad-āveśena cāsau bhūmyāṃ praviśac cakratayā vakrībhavad-akṣatayā copari-pāta-parīpāka-prakramaṃ yadā cakre, tadaiva tad-daiva-vaśataḥ kila tasya potasya stana-nidigdha-dugdha-jagdhīcchā jātā । tadā ca mātaram anupalabhya kātara iva nava-kamala-dala-komala-caraṇāsphālanād udghaṭitaṃ nija-śakaṭaṃ pakṣa-vihīnam api kutukād iva rākṣasa-pakṣiṇīvad uḍḍīnaṃ vidhāya vivṛtta-patanatvam āsādayāmāsa sa śāvakaḥ ।

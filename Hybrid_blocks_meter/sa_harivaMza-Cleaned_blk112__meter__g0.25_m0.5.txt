@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 112 | label: meter | g:0.25 m:0.5 ---
+
+arundhatī vasur jāmī lambā bhānur marutvatī 
+saṃkalpā ca muhūrtā ca sādhyā viśvā ca bhārata 
+dharmapatnyo daśa tv etās tāsv apatyāni me śṛṇu ।।

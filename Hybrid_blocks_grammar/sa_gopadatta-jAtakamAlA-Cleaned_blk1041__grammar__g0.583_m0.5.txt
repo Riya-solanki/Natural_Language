@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1041 | label: grammar | g:0.583 m:0.5 ---
+
+tapāṃsy akāleṣv abhivāñchitāni puṣṇanti nārthān manaso anukūlān akālagarbhā iva kanyakānām ajātasārāvayavāṅgaśobhāḥ ।।

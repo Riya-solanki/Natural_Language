@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 707 | label: meter | g:0.25 m:0.75 ---
+
+tasmintīrthavare puṇye śoṇitaṃ samupāvahat ।
+tato bhūtapiśācāśca rākṣasāśca samāgatāḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 315 | label: grammar | g:0.573 m:0.5 ---
+
+yātrālagnaṃ tuhinamarutāṃ bāndhavaḥ kundalakṣmyāḥ kālaḥ so ayaṃ kamalasarasāṃ sampadaḥ kāladūtaḥ ।
+nidrāvyājāj jaḍimavidhurā yatra gāḍhe api mantau vāmāḥ kaṇṭhagraham aśithilaṃ preyasām ādriyante ।।

@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 29 | label: meter | g:0.103 m:0.606 ---
+
+{tāpasī} - ciraṃ jīva 
+pavisa jāde pavisa 
+tavovaṇāṇi ṇāma adihijaṇassa saagehaṃ 
+[ciraṃ jīva । praviśa jāte praviśa । tapovanāni nāmātithijanasya svageham । ]

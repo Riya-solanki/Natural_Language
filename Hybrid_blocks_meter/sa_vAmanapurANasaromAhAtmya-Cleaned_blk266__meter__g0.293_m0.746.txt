@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 266 | label: meter | g:0.293 m:0.746 ---
+
+śukra uvāca
+yajñabhāgabhujo devā vedaprāmāṇyato asura ।
+tvayā tu dānavā daitya yajñabhāgabhujaḥ kṛtāḥ ।।

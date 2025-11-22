@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1821 | label: meter | g:0.306 m:0.5 ---
+
+vāṇī-muraja-kvaṇitaṃ śruti-subhagaṃ kiṃ sudhā-mucaḥ stanitam ।
+jaladasya kim ā jñātaṃ tava madhura-gabhīra-vāg-vilāso' yam ।।

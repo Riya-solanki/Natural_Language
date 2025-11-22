@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3019 | label: meter | g:0.194 m:0.625 ---
+
+teṣām abhāve sarveṣāṃ samānodakasaṃtatiḥ 
+mātṛpakṣasya piṇḍena saṃbaddhā ye jalena vā ।।

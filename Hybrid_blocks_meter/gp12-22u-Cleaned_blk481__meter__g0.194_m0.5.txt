@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 481 | label: meter | g:0.194 m:0.5 ---
+
+tatrāsīn nara-jātīnāṃ grīṣme' pi ṛtu-rāṇ-matiḥ ।
+pika-bhramara-mukhyānāṃ tiraścāṃ tarhi kā kathā? ।। [anuṣṭubh]

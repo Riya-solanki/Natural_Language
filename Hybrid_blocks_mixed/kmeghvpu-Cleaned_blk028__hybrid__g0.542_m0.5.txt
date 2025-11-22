@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 28 | label: hybrid | g:0.542 m:0.5 ---
+
+veṇībhūtapratanusalilāṃ tām atītasya sindhuṃ pāṇḍucchāyāṃ taṭaruhatarubhraṃśibhir jīrṇaparṇaiḥ ।
+saubhāgyaṃ te subhaga virahāvasthayā vyañjayantīṃ kārśyaṃ yena tyajati vidhinā sa tvayaivopapādyaḥ ।।

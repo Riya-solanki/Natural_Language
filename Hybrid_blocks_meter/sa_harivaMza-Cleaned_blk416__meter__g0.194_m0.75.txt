@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 416 | label: meter | g:0.194 m:0.75 ---
+
+devatānām avadhyaś ca mahākāyo mahābalaḥ 
+antarbhūmigatas tatra vālukāntarhito mahān ।।

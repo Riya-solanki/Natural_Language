@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 513 | label: grammar | g:0.646 m:0.5 ---
+
+kimahaṃpratyayagocaro jñātā syāt, tathā sati śarīrameva jānāmi kṛśo ahaṃ gacchāmyahamiti kārśyādibuddhisāmānādhikaraṇyādahaṃbuddhergocaraḥ, ātmanaśca sarvagatasya kārśyādyanupapatteḥ ।।

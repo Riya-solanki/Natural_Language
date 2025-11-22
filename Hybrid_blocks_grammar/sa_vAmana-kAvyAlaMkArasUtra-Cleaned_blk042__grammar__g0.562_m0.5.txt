@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 42 | label: grammar | g:0.562 m:0.5 ---
+
+abhyāso hi karmaṇāṃ kauśalamāvahati । na hi sakṛnnipātamātreṇodabindurapi grāvaṇi nimnatāmādadhāti ।

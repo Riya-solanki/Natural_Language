@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1031 | label: meter | g:0.25 m:1.0 ---
+
+vajravegena niḥkramya buddhasya puratastathā ।
+saṃlikhedvidhivatprājño vajrahuṃkāramaṇḍalam ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1793 | label: grammar | g:0.615 m:0.5 ---
+
+devīṃ vācam upāsate hi bahavaḥ sāraṃ tu sārasvataṃ jānīte nitarām asau gurukulakliṣṭo murāriḥ kaviḥ ।
+abdhir laṅghita eva vānarabhaṭaiḥ kiṃ tv asya gambhīratām āpātālavilagnapīvaravapur jānāti manthācalaḥ ।।

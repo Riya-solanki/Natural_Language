@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 163 | label: meter | g:0.306 m:0.5 ---
+
+sadyo'ṇūnāṃ mūrtayaḥ sambhavanti yasyecchātas tena sadyo'bhidhānaḥ ।
+sadyo mūrtīryogināṃ vā vidhatte sadyomūrtiḥ kṛtyaśaighryān na mūrteḥ ।।

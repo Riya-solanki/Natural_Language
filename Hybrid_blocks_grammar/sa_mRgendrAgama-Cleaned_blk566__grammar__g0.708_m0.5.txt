@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 566 | label: grammar | g:0.708 m:0.5 ---
+
+[ajīrṇāmlarasodgāre] ajīrṇatvādāmlāmburasodgāre [viṇmūtrabādhane] mūtrapurīṣottambhane [chardyāṃ] vāntau na vṛttāyāṃ atisāre ca na vyākhyānaṃ kuryāt। [nāsnātaḥ kṛtamaithunaḥ] na cāpyupabhogānantaramakṛtasnānaḥ san।।

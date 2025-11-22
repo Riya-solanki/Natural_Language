@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3977 | label: meter | g:0.25 m:0.625 ---
+
+brahmatve yasya vaktrebhyaścaturvedamayaṃ vapuḥ ।
+prabhuḥ purātano jajñe tamasmi śaraṇaṃ gataḥ ।।

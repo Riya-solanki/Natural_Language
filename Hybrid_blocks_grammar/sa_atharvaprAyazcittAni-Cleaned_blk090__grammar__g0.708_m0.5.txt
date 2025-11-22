@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 90 | label: grammar | g:0.708 m:0.5 ---
+
+ayaṃ no agnir adhyakṣa iti dvābhyām etena u vā asya saṃtvaramāṇasyāhavanīyagārhapatyau janitāv ayaṃ mā loko anusaṃtanutām ity ।

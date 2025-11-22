@@ -1,0 +1,6 @@
+--- source: brsgor2u-Cleaned.txt | block: 179 | label: meter | g:0.25 m:0.625 ---
+
+pradhānavāde doṣāntaramāha sūtrakāraḥ- saṃbandheti ।
+īśvareṇāsaṃbaddhasya pradhānādeḥ preryatvāyogātsaṃbandho vācyaḥ ।
+sa ca saṃyegaḥ samavāyo vā nāstītyarthaḥ ।
+kāryabalāt preraṇayogyātvākhyaḥ saṃbandhaḥ kalpyatāmityata āha- nāpyanya iti ।

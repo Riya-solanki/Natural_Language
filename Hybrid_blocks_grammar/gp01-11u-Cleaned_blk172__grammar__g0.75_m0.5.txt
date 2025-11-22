@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 172 | label: grammar | g:0.75 m:0.5 ---
+
+[] tadā muhur api harer avadāna-gānato labdha-toṣa-poṣā ghoṣādhipati-dampati-mukhāḥ parama-sukhād atiśasta-vastrālaṅkāra-bhāraṃ tebhyaḥ svayam īhayā vihāpayāmāsuḥ । kintu śravaṇe' pi tṛptir na kptim avāpa, kathaṃ vā tatrāvaśyam eva vaśanīyā sātiḥ sātim āsīdatu? tad anu ca samudbhūta-prema-rasa-rāśir vraja-vāri-rāśiḥ svayam eva nija-nija-hṛdayaṅgama-vraja-maṅgala-śyāmalāṅga-saṅgāna-taraṅga-saṅgha-saṅgitayā viśva-vismaya-kāritāṃ saṅgatavān । tatra ca, gīyamānatayā sannidhīyamānasya tadīya-yaśasaś candramasaḥ samatām anumimīmahe ।

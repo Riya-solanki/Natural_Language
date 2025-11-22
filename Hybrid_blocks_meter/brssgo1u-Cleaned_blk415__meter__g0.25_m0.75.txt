@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 415 | label: meter | g:0.25 m:0.75 ---
+
+FN dehapātānantaryamathaśabdārthaḥ ।
+etat vyaṣṭisamaṣṭikāraṇātmakaṃ hairaṇyagarbhaṃ padam ।
+asminnupāsake mṛte putrādayaḥ śavyaṃ śavasaṃbandhi saṃskārādikarma kurvanti ।
+mānavaṃ manoḥ sarge, āvarte janmamaraṇādyāvṛttiyuktam ।

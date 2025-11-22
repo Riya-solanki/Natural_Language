@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 17 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha kramāgateṣu vatsalatayā samāna-mateṣu tad-ākarṇanārtham akiñcidvādiṣu śrīmad-upanandābhinandādiṣu tad-varṇyamānam anya-mukhād ākarṇya sānanda-vikasita-manda-hasita-bhrājiṣu punaḥ sannanda-nandanau prati śrī-vraja-rāja uvāca-bhavantāv ekāntam anubhavantāv anugamya tau ramya-kātarākṣi-prāntāv asakṛt prātar ārabhya prārthitavantāv iva hyaḥ pūrve' hni samantād bhrātarāv atidūrād adṛkṣātām । tat kim ucyatām?

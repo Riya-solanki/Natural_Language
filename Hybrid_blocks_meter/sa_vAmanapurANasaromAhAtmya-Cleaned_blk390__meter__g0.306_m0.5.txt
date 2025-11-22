@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 390 | label: meter | g:0.306 m:0.5 ---
+
+tava prasādād yakṣendra vānāni saritaśca yāḥ ।
+bhramiṣyāmi ca tīrthāni avighneṃ kuru me sadā ।।

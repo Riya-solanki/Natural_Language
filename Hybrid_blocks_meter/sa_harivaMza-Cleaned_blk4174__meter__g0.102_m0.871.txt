@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4174 | label: meter | g:0.102 m:0.871 ---
+
+bhrājamānam atīvograṃ sarvauṣadhivibhūṣitam 
+tad indravacanāt tvaṣṭā ānayat kāryahetunā 
+pārijātas tu tatraiva keśavenāhṛtaḥ svayam ।।

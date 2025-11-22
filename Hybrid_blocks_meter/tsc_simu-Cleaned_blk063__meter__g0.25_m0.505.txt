@@ -1,0 +1,8 @@
+--- source: tsc_simu-Cleaned.txt | block: 63 | label: meter | g:0.25 m:0.505 ---
+
+pratyakṣānumānaśabdarūpaṃ trividhaṃ pramāṇam ।
+tatra pratyakṣaṃ tāvat śrotrādipañcakaṃ lokocitaśabdādiguṇagrāhakam ।
+anumānaṃ cāpratyakṣārthagrāhakaṃ dhūmādi ।
+śabdastāvat trividho bhavati vāgindriyaviṣayaḥ śrotraviṣayo buddhimātraviṣayaśca ।
+teṣu kaṇṭhatālvādisthalāvacchinnaḥ śabdo vāgīndriyaviṣayaḥ tatkāryatvāt vāgindriyavyavahitaśrotrasthaśca śabdataḥ śabdaḥ śrotrasya viṣayastadgrāhyatvāt ।
+ghaṭa ityādipadāni tu buddhimātrasya viṣayaḥ vakṣyamāṇayuktyā buddhimātragrāhyatvāt ।।

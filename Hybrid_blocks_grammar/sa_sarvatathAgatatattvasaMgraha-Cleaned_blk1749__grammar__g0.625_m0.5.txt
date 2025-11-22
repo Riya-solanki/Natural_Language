@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1749 | label: grammar | g:0.625 m:0.5 ---
+
+atha bhagavān punarapi sarvatathāgatakarmasamayodbhavavajrādhiṣṭhānannāma samādhiṃ samāpadyemāṃ svavi[dyottamāmabhāṣat । oṃ vajra] karmapravartani samaye hūṃ ।।

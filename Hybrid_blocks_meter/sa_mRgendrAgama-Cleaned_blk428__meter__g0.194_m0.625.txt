@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 428 | label: meter | g:0.194 m:0.625 ---
+
+ye api tatpadamāpannāḥ śaivasādhanayogataḥ 
+te tatsthityantamāhlādaṃ prāpya yānti paraṃ padam ।।

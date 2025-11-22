@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4084 | label: meter | g:0.194 m:0.625 ---
+
+sṛjyasvarūpagarbhā ca sṛṣṭibhūtā sanātane 
+bījabhūtā tu sarvasya yajñagarbhābhavas trayī ।।

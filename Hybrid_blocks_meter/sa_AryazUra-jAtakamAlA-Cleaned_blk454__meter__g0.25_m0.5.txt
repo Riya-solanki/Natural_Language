@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 454 | label: meter | g:0.25 m:0.5 ---
+
+evaṃvidhe cārthijane abhyupete dehe vināśinyasukhāspade ca ।
+vimarśamārgo apyanudāttatā syānmātsaryadainyaṃ tu parā tamisrā ।।

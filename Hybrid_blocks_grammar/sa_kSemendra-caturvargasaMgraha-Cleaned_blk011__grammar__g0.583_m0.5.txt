@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 11 | label: grammar | g:0.583 m:0.5 ---
+
+andhaḥ sa eva śrutavarjito yaḥ śaṭhaḥ sa evārthinirarthako yaḥ ।
+mṛtaḥ sa evāsti yaśo na yasya dharme na dhīr yasya sa eva śocyaḥ ।।

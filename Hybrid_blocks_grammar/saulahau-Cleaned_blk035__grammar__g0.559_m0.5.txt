@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 35 | label: grammar | g:0.559 m:0.5 ---
+
+manas tvaṃ vyoma tvaṃ marud asi marut-sārathir asi tvam āpas tvaṃ bhūmis tvayi pariṇatāyāṃ na hi param
+tvam eva svāmānaṃ pariṇamayituṃ viśva-vapuṣā cid-ānandāāraṃ śiva-yuvati bhāvena bibhṛṣe ।।

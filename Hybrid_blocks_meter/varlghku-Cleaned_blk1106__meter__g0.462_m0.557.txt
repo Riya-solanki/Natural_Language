@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1106 | label: meter | g:0.462 m:0.557 ---
+
+māturutsaṃkhyāsaṃbhadrapūrvāyāḥ ।।
+saṃkhyādipūrvasya mātṛśabdasyodādeśaḥ syādaṇ pratyayaśca । ṣāṇmāturaḥ । bhādramāturaḥ ।।

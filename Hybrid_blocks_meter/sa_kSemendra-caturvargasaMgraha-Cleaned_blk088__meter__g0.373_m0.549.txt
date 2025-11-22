@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 88 | label: meter | g:0.373 m:0.549 ---
+
+udyāne mudhacandrikā śaśimukhīgītaṃ suhṛtsatkathā kasyedaṃ na sukhādhikaṃ sukhasakhīṃ prītiṃ parāṃ varṣati ।
+kiṃ tv etat khalasaṅgasarparasanāmātaṅgakarṇāñcalaprauḍhāpāṅgapataṅgapakṣagaṇikānāgendrajālopamam ।।

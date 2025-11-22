@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 748 | label: meter | g:0.272 m:0.845 ---
+
+utpatti-sandhi-śāvalya-śāntayo vyabhicāriṇām ।
+daśāś catasras tatra utpattir bhāva-sambhavaḥ ।।

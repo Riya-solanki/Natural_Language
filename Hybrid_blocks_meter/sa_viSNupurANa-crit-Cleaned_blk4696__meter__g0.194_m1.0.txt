@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4696 | label: meter | g:0.194 m:1.0 ---
+
+savilāsasmitādhāraṃ bibhrāṇaṃ mukhapaṅkajam 
+tuṅgaraktanakhaṃ padbhyāṃ dharaṇyāṃ supratiṣṭhitam ।।

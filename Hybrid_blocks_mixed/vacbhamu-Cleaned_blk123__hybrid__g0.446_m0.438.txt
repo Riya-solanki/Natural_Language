@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 123 | label: hybrid | g:0.446 m:0.438 ---
+
+ana karmaṇā na prajayā dhanena tyāgenaike amṛtatvamānaśuḥ' ।
+iti ।

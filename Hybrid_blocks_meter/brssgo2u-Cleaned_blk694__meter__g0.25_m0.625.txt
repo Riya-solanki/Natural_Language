@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 694 | label: meter | g:0.25 m:0.625 ---
+
+trasareṇugandhaścetsphuṭo na syādityarthaḥ ।
+ato gandhasya puṣpādisthasyaiva guṇavyatireko vācya iti bhāvaḥ ।
+gandho na guṇiviśliṣṭaḥ guṇatvāt, rūpavaditi śaṅkate-rūpeti ।
+viśleṣasya pratyakṣatvādbādha ityāha-neti ।।

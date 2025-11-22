@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1082 | label: grammar | g:0.75 m:0.5 ---
+
+atra udare valayāvalirekhāḥ citram । avalayan acalayan kare valayaḥ kaṭakamavalayamiti kartṛkriyāpadayorekavacanabahuvacane śliṣṭe iti vacanaśleṣasya tārābhirindurivetyupamāyāśva viveko dṛsyata iti śabdobhayālaṅkārasaṅkaro ayam ।

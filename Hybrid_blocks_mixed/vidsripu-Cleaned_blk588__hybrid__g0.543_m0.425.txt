@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 588 | label: hybrid | g:0.543 m:0.425 ---
+
+gāḍhāvadhaḥkṛtavalitritayau susaṅgau tuṅgau stanāv iti tayos talam ārtam āgāt ।
+tasyāḥ sphuṭaṃ hṛdayam ity api na smareṣūṃs tau rakṣataḥ praviśato vimukho atha vā kva ।।
+vallaṇasya

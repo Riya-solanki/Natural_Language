@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2581 | label: hybrid | g:0.521 m:0.5 ---
+
+yeṣāṃ hute agnau haviṣā ca tṛptirye bhuñjate vipraśarīrasaṃsthāḥ ।
+ye piṇḍadānena mudaṃ prayānti tṛpyantu te asminpitaro annatoyaiḥ ।।

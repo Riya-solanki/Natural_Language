@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 523 | label: meter | g:0.292 m:0.5 ---
+
+kathamindriyabhedaḥ, indriyābhāve api jñāturekasya pratyabhijñānāt yo ahaṃ rūpamadrākṣaṃ so ahaṃ

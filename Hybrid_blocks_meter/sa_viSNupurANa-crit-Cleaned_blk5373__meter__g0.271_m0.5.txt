@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5373 | label: meter | g:0.271 m:0.5 ---
+
+sakalabhuvanasūtir mūrtir asyāṇusūkṣmā viditasakalavedyair jñāyate yasya nānyaiḥ 
+tam ajam akṛtam īśaṃ śāśvataṃ svecchayainaṃ jagadupakṛtimartyaṃ ko vijetuṃ samarthaḥ ।।

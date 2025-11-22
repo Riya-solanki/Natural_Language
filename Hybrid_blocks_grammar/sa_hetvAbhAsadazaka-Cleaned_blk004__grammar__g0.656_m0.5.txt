@@ -1,0 +1,4 @@
+--- source: sa_hetvAbhAsadazaka-Cleaned.txt | block: 4 | label: grammar | g:0.656 m:0.5 ---
+
+sarvaṃ vastu sukhāvahaṃ tava punaḥ kautaskutīyaṃ vyathā kasmād evam udīryate jagad idaṃ yat tanmayaṃ bhāṣase ।
+hetus savyabhicāra eṣa virahāt dṛṣṭāntayor ity ayaṃ saṃlāpas saha lakṣmaṇena viyujaḥ sītāpateḥ pātu vaḥ ।।

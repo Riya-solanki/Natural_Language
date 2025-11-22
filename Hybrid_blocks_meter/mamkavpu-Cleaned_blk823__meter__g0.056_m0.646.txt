@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 823 | label: meter | g:0.056 m:0.646 ---
+
+{gṛhītaṃ yenāsīḥ paribhavabhayānnocitamapi
+prabhāvādyasyābhūnna khalu tava kaścinna viṣayaḥ ।
+parityaktaṃ tena tvamasi sutaśokānna tu bhayā-
+dvimokṣye śastra tvāmahamapi yataḥ svasti bhavate ।।}

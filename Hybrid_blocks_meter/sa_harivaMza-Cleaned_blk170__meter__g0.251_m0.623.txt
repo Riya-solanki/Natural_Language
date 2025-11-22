@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 170 | label: meter | g:0.251 m:0.623 ---
+
+tāṃ kaśyapaḥ prasannātmā samyagārādhitas tayā 
+vareṇa cchandayām āsa sā ca vavre varaṃ tadā ।।

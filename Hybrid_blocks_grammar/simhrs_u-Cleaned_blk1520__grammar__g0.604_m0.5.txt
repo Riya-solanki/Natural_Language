@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1520 | label: grammar | g:0.604 m:0.5 ---
+
+yathā veṇī-saṃhāre, kṛṣṇaḥ-ahaṃ punaś cārvākeṇa rakṣasā vyākulīkṛtaṃ bhavantam upalabhyārjunena saha tvaritataram āyātaḥ ।

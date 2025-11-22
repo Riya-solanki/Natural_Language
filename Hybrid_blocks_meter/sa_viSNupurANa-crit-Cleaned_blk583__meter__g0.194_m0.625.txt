@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 583 | label: meter | g:0.194 m:0.625 ---
+
+rāghavatve abhavat sītā rukmiṇī kṛṣṇajanmani 
+anyeṣu cāvatāreṣu viṣṇor eṣā sahāyinī ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1459 | label: meter | g:0.272 m:0.595 ---
+
+nakṣatragrahaviprāṇāṃ vīrudhāṃ cāpy aśeṣataḥ 
+somaṃ rājye adadhad brahmā yajñānāṃ tapasām api ।।

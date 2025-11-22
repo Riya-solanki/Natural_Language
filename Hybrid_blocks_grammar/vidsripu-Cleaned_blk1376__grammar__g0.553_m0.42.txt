@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1376 | label: grammar | g:0.553 m:0.42 ---
+
+puṇyāgnau pūrṇavāñchaḥ prathamam agaṇitaploṣadoṣaḥ pradoṣe pānthas taptvā prasuptas tadanu tatatṛṇe dhāmani grāmadevyāḥ ।
+utkampī karpaṭārdhe jarati parijaḍe chidriṇi cchinnanidro vāte vāti prakāmaṃ himakaṇini kaṇan koṇataḥ koṇam eti ।।
+bāṇasyaitau

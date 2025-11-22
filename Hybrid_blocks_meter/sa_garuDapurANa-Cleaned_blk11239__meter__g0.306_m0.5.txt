@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11239 | label: meter | g:0.306 m:0.5 ---
+
+yairna śrutaṃ bhāgavataṃ purāṇaṃ yairna śrutaṃ brahmakāṇḍaṃ purāṇam ।
+teṣāṃ janma vyarthamāhurmamahāntastasmācchrāvyā harivārtā sadaiva ।।

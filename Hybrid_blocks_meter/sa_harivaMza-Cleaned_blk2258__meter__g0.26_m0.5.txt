@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2258 | label: meter | g:0.26 m:0.5 ---
+
+hriyate hi balāt prajñā prājñasyāpi sato mama 
+asmād dhi me bhayaṃ kaṃsān nirghṛṇād vai śiśor vadhe ।।

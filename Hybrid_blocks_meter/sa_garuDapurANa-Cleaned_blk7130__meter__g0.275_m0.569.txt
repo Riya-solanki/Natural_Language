@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7130 | label: meter | g:0.275 m:0.569 ---
+
+ahaṃbrahmāsmivākyācca svanubhūtiphalārthakam ।
+aikyajñānaṃ tu hi bhavedvedāntāddūrato dhruvam ।।
+jñānādajñānakāryasya nivṛttyā muktiraikyataḥ ।।
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe brahmagītāsāravarṇanaṃ nāmaikonacatvāriṃśaduttaradviśatatamo adhyāyaḥ

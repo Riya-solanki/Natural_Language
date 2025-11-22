@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2287 | label: hybrid | g:0.521 m:0.5 ---
+
+sa brāhmaṇaḥ prāha mamādya tuṣṭiryeneha jātā śṛṇu tad dvijendra ।
+bahūn gaṇān vai mama tapyatastapaḥ saṃvatsarān kāyaviśoṣaṇārtham ।।

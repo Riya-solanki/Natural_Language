@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 253 | label: meter | g:0.102 m:1.0 ---
+
+pratyātmaniyataṃ bhogabhedato vyavasīyate 
+sarvato yugapadvṛtter anutpādādasarvagam 
+bhinnajātīyamapyekaphalaṃ dīpāṅgavastuvat ।।

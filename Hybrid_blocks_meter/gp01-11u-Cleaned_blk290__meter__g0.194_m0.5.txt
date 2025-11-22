@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 290 | label: meter | g:0.194 m:0.5 ---
+
+"dāntena damitaḥ so' haṃ śamitaḥ śānta-cetasā ।
+jñaptena jñapitaḥ pūrṇenācāryeṇāsmi pūritaḥ ।। [anuṣṭubh]
+tena channena cābhūvaṃ chāditānṛta-vāk punaḥ ।
+kathaṃ vā spāśitān kuryāṃ guṇāṃs tān spaṣṭam iṣṭadān" ।। [anuṣṭubh]

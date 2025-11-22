@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 890 | label: meter | g:0.264 m:0.852 ---
+
+hetubhiḥ svagatair eva prāyaḥ strī-nīcayor ayam । 
+maraṇa-vyavasāyāntas tatra bhū-pariveṣṭanam ।
+urastāḍana-nirbheda-pātoccai rodanādayaḥ ।।

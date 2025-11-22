@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 227 | label: hybrid | g:0.334 m:0.417 ---
+
+kathaṃ punardvitvasyāvagamaḥ, na smaraṇam ।
+taddhetvabhāvāt, na grahaṇam, aprāptasya cakṣuṣā grahaṇasaṃbhavāt ।
+ucyate- deśadvayaṃ netreṇa prāptaṃ candraśca, tayośca saṃsargo doṣavaśādavagamyate, deśadvaye candraṃpratītyadeśagataṃ dvitvaṃ doṣavaśāccandre adhyavasyati ।
+tathā pittavartipītatvaṃ śaṅkhasvarūpaṃ ca cakṣuṣā gṛhṇandoṣavaśātsaṃbandhaṃ budhyata ityavagantavyam ।।

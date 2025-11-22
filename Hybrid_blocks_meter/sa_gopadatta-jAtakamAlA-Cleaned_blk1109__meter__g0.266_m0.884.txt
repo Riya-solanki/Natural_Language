@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1109 | label: meter | g:0.266 m:0.884 ---
+
+navavayasi bhaginyo manmathāvāsabhūte
+nṛpatikulavibhūtiśrīsukhaṃ paryudasya ।
+ṛṣibhir api purāṇair duṣkaraṃ saṃprapannā
+vratam idam iti tuṣṭo asmy adya vaḥ kiṃ vṛṇīdhvam ।।

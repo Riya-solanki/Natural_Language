@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 959 | label: hybrid | g:0.465 m:0.5 ---
+
+so' yaṃ te ramaṇo rādhe labdhaḥ kṛcchreṇa yas tvayā ।
+tvad-vinā-bhāvataḥ saukhyaṃ yaś ca kutrāpi nāptavān ।। [anuṣṭubh]

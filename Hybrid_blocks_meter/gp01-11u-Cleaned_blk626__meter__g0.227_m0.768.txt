@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 626 | label: meter | g:0.227 m:0.768 ---
+
+[] idam eva sāścaryatayānuditaṃ śrīmad-arjunena viṣṇu-dharme
+tālocchritāgraṃ guru-bhāra-sāram
+āyāma-vistāravad adya jātaḥ ।
+pādāgra-vikṣepa-vibhinna-bhāṇḍaṃ
+cikṣepa ko' nyaḥ śakaṭaṃ yathā tvam? ।।iti ।

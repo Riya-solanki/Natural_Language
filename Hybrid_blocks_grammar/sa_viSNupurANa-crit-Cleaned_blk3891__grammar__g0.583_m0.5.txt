@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3891 | label: grammar | g:0.583 m:0.5 ---
+
+śāṃtanus tu mahīpālo abhavat । ayaṃ ca tasya ślokaḥ pṛthivyāṃ gīyate ।

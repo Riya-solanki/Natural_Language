@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 432 | label: meter | g:0.25 m:0.5 ---
+
+imāni duḥkhāṅkuśakhaṇḍitāni manāṃsi naḥ śokaparikṣatāni ।
+bhavantam āsādya vasantakāle vanāntarāṇīva vijṛmbhitāni ।।

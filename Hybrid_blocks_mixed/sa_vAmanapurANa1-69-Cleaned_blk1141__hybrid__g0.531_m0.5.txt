@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1141 | label: hybrid | g:0.531 m:0.5 ---
+
+iti ravivacanādathāha kumbhajanmā kutamiti viddhi mayā hi nīcaśṛṅgam ।
+tava kiraṇajito bhaviṣyate mahīdhro mama caraṇasamśritasya kā vyathā te ।।

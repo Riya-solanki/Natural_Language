@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 652 | label: meter | g:0.25 m:0.625 ---
+
+tatra paśvādīnāṃ śāstrārthajñānādisāmagryabhāvātkarmaṇyaśaktiḥ ।
+indrādeḥ svadevatāke karmaṇi svoddeśena dravyatyāgāyogādaśaktiḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 66 | label: hybrid | g:0.538 m:0.5 ---
+
+kim idam ucitaṃ śuddheḥ śliṣṭaṃ svapakṣasamunnateḥ phalapariṇater yuktaṃ prāptaṃ guṇapraṇayasya vā 
+kṣaṇam upagataḥ karṇopāntaṃ parasya puraḥ sthitān viśikha nipatan krūraṃ dūrān nṛśaṃsa nihaṃsi yat ।।

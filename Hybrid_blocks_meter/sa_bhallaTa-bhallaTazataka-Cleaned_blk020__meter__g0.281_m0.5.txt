@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 20 | label: meter | g:0.281 m:0.5 ---
+
+atyunnativyasaninaḥ śiraso adhunaiṣa svasyaiva cātakaśiśuḥ praṇayaṃ vidhattām 
+asyaitad icchati yadi pratatāsu dikṣu tāḥ svacchaśītamadhurāḥ kva nu nāma nāpaḥ ।।

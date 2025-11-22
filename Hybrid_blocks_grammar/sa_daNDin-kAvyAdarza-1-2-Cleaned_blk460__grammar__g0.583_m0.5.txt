@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 460 | label: grammar | g:0.583 m:0.5 ---
+
+vardhate saha pānthānāṃ mūrcchayā cūtamañjarī patanti ca samaṃ teṣām asubhir malayānilāḥ ।।

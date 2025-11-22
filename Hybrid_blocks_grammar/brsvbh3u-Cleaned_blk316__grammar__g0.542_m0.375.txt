@@ -1,0 +1,4 @@
+--- source: brsvbh3u-Cleaned.txt | block: 316 | label: grammar | g:0.542 m:0.375 ---
+
+śamadamādyupetas syāt tathāpi tu tadvidhes tadaṅgatayā teṣām apy avaśyānuṣṭheyatvāt ।
+।।

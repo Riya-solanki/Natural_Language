@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1833 | label: meter | g:0.306 m:0.625 ---
+
+pañjavarṣa sahasrāṇi dhārayantyāḥ pitāmaha ।
+garbhasya varttate kālo na papāta ca karhicit ।।

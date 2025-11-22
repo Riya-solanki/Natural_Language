@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4572 | label: meter | g:0.295 m:0.565 ---
+
+bahūny āścaryabhūtāni keśavasya mahātmanaḥ 
+karmāṇy uktāni vai rājan bhūyaś caiva śrutāni te ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3811 | label: meter | g:0.25 m:0.5 ---
+
+śrīryamaśca dvitīyāyāṃ pañcamyā pārvatī śriyā ।
+nāgāḥ ṣaṣṭhyāṃ kārtikeyaḥ saptamyāṃ bhāskaror'thadaḥ ।।

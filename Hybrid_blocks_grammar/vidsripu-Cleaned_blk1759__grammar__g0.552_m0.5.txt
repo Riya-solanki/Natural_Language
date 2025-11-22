@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1759 | label: grammar | g:0.552 m:0.5 ---
+
+āpātamātrarasike sarasīruhasya kiṃ bījam arpayitum icchasi vāpikāyām ।
+kālaḥ kalir jagad idaṃ na kṛtajñam ajñe sthitvā haniṣyati tavaiva mukhasya śobhām ।।

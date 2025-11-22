@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 446 | label: meter | g:0.275 m:0.721 ---
+
+kaṅkelīkānanālīraviralavilasatpallavā nartayantaḥ ityatra kaṅkelīpadam ।।
+liṅgādhyāhārau ।।
+liṅgaṃ cādhyāhāraśca liṅgādhyāhārāvatiprayuktau prayojyāviti । yathā

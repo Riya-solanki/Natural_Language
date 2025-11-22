@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6481 | label: meter | g:0.25 m:0.625 ---
+
+pātālaṃ samanuprāptas tato vedaśirā muniḥ 
+prāptavān etad akhilaṃ sa vai pramataye dadau ।।

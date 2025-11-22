@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 46 | label: hybrid | g:0.5 m:0.5 ---
+
+dharmarājaḥ pitṛpatiḥ samavartī paretarāṭ kṛtānto yamunābhrātā śamano yamarāḍ yamaḥ kālo daṇḍadharaḥ śrāddhadevo vaivasvato antakaḥ rākṣasaḥ koṇapaḥ kravyāt krvyādo asrapa āśaraḥ

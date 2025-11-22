@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4231 | label: meter | g:0.306 m:0.5 ---
+
+kiṃ vā tvayā dvijaśreṣṭha paurāṇī na śrutā kathā ।
+yā vṛttā malaye pūrvaṃ kośakārasutasya tu ।।

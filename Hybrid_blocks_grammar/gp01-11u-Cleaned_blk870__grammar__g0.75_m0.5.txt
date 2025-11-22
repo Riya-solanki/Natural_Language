@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 870 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra tu pura-dvāra-purastād-varti vātāvarta-vartita-nartanam iva yamalam arjuna-dvayam asya netra-vartmani vartate sma । krameṇa cāsau tayor antara eva vikramate sma iti ।

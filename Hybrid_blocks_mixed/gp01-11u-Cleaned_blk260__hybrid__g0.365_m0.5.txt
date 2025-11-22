@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 260 | label: hybrid | g:0.365 m:0.5 ---
+
+[] vrajarājaḥ sasmitam uvāca, "bālye dṛṣṭo' yaṃ nātīva niṣṭaṅkituṃ śakyate ।"
+[] taṃ ca satkṛtyovāca, "mānya, svayam agrataḥ samagram ehi" iti pṛṣṭavāṃś ca, "samprati bhavatāṃ kutra bhavanam?"

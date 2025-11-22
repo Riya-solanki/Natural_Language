@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 146 | label: hybrid | g:0.476 m:0.5 ---
+
+emeva prajña iha durbalu bodhisattvo kiṃcāpi prasthihati bhajyati antareṇa 
+so vā upāyabalaprajñaparigṛhīto na ca bhajyate spṛśati bodhi nararṣabhāṇām ।।

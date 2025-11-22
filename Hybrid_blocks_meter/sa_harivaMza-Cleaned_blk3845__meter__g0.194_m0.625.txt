@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3845 | label: meter | g:0.194 m:0.625 ---
+
+dantavaktrasya tanayaṃ suvaktram amitaujasam 
+sahasrākṣasamaṃ yuddhe māyāsu ca viśāradam ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1284 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ pravartite garbhe vartite arbudasaṃnibhe 
+vāyuḥ praveśanaṃ cakre saṃgataḥ paramātmanā ।। 
+tato aṅgāni visṛjati bibharti parivartayan । 
+sa pañcadhā śarīrastho bhidyate vardhate punaḥ 
+prāṇāpānau samānaś ca udāno vyāna eva ca ।।

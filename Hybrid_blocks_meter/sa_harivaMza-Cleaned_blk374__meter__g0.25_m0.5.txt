@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 374 | label: meter | g:0.25 m:0.5 ---
+
+manuḥ prajāpatis tv āsīt sāvarṇaḥ sa tapodhanaḥ 
+bhāvyaḥ so anāgate tasmin manuḥ sāvarṇike antare ।।

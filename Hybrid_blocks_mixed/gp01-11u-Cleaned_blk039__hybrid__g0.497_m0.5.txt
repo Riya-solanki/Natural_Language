@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 39 | label: hybrid | g:0.497 m:0.5 ---
+
+[] āvirvrajati ca tasmin sa-vraja-vāsi-jana-vraje vraja-rāja-tanūje kiṃ kiṃ vā tad vyañjijiṣayā
+nāvirvrajati? tac ca yuktam evotpaśyāmaḥ; vrajapadam hi sarva-samīcīna-samūham ūhayati ।।

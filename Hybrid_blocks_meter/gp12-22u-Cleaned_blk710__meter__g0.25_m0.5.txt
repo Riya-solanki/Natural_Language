@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 710 | label: meter | g:0.25 m:0.5 ---
+
+aho bhāgyam aho bhāgyaṃ nanda-gopa-vrajaukasām ।
+yan-mitraṃ paramānandaṃ pūrṇa-brahma sanātanam ।।[] ityādi ।

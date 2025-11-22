@@ -1,0 +1,7 @@
+--- source: brssgo3u-Cleaned.txt | block: 334 | label: meter | g:0.25 m:0.5 ---
+
+jaiministvācāryo dharmaṃ phalasya dātāraṃ manyate ।
+ata eva hetoḥ śrutarupapatteśca ।
+śrūyate tāvadayamarthaḥ svargakāmo yajeta ityevamādiṣu vākyeṣu ।
+tatra ca vidhiśruterviṣayabhāvopagamādyāgaḥ svargasyotpādaka iti gamyate ।
+anyathā hyananuṣṭhātṛko yāga āpadyeta tatrāsyopadeśavaiyarthyaṃ syāt ।

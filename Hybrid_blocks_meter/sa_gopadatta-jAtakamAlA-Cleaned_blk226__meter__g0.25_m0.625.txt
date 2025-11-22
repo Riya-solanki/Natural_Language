@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 226 | label: meter | g:0.25 m:0.625 ---
+
+bhavaprabandhavyasanānuṣaṅginī matir viparyāsatamo'vaguṇṭhitā ।
+paraṃ samutkṣipya nipātayaty adho vipattipātālatale duruttare ।।

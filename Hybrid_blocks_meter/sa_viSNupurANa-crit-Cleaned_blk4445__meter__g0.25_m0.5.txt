@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4445 | label: meter | g:0.25 m:0.5 ---
+
+tasmāt prāvṛṣi rājānaḥ sarve śakraṃ mudā yutāḥ 
+mahaiḥ sureśam arcanti vayam anye ca mānavāḥ ।।

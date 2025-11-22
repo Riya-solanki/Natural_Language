@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 254 | label: meter | g:0.194 m:0.75 ---
+
+ityātivāhikamidaṃ vapurasya jantoś citsaṅgacidgahanagarbhavivarti leśāt 
+naitāvatālamiti bhauvanatattvapaṅktim ādhāradehaviṣayābhyudayāya vakṣye ।।

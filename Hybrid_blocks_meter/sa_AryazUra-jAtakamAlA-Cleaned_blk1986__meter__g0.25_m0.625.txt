@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1986 | label: meter | g:0.25 m:0.625 ---
+
+tasmādvisarjayitumarhasi tasya yāvadāśāvighātamathitaṃ hṛdayaṃ dvijasya ।
+saṃmānanāmbupariṣekanavikaromi tasmātsubhāṣitamadhūni ca saṃbibharmi ।।

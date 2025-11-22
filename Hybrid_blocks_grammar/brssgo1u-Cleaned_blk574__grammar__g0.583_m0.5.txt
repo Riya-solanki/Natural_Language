@@ -1,0 +1,3 @@
+--- source: brssgo1u-Cleaned.txt | block: 574 | label: grammar | g:0.583 m:0.5 ---
+
+nanvabhidhyāne paraḥ puruṣa uktaḥ, īkṣaṇe tu parātparaḥ, kathamitara itaratra pratyabhijñāyata iti ।

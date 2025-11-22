@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 64 | label: meter | g:0.25 m:0.5 ---
+
+emeva pañca imi pāramitā jinānāṃ prajñāya pāramita nāmatayā bhavanti 
+sarvajñatāya pariṇāmayamāṇa sarve ṣaḍapīha ekanayamarchati bodhināmā ।।

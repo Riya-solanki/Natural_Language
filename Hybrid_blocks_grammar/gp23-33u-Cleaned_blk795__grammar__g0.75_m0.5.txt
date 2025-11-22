@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 795 | label: grammar | g:0.75 m:0.5 ---
+
+[] hanta ! tāsām eva savirodhas tad-avarodhaḥ sambhavatā-dṛtīyamānā dvitīya-pati-bhāvanā ca, na punar anyasyāḥ kasyāścid api । yā khalu tad-avarodha-virodha-vāñchā । sā vā kathaṃ prema-prathana-mayī syād iti na budhyāmahe ।

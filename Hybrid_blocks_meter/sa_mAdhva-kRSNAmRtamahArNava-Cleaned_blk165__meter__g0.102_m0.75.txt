@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 165 | label: meter | g:0.102 m:0.75 ---
+
+pārayitvodakenāpi bhuñjāno naiva duṣyati
+aśitānaśitā yasmād āpo vidvadbhir īritāḥ
+ambhasā kevalenātha kariṣye vratapāraṇam ।।

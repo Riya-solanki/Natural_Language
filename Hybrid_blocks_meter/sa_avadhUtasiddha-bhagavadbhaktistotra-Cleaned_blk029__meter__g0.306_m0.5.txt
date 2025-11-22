@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 29 | label: meter | g:0.306 m:0.5 ---
+
+utsāhaśaktirahitān vikalān apuṇyān mandān nirastasamayānn aghṛṇānn asatyān ।
+avāñchitena viniyojayatā phalena luptas tvayā puruṣakāraviśeṣavāda ।।

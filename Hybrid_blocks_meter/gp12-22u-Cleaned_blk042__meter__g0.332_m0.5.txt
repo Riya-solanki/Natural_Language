@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 42 | label: meter | g:0.332 m:0.5 ---
+
+āhūtaṃ kurute hariḥ sakhi-janaṃ, so' py enam evaṃ tathā
+vakti śliṣyati jighrati prahasati skandhaṃ spṛśan karṣati ।
+āstāṃ tac ca mahādbhutaṃ śṛṇuta bho yady antaraṃ tarkyate
+naivātmā pṛthag asya tasya ca bhaved ity eva vijñāyate ।। [śārdūlavikrīḍitam]

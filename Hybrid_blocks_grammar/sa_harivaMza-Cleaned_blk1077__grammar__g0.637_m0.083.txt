@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1077 | label: grammar | g:0.637 m:0.083 ---
+
+sa tatra vāsayām āsa śvaphalkaṃ paramārcitam 
+śvaphalkaparivarte ca vavarṣa harivāhanaḥ ।। 
+sā mātur udarasthā tu bahūnvarṣagaṇān kila । nivasantī na vai jajñe garbhasthāṃ tāṃ pitābravīt ।। jāyasva śīghraṃ bhadraṃ te kimartham iha tiṣṭhasi । provāca cainaṃ garbhasthā kanyā gāṃ ca dine dine ।। yadi dadyāṃ tato adyāhaṃ jāyayiṣyāmi tāṃ pitā । tathety uvāca taṃ cāsyāḥ pitā kāmam apūrayat । 
+śvaphalkaḥ kāśirājasya sutāṃ bhāryām avindata 
+gāndinīṃ nāma sā gāṃ tu dadau vipreṣu nityaśaḥ ।।

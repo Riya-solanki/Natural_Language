@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 848 | label: meter | g:0.25 m:0.75 ---
+
+vajrabandhaṃ dṛḍhīkṛtya madhyamotthasamāṅkurā ।
+kanyasāgryā mukhotthānānsamayaḥ samayāgrīṇāṃ ।।

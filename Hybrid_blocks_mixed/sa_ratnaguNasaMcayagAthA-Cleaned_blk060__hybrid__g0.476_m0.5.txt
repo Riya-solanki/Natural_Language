@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 60 | label: hybrid | g:0.476 m:0.5 ---
+
+maṇiratna sarvi guṇayukta anarghaprāpto yasmiṃ karaṇḍaki bhave sa namasyanīyaḥ 
+tasyāpi uddhṛta spṛhanti karaṇḍakasmiṃ tasyaiva te guṇa mahāratanasya bhonti ।।

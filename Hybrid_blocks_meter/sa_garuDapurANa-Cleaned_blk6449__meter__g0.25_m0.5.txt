@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6449 | label: meter | g:0.25 m:0.5 ---
+
+vācaṃ vāgīśvarīṃ puṣṭiṃ tuṣṭiñca paritarpayet ।
+umāmarundhatīṃ caiva śacīṃ mātarameva ca ।।

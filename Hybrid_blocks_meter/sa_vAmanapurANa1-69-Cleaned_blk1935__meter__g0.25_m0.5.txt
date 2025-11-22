@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1935 | label: meter | g:0.25 m:0.5 ---
+
+svasti te śaṅkaro bhaktyā sapatnīko vṛṣadhvajaḥ ।
+pāvakaḥ svasti tubhyaṃ ca karotu śikhivāhana ।।

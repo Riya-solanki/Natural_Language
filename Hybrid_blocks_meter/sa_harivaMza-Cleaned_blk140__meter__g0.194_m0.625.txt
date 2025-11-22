@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 140 | label: meter | g:0.194 m:0.625 ---
+
+purākalpe hi bāṇena prasādyomāpatiṃ prabhum 
+pārśvato me vihāraḥ syād ity evaṃ yācito varaḥ ।। 
+bāṇasya cendradamano lohityām udapadyata । gaṇas teṣāṃ tu rājendra śatasāhasrasaṃmitaḥ । 
+hiraṇāksasutāḥ pañca vidvāṃsaḥ sumahābalāḥ 
+jharjharaḥ śakuniś caiva bhūtasaṃtāpanas tathā 
+mahānābhaś ca vikrāntaḥ kālanābhas tathaiva ca ।।

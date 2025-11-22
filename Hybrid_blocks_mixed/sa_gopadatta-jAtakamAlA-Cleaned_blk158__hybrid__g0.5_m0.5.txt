@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 158 | label: hybrid | g:0.5 m:0.5 ---
+
+pratyarthikair iva samudyatamaṇḍalāgraiḥ skandhair hatā vayam akāraṇabaddhavairaiḥ ।
+āyāsitāś ca viṣayair viṣakumbhakalpais tac chidyatāṃ bhavasukhavyasanānurāgaḥ ।।

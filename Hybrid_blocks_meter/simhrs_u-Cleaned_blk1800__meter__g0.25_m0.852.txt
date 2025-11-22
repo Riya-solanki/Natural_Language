@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1800 | label: meter | g:0.25 m:0.852 ---
+
+tathā ca śākuntale-
+tavāsmi gīta-rāgeṇa hāriṇā prasabhaṃ hṛtaḥ ।
+eṣa rājeva duṣyantaḥ sāraṅgeṇātiraṃhasā ।।

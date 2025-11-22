@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 766 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tad evaṃ vipratrākṛta-satrādikaḥ purohita-hita-sahitaḥ śrī-vraja-yuva-rāja-mahitaḥ sa khalu vijñānāṃ samājaḥ puraskṛta-vraja-rājas tad-yajñāvaśiṣṭaṃ param aviśiṣṭam annam upabhujya, veśa-viśeṣaṃ saṃyujya, gīta-nibaddhaṃ sa-śraddhatayā hari-caritaṃ prati rasan hasan, viśvasan, lasan, parito govardhanaṃ paricakrāma ।

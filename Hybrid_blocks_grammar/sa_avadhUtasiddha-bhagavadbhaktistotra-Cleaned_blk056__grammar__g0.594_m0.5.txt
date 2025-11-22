@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 56 | label: grammar | g:0.594 m:0.5 ---
+
+etāni pāsi bhuvanāni yadā vigṛhya seyaṃ vibhūtir atulā tava tāvad āstām ।
+dakṣaprasūtim api te bhvanatraye asmin kaścin na vetti bhavatā saha ko vivādaḥ ।।

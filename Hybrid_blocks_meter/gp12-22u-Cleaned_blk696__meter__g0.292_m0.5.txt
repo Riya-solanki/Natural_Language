@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 696 | label: meter | g:0.292 m:0.5 ---
+
+[] atha śatamanyor api parjanyatayā tad-āśrayatvam āśaṅkya sāṅkhya-saṅkhyāvatāṃ matāt pratyācacakṣe-

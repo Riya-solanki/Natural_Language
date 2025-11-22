@@ -1,0 +1,9 @@
+--- source: brssbh1u-Cleaned.txt | block: 488 | label: meter | g:0.25 m:0.909 ---
+
+naitadevaṃ syāt ।
+kasmāt asaṃbhavāt ।
+nahi jīvo buddhyādyupādhiparicchedābhimānī sannākāśenopamīyeta ।
+nacopādhidharmānabhimanyamānasyāpahatapāpmatvādayo dharmāḥ saṃbhavanti ।
+prapañcitaṃ caitatprathamasūtre ।
+atirekāśaṅkāparihārāyātra tu punarupanyastam ।
+paṭhiṣyati copariṣṭāt aanyārthaśca parāmarśaḥ' iti ।।

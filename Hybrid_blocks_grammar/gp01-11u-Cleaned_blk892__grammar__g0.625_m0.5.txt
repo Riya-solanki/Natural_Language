@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 892 | label: grammar | g:0.625 m:0.5 ---
+
+[] sarvāḥ sāsram ūcuḥ, hanta, sā khalv antar bahir apy atikomalā tavedṛśā-lāpena tāpenātimlāsyati ।

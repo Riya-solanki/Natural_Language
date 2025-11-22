@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 202 | label: meter | g:0.333 m:0.5 ---
+
+[] atha hāsa-sahitam upajahāsa ca, sā maghavat-pradhānā dhenukam aghajid-abhiprāyam abhiprayatī । yathā,

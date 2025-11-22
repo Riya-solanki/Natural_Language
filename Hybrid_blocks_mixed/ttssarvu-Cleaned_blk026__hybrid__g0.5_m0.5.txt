@@ -1,0 +1,3 @@
+--- source: ttssarvu-Cleaned.txt | block: 26 | label: hybrid | g:0.5 m:0.5 ---
+
+abhito buddhyante jñāyante vastūnyābhirityabhibuddhayaḥ buddhīndriyāṇi cakṣuḥśrotraghrāṇarasanatvagākhyāni rūpaśabdagandharasasparśabodhakāni ।।

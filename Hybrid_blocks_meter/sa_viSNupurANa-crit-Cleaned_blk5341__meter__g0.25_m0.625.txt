@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5341 | label: meter | g:0.25 m:0.625 ---
+
+bhartṛbāhumahāgarvād ruṇaddhy enam atho śacī 
+tat kathyatām alaṃ kṣāntyā satyā hārayati drumam ।।

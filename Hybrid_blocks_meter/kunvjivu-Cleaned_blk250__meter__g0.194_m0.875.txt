@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 250 | label: meter | g:0.194 m:0.875 ---
+
+ityantaraślokaḥ ।
+evaṃ vicitramabhidhāya madhyamamupakramate

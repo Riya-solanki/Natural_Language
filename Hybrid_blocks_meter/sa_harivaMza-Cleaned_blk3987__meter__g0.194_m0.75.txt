@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3987 | label: meter | g:0.194 m:0.75 ---
+
+vivāde kupito rāmaḥ kṣeptāraṃ krūrabhāṣiṇam 
+jaghānāṣṭāpadenaiva prasahya yadupuṃgavaḥ ।।

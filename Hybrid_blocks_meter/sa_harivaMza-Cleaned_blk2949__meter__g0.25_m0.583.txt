@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2949 | label: meter | g:0.25 m:0.583 ---
+
+narakādhyuṣitaḥ panthā gantavyas tena dāruṇaḥ 
+apāpe pāpahṛdayo yaḥ pāpam anutiṣṭhati ।। 
+sa yāti narakaṃ ghoraṃ punarāvṛttidurlabham । 
+ahaṃ vā svajanaḥ ślāghyaḥ sa vā ślāghyataraḥ sutaḥ 
+niyamair guruvṛttena tvayā bāndhavakāmyayā ।।

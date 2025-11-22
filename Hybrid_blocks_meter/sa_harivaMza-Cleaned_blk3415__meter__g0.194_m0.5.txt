@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3415 | label: meter | g:0.194 m:0.5 ---
+
+prāptāḥ smo vidhavāśabdaṃ tvayi nāthe nipātite 
+apramattāḥ pramattāḥ sma kṛtāntena nirākṛtāḥ ।।

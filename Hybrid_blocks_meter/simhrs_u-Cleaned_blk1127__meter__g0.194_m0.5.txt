@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1127 | label: meter | g:0.194 m:0.5 ---
+
+dhyāna-vyājam upetya cintayasi kām unmīlya cakṣuḥ kṣaṇaṃ
+paśyānaṅga-śarāturaṃ janam imaṃ trātāpi no rakṣasi ।
+mithyā-kāruṇiko' si nirghūṇataras tvattaḥ kuto' nyaḥ pumān
+serṣyaṃ māra-vadhūbhir ity abhihito buddho jinaḥ pātu vaḥ ।।

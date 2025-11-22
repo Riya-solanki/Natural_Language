@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 64 | label: meter | g:0.25 m:0.5 ---
+
+sravanti sarvataḥ srotāḥ srotasāṃ kiṃ nivāraṇaṃ ।
+srotasāṃ saṃvaraṃ brūhi kena srotaḥ pidhīyate ।।

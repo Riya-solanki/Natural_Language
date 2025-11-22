@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 71 | label: meter | g:0.306 m:0.5 ---
+
+atha kṣitīśasya tamatyudāraṃ gātreṣvapi sveṣu nivṛttasaṅgam ।
+vijñāya dānāśrayiṇaṃ vitarkaṃ patipriyā strīva mahī cakampe ।।

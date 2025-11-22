@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 216 | label: grammar | g:0.625 m:0.5 ---
+
+d antaḥśabdatattvaṃ tu bhāgair ekaṃ prakāśitam m āhur apare śabdaṃ tasya vākye tathaikatām ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1007 | label: hybrid | g:0.521 m:0.5 ---
+
+[] atha prātar api pūrvavat kathā prathate sma ।

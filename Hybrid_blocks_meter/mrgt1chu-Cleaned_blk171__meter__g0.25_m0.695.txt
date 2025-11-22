@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 171 | label: meter | g:0.25 m:0.695 ---
+
+teṣāmanantaḥ sūkṣmaśca tathā caiva śivottamaḥ ।
+ekanetraikarudrau ca trimūrtiścāmitadyutiḥ ।।
+śrīkaṇṭhaśca śikhaṇḍī ca rājarājeśvareśvarāḥ ।

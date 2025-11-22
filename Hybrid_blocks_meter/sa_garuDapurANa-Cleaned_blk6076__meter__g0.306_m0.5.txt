@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6076 | label: meter | g:0.306 m:0.5 ---
+
+tugākṣīrī śubhā vāṃśī vijñeyā vaṃśalocanā ।
+mṛdvikā ca smṛtā drākṣā tathā gostanikā matā ।।

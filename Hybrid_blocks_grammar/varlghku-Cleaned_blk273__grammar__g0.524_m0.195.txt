@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 273 | label: grammar | g:0.524 m:0.195 ---
+
+dhātvādeḥ ṣaḥ saḥ ।।
+snuk, snug, snuṭ, snuḍ । evaṃ snik, snig, sniṭ, sniḍ ।। viśvavāṭ, viśvavāḍ । viśvavāhau । viśvavāham ।।

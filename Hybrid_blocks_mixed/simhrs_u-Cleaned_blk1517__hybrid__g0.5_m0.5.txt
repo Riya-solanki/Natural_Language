@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1517 | label: hybrid | g:0.5 m:0.5 ---
+
+rājā -sakhe ! priyo' haṃ khalu tava ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1423 | label: meter | g:0.326 m:0.5 ---
+
+na lakṣyate yadi kuhacicca kāraṇaṃ kathaṃ nu tad dṛḍhamasadeva bhāṣase ।
+na dṛśyate sadapi hi kāraṇāntarāddinātyaye vimalavivārkamaṇḍalam ।।

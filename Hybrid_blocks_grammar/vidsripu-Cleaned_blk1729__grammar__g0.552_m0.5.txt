@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1729 | label: grammar | g:0.552 m:0.5 ---
+
+yad baddhordhvajaṭaṃ yad asthimukuṭaṃ yac candramandārayor dhatte dhāma ca dāma ca smitalasatkundendranīlaśriyoḥ ।
+yat khaṭvāṅgarathāṅgasaṅgavikaṭaṃ śrīkaṇṭhavaikuṇṭhayor vande nandimahokṣatārkṣyapariṣannānāṅkam ekaṃ vapuḥ ।।

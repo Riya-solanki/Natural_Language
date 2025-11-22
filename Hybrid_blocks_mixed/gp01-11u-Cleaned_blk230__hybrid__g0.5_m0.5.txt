@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 230 | label: hybrid | g:0.5 m:0.5 ---
+
+[] lakṣitāyāṃ ca dakṣiṇāyāṃ, madhumaṅgalaḥ sa tu narma-śarmāmṛtam adugdha । "bho vraja-mahanīyāḥ, nāsyām akṣīṇāyām api dakṣiṇāyām īrṣayā vayaṃ vīkṣaṇīyāḥ । bhavatāṃ bhuñjānānām ekaika-vyañjana-mūlya-tulyatayāsmākaṃ samastāpi sā na prastāvayati ।"

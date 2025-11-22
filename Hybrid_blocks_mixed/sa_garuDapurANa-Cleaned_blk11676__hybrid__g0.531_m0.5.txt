@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11676 | label: hybrid | g:0.531 m:0.5 ---
+
+tatra snātvā bhūvarāhasya marteḥ śṛṇoti yo lakṣaṇaṃ samyageva ।
+sa tena puṇyaṃ samupaiti devi sa muktibhāṅ nātra vicāryamasti ।।

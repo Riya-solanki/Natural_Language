@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3529 | label: grammar | g:0.583 m:0.5 ---
+
+sa tv asamañjā bālyād evāpavṛttaḥ pitā cāsyācintayad ayam atītabālyo buddhimān bhaviṣyatīti ।।

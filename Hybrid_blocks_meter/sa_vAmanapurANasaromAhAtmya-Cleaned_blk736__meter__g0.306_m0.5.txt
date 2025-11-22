@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 736 | label: meter | g:0.306 m:0.5 ---
+
+saṃnihityāṃ yathā śrāddhaṃ rāhugraste divākare ।
+tathā śrāddhaṃ tatra kṛtaṃ nātra kāryā vicāraṇā ।।

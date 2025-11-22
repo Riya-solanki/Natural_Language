@@ -1,0 +1,3 @@
+--- source: mrgt1chu-Cleaned.txt | block: 178 | label: grammar | g:0.625 m:0.5 ---
+
+te ca mantrāḥ parāparamantreśvaravyaktayā śivaśaktyā vyāpāritā yogyatānurūpyeṇa kadācitkeṣāṃcidanugrahaṃ kurvanti na tu yogyatānapekṣam atiprasaṅgāt ।।

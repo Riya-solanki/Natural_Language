@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1213 | label: meter | g:0.272 m:0.863 ---
+
+prāgvahateṣṭhak ।।
+tadvahatītyataḥ prāk ṭhagadhikriyate ।।

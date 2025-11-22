@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 96 | label: meter | g:0.25 m:0.5 ---
+
+prakramasya ca nirvāhe mahatāṃ hainyasūcane ।
+prayuktasya vkacit kāvye kliṣṭasya guṇathā bhavet ।।

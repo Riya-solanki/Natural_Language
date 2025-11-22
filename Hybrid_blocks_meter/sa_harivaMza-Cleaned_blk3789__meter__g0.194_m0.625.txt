@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3789 | label: meter | g:0.194 m:0.625 ---
+
+śilpimukhyo asti devānāṃ prajāpatisutaḥ prabhuḥ 
+viśvakarmā svamatyā vai purīṃ saṃsthāpayiśyati ।।

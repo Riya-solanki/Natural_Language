@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2391 | label: meter | g:0.25 m:0.5 ---
+
+yuvabhiḥ sthaviraiś caiva gopair vyagrakarair bhṛśam 
+viśasadbhiḥ kuṭhāraiś ca kāṣṭhāny api tarūn api ।।

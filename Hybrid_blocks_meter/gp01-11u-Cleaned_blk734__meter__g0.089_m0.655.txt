@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 734 | label: meter | g:0.089 m:0.655 ---
+
+[] atha mantravat kiñcid vacanāt punar amūr amuṣyāś cetanām ācinvate sma, yathā,
+mṛtyur mṛto, mṛtyu-hṛtas tu jīvitas
+tad etam ādatsva tanūja-vatsale ।
+ity ukti-mantrānvita-bālakauṣadhaṃ
+vinyasya tāṃ pratyudajījivann amūh ।। [upajāti ]

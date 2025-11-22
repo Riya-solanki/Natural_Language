@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 100 | label: grammar | g:0.729 m:0.5 ---
+
+na kila paśyati satyam ayaṃ janas tava vapur dvayadṛṣṭimalīmasaḥ tad api sarvavidāśritavatsalaḥ kim idam āraṭitaṃ na śṛṇoṣi me ।।

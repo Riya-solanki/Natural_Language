@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 410 | label: grammar | g:0.625 m:0.5 ---
+
+karkyādīn sañcaraṃś tadvad ahnah paścārdham eva sah। tulādīṃs trīn mṛgādīṃś ca tadvad eva suradviṣām।।

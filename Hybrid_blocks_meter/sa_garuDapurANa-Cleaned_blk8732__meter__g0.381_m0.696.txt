@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8732 | label: meter | g:0.381 m:0.696 ---
+
+pretarāja uvāca ।
+mayā svādu sadā bhuktaṃ dattaṃ paryuṣitaṃ dvija ।।

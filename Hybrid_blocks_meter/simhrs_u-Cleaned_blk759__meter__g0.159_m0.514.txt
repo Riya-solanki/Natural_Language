@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 759 | label: meter | g:0.159 m:0.514 ---
+
+yathā-
+ko vā jeṣyati soma-vaṃśa-tilakān asmān raṇa-prāṅgaṇe
+hantāsmāsu parāṅmukho hata-vidhiḥ kiṃ durgam adhyāsmahe ।
+asmat-pūrva-nṛpān asau nihatavān dīrghān dhig asmad-bhujān
+kiṃ vākyair anapota-siṃha-nṛpateḥ sevaiva kṛtyaṃ param ।।

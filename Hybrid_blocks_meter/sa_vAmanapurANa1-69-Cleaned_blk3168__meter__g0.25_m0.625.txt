@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3168 | label: meter | g:0.25 m:0.625 ---
+
+sā cāpyāroḍhumicchantī bhartāraṃ vai pativratā ।
+nivāritā tadāmātyairna tathāpi vyatiṣṭhatā ।।

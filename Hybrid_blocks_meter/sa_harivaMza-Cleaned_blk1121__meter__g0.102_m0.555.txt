@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1121 | label: meter | g:0.102 m:0.555 ---
+
+jajñe ca rukmakavacāt parājit paravīrahā 
+jajñire pañca putrās tu mahāvīryāḥ parājitāḥ 
+rukmeṣuḥ pṛthurukmaś ca jyāmaghaḥ pālito hariḥ ।।

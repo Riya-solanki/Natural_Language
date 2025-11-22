@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5706 | label: meter | g:0.302 m:0.806 ---
+
+madhuyaṣṭī śarkarā ca vāsakasya raso madhu ।
+etatpītaṃ raktapittakāmalāpāṇḍuroganut ।।

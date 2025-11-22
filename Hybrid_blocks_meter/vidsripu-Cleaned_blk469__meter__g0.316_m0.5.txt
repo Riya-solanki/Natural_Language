@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 469 | label: meter | g:0.316 m:0.5 ---
+
+śikhariṇi kva nu nāma kiyacciraṃ kimabhidhānam asāv akarot tapaḥ ।
+taruṇi yena tavādharapāṭalaṃ daśati bimbaphalaṃ śukaśāvakaḥ ।।

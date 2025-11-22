@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 505 | label: meter | g:0.306 m:0.5 ---
+
+kṣapitasakalarāgakleśajālāndhakārā gaganatalanilīnā yogino ye namasyāḥ ।
+sphuritakaṭakahārāḥ prajvalanmaulayo ye punar amarasamūhās te api śṛṇvantu santaḥ ।।

@@ -1,0 +1,7 @@
+--- source: vidsripu-Cleaned.txt | block: 682 | label: hybrid | g:0.423 m:0.473 ---
+
+bhrūbhaṅgo gaṇitaś ciraṃ nayanayor abhyastam āmīlanaṃ roddhuṃ śikṣitam ādareṇa hasitaṃ maune abhiyogaḥ kṛtaḥ ।
+dhairyaṃ kartum api sthirīkṛtam idaṃ cetaḥ kathaṃcin mayā baddho mānaparigrahe parikaraḥ siddhis tu daive sthitā ।।
+dharmakīrteḥ।।
+।var{@parigrahe parikaraḥ।lem
+।emend, @parigrahaḥ parikare ।edKG}

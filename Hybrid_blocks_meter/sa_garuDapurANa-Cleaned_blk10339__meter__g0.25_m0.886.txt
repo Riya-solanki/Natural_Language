@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10339 | label: meter | g:0.25 m:0.886 ---
+
+garuḍa uvāca ।
+mahattattvasya catvāro bhāgāsteṣu rajastrayaḥ ।
+tamasastveka eveti tvayoktaṃ garuḍadhvaja ।।

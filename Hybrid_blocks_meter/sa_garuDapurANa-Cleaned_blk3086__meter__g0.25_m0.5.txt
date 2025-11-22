@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3086 | label: meter | g:0.25 m:0.5 ---
+
+aduṣṭāpatitaṃ bhāryā yauvane yā parityajet ।
+saptajanma bhavetstrītvaṃ vaidhavyaṃ ca punaḥ punaḥ ।।

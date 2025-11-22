@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1353 | label: meter | g:0.25 m:0.625 ---
+
+sūkṣmavajraprayogeṇa candrabimbaṃ svamātmanā ।
+bhāvayaṃ svayamātmānaṃ patedyatra patetsa tu ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11618 | label: hybrid | g:0.531 m:0.5 ---
+
+na tārakohaṃ narakācca subhrūrna vai bhartā nāpi pitrādayaśca ।
+na vai mātā nānujādiśca sarvaḥ sarvatrātā viṣṇurato na cānyaḥ ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 351 | label: meter | g:0.25 m:0.5 ---
+
+{na ceha jīvitaḥ kaścit kāladharmamupāgataḥ ।
+priyo vā yadi vā dveṣyaḥ prāṇināṃ gatirīdṛśī ।।}

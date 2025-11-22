@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5222 | label: meter | g:0.25 m:0.5 ---
+
+dadhyājyaṃ taṇḍulīyaṃ ca gṛhadhṛmo niśā tathā ।
+piṣṭaṃ pānaṃ tathā kṣaudraṃ sindhṛtthasya vipāntakam ।।

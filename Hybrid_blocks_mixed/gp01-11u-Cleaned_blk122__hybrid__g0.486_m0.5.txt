@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 122 | label: hybrid | g:0.486 m:0.5 ---
+
+na bhajati lakṣmīs tulanām, iti kiṃ stutaye ghaṭeta rādhāyāḥ ।
+yā lakṣmīm api jetrīḥ, sva-rucā gopīḥ pṛthak kurute ।। [āryā]

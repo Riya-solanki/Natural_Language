@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 209 | label: hybrid | g:0.371 m:0.464 ---
+
+yathā ca kāni ca puṇyabhāñji bhajantyabhikhyāmakṣarāṇi ।।
+iti ।

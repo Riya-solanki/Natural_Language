@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 7 | label: grammar | g:0.569 m:0.5 ---
+
+kālaś cet karuṇā-paraḥ kali-yugaṃ yady adya dharma-priyaṃ nistriṃśo yadi peśalo viṣadharaḥ saṃtoṣadāyī yadi
+agniś ced atiśītalaḥ khala-janaḥ sarvoakārī sa ced āyuṣyaṃ yadi vā bhaviṣyati viṣaṃ veśyāpi tad-rāgiṇī ।।

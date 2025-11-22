@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 1061 | label: hybrid | g:0.449 m:0.463 ---
+
+darśayataścāpare śrutismṛtī nirvikārameva rūpaṃ bhagavataste ca paṭhite ।
+etaduktaṃ bhavati-yadi brūṣe saguṇe brahmaṇyupāsyamāne yathā tadguṇasya niravagrahatvamapi vastuto astīti niravagrahatve viduṣā prāptavyamiti tadanena vyabhicārayate ।
+yathā savikāre brahmaṇyupāsyamāne vastutaḥ sthitamapi nirvikārarūpaṃ na prāpyate tatkasya hetoḥ, atatkratutvādupāsakasya ।
+tathā tadguṇopāsanayā vastutaḥ sthitamapi niravagrahatvaṃ nāpyate ।
+tattvopāsanāsu puruṣakratutvāt ।
+upāsakasya tadakratutvaṃ ca niravagrahatvasyopāsanavidhyagocaratvādvidhyadhīnatvāccopāsanāsu puruṣasvātantryābhāvātsvātantrye vā prātibhatvaprasaṅgāditi ।।

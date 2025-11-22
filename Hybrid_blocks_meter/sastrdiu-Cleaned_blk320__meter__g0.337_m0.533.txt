@@ -1,0 +1,10 @@
+--- source: sastrdiu-Cleaned.txt | block: 320 | label: meter | g:0.337 m:0.533 ---
+
+prameyābhāvātṣaṣṭhaṃ pramāṇaṃ nāstītyāha tasya dṛśyādarśanānantaraṃ nāstīha bhūtale ghaṭa ityevamupajāyamānasya jñānasya kimālambanam ।
+na bhūtalam ।
+satyapi ghaṭe prasaṅgāt ।
+tathā gavi yo aśvo na bhavatīti pratyayo rūpe ca raso na bhavatīti tasya kimālambanam ।
+na gorūpam ।
+tasya pratiyogyanapekṣapratītikatvāt ।
+aśvo na bhavatīti jñānasya pratiyogyapekṣatvāt ।
+gorūpālambanatve siṃhādāvaśvo ayaṃ na bhavatīti pratyayo na syāt gorūpasya tatrābhāvāt ।।

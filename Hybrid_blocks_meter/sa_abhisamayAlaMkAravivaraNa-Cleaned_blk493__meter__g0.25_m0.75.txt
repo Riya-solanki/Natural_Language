@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 493 | label: meter | g:0.25 m:0.75 ---
+
+svābhāvikaḥ sasāmbhogo nairmāṇiko aparastathāḥ ।
+dharmakāyaḥ sakāritraścaturdhā samudīritaḥ ।।

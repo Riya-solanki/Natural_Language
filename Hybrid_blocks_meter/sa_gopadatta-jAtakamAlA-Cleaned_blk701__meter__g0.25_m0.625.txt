@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 701 | label: meter | g:0.25 m:0.625 ---
+
+sravann iva prasādas te lakṣyate mukhapaṅkajāt ।
+puṇyasaṃbhogavātsalyam udgiraṃl lakṣyase girā ।।

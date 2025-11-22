@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 591 | label: meter | g:0.266 m:0.521 ---
+
+varṣāḥ śītalatākarair nija-guṇair āsāṃ manaḥ-śāntatām
+ānetuṃ kila yad yad atra vidadhuḥ sarvaṃ ca tat pratyuta ।
+dveṣaṃ tā bata menire yad anu ca prāṇālibhiḥ śaṅkitaṃ
+hanta dviṣṭa-suhṛd-daśeyam uditā hā hā vidheḥ kā gatiḥ? ।। [śārdūla]

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8872 | label: meter | g:0.25 m:0.625 ---
+
+ātmānaṃ ca pitṝṃścaiva sa nayedyamamandiram ।
+saṃgṛhītastu yaḥ keciddāsīputtrādayaśca ye ।।

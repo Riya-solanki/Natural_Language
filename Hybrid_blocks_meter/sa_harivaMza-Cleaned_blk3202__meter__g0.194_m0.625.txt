@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3202 | label: meter | g:0.194 m:0.625 ---
+
+dhanuḥśālāṃ gatau tau tu bālāv apariśaṅkitau 
+himavadvanasaṃbhūtau siṃhāv iva balotkaṭau ।।

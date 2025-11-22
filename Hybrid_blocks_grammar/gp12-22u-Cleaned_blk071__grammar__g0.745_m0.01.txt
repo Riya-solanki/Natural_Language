@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 71 | label: grammar | g:0.745 m:0.01 ---
+
+īdṛśas tanayo jātas tava gopa-dharā-pate ।
+ātmārāmāś ca yat-kīrtyā yānti drāg ātma-vismṛtim ।। [anuṣṭubh]
+[] atha śrīdāmādi-camatkāra-sāra-prada-prathanasya tad-etat-kathanasya śravaṇānte, saiveyaṃ līleti bhrānte, tata eva bahir vṛttita upaśānte goloka-dharitrī-kānte jane ca śreṇī-prānte, tau sūta-sutau yathāvad baddhāñjalitayāvasthitau cirata eva pūrva-pūrvavat prīti-dānena vāsaṃ prasthāpitau vidhāya te sarve yathāsvam āvāsādikam āsāditavantaḥ ।

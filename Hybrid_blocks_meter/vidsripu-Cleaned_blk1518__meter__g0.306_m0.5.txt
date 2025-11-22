@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1518 | label: meter | g:0.306 m:0.5 ---
+
+mā te bhavatu śatrūṇāṃ yā śrutiḥ śrūyate kvipaḥ ।
+sārdhaṃ bandhubhir aṅgasya yā parasmaipade sici ।।

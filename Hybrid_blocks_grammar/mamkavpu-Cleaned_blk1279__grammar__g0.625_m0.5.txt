@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1279 | label: grammar | g:0.625 m:0.5 ---
+
+atra raṇasyāntaḥpuratvamāropyamāṇaṃ śabdo apāttam maṇḍalāgralatāyāḥ nāyikātvam ripusenāyāśca pratināyikātvam arthasāmarthyādavasīyate iti ekadeśe viśeṣeṇa vartanādekadeśavivarti ।

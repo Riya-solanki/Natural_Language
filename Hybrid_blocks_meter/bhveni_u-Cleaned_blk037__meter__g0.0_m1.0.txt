@@ -1,0 +1,5 @@
+--- source: bhveni_u-Cleaned.txt | block: 37 | label: meter | g:0.0 m:1.0 ---
+
+sahadevaḥ
+saroṣam
+ārya

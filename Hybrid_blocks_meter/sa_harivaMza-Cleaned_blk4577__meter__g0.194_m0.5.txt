@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4577 | label: meter | g:0.194 m:0.5 ---
+
+puraṃ prāgjyotiṣaṃ gatvā punas tena mahātmanā 
+samudramadhye duṣṭātmā narako dānavo hataḥ ।।

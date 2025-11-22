@@ -1,0 +1,30 @@
+--- source: brsvbh1u-Cleaned.txt | block: 663 | label: meter | g:0.261 m:0.63 ---
+
+parātparastu darśanaviṣayaḥ ।
+naca tattvaviṣayameva sarvaṃ darśanaṃ, anṛtaviṣayasyāpi tasya darśanāt ।
+naca mananaṃ darśanaṃ, tacca tattvaviṣayameveti sāṃpratam ।
+mananādbhedena tatra tatra darśanasya nirdeśāt ।
+naca mananamapi tarkāparanāmāvaśyaṃ tattvaviṣayam ।
+yathāhuḥ-'tarko apratiṣṭhaḥ'iti ।
+tasmādaparameva brahmeha dhyeyam ।
+tasya ca paratvaṃ śarīrāpekṣayeti ।
+evaṃ prāpta ucyate-'īkṣaṇadhyānayorekaḥkāryakāraṇabhūtayoḥ ।
+artha autsargikaṃ tattvaviṣayatvaṃ yathekṣateḥ ।।
+adhyānasya hi sākṣātkāraḥ phalam ।
+sākṣātkāraścotsargatastattvaviṣayaḥ ।
+kvacittu bādhakopanipāte samāropitagocaro bhavet ।
+na cāsatyapavāde śakya utsargastyaktum ।
+tathā cāsya tattvaviṣayatvāttatkāraṇasya dhyānasyāpi tattvaviṣayatvam ।
+apica vākyaśeṣeṇaikavākyatvasaṃbhave na vākyabhedo yujyate ।
+saṃbhavati ca parapuruṣaviṣayatvenārthapratyabhijñānāt samabhivyāhārāccaikavākyatā ।
+tadanurodhena ca parātpara ityatra parāditi jīvaghanaviṣayaṃ draṣṭavyam ।
+tasmāttu paraḥ puruṣo dhyātavyaśca draṣṭavyaśca bhavati ।
+tadidamuktam-na cātra jīvaghanaśabdena prakṛto abhidhyātavyaḥ paraḥ puruṣaḥ parāmṛśyate ।
+kintu jīvaghanāt parāt paro yo dhyātavyo draṣṭavyaśca tameva kathayituṃ jīvaghano jīvaḥ ।
+khilyabhāvamupādhivaśādāpannaḥ sa ucyate ।
+asa sāmabhirunnīyate brahmalokam'ityanantaravākyanirdiṣṭo brahmaloko vā jīvaghanaḥ ।
+sa hi samastakaraṇātmanaḥ sūtrātmano hiraṇyagarbhasya bhagavato nivāsabhūmitayā karaṇaparivṛtānāṃ jīvānāṃ saṃghāta iti bhavati jīvaghanaḥ ।
+tadevaṃ trimātroṅkārāyatanaṃ parameva brahmopāsyam ।
+ata eva cāsya deśaviśeṣādhigatiḥ phalamupādhimattvāt, krameṇa ca samyagdarśanotpattau muktiḥ ।
+abrahma veda brahmaiva bhavati'iti tu nirupādhibrahmavedanaviṣayā śrutiḥ ।
+aparaṃ tu brahmaikaikamātrāyatanamupāsyamiti mantavyam ।।

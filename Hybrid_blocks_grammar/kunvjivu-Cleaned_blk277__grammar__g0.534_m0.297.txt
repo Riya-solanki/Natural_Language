@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 277 | label: grammar | g:0.534 m:0.297 ---
+
+ityevaṃvidhe asminnupādeyavarge śabdādyupeyasamūhe yadarthaṃ yannimittaṃ kaveḥ saṃbandhinī pratibhā śaktiḥ samyak sāvadhānatayā saṃrabhate vyavasyati tasya vastunaḥ prastutatvāt kāvyābhidhānasya yo guṇaḥ sa saubhāgyamityucyate bhaṇyate ।।
+tacca na pratibhāsaṃrambhamātrasādhyam, kintu tadvihitasamastasāmagrīsaṃpādyamityāha

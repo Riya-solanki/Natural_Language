@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2180 | label: grammar | g:0.646 m:0.5 ---
+
+athānyatamo duṣṭavānarastasya kālāntarābhivyaktāṃ prakṛtibhadratāṃ dayānuvṛttyā ca vigatakrodhasaṃrambhatāmavetya nāsmādbhayamastīti taṃ mahāsattvaṃ tena tena vihiṃsākrameṇa bhṛśataramabādhata ।

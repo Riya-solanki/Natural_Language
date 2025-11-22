@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1541 | label: meter | g:0.194 m:0.75 ---
+
+tatsurāsurasaṃyuktaṃ yuddham atyadbhutaṃ babhau 
+dharmādharmasamāyuktaṃ darpeṇa vinayena ca ।।

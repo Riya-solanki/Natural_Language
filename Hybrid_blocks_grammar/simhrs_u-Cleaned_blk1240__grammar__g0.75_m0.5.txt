@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1240 | label: grammar | g:0.75 m:0.5 ---
+
+ity upakramya, śatānandaḥ -aho laṅkādhipater apūrva-garva-garimā । yan mamāpi śatānandasya na niścinute cetaḥ । kiṃ bhaviṣyati ( padyād anantaram] ity antena rāvaṇasya sītā-rāmaṇīyaka-darśanena śatānandasya rāvaṇotsāha-darśanena ca tayoś citta-camatkāra-kathanāt paribhāvanā ।

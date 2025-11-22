@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10690 | label: meter | g:0.328 m:0.595 ---
+
+śrīvatsalakṣmaṃ galaśobhikaustubhaṃ saṃpaśyantaṃ suprasannārdradṛṣṭyā ।
+dṛṣṭvā hariṃ brahma nārāyaṇaṃ ca puraḥ sthitaṃ bhaktavaśyaṃ dayālum ।।

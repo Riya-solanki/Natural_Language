@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 26 | label: meter | g:0.25 m:0.5 ---
+
+śraddhayā tarati hy ogham apramādena cārṇavaṃ ।
+vīryeṇa duḥkhaṃ tyajati prajñayā pariśudhyati ।।

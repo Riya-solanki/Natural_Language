@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1127 | label: meter | g:0.111 m:0.521 ---
+
+yasmād eti paraiti paśyati puraḥ paścāt tathā pārśvataḥ
+svātmānaṃ paritaḥ stṛṇoty anupadaṃ sambhrāmyati bhrāmyati ।
+loptrā loptrasa-vatsa-vatsapa-gaṇaṃ sandigdham ālokate
+tasmān me pratibhāty asāv anudiśaṃ vaktraṃ dadhat stenakaḥ ।। [śārdūla]

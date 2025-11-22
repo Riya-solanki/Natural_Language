@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 751 | label: grammar | g:0.646 m:0.5 ---
+
+indriyāvān madintamas taṃ vo māva kramiṣam । achinnaṃ tantuṃ pṛthivyā anu geṣam iti hutvā ।।

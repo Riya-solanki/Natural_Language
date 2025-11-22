@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 230 | label: meter | g:0.335 m:0.813 ---
+
+dīrghavṛttordhvapuruṣadhūmacāndanatādibhiḥ 
+yathābhāsā vibhidyante deśakālāvibhedinaḥ ।।

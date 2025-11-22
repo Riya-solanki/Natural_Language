@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 223 | label: grammar | g:0.75 m:0.5 ---
+
+tvamevaṃ saundaryā sa ca ruciratāyāṃ paricitaḥ kalānāṃ sīmānaṃ parimiha yuvāmeva bhajathaḥ । ayi dvandvaṃ diṣṭyā taditi subhage saṃvadati vā- mataḥ śeṣaṃ cet syājjittamiha tadānīṃ guṇitayā ।।

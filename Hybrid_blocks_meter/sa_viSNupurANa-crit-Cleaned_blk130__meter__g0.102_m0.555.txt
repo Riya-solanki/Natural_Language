@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 130 | label: meter | g:0.102 m:0.555 ---
+
+avyaktenāvṛto brahmaṃs taiḥ sarvaiḥ sahito mahān 
+ebhir āvaraṇair aṇḍaṃ saptabhiḥ prākṛtair vṛtam 
+nālikeraphalasyāntar bījaṃ bāhyadalair iva ।।

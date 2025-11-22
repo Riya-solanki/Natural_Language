@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3858 | label: grammar | g:0.75 m:0.5 ---
+
+turvasor vahnir ātmajo vahner gobhānus tataś ca traiśānus tasmāc ca karaṃdhamaḥ । tasyāpi maruttaḥ । so anapatyo abhavat । tataś ca pauravaṃ duṣyantaṃ putram akalpayat । evaṃ yayātiśāpāt tadvaṃśaḥ pauravam vaṃśaṃ samāśritavān ।।

@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 558 | label: grammar | g:0.562 m:0.5 ---
+
+yadi śaktirasti tatastasyāvasthāyāṃ tataḥ kena jñānānutpattiḥ jñānasādhanānāmindriyāṇāṃ jñeyānāṃ ca viṣayāṇāmabhāvāt ।

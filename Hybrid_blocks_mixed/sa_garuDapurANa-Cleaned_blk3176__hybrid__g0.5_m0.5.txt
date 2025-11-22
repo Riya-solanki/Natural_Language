@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3176 | label: hybrid | g:0.5 m:0.5 ---
+
+na dānena na mānena nārjavena na savayā ।
+na śastreṇa na śāstreṇa sarvathā viṣamā striyaḥ ।।

@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 836 | label: meter | g:0.255 m:0.825 ---
+
+yathā mamaiva-
+aśrānta-kaṇṭhakodgamam anavarata-svedam aviratotkampam ।
+aniśa-mukulitāpāṅgaṃ mithunaṃ kalayāmi tad-avinābhūtam ।।

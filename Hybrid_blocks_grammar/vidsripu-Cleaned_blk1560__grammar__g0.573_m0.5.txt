@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1560 | label: grammar | g:0.573 m:0.5 ---
+
+īśvaragṛham idam atra hi viṣaṃ ca vṛṣabhaś ca bhasma cādriyate ।
+yas tu na viṣaṃ na vṛṣabho na bhasma tasyātra kā gaṇanā ।।

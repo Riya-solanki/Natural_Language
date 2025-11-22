@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2729 | label: meter | g:0.194 m:0.5 ---
+
+ubhe saṃdhye raviṃ bhūpa tathaivāgniṃ samāhitaḥ 
+upatiṣṭhet tathā kuryād guror apy abhivādanam ।।

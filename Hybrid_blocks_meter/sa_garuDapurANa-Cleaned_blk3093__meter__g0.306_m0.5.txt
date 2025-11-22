@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3093 | label: meter | g:0.306 m:0.5 ---
+
+kṣīraiḥ prakṣālya tasyāsthi svāgninā mantrato dahet ।
+pravāse tu mṛte bhūyaḥ kṛtvā kuśamayaṃ dahet ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 219 | label: meter | g:0.25 m:0.5 ---
+
+tasmiṃs tu mathyamāne vai rājña ūrau prajajñivān 
+hrasvo atimātraḥ puruṣaḥ kṛṣṇaś cāpi babhūva ha ।।

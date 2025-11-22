@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3987 | label: meter | g:0.25 m:0.5 ---
+
+yasmānnānyat paraṃ kiñcid yasmin sarvaṃ mahātmani ।
+yaḥ sarvamadhyago anantaḥ sarvagaṃ taṃ namāmyaham ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 30 | label: hybrid | g:0.507 m:0.5 ---
+
+śaṅkho asthiśeṣaḥ sphuṭito mṛto vā procchvāsyate anyaśvasitena satyam 
+kiṃ tūccaraty eva hi so asya śabdaḥ śrāvyo na yo yo na sadarthaśaṃsī ।।

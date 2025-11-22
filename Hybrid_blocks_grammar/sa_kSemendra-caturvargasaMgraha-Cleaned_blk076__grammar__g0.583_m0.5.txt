@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 76 | label: grammar | g:0.583 m:0.5 ---
+
+dākṣiṇyapraṇayena pādapatite kānte mayā nekṣite prāṇānāṃ jvalitaḥ pravāsapiśunaḥ śāpānalaḥ paśyasi ।
+etaiḥ saṃbhramakātare kim adhunā mithyāsamāśvāsanaiḥ saṃtāpāya sakhi tvayaiva nanu me manopadeśaḥ kṛtaḥ ।।

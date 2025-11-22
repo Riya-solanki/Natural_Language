@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1368 | label: meter | g:0.259 m:0.914 ---
+
+māyāśāmbhavasaṃsthānaṃ kalādhiṣṭhānaśāsanam 
+puruṣāṇusamāyuktaṃ svādhiṣṭhānam ato arthataḥ ।।

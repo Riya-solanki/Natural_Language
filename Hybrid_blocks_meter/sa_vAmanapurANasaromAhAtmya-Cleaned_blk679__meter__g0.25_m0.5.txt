@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 679 | label: meter | g:0.25 m:0.5 ---
+
+tasmin snāto naro bhaktyā mucyate sarvakilbiṣaiḥ ।
+phalaṃ prāpnoti yajñasya aśvamedhasya mānavaḥ ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1356 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā tatraiva ṣaṣṭhāṅke māyāmayaḥ-athaikadā dayita-sneha-mayyā kaikeyyā samam asurānīka-vijayāya pūrita-suhṛn-manorathe daśarathe tgirviṣṭapa-tilaka-bhūtaṃ puruhūtaṃ prabhāvavati samupasthitavati tad-rūpa-dhāriṇau kuvalayābhirāmaṃ rāmaṃ saparicchadaṃ chalayituṃ ayodhyāṃ śūrpaṇakhā ahaṃ ca prāptavantau । ity upakramya,

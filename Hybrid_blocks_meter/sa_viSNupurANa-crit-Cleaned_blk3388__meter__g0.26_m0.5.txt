@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3388 | label: meter | g:0.26 m:0.5 ---
+
+uccapramāṇām iti tām avekṣya svalāṅgalāgreṇa sa tālaketuḥ 
+vināmayām āsa tataś ca sāpi babhūva sadyo vanitā yathānyā ।।

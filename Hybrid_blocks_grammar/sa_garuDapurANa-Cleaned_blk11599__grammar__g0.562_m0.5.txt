@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11599 | label: grammar | g:0.562 m:0.5 ---
+
+māndhātrā nahuṣoṃbarīṣasagarau rājā nalo dharmarāṭ prahlādaḥ kraturāḍ vibhīṣaṇagayau vyāso hanūmānapi ।
+aśvatthāma kṛpāvumā drupadajā śrījānakī tārakā mandodaryakhilāḥ prabhātasumahaṃ kurvantu nityaṃ hare ।।

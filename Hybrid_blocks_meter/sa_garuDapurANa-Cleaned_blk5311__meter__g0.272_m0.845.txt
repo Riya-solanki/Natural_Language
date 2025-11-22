@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5311 | label: meter | g:0.272 m:0.845 ---
+
+vālakośīrapāṭhābhiḥ kaṇṭakārikamustakaiḥ ।
+jvaranucca kṛtaḥ kvāthastathā vai suradāruṇā ।।

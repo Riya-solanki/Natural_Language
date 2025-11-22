@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11544 | label: meter | g:0.306 m:0.5 ---
+
+payo vikāraṃ ca nijaṃ jahāti śeṣasya śeṣaṃ nalinasya ṣaṅkajam ।
+bhāvaṃ calaṃ paṅkajanābhayogātsatsaṃgayogādaśubhāni na syuḥ ।।

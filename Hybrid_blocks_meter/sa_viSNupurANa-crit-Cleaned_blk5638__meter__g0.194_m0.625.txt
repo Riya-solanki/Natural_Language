@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5638 | label: meter | g:0.194 m:0.625 ---
+
+musalasyātha lohasya cūrṇitasyāndhakair dvija 
+khaṇḍaṃ cūrṇayituṃ śekur naikaṃ te tomarākṛti ।।

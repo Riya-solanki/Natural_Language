@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4803 | label: meter | g:0.194 m:0.5 ---
+
+idaṃ karma tvayā kṛṣṇa sānubandhaṃ kṛtaṃ raṇe 
+pārijātasya haraṇe yat kṛtaṃ karma duṣkaraṃ ।।

@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 385 | label: grammar | g:0.888 m:0.11 ---
+
+rādhā harir api pulaki-vasantam । gāyati nija-nudam anu vikasantam ।। upadiśate diśi diśi guṇayantam । pikam anu pañcamam aticirayantam ।।vāsantī-madhu rahasi dhayantam । śaṃsati madhuliham anugāyantam ।।madhu-rasamanu gānaṃ ramayantam । rasayati vinimitam adharam ayantam ।।malayaja-surabhi-dhuraṃ khañjantam । kavayati gandhavahaṃ prasajantam ।।vādya-gaṇaṃ guṇa-valita-dig-antam । anunṛtyati mad-alola-dṛg-antam ।।capalāghana-sama-rucim anu taṃ tam । naṭayati śikhi-gaṇam api nipatantam ।।kirati cūrṇam anu pūrṇad-anantam । samam ālīla-lalanābhir anantam ।।śrama-jala-kaṇa-gaṇam anu vilasantam । vahati parāga-bharaṃ rucim anantam ।।
+[] atha tāvatīṃ gatim apy asahamānāḥ sahamānā guravaḥ kuravam ācarya paryavasthayā tāsāṃ svatantratām āvārya sarvato nirodham udbodhayāmāsuḥ ।

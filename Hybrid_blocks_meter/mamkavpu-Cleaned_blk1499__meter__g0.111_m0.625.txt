@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1499 | label: meter | g:0.111 m:0.625 ---
+
+{durvārāḥ smaramārgaṇāḥ priyatamo dūre manotyutsukaṃ
+gāḍhaṃ prema navaṃ vayotikaṭhināḥ prāṇāḥ kulaṃ nirmalam ।
+strītvaṃ dhairyavirodhi manmathasuhṛt kālaḥ kṛtāntokṣamo
+no sakhyaścaturāḥ kathaṃ nu virahaḥ soḍhavya itthaṃ śaṭhaḥ ।।}

@@ -1,0 +1,4 @@
+--- source: brssbh3u-Cleaned.txt | block: 265 | label: grammar | g:0.552 m:0.5 ---
+
+na kevalamupapattereveśvaraṃ phalahetuṃ kalpayāmaḥ kiṃ tarhi śrutatvādapīśvarameva phalahetuṃ manyāmahe ।
+tathāca śrutirbhavati - asa vā eṣa mahānaja ātmānnādo vasudānaḥ' ityevañjātīyakā ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 325 | label: hybrid | g:0.486 m:0.5 ---
+
+tada bodhisattva imi jñātva daridrasattvān dānādhimukta bhavatī sada muktatyāgī 
+catvāri dvīpi samalaṃkṛtu kheṭatulyaṃ dattvā udagra bhavate na hi dvīpalabdho ।।

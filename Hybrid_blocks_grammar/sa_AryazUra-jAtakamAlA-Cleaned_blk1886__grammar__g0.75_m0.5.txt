@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1886 | label: grammar | g:0.75 m:0.5 ---
+
+iti sa mahātmā tasya rājñastadasaddarśanāndhakāraṃ bhāsvarairvacanakiraṇairvyavadhūya prakāśya cāsmai sugatimārgaṃ tatraivāntardadhe । atha sa rājā samupalabdhaparalokavṛttāntatattvaḥ pratilabdhasamyagdarśanacetāḥ sāmātyapaurajānapado dānadamasaṃyamaparāyaṇo babhūva ।

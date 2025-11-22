@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 160 | label: grammar | g:0.583 m:0.5 ---
+
+atha smartavyāpekṣayaiva smṛteḥ smṛtitvaṃ tadviṣayasaṃskārajatvāt, svarūpakartrapekṣayā tvanubhūtireva, ataḥ siddhyati prāmāṇyamityucyate ।
+evaṃ tarhi mātragrahaṇamanarthakam, pratyabhijñānasyāpi pūrvānubhūtāṃśāpekṣayaiva smṛtitvāttatra cāprāmāṇyamiṣṭameva, yatra tvaṃśe prāmāṇyaṃ tatrānubhūtireva sā ।।

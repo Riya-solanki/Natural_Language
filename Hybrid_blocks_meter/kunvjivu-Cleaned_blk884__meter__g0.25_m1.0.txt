@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 884 | label: meter | g:0.25 m:1.0 ---
+
+pāṇḍyo ayamaṃsārpitalambahāraḥ ।
+kḷptāṅgarāgo haricandanena ।।
+ābhāti bālātaparaktasānuḥ ।
+sanirjharodgāra ivādrirājaḥ ।।

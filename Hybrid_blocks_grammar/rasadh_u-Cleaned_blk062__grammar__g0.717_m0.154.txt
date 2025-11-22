@@ -1,0 +1,9 @@
+--- source: rasadh_u-Cleaned.txt | block: 62 | label: grammar | g:0.717 m:0.154 ---
+
+śigrunāmno vṛkṣasya pattrāṇi gāḍhaṃ mṛkṣaṇopamānāni vartayitvā teṣāṃ piṇḍena kulhaḍīṃ kṛtvā tasyāṃ kulhaḍikāyāṃ pūrvavidhinā tāmraṃ parityajyodgīnaṃ rasaṃ tathā dvātriṃśattamena bhāgena lavaṇaṃ ca kṣiptvā tāṃ kulhaḍīṃ vastre baddhvā tadvastraṃ davarakeṇa kāṣṭhe baddhvā tatkāṣṭhaṃ sthālyāḥ kaṇṭhe kaṃcana paṭṭaṃ baddhvā sthālīmadhye tribhāganimbukarasasahitakāñjikaṃ kṣiptvā kāñjikopari ñūbamānā tathā vastraṃ baddhvā kulhaḍī moktavyā yathā kāñjikaṃ na lagati kevalaṃ bāṣpo lagati ।।
+tato'horātraṃ sthālyā adho'gnirjvālanīyaḥ ।।
+tataḥ punarapi śigrupattrair navāṃ kulhaḍīṃ kṛtvā dolāyantreṇa tathaivāhorātraṃ rasaḥ svedanīyaḥ ।।
+yadi cāgretanaṃ kāñjikaṃ śuṣyati tathā punarnavaṃ kāñjikaṃ kṣepyam ।।
+evaṃ saptabhirdinaiḥ saptabhiḥ kulhaḍībhiḥ saptavāraṃ svedito rasaḥ sampratyūrdhvaṃ pacyamāno atyarthamagniṃ sahate ।।
+ityutthāpitarasasya svedanasaṃskāraḥ saptamaḥ ।।
+granthāntare svedanam ।।

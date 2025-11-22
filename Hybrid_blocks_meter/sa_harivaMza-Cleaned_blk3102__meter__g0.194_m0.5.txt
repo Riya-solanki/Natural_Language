@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3102 | label: meter | g:0.194 m:0.5 ---
+
+ayaṃ bhaviṣye dṛṣṭo vai bhaviṣyakuśalair budhaiḥ 
+gopālo yādavaṃ vaṃśaṃ kṣīṇaṃ vistārayiṣyati ।।

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 12 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa mahīpatiḥ pavanapaṭujavātiśayaturagavarādhirūḍho dūrād apasṛtabalasahāyo na cireṇa khadirabadarabilveṅgudādikaṇṭakadrumavanagahanāṃ śaravaṇakāśakuśavaṃśajālajaṭiladuḥsaṃcārapradeśāṃ jīrṇaśīrṇavikṣiptāsthikaṅkālaśakaladhavalabhūmibhāgāṃ pratibhayagambhīraśvabhraprapātasthalasthāṇuvalmīkadurnirgamapraveśām aṭavīṃ prapede । sa ca gajādhipatis tasya rājño darśanam apajagāma ।

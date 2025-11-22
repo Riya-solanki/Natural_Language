@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6184 | label: hybrid | g:0.465 m:0.5 ---
+
+ko adharmaḥ kaś ca vai dharmaḥ kasmin varte athavā katham 
+kiṃ kartavyam akartavyaṃ kiṃ vā kiṃ guṇadoṣavat ।।

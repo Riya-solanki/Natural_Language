@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 715 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha varṣa-jāte jāte nabhasye māsi sarva-sampan-mayaṃ janma-dinam āyātam । tatra ca gargopadeśa-vargopāśrayā kṛṣṇasya janma-tithi-pūjā pūryate sma । yatra ca vraja-kṣiti-patinā praśasta-vācanādi-pūrvakāpūrva-parva pravartayāmāsa । yathā-

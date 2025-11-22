@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1094 | label: meter | g:0.25 m:0.5 ---
+
+ityevamukto devena vahninā dānavo yayau ।
+draṣṭuṃ mālavaṭaṃ yakṣaṃ yakṣaiśca parivāritam ।।

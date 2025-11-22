@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2373 | label: grammar | g:0.552 m:0.5 ---
+
+na so asti kaścit tridaśo asuro vā yakṣo atha martyo rajanīcaro vā ।
+idaṃ hi duḥkhaṃ mṛgaśāvanetryā nirmārjayed yaḥ svaparākrameṇa ।।

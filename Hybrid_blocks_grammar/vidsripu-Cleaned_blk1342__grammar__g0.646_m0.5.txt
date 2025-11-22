@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1342 | label: grammar | g:0.646 m:0.5 ---
+
+jāḍyaṃ hrīmati gaṇyate vratarucau dambhaḥ śucau kaitavaṃ śūre nirghṛṇatārjave vimatinā dainyaṃ priyālāpini ।
+tejasviny avaliptatā mukharatā vaktary aśaktiḥ sthire tat ko nāma bhaved guṇaḥ sa guṇināṃ yo durjane nāṅkitaḥ ।।

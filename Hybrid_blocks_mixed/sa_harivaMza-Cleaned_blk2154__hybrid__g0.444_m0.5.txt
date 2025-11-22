@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2154 | label: hybrid | g:0.444 m:0.5 ---
+
+devānāṃ sa tu sarvasvaṃ tridivasya gatiś ca saḥ 
+paraṃ rahasyaṃ devānāṃ sa te mṛtyur bhaviṣyati ।।

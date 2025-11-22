@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 95 | label: meter | g:0.25 m:0.5 ---
+
+traidhātukaṃ samatikrānta na bodhisattvā kleśāpanīta upapatti nidarśayanti 
+jaravyādhimṛtyuvigatāścyuti darśayanti prajñāya pāramita yatra caranti dhīrāḥ ।।

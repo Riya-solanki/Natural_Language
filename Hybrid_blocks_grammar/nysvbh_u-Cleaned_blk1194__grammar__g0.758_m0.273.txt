@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1194 | label: grammar | g:0.758 m:0.273 ---
+
+yathāviṣayamindriyāṇāṃ paṭumandabhāvād viṣayagrahaṇānāṃ paṭumandabhāvo bhavati ।
+cakṣuḥ khalu prakṛṣyamāṇaṃ nāviṣayaṃ gandhaṃ gṛhṇāti nikṛṣyamāṇaṃ ca na svaviṣayāt pracyavate, soyaṃ taimirikaḥ kaściccakṣurviṣayaṃ keśaṃ na gṛhṇāti gṛhṇāti ca keśasamūham ubhayaṃ hy ataimirikeṇa cakṣuṣā gṛhyate, paramāṇavastv atīndriyāḥ ।
+indriyāviṣayabhūtā kenacidindriyeṇa gṛhyante samuditāstu gṛhyante ityaviṣaye pravṛttirindriyasya prasajyeta na jātvarthāntaramaṇubhyo gṛhyate iti te khalvime paramāṇavaḥ saṃhatā gṛhyamāṇā atīndriyatvaṃ jahati viyuktāścāgṛhyamāṇā indriyaviṣayatvaṃ na labhante iti soyaṃ dravyāntarānutpattāvatimahān vyāghāta ityupapadyate dravyāntaraṃ yad grahaṇasya viṣaya iti।
+saṃcayamātraṃ viṣaya iticet ? na saṃcayasya saṃyogabhāvāttasya cātīndriyasyāgrahaṇādayuktam।
+saṃcayaḥ khalvanekasya saṃyogaḥ sa ca gahyamāṇāśrayo gṛhyate nātīndriyāśrayaḥ bhavati hīdamanena saṃyuktam' iti tasmādayuktametaditi।
+gṛhyamāṇasya cendriyeṇa viṣayasyāvaraṇādi anupalabdhikāraṇamupalabhyate tasmānnendriyadaurbalyādanupalabdhiraṇūnāṃ yathā nendriyadaurbalyācakṣuṣānupalabdhirgandhādīnāmiti ।।

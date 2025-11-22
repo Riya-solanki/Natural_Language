@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 11 | label: grammar | g:0.552 m:0.5 ---
+
+sandeśaṃ me naya khagapate sādhaya bhrātṛkṛtyaṃ santāpārtāṃ suvacana samāśvāsaya preyasīṃ me ।
+kāntodantaḥ suhṛdupanato viprayogārditānāṃ prāyaḥ strīṇāṃ bhavati kimapi prāṇasandhāraṇāya ।।

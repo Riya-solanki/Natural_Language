@@ -1,0 +1,8 @@
+--- source: brssgo2u-Cleaned.txt | block: 125 | label: meter | g:0.262 m:0.686 ---
+
+nanvevaṃ sati kārakavyāpāro anarthakaḥ prasajyeta ।
+yathaiva hi prāksiddhatvātkāraṇasvarūpasiddhaye na kaścidvyāpriyate ।
+evaṃ prāksiddhatvāttadananyatvācca kāryasya svarūpasiddhaye api na kaścidvyāpriyeta ।
+vyāpriyate ca ।
+ataḥ kārakavyāpārārthavattvāya manyāmahe prāgutpatterabhāva ।
+kāryasyeti ।

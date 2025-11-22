@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 752 | label: grammar | g:0.675 m:0.342 ---
+
+[] tatas tad-vandanāruke dāruke pavanam anuharamāṇena yānena muhūrta-mātrārdhatais taiḥ sārdham āgate tasmin vismita-manasaḥ śrīman-nandādayaḥ paramānandāśayatayā sahasā bhavad-āgamanavad eva sahasā mahasā todyamānātodya-vrajaṃ tan-nijālayam āneṣyanti ।
+[] gateṣu ca dineṣu tri-catureṣu rāmādayas te vrajasthābhir ucitam eva tubhyaṃ rocayiṣyanti-

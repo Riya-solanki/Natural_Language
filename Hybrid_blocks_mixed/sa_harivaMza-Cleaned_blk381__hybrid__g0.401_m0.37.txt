@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 381 | label: hybrid | g:0.401 m:0.37 ---
+
+tasyāṃ tu vartamānāyām iṣṭyāṃ bharatasattama 
+mitrāvaruṇayor aṃśe manur āhutim ājuhot ।। 
+āhutyāṃ hūyamānāyāṃ devagandharvamānuṣāḥ । tuṣṭiṃ tu paramāṃ jagmur munayaś ca tapodhanāḥ । aho asya tapaso vīryam aho śrutam aho dhanam । 
+tatra divyāmbaradharā divyābharaṇabhūṣitā 
+divyasaṃhananā caiva iḍā jajña iti śrutiḥ ।।

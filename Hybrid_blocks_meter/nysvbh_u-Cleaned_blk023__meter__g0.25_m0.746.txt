@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 23 | label: meter | g:0.25 m:0.746 ---
+
+uhaḥ pravatāte-yadi kṛtakena hetunā nirvartyate, hetūcchedādupapanno ayaṃ janmocchadaḥ।
+athākṛtakena hetunā, tato henūcchedasyāśakyatvādanupapanno janmocchedaḥ।
+athākāsmikam, ato akasmānnirvartyamānaṃ na punarnirvartsyatīti nivṛttikāraṇaṃ nopapadyate।
+tena janmānuccheda iti।
+etasmiṃstarkaviṣaye karmanimitaṃ janmeti pramāṇāni pravartamānāni

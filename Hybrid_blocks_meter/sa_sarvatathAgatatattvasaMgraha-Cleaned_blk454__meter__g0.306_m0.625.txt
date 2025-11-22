@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 454 | label: meter | g:0.306 m:0.625 ---
+
+"śatru bhakṣa" iti prokte sarvaśatrun sa bhakṣayet ।
+"sarvasiddhir" iti prokte sarvasiddhirbhaviṣyati ।।

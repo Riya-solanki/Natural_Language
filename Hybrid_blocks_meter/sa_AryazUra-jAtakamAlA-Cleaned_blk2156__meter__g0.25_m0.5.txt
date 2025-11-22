@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2156 | label: meter | g:0.25 m:0.5 ---
+
+māyāvidhijñāśca mahāsamāje janasya cakṣuṃṣi vimohayanti ।
+ko api prabhāvastvayamantakasyayadbhrāmyate tairapi nāsya cakṣuḥ ।।

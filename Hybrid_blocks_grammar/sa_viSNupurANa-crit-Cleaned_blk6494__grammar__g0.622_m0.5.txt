@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6494 | label: grammar | g:0.622 m:0.5 ---
+
+yasmin nyastamatir na yāti narakaṃ svargo api yac cintane vighno yatra niveśitātmamanaso brāhmo api loko alpakaḥ 
+muktiṃ cetasi yaḥ sthito amaladhiyāṃ puṃsāṃ dadāty avyayaḥ kiṃ citraṃ yad aghaṃ prayāti vilayaṃ tatrācyute kīrtite ।।

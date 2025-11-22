@@ -1,0 +1,7 @@
+--- source: visa01cu-Cleaned.txt | block: 191 | label: meter | g:0.337 m:0.698 ---
+
+nacyapratīyamānāviti ।
+atra vācyapadaṃ pratīyamānapadārthavyaṅgyabhinnaparam, tena lakṣaṇārthasyāpi parigrahaḥ ।
+svavacaneti ।
+dhvanirvyaṅgyārthaḥ ।
+tasyātmakatvakathanavācyārthātmakathanarūpayoḥ svavacanayorvirodhādityarthaḥ ।

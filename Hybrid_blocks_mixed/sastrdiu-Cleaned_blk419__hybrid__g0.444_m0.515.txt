@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 419 | label: hybrid | g:0.444 m:0.515 ---
+
+tathā tameva devadattaṃ kālāntare dūrātpaśyannapi kiṃ sa evāyamutānya iti ।
+saṃdihāno vastugatyaikameva pratiyannapi nābhedamavadhārayayitumalaṃ bhavati, tasmānna vastudvayapratītireva bhedapratītiḥ ।
+nāpyekavastupratītirevābhedapratītiḥ, kintvanyo ayamiti buddhirbhedāvabhāsaḥ ananyo ayamiti cābhedāvabhāsaḥ ।
+asti ca śābaleyabāhuleyāvupalabhyamānasya ayaṃ

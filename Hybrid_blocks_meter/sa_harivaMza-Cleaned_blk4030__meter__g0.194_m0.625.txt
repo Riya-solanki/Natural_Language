@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4030 | label: meter | g:0.194 m:0.625 ---
+
+tasyātha puruṣendrasya loke prathitatejasaḥ 
+nivāso dhārakā devair upāyād upapāditā ।।

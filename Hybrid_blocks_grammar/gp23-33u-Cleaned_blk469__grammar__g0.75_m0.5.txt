@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 469 | label: grammar | g:0.75 m:0.5 ---
+
+[] tāv ūcatuḥ-deva tad etad eva pratīkṣya sthiratayābhīkṣṇaṃ vartāvahe । sāmprataṃ tu sāmpratam ājñāpyatām । athavā kim ājñāpanayā । vināpi tāṃ viniyuktā eva yukta-sevakatayā vayam ity utthāya sābhyutthāna-praṇāmaṃ prasthitayos tayoḥ kaṃsaḥ śaśaṃsa ।
+[] ariṣṭas tāvat pratiṣṭhatām । iṣṭāpatti-vipattitas tu keśī ca tat-prativeśa-veśī bhavitā । tad etad avadhāya tau ca gṛham āgatya sātatyata eva tad-artham ājagṛhatuḥ ।

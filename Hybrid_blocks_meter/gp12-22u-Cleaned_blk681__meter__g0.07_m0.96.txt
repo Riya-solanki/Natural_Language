@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 681 | label: meter | g:0.07 m:0.96 ---
+
+atha prabhāte sadasi vrajeśitur
+mahā-prabhāveṣu vibhāta-paṅktiṣu ।
+ānarccha sāmodam udaśru-kaṇṭhatāṃ
+sa snigdhakaṇṭhaḥ kathayāmbabhūva ca ।। [upajāti ]

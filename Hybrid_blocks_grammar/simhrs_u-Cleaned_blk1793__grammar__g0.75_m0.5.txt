@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1793 | label: grammar | g:0.75 m:0.5 ---
+
+atrottarārdhe sūtradhāreṇa dhārtarāṣṭrāṇāṃ svarga-sthiti-nirupadrava-lakṣaṇayor arthayor vivakṣitayoḥ satoḥ bhīmena svasthā bhavantu mayi jīvati dhārtarāṣṭrā iti nirupadrava-lakṣaṇasyaivārtha-viśeṣasya grahaṇena praveśaḥ kṛta iti ayam arthena kathodghātaḥ ।

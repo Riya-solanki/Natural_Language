@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 43 | label: hybrid | g:0.531 m:0.5 ---
+
+śāntātmanāpi bhavatā bhagavan prasahya netrodbhavena dahatā dahanena kāmam ।
+alpīyaso api mahatāṃ samatikramasya manye janāya viṣamaḥ kathito vipākaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1090 | label: meter | g:0.25 m:0.75 ---
+
+namo vikṛtavaktrāya namaḥ pūtogradṛṣṭaye ।
+pakvāmamāṃsalubdhāya tambivīṇāpriyāya ca ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3449 | label: meter | g:0.416 m:0.63 ---
+
+pulastya uvāca ।
+ityevamāśvāsya baliṃ mahātmā saṃsmṛtya yogādhipatiṃ ca viṣṇum ।
+āmantrya sarvān danuyūthapālān jagāma kartuṃ tvatha tīrthayātrām ।।

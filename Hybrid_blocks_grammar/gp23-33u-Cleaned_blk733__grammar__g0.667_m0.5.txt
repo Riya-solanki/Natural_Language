@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 733 | label: grammar | g:0.667 m:0.5 ---
+
+[] tad evaṃ jāta-camatkārābhyāṃ tat-pariśrama-kātarābhyāṃ mātgara-pitarābhyām ubhayataḥ sva-sva-bhajanākṛtāliṅganamaya-praṇaya-ceṣṭitaḥ sarvair eva ca parito veṣṭitaḥ sva-goṣṭha-prakoṣṭha-madhyaga-śakaṭa-ghaṭā-ghaṭita-vāṭam avāpsyasi ।

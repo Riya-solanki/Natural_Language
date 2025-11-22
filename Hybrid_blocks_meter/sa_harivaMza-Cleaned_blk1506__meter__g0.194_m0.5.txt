@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1506 | label: meter | g:0.194 m:0.5 ---
+
+sa syandanavaro bhāti yukto mātalinā tadā 
+kṛtsnaḥ parivṛto merur bhāskarasyeva tejasā ।।

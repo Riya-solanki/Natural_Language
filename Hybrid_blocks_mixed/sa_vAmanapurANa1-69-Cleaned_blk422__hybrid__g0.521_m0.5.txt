@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 422 | label: hybrid | g:0.521 m:0.5 ---
+
+saptarṣimukhyo dvicatuśca daityo narastu ṣaṭ trīṇi ca daityamukhye ।
+ṣaṭtrīṇi caikaṃ ca ditīśvareṇa muktāni bāṇāni narāya vipra ।।

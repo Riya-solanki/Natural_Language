@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 13 | label: grammar | g:0.594 m:0.5 ---
+
+atrālaṅkaraṇe bhavantu sudhiyaḥ snigdhā iti prārthanā vyarthā yadbharatādibhaktiṣu matiryeṣāṃ talasparśinī ।
+te sārajñatayaiva bibhrati mudaṃ ye saṃśayenāsphuṭā- ste sandehanivṛttaye hṛdi dhaiyaṃ kartuṃ yatante svayam ।।

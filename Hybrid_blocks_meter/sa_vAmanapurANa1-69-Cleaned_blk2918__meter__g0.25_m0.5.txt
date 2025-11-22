@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2918 | label: meter | g:0.25 m:0.5 ---
+
+savāhanāḥ kṣayaṃ jagmuḥ kuliśeneva parvatāḥ ।
+dṛṣṭvā brahmaharī yuddhe ghātayantau mahāsurān ।।

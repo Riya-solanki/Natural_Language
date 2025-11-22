@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 790 | label: meter | g:0.151 m:0.872 ---
+
+sukha-sparśa-maṇy-ācita-kṣauṇi-bhāgaṃ
+samastāvakāśārha-sandhā-vibhāgam ।
+yathāpekṣa-vibhrājita-svaccha-nīraṃ
+sukhākāri-dharmāñci-nīcaiḥ samīram ।। [bhujaṅgaprayātā]

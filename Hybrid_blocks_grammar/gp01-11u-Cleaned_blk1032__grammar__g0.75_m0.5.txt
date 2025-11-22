@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1032 | label: grammar | g:0.75 m:0.5 ---
+
+[] kaṃsa uvāca-samyag gamyatāṃ nijam eva harmyam । punaś cānyam uvāca-ākāryatāṃ purataḥ sa vatsāsuraḥ । sa ca śacī-pater api klamanaḥ । sa-sambhrama-vikrama-kramatayā tenānīya samarpitaḥ pānīya-lavavad drava-pravaṇatāvastha eva tasthau । tena ca sambandhatām āśaṃsan pāṃśu-saṅghaval labdha-dhvaṃsaḥ kaṃsas tūpāṃśu taṃ sutam iva śaśaṃsa, vatsa vatsāsura, gaccha nandasya vrajam । gatvā ca vatsāṃś cārayataḥ kumārayatas tat-kumārasya sadeśam āsādya nijaṃ vatsa-veśam utpādya tasyāpakāram ārabhasva ।

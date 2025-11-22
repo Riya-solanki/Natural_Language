@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 261 | label: grammar | g:0.594 m:0.5 ---
+
+adyāmbhaḥ paritaḥ patiṣyati bhuvas tāpo adya nirvāsyati kṣetreṣv adya yatiṣyate janapadaḥ sasyeṣu paryutsukaḥ ।
+nartiṣyanti tavodaye adya jalada vyālolapucchacchada- cchatracchāditamaulayo diśi diśi krīḍālasāḥ kekinaḥ ।।

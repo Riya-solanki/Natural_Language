@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 694 | label: meter | g:0.25 m:0.951 ---
+
+atha augryam-
+aparādhāvamānābhyāṃ cauryāābhigrahaṇādibhiḥ ।
+asat-pralāpanādyaiś ca kṛtaṃ caṇḍatvam ugratā ।। 
+kriyās tatrāsya-nayana-rāgo bandhana-tāḍane ।
+śirasaḥ kampanaṃ kheda-vadha-nirbhartsanādayaḥ ।।

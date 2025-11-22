@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 297 | label: meter | g:0.25 m:0.5 ---
+
+avasṛjya ātma sugatāṃ parasattvakārye abhiyukta rātridiva niṣpratikāṅkṣacitto 
+māteva ekasutake paricāryamāṇo adhyāśaye na parikhinna upasthiheti ।।

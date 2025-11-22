@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10527 | label: hybrid | g:0.361 m:0.5 ---
+
+lokānuvādaśravaṇe paramā ca śaktirnārāyaṇasya namane na ca mesti śaktiḥ ।
+lokānuyānakaraṇe paramā ca śaktiḥ kṣetrādimārgagamane paramā hyaśaktiḥ ।।
+vaiśyādikeṣu dhanikeṣu parā ca śaktiḥ sadbrāhmaṇeṣvapi na śaktiraho murāre ।।
+vaivasvatamanurdevaṃ stutvā tūṣṇīṃ babhūva ha ।
+tadanantarajaḥ stotuṃ viśvāmitropacakrame ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 714 | label: grammar | g:0.646 m:0.5 ---
+
+duṣṭā muṣṭir ihāhatā hṛdi nakhair ācoṭitā pārśvayor ākṛṣṭā kabarīṣu gāḍham adhare sītkurvatī khaṇḍitā ।
+tvatkṛtyaṃ tvadagocare api hi kṛtaṃ sarvaṃ mayaivādhunā mām ājñāpaya kiṃ karomi sarale bhūyaḥ sapatnyās tava ।।

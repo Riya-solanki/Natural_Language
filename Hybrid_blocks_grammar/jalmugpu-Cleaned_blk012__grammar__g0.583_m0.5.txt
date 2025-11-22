@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 12 | label: grammar | g:0.583 m:0.5 ---
+
+vākśurasya raṇo avadhiḥ kutanayotpattiḥ kulasyāvadhir bāndhavyasya vivādabhūmir avadhiḥ saukhyaṃ śrutasy avadhiḥ ।
+vācāṭasya vidagdhaparṣad avadhir laulyaṃ vratasyāvadhir bandho viddhi dhanāvasānam avadhir veśyānurāgasya ca ।।

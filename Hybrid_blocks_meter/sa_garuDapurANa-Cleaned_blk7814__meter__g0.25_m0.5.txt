@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7814 | label: meter | g:0.25 m:0.5 ---
+
+yathākathañcit kartavyastīrthe vā pattane atha vā ।
+vṛṣayajñaiḥ pramucyate nānyathā sādhanaiḥ khaga ।।

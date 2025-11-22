@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1149 | label: meter | g:0.194 m:0.5 ---
+
+ekānte vihitaṃ sarvaṃ kurvīta na janākule 
+anyathā sthitibhaṅgaḥ syān naśyate śāsanaṃ priye ।।

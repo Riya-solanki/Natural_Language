@@ -1,0 +1,10 @@
+--- source: sastrdiu-Cleaned.txt | block: 271 | label: meter | g:0.306 m:0.5 ---
+
+nanu samavāyatvaṃ bādhata ityuktam ।
+yadi samavāyatvaṃ nāma samavāyadharmiṇo atiriktaṃ tadbādhe api na dharmisvarūpaṃ bādhitaṃ syāt ।
+atha dharmyeva tanna tasya bādhakaṃ saṃbhavatītyuktam ।
+tasmānna dharmisvarūpabādhanaṃ nāma hetudoṣaḥ kvacitsaṃbhavati bādho natvetaddūṣaṇam ।
+yadi khalviha pratyayahetutvaṃ samavāyasyaikatvaṃ virundhyāt tato dravyātirekaṃ sādhayataḥ kiṃ hīyate ।
+na hi dravyātirekasādhanakṛtamekatvasādhanaṃ, yatastasya dūṣaṇatvena saṃbhāvyeta ।
+tasmāddharmasvarūpasya tadviśeṣasya ca bādhanāddvividhameva bādhakam ।
+tatra nityaḥ śabdaḥ kṛtakatvāditi kṛtakatvamanityatvena vyāptatvānnityasvarūpameva bādhate ।।

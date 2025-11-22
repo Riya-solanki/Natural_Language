@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 546 | label: grammar | g:0.625 m:0.195 ---
+
+satvapātane piṇḍīmāha ūrṇetyādi ।।
+ūrṇā iti ūrṇā meṣaroma ṭaṅkaṇaṃ saubhāgyaṃ guḍaḥ pratītaḥ puro gugguluḥ lākṣā jatu sarjaraso rālaḥ etaiḥ kiṃviśiṣṭaiḥ sarvadhātubhiḥ rasoparasairvā svarṇādibhiḥ saha piṣṭaiḥ peṣitaiḥ punaḥ chāgīkṣīreṇa ajāpayasā kṛtā yā piṇḍī sā satvavidhau satvapātanakarmaṇi śastā pradhānā ।।
+dhāturasoparasānāṃ satvaṃ pātayatyeveti ।।

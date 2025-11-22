@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 661 | label: meter | g:0.328 m:0.595 ---
+
+teṣāṃ mahādehatvena hṛdayasyāsmadaṅguṣṭhamātratvābhāvāt ।
+ataḥ śrutiṣu teṣāṃ nādhikāra ityata āha-devādyadhikāre apīti ।।

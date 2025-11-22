@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 599 | label: meter | g:0.306 m:0.5 ---
+
+tāṃ dṛṣṭvā munayaḥ prītā vegayuktāṃ sarasvatīm ।
+pitāmahaṃ mānayantīṃ te tu tāṃ bahu menire ।।

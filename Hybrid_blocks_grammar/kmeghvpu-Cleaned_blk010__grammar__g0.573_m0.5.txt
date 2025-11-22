@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 10 | label: grammar | g:0.573 m:0.5 ---
+
+mandaṃ mandaṃ nudati pavanaś cānukūlo yathā tvāṃ vāmaś cāyaṃ nadati madhuraṃ cātakas toyagṛdhnuḥ ।
+garbhādhānasthiraparicayā nūnam ābaddhamālāḥ seviṣyante nayanasubhagaṃ khe bhavantaṃ balākāḥ ।।

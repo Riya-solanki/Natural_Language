@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8100 | label: meter | g:0.306 m:0.5 ---
+
+sūṣvāpa vāyunā tatra sevyāmātastadā kṣaṇam ।
+kṣaṇaṃ supte nṛpe tatra preto vai pretavāhanaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 104 | label: hybrid | g:0.531 m:0.5 ---
+
+nāyaṃ yatnaḥ sārvabhaumatvamāptuṃ naiva svargaṃ nāpavargaṃ na kīrtim ।
+trātuṃ lokānityayaṃ tvādaro me yācñākleśo mā ca bhūdasya moghaḥ ।।

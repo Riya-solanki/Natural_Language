@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 751 | label: meter | g:0.194 m:0.75 ---
+
+asyoddhāraṃ pravakṣyāmi yathāvad anupūrvaśaḥ 
+aḥ-kha-madhyagataṃ gṛhya jha-pūrveṇa samanvitam ।।

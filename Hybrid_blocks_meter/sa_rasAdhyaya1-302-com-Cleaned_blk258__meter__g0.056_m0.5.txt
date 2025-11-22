@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 258 | label: meter | g:0.056 m:0.5 ---
+
+kācakumpe mṛdā limpen madhye niyāmakaṃ rasam 
+kṣiptvāsye cīvaraṃ baddhvā channaṃ koḍīyakena ca ।। -f

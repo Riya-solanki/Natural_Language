@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 431 | label: meter | g:0.307 m:0.623 ---
+
+adyaiva duhkhāni śamaṃ gatāni [!] adyaiva no jīvitagātrasāram ।
+niratyayapremaviśeṣabhadrāṇy adyaiva saukhyāni puraḥsthitāni ।।

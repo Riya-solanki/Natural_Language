@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4988 | label: meter | g:0.194 m:0.625 ---
+
+vikāro asi vikārāṇāṃ vikārāyatane anagha 
+tān adharmavido mandān bhavān vikurute sadā ।।

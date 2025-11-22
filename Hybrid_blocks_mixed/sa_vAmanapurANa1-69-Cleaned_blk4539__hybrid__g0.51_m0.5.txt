@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4539 | label: hybrid | g:0.51 m:0.5 ---
+
+evaṃ kriyāyogaratasya te adya nūnaṃ murāriḥ śubhado bhaviṣyati ।
+narā na sīdanti bale samāśritā vibhuṃ jagannāthamanantamacyutam ।।

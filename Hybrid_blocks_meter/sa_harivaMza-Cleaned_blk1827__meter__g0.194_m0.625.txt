@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1827 | label: meter | g:0.194 m:0.625 ---
+
+ṛṣibhiḥ pūjitas tais tu viveśa harir īśvaraḥ 
+paurāṇaṃ brahmasadanaṃ divyaṃ nārāyaṇāśramam ।।

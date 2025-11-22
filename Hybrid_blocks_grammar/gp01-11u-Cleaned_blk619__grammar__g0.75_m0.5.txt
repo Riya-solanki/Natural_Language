@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 619 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca, śayanaṃ pārśvenopapīḍaṃ śayānam amuṃ sukumāra-kumārāpīḍam akasmād vilokya tad-vṛtte dhātrībhir mātre nivedita-mātre sati sātimātrānanda-kandalitā nija-nandana-maṅgalātiśaya-spṛhiṇī śrīman-nanda-kṣitīśa-gṛhiṇī bhartur ājñāṃ sujñātāṃ sambhūya bhūyaḥ sarvāḥ samāhūya tam eva mahotsavam aho mahotsavaṃ cakāra ।

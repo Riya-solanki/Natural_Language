@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 355 | label: grammar | g:0.799 m:0.0 ---
+
+pituḥ samīpagā sā tu pitrā nirbhartsitā śubhā 
+bhartuḥ samīpaṃ gaccheti niyuktā ca punaḥ punaḥ ।। 
+cintām avāpa mahatīṃ strīṇāṃ dhik ceṣṭitaṃ tv iti । nininda bahudhātmānaṃ strītvaṃ cātinininda sā ।। sthātavyaṃ na kvacit strīṇāṃ dhig asvātantryajīvitam । śaiśave yauvane vārddhe pitṛbhartṛsutād bhayam ।। tyaktaṃ bhartṛgṛhaṃ maugdhyād bata durvṛttayā mayā । avijñātāpi vedhāyām atha patyur niketanam ।। tatrāsti sā savarṇā vai paripūrṇamanorathā । naṣṭaṃ bhartṛgṛhaṃ maugdhyāc chreyo atra na pitur gṛhe । 
+agacchad vaḍavā bhūtvāc chādya rūpam aninditā 
+kurūn athottarān gatvā tṛṇāny eva cacāra sā ।।

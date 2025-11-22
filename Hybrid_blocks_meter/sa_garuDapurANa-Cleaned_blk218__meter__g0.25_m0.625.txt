@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 218 | label: meter | g:0.25 m:0.625 ---
+
+āpasya putro vetuṇḍiḥ śramaḥ śrānto dhvanistathā ।
+dhruvasya putro bhagavānkālo lokaprakālanaḥ ।।

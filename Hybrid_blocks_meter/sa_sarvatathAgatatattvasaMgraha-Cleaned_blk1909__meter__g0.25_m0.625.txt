@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1909 | label: meter | g:0.25 m:0.625 ---
+
+buddhabimbaṃ lalāṭe tu likhyābhīkṣṇaṃ tu bhāvayet ।
+tayā bhāvanayā śīghramabhiṣekamavāpnute ।।

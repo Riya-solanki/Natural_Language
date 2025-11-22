@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1246 | label: grammar | g:0.625 m:0.5 ---
+
+[] kṛṣṇas tu sa-smitam uvāca-atrāloka-pathāśoka-vanikāyām anaśanīya-prasavāyām aśanāyantas te bhavantaḥ kutra vā psātavyaṃ lapsyante ?

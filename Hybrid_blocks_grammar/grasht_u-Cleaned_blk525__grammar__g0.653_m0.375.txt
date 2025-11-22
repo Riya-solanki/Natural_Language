@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 525 | label: grammar | g:0.653 m:0.375 ---
+
+satvapātanavidhānamāha vajretyādi ।।
+dṛḍhāṅgārair iti dṛḍhakathanāt khadirādīnāṃ pūrvoktatvādbhastrādvayena ca dhmātā satī vajrābhrakāntasasyakamākṣikaprabhṛtisakaladhātūnāṃ vajrasaṃjñakaṃ yadabhraṃ tadvajrābhraṃ kāntaṃ cumbakaṃ sasyakaṃ capalā mākṣikaṃ svarṇamākṣikaṃ itiprabhṛtayaḥ sakaladhātavaḥ sarvoparasāsteṣāṃ piṇḍī satvaṃ pātayati ।।

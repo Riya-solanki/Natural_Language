@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 10 | label: hybrid | g:0.355 m:0.49 ---
+
+sāṃkhyaiḥ samastajagadudbhavakāraṇāni proktāni yāni khalu sattvarajastamāṃsi ।
+rūpāṇi tāny api tavaiva samagraśakteḥ kiṃ nātra yat parigataṃ bhuvi śaktibhis te ।।

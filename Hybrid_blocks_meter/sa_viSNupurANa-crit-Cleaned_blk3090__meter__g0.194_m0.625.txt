@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3090 | label: meter | g:0.194 m:0.625 ---
+
+kāle tatrātithiṃ prāptam annakāmaṃ nṛpādhvagam 
+brāhmaṇair abhyanujñātaḥ kāmaṃ tam api bhojayet ।।

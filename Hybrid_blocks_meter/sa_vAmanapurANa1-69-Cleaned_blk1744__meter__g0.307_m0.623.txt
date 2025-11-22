@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1744 | label: meter | g:0.307 m:0.623 ---
+
+tato ambikāyāstvatha carmamuṇḍayā māryā ca siṃhena ca bhūtasaṃghaiḥ ।
+nipātyamānā danupuṅgavāste kakudminaṃ śumbhamupāśrayanta ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 801 | label: hybrid | g:0.521 m:0.5 ---
+
+puṇyāccyutaḥ syāmamaro na cāsmi vidyācca naḥ pāpamidaṃ jano api ।
+tadviprayogācca mano jvalaṃtsvāṃ vahniḥ purā kakṣamiva kṣiṇoti ।।

@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 607 | label: meter | g:0.401 m:0.706 ---
+
+yathāyamātmopalabdhiṃ prati svatantro apyaniyameneṣṭamaniṣṭaṃ copalabhata evamaniyamenaiveṣṭamaniṣṭaṃ ca saṃpādayiṣyati ।
+upalabdhāvapyasvātantryamupalabdhihetūpādānopalambhāditi cet ।

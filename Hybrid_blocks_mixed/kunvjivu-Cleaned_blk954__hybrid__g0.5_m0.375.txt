@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 954 | label: hybrid | g:0.5 m:0.375 ---
+
+atra samatayā sānurāgaḥ pṛthivī yatnaḥ pārthivasya pratīyate, dvayorapi varṇyamānatvāt, tathā parivṛttāvapi sāmyapratiterupamaiva ।
+yathā

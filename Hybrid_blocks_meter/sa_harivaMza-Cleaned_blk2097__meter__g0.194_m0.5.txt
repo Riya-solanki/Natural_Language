@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2097 | label: meter | g:0.194 m:0.5 ---
+
+trailokyasya hitārthāya yan mā vadasi nārada 
+tasya samyakpravṛttasya śrūyatām uttaraṃ vacaḥ ।।

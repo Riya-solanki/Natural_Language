@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5164 | label: meter | g:0.194 m:0.625 ---
+
+adhvaryur jñānasaṃpannas tadindrasya viceṣṭitam 
+kathayāmāsa rājarṣeḥ śaśāpa sa puraṃdaram ।।

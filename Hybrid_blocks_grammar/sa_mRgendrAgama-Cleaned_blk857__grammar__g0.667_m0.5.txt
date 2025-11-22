@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 857 | label: grammar | g:0.667 m:0.5 ---
+
+[tatsaṅkaraviśuddhaye] sāṅkaryamātre jāte tu tacchuddhyai lakṣam īśānasya japet। [kāpālikasaṃkrame] kāpālikasaṅkare tu [kṛtasaṃyamaḥ] triṣavaṇasnāto nirāhāraḥ trīṇi lakṣāṇi।।

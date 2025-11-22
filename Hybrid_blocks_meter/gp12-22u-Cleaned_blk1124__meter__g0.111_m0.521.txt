@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1124 | label: meter | g:0.111 m:0.521 ---
+
+sarpir-bhṛṣṭam āguḍa-kvathitatām āptāś ca dhānā yathā
+vasyante svayam eva bījavad amūs tanvanti nānya-spṛhām ।
+man-mātra-spṛhiṇāṃ madīya-bhajanaṃ no tadvad anya-spṛhaṃ
+kintu syād rasanīyarūpam iti ced yuṣmākam āstāṃ kathā ।। [śārdūla]

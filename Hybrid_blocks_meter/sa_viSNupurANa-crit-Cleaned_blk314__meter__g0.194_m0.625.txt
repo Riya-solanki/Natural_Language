@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 314 | label: meter | g:0.194 m:0.625 ---
+
+brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca dvijasattama 
+pādoruvakṣaḥsthalato mukhataś ca samudgatāḥ ।।

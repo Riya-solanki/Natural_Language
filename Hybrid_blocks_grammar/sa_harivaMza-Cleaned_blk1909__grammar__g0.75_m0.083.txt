@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1909 | label: grammar | g:0.75 m:0.083 ---
+
+niḥśabde stimite tasmin samāje tridivaukasām 
+babhāṣe dharaṇī vākyaṃ svedāt karuṇabhāṣiṇī ।। 
+tvayā dhāryā tv ahaṃ deva tvayā vai dhāryate jagat । tvaṃ dhārayasi bhūtāni bhuvanaṃ tvaṃ bibharṣi ca ।। yat tvayā dhāryate kiṃcit tejasā ca balena ca । tatas tava prasādena mayā paścāt tu dhāryate ।। tvayā dhṛtaṃ dhārayāmi nādhṛtaṃ dhārayāmy aham । na hi tad vidyate bhūtaṃ yat tvayā nānudhāryate ।। tvam eva kuruṣe deva nārāyaṇa yuge yuge । mahābhārāvataraṇaṃ jagato hitakāmyayā ।। tavaiva tejasā krāntāṃ rasātalatalaṃ gatām । trāyasva māṃ suraśreṣṭha tavaiva śaraṇaṃ gatām ।। dānavaiḥ pīḍyamānāhaṃ rākṣasaiś ca durātmabhiḥ । tvām eva śaraṇaṃ nityam upayāsye sanātanam ।। tāvan me asti bhayaṃ bhūyo yāvan na tvāṃ kakudminam । śaraṇaṃ yāmi manasā śataśo hy upalakṣaye । 
+aham ādau purānena saṃkṣiptā padmayoninā 
+māṃ ca badhvā kṛtau pūrvaṃ mṛṅmayau dvau mahāsurau ।।

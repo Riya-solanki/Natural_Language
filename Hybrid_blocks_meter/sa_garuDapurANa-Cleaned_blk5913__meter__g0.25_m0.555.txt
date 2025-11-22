@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5913 | label: meter | g:0.25 m:0.555 ---
+
+tattadeva bhavetsādhyaṃ naro vai garuḍāyate ।
+pretā bhūtāstathā yakṣā nāgā gandharvarākṣasāḥ ।
+darśanāttasya naśyanti jvarāścāturthikādayaḥ ।।

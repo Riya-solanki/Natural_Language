@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1283 | label: grammar | g:0.583 m:0.449 ---
+
+sarvatra tu mat-sphūrtir na bhavati bata sarvadeti pūrtir naḥ ।
+bhavatīr anu sā nityā yaiva ca mat-sannidhāna-rūpaiva ।।tasmāt pati-suta-valitaṃ nilayaṃ tvarayā prayāta tā yūyam ।
+mama ca tataḥ sukham uccaiḥ sāmañjasyaṃ hi sarvato vaśmi ।।
+[] tad evaṃ vrajadeva-kumārataḥ śrutaṃ sukumāram apīdaṃ vacanam āpāta-sampāta-hīnatayā duḥsaha-racanaṃ manyamānāḥ prativacanam āceruḥ-

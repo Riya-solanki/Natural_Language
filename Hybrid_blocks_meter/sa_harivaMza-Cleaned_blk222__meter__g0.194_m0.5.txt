@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 222 | label: meter | g:0.194 m:0.5 ---
+
+ye cānye vindhyanilayās tumurās tumburās tathā 
+adharmarucayas tāta viddhi tān venakalmaṣān ।।

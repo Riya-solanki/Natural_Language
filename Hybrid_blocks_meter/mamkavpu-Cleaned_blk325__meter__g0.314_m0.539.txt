@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 325 | label: meter | g:0.314 m:0.539 ---
+
+{kṣaṇadāsāvakṣaṇadā vanamavanaṃ vyasanamavyasanam ।
+bata vīra tava dviṣatāṃ parāṅmukhe tvayi parāṃṅmukhaṃ sarvam ।। }

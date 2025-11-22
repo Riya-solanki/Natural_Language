@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 550 | label: grammar | g:0.583 m:0.5 ---
+
+khaḍḍāyām ardhaṃ yāvacchaṇakāni muktvopari kūpī mucyate tataḥ pārśveṣattathopari chāṇakair gartā bhriyate ।।

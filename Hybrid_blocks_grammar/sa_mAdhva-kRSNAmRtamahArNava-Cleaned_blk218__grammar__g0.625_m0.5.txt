@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 218 | label: grammar | g:0.625 m:0.5 ---
+
+ūrdhvapuṇḍram ṛjuṃ saumyaṃ lalāṭe dṛśyate sa caṇḍālo api śuddhātmā pūjya eva na saṃśayaḥ ।।

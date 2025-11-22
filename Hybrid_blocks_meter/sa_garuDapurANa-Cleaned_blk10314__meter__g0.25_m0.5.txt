@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10314 | label: meter | g:0.25 m:0.5 ---
+
+sāmyāvasthāṃ guṇānāṃ ca śṛṇvidānīṃ khageśvara ।
+rāśīkṛtācca rajasaḥ janyaṃ yacca kageśvara ।।

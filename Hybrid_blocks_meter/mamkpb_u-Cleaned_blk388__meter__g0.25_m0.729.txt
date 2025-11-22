@@ -1,0 +1,6 @@
+--- source: mamkpb_u-Cleaned.txt | block: 388 | label: meter | g:0.25 m:0.729 ---
+
+upalakṣaṇamaṅgabhāvaḥ, arthādupalakṣaṇīye arthe ।
+udāharaṇam tadidamaraṇyaṃ yasmin daśarathavacanānupālanavyasanī ।
+nivasan bāhusahāyaśvakāra rakṣaḥkṣayaṃ rāmaḥ ।।
+na cātra vīro rasaḥ, tasyehāṅgatvāt ।।

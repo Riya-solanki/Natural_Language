@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 128 | label: hybrid | g:0.401 m:0.488 ---
+
+bhīmasenaḥ
+na kevalaṃ dṛṣṭoktā ca । tatastataḥ ।

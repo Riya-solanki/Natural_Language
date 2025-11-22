@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 99 | label: meter | g:0.306 m:0.5 ---
+
+aho tṛṣṇā veśyā sakalajanatāmohanakarī vidagdhā mugdhānāṃ harati vivaśānāṃ śamadhanam ।
+vipaddīkṣādakṣāsahataralatāraiḥ praṇayinīkaṭākṣaiḥ kūṭākṣaiḥ kapaṭakuṭilaiḥ kāmakitavaḥ ।।

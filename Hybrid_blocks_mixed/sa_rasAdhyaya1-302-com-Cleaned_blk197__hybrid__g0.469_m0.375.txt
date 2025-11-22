@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 197 | label: hybrid | g:0.469 m:0.375 ---
+
+pattrāṇi tāmrasya laghūni piṣṭīṃ kṛtvā rasena triguṇena bhāṇḍe 
+।।

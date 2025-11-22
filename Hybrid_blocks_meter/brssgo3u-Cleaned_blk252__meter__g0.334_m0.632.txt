@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 252 | label: meter | g:0.334 m:0.632 ---
+
+FN asya jīvabhāvaṃ prāptasyeśvarasya daśa harayo viṣayā indriyāṇi vā ।
+taṃ jñānārthinam ।
+bhinnavākyārthaviṣayaḥ śabdaḥ śabdāntaram ।

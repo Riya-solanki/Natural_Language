@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 378 | label: grammar | g:0.604 m:0.412 ---
+
+itaśca paramātmaivehāttā bhavitumarhati, yatkāraṇaṃ prakaraṇamidaṃ paramatmanaḥ, ana jāyate mriyate vā vipaścit' ityādi prakṛtagrahaṇaṃ ca nyāyyam ।
+aka itthā veda yatra saḥ' iti ca durvijñānatvaṃ paramātmaliṅgam ।।

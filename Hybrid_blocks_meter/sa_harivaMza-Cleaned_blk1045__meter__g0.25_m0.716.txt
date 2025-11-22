@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1045 | label: meter | g:0.25 m:0.716 ---
+
+sahasradasya dāyādās trayaḥ paramadhārmikāḥ 
+śatajin nāma pārthivaḥ ।
+śatajitaḥ sutāḥ khyātās ।
+hehayaś ca hayaś caiva rājan veṇuhayas tathā ।।

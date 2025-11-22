@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1222 | label: grammar | g:0.75 m:0.5 ---
+
+[] tadaiva sa cātrakīyāpatrapātaḥ śirasi vasanāvaraṇaḥ sahasā nirgamya pūrṇimāṃ praṇamya ca calita evāsīt । kintu skhalann iva calan, karmaṇā narmaṇā ca madhumaṅgala-dattāvalambaḥ sakhi-kulaṃ saṃvalate sma ।

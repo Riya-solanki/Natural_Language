@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 33 | label: grammar | g:0.573 m:0.5 ---
+
+apy anyasmiñ jaladhara mahākālam āsādya kāle sthātavyaṃ te nayanaviṣayaṃ yāvad atyeti bhānuḥ ।
+kurvan saṃdhyābalipaṭahatāṃ śūlinaḥ ślāghanīyām āmandrāṇāṃ phalam avikalaṃ lapsyase garjitānām ।।

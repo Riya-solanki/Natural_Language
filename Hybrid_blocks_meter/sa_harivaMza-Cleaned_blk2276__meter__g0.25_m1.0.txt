@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2276 | label: meter | g:0.25 m:1.0 ---
+
+takranisrāvabahulaṃ dadhimaṇḍārdramṛttikam 
+navanītaparikṣiptam ājyagandhavibhūṣitam । 
+manthānavalayodgārair gopīnāṃ janitasvanam ।।

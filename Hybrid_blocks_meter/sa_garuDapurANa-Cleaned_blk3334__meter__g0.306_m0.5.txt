@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3334 | label: meter | g:0.306 m:0.5 ---
+
+yatra sneho bhayaṃ tatra sneho duḥ khasya bhājanam ।
+snehamūlāni duḥ khāni tasmistyakte mahatsukham ।।

@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1371 | label: meter | g:0.0 m:0.75 ---
+
+eṣa sādharmyeṇa । vaidharmyeṇa tu

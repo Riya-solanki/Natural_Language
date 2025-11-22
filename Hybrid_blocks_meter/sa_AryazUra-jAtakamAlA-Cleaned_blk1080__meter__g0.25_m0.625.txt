@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1080 | label: meter | g:0.25 m:0.625 ---
+
+sa grāmaṇīrastu sahāyamadhye strīnṛttagītairupalāpyamānaḥ ।
+mā rājataśca vyasanāni labdha bisārthamātmārthamaśīśamadyaḥ ।।

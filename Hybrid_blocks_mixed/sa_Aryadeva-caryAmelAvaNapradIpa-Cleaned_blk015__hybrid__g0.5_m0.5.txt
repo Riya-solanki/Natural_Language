@@ -1,0 +1,3 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 15 | label: hybrid | g:0.5 m:0.5 ---
+
+pañcahṛdayamāśritya pañcatanuvinirgatam । pañcavāyusamāyuktaṃ pañcakāmopabhogakṛta ।। iti ।

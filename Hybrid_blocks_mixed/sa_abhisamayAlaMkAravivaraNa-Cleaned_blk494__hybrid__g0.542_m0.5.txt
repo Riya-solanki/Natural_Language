@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 494 | label: hybrid | g:0.542 m:0.5 ---
+
+vistṛtanirdeśastu aṣṭamādhikāre catvāriṃśatkārikābhirvihitaḥ । tatra dharmakāyasya lakṣaṇādikaṃ sarvaṃ svarūpamupavarṇitam ।

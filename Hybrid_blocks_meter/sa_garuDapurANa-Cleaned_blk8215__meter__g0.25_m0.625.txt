@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8215 | label: meter | g:0.25 m:0.625 ---
+
+ābrāhmastambaparyantaṃ jagatprīṇāti mānavaḥ ।
+annaprakiraṇaṃ yattu manuṣyaiḥ kriyate bhuvi ।।

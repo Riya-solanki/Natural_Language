@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2624 | label: meter | g:0.194 m:0.5 ---
+
+karṣakāṇāṃ kṛṣir vṛttiḥ paṇyaṃ vipaṇijīvinām 
+asmākaṃ gauḥ parā vṛttir etat traividhyam ucyate 
+vidyayā yo yayā yuktas tasya sā daivataṃ param ।। 
+saiva pūjyārcanīyā ca saiva tasyopakāriṇī । 
+yo anyasya phalam aśnānaḥ karoty anyasya satkriyām 
+dvāv anarthau sa labhate pretya ceha ca mānavaḥ ।।

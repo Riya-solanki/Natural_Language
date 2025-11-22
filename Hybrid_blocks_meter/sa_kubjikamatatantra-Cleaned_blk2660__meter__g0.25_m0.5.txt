@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2660 | label: meter | g:0.25 m:0.5 ---
+
+vāyuvegā ca bhīṣaṇyā skandhayor ubhayor api 
+va kaṇṭhe śikhivāhinyā a vāg vāgeśvarī matā ।।

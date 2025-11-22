@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 176 | label: meter | g:0.194 m:0.5 ---
+
+cinmayatve avabhāsānām anta eva sthitiḥ sadā 
+māyayā bhāsamānānāṃ bāhyatvād bahir apy asau ।।

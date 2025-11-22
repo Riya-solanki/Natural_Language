@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1352 | label: meter | g:0.25 m:0.841 ---
+
+anuhrādo hariharau varāhaḥ saṃharo rujaḥ 
+vepanaś ca mahārathaḥ ।
+bṛhatkīrtir mahājihvaḥ ।
+śarabhaḥ śalabhaś caiva kupanaḥ kopanaḥ krathaḥ ।।

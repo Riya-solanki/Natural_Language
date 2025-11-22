@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 134 | label: hybrid | g:0.29 m:0.464 ---
+
+nitye ca muktasaṃsārasthayoraviśeṣa ityuktam।
+yathā muktasya nityaṃ sukhaṃ tatsaṃvedanahetuśca, saṃvedanasya tūparamo nāsti, kāraṇasya nityatvāt, tathā saṃsārasthasyāpīti।
+evaṃ ca sati dharmādharmaphalena sukhaduḥkhasaṃvedanena sāhacaryaṃ gṛhyeteti।।

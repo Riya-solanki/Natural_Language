@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 828 | label: meter | g:0.306 m:0.5 ---
+
+saṃdhyāsu varjyaṃ surataṃ divā ca sarvāsu yonīṣu parābalāsu ।
+āgāraśūnyeṣu mahītaleṣu rajasvalāsveva jaleṣu vīra ।।

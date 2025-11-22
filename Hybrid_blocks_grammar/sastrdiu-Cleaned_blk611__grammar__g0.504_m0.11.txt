@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 611 | label: grammar | g:0.504 m:0.11 ---
+
+nacāvaśyamekamevendriyaṃ- yadyapyākāśamekamanavayavaṃ ca tathāpi tasya prādeśikairghaṭādibhirye saṃyogāste api prādeśikāstataśca karṇaśaṣkulīsaṃyogānāṃ pratipuruṣaṃ bhinnatvāttadavacchinnasya cākāśasya śrotratvātsatyapi svarūpaikatve avacchinnarūpāṇāṃ śrotrāṇāṃ bhedādvyavasthāsiddhiḥ ।
+evamahaṅkārabhāge digbhāge vā śrotre draṣṭavyam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 754 | label: meter | g:0.306 m:0.625 ---
+
+tadā snānaṃ tatra kṛtvā mukto bhavati pātakaiḥ ।
+yaḥ prayaccheta karakāṃścaturo bhakṣyasaṃyutān ।।

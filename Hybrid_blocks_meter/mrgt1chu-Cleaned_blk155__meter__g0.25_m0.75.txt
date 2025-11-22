@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 155 | label: meter | g:0.25 m:0.75 ---
+
+īṣṭe yena jagatsarvaṃ guṇenoparivartinā ।।
+sa mūrdhasamadeśatvānmūrdhā nāvayavastanoḥ ।

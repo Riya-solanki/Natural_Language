@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 295 | label: grammar | g:0.654 m:0.412 ---
+
+yathā pradīpaprakāśaḥ pratyakṣāṅgatvād dṛśyadarśane pramāṇaṃ sa ca pratyakṣāntareṇa
+cakṣuṣaḥ saṃnikarṣeṇa gṛhyate, pradīpabhāvābhāvayordarśanasya tathābhāvād darśanaheturanumīyate atamasi pradīpamupādadīthāḥ' ityāptopadeśenāpi pratipadyate, evaṃ pratyakṣādīnāṃ yathādarśanaṃ pratyakṣādibhirevopasabdhiḥ।
+indriyāṇi tāvat svaviṣayagrahaṇenaivānumīyante arthāḥ pratyakṣato gṛhyante indriyārthasaṃnikarṣāstvāvaraṇena liṅgenānumīyante indriyārthasaṃnikarṣotpannaṃ jñānamātmamanasoḥ saṃyogaviśeṣādātmasamavāyācca sukhādivad gṛhyate evaṃ pramāṇaviśeṣo vibhajya vacanīyaḥ।
+yathā ca dṛśyaḥ san pradīpaprakāśo dṛśyāntarāṇāṃ darśanaheturiti dṛśyadarśanavyavasthāṃ labhate evaṃ prameyaṃ sat kiñcidarthajātamupalabdhihetutvāt pramāṇaprameyavyavasthāṃ labhate, seyaṃ pratayakṣādibhireva pratyakṣādīnāṃ yathādarśanamupalabdhirna pramāṇāntarato na ca pramāṇamanteraṇa niḥsādhaneti ।।
+tanaiva tasyāgrahaṇamiti cet ? na arthabhedasya lakṣaṇasāmānyāt।
+pratyakṣādīnāṃ pratyakṣādibhireva grahaṇamityayuktam anyena hyanyasya grahaṇaṃ dṛṣṭamiti, na arthabhedasya lakṣaṇasāmānyātupratyakṣalakṣaṇenānekorthaḥ saṃgṛhītastatra kena cit kasyacid grahaṇamityadoṣaḥ, evamanumānādiṣvapīti, yathoddhṛtenodakenāśayasthasya grahaṇamiti ।।

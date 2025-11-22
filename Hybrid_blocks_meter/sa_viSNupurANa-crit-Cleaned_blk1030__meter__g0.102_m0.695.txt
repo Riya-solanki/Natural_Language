@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1030 | label: meter | g:0.102 m:0.695 ---
+
+tataḥ prabhṛti maitreya prajā maithunasaṃbhavāḥ 
+saṃkalpād darśanāt sparśāt pūrveṣām abhavan prajāḥ 
+tapoviśaiṣair iddhānāṃ tadātyantatapasvinām ।।

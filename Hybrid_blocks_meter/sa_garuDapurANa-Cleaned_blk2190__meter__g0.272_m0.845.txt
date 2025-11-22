@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2190 | label: meter | g:0.272 m:0.845 ---
+
+nirīkṣya palāyante yaṃ tamaraṇyanivāsinaḥ samīpa'pi ।
+dvīpivṛkaśarabhakuñjarasiṃhavyāghrādayo hiṃstrāḥ ।।

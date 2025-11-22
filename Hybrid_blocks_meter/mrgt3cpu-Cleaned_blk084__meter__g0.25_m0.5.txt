@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 84 | label: meter | g:0.25 m:0.5 ---
+
+tadārabhya ciraṃ nāti vyākuryātprathame ahani ।
+prārambhe api na sampraśna- pratipraśnātimātrakam ।
+trīṇi mūlāni sūtrāṇi dve tathaikamathāpi vā ।

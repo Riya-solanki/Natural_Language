@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7122 | label: meter | g:0.338 m:0.796 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahmovāca ।
+brahmagītāṃ pravakṣyāmi yajjñātvā mucyate bhavān ।
+ahaṃbrahmāsmi vākyotthajñānānmokṣo bhavennaṇām ।।

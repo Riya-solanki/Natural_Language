@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 875 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad-anantaram api yathā vrajasya rājñānujñāpitam । tathā vāsudeva-prasādād vasudeva-pravīṇānāṃ tad-vartma-vīkṣādīnānāṃ dāruka-kathita-tat-tad-vṛttābhoga-bhoga-pīnānāṃ svalpa-kālatām āpakam āyādhīnānāṃ tad-āgamanāśayā bahir evāsīnānāṃ tad-iṣṭa-siddhir indhāmbabhūveti ।

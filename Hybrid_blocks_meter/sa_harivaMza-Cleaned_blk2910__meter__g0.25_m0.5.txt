@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2910 | label: meter | g:0.25 m:0.5 ---
+
+ṛṣīṇām iva vo vṛttaṃ prabhāvo marutām iva 
+rudrāṇām iva vaḥ krodho dīptir aṅgirasām iva ।।

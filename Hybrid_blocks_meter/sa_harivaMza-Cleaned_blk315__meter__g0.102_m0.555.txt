@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 315 | label: meter | g:0.102 m:0.555 ---
+
+vedabāhur yadudhraś ca munir vedaśirās tathā 
+hiraṇyalomā parjanya ūrdhvabāhuś ca somajaḥ 
+satyanetras tathātreya ete saptarṣayo apare ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6328 | label: meter | g:0.25 m:0.625 ---
+
+āvāhya yajupānena tejo asīti vidhānataḥ ।
+etadyajuḥ purā daivairdṛṣṭidarśanakāṅkṣibhiḥ ।।

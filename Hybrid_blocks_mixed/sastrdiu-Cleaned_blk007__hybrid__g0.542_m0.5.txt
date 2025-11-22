@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 7 | label: hybrid | g:0.542 m:0.5 ---
+
+anena sūtreṇa prārīpsitasya śāstrasya śrotṛpravṛttisiddhaye dharmajñānaṃ prayojanaṃ kathyate ।
+yadā hi dharmajijñāsā kartavyetyukte śāstramārabhyamāṇaṃ dṛśyate tadā nūnamidaṃ śāstraṃ dharmajñānaprayojanamityavagamyate ।।

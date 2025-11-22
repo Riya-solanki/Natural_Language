@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 87 | label: grammar | g:0.611 m:0.5 ---
+
+ūḍhā yena mahādhuraḥ suviṣame mārge sadaikākinā soḍho yena kadā cid eva na nije goṣṭhe anyaśauṇḍadhvaniḥ 
+āsīd yas tu gavāṃ gaṇasya tilakas tasyaiva sampraty aho dhik kaṣṭaṃ dhavalasya jātajaraso goḥ paṇyam udghoṣyate ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1862 | label: grammar | g:0.538 m:0.002 ---
+
+uttiṣṭha śatapatrākṣa padmanābha mahādyute 
+kāraṇaṃ kiṃcid utpannaṃ devānāṃ kāryagauravāt ।। 
+jahi nidrāṃ jagaddhetoḥ keśaveśa janārdana । tvayi supte jagat suptaṃ tvayi jāgrati jāgṛtam ।। mīlanaṃ kuru devānāṃ devadeva jagatpate । kiṃ tvaṃ svapiṣi govinda naṣṭe jagati sāṃpratam । naṣṭaprāyaṃ jagat paśya sadevāsuramānuṣam । 
+sa saṃkṣipya jagat sarvaṃ timiraughaṃ vidārayan 
+udatiṣṭhad dhṛṣīkeśaḥ śriyā paramayā jvalan ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1300 | label: meter | g:0.328 m:0.595 ---
+
+paraguṇatattvagrahaṇaṃ svaguṇāvaraṇaṃ paravyasanamaunam ।
+madhuram aśaṭhaṃ ca vākyaṃ kenāpy upadiṣṭam āryāṇām ।।

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10468 | label: meter | g:0.268 m:0.7 ---
+
+śrīgaruḍamahāpurāṇam- śrīkṛṣṇa uvāca । 
+pārvatyānantarotpanna indro vacanamabravīt ।
+indra uvāca ।
+tava svarūpaṃ hṛdi saṃvijānan samutsukaḥ syātstavane yastu mūḍhaḥ ।
+ajānataḥ stavanaṃ devadeva tadevāhurhelanaṃ cakrapāṇe ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1747 | label: meter | g:0.25 m:0.625 ---
+
+yathā sametya jvalito api pāvakastaṭāntasaṃsaktajalāṃ mahānadīm ।
+praśāntimāyātimanojvalastathā śritasya lokadvitayakṣamāṃ kṣamām ।।

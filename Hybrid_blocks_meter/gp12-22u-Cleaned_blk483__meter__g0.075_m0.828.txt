@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 483 | label: meter | g:0.075 m:0.828 ---
+
+te gṛhe maṇibhir apy alaṅkṛtāś
+cāru-kānti-vidhaye yad udbhavaiḥ ।
+puṣpa-pallava-mukhair alaṅkriyāṃ
+śaśvad ādiṣata tasya kiṃ bruve ।। [rathoddhatā]

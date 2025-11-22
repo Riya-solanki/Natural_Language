@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8121 | label: meter | g:0.25 m:0.808 ---
+
+preta uvāca ।
+kathayāmi nṛpaśreṣṭha sarvamevāditastava ।
+pretatve kāraṇaṃ śrutvā dayāṃ kartumihārhasi ।।

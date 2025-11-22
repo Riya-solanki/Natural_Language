@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4702 | label: meter | g:0.25 m:0.555 ---
+
+tataḥ praviśya sahasā bhavanaṃ tasya tan mahat 
+tatrāniruddhaṃ sāpaśyac citralekhā varāpsarāḥ । 
+dadarśa madhye nārīṇāṃ tārāpatim ivoditam ।।

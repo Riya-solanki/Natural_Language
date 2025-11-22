@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 209 | label: grammar | g:0.615 m:0.5 ---
+
+nanvarthasyāpi sthāyitvamekasya ca nānākāraṇatvaṃ na saṃbhavatyeva, saṃbhavatu vā mā vā, jñānātmatā tāvanna saṃbhavati ।
+tadasaṃbhave cārthākārau vā sthāyitvacitratve syātām, atyantāsadrūpe vā, dvaidhāpi jñānānātmakayorjñānena grahaṇātsiddhaṃ naḥ samīhitam ।।

@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 130 | label: hybrid | g:0.434 m:0.483 ---
+
+naiṣa doṣaḥ ।
+yataḥ kṣīravaddravyasvabhāvaviśeṣādupapadyate ।
+yathā hi loke kṣīraṃ jalaṃ vā svayameva dadhihimabhāvena pariṇamate anapekṣya bāhyaṃ sādhanaṃ tathehāpi bhaviṣyati ।

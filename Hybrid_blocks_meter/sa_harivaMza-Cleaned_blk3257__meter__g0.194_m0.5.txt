@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3257 | label: meter | g:0.194 m:0.5 ---
+
+atha saubhapatiḥ śrīmān drumilo nāma dānavaḥ 
+ugrasenasya rūpeṇa mātaraṃ me pradharṣayat ।।

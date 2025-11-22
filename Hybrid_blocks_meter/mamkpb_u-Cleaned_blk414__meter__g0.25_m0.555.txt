@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 414 | label: meter | g:0.25 m:0.555 ---
+
+paraḥ paryantabhāgaḥ, avadhiryasya dhārādhirohitayā tatraivotkarṣasya viśrānteḥ ।
+udāharaṇam rājye sāraṃ vasudhā vasudhāyāṃ puraṃ pure saudham ।
+saudhe talpaṃ talpe varāṅganānaṅgasarvasvam ।।

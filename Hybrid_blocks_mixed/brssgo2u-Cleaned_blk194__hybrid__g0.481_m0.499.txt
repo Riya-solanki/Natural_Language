@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 194 | label: hybrid | g:0.481 m:0.499 ---
+
+syādetat vikaraṇāṃ parāṃ devatāṃ śāsti śāstram- aacakṣuṣkamaśrotramavāgamanāḥ' ityevañjātīyakam ।
+kathaṃ sā sarvaśaktiyuktāpi satī kāryāya prabhavet ।
+devādayo hi cetanāḥ sarvaśaktiyuktā api santa ādhyatmikakāryakaraṇasaṃpannā eva tasmaitasmai kāryāya prabhavanto vijñāyante ।
+kathañca aneti neti' iti pratiṣiddhasarvaviśeṣāyā devatāyāḥ sarvaśaktiyogaḥ saṃbhavediti cet ।

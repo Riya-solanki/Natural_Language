@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 434 | label: meter | g:0.272 m:0.845 ---
+
+gurutāṃ jaghanastanayoḥ sraṣṭur muṣṭyonnamayya tulitavataḥ ।
+magnāṅgulisaṃdhitrayanirgatalāvaṇyapaṅktilā trivalī ।।

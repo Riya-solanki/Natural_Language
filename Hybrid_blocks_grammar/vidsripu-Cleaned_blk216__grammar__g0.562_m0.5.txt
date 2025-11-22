@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 216 | label: grammar | g:0.562 m:0.5 ---
+
+dhāsyaty adya sitātapatrasubhagaṃ sā rājahaṃsī śiśoḥ smerāmbhoruhavāsino api śirasi snehena pakṣadvayam ।
+tṛṣṇārtaḥ śukaśāvako api sutanoḥ pīnastanāsaṅginīṃ muktāhāralatāṃ tadaṅkavasatis toyāśayā pāsyati ।।

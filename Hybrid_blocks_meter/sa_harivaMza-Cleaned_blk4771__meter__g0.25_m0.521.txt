@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4771 | label: meter | g:0.25 m:0.521 ---
+
+vyāditāsyasya yo mṛtyor daṃṣṭrāgre parivartate 
+atikruddhasya siṃhasya ghnataś ca gajasattamān । 
+śoṇitaṃ pātukāmasya daṃṣṭrān prodhṛtya daṃśataḥ । 
+sa vāsudevaṃ samare mohāt pratyudiyād ripuḥ ।।

@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 984 | label: meter | g:0.25 m:0.5 ---
+
+na caitānyanāvṛttāni satkāradīrghakālanairantaryeṇa sākṣātkāravate tādṛśānubhavāya kalpante ।
+na cātrāsākṣātkāravadvijñānaṃ sākṣātkāravatīmavidyāmucchettumarhati ।
+na khalu pittopahṛtendriyasya guḍe tiktatāsākṣātkāro antareṇamādhuryasākṣātkāraṃ sahasreṇāpyupapattibhirnivartitumarhati ।
+atadvato narāntaravacāṃsivopapattisahasrāṇi vā parāmṛśato api thūtkṛtya guḍatyāgāt ।
+tadevaṃ dṛṣṭārthatvaddhyānopāsanayoścāntanīrtāvṛttikatvena lokataḥ pratīterāvṛttireveti siddham ।।

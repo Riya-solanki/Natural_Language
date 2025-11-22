@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 101 | label: meter | g:0.194 m:0.625 ---
+
+yā nālpena tapaḥsamādhividhinā saṃprāpyate kenacid
+yāmāsādya ca bhūribhirmakhaśataiḥ kīrti divaṃ cāpnuyāt ।
+saṃprāptāmatipatya tāṃ nṛpatitāṃ śakrarddhivispardhinīṃ
+kiṃ dṛṣṭvā nayane praditsati bhavānko ayaṃ kutastyo vidhiḥ ।।

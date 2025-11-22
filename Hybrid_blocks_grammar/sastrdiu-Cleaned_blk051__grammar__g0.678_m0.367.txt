@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 51 | label: grammar | g:0.678 m:0.367 ---
+
+kā cāsya sūtrasya vacanavyaktiḥ, yadi tāvat ayatkāryaṃ tadvedārtha eve'ti kāryamuddiśya vedārthatā vidhīyate, tathā satyuddeśyasyopādeyena svaraniyamātsarvasya lokikasyāpi gavānayanādikāryasya vedārthatā syāt ।
+kiñca upādeyasya vedārthasyoddeśena dhūmenāvyāpterakārye api vedasya prāmāṇyanirastaṃ syāt ।।

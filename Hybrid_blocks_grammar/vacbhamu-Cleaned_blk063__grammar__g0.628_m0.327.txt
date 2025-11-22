@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 63 | label: grammar | g:0.628 m:0.327 ---
+
+na ca prakāśasyātmāno viṣayāḥ; te hi vicchinnadīrghasthūlatayānubhūyante; prakāśaścāyaṃ antaro asthūlo anaṇurahrasvo adīrdhaśceti prakāśate; tasmāccandre anubhūyamāne iva dvitīyaścandramāḥ svaprakāśādanyor'thaḥ anirvacanīya eveti yuktamutpaśyāmaḥ ।
+na ca asya prakāśasyājānataḥ svalakṣaṇabhedo anubhūyate ।
+na ca anirvācyārthabhedaḥ prakāśaṃ nirvācyaṃ bhettumarhati, atiprasaṅgāt ।
+na ca arthānāmapi parasparaṃ bhedaḥ samīcīnajñānapaddhatimadhyāste ityupariṣṭādupapādayiṣyate ।
+tadayaṃ prakāśa eva svayaṃprakāśa ekaḥ kūṭastho nityo niraṃśaḥ pratyagātmā aśakyanirvacanīyebhyo dehendriyādibhya ātmānaṃ pratīpaṃ nirvacanīyamañcati jānātīti pratyaṅ, sa cātmeti pratyagātmā ।

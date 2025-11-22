@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 656 | label: meter | g:0.0 m:0.5 ---
+
+[] tatra nadī-caritaṃ tābhir evaṃ vicāritam-

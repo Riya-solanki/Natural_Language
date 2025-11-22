@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2346 | label: meter | g:0.25 m:0.5 ---
+
+kim asvādv atha vā mṛṣṭaṃ bhuñjato annaṃ dvijottama 
+mṛṣṭam eva yadāmṛṣṭaṃ tad evodvegakāraṇam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2959 | label: meter | g:0.25 m:0.5 ---
+
+iha tvaṃ jātasaṃvṛddho mama pitrā vivardhitaḥ 
+pitṛṣvasur me bhartā ca yadūnāṃ prathamo guruḥ ।।

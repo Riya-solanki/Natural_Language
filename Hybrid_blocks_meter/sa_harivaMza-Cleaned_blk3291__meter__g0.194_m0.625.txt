@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3291 | label: meter | g:0.194 m:0.625 ---
+
+sa śukle vāsasī bibhrac chvetavyajanacāmaraḥ 
+śuśubhe śvetamukuṭaḥ śvetābhra iva candramāḥ ।।

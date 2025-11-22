@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 106 | label: meter | g:0.25 m:0.583 ---
+
+pratyakṣaṃ tāvadindriyārthasaṃprayogajanyatvena vidyamānopalambhanatvādbhaviṣyati dharme na nimittam ।
+satsaṃprayogajanyatvamābhāse api tulyatvādalakṣaṇamiti naiyāyikā dūṣayanti, tattu lakṣaṇānabhidhānādadūṣaṣaṇam ।
+nahīdaṃ lakṣaṇaṃ pratyakṣasya, kintvanimittatlakathanamātram ।
+tatra heturvidyamānopalambhanatvaṃ tatsādhanaṃ ca satsaṃprayogajatvam ।
+nahi satsaṃprayogajamavidyamānopalambhanaṃ saṃbhavati ।।

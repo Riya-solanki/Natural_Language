@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4327 | label: meter | g:0.194 m:0.625 ---
+
+evam etāni karmāṇi śiśur madhyavayās tathā 
+kṛtavān puṇḍarīkākṣaḥ saṃkarṣaṇasahāyavān ।।

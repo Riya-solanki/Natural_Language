@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 213 | label: grammar | g:0.583 m:0.5 ---
+
+tad vai purāṇam abhinavaṃ stṛṇīṣva vāsaḥ praśastaṃ prati me gṛhāṇa iti ।

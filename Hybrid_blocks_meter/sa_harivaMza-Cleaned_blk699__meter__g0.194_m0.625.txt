@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 699 | label: meter | g:0.194 m:0.625 ---
+
+nigṛhītas tadāhaṃ tu sacivair mantrakovidaiḥ 
+ṛtvigbhir devakalpaiś ca suhṛdbhir narapuṃgava ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9482 | label: meter | g:0.306 m:0.5 ---
+
+satyaṃsatyaṃ punaḥ satyaṃ śrūyatāṃ vacanaṃ mama ।
+na piṇḍo milito yeṣāṃ mṛtānāntu nṛṇāṃ bhuvi ।।

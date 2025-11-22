@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 241 | label: meter | g:0.25 m:0.863 ---
+
+athārthadoṣāḥ । 
+apārthaṃ vyarthamekarthaṃ sasaṃśayamapakramam ।
+paruṣaṃ virasaṃ bhinnamatimātramanujjvalam ।।

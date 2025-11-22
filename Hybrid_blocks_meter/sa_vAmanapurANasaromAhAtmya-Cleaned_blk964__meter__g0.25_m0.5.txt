@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 964 | label: meter | g:0.25 m:0.5 ---
+
+pratiṣṭhitaṃ mahāliṅgaṃ gokarṇaṃ nāma nāmataḥ ।
+āṣāḍhamāse yā kṛṣṇā bhaviṣyati caturdaśī ।
+tasyāṃ yor'cati gokarṇaṃ tasya puṇyaphalaṃ śṛṇu ।।

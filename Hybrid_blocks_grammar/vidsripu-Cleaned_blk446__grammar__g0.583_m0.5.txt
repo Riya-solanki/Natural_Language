@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 446 | label: grammar | g:0.583 m:0.5 ---
+
+muhuḥ śastracchedair muhur asamapāṣāṇakaṣaṇair muhur jyotiḥkṣepaiḥ payasi paritāpaiḥ pratimuhuḥ ।
+tad evaṃ tanvaṅgyāḥ katham api nitambasthalam idaṃ mayā labdhaṃ puṇyair iti raṇati kāñcīparikaraḥ ।।

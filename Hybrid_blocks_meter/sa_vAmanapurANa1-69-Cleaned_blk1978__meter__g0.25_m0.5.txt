@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1978 | label: meter | g:0.25 m:0.5 ---
+
+raudraḥ śakaṭacakrākṣo gaṇaḥ pañcaśikho balī ।
+bhrāmayan mudgaraṃ vegānnijaghāna balād ripūn ।।

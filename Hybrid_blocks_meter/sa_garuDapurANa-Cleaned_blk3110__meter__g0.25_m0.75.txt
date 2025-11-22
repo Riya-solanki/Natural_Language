@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3110 | label: meter | g:0.25 m:0.75 ---
+
+kālaḥ sūkṣmagatirnityaṃ dvividhaśceha bhāvyate ।
+sthūlasaṃgrahacāreṇa sūkṣmacārāntareṇa ca ।।

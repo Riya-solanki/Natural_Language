@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10227 | label: meter | g:0.25 m:0.5 ---
+
+avatārā mahāviṣṇoḥ sarve pūrṇāḥ prakīrtitāḥ ।
+pūrṇaṃ ca tatparaṃ rūpaṃ pūrṇātpūrṇāḥ samudgatāḥ ।।

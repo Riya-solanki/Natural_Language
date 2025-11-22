@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5431 | label: meter | g:0.25 m:0.695 ---
+
+godantaṃ haritālañca saṃyuktaṃ kākajihvayā ।
+cūrṇokṛtya yasya śire dīyate sa vaśī bhavet ।
+śvetasarṣapanirmālyaṃ yadgṛhe tadvināśakṛt ।।

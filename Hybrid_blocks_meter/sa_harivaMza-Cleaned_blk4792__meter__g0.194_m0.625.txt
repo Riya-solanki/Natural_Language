@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4792 | label: meter | g:0.194 m:0.625 ---
+
+aniruddhe hṛte vīre pṛthivyāṃ sarvapārthivāḥ 
+aśaktān iva manyante sarvān asmān sabāndhavān ।।

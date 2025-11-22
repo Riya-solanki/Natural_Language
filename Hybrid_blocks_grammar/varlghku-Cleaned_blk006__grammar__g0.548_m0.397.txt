@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 6 | label: grammar | g:0.548 m:0.397 ---
+
+ādirantyena sahetā ।।
+antyenetā sahati ādirmadhyagānāṃ svasya ca saṃjñā syāt yathāṇiti a i u varṇānāṃ saṃjñā । evamac hal alityādayaḥ ।।

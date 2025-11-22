@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 782 | label: meter | g:0.194 m:0.625 ---
+
+brahmadattasya bhāryā tu devalasyātmajābhavat 
+asitasya yogadurdharṣā saṃnatir nāma bhārata ।।

@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 103 | label: grammar | g:0.608 m:0.465 ---
+
+atha maṅgalārtho athaśabdaḥ kasmānna bhavati ? tathā ca maṅgalahetutvāt pratyahaṃ brahmajijñāsā kartavyeti sūtrārthaḥ saṃpadyata ityata āha- maṅgalasya ca vākyārthe samanvayābhāvāt ।
+padārtha eva hi vākyārthe samanvīyate, sa ca vācyo lakṣyo vā ।
+na ceha maṅgalamathaśabdasya vācyaṃ vā lakṣyaṃ vā, kiṃ tu mṛdaṅgaśaṅkhadhvanivadathaśabdaśravaṇamātrakāryam ।
+na ca kāryajñāpyayorvākyārthe samanvayaḥ śabdavyavahāre dṛṣṭa ityarthaḥ ।
+tatkimidānīṃ maṅgalārtho aśabdaḥ teṣu teṣu na prayoktavyaḥ ? tathā ca oṅkāraścāthaśabdaśca dvāvetau brahmaṇaḥ purā ।

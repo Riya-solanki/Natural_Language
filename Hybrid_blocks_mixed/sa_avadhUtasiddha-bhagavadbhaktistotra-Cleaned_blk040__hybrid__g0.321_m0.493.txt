@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 40 | label: hybrid | g:0.321 m:0.493 ---
+
+yenāmalasphuritaratnaśikhāvitāno haimīkṛto nipatatā sakalaḥ sumeruḥ ।
+tasyātulaṃ phalam idaṃ tava śūkrabindor ekasya yat kanakabhūṣaṇam āpa lokaḥ ।।

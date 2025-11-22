@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2229 | label: grammar | g:0.583 m:0.5 ---
+
+[tataḥ karmamahāmudrāṃ] yathāvacchikṣayet । tataḥ sukuḍmalāñjaliṃ samayamudrāṃ vajrakāryaṃ maṇḍalayogena sarvasthāneṣu sthāpayet ।

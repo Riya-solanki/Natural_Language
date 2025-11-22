@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4475 | label: meter | g:0.194 m:0.5 ---
+
+yajñānāṃ hi gatir viṣṇuḥ sarveṣāṃ sahadakṣiṇaḥ 
+dakṣiṇābhiḥ sahety evaṃ praśno mama samāptavān ।।

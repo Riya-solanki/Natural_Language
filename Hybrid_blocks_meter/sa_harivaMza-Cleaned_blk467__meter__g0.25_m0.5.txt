@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 467 | label: meter | g:0.25 m:0.5 ---
+
+jānan dharmaṃ vasiṣṭhas tu na māṃ trātīti bhārata 
+satyavratas tadā roṣaṃ vasiṣṭhe manasākarot ।।

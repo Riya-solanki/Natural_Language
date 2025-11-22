@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2179 | label: meter | g:0.327 m:0.774 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+vāyurnakhāndaityapatergṛhītvā cikṣepa satpadmavaneṣu hṛṣṭaḥ ।
+tataḥ prasūtaṃ pavanopapannaṃ karketanaṃ pūjayatamaṃ pṛthivyām ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 77 | label: grammar | g:0.625 m:0.5 ---
+
+vicitravāsanāprabodho na bodhād bhinnaḥ, tasyāpi vaicitrye ko hetuḥ । tato bāhya evārtho bhinnābhāsahetuḥ ।।

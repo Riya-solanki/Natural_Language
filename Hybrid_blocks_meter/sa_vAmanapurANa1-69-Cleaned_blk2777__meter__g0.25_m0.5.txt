@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2777 | label: meter | g:0.25 m:0.5 ---
+
+parighaṃ viphalaṃ dṛṣṭvā samāyāntaṃ ca pārṣadam ।
+babandha bāhupāśena rāhū rakṣan hi mātulam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 606 | label: hybrid | g:0.5 m:0.5 ---
+
+tato abruvan daityabhaṭā ditīśaṃ pradahyate hyeṣa hutāśanena ।
+rakṣasva cābhyetya na śakyate anyairhutāśano vārayituṃ raṇāgre ।।

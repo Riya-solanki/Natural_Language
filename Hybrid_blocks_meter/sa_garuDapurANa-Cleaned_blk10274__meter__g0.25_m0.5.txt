@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10274 | label: meter | g:0.25 m:0.5 ---
+
+jaḍeśayorjaḍānāṃ ca jīvānāṃ ca parasparam ।
+tathaiva jaḍajīvānāṃ nityaṃ bhedo jaḍeśayoḥ ।।

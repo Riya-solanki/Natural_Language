@@ -1,0 +1,6 @@
+--- source: brssbh1u-Cleaned.txt | block: 434 | label: meter | g:0.29 m:0.529 ---
+
+tasmātparameva brahma dyubhvādyāyatanam ।
+tadetat aadṛśyatvādiguṇako dharmokteḥ' ityanenaiva siddham ।
+tasyaiva hi bhūtayonivākyasya madhya idaṃ paṭhitam ayasmindyauḥ pṛthivī cāntarikṣam' iti ।
+prapañcārthaṃ tu punarupanyastam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 869 | label: meter | g:0.25 m:0.5 ---
+
+so anādiḥ sa mahāsthāṇuḥ pṛthaktve parisūcitaḥ ।
+maṇiryathopadhānena dhatte varṇojjvalo api vai ।।

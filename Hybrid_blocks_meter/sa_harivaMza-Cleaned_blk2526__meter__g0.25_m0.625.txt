@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2526 | label: meter | g:0.25 m:0.625 ---
+
+jātā śivajalā sarvā yamunā munisevitā 
+sarvais tīrthaiḥ sukhaṃ gāvo vicariṣyanti naḥ sadā ।।

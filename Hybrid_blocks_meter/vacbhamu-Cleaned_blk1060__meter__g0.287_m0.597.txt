@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 1060 | label: meter | g:0.287 m:0.597 ---
+
+vikāravarti ca tathāhi sthitimāha ।
+etāvānasya mahimeti vikāravarti rūpamuktam ।
+tato jyāyāṃśceti nirvikāraṃ rūpam ।
+tathā pādo asya viśvā bhūtānīti vikāravarti rūpaṃ tripādasyāmṛtaṃ divīti nirvikāramāha rūpam ।।

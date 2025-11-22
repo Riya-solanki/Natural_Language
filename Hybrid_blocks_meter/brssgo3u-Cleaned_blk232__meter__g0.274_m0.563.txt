@@ -1,0 +1,6 @@
+--- source: brssgo3u-Cleaned.txt | block: 232 | label: meter | g:0.274 m:0.563 ---
+
+na jalasūryakāditulyatvamihopapadyate tadvadagrahaṇāt ।
+sūryādibhyo hi mūrtebhyaḥ pṛthagbhūtaṃ viprakṛṣṭadeśaṃ mūrtaṃ gṛhyate tatra yuktaḥ sūryādipratibimbodayaḥ ।
+natvātmā mūrto nacāsmātpṛthagbhūtā viprakṛṣṭadeśāścopādhayaḥ sarvagatatvātsarvānanyatvācca ।
+tasmādayukto ayaṃ dṛṣṭānta iti ।।

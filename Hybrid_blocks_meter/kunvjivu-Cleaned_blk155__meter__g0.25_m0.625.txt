@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 155 | label: meter | g:0.25 m:0.625 ---
+
+santi tatra trayo mārgāḥ kaviprasthānahetavaḥ ।
+sukumāro vicitraśca madhyamaścobhayātmakaḥ ।।

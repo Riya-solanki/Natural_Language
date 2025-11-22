@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 486 | label: grammar | g:0.75 m:0.5 ---
+
+atha sarvamudrāṇāṃ sāmānyā bandhavidhivistaro bhavati । tatrādita eva vajrabandhāṅgulīṃ tālaṃ kṛtvā hṛdaye, idaṃ hṛdayamuccārayet vajrabandha traṭ ।। tataḥ sarvamudrābandhāḥ svakāyavākcittavajreṣu vaśībhavanti ।।

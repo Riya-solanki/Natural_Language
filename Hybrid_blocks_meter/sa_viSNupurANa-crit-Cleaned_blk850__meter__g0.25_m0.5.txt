@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 850 | label: meter | g:0.25 m:0.5 ---
+
+yad imau varjanīyaṃ ca kiṃcid atra vadiṣyataḥ 
+tad ahaṃ varjayiṣyāmīty evaṃ cakre matiṃ nṛpaḥ ।।

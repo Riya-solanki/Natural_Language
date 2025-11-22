@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7492 | label: meter | g:0.25 m:0.625 ---
+
+tilapātraṃ tu viprāya dattaṃ patraratha dhruvam ।
+nāśayettrividhaṃ ṣāpaṃ vāṅmanaḥ kāyasambhavam ।।

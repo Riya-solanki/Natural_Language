@@ -1,0 +1,4 @@
+--- source: brssbh4u-Cleaned.txt | block: 123 | label: hybrid | g:0.328 m:0.345 ---
+
+na eṣa doṣaḥ ।
+adhyakṣapradhānatvāt utkramaṇādivyavahārasya śrutyantaragatasya api ca viśeṣasya apekṣaṇīyatvāt ।।

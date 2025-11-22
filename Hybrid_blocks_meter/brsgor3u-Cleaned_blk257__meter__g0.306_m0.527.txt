@@ -1,0 +1,4 @@
+--- source: brsgor3u-Cleaned.txt | block: 257 | label: meter | g:0.306 m:0.527 ---
+
+evaṃ dṛṣṭāntaṃ vighaṭayati-na sāmānyāditi ।
+kratvarthatvapuruṣārthatvavaiṣamye api mānasatvasāmānyaṃ na virudhyate viṣamayorapi sāmyadarśanādityarthaḥ ।।

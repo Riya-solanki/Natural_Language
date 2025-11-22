@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4668 | label: hybrid | g:0.295 m:0.443 ---
+
+ity evaṃ uktāṃ rudatīṃ bāṣpeṇāvṛtalocanām 
+kumbhāṇḍaduhitā vākyaṃ paramaṃ tv idam abravīt ।। 
+tyaja śokaṃ viśālākṣi apāpā tvaṃ varānane । smṛtaṃ me yad idaṃ vākyaṃ yāthātathyena tac chṛṇu । 
+uṣe yad uktā devyāsi bhartāraṃ dhyāyatī tadā 
+samīpe devadevasya smara bhāmini tad vacaḥ ।।

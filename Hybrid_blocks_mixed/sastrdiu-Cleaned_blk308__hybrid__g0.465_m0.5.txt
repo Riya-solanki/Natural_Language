@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 308 | label: hybrid | g:0.465 m:0.5 ---
+
+dṛṣcagrahaṇenaiva pratītimātragrahācchautasyāpi grahaṇe siddhe śrutārthāpatteḥ pramāṇagrāhiṇītvena dṛṣṭārthāpattito vailakṣaṇyamupapādayituṃ śrutagrahaṇaṇ ।
+tathāhi loke tāvat dvāraṃ dvāramityādiṣu saṃpūrṇārthapratipādanāya saṃvriyatāmityādiśabdāntaraṃ śrutaśabdaikavākthatvena

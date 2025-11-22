@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3635 | label: meter | g:0.306 m:0.625 ---
+
+phālgunīdvitaye guhyaṃ pūjanīyaṃ vicakṣaṇaiḥ ।
+dodahe ca payo gavyaṃ deyaṃ ca dvijabhojanam ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10535 | label: hybrid | g:0.398 m:0.5 ---
+
+athāpare bhāgavatapradhānā yadā na jānīyurathāpare kutaḥ ।
+māṃ pāhi nityaṃ paratopyadhīśa viśvāmitrānnyūna eveti nityam ।
+ahaṃ parjanyārdviguṇa eva nityamato mama stavane nāsti śaktiḥ ।।

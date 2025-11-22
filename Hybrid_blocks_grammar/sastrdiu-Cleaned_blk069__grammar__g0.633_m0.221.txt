@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 69 | label: grammar | g:0.633 m:0.221 ---
+
+kathaṃ punaḥ pramāṇasya svataḥprāpti, tadarthamidaṃ sarvajñānānyadhikṛtya cintyate kiṃ prāmāṇyamaprāmāṇyaṃ cobhayaṃ svata evāvagamyate, athavānyataradapi svabhāvenānirupitaṃ kāraṇaguṇadoṣapratyayābhyāmavagamyate, āhosvidaprāmāṇyaṃ svato avagamyate, prāmāṇyaṃ svataḥprāptaṃ sadarthānyathātvakāraṇadoṣajñānābhyāmavagamyamānenāprāmāṇyenāpodyate iti ।
+tatra sarvakāraṇānāṃ svakāryaśakteḥ svabhāvikatvādubhayamapi jñānasya svarasādevāvagamyata iti kecit ।
+tadayuktam ।
+nahi jñānaṃ svaviṣayasya tathātvamatathātvaṃ ca yugapacchaknoti vedayituṃ virodhāt ।।

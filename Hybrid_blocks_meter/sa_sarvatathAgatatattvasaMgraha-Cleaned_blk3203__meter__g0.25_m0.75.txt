@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3203 | label: meter | g:0.25 m:0.75 ---
+
+yaccittaṃ sarvasatvānāṃ dṛḍhatvāt satvanucyate ।
+samādhānād vajrasamo niścayairyāti vajratāṃ ।।

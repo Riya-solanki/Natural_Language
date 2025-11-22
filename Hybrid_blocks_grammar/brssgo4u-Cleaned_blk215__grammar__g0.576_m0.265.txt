@@ -1,0 +1,15 @@
+--- source: brssgo4u-Cleaned.txt | block: 215 | label: grammar | g:0.576 m:0.265 ---
+
+samāptā prāsaṅgikī paravidyāgatā cintā ।
+saṃpratitu aparavidyāviṣayām eva cintām anuvartayati ।
+samānā ca asṛti upakramāt vidvat aviduṣoḥ utkrāntiḥiti uktaṃ tam idānīṃ sati upakramaṃ darśayati ।
+tasya upasaṃhṛtavāgādi kalāpasya uccikramiṣato vijñānātmana oka āyatanaṃ hṛdayam asa etāstejomātrāḥ samabhyādadāno hṛdayamevānvavakrāmati' iti śruteḥ ।
+tat agraprajvalanapūrvikā cakṣurādisthāna apādānā ca utkrāntiḥ śrūyate - atasya haitasya hṛdayasyāgraṃ pradyotate tena pradyotenaiṣa ātmā niṣkrāmati cakṣuṣo vā mūrdhno vānyebhyo vā śarīradeśebhyaḥ' iti ।
+sā kim aniyamena eva vidvat aviduṣoḥ bhavati atha asti kaścit viduṣo viśeṣaniyama iti vicikitsāyāṃ śruti aviśeṣāt aniyamaprāptau ācaṣṭe - samā api hi vidvat aviduṣoḥ hṛdayāgrapradyotane tat prakāśitadvāratve ca mūrdhasthānāt eva vidvān niṣkrāmati sthānāntarebhyaḥ tu itare ।
+kutaḥ - vidyāsāmarthyāt ।
+yadi vidvān apītaravat yataḥ kutaścit dehadeśāt utkrāmeta na eva utkṛṣṭaṃ lokaṃ labheta ।
+tatra ānarthikā eva vidyā syāt ।
+tat śeṣagati anusmṛtiyogāt ca vidyāśeṣabhūtā ca mūrdhani anāḍīsaṃbaddhā gatiḥ anuśīlayitavyā vidyāviśeṣeṣu vihitā tām abhyasyan tasya eva pratiṣṭhita iti yuktam ।
+tasmāt hṛdayālayena brahmaṇā su upāsitena anugṛhītaḥ tadbhāvaṃ samāpanno vidvān mūrdhanyayā eva śatādhikayā śatāt atiriktayā ekaśatatamyā nāḍyā niṣkrāmati itarābhiḥ itare ।
+tathā hi hārdavidyāṃ prakṛtya samāmananti - aśataṃ caikā ca hṛdayasya nāḍyastāsāṃ mūrdhānamabhiniḥsṛtaikā ।
+tayordhvamāyannamṛtatvameti viṣvaṅṅnyā utkrameṇa bhavanti' iti ।।

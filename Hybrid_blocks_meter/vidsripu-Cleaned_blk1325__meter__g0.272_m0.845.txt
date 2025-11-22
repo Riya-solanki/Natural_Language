@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1325 | label: meter | g:0.272 m:0.845 ---
+
+mukharasyāprasannasya mitrakāryavighātinaḥ ।
+nirmāṇam āśānāśāya durjanasya ghanasya ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1562 | label: meter | g:0.306 m:0.5 ---
+
+tathādhirūḍho varado atha vediṃ sahādriputryā madhuparkamaśnana ।
+dattvā ca lājān kalamasya śuklāṃstato viriñco girijāmuvāca ।।

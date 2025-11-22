@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 874 | label: meter | g:0.194 m:0.5 ---
+
+yat kiñcit kurute kāryaṃ sādhakaḥ sādhanātmakaḥ 
+uccaret tu layāntasthaṃ tarjanyāgre vyavasthitam ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 598 | label: meter | g:0.25 m:0.5 ---
+
+yakṣo ayaṃ brāhmaṇacchadmā nūnaṃ harati khāditum ।
+nīyamānau piśācena tāta kiṃ nāvupekṣase ।।

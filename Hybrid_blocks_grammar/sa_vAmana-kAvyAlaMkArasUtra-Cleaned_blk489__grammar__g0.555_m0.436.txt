@@ -1,0 +1,21 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 489 | label: grammar | g:0.555 m:0.436 ---
+
+atra pūrvapadasya striyām ityavivakṣitatvāt ।।
+jambulatādayo hrasvavidheḥ ।।
+jambulatādayaḥ prayogāḥ katham ? । āha hrasvavidheḥ । iko hrasvo'ṅjo gālavasya iti hrasvavidhānāt ।।
+tilakādayo'jirādiṣu ।।
+tilakādayaḥ śabdā ajirādiṣu draṣṭavyāḥ । anyathā, tilakavatī kanakavatī ityādiṣu matupi, matau bahvaco'najirādīnām iti dīrghatvaṃ syāt । kecittu varṇayanti nadyāṃ matup iti yo matup tatrāyaṃ vidhiḥ । teṣāṃ matenāmarāvatītyādīnāmasiddhiḥ ।।
+niśamya-niśamayyaśabdau prakṛtibhedāt ।।
+niśamya niśamayyetyetau śabdau śrutvetyetasminnarthe । śameḥ lyapi lyapi laghupūrvāt ityayādeśe sati niśamayyeti bhavitavyam, na niśamyeti । āha prakṛtibhedāt । śamerdaivādikasya niśamyeti rūpam । śamo darśane iti curādau ṇici mitsaṃjñakasya niśamayyeti rūpam ।।
+saṃyamyaniyamyaśabdau, aṇijantatvāt ।।
+kathaṃ saṃyamyaniyamyaśabdau ? । lyapi laghupūrvāt iti ṇerayādeśena bhavitavyam । āha aṇijantatvāt । dhātorṇic tu na । gatārthatvāt । yathā vācaṃ niyacchati iti । ṇijarthānayagatau ṇic prayujyata eva । yathā saṃyamayitumārabdhaḥ iti ।।
+prapīyeti pīṅaḥ ।।
+prapīyetyayaṃ śabdaḥ, pīṅ pāne ityetasya । pivaterhi, na lyapi itītvapratiṣedhātprapāyeti bhavati ।।
+dūrayatīti bahulagrahaṇāt ।।
+dūrayatyavanate vivasvati ityatra dūrayatīti katham ? । ṇāviṣṭhavadbhāve sthūladūra ityādinā guṇalopayoḥ kṛtayordavayatīti bhavitavyam । āha bahulagrahaṇāt । pratipadikāddhātvarthe bahulamiṣṭhavacca ityatra bahulagrahaṇāt sthūladūra ādisūtreṇa yadvihitaṃ tanna bhaviṣyatīti ।।
+gacchatīprabhṛtiṣvaniṣedhyo num ।।
+harati hi vanarājirgacchatī śyāmabhāvamityādiṣu gacchatīprabhṛtiṣu śabdeṣu, śapśyanornityam iti numaniṣedhyo niṣeddhumaśakyaḥ ।।
+mitreṇa goptreti puṃvadbhāvāt ।।
+mitreṇa goptrā iti katham ? । goptṛṇā bhavitavyam । iko'ci vibhaktau iti numvidhānāt । āha puṃvadbhāvāt । tṛtīyādiṣu bhāṣitapuṃskaṃ puṃvadgālavasya iti puṃvadbhāvena goptreti bhavati ।।
+vetsyasīti padabhaṅgāt ।।
+patitaṃ vetsyasi kṣitau ityatra vetsyasīti na siddhyati । iṭprasaṅgāt । āha padabhaṅgāt siddhyati । vetsyasīti padaṃ bhajyate vetsi, asi । asiityayaṃ nipātastvamityasminnarthe । kvacidvākyālaṅkāre prayujyate । yathā

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 757 | label: meter | g:0.194 m:0.5 ---
+
+teṣāṃ prasādaṃ cakrus te athaitān sumanābravīt 
+sarveṣām eva vacanāt prasādānugataṃ tadā ।।

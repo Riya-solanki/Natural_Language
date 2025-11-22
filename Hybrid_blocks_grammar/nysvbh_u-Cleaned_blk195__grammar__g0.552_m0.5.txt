@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 195 | label: grammar | g:0.552 m:0.5 ---
+
+so ayaṃ tarkaḥ pramāṇāni pratisandadhānaḥ pramāṇābhyanujñānāt pramāṇasahito vāde apadiṣṭa iti।
+avijñātatattve arthe iti yathā so artho bhavati tasya tathābhāvastattvamaviparyayo yāthātathyam ।।

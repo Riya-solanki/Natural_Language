@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 752 | label: grammar | g:0.594 m:0.5 ---
+
+keyūrīkṛtakaṅkaṇāvalir asau karṇāntikottaṃsita- vyālolālakapaddhatiḥ pathi puro baddhāñjaliḥ pṛcchati ।
+yāvat kiṃcid udantam ātmakamitus tāvat sa evety atha vrīḍāvakritakaṇṭhanālam abalā kaiḥ kair na bhinnā rasaiḥ ।।

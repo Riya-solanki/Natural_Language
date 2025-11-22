@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3762 | label: meter | g:0.25 m:0.5 ---
+
+rājaṃś ciraprasupto asi kathito nāradena me 
+kṛtaṃ me sumahat kāryaṃ svasti te astu vrajāmy aham ।।

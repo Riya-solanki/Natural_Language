@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 73 | label: meter | g:0.259 m:0.582 ---
+
+nigūḍhāhaṅkāratvaṃ, yathā-
+bhūmātraṃ kiyad etad arṇavmitaṃ tat sādhitaṃ hāryate
+yad vīreṇa bhavādṛśena vadatā triḥ sapta-kṛtvo jayam ।
+ḍimbho' haṃ nava-bāhur īdṛ;cam idaṃ ghoraṃ ca vīra-vrataṃ
+tat krodhād virama prasīda bhagavan jātyaiva pūjyo' si naḥ ।।

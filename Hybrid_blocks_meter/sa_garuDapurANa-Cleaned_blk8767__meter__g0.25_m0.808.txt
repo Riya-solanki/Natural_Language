@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8767 | label: meter | g:0.25 m:0.808 ---
+
+bhīṣma uvāca ।
+evaṃ bruvati vai vipre ākāśe dundubhisvanaḥ ।
+apatatpuṣpavarṣaṃ ca devarmuktaṃ dvijopari ।।

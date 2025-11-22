@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 781 | label: meter | g:0.139 m:0.67 ---
+
+rūpeṇa, yathā-
+ayaṃ rāmo nāyaṃ sa tu janaka-dharmaṃ dalitavān
+ayaṃ kāmo nāyaṃ sa tu madhumadāmodita-manāḥ ।
+sakhi jñātaṃ so' yaṃ yuvati-nayanotpādana-phalaṃ
+nidānaṃ bhāgyānāṃ jayati khalu siṃha-kṣitipatiḥ ।।

@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 291 | label: meter | g:0.25 m:0.5 ---
+
+na todanāya kurute malasyāṇor anugraham ।
+kiṃtu yatkriyate kiṃcit tadupāyena nānyathā ।।

@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 109 | label: meter | g:0.304 m:0.801 ---
+
+pratyakṣopalabdhibhāvācca tayorananyatvamityarthaḥ ।
+bhavatihi pratyakṣopalabdhiḥ kāryakāraṇayorananyatve ।
+tadyathā-

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2856 | label: meter | g:0.25 m:0.5 ---
+
+gopālāṃś ca balodagrān yodhayām āsa vīryavān 
+vane sa vīro gāś caiva jagrāha grāhavad vibhuḥ ।।

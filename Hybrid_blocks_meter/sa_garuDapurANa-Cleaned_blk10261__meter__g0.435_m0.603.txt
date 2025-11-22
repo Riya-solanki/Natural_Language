@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10261 | label: meter | g:0.435 m:0.603 ---
+
+śrīkṛṣṇa uvāca ।
+ya eva loke saṃsthitā mānuṣāstu viśeṣāṇāṃ darśane śaktiyuktāḥ ।
+tathāpi te yasya cāṃśitvameva viśeṣaṃ vai naiva draṣṭuṃ samarthāḥ ।।

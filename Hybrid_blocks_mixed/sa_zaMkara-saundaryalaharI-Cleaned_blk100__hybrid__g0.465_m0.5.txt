@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 100 | label: hybrid | g:0.465 m:0.5 ---
+
+sarasvatyā lakṣmyā vidhiharisapatno viharate rateḥ pātivratyaṃ śithilayati ramyeṇa vapuṣā 
+ciraṃ jīvann eṣa kṣapitapaśupāśavyatikaraḥ parabrahmābhikhyaṃ rasayati rasaṃ tvadbhajanavān ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1007 | label: meter | g:0.074 m:0.976 ---
+
+{saśoṇitaiḥ kravyabhujāṃ sphuradbhiḥ
+pakṣaiḥ khagānāmupavījyamānān ।
+saṃvījitāścandanavārisekaiḥ
+sugandhibhiḥ kalpalatādukūlaiḥ ।। ।।}

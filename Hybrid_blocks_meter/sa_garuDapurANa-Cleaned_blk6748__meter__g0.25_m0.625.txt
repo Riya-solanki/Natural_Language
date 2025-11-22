@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6748 | label: meter | g:0.25 m:0.625 ---
+
+prāptā devāśca devatvaṃ munitvaṃ munayo gatāḥ ।
+gandharvatvañca gandharvā rājatvañca nṛpādayaḥ ।।

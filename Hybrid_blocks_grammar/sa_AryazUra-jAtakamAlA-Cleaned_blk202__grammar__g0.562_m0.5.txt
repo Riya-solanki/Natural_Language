@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 202 | label: grammar | g:0.562 m:0.5 ---
+
+ityuktvā bodhisattvaḥ svabhāgyabalāvaṣṭambhājjānānaśca niratyayatāṃ dānasya nivāraṇaikarasamavadhūya svajanaparijanaṃ sādhvasānabhibhūtamatirabhivṛddhadānābhilāṣo narakamadhyena prāyāt ।

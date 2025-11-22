@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 103 | label: hybrid | g:0.293 m:0.47 ---
+
+cirayānaprasthitu sa vedayitavya sattvo bahubuddhakoṭinayutehi kṛtādhikāro 
+yo śrutva dharmi imi nirmitamāyakalpāṃ na ca kāṅkṣate ayu prayujyati śikṣamāṇaḥ ।।

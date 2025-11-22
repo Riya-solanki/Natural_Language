@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 260 | label: meter | g:0.25 m:0.5 ---
+
+yad asat tad asadyuktā nāsataḥ satsvarūpatā 
+sato api na punaḥ sattā-lābhenārtho atha cocyate ।।

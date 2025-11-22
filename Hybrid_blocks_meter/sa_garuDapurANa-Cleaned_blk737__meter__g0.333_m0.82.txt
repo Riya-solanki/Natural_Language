@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 737 | label: meter | g:0.333 m:0.82 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+vakṣye gaṇādikāḥ pūjāḥ sarvadā svargadāḥ parāḥ ।
+gaṇāsanaṃ gaṇamūrti gaṇādhipatimarcayet ।।

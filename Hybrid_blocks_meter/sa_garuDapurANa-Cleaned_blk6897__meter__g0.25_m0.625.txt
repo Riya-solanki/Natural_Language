@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6897 | label: meter | g:0.25 m:0.625 ---
+
+dhyāyennṛsiṃhaṃ taruṇārkanetraṃ sidāmbujātaṃ jvalitāgnivatkram ।
+anādimadhyāntamaja purāṇaṃ parāpareśaṃ jagatāṃ nidhānam ।।

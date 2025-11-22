@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 689 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha, kim asmābhir vyaktaṃ vaktavyaṃ gotrabhit-satraṃ prati, kiṃ vāyaṃ vatsaḥ pratipatsyete iti vicikitsati tāta-pāde tad eva kiñcid atiriktaṃ vyaktam iva kartum icchati sma । [] yathā ca, tāta, sarvatra nipuṇānāṃ vaijñānikānāṃ bhavatāṃ putrā vayaṃ na tāvad gocārakatā-mātra-paryavasita-paryālocanāḥ, kintu kiñcit kiñcij jñāna-nītiṃ dharma-rītim api pratipadyāmahe iti vyañjanayā mañju vadati sma-

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 694 | label: grammar | g:0.568 m:0.427 ---
+
+bhavatu viditaṃ kṛtyālāpair alaṃ priya gamyatāṃ tanur api na te doṣo asmākaṃ vidhis tu parāṅmukhaḥ ।
+tava yadi tathārūḍhaṃ prema prapannam imāṃ daśāṃ prakṛticapale kā naḥ pīḍā gate hatajīvite ।।
+dharmakīrteḥ।।

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 53 | label: meter | g:0.194 m:0.635 ---
+
+atha kṛtajñatvam-
+kṛtānām upakārāṇām abhjñatvaṃ kṛtajñatā ।। athā-
+ekasyaivopakārasya prāṇān dāsyāmi te kape ।
+pratyahaṃ kriyamāṇasya śeṣasya ṛṇino vayam ।।

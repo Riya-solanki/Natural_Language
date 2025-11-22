@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 22 | label: hybrid | g:0.486 m:0.5 ---
+
+mahasattva so atha kenocyati kāraṇena mahatāya atra ayu bheṣyati sattvarāśeḥ 
+dṛṣṭīgatāṃ mahati chindati sattvadhātoḥ mahasattva tena hi pravucyati kāraṇena ।।

@@ -1,0 +1,4 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 4 | label: meter | g:0.25 m:0.625 ---
+
+yadyapīndriyavijñaptergrāhyāṃśaḥ kāraṇaṃ bhavet ।
+atadābhatayā tasyā nākṣavadviṣayaḥ sa tu ।।

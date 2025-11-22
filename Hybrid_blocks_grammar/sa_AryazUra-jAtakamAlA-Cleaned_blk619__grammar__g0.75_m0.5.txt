@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 619 | label: grammar | g:0.75 m:0.5 ---
+
+apīdānīṃ me vitathā mithyāvikalpā bhaveyuḥ । api rājaputrāya saputrāya svasti syāt । apyaniṣṭanivedināṃ nimittānāṃ maccharīra eva vipāko bhavet । kiṃ nu khalvidamanimittāpavṛttapraharṣamaratitamisrayāvacchādyamānaṃ vidravatīva hṛdayam । visrasyanta iva me gātrāṇi । vyākulā iva digvibhāgāḥ । bhramatīva cedaṃ paridhvastalakṣmīkaṃ vanamiti ।

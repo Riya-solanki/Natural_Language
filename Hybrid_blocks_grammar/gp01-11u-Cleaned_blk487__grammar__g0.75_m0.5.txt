@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 487 | label: grammar | g:0.75 m:0.5 ---
+
+[] yāḥ khalu pūrvaṃ tad-apatya-samapatty-abhāvān nirveda-vedanayā tyakta-prāya-pariṣkārāḥ, samprati tu kiñcic-caraṇa-pravaṇa-tad-apatya-śravaṇa-mātreṇa vidhṛta-vividha-sukha-vikārās tat-parva-rañjanārthaṃ vilambanīyām api pariṣkṛtim urīkṛtya nṛtyantya iva tat-purīṃ prati calitāḥ । yāś ca vyañjijiṣita-maṅgala-saṅgatayā sneha-maya-kāmanā-pariṇāmatayā ca svayam eva mahā-maṇi-mayopāyana-pāṇayo babhūvuḥ । yāsām ānandād anyad eva śobhā-vaibhavam āvirbhavati sma ।

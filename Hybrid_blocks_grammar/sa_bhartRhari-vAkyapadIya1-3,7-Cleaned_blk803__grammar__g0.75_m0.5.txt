@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 803 | label: grammar | g:0.75 m:0.5 ---
+
+na tad asti na tan nāsti na tad ekaṃ na tat pṛthak na saṃsṛṣṭaṃ vibhaktaṃ na vikṛtaṃ na na cānyathā ।।

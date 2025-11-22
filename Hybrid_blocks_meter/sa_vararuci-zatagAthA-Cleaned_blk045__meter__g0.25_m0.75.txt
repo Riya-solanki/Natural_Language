@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 45 | label: meter | g:0.25 m:0.75 ---
+
+kiṃśukasya phalaprāptiryathā vyartha bubhukṣave ।
+dhaninaśca tathādāturjīvanaṃ niṣprayojanam ।।

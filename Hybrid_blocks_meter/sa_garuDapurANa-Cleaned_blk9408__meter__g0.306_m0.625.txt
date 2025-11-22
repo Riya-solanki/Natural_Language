@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9408 | label: meter | g:0.306 m:0.625 ---
+
+śayyādānaṃ praśaṃsanti sarvadaiva dvijottamāḥ ।
+anityaṃ jīvanaṃ ysamāt paścāt ko nu pradāsyati ।।

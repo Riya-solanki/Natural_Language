@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6263 | label: meter | g:0.25 m:0.75 ---
+
+tejomayāni pūrveṣāṃ śarīrāṇīndriyāṇi ca ।
+na lipyate pātakena padmapatramivāmbhasā ।।

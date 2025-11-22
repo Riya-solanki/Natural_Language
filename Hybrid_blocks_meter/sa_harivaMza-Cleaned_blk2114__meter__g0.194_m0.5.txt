@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2114 | label: meter | g:0.194 m:0.5 ---
+
+purā hi kaśyapo viṣṇo varuṇasya mahātmanaḥ 
+jahāra yajñiyā gāvaḥ payodāś ca mahāmakhe ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 396 | label: meter | g:0.328 m:0.595 ---
+
+evaṃ dattvā jīryati na kṣayati raso yathā tathā kāryaḥ ।
+kṣayameti kṣāraviḍaiḥ sa tūparasairgrāsamudgirati ।।

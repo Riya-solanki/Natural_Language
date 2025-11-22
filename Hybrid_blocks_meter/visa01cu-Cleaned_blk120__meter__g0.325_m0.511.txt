@@ -1,0 +1,9 @@
+--- source: visa01cu-Cleaned.txt | block: 120 | label: meter | g:0.325 m:0.511 ---
+
+uktaṃ hi
+"kāvyasya śabdārthau śarīram, rasādiścātmā, guṇāḥ śauryādivat, doṣāḥ kāṇatvādivat, rītayo avayavasaṃsthānaviśeṣavat, alaṅkārāḥ kaṭakakuṇḍalādivat" iti ।
+etena "analaṅkṛtī punaḥ kvāpi" iti yaduktam, tadapi parāstam ।
+asyārthaḥ- sarvatra sālaṅkārau kvacittvasphuṭālaṅkārāvapi śabdārthau kāvyamiti ।
+tatra sālaṅkāraśabdārthayorapi kāvye utkarṣādhāyakatvāt ।
+etena "vakroktiḥ kāvyajīvitam" iti vakroktijīvitakāroktamapi parāstam ।
+vakrokteralaṅkārarūpatvāt ।

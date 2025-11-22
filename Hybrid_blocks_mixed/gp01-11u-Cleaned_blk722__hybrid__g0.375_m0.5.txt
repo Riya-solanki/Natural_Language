@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 722 | label: hybrid | g:0.375 m:0.5 ---
+
+[] tena tu durjanena tadaivam anyūnānāṃ janyūnām ajanye janyamāne tatra vitrastāḥ prajāḥ prajajalpuḥ, yathā-

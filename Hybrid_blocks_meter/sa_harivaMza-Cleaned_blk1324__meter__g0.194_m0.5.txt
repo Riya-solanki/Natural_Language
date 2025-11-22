@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1324 | label: meter | g:0.194 m:0.5 ---
+
+carācaraguruḥ śrīmān vṛtaḥ sarvaiḥ surais tathā 
+brahmā brahmavidāṃ śreṣṭho daityaṃ vacanam abravīt ।।

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 625 | label: meter | g:0.25 m:1.0 ---
+
+dvitīyaṃ ghāta-patana-dohodbandha-viṣādijam ।
+tatra ghātādije bhūmi-patana-krandanādayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1243 | label: meter | g:0.194 m:0.625 ---
+
+{anayeneva rājyaśrīrdainyeneva manasvitā ।
+mamlau sātha viṣādena padminīva himāmbhasā ।।}

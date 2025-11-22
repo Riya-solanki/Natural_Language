@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1098 | label: meter | g:0.25 m:0.625 ---
+
+iti hīnavimadhyamottamānāmiha cāmutra ca yadvadhāya kāmāḥ ।
+kupitānbhujagānivātmakāmā munayastāniti śakra nāśrayante ।।

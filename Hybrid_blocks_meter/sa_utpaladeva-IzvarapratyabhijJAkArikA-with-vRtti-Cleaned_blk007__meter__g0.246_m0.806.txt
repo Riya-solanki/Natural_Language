@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 7 | label: meter | g:0.246 m:0.806 ---
+
+kiṃ tu mohavaśād asmin dṛṣṭe apy anupalakṣite 
+śaktyāviṣkaraṇeneyaṃ pratyabhijñopadarśyate ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1052 | label: grammar | g:0.562 m:0.5 ---
+
+athāsya bhrātaraḥ pravrajyāsaṅkīrtanādviyogāśaṅkāvyathitamanasaḥ śokāśrudurdinamukhāḥ praṇamyainamūcuḥ - nārhatyatrabhavānpitṛviyogaśokaśalyavraṇamasaṃrūḍhameva no ghaṭṭayitumapareṇa duḥkhābhinipātakṣāreṇa ।

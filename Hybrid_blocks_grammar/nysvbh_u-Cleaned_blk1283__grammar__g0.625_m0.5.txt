@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1283 | label: grammar | g:0.625 m:0.5 ---
+
+sādharmyavaidharmyābhyāṃ pratyavasthānasya vikalpājjātibahutvamiti saṃkṣepeṇoktaṃ tadvistareṇa vibhajate, tāḥ khalvimā jātayaḥ sthāpanāhetau prayukte caturviṃśatiḥ pratiṣedhahetavaḥ ।

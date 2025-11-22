@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 730 | label: meter | g:0.25 m:0.841 ---
+
+vyatyayavatī gauṇī yathā
+śrī siṅgabhūpayaśasā yad pākṛtamindumālinyam ।
+bhavati hi tadeva lakṣyaṃ vimatakṣitipālavadanakamaleṣu ।।

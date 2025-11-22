@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5997 | label: meter | g:0.25 m:0.625 ---
+
+vraṇe kuṣṭheṣu khañjeṣu triphalākvāthasaṃyutam ।
+mandāgnau śotharoge ca gavāṃ mūtreṇa yojitam ।।

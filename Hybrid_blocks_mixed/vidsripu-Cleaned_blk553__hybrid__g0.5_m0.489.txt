@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 553 | label: hybrid | g:0.5 m:0.489 ---
+
+bhuvanabhuvi sṛjantas tārahārāvatārān diśi diśi vikirantaḥ ketakānāṃ kuṭumbam ।
+viyati viracayantaś candrikāṃ dugdhamugdhāṃ pratinayananipātāḥ subhruvo vibhramanti ।।
+rājaśekharasya

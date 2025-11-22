@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 62 | label: meter | g:0.306 m:0.5 ---
+
+nityaṃ na bhavanaṃ yasya yasya vā nityabhūtatā ।
+na tasya kriyamāṇatvaṃ khapuṣpākāśayor iva ।।

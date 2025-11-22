@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3086 | label: meter | g:0.194 m:0.625 ---
+
+viṣṭarārthaṃ kuśān dattvā saṃpūjyārghyaṃ vidhānataḥ 
+kuryād āvāhanaṃ prājño devānāṃ tadanujñayā ।।

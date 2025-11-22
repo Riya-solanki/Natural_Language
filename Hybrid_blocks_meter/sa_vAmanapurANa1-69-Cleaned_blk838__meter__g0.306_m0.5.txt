@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 838 | label: meter | g:0.306 m:0.5 ---
+
+citrāsu haste śravaṇe ca tailaṃ kṣauraṃ viśākhāsvabhijitsuvarjyam ।
+mūle mṛge bhāgrapadāsu māṃsaṃ yoṣinmaghākṛttikayottarāsu ।।

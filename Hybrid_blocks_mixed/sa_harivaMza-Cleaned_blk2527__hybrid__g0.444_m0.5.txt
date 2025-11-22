@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2527 | label: hybrid | g:0.444 m:0.5 ---
+
+vyaktam eva vayaṃ gopā vane yat kṛṣṇam īdṛśam 
+mahadbhūtaṃ na jānīmaś channam agnim iva vraje ।।

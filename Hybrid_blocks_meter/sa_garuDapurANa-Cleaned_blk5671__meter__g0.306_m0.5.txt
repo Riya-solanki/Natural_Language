@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5671 | label: meter | g:0.306 m:0.5 ---
+
+yasya lajjālukāmūlaṃ dīyate ca svaretasā ।
+sārdhaṃ sa vairaṃ saṃyāti pumānstrī vā na saṃśayaḥ ।।

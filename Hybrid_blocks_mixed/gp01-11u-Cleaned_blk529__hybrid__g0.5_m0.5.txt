@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 529 | label: hybrid | g:0.5 m:0.5 ---
+
+[] dūta uvāca-"ārya-kṣitīśa, punaś cedam āścaryam avadhāryatām । sa khalu bhrātṛ-vyapadeśa-bhrātṛvyaḥ svasya bhaginy-aṣṭama-garbham aniṣṭatayā niṣṭaṅkitaṃ kurvatīṃ sura-vartma-vāṇīm api devyādiṣṭaḥ sva-dviṣṭa-sura-kptāṃ matvā, tau kārāgārād āhūya bhūyaḥ, pāda-graha-caryā-paryantāgrahataḥ putra-ṣaṭka-hatyāgas-tyāgaṃ bhūri-visūrita iva vidhitsan nigaḍān mocitavān ।"

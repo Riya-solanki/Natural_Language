@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1194 | label: meter | g:0.25 m:0.625 ---
+
+tvayābhiṣiñcito nityaṃ tīrthasthapuline sthitaḥ ।
+asya sādhoḥ prasādena sthāṇordevasya darśanāt ।।

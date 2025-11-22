@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10702 | label: hybrid | g:0.51 m:0.5 ---
+
+pūrṇānandajñānadeho api nityaṃ sadā śarīrī bhāṣyate bhaktimadbhiḥ ।
+yatastava prākṛto nāsti deho hyatopi nityamaśarīrīti ca smṛtaḥ ।।

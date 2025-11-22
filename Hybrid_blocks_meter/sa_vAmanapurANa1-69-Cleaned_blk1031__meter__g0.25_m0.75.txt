@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1031 | label: meter | g:0.25 m:0.75 ---
+
+jyeṣṭhe snānaṃ cāmalakaiḥ pūjār'kakusumaistathā ।
+dhūpayettattrinetraṃ ca āyatyāṃ puṣṭikārakam ।।

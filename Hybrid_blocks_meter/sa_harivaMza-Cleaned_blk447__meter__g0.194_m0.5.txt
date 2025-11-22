@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 447 | label: meter | g:0.194 m:0.5 ---
+
+tasyām utpādayām āsa māndhātā dvau sutau nṛpa 
+purukutsaṃ ca dharmajñaṃ mucukundaṃ ca pārthivam ।।

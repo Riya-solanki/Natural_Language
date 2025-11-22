@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1119 | label: meter | g:0.306 m:0.5 ---
+
+tvaṃ śarī tvaṃ gadī cāpi khaṭvāṅgī ca śarāsanī ।
+chettā mettā prahartāsi mantā netā sanātanaḥ ।।

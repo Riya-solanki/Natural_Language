@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2485 | label: meter | g:0.194 m:0.625 ---
+
+śaivālamalinaiś cāpi vṛkṣaiḥ kṣupalatākulaiḥ 
+kartavyamārgau bhrājete hradasyāsya taṭāv ubhau ।।

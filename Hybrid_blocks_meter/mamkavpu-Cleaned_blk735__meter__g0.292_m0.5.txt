@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 735 | label: meter | g:0.292 m:0.5 ---
+
+atrādhvaraśabdaḥsamāse guṇībhūta iti na tadarthaḥ sarvaiḥ saṃyujyate । yathā vā

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4547 | label: meter | g:0.194 m:0.5 ---
+
+saputraṃ bhojayitvā taṃ dvijaṃ kṛṣṇo mahāyaśāḥ 
+dhanena tarpayitvā ca gṛhaṃ prāsthāpayat tadā ।।

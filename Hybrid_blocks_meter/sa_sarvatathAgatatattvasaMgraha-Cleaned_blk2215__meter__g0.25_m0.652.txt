@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2215 | label: meter | g:0.25 m:0.652 ---
+
+athāsāṃ hṛdayāni bhavanti ।
+oṃ hriḥ sidhya ।।

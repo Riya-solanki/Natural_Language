@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 425 | label: meter | g:0.194 m:0.5 ---
+
+bhagavan nyastaśastro aham ayaṃ tu tanayo mama 
+bhaviṣyati dvijaśreṣṭha dhundhumāro na saṃśayaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 407 | label: grammar | g:0.604 m:0.5 ---
+
+āśayasya vibhūter vā yan mahatvam anuttamam udāttaṃ nāma taṃ prāhur alaṃkāraṃ manīṣibhiḥ ।।

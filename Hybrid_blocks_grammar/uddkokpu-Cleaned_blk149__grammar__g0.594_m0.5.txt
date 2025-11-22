@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 149 | label: grammar | g:0.594 m:0.5 ---
+
+evaṃprāyā na hi na virahe jīvituṃ santyupāyāḥ satyaṃ taistaiḥ kṛtadhṛtirahaṃ prāṇimi prāṇanāthe ।
+niścityaivaṃ nirupamaguṇe sāhasebhyo nivṛttā tvaṃ ca snānādiṣu savayasāṃ prārthanāṃ mā niṣedhīḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1347 | label: meter | g:0.25 m:0.625 ---
+
+tathā ca tvaṃ divyavapurbhava bhūyo mahīpate ।
+tathāntakāle māmeva layaṭameṣyasi suvrata ।।

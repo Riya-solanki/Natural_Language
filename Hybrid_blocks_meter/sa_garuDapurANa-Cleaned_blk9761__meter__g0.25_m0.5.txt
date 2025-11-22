@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9761 | label: meter | g:0.25 m:0.5 ---
+
+prathamaṃ viṣṇave dadyādbrahmaṇe ca śivāya ca ।
+sabhṛtyāya śivāyātha pretāyāpi ca pañcamam ।।

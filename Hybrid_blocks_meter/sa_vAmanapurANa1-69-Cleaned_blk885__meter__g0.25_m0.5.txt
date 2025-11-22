@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 885 | label: meter | g:0.25 m:0.5 ---
+
+nityasya karmaṇo hāniḥ kevalaṃ mṛtajanmasu ।
+na tu naimittikocchedaḥ karttavyo hi kathañcana ।।

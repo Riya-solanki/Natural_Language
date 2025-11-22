@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 241 | label: meter | g:0.306 m:0.5 ---
+
+trātuṃ lokānyastu jarāmṛtyuparītānapyātmānaṃ ditsati kāruṇyavaśena ।
+yo nāsvādaṃ vetti sukhānāṃ paraduḥkhaiḥ kastasyārthastvadgatayā syādapi lakṣmyā ।।

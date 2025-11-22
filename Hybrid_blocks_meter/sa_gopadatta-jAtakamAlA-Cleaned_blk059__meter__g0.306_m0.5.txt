@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 59 | label: meter | g:0.306 m:0.5 ---
+
+jagaddhitādhānavidhānadīkṣāṃ babhāra śāstā bhṛśadurvahāṃ yaḥ ।
+manaḥprasādāyatane api tasmin kathaṃ nu cittāni vidūṣayanti ।।

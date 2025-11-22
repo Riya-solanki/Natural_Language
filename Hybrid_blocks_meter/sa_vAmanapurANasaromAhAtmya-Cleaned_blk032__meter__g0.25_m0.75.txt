@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 32 | label: meter | g:0.25 m:0.75 ---
+
+nāścaryaṃ dānavavyāghra hiraṇyakaśipoḥ kule ।
+prasūtasyāsurendrasya tava karme damīdṛśam ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 975 | label: grammar | g:0.552 m:0.375 ---
+
+kvacitpadārthopamāyāmupameyānāmupamānānāṃ ca samasaṃkhyākānāṃ sūhadvaye prathamaṃ vivakṣitasamūhasaṃkhyābhedasamāhi dvitvameva samāśritya parasparasāmyasamanvayādupamānopameyabhāvamabhidhātumekasmin vācake prayukte samudāyadharmāṇāṃ samudāyapūrvakatvāttu paścādeteṣāṃ pratyekaṃ svasaṃbandhinaṃ prati sādhāraṇadharmasaṃbandhasāmarthyādupamānopameyabhāvaḥ paryavasyati ।
+yathā

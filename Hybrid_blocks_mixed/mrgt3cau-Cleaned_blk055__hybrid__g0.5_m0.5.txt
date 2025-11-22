@@ -1,0 +1,7 @@
+--- source: mrgt3cau-Cleaned.txt | block: 55 | label: hybrid | g:0.5 m:0.5 ---
+
+Vṛtti:
+[ajīrṇāmlarasodgāre] ajīrṇatvādāmlāmburasodgāre [viṇmūtrabādhane] mūtrapurīṣottambhane [chardyāṃ] vāntau na vṛttāyāṃ atisāre ca na vyākhyānaṃ kuryāt।
+[nāsnātaḥ kṛtamaithunaḥ] na cāpyupabhogānantaramakṛtasnānaḥ san।
+[vyākhyānavidhiḥ]
+vyākhyāvidhimāha

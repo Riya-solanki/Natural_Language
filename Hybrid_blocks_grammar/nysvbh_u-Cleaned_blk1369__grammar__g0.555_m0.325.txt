@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1369 | label: grammar | g:0.555 m:0.325 ---
+
+pratiṣedhye śabde anityamanityatvasya bhāvāt' ityucyamāne anujñātaṃ śabdasyānityatvam anityatvopapatteśca anānityaḥ śabdaḥ' iti pratiṣedho nopapadyate, atha nābhyupagamyate ? anityamanityatvasya bhāvāt' itiheturna bhavatīti hetvabhāvāt pratiṣedhānupapattiriti।
+utpannasya nirodhād abhāvaḥ śabdasyānityatvaṃ tatra paripraśnānupapattiḥ ।
+soyaṃ praśnaḥ atadanityatvaṃ kiṃ śabde sarvadā bhavati ? atha na ?' ityanupapannaḥ, kasmāt ? utpannasyayo nirodhād abhāvaḥ śabdasya tad anityatvam evaṃ ca saty adhikaraṇādheyavibhāgo vyāghātānnāstīti।
+nityānityatvavirodhācca nityatvamanityatvaṃ caikasya dharmiṇo dharmāviti virudhyete ।
+na saṃbhavataḥ, tatra yaduktam anityamanityatvasya bhāvād nitya eva' tad avartamānārthamuktamiti ।।

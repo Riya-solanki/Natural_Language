@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 549 | label: meter | g:0.25 m:0.5 ---
+
+pāṇikhāte naraḥ snātvā pitṛn saṃtarpya mānavaḥ ।
+avāpnuyād rājasūyaṃ sāṃkhyaṃ yogaṃ ca vindati ।।

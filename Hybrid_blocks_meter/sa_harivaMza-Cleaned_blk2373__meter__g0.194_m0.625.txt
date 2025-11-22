@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2373 | label: meter | g:0.194 m:0.625 ---
+
+vatsayūthāni kālyantāṃ bhāṇdaṃ samadhiropayatām 
+vṛndāvanam itaḥ sthānān niveśāya ca gamyatām ।।

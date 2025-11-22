@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2311 | label: meter | g:0.194 m:0.625 ---
+
+kṣetrapālas tu gopālo dharmajñaḥ satyavādinaḥ 
+dharmā dharmavatī śīlā pāpahā dharmavardhanī ।।

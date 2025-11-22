@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2772 | label: meter | g:0.194 m:0.5 ---
+
+apām adhastāl loko vai tasyopari mahīdharāḥ 
+nāgānām upariṣṭād bhūḥ pṛthivyupari mānuṣāḥ ।।

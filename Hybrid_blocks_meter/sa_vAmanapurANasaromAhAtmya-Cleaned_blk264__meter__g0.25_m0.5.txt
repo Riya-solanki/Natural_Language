@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 264 | label: meter | g:0.25 m:0.5 ---
+
+śukrasya vacanaṃ śrutvā hṛṣṭaromābravīd baliḥ ।
+dhanyo ahaṃ kṛtapuṇyaśca yanme yajñapatiḥ svayam ।
+yajñamabhyāgato brahman mattaḥ ko anyo adhikaḥ pumān ।।

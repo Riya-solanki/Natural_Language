@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6639 | label: meter | g:0.25 m:0.75 ---
+
+brahmāṇḍaṃ vāruṇañcātha kālikāhvayameva ca ।
+māheśvaraṃ tathā sāmbamevaṃ sarvārthasañcayam ।
+parāśaroktamaparaṃ mārīcaṃ bhārgavāhvayam ।।

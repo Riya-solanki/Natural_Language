@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1052 | label: meter | g:0.25 m:0.5 ---
+
+brāhmaṇaiśca parityakto naiṣa śuddhyati karhicit ।
+tasmādenaṃ samuddiśya snātvā tīrtheṣu bhaktitaḥ ।।

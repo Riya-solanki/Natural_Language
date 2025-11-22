@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11844 | label: hybrid | g:0.531 m:0.5 ---
+
+bravīmi satyaṃ puruṣo viṣṇureva satyaṃ satya bhujamuddhṛtya satyam ।
+etatsarvaṃ yadi mithyā bhavettu tadā tvasau māṃ daśatu hyahīndra ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3153 | label: meter | g:0.194 m:1.0 ---
+
+asitāmbarasaṃvītam pāṇḍuraṃ pāṇḍurānanam 
+kuṇḍalaikadharaṃ mattam suptam amburuhekṣaṇam ।।

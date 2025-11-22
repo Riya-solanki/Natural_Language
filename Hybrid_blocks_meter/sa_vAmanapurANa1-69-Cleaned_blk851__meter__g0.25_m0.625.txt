@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 851 | label: meter | g:0.25 m:0.625 ---
+
+sasnehānāmathoṣṇena tilakalkena vāriṇā ।
+kārpāsikānāṃ vastrāṇāṃ suddhiḥ syātsaha bhasmanā ।।

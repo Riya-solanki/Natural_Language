@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1931 | label: meter | g:0.302 m:0.806 ---
+
+kujo vahnī raviḥ pṛthvī saurirāpaḥ prakīrtitaḥ ।
+vāyusaṃsthāsthito rāhurdakṣarandhrāvabhāsakaḥ ।।

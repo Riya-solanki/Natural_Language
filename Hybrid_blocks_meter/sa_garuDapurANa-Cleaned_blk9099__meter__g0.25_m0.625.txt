@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9099 | label: meter | g:0.25 m:0.625 ---
+
+tasmin kāle suto yastu sarvadānāni dāpayet ।
+gayāśrāddhādviśiṣyeta sa putraḥ kulanandanaḥ ।।

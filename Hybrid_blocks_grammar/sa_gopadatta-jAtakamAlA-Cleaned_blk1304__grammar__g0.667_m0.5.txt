@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1304 | label: grammar | g:0.667 m:0.5 ---
+
+evaṃvidhe atithijanapraṇayābhidhāne prītyāgame ca mama kāryasamṛddhihetau । dehe kṛtāntamakarāsyapuṭātithau ca naikopasargavihite vidhir asti ko anyaḥ ।।

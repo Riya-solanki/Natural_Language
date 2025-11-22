@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1092 | label: grammar | g:0.625 m:0.5 ---
+
+[] kṛṣṇaś ca sa-smitam āha sma-tatra ca yan mamoditam, tad anumoditaṃ purataḥ kuruta ।

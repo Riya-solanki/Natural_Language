@@ -1,0 +1,11 @@
+--- source: brssgo3u-Cleaned.txt | block: 466 | label: grammar | g:0.563 m:0.094 ---
+
+saṃbandhādevamanyatrāpi ।
+sadbhūtatrayaṃ tyadvāyvākāśātmakaṃ, satya parokṣabhūtātmakaṃ hiraṇyagarbhākhyaṃ brahmopakramya, taduktaṃ yatsatyaṃ tat sa yo asāvādityaḥ kiṃ maṇḍalaṃ na tatra sthāne puruṣaḥ karaṇātmakaḥ sa evādhyātmamakṣisthānastha ityupadiśya atasya bhūriti śiro bhuva iti bāhuḥ svariti pādau'iti vyāhṛtirūpaṃ śarīramuktvā dve upaniṣado rahasyadevatānāmanī upadiśyete tasyādityamaṇḍalasthasyāhariti nāma prakāśakatvāttasyākṣisthasyāhamiti nāma pratyaktvāditi ।
+idaṃ nāmadvayaṃ viṣayastatra nāminaḥ satyākhyasya brahmaṇa ekatvātsthānabhedokteśca saṃśayamāha-tatreti ।
+pūrvapakṣe pratisthānaṃ nāmadvayānuṣṭhānaṃ siddhānte yathāśrutyaikaikanāmānuṣṭhānamiti phalam ।
+dṛṣṭāntasaṃgatyā pūrvapakṣasūtraṃ vyācaṣṭe-yatheti ।
+yathā vidyaikyādupasaṃhāra ukta evamanyatrāpyekāvidyāmupasaṃhāro bhavitumarhatītyarthaḥ ।
+satyaṃ brahmetyupakramābhedastāvetāvakṣyādityapuruṣāvanyonyasminpratiṣṭhitau, ādityaraśmīnāṃ cakṣuṣa cakṣuṣaścāditye pratiṣṭhānāditi vyatiṣaktapāṭho mithaḥ saṃśleṣapāṭhastābhyāṃ vidyaikyasiddhiḥ ।
+vidyaikye api kiṃ syāttatrāha-kathamiti ।
+vidyaikye api sthānabhedādupaniṣadorasaṃkaraḥ syādityāśaṅkāṃ dṛṣṭāntena pariharati-yo hīti ।।

@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 745 | label: meter | g:0.371 m:0.611 ---
+
+ayadeva vidyayā karoti' ityeṣā śrutirna sarvavidyāviṣayā ।
+prakṛtavidyābhisaṃbandhāt ।

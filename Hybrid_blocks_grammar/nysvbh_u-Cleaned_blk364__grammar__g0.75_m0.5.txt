@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 364 | label: grammar | g:0.75 m:0.5 ---
+
+atyantasādharmyādupāmanaṃ na sidhyati na caivaṃ bhavati ayathā gaurevaṃ gauḥ' iti, prāyaḥsādharmyādupamānaṃ na sidhyati na hi bhavati ayathānaḍvānevaṃ mahiṣaḥ' iti, ekadeśasādharmyādupamānaṃ na sidhyati na hi sarveṇa sarvamupamīyate iti ।।

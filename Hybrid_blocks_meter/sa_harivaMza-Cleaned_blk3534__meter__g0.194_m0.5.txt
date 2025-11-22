@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3534 | label: meter | g:0.194 m:0.5 ---
+
+ime te pṛthivīpālāḥ pārthive vartmani sthitāḥ 
+ye vināśam iheṣyanti śāstradṛṣṭena karmaṇā ।।

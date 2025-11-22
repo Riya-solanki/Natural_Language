@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 319 | label: meter | g:0.25 m:0.625 ---
+
+adṛśyacittajñāne ca tadunmiñjādisaṃjñakam ।
+punastathattākāreṇa te ṣāṃ jñānamattaḥ param ।।

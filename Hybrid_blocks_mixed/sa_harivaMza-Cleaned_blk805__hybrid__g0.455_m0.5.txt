@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 805 | label: hybrid | g:0.455 m:0.5 ---
+
+idam antaram ity eva tataḥ sa brāhmaṇas tadā 
+śrāvayām āsa rājānaṃ ślokaṃ taṃ sacivau ca tau ।।

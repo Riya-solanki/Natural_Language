@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 670 | label: meter | g:0.25 m:0.625 ---
+
+bhavatīti yasmātprativakti tasmādavagamyata iti yojanā ।
+tenāvasthādharmeṇānanvāgato aspṛṣṭo bhavati asattvāt ।

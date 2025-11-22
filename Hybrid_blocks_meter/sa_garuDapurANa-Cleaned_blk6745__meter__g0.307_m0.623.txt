@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6745 | label: meter | g:0.307 m:0.623 ---
+
+garbhavāse sa no duḥ khī sa syānnārāyaṇo avyayaḥ ।
+bhaktyā tvananyayā labhyo bhagavānbhuktimuktidaḥ ।।

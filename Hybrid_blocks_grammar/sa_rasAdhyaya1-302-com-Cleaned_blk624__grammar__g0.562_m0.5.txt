@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 624 | label: grammar | g:0.562 m:0.5 ---
+
+sāralohacūrṇaṃ kāṃsyacūrṇaṃ ca samamātrayā mūṣāyāṃ kṣiptvā tata āvartya ekapiṇḍaṃ kriyate ।।

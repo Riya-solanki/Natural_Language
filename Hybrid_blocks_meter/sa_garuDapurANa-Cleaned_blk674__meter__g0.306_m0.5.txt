@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 674 | label: meter | g:0.306 m:0.5 ---
+
+garbhādhānādikaṃ kṛtvā niṣkṛtiṃ cārasya paścimām ।
+hṛdā kṛtvā sarvakarṃma śivaṃ sāṃgaṃ tu homayet ।।

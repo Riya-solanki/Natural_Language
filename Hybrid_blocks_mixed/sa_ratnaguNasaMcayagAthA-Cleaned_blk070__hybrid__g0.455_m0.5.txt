@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 70 | label: hybrid | g:0.455 m:0.5 ---
+
+asato aṅkurasya drumasaṃbhavu nāsti loke kuta śākhapatraphalapuṣpaupādu tatra 
+vina bodhicitta jinasaṃbhavu nāsti loke kuta śakrabrahmaphala śrāvakaprādubhāvaḥ ।।

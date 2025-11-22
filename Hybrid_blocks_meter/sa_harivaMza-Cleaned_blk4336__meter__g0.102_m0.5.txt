@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4336 | label: meter | g:0.102 m:0.5 ---
+
+cārubhadro bhadracāruḥ sudaṃṣṭro druma eva ca 
+suṣeṇaś cāruguptaś ca cāruvindaś ca cārumān 
+cārubāhuḥ kaniṣṭhaś ca kanyā cārumatī tathā ।।

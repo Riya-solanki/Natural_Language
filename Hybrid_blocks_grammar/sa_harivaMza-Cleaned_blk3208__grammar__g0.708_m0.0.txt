@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3208 | label: grammar | g:0.708 m:0.0 ---
+
+ānamyamānaṃ kṛṣṇena prakarṣād uragopagam 
+dvidhābhūtam abhūn madhye dhanur āyāgabhūṣitam ।। 
+dhanuṣo bhajyamānasya śabdaḥ khaṃ rodasī diśaḥ । pūrayām āsa yaṃ śrutvā kaṃsas trāsam upāgamat ।। tadrakṣiṇaḥ sānucarā kupitā ātatāyinaḥ । gṛhītukāmā āvavrur gṛhyatāṃ vadhyatām iti ।। atha tān durabhiprāyān vilokya balakeśavau । kruddhau dhanvana ādāya śakale tāṃś ca jaghnatuḥ ।। balaṃ ca kaṃsaprahitaṃ hatvā śālāmukhāt tataḥ । niṣkramya ceratur dṛptau nirīkṣya purasaṃpadaḥ ।। tayos tad adbhutaṃ vīryaṃ niśamya puravāsinaḥ । tejaḥ prāgalbhyarūpaṃ ca menire vibudhottamau । 
+bhaṅktvā tu tad dhanuḥ śreṣṭhaṃ kṛṣṇas tvaritavikramaḥ 
+niścakrāma mahāvegaḥ sa ca saṃkarṣaṇo yuvā ।।

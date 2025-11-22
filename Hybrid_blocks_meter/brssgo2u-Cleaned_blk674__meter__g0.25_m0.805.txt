@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 674 | label: meter | g:0.25 m:0.805 ---
+
+ātmasaṃyuktāyāstvaco dehavyāpisparśopalabdhikaraṇasya mahimnātmanovyāpikāryakāritvamaviruddham ।
+tvagātmanoriti ।
+saṃbandhasya tvagavayaviniṣṭhatvādavayavinaścaikatvādātmasaṃyogasya kṛtsnatvaṅniṣṭhatetyarthaḥ ।।

@@ -1,0 +1,9 @@
+--- source: brssgo2u-Cleaned.txt | block: 914 | label: meter | g:0.25 m:0.905 ---
+
+pramāṇaṃ pramitiḥ viparyayo bhramaḥ ।
+śaśaviṣāṇādijñānaṃ vikalpaḥ ।
+tāmasī vṛttirnidrā ।
+smṛtiḥ prasiddhā ।
+bhramandriyoravidyāvṛttitvānna manovṛttitvamityarucyā svamatamāha-bahviti ।
+sūtrasyārthāntaramāha-jīveti ।
+tadevaṃ prāṇavāyorbhedābhedaśrutyoravirodha iti siddham ।।

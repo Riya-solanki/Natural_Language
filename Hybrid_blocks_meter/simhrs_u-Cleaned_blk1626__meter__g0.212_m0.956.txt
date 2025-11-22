@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1626 | label: meter | g:0.212 m:0.956 ---
+
+śama-pradhāneṣu tapodhaneṣu
+gūḍhaṃ hi dāhātmakam asti tejaḥ ।
+sparśānukūlā iva sūrya-kāntās
+tad anya-tejo' bhibhavād vamanti ।।

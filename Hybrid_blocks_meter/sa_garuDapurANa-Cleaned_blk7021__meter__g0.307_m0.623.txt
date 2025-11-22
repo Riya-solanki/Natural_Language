@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7021 | label: meter | g:0.307 m:0.623 ---
+
+puryaṣṭakaṃ parityajya prakṛtiñca guṇātmikām ।
+yadā yāti tadā jīvo yāti muktiṃ na saṃśayaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 568 | label: grammar | g:0.75 m:0.5 ---
+
+[] tathāpi cirataḥ kaṃsa-prathita-vyathatayā prāpta-vitathatāyāyadu-rāja-rājadhānyāḥ sphurad-ugrasenenāpy ugrasenena duḥsamādhānaṃ samādhānam । svayaṃ bahu-praṇidhānata eva syād iti kṣaṇam api kṣaṇam alabhamāś cirāyamāṇe nija-vraja-prayāṇe vicārya rāmeṇa sama aikacarya-caryayā svajana-vraje vraje virājamānaṃ vrajeśam upavrajya svasya vrajāgamanam avaśya-kāryatayā nirdhārya vrajam eva vrājiṣyasi ।

@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 159 | label: hybrid | g:0.354 m:0.35 ---
+
+smṛtivyatiriktā ca pratītiranubhūtiḥ ।
+smṛtiśca saṃskāramātrajaṃ jñānamabhidhīyate ।
+mātragrahaṇaṃ ca saṃskārasaghrīcīnendriyajasya pratyabhijñānasya smṛtitvaprasaṅgenāprāmāṇyaṃ māprasāṃkṣīdityelamartham ।
+tadevaṃ saṃskārātiriktakāraṇajanyaṃ jñānaṃ pramāṇamityuktaṃ bhavati, tadidaṃ svapnadarśane tāvadavyāpakam, saṃskāramātrajasyāpi jñānasya svarūpe kartari ca prāmāṇyamiṣṭaṃ bhavatām ।।

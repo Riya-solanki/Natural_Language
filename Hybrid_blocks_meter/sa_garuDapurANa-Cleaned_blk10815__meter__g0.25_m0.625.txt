@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10815 | label: meter | g:0.25 m:0.625 ---
+
+yamaṃ vinirmame pṛṣṭhādaṣṭavarṣādanantaram ।
+tadbhāryāṃ śāmalāṃ devīṃ tasmādeva mahāprabhuḥ ।।

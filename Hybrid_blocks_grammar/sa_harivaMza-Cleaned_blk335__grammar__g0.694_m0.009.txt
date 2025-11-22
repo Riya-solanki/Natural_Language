@@ -1,0 +1,20 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 335 | label: grammar | g:0.694 m:0.009 ---
+
+gotamasyātmajaś caiva śaradvān nāma gautamaḥ 
+kauśiko gālavaś caiva ruruḥ kāśyapa eva ca 
+ete sapta mahātmāno bhaviṣyā munisattamāḥ ।। 
+devatānāṃ guṇās tatra trayaḥ proktāḥ svayaṃbhuvā । mārīcasyaiva te putrāḥ kaśyapasya mahātmanaḥ । brahmaṇaḥ sadṛśāś caite dhanyāḥ saptarṣayaḥ smṛtāḥ ।। abhijātyātha tapasā mantravyākaraṇais tathā । brahmalokapratiṣṭhās tu smṛtā brahmarṣayo amalāḥ ।। bhūtabhavyabhavajjñānaṃ buddhā caiva tu yaiḥ svayam । tapasā vai prasiddhā ye saṃgatā pravicintakāḥ । mantravyākaraṇādyaiś ca aiśvaryāt sarvaśaś ca ye ।। etān bhāryān dvijo jñātvā naiṣṭhikāni ca nāma ca । saptaite saptabhiś caiva guṇaiḥ saptarṣayaḥ smṛtāḥ ।। dīrghāyuṣo mantrakṛta īśvarā dīrghacakṣuṣaḥ । buddhyā pratyakṣadharmāṇo gotraprāvartakās tathā ।। kṛtādiṣu yugākhyeṣu sarveṣv eva punaḥ punaḥ । pravartayanti te varṇān āśramāṃś caiva sarvaśaḥ । saptarṣayo mahābhāgāḥ satyadharmaparāyaṇāḥ ।। teṣāṃ caivānvayotpannā jāyante hi punaḥ punaḥ । mantrabrāhmaṇakartāro dharme praśithile tathā ।। yasmāc ca varadāḥ sapta parebhyaś cāparāḥ smṛtāḥ । tasmān na kālo na vayaḥ pramāṇam ṛṣibhāvane ।। eṣa saptarṣikoddeśo vyākhyātas te mayā nṛpa । sāvarṇasya manoḥ putrān bhaviṣyāñ śṛṇu sattama । saṃbandhāc ca svayaṃtejāḥ saṃbuddhāś ca yataḥ svayam । yasmāc chaṃsanti te brahma tasmād brahmarṣayaḥ smṛtāḥ । 
+varīvāṃś cāvarīvāṃś ca saṃmato dhṛtimān vasuḥ 
+cariṣṇur āḍhyo dhṛṣṇuś ca vājī sumatir eva ca 
+sāvarṇasya manoḥ putrā bhaviṣyā daśa bhārata ।। 
+kṣamayā nṛpa sāvarṇā bhaviṣyāñ śṛṇu bhārata । 
+eteṣāṃ kālyam utthāya kīrtanāt sukham edhate 
+yaśaś cāpnoti sumahad āyuṣmāṃś ca bhaven naraḥ । 
+caturdaśe manobhāvye uragambhīrabudhnakāḥ । 
+putrā [vai cā]kṣuṣā devā śukrādyāś ca tapasvinaḥ । 
+atītanāgatānāṃ vai maharṣīṇāṃ sadā naraḥ ।। 
+devatānāṃ gaṇāḥ proktāḥ pañca vai bharatarṣabha । taraṃgabhīrur vapraś ca tarasvān ugra eva ca ।। abhimānī pravīraś ca jiṣṇuḥ saṃkrandanas tathā । tejasvī sabalaś caiva bhautyasyaite manoḥ sutāḥ ।। bhautyasyaivādhikāre tu pūrṇe kalpas tu pūryate । ity ete anāgatātītā manavaḥ kīrtitā mayā । namaskṛtvā jayet svargaṃ brāhmaṇo nātra saṃśayaḥ । kṣatriyo jayate śatrūn vaiśyaḥ śūdro yathepsitam । 
+tair iyaṃ pṛthivī tāta sasamudrā sapattanā 
+yathāpradeśam adyāpi sarvataḥ paripālyate । 
+pūrṇaṃ yugasahasraṃ hi paripālyā nareśvaraiḥ 
+prajābhis tapasā caiva saṃhārānte ca nityaśaḥ ।।

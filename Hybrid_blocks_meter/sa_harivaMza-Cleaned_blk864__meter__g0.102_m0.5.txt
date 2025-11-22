@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 864 | label: meter | g:0.102 m:0.5 ---
+
+taṃ mūrdhny upāghrāya tadā somo dhātā prajāpatiḥ 
+budha ity akaron nāma tasya putrasya dhīmataḥ 
+pratikūlaṃ ca gagane samabhyuttiṣṭhate budhaḥ ।।

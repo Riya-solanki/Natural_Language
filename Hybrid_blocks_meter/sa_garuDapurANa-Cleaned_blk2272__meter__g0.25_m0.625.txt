@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2272 | label: meter | g:0.25 m:0.625 ---
+
+rathamārgaṃ gayatīrthe dṛṣṭvā rudrapadādike ।
+kāleśvaraṃ ca kedāraṃ pitṝṇāmanṛṇo bhavet ।।

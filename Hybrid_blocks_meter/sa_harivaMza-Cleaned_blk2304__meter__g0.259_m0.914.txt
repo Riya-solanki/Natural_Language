@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2304 | label: meter | g:0.259 m:0.914 ---
+
+ekanirmāṇaniryuktāv ekaśayyāsanāśanau 
+ekaveṣadharāv ekaṃ puṣyamāṇau śiśuvratam ।।

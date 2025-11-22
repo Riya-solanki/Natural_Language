@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4096 | label: meter | g:0.194 m:0.5 ---
+
+manuṣyāḥ paśavaś cānye ye ca jīvā yaśasvini 
+tair antaḥsthair ananto asau sarveśaḥ sarvabhāvanaḥ ।।

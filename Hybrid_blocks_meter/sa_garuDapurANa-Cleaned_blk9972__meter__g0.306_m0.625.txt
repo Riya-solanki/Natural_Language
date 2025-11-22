@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9972 | label: meter | g:0.306 m:0.625 ---
+
+ahite hitasaṃjñaḥ syādadhruve dhruvasaṃjñakaḥ ।
+anarthe cārthavijñānaḥ svamarthaṃ yo na vetti saḥ ।।

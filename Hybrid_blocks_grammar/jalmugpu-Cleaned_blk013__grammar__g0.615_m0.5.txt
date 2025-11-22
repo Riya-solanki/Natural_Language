@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 13 | label: grammar | g:0.615 m:0.5 ---
+
+svāmī krūram ivāśritaṃ pariṇato yogīva saṃsāriṇaṃ śuddho vipra ivāntyajaṃ janapadaḥ śrīmān iva śvitriṇam ।
+dāsīputram ivoddhataḥ kuladharo nīco dhanīvārthinaṃ paryante tṛṇatulyam eva gaṇikā niḥsvaṃ janaṃ paśyanti ।।

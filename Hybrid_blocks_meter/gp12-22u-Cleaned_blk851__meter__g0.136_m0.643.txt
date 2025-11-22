@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 851 | label: meter | g:0.136 m:0.643 ---
+
+ayaṃ girivaraṃ dadhe karuṇayeti kāruṇyavān
+samastam abhitarkyate tad iha citta-dhairyaṃ bhaja ।
+nirantarita-locana-prabhava-vṛṣṭi-bhītībhavad-
+vapuś ca tava rakṣitety akṛta bhāvam eṣā tadā ।। [pṛthvī]

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 386 | label: meter | g:0.194 m:0.625 ---
+
+bhinnakalaḥ smṛto hy evaṃ layātītas tu mokṣadaḥ 
+pañcāvasthā samākhyātā mantrāṇām amitaujasām ।।

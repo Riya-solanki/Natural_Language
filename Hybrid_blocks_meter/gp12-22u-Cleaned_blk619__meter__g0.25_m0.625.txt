@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 619 | label: meter | g:0.25 m:0.625 ---
+
+anumāna-gatā tāsām arthāpattiḥ pratīyate ।
+yataḥ kṛṣṇasya dayitās tā eva nyāya-paṇḍitāḥ ।। [anuṣṭubh]

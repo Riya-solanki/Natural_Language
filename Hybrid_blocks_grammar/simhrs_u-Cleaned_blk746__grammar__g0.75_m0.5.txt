@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 746 | label: grammar | g:0.75 m:0.5 ---
+
+atra yadi samudra-velāyāṃ prasūye tarhi udvela-kallola-mālābhir mamāpatyāni hṛtāni bhaveyur iti śaṅkitāyāṃ nija-gṛhiṇyāṃ kaścit ṭiṭṭibhaḥ pakṣi-viśeṣo garvāyate । tad ayaṃ garvo nīca-tiryag-gatatvād ābhāso nātīva svadate ।

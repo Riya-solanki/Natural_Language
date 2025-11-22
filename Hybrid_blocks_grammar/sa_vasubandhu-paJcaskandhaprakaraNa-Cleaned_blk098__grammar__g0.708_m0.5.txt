@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 98 | label: grammar | g:0.708 m:0.5 ---
+
+dvitīyādhikāraḥ āyatanoddyeśanirdeśakaḥ dvādaśāyatanāni । cakṣurāyatanam, rūpāyatanam, śrotrāyatanam, śabdāyatanam, ghrāṇāyatanam, gandhāyatanam, jihvāyatanam, rasāyatanam, kāyāyatanam, spraṣṭavyāyatanam, mana āyatanam,dharmāyatanaṃ ca ।।

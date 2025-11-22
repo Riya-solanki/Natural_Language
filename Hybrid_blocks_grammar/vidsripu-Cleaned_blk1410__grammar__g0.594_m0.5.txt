@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1410 | label: grammar | g:0.594 m:0.5 ---
+
+paulastyaḥ katham anyadāraharaṇe doṣaṃ na vijñātavān kākutsthena kathaṃ na hemahariṇasyāsambhavo lakṣitaḥ ।
+akṣāṇāṃ ca yudhiṣṭhireṇa mahatā jñāto na doṣaḥ kathaṃ pratyāsannavipattimūḍhamanasāṃ prāyo matiḥ kṣīyate ।।

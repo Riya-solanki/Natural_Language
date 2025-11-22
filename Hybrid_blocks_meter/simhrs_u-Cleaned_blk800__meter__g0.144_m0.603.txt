@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 800 | label: meter | g:0.144 m:0.603 ---
+
+cira-virahiṇor utkaṇṭhārti-ślathīkṛta-gātrayor
+navam iva jagaj jātaṃ bhūyaś cirād abhinandatoḥ ।
+katham api dine dīrghe yāte niśām adhirūḍhayoḥ
+prasarati kathā bahvī yūnor yathā na tathā ratiḥ ।। ]

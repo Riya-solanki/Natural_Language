@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1188 | label: meter | g:0.34 m:0.571 ---
+
+latāṃ puṣpavatīṃ spṛṣṭvā kṛtasnāno jalāśaye ।
+punas tatsaṅgaśaṅkīva vāti vātaḥ śanaiḥ śanaiḥ ।।
+vinayadevasya

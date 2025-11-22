@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 203 | label: meter | g:0.295 m:0.565 ---
+
+madālasānandabhṛtekṣaṇekṣitaḥ prapaśyatām eva kumārikorum 
+dhṛtvā karotkaṇṭhitayā ca kaṇṭhe āliṅgayantyā ca diśaṃ vilokya ।।

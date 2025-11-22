@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 911 | label: meter | g:0.25 m:0.625 ---
+
+anyonyahiṃsāpraṇayaṃ niyacchanparasparaprema vivardhayaṃśca ।
+yogādupāyajñatayā ca teṣāṃ vismārayāmāsa sa matsyavṛttam ।।

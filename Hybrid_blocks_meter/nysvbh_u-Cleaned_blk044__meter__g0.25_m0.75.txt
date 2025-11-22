@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 44 | label: meter | g:0.25 m:0.75 ---
+
+upalabdhisādhānāni pramāṇānīti samākhyānirvacanasāmārthyād boddhavyam।
+pramīyate aneneti karaṇārthābhidhāno hi pramāṇaśabdaḥ।
+tadviśeṣasamākhyāyā api tathaiva vyākhyānam।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1063 | label: meter | g:0.194 m:0.625 ---
+
+{padārthe vākyaracanaṃ vākyārthe ca padābhidhā ।
+prauḍhirvyāsasamāsau ca sābhiprāyatvamasya ca ।।}

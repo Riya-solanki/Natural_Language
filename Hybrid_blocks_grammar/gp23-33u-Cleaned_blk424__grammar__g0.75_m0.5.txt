@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 424 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhumaṅgalaḥ sa-roṣaṃ śrī-kṛṣṇam avalocya vakti sma-para-vaktavyā khalv iyaṃ vaktavyā bhavatīti nāsmākaṃ vaktavyā bhavitum arhati । kintu seyaṃ tāvad atra nirudhyatām yāvad ahaṃ tad vṛttam avabudhya sudhy-agraṇīr bhavantam avaruṇadhmi ।

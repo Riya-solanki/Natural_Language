@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 765 | label: meter | g:0.306 m:0.5 ---
+
+na hemamālā maṇidīptiśībharāḥ srajo na citrā makarandapiñjarāḥ ।
+tathābhyalaṃkartum alaṃ śarīriṇāṃ yathā kṣamā sarvaguṇaikaratnakā ।।

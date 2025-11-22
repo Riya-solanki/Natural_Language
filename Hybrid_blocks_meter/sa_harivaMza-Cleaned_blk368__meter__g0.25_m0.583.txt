@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 368 | label: meter | g:0.25 m:0.583 ---
+
+draṣṭā hi tāṃ bhavān adya svāṃ bhāryāṃ śubhacāriṇīm 
+nityaṃ tapasy abhiratāṃ vaḍavārūpadhāriṇīm । 
+parṇāhārāṃ kṛśāṃ dīnāṃ jaṭilāṃ maladhāriṇīm । 
+hastihastaparikliṣṭāṃ vyākulāṃ padminīm iva । 
+ślāghyāṃ yogabalopetāṃ yogam āsthāya gopate ।।

@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 188 | label: meter | g:0.306 m:0.5 ---
+
+ata eva yad apy uktaṃ kriyā naikasya sakramā ।
+eketyādi pratikṣiptaṃ tad ekasya samarthanāt ।।

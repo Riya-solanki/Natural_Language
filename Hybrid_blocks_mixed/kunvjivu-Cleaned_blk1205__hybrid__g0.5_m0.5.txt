@@ -1,0 +1,3 @@
+--- source: kunvjivu-Cleaned.txt | block: 1205 | label: hybrid | g:0.5 m:0.5 ---
+
+kimasya bhavato yathā suhṛda eva nāśo viṣam ।।

@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 392 | label: meter | g:0.25 m:0.75 ---
+
+darśanādikriyāyāḥ kartari pravṛttivirodhāt ।
+kartari ātmani pravṛttivirodhādityarthaḥ ।।

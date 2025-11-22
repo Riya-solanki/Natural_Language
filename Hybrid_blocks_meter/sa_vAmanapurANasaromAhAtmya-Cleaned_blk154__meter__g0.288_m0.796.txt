@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 154 | label: meter | g:0.288 m:0.796 ---
+
+aditiruvāca
+prasīda devadeveśa namaste viśvabhāvana ।
+nāhaṃ tvāmudare voḍhumīśa śakṣyāmi keśava ।
+yasmin pratiṣṭhitaṃ sarvaṃ viśvayonistvamīśvaraḥ ।।

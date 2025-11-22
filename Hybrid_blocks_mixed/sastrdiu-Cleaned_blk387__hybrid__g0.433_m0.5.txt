@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 387 | label: hybrid | g:0.433 m:0.5 ---
+
+athavā dhvanisaṃyoga eva śrotrasaṃskāro nānyaḥ, tasya ca vispaṣṭameva bhaṅguratvaṃ gatvaratvādghavanīnām ।
+tasmādanye sthāyinaḥ saṃskārāḥ kalpyāḥ, tathā varṇātiriktaḥ śabdaḥ kalpya iti bahvapramāṇakamāpannam ।
+matpakṣe tu dṛḍhasmṛtiviparivartināṃ varṇānāṃ vācakatvānna kiñcidūnam ।।

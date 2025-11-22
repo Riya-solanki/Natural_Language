@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1846 | label: meter | g:0.306 m:0.5 ---
+
+na tatra candrārkakarairdigaṅganā vibhānti saṃkṣiptatamo avaguṇṭhanāḥ ।
+na caiva tārāgaṇabhūṣaṇaṃ nabhaḥ saraḥ prabuddhaiḥ kumudairivekṣyate ।।

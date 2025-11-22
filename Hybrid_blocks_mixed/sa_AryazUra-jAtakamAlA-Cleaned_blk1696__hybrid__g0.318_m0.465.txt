@@ -1,0 +1,5 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1696 | label: hybrid | g:0.318 m:0.465 ---
+
+bodhisattva uvāca - kāmamevaṃ pravṛttā, mahārāja, rājanītiḥ । duranuvartyā tu māṃ pratibhāti । 
+asaṃstutasyāpyaviṣahyatīvramupekṣituṃ duḥkhamatīva duḥkham ।
+prāgeva bhaktyunmukhamānasamya gatasya bandhupriyatāṃ janasya ।।

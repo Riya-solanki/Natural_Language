@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 281 | label: meter | g:0.25 m:0.684 ---
+
+nārada uvāca। । 
+ko asāvanaṅgo brahmarṣe tasmin badarikāśrame ।
+yaṃ dadarśa jagannātho devo nārāyaṇo avyayaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 775 | label: grammar | g:0.75 m:0.5 ---
+
+[tataḥ] paścāt [saccarma prasārya] mṛgājinamāstīrya [āsanam] ardhacandrapadmasvastikādyāsanaṃ baddhvā vidvān iti yogapādapradarśitadhyānādividhijño analasaḥ san [mantraṃ dhyāyan japet] tattanmantrajapadhyānaṃ kuryāt। [khinnaḥ] śrāntaśca tasmin tatra śayane [laghu] stokaṃ [svapet] śayīta।।

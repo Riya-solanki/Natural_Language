@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 384 | label: meter | g:0.194 m:0.5 ---
+
+anena tava dharmeṇa praśrayeṇa damena ca 
+satyena caiva suśroṇi prītau svo varavarṇini ।।

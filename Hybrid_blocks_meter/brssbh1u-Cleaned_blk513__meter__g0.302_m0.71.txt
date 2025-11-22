@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 513 | label: meter | g:0.302 m:0.71 ---
+
+vākyāni tattvamasyādīni jīvabrahmaṇoścaitanyāviśeṣāttadākāreṇākārāntareṇa vā bhedāyogo nyāyaḥ ।
+nehanānenetyādayo dvaitavādaniṣedhāḥ ।

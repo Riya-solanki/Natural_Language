@@ -1,0 +1,7 @@
+--- source: rasadh_u-Cleaned.txt | block: 38 | label: meter | g:0.25 m:0.75 ---
+
+citrakakvāthasampiṣṭāt kāpālī yāti vaṅgajā ।
+vajrakandarasenaiva piṣṭād vaṅgajakālikā ।।
+kaṭutumbīpayaḥpiṣṭāt śyāmā naśyati nāgajā ।
+bīyājalena sampiṣṭāt kapālī nāgasambhavā ।।
+saptasaptadinaiḥ piṣṭātsūtān naśyanti kañcukāḥ ।

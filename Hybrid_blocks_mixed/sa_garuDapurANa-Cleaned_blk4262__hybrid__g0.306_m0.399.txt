@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4262 | label: hybrid | g:0.306 m:0.399 ---
+
+saṃsṛṣṭeṣu hi doṣeṣu sarvathā chardanaṃ hitam ।
+tatra doṣo atra gamanaṃ śivāstra iva lakṣyate ।।
+upadravāśca vikṛtiṃ phalatasteṣu sādhitam ।।
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe raktapittanidānaṃ nāmāṣṭacatvāriṃśaduttaraśatatamo adhyāyaḥ

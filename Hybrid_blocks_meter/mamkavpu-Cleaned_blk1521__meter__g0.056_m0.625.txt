@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1521 | label: meter | g:0.056 m:0.625 ---
+
+{tadgehaṃ natabhitti mandiramidaṃ labdhāvakāśaṃ divaḥ
+sā dhenurjaratī nadamti kariṇāmetā ghanābhā ghaṭāḥ ।
+sa kṣudro musaladhvaniḥ kalamidaṃ saṃgītakaṃ yoṣitām
+āścaryaṃ divasairdvijoyamiyatīṃ bhūmiṃ samāropitaḥ ।।}

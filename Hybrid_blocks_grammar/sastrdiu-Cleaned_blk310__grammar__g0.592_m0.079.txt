@@ -1,0 +1,17 @@
+--- source: sastrdiu-Cleaned.txt | block: 310 | label: grammar | g:0.592 m:0.079 ---
+
+tathā vede api viśvajitā yājetetyatra svargakāma iti vā svargārthamiti vā yenaiva śabdena śrutiśabdaikavākyabhūtena paripūrṇārthābhidhānaṃ saṃpadyate tadeva hṛdayamānīya śrutena saha melayitvā paripūraṇādvākyādvākyārthaḥ pratīyate, yathā sauryaṃ caruṃ nirvapedbrahmavarcasakāmaḥ ityādiṣu vidhiṣvitikartavyatāpratipādakaśabdāśravaṇādapūrṇeṣu tatpratipādakaśabdānapekṣayā codanāliṅgopasthāpitasyāgneyavidhekhyaṃśasya sādhyasādhanāṃśapratipādakabhāgāvanapekṣitatvādanādṛtya yastṛtīyoṃ'śa itthaṃbhāvo agnyatvādhānādirvidhyantatvena parikalpitastasya divacchabdena kalpitena, kintu ya evāyamāgneyavidhyantastasyaiva vyavahitasyāpi codanāliṅgabalopasthāpitasya vikṛtividhinā sahaikavākyatāmātramarthāpattyā kalpyate ।
+nahyayamanuṣaṅgo yena vyavahitasya na syāditi ।
+atideśastvayaṃ vyavahitasyāpi kathañcidupasthānādupapanna eva ।
+tathā ca vakṣyati- vidhyaṃnto vā prakṛtivaccodanāyāṃ pravarteti vidhyanta iti pradhānavidhivarjitaṃ samastameva pauroḍāśikaṃ kāṇḍamabhidhīyata iti bhāṣyakāraḥ ।।
+nanvevaṃ śāstrātideśāṅgīkaraṇe daśamādyavirodhaḥ syāt, ūhabādhayoścāsiddhiḥ ।
+bhavedevaṃ yadi yathāśrutarūpameva vrīhinavahantīti vākyaṃ vikṛtiṃ nītvā tasya yathāsaṃbhavaṃ vikṛtividhinā sahaikavākyatā parikalpyeta ।
+yadi tathā kriyate tatra kṛṣṇalacarau vrīhiśabdasya havirlaṇārthatvāyogādavadhātasya bādhaḥ syāt ।
+evaṃ nīvārādiṣvapi vrīhaya evāvahantavyāḥ iti na nīvārādiṣvavahantirūhyeta ।
+natvevamasmābhirucyate kintu prakṛtau pradhānena sahaikavākyatayāvagatasyāsya yāvanparikaro tādṛgatidiśyate prakṛtau haviṣṭvāt, tallakṣaṇārtho, avaghātasya ca teṣu dṛṣṭaṃ prayojanaṃ tuṣavimocanaṃ saṃbhavatīti taddvāreṇāsya pradhānaikavākyatā ।
+tataśca- avaghātavituṣīkṛtairvrīhibhiḥ puroḍāśaṃ kṛtvā tena yajetetīdṛśaḥ prakṛtividhiḥ, tasya sākṣādavaghāto viśeṣaṇam, avaghātaviśeṣitavituṣīkaraṇaviśiṣṭaṃ hi haviryāgasya viśeṣaṇaṃ prakṛtau, atastadeva vikṛtāvākṛṣyate ।
+kṛṣṇalayāge ca kṛṣṇalaśabdasya havirvācinaḥ pratyakṣaśravaṇāttadvirodhātpuroḍāśaśabdo nivartate, tannivṛttyā ca vrīhīṇāmapi nivṛttiḥ ।
+na hi te kṛṣṇalānāṃ prakṛtitvena saṃbhavanti ।
+vituṣīkaraṇaśabdo api yo dvārapratipādakaḥ so api kṛṣṇaleṣu tadasaṃbhavādanivṛtto avaghāta ityūhasyāpi siddhiḥ ।
+daśamādye ca yāvacchrutānāmaṅgaśāstrāṇāmatideśamāśaṅkyā prakṛtyanvitānāṃ tena rūpeṇātideśaḥ ।
+nārthamātreṇa ityalamatiprasaṅgena ।।

@@ -1,0 +1,9 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1257 | label: meter | g:0.063 m:0.879 ---
+
+yogābhyāsajanito dharmo janmāntare ḥpyanuvartate,
+pracayakāṣṭhāgate tattvajñānahetau dharme prakṛṣṭāyāṃ
+samādhibhāvanāyāṃ tattvajñānamutpadyate iti,
+dṛṣṭaśca samādhinārthaviśeṣaprābalyābhibhavaḥ
+anāhametadaśrauṣam nāhametadajñāsiṣam
+anyatra me mano abhūt' ityāha laukika iti
+।।

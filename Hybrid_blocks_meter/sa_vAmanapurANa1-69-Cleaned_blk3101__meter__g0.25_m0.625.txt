@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3101 | label: meter | g:0.25 m:0.625 ---
+
+jānubhyāmupari sthāpya muktakeśā nijaṃ śiraḥ ।
+suṣvāpa keśaprāntaistu saṃśliṣṭacaraṇābhavat ।।

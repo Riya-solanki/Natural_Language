@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1542 | label: meter | g:0.194 m:0.5 ---
+
+tato rathaiḥ prajvalitair vāhanaiś ca pracoditaiḥ 
+utpatadbhiś ca gaganaṃ sāsihastaiḥ samantataḥ ।।

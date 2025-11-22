@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1894 | label: meter | g:0.25 m:0.625 ---
+
+kuhūḥ kuvalayaṃ prādānmadhuvarṇaṃ madhūdakā ।
+jambūkaṃ dhūtapāpā ca veṇā śvetānanaṃ dadau ।।

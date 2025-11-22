@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3624 | label: meter | g:0.306 m:0.5 ---
+
+kuputtrastu kulaṃ yadvatkubhāryā ca patiṃ yathā ।
+adharmaṃ ca yathā dharmaḥ kumantrī ca yathā nṛpam ।।

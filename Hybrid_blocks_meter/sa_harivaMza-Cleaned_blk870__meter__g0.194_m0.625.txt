@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 870 | label: meter | g:0.194 m:0.625 ---
+
+brahmavādī parākrāntaḥ śatrubhir yudhi durjayaḥ 
+āhartā cāgnihotrasya yajñānāṃ ca divo mahīm ।।

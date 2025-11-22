@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 221 | label: grammar | g:0.583 m:0.5 ---
+
+yogyatāyā arhatvasyāṅgaṃ sampādakaṃ pākākhyaṃ saṃskāram abhajad anāsevyamānaṃ tat karma sadyastatkṣaṇaṃ harītakyādyauṣadhamiva na syān na bhavetphaladamiti śeṣaḥ ।। 
+yadāhuḥ aprāptapākaṃ harītakyādidravyaṃ sadapi svakāryasampādanāśaktaṃ yogyatāṅgasya pākasyānāsādanāditi ।। 
+evaṃ sadapi karmāpakvaṃ tatphaladānāśaktam ataḥ pākāpekṣaṃ pākaścāsya na svataḥ sambhavatītyāha ।।

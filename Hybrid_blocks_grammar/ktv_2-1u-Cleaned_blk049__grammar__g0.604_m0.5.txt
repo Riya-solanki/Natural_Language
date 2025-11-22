@@ -1,0 +1,3 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 49 | label: grammar | g:0.604 m:0.5 ---
+
+kathaṃ punar yajyādīn pṛthak kṛtya kevalapratyayavācya eva bhāvanārtho labhyate bhāvayet iti kutaḥ ।

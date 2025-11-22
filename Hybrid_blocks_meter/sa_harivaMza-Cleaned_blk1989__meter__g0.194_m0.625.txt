@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1989 | label: meter | g:0.194 m:0.625 ---
+
+aṣṭau tāñ jāhnavīgarbhān apatyārthaṃ dadāmy aham 
+vibhāvasos tulyaguṇān surāṇāṃ prītivardhanān ।।

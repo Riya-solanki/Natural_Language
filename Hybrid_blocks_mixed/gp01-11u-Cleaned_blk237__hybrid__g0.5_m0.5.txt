@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 237 | label: hybrid | g:0.5 m:0.5 ---
+
+[] kṛṣṇaḥ sahāsam- āha sma, "mātar, na te pretajātitām avāptāḥ । kintu, bhavaccaraṇareṇugaṇaguṇitabhūmim anu maraṇapratāpavargād apavargam eva gatāḥ । vayaṃ tu māyāmayatatpratikṛtiprapañcasañcayam añcantaḥ sukhasantānāya madhye madhye līlām adhyasyāmaḥ; yathā nilāyanaiḥ setubandhair markaṭotplavanādibhiḥ kauśalyeyalīlām ।"

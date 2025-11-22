@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8927 | label: meter | g:0.25 m:0.5 ---
+
+divyādau divyadehastu śuddho bhavati pūruṣaḥ ।
+taptatailena lohena vahninā naiva dahyate ।।

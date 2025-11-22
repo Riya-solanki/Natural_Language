@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 25 | label: grammar | g:0.625 m:0.5 ---
+
+ahnā yad enaḥ kṛtam asti pāpaṃ sarvasmād enasa uddhṛto muñca tasmād iti sāyaṃ ।

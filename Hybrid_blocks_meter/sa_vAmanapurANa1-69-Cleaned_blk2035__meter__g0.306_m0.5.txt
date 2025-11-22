@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2035 | label: meter | g:0.306 m:0.5 ---
+
+sucakranetro api mahāśrame tapaścacāra śaile pavanāśanastu ।
+ārādhayāno vṛṣabhadhvajaṃ tadā haro asya tuṣṭo varado babhūva ।।

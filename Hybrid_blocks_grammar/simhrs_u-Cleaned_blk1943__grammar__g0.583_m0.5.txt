@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1943 | label: grammar | g:0.583 m:0.5 ---
+
+atra loka-prasiddhena aśvattha-daloru-mūlayoḥ sāmyena hetunā loka-prasiddhasyaiva bhagavad-aśvatthayor aikyasya sādhanaṃ hāsya-kāraṇam upapattiḥ ।

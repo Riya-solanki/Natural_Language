@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3629 | label: grammar | g:0.75 m:0.5 ---
+
+ākhyāhi me samayam ity atha pṛṣṭā punar abravīt । śayanasamīpe mamoraṇakadvayaṃ putrabhūtaṃ nāpaneyam । bhavāṃś ca mayā nagno na draṣṭavyaḥ । ghṛtamātraṃ ca mamāhāra ity evam eveti bhūpatir āha । tayā ca sahāvanīpatir alakāyāṃ caitrarathādivaneṣv amalapadmaṣaṇḍeṣu saraḥsv abhiramamāṇa ekaṣaṣṭivarṣāṇy anudinapravardhamānapramodo anayat ।।

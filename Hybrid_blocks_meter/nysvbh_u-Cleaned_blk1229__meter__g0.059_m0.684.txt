@@ -1,0 +1,10 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1229 | label: meter | g:0.059 m:0.684 ---
+
+buddhyā vivecanād bhāvānāṃ yāthātmyopalabdhiḥ ।
+yadasti yathā ca yannāsti yathā ca tatsarvaṃ pramāṇata
+upalabdhyā sidhyati, yā ca pramāṇata upalabdhistad
+buddhyā vivecanaṃ bhāvānāṃ tena sarvaśāstrāṇi
+sarvakarmāṇi sarve ca śarīriṇāṃ
+vyavahārā vyāptāḥ parīkṣamāṇo hi buddhyādhyavasyati
+aidamasti idaṃ nāstīti tatra ca na sarvabhāvānupapattiḥ
+।।

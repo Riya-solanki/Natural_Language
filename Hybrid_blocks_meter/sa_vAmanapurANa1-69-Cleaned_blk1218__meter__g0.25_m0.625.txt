@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1218 | label: meter | g:0.25 m:0.625 ---
+
+gāyantyanye hasantyanye pamantyanye tu saṃghaśaḥ ।
+vādayantyapare tatra stuvantyanye tathāmbikām ।।

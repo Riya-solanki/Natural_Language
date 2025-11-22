@@ -1,0 +1,7 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 61 | label: grammar | g:0.558 m:0.387 ---
+
+sahasraṃ gāvo akṣīṇi yasya sa sahasragurindraḥ । tasyeveti gośabdasyākṣivācitvaṃ kaviṣvaprasiddhamiti ।।
+asamyārthāntaramasamyasmṛtihetuścāślīlam ।।
+yasya padasyānekārthasyaiko artho'sabhyaḥ syāt, tadasabhyārthāntaram । yathā varcaḥ iti padaṃ tejasi viṣṭhāyāṃ ca । yattu padaṃ sabhyārthavācakamapyekadeśadvāreṇāsabhyārthaṃ smārayati, tadasabhyasmṛtihetuḥ । yathā kṛkāṭikā iti ।।
+na guptalakṣitasaṃvṛtāni ।।
+apavādārthamidam । guptaṃ lakṣitaṃ saṃvṛttaṃ ca nāślīlam ।।

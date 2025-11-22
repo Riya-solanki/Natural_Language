@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1445 | label: hybrid | g:0.5 m:0.5 ---
+
+candraḥ kṣayī prakṛtivakratanur jaḍātmā doṣākāraḥ sphurati mitravipattikāle ।
+mūrdhnā tathāpi vidhṛtaḥ parameśvareṇa naivāśriteṣu mahatāṃ guṇadoṣacintā ।।

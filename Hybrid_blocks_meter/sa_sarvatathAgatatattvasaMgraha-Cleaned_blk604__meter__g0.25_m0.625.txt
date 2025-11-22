@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 604 | label: meter | g:0.25 m:0.625 ---
+
+ratnavajrāṃ samādhāya hṛdaye svayamātmanaḥ ।
+dīptadṛṣṭyā nirīkṣan vai sarvamānayate vaśaṃ ।।

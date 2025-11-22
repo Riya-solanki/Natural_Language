@@ -1,0 +1,3 @@
+--- source: brsvbh3u-Cleaned.txt | block: 136 | label: meter | g:0.0 m:0.5 ---
+
+bhūyobhūyo vidyaikatvasya vedadarśanādyatrāpi saguṇabrahmavidyānāṃ na sākṣādveda

@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 3 | label: grammar | g:0.583 m:0.5 ---
+
+tasya sthitvā katham api puraḥ ketakādhānahetor antarbāṣpaś ciram anucaro rājarājasya dadhyau ।
+meghāloke bhavati sukhino apy anyathāvṛtti cetaḥ kaṇṭhāśleṣapraṇayini jane kiṃ punar dūrasaṃsthe ।।

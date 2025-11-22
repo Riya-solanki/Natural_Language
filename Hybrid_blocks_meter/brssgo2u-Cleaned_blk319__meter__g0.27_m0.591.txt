@@ -1,0 +1,10 @@
+--- source: brssgo2u-Cleaned.txt | block: 319 | label: meter | g:0.27 m:0.591 ---
+
+saṃyogasyāpi svarūpasaṃbandhopapatteḥ samavāyo na syāditi dūṣayati-neti ।
+saṃbandhibhinnatvāccedapekṣā samavāyasyāpi tulyā ।
+guṇaparibhāṣāyāśceti ।
+guṇatvābhāve api karmasāmānyādīnāṃ samavāyāṅgīkārādguṇatvaṃ samavāyitve na vyāpakam ।
+nāpi vyāpyaṃ, guṇasyāpi samavāyavatsvarūpasaṃbandhasaṃbhavena vyāptyanukūlatarkābhāvāt ।
+tasmāt saṃbandhibhinnatvameva saṃbandhāntarāpekṣāyāṃ kāraṇaṃ, tasya samavāye api tulyatvādanavasthā durvārā ।
+sā ca mūlakṣayakārī ।
+tayā samavāyāsiddhau samavetadvyaṇukāsiddhirityarthaḥ ।।

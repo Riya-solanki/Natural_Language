@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 137 | label: grammar | g:0.573 m:0.5 ---
+
+amlānā te jayati kamanīyāṅgi maṅgalyabhūṣā patyuḥ pārśvāt suhṛdahamupeto asmi sandeśahāraḥ ।
+jātaṃ viddhi śrutisukhagirāṃ kokilānāṃ kule māṃ ye pañceṣoḥ kimapi pathikākarṣaṇaṃ ṣaṣṭhamastram ।।

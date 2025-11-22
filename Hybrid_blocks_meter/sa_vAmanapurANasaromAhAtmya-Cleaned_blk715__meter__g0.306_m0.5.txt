@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 715 | label: meter | g:0.306 m:0.5 ---
+
+vayaṃ hi kṣudhitāḥ sarve dharmahīnāśca śāśvatāḥ ।
+na ca naḥ kāmakāroyaṃ yad vayaṃ pāpakāriṇaḥ ।।

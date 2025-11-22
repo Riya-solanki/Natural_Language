@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 653 | label: meter | g:0.25 m:0.5 ---
+
+ghṛtodād dviguṇaḥ proktaḥ krauñcadvīpo niśācara ।
+tato api dviguṇaḥ proktaḥ samudro dadhisaṃjñitaḥ ।।

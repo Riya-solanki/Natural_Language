@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3798 | label: meter | g:0.25 m:0.5 ---
+
+uttamā ca pṛthivyāṃ vai yathā svarge amarāvatī 
+tatheyaṃ hi tvayā kāryā śakto hy asi mahāmate ।।

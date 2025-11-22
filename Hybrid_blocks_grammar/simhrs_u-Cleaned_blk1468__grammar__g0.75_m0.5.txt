@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1468 | label: grammar | g:0.75 m:0.5 ---
+
+rāmaḥ ārṣaṃ hi vacanaṃ vibhinna-vaktṛkam api na visaṃvadati yad agastya-vācā vasiṣṭho' pi brūte ity antena agastya-labdhāśīrvādasya vasiṣṭha-vacana-saṃvādena sthirīkaraṇāt kṛtiḥ ।

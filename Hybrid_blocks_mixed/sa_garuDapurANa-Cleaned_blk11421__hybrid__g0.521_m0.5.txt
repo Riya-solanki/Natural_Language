@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11421 | label: hybrid | g:0.521 m:0.5 ---
+
+sopānadeśe yaḥ purāṇaṃ śṛṇoti tadā kṛtā sarvatīrthādiyātrā ।
+tadā divā prastuvantīha mārge sadā hariṃ śrīnivāsaṃ guruṃ ca ।।

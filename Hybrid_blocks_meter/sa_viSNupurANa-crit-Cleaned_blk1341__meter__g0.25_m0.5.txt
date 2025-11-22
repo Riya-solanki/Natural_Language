@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1341 | label: meter | g:0.25 m:0.5 ---
+
+nāgnir dahati naivāyaṃ śastraiś chinno na coragaiḥ 
+kṣayaṃ nīto na vātena na viṣeṇa na kṛtyayā ।।

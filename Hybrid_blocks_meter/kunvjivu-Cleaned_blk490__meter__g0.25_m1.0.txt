@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 490 | label: meter | g:0.25 m:1.0 ---
+
+kartturatyantaraṅgatvaṃ kartrantaravicitratā ।
+svaviśeṣaṇavaicitryamupacāramanojñatā ।।
+karmādisaṃvṛtiḥ pañca prastutaucityacāravaḥ ।
+kriyāvaicitryavakratvaprakārāsta ime smṛtāḥ ।।

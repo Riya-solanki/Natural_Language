@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5629 | label: meter | g:0.25 m:0.871 ---
+
+haridrānekavārañca snuhīkṣīreṇa bhāvitā ।
+vaṭikār'śovināśāya tallepādvṛṣabhadhvaja ।
+ghoṣāphalaṃ saindhavañca piṣṭvā cārśoharaṃ param ।।

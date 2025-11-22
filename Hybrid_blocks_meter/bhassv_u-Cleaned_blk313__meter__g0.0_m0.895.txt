@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 313 | label: meter | g:0.0 m:0.895 ---
+
+{rājā} -
+{praviśyāvalokya sasmitam }
+aho sarpavyaktir vaidheyasya

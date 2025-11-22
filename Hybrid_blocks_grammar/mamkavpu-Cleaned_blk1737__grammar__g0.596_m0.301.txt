@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 1737 | label: grammar | g:0.596 m:0.301 ---
+
+atrāpi jvalantyombudhārāḥ sūryamaṇḍalāt niṣpatantyo na saṃbhavantītyupanibadhyamāno artho anaucityameva puṣṇāti ।।
+utprekṣāyāmapi saṃbhāvanaṃ dhruvevādaya eva śabdā vaktuṃ sahante na yathāśabdo api kevalasyāsya sādhārmyameva pratipādayituṃ paryāptatvāt tasya cāsyāmavivakṣitatvāditi tatrāśaktirasyāvācakatvaṃ doṣaḥ ।
+yathā

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 7 | label: meter | g:0.056 m:0.75 ---
+
+aiṣamo' bhavad asau parut parāry
+evam ādi nikhilair yadāgaṇi ।
+hanta tarhi sahasā bakāntakaḥ
+prāpta-kānti vijahau kumāratām ।। [rathoddhatā]

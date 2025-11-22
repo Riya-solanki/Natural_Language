@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 26 | label: hybrid | g:0.404 m:0.453 ---
+
+manaḥ pratyakcitte savidham avadhāyāttamarutaḥ prahṛṣyadromāṇaḥ pramadasalilotsaṅgitadṛśaḥ ।
+yad ālokyāhlādaṃ hrada iva nimajyāmṛtamaye dadhaty antas tattvaṃ kim api yaminas tat kila bhavān ।।

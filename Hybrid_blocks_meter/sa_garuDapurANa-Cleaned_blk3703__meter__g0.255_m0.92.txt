@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3703 | label: meter | g:0.255 m:0.92 ---
+
+dhanaputrādikāmastu tyajedetadanodanaḥ
+vāyvāśī vijayetkṣucca kuryādvijayasaptamīm ।
+adyādarkaṃ ca kāmecchurupavāse tarenmadam ।।

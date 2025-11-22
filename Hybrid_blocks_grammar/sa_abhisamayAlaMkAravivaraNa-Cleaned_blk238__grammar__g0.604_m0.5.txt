@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 238 | label: grammar | g:0.604 m:0.5 ---
+
+bhedo avadhiśca ubhāvapi pūrva aupāyena avidūratā a ityasmin prasaṅge yathāvarṇitau tathā jñātavyau ।

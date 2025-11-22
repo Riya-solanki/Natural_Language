@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1227 | label: hybrid | g:0.389 m:0.5 ---
+
+ekaṃ kailāsam adriṃ kara-gatam akaroc cicchade krauñcam anyo
+laṅkām ekaḥ kuberād ahṛta vasataye koṅkaṇānabdhito' nyaḥ ।
+ekaḥ śakrasya jetā samiti bhagavataḥ kārtikeyasya cānyas
+tat kāmaṃ karma-sāmyāt kim aparam anayor madhyagā vīra-lakṣmīḥ ।।

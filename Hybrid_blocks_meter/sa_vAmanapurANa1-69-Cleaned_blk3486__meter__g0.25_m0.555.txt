@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3486 | label: meter | g:0.25 m:0.555 ---
+
+āmantryantāṃ ca ṛṣayaḥ prayāmo devikāṭatam ।
+sā hi puṇyā saricchreṣṭha sarvasiddhikarī śubhā ।
+sthānaṃ prācīnamāsādya vājisedhān yajāmahe ।।

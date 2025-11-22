@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 320 | label: hybrid | g:0.486 m:0.5 ---
+
+yadi bodhisattva caramāṇu jināna mārge imi śīlavānimi duśīla karoti sattvān 
+nānātvasaṃjñaprasṛto paramaṃ duśīlo api chidraśīlu na tu so pariśuddhaśīlo ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1554 | label: grammar | g:0.677 m:0.5 ---
+
+bhadre vāṇi vidhehi tāvad amalāṃ varṇānupūrvīṃ mukhe cetaḥ svāsthyam upehi gaccha gurute yatra sthitā māninaḥ ।
+lajje tiṣṭha parāṅmukhī kṣaṇam itas tṛṣṇu puraḥ sthīyatāṃ pāpo yāvad ahaṃ bravīmi dhanine dehīti dīnaṃ vacaḥ ।।

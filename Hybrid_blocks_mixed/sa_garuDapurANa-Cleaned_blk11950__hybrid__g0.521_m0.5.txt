@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11950 | label: hybrid | g:0.521 m:0.5 ---
+
+roṇīṃ dhṛtvā rohati yogyasthānaṃ tasmācca sā rohiṇīti prasiddhā ।
+ādityabhāryā nāma saṃjñā khagendra jñeyā sā nārāyaṇasya svarūpā ।।

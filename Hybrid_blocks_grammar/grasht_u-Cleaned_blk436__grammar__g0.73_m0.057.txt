@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 436 | label: grammar | g:0.73 m:0.057 ---
+
+tīkṣṇavadetānāha kāntam ityādi ।।
+rasarañjane rasendre rāgakarmaṇi kāntaṃ cumbakapāṣāṇotthaṃ lohaṃ śreṣṭhaṃ veti samuccaye tīkṣṇaṃ lohabhedo vā kāñcīṃ svarṇamākṣikaṃ vā vajrasasyakādīnāṃ vajrasasyakāvādiryeṣāṃ te teṣāṃ hīrakacapalādīnāṃ ekatamaṃ tanmadhyādekatamaṃ sarvaṃ vā atrābhīṣṭaśabdasya pratyekaṃ saṃbandhaḥ hīrakādīni ratnāni sasyakādyā upadhātavaḥ ।।
+vā rasarañjane ayameva saṃkaraḥ sarveṣāṃ kāntādīnāṃ melāpaḥ sarvatrābhīṣṭaḥ ।।

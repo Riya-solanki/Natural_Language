@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1963 | label: meter | g:0.25 m:0.677 ---
+
+kathābhiḥ pūrvavṛttābhir lokavedānugāmibhiḥ 
+itivṛttaiś ca bahubhiḥ purāṇaprabhavair guṇaiḥ ।। 
+nirūpayaṃs taṃ deveśaṃ pramāṇair bahulakṣaṇaiḥ । 
+kurvatas tu kathās tās tāḥ samudraḥ saha gaṅgayā 
+samīpam ājagāmāśu yuktas toyadamārutaiḥ ।।

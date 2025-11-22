@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2585 | label: meter | g:0.25 m:0.75 ---
+
+athaiṣāṃ hṛdayāni bhavanti ।
+oṃ jñānagarbha dehi sarvārthān ।
+oṃ jñānagarbha dehi sarvaratnāna ।।

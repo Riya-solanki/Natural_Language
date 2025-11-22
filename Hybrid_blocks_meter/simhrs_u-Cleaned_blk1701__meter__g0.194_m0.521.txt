@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1701 | label: meter | g:0.194 m:0.521 ---
+
+smarati na bhavān pītaṃ stanyaṃ vibhajya sahāmunā
+mama ca mṛditaṃ kṣaumaṃ bālye tvad-aṅga-vivartanaiḥ ।
+anuja-nidhana-sphītāc chokād atipraṇayāc ca yad
+vacana-vikṛtiṣv asya krodho mudhā kriyate tvayā ।।

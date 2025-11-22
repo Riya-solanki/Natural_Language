@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2241 | label: hybrid | g:0.531 m:0.5 ---
+
+na vetti cedupakṛtamāturaḥ paro na yokṣyate api sa guṇakāntayā śriyā ।
+sacetasaḥ punaratha ko bhavetkramaḥ samucchritaṃ pramathitumātmano yaśaḥ ।।

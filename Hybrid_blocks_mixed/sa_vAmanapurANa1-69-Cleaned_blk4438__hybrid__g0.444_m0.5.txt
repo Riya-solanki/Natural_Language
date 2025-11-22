@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4438 | label: hybrid | g:0.444 m:0.5 ---
+
+ye saṃśritā harimanantamanādimadhyaṃ nārāyaṇaṃ suraguruṃ śubhadaṃ vareṇyam ।
+śuddhaṃ khagendragamanaṃ kamalālayeśaṃ te dharmarājakaraṇaṃ na viśanti dhīrāḥ ।
+svapuruṣamabhivīkṣya pāśahastaṃ vadati yamaḥ kila tasya karṇamūle ।
+parihara madhusūdanaprannān prabhurahamanyanṛṇāṃ na vaiṣṇavānām ।।

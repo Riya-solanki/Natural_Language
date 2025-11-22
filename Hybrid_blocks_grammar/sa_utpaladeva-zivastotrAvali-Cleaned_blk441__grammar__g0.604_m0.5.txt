@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 441 | label: grammar | g:0.604 m:0.5 ---
+
+mā śuṣkakaṭukāny eva paraṃ sarvāṇi sarvadā tavopahṛtya labdhāni dvandvāny apy āpatantu me ।।

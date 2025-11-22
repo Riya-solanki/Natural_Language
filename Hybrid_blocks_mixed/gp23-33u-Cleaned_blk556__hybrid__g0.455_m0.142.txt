@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 556 | label: hybrid | g:0.455 m:0.142 ---
+
+kūpa-maṇḍūkavat kaṃsaḥ kaṇḍūtiṃ khaṇḍayan nijām ।
+tvat-karkaśa-bhujābhogi-saṅgharṣaṃ labdhum icchati ।।
+[] yaṃ khalu mātari-puruṣaṃ puruṣottarmas tvam iha jīva-grāhaṃ grhīṣyasi । samūla-ghātaṃ haniṣyasy akṛta-kāraṃ kariṣyasi, kara-grāhaṃ gṛhṇaṃś ca viśrānti-paryantam aśrānti-vikramatayā virkakṣyasi ।

@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2066 | label: hybrid | g:0.38 m:0.178 ---
+
+atha saumitriṇā bāṇaiḥ pīḍito dānavo yudhi 
+tataḥ sa śūlarahitaḥ paryahīyata dānavaḥ ।। 
+sa gṛhītvāṅkuśaṃ caiva devair dattavaraṃ raṇe । karṣaṇaṃ sarvabhūtānāṃ lavaṇo virarāsa ha ।। śirodharāyāṃ jagrāha so aṅkuśena cakarṣa ha । praveśayitum ārabdho lavaṇo rāghavānujam । 
+sa rukmatsarum udyamya śatrughnaḥ śatrutāpanaḥ 
+śiraś ciccheda khaḍgena lavaṇasya mahāmṛdhe ।। 
+aṅkuśaṃ caiva ciccheda daityasya ca śiro mahat । 
+sa hatvā dānavaṃ saṃkhye saumitrir mitranandanaḥ 
+tad vanaṃ tasya daityasya cicchedāstreṇa buddhimān ।।

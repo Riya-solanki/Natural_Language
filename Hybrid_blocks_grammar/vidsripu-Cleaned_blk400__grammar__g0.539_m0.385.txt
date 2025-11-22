@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 400 | label: grammar | g:0.539 m:0.385 ---
+
+bibhratyā vapur unnamatkucayugaṃ prādurbhavadvibhramaṃ bālāyā lasadaṅgasaṃdhiviramadbālyaṃ valadbhrūlatam ।
+antar visphurati smaro bahir api vrīḍā samunmīlate svairaṃ locanavakrimā vilasati śrīḥ kācid ujjṛmbhate ।।
+rudrasya

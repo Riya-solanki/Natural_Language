@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 755 | label: meter | g:0.194 m:0.625 ---
+
+tvam āsīr brāhmaṇaḥ pūrvaṃ mayy ekāgramatiḥ sadā 
+mātāpitroś ca śuśrūṣur nijadharmānupālakaḥ ।।

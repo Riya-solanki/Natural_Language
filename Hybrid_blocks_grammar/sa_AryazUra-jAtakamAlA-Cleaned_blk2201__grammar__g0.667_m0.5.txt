@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2201 | label: grammar | g:0.667 m:0.5 ---
+
+asatkriyāṃ prāpya ca tadvidhājjanānna mādṛśe apyevamasau kariṣyati । na labdhadoṣo hi punastathācaredataśca muktirmama sā bhaviṣayti ।।

@@ -1,0 +1,12 @@
+--- source: brssbh4u-Cleaned.txt | block: 115 | label: grammar | g:0.55 m:0.344 ---
+
+samadhigatametat avāṅmanasi saṃpadyate' iti atra vṛttisaṃpattivivakṣa iti ।
+atha yat uttaravākyam amanaḥ prāṇe' iti kim atra api vṛttisaṃpattiḥ eva vivakṣyata uta vṛttimat saṃpattiḥ iti vicikitsāyāṃ vṛttimat saṃpattiḥ eva atra iti prāptam ।
+śruti anugrahāt tat prakṛtikatva upapatteḥ ca ।
+tathā hi - aannamayaṃ hi somya mana āpomayaḥprāṇaḥ' iti annayoni mana ātmananti ap yoniṃ ca prāṇam ।
+aāpaścānnamasṛjanta' iti śrutiḥ ।
+ata- ca yat manaḥ prāṇe prakṛtivikāra abhedāt iti ।
+evaṃ prāpte brūmaḥ - tat api agṛhīta bāhya indriyavṛtti mano vṛttidvāreṇa eva prāṇe pralīyate iti uttarāt vākyāt avagantavyam ।
+tathā hi suṣupso- mumūrṣoḥ ca prāṇavṛttau parispanda ātmikāyām avasthitāyāṃ manovṛttīnām upaśamo dṛśyate ।
+na ca manasaḥ svarūpa apyayaḥ prāṇe saṃbhavati ।
+atat prakṛtitvāt ।

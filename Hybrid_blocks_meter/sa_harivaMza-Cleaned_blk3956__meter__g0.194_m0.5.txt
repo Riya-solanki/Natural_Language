@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3956 | label: meter | g:0.194 m:0.5 ---
+
+vispardhann api kṛṣṇena vairaṃ tad apahāya saḥ 
+dadānīty abravīd rājā prītimāñ janamejaya ।।

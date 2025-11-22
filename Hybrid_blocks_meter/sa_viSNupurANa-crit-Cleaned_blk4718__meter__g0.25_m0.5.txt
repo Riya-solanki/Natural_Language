@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4718 | label: meter | g:0.25 m:0.5 ---
+
+ahaṃ rāmaś ca mathurāṃ śvo yāsyāvaḥ samaṃ tvayā 
+gopavṛddhāś ca yāsyanti hy ādāyopāyanaṃ bahu ।।

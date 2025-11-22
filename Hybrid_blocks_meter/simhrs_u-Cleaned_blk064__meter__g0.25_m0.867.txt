@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 64 | label: meter | g:0.25 m:0.867 ---
+
+tatra dhīrodāttaḥ-
+dayāvān atigambhīro vinītaḥ sattva-sāravān । 
+dṛḍha-vratas titikṣāvān ātmaślāghāparāṅmukhaḥ ।
+nigūḍhāhaṅkṛtir dhīrair dhīrodātta udāhṛtaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 746 | label: meter | g:0.25 m:0.625 ---
+
+śiraḥkaṃpollasaccārukuṇḍalaḥ sa mahīpatiḥ ।
+sādhu sādhv iti saṃrādhya pratijagrāha tadvacaḥ ।।

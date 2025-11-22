@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4672 | label: meter | g:0.25 m:0.5 ---
+
+ity evam uktā vacanaṃ smṛtvā devīvacas tataḥ 
+abhavan naṣṭaśokā sā bāṇaputrī śubhekṣaṇā ।। 
+smṛtvā tu vacanaṃ devyāḥ pratyuvāca sakhīṃ tadā । 
+smarāmi bhāmini vaco devyāḥ krīḍāgate bhave 
+yathoktaṃ sarvam akhilaṃ prāptaṃ harmyatale mayā ।।

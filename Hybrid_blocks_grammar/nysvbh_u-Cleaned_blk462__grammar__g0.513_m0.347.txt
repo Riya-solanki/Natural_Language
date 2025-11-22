@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 462 | label: grammar | g:0.513 m:0.347 ---
+
+na khalvādimattvādanityaḥ śabdaḥ।
+kasmāt ?, vyabhicārāt ādimataḥ khalu ghaṭābhāvasya dṛṣṭaṃ nityatvam।
+kathamādimān ?, kāraṇavibhāgebhyo hi ghaṭo na bhavati।
+kathamasya nityatvam ? yo asau kāraṇavibhāgebhyo na bhavati na tasyābhāvo bhāvena kadācid nirvartyate iti।
+yadapi aindriyakatvāt tadapi vyabhicarati aindriyakaṃ ca sāmānyaṃ nityaṃ ceti।
+yadapi kṛtakavadupacārāditi etadapi vyabhicarati nityeṣvanityavadupacāro dṛṣṭo yathā hi bhavati avṛkṣasya pradeśaḥ kambalasya pradeśaḥ' evam aākāśasya pradeśa ātmanaḥ pradeśaḥ' iti bhavatīti ।।

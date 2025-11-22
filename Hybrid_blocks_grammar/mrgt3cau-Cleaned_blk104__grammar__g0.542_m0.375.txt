@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 104 | label: grammar | g:0.542 m:0.375 ---
+
+Vṛtti:
+[harimakhe] indrotsave hariprabodhādau vā [makhadviṣaḥ pavitre ca] parameśvarapavitrārohaṇe [pañcarātraṃ] pañcāham।

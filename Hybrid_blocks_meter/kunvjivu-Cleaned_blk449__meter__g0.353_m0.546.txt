@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 449 | label: meter | g:0.353 m:0.546 ---
+
+kaścit pratyayaḥ kṛdādiḥ padamadhyavṛttiranyāmapūrvāṃ vakratāmullāsayati vakrabhāvamuddīpayati ।
+kiṃ kurvanprastutasya varṇyamānasya vastuno yadaucityamucitabhāvastasya vicchittimupaśobhāṃ vikāsayan samullāsayan ।
+kenasvamahimnā nijotkarṣeṇa ।
+yathā

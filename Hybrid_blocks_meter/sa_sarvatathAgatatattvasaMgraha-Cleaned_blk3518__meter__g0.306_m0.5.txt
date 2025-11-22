@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3518 | label: meter | g:0.306 m:0.5 ---
+
+prajñā nairvedhikī nāma samādhiriti kīrtitā ।
+tayā tu mudrāḥ sidhyante bhāvayaṃ sidhyati kṣaṇād ।।

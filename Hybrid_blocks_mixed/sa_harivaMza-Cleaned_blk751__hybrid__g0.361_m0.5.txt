@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 751 | label: hybrid | g:0.361 m:0.5 ---
+
+yady asti sukṛtaṃ kiṃcit tapo vā niyamo api vā 
+khinno hy asmy upavāsena tapasā niṣphalena ca ।। 
+nṛpatvam aham icchāmi yadi me sukṛtaṃ bhavet । 
+tatas taṃ cakravākau dvāv ūcatuḥ sahacāriṇau 
+āvāṃ te sacivau syāvas tava priyahitaiṣiṇau ।।

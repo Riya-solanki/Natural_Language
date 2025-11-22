@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5440 | label: meter | g:0.25 m:0.625 ---
+
+brahmadaṇḍīṃ vacāṃ patraṃ madhunā saha peṣayet ।
+aṅgalepācca vanitā nānyaṃ bhartāramicchati ।।

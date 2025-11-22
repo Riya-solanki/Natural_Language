@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 47 | label: meter | g:0.312 m:0.705 ---
+
+brahmovāca ।
+purāṇaṃ gāruḍaṃ sāraṃ rudraṃ ca māṃ yathā ।
+suraiḥ sahābravīdviṣṇustathāhaṃ vyāsa vacmite ।।

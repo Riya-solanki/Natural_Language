@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 651 | label: grammar | g:0.75 m:0.5 ---
+
+svatantroktavidhinā [anadhyāye] ye anadhyāyāsteṣu [śṛṇvate] yaḥ śṛṇoti tasya [mṛṣā] vyarthaṃ tacchrutam। atha tathāvidhaṃ mṛṣā vyarthaṃ śṛṇvate śaivaṃ śāstraṃ [vadan] kathayan iha loke tāvad alpāyuḥ bhavati। mṛtaḥ jīvitādūrdhvaṃ [pretatvaṃ] pretabhāvamājñāvilaṅghanataḥ kravyādayonim [aśnute] prāpnoti।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6899 | label: meter | g:0.306 m:0.5 ---
+
+deveśvarasyāpi nṛsiṃhamūrteḥ pūjāṃ vidhātuṃ tripurāntakārī ।
+prasādya taṃ devavaraṃ sa labdhvā avyājjaganmātṛgaṇebhya eva ca ।।

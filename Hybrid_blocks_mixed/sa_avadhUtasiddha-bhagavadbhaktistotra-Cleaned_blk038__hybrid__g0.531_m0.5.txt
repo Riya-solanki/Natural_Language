@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 38 | label: hybrid | g:0.531 m:0.5 ---
+
+aiśvaryam apratihataṃ sahajo virāgas tṛptir nisargajanitā vaśitendriyeṣu ।
+ātyantikaṃ sukhaṃ anāvaraṇā ca śaktir jñānaṃ ca sarvaviṣayaṃ bhagavaṃs tavaiva ।।

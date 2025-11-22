@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4887 | label: meter | g:0.102 m:0.5 ---
+
+tato haladharo mattaḥ kṛṣṇam āha vicetanaḥ 
+kṛṣṇa kṛṣṇa mahābāho pradīpto asmy abhayaṃkara 
+dahyāmi sarvatas tāta kathaṃ śāntir bhaven mama ।।

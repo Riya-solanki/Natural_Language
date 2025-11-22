@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 307 | label: meter | g:0.457 m:0.609 ---
+
+yadyapyadhyātmasaṃbandhabhūmadarśanānna parācīnasya devatātmana upadeśaḥ tathāpi na brahmavākyaṃ bhavitumarhati ।
+kutaḥ, jīvaliṅgānmukhyaprāṇaliṅgācca ।
+jīvasya tāvadasminvākye vispaṣṭaṃ liṅgamupalabhyate ana vācaṃ vijijñāsīta vaktāraṃ vidyāt' ityādi ।
+atra hi vāgādibhiḥ karaṇairvyāpṛtasya kāryakaraṇādhyakṣasya jīvasya vijñeyatvamabhidhīyate ।

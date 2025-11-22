@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1302 | label: hybrid | g:0.5 m:0.5 ---
+
+dadasva māṃ nātha tapasvine asmai guṇopapannāya samīhitāya ।
+nehānyakāmāṃ pravadanti santo dātuṃ tathānyasya vibho kṣamasva ।।

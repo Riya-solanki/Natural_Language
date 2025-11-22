@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1083 | label: grammar | g:0.729 m:0.5 ---
+
+tato nīlavastrāntarīyanīloṣṇīṣāvabandhaśirāḥ, nīlaraktakena mukhaṃ badhvā, praveśayedanena mantreṇa oṃ vajra samayaṃ praviśāmi ।। tataḥ praveśya vajrāveśasamayamudrayāsyāveśamutpādayedanena hṛdayena vajrāveśa aḥ ।।

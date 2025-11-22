@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 166 | label: meter | g:0.258 m:0.621 ---
+
+nanu yathārthatāmapi cetprāmāṇalakṣaṇam, uṣṇajalajñānapramāṇaṃ syāt ।
+iṣṭamevaitat ।
+nanu lokavirodhaḥ syāt ।
+syāt yadyayathārthatāṃ jānanta eva laukikāḥ prāmāṇyaṃ

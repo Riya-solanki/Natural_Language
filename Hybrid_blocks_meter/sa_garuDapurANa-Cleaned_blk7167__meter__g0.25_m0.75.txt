@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7167 | label: meter | g:0.25 m:0.75 ---
+
+saṃlikhellekhayedvāpi dhārayetpustake nanu ।
+dharmārtho prāpnuyāddharmarthārtho cārthamāpnuyāt ।।

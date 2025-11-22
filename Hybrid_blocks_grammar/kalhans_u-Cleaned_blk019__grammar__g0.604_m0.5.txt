@@ -1,0 +1,4 @@
+--- source: kalhans_u-Cleaned.txt | block: 19 | label: grammar | g:0.604 m:0.5 ---
+
+premnārdhaṃ vapuṣo vilokya militaṃ devyā samaṃ svāmino maulau yasya niśāpatir nagasutāveṇīniśāmiśritaḥ ।
+āste svāmyanuvartanārtham iva tat kṛtvā vapuḥ khaṇḍitaṃ deyād advayabhāvanāṃ sa bhagavān devo ardhanārīśvaraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11129 | label: hybrid | g:0.542 m:0.5 ---
+
+gāvaśca me saṃti sadugdhapūrṇā mitrāṇi me saṃti mudā hi yuktāḥ ।
+dāsye sutaṃ vāraṇārthaṃ tu vadhvai putrīṃ vivāhārthamahaṃ dadāmi ।।

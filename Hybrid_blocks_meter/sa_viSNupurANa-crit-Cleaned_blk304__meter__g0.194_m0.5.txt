@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 304 | label: meter | g:0.194 m:0.5 ---
+
+nāmarūpaṃ ca bhūtānāṃ kṛtyānāṃ ca prapañcanam 
+vedaśabdebhya evādau devādīnāṃ cakāra saḥ ।।

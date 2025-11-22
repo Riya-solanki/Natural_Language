@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 280 | label: meter | g:0.194 m:0.625 ---
+
+vasatyo navasāhasrāḥ parā daśasahasrikī 
+tadāsāṃ saptakaṃ sadbhiḥ khyātaṃ pātālasaptakam ।।

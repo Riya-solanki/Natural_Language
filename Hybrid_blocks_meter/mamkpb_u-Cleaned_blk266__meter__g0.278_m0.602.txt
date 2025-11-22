@@ -1,0 +1,6 @@
+--- source: mamkpb_u-Cleaned.txt | block: 266 | label: meter | g:0.278 m:0.602 ---
+
+paraiḥ śeṣaiḥ ।
+tāmeva kecit grāmyeti vadanti ।
+udāharaṇam apasāraya ghanasāraṃ kuru hāraṃ dūra eva kiṃ kamalaiḥ ।
+alamalamāli mṛṇālairiti vadati divāniśaṃ bālā ।।

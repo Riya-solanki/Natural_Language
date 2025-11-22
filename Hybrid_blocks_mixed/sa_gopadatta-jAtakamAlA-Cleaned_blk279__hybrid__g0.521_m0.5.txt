@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 279 | label: hybrid | g:0.521 m:0.5 ---
+
+kṛtvā ca yat pāpam ayaṃ tapasvī duḥkhāni saṃprāpsyati dāruṇāni ।
+etan mano nirdahatīva mahyaṃ prāṇoparodhaṃ svam acintayitvā ।।

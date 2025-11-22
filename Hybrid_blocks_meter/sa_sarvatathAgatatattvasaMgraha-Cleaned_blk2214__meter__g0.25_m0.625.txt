@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2214 | label: meter | g:0.25 m:0.625 ---
+
+karmamudrāṃ samādhāya mahāpadmamayīṃ [śubhāṃ ।
+siḥ] siḥ siḥ sī-ti sandhāya padmasiddhimavāpnute- ।।

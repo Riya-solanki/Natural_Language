@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2473 | label: meter | g:0.25 m:0.5 ---
+
+vajravegena cākramya dvitīyaṃ maṇḍalaṃ tathā ।
+tatra madhye maṇiṃ lekhyaṃ netradvikasamandhitan ।।

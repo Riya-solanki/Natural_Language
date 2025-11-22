@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4686 | label: meter | g:0.194 m:0.5 ---
+
+sāmprataṃ ca jagatsvāmī kāryam ātmahṛdi sthitam 
+kartuṃ manuṣyatāṃ prāptaḥ svecchādehadhṛg avyayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4547 | label: hybrid | g:0.5 m:0.5 ---
+
+sa evamāste asurarāḍ balistu samarcayan vai haripādapaṅkajau ।
+sasmāra nityaṃ haribhaṣitāni sa tasya jāto vinayāṅkuśastu ।।

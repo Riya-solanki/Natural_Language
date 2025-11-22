@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6231 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ nigaditārthasya sa tattvaṃ tasya tattvataḥ 
+jñāyate yena taj jñānaṃ param anyat trayīmayam ।।

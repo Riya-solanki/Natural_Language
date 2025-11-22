@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 565 | label: meter | g:0.194 m:0.5 ---
+
+prāg ayaṃ vasudevasya kvacij jātas tavātmajaḥ ।
+vāsudeva iti śrīmān abhijñāḥ sampracakṣate ।।[BhP ]

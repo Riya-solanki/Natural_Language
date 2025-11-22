@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 46 | label: meter | g:0.25 m:0.5 ---
+
+āstrīśiśu prathita eṣa pipāsitebhyaḥ saṃrakṣyate ambudhir apeyatayaiva dūrāt 
+daṃṣṭrākarālamakarālikarālitābhiḥ kiṃ bhāyayaty aparam ūrmiparamparābhiḥ ।।

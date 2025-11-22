@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 353 | label: meter | g:0.259 m:0.801 ---
+
+atha udāratvam-
+ukte vākye guṇotkarṣa-pratibhānam udāratā ।।

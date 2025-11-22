@@ -1,0 +1,5 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 84 | label: meter | g:0.253 m:0.729 ---
+
+śṛṇu rājan mahābhāga vakṣye pūjāphalaṃ punaḥ ।
+yena saṃsthāpitaṃ caityaṃ vītaśoko bhaved asau ।
+māyāmohavinirmuktas trimalenāviliptitaḥ ।।

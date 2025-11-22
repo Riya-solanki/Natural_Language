@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1921 | label: meter | g:0.25 m:0.5 ---
+
+ṣaṭ kṛttikāśca śirasā praṇamya kuṭilāmapi ।
+brahmāṇaṃ ca namaskṛtya idaṃ vacanamabravīt ।।

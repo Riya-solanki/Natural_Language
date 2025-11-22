@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 728 | label: meter | g:0.194 m:0.5 ---
+
+bṛhattvād bṛṃhaṇatvāc ca yad rūpaṃ brahmasaṃjñitam 
+tasmai namas te sarvātman yogicintyāvikāravat ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 565 | label: meter | g:0.25 m:0.5 ---
+
+apṛcchaṃ caiva durdharṣaṃ vidyāma tvām kathaṃ prabho 
+daivataṃ hy asi devānām iti me vartate matiḥ ।।

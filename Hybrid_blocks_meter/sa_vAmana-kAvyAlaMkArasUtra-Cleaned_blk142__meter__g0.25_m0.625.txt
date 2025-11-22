@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 142 | label: meter | g:0.25 m:0.625 ---
+
+yuvateriva rūpamaṅgakāvyaṃ svadate śuddhaguṇaṃ tadapyatīva ।
+vihitapraṇayaṃ nirantarābhiḥ sadalaṅkāravikalpakalpanābhiḥ ।।

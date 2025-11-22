@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 58 | label: hybrid | g:0.199 m:0.461 ---
+
+aurvaḥ
+ārādhayaiva naro viṣṇuṃ manaso yad yad icchati
+phalaṃ prāpnoty avikalaṃ bhūri svalpam athāpi vā ।।

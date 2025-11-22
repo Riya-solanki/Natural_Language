@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11414 | label: meter | g:0.306 m:0.5 ---
+
+itthaṃ kāryaṃ vaiṣṇavaiḥ parvatasya tvaṃ vaiṣṇavairviparītaṃ ca kāryam ।
+madhvāntaḥsthaḥ parvatāgresti nityaṃ ramābrahmādyaiḥ pūjitaḥ śrīnivāsaḥ ।।

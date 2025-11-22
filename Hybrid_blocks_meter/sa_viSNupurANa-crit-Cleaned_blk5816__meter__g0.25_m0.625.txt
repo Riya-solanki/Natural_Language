@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5816 | label: meter | g:0.25 m:0.625 ---
+
+rambhātilottamādyās taṃ vaidikyo apsaraso abruvan 
+prasanne tvayy aparyāptaṃ kim asmākam iti dvija ।।

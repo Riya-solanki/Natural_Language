@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 814 | label: meter | g:0.306 m:0.5 ---
+
+pṛthvī sagandhā sarasāstathā'paḥ sparśaśca vāyurjvalanaḥ satejāḥ ।
+nabhaḥ saśabdaṃ mahatā sahaiva yacchantu sarve mama suprabhātam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9424 | label: meter | g:0.306 m:0.5 ---
+
+pīḍayanti na taṃ yāmyāḥ puruṣā bhīṣaṇānanāḥ ।
+na gharmeṇa na śītena bādhyate sa naraḥ kvacit ।।

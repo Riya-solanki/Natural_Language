@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2228 | label: meter | g:0.25 m:0.5 ---
+
+tulyakālaṃ hi garbhiṇyau yaśodā devakī tathā 
+aṣṭamyāṃ śrāvaṇe māse kṛṣṇapakṣe mahātithau । 
+rohiṇyām ardharātre ca sudhāṃśor udaye tathā । 
+devaky ajanayad viṣṇuṃ yaśodā tāṃ tu kanyakām 
+muhūrte abhijite prāpte sārdharātre vibhūṣite ।।

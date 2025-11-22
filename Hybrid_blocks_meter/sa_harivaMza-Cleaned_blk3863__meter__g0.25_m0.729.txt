@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3863 | label: meter | g:0.25 m:0.729 ---
+
+jñāteḥ samānavaṃśasya sunīthaṃ pradadau sutam 
+tasyānvavāye saṃbhūtā bahavo rājavaṃśajāḥ । 
+jarāsaṃdhasya rājendra damaghoṣo mahābalaḥ । 
+jarāsaṃdhaḥ svasutavad dadarśainaṃ jugopa ca ।।

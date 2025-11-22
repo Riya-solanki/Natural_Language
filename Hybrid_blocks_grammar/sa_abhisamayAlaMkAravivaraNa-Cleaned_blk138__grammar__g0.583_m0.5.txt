@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 138 | label: grammar | g:0.583 m:0.5 ---
+
+lakṣaṇam śrāvakajātīyavineyajanānugrahārthaṃ duḥkhādicaturāryasatyeṣu kimapyekamālambya anityādiṣoḍaśākāreṣvanyatamasya sākṣātkāradṛṣṭyā vyavasthāpitaḥ śrāvakādhigamajātīyo māhāyānikāryābhisamayaḥ śrāvakamārgajña mārgajñānamiti ।

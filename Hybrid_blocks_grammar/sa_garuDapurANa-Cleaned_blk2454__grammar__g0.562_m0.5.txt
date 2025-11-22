@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2454 | label: grammar | g:0.562 m:0.5 ---
+
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe gayāmāhātmyaṃ nāma ṣaḍaśītitamo adhyāyaḥ ।

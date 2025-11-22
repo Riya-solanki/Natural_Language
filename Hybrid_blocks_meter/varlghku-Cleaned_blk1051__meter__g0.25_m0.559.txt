@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1051 | label: meter | g:0.25 m:0.559 ---
+
+dvitribhyāṃ ṣa mūrdhnaḥ ।।
+ābhyāṃ mūrdhnaḥ ṣaḥ syādbahuvrīhau । trimūrdhaḥ ।।

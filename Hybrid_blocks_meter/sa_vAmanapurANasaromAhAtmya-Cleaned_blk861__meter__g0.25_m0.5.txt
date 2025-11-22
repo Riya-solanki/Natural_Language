@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 861 | label: meter | g:0.25 m:0.5 ---
+
+pātayanti sma devasya liṅgamuddhṛtya bhīṣaṇam ।
+pātite tu tato liṅge gato antardhānamīśvaraḥ ।
+devyā sa bhagavān rudraḥ kailāsaṃ nagamāśritaḥ ।
+patite devadevasya liṅge naṣṭe carācare ।।

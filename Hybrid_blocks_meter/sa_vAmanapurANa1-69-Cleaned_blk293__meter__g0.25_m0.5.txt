@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 293 | label: meter | g:0.25 m:0.5 ---
+
+dhyātvā kṣaṇaṃ prasvapiti kṣaṇaṃ svapnāyate haraḥ ।
+svapne tathedaṃ gadati tāṃ dṛṣṭvā dakṣakanyakām ।।

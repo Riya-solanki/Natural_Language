@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 120 | label: grammar | g:0.614 m:0.29 ---
+
+gṛha-karmāṇy anucittaṃ sukha-tanu bhavatā nahy apinaddham ।
+caraṇau pracalata iha na ca valataḥ pratigamanaṃ kila baddham ।।
+atra sukha-tanv iti bhavatety asya cittam ity asya vā viśeṣaṇam । apinaddham iti bandhanābhāve bandhane vā na ceti pūrva-nahi-vat । kileti niścaye' nṛte vā ।

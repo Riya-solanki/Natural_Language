@@ -1,0 +1,3 @@
+--- source: brssgo2u-Cleaned.txt | block: 703 | label: meter | g:0.25 m:0.75 ---
+
+tadguṇasāratvāt tu tadvyapadeśaḥ prājñavat ।

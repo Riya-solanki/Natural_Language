@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 17 | label: meter | g:0.25 m:0.75 ---
+
+vātamūtrapurīṣāṇāṃ śukrādīnāṃ tathaiva ca ।
+apanayanādapāno ayaṃ yogibhirlakṣyate sadā ।।

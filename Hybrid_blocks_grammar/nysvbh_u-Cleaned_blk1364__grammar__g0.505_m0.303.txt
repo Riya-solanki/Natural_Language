@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1364 | label: grammar | g:0.505 m:0.303 ---
+
+dṛṣṭānte ca sādhyasādhanabhāvena prajñātasya dharmasya hetutvāttasya cobhayathā bhāvānnāviśeṣaḥ ।।
+dṛṣṭānte yaḥ khalu dharmaḥ sādhyasādhanabhāvena prajñāyate sa hetutvenābhidhīyate sa cobhayathā bhavati kena citsamānaḥ kutaścidviśiṣṭaḥ sāmānyāt sādharmya viśeṣācca vaidharmyam ekaṃ sādharmyaviśeṣo hetuḥ nāviśeṣeṇa sādharmyamātraṃ vaidharmyamātraṃ vā sādharmyamātraṃ vaidharmyamātraṃ cāśrityabhāvānāha
+"sādharmyāttulyadharmopapatteḥ sarvānityatvaprasaṅgādanityasamaḥ "
+iti etadayuktamiti।
+aviśeṣasamapratiṣedhe ca yaduktaṃ tadapi veditavyam ।।

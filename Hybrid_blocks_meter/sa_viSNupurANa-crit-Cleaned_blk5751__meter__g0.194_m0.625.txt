@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5751 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ pārtho viniśvasya śrūyatāṃ bhagavann iti 
+prokto yathāvad ācaṣṭe vyāsāyātmaparābhavam ।।

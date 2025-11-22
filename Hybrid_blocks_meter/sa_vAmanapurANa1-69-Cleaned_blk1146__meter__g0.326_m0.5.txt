@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1146 | label: meter | g:0.326 m:0.5 ---
+
+ityevamuktvā bhagavāñjagāma diśaṃ sa yāmyāṃ sahasāntarikṣam ।
+ākramya tasthau sa hi tāṃ tadāśāṃ kāle vrajāmyatra yadā munīndraḥ ।।

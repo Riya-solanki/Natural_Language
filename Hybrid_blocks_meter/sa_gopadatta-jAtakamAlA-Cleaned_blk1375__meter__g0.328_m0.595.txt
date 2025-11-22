@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1375 | label: meter | g:0.328 m:0.595 ---
+
+saṃbhrāntabālahariṇekṣaṇacañcalāni vibhrāntakālapariṇāmakarāṇi buddheḥ ।
+yad dhīndriyārthaparibhogasukhāni tasmād yatnaṃ surāḥ kuruta puṇyaparigrahāya ।।

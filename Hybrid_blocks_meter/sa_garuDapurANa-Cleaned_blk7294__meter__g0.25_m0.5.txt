@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7294 | label: meter | g:0.25 m:0.5 ---
+
+darbhāgre śaṅkaraṃ vidyāttrayo devāḥ kuśe smṛtāḥ ।
+viprā mantrāḥ kaśā vahnistulasī ca khageśvara ।।

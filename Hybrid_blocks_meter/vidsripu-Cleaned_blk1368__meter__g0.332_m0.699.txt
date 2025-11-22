@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1368 | label: meter | g:0.332 m:0.699 ---
+
+cakṣur āśrayate kāmaḥ kāmukasya daridrataḥ ।
+krūrasya cāprabhavataḥ paradrohaḥ sarasvatīm ।।
+śatānandasya

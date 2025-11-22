@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 590 | label: meter | g:0.139 m:0.759 ---
+
+ketūdayād, yathā-
+hantālokya kuṭumbino diviṣadāṃ dhūma-grahaṃ diṅ-mukhe
+trastāṅgās tvaritaṃ paraspara-gṛhān abhyetya cintā-parāḥ ।
+dhānyānām anativyayāya gṛhiṇīr ājñāpayantyo muhur
+nidhyāyanti viniḥśvasanti gaṇaśo rathyā-mukheṣv āsate ।।

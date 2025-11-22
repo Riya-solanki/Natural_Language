@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2622 | label: meter | g:0.25 m:0.75 ---
+
+stotraśravaṇasaṃprītyā sannidhāne pare kṛte ।
+asmābhirakṣayaṃ śrāddhaṃ tadbhaviṣyatyasaṃśayam ।।

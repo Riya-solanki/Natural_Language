@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4518 | label: meter | g:0.194 m:0.5 ---
+
+bhārāvataraṇe sāhyaṃ sa te vīraḥ kariṣyati 
+sa rakṣaṇīyo bhavatā yathātmā madhusūdana ।।

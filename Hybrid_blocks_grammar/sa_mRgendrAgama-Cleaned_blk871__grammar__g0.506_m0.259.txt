@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 871 | label: grammar | g:0.506 m:0.259 ---
+
+[pramādād yoṣitaṃ gatvā] anicchayā nikhilāni balīvardanyāyena pramādāt pramadayā kṛtapariṣvaṅgasya tadupabhoge [praṇavoccārasaṃśritaṃ] praṇavoccārapuraḥsaraṃ [prāṇāyāmāyutaṃ bhajet] prāṇāmāyadaśasahasraṃ kuryāt।
+icchayā tu [dvipañcaguṇitaṃ] taddaśaguṇaṃ japet। lakṣaṃ vidadhyād ityarthaḥ।। 
+mahāpātakasaṃyoge śivaikādaśikāyutam ।। d

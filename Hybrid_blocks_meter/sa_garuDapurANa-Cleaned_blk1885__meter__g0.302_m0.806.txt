@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1885 | label: meter | g:0.302 m:0.806 ---
+
+na pṛthū bālendunibhe bhruvau cātha lalāṭakam ।
+śubhamardhendusaṃsthānamatuṅgaṃ syādalomaśam ।।

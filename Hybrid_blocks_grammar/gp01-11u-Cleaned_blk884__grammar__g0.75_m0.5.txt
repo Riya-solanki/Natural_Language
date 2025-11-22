@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 884 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca khaṇḍitābhyām ābhyāṃ nirgatya kaṭaka-mukuṭa-kuṇḍalādi-maṇḍitau rociṣmad-vapuṣmantau śuṣmāṇau praṇamantau samantād etaṃ kim api santoṣayāmāsatuḥ । tad-uttaram uttarasyāṃ diśi prāsthiṣātām ।

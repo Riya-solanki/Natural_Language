@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2745 | label: meter | g:0.194 m:0.5 ---
+
+atidaivaṃ tu kṛṣṇasya dṛṣṭvā tat karma vajrabhṛt 
+mithyāpratijño jaladān vārayāmāsa vai vibhuḥ ।।

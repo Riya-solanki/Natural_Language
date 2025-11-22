@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5118 | label: meter | g:0.25 m:0.75 ---
+
+nirguṇḍīmūlanasyena gaṇḍamālā vinaśyati ।
+smuhīgaṇḍīrikāsvedo nāśayedarbudāni ca ।।

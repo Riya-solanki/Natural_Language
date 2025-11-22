@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2847 | label: meter | g:0.25 m:0.5 ---
+
+dātavyaṃ pratyahaṃ pātre nimitteṣu viśeṣataḥ ।
+yācitenāpi dātavyaṃ śraddhāpūtaṃ tu śaktitaḥ ।।

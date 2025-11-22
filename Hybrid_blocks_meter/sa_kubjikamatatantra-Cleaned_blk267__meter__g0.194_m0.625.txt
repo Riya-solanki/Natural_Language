@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 267 | label: meter | g:0.194 m:0.625 ---
+
+yāvan mūrdhnopari pādā ājñāyuktaḥ subhāvitaḥ 
+tāvan na jāyate śīghram adṛṣṭaguṇalakṣaṇam ।।

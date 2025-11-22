@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1330 | label: meter | g:0.306 m:0.625 ---
+
+adya me kuśalaṃ haṃsa sarvatra ca bhaviṣyati ।
+cirābhilaṣitaḥ prāpto yadayaṃ satsamāgamaḥ ।।

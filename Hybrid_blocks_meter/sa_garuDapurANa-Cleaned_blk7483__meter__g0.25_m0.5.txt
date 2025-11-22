@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7483 | label: meter | g:0.25 m:0.5 ---
+
+viṣṇudehasamutpanno yato ayaṃ lavaṇo rasaḥ ।
+āturasya yadā prāṇā na yānti vasudhātale ।।

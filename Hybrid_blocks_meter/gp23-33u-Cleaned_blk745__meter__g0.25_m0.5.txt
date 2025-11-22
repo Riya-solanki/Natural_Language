@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 745 | label: meter | g:0.25 m:0.5 ---
+
+āgamiṣyaty adīrgheṇa kālena vrajam acyutaḥ ।
+priyaṃ vidhāsyate pitror bhagavān sātvatāṃ patiḥ ।।
+hatvā kaṃsaṃ raṅga-madhye pratīpaṃ sarva-sātvatām ।
+yad āha vaḥ samāgatya kṛṣṇaḥ satyaṃ karoti tat ।।[BhP ] iti ।

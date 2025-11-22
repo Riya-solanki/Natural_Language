@@ -1,0 +1,4 @@
+--- source: sa_abhinavagupta-anuttarASTikA-Cleaned.txt | block: 2 | label: grammar | g:0.75 m:0.5 ---
+
+saṃkrāmo atra na bhāvanā na ca kathāyuktir na carcā na ca dhyānaṃ vā na ca dhāraṇā na ca japābhyāsaprayāso na ca ।
+tat kiṃ nāma suniścitaṃ vada paraṃ satyaṃ ca tacchrūyatāṃ na tyāgī na parigrahī bhaja sukhaṃ sarvaṃ yathāvasthitaḥ ।।

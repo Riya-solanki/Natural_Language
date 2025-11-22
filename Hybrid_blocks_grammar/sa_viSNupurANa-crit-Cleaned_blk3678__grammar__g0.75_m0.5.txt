@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3678 | label: grammar | g:0.75 m:0.5 ---
+
+tasya ca dhanvantareḥ putraḥ ketumān ketumato bhīmarathaḥ । tasyāpi divodāsas tataḥ pratardanaḥ । sa ca bhadraśreṇyavaṃśavināśād aśeṣāḥ śatravo anena jitā iti śatrujid abhavat ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3125 | label: meter | g:0.194 m:0.5 ---
+
+sahasrasyāpi viprāṇāṃ yogī cet purataḥ sthitaḥ 
+sarvān bhoktṝṃs tārayati yajamānaṃ tathā nṛpa ।।

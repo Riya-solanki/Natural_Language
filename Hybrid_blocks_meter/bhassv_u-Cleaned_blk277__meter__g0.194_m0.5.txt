@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 277 | label: meter | g:0.194 m:0.5 ---
+
+iyaṃ bālā navodvāhā satyaṃ śrutvā vyathāṃ vrajet
+kāmaṃ dhīrasvabhāveyaṃ strīsvabhāvas tu kātaraḥ ।।

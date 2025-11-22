@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 73 | label: hybrid | g:0.401 m:0.462 ---
+
+vākyalāghavaṃ manyamānasyānyasmin vākyalāghave anādaraḥ।
+tathā cāyamasyetthambhūtena vākyavikalpena pravṛttaḥ siddhānte chale śabdādiṣu ca bahulaṃ samācāraḥ śāstra iti।।

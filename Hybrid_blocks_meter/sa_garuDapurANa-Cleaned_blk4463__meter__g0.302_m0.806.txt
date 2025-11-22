@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4463 | label: meter | g:0.302 m:0.806 ---
+
+ete ca vātajā rogā jāyante bhṛśadāruṇāḥ ।
+durnāmāmṛtyūdāvartaparamo ayamupadravaḥ ।।

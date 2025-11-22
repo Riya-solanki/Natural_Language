@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2254 | label: meter | g:0.194 m:0.625 ---
+
+puṣpadanto dhanāḍhyaś ca vipulo nandakārakaḥ 
+śukro viḍālo dvāv etau śukāruṇaśubhānanau ।।

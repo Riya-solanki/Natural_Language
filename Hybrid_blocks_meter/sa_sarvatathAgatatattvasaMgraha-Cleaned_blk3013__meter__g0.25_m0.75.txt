@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3013 | label: meter | g:0.25 m:0.75 ---
+
+kecidaprāptiyogena buddhānāṃ māraṇātmakāḥ ।
+teṣāmuddharaṇārthāya laghu siddhipradā vayam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4300 | label: meter | g:0.194 m:0.5 ---
+
+akṣaprapatane caiva nimir haṃsaś ca dānavau 
+ubhau tāv api kṛṣṇena sarāṣṭrau vinipātitau ।।

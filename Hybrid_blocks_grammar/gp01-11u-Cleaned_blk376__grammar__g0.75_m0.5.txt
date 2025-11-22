@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 376 | label: grammar | g:0.75 m:0.5 ---
+
+[] kiṃ ca, sarvāntaryāmy apy enam evorarīcarīkarīti । dṛśyatām asyāṃ bhāsamānāyāṃ sabhāyāṃ sarveṣāṃ netra-paṭalī-ṣaṭpadaval-līlāyamānā kevalam asya mukhaṃ kamalam iva saṃvalate । tathā prathamata eva tad-ānukūlyam atrākalpyate । parikalpyatām apīdaṃ mama nāmnaiva । tasmād asmākam ayam eva rājeti ।

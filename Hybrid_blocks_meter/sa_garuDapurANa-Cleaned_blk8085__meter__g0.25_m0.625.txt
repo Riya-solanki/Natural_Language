@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8085 | label: meter | g:0.25 m:0.625 ---
+
+na pāpakṛtkaścidāsīttasminrājyaṃ praśāsati ।
+nāsīccaurabhayaṃ tārkṣya na kṣudrabhayameva hi ।।

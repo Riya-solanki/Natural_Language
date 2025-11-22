@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6859 | label: meter | g:0.25 m:0.5 ---
+
+praṇāmamīśasya śiraḥ phalaṃ vidustadarcanaṃ pāṇiphalaṃ divaukasaḥ ।
+manaḥ phalaṃ tadguṇakarmacintanaṃ vacastu govindaguṇastutiḥ phalam ।।

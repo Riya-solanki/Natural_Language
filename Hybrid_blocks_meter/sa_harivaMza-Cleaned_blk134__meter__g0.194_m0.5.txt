@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 134 | label: meter | g:0.194 m:0.5 ---
+
+sarve devagaṇās tāta trayas triṃśat tu kāmajāḥ 
+teṣām api ca rājendra nirodhotpattir ucyate ।।

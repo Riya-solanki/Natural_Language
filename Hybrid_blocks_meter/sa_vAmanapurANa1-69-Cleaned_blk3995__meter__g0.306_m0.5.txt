@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3995 | label: meter | g:0.306 m:0.5 ---
+
+yacca bhojye tathā peye bhakṣye coṣye vilehane ।
+tad yātu vilayaṃ toye yathā lavaṇabhājanam ।।

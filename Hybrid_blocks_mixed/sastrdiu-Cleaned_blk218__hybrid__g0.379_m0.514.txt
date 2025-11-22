@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 218 | label: hybrid | g:0.379 m:0.514 ---
+
+ramaṇīyam ।
+asti hi ko api saṃbandhor'thena sahātmano mānasapratyakṣagamyaḥ sarvajanīnaḥ sa jñānasya kalpakaḥ ।
+arthagato vā jñānajanyo atiśayaḥ kalpayati jñānam, avaśyamaṅgīkaraṇīyaścāyamatiśayastritayapratibhāsavādibhirapi ।
+tritayaṃ pratibhāsata iti vadatā jñānajñeyajñātṛṣu triṣvapyanugataṃ prakāśanapadavācyamavaśyamaṅgīkartavyam ।
+tatra jñānatvaṃ tāvannānugatam- taddhi jñāne eva na jñātṛjñeyayoḥ ।
+jñeyatvamapi jñeya eva na jñātṛjñānayoḥ ।
+jñātṛtvaṃ jñānajñeyayoḥ ।।

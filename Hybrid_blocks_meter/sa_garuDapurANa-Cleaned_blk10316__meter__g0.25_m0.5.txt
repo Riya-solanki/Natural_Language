@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10316 | label: meter | g:0.25 m:0.5 ---
+
+dvādaśāṃśena tu hyaddhā vibhaktaṃ bhavatiṃ prabho ।
+rāśībhūte hi sattve tu daśabhāgena miśritam ।।

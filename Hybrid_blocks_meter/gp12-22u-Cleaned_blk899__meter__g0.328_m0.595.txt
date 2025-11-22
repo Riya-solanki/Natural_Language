@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 899 | label: meter | g:0.328 m:0.595 ---
+
+mayedaṃ bhagavan goṣṭha-nāśāyāsāra-vāyubhiḥ ।
+ceṣṭitaṃ vihate yajñe māninā tīvra-manyunā ।।[] iti ।

@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 800 | label: hybrid | g:0.5 m:0.5 ---
+
+yatkāraṇaṃ yasmājjīvaṃ bodhayati tasmādasti suptotthāpanaṃ jīvaliṅgamiti yojanā ।

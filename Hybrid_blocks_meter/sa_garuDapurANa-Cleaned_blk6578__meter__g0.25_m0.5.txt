@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6578 | label: meter | g:0.25 m:0.5 ---
+
+udake codakasthaṃ tu sthaleṣu sthalajaṃ śuci ।
+pādau sthāpyau ca tatraiva ācāntaḥ śucitāmiyāt ।।

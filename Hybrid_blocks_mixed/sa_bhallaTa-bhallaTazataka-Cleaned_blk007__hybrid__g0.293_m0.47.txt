@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 7 | label: hybrid | g:0.293 m:0.47 ---
+
+nanv āśrayasthitir iyaṃ tava kālakūṭa kenottarottaraviśiṣṭapadopadiṣṭā 
+prāg arṇavasya hṛdaye vṛṣalakṣmaṇo atha kaṇṭhe adhunā vasasi vāci punaḥ khalānām ।।

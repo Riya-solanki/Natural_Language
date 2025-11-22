@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4938 | label: meter | g:0.194 m:0.625 ---
+
+dakṣiṇena ca pakṣeṇa nijaghāna mahābalaḥ 
+padbhyāṃ pārśvābhighātāṃś ca dattvā ghorān anekaśaḥ ।।

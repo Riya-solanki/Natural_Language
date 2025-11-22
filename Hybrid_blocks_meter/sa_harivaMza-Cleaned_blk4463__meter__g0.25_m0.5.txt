@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4463 | label: meter | g:0.25 m:0.5 ---
+
+svayaṃbhuvo apīha paraṃ bhavatsu praśna āhitaḥ 
+yuṣmat parataraṃ nāsti śrutyā vā tapasāpi vā ।।

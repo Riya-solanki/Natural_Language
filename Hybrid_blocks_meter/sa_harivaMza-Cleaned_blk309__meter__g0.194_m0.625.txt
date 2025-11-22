@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 309 | label: meter | g:0.194 m:0.625 ---
+
+vasiṣṭhaputrāḥ saptāsan vāsiṣṭhā iti viśrutāḥ 
+hiraṇyagarbhasya sutā ūrjā jātāḥ sutejasaḥ ।।

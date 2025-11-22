@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1603 | label: meter | g:0.25 m:0.625 ---
+
+krauñcadvīpe dyutimataḥ putrāḥ sapta mahātmanaḥ ।
+kuśalo mandagaścoṣṇaḥ pīvaro athondhakārakaḥ ।।

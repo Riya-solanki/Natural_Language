@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 808 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tathā punaḥ saṅgatya gaty-antaraṃ prathayāmāsuḥ-divīśvara, nādyāpi te naśvaratāṃ prāptāḥ, pratyuta pātālatala iva giri-garta-tale praviśya tad diśantīvānanda-kolāhalaṃ kurvantaḥ pratīyante । acalaś ca svayaṃ balānuja-hasta-nyasta-prāya-grāva-nikāya-maya-kāyatayā pratīyate ।

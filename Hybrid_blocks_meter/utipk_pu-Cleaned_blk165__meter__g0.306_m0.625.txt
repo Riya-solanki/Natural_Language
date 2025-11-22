@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 165 | label: meter | g:0.306 m:0.625 ---
+
+viśeṣo arthāvabhāsasya sattāyāṃ na punaḥ kva cit ।
+vikalpeṣu bhaved bhāvi- bhavadbhūtārthagāmiṣu ।।

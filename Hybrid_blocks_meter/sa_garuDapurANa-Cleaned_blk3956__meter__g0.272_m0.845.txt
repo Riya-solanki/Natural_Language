@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3956 | label: meter | g:0.272 m:0.845 ---
+
+ajamīḍhādvṛhadiṣustatputraśca bṛhaddhanuḥ ।
+bṛhatkarmā tasya putrastasya putro jayadrathaḥ ।।

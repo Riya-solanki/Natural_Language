@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 149 | label: meter | g:0.102 m:0.695 ---
+
+evaṃ viddhāṃ parityajya dvādaśyām upavāsane
+koṭijanmārjitaṃ pāpam ekayaiva vinaśyati
+tataḥ koṭiguṇaṃ vā api niṣiddhasyetarair janaiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 430 | label: meter | g:0.306 m:0.5 ---
+
+svayaṃmṛtānāṃ hi nirūṣmakāṇi bhavanti māṃsāni viśoṇitāni ।
+priyāṇi caiṣāṃ na hi tāni samyag bubhukṣayā pīḍitavigrahāṇām ।।

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1823 | label: meter | g:0.29 m:0.555 ---
+
+atha chalam-
+proktaṃ chalaṃ sasotprāsaiḥ priyābhāsair vilobhanam ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 150 | label: hybrid | g:0.497 m:0.5 ---
+
+dānaṃ ca śīlamapi kṣānti tathaiva vīryaṃ dhyānāni prajña pariṇāmayitavya bodhau 
+na ca bodhiskandha vimṛśitva parāmṛśeyā ye ādikarmika na deśayitavya evam ।।

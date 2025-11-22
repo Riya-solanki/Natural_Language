@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3168 | label: hybrid | g:0.5 m:0.5 ---
+
+suveṣaṃ puruṣaṃ dṛṣṭvā bhrātaraṃ yadi vā sutam ।
+yoniḥ klidyati nārīṇāṃ satyaṃsatyaṃ hi śaunaka ! ।।

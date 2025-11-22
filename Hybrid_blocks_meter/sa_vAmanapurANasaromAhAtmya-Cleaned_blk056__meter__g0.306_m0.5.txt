@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 56 | label: meter | g:0.306 m:0.5 ---
+
+śrutvā tu vacanaṃ teṣāṃ putrāṇāṃ kaśyapaḥ prabhuḥ ।
+akarod gamane buddhi brahmalokāya lokakṛt ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9376 | label: meter | g:0.306 m:0.5 ---
+
+gṛhadvāre śmaśāne vā tīrthe devālaye api vā ।
+yatrādyo dīyate piṇḍastatra sarvān samāpayet ।।

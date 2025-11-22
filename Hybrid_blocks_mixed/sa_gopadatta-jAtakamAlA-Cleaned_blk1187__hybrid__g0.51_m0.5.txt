@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1187 | label: hybrid | g:0.51 m:0.5 ---
+
+manyāmahe tvaṃ samanusmṛto api trāṇaṃ paraṃ sarvajagadbhayebhyaḥ ।
+prāg eva sākṣād abhivīkṣyamāṇas tat pauruṣaṃ darśaya lokabandho ।।

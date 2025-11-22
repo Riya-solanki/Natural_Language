@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11051 | label: meter | g:0.25 m:0.5 ---
+
+etāsāṃ ramaṇe kāle umāyāḥ pakṣisattama ।
+abhimānaśca nāstyeva svāpa eva ratāḥ sadā ।।

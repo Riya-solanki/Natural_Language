@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 876 | label: meter | g:0.04 m:0.847 ---
+
+"ātmapreraṇayadṛcchājñatābhiśca na saṃyogaviśeṣaḥ "
+ityayamapratiṣedha iti, pūrvastu
+pratiṣedhaḥ
+"nāntaḥśarīra vṛttitvānmanasaḥ "
+iti ।।

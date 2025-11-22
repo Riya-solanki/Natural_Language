@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1829 | label: meter | g:0.25 m:0.5 ---
+
+surāpo brahmahā hartā suvarṇasya ca sūkare 
+prayāti narake yaś ca taiḥ saṃsargam upaiti vai ।।

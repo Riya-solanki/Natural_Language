@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2490 | label: meter | g:0.25 m:0.625 ---
+
+teṣāṃ gaṇastu devānā mekaiko viṃśakaḥ smṛtaḥ ।
+virocanasutasteṣāṃ balirindro bhaviṣyati ।।

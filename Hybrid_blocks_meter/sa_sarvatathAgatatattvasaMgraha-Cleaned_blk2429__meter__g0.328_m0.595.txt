@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2429 | label: meter | g:0.328 m:0.595 ---
+
+sā eva vali[tāṃ kṛtvā] tarjanyā tarjanī grahā ।
+vāṇākarṣaṇāyogena karṣayan rāgayejjagat ।।

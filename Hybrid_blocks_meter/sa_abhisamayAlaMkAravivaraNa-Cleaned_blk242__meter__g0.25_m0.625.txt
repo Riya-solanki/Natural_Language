@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 242 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ kṛtvā yathoktau vai jñeyaḥ sarvajñatānaye ।
+ayaṃ vibhāgo niḥśeṣo vipakṣapratipakṣayoḥ ।।

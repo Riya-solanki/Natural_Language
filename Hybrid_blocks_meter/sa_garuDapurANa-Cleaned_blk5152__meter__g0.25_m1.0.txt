@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5152 | label: meter | g:0.25 m:1.0 ---
+
+viḍaṅgatriphalākṛṣṇācūrṇaṃ līḍhaṃ samākṣikam ।
+hanti kuṣṭhakrimimehanāḍīvraṇabhagandarān ।।

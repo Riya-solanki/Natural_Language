@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 950 | label: meter | g:0.194 m:0.625 ---
+
+mahāmanā nāma suto mahāsālasya dhārmikaḥ 
+jajñe vīraḥ suragaṇaiḥ pūjitaḥ sa mahāmanāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 188 | label: meter | g:0.25 m:0.625 ---
+
+pratyayāstadupādānās te aṣṭau nava caturguṇāḥ 
+sapta pañca ca vikhyātāḥ siddhyādyā vargaśo mune ।।

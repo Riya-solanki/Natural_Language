@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2605 | label: meter | g:0.194 m:0.5 ---
+
+caturthaḥ syād āṅgirasaḥ śāntikalpaś ca pañcamaḥ 
+śreṣṭhās tv atharvaṇām ete saṃhitānāṃ vikalpakāḥ ।।

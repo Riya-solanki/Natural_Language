@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 895 | label: meter | g:0.194 m:0.75 ---
+
+apṛthagdharmacaraṇās te atapyanta mahat tapaḥ 
+daśa varṣasahasrāṇi samudrasalileśayāḥ ।।

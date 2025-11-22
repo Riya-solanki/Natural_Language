@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 520 | label: grammar | g:0.559 m:0.425 ---
+
+sā netrāñjanatāṃ punar vrajati me vācām ayaṃ vibhramaḥ pratyāsannakaragraheti ca karī hastodare śāyitaḥ ।
+etāvad bahu yad babhūva katham apy ekatra manvantare nirmāṇaṃ vapuṣo mamorutapasas tasyāś ca vāmabhruvaḥ ।।
+vallaṇasya

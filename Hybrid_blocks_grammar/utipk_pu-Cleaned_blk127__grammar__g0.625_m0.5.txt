@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 127 | label: grammar | g:0.625 m:0.5 ---
+
+jñāne bahirābhāsanarūpe sahaja eva cittattvasyāntararthāvabhāsaḥ, smṛtyādau tu pūrvānubhavātmā । ata eva smṛtiḥ saṃskārajocyate ।।

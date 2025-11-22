@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 244 | label: meter | g:0.272 m:0.595 ---
+
+arthakriyāpi sahajā nārthānām īśvarecchayā 
+niyatā sā hi tenāsyā nākriyāto anyatā bhavet ।।

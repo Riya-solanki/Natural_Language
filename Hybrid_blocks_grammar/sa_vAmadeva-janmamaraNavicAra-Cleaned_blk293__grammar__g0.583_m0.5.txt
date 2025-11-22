@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 293 | label: grammar | g:0.583 m:0.5 ---
+
+evaṃ samanantarodīritayā nītyā janmamaraṇaprabandhasambandham avadhārya akṛtrimasvarūpaparāmarśanena jīvanmuktim āsādya kṛtakṛtyatām ālambante santaḥ ।।

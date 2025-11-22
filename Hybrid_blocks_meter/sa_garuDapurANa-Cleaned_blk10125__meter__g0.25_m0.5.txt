@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10125 | label: meter | g:0.25 m:0.5 ---
+
+tṛtīyāṃśaśravaṇādarthataśca puṇyaṃ cāhuḥ paṭhato vai daśāṃśam ।
+tato varaṃ matsyapurāṇamāhustato varaṃ kūrmapūrāṇamāhuḥ ।।

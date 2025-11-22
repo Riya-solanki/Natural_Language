@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 430 | label: meter | g:0.25 m:0.625 ---
+
+upoṣya rajanīmekāṃ gāṇapatyamavāpnayāt ।
+tatraiva ca mahāgrāhī yakṣiṇī lokaviśrutā ।।

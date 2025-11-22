@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1200 | label: meter | g:0.25 m:0.5 ---
+
+tyakṣyāmi nemaṃ yadi pūtikāyaṃ bhavaddhitādhānavidhānakāle ।
+saṃtyājayiṣyaty abalaṃ balātmā jagadvināśāvahitaḥ kṛtāntaḥ ।।

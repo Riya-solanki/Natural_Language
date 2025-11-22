@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1740 | label: grammar | g:0.667 m:0.5 ---
+
+teṣāṃ tvaṃ nidhir āgasām asahanā mānonnatā sāpy ato gantavyaṃ bhavayā na tad gṛham iti tvaṃ vāryase yāsi cet ।
+gāḍhaṃ mekhalayā balān niyamitaḥ karṇotpalais tāḍitaḥ kṣiptaḥ pādatale tadekaśaraṇo manye ciraṃ sthāsyasi ।।

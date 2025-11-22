@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1021 | label: grammar | g:0.75 m:0.5 ---
+
+atra nāyakaprabhānāyakau dve dravye paśyetyekasmin guṇapade yaditaretarayogena niveśite taddvayorityatra tadviśeṣaṇayośca dvivacanavikṣāyāṃ samāsaśca bhavatīti so ayaṃ tathokta itaretarayogassasuccayabheda eva । evamitaretarayoge api dyotakayogā udāhartavyāḥ ।

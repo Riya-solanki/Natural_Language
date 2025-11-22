@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1177 | label: grammar | g:0.562 m:0.5 ---
+
+iti sā dvitrirapyucyamānāyadā necchati sma nivartitum, tato bodhisattva upekṣānibhṛtamatirasyāṃ babhūva ।

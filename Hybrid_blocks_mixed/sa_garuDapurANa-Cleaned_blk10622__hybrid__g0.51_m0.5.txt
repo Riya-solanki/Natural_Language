@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10622 | label: hybrid | g:0.51 m:0.5 ---
+
+kiṃ nāma prākṛtaṃ jñeyaṃ tathā kiṃ vaikṛtaṃ prabho ।
+etadvistīrya me brūhi śrotuṃ kautūhalaṃ hi me ।।

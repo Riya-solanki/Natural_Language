@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 452 | label: grammar | g:0.808 m:0.07 ---
+
+āvṛtā jagati padminī yayā padmayā jitavatī sadāpi tām ।
+rādhikādir api padminītayā bhaṇyatāṃ tatir aho mṛgī-dṛśām ।।
+[] atha śrī-rādhikā hasitvā cillī-cālanayā lasitvā ca sva-pitṛ-purohita-bālakānāṃ pañcāśataṃ tad-veśāyādiśya rāja-purohita-svasrīyeṇa ca tathā saṃdiśya yuddha-kautukāyābhiniviśya tasya strī-veśasya purataḥ sthitiṃ nidiśya cāmūbhiś camūru-cakṣuś-camūbhir abhikrantavatī yuddhābhimukhatayā ca sthitavatī kṛṣṇaṃ ca manasyāhitavatī । tatra ca-

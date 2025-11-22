@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3637 | label: hybrid | g:0.25 m:0.491 ---
+
+prītāś caiva vayaṃ vīra yat tvaṃ punar ihāgataḥ 
+vikhyātas triṣu lokeṣu rāmaḥ śatrubhayaṃkaraḥ ।। 
+yādavāś ca balodagrāḥ sarve saṃgrāmalālasāḥ । tiṣṭhanti nṛpaśārdūlā hy apramattā mahābalāḥ । 
+vardhanīyā vayaṃ nūnaṃ tvayā yādavanandana 
+atha vā prāṇinas tāta ramante janmabhūmiṣu ।।

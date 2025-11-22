@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2790 | label: meter | g:0.25 m:0.5 ---
+
+mamopari yathendras tvam sthāpito gobhir īśvaraḥ 
+upendra iti kṛṣṇa tvām gāsyanti divi devatāḥ ।।

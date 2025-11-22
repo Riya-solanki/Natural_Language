@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 146 | label: hybrid | g:0.531 m:0.5 ---
+
+ataś ca nāṭakādau tu varṇyā sā na bhaved iti ।। athā cāhuḥ [śṛti }-
+sāmānyā vanitā veśyā sā dravyaṃ param icchatā ।।
+guṇa-hīne ca na dveṣo nānurāgo guṇiny api ।
+śṛṅgārābhāsa etāsu na śṛṅgāraḥ kadācana ।। iti ।

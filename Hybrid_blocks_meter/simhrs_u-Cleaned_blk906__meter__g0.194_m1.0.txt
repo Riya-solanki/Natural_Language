@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 906 | label: meter | g:0.194 m:1.0 ---
+
+aśaknuvan soḍhum adhīra-locanaḥ
+sahasra-raśmer iva yasya darśanam ।
+praviśya hemādri-guhā-gṛhāntaraṃ
+nināya bibhyad divasāni kauśikaḥ ।।

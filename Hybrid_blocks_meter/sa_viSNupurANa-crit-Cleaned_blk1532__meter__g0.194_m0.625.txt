@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1532 | label: meter | g:0.194 m:0.625 ---
+
+bhūtādim indriyādiṃ ca dvidhāhaṃkāram īśvaraḥ 
+bibharti śaṅkharūpeṇa śārṅgarūpeṇa ca sthitam ।।

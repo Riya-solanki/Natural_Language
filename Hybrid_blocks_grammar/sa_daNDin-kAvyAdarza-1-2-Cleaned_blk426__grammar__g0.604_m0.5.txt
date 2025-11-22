@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 426 | label: grammar | g:0.604 m:0.5 ---
+
+nistriṃśatvam asāv eva dhanuṣy evāsya vakratā śareṣv eva narendrasya mārgaṇatvaṃ ca vartate ।।

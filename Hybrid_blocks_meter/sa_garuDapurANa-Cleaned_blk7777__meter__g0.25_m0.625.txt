@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7777 | label: meter | g:0.25 m:0.625 ---
+
+piṇḍamaśrāti karuṇaṃ nānākrandān karotyapi ।
+daśame māsi dattaṃ vai sutaptabhavanaṃ tataḥ ।।

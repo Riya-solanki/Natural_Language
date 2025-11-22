@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1733 | label: meter | g:0.194 m:0.625 ---
+
+tatpramāṇena sa dvīpo ghṛtodena samāvṛtaḥ 
+ghṛtodaś ca samudro vai krauñcadvīpena saṃvṛtaḥ ।।

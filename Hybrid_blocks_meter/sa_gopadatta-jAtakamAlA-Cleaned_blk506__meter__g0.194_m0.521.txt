@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 506 | label: meter | g:0.194 m:0.521 ---
+
+kṛtvā duścaritaṃ svamātari jagat kṛtsnaṃ yadi prodvahed
+etatprajvalitāgnirāgakapilaṃ cakraṃ bṛhan mūrdhani ।
+kalpān kalpasamair ahobhir ayutān voḍhuṃ cirāyotsahe
+sattvārthaṃ pratipadya mānava hi me cittaṃ na saṃkhidyate ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1149 | label: grammar | g:0.562 m:0.5 ---
+
+vyākurmahe bahu kim asya taroḥ sadaiva naisargiko ayam upakārarasaḥ pareṣu ।
+unmūlito api marutā bata vāridurga- mārge yad atra janasaṃkramatām upetaḥ ।।

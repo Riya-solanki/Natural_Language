@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 116 | label: hybrid | g:0.44 m:0.381 ---
+
+antaḥkaraṇavṛttau brahmasākṣātkāre janayitavye asti tadupāsanāyāḥ karmāpekṣeti cet, na, tasyāḥ karmānuṣṭhānasahabhāvābhāvena tatsahakāritvānupapatteḥ ।
+na khalu atattvamasi' ityādervākyānnirvicikitsaṃ śuddhabuddhodāsīnasvabhāvaṃ akartṛtvādyupetaṃ apetabrāhmaṇatvādijātiṃ dehādyatiriktaṃ ekamātmānaṃ pratipadyamānaḥ karmasvadhikāramavaboddhumarhati ।
+anarhaśca kathaṃ kartā vādhikṛto vā ।

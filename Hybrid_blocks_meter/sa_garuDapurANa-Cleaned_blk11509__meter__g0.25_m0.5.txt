@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11509 | label: meter | g:0.25 m:0.5 ---
+
+tasyopariṣṭātpraṇameccaiva lakṣmīṃ śvetadvīpākhyaṃ kanyake pūjayecca ।
+tasyopariṣṭātpraṇameccaiva lakṣmīṃ mahādivyāṃ maṇḍapasaṃjñakāṃ ca ।।

@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 203 | label: meter | g:0.275 m:0.625 ---
+
+varṇakāntaramārabhate- atha vāiti ।
+pūrveṇādhikaraṇena brahmasvarūpalakṣaṇāsaṃbhavāśaṅkāṃ vyudasya lakṣaṇasaṃbhava uktaḥ ।
+tasyaiva tu lakṣaṇasyānena anumānatvāśaṅkāmapākṛtya āgamopadarśanena brahmaṇi śāstraṃ pramāṇamuktam ।
+akṣarārthastu atirohitaḥ ।

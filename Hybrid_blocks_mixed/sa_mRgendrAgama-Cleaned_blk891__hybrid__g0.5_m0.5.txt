@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 891 | label: hybrid | g:0.5 m:0.5 ---
+
+ekabhuktaṃ tryahaṃ kuryāttryahaṃ tu yadayācitam। tryahaṃ syānnaktabhojī tu tryahaṃ syānmārutāśanaḥ।। eṣa kṛcchraḥ samākhyātaḥ prājāpatya iti smṛtaḥ। māsārdhaṃ grāsavṛddhiḥ syācchukle kṛṣṇe tu hrāsayet।। cāndrāyaṇavidhiḥ proktaḥ iti

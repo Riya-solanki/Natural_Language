@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2886 | label: meter | g:0.194 m:0.625 ---
+
+abda-m-ekena deveśi maṇḍalīkaiḥ prapūjyate 
+deśaṃ bhṛtyā[ḥ] puraṃ grāmaṃ samantrī sapurogamaḥ ।।

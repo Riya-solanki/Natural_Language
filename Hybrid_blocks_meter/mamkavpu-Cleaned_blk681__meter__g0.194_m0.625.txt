@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 681 | label: meter | g:0.194 m:0.625 ---
+
+{akuṇṭhotkaṇṭhayā pūrṇamākaṇṭhaṃ kalakaṇṭhi mām ।
+kambukaṇṭhyāḥ kṣaṇaṃ kaṇṭhe kuru kaṇṭhārtimuddhara ।।}

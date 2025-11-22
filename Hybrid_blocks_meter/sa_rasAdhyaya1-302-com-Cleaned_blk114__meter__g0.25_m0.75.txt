@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 114 | label: meter | g:0.25 m:0.75 ---
+
+yathā jalajakañcuko yāti ।।

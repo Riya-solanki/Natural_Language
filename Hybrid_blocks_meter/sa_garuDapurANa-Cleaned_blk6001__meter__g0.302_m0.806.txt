@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6001 | label: meter | g:0.302 m:0.806 ---
+
+guḍūcīkalpayogena śatāvaryaśvagandhayoḥ ।
+catvāri trīṇi madhyasya jaghanyasya palāni hi ।।

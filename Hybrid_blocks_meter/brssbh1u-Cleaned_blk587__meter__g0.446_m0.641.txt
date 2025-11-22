@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 587 | label: meter | g:0.446 m:0.641 ---
+
+yadepyupakramādathaśabdaḥ tadetyarthaḥ ।
+prāṇaḥ paramātmā tatra jīva ekībhavati enaṃ prāṇaṃ sa jīvaḥ tadaitīti śeṣaḥ ।

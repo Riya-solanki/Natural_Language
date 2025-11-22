@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2300 | label: meter | g:0.25 m:0.5 ---
+
+yaśodā tv abravīd bhītā nārya jānāmi kiṃ nv idam 
+dārakeṇa sahānena suptā śabdena bodhitā ।।

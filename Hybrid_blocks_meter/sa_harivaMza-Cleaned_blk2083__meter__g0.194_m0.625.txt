@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2083 | label: meter | g:0.194 m:0.625 ---
+
+ariṣṭo baliputras tu kakudmī vṛṣarūpadhṛk 
+gavām aritvam āpannaḥ kāmarūpī mahāsuraḥ ।।

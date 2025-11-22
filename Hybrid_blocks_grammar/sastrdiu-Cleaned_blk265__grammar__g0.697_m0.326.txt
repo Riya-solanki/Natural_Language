@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 265 | label: grammar | g:0.697 m:0.326 ---
+
+tathāhi- yaḥ sthāṇutvaṃ puruṣatvaṃ vā nāvadhārayati tasyordhvatvaṃ saṃśayaheturbhavati, nirṇīte tvanyatarasminrūpe saṃśayo nivartate ।
+tathā yo vāyoraparokṣāvabhāsaṃ nāvadhāritavān tasya pṛthivyādiṣu pratyakṣatvavyāptaṃ sparśavattvaṃ vyomādiṣu cāpratyakṣatvavyāptamarupatvaṃ vāyāvupalabhamānasya bhavatyeva saṃśayaḥ ।
+satu pramāṇāntareṇa nirṇaye sati nivartata ityāstāṃ tāvat ।
+tasmātsapratisādhanamapi savyabhicāravatsaṃśayahetuḥ ।
+tathā ca bhāṣyakāraḥ yatkarma tatphalavat homo api karma tenāpi phalavatā bhavitavyamityasya- uparate karmaṇi dravyāṇāṃ tatsaṃyogānāṃ ca dravyāntaraṃ phalaṃ dṛṣṭamiti dravyamapi phalavatsyāt iti pratisādhanaṃ bruvansapratisādhanatvamapi dūṣaṇamiti darśayati, tasmātso api saṃśayahetuḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 916 | label: meter | g:0.102 m:0.555 ---
+
+tair iyaṃ pṛthivī sarvā saptadvīpā sapattanā 
+yathāpradeśam adyāpi dharmeṇa paripālyate 
+prajās teṣāṃ purastāt tu vakṣyāmi nṛpasattama ।।

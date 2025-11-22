@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 996 | label: meter | g:0.102 m:0.5 ---
+
+[] evaṃ taddine śakaṭair eva cakruḥ, dināntare tu,
+kaṇṭakībhiḥ pravṛddhābhis tathā kaṇṭakibhir drumaiḥ ।
+nikhātocchrita-śākhābhir abhiguptaṃ samantataḥ ।।iti । []

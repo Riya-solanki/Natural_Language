@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 450 | label: grammar | g:0.75 m:0.5 ---
+
+[] punaḥ sa-hāsam āha sma - yasya nandanandana iti nāma viparītatayā paṭhatāpi krama-parītatayānubhūyate । tasmād evam apy asman-nṛpater eva pūrva-vyañjitaṃ samañjasaṃ sañjanam añjasā tasya labhyatvāyopapalabhyata iti ।

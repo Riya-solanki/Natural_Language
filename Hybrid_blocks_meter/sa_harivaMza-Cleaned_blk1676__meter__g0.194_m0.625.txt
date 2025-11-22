@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1676 | label: meter | g:0.194 m:0.625 ---
+
+ariṣṭo baliputraś ca kiśorāṣṭrau tathaiva ca 
+svarbhānuś cāmaraprakhyo vaktrayodhī mahāsuraḥ ।।

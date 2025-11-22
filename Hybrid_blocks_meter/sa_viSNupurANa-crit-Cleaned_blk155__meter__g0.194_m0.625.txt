@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 155 | label: meter | g:0.194 m:0.625 ---
+
+saṃdhyāsaṃdhyāṃśayor antar yaḥ kālo munisattama 
+yugākhyaḥ sa tu vijñeyaḥ kṛtatretādisaṃjñitaḥ ।।

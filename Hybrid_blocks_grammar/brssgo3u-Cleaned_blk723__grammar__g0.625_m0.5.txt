@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 723 | label: grammar | g:0.625 m:0.5 ---
+
+ayadeva vidyayā karoti śraddhayopaniṣadā tadeva vīryavattaraṃ bhavati' iti ca karmaśeṣatvaśravaṇādvidyāyā na kevalāyāḥ puruṣārthahetutm ।।

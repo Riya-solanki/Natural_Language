@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6112 | label: meter | g:0.328 m:0.595 ---
+
+adrisārastvayastīkṣṇaṃ lohakañcāpi kathyate ।
+mākṣikaṃ madhu ca kṣaudraṃ tacca puṣparasaṃ smṛtam ।।

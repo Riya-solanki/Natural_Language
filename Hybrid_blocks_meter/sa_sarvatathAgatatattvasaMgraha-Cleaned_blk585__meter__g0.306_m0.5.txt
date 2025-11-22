@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 585 | label: meter | g:0.306 m:0.5 ---
+
+hoḥ hoḥ hoḥ ho iti prokte vāgvivartitayā kṣaṇāt ।
+rāgayet sarvasatvāṃ so vajravācā parisphuṭāṃ ।।

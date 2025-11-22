@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11394 | label: meter | g:0.316 m:0.5 ---
+
+suhṛjjanaiḥ putramitrādikaiśca dīrthāṭanaṃ naiva kuryāṃ mukunda ।
+kurvanti ye kāmyayā tīrthayātrāṃ teṣāṃ saṃgaṃ kuru dūre mukunda ।।

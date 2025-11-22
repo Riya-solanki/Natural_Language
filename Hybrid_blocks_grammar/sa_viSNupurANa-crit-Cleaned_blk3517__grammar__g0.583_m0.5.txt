@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3517 | label: grammar | g:0.583 m:0.5 ---
+
+athaitān vasiṣṭho jīvanmṛtakān kṛtvā sagaram āha । vatsālam ebhir jīvanmṛtakair anumṛtaiḥ ।।

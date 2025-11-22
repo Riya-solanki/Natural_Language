@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11775 | label: meter | g:0.25 m:0.5 ---
+
+idaṃ tu paramaṃ gopyaṃ tavoktaṃ ca khageśvara ।
+na kasyāpi ca vaktavyaṃ gopyatvātkhagasattama ।
+itaḥ paraṃ pravakṣyāmi tāratamyaṃ śṛṇu prabho ।।

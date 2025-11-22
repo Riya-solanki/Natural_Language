@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 200 | label: meter | g:0.194 m:0.5 ---
+
+hanta te kathayiṣyāmi pṛthor vainyasya saṃbhavam 
+ekāgraḥ prayataś caiva śuśrūṣur janamejaya ।।

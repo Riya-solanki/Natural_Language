@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 470 | label: meter | g:0.25 m:1.0 ---
+
+sādhyatāmapyanādṛtya siddhatvenābhidhīyate ।
+yatra bhāvo bhavedeṣā bhāvavaicitryavakratā ।।

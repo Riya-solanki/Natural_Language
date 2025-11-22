@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2482 | label: meter | g:0.306 m:0.625 ---
+
+vṛttā ca puṣkare yātrā gatā lokā yathāgatam ।
+ṛṣayaḥ pārthivāścānye nānā jānapadastadā ।।

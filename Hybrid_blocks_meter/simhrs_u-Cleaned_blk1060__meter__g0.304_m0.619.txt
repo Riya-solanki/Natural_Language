@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1060 | label: meter | g:0.304 m:0.619 ---
+
+atha samṛddhimān-
+punar ujjīvane bhoga-samṛddhiḥ kiyatī bhavet । 
+śivābhyām eva vijñeyam ity ayaṃ hi samṛddhimān ।।

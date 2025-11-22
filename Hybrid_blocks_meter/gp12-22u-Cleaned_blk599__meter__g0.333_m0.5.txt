@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 599 | label: meter | g:0.333 m:0.5 ---
+
+[] yatra ca pramādataḥ sā kiñcana procyāpi sakhyām api saṅkocād anyathā prakhāpayāmāsa-

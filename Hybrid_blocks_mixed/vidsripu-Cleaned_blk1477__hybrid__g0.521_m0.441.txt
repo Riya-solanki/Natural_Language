@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1477 | label: hybrid | g:0.521 m:0.441 ---
+
+paryaṅkaḥ śithilīkṛto na bhavatā siṃhāsanān notthitaṃ na krodhānaladhūmarājir iva ca bhrūvallir ullāsitā ।
+rājñāṃ tvaccaraṇāravindam atha ca śrīcandra puṣpanty amūś cañcaccārumarīcisaṃcayamucāṃ cūḍāmaṇīnāṃ rucaḥ ।।
+suvinītasya

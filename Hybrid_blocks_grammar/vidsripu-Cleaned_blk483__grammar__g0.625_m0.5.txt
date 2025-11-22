@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 483 | label: grammar | g:0.625 m:0.5 ---
+
+anyonyopamitaṃ yugaṃ nirupamaṃ te ayugmam aṅgeṣu yat so ayaṃ sikthakam āsyakāntimadhunas tanvaṅgi candras tava ।
+tvadvācāṃ svaramātrikāṃ madakalaḥ puṣkokilo ghoṣayaty abhyāsasya kim asty agocaram iti pratyāśayā mohitaḥ ।।

@@ -1,0 +1,5 @@
+--- source: visa01cu-Cleaned.txt | block: 223 | label: meter | g:0.255 m:0.801 ---
+
+atra smbogaśṛṅgārasya tiryagviṣayatvādrasābhāsaḥ ।
+evamanyat ।
+doṣāḥ punaḥ kāvye kiṃsvarūpā ?

@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 92 | label: meter | g:0.194 m:0.625 ---
+
+citiḥ pratyavamarśātmā parā vāk svarasoditā 
+svātantryam etan mukhyaṃ tad aiśvaryaṃ paramātmanaḥ ।।

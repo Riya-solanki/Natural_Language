@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3479 | label: meter | g:0.25 m:0.625 ---
+
+tasminn aśeṣaujasi sarvarūpiṇy avyaktavispaṣṭatanāv anante 
+mamācalaṃ cittam apetadoṣaṃ sadāstu viṣṇāv abhavāya bhūyaḥ ।।

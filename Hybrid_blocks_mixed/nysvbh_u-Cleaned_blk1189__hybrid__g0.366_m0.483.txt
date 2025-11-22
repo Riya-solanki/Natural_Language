@@ -1,0 +1,9 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1189 | label: hybrid | g:0.366 m:0.483 ---
+
+avayavāntarābhāvāditi, yadyapyekadeśo avayavāntarabhūtaḥ syāt tathāpyavayave avayavāntaraṃ varteta nāvayavīti anyo avayavīti।
+anyāvayavabhāvepyavṛtteḥ aavayavino naikadeśena vṛttiḥ anyāvayavābhāvāt' ityahetuḥ।
+vṛttiḥ kathamiticet ? ekasyānekatrāśrayāśritasaṃbandhalakṣaṇā prāptiḥ।
+āśrayāśritabhāvaḥ kathamiticet ? yasya yato anyatrātmalābhānupapattiḥ sa āśrayaḥ na kāraṇadravyebhyo anyatra kāryadravyamātmānaṃ labhate viparyayastu kāraṇadravyeṣviti।
+nityeṣu kathamiticet ? anityeṣu darśanāt siddham।
+nityeṣu dravyeṣu kathamāśrayāśrayibhāva iticet ? anityeṣu dravyaguṇeṣu darśanādāśrayāśrayibhāvasya nityeṣu siddhiriti।
+tasmādavayavyabhimānaḥ pratiṣidhyate niḥśreyasakāmasya nāvayavī yathā rūpādiṣu mityāsaṃkalpo na rūpādaya iti ।।

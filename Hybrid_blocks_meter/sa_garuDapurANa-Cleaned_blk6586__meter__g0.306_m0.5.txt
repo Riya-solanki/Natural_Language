@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6586 | label: meter | g:0.306 m:0.5 ---
+
+rājñāṃ yuddheṣu yajñādau deśāntaragateṣu ca ।
+bāle prete māsike ca sadyaḥ śaucaṃ vidhīyate ।।

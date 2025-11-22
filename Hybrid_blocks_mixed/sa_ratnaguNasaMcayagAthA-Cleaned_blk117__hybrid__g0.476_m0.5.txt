@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 117 | label: hybrid | g:0.476 m:0.5 ---
+
+yatha bhojanaṃ śatarasaṃ labhiyāna kaścit mārgeṣu ṣaṣṭiku labhitva sa bhojanāgryam 
+tatha bodhisattva ima pāramitāṃ labhitvā rhantabhūmi gaveṣayiṣyanti bodhim ।।

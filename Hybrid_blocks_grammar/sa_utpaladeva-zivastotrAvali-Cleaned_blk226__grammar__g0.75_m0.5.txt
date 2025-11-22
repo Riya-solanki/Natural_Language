@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 226 | label: grammar | g:0.75 m:0.5 ---
+
+mūḍho asmi duḥkhakalito asmi jarādidoṣabhīto asmi śaktirahito asmi tavāśrito asmi śambho tathā kalaya śīghram upaimi yena sarvottamāṃ dhuram apojjhitaduḥkhamārgaḥ ।।

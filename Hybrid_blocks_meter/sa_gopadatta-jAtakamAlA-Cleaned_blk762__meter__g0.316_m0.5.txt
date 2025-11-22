@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 762 | label: meter | g:0.316 m:0.5 ---
+
+saṃprāptakarmavaśitātiśayasya yasya lokā hṛdīva nivasanti kṛpāviśāle ।
+roṣas tataḥ katham uderati śuddhasattvāt padmākarād vikasitād iva citrabhānuḥ ।।

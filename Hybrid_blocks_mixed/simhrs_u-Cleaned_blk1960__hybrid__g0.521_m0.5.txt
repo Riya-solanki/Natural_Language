@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1960 | label: hybrid | g:0.521 m:0.5 ---
+
+na purīyaṃ viśālākṣī na toraṇam ime bhruvau ।
+na darpaṇam imau gaṇḍau na ca kumbhāv imau stanau ।।

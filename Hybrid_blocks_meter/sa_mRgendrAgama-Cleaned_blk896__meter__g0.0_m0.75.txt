@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 896 | label: meter | g:0.0 m:0.75 ---
+
+yaḥ prāptastapasā devair harātsvavidhipuṣṭaye b

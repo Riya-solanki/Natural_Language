@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2618 | label: meter | g:0.25 m:0.625 ---
+
+tvaṃ ca prijāpatirbhūtvā prajāḥ sṛṣṭvā caturvidhāḥ ।
+kṣīṇādhikāro dharmajñastataḥ siddhimavāpsyasi ।।

@@ -1,0 +1,7 @@
+--- source: visa01cu-Cleaned.txt | block: 22 | label: meter | g:0.352 m:0.599 ---
+
+kāvyāṅgatayetikāvyavicārakatvena tadaṅgatā ।
+caturvargā dharmārthakāmamokṣāḥ, tadrūpasya phalasya prāptirityarthaḥ ।
+kāvyasya caturvargaphalaprāpakatvaṃ darśayatirāmādivaditi ।
+pravṛttinivṛttyupadeśadvāreṇetipravṛttyupadeśena pravṛttasya dharmotpattiḥ sākṣādeva, nivṛttyupadeśena nivṛttasya dharmotpattiḥ pratibandhakaduritānutpattyā ca, dvedhāpi teṣāṃ prāpakatvam ।
+pravṛttijanyadharmāttu sākṣādevārthādayaḥ ।

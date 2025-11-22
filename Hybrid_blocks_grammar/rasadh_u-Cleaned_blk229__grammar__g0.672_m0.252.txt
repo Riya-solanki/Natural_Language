@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 229 | label: grammar | g:0.672 m:0.252 ---
+
+sarvottamasājīmaṇacatuṣkasya cūrṇaṃ sthālyāṃ kṣiptvā saṃdhyāyāṃ jalaghaṭastatra kṣepyaḥ ।।
+tataḥ prātaḥ sājījalaṃ nītāryakābasaṃtyaktvā grāhyam tathā sarvottamapāṣāṇamaṇacatuṣkacūrṇaṃ sūkṣmaṃ tathā gandhakāmalasārasya maṇaikaṃ cūrṇaṃ sūkṣmamubhayaṃ piṣṭvā ekatra ca gāḍhaṃ piṣṭvā sthālyāṃ kṣiptvā tataḥ prathamagṛhītaṃ sarjikājalamanyasyāṃ sthālyāṃ muktvālpaghaṭamānamupari kṣipet ।।
+evaṃ ca kṛte gandhakasya tailameraṇḍītailavad uparyāgacchati tataśca tailaṃ śītalībhūtaṃ satkumpake kṣepyam ।।
+iti gaṃdhakatailam ।।

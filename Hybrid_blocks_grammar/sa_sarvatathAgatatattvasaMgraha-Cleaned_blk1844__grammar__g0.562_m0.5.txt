@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1844 | label: grammar | g:0.562 m:0.5 ---
+
+atha bhagavānavalokiteśvaro bodhisatvo mahāsatvaḥ svakulamutpādya, sarvatathāgatebhya sarvasatvābhayārthaprāptyuttamasiddhivajradharmatājñānābhijñāvāptiphalahetorniryā[tya, sarvajaga]dvinayaṃ nāma mahāmaṇḍalamabhāṣat ।

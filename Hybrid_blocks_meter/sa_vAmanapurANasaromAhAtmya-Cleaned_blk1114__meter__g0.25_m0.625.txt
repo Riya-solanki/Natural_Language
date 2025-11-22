@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1114 | label: meter | g:0.25 m:0.625 ---
+
+brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrā varṇāvarāśca ye ।
+tvameva meghasaṃghāśca vidyuto asanigarjitam ।।

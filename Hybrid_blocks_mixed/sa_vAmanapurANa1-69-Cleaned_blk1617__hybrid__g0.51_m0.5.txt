@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1617 | label: hybrid | g:0.51 m:0.5 ---
+
+sa cābhyetya suraśreṣṭho dṛṣṭvā dvāre ca nandinam ।
+duṣpraveśaṃ ca taṃ matvā cintāṃ vahniḥ parāṃ gataḥ ।।

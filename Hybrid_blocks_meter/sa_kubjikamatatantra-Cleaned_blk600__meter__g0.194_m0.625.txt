@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 600 | label: meter | g:0.194 m:0.625 ---
+
+koṭis tu bhavate hy evaṃ jñātavyaṃ mantravādibhiḥ 
+soccāropāṃśubhūtas tu mānaso manavarjitaḥ ।।

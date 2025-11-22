@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1276 | label: hybrid | g:0.542 m:0.5 ---
+
+jāmadagnyaḥ mātur mātula na kiṃcid antaraṃ bhavato bhavānīvallabhasya ca ।

@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 98 | label: meter | g:0.25 m:0.5 ---
+
+yathā dīpo ghaṭāntaḥstho bāhyo naivāvabhāsate ।
+bhinne tu taddhaṭe paścād dīpajvālābhibhāsate ।।

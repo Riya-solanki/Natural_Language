@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 960 | label: meter | g:0.315 m:0.865 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+sandhyāvidhiṃ pravakṣyāmi śṛṇu rudrāghanāśanam ।
+prāṇāyāmatrayaṃ kṛtvā sandhyāsnānamupakramet ।।

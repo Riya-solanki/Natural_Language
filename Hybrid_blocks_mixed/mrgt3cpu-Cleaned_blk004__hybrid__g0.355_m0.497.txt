@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 4 | label: hybrid | g:0.355 m:0.497 ---
+
+[śaivabhedāḥ]
+deśiko mantravṛttiśca putrakaḥ samayī ca yaḥ ।
+catvāra ete śaivāḥ syur vratino avratino api vā ।

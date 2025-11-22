@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4050 | label: hybrid | g:0.5 m:0.5 ---
+
+puṣpahāsa namaste astu mahāhāsa namo astu te ।
+oṅkārastvaṃ vaṣaṭkāro vauṣaṭ tvaṃ ca svadhā sudhā ।।

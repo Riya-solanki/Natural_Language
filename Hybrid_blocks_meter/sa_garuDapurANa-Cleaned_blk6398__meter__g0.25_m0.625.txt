@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6398 | label: meter | g:0.25 m:0.625 ---
+
+tataḥ puṣpāñjaliṃ dhūpamu pahāraphalāni ca ।
+snānamantarjale caiva mārjanācamanaṃ tathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1184 | label: meter | g:0.194 m:0.625 ---
+
+atha siṃhaḥ prasenasya śarīrasyāvidūrataḥ 
+ṛkṣena nihato dṛṣṭaḥ pādair ṛkṣasya sūcitaḥ ।।

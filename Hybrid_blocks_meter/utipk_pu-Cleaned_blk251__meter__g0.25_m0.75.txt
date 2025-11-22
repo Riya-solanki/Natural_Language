@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 251 | label: meter | g:0.25 m:0.75 ---
+
+apravartitapūrvo atra kevalaṃ mūḍhatāvaśāt ।
+śaktiprakāśeneśādi- vyavahāraḥ pravartyate ।।

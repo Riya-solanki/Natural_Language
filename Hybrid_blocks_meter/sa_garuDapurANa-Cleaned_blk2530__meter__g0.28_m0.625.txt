@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2530 | label: meter | g:0.28 m:0.625 ---
+
+ruciruvāca ।
+parigraho atiduḥ khāya pāpāyā dhogatestathā ।
+bhavatyato mayā pūrvaṃna kṛto dārasaṃgrahaḥ ।।

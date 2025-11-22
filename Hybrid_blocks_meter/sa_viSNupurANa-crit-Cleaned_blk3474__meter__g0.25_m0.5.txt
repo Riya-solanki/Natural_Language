@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3474 | label: meter | g:0.25 m:0.5 ---
+
+sutātmajais tattanayaiś ca bhūyo bhūyaś ca teṣāṃ svaparigraheṇa 
+vistāram eṣyaty atiduḥkhahetuḥ parigraho vai mamatānidhānam ।।

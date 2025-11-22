@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1947 | label: meter | g:0.295 m:0.565 ---
+
+ayanasyottarasyādau makaraṃ yāti bhāskaraḥ 
+tataḥ kumbhaṃ ca mīnaṃ ca rāśe rāśyantaraṃ dvija ।।

@@ -1,0 +1,5 @@
+--- source: tsc_simu-Cleaned.txt | block: 35 | label: meter | g:0.25 m:0.695 ---
+
+vaikārikādayaḥ pūrvaṃ yathākramamudāhṛtāḥ ।
+śubhaṃ vā aśubhamūḍhau ca śubhamūḍhā aśubhamūḍhake ।।
+yathākramaṃ ca karttārastattatkarma samīritam ।

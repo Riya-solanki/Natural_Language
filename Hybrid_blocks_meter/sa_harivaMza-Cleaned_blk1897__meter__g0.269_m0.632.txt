@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1897 | label: meter | g:0.269 m:0.632 ---
+
+tadāgaccha mahābhāga saha vai mantrakāraṇāt 
+vrajāma meruśikharaṃ puraskṛtya vasuṃdharām ।। 
+etāvad uktvā rājendra brahmā lokapitāmahaḥ । pṛthivyā saha viśvātmā virarāma mahādyutiḥ । 
+bāḍham ity eva saha tair durdināmbhodanisvanaḥ 
+pratasthe durdinākāraḥ sadurdina ivācalaḥ ।।

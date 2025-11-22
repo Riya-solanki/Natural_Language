@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 617 | label: meter | g:0.26 m:0.928 ---
+
+nanu sthitāyāmapi kartṛtvaśaktau kartṛtvakāryaparihārātpuruṣārthaḥ setsyati ।
+tatparihāraśca nimittaparihārāt ।
+yathāgnerdahanaśaktiyuktasyāpi kāṣṭhaviyogāddahanakāryābhāvāt ।

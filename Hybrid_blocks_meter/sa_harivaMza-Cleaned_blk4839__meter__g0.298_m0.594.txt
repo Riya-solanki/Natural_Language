@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4839 | label: meter | g:0.298 m:0.594 ---
+
+atīva śuśubhe rūpaṃ tasya cābhyutpatiṣyataḥ 
+vainateyasya bhadraṃ te bṛṃhitaṃ haritejasā ।। 
+smṛtvā smṛtvā ca tadrūpaṃ śaṅkhacakragadābhṛtaḥ । tṛptiṃ nādyāpi govinda prāpnuyāmo hareḥ sadā । 
+athāṣṭabāhuḥ kṛṣṇas tu parvatākārasaṃnibhaḥ 
+vibabhau puṇḍarīkākṣo vikāṅkṣan bāṇasaṃkṣayam ।।

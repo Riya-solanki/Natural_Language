@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 619 | label: meter | g:0.194 m:0.75 ---
+
+puṇyair vitṛptim upayānti na bodhisattvāḥ
+kāmaiḥ pramādina iva pratipattivāmaiḥ ।
+rājyāśrayāṇy api sukhāny avadhīrya dhīrāḥ
+puṇyāya puṇyanidhayaḥ śramam āśrayante ।।

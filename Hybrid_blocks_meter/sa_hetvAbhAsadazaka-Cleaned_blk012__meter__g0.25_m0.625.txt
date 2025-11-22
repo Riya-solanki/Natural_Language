@@ -1,0 +1,4 @@
+--- source: sa_hetvAbhAsadazaka-Cleaned.txt | block: 12 | label: meter | g:0.25 m:0.625 ---
+
+koṭiliṃgapure vāsī yuvarājo mahākaviḥ ।
+hetvābhāsam udājahre daśaślokaiḥ satāṃ mude ।।

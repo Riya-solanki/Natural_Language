@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 200 | label: meter | g:0.326 m:0.5 ---
+
+he helājitabodhisattva vacasāṃ kiṃ vistaraistoyadhe nāsti tvatsadṛśaḥ paraḥ parahitādhāne gṛhītavrataḥ ।
+tṛṣyatpānthajanopakāraghaṭanāvaimukhyalabdhāyaśo bhāraprodvahane karoṣi kṛpayā sāhāyyakaṃ yanmaroḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1952 | label: meter | g:0.25 m:0.5 ---
+
+aśvibhyāṃ vā surāgryābhyāṃ sādhyair vā tridivālayaiḥ 
+marudbhir vā suraśreṣṭhaiḥ pāvakenāpi ca prabho । 
+bṛhaspatyuśanobhyāṃ vā kālena kalināpi vā ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1022 | label: meter | g:0.25 m:0.5 ---
+
+vairāgyayuktaṃ ca subhāṣitaṃ ca dharmārthakāmapratibodhanaṃ ca ।
+ekāntaramyaṃ bahusajjanānāṃ vakṣyāmi kiṃ cic chṛṇutāvadānam ।।

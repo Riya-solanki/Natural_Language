@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 175 | label: grammar | g:0.562 m:0.5 ---
+
+ekādaśīdine puṇye bhuñjate ye narādhamāḥ avalokya mukhaṃ teṣām ādityam avalokayet ।।

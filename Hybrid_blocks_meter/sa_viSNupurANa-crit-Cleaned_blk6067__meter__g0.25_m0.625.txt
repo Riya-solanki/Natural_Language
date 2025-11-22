@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6067 | label: meter | g:0.25 m:0.625 ---
+
+nāḍikābhyām atha dvābhyāṃ muhūrto dvijasattama 
+ahorātraṃ muhūrtās tu triṃśan māso dinais tathā ।।

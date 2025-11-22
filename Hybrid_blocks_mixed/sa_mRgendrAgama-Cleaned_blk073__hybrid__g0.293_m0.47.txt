@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 73 | label: hybrid | g:0.293 m:0.47 ---
+
+itthaṃ śaktiḥ kurvatī dehakṛtyaṃ dehābhāvāducyate dehaśabdaiḥ 
+tasyā bhedā ye api vāmādayaḥ syus te api proktāḥ kṛtyabhedena sadbhiḥ ।।

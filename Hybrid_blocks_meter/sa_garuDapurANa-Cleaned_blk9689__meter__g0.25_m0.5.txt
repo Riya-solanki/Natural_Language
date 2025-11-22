@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9689 | label: meter | g:0.25 m:0.5 ---
+
+antreṣu nālakaṃ dadyādbālakaṃ prāṇa eva ca ।
+vasāyīṃ medakaṃ dadyādgomūtreṇa tu mūtrakam ।।

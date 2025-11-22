@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1311 | label: grammar | g:0.75 m:0.5 ---
+
+atha vajrakulaguhyadharmamudrā bhavanti । pha ṭṭaḥ । śa ṭṭaḥ । ma ṭṭaḥ । sa ṭṭaḥ । ra ṭṭaḥ । ta ṭṭaḥ । ghṛ ṭṭaḥ । ha ṭṭaḥ । pa ṭṭaḥ । tra ṭṭaḥ । ka ṭṭaḥ । dha ṭṭaḥ । ku ṭṭaḥ । ri ṭṭaḥ । kha ṭṭaḥ । va ṭṭaḥ ।।

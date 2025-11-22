@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3626 | label: meter | g:0.25 m:0.625 ---
+
+prauṣṭhapadyādvayaṃ pārśve kukṣibhyāṃ revatī sthitā ।
+uraḥsaṃsthā tvanurādhā śraviṣṭhā pṛṣṭhasaṃsthitā ।।

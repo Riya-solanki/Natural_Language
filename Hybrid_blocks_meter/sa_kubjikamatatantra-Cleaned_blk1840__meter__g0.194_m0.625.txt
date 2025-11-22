@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1840 | label: meter | g:0.194 m:0.625 ---
+
+kathayāmi varārohe padārthārthapadaṃ yathā 
+siddhamantropadeśo ayaṃ prakaṭārthaṃ vadāmi te ।।

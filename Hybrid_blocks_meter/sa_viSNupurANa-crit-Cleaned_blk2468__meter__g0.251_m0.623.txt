@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2468 | label: meter | g:0.251 m:0.623 ---
+
+sutrāmāṇaḥ sukarmāṇaḥ sudharmāṇas tathā surāḥ 
+trayas triṃśadvibhedās te devānāṃ ye tu vai gaṇāḥ ।।

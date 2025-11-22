@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 161 | label: meter | g:0.028 m:0.5 ---
+
+[] atha tatra janānāṃ vimarśaḥ,
+harer eṣā prāptir yadi bhavati nidrāvakalitā
+tadā śoko' py eṣa svayam ayati tatraiva tulanām ।
+asau jāgrad-bhūtā sphurati yadi vā tarhi nitarām
+abhīṣṭaṃ sampannaṃ katham api na śarma-pratihatiḥ ।। [śikhariṇī]

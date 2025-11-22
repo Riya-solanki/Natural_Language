@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 127 | label: meter | g:0.316 m:0.5 ---
+
+bhavāvaśiṣṭāḥ kila sapta jātayo bhayaṃ na te yena punarbhavāśrayam ।
+bhavānuṣaṅgo apy aśucer vivṛjyate narair vidagdhābharaṇānulepanaiḥ ।।

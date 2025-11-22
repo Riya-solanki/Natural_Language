@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1140 | label: grammar | g:0.559 m:0.432 ---
+
+śramaparigatair vistīrṇaśrīr asīti payaḥ paraṃ katipayam api tvatto asmābhiḥ samudra samīhitam ।
+kim asi nitarām utkṣubdhormiḥ prasīda namo astu te diśi diśi śivāḥ santy asmākaṃ śataṃ kamalākarāḥ ।।
+acalasyaitau

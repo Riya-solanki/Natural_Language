@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 732 | label: grammar | g:0.548 m:0.375 ---
+
+acaḥ parasminpūrvavidhau ।।
+alvidhyarthamidam । paranimitto ajādeśaḥ sthānivat syātsthāni bhūtādacaḥ pūrvatvena dṛṣṭasya vidhau kartavye । iti sthānivatvānnopadhāvṛddhiḥ । aglopitvāddīrghasanvadbhāvau na ।।

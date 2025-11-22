@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3032 | label: meter | g:0.306 m:0.625 ---
+
+bhāvaṃstridevastriyugastridharmā tripuṣkaraścāsi vibho trinetra ।
+trayyāruṇistritivyayātman punīhi māṃ tvāṃ śaraṇaṃ gato asmi ।।

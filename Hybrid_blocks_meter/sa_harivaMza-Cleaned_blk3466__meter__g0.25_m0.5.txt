@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3466 | label: meter | g:0.25 m:0.5 ---
+
+etan me kṛṣṇa vijñāpyaṃ sneho atra mama yujyatām 
+prāpnotu sugatiṃ tatra kṛpaṇaḥ paścimāṃ kriyām ।।

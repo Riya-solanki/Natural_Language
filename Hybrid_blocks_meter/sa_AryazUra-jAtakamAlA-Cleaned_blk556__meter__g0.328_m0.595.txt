@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 556 | label: meter | g:0.328 m:0.595 ---
+
+chāyātaroḥ svāduphalapradasya cchedārthamāgūrṇaparaśvadhānām ।
+dhātrī na lajjāṃ yadupaiti bhūmirvyaktaṃ tadasyā hatacetanatvam ।।

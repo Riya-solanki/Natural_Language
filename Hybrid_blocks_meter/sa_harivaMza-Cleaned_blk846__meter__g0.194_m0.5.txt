@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 846 | label: meter | g:0.194 m:0.5 ---
+
+hotāsya bhagavān atrir adhvaryur bhagavān bhṛguḥ 
+hiraṇyagarbhaś codgātā brahmā brahmātvam eyivān ।।

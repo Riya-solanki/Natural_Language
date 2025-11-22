@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9014 | label: meter | g:0.306 m:0.5 ---
+
+saṃsāre sādhu me nātha brūhi kṛtyaṃ janārdana ।
+yathā kāryā naraiḥ samyak kriyā caivaurdhvadaihikī ।।

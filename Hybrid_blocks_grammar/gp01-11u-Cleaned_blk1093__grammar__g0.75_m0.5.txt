@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1093 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha gahanaṃ gāhamānā maṇi-jāta-rūpābhyāṃ suṣṭhu jāta-rūpā api bālāḥ phala-pravālādibhir alaṅkṛtam ātmānaṃ kṛtavantaḥ, yathā nikāyye duryāca-kāca-guñjā-puñjam apy upayuñjate sma । nahi vilāsa-bahulatākulānām idaṃ na tat tulam iti vicāraḥ sañcarati । kārpaṇyam eva khalu paṇyaṃ gaṇyatāṃ nayati, vilāsitā punar dṛśyatām eva parāmṛśya hṛṣyatīti ।

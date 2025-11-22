@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 205 | label: hybrid | g:0.446 m:0.455 ---
+
+FN bhūtapṛthivīśarīrahṛdayavākprāṇa iti ṣaṭprakārā gāyatryākhyasya brahmaṇaḥ śrūyante ।
+suṣayaśchidrāṇi ।

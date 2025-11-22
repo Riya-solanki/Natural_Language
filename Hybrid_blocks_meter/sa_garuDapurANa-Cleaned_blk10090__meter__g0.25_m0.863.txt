@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10090 | label: meter | g:0.25 m:0.863 ---
+
+papracchuste sukhāsīnaṃ naimiṣāraṇyavāsinaḥ ।
+ṛṣaya ūcuḥ ।
+vayaṃ tvatithayaḥ prāptāstvātitheyosi suvrata ।।

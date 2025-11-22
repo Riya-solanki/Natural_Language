@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1240 | label: meter | g:0.272 m:0.845 ---
+
+tāneva devatānāṃ ca pūrvamānena kārayet ।
+caturaśrāyatāstattra catuṣkoṇasamanvitāḥ ।।

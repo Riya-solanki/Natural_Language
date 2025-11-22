@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 723 | label: meter | g:0.25 m:0.5 ---
+
+teṣāṃ pathi kṣudhārtānāṃ bālyān mohāc ca bhārata 
+krūrā buddhiḥ samabhavat tāṃ gāṃ vai hiṃsituṃ tadā ।।

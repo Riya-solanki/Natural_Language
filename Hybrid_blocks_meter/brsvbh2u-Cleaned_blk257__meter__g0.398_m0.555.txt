@@ -1,0 +1,5 @@
+--- source: brsvbh2u-Cleaned.txt | block: 257 | label: meter | g:0.398 m:0.555 ---
+
+nanu ana cāsya kaścijjanitā'ityātmanaḥ sato akāraṇatvaśruteḥ kathamutpattyāśaṅkā ।
+naca vacanamadṛṣṭvā pūrvaḥ pakṣaḥ iti yuktam, adhītavedasya brahmajijñāsādhikārādarśanānupapatterata āha-viyatpavanayoriti ।
+yathāhi viyatpavanayoramṛtatvānastamayatvaśrutī śrutyantaravirodhādāpekṣikatvena nīte ।

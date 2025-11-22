@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 999 | label: grammar | g:0.625 m:0.5 ---
+
+kharoṣṭrau vāhanaṃ yeṣāṃ ityatra kharoṣṭrāviti prayogo na yuktaḥ । gavāśvaprabhṛtiṣu uṣṭrakharam iti pāṭhāt ।।

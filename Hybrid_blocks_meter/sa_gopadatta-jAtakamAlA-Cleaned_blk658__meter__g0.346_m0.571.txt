@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 658 | label: meter | g:0.346 m:0.571 ---
+
+vinā śramais tuccham asāram adhruvaṃ sukhaṃ na kāmāśrayam apy avāpyate ।
+aśeṣalokatrayasaṃpadāspadaṃ padaṃ kim aṅgāpratimasvayaṃbhuvāṃ ।।

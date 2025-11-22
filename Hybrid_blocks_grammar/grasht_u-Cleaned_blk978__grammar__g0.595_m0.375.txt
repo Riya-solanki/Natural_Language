@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 978 | label: grammar | g:0.595 m:0.375 ---
+
+abhrakayogamāha niścandrikamityādi ।।
+ghanaṃ niścandrikamapi śuddhaṃ candrikārahitamapi nirdoṣaṃ viḍaṅgatriphalājyamadhurasamāyuktaṃ kṛmighnaharītakīvibhītakāmalakaghṛtakṣaudramilitaṃ pratidivasaṃ pratidinaṃ ekapalapramāṇaṃ sarvaṃ bhuktvā vidhinā śuddhaśarīravidhānena kṣīrāśano bhavet kṣīreṇa saha śālyodanāśanaṃ samācaredityarthaḥ ।।

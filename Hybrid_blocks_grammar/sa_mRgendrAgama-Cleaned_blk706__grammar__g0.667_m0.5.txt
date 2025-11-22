@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 706 | label: grammar | g:0.667 m:0.5 ---
+
+putrakaḥ samayī ca [prātaḥ] brāhme muhūrte utthāya kṛtāhnikaḥ kṛtapraṇāmo [guruṇā anujñātaḥ] gurvanujñātaḥ [kṛtyam] karaṇīyam [ācaret] kuryāt।।

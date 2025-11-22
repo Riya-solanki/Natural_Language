@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 214 | label: grammar | g:0.565 m:0.37 ---
+
+yadyucyeta- siddhe kilāpauruṣeyatve vedāntānāmanapekṣatayā prāmāṇyaṃ sidhyet; tadeva tu bhūtārthatvena na sidhyati; bhūtārthasya śabdānapekṣeṇa puruṣeṇa mānāntarataḥ śakyajñānatvādbuddhipūrvaṃ viracanopapatteḥ; vākyatvādiliṅgakasya vedapauruṣeyatvānumānasyāpratyūhamutpatteḥ ।
+tasmātpauruṣeyatvena sāpekṣatvaṃ durvāram, na tu bhūtārthatvena ।
+kāryārthatve tu kāryasyāpūrvasya mānāntarāgocaratayā atyantānanubhūtapūrvasya tattvena samāropeṇa vā puruṣabuddhāvasamārohāt tadarthānāṃ vedāntānāmaśakyaracanatayā pauruṣeyatvābhāvādanapekṣaṃ pramāṇatvaṃ sidhyatīti prāmāṇyāya vedāntānāmapi kāryaparatvamātiṣṭhāmahe ।

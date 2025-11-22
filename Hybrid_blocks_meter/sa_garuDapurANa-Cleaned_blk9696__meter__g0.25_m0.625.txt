@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9696 | label: meter | g:0.25 m:0.625 ---
+
+ṛddhivṛddhī bhujau dvau ca cakṣuṣośca kapardakau ।
+sindūraṃ netrakoṇe ca tāmbūlādyupahārakaiḥ ।।

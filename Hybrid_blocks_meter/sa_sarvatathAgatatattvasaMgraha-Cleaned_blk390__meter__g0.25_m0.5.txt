@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 390 | label: meter | g:0.25 m:0.5 ---
+
+taṃ dṛṣṭvā jñānasattvaṃ tu svaśarīre prabhāvayet ।
+ākṛṣya praveśya badhvā vaśīkṛtvā ca sādhayet ।।

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10982 | label: meter | g:0.25 m:0.571 ---
+
+ato rocananāmāsau marudaṃśaḥ prakīrtitaḥ rāmāvatāre hanumānrāmakāryārthasādhakaḥ ।
+sa eva bhīmasenastu jāto bhūmyāṃ mahābalaḥ ।।
+kṛṣṇāvatāre vijñeyo marudaṃśaḥ prakīrtitaḥ ।।
+maṇimānnāma daityastu saṃrākhyo bhaviṣyati ।
+sarveṣāṃ saṃkaraṃ yastu kariṣyati na saṃśayaḥ ।।

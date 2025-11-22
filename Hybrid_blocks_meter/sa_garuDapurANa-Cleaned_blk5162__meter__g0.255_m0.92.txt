@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5162 | label: meter | g:0.255 m:0.92 ---
+
+dhātrīnimbaphalaṃ tadvadgomūtreṇa ca citrakam ।
+vāsāmṛtāparpaṭikānimbabhūnimbamārkaraiḥ ।
+triphalākulatthaiḥ kvāthaḥ sakṣaudraścāmlapittahā ।।

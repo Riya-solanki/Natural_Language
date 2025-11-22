@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1307 | label: grammar | g:0.666 m:0.352 ---
+
+idaṃ tāvadayaṃ pṛṣṭo vaktumarhati atha ke pradīpamupādadate kimarthaṃ ceti ?, didṛkṣamāṇā dṛśyadarśanārthamiti । atha pradīpaṃ didṛkṣamāṇāḥ pradīpāntaraṃ kasmānnopādadate ?, antareṇāpi pradīpāntaraṃ dṛśyate pradīpastatra pradīpadarśanārthaṃ pradīpopādānaṃ nirarthakam।
+atha dṛṣṭāntaḥ kimarthamucyate iti ? aprajñātasya jñāpanārthamiti।
+atha dṛṣṭānte kāraṇādeśaḥ kimarthaṃ mṛgyate ?, yadi prajñāpanārtham ?, prajñāto dṛṣṭāntaḥ sa khalu"laukikaparīkṣakāṇāṃ yasminnarthe buddhisāmyaṃ sa dṛṣṭāntaḥ "iti tatprajñāpanārthaḥkāraṇāpadeśo nirarthaka iti prasaṅgasamasyottaram ।।

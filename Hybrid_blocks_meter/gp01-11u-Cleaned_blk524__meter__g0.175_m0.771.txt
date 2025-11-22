@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 524 | label: meter | g:0.175 m:0.771 ---
+
+[] dūta uvāca,
+"śyāmāṣṭapāṇi-pariveṣṭita-pārśva-yugmā
+cakrādi-śastra-valitā khaga-siṃha-vāhā ।
+devādibhiḥ pariṇuta-prasarat-prabhāvā
+sarvaiḥ samunnata-mukhaiḥ parito vyaloki ।। [vasanta] iti yādṛśam ।"

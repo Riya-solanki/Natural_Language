@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 466 | label: meter | g:0.25 m:0.5 ---
+
+kapilānāṃ sahasrasya phalaṃ vindati mānavaḥ ।
+tatra sthitaṃ mahādevaṃ kāpilaṃ vapurāsthitam ।।

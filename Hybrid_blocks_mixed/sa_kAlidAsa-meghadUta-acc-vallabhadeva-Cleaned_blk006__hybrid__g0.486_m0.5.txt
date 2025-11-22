@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 6 | label: hybrid | g:0.486 m:0.5 ---
+
+dhūmajyotiḥsalilamarutāṃ saṃnipātaḥ kva meghaḥ saṃdeśārthāḥ kva paṭukaraṇaiḥ prāṇibhiḥ prāpaṇīyāḥ 
+ity autsukyād aparigaṇayan guhyakas taṃ yayāce kāmārtā hi praṇayakṛpaṇāś cetanācetaneṣu ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5592 | label: meter | g:0.26 m:0.681 ---
+
+gorocanā mīnapittamābhyāñca kṛtavartikaḥ ।
+yaḥ pumāṃstilakaṃ kuryādvāmahastakaniṣṭhayā ।
+sa karoti vaśe sarvaṃ trailokyaṃ nātra saṃśayaḥ ।।

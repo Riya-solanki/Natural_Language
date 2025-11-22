@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1719 | label: meter | g:0.102 m:0.695 ---
+
+brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś caiva yajanti tam 
+bhagavantaṃ samastasya viṣṇum ātmānam avyayam 
+vāyubhūtaṃ makhaśreṣṭhair yajvino yajñasaṃsthitam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9538 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ vṛttasya dahyante pāpānyuccāvacāni ca ।
+mṛto muktimavāpnoti yathā sarve maharṣayaḥ ।।

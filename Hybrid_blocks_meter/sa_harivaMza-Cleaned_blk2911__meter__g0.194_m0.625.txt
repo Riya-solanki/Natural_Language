@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2911 | label: meter | g:0.194 m:0.625 ---
+
+vyāvartamānaṃ sumahad bhavadbhiḥ khyātakīrtibhiḥ 
+dhṛtaṃ yadukulaṃ vīrair bhūtalaṃ parvatair iva ।।

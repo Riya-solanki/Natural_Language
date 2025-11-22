@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1493 | label: grammar | g:0.649 m:0.44 ---
+
+prabhur asi vayaṃ mālākāravratavyavasāyino vacanakusumaṃ tenāsmābhis tavādaraḍhaukitam ।
+yadi tad aguṇaṃ kaṇṭhe mā dhās tathorasi mā kṛthā navam iti kiyat karṇe dhehi kṣaṇaṃ phalatu śramaḥ ।।

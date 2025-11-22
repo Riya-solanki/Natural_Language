@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 824 | label: meter | g:0.306 m:0.5 ---
+
+tato bhūrabhavat tasmād bhuva ityaparaḥ smṛtaḥ ।
+svaḥ śabdaśca tṛtīyo abhad bhūrbhuvaḥ sveti saṃjñitaḥ ।।

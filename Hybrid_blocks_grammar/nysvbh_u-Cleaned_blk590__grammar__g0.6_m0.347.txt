@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 590 | label: grammar | g:0.6 m:0.347 ---
+
+ākṛtiḥ padārthaḥ, kasmāt ? padapekṣatvāt sattvavyavasthānasiddheḥ ।
+sattvāvayavānāṃ tadavayavānāṃ ca niyato vyūha ākṛtiḥ tasyāṃ gṛhyamāṇāyāṃ sattvavyavasthānaṃ sidhyati aayaṃ gauḥ' aayamaśvaḥ' iti nāgṛhyamāṇāyām yasya grahaṇāt sattvavyavasthānaṃ sidhyati taṃ śabdo abhidhātumarhati ।
+so asyārtha iti ।। naitadupapadyate yasya jātyā yogastadatra jātiviśiṣṭamabhidhīyate agauḥ' iti na cāvayavavyūhasya jātyā yogaḥ।
+kasya tarhi ? niyatāvayavavyūhasya dravyasya, tasmād nākṛtiḥ padārthaḥ ।।

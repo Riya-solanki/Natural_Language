@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9122 | label: hybrid | g:0.5 m:0.5 ---
+
+vayamāpo vayaṃ pṛthvī vayaṃ darbhā vayaṃ tilāḥ ।
+vayaṃ gāvo vayaṃ rājā vayaṃ vāyurvayaṃ prajāḥ ।।

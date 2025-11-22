@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 391 | label: meter | g:0.194 m:0.75 ---
+
+sparśanaṃ cāvalokaṃ ca sambhāṣaṃ cātmadarśanam 
+svayamāveśanaṃ caiva saṅkrāntiḥ pañcalakṣaṇā ।।

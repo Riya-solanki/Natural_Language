@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2014 | label: meter | g:0.194 m:0.625 ---
+
+te asaṃprayogāl lobhasya maithunasya ca varjanāt 
+icchādveṣāpravṛttyā ca bhūtārambhavivarjanāt ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 479 | label: meter | g:0.194 m:0.5 ---
+
+sattvādayo na santīśe yatra ca prākṛtā guṇāḥ 
+sa śuddhaḥ sarvaśuddhebhyaḥ pumān ādyaḥ prasīdatu ।।

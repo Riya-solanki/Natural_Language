@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3233 | label: meter | g:0.25 m:0.5 ---
+
+yāv etau mama saṃvṛddhau vraje gopālakāv ubhau 
+saṃkarṣaṇaś ca kṛṣṇaś ca bālāv api jitaśramau ।।

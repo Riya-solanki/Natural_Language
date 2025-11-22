@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2488 | label: meter | g:0.25 m:0.625 ---
+
+athāsāṃ mudrā bhavanti ।
+oṃ ratnavṛṣṭi sādhaya mahāmaṇi hūṃ ।।

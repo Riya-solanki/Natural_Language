@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 13 | label: meter | g:0.306 m:0.5 ---
+
+tasya svayaṃ hi sphurati prādurbhāvaḥ sa śāṃkaraḥ ko api ।
+kathamanyathā hi śamayati vilasanmātrācca pāparujam ।।

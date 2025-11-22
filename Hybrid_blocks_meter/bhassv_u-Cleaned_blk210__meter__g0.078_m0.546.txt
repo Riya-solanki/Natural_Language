@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 210 | label: meter | g:0.078 m:0.546 ---
+
+{rājā} - aho vicitratā kusumasya vasantaka 
+{vāsavadattā} -
+{ātmagatam} vasantaasaṅkittaṇeṇa ahaṃ puṇa jāṇāmi ujjaiṇīe vattāmi tti 
+[vasantakasaṅkīrtanenāhaṃ punar jānāmi ujjayinyāṃ varta iti । ]

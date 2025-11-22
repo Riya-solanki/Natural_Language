@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 107 | label: grammar | g:0.604 m:0.5 ---
+
+FN yatra suptau puṃsaḥ svapitītyetannāma bhavati tadā puruṣaḥ satā saṃpannastenaikībhūta iti yojanā ।

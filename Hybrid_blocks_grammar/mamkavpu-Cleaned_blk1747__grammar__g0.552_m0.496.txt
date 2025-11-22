@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1747 | label: grammar | g:0.552 m:0.496 ---
+
+atra acetanasya prabhoraprastutaviśiṣṭasāmānyadvāreṇābhivyaktau na yuktameva punaḥ kathanam ।।
+tadeta alaṅkāradoṣāḥ yathāsaṃbhāvinonye apyevañjātīyakāḥ pūrvoktayaiva doṣajātyā antarbhāvitāḥ na pṛthag pratipādanamarhantīti saṃpūrṇamidaṃ kāvyalakṣaṇam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2253 | label: meter | g:0.306 m:0.625 ---
+
+japtavyaṃ śatarūdrīyaṃ ṛgvedoktaiḥ padakramaiḥ ।
+evaṃ kṛte tu deveśaṃ paśyadhvaṃ netareṇa ca ।।

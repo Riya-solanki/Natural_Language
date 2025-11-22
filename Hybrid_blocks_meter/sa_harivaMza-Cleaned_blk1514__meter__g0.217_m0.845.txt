@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1514 | label: meter | g:0.217 m:0.845 ---
+
+sūryaḥ saptāśvayuktena rathenāmbaragāminā 
+śriyā jājvalyamānena dīpyamānaiś ca raśmibhiḥ ।।

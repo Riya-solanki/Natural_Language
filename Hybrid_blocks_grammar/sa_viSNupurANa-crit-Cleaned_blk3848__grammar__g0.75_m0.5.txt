@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3848 | label: grammar | g:0.75 m:0.5 ---
+
+teṣāṃ ca pradyumnacārudeṣṇasāmbādayas trayodaśa pradhānāḥ । pradyumno api rukmiṇas tanayāṃ kakudvatīṃ nāmopayeme । tasyām asyāniruddho jajñe । aniruddho api rukmiṇa eva pautrīṃ subhadrāṃ nāmopayeme । tasyām asya vajro abhavat । vajrasya pratibāhus tasyāpi sucāruḥ । evam anekaśatasāhasrapuruṣasaṃkhyasya yadukulasya puruṣasaṃkhyā varṣaśatair api jñātuṃ na śakyate ।।

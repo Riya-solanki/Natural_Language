@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 599 | label: grammar | g:0.516 m:0.346 ---
+
+sarve dvandveṣu satvaṃ prati dvandveṣu milanti ekībhavanti lohāni iti śeṣaḥ ।।
+etaiḥ kaiḥ ūrṇādibhiḥ ।।
+ūrṇā pratītā ṭaṅkaṇaṃ saubhāgyaṃ girijatu śilājatu karṇākṣimalaṃ manuṣyasya indragopako jīvaviśeṣaḥ karkaṭakaścakulīraḥ syātkulīraḥ karkaṭakaḥ ityamaraḥ etaiḥ ।।
+kiṃviśiṣṭaiḥ nārīpayasā strīdugdhena piṣṭaiḥ kalkitaiḥ trayo'pi dvandvamelāpakayogā iti ।।

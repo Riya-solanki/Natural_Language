@@ -1,0 +1,3 @@
+--- source: sa_prajJApAramitAhRdayasUtra-Cleaned.txt | block: 4 | label: hybrid | g:0.5 m:0.5 ---
+
+iha śāriputra rūpaṃ śūnyatā, śūnyat'aiva rūpaṃ, rūpān na pṛthak śūnyatā, śūnyatāyā na pṛthag rūpaṃ, yad rūpaṃ sā śūnyatā, yā śūnyatā tad rūpaṃ evam eva vedanā-saṃjñā-saṃskārā-vijñānam

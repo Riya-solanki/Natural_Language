@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 37 | label: grammar | g:0.569 m:0.5 ---
+
+yasyāsīt prapitāmaho guṇanidher devaḥ purāṇo jagat sṛṣṭā yasya pitāmaho matimatāṃ śreṣṭho vasiṣṭhaḥ pitā 
+śaktir yasya jagaddhitāya bhagavān vyāso hariḥ putratāṃ yāto yasya parāśaraṃ tam atulam vandāmahe nirmalam ।।

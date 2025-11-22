@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2881 | label: meter | g:0.25 m:0.667 ---
+
+sendrāśanir ivāmbhodo nardamāno mahāvṛṣaḥ 
+cakāra nirvṛṣaṃ goṣṭhaṃ nirvatsaśiśupuṃgavam ।। 
+tam ārād abhidhāvantaṃ nardamānaṃ mahāvṛṣam । 
+tālaśabdena taṃ kṛṣṇaḥ siṃhanādaiś ca mohayan 
+abhyadhāvata govindo daityaṃ vṛṣabharūpiṇam ।।

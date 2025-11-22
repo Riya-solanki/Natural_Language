@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5653 | label: meter | g:0.306 m:0.625 ---
+
+bālamūlaṃ meṣaśṛṅgīmūlaṃ vā vārigharṣitam ।
+tena liptaṃ ciraṃ jātaṃ vraṇaṃ nāḍyāḥ praśāmyati ।।

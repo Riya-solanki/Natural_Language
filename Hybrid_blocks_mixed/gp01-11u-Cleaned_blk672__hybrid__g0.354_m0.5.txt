@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 672 | label: hybrid | g:0.354 m:0.5 ---
+
+[] "tad evaṃ bhavadbhiḥ sva-devena tulya-guṇiny asmiṃs tan-nāmāny eva kāmaṃ gaṇanīyānīti saṅkṣepeṇārtha-nikṣepaḥ ।"

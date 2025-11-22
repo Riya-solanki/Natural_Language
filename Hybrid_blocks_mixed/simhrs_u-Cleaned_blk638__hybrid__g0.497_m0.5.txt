@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 638 | label: hybrid | g:0.497 m:0.5 ---
+
+(eṣyati so' pi proṣitaḥ ahaṃ ca kupyeyaṃ so' py anuneṣyati ।
+iti cintayantī vadhūr dṛṣṭvā priyaṃ na kim api saṃsmarati ।।)

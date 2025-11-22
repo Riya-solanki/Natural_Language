@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 178 | label: grammar | g:0.646 m:0.5 ---
+
+pitā vā yadi vā putro bhāryā vā api suhṛjjanaḥ padmanābhadine bhuṅkte nigrāhyo dasyuvad bhavet ।।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 533 | label: meter | g:0.35 m:0.5 ---
+
+tāni śrāddhāni dattāni kathaṃ gacchanty atho pitṝn 
+kathaṃ ca śaktās te dātuṃ nirayasthāḥ phalaṃ punaḥ 
+ke vā te pitaro nye sma kān yajāmo vayaṃ punaḥ ।। 
+ke ca lokā na jānīmo vayaṃ punar upasthitāḥ । 
+devā api pitṝn svarge yajantīti ca naḥ śrutaṃ 
+etad icchāmy ahaṃ śrotuṃ vistareṇa mahādyute ।।

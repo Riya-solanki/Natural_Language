@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 245 | label: hybrid | g:0.319 m:0.45 ---
+
+kalahāvivādupagatā yada bodhisattvā bhonti parasparaviruddhaka ruṣṭacittāḥ 
+tada māra tuṣṭu bhavatī paramaṃ udagro ubhi eti dūra bhaviṣyanti jināna jñāne ।।

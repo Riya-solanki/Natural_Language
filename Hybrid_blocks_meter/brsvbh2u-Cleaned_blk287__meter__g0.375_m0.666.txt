@@ -1,0 +1,6 @@
+--- source: brsvbh2u-Cleaned.txt | block: 287 | label: meter | g:0.375 m:0.666 ---
+
+svaśabdaṃ vibhajate-sākṣādeveti ।
+unmānaṃ vibhajate-tathonmānamapīti ।
+uddhṛtya mānamunmānaṃ bālāgrāduddhṛtaḥ śatatamo bhāgastasmādapi śatatamāduddhṛtaḥ śatatamo bhāga iti tadidamunmānam ।
+ārāgrāduddhṛtaṃ mānamārāgramātramiti ।।

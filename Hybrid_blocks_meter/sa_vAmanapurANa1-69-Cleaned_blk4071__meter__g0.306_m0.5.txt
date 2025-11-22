@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4071 | label: meter | g:0.306 m:0.5 ---
+
+etat pavitraṃ tripuradhnabhāṣitaṃ paṭhan naro viṣṇuparo maharṣe ।
+vimuktapāpo hyupaśāntamūrti saṃpūjyate devavaraiḥ prasiddhaiḥ ।।

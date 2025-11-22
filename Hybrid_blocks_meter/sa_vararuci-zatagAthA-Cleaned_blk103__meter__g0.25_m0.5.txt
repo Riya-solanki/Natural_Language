@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 103 | label: meter | g:0.25 m:0.5 ---
+
+pratīkṣate kriyāṇāṃ na pūrti cāpūrtimantakaḥ ।
+śvastanaṃ cādya kuryācca pūrva madhyāhnikaṃ varam ।।

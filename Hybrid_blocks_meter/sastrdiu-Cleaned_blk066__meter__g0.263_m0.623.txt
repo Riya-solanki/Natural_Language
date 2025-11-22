@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 66 | label: meter | g:0.263 m:0.623 ---
+
+bhāvanābalajaṃ tu yogipratyakṣaṃ bhaviṣyatyapi dharme samarthamiti manorathamātram ।
+bhāvanā hyanubhūtagocaraniyatānubūteṣveva niścayarūpāṃ smṛtiṃ janayet ।
+naca sātra pramāṇaṃ smṛtitvādeva, nitarāṃ pratyakṣamanindriyajatvāt ।
+nendriyajatvaṃ pratyakṣalakṣaṇamapitu kalpanāpoḍhatvamiticet, sutarāṃ dharmasyāpratyakṣatvaṃ phalasādhanarūpasyāvikalpagrahaṇasaṃbhavāt ।
+tasmādanimittaṃ pratyakṣam ।
+tatpūrvakatvāccānumānādyapi ।।

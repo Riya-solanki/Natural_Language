@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 205 | label: meter | g:0.25 m:0.52 ---
+
+ānarthakyaṃca aprayojanavattvam, sāpekṣatayā pramānutpādakatvaṃ cānuvādakatvāditi ।
+ataḥityādi vāntaṃ grahaṇakavākyam ।
+asya vibhāgabhāṣyaṃ na hiityādi upapannā vāityantam ।

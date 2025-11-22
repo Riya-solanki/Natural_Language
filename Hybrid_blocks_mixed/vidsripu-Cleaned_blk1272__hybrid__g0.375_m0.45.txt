@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1272 | label: hybrid | g:0.375 m:0.45 ---
+
+teṣāṃ tṛṣaḥ pariṇamanti na yatra tatra nānyasya vārivibhavo api ca tādṛg asti ।
+viśvopakārajananīvyavasāyasiddhim ambhomucāṃ jaladhayo yadi pūrayanti ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11495 | label: meter | g:0.306 m:0.5 ---
+
+ādyadvāraṃ śrīnivāsasya devi samyak smaredvijayaṃ vai jayaṃ ca ।
+dakṣādhvare śrīnivāsasya devi caṇḍaṃ pracaṇḍaṃ saṃsmaretsamyageva ।।

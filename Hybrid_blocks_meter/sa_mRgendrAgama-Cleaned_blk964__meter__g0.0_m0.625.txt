@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 964 | label: meter | g:0.0 m:0.625 ---
+
+jayaḥ praṇayanādīnāṃ vṛttīnāṃ yogino bhavet 
+jitapraṇayano dhatte svecchayā dehamātmanaḥ ।। MT

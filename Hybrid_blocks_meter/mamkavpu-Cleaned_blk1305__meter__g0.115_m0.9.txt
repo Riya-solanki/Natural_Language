@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1305 | label: meter | g:0.115 m:0.9 ---
+
+{bata sakhi kiyadetat paśya vairaṃ smarasya
+priyavirahakṛśesmin rāgiloke tathā hi ।
+upavanasahakārodbhāsibhṛṅgacchalena
+prativiśikhamanenoṭṭaṅkitaṃ kālakūṭam ।।}

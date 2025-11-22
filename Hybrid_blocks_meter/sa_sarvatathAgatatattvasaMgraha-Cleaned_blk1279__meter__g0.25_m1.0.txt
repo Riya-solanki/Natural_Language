@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1279 | label: meter | g:0.25 m:1.0 ---
+
+vajrakrodhāṅgulī samyaguttānamukhasandhitā ।
+parivartya tathoṣṇīṣe tarjanī mukhasaṃsthitā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3320 | label: meter | g:0.194 m:0.5 ---
+
+ahaṃ bālo mahān andhro vapuṣā parvatopamaḥ 
+yuddhaṃ mama sahānena rocate bāhuśālinā ।।

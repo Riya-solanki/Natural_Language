@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 50 | label: meter | g:0.25 m:0.625 ---
+
+ardhajalabharaḥ kumbho mūrdhni yatnena dhāryate ।
+krudhyanti durjanā nūnaṃ satkāreṇātisevayā ।।

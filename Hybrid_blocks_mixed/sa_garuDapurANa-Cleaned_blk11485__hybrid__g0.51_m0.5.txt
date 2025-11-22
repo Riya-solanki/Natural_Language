@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11485 | label: hybrid | g:0.51 m:0.5 ---
+
+vyāpto hariścetkathamatra vai sakhe na dṛśyate jalarūpī nṛsiṃhaḥ ।
+sa evamukto dānavānāṃ sutaiśca tuṣṭāva viṣṇuṃ paramādareṇa ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 920 | label: meter | g:0.022 m:0.845 ---
+
+tadātmavattvaṃ yogitvaṃ jitākṣasyopapadyate 
+prāṇāyāmādyanuṣṭhānāj jitākṣatvaṃ śanaiḥ śanaiḥ ।। MT

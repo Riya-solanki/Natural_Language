@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1763 | label: meter | g:0.306 m:0.625 ---
+
+kaniṣṭhikāṃ samāśritya āyūrekhā samāviśet ।
+acchinnā vā vibhaktā vā sa jīveccharadaḥ śatam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6539 | label: meter | g:0.25 m:0.5 ---
+
+sarva eva hi saukhyena saṅkaṭānyavagāhate ।
+idameva hi lobhasya kāryaṃ syā datiduṣkaram ।।

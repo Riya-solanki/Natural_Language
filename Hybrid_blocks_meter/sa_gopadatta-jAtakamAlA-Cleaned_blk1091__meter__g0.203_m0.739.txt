@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1091 | label: meter | g:0.203 m:0.739 ---
+
+itthaṃbhūte sahajavividhāmedhyajambālapaṅke
+kaṣṭaṃ kaṣṭaṃ madanamadirāḥ kṣībacittāḥ patanti ।
+kāyasyemāṃ prakṛtim aśivāṃ vīkṣamāṇās tu yūyaṃ
+nirvidyadhvaṃ pracalitataḍidbhaṅgurāj jīvalokāt ।।

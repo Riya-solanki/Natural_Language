@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 808 | label: grammar | g:0.625 m:0.5 ---
+
+sṛṣṭā vayaṃ yadi tataḥ kim iyaṃ mṛgākṣī seyaṃ vayaṃ yadi tataḥ kim ayaṃ vasantaḥ ।
+so apy astu nāma jagataḥ pratipakṣabhūtaś cūtadrumaḥ kim iti nirmita eṣa dhātrā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1972 | label: meter | g:0.25 m:0.5 ---
+
+śānto asīti mayoktas tvaṃ yac cāsi tanutāṃ gataḥ 
+sutanur yaśasā loke śaṃtanus tvaṃ bhaviṣyasi ।।

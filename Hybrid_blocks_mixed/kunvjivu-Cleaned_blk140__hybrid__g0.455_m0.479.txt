@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 140 | label: hybrid | g:0.455 m:0.479 ---
+
+vākyasya vakrabhāvo anyaḥ ।
+vākyasya padasamūhabhūtasya ।
+ākhyātaṃ sāvyayakārakaviśeṣaṇaṃ vākyamiti yasya pratītistasya ślokādervakrabhāvo bhaṅgībhaṇitivaicitryam anyaḥ pūrvoktavakratāvyatirekī samudāyavaicitryanibandhanaḥ ko api saṃbhavati ।
+yathā

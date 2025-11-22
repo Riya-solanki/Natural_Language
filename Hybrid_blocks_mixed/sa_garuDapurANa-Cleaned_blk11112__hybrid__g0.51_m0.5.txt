@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11112 | label: hybrid | g:0.51 m:0.5 ---
+
+pādāravinde nārpitaṃ bhakṣyabhojyaṃ dṛṣṭo mayā kena puṇyena deva ।
+bhuktvābhuktvā harinairavedyajātaṃ sukhaṃ tvadīyaṃ ramayā lālitaṃ ca ।।

@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 605 | label: grammar | g:0.766 m:0.479 ---
+
+prathamānaścāśvaśaphākāratāṃ nīyamānaḥ puroḍāśatāmāpadyate,tatra piṇḍo naśyati puroḍāśaścotpadyate, nahi tatra piṇḍāvayavasaṃyogā vinaśyanti,api tu saṃyuktā eva santaḥ paraṃ prathanena nudyamānā adhikadeśavyāpakā bhavanti, evamagnisaṃyogena suvarṇadravyāvayavāḥ saṃyuktā eva santo dravībhāvamāpadyante, natu mitho vibhajyante ।
+tasmādyathāvayavasaṃyogavināśāvantareṇāpi suvarṇapiṇḍo vinaśyati, saṃyogāntarotpādamantareṇa ca suvarṇe drava upajāyate, evamantareṇāpyavayavasaṃyogavināśaṃ paramāṇavo vinaṅkṣyantyanye cotpatsyanta iti sarvamavadātam ।।

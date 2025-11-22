@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11511 | label: hybrid | g:0.51 m:0.5 ---
+
+yamasya devasya ca vāmabhāge śriyaṃ nameddīparūpāṃ ca devīm ।
+yamasya devasya tu cāgrabhāge hutāśanaṃ dīparūpaṃ namecca ।।

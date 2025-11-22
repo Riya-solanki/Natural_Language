@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 128 | label: hybrid | g:0.5 m:0.5 ---
+
+kati bāhyāḥ । ṣaṭ । ye sthāpitāḥ ।।

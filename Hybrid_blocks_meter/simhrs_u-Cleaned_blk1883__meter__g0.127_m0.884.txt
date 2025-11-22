@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1883 | label: meter | g:0.127 m:0.884 ---
+
+[kandarpoddāma-darpa-praśamana-guror brahmaṇaḥ kāla-daṇḍe
+pāṇiṃ dātur gaṅgā-taralita-śaśinaḥ parvatī-vallabhasya ।
+cāpaṃ caṇḍābhiśiñjā-rava-bharita-nabhaḥ karṣaṇāruddha-madhyaṃ
+yat bhagnaṃ tasya śabdo niḥśrūyate bhuvane vistaran na māti ।।]

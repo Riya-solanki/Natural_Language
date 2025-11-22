@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3073 | label: meter | g:0.0 m:0.75 ---
+
+iti śrīvāmapurāṇe catuścatvāriśo adhyāyaḥ

@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 298 | label: grammar | g:0.557 m:0.5 ---
+
+acidadhiṣṭhānaṃ bhagavato na vihanyate sarvagatvān maheśatayā sarvakartṛtvāc ca ।। 
+yatra yatra kartavyaṃ kimapyasti tatra tatra ca tādarthyam etyāpi tattatkartur adhiṣṭhānena sarvadaiva sarvaṃ karotītyuktam īśvarasiddhau ।। 
+udāsta ityudāsas tasya bhāva audāsyam akartṛtvam ityarthaḥ ।। 
+tadevaṃ yugapat sarvānugrāhitvaṃ śakteḥ prasādhya tadeva ghaṭayann anugrahaśabdārtham āha ।।

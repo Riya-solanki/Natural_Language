@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4193 | label: meter | g:0.194 m:0.625 ---
+
+pāñcajanyasya nirghoṣaṃ saṃśrutya kukurāndhakāḥ 
+viśokāḥ samapadyanta garuḍasya ca darśanāt ।।

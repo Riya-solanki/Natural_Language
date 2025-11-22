@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 388 | label: meter | g:0.21 m:0.625 ---
+
+gacchāmy acyuta darśanena bhavataḥ kiṃ tṛptir utpadyate
+kiṃ tv evaṃ vijanasthayor hata-janaḥ sambhāvayaty anyathā ।
+ity āmantraṇa-bhaṅgi-sūcita-vṛthāvasthāna-khedālasām
+āśliṣyan pulakotkarāñcita-tanur gopīṃ hariḥ pātu vaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1055 | label: grammar | g:0.75 m:0.5 ---
+
+[] tadā ca śrī-gopāla-valitā gopāla-bālā go-bālān pālayantaḥ pānīyaṃ pāyayantaḥ kūlam anusthāpayantaḥ svayam api payaḥ-pānam ayantaḥ parasparaṃ snapayantaḥ samutthāya ca kalāpayantaś cikrīḍuḥ । kalāpayantaś ca puṣpāharaṇāya parataḥ pracāram āceruḥ, tam ācarantaś ca taṃ bakam īkṣāmāsur utprekṣāmāsuś ca aho, girir ayaṃ dūrata eva kutaḥ? puras tasya śṛṅgam । tataḥ sadya evādaḥ śata-manyunā manyunā śata-koṭi-troṭitam iti ghaṭate । punar nicāyya ca procuḥ, nedaṃ giri-śṛṅgaṃ saṅgacchate, kintu jantu-viśeṣaḥ so' yaṃ mantum iva cikīrṣann amitaśīrṣaṃ vartate, yata ugram-paśyatayā kharatā-cañcu-cuñcutayā ca baka iva parāmṛśyate ।

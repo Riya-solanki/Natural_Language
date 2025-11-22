@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3179 | label: meter | g:0.194 m:0.5 ---
+
+yuvāṃ kasya vane jātau mṛgaiḥ saha vivardhitau 
+jātarāgāv idaṃ dṛṣṭvā raktam ācchādanaṃ bahu ।।

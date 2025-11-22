@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 424 | label: meter | g:0.194 m:0.5 ---
+
+sa evam ukto rājarṣir uttaṅkena mahātmanā 
+kuvalāśvaṃ sutaṃ prādāt tasmai dhundhunibarhaṇe ।।

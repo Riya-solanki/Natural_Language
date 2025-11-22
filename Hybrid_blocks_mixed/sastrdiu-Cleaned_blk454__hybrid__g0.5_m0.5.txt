@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 454 | label: hybrid | g:0.5 m:0.5 ---
+
+nāśyate, tathāpi nāsatvaṃ prapañcasya syāt, utpattivināśayogādinityatāmātraṃ syānnātyantābhāvaḥ ।।

@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 274 | label: grammar | g:0.528 m:0.181 ---
+
+mākṣikasatvacāraṇādrase guṇotkarṣam āha mākṣikasatvamityādi ।।
+mākṣikasatvaṃ vahnyauṣadhayogadrutaṃ yaddhemamākṣikasāraṃ hemnā kanakena saha sūte pārade pūrvaṃ yadgutaṃ punaḥ pādādikajāritaṃ pādādikavibhāgena pādārdhasatvena niḥśeṣatāmāptaṃ sat ayaṃ sūtaḥ tārāriṣṭaṃ tāraṃ rūpyādi ariṣṭaṃ śubhaṃ varakanakaṃ kurute pūrṇavarṇamityarthaḥ ।।
+kena vidhānena pattralepanena patraṃ kaṇṭakabhedi tatra yo'sau lepaḥ vahniyogāditi śeṣaḥ tena ।।
+hemamākṣikasatvajāritasya rūpyapatralepena kanakaṃ syāditi vyaktārthaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1419 | label: hybrid | g:0.51 m:0.5 ---
+
+yadi padmanālaracanādi ca yattadahetukaṃ nanu sadaiva bhavet ।
+salilādībījakṛtameva tu tat sati tatra saṃbhavati na hyasati ।।

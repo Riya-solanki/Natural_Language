@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 417 | label: meter | g:0.194 m:0.5 ---
+
+rākṣasasya madhoḥ putro dhundhur nāma sudāruṇaḥ 
+śete lokavināśāya tapa āsthāya dāruṇam ।।

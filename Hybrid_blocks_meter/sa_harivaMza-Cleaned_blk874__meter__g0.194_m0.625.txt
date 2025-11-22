@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 874 | label: meter | g:0.194 m:0.625 ---
+
+vane caitrarathe ramye tathā mandākinītaṭe 
+alakāyāṃ viśālāyāṃ nandane ca vanottame ।।

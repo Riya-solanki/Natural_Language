@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 999 | label: hybrid | g:0.5 m:0.5 ---
+
+ekapratyanīkāḥ pṛthivyāṃ śyāmādayo agnisaṃyogenaikena ekayonayaśca pākajā iti ।।

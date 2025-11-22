@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 376 | label: meter | g:0.25 m:0.5 ---
+
+kṛtvā rakṣasva māṃ viṣṇo namaste puruṣottama ।
+etaduktaṃ śaṅkarāya vaiṣṇavaṃ pañjaraṃ mahat ।।

@@ -1,0 +1,13 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1714 | label: grammar | g:0.781 m:0.094 ---
+
+nirjalāmbhodasadṛśo nirjalārṇavasaprabhaḥ 
+nirvyāpāraḥ kṛtas tena vipāśo varuṇo mṛdhe ।। 
+agnimārutayor nāśaṃ kṛtvā sa ditijeśvaraḥ । jaghāna devarājam ca somaṃ varuṇam aśvinau । ādityavasurudrādīn aśeṣāṃś ca divaukasaḥ । tato atīva prakurvīta āpo vasur amitrahā । kālanemiṃ jaghānājau śaktyā guha ivāparaḥ ।। śaktyā nirbhinnahṛdayo dhātumān iva parvataḥ । susrāva rudhiraṃ bhūmau kālanemir mahāsuraḥ । tato atikrodhatāmrākṣaḥ śaktim udyamya vegavān । svaśaktyā tāḍayām āsa vasum urvyāṃ papāta saḥ । dhanadaś ca kṛtāntaś ca varuṇaś ca śacīpatiḥ ।। ekadaiva nijaghnus te sāyudhair anibarhaṇaiḥ । nivārya tāni śastrāṇi tāñ jaghāna pṛthak pṛthak । yamena preṣitaṃ daṇḍaṃ jagṛhe sa mahāsuraḥ । taṃ dṛṣṭvā vismitāḥ sarve lokapālā mahaujasaḥ । jaghāna vajreṇa ruvā devarājaḥ śatakratuḥ ।। vajreṇa nihato daityo na cakampe girir yathā । punar vajreṇa taṃ daityam indro mārutavartmani । sthitas tadā jṛmbhaṇena jigīrṇe sāyudhaṃ hariḥ । praviveśa susūkṣmeṇa kukṣiṃ rūpeṇa vṛtrahā । tatkṣaṇād eva devendraḥ pārśvaṃ nirbhidya niryayau ।। kavacenābhiguptaḥ sa nārāyaṇamayena ca । tataḥ śūlam amoghaṃ tu śaṃkaro hantum ādade । prajāpatir uvācedaṃ mayā dattavaro balī । na śūlena na cānyena hantuṃ śakyo mahāsuraḥ । śūlaṃ etad amoghaṃ ca mā prayuñkṣva mahāsure ।। ity uktaḥ śūlapāṇiḥ sa saṃjahārāyudhaṃ svakam । etasminn antare devāḥ kālanemibhayāturāḥ । ūcuḥ kṛṣṇaṃ mahātmāno gīrbhiḥ stutvā janārdanam । mumucuḥ svāni śastrāṇi śataśo atha sahasraśaḥ । 
+raṇe vaiśravaṇas tena parighaiḥ kāmarūpibhiḥ 
+vilapaṃl lokapāleśas tyājito dhanadakriyām ।। 
+tadaiva lokapālāś ca nihatās tena saṃyugam । 
+yamaḥ sarvaharas tena mṛtyupraharaṇo raṇe 
+yāmyām avasthām amaro nītaḥ svāṃ diśam āviśat ।। 
+lokapālās tu te sarve mānuṣīṃ tanum āsthitāḥ । vihāya svapadaṃ rājan vivadanti sma mānuṣe । 
+sa lokapālān utsādya hṛtvā teṣāṃ ca karma tat 
+dikṣu sarvāsu dehaṃ svaṃ caturdhā vidadhe tadā ।।

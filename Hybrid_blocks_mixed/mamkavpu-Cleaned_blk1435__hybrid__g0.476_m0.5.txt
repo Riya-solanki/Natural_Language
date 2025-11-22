@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1435 | label: hybrid | g:0.476 m:0.5 ---
+
+{aho hi me bahvaparāddhamāyuṣā yadapriyaṃ vācyamidaṃ mayedṛśam ।
+ta eva dhanyāḥ suhṛdaḥ parābhavaṃ jagatyadṛṣṭvaiva hi ye kṣayaṃ gatāḥ ।।}

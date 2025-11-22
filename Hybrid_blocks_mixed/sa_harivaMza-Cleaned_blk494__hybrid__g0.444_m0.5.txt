@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 494 | label: hybrid | g:0.444 m:0.5 ---
+
+sagaraḥ svāṃ pratijñāṃ ca guror vākyaṃ niśamya ca 
+dharmaṃ jaghāna teṣāṃ vai veṣānyātvaṃ cakāra ha ।।

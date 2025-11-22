@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1510 | label: meter | g:0.25 m:0.695 ---
+
+varuṇaḥ pāśabhṛnmadhye devānīkasya tasthivān 
+varuṇaḥ pāśahastaḥ san devānīke vyatiṣṭhata । 
+yuddhavelām abhilaṣan bhinnavela ivārṇavaḥ ।।

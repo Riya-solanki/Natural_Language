@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 124 | label: hybrid | g:0.39 m:0.438 ---
+
+tato aṃśāntareṇa nūnaṃ saṃbhaṃtsyata ity evaṃ patīkṣyate ।
+kiñ ca

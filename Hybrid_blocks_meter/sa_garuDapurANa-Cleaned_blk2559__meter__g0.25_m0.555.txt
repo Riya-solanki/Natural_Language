@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2559 | label: meter | g:0.25 m:0.555 ---
+
+kāmaṃ cemamabhidhyāya kriyatāṃ pitṛpūjanam ।
+ta eva tuṣṭāḥ pitaraḥ pradāsyanti tavepsitam ।
+patnīṃ sutāṃśca santuṣṭāḥ kiṃ na dadyuḥ pitāmahāḥ ।।

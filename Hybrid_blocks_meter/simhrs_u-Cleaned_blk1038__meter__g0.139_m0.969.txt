@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1038 | label: meter | g:0.139 m:0.969 ---
+
+tādrūpyeṇa, yathā-
+kaścit kāntā-viraha-guruṇā svādhikārāt pramattaḥ
+śāpenāstaṃgamita-mahimā varṣa-bhogyeṇa bhartuḥ ।
+yakṣaś cakre janaka-tanayā-snāna-puṇyodakeṣu
+snigdha-cchāyā-taruṣu vasatiṃ rāma-giry-āśrameṣu ।।

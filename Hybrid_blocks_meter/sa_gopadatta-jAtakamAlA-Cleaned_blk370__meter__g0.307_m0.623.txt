@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 370 | label: meter | g:0.307 m:0.623 ---
+
+vatsa kena tavākhyātaṃ vinākāraṇaśatruṇā ।
+jīvitaṃ kasya te aniṣṭaṃ tvayā krīḍāṃ karoti kaḥ ।।

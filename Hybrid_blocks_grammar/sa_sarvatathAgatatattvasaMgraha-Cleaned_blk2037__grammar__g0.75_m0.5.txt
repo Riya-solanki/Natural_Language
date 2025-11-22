@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2037 | label: grammar | g:0.75 m:0.5 ---
+
+athātra mudrāmaṇḍale ākarṣaṇādividhivistaraṃ kṛtvā, padmaśiṣyān yathāvat [praveśya,] evaṃvaden "na tvayā kasyacid vaktavyaṃ yadatra guhyaṃ, mā te narakapatanaṃ bhavet, duḥkhāni cātrajanmani-" ti ।

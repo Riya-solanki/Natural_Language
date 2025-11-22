@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2550 | label: meter | g:0.25 m:0.625 ---
+
+sā eva sūryāvartā tu mūrdhni bāhuprasāritā ।
+maṇiṃ dhvajāgrakeyūrā hāsayogena yojitā ।।

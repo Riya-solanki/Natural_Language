@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3721 | label: meter | g:0.306 m:0.5 ---
+
+tvamevamādhāya vibho varāyudhaṃ śatruṃ surāṇāṃ jahi mā viśaṅkithāḥ ।
+amogha eṣo amararājaḍapūjito dhṛto mayā netragatastapobalāt ।।

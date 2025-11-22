@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9103 | label: meter | g:0.306 m:0.625 ---
+
+lohadānañca dātavyaṃ bhūmiyuktena pāṇinā ।
+yamaṃ bhīmañca nāpnoti na gacchet tasya veśmani ।।

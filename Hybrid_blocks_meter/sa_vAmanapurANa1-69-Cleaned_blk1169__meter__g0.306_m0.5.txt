@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1169 | label: meter | g:0.306 m:0.5 ---
+
+śrutvaiva tābhyāṃ mahiṣāsurastu devyāḥ pravṛttiṃ kamanīyarūpām ।
+cakre matiṃ nātra vicāramasti ityevamuktvā mahiṣo api nāsti ।।

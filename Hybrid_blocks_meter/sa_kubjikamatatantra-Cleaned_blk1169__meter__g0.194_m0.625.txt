@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1169 | label: meter | g:0.194 m:0.625 ---
+
+rūpātītāt paro hinduḥ śaktyādhiṣṭhita bhāsvaraḥ 
+tato nādo nirodhaś ca ardhacandram anukramāt ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10733 | label: hybrid | g:0.387 m:0.517 ---
+
+te adhaṃ tamaḥ praviśante te daityā na ca te surāḥ ।
+vāyāvapyantaraṃ nāsti haritattvavinirṇaye ।।

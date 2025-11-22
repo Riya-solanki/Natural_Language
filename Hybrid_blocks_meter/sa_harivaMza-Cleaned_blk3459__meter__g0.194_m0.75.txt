@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3459 | label: meter | g:0.194 m:0.75 ---
+
+prakṛtayo anuyāsyanti stoṣyanti tvāṃ dvijātayaḥ 
+saṃdhivigrahamukhyās tvāṃ praṇamiṣyanti mantriṇaḥ ।।

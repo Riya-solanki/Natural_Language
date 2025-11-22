@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6472 | label: meter | g:0.194 m:0.5 ---
+
+tasmin kāle samabhyarcya tatra kṛṣṇaṃ samāhitaḥ 
+dattvā piṇḍaṃ pitṛbhyaś ca yamunāsalilāplutaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 421 | label: hybrid | g:0.51 m:0.5 ---
+
+ekaṃ naro dvau ditijeśvaraśca trīn dharmasūnuścaturo ditīśaḥ ।
+narastu bāṇān pramumoca pañca ṣaḍ dratyanātho niśitān pṛṣatkān ।।

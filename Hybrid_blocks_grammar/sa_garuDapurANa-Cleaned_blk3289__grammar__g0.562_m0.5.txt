@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3289 | label: grammar | g:0.562 m:0.5 ---
+
+ete te candratulyāḥ kṣitipatitanayā bhīmasenārjunādyāḥ śurāḥ satyapratijñā dinakaravapuṣaḥ keśavenopagūḍhāḥ ।
+te vai duṣṭagrahasthāḥ kṛpaṇavaśagatā bhaikṣyacaryāṃ prayātāḥ ko vā kasminsamartho bhavati vidhivaśādbhrāmayetkarmarekhā ।।

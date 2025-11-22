@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 939 | label: meter | g:0.118 m:0.97 ---
+
+dvividhaḥ śarīraguṇaḥ
+apratyakṣaṃ ca gurutvam indriyagrāhyaṃ ca rūpādi,
+vidhāntaraṃ tu cetanā ।
+nāpratyakṣā saṃvedyatvāt nendriyagrāhyā
+manoviṣayatvāt tasmād
+dravyāntaraguṇa iti ।।

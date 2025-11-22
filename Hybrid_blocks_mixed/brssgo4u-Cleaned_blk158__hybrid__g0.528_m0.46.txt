@@ -1,0 +1,6 @@
+--- source: brssgo4u-Cleaned.txt | block: 158 | label: hybrid | g:0.528 m:0.46 ---
+
+yadyapi prāṇasya tejasyavyavadhānena layaḥ śrutastathāpyubhayaśrutyanugrahāya prāṇo jīve līyate, jīvadvārā ca tadupādhiṣu tejaādibhūteṣviti śrutyarthasphuṭīkaraṇārthaṃ sūtraṃ gṛhṇāti-kathaṃ tarhīti ।
+naca layaṃ vināpi jīvaṃ pratyipagamādisaṃbhavāttejaḥ śrutirmukhyāstviti vācyaṃ, jīvaṃ pratyāgatya prāṇasya nirvyāpāratvena sthiterevātra layatvāditi bhāvaḥ ।
+bhūteṣu jīvasthitiḥ kiṃ balādvyākhyāyata ityāśaṅkya aso adhyakṣe'iti sūtrodāhṛtaśrutibalādityāha-nanvityādinā ।
+prāṇasya jīvadvārā bhūtaprāptau dṛṣṭāntamāha-yo api hīti ।।

@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 123 | label: meter | g:0.25 m:0.75 ---
+
+dṛśyate paramekena samādhau jñānacakṣuṣā ।
+chāyāmāyopamaṃ divyaṃ divyasaṃsthānasayutam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1861 | label: meter | g:0.194 m:0.5 ---
+
+ime tvā sapta munayaḥ sahitā munimaṇḍalaiḥ 
+stuvanti deva divyābhir geyābhir gīrbhir añjasā ।।

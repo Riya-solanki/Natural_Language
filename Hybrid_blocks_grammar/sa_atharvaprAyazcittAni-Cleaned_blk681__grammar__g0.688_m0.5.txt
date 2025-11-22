@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 681 | label: grammar | g:0.688 m:0.5 ---
+
+pañcabhir aparaṃ paryukṣya suparṇā vācam iti virūḍhāni hutvā punaḥsamāyāt tasmiṃs tvāṣṭram ajaṃ piṅgalaṃ paśuṃ bahurūpam ālabheta ।

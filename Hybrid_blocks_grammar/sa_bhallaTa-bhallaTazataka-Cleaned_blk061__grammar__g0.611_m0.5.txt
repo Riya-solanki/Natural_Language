@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 61 | label: grammar | g:0.611 m:0.5 ---
+
+maulau sanmaṇayo gṛhaṃ giriguhā tyāgitvam ātmatvaco niryatnopanataś caiva vṛttir anilair ekatra caryedṛśī 
+anyatrānṛju vartma vāg dvirasanā dṛṣṭau viṣaṃ dṛśyate yā dhik tām anu dīpako jvalati bho bhogin sakhe kiṃ nv idam ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1451 | label: meter | g:0.25 m:0.625 ---
+
+kasyopayogamātreṇa dhanena ramate manaḥ ।
+padapramāṇam ādhāram ārūḍhaḥ ko na kampate ।।

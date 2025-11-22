@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 195 | label: meter | g:0.25 m:0.5 ---
+
+{padmāvatī} - abhaṇia kiñci digghaṃ ṇissasia tuhṇīo saṃvutto 
+[abhaṇitvā kiñcid dīrghaṃ niḥśvasya tūṣṇīkaḥ saṃvṛttaḥ । ]

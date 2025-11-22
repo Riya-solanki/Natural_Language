@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9042 | label: meter | g:0.306 m:0.5 ---
+
+pāpino ye durācārā mudgalatvaṃ ca ye gatāḥ ।
+ātmaghātī brahmahā ca steyī viśvāsaghātakaḥ ।।

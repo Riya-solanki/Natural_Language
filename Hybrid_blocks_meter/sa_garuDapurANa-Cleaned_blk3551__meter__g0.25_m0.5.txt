@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3551 | label: meter | g:0.25 m:0.5 ---
+
+idaṃ vrataṃ mayā deva gṛhītaṃ puratastava ।
+nirvighnaṃ siddhimāpnotu prasanne tvayi keśava ।।

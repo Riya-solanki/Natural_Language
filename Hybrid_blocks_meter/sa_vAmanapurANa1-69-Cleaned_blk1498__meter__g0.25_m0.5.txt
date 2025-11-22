@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1498 | label: meter | g:0.25 m:0.5 ---
+
+tad vadadhvaṃ yathāprajñaṃ jñātayo yūyameva me ।
+nollaṅghya yuṣmān dāsyāmi tatkṣamaṃ vaktumarhatha ।।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 394 | label: meter | g:0.25 m:0.625 ---
+
+yuṣmadyupapade samānādhikaraṇe sthāninyapi madhyamaḥ ।।
+tiṅvācyakārakavācini yuṣmadi prayujyamāne aprayujyamāne ca madhyamaḥ ।।

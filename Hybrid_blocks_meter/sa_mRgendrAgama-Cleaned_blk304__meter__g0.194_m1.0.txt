@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 304 | label: meter | g:0.194 m:1.0 ---
+
+kṛṣṇā daityapatermṛtyor dhāmavaddaityasevitā 
+nīlaratnaprabhājālavitānavarabhūṣaṇā ।।

@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 187 | label: meter | g:0.25 m:1.0 ---
+
+praṇetḥn paśuśāstrāṇāṃ paśūṃs tadanuvartakān ।
+svasādhyakārakopetān kāladhāmāvadhisthitān ।।

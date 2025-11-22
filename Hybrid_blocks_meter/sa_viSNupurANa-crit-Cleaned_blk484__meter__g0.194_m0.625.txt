@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 484 | label: meter | g:0.194 m:0.625 ---
+
+kāraṇaṃ kāraṇasyāpi tasya kāraṇakāraṇam 
+tatkāraṇānāṃ hetuṃ taṃ praṇato asmi sureśvaram ।।

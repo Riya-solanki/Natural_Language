@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 246 | label: meter | g:0.246 m:0.806 ---
+
+ahaṃkṛtā ahaṃmānā aṣṭāviṃśadvadhātmakāḥ 
+antaḥprakāśās te sarve āvṛtāś ca parasparam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6259 | label: meter | g:0.25 m:0.5 ---
+
+khāṇḍikyaḥ ko abhavad brahman ko vā keśidhvajo abhavat 
+kathaṃ tayoś ca saṃvādo yogasaṃbandhavān abhūt ।।

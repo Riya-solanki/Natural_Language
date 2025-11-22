@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7702 | label: meter | g:0.25 m:0.625 ---
+
+māsādau pratimāsañca śuddhaṃ mṛtatithau khaga ।
+ekenāhnā tribhirvāpi hīneṣu vinatāsuta ।।

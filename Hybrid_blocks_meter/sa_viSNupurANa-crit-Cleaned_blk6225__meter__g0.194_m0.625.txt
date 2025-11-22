@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6225 | label: meter | g:0.194 m:0.625 ---
+
+dve brahmaṇī veditavye śabdabrahma paraṃ ca yat 
+śabdabrahmaṇi niṣṇātaḥ paraṃ brahmādhigacchati ।।

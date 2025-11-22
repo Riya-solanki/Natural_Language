@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1321 | label: meter | g:0.194 m:0.625 ---
+
+ādityair vasubhiḥ sādhyair marudbhir daivataiḥ saha 
+rudrair viśvasahāyaiś ca yakṣarākṣasakiṃnaraiḥ ।।

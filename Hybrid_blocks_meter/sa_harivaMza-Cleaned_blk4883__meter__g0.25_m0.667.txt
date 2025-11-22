@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4883 | label: meter | g:0.25 m:0.667 ---
+
+caratas tasya saṃgrāme maṇḍalāni sahasraśaḥ 
+rauhiṇeyasya śaighryeṇa nāvasthānam adṛśyata ।। 
+savyena bāhunā bhasma cikṣepa balavakṣasi । 
+tasya bhasma tadā kṣiptaṃ jvareṇāpratimaujasā 
+śaighryāl lakṣye nipatitaṃ śarīre parvatopame ।।

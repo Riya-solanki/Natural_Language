@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 623 | label: grammar | g:0.562 m:0.5 ---
+
+maharṣin sa tadā dṛṣṭvā praṇipatyābhivādya ca। pratyuvāca ṛṣīn sarvān kṛtāsanaparigrahaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1647 | label: meter | g:0.25 m:0.5 ---
+
+yenānukampyastu tavaiṣa jālmo hetuśca naḥ sajjanadarśanasya ।
+dadāmi tenepsitamarthamasmai rājye tavāsmiṃśca yatheṣṭacāram ।।

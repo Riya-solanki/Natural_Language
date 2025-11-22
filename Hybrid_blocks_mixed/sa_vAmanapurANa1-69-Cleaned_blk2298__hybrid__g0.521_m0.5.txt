@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2298 | label: hybrid | g:0.521 m:0.5 ---
+
+etat tavoktaṃ dvija śaṅkarastu gatastadāsīt tapase atha śaile ।
+śūnye abhyagād dṛṣṭamatirhi devyā saṃyodhito yena hi kāraṇena ।।

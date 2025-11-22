@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 678 | label: grammar | g:0.604 m:0.5 ---
+
+[] atha nija-dvija-svajana-vargān āhūya ca bhūyaḥ prakaṭam eva viśaṅkaṭa-tat-tan-nāma-karaṇa-parvaṇā sarvān ānanditavān iti ।

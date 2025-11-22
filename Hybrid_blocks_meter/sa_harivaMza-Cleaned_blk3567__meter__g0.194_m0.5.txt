@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3567 | label: meter | g:0.194 m:0.5 ---
+
+uttamaujāś ca śalyaś ca kauravāḥ kaikayās tathā 
+vaidiśo vāmadevaś ca sāketaś ca sinīpatiḥ ।।

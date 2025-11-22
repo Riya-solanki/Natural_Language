@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 64 | label: grammar | g:0.667 m:0.5 ---
+
+kṣīyate tu yadā dharmaḥ prāpte ghore kalau yuge tadā na kīrtayet kaścin muktidaṃ devam acyutam ।।

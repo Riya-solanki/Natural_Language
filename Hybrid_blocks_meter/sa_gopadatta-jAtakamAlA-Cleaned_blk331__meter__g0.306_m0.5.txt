@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 331 | label: meter | g:0.306 m:0.5 ---
+
+saṃkleśaṃ bahavaḥ prāptāḥ putratṛṣṇārtabuddhinā [!] ।
+na ca te adyāpi jīvanti tatra kiṃ parikhidyase ।।

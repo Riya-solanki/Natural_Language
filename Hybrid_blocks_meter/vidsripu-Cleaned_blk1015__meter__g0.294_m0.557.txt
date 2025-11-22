@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1015 | label: meter | g:0.294 m:0.557 ---
+
+pītvā bhṛśaṃ kamalakuḍmalaśuktikoṣā doṣātanītimiravṛṣṭim atha sphuṭantaḥ ।
+niryanmadhuvratakadambamiṣād vamanti bibhranti kāraṇaguṇān iva mauktikāni ।।
+amī murāreḥ

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1283 | label: meter | g:0.194 m:0.625 ---
+
+hiraṇyakaśipuḥ śrutvā tāṃ kṛtyāṃ vitathīkṛtām 
+āhūya putraṃ papraccha prabhāvasyāsya kāraṇam ।।

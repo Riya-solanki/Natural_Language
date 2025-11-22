@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2624 | label: meter | g:0.194 m:0.5 ---
+
+jñeyā brahmarṣayaḥ pūrvaṃ tebhyo devarṣayaḥ punaḥ 
+rājarṣayaḥ punas tebhya ṛṣiprakṛtayas trayaḥ ।।

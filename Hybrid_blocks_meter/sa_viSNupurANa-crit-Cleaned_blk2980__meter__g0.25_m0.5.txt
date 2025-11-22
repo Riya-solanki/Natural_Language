@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2980 | label: meter | g:0.25 m:0.5 ---
+
+pāpe apy apāpaḥ puruṣe apy abhidhatte priyāṇi yaḥ 
+maitrīdravāntaḥkaraṇas tasya muktiḥ kare sthitā ।।

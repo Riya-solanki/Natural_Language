@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 362 | label: grammar | g:0.858 m:0.234 ---
+
+kriyāsaṃtāno anārabdhaścikīrpito anāgataḥ kālaḥ apakṣyatīti prayojanāvasānaḥ kriyāsaṃtānoparamo atītaḥ kālaḥ aapākṣīt' iti ārabdhakriyāsaṃtāno vartamānaḥ kālaḥ apacatīti, tatra yā uparatā sā kṛtatā yā cikīrṣitā sā kartavyatā yā vidyamānā sā kriyamāṇatā tadevaṃ kriyāsaṃtānasthaḥ traikālyasamāhāraḥ apacati pacyate' iti vartamānagrahaṇena gṛhyate kriyāsaṃtānasya hyatrāvicchedo vidhīyate nārambho noparam iti।
+soyamubhayathā vartamānāṃ gṛhyate apavṛkto vyapavṛktaśca atītānāgatābhyām sthitivyaṅgyaḥ avidyate dravyam' iti kriyāsaṃtānāvicchedābhidhāyī ca traikālyānvitaḥ apacati chinattīti।
+anyaśca pratyāsattiprabhṛterrathasya vivakṣāyāṃ tadabhidhāyī bahuprakāro lokeṣūtprekṣitavyaḥ, tasmādasti vartamānaḥ kāla iti ।।

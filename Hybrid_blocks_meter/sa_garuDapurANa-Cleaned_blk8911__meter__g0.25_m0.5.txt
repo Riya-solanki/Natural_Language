@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8911 | label: meter | g:0.25 m:0.5 ---
+
+varṣaṃ yāvaktriyā kāryā nāmagotreṇa dhīmatā ।
+ghaṭādi bhojanaṃ nityaṃ padadānāni yāni ca ।
+sapiṇḍīkaraṇe vṛtte ekasyaiva tu dāpayet ।।

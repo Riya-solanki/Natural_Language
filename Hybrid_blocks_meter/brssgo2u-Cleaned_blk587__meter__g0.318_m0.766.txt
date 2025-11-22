@@ -1,0 +1,7 @@
+--- source: brssgo2u-Cleaned.txt | block: 587 | label: meter | g:0.318 m:0.766 ---
+
+FN kadarthitā pīḍitā bādhiteti yāvat ।
+tadadhikāre saṃbhūtyadhikāre ।
+tasyā dhenoḥ śrutaṃ taptaṃ kṣīraṃ sākṣātkāryaṃ, dadhyādikaṃ tu pāramparyajamityarthaḥ ।
+dadhisaṃsṛṣṭaṃ kaṭhinakṣīramāmikṣā ।
+praṇāḍyā paramparayā ।

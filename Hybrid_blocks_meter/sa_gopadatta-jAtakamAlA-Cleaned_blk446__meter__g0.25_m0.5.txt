@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 446 | label: meter | g:0.25 m:0.5 ---
+
+yatrāyaṃ vāryate loko janena hitabuddhinā ।
+viparyastamatis tatra janaḥ sa paridhāvati ।।

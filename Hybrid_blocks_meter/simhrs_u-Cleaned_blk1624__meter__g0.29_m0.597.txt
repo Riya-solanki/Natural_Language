@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1624 | label: meter | g:0.29 m:0.597 ---
+
+atha dṛṣṭāntaḥ-
+sva-pakṣe darśanaṃ hetor dṛṣṭāntaḥ sādhya-siddhaye ।।

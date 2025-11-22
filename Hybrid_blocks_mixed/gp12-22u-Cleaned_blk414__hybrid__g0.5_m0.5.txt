@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 414 | label: hybrid | g:0.5 m:0.5 ---
+
+[] yamunāha-tarhi kiṃ pārasparikaṃ tat parasparaṃ na jānate?

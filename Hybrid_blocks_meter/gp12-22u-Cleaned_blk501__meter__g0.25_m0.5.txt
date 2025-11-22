@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 501 | label: meter | g:0.25 m:0.5 ---
+
+kvacit sthānaṃ kvacid yānaṃ kvāpy arthe sandhi-vigrahau ।
+parājaya-jayau kvāpi krīḍāyām anucakratuḥ ।। [anuṣṭubh]

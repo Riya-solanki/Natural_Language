@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 187 | label: meter | g:0.25 m:0.5 ---
+
+muśalaṃ sagadaṃ dṛṣṭvā lāṅgalaṃ ca nivāritam ।
+vīrabhadrāya cikṣepa cakraṃ krodhāt khagadhvajaḥ ।।

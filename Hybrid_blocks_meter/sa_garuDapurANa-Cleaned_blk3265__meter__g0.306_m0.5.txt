@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3265 | label: meter | g:0.306 m:0.5 ---
+
+akāraṇaviṣkṛtakopadhāriṇaḥ khalādbhayaṃ kasya na nāma jāyate ।
+viṣaṃ mahāherviṣamasya durvacaḥ saduḥ sahaṃ sannipatetsadā mukhe ।।

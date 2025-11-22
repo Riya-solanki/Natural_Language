@@ -1,0 +1,12 @@
+--- source: sastrdiu-Cleaned.txt | block: 541 | label: grammar | g:0.753 m:0.005 ---
+
+tadidamapi prapañcasyāvidyānirmitatvanirāraṇena paramārthatvapratipādanānnirastameveti ātmaivedaṃ sarvamiti sarvasyātmā bhoktetyarthaḥ ।
+yathā yaḥ kāmayeta rāṣṭraṃ syāmiti rāṣṭrasya bhoktetyarthaḥ ।
+yathā kāmayeta sarvamidaṃ bhaveyamiti sarvasya bhoktā bhaveyamityarthaḥ ।
+tathā- ātmā sarvamiti sarvasyātmā bhoktetyarthaḥ ।
+yattu yatra hi dvaitamiva bhavatīti dvaitabhāvasya bhrāntitvavacanaṃ tadaupacārikam- yathā khalu svapnaprapañcendrajālamṛgatoyādiḥ kiyantañcitkālaṃ dṛṣṭipathamāpannaḥ paścādvilīno bhogyatāmativartate tathāyaṃ śarīrendriyaviṣayarūpaprapañco apyasyātmanaḥ kiyantañcitkālamupabhogyaḥ san paścādvināśādanupabhogyo bhavatītyanena sādṛśyena bhrāntirityupacāreṇocyate puruṣāṇāṃ viṣayabhogeṣvāsthānivartanena muktāvabhiruciṃ janayituṃ, yadapi yatra tvasya sarvamātmaivābhūditi muktāvātmano advitīyatvacanaṃ tadapi na prapañcasvarūpaniṣedhārthaṃ kitu sata eva prapañcasyātmasaṃbandhaniṣedhārthaṃ, asyetivacanāt, nahyatraitāvaducyate yatra sarvamātmaivābhūditi, kiṃ tarhi, yatra tvasya sarvamātmaiveti ।
+tenāsyāyamarthaḥ- yatra yasyāmavasthāyāṃ muktāvityarthaḥ ।
+asya ātmano dṛśyatvena darśanasādhanatvena darśanāyatanatvena vā na kiñcidanyasaṃbandhi vidyate kintvātmaivāsya sarvaṃ nānyakiñcit tadā kena kaṃ paśyediti ।
+yathā loke yasya na kiñcidapi bāndhavo vittaṃ vāsti sa evaṃ vadati- na me kañcidasti ahameva sarvaṃ tatra saṃbandhyantaraṃ na kiñcidastītyetāvadvivakṣitam, evaṃ muktāvātmaivātmanaḥ sarvamiti saṃbandhyantarābhāvamātraṃ vivakṣitaṃ na prapañcasvarūpabhāvaḥ, tasmānna prapañcavilayo mokṣaḥ kintu prapañcasaṃbandhavilayaḥ ।
+tredhā hi prapañcaḥ puruṣaṃ badhnāti bhogāyatanaṃ śarīraṃ bhogasādhanānīndriyāṇi bhogyāḥ śabdādayo viṣayāḥ ।
+bhoga iti ca sukhaduḥkhaviṣayo aparokṣānubhava

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 471 | label: meter | g:0.25 m:0.5 ---
+
+pitāmahasya pibato hyamṛtaṃ pūrvameva hi ।
+udgārāt surabhirjātā sā ca pātālamāśritā ।।

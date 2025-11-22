@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6254 | label: meter | g:0.194 m:0.625 ---
+
+svādhyāyasaṃyamābhyāṃ sa dṛśyate puruṣottamaḥ 
+tatprāptikāraṇaṃ brahma tad etad iti paṭhyate ।।

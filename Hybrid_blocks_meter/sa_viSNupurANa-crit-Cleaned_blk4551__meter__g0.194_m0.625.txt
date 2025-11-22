@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4551 | label: meter | g:0.194 m:0.625 ---
+
+kācid āvasathasyāntaḥ sthitvā dṛṣṭvā bahir gurum 
+tanmayatvena govindaṃ dadhyau mīlitalocanā ।।

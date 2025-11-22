@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 260 | label: meter | g:0.194 m:0.75 ---
+
+kumpikāyā raso grāhyo vidhiprokto nirodhakaḥ 
+rasanāṃ lelihānaśca pīḍito atibubhukṣayā ।।

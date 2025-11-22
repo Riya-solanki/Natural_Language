@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5595 | label: meter | g:0.194 m:0.75 ---
+
+kāmarūpī mahārūpaṃ kṛtvā sasyāny aśeṣataḥ 
+luṭhan bhramaṇasaṃmardaiḥ saṃcūrṇayati vānaraḥ ।।

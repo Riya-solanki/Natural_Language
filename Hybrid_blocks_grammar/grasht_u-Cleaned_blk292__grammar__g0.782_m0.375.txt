@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 292 | label: grammar | g:0.782 m:0.375 ---
+
+prayogāntaramāha rasakamityādi ।।
+rasakaṃ kharparikaṃ balinā gandhena saha yuktaṃ sat militaṃ sat samabhāgena iti śeṣaḥ kena kṛtvā pūrvoktavidhānayogena pūrvoktaṃ yadvidhānaṃ yantrādikaṃ tasya yo'sau yogastena kṛtvā tāvadbhṛśamatyarthaṃ pakvaṃ kāryaṃ yāvadaśarīratāṃ yāti taccūrṇaṃ garbhe rasodare dravati garbhadrutirbhavati caśabdājjarati ca ।।

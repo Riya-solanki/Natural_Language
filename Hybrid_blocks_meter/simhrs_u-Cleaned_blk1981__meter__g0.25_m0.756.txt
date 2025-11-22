@@ -1,0 +1,11 @@
+--- source: simhrs_u-Cleaned.txt | block: 1981 | label: meter | g:0.25 m:0.756 ---
+
+atha kaniṣṭha-nirdeśaḥ-
+suta-śiṣya-kanīyāṃso vācyā guru-janena hi । 
+vatsa-putraka-dīrghāyus-tāta-jāteti saṃjñayā ।।
+anyaḥ kanīyān āryeṇa janena paribhāṣyate । 
+śilpādhikāra-nāmabhyāṃ bhadra bhadra-mukheti ।।
+vācye nīcātinīce tu haṇḍe hañje iti kramāt । 
+bhartrā vācyāḥ sva-sva-nāmnā bhṛtyāḥ śilpocitena vā ।।
+evam ādi prakāreṇa yojyā nirdeśa-yojanā । 
+loka-śāstrāvirodhena vijñeyā kāvya-kovidaiḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2620 | label: meter | g:0.25 m:0.667 ---
+
+tasya caivohyamānasya vātayuktair balāhakaiḥ 
+vajrāśanisamāḥ śabdā bhavanty agamabhedinaḥ ।। 
+vajrāśanisamāñ śabdān garjanto gagane sthitāḥ । 
+taj jalaṃ vajraniṣpeṣair vimuñcati nabhogatam 
+bahubhiḥ kāmagair meghaiḥ śakro bhṛtyair iveśvaraḥ ।।

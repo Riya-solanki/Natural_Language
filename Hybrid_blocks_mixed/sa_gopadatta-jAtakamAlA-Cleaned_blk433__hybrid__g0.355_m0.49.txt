@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 433 | label: hybrid | g:0.355 m:0.49 ---
+
+yāny arjitāny anyabhavāntareṣu karmāṇi śuklāni śubhodayāni ।
+teṣāṃ phalaṃ vīkṣaṇam eva te alaṃ saṅgas tvayā kiṃ punar eva dīrgham ।।

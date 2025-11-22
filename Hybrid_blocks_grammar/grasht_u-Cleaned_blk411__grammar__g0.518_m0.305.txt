@@ -1,0 +1,18 @@
+--- source: grasht_u-Cleaned.txt | block: 411 | label: grammar | g:0.518 m:0.305 ---
+
+atha kṣāravṛkṣagulmauṣadhiviśeṣānāha kadalītyādi ।।
+yathālābhaṃ lābham anatikramya eṣāṃ kṣāraḥ kartavyaḥ ।।
+te ke kadalīpalāśatilaniculakanakasuradālivāstukairaṇḍāḥ kadalī rambhā palāśo brahmavṛkṣaḥ tilāḥ pratītāḥ niculo vetasavṛkṣaḥ kanako dhattūraḥ suradālī devadālī vāstukaṃ kṣāraśākaṃ eraṇḍo vātāriḥ ete kṣārasaṃbhavāḥ ।।
+kiṃviśiṣṭā ete varṣābhūvṛṣamokṣakasahitāḥ varṣābhūḥ punarnavā vṛṣo vāsakaḥ mokṣako mokhāvṛkṣa iti pratītaḥ etaiḥ saṃyutā ityuddeśaḥ ।।
+kṣārakaraṇavidhānam āhānīyetyādi ।।
+prathamaṃ kṣāravṛkṣān pūrvoktān ānīya vanāntarādgṛhītvā ।।
+kiṃviśiṣṭān kusumaphalaśiphātvakpalāśairupetān kusumāni prasūnāni pratītāni śiphā mūlaṃ tvaktvacā pravālā nūtanapallavāḥ etaiḥ pañcāṅgāhvayair upetān saṃyutān ।।
+khaṇḍaśaḥ bahuśakalān kṛtvā ।।
+na kevalaṃ khaṇḍaśaḥ vipulataraśilāpiṣṭagātrātiśuṣkān kṛtvā vipulatarā ativistīrṇā yā śilā tasyāṃ piṣṭāni gātrāṇi yeṣāṃ te'śuṣkā nirasāḥ tānevaṃvidhān kṛtvā ।।
+punastāneva ca tilānāṃ kāṇḍairnālaiḥ saha dagdhvā ।।
+punaḥ karisurabhihayāmbhobhiḥ hastigo'śvānāṃ mūtrairāsrāvya āplutya tadbhasma tyaktvā vastrair jalaṃ grāhyamiti śeṣaḥ ।।
+tajjalaṃ mṛduśikhini komalāgnau pacet kena vaṃśapākena vaṃśānāṃ samavahnitvāt ।।
+kṣārajalapākalakṣaṇamāha tadityādi ।।
+tajjalaṃ kṣārapānīyaṃ śuṣyamāṇaṃ sat niścitaṃ yadā sabāṣpabudbudān vidhatte saha bāṣpeṇa jalātyayadhūmena vartante ye budbudāstān tadā kṣāro niṣpanno jñeyaḥ ।।
+punastadā tryūṣaṇaṃ śuṇṭhīmaricapippalyaḥ hiṅgu rāmaṭhaṃ gandhakaṃ lelītakaṃ punaḥ kṣāratrayaṃ sarjikāyavāgrajaṭaṅkaṇāhvayaṃ lavaṇāni ṣaṭ saindhavādīni bhūḥ tuvarī khagaṃ kāsīsaṃ etāni kṣipet etatkṣāreṇārdreṇa saha miśraṃ kāryamityarthaḥ ।।
+tathā ca dravyāṇi tryūṣaṇādīni saṃmiśrya ekīkṛtya nivṛtya ca saṃmardya śastrakaṭorikāpuṭe lohamayapātrasaṃpuṭe vyavasthitaṃ saptadināni dhānyagataṃ kasyaciddhānyasya madhyagataṃ sthāpayet kutra bhūtale pṛthivyā āsthāne tato'nantaraṃ tatsiddhaṃ rasajāraṇādikaṃ prati prayojyaṃ etadbiḍarūpaṃ rasajāraṇādiṣu praśastamityarthaḥ ।।

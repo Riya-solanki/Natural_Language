@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 643 | label: meter | g:0.102 m:0.5 ---
+
+[] atha yukti-matyā sad-ukti-sammatyā śrīmad-bhāgavata-kathana-vyutkrameṇāpy upakramyate, yataḥ,
+sarvaiḥ kavibhir anukrama śāli procyate kṛṣṇa-līlādyam ।
+śuka-mukha-vacasi prema pramada-maye tad vinā tu citrāya ।। [gīti]

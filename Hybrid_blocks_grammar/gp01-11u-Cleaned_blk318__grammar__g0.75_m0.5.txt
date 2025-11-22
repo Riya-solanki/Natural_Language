@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 318 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca sandhyāṃ gamayitvā janakādibhiḥ saha bhojana-līlāṃ janayitvā bahiḥ-sabhā-bhāgam āgamya nānā-bandhu-janatayā samāgamya tad-viśiṣṭau sūpaviṣṭau babhūvatuḥ, [] yatra nānā-guṇi-śateṣu samāgateṣu tābhyāṃ sukumāratā-prabhūtābhyāṃ kumāra-sūtābhyāṃ saha sumati-ratnacūḍāv āvavrajatuḥ ।

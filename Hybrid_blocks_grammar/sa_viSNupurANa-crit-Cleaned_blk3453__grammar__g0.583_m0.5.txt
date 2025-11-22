@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3453 | label: grammar | g:0.583 m:0.5 ---
+
+tataś ca paramarṣiṇā saubhariṇājñaptas teṣu gṛheṣv anapāyī nandanāmā mahānidhir āsāṃ cakre ।।

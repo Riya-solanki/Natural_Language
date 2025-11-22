@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2512 | label: meter | g:0.306 m:0.5 ---
+
+bhāravāhī tataḥ khinno daśabdaśatike gate ।
+kāle jagāma nirvedāt samaṃ pitrā tu śākalam ।।

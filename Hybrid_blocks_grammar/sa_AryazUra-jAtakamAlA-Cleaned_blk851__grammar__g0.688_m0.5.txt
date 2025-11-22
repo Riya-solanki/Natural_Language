@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 851 | label: grammar | g:0.688 m:0.5 ---
+
+vaṇija ūcuḥ - viditeyamasmākaṃ yuṣmaccharīrāvasthā । satyapi ca vaḥ parākramāsahatve naiva vayaṃ karmaviniyogena yuṣmānāyāsayitumicchāmaḥ । kiṃ tarhi?

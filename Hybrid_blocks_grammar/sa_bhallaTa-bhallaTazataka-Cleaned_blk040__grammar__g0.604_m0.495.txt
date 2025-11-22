@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 40 | label: grammar | g:0.604 m:0.495 ---
+
+sanmūlaḥ prathitonnatir ghanalasacchāyaḥ sthitaḥ satpathe sevyaḥ sadbhir itīdam ākalayatā tālo adhvagenāśritaḥ 
+puṃsaḥ śaktir iyaty asau tu phaled adyāthavā śvo athavā kāle kvāpy athavā kadācid athavā na tv eva vedhāḥ prabhuḥ ।।

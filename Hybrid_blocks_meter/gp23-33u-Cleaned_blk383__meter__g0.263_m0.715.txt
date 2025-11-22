@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 383 | label: meter | g:0.263 m:0.715 ---
+
+[] dināntare sakhī-saubhāgyam-
+kiṃcid vilokya kuñje sakhyāḥ prāgalbhyam ekāntāt ।
+smerā karam anu muralīṃ prāgād barhāvaliṃ śirasi ।।

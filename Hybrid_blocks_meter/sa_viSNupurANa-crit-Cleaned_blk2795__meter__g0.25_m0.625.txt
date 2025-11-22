@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2795 | label: meter | g:0.25 m:0.625 ---
+
+sādhavaḥ kṣīṇadoṣās tu sacchabdaḥ sādhuvācakaḥ 
+teṣām ācaraṇaṃ yat tu sadācāraḥ sa ucyate ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 243 | label: grammar | g:0.552 m:0.5 ---
+
+śailaśreṇir apetadāvadahanā dagdhaprarūḍhaṃ vanaṃ jīmūtāṅkuradanturā daśa diśo bhūreṇumuktaṃ nabhaḥ ।
+kiṃ cānyat kalikormimeduramukhī jātā kadambacchaviś chidyante kiyatā kṣaṇena śikhināṃ maunavratagranthayaḥ ।।

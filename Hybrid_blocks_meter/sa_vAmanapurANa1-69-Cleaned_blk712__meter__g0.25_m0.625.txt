@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 712 | label: meter | g:0.25 m:0.625 ---
+
+svarṇasteyī ca brahmaghnaḥ surāpo gurulalpagaḥ ।
+tathā gobhūmiharttaro gostrībālahanāśca ye ।।

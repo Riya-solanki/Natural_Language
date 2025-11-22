@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2661 | label: meter | g:0.306 m:0.625 ---
+
+parārthaparadāreṣu yadā vāñchāṃ kariṣyati ।
+sa yāti narakaṃ ghoraṃ rauravaṃ bahulāḥ samāḥ ।।

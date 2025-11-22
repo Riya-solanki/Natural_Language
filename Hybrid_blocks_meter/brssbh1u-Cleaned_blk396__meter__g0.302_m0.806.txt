@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 396 | label: meter | g:0.302 m:0.806 ---
+
+FN prādeśena manasā mīyata iti vā ।
+prayuktāyāstadarthe vartamānāyāḥ ।

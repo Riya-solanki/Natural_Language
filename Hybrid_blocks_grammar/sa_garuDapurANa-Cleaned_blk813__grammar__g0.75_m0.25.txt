@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 813 | label: grammar | g:0.75 m:0.25 ---
+
+oṃ samastaparivārāyācyutāya namaḥ । oṃ dhātre namaḥ । oṃ vidhātre namaḥ । oṃ gaṅgāyai namaḥ । oṃ yamunāyai namaḥ । oṃ śaṅkhanidhaye namaḥ । oṃ padmanidhaye namaḥ । oṃ caṇḍāya namaḥ । oṃ pracaṇḍāya namaḥ । oṃ dvāraśriyai namaḥ । oṃ ādhāraśaktyai namaḥ । oṃ kūrṃmāya namaḥ । oṃ anantāya namaḥ । oṃ śriyai namaḥ । oṃ dharṃmāya namaḥ । oṃ jñānāya namaḥ । oṃ vairāgyāya namaḥ । oṃ aiśvaryāya namaḥ । oṃ adharṃmāya namaḥ । oṃ ajñānāya namaḥ । oṃ avairāgyāya namaḥ । oṃ anaiśvaryāya namaḥ । oṃsaṃ sattvāya namaḥ । oṃ raṃ rajase namaḥ । oṃ taṃ tamase namaḥ । oṃ kaṃ kandāya namaḥ । oṃ naṃ nālāya namaḥ । oṃ lāṃ padmāya namaḥ । oṃ aṃ arkamaṇḍalāya namaḥ । oṃ soṃ somamaṇḍalāya namaḥ । oṃ vaṃ vahnimaṇḍalāya namaḥ । oṃ vimalāyai namaḥ । oṃ utkarṣiṇyai namaḥ । oṃ jñānāyai namaḥ । oṃ kriyāyai namaḥ । oṃ yogāyai namaḥ । 
+oṃ prahvyai namaḥ ।
+oṃ satyāyai namaḥ ।
+oṃ īśānāyai namaḥ ।
+oṃ anugrahāyai namaḥ ।।

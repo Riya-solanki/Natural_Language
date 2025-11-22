@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 396 | label: grammar | g:0.583 m:0.5 ---
+
+pūjopakaraṇībhūtaviśvaveśena gauravam aho kim api bhaktānāṃ kim apy eva ca lāghavam ।।

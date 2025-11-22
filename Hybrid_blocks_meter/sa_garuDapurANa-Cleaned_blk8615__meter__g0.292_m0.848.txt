@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8615 | label: meter | g:0.292 m:0.848 ---
+
+śrīkṛṣṇa uvāca ।
+pakṣirāja śṛṇuṣva tvaṃ yatra pretāścaranti vai ।
+parārthadāragrahaṇāccha lāddrohānniśācarāḥ ।।

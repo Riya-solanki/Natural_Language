@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 15 | label: grammar | g:0.552 m:0.5 ---
+
+tvayy āyattaṃ kṛṣiphalam iti bhrūvilāsānabhijñaiḥ prītisnigdhair janapadavadhūlocanaiḥ pīyamānaḥ ।
+sadyaḥsīrotkaṣaṇasurabhi kṣetram āruhya mālaṃ kiṃ cit paścād pravalaya gatiṃ bhūya evottareṇa ।।

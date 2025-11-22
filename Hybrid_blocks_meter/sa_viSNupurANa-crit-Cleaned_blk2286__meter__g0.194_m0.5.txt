@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2286 | label: meter | g:0.194 m:0.5 ---
+
+bhagavan yat tvayā proktaṃ paramārthamayaṃ vacaḥ 
+śrute tasmin bhramantīva manaso mama vṛttayaḥ ।।

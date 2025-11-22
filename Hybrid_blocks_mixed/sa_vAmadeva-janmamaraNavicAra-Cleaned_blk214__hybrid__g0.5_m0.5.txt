@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 214 | label: hybrid | g:0.5 m:0.5 ---
+
+prayāti sarvato dikṣu tat kṣetraṃ vaiṣṇavaṃ matam ।।

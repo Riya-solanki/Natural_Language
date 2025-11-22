@@ -1,0 +1,6 @@
+--- source: brssgo4u-Cleaned.txt | block: 347 | label: hybrid | g:0.375 m:0.459 ---
+
+kathaṃ punaḥ mukta iti ucyate - yāvatā aparaṃ jyotirupasaṃpadya' iti kāryagocaram eva enaṃ śrāvayati ।
+jyotiḥśabdasya bhautike jyotiṣi rūḍhatvāt ।
+na ca anativṛtto vikāraviṣayāt kaścit mukto bhavitum arhati ।
+vikārasya ārtatvaprasiddheḥ iti ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6319 | label: meter | g:0.351 m:0.565 ---
+
+sa hanti sūryaṃ sandhyāyāṃ nopāstiṃ kurute tu yaḥ ।
+dahanti mantrapūtena toyenānalarūpiṇā ।।

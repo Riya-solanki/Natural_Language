@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 792 | label: meter | g:0.264 m:0.646 ---
+
+ṛṣaya ūcuḥ ।
+kṛtopanayanaḥ samyag brahmacārī gurau vaset ।
+tatra dharmo asya yastaṃ ca kathyamānaṃ niśāmaya ।।

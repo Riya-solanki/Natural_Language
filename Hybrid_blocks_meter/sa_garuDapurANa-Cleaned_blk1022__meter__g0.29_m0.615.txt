@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1022 | label: meter | g:0.29 m:0.615 ---
+
+hariruvāca ।
+śṛṇu māheśvarīṃ pūjāṃ kathyamānāṃ vṛṣadhvaja ।
+ādau snātvā tathācamya hyāsane copaviśya ca ।।

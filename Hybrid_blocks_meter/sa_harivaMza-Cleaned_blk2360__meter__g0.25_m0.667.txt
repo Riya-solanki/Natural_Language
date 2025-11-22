@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2360 | label: meter | g:0.25 m:0.667 ---
+
+te vṛkāḥ pancabaddhāś ca daśabaddhās tathāpare 
+triṃśadviṃśatibaddhāś ca śatabaddhās tathāpare ।। 
+pañcāśatṣaṣṭibaddhāś ca catvāriṃśat tathaiva ca । 
+niścerus tasya gātrād dhi śrīvatsakṛtalakṣaṇāḥ 
+kṛṣṇasya kṛṣṇavadanā gopānāṃ bhayavardhanāḥ ।।

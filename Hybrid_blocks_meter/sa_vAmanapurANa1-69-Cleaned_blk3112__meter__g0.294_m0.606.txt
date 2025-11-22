@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3112 | label: meter | g:0.294 m:0.606 ---
+
+ditiruvāca ।
+na tāvatrāparādho asti manye diṣṭamidaṃ purā ।
+saṃpūrṇe tvapi kāle vai yā śaucatvamupāgatā ।।

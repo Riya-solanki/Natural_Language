@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4644 | label: grammar | g:0.519 m:0.021 ---
+
+sūtamāgadhakalpaiś cāpy astuvann apsarogaṇāḥ 
+devadevaṃ suvapuṣaṃ sragviṇaṃ raktavāsasam ।। 
+haraṃ sahomaṃ varadaṃ ramayanti manoramāḥ । 
+tatas tu devyā rūpeṇa vikralekhā varāpsarāḥ 
+bhavaṃ prasādayām āsa devī ca prāhasat tadā ।। 
+prasādayantīm īśānaṃ prahasanty apsaroganāḥ । bhavasya pārṣadā divyā nānārūpā mahaujasaḥ ।। devyā hy anujñayā sarve krīḍante tatra tatra ha ।। atha te pārṣadās tatra rahasye suvipaścitaḥ । mahādevasya rūpeṇa tac cihnaṃ rūpam āsthitāḥ । nanṛtur bhūtapatayo vicitrābhinayānvitāḥ । 
+tato devyās tu rūpeṇa līlayā vadanena ca 
+devī prahāsaṃ mumuce tāś caivāpsarasas tadā ।।

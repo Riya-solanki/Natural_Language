@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4153 | label: meter | g:0.194 m:0.5 ---
+
+dadṛśe dvārakā cāru meghair dyaur iva saṃvṛtā 
+sākṣād bhagavato veśma vihitaṃ viśvakarmaṇā ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3409 | label: grammar | g:0.646 m:0.5 ---
+
+tataś ca śatakrator vṛṣabharūpadhāriṇaḥ kakutstho atiharṣasamanvito bhagavataś carācaraguror acyutasya tejasāpyāyito devāsurasaṃgrāme samastān evāsurān nijaghāna ।।

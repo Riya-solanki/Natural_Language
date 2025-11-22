@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 916 | label: meter | g:0.25 m:0.555 ---
+
+bhojenoktāḥ sthāyino' nye garvaḥ sneho dhṛtir matiḥ ।
+sthāsnur evoddhata-preyaḥ śāntodātta-raseṣv api । 
+tatra sneho rater bhedas tridhā cecchātma-tat-kṛtaḥ ।।

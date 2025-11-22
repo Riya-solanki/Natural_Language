@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8967 | label: meter | g:0.25 m:1.0 ---
+
+vaidiśaṃ nāma nagaraṃ sarvasampatsamanvitam ।
+nānājanapadākīrṇaṃ nānāratnasamākulam ।
+nānāpuṇyasamāyuktaṃ nānāvṛkṣasamākulam ।।

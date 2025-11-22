@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 266 | label: meter | g:0.448 m:0.561 ---
+
+kāraṇaguṇapūrvakatvātkāryaguṇānām ।
+atha sarve caturguṇā eva kalpyetan, tato apsvapi gandhasyopalabdhiḥ syāt, tejasi gandharasayoḥ, vāyau gandharūparasānām ।
+nacaivaṃ dṛśyate ।
+tasmādapyanupapannaḥ paramāṇukāraṇavādaḥ ।।

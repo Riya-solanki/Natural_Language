@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 331 | label: grammar | g:0.75 m:0.5 ---
+
+-aitareyake-'ātmā vā idameka evāgra āsīt'ityupakramya aprajñānaṃ brahma'ityupasaṃhṛtam । vājasaneyake-'ahaṃ brahmāsmi'ityupakramya aayamātmā brahma'ityupasaṃhṛtam । ātharvaṇe-'kasmin bhagavo vijñāte sarvamidaṃ vijñātaṃ bhavati'iti sarvātmakaṃ brahmopakramya abrahmaivedamamṛtaṃ purastāt'iti tadevopasaṃhṛtam । ityādīni ca vākyānyudāhartavyāni ।

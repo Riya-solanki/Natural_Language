@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2168 | label: meter | g:0.25 m:0.5 ---
+
+yajñaḥ paśur vahnir aśeṣa-ṛtvik somaḥ surāḥ svargamayaś ca kāmaḥ 
+ityādikarmāśritamārgadṛṣṭaṃ bhūrādibhogāś ca phalāni teṣām ।।

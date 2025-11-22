@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 830 | label: grammar | g:0.604 m:0.5 ---
+
+prātaranuvākaṃ ced duritam upākuryāt pra vāṃ daṃsāṃsy aśvināv avocam iti pañcabhir juhuyāt ।।

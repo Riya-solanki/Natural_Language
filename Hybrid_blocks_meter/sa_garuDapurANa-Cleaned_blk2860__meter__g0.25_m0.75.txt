@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2860 | label: meter | g:0.25 m:0.75 ---
+
+brahmadānasamaṃ puṇyaṃ prāpnoti dviguṇonnatim ।
+lokāyataṃ kutarkaśca prākṛtamlecchabhāṣitam ।।

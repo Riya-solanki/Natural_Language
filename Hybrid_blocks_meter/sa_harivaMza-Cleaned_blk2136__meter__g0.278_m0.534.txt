@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2136 | label: meter | g:0.278 m:0.534 ---
+
+yogenātmasamutthena tvaṃ gaccha vijayāya vai 
+vayam apy ālayaṃ svaṃ gacchāmo madhusūdana ।। 
+ity uktvā devadeveśaṃ brahmā lokapitāmahaḥ । jagāma sa prabhur gehaṃ devāś cāpi yathāgatam । 
+sa devān abhyanujñāya vivikte tridivālaye 
+jagāma viṣṇuḥ svaṃ deśaṃ kṣīrodasyottarāṃ diśam ।।

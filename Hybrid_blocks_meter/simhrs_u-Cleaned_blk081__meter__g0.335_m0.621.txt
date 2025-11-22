@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 81 | label: meter | g:0.335 m:0.621 ---
+
+tatra-
+anukūlas tv eka-jāniḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6799 | label: meter | g:0.25 m:0.625 ---
+
+vyāsādyā munayaḥ sarve stuvanto madhusūdanam ।
+matikṣayānnivartante na govindaguṇakṣayāt ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3566 | label: meter | g:0.194 m:0.625 ---
+
+ulūkaḥ kaitaveyaś ca vīraś cāṃśumataḥ sutaḥ 
+ekalavyo bṛhatkṣatraḥ kṣatradharmā jayadrathaḥ ।।

@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 335 | label: hybrid | g:0.542 m:0.5 ---
+
+tatsaṃpūrṇamanorathasya me kāmacāraḥ saṃprati vihāreṣu । tadito dāruparvataprāsādameva gacchāmaḥ ।

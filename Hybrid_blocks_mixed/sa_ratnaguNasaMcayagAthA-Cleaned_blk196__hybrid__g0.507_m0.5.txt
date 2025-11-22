@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 196 | label: hybrid | g:0.507 m:0.5 ---
+
+yasmiṃśca kāli vidu paṇḍitu bodhisattvo caratī imāṃ pravara śūnya samādhi śāntām 
+atrāntare na ca nimitta prabhāvitavyo na ca ānimittasthitu śānta praśāntacārī ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2612 | label: meter | g:0.194 m:0.625 ---
+
+akṣarāntaritaṃ kṛtvā saṣaḍaṅgā bhaved ume 
+hrasvā tyājyā prayatnena dīrghā grāhyā sulocane ।।

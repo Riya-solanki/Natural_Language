@@ -1,0 +1,7 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 406 | label: meter | g:0.367 m:0.649 ---
+
+veśyā hi nāma mūrtimatyeva nikṛtiḥ । vyasanaṃ hi nāma socchvāsaṃ maraṇam । dvijo bhūmivṛhaspatiḥ ।
+ityevamādiṣvguṇahānikalpanā vyākhyātā ।।
+vyatirekaviśeṣoktibhyāṃ vyājastutiṃ bhinnāṃ darśayitumāha 
+saṃbhāvyaviśiṣṭakarmākaraṇānnindāstotrārthā vyājastutiḥ ।।
+atyantaguṇādhiko viśiṣṭastasya ca karma viśiṣṭakarma, tasya sambhāvyasya kartuṃ śakyasyākaraṇānnindāviśiṣṭasāmyasampādanena stotrārthā vyājastutiḥ । yathā

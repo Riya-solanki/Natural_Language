@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3484 | label: grammar | g:0.75 m:0.5 ---
+
+"tatra trilokavijayasiddhirbhavati । trilokavijayamudrāṃ badhvā maheśvaraṃ [vāmapa]denākramya sādhayet । tataḥ sā pratimā nādaṃ muñcati । tato huṃkāraḥ prayoktavyaḥ । huṃkāre prayuktemātre maheśvarādayaḥ sarvatrailokyādhipatayaḥ saparivārā; sādhakasya purata āgatvā ājñāvaśyavidheyā bhavanti । tataḥ prabhṛti sarvatrilokādhipatirvajradharo bhavati । ākāśena gacchati sakalatrilokacakraṃ parikramyāgacchati, duṣṭadevādayaśca sarvasatvān huṃkāreṇa damayati । sarvatathāgatavajrahuṃkārarūpī sakalatrilokamājñayā vartayan sarvatathāgatān savajrasatvān paśyannārāgayaṃśca varṣahasrān jīvatī-" tyāha bhagavān vajrahuṃkāraḥ ।।

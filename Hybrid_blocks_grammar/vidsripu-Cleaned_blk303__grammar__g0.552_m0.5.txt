@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 303 | label: grammar | g:0.552 m:0.5 ---
+
+sadyaḥsnātānuliptā iva dadhati rucaṃ pallavāḥ kardamāṅkāḥ kacchāntāḥ kāśatūlaiḥ pavanavaśagatair meṣayūthopameyāḥ ।
+nadyaḥ pratyagratīropanatisarabhasaiḥ khañjanaiḥ sāñjanākṣā haṃsāḥ kaṃsāridehatviṣi gaganatale śaṅkhaśobhāṃ vahanti ।।

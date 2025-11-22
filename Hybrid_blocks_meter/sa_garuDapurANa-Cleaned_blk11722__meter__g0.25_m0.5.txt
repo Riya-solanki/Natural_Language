@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11722 | label: meter | g:0.25 m:0.5 ---
+
+snānaṃ kṛtvā śeṣatīrthe viśuddhenaiva cetasā ।
+eteṣāṃ lakṣaṇaṃ śrutvā prayāti paramāṃ gatim ।।

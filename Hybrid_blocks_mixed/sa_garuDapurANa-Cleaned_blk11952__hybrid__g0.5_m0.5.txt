@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11952 | label: hybrid | g:0.5 m:0.5 ---
+
+gaṅgādiṣaṭkaṃ samameva nityaṃ parasparaṃ nottamaṃ nādhamaṃ ca ।
+pradhānāgneḥ pāvikānyaiva gaṅgā sadā śubhā nātra vicāryamasti ।।

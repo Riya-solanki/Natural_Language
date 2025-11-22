@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10741 | label: meter | g:0.25 m:0.625 ---
+
+pañcadhātumaye kṛṣṇe harirūpavicintanam ।
+svayaṃ vyaktasthale cāpi cidā nandatvakalpanam ।।

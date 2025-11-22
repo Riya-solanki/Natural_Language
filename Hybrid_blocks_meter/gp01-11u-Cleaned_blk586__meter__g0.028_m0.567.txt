@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 586 | label: meter | g:0.028 m:0.567 ---
+
+[] atha tādṛśa-mahotpāta-dṛśvarī śrīmatī vrajeśvarī sarvānarvācīnāḥ prati sa-gadgadaṃ jagāda,
+"putro bhaved evam atispṛhā nau
+nāsīd abhūd eṣa tu vaḥ spṛhātaḥ ।
+pratyarpi so' yaṃ bata yuṣmakābhir
+asmāsu yuṣmāsu tathāsmakābhiḥ ।। [indravajrā]

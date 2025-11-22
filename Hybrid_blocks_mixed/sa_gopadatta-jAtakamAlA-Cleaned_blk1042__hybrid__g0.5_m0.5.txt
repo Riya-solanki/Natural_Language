@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1042 | label: hybrid | g:0.5 m:0.5 ---
+
+bhavanty akāle tapasaḥ prayogāś candroparāgā iva sopasargāḥ ।
+tasmād ito buddhir iyaṃ kumāryo nivartyatām utpathacāriṇīva ।।

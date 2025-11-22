@@ -1,0 +1,3 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2600 | label: grammar | g:0.646 m:0.5 ---
+
+kaṃ mu a hūṃ hūṃ la jva la jva na śa nā ra gho ।।

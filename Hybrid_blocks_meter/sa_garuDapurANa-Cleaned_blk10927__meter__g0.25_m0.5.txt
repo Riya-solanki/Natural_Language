@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10927 | label: meter | g:0.25 m:0.5 ---
+
+kṛṣṇāvatāre kanyeva nandaputrānujā hi sā ।
+rajobhimānibhūdevī bhāryā sā sūkarasya ca ।।

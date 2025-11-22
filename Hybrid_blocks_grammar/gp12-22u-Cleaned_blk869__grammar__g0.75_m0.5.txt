@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 869 | label: grammar | g:0.75 m:0.5 ---
+
+[] samājaś cāyaṃ samam eva taṃ pariveṣa iva paritaś chādayāmāsa, cakora-vāra iva tat-kāntim āsvādayāmāsa, vārāṃ nidhir iva cātmānam ullolatayā sampādayāmāsa ।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 818 | label: grammar | g:0.646 m:0.5 ---
+
+atra proṣite yakṣe sneha-janitayā tad-anyāsaṅga-śaṅkayā janitaḥ priyā-kleśaḥ mayy aviśvāsinī mā bhūr iti pratyāśvāsanena vyajyate ।

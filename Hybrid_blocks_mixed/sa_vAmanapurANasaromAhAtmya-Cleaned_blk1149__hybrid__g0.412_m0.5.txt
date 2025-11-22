@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1149 | label: hybrid | g:0.412 m:0.5 ---
+
+tvaṃ vai dhātā viśvakṛtāṃ vareṇyas tvāṃ pūjayanti praṇatāḥ sadaiva ।
+candrādityau cakṣuṣī te bhavān hi tvameva cāgniḥ prapitāmahaśca ।
+ārādhya tvāṃ sarakhatīṃ vāglabhante ahorātre nimiṣonmeṣakartā ।।

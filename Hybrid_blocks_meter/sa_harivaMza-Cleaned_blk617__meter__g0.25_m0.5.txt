@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 617 | label: meter | g:0.25 m:0.5 ---
+
+yaiḥ kriyante hi karmāṇi śarīrair divi daivataiḥ 
+tair eva tatkarmaphalaṃ prāpnuvantīha devatāḥ ।। 
+manuṣyas tv anyadehena śubhāśubham iti sthitiḥ । 
+sadyaḥ phalanti karmāṇi devatve pretya mānuṣe 
+yāni karmāṇi devatve tāni santy eva mānuṣe । 
+tasmāt tvaṃ tapasaḥ putri pretyeha prāpsyase phalam ।।

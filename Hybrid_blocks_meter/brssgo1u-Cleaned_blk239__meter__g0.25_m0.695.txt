@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 239 | label: meter | g:0.25 m:0.695 ---
+
+vibhutvādibhirhi bahubhirdharmaiḥ sadṛśamākāśena brahma bhavati ।
+naca mukhyasaṃbhave gauṇor'tho grahaṇamarhati ।
+saṃbhavati ceha mukhyasyaivākāśasya grahaṇam ।

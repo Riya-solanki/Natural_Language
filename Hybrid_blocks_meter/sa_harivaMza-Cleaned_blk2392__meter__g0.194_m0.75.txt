@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2392 | label: meter | g:0.194 m:0.75 ---
+
+tad vrajasthānam adhikaṃ cakāśe kānanāvṛtam 
+ramyaṃ vananiveśaṃ vai svabhivṛṣṭyāmṛtopamam ।।

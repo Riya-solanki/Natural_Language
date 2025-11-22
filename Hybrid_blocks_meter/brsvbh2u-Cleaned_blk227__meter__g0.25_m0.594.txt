@@ -1,0 +1,9 @@
+--- source: brsvbh2u-Cleaned.txt | block: 227 | label: meter | g:0.25 m:0.594 ---
+
+rūpādihīnakaraṇādhiṣṭhānaṃ hi puruṣasya svabhogādāveva dṛṣṭaṃ nānyatra ।
+nahi bāhyaṃ kuṭhārādyaparidṛṣṭaṃ vyāpārayan kaścidupalabhyate ।
+tasmādrūpādihīnaṃ karaṇaṃ vyāpārayata īśvarasya bhogādiprasaktiḥ tathā cānīśvaratvamiti bhāvaḥ ।
+kalpāntaramāhaanyatheti ।
+pūrvamadhiṣṭhitiradhiṣṭhānamidānīṃ tu adhiṣṭhānaṃ bhogāyatanaṃ śarīramuktam ।
+tathā bhogādiprasaṅgenānīśvaratvaṃ pūrvamāpāditam ।
+saṃprati tu śarīritvena bhogādiprasaṅgādanīśvaratvamuktamiti viśeṣaḥ ।।

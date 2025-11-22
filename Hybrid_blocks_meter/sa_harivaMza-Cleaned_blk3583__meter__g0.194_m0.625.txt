@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3583 | label: meter | g:0.194 m:0.625 ---
+
+devair nigaditārthasya gadā tasyāpare kare 
+viṣaktā kumudākṣasya nāmnā kaumodakīti sā ।।

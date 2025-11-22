@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1245 | label: meter | g:0.194 m:0.75 ---
+
+{jyotsneva nayanānandaḥ sureva madakāraṇam ।
+prabhuteva samākṛṣṭasarvalokā nitambinī ।।}

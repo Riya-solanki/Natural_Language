@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 169 | label: meter | g:0.194 m:0.521 ---
+
+tyaktavyaṃ vivaśena yanna ca tathā kasmaicidarthāya yat
+tannyāyena dhanaṃ tyajanyadi guṇaṃ kañcitsamudbhāvayet ।
+ko asau tatra bhajeta matsarapathaṃ jānanguṇānāṃ rasaṃ
+prītyādyā vividhāśca kīrtyanusṛtā dānapratiṣṭhāguṇāḥ ।।

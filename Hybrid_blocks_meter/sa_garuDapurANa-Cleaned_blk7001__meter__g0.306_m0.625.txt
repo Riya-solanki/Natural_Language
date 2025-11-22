@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7001 | label: meter | g:0.306 m:0.625 ---
+
+vibhuṃ prabhuṃ viśvadharaṃ viśuddhamaśeṣasaṃsāravināśahetum ।
+yo vāsudevaṃ vimalaṃ prapannaḥ sa mokṣamāpnoti vimuktasaṅgaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5108 | label: meter | g:0.194 m:0.75 ---
+
+āyurhārnyā balaglānir balaglānyā vivarṇatā 
+vaivarṇyād vyādhisaṃpīḍā nirvedo vyādhipīḍanāt ।।

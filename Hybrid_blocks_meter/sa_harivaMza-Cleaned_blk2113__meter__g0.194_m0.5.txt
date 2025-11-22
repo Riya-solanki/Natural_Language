@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2113 | label: meter | g:0.194 m:0.5 ---
+
+tāṃś cāsurān samutsādya vaṃśaṃ kṛtvātmano mahat 
+sthāpayiṣyasi maryādāṃ nṛṇāṃ tan me niśāmaya ।।

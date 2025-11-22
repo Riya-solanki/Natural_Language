@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 427 | label: meter | g:0.052 m:0.729 ---
+
+{tataḥ praviśati yaugandharāyaṇaḥ pratīhārī ca }
+{yaugandharāyaṇaḥ} - bhoḥ
+{ātmagatam }

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9596 | label: meter | g:0.25 m:0.5 ---
+
+brāhmaṇārthe gavārthe ca strīṇāṃ balavadheṣu ca ।
+prāṇatyāgaparo yastu sa vai mokṣamavāpnuyāt ।।

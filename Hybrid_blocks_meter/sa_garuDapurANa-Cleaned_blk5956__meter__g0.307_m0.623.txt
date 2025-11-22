@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5956 | label: meter | g:0.307 m:0.623 ---
+
+gajasthāne vṛṣaṃ dṛṣṭvā rājamānadhanādikam ।
+gajasthāne kharaṃ dṛṣṭvā pūrvaṃ duḥ khaṃ tataḥ sukham ।।

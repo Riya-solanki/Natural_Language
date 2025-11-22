@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5886 | label: meter | g:0.25 m:0.5 ---
+
+bhūtanyāsaṃ purā kṛtvā nāgānāñca yathākramam ।
+lakārāntā binduyutā mantrā bhūtakrameṇa tu ।।

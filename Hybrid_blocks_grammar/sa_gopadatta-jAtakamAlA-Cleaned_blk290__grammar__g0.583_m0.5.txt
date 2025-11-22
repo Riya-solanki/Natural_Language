@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 290 | label: grammar | g:0.583 m:0.5 ---
+
+atha bodhisattvo abhipraṇamyānuneṣyann anukampāśītalair api nirdahann iva vacobhir jananīṃ praty āha ।

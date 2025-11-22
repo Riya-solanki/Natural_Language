@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2456 | label: meter | g:0.25 m:0.625 ---
+
+svapne vā yadi pratyakṣaṃ samādhiguṇayogataḥ 
+vivarṇāṃ paśyate chāyāṃ jīved varṣatrayaṃ tu saḥ ।।

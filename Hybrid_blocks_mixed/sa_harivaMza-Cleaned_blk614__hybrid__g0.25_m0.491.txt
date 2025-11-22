@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 614 | label: hybrid | g:0.25 m:0.491 ---
+
+trīṇy apaśyad vimānāni patamānā divaś cyutā 
+trasareṇupramāṇāni sāpaśyat teṣu tān pitṝn ।। 
+apaśyat patamānā sā vimānatrayam antikāt । trasareṇupramāṇāṃs tāṃs tatrāpaśyat svakān pitṝn । 
+susūkṣmān aparivyaktān agnīn agniṣv ivāhitān 
+trāyadhvaṃ ity uvācārtā patantī tān avākśirāḥ ।।

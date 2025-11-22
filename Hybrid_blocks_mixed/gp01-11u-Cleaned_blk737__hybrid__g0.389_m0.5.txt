@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 737 | label: hybrid | g:0.389 m:0.5 ---
+
+paśyann api tṛṇāvartam apaśyann iva taṃ janaḥ ।
+kṛṣṇam evāgamad draṣṭuṃ tat-premā hy adbhutādijit ।। [anuṣṭubh]
+spṛṣṭaḥ kampreṇa hastena dṛṣṭaḥ sāsreṇa cakṣuṣā ।
+pitrātha mātur utsaṅgād avitrā śiśur ādade ।। [anuṣṭubh]

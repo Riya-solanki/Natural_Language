@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 28 | label: hybrid | g:0.517 m:0.5 ---
+
+na paṅkād udbhūtir na jalasahavāsavyasanitā vapur digdhaṃ kāntyā sthalanalinaratnadyutimuṣā 
+vyadhāsyad durvedhā hṛdayalaghimānaṃ yadi na te tvam evaiko lakṣmyāḥ paramam abhaviṣyaḥ padam iha ।।

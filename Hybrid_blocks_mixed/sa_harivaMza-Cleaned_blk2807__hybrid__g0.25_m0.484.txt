@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2807 | label: hybrid | g:0.25 m:0.484 ---
+
+prasādaṃ sāgarā jagmur vavur vātā jagaddhitāḥ 
+ītayaḥ praśamaṃ jagmur jagmur nirvairatāṃ nṛpāḥ ।। 
+kṛṣṇe abhiṣita etāni sarvāṇi kurunandana । nirvairāṇyabhavaṃs tāta krūrāṇy api nisargataḥ । 
+mārgastho vibabhau bhānuḥ somo yogena saṃgataḥ 
+pravālapuṣpaśabalāḥ phalavantaś ca pādapāḥ ।।

@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 109 | label: meter | g:0.25 m:0.5 ---
+
+anyonyam ūcus te sarve samyag āha mahān ṛṣiḥ 
+bhrātṝṇāṃ padavī caiva gantavyā nātra saṃśayaḥ 
+jñātvā pramāṇaṃ pṛthvyāś ca sukhaṃ srakṣyāmahe prajāḥ ।। 
+ekāgrā svasthamanaso yathāvad anupūrvaśaḥ । 
+te api tenaiva mārgeṇa prayātāḥ sarvatodiśam 
+adyāpi na nivartante samudrebhya ivāpagāḥ ।। 
+naṣṭeṣu śabalāśveṣu dakṣa kruddho abravīd vacaḥ । nāradaṃ nāśam ehīti garbhavāsaṃ vaseti ca । 
+tadāprabhṛti vai bhrātā bhrātur anveṣaṇe nṛpa 
+prayāto naśyati vibho tan na kāryaṃ vipaśyatā ।।

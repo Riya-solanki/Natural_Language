@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 100 | label: meter | g:0.25 m:0.5 ---
+
+tena dakṣaya putrā vai haryaśvā iti viśrutāḥ 
+nirmathya nāśitāḥ sarve vidhinā ca na saṃśayaḥ ।।

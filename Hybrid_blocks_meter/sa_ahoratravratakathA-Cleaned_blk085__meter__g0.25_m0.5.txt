@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 85 | label: meter | g:0.25 m:0.5 ---
+
+pañcāmṛtaiś candanagandhagarbhair ye snāpayantī jinacaityabimbam ।
+mandākinītoyasugandhagandhais te cāpsarobhī ratim āvahanti ।।

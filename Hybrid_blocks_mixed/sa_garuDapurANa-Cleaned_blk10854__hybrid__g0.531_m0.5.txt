@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10854 | label: hybrid | g:0.531 m:0.5 ---
+
+vakṣye viśeṣaṃ vaiśvadeve khagendra gopyaṃ no vadānyatra vidvān ।
+sūryādīnāṃ ye ca dāne ca dadyurvinā vāyorantarasthaṃ hariṃ ca ।।

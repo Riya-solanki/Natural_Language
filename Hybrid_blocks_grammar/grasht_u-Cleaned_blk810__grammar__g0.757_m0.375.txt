@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 810 | label: grammar | g:0.757 m:0.375 ---
+
+anyaccāha tīkṣṇamityādi ।।
+daradena hiṅgulena hataṃ māritaṃ tīkṣṇaṃ sāro vidhinā arivargavidhānena tāpyena svarṇamākṣikena māritaṃ śulbaṃ tāmraṃ etadapi krāmaṇaṃ kathitaṃ vā kāntamukhaṃ kāntaṃ lohajāti uktaṃ granthādau tat mukhaṃ pradhānaṃ yasya tat mākṣikairvā māritaṃ niyojyaṃ iti śeṣaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 49 | label: meter | g:0.25 m:0.75 ---
+
+ahitaṃ hitamācāraśūnyabuddheḥ śrutisamayairbahubhirvahiṣkṛtasya ।
+udarabharaṇamātne kevalecchormanujapaśośca ko viśeṣaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5918 | label: meter | g:0.25 m:0.5 ---
+
+tathā paścime caṇḍāya vai namaḥ ।
+kaumāryai cottare colkāya krodhāya namaḥ vaiṣṇavyai ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4541 | label: meter | g:0.25 m:0.5 ---
+
+matsaṃbandhena vo gopā yadi lajjā na jāyate 
+ślāghyo vāhaṃ tataḥ kiṃ vo vicāreṇa prayojanam ।।

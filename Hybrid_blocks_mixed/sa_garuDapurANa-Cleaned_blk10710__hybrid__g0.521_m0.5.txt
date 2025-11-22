@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10710 | label: hybrid | g:0.521 m:0.5 ---
+
+sauriprakāśe ca yathaiva darśanaṃ tathā mama jñānagato viśeṣaḥ ।
+dīpaprakāśe ca yathaiva darśanaṃ tathā jñānaṃ vāsudevasya cāsti ।।

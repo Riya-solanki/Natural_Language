@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 838 | label: grammar | g:0.75 m:0.5 ---
+
+atra merutaṭa siṃhāsanayoḥ kalpavṛkṣanāyakayostabakahārayośca parasparamupamānopameya bhāvavivakṣāyāṃ viśeṣaṇaviśeṣyabhāvakalpanayā dvayoreva vākyārthayoḥ kalpitatvādekenaiva dyotakaśabdena tayoḥ parasparamupamānopameyabhāvo abhihita iti seyamekadyotakā nāma vākyārthasāmyavatī vākyopamā ।

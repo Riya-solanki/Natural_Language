@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 64 | label: grammar | g:0.562 m:0.483 ---
+
+vaidikasya darśanasya pratyāsannatvādgurutaratarkabalopetatvādvedānusāribhiśca kaiścicchiṣṭhaiḥ kenacidaṃśena parigṛhītatvātpradhānakāraṇavādaṃ tāvadvyapāśritya yastarkanimitta ākṣepo vedāntavākyeṣūdbhāvitaḥ sa parihṛtaḥ ।
+idānīmaṇvādivādavyapāśrayeṇāpi kaiścinmandamatibhirvedāntavākyeṣu punastarkanimitta ākṣepa āśaṅkyata ityataḥ pradhānamallanibarhaṇanyāyenātidiśati ।
+parigṛhyanta iti parigrahāḥ na parigrahā aparigrahāḥ śiṣṭānāmaparigrahāḥ ।
+etena prakṛtena pradhānakāraṇavādanirākaraṇakāraṇena śiṣṭairmanuvyāsaprabhṛtibhiḥ kenacidaṃśaṃnāparigṛhītā ye aṇvādikāraṇavādāste api pratiṣiddhatayā vyākhyātā nirākṛtā draṣṭavyāḥ tulyatvānnirākaraṇakāraṇasya nātra punarāśaṅkitavyaṃ kiñcidasti ।
+tulyamātrāpi paramagambhīrasya jagatkāraṇasya tarkānavagāhyatvaṃ tarkasyāpratiṣṭhitatvamanyathānumāne apyavimokṣa āgamavirodhaścetyevañjātīyakaṃ nirākaraṇam ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1417 | label: grammar | g:0.594 m:0.5 ---
+
+alaṃkāraḥ śaṅkākaranarakapālaḥ parikaraḥ praśīrṇāṅgo bhṛṅgī vasu ca vṛṣa eko bahuvayāḥ ।
+avastheyaṃ sthāṇor api bhavati yatrāmaraguror vidhau vakre mūrdhni sthitavati vayaṃ ke punar amī ।।

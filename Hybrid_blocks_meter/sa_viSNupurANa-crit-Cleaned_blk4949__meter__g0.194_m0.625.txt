@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4949 | label: meter | g:0.194 m:0.625 ---
+
+tat kṣantavyam idaṃ sarvam atikramakṛtaṃ pitaḥ 
+kaṃsapratāpavīryābhyām āvayoḥ paravaśyayoḥ ।।

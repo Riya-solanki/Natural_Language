@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 237 | label: meter | g:0.194 m:0.5 ---
+
+yadguṇaṃ yatsvabhāvaṃ ca yadrūpaṃ ca jagad dvija 
+sargādau sṛṣṭavān brahmā tan mamācakṣva vistarāt ।।

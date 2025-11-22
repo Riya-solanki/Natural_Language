@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1177 | label: meter | g:0.313 m:0.57 ---
+
+dundubhiruvāca ।
+evaṃ samājñāpayate surāristvāṃ devi daityo mahiṣāsurastu ।
+yathāmarā hīnabalāḥ pṛthivyāṃ bhramānti yuddhe vijitā mayā te ।।

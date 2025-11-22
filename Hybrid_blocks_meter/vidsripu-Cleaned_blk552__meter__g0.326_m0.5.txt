@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 552 | label: meter | g:0.326 m:0.5 ---
+
+praṇālīdīrghasya pratikalam apāṅgasya suhṛdaḥ kaṭākṣavyākṣepāḥ śiśuśapharaphālapratibhuvaḥ ।
+snuvānāḥ sarvasvaṃ kusumadhanuṣo asmān prati sakhe navaṃ netrādvaitaṃ kuvalayadṛśaḥ saṃnidadhati ।।

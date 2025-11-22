@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 577 | label: hybrid | g:0.542 m:0.5 ---
+
+[] ṛṣir uvāca-teṣāṃ sukhasyotpattaye tu dūraṃ vyāptum unmukhaṃ bhavitā ।

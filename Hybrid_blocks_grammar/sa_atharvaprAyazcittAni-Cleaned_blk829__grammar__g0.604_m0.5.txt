@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 829 | label: grammar | g:0.604 m:0.5 ---
+
+śvaḥsutyāṃ ced ahutāyāṃ tadahartāv apāgached indrāya harivate iti brūyād ihānvīcamatibhir iti tisrbhiḥ ।

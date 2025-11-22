@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 164 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ śokena harṣeṇa kālam ajānati vraja-loke rajanir ajanīti tatraiva kṣut-tṛṣṇāti-krami-kṛṣṇātikrama-khedena kṛśatāṃ gatāḥ pratyūṣaṃ yāvad ūṣuḥ । tatra ca sarvām eva śarvarīṃ vrajorvīśa-patnī sapatna-śaṅkayā sutam aṅkata eva niveśayantī paramāveśena muhur api tan-mukha-nirīkṣaṇa-sukha-sakṣaṇāpi tad-vṛtta-smaraṇena tasmād vilakṣaṇā prabhātam āsasāda । hanta hanta kṣudvantaṃ tam api gavāṃ dugdham api dugdhaṃ vidhāya na pāyayāmāsa, satyaṃ sarvam atratyaṃ viṣa-sakalaṅkam iti śaṅkayā ।

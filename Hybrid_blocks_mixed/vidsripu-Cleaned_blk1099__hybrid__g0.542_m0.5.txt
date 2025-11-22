@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1099 | label: hybrid | g:0.542 m:0.5 ---
+
+rajjvā diśaḥ pravitatāḥ salilaṃ viṣeṇa pāśair mahī hutavahajvalitā vanāntāḥ ।
+vyādhāḥ padāny anusaranti gṛhītacāpāḥ kaṃ deśam āśrayatu yūthapatir mṛgāṇām ।।

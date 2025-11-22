@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 147 | label: meter | g:0.25 m:0.695 ---
+
+tayoḥ putrasahasrāṇi ṣaṣṭiṃ dānavasattamān 
+caturdaśaśatān anyān hiraṇyapuravāsinaḥ । 
+mārīcir janayām āsa mahatā tapasānvitaḥ ।।

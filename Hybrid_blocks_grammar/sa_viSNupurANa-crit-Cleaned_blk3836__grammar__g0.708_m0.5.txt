@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3836 | label: grammar | g:0.708 m:0.5 ---
+
+tatra tv akhilāny eva bhagavannāmakāraṇāny abhavan । tataś ca tatkāraṇakṛtānāṃ teṣām aśeṣāṇām evācyutanāmnām anavaratam anekajanmasaṃvardhitavidveṣānubandhicitto vinindanasaṃtarjanādiṣūccāraṇam akarot ।।

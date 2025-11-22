@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 130 | label: meter | g:0.306 m:0.5 ---
+
+na hī sa vidyate rājan sarvatra bhuvaneṣv api ।
+ahorātravrataṃ puṇyaṃ yo anyathātvaṃ kariṣyati ।।

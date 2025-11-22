@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 249 | label: meter | g:0.0 m:0.555 ---
+
+{rājā} - athakiṃ balātkāreṇa 
+{vidūṣakaḥ} - teṇa hi ṇa sakkaṃ soduṃ 
+[tena hi na śakyaṃ śrotum । ]

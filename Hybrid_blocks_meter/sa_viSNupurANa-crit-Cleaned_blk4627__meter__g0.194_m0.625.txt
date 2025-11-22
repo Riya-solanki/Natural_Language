@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4627 | label: meter | g:0.194 m:0.625 ---
+
+vṛndāvanacaraṃ ghoram ādekṣyāmi ca keśinam 
+tatraivāsāv atibalas tāv ubhau ghātayiṣyati ।।

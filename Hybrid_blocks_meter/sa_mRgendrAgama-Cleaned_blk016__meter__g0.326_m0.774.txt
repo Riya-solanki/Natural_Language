@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 16 | label: meter | g:0.326 m:0.774 ---
+
+upamanyurharaṃ dṛṣṭvā vimanyurabhavanmuniḥ 
+kathaṃ tasya vaco mithyā yasya vaśyaḥ payonidhiḥ ।।

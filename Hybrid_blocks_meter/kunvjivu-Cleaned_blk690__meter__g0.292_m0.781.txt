@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 690 | label: meter | g:0.292 m:0.781 ---
+
+anaucityapravṛttānāṃ kāmakrodhādikāraṇāt ।
+bhāvānāṃ ca rasānāṃ ca bandha ūrjasvi kathyate ।।
+tathā kāmo asya vavṛdhe yathā himagireḥ sutām ।
+saṃgṛhītuṃ pravavṛte haṭhenāpāsya satpatham ।।
+iti ।

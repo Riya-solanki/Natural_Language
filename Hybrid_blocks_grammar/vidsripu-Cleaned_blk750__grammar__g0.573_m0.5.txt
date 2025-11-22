@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 750 | label: grammar | g:0.573 m:0.5 ---
+
+etasyā virahajvaraḥ karatalasparśaiḥ parīkṣyo na yaḥ snigdhenāpi janena dāhabhayataḥ prasthaṃpacaḥ pāthasām ।
+niḥśaktīkṛtacandanauṣadhividhāv asmiṃś camatkāriṇo lājasphoṭam amī sphuṭanti maṇayo viśve api hārasrajām ।।

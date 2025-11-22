@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1803 | label: meter | g:0.194 m:0.625 ---
+
+bhūṣaṇāny atiśubhrāṇi gandhāḍhyaṃ cānulepanam 
+vīṇāveṇumṛdaṅgānāṃ svanās tūryāṇi ca dvija ।।

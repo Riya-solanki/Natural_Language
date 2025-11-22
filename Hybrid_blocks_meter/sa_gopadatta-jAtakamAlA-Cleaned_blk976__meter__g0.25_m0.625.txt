@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 976 | label: meter | g:0.25 m:0.625 ---
+
+anekādīnavamayo vinipātī manojvalaḥ ।
+ity evaṃ sarvaduḥkhānāṃ krodhārir dhuri vartate ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 216 | label: grammar | g:0.75 m:0.5 ---
+
+dviṣantam agne dviṣatāṃ ca vittaṃ gaccha tvam ādāya parāvato anyān pitrye praṇīta upaśāmyamāna iha prajāṃ dīrgham āyuś ca dhehi । yas tvam agne pramattānāṃ praṇīta upaśāmyasi sukalpam agne ta tvayā punas tvoddīpayāmasi ity ucyamāne agniṃ praṇīya prajvālyaindrasya kukṣir asi iti dvābhyāṃ samidhāv abhyādadhyāt ।।

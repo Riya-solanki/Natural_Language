@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3145 | label: meter | g:0.25 m:0.5 ---
+
+api naḥ sa kule jāyād yo no dadyāt trayodaśīm 
+pāyasaṃ madhusarpibhyāṃ varṣāsu ca maghāsu ca ।।

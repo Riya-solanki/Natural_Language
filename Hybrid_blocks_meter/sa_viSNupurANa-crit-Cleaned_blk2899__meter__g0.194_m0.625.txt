@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2899 | label: meter | g:0.194 m:0.625 ---
+
+svasthaḥ praśāntacittas tu kṛtāsanaparigrahaḥ 
+abhīṣṭadevatānāṃ tu kurvīta smaraṇaṃ naraḥ ।।

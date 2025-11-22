@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2217 | label: meter | g:0.25 m:0.625 ---
+
+mokāro bhujayoryugmaṃ mithunastatra saṃsthitaḥ ।
+māso āṣāḍhanāmā ca tṛtīyaṃ patrakaṃ smṛtam ।।

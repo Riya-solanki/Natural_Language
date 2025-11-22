@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2270 | label: meter | g:0.306 m:0.5 ---
+
+dṛṣṭvaiva devā hariśaṅkaraṃ taṃ namo astu te sarvagatāvyayeti ।
+proktvā praṇāmaṃ kamalāsanādyāścakrurmatiṃ caikatarāṃ niyujya ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1502 | label: grammar | g:0.75 m:0.5 ---
+
+mālatī -hā tāda tumaṃ bi ṇāma mama ebbaṃ ti sabbahā jidaṃ bhoatihṇāe । ity atra kāmandakyā mālatī-taj-janakayor bheda-kalpanaṃ bhedaḥ ।

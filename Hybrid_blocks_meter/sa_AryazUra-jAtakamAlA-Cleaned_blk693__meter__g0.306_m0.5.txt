@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 693 | label: meter | g:0.306 m:0.5 ---
+
+hiṃsāviṣaktaḥ kṛpaṇaḥ phalepsoḥ prāyeṇa lokasya nayajña yajñaḥ ।
+yajñastu kīrtyābharaṇaḥ samaste śīlasya nirdoṣamanoharasya ।।

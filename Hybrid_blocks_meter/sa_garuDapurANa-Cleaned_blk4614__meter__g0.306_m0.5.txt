@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4614 | label: meter | g:0.306 m:0.5 ---
+
+upekṣyamāṇasya ca gulmavṛddhimādhmānarugvai vividhāśca rogāḥ ।
+supīḍito antaḥ svanavān prayāti pradhmāpayanneti punaśca mūrdhni ।।

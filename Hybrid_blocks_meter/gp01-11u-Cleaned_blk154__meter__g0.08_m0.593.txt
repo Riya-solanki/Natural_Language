@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 154 | label: meter | g:0.08 m:0.593 ---
+
+tadīyānāṃ premā yad api kṛti-caryātiga-sukhaas
+tathāpy uccair hetur bhavati hari-sāhāyaka-vidhau ।
+jagat-kārye yadvac chruti-mata-para-brahma nitarām
+acintyo yo bhāvaḥ sa hi na hi vitarkaṃ viṣahate ।। [śikhariṇī]

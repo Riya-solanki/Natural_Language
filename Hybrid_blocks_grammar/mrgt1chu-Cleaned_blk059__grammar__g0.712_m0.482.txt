@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 59 | label: grammar | g:0.712 m:0.482 ---
+
+māyāyām adhikāriṇo māyādhikāriṇas teṣām uparitanaśuddhādhvavartividyeśvarasamānadhāmnām aṣṭādaśādhikaṃ śataṃ vidhatta iti pūrveṇaiva sambandhaḥ ।। 
+tatra maṇḍalino aṣṭau vakṣyamāṇāḥ krodhādyāś cāṣṭāv eva rudrāṇāṃ ca brahmāṇḍadhārakāṇāṃ śataṃ śrīkaṇṭhavīrabhadrau cety evam aṣṭādaśottaraṃ śataṃ prāgvan mantreśvaratve śivena niyuktam ity arthaḥ ।।

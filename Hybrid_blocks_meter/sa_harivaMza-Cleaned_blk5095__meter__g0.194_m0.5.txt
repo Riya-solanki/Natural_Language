@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5095 | label: meter | g:0.194 m:0.5 ---
+
+sarvaḥ sarvaṃ vijānāti vṛddhān anupasevya ca 
+na kaścid akavir nāma yugānte pratyupasthite ।।

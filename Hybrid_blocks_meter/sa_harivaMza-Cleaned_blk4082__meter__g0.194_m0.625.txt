@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4082 | label: meter | g:0.194 m:0.625 ---
+
+te cāsāṃ rakṣiṇo vṛddhā dānavā yadunandanam 
+kṛtāñjalipuṭāḥ sarve praṇipetur vayodhikāḥ ।।

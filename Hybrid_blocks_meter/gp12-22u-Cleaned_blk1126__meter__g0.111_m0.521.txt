@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1126 | label: meter | g:0.111 m:0.521 ---
+
+mithaḥ svīkāraḥ syāt pariṇaya-vidhis tat-parikāraḥ
+pare te te dharmāḥ sa punar udabodhi svayam iha ।
+ato yūyaṃ siddhā vraja-gamanam evādya kuruta
+kṣapāyāṃ kasyāñcit kila milanam apy āśu bhavitā ।। [śikhariṇī]

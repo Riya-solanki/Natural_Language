@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8437 | label: meter | g:0.306 m:0.5 ---
+
+śleṣmāśru bāndhavairmuktaṃ preto bhuṅkte yato avaśaḥ ।
+ato na roditavyaṃ hi kriyāḥ kāryāḥ svaśaktitaḥ ।।

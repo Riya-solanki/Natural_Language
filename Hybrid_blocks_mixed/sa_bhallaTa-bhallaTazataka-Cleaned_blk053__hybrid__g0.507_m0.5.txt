@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 53 | label: hybrid | g:0.507 m:0.5 ---
+
+cintāmaṇes tṛṇamaṇeś ca kṛtaṃ vidhātrā kenobhayor api maṇitvam adaḥ samānam 
+naiko arthitāni dadann arthijanāya khinno gṛhṇañ jarattṛṇalavaṃ tu na lajjate anyaḥ ।।

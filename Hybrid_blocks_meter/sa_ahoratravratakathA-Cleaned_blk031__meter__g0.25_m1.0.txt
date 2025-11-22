@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 31 | label: meter | g:0.25 m:1.0 ---
+
+chattradhvajapatākābhir nṛtyagītasuvādanaiḥ ।
+phalamūlādibhiḥ pattraiḥ pūgatāmbūlakais tathā ।।

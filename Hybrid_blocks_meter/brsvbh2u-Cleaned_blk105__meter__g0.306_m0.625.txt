@@ -1,0 +1,4 @@
+--- source: brsvbh2u-Cleaned.txt | block: 105 | label: meter | g:0.306 m:0.625 ---
+
+paryaṇamatkathaṃ tadevāsati vilakṣaṇapratyayopanipāte vaiṣamyamupaiti ।
+anapekṣasya svato vāpi vaiṣamye na kadācitsāmyaṃ bhavedityarthaḥ ।।

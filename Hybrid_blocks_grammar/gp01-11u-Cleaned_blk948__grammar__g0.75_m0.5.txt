@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 948 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam avadhāya sa sarva-darśaḥ śrīmān upanandaḥ parāmamarśa, satyam āśaṅkitaṃ prajāṃ prati prajāvatyor anayoḥ prajāvatyoḥ, yad idaṃ goṣṭha-prakoṣṭham avaduṣṭam iva dṛśyate । bhavatu, vrajarāja-samājam anu vicārayiṣyāmaḥ ।

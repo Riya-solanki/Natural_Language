@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1498 | label: hybrid | g:0.5 m:0.5 ---
+
+atra mālatyā martukāmāyāḥ pratinidhitayā lavaṅgikāyāṃ bakulamālā-samarpaṇaṃ dānam ।

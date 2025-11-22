@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 881 | label: grammar | g:0.625 m:0.5 ---
+
+[] sa tu pitari rataś cirataḥ śliṣṭa-kaṇṭhatayābhyarṇam āgataḥ karṇe varṇayāmāsa, tāta, mātaiva iti ।

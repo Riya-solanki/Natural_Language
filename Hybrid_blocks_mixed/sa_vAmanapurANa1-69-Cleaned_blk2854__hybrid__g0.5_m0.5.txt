@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2854 | label: hybrid | g:0.5 m:0.5 ---
+
+namo astu te śaṅkara śarva śaṃbho sahasranetrāṅghribhujaṅgabhūṣaṇa ।
+dṛṣṭvaiva sarvān bhuvanāṃstavodare śrānto bhavantaṃ śaraṇaṃ prapannaḥ ।।

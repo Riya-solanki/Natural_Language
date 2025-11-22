@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9931 | label: grammar | g:0.583 m:0.5 ---
+
+na dṛśyate ko api mṛtaḥ samāgato rājā yatirvā dvijapuṅgavo api vā ।
+yo vai mṛtaḥ sāhasikaḥ sa martyako nāśaṃ yo api dharātale sthitaḥ ।।

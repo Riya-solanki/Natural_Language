@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1698 | label: hybrid | g:0.542 m:0.5 ---
+
+ity atra mukhato guṇa-kīrtanam apy antato doṣāyeti garhaṇam idam ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3319 | label: meter | g:0.272 m:0.595 ---
+
+tataḥ kilakilāśabdaḥ samāje samavartata 
+prāvalgata ca govindo vākyaṃ cedam uvāca ha ।।

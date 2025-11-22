@@ -1,0 +1,3 @@
+--- source: ttssarvu-Cleaned.txt | block: 64 | label: grammar | g:0.562 m:0.5 ---
+
+nanu puruṣaprakṛtyādīnāmalakṣyāṇāṃ lakṣyāṇāṃ ca ghaṭapaṭādīnāmakhilaprameyāṇāṃ laukikaiḥ kathamanubhavo vidheyo ata āha ।

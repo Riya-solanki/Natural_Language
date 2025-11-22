@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 477 | label: grammar | g:0.804 m:0.285 ---
+
+ityādu vivakṣitānyaparavācye dhvanau mukhyārthabādhaḥ । tatkathamatra lakṣaṇā । lakṣaṇāyāmapi vyañjanamavaśyamāśrayitavyamiti pratipāditam ।
+yathā ca samayasavyapekṣā abhidhā tathā mukhyārthabādhāditrayasamayaviśeṣasavyapekṣā lakṣaṇā । ata evābhidhāpucchabhūtā setyāhuḥ ।
+na ca lakṣaṇātmakameva dhvananaṃ tadanugamena tasya darśanāt । na ca tadanugatameva abhidhāvalambanenāpi tasya bhāvāt । na cobhayānusāryeva avācakavarṇānusāreṇāpi tasya dṛṣṭeḥ । na ca śabdānusāryeva aśabdātmakanetratribhāgāvalokanādigatatvenāpi tasya prasiddheḥ iti abhidhātātparyalakṣaṇātmakavyāpāratrayātivartī dhvananādiparyāyo vyāpāronapahnavanīya eva ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11850 | label: meter | g:0.435 m:0.605 ---
+
+garuḍa uvāca ।
+kiṃ taddvayaṃ devadeveśa kiṃ vā tatkāraṇaṃ kīdṛśaṃ me vadasva ।
+dvayostyāgaṃ kīdṛśaṃ me vadasva tyāgātsukhaṃ kīdṛśaṃ me vadasva ।।

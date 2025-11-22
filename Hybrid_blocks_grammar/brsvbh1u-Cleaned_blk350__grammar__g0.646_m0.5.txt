@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 350 | label: grammar | g:0.646 m:0.5 ---
+
+-vartamānasaṃnikarṣajanyapratyakṣasya kāryarūpadharmagocaratvānupapatterna dharmasya pratyakṣatā । na cājñāte puṃsāṃ vākyaracanā saṃbhavatīti apauruṣeyo veda ityādi tatroktamavagantavyam ।

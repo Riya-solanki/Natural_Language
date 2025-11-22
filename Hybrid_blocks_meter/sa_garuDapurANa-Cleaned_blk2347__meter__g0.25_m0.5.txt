@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2347 | label: meter | g:0.25 m:0.5 ---
+
+divā ca sarvadā rātrau gayāyāṃ śrāddhakṛdbhavet ।
+vārāṇasyāṃ kṛtaṃ śrāddhaṃ tīrthe śoṇanade tathā ।।

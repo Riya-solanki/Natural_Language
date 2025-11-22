@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 399 | label: meter | g:0.307 m:0.623 ---
+
+gatvāpi ke cit phalakair mahadbhir ambhonidhes tīram avekṣamāṇāḥ ।
+dūrāmbusaṃtānapariśramārtās trāsākulā nedur udīrṇanādāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1720 | label: meter | g:0.25 m:0.625 ---
+
+īśāne maraṇaṃ proktaṃ hikkāyāścaphalāphalam ।
+vilikhya ravicakraṃ tu bhāskaro narasannibhaḥ ।।

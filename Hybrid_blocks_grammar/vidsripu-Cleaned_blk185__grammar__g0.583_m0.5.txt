@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 185 | label: grammar | g:0.583 m:0.5 ---
+
+svasti śrīmalayācalāt smarasakhaḥ śrīmān vasantānilaḥ krīḍāveśmasu kāminaḥ kuśalayaty etac ca vaktītarat ।
+eṣo ahaṃ muditālikokilakulaṃ kurvan vanaṃ prāptavān yuṣmābhiḥ priyakāminīparigataiḥ sthātavyam asmād iti ।।

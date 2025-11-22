@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 714 | label: meter | g:0.263 m:0.713 ---
+
+oṃ hrīṃ pratiṣṭhāyai hrūṃ hraḥ phaṭ ।
+oṃ hrīṃ hrūṃ vidyāyai hraṃ hraḥ phaṭ ।
+caturaśītikoṭīnāmucchrayaṃ bhūmitantrakam ।।

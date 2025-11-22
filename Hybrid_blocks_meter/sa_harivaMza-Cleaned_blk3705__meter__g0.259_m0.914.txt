@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3705 | label: meter | g:0.259 m:0.914 ---
+
+sāgarānilasaṃvītaṃ sāgarāmbuniṣevitam 
+viṣayaṃ sindhurājasya śobhitaṃ puralakṣaṇaiḥ ।।

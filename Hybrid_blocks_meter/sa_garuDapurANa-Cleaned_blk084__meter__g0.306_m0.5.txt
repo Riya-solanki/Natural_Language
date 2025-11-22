@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 84 | label: meter | g:0.306 m:0.5 ---
+
+dhyānaṃ pūjopahāro ahaṃ maṇḍalānyahameva ca ।
+itihāsānyahaṃ rudra ! sarvavedā hyahaṃ śiva ! ।।

@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 550 | label: hybrid | g:0.521 m:0.5 ---
+
+varṇavikārā api varṇatvaṃ na vyabhicaranti yathā suvarṇavikāraḥ suvarṇatvamiti ।।

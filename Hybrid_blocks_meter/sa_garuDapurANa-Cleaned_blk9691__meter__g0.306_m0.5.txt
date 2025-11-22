@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9691 | label: meter | g:0.306 m:0.5 ---
+
+manaḥ śilāṃ tathā gātre tilakalkañca sandhiṣu ।
+yavapiṣṭaṃ tathā māṃse madhu vai kṣaudrameva ca ।।

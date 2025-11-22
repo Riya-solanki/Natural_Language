@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11628 | label: meter | g:0.306 m:0.5 ---
+
+gireḥ pucche tu śrīśailaṃ madhyame ahobalaṃ smṛtam ।
+mukhaṃ ca śrīnivāsasya kṣetraṃ ca samudāhṛtam ।।

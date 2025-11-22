@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 187 | label: hybrid | g:0.542 m:0.5 ---
+
+bhūr iyaṃ kim iti nāvadīryate nārakaḥ kva nu sa havyavāhanaḥ ।
+yo na nirdahati pāpakāriṇīṃ kakṣamuṣṭim iva māṃ hatatrapām ।।

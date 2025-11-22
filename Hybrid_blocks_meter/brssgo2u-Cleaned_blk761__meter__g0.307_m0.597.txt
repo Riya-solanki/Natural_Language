@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 761 | label: meter | g:0.307 m:0.597 ---
+
+kartā vijñānātmā puruṣa ityevañjātīyakamapi śāstramanuvādarūpatvādyathāprāpyamevāvidyākṛtaṃ kartṛtvamanuvadiṣyati ।
+etena vihāropādāne parihṛte ।
+tayorapyanuvādarūpatvāt ।

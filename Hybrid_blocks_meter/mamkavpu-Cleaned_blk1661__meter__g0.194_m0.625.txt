@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1661 | label: meter | g:0.194 m:0.625 ---
+
+{dṛśā dagdhaṃ manasijaṃ jīvayanti dṛśaiva yāḥ ।
+virūpākṣasya jayinīstāḥ stuve vāmalocanāḥ ।।}

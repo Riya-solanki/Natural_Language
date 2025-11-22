@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 193 | label: meter | g:0.316 m:0.5 ---
+
+idaṃ ca dānavyasanaṃ madīyaṃ śaṅke cikitsāviṣayavyatītam ।
+tathā hyanādṛtya hitaiṣitāṃ te na me manaḥ saṅkacati pradānāt ।।

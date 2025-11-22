@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2077 | label: meter | g:0.25 m:0.5 ---
+
+na paśyatīha jātyandho rāgāndho api na paśyati ।
+na paśyati madonmatto lobhāktānto na paśyati ।
+so apaśyamāno girijāṃ paśyannapi tadāndhakaḥ ।।

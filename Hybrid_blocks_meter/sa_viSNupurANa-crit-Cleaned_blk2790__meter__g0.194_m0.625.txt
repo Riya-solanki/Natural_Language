@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2790 | label: meter | g:0.194 m:0.625 ---
+
+eteṣāṃ yasya yo dharmo varṇasyokto maharṣibhiḥ 
+kurvīta dārāharaṇaṃ tenānyaṃ parivarjayet ।।

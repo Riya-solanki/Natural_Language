@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6497 | label: meter | g:0.25 m:0.521 ---
+
+tatastṛpyasva dakṣiṇābhimukho vāmopavītī tadutsṛṣṭāgrataḥ ।
+oṃ agnidagdhāśca ye jīvā ye apyadagdhāḥ kule mama ।
+bhūmau dattena tṛpyantu tṛptā yāntu parāṅgatim ।
+iti bhūmau kuśopari saghṛtamannaṃ jalaplutaṃ vikiret ।।

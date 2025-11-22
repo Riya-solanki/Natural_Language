@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 105 | label: meter | g:0.064 m:0.914 ---
+
+sarvātapavinirmuktaṃ bhavadbhaktisudhāsitam
+ātapatram athāsmābhir dhāryate te mahāśaya

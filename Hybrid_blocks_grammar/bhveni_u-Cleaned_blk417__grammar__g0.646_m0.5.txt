@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 417 | label: grammar | g:0.646 m:0.5 ---
+
+SktCh pratyagrahatānāṃ māṃsaṃ yadyuṣṇaṃ rudhiraṃ ca labhyeta । tadeṣa mama pariśramaḥ kṣaṇamātrameva laghu naśyet ।।

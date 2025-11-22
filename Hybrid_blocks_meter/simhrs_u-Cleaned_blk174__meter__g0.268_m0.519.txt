@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 174 | label: meter | g:0.268 m:0.519 ---
+
+yathā-
+try-avasthaiva para-strī syāt prathamaṃ virahonmanāḥ ।
+tato æbhisārikā bhūtvābhisarantī vrajet svayaṃ ।।
+saṅketāc cet paribhraṣṭā vipralabdhā bhavet punaḥ ।
+parādhīna-patitvena nānyāvasthātra saṅgatā ।। iti ।

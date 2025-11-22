@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 690 | label: meter | g:0.064 m:0.968 ---
+
+sarva-kṣetra-prājña ekaḥ parātmā
+tasmin jīvāḥ santi naivātibhinnāḥ ।
+etad-vijñāḥ sādhavo vidvad-ijyās
+tasmād eṣāṃ gopanaṃ naiva yuktam ।। [śālinī]

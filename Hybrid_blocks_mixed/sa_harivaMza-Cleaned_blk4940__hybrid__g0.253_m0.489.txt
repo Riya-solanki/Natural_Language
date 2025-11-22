@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4940 | label: hybrid | g:0.253 m:0.489 ---
+
+mayūre pātite tasmin garuḍenātha pakṣiṇā 
+papāta tasmāt sahasā vegena mahatā balī । 
+bāṇaḥ paramasaṃvignaś cintayan kāryam ātmanaḥ ।। 
+mayātibalamattena na kṛtaṃ suhṛdāṃ vacaḥ । paśyatāṃ devadaityānāṃ prāpto asmy āpadam uttamām । 
+taṃ dīnamanasaṃ jñātvā raṇe bāṇaṃ suviklavam 
+cintayad bhagavān rudro bāṇarakṣaṇam āturaḥ ।।

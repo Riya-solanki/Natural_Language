@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 105 | label: meter | g:0.102 m:0.555 ---
+
+pradhānatattvam udbhūtaṃ mahāntaṃ tat samāvṛṇot 
+sāttviko rājasaś caiva tāmasaś ca tridhā mahān 
+pradhānatattvena samaṃ tvacā bījam ivāvṛtam ।।

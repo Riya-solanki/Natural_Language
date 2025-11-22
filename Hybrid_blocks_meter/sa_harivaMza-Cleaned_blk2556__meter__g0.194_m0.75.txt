@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2556 | label: meter | g:0.194 m:0.75 ---
+
+niryogapāśair āsaktau skandhābhyām śubhalakṣaṇau 
+vanamālākṛtoraskau bālaśṛṅgāv ivarṣabhau ।।

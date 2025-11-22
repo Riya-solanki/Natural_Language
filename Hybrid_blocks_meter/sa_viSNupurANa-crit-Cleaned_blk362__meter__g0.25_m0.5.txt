@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 362 | label: meter | g:0.25 m:0.5 ---
+
+sanandanādayo ye ca pūrvaṃ sṛṣṭās tu vedhasā 
+na te lokeṣv asajjanta nirapekṣāḥ prajāsu te ।।

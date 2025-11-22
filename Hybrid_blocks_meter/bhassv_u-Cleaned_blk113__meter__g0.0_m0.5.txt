@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 113 | label: meter | g:0.0 m:0.5 ---
+
+{dhātrī} - ayye āamappahāṇāṇi suḷahapayyavatthāṇāṇi mahāpurusahiaāṇi honti 
+[ārye āgamapradhānāni sulabhaparyavasthānāni mahāpuruṣahṛdayāni bhavanti । ]

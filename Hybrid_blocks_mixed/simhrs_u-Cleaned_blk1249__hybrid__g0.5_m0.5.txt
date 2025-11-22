@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1249 | label: hybrid | g:0.5 m:0.5 ---
+
+rāvaṇaḥ-kadā nu khalu paraśurāmo rasātala-tridivayor jetā dātā ca saṃvṛttaḥ । rāvaṇaḥ punaḥ pratigrahītā ca । tatas tvayā kim asau pratyuktaḥ । ity upakramya

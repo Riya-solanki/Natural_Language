@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 235 | label: hybrid | g:0.5 m:0.5 ---
+
+[] kṛṣṇaḥ sahāsam- āha sma, "mātar, atra vane na ko' pi trāsaḥ । sa tu samūlakāsaṃ kaṣitānāṃ keśiprabhṛtīnāṃ saṅgata eva gataḥ ।"

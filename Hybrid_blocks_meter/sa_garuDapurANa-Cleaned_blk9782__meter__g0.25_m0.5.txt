@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9782 | label: meter | g:0.25 m:0.5 ---
+
+ekoddiṣṭe tu samprāpte yadi vighnaḥ prajāyate ।
+māsenyasmin tithau tasyāṃ kuryācchrāddhaṃ tadaiva hi ।।

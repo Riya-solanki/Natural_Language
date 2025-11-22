@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 21 | label: meter | g:0.333 m:0.639 ---
+
+balābalacintā bhaviṣyatīti tadbhedapratipādanamātraṃ tātparyeṇa ।
+anyad upodghātādinā ।
+tatra

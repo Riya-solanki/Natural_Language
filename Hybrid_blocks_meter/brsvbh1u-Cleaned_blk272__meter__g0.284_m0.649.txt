@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 272 | label: meter | g:0.284 m:0.649 ---
+
+dyabhedena taddharmajanmajarāmaraṇādiduḥkhayogādityata uktam-mukteti ।
+sadaiva muktaḥ sadaiva kevalo anādyavidyāvaśāt bhrāntyā tathāvabhāsata ityarthaḥ ।
+tadevamanaupādhikaṃ brahmaṇo rūpaṃ darśayitvāvidyopā

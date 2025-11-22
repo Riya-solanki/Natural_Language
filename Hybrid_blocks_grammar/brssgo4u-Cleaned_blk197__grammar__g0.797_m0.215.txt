@@ -1,0 +1,10 @@
+--- source: brssgo4u-Cleaned.txt | block: 197 | label: grammar | g:0.797 m:0.215 ---
+
+na dehinaḥ ।
+tat sāmānyāt ana tasmātprāṇā utkrāmantyatraiva samavanīyante' iti atra api abheda upacāreṇa dehāpādānasya eva utkramaṇasya pratiṣedhaḥ ।
+yadi api prādhānyaṃ dehina iti vyākhyeyaṃ yeṣāṃ pañcamī pāṭhaḥ ।
+yeṣāṃ tu ṣaṣṭhīpāṭhaḥ teṣāṃ vidvat saṃbandhini utkrāntiḥ pratiṣidhyata iti prāpta utkrāntipratiṣedhārthatvāt asya vākyasya dehapādāna eva sā pratiṣiddhā bhavati, dehāt utkrāntiḥ prāptā na dehinaḥ ।
+api ca acakṣuṣo vā mūrdhno vānyebhyo vā śarīradeśebhyastamutkrāmantaṃ prāṇo anūtkrāmati prāṇo anūtkrāmantaṃ sarve prāṇā anūtkrāmanti' iti evam avidvat viṣayaṃ saprapañcam utkramaṇaṃ saṃsāragamanaṃ ca darśayitvā aiti nu kāmayamānaḥ' iti upasaṃhṛtya avidvat kathām aathākāmayamānaḥ' iti vyapadiśya vidvāṃsaṃ yadi tat viṣaye api utkrāntameva prāpadeyasamañjasa eva vyapadeśaḥ syāt ।
+tasmāt avidviṣaye prāptayoḥ gati utkrāntyoḥ vidvat viṣaye pratiṣedha iti evameva vyākhyeyaṃ vyapadeśārthavattvāya ।
+na ca brahmavidaḥ sarvagatabrahmātmabhūtasya prakṣīṇakāmakarmaṇa utkrāntiḥ gatiḥ vā upapadyate nimitta abhāvāt ।
+aatra brahma samaśnute' iti ca evañjātīyakāḥ śrutayo gati utkrāntyoḥ abhāvaṃ sūcayanti ।।

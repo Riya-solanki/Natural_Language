@@ -1,0 +1,3 @@
+--- source: ttssarvu-Cleaned.txt | block: 24 | label: grammar | g:0.604 m:0.5 ---
+
+nanu satsvapi vilakṣaṇeṣu bahuṣu padārtheṣu puruṣasya tatsambandhābhāvāt kathaṃ tato duḥkhamatastatsāmagrīṃ nirūpayiṣurādau buddhīndriyāṇyāha ।

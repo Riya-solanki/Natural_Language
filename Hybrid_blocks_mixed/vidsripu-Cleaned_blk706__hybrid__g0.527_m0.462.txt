@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 706 | label: hybrid | g:0.527 m:0.462 ---
+
+aho divyaṃ cakṣur vahasi tava sāpi praṇayinī parākṣṇām agrāhyaṃ yuvatiṣu vapuḥ saṃkramayati ।
+samānābhijñānaṃ katham itarathā paśyati puro bhavān ekas tasyāḥ pratikṛtimayīr eva ramaṇīḥ ।।
+manovinodasya

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2164 | label: meter | g:0.25 m:0.75 ---
+
+varjyādānaṃ tathā duṣṭamavadhyavadhabandhanam ।
+vivādamarthahetūtthaṃ tṛtīyaṃ narakaṃ smṛtam ।।

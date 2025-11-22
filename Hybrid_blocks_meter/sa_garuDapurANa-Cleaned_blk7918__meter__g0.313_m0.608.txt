@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7918 | label: meter | g:0.313 m:0.608 ---
+
+tato yāhi gṛhaṃ sādho yena sarvaṃ kṛtaṃ bhavet ।
+vipaściduvāca ।
+tataḥ sa punarāgatya kārtikyāṃ puṣkare vare ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1739 | label: meter | g:0.194 m:0.5 ---
+
+kṣipram eva vadhiṣyāmi raṇe nārāyaṇaṃ śairaiḥ 
+jātyantaragato hy eṣa mṛdhe bādhati dānavān ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1917 | label: meter | g:0.25 m:0.5 ---
+
+sa eva mūlaprakṛtir vyaktarūpī jagac ca saḥ 
+tasminn eva layaṃ sarvaṃ yāti tatra ca tiṣṭhati ।।

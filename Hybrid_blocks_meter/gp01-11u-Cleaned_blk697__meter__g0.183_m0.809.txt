@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 697 | label: meter | g:0.183 m:0.809 ---
+
+ajñāta-vācaṃ śukavat paṭhantaṃ
+viśeṣa-pṛcchā-kṛti-tarjanīkam ।
+dhātrī-janādhyāpita-vāk-pracāraṃ
+vrajasya bhāgyaṃ paritaḥ smarāmi ।। [upajāti ]

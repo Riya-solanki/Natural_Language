@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6352 | label: meter | g:0.315 m:0.714 ---
+
+svādhyāyaśaucasaṃtoṣatapāṃsi niyatātmavān 
+kurvīta brahmaṇi tathā parasmin pravaṇaṃ manaḥ ।।

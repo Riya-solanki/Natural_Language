@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1401 | label: meter | g:0.0 m:0.75 ---
+
+prāsastu kuntaḥ koṇastu striyaḥ pālyaśrikoṭayaḥ

@@ -1,0 +1,57 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4707 | label: grammar | g:0.591 m:0.049 ---
+
+sakhīdaṃ vai kathaṃ guhyaṃ kāryaṃ kāryaviśārade 
+guhye kṛte bhavet svasti prakāśe jīvitakṣayaḥ ।। 
+citralekhābravīd vākyaṃ śṛṇu tvaṃ niścayaṃ sakhi । kṛtaṃ puruṣakāraṃ hi daivaṃ nāśayate sakhi ।। na vai devyāḥ prasādas te anukūlo bhaviṣyati । apramādāt kṛtaṃ guhyaṃ na kaścij jñāsyate naraḥ ।। sakhyā vai evam uktā sā paryavasthitacetanā । evam etad iti prāha sāniruddham idaṃ vacaḥ ।। diṣṭyā svapnagataś coro dṛśyate subhago janaḥ । yatkṛte tu vayaṃ khinnā durlabhapriyakāṅkṣayā ।। kaccit tava mahābāho kuśalaṃ sarvatogatam । hṛdayaṃ hi mṛdu strīṇāṃ tena pṛcchāmy ahaṃ tava ।। tasyās tad vacanaṃ śrutvā uṣāyāḥ ślakṣṇam arthavat । so apy āha yaduśārdūlaḥ śubhākṣarataraṃ vacaḥ ।। harṣaviplutanetrāyāḥ pāṇināśru pramṛjya ca । prahasya sasmitaṃ prāha hṛdayagrāhakaṃ vacaḥ ।। kuśalaṃ me varārohe sarvatra mitabhāṣiṇi । tvatprasādena me devi priyam āvedayāmi te ।। adṛṣṭapūrvaś ca mayā deśo ayaṃ śubhadarśane । niśi svapne mayā dṛṣṭaṃ sakṛt kanyāpuraṃ mahat ।। evam evam ahaṃ bhīru tvatprasādād ihāgataḥ । na ca tad rudrapatnyā vai mithyā vākyaṃ bhaviṣyati ।। devyās tu prītim ājñāya tvatpriyārthaṃ ca bhāvini । anuprāpto asmi cādyaiva prasīda śaraṇaṃ gataḥ । ity uktvā ramayām āsa so aniruddho mahāyaśāḥ । 
+ity uktvā tvaramāṇā sā guhyadeśe svalaṃkṛtā 
+kāntena saha saṃyuktā sthitā vai bhītabhītavat 
+tataś codvāhadharmeṇa gāndharveṇa samīyatuḥ । 
+anyonyaṃ rematus tau tu cakravākau yathā divā ।। 
+patinā sāniruddhena mumude tu varāṅganā । 
+kāntena saha saṃyuktā divyasraganulepanā । 
+ekadeśe gṛhasyāsya pracchanno caiva bhāminī । 
+kareṇur dviradeneva varayām āsa saṃgatā ।। 
+papau tasya mukhaṃ sādhvī samāliṅgya yathākramam । 
+netre cucumba sā devī bāṇasya duhitā yadum ।। 
+bhūyo bhūyaḥ samāśliṣya yatheṣṭaṃ madamohitā । 
+na tṛptim āyayau sā tu samāliṅgya yadūttamam ।। 
+tāmasyā vidyayā yuktaḥ prādyumnir atha tatkṣaṇāt । 
+cintayām āsa taṃ dṛṣṭvā gṛhe strījanam adbhutam ।। 
+ko ayaṃ vidhir mama mahān na jāne tv asya kāraṇam । 
+svapno ayaṃ kiṃ mayā dṛṣṭa utāho vibhramo mama ।। 
+jāgarmy ahaṃ na me svapno na ca ma vibhramo mahān । 
+keyam agre sthitā subhrūr lateva ca supuṣpitā ।। 
+udbhrāntahariṇāpaṅgī bhrūlatābhaṅgabhāṣiṇī । 
+pīnastanorujaghanā tāmrapādakarādharā ।। 
+nīlakuñcitakeśāḍhyā madhurasmitabhāṣiṇī । 
+mama netrapathākrāntā candralekheva śāradī । 
+kim idaṃ nātra jānāmi kenedaṃ pratipāditam ।। 
+dṛṣṭvāsya vavṛdhe kāmas tām uṣāṃ madamohitām । 
+sā ca tatpurataḥ sākṣāt pānaṃ kartuṃ samudyatā ।। 
+atha tām iṅgitair jñātvā śrutvā caiva yathārthataḥ । 
+ramayām āsa ramaṇīṃ kāmatas tāṃ manoramām ।। 
+sā cāpi taṃ samāsādya harṣabhītākulekṣaṇā । 
+kāmato ramayām āsa romāñcodgatakarkaśā ।। 
+līlāsaṃlāpalalitair lalanā taṃ samācarat । 
+kareṇur iva mātaṅgaṃ vāśitā girigahvare । 
+aniruddhaṃ mahābāhuṃ nidrāparavaśaṃ gataṃ । 
+tato niruddhaḥ svapne tu svapurāc citralekhayā । 
+nīto bāṇapuraṃ sadyaḥ saṃgataś coṣayā saha ।। 
+dṛṣṭvaivaṃ svapnasaṃsargaṃ uṣayā svasya cādbhutam । 
+vacanena vimohitām ।।
+sa tataś citralekhāṃ tām avekṣyovāca yādavaḥ । 
+dvārakānagarāc chīgram ānītaś citralekhayā ।। 
+bāṇasya nagaraṃ prāpya saṃgato asmy uṣayā rahaḥ । 
+evaṃ svapno mayā dṛṣṭo vicitro adṛṣṭapūrvakaḥ ।। 
+ko ayaṃ vidhir mamāyātaḥ kā tvaṃ kaiṣā ca bhāminī । 
+keyaṃ purī gṛhaṃ kasya tat tvam ākhyātum arhasi ।। 
+iti bruvantaṃ taṃ dṛṣṭvā citralekhā vaco abravīt । 
+api te kuśalaṃ vīra sarvatra yadunandana । 
+ramamāṇāniruddhena avijñātā tu sā tadā ।। 
+papau cāsyā mukhaṃ kāmī samāliṅgya dṛḍhaṃ yaduḥ । parasparaṃ samāśliṣya parasparamukhaṃ papuḥ ।। tayodyatāṃ tato mādhvīṃ papau śiṣṭām apāyayat । tayor evaṃ tadā kāmo vavṛdhe janasaṃsadi ।। citralekhā tataḥ sādhvī bhūṣayām āsa bhūṣaṇaiḥ । vastrair ābharaṇaiś citrair mālyaiś ca bahugandhibhiḥ ।। rarāja yaduvīras tu rohiṇyā candramā yathā । saudhamārge tatas tau tu daṃpatī rematuś ciram । tāṃ tathā ramayām āsa yatheṣṭaṃ yadunandanaḥ । parasparasya vadanaṃ papatus tau parasparam । alaṃkṛtas tayā tatra saṃgataś coṣayā rahaḥ । papau tasya mukhaṃ sādhvī samāliṅgya yathākramam । netre ca cumbito devī bāṇasya duhitā sakhī । 
+tasminn eva kṣaṇe prāpte yadūnām ṛṣabho hi saḥ 
+divramālyāmbaradharo divyasraganulepanaḥ 
+uṣayā saha saṃyukto vijñāto bāṇarakṣibhiḥ ।। 
+damayantyā nalo yathā ।vijahāra yathākāmaṃ ramayaṃs tām uṣāṃ śubhām ।। atha tasyām avasthāyāṃ sthavirā vetrapāṇayaḥ । āmuktakañcukā rājan kañcukīyāḥ samantataḥ ।। aniruddhaṃ tato jñātvā sārdhaṃ kanyāpure sthitam । uṣayā bāṇasutayā ramayantaṃ yatheṣṭataḥ ।। rakṣiṇaḥ sahasā gatvā bhītā bāṇāntikaṃ tadā ।। atha dīptāyudhodagrā nityaṃ suparirakṣakāḥ । te bhītāḥ kathayām āsur aniruddhasya ceṣṭitam ।। eṣa kaścin mahārāja uṣayā saha saṃgataḥ । sthitaḥ kanyāpure rājan kaś cāsau kuta ity api ।। āyātaḥ sahasā rājan na vidmo asya gatiṃ vibho ।। śrutvaitad roṣayuktas tu balaṃ bāṇo nirīkṣya tat । 
+tatas taiś cārapuruṣair bāṇasyāveditaṃ tadā 
+yathādṛṣṭam aśeṣeṇa kanyāyās tadvyatikramam ।।

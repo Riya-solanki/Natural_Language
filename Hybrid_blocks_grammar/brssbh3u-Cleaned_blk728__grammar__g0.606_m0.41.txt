@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 728 | label: grammar | g:0.606 m:0.41 ---
+
+atasmādbrahmaṇaḥ pāṇḍityaṃ nirvedya bālyena tiṣṭhāset' iti bālyamanuṣṭheyatayā śrūyate ।
+tatra bālasya bhāvaḥ karma vā bālyamitiraddhite sati bālabhāvasya vayoviśeṣasyecchāyā saṃpādayitumaśakyatvādyathopapādaṃ mūtrapurīṣatvādibālacaritantargatā vā bhāvaviśuddhiraprarūḍhendriyatvaṃ dambhadarpādirahitatvaṃ vā bālyaṃ syāditi saṃśayaḥ ।
+kiṃ tāvatprāptaṃ kāmacāravādabhakṣaṇatā yathopapādamūtrapurīṣatvaṃ ca prasiddhataraṃ loke bālyamiti tadgrahaṇaṃ yuktam ।

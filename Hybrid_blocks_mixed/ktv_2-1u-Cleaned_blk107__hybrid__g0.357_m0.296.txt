@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 107 | label: hybrid | g:0.357 m:0.296 ---
+
+yathaiva bhāvapradhānatvād ākhyāte tatsambandhād eva guṇabhūtakārakarpratītishiddher na kartṛkarmaṇor abhidhānaṃ bhaviṣyati, evaṃ kartrādyabhidhānād eva tadanyathānupapattyā bhāvanāsiddher anabhidhānam ।
+gamyamānāpekṣayaiva ca karotisāmānādhikaraṇyam, yathā pacatiśabdasya devadattaśabdena ।
+tathābhūtayaiva ca kārakasambandho apy upapatsyate ।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 88 | label: meter | g:0.194 m:0.5 ---
+
+vyaktaṃ viṣṇus tathāvyaktaṃ puruṣaḥ kāla eva ca 
+krīḍato bālakasyeva ceṣṭāṃ tasya niśāmaya ।।

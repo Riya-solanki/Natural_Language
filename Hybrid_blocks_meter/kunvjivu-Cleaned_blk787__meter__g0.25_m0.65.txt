@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 787 | label: meter | g:0.25 m:0.65 ---
+
+atra tvanmukhaminduriti rūpakaṃ pratīyamānatayā kavinopanibaddham ।
+ekadeśavṛttitvamanekadeśavṛttitvaṃ ca rūpakasya dīpakatvameva samālakṣyamiti tadanantaramasyopanibandhanam ।
+tadeva vicchittyantareṇa viśinaṣṭi

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11958 | label: hybrid | g:0.5 m:0.5 ---
+
+nakulasya bhāryā māgadhasyaiva putrī śalyātmajā sahadevasya bhāryā ।
+ubhe hyete aśvibhāryā hyuṣāpi upāsate ṣaḍguṇaṃ viṣṇumādyam ।
+ato apyuṣāsaṃjñakā sā khagendra anantarāñchṛṇu vakṣye mahātman ।।

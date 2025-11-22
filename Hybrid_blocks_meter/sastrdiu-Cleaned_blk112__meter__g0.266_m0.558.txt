@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 112 | label: meter | g:0.266 m:0.558 ---
+
+tatrādyāni catvāri ca pṛthivyaptejovāyuprakṛtīnītyakṣupādadarśanavadabhyupagamyate ।
+śrotraṃ tvākāśātmakaṃ tairabhyupagatam ।
+vayaṃ tu- diśaḥ śrotramiti darśanāddigbhāgameva karṇaśaṣkulyavacchinnaṃ śrotramācakṣmahe ।
+manastu pṛthivyādīnāmevānyatamātmakaṃ tebhyo anyadvā sarvathā tāvadasti manaḥ ।
+taccātmatadguṇeṣveva svatantraṃ pravartate na bāhyeṣu rūpādiṣvityāntaramityucyate ।
+rūpādijñāneṣvapi taccakṣurādisahāyaṃ pravartate, evamanumānādiṣvapi liṅgādisahāyaṃ, anyamanaskasya saṃprayukteṣvapi rūpādiṣu jñānānutpatteḥ ।
+smṛtāvapi saṃskāraparatantraṃ pravartate svatantram ।।

@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 123 | label: hybrid | g:0.524 m:0.375 ---
+
+tathā ca rajatam,idam iti ca dve vijñāne smṛtyanubhavarūpe, tatredamiti purovartidravyamātragrahaṇam, doṣavaśāttadgataśuktitvasāmānyaviśeṣasyāgrahāt, tanmātraṃ ca gṛhītaṃ sadṛśatayā saṃskārodbodhakrameṇa rajate smṛtiṃ janayati ।
+sā ca gṛhīta

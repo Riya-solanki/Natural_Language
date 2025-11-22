@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 1868 | label: meter | g:0.259 m:0.671 ---
+
+atha cūlikā-
+vandi-māgadha-sūtādyaiḥ pratisīrāntara-sthitaiḥ । 
+arthopakṣepaṇaṃ yat tu kriyate sā hi cūlikā ।।
+sā dvidhā cūlikā khaṇḍa-cūlikā ceti bhedataḥ । 
+pātrair yavanikāntaḥsthaiḥ kevalaṃ yā tu nirmitā ।।
+ādāv aṅkasya madhye vā cūlikā nāma sā smṛtā । 
+praveśa-nirgamābhāvād iyam aṅkād bahir gatā ।।

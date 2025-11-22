@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 389 | label: meter | g:0.306 m:0.5 ---
+
+evam ātmānam etasya samyagjñānakriye tathā ।
+jānan yathepsitān paśyañ jānāti ca karoti ca ।।

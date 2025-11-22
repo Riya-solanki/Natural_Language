@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 614 | label: meter | g:0.25 m:0.625 ---
+
+dakṣeṇa yajatā sāpi gaṅgādvāre sarasvatī ।
+vimalodā bhagavatī dakṣeṇa prakaṭīkṛtā ।।

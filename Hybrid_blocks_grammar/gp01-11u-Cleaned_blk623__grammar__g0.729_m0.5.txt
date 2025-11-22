@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 623 | label: grammar | g:0.729 m:0.5 ---
+
+[] tataś ca, brāhmaṇādi-pūjāyāṃ pūryamāṇāyāṃ kṛta-samāharaṇena haraṇena sārdhaṃ sārdha-praharaṇe' py atiyāte na kasyacid anyat kiñcid api chidra-mātram āsīt ।

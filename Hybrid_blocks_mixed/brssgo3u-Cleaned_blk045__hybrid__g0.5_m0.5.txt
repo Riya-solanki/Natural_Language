@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 45 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā paśurbhogya evamajñaḥ na bhedadhīmāndevānāṃ bhogya ityarthaḥ ।

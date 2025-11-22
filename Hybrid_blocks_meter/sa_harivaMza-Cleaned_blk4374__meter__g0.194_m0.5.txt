@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4374 | label: meter | g:0.194 m:0.5 ---
+
+kānta vṛṣṇikumāras tvaṃ na hi tvaṃ śambarātmajaḥ 
+vīra naivaṃvidhān putrān dānavā janayanti hi ।।

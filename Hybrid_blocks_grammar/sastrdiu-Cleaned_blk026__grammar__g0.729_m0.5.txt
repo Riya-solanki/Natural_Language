@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 26 | label: grammar | g:0.729 m:0.5 ---
+
+bhavati na sarvaṃ sarvasya, ataḥ kasyedaṃ kāryamityasti saṃbandhyapekṣā, sāvaśyamadhyāhṛtena kenacinnivartanīyā- asyedaṃ kāryamiti, yasyedaṃ kāryaṃ sa eva niyojya ityucyate ।।

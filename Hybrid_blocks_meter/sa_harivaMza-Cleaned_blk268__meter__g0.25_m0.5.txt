@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 268 | label: meter | g:0.25 m:0.5 ---
+
+vatsas tu maghavān āsīd dogdhā tu savitā vibhuḥ 
+kṣīram ūrjaskaraṃ caiva yena vartanti devatāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 929 | label: meter | g:0.25 m:0.5 ---
+
+tasmāt puṇyatamaṃ tīrthamādyaṃ yatrodakaṃ sthitam ।
+tasmin snātaḥ sarvatīrthaiḥ snāto bhavati mānavaḥ ।।

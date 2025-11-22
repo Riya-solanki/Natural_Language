@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1130 | label: meter | g:0.194 m:0.5 ---
+
+ekam ekam adhaḥ kṛtvā mukhaṃ tatra caturmukhaḥ ।
+namann anya-mukhasyordhvī-bhāvāt pūrtiṃ jagāma na ।। [anuṣṭubh]
+yadyapi na naman mumude vidhir ekāsyānavāg-bhāvāt ।
+tadapi harer mukhacandrā-lokālopān mudaṃ lebhe ।। [upagīti]

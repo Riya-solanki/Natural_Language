@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1064 | label: meter | g:0.056 m:0.729 ---
+
+prasārayaṃs tvaṃ grasanāya cañcuṃ
+sāhāyakaṃ tatra mayāpy akāri ।
+vidīrṇam āsīd yadi sarvam aṅgaṃ
+mamāsti doṣaḥ kva nu mūḍha kahva? ।। [upajāti ]

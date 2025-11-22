@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 64 | label: hybrid | g:0.5 m:0.5 ---
+
+rasād raktaṃ tato māṃsaṃ māṃsamedaś ca jāyate ।।

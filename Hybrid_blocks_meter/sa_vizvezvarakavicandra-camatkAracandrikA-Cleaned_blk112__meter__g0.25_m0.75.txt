@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 112 | label: meter | g:0.25 m:0.75 ---
+
+nāmni yathā nāyakasyaiva vaṃśāvalyām 
+tayorabhūvan kṣitikalpavṛkṣāḥ putrāstrayastrāsiravairivīrāḥ ।
+siṅgaprabhurvennamanāyakaśva vīrāgraṇī recamahīpatiśva ।।

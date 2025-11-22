@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 9 | label: grammar | g:0.625 m:0.5 ---
+
+kāmo nāsti napuṃsakasya kulaṭāvargasya nāsti trapā toyaṃ nāsti marīcikāsu satataṃ nāsti sthiratvaṃ śriyaḥ ।
+dharmo nāsti ca nāstikasya vibhavo nāsti pramattātmanaḥ snehānāṃ kaṇikāpi nāsti gaṇikālokasya ca prāyaśaḥ ।।

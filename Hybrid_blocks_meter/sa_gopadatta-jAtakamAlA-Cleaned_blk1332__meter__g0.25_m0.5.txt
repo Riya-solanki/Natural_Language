@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1332 | label: meter | g:0.25 m:0.5 ---
+
+avagamitamanāś ca bodhisattvaḥ kṣitipatinā vinayānatena tena ।
+uparataviṣayaspṛho api ceto vanagamanād vinivartayāṃ babhūva ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5086 | label: meter | g:0.257 m:0.565 ---
+
+pitṛkṛtyāni deyāni vidhamantaḥ sutās tadā 
+haraṇāya prapatsyante lobhānṛtavirodhitāḥ ।। 
+pitṛdattāni vittāni nighnantas tanayāḥ sadā । grahaṇāya pravartante lobhād anṛtavādinaḥ । 
+saukumārye tathā rūpe ratne copakṣayaṃ gate 
+bhaviṣyanti yugasyānte nāryaḥ keśair alaṃkṛtāḥ ।।

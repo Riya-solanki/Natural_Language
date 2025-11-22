@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 605 | label: meter | g:0.333 m:0.506 ---
+
+jihremi jāgarti gṛhopakaṇṭhe sakhījano vallabhakautukena ।
+tadaṃśukākṣepam adhīrapāṇe vimuñca kāñcīmaṇayo raṇanti ।।
+mahodadheḥ

@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 170 | label: meter | g:0.139 m:0.594 ---
+
+vakṣas te kim api nirīkṣyate praphullaṃ
+sparśaṃ cāṇv api sahate calākṣi yan na ।
+tasmān man-nakha-nakharañjanī-spṛg eva
+syān nīruk tad iti harir jahāsa cātra ।। [praharṣiṇī][]
+[] This verse does not appear in ca, gha

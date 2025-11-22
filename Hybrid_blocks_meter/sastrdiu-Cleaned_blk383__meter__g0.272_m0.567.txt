@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 383 | label: meter | g:0.272 m:0.567 ---
+
+nanu mamāpi ta eva bhaviṣyanti ।
+na ।
+teṣāṃ smṛteranyatrāvyāpārāt ।
+matpakṣe tu smṛtireva janayantor'thapratipattiṃ saṃskārā janayanti ।
+tathāhi pratyekavarṇānubhavabhāvitaiḥ saṃskāraiḥ saṃhatya sarvavarṇagocaraikā smṛtirjanyate ।
+tasyāṃ ca yugapadavabhāsamānā varṇā vinaiva saṃskārāntareṇa saṃhatyārthapratyayaṃ janayanti ।।

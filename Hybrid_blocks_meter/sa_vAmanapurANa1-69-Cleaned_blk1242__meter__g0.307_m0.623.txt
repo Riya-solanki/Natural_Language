@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1242 | label: meter | g:0.307 m:0.623 ---
+
+jaleśapāśo api mahāsureṇa viṣāṇatuṇḍāgrakhurapraṇunnaḥ ।
+nirasya tatkopitayā ca mukto daṇḍastu yāmyo bahukhaṇḍatāṃ gataḥ ।।

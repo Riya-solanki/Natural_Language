@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 588 | label: meter | g:0.264 m:0.5 ---
+
+yūyaṃ vai pitaro smākaṃ yair vayaṃ pratibodhitāḥ 
+dharmajñāḥ kaś ca vaḥ kāmaḥ ko varo vaḥ pradīyatām 
+yad uktaṃ caiva yuṣmābhis tat tathā na tad anyathā ।।

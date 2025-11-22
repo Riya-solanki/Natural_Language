@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4999 | label: meter | g:0.25 m:0.5 ---
+
+āhukaṃ vasudevaṃ ca sāmbaṃ ca yadunandanam 
+sātyakiṃ colmukaṃ caiva vipṛthuṃ ca mahābalam ।। 
+akrūraṃ ca mahābhāgaṃ tathā niṣadham eva ca । 
+etān pariṣvajya tadā mūrdhni cāghrāya vīryavān 
+atha śakro mahābhāgaḥ samakṣaṃ yadumaṇḍale । 
+stuvantaṃ keśihantāraṃ tatrovācottaraṃ vacaḥ । 
+andhakaṃ ca śubhākṣaṃ ca tato vacanam abravīt ।।

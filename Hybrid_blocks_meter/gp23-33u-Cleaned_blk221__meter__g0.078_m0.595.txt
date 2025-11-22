@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 221 | label: meter | g:0.078 m:0.595 ---
+
+tasmin garbhaka-mālya-khaṇḍa-patanād uddaṇḍam ālakṣyate
+kāminyāḥ kila kāmukena racitā keśasya veśakriyā ।। [śārdūla]

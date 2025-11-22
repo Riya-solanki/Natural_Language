@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 107 | label: hybrid | g:0.521 m:0.5 ---
+
+antaḥpure atha manujādhipateḥ pure ca śokāśrubhirvasumatī siṣice samantāt ।
+śakrastu vismayamavāpa parāṃ ca tuṣṭiṃ saṃbodhaye nṛpamakampyamatiṃ samīkṣya ।।

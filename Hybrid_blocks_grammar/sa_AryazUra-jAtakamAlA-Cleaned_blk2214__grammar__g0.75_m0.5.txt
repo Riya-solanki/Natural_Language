@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2214 | label: grammar | g:0.75 m:0.5 ---
+
+atha kadācitsa mahāsattvaḥ sattvānukampayā vanāntarāṇi samanuvicaraṃstīvravedanābhibhavādviceṣṭamānaṃ digdhaviddhamivānyatamasmin vanapradeśe reṇusaṃparkavyākulamalinake sarasaṭaṃ sihaṃ dadarśa । samabhigamya cainaṃ karuṇayā paricodyamānaḥ papraccha - kimidaṃ mṛgarāja? bāḍhaṃ khalvakalyaśarīraṃ tvāṃ paśyāmī ।

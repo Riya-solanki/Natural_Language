@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 27 | label: grammar | g:0.74 m:0.5 ---
+
+tvam arkas tvaṃ somas tvam asi pavanas tvaṃ hutavahas tvam āpas tvaṃ vyoma tvam u dharaṇir ātmā tvam iti ca ।
+paricchinnām evaṃ tvayi pariṇatā bibhrati giraṃ na vidmas tat tattvaṃ vayam iha tu yat tvaṃ na bhavasi ।।

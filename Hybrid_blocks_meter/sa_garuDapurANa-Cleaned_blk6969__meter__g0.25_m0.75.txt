@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6969 | label: meter | g:0.25 m:0.75 ---
+
+manobuddhirahaṅkāraḥ kṣetrajñastvaṃ hṛdīśvaraḥ ।
+tvaṃ yajñastvaṃ vaṣaṭkārastvamoṅkāraḥ samitkuśāḥ ।।

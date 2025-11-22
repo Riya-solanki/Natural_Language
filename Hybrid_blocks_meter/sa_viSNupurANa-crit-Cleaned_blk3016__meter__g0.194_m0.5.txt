@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3016 | label: meter | g:0.194 m:0.5 ---
+
+pātraṃ pretasya tatraikaṃ paitraṃ pātratrayaṃ tathā 
+secayet pitṛpātreṣu pretapātraṃ nṛpa triṣu ।।

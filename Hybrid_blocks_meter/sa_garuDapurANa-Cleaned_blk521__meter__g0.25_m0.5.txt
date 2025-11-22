@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 521 | label: meter | g:0.25 m:0.5 ---
+
+dhanī dhanaprado dhanyo yādavānāṃ hite rataḥ ।
+arjunasya priyaścaiva hyarjuno bhīma eva ca ।।

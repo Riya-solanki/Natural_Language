@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3020 | label: meter | g:0.446 m:0.688 ---
+
+snānamaunopavāsojyāsvādhyāyopasthanigrahaḥ ।
+tapo akrodho gurorbhaktiḥ śaucaṃ ca niyamāḥ smṛtāḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 324 | label: hybrid | g:0.5 m:0.5 ---
+
+dhūmaprāyaḥ pratimuhur atikṣobhanodvāntatejāḥ kārīṣāgniḥ satatamṛtunā sevyatāṃ nīyamānaḥ ।
+bāhukṣepāt stanaparisarād astalīlāṃśukābhir ghoṣastrībhir divasaviratau bhāti nirviśyamānaḥ ।।

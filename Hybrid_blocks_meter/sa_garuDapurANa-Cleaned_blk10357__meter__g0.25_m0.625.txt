@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10357 | label: meter | g:0.25 m:0.625 ---
+
+vaikārikastāmasaśca taijasaścetyahaṃ tridhā ।
+tridhā babhūva rudropi yatasteṣāṃ niyāmakaḥ ।।

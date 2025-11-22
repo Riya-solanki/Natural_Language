@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6553 | label: meter | g:0.25 m:0.5 ---
+
+satyaṃ damastapaḥ śaucaṃ santoṣaśca kṣamārjavam ।
+jñānaṃ śamo dayā dānameṣa dharmaḥ sanātanaḥ ।।

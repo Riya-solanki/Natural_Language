@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 611 | label: grammar | g:0.67 m:0.341 ---
+
+atra sargārambhāt prabhṛti kavipradhānaiḥ prātisvikapratibhāparispandamāhātmyāt pratidivasagṛhītasarvasvo apyadyāpi navanavapratibhāsānantyavijṛmbhaṇādanuddhāṭitaprāya iva yo vākyaparispandaḥ sa jayati sarvotkarṣeṇa vartate ityevamasmin susaṅgate api vākyārthe kavikauśalasya vilasitaṃ kimapyalaukikameva parisphurati ।
+yasmāt svābhimānadhvaniprādhānyena tenaitadabhihitam yathāāsaṃsāraṃ kavipuṅgavaiḥ pratidivasaṃ gṛhītasāro apyadyāpyabhinnamudra ivāyam ।
+evamaparijñātatattvatayā na kenacita kimapyetasmād gṛhītamiti matpratibhoddhāṭitaparamārthasyedānīmeva mudrābandhodbhedo bhaviṣyatīti lokottarasvaparispandasāphalyāpattervākyaparispando jayatītisaṃbandhaḥ ।
+yadyapi rasasvabhāvālaṅkārāṇāṃ sarveṣāṃ kavikauśalameva jīvitam, tathāpyalaṅkārasya viśeṣatastadanugrahaṃ vinā varṇanāviṣayavastuno bhūṣaṇābhidhāyitvenābhimatasya svarūpamātreṇa parisphurato yathārthatvena nibadhyamānasya tadvidāhlādanidhānānupapattermanāṅmātramapi na vaicitryamutprekṣāmahe, pracurapravāhapatitetarapadārthasāmānyena pratibhāsanāt ।
+yathā

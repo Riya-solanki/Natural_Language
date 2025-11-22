@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 598 | label: grammar | g:0.615 m:0.485 ---
+
+sa svargād aparo vidhiḥ sa ca sudhāsekaḥ kṣaṇaṃ netrayos tat sāmrājyam agañjitaṃ tad aparaṃ premṇaḥ pratiṣṭhāspadam ।
+yad bālā balavanmanobhavabhayabhraśyattapaṃ satrapā tatkālocitanarmakarma dayitād abhyāsyam abhyasyati ।।

@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 376 | label: grammar | g:0.625 m:0.5 ---
+
+yuvaiṣa guṇavān rājā yogyas te patir ūrjitaḥ raṇotsave manaḥ saktaṃ yasya kāmotsavād api ।।

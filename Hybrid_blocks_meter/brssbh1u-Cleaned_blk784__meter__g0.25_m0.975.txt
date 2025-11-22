@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 784 | label: meter | g:0.25 m:0.975 ---
+
+tadviṣayeṇa brahmaviṣayeṇa ।
+miṣat savyāpāram ।

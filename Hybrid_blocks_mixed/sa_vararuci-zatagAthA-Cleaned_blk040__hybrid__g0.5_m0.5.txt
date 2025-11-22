@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 40 | label: hybrid | g:0.5 m:0.5 ---
+
+sa śobhate puṣpitapuṣpavacca sumaṇḍitaṃ yasya mukhaṃ suvarṇaiḥ ।
+anakṣaraṃ yasya mukhaṃ bhavecvet tannetravaktre bhubi chidravacca ।।

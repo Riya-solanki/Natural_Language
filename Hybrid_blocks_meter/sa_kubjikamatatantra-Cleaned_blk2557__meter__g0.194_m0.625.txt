@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2557 | label: meter | g:0.194 m:0.625 ---
+
+ghaṇṭikāyāṃ tu deveśi ṣaṇmāsāvadhipūrvakam 
+nityam evābhyasantasya pratyayāni bhavanti hi ।।

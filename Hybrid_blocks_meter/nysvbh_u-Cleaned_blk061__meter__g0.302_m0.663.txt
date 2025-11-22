@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 61 | label: meter | g:0.302 m:0.663 ---
+
+grīṣme marīcayo bhaumenoṣmaṇā saṃsṛṣṭāḥ spandamānā dūrasthasya cakṣuṣā sannikṛṣyante।
+tatrendriyārthasannikarṣādudakamiti jñānamutpadyate।
+tacca pratyakṣaṃ prasajyate ityata āha avyabhicārīti yadetasmiṃstadati

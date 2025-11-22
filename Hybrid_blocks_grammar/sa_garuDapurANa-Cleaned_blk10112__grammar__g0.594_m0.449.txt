@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10112 | label: grammar | g:0.594 m:0.449 ---
+
+namaskāro nānyathā vipravaryā ādhīyatāṃ hṛdi sarvai rahasyamam । ye vaiṣṇavā vaiṣṇa vadāsabhṛtyāḥ sarvepi te sarvadā viṣṇumeva ।। । 
+namanti ye vai pratipādayanti tathaiva puṇyāni ca sāttvikāni ।
+namanti ye vāsudevaṃ hariṃ ca samyak svaśaktyā pratipādayanti ।।

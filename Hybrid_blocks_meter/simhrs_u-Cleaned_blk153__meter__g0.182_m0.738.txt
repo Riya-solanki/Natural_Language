@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 153 | label: meter | g:0.182 m:0.738 ---
+
+yathā mamaiva-
+prabhāte prāṇeśaṃ nava-madana-mudrāṅkita-tanuṃ
+vadhūr dṛṣṭvā roṣāt kim api kuṭilaṃ jalpati muhuḥ ।
+muhur dhatte cintāṃ muhur api paribhrāmyati muhur
+vidhatte niḥśvāsaṃ muhur api ca bāṣpaṃ visṛjati ।।

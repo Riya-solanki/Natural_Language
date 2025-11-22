@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2359 | label: meter | g:0.25 m:0.5 ---
+
+ghorāś cintayatas tasya svatanūruhajās tadā 
+viniṣpetur bhayakarāḥ sarvataḥ śataśo vṛkāḥ ।। 
+niṣpatanti sma bahavo vrajasyotsādanāya vai । 
+vṛkān niṣpatitān dṛṣṭvā goṣu vatseṣv atho nṛṣu 
+gopīṣu ca yathākāmaṃ vraje trāso abhavan mahān ।।

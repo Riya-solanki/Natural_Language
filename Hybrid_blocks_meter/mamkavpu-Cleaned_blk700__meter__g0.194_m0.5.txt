@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 700 | label: meter | g:0.194 m:0.5 ---
+
+{jaṃ parihariuṃ tīrai maṇaaṃpi ṇa sundarattaṇaguṇeṇa ।
+aha ṇavaraṃ jassa doso paḍipakkhehiṃ pi paḍivaṇṇo ।।}
+[yat parihartuṃ tīryate manāgapi na sundaratvaguṇena ।
+atha kevalaṃ yasya doṣaḥ pratipakṣairapi pratipannaḥ ।।]

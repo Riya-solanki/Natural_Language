@@ -1,0 +1,5 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 40 | label: hybrid | g:0.453 m:0.51 ---
+
+apramādo amṛtapadaṃ pramādo mṛtyunaḥ padaṃ । apramattā na mriyante pramattās tu sadā mṛtāḥ ।। 
+vitarkapramathitasya dehinas tīvrarāgasya śubhānudarśinaḥ ।
+bhūyas tṛṣṇā vivardhate sā gāḍhīkurute asya bandhanaṃ ।।

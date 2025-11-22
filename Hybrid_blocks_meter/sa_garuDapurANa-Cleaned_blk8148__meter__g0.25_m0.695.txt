@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8148 | label: meter | g:0.25 m:0.695 ---
+
+mantrairhemastathā kāryaḥ ṣaḍbhirnṛpa vidhānataḥ ।
+bahūnviprān bhojayethāstadratnāptadhanena vai ।
+evaṃ kṛte mahīpāla mama muktirbhaviṣyati ।।

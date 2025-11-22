@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 259 | label: grammar | g:0.528 m:0.232 ---
+
+kalikāmadhu garhitam । ityatrārhitamiti padaṃ gakārasya vyañjanasya saṅgād garhitamityanyasya rūpamāpannam । tatra vyañjanasaṅge vinivṛtte svarūpamāpadyate arhitamiti । anyavarṇasaṃkrameṇa bhinnarūpasya padasya tādrūpyavidhirayamiti tātparyārthaḥ । etenetarāvapi vyākhyātau ।।
+piṇḍākṣarabhede svarūpalopaścūrṇam ।।
+piṇḍākṣarasya bhede sati padasya svarūpalopaścūrṇam । yathā

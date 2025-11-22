@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 270 | label: meter | g:0.25 m:0.5 ---
+
+sthāvarāntāḥ surādyās tu prajā brahmaṃś caturvidhāḥ 
+brahmaṇaḥ kurvataḥ sṛṣṭiṃ jajñire mānasās tu tāḥ ।।

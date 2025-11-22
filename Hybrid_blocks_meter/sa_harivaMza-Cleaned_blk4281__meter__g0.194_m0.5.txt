@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4281 | label: meter | g:0.194 m:0.5 ---
+
+śrutvā tu rāmakṛṣṇau ca taṃ samājam anuttamam 
+ubhau viviśatur vīrau śārdūlau govrajaṃ yathā ।।

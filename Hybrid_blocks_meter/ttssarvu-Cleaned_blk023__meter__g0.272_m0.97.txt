@@ -1,0 +1,4 @@
+--- source: ttssarvu-Cleaned.txt | block: 23 | label: meter | g:0.272 m:0.97 ---
+
+yakṣarākṣasavināyakagrahādyāveśanimittametat ।
+idaṃ dvayamapi bāhyopāyasādhyatvādbāhyamityuktam ।।

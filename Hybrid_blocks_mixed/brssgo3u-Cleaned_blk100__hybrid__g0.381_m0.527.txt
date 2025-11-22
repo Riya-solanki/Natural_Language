@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 100 | label: hybrid | g:0.381 m:0.527 ---
+
+apica caturvidhe bhūtagrāme jarāyujāṇḍajasvedajodbhijjalakṣaṇe svedajodbhijjayorantareṇaiva grāmyadharmamutpattidarśanādāhutisaṃkhyānādaro bhavati ।
+evamanyatrāpi bhaviṣyati ।।

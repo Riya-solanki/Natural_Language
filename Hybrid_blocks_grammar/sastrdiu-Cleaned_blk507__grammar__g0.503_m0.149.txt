@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 507 | label: grammar | g:0.503 m:0.149 ---
+
+na ca svaparavedyayoranatiśayaḥ ।
+na hi vedittṛbhāsanakṛto ayamatiśayaḥ kintu kasyacideva kiñcidābhāsate nānyasya ityetāvānatiśayo nānyaḥ, tasmānna jñātṛpratibhāsena śarīravivekasiddhiḥ, kintu pūrvoktādeva kāraṇāt- jñānasukhādīnāṃ śarīraguṇatvāsaṃbhavāt tato anya

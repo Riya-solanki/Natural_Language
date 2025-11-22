@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10470 | label: hybrid | g:0.542 m:0.5 ---
+
+guṇāṃśato daśabhī rudrato vai sadā nyūno matsamaḥ kāmadevaḥ ।
+jñāne bale samatā sarvadāsti tathāḥ kāmaḥ kiṃ ca dūtaḥ sadaiva ।।

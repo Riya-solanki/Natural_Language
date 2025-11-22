@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1452 | label: grammar | g:0.667 m:0.5 ---
+
+iti sa mahāsattvastamucchedavādinaṃ vispaṣṭaśobhenottarakrameṇa tūṣṇīṃbhāvaparāyaṇaṃ kṛtvā taṃ kṣatravidyāvidagdhamamātyamuvāca - bhavānapyasmān kasmāditi vikutsayate yadi nyāyyamarthaśāstraparidṛṣṭaṃ vidhiṃ manyase?

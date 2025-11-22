@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 596 | label: meter | g:0.306 m:0.5 ---
+
+tānāgatān vai prasamīkṣya devaḥ prāhlādisutsṛjya vitatya pāśam ।
+gadāṃ samudbhrāmya jaleśvarastu dudrāva tān jambhamukhānarātīn ।।

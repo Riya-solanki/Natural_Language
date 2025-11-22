@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 376 | label: meter | g:0.314 m:0.914 ---
+
+kadalīstambhasadṛśairūrdhvamūlairathorubhiḥ ।
+vibhāti sā sucārvaṅgī padmakiḍhjalkasannibhā ।।

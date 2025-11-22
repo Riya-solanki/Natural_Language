@@ -1,0 +1,6 @@
+--- source: brssgo3u-Cleaned.txt | block: 915 | label: hybrid | g:0.353 m:0.467 ---
+
+tuśabdo viśeṣaṇārthaḥ ।
+kṛtsnabhāvo asya viśeṣyate ।
+bahulāyāsāni hi bahūnyāśramakarmāṇi yajñādīni taṃ prati kartavyatayopadiṣṭānyāśramāntarakarmāṇi ca yathāsaṃbhavamahiṃsendriyasaṃyamādīni tasya vidyante ।
+tasmādgṛhamedhinopasaṃhāro na virudhyate ।।

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 47 | label: grammar | g:0.75 m:0.5 ---
+
+yadi samanuvicārayet tad bhavān nūnam pādopamāḥ syur nidāghe atitīvrā amī bhūpate na tv anabhyāhatā yānti saṃvegam ajñā janāḥ prāyaśo duḥkhayantrāntarasthās tu śocanti moghaṃ pralāpārtiśokābhibhūtā bhṛśam ।।

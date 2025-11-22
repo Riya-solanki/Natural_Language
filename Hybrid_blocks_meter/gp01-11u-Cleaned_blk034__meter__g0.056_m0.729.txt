@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 34 | label: meter | g:0.056 m:0.729 ---
+
+adyāpi yāni vibudhān avaloka-mātrāt
+puṣṇanti kṛṣṇa-kṛta-rāsa-rasaṃ vibhāvya ।
+tāny atra kiṃ vara-rasāyana-divya-cūrṇair
+abhyāsataḥ sva-pulināni cinoti saurī? ।। [[vasantatilakā]]

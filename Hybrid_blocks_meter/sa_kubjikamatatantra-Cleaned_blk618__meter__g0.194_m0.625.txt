@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 618 | label: meter | g:0.194 m:0.625 ---
+
+mātrāyogena deveśi mudrābandhaṃ tu kārayet 
+sā mātrā gīyate cātra uccāravaśavartinī ।।

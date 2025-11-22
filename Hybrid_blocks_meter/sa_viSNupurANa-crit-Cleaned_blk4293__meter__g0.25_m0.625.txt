@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4293 | label: meter | g:0.25 m:0.625 ---
+
+tavāṣṭaguṇam aiśvaryaṃ nātha svābhāvikaṃ param 
+nirastātiśayaṃ yasya tasya stoṣyāmi kiṃ nv aham ।।

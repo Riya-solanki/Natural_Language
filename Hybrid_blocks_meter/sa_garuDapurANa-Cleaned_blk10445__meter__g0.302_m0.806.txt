@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10445 | label: meter | g:0.302 m:0.806 ---
+
+evaṃ viditvā paramo gururmama vāyurdayālurmama vallabhaśca ।
+harerguṇānsarvaguṇaprasārānmamaiva yogyānsukhamukhyabhūtān ।।

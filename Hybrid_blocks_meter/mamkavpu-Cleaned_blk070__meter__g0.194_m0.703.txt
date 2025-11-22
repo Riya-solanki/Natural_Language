@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 70 | label: meter | g:0.194 m:0.703 ---
+
+bhedāvimau ca sādṛśyātsambandhāntaratastathā ।
+gauṇau śuddhau ca vijñeyau

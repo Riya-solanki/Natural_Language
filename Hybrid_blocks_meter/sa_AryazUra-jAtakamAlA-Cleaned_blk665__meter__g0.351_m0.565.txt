@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 665 | label: meter | g:0.351 m:0.565 ---
+
+asatpravṛtteranivṛttamānasaḥ śubheṣu karmasvavirūḍhaniścayaḥ ।
+paśurdivaṃ yāsyati kena hetunā hato api yajñe svakṛtāśrayādvinā ।।

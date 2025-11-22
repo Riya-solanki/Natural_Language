@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4316 | label: meter | g:0.194 m:1.0 ---
+
+paśyatāṃ sarvabhūtānāṃ sabhṛtyāpatyabāndhavaḥ 
+samastabhāryāsahitaḥ parityajya svakaṃ hradam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1683 | label: meter | g:0.194 m:0.75 ---
+
+sā dīptaśastrapravarā daityānāṃ śuśubhe camūḥ 
+dyaur nimīlitanakṣatrā ghananīlāmbudāgame ।।

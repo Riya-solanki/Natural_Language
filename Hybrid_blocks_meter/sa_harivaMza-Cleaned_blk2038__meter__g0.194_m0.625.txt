@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2038 | label: meter | g:0.194 m:0.625 ---
+
+pūḥ pṛthivyāṃ samuditā mathurā nāma nāmataḥ 
+niviṣṭā yamunātīre sphītā janapadāyutā ।।

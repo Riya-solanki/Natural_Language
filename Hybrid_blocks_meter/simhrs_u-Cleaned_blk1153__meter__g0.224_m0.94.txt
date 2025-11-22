@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1153 | label: meter | g:0.224 m:0.94 ---
+
+nitya śrīyannapota-kṣitipati-januṣaḥ siṃha-bhūpāla-mauleḥ
+saundaryaṃ sundarīṇāṃ hariṇa-vijayināṃ vāgurā locanānām ।
+dānaṃ mandāra-cintāmaṇi-sura-surabhī-garva-nirvāpaṇāṅkaṃ
+vijñānaṃ sarva-vidyā-nidhi-budha-pariṣac-chemuṣī-bhāgya-rekhā ।।

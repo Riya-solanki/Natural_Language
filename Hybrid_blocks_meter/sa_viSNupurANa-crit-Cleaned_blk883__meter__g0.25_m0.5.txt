@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 883 | label: meter | g:0.25 m:0.5 ---
+
+tat tat pātram upādāya tat tad dugdhaṃ mune payaḥ 
+vatsadogdhṛviśeṣāś ca teṣāṃ tadyonayo abhavan ।।

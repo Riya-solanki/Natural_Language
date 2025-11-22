@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 73 | label: grammar | g:0.583 m:0.5 ---
+
+Viv kandānalāt ādhāramadhyadhāmnaḥ ullasantī śaktiśikhā bindurūpā, tāṃ śāktasphāroddīpanāt dīparūpāṃ nādasūciśekharamudrānupraveśena uddīpayāmi ।।

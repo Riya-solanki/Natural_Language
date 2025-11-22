@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 197 | label: meter | g:0.25 m:0.5 ---
+
+bhavato yat paraṃ rūpaṃ tan na jānāti kaścana 
+avatāreṣu yad rūpaṃ tad arcanti divaukasaḥ ।।

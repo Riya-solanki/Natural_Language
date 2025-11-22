@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 480 | label: grammar | g:0.75 m:0.5 ---
+
+araṇyor agnīn samāropya śarīrāṇām ardham eṣā tūṣṇīṃ nirmathya prajvālya vihṛtya madhye agnīnām edhāṃś citvā darbhān saṃstīrya tatrāsya śarīrāṇi nidadhyuḥ ।

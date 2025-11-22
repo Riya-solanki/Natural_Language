@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2681 | label: meter | g:0.25 m:0.625 ---
+
+vedāḥ sthānāni vidyānāṃ dharmasya ca caturdaśa ।
+vaktāro dharmaśāstrāṇāṃ manurviṣṇuryamo aṅgirāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 15 | label: meter | g:0.194 m:0.5 ---
+
+śṛṇu rājan kathāṃ divyāṃ puṇyāṃ pāpapraṇāśinīm 
+kathyamānāṃ mayā citrāṃ bahvarthāṃ śrutisaṃmitām ।।

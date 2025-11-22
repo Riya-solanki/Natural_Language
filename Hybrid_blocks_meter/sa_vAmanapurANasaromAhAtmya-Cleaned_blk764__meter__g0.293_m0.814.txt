@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 764 | label: meter | g:0.293 m:0.814 ---
+
+lohamarṣaṇa uvāca
+śṛṇvantu munayaḥ sarve tīrthamāhātmyamuttamam ।
+ṛṣīṇāṃ caritaṃ śrutvā mukto bhavati kilbiṣaiḥ ।।

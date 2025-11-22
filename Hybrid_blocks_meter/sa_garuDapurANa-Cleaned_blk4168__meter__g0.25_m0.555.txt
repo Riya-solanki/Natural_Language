@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4168 | label: meter | g:0.25 m:0.555 ---
+
+lālāpraseko hṛllāsaḥ kṣunnāśo rasadaṃ mukham ।
+svacchamuṣṇagurutvañca gātrāṇāṃ bahumūtratā ।
+na vijīrṇaṃ na ca mlānirjvarasyāmasya lakṣaṇam ।।

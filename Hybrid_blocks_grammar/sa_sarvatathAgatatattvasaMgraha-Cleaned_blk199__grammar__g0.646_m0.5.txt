@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 199 | label: grammar | g:0.646 m:0.5 ---
+
+atha punarapi bhagavān akṣobhyastathāgato bhagavato vairocanasya tathāgatasya pūjāpratipūjārtha sarvatathāgatapralhādanasamayodbhavavajrannāma samādhiṃ samāpadyemāṃ sarvatathāgatagaṇikāṃ svahṛdayānniścacāra vajradhūpe ।।

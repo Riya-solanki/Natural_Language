@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2855 | label: meter | g:0.194 m:0.75 ---
+
+sa karīṣāṅgarāgāsu vrajarathyāsu vīryavān 
+vṛṣāṇāṃ jātarāgāṇāṃ yuddhāni samayojayat ।।

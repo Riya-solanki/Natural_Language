@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 45 | label: grammar | g:0.562 m:0.5 ---
+
+atha so amogharājamahābodhisattvakāyo bhagavato hṛdayādavatīrya, sarvatathāgatānāṃ dakṣiṇacandramaṇḍalāśrito bhūtvā, punarapyājñāṃ mārgayāmāsa ।।

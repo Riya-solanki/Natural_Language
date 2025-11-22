@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 742 | label: meter | g:0.25 m:0.5 ---
+
+pradhānapadārthasaṃbandho hi sākṣātsarveṣāṃ guṇabhūtānāṃ padārthānāmautsargikastādarthyātteṣām ।
+tasya tu kkacitsākṣādasaṃbhavātparamparāśrayaṇaṃ, sākṣātsaṃbhavaśca yogyatayā darśitaḥ ।
+nanu seyaṃ devateti parameśvarakartṛtvaṃ śrūyate ।

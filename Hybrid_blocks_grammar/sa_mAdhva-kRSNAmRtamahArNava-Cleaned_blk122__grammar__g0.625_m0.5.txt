@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 122 | label: grammar | g:0.625 m:0.5 ---
+
+yāvat pralapate jantur viṣayān viṣasannibhān tāvac cet smarate viṣṇuṃ ko na mucyeta bandhanāt ।।

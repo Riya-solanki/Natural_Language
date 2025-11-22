@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 263 | label: meter | g:0.295 m:0.565 ---
+
+guruṇāpāditaṃ sarvam upadeśaṃ prapūjayet 
+tasmād evaṃ viditvā tu gurur devo na cānyathā ।।

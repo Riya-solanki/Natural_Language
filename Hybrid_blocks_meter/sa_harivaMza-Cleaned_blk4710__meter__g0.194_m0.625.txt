@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4710 | label: meter | g:0.194 m:0.625 ---
+
+uṣāyāṃ dharṣitāyāṃ hi kulaṃ no dharṣitaṃ mahat 
+asaṃpradānādyo asmābhiḥ svayaṃgrāham adharṣayat ।।

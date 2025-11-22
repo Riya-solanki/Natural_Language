@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3358 | label: meter | g:0.194 m:0.75 ---
+
+kaṃsasyāpi mukhe svedo bhrūbhedāntaragocaraḥ 
+abhavad roṣaniryāsaḥ kṛṣṇasaṃdarśaneritaḥ ।।

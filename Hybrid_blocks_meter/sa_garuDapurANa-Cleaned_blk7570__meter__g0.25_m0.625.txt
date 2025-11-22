@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7570 | label: meter | g:0.25 m:0.625 ---
+
+śṛṇu tārkṣya paraṃ gopyaṃ patyurdurmaraṇeṣu yat ।
+laṅghanairye mṛtā jīvāṃ daṃṣṭribhiścābhighātitāḥ ।।

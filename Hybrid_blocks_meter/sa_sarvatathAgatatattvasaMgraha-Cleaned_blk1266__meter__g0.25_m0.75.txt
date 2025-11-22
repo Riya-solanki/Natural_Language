@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1266 | label: meter | g:0.25 m:0.75 ---
+
+anena pūjāvidhinā rājādīn sarvamānuṣān ।
+vaśitvācca sutejastvād dānāccāśācca toṣayet ।।

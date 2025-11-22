@@ -1,0 +1,12 @@
+--- source: gp01-11u-Cleaned.txt | block: 730 | label: meter | g:0.176 m:0.59 ---
+
+bhujāpīḍanavat tasya bhāraś ca vavṛdhe śiśoḥ ।
+voḍhuṃ tyaktuṃ ca roddhuṃ ca nāśakad dānavādhamaḥ ।। [anuṣṭubh]
+tadā ca mālya-haratānarhāvasthena cāmunā ।
+sa bhāra-hāratāṃ prāptaḥ sva-prāṇa-haratāṃ gataḥ ।। [anuṣṭubh]
+yathā,
+mālya-buddhyāhival loma-paṭala-bhrāntyā tam ṛkṣavat ।
+kṛṣṇo' vaveṣṭad ātmāṅgaṃ vātūlaḥ katham ujjhatu? ।। [anuṣṭubh]
+yathā ca,
+tṛṇāvarte ruddha-kaṇṭhe tac-chvāsā ruddhatāṃ gatāḥ ।
+tadaiva ca bahir vātās tat kiṃ tasya ta eva te? ।। [anuṣṭubh]

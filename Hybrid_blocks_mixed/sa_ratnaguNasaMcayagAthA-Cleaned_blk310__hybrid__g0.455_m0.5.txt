@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 310 | label: hybrid | g:0.455 m:0.5 ---
+
+evaṃ kṣamitva vidu paṇḍitu bodhisattvo taṃ cittupādu pariṇāmayi agrabodhau 
+yāvanti kṣānti rahapratyayasattvadhātoḥ abhibhoti sarvajagatī kṣamamāṇu śūraḥ ।।

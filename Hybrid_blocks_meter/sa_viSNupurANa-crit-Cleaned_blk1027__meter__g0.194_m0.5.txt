@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1027 | label: meter | g:0.194 m:0.5 ---
+
+acarāṃś ca carāṃś caiva dvipado atha catuṣpadaḥ 
+ādeśaṃ brahmaṇaḥ kurvan sṛṣṭyarthaṃ samavasthitaḥ ।।

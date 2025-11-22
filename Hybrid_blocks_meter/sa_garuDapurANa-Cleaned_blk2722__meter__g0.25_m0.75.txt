@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2722 | label: meter | g:0.25 m:0.75 ---
+
+bhūmidānasya tapasaḥ svādhyāyaphalabhāgdvijaḥ ।
+neṣṭhiko brahmacārī tu vasedācāryasannidhau ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4289 | label: meter | g:0.25 m:0.5 ---
+
+devānāṃ sumahat kāryaṃ kṛtaṃ kṛṣṇena dhīmatā 
+kṣipram āvedaye cedaṃ bhavatāṃ bhadram astu vaḥ ।।

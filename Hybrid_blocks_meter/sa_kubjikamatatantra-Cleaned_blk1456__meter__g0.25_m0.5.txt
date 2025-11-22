@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1456 | label: meter | g:0.25 m:0.5 ---
+
+vyākhyānaṃ yatra mārgasya mu cy ante tāny avaśyataḥ 
+yena varṣasahasrāṇi bhaktyā ārādhito hy aham ।।

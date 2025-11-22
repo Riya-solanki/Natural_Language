@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1479 | label: meter | g:0.25 m:0.5 ---
+
+ye tu devādhipatayo ye ca daityādhipās tathā 
+dānavānāṃ ca ye nāthā ye nāthāḥ piśitāśinām ।।

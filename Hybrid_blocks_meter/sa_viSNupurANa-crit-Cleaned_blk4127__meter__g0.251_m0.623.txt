@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4127 | label: meter | g:0.251 m:0.623 ---
+
+prajahāsa tathaivoccaiḥ kaṃsaṃ ca ruṣitābravīt 
+kiṃ mayā kṣiptayā kaṃsa jāto yas tvāṃ vadhiṣyati ।।

@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 69 | label: meter | g:0.25 m:0.625 ---
+
+gale rekhās tisro gati-gamaka-gītaia-nipuṇe vivāha-vyānaddha-tri-guṇa-guṇa-saṃkhyā-pratibhuvaḥ
+virājante nānā-vidha-madhura-rāgāara-bhuvāṃ trayāṇāṃ grāmāṇāṃ sthiti-niyama-sīmāna iva te ।।

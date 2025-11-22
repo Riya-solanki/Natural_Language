@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 182 | label: grammar | g:0.562 m:0.5 ---
+
+pāraṃparyād apabhraṃśā viguṇeṣv abhidhātṛṣu prasiddhim āgatā yena teṣāṃ sādhur avācakaḥ ।।

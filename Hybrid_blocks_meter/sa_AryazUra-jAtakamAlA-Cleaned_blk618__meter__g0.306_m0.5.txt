@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 618 | label: meter | g:0.306 m:0.5 ---
+
+ruvanti kasmācca na pakṣiṇo apyamī samākulāstadvadhasākṣiṇo yadi ।
+taraṃgabhaṅgairavinītakopayā hṛtau nu kiṃ nimnagayātivegayā ।।

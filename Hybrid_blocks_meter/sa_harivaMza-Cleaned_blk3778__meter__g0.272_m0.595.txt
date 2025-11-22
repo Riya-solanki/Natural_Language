@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3778 | label: meter | g:0.272 m:0.595 ---
+
+gṛhyantāṃ veśmavāstūni kalpyantāṃ trikacatvarāḥ 
+mīyantāṃ rājamārgāś ca prākārasya ca yā gatiḥ ।।

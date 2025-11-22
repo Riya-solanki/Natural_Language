@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1317 | label: meter | g:0.194 m:0.875 ---
+
+ko nv eṣa kāñcanaśilātalacāruvakṣāḥ
+kṣāmodaro bhujagabhogavilambibāhuḥ ।
+pratyādiśann iva kukāryasamākulaṃ māṃ
+prāpto yuvāpi vinayapratipattidhīraḥ ।।

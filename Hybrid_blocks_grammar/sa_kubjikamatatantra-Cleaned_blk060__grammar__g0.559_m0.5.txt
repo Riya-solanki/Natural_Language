@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 60 | label: grammar | g:0.559 m:0.5 ---
+
+kāvarṇā kāmarūpe pur eva purigatā jālapīṭhe jikā yā ṣaḍbhinnā madhyapīṭhe tripathapadagatā tvaṃ ca śṛṅgātakārā 
+siddhair yā veṣṭitāṅgī parivṛtacaturaiḥ ṣaṣṭibhir yogivṛndair yuktā hṛtpaṅkajena ḍaralakasahajā pātu māṃ rudraśaktiḥ ।।

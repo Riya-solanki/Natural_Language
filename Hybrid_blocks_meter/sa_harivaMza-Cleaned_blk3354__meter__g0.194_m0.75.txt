@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3354 | label: meter | g:0.194 m:0.75 ---
+
+ye ca saṃprekṣakā gopā nandagopapurogamāḥ 
+bhayakṣobhitasarvāṅgāḥ sarve tatrāvatasthire ।।

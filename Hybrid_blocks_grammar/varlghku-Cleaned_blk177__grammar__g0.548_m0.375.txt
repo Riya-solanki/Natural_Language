@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 177 | label: grammar | g:0.548 m:0.375 ---
+
+āto dhātoḥ ।।
+ākārānto yo dhātustadantasya bhasyāṅgasya lopaḥ । viśvapaḥ । viśvapābhyāmityādi । evaṃ śaṅkhadhmādayaḥ । dhātoḥ kim ? hāhān ।।

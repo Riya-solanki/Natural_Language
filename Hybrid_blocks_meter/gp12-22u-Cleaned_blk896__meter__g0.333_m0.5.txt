@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 896 | label: meter | g:0.333 m:0.5 ---
+
+[] tad evaṃ tasya tejasā kṛpayā ca suparvādhipasya vividhā gatir jātā, yathā-

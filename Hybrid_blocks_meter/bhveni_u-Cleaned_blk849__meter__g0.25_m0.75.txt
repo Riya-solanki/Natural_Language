@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 849 | label: meter | g:0.25 m:0.75 ---
+
+tathāpyavaśyaṃ vandanīyau gurū ।

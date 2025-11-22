@@ -1,0 +1,4 @@
+--- source: kalhans_u-Cleaned.txt | block: 14 | label: grammar | g:0.552 m:0.5 ---
+
+cūḍendor iva rociṣā mukulitaṃ vātāyanābhaṃ śriyaḥ pānārthaṃ pariṣevitaṃ madhukarākāraiḥ kumārānanaiḥ ।
+aunnatyād adhivāsya vaktrapavanair ghrāṇopayogīkṛtaṃ kasyorojasarojam asti na manastoṣāya gaurīśayoḥ ।।

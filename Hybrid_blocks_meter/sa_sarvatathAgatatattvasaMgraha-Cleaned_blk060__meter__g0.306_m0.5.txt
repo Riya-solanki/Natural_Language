@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 60 | label: meter | g:0.306 m:0.5 ---
+
+aho hi sādhukāro ahaṃ sarvaḥ sarvavidāṃ varaḥ ।
+yad vikalpaprahīṇānāṃ tuṣṭiṃ janayati dhruvaṃ ।।

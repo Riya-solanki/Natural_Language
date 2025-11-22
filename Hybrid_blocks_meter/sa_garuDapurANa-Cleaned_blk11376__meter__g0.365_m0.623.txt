@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11376 | label: meter | g:0.365 m:0.623 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+somasya putrī pūrvasarge babhūva bhāryā madīyā jāmbavatī mama priyā ।
+tāsāṃ madhye hyadhikā vīndra kiñcidrudrādibhyaḥ pañcaguṇairvihīnā ।।

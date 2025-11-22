@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 853 | label: meter | g:0.056 m:0.521 ---
+
+tavātra parimṛgyatā kim api lakṣma sākṣād iyaṃ
+mayā tvam upasāditā nikhila-loka-lakṣmīr asi ।
+yathā jagati cañcatā caṇaka-muṣṭi-sampattaye
+janena patitā puraḥ kanaka-vṛṣṭir āsādyate ।।[LalM ]

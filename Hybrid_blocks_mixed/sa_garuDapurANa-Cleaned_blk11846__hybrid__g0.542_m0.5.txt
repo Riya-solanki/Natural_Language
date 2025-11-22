@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11846 | label: hybrid | g:0.542 m:0.5 ---
+
+bhedaḥ satyaḥ sarvajīveṣu nityaṃ satyā jaḍānāṃ ca bhedā sadāpi ।
+etatsarvaṃ yadi mithyā bhavettu tadā tvasau daśatu māṃ hyahīndraḥ ।।

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 50 | label: meter | g:0.26 m:0.649 ---
+
+atha kulīnatvam-
+kule mahati sambhūtiḥ kulīnatvam udāhṛtam ।। athā-
+sūryācandramasau yasya mātāmaha-pitāmahau ।
+svayaṃ vṛtaḥ patir dvābhyāṃ urvaśyā ca bhuvā ca yaḥ ।।

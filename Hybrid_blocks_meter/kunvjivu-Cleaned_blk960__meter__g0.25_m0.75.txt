@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 960 | label: meter | g:0.25 m:0.75 ---
+
+kriyayaiva viśiṣṭasya tadarthasyopadarśanāt ।
+jñeyā nidarśanaivāsau yathevavatibhirvinā ।।

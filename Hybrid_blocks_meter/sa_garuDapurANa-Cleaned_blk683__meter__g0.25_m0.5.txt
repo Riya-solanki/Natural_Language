@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 683 | label: meter | g:0.25 m:0.5 ---
+
+oṃ hāṃ ātmatattvāya vidyātattvāya hīṃ tathā ।
+oṃ hūṃ śivatattvāya svāhā hṛdā syācchrotravandanam ।।

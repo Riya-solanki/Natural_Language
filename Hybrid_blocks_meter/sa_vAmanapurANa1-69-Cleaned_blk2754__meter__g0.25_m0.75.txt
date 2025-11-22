@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2754 | label: meter | g:0.25 m:0.75 ---
+
+tato amaragurorgaurī candanaṃ rocanāñjanam ।
+prativandya susaṃprītā pādāvevābhyavandata ।।

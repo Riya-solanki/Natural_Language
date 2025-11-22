@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 443 | label: grammar | g:0.583 m:0.5 ---
+
+tanumadhyaṃ pṛthuśroṇi raktauṣṭham asitekṣaṇam natanābhi vapuḥ strīṇāṃ kaṃ na haraty unnatastanam ।।

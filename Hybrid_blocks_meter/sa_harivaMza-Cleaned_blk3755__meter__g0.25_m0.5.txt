@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3755 | label: meter | g:0.25 m:0.5 ---
+
+anugamyamānaḥ kṛṣṇaś ca tena mlecchena śatruṇā 
+tāṃ guhāṃ mucukundasya praviveśa vinītavat ।। 
+pītāmbareṇa svīyena tam ācchādya sa bhūpatim । 
+śiraḥsthāne tu rājarṣer mucukundasya keśavaḥ 
+saṃdarśanapathaṃ tyaktvā tasthau buddhimatāṃ varaḥ ।।

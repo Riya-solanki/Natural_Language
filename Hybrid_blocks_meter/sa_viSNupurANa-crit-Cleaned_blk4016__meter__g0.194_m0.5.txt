@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4016 | label: meter | g:0.194 m:0.5 ---
+
+ity ākarṇya dharāvākyam aśeṣaṃ tridaśais tataḥ 
+bhuvo bhārāvatārārthaṃ brahmā prāha pracoditaḥ ।।

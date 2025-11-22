@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 253 | label: meter | g:0.056 m:0.521 ---
+
+"yaśaḥ praśaṃsanti budhā mudhāgiraḥ
+sarvatra śaśvad viśadaṃ bhaved iti ।
+aho, yaśodā yad asūta sā yaśas
+tat kṛṣṇa-rūpaṃ purato vilokyatām" ।। [upajāti ]

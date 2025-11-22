@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 138 | label: grammar | g:0.562 m:0.5 ---
+
+nirvikalpo mahānandapūrṇo yadvad bhavāṃs tathā bhavatstutikarī bhūyād anurūpaiva vāṅ mama ।।

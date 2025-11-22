@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4376 | label: meter | g:0.25 m:0.5 ---
+
+yan me vyavasitaṃ kānta yac ca me hṛdi vartate 
+tanme manasi vārṣṇeya pratisaṃdhātum arhasi ।।

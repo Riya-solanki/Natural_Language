@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 626 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca tad-dhanānām avarakṣaṇāya nija-janānāṃ rakṣaṇāya cākṣāma-śyāma-śubhra-vapuṣau parama-puruṣau kutuka-viśeṣād avyañjita-ruṣau śubhavantau bhavantau sa-dravam apadravantau tad-dharṣata iva vastutas tu tad-dharṣataḥ pravarṣaṇākhyaṃ girim ārokṣyathaḥ ।

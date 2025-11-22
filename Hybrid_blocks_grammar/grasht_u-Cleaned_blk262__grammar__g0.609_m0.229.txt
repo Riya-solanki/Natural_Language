@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 262 | label: grammar | g:0.609 m:0.229 ---
+
+vāco marīcibhistaptaṃ toṣaya janakairavam ।
+kumudāni ca kāsārodvartīni cirabhāsayā ।।
+atha garbhadrutibāhyadrutipraśaṃsanamāha yadītyādi ।।
+yadi ced ghanasatvam abhrasatvaṃ garbhe pāradasyāntarna patati dravatvaṃ nāpnoti vā bījāni śulbābhrādīni pāradasyodare no dravanti na rasarūpā bhavanti ca punaḥ bāhyadrutir na yujyate cedevaṃ na syāttarhi iha asyāṃ kriyāyāṃ prāptāyāṃ satyāṃ sūto rasaḥ kathaṃ badhyate anyathā na ko'pyupāyaḥ ।।

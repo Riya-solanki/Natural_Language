@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 136 | label: grammar | g:0.615 m:0.281 ---
+
+yasyābhūtvā bhavanaṃ bhūtvā cābhavanaṃ tasya kālenāvacchedād anityatvam ।। 
+yattu pūrvāparakoṭidvayavirahāt kālānavacchinnaṃ tan nityam ।। 
+kiṃ ca na tat kvacid avasthitam api tu vaitatyān mahattvād digdeśānavacchinnatvāt sarvagaṃ sarvatra tatkāryopalabdheśca vibhu tathā kramayaugapadyābhyāṃ tanukaraṇādikāryasyotpādanāt krameṇa yugapac cotpādikayā śaktyā yuktam ।। 
+nanu jagatsṛṣṭisthityādikā tatkriyā nākaraṇikā kriyātvāt chidikriyāvat atastasyāpi karaṇena bhavitavyamityāha ।।

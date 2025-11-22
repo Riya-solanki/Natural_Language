@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10614 | label: meter | g:0.25 m:0.831 ---
+
+śrīkṛṣṇa uvāca ।
+brahmoktasya mayoktasya vivādo nāsti sarvathā ।
+saṃdehastvajñadṛṣṭīnāṃ jñānināṃ nāsti sarvathā ।।

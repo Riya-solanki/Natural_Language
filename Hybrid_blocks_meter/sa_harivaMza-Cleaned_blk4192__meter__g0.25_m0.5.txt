@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4192 | label: meter | g:0.25 m:0.5 ---
+
+tasya śaṅkhasya śabdena sāgaraś cukṣubhe bhṛśam 
+rarāsa ca nabhaḥ kṛtsnaṃ tac citram abhacat tadā ।।

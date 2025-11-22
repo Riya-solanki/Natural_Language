@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 959 | label: meter | g:0.25 m:0.625 ---
+
+cāraṇerveṣṭito bhānuḥ pravibhātyambarāt patan ।
+arddhapakvaṃ yathā tālāt phalaṃ kapibhirāvṛtam ।।

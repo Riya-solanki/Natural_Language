@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 56 | label: hybrid | g:0.381 m:0.329 ---
+
+bhaviṣayavyāpārapratītiḥ ।
+yathā yajati dadāti paṭhati gacchati iti ।
+dravyam eva ca viśīṣṭaśaktyupetaṃ pracalitātmatattvaṃ viprakīrṇasvabhāvaṃ pūrvāparībhūtaṃ prathamāvasthātaḥ pracyutaṃ parām avasthām aprāptaṃ vyāpāraśabdavācyaṃ bhavati ।

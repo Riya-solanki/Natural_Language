@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1725 | label: meter | g:0.326 m:0.774 ---
+
+{tadveṣosadṛśonyābhiḥ strībhirmadhuratābhṛtaḥ ।
+dadhate sma parāṃ śobhāṃ tadīyā vibhramā iva ।।}

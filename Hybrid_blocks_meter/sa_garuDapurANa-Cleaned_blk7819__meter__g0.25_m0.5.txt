@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7819 | label: meter | g:0.25 m:0.5 ---
+
+pītaḥ khuraviṣāṇeṣu sa nīlo vṛṣa ucyate ।
+śvetavarṇo bhavedvipro lohitaḥ kṣattra ucyate ।।

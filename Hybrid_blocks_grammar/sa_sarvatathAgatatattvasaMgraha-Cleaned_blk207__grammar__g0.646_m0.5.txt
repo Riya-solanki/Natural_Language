@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 207 | label: grammar | g:0.646 m:0.5 ---
+
+atha bhagavān lokeśvararājastathāgato bhagavato vairocanasya tathāgatasya pūjāpratipūjārtha sarvatathāgatālokapūjāsamayodbhavavajraṃ nāma samādhiṃ samāpadyemāṃ sarvatathāgatadūtīṃ svahṛdayānniścacāra vajrāloke ।

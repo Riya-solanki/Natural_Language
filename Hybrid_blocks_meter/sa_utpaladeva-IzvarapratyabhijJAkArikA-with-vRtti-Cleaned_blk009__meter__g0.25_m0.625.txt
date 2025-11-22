@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 9 | label: meter | g:0.25 m:0.625 ---
+
+tathā hi jaḍabhūtānāṃ pratiṣṭhā jīvadāśrayā 
+jñānaṃ kriyā ca bhūtānāṃ jīvatāṃ jīvanaṃ matam ।।

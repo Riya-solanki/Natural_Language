@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7793 | label: meter | g:0.25 m:0.625 ---
+
+daṇḍāsaktamahābāhuṃ pāśahastaṃ subhairavam ।
+tannirdiṣṭāṃ tato janturgatiṃ yāti śubhāśubhām ।।

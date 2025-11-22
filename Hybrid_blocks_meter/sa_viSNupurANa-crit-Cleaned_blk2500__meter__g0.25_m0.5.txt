@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2500 | label: meter | g:0.25 m:0.5 ---
+
+yayā sa kurute tanvā vedam ekaṃ pṛthak prabhuḥ 
+vedavyāsābhidhānā tu sā mūrtir madhuvidviṣaḥ ।।

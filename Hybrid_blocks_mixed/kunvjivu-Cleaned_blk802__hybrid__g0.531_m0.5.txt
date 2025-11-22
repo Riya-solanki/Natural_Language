@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 802 | label: hybrid | g:0.531 m:0.5 ---
+
+parāmṛśita sāyakaṃ kṣipati locanaṃ kārmuke vilokayati vallabhāsmitasudhārdravaktraṃ smaraḥ ।
+madhoḥ kimapi bhāṣate bhuvananirjayāyāvaniṃ gato ahamiti harṣitaḥ spṛśati gātralekhāmaho ।।

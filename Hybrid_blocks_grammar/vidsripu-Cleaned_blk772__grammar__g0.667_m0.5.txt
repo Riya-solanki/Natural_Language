@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 772 | label: grammar | g:0.667 m:0.5 ---
+
+dahati viraheṣv aṅgānīrṣyāṃ karoti samāgame harati hṛdayaṃ dṛṣṭaḥ spṛṣṭaḥ karoty avaśāṃ tanum ।
+kṣaṇam api sukhaṃ yasmin prāpte gate ca na labhyate kim aparam ataś citraṃ yan me tathāpi sa vallabhaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5549 | label: meter | g:0.25 m:0.5 ---
+
+citāgniḥ khañjarīṭasya viṣṭhā pheno hayasya ca ।
+saubhāñjanaṃ vāsanetraṃ nara etaistu dhūpitaḥ ।
+adṛśyastridaśaiḥ sarvaiḥ kiṃ punarmānavaiḥ śiva ।।

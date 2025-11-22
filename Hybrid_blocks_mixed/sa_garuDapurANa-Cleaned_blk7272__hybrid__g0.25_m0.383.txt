@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7272 | label: hybrid | g:0.25 m:0.383 ---
+
+prāyaścittaṃ durmateḥ kiṃ pañcakādimṛtasya ca ।
+prasādaṃ kuru me mohaṃ chettumarhasyaśeṣataḥ ।।
+sarvamantemayā pṛṣṭaṃ brūhi lokahitāya vai ।।
+iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśākhye dharmakāṇḍe śrīkṛṣṇagaruḍasaṃvāde praśraprapañco nāma prathamo adhyāyaḥ

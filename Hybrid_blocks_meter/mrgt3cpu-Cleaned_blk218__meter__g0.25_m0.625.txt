@@ -1,0 +1,6 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 218 | label: meter | g:0.25 m:0.625 ---
+
+bahudaivasike yoge tulyaṃ sādharmyayogataḥ ।
+jñātvaivaṃ sādhako vidvān sahāyaṃ sadguṇaṃ bhajet ।
+sajātyabhijanopetaṃ yavīyāṃsaṃ guṇādhikam ।
+putrakaṃ samayasthaṃ vā susnigdhamaparaṃ tataḥ ।

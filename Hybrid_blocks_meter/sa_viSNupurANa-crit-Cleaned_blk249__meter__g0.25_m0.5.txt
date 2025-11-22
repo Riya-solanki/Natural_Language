@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 249 | label: meter | g:0.25 m:0.5 ---
+
+tuṣṭyātmakas tṛtīyas tu devasargas tu sa smṛtaḥ 
+tasmin sarge abhavat prītir niṣpanne brahmaṇas tathā ।।

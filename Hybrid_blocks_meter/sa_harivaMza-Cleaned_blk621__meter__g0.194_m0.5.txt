@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 621 | label: meter | g:0.194 m:0.5 ---
+
+tasyaiva rājñas tvaṃ kanyā adrikāyāṃ bhaviṣyasi 
+aṣṭāviṃśe bhavitrī tvaṃ dvāpare matsyayonijā ।।

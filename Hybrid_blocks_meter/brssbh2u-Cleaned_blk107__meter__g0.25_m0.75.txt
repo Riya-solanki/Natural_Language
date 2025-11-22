@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 107 | label: meter | g:0.25 m:0.75 ---
+
+samavāyikāraṇaviṣayaḥ kārakavyāpāraḥ syāditi cet ।

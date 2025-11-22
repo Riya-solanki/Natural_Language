@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1814 | label: meter | g:0.25 m:0.625 ---
+
+dharmarāja mahāśuddha satvarāja mahāmate ।
+padmātmaka mahāpadma padmanātha namo astu te ।।

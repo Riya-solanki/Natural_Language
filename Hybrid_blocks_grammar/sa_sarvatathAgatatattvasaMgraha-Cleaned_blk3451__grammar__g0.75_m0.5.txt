@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3451 | label: grammar | g:0.75 m:0.5 ---
+
+"tatrādita eva pūrvamevaṃ kuryāt । tathaiva yathākāmakaraṇīyatayā, akṣaralakṣaṃ japet । asya sakalāṃ rātriṃ japet । tataḥ prabhṛti sarvasatvanigrahānugrahakṣamo bhavatī-"tyāha bhagavāṃ vajradharaḥ ।।

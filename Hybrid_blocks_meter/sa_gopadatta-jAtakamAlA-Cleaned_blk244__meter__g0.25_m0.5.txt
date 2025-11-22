@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 244 | label: meter | g:0.25 m:0.5 ---
+
+anāryaiś caritair dūrān niśamyaiva vivarjitaḥ ।
+āryām udbhāvayām āsa paddhatiṃ sa śivodayām ।।

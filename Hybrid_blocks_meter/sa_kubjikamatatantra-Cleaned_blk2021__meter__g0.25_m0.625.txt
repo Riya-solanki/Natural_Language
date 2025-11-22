@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2021 | label: meter | g:0.25 m:0.625 ---
+
+kathitaṃ sarahasyaṃ tu padamārgaṃ sudurlabham 
+padasyāpi hi rūpo asti rūpātītaṃ tu saṅkramaḥ ।।

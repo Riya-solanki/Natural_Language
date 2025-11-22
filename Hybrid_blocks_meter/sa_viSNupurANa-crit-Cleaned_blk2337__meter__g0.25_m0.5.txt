@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2337 | label: meter | g:0.25 m:0.5 ---
+
+kvanivāso bhavān vipra kva ca gantuṃ samudyataḥ 
+āgamyate ca bhavatā yatas tac ca dvijocyatām ।।

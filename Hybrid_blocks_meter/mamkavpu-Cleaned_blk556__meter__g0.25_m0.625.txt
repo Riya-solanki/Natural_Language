@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 556 | label: meter | g:0.25 m:0.625 ---
+
+{vapurvirūpākṣamalakṣyajanmatā digambaratvena niveditaṃ vasu ।
+vareṣu yadbālamṛgākṣi mṛgyate tadasti kiṃ vyastamapi trilocane ।।}

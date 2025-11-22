@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 303 | label: grammar | g:0.75 m:0.5 ---
+
+caturthaṃ daśakam upāyakauśalānupāyakauśale, dhāraṇīpratilambhāpratilambhau, likhitukāmatā alikhitukāmate, vigatāvigatakāmādichandattve ceti catvāri; upāyagativaimukhyam, sugatigamanasaumanasyamiti dve śrotāvaktroḥ kasyacid ekākiparṣadabhiratiḥ, anubandhakāmānavakāśadānatvam, āmiṣakiñcitkābhilāṣatadadātukāmatā, jīvitāntarāyānantarāyadiggamanamiti catvāri ceti daśa ।

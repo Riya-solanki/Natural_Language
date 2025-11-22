@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5509 | label: meter | g:0.25 m:0.5 ---
+
+śaraṇaṃ te samabhyetya kartāsmi nṛpate tathā 
+yathā tvatto bhayaṃ bhūyo na me kiṃcid bhaviṣyati ।।

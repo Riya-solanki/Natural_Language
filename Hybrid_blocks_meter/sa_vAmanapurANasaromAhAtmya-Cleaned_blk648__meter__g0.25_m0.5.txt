@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 648 | label: meter | g:0.25 m:0.5 ---
+
+rahodarasya tallagnaṃ jaṅghāyāṃ vai yadṛcchayā ।
+vane vicāratastatra asthi bhittvā viveśa ha ।।

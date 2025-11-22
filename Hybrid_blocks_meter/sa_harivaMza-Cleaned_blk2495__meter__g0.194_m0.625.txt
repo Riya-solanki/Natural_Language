@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2495 | label: meter | g:0.194 m:0.625 ---
+
+dṛṣṭvā kṛṣṇaṃ hradagataṃ krīḍantaṃ śiśulīlayā 
+sadhūmāḥ pannagendrasya mukhān niścerur arciṣaḥ ।।

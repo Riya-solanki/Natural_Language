@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3138 | label: meter | g:0.194 m:0.625 ---
+
+taṃ sajjayitvā kaṃsasya karaṃ copāyanāni ca 
+te sarve gopapatayo gamanāyopatasthire ।।

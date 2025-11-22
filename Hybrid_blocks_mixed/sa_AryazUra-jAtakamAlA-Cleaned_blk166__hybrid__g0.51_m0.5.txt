@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 166 | label: hybrid | g:0.51 m:0.5 ---
+
+etatsmarāmi kuśalaṃ naradeva yena tvannāthatāmupagatāsmi samaṃ pṛthivyā ।
+kṣīṇāsraveṣu na kṛtaṃ tanu nāma kiñcidityuktavānasi yathaiva munistathaiva ।।

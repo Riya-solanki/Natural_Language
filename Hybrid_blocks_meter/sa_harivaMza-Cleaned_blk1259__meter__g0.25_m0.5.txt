@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1259 | label: meter | g:0.25 m:0.5 ---
+
+padāni yo lokapadāni kṛtvā cakāra daityān salilāśayasthān 
+kṛtvā ca devāṃs tridivasya devāṃś cakre sureśaṃ puruhūtam eva ।। 
+pātrāṇi dakṣiṇā dīkṣā camasolūkhalāni ca । 
+gārhapatyena vidhinā anvāhāryeṇa karmaṇā 
+agnim āhavanīyaṃ ca vedīṃ caiva kuśān sruvam ।।

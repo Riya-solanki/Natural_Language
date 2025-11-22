@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4735 | label: meter | g:0.25 m:0.625 ---
+
+siṃhanādaṃ nadan kruddho visphāritamahādhanuḥ 
+visṛjañ śataśo bāṇān dānavo atha mahābalaḥ । 
+abhyadravac ca vegena prādyumnir yatra saṃsthitaḥ । 
+abravīt tiṣṭha tiṣṭheti krodhasaṃraktalocanaḥ ।।

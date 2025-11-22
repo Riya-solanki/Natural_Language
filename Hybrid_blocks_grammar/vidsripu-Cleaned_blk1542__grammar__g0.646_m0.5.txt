@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1542 | label: grammar | g:0.646 m:0.5 ---
+
+jātir yātu rasātalaṃ guṇagaṇas tasyāpy adho gacchatu śīlaṃ śailataṭāt patāv abhijanaḥ saṃdahyatāṃ vahninā ।
+śaurye vairiṇi vajram āśu nipatatv artho astu naḥ kevalaṃ yenaikena vinā guṇās tṛṇalavaprāyāḥ samastā ime ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9943 | label: meter | g:0.306 m:0.5 ---
+
+sadā duḥ khāturā eva na sakhī vidyate kkacit ।
+kenopāyena mokṣeśa mucyante vada me prabho ।।

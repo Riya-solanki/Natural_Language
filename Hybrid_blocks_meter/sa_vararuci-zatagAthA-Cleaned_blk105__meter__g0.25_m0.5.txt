@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 105 | label: meter | g:0.25 m:0.5 ---
+
+rājño atijīvitaṃ yuktaṃ drutamṛtyurvaraṃ ṛṣeḥ ।
+sato jīvanamanto vā varaṃ tvākheṭakasya na ।।

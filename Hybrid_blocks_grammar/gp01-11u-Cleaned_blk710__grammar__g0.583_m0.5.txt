@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 710 | label: grammar | g:0.583 m:0.5 ---
+
+[] atha kṛta-sukha-prathāyāṃ kathāyāṃ vṛttāyām, anya-dinavat kathakān sa prasādhanaṃ sedhayāmāsa śubha-caritrī-vraja-dharitrīśaḥ ।

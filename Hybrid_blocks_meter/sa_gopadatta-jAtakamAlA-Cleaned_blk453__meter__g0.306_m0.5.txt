@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 453 | label: meter | g:0.306 m:0.5 ---
+
+asmāsu te kartum aniṣṭam iṣṭaṃ kathaṃ hi bhaktipraṇayārpitāsu ।
+so anyena ekagrahaṇīyarūpaḥ śarīrakānena vayo grahīte ।।

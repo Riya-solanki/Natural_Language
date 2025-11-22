@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 914 | label: meter | g:0.271 m:0.5 ---
+
+[] tad evaṃ yadā nirṇiktatayā devagaṇas tam asikta, tadā-

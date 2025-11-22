@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1687 | label: meter | g:0.25 m:0.5 ---
+
+evaṃvidhā vikramabuddhisampadātmānapekṣā ca dayā pareṣu ।
+āścaryabuddhiṃ janayecchrutāpi pratyakṣataḥ kiṃ punarīkṣyamāṇā ।।

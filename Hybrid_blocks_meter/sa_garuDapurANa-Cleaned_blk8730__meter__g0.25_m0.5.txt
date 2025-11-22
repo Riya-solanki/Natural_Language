@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8730 | label: meter | g:0.25 m:0.5 ---
+
+ahaṃ paryuṣito nāma eṣa sūcīmukhastathā ।
+śīghrago rogha kaścaiva pañcamo lekhakaḥ smatṛtaḥ ।।

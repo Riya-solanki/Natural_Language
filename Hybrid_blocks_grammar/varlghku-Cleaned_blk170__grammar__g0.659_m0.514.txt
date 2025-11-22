@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 170 | label: grammar | g:0.659 m:0.514 ---
+
+prathamacaramatayālpārddhakatipayanemāśca ।।
+ete jasi uktasaṃjñā vā syuḥ । prathame, prathamāḥ ।। dvitaye, dvitayāḥ ।। śeṣaṃ sarvavat ।। । dvitīyasmai, dvitīyāyetyādi । evaṃ tṛtīyaḥ ।। nirjaraḥ ।।

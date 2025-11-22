@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 330 | label: meter | g:0.194 m:0.625 ---
+
+āsīd āsu hareḥ sphūrtir darśana-śravaṇe vinā ।
+yathāntaḥpura-ruddhāsu kanyāsu madanodgamaḥ ।। [anuṣṭubh]

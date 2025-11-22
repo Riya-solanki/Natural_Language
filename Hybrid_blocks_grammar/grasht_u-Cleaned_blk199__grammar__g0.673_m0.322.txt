@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 199 | label: grammar | g:0.673 m:0.322 ---
+
+sugamatvādguṇādhikatvācca sattvaṃ praśaṃsati muktvetyādi ।।
+abhrasattvamekaṃ muktvā tyaktvā anyo aparo rasapakṣāpakartanasamartho na pāradapakṣacchettā na tena sattvena sukhaṃ yathā syāttathā rasaḥ pārado niyamyate pāradasya niyamanaṃ bhavedityarthaḥ badhyate ca bandhanaṃ prāpyate raso baddho bhavatītyarthaḥ ।।
+kimbhūtaḥ san niyamanaṃ bandhanaṃ ca pnoti niruddhaprasaraḥ san niruddha ārundhittaḥ prasaraḥ prasaraṇaṃ prakṛṣṭena gamanaṃ yasya tādṛśaḥ san ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3809 | label: grammar | g:0.75 m:0.5 ---
+
+athāhākrūraḥ । sa eṣa maṇir yaḥ śatadhanvanāsmākaṃ samarpito yasyāyaṃ sa enaṃ gṛhṇātv iti । tam ālokya sarvayādavānāṃ sādhu sādhv iti vismitavacasāṃ vāco aśrūyanta । tam ālokyamamāyam acyutenaiva sāmānyaḥ samanvicchita iti balabhadraḥ saspṛho abhavat ।।

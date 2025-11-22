@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11294 | label: meter | g:0.342 m:0.666 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+yā lakṣmaṇā pūrvasarge khagendra putrī hyabhūdvahnivedasya vettuḥ ।
+sulakṣaṇaiḥ saṃyutatvādyataḥ sā sulakṣmaṇeti prathitā khagendra ।।

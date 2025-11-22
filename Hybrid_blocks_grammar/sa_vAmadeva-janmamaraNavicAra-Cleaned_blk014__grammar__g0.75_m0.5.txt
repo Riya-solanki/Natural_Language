@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 14 | label: grammar | g:0.75 m:0.5 ---
+
+tatra sṛṣṭyunmukho bhagavān śuddhādhvani vartamānaḥ svaśaktibhiḥ māyāṃ vikṣobhya kalātattvaṃ kiṃcitkartṛtvalakṣaṇaṃ pudgalasya sṛjati tato api kiṃcid avabodhākhyaṃ vidyātattvaṃ kiṃcid abhilāṣarūpaṃ ca rāgatattvaṃ tad etat sarāgaṃ kartṛtattvaṃ bhūtabhaviṣyadvartamānatayā tridhā avacchidyate tat kālatattvaṃ tulyatve api rāge yena kartṛtvasya avacchedaḥ kriyate tat niyatitattvaṃ tad etat kañcukaṣaṭkam antarmalāvṛtasya pudgalasya bahir ācchādakam uktaṃ ca cillācakreśvaramate māyā kalā śuddhavidyā rāgakālau niyantraṇā ।।

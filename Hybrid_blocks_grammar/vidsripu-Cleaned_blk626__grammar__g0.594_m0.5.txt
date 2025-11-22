@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 626 | label: grammar | g:0.594 m:0.5 ---
+
+bhāvodgāḍham upoḍhakampapulakair aṅgaiḥ samāliṅgitaṃ rāgāc cumbitam abhyupetya vadanaṃ pītaṃ ca vaktrāmṛtam ।
+jalpantyaiva muhur na neti nibhṛtaṃ pradhvastacāritrayā niḥśeṣeṇa samāpito ratavidhir vācā tu nāṅgīkṛtaḥ ।।

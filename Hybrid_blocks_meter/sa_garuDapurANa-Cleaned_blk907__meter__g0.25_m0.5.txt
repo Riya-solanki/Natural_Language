@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 907 | label: meter | g:0.25 m:0.5 ---
+
+yamunāṃ ca mahādevīṃ śaṅkhapadmanidhī tathā ।
+garuḍaṃ pūjayedagre madhye śaktiñca pūjayet ।।

@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 843 | label: meter | g:0.028 m:1.0 ---
+
+[] sa ca tathāpi-
+akṣiṇī drava-gamāya sākṣiṇī
+rodanaṃ krud-udaya-praṇodanam ।
+cālanaṃ vapuṣi dhārṣṭya-pālanaṃ
+sṛṣṭavān avinayaṃ na mṛṣṭavān ।। [svāgatā]

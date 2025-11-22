@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9765 | label: meter | g:0.25 m:0.5 ---
+
+nāma gotraṃ smaran dadyādviṣṇuprītostviti bruvan ।
+anuvrajya dvijān paścāt tyaktāmbho dakṣiṇāmukhaḥ ।।

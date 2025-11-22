@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 592 | label: meter | g:0.194 m:0.5 ---
+
+vidhinā hi ca tenaivaṃ pattraṃ phāḍītrayaṃ bhavet 
+gṛhītvā madhyamāṃ phāḍīṃ pakṣaphāḍīdvayaṃ tyajet ।।

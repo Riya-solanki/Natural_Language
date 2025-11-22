@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 900 | label: grammar | g:0.75 m:0.5 ---
+
+atha tasya mahātmanaḥ satyādhiṣṭhānabalātpuṇyatejasā saha salilajavena sa māruto vyāvartamānastāṃ nāvaṃ nivartayāmāsa । nivṛttāṃ tu tāṃ nāvamabhisamīkṣya te vāṇijakāḥ paramavismayapraharṣoddhatamānasā nivṛttā nauriti praṇāmasabhājanapuraḥsaraṃ supāragāya nyavedayanta । atha sa mahātmā tānvāṇijakānuvāca - sthirībhavantu bhavantaḥ । śīghramāropyantāṃ śītāni । iti ca tena samādiṣṭāḥ pramodādudbhūtabalotsāhāste tadadhikṛtāstathā cakruḥ ।

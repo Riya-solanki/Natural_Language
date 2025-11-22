@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5314 | label: meter | g:0.25 m:0.5 ---
+
+cūrṇaṃ jvaraṃ ca kvathitaṃ dhānya kośīrapaparpaṭaiḥ ।
+āmalakyā guḍūcyā ca madhuyuktaṃ sacandanam ।।

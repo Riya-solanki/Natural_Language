@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3751 | label: grammar | g:0.75 m:0.5 ---
+
+ity ātmerṣyākopakaluṣitavacanamuṣitavivekatayā duruktaparihārārtham idam avanīpatir āha । yas te janiṣyaty ātmajas tasyeyam anāgata eva bhāryā nirūpitety ākarṇyodbhūtamṛduhāsā tathety āha praviveśa ca rājñā sahādhiṣṭhānam ।।

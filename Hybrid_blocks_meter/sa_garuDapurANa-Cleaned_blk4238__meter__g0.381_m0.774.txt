@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4238 | label: meter | g:0.381 m:0.774 ---
+
+haridrābhedavarṇābhastadvallepaṃ pramehati ।
+sa vai hāridrako nāma jvarabhedo antakaḥ smṛtaḥ ।।

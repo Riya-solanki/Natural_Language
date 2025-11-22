@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 344 | label: hybrid | g:0.387 m:0.517 ---
+
+FN vāgeva vākaḥ so asyāstīti vākī na vākī avākī vāgādisarvendriyarahitaḥ ।
+āptakāmatvānna kutracitadādaro astītyanādaraḥ ।

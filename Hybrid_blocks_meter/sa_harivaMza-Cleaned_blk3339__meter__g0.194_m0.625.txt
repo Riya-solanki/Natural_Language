@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3339 | label: meter | g:0.194 m:0.625 ---
+
+antardhānagatā devā vimānaiḥ kāmarūpibhiḥ 
+cerur vidyādharaiḥ sārdhaṃ kṛṣṇasya jayakāṅkṣiṇaḥ ।।

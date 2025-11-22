@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 877 | label: meter | g:0.306 m:0.5 ---
+
+kva ca nyastasamastecchā kva ca nārīmayo bhramaḥ ।
+kva krodhamīdṛśaṃ ghoraṃ yenātmānaṃ na jāyatha ।।

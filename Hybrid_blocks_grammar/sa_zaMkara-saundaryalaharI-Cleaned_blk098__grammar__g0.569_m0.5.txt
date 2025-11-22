@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 98 | label: grammar | g:0.569 m:0.5 ---
+
+kalatraṃ vaidhātraṃ katikati bhajante na kavayaḥ śriyo devyāḥ ko vā na bhavati patiḥ kair api dhanaiḥ 
+mahādevaṃ hitvā tava sati satīnām acarame kucābhyām āsaṅgaḥ kuravakataror apy asulabhaḥ ।।

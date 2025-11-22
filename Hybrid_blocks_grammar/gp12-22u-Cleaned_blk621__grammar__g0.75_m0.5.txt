@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 621 | label: grammar | g:0.75 m:0.5 ---
+
+[] yathā rādhāyā viśākhā lalitā paryāyānurādhā ca, candrāvalyāḥ śaivyā padmā cety-ādayaḥ । tāsu tu tāḥ sva-mātra-niṣṭhatāṃ niṣṭaṅkya svayam eva sa-sauhārdaṃ nija-hārdam āvedayāñcakruḥ । tathāpi tatra prathamaṃ rāma-sahitatā-pihitam eva taṃ lupta-varṇa-padaṃ varṇayāmāsuḥ ।

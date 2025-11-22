@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 956 | label: meter | g:0.336 m:0.539 ---
+
+sāmyapratibhāsamātraṃ manohāritāyāḥ kāraṇamityalaṅkaraṇam ।
+yasmādevaṃvidhe viṣaye vicchittividhānasya saṃniyata pratīyamānamalaṅkaraṇamupanibadhnanti, na punarabhidhīyamānameva ।
+pratīyamānatvaṃ parivṛtterapi dṛśyate ।
+yathā

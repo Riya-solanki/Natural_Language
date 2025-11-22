@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 832 | label: grammar | g:0.679 m:0.125 ---
+
+viśeṣeṇa vedhavidhānamāha dattvetyādi ।।
+ādau prathamaṃ lākṣāmatsyādipittabhāvanayā lākṣā pratītā matsyādipittāni matsyamāhiṣamayūrājasūkarasaṃbhavāni pittāni teṣāṃ bhāvanayā kṛtvā prativāpaṃ galite nikṣepaṃ tattāre dattvā athavā śulbe prativāpaṃ kuryāt athavā kṛṣṭau hemakaraṇe vāpaṃ dattvā niyuñjyāditi śeṣaḥ ।।

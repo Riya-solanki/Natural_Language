@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1130 | label: meter | g:0.306 m:0.5 ---
+
+sukṛtojjvalabhāgadheyayogād yadi devādhipatir bhavāṃs tataḥ kim ।
+na hi saṃpadam āpnuvanti santaḥ paraheṭhākaraṇāya devarāja ।।

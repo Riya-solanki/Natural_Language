@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11942 | label: hybrid | g:0.51 m:0.5 ---
+
+śaśvatkeśā yasya gātre khagendra prabhāsyante śarabhākhyo payotaḥ ।
+yamasya bhāryā śyāmalā yā khagendra yasmātsadā kalibhāryāpiyā ca ।।

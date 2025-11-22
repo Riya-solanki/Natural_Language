@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 959 | label: meter | g:0.0 m:0.625 ---
+
+jalaṃ pipāsitaḥ kaṇṭhe mande agnau jaṭhare analam 
+prāṇādivṛttisiddhyarthaṃ hṛtkaṇṭhādiṣu mārutam ।। MT

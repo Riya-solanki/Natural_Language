@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1179 | label: meter | g:0.194 m:0.5 ---
+
+kadācin mṛgayāṃ yātaḥ prasenas tena bhūṣitaḥ 
+syamantakakṛte siṃhād vadhaṃ prāpa vanecarāt ।।

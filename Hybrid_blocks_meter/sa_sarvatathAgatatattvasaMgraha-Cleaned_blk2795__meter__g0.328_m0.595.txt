@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2795 | label: meter | g:0.328 m:0.595 ---
+
+mahāmudrāṃ samādhāya manovijñānamāvahet ।
+tena ya satvamudvīkṣet cittaṃ jānāti tasya saḥ ।।

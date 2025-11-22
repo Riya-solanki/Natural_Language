@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 281 | label: grammar | g:0.75 m:0.5 ---
+
+asmin satīdaṃ bhavatīti niyataṃ paurvāparyaṃ kṛttikārohinyudayayor akāryakāraṇayor apy astīti pūrvasya sāmarthye parasya satteti syāt kāryakāraṇabhāvas, tac cāpekṣārahitānāṃ jāḍānāṃ na yuktam । etāvad etat syāt pūrvasya sāmarthyaṃ parasya sattā na caivaṃ kiṃcid uktaṃ syān na ca pūrvasya sāmarthyalakṣaṇaḥ svabhāvaḥ parasattārūpaḥ ।।

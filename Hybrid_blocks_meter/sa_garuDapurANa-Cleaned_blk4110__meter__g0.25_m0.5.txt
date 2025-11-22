@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4110 | label: meter | g:0.25 m:0.5 ---
+
+nṛpāndigvijaye jitvā ratnānyādāya vai dadau ।
+yudhiṣṭhirāya mahate bhrātre nītivide mudā ।।

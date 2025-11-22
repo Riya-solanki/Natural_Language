@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 950 | label: meter | g:0.333 m:0.5 ---
+
+[] atha prātar eva go-vraja-vrajānta-sthāyāṃ sarvāsthāspada-vrajarāja-samāja-rājamānāyām āsthānyāṃ militā gopālā gopāla-nādi-saukaryaṃ nātreti paryālocayāmāsuḥ-

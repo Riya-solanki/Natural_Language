@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 580 | label: meter | g:0.194 m:0.625 ---
+
+prāyaścittakriyārthaṃ te putrān papracchur ārtavat 
+tebhyas te prayatātmānaḥ śaśaṃsur tanayās tadā ।।

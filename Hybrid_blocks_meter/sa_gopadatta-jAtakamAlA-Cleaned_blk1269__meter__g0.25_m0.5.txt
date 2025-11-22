@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1269 | label: meter | g:0.25 m:0.5 ---
+
+mā gā garvaṃ mahimnaḥ kṣitipatir aham ity ujjhyatāṃ vipralambhaḥ
+pratyāsannopatāpām anuvahasi vṛthā bhaṅginīṃ kiṃ nayājñām ।
+rājyaṃ tyaktavyam eva vyasanaparigataṃ nātyajas tvaṃ kimarthaṃ
+śaṅke daurjanyam itthaṃ mama nṛpatir ayaṃ kṣāpayiṣyaty ayatnaḥ ।।

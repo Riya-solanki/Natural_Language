@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1514 | label: grammar | g:0.625 m:0.5 ---
+
+deva tvām aham arthaye ciram asau varṣāgamo nirgatas tīrthaṃ tīrtham itas tato vicarituṃ ceto adhunā dhāvati ।
+tad viśrāmaya vīra vīryanibiḍajyābandhanāt kārmukaṃ mā bhūd vairivadhūvilocanajalair mārgakramo durgamaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 778 | label: meter | g:0.25 m:0.5 ---
+
+recya vāyuṃ svakād dehāt punar ākṛṣya dhārayet 
+hṛdaye yaḥ sthito granthis tasya nābhau kṣipen manaḥ ।।

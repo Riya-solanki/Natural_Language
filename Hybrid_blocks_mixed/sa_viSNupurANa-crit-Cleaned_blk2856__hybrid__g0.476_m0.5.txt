@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2856 | label: hybrid | g:0.476 m:0.5 ---
+
+bhūtāni sarvāṇi tathānnam etad ahaṃ ca viṣṇur na yato anyad asti 
+tasmād ahaṃ bhūtanikāyabhūtam annaṃ prayacchāmi bhavāya teṣām ।।

@@ -1,0 +1,13 @@
+--- source: vacbhamu-Cleaned.txt | block: 1053 | label: meter | g:0.277 m:0.626 ---
+
+bhāvaṃ jaiminirvikalpāmananāt ।
+śarīrendriyabhede hi nānābhāvaḥ samañjasaḥ ।
+na cārthasaṃbhave yuktaṃ stutimātramanarthakam ।।
+nahi manomātrabhede sphuṭataro anekadhābhāvo yathā śarīrendriyabhede ।
+ata eva saubharerabhivinirmitavividhadehasyāparyāyeṇa māndhātṛkanyābhiḥ pañcāśatā vihāraḥ pairāṇikaiḥ smaryate ।
+na cārthasaṃbhave stutimātramanarthakamavakalpate ।
+saṃbhavati cāsyārthavattvam ।
+yadyapi nirguṇāyamidaṃ bhaumavidyāyāṃ paṭhyate tathāpi tasyāḥ purastādanena saguṇāvasthāgatenaiśvaryeṇa nirguṇaiva vidyā stūyate ।
+na cānyayogavyavacchedenaiva viśeṣaṇam ।
+yathā caitro dhanurdharaḥ ।
+tasmānmanaḥ śarīrendriyayoga aiśvaryaśālināṃ niyameneti mene jaiminiḥ ।।

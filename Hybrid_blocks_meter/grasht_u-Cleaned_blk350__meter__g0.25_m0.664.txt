@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 350 | label: meter | g:0.25 m:0.664 ---
+
+mercury jāraṇa of tin
+athavā tāraṃ vaṅgaṃ sūtaṃ saṃsārya vaṅgaparihīnam ।
+tālakayogena tathā nirvaṅgaṃ yantrayogena ।।

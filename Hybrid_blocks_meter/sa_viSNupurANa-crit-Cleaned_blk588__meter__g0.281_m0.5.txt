@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 588 | label: meter | g:0.281 m:0.5 ---
+
+iti sakalavibhūtyavāptihetuḥ stutir iyam indramukhodgatā hi lakṣmyāḥ 
+anudinam iha paṭhyate nṛbhir yair vasati na teṣu kadācid apy alakṣmīḥ ।।

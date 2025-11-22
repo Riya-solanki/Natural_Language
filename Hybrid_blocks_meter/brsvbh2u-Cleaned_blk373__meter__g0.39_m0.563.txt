@@ -1,0 +1,4 @@
+--- source: brsvbh2u-Cleaned.txt | block: 373 | label: meter | g:0.39 m:0.563 ---
+
+tasya ca nityatvāt ।
+।।

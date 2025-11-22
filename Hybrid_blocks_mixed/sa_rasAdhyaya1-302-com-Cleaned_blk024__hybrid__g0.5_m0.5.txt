@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 24 | label: hybrid | g:0.5 m:0.5 ---
+
+tata evaṃ karma pālayatā tatkarmaphalaṃ yāvan netavyam ।।

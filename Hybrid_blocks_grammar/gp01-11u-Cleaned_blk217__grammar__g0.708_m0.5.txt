@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 217 | label: grammar | g:0.708 m:0.5 ---
+
+[] athāgrataḥ-sareṇa tena sukumāreṇa kumāreṇa prāṅgaṇataḥ pratiruddha-saṅgamanāsu śuddhānta-saṅgatāṅganāsu praviṣṭās te kaṃsajid-iṣṭā gṛhādi-śobhekṣaṇa-spṛhātaḥ kṣaṇam āviṣṭāḥ, kramaśo bhojanālayāya kalayām-babhūvuḥ ।

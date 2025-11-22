@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 256 | label: meter | g:0.092 m:0.521 ---
+
+{vāsavadattā} -
+{ātmagatam} bhodu bhodu vissatthahmi 
+aho piaṃ ṇāma īdisaṃ vaaṇaṃ appaccakkhaṃ suṇīadi 
+[bhavatu bhavatu viśvastāsmi । aho priyaṃ nāmedṛśaṃ vacanam apratyakṣaṃ śrūyate । ]

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 998 | label: meter | g:0.34 m:0.515 ---
+
+indum indradig asūta sarasvān uttaraṅgabhujarājir anṛtyan ।
+ujjaharṣa jhaṣaketur avāpuḥ ṣaṭpadāḥ kumudabandhanamokṣam ।।
+abhinandasya

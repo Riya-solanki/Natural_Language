@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 277 | label: meter | g:0.316 m:0.5 ---
+
+duḥkhaṃ tu nirgārayatīva ceto mamaikam evāvinivāryavīryam ।
+ambā mṛtaṃ māṃ yad iyaṃ viditvā duḥkhena saṃtyakṣyati jīvalokam ।।

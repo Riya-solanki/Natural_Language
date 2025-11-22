@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2590 | label: grammar | g:0.625 m:0.5 ---
+
+vajragarbhaṃ svamūrdhe tu pratiṣṭhāpya vibhāvayet । yadā tu jvālate tattu tadaivordhvagamo bhaved ।। ।।

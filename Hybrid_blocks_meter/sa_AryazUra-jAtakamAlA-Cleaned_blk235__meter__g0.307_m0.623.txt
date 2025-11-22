@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 235 | label: meter | g:0.307 m:0.623 ---
+
+jane prasaṅgena vitasya sadgatiṃ prabodhya harṣaṃ sasuhṛtsu bandhuṣu ।
+avāptasaṃmānavidhirnṛpādapi śriyā pariṣvakta ivābhikāmayā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6869 | label: meter | g:0.306 m:0.5 ---
+
+ādareṇa sadā stauti dhanavantaṃ dhanecchayā ।
+tathā viśvasya kartāraṃ ko na mucyeta bandhanāt ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5006 | label: meter | g:0.194 m:0.5 ---
+
+sabhājayām āsa ca taṃ yavaneśo hy anātmajaḥ 
+tadyoṣitsaṃgamāc cāsya putro abhūd alisaṃnibhaḥ ।।

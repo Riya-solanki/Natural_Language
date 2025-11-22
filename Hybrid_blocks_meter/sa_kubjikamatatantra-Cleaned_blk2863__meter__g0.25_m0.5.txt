@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2863 | label: meter | g:0.25 m:0.5 ---
+
+yena yena hi veṣeṇa vartate sādhakottamaḥ 
+tat tad eva vrataṃ proktam iti śāstrasya niścayaḥ ।।

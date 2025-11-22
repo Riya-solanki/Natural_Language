@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 168 | label: meter | g:0.194 m:0.5 ---
+
+pūrvaṃ yatra tu brahmarṣīn utpannān sapta mānasān 
+putratve kalpayām āsa svayam eva pitāmahaḥ ।।

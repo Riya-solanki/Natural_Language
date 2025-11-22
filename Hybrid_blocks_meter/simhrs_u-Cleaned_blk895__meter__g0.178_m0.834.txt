@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 895 | label: meter | g:0.178 m:0.834 ---
+
+ahṛdya-darśanād, yathā-
+niṣṭāpa-svidyad-asthnaḥ kvathana-pariṇaman medasaḥ pretakāyān
+ākṛṣyāsakta-dhūpān api kuṇapa-bhujo bhūyasībhyaś citābhyaḥ ।
+utpakva-sraṃsi māṃsa-pracalad-ubhayataḥ sandhi-nirmukta-mārād
+ete niścūṣya jaṅghān alakam udayinīr majja-dhārāḥ pibanti ।।

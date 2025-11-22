@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1055 | label: meter | g:0.25 m:0.75 ---
+
+vakṣyamāṇoktaviṣayāḥ saṃbhavanti vivakṣayā ।
+dṛṣṭāntādyāstrayo apyete hetau satyathavāsati ।।

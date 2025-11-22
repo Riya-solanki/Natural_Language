@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 680 | label: meter | g:0.25 m:0.768 ---
+
+atha harṣaḥ-
+manorathasya lābhena siddhyā yogyasya vastunaḥ । 
+mitra-saṅgama-devādi-prasādādeś ca kalpitaḥ ।।
+manaḥ-prasādo harṣaḥ syād atra netrāsya-phullatā । 
+priyābhāṣaṇam āśleṣaḥ pulakānāṃ prarohaṇam ।
+svedodgamaś ca hastena hasta-sampīḍanādayaḥ ।।

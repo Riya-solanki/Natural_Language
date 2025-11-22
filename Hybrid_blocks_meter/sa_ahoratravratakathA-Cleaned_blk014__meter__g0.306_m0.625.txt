@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 14 | label: meter | g:0.306 m:0.625 ---
+
+śṛṇu rājan mayā khyātaṃ vratānāṃ vratam uttamam ।
+ahorātravrataṃ pūrvaṃ vipaśyinā prabhāṣitam ।।

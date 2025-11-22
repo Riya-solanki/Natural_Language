@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3455 | label: grammar | g:0.75 m:0.5 ---
+
+ekadā tu duhitṛsnehākṛṣṭahṛdayaḥ sa mahīpatir atiduḥkhitās tāḥ sukhitā veti vicintya tasya maharṣer āśramam upetya sphuradaṃśumālāṃ sphaṭikamayīṃ prāsādamālām atiramyopavanajalāśayāṃ dadarśa ।।

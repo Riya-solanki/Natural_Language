@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 232 | label: meter | g:0.25 m:0.625 ---
+
+āpas tastambhire tasya samudram abhiyāsyataḥ 
+parvatāś ca dadur mārgaṃ dhvajasaṅgaś ca nābhavat ।।

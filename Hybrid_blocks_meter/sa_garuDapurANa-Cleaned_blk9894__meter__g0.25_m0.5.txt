@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9894 | label: meter | g:0.25 m:0.5 ---
+
+apavitraḥ pavitro vā sarvāvasthāṃ gatopi vā ।
+yaḥ smaretpuṇḍarīkākṣaṃ sa bāhyābhyantaraṃ śuciḥ ।।

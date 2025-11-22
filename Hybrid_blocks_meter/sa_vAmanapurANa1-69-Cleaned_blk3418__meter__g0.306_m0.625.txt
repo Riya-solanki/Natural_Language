@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3418 | label: meter | g:0.306 m:0.625 ---
+
+dhiktvāṃ pāpasamārāraṃ duṣuṭabuddhiṃ subāliśam ।
+hariṃ nindayato jihvā kathaṃ na patitā tava ।।

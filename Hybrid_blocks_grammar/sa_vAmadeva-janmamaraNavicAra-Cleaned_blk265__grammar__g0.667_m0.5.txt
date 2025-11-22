@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 265 | label: grammar | g:0.667 m:0.5 ---
+
+śrīmatarahasyatilake api uttamanayādhikāriṇāṃ saṃvṛtanijasadācārāṇāṃ lokaprasiddhirakṣāyai tadācārāparityāgo api āmnātaḥ tathā hi lokācārasya vicchedo na kartavyaḥ kadācana ।।

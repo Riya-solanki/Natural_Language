@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4134 | label: meter | g:0.25 m:0.75 ---
+
+dakṣiṇasyāṃ latāveṣṭaḥ pañcavarṇo virājate 
+indraketupratīkāśaḥ paścimasyāṃ tathākṣayaḥ ।। 
+citrakānanaramyaś ca pañcānananiṣevitaḥ । 
+uttarāṃ diśam atyarthaṃ vibhūṣayati veṇumān 
+mandarādripratīkāśaḥ pāṇḍuraḥ pārthivarṣabha ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 98 | label: grammar | g:0.708 m:0.5 ---
+
+tvadavibhedamater aparaṃ nu kiṃ sukham ihāsti vibhūtir athāparā tad iha tāvakadāsajanasya kiṃ kupatham eti manaḥ parihṛtya tām ।।

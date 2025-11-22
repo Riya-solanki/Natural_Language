@@ -1,0 +1,5 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2236 | label: grammar | g:0.58 m:0.287 ---
+
+atha bodhisattvastathāpyasatkāraviprakṛtaḥ protsāhyamāno api tayā vanadevatayā svāṃ prakṛtibhadratāṃ pradarśayannuvāca - alamalamanena krameṇa । naiṣa mārgo asmadvidhānām । 
+ārte pravṛttiḥ sādhūnāṃ kṛpayā na tu lipsayā ।
+tāmavaitu paro mā vā tatra kopasya ko vidhiḥ ।।

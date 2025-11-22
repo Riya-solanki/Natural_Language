@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3855 | label: meter | g:0.194 m:0.5 ---
+
+prasūtiṃ vṛṣṇivīrāṇāṃ yaḥ śṛṇoti naraḥ sadā 
+sa sarvaiḥ pātakair mukto viṣṇulokaṃ prapadyate ।।

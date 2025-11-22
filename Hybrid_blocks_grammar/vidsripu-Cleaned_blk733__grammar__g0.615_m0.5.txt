@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 733 | label: grammar | g:0.615 m:0.5 ---
+
+preyān so ayam apākṛtaḥ saśapathaṃ pādānataḥ kāntayā dvitrāṇy eva padāni vāsabhavanād yāvan na yāty ātmanā ।
+tāvat pratyuta pāṇisampuṭalasannīvīnibandhaṃ dhṛto dhāvitveva kṛtapraṇāmakam aho premṇo vicitrā gatiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3862 | label: meter | g:0.314 m:0.914 ---
+
+kirīṭakeyūramahārhaniṣkairmaṇyuttamālaṅkṛtasarvagātram ।
+pītāmbaraṃ kāñcanabhakticitraṃ mālādharaṃ keśavamabhyupaimi ।।

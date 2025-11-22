@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 764 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha vrajarājaḥ sa-vailakṣyam ālakṣya lakṣmī-jāni-lakṣyatayā maunam ālambya vilambya covāca-yady evam, tadā svajana-parāyaṇasya śrī-nārāyaṇasya vidhitsitam eva sarvaṃ vicikitsitam api cikitsitaṃ kariṣyati । tasyaiva khalv idaṃ vaibhavam iti ।

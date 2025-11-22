@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2178 | label: meter | g:0.307 m:0.623 ---
+
+ataśca nūnaṃ bhagavānavocadacintyatāṃ karmavipākayukteḥ ।
+kṛpātmakaḥ sannapi yatsa bheje tiryaggatiṃ tatra ca dharmasaṃjñām ।।

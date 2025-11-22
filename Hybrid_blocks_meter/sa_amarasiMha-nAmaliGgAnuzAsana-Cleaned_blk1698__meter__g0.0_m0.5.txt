@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1698 | label: meter | g:0.0 m:0.5 ---
+
+takṣā tu vardhakis tvaṣṭā rathakāraś ca kāṣṭhataṭ

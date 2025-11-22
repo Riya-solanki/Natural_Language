@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1822 | label: hybrid | g:0.508 m:0.454 ---
+
+vidyāvadhūm apariṇīya kulānurūpāṃ ślāghyāṃ sutām iva tataḥ śriyam aprasūya ।
+tāṃ cārthine praṇayapeśalam apradāya dhik taṃ manuṣyapadam ātmani yaḥ prayuṅkte ।।
+bhartṛhareḥ

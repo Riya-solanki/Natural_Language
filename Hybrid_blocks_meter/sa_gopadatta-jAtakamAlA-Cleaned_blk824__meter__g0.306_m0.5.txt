@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 824 | label: meter | g:0.306 m:0.5 ---
+
+āpadgatānāṃ vyasanakṣayāya tvaṃ pañcamaḥ pārthiva lokapālaḥ ।
+trāyasva mām āpadi vartamānāṃ dīnām anāthāṃ jagadekanātha ।।

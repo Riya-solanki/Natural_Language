@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 906 | label: meter | g:0.25 m:0.555 ---
+
+śrameṇa mahatā yuktā anviṣyanto maheśvaram ।
+pīyatāmamṛtaṃ devāstato jñāsyatha śaṅkaram ।
+etacchratvā tu vacanaṃ bhavānyā samudāhṛtam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3772 | label: meter | g:0.194 m:0.625 ---
+
+rohiṇyām ahani śreṣṭhe svasti vācya dvijottamān 
+puṇyāhaghoṣair vipulair durgasyārabdhavān kriyāṃ ।।

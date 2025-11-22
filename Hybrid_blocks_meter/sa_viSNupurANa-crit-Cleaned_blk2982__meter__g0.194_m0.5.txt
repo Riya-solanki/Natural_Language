@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2982 | label: meter | g:0.194 m:0.5 ---
+
+tasmāt satyaṃ vadet prājño yat paraprītikāraṇam 
+satyaṃ yat paraduḥkhāya tatra maunaparo bhavet ।।

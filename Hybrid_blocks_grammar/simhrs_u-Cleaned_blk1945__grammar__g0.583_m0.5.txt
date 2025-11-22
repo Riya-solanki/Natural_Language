@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1945 | label: grammar | g:0.583 m:0.5 ---
+
+yathā tatraiva prahasane jainaḥ-aho arājako' yaṃ viṣayaḥ yat nagara-parisarāśrita-tapasvināṃ dhanaṃ coryate ।

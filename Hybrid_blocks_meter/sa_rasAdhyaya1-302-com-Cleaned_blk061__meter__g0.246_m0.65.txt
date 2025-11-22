@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 61 | label: meter | g:0.246 m:0.65 ---
+
+tato dehasādhakam ।
+lohasādhakaṃ ca rasāyanaṃ vadāmīti śrīkaṅkālayaśiṣyavacaḥ ।। v

@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 85 | label: meter | g:0.0 m:0.625 ---
+
+mantraṃ manasi tacchaktau tāṃ svadhāmni sadodite
+kṛtvā japavidhiṃ samyak śivāya vinivedaye

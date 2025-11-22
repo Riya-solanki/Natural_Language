@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1308 | label: hybrid | g:0.51 m:0.5 ---
+
+tasmāt masuttiṣcha narendra devyāḥ pāṇiṃ tapatyā vidhivad gṛhāṇa ।
+ityevamukto nṛpatiḥ prahṛṣṭo jagrāha pāṇiṃ vidhivat tapatyāḥ ।।

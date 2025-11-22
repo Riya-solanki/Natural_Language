@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1058 | label: grammar | g:0.75 m:0.5 ---
+
+[] kṛṣṇas tu sa-hāsaṃ spaṣṭam idam abhyacaṣṭe-aho, śubhaṃyūyamānānām āsām ahaṃyutā bhavatīnāṃ bhavatu, paśyāmas tatra-bhavatīṣu devatā-prabhāvam । yāvad eva tad etam udavāsam urīkṛtya bhavatyas tiṣṭhanti, tāvad vayam api dhṛta-niṣṭhās taror upariṣṭād eva nabho-vāsam urarīkṛtya tiṣṭhāma ।

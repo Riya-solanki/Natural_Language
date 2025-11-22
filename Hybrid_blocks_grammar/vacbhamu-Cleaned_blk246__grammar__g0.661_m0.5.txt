@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 246 | label: grammar | g:0.661 m:0.5 ---
+
+yadi hāṭakādabhinnaḥ kaṭakaḥ kathamayaṃ kuṇḍalādiṣu nānuvartate ? nānuvartate cet kathaṃ hāṭakādabhinnaḥ kaṭakaḥ ? ye hi yasminnanuvartamāne vyāvartante te tato bhinnā eva, yathā sūtrātkusumabhedāḥ ।
+nānuvartante cānuvartamāne api hāṭakatve kuṇḍalādayaḥ; tasmātte api hāṭakādbhinnā eveti ।
+sattānuvṛttyā ca sarvavastvanugame aidamiha nedam, idamevaṃ nedam' iti vibhāgo na syāt, kasyacit kvacit kadācit kathañcidvivekahetorabhāvāt ।
+api ca dūrātkanakamityavagate na tasya kuṇḍalādayo viśeṣā jijñāsyeran, kanakādabhedātteṣām, tasya ca jñātatvāt ।

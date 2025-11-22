@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11302 | label: meter | g:0.306 m:0.5 ---
+
+yasminnakhāḥ saṃti raktāḥ suśobhāstallakṣaṇaṃ saptamaṃ cāhurāryāḥ ।
+yasminkapole raktimā tvasti vīndra tallakṣaṇaṃ hyaṣṭamaṃ prāhurāryā ।।

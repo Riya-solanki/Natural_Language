@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1026 | label: meter | g:0.194 m:0.875 ---
+
+gopendrādika-gaṇa-pūjām anu
+narma-kutūhalam udayed varatanu ।
+pūrvaṃ vidhim api kṛtvā sadvidhi
+āneṣyanti tvām iha sahanidhi ।।

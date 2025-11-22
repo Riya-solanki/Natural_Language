@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 903 | label: meter | g:0.328 m:0.595 ---
+
+ye arcayanti mudā saṃghān na te api yānti durgatim ।
+sarvasattvahitaṃ kṛtvā saṃprayānti śubhālaye ।।

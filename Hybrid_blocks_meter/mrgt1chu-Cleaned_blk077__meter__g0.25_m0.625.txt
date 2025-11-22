@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 77 | label: meter | g:0.25 m:0.625 ---
+
+prāvṛtīśabale karma māyākāryaṃ caturvidham ।
+pāśajālaṃ samāsena dharmā nāmnaiva kīrtitāḥ ।।

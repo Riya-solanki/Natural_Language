@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1481 | label: meter | g:0.102 m:0.5 ---
+
+vṛkṣāṇāṃ parvatānāṃ ca grahāṇāṃ cāpi ye adhipāḥ 
+atītā vartamānāś ca ye bhaviṣyanti cāpare 
+te sarve sarvabhūtasya viṣṇor aṃśasamudbhavāḥ ।।

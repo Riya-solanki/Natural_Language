@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1954 | label: grammar | g:0.708 m:0.5 ---
+
+atha te puruṣāḥ kāntāranistāraṇāpekṣayā tasya dviradapaterabhiprāyamanusmarantastadvacanamapratikṣipya tasya mahāsattvasya māṃsānyādāya dṛtibhiriva ca tadantraiḥ salilaṃ tatpradarśitayā diśā svasti tasmātkāntārādviniryayuḥ ।

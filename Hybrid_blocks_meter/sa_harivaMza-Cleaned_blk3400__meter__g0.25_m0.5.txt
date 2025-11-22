@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3400 | label: meter | g:0.25 m:0.5 ---
+
+saha tvayā gataḥ kālas tvadaṅke krīḍitaṃ gatam 
+kṣaṇena ca vihīnāḥ sma anityā hi nṛṇāṃ gatiḥ ।।

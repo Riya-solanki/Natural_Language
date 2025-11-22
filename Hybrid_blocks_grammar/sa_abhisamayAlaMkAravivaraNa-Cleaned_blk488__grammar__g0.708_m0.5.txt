@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 488 | label: grammar | g:0.708 m:0.5 ---
+
+nirvacanam eka ityantimaḥ, kṣaṇamiti samayaḥ, abhirityābhimukhyam, samiti samyak, aya ityadhigama ityevaṃ antimakāle dānādisarvānāsravadharmāṇāmaviparītaḥ samyak prativedhaḥ ekakṣaṇābhisambodha ityucyate ।

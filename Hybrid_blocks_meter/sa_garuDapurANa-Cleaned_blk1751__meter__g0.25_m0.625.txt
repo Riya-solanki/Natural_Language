@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1751 | label: meter | g:0.25 m:0.625 ---
+
+duḥ khadāridyadau syātā nātra kāryāṃ vicāraṇā ।
+alparomayutā śreṣṭhā jaṅghā hastikaropamā ।।

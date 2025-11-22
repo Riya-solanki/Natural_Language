@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4758 | label: meter | g:0.194 m:0.625 ---
+
+niṣprayatnaḥ sthitaś cāpi sarpabhogamayaiḥ śaraiḥ 
+na vivyathe sa bhūtātmā sarvataḥ pariveṣṭitaḥ ।।

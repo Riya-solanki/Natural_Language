@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 46 | label: grammar | g:0.519 m:0.171 ---
+
+anyadharmasya jñānadharmasya rajatasya; jñānākārasyeti yāvat ।
+adhyāsaḥ anyatra bāhye ।
+sautrāntikanaye tāvadbāhyamasti vastusat; tatra jñānākārasyāropaḥ ।
+vijñānavādināmapi, yadyapi na bāhyaṃ vastusat tathāpyanādyavidyāvāsanāropitamalīkaṃ bāhyam; tatra jñānākārasyāropaḥ ।
+upapattiśca- yadyādṛśamanubhavasiddhaṃ rūpaṃ tattādṛśameva abhyupetavyamityutsargaḥ; anyathātvaṃ punarasya balavadbādhakapratyayavaśāt; anedaṃ rajatam' iti bādhakasya idantāmātrabādhenāpyupapattau na rajatagocaratocitā ।
+rajatasya dharmiṇo bhādhe hi rajataṃ ca tasya dharma idantā ca bādhite bhavetām; tadvaramidantaivāsya dharmo bādhyatām, na punā rajatamapi dharmi; tathā ca rajataṃ bahirbādhitamarthādāntare jñāne vyavatiṣṭhata iti jñānākārasya bahiradhyāsaḥ sidhyati ।

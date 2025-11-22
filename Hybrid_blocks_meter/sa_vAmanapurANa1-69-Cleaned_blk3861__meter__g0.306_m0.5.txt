@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3861 | label: meter | g:0.306 m:0.5 ---
+
+kāryaṃ kriyā kāraṇamaprameyaṃ hiraṇyabāhuṃ varapadmanābham ।
+mahābalaṃ vedanidhiṃ sureśaṃ vaāmi viṣṇuṃ śaraṇaṃ janārdanam ।।

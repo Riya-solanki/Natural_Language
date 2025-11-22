@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 468 | label: meter | g:0.25 m:0.5 ---
+
+jaṭā na śūdro vibhṛyān nājño nāpi pramādavān 
+na yoṣinna vayontasthā na rogī vikalo api vā ।।

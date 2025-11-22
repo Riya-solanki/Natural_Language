@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 58 | label: grammar | g:0.583 m:0.5 ---
+
+cāru cāndramasaṃ bhīru bimbaṃ paśyaitad ambare manmano manmathākrāntaṃ nirdayaṃ hantum udyataṃ ।।

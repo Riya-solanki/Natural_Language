@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3724 | label: grammar | g:0.729 m:0.5 ---
+
+ataḥ paraṃ yayāteḥ prathamaputrasya yador vaṃśam ahaṃ kathayāmi । yatrāśeṣalokanivāsimanuṣyasiddhagandharvayakṣarākṣasaguhyakakiṃpuruṣāpsaroragavihagadaityadānavarudravasvaśvi maruddevarṣidvijarṣimumukṣibhir dharmārthakāmamokṣārthibhis tattatphalalābhāya sadābhiṣṭutāparicchedyamāhātmyenāṃśena bhagavān anādinidhano viṣṇur avatatāra ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1777 | label: meter | g:0.25 m:0.5 ---
+
+adho adhaḥ paśyataḥ kasya mahimā nopajāyate ।
+upary upari paśyantaḥ sarva eva daridrati ।।

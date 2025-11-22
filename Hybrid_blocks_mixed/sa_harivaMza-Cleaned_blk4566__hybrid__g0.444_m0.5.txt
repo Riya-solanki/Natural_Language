@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4566 | label: hybrid | g:0.444 m:0.5 ---
+
+etac chrutaṃ ca dṛṣṭaṃ ca māhātmyaṃ keśavasya me 
+yan māṃ pṛcchasi rājendra bhūyaś cāto janārdane ।।

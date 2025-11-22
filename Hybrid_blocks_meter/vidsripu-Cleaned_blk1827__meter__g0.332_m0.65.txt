@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1827 | label: meter | g:0.332 m:0.65 ---
+
+āḍhyarājakṛtārambhair hṛdayasthaiḥ smṛtair api ।
+jihvāntaḥ kṛṣyamāṇeva na kavitve pragalbhate ।।
+bāṇasya

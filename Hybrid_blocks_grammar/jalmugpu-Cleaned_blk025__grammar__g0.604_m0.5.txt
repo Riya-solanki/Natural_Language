@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 25 | label: grammar | g:0.604 m:0.5 ---
+
+kruddho yasya manobhavas taruṇimā yenātmano vañcitas tais tair yaś ca kaṭākṣitaḥ paribhavaiḥ sākṣād alakṣmīmukhaiḥ ।
+yuktāyuktavicāraṇāparihṛtaḥ kāmaṃ sa kāmī krimiḥ paṇyastrīṣu nitambanāmani mahānimbe ratiṃ vindati ।।

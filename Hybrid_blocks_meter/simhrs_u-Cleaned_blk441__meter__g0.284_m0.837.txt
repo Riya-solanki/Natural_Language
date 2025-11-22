@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 441 | label: meter | g:0.284 m:0.837 ---
+
+athārabhaṭī -
+māyendra-jāla-pracurāṃ citra-yuddha-kriyā-mayīm । 
+chedyair bhedyaiḥ plutair yuktāṃ vṛttim ārabhaṭīṃ viduḥ ।।
+aṅgāny asyās tu catvāri saṅkṣiptir avapātanam । 
+vastūtthāpana-sampheṭāv iti pūrve babhāṣire ।।

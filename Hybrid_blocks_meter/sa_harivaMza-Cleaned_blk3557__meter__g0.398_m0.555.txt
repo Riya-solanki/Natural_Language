@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3557 | label: meter | g:0.398 m:0.555 ---
+
+aśmayantrāṇi yujyantāṃ kṣepaṇīyāś ca mudgarāḥ 
+kāryā bhūmiḥ samā sarvā jalaughaiś ca pariplutā । 
+ūrdhvaṃ cāpāni vāhyantāṃ prāsā vai tomarās tathā ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10416 | label: hybrid | g:0.46 m:0.532 ---
+
+brahmovāca ।
+lakṣmīpate sarvajagannivāsa tvaṃ jñānasiṃdhuḥ kva ca viśvamūrte ।
+ahaṃ kva cājñastava vai śaktirasti hyajñohaṃ vai hyalpaśaktirmamāsti ।।

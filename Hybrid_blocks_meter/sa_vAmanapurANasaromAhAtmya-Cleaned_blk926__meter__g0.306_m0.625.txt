@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 926 | label: meter | g:0.306 m:0.625 ---
+
+tānuvāca tadā brahmā surāṃstridaśanāyakaḥ ।
+pāṃśunā pūryatāṃ śīghraṃ saraḥ śakre hitaṃ kuru ।।

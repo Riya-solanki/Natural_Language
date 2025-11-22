@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 115 | label: grammar | g:0.552 m:0.5 ---
+
+ukteṣveva prasajati punarnavyalāvaṇyasāreṣv aṅgeṣvasyā mama kathayato hanta vācāṃ pravṛttiḥ ।
+tādṛgbhūte manasi vivaśe kinnu kurvīta seyaṃ yadyacceto vimṛśati girāṃ tattadevābhidheyam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 39 | label: meter | g:0.194 m:0.625 ---
+
+tvatto hi vedādhyayanam adhītam akhilaṃ guro 
+dharmaśāstrāṇi sarvāṇi vedāṅgāni yathākramam ।।

@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 189 | label: hybrid | g:0.5 m:0.445 ---
+
+Vṛtti:
+[akāmād] anicchātaḥ [saṃjātavyutkramaḥ] svaśāstrāmnātavidhyatikrame [vidhisthitaṃ] tacchāstropadiṣṭaṃ prāyaścittaṃ kuryāt। [kāmataḥ] icchātaḥ triguṇam। sudhīriti suṣṭhu śobhanā tadanuṣṭhāne pravaṇā dhīryasya saḥ।
+evam

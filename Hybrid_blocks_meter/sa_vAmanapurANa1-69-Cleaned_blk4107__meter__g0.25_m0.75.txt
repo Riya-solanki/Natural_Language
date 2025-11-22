@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4107 | label: meter | g:0.25 m:0.75 ---
+
+vijñāya tatrāpyaratiṃ snātvār'cya pitṛdevatāḥ ।
+prajagmuḥ kiraṇāṃ puṇyāṃ dineśakiraṇacyutām ।।

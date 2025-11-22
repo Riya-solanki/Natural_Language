@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1113 | label: grammar | g:0.562 m:0.5 ---
+
+śabdagato anuprāsaḥ śabdārthayorabhede apyanvayamātrabhedāt lāṭajanavallabhatvācca lāṭānuprāsaḥ । eṣa padānuprāsa ityanye ।।

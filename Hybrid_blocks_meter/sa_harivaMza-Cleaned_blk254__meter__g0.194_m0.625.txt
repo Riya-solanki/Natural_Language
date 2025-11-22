@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 254 | label: meter | g:0.194 m:0.625 ---
+
+tvāṃ nihatyādya bāṇena macchāsanaparāṅmukhīm 
+ātmānaṃ prathayitvāhaṃ prajā dhārayitā svayam ।।

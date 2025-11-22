@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1247 | label: meter | g:0.25 m:0.625 ---
+
+ṛtvigbhiḥ saha cācāryaṃ varayenmadhyadeśagam ।
+svaśākhoktavidhānena atha vā praṇavena tu ।।

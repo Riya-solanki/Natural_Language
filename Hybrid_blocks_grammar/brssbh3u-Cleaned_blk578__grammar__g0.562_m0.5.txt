@@ -1,0 +1,3 @@
+--- source: brssbh3u-Cleaned.txt | block: 578 | label: grammar | g:0.562 m:0.5 ---
+
+ataṃ vidyākarmaṇī samanvārabhete' iti ca vidyākarmaṇoḥ phalārambhe sahakāritvadarśanānna svātantryaṃ vidyāyāḥ ।।

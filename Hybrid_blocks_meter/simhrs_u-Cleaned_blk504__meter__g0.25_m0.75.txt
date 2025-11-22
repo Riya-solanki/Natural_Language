@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 504 | label: meter | g:0.25 m:0.75 ---
+
+atra vivāha-dhūmena lakṣmyā bāṣpodgamaḥ ।

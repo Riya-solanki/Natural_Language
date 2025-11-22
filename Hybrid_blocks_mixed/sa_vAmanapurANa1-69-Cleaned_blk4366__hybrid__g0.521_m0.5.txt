@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4366 | label: hybrid | g:0.521 m:0.5 ---
+
+vibho sahī yāvatīyaṃ tvayādya sṛṣṭacā sametā bhuvanāntarālaiḥ ।
+dattā ca tātena hi tāvatīyaṃ kiṃ vākchalenaiṣa nibadhyate adya ।।

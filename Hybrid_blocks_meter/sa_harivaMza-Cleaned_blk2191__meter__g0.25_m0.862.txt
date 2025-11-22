@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2191 | label: meter | g:0.25 m:0.862 ---
+
+imān prāṇeśvarān gṛhya ṣaḍgarbhān nāma dehinaḥ 
+ṣaḍgarbhān dānavottamān ।
+sarvaprāṇeśvarī caiva ।
+ṣaṭsu garbheṣu devakyā yojayasva yathākramam ।।

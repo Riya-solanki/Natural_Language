@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 45 | label: grammar | g:0.674 m:0.498 ---
+
+[] tad evaṃ sampradhāryāvadhārya ca tena, veṇum evaṃ vādayiṣyāmīti yadā vicāryate sma, tadā ca tābhiḥ sāndra-candrika-candramasaḥ sandṛṣṭ-vaśatayā sāndṛṣṭikam idaṃ parāmṛṣṭam-
+hanta ! sa khalv ayam oṣadhīśo' py ādhi-vyādhita-janān asmān adya sadyaḥ pratiritsed eva, na tu cikitset iti ।

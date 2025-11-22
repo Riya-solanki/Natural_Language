@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 229 | label: meter | g:0.306 m:0.5 ---
+
+svabhāvaduḥkhān prakṛtiprabhaṅgurān asārakān phenalavān ivāmbhasaḥ ।
+arīn imān ātmasamudbhavān bhavān sukhābhimānāś chalitāḥ śarīriṇaḥ ।।

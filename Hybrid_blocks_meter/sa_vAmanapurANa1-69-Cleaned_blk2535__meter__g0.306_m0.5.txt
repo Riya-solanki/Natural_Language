@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2535 | label: meter | g:0.306 m:0.5 ---
+
+tamāsasāda ca kapiṃ paryapṛcchat tathāpsarāḥ ।
+kiṃ bālā na tvayā dṛṣṭā kape satyaṃ vadasva māṃ ।।

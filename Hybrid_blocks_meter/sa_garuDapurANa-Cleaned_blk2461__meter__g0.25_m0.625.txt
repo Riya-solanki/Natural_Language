@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2461 | label: meter | g:0.25 m:0.625 ---
+
+datto liścāvarīvāṃśca ṛṣyaḥ saptakīrtitāḥ ।
+tuṣitā dvādaśa proktāstathā pārāvatāśca ye ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 296 | label: hybrid | g:0.5 m:0.5 ---
+
+sarve ca saralā pṛthvī bhavato vā yadīpsitam ।
+tad dadāsi vṛṇuṣveṣṭaṃ mamārthāḥ santi te priyāḥ ।।

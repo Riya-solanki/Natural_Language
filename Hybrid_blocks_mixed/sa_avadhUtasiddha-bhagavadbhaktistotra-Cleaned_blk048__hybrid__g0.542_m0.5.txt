@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 48 | label: hybrid | g:0.542 m:0.5 ---
+
+āstāṃ tavānyad api tāvad atulyakakṣyam aiśvaryam īśvarapadasya nimittabhūtam ।
+tvacchepaso api bhagavan na gato avasānaṃ viṣṇuḥ pitāmahayutaḥ kim utāparasya ।।

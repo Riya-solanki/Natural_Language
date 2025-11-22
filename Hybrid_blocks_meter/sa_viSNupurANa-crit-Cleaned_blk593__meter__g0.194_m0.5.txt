@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 593 | label: meter | g:0.194 m:0.5 ---
+
+prāṇaś caiva mṛkaṇḍuś ca mārkaṇḍeyo mṛkaṇḍutaḥ 
+tato vedaśirā jajñe prāṇasyāpi sutaṃ śṛṇu ।।

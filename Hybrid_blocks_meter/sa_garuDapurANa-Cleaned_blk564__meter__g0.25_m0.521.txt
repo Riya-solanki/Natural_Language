@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 564 | label: meter | g:0.25 m:0.521 ---
+
+oṃ khakholkāya tridaśāya namaḥ ।
+oṃ vici ṭhaṭha śirase namaḥ ।
+oṃ jñānine ṭhaṭha śikhāyai namaḥ ।
+oṃ sahasraraśmaye ṭhaṭha kavacāya namaḥ ।।

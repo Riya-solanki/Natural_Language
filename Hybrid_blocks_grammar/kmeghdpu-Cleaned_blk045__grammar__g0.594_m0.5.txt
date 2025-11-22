@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 45 | label: grammar | g:0.594 m:0.5 ---
+
+tvayy ādātuṃ jalam avanate śārṅgiṇo varṇacaure tasyāḥ sindhoḥ pṛthum api tanuṃ dūrabhāvāt pravāham ।
+prekṣiṣyante gaganagatayo dūram āvarjya dṛṣṭīr ekaṃ muktāguṇam iva bhuvaḥ sthūlamadhyendranīlam ।।

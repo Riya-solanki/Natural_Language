@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1160 | label: meter | g:0.306 m:0.5 ---
+
+sā romarājī sutarāṃ hi tasyā virājate pījakucāvalagnā ।
+ārohaṇe tvadbhayakātarasya svedapravāho aṭasura manmathasya ।।

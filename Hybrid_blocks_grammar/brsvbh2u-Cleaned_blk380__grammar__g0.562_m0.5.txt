@@ -1,0 +1,3 @@
+--- source: brsvbh2u-Cleaned.txt | block: 380 | label: grammar | g:0.562 m:0.5 ---
+
+tribṛtkaraṇāviśeṣe api yasya ca yatra bhūyastvaṃ tena tasya vyapadeśa ityarthaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3772 | label: grammar | g:0.583 m:0.5 ---
+
+ity ākarṇyalabdhasyamantakodantaḥ praviṣṭaḥ kumārakrīḍanakīkṛtaṃ ca dhātryā haste tejobhir jājvalyamānaṃ syamantakaṃ dadarśa ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4789 | label: hybrid | g:0.444 m:0.5 ---
+
+ity evam uktaḥ kṛṣṇas tu niḥśvasya suciraṃ punaḥ 
+prāha vākyaṃ sa vākyajño bṛhaspatir iva svayam ।।

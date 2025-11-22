@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1289 | label: meter | g:0.306 m:0.5 ---
+
+tyaktvainaṃ madbhayadanye diśo haṃsāḥ samaśritāḥ ।
+tvaṃ punarna tyajasyenaṃ ko nvayaṃ bhavato dvija ।।

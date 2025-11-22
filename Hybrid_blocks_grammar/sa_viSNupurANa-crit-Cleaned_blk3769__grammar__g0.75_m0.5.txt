@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3769 | label: grammar | g:0.75 m:0.5 ---
+
+anāgacchati ca tasmin prasene kṛṣṇo maṇiratnam abhilaṣitavān । na ca prāptavān nūnam etad asya karmety akhila eva yadulokaḥ parasparaṃ karṇākarṇy'kathayat ।।

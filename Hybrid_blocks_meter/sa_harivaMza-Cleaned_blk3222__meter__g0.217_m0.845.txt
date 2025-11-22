@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3222 | label: meter | g:0.217 m:0.845 ---
+
+suvāsitā vapuṣmanta upanītottaracchadāḥ 
+kriyantāṃ mañcavāṭāś ca valabhīvīthayas tathā ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1212 | label: meter | g:0.346 m:0.523 ---
+
+ityanena prakāśyate ।
+yathā vā uttararāmacarite saptame aṅke rāmabhadrā lakṣmaṇāsahakāriṇā nartako nartakenopāsyamānaḥ

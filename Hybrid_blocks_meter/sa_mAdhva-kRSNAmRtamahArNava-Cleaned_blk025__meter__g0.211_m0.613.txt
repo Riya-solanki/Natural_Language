@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 25 | label: meter | g:0.211 m:0.613 ---
+
+marīciḥ
+anārādhitagovindair naraiḥ sthānaṃ nṛpātmaja
+na hi samprāpyate śreṣṭhaṃ tasmād ārādhayācyutam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4108 | label: meter | g:0.194 m:0.5 ---
+
+paulomī satyabhāmā ca prītyā paramayā yute 
+agṛhṇītāṃ varārhāyā devyāś ca caraṇau śubhau ।।

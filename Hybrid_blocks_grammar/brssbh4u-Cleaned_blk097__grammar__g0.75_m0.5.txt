@@ -1,0 +1,3 @@
+--- source: brssbh4u-Cleaned.txt | block: 97 | label: grammar | g:0.75 m:0.5 ---
+
+anārabdhakāryayoḥ puṇyapāpayoḥ vidyāsāmarthyāt kṣaya uktaḥ itare tu ārabdhakārye puṇyapāpe upabhogena kṣapayitvā brahma saṃpadyate atasya tāvadeva ciraṃ yāvanna vimokṣye atha saṃpatsye' iti abrahmaiva sanbrahmāpyeti' iti ca evamādiśrutibhyaḥ ।

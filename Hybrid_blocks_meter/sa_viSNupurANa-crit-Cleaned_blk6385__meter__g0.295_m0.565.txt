@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6385 | label: meter | g:0.295 m:0.565 ---
+
+dvitīyaṃ viṣṇusaṃjñasya yogidhyeyaṃ mahāmate 
+amūrtaṃ brahmaṇo rūpaṃ yat sad ity ucyate budhaiḥ ।।

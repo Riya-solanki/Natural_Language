@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 496 | label: hybrid | g:0.419 m:0.508 ---
+
+prāgapi ca śakyamevāpūrvamavagantum anekeṣāmaṅgapradhānakarmaṇāṃ kṣaṇikānāmapūrvamantareṇa yaugapadyāsaṃbhavāt, paśvādīnāṃ ca dṛṣṭakāraṇāpekṣatvānna kṣaṇamātreṇotpattiḥ saṃbhavatītyavaśyaṃbhāvyapūrvam ।
+na ca paścādyutpattimātraṃ phalam upabhogasya tu cirakālatvāt yāvadupabhogamavasthāsyamānena kenacidbhavitavyam ।
+na ca kriyāyāstāvankālamavasthānaṃ saṃbhavatītyapūrvamaṅgīkartavyamiti taddvāreṇa

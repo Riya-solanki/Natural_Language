@@ -1,0 +1,7 @@
+--- source: grasht_u-Cleaned.txt | block: 104 | label: meter | g:0.284 m:0.501 ---
+
+mūrchana
+malaśikhiviṣābhidhānā rasasya naisargikās trayo doṣāḥ ।
+mūrchāṃ malena kurute śikhinā dāhaṃ viṣeṇa mṛtyuṃ ca ।।
+gṛhakanyā harati malaṃ triphalāgniṃ citrakaśca viṣam ।
+tasmād ebhir miśrair vārān saṃmūrchayetsapta ।।

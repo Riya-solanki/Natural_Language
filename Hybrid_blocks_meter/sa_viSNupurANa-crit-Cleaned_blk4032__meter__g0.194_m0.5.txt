@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4032 | label: meter | g:0.194 m:0.5 ---
+
+yathāgnir eko bahudhā samidhyate vikārabhedair avikārarūpaḥ 
+tathā bhavān sarvagataikarūpo rūpāṇy anekāny anupuṣyatīśaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 718 | label: hybrid | g:0.398 m:0.5 ---
+
+yathā surāṇāṃ pravaro janārdano yathā girīṇāmapi śaiśirādriḥ ।
+yathāyudhānāṃ pravaraṃ sudarśanaṃ yathā khagānāṃ vinatātanūjaḥ ।
+mahoragāṇāṃ pravaro apyananto yathā ca bhūteṣu mahī pradhānā ।।

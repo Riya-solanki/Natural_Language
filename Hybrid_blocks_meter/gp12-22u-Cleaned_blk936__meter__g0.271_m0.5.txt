@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 936 | label: meter | g:0.271 m:0.5 ---
+
+[] madhumaṅgalas tūccaiḥ sahāsam āha sma-śrīman vrajarāja ! śrūyatām-

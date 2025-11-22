@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 510 | label: grammar | g:0.75 m:0.5 ---
+
+ityukte bodhisattvaḥ prītyā samāpūryamāṇahṛdayaścintāmāpede । cirasya khalūdārapraṇayasumukhamarthijanaṃ paśyāmi । kaḥ punarartha evaṃvidhena dviradapatinaiṣāṃ brāhmaṇānām? vyaktamayaṃ lobherṣyādveṣaparyākulamanasaḥ kasyāpi rājñaḥ kārpaṇyaprayogaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1836 | label: meter | g:0.25 m:0.5 ---
+
+yatsaṃkucanti vikasanti ca apṅkajāti kāmaṃ tadanyabhavaceṣṭisiddhireṣā ।
+no cettadiṣṭamatha kiṃ stanapānayatnaṃ jātyantarīyakapariśramajaṃ karoṣi ।।

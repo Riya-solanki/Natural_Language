@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 922 | label: meter | g:0.381 m:0.727 ---
+
+pramādināṃ kāpuruṣāśrayāṇām ।
+utkaṇṭhayanti pravivekayogyās ta eva śāntāḥ satataṃ vanāntāḥ ।।

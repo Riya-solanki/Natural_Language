@@ -1,0 +1,4 @@
+--- source: brssbh3u-Cleaned.txt | block: 531 | label: hybrid | g:0.37 m:0.354 ---
+
+nanu vedetyādiṣu śabdabheda evāvagamyate na yajatītyādivadarthabhedaḥ sarveṣāmevaiṣāṃ manovṛttyarthatvābhedāt arthāntarāsaṃbhavācca ।
+tatkathaṃ śabdabhedādvidyābheda iti ।

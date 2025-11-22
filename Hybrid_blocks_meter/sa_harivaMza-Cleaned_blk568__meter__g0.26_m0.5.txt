@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 568 | label: meter | g:0.26 m:0.5 ---
+
+sanatkumāra iti yaḥ śruto vedeṣu vai purā 
+so smi bhārgava bhadraṃ te kaṃ kāmaṃ karavāṇi te ।।

@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 645 | label: grammar | g:0.646 m:0.5 ---
+
+atra bhuvanaviśadabhāve kīrtāvanāviṣṭāṃ hetau tṛtīyāṃ prayojayati । na tu kartarīti kriyānāviṣṭo ayaṃ pravartakaḥ kārakahetuḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 791 | label: grammar | g:0.604 m:0.5 ---
+
+pratibhāty apūrvam iva sarvam adya me na ca vedmi kāham iti tena varjitā ।
+vyasane sa eva śaraṇaṃ mama priyo virahe tu tasya maraṇaṃ parāyaṇam ।।

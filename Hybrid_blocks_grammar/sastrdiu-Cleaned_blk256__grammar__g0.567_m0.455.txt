@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 256 | label: grammar | g:0.567 m:0.455 ---
+
+evaṃ tvatyantasākāṅkṣameva vākyaṃ kleśagamyārthaṃ bhavatīti tryavayavameva yuktam- anityaḥ śabdaḥ kṛtakatvāt yatkṛtakaṃ tadanityaṃ yathā ghaṭādītyevamudāharaṇāntaṃ sādhanaṃ sarvatra vārtikakāraḥ prayuṅkte ।
+athavā yatkṛtakaṃ tadanityaṃ yathā ghaṭādi, kṛtakaśca śabdastasmādinityaḥ- ityudāharaṇaprabhṛti prayoktavyam ।
+evamapyanyūnādhikameva sādhanam ।
+tathā ca yatkarma tatphalavat homo api karma tenāpi tatphalavatā bhavitavyamityeva sarvatra

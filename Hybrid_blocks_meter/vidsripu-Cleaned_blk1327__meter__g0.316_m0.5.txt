@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1327 | label: meter | g:0.316 m:0.5 ---
+
+akāraṇāviṣkṛtavairadāruṇād asajjanāt kasya bhayaṃ na jāyate ।
+viṣaṃ mahāher iva yasya durvacaḥ suduḥsahaṃ saṃnihitaṃ sadā mukhe ।।

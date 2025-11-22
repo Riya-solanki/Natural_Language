@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1713 | label: meter | g:0.306 m:0.5 ---
+
+yugyaṃ balaṃ jānapadānamātyān paurānanāthāñchramaṇān dvijātīn ।
+sarvān sukhena prayateta yoktuṃ hitānukūlena piteva rājā ।।

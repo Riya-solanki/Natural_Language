@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5263 | label: meter | g:0.25 m:0.5 ---
+
+tāṃś ciccheda hariḥ pāśān kṣiptvā cakraṃ sudarśanam 
+tato muruḥ samuttasthau taṃ jaghāna ca keśavaḥ ।।

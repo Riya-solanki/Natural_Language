@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1309 | label: meter | g:0.25 m:0.75 ---
+
+vārāhas tu śrutisukhaḥ prādurbhāvo mahātmanaḥ 
+yatra viṣṇuḥ suraśreṣṭho vārāhaṃ rūpam āsthitaḥ ।। 
+mahīṃ sāgaraparyantāṃ saśailavanakānanām । 
+vedapādo yūpadaṃṣṭraḥ kratudantaś citīmukhaḥ 
+agnijihvo darbhalomā brahmaśīrṣo mahātapāḥ ।।

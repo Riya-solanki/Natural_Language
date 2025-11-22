@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 167 | label: grammar | g:0.78 m:0.395 ---
+
+rasakasya khāparasya maṇamekaṃ naramūtreṇa dinatrayaṃ kvāthayitvā ātape dattvā śoṣayitvā praharamekaṃ dugdhena pācayitvā punaḥ śoṣayitvā cūrṇīkṛtya tanmadhye'ṣṭabhāgena khalaścaturthabhāgena ṭaṅkaṇakṣāro'ṣṭamabhāgena pūrvaguḍa etāni trīṇi kṣipet ।।
+tato mṛttikayā mūṣādvayaṃ kaccolakasamānaṃ prauḍhaṃ vartulākāraṃ kṛtvā ekasyāṃ mūṣāyāṃ pūrvoktakhāparacūrṇaṃ kṣiptvā sā mūṣādhomukhī nālopari moktavyā ।।
+tataḥ karpaṭamṛttikayā sarvapārśveṣu niśchidraṃ vidhāya sattvapātanāya īdṛśas tumbanalīnāmā yantraḥ kartavyaḥ tataḥ koṭhīmadhye babbūlakhadiram āmbalīprabhṛtīnāṃ līhālakaiḥ pūrayitvā yantraṃ ca tatra kṣiptvā punaḥ punar dhmātvā saṃdaṃśair adhomukhīṃ yantranalīṃ dhūtvā yāvanmātro raso madhyād galitvādhomūṣāyāṃ sameti tat khāparasattvaṃ kathyate ।।
+iti khāparasattvapātanavidhiḥ ।।

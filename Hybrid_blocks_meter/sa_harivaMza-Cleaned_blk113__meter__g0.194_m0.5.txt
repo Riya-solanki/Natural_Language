@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 113 | label: meter | g:0.194 m:0.5 ---
+
+viśvedevās tu viśvāyāḥ sādhyā sādhyān vyajāyata 
+marutvatyāṃ marutvanto vasos tu vasavaḥ smṛtāḥ ।।

@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 37 | label: grammar | g:0.604 m:0.5 ---
+
+keśākarṣaṇakarmaṇi vyavasitā vīryaṃ harantī paraṃ mlāniṃ kām api tanvatī smitamukhī lagnā ca karṇāntike ।
+utkampaṃ mativibhramaṃ vidadhatī yūnāṃ śanair ninditā tāruṇyasya janāpavāda veśyā ca saṃdṛśyate ।।

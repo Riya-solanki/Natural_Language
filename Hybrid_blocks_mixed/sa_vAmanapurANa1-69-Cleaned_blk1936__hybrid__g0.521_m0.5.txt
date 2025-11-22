@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1936 | label: hybrid | g:0.521 m:0.5 ---
+
+divākaraḥ svasti karotu tubhyaṃ somaḥ sabhaumaḥ sabudho guruśca ।
+kāvyaḥ sadā svasti karotu tubhyaṃ śanaiścaraḥ svastyayanaṃ karotu ।।

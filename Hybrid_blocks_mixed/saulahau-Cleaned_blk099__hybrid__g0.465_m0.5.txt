@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 99 | label: hybrid | g:0.465 m:0.5 ---
+
+sarasvatyā lakṣmyā vidhi-hari-sa-patno viharate rateḥ pātivratyaṃ śithilayati ramyeṇa vapuṣā
+ciraṃ jīvann eṣa kṣapita-paśu-pāśa-vyatikaraḥ para-brahmābhikhyaṃ rasayati rasaṃ tvad-bhajanavān ।।

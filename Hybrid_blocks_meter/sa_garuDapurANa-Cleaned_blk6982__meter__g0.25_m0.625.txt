@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6982 | label: meter | g:0.25 m:0.625 ---
+
+na śaknomi vibho samyakkartuṃ pūjāṃ yathoditām ।
+yatkṛtaṃ japahomādi asādhyaṃ puruṣottama ।।

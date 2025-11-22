@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 144 | label: meter | g:0.306 m:0.5 ---
+
+āsyādvai brāhmaṇā jātā bāhubhyāṃ kṣattriyāḥ smṛtāḥ ।
+ūrubhyāṃ tu viśaḥ sṛṣṭāḥ śūdraḥ padybhāma jāyata ।।

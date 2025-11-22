@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2127 | label: meter | g:0.25 m:0.5 ---
+
+taṭaiḥ samaṃ tadvinibaddhamūlān hṛtvā tarūṃllabdhajavaiḥ payobhiḥ ।
+bhavanti bhūyaḥ saritaḥ kramena śokopatāpādiva dinarūpāḥ ।।

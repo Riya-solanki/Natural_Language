@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2560 | label: meter | g:0.194 m:0.5 ---
+
+pūrvam evaṃ munigaṇaiḥ samayo abhūt kṛto dvija 
+vaiśampāyana ekas tu taṃ vyatikrāntavāṃs tadā ।।

@@ -1,0 +1,7 @@
+--- source: brssbh4u-Cleaned.txt | block: 117 | label: grammar | g:0.582 m:0.385 ---
+
+na etat sāram ।
+na hi īdṛśena prāṇāḍikena tat prakṛtitvena manaḥ prāṇe saṃpattum arhati ।
+evam api hi anne manaḥ saṃpadyeta apsu ca annam apsu eva ca prāṇaḥ ।
+na hi etasmin api pakṣe prāṇabhāvapariṇatābhyaḥ adbhyo mano jāyata iti kiñcana pramāṇam asti tasmāt na manasaḥ prāṇe svarūpa apyayaḥ ।
+vṛtti apyaye api tu śabdaḥ avakalpate vṛttivattimatoḥ abheda upacārāt iti darśitam ।।

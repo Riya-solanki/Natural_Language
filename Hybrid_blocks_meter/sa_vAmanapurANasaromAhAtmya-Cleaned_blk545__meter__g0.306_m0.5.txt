@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 545 | label: meter | g:0.306 m:0.5 ---
+
+somakṣaye ca saṃprāpte somasya ca dine tathā ।
+yaḥ śrāddhaṃ kurute martyastasya puṇyaphalaṃ śṛṇu ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1095 | label: grammar | g:0.573 m:0.5 ---
+
+haṃho janāḥ pratipathaṃ pratikānanaṃ ca tiṣṭhantu nāma taravaḥ phalitā natāś ca ।
+anyaiva sā sthitir aho malayadrumasya yad gandhamātram api tāpam apākaroti ।।

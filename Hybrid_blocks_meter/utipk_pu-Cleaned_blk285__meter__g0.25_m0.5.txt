@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 285 | label: meter | g:0.25 m:0.5 ---
+
+ekātmano vibhedaś ca kriyā kālakramānugā ।
+tathā syāt kartṛtaivaivaṃ tathāpariṇamat tayā ।।

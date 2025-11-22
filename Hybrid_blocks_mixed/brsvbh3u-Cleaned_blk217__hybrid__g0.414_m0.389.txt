@@ -1,0 +1,6 @@
+--- source: brsvbh3u-Cleaned.txt | block: 217 | label: hybrid | g:0.414 m:0.389 ---
+
+tulyanyāyatayaidapi śakyamudāhartumityudāharaṇāntaraṃ darśitam ।
+tatra śābaramudāharaṇamastyādhānaṃ yajurvedavihitam-'ya evaṃ vidvānagnimādhatta'iti ।
+tadaṅgatvena yajurveda eva aya evaṃ vidvānvāravantīyaṃ gāyati ya evaṃ vidvānyajñāyajñīyaṃ gāyati ya evaṃ vidvānvāmadevyaṃ gāyati'iti vihitam ।
+etāni ca

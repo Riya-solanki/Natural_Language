@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 604 | label: grammar | g:0.75 m:0.5 ---
+
+sadyaḥ tatkṣaṇameva [yogāvabhāsakaṃ] yogamavabhāsayati yattathāvidhaṃ jñānaṃ śivabhaṭṭārakād yoginyaḥ [lebhire] prāpuḥ। tacca tābhya eva sakāśād nottīrṇaṃ nānyatra prasṛtam āsveva sampradāyatayā sthitamityarthaḥ।।

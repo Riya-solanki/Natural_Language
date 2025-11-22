@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3935 | label: meter | g:0.194 m:0.625 ---
+
+prayāte puṇḍarīkākṣe śrutarvābhyetya saṃyuge 
+rukmiṇaṃ ratham āropya prayayau svapuraṃ tataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1363 | label: hybrid | g:0.5 m:0.5 ---
+
+bhaikṣyaṃ śrutaṃ ca maunitvaṃ tapo dhyānaṃ viśeṣataḥ ।
+samyak ca jñānavairāgyaṃ dharmo ayaṃ bhikṣuke mataḥ ।।

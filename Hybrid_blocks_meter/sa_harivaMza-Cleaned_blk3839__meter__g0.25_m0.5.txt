@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3839 | label: meter | g:0.25 m:0.5 ---
+
+sudharmāṃ tāṃ sudharmāya kṛṣṇāyākliṣṭakāriṇe 
+devo devasabhāṃ dattvā vāyur antaradhīyata ।। 
+na bhayaṃ vidyate yatra sabhā sā dharmavatsalā । 
+dvāravatyās tu sā madhye keśavena niveśitā 
+sudharmā yadumukhyānāṃ devānāṃ tridive yathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 57 | label: meter | g:0.25 m:0.5 ---
+
+naiva hy anubhavo bhāti smṛtau pūrvo arthavat pṛthak 
+prāg anvabhūvam aham ity ātmārohaṇabhāsanāt ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1538 | label: meter | g:0.315 m:0.714 ---
+
+astrabhūṣaṇasaṃsthānasvarūpaṃ rūpavarjitaḥ 
+bibharti māyārūpo asau śreyase prāṇināṃ hariḥ ।।

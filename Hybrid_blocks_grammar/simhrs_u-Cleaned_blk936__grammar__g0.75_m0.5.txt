@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 936 | label: grammar | g:0.75 m:0.5 ---
+
+nanu nāyaka-niṣṭhasya sthāyi-prakarṣa-lakṣaṇasya rasasya sāmājikānubhava-yogyatā nopapadyate । anya-bhavasya tasyānyānubhavāyogāt iti cet satyam । ko vā nāyaka-gataṃ rasam ācaṣṭe । tathā hi-sa ca nāyako dṛṣṭaḥ śruto' nukṛto vā rasasyāśrayatām ālambate । nādyaḥ । sākṣād dṛṣṭa-nāyaka-ratyāder vrīḍā-jugupsādi-pratīpa-phalatvena svādābhāvāt । na dvitīya-tṛtīyau । tayor avidyamānatvāt । na hy asati āśraye tad-āśritasyāvasthānam upapadyate ।

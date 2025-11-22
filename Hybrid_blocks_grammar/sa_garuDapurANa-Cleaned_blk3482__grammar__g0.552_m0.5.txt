@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3482 | label: grammar | g:0.552 m:0.5 ---
+
+arthāturāṇāṃ na suhṛnna bandhuḥ kāmāturāṇāṃ na bhayaṃ na lajjā ।
+cintāturāṇāṃ na sukhaṃ na nidrā kṣudhāturāṇāṃ na balaṃ na tejaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 471 | label: grammar | g:0.625 m:0.5 ---
+
+[] snigdhakaṇṭha sasmitam uvāca-asmākaṃ rājādya prajāta-prajāḥ । kathaṃ bhavantas tan-milanāya nāyānti ? iti ।

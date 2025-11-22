@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 627 | label: meter | g:0.306 m:0.5 ---
+
+jagrāha dānena sa kāṃś cid eva priyābhidhānair aparān vicitraiḥ ।
+tathārthacaryābhir anarthabhīruḥ kāṃś cit samānārthatayārthabhūtaḥ ।।

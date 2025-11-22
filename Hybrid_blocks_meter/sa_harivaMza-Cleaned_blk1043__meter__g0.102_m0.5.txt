@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1043 | label: meter | g:0.102 m:0.5 ---
+
+aṅgārasya tu dāyādo gāndhāro nāma pārthivaḥ 
+khyāyate yasya nāmnā vai gāndhāraviṣayo mahān 
+gāndhāradeśajāś caiva turagā vājināṃ varāḥ ।।

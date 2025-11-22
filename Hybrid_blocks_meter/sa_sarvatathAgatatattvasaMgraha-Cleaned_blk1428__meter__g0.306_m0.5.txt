@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1428 | label: meter | g:0.306 m:0.5 ---
+
+priyayā tu striyā sārdha saṃvasaṃstu bhage añjanaṃ ।
+prakṣipya ghaṭṭayettatra tenāṃjyākṣī vaśaṃ nayet ।।

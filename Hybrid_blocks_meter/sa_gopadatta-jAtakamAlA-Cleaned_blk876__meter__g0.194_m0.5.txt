@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 876 | label: meter | g:0.194 m:0.5 ---
+
+śrutvā nāma tathāgatasya makaraḥ sāṃyātrikebhyaḥ purā
+saṃpṛktāsyapuṭo mamāra sugate cetaḥ prasādya kṣaṇam ।
+taddhetoḥ saritāṃ patiṃ parimitaṃ nītvā punar dustaraṃ
+janmāmbhonidhim uttatāra vipulaṃ niḥsṛtya mārge plavam ।।

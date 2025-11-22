@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3472 | label: meter | g:0.25 m:0.5 ---
+
+etāvac chataśo apy evaṃ satyena prabravīmi te 
+na me kāryaṃ nṛpatvena vijñāpyaṃ kriyatām idam ।।

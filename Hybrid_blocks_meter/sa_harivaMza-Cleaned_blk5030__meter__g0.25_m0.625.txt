@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5030 | label: meter | g:0.25 m:0.625 ---
+
+tat kathyamānam amṛtam itihāsasamanvitam 
+prīṇāty asmān amṛtavat sarvapāpapraṇāśanam ।। 
+sukhaśravyatayā dhīra mano hlādayatīva naḥ । 
+janamejayas tu nṛpatiḥ śrutvākhyānam anuttamam 
+saute kim akarot paścāt sarpasatrād anantaram ।। 
+yad ārabhata pārikṣit tan me kathaya suvrata । 
+janamejayas tu nṛpatiḥ śrutvākhyānam anuttamam 
+yad ārabhat tad ākhyāsye sarpasatrād anantaram ।।

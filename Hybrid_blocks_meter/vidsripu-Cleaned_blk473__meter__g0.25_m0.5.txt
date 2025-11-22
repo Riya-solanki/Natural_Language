@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 473 | label: meter | g:0.25 m:0.5 ---
+
+anena rambhoru bhavanmukhena tuṣārabhānos tulayā jitasya ।
+ūnasya nūnaṃ paripūraṇāya tārāḥ sphuranti pratimānakhaṇḍāḥ ।।

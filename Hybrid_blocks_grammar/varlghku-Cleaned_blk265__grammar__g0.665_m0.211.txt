@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 265 | label: grammar | g:0.665 m:0.211 ---
+
+tṛtīyādiṣu bhāṣitapuṃskaṃ puṃvadgālavasya ।।
+pravṛttinimittaikye bhāṣitapuṃskamigantaṃ klībaṃ puṃvadvā ṭādāvaci । sudhiyā, sudhinetyādi ।। madhunī । he madho, he madhu ।। sulu । sulūni ।। dhātṛṇī । he dhātaḥ, he dhātṛ ।।

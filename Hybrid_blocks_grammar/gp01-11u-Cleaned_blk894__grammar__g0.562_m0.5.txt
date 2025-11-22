@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 894 | label: grammar | g:0.562 m:0.5 ---
+
+[] kṛṣṇa uvāca-nahi nahi, kintu tvām eva samayā samayān gamayiṣyāmi ।

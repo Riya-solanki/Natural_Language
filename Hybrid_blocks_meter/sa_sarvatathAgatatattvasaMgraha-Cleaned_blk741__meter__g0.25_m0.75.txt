@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 741 | label: meter | g:0.25 m:0.75 ---
+
+oṃ sarvatathāgatasarvātmaniryātanapūjāspharaṇa karmavajri aḥ ।
+oṃ sarvatathāgatasarvātmaniryātanākarṣaṇapūjāspharaṇa karmāgri jjaḥ ।।

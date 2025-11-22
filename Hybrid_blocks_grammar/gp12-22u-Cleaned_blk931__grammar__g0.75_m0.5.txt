@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 931 | label: grammar | g:0.75 m:0.5 ---
+
+[] yat tu niśamya ramyacetā rāmaḥ sānukrośaṃ krośamātram upavrajya nijāvarajavijayaṃ paśyan sukha-vaśyamanās tam āliṅgya mūrdhānam āśiṅghya kṣaṇa-katipayam upaviśya, vacana-cāturībhis tat-prasaṅgaṃ saṅgatavān । tataś ca nijānujena pūrvam eva svakṛte nirdiśya rakṣitair divyeṣv api divyatā-lakṣitair analpair ākalpaiḥ so' yam agrajaḥ sva-kareṇa virājayāmāsa । tataś ca svānujaṃ guru-janānām agratas tādṛśatayā prayātuṃ saṅkocam arocayan so' yam agrajaḥ śanaiḥ sanair anaiṣīt ।

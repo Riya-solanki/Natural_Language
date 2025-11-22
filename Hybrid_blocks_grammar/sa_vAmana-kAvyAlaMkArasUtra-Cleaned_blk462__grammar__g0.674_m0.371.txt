@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 462 | label: grammar | g:0.674 m:0.371 ---
+
+।।
+tiraskṛta iti paribhūte, antardhyupacārāt ।।
+tiraskṛta iti śabdaḥ paribhūte dṛśyate । rājñā tiraskṛtaḥ iti । sa ca na prāpnoti । tiraḥśabdasya hi, tiro'ntardhau ityantardhau gatisaṃjñā । tasyāṃ ca satyāṃ, tiraso'nyatarasyām iti sakāraḥ । tat kathaṃ tiraskṛta iti paribhūte ?, āha antardhyupacārāditi । paribhūto hyantarhitavadbhavati । mukhyastu prayogo yathā

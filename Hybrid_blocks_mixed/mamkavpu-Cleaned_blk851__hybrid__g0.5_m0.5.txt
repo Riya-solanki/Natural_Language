@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 851 | label: hybrid | g:0.5 m:0.5 ---
+
+atra {śoṇa eva} iti niyamo na vācyaḥ ।।

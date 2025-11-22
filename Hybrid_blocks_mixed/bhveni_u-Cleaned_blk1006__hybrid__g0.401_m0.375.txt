@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 1006 | label: hybrid | g:0.401 m:0.375 ---
+
+saṃjayaḥ
+tāta karmaṇā kṛtaniḥśeṣavipriyāḥ saṃprati vācā vyavasyanti ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2017 | label: meter | g:0.25 m:0.75 ---
+
+dukṣaraṃ puruṣādo asāvudāraṃ cākaronmayi ।
+madvacaḥpratyayādyo māṃ vyasṛjadvaśamāgatam ।।

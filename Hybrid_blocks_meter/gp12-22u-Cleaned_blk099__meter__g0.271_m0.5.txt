@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 99 | label: meter | g:0.271 m:0.5 ---
+
+kiṃ jñaptiḥ svapanaṃ suṣuptir athavā mūrcchā mṛtir jīvanaṃ
+bhāty evaṃ nahi niścikāya nikhilaḥ so' yaṃ sakhīnāṃ gaṇaḥ ।
+usrāṇāṃ tatir asra-vṛṣṭi-kalitaiḥ sā ca pravāhaiḥ punas
+tarhy eṣāṃ hṛdayaṃ hradaṃ ca tam atha kṣveḍair ivāpūpurat ।। [sragdharā]

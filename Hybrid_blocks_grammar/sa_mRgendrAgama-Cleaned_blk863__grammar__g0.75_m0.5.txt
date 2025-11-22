@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 863 | label: grammar | g:0.75 m:0.5 ---
+
+janite bhaṅge bhraṃśe vā prāgukto vidhiḥ। yadi tu [tadanyatra] pūjāvisraṃsananirmālyamadhyapātādyādvā janite bhraṃśe adhaḥpāte liṅgasya akṣasūtrasya vā tadā [daśāṃśaḥ] taddaśāṃśo vihitaḥ। ayutaṃ japedityarthaḥ। tāvanapi vyājo yatra notpātaḥ tathāvidhe bhadrapīṭhād āsanādvā bhraṃśe jāte [ardhamūlaṃ] tato apyardhaṃ pañca sahasrāṇi। [sulaghīyasi] suṣṭhu laghīyasi alpe karacalane skhalane bhadrapīṭhe vā āsane vā karādvicyāve sahasraṃ japaḥ।।

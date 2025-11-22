@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 478 | label: meter | g:0.381 m:0.774 ---
+
+anena puṇyena tu sarvadarśitāmavāpya nirjitya ca doṣavidviṣaḥ ।
+jarārujāmṛtyumahormisaṅkulātsamuddhareyaṃ bhavasāgarājjagat ।।

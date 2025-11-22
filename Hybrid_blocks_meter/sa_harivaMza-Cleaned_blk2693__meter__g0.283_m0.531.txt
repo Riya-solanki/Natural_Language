@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2693 | label: meter | g:0.283 m:0.531 ---
+
+kṛṣṇo api gopasthito viveśa vrajam eva ha 
+giriyajñapravṛttena tenāścaryeṇa vismitaḥ ।। 
+gopāḥ sabālavṛddhā vai tuṣṭuvur mudhusūdanam । nṛtyaṃ gītaṃ prakurvāṇāḥ sahakṛṣṇā vrajaṃ yayuḥ । 
+mahe pratihate śakraḥ sakrodhas tridaśeśvaraḥ 
+saṃvartakaṃ nāma gaṇaṃ toyadānām athābravīt ।।

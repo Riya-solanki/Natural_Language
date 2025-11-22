@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 409 | label: meter | g:0.217 m:0.845 ---
+
+etāvatyeva ghoreyaṃ sarvabhūtabhavāvaniḥ 
+sīdantyajñānino yasyāṃ paṅke gāva ivācalāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 577 | label: meter | g:0.25 m:0.5 ---
+
+te śaptā brahmaṇā mūḍhā naṣṭasaṃjñā vicetasaḥ 
+na sma kiṃcit prajānanti tato loko vyamuhyata ।।

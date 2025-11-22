@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 973 | label: meter | g:0.25 m:0.625 ---
+
+sthāṇorvaṭasya pūrvoṇa hastipādeśvaraḥ śivaḥ ।
+taṃ dṛṣṭvā mucyate pāpairanyajanmani saṃbhavaiḥ ।।

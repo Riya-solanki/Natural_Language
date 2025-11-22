@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2511 | label: meter | g:0.25 m:0.625 ---
+
+paṭādiṣu samālikhya vajraratnaṃ svamātmanā ।
+bhāvayaṃstu mahāmudrāṃ mahārājā bhavetsa tu ।।

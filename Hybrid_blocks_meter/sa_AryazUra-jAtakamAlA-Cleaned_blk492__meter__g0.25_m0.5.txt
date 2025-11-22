@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 492 | label: meter | g:0.25 m:0.5 ---
+
+aho prakarṣo bata sajjanasthiteraho guṇābhyāsanidherudāratā ।
+aho parānugrahapeśalā matistvadarpaṇānnāthavatī bata kṣitiḥ ।।

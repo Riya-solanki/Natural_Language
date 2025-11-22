@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 450 | label: hybrid | g:0.5 m:0.5 ---
+
+sthitvāpi yenaiva ciraṃ viyogaḥ śatroḥ kṛtāntād bhavitāntakāle ।
+tenaiva netrāśrujalārdragaṇḍān [!] yuṣmān vihāyādya yiyāsur asmi ।।

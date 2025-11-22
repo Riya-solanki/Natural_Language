@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7521 | label: meter | g:0.25 m:0.625 ---
+
+pathi śrāddhadvayaṃ kuryātpūrvoktavidhinā khaga ।
+tataḥ śanairbhūtale vai dakṣiṇāśirasaṃ śavam ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 69 | label: grammar | g:0.646 m:0.5 ---
+
+atha yasyāhavanīyagārhapatyāv antareṇa yāno vā ratho vā nivarteta śvā vānyo vābhidhāvet kā tatra prāyaścittir ।

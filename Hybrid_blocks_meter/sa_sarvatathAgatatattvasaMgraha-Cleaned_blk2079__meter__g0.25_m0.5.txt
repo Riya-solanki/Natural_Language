@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2079 | label: meter | g:0.25 m:0.5 ---
+
+padmaṃ tu yoṣitāṃ cintya vajrantasyopari svayaṃ ।
+rāmayan vajrapadmāgryā samāpattyā tu sidhyati ।।

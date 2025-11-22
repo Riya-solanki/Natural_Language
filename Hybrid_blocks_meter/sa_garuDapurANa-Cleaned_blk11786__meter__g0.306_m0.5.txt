@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11786 | label: meter | g:0.306 m:0.5 ---
+
+nīcāyā jāṃbavatyāśca śeṣasāmyaṃ ca kutracit ।
+śrūyate ca mayā kṛṣṇa nimittaṃ brūhi me prabho ।।

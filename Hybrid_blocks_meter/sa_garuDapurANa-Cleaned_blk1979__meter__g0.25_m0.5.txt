@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1979 | label: meter | g:0.25 m:0.5 ---
+
+teṣāṃ tu patatāṃ vegādvimānena vihāyasā ।
+yadyatpapāta ratnānāṃ bījaṃ kracana kiñcana ।।

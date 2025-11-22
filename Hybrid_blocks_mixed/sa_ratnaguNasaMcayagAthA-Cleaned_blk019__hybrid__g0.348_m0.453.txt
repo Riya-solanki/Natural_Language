@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 19 | label: hybrid | g:0.348 m:0.453 ---
+
+māyopamāṃ ya iha jānati pañca skandhāṃ na ca māya anya na ca skandha karoti anyān 
+nānātvasaṃjñavigato upaśāntacārī eṣā sa prajñavarapāramitāya caryā ।।

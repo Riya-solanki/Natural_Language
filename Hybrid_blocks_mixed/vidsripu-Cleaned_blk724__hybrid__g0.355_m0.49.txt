@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 724 | label: hybrid | g:0.355 m:0.49 ---
+
+śravasi na kṛtās te tāvantaḥ sakhīcavanakramāś caraṇapatito aṅguṣṭhāgreṇāpy ayaṃ na hato janaḥ ।
+kaṭhinahṛdaye mithyāmaunavratavyasanād ayaṃ parijanaparityāgopāyo na mānaparigrahaḥ ।।

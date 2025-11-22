@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 31 | label: meter | g:0.25 m:0.854 ---
+
+samasarvaguṇau santau suhṛdāviva saṅgatau ।
+parasparasya śobhāyai śabdārthau bhavato yathā ।।
+tato aruṇaparispandamandīkṛtavapu) śaśī ।
+dadhre kāmaparikṣāmakāminīgaṇḍapāṇḍutām ।।

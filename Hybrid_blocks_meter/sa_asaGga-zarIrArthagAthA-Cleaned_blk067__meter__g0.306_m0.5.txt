@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 67 | label: meter | g:0.306 m:0.5 ---
+
+prajñā caiva smṛtiś caiva nāmarūpaṃ ca sarvaśaḥ ।
+vijñānasya nirodhād dhi atraitad uparudhyate ।।

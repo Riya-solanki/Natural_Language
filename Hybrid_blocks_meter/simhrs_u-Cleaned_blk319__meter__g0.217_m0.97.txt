@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 319 | label: meter | g:0.217 m:0.97 ---
+
+atha anulāpaḥ-
+anulāpo muhur vacaḥ ।।

@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 242 | label: meter | g:0.028 m:0.956 ---
+
+tatra sati,
+acyutasya nayana-dvayam āsāṃ
+tṛṣṇag apy atihriyā nimimīla ।
+asya mānasam amūr atigūḍhaṃ
+paśyatīti milituṃ tad ivecchu ।। [rathoddhatā]

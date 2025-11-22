@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4224 | label: meter | g:0.25 m:0.625 ---
+
+yāti dehañca nāśeṣaṃ santāpādīnkarotyataḥ ।
+kramo yatnena vicchinnaḥ satāpo lakṣyate jvaraḥ ।।

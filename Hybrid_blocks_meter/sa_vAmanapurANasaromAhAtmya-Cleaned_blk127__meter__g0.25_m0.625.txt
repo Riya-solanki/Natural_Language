@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 127 | label: meter | g:0.25 m:0.625 ---
+
+yaṃ na paśyanti paśyanto jagadapyakhilaṃ narāḥ ।
+apaśyadbhirjagadyaśca dṛśyate hṛdi saṃsthitaḥ ।।

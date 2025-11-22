@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7472 | label: meter | g:0.446 m:0.688 ---
+
+gobhūtilahiraṇyājyavāsodhanyaguḍāstathā ।
+rajataṃ lavaṇaṃ caiva dānāni daśa vai viduḥ ।।

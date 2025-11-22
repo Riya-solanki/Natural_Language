@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7102 | label: meter | g:0.25 m:0.625 ---
+
+yadā prakāśate hyātmā paṭe dīpo jvalanniva ।
+jñānamutpadyate puṃsāṃ kṣayātpāpasya karmaṇaḥ ।।

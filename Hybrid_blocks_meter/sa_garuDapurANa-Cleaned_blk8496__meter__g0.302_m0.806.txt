@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8496 | label: meter | g:0.302 m:0.806 ---
+
+nānājhaṣasamākīrṇāṃ nānāpakṣigaṇairvṛtām ।
+vayaṃ tvāṃ tārayiṣyāmaḥ sukheneti vadanti te ।।

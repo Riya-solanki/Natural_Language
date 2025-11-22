@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 289 | label: meter | g:0.25 m:0.729 ---
+
+śambhoś cidādyanugrāhyaṃ tadvirodhitayā mithaḥ ।
+yugapan na kṣamaṃ śaktiḥ sarvānugrāhikā katham ।।
+kathaṃ bhūtopakārārthaṃ pravṛttasya jagatprabhoḥ ।
+apakārakamāviśya yujyate tunnatodanam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4812 | label: meter | g:0.25 m:0.5 ---
+
+yac chakrasya prabhoḥ kāryaṃ tad asmākaṃ viniścitam 
+asmākaṃ cāpi yat kāryaṃ tac ca kāryaṃ śacīpateḥ ।।

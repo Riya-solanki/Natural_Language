@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4559 | label: hybrid | g:0.51 m:0.5 ---
+
+na tasya rogā jāyante na viṣaṃ cābhicārikam ।
+śarīre ca kule brahman yaḥ śruṇoti ca vāmanam ।।

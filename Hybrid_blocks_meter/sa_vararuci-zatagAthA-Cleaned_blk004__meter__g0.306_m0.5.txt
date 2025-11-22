@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 4 | label: meter | g:0.306 m:0.5 ---
+
+gate api vayasi grāhyā vidyā sarvātmanā budhaiḥ ।
+yadyapi phaladā syānna sulabhā sānyajanmani ।।

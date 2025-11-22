@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 74 | label: grammar | g:0.75 m:0.5 ---
+
+kvacit tādarthyādupacāraḥ । yathā indrārthā sthūṇā indraḥ । kvacit svasvāmibhāvāt । yathā rājakīyaḥ puruṣo rājā । kvacit avayavāvayavibhāvāt । yathā agrahasta ityatrāgramātre avayave hastaḥ । kvacit tātkarmyāt । yathā atakṣā takṣā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1363 | label: meter | g:0.25 m:0.5 ---
+
+āṣāḍhe māsi mārgarkṣe candrakṣayatithirhi yā ।
+tasyāṃ purandaraḥ prītaḥ piṇḍaṃ pitṛṣu bhaktitaḥ ।।

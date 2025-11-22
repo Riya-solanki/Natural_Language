@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2688 | label: meter | g:0.306 m:0.625 ---
+
+garbhādhānamṛtau puṃsaḥ savanaṃ spandanātpurā ।
+ṣaṣṭhe aṣṭame vā sīmantaḥ prasave jātakarma ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2408 | label: meter | g:0.194 m:0.625 ---
+
+dṛptasāraṅganinadair dardur avyāhṛtena ca 
+navaiś ca śikhivikruṣṭair ekavarṇā vasuṃdharā ।।

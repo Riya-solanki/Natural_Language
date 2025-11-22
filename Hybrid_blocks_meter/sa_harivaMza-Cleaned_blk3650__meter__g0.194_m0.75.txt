@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3650 | label: meter | g:0.194 m:0.75 ---
+
+śirasā cārukeśena kiṃcid āvṛttamaulinā 
+śravaṇaikāvalambena kuṇḍalena virājatā ।।

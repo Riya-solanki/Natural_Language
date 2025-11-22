@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1716 | label: grammar | g:0.562 m:0.5 ---
+
+krimukulacitaṃ lālāklinnaṃ vigandhi jugupsitaṃ nirupamarasaprītyā khādan narāsthi nirāmiṣam ।
+surapatim api śvā pārśvasthaṃ saśaṅkitam īkṣate gaṇayati na hi kṣudro lokaḥ parigrahaphalgutām ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 212 | label: meter | g:0.251 m:0.623 ---
+
+uktaṃ tu brahmaṇā hy evaṃ yācyo ahaṃ yācakā vayam 
+yajñayājī himantākhyo adhvaryuḥ parameśvaraḥ ।।

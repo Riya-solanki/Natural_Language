@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3507 | label: meter | g:0.25 m:0.75 ---
+
+teṣāmākarṇya vacanaṃ kampamāno muhurmuhuḥ ।
+prāha dhundhupurogāṃstāñ chrūyatāmatra kāraṇam ।।

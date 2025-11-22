@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 31 | label: hybrid | g:0.542 m:0.5 ---
+
+prākāmyam ātmani yadā prakaṭīkaroṣi vyaktīḥ pratikṣaṇam apūrvatayā dadhānaḥ ।
+tvayy eva so api bhagavan bhajate arthavattām prayo avidagdharacitaḥ kṣaṇabhaṅgavādaḥ ।।

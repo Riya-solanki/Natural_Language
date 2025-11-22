@@ -1,0 +1,7 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 143 | label: hybrid | g:0.521 m:0.5 ---
+
+kecid bhāvārthā na karmaśabdāḥyathā bhāvayet kuryāt iti codāharaṇam ।
+bhūtyādayas tu prayojyavyāpāravacanatvān naiva yathāvarṇitabhāvārthā ity anudāharaṇam ।
+tatra yathā kathaṃciṇ ṇijantavyutpattyā bhāvaśabda eko nīyeta, netarau ।
+tāv api tu prayojyavyāpārāṃśena kathaṃcid bhāvārthāv ity udāhṛtau ।
+atha vā dvitīyasūtrārthavyākhyānena bhāvanāprayojanatvam aṃśavācitvenāstīti vināpi sakalārthābhidhānād bhavanti bhāvārthāḥ ।

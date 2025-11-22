@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 734 | label: meter | g:0.194 m:0.625 ---
+
+tāvan mātraṃ prakurvanti yāvatā prāṇadhāraṇam 
+śeṣaṃ dharmaparāḥ kālam anudhyānti svakarma tat ।।

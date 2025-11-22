@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3560 | label: meter | g:0.315 m:0.848 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahmovāca ।
+vrataṃ māsopavāsākhyaṃ sarvotkṛṣṭaṃ vadāmite ।
+vānaprastho yatirnārī kuryānmāsopavāsakam ।।

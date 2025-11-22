@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 377 | label: hybrid | g:0.318 m:0.335 ---
+
+{pratīhārī} - jedu bhaṭṭā 
+eso khu mahāseṇassa saāsādo rabbhasagotto kañcuīo devīe aṅgāravadīe pesidā ayyā vasundharā ṇāma vāsavadattādhattī a paḍihāraṃ uvaṭṭhidā 
+[jayatu bhartā । eṣa khalu mahāsenasya sakāśād raibhyasagotraḥ kāñcukīyo devyāṅgāravatyā preṣitāryā vasundharā nāma vāsavadattādhātrī ca pratihāram upasthitau । ]

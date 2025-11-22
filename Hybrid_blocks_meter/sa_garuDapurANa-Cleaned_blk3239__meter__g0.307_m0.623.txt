@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3239 | label: meter | g:0.307 m:0.623 ---
+
+laṅghayecchāstrayuktāni hetuyuktāni yāni ca ।
+sahi naśyati vai rājā iha loke paratra ca ।।

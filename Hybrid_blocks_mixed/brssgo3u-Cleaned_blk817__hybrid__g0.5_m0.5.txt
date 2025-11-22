@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 817 | label: hybrid | g:0.5 m:0.5 ---
+
+nanu viruddhamidaṃ vacanamapekṣate cāśramakarmāṇi vidyā nāpekṣate ceti ।

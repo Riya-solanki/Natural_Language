@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1355 | label: meter | g:0.25 m:0.5 ---
+
+sarvatra mukharacapalāḥ prabhavanti na lokasaṃmatā guṇinaḥ ।
+tiṣṭhanti vārirāśer upari taraṅgās tale maṇayaḥ ।।

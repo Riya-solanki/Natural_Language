@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2999 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ yuktaḥ sadā tiṣṭhen madirānandacetasaḥ 
+madirā yā parā śakti rañjitaṃ tu jagattrayam ।।

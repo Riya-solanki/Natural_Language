@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 198 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha khalu siddhānāṃ pariṣadi yogamāyeti prasiddhā bhakti-siddhānta-sad-bhāva-rate śrīmad-bhāgavate ca yoga-māyām upāśritaḥ ity ādinā bhagaval-līlādhikāritayā siddhā svarūpa-śaktiḥ svābhivyaktim antareṇa rūpāntareṇa tāpasīti vyavasīyate, yasyāḥ paurṇamāsīti nāma-vyāhāra-vyavahāra āsīt । tasyām āgatāyām agarveṇa sarve' pi sa-sambhramam abhramaṃ namaḥ samam akurvata । tayā cānandād āśīrbhiḥ sphuṭam abhyanandiṣata ।

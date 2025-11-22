@@ -1,0 +1,7 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1259 | label: meter | g:0.25 m:0.76 ---
+
+rudraḥ satyāṃ praṇaṣṭāyāṃ brahmacārivrate stitaḥ ।
+nirāśrayatvamāpannastapastaptuṃ vyavasthitaḥ ।।
+sa cāsīd devasenānīrdaityadarphavināśanaḥ ।।
+tato nirākṛtā devāḥ senānāthena śaṃbhunā ।
+dānavendreṇa vikramya mahiṣeṇa parājitāḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2755 | label: meter | g:0.25 m:0.5 ---
+
+dṛṣṭvā cainaṃ śriyā juṣṭaṃ martyaloke amaropamam 
+surāṇāṃ kāryasiddhyarthaṃ nityaṃ karmasu niṣṭhitam । 
+sūpaviṣṭaṃ śilāpṛṣṭe śakraḥ sa vrīḍito abhavat ।।

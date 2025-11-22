@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2874 | label: meter | g:0.25 m:0.5 ---
+
+ete sthānā vratasyaiva yatra sā carate parā 
+taṃ jñātvā paramaṃ sthānaṃ cīrṇavidyāvrato hi saḥ ।।

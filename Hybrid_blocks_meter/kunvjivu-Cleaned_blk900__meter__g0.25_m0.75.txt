@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 900 | label: meter | g:0.25 m:0.75 ---
+
+kiyantaḥ santi guṇinaḥ sādhusādhāraṇaśriyaḥ ।
+svadupākaphalānamrāḥ kiyanto vādhvaśākhinaḥ ।।

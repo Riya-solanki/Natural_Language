@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 798 | label: meter | g:0.056 m:0.5 ---
+
+mahā-vṛṣṭir garjaḥ khara-hima-pavanaḥ sphūrjathur dhvāntam abdas
+tathā vajrīty evaṃvidha-vividha-gati-kleśa-hetur bahir yaḥ ।
+tam antar nirvarṣaṃ madhura-nigaditaṃ cāru-vāyuḥ pragītaṃ
+marīciś citraśrīr ajitagiribhṛd ity āptaśarma vyakārīt ।। [śobhā]

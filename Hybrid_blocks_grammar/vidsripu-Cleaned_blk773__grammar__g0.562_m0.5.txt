@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 773 | label: grammar | g:0.562 m:0.5 ---
+
+ko asau dhanyaḥ kathaya subhage kasya gaṅgāsarayvos toyāsphālavyatikaraskhalatkāri kaṅkālam āste ।
+yaṃ dhyāyantyāḥ sumukhi likhitaṃ kajjalakledabhāñji vyālumpanti stanakalaśayoḥ patram aśrūṇy ajasram ।।

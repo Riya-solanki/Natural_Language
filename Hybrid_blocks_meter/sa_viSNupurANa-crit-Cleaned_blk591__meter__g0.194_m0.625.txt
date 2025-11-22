@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 591 | label: meter | g:0.194 m:0.625 ---
+
+bhṛgoḥ khyātyāṃ samutpannā lakṣmīr viṣṇuparigrahaḥ 
+tathā dhātṛvidhātārau khyātyāṃ jātau sutau bhṛgoḥ ।।

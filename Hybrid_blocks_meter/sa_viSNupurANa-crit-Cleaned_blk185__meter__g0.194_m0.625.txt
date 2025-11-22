@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 185 | label: meter | g:0.194 m:0.625 ---
+
+imaṃ codāharanty atra ślokaṃ nārāyaṇaṃ prati 
+brahmasvarūpiṇaṃ devaṃ jagataḥ prabhavāpyayam ।।

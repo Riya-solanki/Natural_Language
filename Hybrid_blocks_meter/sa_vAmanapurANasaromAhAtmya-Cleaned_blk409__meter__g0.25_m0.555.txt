@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 409 | label: meter | g:0.25 m:0.555 ---
+
+brahmavedaphalaṃ prāpya nirmalaṃ svargamāpnuyāt ।
+tatrāpi saṃgamaṃ prāpya kauśikyāṃ tīrthasaṃbhavam ।
+saṃgame ca naraḥ snātvā prāpnoti paramaṃ padam ।।

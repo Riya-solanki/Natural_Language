@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 735 | label: grammar | g:0.75 m:0.5 ---
+
+tato mahato nesahiṅgukhoṭasya madhye randhraṃ kṛtvā tameva hīrakaṃ kṣiptvā mukhaṃ ca nesahiṅgunā ācchādyopari māṣapīṭhīṃ dadyāt tatastailapūrṇe pātre taṃ hiṅgukhoṭaṃ kṣiptvādho agnir jvālanīyaḥ ।।

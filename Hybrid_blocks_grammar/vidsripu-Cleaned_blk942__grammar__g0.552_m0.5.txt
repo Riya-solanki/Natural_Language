@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 942 | label: grammar | g:0.552 m:0.5 ---
+
+vyomnas tāpicchagucchāvalibhir iva tamovallarībhir vriyante paryantāḥ prāntavṛttyā payasi vasumatī nūtane majjatīva ।
+vātyāsaṃvegaviṣvagvitatavalayitasphītadhūmyāprakāśaṃ prārambhe api triyāmā taruṇayati nijaṃ nīlimānaṃ vaneṣu ।।

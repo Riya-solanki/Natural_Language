@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2752 | label: meter | g:0.194 m:0.75 ---
+
+sa dadarśopaviṣṭaṃ vai govardhanaśilātale 
+kṛṣṇam akliṣṭakarmāṇaṃ puruhūtaḥ puraṃdaraḥ ।।

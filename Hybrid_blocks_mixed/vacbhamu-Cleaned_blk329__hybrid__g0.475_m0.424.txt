@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 329 | label: hybrid | g:0.475 m:0.424 ---
+
+śrutatvācca ।
+atadaikṣata ityatra īkṣaṇamātraṃ jagatkāraṇasya śrutaṃ na tu sarvaviṣayam ।
+jagatkāraṇasaṃbandhitayā tu tadarthātsarvaviṣayamavagataṃ, śvetāśvatarāṇāṃ tūpaniṣadi sarvajña īśvaro jagatkāraṇamiti sākṣāduktamiti viśeṣaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 476 | label: grammar | g:0.625 m:0.5 ---
+
+atha yady enam anāhitāgnim iva vṛthāgninā daheyur evam asyaiṣa mṛtpātraviniyogeti patnya bhavatīty āhāśmarathyaḥ ।

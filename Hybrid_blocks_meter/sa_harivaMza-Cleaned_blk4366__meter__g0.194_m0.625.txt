@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4366 | label: meter | g:0.194 m:0.625 ---
+
+vidyutsaṃpātacapalaḥ svabhāvaḥ khalu yoṣitām 
+yā nareṣu prasajjante nagāgreṣu ghanā iva ।।

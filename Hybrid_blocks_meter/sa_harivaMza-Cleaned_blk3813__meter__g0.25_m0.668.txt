@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3813 | label: meter | g:0.25 m:0.668 ---
+
+tataḥ sā nirmitā kāntā purī dvāravatī tadā 
+mānasena prayatnena vaiṣṇavī viśvakarmaṇā ।। 
+vidhānavihitadvārā prākāravaraśobhitā । parikhācayasaṃguptā sāṭṭaprākāratoraṇā । 
+kāntanārīnaragaṇā vaṇigbhir upaśobhitā 
+nānāpaṇyasamākīrṇā khecarīva ca gāṃ gatā ।।

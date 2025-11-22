@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 500 | label: meter | g:0.25 m:0.75 ---
+
+vajrasattvaḥ sakṛjjapto yathākāmaṃ sukhātmanā ।
+sidhyate jāpamātreṇa vajrapāṇivaco yathā ।।

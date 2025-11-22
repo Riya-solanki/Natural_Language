@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 465 | label: grammar | g:0.667 m:0.5 ---
+
+bhaktānāṃ nārtayo nāpy asty ādhyānaṃ svātmanas tava tathāpy asti śivety etat kim apy eṣāṃ bahirmukhe ।।

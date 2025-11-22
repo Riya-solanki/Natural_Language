@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1584 | label: grammar | g:0.615 m:0.5 ---
+
+ito dāvajvālaḥ sthalabhuva ito jālajaṭilā ito vyādho dhāvaty ayam anupadaṃ vakritadhanuḥ ।
+ito apy agre tiṣṭhaty ayam ajagaro vistṛtamukhaḥ kva yāyāt kiṃ kuryān mṛgaśiśur ayaṃ daivavaśagaḥ ।।

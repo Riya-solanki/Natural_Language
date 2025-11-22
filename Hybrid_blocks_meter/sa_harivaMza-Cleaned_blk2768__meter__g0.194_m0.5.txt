@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2768 | label: meter | g:0.194 m:0.5 ---
+
+yathā hi puṃgavaḥ śreṣṭho magne dhuri niyujyate 
+evaṃ tvam asi devānāṃ magnānāṃ dvijavāhana ।।

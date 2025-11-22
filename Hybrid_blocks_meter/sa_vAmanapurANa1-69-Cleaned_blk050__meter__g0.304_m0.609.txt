@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 50 | label: meter | g:0.304 m:0.609 ---
+
+pulastya uvāca
+jyeṣṭhaḥ śreṣṭho variṣṭho api ādyo api bhagavāñśivaḥ ।
+kapālīli viditveśo dakṣeṇa na nimantritaḥ ।।

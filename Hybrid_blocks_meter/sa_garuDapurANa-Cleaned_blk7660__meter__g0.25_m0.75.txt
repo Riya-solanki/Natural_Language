@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7660 | label: meter | g:0.25 m:0.75 ---
+
+daśāhaṃ śāvamāśaucaṃ sapiṇḍeṣu vidhīyate ।
+janane apyevameva syānnipuṇaṃ śuddhimicchatām ।।

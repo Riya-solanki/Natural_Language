@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2965 | label: meter | g:0.194 m:0.5 ---
+
+vācyaś ca nandagopo vai karam ādāya vārṣikam 
+śīghram āgaccha nagaraṃ gopaiḥ sarvaiḥ samanvitaḥ ।।

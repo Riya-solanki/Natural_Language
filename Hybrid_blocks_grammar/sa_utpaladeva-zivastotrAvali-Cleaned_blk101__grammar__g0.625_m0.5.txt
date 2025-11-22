@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 101 | label: grammar | g:0.625 m:0.5 ---
+
+smarasi nātha kadācid apīhitaṃ viṣayasaukhyam athāpi mayārthitam satatam eva bhavadvapurīkṣaṇāmṛtamabhīṣṭamalaṃ mama dehi tat ।।

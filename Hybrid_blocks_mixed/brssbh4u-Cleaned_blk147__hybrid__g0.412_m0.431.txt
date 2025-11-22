@@ -1,0 +1,7 @@
+--- source: brssbh4u-Cleaned.txt | block: 147 | label: hybrid | g:0.412 m:0.431 ---
+
+tat ca itarabhūtasahitaṃ tejo jīvasya asmāt śarīrāt pravasata āśrayabhūtaṃ svarūpataḥ pramāṇataḥ ca sūkṣmaṃ bhavitum arhati ।
+tathā hi - nāḍīniṣkramaṇaśravaṇādibhyaḥ asya saukṣmyam upalabhyate ।
+tatra tanutvāt saṃcāra upapattiḥ ।
+svacchatvāt ca apratīghāta upapattiḥ ।
+ata eva ca dehāt nirgacchan pārśvasthaiḥ na upalabhyate ।।

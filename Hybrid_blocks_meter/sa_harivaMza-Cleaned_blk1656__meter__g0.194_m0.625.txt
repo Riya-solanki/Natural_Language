@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1656 | label: meter | g:0.194 m:0.625 ---
+
+pūrvadevabhayaṃ śrutvā mārutāgnibhayaṃ mahat 
+kālanemir iti khyāto dānavaḥ pratyadṛśyata ।।

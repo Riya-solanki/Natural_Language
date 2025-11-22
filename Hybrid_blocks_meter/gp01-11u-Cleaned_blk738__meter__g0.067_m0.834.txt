@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 738 | label: meter | g:0.067 m:0.834 ---
+
+[] tataś ca rākṣasa-sparśaja-kṣatajādi-śaṅkayā,
+nirīkṣitāvayava-gaṇo' pi mātṛbhir
+vilokitaḥ sa tu janakena kṛtsnaśaḥ ।
+mameti-dhī-pṛthu-mamatāspadaṃ dṛśā
+svayā paraṃ na tu parayā parīkṣyate ।। [rucirā]

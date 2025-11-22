@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2159 | label: meter | g:0.25 m:0.5 ---
+
+nāhaṃ bhīṣayituṃ śakyo devair api savāsavaiḥ 
+āhavasthaḥ śayāno vā pramato matta eva vā ।।

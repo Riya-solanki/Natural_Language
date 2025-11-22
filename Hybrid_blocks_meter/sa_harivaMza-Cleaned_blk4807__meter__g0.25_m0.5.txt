@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4807 | label: meter | g:0.25 m:0.5 ---
+
+ity evam ukte vacane kṛṣṇo nāga iva śvasan 
+uvāca vacanaṃ dhīmān anādhṛṣṭiṃ mahābalam ।।

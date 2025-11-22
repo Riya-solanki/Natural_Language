@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8381 | label: meter | g:0.28 m:0.673 ---
+
+śrībhagavānuvāca ।
+śṛṇu tārkṣya pravakṣyāmi yamamārgasya nirṇayam ।
+prayāṇakāni sarvāṇi nagarāṇi ca ṣoḍaśa ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 76 | label: grammar | g:0.667 m:0.5 ---
+
+vasūnāṃ rudrāṇām ādityānāṃ marutām ṛṣīṇāṃ bhṛgūṇām a"ngirasām atharvaṇāṃ brahmaṇaḥ saṃtatir asi brahmaṇas tvā samtatyā saṃtanomi ।

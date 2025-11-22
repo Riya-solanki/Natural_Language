@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 688 | label: hybrid | g:0.542 m:0.5 ---
+
+yajetpadmāṃ ca rāṃ dīptāṃ rīṃ sūkṣmāṃ rūṃ jayāṃ ca reṃ ।
+bhadrāṃ ca raiṃ vibhūtiṃ roṃ vimalāṃ raumamodhi kām ।।

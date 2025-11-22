@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3671 | label: meter | g:0.194 m:0.625 ---
+
+prāptāṃ māṃ sāgare nūnaṃ sapatnyo vegagarvitāḥ 
+phenahāsair hasiṣyanti toyavyāvṛttagāminīm ।।

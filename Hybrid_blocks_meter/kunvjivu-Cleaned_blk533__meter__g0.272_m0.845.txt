@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 533 | label: meter | g:0.272 m:0.845 ---
+
+kurvanti kāvyavaicitryavivakṣāparatantritāḥ ।
+yatra saṃkhyāviparyāsaṃ tāṃ saṃkhyāvakratāṃ viduḥ ।।

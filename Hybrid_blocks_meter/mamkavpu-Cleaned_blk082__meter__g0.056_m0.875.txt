@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 82 | label: meter | g:0.056 m:0.875 ---
+
+{mukhaṃ vikasitasmitaṃ vaśitavakrima prekṣitaṃ
+samucchalitavibhramā gatirapāstasaṃsthā matiḥ ।
+uro mukulitastanaṃ jaghanamaṃsavandhoddhuraṃ
+batenduvadanātanau taruṇimodgamo modate ।।}

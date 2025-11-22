@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 525 | label: grammar | g:0.81 m:0.09 ---
+
+saṃtānopapatteśceti cārthaḥ, tad vyākhyātam।
+yadi rūpādayaḥ śabdaśca pratidravyaṃ samastāḥusamuditāstasmin samāsasamudāye yo yathājātīyakaḥ saṃniviṣṭastasya tathājātīyasyaiva grahaṇena bhavitavyaṃ śabdasya rūpādivat, tatra yo ayaṃ vibhāgaḥ eka dravye nānārūpā bhinnaśrutayo vidharmāṇaḥ śabdaḥ abhivyajyamānāḥ yacca vibhāgāntaraṃ sarūpāḥ samānaśrutayaḥ sadharmāṇaḥ śabdāḥ tīvramandadharmatayā bhinnāḥ śrūyante tadubhayaṃ nopapadyate nānābhūtānāmutpadyamānānāmayaṃ dharmo naikasya vyajyamānasyeti।
+asti cāyaṃ vibhāgo vibhāgāntaraṃ ca tena vibhāgopapattermanyāmahe na pratidravyaṃ rūpādibhiḥ saha śabdaḥ saṃniviṣṭo vyajyate iti ।।

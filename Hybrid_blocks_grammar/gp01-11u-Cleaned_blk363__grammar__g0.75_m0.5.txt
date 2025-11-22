@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 363 | label: grammar | g:0.75 m:0.5 ---
+
+iti vrajarājaṃ prati śrī-kṛṣṇa-vacane, agny-arkātithi-go-vipraḥ [BhP ] iti śrī-śuka-kṛta-gopāvāsa-varṇane, vyatirekatas tu dharma-rāja-caratāyām api vidurasya śūdra-garbhodbhavatayānyathā-vyavahāra-śravaṇe' py adhikaṃ viadhirāyiṣyante iti ।

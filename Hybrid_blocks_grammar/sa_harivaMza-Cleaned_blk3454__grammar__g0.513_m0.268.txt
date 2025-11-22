@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3454 | label: grammar | g:0.513 m:0.268 ---
+
+hataḥ so ayaṃ mayā kaṃsaḥ sādhv etad avagamyatām 
+mūlacchedaḥ kṛtas tasya viparītasya karmaṇaḥ ।। 
+na ced dhanyāṃ durācāraṃ vinaṅkṣyati tadā jagat । kaḥ kuryāt khalv idaṃ kāryaṃ badhvā pitaram ojasā । rājyaṃ sakalasāmantaṃ kariṣyati sadā hi saḥ । 
+tad eṣa sāntvyatāṃ sarvaḥ śokārtaḥ pramadājanaḥ 
+paurāś ca puryāṃ śreṇyaś ca sāntvyatāṃ sarva eva hi ।।

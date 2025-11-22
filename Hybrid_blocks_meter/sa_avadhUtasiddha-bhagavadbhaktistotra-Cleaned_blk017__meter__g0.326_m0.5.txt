@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 17 | label: meter | g:0.326 m:0.5 ---
+
+astās tvayā suraguro svatanu yadaiva khātmānalānilajalāvanicandrasūryāḥ ।
+loke parasya bhavatā nanu kāraṇasya mūle tadaiva nihitaḥ sakale kuṭhāraḥ ।।

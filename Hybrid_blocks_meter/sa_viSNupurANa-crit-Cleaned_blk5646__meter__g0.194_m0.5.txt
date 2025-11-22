@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5646 | label: meter | g:0.194 m:0.5 ---
+
+devair vijñāpyate cedaṃ athātraiva ratis tava 
+tat sthīyatāṃ yathākālam ākhyeyam anujīvibhiḥ ।।

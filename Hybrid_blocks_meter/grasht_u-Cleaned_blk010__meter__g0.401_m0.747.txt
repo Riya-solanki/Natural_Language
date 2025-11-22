@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 10 | label: meter | g:0.401 m:0.747 ---
+
+suragurugodvijahiṃsāpāpakalāpodbhavaṃ kilāsādhyam ।
+tadapi ca śamayati yasmāt ko anyas tasmāt pavitrataraḥ ।।

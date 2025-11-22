@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 734 | label: grammar | g:0.583 m:0.5 ---
+
+atha khalu ratnasaṃbhavastathāgataḥ sarvatathāgatavajraratnānuttarapūjāvidhivistaraspharaṇakarmasamayavajrādhiṣṭhānaṃ nāma samādhiṃ samāpadyemaṃ svavidyottamamabhāṣat oṃ sarvatathāgatavajraratnānuttarapūjāspharaṇasamaye hūṃ ।।

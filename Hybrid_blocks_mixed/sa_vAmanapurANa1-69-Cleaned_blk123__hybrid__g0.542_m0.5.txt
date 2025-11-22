@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 123 | label: hybrid | g:0.542 m:0.5 ---
+
+na caiva kaścit paramandirāṇi ruṇaddhi śaṃbho sahasā ṛte akṣan ।
+na cābalānāṃ tarasā parākramaṃ karoti yasyāṃ surataṃ hi maktvā ।।

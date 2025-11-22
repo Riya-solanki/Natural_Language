@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1148 | label: hybrid | g:0.5 m:0.5 ---
+
+atha yadi vastu-mātrasya tarhi anvāsitam arundhatyā svāhayeva havir bhujam ity ādāv api strī-puṃsa-vyakti-mātra-vibhāva-sad-bhāvād anvāsanālakṣaṇānubhāva-sambhavāc ca śṛṅgāraḥ svadanīyaḥ prasajyeta । kiṃ ca-

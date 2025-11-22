@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 199 | label: meter | g:0.25 m:0.5 ---
+
+yasmiṃś ca kāraṇe pāṇir venasya mathitaḥ purā 
+kruddhair maharṣibhis tāta kāraṇaṃ tac ca kīrtaya ।।

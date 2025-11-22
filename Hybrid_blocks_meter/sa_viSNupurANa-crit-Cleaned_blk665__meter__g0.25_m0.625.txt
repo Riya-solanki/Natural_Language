@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 665 | label: meter | g:0.25 m:0.625 ---
+
+rājaputra yathā viṣṇor ārādhanaparair naraiḥ 
+kāryam ārādhanaṃ tan no yathāvac chrotum arhasi ।।

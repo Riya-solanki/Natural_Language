@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1197 | label: meter | g:0.25 m:0.5 ---
+
+nairṛtyādau paścimaṃ syādvāyavyādau tu cottaram ।
+aṣṭabhāge kṛte bhāge dvārāṇāṃ ca phalāphalam ।।

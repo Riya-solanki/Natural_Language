@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4124 | label: meter | g:0.194 m:0.5 ---
+
+yat kiṃ cit triṣu lokeṣu ratnabhūtaṃ prapaśyasi 
+tena saṃyujyatāṃ kṣipraṃ purī dvāravatī tvayā ।।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 171 | label: meter | g:0.25 m:0.521 ---
+
+spṛśyante sattvavanto na viṣayarajasā ye viviktāśayatvād
+duḥkhair naiva vyathante kṣitidharaguravo ye parārthe carantaḥ ।
+te janmopādadānāḥ parapuraparikhāsetavo bodhisattvāḥ
+śobhante na kṣamaṃ tu kṣaṇam api gatiṣu sthātum ātmaṃbharīṇām ।।

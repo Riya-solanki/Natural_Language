@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 423 | label: meter | g:0.312 m:0.759 ---
+
+evaṃ rajanipuramdhrilodhratilakaḥ ityevamādayastadbhedā draṣṭavyāḥ ।।
+utprekṣāheturutprekṣāvayavaḥ ।।
+utprekṣāyā heturutprekṣāvayavaḥ । avayavaśabdo hyārambhakaṃ lakṣayati । yathā

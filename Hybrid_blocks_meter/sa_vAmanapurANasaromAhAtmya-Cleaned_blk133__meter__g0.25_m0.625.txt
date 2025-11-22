@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 133 | label: meter | g:0.25 m:0.625 ---
+
+yo yajño yajñaparamairijyate yajñasaṃsthitaḥ ।
+taṃ yajñapuruṣaṃ viṣṇuṃ namāmi prabhumīśvaram ।।

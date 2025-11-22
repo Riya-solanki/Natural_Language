@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 5 | label: grammar | g:0.75 m:0.5 ---
+
+niyatiśaktyā niyatarūpā sukhaduḥkhamohasvabhāvā paramāṇvādyupādānakarmādisahakārikāraṇaparatantrā ṣaḍrasā na ca hṛdyaiva taiḥ, tādṛśī brahmaṇo nirmitirnirmāṇam । etadvilakṣaṇā tu kavivāṅnirmitiḥ । ata eva jayati । jayatyarthena ca namaskāra ākṣipyate iti tāṃ pratyasmi praṇata iti labhyate ।।

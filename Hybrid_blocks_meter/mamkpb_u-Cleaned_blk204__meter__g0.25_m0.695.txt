@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 204 | label: meter | g:0.25 m:0.695 ---
+
+sarveṣāṃ śrutikaṭuprabhṛtīnāṃ doṣāṇām ।
+yathā mṛgacakṣuṣamadrākṣamityādi kathayatyayam ।
+paśyaiṣa ca gavityāha sutrāmāṇaṃ yajeti ca ।।

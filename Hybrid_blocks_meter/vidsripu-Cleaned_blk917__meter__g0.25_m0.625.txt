@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 917 | label: meter | g:0.25 m:0.625 ---
+
+kālavyālahataṃ vīkṣya patantaṃ bhānum ambarāt ।
+oṣadhīśaṃ samādāya dhāvatīva pitṛprasūḥ ।।

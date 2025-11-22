@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6329 | label: meter | g:0.295 m:0.565 ---
+
+pañcabhūtātmakair bhogaiḥ pañcabhūtātmakaṃ vapuḥ 
+āpyāyate yadi tataḥ puṃso garvo atra kiṃ kṛtaḥ ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 248 | label: meter | g:0.112 m:0.903 ---
+
+tat-tad-vṛndaiḥ kṛta-pariveṣaḥ
+kṣoṇī-pṛṣṭha-sthita-vidhur eṣaḥ ।
+kramato dṛṣṭi-bhramaṇābhreṣa-
+sthiti-kṛtam akhilān api viśiśeṣa ।। [mātrāsamaka]

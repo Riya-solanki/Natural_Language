@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 924 | label: grammar | g:0.583 m:0.5 ---
+
+[] snigdhakaṇṭhaḥ sa-sambhramam uvāca-deva, vayaṃ kiṃ brūmahe? śrī-caraṇāḥ svayam eva vetsyanti ।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 637 | label: hybrid | g:0.391 m:0.49 ---
+
+teṣāṃ vai mānasī kanyā virajā nāma viśrutā 
+yayāter jananī brahman mahiṣī nahuṣasya ca ।। 
+tapasā vā prayatnena dṛśyante māṃ svacakṣuṣā । ity ete pitaro devā devāś ca pitaraḥ punaḥ । 
+traya ete gaṇāḥ proktāś caturthaṃ tu nibodha me 
+utpannā ye svadhāyāṃ tu somapā vai kaveḥ sutāḥ ।।

@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 1038 | label: meter | g:0.37 m:0.57 ---
+
+vaidyutenaiva tatastacchruteḥ ।
+vidyullokamāgato amānavaḥ puruṣo vaidyutastenaiva na tu varuṇādinā svayamuhyate ।
+tacchrutestasyaiva svayaṃ voḍhṛtvaśruteḥ ।
+varuṇādayastu tatsāhāyake vartamānā voḍhāro bhavantīti ca vaiṣamyaṃ na voḍhṛtve iti sarvamavadātam ।।

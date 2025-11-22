@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1233 | label: grammar | g:0.583 m:0.5 ---
+
+[] atha prabhāta-kathāyāṃ prabhāta-prathāyāṃ madhukaṇṭhaḥ sphurad-utkaṇṭhas tal-līlāntaraṃ śaṃsan śaṃsad-upalabdhaṃ kartum ārabdhavān ।

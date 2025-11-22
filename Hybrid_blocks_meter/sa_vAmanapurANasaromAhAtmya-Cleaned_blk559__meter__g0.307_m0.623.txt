@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 559 | label: meter | g:0.307 m:0.623 ---
+
+yahnaṃ ca sudinaṃ caiva dve tīrthe bhuvi durlabhe ।
+tayoḥ snātvā viśuddhātmā sūryalokamapāpnuyāt ।।

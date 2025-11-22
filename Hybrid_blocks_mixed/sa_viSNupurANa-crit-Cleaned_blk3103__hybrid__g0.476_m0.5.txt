@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3103 | label: hybrid | g:0.476 m:0.5 ---
+
+mātāmahas tṛptim upaitu tasya tathā pitā tasya pitā tathānyaḥ 
+viśve ca devāḥ paramāṃ prayāntu tṛptiṃ praṇaśyantu ca yātudhānāḥ ।।

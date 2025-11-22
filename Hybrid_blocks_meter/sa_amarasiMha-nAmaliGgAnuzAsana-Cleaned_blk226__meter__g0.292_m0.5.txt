@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 226 | label: meter | g:0.292 m:0.5 ---
+
+aheḥ śarīraṃ bhogaḥ syādāśīrapyahidaṃṣṭrikā triṣvāheyaṃ viṣāsthyādi sphaṭāyāṃ tu phaṇā dvayoḥ

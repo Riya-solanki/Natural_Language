@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 501 | label: meter | g:0.194 m:0.5 ---
+
+dhmātaṃ satkurute bandhaṃ pāradasya na saṃśayaḥ 
+na kṣīyate muhurdhmāte atīvaniścalatāṃ gataḥ ।।

@@ -1,0 +1,9 @@
+--- source: rasadh_u-Cleaned.txt | block: 113 | label: meter | g:0.25 m:0.594 ---
+
+sarvavyāpin>
+tridhānnapathavakrāṇāṃ madhyād ekaṃ ca hīrakam ।
+yena sūtena saṃjīrṇaṃ sattvaṃ puṣpākṣasambhavam ।।
+prakṣipya lohasattve tau catuṣpāda ubhāv api ।
+thūthāviḍena saṃpiṣyan mṛdvagniṃ jvālayedadhaḥ ।।
+jvālyo agnistāvatā yāvajjīryate sa ca hīrakaḥ ।
+hīrake annapathe jīrṇe sarvavyāpī bhavedrasaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1567 | label: grammar | g:0.583 m:0.5 ---
+
+tāvat kathaṃ kathaya yāsi gṛhaṃ parasya tatrāpi cāṭuśatam ārabhase kathaṃ ca ।
+svaṃ varṇayasy atha kathaṃ kulaputra mānī hā mugdha dagdhajaṭhareṇa viḍambito asi ।।

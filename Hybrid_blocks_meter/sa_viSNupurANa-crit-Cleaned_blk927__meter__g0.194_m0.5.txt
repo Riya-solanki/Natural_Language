@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 927 | label: meter | g:0.194 m:0.5 ---
+
+śuddhaḥ saṃllakṣyate bhrāntyā guṇavān iva yo aguṇaḥ 
+tam ātmarūpiṇaṃ devaṃ natāḥ sma puruṣottamam ।।

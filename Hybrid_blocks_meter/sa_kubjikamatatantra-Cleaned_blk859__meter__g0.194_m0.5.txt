@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 859 | label: meter | g:0.194 m:0.5 ---
+
+āśāṃ saṃśodhayet pūrvaṃ nyāsaṃ kṛtvā tu pūrvakam 
+pūrvaṃ nyasya ca mantreśaṃ nāḍīvarṇais tathākṣaraiḥ ।।

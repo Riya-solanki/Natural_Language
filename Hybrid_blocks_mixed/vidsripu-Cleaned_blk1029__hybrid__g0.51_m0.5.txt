@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1029 | label: hybrid | g:0.51 m:0.5 ---
+
+tejorāśau bhuvanajaladheḥ plāvitāśātaṭāntaṃ bhānau kumbhodbhava iva pibaty andhakārotkarāmbhaḥ ।
+sadyo mādyanmakarakamaṭhasthūlamatsyā ivaite yānty antasthāḥ kulaśikhariṇo vyaktivartmakrameṇa ।।

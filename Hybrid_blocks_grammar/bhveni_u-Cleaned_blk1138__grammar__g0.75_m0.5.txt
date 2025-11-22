@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 1138 | label: grammar | g:0.75 m:0.5 ---
+
+SktCh mahārāja kiṃnimittaṃ punarnāthabhīmasenena sa durācāro bhaṇitaḥ । pañcānāmapyasmākaṃ madhye yena te rocate tena saha te saṃgrāmo bhavatviti । yadi mādrīsutayorekatareṇa saha saṃgrāmastena prārthito bhavettato atyāhitaṃ bhavet ।

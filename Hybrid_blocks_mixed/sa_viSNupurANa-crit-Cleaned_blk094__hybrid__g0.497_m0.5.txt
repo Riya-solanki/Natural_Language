@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 94 | label: hybrid | g:0.497 m:0.5 ---
+
+viṣṇoḥ svarūpāt parato hi te anye rūpe pradhānaṃ puruṣaś ca vipra 
+tasyaiva te anyena dhṛte viyukte rūpāntaraṃ tad dvija kālasaṃjñam ।।

@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 50 | label: meter | g:0.022 m:0.845 ---
+
+indriyeṣv indriyārtheṣu rāgalobhānuyāyiṣu
+niḥsnehatvaṃ prabhutvaṃ ca rūkṣam udvartanaṃ tava

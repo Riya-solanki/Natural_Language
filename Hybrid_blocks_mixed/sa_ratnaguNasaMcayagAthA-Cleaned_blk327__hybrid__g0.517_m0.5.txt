@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 327 | label: hybrid | g:0.517 m:0.5 ---
+
+na ca vastuniśrayu karoti daditva dānaṃ vidu pāku naiva pratikāṅkṣati so kadācit 
+evaṃ tyajitva bhavate vidu sarvatyāgī alpaṃ tyajitva labhate bahu aprameyam ।।

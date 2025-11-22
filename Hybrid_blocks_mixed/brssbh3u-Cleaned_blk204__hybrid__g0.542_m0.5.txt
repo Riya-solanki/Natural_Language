@@ -1,0 +1,3 @@
+--- source: brssbh3u-Cleaned.txt | block: 204 | label: hybrid | g:0.542 m:0.5 ---
+
+FN asya jīvabhāvaṃ prāptasyeśvarasya daśa harayo viṣayā indriyāṇi vā ।

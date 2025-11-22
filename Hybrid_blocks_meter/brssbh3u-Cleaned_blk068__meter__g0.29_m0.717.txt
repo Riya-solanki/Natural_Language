@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 68 | label: meter | g:0.29 m:0.717 ---
+
+apica sapta narakā rauravapramukhā duṣkṛtaphalopabhogabhūmitvena smaryante paurāṇikaiḥ ।
+tānaniṣṭādikāriṇaḥ prāpnuvanti ।
+kutaste candraṃ prāpnuyurityabhiprāyaḥ ।।

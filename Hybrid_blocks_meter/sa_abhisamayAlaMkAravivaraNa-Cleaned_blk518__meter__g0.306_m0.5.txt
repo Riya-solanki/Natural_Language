@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 518 | label: meter | g:0.306 m:0.5 ---
+
+karoti yena citrāṇi hitāni jagataḥ samam ।
+ā bhavāt so anupacchinnaḥ kāyo nairmāṇiko muneḥ ।।

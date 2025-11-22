@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1090 | label: grammar | g:0.729 m:0.5 ---
+
+[] atha tāś cintayāmāsuḥ-hanta, sahasā marma-sparśe karmaṭhatām eva labdhavān asau । bhavatu, vayam api narmāśritya tad eva śarmāṅgī-kurmaḥ ।

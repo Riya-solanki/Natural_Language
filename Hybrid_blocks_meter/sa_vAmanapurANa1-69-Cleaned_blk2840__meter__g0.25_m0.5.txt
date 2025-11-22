@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2840 | label: meter | g:0.25 m:0.5 ---
+
+tamānītaṃ kaviṃ śarvaḥ prākṣipad vadane prabhuḥ ।
+bhārgavaṃ tvāvṛtatanuṃ jaṭhare sa nyaveśayat ।।

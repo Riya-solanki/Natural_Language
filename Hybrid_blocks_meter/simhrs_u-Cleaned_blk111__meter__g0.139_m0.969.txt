@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 111 | label: meter | g:0.139 m:0.969 ---
+
+ratau vāmatvaṃ, yathā mamaiva-
+ālokya hāra-maṇi-bimbitam ātma-kāntam
+āliṅgatīti sahasā parivartamānā ।
+ālambitā karatale parivepamānā
+sā sambhramāt sahacarīm avalambate sma ।।

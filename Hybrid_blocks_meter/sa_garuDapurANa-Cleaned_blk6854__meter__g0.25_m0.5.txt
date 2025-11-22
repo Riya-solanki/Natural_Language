@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6854 | label: meter | g:0.25 m:0.5 ---
+
+na hi dhyānena sadṛśaṃ pavitramiha vidyate ।
+śvapacānnāni bhuñjāno pāpī naivātra lipyate ।।

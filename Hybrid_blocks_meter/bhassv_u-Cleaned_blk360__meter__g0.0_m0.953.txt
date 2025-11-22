@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 360 | label: meter | g:0.0 m:0.953 ---
+
+{rājā} -
+{utthāya }
+bāḍham 
+ayam idānīm

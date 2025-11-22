@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 180 | label: grammar | g:0.583 m:0.5 ---
+
+nanu sarva eva nirālambanaḥ' ityādinā pūrvoktahetudvayākṣepanimittamithyātvākṣepeṇa śūnyavādī pratyavatiṣṭhate ।
+tathāhi - yatra kāraṇadoṣajñānaṃ bādhakajñānaṃ vā tatra mithyātvam, anyatra satyatvamiti vyavasthā nopapadyate, sarvajñānānāṃ mithyātvāt ।।

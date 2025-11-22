@@ -1,0 +1,3 @@
+--- source: mrgt1chu-Cleaned.txt | block: 146 | label: grammar | g:0.75 m:0.5 ---
+
+nanv asya sthitijanmādeḥ kāryasyāvinābhāvalakṣaṇasambandho yadi kadācij jagatkartrā saha kenacidapi gṛhītaḥ syāt tadaitad anumānaṃ sidhyet sambandhasyaiva tu agrahaṇāt kathaṃ nāsya bādheti yadi kasyacin mataṃ syāt tadidam apyasau pratyanuyojya ityāha ।।

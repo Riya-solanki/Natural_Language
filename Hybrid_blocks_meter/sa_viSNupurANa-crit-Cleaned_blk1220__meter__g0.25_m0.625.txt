@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1220 | label: meter | g:0.25 m:0.625 ---
+
+tāpatrayeṇābhihataṃ yad etad akhilaṃ jagat 
+tadā śocyeṣu bhūteṣu dveṣaṃ prājñaḥ karoti kaḥ ।।

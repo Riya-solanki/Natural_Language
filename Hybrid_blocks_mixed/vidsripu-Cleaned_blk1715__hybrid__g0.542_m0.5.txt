@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1715 | label: hybrid | g:0.542 m:0.5 ---
+
+mannindayā yadi janaḥ paritoṣam eti nanv aprayatnajanito ayam anugraho me ।
+śreyārthino hi puruṣāḥ paratuṣṭihetor duḥkhārjitāny api dhanāni parityajanti ।।

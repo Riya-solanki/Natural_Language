@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1052 | label: meter | g:0.25 m:0.611 ---
+
+antarbahibhyāṃ ca lomnaḥ ।।
+ābhyāṃ lomno apsyādbahuvrīhau । bahirlomaḥ ।।

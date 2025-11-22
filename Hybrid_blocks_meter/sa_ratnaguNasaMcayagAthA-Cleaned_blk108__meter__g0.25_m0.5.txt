@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 108 | label: meter | g:0.25 m:0.5 ---
+
+suvasanti kāli patite tṛṇapatraśākhā nacireṇa patraphalapuṣpa samāgamanti 
+prajñāya pāramita yasyimu hastaprāptā nacireṇa bodhivara prāpsyati nāyakānām ।।

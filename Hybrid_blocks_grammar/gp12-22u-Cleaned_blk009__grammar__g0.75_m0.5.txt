@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 9 | label: grammar | g:0.75 m:0.5 ---
+
+[] tadā ca kadācic chrī-vraja-rājñī sabhāntaḥ prātar āyātā śrīmad-abhinanda-patnī sayatnī-bhavantī tāṃ papraccha-yātaḥ kṛṣṇa-mātar, adya sadyaḥ prātar eva kutra vā bhavaj-jātaḥ prayātaḥ?

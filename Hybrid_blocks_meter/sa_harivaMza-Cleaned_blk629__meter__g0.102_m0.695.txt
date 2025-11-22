@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 629 | label: meter | g:0.102 m:0.695 ---
+
+sukālā nāma pitaro vasiṣṭhasya prajāpateḥ 
+niratā devalokeṣu jyotirbhāsiṣu bhārgava 
+sarvakāmasamṛddheṣu dvijās tān bhāvayanty uta ।।

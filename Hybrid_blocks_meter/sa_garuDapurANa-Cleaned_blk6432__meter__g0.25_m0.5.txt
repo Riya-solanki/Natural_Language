@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6432 | label: meter | g:0.25 m:0.5 ---
+
+drupadādiva iti ca śanno devīrapāṃ rasaḥ ।
+āpo devo pāvamānyaḥ punantvādyā ṛco nava ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4111 | label: meter | g:0.194 m:0.75 ---
+
+evam abhyārcitaḥ kṛṣṇo devamātrā mahābalaḥ 
+devarājābhyanujñāto ratnaiś ca pratipūjitaḥ ।।

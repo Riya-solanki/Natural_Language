@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 52 | label: grammar | g:0.667 m:0.5 ---
+
+paścād api pūrvānubhūtārthānubhavitṛtvāt pūrvānubhūtārthaprakāśāsaṃpramoṣaṇam, tasyaikasya vibhoḥ kartuḥ sa ity atra pūrvānubhūtatvena pratyavamarśaḥ smṛtir nāma vyāparaḥ ।।

@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 197 | label: grammar | g:0.59 m:0.372 ---
+
+Vṛtti:
+tasminyāge pūrvaṃ [śuddhikāraṇāt] śuddhihetoḥ dvijādyucchiṣṭasparśaśāntyai [ṣaḍahopoṣitaḥ] kramādekāhadvyahatryahaṣaḍahopoṣito [vanyāśano api vā] vanyaiḥ nīvārādibhiḥ kṛtavṛttirvā yaṣṭavyamantraṃ lakṣaṃ japet।
+yadi vājānataḥ sthito apyatikramastadā ayutaṃ juhuyāt। anyathā [dviguṇaṃ] taddviguṇam। japasya cāyameva kramaḥ। yathā homastathā japaḥ iti śruteḥ।।

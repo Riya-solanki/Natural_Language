@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3559 | label: meter | g:0.25 m:0.521 ---
+
+adyaprabhṛti sainyair me purīrodhaḥ pravartyatām 
+yāvad etau raṇe gopau vasudevasutāv ubhau । 
+saṃkarṣaṇaṃ ca kṛṣṇaṃ ca ghātayāmi śitaiḥ śaraiḥ । 
+ākāśam api bāṇaughair niḥsaṃpātaṃ yathā bhavet ।।

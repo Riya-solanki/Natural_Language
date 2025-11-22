@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 41 | label: grammar | g:0.573 m:0.5 ---
+
+kālena saṃcitam apuṇyam anantakalpaṃ lokatrayasya yad abhūt tripuraprakāram ।
+dagdhaṃ tvayā tad iti samyag avetya kasya mūḍhād ṛte bhavati na tvayi pakṣapātaḥ ।।

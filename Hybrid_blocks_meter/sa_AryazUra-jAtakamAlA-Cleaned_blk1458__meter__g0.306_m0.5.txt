@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1458 | label: meter | g:0.306 m:0.5 ---
+
+adṛṣṭamevātha tavaitadiṣṭaṃ śāstre kila spaṣṭapathopadiṣṭam ।
+śāstraprasiddhena nayena gacchan na garhaṇīyo asmi kapervadhena ।।

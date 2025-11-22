@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5014 | label: meter | g:0.25 m:0.625 ---
+
+ārdrakaṃ rocakaṃ vṛṣyaṃ dīpanaṃ kaphavātahṛt ।
+śuṇṭhīmaricapippalyaḥ kaphavātajito matāḥ ।।

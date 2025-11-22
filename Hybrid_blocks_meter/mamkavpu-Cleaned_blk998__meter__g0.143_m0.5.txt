@@ -1,0 +1,7 @@
+--- source: mamkavpu-Cleaned.txt | block: 998 | label: meter | g:0.143 m:0.5 ---
+
+{'kvākāryaṃ śaśalakṣmaṇaḥ kva ca kulam'; ityādau ।।}
+[kvākāryaṃ śaśalakṣaṇaḥ kva ca kulaṃ bhūyo api dṛśyeta sā
+doṣāṇāṃ praśamāya na śrutamaho kope api kāntaṃ mukham ।
+kiṃ vakṣyantyapakalmaṣāḥ kṛtadhiyaḥ svapne api sā durlabhā
+cetaḥ svāsthyamupaihi kaḥ khalu yuvā dhanyo adharaṃ dhāsyati ।।]

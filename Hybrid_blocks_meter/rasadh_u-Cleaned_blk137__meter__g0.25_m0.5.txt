@@ -1,0 +1,4 @@
+--- source: rasadh_u-Cleaned.txt | block: 137 | label: meter | g:0.25 m:0.5 ---
+
+saṃskārair manusaṃkhyaiśca sūtaḥ saṃskṛtya māritaḥ ।
+khalve kṣiptvā sa sampiṣṭaḥ procyate pratisāraṇam ।।

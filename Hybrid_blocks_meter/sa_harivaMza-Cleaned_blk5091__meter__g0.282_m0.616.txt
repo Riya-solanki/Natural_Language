@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5091 | label: meter | g:0.282 m:0.616 ---
+
+varṣāsu vātāḥ puruṣā nīcāḥ śarkaravarṣiṇaḥ 
+saṃdigdhaḥ paralokaś ca bhaviṣyati yugakṣaye ।। 
+ātmanaś ca durācārā brahmadūṣaṇatatparāḥ । ātmānaṃ bahu manyante manyur evābhyayād dvijān । 
+vaiśyācārāś ca rājanyā dhanadhānyopajīvinaḥ 
+yugāpakramaṇe pūrvaṃ bhaviṣyanti dvijātayaḥ ।।

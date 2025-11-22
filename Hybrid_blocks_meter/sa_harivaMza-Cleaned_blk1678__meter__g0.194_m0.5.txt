@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1678 | label: meter | g:0.194 m:0.5 ---
+
+te gadābhiś ca gurvībhiś cakraiś ca saparaśvaghaiḥ 
+kālakalpaiś ca musalaiḥ kṣepaṇīyaiś ca mudgaraiḥ ।।

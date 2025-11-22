@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4449 | label: meter | g:0.306 m:0.5 ---
+
+yeṣāṃ manasi govindo nivāsī satataṃ bale ।
+na te paribhavaṃ yānti na mṛtyorudvijanti ca ।।

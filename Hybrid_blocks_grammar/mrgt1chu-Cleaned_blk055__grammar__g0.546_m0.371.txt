@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 55 | label: grammar | g:0.546 m:0.371 ---
+
+sargaprārambhe parameśvareṇa puruṣārthasya bhuktimuktyātmanaḥ sampattyarthaṃ vimalam ity avabodhātmano nādarūpatvena prathamaṃ prasṛtatvād agṛhītopādhibhedaṃ paratas tūrdhvaprāgdakṣiṇapaścimottarasrotaḥpañcakenābhitaḥ samantāt prasṛtatvena lakṣitam iti sadāśivarūpeṇa darśanātmatāṃ prāpitaṃ jñānaṃ nirmitam iti kramaḥ ।। 
+prayojanaṃ ca pūrvapraśnitam upavarṇitam ।। 
+kiṃ ca ।।

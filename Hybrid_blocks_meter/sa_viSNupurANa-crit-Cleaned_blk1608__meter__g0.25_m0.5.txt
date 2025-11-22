@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1608 | label: meter | g:0.25 m:0.5 ---
+
+himavān hemakūṭaś ca niṣadhaś cāsya dakṣiṇe 
+nīlaḥ śvetaś ca śṛṅgī ca uttare varṣaparvatāḥ ।।

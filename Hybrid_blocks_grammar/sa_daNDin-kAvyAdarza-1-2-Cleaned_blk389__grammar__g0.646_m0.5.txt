@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 389 | label: grammar | g:0.646 m:0.5 ---
+
+nigṛhya keśeṣv ākṛṣṭā kṛṣṇā yenāgrato mama so ayaṃ duḥśāsanaḥ pāpo labdhaḥ kiṃ jīvati kṣaṇam ।।

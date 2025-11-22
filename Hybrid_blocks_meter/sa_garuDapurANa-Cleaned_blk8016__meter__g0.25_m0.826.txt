@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8016 | label: meter | g:0.25 m:0.826 ---
+
+etasmātkāraṇātpretaḥ śīghrago ahaṃ tu nāmataḥ ।
+rodhaka uvāca ।
+ahantu śūdrajātīyaḥ purābhūvaṃ munīśvara ।।

@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 43 | label: meter | g:0.306 m:0.625 ---
+
+ācāryāya pradātavyā yathāśakti subhaktitaḥ ।
+yajñaṃ kuryāt tato vajrī vrataṃ pūrṇaṃ prapūrayet ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 603 | label: meter | g:0.084 m:0.838 ---
+
+śikhaṇḍināṃ yā kala-nṛtya-mādhurī
+śikhaṇḍa-cūḍasya sadātiśarmadā ।
+na sānusandhānam itā tad astu yan
+mūrdhnaḥ śikhaṇḍaṃ ca jagāma vismṛtim ।। [upajāti ]

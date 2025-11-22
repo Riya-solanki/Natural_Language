@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4354 | label: meter | g:0.292 m:0.5 ---
+
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe arocakanidānā nāma tripañcāśaduttaraśatatamo adhyāyaḥ

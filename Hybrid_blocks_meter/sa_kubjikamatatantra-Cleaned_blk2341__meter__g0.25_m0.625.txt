@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2341 | label: meter | g:0.25 m:0.625 ---
+
+devaś ca kṣetrapālo atra surāsavavarapriyaḥ 
+naṭī nāṭī kunāṭī ca vāṭakī hāṭakī viṭī ।।

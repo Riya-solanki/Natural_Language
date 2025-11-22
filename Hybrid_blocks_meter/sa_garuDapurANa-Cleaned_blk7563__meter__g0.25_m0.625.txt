@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7563 | label: meter | g:0.25 m:0.625 ---
+
+mātṛkaṃ paitṛkaṃ caiva yatra caiva pradīyate ।
+kulatrayaṃ punātyeṣā bhartāraṃ yānugacchati ।।

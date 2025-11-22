@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 76 | label: meter | g:0.306 m:0.5 ---
+
+gatvā sadyaḥ kalabhatanutāṃ śīghrasaṃpātahetoḥ krīḍāśaile prathamakathite ramyasānau niṣaṇṇaḥ ।
+arhasy antarbhavanapatitāṃ kartum alpālpabhāsaṃ khadyotālīvilasitanibhāṃ vidyudunmeṣadṛṣṭim ।।

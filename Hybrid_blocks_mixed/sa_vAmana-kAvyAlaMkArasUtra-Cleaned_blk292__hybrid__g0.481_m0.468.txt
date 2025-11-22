@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 292 | label: hybrid | g:0.481 m:0.468 ---
+
+।।
+hīnatvādhikatvaliṅgavacanabhedāsādṛśyāsaṃbhavāstaddoṣāḥ ।।
+tasyā upamāyā doṣā bhavanti । hīnatvamadhikatvaṃ liṅgabhedo vacanabhedo'sādṛśyamasambhava iti ।।

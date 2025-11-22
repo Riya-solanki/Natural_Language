@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 807 | label: grammar | g:0.625 m:0.5 ---
+
+vṛttivṛttimatorananyatve vṛttimato avasthānād vṛttīnāmavasthānamiti yānīmāni viṣayagrahaṇāni tānyavatiṣṭhante iti yugapad viṣayāṇāṃ grahaṇaṃ prasajyate iti ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2046 | label: meter | g:0.25 m:0.625 ---
+
+eṣa bhraman bhrāmayati candrādityādikān grahān 
+bhramantam anu taṃ yānti nakṣatrāṇi ca cakravat ।।

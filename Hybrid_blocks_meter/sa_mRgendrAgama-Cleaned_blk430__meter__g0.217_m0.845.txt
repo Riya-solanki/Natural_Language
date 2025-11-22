@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 430 | label: meter | g:0.217 m:0.845 ---
+
+śaktāvapyevamityeṣa sakalaḥ kṛtyayogataḥ 
+kṛtyaṃ tadādiviṣayaṃ niṣkalo anyatra sarvadā ।।

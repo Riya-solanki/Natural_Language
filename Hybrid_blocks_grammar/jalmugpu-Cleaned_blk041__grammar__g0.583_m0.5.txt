@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 41 | label: grammar | g:0.583 m:0.5 ---
+
+bibboke bakaceṣṭitaṃ bahuvidhabhrūvibhrameṣu bhramaṃ kauṭilyaṃ nakharakṣateṣu suratopāyeṣu māyāṃ svayam ।
+sītkārāntarasatyam arthaharaṇaṃ sarvatra ye jānate veśyānāṃ paramaṃ rahasyam avanau te ke api medhāvinaḥ ।।

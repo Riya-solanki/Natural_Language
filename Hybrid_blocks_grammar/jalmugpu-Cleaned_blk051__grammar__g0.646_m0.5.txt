@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 51 | label: grammar | g:0.646 m:0.5 ---
+
+ke cid dyūtakarā bhavanti katicid bhikṣācarāḥ kiṅkarāḥ ke cit karmakarāḥ pare dhanavatāṃ ślāghākarāḥ ke cana ।
+skandhāsaktapaṭaccarā dya nucarā śokād akiṃcitkarās te amī kāmivarāḥ purā samabhavan veśyāsu ye gocarāḥ ।।

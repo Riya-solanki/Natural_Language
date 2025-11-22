@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 455 | label: meter | g:0.25 m:0.5 ---
+
+īpsitān mānasān kāmān svargavāsaṃ ca śāśvatam ।
+evaṃ dattvā varān viprā rāmasya pitarastadā ।।

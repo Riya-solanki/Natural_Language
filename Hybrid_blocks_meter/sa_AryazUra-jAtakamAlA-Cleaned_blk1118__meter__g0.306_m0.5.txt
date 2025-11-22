@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1118 | label: meter | g:0.306 m:0.5 ---
+
+taruṇasya vapuṣmataḥ sataḥ sukumārasya sukhocitātmanaḥ ।
+kṣitipābhimatasya tasya vai vanavāse praṇatā matiḥ katham ।।

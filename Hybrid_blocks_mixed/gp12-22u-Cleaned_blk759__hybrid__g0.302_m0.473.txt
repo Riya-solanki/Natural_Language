@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 759 | label: hybrid | g:0.302 m:0.473 ---
+
+govardhana-mahā-yajñe hutabhug-vyājatas tadā ।
+hareḥ pratāpa evendhāñcakre śakra-pratāpanaḥ ।। yadāgnir dakṣiṇāvarto yajñe jajñe tadā janaḥ ।
+sarvaś ca dakṣiṇāvarta-parīvartam avartata ।। [anuṣṭubh]

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3148 | label: meter | g:0.25 m:0.677 ---
+
+yamunāyā hrade hy asmin toṣyāmi bhujageśvaram 
+divyair bhāgavatair mantraiḥ sarvalokaprabhuṃ yataḥ ।। 
+guhyaṃ bhāgavataṃ devaṃ sarvalokasya bhāvanam । 
+śrīmatsvastikamūrdhānaṃ praṇamiṣyāmi bhoginam 
+sahasraśirasaṃ devam anantaṃ nīlavāsasam ।।

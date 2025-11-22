@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 477 | label: meter | g:0.25 m:0.625 ---
+
+na cātmaduḥkhakṣayamātrakeṇa me prayāti santoṣapathena mānasam ।
+amūnanāthānabhivīkṣya dehinaḥ prasaktatīvravyasanaśramāturān ।।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1271 | label: meter | g:0.25 m:0.695 ---
+
+yaḥ paraṃ prāha parataḥ paraṃ yaḥ paramātmavān 
+nārāyaṇaparā vedā nārāyaṇaparāḥ kriyāḥ । 
+nārāyaṇaparo dharmo nārāyaṇaparā gatiḥ । 
+nārāyaṇaparaṃ satyaṃ nārāyaṇaparaṃ tapaḥ । 
+nārāyaṇaparo mokṣo nārāyaṇaparaṃ param । 
+ādityādis tu yo divyo yaś ca daityāntako vibhuḥ ।।

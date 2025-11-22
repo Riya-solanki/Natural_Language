@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 306 | label: hybrid | g:0.497 m:0.5 ---
+
+paruṣaṃ śruṇitva vacanaṃ parato duruktaṃ paritoṣayāti susukhaṃ vidu bodhisattvo 
+ko bhāṣate ka śṛṇute kutu kasya kena so yukta kṣāntivarapāramitāya vijño ।।

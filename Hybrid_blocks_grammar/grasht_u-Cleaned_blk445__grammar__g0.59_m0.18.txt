@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 445 | label: grammar | g:0.59 m:0.18 ---
+
+mukhyatvena tāmrapraṃśasanam āha athavetyādi ।।
+athaveti vidhānāntare kevalaṃ śuddhaṃ vānyasaṃyogena varjitaṃ amalaṃ jātapūrvaśodhanaṃ triguṇaṃ cīrṇajīrṇaṃ kuryādityarthaḥ pūrvaṃ cīrṇaṃ cāraṇamāptaṃ paścājjīrṇaṃ jāraṇamāpannaṃ evaṃbhūtaṃ tāmraṃ sūtaṃ lākṣārasasannibhaṃ alaktakaprabhaṃ kurute ।।

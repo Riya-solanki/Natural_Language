@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1021 | label: meter | g:0.194 m:0.875 ---
+
+aṅgaṃ bhūṣaṇam api kila sarvam
+sarvābharaṇaṃ svayam iti garvam ।
+atha maṇi-śakaṭādhiṣṭhitam etam
+kalayiṣyanti suhṛdbhir upetam ।।

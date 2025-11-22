@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1111 | label: meter | g:0.194 m:0.875 ---
+
+atha viṣayasukhebhyo niḥspṛhās tāḥ kumāryaḥ
+prakṛtirucirabhāvās tiryag ālokya śakram ।
+jagur idam anavadyaṃ suṣṭhu citrārthavācaḥ
+svakuśalaparipākāṅgāradhīrasvabhāvaḥ ।।

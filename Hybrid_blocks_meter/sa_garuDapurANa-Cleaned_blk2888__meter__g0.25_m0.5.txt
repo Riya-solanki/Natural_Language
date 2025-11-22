@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2888 | label: meter | g:0.25 m:0.5 ---
+
+svasti vācyaṃ tato dadyādakṣayyodakameva ca ।
+dattvā ca dakṣiṇāṃ śaktyā svadhākāramudāharet ।।

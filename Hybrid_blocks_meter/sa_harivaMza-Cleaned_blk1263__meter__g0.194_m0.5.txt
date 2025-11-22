@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1263 | label: meter | g:0.194 m:0.5 ---
+
+vibabhāja purā yaś ca pārameṣṭhyena karmaṇā 
+yugānurūpaṃ yaḥ kṛtvā lokān anu parikraman ।।

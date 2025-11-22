@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3133 | label: meter | g:0.194 m:0.625 ---
+
+akṛtāgrayaṇaṃ yac ca dhānyajātaṃ nareśvara 
+rājamāṣān aṇūṃś caiva masūrāṃś ca vivarjayet ।।

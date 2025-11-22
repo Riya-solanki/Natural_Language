@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 338 | label: meter | g:0.295 m:0.565 ---
+
+manvantareṣu saṃhārāḥ saṃhārānteṣu saṃbhavāḥ 
+na śakyam antaṃ teṣāṃ vai vaktuṃ varṣaśatair api ।।

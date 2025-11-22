@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 100 | label: hybrid | g:0.5 m:0.5 ---
+
+saṃjñāśabdaiḥ pṛthagupadeśo bhūtānāṃ vibhaktānāṃ suvacaṃ kāryaṃ bhaviṣyatīti ।।

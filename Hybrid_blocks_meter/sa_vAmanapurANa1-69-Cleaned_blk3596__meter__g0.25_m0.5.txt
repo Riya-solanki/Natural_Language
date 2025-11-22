@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3596 | label: meter | g:0.25 m:0.5 ---
+
+yaccātapatramadadaṃ so ayaṃ jātaḥ śamītaruḥ ।
+uvānadyugale datte preto me vāhano abhavat ।।

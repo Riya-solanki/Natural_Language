@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 491 | label: hybrid | g:0.521 m:0.5 ---
+
+saṃpradīyamānamavasthitaṃ dṛṣṭaṃ saṃpradīyate ca śabda ācāryeṇāntevāsine tasmādavasthita iti ।।

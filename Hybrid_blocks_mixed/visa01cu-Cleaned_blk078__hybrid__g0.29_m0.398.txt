@@ -1,0 +1,6 @@
+--- source: visa01cu-Cleaned.txt | block: 78 | label: hybrid | g:0.29 m:0.398 ---
+
+dhvanyātmanyevetidhvanikāvyasyātmabhūte śṛṅgāre ityarthaḥ ।
+śṛṅgārapadaṃ cātra mādhuryyavadrasopalakṣakam ।
+tena karuṇaśāntarasayośca te heyā ityarthaḥ ।
+nanu nityatvānityatvaprayojakameva rasāpakarṣakānapakarṣakatvaṃ, doṣatāprayojakaṃ tu na rasāpakarṣakatvaṃ, kintvabhyuktoktittatsvarūpameva tatprayojakamityata āhakiṃceti ।

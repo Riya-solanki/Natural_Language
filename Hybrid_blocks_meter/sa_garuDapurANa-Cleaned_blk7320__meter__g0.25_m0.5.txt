@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7320 | label: meter | g:0.25 m:0.5 ---
+
+yairnānṛtāni coktāni prītibhedaḥ kṛto na ca ।
+āstikaḥ śraddadhānaśca sa sukhaṃ mṛtyumṛcchati ।।

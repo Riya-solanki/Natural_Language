@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5176 | label: meter | g:0.102 m:0.555 ---
+
+māyaiṣā vāsaveneha prayuktā vighnam icchatā 
+yajñe vivaram āsādya saṃjñaptaṃ dṛśya vājinam 
+ratim indreṇa rambhāyāṃ manyase yāṃ vapuṣṭamām ।।

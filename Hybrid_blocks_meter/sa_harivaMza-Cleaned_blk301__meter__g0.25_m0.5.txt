@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 301 | label: meter | g:0.25 m:0.5 ---
+
+marīcir atrir bhagavān aṅgirāḥ pulahaḥ kratuḥ 
+pulastyaś ca vasiṣṭhaś ca saptaite brahmaṇaḥ sutāḥ ।।

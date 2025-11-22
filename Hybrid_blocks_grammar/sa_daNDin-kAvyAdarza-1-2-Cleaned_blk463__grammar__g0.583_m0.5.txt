@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 463 | label: grammar | g:0.583 m:0.5 ---
+
+śastraprahāraṃ dadatā bhujena tava bhūbhujām cirārjitaṃ hṛtaṃ teṣāṃ yaśaḥ kumudapāṇḍuram ।। ।।

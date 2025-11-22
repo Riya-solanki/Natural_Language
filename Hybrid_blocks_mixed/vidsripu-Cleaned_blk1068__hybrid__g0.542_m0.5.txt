@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1068 | label: hybrid | g:0.542 m:0.5 ---
+
+airāvaṇanti kariṇaḥ phaṇino apy aśeṣāḥ śeṣanti hanta vihagā api haṃsitāraḥ ।
+nīlotpalāni kumudanti ca sarvaśailāḥ kailāsituṃ vyavasitā bhavato yaśobhiḥ ।।

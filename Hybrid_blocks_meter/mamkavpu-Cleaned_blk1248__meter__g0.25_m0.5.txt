@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1248 | label: meter | g:0.25 m:0.5 ---
+
+{matiriva mūrtirmadhurā mūrtiriva sabhā prabhāvacitā ।
+tasya sabheva jayaśrīḥ śakyā jetuṃ nṛpasya na pareṣām ।।}

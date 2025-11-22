@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2392 | label: meter | g:0.307 m:0.623 ---
+
+pitavaṃśe mṛtā ye ca mātṛvaṃśe ca ye mṛtāḥ ।
+taṣāmuddharaṇārthāye imaṃ piṇḍe dadāmyaham ।।

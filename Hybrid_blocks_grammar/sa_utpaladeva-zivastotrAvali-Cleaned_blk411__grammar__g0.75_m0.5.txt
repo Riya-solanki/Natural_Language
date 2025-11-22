@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 411 | label: grammar | g:0.75 m:0.5 ---
+
+jagato antarato bhavantam āptvā punar etad bhavato antarāl labhante jagadīśa tavaiva bhaktibhājo na hi teṣām iha dūrato asti kiñcit ।।

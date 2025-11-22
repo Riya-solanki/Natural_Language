@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9872 | label: meter | g:0.25 m:1.0 ---
+
+uḍupopari tāṃ dhenuṃ sūryadehasamudbhavām ।
+kṛtvā prakalpayedvipraśchatropānahasaṃyutam ।।

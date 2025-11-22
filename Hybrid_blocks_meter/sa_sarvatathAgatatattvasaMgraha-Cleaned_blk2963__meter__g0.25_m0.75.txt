@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2963 | label: meter | g:0.25 m:0.75 ---
+
+vajragarbhasamādhisthaḥ karmamudrā sukarmakṛt ।
+mahābodhiriyaṃ jñānaṃ bhāvayan siddhimāpnuyād ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1509 | label: meter | g:0.355 m:0.67 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahmovāca ।
+ataḥ paraṃ pravakṣyāmi prāyaścittavidhiṃ dvijāḥ ।
+brahmahā ca surāpaśca steyī ca gurutalpagaḥ ।।

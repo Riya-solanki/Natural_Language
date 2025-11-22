@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 65 | label: meter | g:0.194 m:0.75 ---
+
+pāriśeṣyānmaheśasya muktasya śiva eva saḥ 
+sambandhāgrahaṇe bādhā mānasyābhyeti kasyacit ।।

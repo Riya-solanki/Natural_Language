@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 43 | label: meter | g:0.234 m:0.698 ---
+
+sa tvaṃ hatvā pitaram api te dhārmikaṃ dharmarājaṃ
+kāmāsvādavyasanamadirāpānavikṣiptacittaḥ ।
+svasthāvasthaś carasi narakadvāraśālāṃ praviṣṭo
+jvālāhastair narakaśikhinaḥ spraṣṭum icchanti hi tvām ।।

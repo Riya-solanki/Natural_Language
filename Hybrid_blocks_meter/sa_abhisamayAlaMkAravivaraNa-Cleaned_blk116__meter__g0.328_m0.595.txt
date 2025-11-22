@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 116 | label: meter | g:0.328 m:0.595 ---
+
+jñānaṃ puṇyaṃ ca mārgaśca dhāraṇī bhūmayo daśa ।
+pratipakṣaśca vijñeyaḥ sambhārapratipatkramaḥ ।।

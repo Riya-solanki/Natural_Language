@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5478 | label: meter | g:0.25 m:0.625 ---
+
+sarṣapāśca vacā caiva madanasya phalāni ca ।
+mārjāraviṣṭhā dhattura strīkeśena samanvitaḥ ।।

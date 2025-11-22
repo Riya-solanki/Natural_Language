@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 184 | label: meter | g:0.271 m:0.5 ---
+
+{ceṭī} - abhijādaṃ khu bhaṭṭidāriāe mantidaṃ pio me bhattatti 
+[abhijātaṃ khalu bhartṛdārikayā mantritaṃ priyo me bharteti । ]

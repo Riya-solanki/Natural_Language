@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2018 | label: meter | g:0.25 m:0.75 ---
+
+yājñikānāṃ samṛddhānāṃ brāhmaṇānāṃ ca yoniṣu 
+sarvāstrajñā maheṣvāsā vedavrataparāyaṇāḥ ।। 
+sarvarddhiguṇasaṃpannā yajvānaḥ puṇyakarṃiṇaḥ । 
+ācālayeyuḥ śailāṃs te kruddhā bhindyur mahītalam 
+utpateyur athākāśaṃ kṣobhayeyur mahodadhim ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 14 | label: meter | g:0.25 m:0.5 ---
+
+adya dhanyaḥ kṛtārtho aham adya me saphalā gatiḥ 
+adya me saphalaṃ sarvaṃ trailokyaṃ sacarācaram ।।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 134 | label: grammar | g:0.667 m:0.5 ---
+
+bhedaḥ pañca mārgajñatāṅgāni dhyāmīkaraṇatādīni bhavanti, tadyathā - ādhāraḥ aparokṣāhaṅkārarāhityam, sahakāripratyayaścittotpādaḥ, sahetukā vyāptiḥ, saṃsārātyajanaṃ svabhāvaḥ, aparigṛhītasattvaparigrahaṇamiti ।

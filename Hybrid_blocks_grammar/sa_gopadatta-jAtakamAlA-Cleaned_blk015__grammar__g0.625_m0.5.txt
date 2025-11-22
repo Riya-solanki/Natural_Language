@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 15 | label: grammar | g:0.625 m:0.5 ---
+
+tāṃ ca muhūrtam anugacchan dadarśa dūrād eva nīlavipulasnigdhapalāśanicitaviṭapataruvaragahanam acalasānupradeśam । dṛṣṭvā yanaḥ provāca ।।

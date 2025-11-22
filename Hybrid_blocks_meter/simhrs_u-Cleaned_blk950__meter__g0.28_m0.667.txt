@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 950 | label: meter | g:0.28 m:0.667 ---
+
+citra-darśanena, yathā-
+līlāvadhūta-kamalā kalayantī pakṣapātam adhikaṃ naḥ ।
+mānasam upaiti keyaṃ citra-gatā rājahaṃsīva ।।

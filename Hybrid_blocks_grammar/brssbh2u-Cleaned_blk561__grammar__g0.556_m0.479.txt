@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 561 | label: grammar | g:0.556 m:0.479 ---
+
+caitanyaguṇavyāptervāṇorapi sato jīvasya sakaladehavyāpi kāryaṃ na virudhyate ।
+yathā loke maṇipradīpaprabhṛtīnāmapavarakaikadeśavartināmapi prabhāpavarakavyāpinī satī kṛtsne apavarake kāryaṃ karoti tadvat ।
+syātkadāciccandanasya sāvayavatvātsūkṣmāvayavavisarpaṇenāpi sakaladeha āhlādayitṛtvaṃ va tvaṇorjīvasyāvayavāḥ santi yairayaṃ sakaladehaṃ viprasarpedityāśaṅkya guṇādvā lokavadityuktam ।।

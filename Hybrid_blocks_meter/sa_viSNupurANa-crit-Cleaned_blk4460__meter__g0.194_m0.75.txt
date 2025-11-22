@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4460 | label: meter | g:0.194 m:0.75 ---
+
+mantrayajñaparā viprāḥ sīrayajñāś ca karṣakāḥ 
+girigoyajñaśīlāś ca vayam adrivanāśrayāḥ ।।

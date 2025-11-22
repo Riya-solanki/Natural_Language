@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 475 | label: grammar | g:0.656 m:0.5 ---
+
+koṣaḥ sphītataraḥ sthitāni paritaḥ patrāṇi durgaṃ jalaṃ maitraṃ maṇḍalam ujjvalaṃ ciram adho nītās tathā kaṇṭakāḥ ।
+ity ākṛṣṭaśilīmukhena racanāṃ kṛtvā tad atyadbhutaṃ yat padmena jigīṣuṇāpi na jitaṃ mugdhe tvadīyaṃ mukham ।।

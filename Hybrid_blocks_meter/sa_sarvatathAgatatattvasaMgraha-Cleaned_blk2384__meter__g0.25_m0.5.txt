@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2384 | label: meter | g:0.25 m:0.5 ---
+
+yatra śaṅkā bhavettatra samayāgrīntu bandhayet ।
+yadā mokṣaṃ svayaṃ yāyānnidhintatra vinirdiśet ।।

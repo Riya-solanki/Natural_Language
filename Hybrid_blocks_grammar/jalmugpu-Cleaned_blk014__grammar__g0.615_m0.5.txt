@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 14 | label: grammar | g:0.615 m:0.5 ---
+
+vipro dakṣiṇayā mahaiḥ parijano meghodayaiḥ kārṣiko durmantrī vyasanena sāhasaśataiḥ śūro mṛgair lubdhakaḥ ।
+bandī tyāgibhir akṣarair janayitā lābhātirekair vaṇig rogārtair bhiṣag arbhakaiś ca gaṇikā garbheśvarais tuṣyati ।।

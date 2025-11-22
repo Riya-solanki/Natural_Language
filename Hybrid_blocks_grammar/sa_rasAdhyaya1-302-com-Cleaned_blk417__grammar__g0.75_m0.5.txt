@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 417 | label: grammar | g:0.75 m:0.5 ---
+
+kanakapattrāṇi kāñjikena kledayitvā rajakatyaktatūrīśuṣkalagadakaṃ lavaṇena samabhogena cūrṇayitvā karparaḥ paricūrṇas tadupari pattraṃ punaścūrṇaṃ punaḥ pattramevaṃ pattrāṇy uparyupari muktvopari punaḥ karparaṃ dattvā cūrṇena sarvataḥ pārśve vācchādya yāvadbhiḥ karparapuṭa ācchādyate tāvanti chagaṇakāni khaḍakitvāgni dattvā mucyate yadi ca jvalitvā svayaṃ tiṣṭhati ।।

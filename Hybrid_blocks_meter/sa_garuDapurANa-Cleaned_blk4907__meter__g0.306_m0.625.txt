@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4907 | label: meter | g:0.306 m:0.625 ---
+
+rujā tandrā svarabhraṃśo dāho vyāne tu sarvaśaḥ ।
+kramoṃ gaceṣṭābhaṅgaśca santāpaḥ sahavedanaḥ ।।

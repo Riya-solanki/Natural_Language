@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1114 | label: meter | g:0.194 m:0.625 ---
+
+yasya saṃśoṣako vāyur dehe daityendrayojitaḥ 
+avāpa saṃkṣayaṃ sadyaś cittasthe madhusūdane ।।

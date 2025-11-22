@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 527 | label: meter | g:0.251 m:0.623 ---
+
+apṛcchad dharmarājo hi śaratalpagataṃ purā 
+evam eva purā praśnaṃ yan māṃ tvaṃ paripṛcchasi ।।

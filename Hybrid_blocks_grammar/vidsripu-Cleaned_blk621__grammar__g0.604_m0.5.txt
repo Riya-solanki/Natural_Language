@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 621 | label: grammar | g:0.604 m:0.5 ---
+
+mugdhe tavāsmi dayitā dayito bhava tvam ity uktayā na hi na hīti śiro avadhūya ।
+svasmāt karān mama kare valayaṃ kṣipantyā vācaṃ vinābhyupagamaḥ kathito mṛgākṣyā ।।

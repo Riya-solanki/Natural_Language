@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2422 | label: meter | g:0.25 m:0.5 ---
+
+tāmasasyāntare caiva saṃprāpte punar eva hi 
+haryāyāṃ haribhiḥ sārdhaṃ harir eva babhūva ha ।।

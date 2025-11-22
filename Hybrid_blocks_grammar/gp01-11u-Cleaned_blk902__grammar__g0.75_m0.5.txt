@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 902 | label: grammar | g:0.75 m:0.5 ---
+
+[] kṛṣṇas tad etad aśrṇvann iva sāsraṃ pitṛ-mukham īkṣate sma । rohiṇī tu saṅkarṣaṇaṃ tasya saṅkarṣaṇāya sañjñayā jñāpayāmāsa । tena gṛhīta-hastaḥ punar asau nirasta-tad-dhastatayā vidrutya pitur utsaṅga-saṅgī babhūva । tathābhavaṃś ca bhujābhyām avaguṇṭhita-tat-kaṇṭhaḥ kṛta-bāṣpa-vṛṣṭiṃ tad-dṛṣṭim eva paśyaṃs tam atīva vaśyam ācarann āsīt ।

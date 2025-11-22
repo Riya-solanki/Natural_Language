@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 34 | label: grammar | g:0.604 m:0.5 ---
+
+yacca aupanītasya vyāpārāpekṣāyāmupanayanaṃ prakramya vihitamadhyayanaṃ tadvyāpāratvenādhyavasīyata' iti, tadapyabuddhipūrvakam- evaṃ hi vadatādhyāpanāṅgamadhyayanamityupapāditaṃ bhavati ।

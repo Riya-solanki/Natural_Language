@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1416 | label: grammar | g:0.75 m:0.5 ---
+
+yathā tatraiva aṣṭamāṅke, karaṅkaḥ -sakhe kañkāla devaḥ kumbhakarṇaṃ prabodhayati । kiṃ ca prayatnena bodhito' py asau rāmeṇa punaḥ śāyitavya eva ।

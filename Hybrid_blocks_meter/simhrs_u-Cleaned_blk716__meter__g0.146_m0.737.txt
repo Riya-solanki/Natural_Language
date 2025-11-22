@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 716 | label: meter | g:0.146 m:0.737 ---
+
+svabhāvād, yathā-
+uttānām upadhāya bāhulatikām ekām apāṅgāśrayām
+anyām apy alasāṃ nidhāya vipulābhoge nitamba-sthale ।
+nīvīṃ kiñcid iva ślathāṃ vidadhatī niḥśvāsam unmuñcatī
+talpotpīḍana-tiryag-unnata-kucā nidrāti śātodarī ।।

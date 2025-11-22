@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 999 | label: meter | g:0.472 m:0.561 ---
+
+guṇasya doṣībhāvo yathā
+etāvtyapi vipriye priyasakhi prāṇeṣu kā prārthanā kiṃ vā tena śaṭhena nirdayahṛdā recarlavaṃśendunā ।
+yasyāgaḥ parimārjanāya kṛtināmagresarasya sphuṭaṃ sāmnāṃ sāradhumādhure sahabhuvāṃ śikṣeva nityavratam ।।

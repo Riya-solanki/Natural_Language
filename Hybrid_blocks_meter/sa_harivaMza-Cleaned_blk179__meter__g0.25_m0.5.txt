@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 179 | label: meter | g:0.25 m:0.5 ---
+
+yathoktaṃ vai maghavatā tathaiva maruto abhavan 
+mā rodīr iti yac chabdas tvayoktaḥ pākaśāsana । 
+maruto nāma teneme bhavantu yadi manyase । 
+devāsureṣu yuddheṣu bhṛtyās tava kṛte vibho । 
+pṛṣṭhato anugamiṣyanti vaśagās te puraṃdara ।। 
+evaṃ bruvāṇāṃ tāṃ devīṃ prāha śakras tv idaṃ vacaḥ । 
+devā ekonapañcāśat sahāyā vajrapāṇinaḥ ।।

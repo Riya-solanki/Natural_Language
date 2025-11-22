@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1783 | label: meter | g:0.194 m:0.625 ---
+
+śrūyatāṃ tridaśāḥ sarve yāvantaḥ stha samāgatāḥ 
+śravaṇāvahitair devaiḥ puraskṛtya puraṃdaram ।।

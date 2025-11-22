@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 296 | label: meter | g:0.272 m:0.845 ---
+
+bhūkhagaṭaṅkaṇamanaḥśilalavaṇāsuriśigrukāñcikais tridinam ।
+svedena dīnadīpto'sau grāsārthī jāyate sūtaḥ ।।

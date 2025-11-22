@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 687 | label: meter | g:0.028 m:0.969 ---
+
+tayormahadaṇvorgrahaṇaṃ cakṣūraśmerarthasya
+ca saṃnikarṣaviśeṣād bhavati yathā pradīparaśmerarthasya
+ceti, raśmyarthasaṃnikarṣaśca āvaraṇaliṅgaḥ
+cakṣuṣo hi raśmiḥ kuḍyādibhirāvṛtamarthaṃ
+na prakāśayati yathā pradīparaśmiriti ।।

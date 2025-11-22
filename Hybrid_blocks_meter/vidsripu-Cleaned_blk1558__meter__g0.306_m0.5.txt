@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1558 | label: meter | g:0.306 m:0.5 ---
+
+svalpadraviṇakaṇā vayam amī ca guṇino daridrati sahasram ।
+dānavyasanalavo hṛdi dhig dhātaḥ kiṃ viḍambayasi ।।

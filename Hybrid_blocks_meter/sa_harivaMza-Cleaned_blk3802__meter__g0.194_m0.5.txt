@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3802 | label: meter | g:0.194 m:0.5 ---
+
+bhaviṣyati ca vistīrṇā vṛddhir asyās tu śobhanā 
+catvāraḥ sāgarā hy asyāṃ vicariṣyanti rūpiṇaḥ ।।

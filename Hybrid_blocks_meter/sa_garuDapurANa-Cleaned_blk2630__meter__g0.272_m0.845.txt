@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2630 | label: meter | g:0.272 m:0.845 ---
+
+śaratkāle api paṭhitaṃ śrāddhakāle prayacchati ।
+asmākametatpuruṣaistṛptiṃ pañcadaśābdikīm ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2034 | label: grammar | g:0.583 m:0.5 ---
+
+dharme sthitā na khalu te api namanti yeṣāṃ bhītadruteṣvapi mṛgeṣu śarāsanāni ।
+tebhyo api nindyatama eva narāśanastu jātyucchritā hi puruṣā na ca bhakṣaṇīyāḥ ।।

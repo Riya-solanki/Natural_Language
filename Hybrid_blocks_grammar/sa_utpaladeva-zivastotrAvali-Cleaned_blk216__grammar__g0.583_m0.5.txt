@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 216 | label: grammar | g:0.583 m:0.5 ---
+
+śivadāsaḥ śivaikātmā kiṃ yan nāsādayet sukham tarpyo asmi devamukhyānām api yenāmṛtāsavaiḥ ।।

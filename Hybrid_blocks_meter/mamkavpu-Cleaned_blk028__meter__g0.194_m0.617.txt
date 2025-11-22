@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 28 | label: meter | g:0.194 m:0.617 ---
+
+atra vañjulalatāgṛhe dattasaṃketā na gateti vyaṅgyaṃ guṇībhūtaṃ
+tadapekṣayā vācyasyaiva camatkāritvāt ।।

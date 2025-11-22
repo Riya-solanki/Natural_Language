@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8478 | label: meter | g:0.298 m:0.604 ---
+
+kiṅkarā ūcuḥ ।
+kva dhanaṃ kva sutā jāyā kva gṛhaṃ kva tvamīdṛśaḥ ।
+svakarmopārjitaṃ bhuṅkṣva ciraṃ gaccha mahāpathe ।।

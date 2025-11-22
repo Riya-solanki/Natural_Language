@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2616 | label: meter | g:0.102 m:0.5 ---
+
+vārāhaṃ dvādaśaṃ caiva skāndaṃ cātra trayodaśam 
+caturdaśaṃ vāmanaṃ ca kaurmaṃ pañcadaśaṃ smṛtam 
+mātsyaṃ ca gāruḍaṃ caiva brahmāṇḍaṃ ca tataḥ param ।।

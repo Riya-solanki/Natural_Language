@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 266 | label: hybrid | g:0.5 m:0.5 ---
+
+guhyaṃ guhyataraṃ kāryaṃ bāhyaṃ bāhyāntaraṃ tathā iti ।।

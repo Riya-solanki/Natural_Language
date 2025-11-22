@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 41 | label: meter | g:0.25 m:0.5 ---
+
+so aham icchāmi dharmajña śrotuṃ tvatto yathā jagat 
+babhūva bhūyaś ca yathā mahābhāga bhaviṣyati ।।

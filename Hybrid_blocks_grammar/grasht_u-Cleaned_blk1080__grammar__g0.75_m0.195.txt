@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 1080 | label: grammar | g:0.75 m:0.195 ---
+
+vajriṇīguṭikāvidhānaṃ guṇāṃścāha kāntetyādi ।।
+kāntaṃ ca ghanaṃ ca anayoḥ sattvaṃ kāntaghanasattvaṃ kāntasattvaṃ cumbakasattvaṃ ghanasattvaṃ abhrakasāraṃ kamalaṃ ceti kamalaṃ tāmraṃ ca punarhema svarṇaṃ tāraṃ ca rūpyaṃ pūrvavat yathā yena vidhānena kṛtadvandvaṃ kṛtaṃ ca tat dvandvaṃ ceti bījavaraṃ samajīrṇaṃ kāryaṃ kiṃviśiṣṭaṃ bījavaraṃ vajrayutaṃ hīrakayutam iyaṃ guṭikā nāmato vajriṇī punareṣā vajriṇīguṭikā mukhakuharagatā satī mukhāntaḥprāptā satī navanāgatulyabalaṃ navasaṃkhyākā nāgāḥ hastinastaistulyaṃ tatsamaṃ yadbalaṃ tatkurute tadvapustasya mukhe guṭikādhāriṇo vapuḥ śarīraṃ durbhedyaṃ duḥkhena bhettuṃ śakyaṃ punarmṛtyujarāvyādhibhir nirmuktam ityarthaḥ ।।
+iti vajriṇī guṭikā ।।

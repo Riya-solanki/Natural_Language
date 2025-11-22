@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 372 | label: meter | g:0.306 m:0.5 ---
+
+sattānandaḥ kriyā patyus tadabhāvo api sā paśoh ।
+dvayātmā tad rajo duḥkhaṃ śleṣi sattvatamomayam ।।

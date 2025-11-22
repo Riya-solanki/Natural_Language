@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 483 | label: meter | g:0.416 m:0.688 ---
+
+atra triliṅgatve satyapi "taṭa'-śabdasya, saukumāryāt strīliṅgameva prayuktam ।
+tena vicchintyantareṇa bhāvī nāyakavyavahāraḥ kaścidāsūtrita ityatīva ramaṇīyatvādvakratāmāvahati ।।
+idamaparametasyāḥ prakārāntaraṃ lakṣayati

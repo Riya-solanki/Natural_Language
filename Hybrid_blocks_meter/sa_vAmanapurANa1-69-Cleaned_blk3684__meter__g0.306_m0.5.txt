@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3684 | label: meter | g:0.306 m:0.5 ---
+
+tataś cāsau dānavo viṣṇuśarvau samāyātau tajjighāṃsū sureśau ।
+matvājeyau śatrubhirghorarupau bhayāstoye nimnagāyāṃ viveśa ।।

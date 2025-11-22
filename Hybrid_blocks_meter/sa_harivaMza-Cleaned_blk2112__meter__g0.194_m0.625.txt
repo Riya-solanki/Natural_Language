@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2112 | label: meter | g:0.194 m:0.625 ---
+
+yatra vai tvaṃ mahābāho jātaḥ kulakaro bhuvi 
+yādavānāṃ mahadvaṃśam akhilaṃ dhārayiṣyasi ।।

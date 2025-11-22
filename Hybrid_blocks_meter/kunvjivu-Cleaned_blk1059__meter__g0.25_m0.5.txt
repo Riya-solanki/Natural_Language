@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1059 | label: meter | g:0.25 m:0.5 ---
+
+asaṃbhṛtaṃ maṇḍanamaṅgayaṣṭe- ranāsavākhyaṃ karaṇaṃ madasya ।
+kāmasya puṣpavyatiriktamastraṃ bālyātparaṃ sātha vayaḥ prapede ।।

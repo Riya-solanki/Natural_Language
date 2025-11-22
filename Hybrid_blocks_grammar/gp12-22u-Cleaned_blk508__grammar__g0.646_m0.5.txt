@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 508 | label: grammar | g:0.646 m:0.5 ---
+
+[] pralambaḥ sa-krodham uvāca-aho, sarvaṅkaṣa-jvālasya kālasya mahimā himācalam api jvalayati, yadāśritāṃs taḍāgāṃś ca tāḍayati ।

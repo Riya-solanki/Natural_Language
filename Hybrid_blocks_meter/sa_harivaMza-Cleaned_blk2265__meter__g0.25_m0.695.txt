@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2265 | label: meter | g:0.25 m:0.695 ---
+
+kumāraṃ skandhavāhyāyāṃ śivikāyāṃ samāhitaḥ 
+śayane taṃ śiśuṃ caiva saṃveśya mṛdusaṃstare । 
+saṃveśayāmāsa śiśuṃ śayanīye mahāmatiḥ ।।

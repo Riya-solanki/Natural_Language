@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 283 | label: meter | g:0.333 m:0.5 ---
+
+tasyā upamāyā dvaividhyam । padavākyārthavṛttibhedāt । ekā padārthavṛttiḥ, anyā vākyārthavṛttiriti । padārthavṛttiryathā

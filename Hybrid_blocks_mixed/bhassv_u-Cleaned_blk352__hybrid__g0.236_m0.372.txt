@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 352 | label: hybrid | g:0.236 m:0.372 ---
+
+{vidūṣakaḥ} - bho vaassa edassiṃ ṇaare avantisundarī ṇāma jakkhiṇī paḍivasadi 
+sā tue diṭṭhā bhave 
+[bho vayasya etasmin nagare avantisundarī nāma yakṣiṇī prativasati । sā tvayā dṛṣṭā bhavet । ]

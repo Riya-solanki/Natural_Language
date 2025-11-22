@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1365 | label: meter | g:0.306 m:0.5 ---
+
+praśādhi dharmeṇa vasuṃdharāmataḥ karotu rakṣāṃ tridaśādhipaśca te ।
+tvadantikātsaṃśritabhāvanādapi svayūthyaduḥkhaṃ tu vikarṣatīva mām ।।

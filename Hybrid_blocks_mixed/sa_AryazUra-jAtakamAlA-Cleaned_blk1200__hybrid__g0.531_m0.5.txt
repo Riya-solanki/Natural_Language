@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1200 | label: hybrid | g:0.531 m:0.5 ---
+
+yo abhūnmamātra pratikūlavartī vispandamāno api sa me na muktaḥ ।
+prasahya nītaḥ praśamaṃ mayā tu tasmādyathārthaiva mama pratijñā ।।

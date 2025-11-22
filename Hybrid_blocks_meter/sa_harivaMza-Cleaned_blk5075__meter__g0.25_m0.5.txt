@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5075 | label: meter | g:0.25 m:0.5 ---
+
+pṛṣṭa evaṃ bhaviṣyasya gatiṃ tattvena cintayan 
+evaṃ bhaviṣye tu gatiṃ yogenaiva vicintayan । 
+yugānte pūrvarūpāṇi bhagavān abravīt tadā ।।

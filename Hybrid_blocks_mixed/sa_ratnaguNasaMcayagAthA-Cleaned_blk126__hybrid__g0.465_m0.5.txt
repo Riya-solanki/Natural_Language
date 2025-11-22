@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 126 | label: hybrid | g:0.465 m:0.5 ---
+
+lokasya yā tathata yā tathatārhatānāṃ । pratyekabuddhatathatā tathatā jinānām 
+ekaiva bhāvavigatā tathatā ananyā prajñāya pāramita buddha tathāgatena ।।

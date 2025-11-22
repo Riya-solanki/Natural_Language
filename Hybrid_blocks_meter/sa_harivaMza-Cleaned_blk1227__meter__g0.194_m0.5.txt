@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1227 | label: meter | g:0.194 m:0.5 ---
+
+etasminn eva kāle tu babhrur matimatāṃ varaḥ 
+nānārūpān kratūn sarvān ājahāra nirargalān ।।

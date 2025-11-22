@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1821 | label: meter | g:0.194 m:0.625 ---
+
+tam ūcur ṛṣayo devāḥ sadasyāḥ sadasi sthitāḥ 
+arghyodyatabhujāḥ sarve pavitrān taritānanāḥ ।।

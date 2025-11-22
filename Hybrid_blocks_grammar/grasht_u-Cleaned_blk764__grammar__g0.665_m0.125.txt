@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 764 | label: grammar | g:0.665 m:0.125 ---
+
+pūrvoktaṃ dṛḍhīkartumāha krāmaṇetyādi ।।
+sūto vidhinoktavidhānena krāmaṇocitā yā vasā maṇḍūkādīnāṃ tā eva ādayo yeṣāṃ teṣāṃ yogātsarati sāraṇā syāt punarbījayuto'pi sūtaḥ capalatvātilaghutvāt capalatvaṃ cañcalatvaṃ ca atilaghutvaṃ ca tasmāddhetoḥ avipluṣaḥ sthiraḥ kāryaḥ ।।

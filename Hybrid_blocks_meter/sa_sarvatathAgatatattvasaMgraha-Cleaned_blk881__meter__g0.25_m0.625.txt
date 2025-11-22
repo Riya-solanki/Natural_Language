@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 881 | label: meter | g:0.25 m:0.625 ---
+
+hāsavajra mahādharma vajrakośa mahāvara ।
+sarvamaṇḍalarājāgrya niḥprapañca namo astu te ।।

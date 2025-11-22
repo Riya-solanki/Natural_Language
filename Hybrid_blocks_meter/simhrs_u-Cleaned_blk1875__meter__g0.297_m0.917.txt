@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1875 | label: meter | g:0.297 m:0.917 ---
+
+atha khaṇḍa-cūlikā-
+raṅga-nepatha-saṃsthāyi-pātra-saṃlāpa-vistaraiḥ । 
+ādau kevalam aṅkasya kalpitā khaṇḍa-cūlikā ।
+praveśa-nirgamāprāpter iyam aṅkād bahir-gatā ।।

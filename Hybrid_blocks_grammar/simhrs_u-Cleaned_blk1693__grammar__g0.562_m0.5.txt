@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1693 | label: grammar | g:0.562 m:0.5 ---
+
+makarandaḥ -sādhu lavaṅgike sādhu । sthāne khalv anurāgopakārayor garīyasor upanyāsaḥ ।

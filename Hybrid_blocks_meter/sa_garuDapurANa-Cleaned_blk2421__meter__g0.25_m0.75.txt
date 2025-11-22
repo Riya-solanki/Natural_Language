@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2421 | label: meter | g:0.25 m:0.75 ---
+
+śilārūpeṇa cāvyaktāstasmāddevamayī śilā ।
+gayā śiraśchādayitvā gurutvādāsthitā śilā ।।

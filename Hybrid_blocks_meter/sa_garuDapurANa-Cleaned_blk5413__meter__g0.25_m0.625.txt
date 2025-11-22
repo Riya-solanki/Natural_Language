@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5413 | label: meter | g:0.25 m:0.625 ---
+
+tamuccāṭayate rudra śṛṇu tadyogamuttamam ।
+niḥ kṣiptaṃ ca purīṣaṃ vai vanamūṣikacarmaṇi ।।

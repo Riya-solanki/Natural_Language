@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3793 | label: meter | g:0.25 m:0.75 ---
+
+aghaughasaṃkṣayaṃ kṛtvā sarvasaukhyaprado bhava ।
+prīyatāṃ devadeveśo viprebhyaḥ kalaśāndadet ।
+nadyastīre ayaḥ vā kuryātsarvānkāmānavāpnuyāt ।।

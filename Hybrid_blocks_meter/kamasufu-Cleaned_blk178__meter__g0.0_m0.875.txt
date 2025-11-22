@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 178 | label: meter | g:0.0 m:0.875 ---
+
+dvitīyo adhyāyaḥ
+prakaraṇa [naṣṭa-rāga-pratyānayana-prakaraṇam]

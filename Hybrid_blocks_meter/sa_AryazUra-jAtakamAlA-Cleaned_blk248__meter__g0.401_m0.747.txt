@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 248 | label: meter | g:0.401 m:0.747 ---
+
+acintayitvā tu dhanakṣayaṃ tvayā svasaukhyahāniṃ mama ca pratāraṇām ।
+parārthasaṃpādanadhīracetasā mahattvamudbhāvitamātmasaṃpadaḥ ।।

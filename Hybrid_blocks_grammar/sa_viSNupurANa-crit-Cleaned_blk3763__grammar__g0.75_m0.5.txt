@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3763 | label: grammar | g:0.75 m:0.5 ---
+
+tatas tam ātāmrojjvalahrasvavapuṣam īṣadāpiṅgalanayanam ādityam adrākṣīt । kṛtapraṇipātastavādikaṃ ca satrājitam āha । bhagavān varam asmatto abhimataṃ vṛṇīṣveti । sa ca tad eva maṇiratnam ayācata । sa cāpi tasmai tad dattvā viyati svadhiṣṇyam āruroha ।।

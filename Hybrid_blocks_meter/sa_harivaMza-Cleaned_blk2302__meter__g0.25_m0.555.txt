@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2302 | label: meter | g:0.25 m:0.555 ---
+
+kāle gacchati saumyau tau dārakau kṛtanāmakau 
+pañca saṃvatsarān prāptau śobhayānau vrajaṃ muhuḥ । 
+kṛṣṇasaṃkarṣaṇau cobhau riṅginau samapadyatām ।।

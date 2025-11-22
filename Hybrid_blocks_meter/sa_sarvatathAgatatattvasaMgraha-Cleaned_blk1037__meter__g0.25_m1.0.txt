@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1037 | label: meter | g:0.25 m:1.0 ---
+
+īṣad daṃṣṭrākarālāsyaṃ saroṣahasitānanaṃ ।
+pratyālīḍhasa[mākrāntaṃ jvā]lāmālākulaprabhaṃ ।।

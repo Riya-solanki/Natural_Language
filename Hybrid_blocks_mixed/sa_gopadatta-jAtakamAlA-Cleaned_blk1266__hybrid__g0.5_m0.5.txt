@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1266 | label: hybrid | g:0.5 m:0.5 ---
+
+yo vāham utsṛjya tapovanāni nirantarāyāṇy abhitaḥ śivāni ।
+gṛhābhidhānaṃ bhayam āvasāmi nārhāmi nāhaṃ vyasanāny amūni ।।

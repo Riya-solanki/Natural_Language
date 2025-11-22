@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 106 | label: grammar | g:0.667 m:0.5 ---
+
+bhūyaś cāha tvam asi śayane kaṇṭhalagnā purā me nidrāṃ gatvā kim api rudatī sasvaraṃ viprabuddhā ।
+sāntarhāsaṃ kathitam asakṛt pṛcchataś ca tvayā me dṛṣṭaḥ svapne kitava ramayan kām api tvaṃ mayeti ।।

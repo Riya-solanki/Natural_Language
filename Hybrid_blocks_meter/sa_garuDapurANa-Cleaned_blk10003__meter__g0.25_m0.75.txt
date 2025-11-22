@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10003 | label: meter | g:0.25 m:0.75 ---
+
+saṃsārajasukhāsaktaṃ brahmajño asmītivādinam ।
+karmabrahmobhayabhraṣṭaṃ taṃ tyajedantyajaṃ yathā ।।

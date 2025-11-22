@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4225 | label: meter | g:0.306 m:0.5 ---
+
+tvāyā kṛtā yajñabhujo asurendrā bahiṣkṛtā ye śrutidṛṣṭamārge ।
+śrutipramāṇaṃ makhabhojino bahiḥ surāstadarthaṃ harir abhyupaiti ।।

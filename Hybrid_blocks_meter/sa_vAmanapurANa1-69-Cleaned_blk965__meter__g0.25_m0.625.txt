@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 965 | label: meter | g:0.25 m:0.625 ---
+
+tataḥ pradahyati tanau nimajyāsyāṃ lulad raviḥ ।
+varaṇāyāṃ samabhyetya nyamajjata yathecchayā ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2522 | label: meter | g:0.25 m:0.5 ---
+
+matpadāni ca te sarpa dṛṣṭvā mūrdhani sāgare 
+garudaḥ pannagaripus tvayi na prahariṣyati ।। 
+evam uktas tu kṛṣṇena patatrivaraketunā । 
+gṛhya mūrdhnā tu caraṇau kṛṣṇasyoragapuṃgavaḥ 
+paśyatām eva gopānāṃ jagāmādarśanaṃ hradāt ।।

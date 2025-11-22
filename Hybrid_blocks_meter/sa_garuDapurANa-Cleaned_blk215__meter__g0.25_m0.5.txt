@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 215 | label: meter | g:0.25 m:0.5 ---
+
+bhānostu bhānavo rudra ! muhūrtācca muhūrtajāḥ ।
+lambāyāścaiva ghoṣo atha nāgavīthistu yā mitaḥ ।।

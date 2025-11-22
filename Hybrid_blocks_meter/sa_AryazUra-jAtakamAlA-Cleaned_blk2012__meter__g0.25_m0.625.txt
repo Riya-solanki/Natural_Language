@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2012 | label: meter | g:0.25 m:0.625 ---
+
+śrutvā ca vairodhikadoṣamuktaṃ trivagamārgaṃ samupāśrayante ।
+śrutānusārapratipattisārāstarantyakṛcchreṇa ca janmadurgam ।।

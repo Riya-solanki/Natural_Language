@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1061 | label: meter | g:0.131 m:0.614 ---
+
+yathā-
+candrāpīḍaṃ sā ca jagrāha kaṇṭhe
+kaṇṭha-sthānaṃ jīvitaṃ ca prapede । tenāpūrvā sā samullāsa-lakṣmīm
+indu-spṛṣṭāṃ sindhu-lekheva bheje ।।

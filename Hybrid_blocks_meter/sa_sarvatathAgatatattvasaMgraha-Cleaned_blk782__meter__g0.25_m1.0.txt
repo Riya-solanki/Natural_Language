@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 782 | label: meter | g:0.25 m:1.0 ---
+
+ātmāniyatinād divyakāyavākcittavajrataḥ ।
+sarvapūjābhiḥ saṃbuddhān pūjayāmīti pūjyate ।।

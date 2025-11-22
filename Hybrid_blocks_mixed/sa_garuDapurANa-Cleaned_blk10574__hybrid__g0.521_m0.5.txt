@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10574 | label: hybrid | g:0.521 m:0.5 ---
+
+idaṃ tu stavanaṃ viprā na paṭhantīha mānavāḥ ।
+na śṛṇvanti ca ye nityaṃ te sarve caiva māyinaḥ ।।

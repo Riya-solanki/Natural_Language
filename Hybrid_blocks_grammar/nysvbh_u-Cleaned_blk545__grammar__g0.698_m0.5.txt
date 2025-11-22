@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 545 | label: grammar | g:0.698 m:0.5 ---
+
+ananumānāditi na idaṃ hyanumānam suvarṇaṃ kuṇḍalatvaṃ hitvā rucakatvamāpadyate rucakatvaṃ hitvā punaḥ kuṇḍalatvamāpadyate, evamikāro yaṇi yakāratvamāpannaḥ punarikāro bhavatīti ।।
+vyabhicārādananumānam yathā payo dadhibhāvamāpannaṃ punaḥ payo na bhavati kimevaṃ varṇānāṃ na punarāpattiḥ ? atha suvarṇavat punarāpattiriti ?

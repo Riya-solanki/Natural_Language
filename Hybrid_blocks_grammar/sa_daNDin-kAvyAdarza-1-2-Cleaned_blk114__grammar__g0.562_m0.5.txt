@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 114 | label: grammar | g:0.562 m:0.5 ---
+
+sahoktiḥ parivṛttyāśīḥ saṃkīrṇam atha bhāvikam iti vācām alaṃkārā darśitāḥ pūrvasūribhiḥ ।।

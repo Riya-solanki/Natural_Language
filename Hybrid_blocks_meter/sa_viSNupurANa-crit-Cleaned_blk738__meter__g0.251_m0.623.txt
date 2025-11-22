@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 738 | label: meter | g:0.251 m:0.623 ---
+
+bījād aṅkurasaṃbhūto nyagrodhaḥ sa samucchritaḥ 
+vistāraṃ ca yathā yāti tvattaḥ sṛṣṭau tathā jagat ।।

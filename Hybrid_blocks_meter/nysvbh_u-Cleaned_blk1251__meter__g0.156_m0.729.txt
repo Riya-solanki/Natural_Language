@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1251 | label: meter | g:0.156 m:0.729 ---
+
+kṣutpipāsābhyāṃ śītoṣṇābhyāṃ vyādhibhiścānicchatopi
+buddhayaḥ pravartante tasmādaikāgryā nupapattiriti
+।।

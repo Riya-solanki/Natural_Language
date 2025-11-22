@@ -1,0 +1,6 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 76 | label: meter | g:0.303 m:0.565 ---
+
+bhadraikarāgāthā 
+atītaṃ nānvāgamayen na pratikāṃkṣed anāgataṃ ।
+pratyutpannāś ca ye dharmās tatra tatra vipaśyakaḥ ।
+asaṃhāryam asaṃkṣobhyaṃ tad vidvān anubṛṃhayet ।।

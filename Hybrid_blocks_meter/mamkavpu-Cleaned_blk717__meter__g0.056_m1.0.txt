@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 717 | label: meter | g:0.056 m:1.0 ---
+
+{adhikaratalatalpaṃ kalpitasvāpalīlā-
+parimilananimīlatpāṇḍimā gaṇḍapālī ।
+sutanu kathaya kasya vyañjayatyañjasaiva
+smaranarapatilīlāyauvarājyābhiṣekam ।।}

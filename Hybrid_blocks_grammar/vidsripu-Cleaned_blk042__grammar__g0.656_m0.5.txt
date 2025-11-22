@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 42 | label: grammar | g:0.656 m:0.5 ---
+
+kasmāt pārvati niṣṭhurāsi sahajaḥ śailodbhavānām ayaṃ niḥsnehāsi kathaṃ na bhasmapuruṣaḥ snehaṃ bibharti kvacit ।
+kopas te mayi niṣphalaḥ priyatame sthāṇau phalaṃ kiṃ bhaved itthaṃ nirvacanīkṛto girijayā śambhuś ciraṃ pātu vaḥ ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1035 | label: meter | g:0.139 m:0.592 ---
+
+tatra divyo, yathā-
+tiṣṭhet kopa-vaśāt prabhāva-pihitā dīrghaṃ na sā kupyati
+svargāyotpatitā bhaven mayi punar-bhāvārdram asyā manaḥ ।
+tāṃ hartuṃ vibudha-dviṣo' pi na ca me śaktāḥ puro-vartinīṃ
+sā cātyantam agocaraṃ nayanayor yāteti ko' yaṃ vidhiḥ ।।

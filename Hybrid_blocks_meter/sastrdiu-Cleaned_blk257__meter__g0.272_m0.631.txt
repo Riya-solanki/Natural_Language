@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 257 | label: meter | g:0.272 m:0.631 ---
+
+bhāṣyakāraḥ prayuṅkte ।
+pratijñādoṣāḥ pratyakṣavirodhādayo aprasiddhaviśeṣaṇatvādayaśca vārtike prapañcitāḥ ।

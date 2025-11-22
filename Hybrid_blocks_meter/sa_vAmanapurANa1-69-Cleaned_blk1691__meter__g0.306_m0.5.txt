@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1691 | label: meter | g:0.306 m:0.5 ---
+
+sā cāha māṃ vihasatī śṛṇu sugrīva madvacaḥ ।
+satyamuktaṃ trilokeśaḥ śumbho ratnārha eva ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1110 | label: meter | g:0.194 m:0.625 ---
+
+na bhinnaṃ vividhaiḥ śastrair yasya daityendrapātitaiḥ 
+śarīram adrikaṭhinaṃ sarvatrācyutacetasaḥ ।।

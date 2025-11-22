@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4042 | label: meter | g:0.25 m:0.625 ---
+
+caturdaśasamāvāso vanerāmasya vāñchitaḥ ।
+rāmaḥ pitṛhitārthañca lakṣmaṇena ca sītayā ।।

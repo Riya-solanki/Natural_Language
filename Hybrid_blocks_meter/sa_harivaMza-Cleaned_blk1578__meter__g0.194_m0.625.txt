@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1578 | label: meter | g:0.194 m:0.625 ---
+
+yo nigṛhyendriyagrāmaṃ bhūtagrāmaṃ ca pañcakam 
+brahmacaryaṃ samādhatte kim ataḥ paramaṃ tapaḥ ।।

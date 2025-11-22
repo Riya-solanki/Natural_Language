@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 82 | label: meter | g:0.194 m:0.5 ---
+
+sarvatrāsau samastaṃ ca vasaty atreti vai yataḥ 
+tataḥ sa vāsudeveti vidvadbhiḥ paripaṭhyate ।।

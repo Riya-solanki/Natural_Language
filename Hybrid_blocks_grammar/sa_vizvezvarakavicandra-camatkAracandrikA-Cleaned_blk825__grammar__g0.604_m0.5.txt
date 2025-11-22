@@ -1,0 +1,6 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 825 | label: grammar | g:0.604 m:0.5 ---
+
+atra gehānīvācaranti gehīyantītyatra kyac pratyaya upamānādācāra iti kriyāviśeṣalakṣaṇe tulyadharmārtha eva samutpanna iti seyaṃ tulyadharmārthapratyayā nāma padopamā ।
+saivādhikaraṇakyacā yathā atra saidha iva ācarati saudhīyantītyatrādhārakyacpratyayo api tulyadharmārtha eveti seyaṃ tādṛśī ।
+saiva kriyayā yathā uddaṇḍapratigaṇjabhairava bhavadbāṇā raṇe vidbiṣāṃ bhetālanti halāhalanti dahanajvālanti kālanti ca ।
+śrīsiṅgakṣitipāla pālitaguṇa tvatkīrtivisphūrtayo nīhāranti haranti nirjaravarāhāranti hāranti ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11778 | label: meter | g:0.306 m:0.5 ---
+
+sā pārvatā rudrapatnī khagendra yā śeṣapatnī vāruṇī nāma pūrvā ।
+saivāgatā balabhadreṇa rantuṃ dvirūpamāsthāya mahāpativratā ।।

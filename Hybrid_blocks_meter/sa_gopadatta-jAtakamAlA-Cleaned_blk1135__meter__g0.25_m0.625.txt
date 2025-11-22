@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1135 | label: meter | g:0.25 m:0.625 ---
+
+varapradāne yady asti śaktis tava purandara ।
+jahīhi prakhalāṃ tāvad viṣayāśāpiśācikām ।।

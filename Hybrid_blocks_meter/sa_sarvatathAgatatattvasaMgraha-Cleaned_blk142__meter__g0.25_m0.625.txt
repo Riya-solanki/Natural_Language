@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 142 | label: meter | g:0.25 m:0.625 ---
+
+aho vīryamayo varmaḥ sudṛḍho ahaṃ dṛḍhātmanāṃ ।
+yad dṛḍhatvādakāyānāṃ vajrakāyakaraṃ paraṃ ।।

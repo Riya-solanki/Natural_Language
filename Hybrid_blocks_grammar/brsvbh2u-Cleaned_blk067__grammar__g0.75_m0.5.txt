@@ -1,0 +1,3 @@
+--- source: brsvbh2u-Cleaned.txt | block: 67 | label: grammar | g:0.75 m:0.5 ---
+
+kulālādibhyastāvadbāhyakaraṇāpekṣebhyo devādīnāṃ bāhyanapekṣāṇāmāntarakaraṇāpekṣasṛṣṭhīnāṃ pramāṇena dṛṣṭo yathā viśeṣo nāpahnotuṃ śakyaḥ, yathā tu jāgratsṛṣṭerbāhyakaraṇāpekṣāyāstadanapekṣāntarakaraṇamātrasādhyā dṛṣṭā svapne rathādisṛṣṭiraśakyāpahnotum, evaṃ sarvaśakteḥ parasyā devatāyā āntarakaraṇānapekṣāyā jagatsarjanaṃ śrūyamāṇaṃ na sāmānyato dṛṣṭamātreṇāpahnavamarhatīti ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1286 | label: hybrid | g:0.542 m:0.5 ---
+
+puṇḍrekṣukāṇḍasuhṛdo madhurāmbubhāvāḥ santaḥ svayaṃ yadi namanti namanti kāmam ।
+āndolitās tu namanaspṛhayā pareṇa bhajyanta eva śatadhā na punar namanti ।।

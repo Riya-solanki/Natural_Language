@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1811 | label: meter | g:0.194 m:0.625 ---
+
+yathā bhūtendriyāvāptir vihitā bhuvi dehinām 
+tathā prāṇeśvarāvāptir devānāṃ divi vaiṣṇavī ।।

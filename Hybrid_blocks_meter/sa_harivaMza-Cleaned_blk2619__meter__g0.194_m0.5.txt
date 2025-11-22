@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2619 | label: meter | g:0.194 m:0.5 ---
+
+vāyvīritaṃ tu megheṣu karoti ninadaṃ mahat 
+javenāvarjitaṃ caiva garjatīti janā viduḥ ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1043 | label: grammar | g:0.667 m:0.5 ---
+
+nanv evaṃ pravāsa-karuṇayoḥ ko bheda iti ced ucyate-śarīreṇa deśāntara-gamane pravāsaḥ । prāṇair deśāntara-gamane karuṇa iti ।

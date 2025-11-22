@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 230 | label: meter | g:0.203 m:0.549 ---
+
+{rājā} - chandataḥ 
+{vidūṣakaḥ} - kā bhavado piā tadāṇiṃ tattahodī vāsavadattā idāṇiṃ padumāvadī vā 
+[kā bhavataḥ priyā tadānīṃ tatrabhavatī vāsavadattā idānīṃ padmāvatī vā । ]

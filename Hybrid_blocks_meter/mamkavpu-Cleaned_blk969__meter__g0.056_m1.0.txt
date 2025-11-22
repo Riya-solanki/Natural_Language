@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 969 | label: meter | g:0.056 m:1.0 ---
+
+{ālokya komalakapolatalābhiṣikta
+vyaktānurāgasubhagāmabhirāmamūrtim ।
+paśyaiṣa bālyamativṛtya vivartamānaḥ
+śṛṅgārasīmani taraṅgitamātanoti ।।}

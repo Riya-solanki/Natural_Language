@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 337 | label: meter | g:0.295 m:0.565 ---
+
+śūnyādyabodharūpās tu kartāraḥ pralayākalāḥ 
+teṣāṃ kārmo malo apy asti māyīyas tu vikalpitaḥ ।।

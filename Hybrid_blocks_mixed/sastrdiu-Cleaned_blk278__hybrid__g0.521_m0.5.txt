@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 278 | label: hybrid | g:0.521 m:0.5 ---
+
+sādharmyābhāsāśca sādhyavikalatvādayaḥ, vaidharmyābhāsāśca sādhyābhāvavaikalyādayo vārtika eva draṣyavyā iti ।।

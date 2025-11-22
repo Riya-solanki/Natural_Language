@@ -1,0 +1,8 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 47 | label: meter | g:0.25 m:0.5 ---
+
+sarvatra hi phalaṃ sādhyatvāt siddharūpaṃ sādhanam apekṣate, na sādhyāntaram ।
+nāmārthaś ca siddhatvāt tadapekṣāpūraṇasamarthaḥ, nākhyātārthaḥ ।
+svayam eva sādhyatvāt ।
+tasmāt dravyādibhiḥ phalamiti prāpte, sūtreṇottaraṃ dīyate ।
+bhāvārthāḥ karmaśabdā ye tebhyo apūrvakriyāgatiḥ ।
+taiḥ kuryād yajinā svargam eṣa hy artho vidhīyate ।।

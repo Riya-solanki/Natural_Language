@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 401 | label: grammar | g:0.606 m:0.127 ---
+
+ato dīrgho yañi ।।
+ato aṅgasya dīrgho yañādau sārvadhātuke । bhavāvaḥ । sa bhavati । te bhavanti । yuvāṃ bhavathaḥ । ahaṃ bhavāmi । vayaṃ bhavāmaḥ ।।

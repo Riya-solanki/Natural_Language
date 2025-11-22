@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 128 | label: meter | g:0.194 m:0.625 ---
+
+sādridvīpasamudrāś ca sajyotir lokasaṃgrahaḥ 
+tasminn aṇḍe abhavad vipra sadevāsuramānuṣaḥ ।।

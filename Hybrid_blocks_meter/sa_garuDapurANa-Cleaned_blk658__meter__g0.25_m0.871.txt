@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 658 | label: meter | g:0.25 m:0.871 ---
+
+pūrake pūritā mantrāḥ kumbhakena sumantritāḥ ।
+praṇavenāpyāyitāste manavastadudīritāḥ ।
+evamāpyāyitā mantrā bhṛtyavatphaladāyakāḥ ।।

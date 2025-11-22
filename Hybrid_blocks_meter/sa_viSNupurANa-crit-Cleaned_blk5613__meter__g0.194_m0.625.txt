@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5613 | label: meter | g:0.194 m:0.625 ---
+
+kṣiteś ca bhāraṃ bhagavān phālgunena samaṃ vibhuḥ 
+avatārayām āsa hariḥ samastākṣauhiṇīvadhāt ।।

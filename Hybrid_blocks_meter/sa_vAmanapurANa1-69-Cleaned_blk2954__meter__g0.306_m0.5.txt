@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2954 | label: meter | g:0.306 m:0.5 ---
+
+sā prāha śrūyatāṃ brahman vadiṣye vacanaṃ hitam ।
+kātareṇādya yatpṛṣṭaṃ bhāvyaḥ kārurayaṃ ki ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6226 | label: meter | g:0.25 m:0.5 ---
+
+nanau bhanau praharaṇakalikeyaṃ lagau tathā ।
+vasantatilakā siṃhonnatā tabhjā jagau guruḥ ।।

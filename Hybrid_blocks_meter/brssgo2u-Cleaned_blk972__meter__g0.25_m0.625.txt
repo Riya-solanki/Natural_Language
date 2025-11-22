@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 972 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ viṣayamuktvā doṣaṃ śaṅkate-atrāheti ।
+taduttaratvena sūtraṃ vyācaṣṭe-tuśabdeneti ।
+svabhāvādhikyaṃ vaiśeṣyaṃ kimarthe kṛtamityata āha-vyavahāraprasiddhyarthamiti ।
+evaṃ smṛtinyāyamatāntaraśrutibhiravirodho brahmaṇi vedāntatātparyasyeti siddham ।।

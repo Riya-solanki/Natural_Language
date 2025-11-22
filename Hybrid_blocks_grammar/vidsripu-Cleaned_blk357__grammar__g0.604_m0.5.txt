@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 357 | label: grammar | g:0.604 m:0.5 ---
+
+dhanur mālā maurvī kvaṇadalikulaṃ lakṣyam abalā mano bhedyaṃ śabdaprabhṛtaya ime pañca viśikhāḥ ।
+iyāñ jetuṃ yasya tribhuvanam adehasya vibhavaḥ sa vaḥ kāmaḥ kāmān diśatu dayitāpāṅgavasatiḥ ।।

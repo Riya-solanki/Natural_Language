@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 90 | label: hybrid | g:0.521 m:0.5 ---
+
+aṣṭāpi ślokāḥ spaṣṭā eva kevalaṃ cilharī kuṣṭhabheda eva ।।

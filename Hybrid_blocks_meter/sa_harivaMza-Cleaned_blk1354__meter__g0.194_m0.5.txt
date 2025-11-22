@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1354 | label: meter | g:0.194 m:0.5 ---
+
+vāyur gaviṣṭho namuciḥ śambaro vikṣaro mahān 
+candrahantā krodhahantā krodhavardhana eva ca ।।

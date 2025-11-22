@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4874 | label: meter | g:0.302 m:0.806 ---
+
+pādayormūlamāsthāya kadāciddhastayorapi ।
+ākhoriva vilaṃ kruddhaḥ kṛtsnaṃ dehaṃ bidhāvati ।।

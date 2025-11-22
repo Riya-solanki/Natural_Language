@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4020 | label: hybrid | g:0.5 m:0.5 ---
+
+rāvaṇasya gṛhe sītā sthitā bheje na rāvaṇam ।
+karmaṇā manasā vācā sā gatā rāghavaṃ sadā ।।

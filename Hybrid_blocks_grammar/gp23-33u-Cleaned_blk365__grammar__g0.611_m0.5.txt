@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 365 | label: grammar | g:0.611 m:0.5 ---
+
+[] atha tasyāṃ niśi diśi diśy api darśita-tamasi rahita-dantagaraḥ kaścij jarada-jagaraḥ sarpaḥ sarpan vrajarāja-caraṇa-rājīvaṃ nijagāra ।
+[] tena ca vīryavattayā nigīryamāṇe caraṇe śaraṇecchur vraja-dharaṇīśaḥ santata-kṛṣṇa-sphūrti-pūrti-pracita-cittatayā jāgrad eva kṛṣṇam uddiśya cukrośa । yathā-

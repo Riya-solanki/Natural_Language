@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 235 | label: hybrid | g:0.517 m:0.5 ---
+
+puruṣo ya agru ratanasya alabdhapūrvo aparasmi kāli puna labdhva bhaveya tuṣṭo 
+sa ha labdhva nāśayi puno api pramādabhūto nāśitva duḥkhi satataṃ ratanābhikāṅkṣī ।।

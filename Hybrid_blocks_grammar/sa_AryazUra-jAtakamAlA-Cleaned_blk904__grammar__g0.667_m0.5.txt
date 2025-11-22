@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 904 | label: grammar | g:0.667 m:0.5 ---
+
+tadevaṃ dharmāśrayaṃ satyavacanamapyāpadaṃ nudati prāgeva tatphalamiti dharmānuvartinā bhavitavyam । kalyāṇamitrāśrayavarṇe api vācyamevaṃ kalyāṇamitrāśritāḥ śreyaḥ prāpnuvantīti ।

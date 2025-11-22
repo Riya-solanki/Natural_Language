@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 696 | label: grammar | g:0.625 m:0.25 ---
+
+svāpaprabodhayośca pralayaprabhavau śrūyete- ayadā suptaḥ svapnaṃ na kañcana paśyatyathāsminprāṇa evaikadhā bhavati tadenaṃ vāksarvairnābhiḥ sahāpyeti cakṣuḥ sarvai rūpaiḥ sahāpyeti śrotraṃ sarvaiḥ śabdaiḥ sahāpyeti manaḥ sarvairdhyānaiḥ sahāphayeti sa yadā pratibudhyate yathāgnerjjvalataḥ sarvā diśo visphuliṅgā vipratiṣṭherannevamevaitasmādātmanaḥ sarve prāṇā yathātanaṃ vipratiṣṭante prāṇebhyo devā devebhyo lokāḥ iti ।
+syādetat ।
+svāpe puruṣāntaravyavahārāvicchedātsvayaṃ ca suptaprabuddhasya pūrvaprabodhavyavahārānusaṃdhānasaṃbhavādaviruddham ।
+mahāpralaye tu sarvavyavahārocchedājjanmāntaravyavahāravacca kalpāntaravyavahārasyānusaṃdhātumaśakyatvādvaiṣamyamiti ।

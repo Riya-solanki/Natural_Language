@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 266 | label: meter | g:0.25 m:0.625 ---
+
+bṛhaspatir mahātejāḥ pātraṃ chandāṃsi bhārata 
+kṣīram āsīd anupamaṃ tapo brahma ca śāśvatam ।।

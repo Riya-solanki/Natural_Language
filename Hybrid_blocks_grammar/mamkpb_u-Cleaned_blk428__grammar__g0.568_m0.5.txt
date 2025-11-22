@@ -1,0 +1,9 @@
+--- source: mamkpb_u-Cleaned.txt | block: 428 | label: grammar | g:0.568 m:0.5 ---
+
+sahajam āgantukaṃ vā kimapi sādhāraṇaṃ yat lakṣaṇam taddvāreṇa yat kiṃcit kenacidvastu vastusthityaiva balīyastāyā tirodhīyate tat mīlitamiti dvidhā smaranti ।
+krameṇodāharaṇam apāṅgatarale dṛśau madhuravakravarṇā giro vilāsabharamantharā gatiratīva kāntaṃ mukham ।
+iti sphuritamaṅgake mṛgadṛśaḥ svato līlayā tadatra na madodayaḥ kṛtapado api saṃlakṣyate ।।
+atra dṛktaralatādikamaṅgasya liṅgaṃ svābhāvikam sādhāraṇaṃ ca mahodayena tatrāpyetasya darśanāt ।
+ye kandarāsu nivasanti sadā himādrestvatpātaśaṅkitadhiyo vivaśā dviṣaste ।
+apyaṅgamutpulakamudvahatāṃ sakampaṃ teṣāmaho bata bhiyāṃ na budho apyabhijñaḥ ।।
+atra tu sāmarthyādavasitasya śaityasya, āgantukatvāttatprabhavayorapi kampapulakayostādrūpyaṃ samānatā ca bhayeṣvapi tayorupalakṣitatvāt ।।

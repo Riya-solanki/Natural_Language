@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4885 | label: meter | g:0.217 m:0.845 ---
+
+roṣeṇābhiprajajvāla bhasmanā kṛṣṇapūrvajaḥ 
+niḥśvasañ jṛmbhamāṇaś ca nidrānvitatanur muhuḥ ।।

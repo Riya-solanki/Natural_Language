@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 987 | label: grammar | g:0.625 m:0.5 ---
+
+atra nāyikā-kapola-cumbana-vyājena tat-pratibimbitāṃ sakhīṃ cumbati nāyake tad-īrṣyayā janito nāyikā-mānaḥ pratyakṣa-mantukārakety anayā sambuddhyā vyajyate ।

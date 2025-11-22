@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 628 | label: meter | g:0.333 m:0.5 ---
+
+[] yatra śrī-vraja-devībhir api nija-bhāva-vyaktiṃ śaṅkamānābhiḥ saṅkarṣaṇaṃ lakṣyaṃ vidhāya tad varṇayāmāse, yathā-

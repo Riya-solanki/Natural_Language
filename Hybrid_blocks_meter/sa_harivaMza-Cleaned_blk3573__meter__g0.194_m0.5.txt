@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3573 | label: meter | g:0.194 m:0.5 ---
+
+rathasthau daṃśitau caiva ceratus tatra yādavau 
+makarāv iva saṃrabdhau samudrakṣobhaṇāv ubhau ।।

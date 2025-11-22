@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 475 | label: grammar | g:0.622 m:0.137 ---
+
+ete vakṣyamāṇā aṣṭau rasāḥ rasasaṃjñakāḥ syuḥ ।।
+ete ke vaikrāntakāntasasyakamākṣikavimalādridaradarasakāś ceti vaikrāntaṃ vajrabhūmijaṃ rajaḥ kāntaṃ cumbakotthaṃ sasyakaṃ capalaṃ mākṣikaṃ tāpyaṃ vimalā raupyamākṣikaṃ adri śilājatu daradaṃ hiṅgulaṃ rasakaḥ kharparikaḥ ete rasasaṃjñikā jñeyāḥ ।।
+tathā eṣāṃ satvāni sārāṇi rasāyanāni jarāvyādhināśanāni syuriti ।।

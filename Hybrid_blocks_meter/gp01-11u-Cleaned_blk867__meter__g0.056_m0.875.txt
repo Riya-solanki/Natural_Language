@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 867 | label: meter | g:0.056 m:0.875 ---
+
+badhnatī na tu sutaṃ vrajeśvarī
+pāram āpa tad apāra-karmaṇaḥ ।
+gharma-vāri-varimāṇam āvrajad
+vāra-vāram alakāvṛtīr api ।। [rathoddhatā]

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1162 | label: meter | g:0.25 m:0.75 ---
+
+krodhamuṣṭiṃ dvidhīkṛtya vajragarvādiyogataḥ ।
+karmamudrāḥ samāsena mahavajrakule smṛtāḥ ।।

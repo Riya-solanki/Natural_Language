@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1143 | label: meter | g:0.217 m:0.845 ---
+
+brāhmaṇaṃ kṣatriyaṃ vaiśyaṃ śūdraṃ prākṛtam antyajam 
+mātaṅgamlecchajātyutthaṃ bauddhasāṅkhyadigambaram ।।

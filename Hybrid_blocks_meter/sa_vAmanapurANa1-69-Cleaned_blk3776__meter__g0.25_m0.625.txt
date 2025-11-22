@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3776 | label: meter | g:0.25 m:0.625 ---
+
+tān saṃkṣubdhān haro dṛṣṭvā maharṣīn dagdhakilbiṣān ।
+teṣāmevānukampārthaṃ koṭimūrttirabhūd bhavaḥ ।।

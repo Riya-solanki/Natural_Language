@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 980 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha yamunā-taraṅga-saṅgha-saṅgata-māruta-digdha-snigdha-vana-lekheyam āsannā iti mātṛ-yugala-saṃlāpaṃ niśamya samyag utthitaḥ kṛṣṇaḥ saṅkarṣaṇa-saṅkaraḥ prāg ajñātān jñātān api naga-mṛga-khagān hasantībhiḥ skhalita-dantībhir vivādataḥ sarvān apūrvān iva pṛcchann uttaram āyacchaṃś ca tat-kūlānukūla-vanam āsasāda ।

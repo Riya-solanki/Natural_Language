@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1050 | label: meter | g:0.194 m:0.625 ---
+
+adharme dhīyamānasya sadbhiḥ syān me nibarhaṇam 
+ugreṇa pṛthivīṃ jitvā dharmeṇaivānurañjanam ।।

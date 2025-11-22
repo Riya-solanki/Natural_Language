@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 630 | label: meter | g:0.194 m:0.625 ---
+
+drāvaṇaṃ kṣobhaṇaṃ caiva ākarṣavaśam eva ca 
+pūjāvidhānaṃ deveśi devyāyā vīravandite ।।

@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 91 | label: meter | g:0.41 m:0.597 ---
+
+cittamātramidaṃ sarvaṃ māyākārasamutthitam । tataḥ śubhāśubhaṃ karma tato janma śubhāśubham ।। iti ।
+karmāntavibhāgamelāvaṇasaṃśayaparicchedaḥ pañcamaḥ ।।
+ṣaṣṭhaḥ paricchedaḥ ।

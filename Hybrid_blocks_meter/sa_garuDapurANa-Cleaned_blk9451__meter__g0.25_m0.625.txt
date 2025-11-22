@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9451 | label: meter | g:0.25 m:0.625 ---
+
+sapatnyo yadi bahvyaḥ syurekā putravatī bhavet ।
+sarvāstāḥ putravatyaḥ syustenaikenātmajena hi ।।

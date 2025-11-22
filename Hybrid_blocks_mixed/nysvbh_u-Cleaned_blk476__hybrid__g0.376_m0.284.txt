@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 476 | label: hybrid | g:0.376 m:0.284 ---
+
+yadyanupalambhādāvaraṇaṃ nāsti ? āvaraṇānupalabdhirapi tarhyanupalambhānnāstīti tasyā abhāvādapratiṣiddhamāvaraṇamiti।
+kathaṃ punarjānīte bhavān nāvaraṇānupalabdhirupalabhyate ? iti।
+kimatra jñeyaṃ pratyātmavedanīyatvāt।
+samānam ayaṃ khalvāvaraṇamanupalabhamānaḥ pratyātmameva saṃvedayate anāvaraṇamupalabhe' iti, yathā kuḍyenāvṛtasyāvaraṇamupalabhamānaḥ pratyātmameva saṃvedayate, seyamāvaraṇopalabdhivad āvaraṇānupalabdhirapi saṃvedyaiveti, evaṃ ca satyapahṛtaviṣayamuttaravākyamastīti ।।

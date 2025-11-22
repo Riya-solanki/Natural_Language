@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4396 | label: meter | g:0.194 m:0.5 ---
+
+saṃkarṣaṇaṃ tu skandhena śīghram utkṣipya dānavaḥ 
+na tasthau prajagāmaiva sacandra iva vāridaḥ ।।

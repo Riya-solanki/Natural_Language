@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 102 | label: meter | g:0.25 m:0.625 ---
+
+dānādau ṣaḍvidhe teṣāṃ pratyekaṃ saṃgraheṇa yā ।
+sannāhapratipattiḥ sā ṣaḍbhiḥ ṣaṭkairyathoditāḥ ।।

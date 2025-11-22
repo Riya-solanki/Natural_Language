@@ -1,0 +1,10 @@
+--- source: gp23-33u-Cleaned.txt | block: 529 | label: meter | g:0.194 m:0.625 ---
+
+utpattir akṣṇor abhito na sat-phalā
+yābhyāṃ na tasyadbhuta-rūpam īkṣitam ।
+hā karṇayor apy alam arthadā na sā
+yābhyāṃ śrutaṃ naiva hareḥ subhāṣitam ।।
+hā cakṣur-ādīni hareḥ samāgame
+yady āgamiṣyan śravaṇādi karma ca ।
+tad āvrajiṣyan viṣayīṇi nāpy amūny
+aṣūyayā dhig vyatidūyamānatām ।। iti ।

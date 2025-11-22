@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 438 | label: hybrid | g:0.51 m:0.5 ---
+
+tatra dravyaguṇayoḥ kāryaṃ prati sākṣādaviṣayatvepi bhāvārthaṃ pratyanubandhatayā vidhīyetetyarthaḥ ।
+phyadyapyatrāpi bhāvārthaviṣayameva kāryaṃ, tathāpi bhāvārthānubandhatayā dravyaguṇāvaviṣayāvapi vidhīyete ।

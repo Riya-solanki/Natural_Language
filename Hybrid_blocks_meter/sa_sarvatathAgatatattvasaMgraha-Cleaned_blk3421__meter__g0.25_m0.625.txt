@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3421 | label: meter | g:0.25 m:0.625 ---
+
+dharmamudrāprayogeṇa sūkṣmavajreṇa bhāvanā ।
+vāṅmudrāṇāṃ [tu tatsarvaṃ mahāsatvasya samādhi ।।

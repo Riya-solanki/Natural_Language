@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2924 | label: meter | g:0.194 m:0.5 ---
+
+kva ca gopatvam aśubhaṃ mānuṣyaṃ mṛtyudurbalam 
+kva ca devaprabhāvena krīḍitavyaṃ vraje mama ।।

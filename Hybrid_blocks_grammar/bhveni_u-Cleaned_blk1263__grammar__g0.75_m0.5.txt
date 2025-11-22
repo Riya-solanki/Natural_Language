@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 1263 | label: grammar | g:0.75 m:0.5 ---
+
+ārya jayaṃdhara tvayāpi sahadevasakāśaṃ gantavyam । vaktavyaśca tatrabhavānpāṇḍukulabṛhaspatirmādreyaḥ kanīyānasmākam । sakalakurukulakamalākaradāvānalo yudhiṣṭhiraḥ paralokamabhiprasthitaḥ priyānujamapratikūlaṃ satatamāśaṃsanīyamasaṃmūḍhaṃ vyasane abhyudaye ca dhṛtimantaṃ bhavantamaviralamāliṅgya śirasi cāghrāyedaṃ prārthayate ।

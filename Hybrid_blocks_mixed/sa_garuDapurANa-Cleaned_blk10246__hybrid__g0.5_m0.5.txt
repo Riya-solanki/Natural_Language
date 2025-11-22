@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10246 | label: hybrid | g:0.5 m:0.5 ---
+
+vadanti ye asurā mūḍharūpā adhaṃmataḥ praviśantyeva sarve ।
+māyā nāma prakṛtistvemāhuḥ susūkṣmarūpā na tu cendrajālikā ।।

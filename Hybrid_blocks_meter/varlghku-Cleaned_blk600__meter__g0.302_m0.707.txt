@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 600 | label: meter | g:0.302 m:0.707 ---
+
+gāṅkuṭādibhyo añṇinṅit ।।
+gāṅādeśātkṛṭādibhyaśca pare añṇitaḥ pratyayā ṅitaḥ syuḥ ।।

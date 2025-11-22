@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10816 | label: meter | g:0.272 m:0.97 ---
+
+yamasyānantaraṃ candraṃ triṃśadvarṣādanantaram ।
+asṛjaddakṣiṇācchotrācchotratattvaniyāmakam ।।

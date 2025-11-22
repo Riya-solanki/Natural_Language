@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 66 | label: hybrid | g:0.401 m:0.512 ---
+
+atigambhīratā-
+gāmbhīryam avikāraḥ syāt saty api kṣobha-kāraṇe ।।

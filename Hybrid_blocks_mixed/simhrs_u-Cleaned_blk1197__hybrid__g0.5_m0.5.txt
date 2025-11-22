@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1197 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā bāla-rāmāyaṇe mukha-sandhau rāmasya lokottarotkarṣa-prāptaye vyavasāya-mātram ārambhaḥ ।

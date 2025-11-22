@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6495 | label: meter | g:0.25 m:0.521 ---
+
+yathāsukhaṃ vāgyatā juṣadhvam iti brūyāt ।
+buktavatsu saptavyādhādikaṃ pitṛstotraṃ japet ।
+tacca-saptavyādhā daśārṇeṣu mṛgāḥ kālañjare girau ।
+cakravākāḥ śarādvīpe haṃsāḥ sarasi mānase ।।

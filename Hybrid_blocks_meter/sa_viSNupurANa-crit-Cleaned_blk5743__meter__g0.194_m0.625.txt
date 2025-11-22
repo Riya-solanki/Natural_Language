@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5743 | label: meter | g:0.194 m:0.625 ---
+
+sa dadarśa tato vyāsaṃ phālgunaḥ kānanāśrayam 
+tam upetya mahābhāgaṃ vinayenābhyavādayat ।।

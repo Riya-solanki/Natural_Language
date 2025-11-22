@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11102 | label: hybrid | g:0.542 m:0.5 ---
+
+anantakarṇeśa sucandrasaṃjña śrotreṇa nityaṃ na kathā śrutā te ।
+śrutā mayā bahudhā lokavārtā dṛṣṭo mayā tvaṃ kena puṇyena deva ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8352 | label: meter | g:0.306 m:0.625 ---
+
+svadattaṃ paradattaṃ vā nehāmutropatiṣṭhati ।
+trayodaśā tathā sapta pañca trīṇī krameṇa tu ।।

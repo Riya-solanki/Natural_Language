@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2961 | label: meter | g:0.25 m:0.5 ---
+
+snāto nāṅgāni nirmārjet snānaśāṭyā na pāṇinā 
+na ca nirdhūnayet keśān nācāmec caiva cotthitaḥ ।।

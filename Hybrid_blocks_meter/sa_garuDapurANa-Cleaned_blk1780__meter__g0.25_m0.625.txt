@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1780 | label: meter | g:0.25 m:0.625 ---
+
+snigdhonnatau tāmranakhau nāryāśca caraṇau śubhau ।
+matsyāṅkuśābjacihnau ca cakralāṅgalalakṣitau ।।

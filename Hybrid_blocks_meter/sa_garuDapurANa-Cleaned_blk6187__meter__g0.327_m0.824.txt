@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6187 | label: meter | g:0.327 m:0.824 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+vāsudevaṃ guruṃ natvā gaṇaṃ śambhuṃ sarasvatīm ।
+mātrāvarṇaprabhedena cchando vakṣye alpabuddhaye ।।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1774 | label: grammar | g:0.75 m:0.5 ---
+
+atha vajramu[khī vajraceṭī sva]karmasamayāmabhāṣāt oṃ vajramukhi ānaya vajradaṃṣṭri bhayānike pātālanivāsini khana khana khāhi khāhi sarva mukhe [praveśaya sphoṭa]ya marmāṇi sarvaduṣṭānāṃ vajraniśitāsidhāriṇi huṃ phaṭ ।।

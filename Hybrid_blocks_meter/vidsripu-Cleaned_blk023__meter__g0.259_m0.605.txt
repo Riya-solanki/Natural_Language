@@ -1,0 +1,7 @@
+--- source: vidsripu-Cleaned.txt | block: 23 | label: meter | g:0.259 m:0.605 ---
+
+kṛpāvṛṣṭisphūtāt tava hṛdayapīyūṣasarasaḥ pravāho nirgatya kramatanimaramyaḥ karuṇayā ।
+tṛṣārtānām īṣadvitatam adharāntaḥ prati gati- praṇālībhiḥ pañcābhavad iti kim anyad bhujakarāt ।।
+।var{@dvitatamadharāntaḥ prati gati@।lem
+। ।Ingalls, @dvitatimadhurāntaḥpratigati@ ।edKG}
+trilocanasya

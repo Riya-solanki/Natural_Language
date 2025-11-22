@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1996 | label: meter | g:0.25 m:0.5 ---
+
+tatra pāṇḍoḥ śriyā juṣṭe dve bhārye yauvanasthite 
+śubhe kuntī ca mādrī ca devayoṣopame bhuvi ।।

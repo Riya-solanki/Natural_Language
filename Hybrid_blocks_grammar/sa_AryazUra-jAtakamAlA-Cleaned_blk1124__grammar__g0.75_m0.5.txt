@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1124 | label: grammar | g:0.75 m:0.5 ---
+
+atha sā bodhisattvasya patnī tena mātuḥ karuṇenākṛtakena paridevitena patipravrajyābhisaṃbandhena strīsvabhāvād vyathitahṛdayā sasaṃbhramā viṣādaviklavamukhī śokaduḥkhābhinipātasaṃkṣobhādvismṛtakathāprastāvasaṃbandhā pravrajito me bharteti madvyavasthāpanārthamambā gṛhamidamabhigatā vipriyaśravaṇāditi niścayamupetya saparidevitaṃ sasvaraṃ rudatī mohamupajagāma bālā । tadupaśrutya gṛhajanaḥ parijanavargaśca śokaduḥkhāvegādākrandanaṃ cakāra । tacchrutvā prātiveśyamitrasvajanabandhuvargaḥ saṃśritajano brāhmaṇagṛhapatayaśca tasya gṛhapateranurāgavaśānugāḥ prāyaśaśca paurāstadgṛhamabhijagmuḥ ।

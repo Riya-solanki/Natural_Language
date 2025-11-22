@@ -1,0 +1,5 @@
+--- source: brsgor2u-Cleaned.txt | block: 10 | label: meter | g:0.294 m:0.659 ---
+
+caitanyābhivyaktyanabhivyaktibhyāmityarthaḥ ।
+sarvasya cetanatvamekadeśyuktamaṅgīkṛtya sāṃkhyaḥ pariharati- tenāpi kathañciditi ।
+aṅgīkāraṃ tyaktvā sūtraśeṣeṇa pariharati- na cetyādinā ।

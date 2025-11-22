@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2085 | label: hybrid | g:0.5 m:0.5 ---
+
+satyavarato bhava visarjaya sattvahiṃsāṃ bandīkṛtaṃ janamaśeṣamimaṃ vimuñca ।
+adyā na caiva naravīra manuṣyamāṃsametān varānanavarāṃścaturaḥ prayaccha ।।

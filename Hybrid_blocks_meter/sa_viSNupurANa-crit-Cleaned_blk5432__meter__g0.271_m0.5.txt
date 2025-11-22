@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5432 | label: meter | g:0.271 m:0.5 ---
+
+rahasyam etad vaktavyaṃ na kasyacid api priye ।। b

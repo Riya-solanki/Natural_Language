@@ -1,0 +1,5 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 460 | label: meter | g:0.102 m:0.5 ---
+
+tatkṣaṇād amaratvaṃ ca khecaratvaṃ dadāti ca 
+ajīrṇaṃ tumbābījaṃ tu sūtakaṃ yastu vātayet 
+brahmahā sa durācāro mama drohī maheśvari ।।

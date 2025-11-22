@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9759 | label: meter | g:0.307 m:0.623 ---
+
+yajñopavītī kurvīta pretanāma prakīrtayet ।
+pretaṃ yamaṃ ca viṣṇuṃ ca smaran śrāddhaṃ samāpayet ।।

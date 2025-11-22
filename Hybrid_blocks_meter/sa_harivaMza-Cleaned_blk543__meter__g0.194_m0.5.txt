@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 543 | label: meter | g:0.194 m:0.5 ---
+
+tasmāt tavāhaṃ suprītaḥ prītyā varam anuttamam 
+dadāni tvaṃ pratīcchasva triṣu lokeṣu durlabham ।।

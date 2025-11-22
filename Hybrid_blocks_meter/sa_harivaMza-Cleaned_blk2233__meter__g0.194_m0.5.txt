@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2233 | label: meter | g:0.194 m:0.5 ---
+
+śrīmanto me hatāḥ sapta putragarbhās tvayā vibho 
+dārikeyaṃ hataivaiṣā paśyasva yadi manyase ।।

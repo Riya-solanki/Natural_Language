@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 666 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa mahāsattvo guṇānuvṛttisthirānurāgeṇa mahatā balena parivṛtaḥ svapuravarād viniryayau ।। nirgacchantaṃ cainaṃ dūrvāpravālakusumaphalavyagrātyucchritaikapāṇayo dvijavarā jaya jaya mahārājety uccair ānandayām āsuḥ ।। atha sa mahātmā laukikamaṅgalāpariniṣpattim abhiprakāśayan buddhānām eva ca bhagavatāṃ guṇānuvādaṃ maṅgalaṃ codbhāvayan vyāpinā svareṇa tān amaṅgale maṅgalābhiniveśino viprān abravīt ।।

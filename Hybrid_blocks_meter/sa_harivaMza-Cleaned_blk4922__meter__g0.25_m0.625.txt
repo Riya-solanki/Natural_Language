@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4922 | label: meter | g:0.25 m:0.625 ---
+
+adya hi tvaṃ mayā yuddhe nirjitaḥ saha bāndhavaiḥ 
+dvārakāṃ śoṇitapure nihataḥ saṃsmariṣyasi ।।

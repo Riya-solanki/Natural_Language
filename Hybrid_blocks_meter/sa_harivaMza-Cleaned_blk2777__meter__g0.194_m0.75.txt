@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2777 | label: meter | g:0.194 m:0.75 ---
+
+kham asthirāṇāṃ viṣayo vāyunā tulyavṛttinām 
+gatiḥ śamadamāḍhyānāṃ svargaḥ sukṛtakarmaṇām ।।

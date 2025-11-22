@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9706 | label: meter | g:0.381 m:0.774 ---
+
+pātrāsādanaṃ śrapaṇamupayamanakuśādikam ।
+puryukṣaṇānte homaṃ ca karyā dvai brāhmaṇena tu ।।

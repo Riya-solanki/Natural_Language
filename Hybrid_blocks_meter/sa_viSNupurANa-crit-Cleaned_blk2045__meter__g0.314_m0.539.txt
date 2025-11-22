@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2045 | label: meter | g:0.314 m:0.539 ---
+
+tārāmayaṃ bhagavataḥ śiśumārākṛti prabhoḥ 
+divi rūpaṃ harer yat tu tasya pucche sthito dhruvaḥ ।।

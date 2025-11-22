@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 369 | label: meter | g:0.25 m:0.555 ---
+
+evaṃ stutā tadā devī viṣṇorjihvā sarasvatī ।
+pratyuvāca mahātmānaṃ mārkaṇḍeya mahāsunim ।
+yatra tvaṃ neṣyase vipra tatra yāsyāmyatandritā ।।

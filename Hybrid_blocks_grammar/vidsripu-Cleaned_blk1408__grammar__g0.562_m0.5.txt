@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1408 | label: grammar | g:0.562 m:0.5 ---
+
+yasyāḥ kṛte nṛpatayas tṛṇavat tyajanti prāṇān priyān api parasparabaddhavairāḥ ।
+teṣām asṛk pibati saiva mahī hatānāṃ śrīḥ prāyaśo vikṛtim eti bahūpabhuktā ।।

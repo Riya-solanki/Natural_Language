@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 950 | label: meter | g:0.306 m:0.5 ---
+
+lajjāṃ nimīlayati sarvaguṇāgrabhūtāṃ kīrtiṃ kalaṅkayati nirvikalaprasādām ।
+dharmātmanām api ca nāma tiraskaroti śreyāṃsi meruśikharapratimāni rāgaḥ ।।

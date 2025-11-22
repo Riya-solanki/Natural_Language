@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 926 | label: grammar | g:0.75 m:0.5 ---
+
+na tāvad atra garvaḥ । kiṃ tu pūrvam apakartāraṃ paścād bhītaṃ dviṣantam avalokya jātayā sama-ravi-mukhaṃ na hanmi mā bhaiṣīr iti vāk-sūcitayā nīce dayayā kasyacid vīra-sārvabhaumasya śobhā nāma pauruṣa-sāttvika-bhāvaḥ pratīyate । yadi vā abhītam api śatruṃ bhīto yadi tarhi palāyasvety adhikṣipatīti garva iti ced astu vā garvaḥ । tathāpy asatyabhītikalpanā-rūpa-cittādhyavasāya-prakāśana-dvāreṇa śatru-gata-krodham eva puṣṇāti । kiṃ ca vimukhāprahāra-rūpātma-sambhāvanā-rūpa-garvasya asatya-bhīti-kalpanopabṛṃhaṇāt poṣo bhāvakānāṃ vairasyāya, na kevalaṃ svādābhāvāyeti nāsminn udāharaṇe garvasya sthāyitvam upapadyate ।

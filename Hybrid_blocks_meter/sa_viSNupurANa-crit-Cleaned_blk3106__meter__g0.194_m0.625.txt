@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3106 | label: meter | g:0.194 m:0.625 ---
+
+sutṛptais tair anujñātaḥ sarveṇānnena bhūtale 
+satilena tataḥ piṇḍān samyag dadyāt samāhitaḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2756 | label: meter | g:0.25 m:0.667 ---
+
+tasyopaviṣṭasya sukham pakṣābhyāṃ pakṣipuṃgavaḥ 
+antardhānagataś chāyām cakāroragabhojanaḥ ।। 
+chāyayā ca tayā yuktaṃ keśavaṃ yajñarūpiṇam । 
+taṃ vivikte nagagataṃ lokavṛttāntatatparam 
+upatasthe gajaṃ hitvā kṛṣṇaṃ balaniṣūdanaḥ ।।

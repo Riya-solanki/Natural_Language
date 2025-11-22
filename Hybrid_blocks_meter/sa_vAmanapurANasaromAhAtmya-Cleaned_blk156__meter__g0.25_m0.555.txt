@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 156 | label: meter | g:0.25 m:0.555 ---
+
+ityuktvāntarhite deve aditirgarbhaṃ samādadhe ।
+garbhasthite tataḥ khṛṣṇe cacāla saralā kṣitiḥ ।
+cakampire mahāśailā jagmuḥ kṣobhaṃ mahābdhayaḥ ।।

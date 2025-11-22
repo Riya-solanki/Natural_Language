@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 12 | label: grammar | g:0.573 m:0.5 ---
+
+akṛśo aham' aandho aham' ityādayastu prayogā asatyapyabhede kathañcit amañcāḥ krośanti' ityādivadaupacārikā iti yuktamutpaśyāmaḥ ।
+tasmādidaṅkārāspadebhyo dehendriyamanobuddhiviṣayebhyo vyāvṛttaḥ sphuṭatarāhamanubhavagamya ātmā saṃśayābhāvādajijñāsya iti siddham ।

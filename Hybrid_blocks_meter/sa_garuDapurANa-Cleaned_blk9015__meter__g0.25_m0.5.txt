@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9015 | label: meter | g:0.25 m:0.5 ---
+
+kathaṃ pretā mahākāyā raudrarūpā bhayānakāḥ ।
+kambhavanti suraśreṣṭha karmabhiḥ kaiḥ śubhāśubhaiḥ ।।

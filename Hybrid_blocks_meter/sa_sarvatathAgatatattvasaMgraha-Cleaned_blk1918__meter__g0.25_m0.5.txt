@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1918 | label: meter | g:0.25 m:0.5 ---
+
+ākāśe vānyadeśe vā bhāvayan padmamuttamaṃ ।
+yadā paśyet tadā gṛhṇed rucyānadṛśyatāṃ vrajet ।।

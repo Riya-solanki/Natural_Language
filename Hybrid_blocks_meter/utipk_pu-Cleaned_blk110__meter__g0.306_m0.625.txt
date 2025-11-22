@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 110 | label: meter | g:0.306 m:0.625 ---
+
+ahaṃpratyavamarśo yaḥ prakāśātmāpi vāgvapuḥ ।
+nāsau vikalpaḥ sa hy ukto dvayākṣepī viniścayaḥ ।।

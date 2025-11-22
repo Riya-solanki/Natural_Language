@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 479 | label: meter | g:0.272 m:0.595 ---
+
+sagaras tu suto bāhor jajñe saha gareṇa vai 
+aurvasyāśramam āsādya bhārgaveṇābhirakṣitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 126 | label: grammar | g:0.562 m:0.5 ---
+
+chinte tāpaṃ himajalamayī cāndanī kinnu carcā mandaspandāḥ kimu sukhakarā mārutāścāmarāṇām ।
+pṛcchantīnāmiti savayasāṃ sātireke api tāpe smitvā ramyaṃ sakalamiti vā cittamāśvāsayantī ।।

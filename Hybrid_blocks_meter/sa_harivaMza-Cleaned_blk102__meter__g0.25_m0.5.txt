@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 102 | label: meter | g:0.25 m:0.5 ---
+
+tato abhnisaṃdhiṃ cakre vai dakṣas tu parameṣṭhinā 
+kanyāyāṃ nārado mahyaṃ tava putro bhaved iti ।।

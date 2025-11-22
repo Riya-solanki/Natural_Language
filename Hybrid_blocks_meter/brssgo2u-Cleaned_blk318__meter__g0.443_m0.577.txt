@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 318 | label: meter | g:0.443 m:0.577 ---
+
+samavāyābhyupagamācca tadabhāvaḥ ।
+aṇuvādāsaṃbhava iti yogyatayā saṃbadhyate dvyaṇukasamavāyayoḥ paramāṇubhinnatvasāmyāt dvyaṇukavatsamavāyasyāpi samavāyāntaramityanavasthitirityarthaḥ ।
+nanviha tantuṣu paṭa ityādiviśiṣṭadhīniyāmakaḥ samavāyo na saṃbandhāntaramapekṣate, svarūpeṇaiva nityasaṃbaddhatvāditi śaṅkate-nanviheti ।

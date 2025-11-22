@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 699 | label: meter | g:0.25 m:0.5 ---
+
+saddharmapraguṇaṃ mitraṃ karaṇīyaṃ balād api ।
+eṣaiva suhṛdāṃ loke sādhoḥ sādhīyasī sthitiḥ ।।

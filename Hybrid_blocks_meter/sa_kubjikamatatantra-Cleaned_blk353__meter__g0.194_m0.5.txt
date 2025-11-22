@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 353 | label: meter | g:0.194 m:0.5 ---
+
+sampradāyo bhaved devi so api ṣaṭsu prabhedataḥ 
+pallavo yogarodhaś ca sampuṭo grathanas tathā ।।

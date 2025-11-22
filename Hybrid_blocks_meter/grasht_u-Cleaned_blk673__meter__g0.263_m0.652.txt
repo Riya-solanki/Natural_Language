@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 673 | label: meter | g:0.263 m:0.652 ---
+
+bīja for rañjana
+evaṃ khoṭaṃ bījaṃ kṛtvā rañjanavidhinā surañjanaṃ kāryam ।
+triguṇaṃ rasasya hema saṃyojyaṃ tasya varabījam ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 16 | label: meter | g:0.143 m:0.783 ---
+
+tāsāṃ guṇabhedād bhedamāha 
+samagraguṇopetā vaidarbhī ।।
+samagrairojaḥprasādapramukairguṇairupetā vaidarbhī nāma rītiḥ । atra ślokaḥ

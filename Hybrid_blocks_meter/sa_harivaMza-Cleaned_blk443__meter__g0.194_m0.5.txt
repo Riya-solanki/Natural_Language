@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 443 | label: meter | g:0.194 m:0.5 ---
+
+tasya haimavatī kanyā satāṃ matā dṛṣadvatī 
+vikhyātā triṣu lokeṣu putraś cāpi prasenajit ।।

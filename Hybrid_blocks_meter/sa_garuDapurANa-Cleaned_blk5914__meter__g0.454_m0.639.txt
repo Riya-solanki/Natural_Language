@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5914 | label: meter | g:0.454 m:0.639 ---
+
+dhanvantariruvāca ।
+evaṃ sa garuḍaṃ proce garuḍaḥ kaśyapāya ca ।
+maheśvaro yathā gaurīṃ prāha vidyāṃ tathā śṛṇu ।।

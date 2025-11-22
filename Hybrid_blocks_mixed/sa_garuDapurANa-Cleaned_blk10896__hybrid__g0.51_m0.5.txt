@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10896 | label: hybrid | g:0.51 m:0.5 ---
+
+sa eva viṣṇuḥ sūkaratvaṃ hyavāpa kṣopaṇīmuddhartuṃ daityavapurnihantum ।
+hiraṇyākṣaṃ sajjanānāṃ khagendra tathā bhūmeḥ sthāpanārthaṃ ca devaḥ ।।

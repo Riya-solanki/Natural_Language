@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1487 | label: meter | g:0.217 m:0.845 ---
+
+caturṇāṃ tu punaḥ sṛṣṭir adhastād yonisambhavā 
+madhyamanthānayogena śubhāśubhanibandhanam ।।

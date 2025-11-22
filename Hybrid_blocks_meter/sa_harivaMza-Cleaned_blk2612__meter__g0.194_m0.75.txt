@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2612 | label: meter | g:0.194 m:0.75 ---
+
+tena saṃcoditā meghās tasyāyudhavibhūṣitāḥ 
+tasyaivājñākarāḥ sasyaṃ janayanti navāmbubhiḥ ।।

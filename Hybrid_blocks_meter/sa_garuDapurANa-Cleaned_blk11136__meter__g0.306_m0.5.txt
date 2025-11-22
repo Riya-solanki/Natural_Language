@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11136 | label: meter | g:0.306 m:0.5 ---
+
+sadāśivādyā daśa rudrabhrātaraḥ saumitreyo hauhiṇeyastrayaśca ।
+samā ete mokṣakāle sṛtau ca śatairguṇairnyūnabhūtāśca tābhyām ।।

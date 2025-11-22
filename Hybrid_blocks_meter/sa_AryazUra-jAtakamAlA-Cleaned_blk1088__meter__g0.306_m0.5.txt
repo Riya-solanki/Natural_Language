@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1088 | label: meter | g:0.306 m:0.5 ---
+
+ṣaḍbhirdṛḍhaiḥ pāśaśataiḥ sa bandhaṃ prāpnotu ramyācca vanājjanāntam ।
+tīkṣṇāṅkaśākarṣaṇajā rujaśca yaste muniśreṣṭha bisānyahārṣīt ।।

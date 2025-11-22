@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5694 | label: meter | g:0.25 m:0.555 ---
+
+soma rājasya bījāni navanītayutāni ca ।
+madhunāsvāditāni syuḥ śuklakuṣṭhaharāṇi vai ।
+takrānnapānato rudra nātra kāryā vicāraṇā ।।

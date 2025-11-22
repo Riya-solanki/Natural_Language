@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2982 | label: meter | g:0.306 m:0.5 ---
+
+nirātaṅkaṃ dvijaṃ gāṃ ca brāhmaṇārthe hato api vā ।
+araṇye niyato juptvā triḥ kṛtvo vedasaṃhitām ।।

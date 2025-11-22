@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 541 | label: meter | g:0.056 m:0.625 ---
+
+paryag dvāriṇi rāṅkavāsta-racite vistīrṇa-gehe yaśo-
+dādy-agre sthaviropananda-gṛhiṇī-kroḍe vicitraṃ śiśum ।
+darśaṃ darśam amī na yadyapi gatās tṛptiṃ tathāpy uccakair
+nāsthuḥ pṛṣṭhy-ajanāvakāśa-vidhaye śīlaṃ hi maryāditā ।। [śārdūla]

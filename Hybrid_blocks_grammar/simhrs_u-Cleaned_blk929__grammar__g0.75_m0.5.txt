@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 929 | label: grammar | g:0.75 m:0.5 ---
+
+vyākṛtaṃ ca । atra kasyacid upaśānta-prakṛter dhīra-śānta-nāyakasya arthopagamana-mano' nukūla-dārādi-sampatter ālambana-vibhāva-bhūtāyāḥ samutpanno dhṛti-sthāyi-bhāvo vastu-tattvālocanādibhir uddīpana-vibhāvair uddīpyamānaḥ samupajāyamāna-smṛti-maty-ādibhir vyabhicāri-bhāvair vāg-ārambhādibhiś cānubhāvair anuṣajyamāno niṣpannaḥ śānto rasa iti gīyate । anye punar asya śamaṃ prakṛtim āmananti । sa tu dhṛter eva viśeṣo bhaviṣyatīti ।

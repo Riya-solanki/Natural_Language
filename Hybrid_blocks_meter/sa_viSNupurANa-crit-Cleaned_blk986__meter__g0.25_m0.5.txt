@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 986 | label: meter | g:0.25 m:0.5 ---
+
+atha vā tava ko doṣaḥ kiṃ vā kupyāmy ahaṃ tava 
+mamaiva doṣo nitarāṃ yenāham ajitendriyaḥ ।।

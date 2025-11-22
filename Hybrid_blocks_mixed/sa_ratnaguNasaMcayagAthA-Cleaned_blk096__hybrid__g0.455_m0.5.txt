@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 96 | label: hybrid | g:0.455 m:0.5 ---
+
+nāmeva rūpi jagatī ayu paṅkasaktā saṃsāracakri bhramate anilacakratulye 
+jānitva bhrāntu jagatī mṛgavāgureva ākāśa pakṣisadṛśā vicaranti prajñāḥ ।।

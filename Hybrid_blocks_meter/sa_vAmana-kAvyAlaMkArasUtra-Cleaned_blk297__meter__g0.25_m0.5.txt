@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 297 | label: meter | g:0.25 m:0.5 ---
+
+upameyādupamānasya nyūnatvaṃ yat taddharmanyūnatvam । tadrūpaṃ hīnatvaṃ yathā

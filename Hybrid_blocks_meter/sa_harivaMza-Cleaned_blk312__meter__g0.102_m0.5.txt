@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 312 | label: meter | g:0.102 m:0.5 ---
+
+manvantaraṃ caturthaṃ te kathayiṣyāmi tac chṛṇu 
+kāvyaḥ pṛthus tathaivāgnir jahnur dhātā ca bhārata 
+kapīvān akapīvāṃś ca tatra saptarṣayo nṛpa ।।

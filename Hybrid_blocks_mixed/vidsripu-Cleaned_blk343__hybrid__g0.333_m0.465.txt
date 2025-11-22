@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 343 | label: hybrid | g:0.333 m:0.465 ---
+
+naṣṭaprāyāḥ pralayamahikājuṣṭajīrṇaiḥ pratānair bījāny evonmadaparabhṛtālocanāpāṭalāni ।
+utpākatvād vighaṭitaśamīkoṣasaṃdarśitāni vyākurvanti sphuṭasahacarīvīrudhaḥ kṛṣṇalānām ।।
+sāvarṇeḥ

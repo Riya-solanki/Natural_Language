@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1754 | label: grammar | g:0.665 m:0.0 ---
+
+karmaṇā tena daityasya viṣṇur vismayam āgamat 
+sa tena tāḍitaḥ pakṣī cacāla ca punaḥ punaḥ । 
+hariṇā vardhitabalo na moham upagacchati । 
+yena tasya suparṇasya patitā mūrdhni sā gadā ।। 
+tadāgamat padā bhūmiṃ pakṣī vyathitavigrahaḥ । loṣṭaiḥ sarṣṭiśilābhiś ca vajrapraharaṇais tataḥ । jaghnus te samare viṣṇuṃ gopālaṃ ca mahāraṇe । bhramantaṃ ghūrṇamānaṃ ca stutiṃ devāḥ pracakrire । jaya deva mahābāho madhukaiṭabhanāśana । hiraṇyakaśipor vakṣo nakhalāṅgaladāraṇa । uttasthau ca raṇād viṣṇur amaraiḥ saṃstutaḥ purā । hataṃ viṣṇuṃ samājñāya śaṅkhaṃ dadhmau sa dānavaḥ । mṛdaṅgāṃś ca tridhā tatra vādayanto mahāsurāḥ । tālāśrayāś ca nanṛtur mahotsava ivābabhau । 
+suparṇaṃ vyathitaṃ dṛṣṭvā kṣataṃ ca vapur ātmanaḥ 
+krodhāt saṃraktanayano vaikuṇṭhaś cakramādade ।।

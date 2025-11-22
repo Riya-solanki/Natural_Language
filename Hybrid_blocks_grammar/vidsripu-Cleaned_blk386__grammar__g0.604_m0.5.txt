@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 386 | label: grammar | g:0.604 m:0.5 ---
+
+bhrūlīlā caturā tribhāgavalitā dṛṣṭir gatir mantharā visrabdhaṃ hasitaṃ kapolaphalake vaidagdhyavakraṃ vacaḥ ।
+noddiṣṭaṃ guruṇā na bandhukathitaṃ dṛṣṭaṃ na śāstre kvacid bālāyāḥ svayam eva manmathakalāpāṇḍityam unmīlati ।।

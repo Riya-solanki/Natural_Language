@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 360 | label: grammar | g:0.688 m:0.5 ---
+
+parameśvaratā jayaty apūrvā tava viśveśa yadīśitavyaśūnyā aparāpi tathaiva te yayedaṃ jagad ābhāti yathā tathā na bhāti ।।

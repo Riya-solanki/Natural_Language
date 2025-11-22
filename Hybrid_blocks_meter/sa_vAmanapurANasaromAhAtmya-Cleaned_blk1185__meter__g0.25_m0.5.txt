@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1185 | label: meter | g:0.25 m:0.5 ---
+
+etasyāpi prasādaṃ tvaṃ kartumarhasi śaṅkara ।
+etasyāpi bhayānmadhye saraso ahaṃ nimañjitaḥ ।।

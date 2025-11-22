@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 827 | label: hybrid | g:0.415 m:0.52 ---
+
+bhrasyadvivakṣitam asamphaladakṣarārtham utkampamānadaśanacchadam ucchvasatyā ।
+adya smarāmi parimṛjya paṭāñcalena netre tayā kim api yat punaruktam uktam ।।
+sonnokasya

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 319 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataḥ śrīmatā goloka-sāmrājyavatā bhojanādikaṃ pṛṣṭayos tayoḥ parama-hṛṣṭayoḥ, śrīyuta-rāmānujas tu nijānuja-vad eva tau sūta-tanūjāv āhūya bhūyasā snehena sadeśam upaveśayāmāsa । nija-vraja-vāsi-sūtādīnāṃ prabhūtānāṃ bhavyāni kāvyāni tair eva śrāvayāmāsa ca । tataś ca tau parama-hṛṣṭau santau sva-guṇa-kalāpaṃ saphalayituṃ balavad utkaṇṭhitavantau ।

@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 306 | label: hybrid | g:0.5 m:0.5 ---
+
+atredaṃtāmater aparatvam ahaṃtayā sarvasya vedyasyācchādanāt parateti parāparāvasthaiṣā ।।

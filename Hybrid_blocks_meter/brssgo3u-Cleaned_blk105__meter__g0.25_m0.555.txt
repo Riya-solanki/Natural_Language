@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 105 | label: meter | g:0.25 m:0.555 ---
+
+aāṇḍajaṃ jīvajamujadbhijam' ityatra tṛtīyenodbhijjaśabdenaiva svedajopasaṃgrahaḥ kṛtaḥ pratyetavyaḥ ।
+ubhayorapi svedajodbhijjayorbhūmyudakodbhedaprabhavatvasya tulyatvāt ।
+sthāvarodbhedāttu vilakṣaṇo jaṅgamodbheda ityanyatra svedajodbhijjayorbhedavāda ityavirodhaḥ ।।

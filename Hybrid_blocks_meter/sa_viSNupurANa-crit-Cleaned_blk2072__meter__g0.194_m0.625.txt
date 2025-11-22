@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2072 | label: meter | g:0.194 m:0.625 ---
+
+aśītimaṇḍalaśataṃ kāṣṭhayor antaraṃ dvayoḥ 
+ārohaṇāvarohābhyāṃ bhānor abdena yā gatiḥ ।।

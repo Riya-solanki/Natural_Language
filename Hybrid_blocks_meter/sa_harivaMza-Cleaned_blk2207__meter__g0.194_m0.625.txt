@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2207 | label: meter | g:0.194 m:0.625 ---
+
+kīrṇā bhūtagaṇair ghorair mannideśānuvartinī 
+kaumāraṃ vratam āsthāya atridivaṃ tvaṃ gamiṣyasi ।।

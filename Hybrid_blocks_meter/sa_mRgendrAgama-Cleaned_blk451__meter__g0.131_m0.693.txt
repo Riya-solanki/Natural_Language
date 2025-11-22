@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 451 | label: meter | g:0.131 m:0.693 ---
+
+garve manomukhā devā buddhau bhāvādayaḥ sthitāḥ 
+pañcamantratanurdevaḥ sthitastanmātrapañcake 
+sūkṣmabhūteṣu mantreśā mantrāḥ sthūleṣu saṃsthitāḥ ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 802 | label: meter | g:0.111 m:0.5 ---
+
+saptāhar-niśa-nirmitā giribhṛtā ye ye vilāsās tadā
+tān kalpair api saptabhiḥ kathayitā śeṣo' pi nāśeṣataḥ ।
+evaṃ ced vacanair amūṃs tri-caturaiḥ sac-cāturī-varjitais
+tūrṇaṃ varṇitavān kaviḥ svayam asau durbhūya dodūyate ।। [śārdūla]

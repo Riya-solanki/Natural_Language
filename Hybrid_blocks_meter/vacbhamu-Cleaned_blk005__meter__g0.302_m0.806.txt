@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 5 | label: meter | g:0.302 m:0.806 ---
+
+ṣaḍbhiraṅgairupetāya vividhairavyayairapi ।
+śāśvatāya namaskurmo vedāya ca bhavāya ca ।।

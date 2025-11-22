@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 187 | label: hybrid | g:0.507 m:0.445 ---
+
+Vṛtti:
+[siddhikṣetramutsṛjya] siddhikṣetrāvasthitaḥ sādhakastattyaktvā padamapi na anyato [vrajed] gacchet। [mantro varṇalakṣajapād] mantras ca sādhyasya yāvanto varṇāstāvallakṣajapāt [daśamāṃśato homācca] taddaśāṃśahomāt [svaśāstravihitāṃ vṛttimāsthitasya prasiddhyati] svaśāstrāmnātacaryācaraṇācca siddhiḥ।।
+[prāyaścittavidhiḥ]

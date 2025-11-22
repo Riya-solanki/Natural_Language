@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1312 | label: hybrid | g:0.468 m:0.233 ---
+
+anityaḥ śabdaḥ prayatnānantarīyakatvād ghaṭavadityukte apara āha prāgutpatteranutpanne śabde prayatnānantarīyakatvamanityatvakāraṇaṃ nāsti tadabhāvād nityatvaṃ prāptaṃ nityasya cotpattirnāsti।
+anutpattyā pratyavasthānam anutpattisamaḥ ।।

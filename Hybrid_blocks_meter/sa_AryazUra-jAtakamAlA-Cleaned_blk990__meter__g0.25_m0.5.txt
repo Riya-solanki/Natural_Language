@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 990 | label: meter | g:0.25 m:0.5 ---
+
+parimuṣitamatiryayā nihanyādapi pitaraṃ jananīmanāgasaṃ vā ।
+avigaṇitasukhāyatiryatiṃ vā krayavidhinā nṛpa tāmito gṛhāṇa ।।

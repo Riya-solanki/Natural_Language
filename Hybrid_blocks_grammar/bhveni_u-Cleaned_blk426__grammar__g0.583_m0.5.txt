@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 426 | label: grammar | g:0.583 m:0.5 ---
+
+SktCh sādhu vasāgandhe sādhu । śobhanaṃ tvayā kṛtam । balavadasmi pipāsitaḥ ।

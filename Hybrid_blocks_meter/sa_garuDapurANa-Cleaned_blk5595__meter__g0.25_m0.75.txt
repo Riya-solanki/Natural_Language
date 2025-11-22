@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5595 | label: meter | g:0.25 m:0.75 ---
+
+etairdhūpo vaśakaraḥ smarabāṇaiḥ smārārdanaḥ ।
+ratikāle mahādeva pārvatīpriya śaṅkara ।।

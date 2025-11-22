@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 412 | label: grammar | g:0.837 m:0.132 ---
+
+nanu viruddhau bhedābhedau kathamekatra syātāṃ na virodhaḥ sahadarśanāt ।
+yadi hi idaṃ rajataṃ nedaṃ rajatamitivatparasparopamardena bhedābhedau pratīyeyātāṃ tato viruddhyeyātāṃ, na tu tayoḥ parasparopamardena pratītiḥ iyaṃ gauritibuddhidvayamaparyāyeṇa pratibhāsamānamekaṃ vastu dvyātmakaṃ vyavasthāpayati- sāmānādhikaraṇyaṃ hyabhedamāpādayati aparyāyatvaṃ ca bhedam, ataḥ pratītibalādavirodhaḥ ।।

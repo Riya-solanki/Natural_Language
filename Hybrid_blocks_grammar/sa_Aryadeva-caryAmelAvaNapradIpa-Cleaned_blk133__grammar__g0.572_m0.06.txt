@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 133 | label: grammar | g:0.572 m:0.06 ---
+
+kaukṛtyastyānamiddhādīn parityajya prayatnataḥ । anyathā naiva siddhiḥ syāt kalpakoṭiśatairapi ।। iti । bhikṣubhāve sthitā ye atra ye tu tarkaratā narāḥ । vṛddhabhāve sthitā ye tu teṣāṃ tattvaṃ na deśayet ।। iti । 
+upāyarahitaṃ jñānaṃ śikṣā cāpi hi deśitā ।
+śrāvakāṇāṃ mahāvīra avatā raya teṣu vai ।।

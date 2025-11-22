@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 417 | label: hybrid | g:0.449 m:0.479 ---
+
+etaduktaṃ bhavati, kāryamarthamavagamayantī codanā tadarthaṃ bhūtādikamapyarthaṃ gamayatīti ।
+tatrāha-pravṛttinivṛttivyatirekeṇa bhūtaṃ cediti ।
+ayamabhisaṃdhiḥ-na tāvatkāryārthā eva svārthe padānāṃ saṃgatigraho nānyārtha ityupapāditaṃ bhūte apyarthe vyutpattiṃ darśayadbhiḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 341 | label: hybrid | g:0.497 m:0.5 ---
+
+lokaṃ prāpayituṃ sukhena padavīṃ saṃpaddūyāvāhinīṃ kāruṇyāhitacetasā bhagavatā buddhena saṃdīpitam 
+śrutvā te akhiladharmatattvanilayaṃ sūtraṃ samādānato gatvā sthānamaharniśaṃ nijamalaṃ dhmāyantu ye abhyāgatāḥ ।।

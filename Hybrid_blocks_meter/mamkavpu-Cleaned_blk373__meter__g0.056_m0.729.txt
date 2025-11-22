@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 373 | label: meter | g:0.056 m:0.729 ---
+
+{yeṣāṃ dorbalameva durbalatayā te saṃmatāstairapi
+prāyaḥ kevalanītirītiśaraṇaiḥ kāryaṃ kimurvīśvaraiḥ ।
+ye kṣmāśakra punaḥ parākramanayasvīkārakāntakramās 
+te syurnaiva bhavādṛśāstrijagati dvitrāḥ pavitrāḥ param ।।}

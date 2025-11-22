@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 98 | label: meter | g:0.246 m:0.806 ---
+
+sargamūle tṛtīyāyāṃ svāpavadbhūtasaṃhṛtau 
+sa yadvyapāsya kriyate tadvidho yo aṇurucyate ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2549 | label: grammar | g:0.688 m:0.5 ---
+
+ityevamukto muninā bāle sa kapikuñjaraḥ । kṛtāñjalipuṭo bhūtvā praṇipatyedamabravīt। । mamājñā dīyatāṃ brahman śādhi kiṃ karavāṇyaham ।।

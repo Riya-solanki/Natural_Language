@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7508 | label: meter | g:0.25 m:0.625 ---
+
+paridhāpyāhate vastre candanaiḥ prokṣayettanum ।
+tato mṛtasya sthāne vai ekoddiṣṭaṃ samācaret ।।

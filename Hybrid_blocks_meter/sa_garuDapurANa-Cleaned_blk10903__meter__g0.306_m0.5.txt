@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10903 | label: meter | g:0.306 m:0.5 ---
+
+tato harirjagṛhe kūrmarūpaṃ surāsurāṇāmudadhiṃ vimathnatām ।
+pṛṣṭhe dhartuṃ mandaraṃ parvataṃ ca brahmāṇḍaṃ vā dhartumīśo mahātmā ।।

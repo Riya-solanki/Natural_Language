@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 243 | label: meter | g:0.316 m:0.5 ---
+
+prājāpatyādīnām, tatra kramabhedāpekṣābhāvānna pāṭhādiḥ kramaviśeṣaniyame pramāṇam, avarjanīyatayā tasya tatrāvagatatvāt ।
+na ceha dharmabrahmajijñāsayoḥ śeṣaśeṣibhāve śrutyādīnāmanyatamaṃ pramāṇamastīti ।

@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 17 | label: meter | g:0.25 m:0.625 ---
+
+vargeṣu samavarṇāśva savarṇaṃ kecidīrate ।
+alpaprāṇāstu śeṣāḥsyuḥ śasāvapi paraiḥ smṛtau ।।

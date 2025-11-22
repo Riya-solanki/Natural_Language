@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4909 | label: meter | g:0.194 m:0.5 ---
+
+astraiś caturbhiś catvāri vārayitvā ca keśavaḥ 
+jagrāha vaiṣṇavaṃ so astraṃ vyāditāsyāntakopamam ।।

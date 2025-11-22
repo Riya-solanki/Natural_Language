@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1088 | label: meter | g:0.194 m:0.625 ---
+
+bhūtāveśasya cihnedaṃ bhāvāveśam ataḥ śṛṇu 
+yāni cihnāni jāyante bhāvaviddhasya bhāvini ।।

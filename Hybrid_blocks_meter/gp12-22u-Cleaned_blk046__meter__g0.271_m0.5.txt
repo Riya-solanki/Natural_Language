@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 46 | label: meter | g:0.271 m:0.5 ---
+
+[] tad-dine tu kāntaḥ so' yaṃ vṛttāntaḥ karṇāntaḥ kriyatām-

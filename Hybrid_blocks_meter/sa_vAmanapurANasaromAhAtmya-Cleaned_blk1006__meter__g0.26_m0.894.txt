@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1006 | label: meter | g:0.26 m:0.894 ---
+
+mārkaṇḍeya uvāca
+sthāṇutīrthaprabhāvaṃ tu śrotumicchāmyahaṃ mune ।
+kena siddhiratha prāptā sarvapāpabhayāpahā ।।

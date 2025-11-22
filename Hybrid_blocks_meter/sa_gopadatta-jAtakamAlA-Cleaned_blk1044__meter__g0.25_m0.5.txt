@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1044 | label: meter | g:0.25 m:0.5 ---
+
+savahnigarbhair aśivaiḥ śivārutair vināditaṃ bhīṣaṇarāvagahvaram ।
+bhayaṃ bhayasyāpy upasaṃhared bhṛśaṃ śmaśānam ākrandavirāvadāruṇam ।।

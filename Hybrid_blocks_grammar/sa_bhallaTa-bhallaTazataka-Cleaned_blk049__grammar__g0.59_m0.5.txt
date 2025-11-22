@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 49 | label: grammar | g:0.59 m:0.5 ---
+
+nodvegaṃ yadi yāsi yady avahitaḥ karṇaṃ dadāsi kṣaṇaṃ tvāṃ pṛcchāmi yad ambudhe kim api tan niścitya dehy uttaram 
+nairāśyātiśayātimātranibhṛtair niḥśvasya yad dṛśyase tṛṣyadbhiḥ pathikaiḥ kiyat tadadhikaṃ syād aurvadāhād ataḥ ।।

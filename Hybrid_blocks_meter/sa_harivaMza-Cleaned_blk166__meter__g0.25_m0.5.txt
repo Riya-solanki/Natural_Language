@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 166 | label: meter | g:0.25 m:0.5 ---
+
+teṣāṃ putrāś ca pautrāś ca śataśo atha sahasraśaḥ 
+eṣa manvantare tāta sargaḥ svārociṣe smṛtaḥ ।।

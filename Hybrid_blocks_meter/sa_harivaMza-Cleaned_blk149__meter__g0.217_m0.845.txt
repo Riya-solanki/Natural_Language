@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 149 | label: meter | g:0.217 m:0.845 ---
+
+daityadānavasaṃyogāj jātās tīvraparākramāḥ 
+siṃhikeyā iti khyātās trayodaśa mahābalāḥ ।।

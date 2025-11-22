@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 42 | label: meter | g:0.25 m:0.625 ---
+
+kātantraśābdavettā hi vaidyaśca siddhasāravit ।
+kāṣṭhakhaṅgadharaścopahāsaṃ yānti trayo api te ।।

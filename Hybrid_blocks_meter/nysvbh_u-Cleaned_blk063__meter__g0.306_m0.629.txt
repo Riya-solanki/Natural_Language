@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 63 | label: meter | g:0.306 m:0.629 ---
+
+dūrāccakṣuṣā hyayamarthaṃ paśyannāvadhārayati dhūma iti vā reṇuriti vā।
+tadetadindriyārthasannikarṣotpannamanavadhāraṇajñānaṃ pratyakṣaṃ prasajyata ityata āhavyavasāyātmakamiti।
+na caitanmantavyamātmamanaḥ sannikarṣajamevānavadhāraṇajñānamiti।
+kiṃ tarhi? cakṣuṣā hyayamarthaṃ paśyannāvadhārayati, yathā cendriyeṇa upalabdhamartha manasopalabhate, evamindriyeṇānavadhārayanmanasā nāvadhārayati।
+yacca tadindriyānavadhāraṇapūrvakaṃ manasānavadhāraṇaṃ tadviśeṣāpekṣaṃ vimarśemātraṃ saṃśayaḥ, na pūrvamiti।
+sarvatra ca pratyakṣaviṣaye jñāturindriyeṇa vyavasāyaḥ, paścānmanasānuvyavasāyaḥ, upahatendriyāṇāmanuvyavasāyābhāvāditi।।

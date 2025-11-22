@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 399 | label: grammar | g:0.622 m:0.5 ---
+
+aham avajitaḥ pūrvaṃ tāvat sutaiḥ saha lālito dṛḍham apahṛtā kanyā bhūyo mayā na ca rakṣitā
+nidhanam api ca śrutvā tasyās tathaiva mayi svatā nanu yad ucitān vatsān prāptuṃ nṛpo atra hi kāraṇam ।।

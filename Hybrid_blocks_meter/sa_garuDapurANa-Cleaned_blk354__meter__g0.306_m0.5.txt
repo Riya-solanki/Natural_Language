@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 354 | label: meter | g:0.306 m:0.5 ---
+
+arghaṃ dattvā jitaṃ tena praṇāmaṃ ca punaḥ punaḥ ।
+tato agnāvapi sampūjyaṃ taṃ yajeta yathāvidhi ।।

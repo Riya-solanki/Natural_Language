@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 251 | label: grammar | g:0.604 m:0.5 ---
+
+aikyasaṃvidamṛtācchadhārayā santataprasṛtayā kadā vibho plāvanāt paramabhedamānayaṃs tvāṃ nijaṃ ca vapur āpnuyāṃ mudam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 204 | label: meter | g:0.306 m:0.5 ---
+
+dakṣaputrasahasraṃ ca teṣu naṣṭeṣu sṛṣṭavān ।
+śavalāśvāste api gatā bhrātṝṇāṃ padavīṃ hara ! ।।

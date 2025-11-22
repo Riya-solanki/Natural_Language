@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8060 | label: meter | g:0.25 m:0.5 ---
+
+agnaye kavyavāhanāya svadhā nama iti smaran ।
+somāyatvā pitṛmate svadhā nama iti smaran ।।

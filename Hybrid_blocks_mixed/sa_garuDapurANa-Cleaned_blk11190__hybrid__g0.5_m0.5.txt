@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11190 | label: hybrid | g:0.5 m:0.5 ---
+
+anādyananteṣvapi janmasu prabho vicāryamāṇā na vijānepyahaṃ ca ।
+etai hi sarve ca nimittamātrataḥ pitrādayastvaṃ hyanimittamātrataḥ ।।

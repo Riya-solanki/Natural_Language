@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 39 | label: hybrid | g:0.476 m:0.5 ---
+
+yo dharma bhāṣyati ya bhāṣyati bhāṣyamāṇāṃ phalaprāpta pratyayajino tatha lokanātho 
+nirvāṇato adhigato vidupaṇḍitehi sarve ta ātmaja nidṛṣṭa tathāgatena ।।

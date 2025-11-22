@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3530 | label: meter | g:0.194 m:0.625 ---
+
+kāle khalu nṛpaḥ prāpto jarāsaṃdho mahīpatiḥ 
+āvayor yuddhanikaṣaḥ prathamaḥ samarātithiḥ ।।

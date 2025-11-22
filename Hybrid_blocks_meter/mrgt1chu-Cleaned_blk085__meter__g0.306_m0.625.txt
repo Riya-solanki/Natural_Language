@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 85 | label: meter | g:0.306 m:0.625 ---
+
+praṇetrasarvadarśitvān na sphuṭo vastusaṃgrahaḥ ।
+upāyāḥ saphalās tadvac chaive sarvam idaṃ param ।।

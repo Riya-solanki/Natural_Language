@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10686 | label: hybrid | g:0.521 m:0.5 ---
+
+tāvanna jānāti vidhiḥ khagendra jñāne vidhātuśca svayogyabhūte ।
+ato viriñcasya na cintanīyo hyajñānaleśaḥ kvāpi deśe ca kāle ।।

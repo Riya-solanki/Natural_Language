@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 80 | label: meter | g:0.25 m:0.5 ---
+
+pariṇāmayantu yadi vartati cittasaṃjñā tatha bodhisattvapariṇāmana sattvasaṃjñā 
+saṃjñāya dṛṣṭisthitu citta trisaṅgayukto pariṇāmitaṃ na bhavatī upalabhyamānam ।।

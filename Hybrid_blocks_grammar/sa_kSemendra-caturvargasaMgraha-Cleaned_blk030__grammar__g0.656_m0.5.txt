@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 30 | label: grammar | g:0.656 m:0.5 ---
+
+taptais tīvravrataiḥ kiṃ vikasati karuṇāsyandinī yady ahiṃsā kiṃ dūrais tīrthasārair yadi śamavimalaṃ mānasaṃ satyapūtam ।
+yatnād anyopakāre prasarati yadi dhīr dānapuṇyaiḥ kim anyaiḥ kiṃ mokṣopāyayogair yadi śucimanasām ucyate bhaktir asti ।।

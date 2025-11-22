@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 34 | label: grammar | g:0.716 m:0.381 ---
+
+tatrātmādyapavargaparyante prameye mithyājñānamanekaprakārakaṃ vartate।
+ātmani tāvannāstīti, anātmanyātmeti, duḥkhe sukhamiti, anitye nityamiti, atrāṇe trāṇamiti, sabhaye nirbhayamiti, jugupsite abhimatamiti, hātavye apratihātavyamiti, pravṛttau nāsti karma, nāsti karmaphalamiti, doṣeṣu nāyaṃ doṣanimittaḥ saṃsāra iti।
+pretyabhāve nāsti janturjīvo vā sattva ātmā vā yaḥ preyāt pretya ca bhavediti, anamittaṃ janma, animitto janmoparama iti, ādimān pretyabhāvo anantaśceti, naimittikaḥ sannakarmaṃnimittaḥ pretyabhāva iti, dehendriyabuddhivedanāsantānocchedapratisandhānābhyāṃ nirātmakaḥ pretyabhāva iti।
+apavarge bhīṣmaḥ khalvayaṃ sarvakāryoparamaḥ, sarvaviprayoge apavarge bahu bhadrakaṃ lupyataṃ iti kathaṃ buddhimān sarvasukhocchedamacaitanyamamumapavargaṃ rocayediti।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4563 | label: meter | g:0.102 m:0.5 ---
+
+pṛthivī vāyur ākāśam āpo jyotiś ca pañcamam 
+candrādityāv ahorātre pakṣā māsās tathā kṣapāḥ 
+muhūrtāś ca kalāś caiva kṣaṇāḥ saṃvatsarās tathā ।।

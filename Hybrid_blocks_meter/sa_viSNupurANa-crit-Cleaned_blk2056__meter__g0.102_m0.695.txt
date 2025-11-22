@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2056 | label: meter | g:0.102 m:0.695 ---
+
+na bhraśyanti yatas tebhyo jalāny abhrāṇi tāny ataḥ 
+abhrasthāḥ prapatanty āpo vāyunā samudīritāḥ 
+saṃskāraṃ kālajanitaṃ maitreyāsādya nirmalāḥ ।।

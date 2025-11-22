@@ -1,0 +1,7 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 91 | label: hybrid | g:0.381 m:0.494 ---
+
+atha vā kecit karaṇāṃśakartṛsaṃkhyādayaḥ prakṛtipratyayayor bhedena vācyāḥ ।
+bhāvanā tu samudāyāvyabhicārāt samucitayor evārtha ity api śakyaṃ vaktum ।
+tathā ca sūtrakārabhāṣyakārābhyāṃ bhāvārthāḥ karmaśabdāḥ iti sāmānādhikaraṇyam evāśritam, na bhāvārthatvena pratyayāḥ kathitāḥ ।
+śāstre tu sarvatra pratyayārtho bhāvaneti vyavahāraḥ ।
+tatrāyam abhiprāyaḥ ।

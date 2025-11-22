@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7725 | label: meter | g:0.25 m:0.5 ---
+
+pratyabdaṃ yo yathā kuryāttathā kuryātsa tānyapi ।
+ekādaśe dvādaśe ahni preto bhuṅkte dinadvayam ।।

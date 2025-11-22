@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4155 | label: meter | g:0.25 m:0.555 ---
+
+samāviṣṭāni paśyasva tejāṃsi pṛthivītale ।
+ye saṃnidhānāḥ satataṃ madaṃśāḥ puṇyavardhanāḥ ।
+tenāhaṃ pratijānāmi kurukṣetraṃ gato baliḥ ।।

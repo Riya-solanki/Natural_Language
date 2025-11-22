@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 184 | label: meter | g:0.25 m:0.76 ---
+
+tadevaṃ pratyakṣameva bāhyārthamupasthāpya tadapahnavapravṛttasyānumānasyodayaṃ niruṇaddhi ।
+svapnādiṣu tu bādhakena jñānāntareṇa bāhyasadbhāvanirākaraṇādyujyetātmakhyātiḥ ।
+natviha tathā bādhakamastyanyat bhavaduktādanumānāt ।
+nacānumānamalaṃ bādhitumityuktam ।
+dūṣaṇasahasraṃ cāsyānumānasya vārtike prapañcitamityuparamyate ।।

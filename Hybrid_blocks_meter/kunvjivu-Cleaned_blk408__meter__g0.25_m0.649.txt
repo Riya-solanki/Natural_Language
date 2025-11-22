@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 408 | label: meter | g:0.25 m:0.649 ---
+
+gaaṇaṃ ca mattamehaṃ dhārāluliajjuṇāiṃ a vaṇāiṃ ।
+ṇirahaṅkāramiaṅkā haranti ṇīlāo a ṇisāo ।।
+gaganaṃ ca mattameghaṃ dhārālulitārjunāni ca vanāni ।
+nirahaṅkāramṛgāṅkā haranti nīlāśca niśāḥ ।।
+iti chāyā ।

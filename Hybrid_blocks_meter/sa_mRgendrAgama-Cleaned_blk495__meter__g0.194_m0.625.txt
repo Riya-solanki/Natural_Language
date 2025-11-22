@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 495 | label: meter | g:0.194 m:0.625 ---
+
+sādhako lokadharmī yaḥ putrakaḥ snātako gṛhī 
+samayī prāggṛhasthaśca śaivāḥ syurvratavarjitāḥ ।।

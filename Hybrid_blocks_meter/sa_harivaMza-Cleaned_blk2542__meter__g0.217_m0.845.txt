@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2542 | label: meter | g:0.217 m:0.845 ---
+
+śabdānusārī saṃkruddho darpāviddhasaṭānanaḥ 
+stabdhākṣo heṣitapaṭuḥ khurair nirdārayan mahīm ।।

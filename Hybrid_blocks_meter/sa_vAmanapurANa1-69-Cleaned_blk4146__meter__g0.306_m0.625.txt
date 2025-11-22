@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4146 | label: meter | g:0.306 m:0.625 ---
+
+vratabandhaṃ tatheśasta kṛtavān sarvasāstravit ।
+tato daduḥ prītiyutāḥ sarva eva varān kramāt ।।

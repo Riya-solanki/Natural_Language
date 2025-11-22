@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 181 | label: meter | g:0.306 m:0.5 ---
+
+sarvabuddhāna svayaṃ paśyet sarvakāmaiḥ prapūryate ।
+na kṣīṇo na ca hānitvaṃ svecchāyurjāyate vapuḥ ।।

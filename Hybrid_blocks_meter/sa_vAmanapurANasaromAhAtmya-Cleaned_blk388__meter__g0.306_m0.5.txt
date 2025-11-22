@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 388 | label: meter | g:0.306 m:0.5 ---
+
+niyamaṃ ta tataḥ kṛtvā gatvā saraḥ pradakṣiṇam ।
+rantukaṃ ca samāsādya kṣamayitvā punaḥ punaḥ ।।

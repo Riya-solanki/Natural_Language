@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1309 | label: meter | g:0.314 m:0.807 ---
+
+pañcamyāstasil ।।
+pañcamyantebhyaḥ kimādibhyastasil vā syāt ।।

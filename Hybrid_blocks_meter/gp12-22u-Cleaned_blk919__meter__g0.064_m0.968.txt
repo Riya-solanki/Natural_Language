@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 919 | label: meter | g:0.064 m:0.968 ---
+
+rājad-rājāsanam upari-gacchatra-citraṃ suramya-
+bhrāmyad-vālavya-jana-yugalaṃ prasphurad-divya-veśam ।
+kṛṣṇaṃ dṛṣṭvā sura-parivṛtaṃ stabdha-netrāṇi dūrāc
+citrāṇīva kṣaṇa-katipayaṃ tatra mitrāṇi tasthuḥ ।। [mandākrāntā]

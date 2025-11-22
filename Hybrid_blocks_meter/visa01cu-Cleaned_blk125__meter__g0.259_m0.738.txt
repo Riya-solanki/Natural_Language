@@ -1,0 +1,6 @@
+--- source: visa01cu-Cleaned.txt | block: 125 | label: meter | g:0.259 m:0.738 ---
+
+eteneti alaṅkārādīnāṃ kaṭakakuṇḍalādisāmānyatā uktā ।
+vakrīktijīvitakāraḥ, kaścidāhaalaṅkārarūpatvāt ।
+tathā hyuktam "saiṣā sarvatra vakroktiranayārtho vibhāvyate ।
+yatno asyāṃ kavinā kāryyaḥ ko alaṅkāro anayā vinā"iti ।

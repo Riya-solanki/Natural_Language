@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1576 | label: meter | g:0.25 m:0.5 ---
+
+brahmacarye sthitaṃ dhairyaṃ brahmacarye sthitaṃ tapaḥ 
+ye sthitā brahmacaryeṇa brāhmaṇā divi te sthitāḥ ।।

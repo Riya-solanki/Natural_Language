@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 180 | label: meter | g:0.217 m:0.845 ---
+
+atha dehādisāpekṣaṃ tatpumarthaprasādhakam 
+tato niyatisāpekṣam astu karma niyāmakam ।।

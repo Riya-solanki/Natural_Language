@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 1229 | label: grammar | g:0.559 m:0.5 ---
+
+dattvā me karadīkṛtākhilanṛpāṃ yanmedinīṃ lajjase dyūte yacca paṇīkṛto api hi mayā na krudhyasi prīyase
+sthityarthaṃ mama matsyarājabhavane prāpto asi yatsūdatāṃ ē̃ vatsaitāni vinaśvarasya sahasā dṛṣṭāni cihnāni ।।

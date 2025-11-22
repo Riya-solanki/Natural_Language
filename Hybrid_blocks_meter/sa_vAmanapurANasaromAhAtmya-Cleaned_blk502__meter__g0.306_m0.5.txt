@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 502 | label: meter | g:0.306 m:0.5 ---
+
+śaṃsanti sarve pitaraḥ smaranti ca pitāmahāḥ ।
+asmākaṃ ca kule putraḥ pautro vāpi bhaviṣyati ।।

@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 303 | label: meter | g:0.272 m:0.97 ---
+
+FN nirudhyamānatvaṃ vināśakasāṃnidhyam ।
+niruddhatvamatītatvam ।

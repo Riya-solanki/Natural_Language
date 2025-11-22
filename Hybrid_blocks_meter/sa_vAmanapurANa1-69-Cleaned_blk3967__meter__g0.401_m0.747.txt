@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3967 | label: meter | g:0.401 m:0.747 ---
+
+dāmodaramudārākṣaṃ puṇḍarīkākṣamacyutam ।
+praṇato asmi stutaṃ stutyaiḥ sa me pāpaṃ vyapohatu ।।

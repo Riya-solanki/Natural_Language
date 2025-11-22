@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3894 | label: meter | g:0.194 m:0.75 ---
+
+te kruddhāḥ śaravarṣeṇa sunīthaṃ samavākiran 
+nṛtyantaṃ rathamārgeṣu cāpahastāḥ kalāpinaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2033 | label: meter | g:0.194 m:0.5 ---
+
+tvaṃ hi cakṣuṣmatāṃ cakṣuḥ ślāghyaḥ prabhavatāṃ prabhuḥ 
+śreṣṭho yogavatāṃ yogī gatir gatimatām api ।।

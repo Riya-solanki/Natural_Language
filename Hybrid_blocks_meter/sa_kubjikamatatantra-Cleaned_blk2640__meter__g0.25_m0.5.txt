@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2640 | label: meter | g:0.25 m:0.5 ---
+
+da dhātṛ jānumadhye tu saṃsthito varavarṇini 
+tha diṇḍī ūrudeśe tu ta āṣāḍhī tatordhvataḥ ।।

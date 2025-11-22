@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 381 | label: meter | g:0.056 m:0.875 ---
+
+{kṛtaṃ ca garvābhimukhaṃ manastvayā
+kimanyadevaṃ nihatāśca no dviṣaḥ ।
+tamāṃsi tiṣṭhanti hi tāvadaṃśumān
+na yāvadāyātyudayādrimaulitām ।।}

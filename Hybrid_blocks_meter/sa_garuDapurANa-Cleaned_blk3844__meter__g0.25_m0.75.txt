@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3844 | label: meter | g:0.25 m:0.75 ---
+
+śruto bhagīrathasuto nābhagaśca śrutātkila ।
+nābhāgādambarīṣo abhūtsindudvīpo ambarīṣataḥ ।।

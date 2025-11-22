@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 903 | label: grammar | g:0.75 m:0.5 ---
+
+atha bhagavān vairocanastathāgataḥ sarvatathāgatahṛdayamātmānamadhiṣṭhāya sarvavajrasamatayā aśeṣānavaśeṣasatvadhātuparitrāṇasarvahitasukhottamasiddhihetoḥ sarvaduṣṭavinayāya ca, sarvatathāgatamahākaruṇopāyasamādhijñānamadhyālambhya, sarvatathāgatamahākarūṇopāyakrodhasamaya vajraṃ nāma samādhiṃ samāpannaḥ । samanantarasamāpanne cātraitasminneva kṣaṇe sarvatathāgatahṛdayebhyaḥ sarvatathāgatasamayannāma sarvatathāgatahṛdayaṃ niścacāra huṃ ।।

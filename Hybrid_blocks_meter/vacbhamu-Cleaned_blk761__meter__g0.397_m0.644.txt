@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 761 | label: meter | g:0.397 m:0.644 ---
+
+bādaristu mukhya eva caraṇaśabdaḥ karmaṇītyāha- sukṛtaduṣkṛte eveti tu bādariḥ ।
+brahmaṇaparivrājakanyāyo gobalīvardanyāyaḥ ।
+śeṣamatirohitārtham ।।

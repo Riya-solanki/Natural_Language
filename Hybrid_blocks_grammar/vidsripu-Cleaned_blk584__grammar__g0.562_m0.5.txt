@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 584 | label: grammar | g:0.562 m:0.5 ---
+
+dolālolāḥ śvasanamarutaś cakṣuṣī nirjharābhe tasyāḥ śuṣyattagarasumanaḥpāṇḍurā gaṇḍabhittiḥ ।
+tadgātrāṇāṃ kim iva hi vayaṃ brūmahe durbalatvaṃ yeṣām agre pratipad uditā candralekhāpy atanvī ।।

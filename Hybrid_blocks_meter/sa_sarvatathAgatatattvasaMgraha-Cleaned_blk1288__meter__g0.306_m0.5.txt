@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1288 | label: meter | g:0.306 m:0.5 ---
+
+vajraṃ gṛhya tu pāṇibhyāṃ sphoṭayet kruddhamānasaḥ ।
+yasya nāmnā tu hṛdayaṃ sphuṭet tasya janasya hi ।।

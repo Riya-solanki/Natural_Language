@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 241 | label: meter | g:0.263 m:0.674 ---
+
+pulastya uvāca ।
+svarūpaṃ tava vakṣyāmi rāśīnāṃ śṛṇu nārada ।
+yādṛśā yatra saṃcārā yasmin sthāne vasanti ca ।।

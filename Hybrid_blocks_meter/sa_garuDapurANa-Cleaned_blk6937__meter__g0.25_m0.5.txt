@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6937 | label: meter | g:0.25 m:0.5 ---
+
+iti śrīgāruḍe mahāpurāṇe mārkaṇḍeyakṛtaṃ mṛtyvaṣṭakastotraṃ nāma trayastriṃśaduttaradviśatatamo adhyāyaḥ

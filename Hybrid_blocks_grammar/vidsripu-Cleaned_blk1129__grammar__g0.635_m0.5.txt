@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1129 | label: grammar | g:0.635 m:0.5 ---
+
+salīlaṃ haṃsānāṃ pibati nivaho yatra vimalaṃ jalaṃ tasmin mohāt sarasi rucire cātakayuvā ।
+svabhāvād garvād vā na pibati payas tasya śakuneḥ kim etenoccais tvaṃ bhavati laghimā vāpi sarasaḥ ।।

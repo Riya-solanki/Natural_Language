@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 950 | label: meter | g:0.0 m:0.75 ---
+
+kṣityādīnyatha tattvāni tadrūpādhikṛtāni vā 
+yasmānnācetanaṃ tattvaṃ siddhamapyupakārakam ।। MT

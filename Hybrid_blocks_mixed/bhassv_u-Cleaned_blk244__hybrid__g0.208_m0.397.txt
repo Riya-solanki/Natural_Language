@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 244 | label: hybrid | g:0.208 m:0.397 ---
+
+{padmāvatī} - haḷā mā mā evvaṃ 
+sadakkhiñño evva ayyautto jo idāṇiṃ vi ayyāe guṇāṇi sumaradi 
+[halā mā maivam । sadākṣiṇya evāryaputraḥ ya idānīm apy āryāyā vāsavadattāyā guṇān smarati । ]

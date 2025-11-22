@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 874 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhukaṇṭha uvāca-tad evam anyaṃ ca vṛttāntaṃ varṇitavān । śrīmān vraja-sukha-varṣī devarṣiś ca parasparaṃ harṣitāṃ prapannaḥ sa-bāṣpa-romaharṣādhibhiḥ sampannaḥ snigdha-saṃvāda-vicchedataḥ parikhidya śanair eva ca vicchidya sva-sva-varmānuvartate sma । śrīmad-vrajendra-nandanas tu tat-kathā-paryantānandena paryāptaḥ sarvaṃ tad-duḥkha-jātam ācchannatām āpannam eva cakāra । tatra bhagavantaḥ śrī-devarṣi-caraṇā yad-yad-bhāvitayā samudbhāvitavantas tat sarvam abhūd eva ।

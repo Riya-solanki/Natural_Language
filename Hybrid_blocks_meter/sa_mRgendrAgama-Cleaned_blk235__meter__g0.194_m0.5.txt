@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 235 | label: meter | g:0.194 m:0.5 ---
+
+tatastridravyajā sā syān na pareṇeṣyate tathā 
+yenopalabhyate yo arthaḥ sa tasyārthasya kāraṇam ।।

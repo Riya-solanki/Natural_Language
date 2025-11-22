@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 59 | label: meter | g:0.307 m:0.623 ---
+
+ahaṅkārāvṛto rudraḥ pratyuvāca pitāmaham ।
+ko bhavāniha saṃprāptaḥ kena sṛṣṭo asi māṃ vada ।।

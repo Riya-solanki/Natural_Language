@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1113 | label: meter | g:0.233 m:0.928 ---
+
+api tu jagad aśeṣaṃ durnayāviddhatīvra-
+vyasanaśatasahasrāghātanirbhidyamānam ।
+kṛpaṇam abhisamīkṣya kṣīṇadoṣānujātaṃ
+padam abhayam aśokaṃ prāptum abhyudyatāḥ smaḥ ।।

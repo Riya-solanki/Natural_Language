@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11203 | label: meter | g:0.26 m:0.894 ---
+
+śrībhagavānuvāca ।
+kumāryā vidhṛtatvācca matpradānācca bhāmini ।
+teṣāṃ manobhīṣṭasiddhirbhaviṣyati na saṃśayaḥ ।।

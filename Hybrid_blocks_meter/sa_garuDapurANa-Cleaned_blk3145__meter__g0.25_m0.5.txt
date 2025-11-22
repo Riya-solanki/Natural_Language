@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3145 | label: meter | g:0.25 m:0.5 ---
+
+nadīnāṃ ca nakhīnāṃ ca śṛṅgiṇāṃ śastrapāṇinām ।
+viśvāso naiva gantavyaḥ striṣu rājakuleṣu ca ।।

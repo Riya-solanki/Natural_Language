@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 109 | label: meter | g:0.25 m:0.5 ---
+
+antaḥ śavaśrutau dāhe śavagandhe kharānile ।
+tadvirāmaṃ vinā khyāta- jantumṛtyau ca vāsaram ।

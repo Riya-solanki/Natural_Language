@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 232 | label: meter | g:0.398 m:0.555 ---
+
+atha tvakāryānavagatireva pravṛtteḥ kāraṇaṃ, tato bāhyā api vedārthe pravarteran akāryatvānavagamāt ।
+atha tvakāryameva te avagaccheyuḥ, tataḥ kāryasyākāryatayāvagamādviparītakhyātirityāstāṃ tāvat ।
+tasmātsvapnādiṣvapi bāhyasyaivānyathābhūtasyaivānyathāvabhāsātsiddhaṃ sarvatra bāhyālambanatvam ।

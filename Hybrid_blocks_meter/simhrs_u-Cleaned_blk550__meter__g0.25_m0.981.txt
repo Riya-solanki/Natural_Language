@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 550 | label: meter | g:0.25 m:0.981 ---
+
+ratyā, yathā mamaiva-
+nitānta-surata-klāntāṃ celānta-kṛta-vījanām ।
+kāntāṃ lulita-netrāntāṃ kalaye kala-bhāṣiṇīm ।।

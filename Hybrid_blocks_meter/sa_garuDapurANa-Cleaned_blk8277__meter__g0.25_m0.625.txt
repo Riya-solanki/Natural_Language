@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8277 | label: meter | g:0.25 m:0.625 ---
+
+cakradharo api suratvaṃ surabhāve sakalasurapatirbhavitum ।
+surapatirūrdhvagatitvaṃ tathāpi nanivartate tṛṣṇā ।।

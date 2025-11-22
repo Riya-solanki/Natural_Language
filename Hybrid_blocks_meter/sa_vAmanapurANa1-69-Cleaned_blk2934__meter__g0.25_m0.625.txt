@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2934 | label: meter | g:0.25 m:0.625 ---
+
+patamānād dvipendrāt tu śakraścāplutya vegavān ।
+tyaktvaiva mandaragiriṃ papāta vasudhātale ।।

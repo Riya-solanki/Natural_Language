@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3740 | label: meter | g:0.306 m:0.5 ---
+
+duhitā vijayānāmnī va napālo vṛṣo abhavat ।
+gṛhītvā kauśikastaṃ ca grīṣme gaṅgāṃ gato aramat ।।

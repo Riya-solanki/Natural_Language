@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1966 | label: meter | g:0.194 m:0.5 ---
+
+sa māṃ paribhavann eva svāṃ velāṃ samatikraman 
+kledayām āsa capalair lāvaṇair ambuvisravaiḥ ।।

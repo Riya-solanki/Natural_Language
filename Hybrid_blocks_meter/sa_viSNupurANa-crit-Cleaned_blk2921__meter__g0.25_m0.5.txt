@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2921 | label: meter | g:0.25 m:0.5 ---
+
+nāviśālāṃ na vā bhagnāṃ nāsamāṃ malināṃ na ca 
+na ca jantumayīṃ śayyām adhitiṣṭhed anāstṛtām ।।

@@ -1,0 +1,6 @@
+--- source: brssbh1u-Cleaned.txt | block: 449 | label: grammar | g:0.607 m:0.203 ---
+
+akasminnu khalvākāśa otaśca protaśceti ।
+sa hovācaitadvai tadakṣaraṃ gārgi brāhmaṇā abhivadantyasthūlamanaṇu' ityādi śrūyate ।
+tatra saṃśayaḥ- kimakṣaraśabdena varṇa ucyate kiṃvā parameśvara iti ।
+tatrākṣarasamāmnāya ityādāvakṣaraśabdasya varṇe prasiddhatvāt prasiddhyatikramasya cāyuktatvāt aoṅkāra evedaṃ sarvam' ityādau ca śrutyantare varṇasyāpyupāsyatvena sarvātmakatvāvadhāraṇāt, varṇa evākṣaraśabda iti, evaṃ prāpta ucyate- para evātmākṣaraśabdavācyaḥ ।

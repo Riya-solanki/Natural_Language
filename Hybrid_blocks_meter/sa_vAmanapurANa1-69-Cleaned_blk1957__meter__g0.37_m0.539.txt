@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1957 | label: meter | g:0.37 m:0.539 ---
+
+yāvatsūkarūpeṇa praviśāmi tamāśramam ।
+na jāne taṃ naraṃ rājan yena me prahitaḥ śaraḥ ।।

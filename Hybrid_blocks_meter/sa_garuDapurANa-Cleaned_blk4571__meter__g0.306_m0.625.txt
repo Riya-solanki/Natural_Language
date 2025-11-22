@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4571 | label: meter | g:0.306 m:0.625 ---
+
+mahatī piḍikā nīlā vinatā nāma sā smṛtā ।
+dahati tvacamutthāne jvālinī kaṣṭadāyinī ।।

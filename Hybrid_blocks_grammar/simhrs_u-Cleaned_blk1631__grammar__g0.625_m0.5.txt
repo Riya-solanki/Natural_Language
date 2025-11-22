@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1631 | label: grammar | g:0.625 m:0.5 ---
+
+ity atra candra-sāmyena mukhe amṛta-kalpanād ayam abhiprāyaḥ । athavā tatraivātihṛdya-bimbādhare rājño mamatvam abhiprāyaḥ ।

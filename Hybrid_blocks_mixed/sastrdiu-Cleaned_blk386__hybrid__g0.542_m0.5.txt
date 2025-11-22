@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 386 | label: hybrid | g:0.542 m:0.5 ---
+
+athavā dhvaniyoga eva śrotrasaṃskāro nānyaḥ, tasya ca vispaṣṭameva bhaṅgukatvamityuktam ।।

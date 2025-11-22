@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 218 | label: hybrid | g:0.5 m:0.5 ---
+
+yo yaḥ śāpo mayā datto bhavato asurapuṅgava ।
+bhāvyametena nūnaṃ te tasmāttvaṃ mā viṣīda vai ।।

@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 59 | label: meter | g:0.194 m:0.5 ---
+
+dṛṣṭi-śravaṇam ayātās tad-gocaritāś ca jāti-rūpābhyām ।
+naga-mṛga-pakṣi-viśeṣās tatratyānāṃ ca citram ādadhati ।। [gīti]

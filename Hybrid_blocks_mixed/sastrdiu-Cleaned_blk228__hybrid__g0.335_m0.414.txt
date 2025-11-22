@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 228 | label: hybrid | g:0.335 m:0.414 ---
+
+kiñca yadi samyagrajatabodhe tādātmyavabhāsate na śuktirajatavedane tato avabhāsyabhedādavabhāsasya vailakṣaṇyaṃ prāgeva bādhakādanusaṃdhātuṃ śaknuyāt ।
+vailakṣaṇyavagamācca na pravarteta ।
+kiñca yadi rajatārthī śukterupādānaṃ kāryatayāvagacchet,

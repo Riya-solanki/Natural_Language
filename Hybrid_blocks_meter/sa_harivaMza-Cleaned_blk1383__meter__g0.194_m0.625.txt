@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1383 | label: meter | g:0.194 m:0.625 ---
+
+kṛtsnaṃ bāhusahasraṃ ca ciccheda bhṛgunandanaḥ 
+paraśvadhena dīptena jñātibhiḥ sahitasya vai ।।

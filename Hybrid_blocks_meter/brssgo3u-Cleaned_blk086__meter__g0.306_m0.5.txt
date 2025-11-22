@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 86 | label: meter | g:0.306 m:0.5 ---
+
+teṣvapi saptasu narakeṣu tasyaiva yamasyādhiṣṭhātṛtvavyāpārābhyupagamādavirodhaḥ ।
+yamaprayuktā eva hi te citraguptādayo adhiṣṭhātāraḥ smaryante ।।

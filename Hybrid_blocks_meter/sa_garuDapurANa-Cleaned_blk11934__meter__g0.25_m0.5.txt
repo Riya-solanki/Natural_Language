@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11934 | label: meter | g:0.25 m:0.5 ---
+
+indropi vāyukaramarditavāyukūṭabinduṃ ca prāśya śirasi hyasahiṣṇumānaḥ ।
+bhāgīrathī haripadāṅkamiti sma nityaṃ jānanmahāparamabhāgavatapradhānaḥ ।
+bhaktyā ca khinnahṛdayaḥ paramādareṇa dhṛtvā svamūrdhni paramo hyaśivaḥ śivo abhūt ।।

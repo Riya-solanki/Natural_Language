@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 396 | label: hybrid | g:0.321 m:0.493 ---
+
+priyeṇa saṃgrathya vipakṣasannidhāvupāhitāṃ vakṣasi pīvarastanī ।
+srajaṃ na kācidvijahau jalāvilāṃ vasanti hi premṇi guṇā na vastuni ।।

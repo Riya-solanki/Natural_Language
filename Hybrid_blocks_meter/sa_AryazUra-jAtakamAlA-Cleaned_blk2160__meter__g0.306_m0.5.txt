@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2160 | label: meter | g:0.306 m:0.5 ---
+
+imāmavetyāprativāryaraudratāṃ kṛtāntaśatrorbhavane na me matiḥ ।
+na manyunā snehaparikṣayeṇa vā prayāmi dharmāya tu niścito vanam ।।

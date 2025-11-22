@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3664 | label: grammar | g:0.646 m:0.5 ---
+
+matputreṇa hi sakalabhūmaṇḍalaparipālanaṃ kāryaṃ kiyad vā brāhmaṇasya balavīryasaṃpad ity uktvā sā svacaruṃ mātre dattavatī ।।

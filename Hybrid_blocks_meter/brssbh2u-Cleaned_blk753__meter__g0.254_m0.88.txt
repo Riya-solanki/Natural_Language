@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 753 | label: meter | g:0.254 m:0.88 ---
+
+aṇuścāyaṃ mukhyaḥ prāṇaḥ pratyetavya itaraprāṇavat ।
+aṇutvaṃ cehāpi saukṣmyaparicchedau na paramāṇutulyatvam ।
+pañcabhirvṛttibhiḥ kṛtsnaśarīravyāpitvāt ।
+sūkṣmaḥ prāṇa utkrāntau pārśvasthenānupalabhyamānatvāt ।
+paricchinnaścotkrāntigatyāgatiśrutibhyaḥ ।

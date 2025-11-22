@@ -1,0 +1,8 @@
+--- source: brssgo3u-Cleaned.txt | block: 211 | label: meter | g:0.25 m:0.5 ---
+
+tasmādevañjātīyakeṣu vākyeṣu yathāśrutaṃ nirākārameva brahmāvadhārayitavyam ।
+itarāṇi tvākārapavadbrahmaviṣayāṇi vākyāni na tatpradhānāni ।
+upāsanāvidhipradhānāni hi tāni teṣvasati virodhe yathāśrutamāśrayitavyam ।
+sati tu virodhe tatpradhānānyatatpradhānebhyo balīyāṃsi bhavantīti ।
+eṣa vinigamanāyāṃ hetuḥ ।
+yenobhayīṣvapi śrutiṣu satīṣvanākārameva brahmāvadhāryate na punarviparītamiti ।।

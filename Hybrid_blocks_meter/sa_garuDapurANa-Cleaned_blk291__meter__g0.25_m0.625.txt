@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 291 | label: meter | g:0.25 m:0.625 ---
+
+upaveśya bahiḥ śiṣyāndhāraṇaṃ teṣu kārayet ।
+vāyavyā kalayā rudra śoṣyamāṇānvicintayet ।।

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 518 | label: grammar | g:0.729 m:0.5 ---
+
+tat kim idam upanītam । evaṃ hi mātary apakāriṇaḥ prāṇina ihaiva vyasanaprapātapātālāvalambino bhavantīti satatasamupajāyamānapremaprasādabahumānamānasaiḥ satpuruṣair mātaraḥ śuśrūṣaṇīyā iti ।।

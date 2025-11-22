@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3682 | label: grammar | g:0.75 m:0.5 ---
+
+tasyāpy alarkasya sannatir nāmātmajo abhavat । tataḥ sunīthas tasya suketus tato dharmaketuḥ । tataḥ satyaketus tasmād vibhus tattanayaḥ suvibhus tataś ca sukumāras tasyāpi dṛṣṭaketuḥ । tataś ca vainahotras tataś ca bhargo bhārgasya bhārgabhūmiḥ । tataś cāturvarṇyapravṛttiḥ ity ete kāśayo bhūpatayaḥ kathitāḥ । rajes tu saṃtatiḥ śrūyatām iti ।।

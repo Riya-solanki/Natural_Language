@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 538 | label: meter | g:0.373 m:0.549 ---
+
+ko asau kṛtī kathaya ko madanaikabandhur udgrīvam arcayasi kasya mṛgākṣi mārgam ।
+nīlābjakarburitamadhyavinidrakunda- dāmābhirāmarucibhis taralaiḥ kaṭākṣaiḥ ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 110 | label: meter | g:0.139 m:0.969 ---
+
+nava-kāmā, yathā mamaiva-
+bālā prasādhana-vidhau nidadhāti cittaṃ
+dattādarā pariṇaye maṇi-putrikāṇām ।
+ālajjate nija-sakhī-jana-manda-hāsair
+ālakṣyate tad iha bhāva-navāvatāraḥ ।।

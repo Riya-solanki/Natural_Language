@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 117 | label: meter | g:0.272 m:0.845 ---
+
+nanu vikalpanimittaṃ saṃbandhagrahaṇaṃ tatkathaṃ pratyakṣapūrvakatvam ।
+savikalpakamapyanuparatendriyavyāpārasya jāyamānamaparokṣāvabhāsatvātpratyakṣamevetyadoṣaḥ ।।

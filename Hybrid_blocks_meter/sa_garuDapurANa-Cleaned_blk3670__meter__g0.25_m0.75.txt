@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3670 | label: meter | g:0.25 m:0.75 ---
+
+samāpte śayanaṃ dadyādgṛhaṃ copaskarānvitam ।
+saṃpūjya vipramithanaṃ bhavānī prīyatāmiti ।।

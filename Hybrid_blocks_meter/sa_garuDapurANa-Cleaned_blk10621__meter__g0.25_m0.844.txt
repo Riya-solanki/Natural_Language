@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10621 | label: meter | g:0.25 m:0.844 ---
+
+viśeṣāttatra garuḍa devaistattvābhimānibhiḥ ।
+adhaścordhvaṃ tadākramya haristiṣṭhati sarvadā ।।
+evaṃ prākṛtasargoktirvaikṛtaṃ śṛṇu pakṣirāṭ ।।
+garuḍa uvāca ।
+sṛṣṭiruktā tvayā pūrvaṃ śrutā samyaṅ mayā hare ।।

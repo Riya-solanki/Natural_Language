@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11249 | label: hybrid | g:0.51 m:0.5 ---
+
+maulyena vedādhyayanaṃ prakurvate teṣāṃ gatiḥ sūryasūnuḥ sadaiva ।
+yadṛcchayā prāptadhanena ye tu saṃtuṣṭāste hyatra yogyāḥ sadaiva ।।

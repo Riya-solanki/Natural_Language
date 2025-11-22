@@ -1,0 +1,12 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1138 | label: meter | g:0.012 m:0.793 ---
+
+"prājāpattyāmiṣṭiṃ nirupya nasyāṃ sarvavedasaṃ hutvā ātmanyagnīn samāropya brāhmaṇaḥ pravrajet"
+iti śrūyate tena vijānīmaḥ prajāvittalokaiṣaṇābhyo
+vyutthitasya nivṛtte phalārthitve samāropaṇaṃ
+vidhīyate iti, evaṃ ca brāhmaṇāni
+"so anyad vratamupākariṣyamāṇo yājñavalkyo maitreyīmitihovāca
+pravrajiṣyan vā are ahamasmāt sthānādasmi
+hanta te anayā kātyāyanyā sahāntaṃ karavāṇīti
+athāpyuktānuśāsanāsi maitreyi etāvadare
+khalvamṛtatvamiti hoktvā yājñavalkyaḥ pravavrāja"
+iti।।

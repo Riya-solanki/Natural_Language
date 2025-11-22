@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2109 | label: meter | g:0.25 m:0.75 ---
+
+tasya prapātasamanantarakālameva tadvadvarālayamatītya ramāsamīpe ।
+sthānaṃ kṣiterupapayonidhitīralekhaṃyāṃ varamāṇikyagirerupatyakāyām ।।

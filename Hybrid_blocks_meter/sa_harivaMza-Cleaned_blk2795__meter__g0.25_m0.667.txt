@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2795 | label: meter | g:0.25 m:0.667 ---
+
+tataḥ śaradi yuktānāṃ maunamūkeṣu barhiṣu 
+yāvat sukhatarais toyair vipluteṣu pluteṣu ca ।। 
+haṃsasārasapūrṇeṣu nadīnāṃ pulineṣu ca । 
+mattakrauñcapraṇādeṣu matteṣu vṛṣabheṣu ca 
+goṣu caiva prahṛṣṭāsu kṣarantīṣu payo bahu ।।

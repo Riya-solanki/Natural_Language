@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 806 | label: meter | g:0.056 m:0.521 ---
+
+{jagati jayinaste te bhāvā navendukalādayaḥ
+prakṛtimadhurāḥ santyevānye mano madayanti ye ।
+mama tu yadiyaṃ yātā loke vilocanacandrikā
+nayanaviṣayaṃ janmanyekaḥ sa eva mahotsavaḥ ।।}

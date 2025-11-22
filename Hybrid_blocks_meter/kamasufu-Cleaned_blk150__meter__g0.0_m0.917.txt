@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 150 | label: meter | g:0.0 m:0.917 ---
+
+tṛtīyo adhyāyaḥ
+prakaraṇa [arthāgamopāya-prakaraṇam]

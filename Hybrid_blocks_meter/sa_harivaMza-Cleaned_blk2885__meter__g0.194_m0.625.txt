@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2885 | label: meter | g:0.194 m:0.625 ---
+
+tam āpatantaṃ pramukhe pratijagrāha durdharam 
+kṛṣṇaḥ kṛṣṇāñjananibhaṃ vṛṣaṃ prati vṛṣopamaḥ ।।

@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 386 | label: meter | g:0.263 m:0.599 ---
+
+saṃpat samṛddhiyogaḥ ।
+yathā muktāḥ kelivisūtrahāragalitāḥ saṃmārjanībhirhṛtāḥ prātaḥ prāṅgaṇasīmni mantharacaladbālāṅgrilākṣāruṇāḥ ।
+dūrāddāḍimabījaśaṅkitadhiyaḥ karṣanti kelīśukāḥ yadvidvadbhavaneṣu bhojanṛpatestat tyāgalīlāyitam ।।

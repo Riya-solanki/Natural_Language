@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1322 | label: meter | g:0.194 m:0.625 ---
+
+{udayati vitatordhvaraśmirajjāvahimarucau himadhāmni yāti cāstam ।
+vahati girirayaṃ vilambighaṇṭādvayaparivāritavāraṇendralīlām ।।}

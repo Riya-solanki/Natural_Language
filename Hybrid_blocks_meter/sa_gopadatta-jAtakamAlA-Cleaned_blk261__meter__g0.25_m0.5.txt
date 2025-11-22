@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 261 | label: meter | g:0.25 m:0.5 ---
+
+tavāpi nūnam āyuṣman mātā hṛdayavallabhā ।
+ātmasnehānumānena mā vyātsīr mama mātaram ।।

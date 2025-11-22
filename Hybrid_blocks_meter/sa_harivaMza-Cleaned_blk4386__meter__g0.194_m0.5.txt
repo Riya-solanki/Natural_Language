@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4386 | label: meter | g:0.194 m:0.5 ---
+
+jīvaputrā tvayā putra kā sā bhāgyavibhūṣitā 
+kim arthaṃ cāmbudaśyāma sabhāryas tvam ihāgataḥ ।।

@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 606 | label: hybrid | g:0.328 m:0.466 ---
+
+।। iti vātsyāyanīye nyāyabhāṣye dvitīyādhyāyasya dvitīyamāhnikaṃ samāptam ।।
+।। dvitīyādhyāyaśca samāptaḥ ।।

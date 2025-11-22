@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1114 | label: grammar | g:0.677 m:0.5 ---
+
+uccair unmathitasya tena balinā daivena dhik karmaṇā lakṣmīm asya nirasyato jalanidher jātaṃ kim etāvatā ।
+gāmbhīryaṃ kim ayaṃ jahāti kim ayaṃ puṣṇāti nāmbhodharān maryādāṃ kim ayaṃ bhinatti kim ayaṃ na trāyate vāḍavam ।।

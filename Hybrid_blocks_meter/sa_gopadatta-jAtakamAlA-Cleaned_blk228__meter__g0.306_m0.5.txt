@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 228 | label: meter | g:0.306 m:0.5 ---
+
+svayaṃ samutthāpya vikalpavāsanān samīraṇoddhūtaśikhān bhavānalān ।
+janāḥ saroṣā iva nirdahanty amī svam indriyagrāmam anarthapaṇḍitāḥ ।।

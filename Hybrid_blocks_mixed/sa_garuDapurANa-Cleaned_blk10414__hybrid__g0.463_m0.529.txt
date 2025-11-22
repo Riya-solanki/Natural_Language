@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10414 | label: hybrid | g:0.463 m:0.529 ---
+
+śrīruvāca ।
+natāsmi te nātha padāravindaṃ na veda cānyaccaraṇādṛte tava ।
+tvayīśvare saṃti guṇāḥ śrutāstu tathāśrutāḥ saṃti ca devadeva ।।

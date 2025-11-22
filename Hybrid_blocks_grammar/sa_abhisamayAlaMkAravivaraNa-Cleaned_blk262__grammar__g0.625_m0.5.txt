@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 262 | label: grammar | g:0.625 m:0.5 ---
+
+tatra sarvākārābhisambodhopalakṣakā ekādaśa dharmāḥ, mūrdhābhisamayopalakṣakā aṣṭau dharmāḥ, ānupūrvikābhisamayopakṣakāstrayodaśa dharmāḥ, ekakṣaṇābhisambodhopalakṣakāścatvāra iti ṣaṭtriṃśad bhavanti ।

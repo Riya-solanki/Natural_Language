@@ -1,0 +1,4 @@
+--- source: tsc_simu-Cleaned.txt | block: 102 | label: grammar | g:0.612 m:0.078 ---
+
+sargasya neśvaraḥ kāraṇaṃ na svabhāvo na kālaḥ kālo api yogināṃ kṣaṇarūpa eva na tu nyāyavaiśeṣikayorivātmavadakhaṇḍo nitya eko lāghavāt sa eva tattadupādyavacchinnaḥ san kṣaṇamuhūrtādivatsarāntaṃ vyavahāraṃ karotīti ।
+na tu kṣaṇanāmā pṛthak padārtho astīti ।।

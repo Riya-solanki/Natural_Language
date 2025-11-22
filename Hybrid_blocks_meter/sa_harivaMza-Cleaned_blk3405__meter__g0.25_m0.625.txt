@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3405 | label: meter | g:0.25 m:0.625 ---
+
+kiṃ nu te karuṇaṃ vīra bhāryāsv etāsu bhūmipa 
+ārtanādaṃ rudantīṣu yan nehādyāvabudhyase ।।

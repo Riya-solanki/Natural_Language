@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 269 | label: meter | g:0.306 m:0.5 ---
+
+dānena śīlābharaṇena tasmāt puṇyāni saṃvardhayituṃ yatadhvam ।
+vivartamānasya hi janmadurge lokasya puṇyāni parā pratiṣṭhā ।।

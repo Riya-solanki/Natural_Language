@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 721 | label: meter | g:0.25 m:0.5 ---
+
+ṣoḍaśa vā dvātriṃśadvā grāsā jīrṇāścatuḥṣaṣṭiḥ ।
+vidhyati tadā rasendro lohaṃ dhūmāvalokanataḥ ।।

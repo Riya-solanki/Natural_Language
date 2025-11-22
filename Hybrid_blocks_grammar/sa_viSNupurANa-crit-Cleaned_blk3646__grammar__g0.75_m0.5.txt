@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3646 | label: grammar | g:0.75 m:0.5 ---
+
+vyatītārdharātrasamaye vinidraś cācintayat । mamorvaśīsālokyaprāptyartham agnisthālī gandharvair dattā sā ca mayāṭavyāṃ parityaktā । tad ahaṃ tatra tadāharaṇāya yāsyāmīty utthāya tatrāpy upagato nāgnisthālīm apaśyat । śamīgarbhaṃ cāśvattham agnisthālīsthāne dṛṣṭvācintayat । mayātra sthālī nikṣiptā sā cāśvatthaḥ śamīgarbho abhūt । tad enam evāham agnirūpam ādāya svapuram abhigamyāraṇīṃ kṛtvā tadutpannāgner upāstiṃ kariṣyāmīty evam eva svapuram upagato araṇiṃ cakāra ।।

@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 905 | label: meter | g:0.241 m:0.563 ---
+
+athavā-
+daitya-ghātī bhavān nityaṃ sarva-lokaika-pālakaḥ ।
+vayaṃ ca loka-madhye smas tvan-nāthāḥ svata eva tat ।। [anuṣṭubh]

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3357 | label: meter | g:0.306 m:0.625 ---
+
+pūrvaṃ gayena nṛvarema yatra yaṣṭo aśvamedhaḥ śatakṛtsadakṣiṇaḥ ।
+manuṣyemedhaḥ śatakṛtsahasrakṛnnarendrasūyaśca sahasrakṛd vai ।।

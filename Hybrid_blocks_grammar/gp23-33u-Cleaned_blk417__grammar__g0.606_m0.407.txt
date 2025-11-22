@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 417 | label: grammar | g:0.606 m:0.407 ---
+
+[] madhumaṅgala uvāca-yuktaṃ tavedaṃ nirargalatvam । yatas tasyā dharādhiśāyā vaśā bhavatī kasya vānyasya vaśā bhaviṣyati ।
+[] śrī-kṛṣṇas tu sa-gāmbhīryam uvāca-nikāmam eva nivedyatām ।

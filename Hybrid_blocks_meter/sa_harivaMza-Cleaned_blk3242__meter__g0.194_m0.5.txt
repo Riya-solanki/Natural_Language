@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3242 | label: meter | g:0.194 m:0.5 ---
+
+sa saṃcodayitavyas te tāv uddiśya vanaukasau 
+vasudevasutau nīcau yathā syātāṃ gatāyuṣau ।।

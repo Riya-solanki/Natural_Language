@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5445 | label: hybrid | g:0.5 m:0.5 ---
+
+oṣṭhe netre lalāṭe ca mūrdhni candrakalāḥ sthitāḥ ।
+strīṇāṃ pakṣe site kṛṣṇe ūrdhvādhaḥ saṃsthitā nṛṇām ।।

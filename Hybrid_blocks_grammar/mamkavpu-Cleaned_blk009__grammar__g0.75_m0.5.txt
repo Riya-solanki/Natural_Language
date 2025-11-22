@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 9 | label: grammar | g:0.75 m:0.5 ---
+
+sakalaprayojanamaulibhūtaṃ samanantarameva rasāsvādana-samudbhūtaṃ vigalitavedyāntaramānandam prabhusaṃmitaśabdapradhānavedādiśāstrebhyaḥ śabdārthayorguṇabhāvena rasāṅgabhūtavyāpārapravaṇatayā vilakṣaṇaṃ yat kāvyaṃ lokottaravarṇanānipuṇakavikarma tat kānteva sarasatāpādanenābhimukhīkṛtya rāmādivadvartitavyaṃ na rāvaṇādivadityupadeśaṃ ca yathāyogaṃ kaveḥ sahṛdayasya ca karotīti sarvathā tatra yatanīyam ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 137 | label: grammar | g:0.594 m:0.5 ---
+
+sampūrṇaḥ punar abhyudeti kiraṇair indus tato dantinaḥ kumbhadvandvam idaṃ punaḥ surataror agrollasanmañjarī ।
+itthaṃ yadvadanastanadvayavaladromāvalīṣu bhramaḥ kṣīrābdher mathane abhavad diviṣadāṃ lakṣmīr asāv astu vaḥ ।।

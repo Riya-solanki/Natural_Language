@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 55 | label: grammar | g:0.615 m:0.5 ---
+
+dvitīyo guṇaḥ । śuklādinā hi labdhasattākaṃ vastu viśiṣyate । sādhyaḥ pūrvāparībhūtāvayavaḥ kriyārūpaḥ ।
+ḍitthādiśabdānāmantyabuddhinirgrāhyaṃ saṃhṛtakramaṃ svarūpaṃ vaktrā tadṛcchayā ḍitthādiṣvartheṣūpādhitvena saṃniveśyata iti so ayaṃ saṃjñārūpo yadṛcchātmaka iti ।

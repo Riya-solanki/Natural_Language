@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 34 | label: hybrid | g:0.5 m:0.5 ---
+
+nirātmake bhedini sārahīne duḥkhe kṛtadhne satatāśucau ca ।
+dehe parasmāyupayujyamāne na prītimānyo na vicakṣaṇaḥ saḥ ।।

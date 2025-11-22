@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6577 | label: meter | g:0.25 m:0.5 ---
+
+nityamāsyaṃ śuci strīṇāṃ śakuntaiḥ pātitaṃ phalam ।
+prastrave ca śucirvatsaḥ śvā mṛgagrahaṇe śuciḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 974 | label: hybrid | g:0.51 m:0.5 ---
+
+evaṃ purā nārada bhāskareṇa puraṃ sukeśerbhuvi sannipātitam ।
+divākaro bhūmitale bhavena kṣiptastu dṛṣṭyā na ca saṃpradagdhaḥ ।।

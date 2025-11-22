@@ -1,0 +1,3 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 12 | label: hybrid | g:0.5 m:0.5 ---
+
+ghaṭaśarāvādiparamāṇuṣu bahuṣvapi na ko api viśeṣo asti ।

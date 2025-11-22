@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 213 | label: grammar | g:0.58 m:0.375 ---
+
+na bhūsudhiyoḥ ।।
+etayoraci supi yaṇna । sudhiya ityādi ।। sukhamicchatīti sukhīḥ । sukhyau । sukhyuḥ । śeṣaṃ pradhīvat । evaṃ bhānvādayaḥ ।।

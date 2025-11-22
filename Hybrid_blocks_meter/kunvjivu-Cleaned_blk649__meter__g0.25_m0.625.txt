@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 649 | label: meter | g:0.25 m:0.625 ---
+
+idamasulabhavastuprārthanādurnivāraṃ prathamamapi mano me pañcabāṇaḥ kṣiṇoti ।
+kimuta malayavātonmūlitāpāṇḍupatrai- rupavanasahakārairdarśiteṣvaṅkureṣu ।।

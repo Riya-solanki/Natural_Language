@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 90 | label: meter | g:0.11 m:0.687 ---
+
+atha dakṣiṇaḥ-
+nāyikāsv apy anekāsu tulyo dakṣiṇa ucyate ।। athā-
+snātā tiṣṭhati kuntaleśvara-sutā vāro' ṅga-rāja-svasur
+dyūte rātrir iyaṃ jitā kamalayā devī prasādyādya ca ।
+ity antaḥ-pura-sundarīḥ prati mayā vijñāya vijñāpite
+devenāpratipatti-mūḍha-manasā dvitrāḥ sthitaṃ nāḍikāḥ ।।

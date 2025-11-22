@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1503 | label: meter | g:0.194 m:0.5 ---
+
+yam ārūḍhaḥ sa bhagavān paryeti maghavān gajam 
+havir dhāneṣu gāyanti viprā makhamukhe sthitāḥ ।।

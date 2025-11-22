@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 544 | label: meter | g:0.146 m:0.743 ---
+
+tṛṣṇayā, yathā-
+vindhyā-dhvānau virala-salilās tarṣiṇī tatra sītā
+yāvan mūrchāṃ kalayati kila vyākule rāmabhadre ।
+drāk saumitriḥ puṭaka-kalaśīṃ māludhānīdalānāṃ
+tāvat prāpto dadhad atibhṛtāṃ vāriṇā nairjhareṇa ।।

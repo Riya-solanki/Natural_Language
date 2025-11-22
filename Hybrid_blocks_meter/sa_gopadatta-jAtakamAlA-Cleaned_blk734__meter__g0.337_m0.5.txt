@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 734 | label: meter | g:0.337 m:0.5 ---
+
+rajasāṃ vipūyapariṇāhimaṇḍalaṃ paramām avāpya vaśitāṃ svacetasi ।
+anapāyinīm anubhavanti ye ratiṃ bhavanaṃ vanaṃ ca samam eva tān prati ।।

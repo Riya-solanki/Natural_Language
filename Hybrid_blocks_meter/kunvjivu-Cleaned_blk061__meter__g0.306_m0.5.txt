@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 61 | label: meter | g:0.306 m:0.5 ---
+
+bharturmitraṃ priyamavidhave viddhi māmambuvāhaṃ tatsaṃdeśāddhṛdayanihitādāgataṃ tvatsamīpam ।
+yo vṛndāni tvarayati pathi śrāmyatāṃ proṣitānāṃ mandrasnigdhairdhvanibhirabalāveṇimokṣotsukāni ।।

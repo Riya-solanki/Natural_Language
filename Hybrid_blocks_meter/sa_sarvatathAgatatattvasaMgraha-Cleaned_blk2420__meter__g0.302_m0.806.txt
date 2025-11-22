@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2420 | label: meter | g:0.302 m:0.806 ---
+
+kuḍmalāgryā maṇiṃ badhvā lokeśo dhanado bhavet ।
+vajrakarmamaṇindadyān mahāviśvamaṇidhvajaṃ ।।

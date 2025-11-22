@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 236 | label: meter | g:0.102 m:0.5 ---
+
+[] tatra śrīmadbhāgavate khalv etad udbhāvitam-
+tata ārabhya nandasya vrajaḥ sarva-samṛddhimān ।
+harer nivāsātma-guṇai ramā-krīḍam abhūn nṛpa ।। []

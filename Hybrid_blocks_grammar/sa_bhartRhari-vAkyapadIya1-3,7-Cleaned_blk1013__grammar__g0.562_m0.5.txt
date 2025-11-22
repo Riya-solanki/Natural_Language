@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 1013 | label: grammar | g:0.562 m:0.5 ---
+
+kutaś cid āhṛtya padam evaṃ ca parikalpane karmasthabhāvakatvaṃ syād darśanādyabhidhāyinām ।।

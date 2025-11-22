@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 557 | label: meter | g:0.306 m:0.5 ---
+
+śītāmalasvādujalaṃ nipānaṃ bibhitsatāmasti na cenniṣeddhā ।
+vyarthābhidhānā bata lokapālā viproṣitā vā śrutimātrakaṃ vā ।।

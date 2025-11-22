@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 212 | label: grammar | g:0.562 m:0.5 ---
+
+jalaṃ jaladharodgīrṇaṃ kulaṃ gṛhaśikhaṇḍinām calaṃ ca taḍitāṃ dāma balaṃ kusumadhanvanaḥ ।।

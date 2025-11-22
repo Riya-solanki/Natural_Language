@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1655 | label: meter | g:0.194 m:0.625 ---
+
+agnimārutayos tasmin vṛtte saṃgrāmakarmaṇi 
+tanmayā vimalā lokās tābhyāṃ jayakṛtakriyāḥ ।।

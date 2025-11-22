@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 1056 | label: meter | g:0.276 m:0.641 ---
+
+[] śrī-kṛṣṇa uvāca-
+ākārāt pakṣitulyaḥ syād vyāpārān na ca pakṣivat ।
+bakaḥ kiṃ navakaḥ sākṣāt kūṭavat sthitir īkṣyate? ।। [anuṣṭubh]

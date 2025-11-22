@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 35 | label: meter | g:0.25 m:0.5 ---
+
+satyaṃ kiṃ tu smṛtijñānaṃ pūrvānubhavasaṃskṛteḥ ।
+jātam apy ātmaniṣṭhaṃ tan nādyānubhavavedakam ।।

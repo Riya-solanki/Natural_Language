@@ -1,0 +1,7 @@
+--- source: brssgo3u-Cleaned.txt | block: 267 | label: meter | g:0.346 m:0.697 ---
+
+FN svayaṃbhūrīśvaraḥ khānīndriyāṇi parāñci anātmagrāhakāṇi kṛtvā vyatṛmat nāsitavān ।
+āvṛttacakṣurniruddhendriyaḥ ।
+vinidrā vitamaskāḥ ।
+yuñjānaḥ dhyāyinaḥ ।
+yogalabhya ātmāyogātmā ।

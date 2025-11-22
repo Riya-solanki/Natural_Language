@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 715 | label: meter | g:0.25 m:0.625 ---
+
+upatyakāḥ padmakapuṣpapāṭalāḥ śilīndhrakāpādapavāritātapāḥ ।
+imā himādre ramayanti mānasaṃ nivṛttasaṃrāgaviṣaṃ vipaścitāṃ ।।

@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 31 | label: meter | g:0.224 m:0.571 ---
+
+{vāsavadattā} -
+{svagatam} ṇa hi rūvaṃ evva vāā vi khu se mahurā 
+[na hi rūpam eva vāg api khalv asyā madhurā । ]

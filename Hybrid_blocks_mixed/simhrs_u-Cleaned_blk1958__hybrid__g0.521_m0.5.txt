@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1958 | label: hybrid | g:0.521 m:0.5 ---
+
+jainaḥ-aye kṣaṇa-bhaṅga-vādin etad utpāta-phalaṃ prathama-darśino bhavata eva pariṇamet ।

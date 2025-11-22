@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 43 | label: hybrid | g:0.538 m:0.5 ---
+
+sādhūtpātaghanauga sādhu sudhiyā dhyeyaṃ dharāyām idaṃ ko anyaḥ kartum alaṃ tavaiva ghaṭate karmedṛśaṃ duṣkaram 
+sarvasyaupayikāni yāni katicit kśetrāṇi tatrāśaniḥ sarvān aupāyikeṣu dagdhasikatāraṇyeṣv apāṃ vṛṣṭayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 474 | label: meter | g:0.25 m:0.75 ---
+
+saddharmacakramudrāyāṃ dharmacakraṃ pravartayet ।
+abhayāgryā bhaveta kṣipraṃ sarvasattvāmayapradaḥ ।।

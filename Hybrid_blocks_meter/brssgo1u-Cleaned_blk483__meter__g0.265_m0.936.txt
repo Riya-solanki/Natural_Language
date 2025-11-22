@@ -1,0 +1,8 @@
+--- source: brssgo1u-Cleaned.txt | block: 483 | label: meter | g:0.265 m:0.936 ---
+
+agnyādiśabdasyeśvaravācitvājjāṭharāgnerasaṃśabditatvam ।
+atreśvarasya puruṣāvayaveṣu saṃpādanātpuruṣavidhatvamantaḥsthatvaṃ cetyarthaḥ ।
+pakṣāntaramāha-athaveti ।
+puruṣavidhatvaṃ pūrvavat ।
+antaḥ sthatvaṃ mādhyasthyaṃ sākṣitvamityarthaḥ ।
+evamantaḥsthatvamīśvare vyākhyāya śabdādīni vyācaṣṭe-niścite ceti ।

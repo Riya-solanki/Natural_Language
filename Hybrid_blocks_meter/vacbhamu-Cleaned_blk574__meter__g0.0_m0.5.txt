@@ -1,0 +1,3 @@
+--- source: vacbhamu-Cleaned.txt | block: 574 | label: meter | g:0.0 m:0.5 ---
+
+iti dvitīyādhyāyasya sāṃkhyāyogakāraṇadādismṛtibhiḥ sāṃkhyādiprayuktatarkaiśca vedāntasamanvayavirodhaparihārākhyaḥ prathamaḥ pādaḥ

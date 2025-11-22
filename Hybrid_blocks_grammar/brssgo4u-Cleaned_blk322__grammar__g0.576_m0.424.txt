@@ -1,0 +1,9 @@
+--- source: brssgo4u-Cleaned.txt | block: 322 | label: grammar | g:0.576 m:0.424 ---
+
+sthitam etat kāryaviṣayā gatiḥ na paraviṣayā iti ।
+idam idānīṃ saṃdihyate kiṃ sarvān vikāra ālambanān aviśeṣeṇa eva amānavaḥ puruṣaḥ prāpayati brahmalokam uta kāṃścit eva iti ।
+kiṃ tāvat prāptaṃ sarveṣām eva eṣāṃ viduṣām anyatra parasmāt brahṇaṇo gatiḥ syāt ।
+tathā hi - aaniyamaḥ sarvāsām' - iti atrāviśeṣeṇa eva eṣāṃ vidyāntareṣu avatārita iti ।
+evaṃ prāpte pratyāha - apratīka ālambanān iti ।
+pratīka ālambanān varjayitvā sarvān anyān vikāra ālambanān nayati brahmalokam iti bādarāyaṇa ācāryo manyate ।
+na hi evam ubhayathā

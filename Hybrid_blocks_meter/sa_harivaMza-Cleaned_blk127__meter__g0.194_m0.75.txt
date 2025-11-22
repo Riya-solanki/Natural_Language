@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 127 | label: meter | g:0.194 m:0.75 ---
+
+upasthite atiyaśasyaś cākṣuṣasyāntre manoḥ 
+hitārthaṃ sarvalokānāṃ samāgamya parasparam ।।

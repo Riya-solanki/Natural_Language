@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 284 | label: grammar | g:0.646 m:0.5 ---
+
+tvām agādham avikalpam advayaṃ svaṃ svarūpam akhilārthaghasmaram āviśann aham umeśa sarvadā pūjayeyam abhisaṃstuvīya ca ।।

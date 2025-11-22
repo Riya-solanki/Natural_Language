@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2843 | label: meter | g:0.194 m:0.75 ---
+
+tato gṛhārcanaṃ kuryād abhīṣṭasurapūjanam 
+jalābhiṣekapuṣpāṇāṃ dhūpādeś ca nivedanaiḥ ।।

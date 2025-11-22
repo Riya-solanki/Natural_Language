@@ -1,0 +1,44 @@
+--- source: vacbhamu-Cleaned.txt | block: 603 | label: hybrid | g:0.32 m:0.471 ---
+
+api cāyutasiddhaśabdo apṛthagutpattau mukhyaḥ, sā ca bhavanmate na dravyaguṇayorasti, dravyasya prāksiddherguṇasya ca paścādutpatteḥ, tasmānmithyāvādo ayamityāha yutasiddhayoriti ।
+atha bhavatu kāraṇasya yutasiddhiḥ, kāryasya tvayutasiddhi kāraṇātirekeṇābhāvādityāśaṅkyānyathā dūṣayati evamapīti ।
+saṃbandhidvayādhīnasadbhāvo hi saṃbandho nāsatyekasminnapi saṃbandhini bhavitumarhati ।
+naca samavāyo nityaḥ svatantra iti coktamadhastāt ।
+naca kāraṇasamavāyādananyā kāryasyotpattiriti śakyaṃ vaktum, evaṃ hi sati samavāyasya nityatvābhyupagamāt kāraṇavaiyarthyaprasaṅgaḥ ।
+utpattau ca samavāyasya saiva kāryasyāstu kiṃ samavāyena ।
+siddhayostu saṃbandhe yutasiddhiprasaṅgaḥ ।
+na cānyāyutasiddhiḥ saṃbhavatītyetaduktam ।
+tataśca yaduktaṃ vaiśeṣikairyutasiddhyabhāvāt ।
+kāryakāraṇayoḥ saṃyogavibhāgau na vidyate itīdaṃ duruktaṃ syāt ।
+yutasidhdyabhāvasyaivābhāvāt ।
+etenāprāptisaṃyogau yutasiddhirityapi lakṣaṇamanupapannam ।
+mā bhūdaprāptiḥ kāryakāraṇayoḥ, prāptistvanayoḥ saṃyoga eva kasmānna bhavati,tatrāsyā asaṃyogatvāyānyāyutasiddhirvaktavyā ।
+tathā ca saivocyatāṃ kimanayā paramparāśrayadoṣagrastayā ।
+na cānyā saṃbhavatītyuktam ।
+yadyucyetāprāptipūrvikā prāptiranyatarakarmajobhayakarmajā vā saṃyogaḥ, yathā sthāṇuśyenayormallayorvā ।
+naca tantupaṭayoḥ saṃbandhastathā, utpannamātrasyaiva paṭasya tantusaṃbandhāt ।
+tasmātsamavāya evāyamityata āha yathā cotpannamātrasyeti ।
+saṃyogajo api hi saṃyogo bhavadbhirabhyupeyate na kriyāja evetyarthaḥ ।
+na cāprāptipūrvikaiva prāptiḥ saṃyogaḥ, ātmākāśasaṃyoge nitye tadabhāvāt, kāryasya cetpannamātrasyaikasmin kṣaṇe kāraṇaprāptivirahācceti ।
+api ca saṃbandhirūpātirikte saṃbandhe siddhe tadavāntarabhedāya lakṣaṇabhedo anuśrīyeta sa eva tu saṃbandhyatirikto asiddhaḥ, uktaṃ hi parastādatiriktaḥ saṃbandhibhyāṃ saṃbandho asaṃbaddho na saṃbandhinau ghaṭayitumiṣṭe ।
+saṃbandhisaṃbandhe cānavasthitiḥ ।
+tasmādupapattyanubhavābhyāṃ na kāryasya kāraṇādanyatvam, api tu kāraṇasyaivāyamanirvācyaḥ pariṇāmabheda iti ।
+tasmāt kāryasya kāraṇādanatirekān kiṃ kena saṃbaddhaṃ, saṃyogasya ca saṃyogibhyāmanatirekāt kastayoḥ saṃyoga ityāha nāpi saṃyogasyeti ।
+vicārāsahatvenānirvācyatāmasyāparibhāvayannāśaṅkate saṃbandhiśabdapratyayyatirekeṇeti ।
+nirākaroti na ।
+ekatve api svarūpabāhyarūpāpekṣayeti ।
+tattadanirvacanīyānekaviśeṣāvasthābhedāpekṣayaikasminnapi nānābuddhivyapadeśopapattiriti ।
+yathaiko devadattaḥ svagataviśeṣāpekṣayā manuṣyo brāhmaṇo avadātaḥ, svagatāvasthābhedāpekṣayā bālo yuvā sthaviraḥ, svakriyābhedāpekṣayā kṣotriyaḥ, parāpekṣayā tu pitā putraḥ pautro bhrātā jāmāteti ।
+nidarśanāntaramāha yathā caikāpi satī rekheti ।
+dārṣṭāntike yojayati tathā saṃbandhinoriti ।
+aṅgulyornaurantaryaṃ saṃyogaḥ, dadhikuṇḍayorauttarādharyaṃ saṃyogaḥ ।
+kāryakāraṇayostu tādātmye apyanirvācyasya kāryasya bhedaṃ vivakṣitvā saṃbandhinorityuktam ।
+nāpi saṃbandhiviṣayatve saṃbandhaśabdapratyayayoḥityetadapyanirvācyabhedābhiprāyam ।
+apicādṛṣṭavatkṣetrajñasaṃyogāt paramāṇumanasoścādyaṃ karma bhavadbhiriṣyate ।
+aagnerūrdhvajvalanaṃ vāyostiryakpavanamaṇumanasoścādyaṃ karmetyadṛṣṭakāritāni' iti vacanāt ।
+na cāṇumanasorātmānāpradeśena saṃyogaḥ saṃbhavati ।
+saṃbhave cāṇumanasorātmavyāpitvāt paramamahattvenānaṇutvaprasaṅgāt ।
+naca pradeśavṛttiranayorātmanā saṃyogo apradeśatvādātmanaḥ,kalpanāyāśca vastutattvavyavasthāpanāsahatvādatiprasaṅgādityāha tathāṇvātmamanasāmiti ।
+kiñcānyatdvābhyāmaṇubhyāṃ kāraṇābhyāṃ sāvayavasya kāryasya dvyaṇukasyākāśeneva saṃśleṣānupapattiḥ ।
+saṃśleṣaḥ saṃgraho yata ekasaṃbandhyākarṣe saṃbandhyantarākarṣo bhavati tasyānupapattiriti ।
+ata eva saṃyogādanyaḥ kāryakāraṇadravyayorāśrayāśritabhāvo anyathā

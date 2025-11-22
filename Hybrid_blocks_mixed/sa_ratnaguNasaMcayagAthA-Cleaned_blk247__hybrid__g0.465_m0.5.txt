@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 247 | label: hybrid | g:0.465 m:0.5 ---
+
+yo bodhisattva ayu vyākṛtu vyākṛtasmiṃ cittaṃ pradūṣayi vivādu samārabheyyā 
+yāvanti cittakṣaṇikā khiladoṣayuktās tāvanta kalpa puna saṃnahitavya bhonti ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2623 | label: meter | g:0.25 m:0.5 ---
+
+āyurvedo dhanurvedo gāndharvaś caiva te trayaḥ 
+arthaśāstraṃ caturthaṃ tu vidyā hy aṣṭādaśaiva tāḥ ।।

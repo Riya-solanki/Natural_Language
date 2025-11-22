@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11364 | label: hybrid | g:0.5 m:0.5 ---
+
+mitrairhariḥ keśavākhyo mukundo bhuṅkte dattaṃ tvannaprānādikaṃ ca ।
+pūrvaṃ dadyātsarvadā vai gṛhastho dhanyo bhavedanyathā vyarthameva ।।

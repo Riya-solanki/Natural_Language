@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 596 | label: meter | g:0.306 m:0.625 ---
+
+vinayābharaṇāḥ kriyābhiramyāḥ pramadāś citrakalāvidagdhabhāvāḥ ।
+upayānti narasya dāsabhāvaṃ kuśalair eva vaśīkṛtāḥ purāṇaiḥ ।।

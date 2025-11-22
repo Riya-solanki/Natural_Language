@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3553 | label: meter | g:0.25 m:0.5 ---
+
+yathā likhya hi kalpayante vidhayaḥ kalpasiddhidāḥ ।
+tena kalpa iti prokto vikalparahitātmabhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 966 | label: meter | g:0.194 m:0.625 ---
+
+atha citrarathasyāpi putro daśaratho abhavat 
+lomapāda iti khyāto yasya śāntā sutābhavat ।।

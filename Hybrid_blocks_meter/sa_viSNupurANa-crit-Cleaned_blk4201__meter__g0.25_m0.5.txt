@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4201 | label: meter | g:0.25 m:0.5 ---
+
+iti kṛtvā matiṃ sarve gamane te vrajaukasaḥ 
+ūcuḥ svaṃ svaṃ kulaṃ śīghraṃ gamyatāṃ mā vilambyatām ।।

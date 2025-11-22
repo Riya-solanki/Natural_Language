@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5743 | label: meter | g:0.25 m:0.5 ---
+
+balā cātibalā rāsnā śvadaṃṣṭrā ca punarnavā ।
+eraṇḍaḥ śārivā parṇo guḍūcī kapikacchukā ।।

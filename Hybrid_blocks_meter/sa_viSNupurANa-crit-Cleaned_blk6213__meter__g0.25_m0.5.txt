@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6213 | label: meter | g:0.25 m:0.5 ---
+
+jātamātraś ca mriyate bālabhāve atha yauvane 
+madhyamaṃ vā vayaḥ prāpya vārddhake vā dhruvā mṛtiḥ ।।

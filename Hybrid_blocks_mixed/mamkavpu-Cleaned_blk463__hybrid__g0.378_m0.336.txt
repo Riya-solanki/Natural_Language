@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 463 | label: hybrid | g:0.378 m:0.336 ---
+
+yadi ca vācyavācakatvavyatirekeṇa vyaṅgyavyañjakabhāvo nābhyupeyate tadāsādhutvādīnāṃ nityadoṣatvaṃ kaṣṭatvādīnāmanityadoṣatvamiti
+vibhāgakaraṇamanupapannaṃ syāt । na cānupapannaṃ sarvasyaiva vibhaktatayā pratibhāsāt । vācyavācakabhāvavyatirekeṇa vyaṅgyavyañjakatāśrayaṇe tu vyaṅgyasya bahuvidhatvāt kvacideva kasyacidevaucityenopapadyata eva vibhāgavyavasthā ।।
+{dvayaṃ gataṃ saṃprati śocanīyatāṃ samāgamaprārthanayā kapālinaḥ ।}

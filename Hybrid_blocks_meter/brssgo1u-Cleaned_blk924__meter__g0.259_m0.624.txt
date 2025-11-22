@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 924 | label: meter | g:0.259 m:0.624 ---
+
+FN vimarśaḥ saṃśayaḥ ।
+niṣkalaṃ niravayavam, niṣkriyamacalam, śāntamapariṇāmi, niravadyaṃ nirastasamastadoṣam ।
+lohaṃ suvarṇam ।
+nakhanikṛntanaṃ kārṣṇāyasakṛtanakhalavanaśastraṃ lohapiṇḍo vā ।
+dundubhyāghātasya janakasya janyatayā saṃbandhī vā śabdo viśeṣaśabda ityarthaḥ ।

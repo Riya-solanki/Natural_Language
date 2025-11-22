@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3189 | label: hybrid | g:0.371 m:0.328 ---
+
+yakṣāv imāv iti tadā sa mene mālyajīvanaḥ 
+sa bhṛśaṃ bhayasaṃvigno nottaraṃ pratyapadyata ।। 
+adyāpi tasya prabhavo vaṃśo bhavati ratnavān । kīrtimān balavān nityaṃ keśavena tadā kṛtaḥ ।। viṣṇoḥ prasādaḥ sumahān sadārakṣat tadanvayam । 
+vasudevasutau tau tu rājamārgagatāv ubhau 
+kubjāṃ dadṛśatur bhūyaḥ ānulepanabhājanām ।।

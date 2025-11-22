@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2801 | label: meter | g:0.194 m:0.625 ---
+
+kāśaiḥ kuśaiḥ prakartavyaṃ bhaktiyuktena bhairavi 
+vittaśāṭhyaṃ na kartavyam ihaiva tu kulāgame ।।

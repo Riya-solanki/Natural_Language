@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 424 | label: meter | g:0.056 m:0.854 ---
+
+{asoḍhā tatkālollasadasahabhāvasya tapasaḥ
+kathānāṃ viśrambheṣvatha ca rasikaḥ śailaduhituḥ ।
+pramodaṃ vo diśyāt kapaṭabaṭuveṣāpanayane
+tvarāśaithilyābhyāṃ yugapadabhiyuktaḥ smaraharaḥ ।।}

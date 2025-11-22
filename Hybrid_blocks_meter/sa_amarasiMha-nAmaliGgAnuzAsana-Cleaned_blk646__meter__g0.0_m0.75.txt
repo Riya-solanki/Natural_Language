@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 646 | label: meter | g:0.0 m:0.75 ---
+
+tvakpatramutkaṭaṃ bhṛṅgaṃ tvacaṃ cocaṃ varāṅgakam

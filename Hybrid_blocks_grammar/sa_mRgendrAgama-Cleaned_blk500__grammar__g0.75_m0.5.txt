@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 500 | label: grammar | g:0.75 m:0.5 ---
+
+teṣāṃ vratināmidamavratibhiḥ sādhāraṇaṃ karma ityagrasthiteṣu ślokeṣvapi sambandhanīyam। kiṃ tadityāha[sandhyopāsanamarcanam] sandhyopāsanārcanādi। [tadaṅgāni] tasya karmaṇo yānyaṅgāni snānādīni tānyapi sādhāraṇānyeva। parvasu cāṣṭamīcaturdaśyayanaviṣuvādiṣu [dviguṇakriyā] pūjājapādikriyādvaiguṇyam।।

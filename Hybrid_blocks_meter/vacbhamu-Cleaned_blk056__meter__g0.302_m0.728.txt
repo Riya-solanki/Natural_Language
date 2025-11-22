@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 56 | label: meter | g:0.302 m:0.728 ---
+
+tanna, śrutivirodhāt ।
+śrūyate hi asatyaṃ jñānamanantaṃ brahma' iti ।

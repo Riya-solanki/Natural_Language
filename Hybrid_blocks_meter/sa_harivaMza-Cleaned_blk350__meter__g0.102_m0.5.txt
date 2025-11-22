@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 350 | label: meter | g:0.102 m:0.5 ---
+
+prāñjaliḥ praṇatā bhūtvā chāyā saṃjñāṃ nareśvara 
+uvāca kiṃ mayā kāryaṃ kathayasva śucismite 
+sthitāsmi tava nirdeśe śādhi māṃ varavarṇini ।।

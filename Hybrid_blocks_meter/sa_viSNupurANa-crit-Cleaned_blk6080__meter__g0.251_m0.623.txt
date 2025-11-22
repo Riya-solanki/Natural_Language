@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6080 | label: meter | g:0.251 m:0.623 ---
+
+samudrān saritaḥ śailān śailaprasravaṇāni ca 
+pātāleṣu ca yat toyaṃ tat sarvaṃ nayati kṣayam ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1038 | label: meter | g:0.25 m:0.75 ---
+
+vāmapādasamākrāntastena kārya maheśvaraḥ ।
+dakṣiṇaṃ tu likhetpādamumāstanabharasthitaṃ ।।

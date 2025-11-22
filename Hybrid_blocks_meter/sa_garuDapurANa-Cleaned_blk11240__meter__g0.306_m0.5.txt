@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11240 | label: meter | g:0.306 m:0.5 ---
+
+na yatra govindakathāmahānadī na yatra nārāyaṇapādasaṃśrayaḥ ।
+na yatra viṣṇoḥ satataṃ vacosti na saṃvasettatkṣaṇamātraṃ kathañcit ।।

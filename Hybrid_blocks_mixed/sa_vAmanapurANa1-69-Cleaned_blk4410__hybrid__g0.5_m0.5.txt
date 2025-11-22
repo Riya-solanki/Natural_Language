@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4410 | label: hybrid | g:0.5 m:0.5 ---
+
+tamabravīt prītiyutaḥ pitāmaho varaṃ mamehādya vibho prayaccha ।
+rūpeṇa puṇyena vibo hyanena saṃsthīyatāṃ madbhavane murāre ।।

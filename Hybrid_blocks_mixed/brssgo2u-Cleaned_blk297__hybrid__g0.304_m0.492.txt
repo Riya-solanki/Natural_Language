@@ -1,0 +1,9 @@
+--- source: brssgo2u-Cleaned.txt | block: 297 | label: hybrid | g:0.304 m:0.492 ---
+
+pradhānakāraṇavādo nirākṛtaḥ ।
+paramāṇukāraṇavāda idānīṃ nirākartavyaḥ ।
+tatrādau tāvadyo aṇuvādinā brahmavādini doṣa utprekṣyate sa pratisamādhīyate ।
+tatrāyaṃ vaiśeṣikāṇāmabhyupagamaḥ - kāraṇadravyasamavāyino guṇāḥ kāryadravye samānajātīyaṃ guṇāntaramārabhante, śuklebhyastantubhyaḥ śuklasya paṭasya prasavadarśanāttadviparyayādarśanācca ।
+tasmāccetanasya brahmaṇo jagatkāraṇatve abhyupagamyamāne kārye api jagati cetanyaṃ samaveyāt ।
+tadadarśanāttu na cetanaṃ brahma jagatkāraṇaṃ bhavitumarhatīti ।
+imamabhyupagamaṃ tadīyayaiva prakriyayā vyabhicārayati-

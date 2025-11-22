@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 787 | label: grammar | g:0.605 m:0.418 ---
+
+kiṃ vātena vilaṅghitā na na mahābhūtārditā kiṃ na na bhrāntā kiṃ na na saṃnipātalaharīpracchāditā kiṃ na na ।
+tat kiṃ roditi muhyati śvasiti kiṃ smeraṃ ca dhatte mukhaṃ dṛṣṭaḥ kiṃ kathayāmy akāraṇaripuḥ śrībhojyadevo anayā ।।
+chittapasya

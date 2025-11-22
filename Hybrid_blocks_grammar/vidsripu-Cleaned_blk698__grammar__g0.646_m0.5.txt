@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 698 | label: grammar | g:0.646 m:0.5 ---
+
+mā rodīḥ karapallavapraṇayinīṃ kṛtvā kapolasthalīṃ mā bhāṅkṣīḥ parikheda sākṣibhir iva śvāsaur mukhendoḥ śriyam ।
+mugdhe dagdhagiraḥ skhalanti śataśaḥ kiṃ kupyasi preyasi prāṇās tanvi mamāsi nocitam idaṃ tad vyartham uttāmyasi ।।

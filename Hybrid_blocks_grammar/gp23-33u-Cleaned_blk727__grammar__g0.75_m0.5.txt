@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 727 | label: grammar | g:0.75 m:0.5 ---
+
+[] tvaṃ punaḥ sahasā rathād avatīrya teṣāṃ pathā yathā-vīryaṃ dhāvan sakala-gīrvāṇa-vikīryamāṇa-kusumādi-vāditrādi-kṛtamānaḥ sarvathāpy asambhāvita-samānaḥ param āsaktyā sarvān api tān anarvācīna-śaktyā ca pṛthak pṛthag eva ca yugapad eva ca saṅgacchan samāliṅgaṃs tat tad aṅga-saṅgataṃ svāṅgam apii na tato bhinnam aṅgīkariṣyasi ।

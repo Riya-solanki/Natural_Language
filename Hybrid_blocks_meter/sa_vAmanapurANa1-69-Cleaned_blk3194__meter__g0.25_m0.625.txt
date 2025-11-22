@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3194 | label: meter | g:0.25 m:0.625 ---
+
+jñātvābhiṣiktaṃ daiteyaṃ virocanasutaṃ balim ।
+didṛkṣavaḥ samāyātāḥ samayāḥ sarva eva hi ।।

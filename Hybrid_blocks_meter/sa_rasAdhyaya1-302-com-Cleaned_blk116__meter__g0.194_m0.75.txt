@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 116 | label: meter | g:0.194 m:0.75 ---
+
+kaṭutumbīpayaḥpiṣṭāt śyāmā naśyati nāgajā 
+bīyājalena sampiṣṭāt kapālī nāgasambhavā ।।

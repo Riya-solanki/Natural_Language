@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 840 | label: meter | g:0.194 m:0.5 ---
+
+sa labdhatejā bhagavān saṃstavaiḥ svaiś ca karmabhiḥ 
+tapas tepe mahābhāga padmānāṃ daśatīr daśa ।।

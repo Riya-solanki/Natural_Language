@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2730 | label: meter | g:0.25 m:0.625 ---
+
+tisro varṇānupūrvyeṇa dve tathaikā yathākramam ।
+brāhmaṇakṣattriyaviśāṃ bhāryāḥ svā śūdrajanmanaḥ ।।

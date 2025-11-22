@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4462 | label: meter | g:0.194 m:0.5 ---
+
+dhanyā bhavantaḥ puṇyāś ca nityam āścaryaviśrutāḥ 
+ādhārāś caiva viprāṇām evam āha prajāpatiḥ ।।

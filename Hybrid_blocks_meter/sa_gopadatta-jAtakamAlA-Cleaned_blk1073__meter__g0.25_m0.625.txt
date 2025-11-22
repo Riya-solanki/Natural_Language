@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1073 | label: meter | g:0.25 m:0.625 ---
+
+saṃvegānaddhahṛdayā vicerus tatra tāḥ striyaḥ ।
+svabhāvaṃ jīvalokasya cintayantyaś calācalam ।।

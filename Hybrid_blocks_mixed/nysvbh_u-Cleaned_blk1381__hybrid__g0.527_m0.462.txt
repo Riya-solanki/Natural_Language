@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1381 | label: hybrid | g:0.527 m:0.462 ---
+
+yo ayaṃ pratiṣedhepi samāno doṣaḥ anaikāntikatvamāpādyate so ayaṃ pratiṣedhasya pratiṣedhepi samānaḥ, na aanityaḥ śabdaḥ prayatnānantarīyakatvāt' iti sādhanavādinaḥ sthāpanā prathamaḥ pakṣaḥ,
+"prayatnakāryānekatvāt kāryasamaḥ "
+iti dūṣaṇavādinaḥ pratiṣedhahetunā dvitīyaḥ pakṣaḥ sa ca pratiṣedha ityucyate, tasyāsya pratiṣedhepi samāno doṣa iti tṛtīyaḥ pakṣaḥ vipratiṣedha ucyate, tasmin pratiṣedhavipratiṣedhepi samāno doṣaḥ anaikāntikatvaṃ caturthaḥ pakṣaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10520 | label: hybrid | g:0.521 m:0.5 ---
+
+tasmai sadā bhagavate praṇamāmi nityaṃ niṣkāmayā tava samarpaṇamātravuddhyā ।
+vaikuṇṭhanātha bhagavanstavane na śaktiḥ sohaṃ pulasatyasadṛśosmi na saṃśayotra ।।

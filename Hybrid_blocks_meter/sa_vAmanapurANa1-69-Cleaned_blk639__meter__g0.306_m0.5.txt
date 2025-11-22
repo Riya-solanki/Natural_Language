@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 639 | label: meter | g:0.306 m:0.5 ---
+
+jitendriyatvaṃ śaucaṃ ca māṅgalyaṃ bhaktiracyute ।
+śaṅkare bhāskare devyāṃ dharmo ayaṃ mānavaḥ smṛtaḥ ।।

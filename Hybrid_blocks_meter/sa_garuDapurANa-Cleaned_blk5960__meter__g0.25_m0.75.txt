@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5960 | label: meter | g:0.25 m:0.75 ---
+
+dhvāṅkṣasthāne vṛṣaṃ dṛṣṭvā sthānabhraṃśabhayādikam ।
+dhvāṅkṣasthāne kharaṃ dṛṣṭvā dhananāśaparājayau ।।

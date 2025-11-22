@@ -1,0 +1,10 @@
+--- source: grasht_u-Cleaned.txt | block: 442 | label: grammar | g:0.603 m:0.331 ---
+
+vakṣyamāṇadhātūnāṃ māraṇavidhānamāha tālaketyādi ।।
+vaṅgaśastrādīn vaṅgaṃ trapuṣaṃ śastraṃ tīkṣṇaṃ te ādiryeṣāṃ te tān ।।
+kābhiḥ saha puṭo vahet tālakadaradaśilābhiḥ tālakaṃ haritālaṃ daradaṃ hiṅgulaṃ śilā manaḥśilā tābhiḥ ।।
+kiṃviśiṣṭābhiḥ snehakṣārāmlalavaṇasahitābhiḥ snehaḥ tailaṃ kaṅguṇitumbinyādīnāṃ kṣāraḥ svarjikādiḥ amlaṃ jambīrādi lavaṇāni saindhavādīni etaiḥ sahitābhiḥ ।।
+ekadhātuto dvādaśāṃśād ārabhya yāvatsamakadviguṇatriguṇabhāgāḥ samāpyante tāvatpuṭo vahediti vyaktiḥ ।।
+puṭitadhātukṛtyam āha raktetyādi ।।
+uktadhāturgarbhitaṃ rasaṃ raktasnehaniṣekaiḥ rakto raktavargaḥ snehaḥ kaṅguṇyādīnāṃ anayorniṣekāḥ siñcanāni taiḥ śeṣaṃ dhātuvarjitaṃ kuryāt iyaṃ rasasya kṛṣṭiḥ rasasya guṇākarṣaṇaṃ punariyaṃ kṛṣṭiḥ rasendraṃ indragopanibhaṃ kurute atiriktavarṇaṃ kurute ।।
+kutaḥ cāraṇajāraṇamātrāt punaḥ puṭitadhātūnāṃ cāraṇaṃ ca jāraṇaṃ jīrṇaṃkaraṇaṃ ca tanmātrāt vā cāraṇasya dravyasya jāraṇaṃ tanmātrāt ubhayoḥ pakṣayoreka evārthaḥ paramuktiviśeṣaḥ ।।

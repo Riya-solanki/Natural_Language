@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6457 | label: meter | g:0.194 m:0.625 ---
+
+sa sarvaḥ sarvavit sarvasvarūpo rūpavarjitaḥ 
+bhagavān kīrtito viṣṇur atra pāpapraṇāśanaḥ ।।

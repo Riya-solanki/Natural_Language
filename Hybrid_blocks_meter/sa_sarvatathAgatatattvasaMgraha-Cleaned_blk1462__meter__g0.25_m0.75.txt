@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1462 | label: meter | g:0.25 m:0.75 ---
+
+praviśya maṇḍalamidaṃ pañcabhiḥ kāmasadguṇaiḥ ।
+ramayan paradārāṇi sutarāṃ siddhimāpnute ।।

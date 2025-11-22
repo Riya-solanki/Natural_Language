@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 299 | label: meter | g:0.194 m:0.625 ---
+
+ślokadvādaśakaṃ cānyat pañcaratnaṃ satadgraham 
+ṣoḍhānyāsakramaṃ jñātvā etat sarvaṃ vidhānataḥ ।।

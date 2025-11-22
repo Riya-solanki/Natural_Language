@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 407 | label: meter | g:0.194 m:0.625 ---
+
+ṭha-ḍa-pūrvau yutau adhastād bhūṣaṇau karṇayoḥ smṛtau 
+vāmadakṣiṇamārgeṇa karṇabhūṣasthitāv iha ।।

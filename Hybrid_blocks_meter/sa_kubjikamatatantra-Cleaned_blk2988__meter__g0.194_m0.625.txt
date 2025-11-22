@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2988 | label: meter | g:0.194 m:0.625 ---
+
+māteva saṃsthitā śaktir jagato yonirūpiṇī 
+atrotpannaṃ samastaṃ hi vāṅmayaṃ sacarācaram ।।

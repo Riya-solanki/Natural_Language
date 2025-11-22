@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9921 | label: meter | g:0.25 m:0.5 ---
+
+somagrahe sūryasamāgamepi vā na sevitaṃ tīrthavariṣṭhamuttamam ।
+kośaṃ svakīyaṃ malamūtrapūritaṃ dehinkvacinnistara yattvayā kṛtam ।।

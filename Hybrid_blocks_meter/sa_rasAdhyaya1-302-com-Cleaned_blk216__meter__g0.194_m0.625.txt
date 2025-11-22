@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 216 | label: meter | g:0.194 m:0.625 ---
+
+āranālaṃ kṣipetsthālyāṃ rasaṃ nimbukasambhavam 
+kaṇṭhe kāṣṭhaṃ ca badhnīyād vastre prākkṛtakulhaḍīm ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3151 | label: meter | g:0.194 m:0.5 ---
+
+āstāṃ māṃ samudīkṣantau bhavantau saṃgatāv ubhau 
+nivṛtto bhujagendrasya yāvad asmi hradottamāt ।।

@@ -1,0 +1,10 @@
+--- source: sastrdiu-Cleaned.txt | block: 240 | label: meter | g:0.25 m:0.502 ---
+
+dṛṣṭāntadharmiṣveva bahuśo agnisāhityamupalabdhavato anagnau ca kvacidapi prayatnenānviṣyamāṇe dhūmadṛṣṭavataḥ sādhyadharmiṣvagnimattājñānamutpadyate ।
+āha ca- sāhitye mitadeśatvātprasiddhe vahnidhūmayoḥ ।।
+vyatirekasya cādṛṣṭergamakatvaṃ prakalpyate iti ।
+mamatvadṛṣṭimātreṇa gamakaḥ sahācāriṇaḥ ithi ca ।
+tataścānumitsatā na sarveṣāṃ dhūmavatāmagnimattāvagantavyā ।
+nāpi sarvatrānagnau dhūmasyābhāvaḥ ।
+bhūyo agnisāhityaṃ vyabhicārādarśanamityetāvadevānumānārthibhirabhyarthanīyaṃ nādhikaṃ kiñcit ।
+yattvidaṃ yatra yatra dhūmastatratatrāgniriti jñānaṃ tadanumānameveti tatraivoktam ।।

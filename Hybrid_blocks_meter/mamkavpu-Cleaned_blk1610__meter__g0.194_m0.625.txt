@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1610 | label: meter | g:0.194 m:0.625 ---
+
+{purāṇi yasyāṃ savarāṅganāni varāṅganā rūpapuraskṛtāṅgyaḥ ।
+rūpaṃ samunmīlitasadvilāsamastraṃ vilāsaḥ kusumāyudhasya ।।}

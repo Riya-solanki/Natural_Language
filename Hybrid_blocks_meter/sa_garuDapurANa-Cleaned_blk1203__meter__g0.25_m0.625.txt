@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1203 | label: meter | g:0.25 m:0.625 ---
+
+tattribhāgena kartavyaḥ pañcabhāgena vā punaḥ ।
+nirgamastu śukāṅghreśca ucchrāyaḥ śikharārdhagaḥ ।।

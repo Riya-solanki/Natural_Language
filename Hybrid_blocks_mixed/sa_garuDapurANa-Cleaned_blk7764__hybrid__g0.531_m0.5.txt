@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7764 | label: hybrid | g:0.531 m:0.5 ---
+
+jānāsi śambalamalaṃ balamadhvagānāṃ no aśambalaḥ prayatate paralokagatyai ।
+gantavyamasti tava niścitameva tena mārgeṇa yena na bhavet krayavikrayo api ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 578 | label: hybrid | g:0.51 m:0.5 ---
+
+ye nirdahanti daśanaśvasitāvalokaiḥ krūraṃ dvijihvakuṭilāḥ kva vilāsinas te ।
+bhīṣmoṣmabhiḥ smaraṇamātraviṣais taveyam avyāla mārayati kāpi bhujaṅgabhaṅgiḥ ।।

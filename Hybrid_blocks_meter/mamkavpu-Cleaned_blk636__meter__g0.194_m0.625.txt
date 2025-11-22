@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 636 | label: meter | g:0.194 m:0.625 ---
+
+{yovikalpamidamarthamaṇḍalaṃ paśyatīśa nikhilaṃ bhavadvapuḥ ।
+ātmapakṣaparipūrite jagatyasya nityasukhinaḥ kuto bhayam ।।}

@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 142 | label: meter | g:0.25 m:0.625 ---
+
+smṛtau yaiva svasaṃvittiḥ pramāṇaṃ svātmasaṃbhave ।
+pūrvānubhavasadbhāve sādhanaṃ saiva nāparam ।।

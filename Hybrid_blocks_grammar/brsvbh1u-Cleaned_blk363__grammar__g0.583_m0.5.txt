@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 363 | label: grammar | g:0.583 m:0.5 ---
+
+-nanu kāryaṃ svaviṣayajñānanirūpaṇāya jñāyamānamātmānamākṣipati cedātmanaḥ śrautatvaṃ na syādityāśaṅkya vidhyākṣiptasya śrautatve gurusaṃmatimāha-yathāhuriti ।

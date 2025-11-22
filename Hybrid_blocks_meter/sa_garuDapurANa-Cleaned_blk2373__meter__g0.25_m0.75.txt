@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2373 | label: meter | g:0.25 m:0.75 ---
+
+piṇḍāndadyātpitṝṇāṃ ca sakalaṃ tārayetkulam ।
+vaṭamūlaṃ samāsādya śākenoṣṇodakena vā ।।

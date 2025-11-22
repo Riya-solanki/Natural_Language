@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3647 | label: grammar | g:0.75 m:0.5 ---
+
+tatpramāṇaṃ cāṅgulaiḥ kurvan gāyatrīm apaṭhat । paṭhataś cākṣarasaṃkhyāny evāṅgulāny araṇy abhavat । tatrāgniṃ nirmathyāgnitrayam āmnāyānusārī bhūtvā juhāva urvaśīsālokyaṃ ca phalam abhisaṃhitavān ।।

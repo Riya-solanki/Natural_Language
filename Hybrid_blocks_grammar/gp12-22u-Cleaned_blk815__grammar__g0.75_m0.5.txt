@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 815 | label: grammar | g:0.75 m:0.5 ---
+
+[] prakāśas tu sva-dāsān uvāca-bhavatu, nivartantāṃ saṃvarta-vartanā megha-vārtāḥ । avarajanmāyam iti vrajarāja-tanūjaṃ prati titikṣā-bhāja eva vayaṃ śikṣā-mātra-pātratām āsāditavantaḥ, na tu katham apy anyathā-bhāva-bhāvana-vyathām iti ।

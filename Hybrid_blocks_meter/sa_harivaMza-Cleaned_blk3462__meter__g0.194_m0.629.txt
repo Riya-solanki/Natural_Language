@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3462 | label: meter | g:0.194 m:0.629 ---
+
+evaṃ hi vihite yoge paryāpte kṛṣṇa vigrahe 
+pratiṣṭhitāyāṃ medinyāṃ yadūnāṃ śatrusūdana ।। 
+tvaṃ gatiś cāgatiś caiva yadūnāṃ yadunandana । 
+śṛṇu tad bruvatāṃ vīra kṛpaṇānām idaṃ vacaḥ 
+asya tvatkrodhadagdhasya kaṃsasyāśubhakarmaṇaḥ 
+tava prasādād govinde pretakāryaṃ kriyate ha ।।

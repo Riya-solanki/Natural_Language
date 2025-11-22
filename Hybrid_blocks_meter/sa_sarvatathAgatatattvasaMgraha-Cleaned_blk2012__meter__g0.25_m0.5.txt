@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2012 | label: meter | g:0.25 m:0.5 ---
+
+vajravegena cākramya tṛtīyaṃ maṇḍalaṃ tathā ।
+tatra madhye supadme tu padmamudrāṃ niveśayet ।।

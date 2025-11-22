@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10966 | label: meter | g:0.25 m:0.5 ---
+
+athavāyogināṃ nityaṃ hṛdi sthitvā sa mārutaḥ ।
+vairāgyaṃ saṃjanayati virāga iti sa smṛtaḥ ।।

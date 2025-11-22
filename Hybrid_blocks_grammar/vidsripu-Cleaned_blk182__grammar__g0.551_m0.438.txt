@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 182 | label: grammar | g:0.551 m:0.438 ---
+
+śītās tair iva bhagnaśaiśiraniśābhāgair ahaḥ sphāyate garbhaṃ bibhrati kiṃśukā iva diśāṃ tāpāya vahnyaṅkuram ।
+kiṃ ca svāśrayasambhṛtaprathimasu cchāyātapāṅgeṣv ayaṃ lokaḥ stokaraso adya na kvacid api svacchandam ānandati ।।
+trilocanasya

@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 28 | label: hybrid | g:0.35 m:0.469 ---
+
+etayorantaraṃ sahṛdayasaṃvedya miti taireva vicāraṇīyam ।
+tasmāt sthitametatna śabdasyaiva ramaṇīyatāviśiṣṭasya kevalasya kāvyatvam, nāpyarthasyeti ।
+tadidamuktam

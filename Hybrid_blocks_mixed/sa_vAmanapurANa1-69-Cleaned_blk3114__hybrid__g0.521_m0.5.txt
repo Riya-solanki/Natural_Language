@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3114 | label: hybrid | g:0.521 m:0.5 ---
+
+evaṃ purā svānapi sodarān sa garbhasthitānujjarituṃ bhayārtaḥ ।
+bibheda vajreṇa tataḥ sa gotrabhit khyāto maharṣe bhagavān mahendraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 912 | label: meter | g:0.25 m:0.625 ---
+
+paryaṭet sādhako nityaṃ sarvaśreyam avāpnuyāt 
+yad icchet sādhakaḥ siddhiṃ hṛdi kṛtvā kujeśvaram ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 528 | label: meter | g:0.25 m:0.583 ---
+
+tat te nupūrvyā vakṣyāmi bhīṣmeṇodāhṛtaṃ yathā 
+gītaṃ sanatkumāreṇa mārkaṇḍeyāya pṛcchate ।। 
+bhīṣmas tu dharmarājāya proktavān etad acyuta । 
+puṣṭikāmena dharmajña kathaṃ puṣṭir avāpyate 
+etad ākhyātam icchāmi kiṃ kurvāṇo na śocati ।।

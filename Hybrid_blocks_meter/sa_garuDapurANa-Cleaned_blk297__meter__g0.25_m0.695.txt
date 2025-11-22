@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 297 | label: meter | g:0.25 m:0.695 ---
+
+taṃ hastaṃ pātayenmūrdhni śiṣyasya tu samāhitaḥ ।
+haste viṣṇuḥ sthito yasmādviṣṇuhastastatastvayam ।
+naśyanti sparśanāttasya pātakānyakhilāni ca ।।

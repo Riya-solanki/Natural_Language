@@ -1,0 +1,5 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1164 | label: grammar | g:0.584 m:0.257 ---
+
+bhūyaḥ śete klamagurutanur darbhasūcīkarāle mārge bhasmavyatikarakharair vījyamāno marudbhiḥ । tasmān matvā kṣaṇasukhalavaṃ cañcalaṃ jīvalokaṃ tyaktvā kāmān vyasanaphaladān brahmaśāntaṃ bhajeta ।। gosk । 
+daśaśatanayano atha kanyakānāṃ hṛṣitatanūruhakañcuko vacobhiḥ ।
+vyavasitam abhinandya caiva tāsāṃ tridaśapurābhimukho yayau kṣaṇena ।।

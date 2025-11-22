@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 207 | label: hybrid | g:0.507 m:0.5 ---
+
+tatha jñāna śrāvakavimuktisapratyayānāṃ sarvatra bhoti kuśalo vidu bodhisattvo 
+no cāpi tatra sthihate na ca buddhajñāne na ca saṃskṛte bhavati mārgavidū vidhijño ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 940 | label: meter | g:0.326 m:0.5 ---
+
+helāvabhagnaharakārmuka eṣa so api helā paritoṣitacandracūḍaḥ ।
+tasyaiva so asya casakhya vā syāt ślāghyaṃ dvayorubhayathāpi tavādya teṣām ।।

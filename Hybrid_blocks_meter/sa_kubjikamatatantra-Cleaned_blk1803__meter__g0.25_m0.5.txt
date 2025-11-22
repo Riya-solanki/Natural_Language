@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1803 | label: meter | g:0.25 m:0.5 ---
+
+etat te saṃsphuṭaṃ sarvaṃ kubjāmbīnāṃ catuṣṭayam 
+piṇḍo atha pada rūpaṃ ca rūpātītāditaḥ kramāt ।।

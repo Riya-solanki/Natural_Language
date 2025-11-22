@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4371 | label: hybrid | g:0.51 m:0.5 ---
+
+kṛtvā pramāṇaṃ svayaseva hīnaṃ padatrayaṃ yācitavān bhuvaśca ।
+kiṃ tvaṃ na gṛhṇāsi jagattrayaṃ bho rūpeṇa lokatrayavanditena ।।

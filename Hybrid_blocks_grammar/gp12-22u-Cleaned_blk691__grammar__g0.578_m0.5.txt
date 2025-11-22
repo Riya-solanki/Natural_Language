@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 691 | label: grammar | g:0.578 m:0.5 ---
+
+yogināṃ matam etac cen nītir apy avadhāryatām ।
+udāsīno' rivad varjyaḥ suhṛd ātmaiva sammataḥ ।। yady eṣa panthā dharmasya so' pi nāsty avicārataḥ ।
+tatra yad viduṣaḥ siddhir bhaven nāviduṣaḥ kvacit ।। dharmo vaidika eveṣṭau laukikaḥ kvāpi dṛśyate ।
+bhavadbhiḥ kas tayor eṣa viśeṣatvena sammataḥ? ।। [anuṣṭubh]

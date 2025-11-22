@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2466 | label: meter | g:0.25 m:0.5 ---
+
+samuṣya tatra rajanīṃ tābhyāṃ saṃpūjito muniḥ ।
+prātarutthāya gaurīsaṃ saṃpūjya ca vidhānataḥ ।।

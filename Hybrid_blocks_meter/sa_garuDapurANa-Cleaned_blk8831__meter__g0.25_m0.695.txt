@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8831 | label: meter | g:0.25 m:0.695 ---
+
+vibhave dānaśaktiśca nālpasya tapasaḥ phalam ।
+dānādbhogānavāpnoti saukhyaṃ tīrthasya sevanāt ।
+subhāṣaṇānmṛto yastu sa vidvāndharmavittamaḥ ।।

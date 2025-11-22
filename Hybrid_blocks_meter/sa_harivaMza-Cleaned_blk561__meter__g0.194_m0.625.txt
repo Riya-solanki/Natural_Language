@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 561 | label: meter | g:0.194 m:0.625 ---
+
+so haṃ yugasya paryante bahuvarṣasahasrike 
+adhiruhya giriṃ meruṃ tapo tapyaṃ suduścaram ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5027 | label: meter | g:0.25 m:0.75 ---
+
+grahaṇyarśo arditārtighnaṃ navanītaṃ navoddhṛtam ।
+vikārāśca kilāṭādyā guravaḥ kuṣṭhahetavaḥ ।।

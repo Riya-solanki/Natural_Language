@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3540 | label: meter | g:0.25 m:0.625 ---
+
+satvānāmuttamaḥ satvo vajrabhāvanayā hṛdi ।
+vajrasatva iti khyātastu tasmiṃ vajro pratiṣṭhitaḥ ।।

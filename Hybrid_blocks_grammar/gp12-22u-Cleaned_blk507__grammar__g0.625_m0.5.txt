@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 507 | label: grammar | g:0.625 m:0.5 ---
+
+[] kaṃsaḥ sa-vairasyaṃ vihasya tasya tatra pataṅgatāṃ vibhāvayann uvāca-tvam apy atamasi prajvalaj-jvalana-vartmani vartanīyaḥ ।

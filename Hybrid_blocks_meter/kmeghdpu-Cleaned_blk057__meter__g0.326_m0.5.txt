@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 57 | label: meter | g:0.326 m:0.5 ---
+
+gatvā cordhvaṃ daśamukhabhujocchvāsitaprasthasaṃdheḥ kailāsasya tridaśavanitādarpaṇasyātithiḥ syāḥ ।
+śṛṅgocchrāyaiḥ kumudaviśadair yo vitatya sthitaḥ khaṃ rāśībhūtaḥ pratidiśam iva tryambakasyāṭṭahāsaḥ ।।

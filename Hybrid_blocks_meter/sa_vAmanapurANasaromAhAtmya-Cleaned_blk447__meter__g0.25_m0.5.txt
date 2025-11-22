@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 447 | label: meter | g:0.25 m:0.5 ---
+
+varaṃ vṛṇīṣva bhadraṃ te kimicchasi mahāyaśaḥ ।
+evamuktastu pitṛbhī rāmaḥ prabhavatāḥ paraḥ ।।

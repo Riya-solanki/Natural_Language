@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 732 | label: meter | g:0.255 m:0.879 ---
+
+sukeśiruvāca ।
+bhavadbhiruditā ghorā puṣkaradvīpasaṃsthitiḥ ।
+jambūdvīpasya saṃsthānaṃ kathayantu maharṣayaḥ ।।

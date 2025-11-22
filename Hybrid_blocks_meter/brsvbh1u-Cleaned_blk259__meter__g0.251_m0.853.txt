@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 259 | label: meter | g:0.251 m:0.853 ---
+
+āgamabādhitaviṣayatvāt ।
+tasmādyathoktasādhanasaṃpattyabhāvānna brahmajijñāseti prāptam ।
+evaṃ prāpte āha bhagavānsūtrakāraḥ-ataḥ iti ।
+tasyārthaṃ vyācaṣṭe bhāṣyakāraḥ-yasmādveda eveti ।

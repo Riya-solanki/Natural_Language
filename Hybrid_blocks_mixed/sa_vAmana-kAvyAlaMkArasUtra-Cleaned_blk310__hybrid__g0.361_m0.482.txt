@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 310 | label: hybrid | g:0.361 m:0.482 ---
+
+savāḍavāgnirityasya upameye'bhāvād dharmādhikyamiti । anayordoṣayorviparyayākhyasya doṣasyāntarbhāvānna pṛthagupādānam । ata evāsmākaṃ mate ṣaḍ doṣā iti ।।
+upamānopameyayorliṅgavyatyāso liṅgabhedaḥ ।।
+upamānasyopameyasya ca liṅgayorvyatyāso viparyayo liṅgabhedaḥ । yathā

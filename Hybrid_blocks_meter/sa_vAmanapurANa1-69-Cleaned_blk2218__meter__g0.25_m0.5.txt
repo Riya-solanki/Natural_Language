@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2218 | label: meter | g:0.25 m:0.5 ---
+
+bhakāraṃ netrayugalaṃ tatra karkaṭakaḥ sthitaḥ ।
+māsaḥ śrāvaṇa ityuktaścaturthaṃ patrakaṃ smṛtam ।।

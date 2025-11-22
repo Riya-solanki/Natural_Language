@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 664 | label: hybrid | g:0.5 m:0.5 ---
+
+viśasyamānaḥ kila mantraśaktibhiḥ paśurdivaṃ gacchati tena tadvadhaḥ ।
+upaiti dharmatvamitīdamapyasatparaiḥ kṛtaṃ ko hi paratra lapsyate ।।

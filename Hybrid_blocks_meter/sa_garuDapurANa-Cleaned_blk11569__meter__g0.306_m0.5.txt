@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11569 | label: meter | g:0.306 m:0.5 ---
+
+sāyaṅkāle śrīnivāsasya dṛṣṭvā utsāharūpaiḥ śrīnivāsapratīkaiḥ ।
+sākaṃ bhaktyā saṃpraṇamyātha devī pradakṣiṇaṃ śrīnivāsasya suṣṭhu ।।

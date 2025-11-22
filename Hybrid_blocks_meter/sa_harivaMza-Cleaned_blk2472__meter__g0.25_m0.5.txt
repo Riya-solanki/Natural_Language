@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2472 | label: meter | g:0.25 m:0.5 ---
+
+tāṃ caran sa nadīṃ śreṣṭhāṃ dadarśa hradam uttamam 
+dīrghaṃ yojanavistāraṃ dustaraṃ tridaśair api ।।

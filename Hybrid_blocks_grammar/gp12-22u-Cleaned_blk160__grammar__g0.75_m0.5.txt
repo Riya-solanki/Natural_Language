@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 160 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha rāmaṃ svīya-prabhāva-bhāvanārāmatāyām apy antar vraja-jana-duḥkhataḥ śuṣkaṃ, tādṛśatāyām api bahir lambhita-gambhīratā-bhṛd-upālambha-sambhavad-vikāśa-hāsaṃ hasann eva namaskurvann, ātmany āliṅganaṃ lambhayaṃś ca ciraṃ tad-utsaṅga-saṅgī babhūva ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4306 | label: meter | g:0.194 m:0.5 ---
+
+eṣa caikaśataṃ hatvā raṇe rājñāṃ mahātmanām 
+gāndhārīm āvahad dhīmān mahiṣīṃ priyadarśanām ।।

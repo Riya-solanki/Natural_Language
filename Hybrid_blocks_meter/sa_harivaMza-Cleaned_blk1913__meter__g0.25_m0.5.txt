@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1913 | label: meter | g:0.25 m:0.5 ---
+
+nāmanī tu tayoś cakre sa vibhuḥ salilodbhavaḥ 
+mṛdus tv ayaṃ madhur nāma kaṭhinaḥ kaiṭabho abhavat ।।

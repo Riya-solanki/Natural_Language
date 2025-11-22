@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 1064 | label: meter | g:0.446 m:0.641 ---
+
+nirupādhibrahmasākṣātkārastattvadarśanam ।
+na caitannirvāṇaṃ svarūpāvasthānalakṣaṇaṃ kāryaṃ yenānityaṃ syādityāha- nityasiddheti ।।

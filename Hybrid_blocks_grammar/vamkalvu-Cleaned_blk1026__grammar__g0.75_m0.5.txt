@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 1026 | label: grammar | g:0.75 m:0.5 ---
+
+bhiduraṃ kāṣṭham bhiduraṃ tamaḥtimirabhiduraṃ vyomnaḥ śṛṅgam iti, chidurātapo divasaḥmatsaracchiduraṃ premabhaṅgurā prītiḥmātaṅgaṃ mānabhaṅguram ityādayo'pi prayogā dṛśyante । te kathamity āha te karmakartari kartari ca bhavanti । karmakartari cāyamiṣyate ityatra, cakāraḥ kartari cetyasya samuccayārthaḥ ।।

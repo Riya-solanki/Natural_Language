@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 817 | label: meter | g:0.306 m:0.5 ---
+
+tataḥ samutthāya vicintayena dharmaṃ tathārthaṃ ca vihāya śayyām ।
+utthāya paścāddharirityudīrya gacchet tadotsargavidhiṃ hi kartum ।।

@@ -1,0 +1,7 @@
+--- source: brsvbh1u-Cleaned.txt | block: 10 | label: meter | g:0.276 m:0.834 ---
+
+-yatra jijñāsyatvaṃ tatraiva saṃdigdhatvaṃ saprayojanatvaṃ ceti jijñāsyatvavyāpake saṃdigdhatvasaprayojanatve ।
+tayorviruddhasya tadabhāvasyehopalabdhirjñānam ।
+tathāca vyāpakābhāve tadvyāptajijñāsyatvābhāvo atretyarthaḥ ।
+atraivaṃ prayagoḥ-brahma mumukṣvavicāryaṃ taṃ pratyasaṃdigdhatvāt, niṣprayojanatvācca ।
+tathāvidhakumbha-kākadantavaditi bhāvaḥ ।

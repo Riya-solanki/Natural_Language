@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2015 | label: meter | g:0.102 m:0.871 ---
+
+ayonijā yonijāś ca te devāḥ pṛthivītale 
+daityadānavahantāraḥ saṃbhūtāḥ puruṣeśvarāḥ 
+kṣīrikāvṛkṣasaṃghātā vajrasaṃhananās tathā ।।

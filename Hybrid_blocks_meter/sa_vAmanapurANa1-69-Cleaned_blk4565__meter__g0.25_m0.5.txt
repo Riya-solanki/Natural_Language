@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4565 | label: meter | g:0.25 m:0.5 ---
+
+durbhikṣasaṃpīḍitaputrabhārye yāmī sadā poṣaṇatatpare ca ।
+devāgniviprarṣirate ca pitroḥ śuśruṣake bhrātari jyeṣṭhasāmne ।
+yattatphalaṃ saṃpravadanti devāḥ sa tat phalaṃ labhate cāsya pāṭhāt ।।

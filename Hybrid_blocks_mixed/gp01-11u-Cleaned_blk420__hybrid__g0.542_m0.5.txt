@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 420 | label: hybrid | g:0.542 m:0.5 ---
+
+[] sovāca-bhavatāṃ prāṇa-kandasya śrīman-nandasya jagadānandaḥ sa khalu nandanaḥ sambhaviteti ।

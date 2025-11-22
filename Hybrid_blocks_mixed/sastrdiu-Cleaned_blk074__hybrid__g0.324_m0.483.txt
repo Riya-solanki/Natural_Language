@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 74 | label: hybrid | g:0.324 m:0.483 ---
+
+tadidamasāram ।
+yadi loke śābdaṃ nāsti tadā vede api kathaṃ tatsyāt ।
+nahyabhiprāyānumānakṣīṇasya śabdasyārthaṃ prati vācakatve pramāṇamastītyuktaṃ nyāyaratnamālāyām ।।

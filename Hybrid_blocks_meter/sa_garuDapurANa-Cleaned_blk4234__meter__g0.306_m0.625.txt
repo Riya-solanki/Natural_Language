@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4234 | label: meter | g:0.306 m:0.625 ---
+
+antardāho bahiḥ śaityaṃ śvāso hikkā hi majjame ।
+tamaso darśanaṃ marmacchedanaṃ stabdhameḍhratā ।।

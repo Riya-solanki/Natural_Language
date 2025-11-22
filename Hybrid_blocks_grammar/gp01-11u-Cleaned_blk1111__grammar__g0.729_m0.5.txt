@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1111 | label: grammar | g:0.729 m:0.5 ---
+
+[] tataś ca himācalād gāṅga-pravāhānām iva teṣāṃ pravahe jāte tasyātma-jyotir ajitasyāṅga-saṅghān niḥsajjad eva jagaj-janena dṛdaśe caṇḍa-jyotir-jyotiṣi jyotir iva ।

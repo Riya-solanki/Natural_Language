@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 739 | label: meter | g:0.194 m:0.979 ---
+
+sañcāriṇī dīpa-śikheva rātrau
+yaṃ yaṃ vyatīyāya patiṃvarā sā ।
+narendra-mārgāṭṭa iva prapede
+vivarṇa-bhāvaṃ sa sa bhūmi-pālaḥ ।।

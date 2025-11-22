@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 416 | label: grammar | g:0.573 m:0.5 ---
+
+[] ity ukta-mātrām etāṃ madhumaṅgalaḥ sahāsam āha sma-kim uktam avadhāryatām iti ।
+[] tac chrutvā sarvasmin prahasati sovāca-vadhiro' yaṃ bhavatāṃ sabhāsad iti ।

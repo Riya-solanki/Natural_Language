@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 407 | label: hybrid | g:0.521 m:0.5 ---
+
+stanataṭam idam uttuṅgaṃ nimno madhyaḥ samunnataṃ jaghanam ।
+iti viṣame hariṇākṣyā vapuṣi nave ka iha na skhalati ।।

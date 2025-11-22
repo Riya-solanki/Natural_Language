@@ -1,0 +1,4 @@
+--- source: brssbh4u-Cleaned.txt | block: 17 | label: hybrid | g:0.51 m:0.5 ---
+
+ādāśaṅkā kāraṇaṃ nirākṛtya tattvamasi iti eva asakṛt upadiśate ।
+tathā ca aśrotavyo mantavyo nididhyāsitavyaḥ' ityādi darśitam ।

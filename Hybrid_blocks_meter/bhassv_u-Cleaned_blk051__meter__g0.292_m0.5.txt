@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 51 | label: meter | g:0.292 m:0.5 ---
+
+{tāpasī} - jā īdisī se āidī iyaṃ vi rāadāria tti takkemi 
+[yā īdṛśyasyā ākṛtiḥ iyam api rājadāriketi tarkayāmi । ]

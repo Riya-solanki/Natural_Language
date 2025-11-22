@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 496 | label: grammar | g:0.75 m:0.5 ---
+
+vṛtti sādhakasya śivadharmilaukikadharmibhedād dvaividhye sati lokadharmī yaḥ sādhakaḥ, putrakaḥ, tathā [snātako gṛhī] gṛhasthatve sati snātaḥ, samayī, [prāggṛhasthaḥ] pūrvaṃ gṛhasthaścetyete vratavarjitā jñeyāḥ। prāggṛhasthasśca ityuttarakālaṃ gārhasthyatyāgāpekṣayā। yataḥ sambhavanti kecana ājīvanamujjhitagṛhāvasthitayaḥ। tadvailakṣaṇyārthaṃ prāggṛhasthagrahaṇam।।

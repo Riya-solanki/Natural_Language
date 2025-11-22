@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1719 | label: meter | g:0.25 m:0.5 ---
+
+nairṛtya śokasantāpau miṣṭānnaṃ caiva paścime ।
+artha prāpnoti vāyavye uttare kalahobhavet ।।

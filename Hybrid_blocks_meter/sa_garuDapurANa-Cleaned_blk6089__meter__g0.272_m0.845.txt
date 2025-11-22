@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6089 | label: meter | g:0.272 m:0.845 ---
+
+jñeyā mūṣikaparṇo tu bhramantī cākhuparṇikā ।
+viṣamuṣṭirdrāvaṇañca keśamuṣṭirudāhṛtā ।।

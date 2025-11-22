@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2355 | label: meter | g:0.272 m:0.595 ---
+
+evam ekam idaṃ viddhi na bhedi sakalaṃ jagat 
+vāsudevābhidheyasya svarūpaṃ paramātmanaḥ ।।

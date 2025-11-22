@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1066 | label: grammar | g:0.806 m:0.375 ---
+
+cārthe dvandvaḥ ।।
+anekaṃ subantaṃ cārthe vartamānaṃ vā samasyate sa dvandvaḥ । samuccayānvācayeta retarayogasamāhārāścārthāḥ । tatra "īśvaraṃ guruṃ ca bhajasva'; iti parasparanirapekṣasyāneka syaikasminnanvayaḥ samuccayaḥ । "bhikṣāmaṭa gāṃ cānaya'; ityanyatarasyānuṣaṅgikatvena anvayo anvācayaḥ । anayorasāmarthyātsamāso na । "dhavakhadirau chindhi'; iti militānāmanvaya itaretarayogaḥ । "saṃjñāparibhāṣam'; iti samūhaḥ samāhāraḥ ।।

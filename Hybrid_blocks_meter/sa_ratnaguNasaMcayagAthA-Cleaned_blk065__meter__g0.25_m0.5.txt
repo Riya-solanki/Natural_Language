@@ -1,0 +1,3 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 65 | label: meter | g:0.25 m:0.5 ---
+
+bhagavatyāṃ ratnaguṇasaṃcayagāthāyāṃ guṇaparikīrtanaparivarto nāma caturthaḥ ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1878 | label: grammar | g:0.646 m:0.5 ---
+
+karpūra-caṇḍaḥ-aho utsāha-śaktir bhavataḥ । amantra-śīlo mahī-patiḥ apara-prabandha-darśī kaviḥ apāṭha-ruciś ca vadnī na ciraṃ nandati ।

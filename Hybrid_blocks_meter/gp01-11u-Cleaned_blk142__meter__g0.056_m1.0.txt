@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 142 | label: meter | g:0.056 m:1.0 ---
+
+nityaṃ sudhā-dhāmaja-dhāma-saṅgataḥ
+pūrṇāṅgatām aṅgala-saṅgatiṃ gatāḥ ।
+yatrāpi kumbhā vidhu-kānta-sambhavāḥ
+kūṭāntaratva-mukuṭā iva sthitāḥ ।। [indravaṃśā]

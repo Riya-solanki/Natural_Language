@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3890 | label: meter | g:0.25 m:0.625 ---
+
+druhyuṃ cānuṃ ca pūruñca śarmiṣṭhā vārṣapārvaṇī ।
+sahasrajītkroṣṭumanā raghuścaiva yadoḥ sutāḥ ।।

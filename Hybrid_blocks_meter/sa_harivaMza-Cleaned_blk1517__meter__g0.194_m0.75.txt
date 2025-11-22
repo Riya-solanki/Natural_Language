@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1517 | label: meter | g:0.194 m:0.75 ---
+
+somaḥ śvetahayo bhāti syandane śītaraśmivān 
+himatoyaprapūrṇābhir bhābhir āplāvayañ jagat ।।

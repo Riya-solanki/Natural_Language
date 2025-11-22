@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 909 | label: meter | g:0.25 m:0.625 ---
+
+stavaṃ pracetaso viṣṇoḥ samudrāmbhasi saṃsthitāḥ 
+cakrus taṃ me muniśreṣṭha supuṇyaṃ vaktum arhasi ।।

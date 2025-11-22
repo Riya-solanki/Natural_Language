@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1242 | label: meter | g:0.25 m:0.5 ---
+
+paraduḥkhaduḥkhitāḥ svajīvitam api nāpekṣante sādhavaḥ ।

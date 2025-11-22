@@ -1,0 +1,5 @@
+--- source: brsvbh3u-Cleaned.txt | block: 132 | label: grammar | g:0.58 m:0.468 ---
+
+vājasaneyināṃ ṣaṣṭhāgnividhānaṃ mā ca bhūcchāndogyānāṃ tathāpi pañcatvasaṃkhyāyā avidhānānnotpattiśiṣṭatvaṃ saṃkhyāyāḥ kintūtpanneṣvagniṣu pracayaśiṣṭā saṃkhyānūdyate sāṃpādikānagnīnavacchetuṃ, tena yeṣāmutpattisteṣāṃ pratyabhijñānāt ।
+apratyabhijñāyamānāyāśca saṃkhyāyā anuvādyatvenānutpattervidhīyamānasya cādhikasya ṣoḍaśigrahaṇavadvikalpasaṃbhavānna śākhāntare jñānabhedaḥ ।
+utpattiśiṣṭatve asiddhe prāṇasaṃvādādayo api bhavanti pratyabhijñānādabhinnāstāsu tāsu śākhāsviti ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1765 | label: meter | g:0.194 m:0.625 ---
+
+yojanānāṃ sahasrāṇi ūrdhvaṃ pañcāśad ucchritaḥ 
+tāvad eva ca vistīrṇaḥ sarvataḥ parimaṇḍalaḥ ।।

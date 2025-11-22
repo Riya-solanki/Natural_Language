@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 1047 | label: grammar | g:0.719 m:0.375 ---
+
+taccāha karkoṭītyādi ।।
+karkoṭīmūlarasaṃ karkoṭī yā vallī tasyāḥ mūlarasaṃ tridinaṃ pibet vātha kaṣāyaṃ kathaṃ sindhunā saindhavena sahitaṃ pibet vā tatkvāthaṃ gojalasahitaṃ gomūtramilitaṃ rasājīrṇe pibet sauvarcalasahitamiti sauvarcalasya prativāpaṃ karkoṭīrase nikṣipya pibet tridinaṃ sarvatretyarthaḥ ।।

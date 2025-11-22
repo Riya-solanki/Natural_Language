@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 525 | label: grammar | g:0.656 m:0.5 ---
+
+asyās tuṅgam iva stanadvayam idaṃ nimneva nābhiḥ sthitā dṛśyante viṣamonnatāś ca valayo bhittau samāyām api ।
+aṅge ca pratibhāti mārdavam idaṃ snigdhasvabhāvaś ciraṃ premṇā manmukhacandram īkṣita eva smereva vaktīti ca ।।

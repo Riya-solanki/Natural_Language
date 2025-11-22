@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10638 | label: meter | g:0.25 m:0.5 ---
+
+etāsāṃ hananaṃ naiva prārthayāmaḥ sadā hare ।
+asti pratinṛṣu brahma prakṛtī dve vyavasthite ।।

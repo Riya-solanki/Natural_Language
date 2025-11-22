@@ -1,0 +1,5 @@
+--- source: ttssarvu-Cleaned.txt | block: 12 | label: grammar | g:0.701 m:0.496 ---
+
+triguṇa eva traiguṇyaṃ sattvarajastamāṃsi teṣāṃ sañcāraḥ mattakapotakaṇṭhanyāyena pratikṣaṇaṃ vilakṣaṇapariṇāmo varttata iti śeṣaḥ ।
+anena mūlaprakṛtistriguṇātmikā tritvena ca bhedabodhakena guṇāḥ parasparaviruddhasvabhāvāḥ prītyaprītiviṣādātmakāḥ sañcāreṇa ca saṅgatasamyakcaraṇārthakena teṣāṃ nityasabhāvaḥ puruṣārthe jananīye kāryānusāreṇa parasparasahāyatā ca ।
+tataśca prakṛtermahadādīnāṃ bhūtebhyaśca ghaṭapaṭādisakalapadārthānāṃ triguṇalakṣaṇapariṇāmādeva saṃsiddhiḥ kāryotpādaśca nāpūrvaḥ kintvāvirbhāvamātraṃ sūkṣmakāraṇarūpeṇa sthitasya sthūlakāryakṣamarūpeṇa vipariṇāma iti sadvyāptivādaśca ityete siddhāntāḥ saṃsūcitā bhavantīti bodhyam ।।

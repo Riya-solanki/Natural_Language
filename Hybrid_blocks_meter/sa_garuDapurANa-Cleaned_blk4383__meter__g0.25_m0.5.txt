@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4383 | label: meter | g:0.25 m:0.5 ---
+
+maraṇādapi pāpātmā gataḥ pāpatarāṃ daśām ।
+dharmādharmaṃ sukhaṃ duḥ khaṃ mānānarthaṃ hitāhitam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11296 | label: meter | g:0.306 m:0.5 ---
+
+yathā rudrādyā lakṣaṇairvai prapūrṇā rudrādillakṣmaṇā caiva pūrṇā ।
+guṇenaivaṃ dharmataḥ kiñcideva tathānusaṃdhānādvriyate nāma cāpi ।।

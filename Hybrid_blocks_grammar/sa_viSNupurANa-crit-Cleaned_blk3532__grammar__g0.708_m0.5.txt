@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3532 | label: grammar | g:0.708 m:0.5 ---
+
+tataś cāsamañjasaś caritānukāribhiḥ sāgarair apadhvastayajñādisanmārge jagati devāḥ sakalavidyāmayam asaṃspṛṣṭam aśeṣadoṣair bhagavataḥ puruṣottamasyāṃśabhūtaṃ kapilaṃ praṇamya tad artham ūcuḥ ।।

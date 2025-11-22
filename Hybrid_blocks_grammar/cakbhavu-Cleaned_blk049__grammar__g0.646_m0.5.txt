@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 49 | label: grammar | g:0.646 m:0.5 ---
+
+Viv abhyajyate anabhivyaktam aoi vyaktim ānīyate sṛṣṭikramāvadyotitā yena so abhaṅga upasnehakaḥ, netre prathamasūtre api ।।

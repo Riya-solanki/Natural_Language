@@ -1,0 +1,3 @@
+--- source: brssgo4u-Cleaned.txt | block: 10 | label: hybrid | g:0.521 m:0.5 ---
+
+nanu uktaṃ yāvat śabdameva āvartayet na adhikam iti ।

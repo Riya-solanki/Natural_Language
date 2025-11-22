@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 315 | label: hybrid | g:0.288 m:0.423 ---
+
+evaṃ prakṛtāvapi sarvebhyaḥ kāmebhyo darśapūrṇamāsau ityatra vidhiśabdasyānāmnānādanadhyāhārācca vidhyarthasyaiva svargakāmādhikārāpūrvādāgneyādyutpattyapūrvebhyaśca pṛthagbhūtasyādhyāhārānna samidādīnāmaidamarthyaṃ sidhyet ।
+na hi samidādiyajatayo avaghātādivadadhikārāpūrvānvitaṃ svārthāmabhidhātumalaṃ svāpūrvaviṣayatvavyāghātāt ।
+tasmādīdṛdṛśeṣvadhikāravidhiṣu vidhiśabda evādhyāhāryo nārthaḥ ।।

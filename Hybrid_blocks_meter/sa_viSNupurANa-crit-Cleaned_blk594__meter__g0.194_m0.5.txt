@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 594 | label: meter | g:0.194 m:0.5 ---
+
+prāṇasya dyutimān putro rājavāṃś ca tato abhavat 
+tato vaṃśo mahābhāga vistāraṃ bhārgavo gataḥ ।।

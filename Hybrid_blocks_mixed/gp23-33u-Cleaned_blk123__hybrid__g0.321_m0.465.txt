@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 123 | label: hybrid | g:0.321 m:0.465 ---
+
+lakṣīr vrajam anu tulasī-vanam anu bhavad-udaya-sphurad-udayā ।
+dṛśyata iti tava pada-dhūlyāplavam icchaty api pati-hṛdayā ।।yasyā vīkṣaṇam api valita-kṣaṇa-pārṣada-vṛnda-nidhānam ।
+tadvad vayam api hṛdi vāñchām api nahyāmaḥ savitānam ।।
+atrāpi-śabdaḥ samuccaye pūrvavat kākvā niṣedhe vā ।

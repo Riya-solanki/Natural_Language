@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1760 | label: grammar | g:0.688 m:0.5 ---
+
+atha vajrakāntiḥ svakarmasamayāmabhāṣat oṃ vajrakānti mā[raya saumyarūpe pra]dīptarāgeṇa śīghraṃ sphoṭaya hṛdayaṃ vajradharasatyena mahājyotsnākarāle śītaraśmivajriṇi hūṃ phaṭ ।।

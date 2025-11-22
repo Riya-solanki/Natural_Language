@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11428 | label: meter | g:0.25 m:0.5 ---
+
+nakṣatravaddṛśyate śrīnivāsaḥ sadā ṛṣīṇāmaparokṣo haristu ।
+sa sūryavaddṛśyate śrīnivāsaḥ saṃsāriṇāṃ veṅkaṭeśaḥ khagendra ।।

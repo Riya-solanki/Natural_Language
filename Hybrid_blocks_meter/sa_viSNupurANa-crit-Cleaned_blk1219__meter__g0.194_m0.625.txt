@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1219 | label: meter | g:0.194 m:0.625 ---
+
+sarvabhūtasthite tasmin matir maitrī divāniśam 
+bhavatāṃ jāyatām evaṃ sarvakleśān prahāsyatha ।।

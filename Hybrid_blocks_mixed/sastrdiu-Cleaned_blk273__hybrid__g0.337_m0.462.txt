@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 273 | label: hybrid | g:0.337 m:0.462 ---
+
+dṛṣṭamiti tadvadeva prāgasvarūpārthatvaṃ tenāva hetunā prasajyeta, svarūpapratipādane ca bādhiter'thapratipādanamapi taddharmasvarūpaṃ bādhitameva ।
+nahi prāk saṃbandhagrahādarthāntarapratipattiḥ śakyate vaktuṃ pratītivirodhādeva ।।

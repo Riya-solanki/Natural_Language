@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 940 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tad etad amṛta-varṣa-dharṣitā vraja-varṣīyāṃsaḥ parasparaṃ vicārya kārya-māṇa-maṅgalya-tauryatrika-vādanāpaurvāparyataḥ svasti-vācanādikam ācārya-dvārā samācārya, pratisvam api vividha-vidhāna-dāna-pūrvakaṃ parva pūrayitvā pūra-rājatayā taṃ sabhājayāmāsuḥ ।

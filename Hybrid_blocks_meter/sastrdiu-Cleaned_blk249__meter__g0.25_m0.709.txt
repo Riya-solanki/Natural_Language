@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 249 | label: meter | g:0.25 m:0.709 ---
+
+atha smṛtipramoṣasyāpyabādhadarśanāt ।
+maṇiprabhādarśino maṇibuddhistāvadatsmṛtipramoṣa eva, anyathā viparītakhyātiprasaṅgāt ।
+atha ca pravṛttasya maṇilābhānna bādhakamasti, tasmātsmṛtirevānumānamityapramāṇyāpattiḥ ।।

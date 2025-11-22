@@ -1,0 +1,6 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 37 | label: meter | g:0.319 m:0.508 ---
+
+kumārikāpraśnagāthā
+eko araṇye prasṛto dhyāyase tvaṃ vittād vihīna uta vā prārthayānaḥ ।
+grāmasya vā kiṃcanāgo nv akārṣīḥ kasmāj janena na karoṣi sakhyaṃ
+sakhyaṃ na saṃvidyate kena cit tava ।।

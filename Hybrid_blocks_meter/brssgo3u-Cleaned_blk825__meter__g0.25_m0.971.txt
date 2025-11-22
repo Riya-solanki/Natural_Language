@@ -1,0 +1,7 @@
+--- source: brssgo3u-Cleaned.txt | block: 825 | label: meter | g:0.25 m:0.971 ---
+
+neti brūmaḥ ।
+tasmāditi prakṛtapraśaṃsāparigrahādvidhitvapratīteḥ ।
+paśyediti na mādhyandinā vispaṣṭameva vidhimadhīyate ।
+tasmādyajñādyanapekṣāyāmapi śamadīnyapekṣitavyāni ।
+yajñādīnyapi tvapekṣitavyānīti yajñādiśrutereva ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 806 | label: meter | g:0.25 m:0.625 ---
+
+iti mantraḥ samākhyāto mayā te prabhaviṣṇunā ।
+nyāsaṃ kṛtvātmano mudrāṃ darśayedvijitātmavān ।।

@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 219 | label: meter | g:0.194 m:0.625 ---
+
+madhumadakalā madhukarā madanārtābhiḥ priyābhir upagūḍhāḥ
+pādanyāsaviṣaṇṇā vayam iva kāntāviyuktāḥ syuḥ ।।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 342 | label: hybrid | g:0.5 m:0.5 ---
+
+-vedāntavākyakadambasya kāryaparatve tu na vākyatvahetunā sāpekṣatvamanumeyaṃ, pauruṣeyatvasyopādhitvārt ।

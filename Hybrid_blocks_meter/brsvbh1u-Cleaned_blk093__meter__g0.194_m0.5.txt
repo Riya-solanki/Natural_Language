@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 93 | label: meter | g:0.194 m:0.5 ---
+
+addhā na bādhyeta yadi marīcīnatoyātmatattvānatoyātmanā gṛhṇīyāt ।
+toyātmanā tu gṛhṇan kathamabhrāntaḥ, kathaṃ vābādhyaḥ

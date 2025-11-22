@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 509 | label: meter | g:0.25 m:0.698 ---
+
+sarve' pi sattva-mūlatvād bhāvā yadyapi sāttvikāḥ । 
+tathāpy amīṣāṃ sattvaika-mūlatvāt sāttvika-prathā ।।
+anubhāvāś ca kathyante bhāva-saṃsūcanād amī । 
+evaṃ dvairūpyam eteṣāṃ kathitaṃ bhāva-kovidaiḥ ।।
+anubhāvaika-nidhinā sukhānubhava-śālinā ।
+śrī-siṃha-bhūbhujā sāṅgam anubhāvā nirūpitāḥ ।।

@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 1011 | label: meter | g:0.124 m:0.532 ---
+
+[] tatra nityam eva gojātam anuyātena tātena saha yātavantau samantād alaṃ tau bhramataḥ । yathā,
+agacchatāṃ tatra vane janānāṃ
+snehārthināṃ kroḍa-gatau pituś ca ।
+apṛcchatāṃ tat-prati-vastu bālāv
+ayacchatāṃ śarma ca rāma-kṛṣṇau ।। [upajāti ]

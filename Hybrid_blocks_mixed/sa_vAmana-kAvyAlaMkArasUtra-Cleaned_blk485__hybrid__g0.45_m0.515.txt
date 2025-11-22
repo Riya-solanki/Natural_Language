@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 485 | label: hybrid | g:0.45 m:0.515 ---
+
+ityādiṣu sarajasamiti na yuktaḥ prayogaḥ anavyayībhāve । bhāva eva sarajasaśabdasyeṣṭatvāt ।।
+dhṛtadhanuṣītyasaṃjñāyām ।।
+dhṛtadhanuṣi śauryaśālini

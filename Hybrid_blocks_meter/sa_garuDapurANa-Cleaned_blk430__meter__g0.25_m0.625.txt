@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 430 | label: meter | g:0.25 m:0.625 ---
+
+makhejyo makharūpī ca mānanīyo makheśvaraḥ ।
+mahāvāto mahābhāgo maheśo atītamānuṣaḥ ।।

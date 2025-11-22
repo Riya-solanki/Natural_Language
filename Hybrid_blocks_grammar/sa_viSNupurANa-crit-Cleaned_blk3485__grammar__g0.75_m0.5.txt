@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3485 | label: grammar | g:0.75 m:0.5 ---
+
+yaś caitat saubharicaritam anusmarati paṭhati śṛṇoti avadhārayati lekhayati tasyāṣṭau janmany asanmatir asaddharmo vā manaso asanmārgācaraṇam aśeṣaheyeṣu vā mamatvaṃ na bhavati ।।

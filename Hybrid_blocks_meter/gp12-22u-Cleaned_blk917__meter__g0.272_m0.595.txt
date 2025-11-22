@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 917 | label: meter | g:0.272 m:0.595 ---
+
+ākāśa-kusumaiḥ sārdham ākāśa-vacanaṃ tadā ।
+govinda iti yad vittaṃ tataḥ kim iva sādbhutam? ।। [anuṣṭubh]

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 326 | label: meter | g:0.194 m:0.75 ---
+
+manvantareṣu sarveṣu prāgdiśaṃ sapta saptakāḥ 
+sthitā dharmavyavasthārthaṃ lokasaṃrakṣaṇāya ca ।।

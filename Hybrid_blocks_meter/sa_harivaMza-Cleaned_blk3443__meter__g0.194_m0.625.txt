@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3443 | label: meter | g:0.194 m:0.625 ---
+
+sa dadarśa gṛhe kṛṣṇaṃ yādavair abhisaṃvṛtam 
+paścānutāpād dhyāyantaṃ kaṃsasya nidhanāvilam ।।

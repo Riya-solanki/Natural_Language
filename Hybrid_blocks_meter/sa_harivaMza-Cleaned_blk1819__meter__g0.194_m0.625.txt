@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1819 | label: meter | g:0.194 m:0.625 ---
+
+sa dadarśocchritān yūpāṃś caṣālāgravibhūṣitān 
+makheṣu ca brahmarṣibhiḥ śataśaḥ kṛtalakṣaṇān ।।

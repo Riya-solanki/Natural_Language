@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11985 | label: meter | g:0.25 m:0.5 ---
+
+supānakasyaiva ca pānakāle samyak smarennārasiṃhākhyaviṣṇum ।
+gaṅgāmṛtasyaiva ca pānakāle gaṅgātātaṃ saṃsmaredviṣṇumeva ।।

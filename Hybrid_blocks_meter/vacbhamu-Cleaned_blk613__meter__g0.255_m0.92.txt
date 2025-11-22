@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 613 | label: meter | g:0.255 m:0.92 ---
+
+asati pratijñoparodho yaugapadyamanyathā ।
+nīlābhāsasya hi cittasya nīlādālambanapratyayānnīlākāratā ।
+samanantarapratyayātpūrvavijñānādbodharūpatā ।

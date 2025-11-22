@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 93 | label: grammar | g:0.573 m:0.5 ---
+
+bhartur mitraṃ priyam avidhave viddhi mām ambuvāhaṃ tatsaṃdeśān manasi nihitād āgataṃ tvatsamīpam ।
+yo vṛndāni tvarayati pathi śrāmyatāṃ proṣitānāṃ mandrasnigdhair dhvanibhir abalāveṇimokṣotsukāni ।।

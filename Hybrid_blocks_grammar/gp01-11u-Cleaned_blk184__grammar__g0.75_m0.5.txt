@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 184 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam api rohiṇī-prabhṛtīnām ādarāya bhṛta-nibhṛta-saṅkocām ālocayantī rājñī tām anujajñe, "putri, vandasva vandana-yogyāḥ" iti । sā ca ramya-guṇā puru-nipuṇā bhakti-pūrataḥ sarvā eva gurūr avanamya dūra-deśa eva niveśaṃ vinata-vaktram āsasāda ।

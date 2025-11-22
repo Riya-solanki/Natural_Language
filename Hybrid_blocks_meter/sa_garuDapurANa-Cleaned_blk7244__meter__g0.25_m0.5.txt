@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7244 | label: meter | g:0.25 m:0.5 ---
+
+bhagavannāti vāhaśca nava piṇḍāḥ pradāpayet ।
+kathaṃ deyaṃ pitṛbhyaśca vāhasyāvāhanaṃ katham ।।

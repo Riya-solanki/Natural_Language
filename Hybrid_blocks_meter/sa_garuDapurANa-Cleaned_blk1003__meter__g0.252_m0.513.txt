@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1003 | label: meter | g:0.252 m:0.513 ---
+
+vāsudeva uvāca । śṛṇu sūryasya rudra tvaṃ punarvakṣyāmi pūjanam । 
+oṃ uccaiḥ śravase namaḥ oṃ aruṇāya namaḥ ।
+oṃ daṇḍine namaḥ ।
+oṃ piṅgalāya namaḥ ।
+ete dvāre prapūjyā vai epirmantrairvṛṣadhvaja ।।

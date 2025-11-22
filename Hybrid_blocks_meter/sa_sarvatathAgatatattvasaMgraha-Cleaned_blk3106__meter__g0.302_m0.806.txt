@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3106 | label: meter | g:0.302 m:0.806 ---
+
+evaṃ brūvaṃstu sarveṣu kulamudrā nayeṣu ca ।
+guhyasiddhimavāpnoti buddhānāmasamatviṣām ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 80 | label: grammar | g:0.632 m:0.5 ---
+
+tatpratyarthitayā vṛto na tu kṛtaḥ samyak svatantro bhayāt svasthas tān na nipātayed iti yathākāmaṃ na sampoṣitaḥ 
+saṃśuṣyan pṛṣadaṃśa eṣa kurutāṃ mūkaḥ sthito apy atra kiṃ gehe kiṃ bahunā adhunā gṛhapateś caurrāś caranty ākhavaḥ ।।

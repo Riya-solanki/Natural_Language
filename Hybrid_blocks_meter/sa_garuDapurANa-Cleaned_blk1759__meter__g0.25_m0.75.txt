@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1759 | label: meter | g:0.25 m:0.75 ---
+
+catvāriṃśacca varṣāṇi hīnarekhastu jīvati ।
+bhinnābhiścaiva rekhābhirapamṛtyurnarasya hi ।।

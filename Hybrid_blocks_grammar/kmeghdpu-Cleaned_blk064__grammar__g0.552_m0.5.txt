@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 64 | label: grammar | g:0.552 m:0.5 ---
+
+haste līlākamalam alakaṃ bālakundānuviddhaṃ nītā lodhraprasavarajasā pāṇḍutām ānanaśrīḥ ।
+cūḍāpāśe navakuravakaṃ cāru karṇe śirīṣaṃ sīmante ca tvadupagamajaṃ yatra nīpaṃ vadhūnām ।।

@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 158 | label: meter | g:0.0 m:0.5 ---
+
+nanvevaṃ dhārāvāhikeṣuttareṣāṃ pūrvagṛhītārthaviṣayakatvādaprāmāṇyaṃ syāt tasmādanubhūtiḥ pramāṇamitipramāṇalakṣaṇam,

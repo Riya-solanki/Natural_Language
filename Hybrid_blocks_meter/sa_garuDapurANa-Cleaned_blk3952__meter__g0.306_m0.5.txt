@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3952 | label: meter | g:0.306 m:0.5 ---
+
+vitathasya suto manyurmanyoścaiva naraḥ smṛtaḥ ।
+narasya saṃkṛtiḥ putro gargo vai saṃkṛteḥ sutaḥ ।।

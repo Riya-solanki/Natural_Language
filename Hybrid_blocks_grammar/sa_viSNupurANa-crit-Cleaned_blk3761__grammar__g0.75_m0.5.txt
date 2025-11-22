@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3761 | label: grammar | g:0.75 m:0.5 ---
+
+vṛṣṇeḥ sumitro yudhājic ca putrāv abhūtām । tataś cānamitraśinī tathānamitrān nighno nighnasya prasenasatrājitau । tasya satrājitasya bhagavān ādityaḥ sakhābhavat । ekadā tv ambhonidhitīrasaṃśrayaḥ sūryaṃ satrājitas tuṣṭāva tanmanaskatayā ca bhāsvān abhiṣṭūyamāno agratas tasya tasthau । aspaṣṭamūrtidharaṃ cainam ālokya satrājitaḥ sūryam āha । yathaiva vyomni vahnipiṇḍopamam aham apaśyaṃ tathaivādyāgrato gatam apy atra na kiṃcid bhagavatā prasādīkṛtaṃ viśeṣam upalakṣayāmi ।।

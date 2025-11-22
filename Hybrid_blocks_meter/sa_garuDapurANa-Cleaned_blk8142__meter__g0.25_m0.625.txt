@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8142 | label: meter | g:0.25 m:0.625 ---
+
+naiva labhyeta naśyetaḥ sā pīḍā pretasaṃmavā ।
+suvṛṣṭau kṛṣināśaḥ syādvāṇijyādvṛttināśanam ।।

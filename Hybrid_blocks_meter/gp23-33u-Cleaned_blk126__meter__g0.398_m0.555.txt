@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 126 | label: meter | g:0.398 m:0.555 ---
+
+tava muralī-kalam api ca rūpa-balam anubhūyābhavad eva ।
+druma-kulam api pulakāṅkura-saṅkulam iha kā nārī deva ।।
+atra keti kaumutye niṣedhe vā-

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7366 | label: meter | g:0.293 m:0.794 ---
+
+śrībhagavānuvāca ।
+narakāṇāṃ sahasrāṇi vartante hyaruṇānuja ।
+śakyaṃ vistarato naiva vaktuṃ prādhānyato bruve ।।

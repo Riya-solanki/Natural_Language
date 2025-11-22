@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1127 | label: meter | g:0.307 m:0.623 ---
+
+tarthārṣitejottamamuttamaṃ mahannāmnā pṛthivyāmabhavat prasiddham ।
+kātyāyanītyeva tadā babhau sā nāmnā ca tenaiva jagatprasiddhā ।।

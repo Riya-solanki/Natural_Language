@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3602 | label: meter | g:0.194 m:0.625 ---
+
+veṇubherīmṛdaṅgānāṃ śaṅkhānāṃ ca sahasraśaḥ 
+ubhayoḥ senayo rājan prādur āsīn mahāsvanaḥ ।।

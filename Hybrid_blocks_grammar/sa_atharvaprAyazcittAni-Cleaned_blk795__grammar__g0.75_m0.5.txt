@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 795 | label: grammar | g:0.75 m:0.5 ---
+
+atha ced dhutāhutau somau pītāpītau vā saṃsṛjyeyātāṃ yajñasya hi stha ṛtvijā gavīndrāgnī kalpatā yuvaṃ hutāhutasya cāsyā yasyendrāgnīvītaṃ pibata ghṛtam imāṃ ghṛtam iti dvābhyāṃ juhuyāt ।

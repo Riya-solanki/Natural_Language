@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1071 | label: meter | g:0.056 m:1.0 ---
+
+{anaṅgaraṅgapratiaṃ tadaṅgaṃ
+bhaṅgībhraṅgīkṛtamānatāṅgyāḥ ।
+kurvanti yūnāṃ sahasā yathaitāḥ
+svāntāni śāntāparacintanāni ।।}

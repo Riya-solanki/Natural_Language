@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3976 | label: meter | g:0.194 m:0.5 ---
+
+kaliṅgarājas tac chrutvā prajahāsa bhṛśaṃ tadā 
+dantān vidarśayan hṛṣṭas tatrākrudhyadd halāyudhaḥ ।।

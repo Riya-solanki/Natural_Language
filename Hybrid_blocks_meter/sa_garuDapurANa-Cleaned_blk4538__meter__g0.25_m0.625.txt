@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4538 | label: meter | g:0.25 m:0.625 ---
+
+uṣṇaṃ punaḥ punaḥ kṛcchrāduṣṇavātaṃ vadanti tam ।
+rūkṣasya klāntadehasya bastisthau pittamārutau ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3278 | label: meter | g:0.25 m:0.5 ---
+
+smāritena yathā vyaktas tenātmā gṛdhratāṃ gataḥ 
+apāpā sā punaś cainaṃ bodhayām āsa bhāminī ।।

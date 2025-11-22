@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10196 | label: meter | g:0.306 m:0.5 ---
+
+yadā nantyaṃ kimu vaktavyamatra guṇānantyaṃ nāsti brahmādikeṣu ।
+yadyapyahaṃ deśataḥ kālataśca samastadā vāsudevena sārdham ।।

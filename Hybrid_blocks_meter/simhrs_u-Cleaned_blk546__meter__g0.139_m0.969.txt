@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 546 | label: meter | g:0.139 m:0.969 ---
+
+suratena, yathā-
+ati-prayatnena ratānta-tāntā
+kṛṣṇena talpāvaropitā sā ।
+ālambya tasyaiva karaṃ kareṇa
+jyotsnā-kṛtānandam alindam āpa ।।

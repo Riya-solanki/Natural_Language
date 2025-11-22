@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 254 | label: meter | g:0.194 m:0.625 ---
+
+ājñāsphurantam ānandaṃ guruṃ tyaktvānyam āśrayet 
+sanniruddhas tu sarvatra rājyabhraṣṭo yathā nṛpaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 143 | label: meter | g:0.102 m:0.732 ---
+
+śaktayaḥ sarvabhāvānām acintyajñānagocarāḥ 
+yato ato brahmaṇas tās tu sargādyā bhāvaśaktayaḥ 
+bhavanti tapatāṃ śreṣṭha pāvakasya yathoṣṇatā ।।

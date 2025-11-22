@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4345 | label: meter | g:0.194 m:0.5 ---
+
+agāvahaḥ sumitraś ca śuciś citrarathas tathā 
+citrasenaḥ sute cāsya citrā citravatī tathā ।।

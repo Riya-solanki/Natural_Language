@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 61 | label: meter | g:0.306 m:0.625 ---
+
+bhramadbhramaraketakīvikasadekapatraprabhāḥ sanīlamaṇināyakā iva vimuktamuktālatāḥ ।
+dṛśaḥ śaśikalā iva pracitapakṣmaleśāṅkitā jayanti hariṇīdṛsām amṛtakālakūṭacchaṭāḥ ।।

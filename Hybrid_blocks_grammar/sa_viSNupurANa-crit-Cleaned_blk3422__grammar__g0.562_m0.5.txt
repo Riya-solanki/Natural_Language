@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3422 | label: grammar | g:0.562 m:0.5 ---
+
+prāptasamayaś ca dakṣiṇakukṣim avanīpater nirbhidya niścakrāma na cāsau rājā mamāra ।।

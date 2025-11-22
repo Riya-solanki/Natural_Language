@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7778 | label: meter | g:0.25 m:0.75 ---
+
+sarannevaṃ vilapate halāhatihataḥ pathi ।
+kva sūnupeśalakaraiḥ pādasaṃvāhanaṃ mama ।।

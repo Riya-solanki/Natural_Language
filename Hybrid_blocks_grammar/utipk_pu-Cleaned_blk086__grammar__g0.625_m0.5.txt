@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 86 | label: grammar | g:0.625 m:0.5 ---
+
+cidātmanaś ceśvarasya ātmanīvābhedenārtheṣv api prakāśe asty anyathā pratibhāsamānārthaikaviṣayo nirmātṛtāmayo vimarśa icchārūpo na syāt ।।

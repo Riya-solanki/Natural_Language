@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 51 | label: hybrid | g:0.542 m:0.5 ---
+
+vṛtradviṣaḥ sakuliśasya bhujasya śaktir uttambhitā vihasatā bhavatā tathaiva ।
+pūṣṇas tathaiva daśaneṣu bhagasya cākṣṇor dakṣasya ca kratuphale mamatā nirastā ।।

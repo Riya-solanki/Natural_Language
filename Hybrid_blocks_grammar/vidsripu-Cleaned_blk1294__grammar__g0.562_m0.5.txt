@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1294 | label: grammar | g:0.562 m:0.5 ---
+
+satyaṃ guṇā guṇavatāṃ vidhivaiparītyād yatnārjitā api kalau viphalā bhavanti ।
+sāphalyam asti sutarām idam eva teṣāṃ yat tāpayanti hṛdayāni punaḥ khalānām ।।

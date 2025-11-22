@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 109 | label: grammar | g:0.562 m:0.5 ---
+
+cittaṃ vātavikāsipāṃsusacivaṃ rūpaṃ dināntātapaṃ bhogaṃ durgatagehabandhacapalaṃ puṣpasmitaṃ yauvanam ।
+svapnaṃ bandhusamāgamaṃ tanum api prasthānapuṇyaprapāṃ nityaṃ cintayatāṃ bhavanti na satāṃ bhūyo bhavagranthayaḥ ।।

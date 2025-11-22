@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11373 | label: hybrid | g:0.51 m:0.5 ---
+
+tatyāja dehaṃ viṣṇupatitvakāmā madreṣu vai vīndra putrī prajātā ।
+svayaṃvare lakṣmaṇāyā ahaṃ ca bhittvā lakṣyaṃ bhūpatīndrāvayitvā ।।

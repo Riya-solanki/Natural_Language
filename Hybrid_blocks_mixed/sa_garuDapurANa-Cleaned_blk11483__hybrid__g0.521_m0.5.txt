@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11483 | label: hybrid | g:0.521 m:0.5 ---
+
+tatrāpi viṣṇornṛhare sutattvaṃ sudurlabhaṃ suṣṭhu yātrā tathaiva ।
+yasyāṃ yātrāyāṃ yatra kutrāpi deśe hareḥ kathā vartate daityavaryāḥ ।।

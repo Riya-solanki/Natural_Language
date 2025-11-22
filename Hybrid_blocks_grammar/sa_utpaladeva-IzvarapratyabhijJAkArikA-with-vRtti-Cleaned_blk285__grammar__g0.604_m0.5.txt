@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 285 | label: grammar | g:0.604 m:0.5 ---
+
+ekapramātṛsaṃlagnas tu kriyākārakabhāvākhyo vibhaktyartho bhūmibījodakādīnāṃ samanvayo yukto na tu śuṣko anyaḥ kāryakāraṇabhāvaḥ ।।

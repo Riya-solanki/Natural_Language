@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 683 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā vāśrayāḥ stotrādayastriṣu śiṣyanta evamāśritā api pratyayāḥ ।
+nopadeśakṛto api kaścidviśeṣo aṅgānāṃ tadāśrayāṇāṃ ca pratyayānāmityarthaḥ ।।

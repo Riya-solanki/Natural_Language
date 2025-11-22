@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1118 | label: hybrid | g:0.531 m:0.5 ---
+
+etad bhavantau śaraṇāgatānāṃ śrutvā vaco brūta hitaṃ surāṇām ।
+na ced vrajāmo adya rasātalaṃ hi saṃkālyamānā yudhi dānavena ।।

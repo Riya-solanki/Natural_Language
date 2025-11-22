@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 473 | label: meter | g:0.194 m:1.0 ---
+
+puraḥ pāṇḍucchāyaṃ tadanu kapilimnā kṛtapadaṃ
+tataḥ pākotsekādaruṇaguṇasaṃsargitavapuḥ ।
+śanaiḥ śoṣārambhe sthapuṭanijaviṣkambhaviṣamaṃ
+vane vītāmo badaramarasatvaṃ kalayati ।।

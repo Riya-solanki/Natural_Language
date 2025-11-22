@@ -1,0 +1,6 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 325 | label: meter | g:0.25 m:0.625 ---
+
+vajrabimbannidhisthaṃ tu hṛdaye paribhāvayet ।।
+bhāvayan bhūmisaṃsthāni nidhānāni sa paśyati ।।
+vajrabimbaṃ samālikhya gagane paribhāvayet ।
+patedyatra tu paśyeta nidhitatra vinirdiśet ।।

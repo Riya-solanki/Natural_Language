@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4331 | label: meter | g:0.194 m:0.625 ---
+
+bahūnāṃ strīsahasrāṇām aṣṭau bhāryāḥ prakīrtitāḥ 
+tāsām apatyān yaṣṭānāṃ bhagavān prabravītu me ।।

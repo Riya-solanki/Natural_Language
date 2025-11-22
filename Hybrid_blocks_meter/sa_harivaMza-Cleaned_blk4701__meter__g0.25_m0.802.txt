@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4701 | label: meter | g:0.25 m:0.802 ---
+
+tato dvāravatīmadhye prākārair upaśobhitam 
+tato dvāravatīmadhye kāmasya bhavanaṃ śubham । 
+tatsamīpe aniruddhasya bhavanaṃ sā sma paśyati ।। 
+sauvarṇavedikāstambhaṃ rukmavaidūryatoraṇam । 
+mālyadāmāvasaktaṃ ca pūrṇakumbhopaśobhitam ।। 
+barhikaṇṭhānatagrīvaṃ prāsādair ekasaṃcayaiḥ । 
+maṇipravālasaṃstīrṇaṃ divyagandharvanāditam । 
+dadarśa bhavanaṃ yatra prādyumnir avasat sukham ।।

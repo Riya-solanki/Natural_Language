@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 273 | label: meter | g:0.102 m:0.823 ---
+
+atha kilakiñcitam-
+śoka-roṣāśru-harṣādeḥ saṅkaraḥ kila-kiñcitam ।। athā-
+dattaṃ śrutaṃ dyūta-paṇaṃ sakhībhyo
+vivakṣati preyasi kuñcita-bhrūḥ ।
+kaṇṭhaṃ karābhyām avalambya tasya
+mukhaṃ pidhatte sma kapolakena ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1888 | label: meter | g:0.25 m:0.5 ---
+
+anantaḥ śaṅkupīṭhaśca nikumbhaḥ kumudo ambujaḥ ।
+ekākṣaḥ kunaṭī cakṣuḥ kirīṭī kalaśodaraḥ ।।

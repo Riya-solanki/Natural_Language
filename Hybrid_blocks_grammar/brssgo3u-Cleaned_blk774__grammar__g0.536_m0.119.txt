@@ -1,0 +1,7 @@
+--- source: brssgo3u-Cleaned.txt | block: 774 | label: grammar | g:0.536 m:0.119 ---
+
+atrayo dharmaskandhāḥ' ityādayo ye śabdā ūrdhvaretasāmāśramāṇāṃ sadbhāvāyodāhṛtā na te tatpratipādanāya prabhavanti ।
+yataḥ parāmarśameṣu śabdeṣvāśramāntarāṇāṃ jaiminirācāryo manyate na vidim ।
+kutaḥ - nahyatra liṅgādīnāmanyatamaścodanāśabdo asti ।
+arthāntaraparatvaṃ caiṣu pratyekamupalabhyate ।
+trayo dharmaskandhā ityatra tāvadyajño adhyayanaṃ dānamiti prathamastapa eva dvitīyo brahmacāryācāryakulavāsī tṛtīyo atyantamātmānamācāryakule avasādayansarva ete puṇyalokā bhavantīti parāmarśapūrvakamāśramāṇāmanātyantikaphalatvaṃ saṃkīrtyātyantikaphalatayā brahmasaṃsthatā stūyate - abrahmasaṃstho amṛtatvameti' iti ।

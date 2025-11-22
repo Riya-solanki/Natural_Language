@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 963 | label: grammar | g:0.646 m:0.457 ---
+
+atra tathaiveti kavipratibhārpitatātparyāntaraniścayalakṣaṇasya vastunaḥ tadiveti tadeveti vā sādṛśyasya pratipādakaṃ vinā tatpratipādanapragalbhavākya prayogamāhātmyādutprekṣāyāḥ pratīyamānatvāt ।
+yathā pavāṇa cala vijju ca duliṃ rāiāsu khanaanti me aāso uvāṇa urulisavdayami hiḷiāsuka jillai virahae ।

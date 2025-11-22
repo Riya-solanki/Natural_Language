@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1005 | label: meter | g:0.25 m:0.625 ---
+
+viśvāmitrasya tu sutā devarātādayaḥ smṛtāḥ 
+prakhyātās triṣu lokeṣu teṣāṃ nāmāni me śṛṇu ।।

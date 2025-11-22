@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3494 | label: grammar | g:0.562 m:0.5 ---
+
+rasātalagataś cāsau bhagavattejasāpyāyitātmavīryaḥ sakalagandharvāñ jaghāna । punaś ca svabhavanam ājagāma ।।

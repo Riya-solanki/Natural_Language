@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1719 | label: hybrid | g:0.379 m:0.451 ---
+
+atha anukta-siddhiḥ-
+prastāvanaiva śeṣo' rtho yatrānukto' pi gṛhyate । 
+anukta-siddhir eṣā syād ity āha bharato muniḥ ।।
+Nāṭ prastāvenaiva śeṣo' rthaḥ kṛtsno yan na pratīyate । vacanena vinānukta-siddhiḥ sā parikīrtitā ।।

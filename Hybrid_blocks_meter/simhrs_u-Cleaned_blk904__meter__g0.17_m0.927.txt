@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 904 | label: meter | g:0.17 m:0.927 ---
+
+ghora-śravaṇād, yathā-
+śrutvā niḥsāṇa-rāṇaṃ raṇa-bhuvi bhavato mādhava-kṣmādhavendra
+prāpya pratyarthi-vīrāḥ kula-śikhari-guhāṃ gūḍha-gāḍhāndhakārām ।
+līnā lūna-pratāpā nija-kaṭaka-maṇi-śreṇikānti-prakarṣa-
+sraṣṭāraṃ naṣṭa-dhairyāḥ kamala-bhuvam aho hanta nindanti mandam ।।

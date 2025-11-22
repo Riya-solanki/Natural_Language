@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 539 | label: hybrid | g:0.474 m:0.464 ---
+
+apare tu prapañcavilayamapavargamāhuḥ ।
+avidyānirmito hi prapañcaḥ svapnaprapañcavat prabodhenaiva brahmavidyayā avidyāyāṃ vilīnāyāṃ svayameva vilīyate ।
+tathāhi śrutiḥ yatra hi dvaitamiva bhavati taditara itaraṃ paśyati yatra tvasya sarvāmātmaivābhūttatkena kaṃ paśyet

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 467 | label: grammar | g:0.625 m:0.5 ---
+
+bhedaḥ dānādiṣaṭpāramitāparipūraṇena, buddha-dharma-saṃgha-śīla-tyāga-devatā-nāmanusmaraṇena, rūpādisarvadharmābhāve svabhāvāvabodhena yo adhigamaḥ sa ānupūrvikābhisamayastrayodaśavidha ityasya trayodaśa bhedā bhavanti ।

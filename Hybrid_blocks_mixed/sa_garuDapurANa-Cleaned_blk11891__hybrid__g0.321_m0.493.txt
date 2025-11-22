@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11891 | label: hybrid | g:0.321 m:0.493 ---
+
+dīpastaṃbhaṃ dāpayitvā pate tvaṃ sūtraṃ ca baddhvā svagale ca bhaktyā ।
+tadā baddhvā yamadūtaiśca pāśairdīpastaṃbhaistāḍyamānastu samyak ।।

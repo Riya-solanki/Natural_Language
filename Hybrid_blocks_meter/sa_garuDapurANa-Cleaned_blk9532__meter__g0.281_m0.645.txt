@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9532 | label: meter | g:0.281 m:0.645 ---
+
+śrīkṛṣṇa uvāca ।
+kṛtvā niraśanaṃ yo vai mṛtyumāpnoti ko api cet ।
+mānupīṃ tanumutsṛjya mama tulyo virājate ।।

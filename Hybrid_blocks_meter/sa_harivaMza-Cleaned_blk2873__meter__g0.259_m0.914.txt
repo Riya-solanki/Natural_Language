@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2873 | label: meter | g:0.259 m:0.914 ---
+
+nirvāṇāṅgārameghābhas tīkṣṇaśṛṅgo'rkalocanaḥ 
+kṣuratīkṣṇāgracaraṇaḥ kālaḥ kāla ivāparaḥ ।।

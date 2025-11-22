@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4225 | label: meter | g:0.326 m:0.774 ---
+
+bhavatāṃ puṇyakīrtīnāṃ tapobalasamādhibhiḥ 
+apadhyānāc ca pāpātmā bhaumaḥ sa narako hataḥ ।।

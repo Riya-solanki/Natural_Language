@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4682 | label: grammar | g:0.682 m:0.036 ---
+
+ity evam ukte vacane tatroṣā kāmamohitā 
+taccharaiś ca samāviddhā bhrāntalocanaviklavā । 
+daśām antyāṃ samāsthāya nidrāsukhavimohitā । 
+uvāca kumbhāṇḍasutāṃ kathaṃ jñāsyāmahe sakhi ।। 
+tvam eva cintaya sakhi nottaraṃ pratibhāti me । svakārye muhyate loko yathā jīvaṃ labhāmy aham ।। uṣāyā vacanaṃ śrutvā rāmā vākyam idaṃ punaḥ । uvāca rudatīṃ caiva kubhāṇḍatanayā sakhīm ।। kuśalā te viśālākṣi sarvathā saṃdhivigrahe । apsarā citralekhā vai kṣipraṃ vijñāpyatāṃ sakhi ।। asyāḥ sarvam aśeṣeṇa trailokyaṃ viditaṃ sadā ।। evam uktā tadaivoṣā harṣeṇāgatavismayā । tām apsarasam ānāyya citralekhāṃ sakhīṃ priyām । kṛtāñjalipuṭā dīnā uṣā vacanam abravīt । sā tac chrutvā tu vacanam uṣāyāḥ parikīrtitam । āśvāsayām āsa sakhīṃ bāṇaputrīṃ yaśasvinīm । 
+tataḥ sā cintayāviṣṭā vacanaṃ prāha durvacaḥ 
+citralekhām apsarasaṃ praṇayāt tāṃ sakhīṃ sakhī ।।

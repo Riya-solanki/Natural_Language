@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1293 | label: grammar | g:0.754 m:0.495 ---
+
+dṛṣṭāntadharma sādhye samāsajata utkarṣasamaḥ yadi kriyāhetuguṇayogalloṣṭavat kriyāvānātmā loṣṭavadeva sparśavānapi prāpnoti atha na sparśavān loṣṭavat kriyāvānapi na prāpnoti, viparyaye vā viśeṣo vaktavya iti।
+sādhye dharmābhāvaṃ dṛṣṭāntāt prasajato apakarṣasamaḥ loṣṭaḥ khalu kriyāvān avibhurdṛṣṭaḥ kāmamātmāpi kriyāvānavibhurastu viparyaye vā viśeṣo vaktavya iti।
+khyāpanīyo varṇyo viparyayādavarṇyaḥ tāvetau sādhyadṛṣṭāntadharmauṃ viparyasyato varṇyāvarṇyasamau bhavataḥ।
+sādhanadharmayukte dṛṣṭānte dharmāntaravikalpāt sādhyadharmavikalpaṃ prasajato vikalpasamaḥ kriyāguṇahetuyuktaṃ kiñcid guru yathā loṣṭaḥ kiñcicca laghu yathā vāyurevaṃ kriyāhetuguṇayuktaṃ kiñcat kriyāvat syād yathā loṣṭaḥ kiñcidakriyaṃ yathātmā viśeṣo vā vācya iti।
+hetvādyivayavasāmarthyayogī dharmaḥ sādhyastaṃ dṛṣṭānte prasajataḥ sādhyasamaḥ yadi ayathā loṣṭastathātmā ?' prāptastarhi ayathātmā tathā loṣṭaḥ' iti sādhyaścāyamātmā kriyāvāniti kāmaṃ loṣṭopi sādhyaḥ, atha naivam ? na tarhi ayathā loṣṭastathātmā' ।।

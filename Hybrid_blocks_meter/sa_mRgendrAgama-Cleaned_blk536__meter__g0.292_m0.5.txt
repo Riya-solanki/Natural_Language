@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 536 | label: meter | g:0.292 m:0.5 ---
+
+[śaivānām asādhāraṇa ācāraḥ] idānīṃ `paraścāvasaraprāpta' iti prākprakrānto asādhāraṇa ācārasaṃgrahaḥ sūtryate

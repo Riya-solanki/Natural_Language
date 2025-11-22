@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 453 | label: meter | g:0.306 m:0.521 ---
+
+āsāṃ ca madhye vṛttīnāṃ śabda-vṛttis tu bhāratī ।
+tisro' rtha-vṛttayaḥ śeṣās tac-catasro hi vṛttayaḥ ।। 
+anye tu miśraṇād āsāṃ miśrāṃ vṛttiṃ ca pañcamīm ।
+aśeṣa-rasa-sāmānyāṃ manyante lakṣayanti ca ।।

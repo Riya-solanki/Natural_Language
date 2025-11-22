@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9523 | label: hybrid | g:0.333 m:0.423 ---
+
+।
+śavasya śibikāyāṃ karacaraṇabandhanaṃ tatra kartavyam ।
+evaṃ cenna vidhānaṃ vidhīyate tatpiśācaparibhavanam ।।

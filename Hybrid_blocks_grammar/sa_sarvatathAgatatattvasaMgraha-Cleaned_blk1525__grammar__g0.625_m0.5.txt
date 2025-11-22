@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1525 | label: grammar | g:0.625 m:0.5 ---
+
+atha vajrapiṅgalo vajrakrodha idaṃ svahṛdayamadāt । oṃ vajrapiṅgala bhīṣaya sarvaduṣṭān bhīmakrodha huṃ phaṭ ।।

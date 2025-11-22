@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 508 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha tasminn evāpadoṣe pradoṣe samasta-deva-rūpa-śrī-vasudeva-sadeśataḥ sandeśa-haraḥ ko' pi gopitātmā śrī-vrajarāja-caraṇa-rājīva-pīṭha-paryanta-dhāma samājagāma । sa ca śrīmatā tena tadīya-pratna-sevaka-ratnatayā pariciti-yuktaḥ paryanuyukta-kuśala-tatir namaḥ samācarann uvāca-"rakṣāṃsi sarvaṃ bhakṣayituṃ jīvati bhṛśaṃ nṛśaṃse kaṃse kim iva niraṅkuśaṃ kuśalam? tac ca mama veśenaiva vitarkyatām । yad asmākaṃ taraṇyā taraṇaṃ, taraṇau ca sati kutrāpi prasthānaṃ na sambhavatīti bāhubhyām eva santaraṇāt tīrṇa-taraṇijaḥ sārdra-vastraḥ pradoṣe samāgato' smi ।"

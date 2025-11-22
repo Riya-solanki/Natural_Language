@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11740 | label: meter | g:0.25 m:0.625 ---
+
+jalaṃ cāśubhrarūpeṇa pāpaiśca paridṛśyate ।
+yāvacchubhrodakaṃ devi tāvatsanānaṃ ca kārayet ।।

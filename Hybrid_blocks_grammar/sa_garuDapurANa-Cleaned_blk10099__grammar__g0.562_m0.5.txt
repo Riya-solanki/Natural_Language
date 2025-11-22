@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10099 | label: grammar | g:0.562 m:0.5 ---
+
+tathā sūryaṃ bhairavaṃ mātāraśva tathā vāṇīṃ girijāṃ vai śriyaṃ ca ।
+sarvepi te vaiṣṇavā naiva loke na tadbhaktā veti cāryā vadanti ।।

@@ -1,0 +1,12 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3744 | label: grammar | g:0.511 m:0.0 ---
+
+tatas taṃ mudrayitvā tu svena dūtena hārayat 
+nidarśanārthaṃ govindo bhīṣayāṇaś ca taṃ nṛpam 
+sa dūtaḥ kālayavanaṃ darśayām āsa taṃ ghaṭam ।। 
+idaṃ covāca rājānaṃ rājñāṃ samsadi dūtakaḥ । bho rājann āha kṛṣṇas tvāṃ kim ebhiḥ śalabhais tava । aham ekas tavaiteṣāṃ samartho vāraṇe prabhuḥ ।। tvāṃ ca hatvā nṛpaśreṣṭha sabalaṃ sasuhṛdgaṇam । idaṃ tava balaṃ rājan grahīṣyāmīti niścitam ।। anyathā gaccha rājaṃs tvaṃ balenānena saṃyutaḥ । ity uktvā darśayām āsa ghaṭaṃ kṛṣṇapracoditam । 
+kālasarpopamaḥ kṛṣṇa ity uktvā bharatarṣabha 
+tat kālayavano budhvā trāsanaṃ yādavaiḥ kṛtam 
+pipīlikānāṃ caṇḍānāṃ pūrayām āsa taṃ ghaṭam ।। 
+ślokam ekaṃ likhitvā tu ghaṭamadhye akṣipat tadā । 
+sa sarpo bahubhis tīkṣṇaiḥ sarvatas taiḥ pipīlikaiḥ 
+bhakṣyamāṇaḥ kilāṅgeṣu bhasmībhūto abhavat tadā ।।

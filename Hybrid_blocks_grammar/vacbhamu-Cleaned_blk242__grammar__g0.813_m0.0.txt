@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 242 | label: grammar | g:0.813 m:0.0 ---
+
+bhinnābhinnaṃ taditi cet; tathā hi-tadeva kāraṇātmanābhinnam, bhinnaṃ ca kāryātmanā, kaṭakādaya ivābhinnā hāṭakātmanā bhinnāśca kaṭakādyātmanā ।
+na ca bhedābhedayorvirodhānnaikatra samavāya iti yuktam ।
+viruddhamiti naḥ kva saṃpratyayaḥ ? yatpramāṇaviparyayeṇa vartate ।
+yattu yathā pramāṇenāvagamyate tasya tathābhāva eva ।
+akuṇḍalamidaṃ suvarṇam' iti sāmānādhikaraṇyapratyaye vyaktaṃ bhedābhedau cakāstaḥ; tathā hi-ātyantike abhede anyatarasya dviravabhāsaprasaṅgaḥ; bhede cātyantike na sāmānādhikaraṇyaṃ gavāśvavat; ādhārādheyabhāve ekāśrayatve vā na sāmānādhikaraṇyam; na hi bhavati kuṇḍaṃ badaramiti; nāpyekāsanasthayoścaitramaitrayoścaitro maitra iti; so ayamabādhito asaṃdigdhaḥ sarvajanīnaḥ sāmānādhikaraṇyapratyaya eva kāryakāraṇayorbhedābhedau vyavasthāpayati; tathā ca kāryāṇāṃ kāraṇātmatvāt kāraṇasya ca sadrūpasya sarvatrānugamāt, sadrūpeṇābhedaḥ kāryasya jagataḥ; bhedaḥ kāryarūpeṇa goghaṭādineti; yathāhuḥkāryarūpeṇa nānātvamabhedaḥ kāraṇātmanā ।

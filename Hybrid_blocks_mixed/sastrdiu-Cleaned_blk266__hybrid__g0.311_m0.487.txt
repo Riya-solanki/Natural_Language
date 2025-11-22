@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 266 | label: hybrid | g:0.311 m:0.487 ---
+
+asādharaṇaṃ tu gandhavatvaṃ pṛthivyāṃ dṛṣṭaṃ na kvacidapi buddhimādadhātīti na saṃśayahetuḥ ।
+sādhāraṇaṃ hi dvayoḥ sādhyatadabhāvayordṛṣṭatvādubhayatrāpyanavasthayā buddhimādadhatsaṃśayaheturiti yuktam ।
+tathā viruddhārthavyāptamapi hetudvayamekatra dṛśyamānaṃ svavyāpakamekasmindharmiṇyupasaṃharadekasya viruddhobhayarūpadharmatvāsaṃbhavātsaṃśayaṃ janayati ।
+nacaivaṃ bhāvo asādhāraṇasya saṃbhavatīti nāyaṃ saṃśayahetuḥ ।।

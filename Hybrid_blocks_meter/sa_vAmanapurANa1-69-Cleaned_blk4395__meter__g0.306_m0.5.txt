@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4395 | label: meter | g:0.306 m:0.5 ---
+
+prādurbhavaste kathito maharṣe puṇyaḥ śucirvāmanasyāghahārī ।
+śrute yasmin saṃsmṛte kīrtite ca pāpaṃ yāti prakṣayaṃ puṇyameti ।।

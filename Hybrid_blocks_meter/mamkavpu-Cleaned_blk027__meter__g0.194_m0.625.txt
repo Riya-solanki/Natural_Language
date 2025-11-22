@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 27 | label: meter | g:0.194 m:0.625 ---
+
+{grāmataruṇaṃ taruṇyā navavañjulamañjarīsanāthakaram ।
+paśyantyā bhavati muhurnitarāṃ malinā mukhacchāyā ।।}

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 77 | label: hybrid | g:0.51 m:0.5 ---
+
+dhig avaraṃ viṣamaṃ viṣayāśrayaṃ sukham anāryaniṣevitam adhruvam ।
+yad upagamya narā viṣayadviṣām iha bhavanti sadā karuṇāspadam ।।

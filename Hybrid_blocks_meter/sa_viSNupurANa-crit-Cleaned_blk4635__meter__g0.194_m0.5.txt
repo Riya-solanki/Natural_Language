@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4635 | label: meter | g:0.194 m:0.5 ---
+
+tau hatvā vasudevaṃ ca nandagopaṃ ca durmatim 
+haniṣye pitaraṃ cemam ugrasenaṃ ca durmatim ।।

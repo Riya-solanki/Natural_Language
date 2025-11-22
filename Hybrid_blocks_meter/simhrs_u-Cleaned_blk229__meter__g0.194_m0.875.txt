@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 229 | label: meter | g:0.194 m:0.875 ---
+
+varṣāsu tāsu kṣaṇa-ruk-prakāśā-
+dgopāṅganā mādhavam āliliṅga ।
+vidyuc ca sā vīkṣya tad-aṅga-śobhāṃ
+hrīṇeva tūrṇaṃ jaladaṃ jagāhe ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 96 | label: grammar | g:0.59 m:0.5 ---
+
+mṛtyor āsyam ivātataṃ dhanur idaṃ cāśīviṣābhāḥ śarāḥ śikṣā sāpi jitārjunaprabhrtikā sarvatra nimnā gatiḥ 
+antaḥ krauryam aho śaṭhasya madhuraṃ hā hāri geyaṃ mukhe vyādhasyāsya yathā bhaviṣyati tathā manye vanaṃ nrimṛgam ।।

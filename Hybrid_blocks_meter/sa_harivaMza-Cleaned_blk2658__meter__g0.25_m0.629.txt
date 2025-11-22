@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2658 | label: meter | g:0.25 m:0.629 ---
+
+śarady evaṃ susasyāyāṃ prāptāyāṃ prāvṛṣaḥ kṣaye 
+nīlacandrārkavarṇaiś ca racitaṃ bahubhir dvijaiḥ । 
+phalaiḥ pravālaiś ca ghanam indracāpaghanopamam । 
+bhavanākāraviṭapaṃ latāparam amaṇḍitam । 
+viśālamūlāvanataṃ pavanābhogamaṇḍitam । 
+arcayāma giriṃ devaṃ gāś caiva saviśeṣataḥ ।।

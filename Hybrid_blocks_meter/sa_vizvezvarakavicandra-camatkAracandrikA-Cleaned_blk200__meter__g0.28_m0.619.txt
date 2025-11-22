@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 200 | label: meter | g:0.28 m:0.619 ---
+
+adhikopamasya yathā
+harāvalīvilasitā vilasaddukūlā vārāṅganāḥ kṣitipatervaśayanti cetaḥ ।
+jyotsnāvisāraviśadā vikacotpalābhā rākāniśā iva virājitalolatārāḥ ।।

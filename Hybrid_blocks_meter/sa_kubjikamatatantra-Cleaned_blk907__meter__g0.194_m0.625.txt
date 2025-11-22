@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 907 | label: meter | g:0.194 m:0.625 ---
+
+prāṅmukho yasya nāmnā tu sādhyārūḍho hṛdi sthitaḥ 
+vaśībhavati rājānaṃ śatajāpyena dhīmatā ।।

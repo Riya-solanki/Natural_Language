@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2873 | label: meter | g:0.25 m:0.625 ---
+
+vratasthāneṣu sarveṣu tena vidyāvrataṃ priye 
+brahmā viṣṇus tathā rudra īśvaras tu sadāśivaḥ ।।

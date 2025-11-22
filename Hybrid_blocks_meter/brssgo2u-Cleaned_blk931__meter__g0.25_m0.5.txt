@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 931 | label: meter | g:0.25 m:0.5 ---
+
+apicānekatvātpratikaraṇamadhiṣṭhātrīṇāṃ devatānāṃ na bhoktṛtvamasmiñśarīre avakalpate ।
+eko hyevamasmiñśarīre śārīro bhoktā pratisaṃdhānādisaṃbhavādavagamyate ।।

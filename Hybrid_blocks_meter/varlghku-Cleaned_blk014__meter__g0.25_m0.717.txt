@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 14 | label: meter | g:0.25 m:0.717 ---
+
+paraḥ saṃnikarṣaḥ saṃhatā ।।
+virṇānāmatiśayitaḥ saṃnidhiḥ saṃhatāsiṃjñaḥ syāt ।।

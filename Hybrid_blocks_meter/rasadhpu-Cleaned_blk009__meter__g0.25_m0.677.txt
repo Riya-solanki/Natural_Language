@@ -1,0 +1,7 @@
+--- source: rasadhpu-Cleaned.txt | block: 9 | label: meter | g:0.25 m:0.677 ---
+
+ślokapañcakaṃ spaṣṭam ।। 
+ete sūtasyāṣṭādaśa saṃskārāḥ ।। 
+atha krameṇa saṃskārān vyākhyāpayann āha ।। 
+vāsasā gālite sūte saṃskāraḥ pāṭasāraṇaḥ ।
+vaṅganāgādikāḥ sarvā vastre tiṣṭhanti vikriyāḥ ।।

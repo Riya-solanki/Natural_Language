@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 946 | label: meter | g:0.306 m:0.5 ---
+
+rāga eva mahad duḥkham iti me niścitā matiḥ ।
+kṣut kariṣyati kiṃ yasmād bhasmanāpi nivāryate ।।

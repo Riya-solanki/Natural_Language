@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 266 | label: grammar | g:0.646 m:0.5 ---
+
+iyaṃ śrutyā kramaprāptir iyam uccāraṇād iti kramo ayam atra balavān asmiṃs tu na vivakṣitaḥ ।।

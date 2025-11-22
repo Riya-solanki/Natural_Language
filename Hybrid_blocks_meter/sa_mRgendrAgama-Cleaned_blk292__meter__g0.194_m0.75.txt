@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 292 | label: meter | g:0.194 m:0.75 ---
+
+pṛthvīṃ bhagavatīṃ śakra śrotumicchāmi vistarāt 
+tvayi vaktari deveśa sarvapratyakṣadarśini ।।

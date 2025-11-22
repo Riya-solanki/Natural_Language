@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 516 | label: grammar | g:0.64 m:0.036 ---
+
+ṛtaparṇasutas tv āsīd ārtaparṇir mahīpatiḥ 
+sudāsas tasya tanayo rājā indrasakho abhavat । 
+sudāsasya sutas tv āsīt saudāso nāma pārthivaḥ । 
+khyātaḥ kalmāṣapādo vai nāmnā mitrasaho abhavat ।। 
+vasiṣṭhas tumahātejāḥ kṣetre kalmāṣapādake । aśmakaṃ janayām āsa ikṣvākukulavṛddhaye । aśmakāc caiva kārūṣo mūlakastatsuto abhavat । mūlakasyāpi dharmātmā rājā śataratho abhavat ।। tasmāc chatarathāj jajñe rājā elabilo balī । āsīd ailabilaḥ śrīmān vṛddhaśarmā pratāpavān ।। dalas tasyātmajaś cāpi tato jajñe śalo nṛpaḥ । ūrṇo nāma sa dharmātmā śalaputro babhūva ha । putro viśvasahas tasya pitṛkanyā vyajāyata । rajo nāma sutas tasya śṛṅkhalas tasya cātmajaḥ । 
+kalmāṣapādasya sutaḥ sarvakarmeti viśrutaḥ 
+anaraṇyas tu putro abhūd viśrutaḥ sarvakarmaṇaḥ ।।

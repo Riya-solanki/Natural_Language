@@ -1,0 +1,4 @@
+--- source: brssbh4u-Cleaned.txt | block: 154 | label: grammar | g:0.836 m:0.272 ---
+
+aamṛtatvaṃ cānupoṣya' iti ato viśeṣaṇāt ātyantike amṛtatve gati utkrāntyoḥ abhāvo abhyupagataḥ ।
+tatra api kenacit kāraṇena utkrāntim āśaṅkya pratiṣedhati - aathākāmayamāno yo akāmo niṣkāma āptakāma ātmakāmo bhavati na tasya prāṇā utkrāmanti brahmaiva sanbrahmāpyeti' iti ataḥ paravidyāviṣayāt pratiṣedhāt na parabrahmavido dehāt prāṇānām utkrāntiḥ asti iti cet ।

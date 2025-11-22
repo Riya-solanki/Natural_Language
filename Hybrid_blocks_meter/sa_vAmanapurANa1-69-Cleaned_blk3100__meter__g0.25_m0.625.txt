@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3100 | label: meter | g:0.25 m:0.625 ---
+
+ekadā sā tapoyuktā śauce mahati saṃsthitā ।
+daśavarṣaśatānte tu śiraḥsnātā tapasvinī ।।

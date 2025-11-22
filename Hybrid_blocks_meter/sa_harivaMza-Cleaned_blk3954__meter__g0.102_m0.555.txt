@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3954 | label: meter | g:0.102 m:0.555 ---
+
+abhavat sa yadā rājann aniruddho vayonvitaḥ 
+tadāsya rukmiṇaḥ pautrīṃ rukmiṇī rukmasaṃnibhāṃ 
+patnyarthaṃ varayām āsa nāmnā rukmavatīti sā ।।

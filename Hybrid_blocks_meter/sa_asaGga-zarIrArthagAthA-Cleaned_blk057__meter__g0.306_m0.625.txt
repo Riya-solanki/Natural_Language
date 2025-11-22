@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 57 | label: meter | g:0.306 m:0.625 ---
+
+ākāśe vai padaṃ nāsti śramaṇo nāsti bāhyakaḥ ।
+prapañcābhiratā bālā niṣprapañcās tathāgatāḥ ।।

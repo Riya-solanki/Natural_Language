@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6448 | label: meter | g:0.328 m:0.595 ---
+
+adhyātmavidyāṃ vidhivajjapedvā japasiddhaye ।
+savyaṃ kṛtvā trirācamya śriyaṃ medhāṃ dhṛtiṃ kṣitim ।।

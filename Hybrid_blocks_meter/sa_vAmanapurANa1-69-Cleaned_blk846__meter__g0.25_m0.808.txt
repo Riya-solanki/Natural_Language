@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 846 | label: meter | g:0.25 m:0.808 ---
+
+ṛṣaya ūcuḥ ।
+yacca jarjyaṃ mahābāho sadādharmasthitairnaraiḥ ।
+yadbhojyaṃ ca samuddiṣṭaṃ kathayiṣyāmahe vayam ।।

@@ -1,0 +1,7 @@
+--- source: brssbh3u-Cleaned.txt | block: 229 | label: hybrid | g:0.375 m:0.246 ---
+
+yathā vā pūrvamupanyastaṃ prakāśādivaccāvaiśeṣyamiti tathaivaitadbhavitumarhati ।
+tathāhyavidyākṛtatvādbandhasya vidyayā mokṣa upapadyate ।
+yadi punaḥ paramārthata eva baddhaḥ kaścidātmāhikuṇḍalanyāyena parasyātmanaḥ saṃsthānabhūtaḥ prakāśāśrayanyāyena caikadeśabhūto abhyupagamyeta tataḥ pāramārthikasya bandhasya tiraskartumaśakyatvānmokṣaśāstravoyarthyaṃ prasajyeta, nacātrobhāvapi bhedābhedau śrutistulyavadvyapadiśati ।
+abhedameva hi pratipādyatvena nirdiśati bhedaṃ tu pūrvaprasiddhamevānuvadatyarthāntaravivakṣayā ।
+tasmātprakāśādivaccāvaiśeṣyamityeṣa eva siddhāntaḥ ।।

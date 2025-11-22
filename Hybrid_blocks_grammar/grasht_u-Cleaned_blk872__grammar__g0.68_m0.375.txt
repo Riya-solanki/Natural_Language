@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 872 | label: grammar | g:0.68 m:0.375 ---
+
+viśeṣamāha śulbetyādi ।।
+śulbahataṃ śulbena saha hataṃ rasagandhaṃ sūtagandhaṃ tena āhataṃ pañcatvam āpannaṃ yatkhagapītaṃ pītakāsīsaṃ etadauṣadhasamuccayaṃ sudṛḍhaṃ yathā syāttathā marditaṃ kuryāt punastat nirvyūḍhaṃ daśāṃśena vidhyati sitakanakaṃ kurute svarṇamiti viśeṣaḥ ।।

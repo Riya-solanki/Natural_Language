@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1419 | label: grammar | g:0.562 m:0.5 ---
+
+pīḍā mameyam iti naivam idaṃ pradhāryaṃ sattvārtham eva gaticakracalasya nityam ।
+pīḍā mamābhavad udīkṣya vipatparītān yuṣmān nirāmayasukhaṃ tv adhunā mano me ।।

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 826 | label: grammar | g:0.646 m:0.5 ---
+
+[] paurṇamāsī vakṣyati-bhavat-kanyā-bhāvābhimāninyām āryāyām idam āścaryaṃ paryavasyati । bhavāṃs tu sarva-vrajasthaṃ strī-puṃsa-vrajam eka-sabhānugataṃ karotu ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1020 | label: meter | g:0.25 m:0.5 ---
+
+tasmād yajñaiśca devaiśca dhāryate sacarācaram ।
+etacchrutvā krodhadṛṣṭirvenaḥ prāha punaḥ punaḥ ।।

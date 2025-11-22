@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 262 | label: meter | g:0.25 m:0.625 ---
+
+athāvidyādayaḥ pāśāḥ kathyante leśato'dhunā ।
+yeṣāmapāye patayo bhavanti jagato aṇavaḥ ।।

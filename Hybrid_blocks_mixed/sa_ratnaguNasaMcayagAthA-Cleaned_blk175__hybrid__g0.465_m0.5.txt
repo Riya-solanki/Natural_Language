@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 175 | label: hybrid | g:0.465 m:0.5 ---
+
+yo bodhisattva bahukalpasahasrakoṭayo dānaṃ dadeyu vimalaṃ tatha śīla rakṣe 
+yaścaiva prajñavarapāramitāprayukto dharmaṃ bhaṇeya kala puṇya na dānaśīle ।।

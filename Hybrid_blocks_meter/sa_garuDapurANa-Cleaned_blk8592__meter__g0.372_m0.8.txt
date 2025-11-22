@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8592 | label: meter | g:0.372 m:0.8 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrībhagavānuvāca ।
+vāyubhūtaḥ kṣadhāviṣṭaḥ karmajaṃ dehamāśritaḥ ।
+te dehaṃ sa samāsādya yamena saha gacchati ।।

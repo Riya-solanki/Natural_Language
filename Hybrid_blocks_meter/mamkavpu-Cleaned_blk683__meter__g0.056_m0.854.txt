@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 683 | label: meter | g:0.056 m:0.854 ---
+
+{deśaḥ so ayamarātiśoṇitajalairyasmin hradāḥ pūritāḥ
+kṣatrādeva tathāvidhaḥ paribhavastātasya keśagrahaḥ ।
+tānyevāhitahetighasmaragurūṇyastrāṇi bhāsvanti me
+yadrāmeṇa kṛtaṃ tadeva kurute droṇātmajaḥ krodhanaḥ ।।}

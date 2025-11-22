@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 504 | label: meter | g:0.25 m:0.5 ---
+
+nabhasye māsi samprāpte kṛṣṇapakṣe viśeṣataḥ ।
+caturdaśyāṃ tu madhyāhne piṇḍado muktimāpnuyāt ।।

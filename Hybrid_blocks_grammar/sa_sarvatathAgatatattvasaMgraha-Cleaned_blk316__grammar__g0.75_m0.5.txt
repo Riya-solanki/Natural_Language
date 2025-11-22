@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 316 | label: grammar | g:0.75 m:0.5 ---
+
+tato mahāmaṇḍalaṃ yathānupūrvato darśayet । mahāmaṇḍale ca dṛṣṭamātre sarvatathāgatairadhiṣṭhyate, vajrasattvaścāsya hṛdaye tiṣṭhati । nānādyatīvaraśmimaṇḍaladarśanādīni prātīhāryavikurvitāni paśyati । sarvatathāgatādhiṣṭhitatvāt । kadācit bhagavān mahāvajradharaḥ svarūpeṇa darśanaṃ dadāti, tathāgato vati । tataḥ prabhṛti sarvārthāḥ sarvamano abhirucitakāryāṇi sarvasiddhira, yāvad, vajradharatvamapi tathāgatatvaṃ veti ।

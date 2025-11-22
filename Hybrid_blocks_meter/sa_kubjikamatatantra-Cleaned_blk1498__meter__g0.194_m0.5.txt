@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1498 | label: meter | g:0.194 m:0.5 ---
+
+puruṣaṃ prakṛtiś caiva guṇo ahaṅkāra dhīr manaḥ 
+ṣaṇmukhas tu paro hy ātmā catuṣkapariveṣṭitaḥ ।।

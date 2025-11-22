@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1431 | label: hybrid | g:0.51 m:0.5 ---
+
+avikāriṇam api sajjanam aniśam anāryaḥ prabādhate atyartham ।
+kamalinyā kim apakṛtaṃ himasya yas tāṃ sadā dahati ।।

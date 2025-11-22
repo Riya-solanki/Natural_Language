@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1250 | label: hybrid | g:0.542 m:0.5 ---
+
+māyāmayaḥ-deva prakṛti-roṣaṇo reṇukāputraḥ । tat tam evāgatam aham utprekṣe ।

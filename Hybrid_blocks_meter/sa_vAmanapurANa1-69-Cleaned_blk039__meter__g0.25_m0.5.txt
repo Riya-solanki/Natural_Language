@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 39 | label: meter | g:0.25 m:0.5 ---
+
+tato mandarapṛṣṭhe asau sthitaḥ samaśilātale ।
+rarāma śaṃbhurbhagavān satyā saha mahādyutiḥ ।।

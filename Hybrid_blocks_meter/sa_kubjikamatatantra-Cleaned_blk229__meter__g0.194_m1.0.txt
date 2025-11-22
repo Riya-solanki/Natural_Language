@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 229 | label: meter | g:0.194 m:1.0 ---
+
+kālajñaṃ nipuṇaṃ dakṣaṃ sāmarthajñam akutsitam 
+sarvāvayavasampannaṃ vyaṅgadoṣavivarjitam ।।

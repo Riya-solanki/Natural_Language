@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1211 | label: grammar | g:0.708 m:0.5 ---
+
+atha bodhisattvaḥ sutarāṃs tais teṣāṃ saujanyasūcakair vacobhiḥ pravijṛmbhamāṇatīvraprasādapremagauravakāruṇyas samanuneṣyaṃs tān sahāyakān anukampāmṛtavāribhiḥ siñcann iva tṛptivisargair ity abravīt ।

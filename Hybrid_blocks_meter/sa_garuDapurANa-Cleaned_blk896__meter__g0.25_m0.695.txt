@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 896 | label: meter | g:0.25 m:0.695 ---
+
+asyāṅgāni mahādeva tāñchṛṇuṣva vṛṣadhvaja ।
+oṃ kṣāṃ hṛdayāya namaḥ ।
+oṃ kṣīṃ śirase svāhāśiraḥ proktaṃ kṣūṃ vaṣaṭ tathā ।।

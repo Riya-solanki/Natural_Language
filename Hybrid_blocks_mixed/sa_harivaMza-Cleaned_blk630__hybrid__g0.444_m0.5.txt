@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 630 | label: hybrid | g:0.444 m:0.5 ---
+
+teṣāṃ vai mānasī kanyā gaur nāma divi viśrutā 
+tavaiva vaṃśe yā dattā śukasya mahiṣī dvija ।।

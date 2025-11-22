@@ -1,0 +1,4 @@
+--- source: udnyku2u-Cleaned.txt | block: 2 | label: meter | g:0.29 m:0.622 ---
+
+nyāyasumāñjalau dvitīyastabakaḥ ।।
+[]

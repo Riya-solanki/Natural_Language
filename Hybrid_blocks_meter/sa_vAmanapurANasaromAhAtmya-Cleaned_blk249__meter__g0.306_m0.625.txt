@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 249 | label: meter | g:0.306 m:0.625 ---
+
+yatra yatra padaṃ viprā bhūbhāge vāmano dadau ।
+dadāti bhūmirvivaraṃ tatra tatrābhipīḍitā ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 975 | label: hybrid | g:0.486 m:0.5 ---
+
+{pariharati ratiṃ matiṃ lunīte skhalati bhṛśaṃ parivartate ca bhūyaḥ ।
+iti bata viṣamā daśāsya dehaṃ paribhavati prasabhaṃ kimatra kurmaḥ ।।}

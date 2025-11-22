@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 700 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tathā hi-yadā rāmas tīrtha-yātrāṃ kariṣyati, yasyāś cānte bhīṣmādi-śāntatā-prānte duryodhana-vadhaḥ sampatsyate, tasyāḥ prāg yadā kadāpi sūryoparāgaḥ sāgaravat parva-garimāṇam āgantā । yaś caivaṃ varṇayiṣyate-

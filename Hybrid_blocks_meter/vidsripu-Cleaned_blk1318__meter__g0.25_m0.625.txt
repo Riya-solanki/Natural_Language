@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1318 | label: meter | g:0.25 m:0.625 ---
+
+guṇavatpātra mātraika- hāryaniryāsam āśayan ।
+ātmanāvaiti te lokaḥ svabandhur iti dhāvati ।।

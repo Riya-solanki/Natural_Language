@@ -1,0 +1,6 @@
+--- source: brssbh4u-Cleaned.txt | block: 327 | label: grammar | g:0.557 m:0.5 ---
+
+darśayataḥ ca vikāra āvartitvaṃ parasya jyotiṣaḥ śruti smṛtī ।
+ana tatra sūryo bhāti na candratārakaṃ nemā vidyuto bhānti kuto ayamagniḥ' iti ।
+ana tadbhāsayate sūryo na śaśāṅ ko na pāvakaḥ' iti ca ।
+tat evaṃ vikāra āvartitvaṃ parasya jyotiṣaḥ prasiddham iti abhiprāyaḥ ।।

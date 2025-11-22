@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 744 | label: hybrid | g:0.521 m:0.5 ---
+
+anubandhiniṃ pratinivārya saṃhatiṃ tamasāṃ kim apy anubhavanti ye sukhaṃ ।
+na sanatkumārabhavane api te ratiṃ viratopasargaratayaḥ prakurvate ।।

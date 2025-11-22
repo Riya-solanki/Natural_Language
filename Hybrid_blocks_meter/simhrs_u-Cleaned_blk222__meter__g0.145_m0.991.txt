@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 222 | label: meter | g:0.145 m:0.991 ---
+
+manda-mārutasya, yathā-
+bhṛśaṃ nipīto bujagāṅganābhir
+vinirgatas tad-garalena sākam ।
+tad anyathā cet katham akṣiṇot tām
+adakṣiṇo dakṣiṇa-mātariśvā ।।

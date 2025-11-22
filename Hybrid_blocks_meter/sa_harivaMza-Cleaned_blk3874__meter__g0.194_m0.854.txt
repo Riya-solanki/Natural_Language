@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3874 | label: meter | g:0.194 m:0.854 ---
+
+bṛhatī cārusarvāṅgī tanvī śaśinibhānanā 
+tāmratuṅganakhī subhrūr nīlakuñcitamūrdhajā 
+atyarthaṃ rūpataḥ kāntā pīnaśroṇipayodharā । 
+tīkṣṇaśuklaiḥ samair dantaiḥ prabhāsadbhir alaṃkṛtā ।।

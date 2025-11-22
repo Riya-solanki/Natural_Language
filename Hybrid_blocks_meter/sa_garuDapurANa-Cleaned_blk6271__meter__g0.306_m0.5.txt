@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6271 | label: meter | g:0.306 m:0.5 ---
+
+triḥ snātā snāpitā bhaikṣyaṃ gurau prāṇāntikī sthitiḥ ।
+samekhalo jaṭī daṇḍī muṇḍī vā gurusaṃśrayaḥ ।।

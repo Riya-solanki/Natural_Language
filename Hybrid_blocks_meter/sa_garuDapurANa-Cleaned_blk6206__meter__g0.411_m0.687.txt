@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6206 | label: meter | g:0.411 m:0.687 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+śrīrukthā gena sā jñeyā utyukthā strī gurudvayam ।
+mo nārī ro mṛgī madhyā magau kanyā pratiṣṭhayā ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2499 | label: hybrid | g:0.288 m:0.44 ---
+
+dadaṃśur daśanais tīkṣṇair viṣotpīḍajalāvilaiḥ 
+te kṛṣṇaṃ sarpapatayo na mamāra ca vīryavān ।। 
+saṃdaśyamāno daśanair na cacāla sa keśavaḥ । vyacarat suciraṃ kālaṃ kṛṣṇo vai kāliye hrade । 
+etasminn antare bhītā gopālāḥ sarva eva te 
+krandamānā vrajaṃ jagmur bāṣpasaṃdigdhayā girā ।।

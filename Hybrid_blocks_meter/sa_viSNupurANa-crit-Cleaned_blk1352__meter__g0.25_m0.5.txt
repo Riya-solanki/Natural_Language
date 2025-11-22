@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1352 | label: meter | g:0.25 m:0.5 ---
+
+vidyāvidye bhavān satyam asatyaṃ tvaṃ viṣāmṛte 
+pravṛttaṃ ca nivṛttaṃ ca karma vedoditaṃ bhavān ।।

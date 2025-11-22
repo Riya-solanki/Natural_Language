@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 933 | label: meter | g:0.0 m:1.0 ---
+
+mūtrādyutsṛjya vidhivad ekārdhadaśasaptabhiḥ 
+mṛdbhirliṅgagudāsavyahastayugmāni śaucayet ।। MT

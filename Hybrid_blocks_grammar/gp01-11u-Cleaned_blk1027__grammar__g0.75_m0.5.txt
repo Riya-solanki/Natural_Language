@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1027 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ gatāsu tāsu sāgrajaḥ sa tu duṣparihara-bāṣpa-cchedya-sa-puṣpa- tṛṇa-mukhān vatsān vrajābhimukhān vidhāya śanaiś cārayan gāyan nṛtyan hasan krīḍan divi-carair brāhmaṇair brāhmaṇaiḥ stūyamānaḥ sumanobhiś ca sumanobhir vṛṣyamāṇaḥ svagṛhāya vartma jagṛhe ।

@@ -1,0 +1,7 @@
+--- source: brssgo2u-Cleaned.txt | block: 803 | label: hybrid | g:0.273 m:0.462 ---
+
+nanu bhedābhedāvagamābhyāmaṃśatvaṃ siddhyatītyuktam ।
+syādetadevaṃ yadyubhāvapi bhedābhedau pratipipādayiṣitau syātām, abheda eva tvatra pratipipādayiṣito brahmātmatvapratipattau puruṣārthasiddheḥ ।
+svabhāvaprāptastu bhedo anūdyate ।
+naca niravayavasya brahmaṇo mukhyoṃ'śo jīvaḥ saṃbhavatītyuktam ।
+tasmātparaḥ evaikaḥ sarveṣāṃ bhūtānāmantarātmā jīvabhāvenāvasthita ityato vaktavyānujñāparihāropapattiḥ ।।

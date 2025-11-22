@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 80 | label: hybrid | g:0.434 m:0.301 ---
+
+[] atha kiñcit-kuñcita-kamala-patravad-unnata-pārśva-dvayāvayavatayā bahir
+durlaṅgha-śṛṅga-maṇi-mayālavāla-śobhā-matrāṇāṃ patrāṇām antarāleṣu keśarād avatīrṇāni vistīrṇāni pṛthak pṛthag upaniṣkarāṇi virājante । teṣām agrima-sandhiṣu sphuṭam adhimadhya-madhyam adhyasta-samasteśa-goṣṭhāni goṣṭhāni vibhrājante ।
+ataeva tatparyantasya tasya gokulatāvakalitā ।

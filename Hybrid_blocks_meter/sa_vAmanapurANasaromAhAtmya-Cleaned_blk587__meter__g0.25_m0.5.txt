@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 587 | label: meter | g:0.25 m:0.5 ---
+
+tato jātā gṛhe rājño najakasya mahātmanaḥ ।
+sītā nāmeti vikhyātā rāmapatnī pativratā ।।

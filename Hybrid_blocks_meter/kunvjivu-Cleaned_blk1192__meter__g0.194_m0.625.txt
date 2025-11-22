@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1192 | label: meter | g:0.194 m:0.625 ---
+
+ityanantaraprakaraṇe kathopakāro api prakaṭameva vārivihārasya darśitaḥ ।
+nasmādeva ca tadavasaranidānatayā nidāghavarṇanamapi atra

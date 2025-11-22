@@ -1,0 +1,4 @@
+--- source: sa_abhinavagupta-anuttarASTikA-Cleaned.txt | block: 9 | label: grammar | g:0.615 m:0.485 ---
+
+yat satyaṃ yad asatyam alpabahulaṃ nityaṃ na nityaṃ ca yat yan māyāmalinaṃ yad ātmavimalaṃ ciddarpaṇe rājate ।
+tat sarvaṃ svavimarśasaṃvidudayād rūpaprakāśātmakaṃ jñātvā svānubhavādhirūḍhamahimā viśveśvaratvaṃ bhaja ।।

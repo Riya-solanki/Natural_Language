@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 131 | label: meter | g:0.143 m:0.866 ---
+
+yathā mamaiva-
+kānte sāgasi kācid antika-gate nirbhartsya roṣāruṇair
+bhrūbhaṅgī-kuṭilair apāṅga-valanair ālokamānā muhuḥ ।
+vadhvā mekhalayā sapatna-ramaṇī-pādābja-lākṣāṅkitaṃ
+līlānīlasaroruheṇa niṭilaṃ hanti sma roṣākulā ।।

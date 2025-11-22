@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2057 | label: hybrid | g:0.455 m:0.5 ---
+
+yady ahaṃ satpathe mūḍho yadi vā rāvaṇo hataḥ 
+yadi vā me hṛtā bhāryā tasya kā paridevanā ।।

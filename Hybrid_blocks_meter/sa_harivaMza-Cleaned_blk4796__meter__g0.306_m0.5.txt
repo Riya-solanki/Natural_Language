@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4796 | label: meter | g:0.306 m:0.5 ---
+
+bhasmanā guṇṭhitaḥ pādo yena me mūrdhni pātitaḥ 
+mama netraṃ durāsrāvam andhatāṃ ko anayad balāt । 
+ko vā jaḍamatiḥ satyaṃ ratnaṃ me makuṭād dharet ।। 
+ko vā balaṃ durādharṣam avamatyāgrataḥ sthitaḥ । 
+ko nu vā śiniputrasya cāpaṃ na smarati prabho । 
+sānubandhasya tasyāhaṃ hariṣye jīvitaṃ raṇe ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10544 | label: meter | g:0.25 m:0.75 ---
+
+koṇādhipo nirṛtiśca prāvahī pravahapriyā ।
+catvāra ete parjanyāttriguṇāḥ parikīrtitāḥ ।।

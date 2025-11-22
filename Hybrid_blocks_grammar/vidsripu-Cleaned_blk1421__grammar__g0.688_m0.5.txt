@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1421 | label: grammar | g:0.688 m:0.5 ---
+
+kiṃ kūrmasya bharavyathā na vapuṣi kṣmāṃ na kṣipaty eṣa yat kiṃ vā nāsti pariśramo dinakarasyāste na yan niścalaḥ ।
+kiṃ tv aṅgīkṛtam utsṛjan kṛpaṇavac chlāghyo jano lajjate nirvyūḍhiḥ pratipannavastuṣu satām ekaṃ batāho vratam ।।

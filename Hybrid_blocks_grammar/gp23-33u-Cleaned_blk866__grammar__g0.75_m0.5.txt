@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 866 | label: grammar | g:0.75 m:0.5 ---
+
+[] vrajarājo vakṣyati-jaivātṛka ! bhavatām akrūrādi-racitenāticiraṃ bhavatā viraheṇa cirāya tarv-antimaḥ sarva eva jīvaḥ suṣṭhu durjīvanam avāpi । tato na kim api pratyeti । tatas tvad-viraha-parihārāya nānya-jana-locana-gocaraḥ syām iti prārthayate । tato niḥśalākam ālaya-viśeṣaṃ saṃśleṣaya ।

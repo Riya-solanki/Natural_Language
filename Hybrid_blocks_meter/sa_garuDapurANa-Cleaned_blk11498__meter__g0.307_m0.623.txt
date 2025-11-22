@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11498 | label: meter | g:0.307 m:0.623 ---
+
+śrīsvāmitīrthe samyagācamya natvā snātvā natvā bhūvarāhaṃ ca devi ।
+ayudvāraṃ privaśedbhaktipṛrvaṃ govindagovinda itibruvanvai ।।

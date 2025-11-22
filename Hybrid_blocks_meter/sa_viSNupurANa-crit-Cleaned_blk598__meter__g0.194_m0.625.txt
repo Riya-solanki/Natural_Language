@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 598 | label: meter | g:0.194 m:0.625 ---
+
+prītyāṃ pulastyabhāryāyāṃ dattolis tatsuto abhavat 
+pūrvajanmani so agastyaḥ smṛtaḥ svāyaṃbhuve antare ।।

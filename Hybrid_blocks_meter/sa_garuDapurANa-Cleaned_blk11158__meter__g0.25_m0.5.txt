@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11158 | label: meter | g:0.25 m:0.5 ---
+
+svātmasvarūpaṃ pravijānāti devī susūkṣmarūpaṃ suviśeṣaiśca yuktam ।
+svānyaṃ prapañcaṃ pravijānāti lakṣmīstathāpyaśeṣaiḥ suviśeṣaiśca yuktam ।।

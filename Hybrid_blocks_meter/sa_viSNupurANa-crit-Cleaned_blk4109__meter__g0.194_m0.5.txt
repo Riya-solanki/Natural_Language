@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4109 | label: meter | g:0.194 m:0.5 ---
+
+abhiṣṭūya ca taṃ vāgbhiḥ prasannābhir mahāmatiḥ 
+vijñāpayām āsa tadā kaṃsād bhīto dvijottama ।।

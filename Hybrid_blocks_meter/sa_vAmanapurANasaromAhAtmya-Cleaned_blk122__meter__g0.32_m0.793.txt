@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 122 | label: meter | g:0.32 m:0.793 ---
+
+aditiruvāca
+namaḥ kṛtyārtināśāya namaḥ puṣkaramāline ।
+namaḥ paramakalyāṇa kalyāṇāyādivedhase ।।

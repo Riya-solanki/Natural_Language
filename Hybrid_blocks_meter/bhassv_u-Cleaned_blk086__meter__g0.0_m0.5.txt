@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 86 | label: meter | g:0.0 m:0.5 ---
+
+{padmāvatī} - ayye bhodu dāṇiṃ ettaaṃ 
+[ārye bhavatv idānīm etāvat । ]

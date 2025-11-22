@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 403 | label: grammar | g:0.583 m:0.5 ---
+
+daśaty asau parabhṛtah sahakārasya mañjarīm tam ahaṃ vārayiṣyāmi yuvābhyāṃ svairam āsyatām ।।

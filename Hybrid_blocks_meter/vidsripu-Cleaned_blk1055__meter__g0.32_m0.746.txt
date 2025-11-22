@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1055 | label: meter | g:0.32 m:0.746 ---
+
+tvadyaśorājahaṃsasya pañjaraṃ bhuvanatrayam ।
+amī pānakaraṅkābhāḥ saptāpi jalarāśayaḥ ।।
+bimbokasya

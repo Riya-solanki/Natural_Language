@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1394 | label: grammar | g:0.583 m:0.5 ---
+
+asnigdhabhāvastu na paryupāsyastoyārthina śuṣka ivodapānaḥ । prayatnasādhyāpi tato arthasiddhiryasmādbhavedākaluṣā kṛśā ca ।।

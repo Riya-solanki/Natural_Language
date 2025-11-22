@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 680 | label: grammar | g:0.729 m:0.5 ---
+
+yasmāt kṛṇoti ketum ā naktaṃ cid dūra ā sate । pāvako yad vanaspatīn yasmān minoty ajaro iti dve ।

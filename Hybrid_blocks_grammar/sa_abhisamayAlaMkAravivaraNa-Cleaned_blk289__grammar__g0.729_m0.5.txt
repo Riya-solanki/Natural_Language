@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 289 | label: grammar | g:0.729 m:0.5 ---
+
+kṣiprabhāvanādṛṣṭyā ekaḥ prayogaḥ, yathā dharmataiṣā yasmānmahāratnānāṃ bahavo antarāyāḥ sambhavanti, tasmāt paramaratnasvabhāvāyā mātuḥ saṃvatsareṇa bahvantarāyatve api likhanaṃ śīghrameveti avadhiprayogaḥ ।

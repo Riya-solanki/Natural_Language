@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2109 | label: meter | g:0.194 m:0.625 ---
+
+sampūrṇaṃ susamaṃ pītaṃ snigdhaṃ rūkṣatvavarjitam 
+sāmalaṃ siddhidaṃ proktaṃ jīvādityaṃ varānane ।।

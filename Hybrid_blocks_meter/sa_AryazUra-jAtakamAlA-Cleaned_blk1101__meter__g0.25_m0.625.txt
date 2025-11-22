@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1101 | label: meter | g:0.25 m:0.625 ---
+
+tatsanāthaṃ jagaddiṣṭayā munibhistathyakīrtibhiḥ ।
+viśuddhiḥ sthiracāritre tadetāni bisāni te ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7999 | label: meter | g:0.25 m:0.5 ---
+
+vane tu vijane tatra pāpādhvagagatiṃ gataḥ ।
+tasyāḥ savastraṃ pātheyaṃ tatsūnorvasanāni ca ।।

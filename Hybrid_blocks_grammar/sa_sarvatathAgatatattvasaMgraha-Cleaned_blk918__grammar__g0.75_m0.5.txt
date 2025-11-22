@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 918 | label: grammar | g:0.75 m:0.5 ---
+
+atha maheśvaraḥ sakalatrailokyādhipatyatayā svajñānavaśitayā ca bhagavato vajrapāṇerbhayasandarśanārthaṃ mahācaṇḍakrodhatāṃ mahābhairavarūpatāṃ mahājvālotsṛjanatāṃ mahā[rau]drāhāsatāṃ sahagaṇaiḥ sandarśayannevamāha । "ahaṃ bhoḥ sakalatrailokyādhipastvaṃ mamājñāndadāsī-" ti ।।

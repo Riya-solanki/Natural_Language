@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 137 | label: hybrid | g:0.306 m:0.49 ---
+
+nanu svayaṃprakāśaṃ brahma kimasyānyena pramāṇena ।
+bhavatu brahma svayaṃprakāśaṃ prāpañcābhāvasya kimāyātaṃ, sa hi pramāṇamapekṣata eva ।।

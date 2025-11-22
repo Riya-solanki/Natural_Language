@@ -1,0 +1,22 @@
+--- source: tsc_simu-Cleaned.txt | block: 5 | label: grammar | g:0.532 m:0.125 ---
+
+eteṣveva dharmadharmyabhedena guṇakarmasāmānyānāmantarbhāvaḥ ।
+prakṛtitvaṃ ca sākṣātparamparayākhilavikāropādānatvam ।
+vyutpattistu prakṛṣṭā pariṇāmarūpā ākṛtirasyā iti ।
+sā ca sāmyāvasthayopalakṣitasattvādidravyatrayarūpā ।
+sāmyāvasthā ca śāntaghoramūḍhādirūpāṇāmapi asamudāyavadrūpatvepi atiśayaiḥ samudāyavadbhiravirodhena vartamānatvaṃ sāmānyātmanā guṇabhāvo atiśayātmanā prādhānyaṃ viśeṣātmanā vaiṣamyamityato nyūnādhikabhāvenāsaṃhatāvasthā akāryāvastheti yāvat ।
+mahadādikaṃ tu kāryasattvādikaṃ na kadāpyakāryāvasthaṃ bhavatīti tadvyāvṛttiḥ ।
+vaiṣamyāvasthāyāmapi prakṛtitvasiddhaye upalakṣitamityuktaṃ sattvādiguṇavatī prakṛtiḥ sattvādyanatiriktatvāt tathā ca sūtraṃ sattvādīnāmataddharmatvaṃ tadrūpatvāditi sattvādīnāṃ prakṛtisvarūpatvaṃ na tu prakṛtidharmatvam ।
+guṇebhya eva sarvakāryopapattau tadanyaprakṛtikalpanāvaiyarthyāt ।
+sūtrabhāṣyābhyāmapi tathoktatvāt ।
+yattu prakṛterguṇā itivat vanasya vṛkṣā itivat vyaṣṭisamaṣṭyabhiprāyeṇeti sattvaṃ rajastama iti prakṛterabhavan guṇā iti ca na sattvādīnāṃ prakṛtikāryatvavacanaṃ guṇanityatāvākyavirodhena mahattattvakāraṇībhūtakāryasattvādiparam ।
+mahadādisṛṣṭirguṇavaimyāt ।
+tacca sajātīyasaṃvalanena guṇāntaravyāvṛttaprakāśādiphalopahitaḥ sattvādivyavahārayogyaḥ pariṇāma iti sattvādivyavahāro vaiṣamya evetyāha śrutiḥ yathā tama evedamagra āsīt tatpare syāt pareṇeritaṃ viṣamatvaṃ pratyayādvai rajaso rūpaṃ tadrajaḥ khalvīritaṃ viṣamatvaṃ pratyayādvai sattvasya rūpamiti sattvāditrayaṃ ca sattvādisvarūpamiti sattvāditrayaṃ ca sukhaprakāśalāghavaprasādādiguṇakatayā saṃyogavibhāgādimattayānāśritatvopādānatvādinā dravyatve api puruṣopakāratvāt puruṣabandhakatvācca guṇaśabdenocyate indriyādivat guṇānāṃ sukhaduḥkamohātmakapravādastu dharmadharmyabhedāt manasaḥ saṅkalpātmakatvavat tatra sattvaṃ sukhaprasādaprakāśādyanekadharmakamapi pradhānatastu sukhātmakamucyate ।
+evaṃ rajo api duḥkhakāluṣyapravṛtyādyanekadharmakaṃ prādhānyatastu duḥkhātmakamucyate ।
+evaṃ tamo api mohāvaraṇastambhanādyanekadharmakaṃ prādhānyatastu mohātmakamucyate ।
+sato bhāvaḥ sattvaṃ dharmaprādhānyenottamaṃ puruṣopakaraṇaṃ rāgayogādrajo madhyamam ।
+tamodharmāvaraṇayogādadhamaṃ sattvādīnyasaṃkhyavyaktayaḥ pratikṣaṇapariṇāmitvāt laghutvādidharmairanyonyaṃ sādharmyaṃ vaidharmyaṃ ca guṇānāmasaṃkhyātamiti sūtrāt ।
+ekadānekapuruṣādisṛṣṭiśravaṇācca ekaikavyaktitve vibhutvaṃ syāt tathā ca saṃyogavaicitryābhāvādanantavaicitryaṃ kāryāṇāṃ na syāt ।
+dravyāntarasyāvacchedakībhūtasyābhāvācca ।
+tasmādasaṃkhyātānyeva sattvādīni tritvakathanaṃ tu vibhājakopādhitrayeṇaiva vaiśeṣikāṇāṃ navadravyavacanavat sattvādīni ca yathāyogyamaṇuvibhuparimāṇakāni itarathā rajasaścalasvabhāvatvavacananirodhaḥ syāt ।
+ākāśakāraṇasya vibhutvaucityāt sarvakāraṇadravyavibhutve kāryaparicchedāsambhava iti ।।

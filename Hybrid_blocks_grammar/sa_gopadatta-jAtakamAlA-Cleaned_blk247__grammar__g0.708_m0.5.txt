@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 247 | label: grammar | g:0.708 m:0.5 ---
+
+sa tatra mātaram andhāṃ vṛddhāṃ ca paricaran vivekakāmatayā ca svayūtham apahāya teṣu teṣu puṣpaphalasamṛddheṣu vanāntareṣv anutkaṇṭhitamanā vijahāra ।

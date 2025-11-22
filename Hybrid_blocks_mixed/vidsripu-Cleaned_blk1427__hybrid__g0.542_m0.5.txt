@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1427 | label: hybrid | g:0.542 m:0.5 ---
+
+kvāpi kasya ca kuto api kāraṇāc cittavṛttir iha kiṃ guṇāguṇaiḥ ।
+unnataṃ yad avadhīrya bhūdharaṃ nīcam abdhim abhiyāti jāhnavī ।।

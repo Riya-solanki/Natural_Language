@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 594 | label: meter | g:0.25 m:0.625 ---
+
+saptasārasvataṃ tīrthaṃ trailokyasyāpi durlabham ।
+yatra sapta sarasvatya ekībhūtā vahanti ca ।।

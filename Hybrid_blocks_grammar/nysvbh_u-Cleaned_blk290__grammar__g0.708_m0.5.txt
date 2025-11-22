@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 290 | label: grammar | g:0.708 m:0.5 ---
+
+yadi pratyakṣādīni pramāṇenopalabhyante ? yena pramāṇenopalabhyante tat pramāṇāntaramastīni pramāṇāntarasadbhāvaḥ prasajyate ityanavasthāmāha tasyāpyanyena tasyāpyanyeneti, na cānavasthā śakyānujñātum anupapatteriti ।।

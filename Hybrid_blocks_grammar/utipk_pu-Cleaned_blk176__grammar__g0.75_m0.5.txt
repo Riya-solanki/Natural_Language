@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 176 | label: grammar | g:0.75 m:0.5 ---
+
+citsvarūpatvenābhāsānāṃ sadāntastattva eva sthitiḥ । māyāśaktyā bahiḥ pratyakṣatvena prakāśyamāneṣu bhāveṣu prakāśāvyatirikteṣu bahirābhāsa ity ucyate, tad api teṣām āntaratvam eva sisṛkṣādau tu bhāvānām api ।।

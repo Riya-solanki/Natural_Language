@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 648 | label: meter | g:0.25 m:1.0 ---
+
+sa evānāviṣṭo tathā
+śrīsiṅgabhūpakodaṇḍādatyārūḍha guṇadhvaneḥ ।
+bhajanti nirguṇībhāvaṃ vairastrīkaṇṭhabhūmayaḥ ।।

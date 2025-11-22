@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 459 | label: hybrid | g:0.326 m:0.466 ---
+
+nanvevaṃ sati yadupaṭhimagnirahasye tadeva bṛhadāraṇyake paṭhitavyam sa eṣa sarvasyeśānaḥ ityādi ।
+yattu paṭhitameva manomaya ityādi cenna paṭhitavyam ।

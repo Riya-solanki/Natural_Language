@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 629 | label: hybrid | g:0.506 m:0.456 ---
+
+harṣāśrudūṣitavilocanayā mayādya kiṃ tasya tat sakhi nirūpitam aṅgam aṅgam ।
+romāñcakañcukatiraskṛtadehayā vā jñātāni tāni parirambhasukhāni kiṃ vā ।।
+acalasya

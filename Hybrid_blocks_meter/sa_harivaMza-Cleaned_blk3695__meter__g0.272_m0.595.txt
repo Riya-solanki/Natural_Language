@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3695 | label: meter | g:0.272 m:0.595 ---
+
+saṃgṛhya te kalatrāṇi vasudevapurogamāḥ 
+susaṃnaddhair gajair mattai rathair aśvaiś ca daṃśitaiḥ ।।

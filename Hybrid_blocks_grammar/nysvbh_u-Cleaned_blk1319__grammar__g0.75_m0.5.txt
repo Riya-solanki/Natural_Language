@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1319 | label: grammar | g:0.75 m:0.5 ---
+
+viśeṣād vaidharmyādavadhāryamāṇe arthe apuruṣaḥ' iti na sthāṇupuruṣasādharmyāt saṃśayo avakāśaṃ labhate, evaṃ vaidharmyād viśeṣāt prayatnānantarīyakatvādavadhāryamāṇe śabdasyānityatve nityānityasādharmyāt saṃśayo avakāśaṃ na labhate yadi vai labheta ? tataḥ sthāṇupuruṣasādharmyānucchedādatyantaṃ saṃśayaḥ syāt, gṛhyamāṇe ca viśeṣe nityasādharmyaṃ saṃśayaheturiti nābhyupagamyate nahi gṛhyamāṇe puruṣasya viśeṣe sthāṇupuruṣasādharmyaṃ saṃśayaheturbhavati ।।

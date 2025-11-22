@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2438 | label: meter | g:0.314 m:0.914 ---
+
+tarjanīmaṇisaṃsthānāccakravartitvadāyikā ।
+sā evāñjalī mukhabandhe samuddhṛtā ।।

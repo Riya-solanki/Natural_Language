@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 983 | label: grammar | g:0.516 m:0.217 ---
+
+āvṛttirasakṛdupadeśāt ।
+sādhanānuṣṭhānapūrvakatvātphalasiddherviṣayakrameṇa viṣayiṇorapi tadvicārayoḥ kramamāha tṛtīye adhyāya iti ।
+muktilakṣaṇasya phalasyātyantaparokṣatvāttadarthāni darśanaśravaṇamanananididhyāsanāni codyamānānyadṛṣṭārthānīti yāvadvidhānamanuṣṭheyāni na tu tato adhikamāvartanīyāni pramāṇābhāvāt ।
+yatra punaḥ sakṛdupadeśa upāsītetyādiṣu tatra sakṛdeva prayogaḥ prayājādivaditi prāpta ucyate ।
+yadyapi muktiradṛṣṭacarī tathāpi savāsanāvidyocchedenātmanaḥ svarūpāvasthānalakṣaṇāyāstasyāḥ śrutisiddhatvādavidyāyāśca vidyotpādavirodhitayā vidyotpādena samucchedasyāhivibhramasyeva rajjutatvasākṣātkāreṇa samucchedasyopapattisiddhatvādanvayavyatirekābhyāṃ ca śravaṇamanananididhyāsanābhyāsasyaiva svagocarasākṣātkāraphalatvena lokasiddhatvāsakaladuḥkhavinirmuktaikacaitanyātmako ahamityaparokṣarūpānubhavasyāpi śravaṇādyabhyāsasādhanatvenānumānāttadarthāni śravaṇādīni dṛṣṭārthāni bhavanti ।
+na ca dṛṣṭārthatve satyadṛṣṭārthatvaṃ yuktam ।

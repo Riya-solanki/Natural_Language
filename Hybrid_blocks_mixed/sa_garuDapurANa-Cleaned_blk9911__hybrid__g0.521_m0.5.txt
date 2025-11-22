@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9911 | label: hybrid | g:0.521 m:0.5 ---
+
+tyaktvā svakarmāṇi madena susthitaṃ mayā sutīrthe svavapurna cojjhitam ।
+dharmorjito naiva na devapūjanaṃ kṛtaṃ mayā caiva vimuktihetave ।।

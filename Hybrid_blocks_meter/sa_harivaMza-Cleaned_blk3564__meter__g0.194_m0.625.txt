@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3564 | label: meter | g:0.194 m:0.625 ---
+
+kauśāmbyo mālavaś caiva śatadhanvā vidūrathaḥ 
+bhūriśravās trigartaś ca bāṇaḥ pañcanadas tathā ।।

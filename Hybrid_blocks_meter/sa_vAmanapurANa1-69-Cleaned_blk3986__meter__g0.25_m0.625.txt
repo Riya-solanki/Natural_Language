@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3986 | label: meter | g:0.25 m:0.625 ---
+
+vṛkṣagulmādayo yasya tathā paśumṛgādayaḥ ।
+ekāṃśabhūtā devasya sarvagaṃ taṃ namāmyaham ।।

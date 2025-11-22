@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6909 | label: meter | g:0.25 m:0.625 ---
+
+sarva ekārṇave magnā jīrṇā vanagajā iva ।
+yastvānanaṃ nibadhnāti durmatiḥ kośakāravat ।।

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 120 | label: hybrid | g:0.39 m:0.496 ---
+
+tatra dhīrā-
+dhīrā tu vakti vakroktyā sotprāsaṃ sāgasaṃ priyam ।।

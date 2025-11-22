@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7309 | label: meter | g:0.25 m:0.5 ---
+
+sāttvikā rājasāścaiva tāmasā ye ca kecana ।
+bhāvāḥ kālātmakāḥ sarve pravartante hi jantuṣu ।।

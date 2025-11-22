@@ -1,0 +1,10 @@
+--- source: simhrs_u-Cleaned.txt | block: 18 | label: meter | g:0.25 m:0.521 ---
+
+annamāmbeti vikhyātā tasyāsīd dharaṇī-pateḥ ।
+devī śivā śivasyeva rājamauler mahojjvalā ।।
+śatrughnaṃ śrutakīrtir yā subhadrā yaśasārjunam ।
+ānandayati bhartāraṃ śyāmā rājānam ujjvalam ।।
+tayor abhūtāṃ putrau dvāv ādyo veda-girīśvaraḥ ।
+dvitīyas tv advitīyo' sau yaśasā siṃha-bhūpatiḥ ।।
+atha śrī-siṃha-bhūpālo dīrghāyur vasudhām imām ।
+nijāṃsa-pīṭhe nirvyājaṃ kurute supratiṣṭhitām ।।

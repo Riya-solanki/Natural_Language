@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6136 | label: meter | g:0.272 m:0.845 ---
+
+sambodhane ca liṅgādāvukte karmaṇi kartari ।
+arthavatprātipadikaṃ dhātupratyayavarjitam ।।

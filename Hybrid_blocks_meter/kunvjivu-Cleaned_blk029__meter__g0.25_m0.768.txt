@@ -1,0 +1,8 @@
+--- source: kunvjivu-Cleaned.txt | block: 29 | label: meter | g:0.25 m:0.768 ---
+
+rūpakādiralaṅkārastasyāntair bahudhoditaḥ ।
+na kāntamapi nirbhūṣaṃ vibhāti vanitāmukham ।।
+rūpakādimalaṅkāraṃ bāhyamācakṣate pare ।
+supāṃ tiṅāṃ ca vyutpattiṃ vācāṃ vāñchantyalaṅkṛtim ।।
+tadetadāhuḥ sauśabdyaṃ nārthavyutpattirīdṛśī ।
+śabdābhidheyālaṅkārabhedādiṣṭaṃ dvayaṃ tu naḥ ।।

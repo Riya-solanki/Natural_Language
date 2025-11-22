@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1098 | label: grammar | g:0.604 m:0.5 ---
+
+kalyāṇaṃ naḥ kim adhikam ito jīvanārthaṃ yad asmāl lūtvā vṛkṣān ahaha dahasi bhrātar aṅgārakāra ।
+kiṃ tv etasminn aśanipiśunair ātapair ākulānām adhvanyānām aśaraṇamaruprāntare ko abhyupāyaḥ ।।

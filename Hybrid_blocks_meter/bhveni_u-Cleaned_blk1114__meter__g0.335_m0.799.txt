@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 1114 | label: meter | g:0.335 m:0.799 ---
+
+pāñcālakaḥ
+deva kathaṃ notthitaḥ ।

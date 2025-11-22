@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2252 | label: meter | g:0.25 m:0.5 ---
+
+yadā puṃsaḥ pṛthagbhāvaḥ prākṛtaiḥ kāraṇair nṛpa 
+voḍhavyas tu tadā bhāraḥ katamo nṛpate mayā ।।

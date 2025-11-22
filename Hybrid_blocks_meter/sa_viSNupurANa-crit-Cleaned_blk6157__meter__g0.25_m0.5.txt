@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6157 | label: meter | g:0.25 m:0.5 ---
+
+dviparārdhātmakaḥ kālaḥ kathito yo mayā tava 
+tad ahas tasya maitreya viṣṇor īśasya kathyate ।।

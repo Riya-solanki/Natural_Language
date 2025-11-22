@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10306 | label: meter | g:0.25 m:0.5 ---
+
+tamaso daśabhāgānāṃ madhye tu vinatāsuta ।
+ya eko bhāga uddiṣṭastāvatparimitaṃ rajaḥ ।।

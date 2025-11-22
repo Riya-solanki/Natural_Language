@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 217 | label: meter | g:0.251 m:0.623 ---
+
+atha saṃbandho api svayaṃprakāśata iti manyethāḥ, nātra pramāṇamasti ।
+tasmānmānasapratyakṣagamyor'thena sahātmanaḥ saṃbandho jñānaṃ kalpayatīti

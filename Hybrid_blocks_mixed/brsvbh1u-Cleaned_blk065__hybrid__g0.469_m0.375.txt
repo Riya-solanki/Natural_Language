@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 65 | label: hybrid | g:0.469 m:0.375 ---
+
+ca pāṭaliputre pūrvadṛṣṭasya devadattasya paratra māhiṣmatyāmavabhāsaḥ samīcīnaḥ ।
+avabhāsa

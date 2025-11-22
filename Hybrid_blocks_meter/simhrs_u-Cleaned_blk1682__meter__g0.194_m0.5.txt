@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1682 | label: meter | g:0.194 m:0.5 ---
+
+mām āhuḥ pṛthivī-bhṛtām adhipatiṃ nāgādhirājo bhavān
+avyucchinna-pṛthu-pravṛtti bhavato dānaṃ mamāpy arthiṣu ।
+strī-ratneṣu mamorvaśī priyatamā yūthe taveyaṃ vaśā
+sarvaṃ mām anu te priyā-virahajāṃ tvaṃ tu vyathāṃ mānubhūḥ ।।

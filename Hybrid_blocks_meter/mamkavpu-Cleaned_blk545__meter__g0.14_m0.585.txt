@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 545 | label: meter | g:0.14 m:0.585 ---
+
+iti
+yanniṣiddhaṃ lākṣaṇikam । yathā

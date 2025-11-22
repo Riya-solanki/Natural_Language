@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3935 | label: meter | g:0.307 m:0.623 ---
+
+kariṣye yātudhānānāṃ natvahaṃ dharmadeśanam ।
+tān saṃpṛccha dvijān saumya ye vai pravacane ratāḥ ।।

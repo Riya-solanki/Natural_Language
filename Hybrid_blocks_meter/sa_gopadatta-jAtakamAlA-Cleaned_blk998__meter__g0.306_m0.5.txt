@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 998 | label: meter | g:0.306 m:0.5 ---
+
+abhīkṣṇasamudācāro dharme yo yasya bādhate ।
+āśramaṃ manaso duḥkham ity avaimi bravīmi ca ।।

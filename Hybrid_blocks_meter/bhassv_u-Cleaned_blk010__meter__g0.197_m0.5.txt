@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 10 | label: meter | g:0.197 m:0.5 ---
+
+{yaugandharāyaṇaḥ} - bhavati yo dharmād ātmānam utsārayati 
+{vāsavadattā} - ayya ṇa hi evvaṃ vattukāmā ahaṃ vi ṇāma ussāraidavvā homi tti 
+[ārya na hy evaṃ vaktukāmā aham api nāmotsārayitavyā bhavāmīti । ]

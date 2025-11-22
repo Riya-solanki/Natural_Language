@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 946 | label: meter | g:0.194 m:0.5 ---
+
+te tu gotrakarā rājann ṛṣayo vedapāragāḥ 
+svastyātreyā iti khyātāḥ kiṃ tv atridhanavarjitāḥ ।।

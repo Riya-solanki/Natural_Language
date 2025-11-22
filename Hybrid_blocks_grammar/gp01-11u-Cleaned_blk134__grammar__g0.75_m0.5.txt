@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 134 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tad-bahir bahir antaḥ-pura-prayuta-vibhāga-pracurāṇāṃ parama-santuṣṭa-jana-puṣṭānāṃ catuṣṭayīnāṃ ca kakṣyāṇāṃ paścān niścita-paścimādi-kakubhaṃ śubhāṃ rītim avalambya sakala-śarma-dṛśvarī śrīmad-vrajeśvarī rāma-ghaṭṭābhirāmaḥ śrīmad-balarāmaḥ sarva-loka-gatiḥ śrīmad-vrajādhipatiḥ sa ca govardhanānandanaḥ śrīmad-vrajādhipati-nandanaḥ patir atīva rājate ।

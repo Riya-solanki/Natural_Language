@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9927 | label: hybrid | g:0.398 m:0.53 ---
+
+iti bruvāṇairyamadhūtavargairvihanyate kālamayaiśca mudgaraiḥ ।
+hā daiva hā daiva iti smaran vai dhanaṃ na dattaṃ svayamarjitaṃ yat ।।

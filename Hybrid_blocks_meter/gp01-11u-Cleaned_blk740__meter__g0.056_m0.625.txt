@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 740 | label: meter | g:0.056 m:0.625 ---
+
+kvāyaṃ hatas tīvra-balaḥ palāśanaḥ,
+kva tīrṇavān so' yam atīva bālakaḥ ।
+kiṃ vā sva-pāpena vihiṃsyate khalaḥ
+sādhuḥ samatvena bhayāt pramucyate ।। [upajāti ]

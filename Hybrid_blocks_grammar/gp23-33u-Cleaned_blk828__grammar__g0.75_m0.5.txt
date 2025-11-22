@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 828 | label: grammar | g:0.75 m:0.5 ---
+
+[] ṛṣir uvāca-tad etad avadhārya jñāta-kārya-gatinā vraja-bhūpatinā tad-abhihite tathā-vihite tava hitavatī paurṇamāsī mahitāyāṃ tasyām eva sabhāyām āhita-brahmāsanam āsīnā kim api praṇihitavatī bhavitā । tad-avyavahitam eva ca siṃha-pṛṣṭhāhitam ahita-vigrahā mahāyudhāṣṭaka-veṣṭitā devī-gaṇa-sevitā devī nabhasaḥ sarabhasam avatariṣyati । avatīrṇa-mātrā ca paurṇamāsyā vrajeśvarayoḥ kṛṣṇa-kṛṣṇāgrajayor anyeṣām api bhūmi-spṛśām abhūmi-spṛg-māninī yathā-nyāyam abhivādanādikam ākāśata eva prakāśayiṣyati ।

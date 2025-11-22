@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2109 | label: meter | g:0.25 m:0.5 ---
+
+viniścayo hi prāg eva nāradāyaṃ kṛto mayā 
+nivāsaṃ tu na me brahmā vidadhāti pitāmahaḥ ।।

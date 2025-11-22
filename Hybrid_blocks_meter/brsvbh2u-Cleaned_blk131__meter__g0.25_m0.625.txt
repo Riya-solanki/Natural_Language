@@ -1,0 +1,4 @@
+--- source: brsvbh2u-Cleaned.txt | block: 131 | label: meter | g:0.25 m:0.625 ---
+
+rūpaṃ tathaivāviśataḥ śabdasparśaguṇāvubhau ।
+triguṇastu tato vahniḥ sa śabdasparśavān bhavet ।।

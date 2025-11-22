@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 383 | label: meter | g:0.25 m:0.5 ---
+
+hiṃsā bhāryā tv adharmasya tayor jajñe tathānṛtam 
+kanyā ca nikṛtis tābhyāṃ bhayaṃ narakam eva ca ।।

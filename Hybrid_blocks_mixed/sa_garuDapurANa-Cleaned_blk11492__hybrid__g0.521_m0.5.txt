@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11492 | label: hybrid | g:0.521 m:0.5 ---
+
+jaigīṣavyaḥ prāha saṃhṛṣṭacitto bravīmi tantraṃ śṛṇu kanyake tvam ।
+śrutvā mattaḥ kuru sarvaṃ mayoktamādyaṃ dvāraṃ śrīnivāsasya dṛṣṭvā ।।

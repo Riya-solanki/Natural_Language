@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6598 | label: meter | g:0.25 m:0.75 ---
+
+taḍāge puṣkariṇyādau bhasmādiṃ pātayettathā ।
+ṣaṭkumbhānapa utddhṛya pañcagavyena śudhyati ।।

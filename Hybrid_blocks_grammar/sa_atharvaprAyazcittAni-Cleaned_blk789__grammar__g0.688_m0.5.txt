@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 789 | label: grammar | g:0.688 m:0.5 ---
+
+dyauś ca ma indraś ca me । tantuṃ tanvan । mā pra gāma patho vayam iti ।

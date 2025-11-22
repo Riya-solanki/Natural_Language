@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 302 | label: meter | g:0.25 m:0.5 ---
+
+maṇḍale padmagarbhe ca caturdvāri rajo anvite ।
+catuḥ ṣaṣṭyantamaṣṭādi khākṣe khākṣyādi maṇḍalam ।।

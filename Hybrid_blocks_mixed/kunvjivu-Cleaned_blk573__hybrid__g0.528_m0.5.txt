@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 573 | label: hybrid | g:0.528 m:0.5 ---
+
+vakroktijīvitam tṛtīyonmeṣaḥ evaṃ pūrvasmin prakaraṇe vākyāvayavānāṃ padānāṃ yathāsaṃbhava vakrabhāvaṃ vicārayan vācakavakratāvicchittiprakāraṇāṃ dikpradarśanaṃ vihitavān ।
+idānīṃ vākyavakratāvaicitryamāsūtrayirtu vācyasya varṇanīyatayā prastāvādhikṛtasya vastuno vakrātāsvarūpaṃ nirūpayati, padārthāvabodhapūrvakatvād vākyārthāvasiteḥ

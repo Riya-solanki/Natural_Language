@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1157 | label: meter | g:0.25 m:0.729 ---
+
+pūrvasyāṃ diśi nāgānāṃ bhojasyety anumodanam 
+sopāsaṅgānukarṣāṇāṃ dhvajināṃ savarūthinām । 
+rathānāṃ meghaghoṣāṇāṃ sahasrāṇi daśaiva tu । 
+rūpyakāñcanakakṣyāṇāṃ sahasrāṇi daśāpi ca ।।

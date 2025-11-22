@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2190 | label: meter | g:0.25 m:0.555 ---
+
+tasmāt putraśca śiṣyaśca vidhātavyau vipaścitā ।
+etadarthamabhidhyāya śiṣyācchreṣṭhataraḥ sutaḥ ।
+seṣāt tārayate śiṣyaḥ sarvato api hi putrakaḥ ।।

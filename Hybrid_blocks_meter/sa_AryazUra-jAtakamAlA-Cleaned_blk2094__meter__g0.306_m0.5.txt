@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2094 | label: meter | g:0.306 m:0.5 ---
+
+tyaktvā rājyaṃ vane kleśo yasya heturtādhṛto mayā ।
+hato dharmaḥ kṣatā kīrtistyakṣyāmi tadahaṃ katham ।।

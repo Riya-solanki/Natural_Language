@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 182 | label: meter | g:0.306 m:0.5 ---
+
+yathā dayodadhe tvaṃ naḥ pāhi pāhi naḥ karuṇāṃbudhe ।
+poṣyā vayaṃ na vidveṣyāḥ siṅgabhūpāla pālaya ।।

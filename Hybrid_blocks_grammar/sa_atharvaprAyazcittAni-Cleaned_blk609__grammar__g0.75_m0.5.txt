@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 609 | label: grammar | g:0.75 m:0.5 ---
+
+ita eva prathamaṃ jājñe agnir ābhyo yonibhyo adhi jātavedāḥ । sa gāyatryā triṣṭubhā jagatyānuṣṭubhā devo devebhyo havyaṃ vahatu prajānan iti paścād gārhapatyalakṣaṇasyāraṇī nidhāya mathitvā ।

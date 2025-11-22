@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4477 | label: grammar | g:0.727 m:0.0 ---
+
+yan māṃ bhavantaḥ pṛcchanti vākyasyāsya vinirṇayam 
+tad etat sarvam ākhyātaṃ sādhayāmi yathāgatam ।। 
+nārāyaṇaparā vedā nārāyaṇaparā makhāḥ । nārāyaṇaparaṃ jñānaṃ nārāyaṇaparaṃ tapaḥ ।। na ca nārāyaṇād anyat triṣu lokeṣu vidyate । nārāyaṇātmakam idaṃ jagat sthāvarajaṅgamam ।। iyaṃ hi vedārthagatiḥ sanātanī ।nṛpā yadi śroṣyatha madvacaḥ param ।idaṃ tu satyaṃ sakalaṃ nṛpottamā ।ity evam uktvā sa divaṃ jagāma ha ।
+nārade tu gate svargaṃ sarve te pṛthivīkṣitaḥ 
+vismitāḥ svāni rāṣṭrāṇi jagmuḥ sabalavāhanāḥ ।। 
+viṣṇuṃ jiṣṇuṃ hṛṣīkeśaṃ govindaṃ garuḍadhvajam । parāt parataraṃ brahma nārāyaṇam anāmayam ।। sarvavedāntavedyaṃ ca namaskṛtya guruṃ harim । dhanyo ayaṃ nārado yasmād dṛṣṭaḥ sākṣād dhariḥ svayam ।। dhanyā vayaṃ jagannāthaṃ nāradena vibodhitāḥ । sarve prītā jagannāthaṃ tuṣṭuvuḥ puruṣottamam ।। ko nāma viṣṇur ity evam anye mūḍhā narādhamāḥ । dhanyāḥ sarvaṃ vāsudeva iti tattvārthatatparam ।। iti tattvena vijñāya nṛpā nārāyaṇaṃ param । tataḥ pradakṣiṇaṃ kṛtvā namaskṛtya punaḥ punaḥ । 
+janārdano api sahito yadubhiḥ pāvakopamaiḥ 
+svam eva bhavanaṃ vīro viveśa yadupuṃgavaḥ ।।

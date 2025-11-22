@@ -1,0 +1,14 @@
+--- source: simhrs_u-Cleaned.txt | block: 1899 | label: meter | g:0.25 m:0.664 ---
+
+atha bhāṇaḥ-
+svasya vānyasya vā vṛttaṃ viṭena nipuṇoktinā । 
+śaurya-saubhāgya-saṃstutyā vīra-śṛṅgāra-sūcakam ।।
+buddhi-kalpitam ekāṅkaṃ mukha-nirvahaṇānvitam । 
+varṇyate bhāratī-vṛttyā yatra taṃ bhāṇam īrate ।।
+eka-pātra-prayojye' smin kuryād ākāśa-bhāṣitam । 
+anyenānuktam apy anyo vacaḥ śrutveva yad vadet ।।
+iti kiṃ bhaṇasīty etad bhaved ākāśa-bhāṣitam । 
+lāsyāṅgāni daśaitasmin saṃyojyānyatra tāni tu ।।
+geya-padaṃ sthita-pāṭhyam āsīnaṃ puṣpa-gandhikā । 
+pracchedakas trimūḍhaṃ ca saindhavākhyaṃ dvimūḍhakam ।
+uttamottamakaṃ cānyad ukta-pratyuktam eva ca ।।

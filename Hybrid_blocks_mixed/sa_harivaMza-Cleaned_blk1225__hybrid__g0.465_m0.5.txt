@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1225 | label: hybrid | g:0.465 m:0.5 ---
+
+bhrātṛtvān marṣayāmy eṣa svasti te astu vrajāmy aham 
+kṛtyaṃ na me dvārakayā na tvayā na ca vṛṣṇibhiḥ ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 703 | label: meter | g:0.0 m:0.521 ---
+
+"dūram añca na hi cañcala sphuṭaṃ
+tatra ko' pi varivarti bhīṣaṇaḥ ।"
+evam eṣa jananī-girā punas
+tat-kṛte kutukitāṃ dadhe śiśuḥ ।। [rathoddhatā]

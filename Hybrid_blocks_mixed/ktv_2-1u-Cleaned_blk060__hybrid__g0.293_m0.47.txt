@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 60 | label: hybrid | g:0.293 m:0.47 ---
+
+karoter nityaṃ sakarmakatvād yāvat kriyamāṇaṃ na labhyate, na tāvad arthaḥ paryavasyati ।
+sarvakārakāṇāṃ cāvāntarakriyāsu kartṛtvaṃ pratipādyamānānāṃ pradhānakriyāsu karmādi-

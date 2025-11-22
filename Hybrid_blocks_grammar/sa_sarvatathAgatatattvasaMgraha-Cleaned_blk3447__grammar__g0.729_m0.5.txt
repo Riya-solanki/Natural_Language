@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3447 | label: grammar | g:0.729 m:0.5 ---
+
+"vaśīkaraṇaṃ kartukāmaḥ sarvatathāgatasatvamudrāṃ badhvā tāvajjaped yāvatsā mudrāṃ jvalati । tataḥ prabhṛti mudrābandhena sarvatathāgatānabhyārāgayati vaśīkaroti । kiṃ punaranyāṃ satvān? ।।

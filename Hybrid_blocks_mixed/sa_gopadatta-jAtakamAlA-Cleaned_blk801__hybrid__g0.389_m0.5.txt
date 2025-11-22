@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 801 | label: hybrid | g:0.389 m:0.5 ---
+
+nāsīt kasya dayā tvayi praharato anāryasya śāntātmani
+krauryaṃ tvayy api nāma sādhucarite pāpātmanāṃ jāyate ।
+tvām āyāsayataḥ kathaṃ na patitau tasya prakoṣṭhāt karau
+nāthānātha ivāpadaṃ katham imāṃ prāptas tvam āyāsinīm ।।

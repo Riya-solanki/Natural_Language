@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4801 | label: meter | g:0.25 m:0.5 ---
+
+mālākārāya kṛṣṇo api prasannaḥ pradadau varam 
+śrīs tvāṃ matsaṃśrayā bhadra na kadācit tyajiṣyati ।।

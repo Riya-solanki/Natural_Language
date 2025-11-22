@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 1281 | label: meter | g:0.25 m:0.5 ---
+
+mad-viṣayā vaḥ prītiḥ kauśalyād eva nānyataḥ sacate ।
+yan mayi kuśalāḥ sarve vīkṣyante prīti-kartāraḥ ।।
+[] tatra kuśalānāṃ kaimutyaṃ pratyāyann uvāca-

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1693 | label: meter | g:0.217 m:0.82 ---
+
+sphuṭamekatra viṣaye śabdārthālaṅkṛtidvayam ।
+vyavasthitaṃ ca

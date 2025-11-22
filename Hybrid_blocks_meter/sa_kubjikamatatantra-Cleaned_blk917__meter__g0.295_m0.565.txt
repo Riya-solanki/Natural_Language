@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 917 | label: meter | g:0.295 m:0.565 ---
+
+aghoram iti vikhyātaṃ dvātriṃśākṣarabhūṣitam 
+tasmāt sañjāyate sṛṣṭiḥ sā tu sṛṣṭir hṛdi sthitā ।।

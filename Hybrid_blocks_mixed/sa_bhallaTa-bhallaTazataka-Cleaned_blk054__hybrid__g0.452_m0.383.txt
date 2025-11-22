@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 54 | label: hybrid | g:0.452 m:0.383 ---
+
+dūre kasya cid eṣa ko apy akṛtadhīr naivāsya vetty antaraṃ mānī ko api na yācate mṛgayate ko apy alpam alpāśayaḥ 
+itthaṃ prārthitadānadurvyasanino naudāryarekhojjvalā jātānaipuṇadustareṣu nikaṣasthāneṣu cintāmaṇeḥ ।।

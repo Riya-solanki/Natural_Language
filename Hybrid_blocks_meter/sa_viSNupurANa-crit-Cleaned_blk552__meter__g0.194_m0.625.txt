@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 552 | label: meter | g:0.194 m:0.625 ---
+
+siṃhāsanagataḥ śakraḥ saṃprāpya tridivaṃ punaḥ 
+devarājye sthito devīṃ tuṣṭāvābjakarāṃ tataḥ ।।

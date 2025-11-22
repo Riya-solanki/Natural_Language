@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1269 | label: meter | g:0.25 m:0.625 ---
+
+ālokanena dravyāṇi śuddhiṃ yānti na saṃśayaḥ ।
+tdṛdayādīni cāṅgāni vyāhṛtipraṇavena ca ।।

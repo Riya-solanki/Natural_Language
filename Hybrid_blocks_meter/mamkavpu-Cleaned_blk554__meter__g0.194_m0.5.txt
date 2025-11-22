@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 554 | label: meter | g:0.194 m:0.5 ---
+
+{srastāṃ nitambādavaropayantī punaḥ punaḥ kesaradāmakāñcīm ।
+nyāsīkṛtāṃ sthānavidā smareṇa dvitīyamaurvīmiva kārmukasya ।।}

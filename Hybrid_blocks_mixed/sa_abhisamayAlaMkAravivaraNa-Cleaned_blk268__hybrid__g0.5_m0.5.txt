@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 268 | label: hybrid | g:0.5 m:0.5 ---
+
+paryāyāḥ bodhisattvamārgaḥ, pāramitāmārgaḥ, sattvayogaḥ, ākārajñatāprayogaḥ, mārgajñatāprayogaḥ, sannāhapratipattirityanarthāntaram ।

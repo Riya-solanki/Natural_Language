@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 282 | label: meter | g:0.306 m:0.5 ---
+
+etadbījavare dānabījaṃ patati ced gurau ।
+janārdane mahāpātre kiṃ na prāptaṃ tato mayā ।।

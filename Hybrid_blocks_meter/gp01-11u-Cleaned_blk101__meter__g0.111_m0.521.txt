@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 101 | label: meter | g:0.111 m:0.521 ---
+
+yasyākarṇanam apy apūrvam amita-brahmāṇḍa-koṭi-vraje
+vaikuṇṭheṣv api vāñchitaṃ kim aparaṃ yal-lālasā śrīr api ।
+goloke sa tu bāndhavāgrimatayā vibhrājate sarvadā
+yeṣāṃ tan-madhurimṇi hanta mama hṛn majjan muhuḥ sajjati ।। [śārdūlā]

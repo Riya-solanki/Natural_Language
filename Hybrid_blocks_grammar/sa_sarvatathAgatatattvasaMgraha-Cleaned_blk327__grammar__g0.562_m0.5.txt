@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 327 | label: grammar | g:0.562 m:0.5 ---
+
+vajrabimbamayaṃ sarvaṃ bhāvayaṃ kāyamātmanaḥ । samāviṣṭaḥ patedyatra nidhintatra vinirdiśed ।। ।।

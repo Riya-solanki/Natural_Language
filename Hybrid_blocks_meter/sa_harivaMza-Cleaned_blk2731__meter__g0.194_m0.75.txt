@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2731 | label: meter | g:0.194 m:0.75 ---
+
+bāhudaṇḍena kṛṣṇasya vidhṛtaṃ sumahat tadā 
+nīlābhrapaṭalac channaṃ tadgiricchatram ābabhau ।।

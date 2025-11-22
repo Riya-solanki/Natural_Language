@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 630 | label: grammar | g:0.594 m:0.5 ---
+
+sa kasmān me preyān sakhi katham ahaṃ tasya dayitā yato māṃ spṛṣṭvaiva snapayati karaṃ svedapayasā ।
+vilokyāśleṣād apy avahita ivāmīlya nayane vyudañcadromāñcasthagitavapur āliṅgati samām ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2 | label: grammar | g:0.55 m:0.47 ---
+
+saṃvartāmaṇḍalānte kramapadanihitānandaśaktiḥ subhīmā saṃsṛjyādyaṃ catuṣkam akulakulagataṃ pañcakaṃ cānyaṣaṭkam 
+catvāraḥ pañcako anyaḥ punar api caturas tattvato maṇḍaledaṃ saṃsṛṣṭaṃ yena tasmai namata guruvaraṃ bhairavaṃ śrīkujeśam ।।

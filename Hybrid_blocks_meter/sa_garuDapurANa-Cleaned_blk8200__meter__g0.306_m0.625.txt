@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8200 | label: meter | g:0.306 m:0.625 ---
+
+pitā tava mayā dṛṣṭo brāhmaṇāgre tu rāghavaḥ ।
+sarvābharaṇasaṃyuktodvau cānyau ca tathāvidhau ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10704 | label: meter | g:0.37 m:0.539 ---
+
+svabhogabhāryāsatyalokādibhogaḥ svayogyabhogo vastramālyādibhogaḥ ।
+ete hi sarve bahirarthasaṃjñakāḥ naisargakāmāḥ sarvadā me hi viṣṇo ।।

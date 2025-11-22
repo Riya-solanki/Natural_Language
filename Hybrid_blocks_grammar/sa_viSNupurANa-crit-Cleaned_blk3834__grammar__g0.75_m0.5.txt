@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3834 | label: grammar | g:0.75 m:0.5 ---
+
+nātas tasminn anādinidhane parabrahmabhūte bhagavaty anālambanīkṛte manasas tallayam । daśānanatve apy anaṅgaparādhīnatayā jānakīsaktacetaso dāśarathirūpadhāriṇas tadrūpadarśanam evāsin nāyam acyuta ity āsaktir vipadyato antaḥkaraṇasya mānuṣabuddhir eva kevalam asyābhūt ।।

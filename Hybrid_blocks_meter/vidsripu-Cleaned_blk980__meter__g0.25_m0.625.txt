@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 980 | label: meter | g:0.25 m:0.625 ---
+
+iha bahalitam indor dīdhitīnāṃ prabhābhir madavikalacakorīcañcumudrāṅkitābhiḥ ।
+ratibharaparikhedasrastarārthaṃ vadhūnāṃ karakisalayalīlābhañjanavyañjikābhiḥ ।।

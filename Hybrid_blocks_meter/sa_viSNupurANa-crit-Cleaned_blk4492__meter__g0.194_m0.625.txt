@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4492 | label: meter | g:0.194 m:0.625 ---
+
+sunivāteṣu deśeṣu yathājoṣam ihāsyatām 
+praviśyatāṃ na bhetavyaṃ giripātasya nirbhayaiḥ ।।

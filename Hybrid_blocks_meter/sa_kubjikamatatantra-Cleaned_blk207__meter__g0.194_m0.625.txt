@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 207 | label: meter | g:0.194 m:0.625 ---
+
+etad antaram āsādya brahmaviṣṇupuraḥsarāḥ 
+sarve devagaṇāḥ prāptā ṛṣisiddhāḥ saguhyakāḥ ।।

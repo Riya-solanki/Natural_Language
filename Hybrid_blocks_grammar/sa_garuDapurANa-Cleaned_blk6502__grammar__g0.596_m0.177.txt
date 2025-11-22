@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6502 | label: grammar | g:0.596 m:0.177 ---
+
+oṃ itthaṃ mātāmahādibrāhmaṇānāmācamanam । oṃ susuprokṣitamastviti bhūmyabhyukṣaṇaṃ kṛtvā । oṃ apāṃ madhye sthitā devāḥ sarvamapsu pratiṣṭhitam । brāhmaṇasya kare nyastāḥ śivā āpo bhavantu naḥ । śivā āpaḥ santviti brāhmaṇahaste jaladānam । lakṣmīrvasatipuṣpeṣu lakṣmīrvasati puṣkare । lakṣmīrvasati goṣṭheṣu saumanasyaṃ sadāstu te । 
+saumanasyamastviti puṣpadānam ।
+akṣataṃ cāstu me puṇyaṃ śāntiḥ puṣṭirdhṛtiśca me ।
+yadyacchreyaskaraṃ loke tattadastu sadā mama ।
+oṃ akṣatañcāriṣṭañcāstu iti yavataṇḍuladānam ।।

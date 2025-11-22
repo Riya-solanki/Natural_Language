@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3669 | label: grammar | g:0.75 m:0.5 ---
+
+anantaraṃ ca sā jamadagnim ajījanat । tanmātā ca viśvāmitraṃ janayām āsa । satyavatī ca kauśikī nāma nady abhavat । jamadagnir ikṣvākuvaṃśodbhavasya reṇos tanayāṃ reṇukām upayeme । tasyāṃ cāśeṣakṣatrahantāraṃ paraśurāmasaṃjñaṃ bhagavataḥ sakalalokaguror nārāyaṇasyāṃśaṃ jamadagnir ajījanat ।।

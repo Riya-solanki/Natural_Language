@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 534 | label: hybrid | g:0.5 m:0.5 ---
+
+[] punar api ca parāmamarśa-tāḥ punar mama parāṅganā evānubhūyante, na tu parāṅganāḥ । tasmād bhaved atra viśeṣaḥ sandarbha-viśeṣaḥ । yam eva khalv aham iva loko' py ayam anirṇīya nūnaṃ garga-durvarṇanayāsmad-apayānaṃ nirṇīya ca śīrṇībhavan śaṅkayā saṅka-sukatām urīcakre yena cāmūr api nūnaṃ svaṃ dhik-kurvanti । yathā-

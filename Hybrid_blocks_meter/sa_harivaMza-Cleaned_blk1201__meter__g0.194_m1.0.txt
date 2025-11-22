@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1201 | label: meter | g:0.194 m:1.0 ---
+
+viśrutā sāmbamahiṣī kanyā cāsya vasuṃdharā 
+rūpayauvanasaṃpannā sarvasattvamanoharā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1361 | label: meter | g:0.194 m:0.75 ---
+
+kūrmakukkuṭavaktrāś ca śaśolūkamukhās tathā 
+kharoṣṭravadanāś caiva varāhavadanās tathā ।।

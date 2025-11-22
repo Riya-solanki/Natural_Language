@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 850 | label: meter | g:0.056 m:0.729 ---
+
+{vaktrāmbhojaṃ sarasvatyadhivasati sadā śoṇa evādharaste
+bāhuḥ kākutsthavīryasmṛtikaraṇapaṭurdakṣiṇaste samudraḥ ।
+vāhinyaḥ pārśvametāḥ kṣaṇamapi bhavato naiva muñcantyabhīkṣaṇaṃ
+svacchentarmānasesmin kathamavanipate tembupānābhilāṣaḥ ।।}

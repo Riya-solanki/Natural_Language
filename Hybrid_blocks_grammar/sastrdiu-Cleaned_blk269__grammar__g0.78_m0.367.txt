@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 269 | label: grammar | g:0.78 m:0.367 ---
+
+tathā hi dravyātiriktaḥ samāvāya iha pratyayahetutvātsaṃyogavaditi atreha pratyayahetutvasamavāyatvena bhedena ca vyāptaṃ saṃyoge dṛṣṭam, samavāyasyāsamavāyatvaṃ bhedaṃ cāpādayat samavāyadharmisvarūpaṃ tadviśeṣaṇaṃ caikatvaṃ bādhata ityudāhṛtam ।
+tadayuktam ।
+iha pratyayahetutvaṃ hi samavāye dharmiṇi dṛṣṭaṃ na vā, yadyadṛṣṭaṃ tato asiddhatvānna kasyacidapi sādhakaṃ bādhakaṃ vā bhavati, yadi dṛṣṭaṃ tatkathaṃ tatraiva dṛśyamānaṃ tasyaiva bādhanaṃ kuryāt, virodhe hi sati bādheta, nacataddharmatayā dṛśyamānasya kathañcidapi tena virodhaḥ saṃbhavati ।।

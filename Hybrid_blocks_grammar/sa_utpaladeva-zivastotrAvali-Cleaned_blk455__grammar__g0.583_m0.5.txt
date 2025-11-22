@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 455 | label: grammar | g:0.583 m:0.5 ---
+
+tvaddhāmni viśvavandye asminn iyati krīḍane sati tava nātha kiyān bhūyānn ānandarasasambhavaḥ ।।

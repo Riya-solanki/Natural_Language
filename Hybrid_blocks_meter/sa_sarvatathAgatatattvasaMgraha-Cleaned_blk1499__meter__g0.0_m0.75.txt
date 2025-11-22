@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1499 | label: meter | g:0.0 m:0.75 ---
+
+vajrakrodhāṅgulī[mutthāpayitvāgrāsaṅgaṃ sthite ।] parivartya[dvayorvajrayoradhastātsamuddhared ।।]

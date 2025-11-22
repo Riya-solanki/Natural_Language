@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 875 | label: meter | g:0.25 m:0.5 ---
+
+nāḍīsūtreṇa vinyastaṃ bahir ante ca mātaraḥ 
+yā nāḍī sā bhaved varṇas tayā nāḍyā tu veṣṭayet ।।

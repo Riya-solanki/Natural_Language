@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1543 | label: grammar | g:0.594 m:0.5 ---
+
+niṣkandāḥ kim u kandarodarabhuvaḥ kṣīṇās tarūṇāṃ tvacaḥ kiṃ śuṣkāḥ saritaḥ sphuradgirigurugrāvaskhaladvīcayaḥ ।
+pratyutthānam itas tataḥ pratidinaṃ kurvadbhīr udgītibhir yad dhārārpitadṛṣṭibhiḥ kṣitibhujāṃ vidvadbhir apy āsyate ।।

@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 337 | label: meter | g:0.398 m:0.555 ---
+
+athāpṛthakkālatvamayutasiddatvamucyeta, savyadakṣiṇayorapi goviṣāṇayorayutasiddhatvaṃ prasajyeta ।
+tathāpṛthaksvabhāvatve tvayutasiddhatvena dravyaguṇayorātmabhedaḥ saṃbhavati, tasya tādātmyenaiva pratīyamānatvāt ।
+yutasiddhayoḥ saṃbandhaḥ saṃyogo apyutasiddhayostu samavāya ityayamabhyupagamo mṛṣaiva teṣāṃ, prāksiddhasya kāryātkāraṇasyāyutasiddhatvānupapatteḥ ।

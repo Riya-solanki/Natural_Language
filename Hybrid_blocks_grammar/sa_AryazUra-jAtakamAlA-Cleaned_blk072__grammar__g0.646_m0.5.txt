@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 72 | label: grammar | g:0.646 m:0.5 ---
+
+atha śakro devendraḥ kṣititalacalanādakampite vividharatnaprabhodbhāsini sumerau parvatarāje kimidamiti samutpatitavitarkastasya rājña imaṃ vitarkātiśayaṃ dharaṇītalacalananimittamavetya vismayāvarjitahṛdayaścintāmāpede ।

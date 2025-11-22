@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 532 | label: meter | g:0.102 m:0.5 ---
+
+śrāddhāni caiva kurvanti phalakāmā na saṃśayaḥ 
+abhisaṃdhāya pitaraṃ pituṣ ca pitaraṃ tathā 
+pituḥ pitāmahaṃ caiva triṣu piṇḍeśu nityadā ।।

@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1411 | label: grammar | g:0.75 m:0.5 ---
+
+atrevādīnāṃ tulyādīnāṃ ca padānāmabhāve api śliṣṭaviśeṣaṇairākṣiptaivopamā pratīyate । evañjātīyakāḥ śliṣṭoktiyogyasya padasya pṛthagpādāne anyepi bhedāḥ saṃbhavanti । te api anayaiva diśā draṣṭavyāḥ ।।

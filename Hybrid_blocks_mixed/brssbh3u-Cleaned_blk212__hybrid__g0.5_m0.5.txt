@@ -1,0 +1,3 @@
+--- source: brssbh3u-Cleaned.txt | block: 212 | label: hybrid | g:0.5 m:0.5 ---
+
+FN pṛthivyaptejorūpaṃ bhūtatrayaṃ mūrtaṃ, vāyvākāśarūpaṃ cāmūrtamiti dvirāśitvena ।

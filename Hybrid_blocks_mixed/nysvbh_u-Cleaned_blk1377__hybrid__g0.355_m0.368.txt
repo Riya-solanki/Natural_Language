@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1377 | label: hybrid | g:0.355 m:0.368 ---
+
+pratiṣedhopyanaikāntikaḥ kiñcit pratiṣedhati kiñcinneti anaikāntikatvād asādhaka iti।
+atha vā śabdasyānityatvapekṣe prayatnānantaramutpādo nābhivyaktiriti viśeṣahetvabhāvaḥ, nityatvapakṣepi prayatnānantaramabhivyaktirnotpāda iti viśeṣahetvabhāvaḥ, soyamubhayapakṣasamoviśeṣahetvabhāva ityubhayamapyanaikāntikamiti ।।

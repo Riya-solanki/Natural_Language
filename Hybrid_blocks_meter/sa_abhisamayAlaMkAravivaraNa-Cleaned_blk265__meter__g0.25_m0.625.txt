@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 265 | label: meter | g:0.25 m:0.625 ---
+
+ākārāḥ saprayogāśca guṇā doṣāḥ salakṣaṇāḥ ।
+mokṣanirvedhabhāgīye śaikṣo avaivartiko gaṇaḥ ।।

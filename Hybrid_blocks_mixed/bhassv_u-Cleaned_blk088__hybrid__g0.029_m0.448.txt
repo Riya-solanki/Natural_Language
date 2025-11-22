@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 88 | label: hybrid | g:0.029 m:0.448 ---
+
+{ceṭī} - kīḷadu kīḷadu dāva bhaṭṭidāriā 
+ṇivvattīadu dāva aaṃ kaṇṇābhāvaramaṇīo kāḷo 
+[krīḍatu krīḍatu tāvad bhartṛdārikā । nirvartyatāṃ tāvad ayaṃ kanyābhāvaramaṇīyaḥ kālaḥ । ]

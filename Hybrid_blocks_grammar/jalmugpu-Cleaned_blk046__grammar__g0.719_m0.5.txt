@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 46 | label: grammar | g:0.719 m:0.5 ---
+
+svapne kām api saṃsmaran priya mayā dṛṣṭo asi tat te balād evaṃ māṃ prati sāṃprataṃ kim ucitā niṣkāraṇaṃ vañcanā ।
+taj jāgarmi varaṃ niśāsu yad asau nidrāpi me drohiṇīty ālāpair gaṇikāgaṇena na ca ko viśvāsyate kāmukaḥ ।।

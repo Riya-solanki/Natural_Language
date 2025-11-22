@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 451 | label: meter | g:0.25 m:0.5 ---
+
+māṃ manyate anyaiḥ sadṛśaṃ nūnaṃ śakra bhavān dvijaiḥ 
+ato avamānam asmāsu māninā bhavatā kṛtam ।।

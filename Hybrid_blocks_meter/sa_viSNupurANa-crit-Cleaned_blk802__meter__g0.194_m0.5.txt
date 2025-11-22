@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 802 | label: meter | g:0.194 m:0.5 ---
+
+abhiṣikto yadā rājye sa venaḥ paramarṣibhiḥ 
+ghoṣayām āsa sa tadā pṛthivyāṃ pṛthivīpatiḥ ।।

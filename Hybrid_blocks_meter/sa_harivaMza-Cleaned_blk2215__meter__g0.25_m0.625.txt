@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2215 | label: meter | g:0.25 m:0.625 ---
+
+kāntāreṣv avasannānāṃ mganānāṃ ca mahārṇave 
+dasyubhir vā niruddhānāṃ tvaṃ gatiḥ paramā nṛṇām ।।

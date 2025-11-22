@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 945 | label: meter | g:0.25 m:0.625 ---
+
+kṛte yuge sānnihatyaṃ tretāyāṃ vāyusaṃjñitam ।
+kalidvāparayormadhye kūpaṃ rudrahradaṃ smṛtam ।।

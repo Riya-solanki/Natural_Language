@@ -1,0 +1,5 @@
+--- source: vamkalvu-Cleaned.txt | block: 410 | label: meter | g:0.0 m:1.0 ---
+
+brāhmaṃ sūtramuraḥsthale
+bhramarīmuñjugītayaḥ
+taḍijjaṭilamākāśam iti

@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 206 | label: meter | g:0.28 m:0.542 ---
+
+pino brahmaṇa upāsanāto vikārasaṃskāraprāptayaḥ saṃbhavanti ।
+syādetat ।
+mā bhūdbrahmasākṣātkāra utpādyādirūpa upāsanāyāḥ, saṃskāryastu anirvacanīyā

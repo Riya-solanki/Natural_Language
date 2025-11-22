@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 777 | label: hybrid | g:0.5 m:0.5 ---
+
+atra duṣyantasya nija-citta-santāpa-pratyayena śāpa-vismṛtāyām api śakuntalāyāṃ ratiḥ ।

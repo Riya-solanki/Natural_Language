@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 243 | label: meter | g:0.364 m:0.675 ---
+
+nacānavagataparvatastasyāgnimattāmavadhārayitumalam ।
+yadi cedānīntanaṃ parvatasyāgnimattvaṃ prāgevāvagataṃ syāt tato agnyarthī vinaiva dhūmadarśanenāgnaye parvatamārohet ।
+nahyagnyarthino avagategnau dhūmadarśanenārthaḥ kaścit ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10962 | label: meter | g:0.25 m:0.625 ---
+
+hitāhitopadeṣṭṛtvādbhaktānāṃ hṛdaye sthitaḥ ।
+tataśca gurusaṃjñāṃ cāpyavāpa sa ca mārutaḥ ।।

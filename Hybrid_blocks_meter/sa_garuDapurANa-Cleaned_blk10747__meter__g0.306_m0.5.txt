@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10747 | label: meter | g:0.306 m:0.5 ---
+
+tarhi teṣāṃ hi kāleṣu duḥ khaṃ yāti na saṃśayaḥ ।
+ataḥ prārthakyanayanaṃ ye kurvantyeṣu sarvadā ।।

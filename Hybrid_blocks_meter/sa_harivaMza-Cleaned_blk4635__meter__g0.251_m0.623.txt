@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4635 | label: meter | g:0.251 m:0.623 ---
+
+utpannadoṣaprabhavaḥ kṣayo ayaṃ bhavitā mahān 
+doṣāṇāṃ na bhaven nāśa iti me dhīyate matiḥ ।।

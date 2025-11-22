@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 463 | label: meter | g:0.25 m:0.5 ---
+
+hriyamāṇāvakāśaṃ tu dānaprītyā punaḥ punaḥ ।
+na prasehe manastasya cchedaduḥkhaṃ vigāhitum ।।

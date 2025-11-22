@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 13 | label: hybrid | g:0.476 m:0.5 ---
+
+pūrvaṃ tvayāpy abhimataṃ gatam evam āsīc chlāghyaṃ gamiṣyasi punar vijayena bhartuḥ
+kālakrameṇa jagataḥ parivartamānā cakrārapaṅktir iva gacchati bhāgyapaṅktiḥ ।।

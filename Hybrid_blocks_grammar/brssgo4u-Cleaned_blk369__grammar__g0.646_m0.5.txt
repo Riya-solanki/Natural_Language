@@ -1,0 +1,3 @@
+--- source: brssgo4u-Cleaned.txt | block: 369 | label: grammar | g:0.646 m:0.5 ---
+
+ata eva ca avandhyasaṃkalpatvāt ananya adhipatiḥ vidvān bhavati na asya anyaḥ adhipatiḥ bhavati ityarthaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 596 | label: meter | g:0.328 m:0.595 ---
+
+mūrtau vā sthaṇḍile vāpi kṣipetpuṣpaṃ tu bhāsvaram ।
+āhvānadvārapūjārthaṃ pūjā cādhāraśaktitaḥ ।।

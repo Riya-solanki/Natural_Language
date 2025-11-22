@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 715 | label: meter | g:0.139 m:0.988 ---
+
+dṛśyate hi naktaṃ nayanaraśmayo naktañcarāṇāṃ
+vṛṣadaṃśaprabhṛtīnāṃ tena śeṣasyānumānamiti।
+jātibhedavadindriyabheda iti cet ?, dharmabhedamātraṃ
+cānupapannam āvaraṇasya prāptipratiṣedhārthasya
+darśanāditi ।।

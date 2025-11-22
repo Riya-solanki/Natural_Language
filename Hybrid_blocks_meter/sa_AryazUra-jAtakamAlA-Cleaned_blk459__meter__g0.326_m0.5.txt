@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 459 | label: meter | g:0.326 m:0.5 ---
+
+prītiprakarṣāddhṛtisampadā ca vapurguṇādeva ca tasya rājñaḥ ।
+mamlau na gātraṃ na mumūrcha cetaḥ saṃcikṣipe na kṣatajaṃ kṣaradvā ।।

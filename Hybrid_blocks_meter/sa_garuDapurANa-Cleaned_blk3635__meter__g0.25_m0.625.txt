@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3635 | label: meter | g:0.25 m:0.625 ---
+
+varāhāya namaḥ pādau kroḍākṛtaye namaḥ kaṭim ।
+nābhiṃ gaṃbhīraghoṣayā uraḥ śrīvatsadhāriṇe ।।

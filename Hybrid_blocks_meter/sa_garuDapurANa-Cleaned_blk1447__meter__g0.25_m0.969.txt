@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1447 | label: meter | g:0.25 m:0.969 ---
+
+ādāvoṅkāramuccārya namo ante tarpayāmi ca ।
+devānbrahmaṛṣīṃścaiva tarpayedakṣatodakaiḥ ।।
+pitṝndevānmunīn bhaktyā svasūtroktavidhānataḥ ।।
+devarṣoṃstarpayeddhīmānudakāñjalibhiḥ pitṝt ।
+yajñopavītī devānāṃ nivītī ṛṣitarpaṇe ।।

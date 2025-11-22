@@ -1,0 +1,8 @@
+--- source: brssgo1u-Cleaned.txt | block: 31 | label: hybrid | g:0.415 m:0.355 ---
+
+vicārasya sākṣādviṣayā vedāntāḥ;teṣāṃ gatārthatvāgatārthatvābhyāmārambhasaṃdehe kṛtsnasya vedasya vidhiparatvāt, vidheśca aadhāto brahmajijñāsā'ityādinā pūrvatantreṇa vicāritatvāt, avagatārthā eva vedāntā ityavyavahitaviṣayābhāvānnārambha iti prāpte brūte-vedānteti ।
+vedāntaviṣayakapūjitavicārātmakaśāstrasya vyākhyātumiṣṭasya sūtrasaṃdarbhasyedaṃ prathamasūtramityarthaḥ ।
+yadi vidhireva vedārthaḥ syāttadā sarvajño bādarāyaṇo brahmajijñāsāṃ na brūyāt, brahmaṇi mānābhāvāt ।
+ato brahmaṇo jijñāsyatvoktyā kenāpi tantreṇānavagatabrahmaparavedāntavicāra ārambhaṇīya iti sūtrakṛddarśayati ।
+tacca avyācikhyāsitasya'iti padena bhāṣyakāro babhāṣe ।।
+iti dvitīyavarṇakam ।।

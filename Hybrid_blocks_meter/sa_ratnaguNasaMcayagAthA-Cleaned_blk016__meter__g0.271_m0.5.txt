@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 16 | label: meter | g:0.271 m:0.5 ---
+
+evātmaśānti viharanniha bodhisattvo so vyākṛto puramakehi tathāgatehi 
+na ca manyate ahu samādhitu vyutthito vā kasmārtha dharmaprakṛtiṃ parijānayitvā ।।

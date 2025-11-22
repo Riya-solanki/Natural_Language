@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 513 | label: meter | g:0.234 m:0.595 ---
+
+dilīpasya tu dāyādo mahārājo bhagīrathaḥ 
+yaḥ sa gaṅgāṃ saricchreṣṭhām avātārayata prabhuḥ 
+kīrtimān sa mahābhāgaḥ śakratulyaparākramaḥ । 
+samudram ānayac caināṃ duhitṛtve tv akalpayat ।। 
+tasmād bhāgīrathī gaṅgā kathyate vaṃśacintakaiḥ । 
+bhagīrathasuto rājā śruta ity abhiviśrutaḥ 
+nābhāgas tu śrutasyāsīt putraḥ paramadhārmikaḥ ।।

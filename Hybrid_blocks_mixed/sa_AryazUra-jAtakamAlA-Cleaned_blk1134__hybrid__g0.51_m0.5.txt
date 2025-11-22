@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1134 | label: hybrid | g:0.51 m:0.5 ---
+
+mayi sthite bandhusuhṛdviśiṣṭe tvaṃ kena duḥkhena vanaṃ prayāsi ।
+yannāpahartuṃ prabhutā mama syāddhanena nītyā balasaṃpadā vā ।।

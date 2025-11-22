@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 146 | label: grammar | g:0.562 m:0.5 ---
+
+karmaṇaḥ sato dravyaguṇebhya iti? viśeṣāpekṣā anyatamasya vyavasthāpakaṃ dharmaṃ nopalabha iti buddhiriti।।

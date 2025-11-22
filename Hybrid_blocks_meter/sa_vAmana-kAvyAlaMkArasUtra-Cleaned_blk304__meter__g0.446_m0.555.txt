@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 304 | label: meter | g:0.446 m:0.555 ---
+
+atra bahutvamupameyadharmāṇāmupamānāt । na, viśiṣṭānāmeva mukhānāmupameyatvāt । tādṛśeṣveva kekāvināśasya sambhavāt ।।
+tenādhikarvaṃ vyākhyātam ।।
+tena hīnatvenādhikatvaṃ vyākhyātam । jātipramāṇadharmādhikyamadhikatvamiti । jātyādhikyarūpamadhikatvaṃ yathā

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11565 | label: meter | g:0.25 m:0.5 ---
+
+vakṣyāmi mantraṃ paramādareṇa śṛṇvadya bhaktyā paramādareṇa ।
+antaḥ sthamantyaṃ hyādyasaṃyuktameva sabindu tadvatsparśakādyena yuktam ।।

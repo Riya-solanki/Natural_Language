@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 30 | label: grammar | g:0.635 m:0.5 ---
+
+namo nediṣṭhāya priyadava daviṣṭhāya ca namo namaḥ kṣodiṣṭhāya smarahara mahiṣṭhāya ca namaḥ ।
+namo varṣiṣṭhāya trinayana yaviṣṭhāya ca namo namaḥ sarvasmai te tad idam iti sarvāya ca namaḥ ।।

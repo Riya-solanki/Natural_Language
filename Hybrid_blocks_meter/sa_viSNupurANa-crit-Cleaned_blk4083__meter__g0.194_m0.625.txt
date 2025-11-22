@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4083 | label: meter | g:0.194 m:0.625 ---
+
+prakṛtis tvaṃ parā sūkṣmā brahmagarbhābhavaḥ purā 
+tato vāṇī jagaddhātur vedagarbhātiśobhane ।।

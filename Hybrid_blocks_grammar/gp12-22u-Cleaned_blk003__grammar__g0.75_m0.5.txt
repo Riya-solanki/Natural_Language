@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 3 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha paredyavi ca kathā prathate sma, [] yathā snigdhakaṇṭha uvāca-yadyapi kālenālpena [] ityādi-rītyā varṣa-traya-traya-paryāyeṇa tayor vayo-gaṇanā nirṇītā, tathāpi kaumāraṃ tu varṣam ekam adhikam adhirūḍham, bāla-vatsānāṃ śrīvatsa-vatsasya ca mitho vatsara-viraha-mayānullāsena vyatīta-kṣaṇa-maya-saṃvatsara-kāla-bāla-vatsānurodhena vā tasya stabdhībhāvāt । [] tatas tad-bhāvānugāmitayā rāmasya ca tathā vṛttaṃ sutarām eva vṛttam । tad-anantaram akhaṇḍaṃ paugaṇḍaṃ tu varṣa-dvayenaivāpūryata, cirāl labdha-bandhu-saṃvāsena samyag ullāsena jhaṭiti kaiśora-ghaṭanāt । tathā ca prathāṃ karavāma dhenuka-vadhāvama-dhāma-gamanānte । tad evam eva saṅgacchate kālenālpena ityādi ।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2226 | label: grammar | g:0.625 m:0.5 ---
+
+kāryānurodhāttu tathāpi tasya cakṣuṣpathe hrīvidhuraṃ cacāra । sa cānupaśyannapi taṃ durātmā nimantraṇāmapyakaronna tasya ।।

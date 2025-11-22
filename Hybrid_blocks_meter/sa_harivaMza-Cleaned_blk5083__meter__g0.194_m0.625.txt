@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5083 | label: meter | g:0.194 m:0.625 ---
+
+śvāpadapracuratvaṃ ca gavāṃ caiva parikṣayaḥ 
+svādūnāṃ vinivṛttiś ca vidyād antagate yuge ।।

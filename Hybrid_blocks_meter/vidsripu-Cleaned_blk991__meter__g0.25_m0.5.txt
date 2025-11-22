@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 991 | label: meter | g:0.25 m:0.5 ---
+
+yathaivaiṣa śrīmāṃś caramagirivaprāntalajadhau sudhāsūtiścetaḥ kanakakamalāśaṅki kurute ।
+tathāyaṃ lāvaṇyaprasaramakarandadravatṛṣā- patadbhṛṅgaśreṇīśriyam api kalaṅkaḥ kalayati ।।

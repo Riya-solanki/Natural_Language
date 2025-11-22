@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11172 | label: meter | g:0.306 m:0.5 ---
+
+devastriyo nijabhartṝnvihāyu tatra sthitaṃ prīṇayantyeva nityam ।
+ataśca tāḥ sadhavāḥ sarvadaiva lokairvandyā nātra vicāryamasti ।।

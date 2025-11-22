@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10094 | label: meter | g:0.25 m:0.625 ---
+
+nāsti nārāyaṇasamaṃ na bhūtaṃ na bhaviṣyati ।
+etena satyavākyena sarvārthānsādhayāmyaham ।।

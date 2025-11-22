@@ -1,0 +1,3 @@
+--- source: jsbh2-3u-Cleaned.txt | block: 20 | label: meter | g:0.25 m:0.75 ---
+
+iti caturthaṃ dākṣāyaṇādhikaraṇam ।।

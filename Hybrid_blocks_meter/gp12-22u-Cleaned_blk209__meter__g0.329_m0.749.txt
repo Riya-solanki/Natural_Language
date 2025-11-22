@@ -1,0 +1,10 @@
+--- source: gp12-22u-Cleaned.txt | block: 209 | label: meter | g:0.329 m:0.749 ---
+
+hariṇā halinā saha ripu-dalinā ।
+rajanī-mukham anu jananī-lālanam iti kalitaṃ jita-kalinā ।।
+nirmañchana-nīrājana-mārjana-vadanālokana-racanam ।
+mardana-majjana-saṃvastraṇataḥ paścāt puṇḍraka-sacanam ।।
+rasa-caya-yojana-bhojana-pūraṇa-surabhita-nīrāsvadanam ।
+aguru-drava-yutir atha tāmbūla-svadanaṃ sukha-saṃvadanam ।।
+sukṛti-janaṃ prati śayyā-saṃskṛti-samanujñām anuśayanam ।
+priya-sakha-saṅgatim anu sevy-anugatim anu ca mudām aticayanam ।। iti । [ x ]

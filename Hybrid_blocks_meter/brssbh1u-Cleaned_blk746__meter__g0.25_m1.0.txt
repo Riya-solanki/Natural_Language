@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 746 | label: meter | g:0.25 m:1.0 ---
+
+prajāyanta iti prajā mahadādayaḥ ।
+traiguṇyaṃ sukhaduḥkhamohāḥ ।

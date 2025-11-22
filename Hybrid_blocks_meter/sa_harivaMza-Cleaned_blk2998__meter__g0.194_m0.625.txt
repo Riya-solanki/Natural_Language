@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2998 | label: meter | g:0.194 m:0.625 ---
+
+akartavyaṃ yadi kṛtaṃ vasudevena putrajam 
+kimartham ugrasenena śiśus tvaṃ na vināśitaḥ ।।

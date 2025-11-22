@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 341 | label: hybrid | g:0.448 m:0.445 ---
+
+syāpratyūhamutpatteḥ ।
+tasmāt pauruṣeyatvena sāpekṣatvaṃ durvāraṃ, na tu bhūtārthatvena ।
+kāryā

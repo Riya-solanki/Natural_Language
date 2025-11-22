@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 725 | label: hybrid | g:0.335 m:0.442 ---
+
+na vṛttimātrasya karaṇatvopapatteḥ ।
+yadeva hyupalabdhisādhanaṃ vṛttiranyadvā tasyaiva naḥ karaṇatvaṃ saṃjñāmātre vivāda iti karaṇānāṃ vyāpitvakalpanā nirarthikā ।
+tasmātsūkṣmāḥ paricchinnāśca prāṇā ityadhyavasyāmaḥ ।।

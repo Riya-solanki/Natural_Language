@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 471 | label: meter | g:0.25 m:0.5 ---
+
+asau yadyajayo deva trailokyenāpi suvrataḥ ।
+na sthātuṃ tvatprasādeva śakyaṃ kimu karomyaja ।।

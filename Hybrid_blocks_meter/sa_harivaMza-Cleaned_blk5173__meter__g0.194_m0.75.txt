@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5173 | label: meter | g:0.194 m:0.75 ---
+
+rambhā nāmāpsarā devī kāśirājasutā matā 
+saiṣā yoṣidvarā rājan ratnabhūtānubhūyatām ।।

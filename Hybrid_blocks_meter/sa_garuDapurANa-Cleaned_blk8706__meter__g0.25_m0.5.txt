@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8706 | label: meter | g:0.25 m:0.5 ---
+
+mātaraṃ bhaginīṃ bhāryāṃ snuṣāṃ duhitaraṃ tathā ।
+adṛṣṭadoṣāṃ tyajati sa preto jāyatedhruvam ।।

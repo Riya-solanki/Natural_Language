@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 39 | label: grammar | g:0.594 m:0.5 ---
+
+vāgbhir bhartsanam aṃśukādiharaṇaṃ saṃtāḍanaṃ muṣṭibhiḥ kiṃ cānyad viparītadarśnam adhaskāro atha pādāhatiḥ ।
+ityādi prathamaṃ yadeva surataprauḍhopacārakrame veśyā paśyata tat tad eva kurute nirvāsane kāminām ।।

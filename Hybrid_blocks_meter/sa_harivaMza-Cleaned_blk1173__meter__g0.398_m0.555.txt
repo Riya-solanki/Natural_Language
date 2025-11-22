@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1173 | label: meter | g:0.398 m:0.555 ---
+
+devāntasyābhavat putro vidvān kambalabarhiṣaḥ 
+kroṣṭoḥ putro anamitras tu tasmād vai devamīḍhuṣaḥ । 
+asamaujās tathā vīro nāsamaujāś ca tāv ubhau ।।

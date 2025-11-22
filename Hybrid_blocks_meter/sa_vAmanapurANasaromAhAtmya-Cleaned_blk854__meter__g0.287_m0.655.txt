@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 854 | label: meter | g:0.287 m:0.655 ---
+
+nārya ūcuḥ
+ko asau nāma vratavidhistvayā tāpasa sevyate ।
+yatra nagnena liṅgena vanamālāvibhūṣitaḥ ।
+bhavān vai tāpaso hṛdyo hṛdyāḥ smo yadi manyase ।।

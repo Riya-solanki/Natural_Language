@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8533 | label: meter | g:0.25 m:0.625 ---
+
+yoyo hi nirmitaḥ pūrvaṃ tattatkarma samācaret ।
+kasmiṃścitsamaye tatra brahmā lokasamanvitaḥ ।।

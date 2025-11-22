@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 259 | label: hybrid | g:0.412 m:0.317 ---
+
+asiddhiḥ, anaikāntikatvaṃ, bādhakatvaṃ, ceti trayo hetudoṣāḥ pañcadhā- buddho dharmādharmavedī sarvajñatvāditi svarūpāsiddhiḥ, nahi sarvajñatvasvarūpaṃ kvacidasti? ।
+vahniradāhakaḥ śītatvāditi saṃbandhāsiddhiḥ, śaityasya

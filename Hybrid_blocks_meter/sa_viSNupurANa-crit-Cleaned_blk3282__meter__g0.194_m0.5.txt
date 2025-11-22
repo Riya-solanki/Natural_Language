@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3282 | label: meter | g:0.194 m:0.5 ---
+
+evam eva ca kākatve smāritaḥ sa purātanam 
+tatyāja bhūpatiḥ prāṇān mayūratvam avāpa ca ।।

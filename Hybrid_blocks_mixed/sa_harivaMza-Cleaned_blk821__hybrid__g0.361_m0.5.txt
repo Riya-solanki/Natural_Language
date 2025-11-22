@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 821 | label: hybrid | g:0.361 m:0.5 ---
+
+sa tenaivānubandhena kadācil labhate śamam 
+ya imaṃ śrāvayec chrāddhe pitṝn prīṇāti puṇyakṛt । 
+akṣayaṃ ca pitṝṇāṃ vai prītir bhavati śāśvatī ।। 
+ye paṭhanti ca śṛṇvanti śrāvayanti ca ye dvijān । 
+tato manogatiṃ yāti siddhānāṃ bhuvi durlabhām ।।

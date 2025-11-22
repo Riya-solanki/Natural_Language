@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 194 | label: meter | g:0.194 m:0.625 ---
+
+namas te paramātmātman puruṣātman namo astu te 
+pradhānavyaktabhūtāya kālabhūtāya te namaḥ ।।

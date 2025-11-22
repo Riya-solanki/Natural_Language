@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 218 | label: hybrid | g:0.423 m:0.464 ---
+
+abrahmavidāpnoti param'iti yasya jñānānmuktiruktā, yat asatyam jñānam'iti mantroktaṃ brahma, tadatraiva pucchavākye gīyate brahmapadasaṃyogāt ।
+nānantamayavākya ityarthaḥ ।
+netarau anupapatteḥ ।।

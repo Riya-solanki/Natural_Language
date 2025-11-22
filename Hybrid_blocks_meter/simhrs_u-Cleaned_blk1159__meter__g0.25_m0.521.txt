@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1159 | label: meter | g:0.25 m:0.521 ---
+
+tathā ca bhāratīye -
+nāṭakaṃ saprakaraṇam aṅko vyāyoga eva ca ।
+bhāṇaḥ samavakāraś ca vīthī prahasanaṃ ḍimaḥ ।
+īhāmṛgaś ca vijñeyo daśadhā nāṭya-lakṣaṇam ।।

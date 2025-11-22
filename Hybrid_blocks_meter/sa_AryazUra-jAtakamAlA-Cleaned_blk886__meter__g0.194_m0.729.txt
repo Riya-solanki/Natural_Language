@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 886 | label: meter | g:0.194 m:0.729 ---
+
+nirbhindanniva naḥ śrutīḥ pratibhayaścetāṃsi mathnanniva
+kruddhasyeva saritpaterdhvanirayaṃ dūrādapi śrūyate ।
+bhīme śvabhra ivārṇavasya nipatatyetatsamagraṃ jalaṃ
+tatko asāvudadhiḥ kimatra ca paraṃ kṛtyaṃ bhavānmanyate ।।

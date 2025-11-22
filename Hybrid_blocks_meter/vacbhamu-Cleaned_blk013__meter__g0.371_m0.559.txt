@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 13 | label: meter | g:0.371 m:0.559 ---
+
+aprayojanatvācca ।
+tathā hi- saṃsāranivṛttirapavarga iha prayojanaṃ vivakṣitam ।

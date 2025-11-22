@@ -1,0 +1,14 @@
+--- source: brsvbh3u-Cleaned.txt | block: 305 | label: hybrid | g:0.343 m:0.345 ---
+
+anuṣṭheyaṃ bādarāyaṇaḥ sāmyaśruteḥ ।
+bhavatvanyārthaḥ parāmarśastathāpyetasmādāśramāntarāṇi pratīyamānāni ca nāpākaraṇamarhanti ।
+evaṃ tānyapākriyeranyadyasmānna pratīyeran ।
+pratīyamānāni vā śrutyā bādhyeran ।
+na tāvanna pratīyante ।
+tathāhi-trayo dharmaskandhā iti skandhatritvaṃ pratijñātam ।
+tatra skandhaśabdo yadyāśramaparo na syādapi tu samūhavacanastato dharmāṇāṃ yajñādīnāṃ prātisvikotpattīnāṃ kimapekṣya tritvasaṅkhyā suvyavasthāpyeta ।
+ekaikāśramopasaṃgṛhītāstvāśramāṇāṃ tritvācchakyāstritve vyavasthāpayitumityāśramatritvapratijñopapattiḥ ।
+tatra yajñādiliṅgo gṛhāśrama eko dharmaskandho brahmacārīti dvitīyastapa iti ca, tapaḥpradhānāttu vānaprasthāśramānnānyaḥ, brahmasaṃstha iti ca pāriśeṣyātparivrāḍiti vakṣyati ।
+tasmādanyaparādapi parāmarśādaśramāntarāṇi pratīyamānāni devatādhikaraṇanyāyena na śakyante apākartum ।
+naca pratyakṣaśrutivirodho vīrahā vetyādeḥ pratipannagārhasthyaṃ pramādādajñānādvāgnimudvāsayituṃ pravṛttaṃ pratyupapatteḥ ।
+evañca avirodhe siddhavatparāmarśādaśramāntarāṇāṃ śāstrāntarasiddhiṃ vā kalpayiṣyāmo yathopavītavidhipare vākye aupavyayate devalakṣmameva tatkurute'ityatra nivītaṃ manuṣyāṇāṃ prācīnāvītaṃ pitṛṇāmiti śāstrāntarasiddhayornivītaprācīnāvītayoḥ parāmarśa iti ।।

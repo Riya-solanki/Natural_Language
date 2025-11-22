@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 128 | label: meter | g:0.272 m:0.845 ---
+
+sa naisargika evāsti vikalpe svairacāriṇi ।
+yathābhimatasaṃsthānābhāsanād buddhigocare ।।

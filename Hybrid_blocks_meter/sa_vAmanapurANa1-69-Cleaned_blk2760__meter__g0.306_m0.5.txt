@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2760 | label: meter | g:0.306 m:0.5 ---
+
+śivā sthitā vāmatare atha bhāge prayāti cāgre svanamunnadantī ।
+kravyādasaṃghāś ca tathāmiṣaiṇaḥ prayānti hṛṣṭāstṛṣitāsṛgarthe ।।

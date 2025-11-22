@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 295 | label: grammar | g:0.522 m:0.371 ---
+
+vidhyantaramāha vyūḍha ityādi ।।
+athetyanantaram ।।
+gandhakāśmā gandhapāṣāṇaḥ śataguṇasaṃkhyaṃ yathā syāttathā uttame hemni pūrṇavarṇe vyūḍho nirvāhyaḥ tadgandhavyūḍhaṃ hema sūte pārade piṣṭirbhavati hi niścitaṃ garbhe rasāntardravati garbhadrutir bhavatītyatravismayo ।।

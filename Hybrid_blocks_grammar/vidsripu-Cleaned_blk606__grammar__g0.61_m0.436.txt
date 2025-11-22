@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 606 | label: grammar | g:0.61 m:0.436 ---
+
+kānte talpam upāgate vigalitā nīvī svayaṃ bandhanād vāsaś ca ślathamekhalāguṇadhṛtaṃ kiṃcin nitambe sthitam ।
+etāvat sakhi vedmi kevalam ahaṃ tasyāṅgasaṅge punaḥ ko asau kāsmi rataṃ tu kiṃ katham api svalpāpi me na smṛtiḥ ।।
+vikaṭanitambāyāḥ

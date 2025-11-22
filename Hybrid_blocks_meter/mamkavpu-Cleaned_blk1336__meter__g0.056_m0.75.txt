@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1336 | label: meter | g:0.056 m:0.75 ---
+
+{rājanrājasutā na pāṭhayati māṃ devyo api tūṣṇīṃ sthitāḥ
+kubje bhojaya māṃ kumārasacivairnādyāpi kiṃ bhujyate ।
+itthaṃ nātha śukastavāribhavane muktodhvagaiḥ pañjarāc
+citrasthānavalokya śūnyavalabhāvekaikamābhāṣate ।।}

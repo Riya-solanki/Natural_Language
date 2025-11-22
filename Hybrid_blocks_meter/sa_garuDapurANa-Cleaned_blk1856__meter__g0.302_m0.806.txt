@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1856 | label: meter | g:0.302 m:0.806 ---
+
+strīṣu gamyāsu saktāḥ syuḥ sutārthe parivarjitāḥ ।
+annatairvipulaiḥ śaṅkhairlalāṭairviṣamaistathā ।।

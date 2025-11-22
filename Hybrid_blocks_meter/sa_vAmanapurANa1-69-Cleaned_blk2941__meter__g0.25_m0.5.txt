@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2941 | label: meter | g:0.25 m:0.5 ---
+
+yadi kaściddhi sārathyaṃ kariṣyati mamādhunā ।
+tato ahaṃ ghātaye śatrūn nānyatheti kathañcana ।।

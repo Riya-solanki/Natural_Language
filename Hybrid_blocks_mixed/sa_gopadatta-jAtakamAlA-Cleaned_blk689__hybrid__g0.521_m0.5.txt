@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 689 | label: hybrid | g:0.521 m:0.5 ---
+
+kṛpā kṛpāvastuṣu saṃpratāryate striyaḥ kṛpāvastu viśeṣataḥ satāṃ ।
+ato matir me karuṇānupātinī priyāsu rājan na tu vibhramāturā ।।

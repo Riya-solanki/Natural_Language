@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1535 | label: grammar | g:0.594 m:0.5 ---
+
+na dīnas tvaṃ puṇyaprabhavaramaṇīnāṃ vilasitair virājacchuddhāntas tvam ahimakaraprauḍhamahimā ।
+kvacin na krodhas te svapadajitadevas tvam udadher abhinno api svāmin na kim asi samudraḥ svaviṣaye ।।

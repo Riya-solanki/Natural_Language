@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 343 | label: hybrid | g:0.508 m:0.377 ---
+
+satyam ।
+śarīre bhavati natu śarīra eva bhavati, ajyāyānpṛthivyā jyāyānantarikṣāt', aākāśavatsarvagataśca nityaḥ' iti ca vyāpitatvaśravaṇāt ।
+jīvastu śarīra eva bhavati, tasya bhogādhiṣṭhānāccharīrādanyatra vṛttyabhāvāt ।।

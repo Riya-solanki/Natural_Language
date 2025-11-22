@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7881 | label: meter | g:0.28 m:0.629 ---
+
+vivekapravaṇaṃ śuddhaṃ yathā syātkṛpayā vada ।
+ṛṣiruvāca ।
+manastu prabalaṃ nityaṃ savikāraṃ svabhāvataḥ ।।

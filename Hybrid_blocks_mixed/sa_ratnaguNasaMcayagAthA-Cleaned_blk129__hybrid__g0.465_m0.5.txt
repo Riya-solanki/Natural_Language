@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 129 | label: hybrid | g:0.465 m:0.5 ---
+
+siṃho yathaiva girikandari niśrayitvā nadate achambhi mṛga kṣudraka trāsayanto 
+tatha prajñapāramitaniśraya narāṇa siṃho nadate achambhi pṛthutīrthika trāsayanto ।।

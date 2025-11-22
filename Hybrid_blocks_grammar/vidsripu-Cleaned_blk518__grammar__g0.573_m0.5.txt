@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 518 | label: grammar | g:0.573 m:0.5 ---
+
+gacchantyā muhur arpitaṃ mṛgadṛśā tārasphuradvīkṣaṇaṃ prāntabhrāmyadasañjitabhru yad idaṃ kiṃ tan na jānīmahe ।
+kvāpi svedasamuccayaḥ snapayati kvāpi prakamodgamaḥ kvāpy aṅgeṣu tuṣānalapratisamaḥ kandarpadarpakramaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1354 | label: meter | g:0.25 m:0.625 ---
+
+candre vajraṃ svamātmānaṃ bhāvayaṃ svayamātmanā ।
+patedyatra susaṃkruddhastatkulaṃ patati kṣaṇāt ।।

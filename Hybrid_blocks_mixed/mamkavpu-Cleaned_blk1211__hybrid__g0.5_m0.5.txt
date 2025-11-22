@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1211 | label: hybrid | g:0.5 m:0.5 ---
+
+tadvad dharmasya lope syānna śrautī taddhite punaḥ ।

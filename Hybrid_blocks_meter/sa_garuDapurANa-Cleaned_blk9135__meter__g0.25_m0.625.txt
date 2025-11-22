@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9135 | label: meter | g:0.25 m:0.625 ---
+
+yāvadrajaḥ pramāṇābdaṃsvarge tiṣṭhati bhūmidaḥ ।
+aśvārūḍhāśca te yānti dadate ye hyupānahau ।।

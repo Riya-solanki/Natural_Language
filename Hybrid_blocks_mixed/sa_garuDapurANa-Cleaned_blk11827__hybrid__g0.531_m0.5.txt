@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11827 | label: hybrid | g:0.531 m:0.5 ---
+
+śacīṃ bharyāṃ devarājasya viddhi tasyā hyavatāraṃ śṛṇu samyak khagendra ।
+rāmāvatāre nāma tārā babhūva sā vālipatnī śacīsajakā ca ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8564 | label: meter | g:0.293 m:0.794 ---
+
+śrībhagavānuvāca ।
+chattropānahavastrāṇi mudrikā ca kamaṇḍaluḥ ।
+āsanaṃ bhājanaṃ caiva padaṃ saptavidhaṃ smṛtam ।।

@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 63 | label: meter | g:0.25 m:0.633 ---
+
+nanu śīlasyaiva śrautasya vihitapratiṣddhasya sādhvasādhurūpasya śubhāśubhayonyāpattiḥ phalaṃ bhaviṣyati ।
+avaśyaṃ ca śīlasyāpi kiñcitphalamabhyupagantavyam ।
+anyathā hyānarthakyameva prasajyateti cet ।

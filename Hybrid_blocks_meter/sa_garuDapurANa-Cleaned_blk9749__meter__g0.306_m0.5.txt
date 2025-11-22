@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9749 | label: meter | g:0.306 m:0.5 ---
+
+na teṣāṃ syānnava śrāddhaṃ na saṃskāraḥ sapiṇḍanam ।
+śrāddhāni ṣoḍaśoktāni na bhavanti ca tānyapi ।।

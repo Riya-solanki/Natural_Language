@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2114 | label: meter | g:0.194 m:0.75 ---
+
+stambhasthadarpaṇasyaiti yo ayam āsannatāṃ naraḥ 
+chāyādarśanasaṃyogaṃ sa saṃprāpnoty athātmanaḥ ।।

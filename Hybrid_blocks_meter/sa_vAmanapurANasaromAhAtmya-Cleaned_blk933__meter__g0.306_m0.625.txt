@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 933 | label: meter | g:0.306 m:0.625 ---
+
+ye tu siddhā mahātmānaste liṅgaṃ pūjayanti ca ।
+vrajanti paramāṃ siddhiṃ punarāvṛttidurlabhām ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4051 | label: meter | g:0.25 m:0.5 ---
+
+mṛgarūpaṃ sa mārīcaṃ kṛtvāgre atha tridaṇḍadhṛk ।
+sītayā prerito rāmo mārīcaṃ nijaghāna ha ।।

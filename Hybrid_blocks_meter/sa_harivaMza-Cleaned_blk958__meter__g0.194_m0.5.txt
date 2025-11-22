@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 958 | label: meter | g:0.194 m:0.5 ---
+
+mahāyogī sa tu balir babhūva nṛpatiḥ purā 
+putrān utpādayām āsa pañca vaṃśakarān bhuvi ।।

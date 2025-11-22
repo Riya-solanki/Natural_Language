@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 464 | label: grammar | g:0.535 m:0.348 ---
+
+abhāvaśca svavirodhibhāvanirūpaṇatayā bhāvacchāyānupātīti siddhe siddhavat, sādhye ca sādhyavadbhāsata iti sādhyaviṣayo nañarthaḥ sādhyavadbhāsata iti nañarthaḥ kārya iti bhramaḥ ।
+tadidamāha-nañaścaiṣa svabhāva iti ।
+nanu bodhayatu saṃbandhino abhāvaṃ nañpravṛttyunmukhānāṃ tu manovāgdehānāṃ kuto akasmānnivṛttirityata āha-abhāvabuddhiścaudāsīnya

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6928 | label: meter | g:0.306 m:0.5 ---
+
+varāhaṃ vāmanaṃ viṣṇuṃ nārasiṃhaṃ janārdanam ।
+mādhavaṃ ca prapanno asmi kinno mṛtyuḥ kariṣyati ।।

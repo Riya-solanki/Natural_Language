@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2281 | label: meter | g:0.306 m:0.625 ---
+
+alaṅkāra mahāśobha śobhākara suśobhaka ।
+śuddha sarvārtha śuddhārtha dānacarya namo astu te ।।

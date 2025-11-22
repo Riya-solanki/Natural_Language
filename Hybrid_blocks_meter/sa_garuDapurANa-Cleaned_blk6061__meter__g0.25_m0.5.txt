@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6061 | label: meter | g:0.25 m:0.5 ---
+
+ṣaḍgranthogrā vacā jñeyā śvetā haimavatīti ca ।
+kuṭajo vṛkṣakaḥ śakro vatsako girimāllikā ।।

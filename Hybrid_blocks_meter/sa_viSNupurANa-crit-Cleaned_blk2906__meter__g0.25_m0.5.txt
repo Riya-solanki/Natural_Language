@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2906 | label: meter | g:0.25 m:0.5 ---
+
+viṣṇur attā tathaivānnaṃ pariṇāmaś ca vai yathā 
+satyena tena vai bhuktaṃ jīryatv annam idaṃ tathā ।।

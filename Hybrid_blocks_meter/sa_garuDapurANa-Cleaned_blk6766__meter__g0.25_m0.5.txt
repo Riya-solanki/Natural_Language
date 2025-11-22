@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6766 | label: meter | g:0.25 m:0.5 ---
+
+yo na sarveśvare bhaktastaṃ vidyātpuruṣādhamam ।
+nādhītavedaśāstro api na kṛto adhvarasambhavaḥ ।
+yo bhaktiṃ vahate viṣṇau tena sarvaṃ kṛtaṃ bhavet ।।

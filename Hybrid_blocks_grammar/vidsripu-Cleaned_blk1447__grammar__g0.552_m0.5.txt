@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1447 | label: grammar | g:0.552 m:0.5 ---
+
+gṛhṇāti yuktam itarac ca jahāti dhīmān eṣa svabhāvajanito mahatāṃ vivekaḥ ।
+anyonyamiśritam api vyatiricya śuddhaṃ dugdhaṃ pibaty udakam ujjhati rājahaṃsaḥ ।।

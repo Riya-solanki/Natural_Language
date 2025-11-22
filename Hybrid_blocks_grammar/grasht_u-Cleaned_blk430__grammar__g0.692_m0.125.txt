@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 430 | label: grammar | g:0.692 m:0.125 ---
+
+sarvakāraṇaṃ tīkṣṇamāha krāmatītyādi ।।
+tīkṣṇena lohabhedena rasaḥ krāmati krāmaṇaṃ vidadhāti punas tīkṣṇena kṛtvā grāsaḥ kṣaṇādalpakālato jīryate jāraṇam āpnoti punarhemnaḥ suvarṇasya yonirutpattisthānaṃ tīkṣṇamasti punaḥ rāgān rañjanabhāvān tīkṣṇena kṛtvā raso gṛhṇāti svasmin rāgān dadhātītyarthaḥ ।।

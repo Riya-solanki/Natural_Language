@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1292 | label: hybrid | g:0.521 m:0.5 ---
+
+vipadi dhairyam athābhyudaye kṣamā sadasi vākpaṭutā yudhi vikramaḥ ।
+yaśasi cābhiratir vyasanaṃ śrutau prakṛtisiddham idaṃ hi mahātmanām ।।

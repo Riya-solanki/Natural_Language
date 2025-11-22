@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 807 | label: hybrid | g:0.531 m:0.5 ---
+
+dharmo asya mūlaṃ dhanamasya śākhā puṣpaṃ ca kāmaḥ phalamasya mokṣaḥ ।
+asau sadācārataruḥ sukeśin saṃsevito yena sa puṇyabhokta ।।

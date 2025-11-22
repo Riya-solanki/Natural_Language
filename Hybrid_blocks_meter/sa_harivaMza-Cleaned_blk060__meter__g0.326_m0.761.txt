@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 60 | label: meter | g:0.326 m:0.761 ---
+
+sa dhanvī kavacī jātas tejasā nirdahann iva 
+baddhagodhāṅgulitravān ।
+prajārakṣākṛtotsāhaḥ ।
+pṛthur vainyas tadā cemāṃ rarakṣa kṣatrapūrvajaḥ ।।

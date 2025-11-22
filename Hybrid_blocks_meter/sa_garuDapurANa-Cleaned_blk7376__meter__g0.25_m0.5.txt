@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7376 | label: meter | g:0.25 m:0.5 ---
+
+tasyāṃ baddhakarābhyāṃ ca padbhyāṃ caiva yamānugaiḥ ।
+mucyate pāpakṛnmadhye luṇṭhamānaḥ sa gacchati ।।

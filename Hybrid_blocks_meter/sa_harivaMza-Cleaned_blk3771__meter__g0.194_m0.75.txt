@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3771 | label: meter | g:0.194 m:0.75 ---
+
+paricakrāma taṃ deśaṃ durgasthānadidṛkṣayā 
+upatasthuḥ kulaprāgryā yādavā yadunandanam ।।

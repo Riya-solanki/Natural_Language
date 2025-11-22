@@ -1,0 +1,6 @@
+--- source: tsc_simu-Cleaned.txt | block: 9 | label: meter | g:0.088 m:0.831 ---
+
+aśabdamasparśamarūpamavyayaṃ
+yathā ca nityaṃ rasagandhavarjitam ।
+anādimadhyaṃ mahataḥ paraṃ dhruvam
+pradhānametat pravadanti sūrayaḥ ।। iti

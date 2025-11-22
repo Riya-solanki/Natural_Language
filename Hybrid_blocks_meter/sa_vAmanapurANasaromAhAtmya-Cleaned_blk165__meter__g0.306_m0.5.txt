@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 165 | label: meter | g:0.306 m:0.5 ---
+
+sūryodaye yathā pūrvaṃ tathā gacchanti na grahāḥ ।
+devānāṃ ca parā lakṣmīḥ karaṇenānumīyate ।।

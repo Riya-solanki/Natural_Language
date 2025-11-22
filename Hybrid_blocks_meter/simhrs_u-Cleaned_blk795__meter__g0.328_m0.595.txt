@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 795 | label: meter | g:0.328 m:0.595 ---
+
+aṅkura-pallava-kalikā-praspunaphalabhoga-bhāg iyaṃ kramaśaḥ ।
+premā mānaḥ praṇayaḥ sneho rāgo' nurāgaś ca ।।

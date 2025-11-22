@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 779 | label: meter | g:0.302 m:0.806 ---
+
+darśanānmuktimāpnoti sarvapātakavarjitaḥ ।
+yastatra tarpayet devān pitṝṃś ca śraddhayāntavitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 32 | label: hybrid | g:0.441 m:0.464 ---
+
+tatra phalabhūmagarīyastvāt, ekaśabdopādānābhāvāt, satrivat pratyekaṃ sādhanaśaktyavagamāt sarvebhyaḥ pṛthak phalam iti pakṣaḥ ।
+atha vāruṇādinyāyenaikavākyopā-

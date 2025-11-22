@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 268 | label: grammar | g:0.625 m:0.5 ---
+
+pitruddeśena ca yāgajapahomopavāsādi gurum ārādhya avaśyaṃ vidhātavyam ity uktam śrīmahākule āsūtrite bhāgalupte yatheṣṭarajasānvite ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1388 | label: grammar | g:0.552 m:0.5 ---
+
+tasyopapattisamakālam athoccacāra lokaṃ sphuran dhvanir iti śravaṇopakārī ।
+yaḥ pāpy ayaṃ kuru puro bhajanaṃ ca tasya māṃsāsṛjau samupayujya śivaṃ bhajadhvam ।।

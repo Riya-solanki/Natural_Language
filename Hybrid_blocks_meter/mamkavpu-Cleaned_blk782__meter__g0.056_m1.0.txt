@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 782 | label: meter | g:0.056 m:1.0 ---
+
+{akalitatapastejovīryaprathimni yaśonidhā-
+vavitathamadādhmāte roṣānmunāvabhigacchati ।
+abhinavadhanurvidyādarpakṣamāya ca karmaṇe
+sphurati rabhasātpāṇiḥ pādopasaṃgrahaṇāya ca ।।}

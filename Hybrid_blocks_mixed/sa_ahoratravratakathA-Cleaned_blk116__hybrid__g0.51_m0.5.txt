@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 116 | label: hybrid | g:0.51 m:0.5 ---
+
+stūpāṅgaṇaṃ dhātuvaraṃ vihāraṃ ye śodhayantīha narāḥ prayatnaiḥ ।
+nirmālyam ebhyaś ca samuddharanti te hemavarṇāḥ sudṛśo bhavanti ।।

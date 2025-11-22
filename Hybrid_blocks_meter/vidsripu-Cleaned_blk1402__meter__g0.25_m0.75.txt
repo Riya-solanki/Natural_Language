@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1402 | label: meter | g:0.25 m:0.75 ---
+
+malīmasena dehena pratigeham upasthitāḥ ।
+ātmanaivātmakathakā vayaṃ vāyasavṛttayaḥ ।।

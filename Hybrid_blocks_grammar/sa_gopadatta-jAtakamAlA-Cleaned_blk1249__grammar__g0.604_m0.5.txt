@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1249 | label: grammar | g:0.604 m:0.5 ---
+
+taṃ kila mahātmānam anyatamaḥ pārthivo atṛptaḥ svarājyaśriyā parityaktadharmayaśāḥ sukhasādhanopāyadāruṇaḥ svarājyād uccālayitum upacakrame ।

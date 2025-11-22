@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1928 | label: hybrid | g:0.5 m:0.5 ---
+
+taṃ mātā prāha vacanaṃ kṛte karmaṇi padmabhūḥ ।
+vakṣyate tava yo ayaṃ hi mahātmā garuḍadhvajaḥ ।।

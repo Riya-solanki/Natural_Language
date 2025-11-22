@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5093 | label: meter | g:0.194 m:0.5 ---
+
+bhaviṣyaty aphalo harṣaḥ krodhaś ca saphalo nṛṇām 
+ajāś caivopayokṣyante payaso arthe yugakṣaye ।।

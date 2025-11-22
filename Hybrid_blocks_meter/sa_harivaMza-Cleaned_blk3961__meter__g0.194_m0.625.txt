@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3961 | label: meter | g:0.194 m:0.625 ---
+
+athāśmakānām adhipo veṇudārir udāradhīḥ 
+akṣaḥ śrutarvā cāṇūraḥ krāthaś caivāṃśumān api ।।

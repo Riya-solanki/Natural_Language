@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5475 | label: meter | g:0.306 m:0.5 ---
+
+yaḥ pumānmaithunaṃ gacchennānyāṃ nārīṃ gamiṣyati ।
+śaṅkapuṣpī vacā māṃsī soma rājī ca phalgukam ।।

@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 373 | label: meter | g:0.333 m:0.5 ---
+
+tataḥ praviśati saṃbhrāntā jayadrathamātā duḥśalā ca । ubhe sāsraṃ duryodhanasya pādayoḥ patataḥ

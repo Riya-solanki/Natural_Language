@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11860 | label: meter | g:0.457 m:0.571 ---
+
+garuḍa uvāca ।
+bhāryādvayaṃ kiṃ vada tvaṃ mamāpi tayoḥ svarūpaṃ kiṃ vada tvaṃ murāre ।
+tayormadhye grāhyabhāryāṃ vada tvamagrāhyabhāryāṃ cāpi samyagvada tvam ।।

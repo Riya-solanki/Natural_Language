@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 67 | label: meter | g:0.194 m:0.75 ---
+
+tadīśānairgaṇairdevair munibhiśca tadicchayā ।
+vijñāya sambhṛtaṃ svoktyā tādākhyaṃ samupāgatam

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1520 | label: meter | g:0.194 m:0.5 ---
+
+jagataḥ prathamaṃ bhāgaṃ saumyaṃ śaityamayaṃ rasam 
+dadṛśur dānavāḥ somaṃ himapraharaṇaṃ sthitam ।।

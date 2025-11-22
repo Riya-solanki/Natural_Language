@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3340 | label: hybrid | g:0.5 m:0.5 ---
+
+evaṃ guṇo abhṛd danupuṅgavo asau balirmahātmā śubhabuddhirātmavān ।
+yajvā tapasvī mṛdureva satyavāk dātā vibhartā svajanābhigoptā ।।

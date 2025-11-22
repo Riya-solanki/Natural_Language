@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 433 | label: meter | g:0.329 m:0.558 ---
+
+atha narma-sphoṭaḥ -
+narma-sphoṭas tu bhāvāṃśaiḥ sūcito' lpa-raso bhavet । 
+anyais tv akāṇḍe sambhoga-viccheda iti gīyate ।। ādyo yathā-
+snigdhaṃ vīkṣitam anyato' pi nayane yat prerayantyā tayā
+yātaṃ yac ca nitambayor gurutayā mandaṃ vilāsād iva ।
+mā gā ity uparuddhayā yad api sā sāsūyam uktā sakhī
+sarvaṃ tat kila mat-parāyaṇam aho kāmī svatāṃ paśyatī ।।

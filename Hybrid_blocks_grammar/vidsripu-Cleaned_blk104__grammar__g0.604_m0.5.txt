@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 104 | label: grammar | g:0.604 m:0.5 ---
+
+arciṣmanti vidārya vaktrakuharāṇy ā sṛkkaṇo vāsukes tarjanyā viṣakarburān gaṇayataḥ saṃspṛśya dantāṅkurān ।
+ekaṃ trīṇi navāṣṭa sapta ṣaḍ iti vyastāstasaṃkhyākramā vācaḥ śaktidharasya śaiśavakalāḥ kurvantu vo maṅgalam ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 806 | label: meter | g:0.25 m:0.582 ---
+
+sapta vyādhā daśārṇeṣu mṛgāḥ kālaṃjare girau 
+haṃsāḥ sarasi mānase ।
+te sma jātāḥ kurukṣetre brāhmaṇā vedapāragāḥ । 
+prasthitā dūram adhvānaṃ ।
+cakravākāḥ sarid dvīpe yūyaṃ tebhyo avasīdatha ।।

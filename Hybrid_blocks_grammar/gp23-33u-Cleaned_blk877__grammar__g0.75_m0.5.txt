@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 877 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhukaṇṭha uvāca-tataś ca sarva-sukhārāmābhyāṃ śrī-rohiṇīm ābhyāṃ gopocita-veṣādy-abhiniveśa-labdha-sakhi-gaṇa-praveśoddhavenoddhavena ca sārdham asminn eva goloka-nāmake parama-duravaloke loke parama-vibhavavatāṃ bhavatāṃ madhye vibhavann eva so' yaṃ virājate ।

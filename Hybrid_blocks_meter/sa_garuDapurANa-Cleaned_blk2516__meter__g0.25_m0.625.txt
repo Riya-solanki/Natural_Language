@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2516 | label: meter | g:0.25 m:0.625 ---
+
+cākṣuṣāḥ karmaniṣṭhāśca pavitrā bhrājinastathā ।
+vacovṛddhā devagaṇāḥ pañca proktāstu saptakāḥ ।।

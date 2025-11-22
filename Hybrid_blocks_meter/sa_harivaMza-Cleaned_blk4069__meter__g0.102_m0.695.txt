@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4069 | label: meter | g:0.102 m:0.695 ---
+
+candanāgarukāṣṭhāni tathā kālīyakāny api 
+vasu yat triṣu lokeṣu dharmeṇādhigataṃ tvayā 
+prāpayiṣyāma tat sarvaṃ vṛṣṇyandhakaniveśanam ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 316 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra goṣṭhād bahir lambhita-muhur-upaṣṭambhānāṃ dohanādi-karmaṇā gavāṃ tarṇakādīnām api śarma nirmāya, dugdhāya janān puro vidhāya, savayobhiḥ savayobhir āvṛtau sarveṣāṃ madhya-vṛttau suvṛttau gopuram āvrajantau gṛhāya vrajantau, svakula-yaśodādi-purandhrī-rāji-nīrājitau rājitau lājādibhir abhivṛṣṭau samam eva samasta-nayana-dṛṣṭau, goṣṭhābhyantaraṃ praviṣṭau samam eva nija-nija-preyasī-samākṛṣṭi-paṭu-dṛṣṭi-viśiṣṭau nihata-danujau rāma-rāmānujau caraṇa-mārjana-vījanādibhir viśaśramatuḥ ।

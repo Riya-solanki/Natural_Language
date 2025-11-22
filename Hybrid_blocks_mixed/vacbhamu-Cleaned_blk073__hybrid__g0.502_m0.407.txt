@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 73 | label: hybrid | g:0.502 m:0.407 ---
+
+tatkṛtena doṣeṇa guṇena vā aṇumātreṇāpi sa na saṃbadhyate, antaḥkaraṇādidoṣeṇāśanāyādinā cidātmā, cidātmano guṇena caitanyānandādinā antaḥkaraṇādi na saṃbadhyate ।
+etaduktaṃ bhavati - tattvāvadhāraṇābhyāsasya hi svabhāva eva sa tādṛśaḥ, yadanādimapi nirūḍhanibiḍavāsanamapi mithyāpratyayamapanayati ।
+tattvapakṣapāto hi svabhāvo dhiyām, yathāhurbāhyā api

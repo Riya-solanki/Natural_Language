@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 418 | label: meter | g:0.062 m:0.637 ---
+
+{bandīkṛtya nṛpa dviṣāṃ mṛgadṛśastāḥ paśyatāṃ preyasāṃ
+śliṣyanti praṇamanti lānti paritaścumbanti te sainikāḥ ।
+asmākaṃ sukṛtairdṛśornipatitosyaucityavārāṃnidhe
+vidhvastā vipadokhilāstaditi taiḥ pratyarthibhiḥ stūyase ।।}

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 516 | label: hybrid | g:0.5 m:0.5 ---
+
+[] dūta uvāca-"tataḥ sā nava-sutā sutarāṃ guptāpi rudatī rakṣibhir akṣibhir alakṣitāpi viditā, veditā cāntaḥ-purīśaya-sānuśaya-durāśaya-durīśāya । sa ca śrī-devakī-devī-vivāha-gatāham ārabhya nabhaḥ-sabhya-jana-vāṇītaḥ suṣṭhu bhītaḥ satataṃ vyagratayā jāgrad eva tiṣṭhati । tatas tad-vacana-varṇākarṇana-mātreṇa samagra-vyagra-manāḥ vikṣipta-keśaḥ sa bhojeśaḥ sa-karavālaḥ karālaḥ skhalad-gatiḥ kumatiḥ sūtikāgāram āsasāra ।"

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 961 | label: meter | g:0.194 m:0.729 ---
+
+paricitam api śrutvā vādyadhvaniṃ rajanīkṣaye
+bhavati sahasā yāsāṃ trāso gṛheṣu savepathuḥ ।
+madanavihatās tā gacchanti kṣapāsv abhisārikā
+bahalatimiracchannān deśāñ chivārutabhīṣaṇān ।।

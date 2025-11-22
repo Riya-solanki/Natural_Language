@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 125 | label: meter | g:0.102 m:0.5 ---
+
+tat krameṇa vivṛddhaṃ tu jalabudbudavat samam 
+bhūtebhyo aṇḍaṃ mahābuddhe bṛhat tad udakeśayam 
+prākṛtaṃ brahmarūpasya viṣṇoḥ sthānam anuttamam ।।

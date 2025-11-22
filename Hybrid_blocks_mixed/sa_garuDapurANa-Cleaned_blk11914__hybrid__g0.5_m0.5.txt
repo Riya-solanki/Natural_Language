@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11914 | label: hybrid | g:0.5 m:0.5 ---
+
+tadbhaktavaryaiḥ śūrpamadhye ca tīre saṃsevayitvā vidyamāno gṛhesve ।
+yadā tadā yamadūtaiśca baddhvā saṃtāḍyamāno yamamārge mahadbhiḥ ।।

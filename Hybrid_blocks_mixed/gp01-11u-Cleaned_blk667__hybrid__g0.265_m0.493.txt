@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 667 | label: hybrid | g:0.265 m:0.493 ---
+
+sānandaṃ nanda-rājena tadā munir agadyata ।
+"lagnaṃ hṛdi na lagnaṃ naḥ, sarvajñas tad bhavān gatiḥ ।। [anuṣṭubh]

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5690 | label: meter | g:0.25 m:0.695 ---
+
+harītakīviḍaṅgañca haridrā sitasarṣapāḥ ।
+somarājasya mūlāni karañjasya ca raundhavam ।
+gomūtrapiṣṭānyetāni kuṣṭharogaharāṇi vai ।।

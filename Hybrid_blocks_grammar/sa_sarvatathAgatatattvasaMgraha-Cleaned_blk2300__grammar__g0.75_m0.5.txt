@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2300 | label: grammar | g:0.75 m:0.5 ---
+
+atha tat ākāśagarbhahṛdayātsa eva bhagavān vajrapāṇiḥ samantaraśmijvālāgarbhā vicitravajramaṇiratnābhiṣekādyābharaṇālaṅkārālaṅkṛtakāyā mahavajramaṇiratnacinhamudrāvyagrakarā mahābodhisatvakāyā bhūtvā viniḥsṛtya, sarvalokadhātuṣu mahāratnavarṣādibhiḥ ratnotpattibhiḥ santoṣya, punarāgatya, bhagavato vairocanasya sarvato vajradhātumahāmaṇḍalayogena candramaṇḍalāśritā bhūtvedamudānamudānayiṃsuḥ ।

@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 995 | label: grammar | g:0.583 m:0.5 ---
+
+atra kevalavadhūpātānapariṇāmatvena labhdagarhāṇāṃ dhātuvādādīnāṃ tulyakakṣyānikṣepānnāyaketararājāśrayaṇasya sāmyaṃ nindārthaṃ pratīyata iti seyaṃ tathoktā ।

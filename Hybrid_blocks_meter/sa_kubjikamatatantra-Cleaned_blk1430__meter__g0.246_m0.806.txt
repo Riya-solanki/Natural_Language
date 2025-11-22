@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1430 | label: meter | g:0.246 m:0.806 ---
+
+paripakvaphalaṃ yadvat susvādaguṇasaṃyutam 
+tadvac chiṣyo api kālena samastārthavido bhavet ।।

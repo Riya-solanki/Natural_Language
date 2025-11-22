@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 1032 | label: grammar | g:0.562 m:0.475 ---
+
+taccāha varjitetyādi ।।
+varjitacintākopa iti cintā ca kopaśceti cintākopau tau varjitau yena saḥ evaṃvidhaḥ san sukhāmbunā sukhoṣṇāmbunā snānaṃ kuryāt ।।
+graharākṣasabhūtāni noccāṭayet grahaṇādgrahāḥ piśācādayaḥ jvaro rogarājaḥ rākṣasāḥ kravyādāḥ bhūtāni devayonayaḥ etāni noccāṭayet svasthānānna cālayet ।।
+punarmātṛdevīṃśca mātaraḥ saptamātaraḥ devyo dakṣiṇyādayaḥ tā api noccāṭayet ।।

@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 768 | label: meter | g:0.27 m:0.787 ---
+
+ākāśo vyapadeśāt ।
+chāndogyamudāharatiākāśa iti ।
+yathopakramabalājjyotiḥśrutibādhastathākāśopakramādbrahmādiśabdabādha iti dṛṣṭāntena pūrvapakṣayati-bhūteti ।
+śrutairguṇairākāśopāstirnirguṇabrahmajñānaṃ cetyubhayatra phalam ।
+aākāśastalliṅgāt'

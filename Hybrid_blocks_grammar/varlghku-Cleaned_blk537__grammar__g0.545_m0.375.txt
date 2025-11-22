@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 537 | label: grammar | g:0.545 m:0.375 ---
+
+vibhāṣeṭaḥ ।।
+iṇaḥ paro ya iṭ tataḥ pareṣāṃ ṣīdhvaṃluṅliṭāṃ dhasya vā ḍhaḥ । kāmayiṣīḍhvam, kāmayiṣīdhvam । kamiṣīṣṭa ।।

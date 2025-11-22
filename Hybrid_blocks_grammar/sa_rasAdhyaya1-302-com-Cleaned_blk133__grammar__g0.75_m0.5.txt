@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 133 | label: grammar | g:0.75 m:0.5 ---
+
+evaṃ saptadināni yadi marditaḥ pārado bhavati tadā kāñjikena kharalo bhriyate punaḥ śanairmṛdyate tato vastravartayaḥ kṣiptvā tathā mucyante tathā vartiprāntāḥ bhūmau laganti ।।

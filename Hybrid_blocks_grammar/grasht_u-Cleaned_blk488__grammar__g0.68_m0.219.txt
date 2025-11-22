@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 488 | label: grammar | g:0.68 m:0.219 ---
+
+sadrāvakaṃ śodhakagaṇamāha sūryāvarta ityādi ।।
+sūryaṃ prati āvartako bhramaṇaṃ yasyetyevaṃvidhaḥ kadalī rambhā vandhyā phalarahitā karkoṭī kośātakī jālinī suradālī devadālī śigruḥ saubhāñjanaṃ vajrakando vadasūraṇakandaḥ nīrakaṇā jalapippalī kākamācī vāyasī iti gaṇaḥ śodhanadrāvaṇayogya iti ।।
+śodhanadrāvakāṇāṃ śodhanadrāvaṇavidhānam āha āsāmityādi ।।
+āsāṃ pūrvauṣadhīnāṃ madhyāt ekarasena ekasyā rasena rasoparasā vaikrāntādayo'ṣṭau rasāḥ gandhakādayo aṣṭāvuparasāḥ bahuśo'nekavāraṃ bhāvitā gharmapuṭitāḥ kāryāḥ punarlavaṇakṣārāmlabhāvitāśca lavaṇāni sauvarcalādīni ṣaṭ kṣārāḥ svarjikādayaḥ amlā jambīrādayaḥ tairbahuvāraṃ bhāvitās tīvragharmapuṭitā rasoparasāḥ śudhyanti doṣavarjitā bhavanti punaste dhmātāḥ santaḥ satvāni svīyasārāṇi muñcanti tyajantīti ।।

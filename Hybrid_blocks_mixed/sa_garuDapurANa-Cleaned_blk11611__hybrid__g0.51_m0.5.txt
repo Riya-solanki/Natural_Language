@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11611 | label: hybrid | g:0.51 m:0.5 ---
+
+hiraṇyākṣo mātaraṃ prāha jālaṃ hitvā viṣṇorbhajane alaṃ kuruṣva ।
+mayisnehaṃ putrahetorvirūḍhaṃ sukhaduḥ khe ceha loke paratra ।।

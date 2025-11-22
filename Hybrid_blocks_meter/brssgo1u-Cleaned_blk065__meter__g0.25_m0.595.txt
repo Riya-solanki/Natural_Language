@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 65 | label: meter | g:0.25 m:0.595 ---
+
+kathaṃ punarbrahmaṇaḥ sāstrapramāṇakatvamucyate, yāvatā, a āmnāyasya kriyārthatvādānarthakyamatadarthānām' ।
+iti kriyāparatvaṃ śāstrasya pradarśitim ।
+ato vedāntānāmānarthakyaṃ, akriyārthatvāt ।

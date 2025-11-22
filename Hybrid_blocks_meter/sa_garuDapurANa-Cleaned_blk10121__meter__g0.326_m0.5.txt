@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10121 | label: meter | g:0.326 m:0.5 ---
+
+tataḥ paraṃ viṣṇupurāṇamāhustataḥ paraṃ gāruḍasaṃjñakaṃ ca ।
+trīṇyeva mukhyā ni kalau nṛṇāṃ tu tathā viśeṣo gāruḍe kiñcidasti ।।

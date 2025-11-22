@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5042 | label: meter | g:0.194 m:0.625 ---
+
+rājasūyo hi somena śrūyate pūrvam āhṛtaḥ 
+tasyānte sumahadyuddham abhavat tārakāmayam ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1815 | label: grammar | g:0.75 m:0.5 ---
+
+bodhisattvaḥ kilāyaṃ bhagavān dhyānābhyāsopacitasya kuśalasya karmaṇo vipākaprabhāvād brahmaloke janma pratilebhe । tasya tanmahadapi dhyānaviśeṣādhigataṃ brāhmaṃ sukhaṃ pūrvajanmasu kāruṇyaparicayānnaiva parahitakaraṇavyāpāranirutsukaṃ manaścakāra ।

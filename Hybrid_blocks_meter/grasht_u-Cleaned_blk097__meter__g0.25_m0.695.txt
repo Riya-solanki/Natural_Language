@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 97 | label: meter | g:0.25 m:0.695 ---
+
+yasyopajīvyate kīrtiḥ saṅgameva sudhābhujām ।
+sa śrīmān kārayāmāsa vṛttiṃ mugdhāvabodhinīm ।।
+āryādvayena rasāṣṭādaśasaṃskāroddeśaḥ kṛtaḥ ।।

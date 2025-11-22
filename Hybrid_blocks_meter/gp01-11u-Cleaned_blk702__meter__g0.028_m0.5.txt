@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 702 | label: meter | g:0.028 m:0.5 ---
+
+[] atha bālyacāpalyaṃ cāvakalyatām
+daṃṣṭrāṃ dhitsati daṃṣṭriṇaḥ phaṇi-pater udyat-phaṇāṃ śṛṅgiṇaḥ
+śṛṅgaṃ prajvalad-arciṣaṃ huta-bhujaḥ koṭiṃ ca khaḍgādinaḥ ।
+itthaṃ bhrātṛ-yugaṃ nivartitam api prāgalbhyam evāsadan
+mātros tena samasta-vismṛtir abhūd gehe' pi dehe' pi ca ।। [śārdula]

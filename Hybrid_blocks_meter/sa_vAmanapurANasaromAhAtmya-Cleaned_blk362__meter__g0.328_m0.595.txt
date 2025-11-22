@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 362 | label: meter | g:0.328 m:0.595 ---
+
+sa viṣṇuḥ sa vṛṣo brahma candrākrajyotireva ca ।
+viśvāvāsaṃ viśvarūpaṃ viśvātmānamanīśvaram ।।

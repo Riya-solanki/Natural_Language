@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3701 | label: meter | g:0.25 m:0.871 ---
+
+puṃnāgatālībahulaṃ drākṣāvanaghanaṃ kvacit 
+susaṃnaddhair balais tatra tadā nṛpavarottamāḥ । 
+anūpaṃ sindhurājasya prapedur yadupuṃgavāḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 480 | label: meter | g:0.0 m:0.75 ---
+
+eraṇḍa urubūkaśca rucakaścitrakaśca saḥ

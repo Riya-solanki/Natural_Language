@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 52 | label: grammar | g:0.562 m:0.5 ---
+
+ye tvāṃ muktadhvanim asahanāḥ kāyabhaṅgāya tasmin darpotsekād upari śarabhā laṅghayiṣyanty alaṅghyam ।
+tān kurvīthās tumulakarakāvṛṣṭihāsāvakīrṇān ke vā na syuḥ paribhavapadaṃ niṣphalārambhayatnāḥ ।।

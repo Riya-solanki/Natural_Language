@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1923 | label: meter | g:0.25 m:0.5 ---
+
+prītau svas tava yuddhena ślāghyas tvaṃ mṛtyur āhave 
+āvāṃ jahi na yatrorvī jalena samabhiplutā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 607 | label: meter | g:0.194 m:0.5 ---
+
+eteṣāṃ mānasī kanyā menā nāma mahāgireḥ 
+patnī himavataḥ śreṣṭhā yasyā maināka ucyate ।।

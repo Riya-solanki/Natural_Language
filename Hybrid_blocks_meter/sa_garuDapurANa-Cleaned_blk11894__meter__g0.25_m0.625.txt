@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11894 | label: meter | g:0.25 m:0.625 ---
+
+vivāhamaiñjīdivase mūḍhabuddhe jugusitāndhārayitvā subhaktyā ।
+varārārtikaṃ kāṃsyapātre nidhāya kṛtvārtikyaṃ udaudaiti śabdam ।।

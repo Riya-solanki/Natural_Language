@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 320 | label: meter | g:0.139 m:0.969 ---
+
+pramāṇaṃ yathā,
+neṣṭā yad aṅgini rase kavibhir paroḍhā
+tad gokulāmbujadṛśāṃ kulam antarena ।
+āśāṃsayā rasavidher avatāritānāṃ
+kaṃsāriṇā rasikamaṇḍalaśekhareṇa ।।[] iti ।

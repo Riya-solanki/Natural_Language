@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3401 | label: grammar | g:0.75 m:0.5 ---
+
+sa cekṣvākur aṣṭakāyām utpādya śrāddhārhaṃ māṃsam ānayeti vikukṣim ājñāpayām āsa । sa tatheti gṛhītājño vanam abhyetyānekān mṛgān hatvātiśrānto atikṣutparīto vikukṣir ekaṃ śaśam abhakṣayat । śeṣaṃ ca māṃsam ānīya pitre nivedayām āsa ।।

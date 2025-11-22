@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1671 | label: meter | g:0.194 m:0.625 ---
+
+vedasiddhāḥ paśus cordhve ūrdhvaṃ vāme paśutvatā 
+vāmaṃ dakṣiṇamārgasya dakṣiṇaṃ kulaśāsane ।।

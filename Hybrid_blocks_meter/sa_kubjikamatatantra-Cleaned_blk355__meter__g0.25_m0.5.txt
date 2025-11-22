@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 355 | label: meter | g:0.25 m:0.5 ---
+
+sā tu jñeyā varārohe bhedāḥ pañcāśa suvrate 
+kulaṃ tu ṣaḍvidhaṃ jñeyaṃ tasya vakṣyāmi lakṣaṇam ।।

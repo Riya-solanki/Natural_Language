@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4519 | label: meter | g:0.194 m:0.5 ---
+
+jānāmi bhārate vaṃśe jātaṃ pārthaṃ tavāṃśakam 
+tam ahaṃ pālayiṣyāmi yāvat sthāsyāmi bhūtale ।।

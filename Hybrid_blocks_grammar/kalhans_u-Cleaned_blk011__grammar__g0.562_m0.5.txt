@@ -1,0 +1,4 @@
+--- source: kalhans_u-Cleaned.txt | block: 11 | label: grammar | g:0.562 m:0.5 ---
+
+tadvītavyatirekam adritanayādehena miśrībhavan niṣpratyūham iha vyapohatu vapuḥ sthāṇor abhadrāṇi vaḥ ।
+veṇyā bhogivadhūśarīrakuṭilaśyāmatviṣā veṣṭitā jūṭāher api yatra bhāti dayitāmūrtyeva pṛktā tanuḥ ।।

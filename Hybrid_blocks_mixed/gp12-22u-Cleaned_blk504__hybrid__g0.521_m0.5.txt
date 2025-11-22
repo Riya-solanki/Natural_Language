@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 504 | label: hybrid | g:0.521 m:0.5 ---
+
+[] kaṃsa uvāca-na jānāsi? mamānvag-bhūya sthitaṃ viśiṣṭaṃ kiṃ vāvaśiṣṭam?

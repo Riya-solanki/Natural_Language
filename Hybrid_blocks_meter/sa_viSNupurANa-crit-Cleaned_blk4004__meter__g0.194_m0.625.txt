@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4004 | label: meter | g:0.194 m:0.625 ---
+
+ādityā marutaḥ sādhyā rudrā vasvaśvivahnayaḥ 
+pitaro ye ca lokānāṃ sraṣṭāro atripurogamāḥ ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 64 | label: grammar | g:0.656 m:0.5 ---
+
+{pīno devadatto divā na bhuṅkte} ityatra ca rātribhojanaṃ na lakṣyate śrutārthāpatterarthāpattervā tasya viṣayatvāt ।
+{gaṅgāyāṃ ghoṣaḥ} ityatra taṭasya ghoṣādhikaraṇatvasiddhaye gaṅgāśabdaḥ svārthamarpayati ityevamādau lakṣaṇenaiṣā lakṣaṇā । ubhayarūpā ceyaṃ śuddhā । upacāreṇāmiśritatvāt ।

@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 182 | label: meter | g:0.25 m:0.75 ---
+
+dhāmaśaṅkuṣu lokeśān pradoṣe prativāsaram ।
+bāhyāvṛtau tadastrāṇi yajedantarghanacchadam ।
+kṣetrapālaṃ svadigbhāge parvasu kṣetranemigān ।

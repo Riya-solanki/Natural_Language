@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 531 | label: meter | g:0.139 m:0.844 ---
+
+vipattitaḥ, yathā-
+hā hā dhik para-gṛha-vāsa-dūṣaṇaṃ yad
+vaidehyāḥ praśamitam adbhutair upāyaiḥ ।
+etat tat punar api daiva-durvipākād
+ālarkaṃ viṣam iva sarvataḥ prasṛptam ।।

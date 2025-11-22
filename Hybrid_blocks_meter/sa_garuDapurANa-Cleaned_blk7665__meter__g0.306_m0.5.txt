@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7665 | label: meter | g:0.306 m:0.5 ---
+
+prathame ahni tṛtīye vā saptame navame tathā ।
+asthisaṃcayanaṃ kāryaṃ dine tadgotrajaiḥ saha ।।

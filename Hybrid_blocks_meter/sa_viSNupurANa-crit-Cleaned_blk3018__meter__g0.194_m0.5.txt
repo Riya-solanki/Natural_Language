@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3018 | label: meter | g:0.194 m:0.5 ---
+
+putraḥ pautraḥ prapautro vā bandhur vā bhrātṛsaṃtatiḥ 
+sapiṇḍasaṃtatir vāpi kriyārho nṛpa jāyate ।।

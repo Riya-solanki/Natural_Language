@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 349 | label: grammar | g:0.583 m:0.5 ---
+
+śūnyatāyāṃ sthitau vedyābhāvān māyāmalābhāvaḥ, prāṇādau sukhasparśādivedyayogān māyāmalavat pralaya iva sauṣuptaṃ padam ।।

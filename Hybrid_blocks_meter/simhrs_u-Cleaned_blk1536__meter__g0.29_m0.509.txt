@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1536 | label: meter | g:0.29 m:0.509 ---
+
+atha dhīḥ-
+iṣṭārtha-siddhi-paryantā cintā dhīr iti kathyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2611 | label: meter | g:0.194 m:0.75 ---
+
+kāśyapaḥ saṃhitākartā sāvarṇiḥ śāṃśapāyanaḥ 
+romaharṣaṇikā cānyā tisṝṇāṃ mūlasaṃhitā ।।

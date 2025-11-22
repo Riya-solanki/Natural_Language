@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 59 | label: hybrid | g:0.497 m:0.5 ---
+
+kiṃ kāraṇaṃ na mi śarīri agauravatvaṃ api tū khu prajñaparibhāvita pūjayanti 
+yatha rājaniśrita naro labhi sarvi pūjāṃ tatha prajñapāramitaniśrita buddhadhātuḥ ।।

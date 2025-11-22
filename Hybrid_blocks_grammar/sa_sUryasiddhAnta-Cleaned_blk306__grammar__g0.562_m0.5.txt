@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 306 | label: grammar | g:0.562 m:0.5 ---
+
+sūryād abhyadhikāh paścād astaṃ jīvakujārjajāh। ūnāh prāgudayaṃ yānti śukrajñau vakriṇau tathā।।

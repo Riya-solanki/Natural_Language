@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1195 | label: meter | g:0.25 m:0.625 ---
+
+muktāpāpaśca svarlokaṃ yāsye yatra śivaḥ sthitaḥ ।
+ityevamuktvā rājānaṃ pratiṣṭhāpya maheśvaram ।।

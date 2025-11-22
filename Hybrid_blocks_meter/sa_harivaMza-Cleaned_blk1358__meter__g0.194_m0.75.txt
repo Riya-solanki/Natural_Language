@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1358 | label: meter | g:0.194 m:0.75 ---
+
+śataghnīcakrahastāś ca tathā parighapāṇayaḥ 
+aśmayantrāyudhopetā bhiṇḍipālāyudhās tathā ।।

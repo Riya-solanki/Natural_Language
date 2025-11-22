@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2107 | label: grammar | g:0.729 m:0.5 ---
+
+atha bodhisattvastathetyasmai pratiśrutya yatra te nṛpasutāstenāvaruddhāstatraivābhijagāma । dṛṣṭai va ca te nṛpasutāḥ sutasomaṃ hanta muktā vayamiti paraṃ harṣamupajagmuḥ ।

@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1307 | label: hybrid | g:0.495 m:0.424 ---
+
+atha varṇa-saṃhāraḥ-
+sarva-varṇopagamanaṃ varṇa-saṃhāra ucyate ।। 
+yathā tatraiva jāmadagnyaḥ -kiṃ brūtha ? kena na varṇitaṃ dāśaratheḥ śaṅkara-kārmukāropaṇam ? ko na vismitas tad-bhaṅgena ? śṛṇuta bhoḥ ।

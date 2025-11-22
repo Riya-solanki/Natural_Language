@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11862 | label: hybrid | g:0.51 m:0.5 ---
+
+kaniṣṭhayā naṣṭatāṃ yāti jīvaḥ sutiṣṭhantyā yāti yogyāṃ pratiṣṭhām ।
+kaniṣṭhāyāḥ śṛṇu vakṣye svarūpaṃ śrutvā tasyāstyāgabuddhiṃ kuruṣva ।।

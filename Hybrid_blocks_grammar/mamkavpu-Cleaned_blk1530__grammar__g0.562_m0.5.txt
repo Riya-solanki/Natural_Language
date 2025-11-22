@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1530 | label: grammar | g:0.562 m:0.5 ---
+
+yadyapyuṣṭārthasya doṣatābhidhānāttannirākaraṇena puṣṭārthasvīkāraḥ kṛtaḥ tathāpyekaniṣṭhatvena bahunāṃ viśeṣaṇānāmevamupanyāse vaicitryam ityalaṅkāramadhye gaṇitaḥ ।।

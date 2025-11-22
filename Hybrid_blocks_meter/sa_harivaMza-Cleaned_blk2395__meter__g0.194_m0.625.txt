@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2395 | label: meter | g:0.194 m:0.625 ---
+
+paścime tu tataḥ pakṣe gharmamāsi nirāmaye 
+varṣatīvāmṛtaṃ deve tṛṇaṃ tatravyavardhata ।।

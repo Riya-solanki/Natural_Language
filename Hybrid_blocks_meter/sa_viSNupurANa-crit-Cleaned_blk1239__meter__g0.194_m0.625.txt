@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1239 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ sūdā bhayatrastā jīrṇaṃ dṛṣṭvā mahāviṣam 
+daityeśvaram upāgamya praṇipatyedam abruvan ।।

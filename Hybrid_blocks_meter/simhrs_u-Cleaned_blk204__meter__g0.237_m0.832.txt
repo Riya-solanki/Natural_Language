@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 204 | label: meter | g:0.237 m:0.832 ---
+
+yathā-
+mahārha-śayyā-parivartana-cyutaiḥ
+svakeśa-puṣpair api yā sma dūyate ।
+aśeta sā bāhu-latopadhāyinī
+niṣeduṣī sthaṇḍila eva kevale ।।

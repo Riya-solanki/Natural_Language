@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2031 | label: meter | g:0.194 m:0.5 ---
+
+yad etat pārthivaṃ kṣatraṃ sthitaṃ tvayi vidhīśvara 
+nṛnārāyaṇayukto ayaṃ kāryārthaḥ pratibhāti me ।।

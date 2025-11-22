@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 211 | label: meter | g:0.316 m:0.521 ---
+
+iti ca jīvasya brahmātmanopasaṃhārāt tatparataiva vākyasya ।
+evaṃ vākyāntarāṇāmapi paurvāparyālocanayā brahmaparatvamavagantavyam ।
+na ca tatparatvasya dṛṣṭasya sati saṃbhave anyaparatā adṛṣṭā yuktā kalpayitum, atiprasaṅgāt ।
+na kevalaṃ kartṛparatā teṣāmadṛṣṭā, anupapannā cetyāha- na ca teṣāmiti ।

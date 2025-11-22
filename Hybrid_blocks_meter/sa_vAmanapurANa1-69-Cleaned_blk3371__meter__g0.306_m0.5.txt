@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3371 | label: meter | g:0.306 m:0.5 ---
+
+śrutvaiva sā śokapariplutāṅgī jñātvā jitaṃ daityasutaiḥ sutaṃ tam ।
+duḥkhānvitā devamanādyamīḍyaṃ jagāma viṣṇuṃ śaraṇaṃ vareṇyam ।।

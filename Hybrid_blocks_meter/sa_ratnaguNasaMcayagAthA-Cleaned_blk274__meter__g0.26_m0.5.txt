@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 274 | label: meter | g:0.26 m:0.5 ---
+
+yo sarvasattvaguṇaagratu gantukāmo agraṃ spṛśeya paramādbhuta buddhajñānam 
+agraṃ dadeya vara uttamadharmadānam imu agru sevatu vihāru hitaṃkarāṇām ।।

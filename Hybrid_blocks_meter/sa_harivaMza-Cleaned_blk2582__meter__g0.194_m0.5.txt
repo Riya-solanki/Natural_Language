@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2582 | label: meter | g:0.194 m:0.5 ---
+
+sa saṃdigdham ivātmānaṃ mene saṃkarṣaṇas tadā 
+daityaskandhagataḥ śrīmān kṛṣṇaṃ cedam uvāca ha ।।

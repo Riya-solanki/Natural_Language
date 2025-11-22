@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3977 | label: meter | g:0.194 m:0.625 ---
+
+śrutvā na putradārādau gṛhakṣetrādike tathā 
+dravyādau vā kṛtaprajño mamatvaṃ kurute naraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1283 | label: meter | g:0.306 m:0.5 ---
+
+anartharāgāśrayadūṣitāya namo astu tasmai kṣayiṇe sukhāya ।
+viṣajya yasmin manasaḥ pravṛttiṃ kṛpāspadatvaṃ viduṣāṃ vrajanti ।।

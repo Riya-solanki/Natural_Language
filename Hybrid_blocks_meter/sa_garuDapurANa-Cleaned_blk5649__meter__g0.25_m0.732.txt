@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5649 | label: meter | g:0.25 m:0.732 ---
+
+māsamātraprayogeṇa valīpalitavarjitaḥ ।
+śatāni pañca jīvecca naro nāgabalo bhavet ।
+bhavecchrutidharo rudra puṣyarkṣe caiva bhakṣaṇāt ।।

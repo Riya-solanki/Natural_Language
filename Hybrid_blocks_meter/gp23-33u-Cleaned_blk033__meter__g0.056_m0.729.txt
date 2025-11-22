@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 33 | label: meter | g:0.056 m:0.729 ---
+
+vidhur ahaṃ haritaḥ pratidik-pati-
+praṇayiṇi ramayan jana-śarmadaḥ ।
+tvam iha kiṃ nu vidho sthagitāyase
+para-ramā-ramaṇaṃ prati samprati? ।। [drutavilambita]

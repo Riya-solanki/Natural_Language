@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 53 | label: meter | g:0.25 m:0.5 ---
+
+sati vaktari satyarthe sati śabdānuśāsane ।
+asti tanna vinā yena parisravati vāṅmudhe ।।

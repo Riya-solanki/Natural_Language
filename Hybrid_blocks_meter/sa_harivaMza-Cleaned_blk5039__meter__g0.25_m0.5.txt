@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5039 | label: meter | g:0.25 m:0.5 ---
+
+nāmṛtenāpi tṛptiḥ syād yathā svargasukhena vā 
+tathā tṛptiṃ na gacchāmi śrutvemāṃ bhāratīṃ kathām ।।

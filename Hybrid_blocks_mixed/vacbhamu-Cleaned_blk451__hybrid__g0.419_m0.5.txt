@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 451 | label: hybrid | g:0.419 m:0.5 ---
+
+nanu brahmacedatra vaktavyaṃ kṛtaṃ jīvaparāmarśenetyuktamityata āha- anyārthaśca parāmarśaḥ ।
+jīvasyopādhikalpitasya brahmabhāva upadeṣṭavyaḥ, na cāsau jīvamaparāmṛśya śakya upadeṣṭumiti tisṛṣvavasthāsu jīvaḥ parāmṛṣṭaḥ ।
+tadbhāvapravilayanaṃ tasya pāramārthikaṃ brahmabhāvaṃ darśayitumityarthaḥ ।।

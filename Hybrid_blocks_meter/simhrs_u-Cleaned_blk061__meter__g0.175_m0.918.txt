@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 61 | label: meter | g:0.175 m:0.918 ---
+
+yathā-
+goṣṭhīṣu vidvaj-jana-saṃcitasya
+kalā-kalāpasya sa tāratamyam ।
+viveka-sīmā vigatāvalepo
+viveda hemno nikaṣāśmanīva ।।

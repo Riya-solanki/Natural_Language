@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 503 | label: grammar | g:0.646 m:0.5 ---
+
+yo mātary apakārakāryam aparaḥ kṛtvā samāyāsyati tasyedaṃ śirasi bhramiṣyati punar mūrdhnā [!] tava pracyutaḥ ।।

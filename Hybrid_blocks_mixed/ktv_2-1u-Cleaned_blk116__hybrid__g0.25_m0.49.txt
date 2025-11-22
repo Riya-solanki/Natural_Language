@@ -1,0 +1,9 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 116 | label: hybrid | g:0.25 m:0.49 ---
+
+sarvatra hy adhiśrayaṇādau karotīty api sāmānyavyāpārāṃśaḥ pratīyate ।
+pacatyādivācyā viklittyadhiśrayaṇādayaḥ karmasthāḥ kartṛsthāś ca ।
+tatra yadaudāsīnyapracyutimātreṇa parispandarūpaṃ nirūpyate sā bhāvanā ।
+ye tu tadanurañjanasamarthāḥ kartṛkarmagatā viśeṣās te tasyā eva karaṇetikartavyatāṃśayor niviśante ।
+evaṃ tarhi dhātvarthasāmānyaṃ bhāvanety etad āpannam ।
+satyaṃ sādhyatayā sāmānyam, na tu gotvādirūpeṇa ।
+katham ।

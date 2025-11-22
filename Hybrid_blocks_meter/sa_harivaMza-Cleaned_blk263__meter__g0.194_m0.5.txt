@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 263 | label: meter | g:0.194 m:0.5 ---
+
+saṃkalpayitvā vatsaṃ tu manuṃ svāyaṃbhuvaṃ prabhum 
+sve pāṇau puruṣavyāghra dudoha pṛthivīṃ tataḥ ।।

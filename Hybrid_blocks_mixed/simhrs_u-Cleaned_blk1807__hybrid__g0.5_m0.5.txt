@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1807 | label: hybrid | g:0.5 m:0.5 ---
+
+atra gūḍhārtha-pada-paryāya-rahita-praśnottara-krameṇa naṭa-sūtradhārayoḥ saṃlāpāt prakṛta-kavi-varṇanopayuktam idam udghātyakam ।

@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 7 | label: grammar | g:0.729 m:0.5 ---
+
+loke rāghavapāṇḍavādbhutakathāgandhānusaṃdhāyinau tau granthāviba tanmunipraṇihitau śrīsiṅgabhūpāśrayaḥ । yāyādādaraṇīyatāṃ kṛtadhiyāṃ grantho ayamasmatkṛto nāhaṃ yadyapi tādṛśo asmyayamasau rājā hi tādṛgguṇaḥ ।।

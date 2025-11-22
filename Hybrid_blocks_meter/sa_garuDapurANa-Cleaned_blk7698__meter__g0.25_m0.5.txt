@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7698 | label: meter | g:0.25 m:0.5 ---
+
+tṛtīyāṃ ṣoḍaśīṃ vacmi vainateya śṛṇuṣva tām ।
+dvādaśa pratimāsyāni ādyaṃ ṣāṇmāsikaṃ tathā ।।

@@ -1,0 +1,10 @@
+--- source: nysvbh_u-Cleaned.txt | block: 704 | label: meter | g:0.0 m:0.962 ---
+
+yathānekadravyeṇa samavāyādrūpaviśeṣāccopalabdhiriti
+satyupalabdhikāraṇe madhyandinolkāprakāśo
+nopalabhyate ādityaprakāśenābhibhūtaḥ, evaṃ
+mahadanekadravyavattvād rūpaviśeṣāccopalabdhiriti
+satyupalabdhikāraṇe cākṣuṣo raśmirnopalabhyate
+nimittāntarataḥ, tacca vyākhyātamanudbhūtarūpasparśasya
+dravyasya pratyakṣato anupalabdhiriti, atyantānupalabdhiścābhāvakāraṇam
+।।

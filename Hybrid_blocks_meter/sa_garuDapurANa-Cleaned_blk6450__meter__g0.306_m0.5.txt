@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6450 | label: meter | g:0.306 m:0.5 ---
+
+jayāṃ ca vijayāṃ caiva sāvitrīṃ śāntimeva ca ।
+svāhāṃ svadhāṃ dhṛtiṃ caiva tathaivāditimuttamām ।।

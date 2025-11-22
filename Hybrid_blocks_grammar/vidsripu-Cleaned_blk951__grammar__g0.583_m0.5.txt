@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 951 | label: grammar | g:0.583 m:0.5 ---
+
+karpūraiḥ kim apūri kiṃ malayajair ālepi kiṃ pāradair akṣāli sphaṭikopalaiḥ kim aghaṭi dyāvāpṛthivyor vapuḥ ।
+etat tarkaya kairavaklamahare śṛṅgāradīkṣāgurau dikkāntāmukure cakorasuhṛdi prauḍhe tuṣāratviṣu ।।

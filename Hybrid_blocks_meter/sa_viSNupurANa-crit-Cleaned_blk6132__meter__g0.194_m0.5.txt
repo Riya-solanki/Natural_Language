@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6132 | label: meter | g:0.194 m:0.5 ---
+
+praśāmyati tadā jyotir vāyur dodhūyate mahān 
+nirāloke tadā loke vāyvavasthe ca tejasi ।।

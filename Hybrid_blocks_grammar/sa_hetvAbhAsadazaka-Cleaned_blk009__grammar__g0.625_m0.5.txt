@@ -1,0 +1,4 @@
+--- source: sa_hetvAbhAsadazaka-Cleaned.txt | block: 9 | label: grammar | g:0.625 m:0.5 ---
+
+vadhyetāṃ śukasāraṇau na hi tayor vadhyatvam asty eva tat rakṣastvād daśakandharādivad ayaṃ hetus sahopādhikaḥ ।
+sadrohatvam upādhir atra sugamaḥ śeṣas tvayā cintyatām ity ādityasutoktikhaṇḍanakaraḥ śrīrāghavaḥ pātu vaḥ ।।

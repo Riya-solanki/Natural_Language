@@ -1,0 +1,9 @@
+--- source: vacbhamu-Cleaned.txt | block: 422 | label: meter | g:0.258 m:0.73 ---
+
+mohaśca viṣādaḥ, śokaḥ ।
+paraṃ hiraṇyagarbhādyavaraṃ yasya tadbrahma tathoktam ।
+tasminbrahmaṇi yaddṛṣṭaṃ darśanaṃ tasmiṃstadarthamiti yāvat ।
+yathā acarmaṇi dvīpinaṃ hanti' iti carmārthamiti gamyate ।
+nāmarūpādityavidyābhiprāyam ।
+kāmā ye asya hṛdi śritā iti ।
+kāmā ityavidyāmupalakṣayati ।।

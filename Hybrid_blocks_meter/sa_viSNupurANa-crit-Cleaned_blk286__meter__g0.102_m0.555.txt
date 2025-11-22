@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 286 | label: meter | g:0.102 m:0.555 ---
+
+sarpaṇāt te abhavan sarpā hīnatvād ahayaḥ smṛtāḥ 
+tataḥ kruddho jagatsraṣṭā krodhātmāno vinirmame 
+varṇena kapiśenogrā bhūtās te piśitāśanāḥ ।।

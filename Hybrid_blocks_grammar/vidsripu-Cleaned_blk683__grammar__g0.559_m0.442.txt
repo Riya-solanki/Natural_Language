@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 683 | label: grammar | g:0.559 m:0.442 ---
+
+tathābhūd asmākaṃ prathamam avibhinnā tanur iyaṃ tato anu tvaṃ preyān aham api hatāśā priyatamā ।
+idānīṃ nāthas tvaṃ vayam api kalatraṃ kim aparaṃ mayāptaṃ prāṇānāṃ kuliśakaṭhinānāṃ phalam idam ।।
+bhāvakadevyāḥ।।

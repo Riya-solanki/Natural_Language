@@ -1,0 +1,10 @@
+--- source: kunvjivu-Cleaned.txt | block: 1198 | label: grammar | g:0.561 m:0.373 ---
+
+"sāṅkādeḥ kāpi vakratā" "aṅkādeḥ" aṅkasargādeḥ prakaraṇasya "sā kāpi" alaukikī "vakratā" vakrabhāvo bhavatīti saṃbandhaḥ ।
+"yatrāṅgirasaniṣyandanikaṣaḥ ko api" lakṣyate" "yatra"yasyāṃ aṅgī yaḥ "rasaḥ" prāṇarūpaḥ, tasya niṣyandaḥ pravāhaḥ tasya, kāñcanasyeva nikaṣaḥ parīkṣopalavadviṣayaviśeṣaḥ "ko api" abhūtanirmāṇanirupamo lakṣyate yojane dayairiva viśeṣaḥ ।
+kiṃ viśiṣṭaḥ "pūrvottarairasaṃpādyaḥ"prakparavṛttibhiraṅkādyaiḥ saṃpādayitumaśakyaḥ ।
+idamatra tātparyam ।
+pradhānarasasarvasvakrīḍāniketanaṃ tātkimapi prakaraṇaṃ prakaṭataraṃ ca vakratāvicchittirvidyotate ।
+yadīyalāvaṇyātiśayaṃ manāṅmātramapi pūrvāṇyaparāṇi vā prakaraṇāntarāṇi nānukartuṃ śakruvanti ।
+yathā vikramorvaśyāmunmattāṅkaḥ tatra hi prastutarasāsādhāraṇa mādhuryasaṃpattyā vipralambhaśṛṅgārasyāṅginaḥ sa ko api deḥ rasaniṣyandaparispandaḥ paristīryate, yaḥ na kevalaṃ prakaraṇāntare prabandhāntare apyaśakyakāmanīyakakaṇikānukāraḥ ।
+tathā ca tadupakrama eva rājā ā durātman, tiṣṭha tiṣṭha ! kva nu khalu priyatamāmādāya gacchisi ? kathaṃ śailaśikharāt gaganamutplutya bāṇairmāmabhivarṣati ? kathaṃ vipralabdho asmi

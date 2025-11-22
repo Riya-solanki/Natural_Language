@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 19 | label: hybrid | g:0.5 m:0.5 ---
+
+avadhiḥ mahāyānadarśanamārgamārabhya buddhabhūmiṃ yāvat mārgajñatāyāḥ sīmā bhavati ।

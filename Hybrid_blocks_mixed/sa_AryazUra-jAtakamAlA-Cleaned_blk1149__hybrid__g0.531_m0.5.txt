@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1149 | label: hybrid | g:0.531 m:0.5 ---
+
+suhṛtpratijñaiḥ suhṛdi pramatte nyāyyaṃ hitaṃ rūkṣamapi prayoktum ।
+rūḍhaḥ satāmeṣa hi dharmamārgaḥ prāgeva rūcyaṃ ca hitaṃ ca yatsyāt ।।

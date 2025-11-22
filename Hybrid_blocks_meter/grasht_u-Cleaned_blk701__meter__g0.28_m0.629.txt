@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 701 | label: meter | g:0.28 m:0.629 ---
+
+tīkṣṇaloha druti
+suradālībhasma galitaṃ triḥsaptakṛtvātha gojalaṃ śuṣkam ।
+vāpena salilasadṛśaṃ kurute mūṣāgataṃ tīkṣṇam ।।

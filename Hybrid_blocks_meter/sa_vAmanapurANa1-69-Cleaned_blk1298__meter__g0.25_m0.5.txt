@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1298 | label: meter | g:0.25 m:0.5 ---
+
+grīvāsya śaṅkhākṛtimādadhāti bhujau ca pīnau kaṭhanausudīrghau ।
+hastau tathā padmadalodbhavāṅkau chatrākṛtistasya śiro vibhāti ।।

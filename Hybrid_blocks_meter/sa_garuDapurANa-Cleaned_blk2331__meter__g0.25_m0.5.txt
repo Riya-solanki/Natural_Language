@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2331 | label: meter | g:0.25 m:0.5 ---
+
+yaḥ karoti vṛṣotsargaṃ gayākṣetre hyanuttame ।
+agniṣṭomaśataṃ puṇyaṃ labhate nātra saṃśayaḥ ।।

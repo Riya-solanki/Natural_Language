@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1895 | label: meter | g:0.25 m:0.5 ---
+
+śrutavarma ca parmāsā revā sāgaraveginam ।
+prabhāvārthaṃ sahaṃ prādāt kāñcanā kanakekṣaṇam ।।

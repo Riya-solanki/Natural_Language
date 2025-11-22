@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5437 | label: meter | g:0.25 m:0.625 ---
+
+kaccin mamaiṣāṃ bāhūnāṃ sāphalyajanako raṇaḥ 
+bhaviṣyati vinā yuddhaṃ bhārāya mama kiṃ bhujaiḥ ।।

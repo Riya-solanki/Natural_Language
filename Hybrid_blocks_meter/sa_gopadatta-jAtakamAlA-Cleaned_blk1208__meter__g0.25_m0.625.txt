@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1208 | label: meter | g:0.25 m:0.625 ---
+
+nūnaṃ karmaṇa evāyaṃ vipākaḥ pratyupasthitaḥ ।
+yenāpad iyam āyātā niṣpratīkāradāruṇā ।।

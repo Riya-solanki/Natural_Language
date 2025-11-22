@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2418 | label: meter | g:0.264 m:0.714 ---
+
+etan nīlotpalaśyāmaṃ nīlotpaladalaprabham 
+nīlotpaladale kāle bhāti vṛndāvanaṃ vanam । 
+saṃprāpte durdine kāle durdinaṃ bhāti vai nabhaḥ ।।

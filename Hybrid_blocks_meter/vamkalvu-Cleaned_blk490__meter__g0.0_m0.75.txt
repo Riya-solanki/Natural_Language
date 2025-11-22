@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 490 | label: meter | g:0.0 m:0.75 ---
+
+kramakauṭikyānulvaṇatvopapattiyogo ghaṭaṇā । yathā

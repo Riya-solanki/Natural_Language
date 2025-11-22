@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5145 | label: meter | g:0.251 m:0.623 ---
+
+sādhuvṛttiḥ kṛtayuge kaṣāye hānir ucyate 
+eka eva tu kālaḥ sa hīnavarṇo yathā śaśī ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 278 | label: meter | g:0.151 m:0.95 ---
+
+yathā
+pāṇi-pallava-vidhūnanam antaḥ-
+śītkṛtāni nayanārdha-nimeṣāḥ ।
+yoṣitāṃ rahasi gadgada-vācām
+astratām upayayur madanasya ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3290 | label: hybrid | g:0.531 m:0.5 ---
+
+itthaṃ vacaḥ śrāṇya mahāsurendro baliṃ mahātmā sa babhūva tūṣṇīm ।
+tato yadājñāpayase kariṣye itthaṃ baliḥ prāha vaco maharṣe ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 276 | label: hybrid | g:0.486 m:0.5 ---
+
+yāvanti śikṣa paridīpita nāyakena sarveṣa śikṣa ayu agru niruttarā ca 
+yaḥ sarvaśikṣavidu icchati pāra gantum imu prajñapāramita śikṣati buddhaśikṣām ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2586 | label: meter | g:0.25 m:0.5 ---
+
+aho ayaṃ mānuṣo bhāvo vyaktam evānugṛhyate 
+yas tvaṃ jaganmayaṃ guhyaṃ guhyād guhyataraṃ gataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9443 | label: meter | g:0.306 m:0.625 ---
+
+mahādhanī ca dharmajñaḥ sarvaśāstraviśāradaḥ ।
+punaḥ sa yāti vaikuṇṭhaṃ mṛto asau narapuṅgavaḥ ।।

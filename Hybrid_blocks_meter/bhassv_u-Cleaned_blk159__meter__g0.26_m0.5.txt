@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 159 | label: meter | g:0.26 m:0.5 ---
+
+{ceṭī} - ahmāṇaṃ bhaṭṭiṇī bhaṇādi avi hṇādo jāmāduo tti 
+[asmākaṃ bhaṭṭinī bhaṇati api snāto jāmāteti । ]

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1763 | label: grammar | g:0.635 m:0.5 ---
+
+namasyāmo devān nanu hatavidhes te api vaśagā vidhir vandyaḥ so api pratiniyatakarmaikaphaladaḥ ।
+phalaṃ karmāyattaṃ yadi kim aparaiḥ kiṃ ca vidhinā namaḥ satkarmabhyo vidhir api na yebhyaḥ prabhavati ।।

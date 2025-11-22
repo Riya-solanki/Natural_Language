@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1077 | label: meter | g:0.25 m:0.625 ---
+
+trijaṭāya triśīrṣāya triśulāsakkapāṇaye ।
+tryambakāya trinetrāya tripuraghra namo astu te ।।

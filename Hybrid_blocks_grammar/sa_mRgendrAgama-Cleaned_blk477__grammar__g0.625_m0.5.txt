@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 477 | label: grammar | g:0.625 m:0.5 ---
+
+vṛtti [kṛmighnadravyamiśreṇa] kaṭutailaviḍaṅgapāradādidravyasaṃyuktena [traiphalena bhasmanā] harītakyāmalakavibhītakabhasmanā [sāyacūrṇena] niśācūrṇamiśreṇa vā bhautikavratī tāḥ puṣṭiṃ [nayet] prāpayet।।

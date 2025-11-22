@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1420 | label: grammar | g:0.635 m:0.5 ---
+
+sthalīnāṃ dagdhānām upari mṛgatṛṣṇānusaraṇāt tṛṣārtaḥ śāraṅgo viramati na khinne api vapuṣi ।
+ajānānas tattvaṃ na sa mṛgayate anyāṃ ca sarasīm abhūmau pratyāśā na hi phalati vighnaṃ ca kurute ।।

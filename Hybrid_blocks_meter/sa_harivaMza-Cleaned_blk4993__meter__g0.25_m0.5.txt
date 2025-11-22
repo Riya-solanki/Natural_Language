@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4993 | label: meter | g:0.25 m:0.5 ---
+
+dvārakāvāsināṃ vācaś caranti bahudhā tadā 
+prāpte kṛṣṇe mahābhāge sātvatānāṃ mahārathe ।। 
+gatvā ca dūram adhvānaṃ suparṇo drutam āgataḥ । 
+dhanyāḥ smo anugṛhītāḥ smo yeṣāṃ no jagataḥ patiḥ 
+rakṣitā cāpi goptā ca dīrghabāhur janārdanaḥ ।।

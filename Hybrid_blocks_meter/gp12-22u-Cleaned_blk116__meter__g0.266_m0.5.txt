@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 116 | label: meter | g:0.266 m:0.5 ---
+
+prītiḥ kiṃ nv anuje na me? vraja-pate tāta vrajādhīśvari
+śrī-rohiṇy api mātar, asya tu sadā tattvaṃ paraṃ vedmy aham ।
+satyaṃ vaḥ pada-paṅkajāśraya-rucāṃ kuryām amuṣya kvacin
+naikasminn api mūrdhaje kṣati-lavo bhāvī yathā garga-gīḥ ।। [śārdūla]

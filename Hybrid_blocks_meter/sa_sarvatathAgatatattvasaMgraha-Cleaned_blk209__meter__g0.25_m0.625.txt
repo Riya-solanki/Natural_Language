@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 209 | label: meter | g:0.25 m:0.625 ---
+
+aho hyahaṃ mahodārā pūjā dīpamayī śubhā ।
+yadālokavatī kṣipraṃ sarvabuddhadṛśo labhed ।।

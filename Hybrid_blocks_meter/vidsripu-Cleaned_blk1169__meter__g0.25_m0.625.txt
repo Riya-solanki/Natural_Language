@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1169 | label: meter | g:0.25 m:0.625 ---
+
+katipayadivasasthāyī pūro dūronnato api bhavitā te ।
+taṭini taṭadrumapātanapātakam ekaṃ cirasthāyi ।।

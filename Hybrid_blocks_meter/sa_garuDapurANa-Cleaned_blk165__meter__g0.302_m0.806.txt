@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 165 | label: meter | g:0.302 m:0.806 ---
+
+ūrjāyāṃ tu vasiṣṭasya saptājāyanta vai sutāḥ ।
+rajogātrordhabāhuśca śaraṇaścānaghastathā ।।

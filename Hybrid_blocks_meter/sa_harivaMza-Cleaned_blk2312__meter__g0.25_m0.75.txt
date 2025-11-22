@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2312 | label: meter | g:0.25 m:0.75 ---
+
+tau bālakau lalitakau mūrdhajavyākulekṣaṇau 
+rejatuś candravadanau dārakau sukumārakau ।। 
+atiprasaktau ghoṣeṣu ghoṣam āpūrya dārakau । 
+atiprasaktau tau dṛṣṭvā sarvavrajavicāriṇau 
+nāśaknuvad vārayitum nandagopaḥ sudurmadau ।।

@@ -1,0 +1,8 @@
+--- source: rasadh_u-Cleaned.txt | block: 43 | label: meter | g:0.25 m:0.625 ---
+
+kvāthena trikaṭoḥ kṣuṇṇaṃ prākṛtaṃ śodhitaṃ rasam ।
+rasenāsannadūdhilyās tathārdrāyā rasena ca ।।
+kākamācīrasenaivaṃ devadālīrasena ca ।
+śuṣkaṃ śuṣkaṃ punaḥ kṣuṇṇaṃ saṃmardyāmardya śoṣayet ।।
+auṣadhasyauṣadhasyānte kṣālayet kāñjikena ca ।
+pratyauṣadhaṃ dinānīha sapta saptaiva mardayet ।।

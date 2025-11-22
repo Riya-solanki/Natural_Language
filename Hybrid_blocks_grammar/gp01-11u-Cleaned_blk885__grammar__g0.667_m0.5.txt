@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 885 | label: grammar | g:0.667 m:0.5 ---
+
+[] tad etad ākalya, bālānāṃ pralāpo' yam iti vatsalāḥ kalayāmbabhūvuḥ । anye tu sāṃśayikatānapeta-cetasaḥ prajātāḥ ।

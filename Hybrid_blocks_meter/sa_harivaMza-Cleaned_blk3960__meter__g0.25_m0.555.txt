@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3960 | label: meter | g:0.25 m:0.555 ---
+
+pāṇau gṛhīte vaidarbhyās tv aniruddhena bhārata 
+vaidarbhayādavānāṃ ca babhūva paramotsavaḥ । 
+remire vṛṣṇayas tatra pūjyamānā yathāmarāḥ ।।

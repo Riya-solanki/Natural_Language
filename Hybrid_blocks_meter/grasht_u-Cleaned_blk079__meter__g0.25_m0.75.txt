@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 79 | label: meter | g:0.25 m:0.75 ---
+
+yajjarayā jarjaritaṃ kāsaśvāsādiduḥkhavaśamāptam ।
+yogyaṃ tanna samādhau pratihatabuddhīndriyaprasaram ।।
+bālaḥ ṣoḍaśavarṣo viṣayarasāsvādalampaṭaḥ parataḥ ।
+jātaviveko vṛddho martyaḥ kathamāpnuyānmuktim ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 958 | label: meter | g:0.25 m:0.5 ---
+
+{humi avahatthiareho ṇiraṅkuso aha vivearahio vi ।
+siviṇe vi tumammi puṇo pattihi bhattiṃ ṇa pasumarāmi ।।}
+[bhavāmyapahastitarekho niraṅguśo atha vivekarahito api ।
+svapne api tvayi punaḥ pratīhi bhaktiṃ na prasmarāmi ।।]

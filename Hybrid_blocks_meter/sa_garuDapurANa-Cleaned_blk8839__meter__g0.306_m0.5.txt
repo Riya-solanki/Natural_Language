@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8839 | label: meter | g:0.306 m:0.5 ---
+
+kumārāṇāṃ caiva bālānāṃ bhojanaṃ vastraveṣṭanam ।
+bāle vā taruṇe vṛddhe ghaṭo bhavati vai mṛte ।।

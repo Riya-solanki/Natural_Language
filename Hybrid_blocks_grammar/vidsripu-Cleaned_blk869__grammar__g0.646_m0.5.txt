@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 869 | label: grammar | g:0.646 m:0.5 ---
+
+adya svāṃ jananīm akāraṇaruṣā prātaḥ sudūraṃ gatāṃ pratyānetum ito gato gṛhapatiḥ śrutvaiva madhyaṃdine ।
+paṅgutvena śarīrajarjaratayā prāyaḥ sa lakṣyākṛtir dṛṣṭo asau bhavatā na kiṃ pathika he sthitvā kṣaṇaṃ kathyatām ।।

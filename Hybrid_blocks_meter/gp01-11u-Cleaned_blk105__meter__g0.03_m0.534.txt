@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 105 | label: meter | g:0.03 m:0.534 ---
+
+kiṃ ca-
+vṛkṣān aṅkurayantu vidruta-daśām adrīn nayantu drutaṃ
+stambhaṃ cāmbhasi lambhayantu saritāṃ kiṃ vā pratīcīnatām ।
+veṇu-dhvāna-ghaṭā yato' tinikaṭāḥ kasmād akasmād balāt
+karṇābhyarṇa-gatā iva sphuṭam amūn dhunvanti tad-dhyāyinaḥ ।। [śārdūlā]

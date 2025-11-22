@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8796 | label: meter | g:0.25 m:0.5 ---
+
+mānuṣaḥ śatajīvīti purā vedena bhāṣitam ।
+vikarmaṇaḥ prabhāveṇa śīghraṃ cāpi vinaśyati ।।

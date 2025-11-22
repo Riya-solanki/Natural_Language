@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 250 | label: grammar | g:0.627 m:0.355 ---
+
+prakārāntaramāha itītyādi ।।
+iti pūrvoktalakṣaṇaṃ tīkṣṇaśulbanāgaṃ tīkṣṇaṃ tāmraṃ nāgaṃ ca etattrayaṃ mākṣikayuktaṃ svarṇamākṣikayutaṃ samaṃ tulyabhāgaṃ kuryāt ।।
+tatkṛtaṃ khoṭaṃ taiḥ sarvaiḥ piṣṭīstambhena khoṭabhasma kāryam ।।
+puṭavidhinā vahnipuṭavidhānena tatkṛtaṃ khoṭaṃ bhasma kāryaṃ punaḥ tadbhasma satve nirvyūḍhaṃ nirvāhitaṃ sat satvarañjakaṃ bhavati khasatve abhrasatve rāgadāyi bhavati rañjitaṃ tatsatvaṃ rasarañjakaṃ bhavediti ।।

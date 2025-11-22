@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1666 | label: meter | g:0.194 m:0.75 ---
+
+{limpatīva tamoṅgāni varṣatīvāñjanaṃ nabhaḥ ।
+asatpuruṣaseveva dṛṣṭirviphalatāṃ gatā ।।}

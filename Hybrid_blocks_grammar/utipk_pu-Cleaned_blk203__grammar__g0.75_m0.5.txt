@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 203 | label: grammar | g:0.75 m:0.5 ---
+
+evaṃ pūrṇatayā prakāśamānasyāpi parameśvarasya saiṣā sṛṣṭiśaktir yaj jñātṛjñeyasvabhāvā bhāvāḥ svato anyonyaṃ ca vibhāgenāvasīyante, na ca tathāvasāyena tasya svarūpasthitis tirodhīyate ।।

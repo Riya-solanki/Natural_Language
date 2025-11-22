@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1291 | label: meter | g:0.306 m:0.5 ---
+
+satpakṣā ṛjavaḥ śuddhāḥ saphalā guṇasevinaḥ ।
+tulyair api guṇaiś citraṃ santaḥ santaḥ śarāḥ śarāḥ ।।

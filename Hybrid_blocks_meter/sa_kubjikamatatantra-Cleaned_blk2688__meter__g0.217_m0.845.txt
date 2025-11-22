@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2688 | label: meter | g:0.217 m:0.845 ---
+
+dvādaśāṅgaṃ tu suśroṇi vidyāṅgāś ca navātmakam 
+navātmā-aṅgasaṃyuktaṃ mālinyāṅgasamanvitam ।।

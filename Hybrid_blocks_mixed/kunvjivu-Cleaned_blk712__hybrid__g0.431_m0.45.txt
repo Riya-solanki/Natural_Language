@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 712 | label: hybrid | g:0.431 m:0.45 ---
+
+pūrvoktena prakāreṇa anena cāpareṇeti dvābhyāṃ prakārābhyāṃ śobhamānasya samāhitasyālaṅkaraṇatvaṃ na sabhavati ।
+tathācāsya lakṣaṇodāharaṇe

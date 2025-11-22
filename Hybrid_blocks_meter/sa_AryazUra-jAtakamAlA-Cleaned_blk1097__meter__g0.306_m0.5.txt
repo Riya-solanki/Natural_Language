@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1097 | label: meter | g:0.306 m:0.5 ---
+
+yatsauhṛdāni sahasā virasībhavanti yannītiśāṭhyamalinena pathā prayānti ।
+kīrtyā viyogamasukhaiḥ parataśca yogaṃ yatprāpnuvanti nanu kāraṇamatra kāmāḥ ।।

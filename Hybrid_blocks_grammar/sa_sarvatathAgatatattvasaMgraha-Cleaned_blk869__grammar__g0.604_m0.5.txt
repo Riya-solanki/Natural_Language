@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 869 | label: grammar | g:0.604 m:0.5 ---
+
+evaṃ paṭādiṣu sarvapratimāsu ca manīṣitavidhānena sarvasiddhayo dadanti । evaṃ yathā vajradhātumahāmaṇḍalavidhivistara iti ।।

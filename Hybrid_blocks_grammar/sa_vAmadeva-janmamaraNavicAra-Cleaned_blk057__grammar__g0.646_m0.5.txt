@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 57 | label: grammar | g:0.646 m:0.5 ---
+
+tatra upabhuktasya annapānasya pākavaśāt rasarūpatayā sthitasya raktamāṃsamedo'sthimajjātmanā śukradhātau viśrāntir bhavati tatra imāḥ prajāḥ prajāyante ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 566 | label: meter | g:0.25 m:0.5 ---
+
+mā naḥ kośaṃ tathā goṣṭhaṃ mā gṛhaṃ mā paricchadam 
+mā śarīraṃ kalatraṃ ca tyajethāḥ sarvapāvani ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2105 | label: grammar | g:0.562 m:0.5 ---
+
+śastā guruśca mama daivatameva ca tvaṃ mūrdhnā vacāṃsyahamamūni tavārcayāmi ।
+bhokṣye na caiva sutasoma manuṣyamāṃsaṃ yanmāṃ yathā vadasi tacca tathā kariṣye ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3527 | label: meter | g:0.194 m:0.625 ---
+
+yathāyaṃ saṃnikṛṣṭo hi jarāsaṃdho narādhipaḥ 
+lakṣyante hi dhvajāgrāṇi rathānāṃ vātaraṃhasām ।।

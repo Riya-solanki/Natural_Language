@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3889 | label: meter | g:0.194 m:0.5 ---
+
+gaveśaṇo api caidyaṃ tu ṣaḍbhir vivyādha mārgaṇaiḥ 
+anirdāntas tathāṣṭābhir bṛhaddurgaś ca pañcabhiḥ ।।

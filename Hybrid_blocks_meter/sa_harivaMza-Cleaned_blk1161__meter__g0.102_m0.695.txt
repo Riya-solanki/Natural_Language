@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1161 | label: meter | g:0.102 m:0.695 ---
+
+devakasyābhavan putrāś catvāras tridaśopamāḥ 
+devavān upadevaś ca sudevo devarakṣitaḥ 
+kumāryaḥ sapta cāpyāsan vasudevāya tā dadau ।।

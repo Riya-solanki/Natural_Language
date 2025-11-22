@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 755 | label: hybrid | g:0.33 m:0.384 ---
+
+naiṣa doṣaḥ ।
+na vayamadhyayanaprabhavaṃ karmāvabodhanamadhikārakāraṇaṃ vārayāmaḥ kiṃ tarhyeniṣadamātmajñānaṃ svātantryeṇaiva prayojanavatpratīyamānaṃ na karmādhikārakāraṇatāṃ pratipadyata ityetāvatpratipādayāmaḥ ।
+yathāca na kratvantarajñānaṃ kratvantarādhikāreṇāpekṣyata evametadapi draṣṭavyamiti ।।

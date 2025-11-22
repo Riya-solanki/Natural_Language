@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4107 | label: meter | g:0.25 m:0.5 ---
+
+tatas te kuṇḍale dattvā vavande tāṃ śacīpatiḥ 
+janārdanaṃ puraskṛtya kama caiva śaśaṃśa tat ।। 
+pradāyāditinandanaḥ ।vavande tāṃ śacībhartā mātaraṃ svāṃ puraṃdaraḥ । 
+aditis tau sutau prītyā pariṣvajyābhinandya ca 
+āśirbhir anurūpābhir ubhāv abhyavadat tadā ।।

@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 133 | label: hybrid | g:0.5 m:0.5 ---
+
+yadi tvitaretarāśrayatayā itaretarābhāvagrahaṇasyānavakḷpteravidyāmātranimittaṃ tadityucyate, tadapi - yadi bhinnatayā pratiyoginamāśrayaṃ ca gṛhītvā tata itaretarābhāvo gṛhyeta tataḥ syāt, nīlapītayostvitaretarābhāvānādareṇa svarūpeṇa gṛhītayoḥ paścādataretarābhāvagrahaṇe

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4501 | label: meter | g:0.194 m:0.5 ---
+
+dhṛte govardhane śaile paritrāte ca gokule 
+rocayām āsa kṛṣṇasya darśanaṃ pākaśāsanaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 851 | label: grammar | g:0.646 m:0.5 ---
+
+sarvatra chedanabhedanāvadāraṇadahaneṣūkhāsu somakalaśamahāvīrayajñabhāṇḍeṣu sarvatra śīrṇe bhinne naṣṭe anyaṃ kṛtvā punar maitv indriyam ity ādadīta ।

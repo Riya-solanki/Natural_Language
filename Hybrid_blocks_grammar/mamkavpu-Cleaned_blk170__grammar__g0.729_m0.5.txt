@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 170 | label: grammar | g:0.729 m:0.5 ---
+
+alakṣyeti । na khalu vibhāvānubhāvavyabhicāriṇa eva rasaḥ । api tu rasastaiḥ ityasti kramaḥ । sa tu lāghavānna lakṣyate ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10149 | label: meter | g:0.264 m:0.812 ---
+
+ato vyāsaṃ namaskuryādgranthakartṛtvahetutaḥ ।
+śaunaka uvāca ।
+vyāsasya namanaṃ hyante kathaṃ kāryaṃ mahātmanaḥ ।।

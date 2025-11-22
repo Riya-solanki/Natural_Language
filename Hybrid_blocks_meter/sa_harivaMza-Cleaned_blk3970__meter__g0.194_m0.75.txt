@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3970 | label: meter | g:0.194 m:0.75 ---
+
+tataḥ prāvartata dyūtaṃ teṣām aratināśanam 
+kalahāyāspadaṃ ghoraṃ durmatīnāṃ kṣayāvaham ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 92 | label: meter | g:0.307 m:0.623 ---
+
+kasya kiṃ vo varaṃ devā dadāmi varadaḥ sthitaḥ ।
+svāgataṃ vaḥ suraśreṣṭhā matsamīpamupāgatāḥ ।।

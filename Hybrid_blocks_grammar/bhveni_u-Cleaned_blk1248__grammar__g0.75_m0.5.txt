@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 1248 | label: grammar | g:0.75 m:0.5 ---
+
+SktCh ārya kuru dārusaṃcayam । tvarate me hṛdayaṃ nāthaṃ prekṣitum । kathaṃ na ko api mahārājasya vacanaṃ karoti । hā nātha bhīmasena tadevedaṃ rājakulaṃ tvayā virahitaṃ parijano api sāṃprataṃ pariharati ।

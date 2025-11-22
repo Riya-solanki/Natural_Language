@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4910 | label: grammar | g:0.75 m:0.125 ---
+
+vaiṣṇavāstre vimukte tu sarva evāsurottamāḥ 
+bhūtayakṣagaṇāś caiva bāṇānīkaṃ ca sarvaśaḥ । 
+diśaḥ pradudruvuḥ sarve bhayamohitalocanāḥ ।। 
+pramāthagaṇabhūyiṣṭhe sainye dīrṇe mahāsuraḥ । nirjagāma tato bāṇo yuddhāyabhimukhas tvaran ।। bhīmapraharaṇair ghorair daityendraiḥ sumahābalaiḥ । vṛto mahārathair vīrair vajrīva surasattamaiḥ ।। japyaiś ca mantraiś ca tathoṣadhībhir ।mahātmanaḥ svastyayanaṃ pracakruḥ ।sa tatra vastrāṇi śubhāś ca gāvaḥ ।phalāni puṣpāṇi tathaiva niṣkān ।।baleḥ suto brāhmaṇasattamebhyo ।dadau dhanāny āśu yathā dhaneśaḥ ।sahasrasūryo bahukiṃkiṇīkaḥ ।parārdhyajāmbunadahemcitraḥ ।।sahasracandrāyutatārakaś ca ।ratho mahān agnir ivāvabhāti ।tam āsthito dānavasaṃgṛhītaṃ ।mahādhvajaḥ kārmukadhṛk sa bāṇaḥ ।।udvartayiṣyan yadupuṃgavānām ।atīva raudraṃ sa bibharti rūpaṃ ।sa vegavān vīrarathaughasaṃkulo ।viniryayau tān prati daityasāgaraḥ ।।mahārṇavodbhūtataraṃgasaṃkulo ।yathārṇavo lokavināśanāya ।bhīmāni saṃtrāsakarair vapurbhis ।tāny agrato bhānti balāni tasya ।।mahārathāny ucchritakārmukāṇi ।saparvatānīva vanāni rājan ।viniḥsṛtaḥ sāgaratoyavāsād ।atyadbhutaṃ cāhavaṃ draṣṭukāmaḥ ।।
+andhakārīkṛte loke pradīpte tryambake tadā 
+na nandī nāpi ca ratho na rudraḥ pratyadṛśyata ।।

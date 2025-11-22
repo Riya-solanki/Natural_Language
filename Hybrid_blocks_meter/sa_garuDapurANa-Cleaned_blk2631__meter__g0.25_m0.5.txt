@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2631 | label: meter | g:0.25 m:0.5 ---
+
+yasmin gehe ca likhitametattiṣṭhati nityadā ।
+sannidhānaṃ kṛte śrāddhe tatrāsmākaṃ bhaviṣyati ।।

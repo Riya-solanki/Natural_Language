@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4564 | label: hybrid | g:0.531 m:0.5 ---
+
+ratnasya dānasya ca yatphalaṃ bhaved yatsūryasya cendorgrahaṇe ca rāhoḥ ।
+annasya dānena phalaṃ yathoktaṃ bubhukṣite vipravare ca sāgnike ।।

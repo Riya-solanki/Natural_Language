@@ -1,0 +1,13 @@
+--- source: brsvbh1u-Cleaned.txt | block: 156 | label: grammar | g:0.537 m:0.261 ---
+
+jānataḥ svalakṣaṇabhedo anubhūyate ।
+na ca anirvācyārthabhedaḥ prakāśaṃ nirvācyaṃ bhettumarhati, atiprasaṅgāt ।
+na ca arthānāmapi parasparaṃ bhedaḥ samīcīnajñānapaddhatimadhyāste ityupariṣṭādupapādayiṣyate ।
+tadayaṃ prakāśa eva svayaṃprakāśa ekaḥ kūṭasthanityo niraṃśaḥ pratyagātmāśakyanirvacanīyebhyo dehendriyādibhya ātmānaṃ pratīpaṃ nirvacanīyamañcati jānātīti pratyaṅ sa cātmeti pratyagātmā, sa cāparādhīnaprakāśatvāt, anaṃśatvācca, aviṣayaḥ, tasminnadhyāso viṣayadharmāṇām, dehendriyādidharmāṇām katham,kimākṣepe ।
+ayukto ayamadhyāsa ityākṣepaḥ ।
+kasmādayamayukta ityata āha-sarvo hi puro avasthite viṣaye viṣayāntaramadhyasyati ।
+etaduktaṃ bhavati-yatparādhīnaprakāśamaṃśavacca tatsāmānyāṃśagrahe kāraṇadoṣavaśācca viśeṣāgrahe anyathā prakāśate ।
+pratyagātmā tvaparādhīnaprakāśatayā na svajñāne kāraṇānyapekṣate, yena tadāśrayairdeṣairduṣyet ।
+na cāṃśavān, yena kaścidasyāṃśo gṛhyeta, kaścinna gṛhyeta ।
+nahi tadeva tadānīmeva tenaiva gṛhītamagṛhītaṃ ca saṃbhavatīti na svayaṃprakāśapakṣe adhyāsaḥ ।
+sadātane apyaprakāśe puro avasthitatvasyāparokṣatvasyābhāvānnādhyāsaḥ ।

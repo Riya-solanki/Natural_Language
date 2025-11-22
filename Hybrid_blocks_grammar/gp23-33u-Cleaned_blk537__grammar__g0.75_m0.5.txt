@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 537 | label: grammar | g:0.75 m:0.5 ---
+
+[] kiṃ ca yadi ca vāstavatayā na vidyate doṣas tathāpi tat-kathāpi prathayati mama saṅkocam iti vrajād vyavadhātum ivāvadadhāti me citta-vṛttiḥ । [] tad etad vyavadhānam eva cāyatām āyati-śuddhiṃ vidhāsyati । [] ṛṇa-vraṇa-kalaṅkānāṃ kāle lopo bhaviṣyatīti nyāyena mama samyag-anusandhānena teṣām lokānāṃ paścāt-tāpam anu sad-upadeśa-grahaṇena ca ।

@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 1788 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ prarocayan sabhyān sūtrī kuryād athāmukham । 
+sūtra-dhāro naṭīṃ brūte sva-kāryaṃ prati yuktitaḥ ।।
+prastutākṣepa-citroktyā yat tad āmukham īritam । 
+trīṇyāmukhāṅgāny ucyante kathodghātaḥ pravartakaḥ ।।
+prayogātiśayaś ceti teṣāṃ lakṣaṇam ucyate । 
+sūtriṇo vākyam arthaṃ vā svetivṛtta-samaṃ yadā ।
+svīkṛtya praviśet pātraṃ kathodghāto dvidhā mataḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3577 | label: grammar | g:0.625 m:0.5 ---
+
+baddhvā cāmbhonidhim aśeṣarākṣasakulakṣayaṃ kṛtvā daśānanāpahṛtāṃ tadvadhāpahatakalaṅkām apy analapraveśaśuddhām aśeṣadeveśasaṃstūyamānāṃ sītāṃ janakarājatanayām ayodhyām āninye ।।

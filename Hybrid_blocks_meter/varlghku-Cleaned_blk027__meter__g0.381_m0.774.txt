@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 27 | label: meter | g:0.381 m:0.774 ---
+
+yathāsaṃkhyamanudeśaḥ samānām ।।
+samasaṃbandhī vidhiryathāsaṃkhyaṃ syāt । viṣṇave । pāvakaḥ ।।

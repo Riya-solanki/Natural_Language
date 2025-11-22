@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 854 | label: meter | g:0.272 m:0.845 ---
+
+dharmaṃ jñānaṃ ca vairāgyamaiśvaryaṃ pūrvadeśataḥ ।
+āgneyādiṣvarcayedvai adharmādicatuṣṭayam ।।

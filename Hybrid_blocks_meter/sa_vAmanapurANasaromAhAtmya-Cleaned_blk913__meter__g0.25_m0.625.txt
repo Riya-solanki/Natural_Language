@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 913 | label: meter | g:0.25 m:0.625 ---
+
+tamādāya mahādevaḥ stūyamāno maharṣibhiḥ ।
+niveśayāmāsa tadā saraḥpārśve tu paścime ।।

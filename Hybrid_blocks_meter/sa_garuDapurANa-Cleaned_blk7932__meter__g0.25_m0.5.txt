@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7932 | label: meter | g:0.25 m:0.5 ---
+
+gṛhaṃ gatvā sa ātmānaṃ kṛtakṛtyamamanyata ।
+kālena nidhanaṃ prāpto nīto vaivasvatānugaiḥ ।।

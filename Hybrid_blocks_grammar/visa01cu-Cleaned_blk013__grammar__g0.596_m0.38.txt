@@ -1,0 +1,6 @@
+--- source: visa01cu-Cleaned.txt | block: 13 | label: grammar | g:0.596 m:0.38 ---
+
+śaradindvityādi ।
+śaradinduvat sundararuciḥ, sā prasiddhāgirāṃ devī sarasvatī, me mama cetasi santataṃ vistṛtaṃ, tamaḥ tamastulyamajñānam, apahṛtya, akhilān mayā vakṣyamāṇān arthān prakāśayatvityarthaḥ ।
+atrādye pāde luptopamāmahimnā śaradindorapi sundararucitvaṃ santataṃ tamaḥ padārthāndhakāranāśakatvaṃ ghaṭapaṭādyakhilārthaprakāśakatvaṃ ca siddhyati ।
+tathā ca ebhiḥ sādharmyaiḥ śaradindugīrdevyorupamānopameyabhāva iti bodhyam ।

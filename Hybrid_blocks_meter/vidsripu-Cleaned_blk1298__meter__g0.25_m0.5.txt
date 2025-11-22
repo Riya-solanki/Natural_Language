@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1298 | label: meter | g:0.25 m:0.5 ---
+
+lakṣmīṃ tṛṇāya mantyante tadbhareṇa namanti ca ।
+aho kim api citrāṇi caritrāṇi mahātmanām ।।

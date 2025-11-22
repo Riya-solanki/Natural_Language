@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4353 | label: meter | g:0.194 m:0.5 ---
+
+śines tu satyavāg jajñe satyakaś ca mahārathaḥ 
+satyakasyātmajaḥ śūro yuyudhānas tv ajāyata ।।

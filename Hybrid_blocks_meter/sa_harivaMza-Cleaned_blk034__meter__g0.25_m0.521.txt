@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 34 | label: meter | g:0.25 m:0.521 ---
+
+vidyuto aśanimeghāṃś ca rohitendradhanūṃsi ca 
+sanaś ca yogatattvajñaṃ sanakaṃ ca sanandanam । 
+ete sapta samākhyātā ṛṣayaḥ saṃśitavratāḥ । 
+yādāṃsi ca sasarjādau parjanyaṃ ca sasarja ha ।।

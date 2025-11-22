@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1171 | label: meter | g:0.194 m:0.5 ---
+
+tasya putrā babhūvur hi sarve bhīmaparākramāḥ 
+kṛtavarmāgrajas teṣāṃ śatadhanvā tu madhyamaḥ ।।

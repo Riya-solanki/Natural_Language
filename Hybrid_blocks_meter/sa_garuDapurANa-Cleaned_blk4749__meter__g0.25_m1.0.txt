@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4749 | label: meter | g:0.25 m:1.0 ---
+
+prāyeṇāmāśayaṃ gṛhṇannekadeśaṃ na cātiruk ।
+pīḍakairavakīrṇo atipītalohitapāṇḍuraiḥ ।।

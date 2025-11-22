@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3100 | label: meter | g:0.25 m:0.555 ---
+
+sarvāṃścatuṣpadānhatvā ahorātro ṣito japet ।
+śūdraṃ hatvā caretkṛcchramatikṛcchraṃ tu vaiśyahā ।
+kṣattraṃ cāndrāyaṇaṃ vipraṃ dvāviṃśātriṃśamāhare t ।।

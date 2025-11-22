@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 863 | label: meter | g:0.139 m:0.753 ---
+
+yathā mamaiva-
+subhadrāyāḥ śrutvā tad-anumatimat tena haraṇaṃ
+kṛtaṃ kaunteyena kṣubhita-manasaḥ stabdha-vapuṣaḥ ।
+namad-vaktrāḥ svānte kim api vilikhanto' tikuṭilair
+apaśyann udbāṣpair yadu-patim apāṅgair yadu-bhaṭāḥ ।।

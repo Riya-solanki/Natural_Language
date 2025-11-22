@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2569 | label: meter | g:0.25 m:0.625 ---
+
+tṛptāḥ samādravan sarve devāyatanamuttamam ।
+turaṅgakhuranirghoṣaṃ śrutvā tā yoṣitāṃ varāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1693 | label: meter | g:0.25 m:0.5 ---
+
+pūrvaṃ śāntabhayaṃ varṣaṃ śiśiraṃ sukhadaṃ tathā 
+ānandaṃ ca śivaṃ caiva kṣemakaṃ dhruvam eva ca ।।

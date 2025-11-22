@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 90 | label: meter | g:0.346 m:0.747 ---
+
+ahaṅkāramamakāraistathārāgādibhirmalaiḥ ।
+kalpitaṃ paratantreṇa duḥkhāt kliśyanti bāliśāḥ ।।

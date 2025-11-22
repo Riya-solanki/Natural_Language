@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 28 | label: hybrid | g:0.51 m:0.5 ---
+
+-samudācarantyau bhedena jñāyamāne vṛttī vartane yayoste tathā ।
+adhyāso hi vivekāgraheṇa vyāptaḥ, atra vivekagrahasattvādadhyāso nopapanna ityāśayaḥ ।

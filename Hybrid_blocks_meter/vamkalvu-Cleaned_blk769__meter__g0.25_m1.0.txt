@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 769 | label: meter | g:0.25 m:1.0 ---
+
+gaganaṃ gaganākāraṃ sāgaraḥ sāgaropamaḥ ।
+rāmarāvaṇayoryuddhaṃ rāmarāvaṇayoriva ।।

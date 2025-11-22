@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 190 | label: meter | g:0.112 m:0.8 ---
+
+ādeyādhārādi-bhāvena bhedāt
+prāṇā bhinnāḥ prāṇinaḥ santi bhinnāḥ ।
+ye kṛṣṇādyāḥ snigdhatā-śarma-bhājaḥ
+prāṇā jñeyās te mithaḥ prāṇinaś ca ।। [śālinī]

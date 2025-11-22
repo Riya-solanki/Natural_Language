@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 390 | label: hybrid | g:0.419 m:0.488 ---
+
+atha gaurityasya śabdasya kor'thaḥ iti vācyanirūpaṇopakramavyājenākṛtisadbhāvaṃ pratipādayati saṃbandhanityatvasiddhaye ।
+nahyasatyāmākṛto vyaktibhiḥ śabdasyāpauruṣeyaḥ saṃbandhaḥ tāsāmanityatvāt, upalakṣaṇasyāpi nityasyābhāvādākṛtyabhāve, tasmādākṛtirasti nāstīti vicāryate ।
+sādhite tu tatsadbhāve saiva śabdābhidheyetyākṛtyadhikaraṇe vakṣyate ।।

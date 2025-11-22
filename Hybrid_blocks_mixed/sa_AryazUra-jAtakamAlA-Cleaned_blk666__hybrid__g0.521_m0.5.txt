@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 666 | label: hybrid | g:0.521 m:0.5 ---
+
+hataśca yajñe tridivaṃ yadi vrajennanu vrajeyuḥ paśutāṃ svayaṃ dvijāḥ ।
+yatastu nāyaṃ vidhirīkṣyate kvacidvacastadeṣāṃ ka iva grahīṣyati ।।

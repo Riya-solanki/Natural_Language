@@ -1,0 +1,3 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 3 | label: hybrid | g:0.458 m:0.5 ---
+
+ye cakṣurādijñānasyālambanaṃ bāhyārtho astītīcchanti । nanu te kalpayanti paramāṇun; tatkāraṇātvāt[jñānasya] । saṃghātaṃ vā tadābhajñānasya jāyamānatvāt । tatra tāvat

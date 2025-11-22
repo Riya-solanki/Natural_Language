@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 471 | label: grammar | g:0.573 m:0.5 ---
+
+nāhaṃ nāgo naiva yakṣo na devo daityo nāhaṃ nāpi gandharvarājā [!] ।
+rakṣo nāhaṃ nāpi vidyādharo api jātis tulyā saṃpratīhi tvayā naḥ ।।

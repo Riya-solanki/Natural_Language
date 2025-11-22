@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11927 | label: meter | g:0.359 m:0.726 ---
+
+śrīgaruḍamahāpurāṇam- 
+pravahānantarānvakṣye śṛṇu pakṣīndrasattama ।
+yo dharmo brahmaṇaḥ putro hyādisṛṣṭau tvagudbhavaḥ ।।

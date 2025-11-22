@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2627 | label: meter | g:0.25 m:0.625 ---
+
+hemante dvādaśābdāni tṛptimetatprayacchati ।
+śiśire dviguṇābdāni tṛptiṃ stotramidaṃ śubham ।।

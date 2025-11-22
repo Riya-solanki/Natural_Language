@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 229 | label: meter | g:0.125 m:0.908 ---
+
+divya-tāmbūla-cārcikya
+vastra-mālya-vibhūṣaṇaiḥ ।
+arcitā bandhavaḥ sarve
+dakṣiṇābhiś ca bhūsurāḥ ।। [anuṣṭubh]

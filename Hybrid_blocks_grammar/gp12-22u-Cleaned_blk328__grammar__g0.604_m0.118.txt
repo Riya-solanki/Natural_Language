@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 328 | label: grammar | g:0.604 m:0.118 ---
+
+[] tad evaṃ tāsāṃ khelā-mātra-vilāsinīnāṃ sva-vāsinīnāṃ mātara-pitarādibhir antaḥ-puryām asūryampaśyatayā dhūtākarṇana-kṛṣṇa-varṇanatayā ca paritaḥ parītaṃ vāritānām api dīpyamāna-kaiśora-sāmīpya-samiddhaḥ sva-bhāva-siddhaḥ kṛṣṇa-bhāvaḥ svayam udbhūtavān vāridā-gamana-samayaṃ samayā kāsāñcid vallī-jātīnāṃ pallava iva । yataḥ-
+hṛdayam anaṅgas tāsām aviśad vayasaḥ kramād eva ।
+śyāmāṅgaḥ sa tu sāṅgaṃ viveśa sahasā tataḥ pūrvam ।। [anuṣṭubh]

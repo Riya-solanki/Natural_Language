@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 823 | label: grammar | g:0.625 m:0.5 ---
+
+atha sā tair bodhisattvavaco'dbhir ākleditahṛdayā duḥkhadaurmanasyaparyākulamānasā niśīthe kāśikārājam upetya karuṇākulatarākṣareṇa vacasā kṛtāñjalir avocat ।।

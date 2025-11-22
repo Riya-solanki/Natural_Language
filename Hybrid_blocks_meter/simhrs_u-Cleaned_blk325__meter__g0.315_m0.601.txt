@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 325 | label: meter | g:0.315 m:0.601 ---
+
+atha atideśaḥ-
+so' tideśo mad-uktāni tad-uktānīti yad vacaḥ ।।

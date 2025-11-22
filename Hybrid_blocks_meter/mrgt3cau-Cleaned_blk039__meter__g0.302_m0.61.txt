@@ -1,0 +1,7 @@
+--- source: mrgt3cau-Cleaned.txt | block: 39 | label: meter | g:0.302 m:0.61 ---
+
+Vṛtti:
+[svakāle strīniṣevaṇam] vratasamāpterūrdhvaṃ dārasaṃgrahakālaḥ strīṇāṃ svakālaḥ, tasminniṣevaṇam।
+[maṅgalācārayogitvaṃ gandhamālyādidhāraṇam] maṅgalācaraṇayogaṃ prakaṭaṃ sragādidhāraṇaṃ ca kuryāt।
+[śaivānām asādhāraṇa ācāraḥ]
+idānīṃ `paraścāvasaraprāpta' iti prākprakrānto asādhāraṇa ācārasaṃgrahaḥ sūtryate

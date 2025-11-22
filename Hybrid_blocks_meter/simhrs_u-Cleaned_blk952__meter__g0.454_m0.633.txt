@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 952 | label: meter | g:0.454 m:0.633 ---
+
+svapna-darśanena, yathā-
+svapne dṛṣṭākārā tam api samādāya gatavatī bhavatī ।
+anyam upāyaṃ na labhe prasīda rambhoru dāsāya ।।

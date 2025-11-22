@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1119 | label: meter | g:0.306 m:0.5 ---
+
+svajanādanavāpya vipriyaṃ jarayā vopahṛtāṃ virūpatām ।
+kathamekapade rujaṃ vinā vibhavodgāri gṛhaṃ sa muktavān ।।

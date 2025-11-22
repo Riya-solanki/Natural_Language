@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2736 | label: meter | g:0.25 m:0.75 ---
+
+buddhatvaṃ sarvasatvānāṃ bodhisatvatvameva ca ।
+yathāvadvinayaṃ caiva karmamudrāgrasiddhidā ।।

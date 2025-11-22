@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10937 | label: meter | g:0.306 m:0.5 ---
+
+saṃkarṣaṇācca garuḍa jayāyāṃ yo vabhūva ha ।
+sa vāyuḥ prathamo jñeyo pradhāna iti kīrtitaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 734 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha sarvam icchan anvicchan pratīcchann api girir ayam aho giriṃ karotīti nidhyāya, mūrdhani baddhāñjalitayā sarvasminn apy ūrdhvaṃ sthitavati, sarvato' pi varān varān viracayyātarkitam antarhite parama-hite tasminn, akhaṇḍa-daṇḍavat-praṇāma-pūrvam atra dvitra-kṣaṇaṃ citram iva sarva evāsīt ।

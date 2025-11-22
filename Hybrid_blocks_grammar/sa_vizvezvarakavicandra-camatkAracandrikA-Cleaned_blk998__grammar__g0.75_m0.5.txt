@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 998 | label: grammar | g:0.75 m:0.5 ---
+
+atra yeyamupagautamītaṭaṃ paryaṭatāmāṭavikamahīpatīnāṃ kuṭilopāyapāṭavastutiḥ seyamanuprāṇitarājamārgapraṇayino nāyakasya manasi doṣatayā pratibhāsyata ityabhiprāyeṇa caturamatibhiramātyaiḥ pramukhanaiṣṭhuryaparijihīrṣayā kūṭopāyaprayogarūpo doṣo api nāyakacaraṇasenāsādhanadhanārjanalakṣaṇaguṇatayā nirūpita iti so ayaṃ doṣasya guṇībhāvo nāma leśataḥ śanairananyaviditamucyata iti leśaḥ ।

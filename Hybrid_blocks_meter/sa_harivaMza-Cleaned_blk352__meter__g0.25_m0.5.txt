@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 352 | label: meter | g:0.25 m:0.5 ---
+
+imau ca bālakau mahyaṃ kanyā ceyaṃ sumadhyamā 
+saṃbhāvyās te na cākhyeyam idaṃ bhagavate tvayā ।।

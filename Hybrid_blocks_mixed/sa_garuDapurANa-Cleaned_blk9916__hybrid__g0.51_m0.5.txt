@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9916 | label: hybrid | g:0.51 m:0.5 ---
+
+dehaṃ parityajya yadā gatāyuḥ pakṣin sthito ahaṃ kṛmikīṭasaṃsthitaḥ ।
+sarīsṛpo ahaṃ maśako vinirmitaścatuṣpado ahaṃ vanasūkaro aham ।।

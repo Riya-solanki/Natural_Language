@@ -1,0 +1,6 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 203 | label: meter | g:0.195 m:0.853 ---
+
+matvā sattveṣu tattvādhigamakṣamatābhāvamālokya loke
+uttālābdhitaraṅgabhaṅgavikalāddīpasphuliṅgādiva ।
+kiñcit kiñcidupetya saṃcitavatā grantho mayāyaṃ kṛto
+ye vai saṃvṛtisatyabhītasubhagāsteṣāmalāto bhavet ।।

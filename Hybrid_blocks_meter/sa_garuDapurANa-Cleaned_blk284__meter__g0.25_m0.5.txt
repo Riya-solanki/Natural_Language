@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 284 | label: meter | g:0.25 m:0.5 ---
+
+brahmāṇaṃ sarvagātreṣu karayoḥ śrīdharaṃ tathā ।
+ahaṃ viṣṇuriti dhyātvā karṇikāyāṃ nyaseddharim ।।

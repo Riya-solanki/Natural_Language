@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1098 | label: meter | g:0.25 m:0.5 ---
+
+bahvarthakāle api viśodhitātmā ātmaiva sau paśyati sarvabhūtān 
+na me samāno bhuvanāntarāle viśuddhabhāvo bhavate hy akāle ।।

@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 14 | label: grammar | g:0.75 m:0.5 ---
+
+bhāva tvaryatāṃ tvaryatām । ete khalvāryavidurājñayā puruṣāḥ sakalameva śailūṣajanaṃ vyāharanti । pravartyantāmaparihīyamānamātodyavinyāsādikā vidhayaḥ । praveśakālaḥ kila tatrabhavataḥ pārāśaryanāradatumburujāmadagnyaprabhṛtibhirmunivṛndārakairanugamyamānasya bharatakulahitakāmyayā svayaṃ pratipannadautyasya devakīsūnoścakrapāṇermahārājaduryodhanaśibiraṃ prati prasthātukāmasyeti ।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1413 | label: grammar | g:0.75 m:0.5 ---
+
+ity upakramya-kim āha rāvaṇaḥ ? re re mānuṣī-putra ! ayam asau akṣatriyo rāvaṇaḥ । tad atra dṛśyatām । kataro vinetā iti । kim āha rāmabhadraḥ ? haṃho amānuṣī-putra ! kṣatriyo rāmaḥ । ayam asau akṣatriyo rāvaṇaḥ । tad atra dṛśyatāṃ kataro vineyaḥ, kataro vinetā ity antena rāma-rāvaṇābhyāṃ sva-sāmarthya-prakhyāpanād vyavasāyaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 281 | label: meter | g:0.26 m:0.5 ---
+
+yāvanti jñāna nayadvāra uyāyamūlāḥ sarve ti prajñavarapāramitāprasūtāḥ 
+sāmagripratyaya pravartati jñānayantro na ca prajñapāramita vardhati hīyate vā ।।

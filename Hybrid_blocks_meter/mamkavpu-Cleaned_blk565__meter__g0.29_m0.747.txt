@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 565 | label: meter | g:0.29 m:0.747 ---
+
+{sudhākarakarākāraviśāradaviceṣṭitaḥ ।
+akāryamitrameko asau tasya kiṃ varṇayāmahe ।।}

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5113 | label: meter | g:0.194 m:0.75 ---
+
+tadā vicalite dharme janāḥ śeṣapuraskṛtāḥ 
+śubhāny evācariṣyanti dānasatyasamanvitāḥ ।।

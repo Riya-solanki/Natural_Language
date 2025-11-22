@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 764 | label: meter | g:0.306 m:0.5 ---
+
+nimittamāsādya yadeva kiñcana svadharmamārgaṃ visṛjanti bāliśāḥ ।
+tapaḥśrutajñānadhanāstu sādhavo na yānti kṛcchre parame api vikriyām ।।

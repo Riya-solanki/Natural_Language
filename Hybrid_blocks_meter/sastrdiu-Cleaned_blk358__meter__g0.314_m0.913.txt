@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 358 | label: meter | g:0.314 m:0.913 ---
+
+pramāṇāntaravaśātkathañcitsaṃgacchetāpi ।
+vaidikastu vyavahāraḥ śabdaikaśaraṇatvādanādartavyaḥ syānnirmūlatvāt ।।

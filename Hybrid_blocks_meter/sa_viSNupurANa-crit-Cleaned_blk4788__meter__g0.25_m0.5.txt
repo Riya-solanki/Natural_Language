@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4788 | label: meter | g:0.25 m:0.5 ---
+
+gantavyaṃ vasudevasya na bhavadbhyāṃ tathā gṛham 
+yuvayor hi kṛte vṛddhaḥ sa kaṃsena nirasyate ।।

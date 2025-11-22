@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 146 | label: meter | g:0.25 m:0.5 ---
+
+yaśceha tvadvane sthitvā trirātraṃ vai kariṣyati ।
+sarve kāmāḥ samṛdhyante manasā yānihecchati ।।

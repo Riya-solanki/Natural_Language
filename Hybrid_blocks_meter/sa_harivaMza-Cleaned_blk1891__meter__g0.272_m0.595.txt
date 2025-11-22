@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1891 | label: meter | g:0.272 m:0.595 ---
+
+śrāmyate vyaktam eveyaṃ pārthivaughaprapīḍitā 
+sahajāṃ yā kṣamāṃ tyaktvā calatvam acalā gatā ।।

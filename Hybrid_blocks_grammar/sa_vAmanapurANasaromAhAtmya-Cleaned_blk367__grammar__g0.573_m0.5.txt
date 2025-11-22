@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 367 | label: grammar | g:0.573 m:0.5 ---
+
+ye'rthā nityā ye vinaśyanti cānye ye'rthāḥ sthūlā ye tathā santi sūkṣmāḥ ।
+ye vā bhūmau ye antarikṣenyato vā teṣāṃ devi tvatta evopalabdhiḥ ।।

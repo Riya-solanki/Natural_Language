@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 359 | label: meter | g:0.306 m:0.5 ---
+
+brāhmaṇād ugra-kanyāyām āvṛto nāma jāyate ।
+ābhīro' mbaṣṭa-kanyāyām āyogavyāṃ tu dhigvaṇaḥ ।।[Manu ] iti ।

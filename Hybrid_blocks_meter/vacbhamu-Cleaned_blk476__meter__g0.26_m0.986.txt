@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 476 | label: meter | g:0.26 m:0.986 ---
+
+śravaṇādhyayanārthapratiṣedhātsamṛteśca ।
+nigadavyākhyānena bhāṣyeṇa vyākhyātam ।
+atirohitārthamanyat ।।

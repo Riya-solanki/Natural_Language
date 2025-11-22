@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4065 | label: meter | g:0.25 m:0.5 ---
+
+svābhijñānañca me dehi yena rāmaḥ smariṣyati ।
+tacchrutvā pradadau sītā veṇīratnaṃ hanūmate ।।

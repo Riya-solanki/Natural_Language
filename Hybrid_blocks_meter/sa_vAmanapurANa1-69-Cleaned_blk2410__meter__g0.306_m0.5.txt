@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2410 | label: meter | g:0.306 m:0.5 ---
+
+tato apaśyaṃ kapivaraṃ so avadanmāṃ kva yāsyasi ।
+imāṃ devavatīṃ gṛhyaṃ mūḍha nyastāṃ mahāśrame ।।

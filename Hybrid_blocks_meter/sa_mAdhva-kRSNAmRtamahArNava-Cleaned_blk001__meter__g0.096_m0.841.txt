@@ -1,0 +1,4 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 1 | label: meter | g:0.096 m:0.841 ---
+
+Mādhva Ānandatīrtha Kṛṣṇāmṛtamahārṇava
+kṛṣṇāmṛtamahārṇavaḥ

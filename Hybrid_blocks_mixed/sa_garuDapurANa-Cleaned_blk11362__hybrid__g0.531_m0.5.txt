@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11362 | label: hybrid | g:0.531 m:0.5 ---
+
+ajñātatve cānnapānādikaṃ ca dattaṃ saṃto vyarthamevaṃ vadanti ।
+hariṃ vakṣye tatratatra sthitaṃ caṃ taṃ vai śṛṇu tvādareṇādya nityam ।।

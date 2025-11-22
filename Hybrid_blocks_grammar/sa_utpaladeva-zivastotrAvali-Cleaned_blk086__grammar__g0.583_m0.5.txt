@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 86 | label: grammar | g:0.583 m:0.5 ---
+
+tāvakāṅghrikamalāsanalīnā ye yathāruci jagad racayanti te viriñcim adhikāramalenāliptam asvavaśam īśa hasanti ।।

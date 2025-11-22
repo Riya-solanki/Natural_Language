@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 463 | label: meter | g:0.25 m:0.5 ---
+
+praviṣṭamātrasya tu tatkṣaṇena dvāraṃ parikṣiptakapāṭayantram ।
+tatkarmavāyuprabhavair mahadbhiḥ kṣaṇād bhujāgrair iva saṃjaghāṭa ।।

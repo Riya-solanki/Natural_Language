@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5202 | label: meter | g:0.344 m:0.734 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+strīrogādicikitsāṃ ca vakṣye suśruta tacchṛṇu ।
+yonivyāpatsu bhūyiṣṭaṃ śasyate karma vātajit ।।

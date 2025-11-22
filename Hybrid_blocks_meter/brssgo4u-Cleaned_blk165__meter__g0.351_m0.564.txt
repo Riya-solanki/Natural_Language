@@ -1,0 +1,6 @@
+--- source: brssgo4u-Cleaned.txt | block: 165 | label: meter | g:0.351 m:0.564 ---
+
+sthūladehārambhāya pañcīkṛtabhūtānyāvaśyakānīti raṃhatyadhikaraṇe vyākhyātam ।
+aṇvyaḥ sūkṣmāḥ, mīyanta iti mātrāḥ paricchinnāḥ, prāṅmokṣādavināśinyaḥ, daśārdhānāṃ pañcānāṃ bhūtānāṃ sūkṣmabhāgā iti yāvat ।
+jīvasya bhūtāśrayatvaṃ karmāśrayatvaśrutiviruddhamityāśaṅkya karma nimittatvenāśrayaḥ, bhūtāni tu dehopādānatvenetyubhayamaviruddhamityāha-nanu cetyādinā ।
+tau yājñavalkyārtabhāgau yajjīvādhāramūcatustatkarmeti śrutervacanam ।।

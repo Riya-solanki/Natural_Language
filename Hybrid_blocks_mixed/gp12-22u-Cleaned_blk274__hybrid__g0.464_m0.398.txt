@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 274 | label: hybrid | g:0.464 m:0.398 ---
+
+[] vṛndāha-hanta, yāḥ khalu nityatayā kṛṣṇasya preyasya iti śrūyante, tāsām apy anya-sambandhaḥ sanirbandha iva dṛśyate ।
+[] paurṇamāsī uvāca-katham ivāyaṃ parāmṛśyate?

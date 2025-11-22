@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 785 | label: meter | g:0.185 m:0.824 ---
+
+gandhena, yathā mamaiva-
+unmīlan-nava-mālatī-parimala-nyakkāra-baddha-vratair
+ālolair ali-maṇḍalaiḥ pratipadaṃ pratyāśam āsevitaḥ ।
+aṅgānām abhijāta-campaka-rucām asyā mṛgākṣyā sphuran-
+nāmodo' yam adṛṣṭa-pūrva-mahimā badhnāti me mānasam ।।

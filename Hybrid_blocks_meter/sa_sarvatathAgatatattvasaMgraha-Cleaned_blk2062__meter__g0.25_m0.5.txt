@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2062 | label: meter | g:0.25 m:0.5 ---
+
+bhāvayetsvayamātmānaṃ padmaṃ guhya yathā tathā ।
+nirīkṣed vajradṛṣṭyā vai sarvalokaṃ sa rāgayet ।।

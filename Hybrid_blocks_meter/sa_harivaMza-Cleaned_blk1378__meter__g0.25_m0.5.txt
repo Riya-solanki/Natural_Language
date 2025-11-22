@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1378 | label: meter | g:0.25 m:0.5 ---
+
+etad bāhudvayaṃ yat te tat te mama kṛte nṛpa 
+śatāni daśa bāhūnāṃ bhaviṣyati na saṃśayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6492 | label: grammar | g:0.58 m:0.5 ---
+
+yas tvaitat sakalaṃ śṛṇoti puruṣaḥ kṛtvā manasy acyutaṃ sarvaṃ sarvamayaṃ samastajagatām ādhāram ātmāśrayam 
+jñānaṃ jñeyam anantam ādirahitaṃ sarvāmarāṇāṃ hitaṃ sa prāpnoti na saṃśayo asty avikalaṃ yad vājimedhe phalam ।।

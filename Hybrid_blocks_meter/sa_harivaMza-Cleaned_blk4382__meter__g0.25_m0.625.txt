@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4382 | label: meter | g:0.25 m:0.625 ---
+
+tasmiṃs tatrāvapatite mahiṣyaḥ keśavasya yāḥ 
+vismitāś caiva hṛṣṭāś ca bhīrāś caivābhavaṃs tadā ।।

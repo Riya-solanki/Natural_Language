@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3178 | label: meter | g:0.25 m:0.5 ---
+
+śāśvataṃ devapūjādi vipradānaṃ ca śāśvatam ।
+śāśvataṃ saguṇā vidyā suhṛnmitraṃ ca śāśvatam ।।

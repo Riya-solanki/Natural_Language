@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3753 | label: meter | g:0.25 m:0.625 ---
+
+sa parvataguhāṃ kāṃcit praviśya śramakarśitaḥ 
+suṣvāpa kālam etaṃ vai yāvat kṛṣṇasya darśanam ।।

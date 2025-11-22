@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6082 | label: meter | g:0.25 m:0.5 ---
+
+adhaś cordhvaṃ ca te dīptās tataḥ sapta divākarāḥ 
+dahanty aśeṣaṃ trailokyaṃ sapātālatalaṃ dvija ।।

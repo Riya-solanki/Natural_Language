@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2729 | label: meter | g:0.25 m:0.625 ---
+
+ṣoḍhānyāsaṃ tataḥ paścād vācanīyaṃ prayatnataḥ 
+svabhrā caiva nirabhrā ca bhūcarī khecarī tathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2062 | label: meter | g:0.326 m:0.5 ---
+
+mṛlliptamatsyapuṭamadhyagataṃ tu kṛtvā paścātpacettanu tataśca biḍālapuṭyā ।
+dugdhe tataḥ payasi taṃ vipacetsudhāyāṃ pakraṃ tato api payasā śucicikraṇena ।।

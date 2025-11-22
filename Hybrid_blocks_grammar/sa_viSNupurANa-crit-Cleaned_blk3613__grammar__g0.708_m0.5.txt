@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3613 | label: grammar | g:0.708 m:0.5 ---
+
+evaṃ ca tayor atīvograḥ saṃgrāmas tārānimittas tārakāmayo nāmābhavat । tataḥ samastaśastrāṇy asureṣu rudrapurogamā devā deveṣu cāśeṣadānavā mumucuḥ ।।

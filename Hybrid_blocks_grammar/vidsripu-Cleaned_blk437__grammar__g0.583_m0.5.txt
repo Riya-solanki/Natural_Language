@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 437 | label: grammar | g:0.583 m:0.5 ---
+
+dūrvāśyāmo jayati pulakair eṣa kāntaḥ kapolaḥ kastūrībhiḥ kim iha likhito drāviḍaḥ patrabhaṅgaḥ ।
+pratyagrāṇi priyakararuhakrīḍitāny eva mugdhe śobhābhāñji stanakalaśayos tanvi hāro api bhāraḥ ।।

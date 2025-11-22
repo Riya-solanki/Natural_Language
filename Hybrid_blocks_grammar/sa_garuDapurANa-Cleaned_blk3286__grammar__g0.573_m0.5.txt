@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3286 | label: grammar | g:0.573 m:0.5 ---
+
+varaṃ vindhyāṭavyāṃ nivasanamabhuktasya maraṇaṃ varaṃ sarpākīrṇe śayanamatha kūpe nipatanam ।
+varaṃ bhrāntāvarte sabhayajalamadhye praviśanaṃ na tu svīye pakṣe hi dhanamaṇu dehīti kathanam ।।

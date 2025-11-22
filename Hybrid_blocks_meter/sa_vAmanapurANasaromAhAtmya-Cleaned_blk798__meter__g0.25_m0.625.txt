@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 798 | label: meter | g:0.25 m:0.625 ---
+
+mārkaṇḍeyo munistatra vinayenābhigamya ca ।
+papraccha saramāhātmyaṃ pramāṇāṃ ca sthitiṃ tathā ।।

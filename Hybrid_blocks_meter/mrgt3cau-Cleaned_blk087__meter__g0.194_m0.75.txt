@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 87 | label: meter | g:0.194 m:0.75 ---
+
+yatra bīja ivārūḍho mahātantrārthapādapaḥ ।
+ābhāti mūlasūtraṃ tad athaśabdādyalaṃkṛtam

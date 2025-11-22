@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 27 | label: meter | g:0.281 m:0.5 ---
+
+kiṃ dīrghadīrgheṣu guṇeṣu padma siteṣv avacchādanakāraṇaṃ te 
+asty eva tān paśyati ced anāryā trasteva lakṣmīr na padaṃ vidhatte ।।

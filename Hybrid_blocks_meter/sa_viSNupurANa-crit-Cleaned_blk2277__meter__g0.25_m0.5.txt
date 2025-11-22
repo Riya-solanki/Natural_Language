@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2277 | label: meter | g:0.25 m:0.5 ---
+
+yat tu kālāntareṇāpi nānyasaṃjñām upaiti vai 
+pariṇāmādisaṃbhūtaṃ tad vastu nṛpa tac ca kim ।।

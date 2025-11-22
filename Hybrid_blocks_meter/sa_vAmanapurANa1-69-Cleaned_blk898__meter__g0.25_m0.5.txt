@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 898 | label: meter | g:0.25 m:0.5 ---
+
+yaccāpi kurvato nātmā jugupsāmeti rākṣasa ।
+tat karttavyamaśaṅkena yanna gopyaṃ mahājane ।।

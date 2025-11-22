@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 625 | label: hybrid | g:0.542 m:0.5 ---
+
+tatastasmātpiṇḍād ardhamātrayā śuddhanāgaṃ madhye kṣiptvā mūṣāyāṃ punaḥ punarāvartya jāraṇīyam ।।

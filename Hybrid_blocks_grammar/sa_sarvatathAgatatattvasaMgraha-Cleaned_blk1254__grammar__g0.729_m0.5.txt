@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1254 | label: grammar | g:0.729 m:0.5 ---
+
+tatredaṃ nṛtyapratinṛtyopanṛtyajñānanṛtyopahāramudrājñānaṃ bhavati । [tatrādita eva vajradhātusaṃgrahahṛdayaṃ vajragītena gāyan sarvatathāgatānāṃ stotropahāraṅkṛtvā, vajrācāryeṇa satvavajrimudrā sphoṭayitavyā, tato yathā pra[viṣṭa]mudrābhiḥ samāviśanti ।

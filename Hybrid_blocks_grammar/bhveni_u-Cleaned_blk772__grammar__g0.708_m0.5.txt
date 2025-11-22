@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 772 | label: grammar | g:0.708 m:0.5 ---
+
+SktCh tato deva sutarathavidhvaṃsanāmarṣoddīpitena svāmināṅgarājenāgaṇitabhīmasenābhiyogena parimukto dhanaṃjayasyopari śilīmukhāsāraḥ । kumāro api parijanopanītamanyaṃ rathamāruhya punarapi pravṛtto dhanaṃjayena sahāyoddhum ।

@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 483 | label: grammar | g:0.783 m:0.15 ---
+
+[] tatha ca sati tat tad anubhūya bhūyaś ca tābhir idaṃ tasyām eva sabhāyāṃ varṇitam-
+dhṛta-vana-mālya-vataṃsa-lasad-vana-veśa-tatir bala-saṅgī । giri-taṭam anu gocāraṇa-kāraṇa-veṇu-vinodana-raṅgī ।।viśvaṃ bhramayati karṣati varṣati mudam api ghana-gaṇa-hārī । sāndra-cchāyām anu śītala-tanur anu sakhi-sukha-saṃcārī ।।kusumaṃ varṣan nija-ruci-vitaraṇa-sauhṛdam enam upāste । ambu-dharaḥ sphuṭam upagantā na ca kiṃ tu chatram ivāste ।।[] tataś ca tatrātighane ghana-cchāye vihāraṃ vicchāyati sma ।

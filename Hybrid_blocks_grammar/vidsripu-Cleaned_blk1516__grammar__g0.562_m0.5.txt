@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1516 | label: grammar | g:0.562 m:0.5 ---
+
+āmṛśya stanamaṇḍalaṃ pratimuhuḥ saṃcumbya gaṇḍasthalīṃ grīvāṃ pratyavalambya sambhramabalair āhanyamānaḥ karaiḥ ।
+suptasyādrinadinikuñjagahane mattaḥ payodānilaiḥ karṇānte maśakaḥ kim apy arivadhūsārthasya te jalpati ।।

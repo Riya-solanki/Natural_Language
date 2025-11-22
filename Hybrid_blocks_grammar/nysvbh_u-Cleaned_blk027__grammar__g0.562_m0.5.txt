@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 27 | label: grammar | g:0.562 m:0.5 ---
+
+vādaḥ khalu nānāpravaktṛkaḥ pratyadhikaraṇasādhano anyatarādhikaraṇanirṇayāvāsāno vākyasamūhaḥ pṛthaguddiṣṭa upalakṣaṇārtham, upalakṣitena vyavahārastatvajñānāya bhavatīti।

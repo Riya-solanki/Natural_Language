@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 248 | label: meter | g:0.194 m:0.5 ---
+
+sa kathaṃ tiṣṭhate mūḍho bhuktodgīrṇe vapur yathā 
+nābubhukṣā bubhukṣā vā ghṛṇī kṣīṇatanur bhavet ।।

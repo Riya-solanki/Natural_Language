@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 870 | label: meter | g:0.25 m:0.625 ---
+
+tanmayo bhavate tadvadātmāpi manasā kṛtaḥ ।
+manaso bhedamāśritya karmabhiścopacīyate ।।

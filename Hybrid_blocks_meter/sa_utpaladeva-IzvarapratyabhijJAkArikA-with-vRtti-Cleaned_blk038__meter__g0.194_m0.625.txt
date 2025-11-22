@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 38 | label: meter | g:0.194 m:0.625 ---
+
+dṛksvābhāsaiva nānyena vedyā rūpadṛśeva dṛk 
+rase saṃskārajatvaṃ tu tattulyatvaṃ na tadgatiḥ ।।

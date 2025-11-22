@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 865 | label: meter | g:0.371 m:0.714 ---
+
+pūjya-krodhe tu ceṣṭāḥ syuḥ sva-nindā namra-vaktratā । 
+anuttara-pradānāṅga-sveda-gadgadikādayaḥ ।।

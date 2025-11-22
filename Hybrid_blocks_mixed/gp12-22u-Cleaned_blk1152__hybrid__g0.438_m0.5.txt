@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1152 | label: hybrid | g:0.438 m:0.5 ---
+
+[] tathāpi hemanta-śiśirāv api tāpad-āpad-āyatanatayā yasya yāsāṃ ca pratibhāsate sma । tathā ca tāsāṃ kṛṣṇa-kṛṣṇa-preyasīnāṃ pratyekaṃ bhāvanā,

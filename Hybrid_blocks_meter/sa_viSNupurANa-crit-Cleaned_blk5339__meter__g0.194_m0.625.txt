@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5339 | label: meter | g:0.194 m:0.625 ---
+
+sāmānyaḥ sarvalokānāṃ yady eṣo amṛtamanthane 
+samutpannaḥ surāḥ kasmād eko gṛhṇāti vāsavaḥ ।।

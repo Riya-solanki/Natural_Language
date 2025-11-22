@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1199 | label: hybrid | g:0.517 m:0.444 ---
+
+dīrghān muktaḥ sapadi malayādhityakāyāḥ prasaṅgād āviṣkurvan praṇayapiśunaṃ saurabhaṃ candanasya ।
+mandaṃ mandaṃ nipatati cirād āgato mādhavīṣu vyākurvāṇo bhayam iva paraṃ dākṣiṇo gandhavāhaḥ ।।
+madhuśīlasya

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1170 | label: hybrid | g:0.51 m:0.5 ---
+
+lakṣyīkṛtasya hariṇasya hariprabhāvaḥ prekṣya sthitāṃ sahacarīṃ vyavadhāya dehāt ।
+ākarṇakṛṣṭamapi kāmitayā sa dhanvī bāṇaṃ kṛpāmṛdumanāḥ pratisaṃjahāra ।।

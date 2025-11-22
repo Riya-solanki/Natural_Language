@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1310 | label: grammar | g:0.75 m:0.5 ---
+
+pratidṛṣṭāntaṃ bruvatā na viśeṣaheturapadiśyate anena prakāreṇa pratidṛṣṭāntaḥ sādhako na dṛṣṭānta iti, evaṃ pratidṛṣṭāntahetutve nāheturdṛṣṭānta ityupapadyate sa ca kathaṃ heturnasyād yadyapratiṣiddhaḥ sādhakaḥ syāditi ।।

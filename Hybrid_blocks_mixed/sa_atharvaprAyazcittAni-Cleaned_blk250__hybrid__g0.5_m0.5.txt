@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 250 | label: hybrid | g:0.5 m:0.5 ---
+
+atha yasyāgnayo divyenāgninā saṃsṛjyeran kā tatra prāyaścittiḥ ।

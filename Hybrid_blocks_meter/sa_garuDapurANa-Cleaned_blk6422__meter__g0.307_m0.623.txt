@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6422 | label: meter | g:0.307 m:0.623 ---
+
+oṃ idaṃ viṣṇurvicakrame tredhā nidhe padam samūḍhamasya pāṃsure ।
+mahāvyāhṛtibhiḥ paścādācāmetprayato api san ।।

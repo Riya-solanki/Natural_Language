@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2032 | label: meter | g:0.316 m:0.5 ---
+
+tato guhaḥ prāha hariṃ sureśaṃ mohena naṣṭo bhagavan vivekaḥ ।
+bhrātā mayā mātulajo nirastastasmāt kariṣye svaśarīraśoṣam ।।

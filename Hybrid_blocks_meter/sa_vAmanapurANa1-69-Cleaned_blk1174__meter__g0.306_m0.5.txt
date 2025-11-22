@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1174 | label: meter | g:0.306 m:0.5 ---
+
+abhyetya devīṃ gaganasthito api sa dundubhirvākyamuvāca vipra ।
+kumāri dūto asmi mahāsurasya rambhātmajasyāpratimasya yuddhe ।।

@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1022 | label: grammar | g:0.583 m:0.5 ---
+
+prākpratipāditasya rasasya rasāntareṇa na virodhaḥ nāpyaṅgāṅgibhāvo bhavati iti rasaśabdenātra sthāyibhāva upalakṣyate ।।

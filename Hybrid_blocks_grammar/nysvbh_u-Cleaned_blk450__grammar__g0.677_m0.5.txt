@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 450 | label: grammar | g:0.677 m:0.5 ---
+
+yatra bhūtvā kiñcinna bhavati tatra tasyābhāva upapadyate na cālakṣiteṣu vāsaḥsu lakṣaṇāni bhūtvā na bhavanti tasmātteṣu lakṣaṇābhāvo anupapanna iti, na anyalakṣaṇopapatteḥ ।
+yathāyamanyeṣu vāsaḥsu lakṣaṇānāmupapattiṃ paśyati naivamalakṣiteṣu soyaṃ lakṣaṇābhāvaṃ paśyan abhāvenārthaṃ pratipadyate iti ।।

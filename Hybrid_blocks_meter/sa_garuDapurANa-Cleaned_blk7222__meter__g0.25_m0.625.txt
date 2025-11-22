@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7222 | label: meter | g:0.25 m:0.625 ---
+
+dyotante dyotamānānāṃ pramadānāṃ ca paṅktibhiḥ ।
+śrīryatra nānāvibhavairhareḥ pādau mudārcati ।।

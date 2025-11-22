@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 746 | label: meter | g:0.25 m:0.5 ---
+
+aparaṃ nīcaṃ, kulāyaṃ dehākhyaṃ gṛham ।

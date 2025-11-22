@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1253 | label: hybrid | g:0.521 m:0.5 ---
+
+[] tatra-bhavad-bhavad-anuṣṭhāna-dṛṣṭita evāsmābhis tad-avasaraḥ sphuṭaṃ niṣṭaṅkita iti bhāvaḥ ।

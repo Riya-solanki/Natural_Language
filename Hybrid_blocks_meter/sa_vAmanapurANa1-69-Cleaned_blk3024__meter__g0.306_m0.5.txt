@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3024 | label: meter | g:0.306 m:0.5 ---
+
+tasyāṃ gatāyāṃ varadaḥ kujasya prādād varaṃ sarvavarottamaṃ yat ।
+grahādhipatyaṃ jagātāṃ śubhāśubhaṃ bhaviṣyati tvadvarāgaṃ mahātmana ।।

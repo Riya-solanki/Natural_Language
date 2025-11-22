@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 108 | label: meter | g:0.25 m:0.625 ---
+
+ye ramamuktāmaṇivajrahemaṃ rūpyaṃ suvarṇādikadhātudānāt ।
+vinaṣṭaśokāḥ subhagāḥ suvaṃśāḥ pūrṇendriyāḥ pūrṇamanorathāḥ syuḥ ।।

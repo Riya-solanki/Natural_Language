@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4233 | label: meter | g:0.26 m:0.85 ---
+
+baliruvāca ।
+śṛṇuṣva kathayiṣyāmi kathāmetāṃ makhāntare ।
+pūrvābhyāsanibaddhāṃ hi satyāṃ bhṛgukulodvaha ।।

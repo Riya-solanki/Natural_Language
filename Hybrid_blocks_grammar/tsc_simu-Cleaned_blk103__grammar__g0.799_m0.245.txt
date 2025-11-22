@@ -1,0 +1,7 @@
+--- source: tsc_simu-Cleaned.txt | block: 103 | label: grammar | g:0.799 m:0.245 ---
+
+sāṃkhyaistu dikkālāvākāśādibhya iti sūtritaṃ mahākālo vā kṣaṇādirvā pṛthak padārtho nāsti kintvākāśamevopādhibhirviśiṣṭaṃ kṣaṇādimahākālāntavyavahāraṃ kurute iti manyate ।
+tadetanmatadvayamapyasamañjasamityāha yogī sthireṇa kenāpyupādhinā mahākālākāśābhyāṃ kṣaṇavyavahārasyāsambhavāt ।
+tathāhi uttaradeśasaṃyogāvacchinnā paramāṇvādikriyā anyadvā etādṛśaṃ kiñcinmahākālākāśayoḥ kṣaṇarūpatāyāmupādhiḥ parairiṣyate tatra uktaṃ saṃyogaviśiṣṭakriyādikaṃ cet viśeṣyaviśeṣaṇatatsambandhamātraṃ tarhi trayāṇāmaparaiḥ sthiratvābhyupagamāt na taiḥ kṣaṇavyavahāraḥ sambhavati yadi ca tattebhyo atiriktamiṣyate na tu tanmahākāla ākāśaṃ vā tenaiva kṣaṇavyavahāropapattau tadavacchinnasyānyasya kṣaṇavyavahārahetutvakalpanāvaiyarthyāt sa ca viśiṣṭādirāsthiraḥ kṣaṇaḥ prakṛterevātibhaṅguraḥ pariṇāmaviśeṣa ityato na prakṛtipuruṣātiriktatvāpattiḥ ।
+tasyaiva kṣaṇasya pracayaviśeṣairmuhūrtāhorātrādirdviparārddhāntavyavahāro bhavati natvakhaṇḍo mahākālo asti pramāṇābhāvāt adyatyādivyavahāraḥ kṣaṇapracayenaiva kālanityatvaśrutismṛtayastu pravāhanityatāparā iti tasmādāvaśyakatvāt kṣaṇātmaka eva kālo nākhaṇḍo mahākālo asti nāpyākāśaṃ kālavyavahāraheturiti kiṃ tu pradhānam ।
+puruṣo na badhyate na mucyate nāpi saṃsaratīti kiṃ tu nānāśrayā prakṛtireva tatheti sarvaṃ samañjasam ।।

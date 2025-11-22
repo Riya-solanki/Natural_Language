@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 703 | label: grammar | g:0.604 m:0.5 ---
+
+sphuṭatu hṛdayaṃ kāmaḥ kāmaṃ karotu tanuṃ tanuṃ na khalu caṭulapremṇā kāryaṃ punar dayitena me ।
+iti sarabhasaṃ mānāṭopād ādīrya vacas tayā ramaṇapadavī śāraṅgākṣyā saśaṅkitam īkṣitā ।।

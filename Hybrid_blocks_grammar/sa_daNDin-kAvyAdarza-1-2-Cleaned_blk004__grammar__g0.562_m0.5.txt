@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 4 | label: grammar | g:0.562 m:0.5 ---
+
+iha śiṣṭānuśiṣṭānāṃ śiṣṭānām api sarvathā vācām eva prasādena lokayātrā pravartate ।।

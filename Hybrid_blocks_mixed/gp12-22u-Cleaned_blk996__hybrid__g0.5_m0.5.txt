@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 996 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha garga-kṛta-vraja-varga-bheda-maya-samayataḥ paścād udbhūtāḥ kāścid anyāś ca dhanyāḥ prabhūtā nānā-kula-prasūtā yā vraja-kumārikāḥ svabhāvataḥ kṛṣṇa-bhāvānusārikās tāsāṃ kaumāra-pāram ārabhya vāsanā varṇanīyā yathā,

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1097 | label: grammar | g:0.635 m:0.5 ---
+
+kiṃ te namratayā kim unnatatayā kiṃ te ghanacchāyayā kiṃ te pallavalīlayā im anayā cāśoka puṣpaśriyā ।
+yat tvanmūlaniṣaṇṇakhinnapathikastomaḥ stuvan nanv aho na svādūni mṛdūni khādati phalāny ākaṇṭham utkaṇṭhitaḥ ।।

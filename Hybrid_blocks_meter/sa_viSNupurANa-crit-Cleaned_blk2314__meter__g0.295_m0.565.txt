@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2314 | label: meter | g:0.295 m:0.565 ---
+
+parajñānamayo asadbhir nāmajātyādibhir vibhuḥ 
+na yogavān na yukto abhūn naiva pārthiva yokṣyati ।।

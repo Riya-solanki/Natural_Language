@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 811 | label: meter | g:0.306 m:0.5 ---
+
+brahma murāristripurāntakārī bhānuḥ śaśī bhūmisuto budhaśca ।
+guruśca śukraḥ saha bhānujena kurvantu sarve mama suprabhātam ।।

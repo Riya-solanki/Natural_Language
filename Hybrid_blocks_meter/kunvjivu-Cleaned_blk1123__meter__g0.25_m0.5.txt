@@ -1,0 +1,3 @@
+--- source: kunvjivu-Cleaned.txt | block: 1123 | label: meter | g:0.25 m:0.5 ---
+
+dvitrāṇyahānyarhasi soḍhumarhan yāvadyate sādhayituṃ tvadartham ।।

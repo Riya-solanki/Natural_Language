@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3994 | label: meter | g:0.194 m:0.625 ---
+
+athāntarikṣe vāg uccaiḥ kaṃsam ābhāṣya sādaram 
+meghagambhīranirghoṣaṃ samābhāṣyedam abravīt ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 746 | label: meter | g:0.34 m:0.544 ---
+
+kururuvāca
+ye śraddadhānāstīrthe asmin mānavā nivasanti ha ।
+te prāpnuvantu sadanaṃ brahmaṇaḥ paramātmanaḥ ।।

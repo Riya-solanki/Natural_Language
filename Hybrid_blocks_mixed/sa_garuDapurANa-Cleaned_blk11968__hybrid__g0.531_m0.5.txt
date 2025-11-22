@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11968 | label: hybrid | g:0.531 m:0.5 ---
+
+yasmin gṛhe devamahotsavaśca yasmin gṛhe śravaṇaṃ nāsti viṣṇoḥ ।
+tatsaṃsargādyāti duḥ khādikaṃ ca tasya sparśo naiva kāryaḥ kadāpi ।।

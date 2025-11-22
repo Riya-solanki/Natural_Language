@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4503 | label: meter | g:0.25 m:0.75 ---
+
+ekasaṃvahanāḥ proktā gudāsthivivarāśrayāḥ ।
+adhomukho api bastirhi mūtravāhiśirāmukhaiḥ ।।

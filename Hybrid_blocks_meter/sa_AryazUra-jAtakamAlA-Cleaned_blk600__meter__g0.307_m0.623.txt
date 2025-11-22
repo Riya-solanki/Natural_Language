@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 600 | label: meter | g:0.307 m:0.623 ---
+
+naivedaṃ me tathā duḥkhaṃ yadayaṃ hanti māṃ dvijaḥ ।
+nāpaśyamambāṃ yattvadya tadvidārayatīva mām ।।

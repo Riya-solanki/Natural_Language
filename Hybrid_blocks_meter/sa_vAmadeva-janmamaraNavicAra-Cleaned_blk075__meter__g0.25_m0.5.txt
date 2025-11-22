@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 75 | label: meter | g:0.25 m:0.5 ---
+
+dvitīye māsi ca ghanas tṛtīye agniparigrahaḥ ।।

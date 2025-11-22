@@ -1,0 +1,6 @@
+--- source: kmeghvpu-Cleaned.txt | block: 102 | label: grammar | g:0.599 m:0.5 ---
+
+saṃkṣipyeran kṣaṇa iva kathaṃ dīrghayāmās triyāmāḥ sarvāvasthāsv ahar api kathaṃ mandamandātapaṃ syāt ।
+itthaṃ cetaś caṭulanayane durlabhaprārthanaṃ me gāḍhoṣmābhiḥ kṛtam aśaraṇaṃ tvadviyogavyathābhiḥ ।।
+nanv ātmānaṃ bahu vigaṇayann ātmanā nāvalambe tat kalyāṇi tvam api sutarāṃ mā gamaḥ kātaratvam ।
+kasyātyantaṃ sukham upanataṃ duḥkham ekāntato vā nīcair gacchaty upari ca daśā cakranemikrameṇa ।।

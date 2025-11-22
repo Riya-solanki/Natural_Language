@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 139 | label: grammar | g:0.74 m:0.5 ---
+
+kiṃ kiṃ siṃhas tataḥ kiṃ narasadṛśavapur deva citraṃ gṛhīto naivaṃ tat ko atra jīva drutam upanaya taṃ nanv ayaṃ prāpta eva ।
+cāpaṃ cāpaṃ na khaḍgaṃ tvaritataram aho karkaśatvaṃ nakhānām itthaṃ daityādhirājaṃ nijanakhakuliśair jaghnivān yaḥ sa vo avyāt ।।

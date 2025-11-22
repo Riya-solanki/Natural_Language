@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3910 | label: meter | g:0.251 m:0.623 ---
+
+ikṣvākūṇām ayaṃ vaṃśaḥ sumitrānto bhaviṣyati 
+yatas taṃ prāpya rājānaṃ sa saṃsthāṃ prāpsyate kalau ।।

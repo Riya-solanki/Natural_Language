@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 955 | label: grammar | g:0.594 m:0.5 ---
+
+naitan nabho lavaṇatoyanidhir eṣa paśya chāyāpathaś ca na bhavaty ayam asya setuḥ ।
+nāyaṃ śaśi nibiḍapiṇḍitabhoga eṣa śeṣo na lāñchanam idaṃ harir eṣa suptaḥ ।।

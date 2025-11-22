@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10994 | label: meter | g:0.25 m:0.695 ---
+
+vāṇītisaṃjñakāṃ vīndra brahmāṇīsaṃjñakāṃ viduḥ ।
+puruṣākhyaviriñcasya bhāryā sāvitrikā matā ।
+caturmukhasya bhāryā tu kīrtitā sā sarasvatī ।।

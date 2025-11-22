@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1920 | label: meter | g:0.306 m:0.5 ---
+
+kālaṃ vakṣyāmi saṃsiddhyai rudra pañcasvarodayāt ।
+rājā sā jā udāsā ca pīḍā mṛtyustathaiva ca ।।

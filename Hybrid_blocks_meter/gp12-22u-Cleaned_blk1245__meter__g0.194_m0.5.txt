@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1245 | label: meter | g:0.194 m:0.5 ---
+
+rāma rāma mahā-bāho kṛṣṇa duṣṭa-nibarhaṇa ।
+ito' vidūre su-mahad vanaṃ tālāli-saṅkulam ।।[]

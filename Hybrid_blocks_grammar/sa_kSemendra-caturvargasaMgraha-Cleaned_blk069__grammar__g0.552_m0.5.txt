@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 69 | label: grammar | g:0.552 m:0.5 ---
+
+kāntāyā vilasadvilāsahasitasvacchāṃśacaścāmaraṃ saṃsaktāv abhiṣekahemakalaśau yac candanāṅkau stanau ।
+yatkārtasvarakānti cāru jaghanaṃ siṃhāsanaṃ bhūbhujāṃ sāmrājyaṃ tad idaṃ jayājayamayaḥ śeṣas tu cintāmayaḥ ।।

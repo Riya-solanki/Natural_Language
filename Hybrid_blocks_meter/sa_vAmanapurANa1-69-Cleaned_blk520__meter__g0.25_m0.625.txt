@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 520 | label: meter | g:0.25 m:0.625 ---
+
+rudrorusaṃbhavo bhīmaḥ kṛṣṇavarṇo manojavaḥ ।
+pauṇḍrako nāma mahiṣo dharmarājasya nārada ।।

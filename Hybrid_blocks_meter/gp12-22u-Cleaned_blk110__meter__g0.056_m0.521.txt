@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 110 | label: meter | g:0.056 m:0.521 ---
+
+yathā yathā vidadhur atīva śīghratāṃ
+tathā tathāpy adadhur alaṃ vilambitām ।
+kathaṃ kathañcana bata taṃ hradaṃ gatā
+daśāṃ tu kāṃ samadhur amī na vedmi tām ।। [rucirā]

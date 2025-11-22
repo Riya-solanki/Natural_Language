@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 780 | label: meter | g:0.25 m:0.5 ---
+
+akṣayyaṃ labhate sarvaṃ pitṛtīrthaṃ viśiṣyate ।
+mātṛhā pitṛhā yaśca brahmahā gurutalpagaḥ ।।

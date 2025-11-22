@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 491 | label: meter | g:0.056 m:1.0 ---
+
+{prathamamaruṇacchāyastāvattataḥ kanakaprabha-
+stadanu virahottāmyattanvīkapolataladyutiḥ ।
+udayati tato dhvāntadhvaṃsakṣamaḥ kṣaṇadāmukhe
+sarasabisinīkandacchedacchavirmṛgalāñchanaḥ ।।}

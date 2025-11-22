@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 121 | label: meter | g:0.056 m:0.729 ---
+
+evaṃ sva-goṣṭham ahiveṣṭa-vivikṣu vīkṣya
+sastrī-kumāram atiduḥkhitam ātma-hetoḥ ।
+kṛṣṇaḥ saroṣa-vitatāṅgatayā tad aṅgaṃ
+chindan ślathaṃ vidadhad āśu balād udasthāt ।। [vasantatilaka]

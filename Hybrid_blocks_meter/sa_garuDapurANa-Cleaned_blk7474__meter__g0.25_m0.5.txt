@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7474 | label: meter | g:0.25 m:0.5 ---
+
+nadīṃ vaitaraṇīṃ tartuṃ dadyādvaitaraṇīṃ ca gām ।
+kṛṣṇastanī sakṛṣṇāṅgī sā vai vaitaraṇī smṛtā ।।

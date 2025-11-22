@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 350 | label: hybrid | g:0.312 m:0.458 ---
+
+nacānuṣṭhānānantaraṃ phalānupalabdhyaiva śāstrārthe apūrvamantarbhāvayituṃ śakyate śāstrārthāvadhāraṇapūrvakaṃ hyanuṣṭhānaṃ nānuṣṭhānapūrvakaṃ śāstram, tasmādaihikānāmatrākṣepa iti yukto viṣayabhedaḥ ।
+viṣayabhedācca nyāyopi bhidyate ।
+paralokaphalāsu pramāṇāpekṣitatvāmākṣepanyāyaḥ ।
+atratu pramāṇāntaravirodha iti nyāyabhedādapaunaruktyam ।
+athavā pūrvoktaṃ svamate sūtrāṇi vyācakṣaṇo sūtritamevākṣepaṃ darśitavān ।
+idānīṃ tu vṛttikāramatena sūtreṇaivākṣepaḥ kriyate ।।

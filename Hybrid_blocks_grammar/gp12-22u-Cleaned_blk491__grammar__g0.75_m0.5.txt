@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 491 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha sabhāsadaḥ sva-sva-hṛdaya-vihāri maṇimaya-hāri hārādikaṃ dadatas te tu pratyācakhyuḥ-na vayaṃ dravya-vanīyakā nartaka-nāyakāḥ, kintu niyuddha-yācanakā eva, śubhavanto bhavanto malla-tallajā iti varṇanāṃ karṇayoḥ sañcitya niścitya ca samantād vicitya sarvordhvaṃ bhavatāṃ bhavatāṃ samitiṃ samāgatāḥ । atas tad evāsmadīyāya toṣāya poṣāya ca dīyatām, na tu moṣāya nīyatām ।

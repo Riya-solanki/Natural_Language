@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 491 | label: meter | g:0.401 m:0.579 ---
+
+jñeyatvāvacanasyāsiddhimāśaṅkya tatsiddhipradarśanārthaṃ sūtram- vadatīti cenna prājño hi prakaraṇāt ।
+nigadavyākhyātamasya bhāṣyam ।।

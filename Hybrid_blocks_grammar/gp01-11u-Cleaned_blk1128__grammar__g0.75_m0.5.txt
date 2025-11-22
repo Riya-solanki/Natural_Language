@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1128 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha brahmā teṣām arvācīnānāṃ prācīnānāṃ ca bālādīnāṃ rūpādibhiḥ parasparam abhedam ākalayya cetasāścaryam ācarya cārvācaḥ parivindan, sarvato' py atidṛṣṭa-mahiṣṭhatā-bhūyiṣṭhān dṛṣṭavān । [] brahmāṇaṃ paśyati śrīdāmādi-mitre tu sva-mitrāṇām evānayanecchā jāteti yadṛcchayā tad-anveṣaṇāvasthā prādurbhūtā, sāmpratikāś cāntarbhūtāḥ ।

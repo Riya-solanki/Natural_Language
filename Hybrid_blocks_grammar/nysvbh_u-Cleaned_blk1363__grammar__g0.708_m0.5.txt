@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1363 | label: grammar | g:0.708 m:0.5 ---
+
+pratijñādyavayavayuktaṃ vākyaṃ pakṣanivartakaṃ pratipakṣalakṣaṇaṃ pratiṣedhaḥ, tasya pakṣeṇa pratiṣedhyena sādharmyaṃ pratijñādiyogaḥ, tad yadyanityasādharmyādanityatvasyāsiddhiḥ ? sādharmyādasiddheḥ, pratiṣedhasyāpyasiddhiḥ pratiṣedhyena sādharmyāditi ।।

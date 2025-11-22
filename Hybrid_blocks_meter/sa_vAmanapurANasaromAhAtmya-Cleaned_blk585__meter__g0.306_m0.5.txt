@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 585 | label: meter | g:0.306 m:0.5 ---
+
+naimiṣasya ca snānena yat puṇyaṃ tat samāpnuyāt ।
+tatra tīrthaṃ mahākhyātaṃ vedavatyā niṣevitam ।।

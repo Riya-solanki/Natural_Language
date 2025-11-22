@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 7 | label: grammar | g:0.635 m:0.5 ---
+
+kālaś cet karuṇāparaḥ kaliyugaṃ yady adya dharmapriyaṃ nistriṃśo yadi peśalo viṣadharaḥ saṃtoṣadāyī yadi ।
+agniś ced atiśītalaḥ khalajanaḥ sarvopakārī sa ced āyuṣyaṃ yadi vā bhaviṣyati viṣaṃ veśyāpi tadrāgiṇī ।।

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 805 | label: grammar | g:0.75 m:0.5 ---
+
+udadhiparikhām adyaivaināṃ dahāmi vasundharāṃ sanaganagaragrāmārāmāṃ svadṛṣṭihutāśanaiḥ । na mama hṛdayaṃ śāntiṃ yāti tvadapriyatāḍitaṃ dahati yadi na krodhāgnir māṃ purā niravagrahaḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3769 | label: meter | g:0.25 m:0.76 ---
+
+vāsudevo api dharmātmā upāyena mahāmanāḥ 
+ghātayitvātmanaḥ śatruṃ tat sainyaṃ pratyapadyata ।। 
+mucukundena mahātmanā ।mathurāṃ punarāgatya ।
+prabhūtarathahastyaśva varmaśastrāyudhadhvajam 
+ādāyopayayau dhīmāṃs tat sainyaṃ nihateśvaram ।।

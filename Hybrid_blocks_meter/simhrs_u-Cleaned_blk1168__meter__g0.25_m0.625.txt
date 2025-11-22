@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1168 | label: meter | g:0.25 m:0.625 ---
+
+yathā patākā kasyāpi śobhākṛc cihna-rūpataḥ ।
+svasyopanāyakādīnāṃ vṛttāntas tadvad ucyate ।।
+śobhāyai vedikādīnāṃ yathā puṣpākṣatādayaḥ ।
+tatha rtu-varṇanādis tu prasaṅge prakarī bhavet ।। iti ।

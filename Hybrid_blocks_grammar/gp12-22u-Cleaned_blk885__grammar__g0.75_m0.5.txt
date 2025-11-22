@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 885 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca vidhātedam abhidadhe-ayi, surabhi, surapati-bhī-sāntvanārtham asurāntakasyāntikaṃ gaccha । gatvā ca tvam asya nūnam evam eva labdha-duścyavana-nāmnaḥ parikilbiṣa-kīrtana-bhiyā kila kavi-pariṣad-upekṣaṇīya-tan-nāma-dheyasya kṛṣṇataś cyavanaṃ vicyāvaya । tac ca sva-sampad-upakaṇṭha-kuṇṭhī-kṛtāpara-vaikuṇṭha-loka-goloka-mahendratā-martya-loke' py asya vyaktībhavatād iti tad-abhiṣeka-sevātirekataḥ sambhāvitā iti ।

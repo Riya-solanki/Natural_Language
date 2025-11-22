@@ -1,0 +1,7 @@
+--- source: brsgor2u-Cleaned.txt | block: 351 | label: grammar | g:0.555 m:0.417 ---
+
+śārīreṇaiveti ।
+bhoktreti śeṣaḥ ।
+saṃbandho bhoktṛbhogyabhāvaḥ ।
+atha dehe prāṇapraveśānantaraṃ yatra golake etacchidramanupraviṣṭaṃ cakṣurindriyaṃ tatra cakṣuṣyabhimānī sa ātmā cākṣuṣaḥ tasya rūpadarśanāya cakṣuḥ yadyapyātmā karaṇānyepakṣate tathāpi jñeyajñānatadāśrayāhaṅkārānyo veda sa ātmā cidrūpa eva, karaṇāni tu gandhādipravṛttaye apekṣyante na caitanyāyeti śrutyarthaḥ ।
+kiñca yo ahaṃ rūpamadrākṣaṃ sa evāhaṃ śṛṇomīti pratisaṃdhānādekaḥ śārīra eva bhoktā na bahavo devā ityāha- apiceti ।।

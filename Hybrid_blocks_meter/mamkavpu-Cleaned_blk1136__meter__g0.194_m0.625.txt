@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1136 | label: meter | g:0.194 m:0.625 ---
+
+{sarasvati prasādaṃ me sthitiṃ cittasarasvati ।
+sara svati kuru kṣetrakurukṣetrasarasvati ।।}

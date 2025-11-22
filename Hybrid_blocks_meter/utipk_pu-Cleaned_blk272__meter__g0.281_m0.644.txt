@@ -1,0 +1,5 @@
+--- source: utipk_pu-Cleaned.txt | block: 272 | label: meter | g:0.281 m:0.644 ---
+
+mṛdādyanapekṣasya yoginām icchāmātreṇa ghaṭādeḥ sthirasya ghaṭādyarthakriyākāriṇaś ca nirvṛttiḥ ।।
+yoginirmāṇatābhāve pramāṇāntaraniścite ।
+kāryaṃ hetuḥ svabhāvo vāta evotpattimūlajaḥ ।।

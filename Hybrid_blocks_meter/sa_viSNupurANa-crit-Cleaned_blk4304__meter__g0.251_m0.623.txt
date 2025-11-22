@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4304 | label: meter | g:0.251 m:0.623 ---
+
+viṣayebhyaḥ samāhṛtya sarvākṣāṇi ca yoginaḥ 
+yam arcayanti dhyānena so arcyate vā kathaṃ mayā ।।

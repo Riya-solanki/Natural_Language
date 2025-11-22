@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3113 | label: meter | g:0.25 m:0.625 ---
+
+pitṛbhyaḥ prathamaṃ bhaktyā tanmanasko nareśvara 
+susvadhety āśiṣā yuktāṃ dadyāc chaktyā ca dakṣiṇām ।।

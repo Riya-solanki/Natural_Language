@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10299 | label: meter | g:0.25 m:0.625 ---
+
+sarvadāpyavimiśraṃ ca sattvarāśiṃ khageśvara ।
+sarvadāpi vimiśraṃ ca sattvarāśiṃ dvijottama ।।

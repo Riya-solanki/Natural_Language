@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 522 | label: hybrid | g:0.541 m:0.536 ---
+
+vaikrāntasatvayogamāha rasetyādi ।।
+tadrasavaikrāntakaṃ sattvaṃ hemnā samaṃ svarṇena samabhāgaṃ dvandvānvitaṃ sat dvandvamelāpakauṣadhasahitaṃ sat evamamunā vidhānena milati rase iti śeṣaḥ ।।
+punastena satvena saha ghanasatvamabhrasāraṃ nirvyūḍhaṃ nirvāhitaṃ sat tenobhayasatvasaṃyogena rasaḥ sūto bandhamupayāti bandhanamāpnoti ।।

@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 179 | label: meter | g:0.25 m:0.5 ---
+
+ullekhasya sukhādeś ca prakāśo bahir ātmanā ।
+icchāto bhartur adhyakṣa- rūpo akṣādibhuvāṃ yathā ।।

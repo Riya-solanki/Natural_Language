@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1234 | label: hybrid | g:0.51 m:0.5 ---
+
+prahṛhya keśeṣu mahāsurāṃstān utpatya siṃhāttu nagasya sānum ।
+nanarta vīṇāṃ parivādayantī papau ca pānaṃ jagato janitrī ।।

@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 450 | label: grammar | g:0.646 m:0.5 ---
+
+SktCh vasāgandhe tena hi svāminā vṛkodareṇa duḥśāsanasya rudhiraṃ pātuṃ pratijñātam । taccāsmābhī rākṣasairanupraviśya pātavyamiti ।

@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 56 | label: hybrid | g:0.51 m:0.5 ---
+
+duṣṭā narā bhṛtyagaṇo avamānī praśikṣitā naiva hayāḥ kubhāryā ।
+pratāḍanenaiva bhavanti namrāḥ sukarmayogyā na kadāpi caite ।।

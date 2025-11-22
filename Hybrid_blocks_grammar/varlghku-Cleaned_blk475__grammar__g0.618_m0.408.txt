@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 475 | label: grammar | g:0.618 m:0.408 ---
+
+vadavrajahalantasyācaḥ ।।
+eṣāmaco vṛddhiḥ sici parasmaipadeṣu । avrajiṣyat ।। kaṭe varṣāvaraṇayoḥ ।। ।। kaṭati । cakaṭatuḥ । kaṭiṣyati । akaṭat । kaṭyāt ।।

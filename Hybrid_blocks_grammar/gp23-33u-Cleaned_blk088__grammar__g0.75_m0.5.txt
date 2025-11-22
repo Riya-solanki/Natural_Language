@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 88 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha kṛṣṇas tatra sa-tṛṣṇam acintayat-aho ! nava-tāruṇyasya puṇya-sampada etā, vara-lāvaṇyasya mat-kretavya-navya-paṇya-śreṇyas trilokī-lakṣmyāś cūḍāmaṇayaḥ, sphuran-manmathasya jīvanauṣadhayaḥ kumudāyamāna-madīya-locanayor navīnāś candra-kalāh sahāvatīrya ruciṃ vitīrya virājante ।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 998 | label: grammar | g:0.583 m:0.5 ---
+
+[] tataś ca tad-artham anurahasaṃ nānā-devatām arthayamānā vyartham iva bhramanti sma ।

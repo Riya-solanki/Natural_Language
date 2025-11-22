@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1209 | label: meter | g:0.25 m:0.5 ---
+
+garbhe ca sukhaleśo api bhavadbhir anumīyate 
+yadi tat kathyatām evaṃ sarvaṃ duḥkhamayaṃ jagat ।।

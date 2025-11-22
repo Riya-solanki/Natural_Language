@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3592 | label: meter | g:0.306 m:0.5 ---
+
+tadeva jīvatā dattaṃ mayā dānaṃ vaṇiksuta ।
+varṣāṇāṃ saptatīnāṃ vai nānyad dattaṃ hi kiñcana ।।

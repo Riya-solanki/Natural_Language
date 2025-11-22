@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1130 | label: meter | g:0.25 m:0.5 ---
+
+kṛtyāṃ ca daityaguravo yuyujus te tu kiṃ mune 
+śambaraś cāpi māyānāṃ sahasraṃ kiṃ prayuktavān ।।

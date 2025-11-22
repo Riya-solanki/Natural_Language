@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10305 | label: meter | g:0.25 m:0.625 ---
+
+tamaḥ sakāśādgaruḍa daśabhāgādhikena ca ।
+miśritaṃ bhavatītyevaṃ jñātavyaṃ nātra saṃśayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 1050 | label: grammar | g:0.706 m:0.375 ---
+
+anyaccāha piṣṭvetyādi ।।
+mātuluṅgasyeyaṃ jaṭā mātuluṅgī tāṃ piṣṭvā tasyā rasaṃ śuṇṭhī saindhavaṃ ca yaḥ pumān prātaḥ pibati tu punaḥ kvathitaṃ tasyāḥ kaṣāyaṃ gosalilena yaḥ pibati rasājīrṇe taṃ puruṣaṃ rakṣati na vināśayatītyarthaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4395 | label: meter | g:0.25 m:0.555 ---
+
+satī ceyaṃ śubhā sādhvī bhāryā vai tanayasya te 
+māyāvatīti vikhyātā śambarasya gṛhoṣitā 
+mā ca te śambarasyeyaṃ patnīty evaṃ vyathā bhavet ।।

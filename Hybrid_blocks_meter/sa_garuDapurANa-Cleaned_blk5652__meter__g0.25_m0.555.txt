@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5652 | label: meter | g:0.25 m:0.555 ---
+
+rudra lāṅgalikāmūlaṃ cekṣudarbhastathaiva ca ।
+tena vraṇamukhaṃ liptaṃ śalyaṃ niḥ sa rati vraṇāt ।
+cirakālapraviṣṭo api tena mārgeṇa śaṅkara ।।

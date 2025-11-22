@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2812 | label: meter | g:0.194 m:0.5 ---
+
+kṣipraṃ saṃsādhyatāṃ kaṃsaḥ keśī ca turagādhamaḥ 
+ariṣṭaś ca madāviṣṭo rājarājyaṃ tataḥ kuru ।।

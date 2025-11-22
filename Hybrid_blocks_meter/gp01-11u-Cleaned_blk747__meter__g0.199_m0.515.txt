@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 747 | label: meter | g:0.199 m:0.515 ---
+
+bālo' haṃ na paricinomy abhadra-bhadraṃ
+yaḥ kroḍe kalayati tad-galaṃ dadhāmi ।
+tena tvaṃ yadi maraṇaṃ prayāsi kaḥ svid
+doṣaḥ syān mama tam atha tvam eva jalpa ।। [praharṣiṇī] iti ।

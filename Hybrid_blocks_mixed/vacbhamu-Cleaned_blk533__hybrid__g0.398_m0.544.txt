@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 533 | label: hybrid | g:0.398 m:0.544 ---
+
+mahadahaṅkārau tāvadaprasiddhau, ahaṅkāraprakṛtikatvena tanmātrāṇyapyaprasiddhāni smartuṃ na śakyanta ityāha- itareṣāṃ ceti ।
+nanu amahataḥ paramavyaktam' itiśrutiprasiddhāni mahadādīnītyata āha- yadapīti ।
+sūtratātparyamāha- kāryeti ।
+sāṃkhyasmṛtermahadādiṣviva pradhāne api prāmāṇyaṃ neti niścīyata ityarthaḥ ।
+sāṃkhyasmṛterbādhe api taduktayuktīnāṃ kathaṃ bādha cārṣajñānamatra mūlamupapadyata iti yuktam ।
+tasmānna kāpilasmṛteḥ pradhānopādānatvaṃ jagata iti siddham ।।

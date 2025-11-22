@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2839 | label: meter | g:0.194 m:0.5 ---
+
+arjunārthe ca tān sarvān pāṇḍavān akṣatān yudhi 
+kuntyā niryātayiṣyāmi nivṛtte bhārate mṛdhe ।।

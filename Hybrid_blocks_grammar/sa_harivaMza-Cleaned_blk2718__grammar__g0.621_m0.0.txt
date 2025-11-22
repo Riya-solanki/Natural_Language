@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2718 | label: grammar | g:0.621 m:0.0 ---
+
+bhūmer utpāṭyamānasya tasya śailasya sānuṣu 
+śilāḥ praśithilāś celur niṣpetuś ca sapādapāḥ ।। 
+rakṣiṣyan godhanaṃ viṣṇur gopānāṃ gopatir hariḥ । gomadhyasthitagovindo gopān rakṣan sagokulān ।। dadhāra godhanaṃ viṣṇur godharaṃ ca vilambayan । gopān vismāpayan gopo gomārge saṃsthito hariḥ । ādyaṃ vapuś ca gṛhṇāno lokānām īśvareśvaraḥ ।। vyarthaṃ cakāra govindo godharasya samīhitam । govardhanasyāsya gireḥ khe khaṇāyitavigrahaḥ । 
+śikharair ghūṇamānaiś ca sīdamānaiś ca sarvataḥ 
+vidhṛtaiś cocchritaiḥ śṛṅgair agamaḥ khagamo abhavat ।।

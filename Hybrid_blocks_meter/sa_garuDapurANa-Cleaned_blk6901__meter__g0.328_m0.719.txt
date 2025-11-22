@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6901 | label: meter | g:0.328 m:0.719 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+kulāmṛtaṃ pravakṣyāmi stotraṃ yattu haro abravīt ।
+pṛṣṭaḥ śrīnāradenaiva nāradāya tathā śṛṇu ।।

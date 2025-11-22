@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10281 | label: meter | g:0.306 m:0.5 ---
+
+ādyo brahmā sa vijñeyo na tu sākṣāddhariḥ svayam ।
+tamasāpi samānhantuṃ rudre ca prāviśaddhariḥ ।।

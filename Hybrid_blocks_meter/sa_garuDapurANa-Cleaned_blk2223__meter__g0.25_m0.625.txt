@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2223 | label: meter | g:0.25 m:0.625 ---
+
+ujjayinyāṃ mahākālaḥ kubjake śrīdharo hariḥ ।
+kubjāmrakaṃ mahātīrthaṃ kālasarpiśca kāmadam ।।

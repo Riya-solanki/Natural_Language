@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 356 | label: meter | g:0.194 m:0.5 ---
+
+yo ayaṃ santrastayā devyā tayā bāhur nipīḍitaḥ
+svapne apy utpannasaṃsparśo romaharṣaṃ na muñcati ।।

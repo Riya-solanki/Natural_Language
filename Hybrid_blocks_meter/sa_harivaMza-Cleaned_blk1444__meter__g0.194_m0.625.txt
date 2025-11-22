@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1444 | label: meter | g:0.194 m:0.625 ---
+
+petur ulkāsahasrāṇi petur ākāśagāny api 
+nyubjāni ca vimānāni prapatanty utpatanti ca ।।

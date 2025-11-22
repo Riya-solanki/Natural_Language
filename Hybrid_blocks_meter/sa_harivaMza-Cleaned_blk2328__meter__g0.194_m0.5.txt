@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2328 | label: meter | g:0.194 m:0.5 ---
+
+vinā vātaṃ vinā varṣaṃ vidyutprapatanaṃ vinā 
+vinā hastikṛtaṃ doṣam kenemau pātitau drumau ।।

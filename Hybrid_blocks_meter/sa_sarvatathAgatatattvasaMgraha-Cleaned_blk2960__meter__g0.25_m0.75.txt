@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2960 | label: meter | g:0.25 m:0.75 ---
+
+lokeśvarasamādhistho dharmamudrāṃ japaṃstathā ।
+mahābodhiriyaṃ jñānaṃ bhāvayan siddhimāpnuyād ।।

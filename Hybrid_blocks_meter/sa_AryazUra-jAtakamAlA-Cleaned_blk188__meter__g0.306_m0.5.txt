@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 188 | label: meter | g:0.306 m:0.5 ---
+
+tatsādhu dānādviniyaccha buddhimevaṃ hi sadyaḥpatanaṃ na te syāt ।
+viceṣṭamānaiḥ karuṇaṃ rudadbhirmā dātṛbhirgāḥ samatāmamībhiḥ ।।

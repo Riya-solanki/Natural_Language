@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1262 | label: grammar | g:0.75 m:0.5 ---
+
+atha bodhisattvo mā bhūdanyasyāpi kasyacittatraivaṃvidho vyasanopanipāta iti rutaviśeṣeṇa sapratibhayatāṃ sarasaḥ prakāśayāmāsa । atha te haṃsādhipatibandhādvyathitahṛdayā bhayavirasavyākulavirāvāḥ parasparanirapekṣā hatapravīrā iva sainikā divaṃ samutpetuḥ । sumukhastu haṃsasenādhipatirhaṃsādhipatisamīpānaiva vicacāla ।

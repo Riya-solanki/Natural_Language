@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2421 | label: meter | g:0.25 m:0.625 ---
+
+tad bhayācca mayā hyātmā kṣiptaḥ sāgaragājale ।
+tayāsmi deśamānītā imaṃ mānuṣavarjitam ।।

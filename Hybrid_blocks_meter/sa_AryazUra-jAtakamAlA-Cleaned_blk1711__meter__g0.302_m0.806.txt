@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1711 | label: meter | g:0.302 m:0.806 ---
+
+guṇairvihīnasya vipannakīrterdoṣodayairāvasathīkṛtasya ।
+gatirbhavettasya ca nama kānyā jvālākulebhyo narakānalebhyaḥ ।।

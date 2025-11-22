@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9152 | label: meter | g:0.25 m:0.5 ---
+
+jātasya mṛtyuloke vai prāṇino maraṇaṃ dhruvam ।
+mṛtiḥ kuryāt svadharmeṇa yāsyataśca parantapa ।।

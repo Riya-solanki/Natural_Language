@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 744 | label: grammar | g:0.708 m:0.083 ---
+
+śubhe deśe sariddvīpe saptaivāsañ jalaukasaḥ 
+tyaktvā sahacarīdharmaṃ munayo dharmacāriṇaḥ ।। 
+niḥspṛho nirmamaḥ kṣānto nirdvaṃdvo niṣparigrahaḥ । nirvṛttir nibhṛtaś caiva śakunā nāmataḥ smṛtāḥ ।। te brahmacāriṇaḥ sarve śakunā dharmacāriṇaḥ । nirāhārā jahuḥ prāṇāṃs tapoyuktāḥ sarittaṭe ।। atha te sodarā jātā haṃsā mānasacāriṇaḥ । jātismarāḥ susaṃbaddhāḥ saptaiva brahmacāriṇaḥ ।। viprayonau yato mohān mithyopacarito guruḥ । tiryagyonau tato jātāḥ saṃsāre paribabhramuḥ ।। yadā tu pitṛkāryārthaḥ kṛtaḥ svārthe vyavasthitaiḥ । tato jñānaṃ ca jātiṃ ca te hi prāpur guṇottaram । 
+sumanā muniḥ suvāk śuddhaḥ pañcamaś chidradarśanaḥ 
+sunetraś ca svatantraś ca śakunā nāmataḥ smṛtāḥ ।।

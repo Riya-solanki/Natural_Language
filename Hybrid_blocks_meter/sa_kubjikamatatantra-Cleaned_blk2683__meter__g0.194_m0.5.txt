@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2683 | label: meter | g:0.194 m:0.5 ---
+
+punar eva tathāpy evaṃ śūladaṇḍāsane sthitā 
+prajñāyuktā tu kartavyā vāmapādaṃ tataḥ punaḥ ।।

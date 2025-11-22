@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 347 | label: hybrid | g:0.531 m:0.5 ---
+
+paro api yaḥ sādhujanānujuṣṭaṃ vihāya mārgaṃ śrayate vimārgam ।
+nivāraṇīyaḥ sa matāj janena prayatnataḥ kiṃ punar eva putraḥ ।।

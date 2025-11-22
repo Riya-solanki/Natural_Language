@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 44 | label: grammar | g:0.569 m:0.5 ---
+
+labdhāyāṃ tṛṣi gomṛgasya vihagasyānyasay vā kasya cid vṛṣṭyā syād bhavadīyayopakṛtir ity āstāṃ davīyasy adaḥ 
+asyātyantam abhājanasya jaladāraṇyoṣarasyāpi kiṃ jātā paśya punaḥ punar eva paruṣā saivāsya dagdhā chaviḥ ।।

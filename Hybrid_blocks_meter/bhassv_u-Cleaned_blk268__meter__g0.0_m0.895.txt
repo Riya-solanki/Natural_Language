@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 268 | label: meter | g:0.0 m:0.895 ---
+
+{vidūṣakaḥ} - edaṃ idaṃ 
+idaṃ edaṃ 
+[etad idam । ]

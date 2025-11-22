@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 79 | label: grammar | g:0.562 m:0.5 ---
+
+avadhiḥ trividhanairātmyeṣu kimapyekaṃ nairātmyamālambya pravartamānāyā vidarśanāyāḥ prāptimārabhya bhūmiprāptiparyantaṃ prayogamārgasya vyāptirbhavati ।

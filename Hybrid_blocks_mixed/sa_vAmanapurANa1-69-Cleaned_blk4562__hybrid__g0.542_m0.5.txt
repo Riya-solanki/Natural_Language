@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4562 | label: hybrid | g:0.542 m:0.5 ---
+
+sa tatphalaṃ prāpya ca vāmanasya saṃkīrtayan nānyamanāḥ padaṃ hi ।
+gacchenmayā nārada te adya coktaṃ yad rājasūyasya phalaṃ prayacchet ।।

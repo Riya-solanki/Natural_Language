@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 709 | label: meter | g:0.368 m:0.584 ---
+
+para-śauryeṇa, yathā-
+strī-mātraṃ nanu tāṭakā bhṛgu-suto rāmas tu vipraḥ śucir
+mārīco mṛga eva bhīti-bhavanaṃ vālī punar vānaraḥ ।
+bhoḥ kākutstha vikatthase kim atha vā vīro jitaḥ kas tvayā
+dor-darpas tu tathāpi te yadi samaṃ ko-daṇḍam āropaya ।।

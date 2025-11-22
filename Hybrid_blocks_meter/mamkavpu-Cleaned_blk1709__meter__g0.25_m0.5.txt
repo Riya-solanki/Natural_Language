@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1709 | label: meter | g:0.25 m:0.5 ---
+
+{bhujaṅgamasyeva maṇiḥ sadambhā grāhāvakīrṇeva nadī sadambhāḥ ।
+durantatāṃ nirṇayato api jantoḥ karṣanti cetaḥ prasabhaṃ sadambhāḥ ।।}

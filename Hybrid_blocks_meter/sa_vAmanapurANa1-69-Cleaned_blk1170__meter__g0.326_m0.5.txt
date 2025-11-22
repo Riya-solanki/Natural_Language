@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1170 | label: meter | g:0.326 m:0.5 ---
+
+prāgeva puṃsastu śubhāśubhāni sthāne vidhātrā pratipāditāni ।
+yasmin yathāyāni yato athavipra sa nīyate vā vrajati svayaṃ vā ।।

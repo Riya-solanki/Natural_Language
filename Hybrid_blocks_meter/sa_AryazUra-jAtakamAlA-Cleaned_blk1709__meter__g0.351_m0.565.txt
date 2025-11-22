@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1709 | label: meter | g:0.351 m:0.565 ---
+
+pūrvopakārānṛṇatātmatuṣṭiḥ saṃtāpaśāntirvimalaṃ yaśaśca ।
+pūjā nṛpānnirbhayatā ca mṛtyoḥ kṛtajñabhāvād grahaṇaṃ ca satsu ।।

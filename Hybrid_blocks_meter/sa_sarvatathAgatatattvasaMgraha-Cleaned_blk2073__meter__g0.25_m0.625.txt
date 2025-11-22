@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2073 | label: meter | g:0.25 m:0.625 ---
+
+tatraiṣāṃ hṛdayāni bhavanti ।
+oṃ mahāpadma ccheda māraya hoḥ phaṭ ।।

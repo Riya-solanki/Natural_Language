@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9670 | label: meter | g:0.25 m:1.0 ---
+
+viprānāvāhayetpañca caturvedaviśāradān ।
+vidyāśīlaguṇopetānsva kīyāñchīlasattamān ।
+abyaṅgānsapraśastāṃśca na t varjyānkadācana ।।

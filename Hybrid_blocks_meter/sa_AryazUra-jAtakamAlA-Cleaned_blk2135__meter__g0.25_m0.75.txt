@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2135 | label: meter | g:0.25 m:0.75 ---
+
+tvadapriyeṇātmavināśahetuḥ kenāyamityākalitaḥ kṛtāntaḥ ।
+śokāśruparyākulalocanāni bhavantu kasya svajanānanāni ।।

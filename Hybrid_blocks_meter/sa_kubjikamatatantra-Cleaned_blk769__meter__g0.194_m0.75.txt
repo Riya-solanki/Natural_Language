@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 769 | label: meter | g:0.194 m:0.75 ---
+
+sa-ta-madhyagataṃ cānyaṃ ṭa-pareṇa samāhatam 
+saptāviṃśatimaṃ bhadre ā-sa-madhyagataṃ punaḥ ।।

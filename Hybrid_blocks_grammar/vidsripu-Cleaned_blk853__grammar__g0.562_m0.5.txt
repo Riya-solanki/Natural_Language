@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 853 | label: grammar | g:0.562 m:0.5 ---
+
+ambā śete atra vṛddhā pariṇatavayasām agraṇīr atra tāto niḥśeṣāgārakarmaśramaśi"thilatanuḥ kumbhadāsī tatheha ।
+asmin pāpāham ekā katipayadivasproṣitaprāṇanāthā pānthāyetthaṃ yuvatyā kathitam abhimataṃ vyāhṛtivyājapūrvam ।।

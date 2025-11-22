@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1705 | label: grammar | g:0.615 m:0.5 ---
+
+avaśyaṃ yātaraś cirataram uṣitvāpi viṣayā viyoge ko bhedas tyajati na jano yat svayam imān ।
+vrajantaḥ svātantryāt paramaparitāpāya manasaḥ svayaṃ tyaktvā hy ete śamasukham anantaṃ vidadhati ।।

@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 97 | label: hybrid | g:0.51 m:0.5 ---
+
+dhvajān patākān abhiropayanti ye caityabimbe khalu bhaktiyuktāḥ ।
+mahīśvarās te jitaduṣṭasaṃghā bhavanti nāthā divi bhūtale ca ।।

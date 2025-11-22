@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1007 | label: grammar | g:0.75 m:0.5 ---
+
+atra śabdaśaktyābhidhīyamānasamānadharmayoḥ lakṣmīkīrtyoḥ sādṛśyapratīyamānaspṛhaṇīyatvādinā dharmayoḥ dravyakāvyāyośva sādṛsyamivena dyotyate । sahārthaśva vākyārthasāmarthyana labhyate । na cātropamānaśahkā kāryā । upamāyāmupameyasyaiva kriyāsamāveśaḥ । upamānasyopameyamukhena sākṣāt । iha tu dvayossamaprādhānyena karmakaraṇabhāvādivivakṣāyāṃ prāptyānandā nusaṃdhānādikriyāsamāveśa iti śleṣodbhāvitopamānachāyā itīyaṃ sādṛśyavatī samāsoktiḥ । evaṃ viviktādi bhedena kartrādīnāṃ prāyopamānānāṃ bhedāssvayamupagantavyāḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2094 | label: meter | g:0.25 m:0.625 ---
+
+tavāvataraṇe viṣṇo kaṃsaḥ sa vinaśiṣyati 
+setsyate ca sa kāryārtho yasyārthe bhūmir āgatā ।।

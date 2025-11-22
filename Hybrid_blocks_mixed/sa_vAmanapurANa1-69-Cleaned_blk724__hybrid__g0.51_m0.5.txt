@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 724 | label: hybrid | g:0.51 m:0.5 ---
+
+dhānyeṣu śalirdvipadeṣu vipraḥ catuṣpade gauḥ śvapadāṃ mṛgendraḥ ।
+puṣpeṣu jātī nagareṣu kāñcī nārīṣu rambhā śramīṇāṃ gṛhasthaḥ ।।

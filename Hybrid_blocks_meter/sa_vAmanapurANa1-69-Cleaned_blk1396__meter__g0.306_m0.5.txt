@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1396 | label: meter | g:0.306 m:0.5 ---
+
+tasmād bhajadhvaṃ sva svaṃ hi sthānaṃ bho vigatajvarāḥ ।
+satārakaṃ hi mahiṣaṃ vidadhvaṃ nihataṃ raṇe ।।

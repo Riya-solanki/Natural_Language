@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 202 | label: hybrid | g:0.497 m:0.5 ---
+
+puruṣā yathā mahaprapāti sthihitva kecid ubhi pāṇi chatradvaya gṛhṇa upakṣayeyyā 
+ākāli vāyuravasṛjya mahāprapāte no ca prapāta patiyāti na yāva tatra ।।

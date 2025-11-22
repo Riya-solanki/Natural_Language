@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 659 | label: hybrid | g:0.511 m:0.443 ---
+
+vedyaṃ hi rūpaṃ vidyāyā dravyadaivatamiva yāgasya ।
+vedyaścaika evesvaraḥ śrutinānatve apyavagamyate amanomayaḥ prāṇaśarīraḥ' akaṃ brahma khaṃ brahma' asatyakāmaḥ satyasaṃkalpaḥ' ityevamādiṣu ।
+tathā eka eva prāṇaḥ prāṇo vāva saṃvargaḥ' aprāṇo vāva jyeṣṭhaśca śreṣṭhaśca' aprāṇo ha pitā prāṇo mātā' ityevamādiṣu ।

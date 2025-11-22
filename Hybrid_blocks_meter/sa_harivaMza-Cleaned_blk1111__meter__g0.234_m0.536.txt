@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1111 | label: meter | g:0.234 m:0.536 ---
+
+kṛtvā ca niścayaṃ sarve palāyanam arocayan 
+tyaktvā gṛhān dhanaṃ sarve palāyanta manoratham । 
+vihāya mathurāṃ ramyāṃ mānayantaḥ pinākinam 
+kuśasthalīṃ dvāravatīṃ niveśayitum īpsavaḥ ।। 
+evaṃ devo mahābāhuḥ pūrvaṃ kṛṣṇaḥprajāpatiḥ । vihārārthaṃ manuṣyāṃśo mānuṣeṣv abhyajāyata । 
+iti kṛṣṇasya janmedaṃ yaḥ śucir niyatendriyaḥ 
+parvasu śrāvayed vidvān nirṛṇaḥ sa sukhī bhavet ।।

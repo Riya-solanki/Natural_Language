@@ -1,0 +1,4 @@
+--- source: visa01cu-Cleaned.txt | block: 18 | label: meter | g:0.25 m:1.0 ---
+
+caturvargaphalaprāptiḥ sukhādalpadhiyāmapi ।
+kāvyādeva yatastena tatsvarūpaṃ nirūpyate ।

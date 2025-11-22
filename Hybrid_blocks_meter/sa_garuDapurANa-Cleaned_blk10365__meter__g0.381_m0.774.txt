@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10365 | label: meter | g:0.381 m:0.774 ---
+
+manobhimānināvanyāvindrakāmau prajajñatuḥ ।
+tārkṣya hyanantarau jñeyau muktau saṃsāra eva ca ।।

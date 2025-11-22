@@ -1,0 +1,6 @@
+--- source: mamkpb_u-Cleaned.txt | block: 101 | label: meter | g:0.308 m:0.622 ---
+
+atra vacanādi, upadeśādirūpatayā pariṇamati ।
+kvacidanupapadyamānatayā, atyantaṃ tiraskṛtam ।
+yathā upakṛtaṃ bahu tatra kimucyate sujanatā prathitā bhavatā param ।
+vidadhadīdṛśameva sadā sakhe sukhitamāssva tataḥ śaradāṃ śatam ।।

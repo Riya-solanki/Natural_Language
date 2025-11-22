@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1142 | label: hybrid | g:0.5 m:0.5 ---
+
+[] yata eva pūrvaṃ stabdhā veṇu-śikṣā ena punar ārabdhā । yatra kathā-viśeṣa-prathanaṃ padya-dvayaṃ sāmprata-līlā-mayam api, śaradu-dāśaye sādhujāta [] ityādivat tāsāṃ vacasā rasāvahaṃ syād iti tad-dvārā śrī-parīkṣic-chikṣā-guruṇā nikṣiptaṃ, tad yathā-

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1350 | label: hybrid | g:0.362 m:0.479 ---
+
+muṇḍāpriyād āyatiduḥkhadāyino vasantam utsārya vijṛmbhitaśriyaḥ ।
+na kaḥ khalāt tāpitamitramaṇḍalād upaiti pāpaṃ tapavāsarād iva ।।
+naradattasya

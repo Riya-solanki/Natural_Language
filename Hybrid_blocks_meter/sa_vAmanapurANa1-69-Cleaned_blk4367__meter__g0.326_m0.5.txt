@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4367 | label: meter | g:0.326 m:0.5 ---
+
+yā naiva śakya bhavatā hi pūrituṃ kathaṃ vitanyād ditijeśvaro asau ।
+śaktastu saṃpūjayituṃ murāre prasīda mā bandhanamādiśasva ।।

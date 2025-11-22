@@ -1,0 +1,3 @@
+--- source: kamasufu-Cleaned.txt | block: 68 | label: meter | g:0.271 m:0.5 ---
+
+iti śrīvātsyāyanīye kāma-sūtre kanyā-saṃprayuktake tṛtīye adhikaraṇe kanyā-visrambhaṇaṃ dvitīyo adhyāyaḥ

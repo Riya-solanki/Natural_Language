@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 953 | label: meter | g:0.111 m:0.5 ---
+
+pūrṇāṃ dṛṣṭiṃ vidhi-vaśatayā kācid āñcīn murārer
+ardhaṃ kācid vraja-jana-gatā kācid asyās tribhāgam ।
+kācit kiñcin na ca tad akhilaṃ tulyatām eva dadhre
+sarvāsāṃ yan manasi caklpe hanta tāpāya tadvat ।। [mandākrāntā]

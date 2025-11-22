@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 20 | label: hybrid | g:0.521 m:0.5 ---
+
+ekāṃ bata cyutasamastabhavapravṛttim āhur vimuktim iti śāntatamām avasthām ।
+sthityudbhavapralayinīm aparām avasthām saṃsāriṇīm iti vadanti tavaiva santaḥ ।।

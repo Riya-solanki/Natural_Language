@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4847 | label: hybrid | g:0.269 m:0.477 ---
+
+sarve kanakavarṇābhāḥ saṃvṛttāḥ sma na saṃśayaḥ 
+kim idaṃ brūhi nas tattvaṃ kiṃ meroḥ pārśvagā vayam ।। 
+manye bāṇasya nagaram abhyāśastham ariṃdama । rakṣārthaṃ tasya niyato vahnir eṣa sthito jvalan । 
+agner āhavanīyasya prabhayā sma samāhatāḥ 
+tena no varṇavairūpyam idaṃ jātaṃ halāyudha ।।

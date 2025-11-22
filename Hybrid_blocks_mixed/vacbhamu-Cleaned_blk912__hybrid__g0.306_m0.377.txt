@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 912 | label: hybrid | g:0.306 m:0.377 ---
+
+kāmyāstu yathākāmaṃ samuccīyeranna vā pūrvahetvabhāvāt ।
+yāsūpāsanāsu vinopāsyasākṣātkāraṇamadṛṣṭenaiva kāmyasādhanaṃ tāsāṃ kāmyadarśapaurṇamāsādivatpuruṣecchāvaśena vikalpasamuccayāviti sāmpratam ।।

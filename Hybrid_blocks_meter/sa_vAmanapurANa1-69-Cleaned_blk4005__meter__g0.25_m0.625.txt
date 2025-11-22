@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4005 | label: meter | g:0.25 m:0.625 ---
+
+jajñādīni ca puṇyāni japahomavratāni ca ।
+nāśayed yogināṃ sarvamāmapātramivāmbhasi ।।

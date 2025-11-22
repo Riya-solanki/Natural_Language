@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6983 | label: meter | g:0.25 m:0.5 ---
+
+viniṣpādayituṃ bhaktyā ata stvāṃ kṣamayāmyaham ।
+divā rātrau ca sandhyāyāṃ sarvāvasthāsu ceṣṭataḥ ।।

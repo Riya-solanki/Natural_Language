@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3021 | label: meter | g:0.25 m:0.5 ---
+
+pūrvāḥ kriyā madhyamāś ca tathā caivottarāḥ kriyāḥ 
+triḥprakārāḥ kriyā hy etās tāsāṃ bhedaṃ śṛṇuṣva me ।।

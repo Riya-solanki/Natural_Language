@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1740 | label: meter | g:0.194 m:0.5 ---
+
+{divākarādrakṣati yo guhāsu līnaṃ divā bhītamivāndhakāram ।
+kṣudre api nūnaṃ prapanne mamatvamuccaiḥ śirasāmatīva ।।}

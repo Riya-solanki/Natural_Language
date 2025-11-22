@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3533 | label: meter | g:0.25 m:1.0 ---
+
+anumodanādiyogena saddharmapaṭhanāttathā ।
+bahujāpapradānācca mantrasiddhirdhruvā bhaved ।।

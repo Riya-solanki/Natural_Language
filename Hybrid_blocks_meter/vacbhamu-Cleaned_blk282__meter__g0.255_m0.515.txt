@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 282 | label: meter | g:0.255 m:0.515 ---
+
+kasmātpunarasyānanyaśeṣatetyata āha- yataḥ svaprakaraṇasthaḥ ।
+upaniṣadāmanārabhyādhītānāṃ paurvāparyaparyālocanayā puruṣapratipādanaparatvena puruṣasyaiva prādhānyenedaṃ prakaraṇam ।
+na ca juhvādivadavyabhicaritakratusaṃbandhaḥ puruṣa ityupapāditam ।
+ataḥ svaprakaraṇasthaḥ so ayaṃ tathāvidha upaniṣadbhyaḥ pratīyamāno na nāstīti śakyo vaktumityarthaḥ ।

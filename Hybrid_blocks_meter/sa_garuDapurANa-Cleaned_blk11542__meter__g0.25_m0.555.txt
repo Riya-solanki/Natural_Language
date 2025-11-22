@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11542 | label: meter | g:0.25 m:0.555 ---
+
+evamuktvā tu sā devī taiḥ sārdhaṃ tu yayau mudā ।
+yaduktaḥ śrīnivāsasya darśanasya vidhiḥ khaga ।
+kasyacinnaiva vaktavyo gopyatvācca kadācana ।।

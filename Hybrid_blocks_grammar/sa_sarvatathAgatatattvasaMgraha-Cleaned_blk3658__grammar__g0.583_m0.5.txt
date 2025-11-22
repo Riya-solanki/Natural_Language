@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3658 | label: grammar | g:0.583 m:0.5 ---
+
+[atha bhagavān vairocanaḥ sarvatathāgatadhipatinā]jñāvacanamupaśrutya, sarvatathāgatānāhūyaivamāha । "pratipadyata bhagavantaḥ tathāgatāḥ samā[jamāpantum" iti ।।

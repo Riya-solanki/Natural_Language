@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 790 | label: meter | g:0.25 m:0.5 ---
+
+caturmukhaṃ brahmatīrthaṃ saro maryādayā sthitam ।
+ye sevante caturdaśyāṃ sopavāsā vasanti ca ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 454 | label: grammar | g:0.604 m:0.5 ---
+
+imau rambhāstambhau dviradapatikumbhadvayam idaṃ tad etal līlābjaṃ śaradamṛtaraśmiḥ sphuṭam ayam ।
+kim aṅge tanvaṅgyāḥ kalayati jagat kāntam adhikaṃ yad etasyāṃ śaśvat paravaśam ivonmattam iva ca ।।

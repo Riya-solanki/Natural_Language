@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 65 | label: meter | g:0.25 m:0.5 ---
+
+aviśrāntaṃ patyur guṇagaṇakathāmreḍanajapā japāpuṣpacchāyā tava janani jihvā jayati sā 
+yadagrāsīnāyāḥ sphaṭikadṛṣadacchacchavimayī sarasvatyā mūrtiḥ pariṇamati māṇikyavapuṣā ।।

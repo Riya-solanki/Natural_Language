@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 398 | label: meter | g:0.25 m:0.5 ---
+
+yathā caivaikapārśve tu dvitīyam evam eva hi 
+ekaṃ trīṇi tathā pañca sapta nava tathaiva ca ।।

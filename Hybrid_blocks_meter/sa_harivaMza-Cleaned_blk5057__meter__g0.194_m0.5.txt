@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5057 | label: meter | g:0.194 m:0.5 ---
+
+tasya saṃsthāpanam idam kālasya vaśavarti vai 
+tat praṇeyaṃ nibodhasya trailokyaṃ sacarācaram ।।

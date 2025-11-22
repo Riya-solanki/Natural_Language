@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 601 | label: meter | g:0.25 m:0.5 ---
+
+dharmamūrtidharās teṣāṃ trayo ye paramā gaṇāḥ 
+teṣāṃ nāmāni lokāṃś ca kīrtayiṣyāmi tac chṛṇu ।।

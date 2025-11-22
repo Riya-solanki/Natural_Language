@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 160 | label: grammar | g:0.583 m:0.5 ---
+
+bhavān iva mahīpāla devarājo virājate alam aṃśumataḥ kakṣām āroḍhuṃ tejasā nṛpah ।।

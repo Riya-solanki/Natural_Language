@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 840 | label: grammar | g:0.625 m:0.5 ---
+
+tṛtīyasavanaṃ ced abhyastamiyād varuṇo mādityaiḥ sūryo mā dyāvāpṛthivībhyāṃ pratīcyā diśaḥ pātu iti juhuyāt ।

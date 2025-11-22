@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 512 | label: grammar | g:0.75 m:0.5 ---
+
+[caturdaśyām aṣṭamyāṃ pañcadaśyāṃ ca] caturdaśyaṣṭamīpañcadaśīṣu [caruṇā phalamūlairvā] carvādibhiḥ vartanaṃ prāṇayātrā। haviṣyeṇāpareṇa vā ityanena ājyapayoyavādinā havirarheṇa vastunā phalamūlādivyatiriktena vartanaṃ sādhāraṇamiti prāguktena sambandhaḥ।।

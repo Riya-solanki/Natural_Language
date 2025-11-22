@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 572 | label: hybrid | g:0.5 m:0.5 ---
+
+sa bālabhāvāt kṛpaṇo varākaḥ svabhyastamātsaryatayā tayā ca ।
+śuśoca bhaikṣaṃ kṣitiviprakīrṇaṃ na tu kṣaracchoṇitam ātmadeham ।।

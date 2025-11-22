@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1186 | label: meter | g:0.306 m:0.5 ---
+
+roṣaprasaṅgo hi manaḥprayāthī dharmopamardādyaśasaśca hantā ।
+vasatviyaṃ tena janānta eva strīsaṃnikarṣeṇa ca kiṃ yatīnām ।।

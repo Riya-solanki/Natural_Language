@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1898 | label: grammar | g:0.688 m:0.5 ---
+
+tatastathaivājñāmājya, tathaiva samayamudrayā svayamabhiṣicya, padmavigrahaṃ gṛhya, svapadmanāmoccārya, padmāṅkuśādibhiśca karma kṛtvā, tatastābhireva dharmamudrābhirmahāsatvāṃ sādhayet । tatastathaiva siddhiriti ।।

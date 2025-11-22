@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 64 | label: meter | g:0.194 m:0.5 ---
+
+pravṛtte ca nivṛtte ca karmaṇy astamalā matiḥ 
+matprasādād asaṃdigdhā tava vatsa bhaviṣyati ।।

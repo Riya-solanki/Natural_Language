@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 720 | label: meter | g:0.306 m:0.5 ---
+
+sarassu caivottaramānasaṃ yathā vaneṣu puṇyeṣu hi nandanaṃ yathā ।
+lokeṣu yadvatsadanaṃ viriñceḥ satyaṃ yathā dharmavidhikriyāsu ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2088 | label: grammar | g:0.604 m:0.5 ---
+
+bodhisattva uvāca - hanta tavaitatsaṃvṛttam । nanūktaṃ mayā kastvaṃ varapradānasyeti? api ca bhoḥ?

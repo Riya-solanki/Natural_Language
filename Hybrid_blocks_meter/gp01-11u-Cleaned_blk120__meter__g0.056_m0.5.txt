@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 120 | label: meter | g:0.056 m:0.5 ---
+
+akuṇṭhām utkaṇṭhāṃ vahati harir āsu pratipadaṃ
+harāv apy etā yad vyatimilana-saukhyaṃ vijayate ।
+aho yasmād asmin nirupadhi sakhī-vṛndam ubhaya-
+prakṛṣṭotkaṇṭhitvaṃ viśati tad idaṃ hanta kim iva ।। [śikhariṇī]

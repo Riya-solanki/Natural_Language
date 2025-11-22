@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5194 | label: hybrid | g:0.476 m:0.5 ---
+
+patim upalabhate ca satsu kanyā śravaṇam upetya śubhā munes tu vācaḥ 
+janayati ca sutān guṇair upetān ripujanamardanavīryaśālinaś ca ।।

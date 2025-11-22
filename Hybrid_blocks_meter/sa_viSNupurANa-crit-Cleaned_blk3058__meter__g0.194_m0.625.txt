@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3058 | label: meter | g:0.194 m:0.625 ---
+
+asamartho annadānasya dhānyam āmaṃ svaśaktitaḥ 
+pradāsyati dvijāgrebhyaḥ svalpālpāṃ vāpi dakṣiṇām ।।

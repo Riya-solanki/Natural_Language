@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 315 | label: grammar | g:0.583 m:0.5 ---
+
+bāhyaṃ hṛdaya evāntar abhihṛtyaiva yo arcati tvām īśa bhaktipīyūṣarasapūrair namāmi tam ।।

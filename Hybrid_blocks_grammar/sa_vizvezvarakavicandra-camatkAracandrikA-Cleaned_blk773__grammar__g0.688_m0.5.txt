@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 773 | label: grammar | g:0.688 m:0.5 ---
+
+atra nāyakānuraktāyāḥ kasyāścinnāyakacitre ayaṃ sākṣānnāyaka iti pratīteḥ seyaṃ satatanāyakānudhyānavāsanābalena citrastha nāyakākāramālambya jāyata iti saṃskārajā sālambā nāmabhrāntiriyam ।

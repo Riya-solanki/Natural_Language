@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 727 | label: meter | g:0.25 m:0.5 ---
+
+evam eṣā ca gaur dharmaṃ prāpsyate nātra saṃśayaḥ 
+pitṝn abhyarcya dharmeṇa nādharmo asmin bhaviṣyati ।।

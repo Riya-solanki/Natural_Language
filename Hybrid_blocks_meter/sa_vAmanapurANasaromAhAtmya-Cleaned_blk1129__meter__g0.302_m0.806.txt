@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1129 | label: meter | g:0.302 m:0.806 ---
+
+gītavāditranṛtyajño gītavāditrakapriyaḥ ।
+matsyo jālo jalaukāśca kālaḥ kelikalā kaliḥ ।।

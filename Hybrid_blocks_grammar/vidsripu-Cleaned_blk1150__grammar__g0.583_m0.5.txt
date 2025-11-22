@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1150 | label: grammar | g:0.583 m:0.5 ---
+
+visraṃ vapuḥ paravadhapravaṇaṃ ca karma tiryaktayaiva kathitaḥ sadasadvivekaḥ ।
+itthaṃ na kiṃcid api cāru mṛgādhipasya tejas tu tat kim api yena jagad varākam ।।

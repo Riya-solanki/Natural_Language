@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2845 | label: grammar | g:0.611 m:0.468 ---
+
+trinayana hara bhava śaṅkara umāpate jīmūtaketo śuhāgṛha śmaśānanirata bhūtivilepana sūlapāṇe paśupate gopate tatpuruṣasattma namo namaste ।
+itthaṃ stutaḥ kavivarema haro atha bhaktyā prīto varaṃ varaya dadmi tavetyuvāca ।
+sa prāha devavara dehi varaṃ mamādya yadvai tavaiva jaṭharāt pratinirgamo astu ।।

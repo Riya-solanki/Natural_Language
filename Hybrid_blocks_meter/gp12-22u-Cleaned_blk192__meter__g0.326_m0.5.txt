@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 192 | label: meter | g:0.326 m:0.5 ---
+
+mahābāhutayā rāma tarkyase tvaṃ ca vikramī ।
+na tathā lakṣyathāḥ kvāpi lakṣaṇīyas tu samprati ।। [anuṣṭubh] iti ।

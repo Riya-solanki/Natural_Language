@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 703 | label: grammar | g:0.583 m:0.5 ---
+
+atrārjunalakṣaṇadravyasya karṇa vātsalyaguṇasya virodhaḥ । dravyasya dravyeṇa virodhe eka eva bhedaḥ ।

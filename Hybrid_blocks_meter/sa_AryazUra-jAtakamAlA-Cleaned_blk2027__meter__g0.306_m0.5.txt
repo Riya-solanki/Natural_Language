@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2027 | label: meter | g:0.306 m:0.5 ---
+
+nātyeti kālo mama khādituṃ tvāṃ dhūmākulā tāvadiyaṃ citāpi ।
+vidhūmapakvaṃ viśitaṃ ca hṛdyaṃ śṛṇmastadetāni subhāṣitāni ।।

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1613 | label: meter | g:0.315 m:0.636 ---
+
+atha udāharaṇam-
+vākyaṃ yad gūḍha-tulyārthaṃ tad udāharaṇaṃ matam ।।

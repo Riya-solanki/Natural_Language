@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10050 | label: meter | g:0.328 m:0.595 ---
+
+jñānahrade satyajale rāgadveṣamalāpahe ।
+yaḥ snāti mānase tīrthe sa vai mokṣamavāpnuyāt ।।

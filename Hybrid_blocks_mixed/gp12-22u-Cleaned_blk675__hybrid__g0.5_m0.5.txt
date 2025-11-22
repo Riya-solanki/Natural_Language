@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 675 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad etat-paryantam antara-sparśi-rāga-parīte tasya veṇu-gīte ko' pi sambhramaḥ sarvam eva vrajaṃ nighnaṃ kurvan vighnam ācarati sma । [] sa tu prātaḥ prastoṣyate । ity añjaliṃ baddhvā punar uvāca-

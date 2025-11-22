@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1704 | label: meter | g:0.056 m:0.521 ---
+
+{cakrī cakrārapaṅktiṃ harirapi ca harīn dhūrjaṭirdhūrdhvajāgrān
+akṣaṃ nakṣatranāthoruṇamapi varuṇaḥ kūbarāgraṃ kuberaḥ ।
+raṃhaḥ saṃghaḥ surāṇāṃ jagadupakṛtaye nityayuktasya yasya
+stauti prītiprasannonvahamahimaruceḥ sovatātsyandano vaḥ ।।}

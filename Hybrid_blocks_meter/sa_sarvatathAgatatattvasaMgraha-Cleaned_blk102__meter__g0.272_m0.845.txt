@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 102 | label: meter | g:0.272 m:0.845 ---
+
+aho hi paramārtho ahamādiśuddhaḥ svayaṃbhuvān ।
+yatkolopamadharmāṇāṃ viśuddhirupalabhyate ।।

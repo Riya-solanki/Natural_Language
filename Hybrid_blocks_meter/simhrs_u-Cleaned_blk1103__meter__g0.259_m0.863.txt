@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 1103 | label: meter | g:0.259 m:0.863 ---
+
+atha bhayānakaḥ-
+vibhāvair anubhāvaiś ca svocitair vyabhicāribhiḥ ।
+bhayaṃ sadasya-rasyatvaṃ nītaṃ proktaṃ bhayānakaḥ ।। 
+tatra santrāsa-maraṇa-cāpalāvega-dīnatāḥ ।
+viṣāda-mohāpasmāra-śaṅkādyā vyabhicāriṇaḥ । 
+vikriyās tv āsya-śoṣādyāḥ sāttvikāś cāśru-varjitāḥ ।।

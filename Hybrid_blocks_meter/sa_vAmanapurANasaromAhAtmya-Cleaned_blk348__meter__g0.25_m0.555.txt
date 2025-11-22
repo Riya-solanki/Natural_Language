@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 348 | label: meter | g:0.25 m:0.555 ---
+
+kathaṃ saraḥ samāsādya kṛtvā tīrthāni pārśvataḥ ।
+prayātā paścimāmāśāṃ dṛśyāhṛśyagatiḥ śubhā ।
+etad vistarato brūhi tīrthaṃvaṃśaṃ sanātanam ।।

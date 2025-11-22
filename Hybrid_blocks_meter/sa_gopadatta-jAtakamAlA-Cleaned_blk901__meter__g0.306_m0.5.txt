@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 901 | label: meter | g:0.306 m:0.5 ---
+
+ye bhajanti sadā buddhaṃ na te gacchanti durgatim ।
+niḥkleśāḥ sabalān mārāñ jitvā yānti jinālayam ।।

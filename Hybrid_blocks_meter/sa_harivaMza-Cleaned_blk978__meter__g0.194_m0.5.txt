@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 978 | label: meter | g:0.194 m:0.5 ---
+
+tathā gṛtsamateḥ putrā brāhmaṇāḥ kṣatriyā viśaḥ 
+kāśyasya kāśayo rājan putro dīrghatapās tathā ।।

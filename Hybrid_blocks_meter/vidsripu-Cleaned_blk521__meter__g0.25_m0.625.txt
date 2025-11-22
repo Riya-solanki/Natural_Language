@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 521 | label: meter | g:0.25 m:0.625 ---
+
+nūnam ājñākaras tasyāḥ subhruvo makaradhvajaḥ ।
+yatas tannetrasaṃcāra- sūciteṣu pravartate ।।

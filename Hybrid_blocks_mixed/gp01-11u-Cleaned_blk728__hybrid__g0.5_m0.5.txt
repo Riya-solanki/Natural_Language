@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 728 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tataś ca, sarvāsu nirviśeṣaṃ rodana-vaśatāṃ viśantīṣu, hā rohiṇi, drohiṇi, kiṃ kariṣyāmi? kathaṃ tam anavalokya mariṣyāmi? kathaṃ vā vraja-rāja-diśi mukhaṃ vitariṣyāmi iti paryantaṃ paryanta-daśāvasānam anu yaḥ khalv aśeṣa-vilāpanaḥ prasū-vilāpaḥ । sa punar avakalitaḥ sahasā ghṛtam iva vilālayati hṛdayam । kathaṃ kathayitum īśyate? ity alam atiprasaṅgena iti madhukaṇṭhaḥ svasya sarvasya ca vaivaśya-vaśyatām āśaṅkya maṅkṣu saṅkathayāmāsa,

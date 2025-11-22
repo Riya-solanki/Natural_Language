@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 255 | label: grammar | g:0.598 m:0.193 ---
+
+tathānyapratiṣedhe apyasati vastu vastvantarādvyāvartata iti pariccheda evātmanaḥ prasajyeta ।
+sarvagatatvaṃ cāsyāyāmaśabdādibhyo vijñāyate ।
+āyāmaśabdo vyāptivacanaḥ śabdaḥ ayāvānvā ayamākāśastāvāneṣo antarhṛdaya ākāśaḥ' aākāśavatsarvagataśca nityaḥ' ajyāyāndivaḥ' ajyāyānākāśāt' anityaḥ sarvagataḥ sthāṇuracalo ayaṃ sanātanaḥ' ityevamādayo hi śrutismṛtinyāyāḥ sarvagatatvamātmano avabodhayanti ।।

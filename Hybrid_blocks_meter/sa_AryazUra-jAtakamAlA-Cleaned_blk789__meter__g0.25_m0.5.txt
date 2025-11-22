@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 789 | label: meter | g:0.25 m:0.5 ---
+
+sitaprākārasaṃvītaṃ vetsi kasya nu tadgṛham ।
+kā sā tatra vyarociṣṭa vidyutsita ivāmbude ।।

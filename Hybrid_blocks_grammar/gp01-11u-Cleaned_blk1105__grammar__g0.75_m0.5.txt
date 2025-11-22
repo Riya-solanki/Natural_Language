@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1105 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha devakī-vivāha-gatāha-nabhaḥ-sabhya-vāṇīm ārabhya sarva-kathā-śaṃsana-pūrvakaṃ kaṃsa uvāca-tad evaṃ pratyekaṃ nūtana-nūtanārabdha-miṣa-viṣa-maya-pūtanādiṣu dhūta-phala-prayāsāliṣu sarvaṅgila-līlatayā bhavān adyānavadya-gatiḥ । iha ca rāvaṇasya kumbha ity ardhoktam aśakuna-bhiyācchādya, pūrveṣāṃ pūrva-devānāṃ vṛtra iva ity api pratyākhyāyedam ākhyat-dhruvaṃ dhruvasyeva tava cātra bhrātra-mitra-niryātanam avaśya-vaśyatām arhati iti ।

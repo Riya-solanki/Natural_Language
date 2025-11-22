@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1368 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ vinipātagatānāmapi satāṃ vṛttaṃ nālamanugantumasatpuruṣāḥ prāgeva sugatiṣṭhānāmiti । evaṃ kalyāṇī vāgubhayahitāvahā bhavatīti kalyāṇavacanapraśaṃsāyāmapyupaneyam । kalyāṇamitravarṇe api vācyam, evaṃ kalyāṇamitravatāṃ kṛcchre apyarthāḥ saṃsidhyantīti । sthavirāryānandapūrvasabhāgapradarśane ca, evamayaṃ sthaviraḥ sahacaritacaraṇo bodhisattvena cirakālābhyastapremabahumāno bhavatīti ।

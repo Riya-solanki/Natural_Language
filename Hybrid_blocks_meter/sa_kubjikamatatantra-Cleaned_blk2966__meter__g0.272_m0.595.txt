@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2966 | label: meter | g:0.272 m:0.595 ---
+
+nārā ca śakti-r-uccāraṃ karaṇātmavyavasthitam 
+vedhate tu nirodhinyā kāraṇaṃ pañca eva tu ।।

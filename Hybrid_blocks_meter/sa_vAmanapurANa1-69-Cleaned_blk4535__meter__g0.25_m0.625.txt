@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4535 | label: meter | g:0.25 m:0.625 ---
+
+itthaṃ sa nṛpatiḥ kṛtvā śraddadhāno jitendriyaḥ ।
+jyāmagho viṣṇunilayaṃ gata ityanuśuśrumaḥ ।।

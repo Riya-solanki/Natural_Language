@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 843 | label: meter | g:0.25 m:0.5 ---
+
+iti tena narendreṇa prārthite sa jinātmajaḥ ।
+upagupto narendraṃ taṃ samālokyaivam ādiśat ।।

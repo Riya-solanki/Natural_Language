@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2313 | label: meter | g:0.306 m:0.5 ---
+
+tato yaśodā saṃkruddhā kṛṣṇaṃ kamalalocanam 
+uvāca śiśurūpeṇa carantaṃ jagataḥ prabhum । 
+ehi vatsa piba stanyaṃ durvoḍhuṃ mama saṃprati ।। 
+etāvantam itaḥ kālaṃ kvā gato asi gṛhād bahiḥ । 
+ity ādāya kare putraṃ gṛhān nirvāsya sā ruṣā । 
+ānāyya śakaṭīmūlaṃ bhartsayantī punaḥ punaḥ ।।

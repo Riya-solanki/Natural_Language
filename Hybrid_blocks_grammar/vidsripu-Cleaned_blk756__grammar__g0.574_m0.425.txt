@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 756 | label: grammar | g:0.574 m:0.425 ---
+
+nidre bhadram avasthitāsi kuśalaṃ saṃvedane kiṃ tava kṣemaṃ te sakhi nirvṛte nanu samaṃ kāntena yūyaṃ gatāḥ ।
+kiṃ cānyat priyasaṃgame adya calito gacchan vipadvatsalo mūrchāvismṛtavedanāparijano dṛṣṭo asmadīyo na vā ।।
+aravindasya

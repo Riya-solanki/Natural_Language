@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1696 | label: meter | g:0.25 m:0.625 ---
+
+gadānipātair bhagnāṅgā bāṇaiś ca śakalīkṛtāḥ 
+paripetur bhṛśaṃ kecin nyubjāḥ kecic ca jajñire ।।

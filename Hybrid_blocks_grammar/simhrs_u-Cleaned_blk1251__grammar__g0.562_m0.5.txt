@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1251 | label: grammar | g:0.562 m:0.5 ---
+
+rāvaṇaḥ-priyaṃ naḥ ( padyāt pūrvam] ity antena pratināyaka-rūpa-bhārgava-rāvaṇayor uttejanād bhedaḥ ।

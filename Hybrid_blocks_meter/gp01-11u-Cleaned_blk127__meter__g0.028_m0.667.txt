@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 127 | label: meter | g:0.028 m:0.667 ---
+
+[] tad-vāsinas tv evaṃ stūyante-
+arthāḥ sarva-janārthanām atigatāḥ kāmā nikāmāgrimā
+dharmāḥ karmaṭha-deva-dharma-mahitā mokṣāś ca mokṣātigāḥ ।
+teṣāṃ tatra vasanti sevakatayā kṛṣṇāya tṛṣṇā-juṣāṃ
+yad-dhāmārtha-suhṛt-priyātma-tanaya-prāṇāśayās tat-kṛte ।। [śārdūlā]

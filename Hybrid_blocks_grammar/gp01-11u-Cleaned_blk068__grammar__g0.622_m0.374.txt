@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 68 | label: grammar | g:0.622 m:0.374 ---
+
+[] kiṃ ca, murajin-muralī-kalī-khuralī ca sva-mādhurī-pradugdha-mugdha-surabhi-dugdhānāṃ surabhīnām ūdho-giritaḥ saritaḥ prasārayantī paritaḥ parikhāyamāṇaṃ kṣīra-vāridhiṃ visphārayati । tatra kāmadhenutayā nikāmam eva snuvatīnāṃ kṣīra-vāhitāpi
+prācuryeṇaiva paryavasāyyate । [] tato nānā-rasā api tā nadyaḥ pratipadyante vidyā-vadbhiḥ ।

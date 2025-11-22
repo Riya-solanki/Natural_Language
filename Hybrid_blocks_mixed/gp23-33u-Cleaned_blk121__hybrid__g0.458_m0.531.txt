@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 121 | label: hybrid | g:0.458 m:0.531 ---
+
+svabhava-tāpa-bharam amṛta-dharādhara-rasa-jharataḥ svata eva ।
+nāśaya yadi na hi mādṛśam api sa hi saṅkramitā sakhideva ।।
+atra svabhaveti kāme svajāte vā । mādṛśam ity asmat-sadṛśe vā jane' smad-arthe vā ।

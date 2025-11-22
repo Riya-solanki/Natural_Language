@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 699 | label: meter | g:0.306 m:0.625 ---
+
+ācāmābhyaṅgamudvartaṃ snānaṃ nirṃmathanaṃ caret ।
+vastraṃ vilepanaṃ puṣpaṃ dhūpaṃ dīpaṃ caruṃ dadet ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3616 | label: meter | g:0.25 m:0.695 ---
+
+kabandhāni samuttasthuḥ subahūni samantataḥ 
+piśācā rākṣasāś caiva māṃsaśoṇitalālasāḥ । 
+tasmin vimarde yodhānāṃ saṃkhyāvyaktir na vidyate ।।

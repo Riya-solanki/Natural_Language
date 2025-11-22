@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11887 | label: hybrid | g:0.542 m:0.5 ---
+
+tasyāḥ sūtraṃ galabaddhaṃ ca kṛtvā nānāduḥ khaṃ hyanubhūyāḥ pate tvam ।
+yadā pate yamādūtaiśca pāśairbaddhvā ca samyak tāḍyamānaiḥ kaśābhiḥ ।।

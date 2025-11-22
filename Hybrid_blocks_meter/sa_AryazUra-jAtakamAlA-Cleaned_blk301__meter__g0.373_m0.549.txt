@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 301 | label: meter | g:0.373 m:0.549 ---
+
+na santi mudgā na tilā na taṇḍulā vane vivṛddhasya śaśasya kecana ।
+śarīrametattvanalābhisaṃskṛtaṃ mamopayujyādya tapovane vasa ।।

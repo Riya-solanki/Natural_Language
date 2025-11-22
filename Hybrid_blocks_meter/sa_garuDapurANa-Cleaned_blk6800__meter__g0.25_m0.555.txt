@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6800 | label: meter | g:0.25 m:0.555 ---
+
+avaśenāpi yannāmni kīrtite sarvapātakaiḥ ।
+pumān vimucyate sadyaḥ siṃhatrasto mṛgā yathā ।
+baddhaḥ parikarastena mokṣāya gamanaṃ prati ।।

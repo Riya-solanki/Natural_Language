@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 559 | label: hybrid | g:0.5 m:0.5 ---
+
+somānaṃ svaraṇaṃ kṛṇuhi brahmaṇaspate kakṣīvantaṃ ya auśijaḥ ।

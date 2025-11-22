@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 400 | label: grammar | g:0.75 m:0.5 ---
+
+[] vidrutya labdha-sanīḍaṃ punar asau vikrīḍana-catura-cittas tata itas taṃ vidrāvya ceṣṭitena veveṣṭi sma । nṛsiṃha iva hiraṇyakaśipuṃ ripuṃ sa-nigraham eva jagrāha ca ।

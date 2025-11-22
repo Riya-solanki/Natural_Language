@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 919 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha dināntare bhāsamānāyāṃ sabhāyāṃ śrī-vrajarājaḥ paryanuyuktavān, vatsa snigdhakaṇṭha, tau khalu vṛkṣau vraje saṅkalpa-pradatayā devatā-sadṛkṣau । tataḥ prāg-janmani kīdṛśāv, atra vā kasmād āgatau, samprati ca kīdṛśatayā kva gatau?

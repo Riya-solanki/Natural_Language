@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 226 | label: meter | g:0.25 m:0.625 ---
+
+tac cāsyāvṛtiśūnyatvān na vyañjakamapekṣate ।
+tan na sāṃśayikaṃ tasmādviparītaṃ na jātucit ।।

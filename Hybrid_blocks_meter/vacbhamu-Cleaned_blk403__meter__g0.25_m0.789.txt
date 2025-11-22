@@ -1,0 +1,10 @@
+--- source: vacbhamu-Cleaned.txt | block: 403 | label: meter | g:0.25 m:0.789 ---
+
+ṛtuyajanenopādhinā ṛtvikśabdaḥ pravṛtta iti yajñopādhaya ṛtvijaḥ ।
+evaṃ yajamāno api yajñopādhireva ।
+evaṃ patnī, apatyurno yajñasaṃyoge' iti smaraṇāt ।
+ta ete aṣṭādaśa yajñarūpāḥ, yeṣvṛtvigādiṣūktaṃ karma yajñaḥ ।
+yadāśrayo yajña ityarthaḥ ।
+tacca karmāvaraṃ svargādyavaraphalatvāt ।
+apiyanti prāpnuvanti ।
+nahi dṛṣṭāntadārṣṭāntikrayoḥityuktābhiprāyam ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5306 | label: meter | g:0.275 m:0.775 ---
+
+hariruvāca ।
+sarvajvareṣu prathamaṃ kāryaṃ śaṅkara laṅghanam ।
+kvathitodakapānaṃ ca tathā nirvātasevanam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3184 | label: meter | g:0.25 m:0.5 ---
+
+sakalam idam ajasya yasya rūpaṃ paramapadātmavataḥ sanātanasya 
+tam anidhanam aśeṣabījabhūtaṃ prabhum amalaṃ praṇatāḥ sma vāsudevam ।।

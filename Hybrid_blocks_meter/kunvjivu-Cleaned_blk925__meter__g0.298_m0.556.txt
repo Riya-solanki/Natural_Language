@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 925 | label: meter | g:0.298 m:0.556 ---
+
+etadalaṅkāravārtāmātrānabhijñasya kasyacitpralapitamiti sacetasāṃ pratibhāsate ।
+yasmādvaidagdhyasya bhaṅgyā taruṇīlāvaṇyātiśayapratipādanapareyaṃ aprastutapraśaṃsā kavicetasi parisphurati ।
+yadi vā nidarśanāntaraviṣayatvena tulyayogitā saṃbhavati ।
+yathā

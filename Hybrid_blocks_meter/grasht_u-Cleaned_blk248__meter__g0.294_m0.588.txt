@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 248 | label: meter | g:0.294 m:0.588 ---
+
+bhasman rañjana
+iti tīkṣṇaśulbanāgaṃ mākṣikayuktaṃ ca tatkṛtaṃ khoṭam ।
+tadbhasma ca puṭavidhinā nirvyūḍhaṃ satvarañjakaṃ bhavati ।।

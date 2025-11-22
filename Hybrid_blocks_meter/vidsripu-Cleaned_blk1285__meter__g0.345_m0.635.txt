@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1285 | label: meter | g:0.345 m:0.635 ---
+
+anuharataḥ khalasujanāv agrimapāścātyabhāgayoḥ sūcyoḥ ।
+ekaḥ kurute cchidraṃ guṇavān anyaḥ prapūrayati ।।
+gobhaṭṭasya

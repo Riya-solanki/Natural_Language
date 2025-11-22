@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1168 | label: grammar | g:0.75 m:0.5 ---
+
+[] tac ca dṛṣṭvā muhur api nayanābhyāṃ spṛṣṭvā kṛṣṇaḥ sa-tṛṣṇam idam acintayat-[] hanta, bhadrāṃ padmāṃ nityam āgacchann api bhadrāṃ padmām adyāpi nāgacchann asmi । śyāmalābhā-madhuratām añcann api śyāmalābhilāṣa-vidhuratām añcann asmi । nakhara-vijita-candrāvalīkatām āpnuvann api candrāvalīṃ prati labdha-tṛṣṇatām āpnuvann asmi ।

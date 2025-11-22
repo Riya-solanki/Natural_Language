@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 507 | label: grammar | g:0.708 m:0.5 ---
+
+atha tasya sarvasattvapriyasya maitrakanyakasya bodhisattvasya vacanānantaram eva mūrdhnā [!] samutpatyotkṣiptam iva tac cakraṃ saptatālocchrayāc cākraṃ nabhastalaṃ samutpatyāvatasthe ।

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1744 | label: meter | g:0.217 m:0.97 ---
+
+vyatyasta-pāda-kamalaṃ valita-tribhaṅgī-
+saubhāgyam aṃsa-viralī-kṛta-keśa-pāśam ।
+piñchāvataṃsam urarīkṛta-vaṃśa-nālaṃ
+vyāmohanaṃ navam upaimi kṛpā-viśeṣam ।।

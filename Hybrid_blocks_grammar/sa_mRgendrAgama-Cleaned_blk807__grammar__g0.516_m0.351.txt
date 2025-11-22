@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 807 | label: grammar | g:0.516 m:0.351 ---
+
+[bāṇe liṅge] tripurīnarmadāpravāhādiparigṛhīte [svayaṃ vyakte] svayaṃbhūsthāne, tathā [munisiddhaniṣevite] munisiddhaparyupāsite [svakalpoktena vidhinā] svaśāstroktakrameṇa [svayaṃ vā parikalpite] svayaṃ vā vakṣyamāṇavatpratiṣṭhāpite।
+liṅga iti lakṣaṇayā rudrāśayasthānoktiḥ। eṣu sthāneṣu śuklapakṣacaturdaśyāmaṣṭamyāmuttarāyaṇakāle samāhitaḥ samāhitamatiḥ san tatkramajñaḥ kṣetraparigrahaṃ kuryāt।। 
+yāgadhāma vidhāyādāvastraṃ māheśvaraṃ yajet ।। d

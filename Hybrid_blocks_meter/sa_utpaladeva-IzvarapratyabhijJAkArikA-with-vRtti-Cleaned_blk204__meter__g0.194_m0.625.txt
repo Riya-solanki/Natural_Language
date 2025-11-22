@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 204 | label: meter | g:0.194 m:0.625 ---
+
+kiṃ tu nirmāṇaśaktiḥ sāpy evaṃ viduṣa īśituḥ 
+tathā vijñātṛvijñeyabhedo yad avabhāsyate ।।

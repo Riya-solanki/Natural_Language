@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 548 | label: meter | g:0.25 m:0.5 ---
+
+nanu dīkṣāyāṃ karmadāhasya vṛttatvāt punaḥ saṃjīvanam kathamupapadyata ityetadāha

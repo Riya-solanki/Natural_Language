@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 513 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha sa tu kalkī valkīkṛta-kaccaratādi-pracchanna-sparśa-veśatayā pūrvaṃ goṣṭham āgatya parito dṛṣṭiṃ vitatya veśma-sthita-gopa-bāla-viśeṣa-veṣaṃ samūhya tam eva ca vyūhya miśrī-bhavituṃ śiśrīṣan hasann eva tatra praviṣṭaḥ paridṛṣṭaś ca kṛṣṇena ।

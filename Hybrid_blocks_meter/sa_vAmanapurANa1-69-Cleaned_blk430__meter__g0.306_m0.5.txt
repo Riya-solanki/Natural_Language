@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 430 | label: meter | g:0.306 m:0.5 ---
+
+tato dītīśaḥ sagadaḥ samādravat saśārṅgapāṇiṃ tapasāṃ nidhānam ।
+khyātaṃ purāṇarṣimudāravikramaṃ nārāyaṇaṃ nārada lokapālam ।।

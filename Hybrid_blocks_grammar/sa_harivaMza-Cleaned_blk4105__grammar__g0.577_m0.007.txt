@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4105 | label: grammar | g:0.577 m:0.007 ---
+
+so arcito devarājena ratnaiś ca pratipūjitaḥ 
+satyabhāmā ca paulomyā yathāvad abhinanditā ।। 
+āśliṣyete mahārāja te devyau lokaviśrute ।। idaṃ provāca paulomī satyabhāmāṃ haripriyām । prītāsmi darśanād devi kiṃ bhūyaḥ karavāṇi te । diṣṭyā hato bhavatyā tu narako duṣṭacetanaḥ । ity uktā sā tadā devī kṛtam ity abravīc ca tām । 
+vāsavo vāsudevaś ca sahitau jagmatus tataḥ 
+adityā bhavanaṃ puṇyaṃ devamātur maharddhimat ।।

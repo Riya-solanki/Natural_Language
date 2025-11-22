@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 1117 | label: meter | g:0.25 m:0.5 ---
+
+atra bhoktavyam asmābhir divārūḍhaṃ kṣudhārditāḥ ।
+vatsāḥ samīpe' paḥ pītvā carantu śanakais tṛṇam ।।[BhP ।]

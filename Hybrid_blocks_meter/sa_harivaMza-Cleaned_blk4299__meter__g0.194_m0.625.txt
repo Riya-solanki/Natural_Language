@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4299 | label: meter | g:0.194 m:0.625 ---
+
+irāvatyāṃ mahābhojāv agnisūryasamau yudhi 
+gopatis tālaketuś ca nihatau śārṅgadhanvanā ।।

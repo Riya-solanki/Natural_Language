@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1106 | label: meter | g:0.26 m:0.931 ---
+
+kuṣṇājinottarīyāya vyālayajñopavītine ।
+vaktrasaṃdhānakeśāya harikeśa namo astu te ।
+tryambikāmbikanāthāyavyaktavyaktāya vedhase ।।

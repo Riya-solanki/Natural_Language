@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2406 | label: meter | g:0.194 m:0.625 ---
+
+yaḥ punaḥ śuddhabhāvātmā triṣkālaṃ parivartayet 
+prāpnoti cintitān kāmān strīṇāṃ bhavati vallabhaḥ ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1306 | label: grammar | g:0.646 m:0.5 ---
+
+ity antena upapattibhiḥ pitur nideśa-karaṇād api mātṛ-vadha-karaṇasyaiva pratipādanād vā gurūṇām avicintya-caritatvopanyāsena sarvopapannatva-pratipādanād vā upanyāsaḥ ।

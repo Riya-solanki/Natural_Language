@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 1128 | label: grammar | g:0.75 m:0.5 ---
+
+suhṛdayadurhṛdayaśabdābhyāṃ yuvādipāṭhādaṇi kṛte, hṛdayasya hṛdbhāvaḥ । ādivṛddhau sauhṛdadaurhṛdaśabdau bhavataḥ । suhṛddurhṛcchabdābhyāṃ yuvādipāṭhādevāṇi kṛte, hṛdbhagasindhvante iti hṛdantasya taddhite'ṇi kṛte satyubhayapadavṛddhau satyāṃ sauhārdaṃ dauhārdamiti bhavati ।।

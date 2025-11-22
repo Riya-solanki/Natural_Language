@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1838 | label: meter | g:0.306 m:0.5 ---
+
+viṣamairdhanahīnāśca dantāḥ snigdhā ghanāḥ śubhāḥ ।
+tīkṣṇā dantāḥ samāḥ śreṣṭhā jihvā raktā samā śubhā ।।

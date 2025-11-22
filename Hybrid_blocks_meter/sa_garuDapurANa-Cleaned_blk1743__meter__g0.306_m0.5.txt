@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1743 | label: meter | g:0.306 m:0.5 ---
+
+arkārkicandrā daśame grahā ekādaśe khilāḥ ।
+budho atha dvādaśe caiva bhārgavaḥ sukhado bhavet ।।

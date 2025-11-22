@@ -1,0 +1,10 @@
+--- source: gp01-11u-Cleaned.txt | block: 956 | label: meter | g:0.056 m:0.62 ---
+
+[] tataś ca saṅkrīḍati śakaṭa-varge saṅkrīḍamāne sati,
+śakaṭa-gṛhāṭana-caryāṃ paryākalayan vidūra-go lokaḥ ।
+vyatiṣajyāvadad etad grāmaḥ kaścic cariṣṇur astīti ।। [gīti]
+pathi tu,
+eko dhāvati kaścanāhvayati ko' py atrottaraṃ bhāṣate
+kaścit tatra nivṛtya gacchati nijaṃ sambhālayaty anyakaḥ ।
+sarvo gāyati kṛṣṇa-bālya-caritaṃ bāṣpāyate stambhate
+svidyaty ejati romaharṣam ayate vaivarṇyam āsīdati ।। [śārdūla]

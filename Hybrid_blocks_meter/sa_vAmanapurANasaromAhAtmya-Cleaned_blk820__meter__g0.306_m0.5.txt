@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 820 | label: meter | g:0.306 m:0.5 ---
+
+etad brahma samāsena mayoktaṃ te dvijottama ।
+yajjñātvā brahma paramaṃ prāpsyasi tvaṃ na saṃśayaḥ ।।

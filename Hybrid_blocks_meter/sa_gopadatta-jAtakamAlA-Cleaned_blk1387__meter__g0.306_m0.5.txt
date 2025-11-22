@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1387 | label: meter | g:0.306 m:0.5 ---
+
+svakāmakārānuvidhāyinīm śriyam paṭāntalagnām hutabhukśikhām iva ।
+na marṣayanti vyasanāturān janān dṛṣṭvā mahāntaḥ karuṇānibandhanāḥ ।।

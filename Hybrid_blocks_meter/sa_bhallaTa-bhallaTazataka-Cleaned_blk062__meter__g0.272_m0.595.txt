@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 62 | label: meter | g:0.272 m:0.595 ---
+
+kallolavellitadṛṣatparuṣaprahārai ratnāny amūni makarālaya māvamaṃsthāḥ 
+kiṃ kaustubhena vihito bhavato na nāma yācñāprasāritakaraḥ puruṣottamo api ।।

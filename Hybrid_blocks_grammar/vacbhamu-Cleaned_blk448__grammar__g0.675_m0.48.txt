@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 448 | label: grammar | g:0.675 m:0.48 ---
+
+athāsmai brahmacaryasaṃpadunmṛditakalmaṣāya maghavate ya eṣo akṣiṇi yaśca svapne suṣupte anusyūta eṣa ātmāpahatapāpmādiguṇako darśitaḥ, tameva amaghavan martyaṃ vai śarīram' ityādinā vispaṣṭaṃ vyācaṣṭe prajāpatiḥ ।
+ayamasyābhisaṃdhiḥ-yāvatkiñcita sukhaṃ duḥkhamāgamāpāyi tatsarvaṃ śarīrendriyāntaḥkaraṇasaṃbandhi, na tvātmanaḥ sa punaretāneva śarīrādīn anādyavidyāvāsanāvaśādātmatvenābipratītastadgatena sukhaduḥkhena tadvantamātmānamabhimanyamāno anutapyate ।
+yadā tvayamapahatapāpmatvādilakṣaṇamudāsīnamātmānaṃ caitanyānandaghane rūpe vyavasthitaḥ samastalokakāmān prāpto bhavati ।

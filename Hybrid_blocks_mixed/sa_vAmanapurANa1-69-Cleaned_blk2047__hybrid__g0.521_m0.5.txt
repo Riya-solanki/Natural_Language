@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2047 | label: hybrid | g:0.521 m:0.5 ---
+
+tato ambarād vājivaraḥ papāta babhūva vāṇī tvaśarīriṇī ca ।
+asau turaṅgo balavān krameta ahnā sahasrāṇi tu yojanānām ।।

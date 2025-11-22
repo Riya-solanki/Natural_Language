@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 894 | label: grammar | g:0.58 m:0.388 ---
+
+nanu pañjaracālananyāyenaitadbhaviṣyati ।
+yathaitapañjaravartina ekādaśapakṣiṇaḥ pratyekaṃ pratiniyatavyāpārāḥ santaḥ saṃbhūyaikaṃ pañjaraṃ cālayanti, evamekaśarīravartina ekādaśa prāṇāḥ pratyekaṃ pratiniyatavṛttayaḥ santaḥ saṃbhūyaikāṃ prāṇākhyāṃ vṛttiṃ pratilapsyanta iti ।

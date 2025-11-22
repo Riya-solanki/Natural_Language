@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 194 | label: meter | g:0.25 m:0.5 ---
+
+bhrakuṃsaśca bhrukuṃsaśca bhrūkuṃsaśceti nartakaḥ strīveṣadhārī puruṣo nāṭyoktau gaṇikāñjukā

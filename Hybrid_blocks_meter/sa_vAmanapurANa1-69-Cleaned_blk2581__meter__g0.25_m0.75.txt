@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2581 | label: meter | g:0.25 m:0.75 ---
+
+citrāṅgadāpi tān dṛṣṭvā ṛtadhvajapurogamān ।
+samaṃ tābhiḥ kṛsāṅgībhirabhyutthāyābhyavādayat ।।

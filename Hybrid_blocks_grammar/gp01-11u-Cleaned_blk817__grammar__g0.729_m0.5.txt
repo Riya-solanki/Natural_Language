@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 817 | label: grammar | g:0.729 m:0.5 ---
+
+[] tataś ca mātā bālyatā-ghaṭita-lālyatā-jaṭita-praṇayākula-kāku-lava-saṅkulatayā tena subhagākhaṇḍalena vighaṭite kṣubdha-daṇḍasya gati-maṇḍale svayaṃ payas-tananayoḥ stanayoḥ prasnavaṃ navakaṃ taṃ śāvakaṃ pāyayāmāsa ।

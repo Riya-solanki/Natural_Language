@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 905 | label: hybrid | g:0.5 m:0.5 ---
+
+[] kṛṣṇas tu bālaka-bhāvenājasraṃ mātari sa-tṛṣṇaḥ sāsraṃ, kutra me mātā? tatra gamyatām iti sa-śaṅkaṃ rohiṇy-aṅkaṃ gatavān । [] tataś ca, prahasita-kalakaleṣu sakaleṣu parama-sukhārohiṇyā rohiṇyānītaḥ so' pi veśma praviśya sa-rodana-modam ambālā-galaṃ lagnavān । tataś ca-

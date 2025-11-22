@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6496 | label: grammar | g:0.559 m:0.5 ---
+
+kavyaṃ yaḥ pitṛrūpadhṛg vidhihutaṃ havyaṃ ca bhuṅkte vibhur devatve bhagavān anādinidhanaḥ svāhāsvadhāsaṃjñitaḥ 
+yasmin brahmaṇi sarvaśaktinilaye mānāni no mānināṃ niṣṭhāyai prabhavanti hanti kaluṣaṃ śrotraṃ sa yāto hariḥ ।।

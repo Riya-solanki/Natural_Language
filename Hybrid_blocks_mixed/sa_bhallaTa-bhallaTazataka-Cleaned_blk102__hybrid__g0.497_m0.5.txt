@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 102 | label: hybrid | g:0.497 m:0.5 ---
+
+ayaṃ vārām eko nilaya iti ratnākara iti śrito asmābhis tṛṣṇātaralitamanobhir jalanidhiḥ 
+ka evaṃ jānīte nijakarapuṭīkoṭaragataṃ kṣaṇād enaṃ tāmyattiminikaram āpāsyati muniḥ ।।

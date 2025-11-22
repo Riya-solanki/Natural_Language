@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2063 | label: meter | g:0.306 m:0.5 ---
+
+sa me bandhuḥ sa sacivaḥ sa bhrātā sāmparāyikaḥ ।
+yo māmasitakeśāṃ tāṃ yojayen mṛgalocanām ।।

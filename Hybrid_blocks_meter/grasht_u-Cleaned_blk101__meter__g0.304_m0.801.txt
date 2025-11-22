@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 101 | label: meter | g:0.304 m:0.801 ---
+
+mardana
+guḍadagdhorṇālavaṇair mandiradhūmeṣṭakāsurīsahitaiḥ ।
+rasaṣoḍaśāṃśamānaiḥ sakāñjikairmardanaṃ tridinam ।।

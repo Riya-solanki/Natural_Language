@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 15 | label: meter | g:0.25 m:0.748 ---
+
+halo anantarāḥ saṃyogaḥ ।।
+ajbhiravyavahatā haliḥ saṃyogasaṃjñāḥ syuḥ ।।

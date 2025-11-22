@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 572 | label: meter | g:0.056 m:0.521 ---
+
+uḍḍiḍye sapadi yadā tu pakṣiṇī sā
+taṃ bālaṃ hṛdi parigṛhya lambamānaṃ ।
+uḍḍīnā drutataram eva mātṛ-yugma-
+prāṇāś ca sphuṭita-hṛdambujād ivāsan ।। [praharṣiṇī]

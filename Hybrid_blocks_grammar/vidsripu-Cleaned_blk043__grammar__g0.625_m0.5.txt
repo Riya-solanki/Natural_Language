@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 43 | label: grammar | g:0.625 m:0.5 ---
+
+vapuḥprādurbhāvād anumitam idaṃ janmani purā purāre na prāyaḥ kvacid api bhavantaṃ praṇatavān ।
+namañ janmany asminn aham atanur agre apy anatibhāṅ maheśa kṣantavyaṃ tad idam aparādhadvayam api ।।

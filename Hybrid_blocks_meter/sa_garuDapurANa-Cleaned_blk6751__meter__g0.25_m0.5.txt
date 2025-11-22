@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6751 | label: meter | g:0.25 m:0.5 ---
+
+mahataḥ śreyaso mūlaṃ prasavaḥ puṇyasantateḥ ।
+jīvitasya phalaṃ svādu niyataṃ smaraṇaṃ hareḥ ।।

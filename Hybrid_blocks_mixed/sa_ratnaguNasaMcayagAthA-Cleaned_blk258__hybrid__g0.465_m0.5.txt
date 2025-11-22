@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 258 | label: hybrid | g:0.465 m:0.5 ---
+
+yāvanta sattva kuśalārthika mokṣakāmā sarveṣa bhonti anumoditu puṇyarāśi 
+sattvarthi te jinaguṇa ananta prāpuṇitvā dāsyanti dharma jagatī dukhasaṃkṣayāye ।।

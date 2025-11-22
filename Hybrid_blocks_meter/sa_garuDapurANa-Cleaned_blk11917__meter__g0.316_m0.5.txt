@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11917 | label: meter | g:0.316 m:0.5 ---
+
+sa brahmadevaḥ kva palāyitobhūtsumūḍhabuddhe viṣṇupādaṃ bhajasva ।
+santānārthaṃ bṛhatīṃ pūjayitvā galena baddhvā bṛhatīṃ vai phalaṃ ca ।।

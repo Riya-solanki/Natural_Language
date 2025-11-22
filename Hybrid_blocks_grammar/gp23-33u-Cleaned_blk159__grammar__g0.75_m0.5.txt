@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 159 | label: grammar | g:0.75 m:0.5 ---
+
+[] yatraiva ca tūlikāvad anukūlikā bālukā vastra-mātram āstaraṇam apekṣate sma; yatraiva ca kalinda-tanayā svayaṃ valita-sakhīnayā saugandhika-sugandha-gandhavāha-vahanādinā sevāṃ vahati sma ।

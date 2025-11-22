@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 189 | label: grammar | g:0.75 m:0.5 ---
+
+[] tadā ca tāla-phala-pākāvasare varṣā-prasare kadācin nikhila-sukha-vardhanasya govardhanasya girer āgneyyāṃ hariti hari-rāmādayaḥ sāmodā gāś cārayantaḥ santi sma । [] tataś ca pūrvānubhava-sampātātītaṃ pūrva-vātānītam atidūrataḥ sajātīya-pūra-dharaṃ paktrima-tāla-phala-jāla-saurabhya-bharam upalabhya, pūrvata eva tat-kīrti-vivartita-cittā vraja-vartiṣu vittās te sarvaṃ-sahāyāḥ spṛhaṇīyāḥ sarva eva tayoḥ sahāyā hṛdi spṛhayāmbabhūvuḥ- rāma-kṛṣṇābhyāṃ valitā vayam itaś calitā rāsa-bhāsura-rāja-bhavanaṃ tāla-vanaṃ tat-pāla-gaṇam api tathā-vidhaṃ nibhālayituṃ nūtana-kutukāḥ sma । tataḥ sva-bubhukṣā-sukṣāmatā-lakṣya-vinodād imau vinudāma iti ।

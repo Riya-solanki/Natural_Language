@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3705 | label: meter | g:0.25 m:0.625 ---
+
+vajrasādhu mahātuṣṭi sādhukāra praharṣaka ।
+mahāharṣa mahāmo[dana] prāmodya namo astu te ।।

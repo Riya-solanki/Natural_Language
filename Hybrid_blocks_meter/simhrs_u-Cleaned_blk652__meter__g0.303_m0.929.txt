@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 652 | label: meter | g:0.303 m:0.929 ---
+
+atha avahitthā-
+avahitthākāra-guptir jaihmya-prābhava-nītibhiḥ । 
+lajjā-sādhvasa-dākṣiṇya-prāgalbhyāpajayādibhiḥ ।।
+anyathā-kathanaṃ mithyā-dhairyam anyatra vīkṣaṇam । 
+kathā-bhaṅgādayo' py asyām anubhāvā bhavanty amī ।।

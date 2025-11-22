@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11635 | label: meter | g:0.25 m:0.695 ---
+
+tāvadvaktuṃ samagreṇa na samarthaścaturmukhaḥ ।
+vyaṅkaṭādrau parāṃ bhaktiṃ ye kurvanti dinedine ।
+paṅgarjaṅghāla eva syādacakṣuḥ padmalocanaḥ ।।

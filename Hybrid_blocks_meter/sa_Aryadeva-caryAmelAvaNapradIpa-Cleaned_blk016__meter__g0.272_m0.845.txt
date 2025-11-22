@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 16 | label: meter | g:0.272 m:0.845 ---
+
+prakramaṇāt prāṇāyāmāccendriyadvāraistantubhiḥ ।
+prakramate sadā kālaṃ prāṇa ityabhidhīyate ।।

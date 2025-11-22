@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 89 | label: meter | g:0.255 m:0.573 ---
+
+yathā mamaiva-
+ko doṣo maṇi-mālikā yadi bhavet kaṇṭhe na kiṃ śaṅkaro
+dhatte bhūṣaṇam ardha-candram amalaṃ candre na kiṃ kālimā ।
+tat sādhv eva kṛtaṃ kṛtaṃ bhaṇitibhir naivāparāddhaṃ tvayā
+bhāgyaṃ draṣṭum anīśayaiva bhavataḥ kāntāparāddhaṃ mayā ।।

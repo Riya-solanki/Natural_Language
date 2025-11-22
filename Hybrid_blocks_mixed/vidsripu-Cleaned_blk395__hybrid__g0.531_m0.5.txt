@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 395 | label: hybrid | g:0.531 m:0.5 ---
+
+smitaṃ kiṃcinmugdhaṃ taralamadhuro dṛṣṭivibhavaḥ parispando vācām abhinavavilāsoktisarasaḥ ।
+gatīnām ārambhaḥ kisalayitalīlāparimalaḥ spṛśantyās tāruṇyaṃ kim iva na manojñaṃ mṛgadṛśaḥ ।।

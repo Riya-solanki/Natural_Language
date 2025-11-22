@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3577 | label: meter | g:0.217 m:0.845 ---
+
+divyasragdāmadhārīṇi trāsayanti nabhaścarān 
+prabhayā bhāsamānāni daṃśitāni diśo daśa ।।

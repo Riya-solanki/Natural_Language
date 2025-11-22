@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 233 | label: meter | g:0.194 m:0.75 ---
+
+nimittamātram evāsau sṛjyānāṃ sargakarmaṇi 
+pradhānakāraṇībhūtā yato vai sṛjyaśaktayaḥ ।।

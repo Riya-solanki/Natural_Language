@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3934 | label: grammar | g:0.75 m:0.5 ---
+
+śrautasmārtadharme viplavam atyantam upagate kṣīṇaprāye ca kalāv aśeṣajagatsraṣṭuś carācaraguror ādimayasyāntamayasya sarvamayasya brahmamayasyātmarūpiṇo bhagavato vāsudevasyāṃśaḥ śambalagrāmapradhānabrāhmaṇaviṣṇuyaśaso gṛhe aṣṭaguṇarddhisamanvitaḥ kalkirūpī jagaty atrāvatīrya sakalamlecchadasyuduṣṭācaraṇacetasām aśeṣāṇām aparicchinnamāhātmyaśaktiḥ kṣayaṃ kariṣyati । svadharmeṣu cākhilaṃ jagat saṃsthāpayiṣyati । anantaraṃ cāśeṣakaler avasāne niśāvasānaprabuddhānāṃ teṣām eva janapadānām amalasphaṭikaviśuddhā matayo bhaviṣyanti ।।

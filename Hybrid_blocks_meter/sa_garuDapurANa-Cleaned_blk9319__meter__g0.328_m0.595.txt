@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9319 | label: meter | g:0.328 m:0.595 ---
+
+tatrastho bhagavān dharma āsane tu same śubhe ।
+daśayo janavistīrṇe nīlajīmūtasannibhe ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 214 | label: meter | g:0.306 m:0.5 ---
+
+mānuṣo asmi mahāsattvā nāhaṃ devo na dānavaḥ ।
+bhavasaṃbhogatarṣeṇa prāptas tv aham imāṃ daśām ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3091 | label: meter | g:0.25 m:0.831 ---
+
+nārada uvāca ।
+kimarthaṃ daivatapatirgauntrabhit kathyate hariḥ ।
+eṣa me saṃśayo brahman hṛdi saṃparivartate ।।

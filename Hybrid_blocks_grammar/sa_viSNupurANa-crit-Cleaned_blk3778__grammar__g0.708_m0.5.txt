@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3778 | label: grammar | g:0.708 m:0.5 ---
+
+syamantakamaṇim apy asau praṇipatya tasmai pradadau । acyuto apy atipraṇatāt tasmād agrāhyam api tan maṇiratnam ātmasaṃśodhanāya jagrāha ।।

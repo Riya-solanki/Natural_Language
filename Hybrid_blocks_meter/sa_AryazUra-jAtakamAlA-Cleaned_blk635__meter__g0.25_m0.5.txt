@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 635 | label: meter | g:0.25 m:0.5 ---
+
+mahāhradeṣvambha ivopaśoṣaṃ na dānadharmaḥ samupaiti satsu ।
+yāce tatastvāṃ surasannibhā yā bhāryāmimāmahaṃsi tatpradātum ।।

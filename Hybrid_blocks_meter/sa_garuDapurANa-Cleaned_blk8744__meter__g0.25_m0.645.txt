@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8744 | label: meter | g:0.25 m:0.645 ---
+
+pretā ūcuḥ ।
+yadi te śravaṇe śraddhā āhārāṇāṃ dvijottama ।
+asmākaṃ tu mahībhāga śṛṇutvaṃ susamāhitaḥ ।।

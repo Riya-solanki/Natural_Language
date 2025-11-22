@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 368 | label: meter | g:0.25 m:0.629 ---
+
+āndhrī lāṭī ca saurāṣṭrīty ādayo miśra-rītayaḥ ।
+santi tat-tad-deśa-vidvat-priya-miśraṇa-bhedataḥ ।। 
+ta eva pada-saṅghātās tā evārtha-vibhūtayaḥ ।
+tathāpi navyaṃ bhavati kāvyaṃ grathana-kauśalāt ।। 
+tāsāṃ grantha-gaḍutvena lakṣaṇaṃ nocyate mayā ।
+bhojādi-grantha-bandheṣu tad-ākāṅkṣibhir īkṣyatām ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2515 | label: meter | g:0.194 m:0.625 ---
+
+tasya padbhyāṃ athākramya bhogarāśiṃ jalokṣitam 
+śiro asya kṛṣṇo jagrāha svahastenāvanāmya ca ।।

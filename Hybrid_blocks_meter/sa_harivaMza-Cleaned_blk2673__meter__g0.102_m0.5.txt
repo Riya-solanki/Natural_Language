@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2673 | label: meter | g:0.102 m:0.5 ---
+
+bhakṣyaṃ bhojyaṃ ca peyaṃ ca tat sarvam upanīyatām 
+bhājanāni ca māṃsasya nyasyantām odanasya ca 
+trirātraṃ caiva saṃdohaḥ sarvaghoṣasya gṛhyatām ।।

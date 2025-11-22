@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 128 | label: hybrid | g:0.521 m:0.5 ---
+
+vicaran yogadaśāsv api viṣayavyāvṛttivartamāno api tvaccintāmadirāmadataralīkṛtahṛdaya eva syām ।।

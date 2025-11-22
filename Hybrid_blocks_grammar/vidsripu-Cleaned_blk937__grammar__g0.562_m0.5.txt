@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 937 | label: grammar | g:0.562 m:0.5 ---
+
+cakṣurlagnam ivātimāṃsalamasīvarṇāyate yan nabhaḥ pārśvasthā iva bhānti hanta kakubho niḥsandhiruddhāntarāḥ ।
+vinyastātmapadapramāṇakam idaṃ bhūmītalaṃ jñāyate kiṃ cānyat karasaṃgamaikagamakaḥ svāṅge api sampratyayaḥ ।।

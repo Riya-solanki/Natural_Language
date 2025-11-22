@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 45 | label: grammar | g:0.592 m:0.401 ---
+
+pūrvāparābhyāmabhyāsajñānābhyāṃ sthiradeho heturgarīyāniti sūcayannāha netyādi ।।
+ubhayoḥ sādhakatvāt tādṛśadehavyatiriktaṃ kathaṃcidapi kiṃcin na sidhyatītyarthaḥ ।।
+kiṃviśiṣṭena vyādhijarāmaraṇaduḥkhavidhureṇa vyādhirāmayaḥ jarā pālityaṃ maraṇaṃ prāṇatyāgaḥ duḥkhaṃ mohaśokādikam etair vidhuraṃ tāḍitaṃ vyadha tāḍane ityasya ghāto rūpaṃ vidhuram urapratyayāntam ।।
+punaḥ kiṃviśiṣṭena kṣaṇabhaṅgureṇa kṣaṇavināśinā dehena tadbrahma cidghanānandasvarūpam upāsituṃ sevituṃ kathaṃ kena prakāreṇa śakyaṃ kuto yataḥ sūkṣmam indriyāgrāhyatvāt ।।

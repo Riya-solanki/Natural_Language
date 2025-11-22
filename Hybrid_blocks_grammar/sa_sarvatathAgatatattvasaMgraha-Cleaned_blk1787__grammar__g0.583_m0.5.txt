@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1787 | label: grammar | g:0.583 m:0.5 ---
+
+tataḥ svayamāviśya praviśeti, mudrāpratimudrābhirnṛtyopahārapūjāṃ karoti । tataḥ prabhṛti sarvakarmāṇi kāyavāgdṛṣṭimanovajramudrābhirīpsitena karoti ।

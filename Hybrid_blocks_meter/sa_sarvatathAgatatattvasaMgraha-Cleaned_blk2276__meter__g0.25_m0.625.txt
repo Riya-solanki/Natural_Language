@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2276 | label: meter | g:0.25 m:0.625 ---
+
+ākāśagarbhaṃ satvārtha mahāsatva mahādyute ।
+mahāratna suratnāgrya vajraratna namo astu te ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 224 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha goloka-yuva-rājaḥ sakhibhiḥ saha rājamānaḥ, sāyaṃ pratyavasāya, mātur ājñām ādāya, valita-prabhāyāṃ gopa-rāja-sabhāyāṃ prati-rajanī-janita-sarvāyata-parvākṛtābhiprāye prahara-prāye gurūn anujñāpya, tad anyān prasthāpya, mahāntaḥ-puraṃ prāpya, prasū-nideśam avāpya, subala-madhu-maṅgalādibhir antaraṅga-saṅgibhiḥ saṅgataḥ sūtāṅga-jātābhyāṃ ca tābhyām anugataḥ prāg-varṇita-gokula-kamala-patra-sthitaṃ parama-sukha-satratayā pramitaṃ śrī-rādhārāma-dhāma jagāma ।

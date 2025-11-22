@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2308 | label: meter | g:0.194 m:0.625 ---
+
+anāśī paramārthaś ca prājñair abhyupagamyate 
+tat tu nāśi na saṃdeho nāśidravyopapāditam ।।

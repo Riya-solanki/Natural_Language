@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8939 | label: meter | g:0.25 m:0.5 ---
+
+punaścirāyuṣo bhūttvā jāyante vipule kule ।
+pativratā yathā nārī bhartṛduḥkhaṃ na vindati ।।

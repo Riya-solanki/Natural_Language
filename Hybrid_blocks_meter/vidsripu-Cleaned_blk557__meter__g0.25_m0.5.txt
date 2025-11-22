@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 557 | label: meter | g:0.25 m:0.5 ---
+
+colāñcalena calahāralatāprakāṇḍair veṇīguṇena ca balād valayīkṛtena ।
+helāhitabhramarakabhramamaṇḍalībhiś chatratrayaṃ racayatīva ciraṃ natabhrūḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1066 | label: meter | g:0.354 m:0.792 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+pavitrāropaṇaṃ vakṣye bhuktimuktipradaṃ hareḥ ।
+purā devāsure yuddhe brahmādyāḥ śaraṇaṃ yayuḥ ।।

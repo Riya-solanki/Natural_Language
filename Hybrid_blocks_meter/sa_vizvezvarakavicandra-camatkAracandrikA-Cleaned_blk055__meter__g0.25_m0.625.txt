@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 55 | label: meter | g:0.25 m:0.625 ---
+
+yathāsaṅketamarthasya bodhakaṃ vācakaṃ matam ।
+yaugikaṃ rūḍhamityetad dvidhā syāttatra yaugikam ।।

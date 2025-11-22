@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 956 | label: hybrid | g:0.5 m:0.5 ---
+
+śvetaṃ vidyutprabhaṃ tāraṃ kṛṣṇaṃ raktaṃ krameṇa tat ।
+śyāmaṃ śuklaṃ tathā pītaṃ śvetaṃ vai padmarāgavat ।।

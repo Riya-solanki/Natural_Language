@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 463 | label: meter | g:0.194 m:0.625 ---
+
+heriyugmaṃ smṛtaṃ bhadre ṣaḍviṃśakam anuttamam 
+geriyugmaṃ tathā proktaṃ saptaviṃśatimaṃ padam ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3362 | label: grammar | g:0.583 m:0.5 ---
+
+tāvac ca brahmaṇo antike hāhāhūhūsaṃjñābhyāṃ gandharvābhyām atitānaṃ nāma divyaṃ gāndharvam agīyata ।।

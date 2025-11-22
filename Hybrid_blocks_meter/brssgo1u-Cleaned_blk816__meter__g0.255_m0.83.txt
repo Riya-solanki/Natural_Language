@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 816 | label: meter | g:0.255 m:0.83 ---
+
+liṅgoktimāśaṅkya niṣedhati-vadatīti cediti ।
+atra hi tādṛśameva nirdiṣṭamityanvayaḥ ।
+spaṣṭamanyat ।।

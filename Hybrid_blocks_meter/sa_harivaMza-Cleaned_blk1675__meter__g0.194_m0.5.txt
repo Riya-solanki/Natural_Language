@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1675 | label: meter | g:0.194 m:0.5 ---
+
+mayas tāro varāhaś ca hayagrīvaś ca vīryavān 
+vipracittisutaḥ śvetaḥ kharalambāv ubhāv api ।।

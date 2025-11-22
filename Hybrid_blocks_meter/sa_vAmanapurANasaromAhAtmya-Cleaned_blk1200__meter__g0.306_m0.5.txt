@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1200 | label: meter | g:0.306 m:0.5 ---
+
+tatra taptvā tapo ghoraṃ pūjayitvā ca śaṅkaram ।
+ātmecchayā tanuṃ tyaktvā prayātaḥ paramaṃ padam ।।

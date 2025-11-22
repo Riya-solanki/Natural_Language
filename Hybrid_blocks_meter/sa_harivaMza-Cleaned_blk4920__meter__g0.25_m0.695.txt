@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4920 | label: meter | g:0.25 m:0.695 ---
+
+suvarṇavarṇān vṛkṣāgrān adya drakṣyasi mādhava 
+tvam adyāṣṭabhujaḥ saṃkhye kathaṃ bāhusahasriṇā । 
+mayābhibhūtaḥ samare muhūrṣuḥ kālacoditaḥ ।।

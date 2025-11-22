@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3001 | label: meter | g:0.25 m:0.5 ---
+
+kṛṣṇe ca bhavato dveṣād vasudevavigarhaṇāt 
+tyakṣyāmahe vayaṃ sarve bhavantaṃ yadi sādhavaḥ । 
+asanto vayam evātra loke khyātā narādhama ।। 
+yadi saktāḥ parityaktuṃ putra tvāṃ sāṃprataṃ vayam । 
+sarvān asmān parityajya gacchasīti na saṃśayaḥ । 
+śaṃsanti hīmāni bhayaṃ nimittāny aśubhāni te ।।

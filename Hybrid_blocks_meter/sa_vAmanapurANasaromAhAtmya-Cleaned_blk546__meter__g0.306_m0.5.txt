@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 546 | label: meter | g:0.306 m:0.5 ---
+
+gayāyāṃ ca yatā śrāddha pitṛn prīṇāti nityaśaḥ ।
+tathā śrāddhaṃ ca kartavyaṃ phalakīvanamāśritaiḥ ।।

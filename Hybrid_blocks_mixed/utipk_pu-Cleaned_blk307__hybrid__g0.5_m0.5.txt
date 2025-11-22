@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 307 | label: hybrid | g:0.5 m:0.5 ---
+
+bhedadhīr eva bhāveṣu kartur bodhātmano api yā ।
+māyāśakty eva sā vidyety anye vidyeśvarā yathā ।।

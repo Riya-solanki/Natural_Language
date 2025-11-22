@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1173 | label: meter | g:0.25 m:0.5 ---
+
+matsannidhāne sthitvā tvaṃ tataḥ siddhiṃ gamiṣyasi ।
+venaproktaṃ stavamimaṃ kīrtayed yaḥ śṛṇoti ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10223 | label: meter | g:0.306 m:0.5 ---
+
+śāstrapriyottiṣṭha ṛci priyastvaṃ yajuḥ priyottiṣṭha nidānamūrte ।
+sāmapriyastvaṃ ca tathā murāre atharvavedapriya sarvadā tvam ।।

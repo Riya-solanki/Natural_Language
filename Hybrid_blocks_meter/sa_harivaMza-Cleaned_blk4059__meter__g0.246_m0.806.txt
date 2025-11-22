@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4059 | label: meter | g:0.246 m:0.806 ---
+
+hiraṇyavarṇaṃ ruciraṃ śītaraśmisamaprabham 
+dadarśa ca mahac chatraṃ varṣamāṇam ivāmbudam ।।

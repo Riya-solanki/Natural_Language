@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3290 | label: meter | g:0.276 m:0.717 ---
+
+tasminn ānājanākīrṇe janaughapratinādite 
+samājavāṭe saṃstabdhe kampamānārṇavaprabhe ।। 
+nandagopādayo gopā bhojarājasamāhṛtāḥ । niveditopāyanās te ekasmin mañca āviśan । 
+rājā kuvalayāpīḍo raṅgasya dvāri kuñjaraḥ 
+tiṣṭhatv iti samājñāpya prekṣāgāram athāyayau ।।

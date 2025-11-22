@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7780 | label: meter | g:0.306 m:0.5 ---
+
+māse caikādaśe pūrṇe puraṃ raudraṃ sa gacchati ।
+gacchanneva vilapate yathā pṛṣṭhe prapīḍitaḥ ।।

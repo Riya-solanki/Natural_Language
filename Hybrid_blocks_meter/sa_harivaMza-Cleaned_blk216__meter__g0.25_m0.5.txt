@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 216 | label: meter | g:0.25 m:0.5 ---
+
+icchan daheyaṃ pṛthivīṃ plāvayeyaṃ tathā jalaiḥ 
+dyāṃ vai bhuvaṃ ca rundheyaṃ nātra kāryā vicāraṇā ।।

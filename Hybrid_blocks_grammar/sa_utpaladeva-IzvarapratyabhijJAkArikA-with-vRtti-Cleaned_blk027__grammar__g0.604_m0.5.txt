@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 27 | label: grammar | g:0.604 m:0.5 ---
+
+citsvābhāvye jñānasya cety adharmadeśakālāveśayogād ātmana iva nityatādiprasaṅgaḥ । jaḍatve katham arthasyāsau prakāśaḥ ।।

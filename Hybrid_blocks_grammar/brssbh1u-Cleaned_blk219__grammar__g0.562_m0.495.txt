@@ -1,0 +1,6 @@
+--- source: brssbh1u-Cleaned.txt | block: 219 | label: grammar | g:0.562 m:0.495 ---
+
+indro nāma devatātmānaṃ svamātmānaṃ paramātmatvenāhameva paraṃ brahmetyārṣeṇa darśanena yathāśāstraṃ paśyannupadiśati sma- amāmeva vijānīhi' iti ।
+yathā ataddhaitatpaśyannṛṣirvāmadevaḥ pratipede ahaṃ manurabhavaṃ sūryaśca' iti tadvat ।
+atadyo yo devānāṃ pratyabudhyata sa eva tadabhavat' iti śruteḥ ।
+yatpunaruktaṃ amāmeva vijānīhi' ityuktvā vigrahadharmairindra ātmānaṃ tuṣṭāva tvāṣṭravadhādibhiriti, tatparihartavyam ।

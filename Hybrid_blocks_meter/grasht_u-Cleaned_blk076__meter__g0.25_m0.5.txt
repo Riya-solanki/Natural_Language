@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 76 | label: meter | g:0.25 m:0.5 ---
+
+pramāṇato'pi pratyakṣādyo na jānāti sūtakam ।
+adṛṣṭavigrahaṃ devaṃ kathaṃ jñāsyati cinmayam ।।

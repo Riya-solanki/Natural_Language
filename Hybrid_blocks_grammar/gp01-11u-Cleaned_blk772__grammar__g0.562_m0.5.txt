@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 772 | label: grammar | g:0.562 m:0.5 ---
+
+[] mātā prāha-sa-cchala-pralapita! bho mat-pitaḥ, balabhadraḥ kim iti pramiti-rahitam abhadraṃ vadatu?

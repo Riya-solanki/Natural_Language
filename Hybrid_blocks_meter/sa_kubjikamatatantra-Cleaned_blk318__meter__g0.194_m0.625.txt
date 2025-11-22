@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 318 | label: meter | g:0.194 m:0.625 ---
+
+tasya darśanasambhāṣāt pātakino bhavanti te 
+yadā sādhuḥ prasannātmā tadā lakṣatrayeṇa vai ।।

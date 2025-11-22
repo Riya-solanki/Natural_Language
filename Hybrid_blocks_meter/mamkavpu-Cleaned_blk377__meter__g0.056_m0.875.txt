@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 377 | label: meter | g:0.056 m:0.875 ---
+
+{bhūyo bhūyaḥ savidhanagarīrathyayā paryaṭantaṃ
+dṛṣṭvā dṛṣṭvā bhavanavalabhītuṅgavātāyanasthā ।
+sākṣātkāmaṃ navamiva ratirmālatī mādhavaṃ yat
+gāḍhotkaṇṭhālulitalulitairaṅgakaistāmyatīti ।।}

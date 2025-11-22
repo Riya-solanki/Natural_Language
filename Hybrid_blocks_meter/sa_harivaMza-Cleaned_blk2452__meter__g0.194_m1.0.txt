@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2452 | label: meter | g:0.194 m:1.0 ---
+
+sthitaṃ dharaṇyāṃ meghābhaṃ nibiḍaṃ patrasaṃcayaiḥ 
+gaganārdhocchritākāraṃ pavanābhogakāriṇaṃ ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 88 | label: hybrid | g:0.265 m:0.493 ---
+
+asthānodyogaduḥkhaṃ jahihi na hi nabhaḥ paṅgusaṃcārayogyaṃ svāyāsāyaiva sādho tava śalabha javābhyāsadurvāsaneyam 
+te devasyāpy acintyāś caṭulitabhuvanābhogahelāvahelāmūlotkhātānumārgāgatagiriguravas tārkṣyapakṣāgravātāḥ ।।

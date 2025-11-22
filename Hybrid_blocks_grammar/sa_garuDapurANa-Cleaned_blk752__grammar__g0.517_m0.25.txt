@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 752 | label: grammar | g:0.517 m:0.25 ---
+
+śrīgarūḍamahāpurāṇam- sūta uvāca । anantaraṃ karanyāsaḥ । vidyākarī śuddhiḥ kāryā । padmamudrāṃ baddhvā mantranyāsaṃ kuryāt । kaiṃ kaniṣṭhāyai namaḥ । naiṃ anāmikāyai namaḥ । maiṃ madhyamāyai namaḥ । 
+taiṃ tarjanyai namaḥ ।
+aṃ aṅguṣṭhāyai namaḥ ।
+lāṃ karatalāyai namaḥ ।
+vāṃ karapṛṣṭhāyai namaḥ ।।

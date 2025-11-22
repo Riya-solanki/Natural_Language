@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4552 | label: hybrid | g:0.361 m:0.5 ---
+
+kim arthaṃ tena te bālās tadā cāpahṛtāḥ prabho 
+yac ca te dīrgham adhvānaṃ saṃkṣiptaṃ tat kathaṃ punaḥ ।। 
+yo ayaṃ dīrgho mahāmārgaḥ saṃkṣiptaḥ kena hetunā । 
+kathaṃ cālpena kālena kṛtaṃ nas tad gatāgatam 
+etat sarvaṃ yathāvṛttam ācakṣva mama keśava ।।

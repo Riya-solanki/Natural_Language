@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 637 | label: grammar | g:0.667 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-ārya, pūrvam evātrāpūrvatā nivāritāsti, yato yogamāyā khalv asya sambhāvita-yogaṃ nirmāpayatīti punar mā prākṣīḥ ।

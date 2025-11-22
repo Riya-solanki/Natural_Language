@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2237 | label: meter | g:0.203 m:0.968 ---
+
+hitvā garbhatanuṃ cāpi sahasā muktamūrdhajā 
+jagāmākāśam āviśya divyasraganulepanā 
+hāraśobhitasarvāṅgī mukuṭojjvalabhūṣitā । 
+kanyaiva cābhavan nityaṃ divyā devair abhiṣṭutā ।।

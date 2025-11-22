@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6186 | label: meter | g:0.194 m:0.625 ---
+
+ajñānaṃ tāmaso bhāvaḥ kāryārambhāpravṛttayaḥ 
+ajñānināṃ pravartante karmalopās tato dvija ।।

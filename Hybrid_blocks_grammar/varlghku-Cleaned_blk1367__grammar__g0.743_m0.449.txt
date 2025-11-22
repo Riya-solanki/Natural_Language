@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1367 | label: grammar | g:0.743 m:0.449 ---
+
+ṭiḍḍhāṇañdvayasajdaghnañmātractayapṭhakṭhañkañkvarapaḥ ।।
+anupasardanaṃ yaṭṭidādi tadantaṃ yadadantaṃ prātipadikaṃ tataḥ striyāṃ ṅīpsyāt । nadaṭ nadī । sauparṇeyī । autsī । ūrudaghnī । pañcatayī । lāvaṇikī । itvarī । straiṇī । śāktīkī । āḍhyaṅkaraṇī । talunī ।।

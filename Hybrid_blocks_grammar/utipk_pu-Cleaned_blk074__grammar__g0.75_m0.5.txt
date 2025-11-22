@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 74 | label: grammar | g:0.75 m:0.5 ---
+
+jaḍānām ābhāsamānataiva sattāsiddhiḥ sā ca ābhāsātmataiva । tataś ca bodhamātram ekam evātra tattvam । tasyāviśeṣe api krameṇa viśiṣyamāṇo arthāvabhāsas tato anyam aprakāśamānaṃ hetutayā bāhyam artham ūhayed indiyavat ।।

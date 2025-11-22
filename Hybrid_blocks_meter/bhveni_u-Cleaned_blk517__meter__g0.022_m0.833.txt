@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 517 | label: meter | g:0.022 m:0.833 ---
+
+kṛpaḥ
+sodvegaṃ niḥśvasya

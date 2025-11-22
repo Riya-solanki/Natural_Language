@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 106 | label: grammar | g:0.625 m:0.5 ---
+
+mlecchadeśe aśucau vā api cakrāṅko yatra tiṣṭhati yojanāni tathā trīṇi mama kṣetraṃ vasundhare ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4177 | label: meter | g:0.272 m:0.595 ---
+
+tāsāṃ paramakūlāni śobhayanti mahādrumāḥ 
+sālās tālāḥ kadambāś ca śataśākhāś ca rohiṇāḥ ।।

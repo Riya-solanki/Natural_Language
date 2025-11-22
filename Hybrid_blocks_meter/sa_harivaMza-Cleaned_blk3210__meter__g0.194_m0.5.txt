@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3210 | label: meter | g:0.194 m:0.5 ---
+
+śrūyatāṃ mama vijñāpyam āścaryaṃ dhanuṣo gṛhe 
+nirvṛttam asmin kāle yaj jagataḥ saṃbhramopamam ।।

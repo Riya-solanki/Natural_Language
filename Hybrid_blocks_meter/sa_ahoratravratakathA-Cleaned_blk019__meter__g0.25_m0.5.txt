@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 19 | label: meter | g:0.25 m:0.5 ---
+
+pratyūṣe pūrṇamāsyāṃ tu snātvā vrataṃ samārabhet ।
+ādau bhūmitalaṃ śodhya dharmaśālāṃ prakārayet ।।

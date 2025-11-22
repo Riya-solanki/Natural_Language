@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 755 | label: grammar | g:0.75 m:0.5 ---
+
+atra pādagataṃ bahuguṇaṃ hṛdayanārthaṃ kimiti na paśyasi । imaṃ kaṇṭhe gṛhāṇa manasastamorūpaṃ kopaṃ muñceti । ekavākyatāyāṃ tu kliṣṭamiti bhedaḥ ।।

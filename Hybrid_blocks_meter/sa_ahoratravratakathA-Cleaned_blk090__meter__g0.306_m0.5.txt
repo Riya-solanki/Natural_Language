@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 90 | label: meter | g:0.306 m:0.5 ---
+
+śraddhāratā ye manujā udārair mālāsugandhair bahupuṣpayuktaiḥ ।
+caranti pūjāṃ bahubhaktitas te samastasaukhyāni labhanti loke ।।

@@ -1,0 +1,7 @@
+--- source: mamkpb_u-Cleaned.txt | block: 170 | label: meter | g:0.293 m:0.714 ---
+
+sālaṃkārairdhvanestaiśva yogaḥ saṃsṛṣṭisaṃkaraiḥ ।
+sālaṃkārairiti tairevālaṃkāraiḥ, alaṃkārayuktaiśva taiḥ ।
+taduktaṃ dhvanikṛtā "sa guṇībhūtavyaṅgayaiḥ sālaṃkāraiḥ saha prabhedaiḥ svaiḥ ।
+saṃkarasaṃsṛṣṭibhyāṃ punarapyuddyotate bahudhā" ।।
+iti ।

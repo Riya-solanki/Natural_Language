@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 723 | label: grammar | g:0.606 m:0.13 ---
+
+grāsavṛddhyā guṇānāha ṣoḍaśetyādi ।।
+yadā ṣoḍaśagrāsā vā dvātriṃśadgrāsā vā catuḥṣaṣṭigrāsā jīrṇā jāraṇamāpannā bhavanti tadā rasendraḥ sūtaḥ lohaṃ dhātusaṃjñakaṃ vidhyati vedhaṃ karoti kutaḥ dhūmāvalokanataḥ dhūmasya yadavalokanaṃ darśanaṃ ।।

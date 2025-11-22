@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 344 | label: meter | g:0.194 m:0.854 ---
+
+caraṇa-kamala-kāntyā dehalīm arcayantī
+kanaka-maya-kavāṭaṃ pāṇinā kampayantī ।
+kuvalayamayam akṣṇā toraṇaṃ pūrayantī
+vara-tanur iyam āste mandirasyeva lakṣmīḥ ।।

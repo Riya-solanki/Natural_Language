@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3557 | label: grammar | g:0.75 m:0.5 ---
+
+sa cāpy acintayad aho asya rājño dauḥśīlyaṃ yenaitan māṃsam asmākaṃ prayacchati kim etad dravyajātam iti dhyānaparo abhūt । apaśyac ca tan mānuṣamāṃsam । tataś ca krodhakaluṣīkṛtacetā rājānaṃ prati śāpam utsasarja । yasmād abhojyam etad asmadvidhānāṃ tapasvinām avagacchann api bhavān mahyaṃ dadāti tasmāt tavaivātra lolupā buddhir bhaviṣyatīti ।।

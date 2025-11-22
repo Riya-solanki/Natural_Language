@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3095 | label: meter | g:0.194 m:0.75 ---
+
+vaivasvatāya caivānyā tṛtīyā dīyate tataḥ 
+hutāvaśiṣṭam alpālpaṃ viprapātreṣu nirvapet ।।

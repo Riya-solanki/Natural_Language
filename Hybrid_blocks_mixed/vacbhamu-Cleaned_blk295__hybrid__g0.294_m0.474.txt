@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 295 | label: hybrid | g:0.294 m:0.474 ---
+
+iti ।
+tathā cārthāntarasaṃsargaparatāmātreṇa vākyārthapratyayopapattau na kāryasaṃsargaparatvaniyamaḥ padānām ।
+evaṃ ca sati kūṭasthanityabrahmarūpaparatve apyadoṣa iti ।

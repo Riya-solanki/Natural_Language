@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 684 | label: grammar | g:0.75 m:0.5 ---
+
+[] hanta ! yat khalu nirantaram antargatam, tat katham antargatam iva jāyeta । kintu pūrva-nirdiṣṭaṃ gurv-anādiṣṭatā-paraṃ tasmin nirdiṣṭi-viśiṣṭim ācariṣyati ।

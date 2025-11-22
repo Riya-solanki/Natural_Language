@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 370 | label: grammar | g:0.806 m:0.375 ---
+
+ahan ।।
+ahannityasya ruḥ padānte ।। daṇḍinī । daṇḍinā ।। ṭerlopaḥ । supanthāni ।। ūrka, ūrga । ūnrji । narajānāṃ saṃyogaḥ । tat । tāni ।। yat । yāni ।। etat । etāni ।। gavāk, gavāg । gavāñci । gocā ।। śakṛtī ।।

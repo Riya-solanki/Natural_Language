@@ -1,0 +1,5 @@
+--- source: mrgt3cau-Cleaned.txt | block: 219 | label: grammar | g:0.622 m:0.29 ---
+
+Vṛtti:
+[bahudaivasike yoge] sañjātapātakena sakhyānekāhike samparke sati [tulyaṃ] tatsamameva sādhakasya prāyaścittam।
+[sādharmyayogataḥ] tatsādharmyaprāpteḥ। evaṃ buddhvā tadvidā sādhakena sadguṇaḥ satkuśalaḥ tadalābhe samānajātiḥ kanīyān guṇajyeṣṭhaḥ putrakaḥ samayī vā tayorabhāve anyaḥ kaścit susnigdhaḥ sahāyo yojanīyaḥ।।

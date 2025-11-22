@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1270 | label: meter | g:0.194 m:0.5 ---
+
+tat tasya hṛdayaṃ prāpya śūlaṃ bālasya dīptimat 
+jagāma khaṇḍitaṃ bhūmau tatrāpi śatadhābhavat ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 682 | label: meter | g:0.272 m:0.923 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+śivārcanaṃ pravakṣyāmi dharṃmakāmādisādhanam ।
+tribhirmantrairācāmettu svāhāntaiḥ praṇavādikaiḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 104 | label: hybrid | g:0.427 m:0.275 ---
+
+na, viśeṣaścedekārthaṃ duṣṭam ।।
+na gatārtha duṣṭaṃ viśeṣaścet pratipādyaḥ syāt ।।
+taṃ viśeṣaṃ pratipādayitumāha 
+dhanurjyādhvanau dhanuḥśrutirārūḍheḥ pratipattyai ।।
+dhanurjyādhvanāvityatra jyāśabdenoktārthatve'pi dhanuḥśrutiḥ prayujyate । ārūḍheḥ pratipattyai । ārohaṇasya pratipattyartham । na hi dhanuḥśrutimantareṇa dhanuṣyārūḍhā jyā dhanurjyeti śakyaṃ pratipattum । yathā

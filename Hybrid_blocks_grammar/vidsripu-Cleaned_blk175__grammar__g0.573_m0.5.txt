@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 175 | label: grammar | g:0.573 m:0.5 ---
+
+kāntāṃ hitvā virahavidhurārambhakhedālasāṅgīṃ mām ullaṅghya vrajatu pathikaḥ kāpi yady asti śaktiḥ ।
+ity āśokī jagati sakale vallarī cīrikeva prāptārambhe kusumasamaye kāladevena dattā ।।

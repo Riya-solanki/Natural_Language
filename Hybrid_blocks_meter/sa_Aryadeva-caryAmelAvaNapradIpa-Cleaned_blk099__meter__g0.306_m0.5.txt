@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 99 | label: meter | g:0.306 m:0.5 ---
+
+svakāya eva hi ghaṭo dīpa eva hi tattvakam ।
+guruvaktreṇa saṃbhinne buddhajñānaṃ sphuṭaṃ bhavet ।।

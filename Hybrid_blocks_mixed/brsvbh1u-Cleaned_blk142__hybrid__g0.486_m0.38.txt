@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 142 | label: hybrid | g:0.486 m:0.38 ---
+
+tatkiṃ putraḥ paṇḍita iti pitāpi paṇḍito astu ।
+svabhāva eṣa saṃvidaḥ svayaṃprakāśāyā yadarthātmasaṃbandhiteti cet, hanta putrasyāpi paṇḍitasya svabhāva eṣa yatpitṛsaṃbandhiteti

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1782 | label: meter | g:0.25 m:0.625 ---
+
+maṇḍalāgrāṇi sarvāṇi buddhamadhyasthitāni [vai ।
+anupūrveṇa pa]ṅk tyā vai mahāsatvānniveśayet ।।

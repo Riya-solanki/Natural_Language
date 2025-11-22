@@ -1,0 +1,9 @@
+--- source: gp23-33u-Cleaned.txt | block: 736 | label: meter | g:0.234 m:0.536 ---
+
+yarhy āgantāsy aghahara cirād dvārakātas tadā te
+sarve' py ete vraja-jani-janā śreṣṭha-madhyastha-nighnāḥ ।
+dhāvanto' pi pratidiśam aho tat-tad-ekaika-kāryaṃ
+kurvanto' pi sthagita-kṛtitām eva yāsyanti hanta ।।
+yadyapi gopāḥ samyak paricarituṃ tvāṃ na tarhi śakṣyanti ।
+tad api na tat-pramadāmṛta-bhogās tvāmī sadaiva pokṣyanti ।।
+[] tad ārabhya ca-

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3765 | label: meter | g:0.25 m:0.5 ---
+
+tretāyuge samutpanno vidito me asi nāradāt 
+idaṃ kaliyugaṃ viddhi kim anyat karavāṇi te ।।

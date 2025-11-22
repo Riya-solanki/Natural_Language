@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6309 | label: meter | g:0.194 m:0.5 ---
+
+yatrāśaktasya me doṣo naivāsty apahṛte tvayā 
+bandhāyaiva bhavaty eṣā avidyāpy akramojjhitā ।।

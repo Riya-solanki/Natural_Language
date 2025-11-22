@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2580 | label: meter | g:0.316 m:0.5 ---
+
+somasya ye raśmiṣu yer'kabimbe śukle vimāne ca sadā vasanti ।
+tṛpyantu te asminpitaro annatoyairgandhādinā puṣṭimito vrajantu ।।

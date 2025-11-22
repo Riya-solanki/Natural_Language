@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 95 | label: meter | g:0.25 m:0.732 ---
+
+pratipattikarma pradhānakarmaśeṣāṅgaṃ ।
+yatha pradhānacaruhomottaraṃ tenaiva dravyeṇa sviṣṭakṛdbalidānādi ।
+yathāvā śrāddhe piṇḍapradānapūjottaraṃ piṇḍānāṃ gaṅgādipravāhe prakṣepaḥ ।

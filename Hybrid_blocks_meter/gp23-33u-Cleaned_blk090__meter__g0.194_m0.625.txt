@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 90 | label: meter | g:0.194 m:0.625 ---
+
+kṛṣṇāpāṅga-śaraḥ sāṅgaṃ bhittvāpāṅga-śaraṃ mama ।
+manorathinam udbhettuṃ kila prāviśad antaram ।। [anuṣṭubh]

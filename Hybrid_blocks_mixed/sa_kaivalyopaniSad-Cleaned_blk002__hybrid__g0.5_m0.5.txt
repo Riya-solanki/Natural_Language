@@ -1,0 +1,3 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 2 | label: hybrid | g:0.5 m:0.5 ---
+
+[oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ bhadraṃ paśyemākṣabhir yajatrāḥ । sthirair aṅgais tuṣṭuvāṃsas tanūbhir vyaśema devahitaṃ yadāyuḥ । svasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ । svasti nas tārkṣyo ariṣṭanemiḥ svasti no bṛhaspatir dadhātu । oṃ śāntiḥ śāntiḥ śāntiḥ ।]

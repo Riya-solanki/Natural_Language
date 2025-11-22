@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 112 | label: grammar | g:0.514 m:0.301 ---
+
+prāk pūrvaṃ saṃsārāvasthāyām avyāpako yaḥ sa kathaṃ mokṣe vyāpakaḥ vyāpakatvaṃ ca tadānīm apy abhyupagantum ayuktam ।। 
+evaṃ hi saṃsāramuktyor aviśeṣaḥ syāt ।। 
+atha tathāvidhadharmasya vikāsasaṃkocadharmitvam abhyupagamyate yad uta saṃsṛtau saṃkocam eti muktau tu vikasati iti tato vipariṇāmitvajaḍatvādyanekadoṣasantatiḥ prasajyata iti na kathaṃcid api sadasadvādimatam upasthāpayituṃ śakyam ।। 
+idānīṃ pādārthikadarśanapradarśitamuktinirākaraṇāyāha ।।

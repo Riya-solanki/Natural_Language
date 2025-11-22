@@ -1,0 +1,4 @@
+--- source: kalhans_u-Cleaned.txt | block: 4 | label: grammar | g:0.604 m:0.5 ---
+
+muñcebhājinam asya kumbhakuhare muktāḥ kucāgrocitāḥ kiṃ bhālajvalanena kajjalam ataḥ kāryaṃ tavākṣṇoḥ kṛte ।
+saṃdhāne vapurardhayor bhagavator itthaṃ niṣedhe apy aheḥ kartavye priyayottarānusaraṇodyukto haraḥ pātu vaḥ ।।

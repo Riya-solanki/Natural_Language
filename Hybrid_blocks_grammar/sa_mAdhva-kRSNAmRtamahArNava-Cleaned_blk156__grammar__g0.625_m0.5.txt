@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 156 | label: grammar | g:0.625 m:0.5 ---
+
+yathā gaur naiva hantavyā śuklā kṛṣṇeti bhāmini ekadāśyāṃ na bhuñjīta pakṣayor ubhayor api ।।

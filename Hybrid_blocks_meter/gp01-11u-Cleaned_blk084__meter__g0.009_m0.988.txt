@@ -1,0 +1,23 @@
+--- source: gp01-11u-Cleaned.txt | block: 84 | label: meter | g:0.009 m:0.988 ---
+
+[] śrī-govardhana-nāmā cāyaṃ ramaṇīya-maṇi-śilābhiḥ samāsanam āsanam,
+khagāvali-kalita-kākalībhiḥ svāgataṃ svāgatam,
+śyāmāka-dūrvābja-viṣṇukrāntāparyag-ākrānta-tiryag-nirjharibhir niṣpādyaṃ pādyam,
+cañcan-mṛga-caraṇa-nyañcad-akṣata-darbhānantāṅkuraiḥ samarghyam arghyam,
+tīra-sanīḍa-jātī-lavaṅga-kakkola-saṅgata-pallalair alam ācamanīyam ācamanīyam,
+nava-nava-nava-prasūta-gavī-navīna-snuta-kṣīra-pariṇata-dadhi-tat-prasṛta-ghṛta-śabalanais tarūpahṛta-madhuparkaṃ madhuparkam,
+śikhara-śekhara-śilāsara-prakhara-dhārā-pātair anukṛta-snapana-paricaryā-prīti-majjanaṃ majjanam,
+dukūlavad-anukūla-saṃśleṣa-svarṇa-varṇa-vṛkṣa-viśeṣa-valkalaiḥ kalita-sukha-vasanaṃ vasanam,
+svabhāvānubandha-gandha-sugandha-śilā-śata-pariṇata-hari-candana-gaura-gairikaiś carcātiśayaṃ carcātiśayam,
+praphulla-māla-mālatī-latādibhir nandita-sumanasaḥ sumanasaḥ,
+gavyākhuravyāhati-jātāguru-dāru-dhūmair vyāhata-sarva-dhūpaṃ dhūpam,
+divāpi vidyoti-maṇi-nikara-jyotibhiḥ sarva-sampad-uddīpaṃ dīpam,
+mañjula-guñjāpiñchā-divi ncholīvāñchita-nirmāṇaiḥ kṛta-suṣamā-bharaṇam ābharaṇam,
+abhilāṣānukūla-phala-mūla-valayaiḥ sarva-sukha-samāhāraṃ samāhāram,
+puṣpa-vāsita-śītala-jala-valayita-punar-ācamanam anu vimala-parimalātula-tulasikā-pallavādibhir mukha-vāsanaṃ mukha-vāsanam,
+marud-uccala-sphuṭa-puṣpa-sampac-campaka-dīpāvalyā sphuṭam ārātrikam ārātrikam,
+ghana-kisalaya-valaya-saṅkula-bakula-mukha-śākhā-nikaraiḥ śobhāntaratamātapatram ātapatram,
+malaya-marul-lava-calat-pallava-viśāla-śālair nandita-bhavya-janaṃ vyājanam,
+nija-svara-vivekināṃ kekinām anekāṅga-kekābhiḥ kalilāsyaṃ lāsyam,
+hari-veṇu-dhvani-bhram-kīcaka-kala-krama-ktākarsa-vanitānvita-śayyāyamāna-puspa-pāta-paryāyaiḥ kta-sarvātiśayanaṃ śayanam,
+kākalī-kalila-kala-kokila-kulair labdha-saṅgānaṃ saṅgānam api hariṃ parikalayan pūrva-pūrva-siddha-nija-hari-dāsa-varyatāṃ paryāpayann āste ।

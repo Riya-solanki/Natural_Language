@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 257 | label: meter | g:0.25 m:0.5 ---
+
+sarvam etad ahaṃ vīra vidhāsyāmi na saṃśayaḥ 
+vatsaṃ tu mama taṃ paśya kṣareyaṃ yena vatsalā ।।

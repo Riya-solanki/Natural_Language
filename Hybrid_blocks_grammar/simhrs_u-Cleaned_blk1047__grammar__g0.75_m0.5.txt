@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1047 | label: grammar | g:0.75 m:0.5 ---
+
+atrāyam arthaḥ-prāg-asaṅgatayoḥ saṅgata-viyuktayor vā nāyikā-nāyakayoḥ paraspara-samāgame prāg-utpannā tadānīntanī vā ratiḥ prepsitāliṅganādīnāṃ prāptau satyāṃ upajāyamānair harṣādibhiḥ saṃsṛjyamānā candrodayādibhir uddīpitā smitādibhir vyajyamānā prāpta-prakarṣā sambhoga-śṛṅgāra ity ākhyāyate । sa ca vakṣyamāṇa-krameṇa caturvidhaḥ ।

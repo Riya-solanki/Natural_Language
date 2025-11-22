@@ -1,0 +1,6 @@
+--- source: mamkpb_u-Cleaned.txt | block: 334 | label: meter | g:0.306 m:0.521 ---
+
+ekārthapratipādakānāmava śabdānāṃ yatrāneko arthaḥ sa śleṣaḥ ।
+udāharaṇam udayamayate diṅbhālinyaṃ nirākurutetarām nayati nidhanaṃ nidrāmudrāṃ pravartayati kriyāḥ ।
+racayatitarāṃ svairācārapravartanakartanam vata bata lasattejaḥpuñjo vibhāti vibhākaraḥ ।।
+atrābhidhāyā aniyantraṇāt dvāvapyarkabhūpau vācyau ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5973 | label: meter | g:0.295 m:0.924 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+hayāyurvedamākhyāsye hayaṃ sarvārthalakṣaṇam ।
+kākatuṇḍaḥ kṛṣṇajihvo vṛkṣāsyaścoṣṇatālukaḥ ।।

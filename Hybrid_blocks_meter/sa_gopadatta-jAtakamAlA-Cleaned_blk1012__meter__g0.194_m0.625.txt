@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1012 | label: meter | g:0.194 m:0.625 ---
+
+rāgo anaikavidho jarā paribhavo bhogārjanā rakṣaṇā
+pradhvaṃsavyasanaṃ mahātyayam asatsaṃparkajaṃ vaikṛtam ।
+iṣṭāniṣṭaviyogayogasulabhās te te manoviplavā
+jātiṃ prāpya yato bhavanti jagataḥ saiveha duḥkhaṃ tataḥ ।।

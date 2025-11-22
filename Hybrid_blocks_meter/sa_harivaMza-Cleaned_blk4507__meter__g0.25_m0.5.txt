@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4507 | label: meter | g:0.25 m:0.5 ---
+
+brahmaṇo ārtasvaraṃ kṛtvā hṛte tasmin kumārake 
+vācaḥ sa paruṣās tīvrāḥ śrāvayām āsa māṃ tadā ।।

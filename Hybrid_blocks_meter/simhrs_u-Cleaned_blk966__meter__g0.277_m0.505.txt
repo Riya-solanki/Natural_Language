@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 966 | label: meter | g:0.277 m:0.505 ---
+
+yathā-
+udyānaṃ kim upāgatāsmi sukṛtī devo na kiṃ darśitaḥ
+śrī-siṃhaḥ sva-sakhī-mukhena sa kathaṃ neyaḥ sa kiṃ vakṣyati ।
+siddhyet tena kadā samāgama iti dhyānena savyākulā
+śayyāyāṃ parivartane śvasiti ca kṣiptvā kapolaṃ kare ।।

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1205 | label: meter | g:0.25 m:0.667 ---
+
+atha vāpi samaṃ vāstuṃ kṛtvā ṣoḍaśabhāgikam ।
+tasya madhye caturbhāgamādau garbhaṃ tu kārayet ।।
+caturbhāgena bhittīnāmucchrāyaḥ syātpramāṇataḥ ।।
+dviguṇaḥ śikharocchrāyo bhittyucchāyācca mānataḥ ।
+śikharārdhasya cairdhena vidheyāstu pradakṣiṇāḥ ।।

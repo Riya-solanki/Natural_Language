@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5347 | label: meter | g:0.306 m:0.5 ---
+
+timiraṃ paṭalaṃ hanti piciṭaṃ ca mahauṣadham ।
+trikaṭu triphalāṃ caiva karaṃ jasya phalāni ca ।।

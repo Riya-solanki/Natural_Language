@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2211 | label: meter | g:0.272 m:0.841 ---
+
+sanatkumāra uvāca ।
+yogaṃ jigamiṣustāta vrahmāṇaṃ samacūcudam ।
+sa coktavān māṃ putrārthe tasmāt tvaṃ dātumarhasi ।।

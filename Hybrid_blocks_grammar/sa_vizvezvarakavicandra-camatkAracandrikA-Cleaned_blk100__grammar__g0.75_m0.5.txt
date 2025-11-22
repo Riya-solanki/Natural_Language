@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 100 | label: grammar | g:0.75 m:0.5 ---
+
+atra āyato dīrghabhūtaḥ suvarṇaḥ sukāro yasyeti āyatasuvarṇaḥ tādṛśaḥ karaśabdo yasya saḥ āyatasuvarṇakaraḥ sūkara ityarthaḥ । āyatasuvarṇakarākṛtiḥ sūkarākṛtiriti viṣṇostiryaktvakathanabhayena vaktrā dūrārthapratyayaḥ śabdaḥ prayukta iti guṇatvam ।

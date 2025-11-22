@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 157 | label: grammar | g:0.574 m:0.421 ---
+
+bījaṃ brahmaiva devo madhu jalanidhayaḥ karṇikā svarṇaśailaḥ kandaṃ nāgādhirājo viyad ativipulaḥ patrakośāvakāśaḥ ।
+dvīpāḥ patrāṇi meghā madhupakulam amūs tārakā garbhadhūlir yasyaitan nābhipadmaṃ bhuvanam iti sa vaḥ śarma devo dadātu ।।
+mālāyudhasya

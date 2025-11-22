@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 393 | label: meter | g:0.333 m:0.82 ---
+
+śrīgaruḍamahāpurāṇam- 
+rudra uvāca ।
+saṃsārasāgarāddhorāmucyate kiṃ japanprabho ।
+narastanme paraṃ japyaṃ pathaya tvaṃ janārdana ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2045 | label: meter | g:0.25 m:0.625 ---
+
+rūpaṃ devyās tu pūrvoktam aśeṣaguṇaśālinam 
+kiṃ tu noccāritaṃ tasya sthūladehaṃ yathā sthitam ।।

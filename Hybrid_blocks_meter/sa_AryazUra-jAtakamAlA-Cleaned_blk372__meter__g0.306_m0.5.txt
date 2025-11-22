@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 372 | label: meter | g:0.306 m:0.5 ---
+
+vrajati guṇapathena ca svayaṃ nayati parānapi tena vartmanā ।
+vacanamapi na rūkṣamakṣamāṃ janayati tasya hitopasaṃhitam ।।

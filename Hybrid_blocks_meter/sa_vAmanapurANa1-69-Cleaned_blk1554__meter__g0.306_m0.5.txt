@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1554 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ krīḍāṃ haraḥ kṛtvā samaṃ ca girikanyayā ।
+āgacchad dakṣiṇāṃ vedimṛṣibhiḥ sevitāṃ dṛḍhām ।।

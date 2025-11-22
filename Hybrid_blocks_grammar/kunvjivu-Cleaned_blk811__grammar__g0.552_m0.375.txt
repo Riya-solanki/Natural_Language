@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 811 | label: grammar | g:0.552 m:0.375 ---
+
+"yatra' yasyāṃ, "vācyatayā' śabdābhidheyatvena "nindā' garhā, "vyaṅgyatayā stutiḥ' pratīyamānatvena praśaṃsā "prastutasya vicchittyai' śobhāyai, tadevamasau dviprakārā "vyājastutiḥ' alaṅkṛtiḥ "matā' smṛtā ।
+yathā

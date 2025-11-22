@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9917 | label: hybrid | g:0.5 m:0.5 ---
+
+sarvaṃ vijānāti hi garbhasaṃsthito jātaśca sadyastadidañca vismaret ।
+yaccintitaṃ garbhasamāgatena vai bālo yuvā vṛddhavayā babhūva ।।

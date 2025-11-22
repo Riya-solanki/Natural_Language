@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4452 | label: meter | g:0.25 m:0.5 ---
+
+yā gatirdaityaśārdūla hatānāṃ tu mahāhave ।
+tato adikāṃ gatiṃ yānti viṣṇubhaktā narottamāḥ ।।

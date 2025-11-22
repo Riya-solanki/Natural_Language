@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 614 | label: meter | g:0.25 m:0.5 ---
+
+sunītir nāma yā rājñas tasyābhūn mahiṣī dvija 
+sa nātiprītimāṃs tasyāṃ tasyāś cābhūd dhruvaḥ sutaḥ ।।

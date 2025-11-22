@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2062 | label: meter | g:0.194 m:0.5 ---
+
+sa śīghrayānaḥ saṃprāptas tad dānavavanaṃ mahat 
+cakre niveśaṃ saumitrir vanānte yuddhalālasaḥ ।।

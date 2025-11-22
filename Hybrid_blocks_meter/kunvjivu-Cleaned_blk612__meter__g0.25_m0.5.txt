@@ -1,0 +1,3 @@
+--- source: kunvjivu-Cleaned.txt | block: 612 | label: meter | g:0.25 m:0.5 ---
+
+dūrvākāṇḍamiva śyāmā tanvī śyāmālatā yathā ।।

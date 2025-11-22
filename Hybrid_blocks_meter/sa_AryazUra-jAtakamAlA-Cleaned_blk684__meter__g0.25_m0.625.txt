@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 684 | label: meter | g:0.25 m:0.625 ---
+
+pramuditārthijanastutisañcitaṃ pravitatāna nṛpasya diśo yaśaḥ ।
+tanutaraṅgavivardhitavistaraṃ sara ivāmbujakesarajaṃ rajaḥ ।।

@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 754 | label: hybrid | g:0.315 m:0.477 ---
+
+FN bhīṣā bhītyā ।
+asmādbrahmaṇo nimittāditi yāvat ।
+pañcānāṃ grahaṇaṃ brahmādistambāntacarācaropalakṣaṇārtham ।
+aapapunarmṛtyuṃ jayati' iti śrutyā hyapamṛtyorvijaya ukto na tu paramamṛtyuvijaya ityāpekṣikatvam ।

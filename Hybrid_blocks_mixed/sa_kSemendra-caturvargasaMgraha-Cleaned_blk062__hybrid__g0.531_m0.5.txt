@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 62 | label: hybrid | g:0.531 m:0.5 ---
+
+kratuṃ dhanānāṃ phalam agryam āhuḥ phalaṃ kratūnām avivādi puṇyam ।
+puṇyasya pūrṇaṃ phalam indraloko dviraṣṭvarṣāḥ striya eva nākaḥ ।।

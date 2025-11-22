@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4070 | label: meter | g:0.25 m:0.5 ---
+
+devagandharvaratnāni pannagānāṃ ca yad vasu 
+tāni santīha sarvāṇi narakasya niveśane ।। 
+iti vijñāpitas tais tu dānavaiś ca janārdanaḥ । 
+sa tat sarvaṃ hṛṣīkeśaḥ pratigṛhya parīkṣya ca 
+sarvam āhārayāmāsa dānavair dvārakāṃ purīm ।।

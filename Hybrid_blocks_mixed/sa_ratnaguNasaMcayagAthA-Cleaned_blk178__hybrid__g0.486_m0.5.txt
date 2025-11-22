@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 178 | label: hybrid | g:0.486 m:0.5 ---
+
+abhilāpamātra ima jānati sarvadharmāṃ buddhena deśita prayukta prakāśitāṃśca 
+kalpāna koṭinayutāṃ bahu bhāṣamāṇo na ca kṣīyate na ca vivardhati dharmadhātuḥ ।।

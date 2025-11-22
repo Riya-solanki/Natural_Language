@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 11 | label: hybrid | g:0.455 m:0.5 ---
+
+patatu vāriṇi yātu digantaraṃ viśatu vahnim atha vrajatu kṣitim 
+ravir asāv iyatāsya guṇeṣu kā sakalalokacamatkṛtiṣu kṣatiḥ ।।

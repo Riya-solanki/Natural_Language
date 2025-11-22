@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 556 | label: grammar | g:0.625 m:0.5 ---
+
+saṃjñā svarūpam āśritya nimitte sati laukikī kā cit pravartate kā cin nimittāsaṃnidhāv api ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 538 | label: meter | g:0.194 m:0.5 ---
+
+naiṣa kalpavidhir dṛṣṭa iti niścitya cāpy aham 
+kuśeṣv eva tadā piṇḍaṃ dattavān avicārayan ।।

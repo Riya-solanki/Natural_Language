@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11669 | label: meter | g:0.306 m:0.5 ---
+
+sudurlabhaṃ tasya mūrteśca dānaṃ taccandratīrthe śravaṇaṃ durghaṭaṃ ca ।
+samyak svarūpaṃ dadhivāmanasya sudurghaṭaṃ śravaṇaṃ vaiṣṇavācca ।।

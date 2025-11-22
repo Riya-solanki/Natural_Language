@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 112 | label: meter | g:0.25 m:0.5 ---
+
+mānuṣān buddhi-rāhityāt paśūn iva nirīkṣya te ।
+paśūṃś ca krandanān mānuṣān iva kleśam aiyaruḥ ।। [anuṣṭubh]

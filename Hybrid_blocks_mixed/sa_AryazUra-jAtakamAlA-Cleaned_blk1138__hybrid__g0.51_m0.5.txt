@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1138 | label: hybrid | g:0.51 m:0.5 ---
+
+dīkṣāmupāśrita iti prathito asmi deva śokāśrudurdinamukhena mahājanena ।
+icchāmi tena vijaneṣu vaneṣu vastuṃ śraddheyatāmupagato asmi guṇābhipattau ।।

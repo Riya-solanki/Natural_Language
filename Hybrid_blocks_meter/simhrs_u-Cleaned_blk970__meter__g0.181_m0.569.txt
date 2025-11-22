@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 970 | label: meter | g:0.181 m:0.569 ---
+
+yathā-
+kiṃ kāmena kim indunā surabhiṇā kiṃ vā jayantena kiṃ
+mad-bhāgyaād anapota-siṃha-nṛpate rūpaṃ mayā vīkṣitam ।
+anyās tat-paricaryayeva sudṛśo hanteti romāñcitā
+svidyad-gaṇḍa-talaṃ sagadgada-padaṃ sākhyāti sakhyāḥ puraḥ ।।

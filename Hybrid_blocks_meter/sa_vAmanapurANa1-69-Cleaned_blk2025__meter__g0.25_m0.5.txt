@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2025 | label: meter | g:0.25 m:0.5 ---
+
+athovāca hariḥ skandaṃ praṣṭumarhasi parvatam ।
+yo ayaṃ vacakṣyati pūrvaṃ krauñcamabhyetya pāvakiḥ ।
+papracchādrimidaṃ kena kṛtaṃ pūrvaṃ pradakṣiṇam ।।

@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 727 | label: grammar | g:0.75 m:0.5 ---
+
+bījapūrasya vṛntam utpāṭya madhye utkīrya randhraṃ kṛtvā tatra hīrakaṃ jātyaṃ kṣiptvopari vṛntenācchādya vastramṛttikayā samagraṃ bījapūrakaṃ veṣṭayitvā tato hastamātraṃ dīrghā hastamātraṃ pṛthulā hastamātraṃ cādha evaṃ gartāṃ kṛtvā sthāpitaiḥ chāṇakaiḥ pūrayitvā tatra bījapūrakaṃ muktvopari mukhe karparaṃ dattvā chāṇakeṣu vahnir deyaḥ ।

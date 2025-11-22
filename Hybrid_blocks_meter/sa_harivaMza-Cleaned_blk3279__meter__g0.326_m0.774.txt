@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3279 | label: meter | g:0.326 m:0.774 ---
+
+svakarmadravyayuktābhiḥ patākābhir nirantaram 
+śreṇīnāṃ ca gaṇānāṃ ca mañcā bhānty acalopamāḥ ।।

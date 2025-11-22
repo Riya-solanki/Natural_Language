@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 16 | label: grammar | g:0.552 m:0.5 ---
+
+bhṛtyaḥ kuprabhusevayā narapatiḥ svacchandatādurnayair hevākena kavir madena kulajaḥ krodhāgninā tāpasaḥ ।
+yogī bhogaviśeṣalampaṭatayā rogī kupathyāśanaī rāgī catvarakāminīparicayaiḥ kṣiprād adhaḥ kṣipyate ।।

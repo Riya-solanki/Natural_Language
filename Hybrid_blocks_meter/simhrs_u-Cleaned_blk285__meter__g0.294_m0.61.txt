@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 285 | label: meter | g:0.294 m:0.61 ---
+
+atha vihṛtam-
+īrṣyayā māna-lajjābhyāṃ na dattaṃ yogyam uttaram । 
+kriyayā vyajyate yatra vihṛtaṃ tad udīritam ।।

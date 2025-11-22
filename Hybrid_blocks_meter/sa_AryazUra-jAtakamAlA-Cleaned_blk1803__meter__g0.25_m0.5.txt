@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1803 | label: meter | g:0.25 m:0.5 ---
+
+kathaṃ tasyāpi duḥkhāya cintayedapi madvidhaḥ ।
+ciraṃ jīvatvasau rājā mā cainaṃ pāpamāgamat ।।

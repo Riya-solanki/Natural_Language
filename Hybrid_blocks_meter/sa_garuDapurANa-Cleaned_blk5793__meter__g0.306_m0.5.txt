@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5793 | label: meter | g:0.306 m:0.5 ---
+
+nimbaṃ kuṣṭhaṃ haridre dve śigru sarṣapajaṃ tathā ।
+devadāru paṭolañca dhānyaṃ takreṇa gharṣitam ।।

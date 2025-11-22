@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 644 | label: meter | g:0.25 m:0.555 ---
+
+FN ātmani dehe madhye hṛdayasapranītyarthaḥ ।
+bhūtabhavyagrahaṇaṃ bhavato api pradarśanārtham kālatrayaniyantetyarthaḥ ।
+kayāciditi hṛdayakamalakośasya jīvopalabdhisthānasyāṅguṣṭhamātratayetyarthaḥ ।

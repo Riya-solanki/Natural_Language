@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3478 | label: meter | g:0.194 m:0.5 ---
+
+sarvasya dhātāram acintyarūpam aṇor aṇīyāṃsam atipramāṇam 
+sitāsitaṃ ceśvaram īśvarāṇām ārādhayiṣye tapasaiva viṣṇum ।।

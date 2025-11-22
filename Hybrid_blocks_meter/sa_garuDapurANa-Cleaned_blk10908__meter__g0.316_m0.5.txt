@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10908 | label: meter | g:0.316 m:0.5 ---
+
+tato harirjamadagneḥ sutobhūlloke sarve parśurāmaṃ vadanti ।
+brahmadviṣāṃ kṣatriyāṇāṃ ca vīndra bhūmiṃ niḥ kṣatrāṃ kartukāmo maheśaḥ ।।

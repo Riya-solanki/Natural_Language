@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10693 | label: hybrid | g:0.5 m:0.5 ---
+
+tathāpi sā na vijānāti devī sākalyenāśeṣitaḥ sadguṇāṃśca ।
+yadyapyanuktaṃ pañcabhirnāsti vedaistathāpi deve atra viśeṣa āste ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3732 | label: meter | g:0.194 m:0.5 ---
+
+sa vivṛddho yadā rājā yavanānāṃ mahābalaḥ 
+tata enaṃ nṛpā mlecchāḥ saṃśrityānuyayus tadā ।।

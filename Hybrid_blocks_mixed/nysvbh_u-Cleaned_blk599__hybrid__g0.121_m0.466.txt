@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 599 | label: hybrid | g:0.121 m:0.466 ---
+
+kathaṃ punarjñāyate nānā vyaktyākṛtijātaya iti ? lakṣaṇabhedāt,
+tatra tāvat

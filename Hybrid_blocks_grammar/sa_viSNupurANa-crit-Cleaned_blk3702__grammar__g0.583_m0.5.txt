@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3702 | label: grammar | g:0.583 m:0.5 ---
+
+uśanasaś ca duhitaraṃ devayānīṃ śarmiṣṭhāṃ ca vārṣaparvaṇīm upayeme । atrānuvaṃśaśloko bhavati ।।

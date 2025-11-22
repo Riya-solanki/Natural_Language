@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 67 | label: grammar | g:0.583 m:0.5 ---
+
+padasaṃdhānavṛttyā vā vākyārthatvena vā punaḥ duṣpratītikaraṃ grāmyaṃ yathā yā bhavataḥ priyā ।।

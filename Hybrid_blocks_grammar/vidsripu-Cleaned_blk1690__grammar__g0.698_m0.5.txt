@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1690 | label: grammar | g:0.698 m:0.5 ---
+
+yad vaktraṃ muhur īkṣase na dhanināṃ brūṣe na cāṭuṃ mṛṣā naiṣāṃ garvagiraḥ śṛṇoṣi na punaḥ pratyāśayā dhāvasi ।
+kāle bālatṛṇāni khādasi sukhaṃ nidrāsi nidrāgame tan me brūhi kuraṅga kutra bhavatā kiṃ nāma taptaṃ tapaḥ ।।

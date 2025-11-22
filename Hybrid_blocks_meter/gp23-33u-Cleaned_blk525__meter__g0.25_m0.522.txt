@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 525 | label: meter | g:0.25 m:0.522 ---
+
+yadapi paraspara-milanaṃ hari-gopīnāṃ cirān na vicchinnam ।
+tadapi na tṛṣṇā śāntā svāpnika-pāne yathā pipāsūnām ।।
+[] tatra tu ramaṇaṃ, yathā-

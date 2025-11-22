@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 604 | label: meter | g:0.194 m:0.625 ---
+
+japaḥ prāṇasamaḥ kāryo dṛṣṭādṛṣṭaphalārthinām 
+avarṇā varṇasaṃyogā mayā te samudāhṛtā ।।

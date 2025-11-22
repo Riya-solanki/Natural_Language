@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4487 | label: meter | g:0.25 m:0.5 ---
+
+na bhetavyaṃ dvijaśreṣṭha rakṣāmi tvāṃ kuto anagha 
+brūhi tattvena bhadraṃ te yady api syāt suduṣkaram ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3023 | label: meter | g:0.346 m:0.747 ---
+
+parṇodumbararājīvabīlvapatrakuśodakaiḥ ।
+pratyekaṃ pratyahābhyastaiḥ parṇa kṛcchra udāhṛtaḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6810 | label: meter | g:0.333 m:0.815 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+aśeṣalokanāthasya sāramārādhanaṃ hareḥ ।
+dadyātu puruṣasūkteṇa yaḥ puṣpāṇyapa eva ca ।।

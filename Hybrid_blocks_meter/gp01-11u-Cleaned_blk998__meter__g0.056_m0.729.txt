@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 998 | label: meter | g:0.056 m:0.729 ---
+
+aṣṭa-krośīm āyataṃ goṣṭham etan
+madhye tasmin vistṛtaṃ cārdham asyāḥ ।
+etan mānaṃ cātra lokasya dṛṣṭyā
+śaktyānantācintya-dhāmatvam eva ।। [śālinī]

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2092 | label: meter | g:0.25 m:0.625 ---
+
+śrīpūrṇakaṃ dīptivinākṛtatvādvijātiliṅgāśraya eva bhedaḥ ।
+yastāmrikāṃ puṣyati padmarāgo yogāttuṣāṇāmiva pūrṇamadhyaḥ ।।

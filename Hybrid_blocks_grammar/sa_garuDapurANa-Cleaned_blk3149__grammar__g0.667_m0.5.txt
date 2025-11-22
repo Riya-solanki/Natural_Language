@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3149 | label: grammar | g:0.667 m:0.5 ---
+
+kor'thaṃ prāpya na garvito bhuvi naraḥ kasyāpadonāgatāḥ strībhiḥ kasya na khaṇḍitaṃ bhuvi manaḥ ko nāma rājñāṃ priyaḥ ।
+kaḥ kālasya na gocarāntaragataḥ kor'tho gato gauravaṃ ko vā durjanavāgurānipatitaḥ kṣemeṇa yātaḥ pumān ।।

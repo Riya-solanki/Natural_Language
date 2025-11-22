@@ -1,0 +1,6 @@
+--- source: brssgo3u-Cleaned.txt | block: 676 | label: grammar | g:0.557 m:0.382 ---
+
+aviśiṣṭaphalatvādityasya pratyudāharaṇam ।
+yāsu punaḥ kāmyāsu vidyāsu asa ya etamevaṃ vāyuṃ diśāṃ vatsaṃ veda na putrarodaṃ roditi' asa yo nāma brahmetyupāste yāvannāmno gataṃ tatrāsya yatākāmacāro bhavati' iti caivamādyāsu kriyāvadadṛṣṭenātmanātmīyaṃ phalaṃ sādhayantīṣu sākṣātkaraṇāpekṣā nāsti ।
+tā yatākāmaṃ samuccīyeranna vā samuccīyeranpūrvahetvābhāvāt ।
+pūrvasyāviśiṣṭaphalatvādityasya vikalpahetorabhāvāt ।।

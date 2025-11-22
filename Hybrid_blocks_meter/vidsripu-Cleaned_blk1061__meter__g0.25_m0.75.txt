@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1061 | label: meter | g:0.25 m:0.75 ---
+
+tvatkīrtir jātajāḍyeva saptāmbhonidhimajjanāt ।
+pratāpāya jagannātha yātā mārtaṇḍamaṇḍalam ।।

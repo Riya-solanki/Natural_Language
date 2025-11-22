@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3346 | label: grammar | g:0.729 m:0.5 ---
+
+rājyavardhanāt sudhṛtir abhūt tataś ca naras tasmāc ca kevalaḥ kevalād bandhumān bandhumato vegavān vegavato budhaś tataś ca tṛṇabinduḥ ।।

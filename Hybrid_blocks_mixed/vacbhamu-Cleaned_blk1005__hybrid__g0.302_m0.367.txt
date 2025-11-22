@@ -1,0 +1,9 @@
+--- source: vacbhamu-Cleaned.txt | block: 1005 | label: hybrid | g:0.302 m:0.367 ---
+
+asti vidyāsaṃyuktaṃ yajñādi ya evaṃ vidvānyajetetyādikam ।
+asti ca kevalam ।
+tatra yathā brāhmaṇāya hiraṇyaṃ dadyādiyukte viduṣe brāhmaṇāya dadyātra brāhmaṇabruvāya mūkhāyeti viśeṣapratilambhaḥ tatkasya hetostasyātiśayavatvāt ।
+evaṃ vidyārahitādyajñādervidyāsahitamatiśayavaditi tasyaiva paravidyāsādhanatvamupāttaduritakṣayadvārā netasya ।
+tasmādvividiṣanti yajñenetyaviśeṣaśrutamapi vidyāsahite yajñādāvupasaṃhartavyamiti prāpte abhidhīyateyadeva vidyayā karāti tadevāsya vīryavattaramiti tarabarthaśrutervidyārahitasya vīryavattāmātramavagamyate ।
+naca sarvathākiñcitkarasya tadupapadyate ।
+tasmādastyasyāpi kayāpi mātrayā paravidyotpādopayoga iti vidyārahitamapi yajñādi paravidyārthinānuṣṭheyamiti siddham ।।

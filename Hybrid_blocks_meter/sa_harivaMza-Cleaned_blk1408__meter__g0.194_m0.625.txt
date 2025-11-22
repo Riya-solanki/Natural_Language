@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1408 | label: meter | g:0.194 m:0.625 ---
+
+nāśrūyantāśubhā vāco nākulaṃ māruto vavau 
+na vittaharaṇaṃ cāsīd rāme rājyaṃ praśāsati ।।

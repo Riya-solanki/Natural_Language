@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6389 | label: meter | g:0.194 m:0.625 ---
+
+tad rūpaṃ viśvarūpasya tasya yogayujā nṛpa 
+cintyam ātmaviśuddhyarthaṃ sarvakilbiṣanāśanam ।।

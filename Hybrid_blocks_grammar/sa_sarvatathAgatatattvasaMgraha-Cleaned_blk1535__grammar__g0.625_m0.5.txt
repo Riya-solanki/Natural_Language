@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1535 | label: grammar | g:0.625 m:0.5 ---
+
+atha vajrabhairavo dūtaḥ svahṛdayamadāt । oṃ vajrabhairava vajradūta bhakṣaya sarvaduṣṭān mahāyakṣa huṃ phaṭ ।।

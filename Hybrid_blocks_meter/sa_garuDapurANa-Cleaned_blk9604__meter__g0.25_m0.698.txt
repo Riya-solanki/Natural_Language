@@ -1,0 +1,8 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9604 | label: meter | g:0.25 m:0.698 ---
+
+kanyāṃ vivāhayedyastu brāhmaṇaṃ vedapāragam ।
+indraloke vaset so api svakulaiḥ pariveṣṭitaḥ ।।
+mahādānāni datvā ca narastatphalamāmuyāt ।।
+vāpī kūpataḍāgānāmārāmasurasadmanām ।
+jīrṇoddhāraṃ prakurvāṇaḥ pūrvakartuḥ phalaṃ labhet ।
+jīrṇoddhāreṇa vā teṣāṃ tat puṇyaṃ dviguṇaṃ bhavet ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1708 | label: meter | g:0.306 m:0.5 ---
+
+tanmāṃ tapatyeṣa na duḥkhayogaḥ suhṛdviyogaḥ sukhaviplavo vā ।
+krameṇa cānena amabhyupeto mahotsavābhyāgama eṣa mṛtyuḥ ।।

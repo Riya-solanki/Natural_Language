@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1102 | label: meter | g:0.25 m:0.625 ---
+
+vajrāṅkuśaṃ samālikhye gude kude tathā ।
+tenākramīta yaṃ devaṃ tasyākarṣaṇamuttamaṃ ।।

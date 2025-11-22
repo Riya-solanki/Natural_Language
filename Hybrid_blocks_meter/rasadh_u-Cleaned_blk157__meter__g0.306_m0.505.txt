@@ -1,0 +1,8 @@
+--- source: rasadh_u-Cleaned.txt | block: 157 | label: meter | g:0.306 m:0.505 ---
+
+sāralohacūrṇaṃ kāṃsyacūrṇaṃ ca samamātrayā mūṣāyāṃ kṣiptvā tata āvartya ekapiṇḍaṃ kriyate ।।
+tatastasmātpiṇḍād ardhamātrayā śuddhanāgaṃ madhye kṣiptvā mūṣāyāṃ punaḥ punarāvartya jāraṇīyam ।।
+tataḥ punarapyardhamātrayā nāgaṃ kṣiptvā jāryam ।।
+yadi caivaṃ punaḥ punarjāraṇena kāṃsyāt ṣaḍguṇaṃ nāgaṃ jīrṇaṃ bhavati ।।
+tadā vyoṣarājir jāyate ।।
+iti vyoṣarājiḥ kāṃsyarājir ityarthaḥ ।।

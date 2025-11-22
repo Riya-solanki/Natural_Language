@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2269 | label: meter | g:0.25 m:0.5 ---
+
+tvaṃ rājā śibikā ceyam vayaṃ vāhāḥ puraḥsarāḥ 
+ayaṃ ca bhavato loko na sad etan nṛpocyate ।।

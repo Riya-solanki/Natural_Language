@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5546 | label: meter | g:0.217 m:0.845 ---
+
+duryodhanasya tanayāṃ svayaṃvarakṛtakṣaṇām 
+balād ādattavān vīraḥ sāmbo jāmbavatīsutaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1030 | label: grammar | g:0.75 m:0.5 ---
+
+[] hanta, satyatā-sāreṇa devyā vacanānusāreṇa nanda-gopa-ḍimbhatā-dambha eva sa ko' pi gopitaḥ sambhāvyate, yena nūtanāvayavenāpi duḥsaha-mahasaḥ pūtanādayaḥ sahasā gāmbhīryāvṛttena vīryātiśayenālambhanīyatāṃ lambhitāḥ । trasyati ca tasya nāma-dhāma-vaśān mama hṛdayam । tasmād asau chalata evotkalanīyaḥ । hanta, chalān apy uttaram uttaram atiriktaṃ yuktam eva te prayuktavantaḥ । tathāpi kadarthitī-bhūya vyarthī-bhūtāḥ iti vicārya, punar api taṃ praṇidhiṃ sannidhiṃ nikāyyataḥ samānāyya papraccha, aye, tvayedam apy avakalitaṃ, jātau kasyāṃ tasyādaraḥ sneha-bharaś ca paramaḥ parāmṛśyate?

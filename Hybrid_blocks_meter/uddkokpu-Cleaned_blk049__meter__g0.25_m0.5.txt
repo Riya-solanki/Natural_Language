@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 49 | label: meter | g:0.25 m:0.5 ---
+
+kañcitkālaṃ dhutakisalayācchādanaṃ saprakampaṃ pratyākhyātabhramarataruṇā mañjarī bhujyamānā ।
+yātrodyukte subhaga bhavati vyañjayedātmasādaṃ muktāścyotanmadhurasamiṣānmuñcatī bāṣpaleśam ।।

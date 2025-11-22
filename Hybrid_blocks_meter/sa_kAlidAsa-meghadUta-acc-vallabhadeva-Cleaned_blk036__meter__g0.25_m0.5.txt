@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 36 | label: meter | g:0.25 m:0.5 ---
+
+pādanyāsakvaṇitaraśanās tatra līlāvadhūtai ratnacchāyākhacitavalibhiś cāmaraiḥ klāntahastāḥ 
+veśyās tvatto nakhapadasukhān prāpya varṣāgrabindūn āmokṣyanti tvayi madhukaraśreṇidīrghān kaṭākṣān ।।

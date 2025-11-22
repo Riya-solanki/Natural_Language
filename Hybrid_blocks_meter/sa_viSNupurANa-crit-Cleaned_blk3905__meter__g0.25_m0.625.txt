@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3905 | label: meter | g:0.25 m:0.625 ---
+
+brahmakṣatrasya yo yonir vaṃśo rājarṣisatkṛtaḥ 
+kṣemakaṃ prāpya rājānaṃ sa saṃsthāṃ prāpsyate kalau ।।

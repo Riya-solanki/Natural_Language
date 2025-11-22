@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1213 | label: meter | g:0.25 m:0.5 ---
+
+vṛddho ahaṃ mama kāryāṇi samastāni na gocare 
+kiṃ kariṣyāmi mandātmā samarthena na yat kṛtam ।।

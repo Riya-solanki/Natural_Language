@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2551 | label: meter | g:0.25 m:0.5 ---
+
+na conmocayituṃ vṛkṣācchaknuyāmo api yatnataḥ ।
+tadanena narendreṇa tridhā kṛtvā tu śākhinaḥ ।।

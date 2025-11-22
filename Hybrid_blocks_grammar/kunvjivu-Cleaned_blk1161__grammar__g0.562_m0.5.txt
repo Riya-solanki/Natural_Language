@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1161 | label: grammar | g:0.562 m:0.5 ---
+
+cakṣuryasya tavānanādapagataṃ nābhūtkvacinnarvṛtaṃ yenaiṣā satataṃ tvadekaśayanaṃ vakṣaḥsthalī kalpitā ।
+yenoktāsi vinā tvayā bata jagacchūnyaṃ kṣaṇājjāyate so ayaṃ dambhadhṛtavrataḥ priyatame kartuṃ kimapyudyataḥ ।।

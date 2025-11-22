@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1145 | label: meter | g:0.322 m:0.809 ---
+
+barha-prasūna-vana-dhātu-vicitritāṅgaḥ
+proddāma-veṇu-dala-śṛṅga-ravotsavāḍhyaḥ ।
+vatsān gṛṇann anuga-gīta-pavitra-kīrtir
+gopī-dṛg-utsava-dṛśiḥ praviveśa goṣṭham ।।[BhP ] iti ।

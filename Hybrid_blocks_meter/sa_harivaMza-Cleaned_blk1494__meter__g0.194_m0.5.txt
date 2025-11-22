@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1494 | label: meter | g:0.194 m:0.5 ---
+
+prāsaiḥ pāśaiś ca khaḍgaiś ca tomarāṅkuśapaṭṭisaiḥ 
+cikrīḍus te śataghnībhiḥ śitadhāraiś ca mudgaraiḥ ।।

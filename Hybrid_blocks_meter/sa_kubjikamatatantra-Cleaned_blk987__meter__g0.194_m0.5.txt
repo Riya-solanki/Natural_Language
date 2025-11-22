@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 987 | label: meter | g:0.194 m:0.5 ---
+
+mātṛbhir guhyakaiś caiva garuḍena ca dhīmatā 
+dadhīcinā ca śukreṇa durvāsenāpi dhīmatā ।।

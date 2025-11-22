@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2898 | label: meter | g:0.194 m:0.625 ---
+
+karṣaṇena ca vṛkṣābhyāṃ bālenābālakarmaṇā 
+acintyaṃ karma tac chrutvā vardhamāneṣu śatruṣu ।।

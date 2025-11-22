@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 523 | label: grammar | g:0.562 m:0.5 ---
+
+sāyaṃ dohaṃ ced apahareyuḥ prātardohaṃ dvaidhaṃ kṛtvānyatarat sāyaṃdohasthāne kṛtvobhābhyāṃ yajeta ।

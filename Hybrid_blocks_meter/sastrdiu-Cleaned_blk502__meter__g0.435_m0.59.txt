@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 502 | label: meter | g:0.435 m:0.59 ---
+
+dhātvarthamātrasya kriyātvāt ।
+spandeṣvapi prayojakatvenāsyaiṣa kartṛtvaṃ saṃbhavati, prayatnena hyasau śarīraṃ spande prayojayati ।
+sākṣāttu na saṃbhavati, sarvagate spandasyāsaṃbhavāt- ityanenābhiprāyeṇa purāṇeṣūpaniṣatsu cākartṛtvavādāḥ ।।

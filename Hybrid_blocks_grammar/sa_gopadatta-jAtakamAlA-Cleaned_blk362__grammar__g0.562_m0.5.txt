@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 362 | label: grammar | g:0.562 m:0.5 ---
+
+atha hairaṇyikāpaṇikāḥ puruṣāḥ sametyāgatya ca taṃ tasmāt karmaṇo vinivartanārtham āhuḥ ।

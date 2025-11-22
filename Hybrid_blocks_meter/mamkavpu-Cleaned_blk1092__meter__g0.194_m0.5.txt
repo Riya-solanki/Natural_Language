@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1092 | label: meter | g:0.194 m:0.5 ---
+
+{aho kenedṛśī buddhirdāruṇā tava nirmitā ।
+triguṇā śrūyate buddhirna tu dārumayī kvacit ।।}

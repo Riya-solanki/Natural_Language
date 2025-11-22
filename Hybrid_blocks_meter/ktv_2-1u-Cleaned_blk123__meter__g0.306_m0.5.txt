@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 123 | label: meter | g:0.306 m:0.5 ---
+
+saṃbandhamātram uktaṃ ca śrutyā dhātvarthabhāvayoḥ ।
+tad ekāṃśaniveśe tu vyāpāro asyā na vidyate ।।
+saṃbandhamātraṃ kṛtvā nivṛttavyāpārāyāṃ śrutāv anyatarāṃśaniveśo yogyatvād āśrayitavyaḥ ।
+tad yadi sādhyāṃśād ekapratyayopāttena pratyāsannatareṇa vidhitvena pracyāvyate,

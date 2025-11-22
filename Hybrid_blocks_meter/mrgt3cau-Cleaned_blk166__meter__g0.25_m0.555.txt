@@ -1,0 +1,5 @@
+--- source: mrgt3cau-Cleaned.txt | block: 166 | label: meter | g:0.25 m:0.555 ---
+
+viśiṣṭenopahāreṇa yajetparvasu śaṃkaram ।
+kṣetrapālaṃ ca sādhyāṇuṃ caruṃ dadyānna kasyacit
+labdhānujño mṛṣā jātu tiṣṭhennaikamapi kṣaṇam ।

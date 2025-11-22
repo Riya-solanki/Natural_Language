@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4549 | label: meter | g:0.25 m:0.625 ---
+
+tataḥ kathānte tatrāham abhigamya janārdanam 
+apṛcchaṃ tad yathāvṛttaṃ kṛṣṇaṃ yad dṛṣṭvān aham ।।

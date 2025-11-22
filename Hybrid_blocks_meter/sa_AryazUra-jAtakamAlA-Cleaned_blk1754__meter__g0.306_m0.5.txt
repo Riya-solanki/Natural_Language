@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1754 | label: meter | g:0.306 m:0.5 ---
+
+hantīti yā dharmavipakṣamāyāṃ prāhuḥ sukhaṃ civa vimokṣamāyām ।
+tasmānna kuryātka iva kṣamāyāṃ prayatnamekāntahitakṣamāyām ।।

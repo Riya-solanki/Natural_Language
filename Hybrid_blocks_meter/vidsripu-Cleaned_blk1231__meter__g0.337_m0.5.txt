@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1231 | label: meter | g:0.337 m:0.5 ---
+
+ādau vitatya caraṇau vinamayya kaṇṭham utthāpya vaktram abhihatya muhuś ca vatsāḥ ।
+mātrā pravartitamukhaṃ mukhalihyamāna- paścārdhasusthamanasaḥ stanam utpibanti ।।

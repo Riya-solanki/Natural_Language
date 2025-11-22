@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 40 | label: meter | g:0.25 m:0.607 ---
+
+sārdhaślokadvayaṃ spaṣṭam ।।
+kevalaṃ vajraḥ snuhikandaś ca śūraṇas tayo rasena ।।
+athavā vajrākhyaḥ kandaḥ parvatabhūmau bhavati ।।
+sarve'pi kañcukā yathoktarasena saptadināni sūtamardanena naśyantīti ।।

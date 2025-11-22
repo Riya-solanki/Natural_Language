@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 127 | label: meter | g:0.194 m:0.625 ---
+
+kiṃ tu naisargiko jñāne bahirābhāsanātmani 
+pūrvānubhavarūpas tu sthitaḥ sa smaraṇādiṣu ।।

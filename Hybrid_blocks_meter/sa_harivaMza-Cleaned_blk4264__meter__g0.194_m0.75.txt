@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4264 | label: meter | g:0.194 m:0.75 ---
+
+etau hi vasudevasya putrau surasutopamau 
+vavṛdhāte mahātmānau brahmagārgyeṇa saṃskṛtau ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 807 | label: grammar | g:0.594 m:0.5 ---
+
+sa evāyaṃ deśaḥ sara iva vilūnāmbujavanaṃ tanoty antas tāpaṃ nabha iva vilīnāmṛtaruci ।
+viyoge tanvaṅgyāḥ kalayati sa evāyam adhunā himartur naidāghīm ahaha viṣamāṃ tāpanarujam ।।

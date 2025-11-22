@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 609 | label: meter | g:0.25 m:0.625 ---
+
+uttare kośalābhāge puṇye devarṣisevite ।
+uddālakena muninā tatra dhyātā sarasvatī ।।

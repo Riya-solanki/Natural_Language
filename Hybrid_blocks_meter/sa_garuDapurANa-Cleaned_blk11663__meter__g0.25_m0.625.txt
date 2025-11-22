@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11663 | label: meter | g:0.25 m:0.625 ---
+
+gurutalpādipāpebhyo mucyante nātra saṃśayaḥ ।
+tatra snātvā pūrvabhāge śālagrāmaṃ dadāti yaḥ ।।

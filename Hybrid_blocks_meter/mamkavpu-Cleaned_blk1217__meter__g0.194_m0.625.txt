@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1217 | label: meter | g:0.194 m:0.625 ---
+
+{saalakaraṇaparavīsāmasiriviaraṇaṃ ṇa sarasakavvassa ।
+dīsai aha vā ṇisammai sarisaṃ aṃsaṃsametteṇa ।।}
+[sakalakaraṇaparaciśrāmaśrīvitaraṇaṃ na sarasakāvyasya ।
+dṛśyate atha vā niśamyate sadṛśamaṃśāṃśamātreṇa ।।]

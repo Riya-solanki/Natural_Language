@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 498 | label: grammar | g:0.625 m:0.5 ---
+
+sātmībhūtendriyajayaḥ parākramanayavinayasaṃpadā samadhigatavijayaśrīrvṛddhopāsananiyamāt trayyānvīkṣikyorupalabdhārthatattvaḥ svadharmakarmānuraktābhiranudvignasukhocitābhiranuraktābhiḥ prakṛtibhiḥ prakāśyamānadaṇḍanītiśobhaḥ samyakpravṛttavārttāvidhiḥ saṃjayo nāma śibīnāṃ rājā babhūva ।

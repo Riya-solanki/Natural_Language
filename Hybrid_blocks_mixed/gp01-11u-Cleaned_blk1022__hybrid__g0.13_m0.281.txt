@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 1022 | label: hybrid | g:0.13 m:0.281 ---
+
+[] atha bhrātarau sakhibhir jalāplavana-kelim ācarya vanya-veśa-viśeṣam apy āsajjya caraṇa-caryayā carantāv apūrva-mṛga-pakṣiṇaḥ samantāl lakṣayantau vailakṣyam āsedatuḥ । tatra ca,
+rutam anukurutas tau līlayā yasya jantoḥ
+samudayati tadīyaṃ jāti-mātraṃ tadāśu ।
+bhaṇitam atha vidhattas tad-viruddhasya tasmin
+yadi bhayam anu tasmāl līyate taj javena ।। [mālinī]

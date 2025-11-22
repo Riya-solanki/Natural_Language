@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 135 | label: meter | g:0.194 m:0.625 ---
+
+{aipihulaṃ jalakuṃbhaṃ ghettūṇa samāgadahmi sahi turiaṃ ।
+samaseasalilaṇīsāsaṇīsahā vīsamāmi khaṇaṃ ।।}
+[atipṛthulaṃ jalakumbhaṃ gṛhītvā samāgatāsmi sakhi tvaritam ।
+śramasvedasalilaniḥśvāsaniḥsahā viśrāmyāmi kṣaṇam ।।]

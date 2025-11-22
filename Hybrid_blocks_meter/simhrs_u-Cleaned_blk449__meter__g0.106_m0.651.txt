@@ -1,0 +1,9 @@
+--- source: simhrs_u-Cleaned.txt | block: 449 | label: meter | g:0.106 m:0.651 ---
+
+atha vastūtthāpanam -
+tad-vastūtthāpanaṃ yat tu vastu māyopakalpitam ।। b
+yathā-
+māyā-cuñcur athendrajid raṇa-mukhe khaḍgena dīnānāṃ
+saumitre drutam āryaputra cakitāṃ māṃ pāhi pāhīti ca ।
+krośantīṃ vyathitāśayāṃ hanumatā mā meti santarjitaḥ
+kaṇṭhe kaitava-maithilīṃ kupita-dhīś ciccheda tucchāśayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 562 | label: meter | g:0.25 m:0.5 ---
+
+tatra svnātvā śraddadhānaḥ koṭiyajñaphalaṃ labhet ।
+tato vāmanakaṃ gacchet triṣu lokeṣu viśrutam ।।

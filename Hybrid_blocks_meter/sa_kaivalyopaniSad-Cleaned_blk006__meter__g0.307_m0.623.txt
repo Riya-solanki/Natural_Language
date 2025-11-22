@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 6 | label: meter | g:0.307 m:0.623 ---
+
+pareṇa nākaṃ nihitaṃ guhāyāṃ vibhrājate yad yatayo viśanti ।
+vedānta-vijñānasuniścitārthāḥ saṃnyāsayogād yatayaḥ śuddhasattvāḥ ।।

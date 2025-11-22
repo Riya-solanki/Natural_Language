@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 18 | label: grammar | g:0.552 m:0.5 ---
+
+viyadvyāpī tārāgaṇaguṇitaphenodgamaruciḥ pravāho vārāṃ yaḥ pṛṣatalaghudṛṣṭaḥ śirasi te ।
+jagad dvīpākāraṃ jaladhivalayaṃ tena kṛtam ity anenaivonneyaṃ dhṛtamahima divyaṃ tava vapuḥ ।।

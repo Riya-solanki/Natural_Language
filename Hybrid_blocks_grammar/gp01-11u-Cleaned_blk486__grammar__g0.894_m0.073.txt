@@ -1,0 +1,12 @@
+--- source: gp01-11u-Cleaned.txt | block: 486 | label: grammar | g:0.894 m:0.073 ---
+
+ārebhe sa ca dātuṃ, lebhe na tulāṃ tu saṅgināṃ teṣām ।
+tādṛśa-tat-prasava-śrī-vārtā yair arpitā paritaḥ ।।
+tathāpi-
+ayutaṃ prayutaṃ niyutaṃ bhavati daśānāṃ sahasram ārabhya ।
+niyute viṃśati-lakṣaṃ tāvad dhenūr adān nandaḥ ।।viṃśati-lakṣaṃ dattvā dhenūḥ sauvarṇa-śṛṅga-saṅgy-aṅgīḥ ।
+hṛdayam apūrṇatayāsīt tasyānyasmai pradānāya ।।daśabhir daśabhir droṇaiḥ kṛta-tila-saptācalīm adadāt ।
+yad-vṛti-maṇi-kanakānāṃ tad-adhikatara-bhāratā dvijair mene ।।tebhyaś ca dakṣiṇīyebhyaḥ prattā yā dakṣiṇāmunā ।
+tayāpy akṣīṇayānyeṣām akṣīṇy āścaryam āyayuḥ ।।bāḍavyānām asaṅkhyānāṃ nāsīt paricitis tadā ।
+brahma-varcasam evāsmin paricāyakatāṃ yayau ।।
+[] tatra ye vidita-vedābhiprāyā viprā nija-nija-vidyātiśāyakāḥ sūta-māgadha-vandi-kṛśāśvi-gāyakāḥ svacchanda-nānā-śabda-vādakā vādakāś ca, te sarve' pi tasmin parvaṇi saṅginaḥ santaḥ sumaṅgalam eva śabdāyamānāḥ pṛthaktāyām apy apṛthaṅ-nisvanā iva viśvaṃ vismāyayanti sma । yāvad evaṃ vṛttaṃ vṛttam, tāvad vraja-sthalam api hṛṣṭam iva dṛṣṭaṃ, kim uta vrajasthāḥ । yataḥ saṃsṛṣṭatayā vikṣepa-śūnyam iva saṃsiktatayā snigdham iva, cala-citra-dhvajāditayā nṛtyad iva cāsīt । tatra ca yadā go-vṛṣa-vatsānām api svabhāvata eva bhavataḥ sānurāga-snehasya taila-vidrāvita-haridrā-samakti-vyājād bahir api vyaktir āsīt । harṣa-vaicitryasya ca vicitra-dhātu-barha-srak-kāñcana-mālā-vyājāt । tadā kim uta gopānāṃ te hy adyāpi yaśasā vidyamānā go-pṛthivyāḥ pātāra itīva tathocyante । ye khalu vyañjita-rasa-bhāvatayā vidhṛtālaṅkāratayā ca sva-varṇana-kāvya-granthair abhedam āyayuḥ । ullāsa-vidhṛta-nānā-maṇi-maya-bali-pāṇitayā premaṇi sveṣāṃ vīratāṃ ca vyañjayāmāsuḥ । yadā caivaṃ gopās tadā punar atīva jīvanāyamāna-gokula-kuleśvarī guṇa-gaṇa-digdha-snigdha-hṛdayā gopa-vara-varṇinyaḥ kiyad vā varṇanīyāḥ ?

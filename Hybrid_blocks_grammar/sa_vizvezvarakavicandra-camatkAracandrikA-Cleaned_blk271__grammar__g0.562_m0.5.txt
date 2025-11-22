@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 271 | label: grammar | g:0.562 m:0.5 ---
+
+atra senāvājirajasā samudrāṇāṃ śoṣaṇa sthalīkaraṇādiratimātratve api punarapivāripūrakalpanayā vastusthiteravirodhād gāḍhamārgānuvartināṃ vidagdhānāmatiguṇatvam ।

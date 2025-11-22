@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 10 | label: hybrid | g:0.542 m:0.5 ---
+
+tāṃ cāvaśyaṃ divasagaṇanātatparām ekapatnīm avyāpannām avihatagatir drakṣyasi bhrātṛjāyām ।
+āśābandhaḥ kusumasadṛśaṃ prāyaśo hy aṅganānāṃ sadyaḥpāti praṇayi hṛdayaṃ viprayoge ruṇaddhi ।।

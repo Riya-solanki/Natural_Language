@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 53 | label: grammar | g:0.604 m:0.5 ---
+
+yayā kayā cic chrutyā yat samānam anubhūyate tadrūpā hi padāsattiḥ sānuprāsā rasāvahā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2476 | label: meter | g:0.306 m:0.5 ---
+
+sa tāścāha timirmugdhāḥ yūyaṃ dharmaṃ na jānatha ।
+janāpavādaṃ ghoraṃ hi na śaktaḥ soḍhumulbaṇam ।।

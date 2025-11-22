@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 296 | label: meter | g:0.294 m:0.586 ---
+
+tatra śobhā-
+nīce dayādhike spardhā śauryotsāhau ca dakṣatā ।
+yatra prakaṭatāṃ yānti sā śobheti prakīrtitā ।।

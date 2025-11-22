@@ -1,0 +1,20 @@
+--- source: brssgo3u-Cleaned.txt | block: 487 | label: grammar | g:0.611 m:0.14 ---
+
+puruṣavidyāyāṃ chāndogyasthāṃ vidyāmāha-astīti ।
+apuruṣo vāva yajñastasya yāni caturviśati varṣāṇi tatprātaḥ savanamatha yāni catuścatvāriṃśadvarṣāṇi tanmādhyandinaṃ savanamatha yānyaṣṭācatvāriṃśadvarṣāṇi tattṛtīyaṃ savanam'iti prasiddhayajñasāmyārthaṃ savanatrayaṃ kalpitaṃ, asa yadaśiśiṣati yatpipāsati yanna ramate tā dīkṣā atha yadaśnāti yatpibati yadramate tā upasadaḥ atha yaddhasati yajjakṣati yanmaithunaṃ carati tāni stutaśastrāṇi atha yattapodānādi sā dakṣiṇā maraṇamevāvabhṛthaḥ vasvādirūpā me prāṇā idaṃ savanatrayaṃ yāvadāyuranusaṃtanute'ityāśīḥ aakṣitamasyacyutamasi prāṇaṃ saṃśitamasi'iti mantratrayaprayogaḥ ।
+ṣoḍaśādhikaśatavarṣajīvitvaṃ phalamiti darśitam ।
+saṃśayārthaṃ śākhāntarīyapuruṣavidyāmāha-taittirīyakā iti ।
+atra viduṣo yajñasyeti ṣaṣṭhyoḥsāmānādhikaraṇyavaiyadhikaraṇyāniścayātsaṃśayamāha-tatreti ।
+upasaṃhārānupasaṃhārāveva phalam ।
+pūrvatrāsādhāraṇaguṇapratyabhijñānābhāvātsaṃbhṛtyādau vidyābheda uktaḥ ।
+iha tvasādhāraṇamaraṇāvabhṛthaguṇaviśiṣṭapuruṣayajñarūpaikyapratyabhidhānādvi dyaikyamiti pratyudāharaṇena prāpte siddhāntayati-nopasaṃhartavyā iti ।
+tasyaivaṃ viduṣo yajñasyātmā yajamānaḥ śraddhā patnī śarīramidhmamuro vedirlomāni barhirvedaḥ śikhā hṛdayaṃ yūpaḥ kāma ājyaṃ manyuḥ paśustapo agnirdamaḥ śamayitā dakṣiṇā vāgghotā prāṇa udgātā cakṣuradhvaryurmano brahmā'iti bahutaradharmavailakṣaṇyānna rūpaikyapratyabhijñetyarthaḥ ।
+vedaḥ kuśamuṣṭiḥ śamayitā damo dakṣiṇetyanvayaḥ ।
+kiñca chāndogye tridhāvibhaktāyuṣi savanatvakalpanā, atra tu sāyaṅkālādāviti vairūpyamāha-yadapīti ।
+yanmaraṇaṃ tadavabhṛtho yadramate tadupasada iti tittiriśrutau sārūpyamapi bhātītyata āha-yadapi kiñciditi ।
+gajoṣṭrayoścatuṣpāttvasārūpyavadidaṃ sārūpyaṃ naikyaprayojakamityarthaḥ ।
+kiñca chāndogye puruṣayajñayoraikyaṃ śrutamatra tu bheda iti vairūpyāntaramāha-naceti ।
+yadyapi niṣādasthapatinyāyena sāmānādhikaraṇyaṃ ṣaṣṭhyoryuktaṃ tathāpyaprasiddhaikyakalpanāgauravādyajñasyātmeti bhedokterekasyaiva yajñatvayajamānatvavirodhādātmavido yo yajñaḥ prasiddhastasyeti vaiyadhikaraṇyameva yuktam ।
+kiñca vidvatsaṃbandhiyajñarūpaviśeṣyānuvādena vidvadaṅgairaṅgasaṃpadvidhāvekavākyatā pratīyate tasyāṃ satyāṃ viśeṣyasyāṅāgānāṃ ca pṛthagvidhivādinastava vākyabhedadoṣaḥ syādityarthaḥ ।
+kiñca satyādibhyo nyāsa evāpare ca yaditi saṃnyāsamuktvā sarvaiḥ sarvamidaṃ jagadityevaṃ tamātmānaṃ jñātvā bhūyo na mṛtyumupayāti vidvāniti saṃnyāsasādhyātmavidyāṃ purastātprājāpatyānuvāke upadiśyānantarānuvāke tasyaivaṃ viduṣa ityuktātmavidyānuvādena praśaṃsārthatvena, taccheṣatayāyajñasaṃpattiḥ kriyate phalaikyaśruteḥ, chandogānāṃ tu svatantravidyāvidhirityāha-apica sasaṃnyāsāmiti ।
+cintāphalamāha-tasmāditi ।।

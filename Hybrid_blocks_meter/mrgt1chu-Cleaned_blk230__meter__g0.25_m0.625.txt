@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 230 | label: meter | g:0.25 m:0.625 ---
+
+nādhyakṣaṃ nāpi tallaiṅgaṃ na śābdamapi śāṃkaram ।
+jñānamābhāti vimalaṃ sarvadā sarvavastuṣu ।।

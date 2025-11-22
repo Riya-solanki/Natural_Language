@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2489 | label: meter | g:0.25 m:0.667 ---
+
+kṛṣṇaḥ kadambaśikharāl lambamāno ambudākṛtiḥ 
+hradamadhye akaroc chabdaṃ nipatann ambujekṣaṇaḥ ।। 
+nīlotpaladalaśyāmo hrade tasmin papāta ha । 
+sa kṛṣṇenāvapatatā kṣobhitaḥ sa mahāhradaḥ 
+saṃprāśicyata vegena bhidyamāna ivārṇavaḥ ।।

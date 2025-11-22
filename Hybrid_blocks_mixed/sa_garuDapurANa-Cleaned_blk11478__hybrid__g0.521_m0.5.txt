@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11478 | label: hybrid | g:0.521 m:0.5 ---
+
+lakṣmīpate ceti vadanti sarve dhanīti śabdaḥ svābhivācī yato hi ।
+atopyāryā mādhaveti bruvanti lakṣmīpate pāhi tathaiva bhaktān ।।

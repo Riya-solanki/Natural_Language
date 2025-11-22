@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 78 | label: grammar | g:0.583 m:0.5 ---
+
+tāṃ jānīyāḥ parimitakathāṃ jīvitaṃ me dvitīyaṃ dūrībhūte mayi sahacare cakravākīm ivaikām ।
+gāḍhotkaṇṭhāṃ guruṣu divaseṣv eṣu gacchatsu bālāṃ jātāṃ manye śiśiramathitāṃ padminīṃ vānyarūpām ।।

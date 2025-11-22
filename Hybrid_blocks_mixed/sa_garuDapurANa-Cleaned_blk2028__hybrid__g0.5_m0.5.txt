@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2028 | label: hybrid | g:0.5 m:0.5 ---
+
+tatraiva caikasya hi mūlamātra niviśyate ratnapadasya jātu ।
+vedhyaṃ tu śuktayudbhavameva teṣāṃ śeṣāṇyavedhyāni vadanti tajjñāḥ ।।

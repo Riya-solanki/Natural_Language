@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 18 | label: grammar | g:0.552 m:0.5 ---
+
+śauryasyātivikatthanaṃ ripunatir mānasya duḥśīlatā saundaryasya samunnates taralatā jñānasya garvagrahaḥ ।
+aiśvaryasya vikāratā mukharatā vidyāprakarṣasya ca bhrātarvibhramanarmaṇaś ca gaṇikā sarvātmanā dūṣaṇam ।।

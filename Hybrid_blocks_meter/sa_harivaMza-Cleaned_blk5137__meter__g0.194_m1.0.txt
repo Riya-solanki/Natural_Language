@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5137 | label: meter | g:0.194 m:1.0 ---
+
+tanūruhair yathājātaiḥ samalāntarasaṃvṛtaiḥ 
+bahvapatyāḥ prajāhīnāḥ krūrā lakṣaṇavarjitāḥ ।।

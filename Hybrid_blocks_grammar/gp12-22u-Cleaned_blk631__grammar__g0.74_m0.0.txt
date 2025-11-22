@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 631 | label: grammar | g:0.74 m:0.0 ---
+
+nūnam evaṃ vidadhatoḥ sarveṣāṃ dharma-paryayam ।
+kṛṣṇo' mūlam asau cāsmad-dharmam unmūlayiṣyati ।। [anuṣṭubh]
+[] tad evaṃ bhrātṛbhyāṃ saṅgāne yugapad eva sarveṣāṃ mohanam ūhamānenānujena vicāritam-[] hanta tāsām eva mohanākarṣaṇe suṣṭhu mamābhīṣṭe, tatrāpi rādhābhidhāyāḥ । tasmāt pṛthag bhavan pṛthag eva yathā jīvānāṃ jātir yathā-yuktaṃ tayor dvayam ekaṃ vā vahati, kramaśo vyaktir api, tathā śikṣārthaṃ prayatiṣye । tac ca tat-tan-mātrātiśayitābhīpsita-svarādi-marma-samudbhāvanayā sambhaviṣyati iti ।

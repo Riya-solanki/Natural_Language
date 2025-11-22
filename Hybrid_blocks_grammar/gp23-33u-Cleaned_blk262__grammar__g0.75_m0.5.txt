@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 262 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad etad vicārya samācārya ca paryanveṣaṇās tam uddiśya diśyaṃ diśyaṃ vanaṃ praviśya, svayam anvicchantam iva saṃcarantaṃ dainya-sainya-mayam atigāna-vitānam ācaranti sma iti ।

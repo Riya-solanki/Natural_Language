@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1779 | label: meter | g:0.326 m:0.5 ---
+
+athāpyayaṃ syādaparādha eva me kṣamā tu śobheta tathāpi te nṛpa ।
+kṣamā hi śaktasya paraṃ vibhūṣaṇaṃ guṇānurakṣānipūnatvasūcanāt ।।

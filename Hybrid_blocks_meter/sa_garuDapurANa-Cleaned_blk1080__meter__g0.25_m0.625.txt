@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1080 | label: meter | g:0.25 m:0.625 ---
+
+uttamoṃ'guṣṭhamānena madhyamo madhyamena tu ।
+kanyase ca kaniṣṭhena aṅgulyā granthayaḥ smṛtāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2242 | label: meter | g:0.25 m:0.75 ---
+
+sahyādrau devadeveśa ekavīraḥ sureśvarī ।
+gaṅgādvāre kuśāvarte vindhyake nīlaparvate ।।

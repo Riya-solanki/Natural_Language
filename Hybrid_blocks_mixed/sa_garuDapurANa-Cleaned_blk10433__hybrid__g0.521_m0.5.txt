@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10433 | label: hybrid | g:0.521 m:0.5 ---
+
+etatstotraṃ hyarthayeccaiva yā naḥ tatra prītirhyakṣayā me sadā syāt ।
+stotraṃ hyetatpāṭhayantīha loke te vaiṣṇavāste ca haripriyāśca ।।

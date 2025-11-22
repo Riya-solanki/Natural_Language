@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 572 | label: grammar | g:0.594 m:0.5 ---
+
+nanvanekatvādvarṇānāṃ naikabuddhiviṣayatopapadyata ityuktaṃ, tatpratibrūmaḥ - saṃbhavatyanekasyāpyekabuddhiviṣayatvaṃ, paṅ ktirvanaṃ senā daśa śataṃ sahasramityādidarśanāt ।
+yā tu gaurityeko ayaṃ śabda iti buddhiḥ, sā bahuṣveva varṇeṣvekārthāvacchedanibandhanaupacārikī vanasenādibuddhivadeva ।

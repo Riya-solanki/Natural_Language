@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 578 | label: meter | g:0.028 m:0.5 ---
+
+[] kintu, sva-carita-cāturībhir idam ivāyaṃ sūcayati,
+"stanandhayasya stana eva jīvikā
+dattas tvayā svayam ānane mama ।
+mayā ca pīto mriyate yadi tvayā,
+kiṃ vā mamāgaḥ? svayam eva kathyatām ।। [upajāti ]

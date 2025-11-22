@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 63 | label: hybrid | g:0.369 m:0.5 ---
+
+gandha-rūpaṃ svāda-rūpaṃ dravyaṃ puṣpādikaṃ ca yat ।
+rasavad bhautikaṃ dravyam atra syād rasa-rūpakam ।।
+heyāṃśānām abhāvāc ca rasa-rūpaṃ bhavec ca tat ।
+tvag-bījaṃ caiva heyāṃśaṃ kaṭhināṃśaṃ ca yad bhavet ।
+tat sarvaṃ bhautikaṃ viddhi na hi bhūtamayaṃ hi tat ।।ity ādi ।

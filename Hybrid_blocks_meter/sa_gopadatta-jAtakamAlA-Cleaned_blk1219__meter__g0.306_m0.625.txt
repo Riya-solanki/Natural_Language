@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1219 | label: meter | g:0.306 m:0.625 ---
+
+etāni cānyāni ca bodhisattvāḥ kurvanti karmāṇy avipannasattvāḥ ।
+parārthacaryāviṣaye carantaḥ kṛpānubhūtāḥ svasukhānurāgāḥ ।।

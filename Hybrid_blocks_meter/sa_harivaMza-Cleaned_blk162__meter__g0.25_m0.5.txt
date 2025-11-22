@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 162 | label: meter | g:0.25 m:0.5 ---
+
+nahuṣaḥ śaṅkharomā ca maṇir ity evamādayaḥ 
+ete cānye ca bahavo daṃdaśūkā viṣolbaṇāḥ । 
+teṣāṃ putrāś ca pautrāś ca garuḍena nipātitāḥ । 
+caturdaśasahasrāṇi krūrāṇām uragāśinā । 
+gaṇaṃ krodhavaśaṃ viddhi tatra sarve ca daṃṣṭriṇaḥ ।।

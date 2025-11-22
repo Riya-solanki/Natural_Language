@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1329 | label: hybrid | g:0.401 m:0.512 ---
+
+athodāharaṇam-
+sotkarṣa-vacanaṃ yat tu tad udāharaṇaṃ matam ।।

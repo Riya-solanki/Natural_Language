@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 256 | label: grammar | g:0.746 m:0.213 ---
+
+syādetat ।
+naikatvavijñānaṃ yathāvasthitavastuviṣayam, yena mithyājñānaṃ bhedāvabhāsaṃ nivartayanna vidhiviṣayo bhavet; api tu saṃpadādirūpam ।
+tathā ca vidheḥ prāgaprāptaṃ puruṣecchayā kartavyaṃ sat vidhigocaro bhaviṣyati; yathā vṛttyantaratvena manaso viśvedevasāmyādviśvāndevānmanasi saṃpādya mana ālambanamavidyamānasamaṃ kṛtvā prādhānyena saṃpādyānāṃ viśveṣāmeva devānāmanucintanam, tena cānantalokaprāptiḥ; evaṃ cidrūpasāmyājjīve brahmasvarūpaṃ saṃpādya jīvamālambanamavidyamānasamaṃ kṛtvā prādhānyena brahmānucintanam, tena cāmṛtatvaphalaprāptiḥ ।
+adhyāse tvālambanasyaiva prādhānyenāropitatadbhāvasyānucintanam; yathā amano brahmetyupāsīta', aādityo brahmetyādeśaḥ'; evaṃ jīvamabrahma abrahmetyupāsīta' iti ।

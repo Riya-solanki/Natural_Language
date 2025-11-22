@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 764 | label: meter | g:0.194 m:0.75 ---
+
+ya-ḍha-madhyagataṃ gṛhya kevalaṃ viṃśamaṃ bhavet 
+kha-pūrvavarṇam uddhṛtya tha-pūrvāsanasaṃsthitam ।।

@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1691 | label: grammar | g:0.667 m:0.5 ---
+
+ityatra mañjīraśiñjitam ambuje pratikūlam asaṃbhavāditi rūpakasyabādhakam na tu pāde anukūlamityupamāyāḥ sādhakamabhidhayate vidhyupamardino bādhakasya tadapekṣayotkaṭatvena pratipatteḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6163 | label: meter | g:0.25 m:0.5 ---
+
+ādhyātmiko vai dvividhaḥ śārīro mānasas tathā 
+śārīro bahubhir bhedair bhidyate śrūyatāṃ ca saḥ ।।

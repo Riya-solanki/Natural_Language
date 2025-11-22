@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 30 | label: grammar | g:0.75 m:0.5 ---
+
+lakṣaṇam śūnyatālambanayā bhāvanāmayyā prajñayopāttānāṃ taddṛṣṭyā vyavasthāpitānāṃ ca trisarvajñatākārāṇāṃ bhāvanāyāṃ prakarṣaparyantaḥ sattvayogaḥ mūrdhaprayogaḥ iti mūrdhābhisamayasya lakṣaṇam । bodhisattvasya śrutamayyā prajñayopāttānāṃ prayogāṇāmapyatraiva saṃgṛhītatvāllakṣaṇe taddṛṣṭyā vyavasthāpiteti viśeṣaṇam ।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 420 | label: hybrid | g:0.465 m:0.5 ---
+
+vidyate durlabhaṃ kiṃ te vinte tad yad bhavān api ।
+avaśya-vaśyatāṃ yasya paśya labdhās tu mad-vidhāḥ ।। [anuṣṭubh}

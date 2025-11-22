@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1129 | label: grammar | g:0.552 m:0.5 ---
+
+vajraṃ tathendraḥ saha ghaṇṭayā ca yamo atha daṇḍaṃ dhanado gadāṃ ca ।
+brahma'kṣamālāṃ sakamaṇḍaluṃ ca kālo asimugraṃ saha carmaṇā ca ।।

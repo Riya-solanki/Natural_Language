@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 918 | label: meter | g:0.0 m:0.5 ---
+
+lohādi pāṇiṣaḍḍhāstaṃ dārubhistrividhaṃ param ।। App

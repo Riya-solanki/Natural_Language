@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 633 | label: meter | g:0.302 m:0.875 ---
+
+garbha-nirbharatayā, yathā-
+āsanaika-priyasyāsyāḥ sakhī-gātrāvalambinaḥ ।
+garbhālasasya vapuṣo bhāro' bhūt svāṅga-dhāraṇam ।।

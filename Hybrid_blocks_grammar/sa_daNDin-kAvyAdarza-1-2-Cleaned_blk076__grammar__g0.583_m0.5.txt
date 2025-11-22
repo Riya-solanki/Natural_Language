@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 76 | label: grammar | g:0.583 m:0.5 ---
+
+nedṛśaṃ bahu manyatne mārgayor ubhayor api na hi pratītiḥ subhagā śabdanyāyavilaṅghinī ।।

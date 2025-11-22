@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8701 | label: meter | g:0.25 m:0.625 ---
+
+mahārogairmṛtā ye ca pāparogaiśca dasyubhiḥ ।
+asaṃskṛtapramītā ye vihitācāravarjitāḥ ।।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 24 | label: meter | g:0.272 m:0.799 ---
+
+saṃyogāntasya lopaḥ ।।
+saṃyogāntaṃ yatpadaṃ tadantasya lopaḥ syāt ।।

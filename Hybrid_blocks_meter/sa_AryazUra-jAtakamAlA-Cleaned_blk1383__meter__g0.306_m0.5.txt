@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1383 | label: meter | g:0.306 m:0.5 ---
+
+asmanakasmādapahāya kasmādgantavya eva praṇatā matiste ।
+vyalīkaśaṅkājanakaṃ nu kiṃcid dṛṣṭaṃ pramādaskhalitaṃ tvayā naḥ ।।

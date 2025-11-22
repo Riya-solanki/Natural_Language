@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7759 | label: grammar | g:0.552 m:0.5 ---
+
+na jñānamārgo na ca yogamārgo na karmamārgo na ca bhaktimārgaḥ ।
+na sādhusaṅgātkimapi śrutaṃ mayā śarīra he nistara yattvayā kṛtam ।।

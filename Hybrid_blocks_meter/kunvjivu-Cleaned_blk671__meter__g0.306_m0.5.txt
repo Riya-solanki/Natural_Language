@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 671 | label: meter | g:0.306 m:0.5 ---
+
+taraṅgabhrūbhaṅgā vihagaśreṇiraśanā vikarṣantī phenaṃ vasanamiva saṃrambhaśithilam ।
+yathāviddhaṃ yāti skhalitamabhisaṃdhāya bahuśo nadībhāveneyaṃ dhruvamasahanā sā pariṇatā ।।

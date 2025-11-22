@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 10 | label: grammar | g:0.594 m:0.5 ---
+
+aśvīye yamavāhanasya nakulasyāśīviṣāṇāṃ kule mārjārasya ca mūṣakeṣu ghaṭate yā prītir ātyantikī ।
+kṣīṇe arthe vidhureṣu bandhuṣu dṛḍhe lokāpavāde śanair jñeyā kāmijaneṣu saiva gaṇikāvargasya naisargikī ।।

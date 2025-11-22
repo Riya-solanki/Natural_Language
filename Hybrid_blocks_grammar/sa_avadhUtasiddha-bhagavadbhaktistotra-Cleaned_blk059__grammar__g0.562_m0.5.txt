@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 59 | label: grammar | g:0.562 m:0.5 ---
+
+nandīśvarasya manujasya sato atikāṣṭhaṃ kālena mṛtyum acireṇa ninīṣitasya ।
+sarvātmanā samatayā yad akāri tuṣṭyā nāścaryam etad abhavan na ca bhāvi nāsti ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3432 | label: meter | g:0.194 m:0.75 ---
+
+vīrabhojyāni rājyāni vayaṃ cāpi parājitāḥ 
+gaccha vijñāpyatāṃ kṛṣṇaḥ kaṃsasaṃskārakāraṇāt ।।

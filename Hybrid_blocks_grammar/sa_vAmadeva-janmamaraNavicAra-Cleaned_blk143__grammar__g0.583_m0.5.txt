@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 143 | label: grammar | g:0.583 m:0.5 ---
+
+tad etat vibhāgena bībhatsadarśanaṃ vairāgyamunibhir agāyi tathā cāhuḥ asthisthūṇaṃ snāyuyutaṃ māṃsaśoṇitalepanam ।।

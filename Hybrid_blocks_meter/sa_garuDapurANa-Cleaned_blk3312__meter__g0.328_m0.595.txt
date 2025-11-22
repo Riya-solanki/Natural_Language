@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3312 | label: meter | g:0.328 m:0.595 ---
+
+sarveṣāmeva śaucānāmannaśaucaṃ viśiṣyate ।
+yo annārthaiḥ śuciḥ śaucānna mṛdā vāriṇā śuciḥ ।।

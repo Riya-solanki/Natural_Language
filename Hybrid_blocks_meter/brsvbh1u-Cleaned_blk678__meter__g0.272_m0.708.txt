@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 678 | label: meter | g:0.272 m:0.708 ---
+
+iti sādhyāṃśe abhicāre atikrāntaniṣedhaṃ puruṣamāśrityāvidyāvatpuruṣāśrayatvācchāstrasyetyuktam ।
+tadidamāha-teṣāṃ sarveṣāmiti ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2713 | label: meter | g:0.194 m:0.625 ---
+
+dvijātisaṃśrayaṃ karma tādarthyaṃ tena poṣaṇam 
+krayavikrayajair vāpi dhanaiḥ kārūdbhavena vā ।।

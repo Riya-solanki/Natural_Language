@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1748 | label: meter | g:0.25 m:0.5 ---
+
+{ityeṣa mārgo viduṣāṃ vibhinno apyabhinnarūpaḥ pratibhāsate yat ।
+na tadvicitraṃ yadamutra samyagvinirmitā saṃghaṭanaiva hetuḥ ।।}

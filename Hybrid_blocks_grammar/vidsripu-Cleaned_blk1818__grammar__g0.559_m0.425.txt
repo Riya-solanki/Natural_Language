@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1818 | label: grammar | g:0.559 m:0.425 ---
+
+śailair bandhayati sma vānarahṛtair vālmīkir ambhonidhiṃ vyāsaḥ pārthaśarais tathāpi na tayor atyuktir udbhāvyate ।
+vāgarthau ca tulādhṛtāv iva tathāpy asmin nibandhān ayaṃ loko dūṣayati prasāritamukhas tubhyaṃ pratiṣṭhe namaḥ ।।
+dharmakīrteḥ

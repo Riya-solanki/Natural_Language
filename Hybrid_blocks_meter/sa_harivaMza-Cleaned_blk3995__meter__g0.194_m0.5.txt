@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3995 | label: meter | g:0.194 m:0.5 ---
+
+bhūya eva tu viprarṣe baladevasya dhīmataḥ 
+māhātmyaṃ śrotum icchāmi śeṣasya dharaṇībhṛtaḥ ।।

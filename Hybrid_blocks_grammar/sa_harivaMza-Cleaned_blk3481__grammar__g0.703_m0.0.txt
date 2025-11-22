@@ -1,0 +1,13 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3481 | label: grammar | g:0.703 m:0.0 ---
+
+tābhyāṃ te salilaṃ cakrur vṛṣṇyandhakamahārathāḥ 
+akṣayaṃ cāpi pretebhyo bhāṣamāṇāḥ pratasthire ।। 
+akṣayaṃ bhāṣamāṇaś ca pretebhyaś ca pratasthire । hiraṇyasya suvarṇasya daśa koṭīs tathā hariḥ । gāvo ratnāni vāsāṃsi grāmān nagarasaṃmatān ।। dadau kaṃsaṃ samuddiśya brāhmaṇebhyo nṛpottamaḥ । 
+tayos te salilaṃ dattvā yādavā dīnamānasāḥ 
+puraskṛtyograsenaṃ vai viviṣur mathurāṃ purīm ।। 
+sarvān svajātisaṃbandhān digbhyaḥ kaṃsabhayārditān । yaduvṛṣṇyandhakamadhu dāśārhakukurādikān ।। sabhājitān samāśvāsya videśāvāsakarśitān । nyavāsayat svageheṣu vittaiḥ saṃtarpya viśvakṛt ।। kṛṣṇasaṃkarṣaṇabhujair guptā labdhamanorathāḥ । svagṛhe remire siddhāḥ kṛṣṇarāmagatajvarāḥ ।। vīkṣanto ahar ahaḥ prītā mukundavadanāmbujam । nityapramuditaṃ śrīmān sadayasmitavīkṣaṇam । 
+sa kṛṣṇas tatra balavān rauhiṇeyena saṃgataḥ 
+mathurāṃ yādavādhīnāṃ purīṃ tāṃ sukham āvasat ।। 
+atha nandaṃ samāsādya bhagavān devakīsutaḥ । saṃkarṣaṇaś ca rājendra pariṣvajyedam ūcatuḥ ।। pitur yuvābhyāṃ snigdhābhyāṃ poṣitau lalitau bhṛśam । pitror abhyadhikā prītir ātmajeṣv ātmano api hi ।। sa pitā sā ca jananī yau puṣṇītāṃ svaputravat ।। śiśūn bandhubhir utsṛṣṭān ākalpaiḥ poṣarakṣaṇaiḥ ।। yāta yūyaṃ vrajaṃ tāta vayaṃ ca snehaduḥkhitān । jñātīn vo draṣṭum eṣyāmo vidhāya suhṛdāṃ sukham ।। evaṃ sāntvayya bhagavān sa nandavrajam acyutaḥ । vāsolaṃkārarūpāgryai rañjayām āsa sādaram ।। ity uktas tau pariṣvajya nandaḥ praṇayavihvalaḥ । pūrayann aśrubhir netre saha gopair vrajaṃ yayau । 
+prāptayauvanadehas tu yukto rājaśriyā jvalan 
+cakāra mathurāṃ vīrah sa ratnākarabhūṣaṇām ।।

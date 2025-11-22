@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2402 | label: meter | g:0.217 m:0.845 ---
+
+navaprāvṛṣi kāntānāṃ ṣaṭpadāhāradāyinām 
+yauvanasthaṃ kadambānāṃ navābhrair bhrājate vapuḥ ।।

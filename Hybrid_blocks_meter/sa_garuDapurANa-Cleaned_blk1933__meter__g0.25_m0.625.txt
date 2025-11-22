@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1933 | label: meter | g:0.25 m:0.625 ---
+
+yadācara ilāyuktastadā karmasamācaret ।
+sthānasevāṃ tathā dhyānaṃ vāṇijyaṃ rājadarśanam ।।

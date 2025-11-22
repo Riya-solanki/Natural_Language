@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3379 | label: hybrid | g:0.476 m:0.5 ---
+
+madrūpam āsthāya sṛjaty ajo yaḥ sthitau ca yo asau puruṣasvarūpī 
+rudrasvarūpeṇa ca yo atti viśvaṃ dhatte tathānantavapuḥ samastam ।।

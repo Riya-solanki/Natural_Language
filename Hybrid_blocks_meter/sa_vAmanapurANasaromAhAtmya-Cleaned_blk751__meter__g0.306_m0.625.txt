@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 751 | label: meter | g:0.306 m:0.625 ---
+
+tato gacchedanarakaṃ tīrthaṃ trailokyaviśrutam ।
+yatra pūrve sthito brahma dakṣiṇe tu maheśvaraḥ ।।

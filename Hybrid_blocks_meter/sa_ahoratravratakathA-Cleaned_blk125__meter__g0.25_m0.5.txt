@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 125 | label: meter | g:0.25 m:0.5 ---
+
+carmakāraś ca mātaṅgo niyogī rajako dhvajī ।
+etaiś ca dūrataḥ sthitvā vandanīyo jinālayaḥ ।।

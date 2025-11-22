@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2455 | label: meter | g:0.194 m:0.625 ---
+
+daśamo brahmasāvarṇir bhaviṣyati mune manuḥ 
+sudhāmāno viruddhāś ca śatasaṃkhyās tathā surāḥ ।।

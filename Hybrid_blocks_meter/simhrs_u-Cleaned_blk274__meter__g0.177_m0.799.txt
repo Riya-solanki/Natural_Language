@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 274 | label: meter | g:0.177 m:0.799 ---
+
+yathā vā-
+rati-krīḍā-dyūte katham api samāsādya samayaṃ
+mayā labdhe tasyāḥ kvaṇita-kala-kaṇṭhārdham adhare ।
+kṛta-bhrū-bhaṅgāsau prakaṭita-vilakṣārdha-rudita-
+smita-krodhodbhrāntaṃ punar api vidadhyān mayi mukham ।।

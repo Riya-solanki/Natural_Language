@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 1260 | label: grammar | g:0.599 m:0.294 ---
+
+amānināṃ yathā dharmaḥ sthitas tadvan na māninām ।
+adyāpi cen na pratītha drāk tat-patnīḥ pratīta ca ।।
+[] bhavanti ca bhavanta iva yajña-patnī-janā mat-prema-mātra-sayatna-dhanāḥ । ye khalu dhṛta-mada-nava-loka-dharmaṃ dvyaha-tarṣaṃ jalaṃ pibanti, try-ahātyāsaṃ dvitra-grāsaṃ bhuñjate ।

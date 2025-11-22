@@ -1,0 +1,4 @@
+--- source: tsc_simu-Cleaned.txt | block: 91 | label: meter | g:0.25 m:0.5 ---
+
+nityadāhyaṅgabhūtāni bhavanti na bhavanti ca ।
+kālenālakṣyavegena sūkṣmatvāt tanna gṛhyate ।। iti ।

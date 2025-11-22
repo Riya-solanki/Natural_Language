@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1092 | label: meter | g:0.181 m:0.569 ---
+
+yathā-
+soḍhāhe namateti dūta-mukhataḥ kāryopadeśāntaraṃ
+tat tādṛk samarāṅgaṇeṣu bhujayor vikrāntam avyāhatam ।
+bhītānāṃ parirakṣaṇaṃ punar api sve sve pade sthāpanaṃ
+smāraṃ smāram arātayaḥ pulakitā recarla-siṃha-prabhoḥ ।।

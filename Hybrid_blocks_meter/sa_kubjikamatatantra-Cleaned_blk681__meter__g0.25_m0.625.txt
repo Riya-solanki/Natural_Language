@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 681 | label: meter | g:0.25 m:0.625 ---
+
+aṅgulyā tena coddiṣṭā mudrābandhe varānane 
+kaṃ śarīram iti khyātaṃ nyastā tasmin pravartate ।।

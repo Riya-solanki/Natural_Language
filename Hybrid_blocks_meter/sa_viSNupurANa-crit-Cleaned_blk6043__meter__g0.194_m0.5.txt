@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6043 | label: meter | g:0.194 m:0.5 ---
+
+ebhir anyais tathā kleśaiḥ puruṣo dvijasattamāḥ 
+nijāñ jayati vai lokān prājāpatyādikān kramāt ।।

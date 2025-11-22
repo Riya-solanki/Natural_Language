@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11859 | label: hybrid | g:0.514 m:0.5 ---
+
+bhāryādvayaṃ hyaviditvā svarūpaṃ svīkṛtya caikāṃ pravihāyaiva caikām ।
+snānādikaṃ kurute mūḍhabūddhiḥ vyarthaṃ cāhurmokṣabhogau ca naiva ।
+etatsarvaṃ yadi mithyā bhavettu tadā tvasau māṃ daśatu hyahīndraḥ ।।

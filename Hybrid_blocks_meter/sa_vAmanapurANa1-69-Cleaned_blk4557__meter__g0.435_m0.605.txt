@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4557 | label: meter | g:0.435 m:0.605 ---
+
+pulastya uvāca ।
+etanmayā puṇyatamaṃ purāṇaṃ tubhyaṃ tathā nārada kīrtitaṃ vai ।
+śrutvā ca kīrtyā parayā sameto bhaktyā ca viṣṇoḥ padamabhyupaiti ।।

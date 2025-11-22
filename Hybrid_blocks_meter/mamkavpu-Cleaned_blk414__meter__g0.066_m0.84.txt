@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 414 | label: meter | g:0.066 m:0.84 ---
+
+{kailāsālayabhālalocanarucā nirvartitālaktaka-
+vyaktiḥ pādanakhadyutirgiribhuvaḥ sā vaḥ sadā trāyatām ।
+spardhābandhasamṛddhayeva sudṛḍhaṃ rūḍhā yayā netrayoḥ
+kāntiḥ kokanadānukārasarasā sadyaḥ samutsāryate ।।}

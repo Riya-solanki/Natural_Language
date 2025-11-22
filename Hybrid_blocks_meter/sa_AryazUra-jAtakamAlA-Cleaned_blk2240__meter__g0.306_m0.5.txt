@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2240 | label: meter | g:0.306 m:0.5 ---
+
+upakṛtaṃ kila vetti na me parastadapakāramiti prakaroti yaḥ ।
+nanu viśodhya guṇaiḥ sa yaśastanuṃ dviradavṛttimabhipratipadyate ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10236 | label: meter | g:0.438 m:0.595 ---
+
+garuḍa uvāca ।
+vīryasvarūpaṃ brūhi me vāsudeva vīrye tvadīye saṃśayo me vibhāti ।
+kiṃ vīryamīśasya svarūpabhūtaṃ kiṃ vā vibhinnaṃ vada sādhu vetsi ।।

@@ -1,0 +1,4 @@
+--- source: brssbh3u-Cleaned.txt | block: 353 | label: meter | g:0.25 m:1.0 ---
+
+puruṣavidho narākāraḥ ।
+ātmā hiraṇyagarbhaḥ ।

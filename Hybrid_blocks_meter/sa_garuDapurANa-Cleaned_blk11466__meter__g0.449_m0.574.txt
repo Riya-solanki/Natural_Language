@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11466 | label: meter | g:0.449 m:0.574 ---
+
+iti kṛṣṇavacaḥ śrutvā tārkṣyaḥ kṛṣṇamuvācaha kathamāsvādanaṃ cakruretadvistīryame vada ।
+śrīkṛṣṇa uvāca ।
+bho śrīnivāsa tava nāmaiva caitannāma svāmī nanu nāmaiva svāmī ।
+yāṃ brahmādyā āśrayantītti yasmāttasmādramā śrīriti nāma cāpa ।।

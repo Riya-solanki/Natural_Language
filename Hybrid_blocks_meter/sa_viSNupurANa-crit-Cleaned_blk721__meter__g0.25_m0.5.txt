@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 721 | label: meter | g:0.25 m:0.5 ---
+
+tvadbhaktipravaṇaṃ hy etat parameśvara me manaḥ 
+stotuṃ pravṛttaṃ tvatpādau tatra prajñāṃ prayaccha me ।।

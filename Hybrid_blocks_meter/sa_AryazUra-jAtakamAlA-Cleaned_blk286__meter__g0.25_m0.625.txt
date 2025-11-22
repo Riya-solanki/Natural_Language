@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 286 | label: meter | g:0.25 m:0.625 ---
+
+samudvahandhīragatiḥ samīraṇaḥ sugandhi nānādrumapuṣpajaṃ rajaḥ ।
+mudā praviddhairavibhaktabhaktibhistamarcayāmāsa kṛśāṃśukairiva ।।

@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 49 | label: grammar | g:0.583 m:0.5 ---
+
+abhimānaḥ katamaḥ । aprāpta uttare viśeṣādhigame prāpto mayeti cintayato yā cittasyonnatiḥ ।।

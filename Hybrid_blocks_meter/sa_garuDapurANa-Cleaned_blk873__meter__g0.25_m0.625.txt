@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 873 | label: meter | g:0.25 m:0.625 ---
+
+idaṃ ca yaḥ paṭhedrudra pañcatattvārcanaṃ naraḥ ।
+śṛṇuyācchravāyedvāpi viṣṇulokaṃ sa gacchati ।।

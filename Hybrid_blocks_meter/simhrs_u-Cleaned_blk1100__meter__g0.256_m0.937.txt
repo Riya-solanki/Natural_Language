@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 1100 | label: meter | g:0.256 m:0.937 ---
+
+atha bībhatsaḥ-
+vibhāvair anubhāvaiś ca svocitair vyabhicāribhiḥ । 
+jugupsā poṣam āpannā bībhatsatvena rasyate ।।
+atra glāni-śramonmāda-mohāpasmāra-dīnatāḥ । 
+viṣāda-cāpalāvega-jāḍyādyā vyabhicāriṇaḥ ।
+sveda-romāñca-nāmāgra-cchādanādyāś ca vikriyāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3716 | label: meter | g:0.306 m:0.5 ---
+
+gṛhāṇārghyaṃ śaśāṅkeśa rohiṇyā sahito mama ।
+śriyai ca vasude vāya nandāya ca balāya ca ।।

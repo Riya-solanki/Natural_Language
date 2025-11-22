@@ -1,0 +1,11 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 4 | label: meter | g:0.319 m:0.578 ---
+
+tan nāma lakṣaṇam ucyate yena tadvyatiriktebhyas tasya svarūpaṃ vyāvṛttākāraṃ nirūpyate ।
+na caivaṃ pramāṇādilakṣaṇam uktam ।
+anumānādīni tāvan naiva sūtritāni ।
+pratyakṣam api dharmaṃ praty animittatvenopanyastaṃ na lakṣyatveneti vyākhyātam ।
+na ca śabdo api dharmapramāṇabhūtaḥ kaścil lakṣitaḥ, asminn evādhikaraṇe tasya lakṣyamāṇatvāt ।
+yad api vṛttikāreṇa sarveṣāṃ lakṣaṇaṃ pradarśitaṃ na tad adhyāyārthatvenopasaṃhartuṃ yuktam ।
+sūtrādhyāyārthānupasaṃhārāt ।
+kathaṃ ca samastalakṣaṇārthavyatirikta evārthe sūtrāṇi kṣīyeran ।
+api ca

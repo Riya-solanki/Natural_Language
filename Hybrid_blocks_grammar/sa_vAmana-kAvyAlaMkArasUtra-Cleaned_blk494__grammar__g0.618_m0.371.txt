@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 494 | label: grammar | g:0.618 m:0.371 ---
+
+ityatra mandaṃ mandam ityaprakārārthe bhavati । prakārārthatve tu prakāre guṇavacanasya iti dvirvacane kṛte karmadhārayavadbhāve ca mandamandamiti prayogaḥ । mandaṃ mandamityatra tu nityavīpsayoḥ iti dvirvacanam । anekabhāgātmakasya nuderyadā sarve bhāvā mandatvena vyāptuymiṣṭā bhavanti tadā vīpseti ।।
+na nidrādrugiti, bhaṣbhāvaprāpteḥ ।।
+nidrādrukkādraveyacchaviruparilasaddhargharo vārivāhaḥ

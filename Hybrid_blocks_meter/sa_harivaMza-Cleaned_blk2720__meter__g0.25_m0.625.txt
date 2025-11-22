@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2720 | label: meter | g:0.25 m:0.625 ---
+
+na meghānāṃ pravṛṣṭānāṃ na śailasyāśmavarṣiṇaḥ 
+vāyoś ca ghūrṇamānasya vidyutāṃ bhramatām api । 
+viṣṇutejobhibhūtānām adṛśyanta vapūṃṣi ca । 
+vividus te janā rūpaṃ vāyos tasya ca garjataḥ ।।

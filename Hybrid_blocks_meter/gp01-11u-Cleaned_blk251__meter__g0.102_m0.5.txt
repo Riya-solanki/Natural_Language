@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 251 | label: meter | g:0.102 m:0.5 ---
+
+[] punaś ca kamala-locanaṃ vilocantāv ūcatuḥ,
+"rohiṇy-udyad-vidhuḥ pakṣa iva kṛṣṇaḥ sva-janmanaḥ ।
+so' yaṃ yaśodānandaḥ san yaśodānanda-nandanaḥ ।। [anuṣṭubh]

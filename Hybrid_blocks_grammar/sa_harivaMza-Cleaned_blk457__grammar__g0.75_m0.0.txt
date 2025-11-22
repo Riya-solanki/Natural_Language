@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 457 | label: grammar | g:0.75 m:0.0 ---
+
+dārāṃs tu tasya viṣaye viśvāmitro mahātapāḥ 
+saṃnyasya sāgarānūpe cacāra vipulaṃ tapaḥ ।। 
+etasminn eva samaye viśvāmitrasya vai sutāḥ । catvāro vedavidvāṃsaḥ kṣudhayā paripīḍitāḥ ।। viśvāmitre gate dūraṃ tapase atimahātmani । procuḥ prāñjalayaḥ sarve mātaraṃ prati bhārata ।। vikrīya tanayaṃ mātar jīvyatāṃ yadi rocate । mariṣyāmo anyathā sarve kṣudhayā paripīḍitāḥ । vikrīya tanayaṃ jīva yāvadāgamanaṃ pituḥ ।। sarvanāśe samutpanne ardhaṃ tyajati mānavaḥ । ardhena kurute kāryam iti paurātanī śrutiḥ ।। tyajed ekaṃ kulasyārthaṃ grāmasyārthaṃ kulaṃ tyajet । grāmaṃ janapadasyārthaṃ ātmārthaṃ sakalaṃ tyajet ।। tasmād vikrīya tanayān mātar jīva yathāsukham । anyathā nidhanaṃ sarve gamiṣyāmas tvayā saha ।। ayodhyāyāṃ mahātmāno dhyānavanto mahattarāḥ । gṛhvanti manujāḥ sarve dāsārthaṃ samupāgatān ।। tasmād vikrīya māṃ mātaḥ pūrvaṃ bhakṣaya pūrvajam । paścād vikrīya tāṃ sarvān no ced varṣati vāsavaḥ । 
+tasya patnī gale baddhvā madhyamaṃ putram aurasam 
+śeṣasya bharaṇārthāya vyakrīṇād gośatena vai ।।

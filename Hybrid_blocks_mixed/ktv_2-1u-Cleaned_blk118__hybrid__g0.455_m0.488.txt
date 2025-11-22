@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 118 | label: hybrid | g:0.455 m:0.488 ---
+
+bhāvanāyāṃ hi svayam eva pratipuruṣaṃ sāmānyaviśeṣau bhavataḥ ।
+tathā tatkaraṇabhūte yāgādau samavetaṃ bhāvanākaraṇāṃśāpekṣitaṃ dhātvarthasāmānyaṃ nāma yat karmaśabdenābhi-

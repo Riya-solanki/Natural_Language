@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 616 | label: meter | g:0.194 m:0.75 ---
+
+pratyakṣaṃ bhūpatis tasyāḥ surucyā nābhyanandata 
+praṇayenāgataṃ putram utsaṅgārohaṇotsukam ।।

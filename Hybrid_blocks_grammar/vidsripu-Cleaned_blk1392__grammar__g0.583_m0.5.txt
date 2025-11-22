@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1392 | label: grammar | g:0.583 m:0.5 ---
+
+adhvaśramāya caraṇau virahāya dārā abhyarthanāya vacanaṃ ca vapur jarāyai ।
+etāni me vidadhatas tava sarvadaiva dhātas trapā yadi na kiṃ na pariśramo api ।।

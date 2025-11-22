@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 695 | label: meter | g:0.25 m:0.5 ---
+
+rāṣṭrasyecchasi cet svasti prāṇānāṃ vā kulasya vā 
+śāsane mama tiṣṭhasva na hi te śāntir anyathā ।।

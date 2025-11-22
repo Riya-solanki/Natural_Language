@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1145 | label: meter | g:0.316 m:0.5 ---
+
+yāvanna bhūyo nijamāvrajāmi mahāśramaṃ dhautavapuḥ sutīrthāt ।
+tvayā na tāvattviha vardhitavyaṃ no ced viśapsye ahamavajñayā te ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 145 | label: meter | g:0.401 m:0.747 ---
+
+viṣayāpacayānupātinīnām aparimlānasukhāmṛtapradānām ।
+chalitaḥ puruṣaḥ prasaṅgadoṣair na ca saṃvetti nirāmiṣaṃ ratīnām ।।

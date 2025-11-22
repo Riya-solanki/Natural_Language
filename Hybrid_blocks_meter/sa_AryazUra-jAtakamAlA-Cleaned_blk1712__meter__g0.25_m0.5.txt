@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1712 | label: meter | g:0.25 m:0.5 ---
+
+taddarśito ayaṃ guṇadoṣayoste mayā prabhāvaḥ prathitaprabhāva ।
+dharmeṇa tasmādanuśādhi rājyaṃ strīcañcalapremaguṇā hi lakṣmīḥ ।।

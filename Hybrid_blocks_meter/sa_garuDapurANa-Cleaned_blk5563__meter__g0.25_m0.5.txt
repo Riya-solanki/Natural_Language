@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5563 | label: meter | g:0.25 m:0.5 ---
+
+pītaṃ dharattūpuṣpañca sīsakañca palaṃ matam ।
+lāṅgalikāyāḥ śākhā ca svarṇañca dahanādbhavet ।।

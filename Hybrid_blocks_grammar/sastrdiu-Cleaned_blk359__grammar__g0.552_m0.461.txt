@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 359 | label: grammar | g:0.552 m:0.461 ---
+
+syādevaṃ yadyasaṃbandhaḥ śabdārthayoḥ, asti tu saṃbandhaḥ pratyāyya ityayameva saṃbandho bhaviṣyati ।
+yaccendriyaliṅgādivatsaṃnikarṣavyāptyādisaṃbandhānapekṣamarthapratipādanam idamevābhidhānamityucyate, tadeva ca saṃjñāsaṃjñitvaṃ, tenocyate saṃjñāsaṃjñilakṣaṇaḥ saṃbandha iti ।।

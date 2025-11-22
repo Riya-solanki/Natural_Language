@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1902 | label: meter | g:0.296 m:0.822 ---
+
+artha-śṛṅgāraḥ-
+yatra kāmena sambaddhair arthair arthānubandhibhiḥ । 
+bhujyamānaiḥ sukha-prāptir artha-śṛṅgāra īritaḥ ।।
+sārvabhauma-phala-prāpti-hetunā vatsa-bhūpateḥ । 
+ratnāvalyā samaṃ bhogo vijñeyā tad udāhṛtiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4349 | label: meter | g:0.25 m:0.5 ---
+
+sutanuś ca narācī ca śaurer āstāṃ parigrahaḥ 
+pauṇḍraś ca kapilaś caiva vāsudevasya tau sutau ।।

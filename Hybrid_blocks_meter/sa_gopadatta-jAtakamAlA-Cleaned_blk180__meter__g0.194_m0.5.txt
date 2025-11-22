@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 180 | label: meter | g:0.194 m:0.5 ---
+
+jāte putre bhavanti pramuditahṛdayā mātaro jīvaloke
+dṛṣṭvā vaṃśasya lakṣmīm anuparatarasām unmiṣantīṃ samantāt ।
+ānandāndolitānāṃ bhavati sa divaso bāndhavānām adīrgho
+jātaḥ śokāya tu tvaṃ mama tanaya kathaṃ mandabhāgyodayāyāḥ ।।

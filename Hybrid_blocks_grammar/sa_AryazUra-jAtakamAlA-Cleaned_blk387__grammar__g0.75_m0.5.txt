@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 387 | label: grammar | g:0.75 m:0.5 ---
+
+atha śakraḥ praṇamya pradakṣiṇīkṛtya cainaṃ tatraivāntardadhe । prabhātāyāṃ ca rajanyāṃ bodhisattvaḥ śakraprabhāvopahṛtaṃ prabhūtaṃ divyamannapānaṃ dadarśa । śakropanimantraṇāhūtāni cānekāni pratyekabuddhaśatāni vyāyatābaddhaparikarāṃśca pariveṣaṇasajjānanekāṃśca devakumārān ।

@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 163 | label: grammar | g:0.727 m:0.263 ---
+
+Vṛtti:
+[tataḥ] paścād brāhme ca savane prabhāte [samidādi] samitkuśakusumāni āharet। tataśca [āvasathaprāptān] svāvasathaprāptān śaivān [liṅgaiḥ tāṃśca jñātvā] viśiṣṭaiścihnairācāryasādhakādīn brahmacārigṛhasthādīn brāhmaṇakṣatriyādīṃśca buddhvā [yathārhataḥ sampannaiḥ kārakaiḥ] yathocitāmatropakaraṇādisampattyā [parayā śraddhayā] utkṛṣṭayā bhaktyā [arcayet] sammānayet।
+liṅgāni cātra vratajātyādicihnāni vratiniyatapavitrakalājapamudrāpradarśanādīni śrīmatkāmikapauṣkarakiraṇādyāgamāmnātānīha na pradarśitāni granthavistaramātanvatīti tata eva jñeyāni।

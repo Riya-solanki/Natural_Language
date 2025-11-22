@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 3 | label: grammar | g:0.635 m:0.5 ---
+
+atītaḥ panthānaṃ tava ca mahimā vāṅmanasayor atadvyāvṛttyā yaṃ cakitam abhidhatte śrutir api ।
+sa kasya stotavyaḥ katividhaguṇaḥ kasya viṣayaḥ pade tv arvācīne patati na manaḥ kasya na vacaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10548 | label: meter | g:0.25 m:0.625 ---
+
+tulasyādiṣu jīveṣu yadi syātprītiraṇḍaja ।
+saṃsmṛtiśca tadā nāśī bhūyādeva na saṃśayaḥ ।।

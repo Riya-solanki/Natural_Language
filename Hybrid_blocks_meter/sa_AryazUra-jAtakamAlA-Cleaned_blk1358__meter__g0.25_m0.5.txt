@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1358 | label: meter | g:0.25 m:0.5 ---
+
+na citrametattvayi vā jitātmani prajāhitārthaṃ dhṛtapārthivavrate ।
+tapaḥsamādhānapare munāviva svabhāvavṛttyā hi guṇāstvayi sthitāḥ ।।

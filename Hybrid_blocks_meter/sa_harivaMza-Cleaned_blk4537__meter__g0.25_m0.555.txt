@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4537 | label: meter | g:0.25 m:0.555 ---
+
+atha parvatabhūtaṃ tat timiraṃ samapadyata 
+aśvā nāśaknuvan gantuṃ tato'haṃ saṃbhramānvitaḥ । 
+tad āsādya hayā rājan niṣprayatnās tataḥ sthitāḥ ।।

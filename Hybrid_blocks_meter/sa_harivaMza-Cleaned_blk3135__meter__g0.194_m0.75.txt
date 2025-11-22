@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3135 | label: meter | g:0.194 m:0.75 ---
+
+te ca gopāḥ samāgamya nandagopapurogamāḥ 
+akrūravacanaṃ śrutvā saṃceluḥ kaṃsaśāsanāt ।।

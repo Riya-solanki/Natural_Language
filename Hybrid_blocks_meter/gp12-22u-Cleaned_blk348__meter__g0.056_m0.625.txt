@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 348 | label: meter | g:0.056 m:0.625 ---
+
+muhur bandhu-stome tad-upacaraṇād utthita-matau
+jana-dvārā tāsāṃ harir api vimūrcchāṃ kalitavān ।
+atha vyagrībhūyāmṛtam iva muralyā mṛdu-kalaṃ
+jagau tāś ca prāpur bahir-avahitiṃ satvaratayā ।। [śikhariṇī]

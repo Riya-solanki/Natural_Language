@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3945 | label: meter | g:0.102 m:0.871 ---
+
+strīsahasrāṇi cānyāni ṣoḍaśātulavikramaḥ 
+upayeme hṛṣīkeśaḥ sarvā bheje sa tāḥ samam 
+parārdhyavastrābharaṇāḥ kāmaih sarvaiḥ samedhitaḥ ।।

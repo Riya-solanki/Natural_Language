@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 646 | label: grammar | g:0.708 m:0.5 ---
+
+atha sa rājā sutarāṃ tadguṇākṛṣṭahṛdayaḥ sa tam amātyam abravīt ।। atha kutrāmī bhagavantaḥ prativasantīti ।। sa prāha ।।

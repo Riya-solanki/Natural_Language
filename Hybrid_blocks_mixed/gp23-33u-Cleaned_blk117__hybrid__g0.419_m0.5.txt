@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 117 | label: hybrid | g:0.419 m:0.5 ---
+
+pati-putrādika-bhajanam ihādhikam iti yaṃ vadasi vicāram ।
+sa tvayy eva hi tiṣṭhatu na tu bahir iti vimṛśāmaḥ sāram ।।
+anayor artha-śleṣo' yam ubhayam eva pakṣaṃ viśeṣayati ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10450 | label: meter | g:0.307 m:0.623 ---
+
+aśaktavaddṛśyate vāyudevaḥ yugānusārāṃllokadharmāṃstu rakṣan ।
+narāvatāre tatra deve murāre hyaśaktatā neti vicaṃ tanīyam ।।

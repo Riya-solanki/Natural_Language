@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1983 | label: meter | g:0.194 m:0.5 ---
+
+tvaṃ gaccha bhārate vaṃśe svadehaṃ svena tejasā 
+ādhatsva saritāṃ nātha tyaktvemāṃ sāgarīṃ tanum ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4439 | label: meter | g:0.306 m:0.5 ---
+
+tathānyaduktaṃ narasattamena ikṣvākuṇā bhaktiyutena nūnam ।
+ye viṣṇubhaktāḥ puruṣāḥ pṛthivyāṃ yamasya te nirviṣayā bhavanti ।।

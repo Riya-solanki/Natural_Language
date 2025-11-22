@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 375 | label: grammar | g:0.729 m:0.5 ---
+
+ye caite maheśvarasyedaṃśabdasaṃketānusaṃdhānaṃ vināpi prakāśasya parāmarśasāratvād bāladaśāyām ivedamarthanirdeśyā bhāvās, te anekābhāsasāmānādhikaraṇyena svalakṣaṇātmanaḥ pṛthaksāmānyarūpatayā nānākārāś ca tathā tannirmāṇāt prathante ।।

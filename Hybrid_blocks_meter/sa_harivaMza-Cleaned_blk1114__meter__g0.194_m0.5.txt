@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1114 | label: meter | g:0.194 m:0.5 ---
+
+śataprasūtim icchan vai ruṣadguḥ so agryam ātmajam 
+citraiś citrarathas tasya putraḥ karmabhir anvitaḥ ।।

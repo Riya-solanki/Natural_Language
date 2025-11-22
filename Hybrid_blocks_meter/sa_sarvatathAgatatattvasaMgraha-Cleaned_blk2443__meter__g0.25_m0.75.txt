@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2443 | label: meter | g:0.25 m:0.75 ---
+
+maṇidaṃṣṭreti [vikhyā]tā bhayātsarvārthahāriṇī ।
+vajrabandhaṃ dṛḍhīkṛtya kuñcitāgryā suyantritā ।।

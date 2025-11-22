@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 56 | label: grammar | g:0.757 m:0.017 ---
+
+[] atra na kevalaṃ tasya dvi-varṇa-padasya vṛttāv eva rūḍhim avalambāmahe, api tu dhyāne' pi । kintu, nāyaṃ śriyo' ṅga iti śukānuvādaḥ sāmānya-lakṣmī-vijayaṃ vyanakti । lakṣmī-sahasra iti viriñci-vāṇī lakṣmī-viśeṣatvam urīkaroti, yasmād atra kuru-pāṇdava-śabdavad yathāvasaraṃ khaṇdākhaṇda-vācakatā matā । tad evaṃ sati, tatrāpi rādhā parameti
+pādma-skāndādivārāha-vimiśra-mātsye । govinda-vṛndāvana-nāma-tantre' py abhāṣi yat, tat katham anyathā syāt?
+lakṣmīr abhitaḥ stritamā gopyo lakṣmītamāḥ prathitāḥ ।
+rādhā gopitamā ced asyāḥ kā vā samā rāmā? ।। [upagīti]

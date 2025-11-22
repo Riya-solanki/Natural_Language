@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2476 | label: meter | g:0.194 m:0.625 ---
+
+upabhogaiḥ parityaktaṃ sadbhis triṣavaṇārthibhiḥ 
+ākāśād apy asaṃcāryaṃ khagair ākāśagocaraiḥ ।।

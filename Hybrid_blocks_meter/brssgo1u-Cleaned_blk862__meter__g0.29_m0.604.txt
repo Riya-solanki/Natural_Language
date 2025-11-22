@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 862 | label: meter | g:0.29 m:0.604 ---
+
+bhaveyustāvatprāṇādayaḥ pañcajanā mādhyandinānāṃ ye annaṃ prāṇādiṣvāmananti ।
+kāṇvānāṃ tu kathaṃ prāṇādayaḥ pañcajanā bhaveyurye annaṃ prāṇādiṣu nāmanantīti ।
+ata uttaraṃ paṭhati-

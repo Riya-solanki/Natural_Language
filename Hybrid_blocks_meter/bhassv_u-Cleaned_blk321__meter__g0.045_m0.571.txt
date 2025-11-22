@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 321 | label: meter | g:0.045 m:0.571 ---
+
+{rājā} - bāḍham 
+{vidūṣakaḥ} - atthi ṇaarī ujjaiṇī ṇāma 
+tahiṃ ahiaramaṇīāṇi udaahṇāṇāṇi vattanti kiḷa 
+[asti nagary ujjayinī nāma । tatrādhikaramaṇīyāny udakasnānāni vartante kila । ]

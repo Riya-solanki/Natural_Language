@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9883 | label: meter | g:0.25 m:0.594 ---
+
+dānadharmavihīnānāṃ kṛpaṇairjīvetakṣitaiḥ ।
+asthireṇa śarīreṇa sthiraṃ karma samācaret ।।
+avaśyameva yāsyanti prāṇāḥ prāghuṇi kā iva ।।
+itīdamuktaṃ tava pakṣirāja viḍambanaṃ jantugaṇasya sarvam ।
+pretasya mokṣāya tadauddhvandaihikaṃ hitāya lokasya carecchubhāya tu ।।

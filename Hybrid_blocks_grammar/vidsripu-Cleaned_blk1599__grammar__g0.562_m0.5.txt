@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1599 | label: grammar | g:0.562 m:0.5 ---
+
+dhig vṛddhatāṃ viṣalatām iva dhik tathāpi vāmabhruvām upari saspṛhatām atanvīm ।
+ko atrāparādhyati vidhiś ca śaṭhaḥ kuṭhāra- yogyaḥ kaṭhorahṛdayaḥ kusumāyudhaś ca ।।

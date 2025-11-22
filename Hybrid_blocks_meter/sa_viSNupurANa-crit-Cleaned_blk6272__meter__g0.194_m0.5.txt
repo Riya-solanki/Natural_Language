@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6272 | label: meter | g:0.194 m:0.5 ---
+
+prāyaścittaṃ sa cet pṛṣṭo vadiṣyati ripur mama 
+tataś cāvikalo yāgo muniśreṣṭha bhaviṣyati ।।

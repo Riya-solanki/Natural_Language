@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7850 | label: meter | g:0.25 m:0.625 ---
+
+vaiśyavṛttyā sadā jīvankuṭumbaparipālakaḥ ।
+gavāṃ śuśrūṣako nityaṃ brāhmaṇānāñca pūjakaḥ ।।

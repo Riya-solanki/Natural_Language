@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2815 | label: meter | g:0.25 m:0.5 ---
+
+niṣpāditāṅghriśaucas tu pādāv abhyukṣya vai punaḥ 
+triḥ pibet salilaṃ tena tathā dviḥ parimārjayet ।।

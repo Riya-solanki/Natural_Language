@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 113 | label: hybrid | g:0.465 m:0.5 ---
+
+buddhaṃ subhūti paripṛcchati vādicandraṃ kyantantarāyu bhaviṣyanti guṇe ratānām 
+bahu antarāyu bhaviṣyanti bhaṇāti śāsta tatu alpamātra parikīrtayiṣyāmi tāvat ।।

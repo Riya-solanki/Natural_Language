@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 733 | label: meter | g:0.194 m:0.75 ---
+
+jātā vyādhā daśārṇeṣu sapta dharmavicakṣaṇāḥ 
+svadharmaniratāḥ sarve lobhānṛtavivarjitāḥ ।।

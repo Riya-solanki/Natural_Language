@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 137 | label: meter | g:0.194 m:0.521 ---
+
+{oṇṇiddaṃ dobballaṃ cintā alasattaṇaṃ saṇīsasiaṃ ।
+maha mandabhāiṇīe keraṃ sahi tuha vi ahaha parihavai ।।}
+[aunnidryaṃ daurbalyaṃ cintālasatvaṃ saniścasitam ।
+mama mandabhāginyāḥ krṭe sakhi tvāmapyahaha paribhavati ।।]

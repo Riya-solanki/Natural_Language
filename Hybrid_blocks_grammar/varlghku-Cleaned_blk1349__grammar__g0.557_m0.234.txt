@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1349 | label: grammar | g:0.557 m:0.234 ---
+
+vā bahūnāṃ jātiparipraśne ḍatamac ।।
+jātiparipraśna iti pratyākhyātamākare । bahūnāṃ madhye ekasya nirdhāraṇe ḍatamajvā syāt । katamo bhavatāṃ kaṭhaḥ । tatamaḥ । vāgrahaṇamakajartham । yakaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7255 | label: meter | g:0.306 m:0.5 ---
+
+sapiṇḍanaṃ kimarthaṃ ca pūrṇe saṃvatsare api vā ।
+pretasya melanaṃ keṣāṃ kiṃvidhaṃ tatra kārayet ।।

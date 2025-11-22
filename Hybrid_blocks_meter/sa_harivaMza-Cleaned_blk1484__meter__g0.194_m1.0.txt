@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1484 | label: meter | g:0.194 m:1.0 ---
+
+vipracittisutaḥ śvetaḥ śvetakuṇḍalabhūṣaṇaḥ 
+śvetaśailapratīkāśo yuddhāyābhimukhaḥ sthitaḥ ।।

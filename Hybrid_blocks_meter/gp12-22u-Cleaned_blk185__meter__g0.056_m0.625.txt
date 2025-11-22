@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 185 | label: meter | g:0.056 m:0.625 ---
+
+rājyaṃ samyag upetya kṛṣṇa-vapuṣi trailokya-lakṣmī-maye
+krīḍābhir laghu nirgamayya samayān audārya-paryākulam ।
+pātrāya svayam āgatāya guṇitāvāsāya sad-vedine
+kaiśorāya nijaṃ pradāya viṣayaṃ paugaṇḍam antardadhe ।। [śārdūlavikrīḍitam]

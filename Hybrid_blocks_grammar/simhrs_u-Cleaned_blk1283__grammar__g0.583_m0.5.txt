@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1283 | label: grammar | g:0.583 m:0.5 ---
+
+jāmadagnyaḥ sādhu re kṣatriya-ḍimbha, sādhu । ity antena bhārgava-rāghavayor ukti-pratyukti-kathanāt pragamanam ।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1632 | label: grammar | g:0.552 m:0.5 ---
+
+rāme rudraśarāsanaṃ tulayati smitvā sthitaṃ pārthivaiḥ siñjāsañjanatatpare avahasitaṃ dattvā mithas tālikāḥ ।
+āropya pracalāṅgulīkiśalaye mlānaṃ guṇāsphālane sphārākarṣaṇabhagnaparvaṇi punaḥ siṃhāsane mūrchitam ।।

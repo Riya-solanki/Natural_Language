@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 697 | label: meter | g:0.139 m:1.0 ---
+
+avamānāḍ, yathā-
+ajñāta-pūrvā dviṣatām avajñāṃ
+vijñāpayantaṃ pratiruṣṭa-cetāḥ ।
+ājñā-haraṃ prājña-vinindya-karmā
+yajñāśi-vairī gadayā jaghāna ।।

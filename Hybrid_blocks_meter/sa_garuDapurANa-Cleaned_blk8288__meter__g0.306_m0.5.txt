@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8288 | label: meter | g:0.306 m:0.5 ---
+
+śubhaṃ vā yadi vā pāpaṃ bhuṅkte sarvatra mānavaḥ ।
+yadanastamite sūrye na dattaṃ dhanamarthinām ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5944 | label: hybrid | g:0.5 m:0.5 ---
+
+śunaḥ sthāne vṛṣaṃ dṛṣṭvā rogī rogādvi mucyate ।
+śunaḥ sthāne kharaṃ dṛṣṭvā kalahasya bhayaṃ bhavet ।।

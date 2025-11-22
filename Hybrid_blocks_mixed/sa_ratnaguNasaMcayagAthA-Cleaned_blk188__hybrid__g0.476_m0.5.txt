@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 188 | label: hybrid | g:0.476 m:0.5 ---
+
+kāntāramārgi durabhikṣi savyādhi lokāṃ paśyitva nāsti bhaya uttari saṃnahante 
+aparāntakoṭi sada yukta prajānamāno aṇumātra kheda manaso na upādiyāti ।।

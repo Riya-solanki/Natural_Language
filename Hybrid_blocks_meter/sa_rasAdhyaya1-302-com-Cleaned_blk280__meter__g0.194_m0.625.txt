@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 280 | label: meter | g:0.194 m:0.625 ---
+
+bījīny arūṣkarasyāpi sarva ete niyāmikāḥ 
+etāḥ samastā vyastā vā deyā saptadaśādhikāḥ ।।

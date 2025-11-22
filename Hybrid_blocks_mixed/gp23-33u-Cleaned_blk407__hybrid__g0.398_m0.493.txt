@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 407 | label: hybrid | g:0.398 m:0.493 ---
+
+evaṃ vicitra-vikrīḍaḥ putras te goṣṭha-nāyaka ।
+taṃ krodha-vahnau ḍhuṇḍhāgre yakṣor abhraṃ jahāva yaḥ ।।
+[] athātra rātri-kathāyāṃ madhukaṇṭhas tāṃ horikā-kathām eva viśeṣataḥ sevayāmāsa ।

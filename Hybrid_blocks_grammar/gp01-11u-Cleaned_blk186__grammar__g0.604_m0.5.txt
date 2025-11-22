@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 186 | label: grammar | g:0.604 m:0.5 ---
+
+[] atha tayāpi tathādiṣṭā śiṣṭāṅganā-gaṇa-gaṇeya-guṇā śiro namayitvā sakhīṣu tirobhūya tat-kālam eva cacāla ।

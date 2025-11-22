@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4647 | label: meter | g:0.25 m:0.5 ---
+
+uṣe śīghraṃ tvam apy evaṃ bhartrā saha ramiṣyasi 
+yathā devo mayā sārdhaṃ śaṃkaraḥ śatrusūdanaḥ ।।

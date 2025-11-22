@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11992 | label: meter | g:0.25 m:0.583 ---
+
+pūrtiryadā kriyate karmaṇāṃ ca samyak smaredvāsudevaṃ hariṃ ca ।
+evaṃ kṛtāni karmāṇi hariprītikarāṇi ca ।।
+samyak prakurvannetāni puṣkaro harivallabhaḥ ।।
+etasmādeva pakṣīśa karma yatsamudāhṛtam puṣkarākhyānamatulaṃ śṛṇoti śraddhayānvitaḥ ।
+hariprītikare dharme prītiyukto bhavetsadā ।।

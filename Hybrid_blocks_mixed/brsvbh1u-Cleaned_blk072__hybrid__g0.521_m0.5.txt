@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 72 | label: hybrid | g:0.521 m:0.5 ---
+
+-yathā iha ghaṭo nāstītyādau kevalabhūtalādhikaraṇasvarūpatvaṃ ghaṭābhāvasya, anyathā nirūpayitumaśakyatvāt ।
+tathā jalarūpeṇa marīcīnāmasattvaṃ yat tanmarīcaya eva, tadetadabhipretyoktam-kayācittu vyapekṣayeti ।

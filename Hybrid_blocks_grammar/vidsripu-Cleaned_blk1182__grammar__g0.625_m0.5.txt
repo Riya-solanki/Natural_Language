@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1182 | label: grammar | g:0.625 m:0.5 ---
+
+ājñām eva muner nidhāya śirasā vindhyācala sthīyatām atyuccaiḥ padam icchatā punar iyaṃ no laṅghanīyā tvayā ।
+mainākādimahīdhralabdhavasatiṃ yaḥ pītavān ambudhiṃ tasya tvāṃ gilataḥ kapolamilanakleśo api kiṃ jāyate ।।

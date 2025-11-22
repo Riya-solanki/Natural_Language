@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3236 | label: meter | g:0.25 m:0.5 ---
+
+andhā hi rājā bhavati yastu sāstravivarjitaḥ ।
+andhaḥ paśyati cāreṇa śāstrahīno na paśyati ।।

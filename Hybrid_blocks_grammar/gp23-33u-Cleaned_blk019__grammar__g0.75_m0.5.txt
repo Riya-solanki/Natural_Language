@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 19 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ rādhā-sudhā-durbhikṣāditas titikṣām abhajan sa punar veṇu-śikṣā-bhikṣam eva kevalāṃ sevate sma, yatra varṣā api tarṣākaratayā vyatīyuḥ, samṛddha-gardhanatayā śarad apy ardhaṃ vardhate sma ।

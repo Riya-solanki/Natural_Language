@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1959 | label: meter | g:0.194 m:0.625 ---
+
+kulālacakranābhis tu yathā tatraiva vartate 
+dhruvas tathā hi maitreya tatraiva parivartate ।।

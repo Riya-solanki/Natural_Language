@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 812 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra yā khalu rāsa-yoge yoga-māyām upāśritaḥ [BhP ] ity anena nitya-vyakti-svarūpa-śakti-vṛtti-viśeṣakā yā yogamāyā tan-nirvāhakatayā bādarāyaṇinā samudīritā, sā punar aham eva । tatra tena rāsaṃ prakāśaṃ parīkṣit-pariṣadi varṇayitvā tatra prāptam avarṇa-tritayaṃ nirasya rasyatayā samāhitam । tathā samprati vraje' pi tat-prasaktam iti jñātvā mayāpi samādheyam । tatra tejīyasāṃ na doṣāya [BhP ] itivad atrāpi yadyapi narakād ānītā ity ādinā tal-lepa-sambhāvanāpayāpitaiva ।

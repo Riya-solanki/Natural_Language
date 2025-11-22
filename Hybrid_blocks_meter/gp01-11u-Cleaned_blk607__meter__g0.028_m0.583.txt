@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 607 | label: meter | g:0.028 m:0.583 ---
+
+[] cetasi cedaṃ viviktavān,
+arbhāsṛg-bhug ajani yat purā yad arvāg-
+dhātrī cābhavad iyam atra nanda-sūnoḥ ।
+tat kvādhaspadam atha tac-chiraspadaṃ vā
+kvety antar-hṛdi vimṛśan bhṛśaṃ bhramāmi ।। [praharṣiṇī]

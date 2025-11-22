@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4601 | label: meter | g:0.194 m:0.5 ---
+
+yathā samastabhūteṣu nabho agniḥ pṛthivī jalam 
+vāyuś cātmā tathaivāsau vyāpya sarvam avasthitaḥ ।।

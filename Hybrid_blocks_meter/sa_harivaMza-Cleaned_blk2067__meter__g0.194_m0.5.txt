@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2067 | label: meter | g:0.194 m:0.5 ---
+
+chittvā vanaṃ sa saumitrir niveśam abhirocayat 
+bhavāya tasya deśasya purīṃ paramadharmavit ।।

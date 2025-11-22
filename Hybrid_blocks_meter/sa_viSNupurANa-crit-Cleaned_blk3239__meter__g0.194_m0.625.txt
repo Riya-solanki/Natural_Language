@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3239 | label: meter | g:0.194 m:0.625 ---
+
+prāyaścittena mahatā śuddhiṃ prāpnoty anāpadi 
+pakṣaṃ nityakriyāhāneḥ kartā maitreya mānavaḥ ।।

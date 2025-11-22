@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 816 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha yakṣam apy ādidesa, nijaṃ rājānam idaṃ sandiśa-[] muhuḥ kopito' pi so' pi bhavāṃs tasmād bhayam iva bhāvayan vartata ity avadhārayata eva mamādhikaḥ krodhas tatra vardhate sma । yadi tad api tathyaṃ syāt tadā vayaṃ yāthātathyam eva prathayiṣyāmaḥ śatamanyoḥ sahasrākṣasya śatakoṭi-hastasya mamāpi kaḥ khalu khalatayānabhīpsitaṃ kurvīta? api ca-

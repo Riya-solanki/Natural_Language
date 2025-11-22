@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10995 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ trirūpaṃ vijñeyaṃ vāṇyāśca khagasattama ।
+vakṣye avatārān bhāratyāḥ samāhitamanāḥ śṛṇu ।।

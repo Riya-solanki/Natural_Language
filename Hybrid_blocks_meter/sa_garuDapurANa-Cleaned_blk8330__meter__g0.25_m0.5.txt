@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8330 | label: meter | g:0.25 m:0.5 ---
+
+ekā caikasya dātavyā śayyā kanyā payasvinī ।
+sā vikrītā vā dahatyāsaptamaṃ kulam ।।

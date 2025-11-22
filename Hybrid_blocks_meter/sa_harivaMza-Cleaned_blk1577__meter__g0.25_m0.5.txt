@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1577 | label: meter | g:0.25 m:0.5 ---
+
+nāsti yogaṃ vinā siddhir nāsti siddhiṃ vinā yaśaḥ 
+nāsti loke yaśomūlaṃ brahmacaryāt paraṃ tapaḥ ।।

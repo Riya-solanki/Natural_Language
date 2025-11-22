@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3696 | label: meter | g:0.194 m:0.625 ---
+
+āhatya duṃdubhīn sarve sadhanajñātibāndhavāḥ 
+niryayur yādavāḥ sarve mathurām apahāya vai ।।

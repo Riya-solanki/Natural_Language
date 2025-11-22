@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1891 | label: grammar | g:0.75 m:0.5 ---
+
+bodhisattvaḥ kila anyatamasmin nāgavane puṣpaphalapallavālakṣitaśikharairalaṃkṛta iva tatra taruvarataruṇairvividhavīruttarutṛṇapihitabhūmibhāge vanarāmaṇīyakanibaddhahṛdayairanutkaṇṭhitamadhyāsyamāna iva parvatasthalairāśrayabhūte vanacarāṇāṃ gambhīravipulasalilāśayasanāthe mahatā nirvṛkṣakṣupasalilena kāntāreṇa samantatastiraskṛtajanānte mahākāya ekacaro hastī babhūva ।

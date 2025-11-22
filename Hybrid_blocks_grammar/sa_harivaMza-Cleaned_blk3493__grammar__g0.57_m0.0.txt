@@ -1,0 +1,13 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3493 | label: grammar | g:0.57 m:0.0 ---
+
+sa tu pañcajanaṃ hatvā śaṅkhaṃ lebhe janārdanaḥ 
+yaḥ sa devamanuṣyeṣu pāñcajanya iti śrutaḥ ।। 
+gatvā yamapuraṃ viṣṇuḥ krodhasaṃraktalocanaḥ । āsanasthaṃ tato viṣṇuḥ provāca yamam ūrjitam । dīyatāṃ putra ity evaṃ kāśyasāṃdīpaner iti ।। tam uvāca tato viṣṇuṃ mṛtyunā cāhṛto hare । evam uktas tadā kṛṣṇo yamenāmitavikramaḥ । aho dhārṣṭyaṃ tato mṛtyor ity uktvā dhanur ādade ।। ādāya niśitaṃ bāṇaṃ dīyatām iti cābravīt । kruddhaṃ viṣṇuṃ samājñāya dattavān kila bālakam । 
+tato vaivasvataṃ devaṃ nirjitya puruṣottamaḥ 
+āsasāda ca taṃ bālaṃ guruputraṃ tadācyutaḥ । 
+śaṅkham āpūrya govindas trāsayām āsa vai janam । 
+tato yamo abhyupāgamya vavande taṃ gadādharam । 
+kim āgamanakṛtyaṃ te kiṃ karomīti cābravīt ।। 
+tam uvācātha vai kṛṣṇo guruputraḥ pradīyatām । 
+tayos tatra tadā yuddham āsīd ghorataraṃ mahat । 
+ānināya guroḥ putraṃ ciranaṣṭaṃ yamakṣayāt ।।

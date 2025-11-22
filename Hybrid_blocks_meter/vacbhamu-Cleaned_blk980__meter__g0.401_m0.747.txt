@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 980 | label: meter | g:0.401 m:0.747 ---
+
+nābhyarthyā iha santaḥ svayaṃ pravṛttā na cetare śakyāḥ ।
+matsarapittanibandhanamacikitsyamarocakaṃ yeṣām ।।

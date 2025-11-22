@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3801 | label: meter | g:0.25 m:0.5 ---
+
+sarvam etat kariṣyāmi yat tvayābhihitaṃ prabho 
+purī tv iyaṃ janasyāsya na paryāptā bhaviṣyati ।।

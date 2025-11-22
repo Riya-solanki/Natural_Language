@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 542 | label: meter | g:0.194 m:0.5 ---
+
+tvayā ca bharataśreṣṭha vedadharmāś ca śāśvatāḥ 
+kṛtāḥ pramāṇaṃ prītiś ca mama nirvartitātulā ।।

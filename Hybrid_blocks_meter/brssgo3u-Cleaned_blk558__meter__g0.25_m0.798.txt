@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 558 | label: meter | g:0.25 m:0.798 ---
+
+naiṣa doṣaḥ ।
+aikātmyasyaivānena prakāreṇānucintyamānatvāt ।

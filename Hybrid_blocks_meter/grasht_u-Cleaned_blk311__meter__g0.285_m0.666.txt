@@ -1,0 +1,9 @@
+--- source: grasht_u-Cleaned.txt | block: 311 | label: meter | g:0.285 m:0.666 ---
+
+garbhadruti
+athavā gandhakadhūmaṃ tālakadhūmaṃ śilāhvarasakasya ।
+dattvādhomukhamūṣāṃ dīrghatamāṃ kharparasyārdhe ।।
+ūrdhvaṃ lagnā piṣṭī sudṛḍhā ca yathā tathā ca kartavyā ।
+dattvā kharparapṛṣṭhe daityendraṃ dāhayettadanu ।।
+stokaṃ stokaṃ dattvā karṣāgnau dhmāpayenmṛdā liptām ।
+garbhe dravati hi bījaṃ mriyate tathādhike dāhe ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5982 | label: meter | g:0.25 m:0.75 ---
+
+rasonaṃ saindhavaṃ vāpi takrakāñjikapoṣitam ।
+tilasaktukapiṇḍikā dadhiyuktā sasaindhavā ।
+nimbapatrayutaṃ piṇḍaṃ vraṇaśodhanaropaṇam ।।

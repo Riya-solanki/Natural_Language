@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 247 | label: grammar | g:0.667 m:0.5 ---
+
+bhavato antaracāri bhāvajātaṃ prabhuvanmukhyatayaiva pūjitaṃ tat bhavato bahir apy abhāvamātrā katham īśān bhavet samarcyate vā ।।

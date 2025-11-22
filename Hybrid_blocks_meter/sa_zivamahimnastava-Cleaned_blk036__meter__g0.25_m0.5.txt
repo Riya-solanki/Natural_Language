@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 36 | label: meter | g:0.25 m:0.5 ---
+
+maheśān nāparo devo mahimno nāparā stutiḥ ।
+aghorān nāparo mantro nāsti tattvaṃ guroḥ param ।। Smstadd

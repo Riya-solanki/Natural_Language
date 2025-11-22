@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1999 | label: meter | g:0.194 m:0.5 ---
+
+tadaiva viṣuvākhyo vai kālaḥ puṇyo abhidhīyate 
+tadā dānāni deyāni devebhyaḥ prayatātmabhiḥ ।।

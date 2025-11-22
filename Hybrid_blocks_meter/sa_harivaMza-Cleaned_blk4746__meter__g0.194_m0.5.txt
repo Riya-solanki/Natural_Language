@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4746 | label: meter | g:0.194 m:0.5 ---
+
+śaktiṃ bāṇas tataḥ kruddho ghorarūpāṃ bhayāvahām 
+jagrāha jvalitāṃ dīptāṃ ghaṇṭāmālākulāṃ raṇe ।।

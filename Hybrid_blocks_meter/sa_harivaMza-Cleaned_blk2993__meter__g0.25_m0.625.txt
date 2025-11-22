@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2993 | label: meter | g:0.25 m:0.625 ---
+
+budhena tāta dāntena nityam abhyucchritātmanā 
+dharmasya gatir anveṣyā matsyasya gatir apsv iva ।।

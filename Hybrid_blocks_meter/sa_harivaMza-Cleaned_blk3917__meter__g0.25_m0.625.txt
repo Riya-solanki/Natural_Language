@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3917 | label: meter | g:0.25 m:0.625 ---
+
+yatamānasya ciccheda dhvajaṃ cāsya mahābalaḥ 
+jahāra ca śiraḥ kāyāt sāratheś cāsya vīryavān ।।

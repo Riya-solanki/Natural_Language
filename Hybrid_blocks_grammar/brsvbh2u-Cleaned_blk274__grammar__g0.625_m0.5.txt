@@ -1,0 +1,3 @@
+--- source: brsvbh2u-Cleaned.txt | block: 274 | label: grammar | g:0.625 m:0.5 ---
+
+mā bhūtāmasya śarīrodayavyayābhyāṃ sthūlāvutpattivināśau, ākāśāderiva tu mahāsargādau tadante cotpattivināśau jīvasya bhaviṣyata iti śaṅkāntaramapanetumidamārabhyate ।

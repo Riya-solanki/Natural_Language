@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 469 | label: meter | g:0.255 m:0.5 ---
+
+kiṃ nāgo asi suro asi kinnaravaro yakṣo asi kiṃ mānuṣaḥ
+kiṃ vidyādharasainikaḥ kim asi vā daityaḥ piśāco asi vā ।
+kiṃ vākāri bhavāntareṣu bhavatā karmātiraudraṃ svayaṃ
+yasyāstivyasanaṃ duruttaram idaṃ bhujyaṃ phalaṃ krandayat ।।

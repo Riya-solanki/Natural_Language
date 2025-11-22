@@ -1,0 +1,11 @@
+--- source: vacbhamu-Cleaned.txt | block: 672 | label: meter | g:0.303 m:0.548 ---
+
+carācaravyapāśrayastu syāttadvyapadeśo bhāktastadbhāvabhāvitvāt ।
+devadattādināmadheyaṃ tāvajjīvātmano na śarīrasya, tannāmne śarīrasya śrāddhadikaraṇānupapatteḥ ।
+tanmṛto devadatto jāto devadatta iti vyapadeśasya mukhyatvaṃ manvānasya pūrvaḥ pakṣaḥ, mukhyatve śāstroktāmuṣmikasvargādiphalasaṃbandhānupapteḥ śāstravirodhāllaukikavyapadeśo bhākto vyākhyeyaḥ ।
+bhaktiśca śarīrasyotpādavināśau tatastatsaṃyoga iti ।
+jātakarmādi ca garbhabījasamudbhavajīvapāpaprakṣayārthaṃ, na tu jīvajanmajapāpakṣayārtham ।
+ata eva smaranti aevamenaḥ śamaṃ yāti bījagarbhasamudbhavam' iti ।
+tasmānna śarīrotpattivināśābhyāṃ jīvajanmavināśāviti siddham ।
+etacca laukikavyapadeśasyābhrāntimūlatvamabhyupetyādhikaraṇam ।
+uktā tvadhyāsabhāṣye asya bhrāntimūlateti ।।

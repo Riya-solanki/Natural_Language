@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 128 | label: hybrid | g:0.521 m:0.5 ---
+
+śaive siddho bhāti mūrdhnītareṣāṃ muktaḥ sṛṣṭau punar abhyeti nādhaḥ ।
+viśvān arthān svena viṣṭabhya dhāmnā sarveśānānīśitaḥ sarvadāste ।।

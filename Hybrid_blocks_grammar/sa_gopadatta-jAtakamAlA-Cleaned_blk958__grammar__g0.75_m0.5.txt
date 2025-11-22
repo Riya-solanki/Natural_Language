@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 958 | label: grammar | g:0.75 m:0.5 ---
+
+kaṇṭhopāntavirodhagadgadataraṃ kūjañ chanaiḥ pṛṣṭhato rāgād raktatarekṣaṇaḥ sacakitaṃ nirbhartsyamāno muhuḥ । śyenāyātam asaṃpradhārya dayitām anveti pārāvato rāgābhyāsakalaṅkitasya manasaḥ kā vañcanā dūrataḥ ।।

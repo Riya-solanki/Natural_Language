@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 729 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ devarājyaṃ prāṇānapi parityajya dīrgharātraṃ paripālitāni bhagavatā sattvāni । teṣviha prājñasyāghāto na yuktarūpaḥ prāgeva vipratipattiriti prāṇiṣu dayāyattenāryeṇa bhavitavyam । tathā hi dharmo ha vai rakṣati dharmacāriṇamityatrāpyunneyam । tathāgatavarṇe satkṛtya dharmaśravaṇe ceti ।

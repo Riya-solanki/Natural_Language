@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6842 | label: hybrid | g:0.5 m:0.5 ---
+
+kalau kṛta yugaṃ tasya kalistasya kṛte yuge ।
+hṛdi no yasya govindo yasya cetasi nācyutaḥ ।।

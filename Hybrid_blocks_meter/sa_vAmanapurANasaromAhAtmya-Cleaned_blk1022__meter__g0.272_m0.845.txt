@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1022 | label: meter | g:0.272 m:0.845 ---
+
+nijaghnurmantrapūtaiste kuśairvajrasamanvitaiḥ ।
+tatastvarājake loke tamasā saṃvṛte tadā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4176 | label: meter | g:0.25 m:0.625 ---
+
+mahodaye hayagrīvaṃ prayāge yogaśāyinam ।
+svayaṃbhuvaṃ madhuvate ayogandhiṃ ca puṣkare ।।

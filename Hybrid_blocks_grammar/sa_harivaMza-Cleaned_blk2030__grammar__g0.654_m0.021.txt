@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2030 | label: grammar | g:0.654 m:0.021 ---
+
+vairikelikilo vipro brāhmaḥ kalir ivāparaḥ 
+gātā caturṇāṃ vedānām udgātā prathamartvijām ।। 
+devagandharvalokānām ādivaktā mahāmuniḥ । 
+sa nārado atha brahmarṣir brahmalokacaro avyayaḥ 
+sthito devasabhāmadhye saṃrabdho viṣṇum abravīt ।। 
+svaraiś ca saptabhir viṣṇuṃ jagau vipraḥ sa nāradaḥ । ṣaḍjaṃ prathamam āvidhya ṛṣabhaṃ ca tataḥ param ।। miśrayitvā ca gāndhāraṃ tato dhaivatamadhyamau । pañcamaṃ ca tataḥ kurvan niṣādaṃ tadanantaram ।। kākalīṃ ca vimātrāṃ tu tato dve ca śrutī prabho । tisras tisras tathā rājaṃl layaiś ca saha sarvaśaḥ ।। tānatānāgaṇānāṃ ca vivicya kramaśaḥ prabhuḥ । taiś cāpi saptabhir vācyaṃ vācakaiś cāpi sarvaśaḥ । anantavīryaṃ deveśaṃ jagau brahmapuraḥsaram ।। etaiḥ saptabhir ādyeśaṃ vicinvan prabhavaṃ tathā । evaṃ samāpya geyaṃ tu vākyam etad uvāca ha । 
+aṃśāvataraṇaṃ viṣṇo yad idaṃ tridaśaiḥ kṛtam 
+kṣayāya pṛthivīndrāṇāṃ sarvam etad akāraṇam ।।

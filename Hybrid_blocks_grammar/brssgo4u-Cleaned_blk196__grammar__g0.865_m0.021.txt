@@ -1,0 +1,6 @@
+--- source: brssgo4u-Cleaned.txt | block: 196 | label: grammar | g:0.865 m:0.021 ---
+
+na tat asti yat uktaṃ parabrahmavidaḥ api dehāt asti utkrāntiḥ utkrāntipratiṣedhasya deha upādānatvāt iti ।
+yato deha upādāna eva utkrāntipratiṣedha ekeṣāṃ samāmnātṛṇāṃ spaṣṭa upalabhyate ।
+tathā hi - ārtabhāgapraśne ayatrāyaṃ puruṣo mriyata udasmātprāṇāḥ krāmantyāho neti' iti atra aneti hovāca yājñavalkyaḥ' iti anutkrāntipakṣaṃ parigṛhya na tarhi ayam anutkrānteṣu prāṇeṣu mriyata iti asyām āśaṅkāyām aatraiva samavanīyanta' iti pravilayaṃ prāṇānāṃ pratijñāya tat siddhaye asa ucchvayatyādhyātmāyatyādhmāto mṛtaḥ śete' iti saśabdaparāmṛṣṭasya prakṛtasya utkrānti avadheḥ ucchvayanādīni samāmananti ।
+dehasya ca etāni syuḥ

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 714 | label: meter | g:0.26 m:0.5 ---
+
+{idamanucitamakramaśca puṃsāṃ yadiha jarāsvapi mānmathā vikārāḥ ।
+yadapi ca na kṛtaṃ nitambinīnāṃ stanapatanāvadhi jīvitaṃ rataṃ vā ।।}

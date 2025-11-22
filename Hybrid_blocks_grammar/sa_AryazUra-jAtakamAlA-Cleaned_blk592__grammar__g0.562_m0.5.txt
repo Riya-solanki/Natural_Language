@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 592 | label: grammar | g:0.562 m:0.5 ---
+
+atha bodhisattvo yatheṣṭamidānīmitvaparisamāptārthamuktvā sānunayamanuśiṣya tanayau paricaryānukūlye pratigrahārthamabhiprasārite brāhmaṇasya pāṇau kamaṇḍalumāvarjayāmāsa ।

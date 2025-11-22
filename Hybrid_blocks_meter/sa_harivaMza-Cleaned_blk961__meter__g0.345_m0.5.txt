@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 961 | label: meter | g:0.345 m:0.5 ---
+
+ity ukto vibhunā rājā baliḥ śāntiṃ parāṃ yayau 
+tasya te tanayāḥ sarve kṣetrajāmunipuṃgavāḥ । 
+saṃbhūtā dīrghatapasaḥ sudeṣṇāyāṃ mahaujasaḥ । 
+balis tān abhiṣicye ha pañca putrān akalmaṣān ।। 
+kṛtārthaḥ so api yogātmā yogam āśritya sa prabhuḥ । 
+adhṛṣyaḥ sarvabhūtānāṃ kālāpekṣī caraty uta । 
+kālena mahatā rājan svaṃ ca sthānam upāgamat ।।

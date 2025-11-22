@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2538 | label: meter | g:0.194 m:0.625 ---
+
+dāmodaravacaḥ śrutvā rauhiṇeyo hasann iva 
+pātayaṃs tālapakvāni cālayām āsa tāṃs tarūn ।।

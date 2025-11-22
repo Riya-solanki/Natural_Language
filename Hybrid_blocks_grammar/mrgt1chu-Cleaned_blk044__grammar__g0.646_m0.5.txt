@@ -1,0 +1,3 @@
+--- source: mrgt1chu-Cleaned.txt | block: 44 | label: grammar | g:0.646 m:0.5 ---
+
+uktavaddevatāstitvaprastāvāyāyātaparameśvarapraśaṃsāharṣapravṛttānandāśruvaśād avispaṣṭagirastān bharadvājādīn dṛṣṭvā indras tān prati paraṃ tutoṣa ity evaṃ hārītamuniḥ svaśiṣyān āha ।।

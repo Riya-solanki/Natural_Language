@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 414 | label: hybrid | g:0.25 m:0.47 ---
+
+rasādidharmāntararūpeṇa rūpādibhyāṃ bhedo dravyarūpeṇa cābhedaḥ ।
+tathāvayavinaḥ svarūpeṇāvayavairabhedo avayavāntararūpeṇa tvavayavāntarairbheda ityūhanīyam ।
+tatra yathā dīrghahrasvādīnāṃ viruddhasvabhāvāmāmapyapekṣābhedādekatrāpyaviruddhaṃ pratītibalādaṅgīkriyate tathā bhedābhedayorapi draṣyavyaṃ pratītyaviśeṣāt ।।

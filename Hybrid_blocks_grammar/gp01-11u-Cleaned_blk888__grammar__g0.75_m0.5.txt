@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 888 | label: grammar | g:0.75 m:0.5 ---
+
+[] śrī-vraja-rājas tv avarātmajaṃ rāmam api samānīya tena sutena ca sārdhaṃ tayoḥ snigdha-kala-kolāhala-nidigdhaḥ sagdhim ācaritavān । tābhyāṃ mūrta-paramānanda-pūrtābhyāṃ muhūrtam ekaṃ viśramya ca samyag-īdṛg-auśīra-sukha-dhīra-cetā gavāgamana-ramya-samaye gosthānam āgamya go-dohanādi-kāryaṃ ca kārayati sma । [] udavasitād atisitāṃ sitām ānāyya tayā sahitaṃ suhitaṃ saha sa-vayobhis tanayau stana-pāna-pratinidhitayā dhāroṣṇaṃ payaḥ pāyayāmāsa ca । śikṣayāmāsa ca tatra patra-puṭī-ghaṭanām ।

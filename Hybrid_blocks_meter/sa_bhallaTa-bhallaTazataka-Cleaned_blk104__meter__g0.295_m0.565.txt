@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 104 | label: meter | g:0.295 m:0.565 ---
+
+sarvaprajāhitakṛte puruṣottamasya vāse samastavibudhaprathiteṣṭasiddhau 
+candrāṃśuvṛndavitatadyutim aty amuṣminhe kālakūṭa tava janma kathaṃ payodhau ।।

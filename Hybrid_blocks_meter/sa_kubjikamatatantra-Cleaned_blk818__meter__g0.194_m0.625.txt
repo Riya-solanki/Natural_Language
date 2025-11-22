@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 818 | label: meter | g:0.194 m:0.625 ---
+
+sādhu kubjini bhadre tvaṃ kathayataḥ śṛṇuṣva me 
+śikhā guṇakalā yasya svacchandasyāmitadyuteḥ ।।

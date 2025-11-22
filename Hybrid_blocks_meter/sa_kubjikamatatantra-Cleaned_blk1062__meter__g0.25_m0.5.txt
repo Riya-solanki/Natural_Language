@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1062 | label: meter | g:0.25 m:0.5 ---
+
+yāvat kṣubhyaty asau hastaḥ svayam eva calaty asau 
+dhāraṇād iva saṃyātaṃ yadā patati mastake ।।

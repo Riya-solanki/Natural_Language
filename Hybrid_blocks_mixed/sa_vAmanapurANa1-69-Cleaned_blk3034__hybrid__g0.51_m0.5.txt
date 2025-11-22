@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3034 | label: hybrid | g:0.51 m:0.5 ---
+
+kṛtaṃ mahat śaṅkara te aparādhaṃ mayā mahābhūtapate girīśa ।
+kāmāriṇā nirjitamānasena prasādaye tvāṃ śirasā nato asmi ।।

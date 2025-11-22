@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1259 | label: meter | g:0.25 m:0.847 ---
+
+tatraitāni nṛtyahṛdayāni bhavanti ।
+siddhya vajra ।।

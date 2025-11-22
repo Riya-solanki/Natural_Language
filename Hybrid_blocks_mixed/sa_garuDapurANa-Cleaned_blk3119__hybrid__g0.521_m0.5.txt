@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3119 | label: hybrid | g:0.521 m:0.5 ---
+
+sā bhāryā yā gṛhe dakṣā sā bhāryāyā priyaṃvadā ।
+sā bhāryā yā patiprāṇā sā bhāryā yā pativratā ।।

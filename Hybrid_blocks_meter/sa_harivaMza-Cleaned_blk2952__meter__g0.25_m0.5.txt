@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2952 | label: meter | g:0.25 m:0.5 ---
+
+kalis tvaṃ hi vināśāya mayā puṣṭo vijānatā 
+gaccha gaccha yathākāmaṃ vasudeva narādhama ।। 
+tad dattaṃ kṛpaṇaṃ piṇḍaṃ yad dattaṃ tava jānatā । 
+tac chvabhyo yadi dattaṃ syāc chreyo mama bhaviṣyati । 
+vasudeva kulasyāsya yad virodhayase bhṛśam 
+amarṣī vairaśīlaś ca sadā pāpamatiḥ śaṭhaḥ ।।

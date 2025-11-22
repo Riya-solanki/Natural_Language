@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 146 | label: meter | g:0.25 m:0.695 ---
+
+tadāsaneṣu prāṇasarvān yathāsthānaṃ hi vinyaset ।
+caturasraṃ caturdvāraṃ catustoraṇamaṇḍitam ।
+vajraratnapadmādi tu dvārapālena yojayet ।।

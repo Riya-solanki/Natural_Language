@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1655 | label: meter | g:0.306 m:0.5 ---
+
+śrīr eṣā pāṇir apy asyāḥ pārijātasya pallavaḥ ।
+kuto' nyathā sravaty eṣa sveda-cchadmāmṛta-dravaḥ ।।

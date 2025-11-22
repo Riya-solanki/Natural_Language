@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 591 | label: meter | g:0.25 m:0.625 ---
+
+yatra varṇāvaraḥ snātvā brāhmaṇyaṃ labhate naraḥ ।
+brāhmaṇaśca viśuddhatmā paraṃ padamavāpnuyāt ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 373 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam ānandita-sarva-janyu-vigata-manyuḥ parjanyaḥ sarvato dhanyaḥ svayam api bhūyaḥ sukham anubhūya cābhyāgārikatāyām abhyāgataṃ-manyaḥ śrī-govinda-padāravinda-bhajana-mātrānvitāṃ deha-yātrām abhīṣṭāṃ manyamānaḥ sarva-jyāyase jyāyase svaka-kula-tilakatāṃ dātuṃ tilakaṃ dātum iṣṭavān । śrī-vasudevādi-naradeva-gargādi-bhūdeva-kṛta-prabhāṃ sabhāṃ kṛtvā dattavāṃś ca ।

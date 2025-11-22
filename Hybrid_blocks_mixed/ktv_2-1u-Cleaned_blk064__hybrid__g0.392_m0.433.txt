@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 64 | label: hybrid | g:0.392 m:0.433 ---
+
+atha vā yadāsyotpādanābhidhāyitvam, tadaiva viśiṣṭākhyātasāmānādhikaraṇyaṃ dṛṣṭam iti tadgatasyotpādyamānam eva karma bhavatīty upapannam ।
+tena bhavatikriyā tāval labdhā ।
+tataś ca

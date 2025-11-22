@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 218 | label: meter | g:0.25 m:0.75 ---
+
+karṣe kuṇḍalikāyā vā ghṛtenābhyajya gandhakam ।
+kṣiptvādho jvālayettāvadyāvattailopamo bhavet ।।
+tailābho ḍhālyate dugdhaṃ jāyate śuddhagandhakaḥ ।
+prakāradvayasaṃśuddho'dhikṛto rasakarmaṇi ।।

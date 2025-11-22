@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5015 | label: meter | g:0.194 m:0.625 ---
+
+iti saṃcintya govindo yojanāni mahodadhim 
+yayāce dvādaśa purīṃ dvārakāṃ tatra nirmame ।।

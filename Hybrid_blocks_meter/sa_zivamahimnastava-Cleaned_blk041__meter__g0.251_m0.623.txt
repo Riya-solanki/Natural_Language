@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 41 | label: meter | g:0.251 m:0.623 ---
+
+śrīpuṣpadantamukhapaṅkajanirgatena stotreṇa kilbiṣahareṇa harapriyeṇa ।
+kaṇṭhasthitena paṭhitena gṛhasthitena samprīṇito bhavati bhūtapatir maheśaḥ ।। Smstadd

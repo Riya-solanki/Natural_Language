@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 508 | label: meter | g:0.277 m:0.51 ---
+
+yataḥ-
+jyotsnī sa didyute seva sa raṅgaḥ sva-tulādhṛtaḥ ।
+sudṛśo' mūr amūdṛśyaḥ kṛṣṇaḥ svopama eva saḥ ।।
+saundaryam iva sād-guṇyaṃ sarvordhvaṃ yatra dīvyati ।
+sādguṇyam iva saundaryaṃ rādhikā sākhilādhikā ।।

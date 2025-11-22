@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 791 | label: meter | g:0.25 m:0.5 ---
+
+aṣṭamyāṃ kṛṣṇapakṣasya caitre māsi dvijottamāḥ ।
+te paśyanti paraṃ sūkṣmaṃ yasmānnāvartate punaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 375 | label: meter | g:0.194 m:0.75 ---
+
+tasyā jātam aśeṣaṃ tu ābrahmabhuvanāntikam 
+sṛjate yena suśroṇi kāryakāraṇayogataḥ ।।

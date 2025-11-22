@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 121 | label: meter | g:0.25 m:0.625 ---
+
+bhṛṅgāśca yasyāṃ śaśikāntabhittau pralobhyamānāḥ pratibimbiteṣu ।
+āleśyayoṣidvimalānanābjeṣvīyurbhramānnaiva ca puṣpakāntaram ।।

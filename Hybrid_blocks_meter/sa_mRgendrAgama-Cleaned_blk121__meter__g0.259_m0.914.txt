@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 121 | label: meter | g:0.259 m:0.914 ---
+
+tadekaṃ sarvabhūtānām anādi nibiḍaṃ mahat 
+pratyātmasthasvakālāntāpāyiśaktisamūhavat ।।

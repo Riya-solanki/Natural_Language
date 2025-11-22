@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 466 | label: meter | g:0.25 m:0.831 ---
+
+prahlāda uvāca ।
+yadyasau durjayo deva mayā sādhyo raṇājire ।
+tatkathaṃ yatpratijñātaṃ tadasatyaṃ bhaviṣyati ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3336 | label: meter | g:0.258 m:0.667 ---
+
+saṃrajyata janaḥ sarvaḥ sotkruṣṭaninadotthitaḥ 
+sādhu vādāṃś ca mañceṣu ghoṣayanty apare janāḥ ।। 
+diviṣṭhāś ca tathā devāḥ sādhu sādhv iti cābruvan । 
+tataḥ prasvinnavadanaḥ kṛṣṇapraṇihitekṣaṇaḥ 
+nyavārayata tūryāṇi kaṃsaḥ savyena pāṇinā ।।

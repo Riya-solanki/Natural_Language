@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 234 | label: grammar | g:0.597 m:0.491 ---
+
+api ca yadi śrutabrahmaṇo bhavati sāṃsārikadharmanivṛttiḥ kasmāt punaḥ śravaṇasyopari mananādayaḥ śrūyante ? tasmātteṣāṃ vaiyarthyaprasaṅgādapi na brahmasvarūpaparā vedāntāḥ, kiṃ tvātmapratipattiviṣayakāryaparāḥ ।
+tacca kāryaṃ svātmani niyojyaṃ niyuñjānaṃ niyoga iti ca mānāntarāpūrvatayāpūrvamiti cākhyāyate ।
+na ca viṣayānuṣṭhānaṃ vinā tatsiddhiriti svasiddhyarthaṃ tadeva kāryaṃ svaviṣayasya karaṇasyātmajñānasyānuṣṭhānamākṣipati ।
+yathā ca kāryaṃ svaviṣayādhīnanirūpaṇamiti jñānena viṣeyeṇa nirūpyate, evaṃ jñānamapi svaviṣayamātmānamantareṇāśakyanirūpaṇamiti tannirūpaṇāya tādṛśamātmānamākṣipati tadeva kāryam ।
+yathāhuḥ- ayattu tatsiddhyarthamupādīyate ākṣipyate tadapi vidheyamiti tantre vyavahāraḥ' iti ।
+vidheyatā ca niyogaviṣayasya jñānasya bhāvārthatayānuṣṭheyatā; tadviṣayasya tvātmanaḥ svarūpasattāviniścitiḥ ।

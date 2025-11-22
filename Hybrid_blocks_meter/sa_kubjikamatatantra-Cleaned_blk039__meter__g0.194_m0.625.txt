@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 39 | label: meter | g:0.194 m:0.625 ---
+
+ājñāto guṇasadbhāvaṃ brūhi deva guṇodayam 
+yathā drakṣyāpitaṃ sarvam ājñādvāreṇa me akhilam ।।

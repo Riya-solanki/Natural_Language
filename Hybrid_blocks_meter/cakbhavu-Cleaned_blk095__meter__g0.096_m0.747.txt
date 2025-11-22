@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 95 | label: meter | g:0.096 m:0.747 ---
+
+bhavadbhāvarasāveśāt tāṇḍavāḍambaroddhataḥ
+mantrādhvani nadāmy antaḥ kim u bāhyārthabhāvanaiḥ

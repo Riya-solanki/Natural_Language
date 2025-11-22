@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 474 | label: hybrid | g:0.409 m:0.355 ---
+
+yattu nāsato vidyate bhāvaḥ iti vacanaṃ tadātmābhiprāyaṃ, pūrvatra hi natvevāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ ।।
+nacaiva nabhaviṣyāmaḥ sarve vayamataḥ param, ityātmanityatvaṃ

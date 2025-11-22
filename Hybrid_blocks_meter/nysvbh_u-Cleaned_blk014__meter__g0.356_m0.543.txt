@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 14 | label: meter | g:0.356 m:0.543 ---
+
+tatra vādajalpau saprayojanau, vitaṇḍā tu parikṣyate।
+vitaṇḍayā pravatāmāno vaitaṇḍikaḥ।
+sa prayojanamanuyukto yadi pratipadyate, so asya pakṣāḥ so asya siddhānta iti vaitaṇḍikatvaṃ jahāti।
+atha na pratipadyate nāyaṃ laukiko na parīkṣaka ityāpadyate।

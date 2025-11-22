@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2001 | label: meter | g:0.307 m:0.623 ---
+
+sphuṭitāgnivi śīrṇaśṛṅgadeśaṃ malavarṇaiḥ pṛṣatairupetamadhyam ।
+na hi vajrabhṛto api vajramāśu śriyamapyāśrayalālasāṃ na kuryāt ।।

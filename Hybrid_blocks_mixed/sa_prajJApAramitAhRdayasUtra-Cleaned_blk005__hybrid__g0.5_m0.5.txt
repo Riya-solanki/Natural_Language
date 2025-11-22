@@ -1,0 +1,3 @@
+--- source: sa_prajJApAramitAhRdayasUtra-Cleaned.txt | block: 5 | label: hybrid | g:0.5 m:0.5 ---
+
+iha śāriputra sarva-dharmāḥ śūnyatā-lakṣaṇā anutpannā aniruddhā amalā avimalā anūnā aparipūrṇāḥ tasmāc chāriputra śūnyatāyāṃ na rūpaṃ na vedanā na saṃjñā na saṃskārāḥ na vijñānaṃ, na cakṣuḥ-śrotra-ghrāṇa-jihvā-kāya-manāṃsi, na rūpa-śabda-gandha-rasa-spraṣṭavya-dharmāḥ, na cakṣur-dhātur yāvan na mano-vijñāna-dhātuḥ, n'āvidyā n'āvidyā-kṣayo yāvan na jarā-maraṇaṃ na jarā-maraṇa-kṣayo na duḥkha-samudaya-nirodha-mārgā na jñānaṃ na prāptir n'āprāptiḥ

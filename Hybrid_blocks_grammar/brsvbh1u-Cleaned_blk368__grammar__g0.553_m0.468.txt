@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 368 | label: grammar | g:0.553 m:0.468 ---
+
+māhavanīyādayo apyavagantavyāḥ ।
+pravṛttinivṛttiparasya śāstratvaṃ na svarūpaparasya, kārya eva ca saṃbandho na svarūpe, iti hetudvayaṃ bhāṣyavākyenopapāditam-pravṛttinivṛttiprayojanatvāt ityādinātatsāmānyādvedāntānāmapi tathaivārthavattvaṃ syāt ityantena ।
+na ca svatantraṃ kāryaṃ niyojyamadhikāriṇamanuṣṭhātāramantareṇeti niyojyabhedamāha-sati ca vidhiparatva iti ।
+abrahma veda brahmaiva bhavati'iti siddhavadarthavādādavagatasyāpi brahmabhavanasya niyojyaviśeṣākāṅkṣāyāṃ brahma bubhūṣorniyojyaviśeṣasya rātri

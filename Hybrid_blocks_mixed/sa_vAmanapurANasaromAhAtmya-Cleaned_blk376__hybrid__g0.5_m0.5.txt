@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 376 | label: hybrid | g:0.5 m:0.5 ---
+
+ye smaranti ca tīrthāni devatāḥ prīṇayanti ca ।
+snānti ca śraddadhānāśca te yānti paramāṃ gatim ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 913 | label: hybrid | g:0.373 m:0.425 ---
+
+parāvṛttā gāvas taruṣu vayasāṃ kūjati kulaṃ piśācīnāṃ cetaḥ spṛśati gṛhakṛtyapravaṇatā ।
+ayaṃ nandī saṃdhyāsamayakṛtakṛtyavyavasitis trinetrābhiprāyapratisadṛśam unmārṣṭi murajān ।।
+śitkaṇṭhasya

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3749 | label: grammar | g:0.604 m:0.0 ---
+
+athānvagacchad govindaṃ jighṛkṣur yavaneśvaraḥ 
+na cainam aśakad rājā grahītuṃ yogadharmiṇam ।। 
+hastaprāptam ivātmānaṃ hariṇā sa pade pade । nīto darśayatā dūraṃ yavaneśo adrikandaram ।। palāyanaṃ yadukule jātasya tava nocitam । iti kṣipann anugato nainaṃ prāpāhatāśubhaḥ । evaṃ kṣipto api bhagavān prāviśad girikandaram । ko hi nāma jagannāthaṃ balād yātuṃ priyād ṛte । hastaprāpta ivābhāti tasya gacchañ janārdanaḥ । 
+māndhātus tu suto rājā mucukundo mahāyaśāḥ 
+yatra tiṣṭhati rājendras tatra cāśu viveśa vai । 
+purā devāsure yuddhe kṛtakarmā mahābalaḥ ।।

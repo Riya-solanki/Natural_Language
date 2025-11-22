@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 58 | label: grammar | g:0.708 m:0.5 ---
+
+jaya deva namo namo astu te sakalaṃ viśvam idaṃ tavāśritam jagatāṃ parameśvaro bhavān paramekaḥ śaraṇāgato asmi te ।।

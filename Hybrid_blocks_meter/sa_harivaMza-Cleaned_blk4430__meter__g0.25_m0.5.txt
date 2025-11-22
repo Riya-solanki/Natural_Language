@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4430 | label: meter | g:0.25 m:0.5 ---
+
+sa mām uvācāmbucaraḥ kūrmo mānuṣavat svayam 
+kim āścaryaṃ mayi mune dhanyaś cāhaṃ kathaṃ vibho ।।

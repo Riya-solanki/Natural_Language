@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 250 | label: hybrid | g:0.25 m:0.491 ---
+
+hatvāpi māṃ na śaktas tvaṃ prajānāṃ poṣaṇe nṛpa 
+annabhūtā bhaviṣyāmi yaccha kopaṃ mahādyute ।। 
+ātmayogabalenemā dhārayiṣyāmy ahaṃ prajāḥ ।। tataḥ praṇamya vasudhā taṃ bhūyaḥ prāha pārthivam । 
+avadhyāś ca striyaḥ prāhus tiryagyonigateṣv api 
+sattveṣu pṛthivīpāla na dharmaṃ tyaktum arhasi ।।

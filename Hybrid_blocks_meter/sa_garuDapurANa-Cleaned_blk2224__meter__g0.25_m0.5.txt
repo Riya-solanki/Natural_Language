@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2224 | label: meter | g:0.25 m:0.5 ---
+
+mahā keśī ca kāverī candrabhāgā vipāśayā ।
+ekāmraṃ ca tathā tīrthaṃ brahmeśaṃ devakoṭakam ।।

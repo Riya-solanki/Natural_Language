@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 760 | label: meter | g:0.194 m:0.625 ---
+
+nṛmūtraṃ thauharaṃ dugdhaṃ tulyamekatra miśritam 
+tābhyāṃ vidhyāpayed dhmātaṃ karparaṃ ca muhurmuhuḥ ।।

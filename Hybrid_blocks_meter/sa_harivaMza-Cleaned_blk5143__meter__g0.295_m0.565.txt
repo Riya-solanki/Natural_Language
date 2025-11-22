@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5143 | label: meter | g:0.295 m:0.565 ---
+
+tesāṃ dharmābhimānānāṃ guṇeṣu parivartatām 
+svādu kiṃ nv iti vijñāya dharma eva svadiṣyati ।।

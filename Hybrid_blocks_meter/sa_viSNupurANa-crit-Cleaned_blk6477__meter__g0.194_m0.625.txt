@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6477 | label: meter | g:0.194 m:0.625 ---
+
+bhāguriḥ stambhamitrāya dadhīcāya sa coktavān 
+sārasvatāya tenoktaṃ bhṛguḥ sārasvatād api ।।

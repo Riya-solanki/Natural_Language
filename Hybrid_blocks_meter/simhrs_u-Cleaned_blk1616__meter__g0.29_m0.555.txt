@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1616 | label: meter | g:0.29 m:0.555 ---
+
+atha śobhā-
+śobhā svabhāva-prākaṭyaṃ yūnor anyonyam ucyate ।।

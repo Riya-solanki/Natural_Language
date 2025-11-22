@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 131 | label: grammar | g:0.576 m:0.445 ---
+
+gṛhītvā hṛdayaṃ śuddhaṃ vajradehavibhāvanā । dṛḍhaṃ sāramasauśīryaṃ vajrakāyaṃ sa labdhavān ।। iti । khasamā virajā vararūpadharā aśarīra alakṣaṇa prajñasutā । sugambhīraguṇodadhi kāruṇikā dada mūrdhni pāṇi mama apratimā ।। iti ।
+apratiṣṭhitanirvāṇadhātumelāvaṇasaṃśayaparicchedo aṣṭamaḥ ।।
+navamaḥ paricchedaḥ

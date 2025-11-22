@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 116 | label: grammar | g:0.625 m:0.5 ---
+
+prasīda bhagavan yena tvatpade patitaṃ sadā mano me tattadāsvādya kṣīved iva galed iva ।।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 991 | label: meter | g:0.194 m:0.75 ---
+
+sthalīvāse tuṣṭā navajalatṛṇāsvādapaṭavaḥ
+salīlaṃ kāntābhiḥ saha gamanavinyāsacaturāḥ ।
+na lokadveṣṭāro na ca na cakitā nāpi bhayadāḥ
+prayatnād vadhyante tad api hariṇā raudramatibhiḥ ।।

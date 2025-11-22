@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 111 | label: hybrid | g:0.349 m:0.34 ---
+
+kiṃpunarindriyalakṣaṇaṃ cakṣurādiṣu manasi cānusyūtam ।
+ucyate- yatsaṃprayukte viśadavabhāsaṃ vijñānaṃ janayati tadindriyamityucyate, tacca dvividham, bāhyamābhyantaraṃ ca, bāhyaṃ pañcavidhaṃ ghrāṇarasanacakṣustvakśrotrātmakam ।
+āntaraṃ tvekaṃ manaḥ ।

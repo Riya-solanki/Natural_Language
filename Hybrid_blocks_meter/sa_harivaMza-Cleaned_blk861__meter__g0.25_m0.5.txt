@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 861 | label: meter | g:0.25 m:0.5 ---
+
+satyaṃ brūhi sutaḥ kasya somasyātha bṛhaspateḥ 
+pṛcchyamānā yadā devair nāha sā sādhv asādhu vā 
+kumāro mātaraṃ prāha kupito alīkalajjayā । 
+kiṃ na vocasy asadvṛtte ātmāvadyaṃ vadāśu me । 
+tadā tāṃ śaptum ārabdhaḥ kumāro dasyuhantamaḥ ।।

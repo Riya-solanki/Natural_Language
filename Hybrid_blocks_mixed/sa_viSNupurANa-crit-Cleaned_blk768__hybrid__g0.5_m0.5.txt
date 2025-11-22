@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 768 | label: hybrid | g:0.5 m:0.5 ---
+
+dhruvo api taṃ namaskṛtya jagāma svapitur gṛham ।।

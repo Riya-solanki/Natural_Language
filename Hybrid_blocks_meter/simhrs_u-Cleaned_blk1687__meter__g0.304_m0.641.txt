@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1687 | label: meter | g:0.304 m:0.641 ---
+
+atha guṇa-kīrtanam-
+loke guṇātirikānāṃ bahūnāṃ yatra nāmabhiḥ ।
+eko' pi śabdyate tat tu vijñeyaṃ guṇa-kīrtanam ।।

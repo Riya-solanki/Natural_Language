@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1079 | label: grammar | g:0.583 m:0.5 ---
+
+apratyākalitaprabhāvavibhave sarvāśrayāmbhonidhau vāso nālpatapaḥphalaṃ yad aparaṃ doṣo ayam eko mahān ।
+śambūko api yad atra durlabhataraī ratnair anarghaiḥ saha spardhām ekanivāsakāraṇavaśād ekāntato vāñchati ।।

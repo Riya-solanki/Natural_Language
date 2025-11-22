@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5441 | label: meter | g:0.194 m:0.625 ---
+
+kanyāntaḥpuramadhye taṃ ramamāṇaṃ sahoṣayā 
+vijñāya rakṣiṇo gatvā śaśaṃsur daityabhūpateḥ ।।

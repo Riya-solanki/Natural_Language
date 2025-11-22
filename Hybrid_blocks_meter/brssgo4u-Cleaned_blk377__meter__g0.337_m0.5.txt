@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 377 | label: meter | g:0.337 m:0.5 ---
+
+evakāravanmanaseti viśeṣaṇenānyayogavyavacchedāddehādyabhāva iti pūrvapakṣayati-abhāvaṃ bādarirāha hyevam ।
+atrāpi vādivivādātsaṃśayaḥ, tatra dehādayo na santyeva sadā santyeveti ca pakṣadvayaṃ pūrvapakṣaḥ ।

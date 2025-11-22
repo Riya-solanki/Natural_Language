@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 240 | label: grammar | g:0.618 m:0.341 ---
+
+guṇanirvartyā kāvyaśobhā । tasyāścātiśayahetavo'laṅkārāḥ । tannirūpaṇārthamālaṅkārikamadhikaraṇamārabhyate । tatra śabdālaṅkārāḥ । tatra śabdālaṅkārau dvau yamakānuprāsau krameṇa darśayitumāha 
+padamanaikārthamakṣaraṃ cāvṛttaṃ sthānaniyame yamakam ।।
+padamenekārthaṃ bhinnārthamekamanekaṃ vā tadvadakṣaranāvṛttaṃ sthānaniyame sati yamakam । svavṛttyā sajātīyena vā kārtsnyaikadeśābhyāmanekapādavyāptiḥ sthānaniyama iti । yāni tvekapādabhāgavṛttīni yamakāni dṛśyante teṣu ślokāntarasthasaṃsthānayamakāpekṣayaiva sthānaniyama iti ।।

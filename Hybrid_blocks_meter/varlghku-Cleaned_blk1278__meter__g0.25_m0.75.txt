@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1278 | label: meter | g:0.25 m:0.75 ---
+
+saṃkhyāyā avayave tayap ।।
+pañca avayavā asya pañcatayam ।।

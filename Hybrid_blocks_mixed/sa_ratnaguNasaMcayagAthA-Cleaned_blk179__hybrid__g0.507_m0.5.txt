@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 179 | label: hybrid | g:0.507 m:0.5 ---
+
+ye cāpi pañca imi pāramitā jinānām ete api dharma parikīrtita nāmamātrāḥ 
+pariṇāmayāti na ca manyati bodhisattvo na ca hīyate spṛśati uttamabuddhabodhim ।।

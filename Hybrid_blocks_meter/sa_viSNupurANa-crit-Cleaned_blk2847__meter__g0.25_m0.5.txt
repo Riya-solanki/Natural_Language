@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2847 | label: meter | g:0.25 m:0.5 ---
+
+gṛhasya puruṣavyāghra digdevān api me śṛṇu ।।

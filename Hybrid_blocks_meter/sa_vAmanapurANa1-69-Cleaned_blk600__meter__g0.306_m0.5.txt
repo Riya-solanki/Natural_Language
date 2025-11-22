@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 600 | label: meter | g:0.306 m:0.5 ---
+
+tamāpatantaṃ prasamīkṣya pāśaṃ gadāṃ ca dākṣāyaṇinandanastu ।
+viveśa vegāt payasāṃ nidhānaṃ tato andhako devabalaṃ mamarda ।।

@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 69 | label: meter | g:0.25 m:0.869 ---
+
+FN anyaparatvaṃ gauṇārthakatvam ।
+vibhāgo janma ।
+yadvā tathāpītiśabdenaivoktaḥ parihāraḥ ।

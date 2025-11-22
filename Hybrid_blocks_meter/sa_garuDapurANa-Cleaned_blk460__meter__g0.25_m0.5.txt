@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 460 | label: meter | g:0.25 m:0.5 ---
+
+īśātmā paramātmā ca raudrātmā mokṣavidyatiḥ ।
+yatnavāṃśca tathā yatnaścarṃmo khaḍgī murāntakaḥ ।।

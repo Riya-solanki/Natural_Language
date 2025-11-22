@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5821 | label: meter | g:0.194 m:0.75 ---
+
+matprasādena bhartāraṃ labdhvā tu puruṣottamam 
+macchāpopahatāḥ sarvā dasyuhastaṃ gamiṣyatha ।।

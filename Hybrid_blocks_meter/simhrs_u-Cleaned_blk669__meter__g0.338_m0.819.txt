@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 669 | label: meter | g:0.338 m:0.819 ---
+
+atha cintā-
+iṣṭa-vastv-apariprāpter aiśvarya-bhraṃśanādibhiḥ । 
+cintā dhyānātmikā tasyām anubhāvā bhavanty amī ।
+kārśyādhomukhya-santāpa-niḥśvāsocchrvasanādayaḥ ।।

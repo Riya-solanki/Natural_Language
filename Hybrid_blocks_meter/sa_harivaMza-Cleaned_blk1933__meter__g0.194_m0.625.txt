@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1933 | label: meter | g:0.194 m:0.625 ---
+
+yad ahaṃ dhārayāmy ekā jagatsthāvarajaṃgamam 
+mayā dhṛtaṃ dhārayate sarvam etad gadādharaḥ ।।

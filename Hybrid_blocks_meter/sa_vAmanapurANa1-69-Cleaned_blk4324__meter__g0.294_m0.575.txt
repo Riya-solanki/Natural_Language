@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4324 | label: meter | g:0.294 m:0.575 ---
+
+baliruvāca ।
+ityevamuktvā sa niśākarastadā praṇamya mātāpitarau maharṣe ।
+jagāma puṇyaṃ sadanaṃ murāreḥ khyātaṃ badaryāśramamādyamīḍyam ।।

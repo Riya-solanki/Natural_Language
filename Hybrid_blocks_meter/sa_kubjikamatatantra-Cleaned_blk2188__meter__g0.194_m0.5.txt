@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2188 | label: meter | g:0.194 m:0.5 ---
+
+nākṣareṇa bhaven mantraṃ yogaś caiva guṇānvitaḥ 
+akṣareṇāpi mantrasya kiṃ tu tatsthānayogataḥ ।।

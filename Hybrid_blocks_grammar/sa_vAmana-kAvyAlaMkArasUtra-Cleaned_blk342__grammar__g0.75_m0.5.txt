@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 342 | label: grammar | g:0.75 m:0.5 ---
+
+ākṛṣṭāmalamaṇḍalāgrarucayaḥ saṃnaddhakṣaḥsthalāḥ soṣmāṇo vraṇitā vipakṣahṛdayapronmāthinaḥ karkaśaḥ । udvṛttā guravaśca yasya śaminaḥ śyāmāyamānānanā yodhā vāravadhūstanāśca na daduḥ kṣobhaṃ sa vo'vyājjinaḥ ।।

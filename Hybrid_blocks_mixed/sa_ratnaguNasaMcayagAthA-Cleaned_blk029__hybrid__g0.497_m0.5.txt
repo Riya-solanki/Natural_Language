@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 29 | label: hybrid | g:0.497 m:0.5 ---
+
+yasmiṃś ca kāli samaye vidu bodhisattvo evaṃ carantu anupādu vicintayitvā 
+mahatīṃ janeti karuṇāṃ na ca sattvasaṃjñā eṣā sa prajñavarapāramitāya caryā ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 298 | label: grammar | g:0.75 m:0.5 ---
+
+atra prathamārdhe kṣudra-kapi-viṣaye dayā, uttarārdhe rāma-viṣayā spardhā cendrajitaḥ pratīyate । śaurye sattva-sāraḥ । utsāhaḥ sthairyam । dakṣatā kṣipra-kāritvam । eṣāṃ nāyaka-guṇa-nirūpaṇāvasara evodāharaṇāni darśitāni ।

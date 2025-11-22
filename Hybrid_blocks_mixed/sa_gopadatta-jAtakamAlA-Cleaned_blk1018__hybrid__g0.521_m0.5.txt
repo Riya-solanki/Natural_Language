@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1018 | label: hybrid | g:0.521 m:0.5 ---
+
+sādhāraṇāni dayitaiḥ saha pelavāni āmodayanti sutarāṃ hṛdayaṃ sukhāni ।
+pīḍākarāṇi mahatāṃ samupasthitāni prākarṣikāny api sukhāni tu yautakāni ।।

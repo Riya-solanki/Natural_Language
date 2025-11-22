@@ -1,0 +1,4 @@
+--- source: mamkpb_u-Cleaned.txt | block: 111 | label: meter | g:0.25 m:0.5 ---
+
+ityādau parimṛditamṛṇālīmlānamaṅgaṃ pravṛttiḥ kathamapi parivāraprārthanābhiḥ kriyāsu ।
+kalayati ca himāṃśorniṣkalaṅkasya lakṣmī- mabhinavakaridantacchedakāntaḥ kapolaḥ ।।

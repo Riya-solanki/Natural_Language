@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 560 | label: grammar | g:0.694 m:0.5 ---
+
+[] atha vraja-vṛttam anuvṛttyatām । yathā pūrva-devānāṃ pūrva-mantraṇāyām āmantritā rākṣasa-pakṣiṇī nirdaśāna-nirdaśāṃś ca deśa-deśataḥ śāvakān bakān iva śyenī vinighnatī, kaṃsasya nighnatī vairocani-kanyā rajanyām asyāṃ vraja-pradeśa-sadeśam ājagāma; yā khalu jaṭā-ghaṭā-vighaṭita-prakaṭa-muṇḍā,
+viśaṅkaṭa-daṃṣṭrā-saṃsṛṣṭa-daṣṭa-ḍimbha-koṭi-vikaṭa-tuṇḍā netra-garta-vartamāna-vartma-loma-samuddaṇḍa-kuṇḍali-khaṇḍita-brahmāṇḍa-varti-dhairyā pakṣati-dvaya-madhya-sthita-vakṣaḥ-sthala-lambamāna-vakṣoja-yugalodgīrṇa-dugdha-miṣa-viṣa-viṣama-jvālā-sahya-bala-dahyamāna-paryantatayā yantrita-jantu-sthairyā cetyādi-mahā-ghoratāvahā, kiṃ bahunā, pratīka-mātra-prāṇi-pratīkā pṛthukān eva ca pṛthukān iva kurvatī vartate ।

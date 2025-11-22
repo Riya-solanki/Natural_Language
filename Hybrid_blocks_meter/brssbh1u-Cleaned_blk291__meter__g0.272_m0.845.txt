@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 291 | label: meter | g:0.272 m:0.845 ---
+
+FN sa iti jīvaḥ sarvanāmārthaḥ ।
+adhvanaḥ saṃsāramārgasya ।

@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 1024 | label: meter | g:0.318 m:0.684 ---
+
+avibhāgo vacanāt ।
+nimittāpāye naimittikasyātyantikāpāyaḥ ।
+avidyānimittaśca vibhāgo nāvidyāyāṃ vidyayā samūlaghātamapahatāyāṃ sāvaśeṣo bhavitumarhati ।

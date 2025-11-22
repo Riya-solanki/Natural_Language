@@ -1,0 +1,10 @@
+--- source: rasadh_u-Cleaned.txt | block: 243 | label: meter | g:0.25 m:0.677 ---
+
+mṛdu vartaya patrāṇi pātālasya gurutmanā ।
+piṇḍyāṃ piṣṭasya te ṣoṭaṃ kṣiptvā kāryo hi golakam ।।
+taṃ sarāvapuṭe kṣiptvā sandhikarpaṭamṛtsnayā ।
+veṣṭayitvā puṭaṃ deyaṃ bhūmau kukkuṭasaṃjñakam ।।
+nirdhūmairjvaladaṅgāraiḥ ṣoṭo abhūt pītavarṇakaḥ ।
+gālanīyā catuḥṣaṣṭigadyāṇāḥ śuddharūpyajāḥ ।।
+tanmadhye ṣoṭagadyāṇe kṣiptaṃ syātsvarṇamuttamam ।
+gāndhikīha drutiḥ pīṭhī catuḥṣaṣṭipravedhikā ।।

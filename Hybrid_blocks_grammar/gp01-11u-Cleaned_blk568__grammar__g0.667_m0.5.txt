@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 568 | label: grammar | g:0.667 m:0.5 ---
+
+[] madhukaṇṭha uvāca-tad evaṃ miṣataḥ sā viṣayoṣā taṃ gṛhītvā vilambaṃ hitvā cūcukopary eva tan-mukha-vāry-udbhavaṃ nidadhe ।

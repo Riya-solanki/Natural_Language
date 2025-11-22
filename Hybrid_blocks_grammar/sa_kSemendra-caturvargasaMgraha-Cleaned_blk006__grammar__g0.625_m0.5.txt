@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 6 | label: grammar | g:0.625 m:0.5 ---
+
+dharmaḥ śarma paratra ceha ca nṛṇāṃ dharmo andhakāre raviḥ sarvāpatpraśamakṣamaḥ sumanasāṃ dharmābhidhāno nidhiḥ ।
+dharmo bandhur abāndhave pṛthupathe dharmaḥ suhṛn niścalaḥ saṃsārorumarusthale suratarur nāsty eva dharmāt paraḥ ।।

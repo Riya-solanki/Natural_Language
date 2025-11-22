@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 128 | label: meter | g:0.359 m:0.578 ---
+
+vande bhujabhramitamandaramathyamāna- dugdhābdhidugdhakaṇavicchuritacchavīkam ।
+nakṣatrakarburaviyatpratirodhi ninda- dunnidrakair avataḍāgam uro murāreḥ ।।
+murāreḥ

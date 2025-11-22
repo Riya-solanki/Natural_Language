@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11193 | label: meter | g:0.306 m:0.5 ---
+
+tava dhrugbhirbhāṣaṇaṃ chindhi deva tvaṃ saṃgamaṃ dehi padāravinde ।
+śrīśailavāsāya namonamaste namonamaḥ śrīnivāsāya tubhyam ।।

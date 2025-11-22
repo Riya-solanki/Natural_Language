@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 349 | label: hybrid | g:0.211 m:0.424 ---
+
+{vidūṣakaḥ} - avihā asambhāvaṇīaṃ edaṃ ṇa 
+ā udaahṇāṇasaṅkittaṇeṇa tattahodiṃ cintaanteṇa sā siviṇe diṭṭhā bhave 
+[avihā asambhāvanīyam etad na । ā udakasnānasaṅkīrtanena tatrabhavatīṃ cintayatā sā svapne dṛṣṭā bhavet । ]

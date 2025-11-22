@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4801 | label: hybrid | g:0.444 m:0.5 ---
+
+śṛṇu kṛṣṇa vaco mahyaṃ yadi te rocate vibho 
+cirāt prabhṛti me vaktuṃ bhavantaṃ jāyate matiḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2065 | label: grammar | g:0.75 m:0.5 ---
+
+atha saudāsaḥ svenottarīyeṇa samāstīryoccaistaraṃ śilātalaṃ tatra cādhiropya bodhisattvaṃ svayamanāstaritāyamupaviśya bhūmau bodhisattvasya purastādānanodvīkṣaṇavyāpṛtanirīkṣaṇarataṃ mahāsattvamuvāca - brūhīdānīṃ mārṣeti । atha bodhisattvo navāmbhodharaninadamadhureṇa gambhīreṇāpūrayanniva tadvanaṃ vyāpinā svareṇovāca ।

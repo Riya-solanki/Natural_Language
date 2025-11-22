@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2919 | label: meter | g:0.25 m:0.625 ---
+
+śatakratuśca dudrāva pragṛhya kuliśaṃ balī ।
+tamāpatantaṃ saṃprekṣya balo dānavasattamaḥ ।।

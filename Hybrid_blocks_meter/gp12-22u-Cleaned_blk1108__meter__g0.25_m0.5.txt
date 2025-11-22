@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1108 | label: meter | g:0.25 m:0.5 ---
+
+śaśadhara-tanvā tulanām āhata-lakṣaṇatayā yayur yad api ।
+tad api ca tāṃ sahasāmūr āhata-lakṣaṇatayā jigyuḥ ।। [āryā]

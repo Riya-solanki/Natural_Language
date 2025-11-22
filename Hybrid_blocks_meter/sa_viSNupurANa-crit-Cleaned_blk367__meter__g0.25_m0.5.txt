@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 367 | label: meter | g:0.25 m:0.5 ---
+
+tathokto asau dvidhā strītvaṃ puruṣatvaṃ tathākarot 
+bibheda puruṣatvaṃ ca daśadhā caikadhā ca saḥ ।।

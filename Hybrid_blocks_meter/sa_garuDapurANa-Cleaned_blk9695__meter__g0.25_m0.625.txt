@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9695 | label: meter | g:0.25 m:0.625 ---
+
+karpūrāgurudhūpaiśca śubhairmālyaiḥ sugandhibhiḥ ।
+paridhānaṃ paṭṭasūtraṃ hṛdaye rukmakaṃ nyaset ।।

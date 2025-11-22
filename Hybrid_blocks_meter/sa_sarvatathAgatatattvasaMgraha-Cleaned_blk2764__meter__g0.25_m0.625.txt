@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2764 | label: meter | g:0.25 m:0.625 ---
+
+ākāśe vānyadeśe kruddhaḥ sanmaṇḍalāni tu ।
+yādṛśāni tu paśyedvai vijñeyantādṛśanmanaḥ ।।

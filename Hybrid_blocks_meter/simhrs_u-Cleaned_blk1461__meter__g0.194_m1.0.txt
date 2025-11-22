@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1461 | label: meter | g:0.194 m:1.0 ---
+
+yathā yathārohati baddha-vegaṃ
+vyomnaḥ śikhāṃ puṣpakam ānatāṅgi ।
+mahāmbudhīnāṃ valayair viśālais
+tathā tathā saṅkuciteva pṛthvī ।।

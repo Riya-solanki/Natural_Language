@@ -1,0 +1,4 @@
+--- source: kestprau-Cleaned.txt | block: 11 | label: meter | g:0.25 m:0.75 ---
+
+arthāpattirabhāvaśca sambhavaśceṣṭitaṃ tathā ।
+naitihyamāgamātaddhi vyaktamanyatra vistarāt ।।

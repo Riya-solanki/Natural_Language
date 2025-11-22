@@ -1,0 +1,4 @@
+--- source: sa_abhinavagupta-anuttarASTikA-Cleaned.txt | block: 5 | label: hybrid | g:0.51 m:0.5 ---
+
+ānando atra na vittamadhyamadavan naivāṅganāsaṅgavat dīpārkendukṛtaprabhāprakaravan naiva prakāśodayaḥ ।
+harṣaḥ saṃbhṛtabhedamuktisukhabhūr bhārāvatāropamaḥ sarvādvaitapadasya vismṛtanidheḥ prāptiḥ prakāśodayaḥ ।।

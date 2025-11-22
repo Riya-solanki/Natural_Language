@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 316 | label: grammar | g:0.659 m:0.375 ---
+
+taiḥ ।
+indriyairarthaiśca vyapadiśyante jñānaviśeṣāḥ, katham ? aghrāṇena jighrati' acakṣuṣā paśyati' arasanayā rasayatīti aghrāṇavijñānaṃ cakṣurvijñānaṃ rasanavijñānam' agandhavijñānaṃ rūpavijñānaṃ rasavijñānam' iti ca, indriyaviṣayaviśeṣācca pañcadhābuddhirbhavati ataḥ prādhanyamindriyārthasaṃnikarṣasyeti ।।

@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1316 | label: grammar | g:0.75 m:0.5 ---
+
+anityaḥ śabdaḥ prayatnānantarīyakatvād ghaṭavadityukte hetau saṃśayena pratyavatiṣṭhate sati prayatnānāntarīyakatve astyevāsya nityena sāmānyena sādharmyam- aindriyakatvam asti ca ghaṭenānityena ato nityānityasādharmyādanivṛttaḥ saṃśaya iti ।।

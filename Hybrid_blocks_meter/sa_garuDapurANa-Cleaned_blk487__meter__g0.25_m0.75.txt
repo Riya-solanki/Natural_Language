@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 487 | label: meter | g:0.25 m:0.75 ---
+
+sāraḥ sārapriyaḥ sauraḥ kālahantṛnikṛntanaḥ ।
+agastyo devalaścaiva nārado nāradapriyaḥ ।।

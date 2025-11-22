@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 431 | label: grammar | g:0.667 m:0.5 ---
+
+jīvato api ca kuto ahamanyasmānmāṃsamādāsye māmabhigamya caite tathaiva kṣuttarṣaparikṣāmanayanavadanā niṣphalāśāpraṇayatvādadhikataravighātāturamanasaḥ kathaṃ nāma pratiyāsyanti? tadidamatra prāptakālam ।

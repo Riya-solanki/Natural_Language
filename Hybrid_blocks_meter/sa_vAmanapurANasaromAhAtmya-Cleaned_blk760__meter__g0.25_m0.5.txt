@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 760 | label: meter | g:0.25 m:0.5 ---
+
+yasmin praviṣṭamātrastu mukto bhavati kilbiṣaiḥ ।
+yamāśritya vanaṃ puṇyaṃ savitā prakaṭaḥ sthitaḥ ।।

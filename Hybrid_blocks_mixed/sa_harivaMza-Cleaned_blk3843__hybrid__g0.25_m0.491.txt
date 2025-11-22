@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3843 | label: hybrid | g:0.25 m:0.491 ---
+
+ratheṣv atiratho yantā dārukaḥ keśavasya vai 
+yodhamukhyaś ca yodhānāṃ sātyakiḥ satyavikramaḥ ।। 
+ācāryo dhanuṣāṃ vede sākṣāddroṇa ivāparaḥ । sātyakiḥ satyasaṃdhaś ca śatruhā yuddhadurmadaḥ । 
+vidhānam evaṃ kṛtvā sa kṛṣṇaḥ puryām aninditaḥ 
+mumude yadubhiḥ sārdhaṃ lokasraṣṭā mahītale ।।

@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 74 | label: grammar | g:0.583 m:0.5 ---
+
+śyāmā ṣaṣṭo doṣaḥ pañcavarṇo bhavati kālikā ca pañcamo doṣaḥ kṛṣṇavarṇa iti ।।

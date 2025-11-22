@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1589 | label: meter | g:0.34 m:0.521 ---
+
+ājanmānugate apy asmin nāle vimukham ambujam ।
+prāyeṇa guṇapūrṇeṣu rītir lakṣmīvatām iyam ।।
+sarokasya

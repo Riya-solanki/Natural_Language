@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 299 | label: grammar | g:0.583 m:0.5 ---
+
+kṛcchraprāptiḥ, atyāśupratibhānatā, kāyadauṣṭhulyam, cittadauṣṭhulyam, ayogavihitasvādhyāyāditā, vaimukhyanimittagrāhitā, hetubhraṃśaḥ, praṇītāsvādabhraṃśaḥ, uttamayānabhraṃśaḥ, uddeśabhraṃśaśceti daśa ।

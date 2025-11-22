@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3069 | label: meter | g:0.25 m:0.625 ---
+
+nirvapetpañca yajñāni krūre nindāṃ ca kārayet ।
+tilājyaṃ na vikrīṇita sūnāyajñamaghānvitaḥ ।।

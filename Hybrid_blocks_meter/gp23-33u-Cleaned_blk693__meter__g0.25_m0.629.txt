@@ -1,0 +1,8 @@
+--- source: gp23-33u-Cleaned.txt | block: 693 | label: meter | g:0.25 m:0.629 ---
+
+puṇḍra-keśa sa bhavān abhūd dhariḥ
+kāśi-rāḍ na kim ihābhavac chiraḥ ।
+mitratām aśivatāṃ tathāsajann
+anyathā prathitavān sa tu tvayi ।।
+vṛttāntenāmunā tu tvad-vṛttāntaḥ so' yam īkṣate ।
+kṛtāntenācireṇa tvaṃ kṛtānta iva vartase ।। iti ।

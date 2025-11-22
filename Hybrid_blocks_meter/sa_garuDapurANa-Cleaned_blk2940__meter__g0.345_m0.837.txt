@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2940 | label: meter | g:0.345 m:0.837 ---
+
+śrīgaruḍamahāpurāṇam- 
+yājñavalkya uvāca ।
+vānaprasthāśramaṃ vakṣye tacchṛṇvantu maharṣayaḥ ।
+putreṣu bhāryāṃ niḥ kṣipya vanaṃ gacchetsahaiva vā ।।

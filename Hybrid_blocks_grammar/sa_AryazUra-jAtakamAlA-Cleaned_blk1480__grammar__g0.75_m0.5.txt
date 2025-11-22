@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1480 | label: grammar | g:0.75 m:0.5 ---
+
+tadevamasatkṛtānāmapi satpuruṣāṇāṃ pūrvopakāriṣvanukampā na śithilībhavati kṛtajñatvātkṣamāsātmyācca । iti nāsatkāramātrakeṇa pūrvakṛtaṃ vismartavyam । evaṃ sa bhagavānanabhisaṃbuddho api paravādānabhibhūya sattvavinayaṃ kṛtavāniti buddhavarṇe api vācyam । evaṃ mithyādṛṣṭirananuyogakṣamānupāśrayatvādasevyā ceti mithyādṛṣṭivigarhāyāmapyupaneyam । viparyayeṇa samyagdṛṣṭipraśaṃsāyāmiti ।

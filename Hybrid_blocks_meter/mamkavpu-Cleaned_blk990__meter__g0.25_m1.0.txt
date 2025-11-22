@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 990 | label: meter | g:0.25 m:1.0 ---
+
+{anaucityādṛtte nānyad rasabhaṅgasya kāraṇam ।
+aucityopanibandhastu rasasyopaniṣatparā ।।

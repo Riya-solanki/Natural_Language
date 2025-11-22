@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 520 | label: meter | g:0.306 m:0.625 ---
+
+rudrakoṭistathā kūpe saromadhye vyavasthitā ।
+tasmin sare ca yaḥ snātvā rudrakoṭiṃ smarennaraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4460 | label: meter | g:0.194 m:0.75 ---
+
+parameṣṭhyena vākyena codito ahaṃ svayaṃbhuvā 
+vedopasthānikāṃ cakre matiṃ saṃkrāntavistarām ।।

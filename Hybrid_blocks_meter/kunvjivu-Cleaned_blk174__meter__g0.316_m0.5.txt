@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 174 | label: meter | g:0.316 m:0.5 ---
+
+krīḍārasena rahasi smatapūrvamindor lekhāṃ vikṛṣya vinibad ca mūrdhni gauryā ।
+kiṃ śobhitāhamanayota śaśāṅkamauleḥ pṛṣṭasya pātu paricumbhanamuttaravaḥ ।।

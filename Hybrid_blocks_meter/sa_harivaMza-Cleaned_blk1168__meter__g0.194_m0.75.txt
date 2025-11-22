@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1168 | label: meter | g:0.194 m:0.75 ---
+
+rājādhidevasya sutā jajñire vīryavattarāḥ 
+dattātidattau balinau śoṇāśvaḥ śvetavāhanaḥ ।।

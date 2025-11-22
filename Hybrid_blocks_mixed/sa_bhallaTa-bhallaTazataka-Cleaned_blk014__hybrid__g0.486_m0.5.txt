@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 14 | label: hybrid | g:0.486 m:0.5 ---
+
+paṅktau viśantu gaṇitāḥ pratilomavṛttyā pūrve bhaveyur iyatāpy athavā traperan 
+santo apy asanta iva cet pratibhānti bhānor bhāsāvṛte nabhasi śītamayūkhamukhyāḥ ।।

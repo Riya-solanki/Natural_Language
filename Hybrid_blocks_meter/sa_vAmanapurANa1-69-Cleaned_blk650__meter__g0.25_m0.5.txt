@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 650 | label: meter | g:0.25 m:0.5 ---
+
+tato jalanidhī raudro bāhyato dviguṇaḥ sthitaḥ ।
+tasyāpi dviguṇaḥ plakṣo bāhyataḥ saṃpratiṣṭhitaḥ ।।

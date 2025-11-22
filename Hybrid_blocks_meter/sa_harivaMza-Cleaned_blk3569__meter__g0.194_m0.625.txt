@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3569 | label: meter | g:0.194 m:0.625 ---
+
+ahaṃ ca daradaś caiva cedirājaś ca saṃgatāḥ 
+dakṣiṇaṃ nagaradvāraṃ pālayiṣyāma daṃśitāḥ ।।

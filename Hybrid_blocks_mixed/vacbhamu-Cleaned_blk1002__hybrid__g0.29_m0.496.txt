@@ -1,0 +1,11 @@
+--- source: vacbhamu-Cleaned.txt | block: 1002 | label: hybrid | g:0.29 m:0.496 ---
+
+satyaṃ na vidyayaikakāryatvaṃ karmaṇāṃ parasparavirodhena sahāsaṃbhavāt ।
+vidyotpādakatayā tu karmaṇāmārādupakārakāṇāmastu mokṣopayogaḥ ।
+naca karmaṇāṃ vidyayā virudhyamānānāṃ na vidyākāraṇatvaṃ, svakāraṇavirodhināṃ kāryāṇāṃ bahulamupalabdheḥ ।
+tathāca vidyālakṣaṇakāryopāyatayā kāryavināśyānāmapi karmaṇāmupādānamarthavat ।
+tadabhāve tatkāryasyānutpādena mokṣasyāsaṃbhavāt ।
+evañca vividiṣanti yajñeneti yajñasādhanatvaṃ vidyāya apūrvamarthaṃ prāpayataḥ pañcamalakārasya nātyantaparokṣavṛttitayā jñānastutyarthatayā kathañcidvyākhyānaṃ bhaviṣyati ।
+tadanenābhisamadhinoktaṃ jñānasyeva hi prāpakaṃ satkarama praṇaḍyā mokṣakāraṇamityupacaryate ।
+yata eva na vidyodayasamaye karmāsti nāpi parastādapi tu prāgeva vidyāyāḥ, ata eva cātikrāntaviṣayametatkāryaikatvābhidhānam ।
+etadeva sphorayati nahi brahmavida iti ।।

@@ -1,0 +1,7 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 277 | label: grammar | g:0.702 m:0.177 ---
+
+sampratyarthālaṅkārāṇāṃ prastāvaḥ । tanmūlaṃ copameti saiva vicāryate 
+upamānenopameyasya guṇaleśataḥ sāmyamupamā ।।
+upamīyate sādṛśyamānīyate yenotkṛṣṭaguṇenānyattadupamānam । yadupamīyate nyūnaguṇaṃ tadupameyam । upamānenopameyasya guṇaleśataḥ sāmyaṃ yadasāvupameti । nanūpamānamityupameyamiti ca sambandhiśabdāvetau, tayorekataropādānenaivānyatarasiddhiriti । yathā uoamitaṃ vyāghrādibhiḥ sāmānyāprayoge ityatropamitagrahaṇameva kṛtaṃ, nopamānagrahaṇamiti । tadvadatrobhayagrahaṇaṃ na kartavyam । satyam । tat kṛtaṃ lokaprasiddhiparigrahārtham । yadevopameyamupamānañca lokaprasiddhaṃ tadeva parigṛhyate, netarat । na hi yathā mukhaṃ kamalamiva iti, tathā kumudamiva ityapi bhavati ।।
+guṇabāhulyataśca kalpitā ।।
+guṇānāṃ bāhulyaṃ guṇabāhulyaṃ, tata upamānopameyayoḥ sāmyāt kalpitopamā । kavibhiḥ kalpitatvāt kalpitā । pūrvā tu laukikī । nanu kalpitāyā lokaprasiddhyabhāvāt kathamupamānopameyaniyamaḥ । guṇabāhukyasyotkarṣāpajarpakalpanābhyām । tadyathā

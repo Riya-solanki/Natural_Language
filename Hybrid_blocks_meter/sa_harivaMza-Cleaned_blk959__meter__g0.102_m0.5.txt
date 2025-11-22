@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 959 | label: meter | g:0.102 m:0.5 ---
+
+aṅgaḥ prathamato jajñe vaṅgaḥ suhmas tathaiva ca 
+puṇḍraḥ kaliṅgaś ca tathā bāleyaṃ kṣatram ucyate 
+bāleyā brāhmaṇāś caiva tasya vaṃśakarā bhuvi ।।

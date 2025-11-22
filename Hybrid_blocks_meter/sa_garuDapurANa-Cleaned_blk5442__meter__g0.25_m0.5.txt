@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5442 | label: meter | g:0.25 m:0.5 ---
+
+bhṛṅgarājasya mūlaṃ tu piṣṭaṃ śukreṇa saṃyutam ।
+akṣiṇī cāñjayitvā tu vaśī karyānnaraṃ kila ।।

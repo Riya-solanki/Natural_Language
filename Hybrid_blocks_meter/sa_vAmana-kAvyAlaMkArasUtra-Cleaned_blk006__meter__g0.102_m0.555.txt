@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 6 | label: meter | g:0.102 m:0.555 ---
+
+kiṃ punaḥ phalam alaṅkaravatā kāvyena, yenaitadartho'yamityāha 
+kāvyaṃ saddṛṣṭādṛṣṭārtham, prītikīrtihetutvāt ।।
+cāru dṛṣṭaprayojanaṃ, prītihetutvāt । adṛṣṭaprayojanaṃ kīrtihetutvāt । atra ślokāḥ

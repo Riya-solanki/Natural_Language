@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3354 | label: meter | g:0.25 m:0.555 ---
+
+sahasrākṣo api vacanaṃ gurūṇāṃ sa niśamya vai ।
+provāca svalpakālena kasmin prāpyo bahūdayaḥ ।
+tamūcurdevatā martye svalpakāle mahodayaḥ ।।

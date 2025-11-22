@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1201 | label: hybrid | g:0.321 m:0.493 ---
+
+tyajāmi yuṣmān kim udīkṣamāṇo yaśo atha vā mānagataṃ ca dharmam ।
+dehaṃ kalīnāṃ padabandhabhūtaṃ utāvaśo mṛtyukarābhimṛṣṭam ।।

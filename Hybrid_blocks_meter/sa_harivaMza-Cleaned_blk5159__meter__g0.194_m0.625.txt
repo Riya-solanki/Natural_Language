@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5159 | label: meter | g:0.194 m:0.625 ---
+
+rājāpi hāstinapuraṃ praviveśa janāvṛtaḥ 
+anvaśāsac ca muditas tadā pramuditāḥ prajāḥ ।।

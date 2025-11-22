@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2306 | label: meter | g:0.194 m:0.5 ---
+
+yat tu niṣpādyate kāryaṃ mṛdā kāraṇabhūtayā 
+tat kāraṇānugamanāj jñāyate nṛpa mṛṇmayam ।।

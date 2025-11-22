@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 171 | label: meter | g:0.217 m:0.787 ---
+
+brahma jijñāsitavyamityuktam ।
+kiṃlakṣaṇaṃ punastadbrahma ityata āha bhagavānsūtrakāraḥ -

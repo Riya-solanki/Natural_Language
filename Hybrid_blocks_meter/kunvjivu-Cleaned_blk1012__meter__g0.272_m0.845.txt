@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1012 | label: meter | g:0.272 m:0.845 ---
+
+virodho yo viruddhārthavācināṃ saṃgatiṃ punaḥ ।
+samarpayannullikhati pratīteryuktiyuktatām ।।

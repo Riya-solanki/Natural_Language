@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 90 | label: hybrid | g:0.531 m:0.5 ---
+
+ruddhāpāṅgaprasaram alakair añjanasnehaśūnyaṃ pratyādeśād api ca madhuno vismṛtabhrūvilāsam ।
+tvayy āsanne nayanam uparispandi śaṅke mṛgākṣyā mīnakṣobhāc calakuvalayaśrītulām eṣyatīti ।।

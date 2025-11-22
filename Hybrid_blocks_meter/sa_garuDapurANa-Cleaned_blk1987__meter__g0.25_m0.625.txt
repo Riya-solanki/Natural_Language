@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1987 | label: meter | g:0.25 m:0.625 ---
+
+śāstrajñaḥ kuśalāścāpi ratnabhājaḥ parīkṣakāḥ ।
+ta eva mūlyamātrāyā vettāraḥ parikīrtitāḥ ।।

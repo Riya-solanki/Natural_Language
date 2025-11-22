@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1592 | label: meter | g:0.316 m:0.5 ---
+
+ratnākaras tava pitā sthitir ambujeṣu bhrātā sudhārasamayaḥ patir ādyadevaḥ ।
+kenāpareṇa kamale vada śiśikṣitāsi śāraṅgaśṛṅgakuṭilāni viceṣṭitāni ।।

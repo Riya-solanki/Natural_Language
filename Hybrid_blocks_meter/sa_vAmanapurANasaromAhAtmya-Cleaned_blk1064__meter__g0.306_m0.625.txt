@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1064 | label: meter | g:0.306 m:0.625 ---
+
+sa taṃ pasparśa śanakaiḥ sthāṇutīrthe mamañja ha ।
+patataḥ pūrvatīrtheṣu vipruṣaiḥ pariṣiñcataḥ ।।

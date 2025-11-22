@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1114 | label: grammar | g:0.75 m:0.5 ---
+
+[] tās tu tatra sāpatrapa-cittāś ca parama-bhīti-bhittās tathākāryatayāvadhārya paśyata ke' pi śabdāyante iti bālānāṃ dṛṣṭīḥ pratārya patir eva devatā iti vicārya sa-parihāsa-vilāsa-vyājatas tam eva namaścakruḥ-svāmin, namas tubhyam iti ।

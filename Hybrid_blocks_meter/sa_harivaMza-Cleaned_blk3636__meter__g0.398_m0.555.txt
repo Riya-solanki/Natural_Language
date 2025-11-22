@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3636 | label: meter | g:0.398 m:0.555 ---
+
+svāgataṃ te mahābāho yadūnāṃ kulanandana 
+jīvitasya phalaṃ prāptam adya te darśanena ca । 
+adya smo nirvṛtās tāta yat tvāṃ paśyāma nirvṛtam ।।

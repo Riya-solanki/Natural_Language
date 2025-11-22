@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 192 | label: meter | g:0.306 m:0.625 ---
+
+kālaḥ sūryādisaṃcāras tattatpuṣpādijanma vā ।
+śītoṣṇe vātha tallakṣyaḥ krama eva sa tattvataḥ ।।

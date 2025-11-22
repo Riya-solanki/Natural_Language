@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8414 | label: meter | g:0.25 m:0.5 ---
+
+na copaghātaṃ kurvanti bhūtādyā devayonayaḥ ।
+viśrāme bhūtasaṃjño ayaṃ tena tatra pradāpayet ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 779 | label: meter | g:0.194 m:0.625 ---
+
+mantraṃ caiva tathātmānam ekīkṛtya trayaṃ budhaḥ 
+daṇḍākāraṃ nayet'tāvad yāvad brahmabilāntagam ।।

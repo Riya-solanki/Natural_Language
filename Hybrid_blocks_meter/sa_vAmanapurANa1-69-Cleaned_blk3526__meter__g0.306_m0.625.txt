@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3526 | label: meter | g:0.306 m:0.625 ---
+
+dāste gṛhaṃ hiraṇyaṃ ca vājinaḥ syandanān gajān ।
+prayacchāmyadya bhavato vriyatāmīpsitaṃ vibho ।।

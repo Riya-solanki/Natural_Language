@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2128 | label: meter | g:0.194 m:0.625 ---
+
+saṃbhṛtaṃ cārdhamāsena tat somasthaṃ sudhāmṛtam 
+pibanti devā maitreya sudhāhārā yato amarāḥ ।।

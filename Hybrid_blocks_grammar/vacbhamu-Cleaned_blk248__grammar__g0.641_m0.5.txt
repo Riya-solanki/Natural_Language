@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 248 | label: grammar | g:0.641 m:0.5 ---
+
+nanvabhedo apyastīti kiṃ na jñātāḥ ? pratyuta jñānameva teṣāṃ yuktam; kāraṇābhāve hi kāryabhāva autsargikaḥ; sa ca kāraṇasattayā apodyate ।
+asti cābhede kāraṇasatteti kanake jñāte jñātā eva kuṇḍalādaya iti tajjijñāsājñānāni cānarthakāni syuḥ ।
+tena yasmin gṛhyamāṇe yanna gṛhyate tattato bhidyate; yathā karabhe gṛhyamāṇe agṛhyamāṇe rāsabhaḥ karabhāt ।
+gṛhyamāṇe ca dūrato hemni na gṛhyante tasya bhedāḥ kuṇḍalādayaḥ; tasmātte hemno bhidyante ।

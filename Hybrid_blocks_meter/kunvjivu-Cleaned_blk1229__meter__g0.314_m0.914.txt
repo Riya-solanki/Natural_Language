@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1229 | label: meter | g:0.314 m:0.914 ---
+
+sātirekarasotsekakarmanirmāṇakarmaṇaḥ ।
+pratyuhadūrīkaraṇāt kāntiṃ puṣṇāti nāyakaḥ ।।

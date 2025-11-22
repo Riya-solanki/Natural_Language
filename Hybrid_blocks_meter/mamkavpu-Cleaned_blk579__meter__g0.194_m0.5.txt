@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 579 | label: meter | g:0.194 m:0.5 ---
+
+{so adhyauṣṭa vedāṃstridaśānayaṣṭa pitṛnatārpsītsamamaṃsta bandhūn ।
+vyajeṣṭa ṣaḍavargamaraṃsta nītau samūlaghātaṃ nyavadhīdarīṃśca ।।}

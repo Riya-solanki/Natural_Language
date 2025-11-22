@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10963 | label: meter | g:0.25 m:0.5 ---
+
+yogināṃ hṛdaye sthitvā sadhyāyati hariṃ param ।
+pārthakyenāpi taṃ dhyāyanmahādhyāteti sa smṛtaḥ ।।

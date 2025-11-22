@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1140 | label: meter | g:0.306 m:0.5 ---
+
+svecchāvikalpagrathitāśca tāstā niraṅkuśā lokakathā bhramanti ।
+kurvīta yastā hṛdaye api tāvatsyātso apahāsyaḥ kimuta prapattā ।।

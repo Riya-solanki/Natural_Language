@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 129 | label: grammar | g:0.523 m:0.221 ---
+
+abhyunujñāne ca dharmādharmaphalena sāhacaryaṃ yaugapadyaṃ gṛhyate।
+yadidam utpattisthāneṣu dharmādharmaphalaṃ sukhaṃ duḥkhaṃ ca saṃvedyate paryāyeṇa, tasya ca nityasaṃvedanasya ca sahabhāvo yaugapadyaṃ gṛhyeta, na sukhābhāvo nānabhivyaktirasti, ubhayasya nityatvāt।

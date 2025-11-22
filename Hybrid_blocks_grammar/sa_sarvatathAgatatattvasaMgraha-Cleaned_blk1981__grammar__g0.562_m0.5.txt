@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1981 | label: grammar | g:0.562 m:0.5 ---
+
+padmāñjaliṃ samādhāya vajrāveśaprayogataḥ । aṅguṣṭhābhyāṃ tu saṃpīḍya kaniṣṭhānāmikāntarāv ।। iti ।।

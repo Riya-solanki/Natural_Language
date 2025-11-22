@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 420 | label: grammar | g:0.806 m:0.375 ---
+
+nānuvādapunaruktayoraviśeṣaḥ।
+kasmāt ?, arthavato abhyāsasyānuvādabhāvāt, samāne abhyāse punaruktam anarthakam arthavānabhyāso anuvādaḥ śīghrataragamanopadeśavat aśīghraṃ śīghraṃ gamyatām' iti kriyātiśayo abhyāsenaivocyate udāharaṇārthaṃ cedam, evamanyopyabhyāsaḥ apacati pacatīti kriyānuparamaḥ, agrāmo grāmo ramaṇīyaḥ' iti vyāptiḥ, apari pari trigartebhyo vṛṣṭo devaḥ' iti parivarjanam, aadhyadhimaṇḍaṃ niṣaṇṇam, iti sāmīpyam, atiktaṃ tiktam' iti prakāraḥ, evamanuvādasya stutinindāśeṣavidhiṣu adhikārārthatāvihitānantarārthatā ceti ।।

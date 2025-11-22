@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 548 | label: grammar | g:0.75 m:0.5 ---
+
+avasthitaṃ suvarṇaṃ hīyamānenopajāyamānena ca dharmeṇa dharmi bhavati naivaṃ kaścit śabdātmā hīyamānena itvena upajāyamānena yatvena ca dharmī gṛhyate tasmāt suvarṇodāharaṇaṃ nopapadyate iti ।।

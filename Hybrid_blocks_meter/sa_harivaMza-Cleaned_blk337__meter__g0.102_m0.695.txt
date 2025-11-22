@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 337 | label: meter | g:0.102 m:0.695 ---
+
+caturdaśaite manavaḥ kīrtitāḥ kīrtivardhanāḥ 
+vedeṣu sapurāṇeṣu sarve te prabhaviṣṇavaḥ 
+prajānāṃ patayo rājan dhanyam eṣāṃ prakīrtanam ।।

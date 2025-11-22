@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1557 | label: hybrid | g:0.465 m:0.5 ---
+
+{kā visamā devvagari kiṃ labdhaṃ jaṃ jaṇo guṇggāhī ।
+kiṃ sokkhaṃ sukalattaṃ kiṃ dukkhaṃ jaṃ khalo loo ।।}
+[kā viṣamā daivagatiḥ kiṃ labdhavyaṃ yat jano guṇagrāhī ।
+kiṃ saukhyaṃ sukalatraṃ kiṃ duḥkhaṃ yat khalo lokaḥ ।।]

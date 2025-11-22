@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1984 | label: meter | g:0.223 m:0.608 ---
+
+matvā dhātrā tulāyāṃ laghur iti dharaṇīṃ siṃha-bhūpāla-candre
+sṛṣṭe tatrātigurvyāṃ tad-upanidhitayā sthāpyamānaiḥ krameṇa ।
+cintāratnaugha-kalpa-druma-tati-surabhī-maṇḍalaiḥ pūritāntāpy
+ūrdhvaṃ nītā laghimnā tad-ari-kula-śataiḥ pūryate' dyāpi sā dyauḥ ।।

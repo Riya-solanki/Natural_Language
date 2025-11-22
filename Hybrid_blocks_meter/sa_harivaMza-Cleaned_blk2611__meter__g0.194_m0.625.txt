@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2611 | label: meter | g:0.194 m:0.625 ---
+
+devānām īśvaraḥ śakro meghānāṃ cārisūdana 
+tasya cāyaṃ kratuḥ kṛṣṇa lokapālasya śāśvataḥ ।।

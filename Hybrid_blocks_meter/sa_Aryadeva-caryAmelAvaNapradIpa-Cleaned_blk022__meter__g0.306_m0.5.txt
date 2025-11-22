@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 22 | label: meter | g:0.306 m:0.5 ---
+
+skandhaśca dhātuśca tathaivendriyaṃ ca pañcaiva pañcaiva kṛtaprabhedāḥ ।
+tathāgatādhiṣṭhita ekaikaśaḥ saṃsārakarmāṇi kuto bhavanti ।।

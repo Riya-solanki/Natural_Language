@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 41 | label: meter | g:0.306 m:0.625 ---
+
+kroḍīkṛto hi pāśena viṣajvālāvalīmucā ।
+huṃkṛtya mocitaḥ patyā dṛṣṭaḥ śveto ghanair janaiḥ ।।

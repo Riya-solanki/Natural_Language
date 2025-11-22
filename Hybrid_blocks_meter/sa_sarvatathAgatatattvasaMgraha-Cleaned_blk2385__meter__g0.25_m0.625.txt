@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2385 | label: meter | g:0.25 m:0.625 ---
+
+samādhimudrāṃ badhvā vai śaṅkā yatra bhaveddhruvā ।
+jñānamutpādya vijñeyaṃ nidhistatrāsti śāśvataḥ ।।

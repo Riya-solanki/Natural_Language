@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 646 | label: grammar | g:0.75 m:0.5 ---
+
+athāsmin bhāṣitamātre sarvatathāgatahṛdayebhyo vajrapāṇirviniḥsṛtya, sarvatathāgatasūkṣmajñānavajrabimbamātmānamadhiṣṭhāya, sarvatathāgatanāsikāgreṣu sthitvedamudānamudānayāmāsa । aho hi sarvabuddhānāṃ sūkṣmavajramahaṃ mahat । yanmahatvātsa sūkṣmo api traidhātukamapi sphared ।।

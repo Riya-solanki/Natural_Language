@@ -1,0 +1,9 @@
+--- source: gp01-11u-Cleaned.txt | block: 329 | label: meter | g:0.076 m:0.536 ---
+
+āyāte ramaṇe sasambhramam upāgamyāsanādi-kriyām
+ācarya vyajanādibhiḥ svayam asau sevāvadhānaṃ dadhe ।
+śayyāyāṃ tvaritaṃ gate punar iyaṃ līnā sakhīyācitāpy
+āsīt kvāpi kadāpi tatparicitā nāsmītivad vyañjatī ।। [śārdūlavikrīḍita]
+[] tatra sakhīnāṃ vacanam,
+"adṛṣṭe darśanotkaṇṭhāṃ dṛṣṭe tu tvam apahnutim ।
+sarvadā kurvatī kṛṣṇe kīdṛśīti na lakṣyase ।। [anuṣṭubh]

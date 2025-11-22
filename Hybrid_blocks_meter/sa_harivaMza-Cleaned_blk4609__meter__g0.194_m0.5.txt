@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4609 | label: meter | g:0.194 m:0.5 ---
+
+balir viṣṇubalākrānto baddhas tava pitā nṛpa 
+salilaughād viniḥsṛtya kaccid rājyam avāpsyati ।।

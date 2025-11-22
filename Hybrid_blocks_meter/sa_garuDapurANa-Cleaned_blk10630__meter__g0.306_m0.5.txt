@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10630 | label: meter | g:0.306 m:0.5 ---
+
+idānīṃ śṛṇu pakṣīndra vaikṛtaṃ sargamuttamam ।
+samyagjānāti yo loke sa yāti paramaṃ padam ।।

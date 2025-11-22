@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 24 | label: grammar | g:0.673 m:0.231 ---
+
+aparyālocitapaurvāparyagatānugatamūrkhajanapravartitāt pravādamātrād asakṛddṛṣṭavyabhicārād vastusiddhim icchan aho bata vṛthaiva dainyāspadatām upayāto asi ।। 
+atha pratyayitapuruṣapravartitaḥ pravādaḥ tarhi āgama evāsau ।। 
+pratyayitatvaṃ ca tasya katamena pramāṇena siddhaṃ tatpravartitād āgamaprāmāṇyāc ca tatsiddhiḥ tatsiddhyā ca āgamaprāmāṇyam itītaretarāśrayadoṣaḥ nityatve tv āgamasya kārya evārthe prāmāṇyaṃ na siddhe iti na yuṣmadabhimatadevatāviśeṣaḥ katham api sidhyatīti ।। 
+evaṃ śakroktim abhidhāya hārītamuniḥ svoktyā svaśiṣyān āha ।।

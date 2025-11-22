@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 12 | label: hybrid | g:0.476 m:0.5 ---
+
+sadvṛttayaḥ sadasadarthavivekino ye te paśya kīdṛśam amuṃ samudāharanti 
+caurāsatīprabhṛtayo bruvate yad asya tad gṛhyate yadi kṛtaṃ tad ahaskareṇa ।।

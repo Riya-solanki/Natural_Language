@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2763 | label: meter | g:0.25 m:0.5 ---
+
+śūdrādayogavaṃ vaiśyā janayāmāsa vai sutam ।
+māhiṣyeṇa karaṇyāṃ tu rathakāraḥ prajāyate ।।

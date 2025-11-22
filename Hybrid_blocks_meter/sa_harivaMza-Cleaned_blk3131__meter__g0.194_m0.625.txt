@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3131 | label: meter | g:0.194 m:0.625 ---
+
+etenaiva prayatnena vṛddhāv uddhṛtya duḥkhitau 
+yathā dharmam avāpnoṣi tat kṛṣṇa paricintyatām ।।

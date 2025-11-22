@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 847 | label: meter | g:0.25 m:0.871 ---
+
+sahāyena sahajotsāho, yathā-
+sa gupta-mūla-prayatnaḥ śuddha-pārṣṇir ayānvitaḥ ।
+ṣaḍ-vidhaṃ balam ādāya pratasthe vijigīṣayā ।।

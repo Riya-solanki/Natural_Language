@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 463 | label: meter | g:0.306 m:0.5 ---
+
+yatra viṣṇuḥ sthito nityaṃ śivo devaḥ sanātanaḥ ।
+tau devau praṇipātena prasādya muktimāpnuyāt ।।

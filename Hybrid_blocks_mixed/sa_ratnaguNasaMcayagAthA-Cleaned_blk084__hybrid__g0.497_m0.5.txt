@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 84 | label: hybrid | g:0.497 m:0.5 ---
+
+evaṃ ca puṇya pariṇāmayamāna bodhau na ca so hi buddha kṣipate jina uktavādī 
+yāvanti loki upalambhikabodhisattvā abhibhonti sarvi pariṇāmayamāna śūro ।।

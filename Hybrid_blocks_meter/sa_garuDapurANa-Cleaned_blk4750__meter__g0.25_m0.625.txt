@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4750 | label: meter | g:0.25 m:0.625 ---
+
+snidhno asito mecakābho malinaḥ śothavānguruḥ ।
+gambhīrapākaḥ prāyoṣmaspṛṣṭaḥ klinnoṃ'vadīryate ।।

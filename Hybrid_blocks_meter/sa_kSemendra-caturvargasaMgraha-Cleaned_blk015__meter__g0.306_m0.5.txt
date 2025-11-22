@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 15 | label: meter | g:0.306 m:0.5 ---
+
+paraprāṇatrāṇapraṇihitadhiyāṃ dharmajananī dayaivaikā loke sakalajanatājīvitasudhā ।
+asāmānyaṃ puṇyaṃ munibhir uditaṃ jñānanayanair ahiṃsā saṃsāre svapurakuśalaślāghyasaraṇiḥ ।।

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 659 | label: meter | g:0.321 m:0.573 ---
+
+prāgalbhyena, yathā-
+ekatrāsana-saṅgatiḥ parihṛtā pratyudgamād dūratas
+tāmbūlānayana-cchalena rabhasāśleṣo' pi saṃvighnitaḥ ।
+ālāpo' pi na miśritaḥ parijanaṃ vyāpārayanty āntike- kāntaṃ pratyupacārataś caturayā kopaḥ kṛtārthīkṛtaḥ ।।

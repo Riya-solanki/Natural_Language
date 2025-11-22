@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 32 | label: grammar | g:0.583 m:0.5 ---
+
+ucyate- tatra pūrvasūtrākṣareṇa spaṣṭaṃ śāstrasyānupādānājjanmādi kevalamanumānamupanyastamityāśaṅkyeta tāmāśaṅkāṃ nirvartayitumidaṃ sūtraṃ pravavṛte śāstrayonitvāditi ।।

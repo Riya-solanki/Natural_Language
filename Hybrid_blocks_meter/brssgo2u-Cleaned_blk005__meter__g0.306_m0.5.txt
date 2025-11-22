@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 5 | label: meter | g:0.306 m:0.5 ---
+
+sāṃkhyādismṛtiyuktibhirna calito vedāntasiddhāntago nirmūlairvividhāgamairavidito vyomādijanmāpyayaḥ ।
+utpattyantavivarjitaścitivapurvyāpi ca kartāṃśako liṅgena prathito api nāmatanukṛttaṃ jānakīśaṃ bhaje ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9792 | label: meter | g:0.25 m:0.625 ---
+
+gṛhasthe proṣite yacca kaścittu mriyate gṛhe ।
+āsaucāpagame yatra prārabdhe śrāddhakarmaṇi ।।

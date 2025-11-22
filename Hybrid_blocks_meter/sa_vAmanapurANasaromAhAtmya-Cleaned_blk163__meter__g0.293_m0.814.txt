@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 163 | label: meter | g:0.293 m:0.814 ---
+
+lomaharṣaṇa uvāca
+ityasuravarastena pṛṣṭaḥ pautreṇa brāhmaṇāḥ ।
+ciraṃ dhyātvā jagādedamasuraṃ taṃ tadā balim ।।

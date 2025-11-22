@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1841 | label: grammar | g:0.75 m:0.5 ---
+
+athāsmin bhāṣitamātre āryāvalokiteśvarahṛdayāt sa eva bhagavāṃ vajradharaḥ āryāvalokiteśvararūpadhāriṇaḥ padmapratiṣṭhāḥ padmamudrācinhadhārivicitravarṇarūpaveṣālaṅkārāḥ tathāgatādisarvasatvamūrtidhārā mahābodhisatvavigrahā bhūtvā viniḥsṛtya, sarvalokadhātuṣu sarvasatvānāṃ yathā vaineyatayā svarūpāṇi sandarśyāśeṣānavaśeṣasatvadhātuvinayaṃ kṛtvā, punarapyāgatya, vajradhātumahāmaṇḍalayogena bhagavataḥ śākyamunestathāgatasya sarvataścandramaṇḍalāśritā bhūtvedamudānamudānayiṃsuḥ ।

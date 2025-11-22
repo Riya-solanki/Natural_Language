@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 553 | label: grammar | g:0.75 m:0.5 ---
+
+tanna jighrati na hi ghrātughrāterviparilopo vidyate, na śrotuḥ śruterviparilopo vidyate, na spraṣṭuḥ spṛṣṭerviparilopo vidyate, na jñāturjñāterviparilopo vidyate tatra tatra dṛṣṭighrātiśrutispṛṣṭiśabdāścakṣurghrāṇaśrotratvagindriyajanyānāṃ rūpagandhaśabdasparśaviṣayāṇāṃ vācakāḥ nārthāntaraviṣayāṇāṃ nāpi vijñānasāmānyasya, nacaiṣāṃ jñānaviśeṣāṇāṃ vācakāḥ nārthāntaraviṣayāṇāṃ nāpi vijñānasāmānyasya, nacaiṣāṃ jñānaviśeṣāṇāṃ suṣuptau muktau vā kathañcidapyaparilopaḥ saṃbhavati, nahi tadānīmindriyāṇi santi nāpi gandhādayo jñāyante tadubhayābhāve ca na śrutyādiśabdavācyajñānaviśeṣāḥ saṃbhavanti ।।

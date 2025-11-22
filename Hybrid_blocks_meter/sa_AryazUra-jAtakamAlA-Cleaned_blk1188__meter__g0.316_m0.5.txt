@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1188 | label: meter | g:0.316 m:0.5 ---
+
+syādatra me yaḥ pratikūlavartī darpodbhavādapratisaṃkhyayā vā ।
+vyaktaṃ na mucyeta sa jīvato me dhārādhanasyeva dhanasya reṇuḥ ।।

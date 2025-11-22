@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 797 | label: hybrid | g:0.444 m:0.5 ---
+
+sa tatkāraṇam ācakhyau na ca sā śraddadhāti tat 
+uvāca cainaṃ kupitā naiṣa bhāvo asti pārthiva ।।

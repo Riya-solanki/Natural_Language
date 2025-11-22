@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 165 | label: meter | g:0.29 m:0.629 ---
+
+sannāpi kālabhedo atisūkṣmatvānna parāmṛṣyata iti cet, aho sūkṣmadarśī devānāṃpriyaḥ ।
+yo hi samānaviṣayayā vijñānadhārayā ciramavasthāyoparataḥ so anantarakṣaṇasaṃbandhitayārthaṃ smarati ।
+tathāhi kimatra ghaṭo avasthita iti ṣaṣṭhaḥ kathayati- asminkṣaṇe mayopalabdha iti ।
+tathā prātarārabhyaitāvatkālaṃ mayopalabdha iti ।
+kālabhede tvagṛhīte kathamevaṃ vadet ।
+tasmādasti kālabhedaparāmarśaḥ ।
+tadādhikyācca siddhamuttareṣāṃ prāmāṇyam ।।

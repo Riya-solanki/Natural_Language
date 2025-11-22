@@ -1,0 +1,12 @@
+--- source: vacbhamu-Cleaned.txt | block: 303 | label: grammar | g:0.546 m:0.14 ---
+
+syādetat ।
+vidhivibhaktiśravaṇātkāryaṃ tāvadatra pratīyate; tacca na bhāvārthamantareṇa; na ca rāgataḥ pravṛttasya hananapānādāvakasmādaudāsīnyamupapadyate vinā vidhārakaprayatnam; tasmātsa eva pravṛttyunmukhānāṃ manovāgdehānāṃ vidhārakaḥ prayatno niṣedhavidhigocaraḥ kriyeti nākriyāparamasti vākyaṃ kiñcidapīti āha- na ca hananakriyānivṛttyaudāsīnyavyatirekeṇa nañaḥ śakyamaprāptakriyārthatvaṃ kalpayitum ।
+kena hetunā na śakyamityata āha- svabhāvaprāptahantyarthānurāgeṇanañaḥ ।
+ayamarthaḥ- hananapānaparo hi vidhipratyayaḥ pratīyamānaste eva vidhatte ityutsargaḥ ।
+na caite śakye vidhātum, rāgataḥ prāptatvāt ।
+na cātra nañaḥ prasajyapratiṣedho vidheyaḥ tasyāpyaudāsīnyarūpasya siddhatayā prāptatvāt ।
+na ca vidhārakaḥ prayatnaḥ, tasyāśrutatvena lakṣyamāṇatvāt, sati saṃbhave ca lakṣaṇāyā anyāyyatvāt, vidhivibhakteśca rāgataḥ prāptapravṛttyanuvādakatvena vidhiviṣayatvāyogāt ।
+tasmādyatpibeddhanyādvetyanūdya tanneti niṣidhyate, tadabhāvo jñāpyate; na tu nañartho vidhīyate ।
+abhāvaśca svavirodhibhāvanirūpaṇatayā bhāvacchāyānupātīti siddhe siddhavat, sādhye ca sādhyavadbhāsata iti sādhyaviṣayo nañarthaḥ sādhyavadbhāsata iti nañarthaḥ kārya iti bhramaḥ ।
+tadidamāha- nañaścaiṣa svabhāvaiti ।

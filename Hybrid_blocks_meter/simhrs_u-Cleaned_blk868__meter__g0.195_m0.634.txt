@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 868 | label: meter | g:0.195 m:0.634 ---
+
+yathā-
+kopena pravidhūta-kuntala-bharaḥ sarvāṅgajo vepathuḥ
+kiñcit kokanada-cchadena sadṛśe netre svayaṃ rajyataḥ ।
+dhatte kāntim idaṃ ca vaktram anayor bhaṅgena bhīma-bhruvoś
+candrasyodbhaṭa-lāñchanasya kamalasyodbhrānta-bhṛṅgasya ca ।।

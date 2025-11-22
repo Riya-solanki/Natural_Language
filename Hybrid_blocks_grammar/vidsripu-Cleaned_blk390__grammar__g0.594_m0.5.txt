@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 390 | label: grammar | g:0.594 m:0.5 ---
+
+samastaṃ vijñāya smaranarapateś cārucaritaṃ caraś cakṣuḥ karṇe kathayitum agāt satvaram iva ।
+prayāṇaṃ bālyasya pratipadam abhūd vigrahabharaḥ parispando vācām api ca kucayoḥ sandhir abhavat ।।

@@ -1,0 +1,7 @@
+--- source: bhassv_u-Cleaned.txt | block: 346 | label: meter | g:0.036 m:0.688 ---
+
+{rājā} - vayasya priyam āvedaye dharate khalu vāsavadattā 
+{vidūṣakaḥ} - avihā vāsavadattā 
+kahiṃ vāsavadattā 
+cirā khu uvaradā vāsavadattā 
+[avihā vāsavadattā । cirāt khalūparatā vāsavadattā । ]

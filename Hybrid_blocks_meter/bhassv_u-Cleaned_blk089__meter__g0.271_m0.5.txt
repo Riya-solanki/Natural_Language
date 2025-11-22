@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 89 | label: meter | g:0.271 m:0.5 ---
+
+{padmāvatī} - ayye kiṃ dāṇiṃ maṃ ohasiduṃ via ṇijjhāasi 
+[ārye kim idānīṃ mām apahasitum iva nidhyāyasi । ]

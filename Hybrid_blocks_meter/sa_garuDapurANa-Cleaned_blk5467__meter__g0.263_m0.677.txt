@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5467 | label: meter | g:0.263 m:0.677 ---
+
+viḍaṅgabhadraṃ mustañca saptamaṃ viśvabheṣajam ।
+gomūtreṇa ca piṣṭvaiva kṛtvā ca vaṭikāṃ hara ! ।
+ajīrṇahṛdbhaveccaikaṃ dvayaṃ viṣūcikāpaham ।।

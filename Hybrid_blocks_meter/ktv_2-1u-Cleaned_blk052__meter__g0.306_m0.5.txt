@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 52 | label: meter | g:0.306 m:0.5 ---
+
+śabdāntarasya yo apy arthaḥ paryāyair abhidhīyate ।
+na sa tenaiva sahitas tasminn arthe prayujyate ।।

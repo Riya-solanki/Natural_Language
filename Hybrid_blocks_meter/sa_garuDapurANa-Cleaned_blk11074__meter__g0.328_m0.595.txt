@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11074 | label: meter | g:0.328 m:0.595 ---
+
+rāmasya sevāṃ kartuṃ sā sītā bhūmyāṃ khagādhipa ।
+balabhadrastu rohiṇyāṃ vasudevādabhūtkhaga ।।

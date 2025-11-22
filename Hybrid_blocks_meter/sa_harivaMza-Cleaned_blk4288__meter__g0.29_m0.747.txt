@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4288 | label: meter | g:0.29 m:0.747 ---
+
+vītaśokabhayābādhāḥ kṛṣṇabāhubalāśrayāḥ 
+yajantu bahubhir yajñair yādavā vītamatsarāḥ ।।

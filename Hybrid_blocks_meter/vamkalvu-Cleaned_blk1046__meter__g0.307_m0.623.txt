@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 1046 | label: meter | g:0.307 m:0.623 ---
+
+mandarasya madirākṣi ! pārśvato nimnanābhi na bhavanti nimnagāḥ ।
+vāsukivikarṣaṇodbhavā bhāminīha padavī vibhāvyate ।।

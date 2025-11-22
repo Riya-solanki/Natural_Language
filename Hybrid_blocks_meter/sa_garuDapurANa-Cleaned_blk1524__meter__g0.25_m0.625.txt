@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1524 | label: meter | g:0.25 m:0.625 ---
+
+brāhmaṇān bhojayitvā tu sarvapāpaiḥ pramucyate ।
+upoṣitaścaturdaśyāṃ kṛṣṇapakṣe samāhitaḥ ।।

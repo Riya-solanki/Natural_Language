@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3451 | label: meter | g:0.25 m:0.5 ---
+
+yasya trivargaśūnyāni dinānyāyānti yānti ca ।
+sa lauhakārabhastreva śvasannapi na jīvati ।।

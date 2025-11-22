@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9083 | label: meter | g:0.25 m:0.555 ---
+
+ciraṃ vasedrudraloke tato rājā bhavediha ।
+rūpavānsubhago vāgmī śrīmānatula vikramaḥ ।
+yamalokaṃ vinirjitya svargaṃ tākṣya sa gacchati ।।

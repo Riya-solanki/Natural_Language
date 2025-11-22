@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 1227 | label: grammar | g:0.75 m:0.5 ---
+
+SktCh nātha bhīmasena tvayā kila me keśāḥ saṃyamitavyāḥ । na yuktaṃ vīrasya kṣatriyasya pratijñātaṃ śithilayitum । tatpratipālaya māṃ yāvadupasarpāmi ।

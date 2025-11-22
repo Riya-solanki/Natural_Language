@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4274 | label: meter | g:0.194 m:0.5 ---
+
+tatra mallāḥ samāpetur nānādeśyā viśāṃ pate 
+nartakā gāyakāś caiva kuśalā nṛttasāmasu ।।

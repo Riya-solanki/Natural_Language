@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 380 | label: grammar | g:0.667 m:0.5 ---
+
+pramāṇāntarabhāve dvipravṛttirupalabdhiḥ anyathā hyupalabdhiranumāne anyathopamāne tad vyākhyātam, śabdānumānayostūpalabdhiradvipravṛttiḥ yathānumāne pravartate tathā śabdepi, viśeṣābhāvādanumānaṃ śabda iti ।।

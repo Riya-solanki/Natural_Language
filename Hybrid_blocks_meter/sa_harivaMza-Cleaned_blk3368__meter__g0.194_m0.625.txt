@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3368 | label: meter | g:0.194 m:0.625 ---
+
+sa siṃha iva vegena kesarī jātavikramaḥ 
+ārurukṣur mahābāhuḥ kaṃsanāśārtham acyutaḥ ।।

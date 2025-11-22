@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 399 | label: hybrid | g:0.412 m:0.53 ---
+
+sāmānyavādino vā kathaṃ vilakṣaṇarūpā vyaktayo vilakṣaṇasāmānyātmakatvaṃ tadāśrayatvaṃ tadabhivyañjakatvaṃ vā bhajante ।
+bhajanticetkimiti kāścideva vyaktayaḥ kenacideva sāmānyena saṃbadhyante na sarvāḥ sarvaiḥ ।
+svabhāvāditi cet, asmākamapi tulyamidamuttaram ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 822 | label: meter | g:0.056 m:0.521 ---
+
+atha dyavi divākaraḥ prakaṭa-bhāvam āṭa drutaṃ
+diśaḥ sphuraṇam āgaman dharaṇir āpa vartma-prathām ।
+tadā ca nayana-śravaś-caraṇa-saṃhatiḥ prāṇinām
+idaṃ nija-nijāśraya-trayam anu svavṛttiṃ yayau ।। [pṛthvī]

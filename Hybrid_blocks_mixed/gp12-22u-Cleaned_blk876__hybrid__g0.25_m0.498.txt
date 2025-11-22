@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 876 | label: hybrid | g:0.25 m:0.498 ---
+
+[] tathā ca smarati-
+apasnāta iva snāto' py alam aspṛśya eva saḥ ।
+mṛtakaṃ vapur āsajjan yaḥ sadbhyo bhaya-dāyakaḥ ।। [anuṣṭubh]

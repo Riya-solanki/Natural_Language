@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2773 | label: meter | g:0.194 m:0.5 ---
+
+manuṣyalokād ūrdhvaṃ tu khagānāṃ gatir ucyate 
+ākāśasyopari ravir dvāraṃ svargasya bhānumān ।।

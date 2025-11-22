@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 143 | label: meter | g:0.333 m:0.5 ---
+
+[] tadā so' pi līyamāna-doṣatayā tadīya-roṣaṃ proṣitam akarot, valitāñjali-karo darvīkaro vijñāpayāmāsa ca-

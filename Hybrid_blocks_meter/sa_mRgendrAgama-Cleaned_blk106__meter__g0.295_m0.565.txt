@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 106 | label: meter | g:0.295 m:0.565 ---
+
+sattasvarūpakaraṇārthavidheyadṛgbhir leśoditābhiriti ye vidurīśatattvam 
+te mocayanti bhavino bhavapaṅkamagnān no vistareṇa puruṣāḥ paśupāśarūpam ।।

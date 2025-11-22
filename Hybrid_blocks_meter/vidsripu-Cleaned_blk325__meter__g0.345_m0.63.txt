@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 325 | label: meter | g:0.345 m:0.63 ---
+
+ābhoginaḥ kim api samprati vāsarānte sampannaśālikhalapallavitopaśalyāḥ ।
+grāmās tuṣārabandhuragomayāgni- dhūmāvalīvalayamekhalino haranti ।।
+abhinandasya

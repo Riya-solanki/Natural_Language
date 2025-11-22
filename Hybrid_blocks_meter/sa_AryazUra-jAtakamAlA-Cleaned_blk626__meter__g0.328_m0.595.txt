@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 626 | label: meter | g:0.328 m:0.595 ---
+
+jarādāridryaduḥkhārto brāhmaṇo māmupāgamat ।
+tasmai dattau mayā putrau samāśvasihi mā śucaḥ ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 854 | label: meter | g:0.099 m:0.921 ---
+
+yad dṛgambu vavṛṣuḥ stana-bhūbhṛd
+bhūri-bhūmi-valayeṣu mṛgākṣyaḥ ।
+uddhṛta-prathita-bhūbhṛti tasmiṃs
+tat kim apy akathayan nija-hārdam ।। [svāgatā]

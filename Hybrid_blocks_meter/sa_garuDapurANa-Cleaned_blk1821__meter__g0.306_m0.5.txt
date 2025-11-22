@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1821 | label: meter | g:0.306 m:0.5 ---
+
+ājānulambitau bāhū vṛttau pīnau nṛpeśvare ।
+niḥ svānāṃ romaśau hrasvau śreṣṭhau karikara prabhau ।।

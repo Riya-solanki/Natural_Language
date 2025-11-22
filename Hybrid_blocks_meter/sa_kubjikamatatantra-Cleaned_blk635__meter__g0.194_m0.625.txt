@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 635 | label: meter | g:0.194 m:0.625 ---
+
+saṃyogena varārohe aṅguṣṭhau ca kaniṣṭhakau 
+tādṛśīva hi kartavyā triśikhā tu vidhīyate ।।

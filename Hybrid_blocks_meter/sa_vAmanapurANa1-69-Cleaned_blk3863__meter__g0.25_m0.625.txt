@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3863 | label: meter | g:0.25 m:0.625 ---
+
+bhavodbhavaṃ vedavidāṃ pariṣṭhaṃ yogātmanāṃ sāṃkhyavidāṃ variṣṭham ।
+ādityarudrāśvivasuprabhāvaṃ prabhuṃ prapadye acyutamātmavantam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 728 | label: meter | g:0.25 m:0.625 ---
+
+adhordhvavadane dve ca padmakarṇikakesaram ।
+vāmādyā ātmavidyā ca sadā dhyāyecchivākhyakam ।।

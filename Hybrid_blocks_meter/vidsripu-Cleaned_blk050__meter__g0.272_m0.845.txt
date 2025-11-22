@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 50 | label: meter | g:0.272 m:0.845 ---
+
+nakhadarpaṇasaṃkrānta- pratimādaśakānvitaḥ ।
+gaurīpādānataḥ śambhur jayaty ekādaśaḥ svayam ।।

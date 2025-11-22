@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5658 | label: meter | g:0.102 m:0.555 ---
+
+mahābhāgavataḥ prāha praṇipatyoddhavo harim 
+bhagavan yan mayā kāryaṃ tad ājñāpaya sāmpratam 
+manye kulam idaṃ sarvaṃ bhagavān saṃhariṣyati ।।

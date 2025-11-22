@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1328 | label: grammar | g:0.585 m:0.0 ---
+
+na śastreṇa na cāstreṇa giriṇā pādapena vā 
+na śuṣkeṇa na cārdreṇa syān na cānyena me vadhaḥ ।। 
+pāṇiprahāreṇaikena sabhṛtyabalavāhanam । yo māṃ nāśayituṃ śaktaḥ sa me mṛtyur bhaviṣyati । nākāśe vā na bhūmau vā rātrau vā divase api vā । nāntar vā na bahir vāpi syād vadho me pitāmaha । paśubhir vā mṛgendrair vā pakṣibhir vā sarīsṛpaiḥ । 
+bhaveyam aham evārkaḥ somo vāyur hutāśanaḥ 
+salilaṃ cāntarikṣaṃ ca nakṣatrāṇi diśo daśa ।।

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6475 | label: grammar | g:0.621 m:0.0 ---
+
+gāyattryā viśvāmitra ṛṣirgāyattrīchandaḥ । savitā devatā jape viniyogaḥ । oṃ udutyaṃ jātavedasaṃ devaṃ vahanti ketavaḥ । dṛśe viśvāya sūryam । oṃ citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ । āprā dyāvāpṛthivī antarikṣaṃ sūrya ātmā jagatastasthuṣaśca । oṃ taccakṣardevahitaṃ purastācchukramuccarat । paśyema śaradaḥ śataṃ jīvema śaradaḥ śatam । 
+śṛṇuyāma śaradaḥ śatam ।
+oṃ viśvataścakṣuruta viśvatomukhoviśvato bāhuruta viśvataspāt ।
+saṃbāhubhyāṃ dhamati saṃpatraidyārvābhūmī janayandeva ekaḥ ।
+devā gātuvido nāṅgavidvānādbhamitamanasaspata imaṃ devayajñaṃ svāhā vātedhāḥ japet ।।

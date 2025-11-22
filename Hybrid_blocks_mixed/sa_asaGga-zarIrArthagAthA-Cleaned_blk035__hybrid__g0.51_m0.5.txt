@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 35 | label: hybrid | g:0.51 m:0.5 ---
+
+eṣopamā dāmale brāhmaṇasya kṣīṇāsravo yo nipako dhyānalābhī ।
+sarve asya śokajvarathāḥ prahīṇāḥ samyaksmṛto yasya cittaṃ vimuktam ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3717 | label: meter | g:0.107 m:0.92 ---
+
+śṛṅgaṃ pṛthivyāḥ svālakṣyaṃ prabhūtadhanadhānyavat 
+āryāḍhyajanabhūyiṣṭham adhiṣṭhānavarottamam 
+ayuddhenaiva dāśārhas tyaktavān dvijasattama ।।

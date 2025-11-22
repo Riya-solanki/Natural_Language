@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2515 | label: meter | g:0.25 m:0.625 ---
+
+agnīdhraścāgnibāhuśca māgadhaśca tathā śuciḥ ।
+ajito muktaśukrau ca ṛṣayaḥ sapta kīrtitāḥ ।।

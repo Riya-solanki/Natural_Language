@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1066 | label: grammar | g:0.708 m:0.5 ---
+
+[] tad etad uktvāntar-vāriṇa eva prasārita-karāḥ kiñcid abhyānañcuḥ । kṛṣṇas tu sāṅguli-vyaṅgam uvāca-aye śata-patra-patra-netrāḥ ! savidhe' trāgamyatām ।

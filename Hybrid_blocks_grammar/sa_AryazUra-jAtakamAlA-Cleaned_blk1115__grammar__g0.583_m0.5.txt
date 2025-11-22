@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1115 | label: grammar | g:0.583 m:0.5 ---
+
+bodhisattvaḥ kila śrutakulavinayamahānakṣudranipuṇamatiraviṣamavyavahāraratiranekaśāstrābhyāsādālakṣitavacanasauṣṭhabaḥ karuṇānuvṛttyā samantato visyandamānadhanasamṛddhirmahāpradānairmahādhanatvād gṛhapatiratnasaṃmato anyatamasya rājñaḥ śreṣṭhī babhūva ।

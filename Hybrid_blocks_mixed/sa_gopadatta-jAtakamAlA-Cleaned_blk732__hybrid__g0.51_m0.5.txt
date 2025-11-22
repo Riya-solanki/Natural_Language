@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 732 | label: hybrid | g:0.51 m:0.5 ---
+
+ramayanty anuddhṛtavikalpasāyakān saritaḥ sarāṃsi girayo vanāni ca ।
+avikalpagocaravicāriṇo yater vanam eva śāntam iti niścitā matiḥ ।।

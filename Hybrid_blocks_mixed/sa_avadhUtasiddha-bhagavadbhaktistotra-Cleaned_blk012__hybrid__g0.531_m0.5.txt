@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 12 | label: hybrid | g:0.531 m:0.5 ---
+
+vācām atītaviṣayo nirupākhyabhāvāt prokto asi śūnyam iti kaiścid asatpratijñaiḥ ।
+tvām eva kecid api vācakavācyayogāt santaṃ viśeṣaṇavaśāt parikalpayanti ।।

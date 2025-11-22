@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1884 | label: grammar | g:0.646 m:0.5 ---
+
+atra praviṣṭena karpūra-caṇḍena yavanikāntargatena candana-caṇḍena ca paryāya-pravṛtta-vāg-vilāsais tāṭakāvadhādi-vibhīṣaṇābhaya-pradānāntasya rāmabhadra-caritasya bāhulyāt prayogānucitasya sūcanād iyaṃ khaṇḍa-cūlikā ।

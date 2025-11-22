@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2506 | label: grammar | g:0.604 m:0.5 ---
+
+vajraratnaṃ svamuṣṇīṣe bhāvayaṃ susamāhitaḥ । badhvā vai karmamudrāṃ tu bhavedrājā sukarmakṛd ।। ।।

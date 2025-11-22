@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 555 | label: meter | g:0.281 m:0.766 ---
+
+hariruvāca ।
+śṛṇu rudra ! harerdhyānaṃ saṃsāratarunāśanam ।
+dṛśirūpamanantaṃ ca sarvavyāpyajamavyayam ।।

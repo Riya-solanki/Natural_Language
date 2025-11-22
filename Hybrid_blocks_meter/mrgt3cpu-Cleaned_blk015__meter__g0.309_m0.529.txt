@@ -1,0 +1,6 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 15 | label: meter | g:0.309 m:0.529 ---
+
+Vṛtti:
+iyatā kālenaitadvrataṃ saṃnyastavyamiti sāvadhikaṃ yeṣāṃ vrataṃ te bhautikavratinaḥ।
+yeṣāṃ [dehapātāntakaṃ] śarīrapātāntaṃ nirvāhaḥ te [niṣṭhāvratinaḥ] naiṣṭhikāḥ।
+atha ke te naiṣṭhikavratina ityāha

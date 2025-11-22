@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 156 | label: meter | g:0.056 m:0.521 ---
+
+jñātvā karma svayam uta parāt kṛṣṇa-tṛṣṇānukūlaṃ
+tasminn antar bahir api sadā gopa-rājāvarodhe ।
+yātāyātaṃ muhur atitarāṃ kurvatām ādṛtānām
+apy utkaṇṭhācalita-manasāṃ mānasaṃ bhāvam īhe ।। [mandākrāntā]

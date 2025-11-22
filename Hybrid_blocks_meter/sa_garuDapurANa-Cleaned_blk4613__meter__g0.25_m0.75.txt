@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4613 | label: meter | g:0.25 m:0.75 ---
+
+pavano viguṇībhūya śoṇitaṃ tadadhonayet ।
+kuryāttatkṣaṇasandhistho granthyābhaḥ śvayathustadā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2198 | label: meter | g:0.25 m:0.5 ---
+
+śaṅkhābjabhṛṅgārkavicitrabhaṅgā sūtrairur petāḥ paramāḥ pavitrāḥ ।
+maṅgalyayuktā bahubhakticitrā vṛddhipradāste pulakā bhavanti ।।

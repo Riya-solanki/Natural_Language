@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2354 | label: meter | g:0.194 m:0.625 ---
+
+tasya govardhano nāma nātidūre girir mahān 
+bhrājate dīrghaśikharo nandanasyeva mandaraḥ ।।

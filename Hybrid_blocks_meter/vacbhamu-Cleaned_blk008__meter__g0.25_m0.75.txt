@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 8 | label: meter | g:0.25 m:0.75 ---
+
+natvā viśuddhavijñānaṃ śaṅkaraṃ karuṇānidhim ।
+bhāṣyaṃ prasannagambhīraṃ tatpraṇītaṃ vibhajyate ।।

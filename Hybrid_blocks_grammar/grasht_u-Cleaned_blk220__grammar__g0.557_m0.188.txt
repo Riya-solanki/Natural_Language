@@ -1,0 +1,7 @@
+--- source: grasht_u-Cleaned.txt | block: 220 | label: grammar | g:0.557 m:0.188 ---
+
+adhunā viśeṣaprakārāntaram āha svedya ityādi ।
+svedyo ghanaḥ pūrvoktaistṛṇasāravikāraiḥ sveditamabhraṃ svedavidhiruktaḥ punarghanasya piṇḍaṃ baddhvā kaiḥ saha māhiṣadadhidugdhamūtraśakṛdājyaiḥ kṛtvā mahiṣyā idaṃ māhiṣaṃ evaṃbhūtaṃ yaddadhi dugdhaṃ mūtraṃ śakṛdviṣṭhā ājyaṃ ghṛtaṃ caitaiḥ piṇḍaṃ baddhvā ।।
+atheti samuccaye ।।
+pañcagavyaiḥ gavāṃ dugdhadadhimūtraśakṛdājyaiḥ saṃyuktaḥ kāryaḥ piṇḍaṃ baddhvetyarthaḥ ।।
+etatpiṇḍaṃ lohanibhaṃ muṇḍaprabhaṃ sattvaṃ pātayati pūrvasaṃbadhāt ghanasya ityadhyāhāraḥ ।।

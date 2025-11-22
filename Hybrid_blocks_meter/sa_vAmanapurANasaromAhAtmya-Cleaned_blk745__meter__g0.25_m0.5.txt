@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 745 | label: meter | g:0.25 m:0.5 ---
+
+śatakraturanirviṇṇaḥ pṛṣṭvā pṛṣṭvā jagāma ha ।
+yadā tu tapasogreṇa cakarṣa dehamātmanaḥ ।
+tataḥ śakro abravīt prītya brūhi yatte cikīrṣitam ।।

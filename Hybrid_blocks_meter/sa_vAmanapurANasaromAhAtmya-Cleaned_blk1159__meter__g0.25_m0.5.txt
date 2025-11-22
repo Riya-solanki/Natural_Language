@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1159 | label: meter | g:0.25 m:0.5 ---
+
+ye cātra patitā garbhā rudragandhasya rakṣeṇa ।
+namaste astu khadhā khāhā prāpnuvanti tadadbhute ।।

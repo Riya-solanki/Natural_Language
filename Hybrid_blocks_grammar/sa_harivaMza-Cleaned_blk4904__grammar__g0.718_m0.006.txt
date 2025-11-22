@@ -1,0 +1,16 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4904 | label: grammar | g:0.718 m:0.006 ---
+
+eṣa bāṇaḥ sthito yuddhe śaṃkaro ayaṃ guhas tathā 
+kimarthaṃ yuddham utsṛjya bhavanto bhayamohitāḥ ।। 
+prāṇāṃs tyaktvā ca yudhyadhvaṃ sarve dānavapuṃgavāḥ । evaṃ saṃstūyamānās te kumbhāṇḍena mahātmanā । naiva tastambhire daityāḥ palāyanta samantataḥ । evaṃ kumbhāṇḍavākyaṃ te śṛṇvanto bhayavihlavāḥ । cakrāgnibhayavitrastāḥ sarve yānti diśo daśa ।। bhagnaṃ balaṃ tato dṛṣṭvā kṛṣṇenāmitatejasā । saṃraktanayanaḥ sthāṇur yuddhāya paryavartata ।। bāṇasaṃrakṣaṇaṃ kartuṃ ratham āsthāya suprabham । devaḥ kumāraś ca tathā rathenāgninibhena vai । tataḥ kruddho haraḥ sākṣād nadī khaṅgī paraśvadhī । śūlī niṣaṅgī kavacī bāṇī kārmukavāñ śivaḥ । 
+nandīśvarasamāyuktaṃ ratham āsthāya vīryavān 
+saṃdaṣṭauṣṭhapuṭo rudraḥ pradhāvati yato hariḥ ।। 
+tasyānuyātā vetāḷāḥ piśācāś candramālinaḥ । pibantaḥ śoṇitaṃ bhūyaḥ karālā nirṇatodarāḥ । 
+pibann iva tadākāśaṃ siṃhayukto mahāsvanaḥ 
+ratho bhāti ghanonmuktaḥ paurṇamāsyāṃ yathā śaśī ।। 
+tato gaṇasahasrais tu nānārūpair bhayāvahaiḥ । nadadbhir vividhān nādān ratho devasya so abhayāt ।। ke cit siṃhamukhās tatra tathā vyāghramukhāś ca ha । nāgāśvoṣṭramukhās tatra prāvepann abhipīḍitāḥ । vyālayajñopavītāś ca ke cit tatra mahābalāḥ ।। kharoṣṭragajavaktrāś ca aśvagrīvāś ca saṃsthitāḥ ।। chāgamārjāravaktrāś ca meṣavaktrās tathā pare । cīriṇaḥ śikhinaś cānye jaṭilordhvaśiroruhāḥ ।। bhagnāḥ paripatanti sma śaṅkhaduṃdubhinisvanaiḥ । ke cit saumyamukhās tatra divyaiḥ śastrair alaṃkṛtāḥ ।। nānāpuṣpakṛtāpīḍā nānāpraharaṇāyudhāḥ । vāmanā vikaṭāś caiva siṃhavyāghraparicchadāḥ । rudhirārdramahādaṃṣṭrā mahāmāṃsabalipriyāḥ ।। devaṃ saṃparivāryātha mahāśatrupramardanam । līlāyamānās tiṣṭhanti saṃgrāmābhimukhonmukhāḥ ।। tato divyaṃ rathaṃ dṛṣṭvā rudrasyākliṣṭakarmaṇaḥ । kṛṣṇo garuḍam āsthāya yayau rudrāya saṃyuge । 
+vainateyastham asyantam āyāntam agraṇīr haraḥ 
+tiṣṭha tiṣṭheti covāca kruddho ahaṃkāragarvitaḥ ।। 
+bhagavān api govindaḥ smayann iva ca saṃsthitaḥ । 
+sthito asmi tava saṃgrāme yatheṣṭaṃ kriyatām iti । 
+hariṃ vivyādha kupito nārācānāṃ śatena saḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 860 | label: meter | g:0.194 m:0.5 ---
+
+jātamātraḥ sa bhagavān devānām ākṣipad vapuḥ 
+tataḥ saṃśayam āpannās tārām akathayan surāḥ ।।

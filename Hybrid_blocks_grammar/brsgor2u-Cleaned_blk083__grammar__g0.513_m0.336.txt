@@ -1,0 +1,9 @@
+--- source: brsgor2u-Cleaned.txt | block: 83 | label: grammar | g:0.513 m:0.336 ---
+
+sarvadharmopapatteśca ।
+nirguṇasya brahmaṇo jagadupādanatvavādivedāntasamanvayo viṣayaḥ sa kiṃ yannirguṇaṃ tannopādānaṃ yathā rūpamiti nyāyena virudhyate na veti saṃdehe, bhavatvīśvarasya viṣamasṛṣṭinimittatvaṃ tatprayojakasya karmaṇaḥ sattvāt, natūpādānatvaṃ tadvyāpakasya saguṇatvasyābhāvāditi pratyudāharaṇena prāpte siddhāntasūtratātparyamāha- cetanamiti ।
+vivartopādānatvaṃ nirguṇasyāpyaviruddhaṃ, ajñātatvasya bhramādhiṣṭhānatvaprayojakasya sattvāt, saguṇatvaṃ tvavyāpakaṃ śabdādiguṇeṣu nityatvādibhramadarśanāditi bhāvaḥ ।
+yadyapi sarvajñatvaṃ sarvaśaktitvaṃ ca loke kāraṇadharmatvenāprasiddhaṃ tathāpi yo yasya kartā sa tasya sarvasya jñātā śaktaśceti prasiddham, īśvarasyapi sarvakartṛtvaśravaṇātprasiddhyanusāreṇārthānniratiśayasarvajñatvaṃ sarvaśaktitvaṃ ca sidhyatītyabhisaṃdhāyāha- sarvajñaṃ sarvaśaktīti ।
+mahāmāyamiti ।
+kartṛtvopādānatvakathane sarvaśaṅkāpaṅkakṣālanāyoktam ।
+tasmādaupaniṣadasiddhānte na kaściddoṣa iti siddham ।।

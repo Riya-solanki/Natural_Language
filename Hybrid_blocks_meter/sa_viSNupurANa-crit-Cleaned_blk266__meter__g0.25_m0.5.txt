@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 266 | label: meter | g:0.25 m:0.5 ---
+
+prākṛto vaikṛtaś caiva kaumāro navamaḥ smṛtaḥ 
+ity ete vai samākhyātā nava sargāḥ prajāpateḥ ।।

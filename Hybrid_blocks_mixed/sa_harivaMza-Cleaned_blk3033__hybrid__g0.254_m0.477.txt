@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3033 | label: hybrid | g:0.254 m:0.477 ---
+
+keśinas tu tam abhyāśe dṛṣṭvā kṛṣṇam avasthitam 
+manuṣyabuddhayo gopāḥ kṛṣṇam ūcur hitauṣiṇaḥ ।। 
+kṛṣṇa kṛṣṇa mahābāho jñātīnāṃ nandivardhana । jagatām abhayado asi tvaṃ trāyasvāsmān viśeṣataḥ । 
+kṛṣṇa tāta na khalv eṣa sahasā te hayādhamaḥ 
+upasarpyo bhavān bālaḥ pāpaś caiṣa durāsadaḥ ।।

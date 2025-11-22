@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 311 | label: meter | g:0.056 m:0.854 ---
+
+śanaiḥ śanaiḥ sarabhasam anya-vanyayā
+sa tarṇayan surabhi-tṛṇāni saurabham ।
+vraja-sthitān prati virahākulībhavan
+bakāntakaḥ praticalati sma taiḥ saha ।। [rucirā]

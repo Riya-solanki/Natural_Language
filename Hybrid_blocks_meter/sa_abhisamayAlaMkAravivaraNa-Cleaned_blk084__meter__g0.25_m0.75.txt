@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 84 | label: meter | g:0.25 m:0.75 ---
+
+śiṣyāsādhāraṇatvasya parārthānukramasya ca ।
+jñānasyāyatnavṛtteśca pratiṣṭhā gotramucyate ।।

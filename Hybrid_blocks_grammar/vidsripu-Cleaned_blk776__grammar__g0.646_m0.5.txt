@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 776 | label: grammar | g:0.646 m:0.5 ---
+
+idānīṃ tīvrābhir dahana iva bhābhiḥ parigato mamāścaryaṃ sūryaḥ kim u sakhi rajanyām udayate ।
+ayaṃ mugdhe candraḥ kim iti mayi tāpaṃ prakaṭayaty anāthānāṃ bāle kim iha viparītaṃ na bhavati ।।

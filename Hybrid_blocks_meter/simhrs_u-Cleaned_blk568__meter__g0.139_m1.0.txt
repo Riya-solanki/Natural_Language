@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 568 | label: meter | g:0.139 m:1.0 ---
+
+rūpa-tāruṇyābhyāṃ, yathā-
+vāṭīṣu vāṭīṣu vilāsinīnāṃ
+caran yuvā cārutayātidṛptaḥ ।
+tṛṇāya nāmanyata puṣpa-cāpaṃ
+kareṇa līlā-kalitāravindaḥ ।।

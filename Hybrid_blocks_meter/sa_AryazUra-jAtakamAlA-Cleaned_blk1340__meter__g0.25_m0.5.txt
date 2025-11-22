@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1340 | label: meter | g:0.25 m:0.5 ---
+
+ayaṃ ca mahatārthena naiṣādo adya sameṣyati ।
+ubhayeṣāṃ priyaṃ kṛtvā mahadarhatyayaṃ priyam ।।

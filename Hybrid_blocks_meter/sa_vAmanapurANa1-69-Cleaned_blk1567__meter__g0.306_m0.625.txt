@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1567 | label: meter | g:0.306 m:0.625 ---
+
+tato harāṅghrirmālinyā gṛhīto hāyakāraṇāt ।
+kiṃ yācasi ca dāsyāmi muñcasveti haro abravīt ।।

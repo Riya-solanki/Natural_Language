@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 407 | label: meter | g:0.306 m:0.5 ---
+
+babandha setuṃ giricakravālaorvibheda saptaikaśareṇa tālān ।
+evaṃvidhaṃ karma tatāna rāmastvayā kṛtaṃ tanna mudhaiva garvaḥ ।।

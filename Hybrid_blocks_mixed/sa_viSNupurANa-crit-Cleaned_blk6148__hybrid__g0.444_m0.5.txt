@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6148 | label: hybrid | g:0.444 m:0.5 ---
+
+tad brahma tat paraṃ dhāma paramātmā sa ceśvaraḥ 
+sa viṣṇuḥ sarvam evedaṃ yato nāvartate yatiḥ ।।

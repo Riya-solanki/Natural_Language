@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4030 | label: meter | g:0.25 m:1.0 ---
+
+tasmātpativratāmatreranasūyāṃ tapasvinīm ।
+prasādayata vai patnīṃ bhānorudayakāmyayā ।।

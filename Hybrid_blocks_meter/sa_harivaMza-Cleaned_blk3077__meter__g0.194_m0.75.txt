@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3077 | label: meter | g:0.194 m:0.75 ---
+
+athāstaṃ gacchati tadā mandaraśmau divākare 
+saṃdhyāraktatale vyomni śaśāṅke pāṇḍumaṇḍale ।।

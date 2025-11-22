@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2055 | label: meter | g:0.257 m:0.5 ---
+
+ardhādhikaṃ māṣakamunmitasya samaṃ ca viṃśatritayaṃ śatānām ।
+guñjāśca ṣaḍ dhārayataḥ śate dve mūlyaṃ paraṃ tasya vadanti tajjñāḥ ।
+adhyardhamunmāna kṛtaṃ śataṃ syānmūlyaṃ guṇaistasya samanvitasya ।।

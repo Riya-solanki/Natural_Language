@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 44 | label: grammar | g:0.611 m:0.5 ---
+
+vaidagdhīm avadhīraya vyavahitaṃ kāryaṃ kalā-kauśalaṃ saujanyena gataṃ kim anyad aphalo rāśir guṇānām api
+yasmān na praṇayena na praṇatibhiḥ premṇā na na prīṇanair na prāṇair api te bhujaṃga gaṇikā vittaṃ vinā tuṣyati ।।

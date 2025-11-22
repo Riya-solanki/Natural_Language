@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 343 | label: grammar | g:0.562 m:0.5 ---
+
+kaṃ ṭaṃ paṃ śaṃ garutmānsyājjaṃ khaṃ vaṃ ca sudarśanam ।
+ṣaṃ caṃ phaṃ ṣaṃ gadādevī vaṃ laṃ maṃ kṣaṃ ca śaṅkhakam ।।

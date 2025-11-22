@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 291 | label: meter | g:0.25 m:0.5 ---
+
+kāntāre vipranaṣṭo ahamityalaṃ vibhrameṇa te ।
+svasya śiṣyagaṇasyeva samīpe vartase hi naḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2290 | label: meter | g:0.25 m:0.625 ---
+
+bhītas tvaritam āgamya sahasā sāśrulocanaḥ 
+api me svasti putrāyety asakṛd vacanaṃ vadan ।।

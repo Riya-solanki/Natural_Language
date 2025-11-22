@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 477 | label: grammar | g:0.57 m:0.371 ---
+
+uparasasaṃjñakānāha gandhaketyādi ।।
+idaṃ vakṣyamāṇaṃ uparasasaṃjñakaṃ syāt ।।
+kimidaṃ gandhakagairikaśilālakṣitikhecaram iti gandhakaṃ pratītaṃ gairikaṃ dhātugairikaṃ śilā manohvā ālaṃ haritālaṃ kṣitiḥ sphaṭikā khecaraṃ kāsīsaṃ etat sarvamiti ca punaḥ añjanaṃ nīlāñjanaṃ punaḥ kaṅkuṣṭhaṃ viraṅgaṃ ityaṣṭau uparasasaṃjñakā ityarthaḥ ।।

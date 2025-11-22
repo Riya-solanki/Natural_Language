@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 1010 | label: grammar | g:0.57 m:0.244 ---
+
+ata eva ca sarvāṇyanu ।
+yata eva prakṛtivikārabhāvābhāvanmanasi na svarūpalayo vāco api tu vṛttilayaḥ, ata eva ca sarveṣāṃ cakṣurādīnāmidriyāṇāṃ satyeva savṛttike manasi vṛtteranugatirlayo na svarūpalayaḥ ।
+vācastu pṛthak grahaṇaṃ pūrvasūtre udāharaṇāpekṣaṃ na tu tadeveha vivakṣitamityarthaḥ ।।

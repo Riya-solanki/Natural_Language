@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 585 | label: meter | g:0.25 m:0.5 ---
+
+gauṇametaddhi nārīṇāṃ nāma vāmā iti sthitam ।
+syāccaiva dānavighnaste tena vāsaṃ na rocaye ।।

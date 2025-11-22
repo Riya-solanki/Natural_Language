@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1253 | label: grammar | g:0.667 m:0.5 ---
+
+athāsmin vajrakulaguhyamaṇḍale praveśavidhivistaro bhavati । tatrādita eva tāvat trilokavijayamahāmaṇḍalapraveśavidhinā praviśya, vajraguhyavajrakulasamayamudrāpratimudropamudrājñānamudrābhiḥ vajradharapūjārtha nṛtyopahāraḥ kartavya iti ।

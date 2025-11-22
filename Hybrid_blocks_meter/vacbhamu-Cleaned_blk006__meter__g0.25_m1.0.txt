@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 6 | label: meter | g:0.25 m:1.0 ---
+
+mārtaṇḍatilakasvāmimahāgaṇapatīn vayam ।
+viśvavandyānnamasyāmaḥ sarvasiddhividhāyinaḥ ।।

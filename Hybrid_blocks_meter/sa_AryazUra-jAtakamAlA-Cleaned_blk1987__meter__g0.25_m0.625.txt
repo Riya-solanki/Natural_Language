@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1987 | label: meter | g:0.25 m:0.625 ---
+
+prāpyaivamānṛṇyamahaṃ divjasya gantāsmi bhūyo anṛṇatāṃ tavāpi ।
+ihāgamātprītikṛtakṣaṇābhyāṃ nirīkṣyamāṇo bhavadīkṣaṇābhyām ।।

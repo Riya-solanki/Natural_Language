@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6388 | label: meter | g:0.25 m:0.5 ---
+
+vidhijñāstarpaṇaṃ kuryurna pātre tu kadācana ।
+yadapāṃ krūramāṃsāttu yadamedhyaṃ tu kiñcana ।।

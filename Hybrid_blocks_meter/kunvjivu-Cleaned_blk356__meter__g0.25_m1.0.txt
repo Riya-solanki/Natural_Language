@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 356 | label: meter | g:0.25 m:1.0 ---
+
+varṇacchāyānusāreṇa guṇamārgānuvartinī ।
+vṛttivaicitryayukteti saiva proktā cirantanaiḥ ।।

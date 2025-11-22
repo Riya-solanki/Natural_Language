@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 115 | label: meter | g:0.268 m:0.852 ---
+
+ratikelihṛtanivasanakarikisalayaruddhanayanayugalasya ।
+rudrasya tṛtīyanayanaṃ pārvatīparicumbitaṃ jayati ।।
+iti chāyā ।।

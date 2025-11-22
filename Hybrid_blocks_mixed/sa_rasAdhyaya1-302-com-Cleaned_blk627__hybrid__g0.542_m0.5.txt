@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 627 | label: hybrid | g:0.542 m:0.5 ---
+
+yadi caivaṃ punaḥ punarjāraṇena kāṃsyāt ṣaḍguṇaṃ nāgaṃ jīrṇaṃ bhavati ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3918 | label: meter | g:0.194 m:0.625 ---
+
+taṃ kṛcchragatam ājñāya parivavrur janārdanam 
+dākṣiṇātyā jighāṃsanto rājānaḥ sarva eva te ।।

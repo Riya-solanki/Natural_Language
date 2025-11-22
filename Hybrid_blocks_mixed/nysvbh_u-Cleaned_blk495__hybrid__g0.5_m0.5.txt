@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 495 | label: hybrid | g:0.5 m:0.5 ---
+
+adhyāpanaṃ liṅgam asati saṃpradāne adhyāpanaṃ na syāditi ।।

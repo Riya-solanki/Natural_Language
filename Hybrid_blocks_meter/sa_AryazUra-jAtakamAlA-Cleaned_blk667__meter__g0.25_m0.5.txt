@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 667 | label: meter | g:0.25 m:0.5 ---
+
+atulyagandharddhirasaujasaṃ śubhāṃ sudhāṃ kilotsṛjya varāpsarodhṛtām ।
+mudaṃ prayāsyanti vapādikāraṇādvadhena śocyasya paśordivaukasaḥ ।।

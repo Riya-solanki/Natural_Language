@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6875 | label: meter | g:0.31 m:0.852 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+nārasiṃhastutiṃ vakṣye śivoktaṃ śaunakādhunā ।
+pūrvaṃ mātṛgaṇāḥ sarve śaṅkaraṃ vākyamabruvan ।।

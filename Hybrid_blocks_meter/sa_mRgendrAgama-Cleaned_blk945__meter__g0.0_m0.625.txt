@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 945 | label: meter | g:0.0 m:0.625 ---
+
+kumbhako recakaśceṣṭo dīkṣāsaṃsthāpaneṣu ca 
+yavīyān madhyamo jyeṣṭhaḥ sa tālairdvādaśādibhiḥ ।। MT

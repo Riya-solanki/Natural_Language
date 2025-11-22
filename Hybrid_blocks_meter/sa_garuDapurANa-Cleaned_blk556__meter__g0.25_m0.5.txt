@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 556 | label: meter | g:0.25 m:0.5 ---
+
+akṣaraṃ sarvagaṃ nityaṃ mahabdrahmāsti kevalam ।
+sarvasya jagato mūlaṃ sarvagaṃ parameśavaram ।।

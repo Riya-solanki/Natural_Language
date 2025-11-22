@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 161 | label: grammar | g:0.625 m:0.5 ---
+
+nijanijeṣu padeṣu patantv imāḥ karaṇavṛttaya ullasitā mama kṣaṇamapīśa manāg api maiva bhūt tvadavibhedarasakṣatisāhasam ।।

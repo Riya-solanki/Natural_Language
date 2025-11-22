@@ -1,0 +1,3 @@
+--- source: vidsripu-Cleaned.txt | block: 361 | label: meter | g:0.25 m:1.0 ---
+
+tato vayaḥsandhivrajyā।।

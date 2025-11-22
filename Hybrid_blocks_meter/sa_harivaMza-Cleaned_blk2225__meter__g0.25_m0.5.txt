@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2225 | label: meter | g:0.25 m:0.5 ---
+
+taṃ tu garbhaṃ prayatnena rarakṣur tasya rakṣiṇaḥ 
+jāgrataḥ prayatāḥ sarve māsān saṃkhyāya śastriṇaḥ । 
+sa tatra garbhavasatiṃ vasaty ātmecchayā hariḥ ।। 
+yasminn ahani deveśaṃ garbham ādatta devakī । 
+yaśodāpi samādhatta garbhaṃ tadahar eva tu 
+viṣṇoḥ śarīrajāṃ nidrāṃ viṣṇor nirdeśakāriṇīm ।।

@@ -1,0 +1,10 @@
+--- source: vacbhamu-Cleaned.txt | block: 235 | label: grammar | g:0.538 m:0.371 ---
+
+āropitatadbhāvasya tvanyasya nirūpakatve tena tannirūpitaṃ na syāt ।
+tasmāttādṛgātmapratipattividhiparebhyo vedāntebhyaḥ tādṛgātmaviniścayaḥ ।
+tadetatsarvamāha- yadyapiiti ।
+vidhiparebhyo api vastutattvaviniścaya ityatra vidarśanamuktam- yathā yūpaiti ।
+ayūpe paśuṃ badhnāti' iti bandhanāya viniyukte yūpe, tasyālaukikatvātko asau yūpa ityapekṣite akhādiro yūpo bhavati', ayūpaṃ takṣati', ayūpamaṣṭāśrīkaroti' ityādibhirvākyaistakṣaṇādividhipapairapi saṃskārāviṣṭaṃ viśiṣṭasaṃsthānaṃ dāru yūpa iti gamyate ।
+evamāhavanīyādayo apyavagantavyāḥ ।
+pravṛttinivṛttiparasya śāstratvaṃ na svarūpaparasya, kārya eva ca saṃbandho na svarūpo, iti hetudvayaṃ bhāṣyavākyenopapāditam- pravṛttinivṛttiprayojanatvātityādinā tatsāmānyādvedāntānāmapi tathaivārthavattvaṃ syātityantena ।
+na ca svatantraṃ kāryaṃ niyojyamadhikāriṇamanuṣṭhātāramantareṇeti niyojyabhedamāha- sati ca vidhiparatve

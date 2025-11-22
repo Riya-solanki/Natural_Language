@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 1068 | label: grammar | g:0.513 m:0.207 ---
+
+[] tataś ca te sarve samudvignam uditāḥ samuditā vitrāsānanda-nispandaṃ śrīman-nanda-mandira-jana-vṛndam anuvindamānāḥ śrī-govinda-vadanāravindam asra-sanditāḥ sandarīdṛśya parāmṛśya ca bakāntānām aśāntānāṃ maraṇe kāraṇaṃ parasparam ūcuḥ-
+asya bālasya kiṃ pūrvaṃ kim apūrvaṃ vrajeśituḥ ।
+kim arthaṃ vā pūrvam āgas te cakrus te hatā yataḥ ।। [anuṣṭubh]

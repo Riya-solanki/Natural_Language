@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 401 | label: grammar | g:0.583 m:0.5 ---
+
+[] sovāca-deva ! tasya devasya kām api sevāyogyām evātra yogyām upalabhāmahe ।

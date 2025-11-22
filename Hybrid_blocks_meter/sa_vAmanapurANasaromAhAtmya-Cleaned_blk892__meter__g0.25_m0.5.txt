@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 892 | label: meter | g:0.25 m:0.5 ---
+
+yuṣmābhiḥ pātitaṃ liṅgaṃ sārayitvā mahātsaraḥ ।
+sāṃnihatyaṃ tu vikhyātaṃ tasmiñśīghraṃ pratiṣṭhitam ।।

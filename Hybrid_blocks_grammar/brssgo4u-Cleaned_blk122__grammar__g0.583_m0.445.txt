@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 122 | label: grammar | g:0.583 m:0.445 ---
+
+na ।
+tasya dagdhabījatvāt ।
+mithyājñāna avaṣṭambhaṃ hi karmāntaraṃ dehapāta upabhogāntaram ārabhate tat ca mithyājñāna avaṣṭambhaṃ hi karmāntaraṃ dehapāta upabhogāntaram ārabhate tatca mithyājñānaṃ samyak jñānena dagdham ityataḥ sādhu etat ārabdhakāryakṣaye viduṣaḥ kaivalyam avaśyaṃ bhavati iti ।।

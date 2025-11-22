@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1023 | label: meter | g:0.194 m:0.729 ---
+
+tad-dhvani-kalanāt tava sakhi cittam
+dhṛtam api yatnād bhavitā bhittam ।
+sa yadā gantā dvāra-sadeśam
+sakhi visṛjeḥ sukha-mūrcchā-veśam ।।

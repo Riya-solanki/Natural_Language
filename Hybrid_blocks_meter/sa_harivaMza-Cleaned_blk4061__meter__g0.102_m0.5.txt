@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4061 | label: meter | g:0.102 m:0.5 ---
+
+yādṛśaṃ tu gṛhe dṛṣṭaṃ narakasya dhanaṃ bahu 
+na vai rājñā kubereṇa na śakreṇa yamena ca 
+ratnasaṃnicyas tādṛg dṛṣṭapūrvo na ca śrutaḥ ।।

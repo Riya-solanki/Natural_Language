@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4747 | label: meter | g:0.272 m:0.845 ---
+
+kaphapittājjvaraḥ stambho nidrā tandrā śirorujā ।
+aṅgāvasādavikṣeṃpau pralāpārocakabhramāḥ ।।

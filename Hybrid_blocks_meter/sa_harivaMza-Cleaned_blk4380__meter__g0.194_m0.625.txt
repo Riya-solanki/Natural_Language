@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4380 | label: meter | g:0.194 m:0.625 ---
+
+so antarikṣagato bhūtvā māyayā śīghravikramaḥ 
+ājagāma purīṃ ramyāṃ rakṣitāṃ tejasā pituḥ ।।

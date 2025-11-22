@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 790 | label: grammar | g:0.75 m:0.5 ---
+
+[] sutas tu kā khalv apratītir iti ca na vidāñcakāra । [] kṣaṇataś ca tāṃ gatāṃ nirīkṣya punar āgataḥ sakṣaṇatayā janāya tat-phala-vibhajanāya jananīṃ niyojayāmāsa । [] mātā cāmandenānandena kṛta-spandena kara-dvandvena tāni vibhajantī tadantīkṛtiṃ nāsasāda । dina-katipayaṃ vismaya-vaśā smayamānā vasati sma । tad-āsvāda-karāś ca labdha-camatkārā na vismaranti sma ।

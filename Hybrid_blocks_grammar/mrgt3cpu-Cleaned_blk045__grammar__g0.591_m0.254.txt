@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 45 | label: grammar | g:0.591 m:0.254 ---
+
+Vṛtti:
+kṛtrimasaṃsāravaitṛṣṇyagurudevādibhaktiprakarṣāsṃdarśanādaparipakvve jane vyabhicāriṇi dīkṣite sati [sṛṣṭitaḥ] sṛṣṭikrameṇa pratitattvasaṃhitāhomāt sarvasamāptau [adhaḥ] adhastāt [pūrṇāsamanvitaṃ] pūrṇāhutidānataḥ [saṃjīvanaṃ] saṃjīvanākhyaṃ karma dīkṣāphalapratibandhakaṃ bhavati।
+nanu dīkṣāyāṃ karmadāhasya vṛttatvāt punaḥ saṃjīvanam kathamupapadyata ityetadāha

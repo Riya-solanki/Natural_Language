@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1345 | label: meter | g:0.194 m:0.5 ---
+
+eṣo ahaṃ sagaṇaṃ daityaṃ varadānena darpitam 
+avadhyam amarendrāṇāṃ dānavendraṃ nihanmi tam ।।

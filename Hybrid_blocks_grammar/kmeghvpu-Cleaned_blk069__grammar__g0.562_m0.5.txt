@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 69 | label: grammar | g:0.562 m:0.5 ---
+
+matvā devaṃ dhanapatisakhaṃ yatra sākṣād vasantaṃ prāyaś cāpaṃ na vahati bhayān manmathaḥ ṣaṭpadajyam ।
+sabhrūbhaṅgaprahitanayanaiḥ kāmilakṣyeṣv amoghais tasyārambhaś caturavanitāvibhramair eva siddhaḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 149 | label: meter | g:0.342 m:0.83 ---
+
+śrīgaruḍamahāpurāṇam- 
+iriruvāca ।
+kṛtvehāmutrasaṃsthānaṃ prajāsargaṃ tu mānasam ।
+athāmṛjatprajākartṝnbhānasāṃstanayānprabhuḥ ।।

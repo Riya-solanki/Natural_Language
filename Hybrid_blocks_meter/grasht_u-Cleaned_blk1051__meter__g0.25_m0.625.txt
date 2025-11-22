@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 1051 | label: meter | g:0.25 m:0.625 ---
+
+kathamapi yaccājñānāt nāgādikalaṅkito raso bhuktaḥ ।
+tannodanāya ca pibet gojalakaṭukāravalliśiphāḥ ।।

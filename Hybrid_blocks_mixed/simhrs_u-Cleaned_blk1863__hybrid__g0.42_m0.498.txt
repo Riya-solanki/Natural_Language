@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1863 | label: hybrid | g:0.42 m:0.498 ---
+
+atha mṛdavam-
+doṣā guṇā guṇā doṣā yatra syur mṛdavaṃ hi tat ।।

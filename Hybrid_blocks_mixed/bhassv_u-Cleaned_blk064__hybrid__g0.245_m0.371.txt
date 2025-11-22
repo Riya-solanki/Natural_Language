@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 64 | label: hybrid | g:0.245 m:0.371 ---
+
+{yaugandharāyaṇaḥ} - tatas tataḥ 
+{brahmacārī} - tataḥ sa rājā mahītalaparisarpaṇapāṃsupāṭalaśarīraḥ sahasotthāya hā vāsavadatte hā avantirājaputri hā priye hā priyaśiṣye iti kim api bahu pralapitavān 
+kiṃ bahunā

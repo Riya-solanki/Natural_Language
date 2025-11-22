@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 817 | label: meter | g:0.18 m:0.573 ---
+
+yathā-
+etasmān māṃ kuśalinam abhijñāna-dānād viditvā
+mā kaulīnād asita-nayane mayy aviśvāsinī bhūḥ ।
+snehān āhuḥ kim api virahe dhvaṃsinas te tv abhogād
+iṣṭe vastuny upacita-rasāḥ prema-rāśī bhavanti ।।

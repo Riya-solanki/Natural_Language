@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 41 | label: meter | g:0.05 m:0.607 ---
+
+{kāñcukīyaḥ} - bhoḥ kiṃ kriyatām 
+{yaugandharāyaṇaḥ} - iyaṃ me svasā 
+proṣitabhartṛkām imām icchāmy atrabhavatyā kaṅcit kālaṃ paripālyamānām 
+kutaḥ

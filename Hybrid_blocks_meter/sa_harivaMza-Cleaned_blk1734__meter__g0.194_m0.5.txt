@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1734 | label: meter | g:0.194 m:0.5 ---
+
+ayaṃ sa nidhane hetuḥ sarveṣāṃ daitavadviṣām 
+asya cakraṃ praviṣṭāni kulāny asmākam āhave ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 126 | label: grammar | g:0.729 m:0.5 ---
+
+[] tad evam ahīnam ahinaṃ prati sāṃyugīnatārato' pi cirato labdha-cchidratayābhidravann eva tadīya-samagra-grīvāgra-gaṇya-mūla-nālam eva balānujanmā balād avajagrāha nijagrāha ca ।

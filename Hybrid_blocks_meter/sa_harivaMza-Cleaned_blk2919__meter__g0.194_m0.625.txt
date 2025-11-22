@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2919 | label: meter | g:0.194 m:0.625 ---
+
+dhenukas tālaśikharāt pātito jīvitaṃ vinā 
+tasyāgrajo mahāvīryo balabhadro durātmavān । 
+pralambaṃ yaṃ mṛdhe devā na śekur abhivīkṣitum 
+bālena muṣṭinaikena sa hataḥ prākṛto yathā ।।

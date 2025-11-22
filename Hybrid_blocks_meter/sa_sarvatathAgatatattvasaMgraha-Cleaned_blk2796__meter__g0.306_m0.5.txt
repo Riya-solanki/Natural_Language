@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2796 | label: meter | g:0.306 m:0.5 ---
+
+mahāmudrāṃ samādhāya ātmano vā parasya vā ।
+manasā paśyate rūpaṃ yato janma sa āvahed ।।

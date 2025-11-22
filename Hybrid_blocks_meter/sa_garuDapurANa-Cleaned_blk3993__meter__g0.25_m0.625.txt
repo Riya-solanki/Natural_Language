@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3993 | label: meter | g:0.25 m:0.625 ---
+
+suparṇaḥ kṛtajiccaiva bṛhadbhrājaśca dhārmikaḥ ।
+kṛtañjayo dhanañjayaḥ saṃjayaḥ śākya eva ca ।।

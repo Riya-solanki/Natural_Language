@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8264 | label: meter | g:0.311 m:0.867 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+evaṃ te kathitastārkṣya jīvitasya vinarṇayaḥ ।
+mānuṣāṇāṃ hitārthāya pretatvavinivṛttaye ।।

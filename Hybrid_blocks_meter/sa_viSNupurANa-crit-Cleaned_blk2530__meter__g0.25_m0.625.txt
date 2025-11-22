@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2530 | label: meter | g:0.25 m:0.625 ---
+
+kṛṣṇadvaipāyanaṃ vyāsaṃ viddhi nārāyaṇaṃ prabhum 
+ko anyo hi bhuvi maitreya mahābhāratakṛd bhavet ।।

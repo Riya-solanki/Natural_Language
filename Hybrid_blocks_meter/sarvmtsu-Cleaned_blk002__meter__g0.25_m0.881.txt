@@ -1,0 +1,27 @@
+--- source: sarvmtsu-Cleaned.txt | block: 2 | label: meter | g:0.25 m:0.881 ---
+
+pramāṇanirūpaṇam ।
+iha samyaganubhavaḥ pramāṇam ।
+samyagrahaṇaṃ saṃśayaviparyayāpohārtham ।
+tatrānavadhāraṇajñānaṃ saṃśayaḥ ।
+yathā sthāṇurvā puruṣo vāyamityādi ।
+mithyādhyavasāyo viparyayaḥ ।
+yathā dvau candramasāvityādi ।
+smṛtivyavacchedārthamanubhavagrahaṇam ।
+saṃskāramātrajaṃ jñānaṃ smṛtiḥ ।
+yathā sā me mātetyādi ।
+prācīnānubhavavāsanā saṃskāraḥ ।
+sa ca sadṛśavastusandarśanodbuddhaḥ smṛtihetuḥ ।
+kathaṃ punaranubhavagrahaṇena smṛtivyavacchedaḥ, smṛtyanyajñānasyānubhavatvāt ।
+yathāhuḥ- aanubhūtiḥ pramāṇaṃ sā smṛteranye'ti ।
+saṃskāramātrajamiti mātracā pratyabhijñā vyāvartitā ।
+saṃskārasamprayogābhyāṃ jāyamānaṃ jñānaṃ pratyabhijñā ।
+yathā sa evāyaṃ ghaṭa iti ।
+nanvanubhavasyaiva pramāpātve kuta āgamādiṣu pramāṇatvavyavahāraḥ ।
+pramāṇajanakatvādeveti brūmaḥ ।
+taduktaṃ śrībhagavatpādaiḥ-''atra brahmavidyopeniṣacchabdavācyā ।
+tatparāṇāṃ sahetoḥ saṃsārasyātyantāvasādanāt ।
+upanipūrvasya sadestadarthatvāt ।
+tādarthyād grantho apyupaniṣaducyate iti ।
+tacca pramāṇamaṣṭavidhaṃ pratyakṣamanumānamāgama upamānamarthāpattirabhāvaḥ sambhava aitihyamiti ।।
+[]

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1124 | label: grammar | g:0.583 m:0.414 ---
+
+dāraiḥ krīḍitam unmadaiḥ suraguros tenaiva naivāmunā bhagnaṃ bhūri surāsuravyatikare tenaiva naivāmunā ।
+naivāyaṃ sa imaṃ nṛjaḥ sa iva vā naivaiṣa doṣākaraḥ ko ayaṃ bhoḥ śaśinīva locanavatām arke kalaṅkaḥ samaḥ ।।
+madhukūṭasya

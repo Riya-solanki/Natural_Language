@@ -1,0 +1,4 @@
+--- source: sa_hetvAbhAsadazaka-Cleaned.txt | block: 11 | label: grammar | g:0.688 m:0.5 ---
+
+ajñātvā hṛdgataṃ te katham abhilaṣitaṃ prārthaye bhāmini tvāṃ nanv etasmāt kaṭākṣād anuminu hṛdaye rāga eveti cen na ।
+hetus sopādhiko ayaṃ bhavati gurutaro hrībharo asminn upādhiḥ sādhyavyāpī priyādau sa khalu raṇamukhe sādhanāvyāpakaś ca ।।

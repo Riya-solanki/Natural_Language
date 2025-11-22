@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 613 | label: meter | g:0.25 m:0.625 ---
+
+sāpi teneha muninā ārādhya parameśvaram ।
+ṛṣīṇāmupakārārthaṃ kurukṣetraṃ praveśitā ।।

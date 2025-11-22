@@ -1,0 +1,5 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 69 | label: meter | g:0.25 m:0.5 ---
+
+āśraddhyaṃ katamat । karmaphalasatyaratneṣvanabhisaṃpratyayaḥ । śraddhāvipakṣaścetaso aprasādaḥ ।।
+kauśiddyaṃ katamatṃḥ kuśale cetaso anabhyutsāho vīryavipakṣa ।।
+pramādaḥ katamaḥ । yā lobhadveṣamohekauśīddyaiścitasyānārakṣā kuśalasyābhāvanā ।।

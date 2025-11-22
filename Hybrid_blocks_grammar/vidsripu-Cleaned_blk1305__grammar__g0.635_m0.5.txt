@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1305 | label: grammar | g:0.635 m:0.5 ---
+
+ye dīneṣu kṛpālavaḥ spṛśati yān alpo api na śrīmadaḥ śrāntā ye ca paropakārakaraṇe hṛṣyanti ye yācitāḥ ।
+svasthāḥ saty api yauvanodayamahāvyādhiprakope api ye te bhūmaṇḍalamaṇḍanaikatilakāḥ santaḥ kiyanto janāḥ ।।

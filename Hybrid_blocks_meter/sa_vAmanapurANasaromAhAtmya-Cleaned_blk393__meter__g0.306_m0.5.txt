@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 393 | label: meter | g:0.306 m:0.5 ---
+
+yena yena vidhānena yasya tīrthasya yat phalam ।
+tat sarvaṃ vistateṇeha brūhi paurāṇikottama ।।

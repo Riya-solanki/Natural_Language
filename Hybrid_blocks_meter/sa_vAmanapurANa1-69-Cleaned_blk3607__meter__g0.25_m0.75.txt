@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3607 | label: meter | g:0.25 m:0.75 ---
+
+piṇḍanirvapaṇaṃ tatra pretānāmanupūrvaśaḥ ।
+cakāra svapitṝṇāṃ ca dāyādānāmanantaram ।।

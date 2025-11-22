@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1082 | label: grammar | g:0.75 m:0.5 ---
+
+[] kṛṣṇa uvāca-hanta, muṣṭi-sambadhya-madhyamāḥ, pratītim atītha cet pratyakṣata eva lakṣyatām । sarvābhir evāgamya na vā sarvān atirekayā kayācid ekayāpi ।

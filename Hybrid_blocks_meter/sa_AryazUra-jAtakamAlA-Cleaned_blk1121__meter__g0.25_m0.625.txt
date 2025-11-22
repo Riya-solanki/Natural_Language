@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1121 | label: meter | g:0.25 m:0.625 ---
+
+śramaṇadvijamitrasaṃśritānsvajanaṃ dīnajanaṃ ca mānayan ।
+śuciśīladhanaḥ kimāpnuyānna sa geheṣu vane yadīpsati ।।

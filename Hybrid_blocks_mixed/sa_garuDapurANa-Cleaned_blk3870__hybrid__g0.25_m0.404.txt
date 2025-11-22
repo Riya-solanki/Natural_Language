@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3870 | label: hybrid | g:0.25 m:0.404 ---
+
+sunayādvītahavyastu vītahavyāddhatiḥ smṛtaḥ ।
+bahulāśvo dhṛteḥ putro bahulāśvātkṛtiḥ smṛtaḥ ।।
+janakasya dvaye vaṃśe ukto yogasamāśrayaḥ ।।
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe sūryavaṃśavarṇanaṃ nāmāṣṭatriṃśaduttaraśatatamo adhyāyaḥ

@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1816 | label: hybrid | g:0.39 m:0.538 ---
+
+atha prapañcaḥ-
+prapañcas tu mithaḥ stotram asad-bhūtaṃ ca hāsya-kṛt ।।

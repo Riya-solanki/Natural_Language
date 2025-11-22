@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1101 | label: grammar | g:0.583 m:0.5 ---
+
+soḍhaprauḍhahimaklamāni śanakaiḥ patrāṇy adhaḥ kurvate sambhāvyacchadavāñchayaiva taravaḥ kecit kṛtaghnavratāḥ ।
+nāmanyanta tadātanīm api nijacchāyākṣatiṃ taiḥ punas teṣām eva tale kṛtajñacaritaiḥ śuṣyadbhir apy āsyate ।।

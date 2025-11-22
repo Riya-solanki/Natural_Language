@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1308 | label: hybrid | g:0.521 m:0.5 ---
+
+ekaḥ parārthaṃ pradadau svadehaṃ samādade anyaḥ param ātmahetoḥ ।
+aho vikṛṣṭaṃ caritaṃ narāṇāṃ guṇeṣu doṣeṣu ca sādarāṇām ।।

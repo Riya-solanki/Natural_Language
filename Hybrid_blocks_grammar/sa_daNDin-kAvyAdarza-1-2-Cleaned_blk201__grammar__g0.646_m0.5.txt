@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 201 | label: grammar | g:0.646 m:0.5 ---
+
+naitan mukham idaṃ padmaṃ ta netre bhramarāv imau etāni kesarāṇy eva naitā dantārciṣas tava ।।

@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 40 | label: hybrid | g:0.476 m:0.5 ---
+
+suragurum abhipūjya svargamokṣaikahetuṃ paṭhati yadi manuṣyaḥ prāñjalir nānyacetāḥ ।
+vrajati śivasamīpaṃ kinnaraiḥ stūyamānaḥ stavanam idam amoghaṃ puṣpadantapraṇītam ।। Smstadd

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1010 | label: meter | g:0.056 m:0.521 ---
+
+vastraṃ dadhāti jananī-nihitaṃ prayatnāt
+kṣipraṃ ca bandhana-dhiyā svayam ujjahāti ।
+bhūyas tad ardati bibharti ca yasya cārdhaṃ
+vrīḍāṃ vikalpya laghu nityayati sma kṛṣṇaḥ ।। [vasantatilakā]

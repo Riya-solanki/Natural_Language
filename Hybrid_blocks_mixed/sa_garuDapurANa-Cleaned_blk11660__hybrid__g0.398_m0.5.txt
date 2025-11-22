@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11660 | label: hybrid | g:0.398 m:0.5 ---
+
+atyuttamaṃ bhāgavatasya pustakaṃ sudurghaṭaṃ vāyutīrthaṃ ca kanye ।
+atyuttamaṃ dravyadānaṃ ca devi sudurghaṭaṃ vāyutīrthaṃ nṛṇāṃ hi ।
+sudurlabho vaiṣṇavaistattvavidbhirharervicāro vāyutīrthe ca kanye ।।

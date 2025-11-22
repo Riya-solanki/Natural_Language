@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3915 | label: meter | g:0.25 m:0.5 ---
+
+avasthāpya ca tat sainyaṃ rukmī balamadānvitaḥ 
+ādāya niśitaṃ bāṇam idamāha janārdanam ।। 
+are gopakadāyāda paradārapradharṣaṇa । 
+vimucyatām iyaṃ bālā sthātavyaṃ ca kṣaṇāntaram । 
+śiraśchetsyāmi te bāṇaiḥ sthito asi yadi matpuraḥ । 
+ityuktvā niśitaṃ bāṇaṃ saṃdadhe dhanuṣi prabho । 
+cikīrṣur dvairathaṃ yuddham abhyayān madhusūdanam ।।

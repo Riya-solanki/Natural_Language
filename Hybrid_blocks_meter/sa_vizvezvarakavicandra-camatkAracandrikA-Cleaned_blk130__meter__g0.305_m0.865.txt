@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 130 | label: meter | g:0.305 m:0.865 ---
+
+amaṅgalārthaṃ yathā 
+śrīsiṅgabhūpālajayaprayāṇasannāhanissāṇadhaṇaṃkriyābhiḥ ।
+sadyaḥ parisphoṭitasaṃdhivandhāḥ parimriyante paripanthibhūpāḥ ।।

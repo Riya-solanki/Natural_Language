@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1124 | label: meter | g:0.25 m:0.625 ---
+
+tvamindraśca yamaścaiva varuṇo dhanado anilaḥ ।
+upaplavaścitrabhānuḥ svarbhānureva ca ।।

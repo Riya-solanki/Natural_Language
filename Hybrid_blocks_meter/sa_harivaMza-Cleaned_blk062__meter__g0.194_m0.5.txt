@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 62 | label: meter | g:0.194 m:0.5 ---
+
+teneyaṃ gaur mahārāja dugdhā sasyāni bhārata 
+prajānāṃ vṛttikāmena devaiḥ sarṣigaṇaiḥ saha ।।

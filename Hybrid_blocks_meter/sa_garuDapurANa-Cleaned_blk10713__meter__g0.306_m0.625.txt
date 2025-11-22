@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10713 | label: meter | g:0.306 m:0.625 ---
+
+gāyatrīvadbhāratyā devadeva jñātavyamevaṃ haritattvavedibhiḥ ।
+mamājñānaṃ dṛśyate yatra kutra daityādīnāṃ mohanārtha sadaiva ।।

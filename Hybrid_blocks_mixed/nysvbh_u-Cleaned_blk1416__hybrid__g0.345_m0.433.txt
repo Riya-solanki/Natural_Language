@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1416 | label: hybrid | g:0.345 m:0.433 ---
+
+anyatrānuvādāt śabdapunaruktam arthapunaruktaṃ vā anityaḥ śabdaḥ nityaḥ śabdaḥ' iti śabdapunaruktam arthapunaruktam aanityaḥ śabdaḥ nirodhadharmako dhvānaḥ' iti।
+anuvāde tv apunaruktam śabdābhyāsādarthaviśeṣopapatteḥ yathā
+"hetvapadeśāt pratijñāyāḥ punarvacanaṃ nigamanam "
+iti ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1121 | label: meter | g:0.194 m:1.0 ---
+
+pṛthagdīpaiḥ pūjayitvā phalguṣālisugandhibhiḥ 
+supraṇītaṃ subhaktaṃ ca ājñāguṇavidhāyinam ।।

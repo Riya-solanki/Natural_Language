@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1472 | label: meter | g:0.056 m:1.0 ---
+
+{nānāvidhapraharaṇairnṛpa saṃprahāre
+svīkṛtya dāruṇaninādavataḥ prahārān ।
+dṛptārivīravisareṇa vasuṃdhareyaṃ
+nirvipralambhaparirambhavidhirvitīrṇā ।।}

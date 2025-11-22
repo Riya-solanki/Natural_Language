@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 110 | label: grammar | g:0.615 m:0.5 ---
+
+mātas te adharakhaṇḍanāt paribhavaḥ kāpālikād yo abhavat sa brahmādiṣu kathyatām iti muhur bālyād guhe jalpati ।
+gaurīṃ hastayugena ṣaṇmukhavaco roddhuṃ nirīkṣyākṣamāṃ vailakṣyāc caturāsyaniṣphalaparāvṛttiś ciraṃ pātu vaḥ ।।

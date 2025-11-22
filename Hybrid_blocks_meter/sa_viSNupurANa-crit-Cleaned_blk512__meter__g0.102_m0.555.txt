@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 512 | label: meter | g:0.102 m:0.555 ---
+
+ānīya sahitā daityaiḥ kṣīrābdhau sakalauṣadhīḥ 
+manthānaṃ mandaraṃ kṛtvā netraṃ kṛtvā tu vāsukim 
+mathyatām amṛtaṃ devāḥ sahāye mayy avasthite ।।

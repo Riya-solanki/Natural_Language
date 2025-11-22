@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10337 | label: meter | g:0.306 m:0.5 ---
+
+tṛtīyabhāgo vijñeyo nātra kāryā vicāraṇā ।
+tathā mūle ca tamasi hyeko bhāgastamaḥ smṛtaḥ ।।

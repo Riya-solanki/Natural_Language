@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 59 | label: meter | g:0.272 m:0.845 ---
+
+svaravyañjanavarṇāṃśca navasaṃkhyānuvartinaḥ ।
+abaddhānyonyasaṃyogā yo vetti sa jagadruruḥ ।।

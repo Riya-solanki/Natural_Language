@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 136 | label: meter | g:0.25 m:0.555 ---
+
+amṛtatvaṃ punaryānti, amṛtena tu sevitāḥ ।। iti । 
+badhyati yena jaḍaḥ parimucyati tena budhaḥ ।
+bodhivibhāvanayā viparītamidaṃ sakalam ।।

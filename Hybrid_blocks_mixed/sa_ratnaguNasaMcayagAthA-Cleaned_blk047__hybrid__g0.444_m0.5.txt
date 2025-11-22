@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 47 | label: hybrid | g:0.444 m:0.5 ---
+
+evaṃ jino bhaṇati apratikūlabhāṇī yadahaṃ imāya varapāramitāya āsī 
+tada vyākṛto ahu parāpuruṣottamena buddho bhaviṣyasi anāgataadhvanasmin ।।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 60 | label: meter | g:0.194 m:0.75 ---
+
+asajjanasamāgamasya kaṭukāvasānaṃ phalaṃ
+narendra samupasthitaṃ tad adhunā tavāpāyikam ।
+idaṃ samanucintya sādhujanasaṃgamaḥ sevyatāṃ
+tatas tava bhaviṣyati vyasanapañjarān nirgamaḥ ।।

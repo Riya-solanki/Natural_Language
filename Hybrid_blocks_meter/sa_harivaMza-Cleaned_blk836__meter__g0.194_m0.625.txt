@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 836 | label: meter | g:0.194 m:0.625 ---
+
+tasya saṃstūyamānasya tejaḥ somasya bhāsvataḥ 
+āpyāyamānaṃ lokāṃs trīn bhāvayām āsa sarvataḥ ।।

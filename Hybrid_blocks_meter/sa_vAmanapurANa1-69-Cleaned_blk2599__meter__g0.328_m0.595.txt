@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2599 | label: meter | g:0.328 m:0.595 ---
+
+mā viṣādaṃ kṛtāḥ putri pitāyaṃ tava vānaraḥ ।
+sā tadvacanamākarṇya vrīḍopahatacetanā ।।

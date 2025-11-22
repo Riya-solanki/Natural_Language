@@ -1,0 +1,8 @@
+--- source: brssbh4u-Cleaned.txt | block: 76 | label: grammar | g:0.684 m:0.462 ---
+
+pūrvayoḥ adhikaraṇayoḥ jñānanimittaḥ sukṛtaduṣkṛtayoḥ vināśaḥ avadhāritaḥ sa kim aviśeṣeṇa ārabdhakāryayoḥ anārabdhakāryayoḥ ca bhavati uta viśeṣeṇa anārabdhakāryayoḥ eva iti vicāryate ।
+atatra ubhe u haivaiṣa ete tarati' iti evamādiśrutiṣu aviśeṣaśravaṇāt aviśeṣeṇa eva kṣaya iti ।
+evaṃ prāpte pratyāha - anārabdhakārye eva tu iti ।
+apravṛttaphale eva pūrve janmāntarasaṃcite asmin api ca janmani prāk jñāna utpatteḥ saṃcite sukṛtaduṣkṛte jñāna adhigamāt kṣīyete na tu ārabdhakārye sāmibhuktaphale yābhyām etat brahmajñāna āyatanaṃ janma nirmitam ।
+kuta etat - atasya tāvadeva ciraṃ yāvanna vimokṣye atha saṃpatsye' iti śarīrapātau adhikaraṇāt kṣemaprāpteḥ ।
+itarathā hi jñānāt aśeṣakarmakṣaye sati sthitihetu abhāvāt jñānaprāpti anantarameva kṣemamśnu avīta, tatra śarīrapātapratīkṣāṃ na ācakṣīta ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4160 | label: grammar | g:0.625 m:0.5 ---
+
+ye divyā ye ca bhaumā jalagaganacarāḥ sthāvarā jaṅgamāśca sendrāḥ sārkāḥ sacandrā yamavasuvaruṇā hyagnayaḥ sarvapālāḥ ।
+brahmādyāḥ sthāvarāntā dvijakhagamahitā mūrtimanto hyamūrtāḥ te sarve matprasūtā bahu vividhaguṇāḥ pūraṇārthaṃ pṛthivyāḥ ।।

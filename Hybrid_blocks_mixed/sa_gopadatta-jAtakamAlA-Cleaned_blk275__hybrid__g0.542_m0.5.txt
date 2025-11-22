@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 275 | label: hybrid | g:0.542 m:0.5 ---
+
+jātaś ca nāma na vinakṣyati vety ayuktam utpāda eva niyamena nipātahetuḥ ।
+tulye ca nāma maraṇavyasanopatāpe mṛtyur varaṃ parahitāvahitāśayasya ।।

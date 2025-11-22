@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2036 | label: meter | g:0.25 m:0.5 ---
+
+tad ahaṃ tvarayā viṣṇo prāptaḥ surasabhām imām 
+tava saṃcodanārthaṃ vai śṛṇu cāpy atra kāraṇam ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 736 | label: meter | g:0.161 m:0.839 ---
+
+athāgaman vraja-pati-saṅgatā janāḥ
+sa-vismayaṃ sa-bhayam adabhra-sambhramam ।
+gṛhāntara-vrajana-vicāraṇā'nyadā
+na tarhy abhūd yad abhavad eka-bhāvatā ।। [rucirā]

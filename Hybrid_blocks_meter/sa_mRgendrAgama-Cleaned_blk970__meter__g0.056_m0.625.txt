@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 970 | label: meter | g:0.056 m:0.625 ---
+
+tatra tatrāasya cidvyaktis tadvyāptiviṣayā bhavet 
+iti bāhye sthite sarvam ākalayya svacakṣuṣā ।। MT

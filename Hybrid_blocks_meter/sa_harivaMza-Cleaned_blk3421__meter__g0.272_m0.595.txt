@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3421 | label: meter | g:0.272 m:0.595 ---
+
+etasminn antare dīnā kaṃsamātā pravepatī 
+kva me vatsaḥ kva me putra iti rorūyate bhṛśam ।।

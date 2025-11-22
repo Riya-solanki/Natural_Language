@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 40 | label: grammar | g:0.615 m:0.5 ---
+
+bhadraṃ candrakale śivaṃ suranadi śreyaḥ kapālāvale kalyāṇaṃ bhujagendravalli kuśalaṃ viśve śaṭāsantate ।
+ity āhur militāḥ parasparam amūr yasmin praśāntiṃ gate kalpāntārabhaṭīnaṭasya bhavatāt tad vaḥ śriye tāṇḍavam ।।

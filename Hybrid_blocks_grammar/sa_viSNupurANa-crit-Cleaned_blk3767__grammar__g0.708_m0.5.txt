@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3767 | label: grammar | g:0.708 m:0.5 ---
+
+acyuto api tad ratnam ugrasenasya bhūpater yogyam etad iti lipsāṃ cakre । gotrabhedabhayāc chakto api na jahāra ।।

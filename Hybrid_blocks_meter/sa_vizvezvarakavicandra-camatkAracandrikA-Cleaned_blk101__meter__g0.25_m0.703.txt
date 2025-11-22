@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 101 | label: meter | g:0.25 m:0.703 ---
+
+haṭhārthapratītyā ca yathā
+śaṃbhoḥ sthitā bhūṣaṇapeṭikāyāṃ śriyaḥ sapatnīmabhitaḥ sphurantī ।
+viṣṇoḥ padaṃ madhyamamāviśantī virājate siṅganṛpālakīrtiḥ ।।

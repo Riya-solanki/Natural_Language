@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 184 | label: meter | g:0.378 m:0.591 ---
+
+prāg eva jaitram astraṃ sahakāralatā smarasya cāpabhṛtaḥ ।
+kiṃ punar analpanipatitamadhukaraviṣakalkalepena ।।
+śubhāṅgasya

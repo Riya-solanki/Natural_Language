@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2879 | label: meter | g:0.194 m:0.5 ---
+
+pātayāno gavāṃ garbhān dṛpto gacchaty anārtavam 
+bhajamānaś ca capalo gṛṣṭīḥ saṃpracacāra ha ।।

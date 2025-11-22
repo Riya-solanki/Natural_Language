@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 550 | label: meter | g:0.25 m:0.545 ---
+
+atra rājñaḥ sulalitavilāsavatīlocanavilāseṣu smaraṇagocaramavataratsu tatparāyattacittavṛtterāṅgikaprayatnaparispandavinivartamāno muṣṭirbibhide bhidyate sma ।
+svayameveti karmakartṛnibandhanamātmane padamatīva camatkārakāriṇīṃ kāmapi vākyavakratāmāvahati ।
+evamupagrahavakratāṃ vicārya tadanusaṃbhavinīṃ pratyayāntaravakratāṃ vicārayati

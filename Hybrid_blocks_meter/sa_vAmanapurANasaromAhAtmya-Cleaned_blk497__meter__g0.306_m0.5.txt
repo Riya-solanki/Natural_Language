@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 497 | label: meter | g:0.306 m:0.5 ---
+
+etat tīrthasya māhātmyaṃ mānuṣasya dvijottamāḥ ।
+ye śṛṇvanti śraddadhānāste api yānti parāṃ gatim ।।

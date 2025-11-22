@@ -1,0 +1,48 @@
+--- source: vacbhamu-Cleaned.txt | block: 610 | label: hybrid | g:0.315 m:0.351 ---
+
+itaretarapratyayatvāditi cennotpattimātranimittatvāt ।
+yadyapīti ।
+ayamarthaḥ saṃkṣepato hi pratītyasamutpādalakṣaṇamuktaṃ buddhena aidaṃ pratyayaphalam' iti ।
+autpādādvā tathāgatānāmanutpādādvā sthitaiṣā dharmāṇāṃ dharmatā' ।
+adharmasthititā dharmaniyāmakatā pratītyasamutpādānulomatā'iti ।
+atha punarayaṃ pratītyasamutpādo dvābhyāṃ kāraṇābhyāṃ bhavati hetūpanibandhataśca pratyayopanibandhataśca ।
+sa punardvividho bāhya ādhyātmikaśca ।
+tatra bāhyasya pratītyasamutpādasya hetūpanibandhaḥ yadidaṃ bījādaṅkuro aṅkurātpatraṃ patrātkāṇḍaṃ kāṇḍānnālo nālādgarbho garbhācchūkaḥ śūkātpuṣpaṃ puṣpātphalamiti ।
+asati bīje aṅkuro na bhavati, yāvadasati puṣpe phalaṃ na bhavati ।
+sati tu bīje aṅkuro bhavati, yāvat puṣpe sati phalamiti ।
+tatra bījasya naivaṃ bhavati jñānamahamaṅkuraṃ nirvartayāmīti ।
+aṅkurasyāpi naivaṃ bhavati jñānamahaṃ bījena nirvartita iti ।
+evaṃ yāvatpuṣpasya naivaṃ bhavatyahaṃ phalaṃ nirvartayāmīti ।
+evaṃ phalasyāpi naivaṃ bhavatyahaṃ puṣpeṇābhinirvartitamiti ।
+tasmādasatyapi caitanye bījādīnāmasatyapi cānyasminnadhiṣṭhātari kāryakāraṇabhāvaniyamo dṛśyate ।
+ukto hetūpanibandhaḥ ।
+pratyayopanibandhaḥ pratītyasamutpādasyocyate ।
+pratyayo hetūnāṃ samavāyaḥ ।
+hetuṃ hetuṃ pratyayante hetvantarāṇīti,teṣāmayamānānāṃ bhāvaḥ pratyayaḥ ।
+samavāya iti yāvat ।
+yathā ṣaṇṇāṃ dhātūnāṃ samavāyādbījaheturaṅkuro jāyate ।
+tatra ca pṛthivīdhāturbījasya saṃgrahakṛtyaṃ karoti yato aṅkuraḥ kaṭhino bhavati, abdhāturbījaṃ snehayati, tejodhāturbījaṃ paripācayati, vāyudhāturbījamabhinirharati yato aṅkuro bījānnirgacchati, ākāśadhāturbījasyānāvaraṇakṛtyaṃ karoti, ṛturapi bījasya pariṇāmaṃ karoti, tadeteṣāmavikalānāṃ dhātūnāṃ samavāye bīje rohityaṅkuro jāyate nānyathā ।
+tatra pṛthivīdhātornaivaṃ bhavatyahaṃ bījasya saṃgrahakṛtyaṃ karomīti,yāvadṛtornaivaṃ bhavatyahaṃ bījasya pariṇāmaṃ karomīti ।
+aṅkurasyāpi naivaṃ bhavatyahamebhiḥ pratyayairnirvartita iti ।
+tathādhyātmikaḥ pratītyasamutpādo dvābhyāṃ kāraṇābhyāṃ bhavati hetūpanibandhataḥ pratyayopanibandhataśca ।
+tatrāsya hetūpanibandho yadidamavidyāpratyayāḥ saṃskārā yāvajjātipratyayaṃ jarāmaraṇādaya udapatsyanta ।
+tatrāvidyāyā naivaṃ bhavatyahaṃ saṃskārānabhinirvartayāmīti ।
+saṃskārāṇāmapi naivaṃ bhavati vayamavidyayā nirvartitā iti ।
+evaṃ yāvajjātyā api naivaṃ bhavatyahaṃ jarāmaraṇādyabhinirvartayāmīti ।
+jarāmaraṇādīnāmapi naivaṃ bhavati vayaṃ jātyādibhirnirvartitā iti ।
+atha ca satsvavidyādiṣu svayamacetaneṣu cetanāntarānadhiṣṭhiteṣvapi saṃskārādīnāmutpattiḥ,bījādiṣviva satsvacetaneṣu cetanāntarānadhiṣṭhiteṣvapyaṅkurādīnām ।
+idaṃ pratītya prāpyedamutpadyata ityetāvanmātrasya dṛṣṭatvāccetanādhiṣṭhānasyānupalabdheḥ ।
+so ayamādhyātmikasya pratītyasamutpādasya hetūpanibandhaḥ ।
+atha pratyayopanibandhaḥ pṛthivyaptejovāyvākāśavijñānadhātūnāṃ samavāyādbhavati kāyaḥ ।
+tatra kāyasya pṛthivīdhātuḥ kāṭhinyaṃ nirvartayati ।
+abdhātuḥ snehayati kāyam ।
+tejodhātuḥ kāyasyāśitapīte paripācayati ।
+vāyudhātuḥ kāyasya śvāsādi karoti ।
+ākāśadhātuḥ kāyasyāntaḥ suṣirabhāvaṃ karoti ।
+yastu nāmarūpāṅkuramabhinirvartayati pañcavijñānakāryasaṃyuktaṃ sāsravaṃ ca manovijñānaṃ,so ayamucyate vijñānadhātuḥ ।
+yadā hyādhyātmikāḥ pṛthivyādidhātavo bhavantyavikalāstadā sarveṣāṃ samavāyādbhavati kāyasyotpattiḥ ।
+tatra pṛthivyādidhātūnāṃ naivaṃ bhavati vayaṃ kāyasya kāṭhinyādi nirvartayāma iti ।
+kāyasyāpi naivaṃ bhavati jñānamahamebhiḥ pratyayairabhinirvartita iti ।
+atha ca pṛthivyādidhātubhyo acetanebhyaścetanāntarānadhiṣṭhitebhyo aṅkurasyevaṃ kāyasyotpattiḥ ।
+so ayaṃ pratītyasamutpādo dṛṣṭatvānnānyathayitavyaḥ ।
+tatraiteṣveva ṣaṭsu dhātuṣu yaikasaṃjñā, piṇḍasaṃjñā, nityasaṃjñā, suḥkhasaṃjñā,

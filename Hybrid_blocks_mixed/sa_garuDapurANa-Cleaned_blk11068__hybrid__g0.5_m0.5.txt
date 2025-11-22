@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11068 | label: hybrid | g:0.5 m:0.5 ---
+
+hare sadā namāmi tvāṃ bahu janmani janmani ।
+evaṃ buddhā tu garuḍo hyabhūcca śayanaṃ hareḥ ।।

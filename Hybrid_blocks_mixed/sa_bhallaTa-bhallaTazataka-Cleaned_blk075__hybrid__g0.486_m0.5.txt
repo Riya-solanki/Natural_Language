@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 75 | label: hybrid | g:0.486 m:0.5 ---
+
+budhyāmahe na bahudhāpi vikalpayantaḥ kair nāmabhir vyapadiśema mahāmatīṃs tāntestim{cit subhāṣitāvalī } 
+yeṣām aśeṣabhuvanābharaṇasya hemnas tattvaṃ vivektum upalāḥ paramaṃ pramāṇam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 921 | label: meter | g:0.306 m:0.5 ---
+
+stotreṇānena ca naro yo māṃ stoṣyati bhaktitaḥ ।
+tasyāhaṃ sulabho nityaṃ bhaviṣyāmi na saṃśayaḥ ।।

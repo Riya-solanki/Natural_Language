@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 330 | label: grammar | g:0.75 m:0.5 ---
+
+svatantro bodhaḥ paramārthas, tathārūpatvād eva pūrṇaḥ । tasya svātantryād eva tathecchayā svātantryaṃ vinā bodhamātranirmāṇe bodhitāṃ vinā svātantryamātranirmāṇe vā pūrṇatvābhāvena parimitatvād dvidhāṇutvaṃ tāttvikasvarūpaviparyāsān malatvam ।।

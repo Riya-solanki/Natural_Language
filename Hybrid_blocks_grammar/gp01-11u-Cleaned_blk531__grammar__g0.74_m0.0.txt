@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 531 | label: grammar | g:0.74 m:0.0 ---
+
+[] dūta uvāca-"tataś ca madīya-śrīmad-īśvarī putra-ghātiny api tasmin sāralya-doṣād eva roṣān nivivṛte । śrīman-mad-īśitā tu vicāritavān, æpūrvaṃ śuṣka-peṣaṃ piṣṭavān, samprati tu sarpiḥ-peṣaṃ pinaṣṭi so' yam asmān' iti । tad evaṃ tat-kauṭilya-koṭiṃ parikalpyāpi saujaunya-prābalyād iha sāralyam evāvalambitavān । tena pitari-śūreṇa durmatinānumataḥ śūra-nandanaḥ saha-dharmiṇyā saha sva-gṛham āgatavāṃś ca, na punar viśvāsam āśvāsaṃ ca labdhavān । yataḥ,
+jāty-anya-janitaḥ kaṃsaḥ sadā dunvan samāśritān ।
+mātaraṃ ca dunoty uccaiḥ śilā-putraḥ śilām iva" ।। [anuṣṭubh]

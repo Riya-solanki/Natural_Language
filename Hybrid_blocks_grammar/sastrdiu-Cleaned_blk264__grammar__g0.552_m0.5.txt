@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 264 | label: grammar | g:0.552 m:0.5 ---
+
+satyapi tasya saṃśayahetutve pramāṇāntareṇa nirṇayasaṃbhavānna nityasaṃśayāpattiriti cet, tarhīhāpi pramāṇāntareṇa nirṇayasaṃbhavādadoṣaḥ ।
+tathāsati yatpramāṇāntaraviruddhaṃ tasya durbalatvāditarasya balīyastvādatulyabalatvamitacet, kena coktamubhayaṃ tulyabalamiti, kintvagṛhyamāṇabalābalatvamātram ।।

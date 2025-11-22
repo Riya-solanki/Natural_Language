@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3090 | label: meter | g:0.306 m:0.5 ---
+
+jātyandhabadhire mūke na doṣaḥ parivedane ।
+naṣṭe mṛte pravrajite klībe vā patite patau ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2688 | label: meter | g:0.194 m:0.75 ---
+
+tā gāvaḥ prasnutā vatsaiḥ sāpīḍastabakāṅgadāḥ 
+sasragāpīḍaśṛṅgāgrāḥ śataśo atha sahasraśaḥ ।।

@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 251 | label: meter | g:0.306 m:0.5 ---
+
+nanu pūrvavadihāpi talliṅgādbrahmaṇa eva grahaṇaṃ yuktam ।
+ihāpi vākyaśeṣe bhūtānāṃ saṃveśanodgamanaṃ pārameśvaraṃ karma pratīyate ।

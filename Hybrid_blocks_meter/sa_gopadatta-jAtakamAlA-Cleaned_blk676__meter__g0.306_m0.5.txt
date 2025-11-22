@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 676 | label: meter | g:0.306 m:0.5 ---
+
+dṛśyase caritair eva kāmaṃ lokāntacāribhiḥ ।
+sākṣād vo darśanaṃ yat tu tan maṅgalyaphalodayaṃ ।।

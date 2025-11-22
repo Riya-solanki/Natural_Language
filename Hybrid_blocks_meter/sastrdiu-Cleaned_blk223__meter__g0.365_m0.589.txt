@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 223 | label: meter | g:0.365 m:0.589 ---
+
+bhinnatve api grāhakādgrāhyasya jñānamevātītamuttarasya grāhyaṃ nārtha iti cet, na, pramāṇābhāvāt ।
+atra cātītaṃ tredhā vikalpya atītaṃ yacca vijñānamityādinā dūṣaṇamityuktam ।
+uttaramapi tredhaiva vikalpya dvyākāraklapanāyāṃ ca ityādinā dūṣaṇamityuktamiti vivecanīyam ।
+tasmādidamapi vaibhāṣikamatamayuktameva ।
+tasmād bāhyārthākāra eva nīlādirna jñānākāraḥ ।।

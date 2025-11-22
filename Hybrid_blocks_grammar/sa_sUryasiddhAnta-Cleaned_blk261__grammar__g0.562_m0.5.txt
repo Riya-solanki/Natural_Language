@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 261 | label: grammar | g:0.562 m:0.5 ---
+
+śīghre mandādhike atītah saṃyogo bhavitānyathā। dvayoh prāgyāyinor evaṃ vakriṇos tu viparyayāt।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10540 | label: meter | g:0.348 m:0.663 ---
+
+nirṛtiruvāca ।
+yogena tvayyarpitayā ca bhaktyā saṃyānti lokāḥ paramāṃ gatiṃ ca ।
+āsevayā sarvaguṇādhikānāṃ jñānena vairāgyayutenadave ।।

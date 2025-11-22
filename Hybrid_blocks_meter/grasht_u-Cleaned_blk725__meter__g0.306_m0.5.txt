@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 725 | label: meter | g:0.306 m:0.5 ---
+
+iti rakto'pi rasendro jāritabījo'pi sāraṇārahitaḥ ।
+vyāpī na bhavati dehe loheṣvapyathavāpi hi ṣaṇḍhatāṃ yāti ।।

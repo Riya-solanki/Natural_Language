@@ -1,0 +1,5 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 6 | label: hybrid | g:0.416 m:0.47 ---
+
+ācchidya tṛṣṇām iha nāmarūpe prahāya mānaṃ ca na saṃgam eti ।
+taṃ śāntadhūmam anighaṃ nirāśaṃ nādrākṣus te devamanuṣyaloke ।
+iha bāhirataś ca ।।

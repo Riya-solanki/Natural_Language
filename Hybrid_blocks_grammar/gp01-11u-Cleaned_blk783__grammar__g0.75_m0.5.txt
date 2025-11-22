@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 783 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ sa ca nārāyaṇas tad-bhāva-parāyaṇatāṃ tām anu nitāntāṃ vicārayann ātmanaḥ paramābhiruci-paricitāvirbhāve tasminn eva vismiti-nicitaṃ janany-ucita-sneham eva dehayāmāsa, yaṃ khalu nemaṃ viriñci [BhP ] vakṣyamāṇānusāreṇa samastāni śāstrāṇi sadā praśastatayā gāyanti ।

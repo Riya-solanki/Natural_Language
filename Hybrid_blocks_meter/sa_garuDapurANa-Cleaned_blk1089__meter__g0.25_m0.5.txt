@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1089 | label: meter | g:0.25 m:0.5 ---
+
+devasya purataḥ sthāpyaṃ pratimāmaṇḍalasya vā ।
+paścime dakṣiṇe caiva uttare pūrvavatkramāt ।।

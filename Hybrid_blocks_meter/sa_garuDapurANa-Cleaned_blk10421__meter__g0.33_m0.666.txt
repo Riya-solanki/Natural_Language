@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10421 | label: meter | g:0.33 m:0.666 ---
+
+snahottharāvaḥ skhalitākṣarastaṃ muñcankaṇānprāñjalirābabhāṣe ।
+vāyuruvāca ।
+ete hi devāstava bhṛtyabhūtāḥ padāravindaṃ paramaṃ sudurlabham ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1720 | label: grammar | g:0.677 m:0.5 ---
+
+kṣāntaṃ na kṣamayā gṛhocitasukhaṃ tyaktaṃ na saṃtoṣataḥ soḍhā duḥsahaśītavātatapanakleśā na taptaṃ tapaḥ ।
+dhyātaṃ vittam aharniśaṃ na ca punas tattvāntaraṃ śāśvataṃ tat tat karma kṛtaṃ yad eva munibhis tais taiḥ phalair vañcitam ।।

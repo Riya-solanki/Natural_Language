@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 36 | label: grammar | g:0.583 m:0.5 ---
+
+mālinyaṃ prakaṭikaroti nibiḍaṃ nairguṇyam ātanvate jīrṇasnehaparamparā vidadhate pātre apy aho dūṣaṇam ।
+veśyā dīpaśikheva bhāti rajanau rūpabhramāndhīkṛto yatrāyaṃ kurute pataṅgapatanaṃ hā hā bhujaṃgavrajaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 655 | label: meter | g:0.194 m:0.625 ---
+
+karaṇaṃ cordhvamūlaṃ syād bandhayet khagamaṇḍalam 
+ākramya pañcamaṃ tatra karābhyāṃ caiva śūlini ।।

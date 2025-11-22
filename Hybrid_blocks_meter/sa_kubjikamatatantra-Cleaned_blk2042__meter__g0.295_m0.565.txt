@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2042 | label: meter | g:0.295 m:0.565 ---
+
+tasyā rūpam ajānantaḥ sthūlasūkṣmasusūkṣmagam 
+na paśyanti guṇaṃ rūpaṃ yāvad eṣāṃ na saṅkramet ।।

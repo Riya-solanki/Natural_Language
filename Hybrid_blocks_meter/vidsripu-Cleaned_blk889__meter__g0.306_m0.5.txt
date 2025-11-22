@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 889 | label: meter | g:0.306 m:0.5 ---
+
+kṣāmā tanur gatiḥ khinnā netre vyālokatārake ।
+vāg aspaṣṭā ślathaṃ vāso dūti tvaṃ jvaritāsi kim ।।

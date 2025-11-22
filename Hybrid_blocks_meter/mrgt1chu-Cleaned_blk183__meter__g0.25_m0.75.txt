@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 183 | label: meter | g:0.25 m:0.75 ---
+
+tato'nantādyabhivyaktaḥ patīnāṃ granthitattvataḥ ।
+kalādyārabdhadehānāṃ karotyaṣṭādaśaṃ śatam ।।

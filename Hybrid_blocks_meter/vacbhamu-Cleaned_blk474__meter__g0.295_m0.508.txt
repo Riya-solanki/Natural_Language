@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 474 | label: meter | g:0.295 m:0.508 ---
+
+tadabhāvanirdhāraṇe ca pravṛtteḥ ।
+satyakāmo ha vai jābālaḥ pramītapitṛkaḥ svāṃ mātaraṃ jabālāṃ prapaccha,

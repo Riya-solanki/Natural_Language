@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 527 | label: meter | g:0.25 m:0.5 ---
+
+gopī-kṛṣṇa-yugaṃ muhur bahu-vidhaṃ kintv etad evohate
+tac caitanb na hi jāgarastham api tu svapnādi-citta-bhramaḥ ।।

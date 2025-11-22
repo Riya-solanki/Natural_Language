@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1243 | label: meter | g:0.25 m:0.5 ---
+
+kathonmeṣe samāne api vapuṣīva nijairguṇaiḥ ।
+prabandhāḥ prāṇina iva prabhāsānte pṛthak pṛthak ।।

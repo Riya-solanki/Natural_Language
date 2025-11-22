@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 677 | label: grammar | g:0.75 m:0.5 ---
+
+svabhāvena mṛtasya bhekasyodaraṃ vidārya sphāṭikojjvalaṭaṅkaṇakṣārasyātisūkṣmāḥ khoṭāṃs tatra kṣiptvā tato ghṛtatailādinā digdhvā madhye sthāli bhekaṃ muktvopari pradhvarāṃ ḍhaṅkaṇīyaṃ dattvā bhūmimadhye sthālī nikhanyate ।।

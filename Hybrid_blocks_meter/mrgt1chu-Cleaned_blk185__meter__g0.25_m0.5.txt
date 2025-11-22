@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 185 | label: meter | g:0.25 m:0.5 ---
+
+tān apyāviśya bhagavān sāñjanān bhuvanādhipān ।
+yebhyaḥ sarvamidaṃ yeṣāṃ śaktiḥ karmanibandhanā ।।

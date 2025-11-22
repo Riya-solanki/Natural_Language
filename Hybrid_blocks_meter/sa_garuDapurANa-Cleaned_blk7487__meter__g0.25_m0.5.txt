@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7487 | label: meter | g:0.25 m:0.5 ---
+
+tasmāddadāti yo dhenumamṛtatvaṃ sa gacchati ।
+dānānyaṣṭau tu dattvā vai gandharvanilaye vaset ।।

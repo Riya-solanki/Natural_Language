@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 45 | label: grammar | g:0.573 m:0.5 ---
+
+yeṣāṃ vaṃśe samajani hariścandranāmā narendraḥ pratyāpattiḥ pataga yadupajñaṃ ca kaumārilānām ।
+yuddhe yeṣāmahitahataye caṇḍikā sannidhatte teṣāmeṣāṃ stutiṣu na bhavet kasya vaktraṃ pavitram ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 230 | label: meter | g:0.306 m:0.5 ---
+
+vidyullatānṛttacale dhane ca sādhāraṇe naikavighātahetau ।
+dāne nidāne ca sukhodayānāṃ mātsaryamāryaḥ ka ivāśrayeta ।।

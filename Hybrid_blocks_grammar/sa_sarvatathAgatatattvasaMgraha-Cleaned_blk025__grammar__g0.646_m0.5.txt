@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 25 | label: grammar | g:0.646 m:0.5 ---
+
+bodhisattva āha- "paśyāmi bhagavantastathāgatāścandramaṇḍale vajram" । sarvatathāgatā āhuḥ- "dṛḍhīkurvidaṃ sarvatathāgatasamantabhadracittavajramanena mantreṇa oṃ vajrātmako aham ।।

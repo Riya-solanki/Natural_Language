@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3208 | label: meter | g:0.194 m:0.625 ---
+
+ity anekāntavādaṃ ca māyāmohena naikadhā 
+tena darśayatā daityāḥ svadharmāṃs tyājitā dvija ।।

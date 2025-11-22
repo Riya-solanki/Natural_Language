@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 54 | label: meter | g:0.0 m:1.0 ---
+
+saṃśodhyānacchakalayā baindhavaṃ tīrthamañjasā
+tadvirāmarasasnānaṃ deyaṃ candrārdhamaulaye

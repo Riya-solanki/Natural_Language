@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2426 | label: meter | g:0.194 m:0.75 ---
+
+dyāvāpṛthivyoḥ saṃsargaḥ satataṃ vitataiḥ kṛtaḥ 
+avyavacchinnadhāraughaiḥ samudraughanibhair ghanaiḥ ।।

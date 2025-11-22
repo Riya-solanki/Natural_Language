@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 254 | label: meter | g:0.25 m:0.5 ---
+
+eṣa cānantaśaktitvād evam ābhāsayaty amūn ।
+bhāvān icchāvaśād eṣā kriyā nirmātṛtāsya sā ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1304 | label: hybrid | g:0.501 m:0.48 ---
+
+sujanāḥ paruṣābhidhāyino yadi kaḥ syād aparo api mañjuvāk ।
+yadi candrakarāḥ savahnayo nanu jāyeta sudhā kṛto anyataḥ ।।
+maṅgalasya।।

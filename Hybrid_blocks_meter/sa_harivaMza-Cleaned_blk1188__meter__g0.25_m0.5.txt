@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1188 | label: meter | g:0.25 m:0.5 ---
+
+vyaktīkṛtaś ca śabdaḥ sa tūrṇaṃ cāpi yayau bilam 
+praviśya cāpi bhagavāṃs tam ṛkṣabilam añjasā । 
+sthāpayitvā biladvāri yadūṃl lāṅgalinā saha । 
+śārṅgadhanvā bilasthaṃ tu jāmbavantaṃ dadarśa ha ।।

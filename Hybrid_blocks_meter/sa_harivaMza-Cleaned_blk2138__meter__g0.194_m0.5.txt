@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2138 | label: meter | g:0.194 m:0.5 ---
+
+purāṇaṃ tatra vinyasya dehaṃ harir udāradhīḥ 
+ātmānaṃ yojayām āsa vasudevagṛhe prabhuḥ ।।

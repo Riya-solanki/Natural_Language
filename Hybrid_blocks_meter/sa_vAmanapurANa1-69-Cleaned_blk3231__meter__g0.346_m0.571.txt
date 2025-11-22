@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3231 | label: meter | g:0.346 m:0.571 ---
+
+tairvāṇaiśchādyamānā harikaranuditaiḥ kāladaṇḍaprakāśairnārācairardhacandrairbālimayapurāgā bhītabhītāstvārantaḥ ।
+prārambe dānavendraṃ śatavadanamatho preṣayan kālanemiṃ sa prāyād devasainyaprabhumamitabalaṃ keśavaṃ lokanātham ।।

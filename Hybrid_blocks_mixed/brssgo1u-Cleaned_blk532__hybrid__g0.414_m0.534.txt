@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 532 | label: hybrid | g:0.414 m:0.534 ---
+
+tāneva hetūnākāṅkṣādvārā vyācaṣṭekutaścetyādinā ।
+yadyapi viśuddhaḥ pratyagātmaivātra jñeyaḥ tathāpi jīvatvākāreṇa jñāturjñeyādbhedānna jñeyarūpatvamityarthaḥ ।
+evaṃ ca jīvatvaliṅgaviśiṣṭatvena jīvasya dyubhvādivākyarthatvaṃ nirasyate na śuddharūpeṇeti mantavyam ।। ।।

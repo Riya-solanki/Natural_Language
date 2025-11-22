@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 147 | label: meter | g:0.25 m:0.625 ---
+
+pariṇāmaratām aśāntarūpāṃ viparītālpasukhānurāgaramyām ।
+paribhūya manasvino ramante kṛpaṇāṃ kāmaratiṃ tapovaneṣu ।।

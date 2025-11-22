@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1083 | label: meter | g:0.328 m:0.595 ---
+
+namaḥ stutāya stutyāya stutisthāya namo astu te ।
+sarvāya sarvabhakṣāya sarvabhūtaśarīriṇe ।।

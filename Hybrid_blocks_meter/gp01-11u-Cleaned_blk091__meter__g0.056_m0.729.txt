@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 91 | label: meter | g:0.056 m:0.729 ---
+
+vraja-vipina-vibhāge niścalo yasya vāsaḥ
+svayam ayam apareṣāṃ poṣako jañjanīti ।
+kalaya vara-sarāṃsi srotasām atra vṛndair
+vidadhati yamunādi-dvīpinīḥ shīta-toyāḥ ।। [mālinī]

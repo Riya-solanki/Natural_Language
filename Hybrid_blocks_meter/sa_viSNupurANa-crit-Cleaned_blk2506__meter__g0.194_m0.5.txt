@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2506 | label: meter | g:0.194 m:0.5 ---
+
+saptame ca tathaivendro vasiṣṭhaś cāṣṭame smṛtaḥ 
+sārasvataś ca navame tridhāmā daśame smṛtaḥ ।।

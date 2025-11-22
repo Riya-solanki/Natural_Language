@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1207 | label: meter | g:0.194 m:0.5 ---
+
+sadā hi prārthayām āsa satyabhāmām aninditām 
+akrūro antaram anvicchan maṇiṃ caiva syamantakam ।।

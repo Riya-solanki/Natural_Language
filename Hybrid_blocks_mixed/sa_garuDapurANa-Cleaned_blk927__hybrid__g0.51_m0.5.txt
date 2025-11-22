@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 927 | label: hybrid | g:0.51 m:0.5 ---
+
+oṃ kṣaḥ astrāya nama iti astraṃ cānena pūjayet ।
+hṛdayaṃ ca śiraścaiva śikhāṃ ca kavacaṃ tathā ।।

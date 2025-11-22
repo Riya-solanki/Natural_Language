@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5607 | label: meter | g:0.25 m:0.625 ---
+
+puṣpavṛṣṭiṃ tato devā rāmasyopari cikṣipuḥ 
+praśaśaṃsus tathābhyetya sādhv etat te mahat kṛtam ।।

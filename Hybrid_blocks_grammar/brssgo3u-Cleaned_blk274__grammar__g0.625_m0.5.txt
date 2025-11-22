@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 274 | label: grammar | g:0.625 m:0.5 ---
+
+yathā prakāśādaya upādhiṣu bhidyante na svataḥ, evaṃ prakāśaścidātmāpi dhyānādikarmaṇyupādho bhidyate svatastasyāvaiśeṣyamekarasatvameva tattvamasītyabhyāsāditi sūtrayojanā ।।

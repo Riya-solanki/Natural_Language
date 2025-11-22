@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 64 | label: meter | g:0.25 m:0.5 ---
+
+a-viśrāntaṃ patyur guṇa-gaṇa-kathāreḍana-japā japā-puṣpa-cchāyā tava janani jihvā jayati sā
+yad-agrāīnāyāḥ sphaṭika-dṛṣad-accha-cchavimayī sarasvatyā mūrtiḥ pariṇamati māṇikya-vapuṣā ।।

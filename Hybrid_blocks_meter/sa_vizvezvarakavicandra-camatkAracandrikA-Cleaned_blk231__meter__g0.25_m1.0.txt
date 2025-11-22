@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 231 | label: meter | g:0.25 m:1.0 ---
+
+śabdenārthena vā lakṣyo vyañjanāsahacāriṇā ।
+vyaṅgyārtho vastvalaṅkārarasabhāvādilakṣaṇaḥ ।।

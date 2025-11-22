@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 653 | label: meter | g:0.25 m:0.5 ---
+
+viveda lokasya hi sa svabhāvaṃ pradhānacaryānukṛtipradhānam ।
+śreyaḥ samādhitsurataḥ prajāsu viśeṣato dharmavidhau sasañje ।।

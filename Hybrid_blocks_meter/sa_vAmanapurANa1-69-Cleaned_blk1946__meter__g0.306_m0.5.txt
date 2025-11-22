@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1946 | label: meter | g:0.306 m:0.5 ---
+
+tamanveva gaṇāḥ sarve dattā ye muditaiḥ suraiḥ ।
+anujagmuḥ kumāraṃ te kāmarūpā vihaṅgamāḥ ।।

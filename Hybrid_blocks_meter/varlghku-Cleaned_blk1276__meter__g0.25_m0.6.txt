@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1276 | label: meter | g:0.25 m:0.6 ---
+
+kimidaṃbhyāṃ vo ghaḥ ।।
+ābhyāṃ vatup syād vakārasya ghaśca ।।

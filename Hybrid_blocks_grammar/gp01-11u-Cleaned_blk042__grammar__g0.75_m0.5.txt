@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 42 | label: grammar | g:0.75 m:0.5 ---
+
+[] teṣām āvirbhāvasya pādma-purāṇa-sandarbhānusāreṇa pratikalpam analpa-sukha-kalpaka-sampad-udanta-dantavakra-vadhānte sarvato' py ekānte kānte yatra praveśasya nirdeśaḥ prathayiṣyate, tasmād bhava-jana-manaḥ-kāya-nikāya-sparśa-virahitād vārāhādi-saṃkīrtita-pravara-kīrti-kadambādi-mayāt pādma-skāndādi-gatāsaṃkīrṇa-varṇākarṇita-tat-tat-sanātana-śīla-tārāmasa-rāma-go-gopa-gopāla-līlā-nidhānād vṛndāvanasyaiva vaibhava-viśeṣād aśeṣaṃ bhavati, prakṛti-sthitim atīto hi yaḥ ।

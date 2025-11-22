@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 925 | label: grammar | g:0.75 m:0.5 ---
+
+vyākṛtaṃ ca-atra mayāpakāraḥ kṛta iti yat te cetasi bhayaṃ tan mā bhūt । mama khaḍgaḥ parāṅmukheṣu na kadācid api parahartum utsahata iti sarvathaiva rūḍho' haṅkāraḥ pratīyate । so' yaṃ garva-prakṛtir uddhato nāma raso niṣpadyate iti ।

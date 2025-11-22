@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 57 | label: grammar | g:0.604 m:0.5 ---
+
+atha cet sarvam eva skannaṃ syād yac carusthālyām atiśiṣṭaṃ syāt taj juhuyāt ।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 262 | label: meter | g:0.306 m:0.5 ---
+
+gāyati hi nīlakaṇṭho nṛtyati gaurī taḍit taralatārā ।
+āsphālayati mṛdaṅgaṃ tadanu ghano ayaṃ mahākālaḥ ।।

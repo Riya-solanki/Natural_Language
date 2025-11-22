@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 445 | label: grammar | g:0.562 m:0.5 ---
+
+NOTE -saṃbandhasya bhāvanāvacchedakatvena vidheyatvaṃ śaṅkate-nanvityādinā, saṃbandha evāsya viṣaya ityantena saṃdarbeṇa ।

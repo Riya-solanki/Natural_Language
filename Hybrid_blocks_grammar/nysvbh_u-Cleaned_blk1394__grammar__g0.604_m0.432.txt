@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1394 | label: grammar | g:0.604 m:0.432 ---
+
+pratijñātārthaḥ aanityaḥ śabda aindriyakatvād ghaṭavat' ityukte yo asya pratiṣedhaḥ ।
+pratidṛṣṭāntena hetuvyabhicāraḥ asāmānyamaindriyakaṃ nityam' iti tasmiṃśca pratijñātārthapratiṣedhe dharmavikalpāditi ।
+dṛṣṭāntapratidṛṣṭāntayoḥ sādharmyayoge dharmabhedāt ।
+sāmānyamaindriyakaṃ sarvagatam aindriyakastv asarvagato ghaṭa iti dharmavikalpāt tadarthaṃ nirdeśa iti sādhyasiddhyartham।
+katham ? yathā ghaṭo asarvagata evaṃ śabdopyasarvagato ghaṭavadevānitya iti, tatra aanityaḥ śabdaḥ' iti pūrvā pratijñā aasarvagataḥ' iti dvitīyā pratijñā pratijñāntaram।
+tat kathaṃ nigrahasthānamiti ?, na pratijñāyāḥ sādhanaṃ pratijñāntaraṃ kiṃ tu hetudṛṣṭāntau sādhanaṃ pratijñāyāḥ, tadetad asādhanopādānam anarthakamiti ānarthakyānnigrahasthānamiti ।।

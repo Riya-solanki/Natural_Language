@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7199 | label: meter | g:0.328 m:0.595 ---
+
+nākāle maraṇaṃ tasya ślokamekaṃ tu yaḥ paṭhet ।
+ślokārdhapaṭhanādasya duṣṭaśatrukṣayo dhruvam ।।

@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 50 | label: grammar | g:0.622 m:0.5 ---
+
+prauḍha prāṇa-da kānta nātha subhagoāra priya tvāṃ vinā kiṃ vittena gṛheṇa kiṃ kim asubhir hyo apīi yo bhāṣitaḥ
+tasyaiāya nirāśa durbhaga paśo nirlajja gacchāhunā dhik tvāṃ nirdhana-caṅgam ity apavadan hrīto na veśyā-janaḥ ।।

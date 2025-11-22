@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 89 | label: grammar | g:0.562 m:0.5 ---
+
+pradakṣiṇaṃ tu yaḥ kuryād haribhaktyā samanvitaḥ haṃsayuktivimānena viṣṇulokaṃ sa gacchati ।।

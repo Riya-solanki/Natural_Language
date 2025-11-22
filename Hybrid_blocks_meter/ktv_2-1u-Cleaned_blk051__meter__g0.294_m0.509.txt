@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 51 | label: meter | g:0.294 m:0.509 ---
+
+na ca dhātvantarārthaṃ yajyādayaḥ pratipādayanti, svārthamātravyāpṛtatvāt ।
+ataḥ śabdarahitam evedam āropyate bhāvayet iti ।
+kiñ ca

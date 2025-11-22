@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1100 | label: hybrid | g:0.542 m:0.5 ---
+
+ādāya vāri paritaḥ saritāṃ śatebhyaḥ kiṃ nāma sādhitam anena mahārṇavena ।
+kṣārīkṛtaṃ ca vaḍavādahane hutaṃ ca pātālakukṣikuhare viniveśitaṃ ca ।।

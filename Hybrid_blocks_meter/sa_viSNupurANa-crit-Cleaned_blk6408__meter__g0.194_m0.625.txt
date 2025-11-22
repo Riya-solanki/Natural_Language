@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6408 | label: meter | g:0.194 m:0.625 ---
+
+tadrūpapratyayā caikā saṃtatiś cānyaniḥspṛhā 
+taddhyānaṃ prathamair aṅgaiḥ ṣaḍbhir niṣpādyate nṛpa ।।

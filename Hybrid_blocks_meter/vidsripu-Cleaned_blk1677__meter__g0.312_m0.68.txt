@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1677 | label: meter | g:0.312 m:0.68 ---
+
+dadhati kuharabhājām atra bhallūkayūnām anurasitagurūṇi styānam ambūkṛtāni ।
+śiśirakaṭukaṣāyaḥ styāyate śallakīnām ibhadalitavikīrṇagranthiniṣyandagandhaḥ ।।
+bhavabhūter etau

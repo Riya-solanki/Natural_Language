@@ -1,0 +1,10 @@
+--- source: brssgo2u-Cleaned.txt | block: 90 | label: hybrid | g:0.385 m:0.498 ---
+
+ayatra tvasya sarvamātmaivābhūttatkena kaṃ paśyet' ityādinā brahmātmatvadarśinaṃ prati samastasya kriyākārakaphalalakṣaṇasya vyavahārasyābhāvam ।
+nacāyaṃ vyavahārābhāvoṣa'vasthāviśeṣanibaddho abhidhīyata iti yuktaṃ vaktum, atattvamasi' iti brahmātmabhāvasyānavasthāviśeṣanibandhanatvāt ।
+taskaradṛṣṭāntena cānṛtābhisaṃdhasya bandhanaṃ satyābhisaṃdhasya ca mokṣaṃ darśayannekatvamevaikaṃ pāramārthikaṃ darśayati ।
+mithyājñānavijṛmbhitaṃ ca nānātvam ।
+ubhayasatyatāyāṃ hi kathaṃ vyavahāragocaro api janturanṛtābhisaṃdha ityucyeta ।
+amṛtyoḥ sa mṛtyumāpnoti ya iha nāneva paśyati' iti ca bhedadṛṣṭimapavadannevaitaddarśayati ।
+nacāsmindarśane jñānānmokṣa ityupapadyate, samyagjñanāpanodyasya kasyacinmithyājñānasya saṃsārakāraṇatvenānabhyupagamāt ।
+ubhayasatyatāyāṃ hi kathamekatvavijñānena nānātvajñānamapanudyata ityucyate ।

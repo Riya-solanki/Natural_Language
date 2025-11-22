@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1357 | label: meter | g:0.306 m:0.5 ---
+
+prayojanaṃ nāma kiyatkimeva vā madāśrayaṃ mānada yattvamīkṣase ।
+priyātithitva guṇavatsalasya te pravṛttamabhyāsaguṇāditi dhruvam ।।

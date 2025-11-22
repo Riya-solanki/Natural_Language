@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 973 | label: meter | g:0.056 m:0.625 ---
+
+hambā-rāvair jana-kalakalaiḥ svargataḥ puṣpa-pātair
+vādyair nṛtyaiḥ stava-rava-śatair utthite' nyo' nya-marde ।
+śrīmān rāmaḥ paśu-samudayaṃ vārayan loka-vṛndaṃ
+ślakṣṇālāpair api samucita-sthāna-niṣṭhaṃ cakāra ।। [śārdūla]

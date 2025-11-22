@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1194 | label: meter | g:0.25 m:0.625 ---
+
+satyabhāmottamā strīṇāṃ vratinī ca dṛḍhavratā 
+tathā padmāvatī caiva bhāryāḥ kṛṣṇasya tā dadau ।।

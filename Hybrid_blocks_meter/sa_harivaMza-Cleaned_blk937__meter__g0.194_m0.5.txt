@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 937 | label: meter | g:0.194 m:0.5 ---
+
+hanta te vartayiṣyāmi pūror vaṃśam anuttamam 
+druhyoścānor yadoś caiva turvasoś ca paraṃtapa ।।

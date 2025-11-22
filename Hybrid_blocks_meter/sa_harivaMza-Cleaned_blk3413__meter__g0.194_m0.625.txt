@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3413 | label: meter | g:0.194 m:0.625 ---
+
+pratāpāvanatāḥ sarve tava tiṣṭhanti pārthivāḥ 
+preṣayāṇā varārhāṇi ratnāny ācchādanāni ca ।।

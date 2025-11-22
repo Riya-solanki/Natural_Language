@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 94 | label: grammar | g:0.75 m:0.5 ---
+
+saṃbuddhe pratilabdhavān narapatiḥ śraddhām asau tādṛśīṃ yat karmāvaraṇādrijālam akarod alpāvaśeṣāśrayam । pāpaṃ yat kriyate jine vrajati tat tair āryakāryaiḥ kṣayam ekenaiva hi śakyate vilikhituṃ vajrasvabhāvo hy ayam ।।

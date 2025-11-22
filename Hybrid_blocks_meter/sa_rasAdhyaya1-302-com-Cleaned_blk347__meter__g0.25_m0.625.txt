@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 347 | label: meter | g:0.25 m:0.625 ---
+
+khalvamadhye tataḥ kṣiptvā mardayet prativāsaram 
+rasaiḥ pūrvoditair bhūyo yāvat tad gilate sphuṭam ।।

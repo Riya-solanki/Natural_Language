@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 134 | label: meter | g:0.357 m:0.74 ---
+
+boddhavyaḥ pratipādyaḥ । kākurdhvanervikāraḥ । prastāvaḥ prakaraṇam ।
+arthasya vācyalakṣyavyaṅgyātmanaḥ ।
+krameṇodāharaṇāni ।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 355 | label: hybrid | g:0.521 m:0.5 ---
+
+iti niśi vijṛmbhamāṇasya gomāyorjanavyāvartananiṣṭhaṃ ca vacanamiti prabandha eva prathate ।।
+anye tvekādaśa bhedā granthavistarabhayānnodāhṛtāḥ svayaṃ tu lakṣaṇatonusartavyāḥ ।।

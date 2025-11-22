@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1307 | label: meter | g:0.25 m:0.625 ---
+
+koṭarāntargatavyālaviṣād apy atidāruṇaiḥ ।
+viṣayair upataptānāṃ pāpaṃ kiṃ nāma duṣkaram ।।

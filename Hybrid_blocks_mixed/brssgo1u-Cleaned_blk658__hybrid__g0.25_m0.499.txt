@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 658 | label: hybrid | g:0.25 m:0.499 ---
+
+FN devānāṃ karmasu nādhikāraḥ, devatāntarāṇāmuddeśyānāmabhāvāditi prathamasūtrārthaḥ ।
+ṛṣīṇāmapi na, ṛṣyāntarābhāvādṛṣiyukte karmaṇyaśakteriti dvitīyasūtrārthaḥ ।
+tat asāmarthyarūpaṃ kāraṇam ।

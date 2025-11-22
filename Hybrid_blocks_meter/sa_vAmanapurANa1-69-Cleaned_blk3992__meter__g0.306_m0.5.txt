@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3992 | label: meter | g:0.306 m:0.5 ---
+
+yat tiṣṭhatā yad vrajatā yacca śayyāgatena me ।
+kṛtaṃ yadaśubhaṃ karma kāyena manasā girā ।।

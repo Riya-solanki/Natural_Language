@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6031 | label: meter | g:0.25 m:0.75 ---
+
+palāśacūrṇaṃ samadhu gavyājyāmalakānvitam ।
+saviḍaṅgaṃ pītamātraṃ naraṃ kuryānmahāmatim ।।
+māsaikena mahādeva jarā-maraṇavarjitaḥ ।।
+palāśabījaṃ saghṛtaṃ tila-madhvanvitaṃ samam ।
+saptāhaṃ bhakṣitaṃ rudra jarāṃ nayati saṃkṣayam ।।

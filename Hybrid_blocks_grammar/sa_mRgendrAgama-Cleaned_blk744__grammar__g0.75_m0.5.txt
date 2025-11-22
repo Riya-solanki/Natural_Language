@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 744 | label: grammar | g:0.75 m:0.5 ---
+
+iti sādhyamantrārcanaprakaraṇe abhihitaṃ yataḥ। [daśāṃśaṃ hutvā] japācca daśāṃśena homaṃ kṛtvā [tadyāgakumbhasnātaḥ] tadyāgāvabhṛthasnātaḥ [śubhe dine] śubhe ahani [kṣetrasthaḥ] niyatakṣetre [siddhisaṃśrayaṃ caranvā] kṣetrāṇi vā caran [karma prārabhet] karmārambhaṃ kuryāt।।

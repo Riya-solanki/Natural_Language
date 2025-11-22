@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10219 | label: hybrid | g:0.51 m:0.5 ---
+
+hare murāre svāpahīnādya tiṣṭha kalpā dikānantarajñāna hīnāt ।
+samyag dṛṣṭvā karmadṛṣṭyā mahātmallaṃbdhaṃ tamo dāhi duḥ khasvarūpam ।।

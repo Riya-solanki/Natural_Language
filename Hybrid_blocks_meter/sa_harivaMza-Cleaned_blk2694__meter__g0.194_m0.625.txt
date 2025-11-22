@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2694 | label: meter | g:0.194 m:0.625 ---
+
+bho balāhakamātaṅgāḥ śrūyatāṃ mama bhāṣitam 
+yadi vo matpriyaṃ kāryaṃ rājabhaktipuraskṛtam ।।

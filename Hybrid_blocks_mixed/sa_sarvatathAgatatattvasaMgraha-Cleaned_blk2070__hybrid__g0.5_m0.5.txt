@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2070 | label: hybrid | g:0.5 m:0.5 ---
+
+padmaṃ gṛhya dṛḍhaṃ samyak samayāgryā tayaiva hi ।
+sphoṭayet tantu sudṛḍhaṃ yasya nāmnā sa naśyati ।।

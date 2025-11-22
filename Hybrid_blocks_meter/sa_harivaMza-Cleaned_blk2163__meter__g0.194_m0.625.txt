@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2163 | label: meter | g:0.194 m:0.625 ---
+
+aṭadhvaṃ pṭhivīṃ kṛtsnāṃ yatheṣṭaṃ kāmarūpiṇaḥ 
+praharadhvaṃ ca sarveṣu ye asmākaṃ pakṣadūṣakāḥ ।।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2841 | label: hybrid | g:0.25 m:0.399 ---
+
+satyasaṃdhasya tac chrutvā priyaṃ prītasya bhāṣitam 
+praṇamya devadevasya mūrdhnā śakraḥ padāmbujam । 
+kṛṣṇasya sākṣāt tridivaṃ jagāma tridaśeśvaraḥ ।। 
+etad ākhyānam āyuṣyāṃ puṇyaṃ pāpaprāṇāśanam । parjanyaprītijanakam avagrahanivārakam । sarvasaukhyapriyakaraṃ devaguhyam anuttamam । 
+gate śakre tataḥ kṛṣṇaḥ pūjyamāno vrajaukasaiḥ 
+govardhanadharaḥ śrīmān viveśa vrajam eva ha ।।

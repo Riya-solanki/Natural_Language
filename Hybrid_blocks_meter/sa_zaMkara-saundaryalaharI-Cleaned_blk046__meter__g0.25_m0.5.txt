@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 46 | label: meter | g:0.25 m:0.5 ---
+
+arālaiḥ svābhāvyād alikalabhasaśrībhir alakaiḥ parītaṃ te vaktraṃ parihasati paṅkeruharucim 
+darasmere yasmin daśanarucikiñjalkarucire sugandhau mādyanti smaramathanacakṣurmadhulihaḥ ।।

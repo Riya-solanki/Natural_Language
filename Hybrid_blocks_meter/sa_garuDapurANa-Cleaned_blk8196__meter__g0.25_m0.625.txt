@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8196 | label: meter | g:0.25 m:0.625 ---
+
+kiṃ vā na bhojayanviprānsī tāmanveṣayāmyaham ।
+vimṛśannevamevaṃ sa svayaṃ viprānabhojayat ।।

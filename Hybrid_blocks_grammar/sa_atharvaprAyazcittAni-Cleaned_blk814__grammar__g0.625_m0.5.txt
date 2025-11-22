@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 814 | label: grammar | g:0.625 m:0.5 ---
+
+sa cen mriyetāgnibhya eva trīn aṅgārān uddhṛtya dakṣiṇaṃ pāṇiṃ śroṇiṃ prati dagdhvāsthīny upanidadhyus ।

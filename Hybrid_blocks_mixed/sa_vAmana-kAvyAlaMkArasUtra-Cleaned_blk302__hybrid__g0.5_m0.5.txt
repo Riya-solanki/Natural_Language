@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 302 | label: hybrid | g:0.5 m:0.5 ---
+
+atra madhupṛṣatāṃ vṛttatvapiṅgatve sahacarite । tatra piṅgaśabdena piṅgatve pratipanne vṛttatvapratītirbhavati । etena kanakaphalakacaturasraṃ śreṇivimbam iti vyākhyātam । kanakaphalakasya gauratvacaturasratvayoḥ sāhacaryāccaturasratvaśrutyaica gauratvapratipattiriti । nanu ca yadi dharmanyūnatvamupamānasya doṣaḥ, kathamayaṃ prayogaḥ

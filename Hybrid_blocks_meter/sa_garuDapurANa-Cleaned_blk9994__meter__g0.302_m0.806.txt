@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9994 | label: meter | g:0.302 m:0.806 ---
+
+svadehadhanadārādiniratāḥ sarvajantavaḥ ।
+jāyante ca mriyante ca hā hantājñānamohitāḥ ।।

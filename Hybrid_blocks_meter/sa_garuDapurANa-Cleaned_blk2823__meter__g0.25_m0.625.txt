@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2823 | label: meter | g:0.25 m:0.625 ---
+
+bhaktaṃ paryuṣitocchiṣṭaṃ śvaspṛṣṭaṃ patito kṣitam ।
+udakyāspṛṣṭasaṃghuṣṭamaparyāptaṃ ca varjayet ।।

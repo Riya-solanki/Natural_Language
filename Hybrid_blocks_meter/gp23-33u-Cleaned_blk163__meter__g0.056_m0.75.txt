@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 163 | label: meter | g:0.056 m:0.75 ---
+
+bāhu-prasāram akarot parirambhaṇāya
+bāhū tu tat-karaṇatāṃ ciram īyatur na ।
+yo yasya naiti vaśatāṃ sa kathaṃ nu tasya
+prāpnotu sādhakatama-sthitim añjasaiva? ।। [vasantatilakā]

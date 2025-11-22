@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 2 | label: hybrid | g:0.51 m:0.5 ---
+
+hāridradravasodarāya rasanāmaṃḍo paristhāyine satyād anyatamāya vittaharaṇapratyakṣacaurāya ca ।
+citraṃ durbhagarūpavarṇanamahāpāṇḍityavidyāya te vyājānāṃ prathamāya garbhagaṇikārāgāya tubhyaṃ namaḥ ।।

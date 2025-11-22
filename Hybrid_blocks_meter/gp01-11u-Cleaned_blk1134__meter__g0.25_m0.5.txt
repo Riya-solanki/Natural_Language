@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1134 | label: meter | g:0.25 m:0.5 ---
+
+[] atha snigdhakaṇṭha uvāca-śrīmad-vraja-yuvarājena tatra kim uktam?

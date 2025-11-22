@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2491 | label: meter | g:0.25 m:0.5 ---
+
+bhūtaṃ bhavyaṃ bhaviṣyaṃ ca sarvabhūtān mahātmanaḥ 
+tad atrānyatra vā vipra sadbhāvaḥ kathitas tava ।।

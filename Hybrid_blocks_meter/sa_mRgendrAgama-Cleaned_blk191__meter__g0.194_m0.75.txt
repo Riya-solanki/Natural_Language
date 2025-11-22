@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 191 | label: meter | g:0.194 m:0.75 ---
+
+lokadhīguruśāstrebhyo bhāti vainayiko guṇaḥ 
+samarjito vainayiko manovāktanuceṣṭayā ।।

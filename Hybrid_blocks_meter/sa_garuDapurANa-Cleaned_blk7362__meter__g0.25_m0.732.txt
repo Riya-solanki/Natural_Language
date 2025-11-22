@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7362 | label: meter | g:0.25 m:0.732 ---
+
+bhogānte narakasyaitatsarvamityavadhāraya ।
+khagha pradarśyametattu mayoktaṃ te samāsataḥ ।
+dravyaprakārā hi yathā tathaiva prāṇijātayaḥ ।।

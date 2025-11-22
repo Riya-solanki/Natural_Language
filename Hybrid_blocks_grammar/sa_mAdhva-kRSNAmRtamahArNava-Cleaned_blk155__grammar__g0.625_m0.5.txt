@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 155 | label: grammar | g:0.625 m:0.5 ---
+
+vivecayati yo mohāc chuklā kṛṣṇeti pāpakṛt ekādaśīṃ sa vai yāti nirayaṃ nātra saṃśayaḥ ।।

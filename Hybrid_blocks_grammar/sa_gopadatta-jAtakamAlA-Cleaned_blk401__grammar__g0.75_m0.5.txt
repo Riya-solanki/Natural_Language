@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 401 | label: grammar | g:0.75 m:0.5 ---
+
+tato asau samapavanagamanajavajanitasavilāsagatibhiḥ salilaplavair itas tataḥ samākṣipyamāṇo nirāhāratayā ca parimlāyamānanayanavadanakamalaś cānyair bahubhir ahorātrair yathā kathaṃ cit tasya duravagāhasalilasya mahārṇavasya dakṣiṇaṃ tīradeśam āsasāda ।

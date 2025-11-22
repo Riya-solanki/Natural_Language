@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 821 | label: grammar | g:0.646 m:0.5 ---
+
+[] snigdhakaṇṭhaḥ sahāsam āha sma, guro, puro' vadhīyatāṃ yad vātsalyavilāsa eva khalv ayam asyāḥ ।

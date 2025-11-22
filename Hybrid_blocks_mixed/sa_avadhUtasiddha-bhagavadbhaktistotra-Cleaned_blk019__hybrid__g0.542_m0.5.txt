@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 19 | label: hybrid | g:0.542 m:0.5 ---
+
+badhnāti kācid api śaktir anantaśakter kṣetrajñam apratihatā bhavapāśajālaiḥ ।
+jñānāsinā ca vinikṛtya guṇān aśeṣān anyā karoty abhimukhaṃ puruṣaṃ vimuktau ।।

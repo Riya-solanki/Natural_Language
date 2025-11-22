@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 125 | label: meter | g:0.26 m:0.986 ---
+
+heyārthāntaratvaṃ yathā 
+karopalālitaviśāmāsāntāgūḍhavarcasām ।
+dviṣāmakālarāhuste khaḍgaḥ kalyāṇabhūpate ।।

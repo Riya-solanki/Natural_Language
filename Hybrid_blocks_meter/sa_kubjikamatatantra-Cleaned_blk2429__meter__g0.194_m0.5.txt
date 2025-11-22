@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2429 | label: meter | g:0.194 m:0.5 ---
+
+caturviṃśati dīpāṃś ca sthāne sthāne pradāpayet 
+caturviṃśati pīṭhāṃś ca krameṇa parivartayet ।।

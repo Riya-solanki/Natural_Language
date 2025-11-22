@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 486 | label: hybrid | g:0.374 m:0.495 ---
+
+hṛtarājyas tadā rājā sa vai bāhur vanaṃ yayau 
+patnyā cānugato duḥkhī vane prāṇān avāsṛjat ।। 
+vṛddhaṃ taṃ pañcatāṃ prāptaṃ tatpatny anumariṣyatī । aurveṇa jānatātmānaṃ prajāvantaṃ nivāritā । 
+patnī tu yādavī tasya sagarbhā pṛṣṭhato anvagāt 
+sapatnyā ca garas tasyā dattaḥ pūrvam abhūt kila ।।

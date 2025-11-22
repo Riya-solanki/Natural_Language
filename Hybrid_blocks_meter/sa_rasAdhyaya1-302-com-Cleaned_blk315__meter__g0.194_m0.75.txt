@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 315 | label: meter | g:0.194 m:0.75 ---
+
+agastipuṣpatoye ca kumudānāṃ rasena ca 
+varṣābhūtundalīyena maricaiḥ sumukhena ca ।।

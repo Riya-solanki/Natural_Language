@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 953 | label: meter | g:0.25 m:0.5 ---
+
+sadayaṃ bubhaje mahābhujaḥ sahasodvegamiyaṃ vrajediti ।
+aciropanatāṃ sa medinīṃ navapāṇigrahaṇāṃ vadhūmiva ।।

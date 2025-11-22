@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1040 | label: hybrid | g:0.444 m:0.5 ---
+
+pāṇḍyaś ca keralaś caiva kolaś colaś ca pārthivaḥ 
+teṣāṃ janapadāḥ sphītāḥ pāṇḍyaś colaś ca keralāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6127 | label: meter | g:0.25 m:0.5 ---
+
+jayā jayantī śaraṇī nirguṇḍī sindhuvārakaḥ ।
+moraṭā pīluparṇo ca tuṇḍī syāttuṇḍikerikā ।।

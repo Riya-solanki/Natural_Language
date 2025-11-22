@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1333 | label: meter | g:0.0 m:0.75 ---
+
+tadanyasya kāraṇādeḥ । krameṇodāhyaṇam

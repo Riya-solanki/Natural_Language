@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7047 | label: meter | g:0.25 m:0.75 ---
+
+vilambajanakāḥ sarve vistarāḥ parikīrtitāḥ ।
+śiśupālaḥ siddhimāpa smaraṇābhyāsagauravāt ।।

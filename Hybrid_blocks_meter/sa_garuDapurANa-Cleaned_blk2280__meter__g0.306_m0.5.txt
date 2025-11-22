@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2280 | label: meter | g:0.306 m:0.5 ---
+
+dhenuṃ dṛṣṭvā dhenuvane brahmalokaṃ nayetpitṝn ।
+prabhāseśaṃ prabhāse ca dṛṣṭvā yāti parāṃ gatim ।।

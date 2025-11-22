@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2761 | label: meter | g:0.25 m:0.5 ---
+
+dakṣiṇāṅgaṃ nakhāntaṃ vai samakampata śūlinaḥ ।
+śakuniś cāpi hārīto maunī yāti parāṅgamukhaḥ ।।

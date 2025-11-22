@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1040 | label: grammar | g:0.604 m:0.5 ---
+
+atha sa pārthivas tāsāṃ tena suhṛtsvajanabandhunirapekṣarūkṣākṣareṇa svakāyajīvitāśāvidhureṇa vacasā sutarāṃ samupajātaśokadainyamānasaḥ punar vyāha ।।

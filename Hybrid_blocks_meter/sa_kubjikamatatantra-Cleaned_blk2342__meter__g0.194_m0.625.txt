@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2342 | label: meter | g:0.194 m:0.625 ---
+
+kaṅkaṭā vikaṭā caiva subhaṭā ca bhaṭodbhavā 
+sakāre devatā nāma gāndharvadvīpavāsinaḥ ।।

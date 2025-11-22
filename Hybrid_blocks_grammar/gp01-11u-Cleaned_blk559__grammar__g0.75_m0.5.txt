@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 559 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataḥ śrīmān ānakadundubhis taṃ kṛta-kāryam avadhārya bhāvy utpātaṃ vicārya sva-bhavanam eva gantum anumatavān । śrī-vrajarājas tu vastutaś cetasā cetaḥ pracalita eva, samprati tu gehaṃ prati deham evehayāmāsa ।

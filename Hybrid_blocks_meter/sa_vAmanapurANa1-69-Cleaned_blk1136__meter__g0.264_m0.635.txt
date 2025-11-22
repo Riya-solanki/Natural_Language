@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1136 | label: meter | g:0.264 m:0.635 ---
+
+nārada uvāca ।
+kirmathamadriṃ bhagavānagastyastaṃ nimnaśṛṅgaṃ kṛtavān maharṣiḥ ।
+kasmai kṛte kena ca kāraṇena etad vadasvāmalasattvavṛtte ।।

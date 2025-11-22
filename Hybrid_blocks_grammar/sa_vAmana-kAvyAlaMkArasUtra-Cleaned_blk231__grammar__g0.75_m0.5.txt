@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 231 | label: grammar | g:0.75 m:0.5 ---
+
+preyān sāyamapākṛtaḥ saśapathaṃ pādānataḥ kāntayā dvitrāṇyeva padāni vāsabhavanāt yāvanna yātyūnmanāḥ । tāvat pratyuta pāṇisampuṭalasagnīvīnitambaṃ dhṛto dhāvitvaiva kṛtapraṇāmakamaho premṇo vicitrā gatiḥ ।।

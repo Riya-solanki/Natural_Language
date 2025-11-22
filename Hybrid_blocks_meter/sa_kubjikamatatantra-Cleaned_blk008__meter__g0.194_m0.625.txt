@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 8 | label: meter | g:0.194 m:0.625 ---
+
+kāryakāraṇabhāvena kiñcit kālam apekṣayā 
+tiṣṭhate bhairavīśāno maunam ādāya niścalam ।।

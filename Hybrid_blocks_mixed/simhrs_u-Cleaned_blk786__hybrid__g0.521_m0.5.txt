@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 786 | label: hybrid | g:0.521 m:0.5 ---
+
+atra parāśara-muni-prasādena labdhena divyena satyavatī-śarīra-saurabheṇa śantanos tasyāṃ ratiḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1034 | label: meter | g:0.307 m:0.623 ---
+
+sukhamatra kutaḥ kathaṃ kadā vā parikalpapraṇayaṃ na cedupaiti ।
+viṣayopaniveśane api mohād vraṇakaṇḍūyanavatsukhābhimānaḥ ।।

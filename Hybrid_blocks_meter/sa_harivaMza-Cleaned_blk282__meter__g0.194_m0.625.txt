@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 282 | label: meter | g:0.194 m:0.625 ---
+
+padmapatre punar dugdhā gandharvaiḥ sāpsarogaṇaiḥ 
+vatsaṃ citrarathaṃ kṛtvā śucīn gandhān narottama ।।

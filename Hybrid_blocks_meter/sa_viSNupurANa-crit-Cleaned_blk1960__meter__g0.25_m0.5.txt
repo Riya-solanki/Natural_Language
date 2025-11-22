@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1960 | label: meter | g:0.25 m:0.5 ---
+
+ubhayoḥ kāṣṭhayor madhye bhramato maṇḍalāni ca 
+divā naktaṃ ca sūryasya mandā śīghrā ca vai gatiḥ ।।

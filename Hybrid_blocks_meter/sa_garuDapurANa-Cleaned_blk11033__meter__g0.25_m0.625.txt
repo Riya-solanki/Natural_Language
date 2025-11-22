@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11033 | label: meter | g:0.25 m:0.625 ---
+
+matsevāṃ ca kimarthaṃ vai hyācariṣyanti suvratāḥ ।
+tasyāṃ raktāśca tā devyastvabruvansvacikīrṣitam ।।

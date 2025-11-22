@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 142 | label: hybrid | g:0.465 m:0.5 ---
+
+kiṃcāpi śraddhabahulo siya bodhisattvo prajñāvihīna vilayaṃ laghu prāpuṇāti 
+taṃ caiva śraddha parigṛhṇayamāna prajñā atikramya bodhidvaya prāpsyati agrabodhim ।।

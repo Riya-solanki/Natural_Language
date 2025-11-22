@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 627 | label: meter | g:0.306 m:0.5 ---
+
+vakkre amuttamāṅge aḥ nyasedvai haṃsasaṃyutāḥ ।
+haṃso viṣādi ca harejjapto dhyāto atha pūjitaḥ ।।

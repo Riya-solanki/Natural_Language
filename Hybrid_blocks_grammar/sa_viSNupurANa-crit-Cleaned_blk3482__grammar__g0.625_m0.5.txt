@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3482 | label: grammar | g:0.625 m:0.5 ---
+
+tatrāpy anudinaṃ vaikhānasaniṣpādyam aśeṣaṃ kriyākalāpaṃ niṣpādya kṣapitasakalapāpaḥ paripakvamanovṛttir ātmany agnīn samāropya bhikṣur abhavat ।।

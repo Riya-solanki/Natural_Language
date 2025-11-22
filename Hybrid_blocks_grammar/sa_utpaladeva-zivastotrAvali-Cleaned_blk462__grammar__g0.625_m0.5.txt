@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 462 | label: grammar | g:0.625 m:0.5 ---
+
+duḥkhāny api sukhāyante viṣam apy amṛtāyate mokṣāyate ca saṃsāro yatra mārgaḥ sa śaṅkaraḥ ।।

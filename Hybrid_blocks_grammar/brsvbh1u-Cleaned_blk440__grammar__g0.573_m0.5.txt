@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 440 | label: grammar | g:0.573 m:0.5 ---
+
+bhāvārtho hi kārakavyāpāramātratayāviśiṣṭaḥ kārakaviśeṣeṇa dravyādinā viśeṣyata iti dravyādistadanubandhaḥ ।
+tathā ca bhāvārthe vidhīyamāne sa eva sānubandho vidhīyata iti dravyaguṇāvaviṣayāvapi tadanubandhatayā vihitau bhavataḥ ।

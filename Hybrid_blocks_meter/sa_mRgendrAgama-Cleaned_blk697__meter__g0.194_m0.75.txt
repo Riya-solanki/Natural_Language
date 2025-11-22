@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 697 | label: meter | g:0.194 m:0.75 ---
+
+na nīcaiḥ saṃvasennnāpi vṛthā yāyādgṛhādgṛham 
+tathā nopahasetkaṃcin nānukuryānna pīḍayet ।।

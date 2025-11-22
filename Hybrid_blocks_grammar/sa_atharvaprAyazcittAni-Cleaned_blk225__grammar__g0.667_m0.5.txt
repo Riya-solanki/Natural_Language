@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 225 | label: grammar | g:0.667 m:0.5 ---
+
+bhuvāya svāhā । bhuvanāya svāhā । bhuvanapataye svāhā । bhuvāṃ pataye svāhā । viṣṇave svāheti ।

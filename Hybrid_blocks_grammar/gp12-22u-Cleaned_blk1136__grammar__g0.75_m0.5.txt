@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1136 | label: grammar | g:0.75 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-yadyapi sādhvī-śiromaṇi-ramaṇīnāṃ rādhādīnāṃ dīnāyamānānām ālocana-saṅkocatas tasya punar vrajāgamanam anu mano na jātaṃ, tathāpi tad-anusandhānaṃ vinā vrata-bandhādi-dvayaṃ na sandhātavyam iti śrī-vraja-pati-jampatyoḥ kṛta-nibandhatayā, rādhādīnāṃ vadhūnām ābhād utpanna-manaskāra-pratibandhatayā ca tāḥ parasparayā parākṛtāḥ ।

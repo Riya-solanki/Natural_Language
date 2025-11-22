@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 522 | label: meter | g:0.155 m:0.536 ---
+
+paṭhan samyag imāṃ sṛṣṭim ādityasya vivasvataḥ 
+śrāddhadevasya devasya prajānāṃ puṣṭidasya ca 
+prajānān eti sāyujyam ādityasya vivasvataḥ ।। 
+vipāpmā virajāścaiva āyuṣmāṃś ca bhavaty uta । 
+kathaṃ vai śrāddhadevatvam ādityasya vivasvataḥ 
+śrotum icchāmi viprāgrya śrāddhasya ca paraṃ vidhaṃ 
+pitṝṇām ādisargaṃ ca ka ete pitaraḥ smṛtāḥ ।।

@@ -1,0 +1,8 @@
+--- source: rasadh_u-Cleaned.txt | block: 14 | label: meter | g:0.25 m:0.555 ---
+
+mṛnmayaḥ kañcukaścaiko dvikaḥ pāṣāṇakañcukaḥ ।
+tṛtīyo jalajātaśca dvau dvau ca nāgavaṅgajau ।।
+kapālikālikā vaṅge nāge śyāmakapālike ।
+yādṛśā ca tarā dugdhe tadrūpe dve kapālike ।।
+pañcavarṇā bhavet śyāmā kālikā kṛṣṇavarṇikā ।
+sadā sūtasya jāyante sahajāḥ sapta kañcukāḥ ।।

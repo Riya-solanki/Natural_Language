@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8046 | label: grammar | g:0.583 m:0.5 ---
+
+pretāḥ saṃgavaśena nākamavansantaptako brāhmaṇo viṣvaksana iti prasiddhavibhavo nāmnā gaṇe me abhavat ।
+etatte sakalaṃ mayā nigāditaṃ yaścaitadutkīrtayedyaścedaṃ śṛṇuyānna so api puruṣaḥ pretatvamāpnoti hi ।।

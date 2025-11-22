@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 301 | label: meter | g:0.25 m:0.5 ---
+
+etacchrutvā tu gaditaṃ vāmanasya mahātmanaḥ ।
+vācayāmāsa vai tasmai vāmanāya mahātmane ।।

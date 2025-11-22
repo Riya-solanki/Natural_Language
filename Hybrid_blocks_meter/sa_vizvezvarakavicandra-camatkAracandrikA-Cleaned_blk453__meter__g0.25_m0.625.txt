@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 453 | label: meter | g:0.25 m:0.625 ---
+
+ciraṃ jīvatu vakroktiḥ svabhāvoktiśca tiṣṭhatām ।
+rasoktereva kāvyāni grāhīṇīti matirmama ।।

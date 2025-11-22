@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 32 | label: hybrid | g:0.505 m:0.489 ---
+
+khaḍgī saśabdam atha pustakavān sacintaṃ bālaḥ sakhelam abhirāmatamaḥ sakāmam ।
+nānāvidhaṃ suravadhūbhir itīkṣito vaḥ pāyāc ciraṃ sugatavaṃśadharaḥ kumāraḥ ।।
+puruṣottamasya

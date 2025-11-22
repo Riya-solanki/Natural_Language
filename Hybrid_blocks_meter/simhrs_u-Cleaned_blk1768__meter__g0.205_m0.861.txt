@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1768 | label: meter | g:0.205 m:0.861 ---
+
+purāṇam ity eva na sādhu sarvaṃ
+na cāpi kāvyaṃ navam ity avadyam ।
+santaḥ parīkṣyāntarad bhajante
+mūḍhaḥ para-pratyayaneya-buddhiḥ ।।

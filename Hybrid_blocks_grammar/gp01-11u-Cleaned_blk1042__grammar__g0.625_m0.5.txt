@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1042 | label: grammar | g:0.625 m:0.5 ---
+
+[] kṛṣṇa uvāca-maraṇe ditya-patyatā param āgatya pratyakṣī-bhaviṣyaty asya । tataḥ ko' pi nāpavadeta ।

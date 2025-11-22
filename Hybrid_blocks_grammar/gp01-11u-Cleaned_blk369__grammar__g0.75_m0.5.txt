@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 369 | label: grammar | g:0.75 m:0.5 ---
+
+[] bhavati hi svayaṃ bhagavati tasya bhakti-viśeṣa-vyaktiḥ-yasyāsti bhaktir bhagavaty akiñcanā sarvair guṇais tatra samāsate surāḥ iti hi bhagavatī śrī-bhāgavata-gīr-devī ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10805 | label: meter | g:0.25 m:0.5 ---
+
+nirmame nāsikāṃ vāmāṃ brahmā lokapitāmahaḥ ।
+ahaṅkārādanu brahmā sajñānaṃ ca bṛhaspatim ।।

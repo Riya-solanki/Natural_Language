@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 42 | label: meter | g:0.25 m:0.5 ---
+
+caityapūjāṃ yathā kṛtvā gurupūjāṃ samācaret ।
+annaṃ vastraṃ suvarṇaṃ ca vrīhiratnāni bhūṣitān ।।

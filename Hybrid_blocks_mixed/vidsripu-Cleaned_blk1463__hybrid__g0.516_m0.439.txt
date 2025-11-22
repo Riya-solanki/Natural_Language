@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1463 | label: hybrid | g:0.516 m:0.439 ---
+
+satyaṃ tvadguṇakīrtanena sukhayaty ākhaṇḍalaṃ nāradaḥ kiṃ tu śrotrakaṭu kvaṇanti madhupās tatpārijātasrajām ।
+vāryante yadi cāpsaraḥpariṣadā te cāmarāḍambarair udvelladbhujavallikaṅkaṇajhaṇatkāras tadā duḥsahaḥ ।।
+madhukūṭasya

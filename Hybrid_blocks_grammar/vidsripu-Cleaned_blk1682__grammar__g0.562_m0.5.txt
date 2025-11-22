@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1682 | label: grammar | g:0.562 m:0.5 ---
+
+yad etat svacchandaṃ virahaṇam akārpaṇyam aśanaṃ sahāryaiḥ saṃvāsaḥ śrutam upaśamaikaśramaphalam ।
+mano mandaspandaṃ viharati cirāyābhivimṛśan na jāne kasyaiṣā pariṇatir udārasya tapasaḥ ।।

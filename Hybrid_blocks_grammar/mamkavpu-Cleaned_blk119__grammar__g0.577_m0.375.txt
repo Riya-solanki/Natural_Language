@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 119 | label: grammar | g:0.577 m:0.375 ---
+
+ityādāvabhinayādayaḥ ।
+itthaṃ saṃyogādibhirarthāntarābhidhāyakatve nivārite apyanekārthasya śabdasya yat kvacidarthāntarapratipādanaṃ tatra nābhidhā niyamanāttasyāḥ । na ca lakṣaṇā mukhyārthabādhādyabhāvāt । api tvañjanaṃ vyañjanameva vyāpāraḥ । yathā

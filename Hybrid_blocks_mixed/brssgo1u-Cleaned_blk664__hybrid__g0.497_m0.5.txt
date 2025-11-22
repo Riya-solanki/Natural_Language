@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 664 | label: hybrid | g:0.497 m:0.5 ---
+
+anekapratipatterdarśanādityasyāparā vyākhyā- vigrahavatāmapi karmāṅgabhāvacodanāsvanekā pratipattirdṛśyate ।
+kvacideko api vigrahavānanekatra yugapadaṅgabhāvaṃ na gacchati, yathā bahubhirbhojayadbhirnaiko brāhmaṇo yugapadbhojyate ।
+kvaciccaiko api vigrahavānanekatra yugapadaṅgabhāvaṃ gacchati, yathā bahubhirnamaskurvāṇaireko brāhmaṇo yugapannamaskriyate ।
+tadvadihoddeśaparityāgātmakatvādyāgasya vigrahavatīmapyekāṃ devatāmuddiśya bahavaḥ svaṃ svaṃ dravyaṃ yugapatparityakṣyantīti vigrahavattve api devatānāṃ na kiñcitkarmaṇi virudhyate ।।

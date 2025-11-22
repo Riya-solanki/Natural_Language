@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 634 | label: hybrid | g:0.5 m:0.5 ---
+
+[yatra] yasmin sūtre [mahātantrārthapādapaḥ bīja iva] sakalatantrārtho bīja iva mahāvṛkṣa ārūḍhaḥ ābhāti śaktyātmanāvasthitaḥ pratibhāti [tad athaśabdādyalaṃkṛtaṃ] tadathaśabdaśivasiddhādimaṅgalyaśabdālaṃkṛtaṃ mūlasūtraṃ mūlaṃ sūtraṃ jñeyam। yathā`athānādimalāpeta' ityādi।।quote{athānādimalāpetaḥ{rmmrgvp }}

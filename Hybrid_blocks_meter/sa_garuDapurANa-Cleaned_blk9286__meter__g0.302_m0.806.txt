@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9286 | label: meter | g:0.302 m:0.806 ---
+
+pāyu sthāne sthitaḥ ketuḥ śarīre grahamaṇḍalam ।
+vibhaktañca samākhyātamāpādatalamastakam ।।

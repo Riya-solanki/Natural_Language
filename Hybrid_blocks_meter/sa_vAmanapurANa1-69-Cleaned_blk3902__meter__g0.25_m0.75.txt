@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3902 | label: meter | g:0.25 m:0.75 ---
+
+tasya pāparatasyaivaṃ jagmurvarṣaśatāni tu ।
+tenaiva karmadoṣeṇa nānyāṃ vṛttimarocayat ।।

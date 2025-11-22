@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1028 | label: meter | g:0.25 m:0.625 ---
+
+bālāḥ sukhocitā yūyam akṛtārthamanorathāḥ ।
+kathaṃ śaknomy ahaṃ vaktum āśrayadhvaṃ tapovanam ।।

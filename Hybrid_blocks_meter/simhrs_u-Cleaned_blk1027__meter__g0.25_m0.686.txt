@@ -1,0 +1,11 @@
+--- source: simhrs_u-Cleaned.txt | block: 1027 | label: meter | g:0.25 m:0.686 ---
+
+atha pravāsaḥ-
+pūrva-saṅgatayor yūnor bhaved deśāntarādibhiḥ ।
+caraṇa-vyavadhānaṃ yat sa pravāsa itīryate ।। 
+taj-janyo vipralambho' pi pravāsatvena saṃmataḥ ।
+harṣa-garva-mada-vrīḍā varjayitvā samīritāḥ ।। 
+śṛṅgāra-yogyāḥ sarve' pi pravāsa-vyabhicāriṇaḥ ।
+kāryataḥ sambhramāc chāpāt sa tridhā tatra kāryajaḥ ।। 
+buddhi-pūrvatayā yūnoḥ saṃvidhāna-vyapekṣayā ।
+vṛtto vartiṣyamāṇaś ca vartamāna iti tridhā ।।

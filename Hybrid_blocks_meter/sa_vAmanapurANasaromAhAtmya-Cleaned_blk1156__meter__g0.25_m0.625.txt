@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1156 | label: meter | g:0.25 m:0.625 ---
+
+yasya keśeṣu jīmūtā nadyāḥ sarvāṅgasandhiṣu ।
+kukṣau samudraścatvārastasmai toyātmane namaḥ ।।

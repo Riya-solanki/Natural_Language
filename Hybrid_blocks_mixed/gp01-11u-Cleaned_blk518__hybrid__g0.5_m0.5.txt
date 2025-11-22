@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 518 | label: hybrid | g:0.5 m:0.5 ---
+
+[] dūta uvāca-"tataś ca niravagraha-graha-van niranugrahaḥ sahasā raṃhasā sūtikā-śayyām eva sajjan sa nirlajjaḥ prajātāyā jāta-parivedanāyā devyāḥ kroḍataḥ samācchidya, tad vidyamānam eva vikṣiptatām eva vikṣipta-cittaḥ kṣipram eva tāṃ prastarāya prakṣiptavān, yataḥ sarvataḥ sa eva pratikṣiptatām āpa ।"

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 580 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhukaṇṭha uvāca-atha vraje tu mahā-kolāhala-vraje jāte vrajeśvara-gṛhiṇīṃ rohiṇīṃ ca vihāyaṃ vihāyam upary upari paridrutāsu vṛddhā-madhyā-vadhūṣu tāsu tadaiva daiva-niścita-diśaḥ kāścit pṛthu-naga-pṛtanām patitāṃ pūtanāṃ dṛṣṭvāpi vighaṭita-bhayā nikaṭam aṭitā vidhi-ghaṭita-skhalita-bāhu-ghaṭṭam ārūḍhā bāla-bhāvād akutobhayatayā khelantam iva taṃ bāla-gopālam avilambitaṃ gṛhītvā tāṃ saṃvega-jāta-vegatayā sarvaṃ cātihāya gṛhāya dudruvuḥ ।

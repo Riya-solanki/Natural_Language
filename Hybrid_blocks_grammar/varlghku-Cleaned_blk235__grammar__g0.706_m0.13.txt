@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 235 | label: grammar | g:0.706 m:0.13 ---
+
+vibhāṣā diksamāse bahuvrīhau ।।
+sarvanāmatā vā । uttarapūrvasyai, uttarapūrvāyai । tīyasyeti vā sarvanāmasaṃjñā । dvitīyasyai, dvitīyāyai ।। ambārtheti hrasvaḥ । he amba । he alla ।। jarā । pakṣe ramāvat ।। gopāḥ, viśvapāvat ।।

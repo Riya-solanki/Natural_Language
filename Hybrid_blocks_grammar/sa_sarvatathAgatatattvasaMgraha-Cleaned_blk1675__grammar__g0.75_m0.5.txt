@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1675 | label: grammar | g:0.75 m:0.5 ---
+
+tatastatkarmavajraṃ vajradhārimudrāyāmupari sthāpya, yathāvatpraveśayet । praveśya tadvajraṃ tathaiva kṣipet । yatra patati sāsya samayamudrā vaśya bhavati ā ।। tayā sarvakarmāṇi karoti ।।

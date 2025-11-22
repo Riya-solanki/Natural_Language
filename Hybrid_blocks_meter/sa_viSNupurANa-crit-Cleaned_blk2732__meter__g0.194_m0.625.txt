@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2732 | label: meter | g:0.194 m:0.625 ---
+
+avagāhed apaḥ pūrvam ācāryeṇāvagāhitāḥ 
+samijjalādikaṃ cāsya kālyaṃ kālyam upānayet ।।

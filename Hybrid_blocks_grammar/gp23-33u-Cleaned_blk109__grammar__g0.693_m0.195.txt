@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 109 | label: grammar | g:0.693 m:0.195 ---
+
+[] kiṃ cātra khaṇḍam akhaṇḍaṃ ca padyaṃ yathāyatham anūḍhā ūḍhābhāsāś ca tā dṛṣṭvācaṣṭeti gamyate । tatrānūḍhāḥ prati sahajā ity antam । ūḍhābhāsāḥ pratiśrūyante' pi tanūjā ity antam । akhaṇḍaṃ tu sarvāḥ pratīti jñeyam ।
+[] punaś cārtha-dhvani-saṃvalanayā cittam āndolayāmāsa-

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1030 | label: meter | g:0.25 m:0.5 ---
+
+{apasāraya ghanasāraṃ kuru hāraṃ dūra eva kiṃ kamalaiḥ ।
+alamalamāli mṛṇālairiti vadati divāniśaṃ bālā ।।}

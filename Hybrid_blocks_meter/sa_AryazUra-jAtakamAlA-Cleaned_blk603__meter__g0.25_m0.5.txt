@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 603 | label: meter | g:0.25 m:0.5 ---
+
+ime nāvaśvakāstāta hastikā rathakāśca ye ।
+ato ardhaṃ deyamambāyai śokaṃ tena vineṣyati ।।

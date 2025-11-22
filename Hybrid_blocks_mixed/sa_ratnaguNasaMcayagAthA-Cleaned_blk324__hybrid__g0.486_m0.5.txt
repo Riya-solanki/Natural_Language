@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 324 | label: hybrid | g:0.486 m:0.5 ---
+
+ahasaṃjñatastu mamatā bhavate ca rāgo kutu tyāgabuddhi bhaviṣyati sā muhānām 
+mātsarya preta bhavate upapadyayātī athavā manuṣya tada bhoti daridrarūpo ।।

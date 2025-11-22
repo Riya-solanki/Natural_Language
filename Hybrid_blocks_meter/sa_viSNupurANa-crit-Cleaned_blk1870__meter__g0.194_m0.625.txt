@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1870 | label: meter | g:0.194 m:0.625 ---
+
+tasmād duḥkhātmakaṃ nāsti na ca kiṃcit sukhātmakam 
+manasaḥ pariṇāmo ayaṃ sukhaduḥkhādilakṣaṇaḥ ।।

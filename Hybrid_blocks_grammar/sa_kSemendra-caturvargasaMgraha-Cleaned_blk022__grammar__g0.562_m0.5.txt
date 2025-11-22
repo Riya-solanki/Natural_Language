@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 22 | label: grammar | g:0.562 m:0.5 ---
+
+lakṣmīr dānaphalā śrutaṃ śamaphalaṃ pāṇiḥ surārcāphalaś ceṣṭā dharmaphalā parārtiharaṇakrīḍāphalaṃ jīvitam ।
+vāṇī satyaphalā jagatsukhaphalasphītā prabhāvonnatir bhavyānāṃ bhavaśānticintanaphalā bhūtyai bhavaty eva dhiḥ ।।

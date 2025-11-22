@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 177 | label: meter | g:0.25 m:0.5 ---
+
+sa pāṭyamāno garbho atha vajreṇa praruroda ha 
+mā rodīr iti taṃ śakraḥ punaḥ punar abhābravīt ।।

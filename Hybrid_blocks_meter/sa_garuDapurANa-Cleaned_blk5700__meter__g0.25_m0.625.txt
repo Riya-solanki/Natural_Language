@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5700 | label: meter | g:0.25 m:0.625 ---
+
+kūṣmāṇḍanālakṣāraśca sagomūtraśca tattvataḥ ।
+jalapiṣṭā haridrā ca siddhā mandānalenahi ।।

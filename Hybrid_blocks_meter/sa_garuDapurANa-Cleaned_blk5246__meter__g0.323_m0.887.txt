@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5246 | label: meter | g:0.323 m:0.887 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+dravyāṇi madhurādīni vakṣye rāgaharāṇyaham ।
+śāliṣaṣṭikagodhṛmakṣīraṃ ghṛtaṃ rasā madha ।।

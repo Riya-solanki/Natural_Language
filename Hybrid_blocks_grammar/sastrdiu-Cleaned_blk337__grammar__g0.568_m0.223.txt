@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 337 | label: grammar | g:0.568 m:0.223 ---
+
+yattu satyāpi yogyānupalambho hi kāraṇaṃ tatra yogyatvaṃ jñātatayaiva kāraṇaṃ na sattāmātreṇa, tataḥ yogyatvaṃ kadācidajñātaṃ nābhāvamavadhārayati kadācittvavidyamānameva yogyatvaṃ bhrāntyā niścityābhāvamavadhārayati ।
+upalabdhyabhāvastu sanmātratayā kāraṇaṃ na jñātatayā, tena nānavasthāpattiriti sarvamavadātam ।
+ato astyabhāvākhyaṃ prameyam ।।

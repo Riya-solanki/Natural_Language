@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 892 | label: meter | g:0.25 m:0.5 ---
+
+jepuśca mantrānapare vicitrānanye tu devīṃ vidhivatpraṇemuḥ ।
+supāragaṃ kecidupetya tattadviceṣṭamānāḥ karuṇaṃ vilepuḥ ।।

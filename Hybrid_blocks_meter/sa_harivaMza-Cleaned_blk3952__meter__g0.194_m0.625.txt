@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3952 | label: meter | g:0.194 m:0.625 ---
+
+vayorūpaguṇopetā rājaputrī ca sābhavat 
+nārāyaṇī candrasenā jātakāmā ca taṃ prati ।।

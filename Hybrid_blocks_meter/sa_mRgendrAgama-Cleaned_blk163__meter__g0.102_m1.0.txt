@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 163 | label: meter | g:0.102 m:1.0 ---
+
+vemādināpanīyātha paṭavyaktiḥ prakāśyate 
+yathā kaṭādigūḍhasya paṭādestadvyudāsataḥ 
+nāsataḥ kriyate vyaktiḥ kalādergranthitastathā ।।

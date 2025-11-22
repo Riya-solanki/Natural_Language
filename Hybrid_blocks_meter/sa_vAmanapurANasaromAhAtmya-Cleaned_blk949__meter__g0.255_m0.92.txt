@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 949 | label: meter | g:0.255 m:0.92 ---
+
+sanatkumāra uvāca
+sthāṇorvaṭasyottarataḥ sukratīrthaṃ prakīrtitam ।
+sthāṇorvaṭasya pūrveṇa somatīrthaṃ dvijottama ।।

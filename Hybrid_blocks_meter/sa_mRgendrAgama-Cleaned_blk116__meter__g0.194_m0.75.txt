@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 116 | label: meter | g:0.194 m:0.75 ---
+
+bandhaśūnyasya vaśitā dṛṣṭā baddhasya vaśyatā 
+etāvatī te baddhatvamuktatve baddhamuktayoḥ ।।

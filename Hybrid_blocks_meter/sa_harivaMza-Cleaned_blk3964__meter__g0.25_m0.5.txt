@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3964 | label: meter | g:0.25 m:0.5 ---
+
+bhavān akṣeṣu kuśalo vayaṃ cāpi riraṃsavaḥ 
+priyadyūtaś ca rāmo asāv akṣeṣv anipuṇo api ca ।।

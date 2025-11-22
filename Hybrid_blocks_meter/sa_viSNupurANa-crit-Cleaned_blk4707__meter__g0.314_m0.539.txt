@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4707 | label: meter | g:0.314 m:0.539 ---
+
+jñānātmakasyāmalasattvarāśer apetadoṣasya sadā sphuṭasya 
+kiṃ vā jagaty atra samastapuṃsām ajñātam asyāsti hṛdi sthitasya ।।

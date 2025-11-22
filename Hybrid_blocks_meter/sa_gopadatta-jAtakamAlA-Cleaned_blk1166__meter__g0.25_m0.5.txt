@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1166 | label: meter | g:0.25 m:0.5 ---
+
+sarvārthaprakṛtivibhāganiścitātmā sarvebhyo munir itivṛttakaṃ jagāda ।
+mohāndhe jagati samantacakṣur ekaṃ sattvebhyo bhavabhayakaṇṭakakṣatebhyaḥ ।।

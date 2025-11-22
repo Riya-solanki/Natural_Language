@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2162 | label: grammar | g:0.583 m:0.5 ---
+
+kiṃ tvā vane na samupaiṣyati mṛtyuśatrurdharme sthitāḥ kimṛṣayo na vane vinaṣṭāḥ ।
+sarvatra nāma niyataḥ krama eṣa tatra ko artho vihāya bhavanaṃ vanasaṃśrayeṇa ।।

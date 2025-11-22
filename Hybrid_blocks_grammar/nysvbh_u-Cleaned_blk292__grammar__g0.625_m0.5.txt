@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 292 | label: grammar | g:0.625 m:0.5 ---
+
+yadi pratyakṣādyupalabdhau pramāṇāntaraṃ nivartate ? ātmetyupalabdhāvapi pramāṇāntaraṃ nivartsyati aviśeṣāt evaṃ ca sarvapramāṇavilopa iti ।।

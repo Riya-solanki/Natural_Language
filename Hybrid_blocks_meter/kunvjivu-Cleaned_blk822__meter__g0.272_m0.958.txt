@@ -1,0 +1,8 @@
+--- source: kunvjivu-Cleaned.txt | block: 822 | label: meter | g:0.272 m:0.958 ---
+
+saṃbhāvanānumānena sādṛśyenobhayena vā ।
+nirvarṇyātiśayodrekapratipādanavāñchayā ।।
+vācyavācakasāmarthyākṣiptasvārthairivādibhiḥ ।
+tadiveti tadeveti vādibhirvācakaṃ vinā ।।
+samullikhitavākyārthavyatiriktārthayojanam ।
+utprekṣā, ।।

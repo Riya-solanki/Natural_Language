@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2857 | label: meter | g:0.194 m:0.5 ---
+
+yuvatyo gopakanyāś ca rātrau saṃkālya kālavit 
+kaiśorakaṃ mānayānaḥ saha tābhir mumoda ha ।।

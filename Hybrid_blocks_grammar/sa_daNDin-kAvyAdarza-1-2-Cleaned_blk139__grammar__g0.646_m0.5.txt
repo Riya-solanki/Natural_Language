@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 139 | label: grammar | g:0.646 m:0.5 ---
+
+candreṇa tvanmukhaṃ tulyam ity ācikhyāsu me manaḥ sa guṇo vāstu doṣo vety ācikhyāsopamāṃ viduḥ ।।

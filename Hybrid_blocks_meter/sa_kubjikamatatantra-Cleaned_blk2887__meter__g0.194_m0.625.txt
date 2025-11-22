@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2887 | label: meter | g:0.194 m:0.625 ---
+
+sāntaḥpuravaro rājā vaśyo bhavati śobhane 
+dvirabdair yakṣakanyāś ca sidhyanti suranāyike ।।

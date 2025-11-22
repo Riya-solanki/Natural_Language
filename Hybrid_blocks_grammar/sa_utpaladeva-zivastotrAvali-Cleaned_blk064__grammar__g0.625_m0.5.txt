@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 64 | label: grammar | g:0.625 m:0.5 ---
+
+prakāśāṃ śītalām ekāṃ śuddhāṃ śaśikalām iva dṛśaṃ vitara me nātha kām apy amṛtavāhinīm ।।

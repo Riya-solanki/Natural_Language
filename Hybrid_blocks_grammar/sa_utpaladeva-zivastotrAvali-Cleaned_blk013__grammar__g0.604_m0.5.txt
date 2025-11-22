@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 13 | label: grammar | g:0.604 m:0.5 ---
+
+bhavadbhaktyamṛtāsvādād bodhasya syāt parāpi yā daśā sā māṃ prati svāmin nāsavasyeva śuktatā ।।

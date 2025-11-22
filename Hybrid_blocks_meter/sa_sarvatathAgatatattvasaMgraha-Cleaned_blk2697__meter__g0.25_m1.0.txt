@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2697 | label: meter | g:0.25 m:1.0 ---
+
+yathā vajradharaḥ siddhistathāhamiti bhāvayan ।
+mahāmudrāprayogeṇa kṣaṇātsauritvamāpnuta ।।

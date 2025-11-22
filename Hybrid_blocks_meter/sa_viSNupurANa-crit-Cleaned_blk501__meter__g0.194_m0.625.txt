@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 501 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ saṃstūyamānas tu bhagavāñ chaṅkhacakradhṛk 
+jagāma darśanaṃ teṣāṃ maitreya parameśvaraḥ ।।

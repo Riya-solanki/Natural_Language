@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1128 | label: grammar | g:0.729 m:0.5 ---
+
+dvidhā vibhakte pāde prathamādipādādibhāgaḥ pūrvavat dvitīyādipādādibhāgeṣu antabhāgo anantabhāgeṣviti viṃśatirbhedāḥ ślokāntare hi nāsau bhāgāvṛttiḥ । trikhaṇḍe triṃśat catuḥkhaṇḍe catvāriṃśat ।

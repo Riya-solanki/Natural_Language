@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 298 | label: meter | g:0.0 m:0.5 ---
+
+{vidūṣakaḥ} - kahiṃ saaṇīaṃ raidaṃ padumāvadīe 
+[kutra śayanīyaṃ racitaṃ padmāvatyāḥ । ]

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1027 | label: hybrid | g:0.387 m:0.389 ---
+
+oṃ hāṃ siddhyai namaḥ । oṃ hāṃ ṛddhyai namaḥ । oṃ hāṃ vidyutāyai namaḥ । oṃ hāṃ lakṣmyai namaḥ । 
+oṃ hāṃ bodhāyai namaḥ ।
+oṃ hāṃ kālyai namaḥ ।
+oṃ hāṃ svadhāyai namaḥ ।
+oṃ hāṃ prabhāyai namaḥ ।।

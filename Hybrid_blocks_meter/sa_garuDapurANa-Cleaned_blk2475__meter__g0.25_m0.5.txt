@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2475 | label: meter | g:0.25 m:0.5 ---
+
+gaṇe caturdaśa surā vibhuridraḥ pratāpavān ।
+śāntaḥ śatrurhato daityo haṃsarūpeṇa viṣṇunā ।।

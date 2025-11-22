@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4175 | label: meter | g:0.102 m:0.555 ---
+
+nīyamāne hi tatrāsīd yuddham adbhutakarmaṇaḥ 
+kṛṣṇasya yo abhyarakṣaṃs taṃ devāḥ pādapam uttamam 
+puṇḍarīkaśatair juṣṭaṃ vimānaiś ca hiraṇmayaiḥ ।।

@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 477 | label: meter | g:0.257 m:0.616 ---
+
+ayaṃ nānākāro bhavati sukhaduḥkhavyatikaraḥ
+sukhaṃ vā duḥkhaṃ vā na bhavati bhavatyeva ca tataḥ ।
+punastasmādūrdhvaṃ bhavati sukhaduḥkhaṃ kimapi tat
+punastasmādūrdhvaṃ bhavati na ca duḥkhaṃ, na ca sukham ।।

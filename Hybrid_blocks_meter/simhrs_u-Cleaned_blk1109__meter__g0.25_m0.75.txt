@@ -1,0 +1,14 @@
+--- source: simhrs_u-Cleaned.txt | block: 1109 | label: meter | g:0.25 m:0.75 ---
+
+atha paraspara-viruddha-rasa-pratipādanam-
+ubhau śṛṅgāra-bībhatsāv ubhau vīra-bhayānakau ।
+raudrādbhutāv ubhau hāsya-karuṇau prakṛti-dviṣau ।। 
+svabhāva-vairiṇor aṅgāṅgi-bhāvenāpi miśraṇam ।
+vivekibhyo na svadate gandha-gandhakayor iva ।। 
+virodhino' pi sāṃnidhyād atiraskāra-lakṣaṇam ।
+poṣaṇaṃ prakṛtasyeti ced aṅgatvaṃ na tāvatā ।। 
+yat kiñcid upakāritvād aṅgasyāṅgitvam aṅgini ।
+na tat-saṃnidhi-mātreṇa carvaṇānupakārataḥ ।। 
+anyathā pānakādyeṣu śarkarāder ivāpatet ।
+antarā patitasyāpi tṛṇāder upakāritā । 
+tac carvaṇābhimāne syāt satṛṇābhyavahāritā ।।

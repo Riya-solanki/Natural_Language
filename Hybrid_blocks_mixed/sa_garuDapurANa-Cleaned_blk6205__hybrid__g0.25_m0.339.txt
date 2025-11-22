@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6205 | label: hybrid | g:0.25 m:0.339 ---
+
+ṣoḍaśānaṅgakrīḍā gā dvātriṃśaccarame ca lāḥ ।
+saptaviṃśātilā gantā dalayo rucirā dvayoḥ ।।
+mātrāvṛttāni coktāni varṇavṛttāni vacmi vai ।।
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe chandaḥ śāstre āryāvṛttādichandolakṣaṇanirūpaṇaṃ nāmāṣṭottaradviśatatamo adhyāyaḥ

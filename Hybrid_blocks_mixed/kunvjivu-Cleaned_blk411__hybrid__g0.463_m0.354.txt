@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 411 | label: hybrid | g:0.463 m:0.354 ---
+
+yanmūlā satī rūpakādiralaṅkṛtiḥ sarasollekhā ।
+tena rūpakāderalaṅkaraṇakalāpasya sakalasyaivopacāravakratā jīvitamityarthaḥ ।
+nanu ca pūrvasmādupacāravakratāprakārādetasya ko bhedaḥ ? pūrvasmin svabhāvaviprakarṣāt sāmānyena manāṅmātrameva sāmyaṃ samāśritya sātiśayatvaṃ pratipādayituṃ taddharmamātrādhyāropaḥ pravartate, etasmin punaradūraviprakṛṣṭasādṛśyasamudbhavapratyāsattisamucitatvādabhedopacāranibandhanaṃ tattvamevādhyāropyate ।
+yathā

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 399 | label: meter | g:0.306 m:0.5 ---
+
+tasya prabhāvātiśayānnṛpasya mameti yatraiva babhūva buddhiḥ ।
+saivāsya rakṣā paramāsa tasmādojāṃsi hartuṃ na viṣehire te ।।

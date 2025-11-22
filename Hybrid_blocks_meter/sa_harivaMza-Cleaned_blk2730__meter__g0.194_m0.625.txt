@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2730 | label: meter | g:0.194 m:0.625 ---
+
+abhivṛṣṭasya tair meghais tasya rūpaṃ babhūva ha 
+stambhitasyeva rudreṇa tripurasya vihāyasi ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3625 | label: meter | g:0.25 m:0.625 ---
+
+āṣāḍhaṃ dve dvayaṃ corvorguhyasthaṃ phālgunīdvayam ।
+kaṭisthāḥ kṛttikāścaiva vāsudevasya saṃsthitāḥ ।।

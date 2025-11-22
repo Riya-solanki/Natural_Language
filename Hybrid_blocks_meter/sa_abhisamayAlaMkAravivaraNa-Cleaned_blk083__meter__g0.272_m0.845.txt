@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 83 | label: meter | g:0.272 m:0.845 ---
+
+ṣoḍhādhigamadharmasya pratipakṣaprahāṇayoḥ ।
+tayoḥ paryupayogasya prajñāyāḥ kṛpayā saha ।।

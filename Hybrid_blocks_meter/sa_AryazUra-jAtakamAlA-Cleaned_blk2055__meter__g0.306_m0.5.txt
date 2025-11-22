@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2055 | label: meter | g:0.306 m:0.5 ---
+
+ciraṃ vicintyāpi ca naiva pāpe manaḥpadanyāsamapi smarāmi ।
+viśodhitasvargapatho ahamevaṃ mṛtyoḥ kimarthaṃ bhayamabhyupeyām ।।

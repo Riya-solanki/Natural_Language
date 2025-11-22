@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 266 | label: meter | g:0.25 m:0.625 ---
+
+stambeṣu ketakīnāṃ yathottaraṃ vāmanair dalair adya ।
+vidalanti meṣatarṇakapucchacchavikeśarāḥ sūcyaḥ ।।

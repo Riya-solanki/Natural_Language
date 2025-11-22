@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 563 | label: meter | g:0.25 m:0.827 ---
+
+na ।
+tasyaupaniṣadaṃ pratyanityaguṇāśrayatvāsiddheḥ ।
+vibhutvādīnāṃ cākāśasyotpattivādinaṃ pratyasiddhatvāt ।

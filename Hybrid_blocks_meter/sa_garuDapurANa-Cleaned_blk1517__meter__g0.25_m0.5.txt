@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1517 | label: meter | g:0.25 m:0.5 ---
+
+payo ghṛtaṃ vā gomūtraṃ tasmātpāpātpramucyate ।
+suvarṇasteyī muktaḥ syānmusalena hato nṛpaiḥ ।।

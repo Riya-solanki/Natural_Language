@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2289 | label: hybrid | g:0.542 m:0.5 ---
+
+taṃ prāha śaṃbhurdvija paśya mahyaṃ bhasma pravṛtto aṅgulito atiśuklam ।
+saṃtāḍanādeva na ca praharṣo mamāsti nṛnaṃ hi bhavān pramattaḥ ।।

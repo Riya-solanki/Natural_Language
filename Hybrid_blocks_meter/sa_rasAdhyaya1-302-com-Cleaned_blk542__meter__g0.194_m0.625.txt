@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 542 | label: meter | g:0.194 m:0.625 ---
+
+raktaṣoṭasya yāvanto gadyāṇāḥ sāraṇe kṛte 
+dvighnāḥ śuddhaśilāyāste bhṛśaṃ cūrṇīkṛtā muhuḥ ।।

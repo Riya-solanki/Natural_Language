@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 743 | label: meter | g:0.25 m:0.625 ---
+
+{tvayi nibaddharateḥ priyavādinaḥ praṇayabhaṅgaparāṅmukhacetasaḥ ।
+kamaparādhalavaṃ mama paśyasi tyajasi mānini dāsajanaṃ yataḥ ।।}

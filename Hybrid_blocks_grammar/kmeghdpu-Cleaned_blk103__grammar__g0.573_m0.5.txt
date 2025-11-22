@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 103 | label: grammar | g:0.573 m:0.5 ---
+
+saṃkṣipyeta kṣaṇa iva kathaṃ dīrghayāmā triyāmā sarvāvasthāsv ahar api kathaṃ mandamandātapaṃ syāt ।
+itthaṃ cetaś caṭulanayane durlabhaprārthanaṃ me gāḍhoṣmābhiḥ kṛtam aśaraṇaṃ tvadviyogavyathābhiḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5133 | label: meter | g:0.25 m:0.695 ---
+
+mṛgair matsyair vihaṃgaiś ca śvāpadaiḥ sarvakīṭakaiḥ 
+mṛgamatsyavihaṃgaiś ca kīṭaśvāpadavaṃgamaiḥ । 
+madhuśākaphalair mūlair vartayiṣyanti mānavāḥ ।।

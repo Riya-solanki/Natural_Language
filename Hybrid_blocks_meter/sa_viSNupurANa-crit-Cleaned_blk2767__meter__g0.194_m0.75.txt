@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2767 | label: meter | g:0.194 m:0.75 ---
+
+prājāpatyena vā sarvam upacāraṃ pradakṣiṇam 
+kurvīta tat tathāśeṣavṛddhikāleṣu bhūpate ।।

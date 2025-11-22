@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 28 | label: meter | g:0.25 m:0.5 ---
+
+satām adainyaṃ vadanasya śobhā nirlobhatāntarvacasāmayācñā ।
+kāyasya satsevyam asevyakatvaṃ pāṇer anuttānatalatvam eva ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 707 | label: meter | g:0.326 m:0.5 ---
+
+dharmātmano api tu sa tasya parābalepaḥ krīḍāvighātavirasaṃ ca bhayaṃ janasya ।
+tejasvitā nayapathopanataḥ kramaśca yuddhodbhavābhimukhatāṃ hṛdayasya cakruḥ ।।

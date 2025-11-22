@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2740 | label: meter | g:0.25 m:0.667 ---
+
+vibhajyatām ayaṃ deśaḥ kṛto varṣanivāraṇaḥ 
+śailotpāṭanabhūr eṣā mahatī nirmitā mayā 
+yuthaśaś ca vibhajyātha vasadhvaṃ gopasattamāḥ । 
+pañcakrośapramāṇena krauśaikaṃ vistaro mahān । 
+trailokyam apy utsahate grasituṃ kiṃ punar vrajam ।।

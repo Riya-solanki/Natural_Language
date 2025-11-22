@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 73 | label: hybrid | g:0.507 m:0.5 ---
+
+tatha bodhicitta asatīha tathāgatasya kuta jñānaprasravu bhavediha sarvaloke 
+jñānasya co asati nāsti guṇāna vṛddhiḥ na ca bodhi sāgarasamā na ca buddhadharmāḥ ।।

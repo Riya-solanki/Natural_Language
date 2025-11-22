@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 859 | label: meter | g:0.418 m:0.725 ---
+
+ataḥ kṛkamikaṃsakumbhapātrakuśākarṇīṣvanavyayasya ।।
+āduttarasyānavyayasya visargasya samāse nityaṃ sādeśaḥ karotyādiṣu pareṣu । śrāddhakaraḥ ।।

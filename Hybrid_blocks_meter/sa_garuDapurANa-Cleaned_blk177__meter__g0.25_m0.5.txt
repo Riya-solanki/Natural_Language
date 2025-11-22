@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 177 | label: meter | g:0.25 m:0.5 ---
+
+sannatiścānasūyā ca ūrjā svāhā svadhā tathā ।
+bhṛghurbhavo marīciśca tathā caivāṅgirā muniḥ ।।

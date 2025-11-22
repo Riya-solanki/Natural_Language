@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 369 | label: grammar | g:0.75 m:0.5 ---
+
+-'pratitiṣṭhanti ha vā ya etā rātrīrupayanti'iti rātriśabdena somaviśeṣā vidhīyante । tatra kiṃ etadvākyābhihitapratiṣṭhā phalamuta svarga iti saṃśaye evaṅkāma ityaśravaṇāt, vidhiśaktilabhyatvāt, svargasya niyataphalatvena vākyaśeṣāvagatapratiṣṭhānabhyupagamāt, svarga eva phalamiti prāpte pratiṣṭhāphalasya sākṣānnirdeśena ānumānikasvargakalpanāyā anyāyyatvātpratiṣṭhaiva phalamiti rāddhāntaḥ । tathāca tadabhisaṃdhimāṃstatra niyojya iti jñeyam ।

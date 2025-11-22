@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1099 | label: grammar | g:0.667 m:0.5 ---
+
+atra bandhu-vyāpatti-janito vasudevasya śoko bandhu-guṇa-smaraṇādibhir uddīpito mlānatvendriya-śūnyatvādi-sūcitair dainya-moha-glānyādi-sañcāribhiḥ prapañcito muhur bāṣpa-śvāsa-malina-mukha-rāgādibhir anubhāvair abhivyaktaḥ karuṇatvam āpadyate ।

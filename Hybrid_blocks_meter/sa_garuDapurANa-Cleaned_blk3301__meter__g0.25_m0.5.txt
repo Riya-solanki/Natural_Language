@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3301 | label: meter | g:0.25 m:0.5 ---
+
+sthūlajaṅgho yadā rāmaḥ śabdagāmī ca lakṣmaṇaḥ ।
+ghanakeśī yadā sītā trayaste duḥ khabhājanam ।।

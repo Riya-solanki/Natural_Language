@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 154 | label: meter | g:0.194 m:0.625 ---
+
+tatpramāṇaiḥ śataiḥ saṃdhyā pūrvā tatrābhidhīyate 
+saṃdhyāṃśakaś ca tattulyo yugasyānantaro hi saḥ ।।

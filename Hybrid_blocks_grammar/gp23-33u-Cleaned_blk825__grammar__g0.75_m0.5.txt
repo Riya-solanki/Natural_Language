@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 825 | label: grammar | g:0.75 m:0.5 ---
+
+[] ṛṣir uvāca-tato bahala-kutūhala-vahā bahulā mahilās tatra tatra gatvā jñāta-tādṛśa-tattvāḥ punaḥ paurṇamāsy-ante labdha-sattvās tadvad evāvartayiṣyanti । vārtā caiṣā vraja-rāja-sabhā-paryantaṃ paryavasiṣyati । vraja-rājaś ca paurṇamāsīm anu tūrṇam āsādya prasādya ca vakṣyati-bhagavati parama-vismāpanam idam asmān bodhaya ।

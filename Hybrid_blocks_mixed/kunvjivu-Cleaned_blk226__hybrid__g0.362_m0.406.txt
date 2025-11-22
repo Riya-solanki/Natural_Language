@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 226 | label: hybrid | g:0.362 m:0.406 ---
+
+atrāsmin mādhuryaṃ vaidagdhyasyāndi vaicitryasamarpakaṃ padānāṃ badhyate vākyaikadeśānāṃ niveśyate ।
+yattyaktaśaithilyamujjhitakomalabhāvaṃ bhavadvandhabandhuratāṅgatāṃ yāti saṃniveśasaundaryopakaraṇatāṃ gacchati ।
+yathā

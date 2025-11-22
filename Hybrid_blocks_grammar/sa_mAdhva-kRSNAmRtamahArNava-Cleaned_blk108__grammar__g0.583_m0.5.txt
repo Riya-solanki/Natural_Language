@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 108 | label: grammar | g:0.583 m:0.5 ---
+
+sāḷagrāmodbhavo devo devo dvāravatībhavaḥ ubhayoḥ saṃgamo yatra tatra muktir na saṃśayaḥ ।।

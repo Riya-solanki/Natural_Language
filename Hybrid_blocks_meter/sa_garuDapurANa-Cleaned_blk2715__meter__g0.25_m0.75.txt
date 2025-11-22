@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2715 | label: meter | g:0.25 m:0.75 ---
+
+sāvitrīpatitā vrātyā vrātyastomādṛte kratoḥ ।
+māturyadagre jāyante dvitīyaṃ mauñjabandhanam ।।

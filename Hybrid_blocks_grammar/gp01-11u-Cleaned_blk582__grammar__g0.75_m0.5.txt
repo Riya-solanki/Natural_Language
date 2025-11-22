@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 582 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tathā-lakṣaṇatayā kṣaṇa-katipaye labdha-vyatyaye yatnāntara-pathe ca vitathe, kācid buddhimatī sa-kaśmalayos tayor apy aṅke taṃ bālakam evāvalambayāmāsa । avalambite ca bāle tenaivāmṛteneva kṛta-trāṇeṣu prāṇeṣu, taṃ bālakam avalokamāne te punar anyāṃ mūrcchām ānarcchatuḥ । tataḥ punaḥ punar evaṃ-vidhānāc cid-ādhānena prakṛtim āsedatuḥ, muhur eva jala-saṃvalanena nidāgha-dagdha-bhūmivat ।

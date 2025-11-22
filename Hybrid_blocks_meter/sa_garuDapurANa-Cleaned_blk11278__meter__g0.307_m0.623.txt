@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11278 | label: meter | g:0.307 m:0.623 ---
+
+tāvanti pāpāni madīyagātre kadā drakṣye tava vaktraṃ mukunda ।
+anantadehe patiputrairgṛhaiśca mitrairdhanaiḥ paśubhṛtyādikaiśca ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3683 | label: meter | g:0.316 m:0.5 ---
+
+saṃmantrya devarṣihitaṃ ca kāryaṃ matiṃ ca kṛtvā nidhanāya śatroḥ ।
+nijāyudhānāṃ ca viparyayaṃ tau devādhipau cakraturugrakarmiṇau ।।

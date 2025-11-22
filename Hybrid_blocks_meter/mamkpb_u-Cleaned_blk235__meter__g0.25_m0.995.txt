@@ -1,0 +1,6 @@
+--- source: mamkpb_u-Cleaned.txt | block: 235 | label: meter | g:0.25 m:0.995 ---
+
+guṇavṛcyā, upacāreṇa ।
+teṣāṃ guṇānām ।
+ākāre śauryasyeva ।।
+kutastraya eva na daśa ityāha

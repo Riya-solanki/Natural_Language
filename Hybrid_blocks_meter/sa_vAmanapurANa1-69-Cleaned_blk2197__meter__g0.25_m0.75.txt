@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2197 | label: meter | g:0.25 m:0.75 ---
+
+kānīnaśca sahoḍhaśca krītaḥ paunarbhavastathā ।
+svayedattaḥ pāraśavaḥ ṣaḍadāyādabandhavāḥ ।।

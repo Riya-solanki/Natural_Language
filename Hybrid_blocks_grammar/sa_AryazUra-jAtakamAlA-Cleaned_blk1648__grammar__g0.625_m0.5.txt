@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1648 | label: grammar | g:0.625 m:0.5 ---
+
+rururuvāca - pratigṛhīto ayaṃ mayāvandhyo mahārājaprasādaḥ । tadājñāpaya yāvadiha saṃgamanaprayojanena tavopayogaṃ gacchāma iti ।

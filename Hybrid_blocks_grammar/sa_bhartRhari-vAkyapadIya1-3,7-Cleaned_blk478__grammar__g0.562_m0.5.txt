@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 478 | label: grammar | g:0.562 m:0.5 ---
+
+vapraprākārakalpaiś ca sparśanāvaraṇe yathā nagareṣu na te tadvad gandharvanagareṣv api ।।

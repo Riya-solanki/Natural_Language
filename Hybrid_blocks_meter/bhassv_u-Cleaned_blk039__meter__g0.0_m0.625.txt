@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 39 | label: meter | g:0.0 m:0.625 ---
+
+{yaugandharāyaṇaḥ} - hanta dṛṣṭa upāyaḥ 
+{prakāśam} bhoḥ aham arthī 
+{padmāvatī} - diṭṭhiā sahaḷaṃ me tavovaṇābhigamaṇaṃ 
+[diṣṭyā saphalaṃ me tapovanābhigamanam । ]

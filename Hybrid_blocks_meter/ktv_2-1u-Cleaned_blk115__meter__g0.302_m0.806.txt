@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 115 | label: meter | g:0.302 m:0.806 ---
+
+dhātvarthavyatirekeṇa yady apy eṣā na lakṣyate ।
+tathāpi sarvasāmānyarūpeṇānyāvagamyate ।।

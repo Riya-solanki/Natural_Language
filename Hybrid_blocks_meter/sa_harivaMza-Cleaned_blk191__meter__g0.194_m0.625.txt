@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 191 | label: meter | g:0.194 m:0.625 ---
+
+dakṣiṇasyāṃ mahātmānaṃ kardamasya prajāpateḥ 
+putraṃ śaṅkhapadaṃ nāma rājānaṃ so abhyaṣecayat ।।

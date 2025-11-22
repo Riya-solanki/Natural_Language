@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5640 | label: meter | g:0.25 m:0.625 ---
+
+kuryānnaraṃ śrutidharaṃ pramadājanavallabham ।
+dadhnā nityaṃ bhakṣitantu vajradehakaraṃ bhavet ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4751 | label: meter | g:0.25 m:0.871 ---
+
+pakvavacchīrṇamāṃsaśca spaṣṭasnāyuśirāgaṇaḥ ।
+sarvago lakṣaṇaiḥ sarveḥ sarvagatvaksamarpaṇaḥ ।
+śavagandhī ca vīsarpaḥ kardamākhyamuśanti tam ।।

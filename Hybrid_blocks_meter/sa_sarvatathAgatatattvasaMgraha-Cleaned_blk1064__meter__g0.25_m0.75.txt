@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1064 | label: meter | g:0.25 m:0.75 ---
+
+maṇḍalasya tu koṇeṣu yathāvadanupūrvatā ।
+vajradhātuprayogeṇa guhyapūjāṃ samālikhet ।।

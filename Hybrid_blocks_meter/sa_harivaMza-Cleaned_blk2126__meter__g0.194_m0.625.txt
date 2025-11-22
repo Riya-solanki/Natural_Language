@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2126 | label: meter | g:0.194 m:0.625 ---
+
+yenāṃśena hṛtā gāvaḥ kaśyapena mahātmanā 
+sa tenāṃśena jagatīṃ gatvā gopatvam eṣyati ।।

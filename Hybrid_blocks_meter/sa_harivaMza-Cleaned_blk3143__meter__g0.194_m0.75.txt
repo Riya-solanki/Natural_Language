@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3143 | label: meter | g:0.194 m:0.75 ---
+
+dāmabhir yamyamāneṣu vatseṣu taruṇeṣu ca 
+gopair āpūryamāṇeṣu ghoṣarathyāsu sarvaśaḥ ।।

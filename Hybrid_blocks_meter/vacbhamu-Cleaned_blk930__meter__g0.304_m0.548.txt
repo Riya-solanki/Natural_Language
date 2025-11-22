@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 930 | label: meter | g:0.304 m:0.548 ---
+
+asārvatrikī ।
+vyāptirapyudgīthavidyāpekṣayā tasyā eva prakṛtatvānna tvaśeṣāpekṣayā ।
+yatha sarve brāhmaṇā bhojyantāmiti nimintritāpekṣayā teṣāmeva prakṛtatvāt ।।

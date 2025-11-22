@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 492 | label: meter | g:0.25 m:0.75 ---
+
+purā kṛṣṇamṛgāstatra vyādhena śarapīḍitāḥ ।
+vigāhya tasmin sarasi mānuṣatvamupāgatāḥ ।।

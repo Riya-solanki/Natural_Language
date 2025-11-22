@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10106 | label: meter | g:0.306 m:0.5 ---
+
+pūjākāle devadevasya viṣṇorvāyoḥ pratīkaṃ yogyabhāge nidhāya ।
+antargataṃ tasya vāyorhariṃ ca lakṣmīpatiṃ pūjayitvā hi samyak ।।

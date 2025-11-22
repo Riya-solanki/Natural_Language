@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 78 | label: grammar | g:0.552 m:0.5 ---
+
+haṃso na bhāti caturo bakayūthamadhye gomāyumaṇḍalagato na vibhāti siṃhaḥ ।
+jātyo na bhāti turagaḥ kharayūthamadhye vidvān na bhāti puruṣeṣu nirakṣareṣu ।।

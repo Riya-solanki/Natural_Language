@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2248 | label: hybrid | g:0.267 m:0.491 ---
+
+kāla eva nṛṇāṃ śatruḥ kālaś ca pariṇāmakaḥ 
+kālo nayati sarvaṃ vai hetubhūtaś ca madvidhaḥ ।। 
+āgamiṣyanti vai devi yathābhāgam upadravaḥ । idaṃ tu kaṣṭaṃ yaj jantuḥ kartāham iti manyate । 
+mā kārṣīḥ putrajāṃ cintāṃ vilāpaṃ śokajaṃ tyaja 
+evaṃprāyā nṛṇāṃ yonir nāsti kālasya saṃsthitiḥ ।।

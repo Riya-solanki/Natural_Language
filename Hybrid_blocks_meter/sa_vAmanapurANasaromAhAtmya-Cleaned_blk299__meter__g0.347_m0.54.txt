@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 299 | label: meter | g:0.347 m:0.54 ---
+
+baliruvāca
+tribhiḥ prayojanaṃ kiṃ te padaiḥ padavatāṃ vara ।
+śataṃ śatasahasraṃ vā padānāṃ mārgatāṃ bhavān ।।

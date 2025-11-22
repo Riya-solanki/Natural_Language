@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 175 | label: hybrid | g:0.521 m:0.5 ---
+
+yadauṣṇyaviṣayamanumānaṃ tadapi pratyakṣaṃ syāt, praṇāḍyendriyasaṃprayogajatvāt saṃprayukta viṣayatvācca, astihyauṣṇyasyendriyasaṃprayogaḥ saṃyuktasamavāyalakṣaṇaḥ ।
+tasmādavaśyaṃ sākṣātsaṃprayogajatvaṃ lakṣaṇamityaṅgīkartavyam, ataḥ śuktirajatavedane api vyabhicārābhāvanarthakastatsatorvyatyayaḥ ।।

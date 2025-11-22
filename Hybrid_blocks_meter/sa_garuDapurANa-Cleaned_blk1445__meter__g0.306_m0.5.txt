@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1445 | label: meter | g:0.306 m:0.5 ---
+
+anyathā ca śucau bhūmyāṃ darbheṣu ca samāhitaḥ ।
+pradakṣiṇaṃ samāvṛtya namaskṛtya tataḥ kṣitau ।।

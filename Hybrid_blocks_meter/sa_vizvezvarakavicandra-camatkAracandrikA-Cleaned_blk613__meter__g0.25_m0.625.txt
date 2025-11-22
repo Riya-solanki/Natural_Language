@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 613 | label: meter | g:0.25 m:0.625 ---
+
+yatrottararya nirmedaḥ praśne praśnottaraṃ hi tat ।
+antaḥpraśrnaṃ bahiḥpraśrnamubhayapraśrnaṃ ceti tattridhā ।।

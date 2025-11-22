@@ -1,0 +1,11 @@
+--- source: visa01cu-Cleaned.txt | block: 101 | label: meter | g:0.333 m:0.603 ---
+
+evamadoṣatvasya kāvyalakṣaṇatvaṃ dūṣayitvā saguṇatvasyāpi dūṣayati ।
+anupapannam asambhavītyarthaḥ ।
+rasaikadharmmatvasya rasabhātradharbhatvasya ।
+tenaiva kāvyaprakāśakāreṇaiva ।
+rasābhivyañjakatveneti ।
+ayamarthaḥ-śabdārthau khalu prācīnoktarītyā nirbhitau rasābhivyañjakau bhavato apyanumatau; tena rasādirūpavyaṅgyarūpāṇāmapi mādhuryyārdānāṃ vyañjakarūpaśabdārthadharmatvenopacāraḥ ।
+yadāha sa eva "guṇavṛttyā punasteṣāṃ sthitiḥ śabdārthayormatā"iti ।
+maivamityāhatathāpīti ।
+upacārataḥ saguṇau śabdārthau kāvyamiti yaducyata ityarthaḥ ।

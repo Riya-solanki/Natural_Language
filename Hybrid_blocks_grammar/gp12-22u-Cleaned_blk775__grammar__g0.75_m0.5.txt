@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 775 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ bahula-kutūhalataś cālaṃ cālam amī gopa-grāmaṇyas tad eva ramyaṃ yajña-dhāma samāgamya paramānandād vāṇinī-prabhṛti-kṛta-nṛtya-vādya-gīta-grāmiṇīṃ yāminīṃ viśrāmyanti sma । prātaś ca dvitīyāyām ahimakara-kanyāyā mahima-śravaṇataḥ praṇatatayā tasyāṃ snānam ācarya nikāyyam evāgacchanti sma ।

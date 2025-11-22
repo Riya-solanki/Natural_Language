@@ -1,0 +1,15 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4949 | label: grammar | g:0.62 m:0.045 ---
+
+jyotiṣmataḥ pataṃgasya śaśinaś caiva yat tathā 
+tejo yaj jyotiṣāṃ caiva tejo vajrāśanes tathā । 
+prājāpatyaṃ ca yat tejas tac cakre paryavasthitam ।। 
+tretāgneś caiva yat tejo yac cāgner brahmacāriṇaḥ । ṛṣīṇāṃ ca tapo jñānaṃ tac cakre paryavasthitam ।। pativratānāṃ yat tejaḥ prāṇaṃ ca mṛgapakṣiṇām । yac ca cakradhareṣv asti tac cakre saṃniveśitam ।। nāgarākṣasayakṣāṇāṃ gandharvāpsarasām api । trailokyasya ca yat tejaḥ sarvaṃ cakre vyavasthitam । yac ca tejas tathā śaṃbhor yamasya varuṇasya ca । 
+tejasā tena saṃyuktaṃ bhāsvatā prajvalabhṛśam 
+vapuṣā teja ādatte bāṇasya pramukhe sthitam ।। 
+jñātvātitejasaṃ cakraṃ kṛṣṇenābhyudyataṃ raṇe । aprameyaṃ hy avihitaṃ rudrāṇīm abravīc chivaḥ ।। ajeyam etat trailokye cakraṃ kṛṣṇena dhāryate । bāṇaṃ trāyasva devi tvaṃ yāvac cakraṃ na muñcati ।। tatas tryakṣavacaḥ śrutvā devī lambām athābravīt । gachaihi lambe tvaṃ śīghraṃ bāṇasaṃrakṣaṇaṃ prati ।। tato yogaṃ samādhāya adṛśyā himavatsutā । kṛṣṇasyaikasya tad rūpaṃ darśayanty āgatāntikam । 
+cakrodyatakaraṃ dṛṣṭvā bhagavantaṃ raṇājire 
+pramukhe vāsudevasya digvāsāḥ koṭavī sthitā ।। 
+tāṃ dṛṣṭvātha punaḥ prāptāṃ devīṃ rudrasya saṃgatām । lambādvitīyāṃ tiṣṭhantīṃ kṛṣṇo vacanam abravīt । 
+antarghānam upāgamya tyaktvā sā vāsasī punaḥ 
+paritrāṇāya bāṇasya vijayādhiṣṭhitā tataḥ 
+bhūyaḥ sāmarṣatāmrākṣī vivastrāvasthitā raṇe ।।

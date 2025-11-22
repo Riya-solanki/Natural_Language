@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 51 | label: meter | g:0.25 m:0.5 ---
+
+adhyātmaṃ ca vijānāti bahirdhā ca vipaśyati ।
+dhīro niḥsaraṇaprajño na sa ghoṣeṇa nīyate ।।

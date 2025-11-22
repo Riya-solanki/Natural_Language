@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 386 | label: hybrid | g:0.51 m:0.5 ---
+
+kiṃ bhaya-mūlam adṛṣṭaṃ kiṃ śaraṇaṃ śrī-harer bhaktaḥ ।
+kiṃ prārthyaṃ tad-bhaktiḥ kiṃ saukhyaṃ tat-para-prema ।। iti ।

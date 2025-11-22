@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9595 | label: meter | g:0.302 m:0.806 ---
+
+yādṛk cittapratītiḥ syāt tādṛk karmaphalaṃ nṛṇām ।
+paralokagatistādṛka sūcīsūtravicāravat ।।

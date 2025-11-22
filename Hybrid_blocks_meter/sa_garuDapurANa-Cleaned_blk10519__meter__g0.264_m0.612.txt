@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10519 | label: meter | g:0.264 m:0.612 ---
+
+pulaha uvāca ।
+niṣkāmarūparihitasya samarpitaṃ ca snānāvarottamapayaḥ phalapuṣpabhojyam ।
+ārādhanaṃ bhagavatastava satkriyāśca vyarthaṃ bhavediti vadanti mahānubhāvāḥ ।।

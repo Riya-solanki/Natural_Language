@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 730 | label: grammar | g:0.552 m:0.5 ---
+
+svārthānurāgakṛpaṇā matayo narāṇāṃ tucche api vastuni ratiṃ parikalpayanti ।
+utpāda eva mahatāṃ hi jagaddhitāya yeṣāṃ purandarapure api na te ramante ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11510 | label: hybrid | g:0.531 m:0.5 ---
+
+pīṭhasya madhye yamasaṃjñāṃ ca lakṣmīṃ samarcayedyamamadhye ca devīm ।
+yamasya devasya ca dakṣiṇe ca sūryaṃ nameddīparūpaṃ ca bhadre ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 651 | label: meter | g:0.246 m:0.743 ---
+
+pratīkārākaraṇād, yathā-
+udvṛttāri-kṛtābhimanyu-nidhana-prodbhūta-tīvra-krudhaḥ
+pārthasyākṛta-śātrava-pratikṛter antaḥ śucā muhyataḥ ।
+kīrṇā bāṣpa-kaṇaiḥ patanti dhanuṣi vrīḍā-jaḍā dṛṣṭayo
+hā vatseti giraḥ sphuranti na punar niryānti kaṇṭhād bahiḥ ।।

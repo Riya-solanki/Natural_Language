@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 43 | label: grammar | g:0.524 m:0.194 ---
+
+aco antyādi ṭi ।।
+acāṃ madhye yo antyaḥ sa ādiryasya taṭ ṭisaṃjñaṃ syāt । tacca ṭeḥ । karkandhuḥ manīṣā । mārttaṇḍaḥ ।।

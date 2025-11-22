@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1324 | label: meter | g:0.25 m:0.5 ---
+
+dyutikāntiniketane śarīre kuśalaṃ te kuśalārha kaccidasmin ।
+api dharmaśarīramavraṇaṃ te vipulairucchvasitīva vākpradānaiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5023 | label: meter | g:0.25 m:0.5 ---
+
+śraviṣṭhāyāś ca putrau dvau paippalādau ca tau dvijau 
+dṛṣṭvā kṛpānvitau gṛhya taṃ prakṣālayatāṃ jale ।।

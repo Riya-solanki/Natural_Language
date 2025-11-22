@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8461 | label: hybrid | g:0.25 m:0.473 ---
+
+yāmyaṃ sauripuraṃ nagendrabhavanaṃ gandharvaśailāgamau ।
+kroñcaṃ krūrapuraṃ vicitrabhavanaṃ bahvāpadaṃ duḥ khadam ।।
+nānākrandapuraṃ sutaprabhavanaṃ raudraṃ payovarṣaṇaṃ śītāḍhyaṃ bahudharmabhītabhavanaṃ yāmyaṃ puraṃ cāgrataḥ ।।
+trayodaśe ahni sa preto gṛhīto yamakiṅkaraiḥ ।
+tasminmārge brajatyeko gṛhīta iva markaṭaḥ ।।

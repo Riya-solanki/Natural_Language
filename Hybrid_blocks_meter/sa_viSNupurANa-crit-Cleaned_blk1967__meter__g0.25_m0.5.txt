@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1967 | label: meter | g:0.25 m:0.5 ---
+
+uṣā rātriḥ samākhyātā vyuṣṭiś cāpy ucyate dinam 
+procyate ca tathā saṃdhyā uṣāvyuṣṭyor yad antaram ।।

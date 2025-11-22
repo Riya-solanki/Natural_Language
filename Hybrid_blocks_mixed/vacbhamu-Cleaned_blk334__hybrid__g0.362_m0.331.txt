@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 334 | label: hybrid | g:0.362 m:0.331 ---
+
+api cānandamayaṃ prakṛtya śarīrādyutpatteḥ prāksraṣṭṛtvaśravaṇāt, abahu syām' iti ca sṛjyamānānāṃ sraṣṭurānandamayādabhedaśravaṇāt, ānandamayaḥ para evetyāha ।
+sūtram- netaro anupapatteḥ ।
+netaro jīva ānandamayaḥ, tasyānupapatteriti ।।

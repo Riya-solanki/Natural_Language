@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4630 | label: grammar | g:0.658 m:0.0 ---
+
+vicetās tv abhavat prājñaḥ kumbhāṇḍas tattvadarśivān 
+bāṇasya sacivas tatra kīrtayan bahu kilbiṣam ।। 
+utpātā hy atra dṛśyante kathayanto naśobhanam । tava rājyavināśāya bhaviṣyanti na saṃśayaḥ ।। vayaṃ cānye ca sacivā bhṛtyā ye ca tavānugāḥ । kṣayaṃ yāsyanti nacirāt sarve pārthiva durnayāt ।। yathā śakradhvajataroḥ svadarpāt patanaṃ bhavet । raṇam ākāṅkṣato mohāt tathā bāṇasya nardataḥ ।। devadevaprasādāt tu trailokyavijayaṃ gataḥ । utsekād dṛśyate nāśo yuddhākāṅkṣī nanarda ha । 
+bāṇaḥ prītamanās tv eva papau pānam anuttamam 
+daityadānavanārībhiḥ sārdham uttamavikramaḥ ।।

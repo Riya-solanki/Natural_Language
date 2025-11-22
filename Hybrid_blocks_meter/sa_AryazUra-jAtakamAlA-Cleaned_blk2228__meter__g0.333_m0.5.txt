@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2228 | label: meter | g:0.333 m:0.5 ---
+
+atha bodhisattvo nūnamayaṃ māṃ na pratyabhijānīta iti nirviśaṅkataraḥ samabhigamyainamarthivṛttyā prayuktayuktāśīrvādaḥ saṃvibhāgamayācata -

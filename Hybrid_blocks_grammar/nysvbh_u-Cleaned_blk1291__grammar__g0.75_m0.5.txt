@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1291 | label: grammar | g:0.75 m:0.5 ---
+
+sādharmyamātreṇa vaidharmyamātreṇa ca sādhyasādhane pratijñāyamāne syādavyavasthā sā tu dharmaviśeṣe nopapadyate, gosādharmyād gotvājjātiviśeṣād gauḥ sidhyati na tu sāsnādisaṃbandhāt aśvādivaidharmyād gotvādeva gauḥ sidhyati na guṇādibhedāt, taccaitat kṛtavyākhyānamavayavaprakaraṇe, pramāṇānāmabhisaṃbandhāccaikārthakāritvaṃ samānaṃ vākye iti, hetvābhāsāśrayā khalv iyam avyavastheti ।।

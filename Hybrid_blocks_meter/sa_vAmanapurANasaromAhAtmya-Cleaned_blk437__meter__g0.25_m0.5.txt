@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 437 | label: meter | g:0.25 m:0.5 ---
+
+sā dadarśa striyaṃ caikāṃ saputrāṃ pāpadeśajām ।
+tāmuvāca tadā yakṣī āhatya niśi dundubhim ।।

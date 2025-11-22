@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 554 | label: meter | g:0.307 m:0.619 ---
+
+paṭavacca ।
+yathā ca prāṇādi ।
+iti ca sūtre nigadavyākhyātena bhāṣyeṇa vyākhyāte ।।

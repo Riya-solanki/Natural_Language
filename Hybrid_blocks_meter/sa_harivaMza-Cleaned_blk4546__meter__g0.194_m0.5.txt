@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4546 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ sma dvārakāṃ prāptāḥ kṣaṇena nṛpasattama 
+asaṃprāpte ardhadivase vismito ahaṃ tataḥ punaḥ ।।

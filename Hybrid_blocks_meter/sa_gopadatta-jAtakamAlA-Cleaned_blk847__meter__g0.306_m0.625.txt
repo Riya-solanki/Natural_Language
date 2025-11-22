@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 847 | label: meter | g:0.306 m:0.625 ---
+
+saṃbuddhapratimāṃ tatra puṇyarāśim ivottamām ।
+tāṃ samīkṣya tayor ekaḥ praṇatvaivaṃ tam abravīt ।।

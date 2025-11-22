@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 132 | label: grammar | g:0.604 m:0.5 ---
+
+yadi tu pṛthivyādiprapañcaṃ nāpahnumahe taddharmaṃ tu bhedameveti brūyāt, tadapyaśakyam, nīlapītayoritaretarābhāvasya pratyakṣānupalabdhisiddhasyāpahnavāsaṃbhavāt ।
+pratyakṣābhāvo api hi pratyakṣavadeva pramāṇāntarebhyo balīyān, itarathā śaśe catuṣpāttvādviṣāṇitvamanumīyate, ato bhedāpalāpo na saṃbhavati ।।

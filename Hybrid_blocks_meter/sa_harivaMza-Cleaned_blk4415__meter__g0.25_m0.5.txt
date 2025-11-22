@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4415 | label: meter | g:0.25 m:0.5 ---
+
+āścaryaṃ khalu devānām ekas tvaṃ puruṣottama 
+dhanyaś cāsi mahābāho loke nānyo asti kaś cana ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 280 | label: meter | g:0.25 m:0.5 ---
+
+dogdhā rajatanābhas tu teṣām āsīt kurūdvaha 
+vatsaḥ sumālī kauravya kṣīraṃ rudhiram eva ca ।।

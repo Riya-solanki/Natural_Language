@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2800 | label: meter | g:0.25 m:0.5 ---
+
+pibennāñjalinā toyaṃ na śayānaṃ prabodhayet ।
+nākṣaiḥ krījecca kitavairvyādhitaiśca na saṃviśet ।।

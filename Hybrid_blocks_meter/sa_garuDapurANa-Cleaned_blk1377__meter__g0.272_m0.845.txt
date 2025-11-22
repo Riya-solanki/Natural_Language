@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1377 | label: meter | g:0.272 m:0.845 ---
+
+muktiraṣṭāṅgavijñānātsaṃkṣepāttadvade śṛṇu ।
+yamāḥ pañca tvahiṃsādyā ahiṃsā prāṇyahiṃsanam ।।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1158 | label: meter | g:0.194 m:0.75 ---
+
+bhavatu kugatir ante svargavāsasya sā vā
+cyavanapatanaduḥkhaklībalolekṣaṇas tu ।
+yad anubhavati duḥkhaṃ devalokābhinandī
+nanu sukham anubhūtaṃ tena pūrvānubhūtam ।।

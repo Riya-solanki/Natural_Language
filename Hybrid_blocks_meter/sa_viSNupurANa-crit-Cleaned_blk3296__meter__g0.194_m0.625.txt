@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3296 | label: meter | g:0.194 m:0.625 ---
+
+tasmāt pāṣaṇḍibhiḥ pāpair ālāpasparśanaṃ tyajet 
+viśeṣataḥ kriyākāle yajñādau cāpi dīkṣitaḥ ।।

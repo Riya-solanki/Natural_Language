@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 377 | label: meter | g:0.25 m:0.5 ---
+
+manur ity ucyate loke sāvarṇa iti cocyate 
+dvitīyo yaḥ sutas tasya sa vijñeyaḥ śanaiścaraḥ ।। 
+grahatvaṃ sa tu lebhe vai sarvalokānupūjitam । 
+ya idaṃ janma devānāṃ śṛṇuyād dhārayeta vā 
+āpadaṃ prāpya mucyeta prāpnuyāc ca mahad yaśaḥ ।।

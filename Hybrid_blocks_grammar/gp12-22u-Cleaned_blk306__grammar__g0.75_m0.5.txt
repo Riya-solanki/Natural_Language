@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 306 | label: grammar | g:0.75 m:0.5 ---
+
+iti viṣṇu-purāṇoktāḥ [ViP ] । aneka-janma-siddhānāṃ iti, bahūni me vyatītāni janmāni tava cārjuna [Gītā ] iti śrī-bhagavad-gītā-vadanāditvam eva bodhayati, patir eva iti kadācid upapatitva-vyavahāras tu māyika evety arthaḥ । vā-śabdas tv asyaivottara-pakṣatā-bodhanāya ।

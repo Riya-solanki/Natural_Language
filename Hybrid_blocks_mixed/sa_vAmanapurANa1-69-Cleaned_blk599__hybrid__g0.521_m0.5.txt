@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 599 | label: hybrid | g:0.521 m:0.5 ---
+
+tamāpatantaṃ gadayā jaghāna pāśena baddhvā paruṇo asureśam ।
+taṃ pāśamāvidhya gadāṃ pragṛhya cikṣepa daityaḥ sa ca jaleśvarāya ।।

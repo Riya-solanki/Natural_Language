@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 849 | label: meter | g:0.194 m:1.0 ---
+
+vibhurātmā sarvendriyaiḥ saṃyukta iti
+yugapajjñānotpattiprasaṅga iti ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7746 | label: meter | g:0.25 m:0.5 ---
+
+viśrāmecchāṃ karotyatra kārayanti na te bhaṭāḥ ।
+kṣitau dattaṃ sutaistasya snehādvā kṛpayā tathā ।।

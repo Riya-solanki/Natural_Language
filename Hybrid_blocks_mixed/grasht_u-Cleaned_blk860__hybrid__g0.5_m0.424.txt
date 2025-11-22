@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 860 | label: hybrid | g:0.5 m:0.424 ---
+
+atha tāravarṇavidhānamāha vaṅgetyādi ।।
+vaṅgābhramiti vaṅgaṃ trapu abhraṃ śvetābhraṃ punaḥ sitamākṣīkaṃ vimalaṃ śailaṃ śvetaśilājatu vā site tāre vāhayet ।।
+punardaśāṃśena etadauṣadhanicayaṃ tārato daśamavibhāgena kṛtvā hi niścitaṃ tārotkarṣaṃ karoti hīnavarṇata uttamaṃ karotītyabhiprāyaḥ ।।

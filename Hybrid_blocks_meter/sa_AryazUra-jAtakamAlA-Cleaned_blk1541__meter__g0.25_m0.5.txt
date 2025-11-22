@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1541 | label: meter | g:0.25 m:0.5 ---
+
+mitreṣvamitracaritaṃ parigṛhya vṛttamevaṃbidhāṃ samupayānti daśāmihaiva ।
+lobhādidoṣamalinīkṛtamānasānāṃ mitradruhāṃ gatirataḥ parato anumeyā ।।

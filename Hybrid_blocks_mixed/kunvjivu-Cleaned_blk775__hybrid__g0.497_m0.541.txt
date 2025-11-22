@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 775 | label: hybrid | g:0.497 m:0.541 ---
+
+"yathāyogikriyāpadam" yathā yena prakāreṇa yujyate iti yathāyogi, kriyāpadaṃ yasya tattathoktaṃ tena yathāsaṃbandhamanubhavituṃ śaknoti ।
+yathā dīpake kriyā, "tadvidāṃ" kāvyajñānāṃ manasi saṃvadati cetasi pratiphalati yat tathoktam ।
+sāmyaprāyaṃ rūpakaṃ vivinakti

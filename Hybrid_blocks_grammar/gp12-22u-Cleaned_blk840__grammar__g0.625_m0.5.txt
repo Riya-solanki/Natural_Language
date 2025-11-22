@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 840 | label: grammar | g:0.625 m:0.5 ---
+
+[] giri-gartān niṣkramaṇe yathoktaṃ śrī-bādarāyaṇinā gopyaś ca sa-sneham apūjayan mudā dadhy-akṣatādibhiḥ [] iti ।

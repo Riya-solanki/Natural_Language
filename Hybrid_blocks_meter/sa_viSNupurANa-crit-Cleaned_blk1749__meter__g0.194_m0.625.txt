@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1749 | label: meter | g:0.194 m:0.625 ---
+
+tatsaṃjñāny eva tatrāpi sapta varṣāṇy anukramāt 
+tatrāpi parvatāḥ sapta varṣavicchedakāriṇaḥ ।।

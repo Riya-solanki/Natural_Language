@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 382 | label: meter | g:0.25 m:0.583 ---
+
+tām iḍety eva hovāca manur daṇḍadharas tadā 
+anugacchasva māṃ bhadre tam iḍā pratyuvāca ha ।। 
+dharmayuktamidaṃ vākyaṃ putrakāmaṃ prajāpatim । 
+mitrāvaruṇayor aṃśe jātāsmi vadatāṃ vara 
+tayoḥ sakāśaṃ yāsyāmi na māṃ dharmo hato ahanat ।।

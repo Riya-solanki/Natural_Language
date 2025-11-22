@@ -1,0 +1,6 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 220 | label: meter | g:0.25 m:0.625 ---
+
+atra sarveṣāṃ padānāṃ jātyādivācakatvādarthasya vācyatvaṃ pratīyate ।
+lakṣaṇāvṛttigamyārtho lakṣya ityabhidhīyate ।।
+lakṣyārthastu caturdhā vācyārthānanvayena tatraiva ।
+samavetaḥ saṃyuktaḥ sambandhī sadṛśa ṅatyuktaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 280 | label: meter | g:0.25 m:0.625 ---
+
+karṇikāṃ pītavarṇena sitaraktādikesaraiḥ ।
+antaraṃ nīlavarṇena dalāni asitena ca ।।

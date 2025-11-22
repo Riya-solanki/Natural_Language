@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 45 | label: grammar | g:0.667 m:0.5 ---
+
+Viv upabṛṃhitam upabṛṃhaṇam, bāhyārthāvabhāsarahitān avachinnacamatkārasāraśaktyavabhāsarūpaṃ, mūrter mūrcchitasatattvasya kiṃciducchūnatātmanaḥ pāripūrṇyollekhasya dānaṃ, vitarāmi vimṛśāmi, pūrṇāhantayā ca paradaniviṣṭam ।।

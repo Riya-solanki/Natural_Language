@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 112 | label: meter | g:0.246 m:0.806 ---
+
+evaṃ dattvā varaṃ tebhyaḥ karālaṃ ca samāgatā 
+mahājvālālisandīptaṃ dīptatejānalaprabham ।।

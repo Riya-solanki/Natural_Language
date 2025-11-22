@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8214 | label: meter | g:0.25 m:0.5 ---
+
+sarvabhūtāntarātmānaṃ māmeva hi yajanti te ।
+smārtena vidhinā śrāddhaṃ kṛtvā svavibhavocitam ।।

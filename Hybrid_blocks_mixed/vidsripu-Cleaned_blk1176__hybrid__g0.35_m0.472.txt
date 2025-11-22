@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1176 | label: hybrid | g:0.35 m:0.472 ---
+
+dāhacchedanikāṣair atipariśuddhasya te vṛthā garimā ।
+yad asi tulām adhirūḍhaṃ kāñcana guñjāphalaiḥ sārdham ।।
+surabheḥ

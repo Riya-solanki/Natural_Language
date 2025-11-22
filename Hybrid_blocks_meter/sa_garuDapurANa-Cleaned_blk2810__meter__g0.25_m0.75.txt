@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2810 | label: meter | g:0.25 m:0.75 ---
+
+deśe aśucāvātmani ca vidyutstanitasaṃplave ।
+bhuktvārdrapāṇirambho antarardharātre atimārute ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 647 | label: grammar | g:0.729 m:0.5 ---
+
+śamyāḥ parā parās āc ced idaṃ ta ekam iti tānt saṃbharet para ū ta ekam iti dvitīyaṃ dvitiyena ।

@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 219 | label: meter | g:0.272 m:0.595 ---
+
+nyag-jānu-dvaya-lakṣaṇasya purataḥ sūkṣmaṃ padāṅka-dvayaṃ
+vaimukhyena dhṛtaṃ vyanakti sudṛśas tasyās tad-ūrvoḥ sthitim ।

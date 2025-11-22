@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 110 | label: meter | g:0.25 m:0.75 ---
+
+iti jñānādhikāre pañcamam āhnikam ।।

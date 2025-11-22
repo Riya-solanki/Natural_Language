@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3924 | label: meter | g:0.25 m:0.5 ---
+
+bāṇair bāṇāṃś ca ciccheda teṣāṃ yudhi janārdanaḥ 
+jaghāna caiṣāṃ saṃrabdho yatamānāṃś ca tāñ śarān ।।

@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 53 | label: grammar | g:0.594 m:0.5 ---
+
+jātaḥ satkulajaḥ sa nīcavinayī sevāvamānair adhas tasyograṃ patitaḥ svamānayaśasor droheṇa śāpānalaḥ ।
+tenāsvastimatā svahastanihitaṃ yācñāviṣaṃ bhakṣitaṃ vittaṃ yena na rakṣitaṃ ripumukhaṃ tena sthitaṃ vīkṣitam ।।

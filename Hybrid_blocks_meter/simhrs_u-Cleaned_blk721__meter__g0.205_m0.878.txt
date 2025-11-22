@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 721 | label: meter | g:0.205 m:0.878 ---
+
+yathā-
+avyāsurantaḥ-karuṇārasārdrā
+nisarga-niryan-nigamānta-gandhā ।
+śvāsānilās tvāṃ svapato murāreḥ
+śayyā-bhujaṅgendra-nipīta-śeṣāḥ ।।

@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 916 | label: meter | g:0.342 m:0.749 ---
+
+guṇasādhāraṇyaśruteśca ।
+asya sūtrasyānvayamukhena vyatirekamukhena ca vyākhyā ।
+śeṣamatirohitārtham ।।

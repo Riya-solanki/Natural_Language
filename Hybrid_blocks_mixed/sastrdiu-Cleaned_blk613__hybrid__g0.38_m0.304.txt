@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 613 | label: hybrid | g:0.38 m:0.304 ---
+
+saṃskaroti na sarvaḥ sarvamiti yuktataraiva vyavasthā ।
+dṛṣṭāca samānendriyagrāhyāṇāmapyabhivyañjakavyavasthā- sāvitraṃ hi tejo ghaṭādīnāmevābhivyañjakaṃ na nakṣatrāṇāṃ, nimbatvak candanagandhasyaivābhivyañjikā na gandhāntarāṇāṃ, tasmādadoṣaḥ ।।

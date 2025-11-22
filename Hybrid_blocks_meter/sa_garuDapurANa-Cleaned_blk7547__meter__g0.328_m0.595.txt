@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7547 | label: meter | g:0.328 m:0.595 ---
+
+ato na roditavyaṃ hi kriyāḥ kāryāḥ svaśaktitaḥ ।
+tatasteṣūpaviṣṭeṣu purāṇajñaḥ sukṛtsvakaḥ ।।

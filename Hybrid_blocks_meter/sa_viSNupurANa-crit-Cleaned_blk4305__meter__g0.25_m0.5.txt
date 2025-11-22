@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4305 | label: meter | g:0.25 m:0.5 ---
+
+hṛdi saṃkalpya yad rūpaṃ dhyānenārcanti yoginaḥ 
+bhāvapuṣpādibhir nāthaḥ so arcyate vā kathaṃ mayā ।।

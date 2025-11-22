@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 354 | label: grammar | g:0.712 m:0.283 ---
+
+nādhvavyaṅgyaḥ kālaḥ, kiṃ tarhi ?, kriyāvyaṅgyaḥ ।
+patatīti yadā patanakriyā vyuparatā bhavati sa kālaḥ patitakālaḥ, yadotpatsyate sa patitavyakālaḥ, yadā dravye vartamānā kriyā gṛhyate sa vartamānaḥ kālaḥ, yadi cāyaṃ dravye vartamānaṃ patanaṃ na gṛhṇāti kasya uparamam utpatsyamānatāṃ vā prativadyate ?।
+patitaḥ kāla iti bhūtā kriyā, patitavyaḥ kāla iti cotpatsyamānā kriyā, ubhayoḥ kālayoḥ kriyāhīnaṃ dravyam, adhaḥ pratatīti kriyāsaṃbaddham, soyaṃ kriyādravyayoḥ saṃbandhaṃ gṛhṇāti vartamānaḥ kālaḥ tadāśrayau cetarau kālau tadabhāve na syātāmiti ।।

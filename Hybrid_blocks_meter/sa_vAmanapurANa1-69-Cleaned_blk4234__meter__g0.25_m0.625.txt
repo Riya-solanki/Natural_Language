@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4234 | label: meter | g:0.25 m:0.625 ---
+
+mudgalasya muneḥ putro jñānavijñānapāragaḥ ।
+kośakāra iti khyāta āsīd brahmaṃstaporataḥ ।।

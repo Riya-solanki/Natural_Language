@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 127 | label: grammar | g:0.604 m:0.5 ---
+
+sādhvī vāg bhūyasī yeṣu puruṣeṣu vyavasthitā adhikaṃ vartate teṣu puṇyaṃ rūpaṃ prajāpateḥ ।।

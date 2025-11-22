@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1626 | label: grammar | g:0.552 m:0.5 ---
+
+eko bhavān mama samaṃ daśa vā namanti jyāghoṣapūritaviyanti śarāsanāni ।
+tal lokapālasahitaḥ saha lakṣmaṇena cāpaṃ gṛhāṇa sadṛśaṃ kṣaṇam astu yuddham ।।

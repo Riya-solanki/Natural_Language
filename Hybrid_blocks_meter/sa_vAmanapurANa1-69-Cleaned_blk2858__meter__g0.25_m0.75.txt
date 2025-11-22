@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2858 | label: meter | g:0.25 m:0.75 ---
+
+bhārgave punarāyāte dānavā muditābhavan ।
+punaryuddhāya vidadhurmatiṃ saha gaṇeśvaraiḥ ।।

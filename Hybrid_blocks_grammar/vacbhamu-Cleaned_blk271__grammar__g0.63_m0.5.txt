@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 271 | label: grammar | g:0.63 m:0.5 ---
+
+nanu mā bhūnnirvartyādikarmatācatuṣṭayī; pañcamī tu kācit vidhā bhaviṣyati, yayā mokṣasya karmatā ghaṭiṣyata ityata āha- ato anyatiti ।
+ebhyaḥ prakārebhyo na prakārāntaramanyadasti, yato mokṣasya kriyānupraveśo bhaviṣyati ।
+etaduktaṃ bhavati- catasṛṇāṃ vidhānāṃ madhye anyatamatayā kriyāphalatvaṃ vyāptam; sā ca mokṣādvyāvartamānā vyāpakānupalabdhyā mokṣasya kriyāphalatvaṃ vyāvartayatīti ।
+tatkiṃ mokṣe kriyaiva nāsti ? tathā ca tadarthāni śāstrāṇi tadarthāśca pravṛttayo anarthakānītyata upasaṃhāravyājenāha- tasmājjñānamekamiti ।

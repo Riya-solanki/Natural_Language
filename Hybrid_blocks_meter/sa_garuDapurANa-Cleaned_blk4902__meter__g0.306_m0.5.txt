@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4902 | label: meter | g:0.306 m:0.5 ---
+
+śūlañca paḍyimānaśca pāṇibhyāṃ labhate sukham ।
+śukrāvṛte tu śothe vai cātivego na vidyate ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 894 | label: meter | g:0.25 m:0.841 ---
+
+atha jugupsā-
+ahṛdyānāṃ padārthānāṃ darśana-śravaṇādibhiḥ ।
+saṅkocanaṃ yan manasah sā jugupsātra vikriyāḥ ।। 
+nāsāpidhānaṃ tvaritā gatir āsya-vikūṇanam ।
+sarvāṅga-dhūnanaṃ kutsā muhur niṣṭhīvanādayaḥ ।।

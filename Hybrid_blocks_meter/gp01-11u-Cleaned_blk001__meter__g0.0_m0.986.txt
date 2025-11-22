@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 1 | label: meter | g:0.0 m:0.986 ---
+
+śrī-śrī-gopāla-campūḥ
+pūrva-campūḥ

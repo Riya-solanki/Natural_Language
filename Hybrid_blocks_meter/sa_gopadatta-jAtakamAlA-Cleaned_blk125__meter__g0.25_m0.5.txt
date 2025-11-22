@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 125 | label: meter | g:0.25 m:0.5 ---
+
+punarbhavāsvādalavākulāśayaḥ pravṛttim anvicchati yas tu mohanāt ।
+mudhā sa sarvāyatanopatāpinīṃ vipattim anvicchati sarvatomukhīm ।।

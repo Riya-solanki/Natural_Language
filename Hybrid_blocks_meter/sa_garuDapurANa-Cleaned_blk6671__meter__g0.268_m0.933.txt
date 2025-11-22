@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6671 | label: meter | g:0.268 m:0.933 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+ādhyātmikāditāpāṃstrīñjñātva saṃsrācakravit ।
+utpannajñānavairāgyaḥ prāpnotyātyantikaṃ layam ।।

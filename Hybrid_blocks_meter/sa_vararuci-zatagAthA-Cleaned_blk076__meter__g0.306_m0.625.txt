@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 76 | label: meter | g:0.306 m:0.625 ---
+
+devasujanaviprāṇāṃ satye vidvadgaṇasya hi ।
+gūḍhe vacasi bhojye asti prīti pṛthagjanasya ca ।।

@@ -1,0 +1,7 @@
+--- source: mrgt1chu-Cleaned.txt | block: 292 | label: meter | g:0.25 m:0.548 ---
+
+satyaṃ cidacitām anugrāhikā śaktiḥ ।। 
+na cāsyās tulyakālamapi tadanugraho anupapannaḥ parasparavirodhābhāvāt ।। 
+na tv aṇor vyathanārthaṃ malasya pariṇāmarūpamanugrahaṃ karoti api tv anugrahāyaiva ।। 
+tathā hi yat kiṃcidupāyena kartumucitaṃ tan nānupāyena ।। 
+ayaṃ ca sādhūpāyaḥ yaduta ।।

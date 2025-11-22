@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 76 | label: hybrid | g:0.476 m:0.5 ---
+
+yāvanti śrāvakagaṇāḥ prasavanti puṇyaṃ dānaṃ ca śīlamapi bhāvanasaṃprayuktam 
+sa hi bodhisattva anumodana ekacitte na ca sarvaśrāvakagaṇe siya puṇyaskandho ।।

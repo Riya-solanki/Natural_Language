@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 53 | label: meter | g:0.37 m:0.539 ---
+
+nagaram asthiprākāraṃ snāyumāṃsānulepanaṃ ।
+yatra rāgaś ca dveṣaś ca māno mrakṣaś ca gāhate ।।

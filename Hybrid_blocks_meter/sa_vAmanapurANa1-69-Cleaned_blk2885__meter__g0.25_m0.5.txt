@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2885 | label: meter | g:0.25 m:0.5 ---
+
+tvaṣṭre namo namaste astu samyaguccārya śūladhṛk ।
+nanarta bhāvagambhīraṃ dordaṇḍaṃ bhrāmayan balāt ।।

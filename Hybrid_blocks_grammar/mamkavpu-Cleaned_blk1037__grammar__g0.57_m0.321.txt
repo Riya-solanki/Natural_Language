@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 1037 | label: grammar | g:0.57 m:0.321 ---
+
+ityādau vācyameva na tu rasam । atra bisalatā na jīvaṃ roddhuṃ kṣameti prakṛtānanuguṇopamā ।।
+eṣa eva ca guṇālaṅkārapravibhāgaḥ । evaṃ ca "samavāyavṛttyā śauryādayaḥ saṃyogavṛttyā tu hārādaya ityastu guṇālaṅkārāṇāṃ bhedaḥ । ojaḥprabhṛtīnāmanuprāsopamādīnāṃ cobhayeṣāmapi samavāyavṛttyā sthitiriti
+gaḍḍalikāpravāheṇaivaiṣāṃ bhedaḥ" ityabhidhānamasat ।।

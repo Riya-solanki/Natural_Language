@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5228 | label: meter | g:0.25 m:0.5 ---
+
+tatheti tān āha nṛpān rukmī balasamanvitaḥ 
+sabhāyāṃ saha rāmeṇa cakre dyūtaṃ ca vai tadā ।।

@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 59 | label: hybrid | g:0.542 m:0.5 ---
+
+nimittasūtre tu prathamadvitīyasūtramātrālocanayā vedo dharmamūlamityādivadupadeśaśāstratāśaṅkā mā bhūditi parīkṣāśāstramevadamiti jñāpayituṃ parīkṣāpratijñānam ।
+yadyapi coparitanavyāpārādeva parīkṣāśāstratvaṃ gamyate tathāpi vakṣyamāṇameva śrotṛbuddhisamādhānāya kīrtitam ।।

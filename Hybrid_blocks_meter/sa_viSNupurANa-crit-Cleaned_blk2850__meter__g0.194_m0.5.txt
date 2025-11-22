@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2850 | label: meter | g:0.194 m:0.5 ---
+
+vāyavye vāyave dikṣu samastāsu tato diśām 
+brahmaṇe cāntarikṣāya bhānave ca kṣiped balim ।।

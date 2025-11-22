@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 105 | label: meter | g:0.0 m:0.75 ---
+
+āyatanoddyeśanirdeśako dvitīyādhikāraḥ pariniṣṭhitaḥ । tṛtīyādhikāraḥ

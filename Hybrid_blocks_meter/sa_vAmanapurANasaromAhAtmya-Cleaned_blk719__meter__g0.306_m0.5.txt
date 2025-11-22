@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 719 | label: meter | g:0.306 m:0.5 ---
+
+śaktā bhavantaḥ sarveṣāṃ lokānāmapi tāraṇe ।
+teṣāṃ te munayaḥ śrutvā kṛpāśīlāḥ punaśca te ।।

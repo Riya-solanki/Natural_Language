@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 243 | label: meter | g:0.0 m:0.5 ---
+
+{ceṭī} - bhaṭṭidārie adakkhiñño khu bhaṭṭā 
+[bhartṛdārike adākṣiṇyaḥ khalu bhartā । ]

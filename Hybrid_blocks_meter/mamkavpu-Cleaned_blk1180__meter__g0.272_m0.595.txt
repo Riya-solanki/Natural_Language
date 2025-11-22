@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1180 | label: meter | g:0.272 m:0.595 ---
+
+{bhāsate pratibhāsāra rasābhātāhatāvibhā ।
+bhāvitātmā śubhā vāde devābhā bata te sabhā ।।}

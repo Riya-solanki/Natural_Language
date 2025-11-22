@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 3 | label: meter | g:0.272 m:0.595 ---
+
+kathaṃ cid āsādya maheśvarasya dāsyaṃ janasyāpy upakāram icchan 
+samastasaṃpatsamavāptihetuṃ tatpratyabhijñām upapādayāmi ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2256 | label: meter | g:0.25 m:0.5 ---
+
+palā dvādaśa toyasya palāṣṭau payasaḥ surāḥ ।
+ṣaṭpalaṃ sarpiṣaḥ proktaṃ divase divase pibet ।।

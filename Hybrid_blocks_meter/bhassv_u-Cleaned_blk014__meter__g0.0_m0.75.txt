@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 14 | label: meter | g:0.0 m:0.75 ---
+
+{bhaṭau} - ussaraha ayyā ussaraha 
+[utsaratāryāḥ utsarata । ]

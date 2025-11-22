@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 56 | label: meter | g:0.205 m:0.715 ---
+
+kaler ājñābhaṅgo bhavati sucirāj janmasamaye
+muner yasya prāṇipriyahitasamādhānaviduṣaḥ ।
+jagannāthe tasmin bhagavati bhavopadravahare
+praduṣṭānāṃ kā vā bhavatu gatir anyā param ataḥ ।।

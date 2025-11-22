@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4008 | label: meter | g:0.25 m:0.625 ---
+
+āyurvedamathāṣṭāṅgaṃ suśrutāya sa uktavān ।
+amṛtaṃ pāyayāmāsa strīrūpī ca surānhariḥ ।।

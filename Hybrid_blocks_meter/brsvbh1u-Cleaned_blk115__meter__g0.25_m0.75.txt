@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 115 | label: meter | g:0.25 m:0.75 ---
+
+tvena, indriyādīnāmapi kāraṇatvāt ।
+tathā ca bhāsamānataivālambanārthaḥ ।
+na ca rajatajñāne śuktikā

@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 183 | label: hybrid | g:0.475 m:0.302 ---
+
+abhidhīyate ।
+na tāvatsvapnādipratyayāḥ svāṃśāvalambanāḥ, te api bāhyārthamevānyathāsantamevānyathā gṛhṇantīti vakṣyāmaḥ ।
+bhavatu vā tatrātmakhyānaṃ, naitāvatā nīlādipratyayāstathā bhavitumarhanti, tatra hi nīlamidaṃ pītamidaṃ stambho ayaṃ ghaṭo ayamityevamidamākārāspadībhūtaṃ bāhyaṃ nīlādi pratyakṣeṇāvagamyamānaṃ na śakyamanumānenāpahnotum ।
+ātmagrāhitve hyahaṃ nīlamiti syāt ।।

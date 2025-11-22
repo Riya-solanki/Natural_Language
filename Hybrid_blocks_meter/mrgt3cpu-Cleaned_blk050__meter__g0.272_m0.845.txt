@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 50 | label: meter | g:0.272 m:0.845 ---
+
+na te mantraprayoktāraḥ punarbhavatayā matāḥ ।
+mantrasādhanasaṃsiddheḥ kuryāttānītarāṇyataḥ ।

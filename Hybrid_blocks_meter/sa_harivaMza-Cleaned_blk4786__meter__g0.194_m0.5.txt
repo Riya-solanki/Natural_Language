@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4786 | label: meter | g:0.194 m:0.5 ---
+
+tathaiva balahā śakras tvayy āveśya jayājayau 
+sukhaṃ svapiti niścintaḥ kathaṃ tvaṃ cintayānvitaḥ ।।

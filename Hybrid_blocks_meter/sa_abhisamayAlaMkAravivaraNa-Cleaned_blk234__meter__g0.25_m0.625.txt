@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 234 | label: meter | g:0.25 m:0.625 ---
+
+dānādiṣvanahaṃkāraḥ paraṣāṃ tanniyojanam ।
+saṅgakoṭīniṣedho ayaṃ sūkṣmaḥ saṅgo jinādiṣu ।।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1348 | label: grammar | g:0.625 m:0.5 ---
+
+sarvākāravaropetaṃ buddhabimbaṃ tu bhāvayan । pātayedyatra rājye tu tad rājyannaśyate dhruvam ।। iti ।।

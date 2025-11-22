@@ -1,0 +1,8 @@
+--- source: brssgo1u-Cleaned.txt | block: 549 | label: meter | g:0.25 m:0.939 ---
+
+FN vyavahārātitaṃ pūrṇaṃ vastu bhūmā ।
+bhagavaddṛśebhyo yuṣmatsadṛśebhyaḥ ।
+devaḥ buddhyādyupādhiko jīvaḥ ।
+prakaraṇāttu saṃbadhyeta ativāditve hetutveneti śeṣaḥ ।
+prayatnāntaraṃ vicāraḥ ।
+vijñānamatra nididhyāsanādi ।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4444 | label: meter | g:0.194 m:0.5 ---
+
+bhaumam etat payo dugdhaṃ gobhiḥ sūryasya vāridaḥ 
+parjanyaḥ sarvalokasya bhavāya bhuvi varṣati ।।

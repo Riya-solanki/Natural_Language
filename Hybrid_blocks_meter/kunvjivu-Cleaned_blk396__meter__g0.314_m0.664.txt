@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 396 | label: meter | g:0.314 m:0.664 ---
+
+pramāṇavattvādāyātaḥ pravāhaḥ kena vāryate ।।
+iti ।

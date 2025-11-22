@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 126 | label: grammar | g:0.562 m:0.5 ---
+
+tat tad apūrvāmodatvaccintākusumavāsanā dṛḍhatām etu mama manasi yāvann aśyatu durvāsanāgandhaḥ ।।

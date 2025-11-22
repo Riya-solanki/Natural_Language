@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6527 | label: meter | g:0.486 m:0.592 ---
+
+piṇḍapātrāṇi cālayitvā ācamya pitāmahādibhyo dakṣiṇāṃ dattvā tataḥ pitṛ brāhmaṇāya āśiṣo me pradīyantāmityāśīḥ prārthanam ।
+pratigṛhyatāmityukte dātāro no abhivardhantāmiti pātramuttānaṃ kṛtvā vāje vājedṛvisarjanam ।
+abhiraṇyatāmiti pitṛbrāhmaṇavisarjanam ।।

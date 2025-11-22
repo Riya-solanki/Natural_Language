@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 120 | label: meter | g:0.194 m:0.5 ---
+
+anilasya śivā bhāryā yasyāḥ putraḥ purojavaḥ 
+avijñātagatiś caiva dvau putrāv anilasya tu ।।

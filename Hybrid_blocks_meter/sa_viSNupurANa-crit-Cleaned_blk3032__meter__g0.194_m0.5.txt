@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3032 | label: meter | g:0.194 m:0.5 ---
+
+śrāddhārham āgataṃ dravyaṃ viśiṣṭam athavā dvijam 
+śrāddhaṃ kurvīta vijñāya vyatīpāte ayane tathā ।।

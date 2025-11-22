@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 732 | label: grammar | g:0.646 m:0.5 ---
+
+bhrūbhede racite api dṛṣṭir adhikaṃ sotkaṇṭham udvīkṣate ruddhāyām api vāci sasmitam idaṃ dagdhānanaṃ jāyate ।
+kārkaśyaṃ gamite api cetasi tanū romāñcam ālambate dṛṣṭe nirvahaṇaṃ bhaviṣyati kathaṃ mānasya tasmiñ jane ।।

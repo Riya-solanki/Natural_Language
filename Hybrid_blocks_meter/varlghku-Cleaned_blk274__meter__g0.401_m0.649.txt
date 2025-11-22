@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 274 | label: meter | g:0.401 m:0.649 ---
+
+igyaṇaḥ saṃprasāraṇam ।।
+yaṇaḥ sthāne prayujyamāno ya ik sa saṃprasāraṇasaṃjñaḥ syāt ।।

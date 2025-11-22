@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 75 | label: meter | g:0.25 m:0.846 ---
+
+atha dhīra-śāntaḥ -
+śama-prakṛtikaḥ kleśa-sahiṣṇuś ca vivecakaḥ । 
+lalitādi-guṇopeto vipro vā sacivo vaṇik ।
+dhīra-śāntaś cārudatta-mādhavādir udāhṛtaḥ ।।

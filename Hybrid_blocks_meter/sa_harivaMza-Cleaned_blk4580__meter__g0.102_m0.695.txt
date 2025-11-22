@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4580 | label: meter | g:0.102 m:0.695 ---
+
+gatvā ca śoṇitapuraṃ śaṃkareṇābhirakṣitaḥ 
+baleḥ suto mahāvīryo bāṇo bāhusahasravān 
+mahāmṛdhe mahārāja jitvā jīvan visarjitaḥ ।।

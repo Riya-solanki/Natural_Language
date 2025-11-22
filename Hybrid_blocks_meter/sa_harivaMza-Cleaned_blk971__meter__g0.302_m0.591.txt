@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 971 | label: meter | g:0.302 m:0.591 ---
+
+ṛceyos tu mahārāja raudrāśvatanayasya vai 
+śṛṇu vaṃśam anuproktaṃ yatra jāto asi pārthiva ।। 
+anādhṛṣyas tu rājarṣir ṛceyuś caikarāṭ smṛtaḥ । ṛceyor jvalanā nāma bhāryā vai takṣakātmajā । 
+ṛceyutanayo rājan matināro mahīpatiḥ 
+matinārasutāś cāsaṃs trayaḥ paramadhārmikāḥ ।।

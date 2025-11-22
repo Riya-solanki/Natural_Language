@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1420 | label: meter | g:0.0 m:0.75 ---
+
+yathā tatraiva, karaṅkaḥ-kim āha kumbhakarṇaḥ-

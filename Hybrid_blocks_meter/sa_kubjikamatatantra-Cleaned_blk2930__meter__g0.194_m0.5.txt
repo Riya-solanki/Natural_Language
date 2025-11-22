@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2930 | label: meter | g:0.194 m:0.5 ---
+
+sampradāyaṃ prayacchanti sthānaṃ vā kathayanty api 
+aśuddhena tu bhāvena paryaṭet pṛthivīṃ yadi ।।

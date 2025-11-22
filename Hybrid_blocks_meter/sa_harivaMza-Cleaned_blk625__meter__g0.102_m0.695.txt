@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 625 | label: meter | g:0.102 m:0.695 ---
+
+parāśarakulodbhūtaḥ śuko nāma mahātapāḥ 
+bhaviṣyati yuge tasmin mahāyogī dvijarṣabhaḥ 
+vyāsād araṇyāṃ saṃbhūto vidhūmo agnir iva jvalan ।।

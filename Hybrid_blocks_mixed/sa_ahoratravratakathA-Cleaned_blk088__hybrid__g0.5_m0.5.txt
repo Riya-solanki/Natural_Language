@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 88 | label: hybrid | g:0.5 m:0.5 ---
+
+ye kuṅkumādyai racitaṃ suvastraṃ dadanti ye caityatathāgatebhyaḥ ।
+śītārtiduḥkhaṃ na hi jātu teṣāṃ taddhetutaḥ koṣaviśālasāram ।।

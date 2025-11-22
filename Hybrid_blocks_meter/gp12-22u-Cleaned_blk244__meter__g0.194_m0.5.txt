@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 244 | label: meter | g:0.194 m:0.5 ---
+
+satyaṃ bahu-suta-ratnā- karatāṃ na prāpa gopa-dugdhābdhiḥ ।
+kintv amṛta-dyuti-rādhā- lakṣmī-jananād agāt pūrtim ।। [āryā]

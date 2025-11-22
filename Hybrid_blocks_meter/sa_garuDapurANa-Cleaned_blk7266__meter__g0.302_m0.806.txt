@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7266 | label: meter | g:0.302 m:0.806 ---
+
+khañjāḥ kāṇāśca badhirā mūkāḥ kuṣṭhāśca lomaśāḥ ।
+nānārogaparītāśca khapuṣpāccābhimāninaḥ ।।

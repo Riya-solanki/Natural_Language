@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 56 | label: grammar | g:0.708 m:0.5 ---
+
+atha yatraivāvaskannaṃ bhavati taṃ deśam abhivimṛjya vimṛgvarīṃ pṛthivīm ā vadāmi iti prāṅmukho paviśyaagnir bhūmyām iti tisṛbhir ālabhyābhimantrayeta ।

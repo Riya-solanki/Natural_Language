@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 892 | label: meter | g:0.194 m:0.729 ---
+
+kacair ardha-cchinnaiḥ kara-nihita-raktaiḥ kuca-taṭair
+nakhotkṛttair gaṇḍair upala-hati-śīrṇaiś ca niṭilaiḥ ।
+vidīrṇair ākrandād vikala-gaditaiḥ kaṇṭha-vivarair
+manas takṣṇotyantaḥ-pura-parijanānāṃ sthitir iyam ।।

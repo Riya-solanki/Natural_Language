@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1035 | label: meter | g:0.273 m:0.615 ---
+
+gambhīra-svara-saṅgataṃ tad-itarānudbhāvya-bhavya-śriyaṃ
+hāsaṃ taṃ paricitya bālya-valitās tāḥ prekṣya cānyo' nyataḥ ।
+vastrāṇy apy anabhīkṣya tatra vidhṛtāny uccaṃ tu vakṣaḥ-sthalaṃ
+kṛtvā nīcam udakta-vaktram udake nyak-cakrire padminīḥ ।। [śārdūla-vikrīḍitam]

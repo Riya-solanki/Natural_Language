@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 529 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ pralambālambhana-sambhrame' py anudbhrānta-cittās te śṛṅginī-vittāḥ kuṇapatām itasya pramītasya tasya pitṛ-vana-veśaṃ pradeśa-leśaṃ parityajya yojana-vyajya-vistāra-praśasta-bhāṇḍīra-tala-maṇḍalam evādhiṣṭhāya vihāra-niṣṭhāḥ krīḍāpaṇasya spṛhayāyyā jayāyyā gṛhayāyyās tṛṇalobhāviṣṭa-tayā vṛkṣa-ṣaṇḍād viprakṛṣṭām api yamunācchānaccha-muñjāṭavīṃ praviṣṭānām andhī-bhūtānāṃ pāda-bandhanānām anveṣaṇād viśleṣam ājagmuḥ । tataḥ katham apy avadhānataḥ pranaṣṭa-cittatayā spaṣṭa-kaṣṭa-cittā raṃhasā saṅghaśaḥ sabhayaṃ hvayante sma । [] nūnaṃ deśādhipati-nideśataḥ sadeśam āgatā eva kecit krūrā gā dūragā vidadhur iti ca dhyāyanti sma ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4587 | label: meter | g:0.194 m:0.5 ---
+
+vānarau ca mahāvīryau maindo dvivida eva ca 
+vijitau yudhi durdharṣau jāmbavāṃś ca parājitaḥ ।।

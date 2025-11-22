@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1009 | label: grammar | g:0.729 m:0.5 ---
+
+atha te tryapāyagaticakrāntarasthitāḥ sarvasatvā vajrapāṇisakāśādimāṃ mudrāṃ dṛṣṭvā, sarvadurgatibhyaścyutvā, bhagavato vairocanasya pādamūle upapannāḥ । te cāpāyā mahāsamudre patitā iti ।

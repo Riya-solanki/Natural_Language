@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2553 | label: meter | g:0.102 m:0.5 ---
+
+ity etāḥ pratiśākhābhyo apy anuśākhā dvijottama 
+bāṣkalaś cāparās tisraḥ saṃhitāḥ kṛtavān dvija 
+śiṣyaḥ kālāyanir gārgyas tṛtīyaś ca tathā javaḥ ।।

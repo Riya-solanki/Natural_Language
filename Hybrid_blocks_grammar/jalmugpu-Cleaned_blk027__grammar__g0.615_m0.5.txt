@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 27 | label: grammar | g:0.615 m:0.5 ---
+
+saṃparko apy atikarkaśaḥ paricayābhāso apy asaṃpatkaro dṛkpāto apy avasādasūr api sakṛt saṃbhāṣaṇaṃ dūṣaṇam ।
+chāyāpi cchalanātmikā parimalodgāro api hālāhalaṃ veśyānāṃ viṣayeṣu kiṃ puno aho saktir mahāsāhasam ।।

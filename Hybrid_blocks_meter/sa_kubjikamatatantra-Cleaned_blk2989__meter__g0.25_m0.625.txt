@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2989 | label: meter | g:0.25 m:0.625 ---
+
+tena māteti vikhyātā kathitā parameśvarī 
+udbhavasthā duhitrī tu duhanāt tu jagasya ca ।।

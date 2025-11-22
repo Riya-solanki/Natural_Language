@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3040 | label: meter | g:0.217 m:0.845 ---
+
+govindam aravindākṣaṃ heṣitogāraśīkaraiḥ 
+sa phenair gātranirgīrṇaiḥ prokṣayāmāsa sarvataḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1222 | label: grammar | g:0.635 m:0.5 ---
+
+tundī cet paricumbati priyatamāṃ svārthāt tato bhraśyati svārthaṃ cet kurute priyādhararasāsvādaṃ na vindaty asau ।
+taṃ cemaṃ ca karoti mūḍhajaḍadhīḥ kāmāndhamugdho yatas tundau tunditavigrahasya surate naiko bhaven nāparaḥ ।।

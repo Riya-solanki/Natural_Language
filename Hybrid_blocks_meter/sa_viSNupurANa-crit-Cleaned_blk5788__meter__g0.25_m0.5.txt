@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5788 | label: meter | g:0.25 m:0.5 ---
+
+alaṃ te vrīḍayā pārtha na tvaṃ śocitum arhasi 
+avehi sarvabhūteṣu kālasya gatir īdṛśī ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 461 | label: grammar | g:0.573 m:0.5 ---
+
+kim iyam amṛtavartiḥ kiṃ nu lāvaṇyasindhuḥ kim atha nalinalakṣmīḥ kiṃ nu śṛṅgāravallī ।
+iti navahariṇākṣyāḥ kāntim ālokayanto jagad akhilam asāraṃ bhāram ālocayāmaḥ ।।

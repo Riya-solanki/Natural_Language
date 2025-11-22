@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 405 | label: grammar | g:0.525 m:0.26 ---
+
+tat-kṣobhaṇaṃ tad dravaṇaṃ tathā tad-
+vikrīḍanaṃ tad-dhananaṃ sva-śatroḥ ।
+tad-rakta-rajyan-maṇi-pāṇi-rocir
+mayy adya sadyaḥ prabham asya bhāti ।।
+[] punar madhukaṇṭha uvāca-tad evaṃ dalita-cūḍe śaṅkhacūḍe niṣpīḍite krīḍite ca vrīḍitena nivṛtte kolāhala-paramparātaḥ kātaratā-virata-prakṛtayaḥ sarva eva vrajorvīpati-prabhṛtayaḥ samāgatya vismitya ca tādṛśa-duṣṭa-naṣṭībhāvataḥ punar bhaya-sandehenāspṛṣṭāḥ spaṣṭānanda-sandoha-dohās tat-parva-krīḍāṃ nirvrīḍā iva vivavruḥ ।

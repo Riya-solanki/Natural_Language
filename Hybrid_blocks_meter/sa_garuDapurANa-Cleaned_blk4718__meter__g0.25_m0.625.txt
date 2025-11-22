@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4718 | label: meter | g:0.25 m:0.625 ---
+
+ūrdhvaśothamadho bastau madhye kurvanti madhyagāḥ ।
+sarvāṅgagaḥ sarvagataḥ pratyapratyageti tadāśrayaḥ ।।

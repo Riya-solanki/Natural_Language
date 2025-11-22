@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1130 | label: meter | g:0.306 m:0.5 ---
+
+syāddoṣabhaktiḥ prathitā mayaivaṃ guṇeṣvavajñāvirasā ca vṛttiḥ ।
+yāyāmataḥ sādhujane laghutvaṃ ki jīvitaṃ syācca tathāvidhasya ।।

@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 458 | label: hybrid | g:0.497 m:0.285 ---
+
+anekṣetodyantam'ityādau tu atasya vratam'ityadhikārātprasajyapratiṣedhāsaṃbhavena paryudāsavṛttyānīkṣaṇasaṃkalpalakṣaṇā yuktā ।
+tasmāt ana hanyāt', ana pibet'ityādiṣu prasajyapratiṣedheṣu bhāvārthābhāvāttadvyāptāyāḥ kṛterabhāvaḥ,tadabhāve ca tadvyāptasya kāryasyābhāva iti na kāryaparatvaniyamaḥ sarvatra vākye ityāha-brahmaṇo na hantavya ityevamādyā iti ।
+nanu kasmānnivṛttireva kāryaṃ na bhavati, tatsādhanaṃ vetyata āha-na ca sā kriyeti ।
+kriyāśabdaḥ

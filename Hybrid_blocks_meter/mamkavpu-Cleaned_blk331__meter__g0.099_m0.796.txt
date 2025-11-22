@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 331 | label: meter | g:0.099 m:0.796 ---
+
+{niśitaśaradhiyārpayatyanaṅgo
+dṛśi sudṛśaḥ svabalaṃ vayasyarāle ।
+diśi nipatati yatra sā ca tatra
+vyatikarametya samunmiṣantyavasthāḥ ।। }

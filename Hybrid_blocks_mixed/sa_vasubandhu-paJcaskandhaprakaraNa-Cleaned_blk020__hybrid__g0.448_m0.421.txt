@@ -1,0 +1,7 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 20 | label: hybrid | g:0.448 m:0.421 ---
+
+rūpaskandhaḥ soniddeśaḥ pariniṣṭhitaḥ । atha vedanā salakṣaṇaprabhedā vedanā katamā । trividho anubhavaḥ । sukhaḥ duḥkhaḥ aduḥkhāsukhaśca ।।
+sukho yasmin niruddhe saṃyogecchā jāyate ।।duḥkho yasminnutpanne viyogecchā jāyate ।।aduḥkhāsukho yasminnutpanne nobhayecchā jāyane ।।
+vedanaskandhaḥ sonideśanirdeśaḥ parinisṭhataḥ । atha saṃjñā lakṣaṇa prabhedā saṃjñā katamā । viṣayanimittod grahaṇam ।।
+sā tridhā parittā mahadgatā apramāṇā ca ।।
+saṃjñā skandhaḥ soddeśanirdeśaḥ parinisṭhitaḥ ।

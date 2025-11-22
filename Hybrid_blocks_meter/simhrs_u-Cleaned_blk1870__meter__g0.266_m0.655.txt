@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1870 | label: meter | g:0.266 m:0.655 ---
+
+tamisrā-mūrcchāla-trijagad-agadṅkāra-kiraṇe
+raghūṇāṃ gotrasya prasavitari deve savitari ।
+puraḥsthe dik-pālaiḥ saha para-gṛhāvāsa-vacanāt
+praviṣṭo vaidehī dahanam atha śuddhā ca niragāt ।।

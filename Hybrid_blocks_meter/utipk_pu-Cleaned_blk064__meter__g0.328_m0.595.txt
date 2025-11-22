@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 64 | label: meter | g:0.328 m:0.595 ---
+
+tan mayā dṛśyate dṛṣṭo ayaṃ sa ity āmṛśaty api ।
+grāhyagrāhakatābhinnāv arthau bhātaḥ pamātari ।।

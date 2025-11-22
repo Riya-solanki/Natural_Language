@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 69 | label: meter | g:0.272 m:0.595 ---
+
+sa mūrdhasamadeśatvān mūrdhā nāvayavastanoḥ 
+tasya tasya tanuryā pūs tasyāmuṣati yena saḥ ।।

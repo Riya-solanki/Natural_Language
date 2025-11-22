@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2661 | label: meter | g:0.25 m:0.5 ---
+
+kāriṣyāmi goyajñaṃ balād api na saṃśayaḥ 
+yadāsti mayi vaḥ prītir yadi vā suhṛdo vayam ।।

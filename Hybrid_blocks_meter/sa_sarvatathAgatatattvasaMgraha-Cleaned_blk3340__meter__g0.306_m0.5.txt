@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3340 | label: meter | g:0.306 m:0.5 ---
+
+śvetāṃ raktāṃ sitāṃ pitāṃ yadā paśyanti maṇḍalān ।
+tadābhi[prāyaṃ vai] yānti sidhyante vajracakṣuṣā ।।

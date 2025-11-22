@@ -1,0 +1,9 @@
+--- source: brssgo1u-Cleaned.txt | block: 168 | label: meter | g:0.348 m:0.704 ---
+
+evamīkṣatyādiliṅgairacetane vedāntānāṃ samanvayaṃ nirasya cetanavācakaśabdenāpi nirasyati-śrutatvācceti ।
+sūtraṃ vyācaṣṭe-svaśabdeneti ।
+svasya cetanasya vācakaḥ sarvavicchabdaḥ ।
+ajñaḥ kālakālo guṇī sarvavidyaḥ'iti sarvajñaṃ parameśvaraṃ prakṛtya asa sarvavitkāraṇam'iti śrutatvānnācetanaṃ kāraṇamiti sūtrārthaḥ ।
+karaṇādhipā jīvāsteṣāmadhipaḥ ।
+adhikaramārthamupasaṃharati-tasmādīti ।
+īkṣaṇātmaśabdādikaṃ paramāṇvādāvapyayuktamiti matvāha-anyadveti ।।

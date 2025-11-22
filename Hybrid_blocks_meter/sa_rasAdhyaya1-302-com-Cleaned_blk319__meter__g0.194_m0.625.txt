@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 319 | label: meter | g:0.194 m:0.625 ---
+
+kāñjike jāyate devyarasabandhe tu nityaśaḥ 
+hemā kriyā hemamukhe tāre tāramukhaṃ kṛtam ।।

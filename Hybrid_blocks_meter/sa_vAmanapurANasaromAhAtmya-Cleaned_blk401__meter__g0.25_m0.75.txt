@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 401 | label: meter | g:0.25 m:0.75 ---
+
+śṛṇvantu munayaḥ prītāstīrthasnānaphalaṃ sahat ।
+gamanaṃ smaraṇaṃ caiva sarvakalmaṣanāśanam ।।

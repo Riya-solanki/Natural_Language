@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 99 | label: meter | g:0.102 m:0.555 ---
+
+pūrvaṃ sa hi samutpanno nāradaḥ parameṣṭhinaḥ 
+asiknyām atha vairaṇyāṃ bhūyo devarṣisattamaḥ 
+taṃ bhūyo janayām āsa piteva munipuṃgavam ।।

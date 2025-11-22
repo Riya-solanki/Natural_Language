@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 364 | label: grammar | g:0.638 m:0.274 ---
+
+nāgena bījakaraṇamāha ujjvalahemavare svarṇaśreṣṭhe āvartye samyagdrute nāgaṃ śuddhasīsakaṃ āvartyaṃ pradrāvyaṃ kiṃ kṛtvā samaṃ svarṇasamabhāgakṣepaṃ kṣiptvā punarnāgopari triguṇaśilāprativāpaṃ triguṇā yā śilā tasyā nirvāpaṃ kuryāt ।।
+śilā manaḥśilā ।।
+tatsiddhaṃ ahibījaṃ nāgayogena bījaṃ samuddiṣṭaṃ rasavidbhiḥ iti śeṣaḥ ।।

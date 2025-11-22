@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1847 | label: meter | g:0.25 m:0.5 ---
+
+yā hy eṣā gahvarī māyā nidreti jagati sthitā 
+akasmād dveṣiṇī ghorā kālarātrir mahīkṣitām ।।

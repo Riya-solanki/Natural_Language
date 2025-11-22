@@ -1,0 +1,8 @@
+--- source: brssgo3u-Cleaned.txt | block: 854 | label: hybrid | g:0.43 m:0.526 ---
+
+kutaḥ -ubhayaliṅgāt ।
+śrutiliṅgātsmṛtiliṅgācca ।
+śrutiliṅgaṃ tāvat atametaṃ vedānuvacanena brāhmaṇā vividiṣanti' iti siddhavadutpannarūpāṇyeva yajñādīni vividiṣāyāṃ viniyuṅ kte natu juhvatītyādivadapūrvameṣāṃ rūpamutpādayatīti ।
+smṛtiliṅgamapi aanāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ' iti vijñātakartavyatākameva karma vidyotpattyarthaṃ darśayati ।
+yasyaite aṣṭācatvāriṃśatsaṃskārā ityādyā ca saṃskāratvaprasiddhirvaidikeṣu karmasu tatsaṃskṛtasya vidyotpattimabhipretya smṛtau bhavati ।
+tasmātsādvidamabhedāvadhāraṇam ।।

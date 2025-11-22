@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11991 | label: meter | g:0.25 m:0.625 ---
+
+praṇamakāle devadevasya viṣṇoḥ śeṣāntasthaṃ saṃsmareccaiva viṣṇum ।
+sunītikāle saṃsmarennārasiṃhaṃ nārāyaṇaṃ saṃsaṃmaretsarvadāpi ।।

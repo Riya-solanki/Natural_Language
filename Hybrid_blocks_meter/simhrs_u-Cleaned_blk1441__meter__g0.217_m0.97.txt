@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1441 | label: meter | g:0.217 m:0.97 ---
+
+sampreṣitaś ca hanumān bharatasya pārśvaṃ
+laṅkāṅganācakita-netra-nirīkṣita-śrīḥ ।
+yāty eṣa vārinidhi-laṅghana-dṛṣṭa-sāro
+rājyābhiṣeka-samayocita-kārya-siddheḥ ।।

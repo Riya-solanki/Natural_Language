@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3226 | label: meter | g:0.25 m:0.625 ---
+
+nihatasya paśor yajñe svargaprāptir yadīṣyate 
+svapitā yajamānena kiṃ nu tasmān na hanyate ।।

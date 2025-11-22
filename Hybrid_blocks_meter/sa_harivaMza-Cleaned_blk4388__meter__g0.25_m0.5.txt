@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4388 | label: meter | g:0.25 m:0.5 ---
+
+vyaktaṃ vṛṣṇikumāro ayaṃ na mithyā mama tarkitam 
+vijñāto asi mayā cihnair vinā cakraṃ janārdanaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3117 | label: meter | g:0.316 m:0.5 ---
+
+sa bhṛtyo yo vidheyastu tadbījaṃ yatprarohati ।
+sā bhāryā yā priyaṃ brūte sa putro yastu jīvati ।।

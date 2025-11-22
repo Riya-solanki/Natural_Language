@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2543 | label: meter | g:0.25 m:0.625 ---
+
+avidyāpyupakārāya viṣavajjāyate nṛṇām ।
+anuṣṭhānā bhyupāyena bandhayogyāpi no hi sā ।।

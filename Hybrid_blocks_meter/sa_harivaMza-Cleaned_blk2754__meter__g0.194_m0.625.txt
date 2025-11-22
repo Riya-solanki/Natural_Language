@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2754 | label: meter | g:0.194 m:0.625 ---
+
+tālastambhavanaśyāmaṃ sa taṃ śrīvatsalakṣaṇam 
+paryāptanayanaḥ śakraḥ sarvair netrair udaikṣata ।।

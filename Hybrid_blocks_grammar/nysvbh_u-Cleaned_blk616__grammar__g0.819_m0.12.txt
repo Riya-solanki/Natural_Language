@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 616 | label: grammar | g:0.819 m:0.12 ---
+
+yadi khalvekamindriyamavyavasthitaviṣayaṃ sarvajñam ।
+sarvaviṣayagrāhi cetanaṃ syāt kastato anyaṃ cetanamanumātuṃ śaknuyāt, yasmāttu vyavasthitaviṣayāṇīndrinayāṇi tasmāt tebhyo anyaścetanaḥ sarvajñaḥ ।
+sarvaviṣayagrāhī viṣayavyavasthitim atīto anumīyate, tatredaṃ pratyabhijñānam apratyākhyeyaṃ cetanavṛttamudāhriyate rūpadarśī khalvayaṃ rasaṃ gandhaṃ vā pūrvagṛhītamanuminoti gandhaprativedī ca rūparasāv anuminoti evaṃ viṣayaśeṣepi vācyam।
+rūpaṃ dṛṣṭvā gandhaṃ jighrati ghrātvā ca gandha rūpaṃ paśyati tadevamaniyataparyāyaṃ sarvaviṣayagrahaṇam ekacetanādhikaraṇam ananyakartṛkaṃ pratisaṃdhatte, pratyakṣānumānāgamasaṃśayān pratyayāṃśca nānāviṣayān svātmakartṛkān pratisaṃdadhāti pratisaṃdhāya vedayate, sarvārthaviṣayaṃ ca śāstraṃ pratipadyate arthamaviṣayabhūtaṃ śrotrasya, kramabhāvino varṇān śrutvā padavākayabhāvaṃ pratisaṃdhāya śabdārthavyavasthāṃ ca budhyamāno anekaviṣayamarthajātamagrahaṇīyamekaikenendriyeṇa gṛhṇāti, seyaṃ sarvajñasya jñeyāvyavasthānupadaṃ na śakyā parikramitum।
+ākṛtimātraṃ tūhāhṛtam, tatra yaduktam aindriyacaitanye sati kimanyena cetanena' tadayuktaṃ bhavati ।।

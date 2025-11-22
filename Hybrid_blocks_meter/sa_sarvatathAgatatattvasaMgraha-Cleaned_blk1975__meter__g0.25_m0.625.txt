@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1975 | label: meter | g:0.25 m:0.625 ---
+
+vajrāñjaliṃ dṛḍhīikṛtya sarvāgrakavacā tathā ।
+parivartya tu padmena hṛdi sthāpya dṛḍhaṃkarī ।।

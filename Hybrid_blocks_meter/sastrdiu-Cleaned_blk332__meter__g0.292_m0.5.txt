@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 332 | label: meter | g:0.292 m:0.5 ---
+
+ucyate- sattāmātreṇa jñānābhāvo jñāyābhāvaṃ bodhayatīti samyaguktam, astyeva tvadhunā dṛśyamānasyāpi ghaṭasya

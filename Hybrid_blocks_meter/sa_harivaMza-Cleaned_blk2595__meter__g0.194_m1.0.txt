@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2595 | label: meter | g:0.194 m:1.0 ---
+
+catuḥsāgarabhogas tvaṃ cāturvarṇyavibhāgavit 
+caturyugeśo lokānāṃ cāturhotraphalāśanaḥ ।।

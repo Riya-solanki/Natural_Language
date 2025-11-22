@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 722 | label: grammar | g:0.552 m:0.5 ---
+
+ayaṃ dhūrto māyāvinayamadhurād asya caritāt sakhi pratyūṣi tvaṃ prakṛtisarale paśyasi na kim ।
+kapole yal lākṣārasabahalarāgapraṇayinīm imāṃ dhatte mudrām anaticiravṛttāntapiśunām ।।

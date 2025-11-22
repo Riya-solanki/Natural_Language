@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5146 | label: meter | g:0.25 m:0.5 ---
+
+channo hi tamasā somo yathā kaliyuge tathā 
+pūrṇaś ca tapasā hīno yathā kaliyuge tathā ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1128 | label: hybrid | g:0.518 m:0.438 ---
+
+upādhvaṃ tatpānthāḥ punar api saro mārgatilakaṃ yad āsādya svacchaṃ vilasatha vinītaklamabharāḥ ।
+itas tu kṣārābdher jaraṭhamakarakṣuṇṇapayaso nivṛttiḥ kalyāṇī na punar avatāraḥ katham api ।।
+yaṃpyākasya

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7755 | label: meter | g:0.25 m:0.625 ---
+
+tṛtīyamāsikaṃ piṇḍaṃ tatra bhuktvā brajatyasau ।
+vrajannevaṃ vilapate tadagreṇāhataḥ pathi ।।

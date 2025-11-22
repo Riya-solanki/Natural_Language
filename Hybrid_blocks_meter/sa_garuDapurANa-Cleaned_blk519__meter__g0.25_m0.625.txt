@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 519 | label: meter | g:0.25 m:0.625 ---
+
+jalaśāyī yogaśāyī śeṣaśāyī kuśeśayaḥ ।
+mahībhartā ca kāryaṃ ca kāraṇaṃ pṛthivīdharaḥ ।।

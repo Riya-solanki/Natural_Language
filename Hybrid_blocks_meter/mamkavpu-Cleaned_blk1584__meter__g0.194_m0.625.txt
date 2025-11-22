@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1584 | label: meter | g:0.194 m:0.625 ---
+
+{śirīṣādapi mṛdvaṅgī kveyamāyatalocanā ।
+ayaṃ kva ca kukūlāgnikarkaśo madanānalaḥ ।।}

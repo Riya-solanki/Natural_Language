@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1773 | label: grammar | g:0.604 m:0.5 ---
+
+khurāghātaiḥ śṛṅgaiḥ pratidinam alaṃ hanti pathikān bhṛśaṃ śasyotsādaiḥ sakalanagarākhyātapaṭimā ।
+yugaṃ naiva skandhe vahati nitarāṃ yāti dharaṇīṃ varaṃ śūnyā śālā na ca punar ayaṃ duṣṭavṛṣabhaḥ ।।

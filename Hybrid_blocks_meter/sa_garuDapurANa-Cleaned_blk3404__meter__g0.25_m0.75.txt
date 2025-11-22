@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3404 | label: meter | g:0.25 m:0.75 ---
+
+kaniṣṭheṣu ca sarveṣu samatvenānuvartate ।
+samāpabhogajīveṣu yathaivaṃ tanayeṣu ca ।।

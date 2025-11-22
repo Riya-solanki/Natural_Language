@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7428 | label: meter | g:0.25 m:0.5 ---
+
+evamādīni vikrīṇan ghore pūyavahe patet ।
+yaḥ kukkuṭānnibadhnāti mārjārān sūkarāṃśca tān ।
+pakṣiṇaśca mṛgāṃśchā gānso apyevaṃ narakaṃ vrajet ।।

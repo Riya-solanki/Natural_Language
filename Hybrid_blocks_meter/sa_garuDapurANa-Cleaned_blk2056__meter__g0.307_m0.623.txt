@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2056 | label: meter | g:0.307 m:0.623 ---
+
+yadi ṣoḍaśabhirbhavedanūnandharaṇaṃ tatpravadanti dārvikākhyam ।
+adhikaṃ daśabhiḥ śataṃ ca mūlyaṃ samavāpnotyapi bāliśasya hastāt ।।

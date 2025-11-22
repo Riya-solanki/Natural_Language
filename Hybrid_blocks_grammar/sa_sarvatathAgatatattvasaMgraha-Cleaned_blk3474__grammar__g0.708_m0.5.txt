@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3474 | label: grammar | g:0.708 m:0.5 ---
+
+tatrāyaṃ vidyopacāravidhiḥ । "avidyāndhā ca te me satvāḥ sarvatathāgatāśca vidyādhigamasaṃvarabhūtā" ityuktvā vidyāṃ yathābhirucito japya sādhanamāvahed" ityāha bhagavānāryavajradharaḥ ।।

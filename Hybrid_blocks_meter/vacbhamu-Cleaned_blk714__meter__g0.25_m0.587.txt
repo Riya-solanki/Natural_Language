@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 714 | label: meter | g:0.25 m:0.587 ---
+
+tasmādātmaikatvasyāgamasiddhatvāt, vyavasthāyāścaikatve apyupapatteḥ, nānekātmakalpanā, gauravādāgamavirodhācca ।
+antyaviśeṣavattvena ca bhedakalpanāyāmanyonyāśrayāpatteḥ ।
+bhede hi tatkalpanā tataśca bheda iti ।
+etadeva kāṇādamatadūṣaṇam ।
+bhāṣyakṛtā tu prauḍhavāditayā kāṇādān pratyapyadṛṣṭāniyamādityādīni sūtrāṇi yojitāni ।
+sāṃkhyamatadūṣaṇaparāṇyeveti tu rocayante kecittadāstāṃ tāvat ।।

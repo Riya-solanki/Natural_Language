@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11558 | label: hybrid | g:0.521 m:0.5 ---
+
+tvanmāyayā naṣṭamimaṃ ca lokaṃ madena mattaṃ badhiraṃ cāndhabhūtam ।
+aiśvaryayogena ca yo hi mūko jātaḥ sadā dīnāgurvādikeṣu ।।

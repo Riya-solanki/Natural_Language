@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 371 | label: meter | g:0.306 m:0.5 ---
+
+nanvīśvarādhīnasya viduṣaḥ kathaṃ saṃkalpamātrādbhogasiddhistatrāha-ata eveti ।
+īśvaradharma eva viduṣyāvirbhūta iti na saṃkalpabhaṅga iti bhāvaḥ ।।

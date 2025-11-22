@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 98 | label: meter | g:0.25 m:0.5 ---
+
+svayaṃ cānyamanā bhūtvā vidyayānyānya jīvayat ।
+yakṣi oṃuṃsvāhājāpī vidyayaṃ gāruḍī parā ।
+garuḍoktaṃ gāruḍaṃ hi śṛṇu rudra ! madātmakam ।।

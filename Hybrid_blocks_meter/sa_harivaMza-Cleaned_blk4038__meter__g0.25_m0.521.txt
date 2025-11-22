@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4038 | label: meter | g:0.25 m:0.521 ---
+
+nairṛto narako nāma brahmaṇo varadarpitaḥ 
+bādhate no hṛṣīkeśa lokapālān samantataḥ । 
+svargaśreṇiṃ vihāyāśu nirgatāḥ sma vayaṃ diśaḥ । 
+adityāḥ kuṇḍale mohāj jahāra ditinandanaḥ ।।

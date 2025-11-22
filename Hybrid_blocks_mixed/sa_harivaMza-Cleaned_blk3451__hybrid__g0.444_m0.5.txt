@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3451 | label: hybrid | g:0.444 m:0.5 ---
+
+yadi syur nirvṛttā lokāḥ syuś ca dharmaparāḥ prajāḥ 
+narā dharmapravṛttāś ca na nṛpo vikṛto bhavet ।।

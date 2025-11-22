@@ -1,0 +1,10 @@
+--- source: rasadh_u-Cleaned.txt | block: 169 | label: meter | g:0.25 m:0.521 ---
+
+śreṣṭhā kaṇayarī khalve peṣyā manaḥśilā budhaiḥ ।
+pidadhyād abhrakeṇāsyaṃ tāṃ kṣiptvā kācakumpake ।।
+dadyāt salavaṇaṃ dagdhāśmacūrṇaṃ mastakopari ।
+vastramṛttikayā limpet samagramapi kumpakam ।।
+bhaṅktvā pakvaghaṭaṃ kaṇṭhe muktvā mṛlliptakumpakam ।
+haṭhāgnir jvālanīyo adho yāmaṃ dvādaśakaṃ maṇe ।।
+kumpodaraṃ bhavedriktaṃ sattvaṃ galati kaṇṭhake ।
+kumpaṃ bhaṅktvā śilāsattvaṃ grāhyaṃ yatnena dhīmatā ।।

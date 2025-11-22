@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 66 | label: grammar | g:0.625 m:0.5 ---
+
+nārāyaṇeti mantro asti vāg asti vaśavartinī tathā api narake ghore majjantīty etad adbhutam ।।

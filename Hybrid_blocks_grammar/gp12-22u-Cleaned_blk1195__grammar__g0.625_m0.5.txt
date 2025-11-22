@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1195 | label: grammar | g:0.625 m:0.5 ---
+
+[] vṛndāha-gokula-kula-pālaka sarva-gokula-kula-vilakṣaṇā lakṣmī-lakṣaṇā sā bhavat-sparśa-parāmarśata eva bahir darśaṃ prāpnoti cet, kā tava hāniḥ?

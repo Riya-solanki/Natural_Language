@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 430 | label: meter | g:0.255 m:0.92 ---
+
+akṣaramambarāntadhṛteḥ ।
+akṣaraśabdaḥ samudāyaprasiddhyā varṇeṣu rūḍhaḥ ।
+paramātmani cāvayavaprasiddhyā yaugikaḥ ।

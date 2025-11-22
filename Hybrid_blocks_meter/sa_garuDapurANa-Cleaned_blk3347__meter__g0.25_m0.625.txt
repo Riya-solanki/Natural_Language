@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3347 | label: meter | g:0.25 m:0.625 ---
+
+api kalpānilasyaiva turagasya mahodadheḥ ।
+śakyate prasaro boddhuṃ na hyaraktasye catasaḥ ।।

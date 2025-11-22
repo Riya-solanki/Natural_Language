@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 26 | label: meter | g:0.25 m:0.5 ---
+
+kiṃ kāraṇaṃ ayu pravucyati bodhiyāno yatrāruhitva sa nirvāpayi sarvasattvān 
+ākāśatulya ayu yāna mahāvimāno sukhasaukhyakṣemabhiprāpaṇu yānaśreṣṭho ।।

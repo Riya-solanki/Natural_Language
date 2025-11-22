@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2152 | label: meter | g:0.194 m:0.625 ---
+
+tatra manatrayatām evaṃ devatānāṃ mayā śrutaḥ 
+bhavataḥ sānugasyeha vadhopāyaḥ sudāruṇaḥ ।।

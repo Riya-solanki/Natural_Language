@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3228 | label: grammar | g:0.552 m:0.5 ---
+
+saṃrambhād dānavendro vimṛdati ditijaiḥ saṃyuto devasainyaṃ sendraṃ sārka sacandraṃ karacaraṇanakhairaskṣatrahīno api vegāt ।
+cakrairvaiśvānarābhaistvavanigaganayostiryagūrdhvaṃ samantāt prāpte ante kālavahnerjagadakhilamidaṃ rūpamāsīd didhakṣoḥ ।।

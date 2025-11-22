@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 415 | label: grammar | g:0.75 m:0.5 ---
+
+tasyāścenmukhamasti saumyasubhagaṃ kiṃ pārvaṇenendunā saundaryasya padaṃ dṛśau ca yadi cet kiṃ nāma nīlotpalaiḥ । kiṃ vā komalakāntibhiḥ kisalayaiḥ satyeva tatrādhare hā dhātuḥ punaruktavasturacanārambheṣvapūrvo grahaḥ ।।

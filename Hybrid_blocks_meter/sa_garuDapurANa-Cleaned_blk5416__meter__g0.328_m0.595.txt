@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5416 | label: meter | g:0.328 m:0.595 ---
+
+śarkarāmadhvajākṣīraṃ tilagokṣurakaṃ samam ।
+sa śatruṃ nāśayedrudra ! uccāṭitamidaṃ hara ! ।।

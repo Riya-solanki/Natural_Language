@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 49 | label: grammar | g:0.75 m:0.5 ---
+
+yathā tathāpi yaḥ pūjyo yatra tatrāpi yo arcitaḥ yo api vā so api vā yo asau devas tasmai namo astu te ।।

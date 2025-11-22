@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3089 | label: meter | g:0.194 m:0.625 ---
+
+vayobhir vāsaśubhatām bandhubhiś ca samāgamam 
+śaṃsadbhiḥ syandanenāśu prāpto dānapatir vrajam ।।

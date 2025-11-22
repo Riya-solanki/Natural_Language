@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 625 | label: meter | g:0.25 m:0.625 ---
+
+ity uktaḥ sakalaṃ mātre kathayām āsa tad yathā 
+suruciḥ prāha bhūpālapratyakṣam atigarvitā ।।

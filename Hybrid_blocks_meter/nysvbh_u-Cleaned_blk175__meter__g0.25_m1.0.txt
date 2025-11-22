@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 175 | label: meter | g:0.25 m:1.0 ---
+
+sādhyanirdeśaḥ pratijñā ।।

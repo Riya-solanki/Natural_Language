@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 654 | label: meter | g:0.25 m:0.695 ---
+
+ājagāmāśramaṃ prītaḥ kathayāmāsa cākhilam ।
+te śrutvā ṛṣayaḥ sarve tīrthamāhātmyamuttamam ।
+kapālamocanamiti nāma cakruḥ samāgatāḥ ।।

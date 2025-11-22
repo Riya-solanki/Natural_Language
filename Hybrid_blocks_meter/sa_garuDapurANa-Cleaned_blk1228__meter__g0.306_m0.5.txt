@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1228 | label: meter | g:0.306 m:0.5 ---
+
+vajraṃ cakraṃ tathānyacca muṣṭikaṃ vabhrusaṃjñitam ।
+vakraḥ svastikakhaḍgau ca gadā śrīvṛkṣa eva ca ।।

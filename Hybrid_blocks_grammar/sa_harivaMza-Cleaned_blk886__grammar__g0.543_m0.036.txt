@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 886 | label: grammar | g:0.543 m:0.036 ---
+
+te hṛṣṭamanasaḥ sarve rajiṃ daiteyadānavāḥ 
+ūcur asmajjayāya tvaṃ gṛhāṇa varakārmukam ।। 
+athovāca rajis tatra tayor vaidevadaityayoḥ । svārthajñaḥ svārtham uddiśya yaśaḥ svaṃ ca prakāśayan । 
+yadi devagaṇān sarvāñ jitvā śakrapurogamān 
+indro bhavāmi dharmeṇa tato yotsyāmi saṃyuge ।। 
+devāḥ prathamatobhūyaḥ pratīyur hṛṣṭamānasāḥ । evaṃ yatheṣṭaṃ nṛpate kāmaḥ saṃpadyatāṃ tava ।। śrutvā suragaṇānāṃ tu vākyaṃ rājā rajis tadā । papracchāsuramukhyāṃs tu yathā devān apṛcchata ।। dānavā darpapūrṇās tu svārtham evānugamya ha । pratyūcus taṃ nṛpavaraṃ sābhimānam idaṃ vacaḥ । 
+asmākam indraḥ prahrādo yasyārthe vijayāmahe ।।

@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 57 | label: meter | g:0.25 m:0.608 ---
+
+yāvadarthaṃ vai nāmadheyaśabdāstairarthasampratyayaḥ, arthasaṃpratyayācca vyavahāraḥ।
+tatredamindriyārthasannikarṣādutpannamarthajñāna rūpam iti vā, rasa ityeva vā bhavati, rūparasaśabdāśca viṣayanāmadheyam।
+tena vyapadiśyate jñānamrūpamiti jānīte, rasa iti jānīte।
+nāmagheyaśabdena vyapadiśyamānaṃ sat śābdaṃ prasajyate।

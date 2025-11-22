@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 303 | label: meter | g:0.306 m:0.5 ---
+
+taṃ cāpi bhūyo madano jaghāna vijṛṇbhaṇāstreṇa tato vijṛmbhe ।
+tato bhṛśaṃ kāmaśarairvitunno vijṛmbhamāṇaḥ parito bhramaṃśca ।।

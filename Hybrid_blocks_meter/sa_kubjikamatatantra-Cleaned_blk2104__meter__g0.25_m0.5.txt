@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2104 | label: meter | g:0.25 m:0.5 ---
+
+samale tu tathā hānir nīlamāle tathāpadaḥ 
+vāyavyāṃ tu yadā dhūmrāṃ mālāṃ pasyati yogavit ।।

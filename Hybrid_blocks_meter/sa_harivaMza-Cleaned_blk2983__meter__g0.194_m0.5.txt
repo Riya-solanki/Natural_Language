@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2983 | label: meter | g:0.194 m:0.5 ---
+
+aślāghyo me mataḥ putra tavāyaṃ vākpariśramaḥ 
+ayukto garhitaḥ sadbhir bāndhaveṣu viśeṣataḥ ।।

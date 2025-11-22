@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3935 | label: meter | g:0.25 m:0.75 ---
+
+vahnistu turvasorvaṃśe vahnerbhargo abhavatsutaḥ ।
+bhargādbhānurabhūtputro bhānoḥ putraḥ karandhamaḥ ।।

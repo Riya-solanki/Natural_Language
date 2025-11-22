@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1009 | label: grammar | g:0.625 m:0.5 ---
+
+sa tāvaccaturdhā । dvipadāśrayo bahupadāśraya ubhayavargāśrayo anubhayāśrayaśceti । tatra dvipadāśrayo dvidhā pratipadadyotaka uttarapadadyotakaśceti ।

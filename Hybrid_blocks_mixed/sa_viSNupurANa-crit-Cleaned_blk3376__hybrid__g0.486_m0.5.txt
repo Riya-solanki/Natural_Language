@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3376 | label: hybrid | g:0.486 m:0.5 ---
+
+na hy ādimadhyāntam ajasya yasya vidmo vayaṃ sarvamayasya dhātuḥ 
+na ca svarūpaṃ na paraṃ svabhāvaṃ na caiva sāraṃ parameśvarasya ।।

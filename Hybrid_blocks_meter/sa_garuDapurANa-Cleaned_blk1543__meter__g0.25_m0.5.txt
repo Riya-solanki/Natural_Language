@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1543 | label: meter | g:0.25 m:0.5 ---
+
+makaraḥ kacchapaścaiva tāmasau tu nidhī smṛtau ।
+kacchapī viśvasennaiva na bhuṅkena dadāti ca ।।

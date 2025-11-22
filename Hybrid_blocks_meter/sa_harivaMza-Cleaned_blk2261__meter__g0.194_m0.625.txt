@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2261 | label: meter | g:0.194 m:0.625 ---
+
+vardhamānāv ubhāv etau samānavayasau yathā 
+śobhetāṃ govraje tasmin nandagopa tathā kuru ।।

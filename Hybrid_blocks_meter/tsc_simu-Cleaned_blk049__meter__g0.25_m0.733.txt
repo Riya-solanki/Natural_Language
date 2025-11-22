@@ -1,0 +1,11 @@
+--- source: tsc_simu-Cleaned.txt | block: 49 | label: meter | g:0.25 m:0.733 ---
+
+aṣṭavikalpaṃ daivaṃ paiśācaṃ rākṣasaṃ tadvat ।
+gāndharvamaindraṃ brāhmaṃ ca saumyaṃ brāhmyamathāṣṭakam ।।
+devayonaya evaite tiryagyonistu pañcadhā ।
+mṛgapaśupakṣisarīsṛpasthāvaramiti bhedasambhinā ।।
+mānuṣyakaṃ caikavidhaṃ brāhmaṇādicāṇḍālāntam ।
+paśavo gavādimūṣāntāḥ pakṣiṇo garūḍādikāḥ ।।
+maśakāntā mṛgāścāpi siṃhādi ca śivāntikāḥ ।
+śeṣādi alagardāntāḥ sarpāḥ parvatabhūtṛṇāḥ ।।
+sthāvarā bhautikaḥ sarga etatsaṃsāramaṇḍalam ।।

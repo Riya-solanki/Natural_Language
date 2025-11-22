@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 678 | label: meter | g:0.194 m:0.5 ---
+
+samarasya puraḥ pāraḥ sadaśva iti te trayaḥ 
+putrāḥ paramadharmajñāḥ pāraputraḥ pṛthur babhau ।।

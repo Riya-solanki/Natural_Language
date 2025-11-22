@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1247 | label: meter | g:0.29 m:0.747 ---
+
+{anavaratakanakavitaraṇajalalavabhṛtakarataraṅgitārthitateḥ ।
+bhaṇitiriva matirmatiriva ceṣṭā ceṣṭeva kīrtirativimalā ।।}

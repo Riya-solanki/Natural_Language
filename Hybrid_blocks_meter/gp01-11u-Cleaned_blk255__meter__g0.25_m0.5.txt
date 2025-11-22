@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 255 | label: meter | g:0.25 m:0.5 ---
+
+[] ratnacūḍa uvāca, "sarva-sampad-virājamāna, śrīmad-vraja-rāja, mama bhāgineyau ।"

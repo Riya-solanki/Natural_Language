@@ -1,0 +1,8 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2082 | label: meter | g:0.25 m:0.5 ---
+
+viharadhvaṃ mahīpṛṣṭhe pūjyamānā narairiha ।
+vasatirbhavatīnāṃ ca udyāneṣu vaneṣu ca ।।
+vanaspatiṣu vṛkṣeṣu gacchadhvaṃ praṇipatyāmbikāṃ kramāt ।।
+dakṣu savāsu jagmustāḥ stūyamānāśca kinnaraiḥ ।
+andhako api smṛtiṃ labdhvā apaśyannadrinandinīm ।
+svabalaṃ nirjitaṃ dṛṣṭvā tataḥ pātālamādravāt ।।

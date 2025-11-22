@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 561 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha tāḥ sā śapatha-prathanayā tad-ālayeṣv asambhavam apīṣṭa-lambhanam aniṣṭa-vipralambhanaṃ ca viśrambhaviṣayaṃ vidhāya duḥsaha-nānādhyavasāyād viṣkambhya gamana-karmaṇi lambhyamānāḥ pathi tu svamāyayā gopayantī tatra tat-sadṛg-anyāś cāropayantī tat tan nirvāhayāmāsa । paścād eva ca tās tatra vāsayāmāsa । tās tu tatra ca parama-trastā babhūvuḥ, yataḥ-

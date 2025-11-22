@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3847 | label: meter | g:0.25 m:0.5 ---
+
+aśvakākhyo abhavatputro hyaśvakānmūla ko abhavat ।
+tato daśaratho rājā tasya cailavilaḥ sutaḥ ।।

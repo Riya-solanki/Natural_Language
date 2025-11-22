@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 738 | label: hybrid | g:0.342 m:0.439 ---
+
+atra samāropitanāyikāvṛttāntasya śleṣacchāyāsahāyasya rūpa caraṇāt rasavadalaṅkāratvam ।
+yadapi nīrasaprāyaṃ padārthajātaṃ tadapi sarvamanenaiva sarasatāmupapadyate ।
+yathā

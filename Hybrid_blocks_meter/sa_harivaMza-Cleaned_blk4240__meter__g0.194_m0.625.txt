@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4240 | label: meter | g:0.194 m:0.625 ---
+
+tāṃ ca tatropasaṃgamya priyām iva sakhīṃ sakhā 
+dakṣiṇena karāgreṇa parijagrāha mādhavaḥ ।।

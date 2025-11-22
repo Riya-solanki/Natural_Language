@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1190 | label: meter | g:0.194 m:0.5 ---
+
+tathā tathainaṃ bālaṃ te śāsitāro vayaṃ nṛpa 
+yathā vipakṣanāśāya vinītas te bhaviṣyati ।।

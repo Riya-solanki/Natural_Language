@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 736 | label: grammar | g:0.75 m:0.5 ---
+
+nanu nirvedasya śānta-rasa-sthāyitvaṃ kaiścid uktam । tat katham asya anya-rasopakaraṇatvam iti ced, ucyate । sati khalu grāme sīmā-sambhāvanā । sthāyitvaṃ nāma saṃskāra-pāṭavena bhāvasya muhur muhur navībhāvaḥ । tena nirveda-vāsanā-vāsitaṃ bhāvaka-cetasi naiṣphalyābhimateṣu vibhāvādiṣu tat-sāmagrī-phala-bhūtasya nirvedasyotpattir eva na saṅgacchate । kiṃ punaḥ sthāyitvam । kiṃ ca asati nirveda-sthāyini śānta-rūpo bhāvakānām āsvādaś citra-gata-kadalī-phala-rasāsvāda-lampaṭānāṃ rāja-śukānāṃ viveka-sahodaro bhaved iti kṛtaṃ saṃrambheṇa ।

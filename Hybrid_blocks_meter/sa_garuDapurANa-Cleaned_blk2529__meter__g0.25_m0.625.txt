@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2529 | label: meter | g:0.25 m:0.625 ---
+
+kleśabodhaikakaṃ putra anyāyena bhavettava ।
+mṛtasya narakaṃ tyaktvā kleśa evānyajanmani ।।

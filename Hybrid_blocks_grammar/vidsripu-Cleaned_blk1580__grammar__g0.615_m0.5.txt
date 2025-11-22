@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1580 | label: grammar | g:0.615 m:0.5 ---
+
+durvāso malināṅgayaṣṭir abalā dṛṣṭo janaḥ sve gṛhe nīcāt karṇakaṭu śrutaṃ dhanam adād āruḍhagarvaṃ vacaḥ ।
+anyo mandiram āgataḥ paricayād aprāptakāmo gataḥ khinnāḥ smaḥ svaparopakārakaraṇaklībāṃ vahantas tanum ।।

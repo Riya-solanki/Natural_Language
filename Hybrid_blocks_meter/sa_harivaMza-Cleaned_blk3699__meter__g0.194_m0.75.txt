@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3699 | label: meter | g:0.194 m:0.75 ---
+
+tato mukhyatamāḥ sarve yādavā raṇaśobhinaḥ 
+anīkāgrāṇi karṣanto vāsudevapurogamāḥ ।।

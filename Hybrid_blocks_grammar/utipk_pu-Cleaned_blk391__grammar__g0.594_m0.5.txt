@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 391 | label: grammar | g:0.594 m:0.5 ---
+
+iti prakaṭito mayā sughaṭa eṣa mārgo navo mahāgurubhir ucyate sma śivadṛṣṭiśāstre yathā ।
+tad atra nidadhat padaṃ bhuvanakartṛtām ātmano vibhāvya śivatāmayīm aniśam āviśan siddhyati ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 410 | label: meter | g:0.25 m:0.5 ---
+
+atra svedodgama-mālya-mlānatvayor druta-gamana-ravi-kara-sparśa-rūpa-kāraṇāsatyatva-kathana-rūpeṇa parihasanena sapatnī-sambhoga-rūpa-priyāparādha-nirbhedanān narma ।

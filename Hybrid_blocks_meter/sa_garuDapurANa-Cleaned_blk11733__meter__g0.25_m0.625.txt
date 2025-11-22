@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11733 | label: meter | g:0.25 m:0.625 ---
+
+svāmipuṣkariṇīsnānaṃ sā cakāra dhṛtavratā ।
+tīrtheṣveteṣu susnātā dānaṃ cakre subhāminī ।।

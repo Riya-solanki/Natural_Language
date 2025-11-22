@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1178 | label: hybrid | g:0.531 m:0.5 ---
+
+svargaṃ mahī vāyupathāśca vaśyāḥ pātālamanye ca maheśvarādyāḥ ।
+indro asmi rudro asmi divākaro asmi sarveṣu lokṣvadhipo asmi bāle ।।

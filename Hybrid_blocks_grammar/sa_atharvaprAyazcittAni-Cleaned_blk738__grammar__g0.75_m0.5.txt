@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 738 | label: grammar | g:0.75 m:0.5 ---
+
+yās te agna ārdrā yonayo yāḥ kulāyinīḥ । ye te agna indavo yā u nābhayaḥ । yās te agne tanva ūrjo nāma tābhiṣ ṭvam ubhayībhiḥ saṃvidānaḥ śataṃ cinvānas tanvā niṣīdata ।

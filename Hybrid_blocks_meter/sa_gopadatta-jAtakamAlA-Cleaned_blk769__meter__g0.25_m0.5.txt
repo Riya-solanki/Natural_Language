@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 769 | label: meter | g:0.25 m:0.5 ---
+
+evam anyathā ca svayūthyān saṃjñāpayām āsa ।।

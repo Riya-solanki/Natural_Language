@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 69 | label: meter | g:0.306 m:0.5 ---
+
+prāgivārtho aprakāśaḥ syāt prakāśātmatayā vinā ।
+na ca prakāśo bhinnaḥ syād ātmārthasya prakāśatā ।।

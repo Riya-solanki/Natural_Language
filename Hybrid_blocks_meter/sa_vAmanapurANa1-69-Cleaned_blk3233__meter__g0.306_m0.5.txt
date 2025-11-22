@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3233 | label: meter | g:0.306 m:0.5 ---
+
+ayaṃ sa danuputrasainyavitrāsakṛdriṣuḥ paramakopitaḥ sa madhorvighātakṛt ।
+hiraṇyanayanāntakaḥ kusumapūjāratiḥ kva yāti mama dṛṣṭigocare nipatitaḥ khalaḥ ।।

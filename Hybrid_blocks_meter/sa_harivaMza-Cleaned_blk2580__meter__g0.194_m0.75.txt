@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2580 | label: meter | g:0.194 m:0.75 ---
+
+sa jahāraiva vegena rauhiṇeyaṃ mahāsuraḥ 
+sāgaropaplavagataṃ kṛtsnaṃ lokam ivāntakaḥ ।।

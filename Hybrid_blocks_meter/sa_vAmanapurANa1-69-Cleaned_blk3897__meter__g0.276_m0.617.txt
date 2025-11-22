@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3897 | label: meter | g:0.276 m:0.617 ---
+
+pulastya uvāca ।
+etat tavoktaṃ pravaraṃ stavānāṃ stavaṃ murārervaranāgakīrtanam ।
+yaṃ kīrtya saṃśrutya tathā vicintya pāpāpanodaṃ puruṣo labheta ।।

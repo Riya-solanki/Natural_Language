@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 813 | label: hybrid | g:0.535 m:0.435 ---
+
+yadi kṣāmā mūrttiḥ pratidivasam aśrūṇi dṛśi cec chrutau dūtīvaktraṃ yadi mṛgadṛśo bhūṣaṇadhiyā ।
+idaṃ cāsmatkarṇe yadi bhavati kenāpi kathitaṃ tad icchāmaḥ saṅgād virahabharam ekatra vasatau ।।
+vallaṇasya

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 898 | label: meter | g:0.25 m:0.555 ---
+
+prayatiṣyāmi devendra tvatpriyārthaṃ na saṃśayaḥ 
+yathā bhāgaṃ ca rājyaṃ ca na cirāt pratilapsyase 
+tathā tāta kariṣyāmi mā te bhūd viklavaṃ manaḥ ।।

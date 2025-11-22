@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 155 | label: meter | g:0.159 m:0.553 ---
+
+yathā mamaiva-
+niḥśaṅkā nitarāṃ nirasya dayitaṃ pādānataṃ preyasī
+kopenādya kṛtaṃ mayā kim idam ity ārtā sakhīṃ jalpati ।
+sodvegaṃ bhramati kṣipaty anudiśaṃ dṛṣṭiṃ vilolākulāṃ
+ramyaṃ dveṣṭi muhur muhuḥ pralapati śvāsādhikaṃ mūrcchati ।।

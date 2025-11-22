@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 915 | label: meter | g:0.401 m:0.747 ---
+
+śubhā satyā ca madhurā vāṅ nityaṃ satkriyā ratiḥ ।
+sadācāraniṣevitvaṃ paralokapradāyakāḥ ।।

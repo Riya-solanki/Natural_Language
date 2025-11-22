@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3902 | label: grammar | g:0.708 m:0.5 ---
+
+ataḥ paraṃ bhaviṣyān ahaṃ bhūpālān kīrtayiṣyāmi । yo ayaṃ sāmpratam avanīpatiḥ parīkṣit tasyāpi janamejayaśrutasenograsenabhīmasenāḥ putrāś catvāro bhaviṣyanti ।।

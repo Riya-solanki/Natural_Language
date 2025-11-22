@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 1219 | label: meter | g:0.251 m:0.853 ---
+
+itivṛttānyathāvṛttarasasaṃpadupekṣayā ।
+rasāntareṇa ramyeṇa yatra nirvahaṇaṃ bhavet ।।
+tasyā eva kathāmūrterāmūlovanamīlitāśriyaḥ ।
+vineyānandaniṣpattyai sā prabandhasya vakratā ।।

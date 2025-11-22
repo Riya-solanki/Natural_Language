@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3582 | label: grammar | g:0.75 m:0.5 ---
+
+rāmasya tu kuśalavau putrau lakṣmaṇasyāṅgadacandraketū takṣapuṣkarau bharatasya subāhuśūrasenau śatrughnasya kuśasyātithir atither api niṣadhaḥ putro abhavat । niṣadhasyāpi nalas tasya api nabho nabhasaḥ puṇḍarīkaḥ । tattanayaḥ kṣemadhanvā tasya ca devānīkas tasyāpy ahīnagus tato rurus tasya ca pāriyātraḥ pāriyātrād dalo dalāc chalas tasyāpy uktha ukthād vajranābhas tasmāc chaṅkhanābhas tato vyutthitāśvas tataś ca viśvasaho jajñe ।।

@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 27 | label: meter | g:0.25 m:0.625 ---
+
+viśrāntaḥ san vraja vananadītīrajātāni siñcann udyānānāṃ navajalakaṇair yūthikājālakāni 
+gaṇḍasvedāpanayanarujāklāntakarṇotpalānāṃ chāyādānāt kṣaṇaparicitaḥ puṣpalāvīmukhānām ।।

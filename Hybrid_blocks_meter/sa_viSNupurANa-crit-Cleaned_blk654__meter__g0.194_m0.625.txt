@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 654 | label: meter | g:0.194 m:0.625 ---
+
+anārādhitagovindair naraiḥ sthānaṃ nṛpātmaja 
+na hi saṃprāpyate śreṣṭhaṃ tasmād ārādhayācyutam ।।

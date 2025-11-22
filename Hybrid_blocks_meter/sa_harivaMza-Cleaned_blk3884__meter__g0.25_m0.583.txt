@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3884 | label: meter | g:0.25 m:0.583 ---
+
+vṛṣṇyandhakeṣu cānyeṣu mukhyeṣu madhusūdanaḥ 
+gurum āsajya taṃ bhāraṃ yayau dvāravatīṃ prati ।। 
+tataś ca yādavāḥ sarve yuddhāya samupasthitāḥ । 
+dantavaktro jarāsaṃdhaḥ śiśupālaś ca vīryavān 
+saṃnaddhā niryayuḥ kruddhā jighāṃsanto janārdanam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4388 | label: meter | g:0.25 m:0.5 ---
+
+svapnenevābhibhavati na coktaśca sa bhāṣateḥ ।
+pittāddāhajvaraḥ svedo moho nityaṃ ca vibhramaḥ ।।

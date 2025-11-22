@@ -1,0 +1,7 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1863 | label: hybrid | g:0.25 m:0.491 ---
+
+skanda ityeva vikhyāto gaurīputro bhavatvasau ।
+guha ityeva nāmnā ca mamāsau tanayaḥ smṛtaḥ ।।
+māhāsena iti khyāto hutāśasyāstu putrakaḥ śāradvata iti khyātaḥ sutaḥ śaravaṇasya ca ।।
+evameva mahāyogī pṛthivyāṃ khyātimeṣyati ।
+ṣaḍāsyatvān mahābāhuḥ ṣaṇmukho nāma gīyate ।।

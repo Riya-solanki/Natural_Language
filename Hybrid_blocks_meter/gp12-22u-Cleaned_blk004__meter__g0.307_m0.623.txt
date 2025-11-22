@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 4 | label: meter | g:0.307 m:0.623 ---
+
+tāvad evātmabhūr ātma-mānena truṭy-anehasā ।
+purovad ābdaṃ krīḍantaṃ dadṛśe sakalaṃ harim ।।[] iti ।

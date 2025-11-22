@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 563 | label: meter | g:0.262 m:0.54 ---
+
+vadhārhasyāpi kaṃsasya strīṇāṃ dṛg-vāri-bindavaḥ ।
+dharaṇyāṃ nipatiṣyanti drāvayiṣyanti hṛt tava ।।
+[] kṛṣṇa uvāca-hanta tau mama nija-janakāv iti bhavatā kāv uktau ?

@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 68 | label: meter | g:0.0 m:0.75 ---
+
+prāṇavahniśikhāstreṇa bhaṅktvā brahmabilaṃ lasat
+dhūpavartinibhābhāso dhūpas te nagajādhava

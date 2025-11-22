@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 472 | label: grammar | g:0.75 m:0.5 ---
+
+atra nāyakagocarā tadānīntanī purātanī vā vilāsinīnāṃ ratiḥ nāyakavilokanādibhiruddīpitā mandahāsena śarīrāraṃbheṇa svedādibhiśca sācvikaiḥ bahubhiranubadhyata iti tathoktaḥ । sañcāriṇo nāma virvedaviṣādadainyaglāniśramamadagarvaśaṅkātrāsāvegonmādāpasmāravyādhi mohamaraṇālasyajaḍatā vrīḍāvahitthāsmṛtivitarkacintāśca matidhṛtiharṣotsukatvogratāmarṣakṛpāsūyācāpalyanidrāsuptibodhāśceti trayastriṃśat ।

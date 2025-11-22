@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11232 | label: meter | g:0.25 m:0.75 ---
+
+tasyātmajaiśca kaikeyaiḥ pañcabhiḥ khagasattama ।
+pratyāhṛtāmimāṃ bhadrāṃ prāptavān khagasattama ।।

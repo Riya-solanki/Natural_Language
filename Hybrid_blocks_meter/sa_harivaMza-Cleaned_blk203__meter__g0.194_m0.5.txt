@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 203 | label: meter | g:0.194 m:0.5 ---
+
+yaś cainaṃ kīrtayen nityaṃ pṛthor vainyasya saṃbhavam 
+brāhmaṇebhyo namaskṛtya na sa śocet kṛtākṛtam ।।

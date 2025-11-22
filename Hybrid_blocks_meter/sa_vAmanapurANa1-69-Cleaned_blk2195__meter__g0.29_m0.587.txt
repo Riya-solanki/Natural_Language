@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2195 | label: meter | g:0.29 m:0.587 ---
+
+brahmovāca ।
+aurasaḥ kṣetrajaścaiva dattaḥ kṛtrima eva ca ।
+guḍhotpanno apaviddhaśca dāyādā bāndhavāstu ṣaṭ ।।

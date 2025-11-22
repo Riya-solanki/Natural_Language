@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 33 | label: meter | g:0.306 m:0.5 ---
+
+ye tān prajānanti yatonidānāṃs te tāṃ janā yakṣa vinodayanti ।
+ta arṇavaṃ saṃpratarantīhaugham atīrṇapūrvam apunarbhavāya ।।

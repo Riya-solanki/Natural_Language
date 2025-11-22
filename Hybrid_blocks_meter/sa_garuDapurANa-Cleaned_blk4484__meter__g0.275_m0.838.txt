@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4484 | label: meter | g:0.275 m:0.838 ---
+
+atīsāraḥ samāsena dvedhā sāmo nirāmakaḥ ।
+sāsṛgjātaṃ rasadrogo gauravādapsu muñcati? ।
+śakṛddurgandhamāṭopaviṣṭambhārtiprasekinaḥ ।।

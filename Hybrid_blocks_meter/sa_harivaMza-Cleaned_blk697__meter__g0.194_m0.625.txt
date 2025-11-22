@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 697 | label: meter | g:0.194 m:0.625 ---
+
+mama prajvalitaṃ cakraṃ niśāmyaitat sudurjayam 
+śatravo vidravanty ājau darśanād eva bhārata ।।

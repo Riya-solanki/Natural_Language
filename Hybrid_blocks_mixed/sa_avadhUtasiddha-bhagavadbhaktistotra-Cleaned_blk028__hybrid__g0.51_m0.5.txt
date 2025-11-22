@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 28 | label: hybrid | g:0.51 m:0.5 ---
+
+kurvan muhuḥ svayam atandritayāpi buddhyā karmāṇi śāstraviṣayopanibandhanāni ।
+saṃyujyate samucitena tu yatphalena tacceṣṭitasya phalam apratimaṃ tavaiva ।।

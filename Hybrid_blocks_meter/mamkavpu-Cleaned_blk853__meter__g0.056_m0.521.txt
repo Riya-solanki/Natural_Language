@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 853 | label: meter | g:0.056 m:0.521 ---
+
+{śyāmāṃ śyāmalimānamānayata bhoḥ sāndrairmaṣīkūrcakair
+mantraṃ tantramatha prayujya harata śvetotpalānāṃ śriyam ।
+candraṃ carṇayata kṣaṇācca kaṇaśaḥ kṛtvā śilāpaṭṭake
+yena draṣṭumahaṃ kṣame daśa diśastadvaktramudrāṅkitāḥ ।।}

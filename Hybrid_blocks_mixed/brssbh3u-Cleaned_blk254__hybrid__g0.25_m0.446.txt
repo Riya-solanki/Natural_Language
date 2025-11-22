@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 254 | label: hybrid | g:0.25 m:0.446 ---
+
+anena setvādivyapadeśanirākaraṇenānyapratiṣedhasamāśrayaṇena ca sarvagatatvamapyātmanaḥ siddhaṃ bhavati ।
+anyathā hi tanna siddyet ।
+setvādivyapadeśeṣu hi mukhyeṣvaṅgīkriyamāṇeṣu pariccheda ātmanaḥ prasajyeta setvādīnāmevātmakatvāt ।

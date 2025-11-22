@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4536 | label: hybrid | g:0.271 m:0.477 ---
+
+tatraivāntarhitās te ca tad āścaryataraṃ mama 
+asaktaṃ ca ratho yāti meghajāleṣv ivāṃśumān ।। 
+sapta dvīpān sasindhūṃś ca sapta sapta girīn atha । lokālokaṃ tathātītya viveśa sumahat tamaḥ । 
+tataḥ kadā cid duḥkhena ratham ūhus turaṃgamāḥ 
+paṅkabhūtaṃ hi timiraṃ sparśād vijñāyate anagha ।।

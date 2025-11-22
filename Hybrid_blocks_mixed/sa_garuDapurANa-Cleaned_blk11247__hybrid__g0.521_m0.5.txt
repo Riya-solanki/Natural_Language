@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11247 | label: hybrid | g:0.521 m:0.5 ---
+
+pracchādayante tattvagopyāni ye tu teṣāṃ gatiḥ sūryasūnuḥ sadaiva ।
+ye dharmakāṇḍe karmakāṇḍe sadaiva utpādayante suruciṃ tatra nityam ।।

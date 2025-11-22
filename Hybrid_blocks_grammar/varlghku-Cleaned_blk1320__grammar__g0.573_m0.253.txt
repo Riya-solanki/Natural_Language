@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1320 | label: grammar | g:0.573 m:0.253 ---
+
+sarvasya so anyatarasyāṃ di ।।
+dādau prāgdiśīye sarvasya so vā syāt । sarvasmin kāle sadā sarvadā । anyadā । yadā । kāle kim ? sarvatra deśe ।।

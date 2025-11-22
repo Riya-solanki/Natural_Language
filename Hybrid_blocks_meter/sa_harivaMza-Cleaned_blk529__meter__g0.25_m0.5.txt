@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 529 | label: meter | g:0.25 m:0.5 ---
+
+śrāddhaiḥ prīṇāti hi pitṝn sarvakāmaphalais tu yaḥ 
+tatparaḥ prayataḥ śrāddhī pretya ceha ca modate ।।

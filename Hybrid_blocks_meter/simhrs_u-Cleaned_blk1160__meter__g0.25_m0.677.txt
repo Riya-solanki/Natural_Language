@@ -1,0 +1,12 @@
+--- source: simhrs_u-Cleaned.txt | block: 1160 | label: meter | g:0.25 m:0.677 ---
+
+rasetivṛtta-netāras tat-tad-rūpaka-bhedakāḥ । 
+lakṣitau rasanetārāv itivṛttaṃ tu kathyate ।।
+itivṛtta-kathā-vastu-śabdāḥ paryāya-vācinaḥ । 
+itivṛttaṃ prabandhasya śarīraṃ trividhaṃ hi tat ।।
+khyātaṃ kalpyaṃ ca saṅkīrṇaṃ khyātaṃ rāma-kathādikam । 
+kavi-buddhi-kṛtaṃ kalpyaṃ mālatī-mādhavādikam ।।
+saṅkīrṇam ubhayāyattaṃ lava-rāghava-ceṣṭitam । 
+lakṣyeṣv etat tu bahudhā divya-martyādi-bhedataḥ ।।
+tac cetivṛttaṃ vidvadbhiḥ pañcadhā parikīrtitam । 
+bījaṃ binduḥ patākā ca prakarī kāryam ity api ।।

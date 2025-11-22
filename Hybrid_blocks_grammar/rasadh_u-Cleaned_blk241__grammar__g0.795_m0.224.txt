@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 241 | label: grammar | g:0.795 m:0.224 ---
+
+sarvottamasājimaṇaniṣadrasūkṣmacūrṇīkṛtya sandhyāyāṃ maṇamekaṃ sājikumbha eko jalamiti sthālyāṃ kṣiptvā prātaḥ kāvasasaṃtyatkvānītāryajalaṃ grahītvā sājīmarṇe kṣipet ।।
+eva ṣaḍbhirdinaiḥ ṣaṇmaṇān kṣiptvā nīvāsarjikājale atisvacchaṃ kṛtvā āmalasārakagandhakastena jalena piṣṭvā vārisadṛśaḥ kṛtvā kumbhe kṣiptvā karpaṭamṛttirāveṣṭya mukhe abhrakacātikāṃ dattvā patraculhake pracchanno agnirahorātraṃ jvalati tatra culūkakupaṃ nikṣipya paritaḥ ṣaḍaṃgulapramāṇā rakṣā deyā sacakumkas tatra nikṣiptaḥ satnekaviśatidināni sthāpayitvā karṣaṇīyaḥ ।।
+tāvatā ca kālena gandhakaḥ kumpamadhyaṃ sājīkṣāreṇa saha bhrāmyan pītatoyo nālikerajalasadṛśo bhavati ।।
+idaṃ ca gandhakavāri hṛtipīṭhīti nāmnā vārttikendramadhye vikhyātaṃ jñātavyam ।।

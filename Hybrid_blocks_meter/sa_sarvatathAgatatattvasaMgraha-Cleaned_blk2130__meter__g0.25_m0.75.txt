@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2130 | label: meter | g:0.25 m:0.75 ---
+
+mahāmaṇḍalayogena sutrayet sarvamaṇḍalaṃ ।
+tasya madhye samālekhyaṃ jñānavajratathāgataṃ ।।

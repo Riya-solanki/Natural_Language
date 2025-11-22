@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 354 | label: meter | g:0.25 m:0.625 ---
+
+pradahyamānau caraṇau dṛṣṭvāsau kusumāyudhaḥ ।
+utsasarja dhanuḥ śreṣṭhaṃ tajjagāmātha pañcadhā ।।

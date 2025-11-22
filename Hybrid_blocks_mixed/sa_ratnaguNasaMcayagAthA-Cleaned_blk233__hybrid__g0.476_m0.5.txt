@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 233 | label: hybrid | g:0.476 m:0.5 ---
+
+caramāṇu prajñavarapāramitāya yogī mahatīṃ janeti karuṇāṃ na ca sattvasaṃjñā 
+tada bhonti sarvajagatī vidu dakṣiṇīyā satataṃ amoghu paribhuñjati rāṣṭrapiṇḍam ।।

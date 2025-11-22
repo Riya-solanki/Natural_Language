@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 638 | label: grammar | g:0.806 m:0.375 ---
+
+bhṛñāmit ।।
+bhṛñ māṅ ohāṅ eṣāṃ trayāṇāmabhyāsasya itsyāt ślau । mimāte । mame । māsyate । amimīta । māsīṣṭa । amāsyata ।। ।। jihīte । jihate । hātā । jihītām । jihīta । ahāsta ।। ḍu bhṛñ dhāraṇapoṣaṇayoḥ ।। bibhṛtaḥ । bibhṛte । bibhrate । vibharāñcakāra, babhāra । babhartha । bibharāñcakre, babhre । bhartāsi, bhartāse । bhariṣyati, bhariṣyate । bibharāṇi । abibhaḥ । abibharuḥ । bibhṛyāt, bibhrīta । abhārṣīt, abhṛta । abhariṣyat, abhariṣyata ।। dattaḥ । datte । dadate । dātāsi, dātāse । dadātu ।।

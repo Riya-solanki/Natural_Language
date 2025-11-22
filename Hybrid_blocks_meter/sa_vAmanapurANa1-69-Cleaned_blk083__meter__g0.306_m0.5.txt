@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 83 | label: meter | g:0.306 m:0.5 ---
+
+taṃ śakaro abhyetya vaco vabhāṣe naraṃ hi nārāyaṇabāhujātam ।
+nipātayainaṃ nara duṣṭavākyaṃ brahmātmajaṃ sūryaśataprakāśam ।।

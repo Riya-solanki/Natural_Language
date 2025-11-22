@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5452 | label: meter | g:0.469 m:0.625 ---
+
+nārāyaṇabhujāghātaparipīḍanavihvalam 
+taṃ vīkṣya kṣamyatām asyety āha devaḥ pitāmahaḥ ।।

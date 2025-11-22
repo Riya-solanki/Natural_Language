@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9131 | label: meter | g:0.306 m:0.5 ---
+
+gāvo mamāgrataḥ santu pṛṣṭhataḥ pārśvatastathā ।
+gāvo me hṛdaye santu gavāṃ madhye vasāmyaham ।।

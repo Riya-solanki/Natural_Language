@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 22 | label: meter | g:0.212 m:0.637 ---
+
+mārkaṇḍeyaḥ
+sakṛd abhyarcito yena devadevo janārdanaḥ
+yat kṛtaṃ tatkṛtaṃ tena samprāptaṃ paramaṃ padam ।।

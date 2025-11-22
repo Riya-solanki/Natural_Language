@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2051 | label: meter | g:0.25 m:0.831 ---
+
+nārada uvāca ।
+kor'tho gandharvarājasya yenāpraiṣīnmahājavam ।
+rājñaḥ kuvalayāśvasya kor'tho nṛpasutasya ca ।।

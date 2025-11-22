@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2687 | label: meter | g:0.25 m:0.625 ---
+
+brahmakṣāttriyaviṭśūdrā varṇāstvādyāstrayo dvijāḥ ।
+niṣekādyāḥ śmaśānāntāsteṣāṃ vai mantrataḥ kriyāḥ ।।

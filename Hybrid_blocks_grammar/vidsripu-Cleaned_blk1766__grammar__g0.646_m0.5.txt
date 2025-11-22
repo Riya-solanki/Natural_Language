@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1766 | label: grammar | g:0.646 m:0.5 ---
+
+purā yātāḥ kecit tadanu calitāḥ kecid apare viṣādaḥ ko asmākaṃ na hi na vayam apy atra gaminaḥ ।
+manaḥkhedas tv evaṃ katham akṛtasaṃketavidhayo mahāmārge asmin no nayanapatham eṣyanti suhṛdaḥ ।।

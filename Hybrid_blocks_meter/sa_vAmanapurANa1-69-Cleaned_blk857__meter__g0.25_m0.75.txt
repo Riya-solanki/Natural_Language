@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 857 | label: meter | g:0.25 m:0.75 ---
+
+keśakīṭāvapanne anne goghrāte makṣikānvite ।
+mṛdambubhasmakṣārāṇi prakṣeptavyāni śuddhaye ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 158 | label: grammar | g:0.625 m:0.5 ---
+
+tvatprabhutvaparicarvaṇajanmā ko apy udetu paritoṣaraso antaḥ sarvakālam iha me param astu jñānayogamahimādi vidūre ।।

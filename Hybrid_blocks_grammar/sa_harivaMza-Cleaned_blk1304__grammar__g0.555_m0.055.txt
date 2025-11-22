@@ -1,0 +1,14 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1304 | label: grammar | g:0.555 m:0.055 ---
+
+hitārthaṃ suramartyānāṃ lokānāṃ prabhavāya ca 
+bahuśaḥ sarvabhūtātmā prādurbhavati kāryataḥ 
+prādurbhāvāṃś ca vakṣyāmi puṇyān devaguṇair yutān ।। 
+chāndasībhir udārābhiḥ śrutibhiḥ samalaṃkṛtān । śuciḥ prayatavāg bhūtvā nibodha janamejaya । idaṃ purāṇaṃ paramaṃ puṇyaṃ vedaiś ca saṃmitam । hanta te kathayiṣyāmi viṣṇor divyāṃ kathāṃ śṛṇu । yadā yadā hi dharmasya glānir bhavati bhārata । dharmasaṃsthāpanārthāya tadā saṃbhavati prabhuḥ । tasya hy ekā mahārāja mūrtir bhavati sattama । nityaṃ diviṣṭhā yā rājaṃs tapaś carati duścaram । dvitīyā cāsya śayane nidrāyogam upāyayau । prajāsaṃhārasargārthaṃ kim adhyātmavicintakam । 
+suptvā yugasahasraṃ sa prādurbhavati kāryavān 
+pūrṇe yugasahasre tu devadevo jagatpatiḥ ।। 
+pitāmaho lokapālāś candrādityau hutāśanaḥ । 
+brahmā ca kapilaś caiva parameṣṭhī tathaiva ca 
+devāḥ saptarṣayaś caiva tryambakaś ca mahāyaśāḥ ।। 
+vāyuḥ samudrāḥ śailāś ca tasya dehe samāśritāḥ । 
+sanatkumāraś ca mahānubhāvo manur mahātmā bhagavān prajākaraḥ 
+purāṇadevo atha purāṇi cakre pradīptavaiśvānaratulyatejāḥ ।।

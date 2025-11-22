@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1386 | label: meter | g:0.194 m:0.979 ---
+
+śubhābhyāsād eva kṣapitakukṛtapratyayatayā
+tathāgatena prāptā bhavagatisamākṣepavaśitā ।
+yathecchaṃ yatrecchaṃ parahitasamādhānaviduṣas
+tathā hy abhūt janmavyasanaśamanāyaiva jagatām ।।

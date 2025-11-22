@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2995 | label: meter | g:0.194 m:0.5 ---
+
+praviṣṭāś ca samaṃ gobhir grāmaṃ nakṣatradarśane 
+kaṭadharmāṃs tataḥ kuryur bhūmau prastaraśāyinaḥ ।।

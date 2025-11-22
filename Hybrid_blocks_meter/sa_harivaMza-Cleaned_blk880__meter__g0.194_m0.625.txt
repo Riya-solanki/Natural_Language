@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 880 | label: meter | g:0.194 m:0.625 ---
+
+yatra devāsure yuddhe samupoḍhe sudāruṇe 
+devāś caivāsurāś caiva pitāmaham athābruvan ।।

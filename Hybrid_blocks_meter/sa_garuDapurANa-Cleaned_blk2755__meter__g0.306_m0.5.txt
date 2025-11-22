@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2755 | label: meter | g:0.306 m:0.5 ---
+
+vārdhakye rakṣate putro hyanyathā jñātayastathā ।
+patiṃ vinā na tiṣṭhettu divā vā yadi vā niśi ।।

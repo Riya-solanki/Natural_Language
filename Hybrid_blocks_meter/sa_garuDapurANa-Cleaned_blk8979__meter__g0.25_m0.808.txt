@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8979 | label: meter | g:0.25 m:0.808 ---
+
+preta uvāca ।
+devadravyaṃ ca brahmasvaṃ strībāladhanasañcayam ।
+ye haranti nṛpaśreṣṭha pretayoniṃ vrajanti te ।।

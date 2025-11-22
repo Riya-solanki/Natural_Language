@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 59 | label: meter | g:0.102 m:0.871 ---
+
+atha tejasvitā-
+tejasvitvam avajñāder asahiṣṇutvam ucyate ।। athā-
+so' yaṃ triḥ sapta-vārān avikala-vihita-kṣatra-tantu-pramāro
+vīraḥ krauñcasya bhedī kṛta-dharaṇi-talāpūrva-haṃsāvatāraḥ ।
+jetā heramba-bhṛṅgi-pramukha-gaṇa-camū-cakriṇas tāra-kāres
+tvāṃ pṛcchan jāmadagnyaḥ sva-guru-hara-dhanur bhaṅga-roṣād upaiti ।।

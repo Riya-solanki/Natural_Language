@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1281 | label: grammar | g:0.583 m:0.5 ---
+
+priyaprāyā vṛttir vinayamadhuro vāci niyamaḥ prakṛtyā kalyāṇī matir anavagītaḥ paricayaḥ ।
+puro vā paścād vā tad idam aviparyāsitarasaṃ rahasyaṃ sādhūnām anupadi viśuddhaṃ vijayate ।।

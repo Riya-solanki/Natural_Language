@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 915 | label: grammar | g:0.562 m:0.5 ---
+
+prārabdho maṇidīpayaṣṭiṣu vṛthā pātaḥ pataṅgair ito gandhāndhair abhito madhuvratakulair utpakṣmabhiḥ sthīyate ।
+velladbāhulatāvilokavalayasvānair itaḥ sūcita- vyāpārāś ca niyojayanti vividhān varāṅganā varṇakān ।।

@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 277 | label: meter | g:0.312 m:0.747 ---
+
+atha kuṭṭamitam-
+keśādharādi-grahaṇe modamāne' pi mānase ।
+duḥkhiteva bahiḥ kupyed yatra kuṭṭamitaṃ hi tat ।।

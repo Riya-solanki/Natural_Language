@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2016 | label: meter | g:0.102 m:0.927 ---
+
+nāgāyutabalāḥ kecit kecid oghabalānvitāḥ 
+gadāparighaśaktīnāṃ sahāḥ parighabāhavaḥ 
+giriśṛṅgaprahartāraḥ sarve parighayodhinaḥ ।।

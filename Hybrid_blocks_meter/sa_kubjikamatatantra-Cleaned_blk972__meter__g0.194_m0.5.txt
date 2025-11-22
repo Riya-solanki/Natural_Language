@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 972 | label: meter | g:0.194 m:0.5 ---
+
+yas tu dhārayate divyāṃ guḍikāṃ śivapūjitām 
+tasya vakṣyāmi suśroṇi guṇān nānāvidhān śṛṇu ।।

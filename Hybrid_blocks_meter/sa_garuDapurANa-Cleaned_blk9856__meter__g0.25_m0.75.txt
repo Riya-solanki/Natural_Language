@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9856 | label: meter | g:0.25 m:0.75 ---
+
+śāntaṃ bubhukṣitaṃ vipraṃyo vighnāyopasarpati ।
+krimibhirbhakṣyate tatra yāvadābhūtasaṃplavam ।।

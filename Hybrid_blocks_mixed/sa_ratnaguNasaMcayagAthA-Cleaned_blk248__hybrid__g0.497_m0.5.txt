@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 248 | label: hybrid | g:0.497 m:0.5 ---
+
+atha tasyupadyati matīti aśobhanā ti kṣāntīya pāramita bodhi spṛśanti buddhāḥ 
+pratidarśayāti puna āyati saṃvarāṇi apayāti vā sa iha śikṣati buddhadharme ।।

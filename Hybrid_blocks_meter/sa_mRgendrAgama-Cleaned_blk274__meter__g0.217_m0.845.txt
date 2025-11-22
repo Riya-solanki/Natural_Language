@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 274 | label: meter | g:0.217 m:0.845 ---
+
+mahāpadānugo avīcī rājarājeśvareśvarāḥ 
+eṣāṃ puṭānāṃ narakaiḥ sārdhaṃ yojanasaṃkhyayā ।।

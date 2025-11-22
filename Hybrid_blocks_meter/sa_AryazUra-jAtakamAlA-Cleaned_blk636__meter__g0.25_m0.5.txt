@@ -1,0 +1,5 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 636 | label: meter | g:0.25 m:0.5 ---
+
+avimanā eva tu bodhisattvastathetyasmai pratiśuśrāva ।
+tataḥ sa vāmena kareṇa madrīmādāya savyena kamaṇḍaluṃ ca ।
+nyapātayattasya jalaṃ karāgre manobhuvaścetasi śokavahnim ।।

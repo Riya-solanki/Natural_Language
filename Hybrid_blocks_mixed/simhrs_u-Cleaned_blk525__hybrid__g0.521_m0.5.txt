@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 525 | label: hybrid | g:0.521 m:0.5 ---
+
+atra rāmacandra-śatānanda-viṣayerṣyā-janitena dhig iti vāg-ārambha-sūcitena svātmāvamānanena jāmadagnyasya nirvedaḥ ।

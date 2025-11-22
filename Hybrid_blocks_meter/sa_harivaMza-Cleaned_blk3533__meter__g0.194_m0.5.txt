@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3533 | label: meter | g:0.194 m:0.5 ---
+
+vīkṣamāṇaś ca tān sarvān nṛpān yaduvaro avyayaḥ 
+ātmānam ātmanā vākyam uvāca hṛdi mantravit ।।

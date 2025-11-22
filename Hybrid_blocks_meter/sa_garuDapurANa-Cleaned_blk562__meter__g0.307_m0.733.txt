@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 562 | label: meter | g:0.307 m:0.733 ---
+
+vyānākhyavāyuhīnaṃ vai prāṇadharṃmavivarjitam ।
+hariruvāca ।
+punaḥ sūryarcanaṃ vakṣye yaduktaṃ bhṛgave purā ।।

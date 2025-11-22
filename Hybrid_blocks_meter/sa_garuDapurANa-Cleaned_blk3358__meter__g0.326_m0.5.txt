@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3358 | label: meter | g:0.326 m:0.5 ---
+
+chalena mitraṃ kaluṣeṇa dharmaṃ paropatāpena samṛddhibhāvanam ।
+sukhena vidyāṃ puruṣeṇa nārīṃ vāñchanti vai ye na ca paṇḍitāste ।।

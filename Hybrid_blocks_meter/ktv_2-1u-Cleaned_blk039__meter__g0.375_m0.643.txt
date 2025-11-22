@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 39 | label: meter | g:0.375 m:0.643 ---
+
+na hy ekasmin vākye tad eva kadācit phalasaṃbandhāt pradhānam, kadācit phalavadupakārād aṅgaṃ yujyate ।
+niyatarūpatvād aṅgāṅgibhāvasya ।
+tasmān niyogenaivākhyātapadān nāmapadād vāpūrvapratītiḥ ।

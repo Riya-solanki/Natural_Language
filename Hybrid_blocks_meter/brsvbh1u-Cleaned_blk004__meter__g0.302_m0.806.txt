@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 4 | label: meter | g:0.302 m:0.806 ---
+
+ṣaḍbhiraṅgairupetāya vividhairavyayairapi ।
+śāśvatāya namaskurmo vedāya ca bhavāya ca ।।

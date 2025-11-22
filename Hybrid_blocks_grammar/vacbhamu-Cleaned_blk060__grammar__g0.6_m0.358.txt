@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 60 | label: grammar | g:0.6 m:0.358 ---
+
+tathāpi kimāyātaṃ viṣayātmanoḥ svabhāvajaḍayoḥ ? etadāyātaṃ yattayoḥ saṃvidajaḍeti ।
+tatkiṃ putraḥ paṇḍita iti pitāpi paṇḍito astu ? svabhāva eṣa saṃvidaḥ svayaṃprakāśāyā yadarthātmasaṃbandhiteti cet, hanta putrasyāpi paṇḍitasya svabhāva eṣa yatpitṛsaṃbandhiteti samānam ।
+sahārthātmaprakāśena saṃvitprakāśo na tvarthātmaprakāśaṃ vineti tasyāḥ svabhāva iti cet, tatkiṃ saṃvido bhinnau saṃvidarthātmaprakāśau ।
+tathā ca na svayaṃprakāśā saṃvit, na ca saṃvit arthātmaprakāśa iti ।
+atha saṃvidarthātmaprakāśo na saṃvido bhidyete, saṃvideva tau ।
+evaṃ cet yāvaduktaṃ bhavati saṃvit

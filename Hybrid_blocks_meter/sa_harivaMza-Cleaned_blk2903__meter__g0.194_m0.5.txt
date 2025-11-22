@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2903 | label: meter | g:0.194 m:0.5 ---
+
+babhruṃ dānapatiṃ caiva kṛtavarmāṇam eva ca 
+bhūritejasam akṣobhyaṃ bhūriśravasam eva ca ।।

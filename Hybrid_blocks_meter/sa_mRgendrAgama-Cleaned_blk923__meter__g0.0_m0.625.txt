@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 923 | label: meter | g:0.0 m:0.625 ---
+
+tataḥ sukhalavāsvāde teṣāṃ vṛttasya cetasaḥ 
+pratyāhāro vidhātavyaḥ sarvato vinivartanam ।। MT

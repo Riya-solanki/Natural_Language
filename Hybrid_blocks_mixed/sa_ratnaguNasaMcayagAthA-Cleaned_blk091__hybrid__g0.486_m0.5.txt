@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 91 | label: hybrid | g:0.486 m:0.5 ---
+
+satkṛtya buddhaniyutāṃ paricārikāyāṃ na ca prajñapāramita śraddadhitā jinānām 
+śrutvā ca so imu kṣipiṣyati so alpabuddhiḥ sa kṣipitva yāsyati avīcimatrāṇabhūto ।।

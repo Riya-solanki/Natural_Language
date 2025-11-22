@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 524 | label: meter | g:0.056 m:0.75 ---
+
+tasmin kiñcit trāsam āpannavān sa
+jyeṣṭhaḥ paśyan drāk kaniṣṭhasya vaktram ।
+tad bhrāmyad-bhrū-līlayā labdha-dṛṣṭir
+duṣṭaṃ muṣṭyā tāḍayat suṣṭhu mūrdhni ।। [śālinī]

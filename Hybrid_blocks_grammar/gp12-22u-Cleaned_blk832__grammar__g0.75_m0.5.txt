@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 832 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra yadyapi yaugapadyatas tūrṇam eva caturṇāṃ milanaṃ samapadyata, tathāpi prema-tāratamyam anukramya kṛṣṇāvadhāna-kramaḥ kramate sma yasmāt tasmād eva tathā śrī-śuka-devaḥ pracakrame yaśodety-ādinā ।

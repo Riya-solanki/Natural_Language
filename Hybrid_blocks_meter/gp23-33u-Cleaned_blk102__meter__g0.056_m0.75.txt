@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 102 | label: meter | g:0.056 m:0.75 ---
+
+pṛcchato' pi purato mama bhavyaṃ
+maunam eva kurutha pratigīr yat ।
+tad-bhavad-vraja-gṛhe gṛha-bhājāṃ
+kiṃ nirāmayam atha pratibhāti? ।। [svāgatā]

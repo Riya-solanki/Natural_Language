@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2717 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ sa cintayitvā tu viṣṇuḥ satyaparākramaḥ 
+ity uktvaikena hastena kṛtvā govardhanācalam । 
+dadhāra līlayā kṛṣṇaś chatrākam iva bālakaḥ । 
+bāhvor balaṃ darśayiṣyan samīpaṃ taṃ mahīdharam 
+dorbhyāṃ utpāṭayāmāsa kṛṣṇo girir ivāparaḥ ।। 
+samūlaviṭapaskandhaś cacāla sa mahāgiriḥ । ghaṇāghaṇakṛtaḥ śailaḥ saprāṇa iva niḥśvasan । 
+sa dhṛtaḥ saṃgato meghair giriḥ savyena pāṇinā 
+gṛhabhāvaṃ gatas tatra gṛhākāreṇa varcasā ।।

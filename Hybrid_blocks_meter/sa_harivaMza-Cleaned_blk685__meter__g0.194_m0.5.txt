@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 685 | label: meter | g:0.194 m:0.5 ---
+
+ugrāyudhaḥ sa cotsikto mayā vinihato yudhi 
+darpānvito darparuciḥ satataṃ cānaye rataḥ ।।

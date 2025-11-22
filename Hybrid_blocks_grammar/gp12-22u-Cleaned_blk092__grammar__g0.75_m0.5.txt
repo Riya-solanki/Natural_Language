@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 92 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ sati tasya bhāva-viśeṣodbhavaḥ samudbhāvyate । pūrvam evāyaṃ śrī-yuta-kṛṣṇaḥ pārāvāra-bhaviṣṇu-sthāsnu-cariṣṇu-duḥkha-dāna-dhṛṣṇoḥ kṛṣṇādhiṣṇyasya kāliyasya nirākariṣṇu-tṛṣṇo' pi, tat-patnībhyo' patrapiṣṇutayā cirāya tūṣṇīṃ babhūva । samprati tu go-gopāla-kāla-dharmāpāta-jātāsahiṣṇutayā vardhiṣṇu-krodhaḥ suṣṭhu jātaḥ ।

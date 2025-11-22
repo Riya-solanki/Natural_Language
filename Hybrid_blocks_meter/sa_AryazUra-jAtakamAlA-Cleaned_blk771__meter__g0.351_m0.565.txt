@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 771 | label: meter | g:0.351 m:0.565 ---
+
+doṣapravṛtterviniyamyamāno niveśyamānaśca guṇābhijātye ।
+pitreva putraḥ kṣitipena tena nananda lokadvitaye api lokaḥ ।।

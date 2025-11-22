@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 625 | label: meter | g:0.25 m:0.5 ---
+
+kṣataḥ kila kare viprāstasya śākaraso asravat ।
+sa vai śākarasaṃ dṛṣṭvā harṣāviṣṭaḥ pranuttavān ।।

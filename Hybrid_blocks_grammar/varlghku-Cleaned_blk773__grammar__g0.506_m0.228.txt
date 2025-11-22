@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 773 | label: grammar | g:0.506 m:0.228 ---
+
+anunāsikasya kvijhaloḥ kṅiti ।।
+anunāsikāntasyopadhāyā dīrghaḥ syātkvau jhalādau ca kṅiti । idamivācarati idāmati । rājeva rājānati । panthā iva pathīnati ।।

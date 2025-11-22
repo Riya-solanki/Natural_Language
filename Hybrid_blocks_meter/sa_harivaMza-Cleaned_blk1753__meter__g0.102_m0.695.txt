@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1753 | label: meter | g:0.102 m:0.695 ---
+
+saṃsaktaś ca suparṇena kālanemir mahāsuraḥ 
+sarvaprāṇena mahatīṃ gadām udyamya bāhubhiḥ 
+mumoca jvalitāṃ ghorāṃ saṃrabdho garuḍopari ।।

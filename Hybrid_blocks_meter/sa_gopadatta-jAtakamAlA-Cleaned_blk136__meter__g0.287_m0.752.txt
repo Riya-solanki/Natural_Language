@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 136 | label: meter | g:0.287 m:0.752 ---
+
+karmāvedhasamuddhatasphuṭaśikhijvālāvalīpiṅgalo
+naivāvīcir api vyathām upaharaty āryasya tāṃ dāruṇaḥ ।
+dhīdaurbalyakarāḥ samādhividhurāḥ sadvṛttavelābhido
+yāṃ kurvanti manojvarāḥ paricayāḥ sphītāvalepā malāḥ ।।

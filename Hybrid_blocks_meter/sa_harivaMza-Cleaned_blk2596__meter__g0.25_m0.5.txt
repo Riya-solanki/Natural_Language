@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2596 | label: meter | g:0.25 m:0.5 ---
+
+yathā tvam asi lokānāṃ tathāhaṃ tac ca me matam 
+ubhāv ekaśarīrau svo jagadarthe dvidhā kṛtau ।। 
+ahaṃ vā śāśvataḥ kṛṣṇas tvaṃ vā śeṣaḥ purātanaḥ । 
+lokānāṃ śāśvato devas tvaṃ hi śeṣaḥ sanātanaḥ 
+āvayor dehamātreṇa dvidhedaṃ dhāryate jagat ।।

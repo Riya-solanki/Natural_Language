@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11474 | label: meter | g:0.316 m:0.5 ---
+
+evaṃ nanṛtuḥ pariśaṃsayanto govinda nānyo hi na caiva darśanam ।
+gośabdavācyāstu samastavāco gobhiśca sarvaiḥ pratipādyate yataḥ ।।

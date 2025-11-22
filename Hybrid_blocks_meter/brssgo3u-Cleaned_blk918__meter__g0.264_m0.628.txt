@@ -1,0 +1,6 @@
+--- source: brssgo3u-Cleaned.txt | block: 918 | label: meter | g:0.264 m:0.628 ---
+
+yathā maunaṃ gārhasthyaṃ caitāvāśramau śrutimantāvevamitarāvapi vānaprasthagurukulavāsau ।
+darśitā hi purastācchrutiḥ- atapaḥ eva dvitīyo brahmacaryācāryakulavāsī tṛtīyaḥ' ityādyā ।
+tasmāccaturṇāmapyāśramāṇāmupadeśāviśeṣāttulyavadvikalpasamuccayābhyāṃ pratipattiḥ ।
+itareṣāmiti dvayorāśramayorbahuvacanaṃ vṛttibhedāpekṣayānuṣṭhātṛbhedāpekṣayā veti draṣṭavyam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4578 | label: meter | g:0.194 m:0.5 ---
+
+vāsavaṃ ca raṇe jitvā pārijāto hṛto balāt 
+nirjitaś caiva bhagavān varuṇo lohitahrade ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4263 | label: meter | g:0.194 m:0.75 ---
+
+pralambaś ca mahākāyo rauhiṇeyena dhīmatā 
+dānavo muṣṭinaikena kaṃsāmātyo nipātitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10438 | label: hybrid | g:0.521 m:0.5 ---
+
+anaṃ tavedapratipāditopi lakṣmīrna vai veda tava svarūpam ।
+caturmukho naiva veda na vāyurasau na vettīti kimatra citram ।।

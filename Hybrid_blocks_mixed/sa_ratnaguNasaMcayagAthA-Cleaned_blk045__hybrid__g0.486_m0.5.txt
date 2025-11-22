@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 45 | label: hybrid | g:0.486 m:0.5 ---
+
+saṃjñeti nāma parikīrtitu nāyakena saṃjñāṃ vibhāviya prahāṇa vrajanti pāram 
+ye atra saṃjñavigamaṃ anuprāpnuvanti te pāraprāpta sthita pāramite hu bhonti ।।

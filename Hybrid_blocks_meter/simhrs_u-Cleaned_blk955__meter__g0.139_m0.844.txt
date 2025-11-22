@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 955 | label: meter | g:0.139 m:0.844 ---
+
+tatra daiva-pāratantryeṇa, yathā-
+śailātmajāpi pitur ucchiraso' bhilāṣaṃ
+vyarthaṃ samarthya lalitaṃ vapur ātmanaś ca ।
+sakhyoḥ samakṣam iti cādhika-jāta-lajjā
+śūnyā jagāma bhavanābhimukhī kathaṃcit ।।

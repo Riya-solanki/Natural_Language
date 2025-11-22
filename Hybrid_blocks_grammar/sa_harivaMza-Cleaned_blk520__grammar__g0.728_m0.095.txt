@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 520 | label: grammar | g:0.728 m:0.095 ---
+
+kṣemadhanvasutas tv āsīd devānīkaḥ pratāpavān 
+āsīd ahīnagur nāma devānīkātmajaḥ prabhuḥ 
+devānīkasya dāyādo ahīnagas tu pratāpavān । 
+ahīnagos tu dāyādaḥ sahasvān nāma pārthivaḥ ।। 
+sudhanvanaḥ sutaś caiva tatojajñe nalo nṛpa । uktho nāma sa dharmātmā nalaputro babhūva ha । vajranābhaḥ sutas tasya ukthasya ca mahātmanaḥ । pāriyātro mahāyaśāḥ nalas tasyātmajaś caiva । śaṅkhas tasya suto vidvān dhyuṣitāśva iti śrutaḥ । dhyuṣitāśvasuto vidvān rājā viśvasahaḥ kila ।। hiraṇyanābhaḥ kauśalyo brahmiṣṭhas tasya cātmajaḥ । puṣpas tasya suto vidvān arthasiddhis tu tatsutaḥ ।। sudarśanaḥ sutas tasya agnivarṇaḥ sudarśanāt । agnivarṇasya śīghras tu śīghrasya tu maruḥ sutaḥ ।। marus tu yogam āsthāya kalāpadvīpam āsthitaḥ । tasyāsīd viśrutavataḥ putro rājā bṛhadbalaḥ । prasusruto marusutaḥ susaṃdhis tasya cātmajaḥ । susaṃdhes tu suto marṣaḥ sahasrān nāma nāmataḥ । āsīt sahasrataḥ putro rājā viśrutavān iti । 
+nalau dvāv eva vikhyātau purāṇe bharatarṣabha 
+vīrasenātmajaś caiva yaś cekṣvākukulodvahaḥ ।।

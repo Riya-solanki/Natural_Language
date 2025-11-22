@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 400 | label: meter | g:0.25 m:0.75 ---
+
+"varatanukabarīvidhāyinā surabhinakhena narendrapāṇinā ।
+apacitakusumāpi vallarīyaṃ samajani vṛntanilīnaṣaṭpadā" ।।

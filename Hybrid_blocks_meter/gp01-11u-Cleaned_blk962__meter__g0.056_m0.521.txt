@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 962 | label: meter | g:0.056 m:0.521 ---
+
+snigdhā nāryaḥ śakaṭam abhito mātarau putrayos tair
+jñātājñātair akhila-caritair dhinvate smāviśeṣāt ।
+premṇaḥ seyaṃ prakṛtir akhilāścarya-rūpā yad uccaiḥ
+sarvaṃ svīyaṃ viṣayam amanaḥ-spṛṣṭa-tulyaṃ karoti ।। [mandākrāntā]

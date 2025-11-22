@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 912 | label: meter | g:0.264 m:0.635 ---
+
+pulastya uvāca ।
+ityevamukto munibhiḥ sukeśī praṇamya tān brahmanidhīn maharṣīn ।
+jagāma cotpatya puraṃ svakīyaṃ muhurmuhurdharmamavekṣamāṇaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 188 | label: grammar | g:0.729 m:0.5 ---
+
+[] tataś ca snānīyādi-ramya-karais taiḥ kiṅkarair anugamyatayā sa tu vara-kiśora-vayā nikhila-trātā rāma-bhrātā prātar-ācārā-caraṇāya sadeśam upaveśa-pradeśaṃ pūrvam eva viveśa ।

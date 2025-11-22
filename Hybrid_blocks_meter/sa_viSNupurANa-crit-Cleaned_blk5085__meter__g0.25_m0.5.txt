@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5085 | label: meter | g:0.25 m:0.5 ---
+
+tasya vācaṃ nadī sā tu mattoktām avamanya vai 
+nājagāma tataḥ kruddho halaṃ jagrāha lāṅgalī ।।

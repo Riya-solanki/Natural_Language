@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3534 | label: grammar | g:0.688 m:0.5 ---
+
+tatrāntare ca sagaro hayamedham ārebhe tatra ca putrair adhiṣṭhitam asyāśvaṃ ko apy apahṛtya bhuvo bilaṃ praviveśa ।।

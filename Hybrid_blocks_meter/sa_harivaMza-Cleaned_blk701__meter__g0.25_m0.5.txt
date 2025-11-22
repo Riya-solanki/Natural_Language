@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 701 | label: meter | g:0.25 m:0.5 ---
+
+pravṛttacakraḥ pāpo asau tvaṃ cāśaucagataḥ prabho 
+na caiṣa prathamaḥ kalpo yuddhaṃ nāma kadācana ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8139 | label: meter | g:0.25 m:0.625 ---
+
+miyante cālpavayasaḥ sā pīḍā petasambhavā ।
+akasmādvṛttiharaṇamapratiṣṭhā janeṣu vai ।।

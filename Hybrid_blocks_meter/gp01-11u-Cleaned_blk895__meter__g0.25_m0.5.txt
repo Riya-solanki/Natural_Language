@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 895 | label: meter | g:0.25 m:0.5 ---
+
+[] atha rāja-jyāyaḥ-prajāvatyaḥ sahāsam ūcuḥ-stanaṃ kasya pāsyasi?

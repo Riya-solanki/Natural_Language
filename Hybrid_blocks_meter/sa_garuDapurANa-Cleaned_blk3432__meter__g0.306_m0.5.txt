@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3432 | label: meter | g:0.306 m:0.5 ---
+
+dātā daridraḥ kṛpaṇor'thayuktaḥ puttro avidheyaḥ kujanasya sevā ।
+paropakāreṣu narasya mṛtyuḥ prajāyate duścaritāni pañca ।।

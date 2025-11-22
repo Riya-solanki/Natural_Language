@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4301 | label: meter | g:0.194 m:0.625 ---
+
+dagdhā vārāṇasī caiva keśavena mahātmanā 
+sānubandhaḥ sarāṣṭraś ca kāśīnām adhipo hataḥ ।।

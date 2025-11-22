@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1013 | label: grammar | g:0.595 m:0.452 ---
+
+taddhitārthottarapadasamāhāre ca ।।
+taddhitārthe viṣaye uttarapade ca parataḥ samāhāre ca vācye diksaṃkhye prāgvat । pūrvasyāṃ śālāyāṃ bhavaḥ - pūrvā śālā iti samāse jāte ।।

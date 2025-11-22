@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2538 | label: meter | g:0.194 m:0.625 ---
+
+śuṣyate ghaṇṭikāsthānaṃ tadā dhyānaṃ parityajet 
+japadhyānārcanād eva sañjātopaśamaṃ na hi ।।

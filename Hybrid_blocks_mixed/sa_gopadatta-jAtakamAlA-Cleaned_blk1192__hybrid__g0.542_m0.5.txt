@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1192 | label: hybrid | g:0.542 m:0.5 ---
+
+mṛtena sārdhaṃ na vasanti sāgarāḥ prasiddhir eṣām iyam eva śāśvatī ।
+ato mamāśritya mṛtaṃ kaḍevaraṃ tarantu santo ambunidhiṃ sudustaram ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4372 | label: hybrid | g:0.51 m:0.5 ---
+
+nātrāścaryaṃ yajjagad vai samagraṃ kramatrayaṃ naiva pūrṇaṃ tavādya ।
+krameṇa tvaṃ laṅghayituṃ samartho līlāmetāṃ kṛtavān lokanātha ।।

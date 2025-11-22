@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 83 | label: meter | g:0.056 m:0.979 ---
+
+śubhaṃyu-vana-mañjule savitṛjā-rucā saṅkule
+prasūna-gaṇa-rājite bhramara-kokila-bhrājite ।
+sugandha-marud-añcite kumuda-bandhu śobhācite
+samasta-guṇa-niścite nidhitayā ciraṃ sañcite ।। [pṛthvī]

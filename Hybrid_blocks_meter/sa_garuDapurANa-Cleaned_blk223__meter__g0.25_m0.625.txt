@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 223 | label: meter | g:0.25 m:0.625 ---
+
+pratyuṣasya viduḥ putramṛṣiṃ nāmnā tu devalam ।
+viśvakarṃmā prabhāsasya vikhyāto devavardhakiḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1230 | label: grammar | g:0.562 m:0.5 ---
+
+atha tasya haṃsādhipateḥ sarvasattvahitasumukhasya ca senāpaterguṇātiśayaprabhāvavismitamanasaḥ siddharṣividyādharadaivatagaṇāstayoḥ kīrtyāśrayābhiḥ kathābhistatra tatrābhiremire ।

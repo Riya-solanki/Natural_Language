@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 6 | label: meter | g:0.14 m:0.578 ---
+
+atha vidyāsamuddeśa-prakaraṇa-nāmakaḥ tṛtīyo adhyāyaḥ
+prakaraṇa

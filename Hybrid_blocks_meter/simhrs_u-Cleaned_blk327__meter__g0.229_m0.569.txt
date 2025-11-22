@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 327 | label: meter | g:0.229 m:0.569 ---
+
+atha nirdeśaḥ-
+nirdeśas tu bhavet so' yam aham ity ādi-bhāṣaṇam ।। athā-
+ete vayam amī dārāḥ kanyeyaṃ kula-jīvitam ।
+brūta yenātra vaḥ kāryam anāsthā bāhya-vastuṣu ।।

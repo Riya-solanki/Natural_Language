@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 7 | label: grammar | g:0.583 m:0.5 ---
+
+karṇe dharmakathā mukhe paricitaṃ dharmābhirāmaṃ vacaś citte dharmamanorathaḥ praṇayinī sarvatra dharmasthitiḥ ।
+kāye dharmamayī kriyā parikaraḥ so ayaṃ śubhaprāptaye kalpāpāyapade apy upaplavalavair aspṛṣṭavelāphalaḥ ।।

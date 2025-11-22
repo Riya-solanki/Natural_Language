@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4657 | label: meter | g:0.194 m:0.5 ---
+
+na bhayaṃ vidyate loke tava subhru viśeṣataḥ 
+bhayadas tava vāmoru pitā devāntako raṇe ।।

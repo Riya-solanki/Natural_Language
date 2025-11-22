@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 829 | label: meter | g:0.25 m:0.5 ---
+
+madhūdgārasmerabhramarabharahūṃkāramukharaṃ śaraṃ sākṣān mīnadhvajavijayacāpacyutam iva ।
+nilīyānyonyasminn upari sahakārāṅkuramayī samīkṣante pakṣmāntarataralatārā virahiṇaḥ ।।

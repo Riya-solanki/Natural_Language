@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9043 | label: meter | g:0.25 m:0.5 ---
+
+kapilāṃ yaḥ pibecchūdro yaḥ paṭhedvaidikākṣaram ।
+dhārayedvā brahmasūtraṃ kā gatistasya mādhava ।।

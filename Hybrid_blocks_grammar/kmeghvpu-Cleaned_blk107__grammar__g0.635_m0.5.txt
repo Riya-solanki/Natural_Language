@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 107 | label: grammar | g:0.635 m:0.5 ---
+
+etat kṛtvā priyam anucitaprārthanāvartmano me sauhārdād vā vidhura iti vā mayy anukrośabuddhyā ।
+iṣṭān deśān vicara jalada prāvṛṣā saṃbhṛtaśrīr mā bhūd evaṃ kṣaṇam api ca te vidyutā viprayogaḥ ।।

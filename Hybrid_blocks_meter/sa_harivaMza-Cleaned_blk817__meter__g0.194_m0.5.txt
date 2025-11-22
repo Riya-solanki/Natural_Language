@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 817 | label: meter | g:0.194 m:0.5 ---
+
+kramaṃ praṇīya pāñcālaḥ śikṣām utpādya kevalām 
+yogācāryagatiṃ prāpa yaśaś cāgryaṃ mahātapāḥ ।।

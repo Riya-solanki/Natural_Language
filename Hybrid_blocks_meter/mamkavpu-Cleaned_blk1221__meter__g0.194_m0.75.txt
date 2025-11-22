@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1221 | label: meter | g:0.194 m:0.75 ---
+
+{tataḥ kumudanāthena kāminīgaṇḍapāṇḍunā ।
+netrānandena candreṇa māhendrī digalaṅkṛtā ।।}

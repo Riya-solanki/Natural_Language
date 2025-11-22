@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3997 | label: meter | g:0.194 m:0.5 ---
+
+tasya karmāṇy ahaṃ vipra śrotum icchāmi tattvataḥ 
+anantaṃ yaṃ vidur nāgam ādidevaṃ mahaujasam ।।

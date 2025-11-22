@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6768 | label: meter | g:0.272 m:0.845 ---
+
+yaḥ kaścidvaiṣṇavo loke mithyācāro apyanāśramī ।
+punāti sakalāṃllokānsahasrāṃśurivoditaḥ ।।

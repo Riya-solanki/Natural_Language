@@ -1,0 +1,6 @@
+--- source: brsgor2u-Cleaned.txt | block: 339 | label: hybrid | g:0.481 m:0.446 ---
+
+prāṇasya karaṇavṛttitvābhāve jīvavadbhoktṛtvaṃ syāditi śaṅkate- syādetaditi ।
+prāṇo na bhoktā, bhogopakaraṇatvāt, cakṣurādivaditi sūtrārthamāha- tuśabda ityādinā ।
+yathā bṛhadrathantarayoḥ sarvatra sahaprayujyamānatvena sāmatvena vā sāmyātsahapāṭhastathā karaṇaiḥ sahopakaraṇatvena sāmyātprāṇasya pāṭha iti na hetvasiddhirityarthaḥ ।
+kiñca prāṇo na bhoktā, sāvayavatvāt, jaḍatvādbhautikatvācca, dehavat ।।

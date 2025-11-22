@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1380 | label: meter | g:0.25 m:0.5 ---
+
+eṣa te vaiṣṇavaḥ śrīmān prādurbhāvo adbhutaḥ śubhaḥ 
+kathito vai mahārāja yathāśrutam ariṃdama । 
+bhūyaś ca jāmadagnyo ayaṃ prādurbhāvo mahātmanaḥ ।।

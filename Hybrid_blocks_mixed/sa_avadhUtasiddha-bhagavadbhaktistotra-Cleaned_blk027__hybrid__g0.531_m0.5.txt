@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 27 | label: hybrid | g:0.531 m:0.5 ---
+
+asyātmano viṣayiṇaḥ paratantravṛtter anyaś ca nātha jagataḥ prakṛteḥ parasya ।
+saṃyojane ca viratau ca paro asi hetuḥ saṃsāracakraparivartanayantravāhaḥ ।।

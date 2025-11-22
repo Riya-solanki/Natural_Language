@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10198 | label: grammar | g:0.583 m:0.5 ---
+
+ato guṇāṃstava devasya viṣṇo stotuṃ sadā smo na hareḥ kadāpi ।
+nāhaṃ na keśau na ca gīrna rudro na dakṣakanyā na ca menakāsutā ।।

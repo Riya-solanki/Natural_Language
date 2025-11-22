@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 496 | label: meter | g:0.194 m:0.75 ---
+
+pāradā muktakeśās tu pahlavāḥ śmaśrudhāriṇaḥ 
+niḥsvādhyāyavaṣaṭkārāḥ kṛtās tena mahātmanā ।।

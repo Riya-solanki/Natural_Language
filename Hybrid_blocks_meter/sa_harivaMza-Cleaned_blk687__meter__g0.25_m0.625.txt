@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 687 | label: meter | g:0.25 m:0.625 ---
+
+ajamīḍhasya dāyādo vidvān rājā yavīnaraḥ 
+dhṛtimāṃs tasya putras tu tasya satyadhṛtiḥ sutaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 45 | label: meter | g:0.25 m:0.5 ---
+
+śrutvā dharmaṃ vijānāti śrutvā pāpān nivartate ।
+śrutvā anarthaṃ tyajati śrutvā prāpnoti nirvṛtim ।।

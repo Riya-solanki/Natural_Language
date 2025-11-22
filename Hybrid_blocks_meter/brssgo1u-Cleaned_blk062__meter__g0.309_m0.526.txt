@@ -1,0 +1,8 @@
+--- source: brssgo1u-Cleaned.txt | block: 62 | label: meter | g:0.309 m:0.526 ---
+
+vṛttānuvādena saṃgatiṃ vadannuttarasutramavatārayati-jagaditi ।
+cedanasya brahmaṇo jagatkāraṇatvoktyā sarvajñatvamarthātpratijñātaṃ sūtrakṛtā, cetanasṛṣṭerjñānapūrvakatvāt ।
+tathā ca brahma sarvajñaṃ, sarvakāraṇatvāt, yo yatkartā sa tajjñaḥ, yathā kulāla iti sthitam ।
+tadevārthikaṃ sarvajñatvaṃ pradhānādinirāsāya vedakartṛtvahetunā draḍhayannāhetyarthaḥ ।
+hetudvayasyaikārthasādhanatvāt, ekaviṣayatvamavāntarasaṃgatiḥ ।
+yadvā vedasya nityatvādbrahmaṇaḥ sarvahetutā nāstītyākṣepasaṃgatyā vedahetutvamucyate aasya mahato bhūtasya niśvasitametadyadṛgvedo yajurvedaḥ sāmavedo atharvāṅgirasaḥ'

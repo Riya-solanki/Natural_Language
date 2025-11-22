@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11568 | label: hybrid | g:0.321 m:0.493 ---
+
+natvā tu sā śrīnivāsaṃ ca devī uvāsa ha svāmisaraḥ samīpe ।
+tasmindine brāhmaṇādīṃśca sarvānsaṃtarpayāmāsa ca ṣaḍrasānnaiḥ ।।

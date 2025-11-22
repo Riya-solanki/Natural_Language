@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4249 | label: meter | g:0.25 m:0.5 ---
+
+etenāviśya dharmiṣṭhe bhāvyaṃ bhūtena sāmpratam ।
+ko apyaṭasmākaṃ chalayituṃ surūpī bhuvi saṃsthitaḥ ।।

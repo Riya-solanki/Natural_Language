@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 38 | label: grammar | g:0.75 m:0.5 ---
+
+[] yatra gāvaḥ saṅketita-svarādi-viśeṣeṇaiva mithaḥ saṅkīrṇā vikīrṇāś ca bhavanti sma, na tu daṇḍenopaghātaṃ viśīrṇāḥ kriyante sma । yatra ca sakhiṣu tābhyāṃ saha parasparaṃ maṇḍayanteṣu nandayanteṣu krīḍā-janayanteṣu ca parama-kautukam āvirbhavati sma ।

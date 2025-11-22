@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 464 | label: grammar | g:0.785 m:0.312 ---
+
+nityamityatra kiṃ tāvat tattvam ?, arthāntarasyānutpattidharmakasyātmahānānupapattirnityatvaṃ taccābhāve nopapadyate, bhāktaṃ tu bhavati yattatrātmānamahāsītuyad bhūtvā na bhavati na jātu tat punarbhavati tatra nitya iva nityo ghaṭābhāva ityayaṃ padārtha iti।
+tatra yathājātīyakaḥ śabdo na tathājātīyakaṃ kāryaṃ kiñcid nityaṃ dṛśyate ity avyabhicāraḥ ।।

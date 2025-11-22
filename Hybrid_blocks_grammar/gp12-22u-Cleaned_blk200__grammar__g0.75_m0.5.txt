@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 200 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tad-anugatā deva-vispardhinaḥ pare' py asvaratayā gardabhā gardantaḥ pratighāt pratighātam ācarantaḥ sahasā ruddhādhvānaḥ saha yudhvānaḥ paryāgatās tṛṇavan-matāḥ paramānandārāma-rāma-kṛṣṇābhyāṃ hasadbhyāṃ vilasadbhyām evākhava iva dhṛtāsava eva tucchīkṛtya gṛhīta-puccha-caraṇās teṣāṃ tāla-bhakṣaṇa-saukaryārtham ivādhimadhyām adhyavasthita-tṛṇa-kṣmāpaty-upari kṣipram eva parikṣiptāḥ kṣapita-jīvitāḥ kṣiti-nipatitāḥ saha nistala-tāla-phalaiḥ ketava iva rāhubhir dināni kānicit kaṃsa-pakṣīyān abhīṣayanta ।

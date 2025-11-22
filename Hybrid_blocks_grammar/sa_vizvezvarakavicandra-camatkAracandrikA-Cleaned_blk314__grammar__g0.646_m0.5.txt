@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 314 | label: grammar | g:0.646 m:0.5 ---
+
+atra sātapatrān śatrūn pratāpatapanaḥ santāpayatīti vācyasya nirātapatrān naḥ santāpayatīti vyaṅgyasya ca prādhānyaṃ samameva pratīyate ।

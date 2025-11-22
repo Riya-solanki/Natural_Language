@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 303 | label: meter | g:0.141 m:0.933 ---
+
+yathā-
+ṛjutāṃ nayataḥ smarāmi te
+śaram utsaṅga-niṣaṇṇa-dhanvanaḥ ।
+madhunā saha sasmitāṃ kathāṃ
+nayanopānta-vilokitaṃ ca yat ।।

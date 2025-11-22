@@ -1,0 +1,4 @@
+--- source: brsgor2u-Cleaned.txt | block: 182 | label: meter | g:0.25 m:0.625 ---
+
+īśvarasya pradhānādipreraṇānupapatteścāsāmañjasyamityāha sūtrakāraḥ- adhiṣṭhāneti ।
+pradhānādikaṃ cetanasyānadhiṣṭheyaṃ, apratyakṣatvāt, īśvaravat, vyatirekeṇa mṛgādivaccetyarthaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 515 | label: grammar | g:0.552 m:0.5 ---
+
+yāntyā muhur valitakandharam ānanaṃ tad āvṛttavṛntaśatapatranibhaṃ vahantyā ।
+digdho amṛtena ca viṣeṇa ca pakṣmalākṣyā gāḍhaṃ nikhāta iva me hṛdaye kaṭākṣaḥ ।।

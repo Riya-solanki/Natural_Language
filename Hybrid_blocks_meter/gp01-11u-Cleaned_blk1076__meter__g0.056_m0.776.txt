@@ -1,0 +1,10 @@
+--- source: gp01-11u-Cleaned.txt | block: 1076 | label: meter | g:0.056 m:0.776 ---
+
+yeṣāṃ duḥkhaṃ tad-guhā-garta-rodhe
+tadvan nāsīd yadvad etad-viyoge ।
+dṛṣṭvākasmād enam ete bakāriṃ
+prāṇān prāntākarṣaṇenaiva jagmuḥ ।। [śālinī]
+sarve tasmād utthitā rodanārtās
+tadvad ārtaṃ kṛṣṇam ahnāya cakruḥ ।
+so' pi kṣmābhṛt tat-pratidhvāna-dambhāt
+krandann āsīd ity amībhir vyabhāvi ।। [śālinī]

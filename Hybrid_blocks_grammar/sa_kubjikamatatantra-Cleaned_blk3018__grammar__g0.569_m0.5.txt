@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 3018 | label: grammar | g:0.569 m:0.5 ---
+
+yā sā kubji parā mahaughajananī sañcodito ahaṃ tvayā tvaṃ kubjā parakubjinī mama punas tvāhaṃ mayā tvaṃ punaḥ 
+tvayādiṣṭacatuṣṭayaṃ kramapathaṃ teṣāṃ kramo vai yathā sampreṣyātmagataṃ kramaughaparamaṃ cājñā gṛhītānaghe ।।

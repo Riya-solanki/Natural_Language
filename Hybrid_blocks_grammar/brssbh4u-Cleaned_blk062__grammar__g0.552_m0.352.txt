@@ -1,0 +1,19 @@
+--- source: brssbh4u-Cleaned.txt | block: 62 | label: grammar | g:0.552 m:0.352 ---
+
+āvṛttiḥ sarva upāsaneṣu ādartavya iti sthitam ādye adhikaraṇe ।
+tatra yāni tāvat samyak darśanārthāni upāsanāni tāni avaghātādivat kāryaparyavasānāni iti jñātameva eṣām āvṛttiparimāṇam ।
+na hi samyak darśane kārye niṣpanne yatnāntaraṃ kiñcit śāsituṃ śakyam ।
+aniyojyabrahmātmatvapratipatteḥ śāstrasya aviṣayatvāt ।
+yāni punaḥ abhyudayaphalāni teṣu eṣā cintā kiṃ kiyantañcit kālaṃ pratyayam āvartya uparamet uta yāvajjīvam āvartayet iti ।
+kiṃ tāvat prāptam ।
+kiyantañcit kālaṃ pratyayam abhyasya utsṛjet āvṛttiviśiṣṭasya upāsanaśabdārthasya kṛtatvāt iti ।
+evaṃ prāpte brūmaḥ - āprāyaṇāt eva āvartayet pratyayam ।
+antyapratyayavaśāt adṛṣṭaphalaprāpteḥ ।
+karmāṇi api hi janmāntara upabhogyaṃ phalam ārabhamāṇāni tat anurūpaṃ bhāvanāvijñānaṃ prāyaṇakāla ākṣipanti, asavijñāno bhavati savijñānamevānvavakrāmati' ayaccittastenaiṣa prāṇamāyāti, prāṇastejasā yuktaḥ sahātmanā yathāsaṃkalpitaṃ lokaṃ nayati' iti ca evamādiśrutibhyaḥ ।
+tṛṇajalūkānidarśanāt ca ।
+pratyayāḥ tu ete svarūpa anuvṛttiṃ muktvā kim anyat prāyaṇakālabhāvi bhāvanāvijñānam apekṣeran ।
+tasmāt ye pratipattavyaphalabhāvanātmakāḥ pratyayaḥ teṣu aprāyaṇāt āvṛttiḥ ।
+tathā ca śrutiḥ -'sa yāvatkraturayamasmāllokātpraiti' iti prāyaṇakāle api pratyaya anuvṛttiṃ darśayati ।
+smṛtiḥ api - ayaṃ yaṃ vāpi smaranbhāvaṃ tyajatyante kalevaram ।
+taṃ tamevaiti kaunteya sadā tadbhāvabhāvitaḥ' iti aprayāṇakāle manasācalena' iti ca ।
+aso antavelāyāmetattrayaṃ pratipadyeta' iti ca maraṇavelāyām api kartavyaśeṣaṃ śrāvayati ।।

@@ -1,0 +1,8 @@
+--- source: mamkpb_u-Cleaned.txt | block: 100 | label: meter | g:0.25 m:0.535 ---
+
+avivakṣitavācyo yastatra vācyaṃ bhaveddhvanau ।
+arthāntare saṃkramitamatyantaṃ vā tiraskṛtam ।।
+lakṣaṇāmūlagūḍhavyaṅgyaprādhānye satyeva, avivakṣitaṃ vācyaṃ yatra sa "dhvanau'; ityanuvādāt dhvaniriti jñeyaḥ ।
+tatra ca vācyaṃ kvacidanupayujyamānatvādarthāntare pariṇamitam ।
+yathā tvāmasmi vacmi viduṣāṃ samavāyo atra tiṣṭhati ।
+ātmīyāṃ matimāsthāya sthitimatra vidhehi tat ।।

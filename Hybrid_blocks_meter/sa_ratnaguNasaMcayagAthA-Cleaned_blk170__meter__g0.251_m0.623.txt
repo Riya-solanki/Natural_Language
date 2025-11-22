@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 170 | label: meter | g:0.251 m:0.623 ---
+
+pratyantamlecchajanavarjitaantadeśāḥ svakabhūmi kāṅkṣavigatāḥ sada merukalpāḥ 
+dharmārtha jīvita tyajanti prayuktayogā avivartiyāna imi liṅga prajānitavyā ।।

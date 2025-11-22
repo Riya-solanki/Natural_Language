@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11623 | label: meter | g:0.307 m:0.623 ---
+
+śrīmuṣṭadeśe prādurāsīddharistu vārāhaviṣṇustvajanaḥ purāṇaḥ ।
+bhittvācābdhiṃ viviśe taṃ mahātmā rasātale saṃsthitaṃ bhūtalaṃ ca ।।

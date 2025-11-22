@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4400 | label: meter | g:0.25 m:0.583 ---
+
+bālyāt prabhṛti rāmeṇa māneṣu viniyojitaḥ 
+rāmād anantaraṃ caiva mānitaḥ sarvavṛṣṇibhiḥ ।। 
+rāmasyaiva priyasutaḥ so abhavaj jyeṣṭha ity api । 
+jātamātre tataḥ kṛṣṇaḥ śubhaṃ tat puram āviśat 
+nihatāmitrasāmantaḥ śakrodyānaṃ yathāmaraḥ ।।

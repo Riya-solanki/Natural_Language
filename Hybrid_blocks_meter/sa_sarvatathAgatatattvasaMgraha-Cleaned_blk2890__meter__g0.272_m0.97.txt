@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2890 | label: meter | g:0.272 m:0.97 ---
+
+vajradhātvīśvaryādyābhirbuddhamudrābhiragrataḥ ।
+samārabhya catuḥpārśvamālayā tvabhiṣicyatī- ।।

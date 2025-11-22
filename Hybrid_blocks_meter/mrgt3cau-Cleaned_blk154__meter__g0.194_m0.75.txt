@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 154 | label: meter | g:0.194 m:0.75 ---
+
+gurvagniśivavidyābhyaḥ kṣetrapālāya cāṃśakam ।
+samuddhṛtya sahāyena vibhajyādyātkṣitau śuciḥ

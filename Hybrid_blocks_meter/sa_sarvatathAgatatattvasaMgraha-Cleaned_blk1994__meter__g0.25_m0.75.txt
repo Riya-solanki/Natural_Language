@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1994 | label: meter | g:0.25 m:0.75 ---
+
+[tasya] sarvapārśveṣu samayāgryo yathopari ।
+dharmavajryādayo lekhyāḥ svavidyābhiḥ samandhitāḥ ।।

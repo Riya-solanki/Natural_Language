@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 871 | label: meter | g:0.0 m:0.5 ---
+
+patipatnyoḥ prasūḥ śvaśrūḥ śvaśurastu pitā tayoḥ

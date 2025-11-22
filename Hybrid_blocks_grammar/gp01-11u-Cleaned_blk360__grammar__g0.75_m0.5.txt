@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 360 | label: grammar | g:0.75 m:0.5 ---
+
+ambaṣṭhas tu viśaḥ putryāṃ brāhmaṇāj jāta ucyate iti cānyatra । ataḥ pādme sṛṣṭi-khaṇḍādau yajñaṃ kurvatā brahmaṇāpy ābhīra-paryāya-gopa-kanyāyāḥ patnītvena svīkāraḥ prasiddhaḥ । eṣa eva ca gopa-vaṃśaḥ śrī-kṛṣṇa-līlāyāṃ saṃvalanam āpsyatīti । sṛṣṭi-khaṇḍa eva tatra spaṣṭīkṛtam asti । tasmāt parama-śaṃsanīya evāsau vaiśyāntaḥ-pāti-mahābhīra-dvija-vaṃśa iti ।

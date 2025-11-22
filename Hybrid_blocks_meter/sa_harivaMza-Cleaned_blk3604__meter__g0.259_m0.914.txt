@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3604 | label: meter | g:0.259 m:0.914 ---
+
+samudyatamahāśastrāḥ pragṛhītaśarāsanāḥ 
+anyonyam abhigarjantaḥ śūrās tatrāvatasthire ।।

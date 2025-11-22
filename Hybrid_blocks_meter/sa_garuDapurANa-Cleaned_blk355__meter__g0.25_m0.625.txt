@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 355 | label: meter | g:0.25 m:0.625 ---
+
+devadevaṃ svabījena aṅgādibhirathācyutam ।
+pūrvamullikhya cābhyukṣya praṇavena tu mantravit ।।

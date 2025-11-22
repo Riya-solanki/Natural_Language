@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 92 | label: meter | g:0.307 m:0.623 ---
+
+naivedyam asmai pradadāti loke yo bhaktiyuktaḥ surasaṃ sugandhim ।
+balī viśiṣṭo naracakracūḍāmaṇyarcitāṅghrī nṛpasevyamānaḥ ।।

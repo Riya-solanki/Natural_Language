@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 238 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca sarvāsu gata-sandehāsu snehātiśayāt kṛṣṇa-mātā savyena pāṇinā pṛṣṭham, apasavyena cibukaṃ spṛṣṭvā kṛṣṇajyeṣṭhaṃ prati sabāṣpam ācaṣṭa, "vatsa nīlāmbara, taveyam ambā mama samakṣaṃ bālyād eva tvayi nātīva vātsalyam ullāsayati, kintu svayam udāsīnavad āsīnā bhavati । tat khalu mama tāralyaṃ katham iva vairalyāya kalyatām? tasmād aham eva tvām upadiśāmi pītāmbareṇa samam avilambam evālambanīyaṃ vrajavartma" iti ।

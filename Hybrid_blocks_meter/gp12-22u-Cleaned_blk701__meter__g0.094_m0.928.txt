@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 701 | label: meter | g:0.094 m:0.928 ---
+
+bhuktvā vastrālepa-veśān gṛhītvā
+vipraṃ vahniṃ gāṃ parikrāmatādrim ।
+nātrāpy aṅghri-krāmitāvaśyakatvaṃ
+svacchandatvād yānam apy atra diṣṭam ।। [śālinī]

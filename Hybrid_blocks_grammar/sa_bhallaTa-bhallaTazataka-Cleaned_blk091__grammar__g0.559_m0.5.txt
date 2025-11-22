@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 91 | label: grammar | g:0.559 m:0.5 ---
+
+grāvāṇo atra vibhūṣaṇaṃ trijagato maryādayā sthīyate nanv atraiva vidhuḥ sthito hi vibudhāḥ sambhūya pūrṇāśiṣaḥ 
+śete codgatanābhipadmavilasadbrahmeha devaḥ svayaṃ daivād eti jaḍaḥ svakukṣibhrtaye so apy ambudhir nimnatām ।।

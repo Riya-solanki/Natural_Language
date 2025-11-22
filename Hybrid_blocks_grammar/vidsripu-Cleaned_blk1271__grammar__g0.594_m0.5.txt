@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1271 | label: grammar | g:0.594 m:0.5 ---
+
+apatyāni prāyo daśa daśa varāhī janayati kṣamābhāre dhuryaḥ sa punar iha nāsīn na bhavitā ।
+padaṃ kṛtvā yaḥ svaṃ phaṇipatiphaṇācakravalaye nimajjantīm antar jaladhivasudhām uttulayati ।।

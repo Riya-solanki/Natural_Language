@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 1023 | label: grammar | g:0.604 m:0.371 ---
+
+apathyānyāha madyetyādi ।।
+madyāranāletyādi madyaṃ surā āranālaṃ kāñjikaṃ tayoḥ pānaṃ neṣṭaṃ na praśastaṃ vā tailaṃ dadhi na neṣṭaṃ tailaṃ tilodbhavaṃ dadhi dugdhavikāraḥ etayorapi pānaṃ na praśastaṃ kaṭutailena sarṣapatailena vapuṣi abhyaṅgaṃ mardanaṃ na kuryāt ।।
+matimān rasāyane adhikaraṇe ityarthaḥ ।।

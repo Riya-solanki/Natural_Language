@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 75 | label: meter | g:0.25 m:0.5 ---
+
+na vāsanāprabodho atra vicitro hetutām iyāt ।
+tasyāpi tatprabodhasya vaicitrye kim nibandhanam ।।

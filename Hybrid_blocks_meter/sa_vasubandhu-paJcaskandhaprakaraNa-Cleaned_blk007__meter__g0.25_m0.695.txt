@@ -1,0 +1,5 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 7 | label: meter | g:0.25 m:0.695 ---
+
+abdhātuḥ katamaḥ । niṣyandatā ।।
+tejodhātuḥ katamaḥ uṣṇatā ।।
+vāyudhātuḥ katamaḥ । paunaḥ punyakampanatā ।।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1135 | label: grammar | g:0.561 m:0.52 ---
+
+pitṛvyamātulamātāmahapitāmahāḥ ।।
+ete nipātyante । piturbhrātā pitṛvyaḥ । māturbhrātā mātulaḥ । mātuḥ pitā mātāmahaḥ । pituḥ pitā pitāmahaḥ ।।

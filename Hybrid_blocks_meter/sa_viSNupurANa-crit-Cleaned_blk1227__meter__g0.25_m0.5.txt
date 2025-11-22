@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1227 | label: meter | g:0.25 m:0.5 ---
+
+na yakṣair na ca daityendrair noragair na ca kiṃnaraiḥ 
+na manuṣyair na paśubhir doṣair naivātmasaṃbhavaiḥ ।।

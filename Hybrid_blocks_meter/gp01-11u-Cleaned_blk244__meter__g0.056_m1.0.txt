@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 244 | label: meter | g:0.056 m:1.0 ---
+
+tatra mātṛ-gaṇataḥ krama-pūrvaṃ
+prāpya yan baka-śamanaḥ samanujñām ।
+ambakāny aharata pratibimba-
+vyājataḥ svatanugāny akhilānām ।। [rathoddhatā]

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1578 | label: meter | g:0.25 m:0.625 ---
+
+tataḥ surān brahmaharīndramukhyān praṇamya saṃpūjya yathāvibhāgam ।
+visarjya bhūtaiḥ sahito mahīdhramadhyāvasanmandaramaṣṭamūrtiḥ ।।

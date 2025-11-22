@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 287 | label: hybrid | g:0.542 m:0.5 ---
+
+[] paurṇamāsī uvāca-paṅkajākṣi, na kācid api śaṅkā manasi śaṅkanīyā ।

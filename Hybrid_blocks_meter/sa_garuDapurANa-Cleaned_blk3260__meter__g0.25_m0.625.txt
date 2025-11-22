@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3260 | label: meter | g:0.25 m:0.625 ---
+
+āyurvedakṛtābhyāsaḥ sarveṣāṃ priyadarśanaḥ ।
+āyuḥ śīlaguṇopeto vaidya eva vidhīyate ।।

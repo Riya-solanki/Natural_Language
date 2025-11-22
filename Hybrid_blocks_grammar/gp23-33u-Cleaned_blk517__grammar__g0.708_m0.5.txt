@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 517 | label: grammar | g:0.708 m:0.5 ---
+
+[] etad-anantaraṃ yadyapi ye khalv asmāsu bālyād eva stuhi-kṛṣṇatāṃ gatās teṣāṃ bhagaval-līlā-sukha-varṣi-devarṣi-vara-caraṇānāṃ kaṃsaṃ prati śaṃsanaṃ śaṃsanīyatām āsannam ।

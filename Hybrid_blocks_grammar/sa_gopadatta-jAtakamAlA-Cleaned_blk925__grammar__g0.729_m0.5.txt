@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 925 | label: grammar | g:0.729 m:0.5 ---
+
+tasya pūrvajanmaparamparābhyāsavāsanāghanasnehagauravaniratyayāś catvāraḥ sahāyā babhūvuḥ vāyasaḥ pārāvato bhujago mṛgaś ca । te tadājñāsaṃpādanaikatānamanasaḥ svayonividhinā dharmakriyāsauṣṭhavena jagaty abhilakṣitā babhūvuḥ ।

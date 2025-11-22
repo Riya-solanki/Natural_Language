@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 97 | label: grammar | g:0.569 m:0.5 ---
+
+kalatraṃ vaidhātraṃ kati-kati bhajante na kavayaḥ śriyo devyāḥ ko vā na bhavati patiḥ kair api dhanaiḥ
+mahā-devaṃ hitvā tava sati satīnām a-carame kucābhyām āsaṅgaḥ kuravaka-taror apy a-su-labhaḥ ।।

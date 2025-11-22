@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1032 | label: hybrid | g:0.521 m:0.5 ---
+
+api ca, sukho gṛhavāsa iti śraddhāgamyamidaṃ me pratibhāti ।

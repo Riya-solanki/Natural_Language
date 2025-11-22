@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8973 | label: meter | g:0.25 m:0.555 ---
+
+pretatvaṃ susthiraṃ tena mama jātaṃ nṛpottama ।
+ekādaśaṃ tripakṣaṃ ca ṣāṇmāsikamathābdikam ।
+pratimāsyāni cānyāni evaṃ śrāddhāni ṣoḍaśa ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11446 | label: meter | g:0.307 m:0.623 ---
+
+acchinnabhaktāśca sadā murārerna kāmyaraktāḥ śuddharūpā hi te ca ।
+girīśanāgeśakhageśasaṃjñā devāḥ śukrārau gurucandrendusūryāḥ ।।

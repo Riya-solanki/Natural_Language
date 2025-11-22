@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 56 | label: grammar | g:0.615 m:0.5 ---
+
+tāvad dharmakathā manobhavarucir mokṣaspṛhā jāyate yāvat tṛptisukhodayena na janaḥ kṣutkṣāmakukṣiḥ kṣaṇam ।
+prāpte bhojanacintanasya samaye vittaṃ nimittaṃ vinā dharme kasya dhiyaḥ smaraṃ smarati kaḥ kenekṣyate mokṣabhūḥ ।।

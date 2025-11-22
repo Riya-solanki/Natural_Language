@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 94 | label: meter | g:0.194 m:0.5 ---
+
+rūpasya śuddhi phalaśuddhita veditavyā phalarūpaśuddhita sarvajñataśuddhimāhuḥ 
+sarvajñatāya phalaśuddhita rūpaśuddhī ākāśadhātusamatāya abhinnachinnāḥ ।।

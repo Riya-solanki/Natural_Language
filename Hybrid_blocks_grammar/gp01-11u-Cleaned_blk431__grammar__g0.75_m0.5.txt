@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 431 | label: grammar | g:0.75 m:0.5 ---
+
+[] asya jātakarmādikaṃ ca marmagair eva śarmāntanāmabhir guptam eva paryāptam akāri ānaka-dundubhi-mantraṇā-paratantratayā । kintu tatraikaṃ duḥkham ivāsit । [] yataḥ sa tu janmata evānuja-janma yāvat jaḍa evādṛśyata । tatra pratīkāraś caika evāsīt yathāntardhṛta-nijāvarajaṃ vrajeśvary-aṅkam eva kevalaṃ valamānaḥ samullasitaval lakṣyate ।

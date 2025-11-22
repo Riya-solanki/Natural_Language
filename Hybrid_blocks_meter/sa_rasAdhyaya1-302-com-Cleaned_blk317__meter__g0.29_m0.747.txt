@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 317 | label: meter | g:0.29 m:0.747 ---
+
+maricāsurīsiddhārthaviṣacūrṇaiśca sūtakam 
+svedayet kāñjike baddhaṃ dolāyāṃ divasatrayam ।।

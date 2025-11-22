@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1407 | label: meter | g:0.194 m:0.75 ---
+
+śvetaḥ praṇālake dvisthaḥ pravāhe saṃvyavasthitaḥ 
+bhṛgur mekhalarūpeṇa samantāt parimaṇḍalam ।।

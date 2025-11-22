@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7445 | label: meter | g:0.306 m:0.5 ---
+
+ete caikaśaphāḥ ṣaṭ ca śṛṇu pañcanakhānataḥ ।
+anyāsu bahupāpāsu duḥ khadāsu ca yo niṣu ।।

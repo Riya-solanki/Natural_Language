@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4651 | label: meter | g:0.194 m:0.5 ---
+
+bāhum ābhoginaṃ kṛtvā mukhe tasya janārdanaḥ 
+praveśayām āsa tadā keśino duṣṭavājinaḥ ।।

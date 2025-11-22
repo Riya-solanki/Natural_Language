@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2012 | label: meter | g:0.25 m:0.5 ---
+
+tatra te vaśinaḥ siddhā vimalā brahmacāriṇaḥ 
+saṃtatiṃ te jugupsanti tasmān mṛtyur jitaś ca taiḥ ।।

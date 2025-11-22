@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 200 | label: meter | g:0.371 m:0.714 ---
+
+tiṣṭhatvanekasaṃsārasaṃghātaughavināśini ।
+kṛṣṇe bhaktirahaṃ tāvadavekṣyo bhavatā na kim ।।

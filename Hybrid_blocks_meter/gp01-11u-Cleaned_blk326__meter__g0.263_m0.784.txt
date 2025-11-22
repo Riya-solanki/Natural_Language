@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 326 | label: meter | g:0.263 m:0.784 ---
+
+"indranīla-ruci-jīvanaṃ mahaḥ
+svarṇa-varṇa-nikarākara-prabhā ।
+yac ca yā ca cayanaṃ tayor idaṃ
+dvandvam ādi-rasa-sāra-kāraṇam ।। [rathoddhatā] iti ।

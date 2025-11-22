@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 818 | label: meter | g:0.25 m:0.5 ---
+
+payo varṣati dhārābhir varṣāvan medura-śriyaḥ ।
+tasyāḥ payodhare suṣṭhu kṛṣṇaś cātakatāṃ gataḥ ।। [anuṣṭubh]

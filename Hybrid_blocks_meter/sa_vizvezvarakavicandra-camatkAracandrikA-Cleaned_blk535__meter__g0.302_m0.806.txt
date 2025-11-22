@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 535 | label: meter | g:0.302 m:0.806 ---
+
+na hi sarvatra sarveṣāṃ viśeṣāṇāṃ pradarśanam ।
+ativistaradoṣeṇa granthocchedaprasaṅgataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 350 | label: meter | g:0.25 m:0.625 ---
+
+dadāsi me yadi varaṃ sadguṇāvāsa vāsava ।
+vṛṇe tenemamaparaṃ devendrānavaraṃ varam ।।

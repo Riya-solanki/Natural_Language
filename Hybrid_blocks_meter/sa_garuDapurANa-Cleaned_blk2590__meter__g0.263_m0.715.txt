@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2590 | label: meter | g:0.263 m:0.715 ---
+
+agniṣvāttāḥ pitṛgaṇāḥ prācīṃ rakṣantu me diśam ।
+tathā barhiṣadaḥ pāntu yāmyāṃ me pitaraḥ sadā ।
+pratīcīmājyapāstadvadudīcīmapi somapāḥ ।।

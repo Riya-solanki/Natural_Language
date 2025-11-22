@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 139 | label: meter | g:0.306 m:0.5 ---
+
+sākṣād avyabhicāreṇa dhātvartho yatra karmabhāk ।
+sakarmakaḥ sa dhātuḥ syāt pāraṃparye tv akarmakaḥ ।।

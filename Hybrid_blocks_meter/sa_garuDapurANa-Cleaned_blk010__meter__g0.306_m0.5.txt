@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10 | label: meter | g:0.306 m:0.5 ---
+
+ko dhyeyaḥ ko jagatsraṣṭā jagatpātti ca hanti kaḥ ।
+kasmātpravartate dharmo duṣṭahantā ca kaḥ smṛtaḥ ।।

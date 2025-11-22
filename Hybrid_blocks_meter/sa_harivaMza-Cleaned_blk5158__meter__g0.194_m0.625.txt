@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5158 | label: meter | g:0.194 m:0.625 ---
+
+hotrāgnidīptaśirasaṃ paritrāya ca takṣakam 
+āstīko apy āśramapadaṃ jagāma ca mahāmuniḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1550 | label: grammar | g:0.552 m:0.5 ---
+
+āyāte tripurāntake sahacaraiḥ sārdhaṃ ca spatarṣibhirvyagro abhūd girirājaveśmanijanaḥ kālyāḥ samālaṅkṛtau ।
+vyākulyaṃ samupāgatāśca girayaḥ pūjādinā devatāḥ prāyovyākulitā bhavanti suhṛdaḥ kanyāvivāhotsukāḥ ।।

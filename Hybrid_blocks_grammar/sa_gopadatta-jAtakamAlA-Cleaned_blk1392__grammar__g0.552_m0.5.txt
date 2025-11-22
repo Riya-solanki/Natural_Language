@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1392 | label: grammar | g:0.552 m:0.5 ---
+
+tān paurān suhṛda ivāvalokya tasya prītir yā manasi manasvino jṛmbhate ।
+tām eva kṣitidharasāradhīḥ sa mene paryāptaṃ phalam atiduṣkarasya tasya ।।

@@ -1,0 +1,7 @@
+--- source: brsvbh1u-Cleaned.txt | block: 372 | label: meter | g:0.258 m:0.831 ---
+
+yajñanyāyena tu svargakāmasya niyojyasya kalpanāyāmarthavādasyāsamavetārthatayātyantaparokṣā vṛttiḥ syāditi ।
+brahmabhāvaścāmṛtatvamiti amṛtatvakāmasyaityuktam ।
+amṛtatvaṃ cāmṛtatvādeva, na kṛtakatvena śakyamanityamanumātum ।
+āgamavirodhāditi bhāvaḥ ।
+uktena dharmabrahmajñānayorvailakṣaṇyena vidhyaviṣayatvaṃ codayati-nanviti ।

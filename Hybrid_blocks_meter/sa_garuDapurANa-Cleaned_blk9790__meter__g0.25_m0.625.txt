@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9790 | label: meter | g:0.25 m:0.625 ---
+
+prasthānasyāpi na jñātau dinamāsau yadā punaḥ ।
+mṛtavārtāśrutau grāhyau pūrvaproktakrameṇa tu ।।

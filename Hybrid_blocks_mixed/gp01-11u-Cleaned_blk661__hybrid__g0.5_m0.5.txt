@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 661 | label: hybrid | g:0.5 m:0.5 ---
+
+[] gargaḥ punar atigopanāya sa-vicāram uvāca-"tatrāpi khalaḥ sa khalu devakī-toka-hantā durmantā devyāḥ śaṃsanena nṛśaṃsaḥ kaṃsaḥ punar āgatāśaṅkaḥ syāt । yasmād yādava-gurutayā puru-prasiddhaḥ so' yam anya-vargajam amuṃ samaskuruta, tasmād eva vasudeva-kṛtopāsanayā nūnam anayā devyā svena vinimitaḥ sa bālas tatra vartate, gīrvāṇa-vāṇīnām amṛṣābhāvād iti । tadā niḥṣamam idam atiduḥṣamaṃ syāt ।"

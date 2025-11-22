@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 189 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tatra ca narma-maya-śarmada-praṇayā vaiśyābhīra-tanayāḥ sakhāyaḥ subalādayaḥ samam eva samagaṃsata । taiḥ saṅgataiḥ saha tu vilamba-kathantā-kathāvalambena mithaḥ parihāsa-vilāsa-kautukī varāsanam adhyāsāmāsa । te sarve premṇā paricaryāyāṃ param āścarya-caryāḥ, yataḥ-

@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 80 | label: grammar | g:0.66 m:0.5 ---
+
+kimiti punaḥ pramātā upādatte pramāṇāni ? atha svayameva kasmānna pravartante ityata āha- na cādhiṣṭhānamantareṇendriyāṇāṃ vyāpāraḥ, pramāṇānāṃ vyāpāraḥ, saṃbhavati ।
+na jātu karaṇānyanadhiṣṭhitāni kartrā svakārye vyāpriyante, mā bhūtkuvindarahitebhyo vemādibhyaḥ paṭotpattiriti ।
+atha deha evādhiṣṭhātā kasmānna bhavati ? kṛtamatrātmādhyāsenetyata āha- na cānadhyastātmabhāvena dehena kaścidvyāpriyate; suṣupte api vyāpāraprasaṅgāditi bhāvaḥ ।

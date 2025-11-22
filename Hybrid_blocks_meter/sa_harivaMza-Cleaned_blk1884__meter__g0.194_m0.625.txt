@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1884 | label: meter | g:0.194 m:0.625 ---
+
+seyaṃ bhārapariśrāntā pīḍyamānā narādhipaiḥ 
+pṛthivī samanuprāptā naur ivāsann aviplavā ।।

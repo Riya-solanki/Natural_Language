@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 765 | label: meter | g:0.306 m:0.5 ---
+
+tvayā kulaṃ samamalamabhyalaṅkṛtaṃ samudyatā nabha iva śāradendunā ।
+tavārthavatsucaritaviśrutaṃ śrutaṃ sukhodayaḥ saphalatayā śramaśca me ।।

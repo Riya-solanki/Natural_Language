@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 921 | label: meter | g:0.25 m:0.75 ---
+
+akartari ca kārake saṃjñāyām ।।
+kartṛbhinne kārake ghañ syāt ।।

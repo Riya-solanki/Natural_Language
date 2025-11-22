@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 626 | label: meter | g:0.371 m:0.714 ---
+
+bhāvānāmaparimlānasvabhāvaucityasundaram ।
+cetanānāṃ jaḍānāṃ ca svarūpaṃ dvividhaṃ smṛtam ।।

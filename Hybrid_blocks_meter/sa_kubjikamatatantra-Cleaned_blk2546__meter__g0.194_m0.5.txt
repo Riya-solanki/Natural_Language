@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2546 | label: meter | g:0.194 m:0.5 ---
+
+yatra tiṣṭhanti te sthāne tat tīrthaṃ paramārthataḥ 
+vārāṇasī kurukṣetraṃ naimiṣaṃ bhairavaṃ tathā ।।

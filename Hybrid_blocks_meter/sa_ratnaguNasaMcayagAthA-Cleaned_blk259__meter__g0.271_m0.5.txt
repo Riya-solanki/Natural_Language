@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 259 | label: meter | g:0.271 m:0.5 ---
+
+yo bodhisattva avikalpaku sarvadharmān śūnyānimitta parijānati niṣprapañcān 
+na ca prajña bodhi parieṣati āśayena so yukta prajñavarapāramitāya yogī ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2254 | label: meter | g:0.194 m:0.625 ---
+
+vidhinā pūrvadṛṣṭena prajāsargeṇa tattvataḥ 
+mātāpitros tu kāryeṇa janmatas tūpapadyate ।।

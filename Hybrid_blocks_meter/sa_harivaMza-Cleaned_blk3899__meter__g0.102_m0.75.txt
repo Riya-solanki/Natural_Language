@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3899 | label: meter | g:0.102 m:0.75 ---
+
+dhanuś ciccheda cāpy asya bhallenāyataparvaṇā 
+nivṛttaśatruḥ kāliṅgaṃ bibheda niśitaiḥ śaraiḥ 
+tomareṇāṃsadeśe taṃ nirbibheda kaliṅgarāṭ ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1020 | label: grammar | g:0.615 m:0.375 ---
+
+ityatra tripuraripuprabhāvātiśayasya karuṇo aṅgam । tathāpi na karuṇe viśrāntiriti tasyāṅgataiva । athavā prāk yathā kāmuka ācarati sma tathā śarāgniriti śṛṅgārapoṣitena karuṇeṇa mukhya evārtha upodbalyate ।
+uktāṃ hi

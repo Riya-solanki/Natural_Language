@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 302 | label: grammar | g:0.646 m:0.233 ---
+
+gataḥ samāptaḥ kriyādṛkpratirodhakatvarūpo adhikāro yasya tadgatādhikāraṃ nīhārasya tamaso malasya sambandhi vīryaṃ sāmarthyaṃ yasya tasya tathāvidhasya sataḥ paśor baddhātmano anugraha edhate vardhate bahulībhavati nivṛttādhikārāyāṃ malaśaktāv iti yāvat ।। 
+anyasya tu malādeḥ pāśajālasya yat karmaṇaḥ pariṇāmitādes tādarthyaṃ tatprayojakatvaṃ tasmād anugraho bhavati ।। 
+baddhātmavimuktyai yat pariṇāmitāprayojakatvaṃ sa eva pāśānām anugraha ityarthaḥ ।। 
+evaṃ ca prakṛte kiṃ vyavasthitam ityāha ।।

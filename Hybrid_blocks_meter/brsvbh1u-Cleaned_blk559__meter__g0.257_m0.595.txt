@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 559 | label: meter | g:0.257 m:0.595 ---
+
+viśeṣāditi vaktavye vaiśeṣyābhidhānamātyantikaṃ viśeṣaṃ pratipādayitum ।
+tathāhyavidyākalpitaḥ sukhādisaṃgo avidyātmana eva jīvasya yujyate ।
+natu nirmṛṣṭanikhilāvidyātadvāsanasya śuddhabuddhamuktasvabhāvasya paramātmana ityarthaḥ ।
+śeṣamatirohitārtham ।।

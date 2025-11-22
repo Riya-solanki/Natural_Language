@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1182 | label: grammar | g:0.729 m:0.5 ---
+
+atha sa rājā savinayamabhigamya bodhisattvaṃ kṛtapratisaṃmodanakathastatraikānte nvaṣidata । sa tāṃ pravrajitāmatimanoharadarśanāmabhivīkṣya tasyā rūpaśobhayā samākṣipyamāgahṛdayo nūnamasyeyaṃ sahadharmacāriṇītyavetya lolasvabhavatvāttadapaharaṇopāyaṃ vimamarśa ।

@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 396 | label: meter | g:0.25 m:0.927 ---
+
+FN bhogaḥ sukhaduḥkhānubhavaḥ ।
+ādipadādviṣayānubhavagrahaḥ ।
+karaṇānyatra santīti karaṇavaccharīram ।

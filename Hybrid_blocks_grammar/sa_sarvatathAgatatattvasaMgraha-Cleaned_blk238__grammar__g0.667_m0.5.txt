@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 238 | label: grammar | g:0.667 m:0.5 ---
+
+atha bhagavantaḥ sarvatathāgatāḥ punarapi samājamāgamyāsya vajradhātumahāmaṇḍalasyādhiṣṭhānāyāśeṣānavaśeṣasya ca sattvadhātoḥ paritrāṇasarvahitasukhāvāptyai yāvatsarvatathāgatasamatājñānābhijñābhisaṃbodhyuttamasiddhaye bhagavantaṃ sarvatathāgatādhipatiṃ svavajrasattvamanādinidhanaṃ mahāvajradharamanena nāmāṣṭaśatenādhyeṣitavantaḥ ।।

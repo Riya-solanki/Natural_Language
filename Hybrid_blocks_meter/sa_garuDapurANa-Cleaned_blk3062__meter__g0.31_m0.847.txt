@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3062 | label: meter | g:0.31 m:0.847 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+parāśaro abravīdvyāsaṃ dharmaṃ varṇāśramādikam ।
+kalpekalpe kṣayotpattyā kṣīyante nu prajādayaḥ ।।

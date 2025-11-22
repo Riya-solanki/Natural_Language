@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 608 | label: grammar | g:0.709 m:0.343 ---
+
+apicaike vidvāṃsaḥ pratyakṣīkṛtavidyāphalāḥ santastadavaṣṭabhyātphalāntarasādhaneṣu prajādiṣu prayojanābhāvaṃ parāmṛśanti ।
+kāmakāreṇeti śrutirbhavati vājasaneyinām aetaddha sma vai tatpūrve vidvāṃsaḥ prajāṃ na kāmayante kiṃ prajayā kariṣyāmo yeṣāṃ no ayamātmāyaṃ lokaḥ' iti anubhavārūḍhameva ca vidyāphalaṃ na kriyāphalavatkālāntarabhāvītyasakṛdavocāma ।
+ato api na vidyāyāḥ karmaśeṣatvaṃ nāpi tadviṣayāyāḥ phalaśruterayathārthatvaṃ śakyamāśrayitum ।।

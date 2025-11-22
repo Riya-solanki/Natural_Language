@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11443 | label: hybrid | g:0.51 m:0.5 ---
+
+japtvā jñānaṃ prāpya durvāsakaścāpyavāpa mokṣaṃ tena saṃvardhitātmā ।
+mucukundo vai śrīnivāsasya bhakto vairāgyato bhaktidārḍhyaṃ ca kṛtvā ।।

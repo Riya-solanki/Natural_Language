@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2109 | label: grammar | g:0.75 m:0.5 ---
+
+athainānabhigamya bodhisattvaḥ samāśvāsayan priyavacanapuraḥsaraṃ ca pratisaṃmodya saudāsasyādrohāya śapathaṃ kārayitvā bandhanādvimucya sārdhaṃ saudāsena taiśca nṛpatiputrairanugamyamānaḥ svaṃ rājyamupetya yathārhakṛtasaṃskārāṃstān rājaputrān saudāsaṃ ca sveṣu sveṣu rājyeṣu pratiṣṭhāpayāmāsa ।

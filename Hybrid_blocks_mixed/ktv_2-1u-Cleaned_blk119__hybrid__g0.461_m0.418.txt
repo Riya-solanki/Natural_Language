@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 119 | label: hybrid | g:0.461 m:0.418 ---
+
+dhīyate ।
+viśeṣaṇabhāvāc ca yāgādayo bhāvanāviśeṣā ity ucyante, na tadvyaktitvena ।
+śāstrapradeśe tu kriyākarmaśabdau kadācid dhātvarthe prayjyete, kadācid bhāvanāyām, kadācit tu pratyāsattyobhayatrāpi prayogaḥ, na svarūpābhidhānena ।
+kutaḥ ।

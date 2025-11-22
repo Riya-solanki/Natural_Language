@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 991 | label: meter | g:0.25 m:0.583 ---
+
+sukumārasya putras tu satyaketur mahārathaḥ 
+suto abhavan mahātejā rājā paramadhārmikaḥ 
+karantur nāma nṛpatis tasya putrau babhūvatuḥ । 
+brahmaṇyau satyasaṃpannau bhārgo vatsas tathaiva ca । 
+vatsasya vatsabhūmis tu bhārgabhūmis tu bhārgavāt ।।

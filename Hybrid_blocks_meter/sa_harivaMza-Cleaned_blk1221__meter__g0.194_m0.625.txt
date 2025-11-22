@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1221 | label: meter | g:0.194 m:0.625 ---
+
+tiṣṭhasveha mahābāho dṛṣṭadoṣā hayā mayā 
+padbhyāṃ gatvā hariṣyāmi maṇiratnaṃ syamantakam ।।

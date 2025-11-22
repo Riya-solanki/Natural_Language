@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2291 | label: meter | g:0.25 m:0.5 ---
+
+yaḥ kaścid dhārayen nāmnāmidante aṣṭaśataṃ śivaṃ ।
+sarvabuddhābhiṣekaṃ tu sa prāpnotyanaghaḥ kṣaṇāt ।।

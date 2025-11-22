@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2173 | label: meter | g:0.102 m:0.555 ---
+
+vasudevaś ca saṃrakṣyaḥ strīsanāthāstu bhūmiṣu 
+apramattair mama hitai rātrāv ahani caiva ha 
+strībhir varṣavaraiś caiva vaktavyaṃ na ca kāraṇam ।।

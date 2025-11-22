@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 43 | label: grammar | g:0.569 m:0.5 ---
+
+vapuḥprādurbhāvād anumitam idaṃ janmani purā purāre naivāhaṃ kvacid api bhavantaṃ praṇatavān ।
+naman muktaḥ sampraty atanur aham agre apy anatimān maheśa kṣantavyaṃ tad idam aparādhadvayam api ।। Smstadd

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 168 | label: meter | g:0.306 m:0.625 ---
+
+pūrvānubhūtaṃ smaratā ca rātrau kampottaraṃ bhīru tavopagūḍham ।
+guhāvisārīṇyativāhitāni mayā kathañcid ghanagarjitāni ।।

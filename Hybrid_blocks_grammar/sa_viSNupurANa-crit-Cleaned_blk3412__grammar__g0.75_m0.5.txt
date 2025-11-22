@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3412 | label: grammar | g:0.75 m:0.5 ---
+
+śrāvastasya bṛhadaśvas tasyāpi kuvalayāśvo yo asāv uttaṅkasya maharṣer apakāriṇaṃ dhundhunāmānam asuraṃ vaiṣṇavena tejasāpyāyitaḥ putrasahasrair ekaviṃśatibhiḥ parivṛto jaghāna dhundhumārasaṃjñāṃ cāvāpa ।।

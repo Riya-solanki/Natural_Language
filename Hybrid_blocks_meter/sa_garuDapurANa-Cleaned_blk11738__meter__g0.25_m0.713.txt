@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11738 | label: meter | g:0.25 m:0.713 ---
+
+jaigīṣavya uvāca ।
+śṛṇu bhadre pravakṣyāmi māhātmyaṃ pāpanāśanam ।
+iyaṃ nadī mahābhāge sadā pāpavināśinī ।।

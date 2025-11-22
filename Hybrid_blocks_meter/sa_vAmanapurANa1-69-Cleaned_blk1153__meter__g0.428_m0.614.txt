@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1153 | label: meter | g:0.428 m:0.614 ---
+
+pulastya uvāca ।
+tatastu tāṃ tatra tadā vasantīṃ kātyāyanīṃ śailavarasya śṛṅge ।
+apaśyatāṃ dānavasattamau dvau caṇḍaś ca muṇḍaśca tapasvinīṃ tām ।।

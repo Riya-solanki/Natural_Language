@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 314 | label: grammar | g:0.75 m:0.5 ---
+
+bhedaḥ aṣṭacatvāriṃśad jñānalakṣaṇānyapi triṣu vyākhyātāni । tathā hi - sarvajñatāsaṃgṛhītāni jñānalakṣaṇāni ṣoḍaśa, mārgajñatāsaṃgṛhītāni jñānalakṣaṇāni ṣoḍaśa, sarvākārajñatāsaṃgṛhītāni jñānalakṣaṇāni ṣoḍaśa ceti tridhā bhedaḥ ।

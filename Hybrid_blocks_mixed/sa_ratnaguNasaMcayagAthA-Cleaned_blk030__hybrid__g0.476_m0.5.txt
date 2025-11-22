@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 30 | label: hybrid | g:0.476 m:0.5 ---
+
+saci sattvasaṃjña dukhasaṃjña upādayātī hariṣyāmi duḥkha jagatīṃ kariṣyāmi artham 
+so ātmasa parikalpaku bodhisattvo na ca eṣa prajñavarapāramitāya caryā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 777 | label: meter | g:0.25 m:0.5 ---
+
+ābhīrāḥ saha naiṣīkā āraṇyāḥ śabarāśca ye ।
+valindhyā vindhyamauleyā vaidarbhā daṇḍakaiḥ saha ।।

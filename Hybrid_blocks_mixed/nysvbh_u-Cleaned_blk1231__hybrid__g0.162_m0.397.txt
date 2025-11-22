@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1231 | label: hybrid | g:0.162 m:0.397 ---
+
+evaṃ ca sati sarvaṃ nāstīti nopapadyate,
+kasmāt ? pramāṇānupapattyupapattibhyām ।
+yadi sarvaṃ nāstīti pramāṇamupapadyate ? sarvaṃ
+nāstītyetad vyāhanyate, atha pramāṇaṃ nopapadyate ? sarvaṃ nāstītyasya kathaṃ siddhiḥ ?, atha pramāṇamantareṇa
+siddhiḥ ? sarvamastītyasya kathaṃ na siddhiḥ ।।

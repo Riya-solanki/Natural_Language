@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2787 | label: meter | g:0.306 m:0.5 ---
+
+tamāpatantaṃ bhagavān samīkṣya maheśvaraḥ śreṣṭhatamaṃ gaṇānām ।
+śailādimāmantrya vaco babhāṣe gacchasva daityān jahi vīra yuddha ।।

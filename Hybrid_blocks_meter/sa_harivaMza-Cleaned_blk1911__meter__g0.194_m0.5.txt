@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1911 | label: meter | g:0.194 m:0.5 ---
+
+tau viveśa svayaṃ vāyur brahmaṇā sādhu coditaḥ 
+tau divaṃ chādayantau tu vavṛdhāte mahāsurau ।।

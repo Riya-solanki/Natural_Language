@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1037 | label: meter | g:0.25 m:1.0 ---
+
+evamabhidhīyamānaheturapi draṣṭavyā ।
+upaskāraḥ parikaraḥ kriyādīnāṃ viśeṣaṇaiḥ ।।

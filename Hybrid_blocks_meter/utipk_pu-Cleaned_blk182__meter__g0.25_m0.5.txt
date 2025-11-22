@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 182 | label: meter | g:0.25 m:0.5 ---
+
+sa eva vimṛśattvena niyatena maheśvaraḥ ।
+vimarśa eva devasya śuddhe jñānakriye yataḥ ।।

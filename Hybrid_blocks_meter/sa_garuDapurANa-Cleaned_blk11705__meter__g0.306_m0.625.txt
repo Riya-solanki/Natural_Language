@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11705 | label: meter | g:0.306 m:0.625 ---
+
+tatra snānaṃ ca dānaṃ cāpyakṣayaṃ paramaṃ smṛtam ।
+śālagrāmaśilādānaṃ kāryaṃ tatra mahāmune ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1705 | label: meter | g:0.306 m:0.5 ---
+
+kāmaṃ śarīraṃ kṣitipa kṣataṃ me manaḥ parasvāsthyamupāgataṃ tu ।
+akāri yeṣāṃ ciramādhipatyaṃ teṣāṃ mayārtirvinivartiteti ।।

@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 825 | label: grammar | g:0.569 m:0.371 ---
+
+nanu dūrasamitpuṣpakuśodakasya kṣetrasyāgrahaṇameva prāṅnirūpitam।
+iha ca dūrātsahāyena tadānayanokteḥ prāgvyākṛtaparāmarśato virodhaḥ। naiṣa doṣaḥ। kuśakusumasalilasamidvarjitamanyatphalamūlatṛṇendhanamṛdādi dūrāt sahāyenānayeditīha pratipādyate। tanna kaścidvirodhaḥ। yadvā dūrasamitpuṣpakuśodakakṣetraniṣedhasūtre sakalānyaguṇopapannaṃ kṣetraṃ yadi syāttadādnīṃ dūrasamitpuṣpakuśodakasyāpi tasyāpariharaṇamityeṣṭavyameva। tacca `kṣetre yannāsti taddūrātsahāyenopahṛtaṃ bhajed' ityetatsūtrārambhasāmarthyātsiddhyati। tadetaduktam 
+prāgvyākhyātaparāmarśasamādhāneṣṭikṛdbhavet।।

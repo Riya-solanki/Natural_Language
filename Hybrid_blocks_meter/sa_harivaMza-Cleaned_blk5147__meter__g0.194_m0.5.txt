@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5147 | label: meter | g:0.194 m:0.5 ---
+
+arthavādaparo dharmo vedārtha iti tu viduḥ 
+anirṇiktam avijñātaṃ dāyādyam iva dhāryate ।।

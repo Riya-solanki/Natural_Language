@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6006 | label: meter | g:0.194 m:0.5 ---
+
+kiṃ devaiḥ kiṃ dvijair vedaiḥ kiṃ śaucenāmbujanmanā 
+ity evaṃ vipra vakṣyanti pāṣaṇḍopahatā narāḥ ।।

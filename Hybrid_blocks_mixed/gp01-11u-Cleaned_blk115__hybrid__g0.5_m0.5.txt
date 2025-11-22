@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 115 | label: hybrid | g:0.5 m:0.5 ---
+
+[] śrī-kṛṣṇa-pramadānāṃ pramadānāṃ pramada-vana-pātrāṇi patrāṇi tu varṇyamānāni kavīnām apatrapām eva bibhrati, yatas tatratyaṃ sarvam eva citram iti duṣpratyāyatāṃ prāpnoti । yeṣu hi-

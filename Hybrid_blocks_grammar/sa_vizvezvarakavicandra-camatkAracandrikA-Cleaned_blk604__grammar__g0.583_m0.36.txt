@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 604 | label: grammar | g:0.583 m:0.36 ---
+
+yathā
+rambhe kiṃ sakhi menake na sulabhāḥ kalpadrumāṇāṃ srajaḥ te svarge na hi santi kutra dharaṇībhāge kutaḥ kāraṇāt ।
+dātuḥ śrīanavotasiṅganṛpatestairdattahastāṅgulīr brahmā nirmitanānato nu dhanikāḥ sarve api dhātrīsurāḥ ।।

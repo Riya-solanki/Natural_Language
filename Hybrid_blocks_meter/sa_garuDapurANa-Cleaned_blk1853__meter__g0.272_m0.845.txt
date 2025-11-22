@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1853 | label: meter | g:0.272 m:0.845 ---
+
+syātkṛṣṇatārakākṣāṇāmakṣṇāmutpāṭanaṃ kila ।
+maṇḍalākṣāśca pāpāḥ syurniḥ svāḥ syurdenalocanāḥ ।।

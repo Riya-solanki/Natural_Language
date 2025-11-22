@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5248 | label: meter | g:0.25 m:0.625 ---
+
+nārikalekṣvātmaṇuptā vidārī ca priyālakam ।
+madhukaṃ tālakaṣmāṇḍaṃ mukhyo ayaṃ madhuro gaṇaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2889 | label: meter | g:0.25 m:0.5 ---
+
+śṛṅgaṃ cāsya punaḥ savyam utpāṭya yamadaṇḍavat 
+tenaiva prāharad vaktre sa mamāra bhṛśaṃ hataḥ ।।

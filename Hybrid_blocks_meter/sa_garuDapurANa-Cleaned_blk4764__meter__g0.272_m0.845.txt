@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4764 | label: meter | g:0.272 m:0.845 ---
+
+vātaśleṣmodbhavāḥ śleṣmapittāddadrūśatāruṣī ।
+puṇḍarīkaṃ savisphoṭaṃ pāmā carmadalaṃ tathā ।।

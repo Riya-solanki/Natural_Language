@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2797 | label: hybrid | g:0.51 m:0.5 ---
+
+parāṅmukhān vīkṣya gaṇān kumāraḥ śaktyā pṛṣatkāntha vārayitvā ।
+tūrṇaṃ sabhabhyetya ripuṃ samīkṣya pragṛhya śaktyā hṛdaye vibheda ।।

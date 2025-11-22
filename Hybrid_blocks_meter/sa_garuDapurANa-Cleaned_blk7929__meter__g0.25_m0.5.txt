@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7929 | label: meter | g:0.25 m:0.5 ---
+
+vṛṣotsargasamaṃ kiñcit sādhanaṃ nadivaḥ param ।
+mayā dharmarahasyaṃ te kathitaṃ rājasattama ।।

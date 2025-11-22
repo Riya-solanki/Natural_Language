@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 485 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam ullasan nikhila-roma-samutphulla-mukha-somaḥ parivārita-baṭu-stomatayā bahir vihita-homa-sthānam āgamya samyag arpita-sarvānandaḥ saṅgi-samarpita-tat-tad-vṛtta-śantama-kandaḥ śrīmān nandas tān dānīya-viprān ānīya pradānārambhaṃ sambhṛtavān ।

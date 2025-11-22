@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 12 | label: grammar | g:0.573 m:0.5 ---
+
+kartuṃ yac ca prabhavati mahīm ucchilindhrām avandhyaṃ tac chrutvā te śravaṇasubhagaṃ garjitaṃ mānasotkāḥ ।
+ā kailāsād bisakisalayacchedapātheyavantaḥ saṃpatsyante nabhasi bhavato rājahaṃsāḥ sahāyāḥ ।।

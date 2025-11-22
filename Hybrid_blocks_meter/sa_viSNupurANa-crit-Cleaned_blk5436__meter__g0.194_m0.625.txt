@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5436 | label: meter | g:0.194 m:0.625 ---
+
+bāṇo api praṇipatyāgre maitreyāha trilocanam 
+deva bāhusahasreṇa nirviṇṇo ahaṃ vināhavam ।।

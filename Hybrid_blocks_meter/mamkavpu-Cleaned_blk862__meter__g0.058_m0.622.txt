@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 862 | label: meter | g:0.058 m:0.622 ---
+
+{ājñā śakraśikhāmaṇipraṇayinī śāstrāṇi cakṣurnavaṃ
+bhaktirbhūtapatau pinākini padaṃ laṅketi divyā purī ।
+utpattirdruhiṇānvaye ca tadaho nedṛgvaro labhyate
+syāccedeṣa na rāvaṇaḥ kva nu punaḥ sarvatra sarve guṇāḥ ।।}

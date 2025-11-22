@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 630 | label: meter | g:0.31 m:0.886 ---
+
+atha ālasyam-
+svabhāva-śrama-sauhitya-garbha-nirbharatādibhiḥ । 
+kṛcchrāt kriyonmukhatvaṃ yat tad ālasyam iha kriyāḥ ।।
+aṅga-bhaṅgaḥ kriyā-dveṣo jṛmbhaṇākṣi-vimardane । 
+śayyāsanaika-priyatā tandrī-nidrādayo' pi ca ।।

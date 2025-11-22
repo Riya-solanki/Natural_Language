@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1710 | label: grammar | g:0.649 m:0.44 ---
+
+vahati nikaṭe kālasrotaḥ samastabhayāvahaṃ divasarajanīkulacchedaiḥ patadbhir anāratam ।
+iha hi patatāṃ nāsty ālambo na vāpi nivartanaṃ tad api mahatāṃ ko ayaṃ moho yad evam anākulāḥ ।।

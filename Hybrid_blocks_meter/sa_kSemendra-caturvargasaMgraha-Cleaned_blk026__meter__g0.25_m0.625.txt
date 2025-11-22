@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 26 | label: meter | g:0.25 m:0.625 ---
+
+dambhena śīlavratam aspṛhatvaṃ viraktatā śrotriyatā mṛdutvam ।
+etāni mūlāni nigūḍhagūḍhakauṭilyalīnāni kalidrumasya ।।

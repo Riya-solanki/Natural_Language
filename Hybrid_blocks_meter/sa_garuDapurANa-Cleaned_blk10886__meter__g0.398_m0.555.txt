@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10886 | label: meter | g:0.398 m:0.555 ---
+
+ko vadettasya ceṣṭāṃ tu pūrṇānando hariḥ svayam ।
+na tena sadṛśaḥ kopi deśe kāle ca vidyate ।
+tasyāvatārānvakṣyahaṃ śṛṇu pakṣīndrasattama ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 721 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad etad avadhārya devāry-amitraḥ śrīdāmādi-mitraḥ sva-bhujau prasārya visphūryamāṇa-kolāhalānargalaṃ gopa-vargaṃ nivārya, namaskāryaḥ khalv asau yasmāt karuṇā-vyagratā-jāgran-mahā-vigraha-samagra-vigraha-prakāśa-grahilatayā pratyakṣa-pratyayam eva sa eva devaḥ pratyavaruddhavān iti sarvān praty akharvāṃ vācam uvāca ।

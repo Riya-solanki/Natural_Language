@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4470 | label: meter | g:0.25 m:0.625 ---
+
+agniṣṭomādayo yajñā mama vākyād anantaram 
+pratyūcur māṃ paraṃ vākyaṃ sarve yūpadhvajāḥ sthitāḥ ।।

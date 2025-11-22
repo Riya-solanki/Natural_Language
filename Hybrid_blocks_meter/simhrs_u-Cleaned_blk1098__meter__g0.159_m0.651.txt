@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1098 | label: meter | g:0.159 m:0.651 ---
+
+yathā karuṇākandale-
+kulasya vyāpattyā sapadi śatadhoddīpita-tanur
+muhur bāṣpaṃ śvāsān malinam api rāgaṃ prakaṭayan ।
+ślathair aṅgaiḥ śūnyair asakṛd uparuddhaiś ca karaṇair
+yuto dhatte glāniṃ karuṇa iva mūrto yadupatiḥ ।।

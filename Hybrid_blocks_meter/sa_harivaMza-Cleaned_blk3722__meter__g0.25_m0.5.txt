@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3722 | label: meter | g:0.25 m:0.5 ---
+
+tathā hi vartamānaṃ taṃ ūrdhvaretasam avyayam 
+gārgyaṃ goṣṭhe dvijaṃ syālaḥ ṣaṇḍham ity uktavān dvijaḥ । 
+yadūnāṃ saṃnidhau sarve jahasur yādavās tataḥ ।। 
+evaṃ varṣasahasraṃ me ṣaṭśataṃ bhūpasaṃmitam । 
+vatsarā dvādaśāś caiva cūrṇaṃ loharajodbhavam । 
+syālo abhiśaptavān gārgyam apumān iti bhūpate ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 843 | label: meter | g:0.25 m:0.625 ---
+
+so abhiṣikto mahātejā rājarājyena rājarāṭ 
+trīṃl lokān bhāvayām āsa svabhāsā bhāsvatāṃ varaḥ ।।

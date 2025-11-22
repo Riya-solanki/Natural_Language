@@ -1,0 +1,10 @@
+--- source: brssgo4u-Cleaned.txt | block: 115 | label: meter | g:0.306 m:0.556 ---
+
+yadeva vidyayeti hi ।
+uktanityādikaṃ viṣayamupajīvya sabījaṃ saṃśayamuktvā pūrvapakṣamāha-vidyāsaṃyuktameveti ।
+atra pūrvapakṣe karmāṅgopāstihīnakarmaṇo jñānārthatvāsiddhiḥ, siddhānte tatsiddhiriti bhedaḥ ।
+bhavatu vidyāviśiṣṭasya karmaṇo jñānaṃ prati śīghrakāritvākhyaḥ kaścidatiśayo vidyāsāmarthyāt ।
+naitāvatā kevalasya vaiyarthyaṃ vividiṣāśrutivirodhāt ।
+naca tatra śrutau yajñādiśabdānāṃ vidyopetakarmaparatayā saṃkoco yuktaḥ ।
+hi yataḥ ।
+ayadeva vidyayā'iti śrutiḥ kevalasyāpi vīryavattvaṃ gamayatīti siddhāntagranthārthaḥ ।।

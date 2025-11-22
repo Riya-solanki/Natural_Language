@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 988 | label: meter | g:0.25 m:1.0 ---
+
+śakyamoṣadhiyaternavodayāḥ karṇapūraracanākṛte tava ।
+apragalbhayavasūcikonalāśchettumagranakhasaṃpuṭaiḥ karāḥ ।।

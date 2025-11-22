@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 1210 | label: meter | g:0.25 m:0.586 ---
+
+ityādinā naṭāntarābhinīyamāna sakhībhirvibhāvanavikriyābhirabhinīyamāno manorathātiriktamānandamutpādayati sahṛdayānām ।
+tatsūktisarvasvaṃ ca svayamevotprekṣya vyākhyeyam ।
+prabandhāntaḥ prakaraṇavakratāpyasya prakaraṇasya tatraiva

@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 393 | label: grammar | g:0.615 m:0.5 ---
+
+tais tair apy upayācitair upanatas tanvyāḥ sthito apy antike kānto lokasamāna evam aparijñāto na rantuṃ yathā ।
+lokasyaiṣa tathānavekṣitaguṇaḥ svātmāpi viśveśvaro naivālaṃ nijavaibhavāya tad iyaṃ tatpratyabhijñoditā ।।

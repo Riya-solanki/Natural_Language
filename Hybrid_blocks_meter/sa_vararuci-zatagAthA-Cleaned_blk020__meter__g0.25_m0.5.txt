@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 20 | label: meter | g:0.25 m:0.5 ---
+
+parastutaguṇairyastu nirguṇo api guṇī bhavet ।
+indro api laghutāṃ yāti svayaṃ prakhyāpitairguṇaiḥ ।।

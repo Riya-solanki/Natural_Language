@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1132 | label: grammar | g:0.75 m:0.5 ---
+
+iti vicintya sa mahātmā tata eva pratinivṛtya rājñaḥ pratihārayāmāsa - śreṣṭhī punardraṣṭumicchati devamiti । kṛtābhyanujñaśca praviśya yathopacāraṃ rājasamīpamupajagāma । kimidamiti ca rājñā paryanuyukto abravīt - icchāmi pravrajitum, tadabhyanujñātumarhati māṃ deva iti ।

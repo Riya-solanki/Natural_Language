@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1029 | label: meter | g:0.194 m:0.625 ---
+
+bāhlikasya sutaś caiva somadatto mahāyaśāḥ 
+jajñire somadattāt tu bhūrir bhūriśravāḥ śalaḥ ।।

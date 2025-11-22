@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5097 | label: meter | g:0.194 m:0.75 ---
+
+kṛtāvataṃsaḥ sa tadā cārukuṇḍalabhūṣitaḥ 
+nīlāmbaradharaḥ sragvī śuśubhe kāntisaṃyutaḥ ।।

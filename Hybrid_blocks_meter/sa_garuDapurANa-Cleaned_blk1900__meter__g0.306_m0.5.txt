@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1900 | label: meter | g:0.306 m:0.5 ---
+
+udare śvaśuraṃ hanti patiṃ hanti sphicordvayoḥ ।
+yā tu romottarauṣṭhī syānna śubhā bhartureva hi ।।

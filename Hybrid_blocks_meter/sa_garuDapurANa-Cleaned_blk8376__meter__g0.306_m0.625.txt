@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8376 | label: meter | g:0.306 m:0.625 ---
+
+ye namasyanti govindaṃ na teṣāṃ vidyate bhayam ।
+pretatvānmokṣamicchanto ye kariṣyanti satkriyām ।।

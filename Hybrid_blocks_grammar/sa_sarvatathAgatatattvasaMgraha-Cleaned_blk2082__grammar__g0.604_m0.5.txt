@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2082 | label: grammar | g:0.604 m:0.5 ---
+
+padmaṃ tu yoṣitāṃ cintya viśvantasyopari svayaṃ । rāmayan viśvapadyāgrī viśvāṃ siddhimavāpnuyād ।। ।।

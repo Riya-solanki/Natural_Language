@@ -1,0 +1,7 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 495 | label: meter | g:0.342 m:0.544 ---
+
+ityatra nidrādruk iti na yuktaḥ । ekāco baśo bhaṣ iti bhaṣabhāvaprāpteḥ । anuprāsapriyaistatvapabhraṃśaḥ kṛtaḥ ।।
+niṣpanda iti patvaṃ cintyam ।।
+na hyatra patvalakṣaṇamasti । kaskādipāṭho'pyasya na niścitaḥ ।।
+nāṅgulisaṅga iti mūrdhanyavidheḥ ।।
+mlāyantyaṅgulisaṅge'pi komalāḥ kusumasrajaḥ

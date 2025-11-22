@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3315 | label: meter | g:0.194 m:0.625 ---
+
+bhagavan yan naraiḥ kāryaṃ sādhukarmaṇy avasthitaiḥ 
+tan mahyaṃ guruṇākhyātaṃ nityanaimittikātmakam ।।

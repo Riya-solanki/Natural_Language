@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 848 | label: grammar | g:0.511 m:0.183 ---
+
+atha svarṇavidhānamāha ardhenetyādi ।।
+ardhena ardhavibhāgena rañjitadalādita iti jñeyam ।।
+jyeṣṭhena hemnā pravarakanakena taddalaṃ rañjitapatraṃ miśrayitvā puṭitaṃ kuryāt yathā milati ।।
+punaḥ kṣitikhagapaṭuraktamṛdā kṛtvā kṣitiḥ sphaṭikaḥ khagaḥ pītakāsīsaṃ paṭu saindhavaṃ lavaṇaṃ raktamṛt gairikaṃ ekavadbhāvadvandvaḥ tena kṣityādinopari liptaṃ dalaṃ prati ayaṃ puṭo deyaḥ vanopalair iti śeṣaḥ ।।

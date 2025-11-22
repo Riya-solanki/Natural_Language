@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1275 | label: grammar | g:0.563 m:0.42 ---
+
+vistāro yadi nedṛśo na yadi tad gāmbhīryam ambhonidher na syād vā yadi sarvasattvaviṣayas tādṛk kṛpānugrahaḥ ।
+antaḥ prajvalatā payāṃsi dahatā jvālāvalīr muñcatā ke na syur vaḍavānalena balinā bhasmāvaśeṣīkṛtāḥ ।।
+keśaṭasya

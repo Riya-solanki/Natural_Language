@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 24 | label: grammar | g:0.552 m:0.5 ---
+
+asthānābhiniveśitā ratipater aucityabhaṅgo rater vaiyarthyaṃ navayauvanasya kim api premṇaḥ kalaṅkāṅkuraḥ ।
+saubhāgyasya vimānanā viguṇatā saundaryasāraśriyaḥ śṛṅgārasya viḍambanā kim aparaṃ veśyārataḍambaraḥ ।।

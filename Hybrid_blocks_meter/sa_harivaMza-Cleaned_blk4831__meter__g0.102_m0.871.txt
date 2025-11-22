@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4831 | label: meter | g:0.102 m:0.871 ---
+
+snigdhagambhīranirghoṣo vṛttabāhur mahābhujaḥ 
+ājānubāhuḥ siṃhāsyaḥ siṃhasaṃhanano yuvā 
+sahasram iva sūryāṇāṃ dīpyamānaḥ prakāśate ।।

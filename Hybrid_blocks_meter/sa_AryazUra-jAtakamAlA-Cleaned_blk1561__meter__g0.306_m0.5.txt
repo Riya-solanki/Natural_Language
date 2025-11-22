@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1561 | label: meter | g:0.306 m:0.5 ---
+
+kaccinmahārāja na pīḍito asi prapātapātālamidaṃ prapannaḥ ।
+kaccinna te vikṣatamatra gātraṃ kaccidrujaste tanutāṃ gacchanti ।।

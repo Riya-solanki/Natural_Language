@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2022 | label: meter | g:0.25 m:0.5 ---
+
+vajrairvajraṃ vilikhati nānyena vilikhyate vajram ।
+vajrāṇi muktāmaṇayo ye ca kecana jātayaḥ ।।

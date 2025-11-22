@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 98 | label: meter | g:0.306 m:0.5 ---
+
+śāntipriyāḥ syuḥ khalu yauvane api vaiduṣya evaṃ vinatā bhaveyuḥ ।
+sahiṣṇavastejasi cātinamrāḥ sudurlabhā evamarindamāḥ syuḥ ।।

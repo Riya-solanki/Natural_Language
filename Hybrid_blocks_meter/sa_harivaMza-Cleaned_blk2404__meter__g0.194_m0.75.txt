@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2404 | label: meter | g:0.194 m:0.75 ---
+
+saṃtaptā bhāskarajalair abhitaptā devāgnibhiḥ 
+jalair balāhakotsṛṣṭair ucchvasantīva parvatāḥ ।।

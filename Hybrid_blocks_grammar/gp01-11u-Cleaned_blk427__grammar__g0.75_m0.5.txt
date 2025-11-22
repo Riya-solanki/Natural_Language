@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 427 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha snigdhakaṇṭhaḥ svānte cintayati sma-satyam etad ata eva sad-vāṇī-guṇibhir muhur anayor ātmaja iti matam । mayā ca suvicāratas tad eva pūrvaṃ niścitam ācaritam iti । uvāca ca-tatas tataḥ ?

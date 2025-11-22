@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5651 | label: meter | g:0.308 m:0.786 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+nirvraṇaḥ syātpūyaṃhīno prahāro ghṛpūritaḥ ।
+apāmārgasya vai mūlaṃ hastābhyāñca vimarditam ।
+tadrasena prahārasya raktastrāvo na pūraṇāt ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2420 | label: meter | g:0.194 m:0.75 ---
+
+patitenāmbhasā hy ete samantān madatarpitāḥ 
+bhrājante kṛṣṇasāraṅgāḥ kānaneṣu mudānvitāḥ ।।

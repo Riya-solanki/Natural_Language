@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8582 | label: hybrid | g:0.5 m:0.5 ---
+
+yeṣāṃ tu narake ghore bahvabdāni gatāni vai ।
+santātarnaiva vidyate dūtatvaṃ te tu yānti hi ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4339 | label: meter | g:0.25 m:0.625 ---
+
+doṣairvyastaiḥ samastaiśca kṣayātsarvasya medasaḥ ।
+svarabhedo bhavettasya kṣāmo rūkṣaścalaḥ svaraḥ ।।

@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 394 | label: hybrid | g:0.306 m:0.453 ---
+
+ayaistu dravyaṃ cikīrṣyate guṇastatra pratīyeta'iti nyāyādata āha-na cedaṃ brahmātmaikatvavijñānamiti ।
+kutaḥ, saṃpadādirūpe hi brahmātmaikatvavijñāna iti ।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2528 | label: meter | g:0.25 m:0.5 ---
+
+yathā tu tena vai vyastā vedavyāsena dhīmatā 
+vedās tathā samastais tair vyastā vyāsais tathā mayā ।।

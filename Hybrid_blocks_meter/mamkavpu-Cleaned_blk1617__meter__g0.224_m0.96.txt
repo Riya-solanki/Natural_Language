@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1617 | label: meter | g:0.224 m:0.96 ---
+
+{karajuagahiajasoātthaṇamuhaviṇivesiāharapuḍassa ।
+samariapañcajaṇṇassa ṇamaha kaṇhassa romāñcaṃ ।।}
+[karayugagṛhītayaśodāstanamukhaviniveśitādharapuṭasya ।
+saṃsmṛtapāñcajanyasya namata kṛṣṇasya romāñcam ।।]

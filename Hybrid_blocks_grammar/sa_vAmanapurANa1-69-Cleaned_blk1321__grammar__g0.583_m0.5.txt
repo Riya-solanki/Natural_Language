@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1321 | label: grammar | g:0.583 m:0.5 ---
+
+tato dvaitavanaṃ nāma puṇyaṃ lokeśvaro balī। । tadāsādya susaṃtuṣṭo viveśābhyāntaraṃ tataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1248 | label: meter | g:0.306 m:0.5 ---
+
+devyā jayaṃ devāgaṇā vilokya stuvanti devīṃ stutibhirmaharṣe ।
+nārāyaṇīṃ sarvajagatpratiṣṭhāṃ kātyāyanīṃ ghoramukhīṃ surūpām ।।

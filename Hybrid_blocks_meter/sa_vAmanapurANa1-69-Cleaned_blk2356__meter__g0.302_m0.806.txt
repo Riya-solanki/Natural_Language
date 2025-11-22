@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2356 | label: meter | g:0.302 m:0.806 ---
+
+kāṣṭhānyāhartumaparā vahnimānetumākulāḥ ।
+sā ca tāsvapi sarvāsu gatāsu vanamuttamam ।।

@@ -1,0 +1,4 @@
+--- source: mamkpb_u-Cleaned.txt | block: 269 | label: hybrid | g:0.25 m:0.447 ---
+
+śabdagato anuprāsaḥ śabdārthayorabhede apyanvayamātrabhedāt lāṭajanavallabhatvācca lāṭānuprāsaḥ ।
+eṣa padānuprāsa ityanye ।।

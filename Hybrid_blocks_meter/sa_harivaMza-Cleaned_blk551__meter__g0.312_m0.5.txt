@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 551 | label: meter | g:0.312 m:0.5 ---
+
+kathaṃ ca dattam asmābhiḥ śrāddhaṃ prīṇāti vai pitṝn 
+lokāntaragatāṃs tāta kiṃ nu śrāddhasya vai phalam ।। 
+kān yajanti sma lokā vai sadevanaradānavāḥ । sayakṣoragagandharvāḥ sakiṃnaramahoragāḥ । 
+atra me saṃśayas tīvraḥ kautūhalam atīva ca 
+tad brūhi mama dharmajña sarvajño hy asi me mataḥ ।। 
+etac chrutvā vacas tasya bhīṣmasyovāca vai pitā । 
+saṃkṣepeṇaiva te vakṣye yan māṃ pṛcchasi bhārata 
+pitṝṇāṃ kāraṇaṃ śrāddhe phalaṃ dattasya cānagha 
+pitaraś ca yathodbhūtāḥ śṛṇu sarvaṃ samāhitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1465 | label: meter | g:0.295 m:0.565 ---
+
+maharṣayo vītaśokā vedānuccair adhīyire 
+yajñeṣu ca haviḥ svādu śivam āpa ca pāvakaḥ ।।

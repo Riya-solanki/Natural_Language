@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 311 | label: grammar | g:0.562 m:0.5 ---
+
+trimalakṣālino granthāḥ santi tatpāragāstathā yoginaḥ paṇḍitāḥ svasthās tvadbhaktā eva tattvataḥ ।।

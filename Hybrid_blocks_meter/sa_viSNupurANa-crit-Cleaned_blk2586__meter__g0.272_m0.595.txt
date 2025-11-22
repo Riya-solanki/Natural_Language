@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2586 | label: meter | g:0.272 m:0.595 ---
+
+śākhābhedās tu teṣāṃ vai daśa pañca ca vājinām 
+kaṇvādyāḥ sumahābhāgā yājñavalkyapravartitāḥ ।।

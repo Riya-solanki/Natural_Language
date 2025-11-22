@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 326 | label: hybrid | g:0.378 m:0.414 ---
+
+tadidamuktaṃ prayukteṣu, nāprayukteṣu । na hi, bhavati yathā 
+śravaṇakuṇḍalami । tathā nitambakāñcī ityapi । yathā vā karikalabhaḥ iti । tathā uṣṭrakalabhaḥ ityapi । atra ślokaḥ

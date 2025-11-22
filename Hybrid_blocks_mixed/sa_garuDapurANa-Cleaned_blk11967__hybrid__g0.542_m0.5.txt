@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11967 | label: hybrid | g:0.542 m:0.5 ---
+
+sparśe gavāṃ caiva sadā nṛṇāṃ vai bhavatyato nātra vicāryamasti ।
+yasmin gṛhe nāsti sadottamā ca gauryaṅgaṇe śrītulasī ca nāsti ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7216 | label: meter | g:0.306 m:0.625 ---
+
+ekadā vainateyasya lokānāṃ lokanaspṛhā ।
+babhūva so atha babhrāma teṣu nāma harergṛṇan ।।

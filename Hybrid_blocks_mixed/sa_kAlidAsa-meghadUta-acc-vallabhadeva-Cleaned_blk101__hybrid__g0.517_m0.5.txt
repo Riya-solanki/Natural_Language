@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 101 | label: hybrid | g:0.517 m:0.5 ---
+
+śabdākhyeyaṃ yad api kila te yaḥ sakhīnāṃ purastāt karṇe lolaḥ kathayitum abhūd ānanasparśalobhāt 
+so atikrāntaḥ śravaṇaviṣayaṃ locanānām agamyas tvām utkaṇṭhāviracitapadaṃ manmukhenedam āha ।।

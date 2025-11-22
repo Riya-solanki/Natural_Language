@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 581 | label: meter | g:0.25 m:0.732 ---
+
+vyāpakānuprāso yathā-nāyakasyaiva vaṃśāvalyām
+yatra caraṇasannāhinī tṛṇacaraṇaṃ nijapurācca nissaraṇam ।
+vanacaraṇaṃ taccaraṇakaparicaraṇaṃ vā virodhināṃ śaraṇam ।।

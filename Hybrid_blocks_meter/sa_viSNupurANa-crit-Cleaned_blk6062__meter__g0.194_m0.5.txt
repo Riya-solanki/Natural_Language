@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6062 | label: meter | g:0.194 m:0.5 ---
+
+sthānāt sthānaṃ daśaguṇam ekasmād gaṇyate dvija 
+tato aṣṭādaśame bhāge parārdham abhidhīyate ।।

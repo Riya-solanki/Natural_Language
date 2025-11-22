@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1312 | label: meter | g:0.194 m:0.5 ---
+
+kathaṃ mantriṣv amātyeṣu bāhyeṣv ābhyantareṣu ca 
+cāreṣu pauravargeṣu śaṅkiteṣv itareṣu ca ।।

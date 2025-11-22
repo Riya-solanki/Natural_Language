@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10712 | label: meter | g:0.306 m:0.5 ---
+
+jñānaṃ tvṛjūnāṃ mokṣakāle pipañcavāyvādīnāṃ pralayenādrādīrna ।
+vāyormama pralaye sṛṣṭikāle tathā gāyatryā nāstināstyeva mohaḥ ।।

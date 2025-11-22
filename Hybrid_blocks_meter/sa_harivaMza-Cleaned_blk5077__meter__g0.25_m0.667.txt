@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5077 | label: meter | g:0.25 m:0.667 ---
+
+akṣatriyāś ca rājāno viprāḥ śūdropajīvinaḥ 
+śūdrāś ca brāhmaṇācārā bhaviṣyanti yugakṣaye ।। 
+śūdrā dharmaṃ cariṣyanti yugānte janamejaya । 
+kāṇḍapṛṣṭhāḥ śrotriyāś ca havīṃṣi bharatarṣabha 
+ekapaṅktyām aśiṣyanti yugānte janamejaya ।।

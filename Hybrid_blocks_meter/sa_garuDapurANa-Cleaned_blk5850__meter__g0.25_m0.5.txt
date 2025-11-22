@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5850 | label: meter | g:0.25 m:0.5 ---
+
+bhūmau rakṣatu vārāhau vyomni nārāyaṇo avatu ।
+karmabandhācca kapilo datto rogācca rakṣatu ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 842 | label: meter | g:0.302 m:0.663 ---
+
+śrīmahādeva uvāca
+na vetsi devi tattvena dharmasya gahanā gatiḥ ।
+naite dharmaṃ vijānanti na ca kāmavivarjitāḥ ।।

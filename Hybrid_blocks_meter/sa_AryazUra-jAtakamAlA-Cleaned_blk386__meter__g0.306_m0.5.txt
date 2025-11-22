@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 386 | label: meter | g:0.306 m:0.5 ---
+
+nirīkṣya te rūpamamānuṣādbhutaṃ prasannakānti jvalitaṃ ca tejasā ।
+bhavetpramādastapasīti me bhayaṃ prasādasaumyādapi darśanāttava ।।

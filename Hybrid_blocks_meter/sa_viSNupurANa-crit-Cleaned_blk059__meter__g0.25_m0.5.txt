@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 59 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ prītaḥ sa bhagavān vasiṣṭho munisattamaḥ 
+saṃprāptaś ca tadā tatra pulastyo brahmaṇaḥ sutaḥ ।।

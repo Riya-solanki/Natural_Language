@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 87 | label: meter | g:0.25 m:0.625 ---
+
+ānantaryādikaṃ kṛtvā narakeṣu vipacyate ।
+śubhaṃ dānādikaṃ kṛtvā [svargādiṣu mahīyate ।।

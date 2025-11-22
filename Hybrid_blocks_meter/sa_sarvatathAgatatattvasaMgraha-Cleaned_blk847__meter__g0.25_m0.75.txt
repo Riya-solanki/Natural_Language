@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 847 | label: meter | g:0.25 m:0.75 ---
+
+stabdhaliṅgaḥ svayaṃbhūtvā nipadyetpaṭake site ।
+liṅgaṃ caityamadhiṣṭhāya vajradhāturahaṃ svayaṃ ।।

@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 241 | label: hybrid | g:0.25 m:0.468 ---
+
+māvāsyākālasaṃbaddhānāṃ yugapad anuṣṭhānāśakteḥ, sāmarthyātkramaprāptau, tadviśeṣāpekṣāyāṃ pāṭhādayastadbhedaniyamāya prabhavanti ।
+yatra tu na śeṣaśeṣibhāvaḥ nāpyekādhikārāvacchedaḥ yathā sauryāryamṇa

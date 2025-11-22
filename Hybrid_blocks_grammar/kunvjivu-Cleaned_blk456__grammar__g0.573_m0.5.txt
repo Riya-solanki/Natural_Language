@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 456 | label: grammar | g:0.573 m:0.5 ---
+
+jāne sakhyāstava mayi manaḥ saṃbhṛtasnehamasmā- ditthaṃbhūtāṃ prathamavirahe tāmahaṃ tarkayāmi ।
+vācālaṃ māṃ na khalu subhagaṃmanyabhāvaḥ karoti pratyakṣaṃ te nikhilamacirād bhrātaruktaṃ mayā yad ।।

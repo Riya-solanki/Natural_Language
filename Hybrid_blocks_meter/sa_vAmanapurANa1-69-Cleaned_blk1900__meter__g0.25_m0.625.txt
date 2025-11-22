@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1900 | label: meter | g:0.25 m:0.625 ---
+
+haṃsāsyaṃ kuṇḍajaṭharaṃ bahugrīvaṃ hayānanam ।
+kūrmagrīvaṃ ca pañcaitān daduḥ putrāya kṛttikāḥ ।।

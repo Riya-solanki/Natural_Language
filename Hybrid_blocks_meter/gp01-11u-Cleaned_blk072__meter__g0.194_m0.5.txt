@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 72 | label: meter | g:0.194 m:0.5 ---
+
+yasmin kesara-visarān prācīrāṅgān samantataḥ samayā ।
+sadayā dāyādāyāḥ sopāsīnā vasanti gopālāḥ ।। [gīti]

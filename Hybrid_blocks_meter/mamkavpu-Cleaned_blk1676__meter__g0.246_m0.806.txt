@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1676 | label: meter | g:0.246 m:0.806 ---
+
+{rājati taṭīyamabhihatadānavarāsātipātisārāvanadā ।
+gajatā ca yūthamviratadānavarā sātipāti sārā vanadā ।।}

@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 290 | label: meter | g:0.194 m:0.625 ---
+
+na ca yuktaṃ jaḍasyaivaṃ bhedābhedavirodhataḥ 
+ābhāsabhedād ekatra cidātmani tu yujyate ।।

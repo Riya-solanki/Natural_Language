@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5357 | label: meter | g:0.25 m:0.625 ---
+
+garutmān api vaktreṇa pakṣābhyāṃ nakharāṅkuraiḥ 
+bhakṣayaṃs tāḍayan devān dārayaṃś ca cacāra vai ।।

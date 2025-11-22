@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2202 | label: meter | g:0.246 m:0.806 ---
+
+macchavīsadṛśī kṛṣṇā saṃkarṣaṇasamānanā 
+bibhratī vipulān bāhūn mama bāhūpamān bhuvi ।।

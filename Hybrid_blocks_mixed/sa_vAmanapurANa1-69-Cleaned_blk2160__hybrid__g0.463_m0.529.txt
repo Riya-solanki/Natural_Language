@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2160 | label: hybrid | g:0.463 m:0.529 ---
+
+brahmovāca ।
+etat purāṇaṃ paramaṃ maharṣe yogāṅgayuktaṃ ca sadaiva yacca ।
+tathaiva cograṃ bhayahāri mānavaṃ vadāmi te sādhya niśāmayainam ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 4 | label: meter | g:0.272 m:0.845 ---
+
+pītāmbaro'tha balijinnāgakṣayabahalarāgagaruḍacaraḥ ।
+jayati sa haririva harajo vidalitabhavadainyaduḥkhabharaḥ ।।

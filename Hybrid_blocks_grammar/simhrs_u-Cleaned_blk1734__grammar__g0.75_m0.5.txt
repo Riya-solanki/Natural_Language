@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1734 | label: grammar | g:0.75 m:0.5 ---
+
+ity atra parvatānāṃ nātha mayā virahitā priyā tvayā dṛṣṭeti praśne rājñāṃ nātha tvayā virahitā mayā dṛṣṭety uttarasya pratīyamānatvād iyaṃ pṛcchā ।

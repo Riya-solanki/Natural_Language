@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1656 | label: grammar | g:0.583 m:0.5 ---
+
+surāṇāṃ pātāsau sa punar atipuṇyaikahṛdayo grahas tasyāsthāne gurur ucitamārge sa nirataḥ ।
+karas tasyātyarthaṃ vahati śatakoṭipraṇayitāṃ sa sarvasvaṃ dātā tṛṇam iva sureśaṃ vijayate ।।

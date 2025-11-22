@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 802 | label: grammar | g:0.625 m:0.375 ---
+
+ucyate- naitadevam ।
+anaṃśitvamapi hi jīvasyābhedavādinyaḥ śrutayaḥ pratipādayanti- atatsṛṣṭvā tadevānuprāviśat', anānyo ato asti draṣṭā', amṛtyoḥ sa mṛtyumāpnoti ya iha nāneva paśyati', atattvamasi' aahaṃ brahmāsmi' ityevañjātīyakāḥ ।

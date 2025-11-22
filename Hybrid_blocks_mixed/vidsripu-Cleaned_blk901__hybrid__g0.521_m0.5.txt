@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 901 | label: hybrid | g:0.521 m:0.5 ---
+
+nirvāṇagocaragato api muhuḥ pradīpaḥ kiṃ vṛttakaṃ taruṇayoḥ suratāvasāne ।
+ity evam ākalayituṃ sakalaṅkalajjad- udgrīvikām iva dadāti ratipradīpaḥ ।।

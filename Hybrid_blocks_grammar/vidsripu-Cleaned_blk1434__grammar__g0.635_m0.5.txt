@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1434 | label: grammar | g:0.635 m:0.5 ---
+
+upaśamaphalād vidyābījāt phalaṃ dhanam icchatāṃ bhavati viphalaḥ prārambho yat tad atra kim adbhutam ।
+niyataviṣayāḥ sarve bhāvā na yānti hi vikriyāṃ janayitum alaṃ śāler bījaṃ na jātu javāṅkuram ।।

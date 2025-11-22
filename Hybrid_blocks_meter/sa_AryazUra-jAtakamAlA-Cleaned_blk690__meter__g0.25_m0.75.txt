@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 690 | label: meter | g:0.25 m:0.75 ---
+
+uttamādhamamadhyānāṃ kāryāṇāṃ nityadarśanāt ।
+uparyupari buddhīnāṃ carantīśvarabuddhayaḥ ।।

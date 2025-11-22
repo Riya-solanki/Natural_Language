@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3032 | label: meter | g:0.25 m:0.625 ---
+
+kṛtvā triṣavaṇaṃ snānaṃ piṇḍaṃ cāndrāyaṇaṃ caret ।
+pavitrāṇi japetpiṇḍān gāyattryā cābhimantrayet ।।

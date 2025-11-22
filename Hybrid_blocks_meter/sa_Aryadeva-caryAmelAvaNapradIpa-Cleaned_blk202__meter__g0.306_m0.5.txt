@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 202 | label: meter | g:0.306 m:0.5 ---
+
+girīndramūrdhnaḥ prapatet tu kaścid neccheccyutiṃ sa cyavate tathāpi ।
+guruprasādādvihitopadeśād necchedvimuktiṃ sa tathāpi muktaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 522 | label: grammar | g:0.583 m:0.5 ---
+
+ādau vismayanistaraṅgam anu ca preṅkholitaṃ sādhvasair vrīḍānamram atha kṣaṇaṃ pravikasattāraṃ didṛkṣārasaiḥ ।
+ākṛṣṭaṃ sahajābhijātyakalanāt premṇā puraḥ preritaṃ cakṣur bhūri kathaṃkathaṃcid agamat preyāṃsam eṇīdṛśaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 254 | label: meter | g:0.333 m:0.5 ---
+
+[] tataḥ śrīmān vraja-rājaḥ supralāpaṃ lalāpa, "sarva-sūta-cūḍā-ratna, ratnacūḍa, kāv etau sukumārau kumārau?"

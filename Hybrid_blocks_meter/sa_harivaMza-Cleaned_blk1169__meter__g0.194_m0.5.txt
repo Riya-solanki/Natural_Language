@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1169 | label: meter | g:0.194 m:0.5 ---
+
+śamī ca daṇḍaśarmā ca dattaśatruś ca śatrujit 
+śravaṇā ca śraviṣṭhā ca svasārau saṃbabhūvatuḥ ।।

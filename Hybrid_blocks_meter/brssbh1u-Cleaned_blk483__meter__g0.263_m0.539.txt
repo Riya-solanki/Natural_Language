@@ -1,0 +1,7 @@
+--- source: brssbh1u-Cleaned.txt | block: 483 | label: meter | g:0.263 m:0.539 ---
+
+itaśca parameśvara eva adaharo asminnantarākāśaḥ' ityucyate ।
+yatkāraṇamākāśaśabdaḥ parameśvare prasiddhaḥ ।
+aākāśo vai nāma nāmarūpayornirvahitā', asarvāṇi ha vā imāni bhūtānyākāśādeva samutpadyante' ityādiprayogadarśanāt ।
+jīve tu na kvacidākāśaśabdaḥ prayujyamāno dṛśyate ।
+bhūtākāśastu satyāmapyākāśaśabdaprasiddhāvupamānopameyabhāvādyasaṃbhavānna grahītavya ityuktam ।।

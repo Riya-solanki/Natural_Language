@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1595 | label: meter | g:0.194 m:0.625 ---
+
+teṣāṃ vaṃśaprasūtais tu bhukteyaṃ bhāratī purā 
+kṛtatretādisargeṇa yugākhyā hy ekasaptatiḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3882 | label: grammar | g:0.75 m:0.5 ---
+
+mudgalāc ca maudgalyāḥ kṣatropetā dvijātayo babhūvuḥ । mudgalād vadhyaśvo vadhyaśvād divodāso ahalyā ca mithunam abhūt । śaradvato ahalyāyāṃ śatānando abhavat । śatānandāt satyadhṛtir dhanurvedāntago jajñe । satyadhṛtes tu varāpsarasam urvaśīṃ dṛṣṭvā retaḥ skannaṃ śarastambe papāta ।।

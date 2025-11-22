@@ -1,0 +1,6 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 10 | label: meter | g:0.194 m:0.521 ---
+
+ekasthānanivāsino atisamayāt syuste viyuktāḥ kila
+vicchedānna hi cāntaraṃ kimapi tat tyājyaṃ na kiṃ tatsthalam ।
+vaivaśyāddhi viyogato manasi jāyante vidhātā ati
+tatsthānaṃ yadi hīyate sahajataḥ syāccātiśāntiḥ sukham ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2520 | label: meter | g:0.25 m:0.625 ---
+
+mṛtyuñjayena yogena tac chṛṇuṣva parisphuṭam 
+juṃ saḥ sampuṭanāmādyaṃ saḥ juṃ ante niyojayet ।।

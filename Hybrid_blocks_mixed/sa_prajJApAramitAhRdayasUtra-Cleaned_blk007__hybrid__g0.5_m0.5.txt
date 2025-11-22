@@ -1,0 +1,3 @@
+--- source: sa_prajJApAramitAhRdayasUtra-Cleaned.txt | block: 7 | label: hybrid | g:0.5 m:0.5 ---
+
+tasmāj jñātavyaṃ prajñāpāramitā mahā-mantro mahā-vidyā-mantro'nuttara-mantro samasama-mantraḥ sarva-duḥkha-praśamanaḥ satyam amithyatvāt prajñāpāramitāyām ukto mantraḥ, tadyathā - oṃ gate gate pāragate pārasaṃgate bodhi svāhā

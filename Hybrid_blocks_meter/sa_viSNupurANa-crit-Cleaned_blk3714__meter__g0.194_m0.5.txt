@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3714 | label: meter | g:0.194 m:0.5 ---
+
+yat pṛthivyāṃ vrīhiyavaṃ hiraṇyaṃ paśavaḥ striyaḥ 
+ekasyāpi na paryāptaṃ tasmāt tṛṣṇāṃ parityajet ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 834 | label: meter | g:0.19 m:0.556 ---
+
+yathā-
+advaitaṃ sukha-duḥkhayor anugataṃ sarvāsv avasthāsu yad
+viśrāmo hṛdayasya yatra jarasā yasminn ahāryo rasaḥ ।
+kālenāvaraṇātyayāt pariṇate yat sneha-sāre sthitaṃ
+bhadraṃ tasya sumānuṣasya katham apy ekaṃ hi tat prāpyate ।।

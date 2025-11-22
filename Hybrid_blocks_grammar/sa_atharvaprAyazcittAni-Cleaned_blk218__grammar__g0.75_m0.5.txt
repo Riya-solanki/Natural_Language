@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 218 | label: grammar | g:0.75 m:0.5 ---
+
+yo vanaspatīnām upatāpo babhūva yad vā gṛhān ghoram utājagāma tan nirjagāmo haviṣā ghṛtena śaṃ no astu dvipade śaṃ catuṣpade ।।

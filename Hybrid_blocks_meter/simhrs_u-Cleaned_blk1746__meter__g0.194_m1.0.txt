@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1746 | label: meter | g:0.194 m:1.0 ---
+
+śrī-siṃha-bhūpena kavīśvarāṇāṃ
+viśrāṇitāneka-vibhūṣaṇena ।
+ṣaṭ-triṃśad uktāni hi bhūṣaṇāni
+sa-lakṣma-lakṣyāṇi muner matena ।।

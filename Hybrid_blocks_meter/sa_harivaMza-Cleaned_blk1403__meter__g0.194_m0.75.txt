@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1403 | label: meter | g:0.194 m:0.75 ---
+
+durjaraṃ durdharaṃ dṛptaṃ śārdūlasamavikramam 
+durnirīkṣyaṃ suragaṇair varadānena darpitam ।।

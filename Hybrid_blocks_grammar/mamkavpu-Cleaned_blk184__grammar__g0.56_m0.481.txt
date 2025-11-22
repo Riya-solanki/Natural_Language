@@ -1,0 +1,9 @@
+--- source: mamkavpu-Cleaned.txt | block: 184 | label: grammar | g:0.56 m:0.481 ---
+
+loke pramadābhiḥ sthāyyanumāne abhyāsapāṭavavatāṃ kāvye nāṭye ca taireva kāraṇatvādiparihāreṇa vibhāvanādivyāpāravattvādalaukikavibhāvādiśabdavyavahāryairmamaivaite śatrorevaite taṭasthasyaivaite na mamaivaite
+na śatrorevaite na taṭasthasyaivaite iti saṃbandhaviśeṣasvīkāraparihāraniyamānadhyavasāyāt sādhāraṇyena pratītairabhivyaktaḥ sāmājikānāṃ vāsanātmatayā sthitaḥ sthāyī ratyādiko niyatapramātṛgatatvena sthito api
+sādhāraṇopāyabalāt tatkālavigalitaparimitapramātṛbhāvavaśonmiṣitavedyāntarasaṃparkaśūnyāparimitabhāvena pramātrā sakalasahṛdayasaṃvādabhājā sādhāraṇyena svākāra ivābhinno api gocarīkṛtaścarvyamāṇataikaprāṇovibhāvādijīvitāvadhiḥ pānakarasanyāyena carvyamāṇaḥ pura iva parisphuran hṛdayamiva praviśan sarvāṅgīṇamivāliṅgan anyat
+sarvamiva tirodadhat brahmāsvādamivānubhāvayan alaukikacamatkārakārī śṛṅgārādiko rasaḥ । vibhāvādivināṃśe api tasya saṃbhavaprasaṅgāt । nāpi jñāpyaḥ siddhasya tasyāsaṃbhavāt ।
+api tu vibhāvādibhirvyañjitaścarvaṇīyaḥ । kārakajñāpakābhyāmanyat kva dṛṣṭamiti cet na kvaciddṛṣṭamityalaukikasiddherbhūṣaṇametanna dūṣaṇam । carvaṇāniṣpattyā tasya niṣpattirupacariteti kāryo apyucyatām ।
+laukikapratyakṣādipramāṇatāṭasthyāvabodhaśālimitayogijñānavedyāntarasaṃsparśarahitasvātmamātraparyavasitaparimitetarayogisaṃvedanavilakṣaṇalokottarasvasaṃvedanagocara iti pratyeyo apyabhidhīyatām । tadgrāhakaṃ ca na nirvikalpakaṃ vibhāvādiparāmarśapradhānatvāt । nāpi savikalpakaṃ carvyamāṇasyālaukikānandamayasya svasaṃvedanasiddhatvāt । ubhayābhāvasvarūpasya cobhayātmakatvamapi pūrvavallokottaratāmeva gamayati na tu
+virodhamiti śrīmadācāryābhinavaguptapādāḥ ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1378 | label: meter | g:0.25 m:0.5 ---
+
+{svidya[t]i kūṇati vellati vicalati nimiṣati vilokayati tiryak ।
+antarnandati cumbatumicchati navapariṇayā vadhūḥ śayane ।।}

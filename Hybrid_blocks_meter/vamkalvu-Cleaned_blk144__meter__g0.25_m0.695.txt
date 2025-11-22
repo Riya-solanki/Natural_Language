@@ -1,0 +1,5 @@
+--- source: vamkalvu-Cleaned.txt | block: 144 | label: meter | g:0.25 m:0.695 ---
+
+padyasya bhāgāḥ padyabhāgāstadvat vṛttagandhi ।
+yathā pātālatālutalavāsiṣu dānaveṣu iti ।
+atra hi vasantatilakākhyasya vṛttasya bhāgaḥ pratyabhijñāyate ।।

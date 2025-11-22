@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6994 | label: meter | g:0.25 m:0.695 ---
+
+prāpnoti puruṣaḥ samyagyadyatprārthayate phalam ।
+karma kāmādikaṃ sarvaṃ śraddhadhānaḥ surottamaḥ ।
+asurādivapuḥ siddhairdeyate yasya nāntaram ।।

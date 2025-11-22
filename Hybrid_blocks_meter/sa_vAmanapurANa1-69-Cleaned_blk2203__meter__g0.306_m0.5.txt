@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2203 | label: meter | g:0.306 m:0.5 ---
+
+na jñāyate gṛhe kena jātastviti sa gūñakaḥ ।
+bāhmataḥ svayamānītaḥ so apaviddhaḥ prakīrtitaḥ ।।

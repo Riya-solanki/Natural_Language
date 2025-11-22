@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1270 | label: meter | g:0.306 m:0.553 ---
+
+dhānyānāṃ bhavane kṣetre khañ ।।
+bhavatyasminniti bhavanam । mudgānāṃ bhavanaṃ kṣetraṃ maudgīnam ।।

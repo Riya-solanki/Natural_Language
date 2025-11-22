@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 662 | label: hybrid | g:0.449 m:0.184 ---
+
+[] atha vrajarājas tu manāg vimanāyamāna ivāsīt । punar, anena svasti-vācanādike kṛte sarvaṃ śastaṃ bhaved iti vibhāvya provāca-"yasmāt tava saṅga eva sa-maṅgalas tasmāt,
+alakṣito' smin rahasi māmakair api go-vraje ।
+kuru dvijāti-saṃskāraṃ svasti-vācana-pūrvakam ।।[BhP ] iti ।

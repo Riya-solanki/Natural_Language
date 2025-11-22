@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2300 | label: meter | g:0.25 m:0.684 ---
+
+nārāda uvāca ।
+gato andhakastu pātāle kimaceṣṭata dānavaḥ ।
+śaṅkaro mandarastho api yaccākāra taducyatām ।।

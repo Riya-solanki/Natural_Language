@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 224 | label: grammar | g:0.646 m:0.5 ---
+
+ye manāg api bhavaccaraṇābjodbhūtasaurabhalavena vimṛṣṭaḥ teṣu visram iva bhavati samastaṃ bhogajātam amarair api mṛgyam ।।

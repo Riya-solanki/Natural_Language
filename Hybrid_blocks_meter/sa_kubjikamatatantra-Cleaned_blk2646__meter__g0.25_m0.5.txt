@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2646 | label: meter | g:0.25 m:0.5 ---
+
+gha śiveśaḥ karasyordhve ga pracaṇḍaś ca kurpare 
+kha caṇḍo bāhumadhye tu ka krodhaḥ śikhare sthitaḥ ।।

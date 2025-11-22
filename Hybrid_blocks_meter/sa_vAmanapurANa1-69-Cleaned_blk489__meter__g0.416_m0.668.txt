@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 489 | label: meter | g:0.416 m:0.668 ---
+
+prahlāda uvāca ।
+nārāyaṇa varaṃ yāce yaṃ tvaṃ me dātumarhasi ।
+tanme pāpaṃ layaṃ yātu śārīraṃ mānasaṃ tathā ।।

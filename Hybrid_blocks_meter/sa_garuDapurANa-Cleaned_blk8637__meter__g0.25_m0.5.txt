@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8637 | label: meter | g:0.25 m:0.5 ---
+
+hīnajātyā ca sambandho hīnakarma karoti yaḥ ।
+adharme ramate nityaṃ sā pīḍā pretasambhavā ।।

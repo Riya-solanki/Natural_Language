@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11771 | label: meter | g:0.306 m:0.625 ---
+
+idaṃ hi paramākhyānaṃ veṅkaṭādrermahāgireḥ ।
+ko vā varṇayituṃ śakto madanyaḥ puruṣo bhuvi ।।

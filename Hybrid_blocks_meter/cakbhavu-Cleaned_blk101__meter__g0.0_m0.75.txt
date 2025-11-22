@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 101 | label: meter | g:0.0 m:0.75 ---
+
+recayitvā karandhreṇa bhācakraṃ hṛdayāmbarāt
+dhāryate dhūrjaṭer agre cārucāmaravan mayā

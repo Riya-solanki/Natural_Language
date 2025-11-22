@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 1150 | label: meter | g:0.25 m:0.75 ---
+
+sadansanto mayā vivicyaivaṃ nidarśitāḥ ।
+anayaiva diśā kāryaṃ śeṣāṇāmapyavekṣaṇam ।।

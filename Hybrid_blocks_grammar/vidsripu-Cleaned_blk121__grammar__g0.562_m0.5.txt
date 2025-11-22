@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 121 | label: grammar | g:0.562 m:0.5 ---
+
+mandakvāṇitaveṇur ahṇi śithile vyāvartayan gokulaṃ barhāpīḍakam uttamāṅgaracitaṃ godhūlidhūmraṃ dadhāt ।
+mlāyantyā vanamālayā parigataḥ śrānto api ramyākṛtir gopastrīnayanotsavo vitaratu śreyāṃsi vaḥ keśavaḥ ।।

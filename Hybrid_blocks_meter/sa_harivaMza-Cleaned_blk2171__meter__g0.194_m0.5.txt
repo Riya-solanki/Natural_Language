@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2171 | label: meter | g:0.194 m:0.5 ---
+
+devakī ca gṛhe guptā pracchannair abhirakṣitā 
+svairaṃ caratu visrabdhā madbalair yatnam āsthitaiḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 54 | label: grammar | g:0.604 m:0.5 ---
+
+he citta cintaya sveha vāsudevam aharniśam nūnaṃ yaś cintitaḥ puṃsāṃ hanti saṃsārabandhanam ।।

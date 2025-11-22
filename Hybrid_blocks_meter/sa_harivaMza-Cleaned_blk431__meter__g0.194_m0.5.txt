@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 431 | label: meter | g:0.194 m:0.5 ---
+
+sa gatvā jayatāṃ śreṣṭhas tanayaiḥ saha vīryavān 
+samudraṃ khānayām āsa vālukārṇavam avyayam ।।

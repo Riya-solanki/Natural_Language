@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4440 | label: meter | g:0.102 m:0.5 ---
+
+mā maivaṃ devagandharva nāsmy āś caryo dvijottama 
+vasudheyaṃ mune dhanyā yatrāham upari sthitaḥ 
+ṛte tu pṛthivīṃ loke kim āścaryam ataḥ param ।।

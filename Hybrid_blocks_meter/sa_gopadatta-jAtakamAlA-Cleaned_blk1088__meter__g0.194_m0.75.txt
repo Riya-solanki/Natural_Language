@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1088 | label: meter | g:0.194 m:0.75 ---
+
+lokaṃ vākyaiḥ kṛtakamadhurair vañcayitvādya maunaṃ
+dhatse kasmāt paruṣapiśunābaddhavādapragalbhaiḥ ।
+ity ākrośann iva sarabhasaṃ rājadantāgradaṣṭāṃ
+jihvāpeśīṃ harati vihagas tuṇḍasaṃdaṃśakena ।।

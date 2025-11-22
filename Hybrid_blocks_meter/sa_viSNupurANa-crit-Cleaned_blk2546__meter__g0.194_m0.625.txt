@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2546 | label: meter | g:0.194 m:0.625 ---
+
+indrapramatir ekāṃ tu saṃhitāṃ svasutaṃ tataḥ 
+māṇḍukeyaṃ mahātmānaṃ maitreyādhyāpayat tadā ।।

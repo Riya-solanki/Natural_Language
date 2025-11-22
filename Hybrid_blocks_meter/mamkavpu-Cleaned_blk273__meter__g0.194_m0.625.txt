@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 273 | label: meter | g:0.194 m:0.625 ---
+
+{alasaśiromaṇi dhuttāṇaṃ aggimo putti dhaṇasamiddhimao ।
+ia bhaṇieṇa ṇaaṅgī papphullaviloaṇā jāā ।।}
+[alasaśiromaṇirdhūrtānāmagrimaḥ putri dhanasamṛddhimayaḥ ।
+iti bhaṇitenanatāṅgī praphullavilocanā jātā ।।]

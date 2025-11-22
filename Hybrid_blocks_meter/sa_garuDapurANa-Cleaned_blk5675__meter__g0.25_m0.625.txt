@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5675 | label: meter | g:0.25 m:0.625 ---
+
+nārikelasya vai puṣpaṃ chāgakṣīreṇa saṃyutam ।
+pibecca trividhastasya raktavāto vinaśyati ।।

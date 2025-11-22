@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 853 | label: meter | g:0.25 m:0.5 ---
+
+sa yācyamāno devaiś ca tathā devarṣibhiḥ saha 
+naiva vyasarjayat tārāṃ tasmā aṅgirase tadā ।। 
+sa saṃrabdhas tadā tasmin devācāryo bṛhaspatiḥ । 
+uśanā tasya jagrāha pārṣṇim aṅgirasas tadā 
+sa hi śiṣyo mahātejāḥ pituḥ pūrvaṃ bṛhaspateḥ ।।

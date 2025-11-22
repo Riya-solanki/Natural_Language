@@ -1,0 +1,8 @@
+--- source: brssgo3u-Cleaned.txt | block: 559 | label: meter | g:0.306 m:0.606 ---
+
+nanvevaṃ sati sa evaikatvadṛḍhīkāra āpadyeta ।
+na vayamekatvadṛḍhīkāraṃ vārayāmaḥ ।
+kiṃ tarhi vyatihāreṇeha dvirūpā matiḥ kartavyā vacanaprāmāṇyānnaikarūpetyetāvadupapādayāmaḥ ।
+phalatastvekatvamapi dṛḍhībhavati ।
+yathādhyānārtho api satyakāmādiguṇopadeśe tadguṇa īśvaraḥ prasiddhyati tadvat ।
+tasmādayamādhyātavyo vyatihāraḥ samāne ca viṣaya upasaṃhartavyo bhavatīti ।।

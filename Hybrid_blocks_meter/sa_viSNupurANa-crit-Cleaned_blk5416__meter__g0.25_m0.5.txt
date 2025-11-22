@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5416 | label: meter | g:0.25 m:0.5 ---
+
+viditārthāṃ tu tām āha punar ūṣā yathoditam 
+devyā tathaiva tatprāptau yo abhyupāyaḥ kuruṣva tam ।।

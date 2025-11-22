@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 60 | label: grammar | g:0.75 m:0.5 ---
+
+[] kiṃ ca, toyam apy amṛtāyate, kim utāmṛtam? kiṃ ca, kathāpi yathā gānaṃ tathā karṇayoḥ pānakāyate, kim uta svayam eva gānam? kiṃ ca, gamanam api nṛtya-cāturī-dhurīṇatām urīkaroti, nṛtyaṃ punar atīvādṛtyam । kiṃ ca, vaṃśī yathā kaṃsārāter āśu sukha-vilāsaṃ śaṃsantī, sahāyatayā ca lasantī ca priya-sakhīyate, na tadvad anyo dhanyo' pi janaḥ sambhavati ।

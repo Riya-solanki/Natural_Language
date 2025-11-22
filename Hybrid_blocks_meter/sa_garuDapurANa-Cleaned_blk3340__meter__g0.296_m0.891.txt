@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3340 | label: meter | g:0.296 m:0.891 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+na kaścitkasyacinmitraṃ na kaścitkasyacidripuḥ ।
+kāraṇādeva jāyante mitrāṇi ripavastathā ।।

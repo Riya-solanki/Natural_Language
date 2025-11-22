@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 865 | label: meter | g:0.102 m:0.555 ---
+
+utpādayām āsa tadā putraṃ vai rājaputrikā 
+tasyāpatyaṃ mahārājo babhūvailaḥ purūravāḥ 
+urvaśyāṃ jajñire yasya putrāḥ sapta mahātmanaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 27 | label: meter | g:0.25 m:0.695 ---
+
+anena jñānam āpnoti saṃsārārṇavanāśanam ।
+tasmād evaṃ viditvainaṃ kaivalyaṃ padam [phalam] aśnute ।
+kaivalyaṃ padam [phalam] aśnute ।।

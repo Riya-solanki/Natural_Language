@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 86 | label: meter | g:0.087 m:0.812 ---
+
+svalpenāghajid-aṃśa-vāmana-pada-sparśena gaṅgā sadā
+sarvāgha-praśamany abhūd api śivasyārūḍha-mūrdhājani ।
+svenaivāghajitā sadā viharatā brahmeśa-lakṣmī-jayi-
+prāśastyena saha vrajena militā gaṅgāparā kiṃ punaḥ ।। [śārdūlā]

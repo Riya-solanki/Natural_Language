@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2375 | label: meter | g:0.25 m:0.625 ---
+
+badhvā tu samayāgrīm vai yatrāviśya parisphuṭet ।
+nidhānantatra vijñeyaṃ mahāratnamayaṃ bhaveet ।।

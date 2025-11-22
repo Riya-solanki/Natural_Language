@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 757 | label: grammar | g:0.559 m:0.425 ---
+
+madhyesadma samudgatā tadanu ca dvārāntarālaṃ gatā niryātātha kathaṃcid aṅgaṇam api preyāṃs tu nālokitaḥ ।
+haṃho vāyasa rājahaṃsa śuka he he śārike kathyatāṃ kā vārteti mṛgīdṛśo vijayate bāṣpāntarāyaṃ vacaḥ ।।
+citrāṅgasya

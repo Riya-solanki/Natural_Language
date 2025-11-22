@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6279 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ sa mantribhiḥ sārdham ekānte sapurohitaiḥ 
+mantrayām āsa khāṇḍikyaḥ sarvair eva mahāmatiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7856 | label: meter | g:0.25 m:0.625 ---
+
+bharyayā dharmacāriṇyā tīrthayātrāṃ vinirgataḥ ।
+kṛtvā tīrthāni vidhivadviśrāṇya vipulaṃ vasu ।।

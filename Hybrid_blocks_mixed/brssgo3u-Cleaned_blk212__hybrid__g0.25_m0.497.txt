@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 212 | label: hybrid | g:0.25 m:0.497 ---
+
+dvividhaśrutiṣu satīṣu nirviśeṣatve kiṃ niyāmakamiti śaṅkate-kathaṃ punariti ।
+tatparātaparavirodhe tatparaṃ balavaditi nyāyo niyāmaka ityāha-arūpavadeveti ।
+upāsanāparavākyeṣu ākāre tātparyābhāve api devatāvigrahādivadākārasiddhimāśaṅkya niṣprapañcaparaśrutivirodhānmaivamityāha-teṣvasatīti ।।

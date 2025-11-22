@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 424 | label: meter | g:0.194 m:0.625 ---
+
+viṣṇuḥ pitṛgaṇaḥ padmā svadhā śāśvatapuṣṭidā 
+dyauḥ śrīḥ sarvātmako viṣṇur avakāśo ativistaraḥ ।।

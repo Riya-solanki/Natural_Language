@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 74 | label: meter | g:0.307 m:0.623 ---
+
+dhīmān pujāṃ tathā kṛtva stotram evaṃ ca kārayet ।
+jinendratoṣaṇārthāya kārayec ca pradakṣiṇām ।।

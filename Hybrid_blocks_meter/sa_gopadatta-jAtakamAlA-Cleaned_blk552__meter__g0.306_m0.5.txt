@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 552 | label: meter | g:0.306 m:0.5 ---
+
+tasya karmāparādhena mātuḥ stanyaṃ kṣayaṃ gatam ।
+ucitām api sā bhikṣāṃ na lebhe duḥkhabhāginī ।।

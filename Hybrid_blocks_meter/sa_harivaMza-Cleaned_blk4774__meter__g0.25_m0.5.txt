@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4774 | label: meter | g:0.25 m:0.5 ---
+
+ity evaṃ tā rudantyaś ca vadantyaś ca punaḥ punaḥ 
+netrajaṃ vāri mumucur aśivaṃ paramāṅganāḥ ।।

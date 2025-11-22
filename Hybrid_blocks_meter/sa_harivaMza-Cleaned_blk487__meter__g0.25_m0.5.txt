@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 487 | label: meter | g:0.25 m:0.5 ---
+
+sā tu bhartuś citāṃ kṛtvā vane tām abhyarohata 
+aurvas tāṃ bhārgavas tāta kāruṇyāt samavārayat ।।

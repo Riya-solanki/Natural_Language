@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2731 | label: meter | g:0.194 m:0.5 ---
+
+tenaivoktaḥ paṭhed vedaṃ nānyacittaḥ puraḥ sthitaḥ 
+anujñātaś ca bhikṣānnam aśnīyād guruṇā tataḥ ।।

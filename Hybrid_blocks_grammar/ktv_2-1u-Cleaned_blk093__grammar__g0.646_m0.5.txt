@@ -1,0 +1,3 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 93 | label: grammar | g:0.646 m:0.5 ---
+
+yady apy anyad vivekakāraṇaṃ nāsti, tathāpi prādhānyaṃ pratyayārthadharmaṃ dṛṣṭvā nūnam iyaṃ pratyayārthaḥ ity avagamyate ।

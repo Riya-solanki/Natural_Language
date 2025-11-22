@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 152 | label: meter | g:0.25 m:0.591 ---
+
+atha khaṇḍitā-
+ullaṅghya samayaṃ yasyāḥ preyān anyopabhogavān । 
+bhoga-lakṣmāñcitaḥ prātar āgacchet sā hi khaṇḍitā ।।
+asyās tu cintā niḥśvāsas tūṣṇīṃ-bhāvo' śru-mocanam । 
+kheda-bhrānty-asphuṭālāpā ity ādyā vikriyā matāḥ ।।

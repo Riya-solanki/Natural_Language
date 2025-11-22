@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2753 | label: meter | g:0.194 m:0.625 ---
+
+taṃ dṛśya bālaṃ mahatā tejasā dīptam avyayam 
+gopaviṣadharaṃ viṣṇuṃ parijajñe puraṃdaraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1331 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ homavidhiṃ kṛtvā nyasenmantrāṃstu deśikaḥ ।
+caraṇāvagnimīḷe tu iṣetvo gulphayoḥ sthitāḥ ।।

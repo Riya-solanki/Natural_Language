@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 892 | label: meter | g:0.25 m:0.75 ---
+
+śrī-kṛṣṇa kṛṣṇa-caitanya sa-sanātana-rūpaka ।
+gopāla raghunāthāpta-vraja-vallabha pāhi mām ।।

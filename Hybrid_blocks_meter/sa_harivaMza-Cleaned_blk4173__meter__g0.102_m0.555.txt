@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4173 | label: meter | g:0.102 m:0.555 ---
+
+ādityapathagaṃ yat tu meroḥ śikharam uttamam 
+jāmbūnadamayaṃ divyaṃ triṣu lokeṣu viśrutam 
+tad apy utpāṭya kṛṣṇārtham ānītaṃ viśvakarmaṇā ।।

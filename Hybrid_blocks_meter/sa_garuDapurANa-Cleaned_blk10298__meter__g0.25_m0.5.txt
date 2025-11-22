@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10298 | label: meter | g:0.25 m:0.5 ---
+
+kevalaṃ sattvamityuktaṃ na tu śreṣṭhatvataḥ prabho ।
+sṛṣṭikāle kevalaṃ syātpralaye miśritaṃ bhavet ।।

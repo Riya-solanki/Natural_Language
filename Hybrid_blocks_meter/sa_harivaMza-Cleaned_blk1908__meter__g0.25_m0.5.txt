@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1908 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ prabhañjano vāyur brahmaṇā sādhu coditaḥ 
+mā śabda iti sarvatra pracakrāma sabhāṃ śubhām ।।

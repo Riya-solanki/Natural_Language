@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 75 | label: grammar | g:0.551 m:0.4 ---
+
+śarīramūlaṃ sarve jñātavyamityāhāyatanam ityādi ।।
+ekam ajarāmaraṃ jarāmaraṇavarjitaṃ śarīraṃ vihāya tyaktvā anyat paramutkṛṣṭaṃ śreyaḥ kalyāṇasvarūpaṃ kiṃ na kim apītyarthaḥ ।।
+kiṃviśiṣṭaṃ śarīram āyatanaṃ vidyānāṃ vyākaraṇādicaturdaśasaṃkhyākāṅgānāṃ nivāsasthānaṃ punaḥ kiṃviśiṣṭaṃ mūlaṃ dharmārthakāmamokṣāṇāṃ caturṇāṃ padārthānāṃ mūlaṃ hetuḥ dharmādayaś catvāraḥ pratītā eva ।।

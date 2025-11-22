@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1606 | label: meter | g:0.194 m:0.625 ---
+
+praviṣṭaḥ ṣoḍaśādhastād dvātriṃśan mūrdhni vistṛtaḥ 
+mūle ṣoḍaśasāhasro vistāras tasya sarvataḥ ।।

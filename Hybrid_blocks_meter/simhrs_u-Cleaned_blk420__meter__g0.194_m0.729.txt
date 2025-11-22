@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 420 | label: meter | g:0.194 m:0.729 ---
+
+devyā līlālapita-madhuraṃ lāsyam ullāsayantyā
+yaḥ śṛṅgāro rahasi purataḥ patyur āviṣkṛto' bhūt ।
+yuṣmān avyāt tad-upajanitaṃ hāsyam ambānukārī
+krīḍā-nṛtyair vikaṭa-gatibhir vyañjayan kuñjarāsyaḥ ।।

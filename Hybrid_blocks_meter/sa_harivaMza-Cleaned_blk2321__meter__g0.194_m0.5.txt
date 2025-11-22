@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2321 | label: meter | g:0.194 m:0.5 ---
+
+tās tu saṃbhrāntavadanā yaśodām ūcur aṅganāḥ 
+ehy āgaccha yaśodeti saṃbhrame kiṃ vilambase ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2016 | label: meter | g:0.194 m:0.75 ---
+
+ābhūtasaṃplavaṃ sthānam amṛtatvaṃ vibhāvyate 
+trailokyasthitikālo ayam apunarmāra ucyate ।।

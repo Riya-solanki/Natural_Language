@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 838 | label: meter | g:0.194 m:0.5 ---
+
+tasya yac cyāvitaṃ tejaḥ pṛthivīm anvapadyata 
+oṣadhyas tāḥ samudbhūtās tejasā prajvalanty uta ।।

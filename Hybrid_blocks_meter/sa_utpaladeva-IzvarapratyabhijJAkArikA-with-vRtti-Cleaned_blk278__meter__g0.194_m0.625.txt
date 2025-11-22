@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 278 | label: meter | g:0.194 m:0.625 ---
+
+kāryam avyabhicāryasya liṅgam anyapramātṛgāt 
+tadābhāsas tadābhāsād eva tv adhipateḥ paraḥ ।।

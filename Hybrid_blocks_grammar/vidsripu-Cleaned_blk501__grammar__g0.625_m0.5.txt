@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 501 | label: grammar | g:0.625 m:0.5 ---
+
+dṛṣṭā dṛṣṭim adho dadāti kurute nālāpam ābhāṣitā śayyāyāṃ parivṛtya tiṣṭhati balād āliṅtitā vepate ।
+niryāntīṣu sakhīṣu vāsabhavanān nirgantum evehate yātā vāmatayaiva me adya sutarāṃ prītyai navoḍhā priyā ।।

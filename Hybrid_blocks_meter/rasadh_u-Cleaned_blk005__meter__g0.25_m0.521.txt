@@ -1,0 +1,6 @@
+--- source: rasadh_u-Cleaned.txt | block: 5 | label: meter | g:0.25 m:0.521 ---
+
+śrībhairavaṃ praṇamyādau sarvajñaṃ trijagatprabhum ।
+śrībhāratīṃ ca vighneśaṃ vande pratyūhaśāntaye ।।
+brahmacaryaṃ tapaḥ kāryaṃ haviṣyānnasya bhojanam ।
+kriyābhraṣṭe na sidhyanti taponaṣṭe phalanti na ।।

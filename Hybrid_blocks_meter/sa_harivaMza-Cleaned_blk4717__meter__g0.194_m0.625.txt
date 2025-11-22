@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4717 | label: meter | g:0.194 m:0.625 ---
+
+tato bāṇasamīpasthāḥ śvasanto rudhirokṣitāḥ 
+na śarma lebhire daityā bhayaviklavalocanāḥ ।।

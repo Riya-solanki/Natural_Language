@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3527 | label: grammar | g:0.75 m:0.5 ---
+
+tatheti ca ṛṣiṇābhihite alpair evāhobhiḥ keśinī putram ekam asamañjasaṃ nāma vaṃśadharam asūta । vinatātanayāyās tu sumatyāḥ ṣaṣṭiḥ putrasahasrāṇy abhavan ।।

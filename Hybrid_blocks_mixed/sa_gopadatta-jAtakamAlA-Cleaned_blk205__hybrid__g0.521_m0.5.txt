@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 205 | label: hybrid | g:0.521 m:0.5 ---
+
+kṛtvābhiyogam api cāgamagahvareṣu svairapracāram anugṛhya mano manuṣyāḥ ।
+alpaśrutā iti jagaty upayānti saṃkhyāṃ cetovinigrahaphalaṃ śrutam āhur āryāḥ ।।

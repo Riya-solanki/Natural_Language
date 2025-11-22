@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7590 | label: meter | g:0.25 m:0.75 ---
+
+bhūmau sthiteṣu piṇḍeṣu gandhapuṣpākṣatānvitam ।
+dātavyaṃ sarvaṃviprebhyo vedaśāstravidhānataḥ ।।

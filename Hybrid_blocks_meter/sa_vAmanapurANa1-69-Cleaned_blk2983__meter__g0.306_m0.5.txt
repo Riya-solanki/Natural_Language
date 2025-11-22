@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2983 | label: meter | g:0.306 m:0.5 ---
+
+te yatnato api turaghāḥ preryamāṇā haraṃ prati ।
+jaghaneṣvavasīdantaḥ kṛcchre ṇohuśca taṃ ratham ।।

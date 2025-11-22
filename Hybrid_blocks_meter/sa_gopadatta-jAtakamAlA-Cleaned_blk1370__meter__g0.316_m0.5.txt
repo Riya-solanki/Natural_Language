@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1370 | label: meter | g:0.316 m:0.5 ---
+
+tad apramādaḥ kriyatāṃ sa eva vo dhruvaṃ samārtāyanatām upeṣyati ।
+visaṃvadanty eva samāgamāḥ priyair nipātaramyāḥ pariṇāmadāruṇāḥ ।।

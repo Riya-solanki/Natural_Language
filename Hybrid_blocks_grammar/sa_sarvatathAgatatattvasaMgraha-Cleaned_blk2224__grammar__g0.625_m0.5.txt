@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2224 | label: grammar | g:0.625 m:0.5 ---
+
+lokeśvarasamāpattyā ramayan sarvayoṣitaḥ । sukha sukha iti prokte tasya sukhaṃ na naśyata ।। ।।

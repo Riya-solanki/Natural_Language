@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3993 | label: hybrid | g:0.268 m:0.471 ---
+
+kṛtau ca yuddhakuśale nityayājini pātite 
+vṛṣṇayaś cāndhakāś caiva sarve vimanaso abhavan ।। 
+rukmiṇī ca mahābhāgā vilapanty ārtayā girā । vilapantīṃ tathā dṛṣṭvā sāntvayām āsa keśavaḥ । 
+etat te sarvam ākhyātaṃ rukmiṇo nidhanaṃ yathā 
+vairasya ca samutthānaṃ vṛṣṇibhir bharatarṣabha ।।

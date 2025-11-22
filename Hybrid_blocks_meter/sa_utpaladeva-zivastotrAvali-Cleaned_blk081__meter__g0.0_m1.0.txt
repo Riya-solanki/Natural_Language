@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 81 | label: meter | g:0.0 m:1.0 ---
+
+surasodbalākhyāṃ caturthaṃ stotram

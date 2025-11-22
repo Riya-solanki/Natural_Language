@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2618 | label: meter | g:0.25 m:0.625 ---
+
+rasanāṃ śūnyamadhyasthāṃ kṛtvā caiva nirāśrayam 
+na dantair daśanān spṛṣṭvā oṣṭhau naiva parasparam ।।

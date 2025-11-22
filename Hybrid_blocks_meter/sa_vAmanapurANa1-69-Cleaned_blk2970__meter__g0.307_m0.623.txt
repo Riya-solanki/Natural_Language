@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2970 | label: meter | g:0.307 m:0.623 ---
+
+tāvāpatantau bhagavān nirīkṣya sudarśanenārivināśanena ।
+viṣṇuḥ kujambhaṃ nijaghāna vegāt sa syandanād gāmagamad gatāsuḥ ।।

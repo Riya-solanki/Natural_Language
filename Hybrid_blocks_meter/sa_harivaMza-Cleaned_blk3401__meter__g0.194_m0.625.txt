@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3401 | label: meter | g:0.194 m:0.625 ---
+
+aho bata vipannāḥ sma vipanne tvayi mānada 
+ekaduṣkṛtakāriṇyaḥ sarvāḥ vaidhavyalakṣaṇāḥ ।।

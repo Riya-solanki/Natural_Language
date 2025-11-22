@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 678 | label: meter | g:0.306 m:0.625 ---
+
+svapno ayam uta māyeti niścayaṃ na labhāmahe ।
+bhavantam api paśyanto locanānandabāndhavaṃ ।।

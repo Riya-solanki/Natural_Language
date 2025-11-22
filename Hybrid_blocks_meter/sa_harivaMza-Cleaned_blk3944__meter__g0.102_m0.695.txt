@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3944 | label: meter | g:0.102 m:0.695 ---
+
+madrarājasutāṃ cāpi suśīlāṃ śubhalocanām 
+satrājitīṃ satyabhāmāṃ lakṣmaṇāṃ cāruhāsinīm 
+śaibyāṃ sudattāṃ rūpeṇa śriyā hy apsarasopamām ।।

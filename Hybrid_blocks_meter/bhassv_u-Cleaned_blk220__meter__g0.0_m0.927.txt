@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 220 | label: meter | g:0.0 m:0.927 ---
+
+tasmād ihaivāsiṣyāvahe 
+{vidūṣakaḥ} - evvaṃ hodu 
+[evaṃ bhavatu । ]

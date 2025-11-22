@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1737 | label: hybrid | g:0.376 m:0.344 ---
+
+rājā-bhīru alaṃ guru-janād bhayena । na te vidita-dharmā hi bhagavān doṣam atra grahīṣyati kulapatiḥ । api ca-
+gāndharveṇa vivāhena bahvyo rājarṣi-kanyakāḥ ।
+śrūyante pariṇītās tāḥ pitṛbhiś cānumoditāḥ ।।

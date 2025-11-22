@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1092 | label: meter | g:0.25 m:0.75 ---
+
+satvavajraṃ pratiṣṭhāpya mūrdhni jvālākula[prabhaṃ] ।
+vajrakrodhasamāpattyā rakṣet sarvamidaṃ jagat ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 66 | label: meter | g:0.25 m:0.5 ---
+
+iti pūrvaṃ vasiṣṭhena pulastyena ca dhīmatā 
+yad uktaṃ tat smṛtiṃ yātaṃ tvatpraśnād akhilaṃ mama ।।

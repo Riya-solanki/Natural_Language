@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 382 | label: hybrid | g:0.352 m:0.314 ---
+
+nanu na yuktaṃ vidyaikatvaṃ prakramabhedāt ।
+anyathā hi prakramante vājasaneyino anyathā chandogāḥ atvaṃ na udgāya' iti vājasaneyina udgīthasya kartṛtvena prāṇamāmananti ।
+chandogāstūdgīthatvena atamudgīthamupāsaṃcakrire' iti ।

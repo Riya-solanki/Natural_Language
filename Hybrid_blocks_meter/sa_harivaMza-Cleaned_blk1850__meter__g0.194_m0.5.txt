@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1850 | label: meter | g:0.194 m:0.5 ---
+
+annajā bhuvi martyānāṃ śramajā vā kathaṃcana 
+naiśā bhavati lokasya nidrā sarvasya laukikī ।।

@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 16 | label: grammar | g:0.729 m:0.5 ---
+
+iti ।pratika{māline} dhāriṇe iti sthitiḥ ।pratika{ānandadehāya} iti sṛṣṭis tasyā ānandarūpatvāt,pratika{avyaktamūrtaye} iti saṃhāraḥ । ayam api satatasiddha eva pūjākramaḥ ।।

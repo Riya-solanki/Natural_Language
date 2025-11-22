@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3060 | label: meter | g:0.25 m:0.5 ---
+
+hatā no bahavo gopā gāvo vatsāś ca vatsalāḥ 
+naike cānye janapadā hatānena durātmanā ।।

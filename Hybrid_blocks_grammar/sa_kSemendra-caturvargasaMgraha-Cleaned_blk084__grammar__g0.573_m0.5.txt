@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 84 | label: grammar | g:0.573 m:0.5 ---
+
+āyur dīrghataraṃ tanotu nayanadvandvaṃ kuraṅgīdṛśāṃ kīrtiṃ te smitasaṃtatiḥ stanataṭaśroṇī viśālaśriyam ।
+devasya trijagajjayāya paṭahe datte mṛgākṣīgiror ity utsāhasahe hitāya vihitā jāne jananyāśiṣaḥ ।।

@@ -1,0 +1,4 @@
+--- source: brsvbh3u-Cleaned.txt | block: 64 | label: meter | g:0.39 m:0.563 ---
+
+āha ca tanmātram ।
+।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1307 | label: meter | g:0.306 m:0.5 ---
+
+iyaṃ vivasvadduhitā narendra nāmnā prasiddhā tapatī pṛthivyām ।
+mayā tavārthāya divākaro arthitaḥ prādānmayā tvāśramamānininye ।।

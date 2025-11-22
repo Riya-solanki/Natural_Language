@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 755 | label: meter | g:0.073 m:0.956 ---
+
+bhaktaḥ svabhāvāt kila gopa-lokaḥ
+śrī-nanda-lokas tu tato' pi goṣu ।
+asyātha govardhana-yajña-yoge
+yogeśa-durgā-namanākhya-bhaktiḥ ।। [indravajrā]

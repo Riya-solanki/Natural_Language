@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 280 | label: hybrid | g:0.486 m:0.5 ---
+
+yāvanta sattva mṛdumadhyamutkṛṣṭa loke sarve avidyaprabhavā sugatena uktāḥ 
+sāmagripratyayu pravartati duḥkhayantro na ca yantra kṣīyati avidya na cāpi vṛddhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2817 | label: meter | g:0.25 m:0.5 ---
+
+pratijñātaṃ ca me kṛṣṇa ṛṣimadhye sureṣu ca 
+mama putro arjuno nāma jātaḥ kuntyāṃ kurūdvahaḥ ।।

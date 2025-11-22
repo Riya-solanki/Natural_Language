@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 40 | label: grammar | g:0.583 m:0.5 ---
+
+tasyāḥ kiṃ cit karadhṛtam iva prāptavānīraśākhaṃ hṛtvā nīlaṃ salilavasanaṃ muktarodhonitambam ।
+prasthānaṃ te katham api sakhe lambamānasya bhāvi jñātāsvādaḥ pulinajaghanāṃ ko vihātuṃ samarthaḥ ।।

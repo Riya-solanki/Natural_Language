@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2593 | label: hybrid | g:0.361 m:0.5 ---
+
+ātmajaṃ te vapur vyomni na paśyanty ātmasaṃbhavam 
+yat tu te kṛtrimaṃ rūpaṃ tad arcanti divaukasaḥ ।। 
+yasya caivaṃvidhaṃ rūpaṃ paśyanti tridivaukasaḥ । 
+davair na dṛṣṭaś cāntas te tenānanta iti smṛta 
+tvaṃ hi sūkṣmo mahān ekaḥ sūkṣmair api durāsadaḥ ।।

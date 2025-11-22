@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 25 | label: grammar | g:0.559 m:0.5 ---
+
+jagat sūte dhātā harir avati rudraḥ kṣapayate tiras kurvann etat svam api vapur īśas tirayati 
+sadāpūrvaḥ sarvaṃ tad idam anugṛhṇāti ca śivas tavājñām ālambya kṣanacalitayor bhrūlatikayoḥ ।।

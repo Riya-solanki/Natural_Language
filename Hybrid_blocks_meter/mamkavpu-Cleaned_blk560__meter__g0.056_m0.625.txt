@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 560 | label: meter | g:0.056 m:0.625 ---
+
+{navajaladharaḥ saṃnaddho ayaṃ na dṛptaniśācaraḥ
+suradhanuridaṃ dūrākṛṣṭaṃ na tasya śarāsanam ।
+ayamapi paṭurdhārāsāro na bāṇaparaṃparā
+kanakanikaṣasnigdhā vidyut priyā na mamorvaśī ।।}

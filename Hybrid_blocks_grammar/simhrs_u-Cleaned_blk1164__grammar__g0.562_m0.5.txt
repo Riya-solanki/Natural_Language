@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1164 | label: grammar | g:0.562 m:0.5 ---
+
+yathā tatraiva tṛtīya-caturthāṅkayoḥ kalpite pratimukha-sandhau nikṣipto rāvaṇa-virodha-mūlaṃ sītā-parigraho bindur ucyate ।

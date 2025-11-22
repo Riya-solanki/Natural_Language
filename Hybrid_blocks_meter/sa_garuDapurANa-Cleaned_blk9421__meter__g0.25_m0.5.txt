@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9421 | label: meter | g:0.25 m:0.5 ---
+
+upayuktañca tasyāsīt yat kiñcit svagṛhe purā ।
+tasya yadgātrasaṃ lagnaṃ vastraṃ bhājanavāhanam ।
+yadabhīṣṭañca tasyāsīt tat sarvaṃ parikalpayet ।।

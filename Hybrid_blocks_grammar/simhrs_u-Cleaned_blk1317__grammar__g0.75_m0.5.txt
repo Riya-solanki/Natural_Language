@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1317 | label: grammar | g:0.75 m:0.5 ---
+
+ity upakramya, rāvaṇaḥ aho matimān māyāmayaḥ । chālito' si janaka-rāja-putryāḥ pratikṛti-samarpaṇena ( padyād anantaram] ity antena mālyavat kapaṭa-vākya-saṃvidhānād abhūtāharaṇam ।

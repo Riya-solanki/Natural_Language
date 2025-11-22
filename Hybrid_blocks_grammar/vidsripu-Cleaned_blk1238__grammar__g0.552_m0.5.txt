@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1238 | label: grammar | g:0.552 m:0.5 ---
+
+kaiścid vītadayena bhogapatinā niṣkāraṇopapluta- prakṣīṇair nijavaṃśabhūr iti mitair atyajyamānāḥ kulaiḥ ।
+grāmā nistṛṇajīrṇakuḍyabahulāḥ svairaṃ bhramadbabhravaḥ prāyaḥ pāṇḍukapotakaṇṭhamukharārāme na yānty utkatām ।।

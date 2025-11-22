@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 816 | label: meter | g:0.064 m:0.739 ---
+
+dīrgha-śvāsaṃ gātra-moṭa-prayuktaṃ
+netre mārjan jāgrad ambeti jalpan ।
+krandan mantha-dhvānam ākarṇya bālaḥ
+śrī-gopālaḥ praskhalaṃs tāṃ jagāma ।। [rucirā]

@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 274 | label: grammar | g:0.623 m:0.422 ---
+
+sarvatra yo heturyādṛgviśeṣaviśeṣṭena sādhyena dṛṣṭāntadharmiṣu niyataḥ sa tādṛgviśeṣaviśiṣṭasya sādhyasya dharmiṇi pramāṇāntaravirodhātsādhanāsamabhavena viparītaṃ viśeṣaṃ niyamabalātsvayameva bādhamāno nirviśeṣasya ca sādhyasyāsaṃbhavātsādhyameva na sādhayati ।
+yathā śarīricetanakartṛkatvena ghaṭādiṣu vyāptamutpattimattvaṃ dehāṅkurādīnāṃ cetanakartṛkatvasādhanāyocyamānaṃ śarīriṇaścetanasyānupalabdhivirodhena sādhayitumaśakyatvādaśarīrasya tenaiva hetunā ghaṭādivannivāraṇādvidhādvayaśūnyasya cetanasyāsaṃbhavāccetanakartṛkatvamevāṅkurādīnāṃ na sādhayati ।
+tena dharmaviśeṣavirodho hetoḥ sādhyasiddhimeva niruṇaddhīti bhavati dūṣaṇam ।
+dharmiviśeṣavirodhastu sādhyāvirodhitvānna dūṣaṇaṃ, pratyuta siddhāntāntaradūṣaṇatvātprativādina eva nigrahasthānatvāddūṣaṇaṃ tadbhavati na vādinaḥ ।।

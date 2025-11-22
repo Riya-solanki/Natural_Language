@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 223 | label: grammar | g:0.604 m:0.5 ---
+
+[] atha tāḥ sanijavṛndayā vṛndayā pariṣkṛtasya latāmandiravṛndasya dvāraṃ tayoḥ praveśadvāraṃ vivikṣanti sma ।

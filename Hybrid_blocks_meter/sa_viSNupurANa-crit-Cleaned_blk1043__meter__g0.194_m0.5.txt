@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1043 | label: meter | g:0.194 m:0.5 ---
+
+he haryaśvā mahāvīryāḥ prajā yūyaṃ kariṣyatha 
+īdṛśo lakṣyate yatno bhavatāṃ śrūyatām idam ।।

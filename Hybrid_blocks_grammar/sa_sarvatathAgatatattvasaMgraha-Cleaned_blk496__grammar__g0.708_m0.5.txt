@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 496 | label: grammar | g:0.708 m:0.5 ---
+
+atha svamudrāṇāṃ sāmānyo mokṣavidhivistaro bhavati । tatrādita eva yatoyataḥ samutpannā mudrā tān tatratatraiva muñcedanena hṛdayena vajra muḥ ।।

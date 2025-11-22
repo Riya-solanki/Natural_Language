@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11090 | label: hybrid | g:0.5 m:0.5 ---
+
+sadā rudro tripurasthāṃśca daityānviṣṇuduho hantu kāmo mahātmā ।
+aghorarūpaṃ dhṛpavānrudra eva tatastvaghoreti sa āpa saṃjñām ।।

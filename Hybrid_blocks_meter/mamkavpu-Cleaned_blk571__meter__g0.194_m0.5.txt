@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 571 | label: meter | g:0.194 m:0.5 ---
+
+{gorapi yadvāhanatāṃ prāptavataḥ so api girisutāsiṃhaḥ ।
+savidhe nirahaṅkāraḥ pāyādvaḥ so ambikāramaṇaḥ ।।}

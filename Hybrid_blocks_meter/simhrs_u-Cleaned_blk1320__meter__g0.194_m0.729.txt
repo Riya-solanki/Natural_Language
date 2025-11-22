@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1320 | label: meter | g:0.194 m:0.729 ---
+
+krūra-kramā kim api rākṣasa-jātir ekā
+tatrāpi kārya-parateti mayi prakarṣaḥ ।
+rāmeṇa tu pravasatā pitur ājñayaiva
+bāṣpāmbhasām aham apīha kṛto rasajñaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3226 | label: meter | g:0.25 m:0.5 ---
+
+satyaṃ manoramāḥ kāmāḥ satyaṃ ramyā vibhūtayaḥ ।
+kintu vai vanitāpāṅgabhaṅgilolaṃ hi jīvitam ।।

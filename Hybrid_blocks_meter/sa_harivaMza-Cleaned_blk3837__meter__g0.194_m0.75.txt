@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3837 | label: meter | g:0.194 m:0.75 ---
+
+sa gṛhya vacanaṃ tasya kṛṣṇasyākliṣṭakarmaṇaḥ 
+vāyur ātmopamagatir jagāma tridivālayam ।।

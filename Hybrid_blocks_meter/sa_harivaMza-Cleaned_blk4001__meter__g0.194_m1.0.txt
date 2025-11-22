@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4001 | label: meter | g:0.194 m:1.0 ---
+
+nāgāyutasamaprāṇo bhīmo bhīmaparākramaḥ 
+asakṛd baladevena bāhuyuddhe parājitaḥ ।।

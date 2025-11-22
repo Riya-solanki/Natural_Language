@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 574 | label: hybrid | g:0.47 m:0.506 ---
+
+aprajñayā śarīraṃ samāruhya' iti cātmaprajñayoḥ kartṛkaraṇabhāvena pṛthagupadeśāccaitanyaguṇenaivāsya śarīravyāpitā gamyate ।
+atadeṣāṃ prāṇānāṃ vijñānena vijñānamādāya' iti ca kartuḥ śārīratpṛthagvijñānasyopadeśa etamevābhiprāyamupodbalayati ।
+tasmādaṇurātmeti ।।

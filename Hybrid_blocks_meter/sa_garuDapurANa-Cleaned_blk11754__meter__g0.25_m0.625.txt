@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11754 | label: meter | g:0.25 m:0.625 ---
+
+dānādikaṃ tathā jñātvā jajāpa paramaṃ manum ।
+śrīnivāsasamīpaṃ tu punarāgatya bhāminī ।।

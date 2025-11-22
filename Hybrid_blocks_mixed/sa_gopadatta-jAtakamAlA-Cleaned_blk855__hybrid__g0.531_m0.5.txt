@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 855 | label: hybrid | g:0.531 m:0.5 ---
+
+namanti yaṃ brahmavido maharṣayaḥ punāti yo viśvam idaṃ vṛṣāṃśubhiḥ ।
+apuṇyarāśir yadi sa vratīśvaras tathāgataḥ puṇyanidhiḥ kuto aparaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2156 | label: hybrid | g:0.465 m:0.5 ---
+
+ślāghyaś ca sa hi te mṛtyur bhūtapūrvaś ca taṃ smara 
+yatnaś ca kriyatāṃ kaṃsa garbhasthe yadi śakyate ।।

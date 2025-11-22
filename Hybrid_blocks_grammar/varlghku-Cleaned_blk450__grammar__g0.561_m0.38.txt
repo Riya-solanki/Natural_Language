@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 450 | label: grammar | g:0.561 m:0.38 ---
+
+bhūsuvostiṅi ।।
+bhū sū etayoḥ sārvadhātuke tiṅi pare guṇo na । abhūtām । abhūḥ । abhūta । abhūva ।

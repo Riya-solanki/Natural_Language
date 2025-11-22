@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 190 | label: hybrid | g:0.542 m:0.5 ---
+
+gāḍhagāḍhabhavadaṅghrisarojāliṅganavyasanatatparacetāḥ vastv avastv idam ayatnata eva tvāṃ kadā samavalokayitāsmi ।।

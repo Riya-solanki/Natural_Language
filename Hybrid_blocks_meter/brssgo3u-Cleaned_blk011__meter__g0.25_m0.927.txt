@@ -1,0 +1,11 @@
+--- source: brssgo3u-Cleaned.txt | block: 11 | label: meter | g:0.25 m:0.927 ---
+
+FN darśanopāyāḥ saṃnyāsādayaḥ ।
+prasaṅgagataṃ dehātmadūṣaṇam ।
+pañcasu dyuparjanyapṛthivīpuruṣayoṣitsvagnidhyānaṃ pañcāgnividyā ।
+karma dharmādharmākhyaṃ, pūrvaprajñā janmāntarasaṃskāraḥ ।
+bhāvanāyā dīrghībhāvo bhāvidehaviṣayatvam ।
+kevaleti saugatakalpanam ।
+mana iti vaiśeṣikakalpanam ।
+jīva iti digambarakalpanam ।
+lokāyatakalpanāmādyagrahaṇena saṃgṛhyati ।

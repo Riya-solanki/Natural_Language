@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3365 | label: hybrid | g:0.5 m:0.5 ---
+
+nijaṃ rājyaṃ ca deveśa prāpsyase na cirādiva ।
+yatiṣyāmi tathā śakra bhāvi śreyo yatā tava ।।

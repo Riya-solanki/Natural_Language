@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1135 | label: grammar | g:0.625 m:0.5 ---
+
+kaścit kaṣṭaṃ kirati karakājālam eko atimātraṃ garjaty eva kṣipati viṣamaṃ vaidyutaṃ vahnim anyaḥ ।
+sūte vātaṃ javanam aparas tena jānīhi tāvat kiṃ vyādatse vihaga vadanaṃ tatra tatrāmbuvāhe ।।

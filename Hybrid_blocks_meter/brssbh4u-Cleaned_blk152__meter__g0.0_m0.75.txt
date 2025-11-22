@@ -1,0 +1,3 @@
+--- source: brssbh4u-Cleaned.txt | block: 152 | label: meter | g:0.0 m:0.75 ---
+
+pratiṣedha adhikaraṇam । sū

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2552 | label: meter | g:0.25 m:0.625 ---
+
+sā evāntyapradānā tu vajrakośaprayojitā ।
+vajracakraprayogā tu sā eva mukhatoddhṛtā ।।

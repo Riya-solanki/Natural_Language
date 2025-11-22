@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4958 | label: hybrid | g:0.258 m:0.495 ---
+
+evaṃ bhavatu bhadraṃ te na rujā prabhaviṣyati 
+akṣataṃ tava gātraṃ ca svasthāvasthaṃ bhaviṣyati ।। 
+cakrapāṭanajā ghorā rujā te surasattama । na bhaviṣyati gātreṣu balavāṃś ca bhaviṣyasi । 
+caturthaṃ te varaṃ dadmi vṛṇīṣvāsura kāṅkṣitaṃ 
+na te ahaṃ vimukhas tāta prasādasumukho hy aham ।।

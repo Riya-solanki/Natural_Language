@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 123 | label: meter | g:0.194 m:0.75 ---
+
+na nīcaiḥ saṃvasennnāpi vṛthā yāyādgṛhādgṛham
+tathā nopahasetkaṃcin nānukuryānna pīḍayet ।

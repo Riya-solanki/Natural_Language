@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 768 | label: meter | g:0.25 m:0.625 ---
+
+śuci bhūṣayati śrutaṃ vapuḥ praśamastasya bhavatyalaṅkriyā ।
+praśamābharaṇaṃ parākramaḥ sa nayāpāditasiddhibhaṣaṇaḥ ।।

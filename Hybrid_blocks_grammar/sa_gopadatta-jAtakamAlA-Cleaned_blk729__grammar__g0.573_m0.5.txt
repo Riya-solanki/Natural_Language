@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 729 | label: grammar | g:0.573 m:0.5 ---
+
+āvir bhavanti tanavo api paropakārā yasmiṃs tad eva ramaṇīyam upaiti sādhuḥ ।
+duḥkheṣv anātmasu caleṣv aparāyaṇeṣu kiṃ vā bhaveṣu ratikāraṇam asti rājan ।।

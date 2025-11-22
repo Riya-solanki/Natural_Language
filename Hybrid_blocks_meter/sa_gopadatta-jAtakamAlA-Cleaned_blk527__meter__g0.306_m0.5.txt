@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 527 | label: meter | g:0.306 m:0.5 ---
+
+praviṣṭapūrvā na gṛhaṃ kadā cid dvijātayas tasya kapālahastāḥ ।
+śuśrāva sa pravrajitānanebhyo na dakṣiṇādeśanamaṅgalāni ।।

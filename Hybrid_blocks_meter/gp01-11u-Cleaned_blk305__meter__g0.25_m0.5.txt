@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 305 | label: meter | g:0.25 m:0.5 ---
+
+mohe' pi svapna-kalitaṃ niśamya muralī-kalam ।
+parasparaṃ jāgratas te paśyanti sma sa-vismayam ।। [anuṣṭubh]

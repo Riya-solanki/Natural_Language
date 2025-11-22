@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2045 | label: meter | g:0.263 m:0.631 ---
+
+pulastya uvāca ।
+purā tapastapyati gālavarṣirmahāśrame sve satataṃ niviṣṭaḥ ।
+papātālaketustapaso asya vighnaṃ karoti mauḍhyāt sa samādhibhaṅgam ।।

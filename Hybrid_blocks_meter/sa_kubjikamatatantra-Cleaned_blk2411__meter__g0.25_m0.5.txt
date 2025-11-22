@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2411 | label: meter | g:0.25 m:0.5 ---
+
+ṣaṭkaṃ ṣaṭkaṃ tu kartavyaṃ tatra pūjya krameṇa tu 
+śmaśānakalpavṛkṣe tu yoginyaḥ kṣetrapās tathā ।।

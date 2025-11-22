@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 241 | label: meter | g:0.25 m:0.5 ---
+
+ākruṣṭaḥ śatadhā vāpi tāḍitas tu sahasradhā 
+evaṃ kṛte na yasyāsti virāgas tasya yogyatā ।।

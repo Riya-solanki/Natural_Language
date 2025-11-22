@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9394 | label: meter | g:0.25 m:0.5 ---
+
+śavahaste ca yacchrāddhaṃ mṛtisthāne dvijāsane ।
+tadeva prathamaṃ śrāddhaṃ tat syādekādaśe ahani ।।

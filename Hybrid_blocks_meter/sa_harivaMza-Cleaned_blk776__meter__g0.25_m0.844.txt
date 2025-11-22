@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 776 | label: meter | g:0.25 m:0.844 ---
+
+svatantras tv aṇuhāj jajñe brahmadatto mahāyaśāḥ 
+yathāsyāsīt pakṣibhāve saṃkalpaḥ pūrvacintitaḥ ।। 
+jñānadhyānatapaḥpūtā vedavedāṅgapāragāḥ । 
+chidradarśī sunetraś ca tathā bābhravyavatsayoḥ 
+jātau śrotriyadāyādau vedavedāṅgapāragau ।।

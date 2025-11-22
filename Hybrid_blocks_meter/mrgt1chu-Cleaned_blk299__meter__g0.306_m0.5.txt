@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 299 | label: meter | g:0.306 m:0.5 ---
+
+dharmiṇo anugraho nāma yattad dharmānuvartanam ।
+na so asti kasyacij jātu yaḥ patyā nānuvartyate ।।

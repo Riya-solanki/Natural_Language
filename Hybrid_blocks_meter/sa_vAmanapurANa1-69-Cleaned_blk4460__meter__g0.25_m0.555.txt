@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4460 | label: meter | g:0.25 m:0.555 ---
+
+na sa saṃsārapaṅke asmin majjate dānaveśvara ।
+kalyamutthāya ye bhaktyā smaranti madhusūdanam ।
+stuvantyapyabhiśṛṇvanti durgaṇyatitaranti te ।।

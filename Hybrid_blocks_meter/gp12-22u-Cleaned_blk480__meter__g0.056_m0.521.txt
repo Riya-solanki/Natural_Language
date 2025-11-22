@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 480 | label: meter | g:0.056 m:0.521 ---
+
+vanasya cchāyābhir jaḍita-jala-vṛnde vikasataḥ
+śucāv apy abjādeḥ pavana-vitatir mādhava iva ।
+tad evārdraṃ kṛtvā kusumitam akārṣīd avirataṃ
+mitho yogyānāṃ yad vyativahati maitrī-sukha-śatam ।। [śikhariṇī]

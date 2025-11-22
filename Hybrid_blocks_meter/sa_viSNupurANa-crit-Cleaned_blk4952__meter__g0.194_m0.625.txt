@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4952 | label: meter | g:0.194 m:0.625 ---
+
+bahuprakāram atyarthaṃ paścāttāpāturo hariḥ 
+tāḥ samāśvāsayām āsa svayam asrāvilekṣaṇaḥ ।।

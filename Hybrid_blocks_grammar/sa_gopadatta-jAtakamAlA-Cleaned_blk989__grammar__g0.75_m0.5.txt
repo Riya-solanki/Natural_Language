@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 989 | label: grammar | g:0.75 m:0.5 ---
+
+tṛṇapuruṣakān apy ālokya dravanti manāṃsi no na niśi na divā mṛtyor bhītāḥ sukhāni labhāmahe । vitatadhanuṣaṃ dṛṣṭvā vyādhaṃ kṛtāntam ivāparaṃ na bhavati bhayatrastāṅgānāṃ manāg api bhojanam ।।

@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 141 | label: meter | g:0.062 m:0.637 ---
+
+yathā dṛśāṃ diśi diśi tā dadhur muhus
+tathā haris tad-abhimukhaṃ dadhe dṛśam ।
+yadānvabhūd arahita-cāturakṣyatā
+tadāhasīt sphuṭam asakṛt kṛta-kramam ।। [rucirā]

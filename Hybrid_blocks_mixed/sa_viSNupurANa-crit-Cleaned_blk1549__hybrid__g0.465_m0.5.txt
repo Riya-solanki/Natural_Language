@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1549 | label: hybrid | g:0.465 m:0.5 ---
+
+ahaṃ hariḥ sarvam idaṃ janārdano nānyat tataḥ kāraṇakāryajātam 
+īdṛṅ mano yasya na tasya bhūyo bhavodbhavā dvandvagadā bhavanti ।।

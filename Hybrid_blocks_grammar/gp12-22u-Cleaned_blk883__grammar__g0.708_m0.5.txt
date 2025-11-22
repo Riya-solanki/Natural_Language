@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 883 | label: grammar | g:0.708 m:0.5 ---
+
+iti gautamādi-sammatyā gojātiṣu prīti-rīti-parītasya tasya kṣamāpaṇāya kātaras tvaṃ taj-jāti-mātaraṃ surabhīm eva bhajasva, na ced asurataḥ surabhī-saṅgatir bhaviṣyati ।

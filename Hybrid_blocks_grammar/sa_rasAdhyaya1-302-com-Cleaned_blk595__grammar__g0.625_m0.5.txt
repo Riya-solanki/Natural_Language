@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 595 | label: grammar | g:0.625 m:0.5 ---
+
+tatastacchulbasyaiko bhāgaḥ tathā dvau hemabhāgau evaṃ bhāgatrayaṃ gālayitvā iti tat sthūlaṃ pattraṃ kuryāt ।।

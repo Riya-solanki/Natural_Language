@@ -1,0 +1,3 @@
+--- source: kamasufu-Cleaned.txt | block: 8 | label: meter | g:0.271 m:0.5 ---
+
+iti śrīvātsyāyanīye kāmasūtre sādhāraṇe prathame adhikaraṇe vidyā-samuddeśaḥ tṛtīyo adhyāyaḥ

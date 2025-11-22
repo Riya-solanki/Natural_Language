@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3692 | label: meter | g:0.306 m:0.5 ---
+
+yatreśvaro devavarasya viṣṇoḥ prādādrathāṅgapravarāyudhaṃ vai ।
+yena praciccheda tridhaiva śaṅkaraṃ jijñāsamāno astrabalaṃ mahātmā ।।

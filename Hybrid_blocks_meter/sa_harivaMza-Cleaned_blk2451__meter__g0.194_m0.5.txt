@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2451 | label: meter | g:0.194 m:0.5 ---
+
+sa kadācid vane tasmin gobhiḥ saha parivrajan 
+dadarśa vipulodagraṃ śākhinaṃ śākhināṃ varam ।।

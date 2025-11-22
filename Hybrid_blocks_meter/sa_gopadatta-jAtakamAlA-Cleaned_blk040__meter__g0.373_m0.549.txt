@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 40 | label: meter | g:0.373 m:0.549 ---
+
+yatra tvayātithijanapraṇayo niṣevyo jvālāsakhīśatapariṣvajanocitena ।
+sa tvaṃ vyathām upagato raviraśmitapto hārād bibheṣi na tu ghoraviṣād bhujaṅgat ।।

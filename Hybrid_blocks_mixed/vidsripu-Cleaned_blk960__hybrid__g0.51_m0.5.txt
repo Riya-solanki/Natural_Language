@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 960 | label: hybrid | g:0.51 m:0.5 ---
+
+asāv ekadvitriprabhṛtiparipāṭyā prakaṭayan kalāḥ svairaṃ svairaṃ navakamalakandāṅkurarucaḥ ।
+purandhrīṇāṃ preyovirahadahanoddīpitadṛśāṃ kaṭākṣebhyo bibhyan nibhṛtam iva candro abhyudayate ।।

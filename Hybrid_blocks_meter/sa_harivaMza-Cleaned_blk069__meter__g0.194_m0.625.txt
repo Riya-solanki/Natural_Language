@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 69 | label: meter | g:0.194 m:0.625 ---
+
+samudratanayāyāṃ tu kṛtadāro abhavat prabhuḥ 
+mahatas tapasaḥ pāre savarṇāyāṃ mahīpatiḥ ।।

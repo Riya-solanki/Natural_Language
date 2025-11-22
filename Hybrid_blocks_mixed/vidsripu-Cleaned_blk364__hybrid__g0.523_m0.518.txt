@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 364 | label: hybrid | g:0.523 m:0.518 ---
+
+vidhatte sollekhaṃ katarad iha nāṅgaṃ taruṇimā tathāpi prāgalbhyaṃ kim api caturaṃ locanayuge ।
+yad ādatte dṛśyād akhilam api bhāvavyatikaraṃ manovṛttiṃ draṣṭuḥ prathayati ca dṛśyaṃ prati janam ।।
+etau rājaśekharasya

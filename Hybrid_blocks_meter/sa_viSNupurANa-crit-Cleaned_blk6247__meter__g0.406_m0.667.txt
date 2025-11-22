@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6247 | label: meter | g:0.406 m:0.667 ---
+
+tejobalaiśvaryamahāvabodha svavīryaśaktyādiguṇaikarāśiḥ 
+paraḥ parāṇāṃ sakalā na yatra kleśādayaḥ santi parāvareśe ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4547 | label: meter | g:0.25 m:0.5 ---
+
+hastī matta ivājastraṃ mūtraṃ vegavivarjitam ।
+salasīkaṃ vivaddhaṃ ca hastimehī pramehati ।।

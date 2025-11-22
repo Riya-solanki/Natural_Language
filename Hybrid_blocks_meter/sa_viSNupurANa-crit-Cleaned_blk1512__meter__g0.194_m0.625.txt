@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1512 | label: meter | g:0.194 m:0.625 ---
+
+praśāntam abhayaṃ śuddhaṃ durvibhāvyam asaṃśrayam 
+viṣṇor jñānamayasyoktaṃ taj jñānaṃ paramaṃ padam ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 780 | label: meter | g:0.272 m:0.845 ---
+
+kāyavākcittavajrāgryaprayogaiḥ praṇamantathā ।
+pūjayaṃ sarvabuddhāṃstu vandanīyo bhaved dhruvaṃ ।।

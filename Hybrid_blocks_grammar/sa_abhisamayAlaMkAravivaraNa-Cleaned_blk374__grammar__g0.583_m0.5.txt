@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 374 | label: grammar | g:0.583 m:0.5 ---
+
+avadhiḥ sambhāramārgeṃ kevalamidaṃ bhavatīti jñeyam । cittotpādasamakālamevotpadya svasantāne yāvanna śraddhādipañcendriyotpādastāvadasya vyāptirbhavati ।

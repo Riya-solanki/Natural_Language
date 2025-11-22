@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5029 | label: meter | g:0.25 m:0.5 ---
+
+acandrārkagrahā bhūmir bhaved api na saṃśayaḥ 
+apauravā na tu mahī bhaviṣyati kadācana ।। 
+tatas teṣūpaviṣṭeṣu sadasyaiḥ saha śaunakaḥ । 
+ukto ayaṃ harivaṃśas te parvāṇi nikhilāni ca 
+yathā puroktāni tathā vyāsaśiṣyeṇa dhīmatā ।।

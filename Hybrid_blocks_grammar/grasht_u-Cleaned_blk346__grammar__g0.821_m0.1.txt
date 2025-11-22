@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 346 | label: grammar | g:0.821 m:0.1 ---
+
+nirnāgakaraṇe vidhānamāha kṛtvetyādi ।।
+tu punaḥ dīrghāṃ gostanākārāṃ sudṛḍhāṃ nirvraṇavajropamāṃ mūṣāṃ kṛtvā tāṃ mūṣāṃ prati śilālacūrṇaṃ kṣiptvā śilā manohvā ālaṃ haritālaṃ etayoścūrṇaṃ paścātsūtaṃ pūrvoktaṃ pāradaṃ kṣiptvā tato'nantaraṃ śilācūrṇaṃ kṣiptvā tāmeva rasasaṃyuktāṃ mūṣāṃ bhasmagartāyāṃ bhasmanā yuktā yā gartā tasyāṃ dhmātaṃ kuryāt punastāvadbhasmanā ācchādya yāvatsvāṅgaśītalaṃ svayameva śītalaṃ syāt ।।
+tatra tasyāṃ mūṣāyāṃ sakalaṃ samastaṃ nāgaṃ subhakṣitaṃ jīrṇatāṃ gataṃ jñātvā sūtaṃ ākṛṣya uddhārya nirnāgakaraṇavidhānam etat ।।

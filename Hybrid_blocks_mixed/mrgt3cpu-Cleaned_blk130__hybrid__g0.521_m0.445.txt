@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 130 | label: hybrid | g:0.521 m:0.445 ---
+
+Vṛtti:
+samayinā putrakeṇa [śāstramadhītya] śāstrapāṭhānantaraṃ [gurau vasan gurutantraḥ] gurugṛhādhivāsinā tatpāratantryeṇa ca [abhimānamātsaryaḍambhasantatim] abhimānam ahaṃkāraṃ mātsaryaṃ dveṣaṃ ḍambhaṃ kṛtrimaṃ vyasanasantatiṃ kleśahelāparamparāṃ tyaktvā vihāya [śṛṇuyāt] tacchravaṇaṃ kāryam।
+[gurusannidhau varjyāni]

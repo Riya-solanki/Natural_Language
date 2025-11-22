@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 308 | label: meter | g:0.253 m:0.65 ---
+
+pulastya uvāca ।
+ityevamukto vṛṣabhadhvajena yakṣaḥ pratīcchat sa vijṛmbhaṇādīn ।
+toṣaṃ jagāmāśu tatastriśūlī tuṣṭastadaivaṃ vacanaṃ babhāṣe ।।

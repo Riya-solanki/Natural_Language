@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1345 | label: hybrid | g:0.521 m:0.5 ---
+
+samudraḥ-yathā saptamo vaikuṇṭhāvatāraḥ ity antena samudra-rāmacandrayoḥ paraspara-priya-vacana-saṅgrahaṇāt saṅgrahaḥ ।

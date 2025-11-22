@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4210 | label: meter | g:0.194 m:0.5 ---
+
+so anujñāto hi satkṛtya praṇamya ca janārdanam 
+ūrdhvam ācakrame pakṣī yatheṣṭaṃ gaganecaraḥ ।।

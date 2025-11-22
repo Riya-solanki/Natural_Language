@@ -1,0 +1,4 @@
+--- source: jsbh1-3u-Cleaned.txt | block: 25 | label: meter | g:0.302 m:0.625 ---
+
+iti navamamākṛtyadhikaraṇam ।।
+iti śrīkhaṇḍadevāntevāsikavimaṇḍanaśaṃbhubhaṭṭaviracitāyāṃ bhāṭṭadīpikāprabhāvalyāṃ prathamasyādhyāyasya tṛtīyaḥ pādaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 397 | label: meter | g:0.194 m:0.75 ---
+
+evaṃ sarvaśarīreṣu bhagavān bhūtabhāvanaḥ 
+saṃsthitaḥ kurute viṣṇur utpattisthitisaṃyamān ।।

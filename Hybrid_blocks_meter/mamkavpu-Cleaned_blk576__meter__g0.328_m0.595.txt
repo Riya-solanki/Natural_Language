@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 576 | label: meter | g:0.328 m:0.595 ---
+
+apāsya cyutasaṃskāramasamarthaṃ nirarthakam ।
+vākye api doṣāḥ santyete padasyāṃśe api kecana ।।

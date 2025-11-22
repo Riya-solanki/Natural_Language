@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1948 | label: meter | g:0.29 m:0.615 ---
+
+atha anṛtam-
+anṛtaṃ tu bhaved vākyam asabhya-stuti-gumphitam । 
+tad evānṛtam ity āhur apare sva-mata-stuteḥ ।।

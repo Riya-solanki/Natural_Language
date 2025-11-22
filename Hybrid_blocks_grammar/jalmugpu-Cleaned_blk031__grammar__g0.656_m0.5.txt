@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 31 | label: grammar | g:0.656 m:0.5 ---
+
+rāgīti pratipattibhūr vita iti prāpto ativandyaṃ padaṃ ślāghārho vyasanīti hīnakula ity agryaḥ kuṭumbaḥ svayam ।
+mānyaḥ prāhata ity aho kitava ity āptaś ca kiṃ vādhikaṃ sarvāvastha iti pramāṇapuruṣo veśyābhir abhyarcyate ।।

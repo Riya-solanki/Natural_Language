@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 338 | label: meter | g:0.26 m:0.5 ---
+
+śravyāṇāṃ svāda-sāraṃ śrutir anumanute yat tu yad vā sudhābdher
+manthāl labdhaṃ, rasajñā sukha-hṛdija-sukhaṃ citta-vṛttir yad eva ।
+kiṃ tat kṛṣṇeti varṇa-dvayam ayam athavā kṛṣṇa-varṇa-dyutīnām
+ājīvyaḥ ko' pi śaśvat sphurati nava-yuvety ūhayā mohitāsmi ।। [sragdharā]

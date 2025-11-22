@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 21 | label: grammar | g:0.694 m:0.5 ---
+
+kiṃ kāko api vihaṃgamo marur api sthānaṃ karīro api kiṃ śākhī rāhur api grahaḥ sa ca bhaved uṣṭro api kiṃ vā[ha]tam
+kiṃ kāco api maṇir mṛgo api karaṭiḥ preṣyo api vā mānuṣaḥ kiṃ veśyāi vilāsinī sa ca tad-āsakto api kiṃ kāmukaḥ ।।

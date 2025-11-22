@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 107 | label: meter | g:0.25 m:0.625 ---
+
+kaśyapo gāruḍādvṛkṣaṃ dagdhaṃ cājīvayadyataḥ ।
+garuḍaḥ sa haristena proktaṃ śrīkaśyapāya ca ।।

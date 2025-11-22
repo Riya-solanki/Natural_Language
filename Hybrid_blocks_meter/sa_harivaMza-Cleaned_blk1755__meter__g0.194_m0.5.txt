@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1755 | label: meter | g:0.194 m:0.5 ---
+
+vyavardhata ca vegena suparṇena samaṃ vibhuḥ 
+bhujāś cāsya vyavardhanta vyāpnuvanto diśo daśa ।।

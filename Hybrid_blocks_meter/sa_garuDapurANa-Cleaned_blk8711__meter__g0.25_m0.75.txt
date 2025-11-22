@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8711 | label: meter | g:0.25 m:0.75 ---
+
+yudhiṣṭhira uvāca ।
+kena karmavipākena pretatvamupajāyate ।
+kena vā mucyate kasmāttanme brūhi pitāmaha ।
+yacchrutvā na punarmohamevaṃ yāsyā mi suvrata ।।

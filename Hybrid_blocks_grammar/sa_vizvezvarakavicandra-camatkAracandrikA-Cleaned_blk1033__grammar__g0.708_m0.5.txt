@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1033 | label: grammar | g:0.708 m:0.5 ---
+
+atra nāyakasya pātradattadharmadravyānanuśocanalakṣaṇaṃ vastu prastutya tatsādhanasamarthaṃprabhusvabhāvalakṣaṇaṃ vastvantaramupanyastamiti sāhasaṃ ṣaṅguṇaṃ hi । atra kīrteḥ saptārṇavalaṅghanamupanyasya tatsādhanasamarthasya ṣaḍguṇastrisāhasavastvantarasyopanyāsādayaṃ tathoktaḥ ।

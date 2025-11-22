@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 779 | label: meter | g:0.194 m:0.625 ---
+
+sarvasattvarutajñaś ca rājāsīd aṇuhātmajaḥ 
+pāñcālakaṇḍarīkābhyāṃ tasya saṃvid abhūt tadā ।।

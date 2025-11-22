@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6021 | label: meter | g:0.194 m:0.625 ---
+
+snānāvasānaṃ te tasya pratīkṣanto maharṣayaḥ 
+tasthus taṭe mahānadyās taruṣaṇḍam upāśritāḥ ।।

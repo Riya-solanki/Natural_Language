@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7992 | label: meter | g:0.25 m:0.831 ---
+
+tṛtīyaḥ śīghragasturyorodhako lekhakaḥ paraḥ ।
+brāhmaṇa uvāca ।
+pretānāṃ karmajātānāṃ kuto nāma nirarthakam ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 627 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam aghadamanena tāsāṃ krama-paramparātaḥ parasparaṃ sva-viṣayābhilāṣa-vyañjanā-sañjanaṃ kiñcil lajjā-paryayam ācarya tādṛśa-ramya-sva-vidyā-bala-tāratamya-viduratayā vidūrato' pi tam avadhārya para-parataḥ parārdhyaṃ samardhyamānāṃ punar veṇu-śikṣāṃ vilakṣaṇī-kurvatā saṅkarṣaṇaḥ kevalaṃ lakṣyāya kalpayāñcakre । yatra hi sarvam eva yugapan mugdhatā-digdhaṃ babhūva ।

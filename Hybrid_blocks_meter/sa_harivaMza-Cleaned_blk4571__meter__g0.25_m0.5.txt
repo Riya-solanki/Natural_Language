@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4571 | label: meter | g:0.25 m:0.5 ---
+
+yāny ahaṃ vividhāny asya śrutvā prīye mahāmune 
+prabrūyāḥ sarvaśas tāta tāni me vaktum arhasi ।।

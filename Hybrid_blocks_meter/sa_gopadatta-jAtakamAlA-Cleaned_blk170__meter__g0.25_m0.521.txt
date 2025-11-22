@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 170 | label: meter | g:0.25 m:0.521 ---
+
+ye janmaivādhimuktāḥ śamasukhamahatīṃ nirvṛtiṃ śuddhasattvā
+yeṣāṃ kleśāvaśeṣo apy upaśamitabalo yo apy upādānam eva ।
+ātmatvenābhyupetā jagad idam akhilaṃ ye kṛpākrāntacittās
+teṣāṃ ślāghyā pravṛttir gatiṣu na tu bhavāsvādaparyastabuddhiḥ ।।

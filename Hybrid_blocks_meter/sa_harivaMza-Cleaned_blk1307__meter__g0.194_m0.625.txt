@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1307 | label: meter | g:0.194 m:0.625 ---
+
+purā kamalanābhasya svapataḥ sāgarāmbhasi 
+puṣkare yatra saṃbhūtā devāḥ sarṣigaṇāḥ purā ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1109 | label: meter | g:0.25 m:0.61 ---
+
+lāvaṇyādiguṇojjvalā pratipadanyāsairvilāsāñcitā vicchittyā racitairvibhūṣaṇabharairalpainohāriṇī ।
+atyarthaṃ rasavattayārdrahṛdayā mano hartuṃ yathā nāyikā ।।

@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 442 | label: grammar | g:0.562 m:0.5 ---
+
+athāṅpatterapi kāryotpādane kāraṇasattāyā avyabhicāro viṣayaḥ na ca kāraṇadharmo nimittapratibandhāt kāyāṅnutpādakatvamiti ।।

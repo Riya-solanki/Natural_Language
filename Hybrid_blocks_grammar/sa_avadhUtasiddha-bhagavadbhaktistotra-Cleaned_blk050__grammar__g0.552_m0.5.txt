@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 50 | label: grammar | g:0.552 m:0.5 ---
+
+prītena yadvad upamanyur apāstamanyuḥ kṣīrodasaṃvibhajanena kṛtas tvayāsau ।
+tadvad vibho yadi jagaty aparo asi kaścin nirmucya matsaram amī pravadanti santaḥ ।।

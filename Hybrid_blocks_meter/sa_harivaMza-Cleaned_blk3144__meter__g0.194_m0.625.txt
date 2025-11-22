@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3144 | label: meter | g:0.194 m:0.625 ---
+
+tatraiva gurukaṃ bhāṇḍaṃ sakaṭāropitaṃ bahu 
+tvaritāḥ pṛṣṭhataḥ kṛtvā jagmuḥ syandanavāhanāḥ ।।

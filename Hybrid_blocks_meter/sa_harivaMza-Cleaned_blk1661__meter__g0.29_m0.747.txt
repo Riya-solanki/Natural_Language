@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1661 | label: meter | g:0.29 m:0.747 ---
+
+tiryagāyataraktākṣaṃ mandarodagravakṣasam 
+didhakṣantam ivāyāntaṃ sarvān devagaṇān mṛdhe ।।

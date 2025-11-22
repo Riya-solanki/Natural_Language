@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 171 | label: hybrid | g:0.521 m:0.5 ---
+
+tad āhur na te vidur ye tathā kurvanty ।

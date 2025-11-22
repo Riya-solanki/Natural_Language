@@ -1,0 +1,7 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 34 | label: hybrid | g:0.365 m:0.5 ---
+
+kāryam etad brāhmaṇena prahāṇam akilāsinā ।
+kāmānāṃ viprahāṇārthaṃ na hi kāṃkṣaty asau bhavaṃ ।। 
+sa kāryaṃ brāhmaṇasyāsti kṛtārtho brāhmaṇaḥ smṛtaḥ ।। 
+yāvan na gādhaṃ labhate na tīram āyūhate sarvagātraiḥ sa tāvat ।
+tīraṃ tu labdhveha saṃtiṣṭhati sthale nāyūhate pāragato nirucyate ।।

@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 640 | label: meter | g:0.302 m:0.637 ---
+
+apriya-śravaṇād, yathā-
+āpucchantasya bahū gamiduṃ daiassa suṇia addhottim ।
+aṇumaṃṇiduṃ na jāṇai ṇa nivāreduṃ paravasā ubaha ।।

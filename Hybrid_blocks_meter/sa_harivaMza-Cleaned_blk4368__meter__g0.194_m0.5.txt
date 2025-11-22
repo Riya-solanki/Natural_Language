@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4368 | label: meter | g:0.194 m:0.5 ---
+
+evam uktā tu sā bhīruḥ kāmena vyathitendriyā 
+priyaṃ provāca vacanaṃ vivikte keśavātmajam ।।

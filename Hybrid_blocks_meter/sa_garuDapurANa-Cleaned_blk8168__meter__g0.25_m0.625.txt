@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8168 | label: meter | g:0.25 m:0.625 ---
+
+nāmagotraṃ pitṝṇāṃ vai prāpakaṃ havyakavyayoḥ ।
+śrāddhasya mantrāstadvattu prāpakāścaiva bhaktitaḥ ।।

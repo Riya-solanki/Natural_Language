@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3570 | label: meter | g:0.194 m:0.5 ---
+
+atrāpi śrūyate śloko gītaḥ saptarṣibhiḥ purā 
+khaṭvāṅgena samo nānyaḥ kaścid urvyāṃ bhaviṣyati ।।

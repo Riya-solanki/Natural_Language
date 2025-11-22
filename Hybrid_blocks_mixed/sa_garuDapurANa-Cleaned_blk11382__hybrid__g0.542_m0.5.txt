@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11382 | label: hybrid | g:0.542 m:0.5 ---
+
+sarvaṃ hyetannaśvaraṃ caiva mene mamādhīnaṃ hariṇā vai kṛtaṃ ca ।
+yenaiva dattaṃ putramitrādikaṃ ca tenā hṛtaṃ vedanāṃ naiva cakre ।।

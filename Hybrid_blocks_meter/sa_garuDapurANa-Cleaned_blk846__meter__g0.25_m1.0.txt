@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 846 | label: meter | g:0.25 m:1.0 ---
+
+pradyumnamaniruddhaṃ ca śrīmannārāyaṇaṃ tataḥ ।
+indrādīṃśca surāṃstasmāddevadevātsamutthitān ।।

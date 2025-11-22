@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 716 | label: meter | g:0.306 m:0.625 ---
+
+vāmā devī pratiṣṭhā ca suṣumnā dhārikā tathā ।
+samānodānavaruṇā devatā viṣṇu kāraṇam ।।

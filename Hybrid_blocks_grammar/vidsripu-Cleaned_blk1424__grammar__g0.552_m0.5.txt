@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1424 | label: grammar | g:0.552 m:0.5 ---
+
+kaivartakarkaśakaragrahaṇacyuto api jāle punar nipatitaḥ śapharo varākaḥ ।
+daivāt tato api galito gilito bakena vāme vidhau vada kathaṃ vyasanasya śāntiḥ ।।

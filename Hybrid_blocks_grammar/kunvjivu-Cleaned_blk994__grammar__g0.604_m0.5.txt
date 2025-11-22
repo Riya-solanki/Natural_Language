@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 994 | label: grammar | g:0.604 m:0.5 ---
+
+dṛṣṭyā keśava goparāgahṛtayā kiñcinna dṛṣṭaṃ mayā tenaiva skhalitāsmi nātha patitāṃ kiṃ nāma nālambase ।
+ekastvaṃ viṣameṣu khinnamanasāṃ sarvābalānāṃ gatiḥ gopyevaṃ gaditaḥ sa leśamavatādgoṣṭhe hasantyā hariḥ ।।

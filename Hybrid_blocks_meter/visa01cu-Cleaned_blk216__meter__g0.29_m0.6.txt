@@ -1,0 +1,5 @@
+--- source: visa01cu-Cleaned.txt | block: 216 | label: meter | g:0.29 m:0.6 ---
+
+rasābhāso yathā
+madhu dvirephaḥ kusumaikaṇatre papau priyāṃ svāmanuvartamānaḥ ।
+śṛṅgeṇa ca sparśanimīlitākṣīṃ mṛgīmakaṇḍūyata kṛṣṇasāraḥ ।

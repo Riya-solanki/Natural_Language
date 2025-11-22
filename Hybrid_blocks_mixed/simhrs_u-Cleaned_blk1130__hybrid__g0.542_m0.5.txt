@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1130 | label: hybrid | g:0.542 m:0.5 ---
+
+atra kasyāścid divya-vanitāyā vīra-dvaye raṇānivṛtti-maraṇa-prāpta-devatābhāve anurāgasya nirupamānaśūra-guṇopādher avaiṣamyeṇa pratibhāsanādābhāsatvam ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1139 | label: meter | g:0.314 m:0.914 ---
+
+śālagrāmaśilādvāragatalagnadvicakradhṛk ।
+śuklābho so avyādvaḥ śrīgadādharaḥ ।।

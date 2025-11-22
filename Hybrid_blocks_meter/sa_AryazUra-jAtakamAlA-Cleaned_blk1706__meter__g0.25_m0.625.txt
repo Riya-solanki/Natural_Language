@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1706 | label: meter | g:0.25 m:0.625 ---
+
+jitvāhave vidviṣataḥ sadarpān gātreṣvalaṃkāravadudvahanti ।
+vīrā yathā vikramacihnaśobhāṃ prītyā tathemāṃ rujamudvahāmi ।।

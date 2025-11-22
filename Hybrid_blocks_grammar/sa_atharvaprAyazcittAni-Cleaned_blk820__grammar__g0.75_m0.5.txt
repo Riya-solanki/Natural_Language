@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 820 | label: grammar | g:0.75 m:0.5 ---
+
+yady āśvinī śasyamānāsv ādityaṃ purastān na paśyeyur aśvaṃ śvetaṃ rukmapratihitaṃ purastād avasthāpya sauryaṃ śvetaṃ ajam upālaṃbhyam ālabheta tasya tāny eva tantrāṇi yāni savanīyasyuḥ purastāt saṃdhi camasāsavānām anupradānaṃ syāt ।

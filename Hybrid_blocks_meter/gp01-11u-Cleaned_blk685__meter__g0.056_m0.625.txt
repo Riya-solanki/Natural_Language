@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 685 | label: meter | g:0.056 m:0.625 ---
+
+udīkṣya madhuraṃ mukhaṃ sukha-cariṣṇu kṛṣṇākhyayā
+tadā janaka-diṣṭayā tanayam iṣṭam āhūya tam ।
+tadīya-kala-huṅkṛtīr api niśamya ramyākṛtīḥ
+prasūr amṛta-bhṛt-prabhā jagati śarma sā nirmame ।। [pṛthvī]

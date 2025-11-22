@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 96 | label: grammar | g:0.708 m:0.5 ---
+
+etādṛśaśuddhasvātantryavaśān naiṣa pṛthag eva labdhapratiṣṭhaṃ vastv avaiti, api tv ajñeyam ātmānam aniyantritaprabhāvatayā jñeyīkaroti । bhinnajñeyasāpekṣatve jñānakartṛtā mlāyet ।।

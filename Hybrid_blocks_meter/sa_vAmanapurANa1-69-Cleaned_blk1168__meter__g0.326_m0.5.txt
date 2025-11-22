@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1168 | label: meter | g:0.326 m:0.5 ---
+
+tadbhūtale ratnamanuttamaṃ sthitaṃ svargaṃ parityajya mahāsurendra ।
+gatvāttha vindhyaṃ svayameva paśya kuruṣva yat te abhimataṃ kṣamaṃ ca ।।

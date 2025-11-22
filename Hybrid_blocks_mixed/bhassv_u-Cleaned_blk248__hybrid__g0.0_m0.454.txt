@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 248 | label: hybrid | g:0.0 m:0.454 ---
+
+{rājā} - vaidheya mām evaṃ balāc chrutvā kim idānīṃ nābhibhāṣase 
+{vidūṣakaḥ} - kiṃ maṃ pi baḷakkāreṇa 
+[kiṃ mām api balātkāreṇa । ]

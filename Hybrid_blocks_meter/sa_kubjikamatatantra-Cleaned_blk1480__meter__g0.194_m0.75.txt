@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1480 | label: meter | g:0.194 m:0.75 ---
+
+vahnīśvare tathāpy evaṃ dvādaśaṃ dhvajakandayoḥ 
+piṇḍadvādaśakopetaṃ caturāśīty anekaśaḥ ।।

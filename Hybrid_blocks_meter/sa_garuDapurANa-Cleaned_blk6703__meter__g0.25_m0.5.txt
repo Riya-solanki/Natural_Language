@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6703 | label: meter | g:0.25 m:0.5 ---
+
+vidyāpahārī mūkaḥ syādgatvā ca narakānbahan ।
+asamiddhe hute cāgnau mandāgniḥ khalu jāyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 510 | label: meter | g:0.194 m:0.75 ---
+
+caruṇā phalamūlairvā haviṣyeṇāpareṇa vā 
+caturdaśyāmathāṣṭamyāṃ pañcadaśyāṃ ca vartanam ।।

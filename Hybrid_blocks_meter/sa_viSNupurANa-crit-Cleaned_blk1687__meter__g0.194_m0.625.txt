@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1687 | label: meter | g:0.194 m:0.625 ---
+
+kṣārodena yathā dvīpo jambūsaṃjño abhiveṣṭitaḥ 
+saṃveṣṭya kṣāram udadhiṃ plakṣadvīpas tathā sthitaḥ ।।

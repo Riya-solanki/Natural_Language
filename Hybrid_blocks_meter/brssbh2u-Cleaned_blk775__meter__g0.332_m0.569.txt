@@ -1,0 +1,9 @@
+--- source: brssbh2u-Cleaned.txt | block: 775 | label: meter | g:0.332 m:0.569 ---
+
+nanu manaso apyevaṃ sati varjanamindriyatvena prāṇavatsyāt, amanaḥ sarvendriyāṇi ca' iti pṛthagvyapadeśadarśanāt ।
+satyametat ।
+smṛtau tvekādaśendriyāṇīti mano apīndriyatvena śrotrādivatsaṃgṛhyate ।
+prāṇasya tvindriyatvaṃ na śrutau smṛtau vā prasiddhamasti ।
+vyapadeśabhedaścāyaṃ tattvabhedapakṣa upapadyate ।
+tattvaikatve tu sa evaikaḥ sanprāṇa indriyavyapadeśaṃ labhate na labhate ceti vipratiṣiddham ।
+tasmāttattvāntarabhūtā mukhyāditare ।।

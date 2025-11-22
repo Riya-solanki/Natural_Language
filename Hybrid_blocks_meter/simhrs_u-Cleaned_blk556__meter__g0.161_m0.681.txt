@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 556 | label: meter | g:0.161 m:0.681 ---
+
+yathā-
+niṣṭhīvantyo mukharita-mukhaṃ gauravāt kandharāyāḥ
+prāyo hikkā-vikala-vikalaṃ vākyam ardhaṃ gṛṇantyaḥ ।
+naivāpekṣāṃ galita-vasane nāpy upekṣām ayante
+pāyaṃ pāyaṃ bahu-vidha-madhūny eka-vīthyā kumāryaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11161 | label: meter | g:0.25 m:0.5 ---
+
+vāṇī vijānāti harerguṇāṃśca svayaṃbhuvo naiva tāvadviśeṣān ।
+traiguṇyarūpātparataḥ sadaiva paśyedviṣṇuṃ kṛṣṇarūpaṃ khagendra ।।

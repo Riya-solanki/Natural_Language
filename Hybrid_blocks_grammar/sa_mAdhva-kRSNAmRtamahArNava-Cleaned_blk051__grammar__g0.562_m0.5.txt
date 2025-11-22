@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 51 | label: grammar | g:0.562 m:0.5 ---
+
+yasya saṃsmaraṇād eva vāsudevasya śārṅgiṇaḥ koṭijanmārjitaṃ pāpaṃ takṣaṇād eva naśyati ।।

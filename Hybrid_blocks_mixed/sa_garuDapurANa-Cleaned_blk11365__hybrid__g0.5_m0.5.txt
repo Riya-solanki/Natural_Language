@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11365 | label: hybrid | g:0.5 m:0.5 ---
+
+gṛhṇāti nityaṃ mādhavākhyo hariścetyevaṃ jñātvā deyamannādikaṃ ca ।
+evaṃ jñātvā dīyamānena nityaṃ prīṇāti viṣṇurnānyathā vyarthameva ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 819 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evam apadhvastaṃ-manyaḥ śatamanyuś ca śata-manyutayā vimāna-gatiṃ prati vimāna-gatim āsādya sadyaḥ sānuśayaṃ saṃśayānatayā śayānatayā ca nijāntar-nilayam ayāñcakre । śābdikāṣṭakam anu viśiṣṭatayā ralayor vyatyayam ivāvetya, nirayam eva ca taṃ manyate sma । tathā hi-

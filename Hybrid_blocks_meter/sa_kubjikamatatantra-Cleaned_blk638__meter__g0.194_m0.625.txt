@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 638 | label: meter | g:0.194 m:0.625 ---
+
+puṭākārau karau kṛtvā aṅguṣṭhau madhyasaṃsthitau 
+niḥsṛtā vāmahastasya aṅgulyā tu kanīyasī ।।

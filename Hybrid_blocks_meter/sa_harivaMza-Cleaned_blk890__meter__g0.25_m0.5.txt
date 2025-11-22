@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 890 | label: meter | g:0.25 m:0.5 ---
+
+indro asi tāta bhūtānāṃ sarveṣāṃ nātra saṃśayaḥ 
+yasyāham indraḥ putras te khyātiṃ yāsyāmi karmabhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3430 | label: meter | g:0.25 m:0.625 ---
+
+nābhiṣeko na saṃskāraḥ siṃhasya kriyate vane ।
+nityamūrjitasattvasya svayameva mṛgendratā ।।

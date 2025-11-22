@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1416 | label: grammar | g:0.625 m:0.5 ---
+
+tvaṃ naḥ pitā yadi pitā tvam ivārthakāmaḥ śāstā tvam eva yadi dharmagurus tvam eva ।
+tvam daivataṃ yadi na taj janavādamātram ārtāyanaṃ tu jagataḥ paramaṃ tvam eva ।।

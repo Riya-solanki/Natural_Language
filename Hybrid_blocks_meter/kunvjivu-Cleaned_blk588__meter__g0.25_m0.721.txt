@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 588 | label: meter | g:0.25 m:0.721 ---
+
+sajjehi surahimāso ṇa dāva appei juaijaṇalakkhasahe ।
+ahiṇaasahaāramuhe ṇavapallavapattale aṇaṅgassa sare ।।
+sajjayati surabhimāso na tāvadarpayati yuvatijanalakṣyasahān ।
+abhīnavasahakāramukhān navapallavapatralānanaṅgasya śarān ।।
+iti chāyā ।।

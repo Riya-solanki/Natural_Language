@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1789 | label: meter | g:0.0 m:0.5 ---
+
+nānārthavargaḥ nānārthāḥ ke api kāntādi vargeṣvevātra kīrtitāḥ

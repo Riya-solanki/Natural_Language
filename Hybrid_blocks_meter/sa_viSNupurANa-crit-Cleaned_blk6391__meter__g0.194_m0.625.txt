@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6391 | label: meter | g:0.194 m:0.625 ---
+
+tasmāt samastaśaktīnām ādhāre tatra cetasaḥ 
+kurvīta saṃsthitiṃ sā tu vijñeyā śuddhadhāraṇā ।।

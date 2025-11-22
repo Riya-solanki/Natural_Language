@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1155 | label: meter | g:0.022 m:0.97 ---
+
+tṛtīyo vilāsaḥ
+bhāvakollāsaḥ

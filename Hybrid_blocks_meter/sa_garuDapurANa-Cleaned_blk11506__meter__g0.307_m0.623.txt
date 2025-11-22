@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11506 | label: meter | g:0.307 m:0.623 ---
+
+devasya pīṭhasyottare rudradevamanaiśvaryāṇāmadhipaṃ saṃsmarecca ।
+pīṭhasya madhye praṇamedvai varāhaṃ sadā kanye paramaṃ pūruṣākhyam ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 666 | label: grammar | g:0.573 m:0.5 ---
+
+pratyūṣe gurusaṃnidhau gṛhaśuke tat tad rahojalpitaṃ prastotuṃ parihāsakāriṇi padair ardhoditair udyate ।
+krīḍāśārikayā nilīya nibhṛtaṃ trātuṃ trapārtāṃ vadhūṃ prārabdhaḥ sahasaiva sambhramakaro mārjāragarjāravaḥ ।।

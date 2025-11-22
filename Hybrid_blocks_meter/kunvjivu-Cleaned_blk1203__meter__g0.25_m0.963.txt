@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 1203 | label: meter | g:0.25 m:0.963 ---
+
+chagguṇasaṃjoadiḍhā uvāaparivāḍidhaḍiapāsamuhī ।
+cāṇakkaṇītirajjū ripusaṃjamaajjaā jaadi ।।
+ṣaṅgaṇasaṃyogadṛḍhā upāyaparipāṭighacitapāśamukhī ।
+cāṇakyanītirajjū ripusaṃyamanodyatā jayati ।।
+iti chāyā ।।

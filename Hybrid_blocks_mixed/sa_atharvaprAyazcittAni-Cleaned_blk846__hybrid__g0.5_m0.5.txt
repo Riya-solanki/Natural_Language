@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 846 | label: hybrid | g:0.5 m:0.5 ---
+
+trātāram indraṃ । yayor ojasā iti ca ।

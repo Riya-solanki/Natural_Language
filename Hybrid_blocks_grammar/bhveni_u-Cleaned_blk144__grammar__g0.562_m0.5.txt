@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 144 | label: grammar | g:0.562 m:0.5 ---
+
+SktCh kiṃ nātha duṣkaraṃ tvayā parikupitena । anugṛhṇantvetadvyavasitaṃ te bhrātaraḥ ।

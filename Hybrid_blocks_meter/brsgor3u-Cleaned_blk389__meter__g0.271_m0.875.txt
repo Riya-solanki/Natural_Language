@@ -1,0 +1,7 @@
+--- source: brsgor3u-Cleaned.txt | block: 389 | label: meter | g:0.271 m:0.875 ---
+
+saṃnyāsagārhasthyadvayamatra sūtrakṛtoktam ।
+tato anyadāśramadvayaṃ nāstīti kasyacidbhramaḥ syāttaṃ nirasyati-maunavaditi ।
+āśramadvayavadityarthaḥ ।
+itarayorapīti vācye bahūktiravāntarabhedamapekṣya ।
+sa cāsmābhiḥ prāgdarśitaḥ ।।

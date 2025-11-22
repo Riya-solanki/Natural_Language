@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 677 | label: meter | g:0.306 m:0.5 ---
+
+yathā yathā dharmaparo abhavajjanastathā tathā rakṣijano viśeṣataḥ ।
+cakāra duḥśīlajanābhimārgaṇāmataśca dharmānna cacāla kaścana ।।

@@ -1,0 +1,4 @@
+--- source: mamkpb_u-Cleaned.txt | block: 225 | label: meter | g:0.194 m:1.0 ---
+
+mādhuryaujaḥprasādākhyāstrayaste na punardaśa ।
+eṣāṃ krameṇa lakṣaṇamāha

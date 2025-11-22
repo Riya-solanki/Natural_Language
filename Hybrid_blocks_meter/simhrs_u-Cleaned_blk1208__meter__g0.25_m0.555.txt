@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 1208 | label: meter | g:0.25 m:0.555 ---
+
+teṣu yatra bīja-samudbhavaḥ ।। 
+nānā-vidhānām arthānāṃ rasānām api kāraṇam ।
+tan mukhaṃ tatra cāṅgāni bījārambhānurodhataḥ ।। 
+upakṣepaḥ parikaraḥ parinyāso vilobhanam ।
+yuktiḥ prāptiḥ samādhānaṃ vidhānaṃ paribhāvanā । 
+udbheda-bhedau karaṇam iti dvādaśa yojayet ।।

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 693 | label: meter | g:0.25 m:0.5 ---
+
+hāṃ hṛcchiro hūṃ śikhā haiṃ varṃma hauṃ caiva netrakam ।
+ho astraṃ śaktisthitiṃ kṛtvā bhūtaśuddhiṃ punarnyaset ।।
+arghyapātraṃ tataḥ kṛtvā tadadbhiḥ prokṣayedyajet ।।
+ātmānaṃ padmasaṃsthaṃ ca hauṃ śivāya tato bahiḥ ।
+dvāre nandimahākālau gaṅgā ca yamunātha gauḥ ।।

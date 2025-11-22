@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 424 | label: grammar | g:0.75 m:0.5 ---
+
+[] harir api, sva-vihāra-sukha-sāra-samupahāra evāyam iti tam anusandhāya prema-bandhāya sphurad-iṅgitam āliṅgitavān । [] so' pi taṃ kila vilakṣaṇam āślikṣad yatra cāśliṣan mithaḥ pulaka-kulam ।

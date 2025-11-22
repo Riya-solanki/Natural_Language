@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 364 | label: meter | g:0.272 m:0.845 ---
+
+ekaṃ tvanekadhāpyekabhāvavedasamāśritam ।
+anākhyaṃ ṣaḍguṇākhyaṃ ca bahvākhyaṃ triguṇāśrayam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1322 | label: meter | g:0.25 m:0.625 ---
+
+vidyābuddhir avidyāyām ajñānāt tāta jāyate 
+bālo agniṃ kiṃ na khadyotam asureśvara manyate ।।

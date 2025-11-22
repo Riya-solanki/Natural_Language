@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3025 | label: meter | g:0.194 m:0.5 ---
+
+pūrvāḥ kriyās tu kartavyāḥ putrādyair eva cottarāḥ 
+dauhitrair vā naraśreṣṭha kāryās tattanayais tathā ।।

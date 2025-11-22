@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 912 | label: hybrid | g:0.5 m:0.5 ---
+
+[] athābhravāhana-bhrū-bhramaṇataḥ sa-sambhramam abhra-mātaṅgaḥ svaḥ-saṅgata-gaṅgātaḥ samuddaṇḍita-śuṇḍā-daṇḍenāmbhaḥ-sambhṛtān nidhi-kumbhān nirvilambam eva muhur api lambhayāmāsa । surabhir api surabhi-payasā sura-pati-sarasīm upagiriṃ vibharāñcakāra । tataś ca-

@@ -1,0 +1,5 @@
+--- source: brsgor2u-Cleaned.txt | block: 111 | label: meter | g:0.25 m:0.697 ---
+
+pūrvasūtroktāṅgāṅgitvānupapattidoṣābhāvamaṅgīkṛtya pariharati- evamapīti ।
+kāryārthaṃ jñānaśaktikalpane brahmavādaḥ syādityarthaḥ ।
+aṅgīkāraṃ tyajati- vaiṣamyeti ।।

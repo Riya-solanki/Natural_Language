@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 598 | label: meter | g:0.25 m:0.625 ---
+
+kiyanto vai pitṛgaṇāḥ kasmiṃl loke ca te gaṇāḥ 
+vartanti devapravarā devānāṃ somavardhanāḥ ।।

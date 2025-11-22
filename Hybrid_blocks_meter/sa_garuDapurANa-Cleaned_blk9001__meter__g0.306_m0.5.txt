@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9001 | label: meter | g:0.306 m:0.5 ---
+
+brahmā madhye tathā viṣṇuḥ śaṅkaraḥ śaṅkaro avyayaḥ ।
+prācyādiṣu ca tatkaṇṭhe lokapālānkrameṇa tu ।।

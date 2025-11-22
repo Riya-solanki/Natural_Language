@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2485 | label: meter | g:0.194 m:0.5 ---
+
+ṣoḍaśāntargataṃ yac ca pūrvoktaṃ yac caturdalam 
+tasya madhye vijānīyāt kālajñaḥ kālalakṣaṇam ।।

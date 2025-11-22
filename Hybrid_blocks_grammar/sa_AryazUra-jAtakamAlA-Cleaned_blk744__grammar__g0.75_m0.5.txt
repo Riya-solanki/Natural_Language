@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 744 | label: grammar | g:0.75 m:0.5 ---
+
+adhyāpaka uvāca - santyanye api śāsraparidṛṣṭā dhanārjanopāyāḥ । jarāniṣpītasāmarthyāstu vayamayogyarūpāstatpratipattau । śiṣyā ūcuḥ - vayamupādhyāya jarayānupahataparākramāḥ । tadyadi nasteṣāṃ śāstravihitānāmupāyānāṃ pratipattisahatāṃ manyase, taducyatām । yāvadadhyāpanapariśramasyānṛṇyaṃ te gacchāma iti । adhyāpaka uvāca - taruṇairapi vyavasāyaśithilahṛdayairdurabhisambhavāḥ khalvevaṃvidhā dhanārjanopāyāḥ । yadi tvayamatra bhavatāṃ nirbandhaḥ । tacchruyatāṃ sādhuḥ katama eko dhanopārjanakramaḥ ।

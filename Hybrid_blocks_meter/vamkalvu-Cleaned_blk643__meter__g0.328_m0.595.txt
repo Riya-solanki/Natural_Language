@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 643 | label: meter | g:0.328 m:0.595 ---
+
+sūryāśusambhīlitalocaneṣu dīneṣu padmānilanisadeṣu ।
+sādhvyaḥ svageheṣviva bhartṛhīnāḥ kekā vineśuḥ śikhināṃ mukheṣu ।।

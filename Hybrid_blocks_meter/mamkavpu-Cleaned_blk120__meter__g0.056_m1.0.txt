@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 120 | label: meter | g:0.056 m:1.0 ---
+
+{bhadrātmano duradhirohatanorviśāla
+vaṃśonnateḥkṛtaśilīmukhavigrahasya ।
+yasyānupaplutagateḥ paravāraṇasya
+dānāmbusekasubhagaḥ satataṃ karobhūt ।।}

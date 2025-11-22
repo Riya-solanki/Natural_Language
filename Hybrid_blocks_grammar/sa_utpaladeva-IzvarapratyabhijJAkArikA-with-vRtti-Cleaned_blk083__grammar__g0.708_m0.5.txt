@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 83 | label: grammar | g:0.708 m:0.5 ---
+
+pūrvāvabhātāntaḥsthita evārthe nāntarīyakārthadarśanavaśāt tattaddeśakālādiyojanayā vimarśanam anumānam । indriyam apy anumīyate kiṃcinmātraṃ nimittaṃ tac ca bījādyābhāsād ābhāsitam eva ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3051 | label: meter | g:0.194 m:0.625 ---
+
+utpatya cāsakṛt pādaiḥ sakṛnmūtraṃ samutsṛjan 
+svinnārdralomā śrāntas tu niryatnacaraṇo abhavat ।।

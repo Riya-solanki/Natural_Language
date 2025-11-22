@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 16 | label: meter | g:0.306 m:0.5 ---
+
+vandasvārāt priyasakha punardarśanāyātra śaureḥ kāñcībhartuḥ karigiritaṭe puṇyamenaṃ vimānam ।
+ādhatte yat kanakavalabhīnīḍalīnaiḥ kapotair adyāpyambhoruhabhavamakhālagnadhūmābhiśaṅkām ।।

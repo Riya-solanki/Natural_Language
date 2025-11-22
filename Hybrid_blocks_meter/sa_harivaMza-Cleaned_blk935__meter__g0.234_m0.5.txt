@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 935 | label: meter | g:0.234 m:0.5 ---
+
+svasthaḥ prajāvān āyuṣmān kīrtimāṃś ca bhaven naraḥ 
+dhanyasya mahato dharmyaṃ śrīmato dhīmatastathā । 
+yayāteś caritaṃ nityam idaṃ śṛṇvan narādhipa ।। 
+mucyate pātakebhyaś ca aputrī na bhavet kadā । 
+pūror vaṃśam ahaṃ brahmañ śrotum icchāmi tattvataḥ 
+druhyoścānor yadoś caiva turvasoś ca dvijottama 
+vistareṇānupūrvyā ca tad bhavān vaktum arhati ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1183 | label: meter | g:0.25 m:0.625 ---
+
+vajramudrādvayaṃ badhvā hṛdi sthāpya samāhitaḥ ।
+pīḍayetkrodhamuṣṭiṃ tu bāhyamaṇḍalanāśanī ।।

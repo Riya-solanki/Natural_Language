@@ -1,0 +1,10 @@
+--- source: grasht_u-Cleaned.txt | block: 1069 | label: meter | g:0.25 m:0.521 ---
+
+krāmati tato hi sūto janayati putrāṃśca devagarbhābhān ।
+strīṣu ca niścalakāmo bhavati valīpalitanirmuktaḥ ।।
+buddhirbalaṃ prabhāvaḥ saha cāyuṣā vardhate rasāyaninaḥ ।
+prāptasya divyabuddhiṃ divyāśca guṇāḥ pravardhante ।।
+evaṃ rasasaṃsiddho duḥkhajarāmaraṇavarjito guṇavān ।
+khegamanena ca nityaṃ saṃcarate sakalabhuvaneṣu ।।
+dātā bhuvanatritaye sraṣṭā so'pīha padmayoniriva ।
+bhartā viṣṇuriva syātsaṃhartā rudravadbhavati ।।

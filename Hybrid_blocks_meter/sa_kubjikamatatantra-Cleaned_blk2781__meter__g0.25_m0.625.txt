@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2781 | label: meter | g:0.25 m:0.625 ---
+
+daśakoṭis tu pūjānāṃ pavitrārohaṇe samā 
+vṛthā dīkṣā vṛthā jñānaṃ gurvārādhanam eva ca ।।

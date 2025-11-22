@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 954 | label: meter | g:0.25 m:0.555 ---
+
+yataḥ pūrvānurāgo' yaṃ saṅkalpātmā pravartate ।
+so' yaṃ pūrvānurāgākhyo vipralambha itīritaḥ ।। 
+pāratantryād ayaṃ dvedhā daiva-mānuṣa-kalpanāt ।
+tatra sañcāriṇo glāniḥ śaṅkāsūye śramo bhayam ।। 
+nirvedautsukya-dainyāni cintā-nidre prabodhatā ।
+viṣādo jaḍatonmādo moho maraṇam eva ca ।।

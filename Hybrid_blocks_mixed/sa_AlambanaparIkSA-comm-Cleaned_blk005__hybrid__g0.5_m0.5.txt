@@ -1,0 +1,3 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 5 | label: hybrid | g:0.5 m:0.5 ---
+
+viṣaya iti । jñānena svarūpa meva nirdhāryate । tadākāratayā jāyamānatvāt । yadyapyaṇavaḥ tatkāraṇam । tathāpi na tādṛśāḥ akṣavat । evañca nāṇavastāvadālambanam । saṃghātastu tadābhatve api[jñānamya nālambanam । yataḥ]

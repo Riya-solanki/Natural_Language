@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 470 | label: grammar | g:0.625 m:0.5 ---
+
+śleṣaḥ sarvāsu puṣṇāti prāyo vakroktiṣu śriyam bhinnaṃ dvidhā svabhāvoktir vakroktiś ceti vāṅmayam ।। ।।

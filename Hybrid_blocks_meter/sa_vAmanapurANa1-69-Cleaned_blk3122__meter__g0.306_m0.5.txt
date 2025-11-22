@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3122 | label: meter | g:0.306 m:0.5 ---
+
+tāmantarikṣādaśarīriṇī vāk provāca mā rājapatnīha rodīḥ ।
+yadyasti te satyamanuttamaṃ tadā bhavatvayaṃ te patinā sahāgniḥ ।।

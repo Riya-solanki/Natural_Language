@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 298 | label: meter | g:0.246 m:0.806 ---
+
+{atandracandrābharaṇā samuddīpitamanmathā ।
+tārakātaralā śyāmā sānandaṃ na karoti kam ।।}

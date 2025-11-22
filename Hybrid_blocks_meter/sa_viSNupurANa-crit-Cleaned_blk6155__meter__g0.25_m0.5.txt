@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6155 | label: meter | g:0.25 m:0.5 ---
+
+vyaktaṃ sa eva cāvyaktaṃ sa eva puruṣo avyayaḥ 
+paramātmā ca viśvātmā viśvarūpadharo hariḥ ।।

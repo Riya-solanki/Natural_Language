@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3075 | label: meter | g:0.25 m:0.5 ---
+
+ṣaṣṭhe catura hācchuddhiḥ saptame ca dinatrayam ।
+deśāntare mṛte bāle sadyaḥ śuddhiryato mṛte ।।

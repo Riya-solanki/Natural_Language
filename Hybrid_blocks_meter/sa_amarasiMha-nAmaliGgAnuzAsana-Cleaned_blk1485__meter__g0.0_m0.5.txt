@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1485 | label: meter | g:0.0 m:0.5 ---
+
+puṃsi medhiḥ khale dāru nyastaṃ yat paśubandhane

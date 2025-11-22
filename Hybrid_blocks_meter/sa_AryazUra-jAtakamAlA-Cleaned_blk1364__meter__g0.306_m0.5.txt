@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1364 | label: meter | g:0.306 m:0.5 ---
+
+prajāhitaṃ kṛtyatamaṃ mahīpatestadanya panthā hyubhayatra bhūtaye ।
+bhavecca tadrājani dharmavatsale nṛpasya vṛttaṃ hi jano anuvartate ।।

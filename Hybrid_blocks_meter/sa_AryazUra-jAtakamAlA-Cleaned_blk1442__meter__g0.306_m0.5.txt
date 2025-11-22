@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1442 | label: meter | g:0.306 m:0.5 ---
+
+bhavecca saukhyaṃ yadi duḥkhahetuṣu sthitasya duḥkhaṃ sukhasādhaneṣu vā ।
+ato anumīyeta sukhāsukhaṃ dhruvaṃ pravartate pūrvakṛtaikahetukam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2431 | label: meter | g:0.25 m:0.625 ---
+
+tato dadarśa devābhāṃ sthitāṃ devavatīṃ śubhām ।
+saṃśuṣkāsyāṃ calannetrāṃ parimlānāmivābjinīm ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4618 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ kathayator eva tayor anyonyam ucchritaḥ 
+dhvajaḥ papāta vegena śakrāśanisamāhataḥ ।।

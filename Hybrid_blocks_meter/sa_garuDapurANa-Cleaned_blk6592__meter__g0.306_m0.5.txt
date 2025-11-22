@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6592 | label: meter | g:0.306 m:0.5 ---
+
+satataṃ vaiśvadevā di na teṣāṃ sūtakaṃ bhavet ।
+aśuddhe ca gṛhe bhukte trirātrācchudhyati dvijaḥ ।।

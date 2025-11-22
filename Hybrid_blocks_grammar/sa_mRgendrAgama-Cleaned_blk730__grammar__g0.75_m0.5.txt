@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 730 | label: grammar | g:0.75 m:0.5 ---
+
+[sādhyakoṭeḥ] sādhyasyābhipretasya koṭeḥ sampatteḥ alabdhatvāt [tallābho api tadāśrayaḥ] tallābhasya ca gurvāśrayatvāt samayinaḥ prāggṛhasthasya ca gurūpasadanamavaśyaṃ kāryam। yasmād anyavṛttiniṣṭhasya sato [na ca] na tallābhaḥ। tasmāt [tatsādhako bhavet] ācāryaparicaryāsādhanaparau syātām।।

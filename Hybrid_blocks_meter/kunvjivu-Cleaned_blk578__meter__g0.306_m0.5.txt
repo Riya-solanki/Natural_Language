@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 578 | label: meter | g:0.306 m:0.5 ---
+
+smitaṃ kiñcinmugdhaṃ taralamadhuro dṛṣṭivibhavaḥ parispando vācāmabhinavavilāsoktisarasaḥ ।
+gatānāmārambhaḥ kisalayitalīlāparimalaḥ spṛśantyāstāruṇyaṃ kimiva hi na ramyaṃ mṛgadṛśaḥ ।।

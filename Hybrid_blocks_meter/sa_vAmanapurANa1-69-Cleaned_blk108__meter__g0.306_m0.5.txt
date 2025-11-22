@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 108 | label: meter | g:0.306 m:0.5 ---
+
+tvaṃ sāṅgāścaturo vedāstvaṃ vedyo vedapāragaḥ ।
+upavedā bhavānīśa sarvo asi tvaṃ namo astu te ।।

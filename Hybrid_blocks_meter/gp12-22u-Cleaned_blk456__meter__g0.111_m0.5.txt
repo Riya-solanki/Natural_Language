@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 456 | label: meter | g:0.111 m:0.5 ---
+
+re re citta, praṇaya-mayatāpāratantryaṃ kim eṣi
+tvaṃ tatrāpi vyasani yadi vā dharmatas tat prayāhi ।
+haṃho kiṃvā para-gṛha-juṣāṃ bhāvinīnāṃ ca bhāve
+lagnaṃ magnaṃ bhavasi bahudhā projjhya tat-tad-vicāram ।। [mandākrāntā]

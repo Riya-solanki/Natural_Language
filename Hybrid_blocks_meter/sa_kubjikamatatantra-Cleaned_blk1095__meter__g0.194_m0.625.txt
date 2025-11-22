@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1095 | label: meter | g:0.194 m:0.625 ---
+
+śuddhaśāmbhavavedhasya sāmprataṃ nirṇayaṃ śṛṇu 
+yena viddhasya loke asmin sarvajñatvaṃ prapadyate ।।

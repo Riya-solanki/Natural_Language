@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 118 | label: hybrid | g:0.361 m:0.374 ---
+
+sukhaduḥkhasaṃvedanaṃ phalam।
+sukhavipākaṃ karma duḥkhavipākaṃ ca।
+tatpunardehendriyaviṣayabuddhiṣu satīṣu bhavatīti saha dehādibhiḥ phalamabhipratam।
+tathā hi pravṛttidoṣajanito artha phalametatsarvaṃ bhavati।
+tadetatphalamupāttamupāttaṃ heyam, tyaktaṃ tyaktamupādeyamiti nāsya hānopādānayorniṣṭhā paryavasānaṃ vāsti, sa khalvayaṃ phalasya hānopādānasrotatasohyate loka iti ।।

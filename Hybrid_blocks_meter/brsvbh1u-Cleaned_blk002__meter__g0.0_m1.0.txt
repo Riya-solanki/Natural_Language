@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 2 | label: meter | g:0.0 m:1.0 ---
+
+-mūlavidyā, tūlāvidyeti dvitayam
+-svarūpopamardanaṃ vinānyathābhāvaḥ

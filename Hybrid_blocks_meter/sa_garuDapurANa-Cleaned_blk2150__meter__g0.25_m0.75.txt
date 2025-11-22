@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2150 | label: meter | g:0.25 m:0.75 ---
+
+indranīlo yathā kaścidvibhartyātāmravarṇatām ।
+rakṣaṇayau tathā tāmrau karavīrotpalāvubhau ।।

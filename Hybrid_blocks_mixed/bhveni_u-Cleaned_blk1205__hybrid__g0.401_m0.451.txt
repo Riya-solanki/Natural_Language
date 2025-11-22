@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 1205 | label: hybrid | g:0.401 m:0.451 ---
+
+sīrī satvaramāgataściramabhūttasyāgrataḥ saṃgaraḥ ।
+ālambya priyaśiṣyatāṃ tu halinā saṃjñā rahasyāhitā yāmāsādya kurūttamaḥ pratikṛtiṃ duḥśāsanārau gataḥ ।।

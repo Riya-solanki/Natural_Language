@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 439 | label: meter | g:0.314 m:0.664 ---
+
+tānyakṣarāṇi hṛdaye kimapi dhvananti ।।
+iti ।

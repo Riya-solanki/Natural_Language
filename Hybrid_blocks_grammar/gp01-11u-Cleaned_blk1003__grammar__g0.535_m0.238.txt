@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 1003 | label: grammar | g:0.535 m:0.238 ---
+
+īdṛśas tanayo jātas tava gopādhināyaka ।
+pālyaṃ karoti yo viśvaṃ bālyasya caritād api ।।
+[] tad evaṃ tal-līlānāṃ sākṣāt-prathāyāṃ kathāyāṃ vṛttāyāṃ pūrva-vṛttavat tad-dine' pi sarve' py ānandānām akharvāṇāṃ kharveṇa karburitā nija-nijālayaṃ kalayāmāsuḥ ।

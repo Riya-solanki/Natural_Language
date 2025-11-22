@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 619 | label: hybrid | g:0.542 m:0.5 ---
+
+cirārūḍhapremapraṇayaparihāsena hṛtayā tad ārabdhaṃ tanvyā na tu yad abalāyāḥ samucitam ।
+anirvyūḍhe tasmin prakṛtisukumārāṅgalatayā punar lajjālolaṃ mayi vinihitaṃ locanayugam ।।

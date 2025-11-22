@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 975 | label: meter | g:0.194 m:0.5 ---
+
+duḥṣantasya tu dāyādo bharato nāma vīryavān 
+sa sarvadamano nāma nāgāyutabalo mahān ।।

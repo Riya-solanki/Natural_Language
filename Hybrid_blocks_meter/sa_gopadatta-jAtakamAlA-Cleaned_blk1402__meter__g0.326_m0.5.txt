@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1402 | label: meter | g:0.326 m:0.5 ---
+
+paricayakṛtamārgās tasya raktapraṇālyo gagaṇaparikhabhūte cchidyamāne śarīre ।
+kṣitidharasaridoghā vistarāṇi pracakrur na ca manasi viṣādo nāpi khedo babhūva ।।

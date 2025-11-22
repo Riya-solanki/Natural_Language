@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 870 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ sthite sarvasminn api svasthatayā cāvasthite kṣaṇa-katipaye ca prasthite sarva eva te sāmājikāḥ pratisvam amanendirād ātma-mandirād ānīta-prīta-sitāsita-praśasta-vastra-saṅkaraṃ sad-alaṅkaraṇādikaṃ taṃ ca tad-bhrātaraṃ tat-pitaraṃ ca pṛthak pṛthag alaṅkāraṃ svīkārayāñcakruḥ ।

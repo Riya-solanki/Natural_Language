@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 688 | label: grammar | g:0.75 m:0.5 ---
+
+[] śrīmān baladevaś ca yathāvad eva tathā valayāmāsa । valayitvā ca vrajaṃ prati pravalitānujāgamana-viśvāsaḥ sva-preyasīr ihaiva vihāya dvārakām api niścinta iva caliṣyati । āgatya ca dvārakāṃ tvām api sāntvayiṣyati । yathā-kartavyāvaśeṣaṃ vidhāya vraja-śleṣam avāpsyati ।

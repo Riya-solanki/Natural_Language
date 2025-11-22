@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 658 | label: meter | g:0.194 m:0.5 ---
+
+śreṣṭhā kaṇayarī khalve peṣyā manaḥśilā budhaiḥ 
+pidadhyād abhrakeṇāsyaṃ tāṃ kṣiptvā kācakumpake ।।

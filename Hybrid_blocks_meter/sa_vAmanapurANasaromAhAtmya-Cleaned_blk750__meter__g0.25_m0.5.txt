@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 750 | label: meter | g:0.25 m:0.5 ---
+
+svargadvāraṃ tato gacchet śivadvāre vyavasthitam ।
+tatra snātvā śivadvāre prāpnoti paramaṃ padam ।।

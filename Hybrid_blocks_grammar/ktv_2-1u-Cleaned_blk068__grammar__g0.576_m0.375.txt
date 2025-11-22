@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 68 | label: grammar | g:0.576 m:0.375 ---
+
+na ca teṣām aṇyantānām aśaktir ity anyeṣām aśaktyā bhavitavyam, anyeṣāṃ vā śaktir ity eṣām api tathā bhavitavyam ।
+kutaḥ ।

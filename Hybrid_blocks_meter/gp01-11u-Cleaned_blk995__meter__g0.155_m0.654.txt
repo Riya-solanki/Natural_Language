@@ -1,0 +1,9 @@
+--- source: gp01-11u-Cleaned.txt | block: 995 | label: meter | g:0.155 m:0.654 ---
+
+loka-hūti-vyakta-ceṣṭaṃ tadā nandādi-veṣṭitam ।
+vṛndāvanam idaṃ reje supta-jāgarita-prabham ।। [anuṣṭubh]
+tatra cakrur vrajāvāsaṃ śakaṭair ardha-candravat ।
+yad-antaḥ-pūritaṃ gobhiḥ krameṇa ghana-rītibhiḥ ।। [anuṣṭubh]
+śrī-hari-vaṃśe ca,
+niveśaṃ vipulaṃ cakre gavāṃ caiva hitāya ca ।
+śakaṭāvarta-paryantaṃ candrārdhākāra-saṃsthitam ।।iti । []

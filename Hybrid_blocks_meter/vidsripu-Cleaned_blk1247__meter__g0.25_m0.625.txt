@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1247 | label: meter | g:0.25 m:0.625 ---
+
+siddhārthayaṣṭiṣu yathottarahīyamāna- saṃsthānabaddhaphalasūciparamparāsu ।
+vicchidyamānakusumāsu janikrameṇa pākakramaḥ kapiśimānam upādadhāti ।।

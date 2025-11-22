@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 24 | label: meter | g:0.306 m:0.5 ---
+
+tataḥ sarā nivartante tatra vartma na vartate ।
+tatra duḥkhasukhaṃ loke niḥśeṣam uparudhyate ।।

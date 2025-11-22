@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 613 | label: hybrid | g:0.521 m:0.5 ---
+
+ahute cet sāyaṃ pūrvo anugached agnihotram adhiśrityonnīyāgninā pūrveṇoddhṛtyāgnihotreṇānudravet ।

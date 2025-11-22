@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1624 | label: meter | g:0.25 m:0.5 ---
+
+{e ehi dāva sundari kaṇṇaṃ dāūṇa suṇasu vaaṇijjaṃ ।
+tujjha muheṇa kisoari cando uamijjai jaṇeṇa ।।}
+[ayi ehi tāvat sundari karṇandattvā śṛṇuṣva vacanīyam ।
+tava mukhena kṛśodari candra upamīyate janena ।।]

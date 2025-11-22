@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1106 | label: grammar | g:0.594 m:0.5 ---
+
+ekenāpi payodhinā jalamucas te pūritāḥ koṭiśo jāto nāsya kuśāgralīnatuhinaślakṣṇo api toyavyayaḥ ।
+āho śuṣyati daivadṛṣṭivalanād ambhobhir ambhomucaḥ sambhūyāpi vidhātum asya rajasi staimityam apy akṣamāḥ ।।

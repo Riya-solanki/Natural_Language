@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 170 | label: meter | g:0.194 m:0.902 ---
+
+niṣprapañcacaryāmelāvaṇasaṃśayaparicchedo daśamaḥ ।।
+ekādaśaḥ paricchedaḥ

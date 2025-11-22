@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 465 | label: grammar | g:0.694 m:0.485 ---
+
+api ca vācyo arthaḥ sarvān pratipattṝn prati ekarūpa eveti niyato asau । na hi {gatostamarkaḥ} ityādau vācyo arthaḥ kvacidanyathā bhavati । pratīyamānastu tattatprakaraṇavaktṛpratipattrādiviśeṣasahāyatayā nānātvaṃ
+bhajate । tathā ca {gato astamarkaḥ} ityataḥ sapatnaṃ pratyavaskandanāvasara iti abhisaraṇamupakramyatāmiti prāptaprāyaste preyāniti karmakaraṇānnivartāmaha iti sāṃdhyo vidhirupakramyatāmiti dūraṃ mā gā iti surabhayo gṛhaṃ praveśyantāmiti saṃtāpodhunā na bhavatīti vikreyavastūni saṃhriyantāmiti nāgatodyāpi preyānityādiranavadhirvyaṅgyo arthaḥ tatra tatra pratibhāti ।

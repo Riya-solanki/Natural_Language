@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 540 | label: grammar | g:0.562 m:0.5 ---
+
+bho bho rājānaḥ kathamiha bhavantaḥ sarve gurorbhāradvājasya paribhavamamunā nṛśaṃsena prayuktamupekṣante ।

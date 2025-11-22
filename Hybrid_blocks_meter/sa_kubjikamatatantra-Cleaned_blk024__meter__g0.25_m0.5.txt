@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 24 | label: meter | g:0.25 m:0.5 ---
+
+caturthaṃ mama tulyatvaṃ pañcamaṃ mokṣadaṃ nṛṇām 
+evaṃ pañca varās tubhyaṃ himavanta punar vada ।।

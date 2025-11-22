@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 320 | label: meter | g:0.25 m:0.625 ---
+
+dharma jñanaṃ ca vairāgyamaiśvaryaṃ ca yathākramam ।
+āgneyādau ca pūrvādāvadharmādīṃśca vinyaset ।।

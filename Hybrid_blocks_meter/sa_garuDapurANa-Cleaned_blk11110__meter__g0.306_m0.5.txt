@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11110 | label: meter | g:0.306 m:0.5 ---
+
+naivedyaśeṣaṃ tulasīvimiśritaṃ viśeṣataḥ pādajalena siktam ।
+yo snāti nityaṃ purato murāreḥ prāpnoti yajñāyutakoṭipuṇyam ।।

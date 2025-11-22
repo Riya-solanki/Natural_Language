@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1183 | label: hybrid | g:0.5 m:0.5 ---
+
+nirīkṣamāṇasya puro janas te nirudyamo majjati toyarāśau ।
+kālātipāto atra na yuktarūpaḥ parākramasva svabalena tasmāt ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7214 | label: meter | g:0.25 m:0.669 ---
+
+sūta uvāca ।
+sādhu pṛṣṭaṃ mahābhāgāḥ śṛṇudhvaṃ bhavatāṃ punaḥ ।
+sandeho nopapadyeta lokārthaṃ kila pṛcchatām ।।

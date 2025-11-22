@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1091 | label: meter | g:0.25 m:0.625 ---
+
+anamitrāc chanir jajñe kaniṣṭhād vṛṣṇinandanāt 
+śaineyaḥ satyakas tasmād yuyudhānas tu sātyakiḥ ।। 
+asaṅgo yuyudhānasya bhūmis tasyābhavatsutaḥ । bhūmer yugaṃdharaḥ putra iti vaṃśaḥ samāpyate । 
+uddhavo devabhāgasya mahābhāgaḥ suto abhavat 
+paṇḍitānāṃ paraṃ prāhur devaśravasam uddhavam ।। 
+paṇḍitaṃ nāma rājendra lebhe devaśravāḥsutam । 
+aśmaky alabhatāpatnyam anādhṛṣṭiṃ yaśasvinam 
+nivṛttaśatruṃ śatrughnaṃ śrutadevā vyajāyata ।।

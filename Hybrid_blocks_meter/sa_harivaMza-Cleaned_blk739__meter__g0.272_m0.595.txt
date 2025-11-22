@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 739 | label: meter | g:0.272 m:0.595 ---
+
+unmukho nityavitrastaḥ stabdhakarṇo vilocanaḥ 
+paṇḍito ghasmaro nādī nāmabhis te abhavan mṛgāḥ ।।

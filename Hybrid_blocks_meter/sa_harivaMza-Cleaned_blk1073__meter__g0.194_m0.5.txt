@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1073 | label: meter | g:0.194 m:0.5 ---
+
+mādrī yudhājitaṃ putraṃ tato vai devamīḍhuṣam 
+teṣāṃ vaṃśas tridhā bhūto vṛṣṇīnāṃ kulavardhanaḥ ।।

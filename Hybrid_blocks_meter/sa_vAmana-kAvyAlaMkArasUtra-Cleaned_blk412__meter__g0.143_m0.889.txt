@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 412 | label: meter | g:0.143 m:0.889 ---
+
+vyājastuteḥ pṛthak tulyayogitetyāha 
+viśiṣṭena sāmyārthamekakālakriyāyogastulyayogitā ।।
+viśiṣṭena nyūnasya sāmyarthamekakālāyāṃ kriyāyāṃ yogastulyayogitā । yathā

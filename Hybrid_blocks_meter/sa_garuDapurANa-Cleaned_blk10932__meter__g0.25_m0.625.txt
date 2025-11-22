@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10932 | label: meter | g:0.25 m:0.625 ---
+
+vāsudevātsamutpanno māyāyāṃ ca khageśvara ।
+sa eva puruṣonāma viriñca iti kīrtitaḥ ।।

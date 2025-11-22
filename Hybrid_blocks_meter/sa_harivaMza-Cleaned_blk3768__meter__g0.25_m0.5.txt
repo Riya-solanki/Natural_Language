@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3768 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ sa tapa āsthāya vinirmucya kalevaram 
+āruroha divaṃ rājā karmabhiḥ svair jitaṃ śubhaiḥ ।।

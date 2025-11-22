@@ -1,0 +1,7 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 323 | label: grammar | g:0.629 m:0.417 ---
+
+karpūrādibhirupamānairvahubhiḥ sādṛśyaṃ susthāpitaṃ bahvati । teṣāṃ śukguṇātirekāt ।।
+na, apuṣṭārthatvāt ।।
+upamānādhikyāt tadapoha iti yuktaṃ, tanna । apuṣṭārthatvāt । ekasminnupamāne prayukte upamānāntaraprayogo na kañcidarthaviśeṣaṃ puṣṇāti । tena balasindhuḥ sindhuriva kṣubhitaḥ iti prayuktam । nanu sindhuśabdasya dviḥprayogātpaunaruktyam । na । arthaviśeṣāt balaṃ sindhuriva vaipulyād balasindhuḥ sindhuriva kṣubhita iti kṣobhasārūpyāt । tasmādarthabhedānna paunaruktyam । arthapuṣṭistu nāsti । sindhuriva kṣubhita ityanenaiva vaipulyaṃ pratipatsyate । uktaṃ hi dharmayorekanirdeśe'nyasya saṃvitsāhacaryāt ।।
+anupapattirasaṃbhavaḥ ।।
+anupapattiranupapannatvamupamānasyāsambhavaḥ । yathā

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11983 | label: meter | g:0.307 m:0.623 ---
+
+dugdhānnabhoge ca tathaiva kāle samyak smarecchrīnivāsaṃ hariṃ ca ।
+sutailasarpiḥ ṣu vipakvabhakṣasaṃbhojane saṃsmaredvyaṅkaṭeśam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 452 | label: meter | g:0.25 m:0.5 ---
+
+kāraṇaṃ vīrudhāṃ caiva lokānāṃ kāraṇaṃ tathā ।
+pātāla kāraṇaṃ caiva devānāṃ kāraṇaṃ tathā ।।

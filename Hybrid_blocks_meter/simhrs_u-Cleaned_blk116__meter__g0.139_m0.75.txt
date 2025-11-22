@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 116 | label: meter | g:0.139 m:0.75 ---
+
+atha tulya-lajjā-smaratvaṃ, yathā mamaiva-
+kānte paśyati sānurāgam abalā sācīkaroty ānanaṃ
+tasmin kāma-kalāpa-kuśale vyāvṛtta-vaktre kila ।
+paśyantī muhur antaraṅga-madanaṃ dolāyamānekṣaṇā
+lajjā-manmatha-madhyagāpi nitarāṃ tasyābhavat prītaye ।।

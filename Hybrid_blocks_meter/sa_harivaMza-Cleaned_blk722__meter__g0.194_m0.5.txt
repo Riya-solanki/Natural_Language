@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 722 | label: meter | g:0.194 m:0.5 ---
+
+niyogāt te guros tasya gāṃ dogdhrīṃ samakālayan 
+samānavatsāṃ kapilāṃ sarve nyāyāgatāṃ tadā ।।

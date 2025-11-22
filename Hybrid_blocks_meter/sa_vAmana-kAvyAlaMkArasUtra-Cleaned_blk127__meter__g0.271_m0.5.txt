@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 127 | label: meter | g:0.271 m:0.5 ---
+
+saptacchadasya stavakā bhavanti, na mañjarya iti svabhāvaviruddham । tathā

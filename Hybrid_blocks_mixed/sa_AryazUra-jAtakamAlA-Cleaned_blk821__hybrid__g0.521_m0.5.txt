@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 821 | label: hybrid | g:0.521 m:0.5 ---
+
+ahaṃ hi śastraṃ niśitaṃ viśeyaṃ hutāśanaṃ visphuradarciṣaṃ vā ।
+na tveva dharmādadhigamya lakṣmīṃ śakṣyāmi tatraiva punaḥ prahartum ।।

@@ -1,0 +1,15 @@
+--- source: vacbhamu-Cleaned.txt | block: 1014 | label: meter | g:0.258 m:0.625 ---
+
+sūtrāntaramavatārayituṃ pṛcchati kathaṃ tejaḥsahacariteṣviti ।
+naikasmindarśayato hi ।
+atra bhāṣyakāro anumānadarśanamāha kāryasya śarīrasyeti ।
+sthūlaśarīrānurūpamanumeyaṃ sūkṣmamapi śarīraṃ pañcātmakamityarthaḥ ।
+darśayata iti sūtrāvayavaṃ vyācaṣṭe darśayataścaitamarthamiti ।
+praśnaprativacanābhiprāyaṃ dvivacanaṃ śrutismṛtyabhiprāyaṃ vā ।
+aṇvyo mātrāḥ sūkṣmā daśārdhānāṃ pañcabhūtānāmiti ।
+śrutyantaravirodhaṃ codayati nanu copasaṃhṛteṣu vāgādiṣviti ।
+karmāśrayateti pratīyate na bhūtāśrayatetyarthaḥ ।
+pariharati atrocyata iti ।
+grahā indriyāṇi atigrahāstadviṣayāḥ ।
+karmaṇāṃ prayojakatvenāśrayatvaṃ bhūtānāṃ tūpādānatvenetyavirodhaḥ ।
+praśaṃsāśabdo api karmaṇāṃ prayojakatayā prakṛṣṭamāśrayatvaṃ brūte sati nikṛṣṭa āśrayāntare tadupapatterityāha praśaṃsāśabdādapi tatreti ।।

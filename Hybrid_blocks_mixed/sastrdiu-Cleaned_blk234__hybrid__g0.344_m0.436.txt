@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 234 | label: hybrid | g:0.344 m:0.436 ---
+
+atha svapnapratyayatvātstambhādivijñānamanyathābhūtamityanumīyate, tadasat, tathāsati pratyayatvāviśeṣāttvadīyamapyanumānaṃ mithyā syāt ।
+mithyātvagrāhiṇo anumānasyāmithyātve vā tatraiva hetorvyabhicāraḥ ।
+tasmātsūktaṃ yasya ca duṣṭaṃ karaṇaṃ yatra ca mithyeti pratyayaḥ sa evāsamīcīnaḥ pratyayo nānyaḥ śābhā iti ।
+tasmādavyabhicārātpratyakṣaṃ na parīkṣitavyam ।
+iti śūnyavādaḥ ।।

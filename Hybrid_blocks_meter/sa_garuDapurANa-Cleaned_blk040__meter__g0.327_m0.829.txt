@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 40 | label: meter | g:0.327 m:0.829 ---
+
+śrīgaruḍamahāpurāṇam- 
+ṛṣaya ūcuḥ ।
+kathaṃ vyāsena kathitaṃ purāṇaṃ gāruḍaṃ tava ।
+etatsarvaṃ samākhyāhi paraṃ viṣṇukathāśrayam ।।

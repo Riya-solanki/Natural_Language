@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 351 | label: meter | g:0.25 m:0.521 ---
+
+gate bamaṇi śarvo api upasaṃhṛtya taṃ tadā ।
+liṅgaṃ citravane sūkṣmaṃ pratiṣṭhāpya cacāra ha ।
+vicarantaṃ tadā bhūyo maheśaṃ kusumāyudhaḥ ।
+ārātsthitvāgrato dhanvī saṃtāpayitumudyataḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2977 | label: meter | g:0.276 m:0.615 ---
+
+pulastya uvāca ।
+tasmistadā daityabale ca bhagne śukro abravīdandakamāsurendram ।
+ehyehi vīrādya gṛhaṃ mahāsura yotsyāma bhūyo harametya śailam ।।

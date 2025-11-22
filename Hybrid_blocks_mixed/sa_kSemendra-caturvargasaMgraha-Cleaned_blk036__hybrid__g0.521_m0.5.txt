@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 36 | label: hybrid | g:0.521 m:0.5 ---
+
+pūjā dhanenaiva na satkulena kīrtir dhanenaiva na vikrameṇa ।
+rūpaṃ dhanenaiva na yauvanena kriyā dhanenaiva na jīvitena ।।

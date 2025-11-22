@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2148 | label: meter | g:0.25 m:0.5 ---
+
+divyā tridhārā dṛṣṭā me puṇyā tripathagā nadī 
+divyāṃ tripathagāṃ dṛṣṭvā puṇyāṃ bhāgirathīṃ nadīm । 
+divyā tripathagā dṛṣṭā puṇyā bhāgīrathī nadī । 
+smaraṇād eva sarveṣām aṃhasāṃ yā vibhedinī । 
+upaspṛṣṭaṃ ca tīrtheṣu divyeṣu ca yathākramam ।।

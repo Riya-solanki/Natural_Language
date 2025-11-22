@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2320 | label: meter | g:0.194 m:0.625 ---
+
+śrūyatāṃ nṛpaśārdūla yad gītam ṛbhuṇā purā 
+avabodhaṃ janayatā nidāghasya dvijanmanaḥ ।।

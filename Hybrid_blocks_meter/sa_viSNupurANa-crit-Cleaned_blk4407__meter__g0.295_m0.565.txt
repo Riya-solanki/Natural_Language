@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4407 | label: meter | g:0.295 m:0.565 ---
+
+kiṃ na vetsi yathāhaṃ ca tvaṃ caikaṃ kāraṇaṃ bhuvaḥ 
+bhārāvatāraṇārthāya martyalokam upāgatau ।।

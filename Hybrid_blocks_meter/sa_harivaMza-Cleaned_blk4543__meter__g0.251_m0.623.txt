@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4543 | label: meter | g:0.251 m:0.623 ---
+
+pradadau brāhmaṇāyātha putrān sarvāñ janārdanaḥ 
+trayaḥ pūrvaṃ hṛtā ye ca sadyojātaś ca bālakaḥ ।।

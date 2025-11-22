@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 98 | label: grammar | g:0.583 m:0.5 ---
+
+śabdākhyeyaṃ yad api kila te yaḥ sakhīnāṃ purastāt karṇe lolaḥ kathayitum abhūd ānanasparśalobhāt ।
+so atikrāntaḥ śravaṇaviṣayaṃ locanābhyām adṛṣṭas tvām utkaṇṭhāviracitapadaṃ manmukhenedam āha ।।

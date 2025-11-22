@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3832 | label: grammar | g:0.729 m:0.5 ---
+
+daityeśvarasya tu vadhāyākhilalokotpattisthitivināśakāriṇāpūrvaṃ tanugrahaṇaṃ kurvatā nṛsiṃharūpam āviṣkṛtam । tatra tu hiraṇyakaśipor viṣṇur ayam ity etan na manasy abhūt ।।

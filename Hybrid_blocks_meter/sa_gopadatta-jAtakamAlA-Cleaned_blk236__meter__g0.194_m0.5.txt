@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 236 | label: meter | g:0.194 m:0.5 ---
+
+abhyasyanti tathā tathāgatasutās tyāgaṃ yathā svān api
+prāṇān prāṇikṛte tyajanti kṛpayā rogān ivāyāsinaḥ ।
+kṣudrāḥ pāpavidhau tathā tv abhiratiṃ badhnanti niḥsādhvasā
+bhūtvā duścaritaikatānamanaso gacchanty adhastād yathā ।।

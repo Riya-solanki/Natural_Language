@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 507 | label: grammar | g:0.573 m:0.5 ---
+
+atrānunāthate iti । {sarpiṣo nāthate} ityādāvāśiṣyeva nāthaterātmanepadaṃ vihitam । {āśiṣi nāthaḥ} iti ।
+atra tu yācanamarthaḥ । tasmāt {anunāthati stanayugam} iti paṭhanīyam ।

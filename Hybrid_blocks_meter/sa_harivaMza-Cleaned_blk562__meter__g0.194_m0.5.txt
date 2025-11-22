@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 562 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ kadācit paśyāmi divaṃ prajvālya tejasā 
+vimānaṃ mahad āyāntam uttareṇa gires tadā ।।

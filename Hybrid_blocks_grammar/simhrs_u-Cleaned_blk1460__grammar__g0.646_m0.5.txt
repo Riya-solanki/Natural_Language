@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1460 | label: grammar | g:0.646 m:0.5 ---
+
+yathā tatraiva, rāmaḥ-haṃho vimāna-rāja vimucya vasudhā-savidha-vartinī gatiṃ kiñcid uccair bhava । kutūhalinī jānakī divya-loka-darśana-vyatikarasya ।

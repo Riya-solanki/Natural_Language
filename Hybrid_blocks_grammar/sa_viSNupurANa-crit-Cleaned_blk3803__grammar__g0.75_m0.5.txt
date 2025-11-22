@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3803 | label: grammar | g:0.75 m:0.5 ---
+
+dānapate jānīma eva vayaṃ yathā śatadhanvanā tad akhilajagatsārabhūtaṃ syamantakaratnaṃ bhavataḥ samarpitaṃ tad etad rāṣṭropakārakaṃ bhavataḥ sakāśe tiṣṭhatīti । tiṣṭhatu sarva eva vayaṃ tatprabhāvaphalabhujaḥ kiṃ tv eṣa balabhadro asmān āśaṅkitavāṃs tad asmatprītaye darśayety abhihitaḥ saratnaḥ so acintayat ।।

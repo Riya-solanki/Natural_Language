@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 384 | label: grammar | g:0.646 m:0.5 ---
+
+atrāsāviti bhuvaneṣviti guṇairiti sarvanāmaprātipadikavacanānāṃ na tvaditi na maditi api asmadityasya sarvākṣepiṇaḥ bhāgyaviparyayādityanyathāsaṃpattimukhena na tvabhāvamukhenābhidhānasya ।

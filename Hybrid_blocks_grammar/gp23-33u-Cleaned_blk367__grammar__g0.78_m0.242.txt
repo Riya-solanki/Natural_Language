@@ -1,0 +1,12 @@
+--- source: gp23-33u-Cleaned.txt | block: 367 | label: grammar | g:0.78 m:0.242 ---
+
+[] āgacchataś ca tasya sa dīrghatara-dīrgha-pṛṣṭhaḥ puccham anu vāṭa-ghaṭita-nyāyena caraṇa-pallava-spṛṣṭatāṃ prāpa ।
+[] tat-spṛṣṭaś cāyaṃ visṛṣṭa-tac-caraṇaḥ svayam akasmāt sarpākārād utsarpan vapur antaram antareṇa vidyādharākāraṃ dhārayati sma ।
+[] tat-kara-pallava-spṛṣṭa-caraṇāḥ śrī-vraja-rāja-caraṇāś ca yathāvad virājamānatām āpuḥ ।
+[] tataḥ sāścaryaṃ kṛtāvalokeṣu sarva-lokeṣu sudarśana-nāma-dharaḥ sa tu vidyādhara-caraḥ punar-labdha-svarūpa-varas taṃ praśaṃsan sva-śāpa-vṛttāntaṃ śaṃsaṃs tadīyāṃ kṣamām āśaṃsaṃs tad-anujñātaḥ svādhiṣṭhānam eva pratiṣṭhate sma ।
+[] ye pūrvaṃ tatrāpatrapām apahāya śrī-vraja-patipatnī-prabhṛtayaḥ kula-strī-janāḥ kim utānye saṃsṛjyamānatayānusṛtya kṛtya-mūḍhatām anubabhūvuḥ ।
+[] samprati tu te yathāyathaṃ mithaḥ samupagūḍhāh kevala-mūḍha-rodanā babhūvuḥ ।
+yathā tātaṃ kṛṣṇaś ca rāmaś ca kṛṣṇaṃ rāmaṃ ca mātaraḥ । mātṝś cānyāstathānyo' nyam anye śiśliṣur unmadāḥ ।। [] tad evaṃ kṛta-kṣapaṇāyāṃ kṣapāyāṃ tat-kṣaṇam eva tūrṇa-gamana-manasaḥ samam anaḥ-samūham ārohayantaś cira-gantavyaṃ panthānam antikam ivātikrāntavantaḥ prāptavantaś ca nija-vrajam ।
+[] yatropanandādayaḥ sa-nandanaṃ sahaja-mātraṃ śrīman-nanda-rājam anavadya-vādya-gīta-parīta-veda-ghoṣānugata-sarva-ghoṣā yathāyathaṃ saṃsajya nīrājya ca vrajopavanam āvāsya snapanādibhir upāsya ca tatraiva nija-gṛha-janaṃ prāpayya pākaṃ samāpayya ca sarvān eva sambhojya sukhena saṃyojya ca vartma-vārtāṃ saṃpṛcchya harṣa-dharṣādikaṃ samṛcchya ca sva-sva-vasatim anu vasatīṃ vāsayām āsuḥ ।
+[] atha samāpanam āha-
+īdṛśas te vrajādhīśa putraś citrayaśāḥ śaśī । yad-aṅghri-nakhara-jyotsnā tamaḥ sarvam anīnaśat ।।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 402 | label: grammar | g:0.75 m:0.5 ---
+
+bhedaḥ upāyakauśalasya daśa bhedā bhavanti । yathā - āntarāyikadharmasamatikramaṇena devādimārātikramaḥ, vibhāvitasarvadharmasamatvena apratiṣṭhitavihāraḥ, praṇidhānasamṛddhyā yathāvedhaṃ parārthakaraṇam, svabhyastasarvaduṣkaratvena asādhāraṇaḥ, śukladharmaviśuddhyā sarvadharmasyāgrahaṇam, śūnyatāvimokṣamukhatvena anupalambhaḥ, animittavimokṣamukhatvena animittaḥ, apraṇihitavimokṣamukhatvena apraṇidhānam, praśnapūrvakāvaivartikadharmakathanena avaivartikaliṅgam, sarvaviṣayajñānatvena apramāṇamiti daśa upāyakauśalaprayogā iti ।

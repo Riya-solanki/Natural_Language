@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8880 | label: meter | g:0.341 m:0.723 ---
+
+śrīgaruḍamāhapurāṇam- 
+garuḍa uvāca ।
+satyaṃ brūhi suraśreṣṭha kṛpāṃ kṛtvā mayi prabho ।
+mṛtānāṃ caiva jantūnāṃ kadā kuryātsapiṇḍanam ।।

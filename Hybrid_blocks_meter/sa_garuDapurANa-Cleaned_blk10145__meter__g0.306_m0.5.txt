@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10145 | label: meter | g:0.306 m:0.5 ---
+
+nadīṣu gaṅgā jalajeṣu padmamacchinnabhakteṣu tathaiva vāyuḥ ।
+tathā purāṇeṣu ca gāruḍaṃ ca mukhyaṃ tadāhurharitattvadarśane ।।

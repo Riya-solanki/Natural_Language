@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7890 | label: meter | g:0.25 m:0.5 ---
+
+nibaddhāḥ karmapaśaiste bhuñjan bhogān pṛthagvidhān ।
+devatvaṃ yāti sattvena rajasā ca manuṣyatām ।।

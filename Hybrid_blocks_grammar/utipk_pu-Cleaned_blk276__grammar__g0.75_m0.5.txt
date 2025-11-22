@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 276 | label: grammar | g:0.75 m:0.5 ---
+
+avahnyābhāsasphuraṇapūrvako api jāyamāno dhūmābhāso dūrādau niyatiśaktyā kṛtasāmarthyād agnyābhāsād eva taddeśagatatattatpramātrantarasādhāraṇāt tasyaiva sa avyabhicāreṇa gamako, jātarūḍhas tu dhūmābhāsas tadvahnyābhāsasyātyantaparikṣayāt tattatpramātrantaragād dhūmābhāsād eva parokṣād api pūrvavat kṛtādhipatyāt ।।

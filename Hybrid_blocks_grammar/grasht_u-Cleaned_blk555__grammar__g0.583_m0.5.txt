@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 555 | label: grammar | g:0.583 m:0.5 ---
+
+prathamaṃ tatsatvaṃ kariṇā nāgena saha hemakriyāsu svarṇakāryeṣu nirvyūḍhaṃ rase nirvāhitaṃ kuryādityarthaḥ ।।
+punastrapuṇā vaṅgena saha tārakriyāsu rūpyakāryeṣu nirvyūḍhaṃ kuryāt nāgavaṅgau sarvatra pītasitakāryeṣu praśastāvityarthaḥ ।।

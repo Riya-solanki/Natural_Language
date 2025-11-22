@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 119 | label: meter | g:0.401 m:0.747 ---
+
+aṇḍasyāntarjagatsarvaṃ sadevāsuramānuṣam ।
+sraṣṭā sṛjati cātmānaṃ viṣṇuḥ pālyaṃ ca pāti ca ।।

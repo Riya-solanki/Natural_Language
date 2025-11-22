@@ -1,0 +1,11 @@
+--- source: simhrs_u-Cleaned.txt | block: 160 | label: meter | g:0.253 m:0.993 ---
+
+veśyābhisārikā tv eti hṛṣṭā vaiśika-nāyakam ।
+āvirbhūta-smita-mukhī mada-ghūrṇita-locanā ।। 
+anuliptākhilāṅgī ca vicitrābharaṇānvitā ।
+snehāṅkurita-romāñca-sphuṭībhūta-manobhavā ।। 
+saṃveṣṭitā parijanair bhogopakaraṇānvitaiḥ ।
+raśanārāva-mādhurya-dīpitānaṅga-vaibhavā ।। 
+caraṇāmbuja-saṃlagna-maṇi-mañjīra-mañjulā ।
+eṣā ca mṛdu-saṃsparśaiḥ keśa-kaṇḍūyanādibhiḥ । 
+prabodhayati tad-bodhe praṇayāt kupitekṣaṇā ।।

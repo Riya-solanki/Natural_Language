@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1573 | label: grammar | g:0.625 m:0.5 ---
+
+sarvaḥ prāṇavināśasaṃśayakarīṃ prāpyāpadaṃ dustarāṃ pratyāsannabhayo na vetti vibhavaṃ svaṃ jīvitaṃ kāṅkṣati ।
+uttīrṇas tu tato dhanārtham aparāṃ bhūyo viśaty āpadaṃ prāṇānāṃ ca dhanasya cāyam adhiyām anyonyahetuḥ paṇaḥ ।।

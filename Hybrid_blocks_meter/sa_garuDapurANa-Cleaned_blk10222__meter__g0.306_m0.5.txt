@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10222 | label: meter | g:0.306 m:0.5 ---
+
+uttiṣṭha madhveśa sarasvatīśa uttiṣṭha rudreśa tathāṃbikeśa ।
+uttiṣṭha candreśa tathā śacīśa vipreśa bhakteśa gaveśa nityam ।।

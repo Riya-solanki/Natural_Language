@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 498 | label: hybrid | g:0.324 m:0.476 ---
+
+sarve te kṣatriyās tāta dharmas teṣāṃ nirākṛtaḥ 
+vasiṣṭhavacanād rājan sagareṇa mahātmanā ।। 
+khaśās tu ṣārāś cīnāś ca madrāḥ kiṣkandhakās tathā । kauntalāś ca tathā vaṅgāḥ śālvāḥ kauṅkaṇakās tathā । 
+sa dharmavijayī rājā vijityemāṃ vasuṃdharām 
+aśvaṃ vicārayām āsa vājimedhāya dīkṣitaḥ ।।

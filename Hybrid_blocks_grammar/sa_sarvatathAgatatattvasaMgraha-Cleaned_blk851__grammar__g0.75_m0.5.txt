@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 851 | label: grammar | g:0.75 m:0.5 ---
+
+"tato yathāvad vajrasatvādimahāmudrābandhacatuṣṭayaṃ śikṣayitvā, yathāvad vajradhātumahāmaṇḍalavidhivistara iti, yathāvajrasiddhicaturmudrāmaṇḍalamevamakṣobhayādīni sarvamaṇḍalāni caturmudrāmaṇḍalayogena likhet । svābhiḥ svābhirmudrābhiḥ sarvasiddhayo dadantīti । evampaṭākuḍyākāśasarvasthānābhilikhitāni sarvasiddhayo dadantīti ।।

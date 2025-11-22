@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 610 | label: meter | g:0.25 m:0.728 ---
+
+āsaṃsāraṃ kaipuṅgavehiṃ paḍidiahagahiasāro vi ।
+ajjavi abhinnamuddo vva jaai vāāṃ paripphando ।।
+āsaṃsāraṃ kavipuṅgavaiḥ pratidivasagṛhītasāro api ।
+adyāpyabhinnamudra iva jayati vācāṃ parispandaḥ ।।
+iti chāyā ।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1113 | label: meter | g:0.056 m:0.875 ---
+
+śambaraṃ praviviśe bimbādharaṃ
+yat tad eva jaladevahelanam ।
+chidram āvaritum atra tadvrate
+śīrṣabhākkarayugaṃ sa namyatām ।। [rathoddhatā]

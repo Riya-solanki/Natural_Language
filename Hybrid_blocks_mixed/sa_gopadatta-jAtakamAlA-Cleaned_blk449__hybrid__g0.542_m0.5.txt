@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 449 | label: hybrid | g:0.542 m:0.5 ---
+
+icchāmi gantum tad ahaṃ bhavantyo [!] mā matkṛte śokahrade śayidhvam ।
+saṃpātabhadrāṇi hi kasya nāma viśleṣaduḥkhāni na santi loke ।।

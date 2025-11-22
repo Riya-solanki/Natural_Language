@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 113 | label: meter | g:0.328 m:0.595 ---
+
+prabhūtaṃ me dhanaṃ śakra śaktimacca mahad balam ।
+andhabhāvāttvidānīṃ me mṛtyurevābhirocate ।।

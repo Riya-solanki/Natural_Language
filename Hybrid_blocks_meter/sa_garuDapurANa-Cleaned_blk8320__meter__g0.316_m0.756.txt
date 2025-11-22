@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8320 | label: meter | g:0.316 m:0.756 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+ārtena mriyamāṇena yaddattaṃ tatphalaṃ vada ।
+svasthāvasthena dattena vidhihīnena vā vibho ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 650 | label: meter | g:0.306 m:0.625 ---
+
+pītatuṅgakaṭhinastanāntare kāntadattam abalā nakhakṣatam ।
+āvṛṇoti vivṛṇoti cekṣate labdharatnam iva duḥkhito janaḥ ।।

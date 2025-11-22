@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 211 | label: meter | g:0.26 m:0.5 ---
+
+arhantabhūmimapi pratyayabuddhabhūmau traidhātukaṃ na spṛśate supināntare api 
+buddhāṃśca paśyati katheti janasya dharmaṃ avivartiyeti ayu vyākṛtu veditavyo ।।

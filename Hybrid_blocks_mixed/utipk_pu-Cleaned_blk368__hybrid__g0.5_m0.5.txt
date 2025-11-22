@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 368 | label: hybrid | g:0.5 m:0.5 ---
+
+svāṅgarūpeṣu bhāveṣu patyur jñānaṃ kriyā ca yā ।
+māyātṛtīye te eva paśoḥ sattvaṃ rajas tamaḥ ।।

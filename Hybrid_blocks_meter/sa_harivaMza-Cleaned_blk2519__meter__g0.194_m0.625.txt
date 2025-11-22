@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2519 | label: meter | g:0.194 m:0.625 ---
+
+tavāsmin yamunātoye naiva sthānaṃ dadāmy aham 
+gacchārṇavajalaṃ sarpa saputraḥ sahabāndhavaḥ ।।

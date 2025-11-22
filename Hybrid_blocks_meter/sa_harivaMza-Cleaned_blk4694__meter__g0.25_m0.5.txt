@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4694 | label: meter | g:0.25 m:0.5 ---
+
+na hy asya triṣu lokeṣu sadṛśo asti parākrame 
+utpāṭya parvatān eṣa parvatair eva śātayet ।।

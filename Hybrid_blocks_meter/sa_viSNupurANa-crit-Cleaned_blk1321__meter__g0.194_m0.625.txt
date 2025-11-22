@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1321 | label: meter | g:0.194 m:0.625 ---
+
+tad ebhir alam atyarthaṃ duṣṭārambhoktivistaraiḥ 
+avidyāntargatair yatnaḥ kartavyas tāta śobhane ।।

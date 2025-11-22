@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1479 | label: grammar | g:0.606 m:0.47 ---
+
+atyuktau yadi na prakupyasi mṛṣāvādaṃ na cen manyase tad brūmo adbhutakīrtaneṣu rasanā keṣāṃ na kaṇḍūyate ।
+deva tvadvijayapratāpadahanajvālāvalīśoṣitāḥ sarve vāridhayas tato ripuvadhūbāṣpāmbubhiḥ pūritāḥ ।।

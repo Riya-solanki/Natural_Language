@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1123 | label: meter | g:0.25 m:0.5 ---
+
+yat tv etad bhagavān āha prahlādaṃ daityasattamam 
+dadāha nāgnir nāstraiś ca kṣuṇṇas tatyāja jīvitam ।।

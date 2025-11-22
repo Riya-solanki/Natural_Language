@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 674 | label: grammar | g:0.583 m:0.5 ---
+
+vastusvabhāvādanyena hetunā vā parāhataḥ । notpādayati yaḥ kāryaṃ so aheturiti gīyate ।।

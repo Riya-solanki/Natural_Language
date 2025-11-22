@@ -1,0 +1,3 @@
+--- source: ttssarvu-Cleaned.txt | block: 10 | label: grammar | g:0.562 m:0.5 ---
+
+nanvetebhyo atiriktā anye api bahavo ghaṭapaṭādayaḥ padārthā dṛśyante tatkathameṣāmupapattirata āha ।

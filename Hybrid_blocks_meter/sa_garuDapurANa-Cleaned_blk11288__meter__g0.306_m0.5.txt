@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11288 | label: meter | g:0.306 m:0.5 ---
+
+na vai rudravatpārvatī pūrṇarūpā hyanyepyevaṃ naiva pūrṇāḥ sadaiva ।
+ālocanāmevameṣā hi kṛtvā tapaścakre yamunāyāśca tīre ।।

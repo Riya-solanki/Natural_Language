@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 401 | label: meter | g:0.194 m:0.5 ---
+
+meruṃ gatasya vā tasya śāryāteḥ saṃtatiḥ katham 
+sthitā pṛthivyām adyāpi śrotum icchāmi tattvataḥ ।।

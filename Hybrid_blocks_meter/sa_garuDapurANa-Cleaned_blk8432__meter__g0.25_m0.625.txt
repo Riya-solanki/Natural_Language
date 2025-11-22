@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8432 | label: meter | g:0.25 m:0.625 ---
+
+dāhasyānantaraṃ kāryaṃ putraiḥ snānaṃ sacailakam ।
+tilodakaṃ tato dadyānnāmagotreṇa tiṣṭhatu ।।

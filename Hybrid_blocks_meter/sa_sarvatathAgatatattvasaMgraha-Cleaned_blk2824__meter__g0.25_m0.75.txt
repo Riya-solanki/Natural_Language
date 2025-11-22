@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2824 | label: meter | g:0.25 m:0.75 ---
+
+saddharme śapathāṅkṛtvā mahāpadmakulottamaṃ ।
+pālayetsatyasamayaṃ yadicchet siddhimuttamām ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1339 | label: hybrid | g:0.5 m:0.5 ---
+
+adharmā yadi vā dharmāḥ prakṛtyā tu prabhāsvarāḥ ।
+evaṃ tu bhāvayaṃ satvāṃ huṃkāreṇa tu nāśayet ।।

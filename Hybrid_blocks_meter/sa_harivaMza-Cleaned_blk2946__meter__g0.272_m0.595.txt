@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2946 | label: meter | g:0.272 m:0.595 ---
+
+vasudevas tathaivāyaṃ saputraḥ sahabāndhavaḥ 
+cchinatti mama mūlāni bhuṅkte ca mama pārśvataḥ ।।

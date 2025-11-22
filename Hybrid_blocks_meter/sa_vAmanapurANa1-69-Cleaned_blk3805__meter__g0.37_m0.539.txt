@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3805 | label: meter | g:0.37 m:0.539 ---
+
+tatroṣya daityeśvarasūnurādarānmāsatrayaṃ mūlaphalāmbubhakṣī ।
+nivedya viprapravareṣu kāñcanaṃ jagāma ghoraṃ sa hi daṇḍakaṃ vanam ।।

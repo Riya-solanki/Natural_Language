@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3224 | label: meter | g:0.194 m:0.75 ---
+
+sthāpyantāṃ sunikhātāś ca mahākumbhā yathākramam 
+udabhārasahāḥ sarve sakāñcanaghaṭottarāḥ ।।

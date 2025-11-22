@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 439 | label: grammar | g:0.646 m:0.5 ---
+
+na nīlābjaṃ cakṣuḥ sarasiruham etan na vadanaṃ na bandhūkasyedaṃ kusumam adharas taddyutidharaḥ ।
+mamāpy atra bhrāntiḥ prathamam abhavad bhṛṅga kim u te kṛtaṃ yatnair ebhyo virama virama śrāmyasi mudhā ।।

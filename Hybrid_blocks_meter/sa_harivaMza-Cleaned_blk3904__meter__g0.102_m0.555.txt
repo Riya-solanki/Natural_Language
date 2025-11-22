@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3904 | label: meter | g:0.102 m:0.555 ---
+
+ṣaḍbhir nihatya kārūṣān maheṣvāsān sa vīryavān 
+śataṃ jaghāna saṃkruddho māgadhānāṃ mahārathaḥ 
+nihatya tān mahābāhur jarāsaṃdhaṃ tato abhyayāt ।।

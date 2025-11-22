@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2147 | label: meter | g:0.194 m:0.625 ---
+
+sanandanavanaṃ caiva dṛṣṭvā caitrarathaṃ vanam 
+āplutaṃ me sutīrthāsu saritsu saha daivataiḥ ।।

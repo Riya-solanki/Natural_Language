@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 676 | label: meter | g:0.292 m:0.5 ---
+
+[] tatra ca kaimutyam idam avadhira-mātraāṇām anavadhikam avadhāna-nidhāna-pātrāyate । yathā-

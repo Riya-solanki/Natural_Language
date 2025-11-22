@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4002 | label: meter | g:0.194 m:0.625 ---
+
+duryodhanasya kanyāṃ tu haramāṇo nyagṛhyata 
+sāmbo jāmbavatīputro nagare nāgasāhvaye ।। 
+rājabhiḥ sarvato ruddho haramāṇo balāt kila । 
+tam upaśrutya saṃkruddha ājagāma halāyudhaḥ 
+rāmas tasya vimokṣārtham āgato nālabhac ca tam 
+tataś cukrodha balavān adbhutaṃ cākaron mahat ।।

@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 80 | label: grammar | g:0.564 m:0.448 ---
+
+ittham asyaiva padārthatrayasya vidyāpāde sthitasya caryādipādatrayeṇa viniyogo vibhajanam abhidhāsyate vakṣyate ।। 
+evaṃvidhena vidhinā patiḥ pāśopaśamanaṃ kṛtvā paśūnāṃ kaivalyado bhavati ātmanām iti pratipadam eṣām eva praviveko abhidhāsyata ity arthaḥ ।। 
+tatphalakathanāyāha ।।

@@ -1,0 +1,3 @@
+--- source: brsgor3u-Cleaned.txt | block: 226 | label: grammar | g:0.708 m:0.5 ---
+
+nanu anyathā vidyaikyāṅgīkāre abhyāsānupapattiriti ceducyate-sa evābhyāsaḥ karmabhedako yo nirarthakaḥ, iha tūṣastabrāhmaṇoktātmana evāśanāyādyatyayarūpaviśeṣakathanārthatvādabhyāso anyathāsiddho na vidyābhedaka iti samudāyārthaḥ ।।

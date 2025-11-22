@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 589 | label: meter | g:0.25 m:0.824 ---
+
+tatraitāni hṛdayāni bhavanti ।
+vajra hoḥ ।।

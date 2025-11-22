@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 125 | label: meter | g:0.25 m:0.625 ---
+
+bhāvanāyogasāmarthyāt samayānāṃ ca pālanāt ।
+īdṛśaṃ prāpyate rūpaṃ na vācyaṃ yajjinairapi ।।

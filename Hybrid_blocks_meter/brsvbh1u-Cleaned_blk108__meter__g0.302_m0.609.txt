@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 108 | label: meter | g:0.302 m:0.609 ---
+
+-yaduktaṃ bahirbādhitamarthāntare vyavatiṣṭhata iti tadapyannathopapadyata ityāha-asaṃnidhāneti ।
+deśāntarepi syādityarthaḥ ।

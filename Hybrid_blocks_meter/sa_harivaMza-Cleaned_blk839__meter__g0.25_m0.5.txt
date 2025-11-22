@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 839 | label: meter | g:0.25 m:0.5 ---
+
+tābhiṛ dhāryo hy ayaṃ lokaḥ prajāś caiva caturvidhāḥ 
+poṣṭā hi bhagavān somo jagato jagatīpate ।।

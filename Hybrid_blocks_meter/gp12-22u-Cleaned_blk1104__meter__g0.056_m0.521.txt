@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1104 | label: meter | g:0.056 m:0.521 ---
+
+prārthyaṃ cet phalati tadā bhajema
+dehaṃ no cen no' ti samayasya yaiva sīmā ।
+tāsāṃ sā yadi viphalā kva tarhi lajjā
+nirvastrā gati-vidhaye himaṃ tu lakṣyam ।। [praharṣiṇī]

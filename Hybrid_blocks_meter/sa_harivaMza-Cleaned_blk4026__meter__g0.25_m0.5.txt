@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4026 | label: meter | g:0.25 m:0.5 ---
+
+sa eṣa tamasaḥ pāre varadatto mahāsuraḥ 
+aditiṃ dharṣayām āsa kuṇḍalārthe mahāsuraḥ ।। 
+ye hi devamanuṣyeṣu kuṇḍale te śubhe ubhe । 
+na cāsuragaṇaiḥ sarvaiḥ sahitaiḥ karma tat purā 
+kṛtapūrvaṃ tadā ghoraṃ yad akārṣīn mahāsuraḥ ।।

@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 424 | label: grammar | g:0.686 m:0.094 ---
+
+rañjitarasapraśaṃsām āha athetyādi ।।
+athānantaraṃ rasaḥ rasendro yadā vakṣyamāṇaiḥ śvetādibhiḥ rāgaiḥ rajyate tadā nijakarme varṇaṃ svakīyameva svābhāvikaṃ rūpaṃ na jahāti na tyajati punastaireva rāgaiḥ nirṇikto raktaḥ san rañjanaṃ kurute rāgadāyī bhavatīti ।।
+tathā no rakto na rañjanaṃ kurute avidyamānatvānniṣedhaḥ ।।

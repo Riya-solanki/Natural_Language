@@ -1,0 +1,3 @@
+--- source: jsbh3-1u-Cleaned.txt | block: 26 | label: hybrid | g:0.5 m:0.5 ---
+
+।। iti śrīkhaṇḍadevāntevāsikavimaṇḍanaśaṃbhubhaṭṭakṛtāyāṃ bhāṭṭadīpikāprabhāvalyāṃ tṛtīyādhyāyasya prathamaḥ pādaḥ ।।

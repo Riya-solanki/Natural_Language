@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11552 | label: meter | g:0.306 m:0.5 ---
+
+janārdana tvaṃ hi suduṣṭasaṃgānkāmādirūpānsatataṃ varjayitvā ।
+hare hare māṃ satataṃ pāhi daityānsamāhṛtya prabalānvighnarūpān ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 571 | label: meter | g:0.139 m:0.663 ---
+
+balena, yathā-
+rudrādres tulanaṃ sva-kaṇṭha-vipina-cchedo harer vāsanaṃ
+kārāveśmani puṣpakasya haraṇaṃ yasyorjitāḥ kelayaḥ ।
+so' yaṃ durmada-bāhu-daṇḍa-sacivo laṅkeśvaras tasya me
+kā ślāghā guṇa-jarjareṇa dhanuṣākṛṣṭena bhagnena vā ।।

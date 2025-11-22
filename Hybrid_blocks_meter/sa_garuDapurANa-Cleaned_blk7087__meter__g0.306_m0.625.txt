@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7087 | label: meter | g:0.306 m:0.625 ---
+
+ajopi hi sakṛtpretya saṃbhavāmyātmamāyayā ।
+māyecchayā dvidhā sa syātpatiḥ patnī sukhaṃ jagat ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 341 | label: meter | g:0.255 m:0.5 ---
+
+{pravisaṃtī gharavāraṃ vivali-ava-aṇā vilo-i-ūṇa pahaṃ ।
+khandhe ghettūṇa ghaḍaṃ hā hā ṇaṭṭhotti ru-asi sahi kinti ।।}
+[praviśantī gṛhadvāraṃ vivalitavadanā vilokya panthānam ।
+skandhe gṛhītvā ghaṭaṃ hā hā naṣṭa iti rodiṣi sakhi kimiti ।।]

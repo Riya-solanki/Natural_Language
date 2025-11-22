@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 915 | label: grammar | g:0.75 m:0.5 ---
+
+ity ādiṣu kathaṃ bhayotpattir iti ced ucyate । bhīṣaṇās trividhāḥ-ākṛti-bhīṣaṇāḥ kriyā-bhīṣaṇāḥ māhātmya-bhīṣaṇāś ceti । tatrākṛti-bhīṣaṇāḥ rakṣaḥ-piśācādayaḥ । kriyā-bhīṣaṇāḥ vīrabhadra-paraśurāma-śārdūla-vṛkādayaḥ । māhātmya-bhīṣaṇā deva-naradevādayaḥ । tato' tra māhātmya-bhīṣaṇa-rāja-darśanād bhayaṃ nāṭyācāryasya jāyate । na punaḥ svabhāvāt । tad etan niḥśaṃśayaṃ kṛtam aho durāsado rāja-mahimā iti pūrva-vākyaṃ grathnatā tenaiva kālidāseneti sarvaṃ kalyāṇam ।

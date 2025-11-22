@@ -1,0 +1,8 @@
+--- source: brsvbh1u-Cleaned.txt | block: 605 | label: meter | g:0.319 m:0.614 ---
+
+viśeṣaṇabhedavyapadeśābhyāṃ ca netarau ।
+viśeṣaṇaṃ hetuṃ vyācaṣṭe-viśinaṣṭi hīti ।
+śārīrādityupalakṣaṇam, pradhānādityapi draṣṭavyam ।
+bhedavyapadeśaṃ vyācaṣṭe-tathā pradhānādapīti ।
+syādetat ।
+kimāgamikaṃ sāṃkhyābhimataṃ pradhānaṃ, tathāca bahusamañjasaṃ syādityata āha-nātra pradhānaṃ nāma kiñciditi ।।

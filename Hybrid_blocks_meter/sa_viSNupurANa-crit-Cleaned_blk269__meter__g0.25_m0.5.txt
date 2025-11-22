@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 269 | label: meter | g:0.25 m:0.5 ---
+
+karmabhir bhāvitāḥ pūrvaiḥ kuśalākuśalais tu tāḥ 
+khyātyā tayā hy anirmuktāḥ saṃhāre apy upasaṃhṛtāḥ ।।

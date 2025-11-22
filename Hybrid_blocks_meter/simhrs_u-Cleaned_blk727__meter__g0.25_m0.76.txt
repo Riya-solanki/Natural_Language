@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 727 | label: meter | g:0.25 m:0.76 ---
+
+uttamādhama-madhyeṣu sāttvikā vyabhicāriṇaḥ । 
+vibhāvair anubhāvaiś ca varṇanīyā yathocitam ।। 
+udvega-sneha-dambherṣyā-pramukhāś citta-vṛttayaḥ । 
+ukteṣv antarbhavantīti na pṛthaktvena darśitāḥ ।।
+Ed adds anukta-citta-vṛttīnām uktāntarbhāvaḥ ।

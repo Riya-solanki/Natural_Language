@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 599 | label: grammar | g:0.562 m:0.5 ---
+
+guhyakākhyayā bhujagayakṣadānavā ucyante। [śiveritāḥ yadūcurupasaṃhṛtya] taiḥ śivabhaṭṭārakapreritaiḥ yatsaṃkṣipyoktaṃ tad gauhyakaṃ srotaḥ।।

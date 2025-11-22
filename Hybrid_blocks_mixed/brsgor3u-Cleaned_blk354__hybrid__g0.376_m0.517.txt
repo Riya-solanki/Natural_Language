@@ -1,0 +1,6 @@
+--- source: brsgor3u-Cleaned.txt | block: 354 | label: hybrid | g:0.376 m:0.517 ---
+
+udāhṛtasmṛtīnāṃ mūlaśrutimāha-śabdaśceti ।
+kāmakāro yatheṣṭapravṛttiḥ so api niṣedho api upapannataro bhavati ।
+na ha vā evaṃvidītyasyārthavādatvāt ।
+yadyayamapi vidhiḥ syāttarhi vihitapratiṣiddhatvātṣoḍaśigrahaṇāgrahaṇavatsurāpāne vikalpaḥ syātsa ca sarvasmṛtibhiḥ śiṣṭācāreṇa ca viruddha iti tātparyārthaḥ ।।

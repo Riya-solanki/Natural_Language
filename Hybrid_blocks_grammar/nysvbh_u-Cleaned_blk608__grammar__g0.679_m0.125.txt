@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 608 | label: grammar | g:0.679 m:0.125 ---
+
+parīkṣitāni pramāṇāni prameyamidānīṃ parīkṣyate taccātmādīti ātmā vivicyate kiṃ dehendriyamanobuddhivedanāsaṃghātamātramātmā ? āho svit tavdyatiriktaḥ ? iti।
+kutaḥ saṃśayaḥ ?, vyapadeśasyobhayathā siddheḥ, kriyākaraṇayoḥ kartrā saṃbandhasyābhidhānaṃ vyapadeśaḥ sa dvividhaḥ avayavena samudāyasya amūlairvṛkṣastiṣṭhati' astambhaiḥ prāsādo dhriyate' iti, anyenānyasya vyapadeśaḥ aparaśunā vṛścati' apradīpena paśyati', asti cāyaṃ vyapadeśaḥ acakṣuṣā paśyati' amanasā vijānāti' abuddhyā vicārayati' aśarīreṇa sukhaduḥkhamanubhavatīti, tatra nāvadhāryate kimavayavena samudāyasya ।
+dehādisaṃghātasya ? athānyenānyasya ।
+tavdyatiriktasya ? iti ।।

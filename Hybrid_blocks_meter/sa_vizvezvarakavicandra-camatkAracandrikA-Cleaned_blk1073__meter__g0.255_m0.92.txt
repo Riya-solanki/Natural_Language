@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1073 | label: meter | g:0.255 m:0.92 ---
+
+kevalaśabdālaṅkārasaṅkaro yathā
+sādhvasaṃmatividhvaṃsi kṛtvā siṅkaniṣevaṇam ।
+sādhvasaṃ matividhvaṃsi būpai rnijagṛhasthitaiḥ ।।

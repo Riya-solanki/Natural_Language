@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2054 | label: grammar | g:0.646 m:0.5 ---
+
+na ca smarāmyarthijanopayānaṃ yanna praharṣāya mamārthināṃ vā । iti pradānaiḥ samavāptatuṣṭirdharme sthitaḥ ko maraṇādbibhīyāt ।।

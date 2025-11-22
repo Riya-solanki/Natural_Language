@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1143 | label: hybrid | g:0.5 m:0.5 ---
+
+gatvā vacaḥ prāha munirmahīdhraṃ yāsye mahātīrthavaraṃ supuṇyam ।
+vṛddhosmayaśaktaśca tavādhiroḍhuṃ tasmād bhavān nīcataro astu sadyaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2541 | label: meter | g:0.194 m:0.5 ---
+
+tālaśabdaṃ sa taṃ śrutvā saṃghuṣṭaṃ phalapātane 
+nāmarṣayata saṃkruddhas tālasvanam iva dvipaḥ ।।

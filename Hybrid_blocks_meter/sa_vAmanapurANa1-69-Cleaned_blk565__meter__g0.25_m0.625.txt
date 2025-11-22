@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 565 | label: meter | g:0.25 m:0.625 ---
+
+tamāpatantaṃ vegena muṣṭināhatya bhūtale ।
+pātayāmāsa balavān jagarja ca tadāndhakaḥ ।।

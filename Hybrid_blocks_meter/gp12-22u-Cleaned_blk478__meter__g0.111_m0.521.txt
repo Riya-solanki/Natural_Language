@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 478 | label: meter | g:0.111 m:0.521 ---
+
+evaṃ gocāraṇa-miṣa-mayaṃ krīḍati bhrātṛ-yugme
+vṛndāraṇyaṃ tapa-ṛtur agāt prāṇināṃ nātirucyaḥ ।
+dhatte yad drāk sa ca madhu-guṇaṃ tac ca nāścarya-caryaṃ
+tad-yugmaṃ yad vasati satataṃ tatra nityānurāgi ।। [mandākrāntā]

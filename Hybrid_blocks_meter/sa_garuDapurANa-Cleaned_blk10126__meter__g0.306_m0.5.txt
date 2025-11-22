@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10126 | label: meter | g:0.306 m:0.5 ---
+
+tathaiva vai vāyupurāṇamāhustrīṇyeva cāhuḥ sāttvikānīti loke ।
+tatrāpi kiñcidveditavyaṃ bhavecca purāṇaṣaṭke sattvarūpe munīndrāḥ ।।
+sattvādhame mātsyakaurme tathāhurvāyu cāhuḥ sāttvikaṃ madhyamaṃ ca ।
+viṣṇoḥ purāṇaṃ bhāgavataṃ purāṇaṃ sattvottamaṃ gāruḍaṃ cāhurāryāḥ ।।

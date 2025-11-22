@@ -1,0 +1,5 @@
+--- source: brsvbh3u-Cleaned.txt | block: 48 | label: meter | g:0.253 m:0.729 ---
+
+parābhidhyānāt tu tirohitaṃ tato hyasya bandhaviparyayau ।
+dehayogādvā so apiiti sūtradvayaṃ kṛtopapādanamasmābhiḥ prathamasūtre ।
+nigadavyākhyātaṃ caitayorbhāṣyamiti ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1818 | label: meter | g:0.217 m:0.845 ---
+
+abhivādyābhivādyānām ṛṣīṇāṃ brahmavarcasām 
+paricakrāma so acintyo brahmalokaṃ sanātanam ।।

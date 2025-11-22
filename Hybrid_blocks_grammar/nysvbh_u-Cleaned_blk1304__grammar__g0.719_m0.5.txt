@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1304 | label: grammar | g:0.719 m:0.5 ---
+
+sādhanasyāpi sādhanaṃ vaktavyamiti prasaṅgena pratyavasthānaṃ prasaṅgasamaḥ pratiṣedhaḥ kriyāhetuguṇayogī kriyāvān loṣṭa itiheturnāpadiśyate na ca hetumantareṇa siddhirastīti।
+pratidṛṣṭāntena pratyavasthānaṃ pratidṛṣṭāntasamaḥ akriyāvānātmā kriyāhetuguṇayogāt loṣṭavat' ityukte pratidṛṣṭānta upādīyate akriyāhetuguṇayuktamākāśaṃ niṣkriyaṃ dṛṣṭam' iti, kaḥ punarākāśasya kriyāheturguṇaḥ ? vāyunā saṃyogaḥ saṃskārāpekṣaḥ vāyuvanaspatisaṃyogavaditi ।।

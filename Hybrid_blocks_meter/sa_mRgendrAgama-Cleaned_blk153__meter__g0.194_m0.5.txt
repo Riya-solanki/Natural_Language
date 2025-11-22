@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 153 | label: meter | g:0.194 m:0.5 ---
+
+ekadeśe api yo dharmaḥ pratīto yasya dharmiṇaḥ 
+sa tasya sarvataḥ kena jāyamāno nivāryate ।।

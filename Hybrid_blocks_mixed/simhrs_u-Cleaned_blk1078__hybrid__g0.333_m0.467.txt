@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1078 | label: hybrid | g:0.333 m:0.467 ---
+
+yathā-
+savidhe' pi mayy apaśyati śiśujana-ceṣṭā-vilokana-vyājāt ।
+hasitaṃ smarāmi tasyāḥ sa-svanam ākuñcitāpāṅgam ।।

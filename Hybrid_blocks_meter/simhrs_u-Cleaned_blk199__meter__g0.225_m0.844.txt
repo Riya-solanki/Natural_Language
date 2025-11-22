@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 199 | label: meter | g:0.225 m:0.844 ---
+
+yathā-
+eko' pi traya iva bhāti kanduko' yaṃ
+kāntāyāḥ karatala-rāga-rakta-raktaḥ ।
+bhūmau tac-caraṇa-nakhāṃśu-gaura-gauraḥ
+khasthaḥ san nayana-marīci-nīla-nīlaḥ ।।

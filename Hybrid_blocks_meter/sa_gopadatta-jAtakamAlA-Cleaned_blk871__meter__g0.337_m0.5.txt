@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 871 | label: meter | g:0.337 m:0.5 ---
+
+prasahya paṅkāṅkam ṛṣer varāhaḥ [!] caitye vapur yasya ciraṃ sa eva ।
+tasyaiva dharmasya sudharmatāsau yadādhipatyena bhavād vimuktaḥ ।।

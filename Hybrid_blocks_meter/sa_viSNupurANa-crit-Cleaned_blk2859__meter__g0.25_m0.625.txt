@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2859 | label: meter | g:0.25 m:0.625 ---
+
+śvacaṇḍālavihaṃgānāṃ bhuvi dadyāt tato naraḥ 
+ye cānye patitāḥ kecid apātrā bhuvi mānavāḥ ।।

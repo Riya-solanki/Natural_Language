@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 32 | label: meter | g:0.309 m:0.707 ---
+
+atrāruṇaparispandamandīkṛtavapuṣaḥ śaśinaḥ kāmaparikṣāmavṛtteḥ kāminīkapolaphalakasya ca pāṇḍutvasāmyasamarthanādarthālaṅkāraparipoṣaḥ śobhātiśayamāvahati ।
+vakṣyamāṇavarṇavinyāsavakratālakṣaṇaḥ śabdālaṅkāro apyatitarāṃ ramaṇīyaḥ ।
+varṇavinyāsavicchittivihitā lāvaṇyalakṣaṇaguṇaaṃpadastyeva ।
+yathā ca

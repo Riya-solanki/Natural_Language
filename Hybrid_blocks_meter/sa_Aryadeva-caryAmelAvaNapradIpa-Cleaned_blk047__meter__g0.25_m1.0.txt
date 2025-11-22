@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 47 | label: meter | g:0.25 m:1.0 ---
+
+divārātrivibhāgena candrasūryaprayogataḥ ।
+niśvāso [hi] jagadvyāpī bodhicittaikamārutaḥ ।।

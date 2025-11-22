@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2931 | label: meter | g:0.251 m:0.623 ---
+
+ahaṃ hi khaṭvāṅgavane nāradena samāgataḥ 
+dvitīyaṃ sa hi māṃ vipraḥ punar evābravīd vacaḥ ।।

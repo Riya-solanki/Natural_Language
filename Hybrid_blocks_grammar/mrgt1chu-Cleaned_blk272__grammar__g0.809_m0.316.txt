@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 272 | label: grammar | g:0.809 m:0.316 ---
+
+yadi hy aṇur anādyavidyoparuddhacicchaktir na bhavet tadānīṃ nityavyāpakacicchaktyāspadatve satyapi kathaṃ bhavāvasthāyāṃ bhogalakṣaṇasyārthasya niṣpattaye paśoridaṃ pāśavaṃ paśūcitaṃ kalādyuttejanaṃ svasāmarthyasyānviṣyaty apekṣate muktinimittaṃ ca kathaṃ śāmbhavaṃ balam anveṣate nānyathā balaṃ pratīkṣate pāśānabhyupagame sati svabhāvata evāmalacitsvarūpatvāt tadanveṣaṇasyānarthakyāt ।। 
+yataś cāvasthādvaye apyayaṃ pāśavaṃ vā pārameśvaraṃ vā balottejanamapekṣate tasmāt kimapyasyāsti jñānakriyāsaṃnirodhakaṃ yatkṛtaḥ svātantryavyāghātaḥ ।।

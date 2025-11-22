@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 992 | label: meter | g:0.328 m:0.595 ---
+
+aṭatām aṭavīṣv avāritānāṃ tṛṇaśaṣpāṅkuramātrabhojanānām ।
+vada kaṃ nu samīkṣya vairibhāvaṃ hariṇānām api vidviṣo bhavanti ।।

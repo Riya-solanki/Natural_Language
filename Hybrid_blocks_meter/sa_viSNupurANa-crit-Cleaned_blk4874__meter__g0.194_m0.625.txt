@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4874 | label: meter | g:0.194 m:0.625 ---
+
+ayaṃ sa sarvabhūtasya viṣṇor akhilajanmanaḥ 
+avatīrṇo mahīm aṃśo nūnaṃ bhāraharo bhuvaḥ ।।

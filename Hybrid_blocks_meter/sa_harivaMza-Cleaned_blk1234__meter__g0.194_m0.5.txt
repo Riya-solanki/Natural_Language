@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1234 | label: meter | g:0.194 m:0.5 ---
+
+anāvṛṣṭyā tadā rāṣṭram abhavad bahudhā kṛśam 
+tataḥ prasādayām āsur akrūraṃ kukurāndhakāḥ ।।

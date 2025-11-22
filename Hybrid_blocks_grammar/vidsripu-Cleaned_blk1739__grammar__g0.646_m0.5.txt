@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1739 | label: grammar | g:0.646 m:0.5 ---
+
+dyām ālokayatāṃ kalāḥ kalayatāṃ chāyāḥ samācinvatāṃ kleśaḥ kevalam aṅgulīr dalayatāṃ mauhūrtikānām ayam ।
+dhanyā sā rajanī tad eva sudinaṃ puṇyaḥ sa eva kṣaṇo yatrājñātacaraś cirān nayanayoḥ sīmānam eti priyaḥ ।।

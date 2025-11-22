@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2269 | label: meter | g:0.194 m:0.75 ---
+
+samapracāraṃ ca gavāṃ samatīrthajalāśayam 
+viṣāṇaskandhaghātaiś ca vṛṣāṇāṃ ghṛṣṭapādapam ।।

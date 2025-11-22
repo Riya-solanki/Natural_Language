@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1758 | label: meter | g:0.194 m:0.75 ---
+
+sa sūryakaratulyābhaṃ sahasrāram arikṣayam 
+dīptāgnisadṛśaṃ ghoraṃ darśanīyaṃ sudarśanam ।।

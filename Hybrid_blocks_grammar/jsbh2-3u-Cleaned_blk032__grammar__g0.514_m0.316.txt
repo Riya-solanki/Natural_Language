@@ -1,0 +1,9 @@
+--- source: jsbh2-3u-Cleaned.txt | block: 32 | label: grammar | g:0.514 m:0.316 ---
+
+( adhikaraṇam । ) (a pā adhi) saṃyuktastu ।।
+agnau śrute "carumupadadhāti bṛhaspatervā etadannaṃ yannīvārā" ityatra yajamānasyānnaṃ bṛhaspateḥ kathaṃ syād? yadi na bṛhaspatirdevatetyarthādbṛhaspaterdevatātvāvagatestaittirīyaśākhāyāṃ "bārhaspatyo bhavatī"ti taddhitapadayuktavākyaśeṣaśravaṇācca dravyadevatāsaṃbandhānumitayāgavidhānamevedam ।
+tasya cauṣadhadravyakatvenāgneyātideśataḥ sviṣṭakṛdādipratipattiprāptau "carumupadadhātī" tyanenopadhānaṃ pratipattitvena vidhīyata iti prāpte yadyapi taittirīyaśākhāyāṃ taddhitaśravaṇam; tathāpi vidhyabhāvādvidhyantaraikavākyatvabhaṅgāpatteśca nāyaṃ devatātaddhitaḥ ।
+carumupadadhātītyanena ca sthaṇḍilaniṣpādakacarusaṃskārakatayopadhānavidhānāt devatānākāṅkṣatayā nārthavādonnītasyāpi devatāvidheḥ kalpanam ।
+ata eva carvapekṣitaprakṛtidravyasyaiva nīvārarūpasya vidhikalpanam ।
+ataśca bṛhaspaterbrāhmaṇasyānnaṃ nīvārā ityevaṃ stutyupapatterna bṛhaspatervā ityayaṃ devatākalpanadvārā yāgakalpaka iti siddham ।।
+।। iti saptamaṃ naivāracarorādhānārthatādhikaraṇam ।।

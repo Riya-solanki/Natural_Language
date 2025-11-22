@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 57 | label: meter | g:0.28 m:0.652 ---
+
+kaśyapa uvāca
+śakra gacchāma sadanaṃ brahmaṇaḥ paramādbhutam ।
+tathā parājayaṃ sarve brahmaṇaḥ khyātumudyatāḥ ।।

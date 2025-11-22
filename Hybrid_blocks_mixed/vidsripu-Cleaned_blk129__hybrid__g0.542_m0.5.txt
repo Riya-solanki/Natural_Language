@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 129 | label: hybrid | g:0.542 m:0.5 ---
+
+bhramati girirāṭ pṛṣṭhe garjaty upaśruti sāgaro dahati vitatajvālājālo jaganti viṣānalaḥ ।
+sa tu vinihitagrīvākāṇḍaḥ kaṭāhapuṭāntare svapiti bhagavān kūrmo nidrābharālasalocanaḥ ।।

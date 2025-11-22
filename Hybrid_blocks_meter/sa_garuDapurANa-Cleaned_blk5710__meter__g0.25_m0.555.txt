@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5710 | label: meter | g:0.25 m:0.555 ---
+
+jātipatraṃ kolapatraṃ tathā caiva manaḥ śilā ।
+ebhiścaiva kṛtā vartirbadaryagnau maheśvara ।
+dhūmapānaṃ kāsaharaṃ nātra kāryā vicāraṇā ।।

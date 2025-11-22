@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10469 | label: hybrid | g:0.542 m:0.5 ---
+
+tathāpi tadvai tava nāma pūrvaṃ bhavettadā puṇyakaraṃ bhavediti ।
+rudrādi kānāṃ stavane nāsti śaktistadā vaktavyaṃ mama nāstīti kiṃ vā ।।

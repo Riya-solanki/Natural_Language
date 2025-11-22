@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2190 | label: meter | g:0.306 m:0.5 ---
+
+avaimyenaṃ calaṃ nūnaṃ sadā cāvinaye ratam ।
+ata eva mayā tvasya yuktaṃ marṣayituṃ nanu ।।

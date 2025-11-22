@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 840 | label: grammar | g:0.573 m:0.5 ---
+
+śītāṃśur viṣasodaraḥ phaṇabhṛtāṃ līlāspadaṃ candanaṃ hārāḥ kṣārapayomucaḥ priyasuhṛtpaṅkeruhaṃ bhāsvataḥ ।
+ity eṣāṃ kim ivāstu hanta madanajyotirvighātāya yad bāhyākāraparibhrameṇa tu vayaṃ tattvatyajo vañcitāḥ ।।

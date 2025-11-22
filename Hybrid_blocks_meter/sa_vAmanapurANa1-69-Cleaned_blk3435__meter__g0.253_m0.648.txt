@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3435 | label: meter | g:0.253 m:0.648 ---
+
+pulastya uvāca ।
+sa evamukto vacanaṃ mahātmā vimuktamoho haripādabhaktaḥ ।
+ciraṃ vicintyādbhutametaditthamuvāca pautraṃ madhuraṃ vaco atha ।।

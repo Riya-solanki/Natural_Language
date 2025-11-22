@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1188 | label: meter | g:0.217 m:0.845 ---
+
+{cakāsatyaṅganārāmāḥ kautukānandahetavaḥ ।
+tasya rājñaḥ sumanaso vibudhāḥ pārśvavartinaḥ ।।}

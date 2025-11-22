@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3912 | label: grammar | g:0.604 m:0.5 ---
+
+māgadhānāṃ bārhadrathānāṃ bhaviṣyāṇām anukramaṃ kathayāmi । atra hi vaṃśe mahābalā jarāsaṃdhapradhānā babhūvuḥ ।।

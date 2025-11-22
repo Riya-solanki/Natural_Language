@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 88 | label: meter | g:0.25 m:0.555 ---
+
+atra ratārthaṃ praviśeti vyaṅgyam ।
+ṇollei aṇollamaṇā attā maṃ gharabharammi ।
+khaṇamettaṃ jai saṃjhāi hoi ṇa va hoi vīsāmo ।।

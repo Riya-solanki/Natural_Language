@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1082 | label: meter | g:0.25 m:0.75 ---
+
+saṃkrandanāya caṇḍāya parṇadhārapuṭāya ca ।
+namo hiraṇyavarṇāya namaḥ kanakavarcase ।।

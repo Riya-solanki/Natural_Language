@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 81 | label: grammar | g:0.625 m:0.5 ---
+
+cittattvam eva īśvaratvāt svātmarūpatayā upapannābhāsanam anantaśaktitvād icchāvaśān mṛdādikāraṇaṃ vinaiva bāhyatvena ghaṭapaṭādikam artharāśiṃ prakāśayet ।।

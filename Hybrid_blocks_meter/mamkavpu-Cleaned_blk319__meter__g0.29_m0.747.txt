@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 319 | label: meter | g:0.29 m:0.747 ---
+
+{bhuktimuktikṛdekāntasamādeśanatatparaḥ ।
+kasya nānandanisyandaṃ vidadhāti sadāgamaḥ ।। }

@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 925 | label: grammar | g:0.773 m:0.428 ---
+
+[] vrajarājaḥ sasmitam uvāca-satyaṃ bhavad-uktaṃ punar-uktam eva bhavet, yato bhavato maunam evātra bravītīti rīti-vaśāj jñātavanta eva ca vayam । tathāpi, sva-mukhena sukhena yojayatu bhavān asmān ।
+[] snigdhakaṇṭha uvāca-sarva-sukha-varṣi-śrī-devarṣi-caraṇānāṃ kṛpaṇa-viṣaya-kṛpā-kpta-tad-etad-gatī labdhamatī tāv eva sphuṭam āvām iti ।

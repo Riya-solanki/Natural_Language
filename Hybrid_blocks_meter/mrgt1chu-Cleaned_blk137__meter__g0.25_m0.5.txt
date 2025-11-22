@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 137 | label: meter | g:0.25 m:0.5 ---
+
+tasyāsti karaṇaṃ yena dṛṣṭā nākaraṇā kṛtiḥ ।।
+anāgāmi ca taj jñeyaṃ kāryasyānādisaṃsthiteḥ ।

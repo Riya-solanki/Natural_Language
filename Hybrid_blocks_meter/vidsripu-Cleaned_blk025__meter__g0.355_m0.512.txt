@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 25 | label: meter | g:0.355 m:0.512 ---
+
+udarasyedam aṇutvaṃ sahajagurutvaṃ yadi nedaṃ hṛdayasya ।
+svārthe katham alasatvaṃ katham anusatvaṃ hitakaraṇe matir asya ।।
+jñānaśrīmitrasya

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3561 | label: meter | g:0.25 m:0.75 ---
+
+svāgatenābhivādyainaṃ samābhāṣya parasparam ।
+sukhopaviṣṭaśchāyāyāṃ pṛṣṭvā kuśalamāptavān ।।

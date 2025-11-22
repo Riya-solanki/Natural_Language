@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 878 | label: grammar | g:0.565 m:0.375 ---
+
+anyaccāha aṣṭaguṇetyādi ।।
+aṣṭaguṇaṃ mṛtaśulbaṃ arivargeṇa saha hataṃ yat śulbaṃ tāmraṃ tataḥ kaladhautena ṣoḍaśāṃśena jīrṇaṃ śatārdhena pañcāśadvibhāgena tāraṃ vidhyati kanakaṃ karotītyarthaḥ ।।

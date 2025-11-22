@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 83 | label: hybrid | g:0.476 m:0.5 ---
+
+aho strīṇāṃ krauryaṃ hatarajani dhik tvām atiśaṭhe vṛthāprakrānteyaṃ timirakabarīviślathadhṛtiḥ 
+avaktavye pāte jananayananāthasya śaśinaḥ kṛtaṃ snehasyāntocitam udadhimukhyair nanu jaḍaiḥ ।।

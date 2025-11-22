@@ -1,0 +1,3 @@
+--- source: varlghku-Cleaned.txt | block: 673 | label: meter | g:0.25 m:1.0 ---
+
+iti svādayaḥ ।।

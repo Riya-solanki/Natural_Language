@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 747 | label: meter | g:0.306 m:0.625 ---
+
+anyatra kṛtapāpā ye pañcapātakadūṣitāḥ ।
+asmistīrthe narāḥ snātvā muktā yāntu parāṃ gatim ।।

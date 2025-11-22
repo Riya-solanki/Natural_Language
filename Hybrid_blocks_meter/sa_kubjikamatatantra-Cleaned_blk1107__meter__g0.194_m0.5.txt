@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1107 | label: meter | g:0.194 m:0.5 ---
+
+pratyaye sati mokṣo a sti piṇḍapātena sarvathā 
+viṣayeṣu na mucyeta siddhabhāvaṃ na gacchati ।।

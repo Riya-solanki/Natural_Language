@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 714 | label: meter | g:0.306 m:0.5 ---
+
+dṛṣṭvā toyaṃ sarasvatyā rākṣasā duḥkhitā bhṛśam ।
+ūcustān vai munīn sarvān dainyayuktāḥ punaḥ punaḥ ।।

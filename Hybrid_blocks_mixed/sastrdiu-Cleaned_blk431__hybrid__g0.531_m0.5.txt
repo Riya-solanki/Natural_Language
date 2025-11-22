@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 431 | label: hybrid | g:0.531 m:0.5 ---
+
+kathañcātyantavilakṣaṇāni svalakṣaṇānyekarūpaṃ vijñānaṃ janayanti tadatadrūpiṇo bhāvāstadatadrūpahetujāḥ iti sthiteḥ ।
+bhavato vā kathaṃ vilakṣaṇānāṃ viśeṣāṇāmekarūpasāmānyasaṃbandhakāraṇatvamiticet, dātmyaṃ samavāyaṃ vā bhajante ।।

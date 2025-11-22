@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1082 | label: grammar | g:0.583 m:0.5 ---
+
+kenāsīnaḥ sukham akaruṇenākarād uddhṛtas tvaṃ vikretuṃ vā tvam abhilaṣitaḥ kena deśāntare asmin ।
+yasmin vittavyayabharasaho grāhakas tāvad āstāṃ nāsti bhrātar marakatamaṇe tvatparīkṣākṣamo api ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3708 | label: meter | g:0.25 m:0.5 ---
+
+phalavrīhyādibhiḥ sarvaiḥ śambhavenamaḥ śivāya ca ।
+tvaṃ dūrve amṛjanmāsi hyaṣṭamī sarvakāmabhāk ।।

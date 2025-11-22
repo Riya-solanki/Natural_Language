@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3698 | label: grammar | g:0.562 m:0.5 ---
+
+aṣṭamyāṃ pāraṇaṃ kuryānmarīcaṃ prāśya svargabhāk saptamyāṃ niyataḥ snātvā pūjayitvā divākaram ।।

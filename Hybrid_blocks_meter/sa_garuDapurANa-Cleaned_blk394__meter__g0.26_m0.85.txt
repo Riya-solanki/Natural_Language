@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 394 | label: meter | g:0.26 m:0.85 ---
+
+hariruvāca ।
+pareśvaraṃ paraṃ brahma paramātmānamavyayam ।
+viṣṇuṃ nāmasahasreṇa stuvanmukto bhavennaraḥ ।।

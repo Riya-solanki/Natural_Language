@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7164 | label: meter | g:0.25 m:0.555 ---
+
+yadabravītpurā vyāsaḥ sāraṃ māṃ gāruḍeritam ।
+vyāsaḥ śrutvā brahmaṇaśca purāṇaṃ gāruḍaṃ śubham ।
+devaṃ dhyāyanvedamekaṃ caturdhā vyabhajaddhariḥ ।।

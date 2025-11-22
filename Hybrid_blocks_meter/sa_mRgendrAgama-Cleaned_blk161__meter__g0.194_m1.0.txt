@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 161 | label: meter | g:0.194 m:1.0 ---
+
+tasmānniyāmikā janyaśaktiḥ kāra[ṇa]vastunaḥ 
+sānvayavyatirekābhyāṃ rūḍhito vāvasīyate ।।

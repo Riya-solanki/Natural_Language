@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6138 | label: meter | g:0.328 m:0.595 ---
+
+ṭābhyāṃbhisastṛtīyā syātkaraṇe kartarīritā ।
+yena kriyate karaṇaṃ tatkartā yaḥ karoti saḥ ।।

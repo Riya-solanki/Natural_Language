@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 616 | label: meter | g:0.333 m:0.5 ---
+
+[] atha kadācin nākṣatra-māsa-trayānte nakṣatreśa-kānte taj-janma-nakṣatre śrīman-mātrā putrābhiṣeka-kautuka-yātrā pravartitā । tadā ca,

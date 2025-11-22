@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1303 | label: grammar | g:0.625 m:0.5 ---
+
+tarjanī gale bandhā tu tābhyāṃ daṃṣṭrā mukhasthitā । gāḍhamuṣṭinibandhāśca mahāmudrāḥ prakalpitā ।। iti ।।

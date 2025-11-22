@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 422 | label: meter | g:0.056 m:0.854 ---
+
+{sākaṃ kuraṅgakadṛśā madhupānalīlāṃ
+kartuṃ suhṛdbhirapi vairiṇi te pravṛtte ।
+anyābhidhāyi tava nāma vibho gṛhītaṃ
+kenāpi tatra viṣamāmakarodavasthām ।।}

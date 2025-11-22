@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3471 | label: meter | g:0.25 m:0.5 ---
+
+tatra muktādarasneho viluptaṃ yatra sauhṛdam ।
+tadeva kevalaṃ ślaghyaṃ yasyātmā kriyate stutau ।।

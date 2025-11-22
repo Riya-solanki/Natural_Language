@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2835 | label: meter | g:0.194 m:0.625 ---
+
+devāsurās tathā yakṣā nāgā gandharvarākṣasāḥ 
+piśācā guhyakāḥ siddhāḥ kūṣmāṇḍās taravaḥ khagāḥ ।।

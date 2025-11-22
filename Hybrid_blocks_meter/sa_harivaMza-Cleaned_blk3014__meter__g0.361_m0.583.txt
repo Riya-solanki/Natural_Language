@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3014 | label: meter | g:0.361 m:0.583 ---
+
+mahyaṃ tu rocate kaṃsa vasudevasahāyavān 
+gaccha kṛṣṇasya nilayaṃ prītis te tena rocatām ।। 
+anyathā tu gatiḥ kaṃsa tava nāstīti niścayaḥ । 
+andhakasya vacaḥ śrutvā kaṃsaḥ saṃraktalocanaḥ 
+kiṃcid apy abruvan krodhād viveśa svaṃ niveśanam ।।

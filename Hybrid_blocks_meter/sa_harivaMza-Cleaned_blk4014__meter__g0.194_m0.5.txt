@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4014 | label: meter | g:0.194 m:0.5 ---
+
+tatra vighnaṃ caranti sma daiteyāḥ saha dānavaiḥ 
+tāñ jaghāna mahābāhur varadattān mahāsurān ।।

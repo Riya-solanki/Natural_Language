@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 287 | label: meter | g:0.378 m:0.647 ---
+
+iti siṃhasyābhidhātumucitameva, rājopahāsaparatvenābhaidhīyamānatvāt ।
+rājñaḥ punarasya nijayaśaḥ parirakṣaṇaparatvena tṛṇavallaghuvṛttayaḥ prāṇāḥ pratibhāsante ।
+tasyaitatpūrvapakṣottaratvena

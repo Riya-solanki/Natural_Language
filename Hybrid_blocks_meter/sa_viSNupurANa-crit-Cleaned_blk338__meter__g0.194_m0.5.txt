@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 338 | label: meter | g:0.194 m:0.5 ---
+
+vedavādāṃs tathā vedān yajñakarmādikaṃ ca yat 
+tat sarvaṃ nindamānās te yajñavyāsedhakāriṇaḥ ।।

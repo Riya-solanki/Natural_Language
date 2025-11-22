@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3574 | label: meter | g:0.25 m:0.555 ---
+
+tābhyāṃ mṛdhe prayuktābhyāṃ yādavābhyāṃ matir babhau 
+tayoḥ prayudhyatoḥ saṃkhye matir āsīd dhṛtātmanoḥ । 
+āyudhānāṃ purāṇānām ādāne kṛtalakṣaṇā ।।

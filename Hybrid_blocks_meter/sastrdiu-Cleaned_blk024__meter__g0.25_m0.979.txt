@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 24 | label: meter | g:0.25 m:0.979 ---
+
+kiñca- niyojyaḥ kalpanīyo atra vidhyarthānupapattiḥ ।
+nacopanayanasyāṅgabhāvo astyadhyāpanaṃ prati ।
+dvitīyāśrutisāmarthyātsā māṇavakasaṃskriyā ।।
+tathāsatyantaraṅgatvādaṅgamadhyayanasya tat ।।

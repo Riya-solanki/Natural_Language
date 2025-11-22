@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3248 | label: meter | g:0.306 m:0.5 ---
+
+udyogena kṛte kārye siddharyasya na vidyate ।
+daivaṃ tasya pramāṇaṃ hi kartavyaṃ pauruṣaṃ sadā ।।

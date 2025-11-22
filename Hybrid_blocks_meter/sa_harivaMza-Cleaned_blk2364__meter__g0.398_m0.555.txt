@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2364 | label: meter | g:0.398 m:0.555 ---
+
+sthāneneha na naḥ kāryaṃ vrajāmo anyan mahad vanam 
+yan nirbhayaṃ sukhakaraṃ sukhasaṃcāramārutam । 
+yac chivaṃ ca sukhāḍhyaṃ ca gavāṃ caiva sukhāvaham ।।

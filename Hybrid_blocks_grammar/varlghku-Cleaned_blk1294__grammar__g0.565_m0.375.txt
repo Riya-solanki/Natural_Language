@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1294 | label: grammar | g:0.565 m:0.375 ---
+
+tasau matvarthe ।।
+tāntasāntau bhasaṃjñau sto matvarthe pratyaye pare । vasoḥ saṃprasāraṇaṃ । । śuklo guṇo asyāstīti śuklaḥ paṭaḥ । kṛṣṇaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 599 | label: meter | g:0.25 m:0.5 ---
+
+mātṛkāśca gaṇāṃścādau nandigaṅge ca pūjayet ।
+mahākālaṃ ca yamanāṃ dehalyāṃ pūjayetpurā ।।

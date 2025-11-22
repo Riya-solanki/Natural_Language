@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2247 | label: meter | g:0.272 m:0.845 ---
+
+gayāsuro abhavatpūrvaṃ vīryavānparamaḥ sa ca ।
+tapastapyanmahāghoraṃ sarvabhūtopatāpanam ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1364 | label: meter | g:0.25 m:0.75 ---
+
+vyavasāyam iti jñātvā tasyātyadbhutakarmaṇaḥ ।
+tadviyogābhiśaṅkārtā vicukruśur athāmarāḥ ।।

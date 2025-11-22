@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 455 | label: meter | g:0.194 m:0.75 ---
+
+prasādyamānaḥ sa tadā praṇipātapuraḥsaram 
+pratyuvāca sahasrākṣaṃ durvāsā munisattamaḥ ।।

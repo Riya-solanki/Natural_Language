@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1356 | label: meter | g:0.25 m:0.5 ---
+
+udāsīnaḥ sādhakaśca gṛhastho dvividho bhavet ।
+kuṭumbabharaṇe yuktaḥ sādhako asau gṛhī bhavet ।।

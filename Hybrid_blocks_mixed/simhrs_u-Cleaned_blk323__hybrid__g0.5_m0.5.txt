@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 323 | label: hybrid | g:0.5 m:0.5 ---
+
+atra nāyikā-vācakayoḥ rukmiṇī-satyabhāmā-padayoḥ pūrvoktayoḥ suvarṇavattva-satya-kopatva-lakṣaṇenārthena yojanād apalāpaḥ ।

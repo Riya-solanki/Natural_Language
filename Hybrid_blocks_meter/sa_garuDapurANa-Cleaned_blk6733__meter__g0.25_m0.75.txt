@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6733 | label: meter | g:0.25 m:0.75 ---
+
+nirguṇā yogigamyādyārdhamātrā parā sthitā ।
+gāndhārīti ca vijñeyā gāndhārasvarasaṃśrayā ।
+ityetadakṣaraṃ brahma paramoṅkārasaṃjñitam ।।

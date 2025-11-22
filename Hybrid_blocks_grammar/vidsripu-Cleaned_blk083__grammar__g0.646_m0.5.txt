@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 83 | label: grammar | g:0.646 m:0.5 ---
+
+bho bho dikpatayaḥ prayāta parataḥ khaṃ muñcatāmbhomucaḥ pātālaṃ vraja medini praviśata kṣoṇītalaṃ kṣmābhṛtaḥ ।
+brahmann unnaya dūram ātmasadanaṃ devasya me nṛtyataḥ śambhoḥ saṃkaṭam etad ity avatu vaḥ protsāraṇā nandinaḥ ।।

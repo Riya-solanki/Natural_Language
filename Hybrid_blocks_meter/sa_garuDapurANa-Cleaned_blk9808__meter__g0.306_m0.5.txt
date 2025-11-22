@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9808 | label: meter | g:0.306 m:0.5 ---
+
+satyaṃ puṇyavatāṃ deva jāyate atra paratra ca ।
+satyaṃsatyaṃ punaḥ satyaṃ vedavākyaṃ na cānyathā ।।

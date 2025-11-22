@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3792 | label: meter | g:0.25 m:0.5 ---
+
+daivena manasā kśipraṃ tava viṣṇo dhṛtavrata 
+kiṃkaraḥ samanuprāptaḥ śādhi māṃ kiṃ karomi te ।।

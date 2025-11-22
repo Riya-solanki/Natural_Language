@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 346 | label: meter | g:0.25 m:0.521 ---
+
+yāvac cāyaṃ janapadam imaṃ tasya vṛttiṃ na bhūtāṃ
+pṛcchaty asmai kathayati na vā sarva evaiṣa lokaḥ ।
+tāvad yuktaṃ mama sutam imaṃ mṛtyuvaktrāntarālaṃ
+nānāduḥkhavyasanagahanaṃ vyādhisaktaṃ niṣeddhum ।।

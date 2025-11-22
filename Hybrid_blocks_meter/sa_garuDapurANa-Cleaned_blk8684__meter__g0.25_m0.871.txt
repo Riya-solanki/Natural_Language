@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8684 | label: meter | g:0.25 m:0.871 ---
+
+kṛtvā kṛṣṇabaliṃ pūrvaṃ vṛṣotsargādikāḥ kriyāḥ ।
+sarvopadravahīnastu sarvasaukhyamavāpnuyāt ।
+uttamaṃ lokamāpnoti jñātiprādhānyameva ca ।।

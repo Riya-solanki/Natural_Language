@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1088 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha taṃ prāhuḥ-hā, hā, drutam anena haimanena pavanena śīta-parītatayā jīvana-viparītatāṃ vayam āyātāḥ, tasmān marma-bhedakaṃ narma vṛthā mā kṛthāḥ, kintu vastram eva sevaya । yad vā vāñchasi, tat tu lāñchanam aṅgīkṛtyāpi kariṣyāmaḥ ।

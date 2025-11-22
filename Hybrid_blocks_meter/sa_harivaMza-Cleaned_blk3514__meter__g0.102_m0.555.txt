@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3514 | label: meter | g:0.102 m:0.555 ---
+
+sa tābhyāṃ mumude rājā badhvā pitaram āhukam 
+samāśritya jarāsaṃdham anādṛtya ca yādavān 
+śūraseneśvaro rājā yathā te bahuśo śrutaḥ ।।

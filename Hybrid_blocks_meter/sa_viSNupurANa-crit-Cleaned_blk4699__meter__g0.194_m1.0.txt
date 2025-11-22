@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4699 | label: meter | g:0.194 m:1.0 ---
+
+prāṃśum uttuṅgabāhvaṃsaṃ vikāsimukhapaṅkajam 
+meghamālāparivṛtaṃ kailāsādrim ivāparam ।।

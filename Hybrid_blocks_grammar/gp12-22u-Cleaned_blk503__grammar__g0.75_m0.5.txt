@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 503 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ sthite dina-katipaye ca prasthite kadācid ahar-mukha eva pūrva-pūrva-pūrvadeva-nirvāpaṇa-bhṛta-nibhṛta-cintā-kṛta-mati-bhraṃśasya kaṃsasya svayam abhyāsaṃ pralamba-nāmā deva-dhrug abhyājagāma । abhyāgamya ca praṇamya vyaktam eva tam anuyuktavān-deva, tava keyaṃ paridevanā balavad āvartamānā dṛśyate?

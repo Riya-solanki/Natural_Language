@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1482 | label: grammar | g:0.559 m:0.439 ---
+
+saṃgrāmāṅgaṇasaṃgatena bhavatā cāpe samāropite devākarṇaya yena yena mahasā yad yat samāsāditam ।
+kodaṇḍena śarāḥ śaraī ripuśiras tenāpi bhūmaṇḍalaṃ tena tvaṃ bhavatā ca kīrtir anaghā kīrtyā ca lokatrayam ।।
+saṃgrāmāṅgaṇasya

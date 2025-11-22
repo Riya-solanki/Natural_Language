@@ -1,0 +1,9 @@
+--- source: brsvbh2u-Cleaned.txt | block: 103 | label: meter | g:0.382 m:0.601 ---
+
+puruṣāśmavaditi cettathāpi ।
+naiva doṣātpracyutiriti śeṣaḥ ।
+mā bhūtpuruṣārthasya śaktyarthavattvasya vā pravartakatvam, puruṣa eva dṛkśaktisampannaḥ paṅguriva pravṛttiśaktisaṃpannaṃ pradhānamandhamiva pravartayiṣyatīti śaṅkā ।
+doṣādanirmokṣamāhaabhyupetahānaṃ tāvaditi ।
+na kevalamabhyupetahānam, ayuktaṃ caitadbhavaddarśanālocanenetyāha-kathaṃ codāsīna iti ।
+niṣkriyatve sādhanamnirguṇatvāditi ।
+śeṣamatirohitārtham ।।

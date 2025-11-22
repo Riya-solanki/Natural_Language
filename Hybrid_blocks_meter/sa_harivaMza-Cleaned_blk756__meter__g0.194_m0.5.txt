@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 756 | label: meter | g:0.194 m:0.5 ---
+
+śaptāḥ khagās trayas te tu yogabhraṣṭā vicetasaḥ 
+tān ayācanta caturas trayas te sahacāriṇaḥ ।।

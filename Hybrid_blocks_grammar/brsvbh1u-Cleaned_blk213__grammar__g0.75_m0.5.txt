@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 213 | label: grammar | g:0.75 m:0.5 ---
+
+-na cāntaḥkaraṇeti । nirupādhi brahmeti viṣayīkurvāṇā vṛttiḥ svasvetaropādhinivṛttiheturudayate, svasyā apyupādhitvāt । evaṃ ca anupahitasya viṣayatvaṃ, upādhernivartakāntarāpekṣā ca neti bhāvaḥ ।

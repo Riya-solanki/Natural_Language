@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 244 | label: meter | g:0.194 m:0.625 ---
+
+tasyābhidhyāyataḥ sargaṃ tiryaksroto abhyavartata 
+yasmāt tiryakpravṛttaḥ sa tiryaksrotas tataḥ smṛtaḥ ।।

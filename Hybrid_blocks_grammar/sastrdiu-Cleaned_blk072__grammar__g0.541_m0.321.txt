@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 72 | label: grammar | g:0.541 m:0.321 ---
+
+tathāhi na jñānamutpannamityetāvatārthatathātvāvadhāraṇaṃ yuktaṃ vyabhicārādaniścayācca aprāmāṇyameva tasyāṃ velāyāṃ prāptaṃ, paścātkāraṇaguṇajñānādarthakriyājñānādvā prāmāṇyāvagamādapodyate ।
+śabde cāptapraṇītatvaṃ guṇaḥ ।
+naca vede tadasyapauruṣeyatvābhyupagamāt ।
+valaspatayaḥ satramāsata śṛṇota grāvāṇaḥ' ityevamādīnāmunmattapralapitakalpatvāt, apratyayitatarapraṇītatvādaprāmāṇyameva vedānāmiti prāpte abhidhīyate- parāpekṣaṃ pramāṇatvaṃ nātmānaṃ labhate kvacit ।
+mūlocchedakaraṃ pakṣaṃ ko hi nāmādhyavasyati yadi hi sarvameva jñānaṃ sivaviṣayatathātvāvadhāraṇe svayamasamarthaṃ vijñānāntaramapekṣeta tataḥ kāraṇaguṇasaṃvādārthakriyājñānānyapi svaviṣayabhūtaguṇādyavadhāraṇe paramapekṣeran, aparamapi tatheti na kaścidartho janmasahasreṇāpyadhyavasīyeteti prāmāṇyamevotsīdet ।
+atha- arthakriyājñānaṃ svataḥpramāṇamiticet ko viśeṣaḥ, avyabhicāra iti cet, na, svapnāvasthāyāmasatyapyudakāharaṇer'thakriyāvijñānadarśanāt ।।

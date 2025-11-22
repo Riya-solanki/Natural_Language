@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2674 | label: meter | g:0.25 m:0.5 ---
+
+ahaṃ patākā saṃgrāme bhavānīśaśca devinau ।
+prāmadyūtaṃ paristīrya yo jeṣyati sa lapsyate ।।

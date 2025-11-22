@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4247 | label: meter | g:0.342 m:0.862 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+athāto raktapittasya nidānaṃ pravadāmyaham ।
+bhṛśoṣṇatiktakaṭvamlalavaṇādividāhibhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2161 | label: meter | g:0.25 m:0.5 ---
+
+jñānasvarūpo bhagavān yato asāv aśeṣamūrtir na tu vastubhūtaḥ 
+tato hi śailābdhidharādibhedāñ jānīhi vijñānavijṛmbhitāni ।।

@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 324 | label: grammar | g:0.569 m:0.5 ---
+
+yadidamindriyārthasaṃnikarṣādutpadyate jñānam avṛkṣaḥ' iti etat kila pratyakṣaṃ tatkhalvanumānameva, kasmāt ? ekadeśagrahaṇād vṛkṣasyopalabdheḥ ।
+arvāgbhāgamayaṃ gṛhītvā vṛkṣamupalabhate na caikadeśo vṛkṣaḥ, tatra yathā dhūmaṃ gṛhītvā vahnimanuminoti tādṛgeva tad bhavati।
+kiṃ punargṛhyamāṇādekadeśād arthāntaramanumeyaṃ manyase ?, avayavasamūhapakṣe avayavāntarāṇi dravyotpattipakṣe tāni cāvayavī ceti।
+avayavasamūhapakṣe tāvadekadeśagrahaṇād vṛkṣabuddherabhāvaḥ na hy agṛhyamāṇamekadeśāntaraṃ vṛkṣo gṛhyamāṇaikadeśavaditi।
+atha ekadeśagrahaṇādekadeśāntarānumāne samudāyapratisaṃdhānāt tatra vṛkṣabuddhiḥ ?, na tarhi vṛkṣabuddhiranumānamevaṃ sati bhavitumarhatīti।
+dravyāntarotpattipakṣe nāvayavy anumeyaḥ asyaikadeśasaṃbaddhasyāgrahaṇād grahaṇe cāviśeṣādanamumeyatvābhāvaḥ, tasmād vṛkṣabuddhiranumānaṃ na bhavati ।।

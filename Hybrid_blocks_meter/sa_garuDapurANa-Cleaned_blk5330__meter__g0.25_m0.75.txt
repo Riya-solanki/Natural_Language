@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5330 | label: meter | g:0.25 m:0.75 ---
+
+śiro abhyaṅgācchirājanmayūkālikhyāḥ kṣayaṃ nayet ।
+navadagdhaṃ śaṅkhacūrṇaṃ ghṛṣṭasīsakalepitam ।।

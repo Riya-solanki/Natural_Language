@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 853 | label: hybrid | g:0.499 m:0.375 ---
+
+gāndhārī
+{Pkt}jāda jai saccaṃ jīvadi me vaccho tā kadhehi kassiṃ dese vaṭṭadi ।

@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 540 | label: meter | g:0.306 m:0.5 ---
+
+nanu nabhasā dvitīyena sadvitīyaṃ brahma prāpnoti ।
+kathaṃ ca brahmaṇi vidite sarvaṃ viditaṃ syāditi ।

@@ -1,0 +1,7 @@
+--- source: brssgo2u-Cleaned.txt | block: 184 | label: meter | g:0.284 m:0.576 ---
+
+nanu naiva tairniravayavaṃ pradhānamabhyupagamyate, sattvarajastamāṃsi trayo guṇā nityāsteṣāṃ sāmyāvasthā pradhāne tairevāvayavaistatsāvayavamiti ।
+naivañjātīyakena sāvayavatvena prakṛto doṣaḥ parihartuṃ pāryate ।
+yataḥ sattvarajastamasāmapyekaikasya samānaṃ niravayavatvam ।
+ekaikameva cetaradvayānugṛhītaṃ sajātīyasya prapañcasyopādānamiti samānatvātsvapakṣadoṣaprasaṅgasya ।
+tarkapratiṣṭhānātsāvayavatvameveti cet ।

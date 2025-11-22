@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1211 | label: grammar | g:0.75 m:0.5 ---
+
+śunaḥśepaḥ-prātaḥsavana eva yajamānaṃ draṣṭum icchāmiity upakramyaà rākṣasa-rakṣauṣadhaṃ rāmam ānetuṃ siddhāśramād ayodhyāṃ gatavatā tāta-viśvāmitreṇa yajñopanimantritasya parama-suhṛdaḥ śrotriya-kṣatriyasya sīradhvajasya sva-pratinidhiḥ preṣito' smi ity antena ( padyāt pūrvam] rāvaṇādi-duṣṭa-rākṣasa-śikṣā-lakṣaṇa-rāmotsāhopabṛṃhaka-viśvāmitrārambha-rūpasya bījasya sūcanād upakṣepaḥ ।

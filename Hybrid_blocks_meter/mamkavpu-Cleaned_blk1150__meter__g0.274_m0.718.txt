@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1150 | label: meter | g:0.274 m:0.718 ---
+
+{mahadesurasaṃdhamme tamavasamāsaṃgamāgamāharaṇe ।
+harabahusaraṇaṃ taṃ cittamohamavasaraume sahasā ।।}
+[mama dehi rasaṃ dharme tamoaśām āśāṃ gamāgamāt hara naḥ ।
+haravadhu śaraṇaṃ tvaṃ cittamoho apasaratu me sahasā ।।]

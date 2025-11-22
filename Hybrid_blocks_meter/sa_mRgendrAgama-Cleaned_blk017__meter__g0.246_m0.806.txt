@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 17 | label: meter | g:0.246 m:0.806 ---
+
+kroḍīkṛto ahipāśena viṣajvālāvalīmucā 
+huṅkṛtya mocitaḥ patyā dṛṣṭaḥ śveto dhanairjanaiḥ ।।

@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1063 | label: meter | g:0.0 m:1.0 ---
+
+avasthitasyopādānasya dharmamātraṃ nivartate
+dharmamātramupajāyate sa khalūtpattivināśayorviṣayaḥ,
+yaccopajāyate tat prāgapyupajananādasti
+yacca nivartate tad nivṛttamapyastīti evaṃ
+ca sarvasya nityatvamiti

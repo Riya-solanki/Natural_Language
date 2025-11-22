@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 533 | label: grammar | g:0.75 m:0.5 ---
+
+atha nandaḥ kadā cin niṣpratīkāraparuṣavedanākrāntadeho niyatam ahaṃ mariṣyāmīty utpannabhayaviṣādaśokadainyamānasaḥ putraṃ candanam āhūyābravīt । vatsa candana mayā hi mahatā pariśrameṇa dravyam upārjitaṃ paripālitaṃ ca । tat putra mama priyam anusmaratā na tvayā kasmai kiṃ cid api pradeyam iti ।

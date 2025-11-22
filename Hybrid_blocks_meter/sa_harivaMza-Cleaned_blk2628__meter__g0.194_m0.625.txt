@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2628 | label: meter | g:0.194 m:0.625 ---
+
+yadā caiṣāṃ vikurvanti te vanālayajīvinaḥ 
+ghnanti tān eva durvṛttān pauruṣādena karmaṇā ।।

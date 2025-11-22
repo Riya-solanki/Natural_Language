@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 23 | label: meter | g:0.194 m:0.625 ---
+
+pradveṣo bahumāno vā saṅkalpād upajāyate
+bhartṛdārābhilāṣitvād asyāṃ me mahatī svatā ।।

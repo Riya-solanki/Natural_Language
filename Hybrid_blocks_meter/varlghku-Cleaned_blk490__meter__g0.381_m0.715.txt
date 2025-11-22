@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 490 | label: meter | g:0.381 m:0.715 ---
+
+acastāsvatthalyaniṭo nityam ।।
+upadeśe ajanto yo dhātustāsau nityāniṭ tatasthala iṇna ।।

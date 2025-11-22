@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1261 | label: grammar | g:0.562 m:0.5 ---
+
+rājye aparo yadi mama praṇayaṃ karoti pūjyo mayā nanu viśeṣata eva rājā ।
+rājyāśrayaṃ khalu parārtham ahaṃ bibharmi saṃkleśabhāram imam āyataduḥkhahetum ।।

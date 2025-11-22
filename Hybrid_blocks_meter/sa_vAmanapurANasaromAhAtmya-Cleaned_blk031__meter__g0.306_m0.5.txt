@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 31 | label: meter | g:0.306 m:0.5 ---
+
+yattvayā yudhi vikramya devarājyaṃ parājitam ।
+dṛṣṭvā te paramaṃ sattvaṃ tato ahaṃ svayamāgatā ।।

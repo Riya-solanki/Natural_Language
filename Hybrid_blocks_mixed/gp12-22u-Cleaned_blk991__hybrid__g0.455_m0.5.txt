@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 991 | label: hybrid | g:0.455 m:0.5 ---
+
+īdṛśas te patiḥ śyāme yat-kāntes tvaṃ parā gatiḥ ।
+atrābhilāṣaḥ śobhā vā kāntir ity adhigamyatām ।। [anuṣṭubh]

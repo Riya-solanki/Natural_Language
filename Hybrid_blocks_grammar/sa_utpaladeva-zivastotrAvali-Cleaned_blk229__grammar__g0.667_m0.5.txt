@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 229 | label: grammar | g:0.667 m:0.5 ---
+
+śambho śarva śaśaṅkaśekhara śiva tryakṣākṣamālādhara śrīmann ugrakapālalāñchana lasadbhīmatriśūlāyudha kāruṇyāmbunidhe trilokaracanāśīlograśaktyātmaka śrīkaṇṭhāśu vināśayāśubhabharān ādhat svasiddhiṃ parām ।।

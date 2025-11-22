@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 631 | label: meter | g:0.25 m:0.5 ---
+
+taṃ prahasyābravīd devo muniṃ rāgema mohitam ।
+ahaṃ na vismayaṃ vipra gacchāmīha prapaśyatām ।।

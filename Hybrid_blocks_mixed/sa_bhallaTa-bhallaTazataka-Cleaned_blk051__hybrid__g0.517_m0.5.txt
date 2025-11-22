@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 51 | label: hybrid | g:0.517 m:0.5 ---
+
+cintāmaṇe bhuvi na kena cid īśvareṇa mūrdhnā dhṛto aham iti mā sma sakhe viṣīdaḥ 
+nāsty eva hi tvadadhiropaṇapuṇyabījasaubhāgyayogyam iha kasya cid uttamāṅgam ।।

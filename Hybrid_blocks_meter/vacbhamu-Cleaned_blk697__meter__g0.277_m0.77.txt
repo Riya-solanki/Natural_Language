@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 697 | label: meter | g:0.277 m:0.77 ---
+
+śaktiviparyayāt ।
+pūrvaṃ kāraṇakavibhaktiviparyaya uktaḥ ।
+saṃprati kārakaśaktiviparyaya ityapunaruktam ।
+aviparyayāya tu karaṇāntarakalpanāyāṃ nāmni visaṃvāda iti ।।

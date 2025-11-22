@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1555 | label: grammar | g:0.648 m:0.484 ---
+
+priyāṃ hitvā bālām abhinavavisālavyasaninīm adhīte bhikṣābhug bhuvam adhiśayānaś cirataram ।
+api jñātvā śāstraṃ kaṭakam aṭato jīryati vapus tato re pāṇḍityaṃ yad iha na sukhaṃ no api ca tapaḥ ।।

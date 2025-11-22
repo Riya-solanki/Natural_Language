@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6861 | label: meter | g:0.25 m:0.5 ---
+
+yatkiñcitkurute karma puruṣaḥ sādhvasādhu vā ।
+sarvaṃ nārāyaṇe nyasya kurvannapi na limpati ।।

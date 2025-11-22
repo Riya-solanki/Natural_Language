@@ -1,0 +1,12 @@
+--- source: nysvbh_u-Cleaned.txt | block: 185 | label: hybrid | g:0.284 m:0.47 ---
+
+dṛṣṭānta udāharaṇamiti prakṛtam ।
+sādhyavaidharmyādataddharmabhāvī ca dṛṣṭānta udāharaṇamiti ।
+anityaḥ śabda utpattidharmakatvāt anutpattidharmakaṃ nityamātmādi, so ayamātmādirdṛṣṭāntaḥ sādhyavaidharmyādanutpattidharmakatvādataddharmabhāvī-yo asau sādhyasya dharmo anityatvaṃ sa tasmin na bhavatīti।
+atrātmādau dṛṣṭānta utpattidharmakatvasyābhāvādanityatvaṃ na bhavatīti upalabhamānaḥ śabde vapiryayamanuminoti, utpattidharmakatvasya bhāvādanityaḥ śabda iti।
+sādharmyoktasya hetoḥ sādhyasādharmyāt taddharmabhāvī dṛṣṭānta udāharaṇam।
+vaidharmyoktasya hetoḥ sādhyavaidharmyādataddharmabhāvī dṛṣṭānta udāharaṇam।
+pūrvasmin dṛṣṭānte yau tau dharmauṃ sādhyasādhanabhūtau paśyati sādhye api tayoḥ sādhyasādhanabhāvamanuminoti।
+uttarasmin dṛṣṭānte yayordharmayorekasyābhāvāditarasyābhāvaṃ paśyati tayorekatarasya bhāvāditarasya bhāvaṃ sādhye anuminotīti।
+tadetaddhetvābhāseṣu na sambhavatītyahetavo hetvābhāsāḥ।
+tadidaṃ hetūdāharaṇayoḥ sāmarthyaṃ paramasūkṣmaṃ duḥkhabodhaṃ paṇḍitarūpavedanīyamiti ।।

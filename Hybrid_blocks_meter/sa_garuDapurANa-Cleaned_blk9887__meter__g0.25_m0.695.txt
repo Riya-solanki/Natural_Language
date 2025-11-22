@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9887 | label: meter | g:0.25 m:0.695 ---
+
+mayā proktaṃ vai muktyai nidānaṃ caiva sarvaśaḥ ।
+lābhasteṣāṃ jayasteṣāṃ kutasteṣāṃ parājayaḥ ।
+yeṣāmindīvaraśyāmo hṛdayastho janārdanaḥ ।।

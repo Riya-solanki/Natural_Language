@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7879 | label: meter | g:0.25 m:0.625 ---
+
+niḥ spṛhaṃ brahmaviṣaye viṣayeṣvatilālasam ।
+manāgapi na sahate virahaṃ timiraṃ bruvat ।।

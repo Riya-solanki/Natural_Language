@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1197 | label: grammar | g:0.583 m:0.5 ---
+
+upamānopameyayoreva na tu kāryakāraṇādikayoḥ sādharmyaṃ bhavatīti tayoreva samānena dharmeṇa saṃbandha upamā ।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 224 | label: meter | g:0.075 m:0.828 ---
+
+parasparasya sphuṭa-hāsa-vārtāṃ
+sañcārayantaḥ parito harau ca ।
+ṣaṇṇāṃ rasānāṃ pariveṣakā ye
+te saptamasyāpi babhūvur atra ।। [upajāti ]

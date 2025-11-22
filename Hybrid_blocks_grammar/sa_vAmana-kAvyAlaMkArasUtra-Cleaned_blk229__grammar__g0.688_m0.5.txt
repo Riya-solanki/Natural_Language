@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 229 | label: grammar | g:0.688 m:0.5 ---
+
+prathamamalasaiḥ paryastāgraṃ sthitaṃ pṛthukesarai- rviralaviralairantaḥpatrairmanāṅmilitaṃ tataḥ । tadanu valanāmātraṃ kiñcid vyadhāyi vahirdalai- rmukulanavidhau vṛddhābjānāṃ babhūva kadarthanā ।।

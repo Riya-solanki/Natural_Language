@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 861 | label: hybrid | g:0.542 m:0.5 ---
+
+atra sugrīva-sampāte palāyiteṣu bhṛtyeṣu rāvaṇasya krodho mūrdha-dhūnanādibhir anubhāvair vyajyate ।

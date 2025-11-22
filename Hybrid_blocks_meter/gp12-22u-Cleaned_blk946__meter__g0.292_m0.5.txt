@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 946 | label: meter | g:0.292 m:0.5 ---
+
+[] tasmiṃś ca tasya vivāha-samatāvahe mahā-mahe manasīdam asīmam ābhir vibhāvitam-

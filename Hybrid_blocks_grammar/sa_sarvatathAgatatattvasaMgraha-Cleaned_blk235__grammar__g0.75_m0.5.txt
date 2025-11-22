@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 235 | label: grammar | g:0.75 m:0.5 ---
+
+athedamuktvā te daśadiksarvalokadhātusannipatitāḥ sarvatathāgatāḥ sarvatathāgatādhiṣṭhānena bhagavato vairocanasya hṛdaye sabodhisattvaparṣanmaṇḍalāḥ praviṣṭāḥ । tebhyaśca sarvatathāgatahṛdayebhyaḥ svāni svāni bodhisattvaparṣanmaṇḍalāni viniḥsṛtya bhagavato vajramaṇiratnaśikharakūṭāgārasya sarvapārśveṣu maṇḍalībhūtvā samāpadyāvasthitā idamudānamudānayāmāsuḥ ।

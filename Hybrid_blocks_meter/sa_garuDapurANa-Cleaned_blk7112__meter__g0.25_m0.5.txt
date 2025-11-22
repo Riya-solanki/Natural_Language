@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7112 | label: meter | g:0.25 m:0.5 ---
+
+hiṃsāvirāmako dharmo hyāhiṃsā paramaṃ sukham ।
+vidhinā yā bhaveddhiṃsā sā tvahiṃsā prakīrtitā ।।

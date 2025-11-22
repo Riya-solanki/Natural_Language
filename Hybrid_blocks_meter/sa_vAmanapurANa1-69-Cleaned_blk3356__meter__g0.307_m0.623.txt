@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3356 | label: meter | g:0.307 m:0.623 ---
+
+kāliñjarasyottarataḥ supuṇyastathā himādrerapi dakṣiṇasthaḥ ।
+suśasthalāt pūrvata eva viśruto vasoḥ purāt piścimato avatasthe ।।

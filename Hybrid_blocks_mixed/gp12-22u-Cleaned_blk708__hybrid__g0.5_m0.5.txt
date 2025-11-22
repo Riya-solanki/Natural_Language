@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 708 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad etad vipralambha-lambhanam apy akliṣṭa-varṇana-viśiṣṭam ākarṇya tan-mukhaṃ ca nirvarṇya, tad eva savarṇair asavarṇair apy adhi parvam āgataiḥ sarvakair nirṇinye । tathā hi-

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11906 | label: hybrid | g:0.398 m:0.5 ---
+
+kārpāsaṃ vai tena dattaṃ gṛhītvā saṃtiṣṭhamāne yamadūtaiśca samyak ।
+saṃhanyamānastīkṣaṇadhāraiḥ kuṭhāraiḥ kulāladevaṃ ca sudaṃṣṭranetram ।
+vihāya vai kutra palāyitobhūnna jñāyate anveṣaṇāccāpi kena ।।

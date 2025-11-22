@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2607 | label: meter | g:0.194 m:0.5 ---
+
+tayoḥ pravṛttayor evaṃ kṛṣṇasya ca balasya ca 
+vane vicarator māsau vyatiyātau sma vārṣikau ।।

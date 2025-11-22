@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 473 | label: meter | g:0.139 m:1.0 ---
+
+śramo raty-ādi-pariśrāntiḥ, tasmād yathā-
+mañceṣu pañceṣu-samākulānāṃ
+vātāya vātāyana-saṃśritānām ।
+svinnāni khinnāni mukhāny aśaṃsan
+sambhogam abhoruha-locanānām ।।

@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 283 | label: hybrid | g:0.498 m:0.357 ---
+
+nanvasamavāyikāraṇabhūtasya saṃyogasya svāśraye svāśrayasamavete vā kāryaṃ nānyatra, tantusaṃyogānāmiva svāśrayeṣu tantuṣu paṭaḥ, tantuturīsaṃyogasya vā paṭaturīyasaṃyogaḥ ।
+prayatnavadātmasaṃyogastvanevaṃvidhe vyomni kathaṃ saṃyogamārabhate ।
+ataḥ kāraṇāntaraṃ kalpanīyamiticet ।
+tantusaṃyogānnodanākhyādyugapadeva paṭasya bahutantuvyāpitatvāt, saṃyogānāṃ ca dvayordvayoreva vṛtteḥ ।
+kiñca śarajyāsaṃyogānnodanākhyādyugapadeva śare śarāvayaveṣu ca sarveṣvantarbahirvirtiṣu bahūnikarmāṇyutpadyate, tatra yeṣāmavayavānāṃ jyosaṃyogo nāsti teṣvāśrayeṣu svāśrayāsamaveteṣu ca jyāsaṃyogaḥ karmārabhata iti vyabhicāraḥ ।
+nahi te saṃyogāśrayībhūte śare samavetāḥ śarasyaiva teṣu samavāyāt ।।

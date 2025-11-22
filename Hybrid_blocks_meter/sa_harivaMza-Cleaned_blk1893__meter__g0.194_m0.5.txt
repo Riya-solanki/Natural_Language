@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1893 | label: meter | g:0.194 m:0.5 ---
+
+satpathe hi sthitāḥ sarve rājāno rāṣṭravardhanāḥ 
+narāṇāṃ ca trayo varṇā brāhmaṇān anuyāyinaḥ ।।

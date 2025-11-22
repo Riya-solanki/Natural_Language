@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 8 | label: meter | g:0.306 m:0.625 ---
+
+kāruṇyāmṛtakandalīsumanasaḥ prajñānvadhūmauktika- grīvālaṃkaraṇaśriyaḥ śamasaritpūrotsalacchīkarāḥ ।
+te maulau bhavatāṃ milantu jagatīrājyābhiṣekocita- sragbhedā abhayapradānacaraṇapreṅkhannakhāgrāṃśavaḥ ।।

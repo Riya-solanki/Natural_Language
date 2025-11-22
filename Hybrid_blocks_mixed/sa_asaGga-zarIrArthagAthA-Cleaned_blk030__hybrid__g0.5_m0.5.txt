@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 30 | label: hybrid | g:0.5 m:0.5 ---
+
+rāgadveṣau bhagavan kinnidānāv aratiratī romaharṣaḥ kuto ayam ।
+kutaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante ।।

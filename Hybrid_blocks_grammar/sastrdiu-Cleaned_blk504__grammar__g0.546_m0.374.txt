@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 504 | label: grammar | g:0.546 m:0.374 ---
+
+kiṃpunaḥ śarīravyatiriktātmasadbhāve pramāṇaṃ prāṇanādiliṅgaṃ sukhādayaśca prāṇanādiśabdena koṣṭhyasya vāyorūrdhvadhogamanavṛttiviśeṣasya prāṇanādiśabdavācyasya hetubhūtaḥ prayatna ucyate saca sukhādayaśca na śarīradharmāḥ saṃbhavanti, ayāvaccharīrabhāvitvāt ।
+ye hi kāryadravyavartino viśeṣaguṇā rūpādayaste virodhiguṇāntarādvā dravyavināśādvā vinaśyanti, prāṇanādayastu tadbhāvepi naśyanti mṛtāvasthāyāmiti na śarīraguṇāḥ ।
+tathā jñānamapyayāvaccharīrabhāvitvādeva na śarīradharmaḥ ।
+tathā ye pratyakṣiviṣayāḥ na śarīraguṇaste svayamiva parairapi yathā gṛhyante yatha rūpādayaḥ, sukhādayastu pratyakṣā api santo na parapratyakṣagrāhyāḥ tasmānna śarīraguṇāḥ, tadidamapi dvayaṃ sukhādīnāṃ śarīraguṇatvaṃ nivārayadanyaguṇatāṃ sūcayati ।
+yo asāvanyaḥ sa ātmā ।
+kiñca sarvaṃ eva viśeṣaguṇāḥ karaṇe api vartamānā eva kāryadravyaguṇatāṃ bhajante, na ca śarīrakāraṇabhūteṣu pārthivaparamāṇuṣu caitanyamastīti kathaṃ śarīraguṇatā caitanyasya syāt ।
+tasmādanyaścetanaḥ ।।

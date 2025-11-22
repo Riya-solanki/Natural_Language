@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2733 | label: meter | g:0.306 m:0.625 ---
+
+dānātsamo na dharmo asti pratipattyā bravīti hi ।
+mahāmaṇikule dharmaḥ na cetsiddhiryathoparī- ।।

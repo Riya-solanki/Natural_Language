@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 433 | label: meter | g:0.217 m:0.845 ---
+
+vyaktimupajanayati, sāpi tathaiva svakāraṇabhūtabījasamānajātīyaṃ bījāntaram ।
+tathaikajātīyacchukrādgojātīyavyaktiniṣpattiḥ, tasyāṃ ca

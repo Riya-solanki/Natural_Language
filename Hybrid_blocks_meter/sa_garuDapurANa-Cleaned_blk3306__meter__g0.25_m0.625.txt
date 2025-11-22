@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3306 | label: meter | g:0.25 m:0.625 ---
+
+anīkṣamāṇo api naro videśastho api mānavaḥ ।
+svakarmapātavātena nīyate yatra tatphalam ।।

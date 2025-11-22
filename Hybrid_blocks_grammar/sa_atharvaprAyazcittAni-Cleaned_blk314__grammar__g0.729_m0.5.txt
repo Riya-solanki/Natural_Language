@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 314 | label: grammar | g:0.729 m:0.5 ---
+
+taṃ yadi dakṣiṇatas tiṣṭhantam upavadet taṃ brūyād rudrāṇāṃ tvā devānāṃ vyātte api dadhāmi । traiṣṭubhīṃ parṣām adhaḥśirāvapadyasva iti ।

@@ -1,0 +1,3 @@
+--- source: brssgo2u-Cleaned.txt | block: 111 | label: hybrid | g:0.542 m:0.5 ---
+
+FN kāraṇasya bhāve sattve upalabdhau ca kāryasya sattvādupalabdheścānanyatvamiti sūtrārthaḥ ।

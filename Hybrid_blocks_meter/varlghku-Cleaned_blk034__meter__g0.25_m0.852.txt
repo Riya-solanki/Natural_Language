@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 34 | label: meter | g:0.25 m:0.852 ---
+
+lopaḥ śākalyasya ।।
+avarṇapūrvayoḥ padāntayoryavayorlopo vāśi pare ।।

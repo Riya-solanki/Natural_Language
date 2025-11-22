@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 692 | label: hybrid | g:0.516 m:0.519 ---
+
+tatra iṣṭa-vastu-darśanāt-
+āyāte dayite manoratha-śatair nītvā kathañcid dinaṃ gatvā vāsa-gṛhaṃ jaḍe parijane dīrghāṃ kathāṃ kurvati ।
+daṣṭāsmīty abhidhāya satvara-padaṃ vyādhūya cīnāṃśukaṃ tanvaṅgyā rati-kātareṇa manasā nītaḥ pradīpaḥ śamam ।।

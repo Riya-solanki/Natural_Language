@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 833 | label: hybrid | g:0.537 m:0.457 ---
+
+yadi śaśadharas tvadvaktreṇa prasahya tiraskṛtas tad ayam adayo mahyaṃ mugdhe kim evam asūyati ।
+yad amṛtarasāsārasrudbhir dhinoty akhilaṃ jagaj jvalayati tu mām ebhir vahnicchaṭākaṭubhiḥ karaiḥ ।।
+parameśvarasya

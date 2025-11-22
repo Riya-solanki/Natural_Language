@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5098 | label: meter | g:0.25 m:0.5 ---
+
+itthaṃ vibhūṣito reme tatra rāmas tadā vraje 
+māsadvayena yātaś ca punaḥ sa dvārakāṃ purīm ।।

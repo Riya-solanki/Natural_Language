@@ -1,0 +1,7 @@
+--- source: brssgo3u-Cleaned.txt | block: 165 | label: meter | g:0.266 m:0.562 ---
+
+uktaiśvaryatirobhāve dehābhimāno heturiti kathanārthaṃ sūtraṃ, tannirasyāṃ śaṅkāmāha-kasmāditi ।
+satyāvaraṇaṃ nāstītyaṅgīkṛtya kalpitāvaraṇaṃ sādhayati-ucyata ityādinā ।
+jīvasyeśvaratvamaṅgīkṛtyāvaraṇakalpanāto varamanyatvakalpanetyāśaṅkāmudbhāvya śrutyā nirasyati-nanvityādinā ।
+svapne apyālokādeḥ satyatve jāgratīvātmanaḥsvaprakāśatvamasphuṭaṃ syāt, prātibhāsikatve tvālokendriyādyasattve apyarthāparokṣyamātmajyotiṣa eveti sphuṭaṃ sidhyati ।
+tasmāddeśādisāmyavacanaṃ svapnasya jāgrattulyabhānābhiprāyamityarthaḥ ।।

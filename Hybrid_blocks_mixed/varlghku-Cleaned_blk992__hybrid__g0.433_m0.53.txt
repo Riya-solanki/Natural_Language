@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 992 | label: hybrid | g:0.433 m:0.53 ---
+
+avyayībhāve śaratprabhṛtibhyaḥ ।।
+śaradādibhyaṣṭac syātsamāsānto avyayībhāve । śaradaḥ samīpamupaśaradam । prativipāśam । upajarasamityādi ।।

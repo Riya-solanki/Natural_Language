@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3052 | label: meter | g:0.194 m:0.5 ---
+
+gāyanti caitat pitaraḥ sadaiva varṣāmaghātṛptim avāpya bhūyaḥ 
+māghāsitānte śubhatīrthatoyair yāsyāma tṛptiṃ tanayādidattaiḥ ।।

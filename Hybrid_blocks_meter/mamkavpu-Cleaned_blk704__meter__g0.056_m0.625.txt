@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 704 | label: meter | g:0.056 m:0.625 ---
+
+{anyāstā guṇaratnarohaṇabhuvo dhanyā mṛdanyaiva sā
+saṃbhārāḥ khalu tenya eva vidhinā yaireṣa sṛṣṭo yuvā ।
+śrīmatkāntijuṣāṃ dviṣāṃ karatalāt strīṇāṃ nitambasthalāt
+dṛṣṭe yatra patanti mūḍhamanasāmastrāṇi vastrāṇi ca ।।}

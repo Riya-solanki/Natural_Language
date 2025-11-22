@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 492 | label: hybrid | g:0.417 m:0.5 ---
+
+[] tad evam avadhārayadbhir eva hasadbhis taiḥ sabhāsadbhir upasarpadbhiḥ saha sahajātau kṛta-śātau tatra-bhavantau tadārabdhavantau । yatra-

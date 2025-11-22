@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 635 | label: meter | g:0.212 m:0.601 ---
+
+agner janma tathā śrutvā śāṇḍilyasya mahātmanaḥ 
+dilīpaṃ yajamānaṃ ye paśyanti susamāhitāḥ 
+satyavantaṃ mahātmānaṃ te api svargajito narāḥ ।। 
+yajamāno dilīpas tu tadā dṛṣṭo manīṣibhiḥ । yasyāśvamedhāvabhṛthe saha tena divaṃ gatāḥ । 
+susvadhā nāma pitaraḥ kardamasya prajāpateḥ 
+samutpannasya pulahān mahātmāno dvijarṣabhāḥ ।।

@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 5 | label: meter | g:0.25 m:0.5 ---
+
+vṛttikāreṇa yo apy uktaḥ ṣaṭkaḥ pratyakṣapūrvakaḥ ।
+aparīkṣyatayā so api naiva lakṣaṇagocaraḥ ।।

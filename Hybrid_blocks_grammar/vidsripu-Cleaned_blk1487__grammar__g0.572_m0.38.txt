@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1487 | label: grammar | g:0.572 m:0.38 ---
+
+vatse mādhavi tāta campaka śiśo mākanda kaunti priye hā mātar madayanti hā kurabaka bhrātaḥ svasar mālati ।
+ity evaṃ ripumandireṣu bhavataḥ śṛṇvanti naktaṃcarā golāṅgūlavimardasambhramavaśād udyānadevīgiraḥ ।।
+śubhāṅgasya

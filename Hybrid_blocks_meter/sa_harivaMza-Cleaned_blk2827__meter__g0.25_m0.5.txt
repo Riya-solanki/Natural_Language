@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2827 | label: meter | g:0.25 m:0.5 ---
+
+so arjuno nāma me putraḥ pitus te bhaginīsutaḥ 
+iha sauhṛdatāṃ yātu bhūtvā sahacaraḥ purā ।।

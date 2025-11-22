@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 181 | label: meter | g:0.25 m:0.871 ---
+
+udāharaṇavaidharmyācca sādhyasādhanaṃ hetuḥ।
+katham? anityaḥ śabdaḥ utpattidharmakatvāt।
+anutpattidharmakaṃ nityaṃ dṛṣṭam ātmādaya iti ।।

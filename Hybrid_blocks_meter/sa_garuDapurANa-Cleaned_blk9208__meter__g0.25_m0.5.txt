@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9208 | label: meter | g:0.25 m:0.5 ---
+
+rāgadveṣau tathā lajjā bhayaṃ mohastathaiva ca ।
+ityetat kathitaṃ tārkṣya vāyujaṃ guṇapañcakam ।।

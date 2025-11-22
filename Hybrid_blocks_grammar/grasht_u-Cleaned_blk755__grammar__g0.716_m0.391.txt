@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 755 | label: grammar | g:0.716 m:0.391 ---
+
+setyādi ।।
+punaḥ sā vitastimātranalikā prakāśamūṣā ardhāṅgulasuniviṣṭā mūṣāntaḥ praviṣṭā nyubjā adhomukhī kāryā tasyāḥ prakāśamūṣāyāḥ nalikā praṇālikā vidhinā śāstravārtikasaṃpradāyena kāryā yathordhve sūto bhavedadho bījamityarthaḥ mūṣām ityādi ।।
+mūṣāṃ nirudhya randhraṃ dūrīkṛtya vidhinā koṣṭhe koṣṭhīyantre sā mūṣā dhmātā kāryā drutaṃ dravarūpaṃ kṛtaṃ bījaṃ jñātvā parivartya ca mūṣāyāṃ bījasya parivartanaṃ kṛtvā tato bījaṃ sūtarājaṃ badhnātīti ।।

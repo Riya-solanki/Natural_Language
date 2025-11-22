@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 434 | label: meter | g:0.255 m:0.84 ---
+
+māghārayati'ityādiṣu dravyādīnāṃ kāryaviṣayatā ।
+tatrāpi hi homaghārabhāvārthaviṣayameva kāryam ।
+na caitāvatā

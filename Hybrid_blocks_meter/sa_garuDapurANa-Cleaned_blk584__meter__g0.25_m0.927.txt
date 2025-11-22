@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 584 | label: meter | g:0.25 m:0.927 ---
+
+īśaviṣṇavarkadevyādikavacaṃ sarvasādhakam ।
+amṛteśaṃ mahāmantrantryakṣaraṃ pūjanaṃ samam ।
+japanānmṛtyuhīnāḥ syuḥ sarvapāpavivarjitāḥ ।।

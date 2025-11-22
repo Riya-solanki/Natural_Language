@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 350 | label: meter | g:0.246 m:0.806 ---
+
+vinindakānāṃ vedasya yajñavyāsedhakāriṇām 
+sthānam etat samākhyātaṃ svadharmatyāginaś ca ye ।।

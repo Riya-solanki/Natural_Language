@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1353 | label: hybrid | g:0.5 m:0.5 ---
+
+tasyaiva madhye bahupuṇya uktaḥ pṛthūdakaḥ pāpaharaḥ śivaśca ।
+puṇyā nadī prāṅmukhatāṃ prayātā yatraughayuktasya śubhā jatāḍhyā ।।

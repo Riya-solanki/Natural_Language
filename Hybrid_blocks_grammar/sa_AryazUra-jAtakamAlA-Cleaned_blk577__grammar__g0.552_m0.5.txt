@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 577 | label: grammar | g:0.552 m:0.5 ---
+
+āloko bhavati yataḥ samaśca mārgo loko ayaṃ vrajati tato na durgameṇa ।
+prāyo asmiñjagati tu matsarāndhakāreṇānye na praṇayapadāni me vahanti ।।

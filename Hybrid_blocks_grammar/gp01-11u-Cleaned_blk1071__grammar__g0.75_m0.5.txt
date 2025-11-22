@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1071 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad etad baka-nirgranthanam ugram ugrasena-duṣputraḥ śrotreṇāpīya vyagra-cetā babhūva, bhāvayāmāsa ca-hanta, sarva eva māyātiriktatā-prayoktāras tatra riktī-kṛtāḥ । sarvaṃ lumpantas te culumpāmāsire ca । tarhi vyomābhidhāna-dānava-mātram atra pātraṃ paśyāmaḥ । [] sarva-māyā-maya-maya-tanayaḥ prakhyāta-bala-valayaḥ sa hi mahīyān iti padmāvatī-jaraṭha-jaṭhara-janmā saṃmānanayā tam ānāyya tat-kāryāya paryāpayāmāsa ।

@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 158 | label: grammar | g:0.625 m:0.5 ---
+
+saṃsārapravṛttau ca tasya kalāto viṣayavibhedo munibhir uktaḥ tathā hi paradravyāṇy abhidhyāyaṃs tathāniṣṭāni cintayan ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 483 | label: meter | g:0.25 m:0.5 ---
+
+vajralāsyā ratin dadyād vajramālā surūpatām ।
+vajragītā sugītā [tvaṃ vajranṛtyā ca vaśayet] ।।

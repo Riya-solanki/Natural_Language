@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 215 | label: hybrid | g:0.5 m:0.5 ---
+
+[] kṛṣṇaś ca sa-tṛṣṇam uvāca-jānīma eva kevalaṃ na, kintu tadānīṃ svayam api nitarām ācarāmas, tathāpi tad varṇanam ākarṇayitum icchāmaḥ । tathā hi-

@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 512 | label: meter | g:0.418 m:0.55 ---
+
+atra tadanubhavaikagocaratvādanākhyeyatvena kimapi sātiśayaṃ pratipadaṃ karma saṃpādayantyaḥ kriyāḥ svātmani kamapi vakrabhāvamudbhāvayanti ।
+upacāramanojñatāpyatra vidyate ।
+yasmādarpaṇakathanollekhanānyupacāranibandhanānyeva cetanapadārthadharmatvāt ।
+yathā ca

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 956 | label: grammar | g:0.604 m:0.5 ---
+
+kapāle mārjāraḥ paya iti karāṃl leḍhi śaśinas tarucchidraprotān bisam iva karī saṃkalayati ।
+ratānte talpasthān harati vanitāpy aṃśukam iti prabhāmattaś candro jagad idam aho viklavayati ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 509 | label: meter | g:0.337 m:0.5 ---
+
+alam aticapalatvāt svapnamāyopamatvāt pariṇativirasatvāt saṃgamena priyāyāḥ ।
+iti yadi śatakṛtvas tattvam ālokayāmas tad api na hariṇākṣīṃ vismaraty antarātmā ।।

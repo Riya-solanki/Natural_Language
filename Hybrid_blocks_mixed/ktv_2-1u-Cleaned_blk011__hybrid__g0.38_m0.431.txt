@@ -1,0 +1,8 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 11 | label: hybrid | g:0.38 m:0.431 ---
+
+atha vopanyastasya codanātmakasya pramāṇasya lakṣaṇaṃ prāmāṇyakāraṇam uktam ity upasaṃhāraḥ ।
+tathā yady api vidher idaṃ rūpam idam arthavādasyedaṃ mantrasyety evaṃ noktaṃ tathāpi dharmaṃ praty upayogābhidhānāt tattvaṃ nirṇītam ।
+avasarābhāvāt tu tatsvarūpaṃ na nirdiṣṭam ।
+śrutimūlatvaṃ vijñānasya smṛtiprāmāṇye tattvam ।
+nāmadheyasya codanāntargatatvāt pramāṇatvam ।
+saṃdigdhārthanirṇaye vākyaśeṣasāmarthyayoḥ prāmāṇyam ity evaṃ samastam adhyāyaṃ pramāṇalakṣaṇam ācakṣate ।

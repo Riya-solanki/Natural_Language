@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 380 | label: meter | g:0.25 m:0.5 ---
+
+śraddhā kāmaṃ calā darpaṃ niyamaṃ dhṛtir ātmajam 
+saṃtoṣaṃ ca tathā tuṣṭir lobhaṃ puṣṭir asūyata ।।

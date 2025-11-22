@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 1035 | label: meter | g:0.25 m:0.75 ---
+
+taḍito adhi varuṇaḥ saṃbandhāt ।
+taḍidante arcirādye adhvanyappatistaḍitaḥ paraḥ ।
+tatsaṃbandhāttathendrādirappateḥ para īṣyate ।।
+āgantūnāṃ niveśo ante sthānābhāvātprasādhitaḥ ।
+tathā cendrādirāgantuḥ paṭhyate cāppateḥ paraḥ ।।

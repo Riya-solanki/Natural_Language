@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 441 | label: hybrid | g:0.521 m:0.5 ---
+
+[] śrī-kṛṣṇa sa-gadgadam uvāca-āgaccha gacchāva tāvat sakhi-saṅgham iti ।

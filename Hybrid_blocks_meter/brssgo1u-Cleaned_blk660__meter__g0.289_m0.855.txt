@@ -1,0 +1,9 @@
+--- source: brssgo1u-Cleaned.txt | block: 660 | label: meter | g:0.289 m:0.855 ---
+
+devatāntarāṇāmuddeśyānāmabhāvāditi prathamasūtrārthaḥ ।
+ṛṣīṇāmanadhikāraḥ, ṛṣyantarābhāvādṛṣiyukte karmaṇyaśakteriti dvitīyasūtrārthaḥ ।
+asāmarthyamupādhiriti pariharati-na taditi ।
+asāmarthyarūpaṃ kāraṇamityarthaḥ ।
+na hyasti yenāsāmarthyaṃ syāditi śeṣaḥ ।
+atadyo yo devānāṃ pratyabudhyata sa eva tadabhavattatharṣīṇām'itivākyabādho apyanumānasya draṣṭavyaḥ ।
+nanu devādīnpratyaṅkuṣṭhamātraśrutiḥ kathaṃ,

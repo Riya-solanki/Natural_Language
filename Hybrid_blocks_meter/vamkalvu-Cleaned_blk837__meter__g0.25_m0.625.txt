@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 837 | label: meter | g:0.25 m:0.625 ---
+
+aindraṃ dhanuḥ pāṇḍupayodhareṇa śaraddadhānaārdranakhakṣatābham ।
+pras।adayantī sakalaṅkaminduṃ tāpaṃ raverabhyadhikaṃ cakāra ।।

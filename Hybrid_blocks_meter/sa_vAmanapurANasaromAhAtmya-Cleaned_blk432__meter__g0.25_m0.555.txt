@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 432 | label: meter | g:0.25 m:0.555 ---
+
+kurukṣetrasya tad dvāraṃ viśrutaṃ puṇyavarddhūnam ।
+pradakṣiṇamupāvartya brāhmaṇān bhojayet tataḥ ।
+puṣkaraṃ ca tato gatvā abhyarcya pitṛdevatāḥ ।।

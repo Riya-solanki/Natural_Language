@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2922 | label: hybrid | g:0.542 m:0.5 ---
+
+sa tasya mūrdhni pravaro api vajro jagāma tūrṇaṃ hi sahasradhā mune ।
+balo adravad devapatiśca bhītaḥ parāṅmukho abhṛt samarānmaharṣe ।।

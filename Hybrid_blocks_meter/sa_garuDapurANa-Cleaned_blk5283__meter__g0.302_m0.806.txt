@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5283 | label: meter | g:0.302 m:0.806 ---
+
+triphalācitrakabalānirguṇḍī nimbavāsakāḥ ।
+punarnavā guḍūcī ca bṛhatī ca śatāvarī ।।

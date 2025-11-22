@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 798 | label: meter | g:0.306 m:0.5 ---
+
+lāvaṇyasindhuraparaiva hi keyamatra yatrotpalāni śaśinā saha saṃplavante ।
+unmajjati dviradakumbhataṭī ca yatra yatrāpare kadalikāṇḍamṛṇāladaṇaḍāḥ ।।

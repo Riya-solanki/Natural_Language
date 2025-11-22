@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1145 | label: meter | g:0.34 m:0.571 ---
+
+śrīphalenāmunaivāyaṃ kurute kiṃ na vānaraḥ ।
+hasaty ullasati preṅkhaty adhastād īkṣate janam ।।
+taraṇinandinaḥ

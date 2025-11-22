@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11893 | label: hybrid | g:0.51 m:0.5 ---
+
+yadā pate yamadūtaiśca pāśairbadhvā samyak tāḍyamānaḥ kaśābhiḥ ।
+tadā lakṣmīḥ kutra palāyate asāvato mūlaṃ viṣṇupādaṃ bhajasva ।।

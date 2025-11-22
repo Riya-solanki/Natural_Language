@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 612 | label: grammar | g:0.646 m:0.5 ---
+
+atra eḥ kāmasyeti sambandhapadaṃ lalitairvilāsairiti tṛtīyā vā gopitamiti saṃbandhagūḍhamidam । paṣṭhayāḥ kārakatvābhāvāt sambhandhagūḍhasyātra pṛthaṅnirdeśaḥ ।

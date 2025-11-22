@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1275 | label: meter | g:0.351 m:0.565 ---
+
+kathaṃ nu patatāṃ śreṣṭha dharme arthaṃ na samīkṣase ।
+dharmo hyupacitaḥ samyagāvahatyarthamuttamam ।।

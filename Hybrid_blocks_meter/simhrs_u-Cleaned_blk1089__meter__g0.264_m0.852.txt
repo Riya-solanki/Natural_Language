@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1089 | label: meter | g:0.264 m:0.852 ---
+
+dayā-vīre dhṛti-mati-pramukhā vyabhicāriṇaḥ ।
+svārtha-prāṇa-vyayenāpi vipanna-trāṇa-śīlatā । 
+āśvāsanoktayaḥ sthairyam ity ādyās tatra vikriyāḥ ।।

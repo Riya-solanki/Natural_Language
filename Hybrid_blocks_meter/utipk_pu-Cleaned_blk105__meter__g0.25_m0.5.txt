@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 105 | label: meter | g:0.25 m:0.5 ---
+
+ghaṭo ayam ity adhyavasā nāmarūpātirekiṇī ।
+pareśaśaktir ātmeva bhāsate na tv idantayā ।।

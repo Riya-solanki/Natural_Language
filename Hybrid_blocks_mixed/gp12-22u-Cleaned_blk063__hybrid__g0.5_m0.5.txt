@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 63 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tataś ca ghaṭodhnīnāṃ tāsāṃ nātidugdhānām api dugdhāni tu pracuraṃ dugdhāni vidhāya gavādi-sambhālanam anu gopān saṃvidhāya tāni ca pituḥ purastān nidhāya karābhyām añjaliṃ sandhāya sthitavantau santau, tena dūratas tadīya-turīya-kakṣā-pūrita-cāturī-nirīkṣaṇa-sukha-sthagitena bhūyo bhūyaś cāhūya savyāpasavyayor upaveśitau । yatra ca-

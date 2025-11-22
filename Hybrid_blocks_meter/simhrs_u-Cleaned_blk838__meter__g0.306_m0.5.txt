@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 838 | label: meter | g:0.306 m:0.5 ---
+
+anye prītiṃ rater bhedm āmananti na tan-matam । 
+asamprayoga-viṣayā seyaṃ harṣān na bhidyate ।।

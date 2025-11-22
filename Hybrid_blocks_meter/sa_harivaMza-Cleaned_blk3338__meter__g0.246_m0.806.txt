@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3338 | label: meter | g:0.246 m:0.806 ---
+
+yudhyamāne hṛṣīkeśe puṇḍarīkanibhekṣaṇe 
+svayam eva pravādyanta tūryaghoṣāś ca sarvaśaḥ ।।

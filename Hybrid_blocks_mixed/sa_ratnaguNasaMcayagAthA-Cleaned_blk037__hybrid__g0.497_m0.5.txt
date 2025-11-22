@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 37 | label: hybrid | g:0.497 m:0.5 ---
+
+yatha nāyako asthitaku dhātuasaṃskṛtāyā tatha saṃskṛtāya athito aniketacārī 
+evaṃ ca sthānu athito sthita bodhisattvo asthānu sthānu ayu sthānu jinena ukto ।।

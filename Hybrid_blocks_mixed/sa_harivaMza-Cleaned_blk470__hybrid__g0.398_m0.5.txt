@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 470 | label: hybrid | g:0.398 m:0.5 ---
+
+tena tv idānīṃ vahatā dīkṣāṃ tāṃ durvahāṃ bhuvi 
+tenārthaṃ caiva vihitā dikṣās tātahatā bhuvi । 
+kulasya niṣkṛtis tāta kṛtā sā vai bhaved iti ।।

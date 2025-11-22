@@ -1,0 +1,11 @@
+--- source: grasht_u-Cleaned.txt | block: 304 | label: grammar | g:0.666 m:0.258 ---
+
+atha vidhyantaramāha rasetyādi ।।
+rasadaradābhrakatāpyamiti rasaḥ pāradaḥ darado hiṅgulaḥ abhrakaṃ pratītaṃ tāpyaṃ svarṇamākṣikaṃ vimalā rukmamākṣikaṃ mṛtaṃ yacchulbaṃ tāmraṃ loho muṇḍādiśca eteṣāṃ rasādīnāṃ rasaparpaṭīvat parpaṭikā kāryā ।।
+tayā yutaṃ nāgaṃ punaḥ kaṅkuṣṭhaśilāyutaṃ kaṅkuṣṭhaṃ haritapītavarṇo viṣaharapāṣāṇajātiḥ śilā manohvā tābhyāṃ yutaṃ miśritaṃ yannāgaṃ sīsakaḥ snuhyarkadugdhapiṣṭaṃ kāryaṃ snuhī sehuṇḍaḥ arkaḥ prasiddho viṭapī tayordugdhena piṣṭaṃ pāṃśubhūtaṃ mṛtaṃ yannāgaṃ kukkuṭapuṭavidhāneneti śeṣaḥ etadapi bījaṃ siddhaṃ garbhe dravati ca pūrvasaṃbandhāt ।।
+atha vaṅgabījavidhānamāha abhraketyādi ।।
+ciñcākṣāravimiśraṃ yadvaṅgaṃ amlikākṣārayuktaṃ vaṅgaṃ abhrakatālakaśaṅkharasasahitaṃ abhrakaṃ pratītaṃ tālakaṃ haritālaṃ śaṅkhaṃ kambugrīvaṃ rasaḥ pāradaḥ etaiścaturbhiḥ sahitaṃ yathā syāttathā punaḥ punaḥ vāraṃ vāraṃ nirutthaṃ yāvat tāvatpuṭitaṃ kuryāt ।।
+etadauṣadhasyāṃśabhāgena saha puṭanādvaṅgaṃ nirjīvatāṃ yāti pañcatvamāpnoti etadapi bījaṃ siddhaṃ garbhadrāvaṇe jāraṇārthe ca pūrvasaṃbandhāt ।।
+nāgavaṅgayor etad auṣadhaṃ kāraṇamityāha vidhinetyādi ।।
+anena vidhinā uktavidhānena nāgaṃ sīsakaṃ puṭitaṃ sat mriyate mṛtaṃ bhavatīti vāmunā vidhānenaiva nirutthatāṃ gataṃ aśarīratāṃ prāptaṃ vaṅgaṃ sarvakarmasu cāraṇajāraṇabhakṣaṇādikāryeṣu niyujyate rasajñairiti śeṣaḥ ।।
+nāgavaṅgamāraṇam ekavidham evoktam atas tadbhakṣaṇādiṣu parasparaṃ guṇādhikayogyaṃ natu jāraṇādiṣu ।।

@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 83 | label: grammar | g:0.669 m:0.354 ---
+
+pātācca ।
+vijñānasvarūpameva asataḥ prakāśa iti cet, kaḥ punareṣa sadasatoḥ saṃbandhaḥ?asadadhīnanirūpaṇatvaṃ sato jñānasyāsatā saṃbandha iti cet, aho batāyamatinirvṛttaḥ pratyayatapasvī yasyāsatyapi nirūpaṇamāyatate, na ca pratyayastatrādhatte kiñcit, asata ādhāratvāyogāt ।
+asadantareṇa pratyayo na prathata iti pratyayasyaivaiṣa svabhāvo na tvasadadhīnamasya kiñciditi cet, aho batāsyāsatpakṣapāto yadayamatadutpattiratadātmā ca tadavinābhāva

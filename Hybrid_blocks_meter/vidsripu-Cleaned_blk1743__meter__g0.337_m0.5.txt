@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1743 | label: meter | g:0.337 m:0.5 ---
+
+sītkāraṃ śikṣayati vraṇayaty adharaṃ tanoti romāñcam ।
+nāgarakaḥ kim u milito na hi na hi sakhi haimanaḥ pavanaḥ ।।

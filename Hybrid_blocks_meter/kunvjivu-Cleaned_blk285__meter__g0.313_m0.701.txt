@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 285 | label: meter | g:0.313 m:0.701 ---
+
+atra raghupateranarghamahāpuruṣasaṃpadupetatvena varṇyamānasya "kaikeyi kāmāḥ phalitāstava' ityevaṃvidhatucchatarapadārthasaṃsmaraṇaṃ tadabhidhānaṃ cātyantamanaucityamāvahati ।
+prabandhasyāpi kvacitprakaraṇaikadeśe apyaucityavirahādekadeśadāhadūṣitadagdhapaṭaprāyatā prasajyate ।
+yathāraghuvaṃśe eva dilīpa-siṃha-saṃvādāvasare

@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 45 | label: meter | g:0.25 m:0.5 ---
+
+arālaiḥ svābhāvyād ali-kalabha-sa-śrībhir alakaiḥ parītaṃ te vaktraṃ parihasati paṅke-ruha-rucim
+dara-smere yasmin daśana-ruci-kiñjalka-rucire su-gandhau mādyanti smara-mathana-cakṣur-madhu-lihaḥ ।।

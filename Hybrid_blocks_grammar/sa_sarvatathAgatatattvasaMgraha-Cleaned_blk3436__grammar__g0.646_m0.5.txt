@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3436 | label: grammar | g:0.646 m:0.5 ---
+
+tatrāyaṃ jāpavidhirbhavati । yathā sthānasthitaścaturmāsaṃ catuḥsandhyaṃ dhūpādibhiryathāvatpūjāṃ kṛtvā, sarvatathāgatamahāyānābhisamayanāmāṣṭaśatena sarvatathāgatānabhiṣṭutya, caturmudrāpraṇāmayogena praṇamannātmaniryātanapūjā kāryanena mantracatuṣṭayena ।

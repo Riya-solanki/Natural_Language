@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 572 | label: grammar | g:0.552 m:0.5 ---
+
+tāpombhaḥprasṛtaṃpacaḥ pracayavān bāṣpaḥ praṇālocitaḥ śvāsā nartitadīpavartilatikāḥ pāṇḍimni magnaṃ vapuḥ ।
+kiṃ cānyat kathayāmi rātrim akhilāṃ tvadvartmavātāyane hastacchatraniruddhacandraniruddhacandramahasas tasyāḥ sthitir vartate ।।

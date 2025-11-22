@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4800 | label: meter | g:0.194 m:0.75 ---
+
+senāpatir anādhṛṣṭir idaṃ vacanam abravīt 
+kṛṣṇam akliṣṭakarmāṇam acyutaṃ bhītabhītavat ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 148 | label: meter | g:0.111 m:0.521 ---
+
+lokaḥ śrīnātha-loka-pratiruci-vijayī kānanaṃ śrī-spṛhājid-
+vāsaḥ śrī-rājadhānī-nikhila-śubha-rucāṃ vāsinas te ta eva ।
+bhoktā kṛṣṇaḥ sa bhogyaḥ praṇaya-madhurimā śaśvad ity evam asmin
+pratyekaṃ sarvam antaḥkaraṇam atigataṃ kas tad-antaṃ labheta ।। [sragdharā]

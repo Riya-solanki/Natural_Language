@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 606 | label: grammar | g:0.655 m:0.335 ---
+
+vārtike api- yaugapadyopalambhādvā bhedo bhedācca kāryateti dvayamupakṣipya yathāyaugapadyopalambhādbhedo bhavati tathā darśitam- avibhutve hi yugapadityādinā tathā darśitam- nityatve tvekabuddhiḥ syāditi ।
+na hi nityatvavādinā pratyabhijñāyā bhrāntitvamiṣyate ।
+tathā ca vakṣyate- api caikarūpye sati deśabhedena kāmaṃ deśā eva bhinnāḥ syurnatu śabdaḥ iti ।
+na hi tadaprāmāṇye nityatvaṃ siddhyati pramāṇāntarābhāvāt, ato nityatve satyekatvaṃ syāttacca nānādeśopalambhena virudhyata iti, tataśca yaugapadyopalambhādbhedo bhede ca pratyabhijñāyā aprāmāṇyaṃ tadaprāmāṇye ca nityatvābhāvātkāryatvaṃ- tadetadānupūrvyaṃ svatantrasiddham ।
+dṛḍhe cānityatve jīpavatsādṛśyātpratyabhijñā bhavati tasmādanityaḥ śabda iti prāpte ।।

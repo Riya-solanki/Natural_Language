@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8466 | label: grammar | g:0.552 m:0.5 ---
+
+na nityadānaṃ na gāvāhnikaṃ kṛtaṃ na vedadānaṃ na ca śāstrapustakam ।
+purā nadṛṣṭaṃ na ca sevito adhvā dehinkvacinnistara yattvayā kṛtam ।।

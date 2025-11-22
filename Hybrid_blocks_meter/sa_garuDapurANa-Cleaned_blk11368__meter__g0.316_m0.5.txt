@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11368 | label: meter | g:0.316 m:0.5 ---
+
+goṣṭhe ca nityaṃ viṣṇurūpī haristu aśve sadā tiṣṭhati vāmanākhyaḥ ।
+saṃkarṣaṇaḥ śūdravarṇe sadāsti vaiśye pradyumnastiṣṭhati sarvadaiva ।।

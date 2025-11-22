@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1039 | label: meter | g:0.25 m:0.677 ---
+
+atha karuṇa-vipralambhaḥ-
+dvayor ekasya maraṇe punar ujjīvanāvadhau । 
+virahaḥ karuṇo' nyasya saṅgamāśānuvartanāt ।।
+karuṇa-bhrama-kāritvāt so' yaṃ karuṇa ucyate । 
+sañcāriṇo' nubhāvāś ca karuṇe' pi pravāsavat ।।

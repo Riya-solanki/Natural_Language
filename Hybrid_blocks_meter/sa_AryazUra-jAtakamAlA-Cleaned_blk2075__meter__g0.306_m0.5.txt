@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2075 | label: meter | g:0.306 m:0.5 ---
+
+nabhaśca dure vasudhātalācca pārādavāraṃ ca mahārṇavasya ।
+astācalendrādudayastato api dharmaḥ satāṃ dūratare asatāṃ ca ।।

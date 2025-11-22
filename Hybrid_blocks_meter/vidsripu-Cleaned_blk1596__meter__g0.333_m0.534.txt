@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1596 | label: meter | g:0.333 m:0.534 ---
+
+anaṅga palitaṃ mūrdhni paśyaitad vijayadhvajam ।
+idānīṃ jitam asmābhis tavākiṃcitkarāḥ śarāḥ ।।
+dharmakīrteḥ

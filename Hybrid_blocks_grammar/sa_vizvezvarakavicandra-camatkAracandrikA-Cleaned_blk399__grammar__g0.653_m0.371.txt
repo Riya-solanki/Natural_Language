@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 399 | label: grammar | g:0.653 m:0.371 ---
+
+nanvatra samāsaḥ śrūyate kathamasamāseti cet śrūyatām । atra nañā samāsasvarūpaniṣedho nābhidhīyate । kintu tasya tīrgatvaṃ drāghīyastvaṃ ca । yathā-anudareyaṃ kanyā; nissāraḥ pumān; iti । tasmād dvayoḥ trayāṇāṃ vā padānāṃ samāse rīteḥ sahṛdayahṛdayānāmanudvegadāyināmasamāsatvameva । yathā ca dṛṣṭamasamāsamārgānusāriṇāṃ mahākavīnāṃ prabandharatneṣu ।
+"tanvī śyāmā śikharidaśanā pakvabimbādharoṣṭhī" ।।
+ityādi meghasandeśe

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11044 | label: meter | g:0.25 m:0.5 ---
+
+visṛjya tāśca taṃ dehaṃ babhūvurnalakanyakāḥ ।
+indraseneti saṃjñāṃ ca labdhvā tāśca tapovanam ।।

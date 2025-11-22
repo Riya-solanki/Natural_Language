@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 493 | label: meter | g:0.25 m:0.5 ---
+
+amīṣāṃ maṇḍalābhogaḥ stanānām eva śobhate ।
+yeṣām upetya sotkampā rājāno api karapradāḥ ।।

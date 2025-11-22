@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1624 | label: grammar | g:0.625 m:0.5 ---
+
+vane atha tasminnavameghanīle jvalattanuṃ ratnanidhānalakṣmyā । guṇairuruṃ taṃ sa ruruṃ dadarśa śātahnadaṃ vahnimivābhramakṣe ।।

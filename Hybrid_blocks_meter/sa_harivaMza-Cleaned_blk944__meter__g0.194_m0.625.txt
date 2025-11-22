@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 944 | label: meter | g:0.194 m:0.625 ---
+
+atriśreṣṭhāni gotrāṇi yaś cakāra mahātapāḥ 
+yajñeṣv atridhanaṃ caiva surair yasya pravartitam ।।

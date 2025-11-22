@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 37 | label: hybrid | g:0.444 m:0.5 ---
+
+dīkṣā dānaṃ tapas tīrthaṃ jñānaṃ yāgādikāḥ kriyāḥ ।
+mahimnas tava pāṭhasya kalāṃ nārhanti ṣoḍaśīm ।। Smstadd

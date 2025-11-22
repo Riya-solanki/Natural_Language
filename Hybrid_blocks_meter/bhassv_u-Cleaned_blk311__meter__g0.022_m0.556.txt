@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 311 | label: meter | g:0.022 m:0.556 ---
+
+{rājā} - pūrvaṃ praviśa 
+{vidūṣakaḥ} - bho taha 
+{praviśya} avihā ciṭṭhadu ciṭṭhadu dāva bhavaṃ 
+[bhoḥ tathā । avihā tiṣṭhatu tiṣṭhatu tāvad bhavān । ]

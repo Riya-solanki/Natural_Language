@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 842 | label: meter | g:0.306 m:0.5 ---
+
+bhadanta śrotum icchāmi punar anyat subhāṣitam ।
+tad yathā guruṇādiṣṭaṃ tathādeṣṭuṃ ca me arhati ।।

@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 28 | label: grammar | g:0.635 m:0.5 ---
+
+droho yasya pitā kalāḥ kila catuḥṣaṣṭis tathā mātaraḥ prāṇāḥ sarvam alīkam arthaharaṇaṃ nāma pradhānavratam ।
+vikreyaṃ nijam aṅgam aṅgam api cānaṅgaḥ sahāyaḥ svayaṃ tasyānarthaśatātmakasya gaṇikāvyādheḥ kim asty auṣadham ।।

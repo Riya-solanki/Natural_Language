@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2337 | label: meter | g:0.25 m:0.625 ---
+
+samīpe tvagnidhāreti viśrutā kapilā hi sā ।
+agniṣṭomaphalaṃ śrāddhī snātvātra kṛtakṛtyatā ।।

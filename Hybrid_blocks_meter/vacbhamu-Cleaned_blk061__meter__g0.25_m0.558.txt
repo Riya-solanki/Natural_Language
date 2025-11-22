@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 61 | label: meter | g:0.25 m:0.558 ---
+
+ātmārthau saheti tāvaduktaṃ bhavati saṃvidarthātmaprakāśau saheti ।
+tathā ca na vivakṣitārthasiddhiḥ ।

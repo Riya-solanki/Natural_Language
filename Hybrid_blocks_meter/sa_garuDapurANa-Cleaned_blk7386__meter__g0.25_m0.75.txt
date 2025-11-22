@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7386 | label: meter | g:0.25 m:0.75 ---
+
+kulālacakrāṇi tatra bhrāmyantyavirataṃ khaga ।
+teṣvāpāṣye nikṛṣyante kālasūtreṇa mānavāḥ ।।

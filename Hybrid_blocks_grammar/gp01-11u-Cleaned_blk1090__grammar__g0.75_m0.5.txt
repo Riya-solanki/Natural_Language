@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1090 | label: grammar | g:0.75 m:0.5 ---
+
+[] yathā ca provāca tad vācikam asau-hanta bhoḥ, kṛṣṇa, tvayā saha krīḍā-tṛṣṇag apy ahaṃ viruddha-vidhinā niruddha evāsmi, yad akasmāt kasmād api puru-kulajanmā man-mātulaḥ paramātula-nirbandhān mām avalokayitum āgamya harmya eva sthāvara-sādharmyam āsāditavān asti । adya ca tavātīva prātar ātta-jāgaratayā samīhita-viśeṣam ūhitavān asmi । tasmād bhavatā yā līlā bhāvayituṃ bhāvitā, sāvaśyaṃ bhāvayitavyā । navyārambhe viṣkambhaḥ khalv apratibaddha-siddhi-sambhāvanāṃ stambhayati iti ।

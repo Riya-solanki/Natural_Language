@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4934 | label: meter | g:0.102 m:0.555 ---
+
+hate śastre mahārāja daiteyaḥ krodhamūrchitaḥ 
+bhūyaḥ saṃchādayām āsa keśavaṃ garuḍe sthitam 
+musalaiḥ paṭṭisaiś caiva śūlam udgarakasmaraiḥ ।।

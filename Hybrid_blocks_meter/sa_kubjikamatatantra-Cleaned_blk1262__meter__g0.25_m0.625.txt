@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1262 | label: meter | g:0.25 m:0.625 ---
+
+pūrveśagocarāntās te madhye devaḥ sadāśivaḥ 
+cāroccāravicāraiś ca ebhiḥ sārdhaṃ ramet tu saḥ ।।

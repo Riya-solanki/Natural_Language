@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4777 | label: meter | g:0.194 m:0.75 ---
+
+tāsāṃ harmyatalasthānāṃ tūrṇam āsīn mahāsvanaḥ 
+kurarīṇām ivākāśe rudatīnāṃ sahasraśaḥ ।।

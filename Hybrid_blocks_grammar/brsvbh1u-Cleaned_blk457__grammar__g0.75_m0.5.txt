@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 457 | label: grammar | g:0.75 m:0.5 ---
+
+NOTE -prajāpativratanyāyaṃ vibhajate niṣedheṣu tadabhāvāya-nekṣeteti । atasya brahmacāriṇo vratam'iti vrataśabdopakramāt, ekasmiṃśca vākye upasahārasya prakramādhīnatvādākhyātayogināpi nañā pratīto niṣedho ananuṣṭheyatvādupekṣyate tataścānīkṣaṇasaṃkalpalakṣaṇā yuktā । na caivaṃ ana hanyāt'itivākye kalpanīyamiti bhāvaḥ ।

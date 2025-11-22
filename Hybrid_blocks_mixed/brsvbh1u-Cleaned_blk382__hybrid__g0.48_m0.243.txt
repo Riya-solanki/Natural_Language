@@ -1,0 +1,7 @@
+--- source: brsvbh1u-Cleaned.txt | block: 382 | label: hybrid | g:0.48 m:0.243 ---
+
+viśvajinnyāyena tu svargakalpanāyāṃ tasya sātiśayatvaṃ kṣayitvaṃ ceti na nityaphalatvamupāsanāyāḥ ।
+tasmādbrahmabhūyasyāvidyāpidhānāpanayamātreṇāvirbhāvāt, avidyāpanayasya ca vedāntārthavijñānādavagatiparyantādeva saṃbhavāt, upāsanāyāḥ saṃskārahetubhāvasya saṃskārasya ca sākṣātkāropajanane manaḥsācivyasya ca mānāntarasiddhatvāt, aātmetyevopāsīta'iti na vidhiḥ,api tu vidhisarūpo ayam ।
+yathopāṃśuyājavākye aviṣṇurupāṃśu yaṣṭavyaḥ'ityādayo vidhisarūpā na vidhayaḥ-iti tātparyārthaḥ ।
+śrutismṛtinyāyaprasiddham ityuktam ।
+tatra śrutiṃ darśayati-tathā ca śrutiriti ।

@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 56 | label: meter | g:0.25 m:0.75 ---
+
+pūte mahītale sthitvā paśuśravaṇavarjite ।
+paridhyantaḥsthitaṃ ceṣṭvā śivaṃ praṇavavigraham ।

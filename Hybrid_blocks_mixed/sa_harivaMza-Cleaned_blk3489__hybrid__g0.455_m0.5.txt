@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3489 | label: hybrid | g:0.455 m:0.5 ---
+
+putra eko hi me jātaḥ sa cāpi timinā hṛtaḥ 
+prabhāse tīrthayātrāyāṃ taṃ me tvaṃ punar ānaya ।।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1238 | label: meter | g:0.194 m:0.854 ---
+
+tad evam atiduṣkarāṇi bhagavān asau bhūtaye
+cakāra jagatāṃ kṛpāparigatāmalādhyāśayaḥ ।
+prasādayata tatra mānasam ato jagadbāndhave
+samagrabhuvanopakārakaraṇaikavīre jine ।।

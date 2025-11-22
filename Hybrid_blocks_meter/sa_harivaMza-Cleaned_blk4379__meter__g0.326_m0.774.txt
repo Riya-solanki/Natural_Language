@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4379 | label: meter | g:0.326 m:0.774 ---
+
+tamṛkṣavante nagare nihatyāsurasattamam 
+gṛhya māyāvatīṃ devīṃ svām agacchat purīṃ pituḥ ।।

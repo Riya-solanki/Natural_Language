@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2449 | label: meter | g:0.194 m:0.625 ---
+
+kesarāṇāṃ navair gandhair madaniḥśvasitopamaiḥ 
+abhīkṣṇaṃ niḥśvasantīṣu yoṣitsv iva samantataḥ ।।

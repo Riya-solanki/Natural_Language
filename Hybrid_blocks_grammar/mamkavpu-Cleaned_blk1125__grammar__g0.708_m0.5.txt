@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1125 | label: grammar | g:0.708 m:0.5 ---
+
+samarasamaraso ayamityādāvekeṣāmarthavattve anyeṣāmanarthakatve bhinnārthānāmiti na yujyate vaktum iti arthe satītyuktam । seti sarorasa ityādivailakṣaṇyena tenaiva krameṇa sthitā ।

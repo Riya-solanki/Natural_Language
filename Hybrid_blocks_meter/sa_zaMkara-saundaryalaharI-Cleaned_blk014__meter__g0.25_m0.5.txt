@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 14 | label: meter | g:0.25 m:0.5 ---
+
+naraṃ varṣīyāṃsaṃ nayanavirasaṃ narmasu jaḍaṃ tavāpāṅgāloke patitam anudhāvanti śataśaḥ 
+galadveṇībandhāḥ kucakalaśavisrastasicayā haṭhāt truṭyatkāñcyo vigalitadukūlā yuvatayaḥ ।।

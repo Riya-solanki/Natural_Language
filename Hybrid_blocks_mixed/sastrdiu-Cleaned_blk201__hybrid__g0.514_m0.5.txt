@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 201 | label: hybrid | g:0.514 m:0.5 ---
+
+jñānajanyātiśayabhāktvameva grāhyatvamiti cet, nāsāvupalabhyate, na ca saṃbhavati bhūtabhaviṣyatorityuktam ।
+atha saṃprayuktendriyajaṃ jñānaṃ yatvyāptaliṅgajaṃ vā sa viṣaya iti matam ।
+tato netrajanyasya nīlajñānasya sparśo viṣayaḥ syāt, asti ca sparśasyāpi rūpasyaiva saṃyuktasamavāyalakṣaṇaḥ saṃbandho netreṇa ।
+tathā gandhaliṅgasya rasānumānasya rūpamapi viṣayaḥ syāt, rūpeṇāpi raseneva tasya vyāptatvāt ।
+tasmāt jñānātmakatvameva nīlāderviṣayalakṣaṇamiti siddhaṃ tādātmyam ।।

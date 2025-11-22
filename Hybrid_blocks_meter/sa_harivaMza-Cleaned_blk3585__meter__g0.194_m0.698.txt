@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3585 | label: meter | g:0.194 m:0.698 ---
+
+sāyudhapragrahau vīrau tāv anyonyamayāv ubhau 
+pūrvajānujasaṃjñau tau rāmagovindalakṣaṇau 
+dviṣatsu pratikurvāṇau parākrāntau yatheśvarau ।। 
+viceratur yathā devau vasudevasutāv ubhau । 
+halam udyamya rāmas tu sarpendram iva kopitaḥ 
+cacāra samare vīro dviṣatām antako yathā ।।

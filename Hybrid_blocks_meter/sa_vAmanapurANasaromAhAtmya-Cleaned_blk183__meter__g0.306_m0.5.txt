@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 183 | label: meter | g:0.306 m:0.5 ---
+
+rūpasya cakṣurgrahaṇe tvageṣā sparśagrahitrī rasanā rasasya ।
+ghrāṇaṃ ca gandhagrahaṇe niyuktaṃ na ghrāṇacakṣuḥ śravaṇādi tasya ।।

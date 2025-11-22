@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1404 | label: grammar | g:0.646 m:0.5 ---
+
+yathānityaḥ śabdaḥ kacaṭatapānāṃ jabagaḍadaśatvāt jhabhañghaḍhadhaṣavat' iti, evaṃprakāraṃ nirarthakam abhidhānābhidheyabhāvānupapattau arthagaterabhāvād varṇāḥ krameṇa nirdiśyante iti ।।

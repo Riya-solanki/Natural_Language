@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 599 | label: meter | g:0.25 m:0.625 ---
+
+{pitṛvasatimahaṃ vrajāmi tāṃ saha parivārajanena yatra me ।
+bhavati sapadi pāvakānvaye hṛdayamaśeṣitaśokaśalyakam ।।}

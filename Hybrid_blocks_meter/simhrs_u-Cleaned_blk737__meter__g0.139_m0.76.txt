@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 737 | label: meter | g:0.139 m:0.76 ---
+
+viṣādasya paratantratvaṃ, yathā-
+vāraṃ vāraṃ tirayati dṛ;cām udgato bāṣpa-pūras
+tat-saṅkalpopahita-jaḍima-stambham abhyeti gātram ।
+sadyaḥ svidyann ayam aviratotkampa-lolāṅgulīkaḥ
+pāṇir lekhā-vidhiṣu nitarāṃ vartate kiṃ karomi ।।

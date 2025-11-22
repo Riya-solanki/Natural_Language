@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3770 | label: grammar | g:0.667 m:0.5 ---
+
+viditalokāpavādavṛttāntaś ca bhagavān yadusainyaparivāraḥ prasenāśvapadavīm anusasāra । dadarśa cāśvasametaṃ prasenaṃ nihataṃ siṃhenākhilajanapadamadhye siṃhapadadarśanakṛtapariśuddhiḥ siṃhapadam anusasāra ।।

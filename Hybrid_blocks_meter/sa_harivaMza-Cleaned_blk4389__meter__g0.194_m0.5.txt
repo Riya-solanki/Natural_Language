@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4389 | label: meter | g:0.194 m:0.5 ---
+
+mukhaṃ nārāyaṇasyeva keśāḥ keśānta eva ca 
+mūrdhavakṣobhujais tulyo halinaḥ śvaśurasya me ।।

@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 3 | label: grammar | g:0.646 m:0.5 ---
+
+dhyānaṃ yat parameśvaraṃ prati sadā yad vītarāgaṃ mano yat karmātikaṭhoraghoragahanaṃ bhūtyai yad atyādaraḥ ।
+āścaryaṃ ca śarīradānam api yat kāryaṃ vikāraṃ vinā tad veśyaiva tapasvinī kaliyuge loko api tadbhāvitaḥ ।।

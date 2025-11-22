@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11854 | label: meter | g:0.306 m:0.5 ---
+
+tayoḥ svarūpaṃ praviditvaiva pūrvaṃ punaḥ punaḥ svīkarotyeva mūḍhaḥ ।
+śiśraṃ maurkhyāccaiva kutrāpi yonau praveśayetsarvadā hyādareṇa ।।

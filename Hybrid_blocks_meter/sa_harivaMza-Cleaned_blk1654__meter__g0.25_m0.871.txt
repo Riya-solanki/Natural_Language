@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1654 | label: meter | g:0.25 m:0.871 ---
+
+prajārakṣaṇayukteṣu bhrājamāneṣu rājasu 
+gīyamānāsu gāthāsu devasaṃstavanādiṣu । 
+praśāntakalmaṣe loke śānte tamasi dāruṇe ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 627 | label: grammar | g:0.717 m:0.42 ---
+
+yat pīnastanabhāralālasalasadvāsaḥsphuradgaṇḍayā tanvaṅgyā rabhasārpitaṃ sarabhasaṃ vaktraṃ muhuḥ pīyate ।
+tac chlāghyaṃ surataṃ ca tat tad amṛtaṃ tad vastu tad brahma tac cetohāri tad eva tat kim api tat tattvāntaraṃ sarvathā ।।

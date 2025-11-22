@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 106 | label: grammar | g:0.583 m:0.5 ---
+
+dolāvilāseṣu vilāsinīnāṃ karṇāvataṃsāḥ kalayanti kampam । līlācalacchravaṇakuṇḍamāpatanti । āyayurbhṛṅgamukharāḥ tūrṇaṃ śekharaśālinaḥ ।

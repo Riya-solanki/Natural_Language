@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4151 | label: meter | g:0.194 m:0.5 ---
+
+datto hi vārṣikaḥ sarvo bhavadbhir nṛpateḥ karaḥ 
+yadartham āgatās tasmān nātra stheyaṃ mahādhanāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5115 | label: meter | g:0.194 m:0.5 ---
+
+viprāṇāṃ śāśvatīṃ vṛttiṃ yadā varṇāvaro janaḥ 
+abhipatsyati vṛttyarthaṃ tat kaṣāyasya lakṣaṇam ।।

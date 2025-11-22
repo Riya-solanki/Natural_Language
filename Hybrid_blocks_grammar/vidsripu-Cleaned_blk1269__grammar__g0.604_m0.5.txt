@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1269 | label: grammar | g:0.604 m:0.5 ---
+
+ito vasati keśavaḥ puram itaś ca tadvidviṣām itaś ca śaraṇāgatāḥ śikharipakṣiṇaḥ śerate ।
+itaś ca vaḍavānalaḥ saha samastasaṃvartakair aho vitatam ūrjitaṃ bharasahaṃ ca sindhor vapuḥ ।।

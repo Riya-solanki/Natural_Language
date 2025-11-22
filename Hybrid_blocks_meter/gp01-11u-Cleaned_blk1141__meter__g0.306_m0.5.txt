@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 1141 | label: meter | g:0.306 m:0.5 ---
+
+tato' nujñāpya bhagavān sva-bhuvaṃ prāg-avasthitān ।
+vatsān pulinam āninye yathā pūrva-sakhaṃ svakam ।।[BhP ] iti ।

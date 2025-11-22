@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 100 | label: hybrid | g:0.542 m:0.5 ---
+
+śṛṅgārābdhiplava iva galadveṇi kamprastanaṃ tat bhraśyannīvi sthitamiti viṭā vīkṣya saṃśliṣya yatra ।
+mugdhākṣīṇāṃ mukulitadṛśāṃ mohanāḍambarānte bhūyaḥ śrāntaṃ punarapi ratodyogamudvelayanti ।।

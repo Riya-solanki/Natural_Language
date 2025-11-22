@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 44 | label: hybrid | g:0.521 m:0.5 ---
+
+ārādhyainaṃ śaravaṇabhavaṃ devam ullaṅghitādhvā siddhadvandvair jalakaṇabhayād vīṇibhir muktamārgaḥ ।
+vyālambethāḥ surabhitanayālambhajāṃ mānayiṣyan srotomūrtyā bhuvi pariṇatāṃ rantidevasya kīrtim ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6995 | label: meter | g:0.316 m:0.5 ---
+
+sakalamunibhirādyaścintyate yo hi śuddho nikhilahṛdi niviṣṭo vetti yaḥ sarvasākṣī ।
+tamajamamṛtamīśaṃ vāsudevaṃ nato asmi bhayamaraṇavihīnaṃ nityamānandarūpam ।।

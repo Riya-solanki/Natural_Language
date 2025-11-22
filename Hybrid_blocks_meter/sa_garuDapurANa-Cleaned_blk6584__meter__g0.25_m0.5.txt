@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6584 | label: meter | g:0.25 m:0.5 ---
+
+āranālaṃ dadhi kṣīraṃ takrantu kṛsarañca yat ।
+śūdrādapi ca tadgāhyaṃ māṃsaṃ madhu tathāntyajāt ।।

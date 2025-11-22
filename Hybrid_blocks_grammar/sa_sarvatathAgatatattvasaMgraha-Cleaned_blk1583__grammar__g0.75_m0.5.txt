@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1583 | label: grammar | g:0.75 m:0.5 ---
+
+athātra trilokacakramahāmaṇḍale ākarṣaṇādikarma kṛtvā, svayaṃ vajrācāryo vajrakrodhaterintirimudrāṃ badhvā, evaṃ brūyād, "ahante vajrasamayajñānamutpādayiṣyāmi । tattvayā na kasyacidvaktavyaṃ । mā te viṣamā parihāreṇa kālakriyayā narakapatanaṃ syād," idamuktvedaṃ śapathahṛdayaṃ dadyāt । vajrakrodhaterintirimudrāṃ badhvā darśayet "ayaṃ vajrakrodhasamayaste sandahet kulan, murdhādārabhya kāyaṃ tu nāśayet, yadyatikramet samayaṃ bandhaya" ।।

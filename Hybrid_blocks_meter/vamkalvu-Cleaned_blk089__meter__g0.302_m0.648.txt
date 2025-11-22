@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 89 | label: meter | g:0.302 m:0.648 ---
+
+iti śrīpaṇḍitavaravāmanaviracitakāvyālaṅkārasūtravṛttau śārīre prathame adhikaraṇe dvitīyo'dhyāyaḥ ।
+adhikāricintā, rītiniścayaśca ।

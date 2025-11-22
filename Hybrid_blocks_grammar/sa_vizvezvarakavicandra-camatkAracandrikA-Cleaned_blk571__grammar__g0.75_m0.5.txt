@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 571 | label: grammar | g:0.75 m:0.5 ---
+
+atra nāyakena dviṣatāṃ kīrtirahāri hṛtā । tenaiva ripustrīṇāṃ vakṣaḥ avidyamānahāraṃ vyatānītyatra atītyekapade luṅi prathamapuruṣaśca napuṃsakakarma ca dvitīyā ca tiṅsubvibhakttī śliṣṭe iti vijātīyavibhaktiśleṣaḥ । evamabhedītyatrāpi vijñeyam ।

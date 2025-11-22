@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1259 | label: meter | g:0.25 m:0.75 ---
+
+śannodevīti mantreṇa uttarasyāṃ caturthakam ।
+pūrve ambudavatkāryā āgnoyyāṃ dhūmarūpiṇī ।।

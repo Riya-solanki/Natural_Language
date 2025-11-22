@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 908 | label: meter | g:0.25 m:0.5 ---
+
+ādhārākhyāṃ mahādeva tataḥ kūrmaṃ samarcayet ।
+anantaṃ pṛthivīṃ paścāddharmajñāne tato acayet ।।

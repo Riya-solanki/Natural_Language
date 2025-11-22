@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 719 | label: meter | g:0.139 m:1.0 ---
+
+śramād, yathā-
+kevalaṃ priyatamā-dayālunā
+jyotiṣām avanatāsu paṅktiṣu ।
+tena tat-parigṛhīta-vakṣasā
+netra-mīlana-kutūhalaṃ kṛtam ।।

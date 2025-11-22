@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 414 | label: meter | g:0.306 m:0.625 ---
+
+sarpirdadhi samāsādya nāgānāṃ tīrthamuttamam ।
+tatra snānaṃ naraḥ kṛtvā mukto nāgabhayād bhavet ।।

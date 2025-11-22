@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 10 | label: grammar | g:0.646 m:0.5 ---
+
+dhruvaṃ kaścit sarvaṃ sakalam aparas tv adhruvam idaṃ paro dhrauvyādhrauvye jagati gadati vyastaviṣaye ।
+samaste apy etasmin puramathana tair vismita iva stuvañ jihremi tvāṃ na khalu nanu dhṛṣṭā mukharatā ।।

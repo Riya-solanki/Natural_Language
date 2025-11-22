@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 215 | label: meter | g:0.365 m:0.606 ---
+
+naiṣa doṣaḥ ।
+anāditvātsaṃsārasya ।
+bhavedeṣa doṣo yadyādimānsaṃsāraḥ syāt ।
+anādau tu saṃsāre bījāṅ kuravaddhetumadbhāvena karmaṇaḥ sargavaiṣamyasya ca pravṛttirna virudhyate ।।

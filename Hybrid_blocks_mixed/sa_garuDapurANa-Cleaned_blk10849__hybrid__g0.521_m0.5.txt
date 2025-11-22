@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10849 | label: hybrid | g:0.521 m:0.5 ---
+
+sūpasya sāraṃ paramānnasya sāraṃ dugdhasya sāraṃ dadhitakrasya sāram ।
+ghṛtasya sāraṃ rāmaṭhasyāpi sāraṃ gṛhṇāti viṣṇuḥ sarṣapasyāpi sāram ।।

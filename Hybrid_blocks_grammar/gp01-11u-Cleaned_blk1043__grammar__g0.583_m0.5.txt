@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1043 | label: grammar | g:0.583 m:0.5 ---
+
+[] rāmaḥ saharṣam uvāca-dviṣantapa, sacchalam etaṃ sacchalam eva mandaṃ mandam abhyavaskanda ।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 319 | label: grammar | g:0.75 m:0.5 ---
+
+-adhikāraḥ-phalasaṃbandhabodhanaṃ, viniyogaḥ-kriyāyāḥ phalaśeṣatvajñāpanaṃ, prayogaḥ-anuṣṭhāpanaṃ, utpattiḥ-karmasvarūpajñānam । eteṣāṃ hi parasparamavinābhāvo asti, yasmāt phalasaṃbandhaḥ kriyāyāḥ śeṣatvamantareṇa na saṃbhavati, śeṣatvaṃ ca nānuṣṭhānamantarā, tacca nājñānata iti । siddhaṃ cetpuṃvyāpārānapekṣaṃ phalamārabheta sadārabhetetyasaṃbhavasteṣāmityarthaḥ ।

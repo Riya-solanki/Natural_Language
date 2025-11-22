@@ -1,0 +1,5 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 137 | label: meter | g:0.25 m:0.5 ---
+
+purā svargeṣu śakreṇa ahorātravrataṃ kṛtam ।
+sa ṣaṭpāramitāṃ dhārya caityarājam apūjayat ।
+pradakṣiṇāṃ sadā kṛtvā yathāvidhi mahotsavaiḥ ।।

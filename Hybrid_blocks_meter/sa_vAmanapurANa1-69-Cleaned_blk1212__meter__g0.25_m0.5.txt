@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1212 | label: meter | g:0.25 m:0.5 ---
+
+tāvāpatantau devyā tu huṅkāreṇātha bhasmasāt ।
+kṛtāvatha gajendreṇa gṛhīto madhyato hariḥ ।।

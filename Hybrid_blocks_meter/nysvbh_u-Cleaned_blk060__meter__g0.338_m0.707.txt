@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 60 | label: meter | g:0.338 m:0.707 ---
+
+vyavahārāya kalpet।
+na cāpratīyamānena vyavahāraḥ।
+tasmājjñeyasyārthasya saṃjñāśabdenetikaraṇayuktena nirddhiśyaterūpamiti jñānam, rasa iti vā jñānamiti।
+tadevamarthajñānakāle sa na samākhyāśabdo vyāpriyate, vyavahārakāle tu vyāpriyate।
+tasmādaśābdam arthajñānamindriyārthasannikarṣotpannamiti।।

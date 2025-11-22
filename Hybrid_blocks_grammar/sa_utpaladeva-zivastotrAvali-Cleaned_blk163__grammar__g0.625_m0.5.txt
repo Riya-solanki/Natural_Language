@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 163 | label: grammar | g:0.625 m:0.5 ---
+
+vikasatu svavapur bhavadātmakaṃ samupayāntu jaganti mamāṅgatām vrajatu sarvam idaṃ dvayavalgitaṃ smṛtipathopagame apy anupākhyatām ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2973 | label: hybrid | g:0.542 m:0.5 ---
+
+śaktiṃ saghaṇṭāṃ kṛtaniḥsvanāṃ vai dṛṣṭvā patantīṃ gadayā jaghāna ।
+gadāṃ ca kṛtvā sahasaiva bhasmasād bibheda jambhaṃ hṛdaye ca tūrṇam ।।

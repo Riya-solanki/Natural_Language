@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2550 | label: meter | g:0.31 m:0.852 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+pṛṣṭaḥ kraiñcukinovāca mārkaṇḍeyaḥ punaśca tam ।
+sa tena pitṛvākyane bhṛśamudvagnamānasaḥ ।।

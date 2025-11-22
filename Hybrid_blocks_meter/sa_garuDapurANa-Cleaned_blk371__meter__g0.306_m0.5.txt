@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 371 | label: meter | g:0.306 m:0.5 ---
+
+pragṛhya rakṣa māṃ viṣṇo āgnyeyyāṃ rakṣa sūkara ।
+candrasūryaṃ samāgṛhya khaḍgaṃ cāndramasaṃ tathā ।।

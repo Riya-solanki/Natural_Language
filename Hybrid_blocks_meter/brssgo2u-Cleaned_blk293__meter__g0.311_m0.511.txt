@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 293 | label: meter | g:0.311 m:0.511 ---
+
+FN tvaḍyātrameva hi buddhīndriyamanekarūpādigrahaṇasamarthamekaṃ, sarmendriyāṇi pañca, saptamaṃ ca mana iti saptendriyāṇi ।
+jñānendriyāṇi pañca karmendriyāṇi pañca manaścetyekādaśa ।
+buddhirahaṅkāro mana iti trāṇi ।
+ekamiti buddhireva ।

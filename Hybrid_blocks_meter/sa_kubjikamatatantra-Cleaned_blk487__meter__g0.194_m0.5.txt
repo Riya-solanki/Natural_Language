@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 487 | label: meter | g:0.194 m:0.5 ---
+
+lakṣair viṃśati śudhyeta naktāśī tu jitendriyaḥ 
+bauddhārahantahantā ca dvijād dviguṇa śudhyati ।।

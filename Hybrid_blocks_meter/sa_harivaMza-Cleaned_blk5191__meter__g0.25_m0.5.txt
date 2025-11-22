@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5191 | label: meter | g:0.25 m:0.5 ---
+
+śatakratoḥ kalmaṣavipramokṣaṇaṃ paṭhan idam mucyati kalmaṣān naraḥ 
+tathaiva kāmān vividhān samaśnute samāptakāmaś ca cirāya nandati ।।

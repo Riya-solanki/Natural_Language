@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2175 | label: meter | g:0.25 m:0.625 ---
+
+ādau ṣoḍaśa pīṭhāni pīṭhe dvīpasamudbhavaḥ 
+tāni dvādaśadhā viddhi ekaikaṃ ca pṛthak pṛthak ।।

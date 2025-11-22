@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3269 | label: meter | g:0.25 m:0.625 ---
+
+trilokavijayākāran saṃsmaran puratastathā ।
+huṃ huṃ huṃ humiti procya siddhimāpnotyanuttarām ।।

@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 1000 | label: meter | g:0.251 m:0.871 ---
+
+sarpāvacchedohi tasya bhayakampādihetuḥ ।
+sa cāsanna nirvacanīya iti kuto vastusataḥ karyotpādaḥ ।
+naca kāryamamapi bhayakampādi vastusat ।
+tasyāpi vicārāsahatvenānirvācyatvāt ।
+anirvācyāccānirvācyotpattau nānupapattiḥ ।
+yādṛśo hi yakṣastādṛśo baliriti sarvamavadātam ।।

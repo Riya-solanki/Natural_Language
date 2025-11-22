@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3497 | label: hybrid | g:0.5 m:0.5 ---
+
+gṛhe cābhyantare dravyaṃ lagnaṃ caiva tu dṛśyate ।
+aśeṣaṃ haraṇīyaṃ ca vidyā na hriyate paraiḥ ।।

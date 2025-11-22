@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1163 | label: meter | g:0.194 m:0.875 ---
+
+yasmāt strīṇāṃ karakisalayaiḥ padmapattropamānaiḥ
+kiṃcitsthānaṃ kalitavalayaiś candanāśleṣaśītaiḥ ।
+spṛṣṭaḥ snehaślathamukulitātāmravṛttāṅgulīyair
+nidrāṃ prāpya vyajanapavanavyastamālopahāraḥ ।।

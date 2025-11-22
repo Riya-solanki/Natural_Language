@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2081 | label: meter | g:0.25 m:0.5 ---
+
+yo apy asau hayavikrānto hayagrīva iti smṛtaḥ 
+keśī nāma hayo jātaḥ sa tasyaiva jaghanyajaḥ ।।

@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 70 | label: grammar | g:0.75 m:0.5 ---
+
+[] anyac ca, yasya ca golokasya madhyam adhyāsya sphuṭatarāneka-sahasra-patrī-paricitam ajasram eva khalv amalaṃ mahā-maṇi-kamalaṃ gokula-nāmatayā nija-rūpaṃ nirūpayati, "go-gopāvāsa-vraja-rūpa-vraja evāham asmi" iti ।
+[] nyāya-vinyastam eva ca khalv idam, rūḍhir yogam apaharati iti । yathā jalaja-śabdenāpsavya-mātraṃ nocyate, kintu kamalam eva । rūḍhitām eva khalv ākhyā-grahaṇam
+āviṣkaroti । [] śrī-śuka-devenāpy etad-apekṣayoktaṃ, bhagavān gokuleśvaraḥ iti । varaṭ-pratyayaḥ khalv atra śīlārthatā-paraḥ । tad eva cāmnātaṃ gokulaṃ vana-vaikuṇṭham iti ।

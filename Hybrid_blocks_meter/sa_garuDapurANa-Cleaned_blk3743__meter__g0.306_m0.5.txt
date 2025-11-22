@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3743 | label: meter | g:0.306 m:0.5 ---
+
+divyastrīṇāṃ ca pūjādīndṛṣṭvā cāpyatha vismitaḥ ।
+sa tā gatvā yayāce annaṃ sānujo ahaṃ bubhukṣitaḥ ।।

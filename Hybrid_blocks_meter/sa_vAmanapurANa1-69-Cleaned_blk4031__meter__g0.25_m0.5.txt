@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4031 | label: meter | g:0.25 m:0.5 ---
+
+dharmādhyakṣa prajādhyakṣa lokādhyakṣa namo namaḥ ।
+senādhyakṣa namastubhyaṃ kālādhyakṣa namo namaḥ ।।

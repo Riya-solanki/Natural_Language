@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 227 | label: meter | g:0.139 m:1.0 ---
+
+jaladāravasya, yathā-
+manasvinīnāṃ manaso' pi mānas
+tathāpanīto ghana-garjitena ।
+yathopagūḍhāḥ prathitāgaso' pi
+kṣaṇaṃ vidagdhāḥ kupitā ivāsan ।।

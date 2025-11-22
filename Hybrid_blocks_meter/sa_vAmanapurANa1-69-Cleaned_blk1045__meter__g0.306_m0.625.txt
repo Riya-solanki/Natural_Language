@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1045 | label: meter | g:0.306 m:0.625 ---
+
+maheśvarasya hṛdaye dhattūraviṭapaḥ śubhaḥ ।
+saṃjātaḥ sa ca śarvasya patikṛt tasya nityaśaḥ ।।

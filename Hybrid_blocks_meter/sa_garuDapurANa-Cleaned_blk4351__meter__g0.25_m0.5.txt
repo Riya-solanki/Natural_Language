@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4351 | label: meter | g:0.25 m:0.5 ---
+
+kaphātsnigdhaṃ ghanaṃ pītaṃ śleṣmatastu samākṣikam ।
+madhuraṃ lavaṇaṃ bhūri prasaktaṃ lomaharṣaṇam ।।

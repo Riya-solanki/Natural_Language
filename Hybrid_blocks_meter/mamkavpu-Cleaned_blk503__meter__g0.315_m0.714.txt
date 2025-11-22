@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 503 | label: meter | g:0.315 m:0.714 ---
+
+{anaṅgamangalagṛhāpāṅgabhaṅgitaraṅgitaiḥ ।
+āliṅgitaḥ sa tanvaṅgyā kārtārthyaṃ labhate kadā ।।}

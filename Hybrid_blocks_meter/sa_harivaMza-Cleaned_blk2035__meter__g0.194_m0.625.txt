@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2035 | label: meter | g:0.194 m:0.625 ---
+
+tvayā sanāthā devāṃśās tvanmayās tvatpracoditāḥ 
+jagatyāṃ saṃtariṣyanti kāryāt kāryāntaraṃ gatāḥ ।।

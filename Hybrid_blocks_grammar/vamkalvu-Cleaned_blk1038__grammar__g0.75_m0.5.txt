@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 1038 | label: grammar | g:0.75 m:0.5 ---
+
+bruvaḥ pañcānāṃ ityādinā āheti laṭ vyutpāditaḥ । sa bhūte prayuktaḥ ityāha bhagavān prabhuḥ iti । anyasya bhūtakālābhidhāyino ṇalantasya liṭi bhramāt । nipuṇāścaivaṃ prayujyate । āha sma smitamadhumadhurākṣarāṃ giram iti । anukaroti bhagavato nārāyaṇasya ityatrāpi manyesmaśabdaḥ kavinā prayukto lekhakaistu pramādānna likhita iti ।।

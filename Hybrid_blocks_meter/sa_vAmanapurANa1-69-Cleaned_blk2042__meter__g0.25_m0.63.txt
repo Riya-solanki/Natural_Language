@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2042 | label: meter | g:0.25 m:0.63 ---
+
+pulastya uvāca ।
+āsīnnṛpo raghukule ripujinmaharṣe tasyātmajo gumagaṇaikanirdhirmahātmā ।
+sūro asainyadamano balavān suhṛtsu viprāndhadīnakṛpaṇeṣu samānabhāvaḥ ।।

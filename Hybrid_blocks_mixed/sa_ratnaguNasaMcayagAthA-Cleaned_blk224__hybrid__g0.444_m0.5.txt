@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 224 | label: hybrid | g:0.444 m:0.5 ---
+
+tasmā hu mānu nihanitvana paṇḍitena guruāśayena varabodhi gaveṣamāṇaḥ 
+vaidyo va ātura svarogacikitsanārthaṃ kalyāṇamitra bhajitavya atandritena ।।

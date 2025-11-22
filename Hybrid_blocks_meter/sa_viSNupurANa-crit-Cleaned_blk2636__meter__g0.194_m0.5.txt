@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2636 | label: meter | g:0.194 m:0.5 ---
+
+sarve caite vaśaṃ yānti yamasya bhagavan kila 
+āyuṣo ante tato yānti yātanās tatpracoditāḥ ।।

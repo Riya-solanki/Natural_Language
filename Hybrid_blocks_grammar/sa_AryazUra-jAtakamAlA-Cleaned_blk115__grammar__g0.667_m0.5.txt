@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 115 | label: grammar | g:0.667 m:0.5 ---
+
+śakra uvāca - alamalamanena te vyavasāyena । satpuruṣā evedṛśānyanuprāpnuvanti । api ca pṛcchāmi tāvad bhavantam ।

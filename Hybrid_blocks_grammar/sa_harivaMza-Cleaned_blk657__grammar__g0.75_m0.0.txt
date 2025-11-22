@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 657 | label: grammar | g:0.75 m:0.0 ---
+
+evaṃ dharme ca te buddhir bhaviṣyati punaḥ punaḥ 
+yogadharme ca nirataḥ prāpsyase siddhim uttamām ।। 
+yogo hi durlabho nityam alpaprajñaiḥ kadācana । labdhvāpi nāśayanty enaṃ vyasanaiḥ kaṭutāmitāḥ ।। adharmeṣv eva vartante ardayante guruṃ sadā । yācante na tv ayācyāni rakṣanti śaraṇāgatān । nāvamanyanti kṛpaṇān mādyante na dhanoṣmaṇā । yuktāhāravihārāś ca yuktaceṣṭāḥ svakarmasu । dhyānādhyayanayuktāś ca na naṣṭānugaveṣiṇaḥ ।। nopabhogaratā nityaṃ na māṃsamadhubhakṣaṇāḥ । na kāmaparamā nityaṃ na viprasevinas tathā ।। nānāryasaṃkathāsaktā nālasyopahatās tathā । nātyantamānasaṃsaktā goṣṭhīṣu niratās tathā । prāpnuvanti narā yogaṃ yogo vai durlabho bhuvi ।। praśāntāś ca jitakrodhā mānāhaṃkāravarjitāḥ । kalyāṇabhājanaṃ ye tu te bhavanti yatavratāḥ ।। evaṃvidhās tu te tāta brāhmaṇā hy abhavaṃs tadā । smaranti hy ātmano doṣaṃ pramādakṛtam eva tu । dhyānādhyayanayuktāś ca śānte vartmani saṃsthitāḥ । śāntiṃ te paramām āśu labhante nātra saṃśayaḥ । tasmāt tvam api dharmajña yogadharmaparo bhava । 
+yogadharmād dhi dharmajña na dharmo asti viśeṣavān 
+variṣṭhaṃ sarvadharmāṇāṃ taṃ samācara bhārgava ।।

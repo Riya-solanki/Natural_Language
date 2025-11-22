@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7928 | label: meter | g:0.25 m:0.831 ---
+
+vasiṣṭha uvāca ।
+tasmādrājan vṛṣotsargaṃ variṣṭhaṃ sarvakarmaṇām ।
+samācara vidhānena yadi bhīto yamādapi ।।

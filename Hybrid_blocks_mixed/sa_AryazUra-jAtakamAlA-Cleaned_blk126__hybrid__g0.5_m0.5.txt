@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 126 | label: hybrid | g:0.5 m:0.5 ---
+
+aho bataudāryamaho kṛpālutā viśuddhatā paśya yathāsya cetasaḥ ।
+aho svasaukhyeṣu nirutsukā matirnamo astu te abhyudgatadhairyavikrama ।।

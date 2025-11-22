@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 714 | label: meter | g:0.302 m:0.806 ---
+
+kūṭasabhyāstvaśaucāśca nityanaimittanāśakāḥ ।
+kūṭasākṣyapradā ye ca te mahāraurave sthitāḥ ।।

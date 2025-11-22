@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 895 | label: hybrid | g:0.299 m:0.49 ---
+
+parasya kāyaṃ badhnāti tejasā vacasā manaḥ ।
+śaktaḥ śaktaś ca so' yaṃ yas tasya bhaktaḥ kathaṃ na kaḥ? ।। [anuṣṭubh]

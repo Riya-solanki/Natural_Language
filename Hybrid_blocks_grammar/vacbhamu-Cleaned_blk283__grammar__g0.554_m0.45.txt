@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 283 | label: grammar | g:0.554 m:0.45 ---
+
+syādetat ।
+mānāntarogocaratvenāgṛhītasaṃgatitayā apadārthasya brahmaṇo vākyārthatvānupapatteḥ kathamupaniṣadarthatetyata āha- sa eṣa neti netyātmetyātmaśabdāt ।
+yadyapi gavādivanmānāntaragocaratvamātmano nāsti, tathāpi prakāśātmana eva satastattadupādhiparihāṇyā śakyaṃ vākyārthatvena nirūpaṇam, hāṭakasyeva kaṭakakuṇḍalādiparihāṇyā ।
+na hi prakāśaḥ svasaṃvedano na bhāsate; nāpi tadavacchedakaḥ kāryakaraṇasaṃghātaḥ ।
+tena asa ena neti netyātmā' iti tattadavacchedaparihāṇyā bṛhattvādāpanācca svayaṃprakāśaḥ śakyo vākyāt brahmeti cātmeti ca nirūpayitumityarthaḥ ।

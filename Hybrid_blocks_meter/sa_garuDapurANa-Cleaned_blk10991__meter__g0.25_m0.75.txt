@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10991 | label: meter | g:0.25 m:0.75 ---
+
+satyameva na saṃdeho nityānandasukhādiṣu ।
+evameva vijānīyānnānyathā tu kathañcana ।।

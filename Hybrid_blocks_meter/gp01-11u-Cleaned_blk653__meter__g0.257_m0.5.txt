@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 653 | label: meter | g:0.257 m:0.5 ---
+
+[] tad etad āśrutya gargaḥ sa-gadgadaṃ jagāda-
+"yan-manā bhikṣur āyātas tad dātā ditsati svayam ।
+tadā bhāgyaṃ kiyad varṇyaṃ bhikṣor dātuś ca kauśalam? ।। [anuṣṭubh]

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1094 | label: grammar | g:0.635 m:0.5 ---
+
+utkrāntaṃ girikūṭalaṅghanasahaṃ te vajrasārā nakhās tat tejaś ca tad ūrjitaṃ sa ca nagonmāthī ninādo mahān ।
+ālasyād avimuñcatā giriguhāṃ siṃhena nidrālunā sarvaṃ viśvajayaikasādhanam idaṃ labdhaṃ na kiṃcit kṛtam ।।

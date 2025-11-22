@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7042 | label: meter | g:0.25 m:0.75 ---
+
+dhyāyedurasi saṃyuktamoṅkāraṃ muktisādhakam ।
+dhyāyanyadi tyajetprāṇānyāti brahma svasannidhim ।।

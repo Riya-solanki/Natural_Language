@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 134 | label: hybrid | g:0.506 m:0.422 ---
+
+atra tvaṃ na jānāsīti vaktavye vaicitryāya devo na jānātītyuktam ।
+evaṃ yuṣmadādivaparyāsaḥ kriyāpadaṃ vinā prātipadikamātre api dṛśyate ।
+yathā

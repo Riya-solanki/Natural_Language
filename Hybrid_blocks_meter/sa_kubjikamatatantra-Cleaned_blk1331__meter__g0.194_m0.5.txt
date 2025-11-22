@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1331 | label: meter | g:0.194 m:0.5 ---
+
+yad etat paramaṃ bījaṃ haṃsākhyaṃ hṛdi saṃsthitam 
+vinā tenopalabdhiṃ ca na jānāti kadācana ।।

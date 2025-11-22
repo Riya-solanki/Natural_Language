@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4165 | label: meter | g:0.246 m:0.806 ---
+
+vāmano rakṣatu sadā bhavantaṃ yaḥ kṣaṇād abhūt 
+trivikramakramākrāntatrailokyaḥ sphuradāyudhaḥ ।।

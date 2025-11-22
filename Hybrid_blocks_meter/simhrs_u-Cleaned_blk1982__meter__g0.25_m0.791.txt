@@ -1,0 +1,40 @@
+--- source: simhrs_u-Cleaned.txt | block: 1982 | label: meter | g:0.25 m:0.791 ---
+
+atha nāma-paribhāṣā-
+anukta-nāmnaḥ prakhyāte kañcuki-prabhṛter api । 
+itivṛtte kalpite tu nāyakāder api sphuṭam ।।
+rasa-vastūpayogīni kavir nāmāni kalpayet । 
+vinayandhara-bābhravya-jayandhara-jayādikam ।।
+kāryaṃ kañcukināṃ nāma prāyo viśvāsa-sūcakam । 
+latālaṅkāra-puṣpādi-vastūnāṃ lalitātmanām ।।
+nāmabhir guṇa-siddhair ceṭīnāṃ nāma kalpayet । 
+karabhaḥ kalahaṃsaś cety ādi nāmānujīvinām ।।
+karpūra-caṇḍa-kāmpilyety ādikaṃ nāma vandinām । 
+subuddhi-vasubhūtyādi-mantriṇāṃ nāma kalpayet ।।
+devarātaḥ somarāta iti nāma purodhasaḥ । 
+śrīvatso gautamaḥ kautso gārgyo maudgalya ity api ।।
+vasantakaḥ kāpileya ity ākhyeyo vidūṣakaḥ । 
+pratāpa-vīra-vijaya-māna-vikrama-sāhasaiḥ ।।
+vasanta-bhūṣaṇottaṃsa-śekharāṅka-padottaraiḥ । 
+dhīrottarāṇāṃ netṝṇāṃ nāma kurvīta kovidaḥ ।।
+candrāpīḍaḥ kāmapāla ity ādyaṃ lalitātmanām । 
+ugravarmā caṇḍasena ity ādy-uddhata-cetasām ।।
+datta-senānta-nāmāni vaiśyānāṃ kalpayet sudhīḥ । 
+karpūra-mañjarī candralekhā rāgataraṅgikā ।।
+padmāvatīti prāyeṇa nāmnā vācyā hi nāyikā । 
+devyas tu dhāriṇī-lakṣmī-vasumatyādi-nāmabhiḥ ।।
+bhogavatī kāntimatī kamalā kāmavallarī । 
+irāvatī haṃsapadīty ādi-nāmnā tu bhoginī ।।
+viprakṣatra-viśaḥ śarma-varma-dattānta-nāmabhiḥ । 
+śikhaṇḍāṅgada-cūḍānta-nāmnā vidyādharādhipāḥ ।।
+kuṇḍalānanda-ghaṇṭānta-nāmnā kāpālikā janāḥ । 
+yogasundarikā vaṃśaprabhā vikaṭamudrikā ।।
+śaṅkha-keyūrikety ādi-nāmnā kāpālika-striyaḥ । 
+ānandinī siddhimatī śrīmatī sarvamaṅgalā ।।
+yaśovatī putravatīty ādi-nāmnā suvāsinī । 
+ity ādi sarvam ālocya lakṣaṇaṃ kṛta-buddhinā ।।
+kavinā kalpitaṃ kāvyam ācandrārkaṃ prakāśate । 
+lakṣya-lakṣaṇa-nirmāṇa-vijñāna-kṛta-buddhibhiḥ ।।
+parīkṣyatām ayaṃ grantho vimatsara-manīṣayā । 
+bharatāgama-pārīṇaḥ śrīmān siṃha-mahīpatiḥ ।
+rasikaḥ kṛtavān evaṃ rasārṇava-sudhākaram ।।

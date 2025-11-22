@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 560 | label: meter | g:0.194 m:1.0 ---
+
+vyākuryācchivabhaktebhyas tantrārthaṃ gatamatsaraḥ 
+nyāyato nyāyavartibhyaḥ pālayan gurusantatim ।।

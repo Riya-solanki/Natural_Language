@@ -1,0 +1,10 @@
+--- source: simhrs_u-Cleaned.txt | block: 1195 | label: meter | g:0.25 m:0.521 ---
+
+pradhānam aṅgam iti ca tad vastu dvividhaṃ punaḥ । 
+pradhānaṃ netṛ-caritaṃ pradhāna-phala-bandhi ca ।।
+kāvye vyāpi pradhānaṃ tad yathā rāmādi-ceṣṭitam । 
+nāyakārtha-kṛd-aṅgaṃ syān nāyaketara-ceṣṭitam ।।
+nityaṃ patākā prakarī cāṅgaṃ bījādayaḥ kvacit । 
+bījatvād bījam ādau syāt phalatvāt kāryam antataḥ ।।
+tayoḥ sandhān a-hetutvān madhye binduṃ prakalpayet । 
+yathāyogaṃ patākāyāḥ prakaryāś ca niyojanam ।।

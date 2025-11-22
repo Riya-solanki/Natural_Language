@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7215 | label: meter | g:0.25 m:0.729 ---
+
+tadahaṃ kṛṣṇagaruḍasaṃvādadvārakaṃ dvijāḥ ।
+apākariṣye sandehaṃ bhavatāṃ bhāvitātmanām ।।
+namaḥ kṛṣṇāya munaye ya enaṃ samupāśritāḥ ।
+añjastaranti saṃsārasāgaraṃ kunadīmiva ।।

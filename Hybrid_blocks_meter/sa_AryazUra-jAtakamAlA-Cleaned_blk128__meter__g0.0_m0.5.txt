@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 128 | label: meter | g:0.0 m:0.5 ---
+
+atha śakraḥ sādhu sādhvityenamabhisaṃrādhya punaruvāca -

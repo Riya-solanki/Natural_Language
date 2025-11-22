@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11100 | label: hybrid | g:0.51 m:0.5 ---
+
+maddarśanaṃ sarvadā pāpuyuktaṃ tathā madvāk sarvadā pāpayuktā ।
+maddarśanaṃ sarvadā strīṣu saktamabhūcca te darśanaṃ me hyasaktam ।।

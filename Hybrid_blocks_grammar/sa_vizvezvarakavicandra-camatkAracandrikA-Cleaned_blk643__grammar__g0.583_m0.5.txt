@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 643 | label: grammar | g:0.583 m:0.5 ---
+
+atra nāyakacaritānyevaṃ bhūtāni pracānāṃ prāgasataḥ santoṣasya pravartanakriyāyāmāviṣṭānīti kriyāviṣṭo ayaṃ pravartakaḥ kārakahetuḥ ।

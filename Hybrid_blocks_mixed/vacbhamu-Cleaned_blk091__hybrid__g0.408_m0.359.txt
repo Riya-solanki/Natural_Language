@@ -1,0 +1,13 @@
+--- source: vacbhamu-Cleaned.txt | block: 91 | label: hybrid | g:0.408 m:0.359 ---
+
+prakṛtamupasaṃharati- asyānarthahetoḥ prahāṇāya ।
+virodhipratyayaṃ vinā kuto asya prahāṇamityaya uktam- ātmaikatvavidyāpratipattaye ।
+pratipattiḥ prāptiḥ, tasyai, na tu japamātrāya, nāpi karmasu pravṛttaye ।
+ātmaikatvaṃ vigalitanikhilaprapañcatvam ānandarūpasya sataḥ ।
+tatpratipattiṃ nirvicikitsāṃ bhāvayanto vedāntāḥ samūlaghātamadhyāsamupaghnanti ।
+etaduktaṃ bhavati- asmatpratyayasyātmaviṣayasya samīcīnatve sati brahmaṇo jñātatvāt niṣprayojanatvācca na jijñāsā syāt; tadabhāve ca na brahmajñānāya vedāntāḥ paṭhyeran; api tu avivakṣitārthā japamātre upayujyeran ।
+na hi tadaupaniṣadātmapratyayaḥ pramāṇatāmaśnute ।
+na cāsāvapramāṇamabhyasto api vāstavaṃ kartṛtvabhoktṛtvādyātmano apanetumarhati ।
+āropitaṃ hi rūpaṃ tattvajñānenāpodyate, na tu vāstavamatattvajñānena ।
+na hi rajjvā rajjutvaṃ sahasramapi sarpadhārāpratyayā apavaditumutsahante ।
+mithyājñānaprasañjitaṃ tu rūpaṃ śakyaṃ tattvajñānena apavaditum, mithyājñānasaṃskāraśca sudṛḍho api tattvajñānasaṃskāreṇādaranairantaryadīrdhakālāsevitatattvajñānābhyāsajanmaneti ।

@@ -1,0 +1,4 @@
+--- source: kamasufu-Cleaned.txt | block: 9 | label: meter | g:0.096 m:0.692 ---
+
+nāgaraka-vṛtta-nāmakaḥ caturtho adhyāyaḥ
+prakaraṇa

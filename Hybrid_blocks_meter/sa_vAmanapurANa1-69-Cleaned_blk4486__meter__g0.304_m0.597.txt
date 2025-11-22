@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4486 | label: meter | g:0.304 m:0.597 ---
+
+baliruvāca ।
+bhavatā kathitaṃ sarvaṃ samārādhya janārdanam ।
+yā gatiḥ prāpyate loke tāṃ me vaktumihārhasi ।।

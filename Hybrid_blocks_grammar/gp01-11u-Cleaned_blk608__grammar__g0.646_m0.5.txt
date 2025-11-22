@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 608 | label: grammar | g:0.646 m:0.5 ---
+
+[] tad evaṃ vṛtte tad-dine' pi pūrvavad eva kathā rakṣitā yathāyatham api svāvasathādi-pathānugatir ācaritā ।

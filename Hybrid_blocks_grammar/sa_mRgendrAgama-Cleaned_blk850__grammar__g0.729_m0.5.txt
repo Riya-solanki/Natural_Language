@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 850 | label: grammar | g:0.729 m:0.5 ---
+
+[nirmālyasamparke] nirmālyasāṅkarye sati [sarvabrahmāṇi lakṣaśo japed] brahmamantrāḥ pratyekaṃ lakṣaśo japyāḥ। [nirmālyabhojane] sākṣāttu tadbhojane [samagrasaṃhitālakṣaṃ japet] sādhyamantrasaṃhitāyāḥ śivaikādaśinyā ekaikamantralakṣaṃ japet।।

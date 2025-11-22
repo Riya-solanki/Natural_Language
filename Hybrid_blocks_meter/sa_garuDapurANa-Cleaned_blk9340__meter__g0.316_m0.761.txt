@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9340 | label: meter | g:0.316 m:0.761 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+śṛṇu tārkṣya yathānyāyaṃ dharmādharmsya lakṣaṇam ।
+sukṛtaṃ duṣkṛtaṃ nṝṇāmagre dhāvati dhāvatām ।।

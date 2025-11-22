@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 497 | label: grammar | g:0.523 m:0.288 ---
+
+[] atha sa-tṛṣṇaḥ śrī-kṛṣṇas tu rādhā-cibukaṃ kareṇādareṇa darāpy unnamya smita-ramyam idam āha sma-
+tad-vaktraṃ yadi ko vidhuḥ smita-kalā sā cet prabhā niṣprabhās
+te dambhā yadi bhāni dhig yadi ca te netre cakorair alam । itthaṃ sarvajanād asau saha-gaṇaṃ svaṃ praty avajñā-vacas
+tvat-prāśastya-mayaṃ niśamya hṛdaye rādhe muhur mlāyati ।।[] atha purataś calitvā kramataḥ sarva-pathīnābhiḥ sarvādhvanīnābhiḥ sarvāṅgīna-kamprābhiḥ sarvābhir militvā vidhu-vidhūta-tamasi yaminyāṃ sa-parvataḥ parvata-rājam anu ṛtu-rāja-virājamāna-kānana-gataṃ sarvato' py adhika-vilāsa-vitataṃ rāsam ullāsayāmāsa ।

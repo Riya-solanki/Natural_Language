@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1889 | label: meter | g:0.194 m:0.625 ---
+
+caturguṇottare cordhvaṃ janalokāt tapaḥ smṛtaḥ 
+vairājā yatra te devāḥ sthitā dāhavivarjitāḥ ।।

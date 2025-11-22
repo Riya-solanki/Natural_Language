@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11916 | label: meter | g:0.25 m:0.5 ---
+
+dhūrpairdīpairbhakṣyabhojyaiśca puṣpaiḥ pūjāṃ kṛtvā vidyamānaśca gehe ।
+yadā tadā yamadūtaiśca baddhvā saṃtāḍyamāne veṇupāśādibhiśca ।।

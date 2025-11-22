@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3574 | label: meter | g:0.25 m:0.625 ---
+
+mudrāmekatarāṃ badhvā yathāvadvidhinā manaḥ ।
+kṛtvā nirīkṣellokaṃ tu sarvaṃ jñeyaṃ yathoparī- ।।

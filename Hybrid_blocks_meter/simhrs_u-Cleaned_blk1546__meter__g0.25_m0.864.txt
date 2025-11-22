@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1546 | label: meter | g:0.25 m:0.864 ---
+
+aśastra-pātam avyāja-puruṣāṅgopakalpitam ।
+vikrīyate mahā-māṃsaṃ gṛhyatāṃ gṛhyatām idam ।। 
+sva-śastra-pūta-nirvyāja-puruṣāṅgopakalpitam iti mudrita-mālatī-mādhava-pāṭhaḥ ।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1588 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ jighāṃsumapyāpadgatamanukampanta eva mahākārūṇikā nopekṣanta iti karuṇāvarṇe api vācyam । tathāgatamahātmye satkṛtya dharmaśravaṇe । avaireṇa vairapraśamananidarśane ca kṣāntikathāyāmapyupaneyam । evaṃ tiryaggatānāmapi mahātmanāṃ vadhakeṣvapi sānukrodhā pravṛttirdṛṣṭā । ko manuṣyabhūtaḥ pravrajitapratijño vā sattveṣvanukrośavikalaṃ śobheteti prāṇiṣu sānukrośenāryeṇa bhavitavyam ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9306 | label: meter | g:0.25 m:0.5 ---
+
+kṣudhayā pīḍito yāti tṛṣṇayā ca mahāpathe ।
+śītena kampate kvāpi yamamārge atidurgame ।।

@@ -1,0 +1,6 @@
+--- source: cakbhavu-Cleaned.txt | block: 8 | label: meter | g:0.056 m:0.521 ---
+
+Q kālaḥ kālena kālyaś cet kālaḥ kālyeta kena vā
+akālya eva kālaś cet kālya eva tathāḷna kim
+mṛtyuḥ sphuratprakāśāntarnigīrṇo nigiret katham
+asphurann aprakāśatvān nāntargrāhyo athavā na kim

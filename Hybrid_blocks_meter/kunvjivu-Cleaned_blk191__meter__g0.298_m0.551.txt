@@ -1,0 +1,9 @@
+--- source: kunvjivu-Cleaned.txt | block: 191 | label: meter | g:0.298 m:0.551 ---
+
+evaṃ vidhaṃ vastu ābhijātyaṃ pracakṣate ābhijātyābhidhānaṃ guṇaṃ varṇayanti ।
+śrutiḥ śravaṇendriyaṃ tatra peśalatā rāmaṇīyakaṃ tena śālate ślāghate yattathoktam ।
+suraparśamiva cetasā manasā susparśamiva ।
+sukhena spṛśyata ivetyatiśayoktiriyam ।
+yasmādubhayamapi sparśayogyatve sati saukumāryāt kimapi cetasi sparśasukhamarpayatīva ।
+yataḥ svabhāvamasṛṇacchāyam ahāryaślakṣṇakānti yattad ābhijātyaṃ kathayantītyarthaḥ ।
+yathā

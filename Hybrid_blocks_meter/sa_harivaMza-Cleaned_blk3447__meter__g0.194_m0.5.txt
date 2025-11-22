@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3447 | label: meter | g:0.194 m:0.5 ---
+
+kaṃsasya hi vadhaḥ śreyān prāg evābhimato mama 
+sutām udvejanīyasya pāpeṣv abhiratasya ca ।।

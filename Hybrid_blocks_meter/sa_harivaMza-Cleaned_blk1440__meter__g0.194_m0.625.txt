@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1440 | label: meter | g:0.194 m:0.625 ---
+
+te vadhyamānā vimukhāḥ kṣīṇapraharaṇā raṇe 
+trātāraṃ manasā jagmur devaṃ nārāyaṇaṃ prabhum ।।

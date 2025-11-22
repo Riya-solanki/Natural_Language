@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 100 | label: meter | g:0.056 m:0.625 ---
+
+mahābhāgā yuṣman-milanam abhavan naḥ śubha-kṛte
+tataḥ pṛcchāmy atrāgamanam idam avyāhatam iti ।
+tad etāvat-kleśād abhigamanataḥ saṅkucita-dhīḥ
+sa bhūyaḥ sampṛcche bhavad-abhimataṃ kiṃ nu karavai? ।। [śikhariṇī]

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 439 | label: meter | g:0.25 m:0.5 ---
+
+pūrva-sthito vipadyeta nāyako yatra cāparas tiṣṭhet । 
+tam apīha narma-garbhaṃ pravadati bharato hi nāṭya-veda-guruḥ ।। athā-
+mayena nirmitāṃ laṅkāṃ labdhvā mandodarīm api ।
+reme mūrtāṃ daśagrīva-lakṣmīm iva vibhīṣaṇaḥ ।।

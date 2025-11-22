@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3623 | label: meter | g:0.194 m:0.625 ---
+
+tau prajahrur anyonyaṃ gadāyuddhaviśāradau 
+dantābhyām iva mātaṅgau nādayantau diśo daśa ।।

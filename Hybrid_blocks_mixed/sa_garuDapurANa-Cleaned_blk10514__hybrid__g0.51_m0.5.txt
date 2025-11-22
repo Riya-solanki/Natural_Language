@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10514 | label: hybrid | g:0.51 m:0.5 ---
+
+traiguṇyaśūnyamakhileṣu ca saṃvibhaktaṃ tatra praviśya bhagavanna hi paśyatīva ।
+ato marārestava sadguṇāṃśca stotuṃ na śakromi marīcetulyaḥ ।।

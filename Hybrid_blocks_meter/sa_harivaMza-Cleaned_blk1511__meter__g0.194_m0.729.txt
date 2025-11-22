@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1511 | label: meter | g:0.194 m:0.729 ---
+
+yakṣarākṣasasainyena guhyakānāṃ gaṇair api 
+maṇiśyāmottamavapuḥ kubero naravāhanaḥ । 
+yuktaś ca śaṅkhapadmābhyāṃ nidhīnām adhipaḥ prabhuḥ 
+rājarājeśvaraḥ śrīmān gadāpāṇir adṛśyata ।।

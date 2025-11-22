@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2639 | label: meter | g:0.25 m:0.625 ---
+
+tasmāt sarāṣṭraḥ sabalaḥ sabhṛtyo vāhanaiḥ saha ।
+saptarātrāntarād bhasma grāvavṛṣṭyā bhaviṣyati ।।

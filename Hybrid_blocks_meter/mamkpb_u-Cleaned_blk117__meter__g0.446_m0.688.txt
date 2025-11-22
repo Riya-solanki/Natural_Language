@@ -1,0 +1,4 @@
+--- source: mamkpb_u-Cleaned.txt | block: 117 | label: meter | g:0.446 m:0.688 ---
+
+nirvedaglāniśaṅkākhyāstathāsūyāmadaśramāḥ ।
+ālasyaṃ caiva dainya ca cintā mohaḥ smṛtirdhṛtiḥ ।।

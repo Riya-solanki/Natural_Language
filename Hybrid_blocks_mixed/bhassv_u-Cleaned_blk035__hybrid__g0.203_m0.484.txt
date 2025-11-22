@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 35 | label: hybrid | g:0.203 m:0.484 ---
+
+{tāpasī} - arhā khu iaṃ āidī imassa bahumāṇassa 
+ubhaāṇi rāauḷāṇi mahattarāṇi tti suṇīadi 
+[arhā khalv iyam ākṛtir asya bahumānasya । ubhe rājakule mahattare iti śrūyate । ]

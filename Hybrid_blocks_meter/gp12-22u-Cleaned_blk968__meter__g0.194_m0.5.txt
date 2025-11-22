@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 968 | label: meter | g:0.194 m:0.5 ---
+
+upalabhya ca saurabhyam alabhyasya sutasya saḥ ।
+abhyāyayau bahir-vṛttiṃ sabhyānāṃ vismayaṃ vahan ।। [anuṣṭubh]

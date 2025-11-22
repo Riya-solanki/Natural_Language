@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 290 | label: meter | g:0.25 m:1.0 ---
+
+deśakāle kalālokanyāyāgamavirodhi yat ।
+sāhityaprāṇasārajñaiḥ tadviruddhamitīritam ।।

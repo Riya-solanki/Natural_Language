@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2467 | label: meter | g:0.25 m:1.0 ---
+
+hradaśātodarākrāntāṃ tritaraṃgavalīdharām 
+cakravākastanataṭāṃ tīrapārśvāyatānanām ।। 
+mīnākṣicapalāṃ kāntāṃ kāntaśaivalamūrdhajām । 
+phenaprahṛṣṭadaśanāṃ prasannāṃ haṃsahāsinīm 
+rucirotpalapatrākṣīṃ natabhrūṃ jalajekṣaṇām ।।

@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1039 | label: meter | g:0.25 m:1.0 ---
+
+kaiścideṣā samāsoktiḥ sahoktiḥ kaiściducyate ।
+arthānvayātsā vidvadbhiranyairanyatvametayoḥ ।।

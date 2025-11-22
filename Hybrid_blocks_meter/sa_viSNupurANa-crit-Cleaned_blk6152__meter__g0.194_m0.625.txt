@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6152 | label: meter | g:0.194 m:0.625 ---
+
+ṛgyajuḥsāmabhir mārgaiḥ pravṛttair ijyate hy asau 
+yajñeśvaro yajñapumān puruṣaiḥ puruṣottamaḥ ।।

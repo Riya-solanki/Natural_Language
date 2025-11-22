@@ -1,0 +1,10 @@
+--- source: brssbh1u-Cleaned.txt | block: 573 | label: grammar | g:0.534 m:0.308 ---
+
+atrāha- yadi varṇā eva sāmastyenaikabuddhiviṣayatāmāpadyamānāḥ padaṃ syustato jārā rājā kapiḥ pikaḥ ityādiṣu padaviśeṣapratipattirna syāt ।
+ta eva hi varṇā itaratra cetaratra ca pratyavabhāsanta iti ।
+atra vadāmaḥ - satyapi samastavarṇapratyavamarśe yathā kramānurodhinya eva pipīlikāḥ paṅ ktibuddhimārohanti, evaṃ kramānurodhana eva varṇāḥ padabuddhimārokṣyanti ।
+tatra varṇānāmaviśeṣe api kramaviśeṣakṛtā padaviśeṣapratipattirna virudhyate ।
+vṛddhavyavahāre ceme varṇāḥ kramādyanugṛhītā gṛhītārthaviśeṣasaṃbandhāḥ santaḥ svavyavahāro apyekaikavarṇagrahaṇānantaraṃ samastapratyavamarśinyāṃ buddhau tādṛśā eva pratyavabhāsamānāstaṃ tamarthamavyabhicāreṇa pratyāyayiṣyantīti varṇavādino laghīyasī kalpanā ।
+sphoṭavādinastu dṛṣṭahāniradṛṣṭakalpanā ca ।
+varṇāśceme krameṇa gṛhyamāṇāḥ sphoṭaṃ vyañjayanti sa sphoṭor'thaṃ vyanaktīti garīyasī kalpanā syāt, athāpi nāma pratyuccāraṇamanye anye varṇāḥ syuḥ, tathāpi pratyabhijñālambanabhāvena varṇasāmānyānāmavaśyābhyupagantavyatvādyā varṇeṣvarthapratipādanaprakriyā racitā sā sāmānyeṣu saṃcārayitavyā ।
+tataśca nityebhyaḥ śabdebhyo devādivyaktīnāṃ prabhava ityaviruddham ।।

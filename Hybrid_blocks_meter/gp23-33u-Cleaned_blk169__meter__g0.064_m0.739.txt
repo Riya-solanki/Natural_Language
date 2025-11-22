@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 169 | label: meter | g:0.064 m:0.739 ---
+
+kalayati saṃvastrayati
+saṃhastayate sma tasya yā rāmā ।
+praṇayī sa haris tasyāḥ
+spṛśati ca colīṃ vitūstanavyājāt ।। [gīti]

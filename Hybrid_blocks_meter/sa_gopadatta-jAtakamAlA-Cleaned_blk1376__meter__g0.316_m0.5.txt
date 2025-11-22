@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1376 | label: meter | g:0.316 m:0.5 ---
+
+edhobhir agnaya iva praśamaṃ vrajanti kāmāgnayo na viṣayair viṣapānakalpaiḥ ।
+tasmād upāddhvam anavadyasukhābhirāmāṃ tāthāgatīṃ pratipadaṃ vyasanopaśāntyai ।।

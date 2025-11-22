@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5143 | label: meter | g:0.25 m:0.5 ---
+
+antrāntare bhīṣmakasya dākṣiṇyā tasya bhūpateḥ ।।

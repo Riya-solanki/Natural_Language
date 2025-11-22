@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 208 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha so' pi tad avadhārayann eva, tad evāvadhārayan mātaram anu kātara iva niṣkramaṇa-klama-samanujñā-yācanam anusandhāya, praṇāmādinā paurṇamāsīm uṭaja-gṛhāya vihāya, śrī-rāmam agre vidhāya, śrīdāmādīn parito nidhāya, paścimāgrima-prema-dolāyamāna-svāntas tato niṣkrāntaḥ; sahasā mahasā vṛtaḥ sabhyālibhir abhyālokayāñcakre ।

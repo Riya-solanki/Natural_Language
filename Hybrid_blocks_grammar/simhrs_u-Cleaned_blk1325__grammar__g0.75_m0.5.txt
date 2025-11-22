@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1325 | label: grammar | g:0.75 m:0.5 ---
+
+yathā tatraiva ṣaṣṭhāṅke kaikeyī -paṇamāmi bhaavadiṃ saraūṃ jā pubbaṃ dīsamāṇā ṇayaṇa-pīūsa-gaṇḍūsa-kabalaṃ kareṃti asi । sā saṃpadaṃ hālāhala-kabaḍa-paḍirūbā paḍihāadi । kiṃ puṇa me aojjhā-daṃsaṇe bi akāraṇa-pajjāulaṃ hiaaṃ ।

@@ -1,0 +1,13 @@
+--- source: brssgo1u-Cleaned.txt | block: 719 | label: meter | g:0.352 m:0.526 ---
+
+tathā kṣatriyābhāvaṃ varṇāśramābhāvaṃ varṇāśramādyavyavasthāṃ ca brūyāt, niraṅkuśabuddhitvāt ।
+tathāca rājasūyādiśāstrasya kṛtādiyugadharmavyavasthāśāstrasya bādha ityarthaḥ ।
+yogasūtrārthādapi devādipratyakṣasiddhirityāha-apiceti ।
+mantrajapāddevatāsāṃnidhyaṃ tatsaṃbhāṣaṇaṃ ceti sūtrārthaḥ ।
+yogamahātmyasya śrutismṛtisiddhatvādyogināmasti devādipratyakṣamityāha-yoga iti ।
+pādatalādājānorjānorānābhernābherāgrīvaṃ grīvāyāścākeśaprarohaṃ tataścabrahmarandhraṃ pṛthivyādipañcake samutthite dhāraṇayā jite yogaguṇe cāṇimādike pravṛtte yogābhivyaktaṃ tejomayaṃ śarīraṃ prāptasya yogino na rogādisparśa ityarthaḥ ।
+citrakārādiprasiddhirapi vigrahe mānamityāha-loketi ।
+adhikaraṇārthamupasaṃharati-tasmāditi ।
+cintāyāḥ phalamāha-krameti ।
+ekameva devādīnāṃ brahmavidyādhikāre satyeva devatyaprāptidvārā kramamuktiphalānyupāsanāni yujyante ।
+devānāmanadhikāre jñānābhāvātkramamuktyarthināmupāsaneṣu pravṛttirna syāt, ato adhikāranirṇayātpravṛttisiddhiriti bhāvaḥ ।।

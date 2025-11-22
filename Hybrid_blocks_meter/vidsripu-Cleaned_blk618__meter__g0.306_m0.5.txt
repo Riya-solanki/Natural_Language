@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 618 | label: meter | g:0.306 m:0.5 ---
+
+āstāṃ dūreṇa viśleṣaḥ priyām āliṅgato mama ।
+svedaḥ kiṃ na sarinnātho romāñcaḥ kiṃ na parvataḥ ।।

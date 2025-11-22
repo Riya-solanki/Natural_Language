@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2416 | label: hybrid | g:0.444 m:0.5 ---
+
+ikṣvākuś ca nṛgaś caiva dhṛṣṭaḥ śaryātir eva ca 
+nariṣyantaś ca vikhyāto nābhāgo diṣṭa eva ca ।।

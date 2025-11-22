@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 531 | label: grammar | g:0.574 m:0.457 ---
+
+[kṛṣṇapakṣe caturdaśyāmaṣṭamyāṃ] kṛṣṇāṣṭamīcaturdaśyoḥ [siddhadarśane] siddhasandarśane [viṣuve] viṣuvaduttarāyaṇārkendugrahaṇādiṣu [sarveṣu parvasu] sarvaparvakāleṣu ca śrāddhaṃ viśeṣataśca aṣṭakādiṣu iti, kanyāgate arke māghatryodaśīprabhṛtiṣu ca kuryāt।
+[gurutattulyabandhūnāṃ] guroḥ guruputrādīnāṃ ca tattulyānāmanyeṣāṃ ca vayovidyādharmādivṛddhānāṃ ca [jyāyasāṃ bhrātṝṇāṃ] janmādinā dīkṣādyanugrahataśca jyeṣṭhānāṃ bhrātṝṇāṃ ca [madhuparkādyaiḥ] madhuparkavastrālaṃkārādyaiḥ pūjanaṃ kāryam।। 
+[vratasamāptau bhautikavratina ācāraḥ] satpatnīparigrahavibhūtimattvaṃ bhautikasya yaduktaṃ tadviśeṣayitumāha

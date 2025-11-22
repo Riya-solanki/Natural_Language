@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5005 | label: meter | g:0.272 m:0.845 ---
+
+keśaraṃ mātuluṅgaṃ ca dīpanaṃ kaphavātanut ।
+vātapittaharo māṣastvaksnigdhoṣṇānilāpahaḥ ।।

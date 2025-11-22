@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9717 | label: meter | g:0.338 m:0.832 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīviṣṇuruvāca ।
+yathā dhenusahasreṣu vatso vindati mātaram ।
+tathā pūrvakṛtaṃ karma kartāramanugacchati ।।

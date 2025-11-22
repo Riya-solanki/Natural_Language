@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 448 | label: grammar | g:0.872 m:0.087 ---
+
+[] atha sarve sāścaryam ūcuḥ - bhavatu nāma tat tat । kintu tataḥ kim anantaraṃ jātam ?
+[] madhukaṇṭha uvāca - anantaraṃ tu caturbhujatāvirbhāvānurūpyataḥ pravyakta-yogamāyasya tasya prāg-upadeśataḥ śrī-vasudevaḥ sarvatra māyika-śāyikāyāṃ jātāyāṃ pūrva-deva-bhiyā dvibhujam atrakīyaṃ bālakam atrānīya tayā bālikayā vimilitavān । so' yaṃ tu teneśvaratā-pratyāyakena caturbhuja-rūpeṇopadeśena ca na tatra jātakatāṃ vyañjitavān iti putratāṃ sandehitavān । atra tu dvibhuja-rūpeṇa vacanādi-śakter vyakter abhāvena ca tām eva vyajya putratām eva nidehitavān । śrīmān ānakadundubhis tu tad idaṃ sarvaṃ nānusadadhau iti ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3803 | label: meter | g:0.25 m:0.625 ---
+
+pāñcarātravido mukhyā naivedyaṃ bhuñjate svayam ।
+evaṃ saṃvatsarasyānte viśeṣeṇa prapūjayet ।।

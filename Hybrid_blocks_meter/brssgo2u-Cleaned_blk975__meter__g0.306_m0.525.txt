@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 975 | label: meter | g:0.306 m:0.525 ---
+
+iti śrīmatparamahaṃsaparivrājakācāryaśrīmadgovindānandabhagavatpādakṛtau śārīrakamīmāṃsāvyākhyāyāṃ bhāṣyaratnaprabhāyāṃ dvitīyādhyāyasya caturthaḥ pādaḥ ।।
+iti liṅgaśarīraśrutīnāṃ virodhaparihārākhyaścaturthaḥ pādaḥ ।।

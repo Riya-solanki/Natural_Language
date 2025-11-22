@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 165 | label: meter | g:0.056 m:0.521 ---
+
+geheśi tvaṃ carita-sukṛtā hanta vatsas tvad-agre
+vakti psāti prathayati ruciṃ yācate jāhasīti ।
+ardhād evaṃ sthagita-vacanaṃ sneha-pūrād vrajeśaṃ
+dhyāyed vṛttiṃ bata na labhate man-mano bambhramīti ।। [mandākrāntā]

@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 907 | label: grammar | g:0.594 m:0.375 ---
+
+gāndhārī
+{Pkt}hā jāda dussāsaṇa hā madaṅkadullalita hā juarāa assudapuvvā kkhu kassa bi loe īdisī vipattī । hā vīrasadappasaviṇi hadagandhāri dukkhasadaṃ pasūdāsi ṇa uṇa sudasadaṃ ।

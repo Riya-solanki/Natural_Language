@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3296 | label: hybrid | g:0.51 m:0.5 ---
+
+taṃ prāha bhagavān yogī svabhāvaṃ jagato api hi ।
+na kevalaṃ hi bhavato hṛtaṃ tena balīyasā ।।

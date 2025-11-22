@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 410 | label: meter | g:0.062 m:0.741 ---
+
+{atrāsīt phaṇipāśabandhanavidhiḥ śaktyā bhavaddevare
+gāḍhaṃ vakṣasi tāḍite hanumatā droṇādriratrāhṛtaḥ ।
+divyairindrajidatra lakṣmaṇaśarairlokāntaraṃ prāpitaḥ
+kenāpyatra mṛgākṣi rākṣasapateḥ kṛttā ca kaṇṭhāṭavī ।। }

@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 682 | label: meter | g:0.272 m:0.813 ---
+
+kathaṃ punarguṇo guṇivyatirekeṇānyatra varteta ।
+nahi paṭasya śuklo guṇaḥ paṭavyatirekeṇānyatra vartamāno dṛśyate ।
+pradīpabhāvadbhavediti cet ।

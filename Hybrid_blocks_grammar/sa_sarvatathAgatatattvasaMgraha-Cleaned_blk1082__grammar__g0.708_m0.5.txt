@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1082 | label: grammar | g:0.708 m:0.5 ---
+
+tato vajraśiṣyāṃ praveśayedanena vidhinā svayaṃ vajrācāryo vajrakodhatirintirimudrāṃ badhvā, śiṣyāya bandhayedanena hṛdayena oṃ gṛṇha vajra samaya huṃ vaṃ ।।

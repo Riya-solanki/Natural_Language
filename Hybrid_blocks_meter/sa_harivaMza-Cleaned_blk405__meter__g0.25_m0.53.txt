@@ -1,0 +1,13 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 405 | label: meter | g:0.25 m:0.53 ---
+
+kṣatriyā bharataśreṣṭha dikṣu sarvāsu dhārmikāḥ 
+sarvaśaḥ sarvagahanaṃ praviṣṭāḥ kurunandana ।। 
+teṣu tatra kṛpāṃ cakre brahmā lokapitā mahaḥ । 
+nābhāgasya tu putrau dvau vaiśyau brāhmaṇatāṃ gatau 
+karūṣasya tu kārūṣāḥ kṣatriyā yuddhadurmadāḥ ।। 
+prāṃśor eko abhavat putraḥ prajāpatiriti śrutaḥ । 
+pṛṣadhro hiṃsayitvā tu guror gāṃ janamejaya 
+śāpāc chūdratvam āpanno navaite parikīrtitāḥ ।। 
+vaivasvatasya tanayā manor vaibharatarṣabha । 
+kṣuvatas tu manos tāta ikṣvākur abhavat sutaḥ 
+tasya putraśataṃ tv āsīd ikṣvākor bhūridakṣiṇam ।।

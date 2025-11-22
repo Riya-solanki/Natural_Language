@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 889 | label: meter | g:0.0 m:0.5 ---
+
+tadupaśrutya te vāṇijakā vaḍavāmukhamupetā vayamiti tyaktajīvitāśā maraṇabhayaviklavībhūtamanasaḥ

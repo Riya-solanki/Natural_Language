@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3466 | label: hybrid | g:0.51 m:0.5 ---
+
+tadbhujyate yaddvijabhuktaśeṣaṃ sa buddhimānyo na karoti pāpam ।
+tatsauhṛdaṃ yakriyate parokṣe dambhairvinā yaḥ kriyate sa dharmaḥ ।।

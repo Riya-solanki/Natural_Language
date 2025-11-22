@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 404 | label: meter | g:0.321 m:0.555 ---
+
+viśeṣaṇabhedavyapadeśābhyāṃ ca netarau ।
+viśeṣaṇaṃ hetuṃ vyācaṣṭe- viśinaṣṭi hīti ।
+śārīrādityupalakṣaṇam, pradhānādityapi draṣṭavyam ।
+bhedavyapadeśaṃ vyācaṣṭe- tathā pradhānādapīti ।
+syādetat ।
+kimāgamikaṃ sāṃkhyābhimataṃ pradhānaṃ, tathāca bahusamañjasaṃ syādityata āha- nātra pradhānaṃ nāma kiñciditi ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5333 | label: meter | g:0.306 m:0.5 ---
+
+āmrāsthimajjā triphalā nī lī ca bhṛṅga rājakam ।
+jīrṇaṃ pakvaṃ lohacūrṇaṃ kāñjikaṃ kṛṣṇakeśakṛt ।।

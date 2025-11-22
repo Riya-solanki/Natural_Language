@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1120 | label: grammar | g:0.615 m:0.5 ---
+
+satyaṃ pippala pādapottama ghanacchāyonnatena tvayā sanmārgo ayam alaṃkṛtaḥ kim aparaṃ tvaṃ mūrtibhedo hareḥ ।
+kiṃ cānyat phalabhogahṛṣṭamukharās tvām āśritāḥ patriṇo yat puṃskokilakūjitaṃ vidadhate tan nānurūpaṃ param ।।

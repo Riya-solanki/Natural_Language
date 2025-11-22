@@ -1,0 +1,6 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 150 | label: meter | g:0.25 m:0.625 ---
+
+bhīkṣāṃ tu carato bhikṣāṃ nādadyānna vigarhitāt ।
+śaivātsvāyambhuvādeśca kutaścilliṅgino api vā ।
+miṣṭānnapracurāṃ bhīkṣāṃ nādadyānnātisaṃskṛtām ।
+parihāsādicaturā yatra nāryastato api vā ।

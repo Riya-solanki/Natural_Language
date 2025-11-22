@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 977 | label: grammar | g:0.729 m:0.5 ---
+
+[] tad evaṃ tayoḥ sollāsaṃ hāsaṃ bibhratoḥ punaḥ kṛṣṇaḥ sa-tṛṣṇam uvāca-laghu-mātaḥ, kā tatra śāta-sampad asti yad etāvatā prayāsena prayāsyāmaḥ?

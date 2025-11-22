@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1119 | label: meter | g:0.194 m:0.75 ---
+
+khalvayaṃ duḥkhoddeśaḥ sukhasya pratyākhyānam,
+kasmāt ?, sukhasyāntarālaniṣpateḥ ।
+niṣpadyate khalu bādhanāntarāleṣu sukhaṃ pratyātmavedanīyaṃ
+śarīriṇāṃ tadaśakyaṃ pratyākhyātumiti ।।

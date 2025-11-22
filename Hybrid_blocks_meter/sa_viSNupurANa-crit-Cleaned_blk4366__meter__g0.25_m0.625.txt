@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4366 | label: meter | g:0.25 m:0.625 ---
+
+kṣvelamānau pragāyantau vicinvantau ca pādapān 
+cārayantau ca gā dūre vyāharantau ca nāmabhiḥ ।।

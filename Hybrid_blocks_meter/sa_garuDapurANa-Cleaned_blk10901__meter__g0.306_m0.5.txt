@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10901 | label: meter | g:0.306 m:0.5 ---
+
+sa eva vaṃśepyabhavadraveśca ākūtyāṃ yaḥ saccidānandarūpaḥ ।
+svāyaṃbhuvaṃ yattu manvantaraṃ ca devaiḥ sākaṃ pālayāmāsa vīndra ।।

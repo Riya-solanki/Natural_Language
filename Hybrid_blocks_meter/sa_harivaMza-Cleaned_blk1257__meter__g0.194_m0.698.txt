@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1257 | label: meter | g:0.194 m:0.698 ---
+
+yena te nihatā daityāḥ saṃgrāme tārakāmaye 
+sarvadevamayaṃ kṛtvā sarvāyudhadharaṃ vapuḥ 
+garuḍasthena cotsiktaḥ kālanemir nipātitaḥ ।। 
+nirjitaś ca mahādaityas tārakaś ca mahāsuraḥ । 
+uttarānte samudrasya kṣīrodasyāmṛtodadheḥ 
+yaḥ śete śāśvataṃ yogam āsthāya timiraṃ mahat ।।

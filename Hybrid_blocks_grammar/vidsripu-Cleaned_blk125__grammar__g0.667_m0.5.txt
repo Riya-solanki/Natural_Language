@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 125 | label: grammar | g:0.667 m:0.5 ---
+
+kutas tvam aṇukaḥ svataḥ svam iti kiṃ na yat kasyacit kim icchasi padatrayaṃ nanu bhuvā kim atyalpayā ।
+dvijasya śamino mama tribhuvanaṃ tad ity āśayo harer jayati nihnutaḥ prakaṭitaś ca vakroktibhiḥ ।।

@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 458 | label: grammar | g:0.722 m:0.257 ---
+
+kecittvaupaniṣadāḥ paramārthata evātmā prapañcarūpeṇa svecchayā pariṇamatīti manyante,tathā ca sā sadeva somyedamagra āsīdekamevādvitīya tadaikṣata bahusyāṃ prajāyeya ityekasyaiva sanmātrarūpatayā prāgavasthitātmano anekavyomādibhedabhinnaprapañcarūpeṇa bījasyeva pariṇāmo darśitaḥ, tasmādvā etasmādātmana ākāśaḥ saṃbhūta ityaupaniṣadāṃ vādāḥ purāṇavādāścāsminnarthe śataśo dṛśyante ।
+puruṣa evedaṃ sarvaṃ neha nānāsti kiñcana ityādi tu dharmibhedābāvābhiprāyam, tadyathaiko vṛkṣaḥ prādeśamātrādūrdhvaṃ nānāśākho avasthito dūrasthairnānāvṛkṣā iti, tathā nāmarūpaprapañcaṃ nānārūpaṃ paśyatāṃ, mūlakāraṇasyaikasyātmano ayaṃ nānārūpaḥ pariṇāma ityevamajānatāṃ tattvakathanārthā evaṃvidhā vādāḥ ।
+sarvamekasyaiva vistāro na kiñcidatra nānāstīti ।।

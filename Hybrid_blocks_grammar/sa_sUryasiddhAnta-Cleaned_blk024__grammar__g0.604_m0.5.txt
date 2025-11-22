@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 24 | label: grammar | g:0.604 m:0.5 ---
+
+aṣṭāviṃśād yugād asmād yātam etat kṛtaṃ yugam। atah kālaṃ prasaṃkhyāya saṃkhyām ekatra piṇḍayet।।

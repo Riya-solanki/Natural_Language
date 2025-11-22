@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 61 | label: meter | g:0.102 m:0.695 ---
+
+vaiśiṣṭyaṃ kāryavaiśiṣṭyād dṛṣṭaṃ lokasthitāvapi 
+yadyathā yādṛśaṃ yāvat kāryaṃ tatkāraṇaṃ tathā 
+nityaṃ kālānavacchedād dvaitatyānna pradeśagam ।।

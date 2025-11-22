@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 253 | label: meter | g:0.25 m:0.625 ---
+
+velānilairmṛdubhirākulitālakāntā gāyanti yasya caritānyaparāntakāntāḥ ।
+līlānatāḥ samavalambya latāstarūṇāṃ hintālamāliṣu taṭeṣu mahārṇavasya ।।

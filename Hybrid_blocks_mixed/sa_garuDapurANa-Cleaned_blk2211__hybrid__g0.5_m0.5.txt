@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2211 | label: hybrid | g:0.5 m:0.5 ---
+
+anyatra jātaṃ ca na tatpradhānaṃ mūlyaṃ bhavecchilpiviśeṣayogāt ।
+prasannaṃ komalaṃ snigdhaṃ surāgaṃ vidrumaṃ hi tat ।।

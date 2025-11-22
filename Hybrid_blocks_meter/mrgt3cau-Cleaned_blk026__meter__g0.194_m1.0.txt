@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 26 | label: meter | g:0.194 m:1.0 ---
+
+sarvāmarapratiṣṭhāsu setvādīnāṃ niveśane
+sīmantonnayanādyeṣu saṃskāreṣvannavarjanam ।

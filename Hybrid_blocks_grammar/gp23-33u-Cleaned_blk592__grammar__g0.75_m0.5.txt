@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 592 | label: grammar | g:0.75 m:0.5 ---
+
+[] te hy evaṃ rahasyaṃ maṃsyante, kṛṣṇasya vraja-mātra-tṛṣṇasya vraja-deśe praveśe punar lambhanaṃ vipralambhataḥ stambhanam eva lapsyate । vraja-janasyātra praveśaś ca tathāveśa eveti । atha vraja-janaḥ sa ca svayam api nayāsyati । jñātīn vo draṣṭum eṣyāmaḥ [BhP ] iti rahasya-tvad-vacanasya bhavadbhis tu nāgamyatām iti svārasya-bhaṅga-prasaṅgaḥ syād iti ।

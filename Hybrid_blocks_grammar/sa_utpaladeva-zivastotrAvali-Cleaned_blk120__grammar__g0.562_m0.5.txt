@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 120 | label: grammar | g:0.562 m:0.5 ---
+
+niveditam upādatsva rāgādi bhagavan mayā ādāya cāmṛtīkṛtya bhuṅkṣva bhaktajanaiḥ samam ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 326 | label: hybrid | g:0.387 m:0.45 ---
+
+kathaṃ tarhi doṣa ityata āha 
+na viruddho'tiśayaḥ ।।
+viruddhasyātiśayasya saṃgraho na kartavya iti asya sūtrasya tātparyārthaḥ । tānetān ṣaḍupamādoṣān jñātvā kaviḥ parityajet ।।

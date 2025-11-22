@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2979 | label: meter | g:0.26 m:0.5 ---
+
+ye tu taṃ dadṛśus tatra kṣipyamāṇam anekaśaḥ 
+dhig dhig ity asakṛt te vai śanair ūcur avāṅmukhāḥ ।।

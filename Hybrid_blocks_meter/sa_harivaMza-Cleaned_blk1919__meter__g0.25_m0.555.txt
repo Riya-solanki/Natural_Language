@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1919 | label: meter | g:0.25 m:0.555 ---
+
+dṛṣṭvā tāv asurau ghorau mahāntau yuddhadurmadau 
+brahmaṇā tāḍito viṣṇuḥ padmanālena vai purā । 
+utpapātāśu śayanāt padmanābho mahādyutiḥ ।।

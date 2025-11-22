@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6331 | label: meter | g:0.25 m:1.0 ---
+
+brahmaviṣṇuśivāndevānna pṛthagbhāvayetsudhīḥ ।
+loke asminmaṅgalānyaṣṭau brāhmaṇo gaurhutāśanaḥ ।।

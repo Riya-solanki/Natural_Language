@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 731 | label: meter | g:0.302 m:0.614 ---
+
+anto avasthā ।
+yena sākṣiṇā pramātā paśyati tamātmānamiti saṃbandhaḥ ।

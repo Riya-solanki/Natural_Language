@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 595 | label: meter | g:0.25 m:0.625 ---
+
+ātmānaṃ devarūpaṃ ca karāṅganyāsakaṃ caret ।
+ātmānaṃ pūjayetpaścājyo tīrūpaṃ hṛdabjataḥ ।।

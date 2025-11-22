@@ -1,0 +1,3 @@
+--- source: mrgt3cau-Cleaned.txt | block: 225 | label: meter | g:0.0 m:1.0 ---
+
+nirvighnasiddhimanvicchan muktyarthamitare trayaḥ

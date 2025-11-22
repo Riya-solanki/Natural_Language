@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 208 | label: meter | g:0.194 m:0.75 ---
+
+krūrārāvaiḥ purabalibhujāṃ maṇḍalaiḥ saṃpatadbhir
+vyādhūtāsyo vipadam aśivāṃ yo asvatantraḥ prapede ।
+gomāyūnāṃ viṣamavirutair agnimālākarālair
+āryasyāpi prakṛtimṛdukaṃ tasya cetaś cakampe ।।

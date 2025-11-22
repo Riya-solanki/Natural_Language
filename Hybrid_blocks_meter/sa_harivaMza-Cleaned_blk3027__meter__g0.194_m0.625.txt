@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3027 | label: meter | g:0.194 m:0.625 ---
+
+niḥsaṃpātaḥ kṛtaḥ panthās tena tadviṣayāśrayaḥ 
+madāc calitavṛttena nṛmāṃsāny aśnatā bhṛśam ।।

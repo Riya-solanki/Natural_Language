@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3189 | label: meter | g:0.306 m:0.625 ---
+
+gaccha labdhāsi mūḍhe tvaṃ pāpasyāsya mahat phalam ।
+vidhvaṃsayiṣyati hayo bhavatīṃ yajñasaṃsadi ।।

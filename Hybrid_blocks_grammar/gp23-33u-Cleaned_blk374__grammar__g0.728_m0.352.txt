@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 374 | label: grammar | g:0.728 m:0.352 ---
+
+susakhīyati te subhrūr asau gopa-matallikā । śape tubhyaṃ lapeyaṃ ca svayaṃ sakhyam urīkuru ।। [] tatra kathaṃcid api tad-āgamane vṛddhābhiḥ kiṃcid ivāvagate kuñjāneva sva-līlayā kañja-locanas tābhiḥ samaṃ rañjayati ।
+[] tatra tat-preyasyā vṛddhābhivañcanā-cañcutā, yathā-
+yas tvāṃ rātriṣu vṛddhe mām api devo vibhīṣayate । sa tu mantribhir utkalito goṣṭhāt kuñjān vimardayati ।।[] tasmād atrānyathā māvagās tatra ca māgā iti dhvanitam ।

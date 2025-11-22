@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2664 | label: meter | g:0.25 m:0.625 ---
+
+tavaiṣā bāla mahatī gopānāṃ harṣavardhinī 
+prīṇayaty eva naḥ sarvān buddhir vṛddhikarī nṛṇām ।।

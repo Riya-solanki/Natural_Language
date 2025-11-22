@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 165 | label: grammar | g:0.806 m:0.125 ---
+
+āmi sarvanāmnaḥ suṭ ।।
+avarṇāntātparasya sarvanāmno vihitasyāmaḥ suḍāgamaḥ । sarveṣām । śeṣaṃ rāmavat । evaṃ viśvādayo apyadantāḥ ।। ubhaśabdo nityaṃ dvivacanāntaḥ । ubhau । ubhayoḥ । tasyeha pāṭho akajarthaḥ । ubhayaśabdasya dvivacanaṃ nāsti । ubhaye । ubhayān । ubhayaiḥ । ubhayebhyaḥ । ubhayebhyaḥ । ubhayeṣām । ubhayeṣu ।। ḍataraḍatamau pratyayau, pratyayagrahaṇe tadantagrahaṇamiti tadantā grāhyāḥ ।। samaḥ sarvaparyāya stulyaparyāyastu na, yathāsaṃkhyamanudeśaḥ samānāmiti jñāpakāt ।।

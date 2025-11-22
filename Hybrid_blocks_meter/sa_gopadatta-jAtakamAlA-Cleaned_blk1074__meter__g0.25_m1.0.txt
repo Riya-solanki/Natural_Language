@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1074 | label: meter | g:0.25 m:1.0 ---
+
+vivṛtavikṛtapūtiguhyadeśaṃ dharaṇirajo'ruṇarūkṣakeśapāśam ।
+khaganakhamukhakhaṇḍitākṣikośaṃ dadṛśur athojjhitam aṅganāyāḥ ।।

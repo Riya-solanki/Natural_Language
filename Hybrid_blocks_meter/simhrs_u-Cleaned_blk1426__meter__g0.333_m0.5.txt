@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1426 | label: meter | g:0.333 m:0.5 ---
+
+yathā tatraiva navamāṅke purandaraḥ-sakhe daśaratha katham ayam ananya-sadṛśākāro rāmabhadra-puruṣakāraḥ । ataś ca-

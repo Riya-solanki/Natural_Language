@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5060 | label: meter | g:0.251 m:0.623 ---
+
+nimittaṃ bhavitā tatra brahmakopakṛtaṃ prabho 
+yatasva parihartuṃ tad ity etad bhadram astu te ।।

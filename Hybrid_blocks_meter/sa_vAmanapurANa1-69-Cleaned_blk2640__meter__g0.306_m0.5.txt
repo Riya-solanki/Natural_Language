@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2640 | label: meter | g:0.306 m:0.5 ---
+
+ityevamuktvā munipuṅgavo asau śaptvā sa daṇḍaṃ svasutāmuvāca ।
+tvaṃ pāpamokṣārthamihaiva putri tiṣṭhasva kalyāṇi tapaścarantī ।।

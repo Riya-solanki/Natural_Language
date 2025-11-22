@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 319 | label: grammar | g:0.625 m:0.375 ---
+
+aṣṭābhya auś ।।
+kṛtākārādaṣṭano jaśśasorauś । aṣṭabhya iti vaktavye kṛtātvanirdeśo jaśśasorviṣaye ātvaṃ jñāpayati । aṣṭau । aṣṭābhiḥ । aṣṭābhyaḥ । aṣṭāsu । ātvābhāve aṣṭa, pañcavat ।।

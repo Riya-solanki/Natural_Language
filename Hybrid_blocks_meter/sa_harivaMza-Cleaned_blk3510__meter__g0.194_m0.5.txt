@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3510 | label: meter | g:0.194 m:0.5 ---
+
+yāni liṅgāni lokasya babhuḥ kṛtayuge purā 
+tāni sarvāṇy adṛśyanta purīṃ prāpte janārdane ।।

@@ -1,0 +1,8 @@
+--- source: vamkalvu-Cleaned.txt | block: 542 | label: meter | g:0.25 m:0.75 ---
+
+guṇasphuṭatvasākalya kāvyapākaṃ pracakṣate ।
+cūtasya pariṇāmena sa cāyamupamīyate ।।
+suptiṅsaṃskārasāraṃ yat kliṣṭavastuguṇaṃ bhavet ।
+kāvyaṃ vṛntākapākaṃ syājjupsante janāstataḥ ।।
+guṇānāṃ daśatāmukto yasyārthastadapārthakam ।
+dāḍimāni daśetyādi na vicārakṣamaṃ vacaḥ ।।

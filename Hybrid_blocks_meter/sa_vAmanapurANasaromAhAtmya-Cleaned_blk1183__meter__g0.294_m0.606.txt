@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1183 | label: meter | g:0.294 m:0.606 ---
+
+vena uvāca
+asya liṅgasya māhātmyāt tathā liṅgasya darśanāt ।
+mukto ahaṃ pātakaiḥ sarvaistava darśanataḥ kila ।।

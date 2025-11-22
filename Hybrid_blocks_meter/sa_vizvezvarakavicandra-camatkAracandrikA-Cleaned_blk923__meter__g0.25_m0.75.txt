@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 923 | label: meter | g:0.25 m:0.75 ---
+
+vastu kiñcidupanyasya vinyāsāttatsalakṣmaṇaḥ ।
+sāmyaṃ gamyata ityeṣā prativastūktirūcyate ।।

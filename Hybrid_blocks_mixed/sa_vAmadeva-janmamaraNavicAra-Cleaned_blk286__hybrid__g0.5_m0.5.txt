@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 286 | label: hybrid | g:0.5 m:0.5 ---
+
+gurviṇyo duścaritrāś ca prasavena hatāś ca yāḥ ।।

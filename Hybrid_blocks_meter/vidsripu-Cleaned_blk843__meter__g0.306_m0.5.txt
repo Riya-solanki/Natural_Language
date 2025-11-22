@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 843 | label: meter | g:0.306 m:0.5 ---
+
+mandādaraḥ kusumapatriṣu pelaveṣu nūnaṃ bibharti madanaḥ pavanāstram adya ।
+hāraprakāṇḍasaralāḥ katham anyathāmī śvāsāḥ pravartitadukūladaśāḥ saranti ।।

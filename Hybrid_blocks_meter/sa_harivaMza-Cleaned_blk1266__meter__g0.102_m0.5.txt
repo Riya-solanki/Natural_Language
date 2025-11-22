@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1266 | label: meter | g:0.102 m:0.5 ---
+
+trayo varṇās trayo lokās traividyaṃ pāvakās trayaḥ 
+traikālyaṃ trīṇi karmāṇi trayo apāyās trayo guṇāḥ 
+sṛṣṭā lokās trayo anantā yenānantyena vartmanā ।।

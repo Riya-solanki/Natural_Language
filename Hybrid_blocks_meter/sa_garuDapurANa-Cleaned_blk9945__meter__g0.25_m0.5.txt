@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9945 | label: meter | g:0.25 m:0.5 ---
+
+asti devaḥ parabrahmasvarūpo niṣkalaḥ śivaḥ ।
+sarvajñaḥ sarvakartā ca sarveśo nirmalo advayaḥ ।।

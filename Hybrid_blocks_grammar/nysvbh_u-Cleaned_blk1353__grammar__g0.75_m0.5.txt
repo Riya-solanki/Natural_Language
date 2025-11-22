@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1353 | label: grammar | g:0.75 m:0.5 ---
+
+teṣām āvaraṇādīnāmanupalabdhirnopalabhyate anupalambhānnāstīty abhāvo asyāḥ sidhyati abhāvasiddhau hetvabhāvāt tadviparītam astitvamāvaraṇādīnāmavadhāryate tadviparītopapatteryat pratijñātam ana prāguccāraṇādvidyamānasya śabdasyānupalabdhiḥ' ityetanna sidhyati so ayaṃ hetuḥ āvaraṇādyanupalabdheriti āvaraṇādiṣu cāvaraṇādyanupalabdhau ca samatayānupaladhyā pratyavasthito anupalabdhisamo bhavati ।।

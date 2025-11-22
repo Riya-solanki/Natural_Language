@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 13 | label: hybrid | g:0.542 m:0.5 ---
+
+ādyantayos tribuvanasya bhavantam eva yaṃ vaidikāḥ puruṣam āhur abhedam ādyam ।
+bhūyas tam eva jananapralayāntarāle saṃsārajālam iti jātavikāram ūcuḥ ।।

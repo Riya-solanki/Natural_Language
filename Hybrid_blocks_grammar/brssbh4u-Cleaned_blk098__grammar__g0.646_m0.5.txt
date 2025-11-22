@@ -1,0 +1,3 @@
+--- source: brssbh4u-Cleaned.txt | block: 98 | label: grammar | g:0.646 m:0.5 ---
+
+nanu sati api samyak darśane yathā prāk dehapātāt bhedadarśanaṃ dvicandradarśananyāyena anuvṛttamevaṃ paścāt api anuvarteta ।

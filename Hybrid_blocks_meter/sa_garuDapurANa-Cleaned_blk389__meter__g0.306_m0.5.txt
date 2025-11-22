@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 389 | label: meter | g:0.306 m:0.5 ---
+
+turīyaḥ paramo dhātā dṛgrūpo guṇavarjitaḥ ।
+mukto buddho ajaro vyāpī satya ātmāsmyahaṃ śivaḥ ।।

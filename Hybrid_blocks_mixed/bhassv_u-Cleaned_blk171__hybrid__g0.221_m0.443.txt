@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 171 | label: hybrid | g:0.221 m:0.443 ---
+
+{ceṭī} - teṇa hi imassiṃ siḷāvaṭṭae muhuttaaṃ upavisadu bhaṭṭidāriā 
+jāva ahaṃ vi kusumāvacaaṃ karemi 
+[tena hy asmin śilāpaṭṭake muhūrtakam upaviśatu bhartṛdārikā । yāvad aham api kusumāvacayaṃ karomi । ]

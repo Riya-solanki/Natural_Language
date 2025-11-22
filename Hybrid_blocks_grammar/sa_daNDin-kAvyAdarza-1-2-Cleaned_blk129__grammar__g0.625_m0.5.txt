@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 129 | label: grammar | g:0.625 m:0.5 ---
+
+tvayy eva tvanmukhaṃ dṛṣṭaṃ dṛśyate divi candramāḥ iyaty eva bhidā nānyety asāv atiśayopamā ।।

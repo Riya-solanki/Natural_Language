@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 390 | label: meter | g:0.25 m:0.625 ---
+
+yeyaṃ nityasthitir brahman nityasargas tatheritaḥ 
+nityābhāvaś ca teṣāṃ vai svarūpaṃ mama kathyatām ।।

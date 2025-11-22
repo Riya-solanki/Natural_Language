@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10247 | label: hybrid | g:0.51 m:0.5 ---
+
+tasyābhimānaḥ śrīriti veditavyo vīryādhānaṃ tatra teṣāṃ ca melaḥ ।
+kāryonmukhaṃ melanaṃ cāhurāryā ito rūpaṃ nāhurāyyāśca viṣṇoḥ ।।

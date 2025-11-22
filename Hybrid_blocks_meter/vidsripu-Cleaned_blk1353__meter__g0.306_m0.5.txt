@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1353 | label: meter | g:0.306 m:0.5 ---
+
+āśrayāśaḥ kṛṣṇavartmā dahanaś caiṣa durjanaḥ ।
+agnir eva tathāpy asmin syād bhasmani hutaṃ hutam ।।

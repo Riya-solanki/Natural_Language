@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 365 | label: meter | g:0.25 m:0.625 ---
+
+amalīkaraṇe caiva sandhānasya vidhau priye 
+yogas tu kathito hy evaṃ rodhaś caivānukathyate ।।

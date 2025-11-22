@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9642 | label: meter | g:0.25 m:0.886 ---
+
+śrīkṛṣṇa uvāca ।
+pretībhūtādvijātīnāṃ sambhūte mṛtyuvaikṛte ।
+teṣāṃ mārgagatisthānaṃ vidhānaṃ kathayāmyaham ।।

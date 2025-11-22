@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 515 | label: meter | g:0.25 m:0.875 ---
+
+kalyāṇa-dāyi bhavatāṃ bhaved bhavya-guṇākaram ।
+kamalākucakāleya-vyañjitoraḥ-sthalaṃ mahaḥ ।। 
+cid-acit-kṣema-kāriṇyai namaḥ śrī-parṇajādibhiḥ ।
+vandyāyai vārdhi-nandinyai karāgrastha-payoruhe ।।

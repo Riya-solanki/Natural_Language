@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 36 | label: meter | g:0.217 m:0.845 ---
+
+sadapyabhāsamānatvāt tanniruddhaṃ pratīyate 
+vaśyo anāvṛtavīryasya so ata evāvimokṣaṇāt ।।

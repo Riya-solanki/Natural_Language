@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 565 | label: meter | g:0.307 m:0.623 ---
+
+ambeti dīnāṃ giram īrayantaṃ sā taṃ pariṣvajya tanupralāpam ।
+ruroda tīvrāyatadīnakaṇṭhā ninādayantī puracatvarāṇi ।।

@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 34 | label: grammar | g:0.552 m:0.5 ---
+
+avyāhatasya bhagavan bhavadāgamasya cintāmaṇer iva mahān asamaḥ prabhāvaḥ ।
+samyag vidhānavihitāṃ yad avāpya dīkṣāṃ jñānād ṛte api khalu kevalatām upaiti ।।

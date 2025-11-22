@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 891 | label: meter | g:0.194 m:0.5 ---
+
+sa tu śakravacaḥ śrutvā vañcitas tena māyayā 
+tathety evābravīd rājā prīyamāṇaḥ śatakratum ।।

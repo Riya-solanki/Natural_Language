@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8860 | label: meter | g:0.25 m:0.5 ---
+
+ātmā tathaiva sarveṣu puttreṣu vicaretsadā ।
+yā yasya prakṛtiḥ pūrvaṃ śukraśoṇitasaṅgame ।।

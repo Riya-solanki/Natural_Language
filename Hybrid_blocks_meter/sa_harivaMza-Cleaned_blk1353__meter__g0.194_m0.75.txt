@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1353 | label: meter | g:0.194 m:0.75 ---
+
+bṛhatkīrtir mahājihvaḥ śaṅkukarṇo mahāsvanaḥ 
+dīrghajihvo arkanayano mṛdupādo mṛdupriyaḥ ।।

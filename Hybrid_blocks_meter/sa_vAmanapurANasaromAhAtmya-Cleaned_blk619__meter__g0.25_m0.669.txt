@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 619 | label: meter | g:0.25 m:0.669 ---
+
+ṛṣaya ūcuḥ ।
+kathaṃ maṅkaṇakaḥ siddhaḥ kasmājjāto mahānṛṣiḥ ।
+nṛtyamānastu devena kimarthaṃ sa nivāritaḥ ।।

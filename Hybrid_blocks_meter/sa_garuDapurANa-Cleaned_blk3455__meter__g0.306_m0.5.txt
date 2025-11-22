@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3455 | label: meter | g:0.306 m:0.5 ---
+
+vācā vihitasārthena loko na ca sukhāyate ।
+jīvitaṃ mānamūlaṃ hi māne mlāne kutaḥ sukham? ।।

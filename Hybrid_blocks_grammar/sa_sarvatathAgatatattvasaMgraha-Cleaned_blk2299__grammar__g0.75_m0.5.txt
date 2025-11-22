@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2299 | label: grammar | g:0.75 m:0.5 ---
+
+athāryākāśagarbho bodhisa[tvo mahāsatvaḥ] sarvatathāgatābhiṣekaratnaṃnāma samādhiṃ samāpannaḥ; samanantarasamāpanne cātha tāvadeva sarvatathāgatahṛdayebhyo vajramaṇiratnaraśmayo niścaritāḥ । te sarvalokadhātavo avabhāsya sarvasatvān sarvatathāgatābhiṣekairabhiṣicya, punarapyekadhyībhūtvā, bhagavata ākāśagarbhasya mahābodhisatvasya hṛdaye anupraviṣṭā iti ।

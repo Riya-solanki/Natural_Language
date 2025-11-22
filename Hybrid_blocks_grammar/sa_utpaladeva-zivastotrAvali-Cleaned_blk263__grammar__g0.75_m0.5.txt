@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 263 | label: grammar | g:0.75 m:0.5 ---
+
+yan na kiñcid api tanna kiñcid apy astu kiñcid api kiñcid eva me sarvathā bhavatu tāvatā bhavān sarvato bhavati labdhapūjitaḥ ।।

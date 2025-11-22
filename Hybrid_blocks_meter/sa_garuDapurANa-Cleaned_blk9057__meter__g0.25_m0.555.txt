@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9057 | label: meter | g:0.25 m:0.555 ---
+
+āturo mucyate naiva maṇḍalena vinā bhuvi ।
+brahmā rudraśca viṣṇuśca śrīrhutāśana eva ca ।
+maṇḍale copatiṣṭhantastasmātkurvīta maṇḍalam ।।

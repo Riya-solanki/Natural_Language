@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 20 | label: grammar | g:0.583 m:0.5 ---
+
+tasyās tiktair vanagajamadair vāsitaṃ vāntavṛṣṭir jambūkuñjapratihatarayaṃ toyam ādāya gaccheḥ ।
+antaḥsāraṃ ghana tulayituṃ nānilaḥ śakṣyati tvāṃ riktaḥ sarvo bhavati hi laghuḥ pūrṇatā gauravāya ।।

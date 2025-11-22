@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2865 | label: meter | g:0.194 m:0.75 ---
+
+svādhyāyagotracaraṇam apṛṣṭvā ca tathā kulam 
+hiraṇyagarbhabuddhyā taṃ manyetābhyāgataṃ gṛhī ।।

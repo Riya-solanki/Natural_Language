@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7520 | label: meter | g:0.25 m:0.625 ---
+
+imāṃ gāthamapeteti sūktaṃ vā pathi saṃpaṭhet ।
+dakṣiṇasyāṃ diśyaraṇyaṃ vrajeyuḥ sarvabāndhavāḥ ।।

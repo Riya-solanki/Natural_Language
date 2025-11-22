@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 261 | label: grammar | g:0.75 m:0.5 ---
+
+[] sa tūvāca-vayam idaṃ sarvam apūrvaṃ pūrvam api jānīmahe । idaṃ ca bhavadbhiḥ sambaddhyam adhyavasitam, kintv ekā śaṅkā śaṅkur iva maṅkṣu hṛdi parivartate । yadā bhavad-aṅga-jātāṅganānāṃ vraja-rājāṅgaja-vara-kumāreṇa saha saṅgamaḥ syāt, tadā nātivilamabataḥ sarvasyāpi vrajasya tadīya-cira-vipralambha-lambhanaṃ bhavitā, kim utāmūṣām? kiṃ ca, prauḍhatām ūḍhavatīnāṃ tu sahaja-tad-anurāga-svābhāvyenādarśane' py udbhavat-tat-sphūrtīnāṃ na ko' pi tasmād vinivartanaṃ kartuṃ samarthaḥ syād ity api kadarthanāntaraṃ bhaviṣyati । tasmān nanda-kulāvataṃsāt kaṃsāc ca vañcayituṃ cañcalam evānyebhyaḥ sampradātavyā navyāḥ kanyakāḥ ।

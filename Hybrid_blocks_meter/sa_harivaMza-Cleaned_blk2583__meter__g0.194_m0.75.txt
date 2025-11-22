@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2583 | label: meter | g:0.194 m:0.75 ---
+
+hriye ahaṃ kṛṣṇa daityena parvatodagravarcasā 
+pradarśayitvā mahatīm māyāṃ mānuṣarūpiṇīm ।।

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 317 | label: grammar | g:0.562 m:0.5 ---
+
+mātary apakāriṇaḥ prāṇina ihaiva vyasanaprapātapātālāvalambino bhavantīti satatasamupajāyamānapremaprasādabahumānamānasaiḥ satpuruṣair mātaraḥ śuśrūṣaṇīyāḥ ।

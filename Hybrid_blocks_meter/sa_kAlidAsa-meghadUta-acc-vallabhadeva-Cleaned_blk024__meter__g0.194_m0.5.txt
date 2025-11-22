@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 24 | label: meter | g:0.194 m:0.5 ---
+
+pāṇḍucchāyopavanavṛtayaḥ ketakaiḥ sūcibhinnair nīḍārambhair gṛhabalibhujām ākulagrāmacaityāḥ 
+tvayy āsanne phalapariṇatiśyāmajambūvanāntāḥ saṃpatsyante katipayadinasthāyihaṃsā daśārṇāḥ ।।

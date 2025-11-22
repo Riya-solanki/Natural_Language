@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 786 | label: grammar | g:0.75 m:0.5 ---
+
+[] sa tu vividha-durvidha-śarma-vidhāna-sannidhānaḥ svayaṃ labdha-nidhānavad atisāvadhāna-pāṇir nṛtyann iva mātuḥ samīpam añcan madhura-cañcalehitas tasyā nicolāñcale nirbandhataḥ sakalāni phalāni babandha ।

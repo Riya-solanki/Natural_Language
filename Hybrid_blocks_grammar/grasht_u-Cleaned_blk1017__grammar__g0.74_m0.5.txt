@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 1017 | label: grammar | g:0.74 m:0.5 ---
+
+japaḥ aghorādijapaḥ homastaddaśāṃśena havanaṃ devatārcanaṃ devatānāṃ gaṇeśaviṣṇuraviśivacaṇḍīnāṃ arcanaṃ eteṣu nirataḥ saktaḥ evaṃvidhiḥ pumān ।।
+iti kiṃ hemaniyojitasūtaṃ dhārayet hemnā saha niyojito miśrito yaḥ sūtaḥ taṃ kāntamaṇiḥ kāntaścāsau maṇiśca vā kāntamaṇiḥ kāntasaṃjñako maṇiḥ ca punaḥ vividhaguṭikāḥ vividhāśca tā guṭikāśceti ।।

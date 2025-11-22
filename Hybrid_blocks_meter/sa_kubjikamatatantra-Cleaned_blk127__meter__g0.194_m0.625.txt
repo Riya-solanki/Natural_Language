@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 127 | label: meter | g:0.194 m:0.625 ---
+
+yāvat santiṣṭhate tatsthā nayopādair anekadhā 
+tāvac caṇḍākṣī balavat paricaryām anekadhā ।।

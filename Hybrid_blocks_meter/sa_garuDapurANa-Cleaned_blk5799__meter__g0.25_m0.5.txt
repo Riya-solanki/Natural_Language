@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5799 | label: meter | g:0.25 m:0.5 ---
+
+abhayāmalakaṃ drākṣā pāṭhā caiva vibhītakam ।
+śarkarāyā samaṃ caiva jagdhaṃ jvaraharaṃ bhavet ।।

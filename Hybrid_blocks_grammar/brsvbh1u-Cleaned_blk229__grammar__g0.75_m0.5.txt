@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 229 | label: grammar | g:0.75 m:0.5 ---
+
+-idamatra bodhyam-saṃyogapṛthaktvenāṅgabhāve siddhe api na samuccayavādyabhimataḥ sākṣādaṅgabhāvo yuktaḥ api tu paraṃparayā, kalpanāgauravāt । yathā prakṛtau kḷptopakārāṇāṃ vikṛtau tadatiriktopakārakalpane gauravaṃ tathā jñāne viniyuktayajñādīnāṃ kḷptapāpakṣayātiriktakalpane gauravāpatterna samuccayaḥ kalpanīya ityāśayaḥ ।

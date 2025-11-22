@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2801 | label: meter | g:0.194 m:0.5 ---
+
+narās tvāṃ caiva māṃ caiva dhvajākārāsu yaṣṭiṣu 
+mahendraś cāpy upendraś ca mahīyetāṃ mahītale ।।

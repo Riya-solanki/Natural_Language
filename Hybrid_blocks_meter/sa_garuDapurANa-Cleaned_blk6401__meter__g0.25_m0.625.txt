@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6401 | label: meter | g:0.25 m:0.625 ---
+
+tūṣṇīmeva tu śūdrasya sanamaskārakaṃ smṛtam ।
+adhyāpanaṃ brahmayajñaḥ pitṛyajñastu tarpaṇam ।।

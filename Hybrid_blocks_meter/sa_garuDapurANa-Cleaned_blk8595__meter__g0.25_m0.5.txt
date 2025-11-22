@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8595 | label: meter | g:0.25 m:0.5 ---
+
+lohaṃ lavaṇakārpāsaṃ tilapātraṃ ca yairnaraiḥ ।
+dattaṃ tenaiva tṛpyanti yamasya puracāriṇaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2866 | label: meter | g:0.25 m:0.75 ---
+
+sambhunāmāsurapatiḥ sa brahmaṇamayodhayat ।
+mahaujasaṃ kujambhaśca viṣṇuṃ daityāntakāriṇam ।।

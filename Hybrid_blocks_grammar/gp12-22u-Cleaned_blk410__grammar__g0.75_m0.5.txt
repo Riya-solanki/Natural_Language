@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 410 | label: grammar | g:0.75 m:0.5 ---
+
+[] prastūyamānaṃ ca śrūyatām । atha madhumaṅgalaṃ saṅginaṃ vidhāya pūrṇa-manāḥ pūrṇimā vṛndayā saha sahasā hari-samīpam āsasāda । [] bhānu-tanūjānubhāvita-bhāvi-bhāva-viśeṣa-śleṣā samīpataḥ svāgamanam apahnutavatī । pathi punar idaṃ pracchannaṃ papraccha-vṛnde, vrajendra-nandanasya prema kim āsu vartate?

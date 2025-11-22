@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 723 | label: meter | g:0.139 m:0.969 ---
+
+svapnād, yathā-
+tribhāga-śeṣāsu niśāsu ca kṣaṇaṃ
+nimīlya netre sahasā vyabudhyata ।
+kva nīlakaṇṭha vrajasīty alakṣya-vāg
+asatya-kaṇṭhārpita-bāhu-bandhanā ।।

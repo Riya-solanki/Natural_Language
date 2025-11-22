@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4760 | label: meter | g:0.194 m:0.75 ---
+
+sanandanādyair munibhiḥ siddhayogair akalmaṣaiḥ 
+vicintyamānaṃ tatrasthair nāsāgranyastalocanaiḥ ।।

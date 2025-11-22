@@ -1,0 +1,13 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 977 | label: grammar | g:0.781 m:0.0 ---
+
+bṛhaspater aṅgirasaḥ putro rājan mahāmuniḥ 
+ayājayad bharadvājo mahadbhiḥ kratubhir vibhuḥ ।। 
+atraivodāharantīmaṃ bharadvājasya dhīmataḥ । dharmasaṃkramaṇaṃ cāpi marudbhir bharatāya vai । 
+pūrvaṃ tu vitathe tasya kṛte vai putrajanmani 
+tato atha vitatho nāma bharadvājāt suto abhavat ।। 
+tato atha vitathe jāte bharatas tu divaṃ yayau । vitathaṃ cābhiṣicyātha bharadvājo vanaṃ yayau । vitathasya tu dāyādo bhuvamanyur babhūva ha । mahābhūtopamāś cāmī catvāro bhuvamanyujāḥ । bṛhatkṣatro mahāvīryo naro gārgyaś ca vīryavān ।। narasya sāṃkṛtiḥ putras tasya putrau mahābalau । varavī rantidevaś ca te ca kātyāyanāḥ smṛtāḥ ।। dāyādā api gārgyasya śibir vidvān babhūva ha । smṛtāḥ śaibyās tato gārgyāḥ kṣatrotpannā dvijātayaḥ ।। mahāvīryasutaś cāsīd dhīmān nāmnā purukṣayaḥ । tasya bhāryā viśālā tu suṣuve tat sutatrayam । traiyākṣaṇaṃ puṣkariṇaṃ tṛtīyaṃ suṣuve kapim ।। kapīnāṃ pravarā hy ete trayaḥ proktā maharṣayaḥ । gārgyāḥ saṃkṛtayaḥ kāpyāḥ kṣatrotpannā dvijātayaḥ । saṃśritāṅgirasaḥ pakṣaṃ sarve jātā mahābalāḥ ।। bṛhatkṣatrasya dāyādaḥ suhotro nāma dhārmikaḥ । suhotrasya tu dāyādo hastī nāma babhūva ha । tenedaṃ nirmitaṃ pūrvaṃ puraṃ gajasamāhvayam ।। hastinaś cāpi dāyādās trayaḥ paramakīrtayaḥ । ajamīḍhasya putrās tu jātāḥ kurukulodvaha ।। tapaso ante sumahato rājño vṛddhasya dhārmikāḥ । bharadvājaprasādena jātā vaṃśavivardhanāḥ ।। ajamīḍhasya keśinyāṃ kaṇvaḥ samabhavat sutaḥ । medhātithiḥ sutas tasya tasmāt kāṇvāyanāḥ smṛtāḥ । 
+sa cāpi vitathaḥ putrāñ janayām āsa pañca vai 
+suhotraṃ sutahotāraṃ gayaṃ gargaṃ tathaiva ca ।। 
+suhotrasya ca putras tu cyavano nāma dhārmikaḥ । 
+kapilaṃ ca mahātmānaṃ sutahotuḥ sutadvayam 
+kāśikaś ca mahāsattvas tathā gṛtsamatiḥ prabhuḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 687 | label: meter | g:0.306 m:0.5 ---
+
+na janamabhyarujanprabalā rujaḥ paṭutaraṃ guṇamoṣadhayo dadhuḥ ।
+ṛtuvaśena vavau niyato anilaḥ pariyayuśca śubhena pathā grahāḥ ।।

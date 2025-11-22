@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 616 | label: hybrid | g:0.5 m:0.5 ---
+
+[] kṛṣṇas tūpayāntaram apaśyan netra-vikṣepa-vetra-vikṣepa-vitrastānām api tāsāṃ vaśyatām ayātānām āvaśyaka-tad-bhāvanāya vaṃśī-śaṃsana-viśeṣam abhyasyati sma । [] yathaiva vakṣyate tatra tatra tad evālakṣya tābhiḥ veṇu-vādya urudhā nija-śikṣāḥ iti । []

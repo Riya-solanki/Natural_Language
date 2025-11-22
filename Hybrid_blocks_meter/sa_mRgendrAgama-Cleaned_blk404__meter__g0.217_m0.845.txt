@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 404 | label: meter | g:0.217 m:0.845 ---
+
+sarvendriyaḥ sarvatanuḥ sarvāntaḥkaraṇāśrayaḥ 
+puruṣe niyatau yantā kāle kalanaśaktimān ।।

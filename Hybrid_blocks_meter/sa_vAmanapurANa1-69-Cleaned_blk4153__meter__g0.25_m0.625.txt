@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4153 | label: meter | g:0.25 m:0.625 ---
+
+sarvaśāstreṣu naipuṇyaṃ gatvā devo akṣayo avyayaḥ ।
+provāca brāhmaṇaśreṣṭhaṃ bharadvājamidaṃ vacaḥ ।।

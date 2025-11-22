@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 455 | label: meter | g:0.25 m:0.625 ---
+
+chinneṣu teṣu śastreṣu dānavo anyanmahaddhanuḥ ।
+samādāya tato bāṇairavatastāra nārada ।।

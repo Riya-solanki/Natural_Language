@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1289 | label: hybrid | g:0.444 m:0.5 ---
+
+jyotiś cakṣuṣi tejaś ca teṣāṃ yantṛ manaḥ smṛtam 
+grāmyāś ca viṣayāś caiva yasya vīryāt pravartitāḥ ।।

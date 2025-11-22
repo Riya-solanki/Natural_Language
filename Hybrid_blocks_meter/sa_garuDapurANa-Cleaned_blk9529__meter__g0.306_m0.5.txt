@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9529 | label: meter | g:0.306 m:0.5 ---
+
+aprāpya tīrthaṃ mriyate gṛhe vā mṛtyu māgataḥ ।
+būtvā kuṭīcaro yastu sa kāṃ gatimavāpnuyāt ।।

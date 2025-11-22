@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4250 | label: meter | g:0.25 m:0.5 ---
+
+eṣa mohaṃ gataḥ kṛṣṇo magnau vai kāliye hrade 
+bhakṣyate sarparājena tad āgacchata paśyata ।।

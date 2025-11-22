@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1434 | label: meter | g:0.328 m:0.595 ---
+
+tvaṃ yajñastvaṃ vaṣaṭkāra āpo jyotī raso amṛtam ।
+drupadāṃ vā trirabhyasyevdyāhṛtipraṇavānvitām ।।

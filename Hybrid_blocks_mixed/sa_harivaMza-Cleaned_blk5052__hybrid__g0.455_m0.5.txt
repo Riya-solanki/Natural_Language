@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5052 | label: hybrid | g:0.455 m:0.5 ---
+
+tvayā tv idam ahaṃ pṛṣṭo vakṣyāmy āgantu bhāvi yat 
+ataś ca balavān kālaḥ śrutvāpi na kariṣyasi ।।

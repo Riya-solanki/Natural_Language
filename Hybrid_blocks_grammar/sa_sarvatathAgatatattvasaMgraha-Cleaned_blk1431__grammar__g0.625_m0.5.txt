@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1431 | label: grammar | g:0.625 m:0.5 ---
+
+kuṅkumaṃ tu bhage vidhvā tadbhagaṃ satvavajrayā । cchāditaṃ jvālate tantu bhavedvajradharo sama ।। ।।

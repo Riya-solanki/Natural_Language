@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 187 | label: meter | g:0.294 m:0.576 ---
+
+yo hi vijñānapratyakṣamicchati tasya jñānameva na sidhyet pramāṇāntarasaṃbhavāt ।
+anumānamiti cet ।
+na liṅgābhāvāt ।
+na tāvadartho liṅgam, vināpi tena suṣuptyādyavasthāyāmarthasadbhāvābhyupagamāt ।
+arthavyavahāro liṅgaṃ - sa hi kādācitkaṃ kāraṇaṃ kalpayatīticet, evantu prāgvyavahārājjñānapratibhāso na syāt ।
+avyavahārannapi ghaṭaṃ paśyan jāne ahaṃ ghaṭamiti jñānamanusaṃdhatte

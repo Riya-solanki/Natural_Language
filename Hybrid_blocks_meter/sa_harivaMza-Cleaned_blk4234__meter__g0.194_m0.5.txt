@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4234 | label: meter | g:0.194 m:0.5 ---
+
+sā tābhyām ṛṣabhākṣābhyāṃ putrābhyāṃ śuśubhe adhikam 
+aditir devamāteva mitreṇa varuṇena ca ।।

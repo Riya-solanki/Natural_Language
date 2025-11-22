@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 32 | label: grammar | g:0.562 m:0.5 ---
+
+kṛśapariṇati cetaḥ kleśavaśyaṃ kva cedaṃ kva ca tava guṇasīmollaṅghinī śāśvadṛddhiḥ ।
+iti cakitam anandīkṛtya māṃ bhaktir ādhād varaca caraṇayos te vākyapuṣpopahāram ।।

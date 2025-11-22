@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 158 | label: meter | g:0.25 m:0.625 ---
+
+dharmyasiddher api bhaved bādhā naivānumānataḥ ।
+svasaṃvedanasiddhā tu yuktā saikapramātṛjā ।।

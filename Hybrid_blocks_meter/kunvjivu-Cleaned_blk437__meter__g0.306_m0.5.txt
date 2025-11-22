@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 437 | label: meter | g:0.306 m:0.5 ---
+
+darpaṇe ca paribhogadarśinī pṛṣṭhataḥ praṇayino niṣeduṣaḥ ।
+vīkṣya bimbamanubimbamātmanaḥ kāni kāni na cakāra lajjayā ।।

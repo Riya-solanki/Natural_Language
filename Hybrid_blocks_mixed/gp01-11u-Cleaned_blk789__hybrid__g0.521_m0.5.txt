@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 789 | label: hybrid | g:0.521 m:0.5 ---
+
+[] mātovāca-vatsa, gṛhajanavat sarvataḥ pratītiṃ mā kṛthāḥ iti ।

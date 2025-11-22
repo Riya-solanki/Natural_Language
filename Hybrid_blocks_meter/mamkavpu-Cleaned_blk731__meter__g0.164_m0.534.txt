@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 731 | label: meter | g:0.164 m:0.534 ---
+
+atrākarṇanakriyākarmatve kodaṇḍaṃ śarānityādi vākyārthasya
+karmatve kodaṇḍaḥ śarā iti prāptam । na ca yacchabdārthastadviśeṣaṇaṃ
+vā kodaṇḍādi । na ca kena kenetyādi praśnaḥ । yathā vā

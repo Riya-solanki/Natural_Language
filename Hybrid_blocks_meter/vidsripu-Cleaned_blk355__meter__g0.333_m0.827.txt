@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 355 | label: meter | g:0.333 m:0.827 ---
+
+sa jayati saṃkalpabhavo ratimukhaśatapatracumbanabhramaraḥ ।
+yasyānuraktalalanānayanāntavilokitaṃ vasatiḥ ।।
+dāmodaraguptasya

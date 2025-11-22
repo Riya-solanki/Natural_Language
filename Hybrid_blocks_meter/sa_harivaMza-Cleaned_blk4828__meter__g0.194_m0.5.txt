@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4828 | label: meter | g:0.194 m:0.5 ---
+
+tasya tad vacanaṃ śrutvā prādhyāyad garuḍaṃ hariḥ 
+sa kṛṣṇapārśvam āgamya harṣeṇāvasthito abhavat ।।

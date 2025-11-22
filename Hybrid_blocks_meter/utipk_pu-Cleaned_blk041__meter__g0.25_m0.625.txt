@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 41 | label: meter | g:0.25 m:0.625 ---
+
+smṛtitaiva kathaṃ tāvad bhrānteś cārthasthitiḥ katham ।
+pūrvānubhavasaṃkārāpekṣā ca kim itīṣyate ।।

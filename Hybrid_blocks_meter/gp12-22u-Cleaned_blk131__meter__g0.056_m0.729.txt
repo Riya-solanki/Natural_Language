@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 131 | label: meter | g:0.056 m:0.729 ---
+
+mūrdha-śreṇyāṃ tasya śūnye ca kṛṣṇe
+nṛtyaṃ kurvāṇe tu citraṃ tadāsīt ।
+tena krodhān mastakaṃ yady udastaṃ
+tatrānena prāpitā tāla-lattā ।। [śālinī]

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 89 | label: meter | g:0.062 m:0.616 ---
+
+paśyantī jalajekṣaṇā ghana-rasāvarta-śrutiḥ śṛṇvatī
+jighrantī jhaṣa-nāsikā tarala-dor āliṅganaṃ kurvatī ।
+jalpantīva ca haṃsa-cakra-vadanā nīrātmanā kṛṣṇa-bhāg
+yā kṛṣṇā bata sātha kīdṛg asakṛd devyātmanā ceṣṭate ।। [śārdūlā]

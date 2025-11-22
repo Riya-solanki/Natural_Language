@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 767 | label: hybrid | g:0.5 m:0.5 ---
+
+nanu {naikaṃ padaṃ dviḥ prayojyaṃ prāyeṇa} ityanyatra kathitapadaṃ duṣṭamiti cehaivoktam । tatkathamekasya padasya dviḥprayogaḥ । ucyate । uddeśyapratinirdeśyavyatirikto viṣaya ekapadaprayoganiṣedhasya । tadvati viṣaye pratyuta tasyaiva padasya sarvanāmro vā prayogaṃ vinā doṣaḥ । tathāhi

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6194 | label: meter | g:0.194 m:1.0 ---
+
+anyenotthāpyate anyena tathā saṃveśyate jarī 
+bhṛtyātmaputradārāṇām avamānāspadīkṛtaḥ ।।

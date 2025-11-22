@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 351 | label: hybrid | g:0.49 m:0.375 ---
+
+atha sukumāratā-
+yad aniṣṭhura-varṇatvaṃ saukumāryaṃ tad ucyate ।। athā utphulla-gaṇḍa-yugam udgata-manda-hāsam ity atra saṃyuktākṣara-sadbhāve' py aniṣṭhuratvāt saukumāryam ।

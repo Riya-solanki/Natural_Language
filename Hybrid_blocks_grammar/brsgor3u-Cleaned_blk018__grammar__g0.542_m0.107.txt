@@ -1,0 +1,11 @@
+--- source: brsgor3u-Cleaned.txt | block: 18 | label: grammar | g:0.542 m:0.107 ---
+
+aṅgīkāre apyanukūlo dṛṣṭānta ityāha-sthūleti ।
+sūkṣmamanudbhūtarūpamiti maraṇe sarvakarmābhivyaktyasiddhiriti śeṣaḥ ।
+evaṃ sarvakarmasaṅgha ekajanmārambhaka ityaikabhavikaḥ karmāśaya iti matanirāsamupasaṃharati-tasmāditi ।
+caraṇaśrutyā atataḥ śeṣeṇa'ityādismṛtyā aprabalapratibandhāt'itinyāyena cānabhivyaktakarmasadbhāvādityarthaḥ ।
+nanu muktyanupapattyāṅgīkārya aikabhavika ityata āha-śeṣeti ।
+sūtraśeṣaṃ vyācaṣṭe-te cetyādinā ।
+avarohamārga itthaṃ śrūyate-'tasmin yāvatsaṃpātamuṣitvā athaitamevādhvānaṃ punarnivartante yathetamākāśamākaśādvāyuṃ vāyurbhūtvā dhūmo bhavati dhūmo bhūtvābhraṃ bhūtvā megho bhavati bhūtvā pravarṣati ta iha vrīhiyavā oṣadhivanaspatayastilamāṣā iti jāyante ato vai khalu durniṣprapataraṃ yo yo hyannamatti yo retaḥ siñcati tadbhūya eva bhavati tadya iha ramaṇīyacaraṇā ramaṇīyāṃ yonimāpadyante'iti ।
+dhūmādyadhvanā yathetaṃ yathāgataṃ tathetamadhvānaṃ punarāyantītyuktvā dhūmādirūpapitṛmārgastharātryādikaṃ noktamadhikaṃ cābhrādikamuktamiti matvā sūtrakṛtoktaṃ yathetamanevaṃ ceti ।
+avaśiṣṭaśrutyartho agne sphuṭībhaviṣyati ।।

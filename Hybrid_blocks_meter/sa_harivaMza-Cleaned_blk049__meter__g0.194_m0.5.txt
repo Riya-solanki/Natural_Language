@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 49 | label: meter | g:0.194 m:0.5 ---
+
+tasmai brahmā dadau prītaḥ sthānam ātmasamaṃ prabhuḥ 
+acalam caiva purataḥ saptarṣīṇāṃ prajāpatiḥ ।।

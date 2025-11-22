@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 21 | label: meter | g:0.272 m:0.595 ---
+
+anyonyanirapekṣāṇāṃ yatra janma dhiyāṃ bhavet ।।
+- iti ।।

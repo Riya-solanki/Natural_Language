@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10643 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ sā paramā duṣṭā hokā tamoṅgā tu prakīrtitā ।
+jīvavargeṣveva khaga brahmādernāsti sā kvacit ।।

@@ -1,0 +1,12 @@
+--- source: brssgo1u-Cleaned.txt | block: 87 | label: hybrid | g:0.459 m:0.526 ---
+
+atrocyate- nāvagatabrahmātmabhāvasya yathāpūrvaṃ saṃsāritvaṃ śakyaṃ darśayituṃ va vedapramāṇajanitabrahmātmabhāvavirodhāt ।
+nahi śarīrādyātmābhimānino duḥkhabhayādimattvaṃ dṛṣṭamiti tasyaiva vedapramāṇajanitabrahmātmāvagame tadabhimānanivṛttau tadeva mithyājñānanimittaṃ duḥkhabhayādimattvaṃ bhavatīti śakyaṃ kalpayitum ।
+nahi dhanino gṛhasthasya dhanābhimānino dhanāpahāranimittaṃ duḥkhaṃ dṛṣṭamiti tasyaiva pravrajitasya dhanābhimānarahitasya tadeva dhanāpahranimittaṃ duḥkhaṃ bhavati ।
+naca kuṇḍalinaḥ kuṇḍalitvābhimānanimittaṃ sukhaṃ dṛṣṭamiti tasyaiva kuṇḍalaviyuktasya kuṇḍalitvābhimānanimittaṃ sukhaṃ bhavati ।
+taduktaṃ śrutyā- aārīraṃ vāva santaṃ na priyāpriye spṛśataḥ' iti ।
+śarīre patite aśarīratvaṃ syāt, na jīvata iti cenna, saśarīratvasya mithyājñānanimittattvāt ।
+na hyātmanaḥ śarīrātmābhimānalakṣaṇaṃ mithyājñānaṃ muktvānyataḥ saśarīratvaṃ śakyaṃ kalpayitum ।
+nityamaśarīratvamakarmanimittattvādityavocāma ।
+tatkṛtadharmādharmanimittaṃ saśarīratvamiti cenna, śarīrasaṃbandhasyāsiddhatvāddharmādharmayorātmakṛtatvāsiddheḥ ।
+śarīrasaṃbandhasya dharmādharmayostatkṛtatvasya cetaretarāśrayatvaprasaṅgādandhaparamparaiṣānāditvakalpanā ।

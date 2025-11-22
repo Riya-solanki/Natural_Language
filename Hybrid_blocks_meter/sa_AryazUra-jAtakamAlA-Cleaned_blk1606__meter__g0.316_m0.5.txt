@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1606 | label: meter | g:0.316 m:0.5 ---
+
+na citrarūpā sujane kṛtajñatā nisargasiddhaiva hi tasya sā sthitiḥ ।
+jagattu dṛṣṭvā samudīrṇavikriyaṃ kṛtajñatāpyadya guṇeṣu gaṇyate ।।

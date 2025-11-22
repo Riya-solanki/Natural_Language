@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 311 | label: meter | g:0.25 m:0.5 ---
+
+iṣa ūrjas tanūpaś ca madhur mādhava eva ca 
+śuciḥ śukraḥ sahaś caiva nabhasyo nabha eva ca 
+bhānavas tatra devāś ca manvantaram udāhṛtam ।।

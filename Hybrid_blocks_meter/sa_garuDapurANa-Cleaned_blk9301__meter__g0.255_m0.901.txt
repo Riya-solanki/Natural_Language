@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9301 | label: meter | g:0.255 m:0.901 ---
+
+śrībhagavānuvāca ।
+ṣaṭaśītisahasrāṇi yojanānāṃ pramāṇataḥ ।
+yamalokasya cādhvānamantarā mānuṣasya ca ।।

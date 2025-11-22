@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 54 | label: meter | g:0.25 m:0.625 ---
+
+dvandvasya prasaro dhātuḥ kanakavarṇasya satribhaḥ ।
+māhendramaṇḍalañcaiva ratnanāthasya sañcaret ।।

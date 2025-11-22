@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 306 | label: grammar | g:0.562 m:0.5 ---
+
+prasiddhahetuvyāvṛttyā yat kiṃciṭ kāraṇāntaram yatra svābhāvikatvaṃ vā vibhāvyaṃ sā vibhāvanā ।।

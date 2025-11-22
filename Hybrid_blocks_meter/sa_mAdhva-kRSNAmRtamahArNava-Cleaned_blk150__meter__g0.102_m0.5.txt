@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 150 | label: meter | g:0.102 m:0.5 ---
+
+yad anādikṛtaṃ pāpaṃ tad ūrdhvaṃ yat kariṣyati
+tat sarvaṃ vilayaṃ yāti pareṣām upavāsanāt
+na ca tasmāt priyatamaḥ keśavasya mamāpi vā ।।

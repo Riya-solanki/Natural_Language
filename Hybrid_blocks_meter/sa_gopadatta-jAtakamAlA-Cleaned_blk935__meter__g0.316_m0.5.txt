@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 935 | label: meter | g:0.316 m:0.5 ---
+
+pratyantavāsaratayas tṛṇamātratuṣṭā yat tāpasā iva paravyasanānabhijñāḥ ।
+lakṣyībhavanti hariṇāḥ paritaḥ śarāṇāṃ kṣudduḥkham atra niyamena paraimi hetum ।।

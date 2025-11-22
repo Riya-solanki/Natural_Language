@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3008 | label: meter | g:0.194 m:0.625 ---
+
+yāni rājavināśāya daivajñāḥ kathayanti hi 
+tāni sarvāṇi paśyāmo nimittāny aśubhāni vai ।।

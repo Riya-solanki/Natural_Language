@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 632 | label: meter | g:0.25 m:0.625 ---
+
+āyānty amī kāñcanarāśigaurā vidhūtakāṣāyapaṭāntabhaṅgāḥ ।
+parasparāsliṣṭavikīrṇapakṣāḥ khaṃ cakravākā iva śobhayantaḥ ।।

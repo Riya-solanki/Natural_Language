@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11115 | label: meter | g:0.306 m:0.5 ---
+
+pādāravindaṃ tava viśvamūrte yogīśvarairhṛdaye saṃgṛhītam ।
+dṛṣṭaṃ mayā dayayā vāsudeva drakṣye kathaṃ punaritthaṃ ruroda ।।

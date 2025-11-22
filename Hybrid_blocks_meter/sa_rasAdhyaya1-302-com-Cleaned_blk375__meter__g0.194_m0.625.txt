@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 375 | label: meter | g:0.194 m:0.625 ---
+
+ayaḥprakāśarājau ca jīrṇāyāṃ pītatā bhavet 
+raktatāpādanārthaṃ ca himarājiṃ ca jārayet ।।

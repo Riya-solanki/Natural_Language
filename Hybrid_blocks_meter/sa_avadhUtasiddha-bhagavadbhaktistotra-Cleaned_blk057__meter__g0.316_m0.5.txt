@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 57 | label: meter | g:0.316 m:0.5 ---
+
+unmārgavarti guṇadoṣavivekamandam ugraṃ malīmasam asaṃyatam alpasāram ।
+bhītārthināśana dayāpara lokanātha deva prasīda mama cittam idaṃ praśādhi ।।

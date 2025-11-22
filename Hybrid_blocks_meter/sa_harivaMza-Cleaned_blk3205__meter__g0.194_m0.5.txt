@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3205 | label: meter | g:0.194 m:0.5 ---
+
+sa tayor darśayāmāsa tad dhanuḥ stambhasaṃnibham 
+anāropyam asaṃbhedyaṃ devair api savāsavaiḥ ।।

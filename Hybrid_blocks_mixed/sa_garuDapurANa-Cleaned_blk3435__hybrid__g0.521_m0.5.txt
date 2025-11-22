@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3435 | label: hybrid | g:0.521 m:0.5 ---
+
+vaśyaśca purtrer'tha karī ca vidyā arogitā sajjanasaṅgatiśca ।
+iṣṭā ca bhāryā vaśavartinī ca duḥ khasya mūloddharaṇāni pañca ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 143 | label: meter | g:0.264 m:0.71 ---
+
+lomaharṣaṇa uvāca ।
+evaṃ stuto atha bhagavān vāsudeva uvāca tām ।
+adṛśyaḥ sarvabhūtānāṃ tasyāḥ saṃdarśane sthitaḥ ।।

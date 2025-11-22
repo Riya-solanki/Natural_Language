@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4022 | label: meter | g:0.194 m:0.5 ---
+
+gandharvāṇāṃ ca yāḥ kanyā jahāra narako balī 
+yāś ca devamanuṣyāṇāṃ sapta cāpsarasāṃ gaṇāḥ ।।

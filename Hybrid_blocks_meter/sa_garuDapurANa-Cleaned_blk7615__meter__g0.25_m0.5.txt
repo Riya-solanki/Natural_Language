@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7615 | label: meter | g:0.25 m:0.5 ---
+
+viṣṇumuddiśya dātavyā suśīlā gauḥ payasvinī ।
+tilā lauhaṃ hiraṇyañca karpāsaṃ lavaṇaṃ tathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 872 | label: meter | g:0.25 m:0.625 ---
+
+kṣīrārṇava iti khyāta udadhirdadhimālyasau ।
+kṣamaṃ nātaḥ paraṃ gantuṃ śakyate cennivartitum ।।

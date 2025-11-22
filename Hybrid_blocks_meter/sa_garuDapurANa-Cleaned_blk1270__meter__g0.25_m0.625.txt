@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1270 | label: meter | g:0.25 m:0.625 ---
+
+astraṃ caiva samastānāṃ nyāso ayaṃ sarvakāmikaḥ ।
+akṣatānviṣṭaraṃ caiva astreṇaivābhimantritān ।।

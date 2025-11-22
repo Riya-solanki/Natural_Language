@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 788 | label: meter | g:0.156 m:0.512 ---
+
+kiṃ ca-
+mā vilambadhvam atyarthaṃ yuṣmad-duḥkhena kampratām ।
+mayi gacchaty adripatiḥ patitā viśata drutam ।। [anuṣṭubh]

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9165 | label: meter | g:0.25 m:0.75 ---
+
+indriyaiśca samāyuktaṃ navadvāraṃ śarīrakam ।
+viṣayaiśca samākrāntaṃ kāma-krodhasamākulam ।।

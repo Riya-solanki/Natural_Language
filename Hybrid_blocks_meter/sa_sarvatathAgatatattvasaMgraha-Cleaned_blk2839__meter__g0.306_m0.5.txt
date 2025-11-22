@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2839 | label: meter | g:0.306 m:0.5 ---
+
+sarvaśuddha iti prokte svato vāpi parasya vā ।
+strīsaṅgādyāstu saṃyogā na mokṣaṃ yānti sarvaśa ।।

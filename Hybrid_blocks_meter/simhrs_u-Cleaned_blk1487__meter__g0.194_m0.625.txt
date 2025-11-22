@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1487 | label: meter | g:0.194 m:0.625 ---
+
+samyak saṃskārra-vidyā-viśadam upaniṣad-bhūtam arthādbhutānāṃ
+grathnantu grantha-bandhaṃ vacanam anupatat-sūkti-mudrāḥ kavīndrāḥ ।
+santaḥ santarpitāntaḥ-karaṇam anuguṇaṃ brahmaṇaḥ kāvya-mūrtes
+tat tattvaṃ sāttvikaiś ca prathama-piśunitaṃ bhāvayanto' rcayantu ।।

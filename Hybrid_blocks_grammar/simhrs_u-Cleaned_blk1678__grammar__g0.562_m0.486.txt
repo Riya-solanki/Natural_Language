@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1678 | label: grammar | g:0.562 m:0.486 ---
+
+yathā veṇī-saṃhāre, bhīmaḥ-bho bho alam alam āśaṅkayā ।
+kartā dyūta-cchalānāṃ jatu-maya-śaraṇoddīpanaḥ so' timānī kṛṣṇākeśottarīya-vyapanayana-marut pāṇḍavā yasya dāsāḥ ।
+rājā duḥśāsanāder gurur anuja-śatasyāṅga-rājasya mitraṃ kvāste duryodhano' sau kathayata na ruṣā draṣṭum abhyāgatau svaḥ ।।

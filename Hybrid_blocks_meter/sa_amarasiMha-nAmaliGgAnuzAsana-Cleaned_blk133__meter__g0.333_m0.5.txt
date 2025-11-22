@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 133 | label: meter | g:0.333 m:0.5 ---
+
+jātirjātaṃ ca sāmānyaṃ vyaktistu pṛthagātmatā cittaṃ tu ceto hṛdayaṃ svāntaṃ hṛnmānasaṃ manaḥ

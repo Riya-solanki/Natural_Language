@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 337 | label: meter | g:0.212 m:0.956 ---
+
+utphulla-gaṇḍa-yugam udgata-manda-hāsam
+udvela-rāgam urarīkṛta-kāma-tantram ।
+hastena hastam avalambya kadā nu seve
+saṃlāpa-rūpam amṛtaṃ sarasīruhākṣyāḥ ।।

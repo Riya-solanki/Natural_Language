@@ -1,0 +1,14 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 970 | label: grammar | g:0.602 m:0.09 ---
+
+haryaṅgasya sutaḥ karṇo vikarṇas tasya cātmajaḥ 
+rājā bhadrarathaḥ smṛtaḥ ।
+putro bhadrarathasyāsīd bṛhatkarmā prajeśvaraḥ । 
+bṛhaddarbhaḥ sutas tasya yasmāj jajñe bṛhanmanāḥ ।। 
+bṛhanmanās tu rājendro janayām āsa vai sutam । 
+nāmnā jayadrathaṃ nāma yasmād dṛḍharatho nṛpaḥ ।। 
+āsīd dṛḍharathasyāpi viśvajij janamejaya । 
+dāyādas tasya karṇas tu ।
+tasya putraśataṃ tv āsīd aṅgānāṃ kulavardhanam ।। 
+vikarṇasya sutas tv āsīd aṅgadaḥkulavardhanaḥ । bṛhaddarbhasuto yas tu rājā nāmnābṛhanmanāḥ । tasya patnīdvayam cāsīc caidyasyaite sute śubhe । yaśodevī ca sattvī ca tābhyāṃ vaṃśaḥ sa bhidhyate ।। jayadrathas tu rājendra yaśodevyāṃ vyajāyata । brahmakṣatrottaraḥ sattvyāṃ vijayo nāma viśrutaḥ ।। vijayasya dhṛtiḥ putras tasya putro dhṛtavrataḥ । dhṛtavratasya putras tu satyakarmā mahāvrataḥ ।। satyakarmasutaś cāpi sūtas tv adhirathas tu vai । yaḥ karṇaṃ pratijagrāha tataḥ karṇas tu sūtajaḥ ।। etad vaḥ kathitaṃ sarvaṃ karṇaṃ prati mahābalam । karṇasya vṛṣasenas tu vṛṣas tasyātmajaḥ smṛtaḥ । dhārmikaḥ sarvavarṇas tu senastasyātmajo abhavat । 
+ete aṅgavaṃśajāḥ sarve rājānaḥ kīrtitā mayā 
+satyavratā mahātmānaḥ prajāvanto mahārathāḥ ।।

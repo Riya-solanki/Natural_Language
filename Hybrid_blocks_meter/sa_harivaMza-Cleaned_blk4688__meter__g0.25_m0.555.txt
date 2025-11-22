@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4688 | label: meter | g:0.25 m:0.555 ---
+
+tataḥ prāstīrya paṭṭaṃ sā citralekhā svayaṃkṛtam 
+atyujjvalaṃ mahācitraṃ piṅgavarṇavibhūsitam । 
+uṣāyā darśayām āsa sakhīnāṃ ca viśeṣataḥ ।।

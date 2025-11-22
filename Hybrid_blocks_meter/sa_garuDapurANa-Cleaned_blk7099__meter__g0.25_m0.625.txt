@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7099 | label: meter | g:0.25 m:0.625 ---
+
+bijñānarahitaḥ prāṇaḥ suṣuptau hi pratīyate ।
+nāhamātmā ca duḥ khādisaṃsārādisamanvayāt ।।

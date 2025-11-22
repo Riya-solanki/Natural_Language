@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 860 | label: meter | g:0.25 m:0.625 ---
+
+kṣobhaṃ vilokya munaya āśrameṣu svayoṣitām ।
+hanyatāmiti saṃbhāṣya kāṣṭhapāṣāṇapāṇayaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 317 | label: grammar | g:0.604 m:0.5 ---
+
+[] tatra kṣaṇa-katipayaṃ jananī-janita-lālana-nirmāṇa-śarmānubhūya, snāna-dhāmani sambhūya nija-sevā-kṛj-jana-kārita-majjanādibhiḥ, suveśatayā vibhūya, punar jananī-sanīḍam evājagmatuḥ ।

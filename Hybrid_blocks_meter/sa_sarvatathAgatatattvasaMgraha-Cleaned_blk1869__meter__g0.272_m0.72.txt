@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1869 | label: meter | g:0.272 m:0.72 ---
+
+tatraiṣāṃ hṛdayāni bhavanti ।
+dha ।।

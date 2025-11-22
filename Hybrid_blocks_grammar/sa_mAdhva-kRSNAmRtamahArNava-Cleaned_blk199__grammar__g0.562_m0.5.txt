@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 199 | label: grammar | g:0.562 m:0.5 ---
+
+klinnaṃ pādodakenaiva yasya nityaṃ kaḷebaram tīrthakoṭisahasrais tu snāto bhavati pratyaham ।।

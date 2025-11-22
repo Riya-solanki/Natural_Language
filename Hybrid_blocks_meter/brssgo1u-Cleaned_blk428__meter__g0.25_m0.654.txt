@@ -1,0 +1,9 @@
+--- source: brssgo1u-Cleaned.txt | block: 428 | label: meter | g:0.25 m:0.654 ---
+
+dvitīyastvasiddhaḥ, īśvarasya svāvidyopārjitasarvasaṃbandhitvādityāha-yānniyacchatīti ।
+saśarīro niyantetilokadṛṣṭimanusṛtyaitaduktam ।
+vastutastu cetanasāṃnidhyājjaḍasya vyāpāro niyamanaṃ tacchaktimattvaṃ niyantṛtvaṃ ।
+taccācintyamāyāśakteścidātmanaḥ śarīraṃ vinaivopapannaṃ ।
+nanu dehaniyanturjīvasyānyo niyantā cettasyāpyanya ityanavasthetyata āha-tasyāpīti ।
+niraṅkuśaṃ sarvaniyantṛtvamīśvarasya śrutaṃ, tasya niyantrantarānumāne śrutibādha dati nānavasthetyarthaḥ ।
+yadvā īśvarādbhedakalpanayā jīvasya niyantṛtvokteḥ satyabhedābhāvānnānavasthetyarthaḥ ।।

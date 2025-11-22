@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 889 | label: meter | g:0.194 m:0.5 ---
+
+prajvalan dṛśyate bhūtair yasyedaṃ tu śarīragam 
+ataḥ kiṃ bahunoktena siṃhasyaiva yathā mṛgāḥ ।।

@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 269 | label: meter | g:0.412 m:0.618 ---
+
+garbhadrutiyogyabīja 
+samamākṣikakṛtavāpaṃ samamākṣikasatvasaṃyutaṃ hema ।
+garbhe dravati ca jarati ca jaritaṃ badhnāti nānyathā sūtam ।।

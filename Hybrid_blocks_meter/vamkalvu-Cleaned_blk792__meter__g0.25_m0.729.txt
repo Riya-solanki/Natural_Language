@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 792 | label: meter | g:0.25 m:0.729 ---
+
+bāṣpaḥ pathikakāntānāṃ jalaṃ jalamucāṃ muhuḥ ।
+vigalatyadhunā daṇḍayātrodyogo mahībhujām ।।
+guruśuśrūṣayā vidyā madhugoṣṭhyā manobhavaḥ ।
+udayena śaśāṅkasya payodhirabhivardhate ।।

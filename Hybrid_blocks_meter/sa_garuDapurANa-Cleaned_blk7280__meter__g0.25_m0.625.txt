@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7280 | label: meter | g:0.25 m:0.625 ---
+
+lepyā tu gomayairbhūmistilāndarbhānviniḥ kṣipet ।
+tasyāmevāturo muktaḥ sarvaṃ dahati kilbiṣam ।।

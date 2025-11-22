@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 378 | label: hybrid | g:0.542 m:0.5 ---
+
+[] madhukaṇṭha uvāca-ekaṃ tāvad bhavan-manaḥ-prahlannatā-samucitaṃ pravahlikā-padyam idam anavadyaṃ pūryatām ।

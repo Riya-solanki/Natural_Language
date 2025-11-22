@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 617 | label: meter | g:0.25 m:0.5 ---
+
+nanu liṅgamapyasatyāṃmanyasyāṃ prāptāvasādhakaṃ kasyacidarthasyetyapāsya tatprakaraṇasāmarthyātkriyāśeṣatvamadhyavasitamityata uttaraṃ paṭhati -

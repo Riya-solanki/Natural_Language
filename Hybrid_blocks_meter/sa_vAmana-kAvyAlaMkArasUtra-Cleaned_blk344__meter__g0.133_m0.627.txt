@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 344 | label: meter | g:0.133 m:0.627 ---
+
+yathā ca gauṇasyārthasyālaṅkāratvaṃ tathā lākṣaṇikasyāpīti darśayitumāha 
+sādṛśyāllakṣaṇā vakroktiḥ ।।
+bahuni hi nibandhanāni lakṣaṇāyām । tatra sādṛśyāllakṣaṇāvakroktirasāviti । yathā

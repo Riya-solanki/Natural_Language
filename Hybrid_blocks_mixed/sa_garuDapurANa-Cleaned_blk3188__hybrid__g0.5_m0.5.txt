@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3188 | label: hybrid | g:0.5 m:0.5 ---
+
+vāgyantrahīnasya narasya vidyā śastraṃ yathā kāpuruṣasya haste ।
+na tuṣṭimutpādayate śarīre hyandhasya dārā iva darśanīyāḥ ।।

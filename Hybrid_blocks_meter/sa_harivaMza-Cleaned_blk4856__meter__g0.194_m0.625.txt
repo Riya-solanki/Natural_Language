@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4856 | label: meter | g:0.194 m:0.625 ---
+
+athāpare mahābhāgāḥ svair anīkair vyavasthitāḥ 
+agnayaḥ samadṛśyanta jvalamānā mahāhave । 
+paṭaraḥ patagaḥ svarṇo agādho bhrāja eva ca 
+svāhākārāśrayā pañca ayudhyaṃs te api cāgnayaḥ ।।

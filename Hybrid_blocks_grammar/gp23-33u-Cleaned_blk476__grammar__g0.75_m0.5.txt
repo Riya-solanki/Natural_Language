@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 476 | label: grammar | g:0.75 m:0.5 ---
+
+[] tathā hi-yadā khalv aharahaḥ kṣayam āsādya vādya-gīta-nṛtyaṃ vivṛtya sahacara-saṅginībhiḥ śṛṅgiṇībhiḥ saha sa harir vraja-jana-sneha-dhanaḥ sva-veśma praviśati tadā vigata-parimāṇā vimānānucāriṇaḥ sarva eva samam upary-upari-cariṇaḥ saha gaṇena kaṇehatya spaṣṭaṃ draṣṭum icchantas tad-abhāva-labdha-kadanāḥ sadanānta-paryantam āyānti । kṛta-veśma-praveśe tu tasmin vismaya-sthagitatayā sa-lālasatayā ca tatra tatra citrāyamāṇā rātriṃ gamayanti sma ।

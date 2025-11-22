@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 195 | label: meter | g:0.25 m:0.5 ---
+
+svāpe'pyāste bodhayan bodhayogyān rodhyān rundhan pācayankarmikarma ।
+māyāśaktīr vyaktiyogyāḥ prakurvan paśyansarvaṃ yadyathā vastujātam ।।

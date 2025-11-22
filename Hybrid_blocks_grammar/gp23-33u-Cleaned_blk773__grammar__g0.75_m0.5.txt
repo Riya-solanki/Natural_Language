@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 773 | label: grammar | g:0.75 m:0.5 ---
+
+[] atra mat-sandeśaiḥ iti mayy āveśya manaḥ kṛṣṇe vimuktāśeṣa-vṛtti yat anusmarantyo māṃ nityam acirān mām upaiṣyatha [BhP ] iti paryavasānair ity arthaḥ । mām eva dayitam iti, me vallavyaḥ ity atra tu viśeṣo' py asti, tasmāt tad eka-vrata-jīvana-vratānāṃ tad-bhāryāṇāṃ nānyā gatir nyāyyā ।

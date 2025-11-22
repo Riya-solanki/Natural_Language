@@ -1,0 +1,8 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11550 | label: meter | g:0.283 m:0.654 ---
+
+hemayajñopavītāṅgaṃ sākṣātkandarpasannibham ।
+jaganmohanasaindaryaṃ komalāṅgaṃ manoharam ।।
+dṛṣṭvā ca kanyā mumude romāñcitasugātrakā ।।
+taddarśanāhlādapariplutāśayā premṇātha romāśrukulākulekṣaṇā ।
+nanarta devī puratastasya viṣṇoḥ sā dhvastadoṣā paramādareṇa ।
+ānanda māṃ pāhi sukhaṃ ca dattvā mukundā māṃ pāhi vimuktidānāt ।।

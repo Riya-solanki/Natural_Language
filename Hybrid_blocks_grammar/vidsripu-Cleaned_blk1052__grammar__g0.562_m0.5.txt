@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1052 | label: grammar | g:0.562 m:0.5 ---
+
+deva svasti vayaṃ dvijās tata itas tīrtheṣu sisnāsavaḥ kālindīsurasindhusaṃgapayasi snātuṃ samīhāmahe ।
+tad yācemahi saptapiṣṭapaśucībhāvaikatānavrataṃ saṃyaccha svayaśaḥ sitāsitapayobhedād viveko astu naḥ ।।

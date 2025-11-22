@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 708 | label: meter | g:0.194 m:1.0 ---
+
+lāvaṇyasinduraparaiva hi kācaneyaṃ
+yatrotpalāni śaśinā saha saṃplavante ।
+unmañjati dviradakumbhataṭī ca yatra
+yatrāpare kadalikāṇḍamṛṇāladaṇḍāḥ ।।

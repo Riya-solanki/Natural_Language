@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2920 | label: meter | g:0.194 m:0.5 ---
+
+kṛtapādādiśaucaś ca bhuktvā sāyaṃ tato gṛhī 
+gacched asphuṭitāṃ śayyām api dārumayīṃ nṛpa ।।

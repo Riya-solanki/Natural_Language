@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 433 | label: meter | g:0.271 m:0.5 ---
+
+atra hālāhalaṃ vyaṅgyaṃ bhujagarūpasya vācyasya siddhikṛt । yathā vā

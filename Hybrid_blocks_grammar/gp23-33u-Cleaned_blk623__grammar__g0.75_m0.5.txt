@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 623 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ vrajata udāsīnāyamānasya tava tādṛśa-cintā-mātreṇācintya-śaktyā drāg eva dūrataḥ samudrāntaḥ-purī-viśeṣasya vyaktyā tatra ca yadūnāṃ jhaṭiti prasaktyā tam urīkariṣyasi । tad-anantaram eva kāla-yavane kālavad ācariṣyasi । mucukundaṃ ca prati mukundatvaṃ kunda-sundara-danta-kandalita-manda-hāsa-maya-samaya-racana-vacana-vilāsataḥ kṛpām ullāsayiṣyasi ।

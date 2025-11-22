@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1377 | label: meter | g:0.194 m:0.625 ---
+
+tena hehayarājasya kārtavīryasya dhīmataḥ 
+varadena varo datto dattātreyeṇa dhīmatā ।।

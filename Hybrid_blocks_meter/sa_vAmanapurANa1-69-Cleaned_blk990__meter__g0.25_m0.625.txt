@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 990 | label: meter | g:0.25 m:0.625 ---
+
+viśvakarmā dvitīyāyāṃ tṛtīyāyāṃ gireḥ sutā ।
+vināyakaścurthyā tu pañcamyāmapi dharmarāṭ ।।

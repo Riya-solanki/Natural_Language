@@ -1,0 +1,3 @@
+--- source: kamasufu-Cleaned.txt | block: 104 | label: meter | g:0.0 m:1.0 ---
+
+iti durbhagā-vṛttam

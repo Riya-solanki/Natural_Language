@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1239 | label: grammar | g:0.552 m:0.5 ---
+
+sā cātha pāśena babandha duṣṭaṃ sa cāpyabhūt klinnakaṭaḥ karīndraḥ ।
+karaṃ praciccheda ca hastino agraṃ sa cāpi bhṛyo mahiṣo abhijātaḥ ।।

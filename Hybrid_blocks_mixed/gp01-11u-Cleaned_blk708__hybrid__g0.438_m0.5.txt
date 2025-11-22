@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 708 | label: hybrid | g:0.438 m:0.5 ---
+
+[] tad evaṃ varṇanam ākarṇayatsu sabhāsatsu prahasatsu śrīmad-vraja-purandara-kula-dhurandhara-kiśora-vare cānavarajena saha dara-smita-sundaratara-vadanatayā netrādaraṇīye sati samāpanāya punar uvāca snigdhakaṇṭhaḥ-

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4681 | label: hybrid | g:0.476 m:0.5 ---
+
+idaṃ tu te kāryatamaṃ śṛṇu tvaṃ vai mayeritam 
+vijñeyo yasya putras tu yan nāmā yat kulaś ca saḥ ।।

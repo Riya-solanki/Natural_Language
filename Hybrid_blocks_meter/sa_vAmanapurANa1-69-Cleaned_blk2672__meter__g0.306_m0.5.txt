@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2672 | label: meter | g:0.306 m:0.5 ---
+
+yaccābravīd dīyatāṃ me giriputrīti dānavaḥ ।
+tadeṣā yātu svaṃ kāmaṃ nāhaṃ vārayituṃ kṣamaḥ ।।

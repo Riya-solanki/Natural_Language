@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1280 | label: meter | g:0.194 m:0.625 ---
+
+śukraṃ somātmakaṃ vidyād ārtavaṃ pāvakātmakam 
+bhāvau rasānugāv etau vīryaṃ ca śaśipāvakau ।।

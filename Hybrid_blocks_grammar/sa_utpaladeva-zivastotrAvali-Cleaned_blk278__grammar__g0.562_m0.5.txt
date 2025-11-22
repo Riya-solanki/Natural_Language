@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 278 | label: grammar | g:0.562 m:0.5 ---
+
+yatsamastasubhagārthavastuṣu sparśamātravidhinā camatkṛtim tāṃ samarpayati tena te vapuḥ pūjayanty acalabhaktiśālinaḥ ।।

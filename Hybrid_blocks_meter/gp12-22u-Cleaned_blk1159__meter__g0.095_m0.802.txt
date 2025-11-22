@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1159 | label: meter | g:0.095 m:0.802 ---
+
+yadi na bhavati gopa-sundarīṇām
+ayam atha melayiteti sampratītiḥ ।
+kusuma-śara-śara-praṇetur asya
+sphuṭam anayatvam ṛtoḥ sahate ko vā? ।। [puṣpitāgrā]

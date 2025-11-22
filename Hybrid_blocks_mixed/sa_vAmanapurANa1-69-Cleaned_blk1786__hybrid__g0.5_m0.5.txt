@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1786 | label: hybrid | g:0.5 m:0.5 ---
+
+nājitāhaṃ raṇe vīra bhave bhāryā hi kasyacit ।
+bhavān yadiha bhāryārtho tato māṃ jaya saṃyuge ।।

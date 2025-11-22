@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 809 | label: grammar | g:0.551 m:0.438 ---
+
+te bāṇāḥ kila cūtakuḍmalamayāḥ pauṣpaṃ dhanus tat kila kruddhatryambakalocanāgniśikhayā kāmo api dagdhaḥ kila ।
+kiṃ brūmo vayam apy anena hatakenāpuṅkhamagnaiḥ śarair viddhā eva na cedṛśaḥ parikarasyaivaṃvidhā vedanā ।।
+vīryamitrasya

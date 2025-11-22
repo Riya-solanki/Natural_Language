@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 1096 | label: meter | g:0.097 m:0.585 ---
+
+[] tatra cauryādikaṃ, yathā
+yaṣṭy-āder narmaṇāsann apaharaṇa-karā ye hṛta-svās tathā ye
+dūre ye kṣepakā ye pratiharaṇa-kṛtas te ca te cāśu sarve ।
+śrī-kṛṣṇa-bhrū-vidhūti-pratilava-laghutā-śāli-tat-tad-vilāsaiḥ
+pratyekaṃ svīya-yogyaṃ nigamanam avidus tatra naivānyad anyat ।। [sragdharā]

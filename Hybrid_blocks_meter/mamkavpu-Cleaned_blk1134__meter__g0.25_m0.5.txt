@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1134 | label: meter | g:0.25 m:0.5 ---
+
+{anantamahimavyāptaviśvāṃ vedhā na veda yām ।
+yā ca māteva bhajate praṇate mānave dayām ।।}

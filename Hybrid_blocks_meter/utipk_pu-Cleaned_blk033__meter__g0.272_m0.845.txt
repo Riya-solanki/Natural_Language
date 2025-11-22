@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 33 | label: meter | g:0.272 m:0.845 ---
+
+dviṣṭhasyānekarūpatvāt siddhasyānyānapekṣaṇāt ।
+pāratantryādyayogāc ca tena kartāpi kalpitaḥ ।।

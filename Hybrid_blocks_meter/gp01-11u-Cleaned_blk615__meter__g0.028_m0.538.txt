@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 615 | label: meter | g:0.028 m:0.538 ---
+
+tatra ca-
+snigdhāḥ paśyati seṣmayīti bhujayor yugmaṃ muhuś cālayann
+atyalpaṃ madhuraṃ ca kūjati pariṣvaṅgāya cākāṅkṣati ।
+lābhālābha-vaśād amuṣya lasati krandaty api kvāpy asau
+pīta-stanyatayā svapity api punar jāgran mudaṃ yacchati ।।[śārdulavikrīḍitā]

@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 53 | label: grammar | g:0.559 m:0.5 ---
+
+ājīvaḥ kapaṭāurāga-kalayā doṣo na duḥśīlatā vaidhavyaṃ na ca bādhate sad-asatoḥ saṃbḥāvanā vyatyayāt
+yat-kim-cit-karaṇe para-sva-haraṇe vrīḍā na pīḍā-karī no vā rāja-bhayaṃ ca hī bata sukhaṃ jīvanti vāra-striyas ।।

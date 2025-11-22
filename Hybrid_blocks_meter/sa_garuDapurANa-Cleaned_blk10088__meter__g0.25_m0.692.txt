@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10088 | label: meter | g:0.25 m:0.692 ---
+
+śaunaka uvāca ।
+āste siddhāśrame puṇye sūtaḥ paurāṇikottamaḥ ।
+sa etadakhilaṃ vetti vyāsaśiṣyo yatīśvaraḥ ।।

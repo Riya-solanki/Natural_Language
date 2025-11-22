@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 835 | label: grammar | g:0.708 m:0.5 ---
+
+atra tulyadharmadyotakābhyāṃ vināpi nāyakakīrtiṣu karpūrādibhrāntipratyākhyānenaiva tadupamānopameyabhāvapratīteriyamubhayalopavatī nāma padārthasāmyavatī vākyopamā । kecidenāṃ trilopavatīmapi manyanete । upamānopameyayoranyatarakathane kasya sādharmyamityasaṃmatamityasmākam ।

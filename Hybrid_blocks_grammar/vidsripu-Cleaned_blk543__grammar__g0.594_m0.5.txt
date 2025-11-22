@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 543 | label: grammar | g:0.594 m:0.5 ---
+
+vyāvṛttyā śithilīkaroti vasanaṃ jāgraty api vrīḍayā svapnabhrāntipariplutena manasā gāḍhaṃ samāliṅgati ।
+dattvāṅgaṃ svapiti priyasya rataye vyājena nidrāṃ gatā tanvaṅgyā viphalaṃ viceṣṭitam aho bhāvānabhijñe jane ।।

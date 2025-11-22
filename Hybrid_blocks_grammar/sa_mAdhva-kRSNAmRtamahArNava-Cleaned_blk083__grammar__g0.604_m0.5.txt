@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 83 | label: grammar | g:0.604 m:0.5 ---
+
+kiṃ tasya caraṇaiḥ kāryaṃ vṛthāsañcaraṇair dvija yair hi na vrajate jantuḥ keśavālayadarśane ।।

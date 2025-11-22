@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 69 | label: grammar | g:0.623 m:0.314 ---
+
+adhunā antaḥkaraṇānāṃ pravṛttiṃ darśayati rāgetyādi cidbrahmasaṃsparśāditi cidbrahmaṇi prakāśasvarūpe ātmani yaḥ sparśaḥ tanniṣṭhā tato hetoḥ puruṣā rāgadveṣaviyuktāḥ snehaśatrutvavirahitāḥ syuḥ ।।
+punaḥ satyaḥ ācāraḥ pravṛttidharmo yeṣāṃ te punarmṛṣārahitāḥ atyācārādyasatyavarjitā ityarthaḥ punaḥ sarvatra nirviśeṣāḥ sarvasmin mānāpamānayoḥ samāḥ tathā ca bhagavadvacanam ।
+samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ ।।
+ityādi ।।

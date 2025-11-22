@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1488 | label: grammar | g:0.649 m:0.44 ---
+
+vajrin vajram idaṃ jahīhi bhagavan īśa triśūlena kiṃ viṣṇo tvaṃ ca vimuñca cakram amarāḥ sarve tyajantv āyudham ।
+adyāyaṃ paracakrabhūmanṛpater voḍhuṃ trilokīdhuraṃ prauḍhārātighaṭāvighaṭṭanapaṭur dordaṇḍa evodyataḥ ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 194 | label: hybrid | g:0.078 m:0.355 ---
+
+tatra śṛṅgārasya dvau bhedau । saṃbhogo vipralambhaśca । tatrādyaḥ parasparāvalokanāliṅganādharapānaparicumbanādyanantatvādaparicchedya
+eka eva gaṇyate । yathā

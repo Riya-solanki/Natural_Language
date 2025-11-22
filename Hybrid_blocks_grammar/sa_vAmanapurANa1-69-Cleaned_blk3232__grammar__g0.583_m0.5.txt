@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3232 | label: grammar | g:0.583 m:0.5 ---
+
+taṃ dṛṣṭvā śataśīrṣamudyatagadaṃ śailendraśṛṅgākṛtiṃ viṣṇuḥ śārṅgamapāsya satvaramatho jagrāha cakraṃ kare ।
+so apyenaṃ prasamīkṣya daityaviṭapapracchedanaṃ māninaṃ provācātha vihasya taṃ ca suciraṃ meghasvano dānavaḥ ।।

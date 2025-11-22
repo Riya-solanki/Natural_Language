@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 90 | label: grammar | g:0.75 m:0.5 ---
+
+ātmadravyasya bhāvātmakam apy etaj jaḍād bhedakatayā vimarśākhyaṃ mukhyaṃ rūpam uktaṃ caitanyaṃ dṛśiśaktiś citir iti [adopt var citiśaktir dṛśir iti] । sā cetanakriyā citikartṛtaiva ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 270 | label: meter | g:0.25 m:0.5 ---
+
+tārāgaṇānāmabhibhūya lakṣmīṃ vibhāti yatkāntiguṇena somaḥ ।
+jyotīṃṣi cākramya sahasraraśmiryaddīpyate puṇyaguṇocchrayaḥ saḥ ।।

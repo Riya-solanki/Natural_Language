@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1712 | label: meter | g:0.194 m:0.625 ---
+
+muṣṭibhir nihatāḥ kecit kecid dhi vidalīkṛtāḥ 
+yakṣagandharvapatagāḥ petuḥ saha mahoragaiḥ ।।

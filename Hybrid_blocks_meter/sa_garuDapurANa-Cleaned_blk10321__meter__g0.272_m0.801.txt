@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10321 | label: meter | g:0.272 m:0.801 ---
+
+anyathā ye vijānanti te yānti hyadharaṃ tamaḥ ।
+garuḍa uvāca ।
+rāśīkṛtaguṇānāṃ ca trayāṇāṃ parameśvara ।।

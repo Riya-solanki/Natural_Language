@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 175 | label: meter | g:0.194 m:0.75 ---
+
+ekārṇave tu trailokye brahmā nārāyaṇātmakaḥ 
+bhogiśayyāgataḥ śete trailokyagrāsabṛṃhitaḥ ।।

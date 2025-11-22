@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4540 | label: meter | g:0.25 m:0.788 ---
+
+pulastya uvāca ।
+ityevamuktvā vacanaṃ ditīśvaro vairocanaṃ satyamanuttamaṃ hi ।
+saṃpūjitastena vimuktimāyayau saṃpūrṇakāmo haripādabhaktaḥ ।।

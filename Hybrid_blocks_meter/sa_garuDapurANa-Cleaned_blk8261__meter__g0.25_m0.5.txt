@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8261 | label: meter | g:0.25 m:0.5 ---
+
+kuryātsarvāṇi karmāṇi nirdhano api hi mānavaḥ ।
+dehe yatra vasejjantustatra bhuṅkte śubhāśubham ।।

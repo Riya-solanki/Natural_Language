@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 319 | label: meter | g:0.306 m:0.5 ---
+
+laghutvam atra yat proktaṃ tat tu prākṛtanāyake ।
+na kṛṣṇe rasaniryāsasvādārtham avatāriṇi ।।[] iti ।

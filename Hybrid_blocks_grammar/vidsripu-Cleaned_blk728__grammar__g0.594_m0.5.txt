@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 728 | label: grammar | g:0.594 m:0.5 ---
+
+dīrghocchvāsavikampitākulaśikhā yatra pradīpāḥ kule dṛṣṭir yatra ca dīrghajāgaraguruḥ kope madīye tava ।
+visrambhaikarasaprasādamadhurā yatra pravṛttāḥ kathās tāny anyāni dināni muñca caraṇau saivāham anyo bhavān ।।

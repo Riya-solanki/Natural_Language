@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2501 | label: meter | g:0.25 m:0.75 ---
+
+kṣetravarṇo dṛḍheṣuśca ārdrakaḥ putrakastathā ।
+haviṣmāṃśca haviṣyaśca varuṇo viśvavistarau ।।

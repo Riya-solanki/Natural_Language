@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 793 | label: meter | g:0.194 m:0.75 ---
+
+[ādara-prasāritoṣṭham aghaṭita-nāsam acumbita-niṭilam ।
+varṇa-ghṛta-lipta-mukhyās tasyāḥ paricumbanaṃ smarāmaḥ ।।]

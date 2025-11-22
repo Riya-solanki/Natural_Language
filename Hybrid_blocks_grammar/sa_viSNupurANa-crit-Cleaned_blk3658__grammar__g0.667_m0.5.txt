@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3658 | label: grammar | g:0.667 m:0.5 ---
+
+gādhir apy atiroṣaṇāyātivṛddhāya ca brāhmaṇāya dātum anicchann ekataḥ śyāmakarṇānām induvarcasām anilaraṃhasām aśvānāṃ sahasraṃ kanyāśulkam ayācata ।।

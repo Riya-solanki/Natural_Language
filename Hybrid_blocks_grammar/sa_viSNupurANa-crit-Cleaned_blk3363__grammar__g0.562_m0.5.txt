@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3363 | label: grammar | g:0.562 m:0.5 ---
+
+tāvac ca trimārgaparivartair anekayugaparivṛttitiṣṭhann api raivataḥ śṛṇvan muhūrtam iva mene ।।

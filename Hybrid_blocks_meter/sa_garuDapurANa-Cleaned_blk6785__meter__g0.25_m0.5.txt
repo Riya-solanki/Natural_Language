@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6785 | label: meter | g:0.25 m:0.5 ---
+
+śaramaṃ taṃ prapannā ye dhyānayogavivarjitāḥ ।
+te api mṛtyumatikramya yānti tadvaiṣṇavaṃ padam ।।

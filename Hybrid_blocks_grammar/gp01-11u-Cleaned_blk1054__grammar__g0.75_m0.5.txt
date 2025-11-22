@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1054 | label: grammar | g:0.75 m:0.5 ---
+
+[] kaṃsa uvāca-āṃ āṃ, mama suhṛttamaḥ sa eva kevalas tatra prasthāpanāya sthāpyatām ity ānāyya tathādiṣṭaḥ sad-aniṣṭaḥ sa duṣṭaḥ kaṃsa-puṣṭaḥ samprati baka-sthala-nāmānaṃ nāndīśvara-giri-samīpa-dhāmānam upasarasaṃ pradeśaṃ bhāvi-kṛṣṇa-praveśam adhigamyābhigamya giri-śṛṅga-bhramārambhaṃ dambhaṃ dadhamānas tasthau । yatra tulya-paryāyatayā dambha eva gahvarāyate sma ।

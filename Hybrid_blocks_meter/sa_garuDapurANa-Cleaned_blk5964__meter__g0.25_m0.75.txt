@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5964 | label: meter | g:0.25 m:0.75 ---
+
+vāmadakṣiṇasaṃsthaśca vāyuśca bahulo bhavet ।
+ūrdhvavāhī bhavedagniradhastu varuṇo bhavet ।।

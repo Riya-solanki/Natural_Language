@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1906 | label: meter | g:0.275 m:0.819 ---
+
+tatra avagalitam-
+pūrvam ātma-gṛhītasya samācārasya mohataḥ ।
+dūṣaṇaṃ tyajanaṃ cātra dvidhāvagalitaṃ matam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3226 | label: meter | g:0.306 m:0.625 ---
+
+tebhyaḥ sa cābhayaṃ dattvā jñātvājeyaṃ ca mādhavam ।
+vivṛddhimagamad brahman yathā vyādhirupekṣitaḥ ।।

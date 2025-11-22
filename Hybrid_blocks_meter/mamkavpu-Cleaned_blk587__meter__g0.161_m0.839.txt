@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 587 | label: meter | g:0.161 m:0.839 ---
+
+{kuvindastvaṃ tāvatpaṭayasi guṇagrāmamabhito
+yaśo gāyantyete diśi diśi ca nagnāstava vibho ।
+śarajjyotsnāgaurasphuṭavikaṭasarvāṅgasubhagā
+tathāpi tvatkīrtirbhramati vigatācchādanamiha ।।}

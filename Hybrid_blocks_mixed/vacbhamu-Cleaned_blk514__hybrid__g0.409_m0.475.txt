@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 514 | label: hybrid | g:0.409 m:0.475 ---
+
+anyathā brahmaṇo draṣṭavyatvapare asmin brāhmaṇo tasya vijñānātmatvena samutthānābhidhānamanupayuktaṃ syāttasya tu draṣṭavyamupayujyata ityupakramamātraṃ pūrvapakṣaḥ kṛtaḥ ।
+bhoktrarthatvācca bhogyajātasyetitadupodbalamātram ।
+siddhāntastu nigadavyākhyātena bhāṣyeṇoktaḥ ।।

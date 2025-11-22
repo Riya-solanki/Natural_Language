@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4156 | label: meter | g:0.272 m:0.97 ---
+
+miśrībhāvātsamastānāṃ sannipātastathā punaḥ ।
+saṃkīrṇājīrṇaviṣamaviruddhādyaśanādibhiḥ ।।

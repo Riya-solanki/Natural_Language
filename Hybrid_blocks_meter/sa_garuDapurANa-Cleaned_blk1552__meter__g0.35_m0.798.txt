@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1552 | label: meter | g:0.35 m:0.798 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+agnīdhraścāgnibāhuśca bapuṣmāndhyutimāṃstathā ।
+medhāmedhātithirbhavyaḥ śabalaḥ putra eva ca ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 707 | label: grammar | g:0.75 m:0.5 ---
+
+[] alpa-hīna-hāyana-vayastve tu jāte yatra kutracit krīḍanāya nirgacchantau na sambhālayituṃ śakyete । sambhālitau ca tau kuto līyeta iti nāvadhārayituṃ pāryete । [] atha jananī-dvayam ubhayato vartmāvṛtya paritaś ca dhātrīr avadhāna-vidhātrīr vitatya dravantau tatra-bhavantau gṛhṇāti । [] tato rudantau hasantau ca tau gṛhāntarānītāv udvartanādinā veṣa-parivartanādinā ca stana-pāyanādinā śāyanādinā ca rocayati ।

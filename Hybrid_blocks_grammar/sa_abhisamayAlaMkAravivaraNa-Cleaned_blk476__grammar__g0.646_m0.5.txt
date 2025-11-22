@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 476 | label: grammar | g:0.646 m:0.5 ---
+
+bhedaḥ svarūpataḥ ekavidha eva ekakṣaṇābhisambodho lakṣaṇena caturvidho bhavati, yathā - avipākalakṣaṇaḥ, vipākalakṣaṇaḥ alakṣaṇalakṣaṇaḥ, advayalakṣaṇaśceti ।

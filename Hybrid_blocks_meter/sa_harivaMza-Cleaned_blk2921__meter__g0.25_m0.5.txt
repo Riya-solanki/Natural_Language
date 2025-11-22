@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2921 | label: meter | g:0.25 m:0.5 ---
+
+hatas tv ariṣṭo balavān viśṛṅgaś ca kṛto vraje 
+kena vā nararūpeṇa śakyo govardhano giriḥ । 
+uddhartuṃ govraje satyaṃ na jāne apy adbhutaṃ tataḥ ।। 
+idam atyadbhutaṃ sarvaṃ varṣaṃ vāsavanirmitam । 
+nivāritaṃ saptadinaṃ kim ataḥ param adbhutam । 
+abālo bālyam āsthāya ramate bālalīlayā ।।

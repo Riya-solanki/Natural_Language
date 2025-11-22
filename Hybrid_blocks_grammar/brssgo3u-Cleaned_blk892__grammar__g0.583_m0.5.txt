@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 892 | label: grammar | g:0.583 m:0.5 ---
+
+nanvṛtvijo api phalaṃ dṛṣṭam aātmane vā yaṃ kāmaṃ kāmayate tamāgāyati' iti ।

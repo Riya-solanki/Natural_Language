@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 453 | label: meter | g:0.25 m:0.5 ---
+
+yadapyāhuḥ- ajñānajanyaḥ prapañco jñānena vināśyate mṛgatoyavat svapnaprapañcavacceti ।
+tadapyayuktam- yadi kulālādivyāpārasthānīyenājñānena ghaṭavadutpannaḥ prapañco musalasthānīyena jñānena

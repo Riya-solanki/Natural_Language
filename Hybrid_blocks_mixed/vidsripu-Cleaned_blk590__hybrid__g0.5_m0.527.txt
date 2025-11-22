@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 590 | label: hybrid | g:0.5 m:0.527 ---
+
+punar uktāvadhi vāsaram etasyāḥ kitava paśya gaṇayantyāḥ ।
+iyam iva karajaḥ kṣīṇas tvam iva kaṭhorāṇi parvāṇi ।।
+dharaṇīdharasya

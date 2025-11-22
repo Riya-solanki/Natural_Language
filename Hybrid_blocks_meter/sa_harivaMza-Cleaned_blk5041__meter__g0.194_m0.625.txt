@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5041 | label: meter | g:0.194 m:0.625 ---
+
+duḥsahānāṃ yathā dhvaṃso rājanyānām upaplavaḥ 
+rājasūyaṃ tathā manye yuddhārtham upakalpitam ।।

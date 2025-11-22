@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9262 | label: meter | g:0.25 m:1.0 ---
+
+snānena śucitāprāptirapāvitryahṛtistataḥ ।
+tato viṣṇoḥ smṛtistasya jñānātsarvaphalapradā ।।

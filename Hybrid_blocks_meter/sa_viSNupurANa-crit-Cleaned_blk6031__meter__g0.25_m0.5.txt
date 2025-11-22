@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6031 | label: meter | g:0.25 m:0.5 ---
+
+yat kṛte daśabhir varṣais tretāyāṃ hāyanena tat 
+dvāpare tac ca māsena ahorātreṇa tat kalau ।।

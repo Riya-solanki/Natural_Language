@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11267 | label: hybrid | g:0.542 m:0.5 ---
+
+na vai smṛtaṃ harināmāmṛtaṃ ca sadā smṛtaṃ haridoṣādikaṃ ca ।
+na tu smṛtaṃ haritattvāmṛtaṃ ca samyak śrutaṃ lolavārtādikaṃ ca ।।

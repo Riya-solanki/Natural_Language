@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 24 | label: meter | g:0.314 m:0.914 ---
+
+samastātyudbhaṭapadāmojaḥkāntiguṇānvitām ।
+gauḍīyāmiti gāyanti rītiṃ rītivicakṣaṇāḥ ।।

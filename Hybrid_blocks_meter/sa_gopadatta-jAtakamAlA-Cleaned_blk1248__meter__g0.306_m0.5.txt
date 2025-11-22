@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1248 | label: meter | g:0.306 m:0.5 ---
+
+na tasya mātsaryatamo'vaguṇṭhanaṃ babhūva gātreṣv api mānasaṃ yadā ।
+tadā kathaivoparatāsukhāgate tṛṇopame śokanibandhane dhane ।।

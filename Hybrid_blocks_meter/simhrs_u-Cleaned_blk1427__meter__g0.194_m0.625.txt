@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1427 | label: meter | g:0.194 m:0.625 ---
+
+nirdagdha-tripurendhano' stu giriśaḥ krauñcācala-cchedane
+pāṇḍityaṃ viditaṃ guhasya kim u tāv ajñāta-yuddhotsavau ।
+lūtvā paṅka-jalāvamānana-vanaṃ vīrasya laṅkā-pater
+vīrāṇāṃ caritādbhutasya parame rāmaḥ sthitaḥ sīmani ।।

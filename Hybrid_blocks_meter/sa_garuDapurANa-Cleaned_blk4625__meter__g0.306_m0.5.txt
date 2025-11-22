@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4625 | label: meter | g:0.306 m:0.5 ---
+
+vedhaḥ sūcyeva viḍbhraṃśaḥ kṛcchre mūtraṃ pravartate ।
+gātre mukhe pade śothaḥ hyagnimāndyaṃ tathaiva ca ।।

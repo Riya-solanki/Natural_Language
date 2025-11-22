@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 23 | label: hybrid | g:0.507 m:0.5 ---
+
+pathi nipatitāṃ śūnye dṛṣṭvā nirāvaraṇānāṃ navadadhighaṭīṃ garvonnaddhaḥ samuddhurakandharaḥ 
+nijasamucitās tās tāś ceṣṭā vikāraśatākulo yadi na kurute kākaḥ kāṇaḥ kadā nu kariṣyati ।।

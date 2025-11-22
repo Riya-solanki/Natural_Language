@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 871 | label: grammar | g:0.562 m:0.5 ---
+
+patir durvañco ayaṃ vidhuramalino vartma viṣamaṃ janaś chidrānveṣī praṇayivacanaṃ duḥpariharam ।
+ataḥ kācit tanvī rativihitasaṃketagataye gṛhād vāraṃvāraṃ nirasarad atha prāviśad atha ।।

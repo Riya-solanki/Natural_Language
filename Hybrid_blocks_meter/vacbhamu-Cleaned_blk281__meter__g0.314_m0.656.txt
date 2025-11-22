@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 281 | label: meter | g:0.314 m:0.656 ---
+
+etadeva vibhajate- yo asāvupaniṣatsvevaiti ।
+ahaṃpratyayaviṣayādbhinatti- asaṃsārīiti ।
+ata eva kriyārahitatvāccaturvidhadravyavilakṣaṇaḥ ।
+ataśca caturvidhadravyavilakṣaṇo yadanyaśeṣaḥ ।
+anyaśeṣaṃ hi bhūtaṃ dravyaṃ cikīrṣitaṃ sadutpattyādyāpyaṃ saṃbhavati, yathā ayūpaṃ takṣati' ityādi ।
+yatpunaranyaśeṣaṃ bhūtabhāvyupayogarahitam, yathā asuvarṇaṃ bhāryam', asaktūn juhoti' ityādi, na tasyotpattyādyāpyatā ।

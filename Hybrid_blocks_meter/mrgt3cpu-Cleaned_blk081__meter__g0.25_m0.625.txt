@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 81 | label: meter | g:0.25 m:0.625 ---
+
+makuṭaṃ vimalākhyaṃ ca candrajñānākhyameva ca ।
+mukhabimbakamudgītaṃ lalitaṃ siddhasaṃjñakam ।

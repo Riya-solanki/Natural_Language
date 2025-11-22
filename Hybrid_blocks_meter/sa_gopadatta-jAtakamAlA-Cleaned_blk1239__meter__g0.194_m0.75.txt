@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1239 | label: meter | g:0.194 m:0.75 ---
+
+prasādya ca mano munau sucaritaikaratnākare
+vaco avitathavādinaḥ śrutirasāyanaṃ śrūyatām ।
+tadaśravaṇavañcitaṃ jagad idaṃ bhramaty āturaṃ
+bhavādhvani nirāśraye vyasanakaṇṭakāndhācite ।।

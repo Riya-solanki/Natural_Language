@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1850 | label: meter | g:0.25 m:0.5 ---
+
+divā svapneṣu skandante ye narā brahmacāriṇaḥ 
+putrair adhyāpitā ye ca te patanti śvabhojane ।।

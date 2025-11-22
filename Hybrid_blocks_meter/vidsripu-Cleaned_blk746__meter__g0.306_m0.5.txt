@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 746 | label: meter | g:0.306 m:0.5 ---
+
+pūrṇaṃ kapolatalam aśrujalair yad asyā yad dhūsaraṃ vadanapaṅkajam āyatākṣyāḥ ।
+ardhāvadagdhagaladaṅgarasāvasiktam ārdrendhanaṃ tad iva bhasmakaṇānuyātam ।।

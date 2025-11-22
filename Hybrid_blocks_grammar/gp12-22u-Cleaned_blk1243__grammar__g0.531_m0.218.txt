@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 1243 | label: grammar | g:0.531 m:0.218 ---
+
+vāco-yukti-paṭur yatra tvaṃ vadāvadatāṃ gataḥ ।
+vācaspatiś ca tatra syān na vācaḥ-patir aṇv api ।।
+[] kṛṣṇo' pi sa-smitam uvāca-bhavatu, kadācid etad apy anubhaviṣyatha iti nānā-sukha-vitarakara-puruha-bhūruhāṇāṃ vanyayā mihira-kanyā-tīram udanyayā mudā jagāma । tatra ca-

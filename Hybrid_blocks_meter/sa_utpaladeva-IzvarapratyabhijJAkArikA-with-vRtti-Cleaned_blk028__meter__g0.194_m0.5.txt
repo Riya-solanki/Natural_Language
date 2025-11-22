@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 28 | label: meter | g:0.194 m:0.5 ---
+
+athārthasya yathā rūpaṃ dhatte buddhis tathātmanaḥ 
+caitanyam ajaḍā saivaṃ jāḍye nārthaprakāsatā ।।

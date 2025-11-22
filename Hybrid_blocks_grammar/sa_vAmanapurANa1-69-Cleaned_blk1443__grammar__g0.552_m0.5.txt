@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1443 | label: grammar | g:0.552 m:0.5 ---
+
+āyāti tripurāntake saha gaṇairbrahmarṣibhiḥ saptabhirārohatpulako babhau girivaraḥ saṃhṛṣṭatittaḥ kṣaṇāt ।
+cakre divyaphalairjalena śucinā mūlaiśca kandādibhiḥ pūjāṃ sarvagaṇeśvaraiḥ saha vibhoradristrinetrasya tu ।।

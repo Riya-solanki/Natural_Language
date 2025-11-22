@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3186 | label: meter | g:0.25 m:0.625 ---
+
+āsīnmaṅkiriti khyātastapasvī satyavāk śuciḥ ।
+saptasārasvate tīrthe so atapyata mahat tapaḥ ।।

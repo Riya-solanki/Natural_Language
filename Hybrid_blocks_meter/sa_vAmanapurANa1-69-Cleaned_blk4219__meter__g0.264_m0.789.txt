@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4219 | label: meter | g:0.264 m:0.789 ---
+
+pulstya uvāca ।
+śukrastad vākyamākarṇya virocanasuteritam ।
+atha jñātvā kāraṇaṃ ca baliṃ vacanamabravīt ।।

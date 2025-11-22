@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1265 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha punar atīva kautuka-dravataḥ parasparam atītya dravanaḥ patnī-śālāyāṃ dvija-patnīr vilokayāmāsus tābhir vilokayāmāsire ca, kṛṣṇāt prati ca iti ca niśckyire ।

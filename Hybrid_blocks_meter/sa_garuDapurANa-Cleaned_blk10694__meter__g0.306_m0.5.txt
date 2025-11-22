@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10694 | label: meter | g:0.306 m:0.5 ---
+
+tattvecchavaḥ pravijānanti nityaṃ vede sūktānkvāpyanuktāṃśca sarvān ।
+ādau jānantyatra vedā murāre ṛgādayaḥ suṣṭhu catvāra eva ।।

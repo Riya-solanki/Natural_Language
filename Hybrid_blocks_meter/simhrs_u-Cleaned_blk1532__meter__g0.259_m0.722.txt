@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1532 | label: meter | g:0.259 m:0.722 ---
+
+atha aujaḥ-
+ojas tu vāg-upanyāso nija-śakti-prakāśakaḥ ।।

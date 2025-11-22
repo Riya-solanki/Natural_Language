@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 843 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ kathā-prathana-pūrvakaṃ pūrvavan nija-nija-prayojanāya kṛta-vrajanāyāṃ janatāyām anukṛṣṇaṃ raveḥ samastam astaṃ yāvat kṛta-vihārau sūta-kumārau punar api rajanī-sabhāyāṃ sabhājitau nanditājitau babhūvatuḥ ।

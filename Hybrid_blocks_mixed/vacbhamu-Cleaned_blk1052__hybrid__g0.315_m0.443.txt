@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 1052 | label: hybrid | g:0.315 m:0.443 ---
+
+abhāvaṃ bādarirāha hyevam ।
+anyayogavyacchittyā manaseti viśeṣaṇāt ।
+dehendriyaviyogaḥ syādviduṣo bādarermatam ।।
+anekadhābhāvaścarddhiprabhāvabhuvo manobhedādvā stutimātraṃ vā kathañcidbhūmavidyāyāṃ nirguṇāyāṃ tadasaṃbhavādasatāpi hi guṇena stutirbhavatyeveti ।।

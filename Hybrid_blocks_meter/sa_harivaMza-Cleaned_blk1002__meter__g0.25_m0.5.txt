@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1002 | label: meter | g:0.25 m:0.5 ---
+
+kuśikas tu tapas tepe putram indrasamaṃ prabhuḥ 
+labheyam iti taṃ śakras trāsād abhyetya jajñivān ।।

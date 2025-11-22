@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1433 | label: meter | g:0.264 m:0.673 ---
+
+pulastya uvāca ।
+evaṃ vādini viprendra pārvatī bhikṣumabravīt ।
+mā maivaṃ vada bikṣo tvaṃ haraḥ sarvaguṇādhikaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6125 | label: meter | g:0.25 m:0.5 ---
+
+raso gandharaso bole sarjaḥ sarjaraso mataḥ ।
+priyaṅguḥ phalinī śyāmā gaurī kānteti cocyate ।।

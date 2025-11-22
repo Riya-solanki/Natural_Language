@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 88 | label: grammar | g:0.583 m:0.5 ---
+
+viṣṇor vimānaṃ yaḥ kuryāt sakṛd bhaktyā pradakṣiṇam aśvamedhasahasrasya phalam āpnoti mānavaḥ ।।

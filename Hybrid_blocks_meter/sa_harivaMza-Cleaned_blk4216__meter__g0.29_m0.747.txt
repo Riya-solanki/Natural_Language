@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4216 | label: meter | g:0.29 m:0.747 ---
+
+athāśruparipūrṇākṣam ānandagatacetasam 
+vavande saha rāmeṇa pitaraṃ vāsavānujaḥ ।।

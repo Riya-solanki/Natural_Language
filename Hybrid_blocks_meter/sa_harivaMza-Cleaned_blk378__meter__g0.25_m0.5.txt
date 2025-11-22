@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 378 | label: meter | g:0.25 m:0.5 ---
+
+manor vaivasvatasyāsan putrā vai nava tatsamāḥ 
+ikṣvākuś caiva nābhāgaś ca dhṛṣṇuḥ śaryātir eva ca ।।

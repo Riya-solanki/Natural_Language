@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 80 | label: grammar | g:0.625 m:0.5 ---
+
+āloke te nipatati purā sā balivyākulā vā matsādṛśyaṃ virahatanu vā bhāvagamyaṃ likhantī ।
+pṛcchantī vā madhuravacanāṃ sārikāṃ pañjarasthāṃ kac cid bhartuḥ smarasi rasike tvaṃ hi tasya priyeti ।।

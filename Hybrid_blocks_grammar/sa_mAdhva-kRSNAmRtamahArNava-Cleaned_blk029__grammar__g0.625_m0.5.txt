@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 29 | label: grammar | g:0.625 m:0.5 ---
+
+aindram indraḥ paraṃ sthānaṃ yam ārādhya jagatpatim prāpa yajñapatiṃ viṣṇuṃ tam ārādhaya suvrata ।।

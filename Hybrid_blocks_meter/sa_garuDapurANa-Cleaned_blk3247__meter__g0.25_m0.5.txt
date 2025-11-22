@@ -1,0 +1,8 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3247 | label: meter | g:0.25 m:0.5 ---
+
+huṅkāre bhṛkuṭīṃ naiva sadā kurvīta pārthivaḥ ।
+vinā doṣeṇa yo bhṛtyānrājādhamaṇa śāsti ca ।
+līlāsukhāni bhogyāni tyajediha mahīpatiḥ ।।
+sukhapravṛttaiḥ sādhyantai śatravo vigrahe sthitaiḥ ।।
+udyogaḥ sāhasaṃdhairyaṃ buddhiḥ śaktiḥ parākramaḥ ।
+ṣaḍvidho yasya utsāhastasya devo api śaṅkate ।।

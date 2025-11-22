@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 345 | label: meter | g:0.25 m:0.521 ---
+
+brūmaḥ-kiṃ punaridaṃ kāryamabhimatamāyuṣmataḥ yadaśakyaṃ puruṣeṇa jñātum ।
+apūrvamiti cet, hanta kutastyamasya liṅādyarthatvam, tenālaukikena saṃgatisaṃvedanavirahāt ।
+lokānusārataḥ kriyāyā eva laukikyāḥ kāryatayā liṅāderavagamāt ।
+asvargakāmo yajeta'iti sādhyasvargaviśiṣṭo niyojyo

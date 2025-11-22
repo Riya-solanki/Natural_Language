@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 60 | label: meter | g:0.056 m:0.729 ---
+
+yā yatra karmaṇi gatās tad-anusthitiṃ tā
+vismṛtya tasya muralī-śruti-divya-netrāh ।
+dṛśya-prabhaṃ tam abhivavrajur aśru-nīra-
+srotasvatī-mayatayā nija-jīvaneśam ।। [vasantatilakā]

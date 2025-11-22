@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 131 | label: grammar | g:0.646 m:0.5 ---
+
+yadi kiṃ cid bhavet padmaṃ subhru vibhrāntalocanam tat te mukhaśriyaṃ dhattām ity asāv adbhutopamā ।।

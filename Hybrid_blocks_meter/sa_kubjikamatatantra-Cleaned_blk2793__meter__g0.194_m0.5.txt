@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2793 | label: meter | g:0.194 m:0.5 ---
+
+evaṃ niṣpādayitvā tu yāgaṃ kṛtvā varānane 
+dātavyaṃ bhaktiyuktena pūjānte tu pavitrakam ।।

@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 510 | label: hybrid | g:0.322 m:0.434 ---
+
+saugatāstvāhuḥ- siddhe jñānasukhādīnāṃ guṇatve guṇakalpanā ।
+na tu tatsiddhamasmākaṃ tāvanmātropapattitaḥ ।
+nahyāśrayamantareṇa jñānamātramanupapannaṃ svatantrameva jñānaṃ kiṃ neṣyate sukhādayo api jñānaviṣayāḥ svatantrā eva anyasyāśrayasyānupalabdheḥ ।
+jñānameva ca nīlamahaṃ jānāmīti jñātṛtvena viparyāsitadarśanairadhyavasīyate nānyaḥ pramāṇābhāvāt ।।

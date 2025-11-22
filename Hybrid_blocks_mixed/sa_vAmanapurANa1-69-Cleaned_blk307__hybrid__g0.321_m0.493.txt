@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 307 | label: hybrid | g:0.321 m:0.493 ---
+
+vijṛmbhaṇaṃ putra tathaiva tāpamunmādamugraṃ madanapraṇunnam ।
+nānyaḥ pumān dhārayituṃ hi śakto muktvā bhavantaṃ hi tataḥ pratīccha ।।

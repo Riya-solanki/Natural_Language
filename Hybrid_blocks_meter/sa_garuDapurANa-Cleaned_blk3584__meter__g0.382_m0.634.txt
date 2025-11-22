@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3584 | label: meter | g:0.382 m:0.634 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahmovāca ।
+śivarātrivrataṃ vakṣye kathāṃ vai sarvakāmadām ।
+yathā ca gaurī bhūteśaṃ pṛcchati sma paraṃ vratam ।।

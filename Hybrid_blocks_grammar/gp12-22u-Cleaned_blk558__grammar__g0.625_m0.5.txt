@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 558 | label: grammar | g:0.625 m:0.5 ---
+
+[] bhavantas tāvat taṭasthī-bhavantas tiṣṭhantu, vayam evāmūr anunīya tat-tad-gṛham upanīya tat-tat-prakriyāṃ kriyā-viṣayī-kariṣyāmaḥ iti ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1350 | label: hybrid | g:0.51 m:0.5 ---
+
+na heyṣa mārgo vinayabhijātastaṃ caiva jānan kathamabhyupeyām ।
+tūṣṇīṃ mahārāja yataḥ sthito ahaṃ tanmarṣaṇīyaṃ yadi marṣaṇīyam ।।

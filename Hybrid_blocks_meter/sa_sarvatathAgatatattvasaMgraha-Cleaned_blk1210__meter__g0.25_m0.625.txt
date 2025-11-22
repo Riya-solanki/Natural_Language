@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1210 | label: meter | g:0.25 m:0.625 ---
+
+vajrabhṛkuṭimadhye [vajrasūryaṃ ta]thā dhvajaṃ ।
+dantapaṃktī tathā vajraitasya pārśveṣu saṃlikhet ।।

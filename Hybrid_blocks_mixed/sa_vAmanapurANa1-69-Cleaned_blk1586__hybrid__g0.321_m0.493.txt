@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1586 | label: hybrid | g:0.321 m:0.493 ---
+
+vāksāyakā vadanānniṣpatanti tairāhataḥ śocati rātryahāni ।
+na tān vimuñceta hi paṇḍito janastamadya dharma vitathaṃ tvayā kṛtam ।।

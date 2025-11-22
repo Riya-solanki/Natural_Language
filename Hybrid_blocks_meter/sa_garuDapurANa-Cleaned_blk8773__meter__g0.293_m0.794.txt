@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8773 | label: meter | g:0.293 m:0.794 ---
+
+śrībhagavānuvāca ।
+teṣāṃ svarūpaṃ vakṣyāmi cihnaṃ svapnaṃ yathātatham ।
+kṣutpipāsārditāste vai praviśeyuḥ svaveśmani ।।

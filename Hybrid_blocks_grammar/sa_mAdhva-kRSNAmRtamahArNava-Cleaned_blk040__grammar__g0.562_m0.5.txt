@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 40 | label: grammar | g:0.562 m:0.5 ---
+
+prāpte kaliyuge ghore dharmajñānavivarjite na kaścit smarate devaṃ kṛṣṇaṃ kalimalāpaham ।।

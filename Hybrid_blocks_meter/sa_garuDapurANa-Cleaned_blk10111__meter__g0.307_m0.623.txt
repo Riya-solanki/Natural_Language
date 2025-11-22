@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10111 | label: meter | g:0.307 m:0.623 ---
+
+gururhi mukhyo hanumajjanirmahānrāmāṅghribhakto hanumānsadaiva ।
+evaṃ viditvā paramaṃ hariṃ ca putraṃ punarmukhyadevasya vāyoḥ ।।

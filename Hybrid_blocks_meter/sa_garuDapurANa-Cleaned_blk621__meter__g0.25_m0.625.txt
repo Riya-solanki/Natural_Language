@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 621 | label: meter | g:0.25 m:0.625 ---
+
+oṃ suvarṇarekhe kukkuṭavigraharūpiṇi svāhā ।
+evañcāṣṭadale padma dale varṇayugaṃ likhet ।।

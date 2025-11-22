@@ -1,0 +1,3 @@
+--- source: sa_pratyakSalakSaNa-of-the-tarkarahasya-Cleaned.txt | block: 5 | label: meter | g:0.333 m:0.5 ---
+
+"na so'sti pratyayo loke yaḥ śabdānugamād ṛte। anuviddhamiva jñānaṃ sarvaṃ śabdena bhāsate।।"

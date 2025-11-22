@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1615 | label: meter | g:0.306 m:0.5 ---
+
+tatsādhu tāvatkiryatāṃ mṛgasya tasyopalambhaṃ prati deva yatnaḥ ।
+antaḥpuraṃ ratnamṛgeṇa tena tārāmṛgeṇeva nabho virājet ।।

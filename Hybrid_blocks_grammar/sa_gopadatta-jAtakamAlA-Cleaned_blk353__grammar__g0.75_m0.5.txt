@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 353 | label: grammar | g:0.75 m:0.5 ---
+
+atha ye tasmin puravare ciraṃtanā aukarikās te tasya tam abhivardhamānaṃ krayavikrayalokam aviṣamavyavahāranītyā prakṛtipremapeśalatayā cāvarjitamanasaṃ tasmin mahāsattve vyavahārārtham āpatantam avalokya taṃ tasmāt karmaṇo vinivartanārtham āhuḥ ।

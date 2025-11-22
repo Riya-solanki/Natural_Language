@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11326 | label: meter | g:0.25 m:1.0 ---
+
+andhakūpagabhīrākṣo laṃbakarṇauṣṭhanāsikaḥ ।
+laṃbagulpho vakrapādaḥ kunakhī śyāvadantakaḥ ।।

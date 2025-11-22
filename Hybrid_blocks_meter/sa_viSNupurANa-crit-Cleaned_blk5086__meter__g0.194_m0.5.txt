@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5086 | label: meter | g:0.194 m:0.5 ---
+
+gṛhītvā tāṃ taṭe tena cakarṣa madavihvalaḥ 
+pāpe nāyāsi nāyāsi gamyatām icchayānyataḥ ।।

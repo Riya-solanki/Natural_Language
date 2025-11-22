@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 223 | label: meter | g:0.306 m:0.5 ---
+
+tattvāṃ hitāvekṣitayā bravīmi niyaccha dāne vyasanānurāgam ।
+itthaṃgataḥ sannapi cenna dadyā yāyāḥ punaḥ pūrvasamṛddhiśobhām ।।

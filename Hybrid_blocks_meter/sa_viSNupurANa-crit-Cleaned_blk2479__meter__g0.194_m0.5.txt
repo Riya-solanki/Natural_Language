@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2479 | label: meter | g:0.194 m:0.5 ---
+
+manuḥ saptarṣayo devā bhūpālāś ca manoḥ sutāḥ 
+manvantare bhavanty ete śakraś caivādhikāriṇaḥ ।।

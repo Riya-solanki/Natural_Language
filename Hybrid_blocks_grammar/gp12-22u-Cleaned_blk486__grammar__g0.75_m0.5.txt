@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 486 | label: grammar | g:0.75 m:0.5 ---
+
+aho ! astu tāvan nāmnaiva śriyaṃ dātur asya mahārājasya virājamānatā, pāriṣadānām apy amīṣāṃ mahīmānam upaniṣado' pi varṇayituṃ na śaknuvanti, yenātmānam api vismārya nṛtyam anuvartyāmahe । kim asaṅkīrṇam asmāsu na vitīrṇam amībhir mahā-mahima-caraṇaiḥ, yat khalv atīta-lokena nijālokena nirnimeṣatayā suparvāṇaḥ kriyāmahe? katiśaḥ svayaṃ na pratipālitā vayaṃ, yan nija-cchāyām āpāyya paryāpyāmahe? katarad vā manaḥ-santoṣaṇaṃ poṣaṇaṃ na vihitaṃ yan nija-dṛṣṭi-sudhā-vṛṣṭibhir abhitarpyāmahe । paśyata paśyata, netra-gati-vicitratām amīṣām, yayā khalu nṛtyam upādiśadbhir āmībhir anugṛhyāmahe । tasmān nṛtya-caryā-paricaryā-paryutsukā vayaṃ tad-artham eva yogyam avasaraṃ mṛgyanto vartāmahe ।

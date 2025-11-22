@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 445 | label: hybrid | g:0.449 m:0.375 ---
+
+tadapyayuktam ।
+itthaṃbhāve pramāṇābhāvāt prathamaśrutāvapratītireva pramāṇaṃ sāmayikatve hyapratipannasamayānāmapratītiḥ pratipannasamayānāṃ ca pratītirdevadattādiśabdavadupapannā bhavati, svābhāvike tu pratyāyakatve

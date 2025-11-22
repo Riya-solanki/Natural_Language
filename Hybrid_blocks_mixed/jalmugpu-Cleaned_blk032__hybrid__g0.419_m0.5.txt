@@ -1,0 +1,5 @@
+--- source: jalmugpu-Cleaned.txt | block: 32 | label: hybrid | g:0.419 m:0.5 ---
+
+māṃspākotkaṭamadyagandhi viharacceṭīnaṭīsaṃkulaṃ yad veśyāyatanaṃ bhujaṃga parayā bhaktyā puraḥ paśyasi ।
+atrāste gṛhadevatā vidadhatī digghaṭṭanaṃ kuṭṭanī yasyāḥ pratyaham āḍhyakāmukapaśuvrātopahārair baliḥ ।।
+{ on māṃspākā see Pāṇini aparasaparāḥ kriyāsātatye}

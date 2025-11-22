@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1500 | label: meter | g:0.194 m:0.5 ---
+
+hanti yāvat kvacit kiṃcit bhūtaṃ sthāvarajaṅgamam 
+janārdanasya tad raudraṃ maitreyāntakaraṃ vapuḥ ।।

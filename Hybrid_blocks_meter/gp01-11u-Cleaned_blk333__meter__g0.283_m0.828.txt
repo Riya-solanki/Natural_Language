@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 333 | label: meter | g:0.283 m:0.828 ---
+
+śrī-kṛṣṇa kṛṣṇa-caitanya sa-sanātana-rūpaka ।
+gopāla raghunāthāpta- vraja-vallabha pāhi mām ।।
+iti śrī-gopāla-campūm anu
+goloka-vilāsa-vikāsanaṃ dvitīyaṃ pūraṇam ।
+।।

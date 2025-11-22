@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11437 | label: hybrid | g:0.355 m:0.49 ---
+
+tadbhaktānāṃ dveṣaṇaṃ cāhurāryāstadvākyānāṃ dūṣaṇaṃ dveṣa eva ।
+naca dveṣaiḥ saṃyutā ye ca loke kanye dṛśyante na tu bhaktāḥ kadācit ।।

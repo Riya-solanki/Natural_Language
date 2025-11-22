@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 785 | label: hybrid | g:0.352 m:0.382 ---
+
+tathottarasattvena guṇādhikyamāha koṭimityādi ।।
+sūte sarito bījena grāsanyāyaṃ vihāya samena bījenānusārito yaḥ sa koṭisaṃkhyāṃ dhātūnāmiti śeṣaḥ sūto vidhyati ।।
+yathoktasārite sūte daśaguṇavṛddhiḥ sarvatraiveti veditavyam ।।

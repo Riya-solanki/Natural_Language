@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2005 | label: meter | g:0.306 m:0.5 ---
+
+hatvā kumāro raṇamurdhni tārakaṃ pragṛhya śaktiṃ mahatā javena ।
+mayūramāruhya śikhaṇḍamaṇḍitaṃ yayau nihantuṃ mahiṣāsurasya ।।

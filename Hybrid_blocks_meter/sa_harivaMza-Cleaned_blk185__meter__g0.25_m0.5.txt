@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 185 | label: meter | g:0.25 m:0.5 ---
+
+apāṃ tu varuṇaṃ rājye rājñāṃ vaiśravaṇaṃ patim 
+bṛhaspatiṃ tu viśveṣāṃ dadāv āṅgirasaṃ patim ।। 
+bhṛgūṇām adhipaṃ caiva kāvyaṃ rājye abhiṣecayat । 
+ādityānāṃ tathā viṣṇuṃ vasūnām atha pāvakam ।।

@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 404 | label: meter | g:0.005 m:0.711 ---
+
+{kāñcukīyaḥ} - dhārayatv āryaputraḥ 
+uparatāpy anuparatā mahāsenaputrī evam anukampyamānāryaputreṇa 
+atha vā

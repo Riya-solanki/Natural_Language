@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 378 | label: meter | g:0.194 m:0.625 ---
+
+ādikṣāntaś ca deveśi śabdarāśikramo viduḥ 
+etat kaulikam ākhyataṃ ṣaṭprakāraṃ varānane ।।

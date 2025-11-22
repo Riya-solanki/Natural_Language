@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 721 | label: meter | g:0.25 m:0.5 ---
+
+vistīrṇaṃ ca samutsedhaṃ rudratattvaṃ vicintayet ।
+lalāṭe vai tatpuruṣaḥ śāntiryaḥ śādvalaṃ budhāḥ ।।

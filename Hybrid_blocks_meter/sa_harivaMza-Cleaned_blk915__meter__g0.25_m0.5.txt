@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 915 | label: meter | g:0.25 m:0.5 ---
+
+diśi pūrvottarasyāṃ tu yaduṃ jyeṣṭhaṃ nyayojayat 
+madhye pūruṃ ca rājānam abhyaṣiñcat sa nāhuṣaḥ ।।

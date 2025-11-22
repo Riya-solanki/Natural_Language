@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1235 | label: hybrid | g:0.5 m:0.5 ---
+
+tadyādṛśe sarabhi tāvabhiratarūpāvanuśrūyete tadutkṛṣṭaraguṇaśobhamiha saraḥ kasmiṃścidaraṇyapradeśe kārayitumarhati devaḥ, pratyahaṃ ca sarvapakṣiṇāmabhayapradānaghoṣaṇām । api nāma kautūhalotpādinyā sukhahetuguṇātiśayaśrutyā tāvihākṛṣyeyātām । paśyatu devaḥ,

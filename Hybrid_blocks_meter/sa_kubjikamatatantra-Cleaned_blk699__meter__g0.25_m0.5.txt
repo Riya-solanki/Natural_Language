@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 699 | label: meter | g:0.25 m:0.5 ---
+
+kubjīśānīṃ japed yas tu tasya pāpaṃ na vidyate 
+yaḥ punaḥ śuddhabhāvātmā samayākhyāṃ maheśvarīm ।।

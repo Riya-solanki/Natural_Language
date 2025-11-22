@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2852 | label: meter | g:0.194 m:0.625 ---
+
+tato anyad annam ādāya bhūmibhāge śucau budhaḥ 
+dadyād aśeṣabhūtebhyaḥ svecchayā tatsamāhitaḥ ।।

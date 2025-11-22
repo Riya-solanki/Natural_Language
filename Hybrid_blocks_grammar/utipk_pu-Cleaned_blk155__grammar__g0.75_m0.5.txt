@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 155 | label: grammar | g:0.75 m:0.5 ---
+
+na caivam ālokasya piśācānyatvāt tatra piśācaniṣedhaprasaṅgaḥ, sa hy adṛśyo anyatve api yathā mṛdgolakasyāpy antaranivāryas tathālokasyāntare । tatas tasya anyamata ivāsmanmate api nādṛśyatvād abhāvasiddhiḥ ।।

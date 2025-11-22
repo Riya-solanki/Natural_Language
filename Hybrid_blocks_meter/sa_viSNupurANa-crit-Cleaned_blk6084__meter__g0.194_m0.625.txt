@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6084 | label: meter | g:0.194 m:0.625 ---
+
+tato nirdagdhavṛkṣāmbu trailokyam akhilaṃ dvija 
+bhavaty eṣā ca vasudhā kūrmapṛṣṭhopamākṛtiḥ ।।

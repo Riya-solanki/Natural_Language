@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 255 | label: meter | g:0.25 m:0.5 ---
+
+idānīṃ vaṃśīnāṃ śabaramithunocchṛṅkhalarahaḥ- kriyāsakhyenālaṃ girivanasaridgrāmasuhṛdām ।
+sphurallomaśyāmacchagalaśiśikarṇapratisama- cchadāgrābhis tvagbhir valayitakarīrās talabhuvaḥ ।।

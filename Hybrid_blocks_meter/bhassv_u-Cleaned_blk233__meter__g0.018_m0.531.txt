@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 233 | label: meter | g:0.018 m:0.531 ---
+
+{vidūṣakaḥ} - seraṃ seraṃ bhaṇādu bhavaṃ 
+ekkā uvaradā avarā asaṇṇihidā 
+[svairaṃ svairaṃ bhaṇatu bhavān । ekoparatā aparā asannihitā । ]

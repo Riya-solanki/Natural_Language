@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9465 | label: meter | g:0.25 m:0.625 ---
+
+bahavo api yadā putrā vidhimekaḥ samācaret ।
+navaśrāddhaṃ sapiṇḍatvaṃ śrāddhānyanyāni ṣoḍaśa ।।

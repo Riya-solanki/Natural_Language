@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 38 | label: grammar | g:0.559 m:0.5 ---
+
+saṃtoṣaḥ kim aśaktatā kim athavā tasminn asambhāvanā lobho vāyam utānavasthitir iyaṃ pradveṣa evāthavā 
+āstāṃ khalv anurūpayā saphalayā puṣpaśriyā durvidhe sambandho ananurūpayāpi na kṛtaḥ kiṃ candanasya tvayā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7718 | label: meter | g:0.25 m:0.625 ---
+
+śrāddhāni nava caitāni tṛtīyā ṣoḍaśī smṛtā ।
+ekoddiṣṭavidhānena kāryāṇi manujaistathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4207 | label: meter | g:0.25 m:0.625 ---
+
+anujñāya tato jñātīn keśavaḥ paravīrahā 
+tāḥ striyaḥ pūjayām āsa saṃkṣiptā narakeṇa yāḥ ।।

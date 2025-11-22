@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3773 | label: meter | g:0.328 m:0.595 ---
+
+durgā kṣamā śivā dhātrī svāhā svadhā namo astu te ।
+kṣīrādyaiḥ snāpayeddevīṃ kanyakāḥ pramadāstathā ।।

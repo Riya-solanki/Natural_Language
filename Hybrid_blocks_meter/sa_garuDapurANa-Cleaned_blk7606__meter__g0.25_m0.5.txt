@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7606 | label: meter | g:0.25 m:0.5 ---
+
+pāradaṃ retasaḥ sthāne purīṣe pittalaṃ tathā ।
+manaḥ śilā tathā gātre tilapakvantu sandhiṣu ।।

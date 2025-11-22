@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 244 | label: meter | g:0.25 m:0.5 ---
+
+[yatha te bhavanti vidu āśayasaṃprayuktā divarātri prajñavarapāramitārthadarśī] 
+tada kāyacitta khagapakṣisatulyabhūtā avatāru so kutu labhiṣyati kṛṣṇabandhuḥ ।।

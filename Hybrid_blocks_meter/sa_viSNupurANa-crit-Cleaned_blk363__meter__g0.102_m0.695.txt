@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 363 | label: meter | g:0.102 m:0.695 ---
+
+sarve te abhyāgatajñānā vītarāgā vimatsarāḥ 
+teṣv evaṃ nirapekṣeṣu lokasṛṣṭau mahātmanaḥ 
+brahmaṇo abhūn mahān krodhas trailokyadahanakṣamaḥ ।।

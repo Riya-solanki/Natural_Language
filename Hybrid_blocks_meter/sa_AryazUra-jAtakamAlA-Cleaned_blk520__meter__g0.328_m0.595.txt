@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 520 | label: meter | g:0.328 m:0.595 ---
+
+doṣapravṛttervimukhasya yasya guṇaprasaṅgā vyasanīkriyante ।
+bandho vadho vātmasutasya tasya kiṃ niṣkrayaḥ syād dviradasya tasya ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 774 | label: meter | g:0.194 m:0.5 ---
+
+yatra te śakunā rājaṃś catvāro yogadharmiṇaḥ 
+yogabhraṣṭās trayaś caiva dehanyāsakṛto abhavan ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 21 | label: meter | g:0.307 m:0.623 ---
+
+patanti dhārā gaganāt paricyutā bakā balākāśca saranti toyadān ।
+kadambasarjjārjunaketakīdrumāḥ puṣpāṇi muñcanti sumārutāhatāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9209 | label: meter | g:0.306 m:0.625 ---
+
+ākuñcanaṃ dhāvanañca laṅghanañca prasāraṇam ।
+nirodhaḥ pañcamaḥ prokto vāyoḥ pañca guṇāḥ smṛtāḥ ।।

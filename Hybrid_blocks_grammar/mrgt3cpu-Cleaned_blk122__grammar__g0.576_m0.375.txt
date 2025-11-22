@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 122 | label: grammar | g:0.576 m:0.375 ---
+
+Vṛtti:
+upānadgrahaṇaṃ pādukādyupalakṣaṇam। [anupānatkaḥ] nagnapādaḥ [asahāyavān] ekākī [nātiprāk] aprabhāte [ativelāyāṃ] sāyaṃ [rātrau] niśāyāṃ [kharātape] tīvrātape vā na gururgacchet।।

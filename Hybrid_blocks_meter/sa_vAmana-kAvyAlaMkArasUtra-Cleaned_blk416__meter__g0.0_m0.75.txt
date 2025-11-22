@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 416 | label: meter | g:0.0 m:0.75 ---
+
+upamānasyākṣepataḥ pratipattirityapi sūtrārthaḥ । yathā

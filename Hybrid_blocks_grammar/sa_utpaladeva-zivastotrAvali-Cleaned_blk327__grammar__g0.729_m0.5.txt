@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 327 | label: grammar | g:0.729 m:0.5 ---
+
+jyotir asti kathayāpi na kiṃ cid viśvam apy atisuṣuptam aśeṣam yatra nātha śivarātripade asmin nityam arcayati bhaktajanas tvām ।।

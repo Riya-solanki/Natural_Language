@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1757 | label: grammar | g:0.625 m:0.5 ---
+
+varṣāḥ kardamahetavaḥ pratidinaṃ tāpasya mūlaṃ śarad dhemante jaḍatā tathaiva śiśire apy āyāsyate vāyunā ।
+cittonmādakaro vasantasamayo grīṣmo api caṇḍātapaḥ kālaḥ kāla iti prahṛṣyati janaḥ kālasya kā ramyatā ।।

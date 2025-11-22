@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 206 | label: meter | g:0.306 m:0.625 ---
+
+bhraṃśe vā janite bhaṅge daśāṃśo vihito mune ।
+tadanyatrārdhamūlaṃ vā sahasraṃ sulaghīyasi ।

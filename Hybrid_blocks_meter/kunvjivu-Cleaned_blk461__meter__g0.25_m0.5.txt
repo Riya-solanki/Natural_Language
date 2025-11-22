@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 461 | label: meter | g:0.25 m:0.5 ---
+
+atra subhagaṃmanyabhāvaprabhṛtiṣu śabdeṣu mumādiparispandasundarāḥ saṃniveśacchāyāvidhāyinī vācakavakratāṃ pratyayāḥ puṣṇanti ।
+evaṃ prasaṅgasamucitāṃ padamadhyavartipratyayavakratāṃ vicārya samanantarasaṃbhavinīṃ vṛttivakratāṃ vicārayati

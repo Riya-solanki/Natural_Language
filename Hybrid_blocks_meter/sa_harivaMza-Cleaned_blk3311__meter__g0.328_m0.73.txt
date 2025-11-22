@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3311 | label: meter | g:0.328 m:0.73 ---
+
+augraseniḥ samālokya dantidantodyatāyudham 
+kṛṣṇaṃ bhṛśāyastamukhaḥ saroṣaṃ samudaikṣata ।। 
+raṅgasthā api te sarve netrair animiṣais tathā । dadṛśuḥ puṇḍarīkākṣaṃ prahṛṣṭenāntarātmanā । 
+bhujāsaktena śuśubhe gajadantena keśavaḥ 
+candrārdhabimbasaṃyukto yathaikaśikharo giriḥ ।।

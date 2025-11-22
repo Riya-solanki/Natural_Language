@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7094 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ tasyā tmanādityaṃ siddhamekasya satyajā ।
+satostitvaṃ vasātitvādastitvāsatyatāṃ tataḥ ।।

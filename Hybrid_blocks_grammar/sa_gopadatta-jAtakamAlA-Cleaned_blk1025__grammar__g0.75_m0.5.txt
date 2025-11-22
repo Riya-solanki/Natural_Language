@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1025 | label: grammar | g:0.75 m:0.5 ---
+
+nayavinayādiguṇaśrīsamṛddho rājābhūt kṛkī nāma । sa ca bhagavati kāśyape samyaksaṃbuddhe samupajātaprasādaḥ । tasya rājñaḥ sapta kumāryaḥ pūrvabuddhotpādasaṃniropitābhivṛddhakuśalamūlabalādhānāḥ samupajātasaṃsāravāsanirvedās tāḥ savinayopacāraṃ madhureṇa vacasā praṇipatya pitaram abruvan ।

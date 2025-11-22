@@ -1,0 +1,7 @@
+--- source: brssbh1u-Cleaned.txt | block: 826 | label: grammar | g:0.555 m:0.462 ---
+
+vijñānātmana eva dehendriyamanobuddhisaṃghātopādhisaṃparkātkaluṣībhūtasya jñānadhyānādisādhanānuṣṭhānāsaṃprasannasya dehādisaṃghātādutkramiṣyataḥ paramātmaikyopapatteridamabhedenopakramaṇamityauḍulomirācāryo manyate ।
+śrutiścaivaṃ bhavati- aeṣa saṃprasādo asmāccharīrātsamutthāya paraṃ jyotirupasaṃpadya svena rūpeṇābhiniṣpadyate' iti ।
+kvacicca jīvāśrayamapi nāmarūpaṃ nadīnidarśanena jñāpayati- ayathā nadyaḥ syandamānāḥ samudre astaṃ gacchanti nāmarūpe vihāya ।
+tathā vidvānnāmarūpādvimuktaḥ parātparaṃ puruṣamupaiti divyam' iti ।
+yathā loke nadyaḥ svāśrayameva nāmarūpaṃ vihāya samudramupayantyevaṃ jīvo api svāśrayameva nāmarūpaṃ vihāya paraṃ puruṣamupaitīti hi tatrārthaḥ pratīyate dṛṣṭāntadārṣṭāntikayostulyatāyai ।।

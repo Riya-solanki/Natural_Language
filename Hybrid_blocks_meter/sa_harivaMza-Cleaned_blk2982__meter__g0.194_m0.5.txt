@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2982 | label: meter | g:0.194 m:0.5 ---
+
+andhas tv anāvignamanā dhairyād avikṛtaṃ vacaḥ 
+provāca vadatāṃ śreṣṭhaḥ samāsāt kaṃsam ojasā ।।

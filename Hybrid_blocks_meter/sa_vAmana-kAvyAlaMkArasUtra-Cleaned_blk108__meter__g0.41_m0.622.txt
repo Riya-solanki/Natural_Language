@@ -1,0 +1,6 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 108 | label: meter | g:0.41 m:0.622 ---
+
+prāṇeśvarapariṣvaṅgavibhramapratipattibhiḥ ।
+muktāhāreṇa lasatā hasatīva stanadvayam ।।
+puṣpamālāśabde puṣpapadamutkarṣasya ।।
+puṣpamālāśabde mālāśabdenaiva gatārthaṃ puṣpapadaṃ prayujyate । utkarṣasya pratipattyarthamiti । utkṛṣṭānāṃ puṣpāṇāṃ mālā puṣpamāleti yathā

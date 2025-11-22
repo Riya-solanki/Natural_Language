@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 59 | label: grammar | g:0.583 m:0.5 ---
+
+eteṣāṃ kleśānāṃ paścimāstistro dṛṣṭayaḥ vīcikitsā ca parikalpitāḥ । śiṣṭāḥ sahajāḥ parikalpitāśca ।।

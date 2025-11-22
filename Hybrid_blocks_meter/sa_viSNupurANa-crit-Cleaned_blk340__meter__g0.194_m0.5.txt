@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 340 | label: meter | g:0.194 m:0.5 ---
+
+saṃsiddhāyāṃ tu vārtāyāṃ prajāḥ sṛṣṭvā prajāpatiḥ 
+maryādāṃ sthāpayām āsa yathāsthānaṃ yathāguṇam ।।

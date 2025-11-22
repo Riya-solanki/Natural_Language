@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1351 | label: grammar | g:0.632 m:0.5 ---
+
+prayatnānantarīyakatvāditi bruvatā kāraṇata utpattirabhidhīyate na kāryasya kāraṇaniyamaḥ, yida ca kāraṇāntarādapyupapadyamānasya śabdasya tad anityatvamupapadyate ? kimatrapratiṣidhyate ? iti ।।
+na prāguccāraṇād vidyamānasya śabdasyānupalabdhiḥ, kasmāt ? āvaraṇādyanupalabdheḥuyathā vidyamānasyodakāderarthasyāvāraṇāderanupalabdhirnaivaṃ śabdasyāgrahaṇakāraṇenāvaraṇādinānupalabdhiḥugṛhyeta caitadasyāgrahaṇakāraṇamudakādivad na gṛhyate tasmādudakādiviparītaḥ śabdo anupalabhyamāna iti

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1556 | label: meter | g:0.306 m:0.5 ---
+
+adyaiva magno mahati prapāte nipātavegādabhirugṇagātraḥ ।
+murchānvitaḥ śokaparāyaṇo vā kaṣṭaṃ bata kleśamayaṃ prapannaḥ ।।

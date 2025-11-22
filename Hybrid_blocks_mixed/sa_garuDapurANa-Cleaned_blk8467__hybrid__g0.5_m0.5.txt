@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8467 | label: hybrid | g:0.5 m:0.5 ---
+
+jalāśayo naiva kṛto hi nirjale manuṣyahetoḥ paśupakṣihetave ।
+gotṛptihetorna kṛtaṃ hi gocaraṃ dehinkvacinnastara yattvayā kṛtam ।।

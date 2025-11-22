@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3967 | label: meter | g:0.25 m:0.75 ---
+
+kṛpaḥ kṛpī satyadhṛterurvaśyāṃ vīryahānitaḥ ।
+droṇapatnī kṛpī jajñe aśvatthāmānamuttamam ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 63 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa rājā dānapriyatvātsamantato nagarasya sarvopakaraṇadhanadhānyasamṛddhā dānaśālāḥ kārayitvā svamāhātmyānurūpaṃ yathābhiprāyasaṃpāditaṃ sopacāraṃ manoharamanatikrāntakālasubhagaṃ dānavarṣaṃ kṛtayugamegha iva vavarṣa । annamannārthibhyaḥ, pānaṃ pānārthibhyaḥ, śayanāsanavasanabhojanagandhamātyarajatasuvarṇādikaṃ tattadarthibhyaḥ । atha tasya rājñaḥ pradānaudāryaśravaṇādvismitapramuditahṛdayā nānādigabhilakṣitadeśanivāsinaḥ puruṣāstaṃ deśamupajagmuḥ ।

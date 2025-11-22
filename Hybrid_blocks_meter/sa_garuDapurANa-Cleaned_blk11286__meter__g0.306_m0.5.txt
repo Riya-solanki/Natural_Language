@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11286 | label: meter | g:0.306 m:0.5 ---
+
+yo devānāmādya akāra eva yato brahmādyā naiva pūrṇāḥ samastāḥ ।
+lakṣmīprasādāccirapuṇyena jāto yathāyogyaṃ pūrṇaguṇo viriñcaḥ ।।

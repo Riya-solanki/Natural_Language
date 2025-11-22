@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 89 | label: meter | g:0.271 m:0.5 ---
+
+svarasandhyakṛta iti vacanāt svarasandhikṛte bhede na doṣaḥ । yathā

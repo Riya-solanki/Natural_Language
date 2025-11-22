@@ -1,0 +1,3 @@
+--- source: varlghku-Cleaned.txt | block: 249 | label: meter | g:0.0 m:1.0 ---
+
+athājantanapuṃsakaliṅgāḥ

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2771 | label: meter | g:0.194 m:0.625 ---
+
+stāṇubhyo himavāñ śreṣṭho hradānāṃ varuṇālayaḥ 
+garutmān pakṣiṇāṃ śreṣṭho devatānāṃ bhavān varaḥ ।।

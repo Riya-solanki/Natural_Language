@@ -1,0 +1,12 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2216 | label: grammar | g:0.501 m:0.203 ---
+
+tvaṃ siddhiḥ śrīr dhṛtiḥ kīrtir hrīr vidyā saṃnatir matiḥ 
+saṃdhyā lakṣmīr vapur medhā kāntiḥ śraddhā kriyā gatiḥ । 
+saṃdhyā rātriḥ prabhā nidrā kālarātris tathaiva ca ।। 
+tvāṃ tu stoṣyanti ye bhaktyā stavenānena vai śubhe । tasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati ।। āryāstavaṃ pravakṣyāmi yathoktam ṛṣibhiḥ purā । nārāyaṇīṃ namasyāmi devīṃ tribhuvaneśvarīm । 
+nṛṇāṃ bandhaṃ vadhaṃ ghoraṃ putranāśaṃ dhanakṣayam 
+vyādhimṛtyubhayaṃ caiva pūjitā śamayiṣyasi ।। 
+bhaviṣyasi mahābhāge varadā kāmarūpiṇī । 
+mohayitvā ca taṃ kaṃsam ekā tvaṃ bhokṣyase jagat 
+aham apy ātmano vṛttiṃ vidhāsye goṣu gopavat । 
+svavṛddhyartham ahaṃ caiva kariṣye kaṃsaghātanam ।।

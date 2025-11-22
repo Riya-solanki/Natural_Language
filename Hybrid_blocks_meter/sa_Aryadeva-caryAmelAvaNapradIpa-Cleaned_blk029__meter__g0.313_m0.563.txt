@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 29 | label: meter | g:0.313 m:0.563 ---
+
+ātmā vai sarvabuddhatvaṃ sattvasauritvameva ca । svādhidaivadya yogena tasmādātmaiva sādhayet ।। iti । 
+mantranidhyaptikāyena vācā manasi coditaḥ ।
+sādhayet pravarāṃ siddhiṃ manaḥsantoṣaṇapriyām ।।

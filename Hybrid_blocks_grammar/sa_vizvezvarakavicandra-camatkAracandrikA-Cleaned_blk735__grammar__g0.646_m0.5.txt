@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 735 | label: grammar | g:0.646 m:0.5 ---
+
+atra nāyakakhaḍge ripubhūpatīṃnāṃ svakampapradānaṃ tebhyaḥ saptāṅgarājyaśriyāmādānaṃ ca mukhyā vṛttyā na saṃbhavatīti gauṇavinimayā nāma parivṛttiḥ ।

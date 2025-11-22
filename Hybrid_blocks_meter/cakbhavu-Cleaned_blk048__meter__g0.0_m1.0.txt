@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 48 | label: meter | g:0.0 m:1.0 ---
+
+sūryaśītāṃunetrābhyāṃ mathitvā śaktivāridhim
+parāmṛtarasābhyaṅgaṃ śivāya vinivedaye

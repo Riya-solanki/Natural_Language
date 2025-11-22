@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4474 | label: meter | g:0.194 m:0.625 ---
+
+pratyukto'ham anenādya vākyasyāsya yad uttaram 
+dakṣiṇābhiḥ sahety evaṃ paryāptaṃ vacanaṃ mama ।।

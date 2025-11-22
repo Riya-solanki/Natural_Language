@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1798 | label: meter | g:0.25 m:0.625 ---
+
+udvṛṃ tābhyāṃ ca bahvāyū rūkṣairmaṇibhirīśvaraḥ ।
+pāṇḍarairmaṇibhirniḥ svā malinaiḥ sukhabhāginaḥ ।।

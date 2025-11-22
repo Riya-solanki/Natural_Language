@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1129 | label: hybrid | g:0.433 m:0.456 ---
+
+saṃskṛtaṃ bhakṣāḥ ।।
+saptamyantādaṇ syātsaṃskṛter'the yatsaṃskṛtaṃ bhakṣāścette syuḥ । bhrāṣṭreṣu saṃskṛtā bhrāṣṭrā yavāḥ ।।

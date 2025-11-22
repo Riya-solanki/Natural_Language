@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4996 | label: grammar | g:0.774 m:0.047 ---
+
+siṃharṣabhamṛgair nāgair vājisārasabarhiṇaiḥ 
+bhāsvanti tāni dṛśyante vimānāni sahasraśaḥ ।। 
+atha kṛṣṇo abravīd vākyaṃ kumārāṃs tān sahasraśaḥ । pradyumnādīn samastāṃs tu ślakṣṇaṃ madhurayā girā । 
+ete rudrās tathādityā vasavo athāśvināv api 
+sādhyā devās tathānye cāpy avandaṃs tān yathākramam ।। 
+sahasrākṣaṃ mahābhāgaṃ dānavānāṃ bhayaṃkaram । vandadhvaṃ sahitāḥ śakraṃ sagaṇaṃ nāgavāhanam ।। saptarṣayo mahābhāgā matpriyārtham ihāgatāḥ । ṛṣayaś ca mahātmāno vandadhvaṃ ca yathāsukham ।। ete cakradharāś caiva etān vadanta sarvaśaḥ । sāgarāś ca hradāś caiva matpriyārtham ihāgatāḥ । diśaś ca vidiśaś caiva vandadhvaṃ ca yathākramam ।। vāsukipramukhāś caiva nāgā vai sumahābalāḥ । gāvaś ca matpriyārthaṃ vai vandadhvaṃ ca yathākramam ।। jyotīṃṣi saha nakṣatrair yakṣarākṣasakiṃnaraiḥ । āgatā matpriyārthaṃ vai vandadhvaṃ ca yathākramam ।। vāsudevavacaḥ śrutvā kumārāḥ praṇatāḥ sthitāḥ । yathākrameṇa sarveṣāṃ devatānāṃ mahātmanām ।। sarvān divaukaso dṛṣṭvā paurā vismayam āgatāḥ । pūjārtham atha saṃbhārān pragṛhya drutam āgatāḥ । 
+aho vai mahad āścaryaṃ vāsudevasya saṃśrayāt 
+prāpyate yad ihāsmābhir iti vācaś caranti hi ।।

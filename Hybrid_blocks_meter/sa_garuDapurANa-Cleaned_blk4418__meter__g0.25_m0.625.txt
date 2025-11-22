@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4418 | label: meter | g:0.25 m:0.625 ---
+
+arśasāṃ bījasṛṣṭistu mātāpitrapacārataḥ ।
+devatānāṃ prakope hi sānnipātasya cānyataḥ ।।

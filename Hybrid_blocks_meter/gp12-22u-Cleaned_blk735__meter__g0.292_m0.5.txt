@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 735 | label: meter | g:0.292 m:0.5 ---
+
+[] avahite ca bahir-arthe śrī-harir asau sarvān parvata-parvāgatān praty uvāca-

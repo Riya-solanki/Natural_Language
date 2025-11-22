@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2046 | label: meter | g:0.337 m:0.5 ---
+
+na ceṣyata'sau tapaso vyayaṃ hi śakto api karttu tvatha bhasmasāt tam ।
+ākāśamīkṣyātha sa dīrghamuṣṇaṃ mumoca niḥśvāsamanuttamaṃ hi ।।

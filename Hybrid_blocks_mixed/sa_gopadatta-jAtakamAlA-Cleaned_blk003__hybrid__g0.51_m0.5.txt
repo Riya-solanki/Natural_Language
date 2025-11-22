@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 3 | label: hybrid | g:0.51 m:0.5 ---
+
+mahānti pāpāny abhibhūya yasmād ajātaśatrur guṇavān babhūva ।
+upetya sadbhiḥ saha saṃprayogam ato niṣevyā guṇavanta eva ।।

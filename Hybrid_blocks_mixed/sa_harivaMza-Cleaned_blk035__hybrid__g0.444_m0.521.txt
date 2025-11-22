@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 35 | label: hybrid | g:0.444 m:0.521 ---
+
+ṛco yajūṃṣi sāmāni nirmame yajñasiddhaye 
+mukhād devān ajanayat pitṝṃś ceśo api vakṣasaḥ । 
+prajanāc ca manuṣyān vai jaghanān nirmame asurān । 
+sādhyāṃs tair ayajan devān ity evam anuśuśrumaḥ ।।

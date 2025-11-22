@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2174 | label: meter | g:0.194 m:0.5 ---
+
+eṣa mānuṣako yatno mānuṣair eva sādhyate 
+śrūyatāṃ yena daivaṃ hi madvidhaiḥ pratihanyate ।।

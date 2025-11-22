@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 176 | label: grammar | g:0.75 m:0.5 ---
+
+-apradhānabrahmatajjñānaprārambhārtho bhavatu yathā adaṇḍau praiṣānanvāha'ityatra apradhānadaṇḍaḥ vivakṣyata iticenna । tatrahi amaitrāvaruṇaḥ praiṣyeti cānvāha'iti mantreṇa prāpte praiṣānuvacane na vidhyanvayitvena vivakṣā kintu aprāpte apradhāne api daṇḍagrahaṇe । ihatu na jijñāsāyā avivakṣākāraṇamityunneyam ।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 845 | label: grammar | g:0.75 m:0.5 ---
+
+sarvatrānājñāteṣv agnaye svāhā । yajñāya svāhā । brahmaṇe svāhā । viṣṇave svāhā । prajāpataye svāhā । anumataye svāhā । agnaye sviṣṭakṛte svāheti ।

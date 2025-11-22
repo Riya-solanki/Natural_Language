@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1706 | label: grammar | g:0.75 m:0.5 ---
+
+rāvaṇaḥ -dhiṅ mūrkha ! kathaṃ re rāśi-nakṣatra-pāṭhakānāṃ goṣṭhīṃ na dṛṣṭavān asi । te' pi kanyām eva prathamaṃ prakaṭayanti । caramaṃ dhanuḥ ।

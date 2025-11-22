@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 371 | label: meter | g:0.056 m:0.521 ---
+
+{re re cañcalalocanāñcitaruce cetaḥ pramucya sthira-
+premāṇaṃ mahimānameṇayanāmālokya kiṃ nṛtyasi ।
+kiṃ manye vihariṣyase bata hatāṃ muñcāntarāśāmimām
+eṣā kaṇṭhataṭe kṛtā khalu śilā saṃsāravārāṃnidhau ।।}

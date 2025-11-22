@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4043 | label: meter | g:0.25 m:0.625 ---
+
+rājyañca tṛṇavattyaktvā śṛṅgaverapuraṃ gataḥ ।
+rathaṃ tyaktvā prayāgañca citrakūṭagiriṃ gataḥ ।।

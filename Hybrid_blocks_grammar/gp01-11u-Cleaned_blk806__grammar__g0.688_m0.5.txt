@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 806 | label: grammar | g:0.688 m:0.5 ---
+
+[] tad evaṃ tad-divāvṛtte pūrvavad eva tal-līlā-parvaṇi sākṣād iva vṛtte sarve puraskṛta-vrajeśāḥ sambhṛta-tat-tad-āveśā yathāyatham ātma-pathaṃ pratasthire ।

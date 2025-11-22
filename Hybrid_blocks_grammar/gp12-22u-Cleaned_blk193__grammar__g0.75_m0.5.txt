@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 193 | label: grammar | g:0.75 m:0.5 ---
+
+[] śrī-rāmas tu sa-smitam uvāca-bho bhavanto lobhavanto bhavanto' py asmattaḥ prati pratīyadhve, yato mugdhāḥ! niyuddhābhimukhair bhrū-bhaṅga-sūcita-śauṭīrya-sukhaiḥ prabhavadbhir bhavadbhiḥ kadācid āvām api parābhavam āsādyāvahe । tat katham āvām eva yācyāvahe ?

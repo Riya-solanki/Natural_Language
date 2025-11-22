@@ -1,0 +1,11 @@
+--- source: brssgo1u-Cleaned.txt | block: 22 | label: meter | g:0.25 m:0.897 ---
+
+iti pratyakṣameva brahmaṇo jijñāsākarmatvaṃ darśayanti ।
+tacca karmaṇi ṣaṣṭhīparigrahe sūtreṇānugataṃ bhavati ।
+tasmādbrahmaṇa iti karmaṇiṣaṣṭhī ।।
+jñātumicchā jijñāsā ।
+avagatiparyantaṃ jñānaṃ sanvācyāyā icchāyāḥ ।
+karmaphalaviṣayatvādicchāyāḥ ।
+jñānena hi pramāṇenāvagantumiṣṭaṃ brahma ।
+brahmāvagatirhi puruṣārthaḥ, niḥśeṣasaṃsārabījāvidyādyanarthanibarhaṇāt ।
+tasmādbrahma vijijñāsitavyam ।।

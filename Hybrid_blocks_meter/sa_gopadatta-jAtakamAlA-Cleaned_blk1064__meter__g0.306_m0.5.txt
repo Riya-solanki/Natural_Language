@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1064 | label: meter | g:0.306 m:0.5 ---
+
+api cāpariniṣṭhitasvabhāve priyatā kā naravīra jīvaloke ।
+paramārthavicārapelavānāṃ priya ity eva hi vibhramo matīnām ।।

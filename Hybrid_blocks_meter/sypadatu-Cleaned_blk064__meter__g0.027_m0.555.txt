@@ -1,0 +1,10 @@
+--- source: sypadatu-Cleaned.txt | block: 64 | label: meter | g:0.027 m:0.555 ---
+
+[] visṛjati kadalīṣu svāḥ prabhādaṇḍarājīḥ
+punar api ca sudhābhir varṇayan saudhamālāḥ
+kṣarati kisalayebhyo mauktikānīva candraḥ
+aho nu khalu kṣīrodenevodvelapravṛttavikīryamāṇavīcirāśinā jyotsnāsaṃjñakena payasā prasarpatānugṛhīta iva jīvalokaḥ saṃprati hi
+ete vrajanti turagaiś ca kareṇubhiś ca
+karṇīrathair api ca kambalavāhyakaiś ca
+āliṅgitā yuvatibhir mṛditā yuvāno
+gandharvasiddhamithunāni vihāyasīva

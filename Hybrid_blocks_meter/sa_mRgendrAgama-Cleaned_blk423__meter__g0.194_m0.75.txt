@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 423 | label: meter | g:0.194 m:0.75 ---
+
+sā vidyā sthānamapyasyā vidyeśaśca tadīśvaraḥ 
+sarvaduḥkhapraśamanaṃ yayāsya kurute haraḥ ।।

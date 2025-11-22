@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 212 | label: grammar | g:0.646 m:0.5 ---
+
+samānāṃ viṣamā pūjā viṣamāṇāṃ samā tathā kriyate yena devo api svapadād bhraśyate hi saḥ ।।

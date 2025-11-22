@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1852 | label: meter | g:0.25 m:0.625 ---
+
+gambhīrākṣā īśvarāḥ syurmantriṇaḥ sthūlacakṣuṣaḥ ।
+nīlotpa lākṣā vidvāṃsaḥ saubhāgyaṃ śyāmacakṣuṣām ।।

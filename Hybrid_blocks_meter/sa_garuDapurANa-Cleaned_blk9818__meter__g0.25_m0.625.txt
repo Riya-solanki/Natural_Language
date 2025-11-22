@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9818 | label: meter | g:0.25 m:0.625 ---
+
+gadgado anatavādī syānmūkaścaiva gavānṛte ।
+brahmahā jāyate kuṣṭhī śyāvadantaśca madyapaḥ ।।

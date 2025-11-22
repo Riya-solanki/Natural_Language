@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1586 | label: grammar | g:0.646 m:0.5 ---
+
+rājā-vayasya aṅguli-svedena dūṣyerann akṣarāṇi । dhāryatām ayaṃ priyāyāḥ sva-hasta-lekhaḥ । ity atra urvaśī-prahita-patrikārtho lekhaḥ ।

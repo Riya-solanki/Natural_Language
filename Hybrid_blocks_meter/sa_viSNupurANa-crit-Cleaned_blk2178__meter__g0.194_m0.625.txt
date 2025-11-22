@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2178 | label: meter | g:0.194 m:0.625 ---
+
+ahiṃsādiṣv aśeṣeṣu guṇeṣu guṇināṃ varaḥ 
+avāpa paramāṃ kāṣṭhāṃ manasaś cāpi saṃyame ।।

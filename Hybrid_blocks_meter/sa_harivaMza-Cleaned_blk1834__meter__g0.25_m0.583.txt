@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1834 | label: meter | g:0.25 m:0.583 ---
+
+lokānām antakālajñā kālī nayanaśālinī 
+upatasthe mahātmānaṃ nidrā taṃ kālarūpiṇī ।। 
+viśvasya jagataḥ prabhum ।nārāyaṇaṃ viśvabījam ।
+sa śiśye śayane divye samudrāmbhodaśītale 
+harir ekārṇavoktena vratena vratināṃ varaḥ ।।

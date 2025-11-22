@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6391 | label: meter | g:0.25 m:0.5 ---
+
+duṣkṛtaṃ yacca me kiñcidbāṅmanaḥ kāyakarmabhiḥ ।
+punātu me tadindrastu varuṇaḥ sabṛhaspatiḥ ।।

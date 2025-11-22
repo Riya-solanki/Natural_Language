@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10875 | label: meter | g:0.25 m:0.625 ---
+
+tridinaiścātasīpuṣpaṃ niḥ sāraṃ parikīrtitam ।
+praharaṃ mallikā sāraṃ jātī tu praharārdhakam ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1181 | label: meter | g:0.194 m:0.75 ---
+
+{rasāsāra rasā sārasāyatākṣakṣatāyasā ।
+sātāvāta tavātāsā rakṣatastvastvatakṣara ।।}

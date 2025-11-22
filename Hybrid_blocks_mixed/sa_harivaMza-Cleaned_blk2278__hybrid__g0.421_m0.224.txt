@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2278 | label: hybrid | g:0.421 m:0.224 ---
+
+nīlapītāmbarābhiś ca taruṇībhiḥ samantataḥ 
+vanyapuṣpāvataṃsābhir gopakanyābhir āvṛtam ।। 
+sīmantamadhurālāpāḥ smitabhrūlalitekṣaṇāḥ । sītkārabhrūvilāsaiś ca cetobuddhimanoharāḥ । sarvās tāś candravadanā gopanāryaḥ suśobhanāḥ ।। tāsāṃ nūpuraśabdena mekhalānāṃ svanena ca । svanantīnāṃ ca śabdena mayūrā nanṛtus tadā । 
+śirasā dhṛtakumbhābhir baddhair udgrathitāmbaraiḥ 
+yamunātīramārgeṇa jalahārībhir āvṛtam ।। 
+takravikrayayuktābhir dadhisarpiḥkrayeṣu ca । 
+sa tatra praviśan hṛṣṭo govrajaṃ gopanāditam 
+pratyudgato gopavṛddhaiḥ strībhir vṛddhābhir eva ca 
+niveśaṃ rocayāmāsa parivarte sukhāśraye ।।

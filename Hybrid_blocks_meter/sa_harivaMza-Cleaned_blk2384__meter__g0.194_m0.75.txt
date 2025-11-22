@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2384 | label: meter | g:0.194 m:0.75 ---
+
+kaṇṭakībhiḥ pravṛddhābhis tathā kaṇṭakitair drumaiḥ 
+nikhātocchritaśākhāgrair abhiguptaṃ samantataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5336 | label: meter | g:0.194 m:0.625 ---
+
+avaśyam asya devendro niṣkṛtiṃ kṛṣṇa yāsyati 
+vajrodyatakaraṃ śakram anuyāsyanti cāmarāḥ ।।

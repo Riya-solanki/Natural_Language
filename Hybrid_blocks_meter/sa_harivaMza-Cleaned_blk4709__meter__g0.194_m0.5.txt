@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4709 | label: meter | g:0.194 m:0.5 ---
+
+gacchadhvaṃ sahitāḥ sarve hanyatām eṣa durmatiḥ 
+yena naḥ kulacāritraṃ dūṣitaṃ dūṣitātmanā ।।

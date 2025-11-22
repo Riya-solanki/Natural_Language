@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 457 | label: grammar | g:0.75 m:0.375 ---
+
+"āptopadeśaḥ śabdaḥ "
+iti pramāṇabhāve viśeṣaṇaṃ bruvatā anānāprakāraḥ śabdaḥ' iti jñāpyate tasmin sāmānyena vicāraḥ kiṃ nityo athānityaḥ ? iti, vimarśahetvanuyoge ca vipratipatteḥ saṃśayaḥ, aākāśaguṇaḥ śabdo vibhurnityo abhivyaktidharmakaḥ' ityeke, gandhādisahavṛttirdravyeṣu saṃniviṣṭo gandhādivadavasthito abhivyaktidharmakaḥ' ityapare, aākāśaguṇaḥ śabda utpattinirodhadharmako buddhivat' ityapare, amahābhūtasaṃkṣobhajaḥ śabdo anāśrita utpattidharmako nirodhadharmakaḥ' ityanye ataḥ saṃśayaḥ kimatra tattvam ? iti, aanityaḥ śabdaḥ' ityuttaram ।

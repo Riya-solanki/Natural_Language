@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 694 | label: hybrid | g:0.5 m:0.5 ---
+
+tavaiva saphalaṃ janma sujīvaṃ tvaṃ ca jīvasi ।
+aiśvaryaṃ tava pātrasthaṃ yathārthā śrīs tavaiva ca ।।

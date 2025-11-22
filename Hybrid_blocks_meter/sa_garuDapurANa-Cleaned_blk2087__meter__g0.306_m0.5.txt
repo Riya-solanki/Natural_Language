@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2087 | label: meter | g:0.306 m:0.5 ---
+
+ye karkaracchidramalopadigdhāḥ prabhāvimuktāḥ paruṣā vivarṇāḥ ।
+na te praśastā maṇayo bhavanti samānato jātiguṇaiḥ samastaiḥ ।।

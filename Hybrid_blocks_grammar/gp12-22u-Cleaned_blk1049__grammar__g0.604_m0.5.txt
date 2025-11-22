@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1049 | label: grammar | g:0.604 m:0.5 ---
+
+[] śrī-kṛṣṇa uvāca-bhavatīnām ambarāvaraṇatā vidyata eva, tad ambaraṃ vā katham apahāreṇa saṃvalanam avalambatām?

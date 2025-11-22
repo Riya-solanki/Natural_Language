@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3936 | label: meter | g:0.194 m:0.625 ---
+
+anānīya svasāraṃ tu rukmī vīryamadānvitaḥ 
+hīnapratijño naicchat sa praveṣṭuṃ kuṇḍinaṃ puram ।।

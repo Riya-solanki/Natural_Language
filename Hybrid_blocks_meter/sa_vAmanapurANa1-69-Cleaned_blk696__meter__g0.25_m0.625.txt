@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 696 | label: meter | g:0.25 m:0.625 ---
+
+teṣāṃ lohamayāḥ kīlā vahnivarṇāḥ punaḥ punaḥ ।
+śravaṇeṣu nikhanyante dharmarājasya kiṅkaraiḥ ।।

@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 538 | label: meter | g:0.33 m:0.765 ---
+
+svarṇamākṣika sattvapātana 
+strīvajrīdugdhabhāvitameraṇḍasnehabhāvitaṃ śataṃ dhmātam ।
+evaṃ tribhiriha vāraiḥ śulvasamaṃ bhavati rañjakaṃ haimam ।।

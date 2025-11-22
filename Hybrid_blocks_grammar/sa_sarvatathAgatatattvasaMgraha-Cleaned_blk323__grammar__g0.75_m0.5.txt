@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 323 | label: grammar | g:0.75 m:0.5 ---
+
+tato brūyāt, "kinte abhirucirarthotpattisiddhijñānaṃ vā, ṛddhisiddhiniṣpattijñānaṃ vā, vidyādharasiddhiniṣpattijñānaṃ vā, yāvat, sarvatathāgatottamasiddhiniṣpattijñānaṃ ve" ti । tato yasya yadabhirucitaṃ tata tasyocceyam ।।

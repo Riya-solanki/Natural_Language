@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3403 | label: meter | g:0.194 m:0.625 ---
+
+evam ārtakalatrasya śrāmyamāṇeṣu bandhuṣu 
+gamanaṃ te mahārāja dāruṇaṃ pratibhāti naḥ ।।

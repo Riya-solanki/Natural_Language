@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 843 | label: meter | g:0.218 m:0.655 ---
+
+purānukaraṇena, yathā-
+pi pi priya sa sa svayaṃ mu mu mukhāsavaṃ dehi me
+ta ta tyaja du du drutaṃ bha bha bha bhājanaṃ kāñcanam ।
+iti skhalita-jalpitaṃ mada-vaśāt kuraṅgīdṛśaḥ
+prage hasita-hetave sahacarībhir adhyaiyata ।।

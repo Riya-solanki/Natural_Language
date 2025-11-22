@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 301 | label: meter | g:0.194 m:0.5 ---
+
+prathamaṃ upādu varabodhayi cittupādo so vā anuttaraśivāmanuprāpuṇeyā 
+rātriṃdivaikamanasā tamadhiṣṭhiheyā ārambhavīrya vidu paṇḍitu veditavyo ।।

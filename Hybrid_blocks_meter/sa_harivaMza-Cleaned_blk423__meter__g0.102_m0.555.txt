@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 423 | label: meter | g:0.102 m:0.555 ---
+
+na hi dhundhur mahātejās tejasālpena śakyate 
+nirdagdhuṃ pṛthivīpāla ciraṃ yugaśatair api 
+vīryaṃ hi sumahat tasya devair api durāsadam ।।

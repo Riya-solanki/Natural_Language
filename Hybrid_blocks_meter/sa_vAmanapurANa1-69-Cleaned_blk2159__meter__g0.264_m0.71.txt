@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2159 | label: meter | g:0.264 m:0.71 ---
+
+sanatkumāra uvāca ।
+ko ayaṃ punnāmako deva narakāt trāti putrakaḥ ।
+kasmāccheṣaṃ tataḥ pāpaṃ harecchiṣyaśca tadvada ।।

@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 893 | label: meter | g:0.194 m:0.521 ---
+
+saṃvat-pañcaka-veda-ṣoḍaśa-yutaṃ śākaṃ daśeṣv eka-bhāg-
+jātaṃ yarhi tadākhilaṃ vilikhitā gopāla-campūr iyam ।
+vṛndā-kānanam āśritena laghunā jīvena kenāpi tad
+vṛndā-kānanam eva sambhṛti-kalāṃ dhattāṃ samantād iha ।।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 94 | label: hybrid | g:0.5 m:0.5 ---
+
+bodhipakṣādayaṃ saṃskṛtāḥ, kāraṇānapekṣadhātutrayāparyāpannatathatādayo asaṃskṛtāḥ, sarvāryajanasantānaprabhavacaturdhyānādayo guṇāḥ, samyaksambuddhasantānodayadharmidaśabalānyasādhāraṇānītyekādaśavidhamālambanam ।

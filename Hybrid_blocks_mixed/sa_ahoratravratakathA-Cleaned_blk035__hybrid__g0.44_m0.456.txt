@@ -1,0 +1,5 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 35 | label: hybrid | g:0.44 m:0.456 ---
+
+yatra devālaye tīrthe sarvān devān prapūjayet । hīnajātiprasaṅgaṃ ca sparśanaṃ naiva kārayet ।। । 
+sparśite saṃcaret snātvā pañcagavyena śodhayet ।
+asparśe api caret snānaṃ trisaṃdhyaṃ saṃcared vratī ।।

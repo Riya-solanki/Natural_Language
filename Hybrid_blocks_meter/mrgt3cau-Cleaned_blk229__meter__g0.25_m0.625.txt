@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 229 | label: meter | g:0.25 m:0.625 ---
+
+śrāvaṇe tadupānte vā nabhasye vocyamānavat ।
+śambhoḥ pavitramāpādya pūrayedvārṣikaṃ vidhim ।

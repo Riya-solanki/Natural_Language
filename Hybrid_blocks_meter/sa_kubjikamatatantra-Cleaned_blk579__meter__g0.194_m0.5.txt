@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 579 | label: meter | g:0.194 m:0.5 ---
+
+ekā eva parā śaktiḥ saṃsthitā kṛtyabhedataḥ 
+kṛtyabhedena bhedo asyā na bhedaḥ paramārthataḥ ।।

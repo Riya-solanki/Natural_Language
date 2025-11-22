@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3417 | label: grammar | g:0.656 m:0.5 ---
+
+dharmaḥ pravrajitastapaḥ pracalitaṃ satyaṃ ca dūraṃ gataṃ pṛthvī vandhyaphalā janāḥ kapaṭino laulye sthitā brāhmaṇāḥ ।
+martyāḥ strīvaśagāḥ striyaśca capalā nīcā janā unnatāḥ hā kaṣṭaṃ khalujīvitaṃ kaliyuge dhanyā janā ye mṛtāḥ ।।

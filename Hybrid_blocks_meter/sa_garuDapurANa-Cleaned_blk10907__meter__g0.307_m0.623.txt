@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10907 | label: meter | g:0.307 m:0.623 ---
+
+tato harirbhagavānvāmanobhūdadityāṃ vai kaśyapāddavadevaḥ ।
+indrāyedaṃ dātukāmaḥ khagendra tadarthaṃ vai pāvituṃ sovituṃ ca ।।

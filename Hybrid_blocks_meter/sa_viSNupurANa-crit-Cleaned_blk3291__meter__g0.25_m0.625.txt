@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3291 | label: meter | g:0.25 m:0.625 ---
+
+rājyaṃ kṛtvā yathānyāyaṃ pālayitvā vasuṃdharām 
+tatyāja sa priyān prāṇān saṃgrāme dharmato nṛpaḥ ।।

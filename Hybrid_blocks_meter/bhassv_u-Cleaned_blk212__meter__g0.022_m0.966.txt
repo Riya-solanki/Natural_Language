@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 212 | label: meter | g:0.022 m:0.966 ---
+
+{rājā} - bāḍham 
+gacchāgrataḥ 
+{vidūṣakaḥ} - evvaṃ hodu 
+[evaṃ bhavatu । ]

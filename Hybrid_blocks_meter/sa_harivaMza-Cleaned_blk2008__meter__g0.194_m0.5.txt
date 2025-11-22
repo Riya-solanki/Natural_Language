@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2008 | label: meter | g:0.194 m:0.5 ---
+
+dharmasyāṃśo atha kuntyāṃ vai mādryāṃ ca viniyujyatām 
+vigrahasya kalir mūlaṃ gāndhāryāṃ viniyujyatām ।।

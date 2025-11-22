@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10292 | label: meter | g:0.328 m:0.595 ---
+
+rāśibhūtaṃ guṇānāṃ tu darśayiṣye sthitiṃ ca vai ।
+rāśībhūtasya tasamaḥ sakāśādvinatāsuta ।।

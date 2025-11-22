@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3628 | label: meter | g:0.102 m:0.5 ---
+
+jarāsaṃdhas tu tac chrutvā vimanāḥ samapadyata 
+na prajahre tatas tasmai punar eva halāyudhaḥ 
+tau vyupāramatāṃ caiva vṛṣṇayas te ca pārthivāḥ ।।

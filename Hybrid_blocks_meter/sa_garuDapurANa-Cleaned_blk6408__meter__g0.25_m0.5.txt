@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6408 | label: meter | g:0.25 m:0.5 ---
+
+samṛtaṃ brāhmaṇasyānnaṃ kṣatriyānnaṃ payaḥ smṛtam ।
+vaiśyasya cānnamevānnaṃ śūdrānnaṃ rudhiraṃ smṛtam ।।
+amāvāsī vasedatra ekahāyanameva vā ।।
+tatra śrīścaiva lakṣmīśca vasate nātra saṃśayaḥ ।
+udare gārhapatyāgniḥ pṛṣṭhadeśe tu dakṣiṇaḥ ।।

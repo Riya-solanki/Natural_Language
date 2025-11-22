@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10604 | label: meter | g:0.368 m:0.682 ---
+
+jīvāḥ saṃti hyaneke ca pratikalpe sṛjanti te । dvātriṃśallakṣaṇaiḥ samyagyuktā vāyutvayogyakāḥ ।। 
+aṣṭāviṃśallakṣaṇaiśca girīśapadayoginaḥ ।
+caturviṃśatimārabhyāṣoḍaśācca surāḥ smṛtāḥ ।।

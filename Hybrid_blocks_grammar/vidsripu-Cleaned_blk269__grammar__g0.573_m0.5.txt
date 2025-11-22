@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 269 | label: grammar | g:0.573 m:0.5 ---
+
+kṣapāṃ kṣāmīkṛtya prasabham apahṛtyāmbu saritāṃ pratāpyorvīṃ sarvāṃ vanagahanam ucchādya sakalam ।
+kva sampraty uṣṇāṃśur gata iti samanveṣaṇaparās taḍiddīpālokair diśi diśi carantīva jaladāḥ ।।

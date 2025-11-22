@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 255 | label: meter | g:0.302 m:0.719 ---
+
+napuṃsakasya jhalacaḥ ।।
+jhalantasyājantasya ca klībasya num syāt sarvanāmasthāne ।।

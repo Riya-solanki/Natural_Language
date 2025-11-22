@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2544 | label: meter | g:0.25 m:0.625 ---
+
+caturdhā sa bibhedātha bāṣkalo nijasaṃhitām 
+baudhyādibhyo dadau tās tu śiṣyebhyaḥ sa mahāmatiḥ ।।

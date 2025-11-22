@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 216 | label: grammar | g:0.75 m:0.5 ---
+
+[] muhūrtād atha kaścid antaḥ-pura-sāraḥ kumāraḥ samāgamya sāmyenopaviṣṭayor jyāyaḥ-kaniṣṭhayoḥ sambandhi-nivahārādhanāya dhṛta-tṛṣṇayoḥ śrī-rāma-kṛṣṇayoḥ karṇābhyarṇaṃ lagitavān, tābhyām anumataḥ punas tad-rūpa-taś citrībhavituḥ śrīmad-vraja-dharitrīśituḥ । tena ca "adya śrīvatsa-vatsa-prasāda-labdhasya vatsasya śubha-sampan-maya-janma-rkṣam" iti vinaya-sandhena kevalenāñjali-bandhena vyañjanayā bhojanāya yācitāḥ santo' ti-santoṣād vyativīkṣya yugapad utthitavantas te prasthitavantaś cāntaḥ-puram ।

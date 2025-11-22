@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11587 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ vyaṅkaṭāmāhātmyaṃ śrutvā devī khageśvara ।
+nidrāṃ cakāra tatraiva rātrau pitrā sahaiva ca ।
+brāhme muhūrte cotthayi hṛdi sasmāra kanyakā ।।

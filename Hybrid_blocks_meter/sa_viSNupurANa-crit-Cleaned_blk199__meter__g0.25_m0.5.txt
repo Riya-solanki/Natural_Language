@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 199 | label: meter | g:0.25 m:0.5 ---
+
+yat kiṃcin manasā grāhyaṃ yad grāhyaṃ cakṣurādibhiḥ 
+buddhyā ca yat paricchedyaṃ tad rūpam akhilaṃ tava ।।

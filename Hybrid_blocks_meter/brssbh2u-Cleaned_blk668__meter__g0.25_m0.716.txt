@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 668 | label: meter | g:0.25 m:0.716 ---
+
+nacātmātmanyeva niyojyaḥ syāt ।
+śarīravyatirekadarśina eva niyojyatvamiti cet ।

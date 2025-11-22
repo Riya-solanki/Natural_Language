@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5121 | label: meter | g:0.194 m:1.0 ---
+
+hartāraḥ pararatnānāṃ paradārapradharṣakāḥ 
+kāmātmāno durātmānaḥ sopadhāḥ priyasāhasāḥ ।।

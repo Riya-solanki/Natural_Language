@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1584 | label: meter | g:0.25 m:0.75 ---
+
+kaliṅgavaṅgapuṇḍrāṅgā vaidarbhā mūlakāstathā ।
+vindhyāntarnilayā deśāḥ pūrvadakṣiṇataḥ smṛtāḥ ।।

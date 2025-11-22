@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1745 | label: hybrid | g:0.5 m:0.5 ---
+
+daṃṣṭrā śuddhaḥ praviṣṭastu mṛtyuḥ sarva pade sthitaḥ ।
+bhayāttulyo na vighnāsti jalāttulyo na vai rasa ।।

@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 261 | label: grammar | g:0.562 m:0.5 ---
+
+arbhakaustvāt tadvyapadeśāc ca neti cen na nicāyyatvād evaṃ vyomavac ca ।

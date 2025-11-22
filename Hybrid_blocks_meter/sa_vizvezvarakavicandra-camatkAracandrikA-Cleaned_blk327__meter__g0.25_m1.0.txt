@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 327 | label: meter | g:0.25 m:1.0 ---
+
+rūpakaṃ daśadhā proktaṃ nāṭakādivibhedataḥ ।
+mahāprabandhasāmrājyamādhikartumidaṃ kṣamam ।।

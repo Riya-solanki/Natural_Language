@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 307 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa dasyus tad atidāruṇaṃ karma kṛtvā sadyas tadvipākacihnākulīkṛtahṛdayaḥ svam āvāsam abhipratasthe । tatra ca tatkarmāparādhena bhairavo niṣpratīkārarabhasajvālāmālākulo mahadagniḥ prajajvāla ।

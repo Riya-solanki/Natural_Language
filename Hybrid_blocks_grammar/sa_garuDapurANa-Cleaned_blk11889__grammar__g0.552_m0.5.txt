@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11889 | label: grammar | g:0.552 m:0.5 ---
+
+tadvattaṃ tvaṃ navanītaṃ ca bhaktyā taducchiṣṭaṃ bhakṣayitvā pate hi ।
+tasyāśca sūtraṃ galabaddhaṃ ca kṛtvā ihaiva duḥ khānyanubhūyāḥ pate tvam ।।

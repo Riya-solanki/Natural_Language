@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9037 | label: meter | g:0.25 m:0.5 ---
+
+tejo vadasva me nātha vāyurākāśameva ca ।
+vāyavaścaiva pañcaite kathaṃ gacchanti cāptaye ।।

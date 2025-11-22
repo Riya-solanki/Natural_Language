@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11432 | label: grammar | g:0.552 m:0.5 ---
+
+kurvanti yātrāṃ ca tadarthameva bhaktijñānaṃ durlabhaṃ vai kalau ca ।
+bhaktā ye vai na viraktāḥ sadaiva teṣāṃ harerdarśanaṃ durlabhaṃ ca ।।

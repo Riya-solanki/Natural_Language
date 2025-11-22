@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9183 | label: meter | g:0.25 m:0.625 ---
+
+guṇabhāgyanidhiḥ putrastatra jāyeta dhārmikaḥ ।
+sā niśā tatra sāmānyairna labhyeta khagādhipa ।।

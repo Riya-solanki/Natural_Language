@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 461 | label: hybrid | g:0.521 m:0.5 ---
+
+iti hutvā mārjayitvā tato ayam āgataḥ karmāṇi kuryāt ।

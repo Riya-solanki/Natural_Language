@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 51 | label: hybrid | g:0.399 m:0.34 ---
+
+sati brahmaṇi ekībhūya na vidurityajñānoktiḥ ।
+iha suṣupteḥ prāk prabodhe yena jātyādinā vibhaktā bhavanti tadā punarutthānakāle tathaiva bhavantīti vibhāgoktiḥ ।

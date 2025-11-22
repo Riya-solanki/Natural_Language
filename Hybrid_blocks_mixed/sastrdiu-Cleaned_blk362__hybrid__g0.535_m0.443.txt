@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 362 | label: hybrid | g:0.535 m:0.443 ---
+
+nanvemastu nāma saṃbandhaḥ, sa tu pauruṣeya iti tvaduktyaivāpannam ।
+tathāhi na hi śabdasyārthena saṃyogagādātmyādisaṃbandhaḥ kintu pratyāyakatvam ।
+tacca puruṣādhīnamityuktam, ato devadattādiśabdasyeva asyārthasyeyaṃ saṃjñetyevaṃ saṃbandhe kṛte paścācchabdasyārthapratipādanamiti siddhaṃ pauruṣeyatvam ।।

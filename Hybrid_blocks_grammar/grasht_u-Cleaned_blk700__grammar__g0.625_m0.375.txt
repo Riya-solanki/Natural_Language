@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 700 | label: grammar | g:0.625 m:0.375 ---
+
+anyaccāha athetyādi ।।
+athendragopadevadālīyogakathanānantaraṃ kanakaṃ hema nijarasaparibhāvitaṃ yat suradālīcūrṇaṃ tasya vāpamātreṇa galite hemni kṣepamātreṇa drutamevāste galitam evāvatiṣṭhatītyarthaḥ punaḥ kanakaṃ kāṭhinyaṃ sthiratvaṃ na labhate iti cirakālaprayojanam ।।

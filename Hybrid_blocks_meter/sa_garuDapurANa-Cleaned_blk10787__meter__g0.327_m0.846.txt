@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10787 | label: meter | g:0.327 m:0.846 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+iti stutaḥ sa bhagavān svapūtreṇa dayānidhiḥ ।
+medhagaṃbhīrayā vācā provāca madhusūdanaḥ ।।

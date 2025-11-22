@@ -1,0 +1,9 @@
+--- source: brssbh4u-Cleaned.txt | block: 196 | label: grammar | g:0.72 m:0.295 ---
+
+atra ucyate - bhavet etadevaṃ yadi atyantabhinnā eva etāḥ sṛtayaḥ syuḥ ।
+eka eva tu eṣā sṛtiḥanekaviśeṣaṇā brahmalokaprapadanī kvacit kenacit viśeṣaṇena upalakṣita iti vadāmaḥ ।
+sarvatra ekadeśapratyabhijñānāt itaretara viśeṣaṇaviśeṣyabhāva upapatteḥ ।
+prakaraṇabhede api hi vidyā ekatve bhavati itaretara viśeṣaṇa upasaṃhāravat gativiśeṣaṇānām api upasaṃhāraḥ ।
+vidyābhede api tu gati ekadeśapratyabhijñānāt gantavya abhedāt ca gati abheda eva ।
+tathā hi ate teṣu brahmalokeṣu parāḥ parāvato vasanti' atasminvasanti śāśvatīḥ samāḥ' asā yā brahmaṇo jitiryā vyuṣṭistāṃ jitiṃ jayati tāṃ vyuṣṭiṃ vyaśnute' atadya evaitaṃ brahmalokaṃ brahmacaryeṇānuvindati' iti ca tatra tatra tat eva ekaṃ phalaṃ brahmalokaprāptilakṣaṇaṃ pradarśyate ।
+yat tu etaiḥ eva iti avadhāraṇam arcirādi āśrayaṇe na syāt iti ।

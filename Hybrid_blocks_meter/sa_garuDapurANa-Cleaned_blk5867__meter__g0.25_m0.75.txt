@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5867 | label: meter | g:0.25 m:0.75 ---
+
+caturaśrāṃ suvistāraṃ pītavarṇāntu cintayet ।
+pṛthivīṃ cendradevatyāṃ madhye varuṇamaṇḍalam ।।

@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 176 | label: grammar | g:0.562 m:0.5 ---
+
+śabdaḥ saṃskārahīno yo gaur iti prayuyukṣyate tam apabhraṃśam icchanti viśiṣṭārthaniveśinam ।।

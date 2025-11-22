@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 45 | label: hybrid | g:0.447 m:0.346 ---
+
+kathaṃ ca kāryaṃ eva prāmāṇyam ।
+tatraiva vyutpatteḥ- pravṛttyadhīnā hi vyutpattiḥ, sā ca kāryāvagamādhīneti vyutpattirapi tatraiva bhavatīti cet ।
+avaśyaṃ pravṛttyadhīnaiva vyutpattiḥ- kāṣṭhaiḥ sthālyāmodanaṃ pacatītyādivartamānāpadeśeṣvapi prasiddhatṛtīyārthanāmaprasiddhakāṣṭhaprātipadikārthānāṃ ca puruṣāṇāṃ kāṣṭhārthe vyutpattidraśanāt ।

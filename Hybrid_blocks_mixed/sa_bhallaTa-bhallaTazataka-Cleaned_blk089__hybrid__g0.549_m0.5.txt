@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 89 | label: hybrid | g:0.549 m:0.5 ---
+
+candreṇaiva taraṅgabhaṅgimukharaṃ saṃvardhyamānāmbhaso dadyur jīvitam eva kiṃ girisaritsrotāṃsi yady ambudheḥ 
+teṣv eva pratisaṃvidhānavikalaṃ paśyatsu sākṣiṣv iva drāg darpoddhuram āgateṣv api na sa kṣīyeta yady anyathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 9 | label: meter | g:0.306 m:0.5 ---
+
+kecid bhavantam anupādhim anāmarūpam vijñānam eva paramārthatayā prapannāḥ ।
+anye tridhātuparikalpanayā viśuddham ūcuḥ svaśāstrasamayaṃ paripālayantaḥ ।।

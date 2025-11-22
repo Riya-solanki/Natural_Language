@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1606 | label: meter | g:0.075 m:0.828 ---
+
+{ye kandarāsu nivasanti sadā himādres
+tvatpātaśaṅkitadhiyo vivaśā dviṣaste ।
+apyaṅgamutpulakamudvahatāṃ sakampaṃ
+teṣāmaho bata bhiyāṃ na budho apyabhijñaḥ ।।}

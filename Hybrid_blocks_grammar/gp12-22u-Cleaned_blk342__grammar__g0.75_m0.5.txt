@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 342 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam apūrva-kṛṣṇa-darśana-parvaṇy ajāta-pūrve yadā tu kāliya-dandaśūka-sandalanam āsīt tadā vidhvasta-nirodhā rādhādayo' pi vrajavāsi-sādhāraṇatayā tatra gacchanti sma । [] etad artham eva kāliya-damanārthe tāvān vilambārambha-sambhāras tena lambhitaḥ ।

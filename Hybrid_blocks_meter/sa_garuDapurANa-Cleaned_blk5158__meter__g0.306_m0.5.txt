@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5158 | label: meter | g:0.306 m:0.5 ---
+
+hanti śvitramasādhyaṃ ca lepe yojyāparājitā ।
+vāsā śuddhā ca triphalā paṭolaṃ ca karañjakam ।।

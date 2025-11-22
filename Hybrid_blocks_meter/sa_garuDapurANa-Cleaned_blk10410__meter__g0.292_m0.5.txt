@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10410 | label: meter | g:0.292 m:0.5 ---
+
+iti śrīgāruḍe mahāpurāṇe tṛtīyāṃśe brahmakāṇḍe tattvābhimāni devatotpattitattāratamyanirūpaṇaṃ nāma pañcamo adhyāyaḥ

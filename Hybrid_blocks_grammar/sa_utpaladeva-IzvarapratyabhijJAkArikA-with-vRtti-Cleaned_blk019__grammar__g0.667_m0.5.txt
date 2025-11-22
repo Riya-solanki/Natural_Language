@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 19 | label: grammar | g:0.667 m:0.5 ---
+
+smṛtikāle pūrvānubhavanāśāt kathaṃ pūrvārthānubhavāvaṣṭambhadharmā smṛtir jāyeta yadi tadāpi tadanubhavabodho nānuvarteta, yaś cānekakālasthāyī bodhaḥ sa evātmānubhāvitā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3733 | label: meter | g:0.194 m:0.5 ---
+
+śakās tuṣārā daradāḥ pāradās taṅgaṇāḥ khaśāḥ 
+pahlavāḥ śataśaś cānye mlecchā haimavatās tathā ।।

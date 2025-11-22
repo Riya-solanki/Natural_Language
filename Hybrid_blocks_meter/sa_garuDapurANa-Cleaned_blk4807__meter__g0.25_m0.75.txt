@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4807 | label: meter | g:0.25 m:0.75 ---
+
+keśādā romavidhvaṃsā romadvīpā udumbarāḥ ।
+ṣaṭte kuṣṭhaikakarmāṇaḥ sahasaurasamātaraḥ ।।

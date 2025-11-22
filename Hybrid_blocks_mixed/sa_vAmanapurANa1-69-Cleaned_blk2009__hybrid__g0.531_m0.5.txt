@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2009 | label: hybrid | g:0.531 m:0.5 ---
+
+tat kārtikeyaḥ priyameva tathyaṃ śrutvā vacaḥ prāha surān vihasya ।
+kathaṃ hi mātāmahanaptṛkaṃ vadhe svabhrātaraṃ bhrātṛsutaṃ ca mātuḥ ।।

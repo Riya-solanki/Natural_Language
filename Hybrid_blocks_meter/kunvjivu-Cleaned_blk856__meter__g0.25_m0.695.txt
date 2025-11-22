@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 856 | label: meter | g:0.25 m:0.695 ---
+
+ucyate atiśayoktiḥ sā sarvālaṅkārajīvitam ।
+yasyāmatiśayaḥ ko api vicchittyā pratipādyate ।
+varṇanīyasya dharmāṇāṃ tadvidāhlādadāyinām ।।

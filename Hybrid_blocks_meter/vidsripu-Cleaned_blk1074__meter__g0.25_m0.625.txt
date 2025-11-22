@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1074 | label: meter | g:0.25 m:0.625 ---
+
+janānurāgamiśreṇa yaśasā tava sarpatā ।
+digvadhūnāṃ mukhe jātam akasmād ardhakuṅkumam ।।

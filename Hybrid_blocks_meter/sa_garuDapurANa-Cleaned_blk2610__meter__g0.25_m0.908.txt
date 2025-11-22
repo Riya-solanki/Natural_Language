@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2610 | label: meter | g:0.25 m:0.908 ---
+
+mākraṇḍeya uvāca ।
+evaṃ stutāstatastena tajaso munisattamāḥ ।
+niścakramuste pitaro bhāsayanto diśādaśa ।।

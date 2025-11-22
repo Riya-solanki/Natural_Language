@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7801 | label: hybrid | g:0.5 m:0.5 ---
+
+tasmāt kṛṣṇa vṛṣotsargaḥ kartavya iti me śrutam ।
+kiṃ phalaṃ vṛṣayajñasya purā kena kṛto hare ।।

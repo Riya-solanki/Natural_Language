@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3176 | label: meter | g:0.295 m:0.565 ---
+
+saṃbhakṣya sarvabhūtāni devādīny aviśeṣataḥ 
+nṛtyaty ante ca yad rūpaṃ tasmai rudrātmane namaḥ ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4362 | label: meter | g:0.25 m:0.695 ---
+
+tasyā viṣṇupadītyevaṃ nāmākhyātamabhūnmune ।
+tathā suranadītyevaṃ tāmasevanta tāpasāḥ ।
+bhagavānapyasaṃpūrṇe tṛtīye tu krame vibhuḥ ।।

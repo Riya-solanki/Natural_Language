@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 33 | label: meter | g:0.194 m:0.75 ---
+
+evaṃ śrutvā maheśāno vākyam ānandasambhavam 
+tataḥ sampāditaṃ śīghram ājñānandaguṇojjvalam ।।

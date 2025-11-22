@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1339 | label: meter | g:0.25 m:0.75 ---
+
+ākāṅkṣitābhigamayoḥ svāgataṃ bhavatoriha ।
+atīva prīṇitaścāsmi yuṣmatsaṃdarśanotsavāt ।।

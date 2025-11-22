@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1131 | label: meter | g:0.25 m:0.625 ---
+
+hālāhalaṃ viṣaṃ ghoraṃ daityasūdair mahātmanaḥ 
+kasmād dattaṃ vināśāya yaj jīrṇaṃ tena dhīmatā ।।

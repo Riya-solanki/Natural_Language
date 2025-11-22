@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 57 | label: hybrid | g:0.521 m:0.5 ---
+
+tarkāpratiṣṭhānād apy anyathānumeyam iti ced evam apy anirmokṣaprasaṅgaḥ ।

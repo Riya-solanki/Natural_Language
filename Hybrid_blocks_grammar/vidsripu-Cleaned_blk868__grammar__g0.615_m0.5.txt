@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 868 | label: grammar | g:0.615 m:0.5 ---
+
+bibhrāṇārdranakhakṣatāni jaghane nānyatra gātre bhayān netre cumbanapāṭale ca dadhatī nidrālase nivraṇe ।
+svaṃ saṃketam adūram eva kamitur bhrūsaṃjñayā śaṃsatī siddhiṃ yāti viṭaikakalpalatikā raṇḍā na puṇyair vinā ।।

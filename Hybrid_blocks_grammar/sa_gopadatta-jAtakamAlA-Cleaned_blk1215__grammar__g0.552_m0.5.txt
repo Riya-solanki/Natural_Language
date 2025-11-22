@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1215 | label: grammar | g:0.552 m:0.5 ---
+
+cittaṃ balād api hite viniyojanīyam āryair anāryam ahitāc ca vivecanīyam ।
+tasmāt pravṛttim iha karmaṇi sādhujuṣṭe nārhanti vighnayitum aśrumukhā bhavantaḥ ।।

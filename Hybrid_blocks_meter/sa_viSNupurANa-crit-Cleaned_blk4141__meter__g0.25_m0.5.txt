@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4141 | label: meter | g:0.25 m:0.5 ---
+
+tad ye tapasvinaḥ kecit pṛthivyāṃ ye ca yajvinaḥ 
+kāryo devāpakārāya teṣāṃ sarvātmanā vadhaḥ ।।

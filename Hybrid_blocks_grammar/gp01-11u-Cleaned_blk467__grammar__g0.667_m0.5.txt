@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 467 | label: grammar | g:0.667 m:0.5 ---
+
+[] atha pūrvedyur madhukaṇṭhaḥ kṛtī yathācīkṛtat, evam aparedyuś ca vraja-deva-sabhāyāṃ bhāsamānāyāṃ sāvasara-nidigdhaḥ snigdhakaṇṭhas tat-kīrtim acīkīrtat ।

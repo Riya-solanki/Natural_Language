@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 275 | label: meter | g:0.056 m:0.75 ---
+
+{dhanyāsi yā kathayasi priyasaṃgame api
+viśrabdhacāṭukaśatāni ratāntareṣu ।
+nīvīṃ prati praṇihite tu kare priyeṇa
+sakhyaḥ śapāmi yadi kiñcidapi smarāmi ।।}

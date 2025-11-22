@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4218 | label: grammar | g:0.552 m:0.5 ---
+
+kṣubdhāḥ kimarthaṃ makarālayāśca bho ṛkṣā na khe kiṃ pracaranti pūrvavat ।
+diśaḥ kimarthaṃ tamasā pariplutā doṣeṇa kasyādya vadasva me guro ।।

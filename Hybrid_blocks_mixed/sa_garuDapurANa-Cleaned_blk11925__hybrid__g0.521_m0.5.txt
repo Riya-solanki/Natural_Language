@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11925 | label: hybrid | g:0.521 m:0.5 ---
+
+ityāśayaṃ manasā sannidhāya tathā coktaṃ bhaktavaryo madīyaḥ ।
+ato bhaktaḥ pravahetyeva saṃjñāmavāpa vīndra prakṛtaṃ taṃ śṛṇu tvam ।।

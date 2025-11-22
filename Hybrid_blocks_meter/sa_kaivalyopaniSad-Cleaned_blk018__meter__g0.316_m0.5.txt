@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 18 | label: meter | g:0.316 m:0.5 ---
+
+yat paraṃ brahma sarvātmā viśvasyāyatanaṃ mahat ।
+sūkṣmāt sūkṣmataraṃ nityaṃ tat tvam eva tvam eva tat ।।

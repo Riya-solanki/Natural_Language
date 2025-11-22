@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1965 | label: meter | g:0.306 m:0.625 ---
+
+na bhetavyaṃ tvayā tasmāt satyaṃ goptāsmi dānava ।
+mahiṣastārakaścobhau bāṇaśca balināṃ varaḥ ।।

@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 826 | label: grammar | g:0.564 m:0.436 ---
+
+anena sarvagatatvamāyāmaśabdādibhyaḥ ।
+brahmādvaitasiddhāvapi na sarvagatatvaṃ sarvavyāpitā sarvasya brahmaṇā svarūpeṇa rūpavattvaṃ sidhyatītyata āha- anena setvādinirākaraṇenaparahetunirākaraṇenānyapratiṣedhasamāśrayaṇena ca svasādhanopanyāsena ca sarvagatatvamapyātmanaḥ siddhaṃ bhavati ।
+advaita siddhe sarvo ayamanirvacanīyaḥ prapañcāvabhāso brahmādhiṣṭhāna iti sarvasya brahmasaṃbandhādbrahma sarvagatamiti siddham ।।

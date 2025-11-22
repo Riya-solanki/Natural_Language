@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10418 | label: hybrid | g:0.51 m:0.5 ---
+
+na dehi tvaṃ sarvadā me murāre ahaṃmamatvaṃ prāpyametāvadeva ।
+gamyajñānaṃ yogyaguṇe rameśa pramādo vā nāstināstyadya nitya ।।

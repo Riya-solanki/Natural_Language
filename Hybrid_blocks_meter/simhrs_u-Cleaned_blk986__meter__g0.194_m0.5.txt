@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 986 | label: meter | g:0.194 m:0.5 ---
+
+[pratyakṣa-mantu-kāraka yadi cumbasi mamaimau hata-kapolau ।
+tato mama priya-sakhyā viśeṣakaḥ kasmād vijñātaḥ ।।]

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1826 | label: meter | g:0.25 m:0.5 ---
+
+atra viparīta-lakṣaṇayā prahelikārtham ajānataḥ pāripārśvikasyopālambhanāt chalam ।

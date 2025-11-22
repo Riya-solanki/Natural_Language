@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 540 | label: grammar | g:0.667 m:0.5 ---
+
+sā nairāśyopahatasaṃtānā āha । hā hā hatāham adhanyety evaṃ paraṃ vaikalyam ājagāma । āha ca ।

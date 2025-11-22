@@ -1,0 +1,27 @@
+--- source: simhrs_u-Cleaned.txt | block: 1979 | label: meter | g:0.25 m:0.517 ---
+
+atha nirdeśa-paribhāṣā-
+sākṣād anāma-grāhyāṇāṃ janānāṃ pratisaṃjñayā । 
+āhvāna-bhaṅgī nāṭyajñair nirdeśa iti gīyate ।।
+sa tridhā pūjya-sadṛśa-kaniṣṭha-viṣayatvataḥ । 
+pūjyās tu devo munayo liṅginas tat-samāstriyaḥ ।।
+bahuśrutāś ca bhagavac-chabda-vācyā bhavanti hi । 
+āryeti brāhmaṇo vācyo vṛddhas tāteti bhāṣyate ।।
+upādhyāyeti cācāryo gaṇikā tv ajjukākhyayā । 
+mahārājeti bhūpālo vidvān bhāva itīryate ।।
+chandato nāmabhir vācyā brāhmaṇais tu narādhipāḥ । 
+deveti nṛpatir vācyo bhṛtyaiḥ prakṛtibhis tathā ।।
+sārvabhaumaḥ parijanair bhaṭṭa-bhaṭṭāraketi ca । 
+vācyo rājeti munibhir apatya-pratyayena vā ।।
+vidūṣakeṇa tu prāyaḥ sakhe rājan nitīcchayā । 
+brāhmaṇaiḥ sacivo vācyo hy amātya saciveti ca ।।
+śaiṣāir āryety athāyuṣman iti sārathinā rathī । 
+tapasvi-sādhu-śabdābhyāṃ praśāntaḥ paribhāṣyate ।।
+svāmīti yuva-rājas tu kumāro bhartṛ-dārakaḥ । 
+āvutteti svasur bhartā syāleti pṛtanā-patiḥ ।।
+bhaṭṭinī svāminī devī tathā bhaṭṭāriketi ca । 
+paricārajanair vācyā yoṣito rāja-vallabhāḥ ।।
+rājñā tu mahiṣī vācyā devīty anyāḥ priyā iti । 
+sarveṇa patnī tv āryeti pitur nāmnā sutasya vā ।।
+tāta-pādā iti pitā mātāmbeti sutena tu । 
+jyeṣṭhās tv āryā iti bhrātrā tathā syur mātulādayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3348 | label: meter | g:0.306 m:0.5 ---
+
+kaśyapo apyāha deveśaṃ bhrūṇahatyā kṛtā tvayā ।
+dityudarāt tvayā garbhaḥ kṛtto vai bahudhā balāt ।।

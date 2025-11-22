@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3339 | label: meter | g:0.25 m:0.5 ---
+
+śrutiḥ smṛtirdhṛtiḥ kīrtirmūrtiḥ śānti kriyānvitāḥ ।
+puṣṭistuṣṭī rucistvanyā tathā sattvāśritā guṇāḥ ।
+tāḥ sarvā balimāśritya vyaśrāmyanta yathāsukham ।।

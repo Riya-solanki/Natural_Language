@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 992 | label: meter | g:0.306 m:0.625 ---
+
+daśamyāṃ bhujagendrāśca svapante vāyubhojanāḥ ।
+ekādaśyāṃ tu kṛṣṇāyāṃ sādhyā brahman svapanti ca ।।

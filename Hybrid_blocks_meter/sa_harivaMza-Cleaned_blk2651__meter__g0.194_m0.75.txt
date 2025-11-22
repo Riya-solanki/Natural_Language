@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2651 | label: meter | g:0.194 m:0.75 ---
+
+asṛjat savitā vyomni nirmuktajalade bhṛśam 
+śaratprajvalitaṃ tejas tīkṣṇaraśmir viśoṣayan ।।

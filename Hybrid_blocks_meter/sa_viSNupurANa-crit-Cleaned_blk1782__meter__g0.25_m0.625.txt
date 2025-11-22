@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1782 | label: meter | g:0.25 m:0.625 ---
+
+bhojanaṃ puṣkaradvīpe tatra svayam upasthitam 
+ṣaḍrasaṃ bhuñjate vipra prajāḥ sarvāḥ sadaiva hi ।।

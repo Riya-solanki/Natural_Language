@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5940 | label: meter | g:0.25 m:0.5 ---
+
+siṃha sthāne vṛṣaṃ dṛṣṭvā gṛhakṣetrārthalābhakam ।
+siṃhasthāne gajaṃ dṛṣṭvā grāmasvāmitvameva ca ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 147 | label: meter | g:0.25 m:0.5 ---
+
+nātra stheyaṃ tvayā sarpa samudraṃ yāhi mā ciram ।
+tvaṃ jñāty-apatya-dārāḍhyo go-nṛbhir bhujyate nadī ।।[]
+dvīpaṃ ramaṇakaṃ hitvā hradam etam upāśritaḥ ।
+yad-bhayāt sa suparṇas tvāṃ nādyān mat-pāda-lāñchitam ।।[ ।]

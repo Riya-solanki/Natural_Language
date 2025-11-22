@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2906 | label: meter | g:0.25 m:0.583 ---
+
+kartavyānāṃ ca kartāro lokasya vibudhopamāḥ 
+parvatā iva niṣkampā vṛtte mahati tasthuṣaḥ ।। 
+tasthivāṃso mahāvṛtte niṣkampā iva parvatāḥ । 
+adambhavṛttayaḥ sarve gurukarmasu codyatāḥ 
+rājamantradharāḥ sarve sarve dhanuṣi pāragāḥ ।।

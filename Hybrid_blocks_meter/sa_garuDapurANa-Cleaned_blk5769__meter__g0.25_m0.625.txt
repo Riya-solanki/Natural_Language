@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5769 | label: meter | g:0.25 m:0.625 ---
+
+paṭolapatraṃ kaṭukā mañjiṣṭhā śārivā niśā ।
+jātīśamīnimbapatraṃ madhukaṃ kvathitaṃ ghṛtam ।।

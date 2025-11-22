@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 227 | label: meter | g:0.264 m:0.798 ---
+
+anyatrāpi amanomayaḥ prāṇaśarīraḥ' ityādāvupādhidharmeṇa brahmaṇa upāsanamāśritam ।
+ihāpi tadyujyate vākyasyopakramopasaṃhārābhyāmekārthatvāvagamātprāṇaprajñābrahmaliṅgāvagamācca ।
+tasmādbrahmavākyametaditi siddham ।।

@@ -1,0 +1,7 @@
+--- source: gp12-22u-Cleaned.txt | block: 1037 | label: meter | g:0.028 m:0.725 ---
+
+tataś ca,
+kṣaṇam adhi jala-madhyaṃ tasthur ānamra-netrāḥ
+punar udayati śīte' drākṣur etāḥ kadambam ।
+api harir adhiśākhaṃ gupta-mūrtiḥ purāsīt
+punar avṛtim ayāsīc cātma-lakṣāya tābhiḥ ।। [mālinī]

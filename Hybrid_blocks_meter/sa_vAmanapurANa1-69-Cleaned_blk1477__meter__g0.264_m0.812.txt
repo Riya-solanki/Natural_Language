@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1477 | label: meter | g:0.264 m:0.812 ---
+
+aṅgirā uvāca ।
+śrūyatāṃ parvataśreṣṭha yena kāryeṇa vai vayam ।
+samāgatāstvatsadanamarundhatyā samaṃ gire ।।

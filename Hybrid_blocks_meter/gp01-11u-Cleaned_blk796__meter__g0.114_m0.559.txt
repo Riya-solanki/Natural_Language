@@ -1,0 +1,12 @@
+--- source: gp01-11u-Cleaned.txt | block: 796 | label: meter | g:0.114 m:0.559 ---
+
+[] tad evam aṅganād aṅganād vrajāṅganābhir aham-pūrvikayānugamyamānau, vihitākasmika-parva-sukha-dohana-sarva-mohanatayādhigamyamānau,
+saṃvāda-vivāda-parīvāda-bandhura-bandhūnām abhyarṇatayā nirvarṇyamānau,
+tādṛśākarṇana-nivarṇanam anu parasparaṃ varṇyamānau,
+tāsu ca kābhiścid amṛtam anṛtaṃ kurvatā praticarvaṇaṃ sarasena rasa-visareṇa bhojyamānau,
+tadvad ekābhir nija-gṛhājīvya-divya-maṇi-hāram upahāram upahāraṃ hāritayopayojyamānau tadvad varṇyamānau,
+tāsu ca kābhir api premānugamya-ramya-vacana-pracaya-racanayā kañcana kālaṃ varivasyamānau,
+kiṃ cānyābhiḥ samuttambhita-karṇa-tarṇaka-kṛta-kṛṣṭi-dṛṣṭitaḥ śasyamānavat parihasyamānau,
+tadvad anyatarābhis tan-madhura-cakura-cikura-cañcuratā-pracura-cañcalatāṃ nicāyya cāturyataś caritam idaṃ bhavan-mātṛ-caraṇeṣu gocarayāmaḥ, iti sūcanayā tasmād varjyamānau,
+tābhir eva mātara-pitarāv ārabhya gaṇanālabhya-kulāli-gāli-pālim upalabhya kalita-vyalīkam iva sa-kolāhala-praṇaya-kalita-kalitayā tarjyamānau
+bala-gopāla-nāmānau valgu-bālyavayasā samānau khelāṃ kalayāmāsatuḥ ।

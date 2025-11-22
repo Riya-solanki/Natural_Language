@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1575 | label: meter | g:0.306 m:0.5 ---
+
+uddhṛtya durgādatha taṃ narendraṃ prītaḥ samānīya turaṃgameṇa ।
+nivedya cāsmai svapurāya mārgaṃ vanaprayāṇābhimukho babhūva ।।

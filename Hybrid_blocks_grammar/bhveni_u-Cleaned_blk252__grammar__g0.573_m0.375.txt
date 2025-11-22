@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 252 | label: grammar | g:0.573 m:0.375 ---
+
+rājā
+kiṃ nu khalvasyāḥ saṃtāpakāraṇam । atha vānāmantrya māmiyamadya vāsabhavanānniṣkrānteti samarthita evāsyā mayā kopaḥ । ayi bhānumati aviṣayaḥ khalu duryodhano bhavatyāḥ kopasya ।

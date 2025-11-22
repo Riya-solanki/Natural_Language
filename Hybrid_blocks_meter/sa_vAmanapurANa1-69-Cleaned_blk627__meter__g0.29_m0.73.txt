@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 627 | label: meter | g:0.29 m:0.73 ---
+
+ṛṣa ūcuḥ ।
+śrūyatāṃ kathayiṣyāmastava rākṣasapuṅgava ।
+yaddhi śreyo bhaved vīra iha cāmutra cāvyayam ।।

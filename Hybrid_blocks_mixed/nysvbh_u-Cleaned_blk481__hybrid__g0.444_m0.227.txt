@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 481 | label: hybrid | g:0.444 m:0.227 ---
+
+yudapalabhyate tadasti yannopalabhyate tannāstīti anupalambhātmakam asaditi vyavasthitam, upalabdhyabhāvaścānupalabdhiriti seyamabhāvatvānnopalabhyate sacaca khalvāvaraṇaṃ tasyopalabdhyā bhavitavyaṃ na nopalabhyate tasmānnāstīti।
+tatra yaduktam "nāvaraṇānupapattiranupalambhāt" ity ayuktamiti ।।

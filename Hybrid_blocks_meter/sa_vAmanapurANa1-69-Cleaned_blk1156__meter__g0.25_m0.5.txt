@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1156 | label: meter | g:0.25 m:0.5 ---
+
+jitāstayā toyadharālakairhi jitaḥ śaśaṅko vadanena tanvyā ।
+netraistribhistrīṇi hutāśanāni jitāni kaṇṭhena jitastu śaṅkhaḥ ।।

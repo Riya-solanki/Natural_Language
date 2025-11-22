@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 60 | label: grammar | g:0.635 m:0.5 ---
+
+caṇḍaṃ daṇḍam akāṇḍa eva kalayan rājā prajānāṃ yamaḥ kurvan durvyayam arthadūṣaṇaruciḥ svasyaiva sa drohakṛt ।
+saumyaḥ saumyakaro ativiśvanayanānando abhinandyaḥ satāṃ saśrīkaḥ kamalākaraś ca suṣamāṃ kāṃ kām aho nārhati ।।

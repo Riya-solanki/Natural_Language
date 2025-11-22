@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 936 | label: grammar | g:0.562 m:0.5 ---
+
+drākparyastagabhastir astamayate māṇikyaśoṇo raviḥ sāṃdhyaṃ dhāma nabhoṅgaṇaṃ kulayati dvitrisphurattārakam ।
+śocyante vayasāṃ gaṇair ita itaḥ paryantacaityadrumāḥ kiṃ cābhyarṇaparākrameṇa tamasā prorṇūyate rodasī ।।

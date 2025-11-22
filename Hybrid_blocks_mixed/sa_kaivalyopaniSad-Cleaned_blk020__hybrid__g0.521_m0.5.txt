@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 20 | label: hybrid | g:0.521 m:0.5 ---
+
+triṣu dhāmasu yad bhogyaṃ bhoktā bhogaś ca yad bhavet ।
+tebhyo vilakṣaṇaḥ sākṣī cinmātro ahaṃ sadā śivaḥ ।।

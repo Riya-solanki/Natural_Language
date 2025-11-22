@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7873 | label: meter | g:0.25 m:0.75 ---
+
+sarasvatīdṛṣadvatyau narmadā śarmadā nṛṇām ।
+nīlakaṇṭhaṃ mahākālaṃ puṇyaṃ cāmarakaṇṭakam ।।

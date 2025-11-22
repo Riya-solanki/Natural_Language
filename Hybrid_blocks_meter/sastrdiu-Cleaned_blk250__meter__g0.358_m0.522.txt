@@ -1,0 +1,7 @@
+--- source: sastrdiu-Cleaned.txt | block: 250 | label: meter | g:0.358 m:0.522 ---
+
+kathaṃ ca gṛhītagrāhitvamanumāsya, atyantāparidṛṣṭe deśe kāle cāgniranumīyate sa kena pramāṇena prāgavagataḥ ।
+na pratyakṣeṇa ।
+tasya vidyamānopalambhanatvāt ।
+nacānyena kenacit ।
+kiñcāgnidhūmayormithaḥ saṃbandho deśakālānavacchinnaḥ pratyakṣeṇāvagata ityetāvadeva bhavānbravīti, nacaitāvatā deśāntarakālāntarasaṃbandho agneravagato bhavati, tasmādagṛhītagrāhyevānumānam ।।

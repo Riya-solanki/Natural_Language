@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 115 | label: meter | g:0.25 m:0.5 ---
+
+pṛthivīviṣayaṃ sarvam arundhatyāṃ vyajāyata 
+saṃkalpāyās tu sarvātmā jajñe saṃkalpa eva ca ।। 
+nāgavīthyāś ca jāminyā vṛṣalambā vyajāyata । 
+yā rājan somapatnyas tu dakṣaḥ prācetaso dadau 
+sarvā nakṣatranāmnyas tu jyotiṣe parikīrtitāḥ ।।

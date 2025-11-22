@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 207 | label: meter | g:0.194 m:1.0 ---
+
+vidyā vyaktāṇucicchaktir nunnākṣeśākṣagocarān 
+svīkṛtya puṃsprayuktasya karaṇasyaiti karmatām ।।

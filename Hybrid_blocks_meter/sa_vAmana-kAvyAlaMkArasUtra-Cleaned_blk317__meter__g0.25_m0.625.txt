@@ -1,0 +1,6 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 317 | label: meter | g:0.25 m:0.625 ---
+
+śuddhāntadurlabhamidaṃ vapurāśramavāsino yadi janasya ।
+dūrīkṛtāḥ khalu guṇairudyānalatā vanalatābhiḥ ।।
+evamanyadapi prayogajātaṃ draṣṭavyam ।।tena vacanabhedo vyākhyātaḥ ।।
+tena liṅgabhedena vacanabhedo vyākhyātaḥ । yathā

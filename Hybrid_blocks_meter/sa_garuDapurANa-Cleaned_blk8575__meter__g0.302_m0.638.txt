@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8575 | label: meter | g:0.302 m:0.638 ---
+
+śrībhagavānuvāca ।
+gṛhṇāti varuṇo dānaṃ mama haste prayacchati ।
+ahaṃ ca bhāskare deve bhāskarātso aśnute sukham ।।

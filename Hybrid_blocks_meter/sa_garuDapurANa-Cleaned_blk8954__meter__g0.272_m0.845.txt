@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8954 | label: meter | g:0.272 m:0.845 ---
+
+śārdūlaśatasaṃjuṣṭaṃ nānāpakṣinināditam ।
+vanamadhye tadā rājā mṛgaṃ dūrādapaśyata ।।

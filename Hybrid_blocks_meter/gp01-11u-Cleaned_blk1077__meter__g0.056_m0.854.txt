@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1077 | label: meter | g:0.056 m:0.854 ---
+
+tasmāt kṛṣṭās tena taṃ veṣṭayantaḥ
+śaśvat tasya spṛṣṭito naṣṭa-duḥkhāḥ ।
+dṛṣṭvā dviṣṭa-prāṇam atyanta-bhīṣmaṃ
+vyomaṃ hṛṣṭā mitra-goṣṭhīm upeyuḥ ।। [śālinī]

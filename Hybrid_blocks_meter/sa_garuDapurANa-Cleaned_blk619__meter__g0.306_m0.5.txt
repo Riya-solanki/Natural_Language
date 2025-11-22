@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 619 | label: meter | g:0.306 m:0.5 ---
+
+gṛhe vivikhitā yatra tannāgāḥ saṃtyajanti ca ।
+sahasramantraṃ japtvā tu karṇe sūtraṃ dhṛtaṃ tathā ।।

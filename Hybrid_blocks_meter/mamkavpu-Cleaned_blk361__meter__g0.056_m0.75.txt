@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 361 | label: meter | g:0.056 m:0.75 ---
+
+{preyān so ayamapākṛtaḥ saśapathaṃ pādānataḥ kāntayā
+dvitrāṇyeva padāni vāsabhavanādyāvanna yātyunmanāḥ ।
+tāvatpratyuta pāṇisaṃpuṭagalannīvīnibandhaṃ dhṛto
+dhāvitveva kṛtapraṇāmakamaho premṇo vicitrā gatiḥ ।।}

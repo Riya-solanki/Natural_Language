@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10160 | label: meter | g:0.25 m:0.5 ---
+
+pratipādyā mukhyatayā namyā eva samīritāḥ ।
+avāntarāśca vāyvādyā na namyāstena te smṛtāḥ ।।

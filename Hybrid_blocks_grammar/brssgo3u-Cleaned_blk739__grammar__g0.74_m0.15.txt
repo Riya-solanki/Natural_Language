@@ -1,0 +1,11 @@
+--- source: brssgo3u-Cleaned.txt | block: 739 | label: grammar | g:0.74 m:0.15 ---
+
+adhikastāvaccharīrādātmano asaṃsārīśvaraḥ kartṛtvādisaṃsāridharmarahito apahatapāpmatvādiviśeṣaṇaḥ paramātmā vedyatvenopadiśyate vedānteṣu ।
+naca tadvijñānaṃ karmaṇāṃ pravartakaṃ bhavati pratyuta karmāṇyucchinattīti vakṣyati aupamardaṃ ca' ityatra ।
+tasmāt apuruṣārtho ataḥ śabdāt' iti yanmataṃ bhagavato bādarāyaṇasya tattathaiva tiṣṭhati na śeṣatvaprabhṛtibhirhetvābhāsaiścālayituṃ śakyate ।
+tathāhi tamadhikaṃ śārīrādīśvaramātmānaṃ darśayanti śrutayaḥ - ayaḥ sarvajñaḥ sarvavit' abhīṣāsmādvātaḥ pavate' amahadbhayaṃ vajramudyatam' aetasya vā akṣarasya praśāsane gārgi' atadaikṣata bahu syāṃ prajāyeyeti tattejo asṛjata' ityevamādyāḥ ।
+yattu priyādisaṃsūcitasya saṃsāriṇa evātmano vedyatayānukarṣaṇam aātmanastu kāmāya sarvaṃ priyaṃ bhavati ।
+ātmā vā are draṣṭavyaḥ' ayaḥ prāṇena prāṇiti sa ta ātmā sarvāntaraḥ' aya eṣo akṣīṇi puruṣo dṛśyate' ityupakramya aetaṃ tveva te bhūyo anuvyākhyasyāmi' iti caivamādi tadapi aasya mahato bhūtasya niḥśvasitametadyadṛgvedaḥ' ayo aśanāyāpipāse śokaṃ mohaṃ jarāṃ mṛtyumatyeti' aparaṃ jyotirupasaṃpadya svenarūpeṇābhiniṣpadyate sa uttamaḥ puruṣaḥ' ityevamādibhirvākyaśeṣaiḥ satyāmevādhikopadidikṣāyāmatyantābhedābhiprāyamityavirodhaḥ ।
+pārameśvarameva hi śārīrasya pāramārthikaṃ svarūpam ।
+upādhikṛtaṃ tu śārīratvam atatvamasi' anānyodato asti draṣṭṛ' ityādiśrutibhyaḥ ।
+sarvaṃ cātadvistareṇāsmābhiḥ purastāttatra tatra varṇitam ।।

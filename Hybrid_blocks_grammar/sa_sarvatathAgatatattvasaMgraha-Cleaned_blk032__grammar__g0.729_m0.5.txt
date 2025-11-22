@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 32 | label: grammar | g:0.729 m:0.5 ---
+
+atha khalu akṣobhyastathāgato ratnasaṃbhavaśca tathāgato lokeśvararājaśca tathāgato amoghasiddhiśca tathāgataḥ sarvatathāgatatvaṃ svayamātmanyadhiṣṭhāya, bhagavataḥ śākyamunestathāgatasya sarvasamatāsuprativedhatvāt sarvadiksamatāmabhyālambya, catasṛṣu dikṣu niṣaṇṇāḥ ।।

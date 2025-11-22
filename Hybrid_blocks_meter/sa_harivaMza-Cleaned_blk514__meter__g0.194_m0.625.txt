@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 514 | label: meter | g:0.194 m:0.625 ---
+
+ambarīṣas tu nābhāgiḥ sindhudvīpapitābhavat 
+ayutājit tu dāyādaḥ sindhudvīpasya vīryavān ।।

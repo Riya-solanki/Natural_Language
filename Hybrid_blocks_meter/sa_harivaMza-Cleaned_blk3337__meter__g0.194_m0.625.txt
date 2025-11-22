@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3337 | label: meter | g:0.194 m:0.625 ---
+
+pratiṣiddheṣu tūryeṣu mṛdaṅgādiṣu teṣu vai 
+khe saṃgatāny avādyanta devatūryāṇy anekaśaḥ ।।

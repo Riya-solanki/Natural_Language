@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1035 | label: meter | g:0.25 m:0.5 ---
+
+karaṃdhamas tu triśānor maruttas tasya cātmajaḥ 
+anyas tv āvikṣito rājā maruttaḥ kathitas tava ।।

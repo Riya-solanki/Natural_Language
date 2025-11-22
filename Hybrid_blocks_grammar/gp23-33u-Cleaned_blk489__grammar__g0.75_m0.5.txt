@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 489 | label: grammar | g:0.75 m:0.5 ---
+
+ārohāya vidhāya saṃstaramilatparyakstavaṃ tadvacaḥ- sāhāyyaṃ viracayya naḥ sakhi nadīmadhyaṃ yadā jagmivān । vṛṇvan durvitaraṃ tadātarapaṇaṃ viṣkabhya naukāṃ na kāṃ cakre vakrakalākalāpakalanāṃ cakrāṅkapāṇiḥ sa tu ।।[] tad evaṃ sākṣāt-kṛta-manoratha-tatiḥ samabhīpsita-gṛha-gatiḥ sakhibhiś carita-jalpaḥ punaḥ snānādi-racitākalpas tatraiva ca kutracana taṭinī-taṭe kadāpi yamunā-nikaṭe payaḥ-pāyanāya saṃkaṭitāṃ go-ghaṭāṃ ghaṭayan kramaśaś ca gaṇanayā gaṇaśaḥ prakaṭayaṃs tan-manana-caritārthatayā jagau ।

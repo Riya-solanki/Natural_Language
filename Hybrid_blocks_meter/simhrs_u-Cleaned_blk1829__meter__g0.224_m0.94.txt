@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1829 | label: meter | g:0.224 m:0.94 ---
+
+kula-śoka-haraṃ kumāram ekaṃ
+kuhanā-bhairava-pāraṇonmukhābhyām ।
+upahūya kṛtādaraṃ pitṛbhyām
+upari prastutam oṃ namaḥ śivāya ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11781 | label: hybrid | g:0.5 m:0.5 ---
+
+yadā rāmo vaiṣṇavāṃśena yuktaḥ saṃpatsyate bhūtale rauhiṇeyaḥ ।
+mayyāveśātsaṃyutā tvaṃ tu bhadre śrīrityākhyā valabhadrasya rantum ।।

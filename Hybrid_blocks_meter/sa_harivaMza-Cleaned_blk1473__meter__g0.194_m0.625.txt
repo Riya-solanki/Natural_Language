@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1473 | label: meter | g:0.194 m:0.625 ---
+
+dīptam ākāśagaṃ divyaṃ rathaṃ pararathārujam 
+atiṣṭhat samarākāṅkṣī meruṃ dīpta ivāṃśumān ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 476 | label: meter | g:0.194 m:0.625 ---
+
+kṛmighnadravyamiśreṇa bhasmanā traiphalena ca 
+sāyacūrṇena vā puṣṭiṃ nayettā bhautikavratī ।।

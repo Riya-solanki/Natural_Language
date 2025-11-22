@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1744 | label: grammar | g:0.646 m:0.5 ---
+
+savrīḍārdhanirīkṣaṇaṃ yad ubhayor yad dūtikāpreṣaṇaṃ vādya śvo bhavitā samāgama iti prītyā pramodaś ca yaḥ ।
+prāpte caiva samāgame sarabhasaṃ yac cumbanāliṅganāny etat kāmaphalaṃ tad eva surataṃ śeṣaḥ paśūnām iva ।।

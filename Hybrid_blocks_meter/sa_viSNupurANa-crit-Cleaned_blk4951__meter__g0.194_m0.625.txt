@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4951 | label: meter | g:0.194 m:0.625 ---
+
+kaṃsapatnyas tataḥ kaṃsaṃ parivārya hataṃ bhuvi 
+vilepur mātaraś cāsya duḥkhaśokapariplutāḥ ।।

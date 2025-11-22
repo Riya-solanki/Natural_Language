@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10495 | label: meter | g:0.416 m:0.626 ---
+
+varuṇa uvāca ।
+tvadvicchayā racite dehagehe puttre kalatrepi dhane dravyajātau ।
+mamāhamityalpadhiyā ca mūḍhā saṃsāraduḥ khe vinimajjanti sarve ।।

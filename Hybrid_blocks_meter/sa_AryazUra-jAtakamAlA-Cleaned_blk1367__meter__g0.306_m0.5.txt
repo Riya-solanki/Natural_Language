@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1367 | label: meter | g:0.306 m:0.5 ---
+
+kālena copetya nṛpaṃ sa haṃsaḥ parānukampavyasanī sahaṃsaḥ ।
+jagāda dharmaṃ kṣitipena tena pratyarcyamāno vinayānatena ।।

@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 998 | label: meter | g:0.25 m:0.521 ---
+
+emea jaṇo tissā dei kavolovamāi sasibiṃbam ।
+paramatthaviāre uṇa cando via varāo ।।
+evameva janastasyā dadāti kapolopamāyāṃ śaśibimbam ।
+paramārthavicāre punaścandraścandra iva varākaḥ ।।

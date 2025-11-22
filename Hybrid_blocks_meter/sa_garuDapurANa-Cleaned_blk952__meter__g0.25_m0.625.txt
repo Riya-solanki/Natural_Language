@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 952 | label: meter | g:0.25 m:0.625 ---
+
+nyāse jape tathā dhyāne agnikārye tathārcane ।
+gāyattrīṃ vinyasennityaṃ sarvapāpagraṇāśinīm ।।

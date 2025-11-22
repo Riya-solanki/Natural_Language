@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5094 | label: meter | g:0.25 m:0.729 ---
+
+aśāstravihitā prajñā evam eva bhaviṣyati 
+aśāstraviduṣāṃ puṃsām evam eva svabhāvataḥ । 
+apramāṇaṃ kariṣyanti nītiṃ paṇḍitamāninaḥ । 
+śāstroktasyāpravaktāro bhaviṣyanti yugakṣaye ।।

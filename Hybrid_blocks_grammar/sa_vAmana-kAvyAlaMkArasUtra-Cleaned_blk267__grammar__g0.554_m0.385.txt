@@ -1,0 +1,7 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 267 | label: grammar | g:0.554 m:0.385 ---
+
+।।
+śeṣaḥ sarūpo'nuprāsaḥ ।।
+padamekārthamanekārtha ca sthānāniyataṃ tadvidhamakṣaraṃ ca śeṣaḥ । sarūpo'nyena prayuktena tulyarūpo'nuprāsaḥ । nanu śeṣo'nuprāsa ityetāvadeva sūtraṃ kasmānna kṛtam । āvṛttiśeṣo'nuprāsa ityeva hi vyākhyāsyate । satyam । siddhyatyevāvṛttiśeṣe, kintvavyāptiprasaṅgaḥ । viśeṣārtha ca sarūpagrahaṇam । kārtsnyenaivāvṛttiḥ । kārtsnyaikadeśābhyāṃ tu sārūpyamiti ।।
+anulbaṇo varṇānuprāsaḥ śreyān ।।
+varṇānāmanuprāsaḥ sa khalvanulvaṇo līnaḥ śreyān । yathā

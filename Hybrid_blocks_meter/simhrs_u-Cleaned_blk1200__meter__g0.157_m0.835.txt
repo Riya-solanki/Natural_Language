@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1200 | label: meter | g:0.157 m:0.835 ---
+
+atha prāpty-āśā-
+prāpty-āśā tu mahārthasya siddhi-sadbhāva-bhāvanā ।। 
+siddha-sad-bhāvanā matā

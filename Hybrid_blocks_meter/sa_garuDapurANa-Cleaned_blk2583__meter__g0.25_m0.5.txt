@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2583 | label: meter | g:0.25 m:0.5 ---
+
+kavyānyaśeṣāṇi ca yānyabhīṣṭānyatīva teṣāṃ mama pūjitānām ।
+teṣāñca sānnidhyamihāstu puṣpagandhāmbubhojyeṣu mayā kṛteṣu ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3565 | label: meter | g:0.194 m:0.75 ---
+
+uttaraṃ nagaradvāram ete durgasahā nṛpāḥ 
+ārohantāṃ vimardantāṃ vajrapratimagauravāḥ ।।

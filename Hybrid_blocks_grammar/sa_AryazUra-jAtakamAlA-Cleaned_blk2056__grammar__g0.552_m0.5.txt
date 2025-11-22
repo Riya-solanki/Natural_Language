@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2056 | label: grammar | g:0.552 m:0.5 ---
+
+vipreṣu bandhuṣu suhṛtsu samāṣriteṣu dīne jane yadiṣu cāśramabhūṣaṇeṣu ।
+nyastaṃ mayā bahu dhanaṃ dadatā yathārhaṃ kṛtyaṃ ca yasya yadabhūttadakāri tasya ।।

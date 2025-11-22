@@ -1,0 +1,8 @@
+--- source: sastrdiu-Cleaned.txt | block: 94 | label: meter | g:0.305 m:0.662 ---
+
+vairūpyamevamihāpi ।
+itarathā tatrāpi bhojanāṅgatā puruṣārthatā ca pratiṣedhasya syāditi vairūpyaṃ syāt ।
+tasmādyaiva kācidyena kenāpi prakāreṇa prasaktā hiṃsā sā sarvā sāmānyena pratiṣidhyate ।
+puruṣārthaśca pratiṣedho anārabhyādhītatvāt ।
+tasmādagnīṣomīyahiṃsāpyasati vidheyatve pratiṣedhagocaraḥ syāt ।
+vidheyatve tu vidherviśeṣaviṣayatvātsāmānyaviṣayo niṣedhastadvirodhāddhisāntarāṇyavalambate ।।

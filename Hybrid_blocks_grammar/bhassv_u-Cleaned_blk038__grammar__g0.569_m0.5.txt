@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 38 | label: grammar | g:0.569 m:0.5 ---
+
+kasyārthaḥ kalaśena ko mṛgayate vāso yathāniścitaṃ dīkṣāṃ pāritavān kim icchati punar deyaṃ guror yad bhavet
+ātmānugraham icchatīha nṛpajā dharmābhirāmapriyā yad yasyāsti samīpsitaṃ vadatu tat kasyādya kiṃ dīyatām ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 681 | label: meter | g:0.25 m:0.5 ---
+
+pādāṅguṣṭhena saṃpīḍya yadā sa vasudhāṃ sthitaḥ 
+tadā sā vasudhā vipra cacāla saha parvataiḥ ।।

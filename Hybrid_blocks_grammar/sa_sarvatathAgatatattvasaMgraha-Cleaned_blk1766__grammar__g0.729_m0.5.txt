@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1766 | label: grammar | g:0.729 m:0.5 ---
+
+atha vajravasanā svakarmasamayamabhāṣat oṃ vajravasane ānaya sarvavastrānnapānādyu pa[karaṇāni śīghraṃ vaśīkuru enaṃ] me prayacchāviśāviśa satyaṃ kathaya vajrakośadhāriṇi hūṃ phaṭ ।

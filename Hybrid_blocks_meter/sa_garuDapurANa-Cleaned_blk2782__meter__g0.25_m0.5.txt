@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2782 | label: meter | g:0.25 m:0.5 ---
+
+ahaḥ śeṣaṃ sahāsīta śiṣṭairiṣṭaiśca bandhubhiḥ ।
+upāsya paścimāṃ sandhyāṃ hutvāgnau bhojanaṃ tataḥ ।।

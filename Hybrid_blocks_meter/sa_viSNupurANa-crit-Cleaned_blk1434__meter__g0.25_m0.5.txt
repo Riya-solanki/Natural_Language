@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1434 | label: meter | g:0.25 m:0.5 ---
+
+gaṇaṃ krodhavaśaṃ viddhi te ca sarve ca daṃṣṭriṇaḥ 
+sthalajāḥ pakṣiṇo abjāś ca dāruṇāḥ piśitāśanāḥ ।।

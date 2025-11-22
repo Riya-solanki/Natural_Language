@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 658 | label: meter | g:0.102 m:0.695 ---
+
+kālasya pariṇāmena laghvāhāro jitendriyaḥ 
+tatparaḥ prayataḥ śrāddhī yogadharmam avāpsyasi 
+ity uktvā bhagavān devas tatraivāntaradhīyata ।।

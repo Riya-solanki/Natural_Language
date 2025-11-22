@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 43 | label: meter | g:0.271 m:0.624 ---
+
+bāḍham ।
+natu śabdādimatkāryaṃ kāraṇātmanā hīnaṃ prāgutpatteridānīṃ vāsti ।
+tena na śakyate vaktuṃ prāgutpatterasatkāryamiti ।
+vistareṇa caitatkāryakāraṇānanyatvavāde vakṣyāmaḥ ।।

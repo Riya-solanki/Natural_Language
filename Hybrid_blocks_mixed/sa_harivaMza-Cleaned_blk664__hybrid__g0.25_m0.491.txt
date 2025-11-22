@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 664 | label: hybrid | g:0.25 m:0.491 ---
+
+śukasya kanyā kṛtvī taṃ janayām āsa pārthivam 
+aṇuhāt pārthivaśreṣṭhāt kāmpilye nagarottame ।। 
+yathovāca mahābhāgo mārkaṇḍeyo mahātapāḥ । tasya vaṃśam ahaṃ rājan kīrtayiṣyāmi tac chṛṇu । 
+aṇuhaḥ kasya vai putraḥ kasmin kāle babhūva ha 
+rājā dharmabhṛtāṃ śreṣṭho yasya putro mahāyaśāḥ ।।

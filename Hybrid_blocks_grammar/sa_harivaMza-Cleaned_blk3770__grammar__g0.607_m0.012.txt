@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3770 | label: grammar | g:0.607 m:0.012 ---
+
+nivedayām āsa tato narādhipe tad ugrasene pratipūrṇamānasaḥ 
+janārdano dvāravatīṃ ca tāṃ purīm aśobhayat tena dhanena bhūriṇā ।। 
+kṛṣṇāya ca namas tubhyaṃ rāmarāmāya te namaḥ । vāmanāya namas tubhyaṃ kapilāya namo astu te ।। nānārūpa namas tubhyaṃ namas te karmasākṣiṇe । viśvarūpa namas tubhyaṃ hṛṣīkeśāya te namaḥ ।। evaṃ saṃstūyamānaś ca mucukundena dhīmatā । uttarāṃ diśam āśritya tapam ācara sāttvikam । 
+tataḥ prabhāte vimale bhāskare abhyudite tadā 
+kṛtajapyo hṛṣīkeśo vanānte niṣasāda ha ।।

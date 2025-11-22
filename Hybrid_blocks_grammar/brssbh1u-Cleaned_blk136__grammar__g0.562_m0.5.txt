@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 136 | label: grammar | g:0.562 m:0.5 ---
+
+ānandamayādhikāre ca aso akāmayata bahusyāṃ prajāyeya' iti kāmayitṛtvanirdeśānnānumānikamapi sāṃkhyaparikalpitamacetanaṃ pradhānamānandamayatvena kāraṇatvena vāpekṣitavyam ।
+aīkṣaternāśabdam' iti nirākṛtamapi pradhānaṃ pūrvasūtrodāhṛtāṃ kāmayitṛtvaśrutimāśritya prasaṅgātpunarnirākriyate gatisāmānyaprapañcanāya ।।

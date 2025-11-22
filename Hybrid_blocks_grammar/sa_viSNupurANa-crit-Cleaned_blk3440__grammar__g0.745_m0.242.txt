@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3440 | label: grammar | g:0.745 m:0.242 ---
+
+atha tasya śāpabhītaḥ sapraśrayam uvācāsau rājā ।। 
+bhagavann asmatkulasthitir iyaṃ ya eva kanyāyā abhirucito abhijanavān varas tasmai kanyā pradīyate । bhagavadājñāsmanmanorathānām apy agocaravartinī । katham apy eṣā saṃjātā tad evam upasthite na vidmaḥ kiṃ kurma ity etan mayā cintyate । ity abhihite ca tena bhūbhujā munir acintayat । 
+aho ayam anyo asmatpratyākhyānopāyo vṛddho ayam anabhimataḥ strīṇāṃ kim uta kanyānām ity amunā saṃcintyaivam abhihitam । evam astu tathā kariṣyāmīti saṃcintya māṃdhātāram uvāca ।।

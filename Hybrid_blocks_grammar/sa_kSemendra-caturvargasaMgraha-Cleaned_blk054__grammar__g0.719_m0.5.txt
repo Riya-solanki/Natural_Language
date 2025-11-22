@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 54 | label: grammar | g:0.719 m:0.5 ---
+
+dhāvan sevitum eti sādhur adhamaṃ kandhyas tato yāty asau nītā mūlyatulāṃ guṇāś ca guṇibhiḥ kaścin na gṛhṇāti tān ।
+yācñā mānamahāśanir dhanakṛtā prāptaṃ na kiṃcit tayā kiṃ kiṃ vā na vidhīyate dhanadhiyā dhanyaḥ sa yasyāsti tat ।।

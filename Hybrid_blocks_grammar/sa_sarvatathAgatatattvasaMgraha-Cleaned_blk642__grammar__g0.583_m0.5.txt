@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 642 | label: grammar | g:0.583 m:0.5 ---
+
+atha khalvamitāyustathāgataḥ sarvatathāgatavajradharmasūkṣmajñānasamayamaṇḍalādhiṣṭhānaṃ nāma samādhiṃ samāpadyemāṃ svavidyottamamabhāṣat oṃ vajradharma sūkṣmajñānasamaya hūṃ ।।

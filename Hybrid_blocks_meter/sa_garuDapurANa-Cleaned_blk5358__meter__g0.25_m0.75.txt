@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5358 | label: meter | g:0.25 m:0.75 ---
+
+dūrvādāḍimapuṣpaṃ tu alaktakaharītakī ।
+nāsārśavātaraktanunnasyādvai svarasena hi ।।

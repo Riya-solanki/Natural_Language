@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 204 | label: meter | g:0.25 m:0.521 ---
+
+yeṣāṃ śarīriṇāṃ śaktiḥ patatyapi nivṛttaye ।
+teṣāṃ talliṅgam autsukyaṃ muktau dveṣo bhavasthitau ।।
+bhaktiśca śivabhakteṣu śraddhā tacchāsake vidhau ।
+anenānumitiḥ śiṣṭahetoḥ sthūladhiyāmapi ।।

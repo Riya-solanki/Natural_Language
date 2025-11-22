@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 675 | label: grammar | g:0.75 m:0.5 ---
+
+[] calana-samaye tu śrīmān vrajeśaḥ svayam anuvrajya bālakābhyām abhyavādayata । sa ca, "sa-gave saha-putrāya svasti te' stu vrajāmy aham" iti vyaktam uktavān ।

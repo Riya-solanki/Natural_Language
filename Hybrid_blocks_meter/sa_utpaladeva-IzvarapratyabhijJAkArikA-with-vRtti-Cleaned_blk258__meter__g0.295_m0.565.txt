@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 258 | label: meter | g:0.295 m:0.565 ---
+
+jaḍasya tu na sā śaktiḥ sattā yad asataḥ sataḥ 
+kartṛkarmatvatattvaiva kāryakāraṇatā tataḥ ।।

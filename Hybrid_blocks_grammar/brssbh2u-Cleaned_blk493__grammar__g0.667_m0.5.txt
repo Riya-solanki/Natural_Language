@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 493 | label: grammar | g:0.667 m:0.5 ---
+
+yattvīkṣaṇaśravaṇamaptejasostatparameśvarāveśavaśādeva draṣṭavyam anānyo ato asti draṣṭā' itīkṣitrantarapratiṣedhāt, prakṛtatvācca sata īkṣituḥ atadaikṣata bahu syāṃ prajāyeya' ityatra ।।

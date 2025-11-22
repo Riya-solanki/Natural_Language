@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3812 | label: meter | g:0.194 m:0.625 ---
+
+antaḥpuraṃ ca kṛṣṇasya paricaryākṣamaṃ mahat 
+cakāra tasyāṃ puryāṃ vai deśe tridaśapūjite ।।

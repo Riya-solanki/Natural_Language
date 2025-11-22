@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5750 | label: meter | g:0.25 m:0.625 ---
+
+hiṅgutumburuśuṇṭhībhiḥ siddhaṃ tailantu sārṣapam ।
+etaddhi puraṇaṃ śreṣṭhaṃ karṇaśūlāpahaṃ param ।।

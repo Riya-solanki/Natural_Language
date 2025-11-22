@@ -1,0 +1,39 @@
+--- source: sparibhu-Cleaned.txt | block: 5 | label: meter | g:0.25 m:0.667 ---
+
+atha śuddhatyāgaḥ ।
+granthamabhyasya medhāvī jñānavijñānatatparaḥ ।
+palālamiva dhānyārthī tyajedgranthamaśeṣataḥ ।।
+padamicchasi brahmatvaṃ tadā vijñānataḥ śṛṇu ।
+sarvārtheṣu ca vairāgyaṃ sarvabhūteṣu cātmatā ।।
+muktimicchasi cettvantu viṣayānviṣavattyaja ।
+kṣamārjavadayātoṣasatyaṃ pīyūṣavadbhaja ।।
+manasā dhyāyate yogī kṛpaṇastu dhanaṃ yathā ।
+manasā yena pītvā ca tena jitvā jagattrayam ।।
+vihāya kāmānyaḥ sarvānpumāṃścarati nispṛhaḥ ।
+nirmamo nirahaṅkāraḥ sa śāntimadhigacchati ।।
+akiñcanaśca dāntaśca śāntaśca samamānasaḥ ।
+sa liṅgānāśramaṃ tyaktvā caredavidhigocaraḥ ।।
+dehe ca śṛṇu taṃ tāta guptaprakaṭalakṣaṇam ।
+daśaguptakaraṃ mokṣadvādaśaṃ sahajasthitiḥ ।।
+nirapekṣaṃ muniṃ śāntaṃ nirvairaṃ samadarśanam ।
+anuvrajyāmahaṃ nityaṃ pūyayedaṅghrireṇubhiḥ ।।
+kadā śambho bhaviṣyāmi karmanirmūlanakṣamaḥ ।
+ekākī nispṛhaḥ śānto pāṇipātro digambaraḥ ।।
+sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja ।
+ahaṃ tvāṃ sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ ।।
+nirālambapadaṃ prāpya citte tatra layaṃ gate ।
+nivartante kriyāḥ sarvāḥ sa yogī nirguṇaḥ paraḥ ।।
+viṣayendriyakāraṇamākarṣacittavibhramaḥ ।
+yathā bahusapatnīnāṃ luṭhanti patimekataḥ ।।
+sādhu sādhu śṛṇu svārthamasthiyantrācca dūrataḥ ।
+asya bhāgakṛtā loke mamatvaṃ śvānavatkṛtam ।।
+śṛṇu tāta dvayaṃ tyājyamāśā bhedastathaiva ca ।
+āśayā dīnatāṃ kṛtvā bhedaśca bhedavardhanam ।।
+rodanahāsyakā a; anena piśācasthitimāśrayet ।
+asya saṅgaṃ sadā tyajya bhava cinmātra sarvadā ।।
+chāyākāryaṃ yathā nāsti tathaivāyaṃ hi dehakaḥ ।
+tattvaṃ gṛharasaṃ tyajya paramāṃ sthitimāśraya ।।
+goṣpadaṃ pṛthivī meruḥ sthāṇurākāśamudrikā ।
+tṛṇaṃ tribhuvanaṃ rāma vairāgyālaṃkṛtā kṛtiḥ ।
+manuṣyāṇāṃ sahasreṣu kaścidyatati siddhaye ।।
+iti vairāgyam ।।

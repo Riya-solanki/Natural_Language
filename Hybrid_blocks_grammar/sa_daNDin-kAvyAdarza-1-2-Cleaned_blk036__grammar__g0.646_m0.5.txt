@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 36 | label: grammar | g:0.646 m:0.5 ---
+
+śaurasenī ca gauḍī ca lāṭī cānyā ca tādṛśī yāti prākṛtam ity evaṃ vyavahāreṣu saṃnidhim ।।

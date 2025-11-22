@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8656 | label: grammar | g:0.615 m:0.5 ---
+
+ye kecitpetarūpā vikṛtamukhadṛśo raudrarūpāḥ karālā manyante naiva gotraṃ sutaduhitṛpitṝn bhrātṛjāyāṃ vadhūṃ vā ।
+kṛtvā kāmyaṃ ca rūpaṃ sukhagatirahitā bhāṣamāṇā yatheṣṭaṃ hā kaṣṭaṃ bhoktukāmā vidhivaśapatitāḥ saṃsmaranti svapākam ।।

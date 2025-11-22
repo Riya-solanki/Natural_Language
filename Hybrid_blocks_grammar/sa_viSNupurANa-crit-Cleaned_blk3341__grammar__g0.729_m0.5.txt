@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3341 | label: grammar | g:0.729 m:0.5 ---
+
+ativibhūter bhūribalaparākramaḥ karaṃdhamaḥ putro abhavat tasmād apy avikṣir avikṣer apy atibalaḥ putro marutto abhavad yasyemāv adyāpi ślokau gīyete ।।

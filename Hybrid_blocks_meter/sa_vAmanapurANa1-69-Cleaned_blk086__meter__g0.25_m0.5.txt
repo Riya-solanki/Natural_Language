@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 86 | label: meter | g:0.25 m:0.5 ---
+
+jitastvadīyaḥ puruṣaḥ pitāmaha nareṇa divyadbhutakarmaṇā balī ।
+mahāpṛṣatkairabhipatya tāḍitastadadbhutaṃ ceha diśo daśaiva ।।

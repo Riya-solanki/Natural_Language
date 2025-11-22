@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 205 | label: meter | g:0.378 m:0.632 ---
+
+sapadi sakhībhir nibhṛtaṃ virahavatīs trātum atra bhajyante ।
+sahakāramañjarīṇāṃ śikhodgamagranthayaḥ prathame ।।
+rājaśekharasya

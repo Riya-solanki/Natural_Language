@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 205 | label: meter | g:0.25 m:0.597 ---
+
+FN vyatiriktaṃ līlāyāḥ sakāśāditi yāvat ।
+sṛṣṭiśruterapravṛttirnāsti, sarvajñatvaśruterunmattatā nāstīti vibhāgaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 864 | label: meter | g:0.25 m:0.5 ---
+
+viṣādadainyaṃ vyavadhūya tasmātkāryāvakāśaṃ kriyayā bhajadhvam ।
+prājñasya dhairyajvalitaṃ hi tejaḥ sarvārthasiddhigrahaṇāgrahastaḥ ।।

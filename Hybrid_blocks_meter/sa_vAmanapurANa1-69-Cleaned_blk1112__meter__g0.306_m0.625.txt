@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1112 | label: meter | g:0.306 m:0.625 ---
+
+evaṃ prabhāvā danupuṅgavāste tejo adhikastatra babhau hayāriḥ ।
+rājye abhiṣiktaśca mahāsurendrairvinirjitaiḥ śambaratārakādyaiḥ ।।

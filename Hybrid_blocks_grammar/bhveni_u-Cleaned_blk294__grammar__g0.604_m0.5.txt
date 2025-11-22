@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 294 | label: grammar | g:0.604 m:0.5 ---
+
+SktCh sakhi roṣāṇitakanakapatrasadṛśena latājālāntaropahitakiraṇanivahena piñjaritodyānabhūmibhāgo duḥprekṣaṇīyo bhagavānsahasraraśmiḥ saṃvṛttaḥ । tatsamayaste lohitacandanakusumagarbheṇārgheṇa paryupasthātum ।

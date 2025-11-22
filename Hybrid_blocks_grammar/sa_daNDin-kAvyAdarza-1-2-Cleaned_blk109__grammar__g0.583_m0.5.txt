@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 109 | label: grammar | g:0.583 m:0.5 ---
+
+kiṃ tu bījaṃ vikalpānāṃ pūrvācāryaiḥ pradarśitam tad eva parisaṃskartum ayam asmatpariśramaḥ ।।

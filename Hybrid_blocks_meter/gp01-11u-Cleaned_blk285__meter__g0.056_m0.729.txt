@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 285 | label: meter | g:0.056 m:0.729 ---
+
+tadā guru-vyavahitim āgatā mudā
+parasparaṃ paśupa-sutāḥ karair yutāḥ ।
+sabhāgataṃ jahasur adhītya kasyacid
+vacas tadā skhalitam anūdya cāpare ।। [rucirā]

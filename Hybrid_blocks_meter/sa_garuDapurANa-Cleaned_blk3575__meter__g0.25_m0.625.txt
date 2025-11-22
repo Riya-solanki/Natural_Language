@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3575 | label: meter | g:0.25 m:0.625 ---
+
+prathame ahni hareḥ pādau yajetpadmairdvitayika ।
+bilvapatrairjānudeśaṃ nābhi gandhena cāpare ।।

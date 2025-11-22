@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3548 | label: grammar | g:0.708 m:0.5 ---
+
+bhagīrathāc chrutas tasyāpi nābhāgas tato ambarīṣas tasmāt sindhudvīpaḥ । sindhudvīpād ayutāyus tatputraś ca ṛtuparṇo nalasahāyo akṣahṛdayajño abhūt ।।

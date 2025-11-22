@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4254 | label: meter | g:0.25 m:0.5 ---
+
+dadṛśus tāṃ vinihatāṃ rākṣasīṃ te vanecarāḥ 
+baleḥ sutāṃ mahāghorāṃ bhīṣaṇāṃ vikṛtānanām । 
+punarjāto ayam ity āhur uktas tasmād adhokṣajaḥ ।।

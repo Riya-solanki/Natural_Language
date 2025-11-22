@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3053 | label: meter | g:0.25 m:0.5 ---
+
+dāne vivāhe yajñe ca saṃgrāme deśaviplave ।
+āpadyapi ca kaṣṭāyāṃ sadyaḥ śaucaṃ vidhīyate ।।

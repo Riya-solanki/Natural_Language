@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 46 | label: meter | g:0.25 m:0.625 ---
+
+sahasraśirasā śakyaḥ kevalaṃ hantumāhave ।
+tenaikena sahasrākṣa na sa hyanyena śakyate ।।

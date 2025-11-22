@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1314 | label: meter | g:0.194 m:0.625 ---
+
+maṇivad dyotayantaṃ tu pūrayantaṃ diśo daśa 
+sūryakāntimaṇiprakhyaṃ bhāskareva prapaśyate ।।

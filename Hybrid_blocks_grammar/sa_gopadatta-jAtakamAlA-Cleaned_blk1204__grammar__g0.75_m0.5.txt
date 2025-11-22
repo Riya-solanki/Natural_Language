@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1204 | label: grammar | g:0.75 m:0.5 ---
+
+atha te puruṣās tena tasyādbhutenābhiprasāritamānasāḥ sutarāṃ tadviyogaśaṅkāvyathitahṛdayā viṣādadainyavidheyāś cintāviṣayātītagocaram aviṣahyam ativismayanīyaṃ ca tatkarma taṃ mahāsattvam aviratāśrudhārāprakṣālitanayanadīnavadanāḥ pādayoḥ saṃpariṣvajya praṇamya ca sarvāṅgair ity avadan ।

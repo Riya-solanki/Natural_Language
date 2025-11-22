@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 378 | label: grammar | g:0.522 m:0.363 ---
+
+syānmatam ।
+pratyekameva nādāḥ śabdamabhivyañjanti, nacaivamuttaranādavaiyarthyam, pūrve hi nādāḥ śabdasphuṭamabhivyañjanti uttarottare sphuṭaṃ sphuṭataraṃ ca vyañjantīti nottareṣāmānarthakyam ।
+yadyevaṃ tato ya evottare nādāḥ sphuṭābhivyaktisamarthāstaireva bhavitavyamalaṃ pūrveḥ ।।

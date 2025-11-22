@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 225 | label: grammar | g:0.75 m:0.5 ---
+
+[] yatra parihāsa-bījaṃ ca pṛthag-dig-deśa-loka-prasiddhānām atraiva cānyathā-siddhānāṃ temanādīnāṃ nāma nāmnātuṃ śakyate, nāmāntareṇa vāmnāyate, sad-āmnāya-janmabhir api bandhu-sambandhibhir ity ādi lakṣaṇaṃ lakṣyate ।

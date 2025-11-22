@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 96 | label: hybrid | g:0.542 m:0.5 ---
+
+aṅgenāṅgaṃ tanu ca tanunā gāḍhataptena taptaṃ sāsreṇāsradravam aviratotkaṇṭham utkaṇṭhitena ।
+uṣṇocchvāsaṃ samadhikatarocchvāsinā dūravartī saṃkalpais te viśati vidhinā vairiṇā ruddhamārgaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 157 | label: grammar | g:0.688 m:0.5 ---
+
+bhedaḥ asya ṣaḍ bhedā bhavanti, yathā - ātmotkarṣaniṣedhāt damanakāritram, sarvajananamanakāritram, rāgādikleśābhibhavakāritram, parakṛtāghātavirodhopanipātād upakramāviṣahyatvakāritram, samyak saṃbodhipratipattikāritram, prajñāpāramitādhāraviṣayapūjyatākāritramiti ।

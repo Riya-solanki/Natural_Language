@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2257 | label: meter | g:0.251 m:0.623 ---
+
+ahaṃ vācyo bhaviṣyāmi pitṛpakṣeṣu putriṇām 
+yo aham ekasya putrasya na paśyāmi śiśor mukham ।।

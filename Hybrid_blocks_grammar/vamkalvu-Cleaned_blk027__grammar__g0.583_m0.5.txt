@@ -1,0 +1,3 @@
+--- source: vamkalvu-Cleaned.txt | block: 27 | label: grammar | g:0.583 m:0.5 ---
+
+itare satṛṇābhyavahāriṇo na śiṣyāḥ । avivecanaśīlatvāt । na ca śīlamapākartuṃ śakyam ।।

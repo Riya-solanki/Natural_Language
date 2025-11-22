@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 148 | label: meter | g:0.25 m:0.617 ---
+
+nanvabhedanirdeśo api darśitaḥ atattvamasi' ityevañjātīyakaḥ ।
+kathaṃ bhedābhedau viruddhau saṃbhaveyātām ।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 391 | label: hybrid | g:0.5 m:0.5 ---
+
+bhedaḥ tisṛṇāṃ śuddhabhūmīnāṃ trīṇi jñānānyevāsya trayo bhedāḥ ।

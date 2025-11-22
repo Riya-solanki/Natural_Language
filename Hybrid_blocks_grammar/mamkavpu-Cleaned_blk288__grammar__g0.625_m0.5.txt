@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 288 | label: grammar | g:0.625 m:0.5 ---
+
+atrotprekṣayā camatkāraikakāraṇaṃ navaṃ navaṃ jagat ajaḍāsanasthā nirmimīte iti vyatirekaḥ । eṣu kaviprauḍhoktimātraniṣpanno vyañjakaḥ ।

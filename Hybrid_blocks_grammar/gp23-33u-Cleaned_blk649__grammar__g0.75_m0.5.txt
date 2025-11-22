@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 649 | label: grammar | g:0.75 m:0.5 ---
+
+[] tadā garbhe suhitas tvad-ahitaḥ śatadhanvā tu vāṃ dūragau manvānaḥ prāpta-ratnaṃ satrājitaṃ sayatnaṃ sapatnavan nihatya ratnam apahṛtya tac ca karṇaṭiriṭirākāriṇam akrūraṃ pratyapahnutya jñāti-hatyā-bhītyā kuśasthalād avagatya vidroṣyati ।

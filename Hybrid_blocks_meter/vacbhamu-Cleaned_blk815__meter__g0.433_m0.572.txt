@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 815 | label: meter | g:0.433 m:0.572 ---
+
+ubhayavyapadeśāttvahikuṇḍalavat ।
+anenāhirūpeṇābhedaḥ ।
+kuṇḍalādirūpeṇa tu bheda ityuktaṃ tena viṣayabhedādbhedābhedayoravirodha ityekaviṣayatvena vā sarvadopalabdheravirodhaḥ ।
+viruddhamiti hi naḥ kka saṃpratyayo na yatpramāṇenopalabhyate ।
+āgamataśca pramāṇādekagocarāvapi bhedābhedau pratīyamānau na virodhamāvahataḥ savitṛprakāśayoriva pratyakṣātpramāṇādbhedābhedāviti ।।

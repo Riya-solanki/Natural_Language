@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1290 | label: meter | g:0.307 m:0.623 ---
+
+kumārī ca guḍūcī ca siṃhī vyāghrī tathaiva ca ।
+yā oṣadhīti mantreṇa snānamoṣadhimajjalaiḥ ।।

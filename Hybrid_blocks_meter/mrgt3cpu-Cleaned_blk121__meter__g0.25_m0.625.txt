@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 121 | label: meter | g:0.25 m:0.625 ---
+
+na yāyādanupānatkaḥ kvacinnāpyasahāyavān ।
+nātiprāṅnātivelāyāṃ na rātrau na khārātape ।

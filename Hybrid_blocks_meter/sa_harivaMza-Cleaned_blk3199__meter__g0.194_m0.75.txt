@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3199 | label: meter | g:0.194 m:0.75 ---
+
+tau jātahāsāv anyonyaṃ satalākṣepam avyayau 
+vīkṣamāṇau prahasitau kubjāyāḥ śrutavistarau ।।

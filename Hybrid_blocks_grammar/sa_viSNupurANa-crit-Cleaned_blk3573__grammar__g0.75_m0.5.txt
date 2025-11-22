@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3573 | label: grammar | g:0.75 m:0.5 ---
+
+yajñe ca mārīcam iṣupātāhataṃ dūraṃ cikṣepa subāhupramukhāṃś ca kṣayam anayat । darśanamātreṇaivāhalyām apāpāṃ cakāra । janakagṛhe ca māheśvaraṃ cāpam anāyāsenaiva babhañja । sītāṃ ca ayonijāṃ janakarājatanayāṃ vīryaśulkāṃ lebhe ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1310 | label: meter | g:0.217 m:0.845 ---
+
+ahorātrekṣaṇo divyo vedāṅgaśrutibhūṣaṇaḥ 
+ājyanāsaḥ sruvas tuṇḍaḥ sāmaghoṣasvano mahān ।।

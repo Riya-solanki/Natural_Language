@@ -1,0 +1,5 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 113 | label: meter | g:0.25 m:0.823 ---
+
+kimartha skandhādikrameṇa deśanā । trividhātmagrāhapratipakṣeṇāyaṃ kramaḥ ।।
+ātmagrāhastrividhaḥ ekātmagrāhaḥ, vedakātmagrāhaḥ, kārakātmagrāhaśca ।।
+।। aṣṭādaśadhātuvikalpāḥ ।।

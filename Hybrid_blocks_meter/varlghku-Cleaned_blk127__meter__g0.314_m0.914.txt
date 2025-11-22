@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 127 | label: meter | g:0.314 m:0.914 ---
+
+kṛttaddhitasamāsāśca ।।
+kṛttaddhitāntau samāsāśca tathā syuḥ ।।

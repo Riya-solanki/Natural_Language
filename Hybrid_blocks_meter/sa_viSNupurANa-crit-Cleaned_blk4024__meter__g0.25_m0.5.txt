@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4024 | label: meter | g:0.25 m:0.5 ---
+
+ṛgvedas tvaṃ yajurvedaḥ sāmavedas tv atharva ca 
+śikṣā kalpo niruktaṃ ca chando jyotiṣam eva ca ।।

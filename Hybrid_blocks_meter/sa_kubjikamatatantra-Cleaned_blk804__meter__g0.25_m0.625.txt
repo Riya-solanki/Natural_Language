@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 804 | label: meter | g:0.25 m:0.625 ---
+
+homamaṇḍalakaṃ yac ca caturasraṃ vajralāñchitam 
+evaṃ vai bhavate kālo yadi sākṣāt sacīpatiḥ ।।

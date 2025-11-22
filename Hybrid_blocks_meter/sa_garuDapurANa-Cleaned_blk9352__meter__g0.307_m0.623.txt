@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9352 | label: meter | g:0.307 m:0.623 ---
+
+prathame ahni dvitīye ca tṛtīye ca tathā khaga ।
+ākāśasthaṃ pibeddugdhaṃ preto vāyuvapurdharaḥ ।।

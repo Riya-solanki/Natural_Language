@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 251 | label: grammar | g:0.561 m:0.375 ---
+
+syādetat ।
+yathā kṣīramacetanaṃ svabhāvenaiva vatsavivṛddhyarthaṃ pravartate, yathāca jalamacetanaṃ svabhāvenaiva lokopakārāya syandata evaṃ pradhānamacetanaṃ svabhāvenaiva puruṣārthasiddhaye pravartiṣyata iti ।

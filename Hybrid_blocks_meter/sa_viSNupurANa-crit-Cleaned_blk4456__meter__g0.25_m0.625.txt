@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4456 | label: meter | g:0.25 m:0.625 ---
+
+na dvārabandhāvaraṇā na gṛhakṣetriṇas tathā 
+sukhinas tv akhile loke yathā vai cakracāriṇaḥ ।।

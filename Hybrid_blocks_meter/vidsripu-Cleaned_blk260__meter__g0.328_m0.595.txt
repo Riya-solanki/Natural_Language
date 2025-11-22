@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 260 | label: meter | g:0.328 m:0.595 ---
+
+chatrāvalambi vimalorupayaḥpravāha- dhārābharasphaṭikapañjarasaṃyatāṅgaḥ ।
+pānthaḥ svaśāsanavilaṅghanajātakopa- kāmājñayā priyatamām iva nīyate sma ।।

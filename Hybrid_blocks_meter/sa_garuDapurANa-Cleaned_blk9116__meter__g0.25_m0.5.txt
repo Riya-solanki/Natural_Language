@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9116 | label: meter | g:0.25 m:0.5 ---
+
+matsyaṃ karmaṃ ca vārāhaṃ nārasiṃhañca vāmanam ।
+rāmaṃ rāmaṃ ca kṛṣṇaṃ ca buddhaṃ caiva sakalkinam ।
+etāni daśa nāmāni smartavyāni sadā budhaiḥ ।।

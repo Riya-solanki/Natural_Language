@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 323 | label: meter | g:0.25 m:0.75 ---
+
+śūnyatve sānimitte ca praṇidhānavivarjite ।
+anutpādānirodhādau dharmatāyā akopane ।।

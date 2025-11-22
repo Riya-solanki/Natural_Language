@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11270 | label: meter | g:0.306 m:0.5 ---
+
+sulālitaṃ bhūṣaṇaiḥ putramitraṃ na lālitaṃ sarvapāpāpahāri ।
+na bhuktaṃ vai harinairavedyaśeṣaṃ mitrālaye ṣaḍrasānnaṃ ca bhuktam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8810 | label: meter | g:0.25 m:0.625 ---
+
+yadā prāpnoti mānuṣyaṃ tadā sarvaṃ tapatyapi ।
+sarvajanmāni saṃsmṛtya viṣādī kṛtacetanaḥ ।।

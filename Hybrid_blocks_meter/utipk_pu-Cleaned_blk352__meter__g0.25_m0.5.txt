@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 352 | label: meter | g:0.25 m:0.5 ---
+
+sarvākṣagocaratvena yā tu bāhyatayā sthirā ।
+sṛṣṭiḥ sādhāraṇī sarva- pramātṝṇāṃ sa jāgaraḥ ।।

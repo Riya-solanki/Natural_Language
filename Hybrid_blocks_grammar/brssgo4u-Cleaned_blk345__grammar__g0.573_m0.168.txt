@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 345 | label: grammar | g:0.573 m:0.168 ---
+
+sūtrāntaraṃ gṛhṇāti-kaḥ punariti ।
+jāgarite hyāndhyādidehadharmavānbhavati svapne tu hata eva kenacit ।
+apica putrādināśādroditīva bhavati, suṣuptau tu viśeṣājñānādvinaṣṭa iveti, bandhadaśāyāṃ kaluṣitātmanā tiṣṭhati mokṣe tu vigalitākhiladuḥkhaḥ paritaḥ pradyotamānapūrṇānandātmanāvatiṣṭhata iti mahān viśeṣa ityarthaḥ ।।

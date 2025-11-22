@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1467 | label: meter | g:0.194 m:0.75 ---
+
+mayas tu kāñcanamayaṃ trinalvāntaram avyayam 
+catuścakraṃ suvapuṣaṃ sukalpitamahāyudham ।।

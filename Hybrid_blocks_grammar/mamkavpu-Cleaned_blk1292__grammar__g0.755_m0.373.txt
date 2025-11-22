@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1292 | label: grammar | g:0.755 m:0.373 ---
+
+atra mānasameva mānasam kamalāyāḥ saṃkoca eva kamalānāmasaṃkocaḥ durgāṇāmamārgaṇameva durgāyāḥ mārgaṇam samitāṃ svīkāra eva samidhāṃ svīkāraḥ satye pratītireva satyāmaprītiḥ vijayaḥ paraparābhava eva vijayorjunaḥ evamāropaṇanimitto haṃsāderāropaḥ ।
+yadyapi śabdārthālaṅkāro ayamityuktaṃ vakṣyate ca tathāpi prasiddhyanurodhādatroktaḥ । ekadeśavivarti hīdamanyairabhidhīyate ।।

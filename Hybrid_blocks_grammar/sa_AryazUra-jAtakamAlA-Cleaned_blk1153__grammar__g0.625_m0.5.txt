@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1153 | label: grammar | g:0.625 m:0.5 ---
+
+atha tvidānīṃ svajanānurāgaḥ karoti naiṣāṃ tapase abhyanujñām । sāmarthyamāsītkathamasya naiva byūḍheṣvanīkeṣvapi tatra tatra ।।

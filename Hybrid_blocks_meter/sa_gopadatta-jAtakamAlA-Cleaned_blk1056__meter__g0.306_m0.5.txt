@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1056 | label: meter | g:0.306 m:0.5 ---
+
+jagad adhruvam etad asvatantraṃ viṣayāśīviṣapūgasaṃniruddham ।
+avagamya bhaveṣu ye ramante paśavas te naravigrahopanītāḥ ।।

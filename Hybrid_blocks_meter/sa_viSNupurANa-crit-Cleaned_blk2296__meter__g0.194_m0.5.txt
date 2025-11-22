@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2296 | label: meter | g:0.194 m:0.5 ---
+
+bhūpa pṛcchasi kiṃ śreyaḥ paramārthaṃ nu pṛcchasi 
+śreyāṃsy aparamārthāni aśeṣāṇy eva bhūpate ।।

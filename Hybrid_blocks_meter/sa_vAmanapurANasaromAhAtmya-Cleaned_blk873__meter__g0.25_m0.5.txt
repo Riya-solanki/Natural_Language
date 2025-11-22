@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 873 | label: meter | g:0.25 m:0.5 ---
+
+śuddhimāpnoti puruṣaḥ saṃśuddhaṃ yasya no manaḥ ।
+kriyā hi niyamārthāya pātakebhyaḥ prakīrtitāḥ ।।

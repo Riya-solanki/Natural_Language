@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1513 | label: grammar | g:0.635 m:0.5 ---
+
+ekas tridhā hṛdi sadā vasasi sma citraṃ yo vidviṣāṃ ca viduṣāṃ ca mṛgīdṛśāṃ ca ।
+tāpaṃ ca saṃmadarasaṃ ca ratiṃ ca tanvañ śauryoṣmaṇā ca vinayena ca līlayā ca ।।

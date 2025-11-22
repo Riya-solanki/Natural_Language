@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2759 | label: meter | g:0.194 m:0.625 ---
+
+kṛṣṇa kṛṣṇa mahābāho jñātīnāṃ nandivardhana 
+atidaivaṃ kṛtaṃ karma tvayā prītimatā gavām ।।

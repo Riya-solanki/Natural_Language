@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 407 | label: meter | g:0.25 m:0.5 ---
+
+tena geha ivāraṇye rātrāvapi yathā divā ।
+janānta iva caiko api nirbhayo vicarāmyaham ।।

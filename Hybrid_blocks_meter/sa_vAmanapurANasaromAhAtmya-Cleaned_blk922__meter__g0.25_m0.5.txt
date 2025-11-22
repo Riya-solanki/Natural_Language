@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 922 | label: meter | g:0.25 m:0.5 ---
+
+ityuktvā bhagavān rudro hyantardhānaṃ gataḥ prabhuḥ ।
+devāśca ṛṣayaḥ sarve svāni sthānāni bhehire ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3255 | label: meter | g:0.306 m:0.5 ---
+
+śakro abhūd bhagavān brahman balirbāṇo yamo abhavat ।
+varuṇo abhūnmayaḥ somo rāhurhlodo hutāśanaḥ ।।

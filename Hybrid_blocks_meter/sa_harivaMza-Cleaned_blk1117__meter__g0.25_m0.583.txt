@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1117 | label: meter | g:0.25 m:0.583 ---
+
+antarasya suyajñas tu suyajñatanayo abhavat 
+uṣato yajñam akhilaṃ svadharmam uṣatāṃ varaḥ ।। 
+udyatas tasya dharmātmā bhavat putravatāṃvaraḥ । 
+śineyur abhavat putra uṣataḥ śatrutāpanaḥ 
+maruttas tasya tanayo rājarṣir abhavan nṛpaḥ ।।

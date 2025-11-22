@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 29 | label: meter | g:0.25 m:0.5 ---
+
+pādyācamanam arghaṃ ca dattvā bhaktisamanvitaḥ ।
+jalajaiḥ sthalajaiḥ puṣpaiḥ sugandhaiḥ pañcagandhakaiḥ ।।

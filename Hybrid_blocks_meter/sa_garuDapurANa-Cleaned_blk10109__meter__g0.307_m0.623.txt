@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10109 | label: meter | g:0.307 m:0.623 ---
+
+pāṣaṇḍarudrādikasaṃ pratiṣṭhitānharervāyoḥ śaṅkarasya pratīkān ।
+namanti ye phalabuddhyā vibhūḍhāsteṣāṃ phalaṃ śāśvataṃ duḥ khameva ।।

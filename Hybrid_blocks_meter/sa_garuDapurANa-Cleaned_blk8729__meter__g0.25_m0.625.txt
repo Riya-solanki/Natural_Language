@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8729 | label: meter | g:0.25 m:0.625 ---
+
+darśanena ca te brahmanmuditāpyāyitā vayam ।
+muhūrtantiṣṭha vakṣyāmi vṛttāntaṃ sarvamāditaḥ ।।

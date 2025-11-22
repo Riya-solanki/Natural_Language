@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 432 | label: meter | g:0.194 m:0.5 ---
+
+evaṃ mantrapramāṇaṃ tu kathitaṃ tava śobhane 
+etad ādyaṃ samākhyātaṃ gopanīyaṃ prayatnataḥ ।।

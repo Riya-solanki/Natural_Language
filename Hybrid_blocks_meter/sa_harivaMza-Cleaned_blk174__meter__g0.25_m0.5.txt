@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 174 | label: meter | g:0.25 m:0.5 ---
+
+tathety abhihito bhartā tayā devyā mahātapāḥ 
+dhārayām āsa garbhaṃ tu śuciḥ sā vasudhādhipa ।। 
+nityaṃ triṣavaṇaṃ snātā kṛcchracāndrāyaṇe ratā । 
+tato abhyupagamād dityāṃ garbham ādhāya kaśyapaḥ 
+rocayan vai gaṇaśreṣṭhaṃ devānām amitaujasām ।।

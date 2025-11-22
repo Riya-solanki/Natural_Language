@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6140 | label: meter | g:0.194 m:0.5 ---
+
+evaṃ sapta mahābuddheḥ kramāt prakṛtayas tu vai 
+pratyāhāre tu tāḥ sarvāḥ praviśanti parasparam ।।

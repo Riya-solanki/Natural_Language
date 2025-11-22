@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3628 | label: meter | g:0.25 m:0.5 ---
+
+ratnamuṣṭiṃ tu badhvā vai vāmācchāditasatka[raḥ ।
+yathā tathā kriyate vai ratnasiddhimavāpnu] yād ।।

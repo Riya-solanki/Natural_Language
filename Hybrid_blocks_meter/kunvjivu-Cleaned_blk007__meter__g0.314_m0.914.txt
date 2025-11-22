@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 7 | label: meter | g:0.314 m:0.914 ---
+
+lokottaracamatkārakārivaicitryasiddhaye ।
+kāvyasyāyamalaṅkāraḥ ko apyapūrvo vidhīyate ।।

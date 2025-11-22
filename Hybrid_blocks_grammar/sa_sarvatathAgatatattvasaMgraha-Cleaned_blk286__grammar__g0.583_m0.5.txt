@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 286 | label: grammar | g:0.583 m:0.5 ---
+
+tatastu guhyapūjābhiḥ santoṣya sa mahātmanā । vijñayetsarvasatvārthaṃ kurudhvaṃ sarvasiddhaye ।। iti ।।

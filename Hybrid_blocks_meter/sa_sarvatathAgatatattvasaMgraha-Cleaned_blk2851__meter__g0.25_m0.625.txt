@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2851 | label: meter | g:0.25 m:0.625 ---
+
+badhvā dharmamayīṃ mudrāṃ lokeśvarasamādhinā ।
+bhāvayan lokanāthaṃ ca siddhistu dviguṇā bhavet ।।

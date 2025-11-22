@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 155 | label: grammar | g:0.573 m:0.5 ---
+
+vatsa kṣmādharagahvareṣu vicaraṃś cārapracāre gavāṃ hiṃsrān vīkṣya puraḥ purāṇapuruṣaṃ nārāyaṇaṃ dhyāsyasi ।
+ity uktasya yaśodayā muraripor avyāj jaganti sphurad- bimboṣṭhadvayagāḍhapīḍanavaśād avyaktabhāvaṃ smitam ।।

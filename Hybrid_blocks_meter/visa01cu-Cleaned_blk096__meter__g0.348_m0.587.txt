@@ -1,0 +1,6 @@
+--- source: visa01cu-Cleaned.txt | block: 96 | label: meter | g:0.348 m:0.587 ---
+
+kiñca ।
+śabdārthayoḥ saguṇatvaviśeṣaṇamupapannam ।
+guṇānāṃ rasaikadharmatvasya "ye rasasyāṅgino dharmāḥ śauryādaya ivātmanaḥ" ityādinā tenaiva pratipāditatvāt ।
+rasābhivyañjakatvenopacārata upapadyata iti cet ? tathāpyayuktam ।

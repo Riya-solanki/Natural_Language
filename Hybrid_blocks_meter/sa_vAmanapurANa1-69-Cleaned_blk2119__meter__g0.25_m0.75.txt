@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2119 | label: meter | g:0.25 m:0.75 ---
+
+tataḥ sa karamudyamya praviveśāmarāvatīm ।
+praviśantaṃ na taṃ kaścinnivārayitumutsahet ।।

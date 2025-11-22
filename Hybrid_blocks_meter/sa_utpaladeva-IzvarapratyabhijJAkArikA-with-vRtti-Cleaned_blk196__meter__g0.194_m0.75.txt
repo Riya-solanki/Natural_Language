@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 196 | label: meter | g:0.194 m:0.75 ---
+
+kramo bhedāśrayo bhedo apy ābhāsasadasattvataḥ 
+ābhāsasadasattve tu citrābhāsakṛtaḥ prabhoḥ ।।

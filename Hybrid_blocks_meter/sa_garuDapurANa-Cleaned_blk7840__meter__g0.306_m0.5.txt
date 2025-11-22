@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7840 | label: meter | g:0.306 m:0.5 ---
+
+adya me saphalaṃ janma pāvitañca kulaṃ prabho ।
+viṣṇubhaktasya dharmasya yatte dṛggocaraṃ gataḥ ।।

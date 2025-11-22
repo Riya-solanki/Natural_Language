@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 373 | label: meter | g:0.25 m:0.847 ---
+
+tatraitāni tālahṛdayāni bhavanti ।
+vajra vaśa ।।

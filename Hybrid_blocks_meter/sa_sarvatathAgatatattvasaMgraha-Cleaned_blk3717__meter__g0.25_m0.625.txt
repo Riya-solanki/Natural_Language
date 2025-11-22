@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3717 | label: meter | g:0.25 m:0.625 ---
+
+mahāsandhi mahāmudra mahāsamayabandhaka ।
+mahāmuṣṭe samudrāgrya vajramuṣṭe namo astu te ।।

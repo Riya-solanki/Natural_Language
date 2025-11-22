@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 199 | label: hybrid | g:0.51 m:0.5 ---
+
+hitaiṣiṇas tasya vaco avadhīrya tvam ajña nirdagdhapunarbhavasya ।
+bibheṣi duḥkhād adhunā kim evaṃ svakarmanirmāṇam idaṃ tavaiva ।।

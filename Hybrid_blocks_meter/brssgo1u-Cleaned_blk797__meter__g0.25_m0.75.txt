@@ -1,0 +1,10 @@
+--- source: brssgo1u-Cleaned.txt | block: 797 | label: meter | g:0.25 m:0.75 ---
+
+śaṅkottaratvena sūtraṃ vyācaṣṭe-uktametadityādinā ।
+kāryakāraṇayorabhedānmūlaprakṛtivācakāvyaktaśabdena vikāro lakṣyata ityarthaḥ ।
+gobhirgovikāraiḥ payobhirmatsaraṃ somaṃ śrīṇīta ।
+miśritaṃ kuryāditi yāvat ।
+aśrīñ pāke'iti dhātorloṭi madhyamapuruṣabahuvacanametat ।
+avyaktātmanā kāryasyāvyaktaśabdayogyatve mānamāha-śrutiśceti ।
+tarhi prāgavasthāyāmidaṃ jagadavyākṛtamāsīt ha kiletyarthaḥ ।
+bījarūpā śaktiḥ saṃskārastadavastham ।।

@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 303 | label: hybrid | g:0.542 m:0.5 ---
+
+svayam api mohaṃ bheje yadi nija-veṇu-dhvanau kṛṣṇaḥ ।
+syād urvaritaḥ ko vā, jīvaḥ sa hi sarva-jīvasya ।। [upagīti] iti ।

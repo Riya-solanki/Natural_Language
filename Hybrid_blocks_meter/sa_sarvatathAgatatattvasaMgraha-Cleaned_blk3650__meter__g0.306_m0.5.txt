@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3650 | label: meter | g:0.306 m:0.5 ---
+
+brahman svayaṃbhū bhagavan śākyavīra mahāmune ।
+sarvātmaka mune śuddha dharmarāja namo astu te ।।

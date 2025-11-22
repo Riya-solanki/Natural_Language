@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2508 | label: meter | g:0.194 m:0.625 ---
+
+trayyāruṇaḥ pañcadaśe ṣoḍaśe tu dhanaṃjayaḥ 
+kratuṃjayaḥ saptadaśe ṛṇajyo aṣṭādaśe smṛtaḥ ।।

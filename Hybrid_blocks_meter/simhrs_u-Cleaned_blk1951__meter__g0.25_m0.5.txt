@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1951 | label: meter | g:0.25 m:0.5 ---
+
+atra ārtavāruṇasyoru-mūlasya varṇanād idam anṛtam ।

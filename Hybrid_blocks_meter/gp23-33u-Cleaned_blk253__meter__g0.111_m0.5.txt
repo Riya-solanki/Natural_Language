@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 253 | label: meter | g:0.111 m:0.5 ---
+
+tatrānyās tu sakhī-nibhāḥ samabhavaṃs tasyāṃ dravan-mānasāḥ
+prāṇa-prāṇa-samāḥ sa-māna-manasaḥ sakhyaś citaṃ tatyajuḥ ।
+yasmin nāsty avalambanaṃ kila kim apy asmin vidhiḥ sad-vidhis
+tādṛkṣeṣu vilakṣaṇeṣu valayaty anyac ca dhanyaṃ bahu ।। [śārdūla]

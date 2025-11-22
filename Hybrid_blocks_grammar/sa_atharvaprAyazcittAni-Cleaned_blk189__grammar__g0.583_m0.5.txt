@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 189 | label: grammar | g:0.583 m:0.5 ---
+
+athāhavanīya ājyāhutīr juhuyād dhātā dadhātu naḥ pūrṇā darva iti dvābhyām ṛgbhyām ।

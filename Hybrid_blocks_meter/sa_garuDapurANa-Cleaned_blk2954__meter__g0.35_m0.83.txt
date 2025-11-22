@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2954 | label: meter | g:0.35 m:0.83 ---
+
+śrāgaruḍamahāpurāṇam- 
+yājñavalkya uvāca ।
+narakātpatākodbhūtātkṣayātpāpasya kamaṇaḥ ।
+brahmahā śvā kharoṣṭraḥ syādbheko yakaḥ surāpyapi ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3948 | label: meter | g:0.25 m:0.625 ---
+
+trīṇi lakṣāṇi varṣāṇāṃ dvija mānuṣasaṃkhyayā 
+ṣaṣṭiṃ caiva sahasrāṇi bhaviṣyaty eṣa vai kaliḥ ।।

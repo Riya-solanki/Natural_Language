@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1151 | label: meter | g:0.306 m:0.5 ---
+
+mṛto mariṣyannapi vā manuṣyaścyutaśca dharmāditi roditavyam ।
+kayā nu buddhyā vanavāsakāmaṃ māmeva jīvantamamī rudanti ।।

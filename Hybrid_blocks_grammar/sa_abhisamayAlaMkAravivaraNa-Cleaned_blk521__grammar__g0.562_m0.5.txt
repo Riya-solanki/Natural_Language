@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 521 | label: grammar | g:0.562 m:0.5 ---
+
+bhedaḥ nirmāṇakāyasya trayo bhedā bhavanti, yathā - uttamanirmāṇakāyaḥ, śailpikanirmāṇakāyaḥ, nairyāṇikanirmāṇakāyaśceti ।

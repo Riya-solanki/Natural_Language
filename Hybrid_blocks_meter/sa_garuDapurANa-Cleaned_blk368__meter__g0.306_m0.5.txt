@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 368 | label: meter | g:0.306 m:0.5 ---
+
+pratīcyāṃ rakṣa māṃ viṣṇo ! tvāmaha śaraṇaṃ gataḥ ।
+musalaṃ śātanaṃ gṛhya puṇḍarīkākṣa rakṣa mām ।।

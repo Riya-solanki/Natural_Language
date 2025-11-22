@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 151 | label: hybrid | g:0.51 m:0.5 ---
+
+tad ayaṃ samayaḥ kathaṃ cid eva pratilabdhaḥ kuśalaprayogayogyaḥ ।
+pratipattividhau bhavān pramāṇaṃ śakunānāṃ hi vanaṃ virāvamātram ।।

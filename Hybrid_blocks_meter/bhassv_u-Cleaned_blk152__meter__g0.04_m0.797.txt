@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 152 | label: meter | g:0.04 m:0.797 ---
+
+{ceṭī} - sohaṇaṃ 
+ayye gacchāmi dāva ahaṃ 
+[śobhaṇaṃ । ārye gacchāmi tāvad aham । ]

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3911 | label: meter | g:0.194 m:0.625 ---
+
+āsthāya sa rathaṃ vīraḥ samudagrāyudhadhvajam 
+javena prayayau kruddho balena mahatā vṛtaḥ ।।

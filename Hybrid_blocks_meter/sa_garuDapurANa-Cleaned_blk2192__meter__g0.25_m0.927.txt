@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2192 | label: meter | g:0.25 m:0.927 ---
+
+pitṝtarpaṇe pitṝṇāṃ tṛptirbahuvārṣikī bhavati ।
+śāmyantyadbhutānyapi sarpāṇḍajākhuvṛścikaviṣāṇi ।
+salilāgnivairitaskarabhayāni bhīmāni naśyanti ।।

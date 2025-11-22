@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 468 | label: meter | g:0.25 m:0.808 ---
+
+pulstya uvāca ।
+ityevamuktvā vacanaṃ devāgre dānaveśvaraḥ ।
+śiraḥsnātastadā tasthau gṛṇan brahma sanātanam ।।

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 648 | label: grammar | g:0.75 m:0.5 ---
+
+rājovāca ।। asti kaś cid upāyo yenāmī madviṣayāntam āvaseyur ity amātyo abravīt ।। asti mahārāja yadi megharājā prārthyate tadanvabhyarthitāḥ kilāmī tvadviṣayam alaṃ kurvantyaḥ prāpnuvanti ceti ।। atha bodhisattvaḥ puṇyeṣv ādaropadarśanārtham amātyān āha ।। tena hi bhavantaḥ sajjīkuruta ।। tadanurūpamānapātraṃ svayam evāhaṃ gatvā meghaṃ rājānam asminn arthe vijñāpayiṣyāmīty adhvasaṃbhrāntās te puruṣā bodhisattvam āhuḥ ।। nārhati devo dūtamātrasādhye prayojane khedam āpattum ।।

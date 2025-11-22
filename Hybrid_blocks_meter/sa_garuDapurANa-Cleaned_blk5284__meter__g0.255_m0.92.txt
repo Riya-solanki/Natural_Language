@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5284 | label: meter | g:0.255 m:0.92 ---
+
+etairghṛtaṃ yathālābhaṃ sarvarogavimardanam ।
+balāśatakaṣāye tu tailasyārdhāḍhakaṃ pacet ।
+kalkairmadhūkamañjiṣṭhācandanotpalapadmakaiḥ ।।

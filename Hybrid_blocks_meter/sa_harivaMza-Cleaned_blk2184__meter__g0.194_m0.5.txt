@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2184 | label: meter | g:0.194 m:0.5 ---
+
+ṣaḍgarbhāṇāṃ varaṃ dasttvā svayaṃbhūs tridivaṃ gataḥ 
+tato hiraṇyakaśipuḥ saroṣo vākyam abravīt ।।

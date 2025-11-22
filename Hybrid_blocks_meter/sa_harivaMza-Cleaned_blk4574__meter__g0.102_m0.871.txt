@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4574 | label: meter | g:0.102 m:0.871 ---
+
+avaśyaṃ tu mayā vācyaṃ leśamātreṇa bhārata 
+viṣṇor atulavīryasya prathitodārakarmaṇaḥ 
+ānupūrvyā pravakṣyāmi śṛṇuṣvaikamanā nṛpa ।।

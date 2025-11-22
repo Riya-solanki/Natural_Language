@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1887 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ mithyādṛṣṭiparamāṇyavadyānīti viśeṣeṇānukampyāḥ satāṃ dṛṣṭivyasanagatāḥ । evaṃ saddharmaśravaṇaṃ paripūrṇāṃ śraddhāṃ paripūrayatītyevamapyupaneyam । evaṃ parato dharmaśravaṇaṃ samyagdṛṣṭyutpādapratyayo bhavatītyevamapyupaneyam । evamāsādanāmapi santastaddhitopadeśena pratinudanti kṣamāparicayānna pāruṣyeṇeti satpraśaṃsāyāṃ kṣāmāvarṇe api vācyam । saṃvegādevamāśu śreyobhimukhatā bhavatīti saṃvegakathāyāmapi vācyamiti ।

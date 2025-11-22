@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5856 | label: meter | g:0.328 m:0.595 ---
+
+śaṅkhaḥ padmaṃ ca śatrubhyaḥ śārṅgaṃ vai garuḍastathā ।
+buddhīndriyamanaḥ prāṇānpāntu pārśvavibhūṣaṇaḥ ।।

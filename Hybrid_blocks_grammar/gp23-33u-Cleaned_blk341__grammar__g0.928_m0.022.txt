@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 341 | label: grammar | g:0.928 m:0.022 ---
+
+rādhe, maiṣīr draṣṭum anaṅgam । tasya tu paśya gaṇaṃ kṛta-sat-kṛta-sukṛta-sulambhita-saṅgam ।।
+taru-vallī-tati-dampati-pallī bhavatīm atithīyantī । ākārayati calan-nava-pallava-pāṇibhir ātmīyantī ।। sā punar iha kusumāni kirati pathi racayitum āstara-caryām । kokila-kulam api tava hūtiṃ kila kalam anu kalayati varyām ।। bhrūṅkāreṇa ca bherī-śabdaṃ bhramarā vidadhati sa-sukham । śikhi-śatam api bata tanute nartanam abhitaś cālī-pramukham ।। nija-ruci-dīpaṃ paritaḥ prathayati so' yaṃ rajanī-svāmī । eṣa ca panthāḥ svaṃ vistṛtavāṃs tvat-pada-rajasāṃ kāmī ।। ।। ।

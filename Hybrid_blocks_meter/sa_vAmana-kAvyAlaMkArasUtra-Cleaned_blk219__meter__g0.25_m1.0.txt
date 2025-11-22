@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 219 | label: meter | g:0.25 m:1.0 ---
+
+avihitthavalitajadhanaṃ vivartitābhimukhakucataṭaṃ sthitvā ।
+avalokito'hamanayā dakṣiṇakarakalitahāralatam ।।

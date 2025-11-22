@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 646 | label: grammar | g:0.75 m:0.5 ---
+
+[evam] ityuktakrameṇa yo brūte vyākurute। [yaḥ] yaśca adhīte śṛṇoti tau [ubhau] dvāvapi guruśiṣyau [hatakalmaṣau] nirastapāpau [loke] jagati [dīptaṃ] śubhraṃ yaśaḥ prāpya uttarakālaṃ [śāṃkaraṃ dhāma] parameśvaratejo viśetāṃ tatsāyujyaṃ gacchetām।।

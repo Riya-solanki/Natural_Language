@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 598 | label: meter | g:0.25 m:0.5 ---
+
+śabdasyārthapratyāyayakatvaṃ svābhāvikamiti yadaktaṃ tadākṣipyate- śabdasyānityatvāt, na hyabhinavasya śabdasya

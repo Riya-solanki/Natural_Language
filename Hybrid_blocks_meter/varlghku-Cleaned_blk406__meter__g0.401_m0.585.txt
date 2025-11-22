@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 406 | label: meter | g:0.401 m:0.585 ---
+
+pūrvo abhyāsaḥ ।।
+atra ye dve vihite tayoḥ pūrvo abhyāsasaṃjñaḥ syāt ।।

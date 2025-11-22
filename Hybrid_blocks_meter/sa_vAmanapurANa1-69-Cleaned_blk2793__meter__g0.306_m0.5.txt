@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2793 | label: meter | g:0.306 m:0.5 ---
+
+tamāpatantaṃ kuliśena nandī bibheda guhyaṃ piśuno yathā naraḥ ।
+tatprāsamālakṣya tadā nikṛttaṃ saṃvarttya muṣṭiṃ gaṇamāsasāda ।।

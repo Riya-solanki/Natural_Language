@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 765 | label: hybrid | g:0.528 m:0.448 ---
+
+svecchātaḥ karmasādhanaprajādityāliṅgācca vidyā svatantraphaletyāha-kāmeti ।
+tadetadbrahma yeṣāṃ no asmākaṃ ayamaparokṣa ātmā ayameva lokaḥ puruṣārthaste vayaṃ kiṃ prajādinā kariṣyāma ityālocya karma tyaktavanta ityarthaḥ ।
+nanvayaṃ loka iti jñānaphalasya pratyakṣatvoktirayuktā karmaphalavadadṛṣṭatvādityata āha-anubhaveti ।।

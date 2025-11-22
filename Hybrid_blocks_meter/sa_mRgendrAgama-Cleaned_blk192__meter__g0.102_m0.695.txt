@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 192 | label: meter | g:0.102 m:0.695 ---
+
+prākṛto dehasaṃyoge vyaktaḥ svapnādibodhavat 
+svargo muktiḥ prakṛtitvā- vighātau yonikrāntirnirayāvāptibandhau 
+rūpeṣvarthā vainayaprākṛteṣu sampadyante savighātāḥ krameṇa ।।

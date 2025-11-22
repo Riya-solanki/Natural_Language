@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 485 | label: grammar | g:0.708 m:0.5 ---
+
+tadyathā jāryaṃ vastu jārayitvā raso vastreṇa gālyate tato yadi kiṃcidvastre śeṣaṃ vigālya tiṣṭhati tadā jñeyo'sau garbha iti ।।

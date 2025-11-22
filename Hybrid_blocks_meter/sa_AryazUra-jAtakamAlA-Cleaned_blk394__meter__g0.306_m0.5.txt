@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 394 | label: meter | g:0.306 m:0.5 ---
+
+duḥkhaṃ sukhaṃ vā yadabhūtprajānāṃ tasyāpi rājñastadabhūttathaiva ।
+ataḥ prajārakṣaṇadakṣiṇo asau śastraṃ ca śāstraṃ ca parāmamarśa ।।

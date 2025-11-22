@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3528 | label: meter | g:0.194 m:0.625 ---
+
+etāni śaśikalpāni narāṇāṃ vijigīṣatām 
+chatrāṇy ārya virājante procchritāni sitāni ca ।।

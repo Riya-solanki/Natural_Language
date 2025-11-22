@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 239 | label: meter | g:0.25 m:0.5 ---
+
+cittasyāvikṛtiḥ sattvaṃ vikṛteḥ kāraṇe sati ।
+tatrādyā vikriyā bhāvo bījasyādi-vikāravat ।। iti ।

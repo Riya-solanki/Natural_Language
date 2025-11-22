@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 724 | label: meter | g:0.24 m:0.918 ---
+
+sahyādrer vilasattamālaharitāḥ prasthāḥ prahāṇakṣamā
+niḥśabdākṣaradacchanirjharajalaprakṣālitaprastarāḥ ।
+saṃnyastavyavahāraśāntamanasāṃ janmaprabandhadviṣām
+āryāṇām anapāyinīṃ vidadhati pratyātmaveśāṃ ratiṃ ।।

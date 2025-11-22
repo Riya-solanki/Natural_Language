@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 185 | label: meter | g:0.25 m:1.0 ---
+
+bhūyaḥ paribhavaklāntilajjāvidhuritānanam ।
+aniḥśeṣitakauravyaṃ na paśyasi vṛkodaram ।।

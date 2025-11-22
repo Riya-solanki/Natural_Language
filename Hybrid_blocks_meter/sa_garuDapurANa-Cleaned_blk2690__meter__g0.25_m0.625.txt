@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2690 | label: meter | g:0.25 m:0.625 ---
+
+evamenaḥ śamaṃ yāti bījagarbhasamudbhavam ।
+tūṣṇa īmetāḥ kriyāḥ strīṇāṃ vivāhaśca samantrakaḥ ।।

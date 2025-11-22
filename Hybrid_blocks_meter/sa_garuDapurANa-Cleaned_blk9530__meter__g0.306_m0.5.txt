@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9530 | label: meter | g:0.306 m:0.5 ---
+
+saṃnyāsaṃ kurute yastu tīrthe vāpi gṛhe api vā ।
+kathaṃ tasya prakartavyamaprāptanidhane api vā ।।

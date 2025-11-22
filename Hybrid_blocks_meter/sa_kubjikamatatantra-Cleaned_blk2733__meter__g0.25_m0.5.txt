@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2733 | label: meter | g:0.25 m:0.5 ---
+
+khaṇḍikā pañcamī jñeyā pañca devyā udāhṛtāḥ 
+mātaṅgī ca pulindā ca śabarī campakā tathā ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2019 | label: grammar | g:0.75 m:0.5 ---
+
+alaṃ cātra devasya madatyayāśaṅkayā । kā hi tasya śaktirasti māmevamabhigataṃ vihiṃsitumiti । evamanunīya ca mahatmā pitaraṃ vinivāraṇasodyamaṃ ca vinivartya praṇayyijanamanuraktaṃ ca balakāyamekākī vigatabhayadainayaḥ satyānurakṣī lokahitārthaṃ saudāsamabhivineṣyaṃstanniketamabhijagāma ।

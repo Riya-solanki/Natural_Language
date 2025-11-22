@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 963 | label: meter | g:0.194 m:0.625 ---
+
+aṅgaputro mahān āsīd rājendro dadhivāhanaḥ 
+dadhivāhanaputras tu rājā divirathas tathā ।।

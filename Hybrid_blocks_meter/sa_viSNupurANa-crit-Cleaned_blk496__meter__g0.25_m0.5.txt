@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 496 | label: meter | g:0.25 m:0.5 ---
+
+ādyo yajñaḥ pumān īḍyo yaḥ pūrveṣāṃ ca pūrvajaḥ 
+taṃ natāḥ smo jagatsraṣṭuḥ sraṣṭāram aviśeṣaṇam ।।

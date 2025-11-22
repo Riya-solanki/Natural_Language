@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 994 | label: meter | g:0.316 m:0.5 ---
+
+analasajavāpuṣpotpīḍacchavi prathamaṃ tataḥ samadayavanīgaṇḍacchāyaṃ punar madhupiṅgalam ।
+tadanu ca navasvarṇādarśaprabhaṃ śaśinas tatas taruṇatagarākāraṃ bimbaṃ vibhāti nabhastale ।।

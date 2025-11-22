@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2353 | label: meter | g:0.25 m:0.625 ---
+
+dvārapālāstu kartavyā dvāramadhyacatuṣṭaye ।
+ataḥ paraṃ pravakṣyāmi maṇḍale vidhivistaraṃ ।।

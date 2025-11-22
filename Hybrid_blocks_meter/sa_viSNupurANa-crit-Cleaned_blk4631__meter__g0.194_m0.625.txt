@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4631 | label: meter | g:0.194 m:0.625 ---
+
+vasudevasutau tatra viṣṇor aṃśasamudbhavau 
+nāśāya kila saṃbhūtau mama duṣṭau pravardhataḥ ।।

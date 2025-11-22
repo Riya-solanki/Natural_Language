@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 724 | label: meter | g:0.194 m:0.625 ---
+
+bhavate nātra sandeha iti mātā surakṣitā 
+hṛdayādyastraparyantam ekoccāreṇa suvrate ।।

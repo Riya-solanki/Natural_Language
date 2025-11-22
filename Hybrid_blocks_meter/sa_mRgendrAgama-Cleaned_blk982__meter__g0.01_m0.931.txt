@@ -1,0 +1,5 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 982 | label: meter | g:0.01 m:0.931 ---
+
+sākṣādālocanaṃ śambhor atyutpāvanamuttamam 
+nālpakāloṣitāyaitad deyaṃ nātipramādine 
+nāmedhine nātapase yaśca nābhyarcayecchivam ।। MT

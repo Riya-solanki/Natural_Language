@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 65 | label: grammar | g:0.75 m:0.5 ---
+
+anayorlakṣyasya lakṣakasya ca na bhedarūpaṃ tāṭasthyam । taṭādīnāṃ gaṅgādiśabdaiḥ pratipādane tattvapratipattau hi pratipipādayiṣitaprayojanasaṃpratyayaḥ । gaṅgāsaṃbandhamātrapratītau tu gaṅgātaṭe ghoṣa iti mukhyaśabdābhidhānāllakṣaṇāyāḥ ko bhedaḥ ।।

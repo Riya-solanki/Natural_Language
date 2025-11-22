@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 616 | label: meter | g:0.306 m:0.5 ---
+
+pratyānanaṃ rājitagaṇḍamadhyaṃ subhīṣaṇaṃ bhairavamastakaṃ kim ।
+tvayā naceduttaramapradattaṃ rājan na jānāti bhavān bhavantam ।।

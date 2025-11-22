@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 28 | label: grammar | g:0.75 m:0.5 ---
+
+athaivamukte vajradhāturmahābodhisattvastathāgatamātmānamabhisambudhya, tān sarvatathāgatān praṇipatyāhū yaivamāha "adhitiṣṭhata māṃ bhagavantastathāgatā imāmabhisaṃbodhiṃ dṛḍhīkuruta ceti" । athaivamukte sarvatathāgatā vajradhātostathāgatasya tasmin sattvavajre praviṣṭā iti ।।

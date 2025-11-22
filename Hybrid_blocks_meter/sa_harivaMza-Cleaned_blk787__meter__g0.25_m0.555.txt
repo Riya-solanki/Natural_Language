@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 787 | label: meter | g:0.25 m:0.555 ---
+
+dāridryam anapākṛtya putrārthāṃś caiva puṣkalān 
+kāmān abhīpsitān sarvān mama kṛtvādya putrakāḥ । 
+śuśrūṣām aprayuktvā ca kathaṃ vai gantum arhatha ।।

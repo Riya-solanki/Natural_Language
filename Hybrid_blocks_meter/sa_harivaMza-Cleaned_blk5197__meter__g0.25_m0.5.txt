@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5197 | label: meter | g:0.25 m:0.5 ---
+
+ity etad ākhyānam udāhṛtaṃ vaḥ pratismaranto dvijamaṇḍaleṣu 
+sthairyeṇa jātena punaḥ smarantaḥ sukhaṃ bhavanto vicarantu lokam ।।

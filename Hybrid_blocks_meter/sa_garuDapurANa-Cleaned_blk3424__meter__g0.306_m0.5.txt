@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3424 | label: meter | g:0.306 m:0.5 ---
+
+lālane bahavo doṣāstāḍane bahavo guṇāḥ ।
+tasmācchiṣyaṃ ca putraṃ ca tāḍayenna tu lālayet ।।

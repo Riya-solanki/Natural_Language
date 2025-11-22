@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 504 | label: meter | g:0.194 m:0.5 ---
+
+kāmato dviguṇaṃ devi kartavyaṃ siddhim icchatā 
+trikhaṇḍā yādṛśaṃ proktaṃ prāyaścittaṃ kulānvaye ।।

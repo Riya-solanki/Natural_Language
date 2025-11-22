@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4669 | label: meter | g:0.194 m:0.5 ---
+
+dvādaśyāṃ śuklapakṣasya vaiśākhe māsi yo niśi 
+harmye śayānāṃ rudatīṃ strībhāvam upaneṣyati ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2728 | label: meter | g:0.25 m:0.5 ---
+
+tasmāt parataraṃ loke nānyad dharma hi vidyate ।
+sāttvikaṃ rājasaṃ caiva tāmasaṃ miśrakaṃ tathā ।
+sa eva dhatte bhagavān sarvapūjyaḥ sadāśivaḥ ।।

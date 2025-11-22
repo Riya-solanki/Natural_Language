@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 313 | label: meter | g:0.306 m:0.5 ---
+
+sa eko jayatān māna-mātaṅgo vraja-subhruvām ।
+hariṇā nirjitasyāpi yasya vīryād bibhīyate ।। [anuṣṭubh] ।।

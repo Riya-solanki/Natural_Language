@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5977 | label: meter | g:0.25 m:0.625 ---
+
+asaṃhatā ye ca vāhā hrasvakarṇāstathaiva ca ।
+śabalābhāḥ prabhāveṣu na dīnāścirajīvinaḥ ।।

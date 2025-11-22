@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10193 | label: meter | g:0.306 m:0.5 ---
+
+tvamutkṛṣṭaḥ sarvadevottamatvānna tvatsamaḥ kaścidevādhiko vā ।
+tvaṃ brahma eko na caturmukhaśca nāhaṃ rudro na bṛhaspatiśca ।।

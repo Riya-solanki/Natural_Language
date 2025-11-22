@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3023 | label: meter | g:0.25 m:0.625 ---
+
+prete pitṛtvam āpanne sapiṇḍīkaraṇād anu 
+kriyante yāḥ kriyāḥ pitryāḥ procyante tā nṛpottarāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 937 | label: meter | g:0.0 m:0.625 ---
+
+pārṣṇibhyāṃ vṛṣaṇau rakṣan dantairdantānasaṃspṛśan 
+viṣṭabhadeho dantāgre jihvāmādāya susthitaḥ ।। MT

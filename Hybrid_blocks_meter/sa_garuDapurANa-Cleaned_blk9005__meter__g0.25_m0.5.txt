@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9005 | label: meter | g:0.25 m:0.5 ---
+
+tato bale samāyāte dattvā rājñe mahāmaṇim ।
+namaskṛtya punaḥ prārthya preto adarśanamīyivān ।।

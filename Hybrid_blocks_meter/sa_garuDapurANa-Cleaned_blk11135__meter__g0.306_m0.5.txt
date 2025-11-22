@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11135 | label: meter | g:0.306 m:0.5 ---
+
+pāṇigrāhaṃ rudradevo mahātmā yadā himādreḥ kanyakāyāścakāra ।
+tasyāṃ paraṃ laṃpaṭaḥ saṃbabhūva ato rudraḥ parasaṃjñāmavāpa ।।

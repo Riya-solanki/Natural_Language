@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4330 | label: meter | g:0.25 m:0.667 ---
+
+tatas tad vasu govindo dideśāndhakavṛṣṇiṣu 
+yathārhaṃ puṇḍarīkākṣo vidhivan madhusūdanaḥ ।। 
+namaskṛtya jagannathaṃ śirasā suprasāriṇā । 
+yādavāś ca dhanaṃ prāpya vidhivad bhūridakṣiṇaiḥ 
+yajñair iṣṭvā mahātmāno dvārakām āvasan purīm ।।

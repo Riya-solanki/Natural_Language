@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3022 | label: meter | g:0.194 m:0.625 ---
+
+ādāhavāryāyudhādisparśādyantās tu yāḥ kriyāḥ 
+tāḥ pūrvā madhyamā māsi māsy ekoddiṣṭasaṃjñitāḥ ।।

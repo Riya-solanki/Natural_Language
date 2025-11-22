@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 989 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tīrṇāsu goṣu tathā karṇīrathād avatīrṇāsu parijana-paricchada-sahitāsu gopa-vanitāsu, kāśa-kuśa-śara-vaṃśa-varair alaṅkarmīṇa-nirmita-paraspara-naddha-plava-rājī rāja-paddhatir ivāsambādhatayā sādhitā । [] tataś ca pārāvārīṇa-bhūmyor ekatāyāṃ kṛtāyām avārīṇam iva pārīṇam madhupurī-kālīya-hradayor antarālaṃ tad vana-bhāgaṃ sarva eva gāyantaḥ prahasantaḥ krīḍantaś ca śakaṭa-ghaṭayāpi praviviśuḥ । tad evam evoktam,

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 601 | label: meter | g:0.25 m:0.625 ---
+
+naimiṣe munayaḥ sthitvā śaunakādyāstapodhanāḥ ।
+te pṛcchanti mahātmānaṃ paurāṇaṃ lomaharṣaṇam ।।

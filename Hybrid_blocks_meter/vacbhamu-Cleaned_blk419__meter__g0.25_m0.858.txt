@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 419 | label: meter | g:0.25 m:0.858 ---
+
+dyubhvādyāyatanaṃ svaśabdāt ।
+iha jñeyatvena brahmopakṣipyate ।
+tatra apāravattvena setutvādbhede ṣaṣṭhyāḥ prayogataḥ ।

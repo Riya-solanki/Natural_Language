@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2406 | label: meter | g:0.25 m:0.5 ---
+
+viṃśatiṃ yauvanasthāyī vīryeṇa dviguṇaṃ tataḥ ।
+pañcavarṣaśatān bālo bhokṣyase bandhanaṃ dṛḍham ।।

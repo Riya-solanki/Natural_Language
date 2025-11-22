@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4989 | label: meter | g:0.194 m:0.5 ---
+
+iyaṃ hi prakṛtir doṣais tamasā yujyate sadā 
+rajasā vāpi saṃduṣṭā tato mohaḥ pravartate ।।

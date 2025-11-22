@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 116 | label: grammar | g:0.604 m:0.5 ---
+
+ajādikendre sarveṣāṃ śaighrye mānde ca karmaṇi। dhanaṃ grahāṇāṃ liptādi tulādāv rṇam eva ca।।

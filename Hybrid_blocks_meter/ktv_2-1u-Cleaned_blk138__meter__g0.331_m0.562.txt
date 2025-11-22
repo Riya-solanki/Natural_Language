@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 138 | label: meter | g:0.331 m:0.562 ---
+
+tasmāt sakarmakākarmakayor aviśeṣāt āsanena bhāvayet ity api prayogasiddhiḥ ।
+kas tarhi sakarmakākarmakayor bhedaḥ ।
+ucyate ।

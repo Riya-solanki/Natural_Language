@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6407 | label: meter | g:0.194 m:0.5 ---
+
+tad ekāvayavaṃ devaṃ cetasā hi punar budhaḥ 
+kuryāt tato avayavini praṇidhānaparo bhavet ।।

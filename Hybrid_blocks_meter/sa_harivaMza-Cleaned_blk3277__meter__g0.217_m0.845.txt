@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3277 | label: meter | g:0.217 m:0.845 ---
+
+prāṅmukhaiś cārunirmuktaiḥ mālyadāmāvataṃsitaiḥ 
+alaṃkṛtair virājadbhiḥ śāradair iva toyadaiḥ ।।

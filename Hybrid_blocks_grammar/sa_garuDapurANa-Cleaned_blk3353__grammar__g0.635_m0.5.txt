@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3353 | label: grammar | g:0.635 m:0.5 ---
+
+kiṃ citraṃ yadi veda śāstrakuśalo vipro bhavetpaṇḍitaḥ kiṃ citraṃ yadi daṇḍanītikuśalo rājā bhaveddhārmikaḥ ।
+kiṃ citraṃ yadi rūpayauvanavatī sādhvī bhavetkāminī taccitraṃ yadi nirdhano api puruṣaḥ pāpaṃ na kuryātkracit ।।

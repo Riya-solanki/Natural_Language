@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1428 | label: meter | g:0.253 m:0.688 ---
+
+pulastya uvāca ।
+tatastu tapasā vṛddhā devyāḥ somaprabhā sakhī ।
+bhikṣave kathayāmāsa yathāvat sā hi nārada ।।

@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 8 | label: hybrid | g:0.51 m:0.5 ---
+
+jaṭā na śūdro vibhṛyān nājño nāpi pramādavān ।
+na yoṣinna vayontasthā na rogī vikalo api vā ।

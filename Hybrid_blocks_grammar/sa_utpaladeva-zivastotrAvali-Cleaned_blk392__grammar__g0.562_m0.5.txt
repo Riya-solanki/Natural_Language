@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 392 | label: grammar | g:0.562 m:0.5 ---
+
+namas tebhyo vibho yeṣāṃ bhaktipīyūṣavāriṇā pūjyāny eva bhavanti tvatpūjopakaraṇāny api ।।

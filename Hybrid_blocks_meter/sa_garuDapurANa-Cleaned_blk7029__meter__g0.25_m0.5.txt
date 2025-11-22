@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7029 | label: meter | g:0.25 m:0.5 ---
+
+tasyaiva brahmaṇā proktaṃ dhyānaṃ dvādaśa dhāraṇāḥ ।
+tuṣyeta niyato yuktaḥ samādhiḥ so abhīdhīyate ।।
+dhyāyanna calate yasya manobhidhyāyato bhṛśam ।।
+prāpyāvadhikṛtaṃ kālaṃ yāvatsā dhāraṇā smṛtā ।
+dhyeye saktaṃ mano yasya dhyeyamevānupaśyati ।।

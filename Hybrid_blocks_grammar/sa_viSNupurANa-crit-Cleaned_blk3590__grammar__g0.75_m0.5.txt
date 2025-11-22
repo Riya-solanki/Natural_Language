@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3590 | label: grammar | g:0.75 m:0.5 ---
+
+so api tatkālam evānyair gautamādibhir yāgam akārayat । samāpte cāmarapater yāge tvarāvān vasiṣṭho nimeḥ karma kariṣyāmīty ājagāma । tatkarmakartṛtvaṃ ca tatra gautamasya dṛṣṭvātha svapate tasmai rājñe mām apratyākhyāyaitad anena gautamāya karmāntaraṃ samarpitaṃ yasmāt tasmād ayaṃ videho bhaviṣyatīti śāpaṃ dadau ।।

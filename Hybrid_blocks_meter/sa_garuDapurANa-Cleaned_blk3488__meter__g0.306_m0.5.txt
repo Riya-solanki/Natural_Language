@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3488 | label: meter | g:0.306 m:0.5 ---
+
+sthānasthitāni pūjyante pūjyante ca pade sthitāḥ ।
+sthānabhraṣṭā na pūjyante keśā dantā nakhā narāḥ ।।

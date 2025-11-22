@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 120 | label: hybrid | g:0.517 m:0.5 ---
+
+imi mārakarma bhaviṣyanti ya tasmi kāle anye ca neka vividhā bahu antarāyā 
+yehī samākulikṛtā bahu bhikṣu tatra prajñāya pāramita etu na dhārayanti ।।

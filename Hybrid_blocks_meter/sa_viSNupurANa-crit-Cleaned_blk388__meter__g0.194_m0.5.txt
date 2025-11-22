@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 388 | label: meter | g:0.194 m:0.5 ---
+
+dakṣo marīcir atriś ca bhṛgvādyāś ca prajeśvarāḥ 
+jagaty atra mahābhāga nityaṃ sargasya hetavaḥ ।।

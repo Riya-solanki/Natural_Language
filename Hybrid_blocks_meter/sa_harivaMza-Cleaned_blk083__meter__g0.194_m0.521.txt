@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 83 | label: meter | g:0.194 m:0.521 ---
+
+sa sṛṣṭvā manasā dakṣaḥ palścād asṛjata striyaḥ 
+tadā prajāvivṛddhyarthaṃ mahātejāḥ prajāpatiḥ । 
+dadau sa daśa darmāya kaśyapāya trayodaśa 
+śiṣṭāḥ somāya rājñe tu nakṣatrākhyā dadau prabhuḥ ।।

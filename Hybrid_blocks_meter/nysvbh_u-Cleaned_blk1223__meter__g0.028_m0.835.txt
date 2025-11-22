@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1223 | label: meter | g:0.028 m:0.835 ---
+
+yathā aayaṃ tanturayaṃ tantuḥ' iti pratyekaṃ
+tantuṣu vivicyamāneṣu nārthāntaraṃ kiñcidupalabhyate
+yat paṭabuddherviṣayaḥ syāt yāthātmyānupalabdheḥ,
+asati viṣaye paṭabuddhirbhavantī mithyābuddhirbhavati,
+evaṃ sarvatreti ।।

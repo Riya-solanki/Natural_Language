@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10059 | label: meter | g:0.306 m:0.625 ---
+
+sarvamākhyātavāṃstāta śruto bhagavato yathā ।
+mārīco api mudaṃ lebhe śrutvā vākyaṃ ramāpateḥ ।।

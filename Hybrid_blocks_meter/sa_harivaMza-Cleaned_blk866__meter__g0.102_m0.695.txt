@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 866 | label: meter | g:0.102 m:0.695 ---
+
+prasahya dharṣitas tatra vivaśo rājayakṣmaṇā 
+tato yakṣmābhibhūtas tu somaḥ prakṣīṇamaṇḍaḥ 
+jagāma śaraṇāyātha pitaraṃ so atrim eva ca ।।

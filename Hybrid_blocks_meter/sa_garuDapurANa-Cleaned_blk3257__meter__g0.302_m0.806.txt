@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3257 | label: meter | g:0.302 m:0.806 ---
+
+buddhimānmatimāṃścaiva paracittopalakṣakaḥ ।
+krūro yathoktavādī ca eṣa dūto vidhīyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3463 | label: meter | g:0.25 m:0.75 ---
+
+parokṣe kāryahantāraṃ pratyakṣe priyavādinam ।
+varjayettādṛśaṃ mitraṃ māyāmayamariṃ tathā ।।

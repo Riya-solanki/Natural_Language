@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 682 | label: grammar | g:0.729 m:0.5 ---
+
+atha te tasya rājñaḥ sacivāḥ paramamiti pratigṛhya tadvacanaṃ sarveṣu grāmanagaranigameṣu mārgaviśrāmapradeśeṣu ca dānaśālāḥ kārayitvā yathāsandiṣṭaṃ rājñā pratyahamarthijanamabhilaṣitairarthavisargaiḥ santarpayāmāsuḥ ।

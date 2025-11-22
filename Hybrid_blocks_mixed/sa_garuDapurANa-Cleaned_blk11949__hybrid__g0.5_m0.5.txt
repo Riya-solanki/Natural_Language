@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11949 | label: hybrid | g:0.5 m:0.5 ---
+
+yudhiṣṭhirasyaiva babhūva patnīsaṃbhāvitā tatra ca devakī sā ।
+candrasya bhāryā rohiṇī vai tadeyamaśvinyādibhyo ahyadhikā sarvadaiva ।।

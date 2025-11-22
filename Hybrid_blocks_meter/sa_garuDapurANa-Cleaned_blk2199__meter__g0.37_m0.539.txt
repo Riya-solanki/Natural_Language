@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2199 | label: meter | g:0.37 m:0.539 ---
+
+kākā śvarāsabhasṛgālavṛkograrūpairgṛdhraiḥ samāṃsarudhirārdramukhairupetāḥ ।
+mṛtyupradāśca viduṣā parivarjanīyā mūlyaṃ palasya kathitaṃ ca śatāni pañca ।।

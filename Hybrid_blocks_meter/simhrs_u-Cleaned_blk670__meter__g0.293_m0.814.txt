@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 670 | label: meter | g:0.293 m:0.814 ---
+
+iṣṭa-vastv-alābhena, yathā-
+īsi-baliābaṇaā se kūṇita-pakkhaṃtatāraa tthimiā ।
+diṭṭhī kapola-pālī ṇihiā kara-pallave mano suṇṇaṃ ।।

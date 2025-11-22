@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6954 | label: meter | g:0.25 m:0.75 ---
+
+namaste rukmiṇīkānta namaste ditinandana ।
+namaste gokulāvāsa namaste gokulapriya ।।

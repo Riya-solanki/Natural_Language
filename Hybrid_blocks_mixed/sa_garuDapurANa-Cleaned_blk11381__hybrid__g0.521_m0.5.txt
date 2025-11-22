@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11381 | label: hybrid | g:0.521 m:0.5 ---
+
+pitrā sākaṃ sā tu kanyā khagendra vairāgyayuktā śravaṇātsaṃbabhūva ।
+keśaṃ ca mitraṃ dviradādikaṃ ca anarghyaratnāni gṛhādikaṃ ca ।।

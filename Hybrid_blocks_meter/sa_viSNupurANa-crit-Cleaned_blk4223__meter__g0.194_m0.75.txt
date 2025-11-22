@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4223 | label: meter | g:0.194 m:0.75 ---
+
+parṇaśayyāsu saṃsuptau kvacin nidrāntaraiṣiṇau 
+kvacid garjati jīmūte hāhākāraravādṛtau ।।

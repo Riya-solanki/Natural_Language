@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4472 | label: meter | g:0.323 m:0.887 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+atīsāragrahaṇyośca nidānaṃ vacmi suśruta ।
+doṣairvyastaiḥ samastaiśca bhayācchokācca ṣaḍvidhaḥ ।।

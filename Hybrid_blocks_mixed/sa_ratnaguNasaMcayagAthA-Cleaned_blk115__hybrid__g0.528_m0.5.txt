@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 115 | label: hybrid | g:0.528 m:0.5 ---
+
+kāṅkṣā ca keṣaci bhaviṣyati bhāṣamāṇe na mamātra nāma parikīrtitu nāyakena 
+na ca jāti bhūmi parikīrtitu nāpi gotraṃ na ca so śruṇiṣyati kṣipiṣyati mārakarma ।।

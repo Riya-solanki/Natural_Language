@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 33 | label: hybrid | g:0.528 m:0.5 ---
+
+asitagirisamaṃ syāt kajjalaṃ sindhupātre surataruvaraśākhā lekhanī patram urvī ।
+likhati yadi gṛhītvā śāradā sarvakālaṃ tad api tava guṇānām īśa pāraṃ na yāti ।। Smstadd

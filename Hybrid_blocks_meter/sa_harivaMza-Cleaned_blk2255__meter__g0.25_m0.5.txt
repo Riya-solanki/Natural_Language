@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2255 | label: meter | g:0.25 m:0.5 ---
+
+niśamya devakīvākyaṃ sa kaṃsaḥ svam niveśanam 
+praviveśa susaṃrabdho dahyamānena cetasā । 
+kṛtye pratihate dīno jagāma vimanā bhṛśam ।। 
+svavadhaṃ cintyamānas tu kanyāvākyam anusmaran । 
+prāg eva vasudevas tu vraje śuśrāva rohiṇīm 
+prajātāṃ putram evāgre candrāt kāntatarānanam ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 697 | label: grammar | g:0.573 m:0.5 ---
+
+mā rodīḥ sakhi naśyadandhatamasaṃ paśyāmbaraṃ jyotsnatā śītāṃśuḥ sudhayā vilimpati sakhā rājño manojanmanaḥ ।
+kaḥ kopāvasaraḥ prasīda rahasi svedāmbhasāṃ bindavo lumpantu stanapatrabhaṅgamakarīḥ saudhāguruśyāmalāḥ ।।

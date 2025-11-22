@@ -1,0 +1,9 @@
+--- source: vacbhamu-Cleaned.txt | block: 878 | label: grammar | g:0.551 m:0.495 ---
+
+naca viduṣamapāntaramaḥprabhṛtīnāṃ tattaddehasaṃtārātsatyāmapi brahmavidyāyāmanirmokṣānna brahmavidyā mokṣasya heturiti sāmpratam ।
+hetorapi sati pratibandhe kāryānupajano na hetubhāvamapakāroti ।
+nahi vṛntaphalasaṃyogapratibaddhaṃ gurutvaṃ na patanamajījanaditi pratibandhāpagame tatkurvanna taddhetuḥ ।
+naca na setupratibandhānāmapāṃ nimnadeśānabhisarpaṇamiti setubhede na nimnamabhisarpanti ।
+tadvadihāpi vidyākarmārādhanāvarjiteśvaravihitādhikārapadapratibaddhā brahmavidyā yadyapi na muktiṃ dattavatī tathāpi tatparisamāptau pratibandhavigame dāsyati ।
+yathā hi prārabdhavipākasya karmaṇaḥ prakṣayaṃ pratīkṣamāṇaścaramadehasamutpannabrahmasākṣātkāro api dhriyate atha tatprakṣayānmokṣaṃ prāpnoti ।
+evaṃ prārabdhādhikāralakṣaṇaphalavidyākarmā puruṣo vasiṣṭhādirvidvānapi tatkṣayaṃ pratīkṣamāṇo yugutkrameṇa vā tattaddehaparigrahaparityāgau kurvanmukto apyanābhogātmikayā prakhyayā sāṃsārika ava viharati ।

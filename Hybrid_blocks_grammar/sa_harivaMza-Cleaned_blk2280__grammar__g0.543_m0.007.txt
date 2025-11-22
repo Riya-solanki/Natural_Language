@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2280 | label: grammar | g:0.543 m:0.007 ---
+
+meghakṛṣṇas tu kṛṣṇo abhūd dehāntaragato hariḥ 
+vyavardhata gavāṃ madhye sāgarasya ivāmbudaḥ ।। 
+vistareṇātha vakṣyāmi bālasya caritaṃ mahat । avadhānaparo bhūtvā śṛṇu rājan yad icchasi ।। sa tatra yogam āsthāya dānavāṃś cāvadhīt kila ।। kaścid danoḥ suto vīraḥ kṛṣṇasya vadhakāṅkṣayā । nandasya priyatām āyāc chākaṭaṃ vapur udvahan । 
+śakaṭasya tv adhaḥ suptaṃ kadācit putragṛddhinī 
+yaśodā taṃ samutsṛjya jagāma yamunāṃ nadīm ।।

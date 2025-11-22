@@ -1,0 +1,9 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9776 | label: meter | g:0.292 m:0.805 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīviṣṇuruvāca ।
+pratyabdaṃ śrāddhamevaṃ te kathayāmi khageśvara ।
+pratyabdaṃ pārvaṇenaiva kuryātāṃ kṣetrajorasau ।।
+vidhinācetarairevamekoddiṣṭaṃ na pārvaṇam ।।
+anagneśca sutau syātāmanagnī kṣetrajorasau ।
+ekoddiṣṭaṃ na kuryātāṃ pratyabdaṃ tau tu pārvaṇam ।।

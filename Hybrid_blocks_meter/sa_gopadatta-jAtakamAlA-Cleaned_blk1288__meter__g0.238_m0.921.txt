@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1288 | label: meter | g:0.238 m:0.921 ---
+
+praśamavidhure nityodvegaprade gṛhacārake
+viṣayamarutā vyādhūtānāṃ hatopaniṣatsukham ।
+uparatajanakṣobhāyāsaprakāmasukhe vane
+vrajati tu manaḥ sadyaḥ śāntiṃ kukāryasamākulam ।।

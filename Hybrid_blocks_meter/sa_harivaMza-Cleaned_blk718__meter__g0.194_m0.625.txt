@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 718 | label: meter | g:0.194 m:0.625 ---
+
+śrāddhasya phalam uddiśya niyataṃ sukṛtasya ca 
+tannibodha mahārāja saptajātiṣu bhārata ।।

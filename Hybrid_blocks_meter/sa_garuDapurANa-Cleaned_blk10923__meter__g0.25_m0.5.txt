@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10923 | label: meter | g:0.25 m:0.5 ---
+
+sṛṣṭiṃ kartuṃ guṇānvīndra puruṣeṇa saha prabho ।
+tamaḥ pānaṃ tathā kartuṃ prakṛtyākhyā tadābhavat ।।

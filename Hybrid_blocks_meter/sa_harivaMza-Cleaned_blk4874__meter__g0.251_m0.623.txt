@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4874 | label: meter | g:0.251 m:0.623 ---
+
+yudhyataḥ prāṅmukhasyāstu suparṇo vai mamāgrataḥ 
+savye pārśve ca pradyumnas tathā me dakṣiṇe bhavān ।।

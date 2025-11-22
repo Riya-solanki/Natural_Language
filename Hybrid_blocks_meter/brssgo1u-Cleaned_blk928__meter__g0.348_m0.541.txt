@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 928 | label: meter | g:0.348 m:0.541 ---
+
+abhidhyopadeśaścātmanaḥ kartṛtvaprakṛtitve gamayati aso akāmayata bahu syāṃ prajāyeyeti' atadaikṣata bahu syāṃ prajāyeya' iti ca ।
+tatrābhidhyānapūrvikāyāḥ svātantryapravṛtteḥ karteti gamyate ।
+bahu syāmiti pratyagātmaviṣayatvādbahubhavanābhidhyānasyaprakṛtirityapi gamyate ।।

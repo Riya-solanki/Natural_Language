@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 411 | label: meter | g:0.272 m:0.595 ---
+
+jīrṇe jīrṇe muhurdadyād aktāṃśaṃ sūtaśodhakaḥ 
+sūtatulyaṃ tv idaṃ jāryaṃ na tu hīnaṃ na cādhikam ।।

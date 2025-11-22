@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 265 | label: meter | g:0.056 m:0.625 ---
+
+yogyena yogyasya tu nitya-saṅgamaḥ
+kasmai na roceta bhṛśaṃ sa-cetase ।
+ratnena hemnaḥ śaradā saro' mbhasaḥ
+sitākhya-pakṣeṇa yathā sudhā-ruceḥ ।। [upajāti ]

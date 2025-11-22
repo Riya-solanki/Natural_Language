@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 977 | label: meter | g:0.056 m:0.521 ---
+
+{prasāde vartasva prakaṭaya mudaṃ saṃtyaja ruṣaṃ
+priye śuṣyantyaṅgānyamṛtamiva te siñcatu vacaḥ ।
+nidhānaṃ saukhyānāṃ kṣaṇamabhimukhaṃ sthāpaya mukhaṃ
+na mugdhe pratyetuṃ prabhavati gataḥ kālahariṇaḥ ।।}

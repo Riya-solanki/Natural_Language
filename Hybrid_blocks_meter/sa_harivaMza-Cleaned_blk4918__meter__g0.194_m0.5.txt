@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4918 | label: meter | g:0.194 m:0.5 ---
+
+pātitāyāṃ mahāśaktyāṃ sādhu sādhv iti sarvaśaḥ 
+siṃhanādaṃ tataś cakruḥ sarve devāḥ savāsavāḥ ।।

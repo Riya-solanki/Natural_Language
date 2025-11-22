@@ -1,0 +1,6 @@
+--- source: tsc_simu-Cleaned.txt | block: 67 | label: grammar | g:0.573 m:0.49 ---
+
+tathāhi praṇavasyākārokāramakārarūpamātrātrayaṃ brahmādidevatātrayātmakamuktvā praṇavaṃ devatātrayātiriktaparabrahmātmakaṃ caturthamātrāṃ śrutaya āmananti ।
+sā caturthī mātrā varṇatrayādatiriktaḥ sphoṭa eva sambhavati saiva cārddhamātretyucyate rāśivadavibhaktayorvarṇapadayorvarṇā ekamarddhaṃ padaṃ cānyadarddhamityupapadyate ।
+yathā cāvayavebhyo vivicyāvayavī na vyavahāryo bhavati evameva pratyekavarṇebhyo vivicya padamuccārayituṃ na śakyata iti ।
+ataḥ smaryate "arddhamātrā sthitā nityā yānuccāryā viśeṣata" iti ।।

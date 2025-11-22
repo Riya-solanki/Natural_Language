@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 101 | label: hybrid | g:0.25 m:0.42 ---
+
+na eṣa doṣaḥ ।
+jvaramaraṇakāryayoḥ api dadhiviṣayoḥ guḍamantrasaṃyuktayoḥ tṛptipuṣṭikāryadarśanāt ।
+tadvat karmaṇaḥ api jñānasaṃyuktasya mokṣakārya upapatteḥ ।

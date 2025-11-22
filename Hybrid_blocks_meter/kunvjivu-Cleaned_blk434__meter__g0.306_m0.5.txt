@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 434 | label: meter | g:0.306 m:0.5 ---
+
+yāte dvāravatī tadā madhuripau taddattakampānatāṃ kālindījalakelivañjulalatāmālambaya sotkaṇṭhayā ।
+tad gītaṃ gurubāṣpagadgadalasattārasvaraṃ rādhayā yenāntarjalacāribhirjalacarairapyutkamutkūjitam ।।

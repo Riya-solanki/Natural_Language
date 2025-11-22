@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 433 | label: meter | g:0.25 m:0.5 ---
+
+pradhānaṃ mahadādikrameṇa kathaṃ pravartata iti tarkasyāviṣaya ityāha-apratarkyamiti ।
+rūpādihīnatvādavijñeyaṃ, sarvato dikṣu prasuptamiva tiṣṭhati jaḍatvādityarthaḥ ।
+atat apradhānaṃ cetanaṃ, tasya dharmāṇāmabhidhānāditi hetvarthaḥ ।।

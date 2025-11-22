@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1390 | label: meter | g:0.25 m:0.5 ---
+
+{kṣīṇaḥ kṣīṇo api śaśī bhūyo bhūyo vivardhate satyam ।
+virama prasīda sundari yauvanamanivarti yātaṃ tu ।।}

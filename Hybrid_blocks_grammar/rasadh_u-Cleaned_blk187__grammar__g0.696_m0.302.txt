@@ -1,0 +1,7 @@
+--- source: rasadh_u-Cleaned.txt | block: 187 | label: grammar | g:0.696 m:0.302 ---
+
+tāmrasya pattraṃ vā cūrṇaṃ kṛtvā tatastāmraṃ dviguṇaṃ śuddhaṃ gandhakacūrṇaṃ kumārīrase nāgo dugdhena vā gāḍhaṃ mṛditvā pūpādvayaṃ ca kṛtvā madhye pūrvakṛtatāmrapattracūrṇaṃ vā kṣiptvā pūpādvayaṃ śarāvasampuṭe muktvā saṃdhau vastramṛttikayā liptvā sarvato mṛttikayā liptvā kaṭāhamadhye śarāvasampuṭe kṣiptvā chāṇakaiśca kaṭāhaṃ bhṛtvā nirjvālanīyaḥ ।।
+tato jvalitvā śītale jāte sati tāmraṃ mṛtaṃ grāhyam ।।
+iti tāmramāraṇavidhiḥ ।।
+yena vidhinā gandhakenātra tāmraṃ māritaṃ tenaiva vidhinā nāgādīni pañca lohāni kārye sati māraṇīyāni ।।
+iti ṣaḍlohamāraṇavidhiḥ ।।

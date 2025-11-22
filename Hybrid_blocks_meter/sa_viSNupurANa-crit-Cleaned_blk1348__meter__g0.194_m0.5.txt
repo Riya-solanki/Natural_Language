@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1348 | label: meter | g:0.194 m:0.5 ---
+
+brahmatve sṛjate viśvaṃ sthitau pālayate punaḥ 
+rudrarūpāya kalpānte namas tubhyaṃ trimūrtaye ।।

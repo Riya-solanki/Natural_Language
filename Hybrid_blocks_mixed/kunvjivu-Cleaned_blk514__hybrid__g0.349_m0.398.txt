@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 514 | label: hybrid | g:0.349 m:0.398 ---
+
+atra "ko api' ityanena sarvanāmapadena tadanubhavaikagocaratvādavyapadeśyatvena sātiśayaḥ śarvasya garva iti kartṛsaṃvṛtiḥ ।
+jayati sarvotkarṣeṇa vartate iti kriyāvaicitryanibandhanam ।

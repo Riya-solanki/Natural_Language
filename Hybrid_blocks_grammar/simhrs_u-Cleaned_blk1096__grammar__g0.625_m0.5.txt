@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1096 | label: grammar | g:0.625 m:0.5 ---
+
+atra vajra-viṣayo bhilla-varga-krodhaḥ svātmākṣepādibhir uddīpitā darpāndha-paruṣa-vāg-ārambhādy-anumitair garvāsūyādibhiḥ paripoṣitaḥ svoṣṭha-pīḍana-śatru-nirodhādibhir anubhāvair abhivyakto raudratayā niṣpadyate ।

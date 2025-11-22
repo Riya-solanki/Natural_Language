@@ -1,0 +1,6 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2504 | label: meter | g:0.25 m:0.521 ---
+
+vajraratnaṃ tu hṛdaye mahāmudrāṃ tu bhāvayet ।
+bhāvayannabhiṣekaṃ tu prāpnoti paramādbhutaṃ ।।
+vajraratnaṃ lalāṭe tu bhāvayaṃ susamāhitaḥ ।
+badhvā vai ratnavajrāntu bhavedrājā tu sarvataḥ ।।

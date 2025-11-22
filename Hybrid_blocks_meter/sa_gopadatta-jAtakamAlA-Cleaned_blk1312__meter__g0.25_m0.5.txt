@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1312 | label: meter | g:0.25 m:0.5 ---
+
+sudurlabham darśanam asya sarvathā vilocanaprītikarasya dehinām ।
+vilepur ity udgataśokakātarāḥ pragāḍhaśokā munayo vanaukasaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 914 | label: meter | g:0.306 m:0.5 ---
+
+kiraṇair iva śuklapakṣacandraḥ svaguṇair eva sahābhivardhamānaḥ ।
+paramāṃ svakulasya cihnaśobhāṃ prathimānaṃ gamayāṃ babhūva sādhuḥ ।।

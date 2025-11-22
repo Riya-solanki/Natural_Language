@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 246 | label: hybrid | g:0.336 m:0.474 ---
+
+yadi cāvagatamevānumānenāvagamyate tataḥ smaraṇameva pramuṣitatadbhāvamanumānajñānaṃ syāt ।
+naca pratyutpannakāraṇajatvādasmṛtitvam, saṃskāraścodbodhitaḥ smṛtiṃ janayatītyavivādam, smṛteśca pramoṣaḥ śuktikārajatādivedaneṣu kḷpta eva ।
+tadevaṃ kḷptenaiva

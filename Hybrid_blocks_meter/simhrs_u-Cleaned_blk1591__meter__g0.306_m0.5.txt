@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1591 | label: meter | g:0.306 m:0.5 ---
+
+darśana-mukham anubhavataḥ sākṣād iva tan-mayena hṛdayena ।
+smṛti-kāriṇā tvayā me punar api citrīkṛtā kāntā ।।

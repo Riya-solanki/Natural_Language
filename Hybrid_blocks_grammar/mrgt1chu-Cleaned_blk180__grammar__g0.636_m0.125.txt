@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 180 | label: grammar | g:0.636 m:0.125 ---
+
+teṣāṃ saptakoṭisaṃkhyātānāṃ mantrāṇāmardhaṃ prayoktḥṇām anugrahītḥṇāṃ dehaṃ śarīram āśrayatvenāpekṣamāṇam īśvaramapekṣata iti tatsāpekṣam ācāryādhikaraṇeśvarāpekṣam akhile māyīye'dhvani svamadhikāram anugrāhyānugrahalakṣaṇaṃ nirvartya sthitikālasyānte māyīyasyādhvano'pyuparamasamaye seśvaramiti mantreśvaraiḥ sahitaṃ śivasāyujyaṃ gacchati ।। 
+aparasyārdhasya kā vārttetyāha ।।

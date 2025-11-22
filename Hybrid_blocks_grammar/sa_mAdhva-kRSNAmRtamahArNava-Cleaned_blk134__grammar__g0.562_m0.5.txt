@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 134 | label: grammar | g:0.562 m:0.5 ---
+
+catastro ghaṭikāḥ prātar aruṇodaya ucyate yatīnāṃ snānakālo ayaṃ gaṅgāmbhaḥsadṛśaḥ smṛtaḥ ।।

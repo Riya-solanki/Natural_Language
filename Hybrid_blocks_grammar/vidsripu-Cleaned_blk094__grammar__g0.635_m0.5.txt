@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 94 | label: grammar | g:0.635 m:0.5 ---
+
+yad ambā tāto vā dvayam idam agād ekatanutāṃ tadardhaṃ cārdhaṃ ca kva nu gatam athāryaḥ kathayatu ।
+jagat tat taj jātaṃ sakalanaranārīmayam iti pratītiṃ kurvāṇo jayati śikhibhartur gajamukhaḥ ।।

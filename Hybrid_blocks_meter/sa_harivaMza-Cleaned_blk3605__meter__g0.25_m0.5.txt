@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3605 | label: meter | g:0.25 m:0.5 ---
+
+rathinaḥ sādinaś caiva pattayaś ca sahasraśaḥ 
+gajāś cātibalās tatra saṃnipetur abhītavat ।। 
+tatas teṣāṃ mahārāja nṛpāṇāṃ jayakāṅkṣiṇām । 
+sa saṃprahāras tumulas tyaktvā prāṇān avartata 
+vṛṣṇībhiḥ saha yodhānāṃ jarāsaṃdhasya dāruṇaḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 85 | label: meter | g:0.194 m:0.521 ---
+
+sukṣetre bījam uptaṃ bhavati bahuphalaṃ tiktam āsyapriyaṃ
+vā kṣetrasyāsau svabhāvo bhavati samaguṇaḥ sarvasasyaprasūtau ।
+evaṃ kārāpakārā bhagavati tanavo apy āhitāḥ pāpakāle
+paryantaṃ nāpnuvanti vyuparatasakalakleśasaṃtānakāle ।।

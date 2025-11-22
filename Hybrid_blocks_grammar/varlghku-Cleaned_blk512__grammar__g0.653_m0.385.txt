@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 512 | label: grammar | g:0.653 m:0.385 ---
+
+lopaścāsyānyatarasyāṃ mvoḥ ।।
+asaṃyogapūrvasya pratyayokārasya lopo vā mvoḥ parayoḥ । śṛṇmaḥ, śṛṇumaḥ । śuśruvatuḥ । śuśrotha । śuśruva । śuśruva । śrotā । śṛṇotu, śṛṇutāt । śṛṇvantu ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1119 | label: meter | g:0.194 m:0.75 ---
+
+śataprasūtim icchan vai sutaṃ kambalabarhiṣaḥ 
+babhūva rukmakavacaḥ śataprasavataḥ sutaḥ ।।

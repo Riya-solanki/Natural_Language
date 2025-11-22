@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 172 | label: meter | g:0.272 m:0.845 ---
+
+priyavratottānapādau prasūtyākūtisaṃjñete ।
+devahūtiṃ manustāsu ākūtiṃ rucaye dadau ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1276 | label: grammar | g:0.559 m:0.447 ---
+
+uddīptāgnir asau munir vijayate yasyodare jīryataḥ pāthoder avaśiṣṭam ambu katham apy udgīrṇam anto arṇavam ।
+kiṃ cāsmāj jaṭharānalād iva navas tatkālavāntikramān niryātaḥ sa punar yamāya payasām antargato vāḍavaḥ ।।
+śrīdaśarathasya

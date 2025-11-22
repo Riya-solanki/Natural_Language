@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 521 | label: hybrid | g:0.494 m:0.442 ---
+
+ayamātmā na kasyacidapi putrādirūpeṇa saṃbandhī, janyajanakabhāvasya śarīraviṣayatvāt, śarīraṃ hi śarīrājjāyate natvātmātmāntarāt, tasmādanyasaṃbana adhitayātmanyahaṃmatiḥ kṛśādimaticcharīrādvivekamabudhyamānānāṃ bhrāntiriti ।
+tadidamasyānyasaṃbandhiniṣedhena putrādiviṣayasnehanivartanena vairāgyajananārthamucyate, nāhaṅkārasvarūpasyāyaṃ niṣedho anupayogādasaṃgatatvāt pramāṇāntaravirodhāt ahaṃ brahmāsti iti vacanavirodhācca ।
+tasmādahaṃpratyayagamyo jñātā śarīrātirikta indriyavyatiriktaśca ।।

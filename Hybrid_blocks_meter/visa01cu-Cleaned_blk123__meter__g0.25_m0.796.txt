@@ -1,0 +1,7 @@
+--- source: visa01cu-Cleaned.txt | block: 123 | label: meter | g:0.25 m:0.796 ---
+
+śauryyādivaditirasasyotkarṣādhāyakā iti śeṣaḥ ।
+kaṭakakuṇḍalādivaditi śabdārthayoḥ śobhakā iti śeṣaḥ ।
+eteneti ।
+utkarṣādhāyakaviśeṣaṇasya lakṣaṇe apraveśyatvena ityarthaḥ ।
+sālaṅkāraśabdārthayoritiśabdārthayoḥ sālaṅkāratvasyeti paryyavasitārthaḥ ।

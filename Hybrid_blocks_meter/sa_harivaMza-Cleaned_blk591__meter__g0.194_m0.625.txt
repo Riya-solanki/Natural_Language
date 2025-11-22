@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 591 | label: meter | g:0.194 m:0.625 ---
+
+śrāddhair āpyāyitāś caiva pitaraḥ somam avyayam 
+āpyāyyamānaṃ yuṣmābhir vardhayiṣyanti nityadā ।।

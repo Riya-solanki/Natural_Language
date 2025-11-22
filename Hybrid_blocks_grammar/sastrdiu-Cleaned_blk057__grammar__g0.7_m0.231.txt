@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 57 | label: grammar | g:0.7 m:0.231 ---
+
+tadiha dharmaṃ viṣayīkṛtya cintyate kimasya na kiñcitpramāṇamasti, kiṃ vā pratyakṣādikameva pramāṇam, uta codanaiva, athavā vikalpaḥ, athavā samuccayaḥ iti ।
+tatra śabdasya pramāṇāntaraprāptaprāpakatvena svayapramāṇatvāpratyakṣādīnāṃ cāsāmarthyādapramāṇako dharma ityekaḥ pakṣaḥ, pratyakṣādigamya evetyekaḥ pakṣaḥ, yogināṃ pratyakṣagamyaḥ, arvācīnānāṃ tu codanāgamya ityaparaḥ, jagadvaicitryārthāpatyā kimapyadṛṣṭamastīti sāmānyena prasiddho dharmaścodanayāgnihotrādiviśeṣarūpeṇa gamyate tasmātsamuccaya ita pakṣāntaram, codanaiva sāca pramāṇameveti siddhāntaḥ ।
+tadiha codanaiva pramāṇaṃ sāca pramāṇamevetyavadhāraṇadvayaṃ pratijñāyate ।।

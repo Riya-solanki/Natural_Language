@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 259 | label: meter | g:0.25 m:0.625 ---
+
+sa sattvayogādvapuṣaśca saṃpadā balaprakarṣādvipulena caujasā ।
+atarkitaḥ kṣudramṛgairaśaṅkitaścacāra tasminmṛgarājalīlayā ।।

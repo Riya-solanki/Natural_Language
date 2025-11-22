@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 826 | label: meter | g:0.194 m:0.5 ---
+
+anuttamaṃ nāma tapo yena taptaṃ mahat purā 
+trīṇi varṣasahasrāṇi divyānīti hi naḥ śrutam ।।

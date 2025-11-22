@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 934 | label: grammar | g:0.633 m:0.123 ---
+
+[] atha tathā nikṛtas tat-pālanādhikṛta-dhātrī-vargaḥ kṣaṇāt kṛtāvadhāna-sargaḥ śīghram eva kṛtānumārgaḥ krameṇa svasyākāraṇam akāraṇatām āsāditam avadhārya nijeśvaryor āvedayāmāsa ।
+[] tāvac ca tato' py atidūraṃ gambhīra-sarit-tīraṃ gatāv ākarṇya pūtanā-sūdana-prasū rāmāmbālām eva tayoḥ saṅkalanāya cālayāmāsa । æhanta, na jāne khalv arjuna-yugalavad durjana-preryamāṇatayā kaścid anokaho vā nadyavaroho vā skhalatīti mayi pāka-karma-vipākāvaruddhāyāṃ satvaraṃ tvam eva svayaṃ yāhi' iti ।
+sā ca tatra gatā śīghraṃ vyagrī-bhūtāṅga-mānasā ।
+sarit-tīra-gataṃ kṛṣṇaṃ bhagnārjunam athāhvayat ।। [anuṣṭubh]

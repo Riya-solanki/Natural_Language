@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3772 | label: meter | g:0.25 m:0.5 ---
+
+vārāhī caiva māhendrī cāmuṇḍā caṇḍikā tathā ।
+jayantī maṅgalā kālī bhadrakālī kapālinī ।।

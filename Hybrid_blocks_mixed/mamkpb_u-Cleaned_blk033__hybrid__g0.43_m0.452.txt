@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 33 | label: hybrid | g:0.43 m:0.452 ---
+
+atra matpriyaṃ ramayantyā tvayā śatrutvamācaritamiti lakṣyam, tena ca kāmukaviṣayaṃ sāparādhatvaprakāśanaṃ vyaṅgyam ।
+vyaṅgyasya yathā ua ṇiccalaṇippaṃdā bhisiṇīpattammi rehai balāā ।
+ṇimmalamaragaabhāaṇapariṭhṭhiā saṃkhasutti vva ।।

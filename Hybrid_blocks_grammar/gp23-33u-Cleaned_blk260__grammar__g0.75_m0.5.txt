@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 260 | label: grammar | g:0.75 m:0.5 ---
+
+[] tasmāt tadīya-caraṇa-carita-vartmānucaraṇam eva naḥ śreyaḥ । tad etad vacanaṃ racayamānā vana-pracayaṃ puṣpāvacaya-parā iva vicinvanti sma । tato dhvajādi-padāni pada-padma-cihnāni kramatas tāvad amūr anvakrāman yāvat tāni spaṣṭāni dṛṣṭāni । paratas tu parivīrun-mahīruha-niviḍatam āraṇya-dharaṇy-andha-tama-praviṣṭāni dṛṣṭvā nyavartanta, na ca tatrāvartanta ।
+[] tatra cedaṃ vicārayāmāsuḥ-nūnam asmajjayā lajjayā sajjann asāv iha sahasā na sākṣād-bhavitum adhyavasyati, tasmāt tad abodha-nidhāya-bhūr iyaṃ dūrataḥ pariharaṇīyā parihṛtya ca sā pulina-dharaṇir evānusaraṇīyā ।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 852 | label: hybrid | g:0.542 m:0.5 ---
+
+atra svabhāva-śakti-rahitasya manmathasya indra-protsāhana-janitena dhairyeṇa vasanta-sahāyena cāhṛtotsāho dhairya-cyuti-cikīrṣā-kathanād abhivyajyate ।

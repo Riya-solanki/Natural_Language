@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 613 | label: meter | g:0.056 m:0.5 ---
+
+ekā dvitrāś catasro yuta-viyutatayā pañca-ṣāḥ sapta cāṣṭau
+paṅktir vā paṅkti-baddhāḥ śiśu-yuvati-jaraty-ardha-vṛddhāḥ samantāt ।
+āyānti drāg viśanti vraja-nṛpati-gṛhaṃ taṃ ca paśyanti bālaṃ
+kṛtvā cuckāra-miśraṃ bahula-vilasitaṃ smāyayantyo hasanti ।। [sragdharā]

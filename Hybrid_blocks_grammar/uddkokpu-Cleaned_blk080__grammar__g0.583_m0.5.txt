@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 80 | label: grammar | g:0.583 m:0.5 ---
+
+ślāghyacchandasthitimayi mayā śobhane arthe niyuktaṃ śrāvyaṃ śabdaiḥ sarasasumanobhājamabhrāntavṛttim ।
+dūraprāptyā praśithilamiva tvāṃ sakhe kāvyakalpaṃ dhīmān paśyet sa yadi nanu te śuddha eva pracāraḥ ।।

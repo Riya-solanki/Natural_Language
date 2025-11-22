@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 11 | label: grammar | g:0.667 m:0.386 ---
+
+mukhanāsikāvacano anunāsikaḥ ।।
+mukhasahatināsikayoccāryamāṇo varṇo anunāsikasaṃjñaḥ syāt । tadittham - a i u ṛ eṣāṃ varṇānāṃ pratyekamaṣṭādaśa bhedāḥ । ḷvarṇasya dvādaśa, tasya dīrghābhāvāt । ecāmapi dvādaśa, teṣāṃ hrasvābhāvāt ।।

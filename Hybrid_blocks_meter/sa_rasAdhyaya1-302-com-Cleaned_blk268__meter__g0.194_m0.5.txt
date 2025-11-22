@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 268 | label: meter | g:0.194 m:0.5 ---
+
+snuhī ca girikarṇī ca kṣīriṇī vajrakañcukī 
+sarpākṣī meghanādā ca matsyākṣī mṛgabhojanī ।।

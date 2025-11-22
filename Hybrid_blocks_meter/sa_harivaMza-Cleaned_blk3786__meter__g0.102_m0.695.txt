@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3786 | label: meter | g:0.102 m:0.695 ---
+
+upāmagneḥ sureśasya dṛṣadolūkhalasya ca 
+caturdaivāni catvāri dvārāṇi vidadhuś ca te 
+gṛhakṣetrendrabhallāṭaṃ puṣpadantaṃ tathaiva ca ।।

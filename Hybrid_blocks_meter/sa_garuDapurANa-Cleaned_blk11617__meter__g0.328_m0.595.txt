@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11617 | label: meter | g:0.328 m:0.595 ---
+
+mātāpitroḥ pālakatvaṃ yadi syātkṛpādīnāṃ rakṣakau kau vadasva ।
+punnāmakānnārakāddeha bhajāntasmāttrātāputraviṣṇuḥ purāṇaḥ ।।

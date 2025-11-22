@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3178 | label: meter | g:0.194 m:0.625 ---
+
+ahaṃ kaṃsasya vāsāṃsi nānādeśodbhavāni ca 
+kāmarāgāṇi śataśo rajāmi vividhāni ca ।।

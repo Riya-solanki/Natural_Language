@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1327 | label: meter | g:0.25 m:0.625 ---
+
+kāmā muhūrtavitathābhiniveśarāmāḥ kiṃpākapādapaphalapratimopabhogāḥ ।
+naikāntarāyavirasaṃ sabhayaṃ savairaṃ rājyaṃ pramādavadhabandhanimittabhūtam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2852 | label: meter | g:0.25 m:0.5 ---
+
+yady ahaṃ bhavatāṃ ślāghyo bāndhavo devasaprabhaḥ 
+parijñānena kiṃ kāryam yady eṣo anugraho mama ।।

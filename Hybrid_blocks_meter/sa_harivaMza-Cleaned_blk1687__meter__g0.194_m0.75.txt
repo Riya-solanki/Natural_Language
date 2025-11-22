@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1687 | label: meter | g:0.194 m:0.75 ---
+
+sā samudraughasadṛśī divyā devamahācamūḥ 
+rarājāstravatī bhīmā yakṣagandharvaśālinī ।।

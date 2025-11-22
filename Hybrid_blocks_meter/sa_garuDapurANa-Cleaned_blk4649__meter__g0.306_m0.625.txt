@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4649 | label: meter | g:0.306 m:0.625 ---
+
+kṣunnāśo arucivatsarvaṃ savidāhañca pacyate ।
+jīrṇānnaṃ yo na jānāti so apathyaṃ sevatenaraḥ ।।

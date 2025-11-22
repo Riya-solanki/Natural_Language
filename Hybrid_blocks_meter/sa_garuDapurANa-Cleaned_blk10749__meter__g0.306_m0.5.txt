@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10749 | label: meter | g:0.306 m:0.5 ---
+
+te sarve hyasurā jñeyā nānyathā tu kathañcana ।
+vihāya śūnyamaśvatthaṃ namanaṃ ye prakurvate ।।

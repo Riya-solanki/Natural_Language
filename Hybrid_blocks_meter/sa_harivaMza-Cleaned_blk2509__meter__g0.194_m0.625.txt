@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2509 | label: meter | g:0.194 m:0.625 ---
+
+yaśodām anugacchantyaḥ sarpāvāsam imaṃ hradam 
+praviśāmo na yāsyāmaḥ sarvā dāmodaraṃ vinā ।।

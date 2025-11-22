@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 130 | label: hybrid | g:0.497 m:0.5 ---
+
+yaccāvaśyamidamasmādbhinnamityevaṃ vikalpenaiva bhedo grahītavyo nāvikalpena tasya saṃbhavatīti ।
+na brūmo bhedasya grahaṇaṃ kintu bhinnānām ।
+teṣāmapi na bhinnatayā kintu svarūpeṇa- yadanyasmādbhinnaṃ nīlaṃ pītaṃ vā tadgṛhyata iti brūmaḥ ।
+nahi nīlaṃ pītaṃ vā bhedaḥ, tayorhi dharmo bhedaḥ, tadagrahe api dharmiṇāṃ grahaṇaṃ nānupapannam ।।

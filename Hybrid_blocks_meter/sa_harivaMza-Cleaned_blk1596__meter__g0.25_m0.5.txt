@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1596 | label: meter | g:0.25 m:0.5 ---
+
+tatrāham āse nirataḥ piban vārimayaṃ havaiḥ 
+taddhavis tava putrasya visṛjāmy ālayaṃ ca tat ।।

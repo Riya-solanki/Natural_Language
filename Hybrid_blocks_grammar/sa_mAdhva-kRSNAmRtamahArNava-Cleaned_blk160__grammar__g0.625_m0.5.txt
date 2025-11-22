@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 160 | label: grammar | g:0.625 m:0.5 ---
+
+kalā vā ghaṭikā vā api apare dvādaśī yadi dvādaśadvādaśīr hanti pūrvedyuḥ pāraṇe kṛte ।।

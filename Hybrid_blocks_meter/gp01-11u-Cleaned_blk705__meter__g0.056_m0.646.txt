@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 705 | label: meter | g:0.056 m:0.646 ---
+
+yaṃ yaṃ padārtham atitīvram iyaṃ prayāti
+bhrātṛ-dvayī, sa ca sa ca pratibhāti saumyaḥ ।
+atrānumāna-vidurā niranaiṣur etad
+yugmaṃ bhaviṣyati sadā kali-nāśanāya ।। [vasantatilaka]

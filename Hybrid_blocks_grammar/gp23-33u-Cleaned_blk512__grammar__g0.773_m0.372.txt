@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 512 | label: grammar | g:0.773 m:0.372 ---
+
+anyo' nyaṃ milana-spṛhā-milanam apy asyāhatir dānavād yasmāt tad-dhitarātta-narma-milanaṃ kuṇḍa-dvayasya kriyā ।
+sarvāsām adhi madhyam ujjvalatayā rāsāntarāla-sthitiḥ śrī-rādhā-jitayor mano mama manāg adyāpi naivojjhati ।।[] iti vaivaśya-pāravaśyam āsīdan sīdann iva mūrccham ṛcchan snigdhakaṇṭhaḥ sarvān eva ca tat-tad-bhava-bhavanān bhāvayāmāsa ।

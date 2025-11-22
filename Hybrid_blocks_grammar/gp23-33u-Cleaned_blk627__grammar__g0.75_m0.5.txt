@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 627 | label: grammar | g:0.75 m:0.5 ---
+
+[] āruhya ca taṃ tu druhadbhiḥ prasahya dahyamānam ujjhantāv ekādaśa-yojana-samuttuṅga-śṛṅgād utplutya bhūri-dūraṃ yuvāṃ patiṣyathaḥ । patitvā ca dvārakā-patitām āgamiṣyathaḥ ।

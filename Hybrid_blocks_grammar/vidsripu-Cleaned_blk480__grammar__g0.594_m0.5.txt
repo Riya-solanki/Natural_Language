@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 480 | label: grammar | g:0.594 m:0.5 ---
+
+rambhoru kṣipa locanārdham abhito bāṇān vṛthā manmathaḥ saṃdhattāṃ dhanur ujjhatu kṣaṇam ito bhrūvallim ullāsaya ।
+kiṃ cāntarnihitānurāgamadhurām avyaktavarṇakramāṃ mugdhe vācam udīrayāstu jagato vīṇāsu bhedībhramaḥ ।।

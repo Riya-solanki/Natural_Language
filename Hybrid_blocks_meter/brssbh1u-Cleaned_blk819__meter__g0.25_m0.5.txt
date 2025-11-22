@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 819 | label: meter | g:0.25 m:0.5 ---
+
+anānyaḥ panthā', ana karmaṇā' ityādayaḥ śrutivādāḥ ।
+ajñānādeva tu kaivalyaṃ' ityādayaḥ smṛtivādāḥ ।

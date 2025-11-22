@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 214 | label: grammar | g:0.75 m:0.5 ---
+
+mā bhaiḥ śaśāṅka mama śīdhuni nāsti rāhuḥ khe rohiṇī vasati kātara kiṃ vimeṣi । prāyo vidagdhavanitānavasaṅgameṣu puṃsāṃ manaḥ pracalatīti kimatra citram ।।

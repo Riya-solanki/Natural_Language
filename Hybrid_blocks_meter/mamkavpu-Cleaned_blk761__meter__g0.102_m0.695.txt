@@ -1,0 +1,5 @@
+--- source: mamkavpu-Cleaned.txt | block: 761 | label: meter | g:0.102 m:0.695 ---
+
+{mañjīrādiṣu raṇitaprāyaṃ pakṣiṣu ca kūjitaprabhṛti ।
+stanitamaṇitādi surate meghādiṣu garjitapramukham ।।}
+iti prasiddhimatikrāntam । yathā

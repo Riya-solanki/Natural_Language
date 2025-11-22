@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 19 | label: grammar | g:0.618 m:0.47 ---
+
+atra ucyate - bhavet āvṛtti ānarthakyaṃ taṃ prati yaḥ tattvamasi iti sakṛt uktameva brahmātmatvam anubhavituṃ śaknuyāt ।
+yastu na śaknoti taṃ pratyupayujyata eva āvṛttiḥ ।
+tathā hi chāndogye atattvamasi śvetaketo' iti udiśya abhūya eva mā bhagavānvijñāpayatu' iti punaḥ paricodyamānaḥ tat tat

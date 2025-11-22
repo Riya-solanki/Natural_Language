@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2617 | label: meter | g:0.194 m:0.5 ---
+
+nāsasyā nātṛṇā gāvo na bubhukṣārdito janaḥ 
+dṛśyate yatra dṛśyante vṛṣṭimanto balāhakāḥ ।।

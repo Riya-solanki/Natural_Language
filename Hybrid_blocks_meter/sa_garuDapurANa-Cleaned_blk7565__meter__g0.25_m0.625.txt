@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7565 | label: meter | g:0.25 m:0.625 ---
+
+pṛthak citāṃ samāruhya na priyā gantumarhati ।
+kṣattriyādyāḥ savarṇāśca āroheyurapīha tāḥ ।।

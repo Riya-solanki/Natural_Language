@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 860 | label: meter | g:0.279 m:0.539 ---
+
+saṃbandhādevamanyatrāpi ।
+yadyekasyāmapi śākhāyāṃ tattvena pratyabhijñānādupāsanasya tatra vihitānāṃ dharmāṇāṃ saṃkaraḥ ।
+tathā sati satyasyaikasasyābedānmaṇḍaladvayavartina upaniṣadorapi saṃkaraprasaṅgāt ।
+tasyeti ca prakṛtaparāmarśitvādbhedaḥ ।
+satyasya ca pradhānasya prakṛtatvādadhidaivamityasya viśeṣaṇatayopasarjanatvenāprastutvātprastutasya ca satyasyābhedātpūrvavadguṇasaṃkaraḥ ।।

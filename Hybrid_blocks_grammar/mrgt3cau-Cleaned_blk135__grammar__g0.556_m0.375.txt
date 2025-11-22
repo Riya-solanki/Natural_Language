@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 135 | label: grammar | g:0.556 m:0.375 ---
+
+Vṛtti:
+[bhuñjānaṃ samādhisthaṃ caṅkramantaṃ] bhojanasamādhānacaṅkramaṇavyagramācāryaṃ [kriyodyataṃ] kāryeṣvāsaktaṃ [gurusamīpe sthitam] gurusaṃnikarṣasthaṃ ca [matimān] prājño nābhivādayet।

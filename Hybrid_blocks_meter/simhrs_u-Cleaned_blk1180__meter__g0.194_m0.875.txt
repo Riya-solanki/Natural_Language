@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1180 | label: meter | g:0.194 m:0.875 ---
+
+lolāṃśukasya pavanākulitāṃśukāntaṃ
+tvad-dṛṣṭi-hāri mama locana-bāndhavasya ।
+adhyāsituṃ tava ciraṃ jaghana-sthalasya
+paryāptam eva karabhoru maoru-yugmam ।।

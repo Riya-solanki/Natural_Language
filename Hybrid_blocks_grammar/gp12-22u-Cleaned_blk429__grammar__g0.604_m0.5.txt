@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 429 | label: grammar | g:0.604 m:0.5 ---
+
+[] pūrṇimātha vṛndām ūce-bhavatu cetaḥ paraṃ bhavatī sacetaḥ sarvadāsya dāsyam ivācarantī cariṣyati ।

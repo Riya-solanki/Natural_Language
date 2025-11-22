@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10639 | label: meter | g:0.25 m:0.625 ---
+
+ekā tu nityasaṃsārā tvajaśabdābhidhāyikā ।
+dvitīyā tu tamo apohyā ajaśabdābhidhāyikā ।।

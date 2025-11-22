@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3230 | label: meter | g:0.194 m:0.5 ---
+
+tau samīpagatau mallau dṛṣṭvā jagati viśrutau 
+uvāca kaṃso nṛpatiḥ sopanyāsam idaṃ vacaḥ ।।

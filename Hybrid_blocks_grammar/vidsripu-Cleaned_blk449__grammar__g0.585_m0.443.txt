@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 449 | label: grammar | g:0.585 m:0.443 ---
+
+cakṣur mecakam ambujaṃ vijayate vaktrasya mitraṃ śaśī bhrūsūtrasya sanābhi manmathadhanur lāvaṇyapuṇyaṃ vapuḥ ।
+rekhā kāpi radacchade ca sutanor gātre ca tat kāminīm enāṃ varṇayitā smaro yadi sa ced vaidarbhyam abhyasyati ।।
+rājaśekharasyaitau

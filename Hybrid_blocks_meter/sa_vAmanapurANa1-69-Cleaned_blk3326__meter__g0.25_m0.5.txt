@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3326 | label: meter | g:0.25 m:0.5 ---
+
+anyeṣāmapi saṃhartrī nīlā śaṅkho nidhiḥ sthitaḥ ।
+etāsu saṃsthitānāṃ ca yāni rūpāṇi dānava ।
+bhavanti suruṣāṇāṃ vai tān vibodha vadāmi te ।।

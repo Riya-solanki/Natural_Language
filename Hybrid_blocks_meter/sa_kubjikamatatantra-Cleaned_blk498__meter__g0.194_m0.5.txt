@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 498 | label: meter | g:0.194 m:0.5 ---
+
+yaḥ punaḥ kramavettā ca śuddhāśuddhair na bādhyate 
+deśikaṃ putrakaṃ vāpi sādhakaṃ samayajñakam ।।

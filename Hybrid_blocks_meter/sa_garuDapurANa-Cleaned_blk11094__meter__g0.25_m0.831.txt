@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11094 | label: meter | g:0.25 m:0.831 ---
+
+garuḍa uvāca ।
+rodanaṃ kurute kasmādurusaṃjño hare haraḥ ।
+rudamurvaritaṃ kasmātkurute aurvākārakaḥ ।।

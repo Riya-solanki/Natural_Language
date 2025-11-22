@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 706 | label: grammar | g:0.506 m:0.316 ---
+
+caturvedoktakarmāṇi praṇavaśceti pañca kusumāni, tebhyaḥ somājyādidravyāṇi hutāni lohitaśuklakṛṣṇaparaḥ kṛṣṇagopyākhyāni pañcāmṛtāni tattanmantrabhāgaiḥ prāgādyūrdhvāntarapañcādigavasthitābhirādityaraśmināḍībhirmadhvapūpasthitacchidrarūpābhirādityamaṇḍalamānītāni yaśastejaindriyavīryānnātmanā pariṇatāni pañcadikṣu sthitairvasvādibhirūpajīvyānīti dhyāyato vasvādiprāptiruktetyarthaḥ ।
+sūtrasthādipadārthamāha-tathāgniriti ।
+ākāśabrahmaṇaścatvāraḥ pādāḥ, dvau karṇau, dve netre, dve nāsike, ekā vāgiti saptasvindriyeṣu śiraścamasatīrastheṣu saptarṣidhyānaṃ kāryamityāha-tathemāveveti ।
+atha dakṣiṇaḥ karṇaḥ gautamaḥ, vāmo bhāradvājaḥ, evaṃ dakṣiṇanetranāsike viśvāmitravasiṣṭhau, vāme jamadagnikaśyapau, vāgatrirityarthaḥ ।
+atra ṛṣīṇāṃ dhyeyatvānnādhikāraḥ ।।

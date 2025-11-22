@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 578 | label: meter | g:0.194 m:0.5 ---
+
+te bhūyaḥ praṇatāḥ sarve prāyācanta pitāmaham 
+anugrahāya lokānāṃ tatas tān abravīt prabhuḥ ।।

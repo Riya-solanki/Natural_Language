@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11118 | label: meter | g:0.316 m:0.5 ---
+
+sukomalaṃ śrītulasyāstathaiva supuṣpitaṃ canda naiścarcitaṃ ca ।
+etādṛśaṃ tava vakṣaḥ sthalaṃ ca dṛṣṭaṃ mayā tava kāruṇyadṛṣṭyā ।।

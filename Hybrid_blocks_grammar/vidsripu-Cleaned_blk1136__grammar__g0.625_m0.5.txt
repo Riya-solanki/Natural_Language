@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1136 | label: grammar | g:0.625 m:0.5 ---
+
+mā saṃcaiṣīḥ phalasamudayaṃ mā ca patraiḥ pidhās tvaṃ rodhaḥśākhin vitara tad idaṃ dānam evānukūlam ।
+nūnaṃ prāvṛtsamayakaluṣair ūrmibhis tālatuṅgair adya śvo vā sarid akaruṇā tvāṃ śriyā pātayitrī ।।

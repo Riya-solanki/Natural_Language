@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 589 | label: meter | g:0.25 m:0.625 ---
+
+āhvānaṃ sthāpanaṃ rodhaṃ sannidhānaṃ niveśanam ।
+pādyamā camanaṃ snānamarghyaṃ sraganulepanam ।।

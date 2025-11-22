@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2331 | label: meter | g:0.25 m:0.625 ---
+
+saktuyāvakavāṭyānām apūpānāṃ ca me gṛhe 
+yad rocate dvijaśreṣṭha tat tvaṃ bhuṅkṣva yathecchayā ।।

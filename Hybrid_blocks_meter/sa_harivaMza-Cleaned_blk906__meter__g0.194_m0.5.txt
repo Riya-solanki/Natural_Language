@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 906 | label: meter | g:0.194 m:0.5 ---
+
+sa rathaḥ pauravāṇāṃ tu sarveṣām abhavat tadā 
+yāvat tava sanāmā vai pauravo janamejaya ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 476 | label: meter | g:0.139 m:1.0 ---
+
+nṛtya-śrāntyā, yathā-
+cāru-nṛtya-vigame ca tan-mukhaṃ
+sveda-bhinna-tilakaṃ pariśramāt ।
+prema-datta-vadanānilaṃ pibann
+atyajīvad amarālakeśvarau ।।

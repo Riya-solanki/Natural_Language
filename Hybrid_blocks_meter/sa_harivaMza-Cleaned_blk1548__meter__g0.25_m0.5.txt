@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1548 | label: meter | g:0.25 m:0.5 ---
+
+saṃditāḥ pāśajālaiś ca niryatnāś ca śaraiḥ kṛtāḥ 
+praviṣṭā dānavīṃ māyāṃ na śekus te viceṣṭitum ।।

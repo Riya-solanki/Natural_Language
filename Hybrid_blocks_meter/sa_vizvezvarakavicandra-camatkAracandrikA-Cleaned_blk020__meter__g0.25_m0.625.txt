@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 20 | label: meter | g:0.25 m:0.625 ---
+
+sānusvāratayā snaigdhyaṃ yānti rūkṣā api kvacit ।
+bhedo jñeyastasya saṃkhyāvandyavandhyādike budhaiḥ ।।

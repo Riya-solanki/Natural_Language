@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1103 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ līlām anyām api titaṃsati kaṃsa-dviṣi dīvyatsu ca sarva-kalā-vidvatsu visaraj-jāleṣu vatsa-pāleṣu bakī-bakayor anujaḥ kaścid agha-nāmā danujas tad-vartmani vartate sma, jyotir-maṇḍaleṣu pracaṇḍa-kāla-jalada iva । yaṃ khalu kaṃsaḥ śaśaṃsa-aye, madīya-mahā-sahāya! vismayam apahāya śrūyatām । tvam ajagara-bhāvena sadā jāgara-rahita eva śāśayyamānatā-niṣṭhaṃ tiṣṭhan na jānāsīti hi tvaṃ jāgarayāmāsiṣe ।

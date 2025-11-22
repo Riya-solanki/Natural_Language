@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6249 | label: hybrid | g:0.476 m:0.5 ---
+
+saṃjñāyate yena tad astadoṣaṃ śuddhaṃ paraṃ nirmalam ekarūpam 
+saṃdṛśyate vāpy avagamyate vā taj jñānam ajñānam ato anyad uktam ।।

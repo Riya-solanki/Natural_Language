@@ -1,0 +1,11 @@
+--- source: nysvbh_u-Cleaned.txt | block: 749 | label: meter | g:0.163 m:0.986 ---
+
+na khalu aindriyārthapañcatvāt pañcendriyāṇīti sidhyati, kasmāt ?
+teṣāmarthānāṃ bahutvāt ।
+bahavaḥ khalvime indriyārthāḥ ।
+sparśāstāvat śītoṣṇānuṣṇāśītā iti
+rūpāṇi śuklaharitādīni gandhā iṣṭāniṣṭopekṣaṇīyāḥ
+rasāḥ kaṭukādayaḥ, śabdā varṇātmano dhvanimātrāśca
+bhinnāḥ, tad yasyendriyārthapañcatvāt pañcendriyāṇi
+tasyendriyārthabahutvād bahūnīndriyāṇi
+prasajyante iti ।।

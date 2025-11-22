@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 716 | label: meter | g:0.306 m:0.5 ---
+
+yuṣmākaṃ cāprasādena duṣkṛtena ca karmaṇā ।
+pakṣo ayaṃ vardhate asmākaṃ yataḥ smo brahmarākṣasāḥ ।।

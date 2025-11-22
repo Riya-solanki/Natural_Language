@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10229 | label: meter | g:0.25 m:0.625 ---
+
+pūrvarūpaṃ ca pūrṇaṃ ca pūrṇaṃ padavitāragam? ।
+rūpaṃ tadātmanyādāya pūrṇamevāvaśiṣyate ।।

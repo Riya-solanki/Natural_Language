@@ -1,0 +1,8 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 48 | label: meter | g:0.25 m:0.678 ---
+
+phalasaṃbandho hetur apūrvapratipatteḥ ।
+saṃbandhaś cākāṅkṣāpūrvakaḥ ।
+sā ca bhāvaśabdebhyaḥ prasarpantī dṛśyate, na dravyaguṇaśabdebhyaḥ ।
+tasmād ākhyātebhyaḥ apūrvabhāvanā gamyate ।
+tatra ca dhātvarthasya karaṇatvapratipattiḥ, pratyāsatteḥ ।
+atas tenaiva phalakaraṇabhūtenānyathānupapattyāpūrvaṃ bhāvyata ity avadhāryate ।

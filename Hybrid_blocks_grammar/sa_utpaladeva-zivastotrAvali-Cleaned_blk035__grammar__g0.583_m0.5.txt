@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 35 | label: grammar | g:0.583 m:0.5 ---
+
+samastalakṣanāyoga eva yasyopalakṣaṇam tasmai namo astu devāya kasmai cid api śambhave ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 761 | label: meter | g:0.194 m:0.5 ---
+
+idaṃ ca vākyasaṃdarbha ślokam ekam udāhṛtam 
+puruṣāntaritaṃ śrutvā tato yogam avāpsyatha ।।

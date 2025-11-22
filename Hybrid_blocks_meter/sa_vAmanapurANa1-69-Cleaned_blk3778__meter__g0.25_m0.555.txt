@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3778 | label: meter | g:0.25 m:0.555 ---
+
+taṃ dadarśa mahātejāḥ prahlādo bhaktimān vaśī ।
+koṭitīrthe tataḥ snātvā tarpayitvā vasun pitṝn ।
+rudrakoṭiṃ samabhyarcya jagāma kurujāṅgalam ।।

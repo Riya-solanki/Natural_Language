@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2783 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ kṣāntamanāḥ kṛṣṇa svena saumyena tejasā 
+brahmaṇaḥ śṛṇu me vākyaṃ gavāṃ ca gajavikrama ।।

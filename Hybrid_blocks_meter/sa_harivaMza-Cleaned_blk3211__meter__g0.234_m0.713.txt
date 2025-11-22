@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3211 | label: meter | g:0.234 m:0.713 ---
+
+narau kasyāpi sahitau śikhāvitatamūrdhajau 
+nīlapitāmbaradharau pītaśvetānulepanau ।। 
+tāv antaḥpuram ajñātau praviṣṭau kāmaveginau । 
+devaputropamau vīrau bālāv iva hutāśanau 
+sthitau dhanurgṛhe saumyau sahasā khād ivāgatau 
+saumyau mahasya codyuktāv āgatau puruṣarṣabhau । 
+mayā dṛṣṭau parivyaktaṃ rucirācchādanasrajau ।।

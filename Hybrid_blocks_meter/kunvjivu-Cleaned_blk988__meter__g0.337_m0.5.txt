@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 988 | label: meter | g:0.337 m:0.5 ---
+
+svābhiprāyasamarpaṇapravaṇayā mādhuryamudrāṅkayā vicchittyā hṛdaye abhijātamanasāmantaḥ kimapyullikhat ।
+ārūḍhaṃ rasavāsanāpariṇateḥ kāṣṭhāṃ kavīnāṃ paraṃ kāntānāṃ ca vilokitaṃ vijayate vaidagdhyavakraṃ vacaḥ ।।

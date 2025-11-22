@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2749 | label: meter | g:0.194 m:0.5 ---
+
+kṛṣṇo api taṃ giriśreṣṭhaṃ svasthāne sthāvarātmavān 
+prīto niveśayāmāsa dhruvāya varado vibhuḥ ।।

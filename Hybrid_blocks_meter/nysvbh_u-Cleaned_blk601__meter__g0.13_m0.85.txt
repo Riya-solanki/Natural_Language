@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 601 | label: meter | g:0.13 m:0.85 ---
+
+vyajyate iti vyaktiḥ ।
+indriyagrāhyeti na sarvaṃ dravyaṃ vyaktiḥ, yo
+guṇaviśeṣāṇāṃ sparśāntānāṃ gurutvadhanatvadravatvasaṃskārāṇām
+avyāpinaḥ parimāṇasyāśrayo yathāsaṃbhavaṃ
+taddravyaṃ mūrtiḥ mūrchitāvayavatvāditi
+।।

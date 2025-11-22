@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1104 | label: meter | g:0.25 m:0.625 ---
+
+nagnaprāṇāya caṇḍāya kṛśāya sphoṭanāya ca ।
+dharmārthakāmamokṣāṇāṃ kathyāya kathanāya ca ।।

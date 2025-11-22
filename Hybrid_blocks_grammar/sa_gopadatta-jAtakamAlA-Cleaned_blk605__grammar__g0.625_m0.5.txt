@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 605 | label: grammar | g:0.625 m:0.5 ---
+
+atha bhagavān pātrīkṛtādhyāśayaṃ taṃ janam avetya ratnatrayāvicalitaprasādaṃ saṃsāravāsavimukhaṃ bhavaduḥkhopaśamapratisaṃyuktām eva kathāṃ āviś cakāra ।

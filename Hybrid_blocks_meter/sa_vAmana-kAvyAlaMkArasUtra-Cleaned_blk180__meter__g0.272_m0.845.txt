@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 180 | label: meter | g:0.272 m:0.845 ---
+
+pratipādaṃ pratiślokamekamārgaparigrahaḥ ।
+durbandho durvibhāvaśca samateti mato guṇāḥ ।।

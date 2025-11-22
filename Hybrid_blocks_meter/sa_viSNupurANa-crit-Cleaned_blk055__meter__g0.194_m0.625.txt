@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 55 | label: meter | g:0.194 m:0.625 ---
+
+saṃcitasyāpi mahatā vatsa kleśena mānavaiḥ 
+yaśasas tapasaś caiva krodho nāśakaraḥ paraḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 270 | label: grammar | g:0.75 m:0.5 ---
+
+[] atra cedaṃ gadyam-yat kila kamalataḥ komalatā-yugalaṃ tava caraṇa-yugalaṃ stanāv anu snehataḥ saṃhananāyehamānāś ca vayaṃ tāv atikarkaśāv iti tarkataś ca stambhamānāḥ, śanair eva tayos tad dadhīmahīti vāñchāmaḥ । tad aho, kaṭhina-manastayā duraṭām aṭavīm anughaṭayati tvayi kūrpādibhis tat kiṃ na vyathate? kintu vyathata eva, yatas tad-bhāvanā-juṣāṃ bhavad-ekāyuṣām asmākaṃ manasi tan maṅkṣu saṅkrāmati । tasmāt tad aṭanam evāsmākaṃ hṛt-pīḍā, tal-lālanam eva tac-chamanam iti tal-lālanam eva dehīti bhāvaḥ ।

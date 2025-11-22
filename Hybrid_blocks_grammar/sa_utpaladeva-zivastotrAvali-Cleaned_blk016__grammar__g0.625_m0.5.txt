@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 16 | label: grammar | g:0.625 m:0.5 ---
+
+śivo bhūtvā yajeteti bhakto bhūtveti kathyate tvam eva hi vapuḥ sāraṃ bhaktair advayaśodhitam ।।

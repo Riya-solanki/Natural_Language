@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2117 | label: meter | g:0.306 m:0.5 ---
+
+sametyāhvayate devaṃ yakṣaṃ kinnarameva vā ।
+na kaścid yuyudhe tena samaṃ daityena nārada ।।

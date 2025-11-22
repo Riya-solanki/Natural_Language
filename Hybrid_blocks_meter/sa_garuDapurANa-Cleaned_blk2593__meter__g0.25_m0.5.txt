@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2593 | label: meter | g:0.25 m:0.5 ---
+
+kalyāṇaḥ kalyadaḥ kartā kalyaḥ kalyatarāśrayaḥ ।
+kalyatāheturanghaḥ ṣaḍime te gaṇāḥ smṛtāḥ ।।

@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 121 | label: grammar | g:0.646 m:0.5 ---
+
+SktCh śṛṇotu kamāraḥ । adya khalu devyambāsahitā subhadrāpramukheṇa sapatnīvargeṇa parivṛtāryāyā gāndhāryāḥ pādavandanaṃ kartuṃ gatāsīt ।

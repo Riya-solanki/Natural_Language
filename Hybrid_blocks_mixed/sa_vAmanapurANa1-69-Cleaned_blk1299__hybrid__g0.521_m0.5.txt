@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1299 | label: hybrid | g:0.521 m:0.5 ---
+
+nīlāśca keśāḥ kuṭilāśca tasya karṇau samāṃsau susamā ca nāsā ।
+dīrghāśca tasyāṅgulayaḥ suparvāḥ padbhyāṃ karābhyāṃ daśanāśca subhrāḥ ।।

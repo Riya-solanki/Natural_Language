@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2525 | label: meter | g:0.194 m:0.625 ---
+
+adyaprabhṛti gopānāṃ gavāṃ ghoṣasya cānagha 
+āpatsu śaraṇaṃ kṛṣṇaḥ prabhuś cāyatalocanaḥ ।।

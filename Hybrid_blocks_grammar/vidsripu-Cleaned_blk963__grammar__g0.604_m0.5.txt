@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 963 | label: grammar | g:0.604 m:0.5 ---
+
+naivāyaṃ bhagavān udañcati śaśī gavyūtimātrīm api dyām adyāpi tamas tu kauravakulaśrīcāṭukārāḥ karāḥ ।
+mathnanti sthalasīmni śailagahanotsaṅgeṣu saṃrundhate jīvagrāham iva kvacit kvacid api cchāyāsu gṛhṇanti ca ।।

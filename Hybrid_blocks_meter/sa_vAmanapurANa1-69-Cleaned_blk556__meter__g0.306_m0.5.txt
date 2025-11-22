@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 556 | label: meter | g:0.306 m:0.5 ---
+
+vādyanti tūryāṇi surāsurāṇām paśyanti khasthā munisiddhasaṃghāḥ ।
+nayanti tānpsarasāṃ gaṇāgryā hatā raṇe ye abhimukhāstu śūrāḥ ।।

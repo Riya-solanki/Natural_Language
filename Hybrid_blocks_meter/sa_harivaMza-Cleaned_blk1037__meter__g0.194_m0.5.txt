@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1037 | label: meter | g:0.194 m:0.5 ---
+
+dakṣiṇārthaṃ hi sā dattā saṃvartāya mahātmane 
+duḥṣantaṃ pauravaṃ cāpi lebhe putram akalmaṣam ।।

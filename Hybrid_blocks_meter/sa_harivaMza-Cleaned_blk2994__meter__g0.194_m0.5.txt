@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2994 | label: meter | g:0.194 m:0.5 ---
+
+kevalaṃ tvaṃ tu garveṇa vṛddhān agnisamān iha 
+vācā dunoṣi marmaghnyā amantroktā yathāhutiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3496 | label: meter | g:0.194 m:0.5 ---
+
+sa guroḥ putram ādāya pāñcajanyaṃ ca mādhavaḥ 
+ratnāni ca mahārhāṇi punar āyāj jagatpatiḥ ।।

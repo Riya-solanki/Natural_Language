@@ -1,0 +1,9 @@
+--- source: brssgo4u-Cleaned.txt | block: 404 | label: meter | g:0.294 m:0.647 ---
+
+adhikāre niyojayatyādityādīnityādhikārikaḥ, sa cāsau maṇḍalasthaśca tasya prāpyatvokterityarthaḥ ।
+manasaspatiḥ sūryamaṇḍalāntaḥsthaḥ paramātmā atat saviturvareṇyaṃ bhargo devasya dhīmahi ।
+dhiyo yo naḥ pracodayāt'iti śruteḥ ।
+tathāca yadi pūrvaṃ niraṅkuśaṃ svārājyamuktaṃ syāttarhi īśvarasyāgre prāpyatāṃ na brūyāt ।
+ato bhoge svārājyaṃ na jagajjanmādiṣviti bhāvaḥ ।
+vākpatitvādikamapīśvarādhīśvarādhīnamityāha-tadanusāreṇeti ।
+uktanyāyaṃ kāmacārādivākyeṣvatidiśati-evamiti ।।

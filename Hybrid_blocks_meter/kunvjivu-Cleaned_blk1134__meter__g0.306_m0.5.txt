@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1134 | label: meter | g:0.306 m:0.5 ---
+
+ramyāṇi vīkṣya madhurāṃśca niśamya śabdān paryutsukībhavati yatsukhito api jantuḥ ।
+taccetasā smarati nūnamabodhapūrvaṃ bhāvasthirāṇi jananāntarasauhṛdāni ।।

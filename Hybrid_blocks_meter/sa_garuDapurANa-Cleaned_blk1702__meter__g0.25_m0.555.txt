@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1702 | label: meter | g:0.25 m:0.555 ---
+
+kuryācchatabhiṣāyāṃ ca jātakarmādi mānavaḥ ।
+viśākhā cottarātrīṇi maghārdrā bharaṇī tathā ।
+āśleṣā kṛttikā rudra ! prasthāne maraṇapradāḥ ।।

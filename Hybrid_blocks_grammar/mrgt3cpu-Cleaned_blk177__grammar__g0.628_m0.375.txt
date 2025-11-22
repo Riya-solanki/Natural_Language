@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 177 | label: grammar | g:0.628 m:0.375 ---
+
+Vṛtti:
+[ādau] prathamaṃ yāgadhāma [vidhāya] kṛtvā tatra vighopaśamanāya [māheśvaram astraṃ yajet] pārameśvaramastramiṣṭvā [daśasahasrāṇi japtvā] daśasahasrasaṃkhyayā taṃ japan [daśāṃśam anuhomayet] taddaśāṃśena ca homaṃ kuryāt।

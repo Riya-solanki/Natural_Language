@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2240 | label: meter | g:0.25 m:0.5 ---
+
+pratyakṣaṃ dṛśyase pīvān adyāpi śibikā tvayi 
+śramaś ca bhārodvahane bhavaty eva hi dehinām ।।

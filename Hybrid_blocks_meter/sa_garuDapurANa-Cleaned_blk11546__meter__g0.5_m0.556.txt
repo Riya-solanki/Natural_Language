@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11546 | label: meter | g:0.5 m:0.556 ---
+
+śrīgaruḍamahāpurāṇam- 
+sā dvāradeśe śrīnivāsasya devī svāmipuṣkariṇīṃ dadṛśe kaiśca sārdham ।
+svāminhare śrīnivāseti sā taṃ brahmādīnāṃ tārakaṃ sampradadhyau ।।

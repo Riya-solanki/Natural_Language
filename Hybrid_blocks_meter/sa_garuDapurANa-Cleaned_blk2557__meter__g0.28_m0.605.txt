@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2557 | label: meter | g:0.28 m:0.605 ---
+
+brahmovāca ।
+prajāpatistvaṃ bhavitā sraṣṭavyā bhavatā prajāḥ ।
+sṛṣṭvā prajāḥ sutānvipra samutpādya kriyāstathā ।।

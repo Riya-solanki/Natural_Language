@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1824 | label: meter | g:0.25 m:0.75 ---
+
+prāsādabhittiṣvaviṣajyamānaścaṃkramyase vyomni yathaiva bhūmau ।
+śatahradonmeṣasamṛddhadīpte pracakṣva tatkena taveyamṛddhiḥ ।।

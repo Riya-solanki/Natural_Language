@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 321 | label: meter | g:0.25 m:0.5 ---
+
+tṛṣṇānalaiḥ śokaśikhāpracaṇḍaiś cittāni dagdhāni bahuprakāram ।
+āśāvatāṃ sapraṇayābhirāmair dānāmbusekaiḥ śamayāṃ babhūva ।।

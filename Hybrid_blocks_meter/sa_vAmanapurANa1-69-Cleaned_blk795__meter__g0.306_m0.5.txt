@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 795 | label: meter | g:0.306 m:0.5 ---
+
+ekaṃ dvau sakalān vāpi vedān prāpya surormukhāt ।
+anujñāto varaṃ dattvā gurave dakṣiṇāṃ tataḥ ।।

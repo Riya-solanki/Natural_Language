@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1615 | label: meter | g:0.194 m:0.5 ---
+
+{nimnanābhikuhareṣu yadambhaḥ plāvitaṃ caladṛśāṃ laharībhiḥ ।
+tadbhavaiḥ kuharutaiḥ suranāryaḥ smāritā suratakaṇṭharutānām ।।}

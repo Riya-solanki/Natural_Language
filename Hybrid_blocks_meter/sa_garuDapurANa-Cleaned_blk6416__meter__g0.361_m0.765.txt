@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6416 | label: meter | g:0.361 m:0.765 ---
+
+śrīgaruḍamahāpurāṇam- 
+brahmovāca ।
+atha snānavidhiṃ vakṣye snānamūlā kriyā yataḥ ।
+mṛdgomayatilāndarbhānpuṣpāṇi surabhīṇi ca ।।

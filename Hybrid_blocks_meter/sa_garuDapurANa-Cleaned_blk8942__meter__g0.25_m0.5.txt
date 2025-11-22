@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8942 | label: meter | g:0.25 m:0.5 ---
+
+kṛtasya karaṇaṃ nāsti pretakāryādṛte khaga ।
+yaḥ karoti naraḥ kaścitkṛt pūrvaṃ vinaśyati ।।

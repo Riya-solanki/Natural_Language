@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1761 | label: meter | g:0.194 m:0.75 ---
+
+svayaṃ svayaṃbhuvā sṛṣṭaṃ bhayadaṃ sarvavidviṣām 
+maharṣiroṣair āviṣṭaṃ nityam āhavadarpitam ।।

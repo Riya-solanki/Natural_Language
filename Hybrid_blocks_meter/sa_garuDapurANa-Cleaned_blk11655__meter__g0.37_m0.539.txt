@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11655 | label: meter | g:0.37 m:0.539 ---
+
+tathaiva tīrthe durlabhaṃ tatra devi śālagrāmasya dvijavarye ca dānam ।
+jaṃbūphalākārasunīlavarṇaṃ mukhadvayaṃ cakracatuṣṭayānvitam ।।

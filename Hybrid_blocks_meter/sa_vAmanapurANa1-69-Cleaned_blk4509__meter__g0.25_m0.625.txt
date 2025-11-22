@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4509 | label: meter | g:0.25 m:0.625 ---
+
+caitre citrāṇi vastrāṇi śayanānyāsanāni ca ।
+viṣṇoḥ prītyarthametāni deyāni brāhmaṇeṣvatha ।।

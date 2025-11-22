@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1520 | label: meter | g:0.194 m:0.5 ---
+
+{madhurimaruciraṃ vacaḥ khalānāmamṛtamaho prathamaṃ pṛthu vyanakti ।
+atha kathayati mohahetumantargatamiva hālahalaṃ viṣaṃ tadeva ।।}

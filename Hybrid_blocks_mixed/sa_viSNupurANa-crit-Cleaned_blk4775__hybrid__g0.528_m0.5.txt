@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4775 | label: hybrid | g:0.528 m:0.5 ---
+
+viśvaṃ bhavān sṛjati sūryagabhastirūpo viśvaṃ ca te guṇamayo ayam aja prapañcaḥ 
+rūpaṃ paraṃ sad iti vācakam akṣaraṃ yaj jñānātmane sadasate praṇato asmi tasmai ।।

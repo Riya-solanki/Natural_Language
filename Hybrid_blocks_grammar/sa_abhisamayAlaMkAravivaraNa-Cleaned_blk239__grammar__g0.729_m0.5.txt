@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 239 | label: grammar | g:0.729 m:0.5 ---
+
+viśeṣaḥ jinajananyā dūratvam avidūratvamiti vastujñatāyāḥ dvau bhedau । hīnayānāpuraḥsarāyāḥ phalabhūtajinajananyāḥ avidūratā, upāyakauśalena avidūratā, pratipakṣaḥ, māhāyānīyavastujñatā ceti catvāraḥ paryāyāḥ ।

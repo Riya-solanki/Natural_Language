@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1153 | label: meter | g:0.332 m:0.688 ---
+
+na bhavatu kathaṃ kadambaḥ pratipratīkaprarūḍhaghanapulakaḥ ।
+viśvaṃ dhinoti jaladaḥ pratyupakāraspṛhārahitaḥ ।।
+acalasiṃhasya

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5392 | label: meter | g:0.328 m:0.595 ---
+
+pītaṃ takreṇa mūlaṃ ca ārdrasya tagarasya ca ।
+haret jhiñjinīvātaṃ?vai vṛkṣamindrāśaniryathā ।।

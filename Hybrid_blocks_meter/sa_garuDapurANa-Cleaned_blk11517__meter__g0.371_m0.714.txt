@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11517 | label: meter | g:0.371 m:0.714 ---
+
+strīrūpebhyo namanaṃ kāryameva īśāna koṇasthadaleṣu caiva ।
+īśānanārāyaṇamāviriñcavāyurviyaccheṣasurādikānām ।।

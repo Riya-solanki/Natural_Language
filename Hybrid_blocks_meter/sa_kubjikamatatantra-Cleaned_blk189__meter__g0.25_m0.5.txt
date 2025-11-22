@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 189 | label: meter | g:0.25 m:0.5 ---
+
+sa ca krauñco yathotpannas tat sarvaṃ kathayāmi te 
+sthānāt sthānaṃ kramantyāśu prasvedaḥ patitaḥ kvacit ।।

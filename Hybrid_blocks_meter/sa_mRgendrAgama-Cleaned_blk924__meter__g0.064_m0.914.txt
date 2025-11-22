@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 924 | label: meter | g:0.064 m:0.914 ---
+
+tenendriyārthasaṃsargavinivṛtteścito matiḥ 
+dhāraṇāyogyatāmeti pade svecchāprakalpite ।। MT

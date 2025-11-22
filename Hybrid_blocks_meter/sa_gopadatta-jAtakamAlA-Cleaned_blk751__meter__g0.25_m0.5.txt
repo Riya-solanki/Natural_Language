@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 751 | label: meter | g:0.25 m:0.5 ---
+
+sa bhūpatiḥ ṣaṣṭisahasrasaṃkhyā guhā viviktā jalayaṃtraśītāḥ ।
+saṃskārya tebhyaḥ pradadau prasannaḥ pratyekaśo dagdhapunarbhavebhyaḥ ।।

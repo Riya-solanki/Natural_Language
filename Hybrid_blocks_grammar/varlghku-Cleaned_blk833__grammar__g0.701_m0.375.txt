@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 833 | label: grammar | g:0.701 m:0.375 ---
+
+tavyattavyānīyaraḥ ।।
+dhātorete pratyayāḥ syuḥ । edhitavyam, edhanīyaṃ tvayā । bhāve autsargikamekavacanaṃ klībatvaṃ ca । cetavyaścayanīyo vā dharmastvayā pacelimā māṣāḥ । paktavyā ityarthaḥ । bhidelimāḥ saralāḥ । bhettavyā ityarthaḥ ।।

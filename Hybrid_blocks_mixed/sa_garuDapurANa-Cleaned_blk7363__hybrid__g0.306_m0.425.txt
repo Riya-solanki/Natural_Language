@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7363 | label: hybrid | g:0.306 m:0.425 ---
+
+evaṃ vicitrairnijakarmabhirnṛṇāṃ sukhasya duḥ khasya ca janmanāmapi ।
+vaicitryamuktaṃ śubhakarmataḥ śubhaṃ tathāśubhāccāśubhamīrayanti ।।
+etatte sarvaṃmākhyātaṃ yatpṛṣṭo ahamiha tvayā ।।
+iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe pratakā ṇḍe śrīkṛṣṇagaruḍasaṃvāde aurdhvadehikavidhikarmavipākayorvarṇanaṃ nāma dvitīyo adhyāyaḥ

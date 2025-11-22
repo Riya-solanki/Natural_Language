@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9924 | label: hybrid | g:0.401 m:0.497 ---
+
+na mātṛpūjā na ca viṣṇuśaṅkarau gaṇeśacaṇaḍyau na ca bhāskaro api vā ।
+yañcopacārairbaliyuktacandanairdehinkvacinnistara yattvayā kṛtam ।।

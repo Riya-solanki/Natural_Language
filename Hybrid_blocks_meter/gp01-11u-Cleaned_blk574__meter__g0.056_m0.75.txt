@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 574 | label: meter | g:0.056 m:0.75 ---
+
+ākrandād bhidurāṇi pakṣa-pavanāt kalpaṃ bhuvi bhraṃśanād
+bhū-bhraṃśaṃ śava-rūpatā-śavalanād gotrāṅga-paṅktīr api ।
+āśāṅkyābhigatā diviṣṭha-paṭalī tat-tad-vijātīyatāṃ
+nirṇīyātha visismiye katipayaṃ kālaṃ bakī-saṃsthitau ।। [śārdūla]

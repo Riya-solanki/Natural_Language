@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2382 | label: meter | g:0.306 m:0.5 ---
+
+tato gṛhītāṃ kapinā sa daityaḥ svasutāṃ śube ।
+kandaro vīkṣya saṃkruddhaḥ khḍgamudyamya cādravat ।।

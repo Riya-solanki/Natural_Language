@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 777 | label: grammar | g:0.604 m:0.5 ---
+
+mā muñcāgnimucaḥ karān himakara prāṇāḥ kṣaṇaṃ sthīyatāṃ nidre mudraya locane rajani he dīrghātidīrghā bhava ।
+svapnāsāditasaṃgame priyatame sānandam āliṅgite svacchando bhavatāṃ bhaviṣyati punaḥ kaṣṭo viceṣṭārasaḥ ।।

@@ -1,0 +1,5 @@
+--- source: rasadh_u-Cleaned.txt | block: 139 | label: hybrid | g:0.32 m:0.496 ---
+
+iha manusaṃkhyaiś caturdaśabhiḥ saṃskārair anantaroktaiḥ saṃskṛtya yo māritasūtaḥ sukhalve kṣiptvātyarthaṃ piṣyate ।।
+etat pratisāraṇaṃ bhaṇyate ।।
+iti māritasūtasya pratisāraṇasaṃskāraḥ pañcadaśaḥ ।।

@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 343 | label: grammar | g:0.594 m:0.421 ---
+
+anekasamūhaḥ sudāya iticet ? na dvitvena sāmānādhikaraṇyasya grahaṇāt ।
+advāvimau saṃyuktāvarthauṃ' iti grahaṇe sati nānekasamūhāśrayaḥ saṃyogo gṛhyate na ca dvayoraṇvorgrahaṇamasti tasmānmahatī dvitvāśrayabhūte dravye saṃyogasya sthānamiti।।

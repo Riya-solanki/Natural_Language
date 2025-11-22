@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 853 | label: hybrid | g:0.5 m:0.5 ---
+
+dhig apraśastām asatāṃ duratyayāṃ pṛthagjanānāṃ prakṛtiṃ calācalām ।
+vimarśam aprāpya yatheṣṭacāriṇī karoti yā lokam apāyagocaram ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 840 | label: meter | g:0.056 m:0.875 ---
+
+atha dravantaṃ sutam anvagāt prasūḥ
+prasūna-vṛṣṭi-pratha-keśa-bandhanā ।
+kva yāsi re coravareti jalpitā
+nātisphuṭa-krandana-hāsa-sundaram ।। [upajāti ]

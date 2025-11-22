@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2350 | label: meter | g:0.194 m:0.625 ---
+
+sthalīprāyāsu ramyāsu navāsu vanarājiṣu 
+carāmaḥ sahitā gobhiḥ kṣipraṃ saṃvāhyatāṃ vrajaḥ ।।

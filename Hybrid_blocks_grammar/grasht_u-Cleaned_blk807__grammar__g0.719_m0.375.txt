@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 807 | label: grammar | g:0.719 m:0.375 ---
+
+anyaccāha śilayetyādi ।।
+nāgaḥ sīsakaḥ śilayā manohvayā nihato māritaḥ punaḥ vaṅgaṃ śuddhena doṣavarjitena tālena nihataṃ kramaśaḥ krameṇa pīte hemakarmaṇi śukle rūpyakarmaṇi etatkrāmaṇaṃ samuddiṣṭaṃ samyak prakāśitaṃ pītakarmaṇi nāgaḥ śuklakarmaṇi vaṅgaṃ ca niyojitavyam ityarthaḥ ।।

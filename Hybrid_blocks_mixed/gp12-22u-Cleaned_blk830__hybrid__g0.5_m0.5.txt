@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 830 | label: hybrid | g:0.5 m:0.5 ---
+
+yaśodā rohiṇī nando rāmaś ca balināṃ varaḥ ।
+kṛṣṇam āliṅgya yuyujur āśiṣaḥ sneha-kātarāḥ ।।[] iti ।

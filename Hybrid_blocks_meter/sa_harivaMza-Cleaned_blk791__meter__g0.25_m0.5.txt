@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 791 | label: meter | g:0.25 m:0.5 ---
+
+etāvad uktvā te sarve pūjayitvā ca taṃ guruṃ 
+yogadharmam anuprāpya paramāṃ nirvṛtiṃ yayuḥ ।। 
+yoginaḥ paramātmānaḥ saṃyatenāntarātmanā । 
+brahmadattasya tanayaḥ sa vaibhrājas tv ajāyata 
+yogātmā tapasā yukto viṣvaksena iti śrutaḥ ।।

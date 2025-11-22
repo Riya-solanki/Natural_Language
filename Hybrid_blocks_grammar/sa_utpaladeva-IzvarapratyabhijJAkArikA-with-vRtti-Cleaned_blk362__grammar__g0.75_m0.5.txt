@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 362 | label: grammar | g:0.75 m:0.5 ---
+
+prāṇāpānayoḥ pārśvadvayatiryakpravāhavicchedenaikatām āpādyordhvarūpamadhyamārgapravāheṇodgamanād udānaḥ । madhyanetram ivordhvabhāktvād agnidharmā turyadaśāyām । turyātīte dikkālānavacchede pūrṇe pravāhatāṃ hitvātinirbharāvastho vyānasaṃjñaḥ । etac ca daśādvayam upādeyaṃ prāṇaśakteḥ parameśvarakalpatvenāvasthānāt ।।

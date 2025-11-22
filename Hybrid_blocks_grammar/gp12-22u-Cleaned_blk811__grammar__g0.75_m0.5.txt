@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 811 | label: grammar | g:0.75 m:0.5 ---
+
+[] athāmī ca tathāgatya sva-pratyakṣaṃ pratyāyāmāsuḥ-sutrāman, na tatra kutracid api dvi-trāṇy api patrāṇi srastāni dṛśyante, na ca kācit pipīḍikāpi pīḍitā । tad evaṃ yady uparitanaṃ vṛttaṃ parito vṛttaṃ, tadā vilasita-raṅga-taraṅgāṇām antaraṅgānāṃ vārtā tu dūre vartatām ।

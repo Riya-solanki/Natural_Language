@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 59 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha yadā pīta-vasanena gītam evam udgītam, tadā tāsam eva karṇābhyarṇatām āgataṃ tatra ca yathāyatham abhirucitam eva cittī-kṛtaṃ rāgādikam avadhārya nivārtyatātikrama-niratāsthiratāh pratasthire । tatra ca kṛṣṇābhimukhatām evātasthire, nānyat kim api । tathā hi,

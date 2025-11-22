@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 360 | label: grammar | g:0.562 m:0.5 ---
+
+vilasati kṛṣṇa-navābdaḥ sphuṭam adhi hṛdayaṃ praviśya rādhāyāḥ ।
+na bhavati tad yadi katham iva pulakaiḥ saha locane sravataḥ ।। [āryā] iti ।

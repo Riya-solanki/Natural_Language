@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4565 | label: grammar | g:0.84 m:0.0 ---
+
+manmayaṃ viddhi kaunteya kṣayaṃ sṛṣṭiṃ ca bhārata 
+sac cāsac ca mamaivātmā sad asac caiva yat param ।। 
+idam apy aparaṃ bhūyaḥ śṛṇu guhyaṃ sanātanam ।। sarveṣv api ca vedeṣu purāṇesu ca kṛtsnaśaḥ । yad agryaṃ kathitaṃ pārthaṃ sarvair munivaraiḥ sadā ।। varṇatrayasamāyuktam ṛgyajuḥsāmalakṣitam । praṇavākhyaṃ mahābāho viddhi māṃ jagatīpate ।। idaṃ japan mahābāho māṃ namaskuru yatnataḥ । tato māṃ vetsyase samyak satyam etac chapāni te ।। anyat sarvaṃ mahābāho vihāyaitat paro bhava । idam eva paraṃ śreyo nātra kāryā vicāraṇā । 
+evam ukto asmi kṣṛṇena prīyatā bharatarṣabha 
+tathaiva ca mano nityam abhavan me janārdane ।।

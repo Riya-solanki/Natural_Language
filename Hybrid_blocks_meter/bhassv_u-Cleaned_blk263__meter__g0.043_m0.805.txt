@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 263 | label: meter | g:0.043 m:0.805 ---
+
+{ceṭī} - suṭṭhu ayyā bhaṇādi 
+uvasappadu dāva bhaṭṭidāriā 
+[suṣṭhv āryā bhaṇati । upasarpatu tāvad bhartṛdārikā । ]

@@ -1,0 +1,4 @@
+--- source: brssgo4u-Cleaned.txt | block: 370 | label: grammar | g:0.615 m:0.5 ---
+
+na hi prākṛto api saṃkalpayan anyasvāmikatvam ātmanaḥ satyāṃ gatau saṃkalpayati ।
+śrutiḥ ca etat darśayati - aatha ya ihātmānamanuvidya vrajantyeśca satyānkāmāṃsteṣāṃ sarveṣu lokeṣu kāmacāro bhavati' iti ।।

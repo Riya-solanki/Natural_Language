@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 976 | label: meter | g:0.194 m:0.521 ---
+
+autsukyād anapota-siṃha-nṛpater ākāram ālikhya sā
+nirvarṇyāyam asau mama priya iti premābhiyoga-bhramāt ।
+āśūtthāya tato' pasṛtya tarasā kiṃcid vivṛttānanā
+sāsūyaṃ sadara-smitaṃ sa-cakitaṃ sākāṅkṣam ālokate ।।

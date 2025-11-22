@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1156 | label: hybrid | g:0.521 m:0.5 ---
+
+prajvālya kāmadahanaṃ svayam eva bālā mithyāvikalpapavanaiḥ svamanogṛheṣu ।
+ātmānam eva hi dahanti śaracchatāni saṃgharṣajena dahanena yathaiva vaṃśāḥ ।।

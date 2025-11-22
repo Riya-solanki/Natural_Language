@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 106 | label: meter | g:0.25 m:0.625 ---
+
+api cākṛtapuṇyānāṃ bhavebhyo jāyate bhayam ।
+puṇyasambhārayuktānām utsavātiśayo bhavaḥ ।।

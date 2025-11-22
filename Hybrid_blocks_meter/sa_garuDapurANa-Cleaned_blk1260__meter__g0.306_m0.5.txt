@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1260 | label: meter | g:0.306 m:0.5 ---
+
+yāmyāṃ vai kṛṣṇarūpā tu nairṛtyā śyāmalā bhavet ।
+vāruṇyāṃ pāṇḍurā jñeyā vāyavyāṃ pītavarṇikā ।।

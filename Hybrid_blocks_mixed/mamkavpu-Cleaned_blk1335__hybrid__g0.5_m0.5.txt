@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1335 | label: hybrid | g:0.5 m:0.5 ---
+
+atra prasthānātkimiti nivṛtto asīti kārye pṛṣṭe kāraṇamabhihitam ।

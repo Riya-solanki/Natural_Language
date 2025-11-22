@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 297 | label: meter | g:0.306 m:0.5 ---
+
+vilapantaṃ janaṃ dṛṣṭvā kṛpā kasya na jāyate ।
+viśeṣataḥ patiṃ bāle nanupa tvamatinirghṛṇā ।।

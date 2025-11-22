@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1081 | label: grammar | g:0.562 m:0.5 ---
+
+[] tā sahāsam ūcuḥ-satyam ete bhavataḥ prāpta-marmāṇaḥ sa-dharmāṇaś ca dṛśyante ।

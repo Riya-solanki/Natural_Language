@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1049 | label: meter | g:0.25 m:0.5 ---
+
+prāyaścittaṃ kariṣye ahaṃ yadvadiṣyanti devatāḥ ।
+tatastā devatāḥ sarvā idaṃ vacanamabruvan ।।

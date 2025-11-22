@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1242 | label: hybrid | g:0.5 m:0.5 ---
+
+[] sarve sa-smitam ūcuḥ-kavi-cakra-cakravartinā bhavatā na kiṃ vā supraśastaṅkaraṃ bhavitā, tato yad eva yojayiṣyate, tad eva vijeṣyate । tathā hi-

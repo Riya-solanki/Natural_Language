@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1603 | label: meter | g:0.25 m:0.5 ---
+
+tvadīyāstadime prāṇāstvadarthe yadi nāma me ।
+svalpe api viniyujyeran sa me syadatyanugrahaḥ ।।

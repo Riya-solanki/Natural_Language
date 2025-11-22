@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2403 | label: meter | g:0.25 m:0.5 ---
+
+prātar utthāya mantrajñaḥ svapnakāle athavā sudhīḥ 
+yukto api pātakair ghorair mātṝṇāṃ sammato bhavet ।।

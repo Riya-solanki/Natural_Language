@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 17 | label: hybrid | g:0.521 m:0.5 ---
+
+kenābhivarṇā janatā praṇītā mārgaś ca nairyāṇikataḥ prayuktaḥ ।
+kutra sthitaḥ kutra ca śikṣamāṇo nāyaṃ martyaḥ paralokād bibheti ।।

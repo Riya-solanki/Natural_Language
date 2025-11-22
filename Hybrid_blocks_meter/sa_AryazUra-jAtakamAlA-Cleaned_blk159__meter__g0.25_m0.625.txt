@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 159 | label: meter | g:0.25 m:0.625 ---
+
+yaśaḥśriyā dānasamṛddhayā jvalanpratiṣṭhitājñaḥ pratirājamūrdhasu ।
+samīraṇākuñcitasāgarāmvarāṃ ciraṃ mahīṃ dharmanayena pālaya ।।

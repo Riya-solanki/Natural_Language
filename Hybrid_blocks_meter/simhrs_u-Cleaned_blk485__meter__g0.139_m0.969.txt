@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 485 | label: meter | g:0.139 m:0.969 ---
+
+sukhena, yathā-
+paśyema taṃ bhūya iti bruvāṇāṃ
+sakhīṃ vacobhiḥ kila sā tatarja ।
+na prīti-karṇejapatāṃ gatāni
+bhūyo babhūvuḥ svara-vaikṛtāni ।।

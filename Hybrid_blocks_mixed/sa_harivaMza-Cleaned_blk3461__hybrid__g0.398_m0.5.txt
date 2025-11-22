@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3461 | label: hybrid | g:0.398 m:0.5 ---
+
+dhanaṃ dhānyaṃ ca yat kiṃcid ratnāny ācchādanāni ca 
+pratīcchantu niyuktā vai tvadīyāḥ kṛṣṇa puruṣāḥ । 
+striyo hiraṇyaṃ vāsāṃsi yac cānyad vasu kiṃcana ।।

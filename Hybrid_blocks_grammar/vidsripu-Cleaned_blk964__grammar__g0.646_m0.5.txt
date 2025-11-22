@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 964 | label: grammar | g:0.646 m:0.5 ---
+
+kiṃ nu dhvāntapayodhir eṣa katakakṣodair ivendoḥ karair atyaccho ayam adhaś ca paṅkam akhilaṃ chāyāpadeśād abhūt ।
+kiṃ vā tatkarakartarībhir abhito nistakṣaṇād ujjvalaṃ vyomaivedam itas tataś ca patitāś chāyāchalena tvacaḥ ।।

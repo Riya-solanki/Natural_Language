@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 237 | label: meter | g:0.278 m:0.817 ---
+
+chalasya dvitvamabhyanujñāya tritvaṃ pratiṣidhyate kiṃcitsādharmyāt।
+yathā cāyaṃ hetustrittvaṃ pratiṣedhati tathā
+dvitvamapyabhyanujñātaṃ pratiṣedhati।
+vidyate hi kiṃcitsādharmyānna nivartate, tritvamapi na nivartsyatīti ।।

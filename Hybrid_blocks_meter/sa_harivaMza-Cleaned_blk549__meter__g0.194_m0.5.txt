@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 549 | label: meter | g:0.194 m:0.5 ---
+
+apṛcchaṃ tam ahaṃ tāta tatrāntarhitam eva ca 
+gataṃ sukṛtināṃ lokaṃ jātakautūhalas tadā ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1253 | label: meter | g:0.251 m:0.623 ---
+
+yena saiṃhaṃ vapuḥ kṛtvā dvidhā kṛtvā ca tat punaḥ 
+pūrvadaityo mahāvīryo hiraṇyakaśipur hataḥ ।।

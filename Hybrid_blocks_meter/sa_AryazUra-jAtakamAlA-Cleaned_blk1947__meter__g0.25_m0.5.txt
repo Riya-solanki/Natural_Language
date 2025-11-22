@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1947 | label: meter | g:0.25 m:0.5 ---
+
+aho svabhāvātiśayasya saṃpadā vidarśitānena yathārhabhadratā ।
+himādriśobhena mṛto api khalvayaṃ kṛtātmatuṣṭirhasatīva varṣmaṇā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1167 | label: meter | g:0.326 m:0.5 ---
+
+evaṃsvarūpā danunātha kanyā mahograśastrāṇi ca dhārayantī ।
+dṛṣṭvā yatheṣṭaṃ na ca vidma kā sā sutāthavā kasyacideva bālā ।।

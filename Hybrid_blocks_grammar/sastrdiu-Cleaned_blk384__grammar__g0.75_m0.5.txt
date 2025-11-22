@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 384 | label: grammar | g:0.75 m:0.5 ---
+
+tvatpakṣe tu naivaṃ saṃbhavati, tathāhi nādā hi na jñāyamānatayā sphoṭaṃ vyañjayanti, na ca yugapatsattāsti kramavartitvāt, ataḥ saṃskāradvārameva sāhityamityavarjanīyaṃ saṃskārāntarakalpanam ।।

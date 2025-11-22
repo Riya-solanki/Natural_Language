@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3294 | label: meter | g:0.194 m:0.625 ---
+
+svargākṣayatvam atulaṃ dāmpatyam atidurlabham 
+prāptaṃ puṇyaphalaṃ prāpya saṃśuddhiṃ tāṃ dvijottama ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 582 | label: meter | g:0.25 m:0.5 ---
+
+puṇyaprabhāvajanite bhagavān niṣadya padme sahasradalake rathacakramātre ।
+amlānapuṇyaparipākavimuktagandhe taṃ candanaṃ paramakāruṇikaḥ śaśāsa ।।

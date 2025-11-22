@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11440 | label: meter | g:0.306 m:0.5 ---
+
+avāpa sāmrājyamanuttamaṃ ca jñānaṃ nṛsiṃhātsamavāpa paścāt ।
+parāśaraḥ śrīnibāsasya bhakto bhaktiṃ kṛtvā vyāsarūpaṃ hariṃ ca ।।

@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 268 | label: grammar | g:0.708 m:0.5 ---
+
+kvacinmasṛṇamāṃsalaṃ kvacidatīva tārāspadaṃ prasannasubhagaṃ muhuḥ svarataraṅgalīlāṅkitam । idaṃ hi tava vallakīraṇitanirgamairgumphitaṃ mano madayatīva me kimapi sādhu saṃgītakam ।।

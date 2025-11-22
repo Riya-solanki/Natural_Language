@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 881 | label: meter | g:0.272 m:0.845 ---
+
+saṃyogāderāto dhātoryaṇvataḥ ।।
+niṣṭhātasya naḥ syāt । glānaḥ ।।

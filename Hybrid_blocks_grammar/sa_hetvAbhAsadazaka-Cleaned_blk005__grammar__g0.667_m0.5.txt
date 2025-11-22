@@ -1,0 +1,4 @@
+--- source: sa_hetvAbhAsadazaka-Cleaned.txt | block: 5 | label: grammar | g:0.667 m:0.5 ---
+
+bhīto ahaṃ virahī tuṣārakiraṇāt so ayaṃ samujjṛmbhate vijñātaḥ katham eṣa te mama yatas tāpaṃ karoty uccakaiḥ ।
+liṅgāt ko anuminoti sādhyavirahavyāptād iyaṃ mugdhatā mā bhaiṣīr iti pātu vo raghupatis saumitriṇā sāntvitaḥ ।।

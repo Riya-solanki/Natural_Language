@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 69 | label: grammar | g:0.75 m:0.5 ---
+
+Viv prāṇoddīpitā yeyaṃ vahniśikhāāgneyadhāmakoṭiḥ, saiva astāt trāyate iti astraṃ, atha vā niṣkalanātho atra udvṛttaḥ, tenaiva hikkāpātoddīpitena granthibhedanakrameṇa brahmagranthibhedāt, tatra prāṇo ``ha'' vahniśikhārūpam astram ityādi, sarvaprameyajātaṃ dhūpayati sarvaṃ svaṃparispandenādhivāsayatīti dhūpaḥ ।।

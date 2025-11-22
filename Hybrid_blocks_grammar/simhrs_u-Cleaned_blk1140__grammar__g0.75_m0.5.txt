@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1140 | label: grammar | g:0.75 m:0.5 ---
+
+apare tu rasābhāsaṃ tiryakṣu pracakṣate । tan na parīkṣā-kṣamam । teṣv api vibhāvādi-sambhavāt । vibhāvādi-jñāna-śūnyās tiryañco na bhājanaṃ bhavitum arhanti rasasyeti cet, na । manuṣyeṣv api keṣucit tathā-bhūteṣu rasa-viṣaya-bhāvābhāva-prasaṅgāt । vibhāvādi-sambhavo hi rasaṃ prati prayojakaḥ । na vibhāvādi-jñānam । tataś ca tiraścām apy asty eva rasaḥ iti ।

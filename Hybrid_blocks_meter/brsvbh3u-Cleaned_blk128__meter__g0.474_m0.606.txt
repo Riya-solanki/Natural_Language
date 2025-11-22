@@ -1,0 +1,6 @@
+--- source: brsvbh3u-Cleaned.txt | block: 128 | label: meter | g:0.474 m:0.606 ---
+
+tena prāthamyābhāvāt prāptamityeva nāstīti kasya ko anuvādaḥ ।
+kathañcidviparivṛttimātrasyautsargikāpravṛttapravartanālakṣaṇavidhitvāpavādasāmarthyābhāvāt ।
+guṇaśravaṇe hi guṇaviśiṣṭakarmavidhāne vidhigauravabhiyā guṇamātravidhānalāghavāya karmānuvādāpekṣāyāṃ viparivṛtterupakāraḥ ।
+yathā adadhnā juhoti'iti dadhividhipare vākye viparivṛttyapekṣāyām aagnihotraṃ juheti'iti vihitasya homasya

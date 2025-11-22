@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 264 | label: meter | g:0.25 m:0.75 ---
+
+vibhaktipariṇāmena yatra bhaṅgaḥ kvacidbhavet ।
+na tadicchanti yamakaṃ yamakkotkarṣakovidāḥ ।।

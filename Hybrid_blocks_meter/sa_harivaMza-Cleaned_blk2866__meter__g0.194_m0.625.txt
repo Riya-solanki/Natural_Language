@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2866 | label: meter | g:0.194 m:0.625 ---
+
+tās tasya nṛtyaṃ gītaṃ ca vilāsasmitavīkṣitam 
+muditāś cānukurvantyaḥ krīḍanti vrajayoṣitaḥ ।।

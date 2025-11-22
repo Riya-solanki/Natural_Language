@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 180 | label: hybrid | g:0.542 m:0.5 ---
+
+sahasaivasādya kadā gāḍham avaṣṭabhya harṣavivaśo aham tvaccaraṇavaranidhānaṃ sarvasya prakaṭayiṣyāmi ।।

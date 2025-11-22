@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1322 | label: meter | g:0.194 m:0.75 ---
+
+pāduke pādalepaṃ vā manovegaḥ prajāyate 
+evaṃ jānuni abhyāsād bhūtavetālanayakaḥ ।।

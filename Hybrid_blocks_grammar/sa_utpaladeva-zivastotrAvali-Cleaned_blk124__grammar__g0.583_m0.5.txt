@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 124 | label: grammar | g:0.583 m:0.5 ---
+
+ākāmkṣaṇīyam aparaṃ yena nātha na vidyate tava tenādvitīyasya yuktaṃ yat paripūrṇatā ।।

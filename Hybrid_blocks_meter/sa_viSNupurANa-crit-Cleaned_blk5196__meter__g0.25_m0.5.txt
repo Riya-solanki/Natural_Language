@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5196 | label: meter | g:0.25 m:0.5 ---
+
+sā cāsmai kathayām āsa na putras tvaṃ mameti vai 
+tanayaṃ tvām ayaṃ viṣṇor hṛtavān kālaśambaraḥ ।।

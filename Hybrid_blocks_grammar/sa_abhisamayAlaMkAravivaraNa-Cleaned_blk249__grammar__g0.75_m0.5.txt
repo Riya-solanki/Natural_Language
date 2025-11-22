@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 249 | label: grammar | g:0.75 m:0.5 ---
+
+bhedaḥ prayogaḥ daśavidho bhavati । tadyathā - rūpādiṣu satyābhiniveśapratiṣedhaḥ, tadviśeṣeṣvanityādiṣu satyābhiniveśapratiṣedhaḥ, kalpitarūpeṣu aparipūriḥ, dharmatārūpeṣu prapūriḥ, pāramitāsu paramārthato aparihāṇivṛddhī, paramārthato akartṛtvam, trisarvajñātmakānāṃ yathākramamuddeśaprayogakāritrāṇāṃ duṣkaratā, yathābhavyaphalaprāptyā avandhyatā, mahānuśaṃsāyāṃ bodhau aparapratyayatvam, svapnopamapariṇāmādisaptavidhakhyātijñānamiti daśa bhedā bhavanti ।

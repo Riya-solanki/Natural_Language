@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1608 | label: meter | g:0.194 m:0.625 ---
+
+saiṣā durviṣahā māyā devair api durāsadā 
+aurveṇa nirmitā pūrvaṃ pāvakenorvasūnunā ।।

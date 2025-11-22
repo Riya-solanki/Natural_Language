@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1296 | label: meter | g:0.25 m:0.5 ---
+
+chāyāṃ kurvanti cānyasya tāpaṃ tiṣṭhanti vātape ।
+phalanti ca parārthāya pādapā iva sajjanāḥ ।।

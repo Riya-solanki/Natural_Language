@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 22 | label: grammar | g:0.552 m:0.5 ---
+
+kriyādakṣo dakṣaḥ kratupatir adhīśas tanubhṛtām ṛṣīṇām ārtvijyaṃ śaraṇada sadasyāḥ suragaṇāḥ ।
+kratubhraṃśas tvattaḥ kratuphalavidhānavyasanino dhruvaṃ kartuḥ śraddhāvidhuram abhicārāya hi makhāḥ ।।

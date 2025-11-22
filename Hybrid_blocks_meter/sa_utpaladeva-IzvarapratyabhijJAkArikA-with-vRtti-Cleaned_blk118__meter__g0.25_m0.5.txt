@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 118 | label: meter | g:0.25 m:0.5 ---
+
+cittattvaṃ māyayā hitvā bhinna evāvabhāti yaḥ 
+dehe buddhāv atha prāṇe kalpite nabhasīva vā ।।

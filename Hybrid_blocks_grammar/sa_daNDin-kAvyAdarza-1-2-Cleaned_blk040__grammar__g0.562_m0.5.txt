@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 40 | label: grammar | g:0.562 m:0.5 ---
+
+lāsyacchalitaśampādi prekṣārtham itarat punaḥ śravyam eveti saiṣāpi dvayī gatir udāhṛtā ।।

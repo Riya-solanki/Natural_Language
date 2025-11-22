@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 756 | label: hybrid | g:0.394 m:0.5 ---
+
+māṃ nartayata bho vṛddhāḥ, iti tāsāṃ puro gataḥ ।
+bhadraṃ nṛtyasi bhadras tvam, iti stotrān nanarta saḥ ।। [anuṣṭubh]
+vihasantīṣu sarvāsu sauṣṭhavāt pracyavād api ।
+nṛtyan vrīḍitavat kṛṣṇo mātur aṅke' palāyata ।। [anuṣṭubh]

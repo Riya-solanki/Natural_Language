@@ -1,0 +1,6 @@
+--- source: brsvbh1u-Cleaned.txt | block: 144 | label: hybrid | g:0.448 m:0.448 ---
+
+samānam ।
+sahārthātmaprakāśena saṃvitprakāśo na tvarthātmaprakāśaṃ vineti tasyāḥ svabhāva iti cet, tatkiṃ saṃvido bhinnau saṃvidarthātmaprakāśau ।
+tathā ca na svayaṃprakāśā saṃvit, na ca saṃvidarthātmaprakāśa iti ।
+atha asaṃvidarthātma

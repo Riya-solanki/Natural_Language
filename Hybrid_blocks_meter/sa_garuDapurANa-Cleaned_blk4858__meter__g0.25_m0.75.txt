@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4858 | label: meter | g:0.25 m:0.75 ---
+
+śleṣmabhedaḥ samaye paramatyarthasaṃcitam ।
+abhibhūyetaraṃ doṣaṃ śarīraṃ pratipadyate ।।

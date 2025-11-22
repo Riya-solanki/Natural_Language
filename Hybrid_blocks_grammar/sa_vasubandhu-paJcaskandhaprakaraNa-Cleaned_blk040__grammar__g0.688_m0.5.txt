@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 40 | label: grammar | g:0.688 m:0.5 ---
+
+apramādaḥ katamaḥ । pramādapratipakṣaḥ । alobhādīn vīryāntān niśritya akuśalānāṃ dharmāṇāṃ prahāṇam । tatpratipakṣāṇāṃ kuśalānāṃ dharmāṇāṃ bhāvanā ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 542 | label: meter | g:0.0 m:0.75 ---
+
+"aṅka-bhrāji-śiśūpananda-gṛhiṇīm ājñā madīyedṛśī
+yan mā mādṛśa-dṛṣṭi-sambhrama-vaśād utthāta yūyaṃ muhuḥ ।"
+ity evaṃ vinigadya yājaka-guruḥ sammoda-sampan-milat-
+kampaḥ sākṣata-pāṇi sāśru-nayanaṃ svasti-śrutīr ūcivān ।। [śārdūla]

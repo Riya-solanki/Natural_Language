@@ -1,0 +1,4 @@
+--- source: brsgor3u-Cleaned.txt | block: 139 | label: grammar | g:0.562 m:0.5 ---
+
+akṛtātyaye anuśayavān'ityatrodāhṛtābhiḥ aya iha ramaṇīyacaraṇāḥ'ityādiśrutismṛtibhirapūrvasiddhiścettābhirīśvarasyāpi phaladātṛtvaṃ svīkāryamityāha-śrutatvāccetisūtrakāraḥ ।
+annamāsamantātprāṇibhyo dadātītyannādaḥ, vasudāno dhanadātā, karmaṇo apūrvasya vā jaḍatvenopakaraṇamātratvātsvatantra īśvara eva phaladāteti siddhānto darśitaḥ ।।

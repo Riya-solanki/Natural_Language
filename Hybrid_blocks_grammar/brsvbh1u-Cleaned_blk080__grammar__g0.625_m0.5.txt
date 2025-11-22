@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 80 | label: grammar | g:0.625 m:0.5 ---
+
+-mā bhūdasataḥ śaktikāryatvam, ayogyatvāt, śaktijñāpyaṃ punaḥ kasmānnabhavediti cet śaktijñāpyatvaṃ śaktiniṣṭhajñāpakatānirūpitajñāpyatāśālitvaṃ vaktavyam, tacca śakyāśrayajñānādanyajñānānupalabdherasaṃbhavītyāha-jñānāntarānupalabdheriti ।

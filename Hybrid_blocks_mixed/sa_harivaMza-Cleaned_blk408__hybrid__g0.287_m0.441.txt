@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 408 | label: hybrid | g:0.287 m:0.441 ---
+
+catvāriṃśad athāsṭau ca dakṣiṇasyāṃ tathā diśi 
+vasātipramukhāś cānye rakṣitāro viśāṃ pate ।। 
+ikṣvākus tu vikukṣiṃ vai aṣṭakāyām athādiśat । māṃsam ānaya śrāddhārthaṃ mṛgān hatvā mahābala । 
+śrāddhakarmaṇi coddiṣṭe akṛte śrāddhakarmaṇi 
+bhakṣayitvā śaśaṃ tāta śaśādo mṛgayāṃ gataḥ ।।

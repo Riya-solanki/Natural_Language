@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 289 | label: meter | g:0.25 m:0.625 ---
+
+ucyate- dehābhāve api kevalasya cetanasya taptirna dṛṣṭā ।
+naca tvayāpi taptirnāma vikriyā cetayituḥ kevalasyeṣyate ।
+nāpi dehacetanayoḥ saṃhatatvamaśuddhyādidoṣaprasaṅgāt ।
+naca taptereva taptimabhyupagacchati ।

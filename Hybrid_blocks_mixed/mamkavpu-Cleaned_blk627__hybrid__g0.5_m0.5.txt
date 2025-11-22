@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 627 | label: hybrid | g:0.5 m:0.5 ---
+
+prāgupāttastu yacchabdastacchabdopādānaṃ vinā sākāṅkṣaḥ । yathā atraiva śloke ādyapādayorvyatyāse । dvayorupādāne tu nirākāṅkṣatvaṃ prasiddham । anupādāne api sāmarthyātkutraciddvayamapi gamyate । yathā

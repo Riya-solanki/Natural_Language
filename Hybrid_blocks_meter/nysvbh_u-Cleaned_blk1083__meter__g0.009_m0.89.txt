@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1083 | label: meter | g:0.009 m:0.89 ---
+
+atheme saṃkhyaikāntāḥ
+sarvamekam sad aviśeṣāt, sarvaṃ dvedhā
+nityānityabhedāt, sarvaṃ tredhā jñātā jñānaṃ
+jñeyamiti, sarvaṃ caturdhā pramātā pramāṇaṃ
+prameyaṃ pramitiriti, evaṃ yathāsaṃbhavamanye apīti।
+tatra parīkṣā

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1685 | label: meter | g:0.326 m:0.5 ---
+
+te tīkṣṇadurjananikāraśarair na bhinnā dhīrās ta eva śamasaukhyabhujas ta eva ।
+sīmantinīviṣalatāgahanaṃ vyudasya ye avasthitāḥ śamaphaleṣu tapovaneṣu ।।

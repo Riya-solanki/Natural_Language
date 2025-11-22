@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 59 | label: meter | g:0.25 m:0.5 ---
+
+śaive siddho bhāti mūrdhnītareṣāṃ muktaḥ sṛṣṭau punarabhyeti nādhaḥ 
+viśvānarthānsvena viṣṭabhya dhāmnā sarveśānānīśitaḥ sarvadāste ।।

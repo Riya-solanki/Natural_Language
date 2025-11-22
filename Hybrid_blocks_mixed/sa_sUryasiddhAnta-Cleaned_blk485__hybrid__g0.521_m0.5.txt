@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 485 | label: hybrid | g:0.521 m:0.5 ---
+
+tadantareṣu saṃkrāntidvitayaṃ dvitayaṃ punah। nairantaryāt tu saṃkrānter jñeyaṃ viṣṇupadīdvayam।।

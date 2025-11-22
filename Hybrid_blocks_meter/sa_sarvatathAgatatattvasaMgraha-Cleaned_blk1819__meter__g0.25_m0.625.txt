@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1819 | label: meter | g:0.25 m:0.625 ---
+
+buddhasatva susatvāgrya dharmasatva susatvadhṛk ।
+satvottama susatvajña satvasatva namo astu te ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 842 | label: meter | g:0.381 m:0.774 ---
+
+ācamyopaviśetprājño baddhāsanamabhīpsitam ।
+śoṣaṇādi tataḥ kuryād aṃ kṣaiṃ ramiti mantrakaiḥ ।।

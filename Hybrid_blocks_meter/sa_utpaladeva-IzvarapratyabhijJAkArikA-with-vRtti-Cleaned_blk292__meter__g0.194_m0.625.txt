@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 292 | label: meter | g:0.194 m:0.625 ---
+
+vāstave api cidekatve na syād ābhāsabhinnayoḥ 
+cikīrṣālakṣaṇaikatvaparāmarśaṃ vinā kriyā ।।

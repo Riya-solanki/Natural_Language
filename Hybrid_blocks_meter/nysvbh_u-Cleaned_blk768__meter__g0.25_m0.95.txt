@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 768 | label: meter | g:0.25 m:0.95 ---
+
+gandhādīnāmekaiko yathākramaṃ
+pṛthivyādīnāmekaikasya guṇaḥ atastadanupalabdhiḥ ।
+teṣāṃ tayoḥ tasya cānupalabdhiḥ ।
+ghrāṇena rasarūpasparśānāṃ rasanena rūpasparśayoḥ
+cakṣukṣā sparśasyeti ।।

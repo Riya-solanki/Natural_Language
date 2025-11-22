@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9126 | label: meter | g:0.306 m:0.5 ---
+
+dharme matimahaṃ dadyāmadharme apyahameva ca ।
+yātanāṃ kurute so api dharme muktiṃ dadāmyaham ।।

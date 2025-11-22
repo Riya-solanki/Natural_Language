@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1899 | label: meter | g:0.102 m:0.5 ---
+
+vahniś ca vāyunā vāyur maitreya nabhasā vṛtaḥ 
+bhūtādinā nabhaḥ so api mahatā pariveṣṭitaḥ 
+daśottarāṇy aśeṣāṇi maitreyaitāni sapta vai ।।

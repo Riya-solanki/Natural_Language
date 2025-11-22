@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3018 | label: meter | g:0.194 m:0.75 ---
+
+prāg eva ca narendreṇa māthureṇaugraseninā 
+keśinaḥ preṣito dūto vadhāyopendrakāraṇāt ।।

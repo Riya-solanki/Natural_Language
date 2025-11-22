@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10089 | label: meter | g:0.306 m:0.5 ---
+
+tasmāttameva pṛcchāma ityevaṃ śaunako muniḥ ।
+atha te ṛṣayo jagmuḥ puṇyaṃ siddhāśramaṃ tataḥ ।।

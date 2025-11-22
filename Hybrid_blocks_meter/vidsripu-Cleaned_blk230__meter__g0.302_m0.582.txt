@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 230 | label: meter | g:0.302 m:0.582 ---
+
+rajaniviramayāmeṣv ādiśantī ratecchāṃ kim api kaṭhinayantī nārikelīphalāmbhaḥ ।
+api pariṇamayitrī rājarambhāphalānāṃ dinapariṇatiramyā vartate grīṣmalakṣmīḥ ।।
+ete rājaśekharasya

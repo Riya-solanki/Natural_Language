@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 336 | label: meter | g:0.154 m:0.836 ---
+
+samāsokteraprastutapraśaṃsāyā bhedaṃ darśayitumāha 
+kiñciduktāvaprastutapraśaṃsā ।।
+upameyasya kiñcilliṅgamātreṇoktau samānavastunyāse aprastutapraśaṃsā । yathā

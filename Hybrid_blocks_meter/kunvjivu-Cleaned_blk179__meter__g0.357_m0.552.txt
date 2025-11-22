@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 179 | label: meter | g:0.357 m:0.552 ---
+
+atrāsamastatvādisāmagrī vidyate ।
+yadapi vividhapatraviśeṣakavaicitryavihitaṃ kimapi vadanasaundaryaṃ muktākaṇākārasvedalavopabṛṃhitaṃ tadapi suvyaktameva ।
+yathā vā

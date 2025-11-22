@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 125 | label: meter | g:0.25 m:0.633 ---
+
+alakāvṛta-mukha kuṇḍala-dhṛta-sukha hasita-vibhūṣita-netra ।
+dattābhaya-bhuja-vakṣaḥ-śrī-yuja dāsyo vayam api te' tra ।।
+atra cāpiḥ pūrvavat ।

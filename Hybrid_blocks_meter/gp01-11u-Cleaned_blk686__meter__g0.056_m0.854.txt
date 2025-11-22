@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 686 | label: meter | g:0.056 m:0.854 ---
+
+athāvrajad drutam iva riṅga-raṅgatāṃ
+tayor vrajeśvara-sadanāṅgana-kṣitiḥ ।
+sametya tau caraṇa-carārbhakā muhur
+vilebhire sukham abhilebhire tataḥ ।। [rucirā]

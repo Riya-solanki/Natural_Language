@@ -1,0 +1,8 @@
+--- source: bhassv_u-Cleaned.txt | block: 368 | label: meter | g:0.09 m:0.512 ---
+
+{kāñcukīyaḥ} - bhavati nivedyatām 
+idam api tadāśrayam eva 
+{pratīhārī} - ayya iaṃ ṇivedemi 
+eso bhaṭṭā suyyāmuhappāsādādo odarai 
+tā iha evva ṇivedaissaṃ 
+[ārya iyaṃ nivedayāmi । eṣa bhartā sūryāmukhaprāsādād avatarati । tad ihaiva nivedayiṣyāmi । ]

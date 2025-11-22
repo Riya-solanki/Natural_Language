@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 244 | label: meter | g:0.306 m:0.5 ---
+
+so ahaṃ tathā kariṣyāmi yathendro jagataḥ patiḥ ।
+bhaviṣyati sahasrākṣaḥ satyametad bravīmi vaḥ ।।

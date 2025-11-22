@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 250 | label: meter | g:0.25 m:0.5 ---
+
+sāmānyapratipattyā vā na vaded guruṇā saha 
+mukhe hastaṃ pradattvā tu dadādeśam iti bruvan ।।

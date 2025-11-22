@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1337 | label: meter | g:0.25 m:0.625 ---
+
+vajraṃ tu yasya satvasya sahabhūtvā mahādṛḍhaṃ ।
+maitrīspharaṇatāyogātspharan vaireṇa nāśayet ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2231 | label: meter | g:0.194 m:0.75 ---
+
+paṭalāntaritā dṛṣṭir gatvā vaidyam upāśrayet 
+yena paśyasi sarvāṅgaṃ śrīkubjaughamahāgajam ।।

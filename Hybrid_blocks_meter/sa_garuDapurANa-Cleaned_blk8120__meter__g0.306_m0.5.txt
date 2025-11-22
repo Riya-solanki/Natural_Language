@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8120 | label: meter | g:0.306 m:0.5 ---
+
+kathayasvaḥ mama prītyā pretarāja yathātatham ।
+tathā pṛṣṭaḥ sa vai rājñā uvāca sakalaṃ svakam ।।

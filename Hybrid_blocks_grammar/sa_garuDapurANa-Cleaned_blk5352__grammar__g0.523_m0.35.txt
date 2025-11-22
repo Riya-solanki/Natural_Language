@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5352 | label: grammar | g:0.523 m:0.35 ---
+
+oṃ dadru sara kroṃ hrīṃ ṭhaḥ ṭhaḥ dadru sara hrīṃ hrīṃ oṃ uṃ ū sara krīṃ krīṃ ṭhaḥ ṭhaḥ ।
+ādyā hi vaśāmāyānti mantreṇānena cāñjanāt ।।

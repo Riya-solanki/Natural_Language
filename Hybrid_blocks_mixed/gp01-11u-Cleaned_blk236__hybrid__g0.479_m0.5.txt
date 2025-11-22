@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 236 | label: hybrid | g:0.479 m:0.5 ---
+
+[] mātovāca, "tarhi kim ākarṇyate, yad adyāpi kiñcit teṣām auddhatyaṃ vidyate, pretānām api tattadākāratayā sadyaḥ pretatāṃ prāptānām iva ।"

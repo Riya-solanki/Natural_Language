@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 526 | label: grammar | g:0.625 m:0.5 ---
+
+svacchandaṃ svagṛhāṅgaṇaṃ bhramati sā maddarśanāl līyate dhanyān paśyati locanena sakalenārdhena māṃ vīkṣate ।
+anyān mantrayate punar mayi gate maunaṃ samālambate nīto dūram ahaṃ tayā dayitayā sāmānyalokād api ।।

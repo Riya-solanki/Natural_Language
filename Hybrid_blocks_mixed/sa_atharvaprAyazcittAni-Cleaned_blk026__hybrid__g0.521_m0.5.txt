@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 26 | label: hybrid | g:0.521 m:0.5 ---
+
+rātryā yad enaḥ kṛtam asti pāpam iti prātar ।

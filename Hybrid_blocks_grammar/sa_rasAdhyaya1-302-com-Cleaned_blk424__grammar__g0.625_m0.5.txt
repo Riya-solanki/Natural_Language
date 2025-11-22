@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 424 | label: grammar | g:0.625 m:0.5 ---
+
+tathā caturdaśavarṇikādaśīkādaśayanavāś ceti sampratikale svarṇaparamasīmā ataḥ paraṃ śodhane api kṛte na hi karṇikāvṛddhiḥ ।।

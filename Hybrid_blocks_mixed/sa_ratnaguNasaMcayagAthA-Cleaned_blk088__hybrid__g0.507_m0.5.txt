@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 88 | label: hybrid | g:0.507 m:0.5 ---
+
+yada dharma saṃskṛta asaṃskṛta kṛṣṇaśuklo aṇumātru no labhati prajña vibhāvamānaḥ 
+yada prajñapāramita gacchati saṃkhya loke ākāśa yatra na pratiṣṭhitu kiṃci tatra ।।

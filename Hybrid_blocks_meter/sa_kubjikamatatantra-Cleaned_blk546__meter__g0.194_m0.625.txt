@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 546 | label: meter | g:0.194 m:0.625 ---
+
+kartavyo hi japo nityaṃ sarvaśāstraviśāradaiḥ 
+bhuvanākhye varārohe śaktyākhye tu tathaiva hi ।।

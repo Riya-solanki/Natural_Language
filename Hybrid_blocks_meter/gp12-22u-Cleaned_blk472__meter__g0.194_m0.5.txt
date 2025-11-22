@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 472 | label: meter | g:0.194 m:0.5 ---
+
+sa eṣa rādhike sarva-durlabhas tava vallabhaḥ ।
+tvad-arthaṃ pīḍayāpy ārto dināni krīḍayānayat ।। [anuṣṭubh]

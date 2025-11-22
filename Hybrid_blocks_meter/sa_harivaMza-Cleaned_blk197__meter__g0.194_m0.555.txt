@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 197 | label: meter | g:0.194 m:0.555 ---
+
+tasya vistaram ākhyāsye manor vaivasvatasya ha 
+tavānukūlyād rājendra yadi śuśrūṣase anagha 
+mahadd hy etad adhiṣṭhānaṃ purāṇe pariniṣṭhitam ।। 
+puṇyaṃ yaśasyam āyuṣyaṃ svargavāsakaraṃ śubham । 
+vistareṇa pṛthor janma vaiśampāyana kīrtaya 
+yathā mahātmanā tena dugdhā ceyaṃ vasuṃdharā ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10660 | label: meter | g:0.357 m:0.783 ---
+
+vāstavaṃ ye vijānanti teṣāṃ nityaṃ dhanaṃ tapaḥ ।
+śrīgaruḍa uvāca ।
+suptistvajñānakāryatvātsuptirnāstītyudīritā ।।

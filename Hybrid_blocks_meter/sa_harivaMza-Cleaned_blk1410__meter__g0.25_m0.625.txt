@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1410 | label: meter | g:0.25 m:0.625 ---
+
+na prāṇināṃ bhayaṃ cāsīj jalānalavighātajam 
+na ca sma vṛddhā bālānāṃ pretakāryāṇi kurvate ।।

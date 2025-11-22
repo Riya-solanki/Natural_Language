@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1598 | label: meter | g:0.25 m:0.5 ---
+
+kathito bhavatā brahman sargaḥ svāyambhuvasya me 
+śrotum icchāmy ahaṃ tvattaḥ sakalaṃ maṇḍalaṃ bhuvaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6616 | label: meter | g:0.25 m:0.625 ---
+
+payaḥ kāñcanavarṇāyāḥ śvetavarṇaṃ ca gomayam ।
+gomūtraṃ tāmravarṇāyā nīlavarṇabhavaṃ ghṛtam ।।

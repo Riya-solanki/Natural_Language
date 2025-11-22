@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 983 | label: hybrid | g:0.5 m:0.5 ---
+
+calatāṃ tṛṇaparṇapallavānāṃ dhvanim ākarṇya vane mṛgā vasantaḥ ।
+anapekṣya parasparaṃ dravāmaḥ svasutān apy avadhūya mṛtyubhītāḥ ।।

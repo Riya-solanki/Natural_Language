@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10432 | label: hybrid | g:0.5 m:0.5 ---
+
+etādṛśī śaktirmamāsti deva tava prasādādbra linopi viṣṇo ।
+athāpi nāhaṃ stavane samarthaḥ lakṣmyā hyahaṃ koṭiguṇairvihīnaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1137 | label: meter | g:0.25 m:0.5 ---
+
+[] madhukaṇṭha uvāca-tarhi tāḥ kumārikāḥ katham āsan?

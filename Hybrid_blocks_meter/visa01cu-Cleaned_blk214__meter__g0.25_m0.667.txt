@@ -1,0 +1,7 @@
+--- source: visa01cu-Cleaned.txt | block: 214 | label: meter | g:0.25 m:0.667 ---
+
+yasyālīyatetiatra bhagavato daśāvatāravarṇānam ।
+atrālīyateti kiyāyāḥ prativākyamanvayaḥ ।
+śalkasīnmi valkalapradeśe jaladhiralīyateti, anena matsyaḥ ।
+pṛṣṭadeśe jaganmaṇḍalamalīyateti kūrmaḥ, evaṃ varāhādayaḥ ।
+kasmaicid viśeṣato nirddeṣṭumaśakyatvāt ।

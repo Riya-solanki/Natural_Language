@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3429 | label: meter | g:0.25 m:0.75 ---
+
+sarveṣāmaṃpi bhūtānāṃ nānyalloke parāyaṇam ।
+yathā tathānupasyeyaṃ bhavantaṃ rājyavicyutam ।।

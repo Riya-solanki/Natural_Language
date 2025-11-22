@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6756 | label: meter | g:0.302 m:0.806 ---
+
+tatkathāśravaṇe prītiraśrunetrāṅgavikriyāḥ ।
+yena sarvātmanā viṣṇau bhaktyā bhāvo niveśitaḥ ।।

@@ -1,0 +1,9 @@
+--- source: kunvjivu-Cleaned.txt | block: 1238 | label: grammar | g:0.574 m:0.479 ---
+
+"sā parāpi"anyāpi na kevalaṃ prāguktā, "asya" rūpakādeḥ, "vakratā"vakrabhāvo bhavatīti saṃbandhaḥ ।
+"yatraikaphalasaṃpattisamudyukto api nāyakaḥ", "yatra"yasyāṃ, "ekaphalasaṃpattisamudyukto api"parābhimatavastusādhanavyavasito api nāyakaḥ, "phalāntareṣvananteṣu" "phalāntareṣu"sādhyarūpeṣu vastuṣu, "ananteṣu"gaṇanātīteṣu ।
+"tattulyapratipattiṣu dhatte nimittatām" "tattulyapratipattiṣu"ādhikārikaphalasamānopapattiṣu, prastutārthasiddherevādhigatasiddhiṣvati ।
+kiṃbhūtaḥ "spharāyaśaḥsaṃbhārabhājanam" "sphārasya" brahmāṇḍodarabharitvādatiriktasya, "yaśasaḥ"kīrteḥ yaḥ "saṃbhāraḥ"samudayaḥ, tasya "bhājanaṃ" pātraṃ bhūmiriti yāvat ।
+kuto hetoḥ "svamāhātmyacamatkārāt" "svamāhātmyaṃ" svasya prabhāvaḥ, tasya "camatkāraḥ" āścaryakāritvaṃ, tasmāt ।
+etaduktaṃ bhavatiniḥsīmamanorathamalaṅkariṣṇunaikenāṃśakena phalena saṃyuto apyaparimitāni tādṛśasvarūpāṇi phalānyagamyānyadhyavasāyādanicchannapi svaprabhāvasaṃpadā saṃpādayannāyakaḥ kamapi kāmanīyakanidhānakalaśaṃ prabandhasya vakrimāṇamāvahati ।
+yathā nāgānande tatra durnivāravairādapi vainateyāntakāde sakalakāruṇikacūcamaṇiḥ śaṅkhacūḍaṃ jīmūtavāhano nijadehadānādabhirakṣanna rakṣitavān apitu sakalaṃ tatkulameva

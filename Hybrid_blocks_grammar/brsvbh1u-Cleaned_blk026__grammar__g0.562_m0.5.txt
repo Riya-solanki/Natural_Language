@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 26 | label: grammar | g:0.562 m:0.5 ---
+
+-idaṃśabdasya parākpratipādakatvāviśeṣe api ete vayamityādi pracuraprayogavaśānmukhyavadbhānaṃ bhavatīti tattatra nirūḍhamiti bhāvaḥ ।

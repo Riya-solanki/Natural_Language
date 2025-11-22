@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9438 | label: meter | g:0.306 m:0.5 ---
+
+evaṃ yo vitaret tārkṣya śṛṇu tasya ca yat phalam ।
+sāgraṃ varṣaśataṃ divyaṃ svargaloke mahīyate ।।

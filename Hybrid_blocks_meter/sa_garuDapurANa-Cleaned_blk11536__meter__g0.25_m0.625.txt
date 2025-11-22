@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11536 | label: meter | g:0.25 m:0.625 ---
+
+girijāṃ vāmabhāge tu sauparṇai caiva saṃnamet ।
+prāgindrāya namaskuryātsāyudhāya tathaiva ca ।।

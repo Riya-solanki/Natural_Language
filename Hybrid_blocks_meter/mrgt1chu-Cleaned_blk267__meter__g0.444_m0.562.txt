@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 267 | label: meter | g:0.444 m:0.562 ---
+
+iyadeva tadbaddhasya baddhatvaṃ yatpāśitatve satyapāśitavaśyatā svatantraparameśvarāyattatvam ityarthaḥ ।। 
+muktasya caitāvadeva tanmuktatvaṃ yad baddhatvāpagamāt tadvaśitvaṃ svātantryābhivyaktiḥ ।। 
+tathā hi loke'pi bandharahito vaśī baddhaśca vaśya ityucyate ।। 
+kimata ityāha ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6912 | label: meter | g:0.25 m:0.555 ---
+
+devaṃ garbhocitaṃ viṣṇuṃ sadā dhyāyanvimucyate ।
+aśirīraṃ vidhātāraṃ sarvajñānamanoratim ।
+acalaṃ sarvagaṃ viṣṇuṃ sadā dhyāyanvimucyate ।।

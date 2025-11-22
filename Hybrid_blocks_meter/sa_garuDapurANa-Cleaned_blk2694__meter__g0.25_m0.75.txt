@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2694 | label: meter | g:0.25 m:0.75 ---
+
+divā sandhyāsu karṇasthabrahmasūtra udaḍmukhaḥ ।
+kuryānmūtrapurīṣe tu rātrau ceddakṣiṇāmukhaḥ ।।

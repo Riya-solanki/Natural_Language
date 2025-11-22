@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 46 | label: hybrid | g:0.498 m:0.146 ---
+
+yathā-
+vāladhiṃ trātum āvṛtya camareṇārpite gale ।
+patantam iṣum anyena sa kṛpālur akhaṇḍayat ।। 
+Some MSS have the following example sa dakṣiṇaṃ tūṇa-mukhena vāmaṃ । vyāpārayan hastam alakṣyatājau । ākarṇa-kṛṣṭā sakṛd asya yoddhum । aurvīva bāṇān suṣuve ripu-ghnān ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1443 | label: meter | g:0.316 m:0.5 ---
+
+na dṛṣṭamevaṃ ca yataḥ sukhāsukhaṃ na pūrvakarmaikamato asya kāraṇam ।
+bhavedabhāvaśca navasya karmaṇastadaprasiddhau ca purātanaṃ kutaḥ ।।

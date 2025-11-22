@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1355 | label: meter | g:0.25 m:0.5 ---
+
+yatkṛtyaṃ parame mitre kṛtamasmāsu tattvayā ।
+saṃstave hi nave apyasmin svamāhātmyānuvartinā ।।

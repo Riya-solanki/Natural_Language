@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3323 | label: meter | g:0.272 m:0.845 ---
+
+catuḥṣaṣṭikalāḥ śvetā mahāpadmo nidhiḥ sthitaḥ ।
+muktāsuvarṇarajataṃ rathāśvagajabhūṣaṇam ।।

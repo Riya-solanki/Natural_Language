@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 74 | label: grammar | g:0.75 m:0.5 ---
+
+tad adhunā karavāṇi bhadanta he vada vadāsti dayā yadi te mayi । nipatitaṃ mahati vyasanārṇave kṛpaṇakaṃ kṛpayoddhara māṃ yate ।।

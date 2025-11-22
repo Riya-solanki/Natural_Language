@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1316 | label: grammar | g:0.667 m:0.5 ---
+
+yan netrais tribhir īkṣate na giriśo nāṣṭābhir apy abjabhūḥ skando dvādaśabhir na vā na maghavā cakṣuḥsahasreṇa vā ।
+sambhūyāpi jagattrayasya nayanair draṣṭuṃ na tac chakyate pratyādiśya dṛśau samāhitadhiyaḥ paśyanti yat paṇḍitāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 79 | label: meter | g:0.25 m:0.625 ---
+
+devatāḥ sarvalokasthāḥ saṃbhūtā jinamaṇḍale ।
+dadyāt tebhyo baliṃ tuṣṭyā pūjābhaktyarcanair ataḥ ।।

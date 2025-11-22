@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 486 | label: meter | g:0.25 m:0.625 ---
+
+viśuddhabodhavan nityam ajam akṣayam avyayam 
+avyaktam avikāraṃ yat tad viṣṇoḥ paramaṃ padam ।।

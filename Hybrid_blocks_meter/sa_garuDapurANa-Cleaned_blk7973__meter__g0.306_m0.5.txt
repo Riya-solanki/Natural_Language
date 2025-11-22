@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7973 | label: meter | g:0.306 m:0.5 ---
+
+dṛṣṭvā tairnoyamānantu kautukaṃ me abhavatkhaga ।
+papraccha na kiyantaṃ vai kālaṃ tānpṛṣṭhato anvagām ।।

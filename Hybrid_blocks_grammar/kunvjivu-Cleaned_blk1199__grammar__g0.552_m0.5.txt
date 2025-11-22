@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1199 | label: grammar | g:0.552 m:0.5 ---
+
+navajaladharaḥ saṃnaddho ayaṃ na dṛptaniśācaraḥ suradhanuridaṃ dūrākṛṣṭaṃ na nāma śarāsanam ।
+ayamapi paṭurdhārāsāro na bāṇaparamparā kanakanikaṣasnigdhā vidyut priyā na mamorvaśī ।।

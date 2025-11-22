@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 954 | label: meter | g:0.324 m:0.56 ---
+
+lekhām anaṅgapuratoraṇakāntibhājam indor vilokaya tanūdari nūtanasya ।
+deśāntarapraṇayinor api yatra yūnor nūnaṃ mithaḥ sakhi milanti vilokitāni ।।
+etau rājaśekharasya

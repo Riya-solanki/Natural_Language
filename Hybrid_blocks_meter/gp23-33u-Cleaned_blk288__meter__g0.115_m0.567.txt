@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 288 | label: meter | g:0.115 m:0.567 ---
+
+atiparimiti-śobhā-bhājanaṃ kṛṣṇa-rūpaṃ
+nayad anupama-kāntiṃ yauvataṃ tad vireje ।
+idam upamiti-śūnyaṃ yat tu kāvyaṃ samāptaṃ
+sa iha na mama doṣas tadd hi tattvaṃ tathaiva ।। [mālinī]

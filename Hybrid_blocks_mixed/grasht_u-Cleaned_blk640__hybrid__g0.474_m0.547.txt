@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 640 | label: hybrid | g:0.474 m:0.547 ---
+
+taccāha kāntetyādi ।।
+kāntābhraśulbatāpyaṃ kāntaṃ cumbakaṃ abhrakaṃ gaganaṃ śulbaṃ tāmraṃ tāpyaṃ mākṣikaṃ ityapi mahābījam ।।
+eteṣāṃ mahābījānāṃ cet saṃkarabījaṃ pratyekaṃ dravyasya bījasaṃjñā sā tarhi catuḥṣaṣṭipramāṇā syādityarthaḥ ।।

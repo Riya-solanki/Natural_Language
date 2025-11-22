@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7427 | label: meter | g:0.306 m:0.5 ---
+
+na kṣattrairjovate yastu naro gacchedadhomukham ।
+kṣīraṃ surāṃ ca māsaṃ lākṣāṃ gandhaṃ rasaṃ tilān ।।

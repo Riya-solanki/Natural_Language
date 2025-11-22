@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 165 | label: hybrid | g:0.455 m:0.5 ---
+
+{upakṛtaṃ bahu tatra kimucyate sujanatā prathitā bhavatā param ।
+vidadhadīdṛśameva sadā sakhe sukhitamāssva tataḥ śaradāṃ śatam ।।}

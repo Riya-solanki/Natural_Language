@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6244 | label: hybrid | g:0.507 m:0.5 ---
+
+bhūteṣu yo antar vasati sma nityaṃ sarvāṇi bhūtāni ca yatra santi 
+dhātā vidhātā parameśvaraś ca sa vāsudevo na yataḥ paro anyaḥ ।।

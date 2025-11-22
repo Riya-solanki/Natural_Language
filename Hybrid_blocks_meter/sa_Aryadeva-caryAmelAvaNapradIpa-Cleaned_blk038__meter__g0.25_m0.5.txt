@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 38 | label: meter | g:0.25 m:0.5 ---
+
+atha bhagavān viśvo vajrapāṇiṃ vadet tataḥ ।
+sādhu sādhu ca guhyeśa vyākṛtāgāmikā tvayā ।।

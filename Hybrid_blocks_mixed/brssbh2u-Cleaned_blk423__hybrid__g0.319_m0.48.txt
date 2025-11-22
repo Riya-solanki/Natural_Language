@@ -1,0 +1,6 @@
+--- source: brssbh2u-Cleaned.txt | block: 423 | label: hybrid | g:0.319 m:0.48 ---
+
+tuśabdaḥ pakṣāntaraparigrahe ।
+mā nāmākāśasya chāndogye bhūdutpattiḥ, śrutyantare tvasti ।
+taittirīyakā hi samāmananti- asatyaṃ jñānamantaṃ brahma' iti prakṛtya atasmādvā etasmādātmana ākāśaḥ saṃbhūtaḥ' iti ।
+tataśca śrutyorvipratiṣedhaḥ kvacittejaḥpramukhā sṛṣṭiḥ kvacidākāśapramukheti ।

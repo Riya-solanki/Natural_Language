@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2750 | label: meter | g:0.194 m:0.5 ---
+
+dhṛtaṃ govardhanaṃ dṛṣṭvā paritrātaṃ ca gokulam 
+kṛṣṇasya darśanaṃ śakro rocayāmāsa vismitaḥ ।।

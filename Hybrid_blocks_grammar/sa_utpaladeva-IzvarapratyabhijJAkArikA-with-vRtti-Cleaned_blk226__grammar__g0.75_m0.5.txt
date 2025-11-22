@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 226 | label: grammar | g:0.75 m:0.5 ---
+
+yadāyattā hi vastunaḥ svarūpeṇa nityatāviśeṣaṇair vā vyavasthāpyamānatā sa pramātuḥ svatvenāpūrvavastvābhāsaiva sthitaḥ pramāṇam । sa eva cābhāso ayam iti nitya iti vā tathaiva pṛthaktayābhinavatvena ca pramātary uparūḍho vimarśarūpatām āpanno vimarśabhedānusāryaikaikaśabdavācye pṛthakpṛthag eva tiraskṛtadeśādibhede tasminn ābhāta eva sāmānyarūpe vastuni svakārthakriyāprāpte pramāṇāntareṇābādhitasthairyā pramitiḥ pramātṛvyāpāraḥ ।।

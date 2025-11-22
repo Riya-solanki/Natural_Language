@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 6 | label: meter | g:0.306 m:0.5 ---
+
+svabhāvasaṃsiddhir iyaṃ tathā hi janasya sadvṛttiniratyayasya ।
+vijihmabhāveṣv api yat prayāti guṇaprasiddheḥ khalu hetubhāvam ।।

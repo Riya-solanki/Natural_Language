@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 144 | label: meter | g:0.398 m:0.555 ---
+
+kathaṃ punar amī na karmaśabdāḥ, yadā dhātumātraṃ karmaśabdatvenoktam ।
+nirviśeṣasya sāmānyasyānuṣṭhātum aśakyatvād akarmaśabdatvam ।
+ato viśeṣavācinām eva dhātūnāṃ karmaśabdatvāśrayaṇād acodyam etat ।

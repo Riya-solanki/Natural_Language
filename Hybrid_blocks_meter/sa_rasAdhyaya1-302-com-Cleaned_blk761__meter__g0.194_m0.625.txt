@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 761 | label: meter | g:0.194 m:0.625 ---
+
+karpareṣu navīneṣu gartānkṛtvātha hīrakān 
+tāneva dhmāpayet kṣiptvā dhmātān miśreṇa chaṇṭayet ।।

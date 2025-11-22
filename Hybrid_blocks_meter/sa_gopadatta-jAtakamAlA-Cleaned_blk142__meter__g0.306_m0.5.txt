@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 142 | label: meter | g:0.306 m:0.5 ---
+
+mayaiva viṣayoddāmaṃ nanu ceto nivāritam ।
+anyaiś ca vratibhir vīrais tat kasmān nānuvartase ।।

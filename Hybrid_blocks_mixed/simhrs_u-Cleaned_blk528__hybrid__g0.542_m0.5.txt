@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 528 | label: hybrid | g:0.542 m:0.5 ---
+
+atra prastuta-citra-nirmāṇānirvāhān mādhavasya kiṃ karomīti vāg-ārambha-sūcitayā tad-darśanopāya-cintayā viṣādo vyajyate ।

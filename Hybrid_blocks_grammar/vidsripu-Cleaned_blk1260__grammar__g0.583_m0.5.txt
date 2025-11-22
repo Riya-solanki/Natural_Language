@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1260 | label: grammar | g:0.583 m:0.5 ---
+
+viṣṇur babhāra bhagavān akhilāṃ dharitrīṃ taṃ pannagas tam api tatsahitaṃ payodhiḥ ।
+kumbhodbhavas tu tam apīyata helayaiva satyaṃ na kaścid avadhir mahatāṃ mahimnaḥ ।।

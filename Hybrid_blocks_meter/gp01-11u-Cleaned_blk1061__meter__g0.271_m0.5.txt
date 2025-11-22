@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1061 | label: meter | g:0.271 m:0.5 ---
+
+[] yatra vṛndārakā dārakāś ca kramān mumudire । yathā-

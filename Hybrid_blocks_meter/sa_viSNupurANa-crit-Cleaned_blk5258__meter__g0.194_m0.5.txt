@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5258 | label: meter | g:0.194 m:0.5 ---
+
+iti śrutvā smitaṃ kṛtvā bhagavān devakīsutaḥ 
+gṛhītvā vāsavaṃ haste samuttasthau varāsanāt ।।

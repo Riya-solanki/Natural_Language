@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 20 | label: meter | g:0.25 m:0.625 ---
+
+gandhodakaiḥ suśītaiś ca caityapuṃgavaṃ snāpayet ।
+gokṣīraiḥ pañcaratnaiś ca śilābhasmābhilepayet ।।

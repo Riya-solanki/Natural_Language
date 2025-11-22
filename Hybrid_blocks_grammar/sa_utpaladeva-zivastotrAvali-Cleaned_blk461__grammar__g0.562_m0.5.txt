@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 461 | label: grammar | g:0.562 m:0.5 ---
+
+bhaktilakṣmīsamṛddhānāṃ kim anyad upayācitam etayā vā daridraṇāṃ kim anyad upayācitam ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 593 | label: meter | g:0.066 m:0.715 ---
+
+kharjarādi-phalaiḥ sukanda-valitair mitraiḥ samaṃ prāvṛṣi
+prāñcad-vṛṣṭija-vāri-vāriṇi taru-kroḍe' śana-krīḍanam ।
+nīra-prānta-śilāsu tāsu dadhi-yug-bhipsādi sambhojanaṃ
+dūrād dhenv-anuhūtir apy aghajitā naś cittam ulluñcati ।। [śārdūla]

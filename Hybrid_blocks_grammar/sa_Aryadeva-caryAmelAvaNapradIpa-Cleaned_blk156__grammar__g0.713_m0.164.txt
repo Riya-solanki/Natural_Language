@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 156 | label: grammar | g:0.713 m:0.164 ---
+
+tābhiḥ saṃramyamāṇastu yātyutpattiṃ tu gacchataḥ । sarvadevīmahāsidhya ścakravartī prasidhyati ।। iti । pratyahaṃ pratimāsaṃ vā pratisaṃvatsaraṃ tathā । yathādhiṣṭhānato vāpi nāṭayed buddhasaṃvaram ।। iti । 
+utthito vā niṣaṇṇo vā caṃkraman vā yathāsthitaḥ ।
+praharṣan vā jalpan vā yatra tatra yathā tathā ।।

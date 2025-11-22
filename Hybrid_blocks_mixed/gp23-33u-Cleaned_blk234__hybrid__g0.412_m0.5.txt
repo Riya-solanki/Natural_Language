@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 234 | label: hybrid | g:0.412 m:0.5 ---
+
+tābhir vidhūta-śokābhir bhagavān acyuto vṛtaḥ ।
+vyārocatādhikaṃ tāta puruṣaḥ śaktibhir yathā ।।[BhP ] iti ca ।
+[] bhāvaś ca na kāmatāṃ bhāvayate, kintu tan-nibha-prema-viśeṣatām eva, yataḥ-

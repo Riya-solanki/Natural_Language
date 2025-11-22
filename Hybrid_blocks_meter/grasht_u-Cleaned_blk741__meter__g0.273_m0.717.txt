@@ -1,0 +1,7 @@
+--- source: grasht_u-Cleaned.txt | block: 741 | label: meter | g:0.273 m:0.717 ---
+
+sāraṇāyantra
+kṛtvā mūṣāṃ dīrghāṃ bandhitatribhāgapraṇālikāṃ tāṃ ca ।
+tasyāgre prakaṭamūṣā sacchidrā sudṛḍhamṛttikāliptā ।।
+tasminprakṣipya rasaṃ sāraṇatailānvitaṃ tapte ।
+pradrāvya tulyakanakaṃ kṣipte'smin milati rasarājaḥ ।।

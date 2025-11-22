@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1748 | label: grammar | g:0.75 m:0.5 ---
+
+iti kṣāntyā pāpaṃ pariharati taddhetvabhibhavād ataścāyaṃ vairaṃ na janayati maitryāśrayabalāt । priyaḥ pūjyaścāsmādbhavati sukhabhāgeva ca tataḥ prayātyante ca dyāṃ svagṛhamiva puṇyāśrayaguṇāt ।।

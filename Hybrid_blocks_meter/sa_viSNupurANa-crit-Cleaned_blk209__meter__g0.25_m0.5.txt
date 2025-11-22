@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 209 | label: meter | g:0.25 m:0.5 ---
+
+prayānti toyāni khurāgravikṣate rasātale adhaḥ kṛtaśabdasaṃtatam 
+śvāsānilārtāḥ paritaḥ prayānti siddhā jane ye niyataṃ vasanti ।।

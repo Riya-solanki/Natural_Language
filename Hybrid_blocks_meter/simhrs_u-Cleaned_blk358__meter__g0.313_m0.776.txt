@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 358 | label: meter | g:0.313 m:0.776 ---
+
+varṇanāyāṃ, yathā mamaiva-
+uttuṅgau stana-kalaśau sambhā-stambhopamānam ūru-yugam ।
+tarale dṛśau ca tasyāḥ sṛjatā dhātrā kim āhitaṃ sukṛtam ।।

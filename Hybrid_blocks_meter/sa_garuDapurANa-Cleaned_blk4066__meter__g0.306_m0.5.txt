@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4066 | label: meter | g:0.306 m:0.5 ---
+
+yathā rāmo nayecchīghraṃ tathā vācyaṃ tvayā kape ।
+tathetyuktvā tu hanumānvanaṃ divyaṃ babhañja ha ।।

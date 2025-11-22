@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 24 | label: hybrid | g:0.549 m:0.5 ---
+
+nṛtyantaḥ śikhino manoharam amī śrāvyaṃ paṭhantaḥ śukā vīkṣyante na ta eva khalv iha ruṣā vāryanta evāthavā 
+pānthastrīgṛham iṣṭalābhakathanāl labdhānvayenāmunā sampraty etad anargalaṃ balibhujā māyāvinā bhujyate ।।

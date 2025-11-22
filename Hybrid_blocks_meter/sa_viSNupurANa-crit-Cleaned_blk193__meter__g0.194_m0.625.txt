@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 193 | label: meter | g:0.194 m:0.625 ---
+
+tvayāham uddhṛtā pūrvaṃ tvanmayāhaṃ janārdana 
+tathānyāni ca bhūtāni gaganādīny aśeṣataḥ ।।

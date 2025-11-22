@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2888 | label: meter | g:0.194 m:0.625 ---
+
+prāṅmukhodaṅmukho vāpi na caivānyamanā naraḥ 
+annaṃ praśastaṃ pathyaṃ ca prokṣitaṃ prokṣaṇodakaiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4840 | label: meter | g:0.272 m:0.595 ---
+
+asicakragadābāṇā dakṣiṇaṃ pārśvam āsthitāḥ 
+carma śārṅgaṃ tathā cāpaṃ śaṅkhaṃ caivāsya vāmataḥ ।।

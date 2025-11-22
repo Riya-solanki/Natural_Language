@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 362 | label: meter | g:0.25 m:0.727 ---
+
+tālā jāanti guṇā jālāte sahiaehi gheppanti ।
+raikiraṇāṇuggahiāiṃ hāenti kamalāiṃ kamalāiṃ ।।
+tadā jāyante guṇā yadā te sahṛdayairgṛhyante ।
+ravikiraṇānugṛhītāni bhavanti kamalāni kamalāni ।।
+iti chāyā ।

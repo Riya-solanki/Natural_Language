@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 229 | label: meter | g:0.29 m:0.747 ---
+
+kāñjikauṣadhapattrāntaḥ poṭalīmadhyalambanaḥ 
+culhāgnau svedyate svedyaṃ yatredaṃ dolayantrakam ।।

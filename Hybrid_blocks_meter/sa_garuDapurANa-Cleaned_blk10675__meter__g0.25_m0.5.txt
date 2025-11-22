@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10675 | label: meter | g:0.25 m:0.5 ---
+
+ato jñānādikaṃ nāsti brahmaṇaḥ parameṣṭhinaḥ ।
+padmāddhiraṇma yājjāto brahmā tu caturānanaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 995 | label: meter | g:0.194 m:0.5 ---
+
+kaṇḍor apatyam evaṃ sā vṛkṣebhyaś ca samudgatā 
+mamāpatyaṃ tathā vāyoḥ pramlocātanayā ca sā ।।

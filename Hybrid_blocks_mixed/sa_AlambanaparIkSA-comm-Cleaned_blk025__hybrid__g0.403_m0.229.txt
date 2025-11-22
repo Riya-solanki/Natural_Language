@@ -1,0 +1,5 @@
+--- source: sa_AlambanaparIkSA-comm-Cleaned.txt | block: 25 | label: hybrid | g:0.403 m:0.229 ---
+
+krameṇāpi so arthāvabhāsaḥ svānurūpakāryotpattaye śaktiṃ vijñānadhārāṃ karotītyavirodhaḥ ।। yadi tarhi svarūpamevālambanapratyayaḥ । kathaṃ tat[rūpaṃ] cakṣuścopādāya cakṣurvijñānamutpadyate ।। [iti] ।
+sahakārivaśādyaddhi śaktirūpaṃ [tat] indriyam ।।
+indriyaṃ svakāryāt śaktirūpamevānumīyate na tu bhautikam ।

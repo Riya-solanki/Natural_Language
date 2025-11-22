@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11912 | label: hybrid | g:0.531 m:0.5 ---
+
+yastaṃbhasūtraṃ kalaśe parītya pūjāṃ kṛtvā vidyamāno gṛhe sve ।
+yadā tadā yamadūtaśca samyak taṃ staṃbhasūtraṃ tasya mukhe nidhāya ।।

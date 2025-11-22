@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3902 | label: meter | g:0.194 m:0.625 ---
+
+visṛṣṭena drumeṇājau vaṅgarājasya kuñjaram 
+jaghāna rāmaḥ samkruddho vaṅgarājaṃ ca saṃyuge ।।

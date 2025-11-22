@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 841 | label: meter | g:0.056 m:0.625 ---
+
+gopa-rāja tava sūnur īdṛśaḥ
+śailam apy adhṛtaḥ yaḥ svakān avan ।
+yaś ca śakram api ghātam antarāpy
+uddhūtaṃ vyadhita dūra-deśataḥ ।। [indravajrā]

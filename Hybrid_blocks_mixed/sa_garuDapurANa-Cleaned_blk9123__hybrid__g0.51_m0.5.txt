@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9123 | label: hybrid | g:0.51 m:0.5 ---
+
+vayaṃ hema vayaṃ dhānyaṃ vayaṃ madhu vayaṃ ghṛtam ।
+vayaṃ viprā vayaṃ devā vayaṃ śambhuśca bhūrbhuvaḥ ।।

@@ -1,0 +1,7 @@
+--- source: rasadh_u-Cleaned.txt | block: 133 | label: meter | g:0.25 m:0.76 ---
+
+tāramadhyagataṃ kṛtvā pūrvavatpātayedrasam ।
+hemapiṣṭānusaṃpiṣṭaṃ kumārīrasamarditam ।।
+uparisthasya bhāṇḍasya budhnasaṃlepitaṃ dhruvam ।
+evaṃ tu gandhakaṃ tāmrarajate hāṭake tathā ।
+punaḥ punastathā pātyaṃ cetthaṃ saṃsārayettataḥ ।।

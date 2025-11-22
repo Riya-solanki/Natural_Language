@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7003 | label: meter | g:0.332 m:0.746 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca vedāntasāṅkhyasiddhāntabrahmajñānaṃ vadāmyaham ।
+ahaṃ brahma paraṃ jyotirviṣṇurityeva cintayan ।।

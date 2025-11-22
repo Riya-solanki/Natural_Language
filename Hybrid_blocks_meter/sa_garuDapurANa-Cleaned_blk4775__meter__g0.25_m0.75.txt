@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4775 | label: meter | g:0.25 m:0.75 ---
+
+asvedañcamatsyaśalkasannibhaṃ kiṭimaṃ punaḥ ।
+rūkṣāgnivarṇaṃ duḥ sparśaṃ kaṇḍūmatparuṣāsitam ।।

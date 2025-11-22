@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 720 | label: meter | g:0.315 m:0.714 ---
+
+anujñātaścaredbhaikṣaṃ prāptamadyānniveditam 
+śayīta supta ityādi kuryādvidhyuditaṃ ca yat ।।

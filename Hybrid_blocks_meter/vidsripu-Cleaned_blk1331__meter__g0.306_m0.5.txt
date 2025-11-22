@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1331 | label: meter | g:0.306 m:0.5 ---
+
+devānām api paśyantāṃ sa śriyā medhyate khalu ।
+vāsasāpi na yogo asti niścakrasya pinākinaḥ ।।

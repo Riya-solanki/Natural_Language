@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 660 | label: meter | g:0.102 m:0.5 ---
+
+prasādāt tasya devasya na glānir abhavat tadā 
+na kṣutpipāse kālaṃ vā jānāmi sma tadānagha 
+paścāc chiṣyasakāśāt tu kālaḥ saṃvidito mama ।।

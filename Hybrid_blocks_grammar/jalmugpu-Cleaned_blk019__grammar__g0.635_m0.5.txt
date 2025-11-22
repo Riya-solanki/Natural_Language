@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 19 | label: grammar | g:0.635 m:0.5 ---
+
+cchāyām abhradalaiḥ khalaiḥ sujanatāṃ mānonnatiṃ yācñayā kārpaṇyena yaśāṃsi dhūrtakalayā maitrīṃ sukhaṃ sevayā ।
+dharmaṃ prāṇivadhena vāñchati dhanaṃ dyūtaprasādeba yo veśyābhiś ca vilāsam ātmani narākāro asti gaur eva saḥ ।।

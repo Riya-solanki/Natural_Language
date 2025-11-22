@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2738 | label: meter | g:0.194 m:0.625 ---
+
+vedāharaṇakāryeṇa tīrthasnānāya ca prabho 
+aṭanti vasudhāṃ viprāḥ pṛthivīdarśanāya ca ।।

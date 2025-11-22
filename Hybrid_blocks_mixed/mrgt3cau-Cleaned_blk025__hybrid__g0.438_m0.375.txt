@@ -1,0 +1,6 @@
+--- source: mrgt3cau-Cleaned.txt | block: 25 | label: hybrid | g:0.438 m:0.375 ---
+
+Vṛtti:
+[nyagrodhāśvatthapatreṣu] nyagrodhasya vaṭasya, aśvatthasya cordhvodgatamūlastadviśeṣasya patreṣu, [vātaghnākṣadaleṣu] vātaghnasya cairaṇḍādeḥ akṣasya vibhītakasya sambandhiṣu patreṣu, kāṃsye pātre abhojanaṃ,
+[cāturvarṇyam akutsitaṃ bhaikṣaṃ] brāhmaṇādivarṇacatuṣṭayādaninditādbhaikṣagrahaṇaṃ ca sarvasādhāraṇam।
+[annavarjanam]

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11881 | label: meter | g:0.306 m:0.5 ---
+
+ityādikaṃ prerayitvā patiṃ sā jīvena naṣṭaṃ prikarotyeva nityam ।
+tasyāḥ saṃgājjīvarūpaḥ patistvāṃ samyagdaṣṭāmihaloke paratra ।।

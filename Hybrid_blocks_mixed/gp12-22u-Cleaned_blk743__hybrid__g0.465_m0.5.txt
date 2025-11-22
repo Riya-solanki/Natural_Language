@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 743 | label: hybrid | g:0.465 m:0.5 ---
+
+yathā kṛṣṇas tathā rāmo rāmo yadvat tathā sa ca ।
+vrajeśayor nātra bhedas tan-mitreṣv api tad-dṛśoḥ ।। [anuṣṭubh]

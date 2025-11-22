@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4122 | label: meter | g:0.194 m:0.5 ---
+
+priyam icchasi cet kartuṃ mahyaṃ śilpavatāṃ vara 
+kṛṣṇapriyārthaṃ bhūyas tvaṃ kariṣyasi manoharām ।।

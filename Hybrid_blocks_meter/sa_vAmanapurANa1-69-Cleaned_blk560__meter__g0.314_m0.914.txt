@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 560 | label: meter | g:0.314 m:0.914 ---
+
+tāvanyonyaṃ sutīkṣṇāgraiḥ śaraiḥ saṃnataparvabhiḥ ।
+rukmapuṅkhairmahāvegairājaghnaturubhāvapi ।।

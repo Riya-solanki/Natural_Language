@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 475 | label: meter | g:0.25 m:0.5 ---
+
+saṃginīṃ tu samāsādya tīrthaṃ muktisamāśrayam ।
+devyāstīrthe naraḥ snātvā labhate rūpamuttamam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11292 | label: meter | g:0.306 m:0.5 ---
+
+tasyāśca tāpātsaṃtataṃ madvicārātprasannohaṃ satataṃ suprasannaḥ ।
+pūrṇānande ramamāṇāsya nityaṃ tayā ca me kiṃ sukhaṃsyātkhagendra ।।

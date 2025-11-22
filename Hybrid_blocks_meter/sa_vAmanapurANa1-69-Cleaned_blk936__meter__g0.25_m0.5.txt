@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 936 | label: meter | g:0.25 m:0.5 ---
+
+anaye abruvan dhruvaṃ devyā rohiṇyāśaśinaḥ kṣayam ।
+dṛṣṭvā taptaṃ tapo ghoraṃ rudrārādhanakāmyayā ।।

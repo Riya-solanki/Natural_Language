@@ -1,0 +1,6 @@
+--- source: visa01cu-Cleaned.txt | block: 195 | label: meter | g:0.278 m:0.646 ---
+
+rasasvarūpaṃ nirūpayiṣyāmaḥ ।
+rasa evātmā sārarūpatayā jīvanādhāyako yasya ।
+tena vinā tasya kāvyatvānaṅgīkārāt ।
+"rasyate iti rasaḥ" iti vyutpattiyogādbhāvatadābhāsādayo api gṛhyante tatra raso yathā

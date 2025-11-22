@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 98 | label: grammar | g:0.75 m:0.5 ---
+
+iti । mantrādhvani dhvanidhāmani guptabhāṣaṇapravaṇapaśyantīpade, yad vā vācyavācakādhvaṣaṭkamadhyavartipañcamantramahimani, nadāmi cidbhairavaikaghanatāpramodena garjāmi । kiṃ varākair bāhyaviṣayavikalpātaṅkaiḥ, iti pararasaparitṛptimahodgāraṃ prakaṭayati ``na māmy antaḥ kim u bāhye atra bhauvane'' iti vā pāṭhaḥ, tatra na māmi na varte kim u bhauvane kalādāv akalānte bhuvanādhvanītyarthaḥ ।।

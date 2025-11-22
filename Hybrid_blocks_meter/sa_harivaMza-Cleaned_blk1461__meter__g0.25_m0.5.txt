@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1461 | label: meter | g:0.25 m:0.5 ---
+
+tatas tamaḥ saṃhriyate vineśuś ca balāhakāḥ 
+pravavuś ca śivā vātāḥ prasannāś ca diśo daśa ।।

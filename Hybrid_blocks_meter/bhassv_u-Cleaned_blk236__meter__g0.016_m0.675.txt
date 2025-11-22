@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 236 | label: meter | g:0.016 m:0.675 ---
+
+{rājā} - notsahe sakhe vaktum 
+{padmāvatī} - aho imassa purobhāidā 
+ettieṇa hiaaṃ ṇa jāṇādi 
+[aho asya purobhāgitā । etāvatā hṛdayaṃ na jānāti । ]

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 998 | label: meter | g:0.139 m:0.76 ---
+
+tatra puruṣasya, yathā-
+likhann āste bhūmiṃ bahir avanataḥ prāṇa-dayito
+nirāhārāḥ sakhyaḥ satata-ruditocchūṇa-nayanāḥ ।
+parityaktaṃ sarvaṃ hasita-paṭhitaṃ pañjara-śukais
+tavāvasthā ceyaṃ visṛja kaṭhine mānam adhunā ।।

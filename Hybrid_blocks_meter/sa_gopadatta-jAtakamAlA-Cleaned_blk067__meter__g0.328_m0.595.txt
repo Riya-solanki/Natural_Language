@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 67 | label: meter | g:0.328 m:0.595 ---
+
+parivartati niścalekṣaṇaḥ kṣaṇamātrapratibaddhajīvitaḥ ।
+maraṇābhimukho yadā naro nanu karmaiva tadā parāyaṇam ।।

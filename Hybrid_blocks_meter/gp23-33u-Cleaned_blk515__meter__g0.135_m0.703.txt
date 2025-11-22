@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 515 | label: meter | g:0.135 m:0.703 ---
+
+atha dvātriṃśaṃ pūraṇam
+keśi-dhvaṃsana-śaṃsanaṃ
+[] atha punaḥ prātaḥ-kathāṃ yathāvat prathayiṣyāmaḥ, yathā-

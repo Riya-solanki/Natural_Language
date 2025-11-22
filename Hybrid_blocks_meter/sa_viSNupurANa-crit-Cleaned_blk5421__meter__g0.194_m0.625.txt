@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5421 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ paṭe surān daityān gandharvāṃś ca pradhānataḥ 
+manuṣyāṃś cābhilikhyāsyai citralekhā vyadarśayat ।।

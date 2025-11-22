@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1672 | label: meter | g:0.194 m:0.75 ---
+
+tāsv ime kurupāñcālā madhyadeśādayo janāḥ 
+pūrvadeśādikāś caiva kāmarūpanivāsinaḥ ।।

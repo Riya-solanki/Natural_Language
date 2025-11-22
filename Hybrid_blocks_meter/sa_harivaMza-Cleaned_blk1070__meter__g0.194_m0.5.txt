@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1070 | label: meter | g:0.194 m:0.5 ---
+
+labhet pañca varāṃś caiṣa durlabhān iha laukikān 
+āyuḥ kīrtiṃ dhanaṃ putrān aiśvaryaṃ bhūya eva ca 
+dhāraṇāc chravaṇāc caiva pañcavargasya bhārata ।। 
+lobhate manujaḥ śraiṣṭhyaṃ sarvapāpaiḥ pramucyate । 
+kroṣṭos tu śṛṇu rājendra vaṃśam uttamapūruṣam 
+yador vaṃśadharasyeha yajvanaḥ puṇyakarmaṇaḥ ।।

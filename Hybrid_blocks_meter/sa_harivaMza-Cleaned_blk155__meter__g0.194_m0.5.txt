@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 155 | label: meter | g:0.194 m:0.5 ---
+
+śucir audakān pakṣigaṇān sugrīvī tu paraṃtapa 
+aśvān uṣṭrān gardabhāṃś ca tāmrāvaṃśaḥ prakīrtitaḥ ।।

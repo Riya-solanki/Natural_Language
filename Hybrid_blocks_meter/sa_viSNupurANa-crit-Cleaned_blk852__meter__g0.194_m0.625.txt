@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 852 | label: meter | g:0.194 m:0.625 ---
+
+satyavāg dānaśīlo ayaṃ satyasandho nareśvaraḥ 
+hrīmān maitraḥ kṣamāśīlo vikrānto duṣṭaśāsanaḥ ।।

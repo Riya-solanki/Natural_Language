@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 168 | label: meter | g:0.272 m:0.595 ---
+
+śaṅkāmahe na mṛtyoś ca na ca kṛcchra-pravāhataḥ ।
+kintu tvan-mukha-candrāṃśu-darśanābhāva-vaiśasāt ।। [anuṣṭubh]

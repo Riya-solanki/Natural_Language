@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 24 | label: meter | g:0.355 m:0.512 ---
+
+ravim iva dhṛtāmitābhaṃ kavim iva surasārthaviracitastotram ।
+madhum iva sambhṛtakaruṇaṃ vidhum iva nāthaṃ khasarpaṇaṃ vande ।।
+puruṣottamasya

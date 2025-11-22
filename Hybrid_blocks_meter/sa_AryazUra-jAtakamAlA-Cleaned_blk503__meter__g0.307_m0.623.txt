@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 503 | label: meter | g:0.307 m:0.623 ---
+
+dṛṣṭaprayāmāsu ca dikṣu tasya vyāpte ca lokatritaye yaśobhiḥ ।
+babhūva naivānyayaśolavānāṃ prasartumutsāha ivāvakāśaḥ ।।

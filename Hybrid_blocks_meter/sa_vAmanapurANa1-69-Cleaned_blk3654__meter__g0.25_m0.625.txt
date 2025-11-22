@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3654 | label: meter | g:0.25 m:0.625 ---
+
+sarvāṇi bhadrāṇyāpnoti śarīrārogyamuttamam ।
+anantāṃ manasaḥ prītiṃ rūpaṃ cātīva śobhanam ।।

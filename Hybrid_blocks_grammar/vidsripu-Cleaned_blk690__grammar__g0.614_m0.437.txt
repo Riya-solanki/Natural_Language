@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 690 | label: grammar | g:0.614 m:0.437 ---
+
+bāle nātha vimuñca mānini ruṣaṃ roṣān mayā kiṃ kṛtaṃ khedo asmāsu na me aparādhyati bhavān sarve aparādhā mayi ।
+tat kiṃ rodiṣi gadgadena vacasā kasyāgrato rudyate nanv etan mama kā tavāsmi dayitā nāsmīty ato rudyate ।।
+kumārabhaṭṭasya।।

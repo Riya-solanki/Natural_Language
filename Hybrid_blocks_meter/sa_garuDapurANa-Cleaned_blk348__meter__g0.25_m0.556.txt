@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 348 | label: meter | g:0.25 m:0.556 ---
+
+pañcavarṇanibhā mālā hyananto meghasannibhaḥ ।
+vidyudrūpāṇi cāstrāṇi yāni noktāni varṇataḥ ।।
+arghyapādyādi vai dadyātpuṇḍarīkākṣavidyayā ।।
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe navavyūhārcanaṃ nāmaikādaśo adhyāyaḥ

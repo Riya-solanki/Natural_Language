@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9540 | label: meter | g:0.25 m:0.625 ---
+
+puttradravyādi santyajya tīrthaṃ vrajati yo naraḥ ।
+brahmādyā devatāstasya bhaveyustuṣṭipuṣṭidāḥ ।।

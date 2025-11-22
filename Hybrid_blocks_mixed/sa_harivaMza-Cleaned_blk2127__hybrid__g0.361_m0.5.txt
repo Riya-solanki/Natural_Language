@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2127 | label: hybrid | g:0.361 m:0.5 ---
+
+yā ca sā surabhir nāma yāditiś ca surāraṇiḥ 
+te apy ubhe tasya vai bhārye saha tenaiva yāsyataḥ ।। 
+tābhyāṃ saha sa gopatve kaśyapo bhuvi raṃsyate । 
+tad asya kaśyapasyāṃśas tejasā kaśyapopamaḥ 
+vasudeva iti khyāto goṣu tiṣṭhati bhūtale ।।

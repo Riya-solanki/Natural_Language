@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 17 | label: meter | g:0.056 m:0.729 ---
+
+{yaḥ kaumaraharaḥ sa eva hi varastā eva caitrakṣapāste
+conmīlitamālatīsurabhayaḥ prauḍhāḥ kadambānilāḥ ।
+sā caivāsmi tathāpi tatra suratavyāpāralīlāvidau
+revārodhasi vetasītarutale cetaḥ samutkaṇṭhate ।।}

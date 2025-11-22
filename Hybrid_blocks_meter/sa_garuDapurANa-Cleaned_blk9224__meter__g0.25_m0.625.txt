@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9224 | label: meter | g:0.25 m:0.625 ---
+
+paladvādaśakaṃ majjā mahāraktaṃ palatrayam ।
+śukraṃ dvikuḍavaṃ jñeyaṃ śoṇitaṃ kuḍavaṃ smṛtam ।।

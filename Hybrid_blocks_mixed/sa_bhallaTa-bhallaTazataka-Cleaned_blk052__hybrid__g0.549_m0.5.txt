@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 52 | label: hybrid | g:0.549 m:0.5 ---
+
+saṃvittir asty atha guṇāḥ pratibhānti loke taddhi praśastam iha kasya kim ucyatāṃ vā 
+nanv evam eva sumaṇe luṭa yāvad āyus tvaṃ me jagatprasahane atra kathāśarīram ।।

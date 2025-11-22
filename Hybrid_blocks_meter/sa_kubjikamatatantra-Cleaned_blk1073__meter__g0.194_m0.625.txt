@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1073 | label: meter | g:0.194 m:0.625 ---
+
+bhūtaṃ bhuvanāvaraṇaṃ padaṃ bhāvaṃ prayujyate 
+śāktaṃ varṇāḥ samākhyātā māntraṃ dvādaśa kīrtitāḥ ।।

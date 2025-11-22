@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3686 | label: meter | g:0.194 m:0.5 ---
+
+kumārakoṭyo yāś cemā gaṇāś caiva padātinām 
+eṣām apīha vasatāṃ saṃmardam upalakṣaye ।।

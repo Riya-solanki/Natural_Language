@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 42 | label: hybrid | g:0.476 m:0.5 ---
+
+kāryaṃ naivārthair nāpi bhogair na vastrair nāhaṃ kāṣāyaṃ vṛttihetoḥ prapannaḥ
+dhīrā kanyeyaṃ dṛṣṭadharmapracārā śaktā cāritraṃ rakṣituṃ me bhaginyāḥ ।।

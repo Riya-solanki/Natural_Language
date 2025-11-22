@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6228 | label: meter | g:0.251 m:0.623 ---
+
+vibhuṃ sarvagataṃ nityaṃ bhūtayonim akāraṇam 
+vyāpy avyāptaṃ yataḥ sarvaṃ taṃ vai paśyanti sūrayaḥ ।।

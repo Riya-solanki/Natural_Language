@@ -1,0 +1,3 @@
+--- source: mrgt1chu-Cleaned.txt | block: 141 | label: meter | g:0.25 m:0.5 ---
+
+viṣayāniyamādekaṃ bodhe kṛtye ca tattathā ।

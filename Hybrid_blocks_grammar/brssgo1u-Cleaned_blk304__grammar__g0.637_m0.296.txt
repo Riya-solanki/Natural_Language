@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 304 | label: grammar | g:0.637 m:0.296 ---
+
+yasmādīdṛśānyapi krūrāṇi karmāṇi kṛtavato mama brahmabhūtasya lomāpi na hiṃsyate, sa yo anyo api māṃ veda na tasya kenacidapi karmaṇā loko hiṃsyata iti ।
+vijñeyaṃ tu brahmaiva aprāṇo asmi prajñātmā' iti vakṣyamāṇam ।
+tasmādbrahmavākyametat ।।

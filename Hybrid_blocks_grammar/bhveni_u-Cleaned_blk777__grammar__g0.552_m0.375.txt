@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 777 | label: grammar | g:0.552 m:0.375 ---
+
+sundarakaḥ
+{Pkt}tado a deva taṃ sarasaṃpādaṃ samavadhūṇia ṇisidasarābhighādajādamaṇṇuṇā kirīṭiṇā gahidā rahucchaṅgādo kaṇantakaṇaakiṅkiṇījālajhaṃkāravirāiṇī mehobarohavimukkaṇahatthalaṇimmalā ṇisidasāmalasiṇiddhamuhī viviharaaṇappahābhāsurabhīsaṇaramaṇīadaṃsaṇā sattī sobahāsaṃ vimukkā a kumālāhimuhī ।

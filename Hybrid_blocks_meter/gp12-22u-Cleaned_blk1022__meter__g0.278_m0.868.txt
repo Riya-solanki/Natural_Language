@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1022 | label: meter | g:0.278 m:0.868 ---
+
+taṃ janyānāṃ śakaṭa-parītam
+kusumair varṣiṣyanti sagītam ।
+śakaṭa-dhvani-yuta-vādya-śatena
+mudam āpsyati sa svayam api tena ।।

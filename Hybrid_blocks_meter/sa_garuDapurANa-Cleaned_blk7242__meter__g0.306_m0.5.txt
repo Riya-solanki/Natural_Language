@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7242 | label: meter | g:0.306 m:0.5 ---
+
+kimarthaṃ catvare dugdhaṃ yātre pakve ca mṛnmaye ।
+kāṣṭhatrayaṃ gaṇābaddhaṃ kṛtvā rātrau catuṣpathe ।।

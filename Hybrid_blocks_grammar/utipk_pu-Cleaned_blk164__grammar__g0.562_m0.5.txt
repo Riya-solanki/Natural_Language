@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 164 | label: grammar | g:0.562 m:0.5 ---
+
+ābhāsāḥ kadācit sannihitapratyakṣākṣiptā ghaṭo ayam iti vyavahārahetavaḥ, andhatamasādau tu pūrvānubhavotthitāḥ ।।

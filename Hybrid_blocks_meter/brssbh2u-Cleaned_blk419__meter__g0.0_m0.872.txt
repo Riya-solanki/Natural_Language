@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 419 | label: meter | g:0.0 m:0.872 ---
+
+atra pāde pañcamahābhūtajīvādiśrutīnāṃ virodhaparihāraḥ 
+viyadadhikaraṇam । sū

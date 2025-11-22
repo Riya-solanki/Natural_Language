@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 84 | label: grammar | g:0.829 m:0.242 ---
+
+vedāntavidāṃ mateṣūpaniṣadādiśāstreṣu ṣaṣṭitantrādiṣu sadasadvādinām arhatāṃ ca mateṣv akalaṅkatritayaprasūtiṣu dravyādipadārthavādikāṇādādiśāstreṣu ādigrahaṇāt saugatādimateṣv api yato muktis tatsādhanāni ca śrūyante tataḥ ko asau śivāgame viśeṣaḥ iti viśeṣajijñāsayā tadvyavasitasya muneḥ praśnaḥ na saṃdigdhatvenādāv eva viśeṣasambhāvanāniścayataḥ śrotuṃ pravṛttatvāt nāpi viparyastatvena te vavrire śivajñānam ity abhyarthanāpravṛttatvena darśanāntarānabhiniviṣṭatvapratīteḥ ।। 
+tattadāgamaśrutā muktis tatsādhanāni ca purastāt teṣu teṣv avasareṣu granthakṛtaivānubhāṣya dūṣayiṣyanta iti nāsmābhiḥ pṛthak prayatnena darśyante ।। 
+atra siddhāntaḥ ।।

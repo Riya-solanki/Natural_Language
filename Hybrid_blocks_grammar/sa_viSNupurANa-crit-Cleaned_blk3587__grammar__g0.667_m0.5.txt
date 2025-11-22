@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3587 | label: grammar | g:0.667 m:0.5 ---
+
+ikṣvākutanayo yo asau nimir nāmā sa tu sahasrasaṃvatsaraṃ satram ārebhe vasiṣṭhaṃ ca hotāraṃ varayām āsa ।।

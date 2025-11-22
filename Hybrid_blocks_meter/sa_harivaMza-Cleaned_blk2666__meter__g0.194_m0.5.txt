@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2666 | label: meter | g:0.194 m:0.5 ---
+
+tvatkṛte kṛṣṇa ghoṣo ayaṃ kṣemo muditagokulaḥ 
+kṛtsno vasati śāntārir yathā svargagatas tathā ।।

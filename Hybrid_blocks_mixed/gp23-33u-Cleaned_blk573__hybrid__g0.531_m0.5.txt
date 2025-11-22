@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 573 | label: hybrid | g:0.531 m:0.5 ---
+
+yāta yūyaṃ vrajaṃ tāta vayaṃ ca sneha-duḥkhitān ।
+jñātīn vo draṣṭum eṣyāmo vidhāya suhṛdāṃ sukham ।।[BhP ] iti ।

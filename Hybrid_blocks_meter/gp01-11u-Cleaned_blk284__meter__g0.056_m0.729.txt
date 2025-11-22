@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 284 | label: meter | g:0.056 m:0.729 ---
+
+atho vanaṃ prati calitaḥ sahāgrajaḥ
+samitrakaḥ pṛthu muralīm anādayat ।
+yataḥ śrutād bata puratas tu tasthuṣāṃ
+supūrṇatābhavad atiśūnyatānyataḥ ।। [rucirā]

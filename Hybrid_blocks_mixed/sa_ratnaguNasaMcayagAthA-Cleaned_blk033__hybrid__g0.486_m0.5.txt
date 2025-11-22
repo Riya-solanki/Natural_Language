@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 33 | label: hybrid | g:0.486 m:0.5 ---
+
+evaṃ carantu na ca kāṅkṣati bodhisattvo jñātavya yo vihara te sa upāyaprajño 
+prakṛtīasanta parijānayamāna dharmāṃ eṣā sa prajñavarapāramitāya caryā ।।

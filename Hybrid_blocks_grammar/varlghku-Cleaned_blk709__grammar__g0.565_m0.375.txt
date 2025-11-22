@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 709 | label: grammar | g:0.565 m:0.375 ---
+
+nityaṃ karoteḥ ।।
+karoteḥ pratyayokārasya nityaṃ lopo mvoḥ parayoḥ । kurmaḥ । cakāra, cakre । kariṣyati, kariṣyate । kurutām । akuruta ।।

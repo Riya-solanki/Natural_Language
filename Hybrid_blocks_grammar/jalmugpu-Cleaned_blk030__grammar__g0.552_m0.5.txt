@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 30 | label: grammar | g:0.552 m:0.5 ---
+
+sāmrājyaṃ madhumāṃsamatsyagilanaṃ mantrī jaratkuṭṭanī daṇḍyaḥ sārthakirāṭasūnuradhanāḥ śṛṅgāriṇaḥ kiṅkarāḥ ।
+ācāro bahugālidānam adhamo mitraṃ dhanaṃ jīvitaṃ veśyānāṃ puracāra tha bhagnaḥ priyaḥ ।।

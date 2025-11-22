@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3069 | label: meter | g:0.28 m:0.629 ---
+
+bhṛṅgiruvāca ।
+pāpaṃ praśamamāyātu trividhaṃ mama pārvati ।
+tatheśvare ca satataṃ bhaktirastu mamāmvike ।।

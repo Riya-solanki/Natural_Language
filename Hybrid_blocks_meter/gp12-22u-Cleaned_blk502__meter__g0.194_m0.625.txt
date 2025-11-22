@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 502 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ tau loka-siddhābhiḥ krīḍābhiś ceratur vane ।
+nady-adri-droṇi-kuñjeṣu kānaneṣu saraḥsu ca ।।[]

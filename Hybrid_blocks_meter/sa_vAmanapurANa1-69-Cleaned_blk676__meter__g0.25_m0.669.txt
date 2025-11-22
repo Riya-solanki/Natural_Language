@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 676 | label: meter | g:0.25 m:0.669 ---
+
+ṛṣaya ūcuḥ ।
+karmaṇā yena yeneha yānti śālakaṭaṅkaṭa ।
+svakarmaphalabhogārthaṃ narakān me śṛṇuṣva tān ।।

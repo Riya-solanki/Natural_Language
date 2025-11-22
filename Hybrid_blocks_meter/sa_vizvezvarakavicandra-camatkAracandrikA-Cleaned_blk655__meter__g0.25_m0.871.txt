@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 655 | label: meter | g:0.25 m:0.871 ---
+
+tatra dvitīyāvācyo lakṣakaheturyathā
+śrīsiṅgabhūpatiṃ prati śītakarakaravālakhaṇḍitārātim ।
+saṅgarasīmani vividhāḥ kātaraceṣṭā bhavanti vimatānām ।।

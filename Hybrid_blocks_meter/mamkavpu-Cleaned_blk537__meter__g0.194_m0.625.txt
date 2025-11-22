@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 537 | label: meter | g:0.194 m:0.625 ---
+
+{āliṅgitastatrabhavān saṃparāye jayaśriyā ।
+āśīḥparaṃparāṃ vandyāṃ karṇe kṛtvā kṛpāṃ kuru ।।}

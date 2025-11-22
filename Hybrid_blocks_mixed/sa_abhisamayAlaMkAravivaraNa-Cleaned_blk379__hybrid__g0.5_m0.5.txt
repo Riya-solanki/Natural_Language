@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 379 | label: hybrid | g:0.5 m:0.5 ---
+
+bhedaḥ nirvedhabhāgīyasya dvādaśa bhedā bhavanti । prathamaṃ ūṣmā, mūrdhā, kṣāntiḥ, agradharmaśceti catvāro bhedāḥ । eṣu caturṣu pratyekaṃ mṛdumadhyādhimātrabhedena trividha iti dvādaśa bhedā bhavati । tathā coktam abhisamayālaṅkāre -

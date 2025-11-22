@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 419 | label: meter | g:0.25 m:0.5 ---
+
+surāṇāṃ ca patiḥ śreṣṭhaḥ kapilasya patistathā ।
+latānāṃ ca patiścaiva vīrudhāṃ ca patistathā ।।

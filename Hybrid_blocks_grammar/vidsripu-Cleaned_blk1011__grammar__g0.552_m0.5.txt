@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1011 | label: grammar | g:0.552 m:0.5 ---
+
+tamobhiḥ pīyante gatavayasi pīyūṣavapuṣi jvaliṣyan mārtaṇḍopalapaṭaladhūmair iva diśaḥ ।
+sarojānāṃ karṣann alimayam ayaskāntamaṇivat kṣaṇād antaḥśalyaṃ tapati patir adyāpi na rucām ।।

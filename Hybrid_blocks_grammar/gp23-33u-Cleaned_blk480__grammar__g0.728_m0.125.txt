@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 480 | label: grammar | g:0.728 m:0.125 ---
+
+[] tac ca, yathā-
+ramya-tilaka-nava-tulasī-dala-bhava-vana-mālātivikāsī । nija-saurabha-vaśa-madhupa-gītam anugāyati veṇu-vilāsī ।।atha sārasa-yuta-haṃsāyuta-tatir alam anugamya parītā । parito nyaviśata tām āviśatī rutim iha yā hari-gītā ।।[] tataś ca tatas tataḥ samāgate sāgraje samagre sakhi-varge tadānīntana-barhi-prabarha-barhādi-nānā-vanya-nepathya-prathyamāna-śobha-lobhanīya-rūpa-varīyastayā praśasta-srajīyastayā ca vistṛta-śātasya tasya gocāraṇa-caritaṃ pracāraṇīyam ।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 676 | label: meter | g:0.194 m:0.625 ---
+
+rucirasya tu dāyādaḥ pṛthuṣeṇo mahāyaśāḥ 
+pṛthuṣeṇasya pāras tu pārān nīpo atha jajñivān ।। 
+pārasya tanayaḥ śrīmān nīpo nāma mahāyaśāḥ । 
+nīpasyaikaśataṃ tāta putrāṇām amitaujasām 
+mahārathānāṃ rājendra śūrāṇāṃ bāhuśālinām 
+nīpā iti samākhyātā rājānaḥ sarva eva te ।।

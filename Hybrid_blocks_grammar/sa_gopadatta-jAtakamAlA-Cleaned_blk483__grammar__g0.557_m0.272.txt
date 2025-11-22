@@ -1,0 +1,5 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 483 | label: grammar | g:0.557 m:0.272 ---
+
+atha tasya vacanānantaram eva karmānilavegotkṣiptam iva tac cakraṃ ciṭiciṭāyamānadahanakaṇacayodgāraraudraṃ tasya mūrdhnaḥ samabhyudgamya maitrakanyakasya bodhisattvasya śiraḥ pravidārayaṃ [!] bhramitum ārabdham ।
+kṣaṇāt sa reje rudhirapravāhair mūrdhnā [!] cyutaiḥ snātasamastamūrtiḥ ।
+prabhinnacakrāgravibhinnamūrdhna airāvaṇasyeva tanuḥ patantī ।।

@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 55 | label: hybrid | g:0.321 m:0.493 ---
+
+tīvravratasya kaṇadhūmanipātatapta- sarvendriyasya bhavatā bhṛgunandanasya ।
+tuṣṭena śarma yad akāri tadā sa śukraḥ śītoṣṇavātajaladair divi bhāsamānaḥ ।।

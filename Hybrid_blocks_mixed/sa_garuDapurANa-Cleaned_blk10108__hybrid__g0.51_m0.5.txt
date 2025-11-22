@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10108 | label: hybrid | g:0.51 m:0.5 ---
+
+teṣāṃ duḥ khamiha loke paratra bhaviṣyate nātra vicāryamasti ।
+prāyaścittaṃ svasti viprāḥ kathañcittatkurvantu smaraṇaṃ nāma viṣṇoḥ ।।

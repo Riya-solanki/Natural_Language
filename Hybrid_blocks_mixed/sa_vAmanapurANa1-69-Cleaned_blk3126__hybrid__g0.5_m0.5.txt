@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3126 | label: hybrid | g:0.5 m:0.5 ---
+
+tato muhūrtānnṛpatiḥ śriyā yutaḥ samuttasthau sahito bhāryayāsau ।
+khamutpapātātha sa kāmacārī samaṃ mahiṣyā ca sunābhaputryā ।।

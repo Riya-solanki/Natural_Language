@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1887 | label: meter | g:0.194 m:0.5 ---
+
+bhūmipānāṃ sahasraiś ca teṣāṃ ca balināṃ balaiḥ 
+grāmāyutāḍhyai rāṣṭraiś ca bhūmir nirvivarīkṛtā ।।

@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 280 | label: grammar | g:0.552 m:0.5 ---
+
+tattu dvividhamiti dṛṣṭasvalakṣaṇaviṣayamevānumānamiti manvānānnirākartumadṛṣṭasvalakṣaṇaviṣayamapyanumānaṃ kriyādiviṣayamastīti darśayituṃ dvaividhyābhidhānam ।
+nahi kriyā svalakṣaṇaṃ pratyakṣeṇa kadācidgṛhyate pūrvottaradeśasaṃyogavibhāgamātrasya pratyakṣeṇa grahaṇam, yābhyāmevāgantukābhyāmāgantukaṃ kāraṇamanumīyate, tacca kriyetyucyate ।।

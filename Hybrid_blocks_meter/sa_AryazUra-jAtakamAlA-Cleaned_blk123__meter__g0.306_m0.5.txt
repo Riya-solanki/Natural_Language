@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 123 | label: meter | g:0.306 m:0.5 ---
+
+prasādaramyaṃ dadṛśe vapurdiśāṃ rarāja śuddhyā śaradīva bhāskaraḥ ।
+paribhramaccandanacūrṇarañjitaṃ papāta citraṃ kusumaṃ nabhastalāt ।।

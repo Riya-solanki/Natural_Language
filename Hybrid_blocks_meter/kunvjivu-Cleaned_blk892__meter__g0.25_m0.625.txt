@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 892 | label: meter | g:0.25 m:0.625 ---
+
+ityākarṇitakālanemivacanā durdharo huṅkāraḥ padayopuraḥ prakhyāpitasyāgamaḥ ।
+dhairyastambhavijṛmbhitoddhuramadapronmāthaparyākulaṃ krodhaḥ kuñjaravanmahāsurapateḥ svacchandamā ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1850 | label: meter | g:0.194 m:0.625 ---
+
+vyāpayitvā sthitā devī ca tṛtīyaṃ tu locanam 
+cāmuṇḍā parameśānī lalāṭasthā virājate ।।

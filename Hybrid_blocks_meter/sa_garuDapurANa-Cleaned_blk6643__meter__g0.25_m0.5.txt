@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6643 | label: meter | g:0.25 m:0.5 ---
+
+prabhūtañca yadā sattvaṃ mano burdhondriyāṇi ca ।
+tadā kṛtayugaṃ vidyājjñāne tapasi yadratiḥ ।।

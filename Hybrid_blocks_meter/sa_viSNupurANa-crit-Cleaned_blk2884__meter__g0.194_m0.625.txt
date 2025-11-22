@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2884 | label: meter | g:0.194 m:0.625 ---
+
+iha cārogyam atulaṃ balavṛddhis tathā nṛpa 
+bhavaty ariṣṭaśāntiś ca vairipakṣābhicārikā ।।

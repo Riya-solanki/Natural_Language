@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3914 | label: meter | g:0.194 m:0.5 ---
+
+te gatvā dūram adhvānaṃ saritaṃ narmadām anu 
+govindaṃ dadṛśuḥ kruddhāḥ sahaiva priyayā sthitam ।।

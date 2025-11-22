@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 89 | label: grammar | g:0.646 m:0.5 ---
+
+prakāśasya mukhya ātmā pratyavamarśaḥ, taṃ vinā arthabheditākārasyāpy asya svacchatāmātraṃ na tv ajāḍyaṃ camatkṛter abhāvāt ।।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 874 | label: hybrid | g:0.465 m:0.5 ---
+
+yasmād abhajasi viṣṇuṃ jiṣṇo tasmād anedhitāse tvam ।
+na vinā candraṃ vindati jīvana-vṛttiṃ vanaspatiḥ ko' pi ।। [gīti]

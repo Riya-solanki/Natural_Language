@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 719 | label: meter | g:0.25 m:0.583 ---
+
+sagālavasya caritaṃ kaṇḍarīkasya caiva ha 
+brahmadattatṛtīyānāṃ yogināṃ brahmacāriṇām ।। 
+śrāddhe pratiṣṭhito lokaḥ śrāddhād yogaḥ pravartate । 
+hanta te vartayiṣyāmi śrāddhasya phalam uttamam 
+brahmadattena yat prāptaṃ saptajātiṣu bhārata ।।

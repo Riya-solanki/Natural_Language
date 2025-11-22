@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 17 | label: meter | g:0.25 m:0.625 ---
+
+hariḥ sa prathamaṃ devaḥ kaumāraṃ sargamāsthitaḥ ।
+cacāra duścaraṃ brahman brahmacaryamakhaṇḍitam ।।

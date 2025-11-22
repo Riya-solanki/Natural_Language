@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 440 | label: meter | g:0.307 m:0.623 ---
+
+samaramūrdhani yena tarasvinā na na jito vijayī tridaśeśvaraḥ ।
+sa khalu tāpasabāṇaparamparākavalitakṣatajaḥ kṣitimāśritaḥ ।।

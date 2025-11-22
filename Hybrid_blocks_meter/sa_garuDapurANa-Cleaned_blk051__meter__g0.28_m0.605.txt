@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 51 | label: meter | g:0.28 m:0.605 ---
+
+sārātsārataraṃ tattvaṃ śrotukāmaḥ suraiḥ saha ।
+rudrauvāca ।
+ahaṃ dhyāyāmi taṃ viṣṇuṃ paramātmānamīśvaram ।।

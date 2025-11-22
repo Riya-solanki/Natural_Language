@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8858 | label: meter | g:0.25 m:0.625 ---
+
+punaścirāyuṣo bhūtvā jāyante svakule dhruvam ।
+sarvasaukhyapradaḥ putraḥ pitroḥ prītivivardhanaḥ ।।

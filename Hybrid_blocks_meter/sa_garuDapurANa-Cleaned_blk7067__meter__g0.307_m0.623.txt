@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7067 | label: meter | g:0.307 m:0.623 ---
+
+vyāpakatvātkathaṃ yāti ko yāti kva sa yāti ca ।
+anantatvānnadeśo asti amūrtitvādgatiḥ kutaḥ ।।

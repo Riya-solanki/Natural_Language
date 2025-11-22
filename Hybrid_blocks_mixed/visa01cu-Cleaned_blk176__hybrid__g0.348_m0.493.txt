@@ -1,0 +1,5 @@
+--- source: visa01cu-Cleaned.txt | block: 176 | label: hybrid | g:0.348 m:0.493 ---
+
+kāvyasyetiayamarthaḥ, rasāsvāda eva mukhaṃ piṇḍasya dvāreṇa taduktam "svādukāvyarasonmiśraṃ vākyārthamupayuñjate ।
+grathamālīḍhamadhavaḥ pibanti kaṭu bheṣajam" ।
+iti ।

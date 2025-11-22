@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 25 | label: hybrid | g:0.542 m:0.5 ---
+
+yujvā vipraḥ śucir anucaraḥ saṃyatātmā tapasvī mantrī vidvān avanivanitābhūṣaṇaṃ bhūmipālaḥ ।
+dharmodyāne sukṛtasalilāsārasaṃsicyamāne pūrṇaḥ so ayaṃ kṛtayugataror bhāvino bījavāpaḥ ।।

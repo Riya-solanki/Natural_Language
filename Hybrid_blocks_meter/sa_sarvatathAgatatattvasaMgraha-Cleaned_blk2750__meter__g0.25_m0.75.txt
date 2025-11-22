@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2750 | label: meter | g:0.25 m:0.75 ---
+
+bhāvayaṃstu mahāmudrāṃ sādhayetsarvasiddhayaḥ ।
+tathāgatakule apyeṣa dharmatottamasiddhidā ।।

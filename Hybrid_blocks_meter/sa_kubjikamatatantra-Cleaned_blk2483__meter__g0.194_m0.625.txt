@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2483 | label: meter | g:0.194 m:0.625 ---
+
+anyac ca paramopāyaṃ śṛṇuṣva varavarṇini 
+yena vijñātamātreṇa kālaṃ jānāti tattvataḥ ।।

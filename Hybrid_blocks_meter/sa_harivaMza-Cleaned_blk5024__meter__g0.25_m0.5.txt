@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5024 | label: meter | g:0.25 m:0.5 ---
+
+vighṛṣṭe tasya te pārśve khelena rudhirasrave 
+ajaśyāmau ca pārśvau tāv ubhāv api samāhitau ।। 
+ājagamānayo pārśvaṃ pibann apy anayoḥ stanau । 
+tathaiva ca samārūḍhāv ajapārśvas tato abhavat 
+ājaśyāmasya te pārśve rūḍhe vai saṃabhūvatuḥ । 
+taṃ tathaiva ca tiṣṭhantaṃ ajapārśve kumārakam । 
+tato ajapārśva iti tau cakrāte tasya nāma ha ।।

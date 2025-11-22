@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 242 | label: meter | g:0.25 m:0.625 ---
+
+vajrasādho susattvāgrya vajratuṣṭi mahārate ।
+prāmodyarāja vajrāgraya vajraharṣa namo astu te ।।

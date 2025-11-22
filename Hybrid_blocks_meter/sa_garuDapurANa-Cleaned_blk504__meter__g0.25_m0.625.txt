@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 504 | label: meter | g:0.25 m:0.625 ---
+
+śārṅgapāṇiśca kṛṣṇaśca jñānamūrtiḥ parantapaḥ ।
+tapasvī jñānagamyo hi jñānī jñānavideva ca ।।

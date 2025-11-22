@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1347 | label: meter | g:0.331 m:0.647 ---
+
+jīmūtaghanasaṃkāśo jīmūtaghananisvanaḥ 
+jīmūtaghanadīptaujā jīmūta iva vegavān ।। 
+devādir ditijān vīro nṛsiṃhaḥ samupādravat । samutpatya nakhais tīkṣṇair vidārya nihato yudhi । 
+daityaṃ so atibalaṃ dṛptaṃ dṛptaśārdūlavikramam 
+dṛptair daityagaṇair guptaṃ hatavān ekapāṇinā ।।

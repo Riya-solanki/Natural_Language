@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7478 | label: meter | g:0.25 m:0.5 ---
+
+tilāpātraṃ sarpiḥ pātraṃ śayyā sopaskarā tathā ।
+etatsarvaṃ pradātavyaṃ yadiṣṭaṃ cātmano api tat ।।

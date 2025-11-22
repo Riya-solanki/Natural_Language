@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1587 | label: meter | g:0.25 m:0.5 ---
+
+strīrājyāḥ saindhavā mlecchā nāsti kā yavanāstathā ।
+paścimena ca vijñeyā māthurā naiṣadhaiḥ saha ।।

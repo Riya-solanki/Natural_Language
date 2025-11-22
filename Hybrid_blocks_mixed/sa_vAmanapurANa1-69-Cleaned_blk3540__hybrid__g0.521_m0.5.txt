@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3540 | label: hybrid | g:0.521 m:0.5 ---
+
+evaṃ purā viṣṇurabhūcca vāmano dhundhuṃ vijetuṃ ca trivikramo abhūt ।
+yasmin sa daityendrasuto jagāma mahāśrame puṇyayuto maharṣe ।।

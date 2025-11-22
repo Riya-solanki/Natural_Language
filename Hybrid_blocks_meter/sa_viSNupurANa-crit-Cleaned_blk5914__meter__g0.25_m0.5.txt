@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5914 | label: meter | g:0.25 m:0.5 ---
+
+punar brahmaṇi niṣṇātās te amṛtatvāya kalpate ।। @

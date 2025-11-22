@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1241 | label: meter | g:0.25 m:0.5 ---
+
+tatas tam āryavatprāptaṃ babhror hastād ariṃdamaḥ 
+dadau hṛṣṭamanāḥ kṛṣṇas taṃ maṇiṃ babhrave punaḥ ।।

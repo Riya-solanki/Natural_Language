@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3204 | label: meter | g:0.217 m:0.845 ---
+
+evaṃprakārair bahubhir yuktidarśanavardhitaiḥ 
+māyāmohena daityās te vedamārgād apākṛtāḥ ।।

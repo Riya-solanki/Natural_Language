@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10852 | label: meter | g:0.328 m:0.595 ---
+
+taccheṣasārānapi cāvanīśo mahātmanoṃśāñchṛṇu śiṣyavarya ।
+evaṃ vimūḍhā vāsudevasya bhaktāḥ kiṃ vaktavyaṃ viṣṇubhaktā hi loke ।।

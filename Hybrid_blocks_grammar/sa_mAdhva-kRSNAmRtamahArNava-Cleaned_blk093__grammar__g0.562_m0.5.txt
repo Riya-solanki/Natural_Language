@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 93 | label: grammar | g:0.562 m:0.5 ---
+
+saṃsārārṇavam agrānāṃ narāṇāṃ pāpakarmaṇām nānyo dharttā jagannāthaṃ muktvā nārāyaṇaṃ param ।।

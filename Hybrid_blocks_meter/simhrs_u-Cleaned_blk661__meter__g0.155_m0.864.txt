@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 661 | label: meter | g:0.155 m:0.864 ---
+
+svāsthyena, yathā-
+ramyāṇi vīkṣya madhurāṃś ca niśamya śabdān
+paryutsuko bhavati yat sukhito' pi jantuḥ ।
+tac cetasā smarati nūnam abodha-pūrvaṃ
+bhāva-sthirāṇi jananāntara-sauhṛdāni ।।

@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 625 | label: meter | g:0.25 m:0.53 ---
+
+evaṃ prajāpativākye jīvānuvādena brahmaṇa evāpahatapāpmatvādyukterjīve tadasaṃbhavānna jīvo dahara ityuktam ।
+tarhi jīvaparāmarśasya kā gatirityata āha-anyārthaśceti ।
+sūtraṃ vyācaṣṭe-athetyādinā ।
+prakṛte dahare viśeṣo guṇastadupadeśo api netyarthaḥ ।
+tatra daharavākyaśeṣarūpaṃ saṃprasādavākyamāśaṅkāpūrvakaṃ daharabrahmaparatvena vyācaṣṭe-kathamityādinā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8513 | label: hybrid | g:0.521 m:0.5 ---
+
+śītārtaḥ kṣudhitaḥ so atha vīkṣate hi diśo daśa ।
+tiṣṭhettu bāndhavaḥ ko api yo me duḥkhaṃ vyapohati ।।

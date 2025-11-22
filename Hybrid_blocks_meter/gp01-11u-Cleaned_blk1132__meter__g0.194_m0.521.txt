@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1132 | label: meter | g:0.194 m:0.521 ---
+
+tad bhūri bhāgyam iha janma kimapy aṭavyāṃ
+yad gokule' pi katamāṅghri-rajo' bhiṣekam ।
+yaj-jīvitaṃ tu nikhilaṃ bhagavān mukundas
+tv adyāpi yat-pada-rajaḥ śruti-mṛgyam eva ।।[BhP ] iti ।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 122 | label: hybrid | g:0.465 m:0.5 ---
+
+navayānaprasthita sa sattva parīttabuddhiḥ ya imaṃ durlābhu dharmaratanaṃ parāpuṇanti 
+māro atra utsuku bhaviṣyati antarāye buddhā daśaddiśi parigrahasaṃprayuktāḥ ।।

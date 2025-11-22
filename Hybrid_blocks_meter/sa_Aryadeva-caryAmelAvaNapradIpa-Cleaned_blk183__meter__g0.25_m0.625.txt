@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 183 | label: meter | g:0.25 m:0.625 ---
+
+gambhīrapadaṃ nityaṃ gacchet tiṣṭhan niṣaṇṇakaḥ ।
+prabhāsvarajñānakauśalyād yogināṃ lakṣaṇaṃ sadā ।।

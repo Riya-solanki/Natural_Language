@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9347 | label: meter | g:0.25 m:0.5 ---
+
+vyañjanāni vicitrāṇi bhakṣyabhojyāni yāni ca ।
+dadāti vidhinā putra prete tadu patiṣṭhati ।।

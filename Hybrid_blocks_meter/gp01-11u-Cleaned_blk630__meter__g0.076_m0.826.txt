@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 630 | label: meter | g:0.076 m:0.826 ---
+
+āvirbhavat-kaṭakaṭe śakaṭe' tha sarve
+kiṃ kiṃ kim ity abhita eva bhiyābhiyātāḥ ।
+tasyātipātam avalokya vilokya tokaṃ
+krandad-vimūḍha-matitātatimūḍhavantaḥ ।। [vasantatilaka]

@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 82 | label: meter | g:0.102 m:0.555 ---
+
+bhārabhūtaiḥ kāryam ebhiḥ kiṃ tasya nṛpaśor dvija
+caraṇau tau tu saphalau keśavālayagāminau
+te ca netre mahābhāga yābhyāṃ sandṛśyate hariḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 60 | label: meter | g:0.306 m:0.5 ---
+
+saṃsārapāśavaśam etad anīśam īśa mithyā kutarkatimiropahataprakāśam ।
+ceto mama kṣapitamanmatha dagdhakāla satsevite pathi niyojaya devadeva ।।

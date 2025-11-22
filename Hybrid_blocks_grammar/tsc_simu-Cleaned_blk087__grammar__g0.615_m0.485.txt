@@ -1,0 +1,4 @@
+--- source: tsc_simu-Cleaned.txt | block: 87 | label: grammar | g:0.615 m:0.485 ---
+
+yattu śeṣaśāyino nārāyaṇasya nābhikamalaśrotracakṣurādibhyaścaturmukhasyāvirbhāvaḥ śrūyate taddainyandinasargeṣveva kalpabhedena mantavyam ।
+dainandinapralayeṣveva hi nārāyaṇaśarīre praviśyaikībhūya suptānāṃ devānāṃ caturmukhādikrameṇāvirbhāvaḥ śeṣaśāyinaḥ sakāśāt ghaṭate na tvādisargeṣu dainandinapralaya eva līlāvigraheṇa śayanāditi ।।

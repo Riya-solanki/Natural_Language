@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 343 | label: meter | g:0.217 m:0.97 ---
+
+janasyābdasahasrāṇi nyagrodhaphalamaśnataḥ 
+rajatadyutirikṣvādas tāvadāyurharau janaḥ ।।

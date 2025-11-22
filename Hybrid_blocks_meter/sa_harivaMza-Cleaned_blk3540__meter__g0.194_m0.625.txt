@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3540 | label: meter | g:0.194 m:0.625 ---
+
+svārūḍhaiḥ sādibhir yuktaiḥ prekṣamāṇaiḥ pravalgitaiḥ 
+vājibhir meghasaṃkāśaiḥ plavadbhir iva pattibhiḥ ।।

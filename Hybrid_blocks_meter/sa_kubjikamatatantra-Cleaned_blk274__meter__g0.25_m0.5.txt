@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 274 | label: meter | g:0.25 m:0.5 ---
+
+nirvāṇāgnau jvaladdīpte yo anyatrāgnau vrajet kudhīḥ 
+devāgāraṃ guruṃ tyaktvā vrajaty adhobhavaṃ tu saḥ ।।

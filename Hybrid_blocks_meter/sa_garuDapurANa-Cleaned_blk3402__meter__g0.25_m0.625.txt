@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3402 | label: meter | g:0.25 m:0.625 ---
+
+etadevānumanyeta bhogā hi kṣaṇabhaṅginaḥ ।
+snigdheṣu ca vidagdhasya matayo vai hyanākulāḥ ।।

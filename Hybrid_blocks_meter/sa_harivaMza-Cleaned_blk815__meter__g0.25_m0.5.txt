@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 815 | label: meter | g:0.25 m:0.5 ---
+
+sa rājā paramaprītaḥ patnyāḥ śrutvā vacas tadā 
+prāpya yogaṃ vanād eva gatiṃ prāpa sudurlabhām ।।

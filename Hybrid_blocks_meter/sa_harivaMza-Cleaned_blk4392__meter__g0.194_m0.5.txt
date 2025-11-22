@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4392 | label: meter | g:0.194 m:0.5 ---
+
+so apaśyat taṃ sutaṃ jyeṣṭhaṃ siddhaṃ manmathalakṣaṇaiḥ 
+snuṣāṃ māyāvatīṃ caiva hṛṣṭacetā janārdanaḥ ।।

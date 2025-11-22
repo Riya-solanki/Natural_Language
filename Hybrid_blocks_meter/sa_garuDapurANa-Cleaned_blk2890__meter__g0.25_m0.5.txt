@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2890 | label: meter | g:0.25 m:0.5 ---
+
+prīyantāmiti cāhaivaṃ viśvedevyaṃ jalaṃ dadat ।
+dātāro no abhivardhantāṃ vedāḥ santatireva ca ।।

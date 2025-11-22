@@ -1,0 +1,3 @@
+--- source: brssgo4u-Cleaned.txt | block: 150 | label: grammar | g:0.583 m:0.5 ---
+
+nanu prāṇaḥ tejasi iti śrūyate kathaṃ prāṇaḥ adhyakṣa iti adhikāvāpaḥ kriyate ।

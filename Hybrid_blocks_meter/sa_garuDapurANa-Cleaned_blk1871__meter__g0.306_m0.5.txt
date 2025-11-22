@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1871 | label: meter | g:0.306 m:0.5 ---
+
+puṃsaḥ syādativistīrṇaṃ lalāṭaṃ vadanaṃ hyuraḥ ।
+cakṣuḥ kakṣā nāsikā ca ṣaṭ syur nṛpakṛkāṭikāḥ ।।

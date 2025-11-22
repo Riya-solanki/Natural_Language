@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 82 | label: hybrid | g:0.352 m:0.254 ---
+
+na eṣa doṣaḥ ।
+prāyaścittānāṃ naimittikatva upapatteḥ gṛhadāha iṣṭyādivat ।
+api ca prāyaścittānāṃ doṣasaṃyogena vidānāt bhavet api doṣakṣapaṇārthatā na tu evaṃ brahmavidyāyāṃ vidhānam asti ।

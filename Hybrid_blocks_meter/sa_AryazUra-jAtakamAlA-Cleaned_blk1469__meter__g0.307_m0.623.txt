@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1469 | label: meter | g:0.307 m:0.623 ---
+
+tvayi ca carati dharma bhūyasāyaṃ nṛlokaḥ sucaritasumukhaḥ syātsvargamārgapratiṣṭhaḥ ।
+jagadidamanupālyaṃ caivamabhyudyamaste vinayaruciramārgaṃ dharmamasmādbhajasva ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4072 | label: meter | g:0.302 m:0.806 ---
+
+laṅkaiśvaryeṣvabhyaṣiñcadrāmastaṃ rāvaṇānujam ।
+rāmo nalena setuñca kṛtvābdhau cottatāra tam ।।

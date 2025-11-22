@@ -1,0 +1,6 @@
+--- source: brssbh3u-Cleaned.txt | block: 176 | label: meter | g:0.309 m:0.763 ---
+
+neti brūmaḥ ।
+upādhinimittasya vastudharmatvānupapacatteḥ ।
+upādhīnāṃ cāvidyāpratyupasthāpitatvāt ।
+satyāmeva ca naisargikyāmavidyāyāṃ lokavedavyavahārāvatāra iti tatra tatrāvocāma ।।

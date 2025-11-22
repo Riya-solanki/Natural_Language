@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10890 | label: meter | g:0.306 m:0.5 ---
+
+yo vāsudevastu sa eva jātaḥ saṃkarṣaṇākhyo khilasadguṇātmā ।
+sṛṣṭiṃ kartuṃ sūtrabhūtasya vāyorjayākhyāyaṃ pūrṇasaṃvitparātmā ।।

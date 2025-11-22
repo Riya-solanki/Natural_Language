@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 566 | label: meter | g:0.194 m:0.521 ---
+
+rāho tarjaya bhāskaraṃ varuṇa he nirvāpyatāṃ pāvakaḥ
+sarve vārimucaḥ sametya kuruta grīṣmasya darpa-cchidām ।
+prāleyācala candra dugdha-jaladhe hemanta mandākini
+drāg devasya gṛhānupeta bhavatāṃ sevā-kṣaṇo vartate ।।

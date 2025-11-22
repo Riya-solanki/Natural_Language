@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5735 | label: meter | g:0.25 m:0.871 ---
+
+lepanāddevadārośca gairikasya ca lepanāt ।
+nāgeśvaro daridre dve tathā mañjiṣṭhakā hara ।
+ebhirlepādvinaśyettu lūtāviṣamumāpate ।।

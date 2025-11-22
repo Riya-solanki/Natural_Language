@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 88 | label: meter | g:0.25 m:0.625 ---
+
+tataḥ śroṣyatha saṃghuṣṭāṃ snigdhagambhīraniḥ svanām ।
+uṣṇānte toyadasyeva toyapūrṇasya niḥsvanam ।।

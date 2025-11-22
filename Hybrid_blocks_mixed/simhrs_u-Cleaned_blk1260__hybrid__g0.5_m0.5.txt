@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1260 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā tatraiva pratīhāraḥ -katham ete kṣatriya-jana-samucite' pi cāpāropaṇa-karmaṇi nikhilāḥ kṣatriyāḥ vitatha-sāmarthyāḥ vartante । tad eṣa param anākalita-sāro vikartana-kula-kumāra āste । yad vā, kim anenāpi-

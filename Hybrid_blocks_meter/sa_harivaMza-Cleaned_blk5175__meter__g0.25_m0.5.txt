@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5175 | label: meter | g:0.25 m:0.5 ---
+
+bibhety abhibhavāc chakras tava kratuphalair nṛpa 
+tasmād āvartitaś caiva kratur indreṇa te vibho ।।

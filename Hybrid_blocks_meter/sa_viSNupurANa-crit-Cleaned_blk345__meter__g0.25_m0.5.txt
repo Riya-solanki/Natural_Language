@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 345 | label: meter | g:0.25 m:0.5 ---
+
+saptarṣīṇāṃ tu yat sthānaṃ smṛtaṃ tad vai vanaukasām 
+prājāpatyaṃ gṛhasthānāṃ brāhmaṃ saṃnyāsināṃ smṛtam ।।

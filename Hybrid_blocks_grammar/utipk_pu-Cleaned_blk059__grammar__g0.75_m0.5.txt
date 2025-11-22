@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 59 | label: grammar | g:0.75 m:0.5 ---
+
+sarvajñānām api pramātrāntaragatopalambhāḥ svasaṃvinmātravedyasvabhāvāḥ svātmārūḍhā eva bhāseran, ataś ca teṣāṃ yogināṃ parātmatāpattir eva tattvam । prameyakakṣyāyām api ghaṭādivat prātisvikena śuddhabodhātmanā rūpeṇāvabhāseran yadi tathā saṃbhavet ।

@@ -1,0 +1,6 @@
+--- source: brssbh1u-Cleaned.txt | block: 306 | label: meter | g:0.25 m:0.794 ---
+
+saṃyaddhāmeti ।
+vāmāni karmaphalānyetamakṣipuruṣaṃ hetumāśritya abhisaṃyantyutpadyante ।
+vāmanīrvāmāni śobhanāni lokaṃ prāpayati ।
+bhāmanīrbhāmāni bhānāni sarvatra nayatīti ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3097 | label: meter | g:0.371 m:0.714 ---
+
+karṇe netre mukhe ghrāṇe hiraṇyaśakalān kṣipet ।
+agnihotropakaraṇādbrahmalokagatirbhavet ।।

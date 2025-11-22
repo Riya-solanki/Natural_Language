@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 110 | label: meter | g:0.25 m:0.75 ---
+
+FN atiśayaḥ kāryadharmaḥ kāraṇadharmo vā ।
+kāryābhāvo asatkāryamityarthaḥ upāpatsyata upapannamabhaviṣyadityanvayaḥ ।
+vastvantaratvaṃ paramārthato bhinnatvam ।
+etena kāraṇasya sarvakāryeṣvanvayakathanena ।
+vivartavādaṃ vyaktīkartuṃ naṭavadityudāharaṇam ।

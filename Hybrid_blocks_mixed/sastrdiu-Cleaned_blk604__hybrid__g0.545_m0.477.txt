@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 604 | label: hybrid | g:0.545 m:0.477 ---
+
+nanu nāvaśyatvaṃ nityatve satyekatvaṃ bhavati, anekānyeva hi gakārādīni nityāni bhavantvityata āha- asati viśeṣe nityasya nānekatvam iti ।
+etaduktaṃ bhavati- pratyabhijñākhyaviśeṣyapratyayabalena hyastanādyatanagakārayorekatvāvagamānnityatvamāśrīyate ।
+asticāsāvaviśeṣapratyayo yugapannānāvaktṛbhiruccārite api gakāre nahi tatrāpi pratyayaviśeṣo asti, asati ca viśeṣe nityasya nānekatvaṃ saṃbhavati ।
+anekatve hi pratyabhijñāyā aprāmāṇyamasmākamiva bhavato api syāt tadaprāmāṇyeca

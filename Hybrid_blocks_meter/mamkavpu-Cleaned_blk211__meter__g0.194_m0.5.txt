@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 211 | label: meter | g:0.194 m:0.5 ---
+
+{citraṃ mahāneṣa batāvatāraḥ kva kāntireṣābhinavaiva bhaṅgiḥ ।
+lokottaraṃ dhairyamaho prabhāvaḥ kāpyākṛtirnūtana eṣa sargaḥ ।।}

@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 106 | label: meter | g:0.25 m:0.75 ---
+
+-sākṣājjñānākāratāṃ na darśayatītyuktam ।
+ārthikamapi jñānākāratvaṃ na sidhyatītyāha-purovartitveti ।

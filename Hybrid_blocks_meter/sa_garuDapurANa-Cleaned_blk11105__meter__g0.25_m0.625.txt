@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11105 | label: meter | g:0.25 m:0.625 ---
+
+strīṇāṃ kucodaiśca kacodakaiścakakṣodakair gātrajalairmukunda ।
+anarpitairvastragandhādikaiśca dṛṣṭo mayā kena puṇyena deva ।।

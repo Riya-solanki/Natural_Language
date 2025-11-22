@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 613 | label: grammar | g:0.583 m:0.5 ---
+
+samākṛṣṭaṃ vāsaḥ katham api haṭhāt paśyati mayi kramād ūrudvandvaṃ jaraṭhaśaragauraṃ mṛgadṛśaḥ ।
+tayā dṛṣṭiṃ dattvā mahati maṇidīpe nipuṇayā niruddhaṃ hastābhyāṃ jhagiti mama netrotpalayugam ।।

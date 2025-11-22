@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1216 | label: hybrid | g:0.302 m:0.324 ---
+
+tadāroha rathaṃ śīghraṃ bhojaṃ hatvā mahābalam 
+syamantako mahābāho saha nau sa bhaviṣyati ।। 
+tato rathaṃ samāruhya rāmakṛṣṇau mahābalau । śatadhanvavināśāya nagarād vāraṇāvatād । śatadhanvā tato bhīto vijñāyācyutam āgatam । 
+tataḥ pravavṛte yuddhaṃ tumulaṃ bhojakṛṣṇayoḥ 
+śatadhanvā tato akrūram avaikṣat sarvatodiśam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4236 | label: meter | g:0.194 m:0.625 ---
+
+tathā kṣaṇamuhūrtābhyāṃ yayā jajñe saheśvaraḥ 
+yatkṛte sagaṇaṃ kaṃsaṃ jaghāna puruṣottamaḥ ।।

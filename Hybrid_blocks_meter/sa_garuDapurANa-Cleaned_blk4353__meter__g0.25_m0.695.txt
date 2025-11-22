@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4353 | label: meter | g:0.25 m:0.695 ---
+
+sarvaṃ yasya ca vidviṣṭaṃ darśanaśravaṇādibhiḥ ।
+vātādinaiva saṃkruddhakṛmiduṣṭānnaje gade ।
+śūlavepatuhṛllāso viśeṣātkṛmije bhavet ।।

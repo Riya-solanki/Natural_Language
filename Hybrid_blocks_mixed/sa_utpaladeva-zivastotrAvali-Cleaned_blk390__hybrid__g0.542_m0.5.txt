@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 390 | label: hybrid | g:0.542 m:0.5 ---
+
+yathā tvam eva jagataḥ pūjāsambhogabhājanam tatheśa bhaktimān eva pūjāsambhogabhājanam ।।

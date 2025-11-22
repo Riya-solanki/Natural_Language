@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 179 | label: meter | g:0.028 m:0.667 ---
+
+[] sā punaḥ sāsram āśrāvayati,
+"na mūrkha-dhīr asmi na vā durāgrahā
+śarīra-bhogeṣu na vātilālasā ।
+kintu vrajādhīśa-sutasya te guṇā
+balād apasmāra-daśāṃ nayanti mām ।। [vaṃśasthavilā]

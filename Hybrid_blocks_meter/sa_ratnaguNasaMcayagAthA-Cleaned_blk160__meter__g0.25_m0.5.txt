@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 160 | label: meter | g:0.25 m:0.5 ---
+
+pakṣisya yojanaśataṃ mahatātmabhāvo pañcāśatā pi abalobhayakṣīṇapakṣo 
+so trāyatriṃśabhavanādiṣu jambudvīpe ātmānamosariyi taṃ vilayaṃ vrajeyyā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 311 | label: hybrid | g:0.51 m:0.5 ---
+
+gāyanti nṛtyanti ramanti yakṣa vādyāni yatnādapi vādayanti ।
+tavāgrato hāsyavaco abhiraktā bhavanti te yogayutāstu te syuḥ ।।

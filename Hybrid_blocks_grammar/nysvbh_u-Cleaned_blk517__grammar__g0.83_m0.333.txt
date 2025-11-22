@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 517 | label: grammar | g:0.83 m:0.333 ---
+
+pāṇikarmaṇā pāṇighaṇṭāpraśleṣo bhavati tasmiṃśca sati śabdasaṃtāno nopalabhyate ataḥ śravaṇānupapattiḥ, tatra pratighātidravyasaṃyogaḥ śabdasya nimittāntaraṃ saṃskārabhūtaṃ niruṇaddhītyanumīyate tasya ca nirodhāt śabdasaṃtāno notpadyate anutpanne ca śrutivicchedaḥ, yathā pratighātidravyasaṃyogādiṣoḥ kriyāhetau saṃskāre niruddhe gamanābhāva iti।
+kampasaṃtānasya sparśanendriyagrāhyasya coparamaḥ kāṃsyapātrādiṣu pāṇisaṃśleṣo liṅgaṃ saṃskārasaṃtānasyeti, tasmānnimittāntarasya saṃskārabhūtasya nānupalabdhiriti ।।

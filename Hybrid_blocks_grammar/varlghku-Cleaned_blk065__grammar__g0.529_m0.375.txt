@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 65 | label: grammar | g:0.529 m:0.375 ---
+
+ṛtyakaḥ ।।
+ṛti pare padāntā akaḥ prāgvadvā । brahma ṛṣiḥ, brahmarṣiḥ । padāntāḥ kim ? ārchat ।।

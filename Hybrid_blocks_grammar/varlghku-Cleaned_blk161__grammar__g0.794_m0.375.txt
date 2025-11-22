@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 161 | label: grammar | g:0.794 m:0.375 ---
+
+sarvādīni sarvanāmāni ।।
+sarva viśva ubha ubhaya ḍatara ḍatama anya anyatara itara tvat tva nema sama sima । pūrvaparāvaradakṣiṇottarāparādharāṇi vyavasthāyāmasaṃjñāyām । svamajñātidhanākhyāyām । antaraṃ bahiryogopasaṃvyānayoḥ । tyad tad yad etad idam adas eka dvi yuṣmad asmad bhavatu kim ।।

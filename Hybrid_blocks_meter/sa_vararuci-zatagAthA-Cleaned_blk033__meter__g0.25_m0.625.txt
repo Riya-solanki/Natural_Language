@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 33 | label: meter | g:0.25 m:0.625 ---
+
+sarva yatra vinetāraḥ sarve paṇḍitamāninaḥ ।
+sarve prabhutvamicchanti tad vṛndamavasīdati ।।

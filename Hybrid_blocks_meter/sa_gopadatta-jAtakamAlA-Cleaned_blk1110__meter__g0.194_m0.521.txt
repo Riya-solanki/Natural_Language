@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1110 | label: meter | g:0.194 m:0.521 ---
+
+karatala iva manye kāmadhātvīśvaratvaṃ
+tridaśapatisukhaṃ vā niścayasyāsya vo adya ।
+laghu vadata bhaginyaḥ kiṃ karomy eṣa vaśyaḥ
+sphurati manasi yad vo devarājo asmi śakraḥ ।।

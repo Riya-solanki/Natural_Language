@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10566 | label: meter | g:0.25 m:0.555 ---
+
+bruve dvyaṣṭasahasraṃ ca śṛṇu tārkṣya mama striyaḥ ।
+agniputrāstu yaddvyaṣṭasahasrañca mama striyaḥ ।
+ajānajasamā hyetā nātra kāryā vicāraṇā ।।

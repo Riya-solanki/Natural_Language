@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3375 | label: grammar | g:0.562 m:0.5 ---
+
+nityaṃ chedastṛṇānaṃ dharaṇivilakhanaṃ pādayoścāpamārṣṭiḥ dantānāmapyaśaucaṃ malinavasanatā rūkṣatā mūrdhajānām ।
+dve sadhye cāpi nidrā vivasanaśayanaṃ grāsahāsātirekaḥ svāṅge pīṭhe ca vādyaṃ nidhanamupanayetkeśavasyāpi lakṣmīm ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1501 | label: grammar | g:0.625 m:0.5 ---
+
+prapātasaṃkṣiptaparākramo ahamabāndhavo veti kṛthāḥ śucaṃ mā । yadbandhukṛtyaṃ tava kiṃcidatra kartāsmi tatsarvamalaṃ bhayena ।।

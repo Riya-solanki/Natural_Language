@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3467 | label: meter | g:0.25 m:0.5 ---
+
+etac chrutvā vacas tasya kṛṣṇaḥ paramaharṣitaḥ 
+pratyuvācograsenaṃ vai sāntvapūrvam idaṃ vacaḥ ।। 
+kālayuktam idaṃ tāta tvayaitad bhāṣitaṃ vacaḥ । 
+sadṛśaṃ rājaśārdūla vṛttasya ca kulasya ca 
+yat tvaṃ evaṃvidhaṃ brūṣe gate arthe duratikrame ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1553 | label: meter | g:0.25 m:0.5 ---
+
+priyā duhitaro dhātur vipadaḥ pratibhānti naḥ ।
+guṇavatyaḥ kulīnebhyo dīyante katham anyathā ।।

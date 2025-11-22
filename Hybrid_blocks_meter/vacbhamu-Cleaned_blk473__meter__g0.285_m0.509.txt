@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 473 | label: meter | g:0.285 m:0.509 ---
+
+saṃskāraparāmarśāttadabhāvābhilāpācca ।
+na kevalamupanītādhyayanavidhiparāmarśena na śūdrasyādhikāraḥ kintu teṣu teṣu vidyopadeśeṣūpanayanasaṃskāraparāmarśāt śūdrasya tadabhāvābhidhānādbrahmavidyāyāmanadhikāra iti ।
+nanvanupanītasyāpi brahmopadeśaḥ śrūyate-'tānhānupanīyaiva' iti ।
+tathā śūdrasyānupanītasyaivādhikāro bhavīṣyatītyata āha -tānhānupanīyaivetyapi pradarśitaivopanayanaprāptiḥ ।
+prāptipūrvakatvātpratiṣedhasya yeṣāmupanayanaṃ prāptaṃ teṣāmeva tanniṣidhyate ।
+tacca dvijātīnāmiti dvijātaya eva niṣiddhopanayanā adhikriyante na śūdra iti ।।

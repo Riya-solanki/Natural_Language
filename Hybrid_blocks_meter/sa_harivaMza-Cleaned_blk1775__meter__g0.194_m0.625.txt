@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1775 | label: meter | g:0.194 m:0.625 ---
+
+sarvair brahmarṣibhiḥ sārdhaṃ gandharvaiḥ sāpsarogaṇaiḥ 
+devadevo hariṃ devaṃ pūjayan vākyam abravīt ।।

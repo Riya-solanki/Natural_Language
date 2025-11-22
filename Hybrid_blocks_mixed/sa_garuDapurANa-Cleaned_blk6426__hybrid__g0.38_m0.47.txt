@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6426 | label: hybrid | g:0.38 m:0.47 ---
+
+oṃ mānastoke tanaye mā na āyuṣi mā no goṣu mā no aśveṣu rīriṣaḥ ।
+mā no vīrānrudrabhāmino abadhīrhaviṣmantaḥ sadamitvā havāmahe ।।

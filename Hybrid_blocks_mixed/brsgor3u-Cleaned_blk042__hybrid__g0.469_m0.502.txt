@@ -1,0 +1,5 @@
+--- source: brsgor3u-Cleaned.txt | block: 42 | label: hybrid | g:0.469 m:0.502 ---
+
+anayā śrutyā cāturvidhyaṃ kathamuktaṃ śrutyantare trīṇyevetyavadhāraṇavirodhāditi śaṅkottaratvena sūtramādatte-nanvityādinā ।
+jīvajaṃ jarāyujaṃ manuṣyādi, bhūmimudbhidya jāyate vṛkṣādikaṃ, udakaṃ bhittvā jāyate yūkādi jaṅgamamiti bhedaḥ ।
+saṃśokaḥ svedaḥ ।।

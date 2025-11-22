@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 450 | label: hybrid | g:0.355 m:0.461 ---
+
+caṇḍīśadarpadalanāt prabhṛti smarasya vāmabhruvāṃ vadanam eva hi rājadhānī ।
+niḥśaṅkam aṅkuritapuṣpitakāntikāśe tatrādhunā tuhinadhāmni mṛgāś caranti ।।
+sarokasya

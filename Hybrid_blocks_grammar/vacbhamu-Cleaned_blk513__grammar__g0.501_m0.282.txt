@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 513 | label: grammar | g:0.501 m:0.282 ---
+
+ānandajñānaikarasabrahmādvayānubhave tu tat kena kaṃ paśyet, brahma vā kena vijānīyāt ।
+nahi tadāsya karbhāvo asti svaprakāśatvāt ।
+etaduktaṃ bhavati-na saṃjñāmātraṃ mayā vyāsedhi, kintu viśeṣasaṃjñeti ।
+tadevamamṛtatvaphalenopakramāt, madhye cātmavijñānena sarvavijñānaṃ pratijñāya tadupapādanāt, upasaṃhāre ca mahadbhūtamanantamityādinā ca brahmarūpabhidhānāt, dvaitanindayā cādvaitaguṇakīrtanādbrahmaiva maitreyībrahmaṇe pratipādyaṃ na jīvātmeti nāsti pūrvapakṣa ityanārabhyamevedamadhikaraṇam ।
+atrocyate-bhoktṛtvajñātṛtājīvarūpotthānasamādhaye maitreyībrahmaṇe pūrvapakṣeṇopakramaḥ kṛtaḥ ।
+patijāyādibhogyasaṃbandho nābhokturbrahmaṇo yujyate, nāpijñānakartṛtvamakartuḥ sākṣācca mahato bhūtasya vijñānātmabhāvena samuttānābhidhānaṃ vijñānātmana eva draṣṭavyatvamāha ।

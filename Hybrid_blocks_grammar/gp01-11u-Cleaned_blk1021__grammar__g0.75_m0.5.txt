@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1021 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataś ca tau vatsāṃs tṛṇair āpyāyya jalam āpāyya sarvān vilokitavantau । śrī-kṛṣṇas tu teṣu kasyacid gaṇḍādi-kaṇḍūti-khaṇḍanena bāhu-daṇḍa-kṛta-kaṇṭhāvaguṇṭhanena, mātaraṃ militum icchasi? melayiṣyāmi iti tat-karṇe mithaḥ kapola-melana-pūrvaka-vṛthā-varṇanena ca tam upacarya sukham upalabdhavān ।

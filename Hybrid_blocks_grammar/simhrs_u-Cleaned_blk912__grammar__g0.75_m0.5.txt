@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 912 | label: grammar | g:0.75 m:0.5 ---
+
+nanu cātra svabhāvajaṃ kṛtakaṃ ceti dvividhaṃ bhayaṃ pratīyate । tasmāt tad-virodha iti cet, maivam । bharatādy-abhiprāyam ajānatāṃ pelavokti-mātra-tātparyeṇa na śaṅkitavyam । tathā hi-yathā loke mañjiṣṭhādi-dravyaṃ sahajo raktimā gāḍhataraṃ vyāpnoti । evaṃ madhya-nīcayor bhayaṃ svalpa-kāraṇa-mātre' pi sahajavad dṛśyata iti sahajam ity upacaryate । yathā kṛtako lākṣā-rasaḥ prayatna-sajjito' pi kāṣṭhādikam antar na vyāpnoti, evam uttama-gataṃ bhayam iti alaukika-kāraṇa-prakarṣeṇāpi kṛtakavad eva pratīyata iti kṛtakam ity upacaryate । anyathā svābhāvikasya bhayasya dāma-darśane' pi samutpatti-prasaṅgāt ।

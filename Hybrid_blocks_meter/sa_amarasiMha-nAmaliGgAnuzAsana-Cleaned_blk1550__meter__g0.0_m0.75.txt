@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1550 | label: meter | g:0.0 m:0.75 ---
+
+pṛthakaḥ syāccipiṭako dhānā bhṛṣṭayave striyaḥ

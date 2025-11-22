@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2259 | label: meter | g:0.194 m:0.5 ---
+
+sarvasyaiva hi bhūpāla jantoḥ sarvatra kāraṇam 
+dharmādharmau yatas tasmāt kāraṇaṃ pṛcchyate kutaḥ ।।

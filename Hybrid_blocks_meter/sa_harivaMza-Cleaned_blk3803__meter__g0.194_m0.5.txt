@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3803 | label: meter | g:0.194 m:0.5 ---
+
+yadīcchet sāgaraḥ kiṃcid utsraṣṭum iha toyarāṭ 
+tataḥ svāyatalakṣaṇyā purī syāt puruṣottama ।।

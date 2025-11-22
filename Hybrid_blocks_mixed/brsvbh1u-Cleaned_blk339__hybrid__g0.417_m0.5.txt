@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 339 | label: hybrid | g:0.417 m:0.5 ---
+
+cyeta-siddhe kilāpauruṣeyatve vedāntānāmanapekṣatayā prāmāṇyaṃ sidhyet,tadeva tu bhūtārthatvena na sidhyati, bhūtārthasya śabdānapekṣeṇa puruṣeṇa mānāntarataḥ śakyajñānatvādbuddhipūrvaṃ viracanopapatteḥ,vākyatvādiliṅgakasya vedapauruṣeyatvānumāna

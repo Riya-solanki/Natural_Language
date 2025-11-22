@@ -1,0 +1,6 @@
+--- source: brsvbh3u-Cleaned.txt | block: 228 | label: meter | g:0.322 m:0.544 ---
+
+satyapyanubandhābhede bheda iti prāpte pratyucyate-ekaiveyaṃ vidyā tatsatyamiti prakṛtaparāmarśādabhedena pratyabhijñānāt ।
+naca phalabhedaḥ ।
+tasyopaniṣadaharahamiti tasyaiva yadaṅgāntaraṃ rahasyanāmnopāsanaṃ tatpraśaṃsārthor'thavādo ayaṃ na phalavidhiḥ ।
+yadi punarvidyāvidhāvadhikāraśravaṇābhāvāttatkalpanāyāmārthavādikaṃ phalaṃ kalpyeta tato jāteṣṭāvivāgṛhyamāṇaviśeṣatayā

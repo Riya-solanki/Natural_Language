@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1311 | label: meter | g:0.306 m:0.5 ---
+
+amṛtīkṛtya taṃ paścānmantraiḥ sarvaiśca deśikaḥ ।
+pātraṃ gṛhya karābhyāṃ ca kuṇḍaṃ bhrāmya tataḥ punaḥ ।।

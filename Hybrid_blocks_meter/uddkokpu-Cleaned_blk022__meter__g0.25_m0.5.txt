@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 22 | label: meter | g:0.25 m:0.5 ---
+
+pakṣodyautaiḥ pataga purajitkandharākāṇḍanīlair vyāptābhogā visṛmaratarairvyoma sīmantayantī ।
+suvyaktaṃ te gamanasaraṇiḥ sūtrayedūrdhvamasyāḥ sindhusnehopagatayamunāveṇivīthīvilāsam ।।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 458 | label: grammar | g:0.625 m:0.5 ---
+
+athāsāṃ dharmamudrā [sādhanaṃ pra] vakṣyate śubham । jivhāyāṃ bhāvayed vajrāṃ sarvakarmāṇi kurvate ।। ।।

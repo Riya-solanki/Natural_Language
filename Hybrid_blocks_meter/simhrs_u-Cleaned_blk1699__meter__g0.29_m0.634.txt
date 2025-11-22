@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1699 | label: meter | g:0.29 m:0.634 ---
+
+atha anunayaḥ-
+abhyarthanā-paraṃ vākyaṃ vijñeyo' nunayo budhaiḥ ।।

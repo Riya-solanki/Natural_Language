@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 355 | label: meter | g:0.194 m:0.625 ---
+
+sarvākṣagocaratvena yā tu bāhyatayā sthirā 
+sṛṣṭiḥ sādhāraṇī sarvapramātṝṇāṃ sa jāgaraḥ ।।

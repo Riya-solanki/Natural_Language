@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2244 | label: meter | g:0.25 m:0.695 ---
+
+śrutvābravīddharerbrahmā vyāsaṃ dakṣādisaṃyutam ।
+etānyuktvā ca tīrthāni puna stīrthottamottamam ।
+gayākhyaṃ prāha sarveṣāmakṣayaṃ brahmalokadam ।।

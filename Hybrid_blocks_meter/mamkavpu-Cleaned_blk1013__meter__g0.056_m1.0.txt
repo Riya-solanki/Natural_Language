@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1013 | label: meter | g:0.056 m:1.0 ---
+
+{dantakṣatāni karajaiśca vipāṭitāni
+prodbhinnasāndrapulake bhavataḥ śarīre ।
+dattāni raktamanasā mṛgarājavadhvā
+jātaspṛhairmunibhirapyavalokitāni ।।}

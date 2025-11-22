@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2470 | label: meter | g:0.306 m:0.5 ---
+
+te ūcaturvayaṃ yāmo bhavān yatra gamiṣyati ।
+na tvayā sma vinā brahmanniha casthātuṃ hi śaknuvaḥ ।।

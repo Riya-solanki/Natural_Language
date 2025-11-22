@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 389 | label: meter | g:0.25 m:0.625 ---
+
+sudyumnasya tu dāyādās trayaḥ paramadhārmikāḥ 
+utkalaś ca gayaś caiva vinatāśvaś ca bhārata ।।

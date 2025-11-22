@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2641 | label: meter | g:0.35 m:0.798 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+svāyambhuvādyā munayo hariṃ dhyāyanti karmaṇā ।
+vratācārārcanādhyānastutijapyaparāyaṇāḥ ।।

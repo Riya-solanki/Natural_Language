@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4023 | label: meter | g:0.306 m:0.5 ---
+
+viṣvaksena namastubhyaṃ nārāyaṇa namo astu te ।
+dhruvadhvaja namasto astu satyadhvaja namo astu te ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1829 | label: meter | g:0.326 m:0.5 ---
+
+jātismarāḥ santi ca tatra tatra dhyānābhiyogātsmṛtipāṭavācca ।
+ato api lokaḥ parato anumeyaḥ sākṣyaṃ ca nanvatra kṛtaṃ mayaiva ।।

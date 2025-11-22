@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 289 | label: meter | g:0.25 m:0.625 ---
+
+evaṃprabhāvo vainyaḥ sa rājāsīd rājasattama 
+namasyaś caiva pūjyaś ca bhūtagrāmair na saṃśayaḥ ।।

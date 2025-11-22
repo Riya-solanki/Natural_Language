@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 788 | label: meter | g:0.25 m:0.625 ---
+
+sthānabhraṃśaṃ na cāpnoti divi vā yadi vā bhuvi 
+sarvakalyāṇasaṃyukto dīrghakālaṃ ca jīvati ।।

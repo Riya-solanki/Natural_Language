@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3063 | label: meter | g:0.25 m:0.625 ---
+
+tābhiḥ parivṛtā tasthau haradarśanalālasā ।
+tatastrinetro girijāṃ dṛṣṭvā prekṣya ca dānavam ।।

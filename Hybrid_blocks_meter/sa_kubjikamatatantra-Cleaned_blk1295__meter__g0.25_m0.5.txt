@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1295 | label: meter | g:0.25 m:0.5 ---
+
+sa śṛṅgārī madasrāvī nit yam evaṃ gajo yathā 
+ātmānaṃ vikrayitvā tu madyamāṃsaṃ samācaret ।।

@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3740 | label: meter | g:0.194 m:0.5 ---
+
+sāmādayo abhyupāyāś ca vihitās tasya sarvaśaḥ 
+matto madabalābhyāṃ ca yuddham eva cikīrṣati 
+etāvān iha vāsaś ca kathito nāradena me ।। 
+etāvati ca vaktavyaṃ sāmaiva paramaṃ matam । 
+jarāsaṃdhaś ca no rājā nityam eva na mṛṣyate 
+tathānye pṛthivīpālā vṛṣṇicakrapratāpitāḥ ।।

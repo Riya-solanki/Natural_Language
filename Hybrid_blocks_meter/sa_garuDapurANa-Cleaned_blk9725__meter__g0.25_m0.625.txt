@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9725 | label: meter | g:0.25 m:0.625 ---
+
+ākārapravartane pāpaṃ gosahasravadhaiḥsamam ।
+vṛtticchede tathā vṛtteḥ karaṇaṃ lakṣadhenukam ।।

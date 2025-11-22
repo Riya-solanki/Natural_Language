@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 59 | label: grammar | g:0.58 m:0.5 ---
+
+ye jātyā laghavaḥ sadaiva gaṇanāṃ yātā na ye kutra cit padbhyām eva vimarditāḥ pratidinaṃ bhūmau nilīnāś ciram 
+utkṣiptāś capalāśayena marutā paśyāntarikṣe adhunā tuṅgānām uparisthitiṃ kṣitibhṛttāṃ kurvanty amī pāṃsavaḥ ।।

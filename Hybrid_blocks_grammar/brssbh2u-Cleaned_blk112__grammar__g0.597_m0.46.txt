@@ -1,0 +1,7 @@
+--- source: brssbh2u-Cleaned.txt | block: 112 | label: grammar | g:0.597 m:0.46 ---
+
+yathā ca saṃveṣṭitaḥ paṭo na vyaktaṃ gṛhyate kimayaṃ paṭaḥ kiṃ vānyaddravyamiti ।
+sa eva prasārito yatsaṃveṣṭitaṃ dravyaṃ tatpaṭa eveti prasāraṇenābhivyakto gṛhyate ।
+yathāca saṃveṣṭanasamaye paṭa iti gṛhyamāṇe api na viśiṣṭāyāmavistāro gṛhyate sa eva prasāraṇasamaye viśiṣṭāyāmavistāro gṛhyate na saṃveṣṭitarūpādanyo ayaṃ bhinnaḥ paṭa iti ।
+evaṃ tantvādikāraṇāvasthaṃ paṭādikāryamaspaṣṭaṃ sat turīvemakuvindādikārakavyāpāradibhirvyaktaṃ spaṣṭaṃ gṛhyate ।
+ataḥ saṃveṣṭitaprasīritapaṭanyāyenaivānanyatkāraṇātkāryamityarthaḥ ।।

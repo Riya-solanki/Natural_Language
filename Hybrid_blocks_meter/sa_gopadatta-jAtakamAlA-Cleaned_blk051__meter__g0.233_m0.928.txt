@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 51 | label: meter | g:0.233 m:0.928 ---
+
+prāsāde śaradabhraśubhraśikhare puṣpāvalīmaṇḍite
+vīṇāveṇumṛdaṅgagītamadhure saṃprāpya citraṃ sukham ।
+nityaṃ prajvalitasphuṭānalaśikhāsaṃtānajālākulaṃ
+prāpyāvīcim anekaduḥkhavihataḥ kiṃ nāma kartā bhavān ।।

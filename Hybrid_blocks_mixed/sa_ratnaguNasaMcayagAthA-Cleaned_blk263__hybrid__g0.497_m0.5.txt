@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 263 | label: hybrid | g:0.497 m:0.5 ---
+
+yatha buddha nirmita karoti ca buddhakāryaṃ na ca tasyupadyati mado karamāṇu kiṃcit 
+emeva prajñacarito vidu bodhisattvo darśeti sarva kriya nirmitamāyatulyam ।।

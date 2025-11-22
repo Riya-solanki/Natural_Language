@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 483 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ jāta-karma-śarmaṇi nirvṛtte bāla-nābhi-nāle ca prāpta-cchedana-kāle vṛtte paramānanda-sandohenānavahita-prāyā yā saiva tadaiva tad-avadhātrī dhātrī sapulaka-kāyā citram idam iti dvi-tri-vāram idam niveditavatī-rājan ! itaratra nābhi-sarasi nālam eva lakṣyate, na tu nālīkam । atra punar nālīkam eva na tu nālam iti ।

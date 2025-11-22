@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 287 | label: grammar | g:0.75 m:0.5 ---
+
+tadupalabhya pramuditavismitamanobhirdevatābhiḥ samantataḥ parikīrtyamānaṃ tasya vitarkādbhūtaṃ śakro devendraḥ samāpūryamāṇavismayakautūhalena manasā tasya mahāsattvasya bhāvajijñāsayā dvitīye ahani gaganatalamadhyamabhilaṅghamāne paṭutarakiraṇaprabhāve savitari prasphulitamarīcijālavasanāsu bhāsvarātapavisarāvaguṇṭhitāsvanālokanakṣamāsu dikṣu saṃkṣipyamāṇacchāyeṣvabhivṛddhacīrīvirāvonnāditeṣu vanāntareṣu vicchidyamānapakṣisaṃpāteṣu dharmaklamāpītotsāheṣvadhvageṣu śakro devānāmadhipatirbrāhmaṇarūpo bhūtvā mārgapranaṣṭa iva kṣuttarṣaśramaviṣādadīnakaṇṭhaḥ sasvaraṃ prarudannātidūre teṣāṃ vicukrośa ।

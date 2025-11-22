@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 984 | label: meter | g:0.346 m:0.747 ---
+
+karṇāliṅganadāyī vā pārthaprāṇaharo api vā ।
+anivāritasaṃpātairayamātmāśruvāribhiḥ ।।

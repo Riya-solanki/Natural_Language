@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1240 | label: meter | g:0.25 m:0.625 ---
+
+daityarāja viṣaṃ dattam asmābhir atibhīṣaṇam 
+jīrṇaṃ tac ca sahānnena prahlādena sutena te ।।

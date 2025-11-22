@@ -1,0 +1,4 @@
+--- source: mamkpb_u-Cleaned.txt | block: 119 | label: meter | g:0.25 m:0.75 ---
+
+suptaṃ prabodho amarṣaśvāpyavahitthamathogratā ।
+matirvyādhistathonmādastathā maraṇameva ca ।।

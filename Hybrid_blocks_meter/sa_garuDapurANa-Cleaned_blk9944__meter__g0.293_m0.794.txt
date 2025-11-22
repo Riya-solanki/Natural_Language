@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9944 | label: meter | g:0.293 m:0.794 ---
+
+śrībhagavānubāca ।
+śṛṇu tārkṣya pravakṣyāmi yanmāṃ tvaṃ paripṛcchasi ।
+yasya śravaṇamātreṇa saṃsārānmucyate naraḥ ।।

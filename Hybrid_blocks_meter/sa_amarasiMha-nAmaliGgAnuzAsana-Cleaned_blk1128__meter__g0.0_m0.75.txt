@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1128 | label: meter | g:0.0 m:0.75 ---
+
+vediḥ pariṣkṛtā bhumiḥ same sthaṇḍilacatvare

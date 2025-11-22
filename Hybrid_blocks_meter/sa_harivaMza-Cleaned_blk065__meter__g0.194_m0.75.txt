@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 65 | label: meter | g:0.194 m:0.75 ---
+
+pṛthuputrau tu dharmajñau jajñāte antardhipālinau 
+śikhaṇḍinī havirdhānam antardhānād vyājāyata ।।

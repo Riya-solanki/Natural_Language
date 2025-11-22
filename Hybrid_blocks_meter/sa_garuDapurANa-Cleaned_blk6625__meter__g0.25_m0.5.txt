@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6625 | label: meter | g:0.25 m:0.5 ---
+
+dharmapātā hariśceti santuṣṭā jñānino narāḥ ।
+caturvaṃṣarsahasrāṇi narā jīvanti vai tadā ।।

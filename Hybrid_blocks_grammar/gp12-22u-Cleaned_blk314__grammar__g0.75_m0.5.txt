@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 314 | label: grammar | g:0.75 m:0.5 ---
+
+[] lalita-mādhave śrī-rādhikādīnāṃ tathā-varṇanaṃ tu sphuṭam eva nirvarṇitam । ujjvala-nīlamaṇau sākṣāt-kathanayā kumārikāṇāṃ sākṣād anya-sambandhābhāva-prathanayā ca parāsām api yad eva samṛddhimad-ākhya-sambhoge lalita-mādhavānusāreṇa sphuṭam aṅgīkṛtam asti ।

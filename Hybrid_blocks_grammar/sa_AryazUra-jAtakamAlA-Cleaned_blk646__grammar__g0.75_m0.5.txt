@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 646 | label: grammar | g:0.75 m:0.5 ---
+
+ityuktvā śakrastatraivāntardadhe । śakrānubhāvācca sa brāhmaṇo bodhisattvatanayau śibiviṣayameva saṃprāpayāmāsa । atha śibayaḥ saṃjayaśca śibirājastadatikaruṇamatiduṣkaraṃ ca bodhisattvasya karma śrutvā samākleditahṛdayā brāhmaṇahastānniṣkrīya bodhisattvatanayau prasādyānīya ca viśvantaraṃ rājya eva pratiṣṭhāpayāmāsuḥ ।

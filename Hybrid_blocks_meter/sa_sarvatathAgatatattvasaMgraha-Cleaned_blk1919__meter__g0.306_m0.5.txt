@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1919 | label: meter | g:0.306 m:0.5 ---
+
+kuḍye vāpyatha vākāśe viśvapadmaṃ samādhayet ।
+paśyaṃ gṛṇhedyathā taṃ tu viśvarūpī tadā bhavet ।।

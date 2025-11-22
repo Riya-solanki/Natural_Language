@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 884 | label: meter | g:0.194 m:0.5 ---
+
+te devā dānavāḥ prītā devenoktā rajer jaye 
+abhyayur jayam icchanto vṛṇvānā bharatarṣabha ।।

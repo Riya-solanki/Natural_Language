@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4598 | label: meter | g:0.194 m:0.5 ---
+
+dhvajasyāsya yadā bhaṅgas tava tāta bhaviṣyati 
+svasthāne sthāpitasyātha tadā yuddhaṃ bhaviṣyati ।।

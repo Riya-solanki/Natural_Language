@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2234 | label: meter | g:0.25 m:0.5 ---
+
+dṛṣṭvā kaṃsas tu tāṃ kanyām ahṛṣyata mudā yutaḥ 
+hataivaiṣā yadā kanyā jātety uktvā vṛthāmatiḥ ।।

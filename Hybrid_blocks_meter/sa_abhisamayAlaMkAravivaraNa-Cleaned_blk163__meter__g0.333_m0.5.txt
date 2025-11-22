@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 163 | label: meter | g:0.333 m:0.5 ---
+
+bhāvanāmārgādhimuktiḥ adhimuktibhāvanāmārgasya lakṣaṇādikaṃ sarvam abhisamayālaṅkāre dvābhyāṃ kārikābhyāṃ spaṣṭamādarśitam । tathā hi -

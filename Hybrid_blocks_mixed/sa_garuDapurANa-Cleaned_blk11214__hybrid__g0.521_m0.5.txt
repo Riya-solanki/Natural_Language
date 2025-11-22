@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11214 | label: hybrid | g:0.521 m:0.5 ---
+
+kanyābhāve saṃsthitāṃ bhadrasaṃjñāṃ pitā nalastvabravīttāṃ sa paśyan ।
+bhadre kimarthaṃ gātrapīḍāṃ karoṣi phalaṃ hi tannandini me vadasva ।।

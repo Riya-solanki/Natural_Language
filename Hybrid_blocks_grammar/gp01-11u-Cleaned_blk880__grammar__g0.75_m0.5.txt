@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 880 | label: grammar | g:0.75 m:0.5 ---
+
+[] sa tu pitaram anuvindamānam anucakranda । [] pitā cāntaḥ-sambhrāntaḥ sann api tasya sāntvanāya mukha-mātraṃ hasita-pātram ācarann acirād eva taṃ vipāśayāmāsa । [] sa-rodana-vadanaṃ vadanaṃ cumban vidann api muhuḥ papraccha ca, putra, kutratyaḥ sa khalu khala-buddhir yena colūkhale nirbandha-janita-baddhas tvam asi? iti ।

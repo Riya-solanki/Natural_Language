@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 679 | label: meter | g:0.144 m:0.587 ---
+
+nānārtha-siddhyā, yathā-
+krodhāndhaiḥ sakalaṃ hataṃ ripu-kulaṃ pañcākṣatās te vayaṃ
+pāñcālyā mama durnayopajanitas tīrṇo nikārārṇavaḥ ।
+tvaṃ devaḥ puruṣottamaḥ sukṛtinaṃ mām ādṛto bhāṣase
+kiṃ nāmānyad ataḥ paraṃ bhagavato yāce prasannād aham ।।

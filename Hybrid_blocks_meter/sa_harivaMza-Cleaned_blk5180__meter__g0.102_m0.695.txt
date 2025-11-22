@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5180 | label: meter | g:0.102 m:0.695 ---
+
+yathaiva hi parā buddhiḥ paro dharmaḥ paro damaḥ 
+yathaiva paramaiśvaryaṃ kīrtiś ca harivāhane 
+tathaiva tava durdharṣa triyajñaśatayājinaḥ ।।

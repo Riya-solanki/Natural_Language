@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 1036 | label: meter | g:0.25 m:0.5 ---
+
+atalina-nalina-vanānāṃ bhramam iha cakrur mukhāni tāsāṃ na ।
+hemante tad-ayogāt kintu nyak-kāram evātra ।। [āryā]

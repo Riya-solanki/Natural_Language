@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 25 | label: meter | g:0.306 m:0.5 ---
+
+kena svid oghaṃ tarati kenottarati cārṇavaṃ ।
+duḥkhaṃ tyajati kena svit kena svit pariśudhyati ।।

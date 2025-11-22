@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 835 | label: meter | g:0.194 m:0.625 ---
+
+{ananyasadṛśaṃ yasya balaṃ bāhvoḥ samīkṣyate ।
+ṣāḍaguṇyānusṛtistasya satyaṃ sā niṣprayojanā ।।}

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 257 | label: hybrid | g:0.396 m:0.5 ---
+
+[] ratnacūḍa uvāca, "asapatna-ratna-garbhā-pate! ratnavatyāḥ । sā caiṣā bhavad-apūrva-pūrva-puruṣa-puṇya-darśanāya kṛta-parāmarśā samāgatāsti । namaskaroti ceyam ।"

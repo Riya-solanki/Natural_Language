@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10211 | label: meter | g:0.25 m:0.5 ---
+
+mama svāmī harirnityaṃ dāsohaṃ sarvadā hareḥ ।
+brahmādyā devatāḥ sarvā guravo me yathākramam ।।

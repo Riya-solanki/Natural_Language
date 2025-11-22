@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 867 | label: grammar | g:0.573 m:0.5 ---
+
+mārge paṅkini toyadāndhatamase niḥśabdasaṃcārakaṃ gantavyā dayitasya me adya vasatir mugdheti kṛtvā matim ।
+ājānūddhṛtanūpurā karatalenāchādya netre bhṛśaṃ kṛcchrāl labdhapadasthitiḥ svabhavane panthānam abhyasyati ।।

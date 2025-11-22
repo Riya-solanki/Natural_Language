@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2024 | label: meter | g:0.25 m:0.625 ---
+
+mayā pūrvaṃ mayā pūrvaṃ vivadanatau parasparam ।
+prāpyocaturmaheśāya brahmaṇe mādhavāya ca ।।

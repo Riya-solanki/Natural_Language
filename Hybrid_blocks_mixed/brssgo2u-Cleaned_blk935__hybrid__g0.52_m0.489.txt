@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 935 | label: hybrid | g:0.52 m:0.489 ---
+
+tasya ca śārīrasyāsmiñśarīre bhoktṛtvena nityatvena puṇyapāpopalepasaṃbhavātsukhaduḥkhopabhogasaṃbhavācca na devatānām ।
+tā hi parasminnaiśvarye pade avatiṣṭhamānā na hine asmiñśarīre bhoktṛtvaṃ pratilabdhumarhanti ।
+śrutiśca bhavati- apuṇyamevāmuṃ gacchati na ha vai devānpāpaṃ gacchati' iti śārīreṇaiva ca nityaḥ prāṇānāṃ saṃbandha utkrāntyādiṣu tadanuvṛttidarśanāt ।
+atamutkrāmantaṃ prāṇo anūtkrāmati prāṇamanūtkrāmantaṃ sarve prāṇā anūtkrāmanti'

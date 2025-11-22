@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 594 | label: meter | g:0.306 m:0.5 ---
+
+aho mahātmā balavāñjaleśaḥ saṃcūrṇayan daityabhaṭaṃ savāham ।
+pāśena baddhvā gadayā nihanti yathā paśuṃ vājimakhe mahendraḥ ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 481 | label: grammar | g:0.59 m:0.174 ---
+
+[] sa ca khalv astoka-roka-loka-valaya-bhava-prabala-nava-kuvalaya-kulapati-durlaṅgha-śobhā-saṅghaṃ durlabha-komalāmala-kānti-viśrānti-bhūmiṃ, kalita-marma-prayatana-karma-viśvādbhuta-viśvakarma-nirmita-nirmala-nīla-cintāmaṇi-pratimā-pratipratīkātikrama-parimita-sarvāvayavaṃ, prabala-pravāha-dalita-cara-bāla-vāyaja-samavāyaja-mañjulāñjana-kalita-tala-niścala-jala-kālindī-hrada-jālaja-bāla-śaivālaka-ruci-rucira-rocir-valitārāla-ślakṣṇa-bāla-samudāyaṃ, kamalālayā-kara-kiśalaya-sita-lasita-sita-kamalāntar-valaya-dala-nirmala-vilocanaṃ, vaikuṇṭha-sthita-kalpa-taru-tallaja-pallava-kuṇṭhatākara-kara-caraṇādharaṃ, nipīta-kanaka-ruci-śuci-pītana-pītitāmbarāvaraṇa-rocanaṃ rocanaṃ bālakam ālocayann ātmānaṃ nayana-payaḥ-payasā snapayan vilakṣaṇatayā kṣaṇa-katipayaṃ jalavad āsīt ।
+yadyapi bahuvidha-bhāvā, jātā goṣṭheśitus tarhi ।
+tad api ca jāḍyaṃ balavaj jajñe gāmbhīrya-śīlasya ।।
+[] atha cirāya dhīra-bhāvaṃ dhāritavatī vraja-dharitrī rājya-śrīmatī tad-ānanda-spṛhiṇī nava-nandanam upananda-gṛhiṇī tad-utsaṅga-saṅginaṃ cakāra ।

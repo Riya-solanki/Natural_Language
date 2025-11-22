@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 388 | label: hybrid | g:0.379 m:0.503 ---
+
+sthānakaraṇābhāvāditi cārthaḥ।
+na cāyamanumānatopyupalabhyate śabdāntike artha iti।
+etasmin pakṣe apy āsyasthānakaraṇoccāraṇīyaḥ śabdastadantike artha iti annāgnyasiśabdoccāraṇe pūraṇapradāhapāṭanāni gṛhyeran na ca gṛhyante, agrahaṇānnānumeyaḥ prāptilakṣaṇḥ saṃbandhaḥ।
+arthāntike śabdaṃ iti sthānakaraṇāsaṃbhavād anuccāraṇam, sthānaṃ kaṇṭhādayaḥ karaṇaṃ prayatnaviśeṣaḥ tasyārthāntike anupapattiriti।
+ubhayapratiṣedhācca nobhayam।
+tasmānna śabdenārthaḥ prāpta iti ।।

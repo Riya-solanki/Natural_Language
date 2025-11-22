@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1446 | label: meter | g:0.194 m:0.5 ---
+
+tamasā niṣprabhaṃ sarvaṃ na prājñāyata kiṃcana 
+timiraughaparikṣiptā na rejuś ca diṣo daśa ।।

@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 25 | label: grammar | g:0.573 m:0.5 ---
+
+śmaśāneṣv ākrīḍā smarahara piśācāḥ sahacarāś citābhasmālepaḥ srag api nṛkaroṭīparikaraḥ ।
+amāṅgalyaṃ śīlaṃ tava bhavatu nāmaivam akhilaṃ tathāpi smartrṇāṃ varada paramaṃ maṅgalam asi ।।

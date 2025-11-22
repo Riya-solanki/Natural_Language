@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1263 | label: grammar | g:0.667 m:0.5 ---
+
+hemaprabhā-saṃpaṇṇaṃ ca pia-sahīe pāṇi-ggahaṇam ity antena pūrvaṃ tāṭakādi-vadha-dṛṣṭasya paścān nikhila-kṣatriya-durāropa-dhūrjaṭi-cāpāropaṇa-prabhāva-varṇanād naṣṭasya rāmabhadrotsāhasya tad-dhanur-bhaṅga-kriyā-rūpeṇa smaraṇāt parisarpaḥ ।

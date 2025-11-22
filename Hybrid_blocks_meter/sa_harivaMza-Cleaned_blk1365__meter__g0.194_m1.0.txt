@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1365 | label: meter | g:0.194 m:1.0 ---
+
+gajendracarmavasanās tathā kṛṣṇājināmbarāḥ 
+cīrasaṃvṛtagātrāś ca tathā valkalavāsasaḥ ।।

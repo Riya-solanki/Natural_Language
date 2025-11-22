@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 965 | label: meter | g:0.194 m:0.625 ---
+
+sarvalokasya sampūjyo jāyate rājavallabhaḥ 
+dhāraṇīyaṃ sadā gātre yathāvat pravadāmy aham ।।

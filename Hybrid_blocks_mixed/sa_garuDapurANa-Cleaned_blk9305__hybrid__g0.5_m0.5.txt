@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9305 | label: hybrid | g:0.5 m:0.5 ---
+
+tasmin mārge na cānnādyaṃ yena prāṇān prapoṣayet ।
+na jalaṃ dṛśyate tatra tṛṣā yena vilīyate ।।

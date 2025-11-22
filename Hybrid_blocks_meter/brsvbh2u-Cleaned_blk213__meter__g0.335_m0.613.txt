@@ -1,0 +1,4 @@
+--- source: brsvbh2u-Cleaned.txt | block: 213 | label: meter | g:0.335 m:0.613 ---
+
+śaṅkāpūrvaṃ sūtrāntaramavatārayati-atha paryāyeṇeti ।
+tatrāpyucyate

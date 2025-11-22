@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 62 | label: grammar | g:0.632 m:0.202 ---
+
+na cātītānāgatārthagocarāyāḥ saṃvidor'thasahabhāvo api ।
+tadviṣayahānopādānopekṣābuddhijananādarthasahabhāva iti cet, na, arthasaṃvida iva hānādibuddhīnāmapi tadviṣayatvānupapatteḥ ।
+hānādijananāddhānādibuddhīnāmarthaviṣayatvam, arthaviṣayahānādibuddhijananācca arthasaṃvidastadviṣayatvamiti cet, tatkiṃ dehasya prayatnavadātmasaṃyogo dehapravṛttinivṛttiheturartha ityarthaprakāśo astu ? jāḍyāddehātmasaṃyogo nārthaprakāśa iti cet, nanvayaṃ svayaṃprakāśo api svātmanyeva khadyotavatprakāśaḥ, arthe tu jaḍa ityupapāditam ।

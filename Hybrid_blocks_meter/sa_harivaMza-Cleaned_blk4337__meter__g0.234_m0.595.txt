@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4337 | label: meter | g:0.234 m:0.595 ---
+
+jajñire satyabhāmāyāṃ bhānur bhimarathaḥ kṣupaḥ 
+rohito dīptimāṃś caiva tāmrajākṣo jalāntakaḥ 
+catasro jajñire teṣāṃ svasāro garuḍadhvajāt ।। 
+bhānur bhīmarikā caiva tāmrapakṣā jalaṃdhamā । 
+jāmbavatyāḥ suto jajñe sāmbaḥ samitiśobhanaḥ 
+mitrabāhur mitradhāmā mitrasenas tathaiva ca । 
+mitravān mitravindaś ca mitravaty api cāṅganā ।।

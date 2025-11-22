@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 123 | label: meter | g:0.315 m:0.601 ---
+
+atha dhīrādhīrā-
+dhīrādhīra tu vakroktyā sa-bāṣpaṃ vadati priyam ।।

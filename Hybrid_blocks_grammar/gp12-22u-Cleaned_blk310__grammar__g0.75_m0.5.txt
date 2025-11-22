@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 310 | label: grammar | g:0.75 m:0.5 ---
+
+[] tathā ca tatraiva śriyaḥ kāntāḥ kāntaḥ parama-puruṣaḥ ity atra yuktiṃ ca darśitavān । śrī-parama-puruṣayor aupapatyaṃ nāstīti । kāśī-khaṇḍe ca dharma-rājaḥ, gopī-pate yadu-pate vasudeva-sūno iti । saṅgīta-śāstre ca, gopī-patir ananto' pi vaṃśa-dhvani-vaśaṃ gataḥ iti । bhaviṣyat-kāvyeṣu śrī-gīta-govinde patyur manaḥ kīlitam iti ।

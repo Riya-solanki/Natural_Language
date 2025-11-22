@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 449 | label: meter | g:0.25 m:0.5 ---
+
+manūnāṃ kāraṇaṃ caiva pakṣiṇāṃ kāraṇaṃ param ।
+munīnāṃ kāraṇaṃ śreṣṭha yogināṃ kāraṇaṃ param ।।

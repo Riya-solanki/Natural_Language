@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1808 | label: meter | g:0.306 m:0.5 ---
+
+kalpānanalpān bahudhā vinaṣṭaṃ śarīrakaṃ janmaparaṃparāsu ।
+jahyāṃ kathaṃ tatpralaye titikṣāṃ tṛṇasya hetoriva ratnajāṭam ।।

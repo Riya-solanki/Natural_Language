@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 74 | label: hybrid | g:0.399 m:0.5 ---
+
+aṃśā bhāgā dāyās tad-dhita-yogena dāyavantaś ca ।
+tat kila jāter bhāgā bakajiti te santi dāyavantaś ca ।। [gīti]
+tasminn aṃśo yeṣām iti vā gamyo bahu-vrīhiḥ ।
+vrīhi-nibhas tat-premā teṣāṃ vṛttau tad-āśrayo yuktaḥ ।। [udgīti]

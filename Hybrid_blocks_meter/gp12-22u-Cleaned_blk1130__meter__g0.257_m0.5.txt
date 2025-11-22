@@ -1,0 +1,8 @@
+--- source: gp12-22u-Cleaned.txt | block: 1130 | label: meter | g:0.257 m:0.5 ---
+
+dve cittavāsasī nītvā kumārīṇāṃ paraṃ dade ।
+na pūrvaṃ tu nirākāraṃ gopanīyam atīva saḥ ।। [anuṣṭubh]
+yat tarhy antima-ghasra-pūryam api tā devy-arcanaṃ san-madād
+vismṛtya vrajam eva jagmur abhavaṃs tenaiva pūrṇa-kriyāḥ ।
+premṇā yasya tu tac ca tac ca laṣitaṃ tasyātha sākṣāt-phalaṃ
+kṛṣṇāṅgī-kṛti-śarma ced vavalire kiṃ śiṣṭam iṣṭaṃ param? ।। [śārdūla]

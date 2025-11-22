@@ -1,0 +1,4 @@
+--- source: sa_hetvAbhAsadazaka-Cleaned.txt | block: 8 | label: grammar | g:0.677 m:0.5 ---
+
+cittaṃ me cittajanmā vidalayati śaraiḥ svāśrayaṃ nāśayet kaḥ sthūlatvāc cetaso asau kim iva na kurute nirvicārapravṛttaḥ ।
+āhuś ceto aṇumānaṃ katham iha bhavati sthūlatā tatsvarūpāsiddho ayaṃ hetur evaṃ daśarathasutayoḥ pātu saṃbhāṣitaṃ vaḥ ।।

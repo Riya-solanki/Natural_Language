@@ -1,0 +1,8 @@
+--- source: brsvbh2u-Cleaned.txt | block: 313 | label: meter | g:0.395 m:0.559 ---
+
+vyapadeśācca kriyāyāṃ cennirdeśaviparyayaḥ ।
+abhyuccayamātrametanna samyagupapattiḥ ।
+vijñānaṃ kartṛ yajñaṃ tanute ।
+sarvatra hi buddhiḥ karaṇarūpā karaṇatvenaiva vyapadiśyate na kartṛtvena, iha tu kartṛtvena, tasyā vyapadeśe viparyayaḥ syāt ।
+tasmādātmaiva vijñānamiti vyapadiṣṭaḥ ।
+tena karteti ।।

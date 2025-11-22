@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1131 | label: meter | g:0.328 m:0.595 ---
+
+saṃvartako antakaścaiva saṃvartakabalāhakaḥ ।
+ghaṇṭo ghaṇṭī māhaghaṇṭī cirī mālī ca mātaliḥ ।।

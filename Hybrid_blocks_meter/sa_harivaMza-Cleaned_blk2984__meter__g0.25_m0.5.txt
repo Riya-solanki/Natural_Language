@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2984 | label: meter | g:0.25 m:0.5 ---
+
+ayādavo yadi bhavāñ śṛṇu tāvad yad ucyate 
+na hi tvāṃ yādavā vīra balāt kurvanti yādavam ।।

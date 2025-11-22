@@ -1,0 +1,8 @@
+--- source: visa01cu-Cleaned.txt | block: 235 | label: meter | g:0.25 m:0.802 ---
+
+śrutītiśrutiduṣṭādayaḥ apuṣṭatvādayor'thadoṣāḥ ।
+ete ca śabdārthadvāreṇa rasamapakaṣaryanta ityanvayaḥ ।
+vyabhicāribhāvādeḥ svaśabādavācyatvādayaḥ sākṣādityarthaḥ ।
+utkarṣahetava itikāvyātmabhūtasya rasasya utkarṣahetava ityarthaḥ ।
+taddhetutā ca śabdārthadvāreṇa iti vyākhyāsyate ।
+śabdārthāvutkuṣya rasamutkarṣayantītyarthaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1094 | label: meter | g:0.194 m:0.5 ---
+
+yasyedaṃ vartate cihnaṃ raudrāveśaṃ tad ucyate 
+śāmbhavena tu vedhena sarvāṇy etāni suvrate ।।

@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 318 | label: meter | g:0.217 m:0.845 ---
+
+niṣadho hemakūṭaśca himavāṃścācalottamāḥ 
+merordakṣiṇato nīlaḥ śvetaḥ śṛṅgīti vāmataḥ ।।

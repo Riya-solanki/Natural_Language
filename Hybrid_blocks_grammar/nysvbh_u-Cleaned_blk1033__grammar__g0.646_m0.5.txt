@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1033 | label: grammar | g:0.646 m:0.5 ---
+
+puruṣoyaṃ samīhamāno nāvaśyaṃ samīhāphalaṃ prāpnoti tenānumīyate parādhīnāṃ puruṣasya karmaphalārādhanamiti yadadhīnaṃ sa īśvaraḥ tasmādīśvaraḥ kāraṇamiti ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 422 | label: meter | g:0.25 m:0.5 ---
+
+tvaṃ hi tasya vadhāyaikaḥ samarthaḥ pṛthivīpate 
+viṣṇunā ca varo datto mahyaṃ pūrvaṃ tato anadha 
+yas taṃ mahāsuraṃraudraṃ haniṣyati mahābalam । 
+sa ca vikhyātakīrtis tu cakravartī nasaṃśayaḥ । 
+tejasā svena te viṣṇus teja āpyāyayiṣyati ।।

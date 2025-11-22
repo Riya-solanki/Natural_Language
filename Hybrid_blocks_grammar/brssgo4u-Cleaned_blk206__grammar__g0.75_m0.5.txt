@@ -1,0 +1,3 @@
+--- source: brssgo4u-Cleaned.txt | block: 206 | label: grammar | g:0.75 m:0.5 ---
+
+nanu agatāḥ kalāḥ pañcadaśa pratiṣṭhāḥ' iti vidvat viṣaya eva aparā śrutiḥ parasmāt ātmanaḥ anyatra api kalānāṃ pralayam āha sma ।

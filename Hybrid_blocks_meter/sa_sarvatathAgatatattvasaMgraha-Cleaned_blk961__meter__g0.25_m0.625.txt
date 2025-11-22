@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 961 | label: meter | g:0.25 m:0.625 ---
+
+yastu kaścitparitrārthe bandhetkrodhasamanvitaḥ ।
+rakṣāyai[ya]sya satvasya sthātavyaṃ tasya pṛṣṭhataḥ ।।

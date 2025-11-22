@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8472 | label: meter | g:0.338 m:0.847 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrībhagavānuvāca ।
+evaṃ vilapatastasya pretasyaivaṃ khageśvara ।
+krandamānasya nitarāṃ pīḍitasya ca kiṅkaraiḥ ।।

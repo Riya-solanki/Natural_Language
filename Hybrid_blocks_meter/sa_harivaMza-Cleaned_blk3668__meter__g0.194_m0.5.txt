@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3668 | label: meter | g:0.194 m:0.5 ---
+
+sā yadā samatikrāntā nadī vṛndāvanaṃ vanam 
+tataḥ strīvigrahā bhūtvā yamunā rāmam abravīt ।।

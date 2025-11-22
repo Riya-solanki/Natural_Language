@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5395 | label: meter | g:0.194 m:0.625 ---
+
+ekaikaśyena tāḥ kanyā menire madhusūdanaḥ 
+mamaiva pāṇigrahaṇaṃ bhagavān kṛtavān iti ।।

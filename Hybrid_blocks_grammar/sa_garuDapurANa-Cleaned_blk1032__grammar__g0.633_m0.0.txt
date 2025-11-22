@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1032 | label: grammar | g:0.633 m:0.0 ---
+
+oṃ hāṃ śivaparivārebhyo namaḥ । oṃ hāṃ indrāya surādhipataye namaḥ । oṃ hāṃ agnaye tejo adhipataye namaḥ । oṃ hāṃ yamāya pretādhipataye namaḥ । oṃ hāṃ nirṛtaye rakṣo adhipataye namaḥ । oṃ hāṃ varuṇāya jalādhipataye namaḥ । oṃ hāṃ vāyave prāṇādhipataye namaḥ । oṃ hāṃ somāya netrādhipataye namaḥ । 
+oṃ hāṃ īśānāya sarvavidyādhipataye namaḥ ।
+oṃ hāṃ anantāya nāgādhipataye namaḥ ।
+oṃ hāṃ brahmaṇe sarvalokādhipataye namaḥ ।
+oṃ hāṃ dhūlicaṇḍeśvarāya namaḥ ।।

@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 136 | label: hybrid | g:0.25 m:0.455 ---
+
+kiñcāśakyameva śrutyā prapañcasyāsatyatvaṃ boddhum ।
+budhyamāne hi śrutirapi prapañcāntargatatvādasatī boddhavyā syāt ।
+kathaṃ ca śrutyaiva śruterasatvaṃ budhyeta ।
+asatvena hi pratīyamānā na pramāṇaṃ syāt ।
+pramāṇatve tvavasthite sattayā pratīyamānāyāḥ śruterna mithyātvaṃ śakyaṃ vaktum ।
+nahyekasyaiva vastuno yugapadeva sattvamasatvaṃ ca samuccitya boddhuṃ śakyam, anyataropamardena hyanyataradbuddhāvārohati ।
+tataśca śrutirastīticet, na prapañcāpalāpaḥ saṃbhavati ।।

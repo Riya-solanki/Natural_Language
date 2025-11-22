@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3533 | label: grammar | g:0.75 m:0.5 ---
+
+bhagavann ebhiḥ sagaratanayair asamañjasaś caritam anugamyate । katham evam ebhir anusaradbhir jagad bhaviṣyatīty ārtajagatparitrāṇāya ca bhagavato atra śarīragrahaṇam ity ākarṇya bhagavān alpair eva dinair ete vinaṅkṣyantīty uktavān ।।

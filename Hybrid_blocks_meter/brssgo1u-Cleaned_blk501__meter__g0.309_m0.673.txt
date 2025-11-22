@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 501 | label: meter | g:0.309 m:0.673 ---
+
+FN avimukte avidyopādhikalpitāvacchede jīvātmi bhedakalpanayā pratiṣṭhita upāsyaḥ ।
+varaṇā bhrūḥ ।
+vimīyate jñāyate ।
+abhivimīmīte nirmimīte ।

@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 647 | label: hybrid | g:0.542 m:0.413 ---
+
+yarhītir bhavataḥ kṛṣṇa tarhītir na tu durlabhā ।
+akṣṇo rītistu lokānāṃ rītir eva tadā matā ।।
+[] prāptāyāṃ saratnāyāṃ satyabhāmāyāṃ ratnaṃ punaḥ svasminn arpite nāragītena satrā satrājitey eva pratyarpayiṣyasi ।

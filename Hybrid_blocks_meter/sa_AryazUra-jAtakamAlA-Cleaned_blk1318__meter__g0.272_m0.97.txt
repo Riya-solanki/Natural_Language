@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1318 | label: meter | g:0.272 m:0.97 ---
+
+visṛjanmānuṣīṃ vācaṃ vispaṣṭamadhurākṣarām ।
+svajīvitaparityāgādyācñāmapyūrjitakramām ।।

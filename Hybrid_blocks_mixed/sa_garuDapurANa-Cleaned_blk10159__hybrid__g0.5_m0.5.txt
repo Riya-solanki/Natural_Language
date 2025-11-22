@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10159 | label: hybrid | g:0.5 m:0.5 ---
+
+vākyarūpā bhāratī tu dvitīyāṅgaṃ hi sā smṛtā ।
+tṛtīyāṅga hareḥ śeṣo na namyāḥ sāmyato hareḥ ।।

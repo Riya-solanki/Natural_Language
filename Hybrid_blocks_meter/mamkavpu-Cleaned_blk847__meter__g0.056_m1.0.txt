@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 847 | label: meter | g:0.056 m:1.0 ---
+
+{yatrānullikhitārthameva nikhilaṃ nirmāṇametadvidher-
+utkarṣapratiyogikalpanamapi nyakkārakoṭiḥ parā ।
+yātāḥ prāṇabhṛtāṃ manorathagatīrullaṅghya yatsaṃpadas
+tasyābhāsamaṇīkṛtāśmasumaṇeraśmatvamevocitam ।।}

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6018 | label: meter | g:0.25 m:0.625 ---
+
+piṣṭānyeṣāṃ pralepo vai jvālāgardabharāganat ।
+pāṭhāmūlaṃ rudra pītaṃ piṣṭaṃ taṇḍulavāriṇā ।।

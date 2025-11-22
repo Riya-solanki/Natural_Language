@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 720 | label: grammar | g:0.75 m:0.5 ---
+
+[] devas tu nirghoṣa-nibha-ghargharita-svareṇābhra-bhramaṃ prathayann, arthena tu tam anyathayan vacaḥ pracārayām āsa, pūrvitākharvavat-parvan! parvataḥ so' yam aham asmi iti ।

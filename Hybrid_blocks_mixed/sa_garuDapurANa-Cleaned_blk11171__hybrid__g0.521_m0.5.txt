@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11171 | label: hybrid | g:0.521 m:0.5 ---
+
+sukaśmalaṃ navarandhraiḥ stravantaṃ durgandhayuktaṃ sarvadā kutsitaṃ ca ।
+etāḥ dṛśe bhartṛjīve nu tāta prayojanaṃ nāsti kṛṣṇaṃ vihāya ।।

@@ -1,0 +1,8 @@
+--- source: gp12-22u-Cleaned.txt | block: 609 | label: meter | g:0.149 m:0.566 ---
+
+āvṛtim ajahād indur vilasati haṃsaś ca nīla-kañjaṃ ca ।
+vṛndāvanam anu hā dhig daivaṃ tat tan na dṛśyate tasyāḥ ।। iti।। [gīti]
+rādhā-kṛṣṇāv ittham anyo' nyam āptaṃ
+daivāt patraṃ śaśvad āśliṣya sāśru ।
+antaḥ-śūnya-svarṇa-bimbāntar uptaṃ
+madhye hāraṃ nāyakaṃ nirmimāte ।। [śālinī]

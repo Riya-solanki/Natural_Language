@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 294 | label: grammar | g:0.625 m:0.5 ---
+
+[] tataś ca vṛndāvana-sevikābhir vṛndā-pradhāna-kānana-devikābhiḥ parama-prayatna-pālya-mālya-divya-gandha-sandha-candra-candana-madhura-madhu-madānukūla-tāmbūlādyaṃ dadānābhir, muhūrtārdhaṃ vardhamāna-parihāsa-vilāsaṃ preyasī-sahitaḥ preyān mahita-mahattayā śuśubhe ।

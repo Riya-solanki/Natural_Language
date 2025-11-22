@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1182 | label: meter | g:0.25 m:0.555 ---
+
+sarvaṃ saṃpadyate tasya stavanasyānukīrtanāt ।
+manasā karmaṇā vācā kṛtameno vinaśyati ।
+varaṃ varaya bhadraṃ te yattvayā manasepsitam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11930 | label: meter | g:0.25 m:0.5 ---
+
+svarūpādadhamā jñeyā nātra kāryā vicāraṇā ।
+jñānasvarūpadaṃ viṣṇuṃ yamo jānāti sarvadā ।।

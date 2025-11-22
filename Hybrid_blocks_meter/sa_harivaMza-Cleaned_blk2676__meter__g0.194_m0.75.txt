@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2676 | label: meter | g:0.194 m:0.75 ---
+
+hambhāravaiś ca vatsānāṃ gopānāṃ harṣavardhanaḥ 
+dadhihrado ghṛtāvartaḥ payaḥkulyāsamākulaḥ ।।

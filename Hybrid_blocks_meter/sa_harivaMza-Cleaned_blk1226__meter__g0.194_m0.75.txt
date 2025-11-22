@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1226 | label: meter | g:0.194 m:0.75 ---
+
+praviveśa tato rāmo mithilām arimardanaḥ 
+sarvakāmair upacitair maithilenābhipūjitaḥ ।।

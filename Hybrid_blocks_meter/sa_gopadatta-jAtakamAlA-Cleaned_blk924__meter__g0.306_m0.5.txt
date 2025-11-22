@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 924 | label: meter | g:0.306 m:0.5 ---
+
+parigraheṣv eva vighātabuddhiḥ saṃtoṣa eva svadhanānurāgaḥ ।
+yeṣāṃ gṛhe cārakavāsasaṃjñā teṣāṃ na citro vanasaṃnivāsaḥ ।।

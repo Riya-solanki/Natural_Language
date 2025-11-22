@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 1510 | label: meter | g:0.29 m:0.701 ---
+
+atha pratyutpanna-matiḥ-
+tāt-kālikī ca pratibhā pratyutpanna-matir smṛtā ।।

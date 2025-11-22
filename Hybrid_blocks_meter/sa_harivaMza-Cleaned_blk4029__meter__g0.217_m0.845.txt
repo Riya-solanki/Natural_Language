@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4029 | label: meter | g:0.217 m:0.845 ---
+
+tadvadhārthaṃ mahābāhuḥ śaṅkhacakragadāsibhṛt 
+jāto vṛṣṇiṣu devakyāṃ vasudevāj janārdanaḥ ।।

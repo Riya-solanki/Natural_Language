@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 344 | label: grammar | g:0.646 m:0.5 ---
+
+-akārye mānāntarāyogyatvasyāsiddhatvāttatparatve api vedāntānāṃ pauruṣeyatvaṃ saṃbhavatīti samā sādhanavyāptiḥ, tataśca vākyatvādiliṅgakānumānena pauruṣeyatvaṃ durapahnavamityāha-atra brūma iti ।

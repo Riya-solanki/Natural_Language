@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 667 | label: meter | g:0.056 m:0.5 ---
+
+mahatāṃ padavīm āptuṃ vāñchā yadyapi dhṛṣṭatā
+tathāpy anugatis teṣāṃ bhāti ced asti dṛṣṭatā ।। [anuṣṭubh]

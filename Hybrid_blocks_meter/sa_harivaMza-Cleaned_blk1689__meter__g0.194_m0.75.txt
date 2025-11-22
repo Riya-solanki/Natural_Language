@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1689 | label: meter | g:0.194 m:0.75 ---
+
+tadyuddham abhavad ghoraṃ devadānavasaṃkulam 
+kṣamāparākramamayaṃ darpasya vinayasya ca ।।

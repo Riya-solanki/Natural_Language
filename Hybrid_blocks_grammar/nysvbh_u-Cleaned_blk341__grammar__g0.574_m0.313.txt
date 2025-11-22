@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 341 | label: grammar | g:0.574 m:0.313 ---
+
+aṇuḥ śabdo mahāniti ca vyavasāyāt pradhānasiddhiriticet ? na mandatīvratāgrahaṇamiyattānavadhāraṇād yathā dravye ।
+aaṇuḥ śabdo alpo mandaḥ' ityetasya grahaṇam amahān śabdaḥ paṭustīvraḥ' ityetasya grahaṇam, kasmāt ? iyattānavadhāraṇātuna hyayam amahān śabdaḥ' itivyavasyan aiyānayam' ityavadhārayati yathā badarāmalakabilvādīni।
+asaṃyukte ime' iti ca dvitvasamānāśrayaprāptigrahaṇam ।।

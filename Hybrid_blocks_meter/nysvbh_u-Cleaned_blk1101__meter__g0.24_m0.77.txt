@@ -1,0 +1,11 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1101 | label: meter | g:0.24 m:0.77 ---
+
+prāṅniṣpatterniṣpattidharmakaṃ
+nāsat upādānaniyamāt ।
+kasyacidutpattaye kiñcidupādeyaṃ na sarvaṃ
+sarvasyety asadbhāve niyamo nopapadyate
+iti।
+na sat prāgutpattervidyamānasyotpattiranupapanneti।
+na sadasat sadasatorvaidharmyāt asat' ityarthābhyanujñā aasat' ityarthapratiṣedhaḥ
+etayorvyāghāto vaidharmyaṃ vyāghātādavyatirekānupapattiriti
+।।

@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 100 | label: meter | g:0.25 m:0.5 ---
+
+iha sapta padārthāḥ syur jīvājīvāsravās trayaḥ ।
+saṃvaro nirjaraś caiva bandhamokṣāv ubhāv api ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5377 | label: meter | g:0.306 m:0.625 ---
+
+śuṇṭhīpippalicūrṇaṃ tu guḍūcī kaṇṭakārikā ।
+ebhiśca kvathitaṃ vāri pītaṃ cāgniṃ karoti vai ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 174 | label: hybrid | g:0.455 m:0.5 ---
+
+yatha rāgadharmacaritaḥ puruṣaḥ striyāye saṃketa kṛtva alabhantu vivartayeyā 
+yāvanti cittacaritā divasena tasya tāvanta kalpa anubudhyati bodhisattvo ।।

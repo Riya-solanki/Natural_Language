@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2015 | label: meter | g:0.306 m:0.5 ---
+
+prathamaṃ guṇasampadābhyupetaṃ pratibaddhaṃ samupaiti yacca doṣam ।
+alamābharaṇena tasya rājño guṇahīno api maṇirna bhūṣaṇāya ।।

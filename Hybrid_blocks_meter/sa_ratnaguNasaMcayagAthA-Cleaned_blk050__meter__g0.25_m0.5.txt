@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 50 | label: meter | g:0.25 m:0.5 ---
+
+parinirvṛtasya sugatasya kareyya stūpāṃ pūjeya saptaratanāmayu kaścideva 
+tehi prapūrṇa siya kṣetrasahasrakoṭyo yatha gaṅgavālikasamaiḥ sugatasya stūpaiḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 740 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatra gopāḥ śrī-gopālādi-gopāla-satkṛti-camatkṛtim adhigamya, vidhim anugamya, citrakāṅga-nibha-citrātiramya-vastrāvṛtāṅgatayā tarṇakam ākramya, kautukato gāḥ sambhramya, taj-jāta-hāsa-kolāhalād viramya, grāsa-viśrāṇanena tā viśramya, parikramya, praṇamya, cācaryaṃ vāryam ācarya, vitāna-vitānenāgniṃ paricarya, pradakṣiṇāvartatayā vartamānaṃ ca taṃ pradakṣiṇaṃ viracayya, bhūṣaṇa-nivaha-mahitānāṃ purohitādīnāṃ pūjanam api pūrayāmāsuḥ ।

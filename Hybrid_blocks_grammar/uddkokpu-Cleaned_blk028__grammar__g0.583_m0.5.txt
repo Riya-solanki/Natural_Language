@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 28 | label: grammar | g:0.583 m:0.5 ---
+
+kāmaḥ svāmī kila śalabhatāmāpa netrasphuliṅge mā mā bhaiṣīriti bhavabhido darśanāccandramauleḥ ।
+śyāmā varṇe vacasi madhurā cañcalā dṛgvilāse vāmotsaṅge lasati karuṇā kāpi kāmaṃ duhānā ।।

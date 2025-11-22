@@ -1,0 +1,3 @@
+--- source: mrgt1chu-Cleaned.txt | block: 103 | label: hybrid | g:0.5 m:0.5 ---
+
+tad eva sat tadevāsad iti kena pramīyate ।।

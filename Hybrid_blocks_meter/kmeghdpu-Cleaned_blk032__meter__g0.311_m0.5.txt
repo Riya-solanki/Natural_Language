@@ -1,0 +1,6 @@
+--- source: kmeghdpu-Cleaned.txt | block: 32 | label: meter | g:0.311 m:0.5 ---
+
+jālodgīrṇair upacitavapuḥ keśasaṃskāradhūpair bandhuprītyā bhavanaśikhibhir dattanṛttopahāraḥ ।
+harmyeṣv asyāḥ kusumasurabhiṣv adhvakhinnāntarātmā nītvā rātriṃ lalitavanitāpādarāgāṅkiteṣu ।।
+bhartuḥ kaṇṭhacchavir iti gaṇaiḥ sādaraṃ vīkṣyamāṇaḥ puṇyaṃ yāyās tribhuvanaguror dhāma caṇḍeśvarasya ।
+dhūtodyānaṃ kuvalayarajogandhibhir gandhavatyās toyakrīḍāniratayuvatisnānatiktair marudbhiḥ ।।

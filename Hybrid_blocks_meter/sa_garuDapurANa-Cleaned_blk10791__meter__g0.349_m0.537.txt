@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10791 | label: meter | g:0.349 m:0.537 ---
+
+ādau sasarja garuḍa puruṣātmā sa eva ca । tato dakṣiṇahastāttu brahmāṇīṃ bhārantī tathā ।। 
+asṛjatte mahābhāge avyaktasya niyāmike ।
+vāmahastātsatyaputro mahattatvātmako analaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2058 | label: meter | g:0.25 m:0.5 ---
+
+na vāṅmātreṇa duṣyanti sādhavaḥ satpathe sthitāḥ 
+jāgarti ca yathā daivaṃ sadā satsv itareṣu ca ।।

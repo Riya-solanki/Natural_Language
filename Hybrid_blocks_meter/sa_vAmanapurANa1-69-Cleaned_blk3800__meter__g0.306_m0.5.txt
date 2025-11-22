@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3800 | label: meter | g:0.306 m:0.5 ---
+
+tatra devaṃ maheśānaṃ jaṭādharamiti śrutam ।
+taṃ dṛṣṭvār'cya hariṃ cāsau tīrthaṃ kanakhalaṃ yayau ।।

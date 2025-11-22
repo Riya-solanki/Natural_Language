@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 511 | label: meter | g:0.25 m:0.583 ---
+
+teṣāṃ nārāyaṇaṃ tejaḥ praviṣṭānāṃ mahātmanām 
+ekaḥ pañcajano nāma putro rājā babhūva ha ।। 
+asamañja iti prāhus tasya putro'ṃśumān abhūt । 
+sutaḥ pañcajanasyāsīd aṃśumān nāma vīryavān 
+dilīpas tasya tanayaḥ khaṭvāṅga iti viśrutaḥ ।।

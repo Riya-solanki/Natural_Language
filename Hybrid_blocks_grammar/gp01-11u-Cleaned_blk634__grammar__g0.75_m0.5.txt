@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 634 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad anu ca sarva eva śāntatāmāyāntas tad-antaṃ samantataḥ śakaṭa-nikaṭa-saṃvalakān bālakān eva papracchuḥ । te ca tad-eka-nirdeśinyā darśayantas tam eva nirdidiśuḥ । tatraiko lohalo' py agra-vādī nivārita-kolāhalaḥ pralalāpa, "ma ma mama pā pā pā pārśvataḥ śrūyatām, ya ya ya yadā ca ca caraṇa mu mutthāpitavān ayam, ta ta ta tadā te tena spṛṣṭa-mātro ḍi ḍi ḍi ḍi ḍīna ivodvṛttaḥ so' yaṃ śa śa śa śakaṭaḥ" iti ।

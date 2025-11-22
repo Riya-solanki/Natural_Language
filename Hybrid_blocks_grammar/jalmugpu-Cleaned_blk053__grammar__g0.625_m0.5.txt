@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 53 | label: grammar | g:0.625 m:0.5 ---
+
+ājīvaḥ kapaṭānurāgakalayā doṣo na duḥśīlatā vaidhavyaṃ na ca bādhate sadasatoḥ saṃbḥāvanā vyatyayāt ।
+yatkimcitkaraṇe parasvaharaṇe vrīḍā na pīḍākarī no vā rājabhayaṃ ca hī bata sukhaṃ jīvanti vārastriyas ।।

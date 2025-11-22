@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 647 | label: meter | g:0.139 m:0.969 ---
+
+akārya-karaṇād, yathā-
+gurv-ādeśād eva nirmīyamāṇo
+nādharmāya strī-vadho' pi sthito' yam ।
+adya sthitvā śvo gamiṣyadbhir alpair
+lajjāsmābhir mīlitākṣair jitaiva ।।

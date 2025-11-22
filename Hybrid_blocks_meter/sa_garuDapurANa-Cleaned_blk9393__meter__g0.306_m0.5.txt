@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9393 | label: meter | g:0.306 m:0.5 ---
+
+prati māsaṃ pradātavyaṃ mṛtāhe yā tithirbhavet ।
+sa māsaḥ prathamo jñeya iti vedavido viduḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 746 | label: meter | g:0.306 m:0.5 ---
+
+kāmaṃ prasahyāpi dhanāni hartuṃ śaktirbhavedeva bhavadvidhānām ।
+na tveṣa yogaḥ svayaśo hi rakṣyaṃ śūnyeṣu tasmādvyavaseyameva ।।

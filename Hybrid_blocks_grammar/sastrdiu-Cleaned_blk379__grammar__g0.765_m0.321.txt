@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 379 | label: grammar | g:0.765 m:0.321 ---
+
+nanu na kaścidapi nādaḥ svato asya sphuṭābhivyaktiṃ karoti kintu sarve te pratyekaṃ vyañjakāḥ ।
+sa tu na drāgeva sphuṭamavabhāsate prathamamasphuṭāvabhāsitaḥ san punaḥ punaḥ śrūyamāṇaḥ sphuṭaḥ bhavati, tadyathā dūrādavasthitaḥ sahakāraḥ prathamaṃ hastipalālakūṭādisādhāraṇarūpeṇa pratibhātaḥ punarālocyamāno vṛkṣātmanā prakāśate punaḥsahakārātmanā sphaṭo bhavati tadvadeva draṣṭavyam ।।

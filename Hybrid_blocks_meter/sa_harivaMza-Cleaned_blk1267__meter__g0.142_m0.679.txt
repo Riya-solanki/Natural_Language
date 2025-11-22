@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1267 | label: meter | g:0.142 m:0.679 ---
+
+sarvabhūtaguṇasraṣṭā sarvabhūtaguṇātmakaḥ 
+nṛṇām indriyapūrveṇa yogena ramate ca yaḥ 
+gatāgatābhyāṃ yo netā tatreha ca vidhīśvaraḥ ।।

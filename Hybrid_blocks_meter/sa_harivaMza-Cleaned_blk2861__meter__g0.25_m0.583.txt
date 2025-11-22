@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2861 | label: meter | g:0.25 m:0.583 ---
+
+namo dāmodarāyeti gopakanyās tadābruvan 
+vicitraṃ caritaṃ ghoṣe dṛṣṭvā tat tasya bhāsvataḥ ।। 
+namas te kṛṣṇa gopeti prasīda prabhaveti ca । 
+tās taṃ payodharottānair urobhiḥ samapīḍayan 
+bhrāmitākṣaiś ca vadanair nirīkṣante varāṅganāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1042 | label: meter | g:0.194 m:0.5 ---
+
+tān dṛṣṭvā nārado vipra saṃvivarddhayiṣūn prajāḥ 
+saṃgamya priyasaṃvādo devarṣir idam abravīt ।।

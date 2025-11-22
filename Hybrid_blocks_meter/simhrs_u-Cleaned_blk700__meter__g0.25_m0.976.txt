@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 700 | label: meter | g:0.25 m:0.976 ---
+
+atha amarṣaḥ-
+adhikṣepāvamānādyaiḥ krodho' marṣa itīryate ।
+tatra sveda-śiraḥ-kampāv ādhomukhya-vicintane । 
+upāyānveṣaṇotsāha-vyavasādayaḥ kriyāḥ ।।

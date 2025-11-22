@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 721 | label: meter | g:0.194 m:0.5 ---
+
+kauśikasya sutās tāta śiṣyā gārgyasya bhārata 
+pitary uparate sarve vratavantas tadābhavan ।।

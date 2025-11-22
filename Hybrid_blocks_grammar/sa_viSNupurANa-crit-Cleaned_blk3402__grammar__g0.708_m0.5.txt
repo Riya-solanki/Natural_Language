@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3402 | label: grammar | g:0.708 m:0.5 ---
+
+ikṣvākukulācāryas tatprokṣaṇāya vasiṣṭhaś coditaḥ prāha । alam anenāmedhyenāmiṣeṇa durātmanānena te putreṇaitan māṃsam upahataṃ yato anena śaśo bhakṣitaḥ ।।

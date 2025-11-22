@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 107 | label: meter | g:0.25 m:0.625 ---
+
+dharmo yajñastapaḥ satyaṭamahiṃsā śaucamārjavam ।
+kṣamā dānaṃ dayā lakṣamīrbrahmacaryaṃ tvamīśvara ।।

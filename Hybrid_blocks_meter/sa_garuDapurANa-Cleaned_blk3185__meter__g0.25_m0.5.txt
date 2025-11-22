@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3185 | label: meter | g:0.25 m:0.5 ---
+
+arthādbhraṣṭastīrthayātrāṃ tu gacchetsatyādbhraṣṭo rauravaṃ vai vrajecca ।
+yogādbhraṣṭaḥ satyaghṛtiñca gacchedrājyādbhraṣṭo mṛgayāyāṃ vrajecca ।।

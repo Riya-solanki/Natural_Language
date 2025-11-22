@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 626 | label: meter | g:0.306 m:0.5 ---
+
+babhūva tasya graharājakīrtes tathāgraho na svaparigraheṣu ।
+yathā tadīyāsu mamatvam āsīj janasya saṃpatsv atiśāyinīṣu ।।

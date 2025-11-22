@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1729 | label: meter | g:0.25 m:0.625 ---
+
+saṃpūjyamāno lokaistu guruvaddṛśyate śaśī ।
+candrasya dvādaśāvasthā bhavanti śṛṇu tā api ।।

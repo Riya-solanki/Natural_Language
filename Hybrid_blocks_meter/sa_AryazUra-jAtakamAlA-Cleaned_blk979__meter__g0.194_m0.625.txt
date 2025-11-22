@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 979 | label: meter | g:0.194 m:0.625 ---
+
+anīśaḥ sve citte vicarati yayā saṃhṛtamatir
+dviṣāṃ hāsāyāmaṃ samupajanayangauriva jaḍaḥ ।
+sadomadhye nṛtyetsvamukhapaṭahenāpi ca yayā
+krayārhā seyaṃ vaḥ śubhavirahitā kumbhanihitā ।।

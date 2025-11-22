@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10493 | label: meter | g:0.25 m:0.555 ---
+
+manorbhāryā mānavī ca yamaḥ saṃyaminīpatiḥ ।
+diśābhimānī candrastu sūryaścakṣurniyāmakaḥ ।
+parasparasamā hyete muktvā saṃsārameva ca ।।

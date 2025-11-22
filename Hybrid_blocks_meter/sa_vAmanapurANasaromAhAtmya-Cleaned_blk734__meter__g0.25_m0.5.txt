@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 734 | label: meter | g:0.25 m:0.5 ---
+
+tasmin snātastu puruṣo yaśasā ca samanvitaḥ ।
+kumārapuramāpnoti kṛtvā śrāddhaṃ tu mānavaḥ ।।

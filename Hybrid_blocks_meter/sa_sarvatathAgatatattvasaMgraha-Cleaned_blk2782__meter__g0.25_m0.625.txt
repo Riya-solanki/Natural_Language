@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2782 | label: meter | g:0.25 m:0.625 ---
+
+ākāśe vānyadeśe vā ta evākāśanirmalāḥ ।
+sphuranto raśmimaṇḍāni paśyat si[ddhimavāpnuyā]d ।।

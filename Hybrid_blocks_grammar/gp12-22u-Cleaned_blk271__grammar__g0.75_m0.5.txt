@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 271 | label: grammar | g:0.75 m:0.5 ---
+
+[] abhyāgatām atha tāṃ japārtham āsīnāpi, paurṇamāsī tūrṇam upavrajya namaskurvatīṃ pariṣvajya śubhāśiṣā ca saṃyujya svacchamanāḥ papracchuḥ, kathyatāṃ katham asamayam idaṃ tava samāgamanam? iti ।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 346 | label: hybrid | g:0.521 m:0.5 ---
+
+puraḥ pāṇḍuprāyaṃ tadanu kapilimnā kṛtapadaṃ tataḥ pākotsekād aruṇaguṇasaṃsargitavapuḥ ।
+śanaiḥ śoṣārambhe sthapuṭanijaviṣkambhaviṣamaṃ vane vītāmodaṃ badaram arasatvaṃ kalayati ।।

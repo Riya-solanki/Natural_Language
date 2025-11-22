@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 324 | label: grammar | g:0.625 m:0.5 ---
+
+śūnye puryaṣṭakātmake atyantasūkṣmadeha eva vā pramātṛmātre sthitav anyaprameyopasaṃhāre rudro adhiṣṭhātā, bhinnaprameyābhāse sargasthitihetū brahmaviṣṇū ।।

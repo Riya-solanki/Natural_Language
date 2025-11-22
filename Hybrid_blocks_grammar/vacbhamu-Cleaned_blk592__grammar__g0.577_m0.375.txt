@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 592 | label: grammar | g:0.577 m:0.375 ---
+
+iṣṭāniṣṭaguṇasvarūpāvadhāraṇamavibhāgāpannamasya bhogaḥ, bhoktṛsvarūpāvadhāraṇamapavargaḥ,tena hi buddhisatvamevāpavṛjyate,tathāpi yathā jayaḥ parājayo vā yogheṣu vartamānaḥ prādhānyātsvāminyapadiśyate, evaṃ bandhamokṣau buddhisatve vartamānau kathañcitpuruṣe apadiśyete,sa hyavibhāgāpatyā tatphalasya bhokteti ।
+tadetadabhisaṃghāyāha- syādapi

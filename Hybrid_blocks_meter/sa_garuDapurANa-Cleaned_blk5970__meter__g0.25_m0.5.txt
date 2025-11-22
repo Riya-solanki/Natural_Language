@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5970 | label: meter | g:0.25 m:0.5 ---
+
+vāmeva gamanaṃ śreṣṭhaṃ sarvakāryeṣu bhūṣitam ।
+vāyurvahati tatrasthaḥ praśro bhūtasya śobhanaḥ ।।

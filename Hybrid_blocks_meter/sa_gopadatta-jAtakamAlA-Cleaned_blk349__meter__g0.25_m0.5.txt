@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 349 | label: meter | g:0.25 m:0.5 ---
+
+putrakaukarikatvena pitā te mām apūpuṣat ।
+yady ahaṃ sukhitā kāryā kārayaukarikāpaṇam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8155 | label: meter | g:0.25 m:0.625 ---
+
+etatte sarvamākhyātaṃ yathā bhūpatināpi saḥ ।
+uddhṛtaḥ pretabhāvādvai kimanyacchrotumicchasi ।।

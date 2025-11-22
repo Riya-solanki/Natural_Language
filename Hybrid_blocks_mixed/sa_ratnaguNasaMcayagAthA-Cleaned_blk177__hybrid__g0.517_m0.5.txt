@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 177 | label: hybrid | g:0.517 m:0.5 ---
+
+taṃ caiva puṇya puna khyāyati riktameva tatha śūnya tuccha vaśikaṃ ca asārakaṃ ca 
+evaṃ carantu caratī sugatāna prajñāṃ caramāṇu puṇyu parigṛhṇati aprameyam ।।

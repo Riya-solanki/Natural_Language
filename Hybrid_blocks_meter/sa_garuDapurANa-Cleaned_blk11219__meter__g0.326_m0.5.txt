@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11219 | label: meter | g:0.326 m:0.5 ---
+
+dehaṃ tu ye poṣayantyeva tāta hareḥ praṇāmaiḥ śūnyabhūtaṃ ca puṣṭam ।
+tadevamāhurvyarthameveti tāta tatpoṣakāṇāṃ narake duḥ khamāhuḥ ।।

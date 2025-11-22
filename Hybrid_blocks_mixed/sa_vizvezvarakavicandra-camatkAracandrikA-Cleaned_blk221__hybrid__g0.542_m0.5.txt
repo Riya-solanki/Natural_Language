@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 221 | label: hybrid | g:0.542 m:0.5 ---
+
+tatra samaveto lakṣyārtho yathā rājanyake pratibhaṭaṃ pratijanyaraṅge rudraṃ prakāśayati te saravālarekhā ।
+śrīsiṅgabhūpacakite śaraṇāgate asmin padmekṣaṇaṃ vivṛṇute hi kaṭākṣarekhā ।।

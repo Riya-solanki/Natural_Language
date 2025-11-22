@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4425 | label: meter | g:0.194 m:0.625 ---
+
+ahaṃ kadācid gaṅgāyās tīre triṣavaṇātithiḥ 
+carāmy ekaḥ kṣapāpāye saṃdṛśyati divākare ।।

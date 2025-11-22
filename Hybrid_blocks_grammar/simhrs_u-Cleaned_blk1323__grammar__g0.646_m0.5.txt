@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1323 | label: grammar | g:0.646 m:0.5 ---
+
+ity antena rāma-pravāsa-viṣayasya māyamaya-duḥkhasya satyasyaiva vyaktatvād vā māyāmayādeḥ kapaṭatva-jñāne' pi rāmacandreṇa satyatayāṅgīkārād vā mārgaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4019 | label: meter | g:0.251 m:0.623 ---
+
+yāni devamanuṣyeṣu ratnāni vividhāni ca 
+bibharti ca mahī kṛtsnā sāgareṣu ca yad vasu ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5099 | label: meter | g:0.194 m:0.625 ---
+
+bhogārtham abhipatsyante na ca kaścit paṭhiṣyati 
+ekaśaṅkhās tathā nāryo gavedhukapinaddhakāḥ ।।

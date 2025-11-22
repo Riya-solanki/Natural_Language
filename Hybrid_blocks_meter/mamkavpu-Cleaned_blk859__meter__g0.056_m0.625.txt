@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 859 | label: meter | g:0.056 m:0.625 ---
+
+{arthitve prakaṭīkṛte api na phalaprāptiḥ prabhoḥ pratyuta
+druhyan dāśarathirviruddhacarito yuktastayā kanyayā ।
+utkarṣaṃ ca parasya mānayaśasorvisraṃsanaṃ cātmanaḥ
+strīratnaṃ ca jagatpatirdaśamukho devaḥ kathaṃ mṛṣyate ।।}

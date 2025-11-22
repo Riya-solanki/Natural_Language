@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 144 | label: grammar | g:0.646 m:0.5 ---
+
+pūrvānubhasvasaṃvedanasya abhāvāt smṛtisvasaṃvedanam eva atraikārthābhāsamayapramātṛrūpaṃ smṛtisvarūpa iva pramāṇam । smṛteḥ pūrvānubhavābhāsābhāve kāryakāraṇabhāvāsiddher na kāryaliṅgatā ।।

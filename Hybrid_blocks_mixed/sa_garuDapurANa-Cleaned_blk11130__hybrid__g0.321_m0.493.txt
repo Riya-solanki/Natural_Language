@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11130 | label: hybrid | g:0.321 m:0.493 ---
+
+dāsye cāhaṃ satsu putrīṃ dhanaṃ vā dāsye cāhaṃ dhanikeṣveva nityam ।
+adṛṣṭaśūnyān bhagavānvāsudevo dṛṣṭvādṛṣṭvā hasate sarvadaiva ।।

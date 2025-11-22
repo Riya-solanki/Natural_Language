@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 781 | label: meter | g:0.25 m:0.625 ---
+
+snātvā śuddhimavāpnoti yatra prācī sarasvatī ।
+devamārgapraviṣṭā ca devamārgeṇa niḥsṛta ।।

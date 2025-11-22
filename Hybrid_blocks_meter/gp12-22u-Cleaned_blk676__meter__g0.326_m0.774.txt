@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 676 | label: meter | g:0.326 m:0.774 ---
+
+asya tvadīya-kāntasya rādhe jānāti ko' pi na ।
+prayāsābhyantara-sthāyi-tvan-nimitta-prayāsatām ।। [anuṣṭubh]

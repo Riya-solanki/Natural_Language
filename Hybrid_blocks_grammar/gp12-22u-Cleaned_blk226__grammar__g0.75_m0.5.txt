@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 226 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha praguṇa-guṇālaṅkṛtā kiṅkarī-tatir vitasti-daghna-rāṅkavās taraṇena tam ativistīrṇaṃ maṇi-kīrṇam alindam āstīrṇaṃ cakre । āstīrṇasya ca tasya pratīcī-pracita-sulalita-tulikāyāṃ prācī-mukhatayā svayaṃ niviśamānaḥ śubhratārāma-cāmarādi-karābhiḥ kiṅkarībhiḥ sevyamānaḥ śrī-rādhāyā bahir api virājamāna-prāṇaḥ pāṇinā tām ādāya sva-rasa-milita-tadīya-rasa-veṇī-samāplavana-jīvanānāṃ śreṇī-kṛtānām eṇīdṛśāṃ gaṇāgra-deśa-gatatayā vāma-deśe niveśayāmāsa ।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1764 | label: grammar | g:0.625 m:0.5 ---
+
+athavajravilayā svakarmasamayāmabhāṣat oṃ vajravi[laye cchinda sina bhinda va]jriṇī mādayonmādaya piva piva hūṃ phaṭ ।।

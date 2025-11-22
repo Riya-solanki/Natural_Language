@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 489 | label: meter | g:0.194 m:0.5 ---
+
+śrī-kānte' py atha niṣkrānte viveśāveśato balaḥ ।
+tad-ālokaḥ sabhya-lokaḥ ślokayāmāsa tad dvayam ।। [anuṣṭubh]
+yady etayor varṇa-bhedaḥ syān naiva śyāma-gaurayoḥ ।
+tadā na paricīyetām etāvaṅga-guṇādibhiḥ ।। iti । [anuṣṭubh]

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 596 | label: meter | g:0.194 m:0.5 ---
+
+ity ukto ahaṃ bhagavatā devadevena bhāsvatā 
+sanatkumāreṇa punaḥ pṛṣṭavān devam avyayam ।।

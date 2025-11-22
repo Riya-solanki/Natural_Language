@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2746 | label: meter | g:0.194 m:0.625 ---
+
+saptarātre tu nirvṛtte dharaṇyāṃ vigatotsave 
+jagāma saṃvṛto meghair vṛtrahā svargam uttamam ।।

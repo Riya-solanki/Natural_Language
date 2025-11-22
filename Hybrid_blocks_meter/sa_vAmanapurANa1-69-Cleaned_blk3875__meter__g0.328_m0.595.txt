@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3875 | label: meter | g:0.328 m:0.595 ---
+
+grāhagrastaṃ gajendraṃ taṃ taṃ ca grāhaṃ jalāśayāt ।
+ujjahārāprameyātmā tarasā madhusūdanaḥ ।।

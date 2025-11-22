@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 86 | label: meter | g:0.25 m:0.5 ---
+
+nijarītyā janāḥ prāyo aparānākalayanti hi ।
+ṛṣayaḥ pretamālokya bruvanti taṃ tapasvinam ।।

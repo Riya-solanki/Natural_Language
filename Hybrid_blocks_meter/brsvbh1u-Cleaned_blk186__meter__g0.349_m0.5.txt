@@ -1,0 +1,8 @@
+--- source: brsvbh1u-Cleaned.txt | block: 186 | label: meter | g:0.349 m:0.5 ---
+
+dhyayanānantaryam, dharmavadbrahmaṇo apyāmnāyaikapramāṇagamyatvāt ।
+tasya cāgṛhītasya svaviṣaye vijñānājananāt, grahaṇasya ca svādhyāyo adhyetavyaḥ ityadhyayanenaiva niyatatvāt ।
+tasmādvedādhyayanānantaryameva brahmajijñāsāyā apyathaśabdārtha ityata āha-svādhyāyānantaryaṃ tu samānaṃ,dharmabrahmajijñāsayoḥ ।
+atra ca svādhyāyena viṣayeṇa tadviṣayamadhyayanaṃ lakṣayati ।
+tathā ca aathāto dharmajijñāsā'ityanenaiva gatamiti nedaṃ sūtramārabdhavyam ।
+dharmaśabdasya

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 209 | label: meter | g:0.306 m:0.5 ---
+
+kravyāśināṃ paravadhapraṇayapragalbhaiḥ pūgair asau parivṛto vigatāsukalpaḥ ।
+prākhyāpayat sa bhavabhogalavābhilāṣaduḥkhāni tasya ca vaco vigatasravasya ।।

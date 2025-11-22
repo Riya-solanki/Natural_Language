@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 280 | label: grammar | g:0.583 m:0.5 ---
+
+tathaiva bhāge sādṛśyaṃ bhāge bhedo avasīyate bhāgābhāve api vākyānām atyantaṃ bhinnadharmaṇām ।।

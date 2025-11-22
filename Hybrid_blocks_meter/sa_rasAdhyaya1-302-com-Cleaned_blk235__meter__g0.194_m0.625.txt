@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 235 | label: meter | g:0.194 m:0.625 ---
+
+tataśca caṇakakṣāraṃ dattvā copari naimbukam 
+rasaṃ prakṣipya dātavyas tādṛk saindhavakhoṭakaḥ ।।

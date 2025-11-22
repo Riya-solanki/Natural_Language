@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1016 | label: grammar | g:0.583 m:0.5 ---
+
+yatnena ced ubhayam etad avāpnuvanti yatnaḥ phale mahati yuktataro mato me ।
+chidraṃ varāṭakam avāpya sudhāpi kiṃ syāc cintāmaṇer adhigamāya varaṃ śramo api ।।

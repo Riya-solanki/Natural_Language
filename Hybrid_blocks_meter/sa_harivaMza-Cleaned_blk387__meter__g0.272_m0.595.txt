@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 387 | label: meter | g:0.272 m:0.595 ---
+
+nivṛttā sā tu tac chrutvā gacchantī pitur antikām 
+budhenāntaram āsādya maithunāyopavartitā ।।

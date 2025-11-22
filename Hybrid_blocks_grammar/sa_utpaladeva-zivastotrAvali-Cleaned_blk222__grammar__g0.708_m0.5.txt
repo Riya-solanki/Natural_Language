@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 222 | label: grammar | g:0.708 m:0.5 ---
+
+yena naiva bhavato asti vibhinnaṃ kiñcanāpi jagatāṃ prabhavaś ca tvadvijṛmbhitam ato adbhutakarmasv apy udeti na tava stutibandhaḥ ।।

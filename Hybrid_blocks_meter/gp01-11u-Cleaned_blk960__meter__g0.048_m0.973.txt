@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 960 | label: meter | g:0.048 m:0.973 ---
+
+[] tatra sthitir, yathā
+maṇi-khacita-suvarṇa-citra-varṇe
+śuci-mṛdu-tulikayānukūla-madhye ।
+gṛha-nibha-śakaṭe virejatus te
+suta-ruci-rociṣi rohiṇī-yaśode ।। [puṣpitāgrā]

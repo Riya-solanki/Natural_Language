@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 6 | label: grammar | g:0.615 m:0.5 ---
+
+śvaityaṃ kalpaya kajjale kapikuleṣv āropayācāpalaṃ kodaṇḍe janayārjavaṃ viracaya grāvṇāṃ gaṇe mārdavam ।
+nimbe sādhaya mādhurīṃ surabhitām ādau rasone kuru premāṇaṃ gaṇikājane api caturaḥ paścāt sakhe drakṣyasi ।।

@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 354 | label: meter | g:0.246 m:0.806 ---
+
+svapnasyānte vibuddhena netraviproṣitāñjanam
+cāritram api rakṣantyā dṛṣṭaṃ dīrghālakaṃ mukham ।।

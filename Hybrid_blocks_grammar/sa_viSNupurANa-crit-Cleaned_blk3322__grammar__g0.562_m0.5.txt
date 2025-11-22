@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3322 | label: grammar | g:0.562 m:0.5 ---
+
+brahmaṇaś ca dakṣiṇāṅguṣṭhajanmā dakṣaḥ prajāpatir dakṣasyāditir aditer vivasvān vivasvato manuḥ ।।

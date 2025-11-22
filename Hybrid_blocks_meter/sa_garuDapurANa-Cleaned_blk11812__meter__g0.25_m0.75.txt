@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11812 | label: meter | g:0.25 m:0.75 ---
+
+prāṇastvahaṅkāra eva ahaṅkārakasaṃjñakaḥ ।
+garutmadaṃśo vijñeyaḥ kāmendrābhyāṃ daśādhamaḥ ।।

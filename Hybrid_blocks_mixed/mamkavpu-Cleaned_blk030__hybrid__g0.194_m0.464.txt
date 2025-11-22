@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 30 | label: hybrid | g:0.194 m:0.464 ---
+
+citramiti guṇālaṅkārayuktam । avyaṅgyamiti sphuṭapratīyamānārtharahitam ।
+avaram adhamam । yathā

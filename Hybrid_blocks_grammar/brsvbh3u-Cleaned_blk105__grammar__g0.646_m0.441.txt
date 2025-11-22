@@ -1,0 +1,4 @@
+--- source: brsvbh3u-Cleaned.txt | block: 105 | label: grammar | g:0.646 m:0.441 ---
+
+brahmādvaitasiddhāvapi na sarvagatatvaṃ sarvavyāpitā sarvasya brahmaṇā svarūpeṇa rūpavattvaṃ sidhyatītyata āha-anena setvādinirākaraṇenaparahetunirākaraṇenānyapratiṣedhasamāśrayaṇena ca svasādhanopanyāsena ca sarvagatatvamapyātmanaḥ siddhaṃ bhavati ।
+advaite siddhe sarvo ayamanirvacanīyaḥ prapañcāvabhāso brahmādhiṣṭhāna iti sarvasya brahmasaṃbandhādbrahma sarvagatamiti siddham ।।

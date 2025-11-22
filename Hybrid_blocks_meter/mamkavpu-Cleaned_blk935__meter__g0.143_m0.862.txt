@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 935 | label: meter | g:0.143 m:0.862 ---
+
+{ṣaḍadhikadaśanāḍīcakramadhyasthitātmā
+hṛdi vinihitarūpaḥ siddhidastaddhitāṃ yaḥ ।
+avicalitamanobhiḥ sādhakairmṛgyamāṇaḥ
+sa jayati pariṇaddhaḥ śaktibhiḥ śaktināthaḥ ।।}

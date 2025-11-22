@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 873 | label: meter | g:0.205 m:0.735 ---
+
+dṛṣṭvā lokavilocanotsavasukhāṃ saṃśāntasarvoddhavāṃ
+vyāmābhāpariveṣiṇīṃ bhagavato buddhasya mūrtiṃ purā ।
+harṣotkampigalaś cukūja madhuraṃ preṅkhatkalāpaḥ śikhī
+taddhetoś ca śamaṃ jagāma sa śikhī dhārāmbusikto yathā ।।

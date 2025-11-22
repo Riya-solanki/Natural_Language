@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 450 | label: meter | g:0.25 m:0.5 ---
+
+siddhānāṃ kāraṇaṃ caiva yakṣāṇāṃ kāraṇaṃ param ।
+kāraṇaṃ kinnarāṇāṃ ca gandharvāṇāṃ ca kāraṇam ।।

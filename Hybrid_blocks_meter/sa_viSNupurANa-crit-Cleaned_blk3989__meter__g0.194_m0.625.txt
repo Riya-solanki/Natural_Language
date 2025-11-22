@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3989 | label: meter | g:0.194 m:0.625 ---
+
+aṃśāvatāro brahmarṣe yo ayaṃ yadukulodbhavaḥ 
+viṣṇos taṃ vistareṇāhaṃ śrotum icchāmy aśeṣataḥ ।।

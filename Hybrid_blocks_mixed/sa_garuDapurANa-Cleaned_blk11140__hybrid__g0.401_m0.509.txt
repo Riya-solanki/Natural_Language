@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11140 | label: hybrid | g:0.401 m:0.509 ---
+
+śrīkṛṣṇa uvāca ।
+gāyatryāśca śatānanda ekānandastu vedhasaḥ etādṛśaḥ śatānando brahmaṇaḥ parikīrtitaḥ ।।

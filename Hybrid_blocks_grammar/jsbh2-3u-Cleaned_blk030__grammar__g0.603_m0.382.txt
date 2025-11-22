@@ -1,0 +1,13 @@
+--- source: jsbh2-3u-Cleaned.txt | block: 30 | label: grammar | g:0.603 m:0.382 ---
+
+yatra tu na devatāśravaṇaṃ tatra na yāgakalpanā, api tu saṃskāramātravidhānam yathāgnihotre vatsamālabhetetyatrālambhamātraṃ vatsasaṃskārakatvena vidhīyate; ālabhateḥ sparśamātravācitvāt ।। iti ṣaṣṭhaṃ ālambhasaṃskāratādhikaraṇam ।।
+(upavarṣodāhṛtaviṣayavākyodāharaṇaṃ, saṃgatinirūpaṇaṃ ca) yadyapi sūtrakāreṇodāharaṇasādhyādi noktaṃ kevalaṃ hetumātram; tathāpi śrutārthāpattyā tayoḥ kalpanayopavarṣavṛttikṛtodāhṛtaṃ vākyamudāharaṇatvena darśayan āpavādikīṃ saṅgatiṃ spaṣṭatvāt tathā phalgutvāt pūrvapakṣaṃ cānuktvā siddhāntamevāha yatra tviti ।।
+(vatsopāvasarjanena dhenuviyogākhyena sparśāprāpteḥ vatsanikāntā ityarthavādopapatteśca vatsasparśa eva vivakṣita iti kathanam) na kevalamālabhatau dravyasaṃbandhamātreṇa yāgakalpanam, apitu dravyadevatāsaṃbandhena; tasya prakṛte abhāvānna yāgakalpanetyarthaḥ ।
+saṃskāramātreti ।।
+vatsālaṃbhasya prasnavārthatvena dṛṣṭārthatvādyāgavidhipakṣe adṛṣṭārthatvāpattirmātracā sūcitā ।
+vatsasaṃskāratveneti ।।
+yathaiva vatsaṃ copāvasṛjatītyatra dvitīyāsaṃyogāt vatsamuddiśyopāvasarjanavidhistathaiveha saṃskāravidhiprāyapāṭhāt vatsasaṃskārakatvenaiva sparśavidhirityarthaḥ ।
+naca upāvasarjanenaiva sparśākhyasyālaṃbhasyārthaprāptatvānna vidhyupapattiriti vācyam; dhenuviyogākhyopāvasarjanena dhenusamīpadhāraṇaphalakādhvaryuṅkartṛkasparśasya niyamena prāptyabhāvāttadupapatteḥ ।
+ataeva sparśasyādhvaryukartṛkatve api dohasyānyena karaṇānna tadanupapattiriti bhāvaḥ ।
+ataeva vatsanikāntā hi paśava ityarthavāde paśūnāṃ vatsapriyatvābhidhānena vatsapriyā mātā, putracāṭukaraṇāt, tenavā kṛtacāṭunā yujyamānāt snehāt prastraviṣyatītyevaṃ stutyupapattiḥ sparśamātrābhidhāyitve saṃbhavatītyabhipretyāha ālabhateriti ।।
+(atrādhikaraṇe pādādhyāyasaṃgatyornirūpaṇam) atraca siddhānte dārśapaurṇamāsikeṣālambhādayamālambhaḥ saṃskāryarūpānupādeyaguṇāt prakaraṇāntarāt karmāntaramityaniścitavidheyatākavatsākhyaguṇasya bhedakatvāt pādādhyāyasaṅgatyupapattiriti kaustubhe draṣṭavyam ।।

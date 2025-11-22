@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5012 | label: meter | g:0.25 m:0.5 ---
+
+māgadhena balaṃ kṣīṇaṃ sa kālayavano balī 
+hantā tad idam āyātaṃ yadūnāṃ vyasanaṃ dvidhā ।।

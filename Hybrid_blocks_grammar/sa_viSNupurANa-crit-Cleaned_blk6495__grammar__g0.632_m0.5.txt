@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6495 | label: grammar | g:0.632 m:0.5 ---
+
+yajñair yajñavido yajanti satataṃ yajñeśvaraṃ karmiṇo yaṃ yaṃ brahmamayaṃ parāparaparaṃ dhyāyanti ca jñāninaḥ 
+yaṃ saṃprāpya na jāyate na mriyate no vardhate hīyate naivāsan na ca sad bhavaty ati tataḥ kiṃ vā hareḥ śrūyatām ।।

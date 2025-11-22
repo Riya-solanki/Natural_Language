@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1324 | label: hybrid | g:0.531 m:0.5 ---
+
+anuśādhi yathā purā puraṃ svaṃ vayam ājñāpravaṇā bhavadvidhānām ।
+vinayād vyasanaṃ ca naḥ kṣamethāḥ skhalati proṣitalocanaḥ same api ।।

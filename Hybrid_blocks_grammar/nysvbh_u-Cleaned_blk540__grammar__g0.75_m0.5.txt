@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 540 | label: grammar | g:0.75 m:0.5 ---
+
+ayaṃ vikāradharmaḥ dravyasāmānye yadātmakaṃ dravyaṃ mṛdvā suvarṇaṃ vā tasyātmano anvaye pūrvo vyūho nivartate vyūhāntaraṃ copajāyate taṃ vikāramācakṣate, na varṇasāmānye kaścid śabdātmānvayī ya itvaṃ jahāti yatvaṃ cāpadyate, tatra yathā sati dravyabhāve vikāravaiṣamye nānaḍuho aśvo vikāraḥ vikāradharmānupapatteḥ, evamivarṇasya na yakāro vikāraḥ vikāradharmānupapatteriti ।।

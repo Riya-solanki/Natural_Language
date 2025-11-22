@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1941 | label: meter | g:0.194 m:0.5 ---
+
+parāmṛtapadaṃ hy etat ślokānāṃ daśakaṃ dvikam 
+etasmin paṭhite devi kṣubhyante mātaraḥ sadā ।।

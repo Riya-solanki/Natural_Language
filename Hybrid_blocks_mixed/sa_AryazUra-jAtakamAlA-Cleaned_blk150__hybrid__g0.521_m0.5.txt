@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 150 | label: hybrid | g:0.521 m:0.5 ---
+
+tadarhati śrotumayaṃ jano yadi pracakṣva tatkiṃ nviti bhāṣase nṛpa ।
+rahasyamevaṃ ca na kīrtyate kvacitprakāśamasmācca mayāpi pṛcchyate ।।

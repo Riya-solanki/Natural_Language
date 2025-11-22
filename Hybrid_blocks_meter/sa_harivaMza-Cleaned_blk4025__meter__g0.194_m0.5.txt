@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4025 | label: meter | g:0.194 m:0.5 ---
+
+tāś ca prāgjyotiṣapatir muroś caiva daśātmajāḥ 
+nairṛtāś ca yathāmukhyāḥ pālayanta upāsate ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3429 | label: meter | g:0.337 m:0.5 ---
+
+vane api siṃhā na namanti kaṃ ca bubhu kṣitā māṃsanirīkṣaṇaṃ ca ।
+dhanairvihīnāḥ sukuleṣu jātā na nīcakarmāṇi samārabhante ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1642 | label: meter | g:0.25 m:0.5 ---
+
+{sā vasai tujjha hiae sā ccia acchīsu sā a vaaṇesu ।
+ahmārisāṇa sundara osāso kattha pāvāṇaṃ ।।}
+[sā vasati tava hṛdaye saivākṣiṣu sā ca vacaneṣu ।
+asmādṛśīnāṃ sundara avakāśaḥ kutra pāpānām ।।]

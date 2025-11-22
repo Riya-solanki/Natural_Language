@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 290 | label: hybrid | g:0.528 m:0.5 ---
+
+yatha kaścideva puruṣo ratanaṃ nidhānaṃ labdhvā tu tatra spṛhabuddhi na saṃjaneyyā 
+ekāki so puna gṛhītva parasmi kāle gṛhṇitva geha praviśitva na bhoti lubdho ।।

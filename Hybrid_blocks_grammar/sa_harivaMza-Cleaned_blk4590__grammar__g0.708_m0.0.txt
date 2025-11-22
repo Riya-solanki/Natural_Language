@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4590 | label: grammar | g:0.708 m:0.0 ---
+
+yac ca tat kathitaṃ pūrvaṃ bāṇaṃ prati mahāsuram 
+tad ahaṃ śrotum icchāmi vistareṇa tapodhana ।। 
+kathaṃ ca devadevasya putratvam asuro gataḥ । yo abhiguptaḥ svayaṃ brahmañ śaṃkareṇa mahātmanā । sahavāsaṃ gateneha sagaṇena guhena ca ।। baler balavataḥ putro jyeṣṭho bhrātṛśatasya yaḥ । vṛto bāhusahasreṇa divyāstraśatadhāriṇā । asaṃkhyaiś ca mahākāyair māyāśatasahair balaiḥ । māyāśatabalair daityair amarādibhir arcitaḥ । 
+vāsudevena sa kathaṃ bāṇaḥ saṃkhye parājitaḥ 
+saṃrabdho dvaṃdvayuddhārthī jīvan muktaḥ kathaṃ ca saḥ ।।

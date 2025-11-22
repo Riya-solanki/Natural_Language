@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 275 | label: hybrid | g:0.25 m:0.483 ---
+
+garbhadruti test for ~
+samarasatāṃ yadi yāto vastrādgalito'dhikaśca tulanāyām ।
+grāso drutaḥ sa garbhe drutvāsau jīryate kṣipram ।।

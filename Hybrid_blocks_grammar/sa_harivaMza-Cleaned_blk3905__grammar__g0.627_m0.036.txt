@@ -1,0 +1,9 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3905 | label: grammar | g:0.627 m:0.036 ---
+
+tam āpatantaṃ vivyādha nārācair māgadhas tribhiḥ 
+taṃ bibhedāṣṭabhiḥ kruddho nārācair musalāyudhaḥ 
+ciccheda cāsya bhallena dhvajaṃ ratnavibhūṣitam ।। 
+cāpaṃ ca mahad āyattaṃ śarair eva halāyudhaḥ । rathaṃ cāsya mahārāja tilaśaś ca samāhanat ।। sa cchinnadhanvā viratho gadāmādāya māgadhaḥ । bibheda balabhadraṃ tu jaghāna ca punaḥ punaḥ ।। rathaṃ ca cūrṇayām āsa gadayāsya sa māgadhaḥ ।। pātyamānād rathāt tasmād avaplutya halāyudhaḥ । sātyakes tu rathaṃ prāyāt sarvakṣatrasya paśyataḥ ।। sātyakis tu mahārāja śarair vivyādha māgadham ।। baladevo mahārāja gadāṃ saṃgṛhya satvaram । jaghāna māgadhaṃ saṃkhye vajreṇeva giriṃ hariḥ । 
+tad yuddham abhavad ghoraṃ teṣāṃ devāsuropamam 
+anivāryaṃ śarair eva praharṣogho mahodadheḥ । 
+sṛjatāṃ śaravarṣāṇi nighnatām itaretaram ।।

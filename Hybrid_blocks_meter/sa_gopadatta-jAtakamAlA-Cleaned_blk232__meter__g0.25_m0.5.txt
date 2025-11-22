@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 232 | label: meter | g:0.25 m:0.5 ---
+
+hatāvalepāḥ pariśuddhavṛttayaḥ sthitās ta evopari sarvasaṃpadām ।
+na bhāvanāṃ ye ślathayanti sādhavaḥ pravṛttyupādānaviṣopaśāntaye ।।

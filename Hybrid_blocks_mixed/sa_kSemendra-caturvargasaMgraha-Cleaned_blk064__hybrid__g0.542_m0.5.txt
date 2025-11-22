@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 64 | label: hybrid | g:0.542 m:0.5 ---
+
+lajjāvakro manasijadhanur bhrūvilāsena tānvyaś cintāpāṇḍuḥ spṛśati kṛśatāṃ vakrakāntyā śaśāṅkaḥ ।
+yāty evādhaḥ prahasitarucidorlatābhyāṃ mṛṇālī klībaṃ dhatte kuvalayakulaṃ kālimānaṃ kaṭākṣaiḥ ।।

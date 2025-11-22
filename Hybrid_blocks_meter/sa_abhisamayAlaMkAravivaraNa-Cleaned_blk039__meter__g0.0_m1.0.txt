@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 39 | label: meter | g:0.0 m:1.0 ---
+
+ekakṣaṇābhisambodhaḥ

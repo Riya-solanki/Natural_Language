@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1550 | label: meter | g:0.316 m:0.5 ---
+
+sṛjati tāvad aśeṣaguṇālayaṃ puruṣaratnam alaṃkaraṇaṃ bhuvaḥ ।
+tadanu tat kṣaṇabhaṅgi karoti ced ahaha kaṣṭam apaṇḍitatā vidheḥ ।।

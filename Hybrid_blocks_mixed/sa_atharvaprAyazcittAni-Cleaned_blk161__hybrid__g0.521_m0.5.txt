@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 161 | label: hybrid | g:0.521 m:0.5 ---
+
+samāpyaiva tena haviṣā yad daivataṃ tad dhaviḥ syāt ।

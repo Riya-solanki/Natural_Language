@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 57 | label: grammar | g:0.552 m:0.5 ---
+
+saṃdhyātāṇḍavaḍambaravyasanino bhīmasya caṇḍabhrami- vyānṛtyadbhujadaṇḍamaṇḍalabhuvo jhaṃjhānilāḥ pāntu vaḥ ।
+yeṣām ucchalatāṃ javena jhagiti vyūheṣu bhūmībhṛtām uḍḍīneṣu biḍaujasā punar asau dambholir ālokitaḥ ।।

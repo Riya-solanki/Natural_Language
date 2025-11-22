@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 939 | label: grammar | g:0.75 m:0.5 ---
+
+vibhāvādi-bhāvānām anapekṣita-bāhya-sattvānāṃ śabdopadhānād evāsādita-sad-bhāvānām anukāryāpekṣayā niḥsādhāraṇānām api kāvye nāṭye ca abhidhā-paryāyeṇa sādhāraṇīkaraṇātmanā bhāvanā-vyāpāreṇa sva-sambandhitayā vibhāvitānāṃ sākṣād bhāvaka-cetasi viparivartamānānām ālambanatvādy-avirodhād anaucityādi-viplava-rahitaḥ sthāyī nirbharānanda-viśrānti-svabhāvena bhogena bhāvakair bhujyate iti ।

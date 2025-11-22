@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11928 | label: meter | g:0.25 m:0.871 ---
+
+sajjanānsaumyarūpeṇa dhāraṇāddharmanāmakaḥ ।
+sa eva sūryaputrobhūdyamasaṃjñāmavāpa saḥ ।
+pāpināṃ śikṣakattvātsa yama ityucyate budhaiḥ ।।

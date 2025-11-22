@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 789 | label: meter | g:0.139 m:0.969 ---
+
+na guṇopalabdhirindriyāṇām।
+yo brūte yathā bāhyaṃ dravyaṃ cakṣuṣāṃ
+gṛhyate tathā tenaiva cakṣuṣā tadeva
+cakṣurgṛhyatāmiti tādṛgidam tulyo
+hyubhayatra pratipattihetvabhāva iti ।।

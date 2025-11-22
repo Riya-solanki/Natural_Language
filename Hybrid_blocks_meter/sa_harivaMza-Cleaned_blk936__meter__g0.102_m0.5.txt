@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 936 | label: meter | g:0.102 m:0.5 ---
+
+vṛṣṇivaṃśaprasaṅgena svaṃ vaṃśaṃ pūrvam eva hi 
+śṛṇu pūror mahārāja vaṃśam agre mahātmanaḥ 
+vistareṇānupūrvyā ca yatra jāto asi pārthiva ।।

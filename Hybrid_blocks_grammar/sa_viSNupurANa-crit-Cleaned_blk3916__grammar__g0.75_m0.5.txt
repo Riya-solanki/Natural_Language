@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3916 | label: grammar | g:0.75 m:0.5 ---
+
+tataś ca śiśunāgas tatputraś ca kākavarṇo bhavitā । tatputraḥ kṣemadharmā tasyāpi kṣatraujāḥ । tatputro vidhisāras tataś cājātaśatruḥ । tasmāc ca darbhako darbhakāc codayanaḥ । tasmād api nandivardhanas tato mahānandī । ity ete śaiśunāgā daśa bhūmipālās trīṇi varṣaśatāni dviṣaṣṭyadhikāni bhaviṣyanti ।।

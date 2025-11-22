@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1970 | label: meter | g:0.194 m:0.625 ---
+
+yasmāt tvaṃ rājatulyena vapuṣā samupasthitaḥ 
+gacchārṇava mahīpālo rājaiva tvaṃ bhaviṣyasi ।।

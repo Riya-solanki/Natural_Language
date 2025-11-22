@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 919 | label: grammar | g:0.615 m:0.5 ---
+
+hemākṛṣṭyanantaraṃ tārākṛṣṭiṃ vakṣye ahaṃ kaviḥ kathayāmi mṛtavaṅgaṃ māritaṃ vaṅgaṃ tālakena haritāleneti ।।
+atha tāmraṃ tulyāṃśaṃ lambitaṃ vistīrṇaṃ yathā syāt tathā nirdhmātaṃ sat tārachaviṃ vahati rūpyadyutiṃ prāpnotītyarthaḥ ।।

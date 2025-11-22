@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 35 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ prabuddhabhāvātmā vadaty evaṃ kuleśvarī 
+darśitaṃ nikhilaṃ mahyaṃ kim āścaryaṃ kujeśvara ।।

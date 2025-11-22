@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 987 | label: meter | g:0.25 m:0.75 ---
+
+paurmamāsyāmumānāthaḥ svapate carmasaṃstare ।
+vaiyāghre ca jaṭābhāraṃ samudgranthyānyacarmaṇā ।।

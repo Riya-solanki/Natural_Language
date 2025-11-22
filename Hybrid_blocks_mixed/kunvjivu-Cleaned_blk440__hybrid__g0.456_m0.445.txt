@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 440 | label: hybrid | g:0.456 m:0.445 ---
+
+pūrvameva vyākhyātam ।
+idamapi prakārāntaraṃ saṃbhavati yatra parānubhasaṃvedyasya vastuno vakturagocaratāṃ pratipādayituṃ saṃvṛtiḥ kriyate ।
+yathā

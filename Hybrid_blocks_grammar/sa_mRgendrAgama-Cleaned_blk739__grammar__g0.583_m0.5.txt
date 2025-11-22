@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 739 | label: grammar | g:0.583 m:0.5 ---
+
+uttamāḥ śivamantrādyā mantreśādyāstu madhyamāḥ। gaṇāśca rudramantrāśca bhaginyo mātarastathā। adhamāḥ kīrtitāḥ mantrāḥ iti।

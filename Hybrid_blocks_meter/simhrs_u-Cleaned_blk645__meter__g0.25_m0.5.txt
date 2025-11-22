@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 645 | label: meter | g:0.25 m:0.5 ---
+
+atra sītā-viraha-janitaṃ rāvaṇasya jāḍyaṃ punaḥ-praśna-śruty-ādibhir avagamyate ।

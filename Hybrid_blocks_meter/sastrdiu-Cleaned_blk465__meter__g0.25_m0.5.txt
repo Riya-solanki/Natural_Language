@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 465 | label: meter | g:0.25 m:0.5 ---
+
+ātmabhedaṃ prakṛtipariṇāmaṃ ca jagat sāṃkhyā manyante ।
+dvividhaṃ ca sāṃkhyaṃ nirīśvaraṃ seśvaraṃ ca ।

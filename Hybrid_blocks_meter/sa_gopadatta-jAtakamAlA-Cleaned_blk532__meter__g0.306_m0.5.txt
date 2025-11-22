@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 532 | label: meter | g:0.306 m:0.5 ---
+
+dṛṣṭvā parasyāpi sa deyadharmān īrṣyākaṣāyākṣipuṭo babhūva ।
+tyāgātmabhiḥ sārdham anāryakarmā cakāra naiva krayavikrayaṃ saḥ ।।

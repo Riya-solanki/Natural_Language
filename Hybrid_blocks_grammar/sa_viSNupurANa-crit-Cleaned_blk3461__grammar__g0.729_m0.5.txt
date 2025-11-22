@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3461 | label: grammar | g:0.729 m:0.5 ---
+
+evaṃ ca mama sahodaryā duḥkhitā ity evam atiduḥkhakāraṇam ity uktas tayā dvitīyaṃ prāsādam upetya svatanayāṃ pariṣvajyopaviṣṭas tathaiva pṛṣṭavān ।।

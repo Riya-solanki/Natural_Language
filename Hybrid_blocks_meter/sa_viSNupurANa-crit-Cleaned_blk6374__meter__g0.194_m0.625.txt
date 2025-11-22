@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6374 | label: meter | g:0.194 m:0.625 ---
+
+ekapādaṃ dvipādaṃ ca bahupādam apādakam 
+mūrtam etad dhare rūpaṃ bhāvanātritayātmakam ।।

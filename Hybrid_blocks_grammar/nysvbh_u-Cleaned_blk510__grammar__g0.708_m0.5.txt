@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 510 | label: grammar | g:0.708 m:0.5 ---
+
+yadanityaṃ tasya vināśaḥ kāraṇād bhavati yathā loṣṭasya kāraṇadravyavibhāgāt, śabdaścedanityastasya vināśo yasmātkāraṇād bhavati tadupalabhyeta na copalabhyate tasmānnitya iti ।।

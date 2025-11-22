@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 762 | label: meter | g:0.333 m:0.5 ---
+
+[] yad anu sarve' pi prāṇinaḥ prīṇate sma । tathā hi vandi-jana-vandanam,

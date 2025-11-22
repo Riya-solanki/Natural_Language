@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 322 | label: meter | g:0.25 m:0.625 ---
+
+eṣa pramātā māyāndhaḥ saṃsārī karmabandhanaḥ ।
+vidyābhijñāpitaiśvaryaś cidghano mukta ucyate ।।

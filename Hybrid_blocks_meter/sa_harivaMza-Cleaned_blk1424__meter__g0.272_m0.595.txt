@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1424 | label: meter | g:0.272 m:0.595 ---
+
+chinnaṃ bāhusahasraṃ ca bāṇasyādbhutakarmaṇaḥ 
+narakaś ca hataḥ saṃkhye yavanaś ca mahābalaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3698 | label: grammar | g:0.75 m:0.5 ---
+
+tatputraḥ saṃjayas tasyāpi jayas tataś ca vijayas tasmāc ca jajñe kṛtaḥ । tasya harṣavardhano harṣavardhanasutaḥ sahadevas tasmād adīnas tasya jayatsenaḥ tataś ca saṃkṛtis tatputraḥ kṣatradharmā ity ete kṣatravṛddhasyāto nahuṣavaṃśaṃ pravakṣyāmīti ।।

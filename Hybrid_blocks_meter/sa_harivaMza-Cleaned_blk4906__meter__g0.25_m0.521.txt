@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4906 | label: meter | g:0.25 m:0.521 ---
+
+athāgneyaṃ mahāraudram astram astravidāṃ varaḥ 
+mumoca ruṣito rudras tad adbhutam ivābhavat ।। 
+tato viśīrṇadehās te catvāro api samantataḥ । 
+tato viśīrṇadehās te catvāro api samantataḥ 
+nādṛśyanta śaraiś channā dahyamānāś ca vahninā ।। 
+tato bhūtāni vitresur devāś ca bhayaviklavāḥ । 
+siṃhanādaṃ tataś cakruḥ sarva evāsurottamāḥ 
+hato ayam iti vijñāya āgneyāntarhite harau ।।

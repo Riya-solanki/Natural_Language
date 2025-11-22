@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 871 | label: grammar | g:0.625 m:0.5 ---
+
+atha sarvatathāgatāḥ punarapi samāhajāmāgatya, bhagavate sarvatathāgatādhipataye mahābodhicittāya vajrasatvāya mahāvajrapāṇaye vajratuṣṭyānena hṛdayena sādhukāramadaduḥ oṃ ।।

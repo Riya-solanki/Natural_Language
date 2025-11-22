@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 960 | label: meter | g:0.25 m:0.555 ---
+
+bales tu brahmaṇā datto varaḥ prītena bhārata 
+mahāyogitvam āyuś ca kalpasya parimāṇataḥ 
+saṃgrāme cāpy ajeyatvaṃ dharme caiva pradhānatām । 
+trailokyadarśanaṃ cāpi prādhānyaṃ prasave tathā । 
+balasyāpratimatvaṃ vai dharmatattvārthadarśanam । 
+caturo niyatān varṇāṃs tvaṃ ca sthāpayiteti ha ।।

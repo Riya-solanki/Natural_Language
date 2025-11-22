@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 257 | label: hybrid | g:0.521 m:0.5 ---
+
+nanviha pratyayagrāhyaḥ samavāyo nityasaṃbaddha eva samavāyibhirgṛhyate nāsaṃbaddhaḥ saṃbandhāntarāpekṣo vā ।
+tataśca na tasyānyaḥ saṃbandhaḥ kalpayitavyo yenānavasthā prasajyeteti ।

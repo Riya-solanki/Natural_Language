@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5860 | label: meter | g:0.323 m:0.887 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+gāruḍaṃ saṃpravakṣyāmi garuḍena hyudīritam ।
+kaśyapāya sumitreṇa viṣahṛdyena gāruḍaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2180 | label: meter | g:0.37 m:0.539 ---
+
+varṇena tadrudhirasomamadhuprakāśamātāmrapītadahanojjvalitaṃ vibhāti ।
+nīlaṃ punaḥ khalu sitaṃ paruṣaṃ vibhinnaṃ vyādhyādidoṣakaraṇena ca tadvibhāti ।।

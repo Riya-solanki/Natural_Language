@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2101 | label: hybrid | g:0.521 m:0.5 ---
+
+cittasya nārhasi narendra vaśena gantuṃ dharmārthayoranuparodhapathaṃ bhajasva ।
+eṃko nṛpān yudhi vijitya samastasainyān mā cittavigrahavidhau parikātaro bhūḥ ।।

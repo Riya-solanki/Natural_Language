@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 58 | label: grammar | g:0.594 m:0.5 ---
+
+keśeṣu prāk pradīpas tvaci vikaṭacaṭatkārasāro atimātraṃ māṃse mandāyamānaḥ kṣaradasṛji sṛjann asthiṣu ṣṭhātkṛtāni ।
+majjaprāye aṅgabhāge jhagiti ratipater jājvalan prajjvalaśrīr aśreyo vyasyatād vas trinayananayanopāntavānto hutāśaḥ ।।

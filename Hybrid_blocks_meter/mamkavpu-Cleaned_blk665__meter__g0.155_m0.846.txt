@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 665 | label: meter | g:0.155 m:0.846 ---
+
+{yaḥ pūyate surasarinmukhatīrthasārtha-
+snānena śāstrapariśīlanakīlanena ।
+saujantyamānyajanirūrjitamūrjitānāṃ
+yo ayaṃ dṛśoḥ patati kasyacideva puṃsaḥ ।।}

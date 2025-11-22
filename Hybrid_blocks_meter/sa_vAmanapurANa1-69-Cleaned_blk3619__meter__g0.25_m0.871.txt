@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3619 | label: meter | g:0.25 m:0.871 ---
+
+surūpatāmavāpyāgryāṃ tasminneva ca janmani ।
+tataḥ priyo abhūd bhāryāyā bhogavāṃścābhavad vaśī ।
+śravaṇadvādaśībhaktaḥ pūrvābhyāsādajāyata ।।

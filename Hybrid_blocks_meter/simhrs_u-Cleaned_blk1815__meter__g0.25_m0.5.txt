@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1815 | label: meter | g:0.25 m:0.5 ---
+
+atrāprakṛta-vālmīki-varṇana-prasaṅgena prakṛta-māriṣa-kutūhalotkarṣa-saṃsādhana-rūpāt prakṛta-nāṭyāvalaganād idaṃ dvitīyam avalagitam ।

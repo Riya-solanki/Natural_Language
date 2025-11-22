@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 285 | label: meter | g:0.194 m:0.625 ---
+
+{gāḍhāliṅgaṇarahasujja-ammi da-i-e lahu samosara-i ।
+māṇaṃsiṇīṇa māṇo pīlaṇabhī-a vva hi-a-āhiṃ ।।}
+[gāḍhāliṅganarabhasodyate dayite laghu samapasarati ।
+manasvinyāḥ mānaḥ pīḍanabhīta iva hṛdayāt ।।]

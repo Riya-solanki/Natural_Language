@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1233 | label: meter | g:0.194 m:0.875 ---
+
+sattvārthapratipattikauśalam aho hī dhīratā cetasaḥ
+puṇyābhyāsaviśeṣapuṇyamahatām āścaryarūpasthitiḥ ।
+sādhūnāṃ svasukhānurāgavigamasvacchā bata prakriyā
+bata kṛpā nāpekṣate svāśrayam ।।

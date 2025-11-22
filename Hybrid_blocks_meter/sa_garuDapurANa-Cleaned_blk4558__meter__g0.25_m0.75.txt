@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4558 | label: meter | g:0.25 m:0.75 ---
+
+bastimāśritya kurute pramehāddūṣitaḥ kaphaḥ ।
+dūṣayitvā vapuḥ kledaṃ svedamedovasāmiṣam ।।

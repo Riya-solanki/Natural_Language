@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6059 | label: meter | g:0.25 m:0.5 ---
+
+vyoṣaṃ kaṭutrayaṃ vidyāttryūṣaṇaṃ tacca kīrtyate ।
+lāṅgalī halinī ca syāccheyasī gaja pippalī ।।

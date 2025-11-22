@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3439 | label: meter | g:0.25 m:0.555 ---
+
+dānamānagṛhītāni tṛptāny etāni te guṇaiḥ 
+nāmāni ca gṛhītāni samyagvṛttāni tair guṇaiḥ । 
+rudanti tava bhṛtyānāṃ kulāni kulayūthapa ।।

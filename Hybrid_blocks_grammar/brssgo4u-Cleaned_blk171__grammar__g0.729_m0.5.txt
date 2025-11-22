@@ -1,0 +1,3 @@
+--- source: brssgo4u-Cleaned.txt | block: 171 | label: grammar | g:0.729 m:0.5 ---
+
+nanu amṛtatvaṃ hi viduṣā prāptavyaṃ na ca tat deśāntara āyattaṃ tatra kṛto bhūta āśrayatvaṃ sṛti upakramo vā iti ।

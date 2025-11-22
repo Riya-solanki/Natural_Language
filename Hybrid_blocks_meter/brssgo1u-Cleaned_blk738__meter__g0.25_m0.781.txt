@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 738 | label: meter | g:0.25 m:0.781 ---
+
+brahmaparā vedapāragāḥ ।
+paraṃ nirguṇaṃ brahma ।
+upāsannā upāgatāḥ ।
+anupanīyaiveti hīnavarṇenottamavarṇā anupanīyaivopadeṣṭavyā ityācārajñāpanārthamityarthaḥ ।
+ekajātiranupanītaḥ ।

@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 147 | label: grammar | g:0.67 m:0.375 ---
+
+bhedanirdeśāt ।
+aātmā vā are draṣṭavyaḥ śrotavyo mantavyo nididhyāsitavyaḥ'', aso anveṣṭavyaḥ sa vijijñāsitavyaḥ', asatā somya tadā saṃpanno bhavati' aśārīra ātmā prājñenātmanānvārūḍhaḥ' ityevañjātīyakaḥ kartṛkarmādibhedanirdeśo jīvādadhikaṃ brahma darśayati ।

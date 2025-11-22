@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1262 | label: meter | g:0.064 m:0.682 ---
+
+karmavaśānniṣpanne śarīre ceṣṭendriyārthāśraye nimittabhāvādavaśyambhāvī
+buddhīnāmutpādaḥ, na ca prabalopi san bāhyo artha
+ātmano buddhyutpāde samartho bhavati tasyendriyeṇa
+saṃyogād buddhyutpāde sāmarthyaṃ dṛṣṭamiti
+।।

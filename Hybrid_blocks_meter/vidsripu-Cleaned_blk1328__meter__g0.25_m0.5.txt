@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1328 | label: meter | g:0.25 m:0.5 ---
+
+khalavṛndaṃ śmaśānaṃ ca bhavaty apacitaṃ yadā ।
+dhruvaṃ tadaiva lokānāṃ kalyāṇam avagamyate ।।

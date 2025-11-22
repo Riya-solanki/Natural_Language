@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1215 | label: grammar | g:0.667 m:0.5 ---
+
+paricchinnānāṃ hi sparśavatāṃ saṃsthānaṃ trikoṇaṃ caturasraṃ samaṃ parimaṇḍalamityupapadyate yattat saṃsthānaṃ so avayavasaṃniveśaḥ parimaṇḍalāścāṇavastasmāt sāvayavā iti ।।

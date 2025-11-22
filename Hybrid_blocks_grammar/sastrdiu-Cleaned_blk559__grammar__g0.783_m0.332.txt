@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 559 | label: grammar | g:0.783 m:0.332 ---
+
+tadāha yatra hi dvaitamiva bhavati taditara itaraṃ paśyati, yatra tvasya sarvamātmaivābhūttatkena kaṃ paśyet ityādi, tadetatprāgeva vyākhyātam ।
+evamarthāntarajñāne sādhanābhāvānnirākṛte sati ātmānameva muktāvasthāyāṃ jānātvityāśaṅkyāha vijñātāramare kena vijānīyāt iti nahyātmāpi vināsādhanena jñātuṃ śakyate manasā khalvasau saṃsārāvasthāyāṃ jñāyate na ca muktasya manaḥsaṃbangho asti ataḥ kenātmānaṃ jānātviti vyakta eva muktasyātmajñānasyābhāve jñānaśaktimātrasyāvasthānaṃ śrutyā darśitaṃ, tasmānniḥsaṃbandho nirānandaśca mokṣaḥ ।।

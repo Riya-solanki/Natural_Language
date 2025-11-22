@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 260 | label: meter | g:0.272 m:0.82 ---
+
+hariruvāca ।
+sūryādipūjāṃ vakṣyāmi dharṃmakāmādikārikām ।।

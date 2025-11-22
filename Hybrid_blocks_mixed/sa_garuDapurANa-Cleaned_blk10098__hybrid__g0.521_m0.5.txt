@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10098 | label: hybrid | g:0.521 m:0.5 ---
+
+sarvatra mukhyastvadhikonyatopi sa eva namyo na ca śaṅkarādyāḥ ।
+namanti ye avinayācchaṅkaraṃ tu vināyakaṃ caṇḍikāṃ reṇukāṃ ca ।।

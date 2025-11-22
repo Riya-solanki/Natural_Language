@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 667 | label: meter | g:0.25 m:0.5 ---
+
+sapta koṭyas tu mantrāṇām aprameyās tu yāḥ smṛtāḥ 
+svatantrasthās tu tāḥ sarvā mudritāḥ parameśvari ।।

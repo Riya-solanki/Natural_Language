@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4492 | label: meter | g:0.25 m:1.0 ---
+
+pārśvoruvaṅkṣaṇagrīvārujā tīkṣṇaviṣūcikā ।
+rugṇeṣu vṛddhiḥ sarvaṣu kṣuttṛṣṇāparihartrikā ।।

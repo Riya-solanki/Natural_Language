@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 351 | label: grammar | g:0.604 m:0.5 ---
+
+sarvasattvānāṃ anāgatamokṣasukhopasaṃhārārthena hitakāritram, lokasya duḥkhadaurmanasyādīni prahāya aihikasukhopasaṃhāreṇa sukhakāritram, duḥkharahitāvipākadharmatāyāṃ sthāpanāt trāṇakāritramiti trīṇi ।

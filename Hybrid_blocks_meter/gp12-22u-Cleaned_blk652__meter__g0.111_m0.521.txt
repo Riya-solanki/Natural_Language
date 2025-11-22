@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 652 | label: meter | g:0.111 m:0.521 ---
+
+veṇūdgāna-guṇena tasya paritaḥ kṛṣṭe vimānotkare
+devyo rūpa-vilāsa-mohana-kalām āsādya mohaṃ gatāḥ ।
+yatredaṃ na viduḥ kim etad abhitaḥ pūrvaṃ śrutaṃ vīkṣitaṃ
+veti srastam abhūt kacādi kim u vā naivety api prāyaśaḥ ।। [śārdūla]

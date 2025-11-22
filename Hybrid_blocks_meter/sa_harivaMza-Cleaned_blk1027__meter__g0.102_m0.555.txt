@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1027 | label: meter | g:0.102 m:0.555 ---
+
+ṛkṣasya tu dvitīyasya bhīmaseno abhavat sutaḥ 
+pratīpo bhīmasenasya pratīpasya tu śāṃtanuḥ 
+devāpir bāhlikaś caiva traya eva mahārathāḥ ।।

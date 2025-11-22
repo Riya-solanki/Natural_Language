@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 222 | label: hybrid | g:0.447 m:0.47 ---
+
+ātmetyetāvanmātrasya svavākyagatopāsanārthatve api na kaścidvirodhaḥ ।
+yadi na virodhaḥ, santu tarhi vedāntā devatāpratipādanadvāreṇopāsanāvidhiparā evetyata āha- na tu tathā brahmaṇaiti ।
+upāsyopāsakopāsanādibhedasiddhyadhīnopāsanā na nirastasamastabhedaprapañce vedāntavedye brahmaṇi saṃbhavatīti nopāsanāvidhiśeṣatvaṃ vedāntānāṃ tadvirodhitvāt ityarthaḥ ।

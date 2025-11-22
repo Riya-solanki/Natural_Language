@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4914 | label: meter | g:0.194 m:0.625 ---
+
+sarveṣām astravīryāṇāṃ vāraṇe ghātane tathā 
+cakram apraticakrasya loke khyātaṃ mahātmanaḥ ।।

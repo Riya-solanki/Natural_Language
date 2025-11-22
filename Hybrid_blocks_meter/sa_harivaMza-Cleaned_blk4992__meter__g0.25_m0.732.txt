@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4992 | label: meter | g:0.25 m:0.732 ---
+
+tadāścaryam apaśyanta dāśārhagaṇasattamāḥ 
+praharṣam atulaṃ prāptā dṛṣṭvā kṛṣṇaṃ mahābhujam । 
+bāṇaṃ jitvā mahādevam āyāntaṃ puruṣottamam ।।

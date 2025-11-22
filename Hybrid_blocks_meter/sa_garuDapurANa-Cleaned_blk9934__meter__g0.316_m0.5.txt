@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9934 | label: meter | g:0.316 m:0.5 ---
+
+karārpitaṃ yatsukṛtaṃ samastaṃ svargastadā syāttava kiṅkaropamaḥ ।
+yo dharmavān prāpsyati so atisaukhyaṃ pāpī samastaṃ vividhañca duḥkham ।।

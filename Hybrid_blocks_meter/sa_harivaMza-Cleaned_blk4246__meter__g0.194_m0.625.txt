@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4246 | label: meter | g:0.194 m:0.625 ---
+
+samāsīneṣu sarveṣu yādaveṣu janārdanam 
+niyogāt tridaśendrasya nārado abhyāgamat sabhām ।।

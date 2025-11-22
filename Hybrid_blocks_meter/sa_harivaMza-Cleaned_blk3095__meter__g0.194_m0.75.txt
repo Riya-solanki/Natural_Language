@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3095 | label: meter | g:0.194 m:0.75 ---
+
+mūrtimān sarahasyātmā jagato agryasya bhājanam 
+gopaveṣadharo viṣṇur udagrāgratanūruhaḥ ।।

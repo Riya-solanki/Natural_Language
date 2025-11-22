@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2310 | label: meter | g:0.25 m:0.625 ---
+
+ghātayiṣyati vā vipraṃ yadā prakṣipta cāsurān ।
+tadāsya svayamevāhaṃ kariṣye kāyaśodhanam ।।

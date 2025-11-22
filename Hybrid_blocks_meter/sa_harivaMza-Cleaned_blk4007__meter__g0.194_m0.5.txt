@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4007 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ prabhṛti rājendra puram etad vighūrṇitaṃ 
+āvarjitam ivābhāti gaṅgām abhimukhaṃ nṛpa ।।

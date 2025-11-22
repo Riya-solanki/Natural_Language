@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 36 | label: meter | g:0.194 m:0.625 ---
+
+satyaṃ kiṃ tu smṛtijñānaṃ pūrvānubhavasaṃskṛteḥ 
+jātam apy ātmaniṣṭhaṃ tan nādyānubhavavedakam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1903 | label: meter | g:0.25 m:0.625 ---
+
+dāruṇy agnir yathā tailaṃ tile tadvat pumān api 
+pradhāne avasthito vyāpī cetanātmātmavedanaḥ ।।

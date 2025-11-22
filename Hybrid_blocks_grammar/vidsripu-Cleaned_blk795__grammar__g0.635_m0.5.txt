@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 795 | label: grammar | g:0.635 m:0.5 ---
+
+dalati hṛdayaṃ gāḍhodvegaṃ dvidhā na tu bhidyate vahati vikalaḥ kāyo mohaṃ na muñcate cetanām ।
+jvalati ca tanūm antardāhaḥ karoti na bhasmasāt praharati vidhir marmacchedī na kṛntati jīvitam ।।

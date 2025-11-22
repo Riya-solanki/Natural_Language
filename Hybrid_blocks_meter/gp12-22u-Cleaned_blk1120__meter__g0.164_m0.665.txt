@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 1120 | label: meter | g:0.164 m:0.665 ---
+
+tataś ca-
+bhṛṅga-śreṇya ivāmbhojaṃ rasa-pūrṇaṃ kumārikāḥ ।
+bhartṛ-kāmās tadā kṛṣṇaṃ varītuṃ paritaḥ sthitāḥ ।। [anuṣṭubh]

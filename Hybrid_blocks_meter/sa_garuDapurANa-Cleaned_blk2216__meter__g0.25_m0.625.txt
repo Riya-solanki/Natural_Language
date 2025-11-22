@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2216 | label: meter | g:0.25 m:0.625 ---
+
+sevanātkṛtapiṇḍānāṃ pāpajitkāmadaṃ nṛṇām ।
+vārāṇasī paraṃ tīrthaṃ viśveśo yatra keśavaḥ ।।

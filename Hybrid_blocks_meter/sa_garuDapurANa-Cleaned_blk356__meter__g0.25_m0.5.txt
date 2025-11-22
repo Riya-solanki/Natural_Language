@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 356 | label: meter | g:0.25 m:0.5 ---
+
+bhrāmayitvānalaṃ kuṇḍe pūjayecca śubhaiḥ phalaiḥ ।
+pūrvaṃ tatsakalaṃ dhyātvā maṇḍale manasā nyaset ।।

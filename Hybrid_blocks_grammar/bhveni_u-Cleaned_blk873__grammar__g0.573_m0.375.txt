@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 873 | label: grammar | g:0.573 m:0.375 ---
+
+gāndhārī
+{Pkt}jāda alaṃ paridevideṇa । tumaṃ bi dāva ekko imassa andhajualassa maggobadesao । tā ciraṃ jīva । kiṃ me rajjeṇa jaeṇa vā ।

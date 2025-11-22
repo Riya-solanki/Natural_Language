@@ -1,0 +1,9 @@
+--- source: sastrdiu-Cleaned.txt | block: 377 | label: meter | g:0.404 m:0.634 ---
+
+nanvevaṃ prativarṇaṃ saṃskārakalpanādekakalpanā syāt tadvaramekameva śabdatvaṃ kalpitam ।
+naivam ।
+dṛśyādarśanena nirastavat ।
+śabdo hi pratyakṣagrāhyo abhyupagamyate, na ca pratyakṣeṇa kiñcitprakāśate ।
+tena nāstītyavagacchāmaḥ ।
+tvayāpi hi śabdatvaṃ kalpayitvā punaḥ saṃskārakalpanāvaśyaṃ kartavyā ।
+dhvanayo hi na pratyekaṃ sphoṭamabhivyañjati, sāhityaṃ ca kramavartināṃ saṃskāradvārameveti tulyaṃ tatkalpanam ।।

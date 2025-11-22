@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2507 | label: meter | g:0.194 m:0.625 ---
+
+aśmasāramayaṃ nūnaṃ hṛdayaṃ te abhilakṣyate 
+putraṃ katham imaṃ dṛṣṭvā yaśode nāvadīryate ।।

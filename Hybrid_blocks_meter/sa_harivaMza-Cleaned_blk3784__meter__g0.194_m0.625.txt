@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3784 | label: meter | g:0.194 m:0.625 ---
+
+te tatheti mahābāhum uktvā sthapatayas tadā 
+durgakarmaṇi saṃbhārān upalabhya yathāvidhi ।।

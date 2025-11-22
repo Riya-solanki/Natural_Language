@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1108 | label: grammar | g:0.604 m:0.5 ---
+
+śrutaṃ dūre ratnākara iti paraṃ nāma jaladher na cāsmābhir dṛṣṭā nayanapathagamyasya maṇayaḥ ।
+puro naḥ samprāptās taṭabhuvi salipsaṃ tu vasatām udagrāḥ kallolāḥ sphuṭavikaṭadaṃṣṭrāś ca makarāḥ ।।

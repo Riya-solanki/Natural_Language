@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 898 | label: meter | g:0.306 m:0.5 ---
+
+smarāmi yata ātmānaṃ yataḥ prāpto asmi vijñatām ।
+nābhijānāmi sañcintya prāṇinaṃ hiṃsutuṃ kvacit ।।

@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8626 | label: meter | g:0.25 m:0.695 ---
+
+sarvakriyāparibhraṣṭo nāstiko dharmanindakaḥ ।
+asatyavādanirato naraḥ pretaiḥ sa pīḍyate ।
+kalau pretatvamāpnoti tārkṣyāśuddhakriyāparaḥ ।।

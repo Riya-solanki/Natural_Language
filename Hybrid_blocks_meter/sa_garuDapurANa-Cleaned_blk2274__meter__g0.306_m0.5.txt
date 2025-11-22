@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2274 | label: meter | g:0.306 m:0.5 ---
+
+tathā gadādharaṃ devaṃ mādhavaṃ puruṣottamam ।
+taṃ praṇamya prayatnena na bhūyo jāyate naraḥ ।।

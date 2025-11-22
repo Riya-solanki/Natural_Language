@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4264 | label: meter | g:0.306 m:0.5 ---
+
+kūpāntasthaḥ sa tāṃ vāṇīṃ śrutvā māturniśākaraḥ ।
+prāha pradattā pitrā me kūpopari śilā tviyam ।।

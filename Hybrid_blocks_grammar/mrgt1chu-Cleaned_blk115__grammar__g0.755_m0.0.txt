@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 115 | label: grammar | g:0.755 m:0.0 ---
+
+dravyaguṇakarmasāmānyaviśeṣasamavāyānāṃ ṣaṇṇāṃ padārthānāṃ sādharmyavaidharmyatattvajñānaṃ niḥśreyasahetur ity abhyupagamāt dravyādipadārthaṣaṭkasya yathāvaj jñānād ajñānanivṛttau ragādidoṣopaśame buddhisukhaduḥkhecchādveṣaprayatnadharmādharmasaṃskārāṇāṃ navānām ātmaguṇānāṃ dehasaṃyogajatvāt krameṇa nivṛttau yā muktiḥ sā buddhyādyuparame sati ātmanas tadvinākṛtasya kiṃcijjñatvoparamāj jaḍatārūpāṅgīkriyate tataḥ śavo api kiṃ na muktaḥ kalpyate tasyāpi buddhyādiguṇāviraheṇecchājñānādivinākṛtatvād iti bhāvaḥ ।। 
+atha saugatamuktinirācikīrṣayā tanmatam anubhāṣya dūṣayati ।।

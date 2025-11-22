@@ -1,0 +1,8 @@
+--- source: brssbh1u-Cleaned.txt | block: 14 | label: meter | g:0.25 m:0.55 ---
+
+ucyate- asti tāvadbrahma nityaśuddhabuddhamuktasvabhāvaṃ, sarvajñaṃ, sarvaśaktisamanvitam ।
+brahmaśabdasya hi vyutpādyamānasya nityaśuddhatvādayor'thāḥ pratīyante, bṛhaterdhātorarthānugamāt ।
+sarvasyātmatvācca brahmāstitvaprasiddhiḥ ।
+sarvo hyātmāstitvaṃ pratyeti, na nāhamasmīti ।
+yadi hi nātmāstitvaprasiddhiḥ syāt sarvo loko nāhamasmīti pratīyāt ।
+ātmā ca brahma ।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1363 | label: hybrid | g:0.5 m:0.5 ---
+
+kosalyā-hā debba tue kida-viḍaṃbaṃ samatthiaṃ baṇa-gadaṃ rāhava-kuṭuṃbaṃ ।

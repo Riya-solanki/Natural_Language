@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1157 | label: hybrid | g:0.5 m:0.5 ---
+
+stanau suvṛttāvatha magnacūcukau sthitau vijityeva gajasya kumbhau ।
+tvāṃ sarvajotāramiti pratarkya kucau smareṇaiva kṛtau sudurgau ।।

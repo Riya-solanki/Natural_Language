@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1669 | label: hybrid | g:0.5 m:0.5 ---
+
+ity atra indu-candrakāntādy-upamayā paratyakṣasya sneha-rūpa-vikārasya kathanāt tulya-tarkaḥ ।।

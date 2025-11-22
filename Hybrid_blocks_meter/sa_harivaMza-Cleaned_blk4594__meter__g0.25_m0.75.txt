@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4594 | label: meter | g:0.25 m:0.75 ---
+
+asakṛn nirjitā devāḥ sasādhyāḥ samarudgaṇāḥ 
+mayā balamadotsekāt sasainyena tavāśrayāt ।। 
+imaṃ deśaṃ samāgamya vasanti sma pure sukham । 
+te parājayasaṃtrastā nirāśā matparājaye 
+nākapṛṣṭham upāgamya nivasanti yathāsukham ।।

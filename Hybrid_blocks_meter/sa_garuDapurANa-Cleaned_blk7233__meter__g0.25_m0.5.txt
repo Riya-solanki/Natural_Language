@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7233 | label: meter | g:0.25 m:0.5 ---
+
+pretaḥ kaukṣipyate kasmātpañcaratnaṃ mukhe katham ।
+adhastāccālitā darbhāḥ pādau yāmyāṃ vyavasthitau ।।

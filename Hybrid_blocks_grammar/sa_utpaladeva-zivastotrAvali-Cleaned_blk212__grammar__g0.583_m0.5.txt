@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 212 | label: grammar | g:0.583 m:0.5 ---
+
+mahāprakāśavapuṣi vispaṣṭe bhavati sthite sarvato apīśa tat kasmāt tamasi prasarāmy aham ।।

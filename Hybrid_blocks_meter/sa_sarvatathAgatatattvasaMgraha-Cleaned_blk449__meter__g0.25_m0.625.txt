@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 449 | label: meter | g:0.25 m:0.625 ---
+
+"sumaha[ttvam" iti] prokte sarvabuddhābhiṣecanam ।
+"rūpodyote"- ti vai prokte dharmatejo bhaviṣyati ।।

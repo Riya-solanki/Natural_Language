@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 277 | label: grammar | g:0.75 m:0.5 ---
+
+agneṣ ṭe vācaṃ spṛṇomi svāhā । vātāt te prāṇaṃ spṛṇomi svāhā । sūryāt te cakṣu spṛṇomi svāhā । candrāt te mana spṛṇomi svāhā । digbhyas te jyoti spṛṇomi svāhā । adbhyas te rasaṃ spṛṇomi svāhā । asthibhyas te majjānaṃ spṛṇomi svāhā । snehebhyas te snāvānaṃ spṛṇomi svāhā । oṣadhībhyas te lomāni spṛṇomi svāhā । pṛthivyās te śarīraṃ spṛṇomi svāhā । antarikṣāt ta ākāśaṃ spṛṇomi svāhā । mānuṣāt ta ākāśād divyam ākāśaṃ spṛṇomi svāhā । indrāt te balaṃ spṛṇomi svāhā । somāt te rājñaḥ kīrttiṃ yaśaś ca spṛṇomi svāhā ।

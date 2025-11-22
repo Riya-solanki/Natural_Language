@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 54 | label: meter | g:0.32 m:0.567 ---
+
+atha pūrvasūtrādvedārthaparaṃ dharmapadamanuyujya codanālakṣaṇo vedārthaḥ ityekaṃ vākyam, artho dharmaḥ ityaparaṃ vākyam ।
+tadidaṃ svaprajñāvilasitamātram, anuṣaṅgavākyabhedayorvināphalamāśrayaṇāt ।
+apratijñātasya ca dharmasya lakṣaṇamasaṃgatam ।।

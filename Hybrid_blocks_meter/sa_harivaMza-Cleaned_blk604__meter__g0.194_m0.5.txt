@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 604 | label: meter | g:0.194 m:0.5 ---
+
+te prāpya tāṃ smṛtiṃ bhūyaḥ sāṃkhyayogam anuttamam 
+yānti yogagatiṃ siddhāḥ punar āvṛttidurlabhām ।।

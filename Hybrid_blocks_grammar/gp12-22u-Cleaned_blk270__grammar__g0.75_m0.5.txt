@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 270 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha yā kācid vṛndāvana-gahvarataḥ sākṣāt kila yogamāyāyā vyājatas tāpasyās tatra cāhvayataḥ paurṇamāsyāḥ samabhyarṇaṃ ahar-divaṃ prāyaḥ kimapi mantrāyituṃ āgantrī dṛśyate; yā ca mānuṣy api devīyamāneti vā devy api mānuṣīyamāṇeti vā lakṣayituṃ na śakyate kintu sad-ānukūlatayā tad-vana-pālitāsiṣā-dhayiṣita-kṛṣṇa-līlatā rādhādiṣu ca parama-sneha-latā yasyām anumīyate, sā vṛndāriketi nijākhyāṃ prakhyāpayanty api jana-vṛndena lāghavād vṛndeti svenaiva nāmnā samāmnāyate । sā ca samprati sarva-śocyatā-maya-tad-vārtā-śravaṇād atīvārtā tad-abhyāsam evābhyajagāma ।

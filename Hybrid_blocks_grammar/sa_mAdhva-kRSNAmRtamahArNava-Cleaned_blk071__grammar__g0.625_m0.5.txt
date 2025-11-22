@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 71 | label: grammar | g:0.625 m:0.5 ---
+
+he jihve mama nisnehe hariṃ kiṃ nuna bhāṣase hariṃ vadasva kalyāṇi saṃsārodadhinaur hariḥ ।।

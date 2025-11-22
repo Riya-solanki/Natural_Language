@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 373 | label: hybrid | g:0.5 m:0.5 ---
+
+atra dhīrodātta-dhīroddhatayoḥ rāma-bālinoḥ parasparaṃ yuddha-cikīrṣābhiprāya-yogād anyonya-parākramotkarṣa-varṇanāt saṃlāpaḥ ।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1786 | label: grammar | g:0.562 m:0.5 ---
+
+kṛśaḥ kāṇaḥ khañjaḥ śravaṇavikalaḥ puccharahitaḥ kṣudhākṣāmo jīrṇaḥ piṭharakakapālārpitagalaḥ ।
+vraṇaiḥ pūyaklinnaiḥ krimikulacitair ācitatanuḥ śunīm abhyeti śvā hatam api nihanty eva madanaḥ ।।

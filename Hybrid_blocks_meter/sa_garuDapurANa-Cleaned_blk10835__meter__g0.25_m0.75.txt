@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10835 | label: meter | g:0.25 m:0.75 ---
+
+jayādyānantaraṃ brahmā vallādyāḥ karmadevatāḥ ।
+śatavarṣānantaraṃ tu sṛṣṭavāñchivavāhanam ।।

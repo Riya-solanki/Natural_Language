@@ -1,0 +1,6 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2487 | label: meter | g:0.25 m:0.854 ---
+
+vajravegena cākramya caturthaṃ maṇḍalottamaṃ ।
+tatrasthaṃ ratnavṛṣṭyā tu vajraṃ ratnasamandhitaṃ ।।
+saṃlikheta yathāvattu karmamudrāparivṛtaṃ ।
+maṇicinhaprayogaistu yathāvadanupūrvaśaḥ ।।

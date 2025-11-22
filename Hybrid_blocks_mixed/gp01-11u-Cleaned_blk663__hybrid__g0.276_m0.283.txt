@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 663 | label: hybrid | g:0.276 m:0.283 ---
+
+[] garga uvāca-"bhavatu, bhavad-icchayā yadṛcchayā maṅgalaṃ saṅgamayiṣyate । tataḥ samaya-sammatatvād āpātatas tu nāma-karaṇam eva karavāṇi" iti svasti-vācanādy ācarya provāca tatrāgrajam uddiśya, yathā
+"īryeta praṇayādi-sad-guṇa-gaṇair etaṃ tathā bandhutā
+mukhyaṃ lokam aśeṣam eṣa ramayan rāmo, balitvād balaḥ ।
+kiṃ cāyaṃ bhavad-ādi-śūra-tanayādīnāṃ yadūnāṃ gaṇaṃ
+saṅkrakṣyaty ubhayatra bhāva-tulayā svaṃ tena saṅkarṣaṇaḥ ।। [śārdula]

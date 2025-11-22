@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 266 | label: meter | g:0.325 m:0.54 ---
+
+oṃ hrīṃ sarasvatyai namaḥ । oṃ hrāṃ hṛdayāya namaḥ । oṃ hrīṃ śirase namaḥ । 
+oṃ hrūṃ śikhāyai namaḥ ।
+oṃ hraiṃ kavacāya namaḥ ।
+oṃ hrauṃ netratrayāya namaḥ ।
+oṃ hraḥ astrāya namaḥ ।।

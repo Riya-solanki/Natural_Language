@@ -1,0 +1,11 @@
+--- source: simhrs_u-Cleaned.txt | block: 1894 | label: meter | g:0.26 m:0.673 ---
+
+atha prakaraṇam-
+yatretivṛttam utpādyaṃ dhīra-śāntaś ca nāyakaḥ ।
+rasaḥ pradhānaṃ śṛṅgāraḥ śeṣaṃ nāṭakavad bhavet ।। 
+tad dhi prakaraṇaṃ śuddhaṃ dhūrtaṃ miśraṃ ca tat tridhā ।
+kula-strī-nāyakaṃ śuddhaṃ mālatī-mādhavādikam ।। 
+gaṇikā-nāyikaṃ dhūrtaṃ kāmadattāhvayādikam ।
+kitava-dhyputakārādi-vyāpāraṃ tv atra kalpayet ।। 
+miśraṃ tat kulajā-veśye kalpite yatra nāyike ।
+dhūrta-śuddha-kramopetaṃ tan mṛcchakaṭikādikam ।।

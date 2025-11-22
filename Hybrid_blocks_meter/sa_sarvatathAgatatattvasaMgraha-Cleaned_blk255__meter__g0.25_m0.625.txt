@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 255 | label: meter | g:0.25 m:0.625 ---
+
+yaḥ kaścid dhārayennāmnāmidante aṣṭadaśataṃ śivam ।
+vajranāmābhiṣekādyaiḥ sarvāgraiḥ so abhiṣicyate ।।

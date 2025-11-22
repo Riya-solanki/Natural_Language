@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8460 | label: meter | g:0.306 m:0.5 ---
+
+krameṇa yāti sa pretaḥ puraṃ yāmyaṃ śubhāśubham ।
+atītya tānitānyeva mārge puravarāṇi ca ।।

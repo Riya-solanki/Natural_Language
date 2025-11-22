@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2129 | label: meter | g:0.25 m:0.5 ---
+
+tasya bhāryādvayaṃ caiva aditiḥ surabhis tathā 
+devakī rohiṇī caiva vasudevasya dhīmataḥ ।। 
+surabhī rohiṇī devī cāditir devakī tv abhūt । 
+tatrāvatara lokānāṃ bhavāya madhusūdana 
+jayāśīrvacanais tv ete vardhayanti divaukasaḥ ।।

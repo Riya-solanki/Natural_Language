@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8735 | label: meter | g:0.25 m:0.625 ---
+
+sūcitā bahavo anena viprā annādhikāṅkṣayā ।
+etatkāraṇamuddiśya eṣa sūcimukhaḥ smṛtaḥ ।।

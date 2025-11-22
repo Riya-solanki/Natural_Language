@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 125 | label: grammar | g:0.677 m:0.5 ---
+
+Q māyeyaṃ bahurūpatām upagatā nānā yathā te vibho vidyāpy evam anantabhedagahanā no cet kathaṃ syād idam ।
+Q naiḥsvābhāvyagamena ke cana pare vaiviktyataḥ ke api vā sārvātmyena pare taduttaradṛśā muktāḥ pare sarvatah ।।

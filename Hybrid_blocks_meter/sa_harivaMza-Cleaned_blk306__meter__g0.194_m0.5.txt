@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 306 | label: meter | g:0.194 m:0.5 ---
+
+devāś ca tuṣitā nāma smṛtāḥ svārociṣe antare 
+havirdhraḥ sukṛtir jyotir āpo mūrtir ayasmayaḥ ।।

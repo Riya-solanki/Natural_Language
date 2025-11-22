@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 770 | label: grammar | g:0.604 m:0.5 ---
+
+mukuṭaṃ valamālāṃ ca aindrādyāndhvajamukhyakān । kumudādyānviṣvaksenaṃ śriyā kṛṣṇaṃ sahārcayet । japyāddhyānātpūjanācca sarvānkāmānavānpuyāt ।

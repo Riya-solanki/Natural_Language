@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 627 | label: meter | g:0.0 m:1.0 ---
+
+vidhāyoparamedūrdhvaṃ vadanvighnairviruddhyate b

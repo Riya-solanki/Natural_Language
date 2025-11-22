@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 787 | label: grammar | g:0.75 m:0.5 ---
+
+evam anyathā cāsau brāhmaṇādhamas taṃ bodhisattvam parikliśya mahati karaṇḍe prakṣipya tena tena paribhraman vārāṇasīṃ nagarīm anuprāptaḥ ।। atha tasya bhujagapates tāṃ rūpasaṃpadam ālokya mahājanaḥ paramavismitamanās taṃ brāhmaṇaṃ mahatyā pūjayā pūjayām āsa ।।

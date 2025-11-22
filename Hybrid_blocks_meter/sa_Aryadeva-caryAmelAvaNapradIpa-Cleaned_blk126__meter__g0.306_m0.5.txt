@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 126 | label: meter | g:0.306 m:0.5 ---
+
+yatra kāyo na vākcittaṃ sthānaṃ yatsarvagaṃ param ।
+saṃpradāyavaśāt tatra svasya rūpaṃ vibhāvyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 590 | label: meter | g:0.194 m:0.625 ---
+
+liptaṃ pattraṃ ca tanmadhye bruḍantaṃ cordhvagaṃ kṣipet 
+śarāve'dhomukhe datte kaṇṭhaṃ nīrandhrayenmṛdā ।।

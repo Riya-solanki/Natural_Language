@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 428 | label: meter | g:0.25 m:0.5 ---
+
+sapta koṭyas tu vidyānāṃ mantrāṇām amitaujasām 
+eṣā hy ekā parā yonir mālinī sarvakāmadā ।।

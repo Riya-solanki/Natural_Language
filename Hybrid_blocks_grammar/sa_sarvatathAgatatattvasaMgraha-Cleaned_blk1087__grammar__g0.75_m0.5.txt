@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1087 | label: grammar | g:0.75 m:0.5 ---
+
+tato vajranāmābhiṣekandadyādanena mantreṇa । oṃ vajrakrodha tvāmabhiṣiṃcāmi vajranāmābhiṣekataḥ hevajra nāma ।। tato yasya yannāma kuryāt tasya heśabdaḥ prayoktavya iti ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3838 | label: grammar | g:0.646 m:0.5 ---
+
+tam evākrośeṣūccārayaṃs tam eva hṛdayena dhārayann ātmavadhāya bhagavadastacakrāṃśumālojjvalam akṣayatejaḥsvarūpaṃ paraṃ brahmasvarūpam apagatarāgadveṣādidoṣaṃ bhagavantam adrākṣīt ।।

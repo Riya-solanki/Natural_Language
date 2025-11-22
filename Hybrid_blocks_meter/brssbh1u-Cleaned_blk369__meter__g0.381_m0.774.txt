@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 369 | label: meter | g:0.381 m:0.774 ---
+
+vaiśvānarasya devasya sumatau śobhanabuddhau vayaṃ syāma bhavema ।
+tasyāsmadvaṣayā sumatirbhavatvityarthaḥ ।

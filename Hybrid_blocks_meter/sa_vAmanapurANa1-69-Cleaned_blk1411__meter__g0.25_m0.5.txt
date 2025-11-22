@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1411 | label: meter | g:0.25 m:0.5 ---
+
+vinodanārthaṃ pārvatyā mṛnmayaḥ śūladhṛg haraḥ ।
+kṛtastu tejasā yukto bhadramastviti sābravīt ।।

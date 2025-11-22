@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 656 | label: hybrid | g:0.521 m:0.5 ---
+
+kāryāṇi rājñāṃ niyatāni yāni lābhe pṛthivyāḥ paripālane ca ।
+nātyeti kālastava tāni nityaṃ teṣāṃ kramo dharmasukhāni yadvat ।।

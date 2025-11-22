@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1980 | label: meter | g:0.302 m:0.663 ---
+
+atha sadṛśa-nirdeśaḥ-
+sadṛśaḥ sadṛśo vācyo vayasyety āhvayena vā । 
+haleti sakhyā tu sakhī kathanīyā sakhīti vā ।।

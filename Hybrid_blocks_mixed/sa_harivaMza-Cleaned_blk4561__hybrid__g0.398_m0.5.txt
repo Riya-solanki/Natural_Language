@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4561 | label: hybrid | g:0.398 m:0.5 ---
+
+priyas te ahaṃ mahābāho priyo me asi dhanaṃjaya 
+tena te kathayiṣyāmi nānyathā vaktum utsahe । 
+vetsyase māṃ yathātattvaṃ tad vyākhyāsyāmi te anagha ।।

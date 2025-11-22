@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 33 | label: grammar | g:0.646 m:0.5 ---
+
+tad etad vāṅmayaṃ bhūyaḥ saṃskṛtaṃ prākṛtaṃ tathā apabhraṃśāś ca miśraṃ cety āhur āryāś caturvidhaṃ ।।

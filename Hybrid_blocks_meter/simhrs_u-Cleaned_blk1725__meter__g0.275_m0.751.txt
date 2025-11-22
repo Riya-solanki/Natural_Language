@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1725 | label: meter | g:0.275 m:0.751 ---
+
+atha mālā-
+īpsitārtha-prasiddhy-arthaṃ kathyante yatra sūribhiḥ । 
+prayojanāny anekāni sā mālety abhidhīyate ।।

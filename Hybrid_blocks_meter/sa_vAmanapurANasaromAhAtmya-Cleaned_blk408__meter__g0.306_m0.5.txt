@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 408 | label: meter | g:0.306 m:0.5 ---
+
+tataḥ pāriplavaṃ gacchet tīrthaṃ trailokyaviśrutam ।
+tatra snātvā ca dṛṣṭvā ca brahmāṇaṃ vedasaṃyutam ।।

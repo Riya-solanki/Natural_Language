@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 956 | label: meter | g:0.194 m:0.5 ---
+
+kīṭalūtās tu bhūtāś ca apamṛtyur na tiṣṭhati 
+garajaṃ yogajaṃ doṣaṃ pralayaṃ yānti dūrataḥ ।।

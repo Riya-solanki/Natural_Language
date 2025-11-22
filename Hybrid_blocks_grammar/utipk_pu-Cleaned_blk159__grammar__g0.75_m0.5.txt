@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 159 | label: grammar | g:0.75 m:0.5 ---
+
+śuktikājñānakāle ca na pūrvaṃ rajatajñānam asti । tataḥ sa dharmī na siddha iti nānumānena bādhā, ekapramātṛmayasvasaṃvedane tv ekadeśāvaṣṭambhyubhayajñānamayasaṃbandhabhāsanāt sidhyati । paścātsaṃvādaḥ pratyakṣasvasaṃvedane pūrvasyāpi tasya bhāsanād ekaṃ pramāṇam itarad anyatheti bhavati । saṃvādo apy ekapramātṛkṛtaḥ ।।

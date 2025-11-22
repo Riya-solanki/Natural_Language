@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10471 | label: meter | g:0.307 m:0.623 ---
+
+evaṃ stutvā devadevo hariṃ ca tūṣṇīṃ sthitaḥ prāñjalirnamrabhūrdhā ।
+tadanantarajo brahmā ahaṅkārika ūcivān ।।

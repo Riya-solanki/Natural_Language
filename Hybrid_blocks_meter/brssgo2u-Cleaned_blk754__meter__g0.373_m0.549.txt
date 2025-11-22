@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 754 | label: meter | g:0.373 m:0.549 ---
+
+evaṃ tāvacchāstrārthavattvādibhirhetubhiḥ kartṛtvaṃ śārīrasya pradarśitaṃ, tatpunaḥ svābhāvikaṃ vā syādupādhinimittaṃ veti cintyate ।
+tatraitaireva śāstrārthavattvādibhirhetubhiḥ svābhāvikaṃ kartṛtvamapavādahetvabhāvāditi ।

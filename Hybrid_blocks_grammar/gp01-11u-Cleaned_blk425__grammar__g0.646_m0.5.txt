@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 425 | label: grammar | g:0.646 m:0.5 ---
+
+[] atha māgha-māsi cāsita-pratipadi kṛta-sarva-sukha-prasara-janyāṃ rajanyāṃ sā vraja-rājaṃ sevyamānā tandrāparatantrāyamāṇā svapna-tulyatā-saṃcitaṃ kiñcid añcitaṃ dadarśa ।

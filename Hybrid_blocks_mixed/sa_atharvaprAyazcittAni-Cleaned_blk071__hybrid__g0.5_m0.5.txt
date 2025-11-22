@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 71 | label: hybrid | g:0.5 m:0.5 ---
+
+iti gārhapatyād adhy āhavanīya udatantuṃ niṣiñcan iyāt ।।

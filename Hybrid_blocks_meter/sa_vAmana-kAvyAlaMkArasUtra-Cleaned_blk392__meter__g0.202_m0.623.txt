@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 392 | label: meter | g:0.202 m:0.623 ---
+
+dīpakavannidarśanamapi saṃkṣiptamityāha 
+kriyayaiva svatadarthānvayakhyāpanaṃ nidarśanam ।।
+kriyayaiva śuddhayā svasyātmanastadarthaḥ cānvayasya saṃbandhasya khyāpanaṃ saṃlulitahetudṛṣṭāntavibhāgadarśanānnidarśanam । yathā

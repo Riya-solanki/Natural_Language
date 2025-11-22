@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 419 | label: meter | g:0.083 m:0.526 ---
+
+{rājā} - devi citradarśanāt prabhṛti prahṛṣṭodvignām iva tvāṃ paśyāmi 
+kim idam 
+{padmāvatī} - ayyautta imāe paḍikidīe sadisī iha evva paḍivasadi 
+[āryaputra asyāḥ pratikṛtyāḥ sadṛśīhaiva prativasati । ]

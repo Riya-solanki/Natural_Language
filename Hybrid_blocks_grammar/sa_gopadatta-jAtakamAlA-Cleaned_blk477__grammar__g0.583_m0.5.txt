@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 477 | label: grammar | g:0.583 m:0.5 ---
+
+atha bodhisattvas tasya puruṣasya pravacanapratodena saṃcoditahṛdayas tāṃ parajugupsām ātmany anupaśyann āha ।

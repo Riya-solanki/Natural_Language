@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1988 | label: meter | g:0.194 m:0.75 ---
+
+malaya-giri-nivāsī māruto yacchatāṅgas
+taruṇa-śiśira-raśmir yat suhṛt-puṇya-kīrtiḥ ।
+carati ciram anaṅgaḥ kvāpi kari apy adṛśyaḥ
+sa jayatu rasikaughair vanditaḥ pañcabāṇaḥ ।।

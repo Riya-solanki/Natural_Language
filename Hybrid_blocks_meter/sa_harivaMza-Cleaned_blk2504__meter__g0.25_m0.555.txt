@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2504 | label: meter | g:0.25 m:0.555 ---
+
+nandagopamukhā gopās te sarve sāśrulocanāḥ 
+idaṃ kiṃ tv iti saṃbhrāntāḥ kasyedaṃ karma ceti vai । 
+hāhākāraṃ prakurvantas tasthus tīre hradasya vai ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1267 | label: meter | g:0.25 m:0.5 ---
+
+sā śaṅkarāt svatejoṃ'śaṃ janayiṣyati yaṃ sutam ।
+sa haniṣyati daityendraṃ mahiṣaṃ sapadānugam ।।

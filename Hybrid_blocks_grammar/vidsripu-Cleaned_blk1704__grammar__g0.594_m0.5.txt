@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1704 | label: grammar | g:0.594 m:0.5 ---
+
+kāmaṃ śīrṇapalāśasaṃhatikṛtāṃ kanthāṃ vasāno vane kuryām ambubhir apy ayācitasukhaiḥ prāṇāvabandhasthitim ।
+sāṅgaglāni savepitaṃ sacakitaṃ sāntarnidāghajvaraṃ vaktuṃ na tv aham utsaheya kṛpaṇaṃ dehīty avadyaṃ vacaḥ ।।

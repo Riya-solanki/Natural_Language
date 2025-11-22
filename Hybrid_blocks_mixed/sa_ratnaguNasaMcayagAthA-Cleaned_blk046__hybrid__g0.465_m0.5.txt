@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 46 | label: hybrid | g:0.465 m:0.5 ---
+
+saci gaṅgavālukasamāni sthihitva kalpāṃ sattveti śabda parikīrtayi nāyako ayam 
+sattvasyupādu kutu bheṣyati ādiśuddho eṣā sa prajñavarapāramitāya caryā ।।

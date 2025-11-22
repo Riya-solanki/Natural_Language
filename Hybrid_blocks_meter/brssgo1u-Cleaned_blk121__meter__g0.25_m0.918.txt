@@ -1,0 +1,11 @@
+--- source: brssgo1u-Cleaned.txt | block: 121 | label: meter | g:0.25 m:0.918 ---
+
+FN kāryasaṃbandhaṃvināpi anumeyā iti ।
+buddhau yaḥ pratibimbaḥ sa tādṛśabimbapūrvakaḥ pratibimbatvāt ।
+darpaṇe mukhābhāsādityanumānam ।
+vyākaraṇamīmāṃsānyāyāḥ padavākyapramāṇāni ।
+vākyābhāseṣu yuktyābhāseṣu ca vipratipattiryeṣāṃ te ।
+jñānakriyāṃprati jñādhātvarthaṃprati, svātantryaṃ kartṛtvam ।
+ādipadena jñeyajñātrādisaṃgrahaḥ ।
+pradhānādeḥ kāraṇatvaṃ tarkapāde yuktibhirnirasyati ।
+brahmaṇaḥ kāraṇatvaṃ smṛtipāde samarthyate ।

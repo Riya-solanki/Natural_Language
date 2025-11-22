@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 100 | label: meter | g:0.306 m:0.5 ---
+
+sampaccalaṃ naśvarayauvanaṃ ca prāṇā bhaveyuryamadantamadhye ।
+upekṣate tatra sukhaṃ na ceha janaḥ prapātastha ivāsti cāndhaḥ ।।

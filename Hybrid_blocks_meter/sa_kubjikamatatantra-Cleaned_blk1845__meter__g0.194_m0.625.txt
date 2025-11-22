@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1845 | label: meter | g:0.194 m:0.625 ---
+
+chagalaṇḍaṃ tu vaṃśasthaṃ dviraṇḍaṃ nābhimaṇḍale 
+hṛdaye tu mahākālam aṣṭakaṃ purato anyathā ।।

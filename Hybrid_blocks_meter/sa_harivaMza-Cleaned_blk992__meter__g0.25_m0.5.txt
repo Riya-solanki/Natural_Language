@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 992 | label: meter | g:0.25 m:0.5 ---
+
+ete tv aṅgirasaḥ putrā jātā vaṃśe atha bhārgave 
+brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca bharatarṣabha ।। 
+karmabhis te tapomūlaiḥ sthitāḥkurukulodvaha । 
+suhotrasya bṛhat putro bṛhatas tanayās trayaḥ 
+ajamīḍho dvimīḍhaś ca purumīḍhaś ca vīryavān ।।

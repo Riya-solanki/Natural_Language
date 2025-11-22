@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8808 | label: meter | g:0.25 m:0.625 ---
+
+ubhayorvā prabhorvāpi bālanogneḥ śuno api vā ।
+kastatra paramo yajñaḥ kṛmiviḍbhasmasaṃjñake ।।

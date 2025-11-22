@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 178 | label: meter | g:0.306 m:0.5 ---
+
+nirvikalpo yadā viraḥ sthitiṃ hitvā tu laukikīm ।
+ācaret sarvakāryāṇi buddhāḥ paśyanti tat tadā ।।

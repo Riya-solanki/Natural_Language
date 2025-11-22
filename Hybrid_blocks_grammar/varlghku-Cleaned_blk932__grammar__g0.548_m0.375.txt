@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 932 | label: grammar | g:0.548 m:0.375 ---
+
+striyāṃ ktin ।।
+strīliṅge bhāve ktin syāt । kṛtiḥ । । kīrṇiḥ । dhūniḥ । । vipat । । vipattiḥ ।।

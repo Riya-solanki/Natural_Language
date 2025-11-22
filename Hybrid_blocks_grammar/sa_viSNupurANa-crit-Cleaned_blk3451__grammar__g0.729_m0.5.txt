@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3451 | label: grammar | g:0.729 m:0.5 ---
+
+tatra cāśeṣaśilpiśilpapraṇetāraṃ dhātāram ivānyaṃ viśvakarmāṇam āhūya sakalakanyānām ekaikasyāḥ protphullapaṅkajāḥ kūjatkalahaṃsakāraṇḍavādi vihaṃgamābhirāmajalāśayāḥ sopavanāḥ sāvakāśāḥ sādhuśayyāparicchadāḥ prāsādāḥ kriyantām ity ādideśa ।।

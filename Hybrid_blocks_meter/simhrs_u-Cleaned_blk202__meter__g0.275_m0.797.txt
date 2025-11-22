@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 202 | label: meter | g:0.275 m:0.797 ---
+
+atha saukumāryam-
+yā sparśāsahatāṅgeṣu komalasyāpi vastunaḥ । 
+tat saukumāryaṃ tredhā syān mukhya-madhyādhama-kramāt ।।

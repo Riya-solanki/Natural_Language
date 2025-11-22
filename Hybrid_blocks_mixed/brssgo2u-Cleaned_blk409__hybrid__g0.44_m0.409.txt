@@ -1,0 +1,9 @@
+--- source: brssgo2u-Cleaned.txt | block: 409 | label: hybrid | g:0.44 m:0.409 ---
+
+evaṃ prāpte brūmaḥ - anābhāva upalabdheḥ' iti ।
+na khalvabhāvo bāhyasyārthasyādhyavasātuṃ śakyate ।
+kasmāt ।
+upalabdheḥ ।
+upalabhyate hi pratipratyayaṃ bāhyor'thaḥ stambhaḥ kuḍyaṃ ghaṭaḥ paṭa iti ।
+nacopalabhyamānasyaivābhāvo bhavitumarhati ।
+yathā hi kaścidbhuñjāno bhujitasādhyāyāṃ tṛptau svayamanubhūyamānāyāmevaṃ brūyānnāhaṃ bhuñje na vā tṛpyāmīti, tadvadindriyasaṃnikarṣeṇa svayamupalabhamāna eva bāhyamarthaṃ nāhamupalabhe naca so astīti bruvankathamupādeyavacanaḥ syāt ।

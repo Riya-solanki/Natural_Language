@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 849 | label: hybrid | g:0.5 m:0.5 ---
+
+athaikāgnau yatra puroḍāśā uktā sthālīpākāṃs tatra kuryāt ।

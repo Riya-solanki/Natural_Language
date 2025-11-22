@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 254 | label: meter | g:0.25 m:0.5 ---
+
+atra priyatamāliṅgana-saudha-jyotsnādi-guṇaiḥ surata-glāni-vyālopanād uttara-suratotsāha-rūpā dīptiḥ pratīyate ।

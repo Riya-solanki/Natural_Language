@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 677 | label: grammar | g:0.562 m:0.5 ---
+
+kiṃ hāsyena na me prayāsyasi punaḥ prāptaścirāddarśanaṃ keyaṃ niṣkaruṇa pravāsarucitā kenāsi dūrīkṛtaḥ ।
+svapnānteṣviti te vadan priyatamavyāsaktakaṇṭhagraho buddhvā roditi riktabāhuvalayastāraṃ ripustrījanaḥ ।।

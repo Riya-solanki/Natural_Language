@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 3 | label: grammar | g:0.646 m:0.5 ---
+
+arcitaḥ saṃsmṛto dhyātaḥ kīrtitaḥ kathitaḥ śrutaḥ yo dadāty amṛtatvaṃ hi sa māṃ rakṣatu keśavaḥ ।।

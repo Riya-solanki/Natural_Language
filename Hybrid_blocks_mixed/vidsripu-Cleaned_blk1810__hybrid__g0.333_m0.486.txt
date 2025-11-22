@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1810 | label: hybrid | g:0.333 m:0.486 ---
+
+aviditaguṇāpi satkavibhaṇitiḥ karṇeṣu vamati madhudhārām ।
+anadhigataparimalāpi hi harati dṛśaṃ mālatīmālā ।।
+subandhoḥ

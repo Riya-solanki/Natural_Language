@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 798 | label: meter | g:0.25 m:0.75 ---
+
+kāyavākcittavajreṣu svakīyāḥ paramāṇavaḥ ।
+bhāvayanvajravimbāni vajrātmā bhave[tkṣipraṃ] ।।

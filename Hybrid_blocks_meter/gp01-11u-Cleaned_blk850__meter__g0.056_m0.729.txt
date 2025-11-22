@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 850 | label: meter | g:0.056 m:0.729 ---
+
+śaṅke svāduṅkāram itthaṃ sadā tvaṃ
+yajñāṅgīyaṃ lekṣi haiyaṅgavīnam ।
+evaṃ coraṅkāram ambā śiśuṃ taṃ
+praty ākrośanty ārdra-cittā babhūva ।। [śālinī]

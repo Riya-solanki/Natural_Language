@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10985 | label: meter | g:0.328 m:0.595 ---
+
+ataḥ sa prajñayā pūrṇo bhaviṣyati na saṃśayaḥ ।
+avatārāstrayo vāyormataṃ bhāgavatābhidham ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2865 | label: meter | g:0.319 m:0.892 ---
+
+śrīgaruḍamahāpurāṇam- 
+yājñavalkya uvāca ।
+atha śrāddhavidhiṃ vakṣye sarvapāpapraṇāśanam ।
+amāvasyāṣṭakāvṛddhikṛṣṇapakṣāyanadvayam ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 566 | label: meter | g:0.25 m:0.521 ---
+
+yāvān ajani nirodhas tāvaty utkāpi saṃvavṛdhe ।
+kṛṣṇa-premavatīṣu śvāsānila-līnatāṃ yātā ।। [upagīti]
+yadyapi manasi samiddhā hari-pariripsā tathāpi tābhiḥ sā ।
+āvriyate sma vicārais tatir iva vahneḥ sad-indhana-prakaraiḥ ।। [gīti]

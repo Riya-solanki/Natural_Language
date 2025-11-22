@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 519 | label: meter | g:0.25 m:0.813 ---
+
+samavisamaṇivvisesā samantao mandamandasaṃcārā ।
+airā hohinti pahā maṇorahāṇaṃ pi dullaṅghā ।।
+samaviṣamanirviśeṣāḥ samantato mandamandasañcārāḥ ।
+acirādbhaviṣyanti panthāno manorathānāmapi durlaṅghyāḥ ।।
+iti chāyā ।

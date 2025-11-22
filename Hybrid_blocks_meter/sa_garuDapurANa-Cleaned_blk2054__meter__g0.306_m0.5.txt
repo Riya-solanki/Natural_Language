@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2054 | label: meter | g:0.306 m:0.5 ---
+
+ardhādhikau dvau vahato asya mūlyaṃ tribhiḥ śatairapyadhikaṃ sahasram ।
+dvimāṣa konmānitagauravasya śatāni cāṣṭau kathitāni mūlyam ।।

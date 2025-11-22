@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 151 | label: hybrid | g:0.542 m:0.5 ---
+
+atha sa viṣayavyāvṛttātmā yathāvidhi sūnave nṛpatikakudaṃ datvā yūne sitātapavāraṇam ।।

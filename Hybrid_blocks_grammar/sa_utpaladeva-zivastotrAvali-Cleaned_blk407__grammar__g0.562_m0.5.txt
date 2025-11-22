@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 407 | label: grammar | g:0.562 m:0.5 ---
+
+sadāmurttād amūrttādvā bhāvād yad vāpy abhāvataḥ uttheyān me praśastasya bhavatpūjāmahotsavaḥ ।।

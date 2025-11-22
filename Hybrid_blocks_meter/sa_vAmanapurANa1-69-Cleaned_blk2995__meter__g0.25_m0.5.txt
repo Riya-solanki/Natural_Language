@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2995 | label: meter | g:0.25 m:0.5 ---
+
+padānyaṣṭau tato gatvā meghagambhīrayā girā ।
+sthitvā provāca daityendro mahādevaṃ sa hetumat ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11248 | label: hybrid | g:0.521 m:0.5 ---
+
+maulyena ye kathayeyuḥ purāṇaṃ teṣāṃ gatiḥ sūrya sunaḥ sadaiva ।
+maulyena ye bhāgavataṃ purāṇaṃ śṛṇvanti vai hariśāstrārthatattvam ।।

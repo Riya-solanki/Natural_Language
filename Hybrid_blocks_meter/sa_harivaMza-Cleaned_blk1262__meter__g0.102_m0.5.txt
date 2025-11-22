@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1262 | label: meter | g:0.102 m:0.5 ---
+
+yūpān samit srucaṃ somaṃ pavitraṃ paridhīn api 
+yajñiyāni ca dravyāṇi yajñāṃś ca cayanānalān 
+sadasyāny ajamānāṃś ca medhādīṃś ca kratūttamān ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1335 | label: meter | g:0.194 m:0.625 ---
+
+anyathā sakalā lokās tathā daiteyadānavāḥ 
+anuyāsyanti mūḍhasya matam asya durātmanaḥ ।।

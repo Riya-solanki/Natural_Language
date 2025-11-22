@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2687 | label: meter | g:0.25 m:0.625 ---
+
+ihaiva janmani padaṃ yadīcchet sauritvaṃ śubhaṃ ।
+ātmanastena kāmedaṃ na cetsiddhiryathopari ।।

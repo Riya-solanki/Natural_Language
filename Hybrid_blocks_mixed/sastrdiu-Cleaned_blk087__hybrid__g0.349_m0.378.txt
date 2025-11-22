@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 87 | label: hybrid | g:0.349 m:0.378 ---
+
+yadi paraṃ kāryatvavyāvṛttiḥ syāt sā cāyuktetyuktaṃ prāk ।
+bhavatu vā vākyabhedāṅgīkāreṇa dharmalakṣaṇārthamapi sūtram ।
+tathāpi codanālakṣaṇāpadena kāryātmakamapūrvamuddiśya tasya dharmatvamucyata iti vo matam, tatra śyenādiyāgasya kaḥ prasaṅgo yadvyāvṛttyarthamarthapadaṃ syāt ।
+nahi jyotiṣṭomādiyaigasyāpi dharmatvamasti, apūrvasya dharmatvābhyupagamāt ।।

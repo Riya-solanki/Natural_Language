@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1695 | label: meter | g:0.0 m:0.75 ---
+
+pādakṛc carmakāraḥ syād vyokāro lohakārakaḥ

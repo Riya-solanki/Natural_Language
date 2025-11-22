@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 11 | label: grammar | g:0.656 m:0.5 ---
+
+yad yūtena yudhiṣṭhirasya vihitaṃ yad viṣṇunā vā baler yac chukreṇa dhanādhipasya kalinā rājño nalasyāpi yat ।
+saṃbhūyāpi ca yat surāsurabalair unmathya pāthonidher veśyā paśyata līlayaiva kurute tat tad gṛhe kāminām ।।

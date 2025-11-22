@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 971 | label: meter | g:0.306 m:0.5 ---
+
+paścādapi jñāsyasi yo ahamasmi ghaṭaṃ tvidaṃ kretumito ghaṭasva ।
+na ced bhayaṃ te paralokaduḥkhādihaiva tīvravyasanāgamādvā ।।

@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 337 | label: meter | g:0.0 m:1.0 ---
+
+kṛta-pūraṇa-varti-tṛṣṇa-
+śrī-kṛṣṇa-janma-sampan-mayam

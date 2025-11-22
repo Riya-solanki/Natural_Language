@@ -1,0 +1,3 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 194 | label: grammar | g:0.667 m:0.5 ---
+
+puraḥ pāṇḍucchāyaṃ tadanu kapilimnā kṛtapadaṃ tataḥ pākotsekādaruṇaguṇasaṃsargitavapuḥ । śanaiḥ śoṣārambhe sthapuṭanijaviṣkambhaviṣamaṃ vane vītāmo badaramarasatvaṃ kalayati ।।

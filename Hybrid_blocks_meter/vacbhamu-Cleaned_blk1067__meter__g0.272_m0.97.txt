@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 1067 | label: meter | g:0.272 m:0.97 ---
+
+yannyāyakaṇikātattvasamīkṣātattvabindubhiḥ ।
+yannyāyasāṃkhyayogānāṃ vedāntānāṃ nibandhanaiḥ ।।

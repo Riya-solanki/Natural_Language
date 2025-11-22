@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 654 | label: meter | g:0.25 m:0.5 ---
+
+samudrād dviguṇaḥ śākaḥ śākād dugdhābdhiruttamaḥ ।
+dviguṇaḥ saṃsthito yatra śeṣaparyaṅkago hariḥ ।
+ete ca dviguṇāḥ sarve parasparamapi sthitāḥ ।।

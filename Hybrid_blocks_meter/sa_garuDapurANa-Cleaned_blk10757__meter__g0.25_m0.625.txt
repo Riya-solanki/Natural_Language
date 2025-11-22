@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10757 | label: meter | g:0.25 m:0.625 ---
+
+saṃsāre vāndhatamasi sarvatra haridūṣakaḥ ।
+mithyādāne jñānabuddhirduḥ khe ca sukhabuddhimān ।।

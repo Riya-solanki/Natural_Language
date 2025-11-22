@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7891 | label: meter | g:0.25 m:0.625 ---
+
+tiryaktvaṃ tamasā janturvāsanānugato abudhaḥ ।
+māturlabdhvā punarjanma mriyate ca punaḥ punaḥ ।।

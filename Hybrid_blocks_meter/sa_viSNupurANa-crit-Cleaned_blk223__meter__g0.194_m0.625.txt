@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 223 | label: meter | g:0.194 m:0.625 ---
+
+ye tu jñānavidaḥ śuddhacetasas te akhilaṃ jagat 
+jñānātmakaṃ prapaśyanti tvadrūpaṃ parameśvara ।।

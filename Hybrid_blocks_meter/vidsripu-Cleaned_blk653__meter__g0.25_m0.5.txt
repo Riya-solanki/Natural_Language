@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 653 | label: meter | g:0.25 m:0.5 ---
+
+paśyasi nakhasambhūtāṃ rekhāṃ varatanu payodharopānte ।
+kiṃ vāsasā stanāntaṃ ruṇatsi himarucikṛte vacmi ।।

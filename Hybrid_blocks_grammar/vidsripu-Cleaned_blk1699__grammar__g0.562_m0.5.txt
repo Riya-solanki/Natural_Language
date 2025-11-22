@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1699 | label: grammar | g:0.562 m:0.5 ---
+
+yadāsīd ajñānaṃ smaratimirasaṃskārajanitaṃ tadā dṛṣṭaṃ nārīmayam idam aśeṣaṃ jagad api ।
+idānīṃ tv asmākaṃ paṭutaravivekāñjanajuṣāṃ samībhūtā dṛṣṭis tribhuvanam api brahma manute ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5009 | label: meter | g:0.194 m:0.5 ---
+
+āścaryaś caiva nānyo asti kṛṣṇaś cāścaryasaṃnidhiḥ 
+sarveṣv āścaryakalpeṣu nāsty āścaryam avaiṣṇavam ।।

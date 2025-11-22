@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 31 | label: grammar | g:0.75 m:0.5 ---
+
+[] athedam ākarṇya nirvarṇanata eva jñāpitānujñā-nija-samāje śrīman-nanda-rāje sarvānumati-labdhānandaḥ śrīmān upanandaḥ prathita-samajñān samaya-jñān jijñāsayāmāsa । tair api budha-śravaṇa-sukha-prada-maṅgala-śravaṇa-saṅgata-budha-śravaṇa-viśiṣṭhāyām abahula-bāhulāṣṭamyāṃ bahulā-pālanaṃ bahulam etad iṣṭam ity ādiṣṭam । [] śrīman-nandādayaś ca sarve dundubhi-nirghoṣeṇa ghoṣe tasmin nirviśeṣam ahas-tritayam ahamahamikayā mahaḥ pracārayantas, tad-vatsa-cāraṇa-bṛhad-utsavam apy aticarantas tat samācaranti sma ।

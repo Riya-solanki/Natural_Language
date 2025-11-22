@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4076 | label: meter | g:0.194 m:0.75 ---
+
+tatra tā varahemābhā dadarśa madhusūdanaḥ 
+gandharvāsuramukhyānāṃ priyā duhitaras tathā ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 340 | label: meter | g:0.25 m:0.863 ---
+
+hara uvāca ।
+kimarthaṃ devatānāthau paribhūtakramaṃ tviha ।
+māṃ stuvāte bhṛśāsvasthaṃ kāmatāpitavigraham ।।

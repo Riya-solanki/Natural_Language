@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3661 | label: meter | g:0.25 m:0.75 ---
+
+asāmarthye śarīrasya putrādīnkārayedvratam ।
+vratasthaṃ mūrchitaṃ vipraṃ jalādīnyanupāyayet ।।

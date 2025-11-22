@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 679 | label: meter | g:0.0 m:0.5 ---
+
+nanu brahmacedatra vaktavyaṃ kṛtaṃ jīvaparāmarśenetyuktamityata āha-

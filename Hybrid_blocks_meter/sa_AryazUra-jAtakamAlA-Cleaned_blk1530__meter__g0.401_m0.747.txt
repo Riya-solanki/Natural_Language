@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1530 | label: meter | g:0.401 m:0.747 ---
+
+saṃdṛśyamānavapureva tu pārśvato māṃ tatsādhvanuvraja dṛḍhaṃ hyasi śaṅkanīyaḥ ।
+yāvadbahupratibhayādgahanāditastvāṃ grāmāntapaddhatimanupratipādayāmi ।।

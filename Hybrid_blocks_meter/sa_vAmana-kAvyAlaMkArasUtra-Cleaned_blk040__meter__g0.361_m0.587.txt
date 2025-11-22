@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 40 | label: meter | g:0.361 m:0.587 ---
+
+evaṃ kāvyāṅgānyupadarśya, kāvyaviśeṣajñānārthamāha 
+kāvyaṃ gadyaṃ padyaṃ ca ।।
+gadyasya pūrvaṃ nirdeśo durlakṣyaviṣayatvena durbandhatvāt । yathāhuḥ gadyaṃ kavīnāṃ nikaṣaṃ vadanti iti ।।

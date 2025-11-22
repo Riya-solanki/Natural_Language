@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1042 | label: meter | g:0.253 m:0.684 ---
+
+pulastya uvāca ।
+māsi cāśvayuje brahman yadā padmaṃ jagatpateḥ ।
+nābhyā niryāti hi tadā deveṣvetānyatho abhavan ।।

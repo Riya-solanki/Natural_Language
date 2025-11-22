@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3217 | label: meter | g:0.194 m:0.75 ---
+
+sa dṛṣṭvā sarvaniryuktaṃ prekṣāgāraṃ nṛpottamaḥ 
+śreṇīnāṃ dṛḍhasaṃyuktair mañcavāṭair nirantaram ।।

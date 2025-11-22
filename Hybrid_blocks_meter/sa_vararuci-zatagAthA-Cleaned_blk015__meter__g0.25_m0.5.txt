@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 15 | label: meter | g:0.25 m:0.5 ---
+
+yadudeti vinā sūrya tejasvi tanna jāyate ।
+sūryodayo varaṃ cāsti hyanyeṣāmudayena kim ।।

@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 497 | label: meter | g:0.33 m:0.781 ---
+
+athāśru-
+viṣāda-roṣa-santoṣā-dhūmādyair aśru tat-kriyāḥ ।
+bāṣpa-bindu-parikṣepa-netra-saṃmārjanādayaḥ ।।

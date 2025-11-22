@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1076 | label: meter | g:0.328 m:0.595 ---
+
+adhyāpakaṃ samyagadhītavedaṃ tapasvisambhāvanayā mahatyā ।
+arcantu taṃ jānapadāḥ sametya biseṣu lubdho na guṇeṣu yaste ।।

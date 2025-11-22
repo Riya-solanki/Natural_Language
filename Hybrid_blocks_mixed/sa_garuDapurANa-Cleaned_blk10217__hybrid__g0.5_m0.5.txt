@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10217 | label: hybrid | g:0.5 m:0.5 ---
+
+uttiṣṭha govinda suvedavedya sovyātkṛtākhyo mayi samyak prasīda ।
+bho keśavottiṣṭha sukhasvarūpa sṛṣṭau vyaye vartayituṃ samarthaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1965 | label: meter | g:0.25 m:0.5 ---
+
+sa tatra puṃskokilanādite vane manoharodyānavimānabhūṣite ।
+cacāra puṣpānatacitrapādape priyāsahāyaḥ sukṛtīva nandane ।।

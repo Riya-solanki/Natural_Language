@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 577 | label: grammar | g:0.582 m:0.255 ---
+
+yattu vijñānaghana evaitebhyo bhūtebhyaḥ samutthāya tānyevānuvinaśyati na pretya saṃjñāsti ityanena brāhmaṇena bhūtacaitanyamuktamityāśaṅkyate tatsvayameva brāhmaṇenātreva mā bhagavanmohāntaṃ prāpitavānpūrvamajarāmṛtvamabhidhāyādhunā vināśītyabhidhānāditi pūrvapakṣaṃ codyākhyamuktvā siddhāntaparihāra uktaḥ ।
+avināśī vā are ayamātmānucchittidharmā ityuktvā kathaṃ tarhi vināśavacanamityāśaṅkya mātrāsaṃsargatvasya bhavatītyuktam ।
+mātrāśabdena bhūtendriyāṇi dharmādharmau ca vikāraśabdavācyā ucyante ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7556 | label: meter | g:0.25 m:0.625 ---
+
+prayoga pūrvaṃ bhartāraṃ namaskṛtyāruheccitim ।
+citibhraṣṭā tu yā mohātsā prājāpatyamācaret ।।

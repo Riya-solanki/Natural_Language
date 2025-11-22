@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 164 | label: grammar | g:0.646 m:0.5 ---
+
+anāśān asvantān sulabhavinipātapratibhayān savairān sodvegān saparibhavasaṃtāpavirasān । parityajyāyuṣman vyasanaviśikhāpātavihatān bhavān samyagmārgaṃ bhavabhayaharaṃ bhāvaya sadā ।।

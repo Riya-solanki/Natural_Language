@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4433 | label: meter | g:0.194 m:0.5 ---
+
+yā tvam evaṃ mahādehaiḥ śvāpadair upaśobhitā 
+hradinī sāgaraṃ yāsi rakṣantī tāpasālayān ।।

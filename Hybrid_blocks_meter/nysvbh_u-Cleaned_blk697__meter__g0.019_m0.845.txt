@@ -1,0 +1,13 @@
+--- source: nysvbh_u-Cleaned.txt | block: 697 | label: meter | g:0.019 m:0.845 ---
+
+yatra rūpaṃ ca dravyaṃ ca tadāśrayaḥ pratyakṣata
+upalabhyate, rūpaviśeṣastu yadbhāvāt kvacidrūpopalabdhiḥ
+yadabhāvācca dravyasya kvacidanupalabdhiḥ sa
+rūpadharmoyamudbhavasamākhyāta iti, anudbhūtarūpaścāyaṃ
+nāyano raśmiḥ tasmāt pratyakṣato nopalabhyate
+iti।
+dṛṣṭaśca tejaso dharmabhedaḥ udbhūtarūpasparśaṃ
+pratyakṣaṃ tejo yathādityaraśmayaḥ, udbhūtarūpamanudbhūtasparśaṃ
+ca pratyakṣam yathā pradīparaśmayaḥ, udbhūtasparśamanudbhūtarūpamapratyakṣaṃ
+yathābādisaṃyuktaṃ tejaḥ, anudbhūtarūpasparśo apratyakṣaścākṣuṣo
+raśmiriti ।।

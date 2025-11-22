@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1768 | label: grammar | g:0.656 m:0.5 ---
+
+adhvanyasya vadhūr viyogavidhurā bhartuḥ smarantī yadi prāṇān ujjhati kasya tan mahad aho saṃjāyate kilbiṣam ।
+ity evaṃ pathikaḥ karoti hṛdaye yāvat taror mūrdhani prodghuṣṭaṃ parapuṣṭayā tava tavety uccair vaco anekaśaḥ ।।

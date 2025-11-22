@@ -1,0 +1,9 @@
+--- source: bhassv_u-Cleaned.txt | block: 420 | label: hybrid | g:0.166 m:0.334 ---
+
+{rājā} - kiṃ vāsavadattāyāḥ 
+{padmāvatī} - āma 
+{rājā} - tena hi śīghram ānīyatām 
+{padmāvatī} - ayyautta mama kaṇṇābhāve keṇa vi bahmaṇeṇa mama bhaiṇiatti ṇṇāso ṇikkhitto 
+posidabhattuā parapurusadaṃsaṇaṃ pariharadi 
+tā ayyaṃ mae saha āadaṃ pekkhia jāṇādu ayyautto 
+[āryaputra mama kanyābhāve kenāpi brāhmaṇena mama bhaginiketi nyāso nikṣiptaḥ । proṣitabhartṛkā parapuruṣadarśanaṃ pariharati । tad āryāṃ mayā sahāgatāṃ dṛṣṭvā jānātv āryaputraḥ । ]

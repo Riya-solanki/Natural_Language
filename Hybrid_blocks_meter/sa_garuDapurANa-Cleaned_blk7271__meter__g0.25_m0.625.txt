@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7271 | label: meter | g:0.25 m:0.625 ---
+
+sadyo vilambato vā kiṃ dehamanyaṃ prapadyate ।
+saṃyamanyāṃ kramyamāṇamāvarṣaṃ kā mṛtikriyā ।।

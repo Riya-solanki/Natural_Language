@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1405 | label: meter | g:0.333 m:0.5 ---
+
+mālāprativastūpamāvat mālāvyatireko api saṃbhavati । tasyāpi bhedā evamūhyāḥ । diṅmātramudāhriyate । yathā

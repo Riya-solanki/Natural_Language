@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1024 | label: meter | g:0.194 m:0.75 ---
+
+tam upavrajitā sā tava goṣṭhī strī
+tatir api gāsyati bimboṣṭhī ।
+upayānaṃ tad-vādya-vitānam
+gāli-prāyaṃ tad api ca gānam ।।

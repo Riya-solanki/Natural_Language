@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 128 | label: meter | g:0.056 m:0.521 ---
+
+netraṃ śrotraṃ cittam apy anyad anyat
+tucchaṃ yasmin bhāti kṛṣṇaṃ vinā tu ।
+ghoṣe tasmiṃś cakṣuṣaś cakṣur evaṃ
+śrautī vārtā paśya dṛśyā vibhāti ।। [śālinī]

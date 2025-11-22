@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8837 | label: meter | g:0.306 m:0.5 ---
+
+garbhe naṣṭe kriyā nāsti dugdhaṃ deyaṃ mṛte śiśau ।
+paraṃ ca pāyasaṃ kṣīraṃ dadyādvalavipattitaḥ ।।

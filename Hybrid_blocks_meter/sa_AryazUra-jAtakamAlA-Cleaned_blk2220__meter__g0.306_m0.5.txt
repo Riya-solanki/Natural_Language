@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2220 | label: meter | g:0.306 m:0.5 ---
+
+uddhṛtya śalyena sahaiva tasya duḥkhaṃ ca tatsaṃjanitāṃ śucaṃ ca ।
+prītaḥ sa śalyoddharaṇādyathāsīt prītaḥ saśalyoddharaṇāttathāsīt ।।

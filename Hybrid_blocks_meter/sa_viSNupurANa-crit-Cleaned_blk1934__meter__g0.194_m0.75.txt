@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1934 | label: meter | g:0.194 m:0.75 ---
+
+naivāstamanam arkasya nodayaḥ sarvadā sataḥ 
+udayāstamanākhyaṃ hi darśanādarśanaṃ raveḥ ।।

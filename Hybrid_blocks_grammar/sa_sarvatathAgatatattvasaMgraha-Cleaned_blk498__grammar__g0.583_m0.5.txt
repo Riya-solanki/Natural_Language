@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 498 | label: grammar | g:0.583 m:0.5 ---
+
+tataḥ punaḥ kavacāntaṃ mālābandhaṃ kṛtvā, samatālayā toṣayedanena hṛdayena vajra tuṣya hoḥ ।।

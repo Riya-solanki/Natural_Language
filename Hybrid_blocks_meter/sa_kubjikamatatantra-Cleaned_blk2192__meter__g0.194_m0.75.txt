@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2192 | label: meter | g:0.194 m:0.75 ---
+
+gopitaṃ sarvatantreṣu dvīpāmnāyena gopitam 
+dvīpākṣaraṃ tathā vāraṃ tithinakṣatrasaṃyutam ।।

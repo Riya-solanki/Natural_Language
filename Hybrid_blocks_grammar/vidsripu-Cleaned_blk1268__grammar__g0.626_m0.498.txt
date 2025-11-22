@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1268 | label: grammar | g:0.626 m:0.498 ---
+
+utpattir jamadagnitaḥ sa bhagavān devaḥ pinākī gurus tyāgaḥ saptasamudramudritamahīnirvyājadānāvadhiḥ ।
+śauryaṃ yac ca na tadgirāṃ pathi nanu vyaktaṃ hi tat karmabhiḥ satyaṃ brahmataponidher bhagavataḥ kiṃ nāma lokāntaram ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 314 | label: meter | g:0.194 m:0.5 ---
+
+tāmasasya manor ete daśa putrā mahābalāḥ 
+vāyuproktā mahārāja caturthaṃ caitad antaram ।।

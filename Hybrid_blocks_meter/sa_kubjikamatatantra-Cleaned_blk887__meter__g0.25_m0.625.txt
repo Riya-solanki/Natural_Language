@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 887 | label: meter | g:0.25 m:0.625 ---
+
+mantrasannaddhadehas tu sarvāvastho api sādhakaḥ 
+tiṣṭhan jāgran svapan gacchan bhuñjāno maithune rataḥ ।।

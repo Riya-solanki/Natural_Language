@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 72 | label: hybrid | g:0.414 m:0.542 ---
+
+yasya kasyacidvarṇyamānasya vastuno varṇanīyatvena svabhāva eva varṇyaśarīram ।
+sa eva cedalaṅkāro yadi vibhūṣaṇaṃ tatkimaparaṃ tadvyatiriktaṃ vidyate yadalaṅkurute vibhūṣayati ।
+svātmānamevālaṅkarotīti cettadayuktam anupapatteḥ ।
+yasmādātmaiva nātmanaḥ skandhaṃ kvacidapyadhirohati, śarīrameva śarīrasya na kutracidapyasamadhirohatītyarthaḥ, svatmani kriyāvirodhāt ।
+anyaccābhyupagamyāpi brūmaḥ

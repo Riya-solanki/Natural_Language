@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 182 | label: meter | g:0.306 m:0.625 ---
+
+te tasya kāyamāsādya amoghā vai hareḥ śarāḥ ।
+nipeturbhuvi bhagnāśā nāstikādiva yācakāḥ ।।

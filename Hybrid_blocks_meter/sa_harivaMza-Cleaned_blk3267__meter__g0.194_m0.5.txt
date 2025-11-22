@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3267 | label: meter | g:0.194 m:0.5 ---
+
+atīva tvaṃ hi loke asmin patidharmavatī satī 
+śuddhā keśānvidhunvantī bhāṣase yad yad icchasi ।।

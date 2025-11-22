@@ -1,0 +1,6 @@
+--- source: brssbh3u-Cleaned.txt | block: 617 | label: meter | g:0.25 m:0.884 ---
+
+satyaṃ gamyante ।
+smṛtyācārābhyāṃ tu teṣāṃ prasiddhirna pratyakṣaśruteḥ ।
+ataśca pratyakṣaśrutivirodhe satyanādaraṇīyāste bhaviṣyanti ।
+anadhikṛtaviṣayā vā ।

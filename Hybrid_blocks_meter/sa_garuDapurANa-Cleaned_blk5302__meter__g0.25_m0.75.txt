@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5302 | label: meter | g:0.25 m:0.75 ---
+
+mṛdvagninā pacedetgavyakṣīreṇa saṃyutam ।
+ajamodādikaṃ tailaṃ gaṇḍamālāṃ vyapohati ।।

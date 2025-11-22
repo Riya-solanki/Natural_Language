@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5343 | label: meter | g:0.25 m:0.5 ---
+
+yadi tvaṃ dayitā bhartur yadi vaśyaḥ patis tava 
+madbhartur harato vṛkṣaṃ tat kāraya nivāraṇam ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4346 | label: meter | g:0.25 m:0.5 ---
+
+vanustambasya jajñāte stambaḥ stambavanaś ca ha 
+nivāsano vanastambaḥ kanyā stambavatī tathā । 
+upāsaṅgasya tu sutau vajraḥ sukṣipra eva ca ।।

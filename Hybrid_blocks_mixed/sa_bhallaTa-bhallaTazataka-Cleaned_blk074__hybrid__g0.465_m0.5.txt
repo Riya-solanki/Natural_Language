@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 74 | label: hybrid | g:0.465 m:0.5 ---
+
+tanutṛṇāgradhṛtena hṛtaś ciraṃ ka iva tena na mauktikaśaṅkayā 
+sa jalabindur aho viparītadṛg jagad idaṃ vayam atra sacetanāḥ ।।

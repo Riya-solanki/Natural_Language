@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 283 | label: hybrid | g:0.5 m:0.5 ---
+
+amuṣmin saṃnaddhe jalamuci samabhyasya katicit kakārān paryantadviguṇamatarephaprasavinaḥ ।
+sa mādhyandātyūhaś calavipulakaṇṭhaḥ prasarati kramodañcattāraḥ kramavaśanaman mandamadhuraḥ ।।

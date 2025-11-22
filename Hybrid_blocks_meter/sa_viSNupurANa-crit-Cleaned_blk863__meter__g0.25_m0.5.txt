@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 863 | label: meter | g:0.25 m:0.5 ---
+
+yatra yatra yayau devī sā tadā bhūtadhāriṇī 
+tatra tatra tu sā vainyaṃ dadṛśe abhyudyatāyudham ।।

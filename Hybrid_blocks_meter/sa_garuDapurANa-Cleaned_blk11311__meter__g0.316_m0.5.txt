@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11311 | label: meter | g:0.316 m:0.5 ---
+
+dvātriṃśatkaṃ lakṣaṇaṃ brahmaṇopi tadbhāratyāḥ pravadantyeva satyam ।
+tathā ca śaṅkā samameva cakriṇetyevaṃ sadāmā kuru nirṇayaṃ bruve ।।

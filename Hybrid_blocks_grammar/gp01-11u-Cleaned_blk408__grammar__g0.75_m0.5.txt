@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 408 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhukaṇṭha uvāca-tena vratena pūrṇe varṣe bṛṃhite ca tarṣe yugapad eva deva-devaḥ svapne tayor āvirbabhūva, covāca ca-aho ! mayy atisaktau bhaktau kathaṃ nirvidya khidyāthe ? yo' sāv atasī-kusuma-suṣamaḥ sukumāraḥ kumāraḥ śaśvad evānubhavator bhavatoḥ kumāratayā sphurati । sa tu sadā bhavator evānugataḥ pratikalpaṃ svabhakti-pravartanāya divi mat-pravartita-droṇa-dharā-rūpa-kalāṃśa-kalāvatoḥ tad bhūri bhāgyaṃ ity ādi-rītyā brahmādy-alabhya-sākṣāt-tat-phala-sākṣātkārāya svayam eva pṛthivyāṃ bhavator bhavator eva bhavaṃ labhata eva æ acirād eva ca rucirā rucireṣā yuvayoḥ saphalatāṃ valitā ।

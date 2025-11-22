@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 28 | label: meter | g:0.364 m:0.518 ---
+
+tadevamadhyāsasvarūpaṃ phalaṃ ca vyavahāramuktvā tasya nimittamāha - itaretarāvivekena iti ।
+vivekagrahaṇenetyarthaḥ ।
+atha aviveka eva kasmānna bhavati, tathā ca nādhyāsa ityata āha - atyantaviviktayordharmadharmiṇoḥ ।
+paramārthato dharmiṇoratādātmyaṃ vivekaḥ dharmāṇāṃ cāsaṃkīrṇatā vivekaḥ ।

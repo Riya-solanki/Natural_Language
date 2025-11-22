@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7490 | label: meter | g:0.25 m:0.5 ---
+
+bhojanāsanadānena sukhaṃ mārge bhunakti vai ।
+pradeśe nirjale dātā sukhī syādvai kamaṇḍaloḥ ।।

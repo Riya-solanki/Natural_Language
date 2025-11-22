@@ -1,0 +1,8 @@
+--- source: brssgo3u-Cleaned.txt | block: 517 | label: meter | g:0.25 m:0.617 ---
+
+gaterarthavattvaṅkvacitsaguṇavidyāyāṃ mārgaḥ śrūyate nirguṇavidyāyāṃ na śrūyate ।
+tatra hānasaṃnidhau mārgasya śrutatvādanapekṣitatvācca saṃśaye dṛṣṭāntasaṃgatyā pūrvapakṣamāha-yathā tāvaditi ।
+upāyanavanmargasyāpi kvacicchrutatvātsarvatropasaṃhāra ityarthaḥ ।
+atra nirguṇavido api muktyarthaṃ mārgāpekṣā pūrvapakṣe, siddhānte tvanapekṣeti phalam ।
+deśādivyavahitavastuprāptau mārgasyāpekṣetinyāyānugṛhītaśrutivirodhānnopasaṃhāra iti siddhāntaḥ ।
+nirañjano asaṅgaḥ, sāmyaṃ brahma ।।

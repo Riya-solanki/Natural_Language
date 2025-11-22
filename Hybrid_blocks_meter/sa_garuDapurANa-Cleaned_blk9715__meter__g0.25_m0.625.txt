@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9715 | label: meter | g:0.25 m:0.625 ---
+
+dvādaśāhe tataḥ kuryānmāsemāse pṛthakpathak ।
+evaṃ vidhiḥ samāyuktaḥ pretamokṣe karoti hi ।।

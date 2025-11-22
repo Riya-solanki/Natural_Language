@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 646 | label: hybrid | g:0.5 m:0.5 ---
+
+[] vasudeva uvāca-"tatas tatra-bhavatā nanda-vraja-bhūvaṃ vrājaṃ vrājaṃ mithaḥ saṃyutau navyau nija-yajamāna-sutau dvijāti-jāti-samucita-prakāreṇa saṃskāreṇa puraskartavyau, kintūpanayanopayamane yathā tasyāṃ na syātāṃ, tathā prayatanīyam ।"

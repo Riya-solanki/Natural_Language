@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1717 | label: meter | g:0.194 m:0.625 ---
+
+so agniṃ devamukhe dṛṣṭvā cakārātmamukheśayam 
+vāyuṃ ca tarasā jitvā cakārātmavaśānugam ।।

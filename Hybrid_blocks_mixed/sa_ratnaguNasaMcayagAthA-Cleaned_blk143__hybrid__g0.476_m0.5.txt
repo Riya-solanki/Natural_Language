@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 143 | label: hybrid | g:0.476 m:0.5 ---
+
+nāvā yathā aparikarmakṛtā samudre vilayamupaiti sadhanā saha vāṇijebhiḥ 
+sā caiva nāva parikarmakṛtā suyuktā na ca bhidyate dhanasamagramupaiti tīram ।।

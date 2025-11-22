@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 715 | label: grammar | g:0.604 m:0.5 ---
+
+sutanu jahihi maunaṃ paśya pādānataṃ māṃ na khalu tava kadācit kopa evaṃvidho abhūt ।
+iti nigadati nāthe tiryag āmīlitākṣyā nayanajalam analpaṃ muktam uktaṃ na kiṃcit ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4670 | label: meter | g:0.25 m:0.5 ---
+
+bhavitā sa hi te bhartā śūraḥ śatrunibarhaṇaḥ 
+ity uvāca tato hṛṣṭā devī tava manogatam ।।

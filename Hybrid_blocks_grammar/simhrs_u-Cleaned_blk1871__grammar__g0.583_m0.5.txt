@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1871 | label: grammar | g:0.583 m:0.5 ---
+
+ity ādau nepathya-gatair eva pātraiḥ sītā-jvalana-praveśa-nirgamādīnām arthānāṃ prayogānucitānāṃ sūcanād iyaṃ cūlikā ।

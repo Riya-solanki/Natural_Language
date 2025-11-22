@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 47 | label: meter | g:0.25 m:0.5 ---
+
+evaṃ sa niścitya parārthasiddhyai prāṇātyaye apyāpatitapramodaḥ ।
+manāṃsi dhīrāṇyapi devatānāṃ vismāpayansvāṃ tanumutsasarja ।।

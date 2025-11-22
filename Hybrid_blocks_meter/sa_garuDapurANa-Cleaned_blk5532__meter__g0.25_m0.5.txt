@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5532 | label: meter | g:0.25 m:0.5 ---
+
+aśvagandhābhaye caiva udakena samaṃ pibet ।
+raktapittaṃ vinaśyettu nātra kāryā vicāraṇā ।।

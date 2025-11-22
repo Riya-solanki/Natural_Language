@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 680 | label: meter | g:0.3 m:0.605 ---
+
+sūtrāntaramavatārayituṃ codayati- nanvaguṇatve satīti ।
+aṇurātmā na śarīravyāpīti na sarvāṅgīṇaśaityopalabdhiḥ syādityarthaḥ ।
+avirodhaścandanavat ।
+tvaksaṃyukto hi jīvaḥ tvakca sakalaśarīravyāpinīti tvagvyāpyātmasaṃbandhaḥ sakalaśaityopalabdhau samartha ityarthaḥ ।।

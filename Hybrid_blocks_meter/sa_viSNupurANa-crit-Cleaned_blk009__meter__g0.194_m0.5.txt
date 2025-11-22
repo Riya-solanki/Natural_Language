@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 9 | label: meter | g:0.194 m:0.5 ---
+
+sadakṣaraṃ brahma ya īśvaraḥ pumān guṇormisṛṣṭisthitikālasaṃlayaḥ 
+pradhānabuddhyādijagatprapañcasūḥ sa no astu viṣṇur matibhūtimuktidaḥ ।।

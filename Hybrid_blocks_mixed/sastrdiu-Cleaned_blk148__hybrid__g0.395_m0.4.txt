@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 148 | label: hybrid | g:0.395 m:0.4 ---
+
+nanu tantupaṭādiṣu dravyāntarotpattirevābhimatā, anyathā hyavayavyapalāpaḥ syāt ।
+nāvayavinamapahnumahe, dravyāntarotpattiṃ tu necchāmaḥ pratipattyabhāvāt ।
+tantava eva hi saṃyogaviśeṣādekadravyatāmāpadyante, avayavī ca bhavanti tādṛśāśca paṭajātiṃ sthaulyaṃ ca bibhrata ekapaṭasthūlabuddhyā gṛhyanta iti laukikī pratipattiḥ ।
+ato na dravyasya kadācidāgamo apāyo vā, ghaṭapaṭagavāśvaśuklaraktādyavasthānāmevāgamāpāyau ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1331 | label: meter | g:0.194 m:0.5 ---
+
+varadānena bhagavan vadhiṣyati sa no asuraḥ 
+tat prasīdasva bhagavan vadho asya pravicintyatām ।।

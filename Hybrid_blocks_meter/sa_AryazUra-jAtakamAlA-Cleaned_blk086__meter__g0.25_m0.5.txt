@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 86 | label: meter | g:0.25 m:0.5 ---
+
+dhanāni lakṣmīpratibodhanāni śrīmanti ratnāni payasvinīrgāḥ ।
+rathān vinītāṃśca yujaḥ prayaccha madorjitaśrīlalitān dvipānvā ।।

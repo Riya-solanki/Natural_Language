@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1579 | label: meter | g:0.056 m:0.979 ---
+
+{dhātuḥ śilpātiśayanikaṣasthānameṣā mṛgākṣī
+rūpe devo apyayamanupamo dattapatraḥ smarasya ।
+jātaṃ daivātsadṛśamanayoḥ saṃgataṃ yat tadeta-
+cchṛṅgārasyopanatamadhunā rājyamekātapatram ।।}

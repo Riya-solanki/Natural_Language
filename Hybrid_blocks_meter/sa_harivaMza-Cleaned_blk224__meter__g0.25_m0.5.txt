@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 224 | label: meter | g:0.25 m:0.5 ---
+
+pṛthus tasmāt samuttasthau karāj jvalanasaṃnibhaḥ 
+dīpyamānaḥ svavapuṣā sākṣād agnir iva jvalan ।। 
+sa dhanvī kavacī jātaḥ pṛthur eva mahātapāḥ । 
+ādyam ājagavaṃ nāma dhanur gṛhya mahāravam 
+śarāṃś ca divyān rakṣārthaṃ kavacaṃ ca mahāprabham ।।

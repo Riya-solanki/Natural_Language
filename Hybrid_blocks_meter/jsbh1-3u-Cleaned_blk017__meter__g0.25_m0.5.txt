@@ -1,0 +1,3 @@
+--- source: jsbh1-3u-Cleaned.txt | block: 17 | label: meter | g:0.25 m:0.5 ---
+
+teṣv adarśanād virodhasya samā vipratipattiḥ syāt ।

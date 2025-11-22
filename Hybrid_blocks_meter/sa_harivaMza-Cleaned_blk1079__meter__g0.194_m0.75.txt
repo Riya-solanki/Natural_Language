@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1079 | label: meter | g:0.194 m:0.75 ---
+
+upamadgus tathā madgur mṛdaraś cārimejayaḥ 
+arikṣepas tathopekṣaḥ śatrughno athārimardanaḥ ।।

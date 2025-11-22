@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11963 | label: meter | g:0.25 m:0.75 ---
+
+tulasīvandanaṃ kuryācchrīviṣṇuṃ saṃsmaretkhaga ।
+viṇmūtrotsargakāle ca hyapānātmakakeśavam ।।

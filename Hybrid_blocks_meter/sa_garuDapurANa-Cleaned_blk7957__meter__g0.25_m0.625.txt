@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7957 | label: meter | g:0.25 m:0.625 ---
+
+santaptako dvijaḥ kiñcidbhayasantrastamānasaḥ ।
+kāndiśīkaḥ samabhavaḍh yadbhaviṣyo yayau punaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 19 | label: hybrid | g:0.521 m:0.5 ---
+
+tenābhivarṇā janatā praṇītā mārgaś ca nairyāṇikataḥ prayuktaḥ ।
+atra sthitaḥ atra ca śikṣamāṇo nāyaṃ martyaḥ paralokād bibheti ।।

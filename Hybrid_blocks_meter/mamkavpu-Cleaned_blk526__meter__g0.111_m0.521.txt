@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 526 | label: meter | g:0.111 m:0.521 ---
+
+{hādhika sā kila tāmasī śaśimukhī dṛṣṭā mayā yatra sā
+tadvicchedarujāndhakāritamidaṃ dagdhaṃ dinaṃ kalpitam ।
+kiṃ kurmaḥ kuśale sadaiva vidhuro dhātā na cettatkathaṃ
+tādṛgyāmavatīmayo bhavati me no jīvalokodhunā ।।}

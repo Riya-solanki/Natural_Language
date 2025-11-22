@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5476 | label: meter | g:0.25 m:0.625 ---
+
+māhiṣaṃ navanītañca tvakīkṛtya bhiṣagvaraḥ ।
+samūlāni sa patrāṇi kṣīreṇājyena peṣayet ।।

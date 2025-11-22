@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 875 | label: meter | g:0.194 m:0.5 ---
+
+na hi pūrvavisarge vai viṣame pṛthivītale 
+pravibhāgaḥ purāṇāṃ vā grāmāṇāṃ vā tadābhavat ।।

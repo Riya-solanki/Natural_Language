@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 132 | label: hybrid | g:0.5 m:0.5 ---
+
+-vyabhicāriṇāmapi sitanīlādiṣu cakṣurādīnāṃ bodhakatvena prāmāṇyamityā de tatroktam ।

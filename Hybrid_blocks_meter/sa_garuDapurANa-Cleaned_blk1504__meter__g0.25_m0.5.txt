@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1504 | label: meter | g:0.25 m:0.5 ---
+
+saṃkrāntyādiṣu kāleṣu dattaṃ bhavati cākṣayam ।
+prayāgādiṣu tīrtheṣu gayāyāṃ ca viśeṣataḥ ।।

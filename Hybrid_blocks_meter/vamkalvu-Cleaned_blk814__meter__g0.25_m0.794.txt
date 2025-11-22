@@ -1,0 +1,6 @@
+--- source: vamkalvu-Cleaned.txt | block: 814 | label: meter | g:0.25 m:0.794 ---
+
+bhavanti yatraupadhayo rajanyāmatailapūrāḥ suratapradīpāḥ ।
+dyūtaṃ hi nāma puruṣasyā'siṃhāsanaṃ rājyam । 
+nidreyakamalā lakṣmīḥ ।
+hastī hi jaṅgamaṃ durgam ।

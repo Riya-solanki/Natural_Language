@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 10 | label: meter | g:0.272 m:0.674 ---
+
+samāhāraḥ svaratiḥ ।।
+sa navavidho api pratyekamanunāsikatvānanunāsikatvābhyāṃ dvidhā ।।

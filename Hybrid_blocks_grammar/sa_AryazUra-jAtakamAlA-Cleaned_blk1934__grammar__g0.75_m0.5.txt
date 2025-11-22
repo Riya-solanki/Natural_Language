@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1934 | label: grammar | g:0.75 m:0.5 ---
+
+atha te puruṣāḥ krameṇa tatsaraḥ samupetya tasmin vinītadharmatarṣaklamā yathākathitaṃ tena mahātmanā tadavidūre hastiśarīraṃ naciramṛtaṃ dadṛśuḥ । teṣāṃ buddhirabhavat - aho yathāyaṃ sadṛśastasya dviradapaterhastī ।

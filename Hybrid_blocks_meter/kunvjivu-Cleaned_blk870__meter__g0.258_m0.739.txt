@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 870 | label: meter | g:0.258 m:0.739 ---
+
+vivakṣitaparispandamanohāritvasiddhaye ।
+vastunaḥ kenacitsāmyaṃ tadutkarṣavatopamā ।।
+tāṃ sādhāraṇadharmoktau vākyārthe vā tadanvayāt ।
+ivādirapi vicchittyā yatra vakti kriyāpadam ।।

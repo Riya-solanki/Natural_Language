@@ -1,0 +1,3 @@
+--- source: brssbh2u-Cleaned.txt | block: 802 | label: meter | g:0.25 m:0.5 ---
+
+iti śrīmadbrahmasūtraśāṅkarabhāṣye avirodhākhyo dvitīyo adhyāyaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11685 | label: meter | g:0.25 m:0.75 ---
+
+vanamālābhisaṃyuktaṃ vajrapuṅkhaiśca saṃyutam ।
+etādṛśīṃ darermūrti lakṣmīnārāyaṇaṃ viduḥ ।।

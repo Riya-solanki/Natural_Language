@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 26 | label: meter | g:0.295 m:0.565 ---
+
+hiraṇyagarbho bhagavān uṣitvā parivatsaram 
+tad aṇḍam akarod dvaidhaṃ divaṃ bhuvam athāpi ca ।।

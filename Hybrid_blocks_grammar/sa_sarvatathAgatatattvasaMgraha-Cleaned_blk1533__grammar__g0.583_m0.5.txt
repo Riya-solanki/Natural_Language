@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1533 | label: grammar | g:0.583 m:0.5 ---
+
+[atha vajrā]nilo dūtaḥ svahṛdayamadāt । oṃ vajrānila mahāvegānaya sarvaduṣṭān huṃ phaṭ ।।

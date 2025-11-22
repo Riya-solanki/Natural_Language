@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2251 | label: meter | g:0.194 m:0.5 ---
+
+tathānyair jantubhir bhūpa śibikottho na kevalam 
+śailadrumagṛhottho api pṛthivīsaṃbhavo api vā ।।

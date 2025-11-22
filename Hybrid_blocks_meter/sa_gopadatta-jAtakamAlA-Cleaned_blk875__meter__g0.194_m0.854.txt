@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 875 | label: meter | g:0.194 m:0.854 ---
+
+manye darśanam eva tad guṇavatāṃ teṣām avandhyodayaṃ
+sarvākāraparopakāramadhuraṃ pūrvābhisaṃskārajam ।
+pradveṣopahatāśayān api janān saṃprāpayaty uttamaṃ
+sthānaṃ sarvabhavopasargavigamād ekāntaśāntaṃ śivam ।।

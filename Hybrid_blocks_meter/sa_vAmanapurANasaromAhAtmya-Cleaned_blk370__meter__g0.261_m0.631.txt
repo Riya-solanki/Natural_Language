@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 370 | label: meter | g:0.261 m:0.631 ---
+
+mārkaṇḍeya uvāca
+ādyaṃ brahmasaraḥ puṇyaṃ tato rāmahvadaḥ smṛtaḥ ।
+kuruṇā ṛṣiṇā puṣṭaṃ kurukṣetraṃ tataḥ smṛtam ।
+tasya madhyena vai gāḍhaṃ puṇyā puṇyajalāvahā ।।

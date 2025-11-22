@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 469 | label: meter | g:0.194 m:0.625 ---
+
+vijitās tridaśā daityair indrādyāḥ śaraṇaṃ yayuḥ 
+pitāmahaṃ mahābhāgaṃ hutāśanapurogamāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 14 | label: hybrid | g:0.486 m:0.5 ---
+
+saci rupa saṃjña api vedana cetanā ca vijñāna skandha caratī aprajānamāno 
+imi skandha śūnya parikalpayi bodhisattvo caratī nimittaanupādapade asakto ।।

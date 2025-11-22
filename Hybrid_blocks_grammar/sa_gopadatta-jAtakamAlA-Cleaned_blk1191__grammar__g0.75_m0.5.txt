@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1191 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa mahātmā tena durviṣaheṇa paravyasanenopataptamānasaḥ svaprāṇātyayam avigaṇayya niṣpratikāradāruṇāṃ tāṃ mahājanavyāpattim avetya kṛpāparigatātmā prakṛtidhīratayā tadavastho apy asaṃbhrāntacetās tatkālātiśayadhyāyinā vacasā tān sahāyān āśvāsayann abravīt ।

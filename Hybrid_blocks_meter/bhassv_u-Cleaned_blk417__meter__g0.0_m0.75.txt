@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 417 | label: meter | g:0.0 m:0.75 ---
+
+{dhātrī} - pekkhadu pekkhadu bhaṭṭidāriā 
+[paśyatu paśyatu bhartṛdārikā । ]

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 639 | label: hybrid | g:0.5 m:0.5 ---
+
+[] snigdhakaṇṭha uvāca-athāgrajānujān anu vrajasya rājā viviveca, "bālaka-yugalam idam apṛthag-ālayālambanatām eva nitarām arhati, yatas tadīya-jananyoḥ svayam eva tal-lālanāya lālasā-dhanyayos, tatra ca paraspara-tad-āsaktayor nānā-spṛha-gṛha-kārya-paryāpaṇa-vyasanayor yugapat tad-yugalasya pṛthag-avakalanaṃ durbalam iti kevalaṃ sudināgamana-vilambatām avalambe । yathā vā bhavatām icchā bhavati" iti śrutvā śrutajñāḥ śrotriyān āśrāvya tadaiva daivānukūlyaṃ nibhālya samam udyad-vādya-parīta-gīta-svasti-vācanādi-praśasti-pūrvakaṃ dvayor apūrva-milanam āśu kalayāmāsuḥ । tac ca yathā-

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10539 | label: meter | g:0.25 m:0.625 ---
+
+tanmadhye patitāṃ pāhi sadā mitrasamāṃ prabho ।
+tārānantarajaḥ prāha nirṛtiśca khageśvara ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6188 | label: meter | g:0.328 m:0.595 ---
+
+sarvādimadhyāntagalau mnau bhyau jrau stau trikā gaṇāḥ ।
+āryā catuṣkalādyantasarvamadhye caturgaṇāḥ ।।

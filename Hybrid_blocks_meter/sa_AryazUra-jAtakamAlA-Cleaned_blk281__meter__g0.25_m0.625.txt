@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 281 | label: meter | g:0.25 m:0.625 ---
+
+samadhigatamidaṃ mayātitheyaṃ hṛdaya vimuñca yato viṣādadainyam ।
+samupanatamanena satkariṣyāmyahamatithipraṇayaṃ śarīrakeṇa ।।

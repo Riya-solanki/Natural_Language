@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1159 | label: grammar | g:0.583 m:0.5 ---
+
+dūraṃ yadi kṣipasi bhīmajavair marudbhiḥ saṃcūrṇayasy api dṛḍhaṃ yadi vā śilābhiḥ ।
+saudāminībhir asakṛd yadi haṃsi cakṣur nānyā gatis tad api vārida cātakasya ।।

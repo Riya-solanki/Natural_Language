@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3877 | label: grammar | g:0.75 m:0.5 ---
+
+ajamīḍhasyānyaḥ putro bṛhadiṣuḥ । tato bṛhaddhanus tataś ca bṛhatkarmā tasmāj jayadrathas tato api viśvajit । tataḥ senajit । rucirāśvakāśyadṛḍhahanuvatsahanusaṃjñāḥ senajitaḥ putrāḥ । rucirāśvataḥ pṛthusenaḥ । tasmāt pāraḥ pārān nīpaḥ । tasyaikaśataṃ putrāṇām । teṣāṃ pradhānaḥ kāmpilyādhipatiḥ samaraḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9445 | label: meter | g:0.25 m:0.625 ---
+
+aṣṭakāsu kṛtaṃ śrāddhamamāvāsyādine tathā ।
+maghāsu pitṛparvāṇi yāniyāni ca teṣu ca ।।

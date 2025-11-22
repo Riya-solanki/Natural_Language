@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1136 | label: meter | g:0.25 m:0.667 ---
+
+ekṣvākī cābhavad bhāryā mātus tasyām ajāyata 
+sarvasattvaguṇopetaḥ sātvatāṃ kīrtivardhanaḥ ।। 
+yatrāsan sadguṇopetāḥ sātvatāḥ kulavardhanāḥ । 
+imāṃ visṛṣṭiṃ vijñāya jyāmaghasya mahātmanaḥ 
+yujyate parayā prītyā prajāvāṃś ca bhavaty uta ।।

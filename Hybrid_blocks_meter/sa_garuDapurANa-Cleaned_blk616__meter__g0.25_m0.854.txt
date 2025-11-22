@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 616 | label: meter | g:0.25 m:0.854 ---
+
+dātavyaṃ viṣapāpaghnaṃ bījaṃ tasya caturvidham ।
+vindupañcasvarayutamādyamuktaṃ dvitīyakam ।
+ṣaṣṭhārūḍhaṃ tṛtīyaṃ syātsavisargaṃ caturthakam ।
+oṃ kuru kule svāhā ।।

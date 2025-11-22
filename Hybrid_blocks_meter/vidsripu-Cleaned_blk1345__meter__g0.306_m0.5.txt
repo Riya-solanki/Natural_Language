@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1345 | label: meter | g:0.306 m:0.5 ---
+
+karuṇādravam eva durjanaḥ sutarāṃ satpuruṣaṃ prabādhate ।
+mṛdukaṃ hi bhinatti kaṇṭakaḥ kaṭhine kuṇṭhaka iva jāyate ।।

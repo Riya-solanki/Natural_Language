@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 444 | label: hybrid | g:0.5 m:0.5 ---
+
+etena ayadāgneyo aṣṭākapālo bhavati'ityatra saṃbandhaviṣayo vidhiriti parāstam ।

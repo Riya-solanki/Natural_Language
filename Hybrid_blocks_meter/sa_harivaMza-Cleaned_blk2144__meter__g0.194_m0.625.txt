@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2144 | label: meter | g:0.194 m:0.625 ---
+
+so abhivādyarṣaye tasmai pūjāṃ cakre yathāvidhi 
+āsanaṃ cāgnivarṇābhaṃ visṛjyopajahāra vai ।।

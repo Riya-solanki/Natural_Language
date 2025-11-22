@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 775 | label: grammar | g:0.75 m:0.5 ---
+
+SktCh tato deva bhaṇitaṃ ca kumāreṇa re re tātādhikṣepamukhara madhyamapāṇḍava mama śarāstava śarīramujjhitvānyasminna nipatanti । iti bhaṇitvā śarasahasraiḥ pāṇḍavaśarīraṃ pracchādya siṃhanādena garjituṃ pravṛttaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2458 | label: meter | g:0.194 m:0.625 ---
+
+taṃ krīḍamāṇaṃ gopālāḥ kṛṣṇaṃ bhāṇḍīravāsinam 
+ramayanti sma bahavo vanyaiḥ krīḍanakais tadā ।।

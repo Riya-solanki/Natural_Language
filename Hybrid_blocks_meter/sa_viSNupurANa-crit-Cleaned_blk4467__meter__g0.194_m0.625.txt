@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4467 | label: meter | g:0.194 m:0.625 ---
+
+tathā ca kṛtavantas te giriyajñaṃ vrajaukasaḥ 
+dadhipāyasamāṃsādyair daduḥ śailabaliṃ tataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 728 | label: hybrid | g:0.5 m:0.5 ---
+
+tuṅḍgeṣu tālo nalinīṣu pampā vanaukaseṣveva ca ṛkṣarājaḥ ।
+mahīruheṣveva yathā vaṭaśca yathā haro jñānavatāṃ variṣṭhaḥ ।।

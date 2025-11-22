@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9832 | label: meter | g:0.306 m:0.5 ---
+
+yadvā tadvāpi pārakyaṃ svalpaṃ vā harate bahu ।
+hṛtvā vai yonimāpnoti tiraścāṃ nātra saṃśayaḥ ।।

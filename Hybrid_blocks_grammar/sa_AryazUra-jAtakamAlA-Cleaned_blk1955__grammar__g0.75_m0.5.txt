@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1955 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ parihitodarkaṃ duḥkhamapi sādhavo lābhamiva bahu manyante, iti sādhu janapraśaṃsāyāṃ vācyam । tathāgatavarṇe api, satkṛtya dharmaśravaṇe ca bhadraprakṛtiniṣpādanavarṇe api vācyam - evaṃ bhadrā prakṛtirabhyastā janmāntareṣvanuvartata iti । tyāgaparicayaguṇanidarśane api vācyam - evaṃ dravyatyāgaparicayādātmasnehaparityāgamapyakṛcchreṇa karotīti । yaccoktaṃ bhagavata parinirvāṇasamaye samupasthiteṣu divyakusumavāditrādiṣu - na khalu punarānanda etāvatā tathāgataḥ satkṛto bhavatīti, taccaivaṃ nidarśayitavyam । evamabhiprāyasaṃpādanātpūjā kṛtā bhavati na gandhamālyādyabhihāreṇeti ।

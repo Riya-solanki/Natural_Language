@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 609 | label: meter | g:0.194 m:0.521 ---
+
+sthitvā śīle vigatarajasi prāpya cetaḥ samādhiṃ
+prajñālokair manasi śayitaṃ dhvāntam ullikhya kṛtsnam ।
+janmāmbhodher vyasanamahataḥ kṣemam āsādya pāraṃ
+saṃśāntātmā na divi bhuvi vā bhikṣur āyāti saṃkhyam ।।

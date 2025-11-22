@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 171 | label: meter | g:0.328 m:0.595 ---
+
+bhāvābhāvāvabhāsānāṃ bāhyatopādhir iṣyate ।
+nātmā sattā tatas teṣām āntarāṇāṃ satāṃ sadā ।।

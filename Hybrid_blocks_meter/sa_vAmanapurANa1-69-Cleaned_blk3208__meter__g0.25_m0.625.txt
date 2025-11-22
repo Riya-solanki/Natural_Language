@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3208 | label: meter | g:0.25 m:0.625 ---
+
+ityevamuktvā vacanaṃ surarāṭ syandanaṃ balī ।
+samāruroha bhagavān yatamātalivājinam ।।

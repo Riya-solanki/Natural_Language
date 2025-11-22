@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 935 | label: hybrid | g:0.433 m:0.455 ---
+
+apica vidyāphalaṃ pratyakṣaṃ darśayantī śrutiḥ kālāntarabhāviphalakarmāṅgatvaṃ vidyāyā nirākarotītyāha- kāmakāreṇa caike ।
+kāmakāra icchā ।।

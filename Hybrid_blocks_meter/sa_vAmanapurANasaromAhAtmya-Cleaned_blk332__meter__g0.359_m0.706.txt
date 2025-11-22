@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 332 | label: meter | g:0.359 m:0.706 ---
+
+śrībhagavānuvāca
+dānānyavidhidattāni śrāddhānyaśrotriyāṇi ca ।
+hutānyaśraddhayā yāni tāni dāsyanti te phalam ।।

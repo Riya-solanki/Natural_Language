@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2069 | label: meter | g:0.25 m:0.625 ---
+
+viśveśvaramahāmudrāṃ bhāvayan ātmanā ।
+cchindedyasya puraḥpadmaṃ tasya mṛtyuḥ kṣaṇādbhavet ।।

@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 24 | label: grammar | g:0.552 m:0.5 ---
+
+rāgopamaṃ nāsti malaṃ hi loke īrṣyopamā nāsti ca kāpi hāniḥ ।
+yāñcāsamo nāsti ca ko api bandhurdānopamo nāsti ca mitravargaḥ ।।

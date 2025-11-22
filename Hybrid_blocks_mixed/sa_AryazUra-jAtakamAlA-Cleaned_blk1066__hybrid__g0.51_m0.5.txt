@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1066 | label: hybrid | g:0.51 m:0.5 ---
+
+samṛddhicihnābharaṇaṃ sa gehaṃ prāpnotu bhāryāṃ ca mano abhirāmām ।
+samagratāmetu ca putrapautrairbisāni te brāhmaṇa yo hyahārṣīt ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 957 | label: meter | g:0.25 m:0.75 ---
+
+pratiṣṭhitaṃ mahāliṅgaṃ sarvakāmapradāyakam ।
+vaṭasya pūrvadigbhāge viśvakarmakṛtaṃ mahat ।।

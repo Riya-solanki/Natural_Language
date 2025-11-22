@@ -1,0 +1,10 @@
+--- source: simhrs_u-Cleaned.txt | block: 1904 | label: meter | g:0.25 m:0.854 ---
+
+atha vīthī-
+sūcya-pradhāna-śṛṅgārā mukha-nirvahaṇānvitā ।
+eka-yojyā dviyojyā vā kaiśikī-vṛtti-nirmitā ।। 
+vīthy-aṅga-sahitaikāṅkā vīthīti kathitā budhaiḥ ।
+asyāṃ prāyeṇa lāsyāṅga-daśakaṃ yojayen na vā ।। 
+sāmānyā parakīyā vā nāyikātrānurāgiṇī ।
+vīthy-aṅga-prāya-vṛttitvān nocitā kula-pālikā । 
+lakṣyam asyās tu vijñeyaṃ mādhavī-vīthikādikam ।।

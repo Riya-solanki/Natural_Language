@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 114 | label: grammar | g:0.625 m:0.375 ---
+
+nanu ca yadi prayojakavyāpāro bhāvaneṣyate, tataḥ pacāv adhiśrayaṇādīni, yajau ca mānasaḥ saṃkalpa ityādīnāṃ bhāvanātvam, ta eva ca dhātvarthā iti dhātuvācyaiva bhāvanā syāt ।
+naiṣa doṣaḥ ।

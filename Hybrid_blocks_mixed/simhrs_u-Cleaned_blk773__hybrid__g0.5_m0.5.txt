@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 773 | label: hybrid | g:0.5 m:0.5 ---
+
+atra mādhavasya vilcana-candrikā-nayana-mahotsavādy-abhimānena itara-ramaṇīya-vastu-naiḥspṛhyeṇa ca mālatyāṃ ratiḥ ।

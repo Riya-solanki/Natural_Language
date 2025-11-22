@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 476 | label: meter | g:0.25 m:0.625 ---
+
+vāyuścakṣustathā śrotraṃ jihvā ca ghrāṇameva ca ।
+vākpāṇipādajavanaḥ pāyūpasthastathaiva ca ।।

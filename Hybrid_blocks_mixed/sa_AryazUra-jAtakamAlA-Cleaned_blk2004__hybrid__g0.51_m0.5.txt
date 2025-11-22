@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2004 | label: hybrid | g:0.51 m:0.5 ---
+
+arghapramāṇaṃ yadi nāmaṃ kartuṃ śakyaṃ bhaveddeva subhāṣitānām ।
+vyaktaṃ na te vācyapathaṃ vrajeya tanniṣkrayaṃ rājyamapi prayacchan ।।

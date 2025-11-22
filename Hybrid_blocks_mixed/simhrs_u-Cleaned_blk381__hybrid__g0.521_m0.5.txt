@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 381 | label: hybrid | g:0.521 m:0.5 ---
+
+atra rāghavānukūla-daiva-mohitena mālyavatā khara-dūṣaṇa-triśirasāṃ bhedaḥ saṃvihita iti saṅghātyaḥ ।

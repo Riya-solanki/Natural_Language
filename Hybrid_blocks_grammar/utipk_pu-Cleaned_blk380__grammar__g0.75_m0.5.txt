@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 380 | label: grammar | g:0.75 m:0.5 ---
+
+kṣetraś ceśvararūpa eva tattatsāmānyarūpānarthān īśaśaktyaivāparijñātayā sarvasādhāraṇārthadarśanasaṃskṛtānanyavedyān nirmimīte । sā ceśvaraśāktiḥ svātmamātraviśrāntivirodhāya māyāvyapadeśyā tattatkakārādivarṇabhedaśatānantagaṇanā prāṇarūpeṇa cañcalatām āpannā vikalpākhyavyāpārā tathāntaḥ sṛjaty arthān ।।

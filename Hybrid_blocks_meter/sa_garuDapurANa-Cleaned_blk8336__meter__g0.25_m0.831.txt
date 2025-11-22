@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8336 | label: meter | g:0.25 m:0.831 ---
+
+garuḍa uvāca ।
+kathayasva prasādena kṣayāhaṃ caurdhvadaihikam ।
+kasminkāle tithau kasyāṃ vidhinā kena tadbhavet ।।

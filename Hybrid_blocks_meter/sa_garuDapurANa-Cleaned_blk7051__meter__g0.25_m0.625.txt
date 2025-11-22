@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7051 | label: meter | g:0.25 m:0.625 ---
+
+dhyānāgninā ca medhāvī labhate paramāṃ gatim ।
+manthanāddṛśyate hyagnistadvaddhyānena vai hariḥ ।।

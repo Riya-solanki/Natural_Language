@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 37 | label: grammar | g:0.58 m:0.5 ---
+
+chinnas tṛptasuhṛt sa candanatarur yūyaṃ palāyyāgatā bhogābhyāsasukhāsikāḥ pratidinaṃ tā vismṛtās tatra vaḥ 
+daṃṣṭrākoṭiviṣolkayā pratikṛtaṃ tasya prahartur na cet kiṃ tenaiva saha svayaṃ na lavaśo yātāḥ stha bho bhoginaḥ ।।

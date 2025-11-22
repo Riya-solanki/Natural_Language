@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2177 | label: meter | g:0.272 m:0.595 ---
+
+saptemān devakīgarbhān bhojaputro vadhiṣyati 
+aṣṭame ca mayā garbhe kāryam ādhānam ātmanaḥ ।।

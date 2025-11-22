@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2014 | label: grammar | g:0.646 m:0.5 ---
+
+naikasyārthe bahūn hanyāditi śāstreṣu niścayaḥ । ekaṃ hanyād bahubhyor'the na pāpī tena jāyate । ।।

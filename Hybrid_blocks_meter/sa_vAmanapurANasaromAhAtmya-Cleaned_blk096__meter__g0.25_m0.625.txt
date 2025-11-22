@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 96 | label: meter | g:0.25 m:0.625 ---
+
+te acireṇaiva saṃprāptāḥ kṣīrodaṃ saritāṃ patim ।
+yathoddiṣṭaṃ bhagavatā brahmaṇā satyavādinā ।।

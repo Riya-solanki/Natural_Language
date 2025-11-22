@@ -1,0 +1,9 @@
+--- source: grasht_u-Cleaned.txt | block: 359 | label: meter | g:0.25 m:0.772 ---
+
+bīja for garbhadruti
+patrābhrakaṃ ca satvaṃ kāṃkṣī vā kāntamākṣikaṃ puṭitam ।
+nirguṇḍī gṛhakanyā cāṅgerī palāśaśākaiśca ।।
+tāvatpuṭitaṃ kṛtvā yāvatsindūrasaprabhaṃ bhavati ।
+tatpādaśeṣalavaṇaṃ haṇḍikapākena pācitaṃ sudṛḍham ।।
+ekaikaṃ śatavyūḍhaṃ bījavaraṃ jārayedrasendrasya ।
+garbhe dravati ca kṣipraṃ hyabhiṣavayogena mṛditamaṅgulyā ।।

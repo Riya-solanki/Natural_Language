@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 470 | label: meter | g:0.111 m:0.521 ---
+
+saṅkalpaḥ kvacanānvajīgamad itaḥ sākṣāt-kṛtiṃ śrī-hareḥ
+svapnaḥ kutra ca locanaṃ kva ca viyogārtau ca rādhādiṣu ।
+yair etaiḥ sudhayā latāsv iva tayā tāsv indu-bimbair javād
+ullāsāvali-lambhanāt taruṇimārambho' pi sambhāvitaḥ ।। [śārdūlavikrīḍitā]

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1110 | label: meter | g:0.194 m:0.625 ---
+
+tato vṛṣṇyandhakāḥ kṛṣṇaṃ puraskṛtya mahāmatim 
+sametā mantrayām āsur jarāsaṃdhabhayena ca ।।

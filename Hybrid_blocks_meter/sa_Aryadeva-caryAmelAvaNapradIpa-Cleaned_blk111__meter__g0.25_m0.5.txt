@@ -1,0 +1,7 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 111 | label: meter | g:0.25 m:0.5 ---
+
+tataḥ samarpayet tasya bāhyābhisaṃbodhilakṣaṇam । saṃpradāye yadāvāptaṃ guruparvakramāgatam ।। iti । 
+toye nirmalake nadīsarasi vā binduśca yo līnakaḥ ।
+śuddhaṃ tatkramaśo anubhedagaditaṃ yogī smarennityaśaḥ ।
+ādarśe hyanilakṣayaḥ kramagatastadvanna saṃprekṣyate
+piṇḍagrāha iti kramo vidhimatāmevaṃ samutprekṣyate ।।

@@ -1,0 +1,3 @@
+--- source: grasht_u-Cleaned.txt | block: 1002 | label: grammar | g:0.75 m:0.5 ---
+
+ghanasatvam abhrasāraḥ kāntaṃ cumbakotthaṃ sūto rasaḥ ekavadbhāvo dvandvasamāsāt tathā mṛtaṃ hema pañcatvamāptaṃ kanakaṃ ca etaccatuṣkaṃ śatāvarīrasopetaṃ śatamūlīdravabhāvitaṃ punarghṛtamadhulīḍhaṃ ghṛtamadhubhyāṃ līḍhaṃ āsvāditaṃ sat varṣādvarṣaparimāṇāt mṛtyuvyādhiṃ jarāṃ ca hanti nāśayatītyarthaḥ ।।

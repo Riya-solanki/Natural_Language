@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 760 | label: grammar | g:0.75 m:0.5 ---
+
+bhikṣāṃ [bhikṣāṃ carataḥ] bhikṣācarād [nādadyāt] na gṛhṇīyāt। na ca śaivād vigarhitāt kṣudrācārāt। na ca [svāyambhuvādeḥ] svayaṃbhūpāsanopajīvinaḥ। ādigrahaṇānnānyasmādapi liṅgopajīvinaḥ pūjakādeśca। na ca [liṅginaḥ] mahāvrataśākyādicihnabhṛtaḥ sakāśād bhikṣāmādadīta। [miṣṭānnapracurāṃ] svādvannabhūyiṣṭhām। [atisaṃskṛtām] atisaṃskārapuraḥsarām। parihāsakrīḍālāpapraṇayakuśalāśca yatra [nāryaḥ] yoṣitaḥ tato gṛhād bhikṣāṃ [nādadyād] nādadīteti pūrveṇa sambandhaḥ।।

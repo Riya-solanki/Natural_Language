@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 629 | label: meter | g:0.096 m:0.571 ---
+
+"śakaṭam idam ihāsti mad-gṛhasya
+svayam aviśastad anena cotpluto' si ।
+ruditam anupadaṃ mayā vikīrṇaṃ
+tad api yadi mriyase na tan mamāgaḥ ।। iti । [puṣpitāgrā]

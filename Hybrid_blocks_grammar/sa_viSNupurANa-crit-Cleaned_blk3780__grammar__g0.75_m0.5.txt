@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3780 | label: grammar | g:0.75 m:0.5 ---
+
+jāmbavatīṃ cāntaḥpure niveśayām āsa । satrājito api mayāsyābhūtamalinam āropitam iti jātasaṃtrāsaḥ svasutāṃ satyabhāmāṃ bhagavate bhāryāṃ dadau । tāṃ cākrūrakṛtavarmaśatadhanvapramukhā yādavāḥ pūrvaṃ varayāṃ āsuḥ । tatas tatpradānād avajñātam ivātmānaṃ manyamānāḥ satrājite vairānubandhaṃ cakruḥ ।।

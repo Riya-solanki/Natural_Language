@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 417 | label: meter | g:0.25 m:0.75 ---
+
+prāyeṇa khalu mandānāmamarṣajvalitaṃ manaḥ ।
+yasminvastuni tatkīrtyā tadviśeṣeṇa dahyate ।।

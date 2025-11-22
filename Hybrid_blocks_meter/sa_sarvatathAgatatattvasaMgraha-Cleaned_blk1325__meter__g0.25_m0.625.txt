@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1325 | label: meter | g:0.25 m:0.625 ---
+
+buddhasya sarvapārśveṣu mudrāstā eva saṃlikhet ।
+vajravegena niṣkramya maṇḍalānāṃ catuṣṭaye ।।

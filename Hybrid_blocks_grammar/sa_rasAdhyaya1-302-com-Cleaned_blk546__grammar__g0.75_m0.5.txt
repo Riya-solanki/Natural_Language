@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 546 | label: grammar | g:0.75 m:0.5 ---
+
+iha sāraṇasaṃskāre kṛte yāvanto raktaṣoṭasya gadyāṇā bhavanti tebhyo dviguṇāttu śuddhamanaḥśilāgadyāṇān gāḍhaṃ sūkṣmacūrṇarūpān kṛtvā prauḍhakācakūpīmadhye ardhacūrṇaṃ kṣiptvā tato raktaṣoṭaṃ muktvā punarupari śeṣaṃ manaḥśilācūrṇam adhaḥ kṣiptvā kūpīmadhye'dhaścūrṇaṃ kṣiptvā tato raktaṣoṭaṃ muktvā punarupari śeṣaṃ manaḥśilācūrṇamadhaḥ liptvā kūpīdvāre abhrasya cātikāṃ dattvā saptatāraṃ tasyāṃ kūpikāyāṃ paritaḥ karpaṭamṛttikāṃ dattvāraṇyachāṇakaiḥ pūrṇāyāṃ puruṣapramāṇakhanitagartāyāṃ madhye kūpīṃ muktvā haṭhāgnir jvālanīyaḥ ।।

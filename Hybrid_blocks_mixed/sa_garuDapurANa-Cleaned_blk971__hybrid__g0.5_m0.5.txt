@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 971 | label: hybrid | g:0.5 m:0.5 ---
+
+oṃ bhūrvinyasya hṛdaye oṃ bhuvaḥ śirasi nyaset ।
+oṃ svariti śikhāyāṃ ca gāyattryāḥ prathamaṃ padam ।।

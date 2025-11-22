@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1169 | label: grammar | g:0.75 m:0.5 ---
+
+[] hanta hanta, yadyapy evam evam, tathāpi krama-prāpta-sulalita-viśākhānvita-rādhatāṃ āvrajann apy alabdha-sulalita-viśākhānvita-rādhatāṃ yadāvrajāmi, tad idaṃ mām atiduḥkhākaroti । tasyā rādhāyā eva nūnam iyaṃ vidagdhatā-nidagdha-buddheḥ paṭīyasī paripāṭī iti ।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 967 | label: meter | g:0.249 m:0.677 ---
+
+yogābhyāsaviśeṣaśāntamatibhir vāyvambumūlāśanair
+viśrambhāyatanatvam abhyupagataiḥ prāyas tiraścām api ।
+dagdhāḥ krodhahutāśanair janapadāḥ krūrair ivāśīviṣair
+yan mohād ṛṣibhir na duḥkham aparaṃ krodhāt tato vidyate ।।

@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 762 | label: hybrid | g:0.51 m:0.5 ---
+
+nanvāpannapañcasaṃkhyakā janā eva punaḥ pañcasaṃkhyayā viśeṣyamāṇāḥ pañcaviṃśatiḥ pratyeṣyante ।
+yathā pañca pañcapūlya iti pañcavaṃśatipūlāḥ pratīyante tadvat ।

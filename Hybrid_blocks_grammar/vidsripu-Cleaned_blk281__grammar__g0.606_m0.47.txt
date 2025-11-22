@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 281 | label: grammar | g:0.606 m:0.47 ---
+
+tāvad vācaḥ prayuktā manasi vinihitā jīvitāśāpi tāvad vikṣiptau tāvad aṅghrī pathi pathikajanair lambhitā tāvad āśā ।
+phulladdhārākadambastabakavalayitā yāvad ete na dṛṣṭā nirmuktavyālanīladyutinavajaladavyākulā vidhyapādāḥ ।।

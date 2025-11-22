@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 25 | label: meter | g:0.25 m:0.5 ---
+
+kim anyena mahādeva ātmatulyas tvayā kila 
+kṛto ahaṃ tat kim anyena kiṃ tu devābhayaṃ dada ।।

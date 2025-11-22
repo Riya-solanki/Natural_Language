@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1162 | label: grammar | g:0.646 m:0.375 ---
+
+rāṣṭrāvārapārādghakhau ।।
+ābhyāṃ kramād ghakhau staḥ śeṣe । rāṣṭre jātādiḥ rāṣṭriyaḥ। avārapārīṇaḥ। avārīṇaḥ। pārāvārīṇaḥ। iha prakṛtiviśeṣād ghādayaṣṭyuṭyulantāḥ pratyayā ucyante teṣāṃ jātādayor'thaviśeṣāḥ samartha vibhaktayaśca vakṣyante ।।

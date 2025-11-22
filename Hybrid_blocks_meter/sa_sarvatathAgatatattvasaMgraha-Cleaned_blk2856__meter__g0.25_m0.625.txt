@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2856 | label: meter | g:0.25 m:0.625 ---
+
+ātmano vātha parato buddhānusmṛtisādhakaḥ ।
+badhvā vai sarvamudrāstu tataḥ sidhyanti tatkṣaṇād ।।

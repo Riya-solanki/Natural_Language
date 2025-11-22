@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3110 | label: meter | g:0.217 m:0.845 ---
+
+dakṣiṇāgreṣu darbheṣu puṣpadhūpādipūjitam 
+svapitre prathamaṃ piṇḍaṃ dadyād ucchiṣṭasaṃnidhau ।।

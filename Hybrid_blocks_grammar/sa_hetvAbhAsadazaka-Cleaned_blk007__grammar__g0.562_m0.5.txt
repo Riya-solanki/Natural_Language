@@ -1,0 +1,4 @@
+--- source: sa_hetvAbhAsadazaka-Cleaned.txt | block: 7 | label: grammar | g:0.562 m:0.5 ---
+
+mithyeyaṃ virahavyathā tava mudaṃ datte purovartinī māyāmaithilakanyakā priyatamābhāvena satyeva sā ।
+ity uktaḥ sahajena sāntvanavidhau hetor amuṣyāśrayāsiddhatvaṃ pratipādayann avatu vaḥ śrījānakīvallabhaḥ ।।

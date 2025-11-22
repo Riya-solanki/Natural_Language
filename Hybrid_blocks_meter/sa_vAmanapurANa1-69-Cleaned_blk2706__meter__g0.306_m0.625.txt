@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2706 | label: meter | g:0.306 m:0.625 ---
+
+ete cānye ca bahavaḥ śataśo atha sahasraśaḥ ।
+sahāyārthaṃ tavāyātā yathāprītyādiśasva tān ।।

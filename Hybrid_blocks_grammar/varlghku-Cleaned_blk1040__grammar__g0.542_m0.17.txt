@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1040 | label: grammar | g:0.542 m:0.17 ---
+
+prāptāpanne ca dvitīyayā ।।
+samasyete । akāraścānayorantādeśaḥ । prāpto jīvikāṃ prāptajīvikaḥ । alaṃ kumāryai - alaṃkumāriḥ । ata eva jñāpakātsamāsaḥ । niṣkauśāmbiḥ ।।

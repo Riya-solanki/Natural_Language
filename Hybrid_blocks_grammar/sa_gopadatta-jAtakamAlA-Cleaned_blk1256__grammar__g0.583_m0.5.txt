@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1256 | label: grammar | g:0.583 m:0.5 ---
+
+atha bodhisattvaḥ prāg eva viditaviṣayadoṣavairavairaḥ saṃrambhavipralabhādyanarthabhūyiṣṭhaṃ rājyam atimanyamānaḥ svasukhasaṃbhogābhiṣvaṅgadainyānupakliṣṭamānasaś cintayāṃ babhūva ।

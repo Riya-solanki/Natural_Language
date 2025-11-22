@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1540 | label: meter | g:0.306 m:0.5 ---
+
+paśya gobhaṭa kiṃ kurmaḥ karmaṇāṃ gatir īdṛśī ।
+duṣer dhātor ivāsmākaṃ doṣaniṣpattaye guṇaḥ ।।

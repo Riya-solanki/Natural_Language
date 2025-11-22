@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 633 | label: meter | g:0.25 m:0.5 ---
+
+tato bhasma kṣatāt tasmānnirgataṃ himasannibham ।
+tad dṛṣṭvā vrīḍitovipraḥ pādayoḥ patito abravīt ।।

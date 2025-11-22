@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1306 | label: meter | g:0.194 m:0.625 ---
+
+eṣāvasthā samāsādya daśāvasthā[s] tyajet punaḥ 
+guṇān utpādayitvā tu anāhatapadaṃ vrajet ।।

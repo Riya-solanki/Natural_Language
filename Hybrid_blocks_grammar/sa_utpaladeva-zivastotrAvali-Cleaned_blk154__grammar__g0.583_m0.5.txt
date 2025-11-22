@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 154 | label: grammar | g:0.583 m:0.5 ---
+
+bhaktimadajanitavibhramavaśena paśyeyam avikalaṃ karaṇaiḥ śivamayam akhilaṃ lokaṃ kriyāś ca pūjāmayī sakalāḥ ।।

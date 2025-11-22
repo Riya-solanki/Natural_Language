@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11295 | label: hybrid | g:0.521 m:0.5 ---
+
+yathā lakṣmīrlakṣaṇaiḥ sā supūrṇā yathā harirlakṣaṇairvai supūrṇaḥ ।
+yathā vāyurlakṣaṇaiḥ pūrṇa eva yathā gāyatrī lakṣaṇaiḥ sā supūrṇā ।।

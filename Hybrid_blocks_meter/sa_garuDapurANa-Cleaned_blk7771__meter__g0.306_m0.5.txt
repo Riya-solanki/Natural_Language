@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7771 | label: meter | g:0.306 m:0.5 ---
+
+dattā pāpaṃ dahet sarvaṃ mama lokantu sā nayet ।
+maptame māsi samprāpte puraṃ bahvāpadaṃ mṛtaḥ ।।

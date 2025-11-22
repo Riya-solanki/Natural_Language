@@ -1,0 +1,7 @@
+--- source: visa01cu-Cleaned.txt | block: 188 | label: meter | g:0.277 m:0.732 ---
+
+yacca dhvanikāreṇoktam
+"arthaḥ sahṛdayaślāghyaḥ kāvyātmā yo vyavasthitaḥ ।
+vācyapratīyamānākhyau tasya bhedāvubhau smṛtau" ।
+iti ।
+atra vācyātmatvaṃ "kāvyasyātmādhvaniḥ-" iti svavacanavirodhādevāpāstam ।

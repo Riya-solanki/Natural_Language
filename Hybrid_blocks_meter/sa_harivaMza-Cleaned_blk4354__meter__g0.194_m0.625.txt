@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4354 | label: meter | g:0.194 m:0.625 ---
+
+asaṅgo yuyudhānasya bhūmis tasyābhavat sutaḥ 
+bhūmer yugaṃdharaḥ putra iti vaṃśaḥ samāpyate ।।

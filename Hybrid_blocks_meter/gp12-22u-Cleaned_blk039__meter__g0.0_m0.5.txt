@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 39 | label: meter | g:0.0 m:0.5 ---
+
+[] tad etan nirvarṇya devair varṇitaṃ yathā-

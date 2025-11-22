@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1558 | label: meter | g:0.293 m:0.773 ---
+
+himavānuvāca ।
+matputrīṃ bhagavan kālīṃ pautrīṃ ca pulahāgraje ।
+pitṝṇāmapi dauhitrīṃ pratīcchemāṃ mayodyatām ।।

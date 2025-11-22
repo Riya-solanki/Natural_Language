@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10318 | label: meter | g:0.25 m:0.625 ---
+
+anyenaikena bhāgena rajorāśyā khageśvara ।
+miśritaṃ bhavatītyevaṃ jñātavyaṃ nānyathā kvacit ।।

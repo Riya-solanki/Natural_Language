@@ -1,0 +1,5 @@
+--- source: mrgt1chu-Cleaned.txt | block: 167 | label: meter | g:0.275 m:0.838 ---
+
+Mṛgendratantra, Vidyāpāda, 
+sa itthaṃ vigraho'nena karaṇenāhataujasā ।
+karoti sarvadā kṛtyaṃ yadā yadupapadyate ।।

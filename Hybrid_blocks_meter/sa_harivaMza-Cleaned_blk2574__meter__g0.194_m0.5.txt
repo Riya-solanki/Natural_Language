@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2574 | label: meter | g:0.194 m:0.5 ---
+
+te vāhayantas tv anyonyam saṃharṣāt sahasā drutāḥ 
+bhāṇḍīraskandham uddiśya maryādāṃ punar āgaman ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3251 | label: meter | g:0.25 m:0.625 ---
+
+śraddhāvadbhiḥ kṛtaṃ yatnād devān pitṛpitāmahān 
+na prīṇayati tac chrāddhaṃ yady ebhir avalokitam ।।

@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 293 | label: grammar | g:0.554 m:0.42 ---
+
+mārgāṇāṃ sukumārādīnāmetattritayaṃ kairapi mahākavibhireva, na sāmānyaiḥ, prāptavyaparyutsukaiḥ prāpyotkaṇṭhitairasakṛt bahuvāramabhyāsena kṣuṇṇaṃ parigamitam ।
+yatra yasmin mārgatraye kāmapi bhuvaṃ prāpya prasiddhiṃ gatāḥ lokottarāṃ bhūmimāsādya pratītiṃ prāptāḥ ।
+idānīṃ sarve kavayastasminmārgatritaye yena yāsyanti gamiṣyanti svairavihārahāri svecchāviharaṇaramaṇīyaṃ sa ko api alaukikaḥ sādhuśobhanaṃ kṛtvā sundarapadanyāsakramaḥ kathyate subhagasuptiṅantasamarpaṇaparipāṭīvinyāso varṇyate ।
+mārga-svairavihāra-pada-prabhṛtayaḥ śabdāḥ śleṣacchāyāviśiṣṭatvena vyākhyeyāḥ ।

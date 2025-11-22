@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 21 | label: grammar | g:0.667 m:0.5 ---
+
+padmānām iva sā satāṃ saguṇatā yā saṃśrayārhā śriyaḥ sā śrīr bhadragajendramūrtir iva yā dānena vibhrājate ।
+tad dānaṃ navacandravad yad aniśaṃ mānena saṃpūryate māno asau ṭṛṇavan na yaḥ paricayamlānaḥ śanaiḥ śuṣyati ।।

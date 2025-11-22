@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 1 | label: meter | g:0.328 m:0.595 ---
+
+anirvācyāvidyā dvitayasacivasya prabhavato vivartā yasyaite viyadanilatejo abavanayaḥ ।
+yataścābhūdviśvaṃ caramacaramuccāvacamidaṃ namāmastadbrahmāparimitasukhajñānamamṛtam ।।

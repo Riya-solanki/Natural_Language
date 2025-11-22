@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 751 | label: grammar | g:0.596 m:0.435 ---
+
+yat tāḍīdalapākapāṇḍu vadanaṃ yan netrayor durdinaṃ gaṇḍaḥ pāṇiniṣevaṇāc ca yad ayaṃ saṃkrāntapañcāṅguliḥ ।
+gaurī krudhyatu vartate yadi na te tat ko api citte yuvā dhig dhik tvāṃ sahapāṃśukhelanasakhīloke api yan nihnavaḥ ।।
+rājaśekharasyaitau

@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 717 | label: grammar | g:0.75 m:0.5 ---
+
+[] yadā śālva-yuddham udbuddham, tadā pāṇḍavānāṃ durodara-daṇḍa iti vana-parva-kathā । śālvasya tu prāṇān daṇḍayitvā madhu-pura-dvāri vakratā-caṇḍaṃ savidūratha-dantavakraḥ khaṇḍa-khaṇḍaśaḥ khaṇḍitaś ca, tenānena bhaviteti pādmottara-khaṇḍa-prathā । tad-anantaraṃ ca punar vrajāgamanam asya mahādeva-devyāḥ saṃvāda-rahasya-maye tatraiva spaṣṭaṃ niṣṭaṅkyate । yat khalu satya-saṅkalpatayānalpa-samajñā-vijñātānāṃ āyāsye iti dyotakaiḥ [BhP ], āgamiṣyaty atidīrgheṇa [BhP ] ity ādi-bahutarād bhagavad-bhāgavatānāṃ pratijñānusārāt śrīmad-bhāgavatenāpy udbhāvitam । na kevalaṃ pratijñā-mātraṃ tatra pratīti-pātrīkṛtam, kintu tad-āgatir apy adhigatīkṛtam ।

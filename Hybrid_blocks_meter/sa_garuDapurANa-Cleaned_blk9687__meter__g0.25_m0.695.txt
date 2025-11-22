@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9687 | label: meter | g:0.25 m:0.695 ---
+
+ūrudvaye śatañcāpi triṃśajjaṅghādvaye nyaset ।
+dadyāccatuṣṭayaṃ śiśre ṣaḍ dadyād vṛṣaṇadvaye ।
+daśa pādāṅgulībhāge evamasthīni vinyaset ।।

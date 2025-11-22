@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1140 | label: meter | g:0.194 m:0.625 ---
+
+nimiś ca kramaṇaś caiva viṣṇuḥ śūraḥ puraṃjayaḥ 
+ete bāhyakasṛñjayyāṃ bhajamānād vijajñire ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 707 | label: meter | g:0.25 m:0.625 ---
+
+athānyena prakāreṇa śivapūjāṃ vadāmyaham ।
+gaṇaḥ sarasvatī nandī mahākālo athagaṅgayā ।।

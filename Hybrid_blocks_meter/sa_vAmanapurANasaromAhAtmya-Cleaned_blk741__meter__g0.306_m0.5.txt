@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 741 | label: meter | g:0.306 m:0.5 ---
+
+kurutīrthaṃ ca vikhyātaṃ kuruṇā yatra vai tapaḥ ।
+taptaṃ sughoraṃ kṣetrasya karṣaṇārthaṃ dvijottamāḥ ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 223 | label: meter | g:0.16 m:0.973 ---
+
+ṣaṭpada-svanasya, yathā-
+madhuvratānāṃ mada-mantharāṇāṃ
+mantrair apūrvair iva mañjunādaiḥ ।
+madhuśriyo mānavatī-janānāṃ
+māna-grahoccāṭanam ācaranti ।।

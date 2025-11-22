@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 746 | label: meter | g:0.056 m:0.854 ---
+
+{priyeṇa saṃgrathya vipakṣasaṃnidhā-
+vupāhitāṃ vakṣasi pīvarastane ।
+srajaṃ na kācidvijahau jalāvilāṃ
+vasanti hi premṇi guṇā na vastuṣu ।।}

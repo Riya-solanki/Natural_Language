@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 804 | label: meter | g:0.194 m:0.5 ---
+
+tatas tam ṛṣayaḥ pūrvaṃ saṃpūjya pṛthivīpatim 
+ūcuḥ sāmakalaṃ samyaṅ maitreya samupasthitāḥ ।।

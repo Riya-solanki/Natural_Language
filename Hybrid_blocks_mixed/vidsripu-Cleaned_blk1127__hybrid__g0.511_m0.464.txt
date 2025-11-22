@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1127 | label: hybrid | g:0.511 m:0.464 ---
+
+yadā hatvā kṛtsnāṃ timirapaṭalīṃ jātamahimā jagannetraṃ mitraḥ prabhavati gato asāv avasaraḥ ।
+idānīm astādriṃ śrayati galitālokavibhavaḥ piśācā valgantu sthagayatu tamisraṃ ca kakubhaḥ ।।
+kuśalanāthasya

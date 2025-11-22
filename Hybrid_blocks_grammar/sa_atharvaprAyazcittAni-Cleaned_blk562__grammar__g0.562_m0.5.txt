@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 562 | label: grammar | g:0.562 m:0.5 ---
+
+ud uttamaṃ mumugdhi no vi pāśaṃ madhyamaṃ cṛta avādhamāni bādhata ।

@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 125 | label: meter | g:0.263 m:0.715 ---
+
+cāraṇa samukha, nirmukha
+pītakriyāsu pītaṃ śvetaṃ tārakriyāsu mukham ādau ।
+deyaṃ khalve ghṛṣṭo divyauṣadhibhiḥ sa nirmukhaś carati ।।

@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 316 | label: grammar | g:0.646 m:0.375 ---
+
+kathaṃ ca vidhyarthasyātyantālaukikatayā pramāṇena tadābhāsena vā buddhāvāropayitumaśakyatvenābhimatasya buddhisaṃnidhānatmako adhyāhāro aśrutavidhiśabdakeṣvadhikāravākyeṣu vā utpattivākyeṣu yadāgneyo akapālo amāvāsyāyāmityādiṣu vā śakyate, ityakāmenāpi śabdādhyāhāro aṅgīkartavya ityāstāṃ tāvat ।।
+ityarthāpattivādaḥ ।।

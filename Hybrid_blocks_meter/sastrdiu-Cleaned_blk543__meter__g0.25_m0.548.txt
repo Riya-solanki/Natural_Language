@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 543 | label: meter | g:0.25 m:0.548 ---
+
+kimidamātyantikatvaṃ pūrvotpannānāṃ śarīrendriyaviṣayāṇāṃ vināśaḥ, anutpannānāṃ cātyantiko anutpādaḥ ।
+kathamatyantānutpattiḥ, utpādakayordharmādharmayorniḥśeṣayoḥ parikṣāyāt ।
+so ayaṃ prapañcasaṃbandho bandhasyadvimokṣaśca mokṣaḥ ।

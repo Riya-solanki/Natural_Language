@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1670 | label: meter | g:0.194 m:0.5 ---
+
+dānavānāṃ tu piprīṣuḥ kālanemiḥ sa dānavaḥ 
+vyavardhata mahātejās tapānte jalado yathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 891 | label: meter | g:0.25 m:0.625 ---
+
+sarveṣāmeva pāpānāṃ kṛtānāmapi jānatā ।
+śuddhyate liṅgapūjāyāṃ nātra kāryā vicāraṇā ।।

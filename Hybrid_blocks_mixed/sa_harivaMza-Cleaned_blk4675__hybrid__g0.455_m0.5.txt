@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4675 | label: hybrid | g:0.455 m:0.5 ---
+
+na hi tasya kulaṃ devi na kīrtir nāpi pauruṣam 
+kaścij jānāti tattvena kim idaṃ tvaṃ vihanyase ।।

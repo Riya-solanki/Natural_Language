@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 1325 | label: meter | g:0.26 m:0.5 ---
+
+tāṃ vatsalāmanabhivādya vinītamambāṃ gāḍhaṃ ca māmanupaguhya mayāpyanuktaḥ
+etāṃ svayaṃvaravadhūṃ dayitāmadṛṣṭvā ē̃ dīrghapravāsamayi tāta kathaṃ gato asi ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1669 | label: meter | g:0.306 m:0.625 ---
+
+jitāstvākramya daityābhyāṃ sabalāḥ sapadānugāḥ ।
+śakrasyāhṛtya ca gajaṃ yāmyaṃ ca mahiṣaṃ balāt ।।

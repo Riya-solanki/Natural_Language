@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 258 | label: grammar | g:0.75 m:0.5 ---
+
+[] tal-līlā-kramaḥ khalv ayaṃ duratyayatayā mayāsugamas tal-līlā-śakti-prayutānām asmākaṃ ca tatra pratyag-vadācaraṇe' pi nāradavan na pratyavāyas, tathāpi tathā prathanīyam yathā tāsāṃ na pratyavāyaḥ syād, āyatyām iṣṭāpattiḥ syād, akhilāyatyāṃ pūrna-tad-āpattiś ca syāt iti ।

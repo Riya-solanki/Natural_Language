@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2104 | label: meter | g:0.25 m:0.625 ---
+
+āsanebhyaḥ pracalitā devāḥ śakrapurogamāḥ ।
+svastyastu lokebhya iti japantaḥ paramarṣayaḥ ।।

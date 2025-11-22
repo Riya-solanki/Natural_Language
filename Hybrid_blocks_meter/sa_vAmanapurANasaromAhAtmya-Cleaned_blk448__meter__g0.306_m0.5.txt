@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 448 | label: meter | g:0.306 m:0.5 ---
+
+abravīt prāñjalirvākyaṃ sa pitṛn gagane sthitān ।
+bhavanto yadi me prītā yadya nugrāhyatā mayi ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6005 | label: meter | g:0.194 m:0.75 ---
+
+kalau jagatpatiṃ viṣṇuṃ sarvasraṣṭāram īśvaram 
+nārcayiṣyanti maitreya pāṣaṇḍopahatā narāḥ ।।

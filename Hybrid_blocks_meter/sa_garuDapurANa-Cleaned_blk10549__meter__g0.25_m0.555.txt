@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10549 | label: meter | g:0.25 m:0.555 ---
+
+evaṃ stuttvā mahābhāgo viṣvakse no mahāprabho ।
+tūṣṇīṃ babhūva garuḍa prāñjalirnamrakandharaḥ ।
+mitrādahaṃ nyūna eva nātra kāryā vicāraṇā ।।

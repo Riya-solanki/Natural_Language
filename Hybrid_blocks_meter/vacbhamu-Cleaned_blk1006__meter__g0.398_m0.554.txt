@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 1006 | label: meter | g:0.398 m:0.554 ---
+
+bhogena tvitare kṣapayitvā saṃpadyate ।
+anārabdhakārya ityasya nañaḥ phalaṃ bhogena nivṛttiṃ darśayatyanena sūtreṇa ।
+asya tūpapādanaṃ purastādapakṛṣya kṛtamiti neha kriyate punaruktibhayāt ।।

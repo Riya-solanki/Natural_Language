@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 207 | label: meter | g:0.25 m:0.617 ---
+
+kāñcīpadam ityanaiva nitambasya lakṣitatvād viśeṣaṇasyāprayojakatvamiti ।।
+ghaṭanā śleṣaḥ ।।
+kramakauṭikyānulvaṇatvopapattiyogo ghaṭaṇā । sa śleṣaḥ । yathā

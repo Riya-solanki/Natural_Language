@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 53 | label: grammar | g:0.75 m:0.5 ---
+
+smṛtiśaktyā sa iti pūrvānubhūtaṃ svalakṣaṇaṃ parāmṛśann ābhāsayaty evānyathā prakāśitasya parāmarśo na kṛtaḥ syāt svasattākāla eva ca, tena smaraṇakāle naṣṭasyāpy ābhāso na duṣyati । kadā cit tv arthitāvaśād ghaṭakāñcanadravyasattādyanyatamaikābhāsarūpeṇaivāsya sphuṭāvabhāsaḥ, anyadā tu sarvātmanārthitvena tathaiva । atiśayanirantarāvahitacetasas tu dṛṣṭārthapratyakṣīkāra eva ।।

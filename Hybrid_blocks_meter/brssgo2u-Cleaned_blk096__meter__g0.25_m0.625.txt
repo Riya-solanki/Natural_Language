@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 96 | label: meter | g:0.25 m:0.625 ---
+
+nanu mṛdādidṛṣṭāntapraṇayanātpariṇāmavadbrahma śāstrasyābhimatamiti gamyate ।
+pariṇāmino hi mṛdādayor'thā loke samadhigatā iti ।

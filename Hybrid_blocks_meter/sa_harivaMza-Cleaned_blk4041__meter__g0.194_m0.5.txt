@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4041 | label: meter | g:0.194 m:0.5 ---
+
+avadhyaḥ sarvabhūtānāṃ bhaumaḥ sa narako asuraḥ 
+niṣūdayitvā taṃ pāpaṃ kṣipram āgantum arhasi ।।

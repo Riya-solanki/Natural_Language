@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3047 | label: meter | g:0.25 m:0.625 ---
+
+trirātraṃ daśarātraṃ vā śāvamāśaucamucyate ।
+ūnadvivarṣa ubhayoḥ sūtakaṃ mātureva hi ।।

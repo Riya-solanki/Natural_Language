@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 585 | label: meter | g:0.0 m:0.732 ---
+
+yadi na vyaktiḥ padārthaḥ kathaṃ tarhi
+vyaktāvupacāra iti ? nimittād atadbhāve api
+tadupacāro dṛśyate khalu

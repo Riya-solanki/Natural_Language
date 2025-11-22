@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1362 | label: hybrid | g:0.51 m:0.5 ---
+
+asajjanāś cen madhurair vacobhiḥ śakyanta eva pratikartum āryaiḥ ।
+tat ketakīreṇubhir amburāśer bandhakriyāyām api kaḥ prayāsaḥ ।।

@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 141 | label: hybrid | g:0.386 m:0.301 ---
+
+seyaṃ bhāvanāṃśadvayaparipūrṇā satī sarvakaraṇānām upāyānanugṛhītānāṃ karaṇatvānupapatteḥ kathaṃ bhāvayet itītikartavyatām apekṣate ।
+sā ca pratyakṣādīnām anugrāhakadarśanaśaktyabhāvād atyantaśāstragamyeti yathāsannikarṣaṃ tadasaṃbhavāc ca yathā kathaṃcid upasthāpyamānā śāstrānusāreṇa śrutyādyupadeśena codanāsāmānyādyatideśena vātyantādṛṣṭopakāradvāreṇānyathānupapattyā kalpyate ।
+tataḥ paripūrṇatvād anuṣṭhātuṃ yogyeti vidhīyate ।
+tadvidhānāc cārthāpattyā yāgādividhānamity upapannaṃ bhāvārthasūtram ।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 35 | label: hybrid | g:0.486 m:0.5 ---
+
+yat kiñ canānucitam apy ucitānuvṛtti kiṃ candanasya na kṛtaṃ kusumaṃ phalaṃ vā 
+lajjāmahe vayam upakrama eva yāntas tasyāntikaṃ parigṛhītabṛhatkuṭhārāḥ ।।

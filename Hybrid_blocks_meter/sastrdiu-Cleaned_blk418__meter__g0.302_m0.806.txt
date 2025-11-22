@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 418 | label: meter | g:0.302 m:0.806 ---
+
+tathā tameva devadattaṃ kiṃ vānyaḥ iti ।
+tasmādvastudvayapratītireva bhedapratītirityuktam ।।

@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 61 | label: grammar | g:0.573 m:0.5 ---
+
+saṃsārasya maheśvaro dinapatir dhvāntasya vaidyo rujāṃ prāyaścittam aghasya śāstram aparijñānasya toyaṃ tṛṣaḥ ।
+siddhājñā garalasya tīrthasaraṇaṃ vṛddhatvavaiklavyayoḥ saptāṅgavyasanāvaleḥ praśamanopāyaś ca śikṣā satām ।।

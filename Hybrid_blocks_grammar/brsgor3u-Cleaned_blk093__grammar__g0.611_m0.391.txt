@@ -1,0 +1,5 @@
+--- source: brsgor3u-Cleaned.txt | block: 93 | label: grammar | g:0.611 m:0.391 ---
+
+kiñca yathā jalādyupādhikalpitaḥ sūryacandrāderbhedacalanādirdharma evamātmana iti dṛṣṭāntaśruteśca nirviśeṣaṃ tattvamityāha-ata eva copameti ।
+jalasthapratibimbatvākāreṇa sūryasyābhāsatvadyotanāya sūryaketi kapratyayaḥ ।
+yathāyaṃ jyotirmayo vivasvānsvata eko api ghaṭabhedena bhinnāḥ apo anugacchan bahudhā kriyate evamajo ayamātmā devaḥ svaprakāśa eko apyupādhinā māyayā kṣetreṣvanugacchan bhedarūpaḥ kriyata iti yojanā ।।

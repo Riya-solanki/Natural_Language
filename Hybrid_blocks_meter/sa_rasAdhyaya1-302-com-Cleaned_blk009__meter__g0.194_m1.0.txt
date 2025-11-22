@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 9 | label: meter | g:0.194 m:1.0 ---
+
+śrīkaṅkālayaśiṣyo'pi svānyopakṛtaye kṛtī 
+ekaviṃśatyadhīkāraṃ rasādhyāyaṃ nibaddhavān ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1604 | label: meter | g:0.056 m:0.854 ---
+
+{apāṅgatarale dṛśau madhuravakravarṇāgiro
+vilāsabharamantharā gatiratīva kāntaṃ mukham ।
+iti sphuritamaṅgake mṛgadṛśaḥsvato līlayā
+tadatra na madodayaḥ kṛtapado api saṃlakṣyate ।।}

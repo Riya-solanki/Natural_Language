@@ -1,0 +1,7 @@
+--- source: brssgo2u-Cleaned.txt | block: 240 | label: meter | g:0.276 m:0.597 ---
+
+nanu yasmindṛśyate pravṛttistasyaiva seti yuktamubhayoḥ pratyakṣatvāt ।
+natu pravṛttyāśrayatvena kevalaścetano rathādivatpratyakṣaḥ ।
+pravṛtyāśrayadehādisaṃyuktasyaiva tu cetanasya sadbhāvasiddhiḥ kevalācetanarathādivailakṣaṇyaṃ jīvadehasya dṛṣṭamiti ।
+ata eva ca pratyakṣe dehe sati darśanādasati cādarśanāddehasyaiva caitanyamapīti laukāyatikāḥ pratipannāḥ ।
+tasmādacetanasyaiva pravṛttiriti ।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 26 | label: grammar | g:0.625 m:0.5 ---
+
+bhedaḥ svarūpeṇa viṃśatiḥ prayogāḥ । ākāreṇa trisarvajñatāsambaddhānāṃ trisaptatyuttaraśatasaṃkhyākānāmākārāṇāmabhinirhārakāḥ sattvayogāḥ trisaptatyuttaraśatamasya sarvākārābhisambodhasya bhedā bhavanti ।

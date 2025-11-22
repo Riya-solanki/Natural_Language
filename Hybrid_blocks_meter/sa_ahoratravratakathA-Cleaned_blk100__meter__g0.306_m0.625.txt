@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 100 | label: meter | g:0.306 m:0.625 ---
+
+mahotsāhakarair gītaiḥ sumanojñasvarair jine ।
+nṛtyaṃ ca kārayen nityaṃ kuryāc ca divyaghoṣaṇām ।।

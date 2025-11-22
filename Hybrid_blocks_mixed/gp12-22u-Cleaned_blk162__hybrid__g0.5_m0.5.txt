@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 162 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha sarvata eva nidhyānāya naṣṭa-nidhy-āptivat kṛṣṇaṃ madhye nidhāya paritaś carita-niveśeṣu paridhi-veśeṣu kharvita-vrīḍeṣu vyoma-cāriṇāṃ locana-krīḍeṣu sarveṣu strī-puṃsānāṃ kharveṣu prathama-prathita-bhāvi-bhavikā brahma-vidaḥ sampraty api taṃ praty āśiṣāṃ kṛta-dānā vraja-patiṃ praty upālambhamānāḥ pratyāyayāmāsuḥ । yathā-

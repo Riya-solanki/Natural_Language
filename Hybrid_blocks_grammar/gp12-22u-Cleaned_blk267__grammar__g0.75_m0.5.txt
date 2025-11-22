@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 267 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ jñāta-rahasyo' pi nirṇīta-nīti-praṇītaye rahasi vraja-rājam upavrajya sa ca tat-pitṛ-vargaḥ pratisvam eva tam artham arthayāmāsa, [] āmuṣyakulikā kalitā dhanyāḥ khalu tāḥ kanyāḥ kṛṣṇanyāsata eva sa-nyāyatām arhanti । sa yadi bhavadbhiḥ svayam aṅgīkriyate, tadā bhaṅgībhiḥ prasaṅgam aṅgīkriyatām asmābhir iti ।

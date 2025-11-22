@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 5 | label: grammar | g:0.552 m:0.5 ---
+
+dhūmajyotiḥsalilamarutāṃ saṃnipātaḥ kva meghaḥ saṃdeśārthāḥ kva paṭukaraṇaiḥ prāṇibhiḥ prāpaṇīyāḥ ।
+ity autsukyād aparigaṇayan guhyakas taṃ yayāce kāmārtā hi prakṛtikṛpaṇāś cetanācetaneṣu ।।

@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1038 | label: grammar | g:0.624 m:0.375 ---
+
+yadapyuktam {kāvyaśobhāyāḥ kartāro dharmā guṇās tadatiśayahetavastvalaṅkārāḥ} iti tadapi na yuktam । yataḥ kiṃ samastairguṇaiḥ kāvyavyavahāraḥ uta katipayaiḥ । yadi samastaiḥ tatkathamasamastaguṇā gauḍī pāñcālī ca rītiḥ kāvyasyātmā ।
+atha katipayaiḥ tataḥ

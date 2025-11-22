@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1420 | label: meter | g:0.351 m:0.565 ---
+
+prajvālya vahniṃ vidhivajjuhuyājjātavedasam ।
+ṛtvik putro atha patnī vā śiṣyo vāpi sahodaraḥ ।।

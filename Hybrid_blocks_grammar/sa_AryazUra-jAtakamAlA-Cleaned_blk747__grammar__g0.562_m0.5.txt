@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 747 | label: grammar | g:0.562 m:0.5 ---
+
+iti muktapragrahāstena te chātrāḥ paramamiti tattasya vacanamayuktamapi yuktamiva pratyaśrauṣuranyatra bodhisattvāt ।

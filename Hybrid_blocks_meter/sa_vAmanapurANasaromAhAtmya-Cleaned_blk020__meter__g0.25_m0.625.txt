@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 20 | label: meter | g:0.25 m:0.625 ---
+
+daityānāmādipuruṣo hiraṇyakaśipuḥ purā ।
+tasya putro mahātejāḥ prahlādo nāma dānavaḥ ।।

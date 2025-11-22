@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 209 | label: grammar | g:0.562 m:0.5 ---
+
+abhinnam eva tattvam anto bahir ābhāsabhedād ekānekam, bahirdeśakālasvabhāvabhedābhāsasaṃbhedamayaikaikaḥ svalakṣaṇābhāsānām anekatvāt ।।

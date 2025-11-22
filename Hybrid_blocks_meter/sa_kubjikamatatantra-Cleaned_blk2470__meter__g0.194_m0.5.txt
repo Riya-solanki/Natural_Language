@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2470 | label: meter | g:0.194 m:0.5 ---
+
+yadi netraṃ sraved ekaṃ kaṇṭhasthānaṃ viśuṣyati 
+vācādyaṃ kampate yasya svāṅgaṃ vahnisamaprabham ।।

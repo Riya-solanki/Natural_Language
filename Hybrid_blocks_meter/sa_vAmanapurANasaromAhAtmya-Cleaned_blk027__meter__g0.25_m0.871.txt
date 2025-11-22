@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 27 | label: meter | g:0.25 m:0.871 ---
+
+catuṣpāde sthite dharme hyadharme pādavigrahe ।
+prajāpālanayukteṣu bhrājamāneṣu rājasu ।
+svadharmasaṃprayukteṣu tathāśramanivāsiṣu ।।

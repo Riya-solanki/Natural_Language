@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1759 | label: meter | g:0.25 m:1.0 ---
+
+cirātprabhṛti kolo ayamevametena vañcyate ।
+kuhanājihmabhāvena tāpasākumbhasātmanā ।।

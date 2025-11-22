@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2651 | label: meter | g:0.25 m:0.625 ---
+
+sarvadṛṣṭaṃ tathā mūrtaṃ sūkṣmaṃ sūkṣmataraṃ param ।
+jñānadṛk śrotravijñānaṃ paramānandarūpakam ।।

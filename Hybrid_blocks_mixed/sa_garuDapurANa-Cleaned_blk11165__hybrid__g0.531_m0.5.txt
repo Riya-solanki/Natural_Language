@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11165 | label: hybrid | g:0.531 m:0.5 ---
+
+viṣṇuṃ hariṃ bhūtatattve sthitaṃ ca ye cānye ca pravijānanti nityam ।
+anye ca paśyanti yathā svayogyamaṇḍāntarasthaṃ harirūpaṃ khagendra ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 188 | label: meter | g:0.402 m:0.728 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+uttānapādādabhavatsurucyāmuttamaḥ sutaḥ ।
+sunītyāṃ tu dhruvaḥ putraḥ sa lebhe sthānamuttamam ।।

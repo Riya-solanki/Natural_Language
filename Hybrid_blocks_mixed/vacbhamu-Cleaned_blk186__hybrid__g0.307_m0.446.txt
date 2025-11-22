@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 186 | label: hybrid | g:0.307 m:0.446 ---
+
+itthaṃ nāma janmādi saṃbhāvanāhetuḥ ।
+yadanye vaiśeṣikakādaya ita evānumānādīśvaraviniścayamicchanti, iti saṃbhāvanāhetutāṃ draḍhayitumāha- etadevaiti ।

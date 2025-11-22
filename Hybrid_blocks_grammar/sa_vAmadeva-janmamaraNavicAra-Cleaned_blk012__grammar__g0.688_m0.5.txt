@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 12 | label: grammar | g:0.688 m:0.5 ---
+
+tad evam asau bhagavān svamāyāśaktyākhyena avyabhicaritasvātantryaśaktimahimnā svātmanaiva ātmānaṃ saṃkucitam iva avabhāsayan vijñānākalaḥ pralayākalaḥ sakalaś ca sampadyate ।।

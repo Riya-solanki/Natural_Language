@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 11 | label: hybrid | g:0.487 m:0.409 ---
+
+adhikārinirūpaṇārthamāha 
+arocakinaḥ satṛṇābhyavahāriṇaśca kavayaḥ ।।
+iha khalu dvaye kavayaḥ sambhavanti । arocakinaḥ, satṛṇābhyavahāriṇaśceti । arocakisatṛṇābhyavahāriśabdau gauṇārthau । ko'sāvarthaḥ । vivekitvamavivekitvaṃ ceti ।।

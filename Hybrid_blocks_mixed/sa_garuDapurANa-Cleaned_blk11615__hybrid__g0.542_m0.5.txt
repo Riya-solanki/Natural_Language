@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11615 | label: hybrid | g:0.542 m:0.5 ---
+
+mātṛtvaṃ vai yadi mukhyaṃ tvayi syāddhātrādīnāṃ jananī kā vadasva ।
+yataḥ sadā yāti jagattatto hariḥ sadā pitā viṣṇurajaḥ purāṇaḥ ।।

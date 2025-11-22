@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1183 | label: meter | g:0.25 m:0.75 ---
+
+īśānādyāstato bāhye devādyā hetukādayaḥ ।
+haitukastripurāntaśca agnivetālakau yamaḥ ।।

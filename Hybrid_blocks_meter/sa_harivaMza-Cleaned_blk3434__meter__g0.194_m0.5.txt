@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3434 | label: meter | g:0.194 m:0.5 ---
+
+evam uktvā patiṃ bhojaṃ keśān ārujya duḥkhitā 
+putrasya mukham īkṣantī vilalāpaiva sā bhṛśam ।।

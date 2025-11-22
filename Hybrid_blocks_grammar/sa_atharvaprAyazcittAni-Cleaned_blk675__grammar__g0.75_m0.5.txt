@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 675 | label: grammar | g:0.75 m:0.5 ---
+
+skannā dyauḥ skannā pṛthivī skannaṃ viśvam idaṃ jagat skannādo viśve devāḥ prā skannā prāyatāṃ havir ity abhimantryaiha gāvaḥ prajāyadhvam ity anyasya pṛṣadājyasya juhuyāt paśugavā cet sruvair hutvāsrāvaṃ yāty avadānam akarmety anyasyāṃ dṛḍhatarāyāṃ śrapayeyur ।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 634 | label: meter | g:0.06 m:0.515 ---
+
+harer vaktraṃ veṇu-dhvani-miṣatayā varṣati sudhāṃ
+pibaty etāṃ gavyā yad anu rasanā-karṇa-yugalam ।
+ahāsīt prastabdhā nija-viṣayam anyā tu rasanā
+kim etat kiṃ naitad bhavati kim ivaitat kim iti vā ।। [śikhariṇī]

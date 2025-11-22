@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 472 | label: grammar | g:0.583 m:0.5 ---
+
+ityādau sakhītatkāntādigatatvena viṣayasya ca bhede api yadyekatvam tat kvacidapi nīlapītādau bhedo na syāt ।
+uktaṃ hi {ayameva hi bhedo bhedaheturvā yadviruddhadharmādhyāsaḥ kāraṇabhedaśca} iti ।

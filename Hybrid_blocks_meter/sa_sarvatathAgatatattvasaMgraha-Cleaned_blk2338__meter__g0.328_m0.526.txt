@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2338 | label: meter | g:0.328 m:0.526 ---
+
+tatraiṣāṃ hṛdayāni bhavanti ।
+oṃ ratnavṛṣṭi varṣaya sarvārthasaṃpado bhagavan maṇihasta hūṃ ।।

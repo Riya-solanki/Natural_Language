@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 999 | label: meter | g:0.25 m:0.5 ---
+
+pāraṃ paraṃ viṣṇur apārapāraḥ paraḥ parebhyaḥ paramārtharūpī 
+sa brahmapāraḥ parapārabhūtaḥ paraḥ parāṇām api pārapāraḥ ।।

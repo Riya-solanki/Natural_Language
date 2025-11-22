@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3940 | label: meter | g:0.102 m:0.5 ---
+
+saptarṣīṇāṃ tu yau pūrvau dṛśyete uditau divi 
+tayos tu madhye nakṣatraṃ dṛśyate yat samaṃ niśi 
+tena saptarṣayo yuktās tiṣṭhanty abdaśataṃ nṛṇām ।।

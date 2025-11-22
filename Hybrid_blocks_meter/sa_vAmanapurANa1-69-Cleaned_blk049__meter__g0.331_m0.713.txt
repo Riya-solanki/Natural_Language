@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 49 | label: meter | g:0.331 m:0.713 ---
+
+nārada uvāca
+kimarthaṃ lokapatinā dhanādhyakṣo maheśvaraḥ ।
+jyeṣṭhaḥ śreṣṭho variṣṭho api ādyo api na nimantritaḥ ।।

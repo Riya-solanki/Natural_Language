@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 277 | label: grammar | g:0.648 m:0.155 ---
+
+garbhadruter lakṣaṇamāha sametyādi ।।
+yadi grāsaḥ samarasatāṃ yāto bhavedrasatulyarūpatāṃ prāpto bhavet punarvastrādgalito bhavet caturguṇaśvetavastrānniḥsṛto bhavet punastulanāyāṃ tulākarmaṇi yadādhiko'pi syāttadā garbhe pāradasyāntar druto grāso jñātavyaḥ garbhadruto raso veditavya iti vyaktārthaḥ ।।
+punarasau raso drutvā dravarūpaṃ śīghraṃ prāpto jīryati dhātūnapi vidhāneneti śeṣaḥ ।।

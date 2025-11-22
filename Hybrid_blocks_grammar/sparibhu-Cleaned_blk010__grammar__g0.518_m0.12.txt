@@ -1,0 +1,26 @@
+--- source: sparibhu-Cleaned.txt | block: 10 | label: grammar | g:0.518 m:0.12 ---
+
+atha vedoktakarmayogaḥ ।
+varṇāśramaṃ ca dharmaṃ ha vedādividhipūrvakam ।
+tacca sādhyamasādhyaṃ vā janmakarmaphalapradam ।।
+jyotiṣṭome bhavetsargaḥ śrotā syāditi karmaṇi ।
+niṣedhavidhinighnāni na bhavanmokṣasiddhidam ।।
+japānuṣṭhānayordvārā devatānugraho bhavet ।
+tatsakāśādbhavet siddhiścaitanyopādhivarjitā ।।
+tatra bhūtapūjā । pārthivasthāvarāditīrthayātrā agnihotrajvālāmukhīyāgādi । āpaḥ gaṅgāyāḥ naimiṣāraṇyādijalapūjā । tathā ca-
+saṃhitā brāhmaṇāraṇyaṃ dvandvadīkṣā nighaṇṭakam ।
+jyotiṣaṃ ca niruktaṃ ca daśagranthāni sūtrakam ।।
+ekayā liṅgagranthyā ca baddhyate sakalaṃ jagat ।
+daśagranthyā yadā baddho tasya muktiḥ kathaṃ bhavet ।।
+evaṃ paṭhati vedānāṃ haṃkāraṃ piṇḍapoṣaṇam ।
+etejjñānaparaṃ jñātvā sa mukto nātra saṃśayaḥ ।।
+kintu-
+saṃhitā kāryacchandaṃ ca dṛśyabrahmeti brāhmaṇam ।
+nabhamāraṇyamāśritya chandambrahmāsmi vākyatā ।।
+mana ādirodhanaṃ śikṣā nighaṇṭaṃ vṛtidhāraṇam ।
+vivekaṃ jyotiṣaṃ caiva mamedaṃ sūryamucyate ।।
+niruktaṃ saṃśayacchedyaṃ sūtrapāṭhaṃ ca jñānadhīḥ ।
+annopādhiśca vedādyā yastaṃ veda sa vedavit ।।
+asyārthaḥ । saṃhitā nāma svahitam । kāryakāraṇātītaṃ na tu karmacodanā । brāhmaṇaṃ nāma sarvasvaṃ brahmaiva na tu yāgādi । āraṇyaṃ nāma nabhalakṣyaṃ na tu āraṇyarodanam । chando nāma brahmāsmīti smaraṇaṃ na tu piśācavacchalanam । śikṣā nāma śāsanaṃ mana ādidhāraṇā na tu pāṭhaḥ nighaṇṭaṃ nāma kāṭhinyaṃ vṛttisāvadhanatā na tu deśāntaram । jyotiṣaṃ nāma vivekata na tu gaṇakādivyāpāraḥ । sūtraṃ nāma abhedānusandhānaṃ na tu karmapreraṇā । niruktaṃ nāma saṃśayacchedyaṃ na tu vedārthaprauḍhiḥ । sūtrapāṭhaṃ nāma jñānadṛṣṭiḥ । na tu vyākaraṇabalam ।
+etajjñānaṃ paraṃ jñānamanyatsaṃsārapoṣaṇam ।
+iti vedoktakarmayogaḥ । pramāṇaṃ vedākṣarāṇāṃ sāyujyaṃ sarūpatāṃ salokatāmaśnuta iti śruteḥ ।।

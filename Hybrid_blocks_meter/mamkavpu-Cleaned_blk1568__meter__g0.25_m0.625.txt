@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1568 | label: meter | g:0.25 m:0.625 ---
+
+{rājye sāraṃ vasudhā vasudhāyāṃ puraṃ pure saudham ।
+saudhe talpaṃ talpe varāṅganānaṅgasarvasvam ।।}

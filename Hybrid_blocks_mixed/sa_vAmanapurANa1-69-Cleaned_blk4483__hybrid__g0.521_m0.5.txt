@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4483 | label: hybrid | g:0.521 m:0.5 ---
+
+tasmād dhyānaṃ smaraṇaṃ kīrtanaṃ vā nāmnāṃ śravaṇaṃ paṭhatāṃ sajjanānām ।
+kāryaṃ viṣṇoḥ śraddadhānairmanuṣyaiḥ pūjātulyaṃ tat praśaṃsanti devā ।।

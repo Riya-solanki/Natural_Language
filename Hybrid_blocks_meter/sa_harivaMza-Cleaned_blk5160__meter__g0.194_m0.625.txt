@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5160 | label: meter | g:0.194 m:0.625 ---
+
+kasyacit tv atha kālasya sa rājā janamejayaḥ 
+dīkṣito vājimedhāya vidhivad bhūridakṣiṇaḥ ।।

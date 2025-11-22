@@ -1,0 +1,3 @@
+--- source: brssgo4u-Cleaned.txt | block: 102 | label: hybrid | g:0.5 m:0.5 ---
+
+nanu anārabhyo mokṣaḥ katham asya karmakāryatvam ucyate ।

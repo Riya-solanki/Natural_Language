@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2831 | label: meter | g:0.25 m:0.5 ---
+
+vasetsa narake ghora dināni paśuromataḥ ।
+saṃmitāni durācāro yo hantyavidhinā paśūn ।
+māṃsaṃ santyajya saṃprārthya kāmānyāti tato harim ।।

@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 1097 | label: hybrid | g:0.44 m:0.468 ---
+
+[] tad evam eva saṃyogād yathā tad-eka-sukha-yoga eva teṣāṃ bhogas tathā viyogād api, yathā
+yadi dūraṃ gataḥ kṛṣṇo vana-śobhekṣaṇāya tam ।
+ahaṃ pūrvam ahaṃ pūrvam iti saṃspṛśya remire ।।[BhP ।

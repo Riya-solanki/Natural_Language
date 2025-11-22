@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3755 | label: grammar | g:0.75 m:0.5 ---
+
+kunter vṛṣṇir vṛṣṇer nirvṛtiḥ । nirvṛter daśārhas tataś ca vyomaḥ । tasmād api jīmūtas tato vikṛtis tataś ca bhīmarathaḥ । tasmān navarathas tasyāpi daśarathas tataś ca śakunis tattanayaḥ karambhiḥ karambher devarāto abhavat । tasyāpi devakṣatro devakṣatrān madhur madhor anavaratho anavarathāt kuruvatsas tataś cānurathaḥ tataḥ puruhotro jajñe । tataś cāṃśus tataś ca satvataḥ satvatād ete sātvatāḥ ity etāṃ jyāmaghasaṃtatiṃ samyag chraddhāsamanvitaḥ śrutvā sarvapāpaiḥ pramucyate ।।

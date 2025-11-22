@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 377 | label: meter | g:0.311 m:0.5 ---
+
+hanta jñānaṃ mama vilulitaṃ kvāpi na syāt parantu
+premārdraṃ tad bhavati sutarāṃ tāsu tu preyasīṣu ।
+yasmāt tāsu sphurati na dhiyā premamayyā parā tvaṃ
+nāpi khyātiṃ bahir anugayā tāṃ parākartum īśe ।। [mandākrāntā]

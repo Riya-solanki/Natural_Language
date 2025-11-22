@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1098 | label: meter | g:0.25 m:0.555 ---
+
+vṛṣṇes trividham etaṃ tu bahuśākhaṃ mahaujasam 
+prakṛtānupayuktatvād vistarān nānukīrtanam । 
+dhārayan vipulaṃ vaṃśaṃ nānarthair iha yujyate ।।

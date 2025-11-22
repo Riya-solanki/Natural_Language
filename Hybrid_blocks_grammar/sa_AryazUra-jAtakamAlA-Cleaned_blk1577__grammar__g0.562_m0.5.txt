@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1577 | label: grammar | g:0.562 m:0.5 ---
+
+prāṇā amī me śarabha tvadīyāḥ prāgeva yatrāsti mama prabhutvam ।
+tadarhasi draṣṭumidaṃ puraṃ me satyāṃ rucau tatra ca te astu vāsaḥ ।।

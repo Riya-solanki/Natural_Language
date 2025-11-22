@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 332 | label: meter | g:0.25 m:0.5 ---
+
+sarvaṃ dhyātveti saṃpūjya mudrāḥ sandarśayettataḥ ।
+añjaliḥ prathamā mudrā kṣipraṃ devaprasādhanī ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 826 | label: grammar | g:0.75 m:0.5 ---
+
+trīṇi vā caturgṛhītāny anuvākasyety ācāryā ete nityakalpāyārtvijyetarūpayasāṃ tanvām ārttim ārchatāṃ cottarāṃ vā saṃdhiṃ saṃdhāya juhuyād iti taittirīyabrāhmaṇam iṣṭvā taddaivatyāmedhikīyatāmarttir vidyāj jāmiṃ puruṣavidhiṃ māyayā vā yajñasaṃbandhinīṃ vāṅmanaścintāyāṃ prāg viharaṇād ārtāya prajāpatir manasi sārasvato vāci visṛṣṭāyāṃ vidhānaṃ dīkṣāyāṃ brahmavrate svāhety etena nyāyena vājasaneyībrāhmaṇamoghena mantrāḥ k;lptāḥ ।

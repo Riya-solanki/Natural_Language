@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 127 | label: grammar | g:0.583 m:0.5 ---
+
+śvadṛtau pañcagavyaṃ ca daśamyā dūṣitāṃ tyajet ekādaśīṃ dvijaśreṣṭhāḥ pakṣayor ubhayor api ।।

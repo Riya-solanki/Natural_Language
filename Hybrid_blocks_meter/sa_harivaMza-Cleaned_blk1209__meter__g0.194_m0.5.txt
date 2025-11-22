@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1209 | label: meter | g:0.194 m:0.5 ---
+
+akrūras tu tadā ratnam ādāya bharatarṣabha 
+samayaṃ kārayāṃ cakre nāvedyo ahaṃ tvayācyute ।।

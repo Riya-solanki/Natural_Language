@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1018 | label: meter | g:0.197 m:0.997 ---
+
+kuṇḍala-maṇḍita-gaṇḍa-vibhāgam
+tāmbūla-cchavi-jid-adhara-surāgam ।
+adharāvṛtaye kara-dhṛta-celam
+graiveyakam anukṛta-maṇi-melam ।।

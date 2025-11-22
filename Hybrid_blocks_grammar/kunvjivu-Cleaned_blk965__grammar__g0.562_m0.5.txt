@@ -1,0 +1,3 @@
+--- source: kunvjivu-Cleaned.txt | block: 965 | label: grammar | g:0.562 m:0.5 ---
+
+atra garjitaśabdaṃ śrutvā mahilāsu kāsucitcalavidyudbhāvikā rātriṣu meghān vilokayantītimahilānāmabhiprāyaniścayasyāgocaratvāt vākyārthasyānyathānupapatteśca pūrvoktamanusartavyam ।

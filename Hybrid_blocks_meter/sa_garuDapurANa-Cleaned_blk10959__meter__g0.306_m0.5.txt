@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10959 | label: meter | g:0.306 m:0.5 ---
+
+yato nāsti tato vāyurṛjuryogyaḥ prakīrtitaḥ ।
+anyeṣāṃ sarvadā nāsti ato na ṛjavaḥ smṛtāḥ ।।

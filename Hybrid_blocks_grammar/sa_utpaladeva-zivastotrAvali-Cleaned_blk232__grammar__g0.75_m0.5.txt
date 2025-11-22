@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 232 | label: grammar | g:0.75 m:0.5 ---
+
+he nātha praṇatārtināśanapaṭo śreyonidhe dhūrjaṭe duḥkhaikāyatanasya janmamaraṇatrastasya me sāmpratam tac ceṣṭasva yathā manojñaviṣayāsvādapradā uttamā jīvann eva samaśnuve aham acalāḥ siddhīs tvadarcāparaḥ ।।

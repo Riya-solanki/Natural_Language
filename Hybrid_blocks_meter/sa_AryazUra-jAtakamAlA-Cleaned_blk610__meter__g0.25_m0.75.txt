@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 610 | label: meter | g:0.25 m:0.75 ---
+
+mārgaśramaparimlānau ko adya viśrāmayiṣyati ।
+kṣuttarṣaduḥkhābhihatau yāciṣyete kametya vā ।।

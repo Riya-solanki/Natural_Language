@@ -1,0 +1,8 @@
+--- source: nysvbh_u-Cleaned.txt | block: 242 | label: meter | g:0.282 m:0.902 ---
+
+viparītā vā kutsitā vā pratipattirvipratipattiḥ।
+vipratipadyamānaḥ parājayaṃ prāpnoti।
+nigrahasthānaṃ khalu parājayaprāptiḥ।
+apratipattistvārambhaviṣaye apyanārambhaḥ।
+pareṇa sthāpitaṃ vā na pratiṣedhati, pratiṣedhaṃ vā noddharati।
+asamāsācca naite eva nigrahasthāne iti ।।

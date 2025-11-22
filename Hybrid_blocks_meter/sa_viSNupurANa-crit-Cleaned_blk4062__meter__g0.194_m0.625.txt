@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4062 | label: meter | g:0.194 m:0.625 ---
+
+saptamo bhojarājasya bhayād rodhoparodhataḥ 
+devakyāḥ patito garbha iti loko vadiṣyati ।।

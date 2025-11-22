@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 318 | label: hybrid | g:0.465 m:0.5 ---
+
+yadi kalpakoṭi daśabhī kuśalaiḥ pathebhiś caramāṇu pratyayarahatvaspṛhāṃ janeti 
+tada khaṇḍaśīlu bhavate api chidraśīlo pārājiko gurutaro ayu cittupādo ।।

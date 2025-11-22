@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3357 | label: meter | g:0.194 m:0.625 ---
+
+vāramukhyāś ca tāḥ sarvāḥ kṛṣṇasya mukhapaṅkajam 
+papur hi netrabhramarair nimeṣāntaragāmibhiḥ ।।

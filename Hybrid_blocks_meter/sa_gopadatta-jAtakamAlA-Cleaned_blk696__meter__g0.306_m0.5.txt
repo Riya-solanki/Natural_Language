@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 696 | label: meter | g:0.306 m:0.5 ---
+
+suhṛdaḥ saṃvibhajyante dārair api dhanair api ।
+saṃvibhāgas tu dharmeṇa durlabho bhuvi nāsti vā ।।

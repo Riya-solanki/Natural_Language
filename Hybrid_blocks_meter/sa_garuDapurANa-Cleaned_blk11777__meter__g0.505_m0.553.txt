@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11777 | label: meter | g:0.505 m:0.553 ---
+
+śrīgaruḍamahāpurāṇam- 
+yā pūrvasarge dakṣaputrī satī tu rudrasya patnī dakṣayajñe svadeham ।
+visṛjya sā menakāyāṃ ca jajñe dharādharāddhemavato vai sakāśāt ।।

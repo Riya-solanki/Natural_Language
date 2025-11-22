@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4907 | label: meter | g:0.25 m:0.555 ---
+
+tatas tad viṣahitvājau hy astram astravidāṃ varaḥ 
+tataḥ kruddho hṛṣīkeśaḥ pratiṣidhyāgnisaṃcayaṃ । 
+jagrāha vāruṇaṃ so astraṃ vāsudevaḥ pratāpavān ।।

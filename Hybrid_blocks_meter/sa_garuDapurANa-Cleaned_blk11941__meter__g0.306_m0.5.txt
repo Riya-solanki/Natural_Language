@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11941 | label: meter | g:0.306 m:0.5 ---
+
+vairāgyamevaṃ prakārotyeva nityamataḥ parjanyastvantakaḥ pakṣivarya ।
+etāvatā śarabhākhyo mahātmā sa cāntaro sa tu parjanya eva ।।

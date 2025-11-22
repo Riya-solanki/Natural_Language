@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 4 | label: grammar | g:0.583 m:0.5 ---
+
+kṣetre cāsmin sakalavipadāṃ bhañjane pañca māsān āsīthāścet priyajanaviyogārtirūrdhvaṃ na te syāt ।
+ākarṇyemāṃ punariti tathā saiṣa cakre nivāsaṃ kleśo bhūyānapi bahumataḥ ślāghyate cedudarkaḥ ।।

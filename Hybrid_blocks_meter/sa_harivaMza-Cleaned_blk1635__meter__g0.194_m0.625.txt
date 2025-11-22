@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1635 | label: meter | g:0.194 m:0.625 ---
+
+sāśmaśabdaiḥ śilāvarṣaiḥ prapatadbhiś ca pādapaiḥ 
+nijaghne devasaṃghāṃs tān dānavāṃś cāpy ajīvayat ।।

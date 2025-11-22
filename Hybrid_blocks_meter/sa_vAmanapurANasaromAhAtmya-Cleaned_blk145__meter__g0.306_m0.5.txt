@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 145 | label: meter | g:0.306 m:0.5 ---
+
+śṛṇu tvaṃ ca mahābhāge varo yaste hṛti sthitaḥ ।
+maddarśanaṃ hi viphalaṃ na kadācid bhaviṣyati ।।

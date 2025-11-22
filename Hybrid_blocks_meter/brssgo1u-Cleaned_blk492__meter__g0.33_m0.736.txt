@@ -1,0 +1,7 @@
+--- source: brssgo1u-Cleaned.txt | block: 492 | label: meter | g:0.33 m:0.736 ---
+
+matāntaramāha-anusmṛteriti ।
+prādeśena manasā mitaḥ prādeśamātra ityarthaḥ ।
+yathākathañciditi ।
+manaḥsthaṃ prādeśamātratvaṃ smṛtidvārā smaryamāṇe kalpitaṃ śruterālambanamityarthaḥ ।
+sūtrasyārthantaramāha-prādeśeti ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6032 | label: meter | g:0.25 m:0.5 ---
+
+tapaso brahmacaryasya japādeś ca phalaṃ dvijāḥ 
+prāpnoti puruṣas tena kaliḥ sādhv iti bhāṣitam ।।

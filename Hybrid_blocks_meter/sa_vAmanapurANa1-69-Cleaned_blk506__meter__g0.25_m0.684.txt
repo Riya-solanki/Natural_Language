@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 506 | label: meter | g:0.25 m:0.684 ---
+
+pulastya uvāca ।
+labdhacakṣurasau bhūyo hiraṇyākṣe api jīvati ।
+lalo abhiṣikto daityena prahlādena nije pade ।।

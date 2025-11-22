@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 44 | label: hybrid | g:0.531 m:0.5 ---
+
+śraddhātha hrīḥ śīlam athāpi dānaṃ dharmā ime satpuruṣapraśastāḥ ।
+etaṃ hi mārgaṃ divigaṃ vadanti etena vai gacchati devalokam ।।

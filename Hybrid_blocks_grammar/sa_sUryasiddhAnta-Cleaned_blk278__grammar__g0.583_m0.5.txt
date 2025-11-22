@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 278 | label: grammar | g:0.583 m:0.5 ---
+
+yuddham aṃśuvimardākhyam aṃśuyoge parasparam। aṃśād ūne apasavyākhyaṃ yuddham eko atra ced aṇuh।।

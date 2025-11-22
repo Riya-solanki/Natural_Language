@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5984 | label: meter | g:0.251 m:0.623 ---
+
+vedādānaṃ kariṣyanti baṭavaś ca tathāvratāḥ 
+gṛhasthāś ca na hoṣyanti na dāsyanty ucitāny api ।।

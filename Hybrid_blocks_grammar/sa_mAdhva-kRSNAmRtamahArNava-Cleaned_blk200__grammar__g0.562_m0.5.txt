@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 200 | label: grammar | g:0.562 m:0.5 ---
+
+tīrthakoṭisahasrais tu sevitaiḥ kiṃ prayojanam toyaṃ yadi piben nityaṃ sāḷagrāmaśilācyutam ।।

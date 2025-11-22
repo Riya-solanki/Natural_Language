@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 377 | label: hybrid | g:0.51 m:0.5 ---
+
+varaṃ naiva tu jāyeran ye jātā nirdhanā janāḥ ।
+jātasya yadi duḥkhāni varaṃ mṛtyur na jīvitam ।।

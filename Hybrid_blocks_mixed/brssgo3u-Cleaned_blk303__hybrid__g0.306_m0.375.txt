@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 303 | label: hybrid | g:0.306 m:0.375 ---
+
+yadapyuktamunmānavyapadeśādasti paramiti, tatrābhidhīyate - unmānavyapadeśo api na brahmavyatiriktavastvastitvapratipattyarthaḥ ।
+kimarthastarhi buddhyarthaḥ, upāsanārtha iti yāvat ।

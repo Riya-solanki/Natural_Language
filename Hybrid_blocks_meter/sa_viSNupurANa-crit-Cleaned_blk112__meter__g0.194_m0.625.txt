@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 112 | label: meter | g:0.194 m:0.625 ---
+
+sparśamātras tato vāyū rūpamātraṃ samāvṛṇot 
+jyotiś cāpi vikurvāṇaṃ rasamātraṃ sasarja ha ।।

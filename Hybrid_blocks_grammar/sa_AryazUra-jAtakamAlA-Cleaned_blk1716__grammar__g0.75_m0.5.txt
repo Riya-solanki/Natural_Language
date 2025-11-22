@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1716 | label: grammar | g:0.75 m:0.5 ---
+
+tedevaṃ dviṣatāmapi manāṃsyāvarjayanti sadvṛttānuvartinaḥ, iti lokaṃ samāvarjayitukāmena sadvṛttānuvartinā bhavitavyam । na samarthāstathā svārthamapi pratipattuṃ sattvā yathā parārthaṃ pratipannavān sa bhagavāniti tathāgatavarṇe api vācyam । satkṛtya dharmaśravaṇe karuṇāvarṇe rājāvavāde ca । evaṃ rājñā prajāsu dayāpannena bhavitavyam । kṛtajñakathāyāmapyupaneyam । evaṃ kṛtajñāḥ santo bhavantīti ।

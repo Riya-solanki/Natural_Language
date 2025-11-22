@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 210 | label: grammar | g:0.552 m:0.5 ---
+
+tathā bāhyaṃ nāstīti niṣedhayatāvaśyaṃ buddhāvāropayitavyam, jñānātiriktaṃ ca bāhyam ।
+na ca jñānākāratā tasya saṃbhavati, tasmādevamādisiddhyarthamavaśyaṃ vijñānānāmanātmagrāhitvaṃ balādabhyupagantavyam, bhavadīyānumānārthaṃ ca ।
+tadevaṃ saṃvidbalasiddhasya bāhyasya saṃbhave vedyatvādibhirnāpahnavaḥ saṃbhavati, bāhyasyaiva hi tadā saṃvedyatvaṃ darśanabalādabhyupagamyate ।
+pratyutātmana eva saṃvedyatvaṃ na saṃbhavati- nīlādivittīnāmidaṃ nīlamidaṃ pītamityanātmāvabhāsitvāt ātmāvabhāsitvābhāvāt ।।

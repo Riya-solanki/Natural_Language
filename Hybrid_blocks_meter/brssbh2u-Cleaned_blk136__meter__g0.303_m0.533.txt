@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 136 | label: meter | g:0.303 m:0.533 ---
+
+FN lokyate jñāyater'thoneneti loko mantrārthavādādiśāstraṃ vṛddhavyavahāraśca ।
+abhidhyānaṃ saṃkalpaḥ ।
+yathā bhārate śrīkṛṣṇasya saṃkalpamātreṇa draupadyāḥ paṭaparamparotpattiḥ tathā asahāyasyāpi brahmaṇaḥ kāraṇatvam ।

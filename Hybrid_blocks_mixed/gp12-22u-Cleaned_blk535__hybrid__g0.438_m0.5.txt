@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 535 | label: hybrid | g:0.438 m:0.5 ---
+
+[] tad evaṃ dūrāgatānāṃ kārpaṇya-paṇya-bhaṇita-śravaṇam ārabhya tasmād abhyāsa-gatānām api bhayam upalabhya śrīmān kṛṣṇas tv idaṃ sasaṃrambhaṃ bhāvayāmāsa-

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 808 | label: meter | g:0.25 m:0.625 ---
+
+paryaṅkaṃ śithilīkṛtvā namaskṛtvā maheśvaram ।
+kathayāmāsa tatsarvaṃ yacchrutaṃ brahmaṇaḥ purā ।।

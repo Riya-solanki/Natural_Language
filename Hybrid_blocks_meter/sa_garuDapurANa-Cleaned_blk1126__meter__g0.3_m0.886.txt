@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1126 | label: meter | g:0.3 m:0.886 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+prasaṃgātkathayiṣyāmi śālagrāmasya lakṣaṇam ।
+śālagrāmaśilāsparśātkoṭijanmāghanāśanam ।।

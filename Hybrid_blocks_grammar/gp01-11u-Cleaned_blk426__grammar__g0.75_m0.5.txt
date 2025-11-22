@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 426 | label: grammar | g:0.75 m:0.5 ---
+
+[] yathā sa eva bālaḥ sarvatas tad-āvaraṇa-kārikayā kayācic divya-kumārikayātmānaṃ pidhāya vraja-rāja-hṛdayān nija-hṛdayaṃ praviśya dṛśyavad eva sthita iti । tataś ca so' yaṃ hṛdaya-kamala-madhym adhyāsāmāsa । seyaṃ tu jaṭhara-madhyam iti । vrajarājaś ca nirantara-svāntara-tat-praveśāveśaṃ durnideśaṃ ciram anubhūya dūyamānatāṃ vidhūya tathaivānubhūtavān ।

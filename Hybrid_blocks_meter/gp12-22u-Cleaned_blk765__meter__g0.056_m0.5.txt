@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 765 | label: meter | g:0.056 m:0.5 ---
+
+annāt pūrtir abhūd galāvadhi nṛṇāṃ govardhanādrer makhe
+sarva-prāṇa-bhṛtāṃ tathāpi hṛdayaṃ nāpūri tatrāṇv api ।
+yasmin snigdham abhūd aśeṣa-diviṣad-vṛndaṃ yadapy atra bhoḥ
+paśyāścaryam athāpi hanta gatavān saṅkrandanaḥ śuṣkatām ।। [śārdūla]

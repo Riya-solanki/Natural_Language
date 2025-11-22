@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4580 | label: meter | g:0.25 m:0.5 ---
+
+tṛṣṇā pramehe madhuraṃ prapicchaṃ madhvāmaye syādvividhovikāraḥ ।
+sampūraṇādvā kaphasambhavaḥ syātkṣīṇeṣu doṣeṣvanilātmako vā ।।

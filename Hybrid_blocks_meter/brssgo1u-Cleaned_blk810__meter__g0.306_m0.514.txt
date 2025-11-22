@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 810 | label: meter | g:0.306 m:0.514 ---
+
+atrāvyaktaṃ pradhānaṃ netyatra hetvantarārthaṃ sūtram-jñeyatveti ।
+sattvādiguṇarūpātpradhānāt puruṣasyāntaraṃ bhedastajjñānādityarthaḥ ।
+nahi śakyamiti ca vadadbhiḥ pradhānaṃ jñeyatvena smaryata iti saṃbandhaḥ ।
+na kevalaṃ bhedapratiyogitvena pradhānasya jñeyatvaṃ tairiṣṭaṃ kintu tasyopāsanayāṇimādiprāptaye apītyāha-kvacicceti ।

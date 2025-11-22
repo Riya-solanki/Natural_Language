@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2032 | label: grammar | g:0.552 m:0.5 ---
+
+ko asau nṛpaḥ kathaya yo na samudyatāstraḥ krīḍāvane vanamṛgīdayitānnihanti ।
+tdvannihanmi manujān yadi vṛttihetorādharmikaḥ kila tato asmi na te mṛgaghnāḥ ।।

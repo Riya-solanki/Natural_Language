@@ -1,0 +1,8 @@
+--- source: brsvbh3u-Cleaned.txt | block: 153 | label: meter | g:0.251 m:0.81 ---
+
+vaiśvadevīpadamāmikṣāyāṃ pravartate tathāpyarthamedaḥ sphuṭataraḥ ।
+āmikṣāpadaṃ hi rūpeṇāmikṣāyāṃ pravartate ।
+vaiśvadevīpadaṃ tu tasyāmeva viśvadevaviśiṣṭāyām ।
+evaṃ hi vijñānāndayorapi sphuṭataraḥ pravṛttinimittabhedaḥ satyapi brahmaṇyaikārthye ।
+naca vyākhyānamubhayorapi prasiddhārthatvādbhinnārthatvācca ।
+śeṣamatirohitārtham ।।

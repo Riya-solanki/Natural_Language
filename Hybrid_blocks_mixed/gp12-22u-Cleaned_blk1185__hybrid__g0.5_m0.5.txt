@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1185 | label: hybrid | g:0.5 m:0.5 ---
+
+[] rādhāyāṃ tu tatra yāma-dvayaṃ cetanā-virāmataḥ prāpta-bādhāyāṃ bandhu-samavāye ca nivṛtta-sarvopāye, tūrṇam eva tad-abhyarṇaṃ pūrṇimā vṛndayā saha vindamānā babhūva । vindamānā ca kaṣṭa-bhāg atispaṣṭam ācaṣṭa-

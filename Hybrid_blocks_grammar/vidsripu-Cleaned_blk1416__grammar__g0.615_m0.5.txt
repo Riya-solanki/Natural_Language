@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1416 | label: grammar | g:0.615 m:0.5 ---
+
+khalvāṭo divaseśvarasya kiraṇaiḥ saṃtāpito mūrdhani chāyām ātapavairiṇīm anusaran bilvasya mūlaṃ gataḥ ।
+tatrāpy āśu kadācid eva patatā bilvena bhagnaṃ śiraḥ prāyo gacchati yatra bhāgyarahitas tatrāpadāṃ bhājanam ।।

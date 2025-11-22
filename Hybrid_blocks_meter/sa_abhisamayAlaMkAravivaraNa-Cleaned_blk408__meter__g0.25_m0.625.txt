@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 408 | label: meter | g:0.25 m:0.625 ---
+
+pratyekaṃ darśanākhye ca bhāvanākhye ca vartmani ।
+ānantaryasamādhiśca saha vipratipattibhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3270 | label: meter | g:0.25 m:0.5 ---
+
+dhik te vṛttaṃ sudurvṛtta yaḥ sarvā nindase striyaḥ 
+santi striyo nīcavṛttāḥ santi caiva pativratāḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 485 | label: grammar | g:0.604 m:0.5 ---
+
+vajrāṅkuśyā samākarṣed vajra āśā praveśayet । bandhayed vajranigaḍā vajraghaṇṭā tu cālayed ।। ।।

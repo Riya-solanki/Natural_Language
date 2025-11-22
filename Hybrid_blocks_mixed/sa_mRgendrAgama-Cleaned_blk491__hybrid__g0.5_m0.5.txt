@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 491 | label: hybrid | g:0.5 m:0.5 ---
+
+tarpayitvā praṇamyeśaṃ vratameṣāṃ samarpayet। jaṭāstadbhasmadaṇḍaṃ ca kaupīnaṃ saṃyamaṃ kramāt।। samarpya brahmaṇe dhyātvā puṣpavāryakṣataistridhā। vrataṃ samarpya mantrāṇāṃ hṛnmantreṇa visarjanam।। jaṭāvataraṇaṃ tasya kāryam iti

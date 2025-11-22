@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 451 | label: grammar | g:0.583 m:0.5 ---
+
+[] hasitvā punar uvāca - atha sa vraja-deva-sutasya vasudevasyāgamana-prakāras tu varṇyatām ।

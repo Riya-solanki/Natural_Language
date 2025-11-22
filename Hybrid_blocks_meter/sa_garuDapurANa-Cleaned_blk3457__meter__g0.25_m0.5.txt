@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3457 | label: meter | g:0.25 m:0.5 ---
+
+yathāyathā hi puruṣaḥ śāstraṃ samadhigacchati ।
+tathātathāsya medhā syādvijñānaṃ cāsya rocate ।।

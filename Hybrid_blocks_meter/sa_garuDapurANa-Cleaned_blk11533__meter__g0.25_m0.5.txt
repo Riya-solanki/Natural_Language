@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11533 | label: meter | g:0.25 m:0.5 ---
+
+paścime mādhavāyātha tathā kṛṣṇāya vai namaḥ ।
+buddhāya ca namaskuryādvāyavye kanyake śubhe ।।

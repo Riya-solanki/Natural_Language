@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4073 | label: meter | g:0.253 m:0.688 ---
+
+pulastya uvāca ।
+dvitīyaṃ pāpaśamanaṃ stavaṃ vakṣyāmi te mune ।
+yena samyagadhītena pāpaṃ nāśaṃ tu gaccati ।।

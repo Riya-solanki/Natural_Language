@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 293 | label: meter | g:0.194 m:0.75 ---
+
+niṣṭhājñaptirasākṛṣṭaṃ śrutau dhāvati me manaḥ 
+vartayiṣye dvijaśreṣṭha prastutoktiśarīravat ।।

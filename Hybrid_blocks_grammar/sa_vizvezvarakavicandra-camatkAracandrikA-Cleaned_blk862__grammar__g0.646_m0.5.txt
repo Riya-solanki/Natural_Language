@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 862 | label: grammar | g:0.646 m:0.5 ---
+
+atra kalpapādapaśākhāyāḥ kālāhisaṃkalpamutpādyānayā sakṛpāṇo nāyakapāṇirupamīyata iti seyamutpādyopamā nāma vikṛtarūpā prapañcopamā । evamuttarārdhe api yojanīyam ।

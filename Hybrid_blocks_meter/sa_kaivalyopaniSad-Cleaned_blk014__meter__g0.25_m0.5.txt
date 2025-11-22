@@ -1,0 +1,4 @@
+--- source: sa_kaivalyopaniSad-Cleaned.txt | block: 14 | label: meter | g:0.25 m:0.5 ---
+
+ātmānam araṇiṃ kṛtvā praṇavaṃ cottarāraṇim ।
+jñānanirmathanābhyāsāt pāpaṃ [pāśaṃ] dahati paṇḍitaḥ ।।

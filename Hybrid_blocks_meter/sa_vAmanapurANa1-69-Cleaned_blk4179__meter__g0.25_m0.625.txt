@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4179 | label: meter | g:0.25 m:0.625 ---
+
+ajeśe śaṃbhumanaghaṃ sthāṇuṃ ca kurujāṅgale ।
+vanamālinamāhurmāṃ diṣkindhāvāsino janāḥ ।।

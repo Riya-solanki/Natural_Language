@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1074 | label: hybrid | g:0.5 m:0.5 ---
+
+purohitaḥ so astu narādhipasya mantrādinā svastyayayena yuktaḥ ।
+satkāramāpnotu tathā ca rājñastavāpi yo nāma bisānyahārṣīt ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2384 | label: meter | g:0.194 m:0.625 ---
+
+kathitā guruṇā samyag bhūsamudrādisaṃsthitiḥ 
+sūryādīnāṃ ca saṃsthānaṃ jyotiṣām api vistarāt ।।

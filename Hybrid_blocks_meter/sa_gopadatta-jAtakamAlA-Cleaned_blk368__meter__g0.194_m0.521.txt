@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 368 | label: meter | g:0.194 m:0.521 ---
+
+ye mṛtyuṃ gaṇayanti naiva vipadi grāmaṃ bhajante na ye
+gehe bandhuṣu sūnuṣu vyapagatasnehātmanodyoginaḥ ।
+te tīrtvā jaladhīn agādhasalilān āvartabhīmān budhāḥ
+prāpyārthān gajadantabhaṅgasitayā cinvanti kīrtyā jagat ।।

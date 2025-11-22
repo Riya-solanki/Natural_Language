@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 300 | label: meter | g:0.39 m:0.688 ---
+
+narakiṃnararakṣāṃsi vayaḥpaśumṛgoragān 
+avyayaṃ ca vyayaṃ caiva yad idaṃ sthāṇujaṅgamam ।।

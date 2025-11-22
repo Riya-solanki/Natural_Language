@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 564 | label: meter | g:0.25 m:0.588 ---
+
+atra "atitarām' ityatīva camatkārakāri ।
+evamanyeṣāmapi sajātīyalakṣaṇadvāreṇa lakṣaṇaniṣpattiḥ svayamanusartavyā ।
+tadevamiyamanekākārā vakratvavicchittiścaturvidhapadaviṣayā vāvayaikadeśajīvitatvenāpi parisphurantī sakalavākyavaicitryanibandhanatāmupayāti ।

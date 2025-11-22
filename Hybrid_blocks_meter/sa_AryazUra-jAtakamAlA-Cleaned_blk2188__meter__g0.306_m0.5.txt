@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2188 | label: meter | g:0.306 m:0.5 ---
+
+asajjanaḥ kutra yathā cikitsyate guṇānuvṛttyā sukhaśīlasaumyayā ।
+kaṭuṣṇarūkṣākṣi hi yatra siddhaye kaphātmako roga iva prasarpati ।।

@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 439 | label: grammar | g:0.556 m:0.5 ---
+
+yadapi rūpādayaḥ kārye guṇamārabhate ityuktaṃ tadapari guṇadvayapratītyabhāvīnnātītavāsmabhyaṃ rocate ।
+yadi hi dvau guṇau pratīyeyātāṃ tantuṣvekaḥ paṭe cāparastataḥ kāryakāraṇabhāvaṃ pratipadyeyātām ।
+yatrāpi nānārūpaiḥ śuklakṛṣṇaraktapītaistantubhirārabhyate paṭastastrāpi ta eva varṇāḥ paṭagatāḥ pratīyante na rūpāntaram ।।

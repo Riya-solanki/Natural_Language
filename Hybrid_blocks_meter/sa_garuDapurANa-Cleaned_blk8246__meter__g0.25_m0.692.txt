@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8246 | label: meter | g:0.25 m:0.692 ---
+
+śrīkṛṣṇa uvāca ।
+svesve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ ।
+svakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu ।।

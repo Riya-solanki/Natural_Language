@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2726 | label: meter | g:0.302 m:0.806 ---
+
+buddho dharma iti khyāta ityuktvā dharmatākṣaraṃ ।
+buddhadharmamahāmudrājñānasya paramanayaṃ ।।

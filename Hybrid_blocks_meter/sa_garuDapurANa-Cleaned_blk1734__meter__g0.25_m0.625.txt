@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1734 | label: meter | g:0.25 m:0.625 ---
+
+tṛtīye rājasanmānaṃ caturthe kalahāgamaḥ ।
+pañcamena mṛgāṅkena strīlābho vai tathā bhavet ।।

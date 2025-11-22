@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1437 | label: meter | g:0.302 m:0.806 ---
+
+antarjalamavāṅmagno japettriraghamarṣaṇam ।
+drupadāṃ vātha sāvitrariṃ tadviṣṇoḥ paramaṃ padam ।।

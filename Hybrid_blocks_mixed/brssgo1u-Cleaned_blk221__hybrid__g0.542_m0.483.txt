@@ -1,0 +1,4 @@
+--- source: brssgo1u-Cleaned.txt | block: 221 | label: hybrid | g:0.542 m:0.483 ---
+
+kāmyata iti kāmānandaḥ tasya bhṛguvallyāṃ pañcamasya brahmatvadṛṣṭerānandamayasyāpi brahmatvānumānāpekṣā na kārya, vikārārthakamayaḍvirodhādityarthaḥ ।
+bhedavyapadeśāccetsaguṇaṃ brahmātra vedyaṃ syādityāśaṅkyāha-asminnasya ca tadyogaṃ śāsti ।।

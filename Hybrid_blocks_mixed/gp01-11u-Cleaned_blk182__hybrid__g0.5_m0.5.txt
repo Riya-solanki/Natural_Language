@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 182 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha bhakti-tṛṣṇaṅ-manāḥ kṛṣṇa-jananīm anu mānanīyatayā nijam ānanam avanīm avanīya nanāma । sā ca tāṃ saha-sabhyānandam abhyanandat । tatra ca,

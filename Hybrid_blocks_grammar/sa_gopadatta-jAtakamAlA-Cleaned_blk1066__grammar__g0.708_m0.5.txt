@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1066 | label: grammar | g:0.708 m:0.5 ---
+
+atha sa rājā sugataśāsanābhiprasanno dharmāntarāyabhīrur jātasnehākrāntahṛdayaḥ svā duhitṝḥ pūrvajanmānusmaraṇāvagamitaprayojanā jātismarāḥ khalv etā iti parivicintya suciraṃ tūṣṇīṃ babhūva ।।

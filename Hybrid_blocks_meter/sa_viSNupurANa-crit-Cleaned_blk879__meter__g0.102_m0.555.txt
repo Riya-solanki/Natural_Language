@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 879 | label: meter | g:0.102 m:0.555 ---
+
+sa kalpayitvā vatsaṃ tu manuṃ svāyambhuvaṃ prabhum 
+sve pāṇau pṛthivīnātho dudoha pṛthivīṃ pṛthuḥ 
+sasyajātāni sarvāṇi prajānāṃ hitakāmyayā ।।

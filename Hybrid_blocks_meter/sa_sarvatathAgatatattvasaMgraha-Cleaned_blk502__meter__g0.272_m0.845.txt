@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 502 | label: meter | g:0.272 m:0.845 ---
+
+vajrasattvādisattvānāṃ sarvasādhanakarmasu ।
+jāpastu rucito apyatra sarvakalpeṣu siddhidaḥ ।।

@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 505 | label: grammar | g:0.667 m:0.5 ---
+
+yadidam aanyat' iti manyase tat svātmano ananyatvādanyanna bhavati evamanyatāyā abhāvaḥ, tatra yaduktam aanyatvepyabhyāsopacārāt' iti etadayuktamiti ।।

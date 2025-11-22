@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4141 | label: meter | g:0.194 m:0.75 ---
+
+mahānadī dvāravatīṃ pañcāśadbhir mahāmukhaiḥ 
+praviṣṭā puṇyasalilā bhāvayantī samantataḥ ।।

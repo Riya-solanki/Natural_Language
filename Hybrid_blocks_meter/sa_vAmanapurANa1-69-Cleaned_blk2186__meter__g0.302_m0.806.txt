@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2186 | label: meter | g:0.302 m:0.806 ---
+
+dāruṇatvamadhārmikyaṃ narakāvahamucyate ।
+etaiśca pāpaiḥ saṃyuktaḥ prīṇayed yadi śaṅkaram ।।

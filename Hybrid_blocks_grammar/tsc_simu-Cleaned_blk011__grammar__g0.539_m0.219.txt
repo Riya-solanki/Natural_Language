@@ -1,0 +1,6 @@
+--- source: tsc_simu-Cleaned.txt | block: 11 | label: grammar | g:0.539 m:0.219 ---
+
+atra sattvādyaṃśatrayeṇa mahato devatātrayopādhitvāttadavivekena tisra iti ।
+sāttvikāṃśāt pradhānāt tu mahattattvamajāyata iti mahattvasya prādhānyena cādhyavasāyo vṛttirmahadahaṃkāramanastritayātmakasyāntaḥkaraṇavṛkṣasya mahattattvaṃ bījāvasthā taduktaṃ sāṃkhyasūtre idameva mahattattvamaṃśato rajastamaḥsaṃbhedena pariṇataṃ sat vyaṣṭijīvānāmupādhiradharmādiyuktaṃ kṣudramapi bhavati mahaduparāgādviparītamiti ।
+mahatastriguṇasvarūpatvāddehasya dehinā kālarūpaviṣṇunā kṣobhyadaśāyāṃ guṇarūpopādhiprādhānyādaviveke brahmaviṣṇuśivatvaṃ tatra mahān suṣuptyabhimānī śivastadupādhistamaḥkāryarūpī tatra svapnābhimānī viṣṇustadupādhiḥ kāryasattvaṃ tatra jāgradabhimānī brahmā tadupādhiḥ kāryarajaḥ tatra samudāyasamunnayananyāyena samaṣṭervyaṣṭyananyatvānmaśakādirapi viṣṇureveti bhāvaḥ ।
+sṛṣṭistu mahadādikrameṇaiva na tu bhūtādikrameṇeti ।।

@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 372 | label: grammar | g:0.667 m:0.5 ---
+
+pratiṣidhyate upamānaṃ tu tanna bhavati"prasiddhasādharmyāt sādhyasādhanamupamānam "na ca yasyopameyaṃ prasiddhaṃ taṃ prati sādhyasādhanabhāvo vidyate iti ।।

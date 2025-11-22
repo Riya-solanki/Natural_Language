@@ -1,0 +1,6 @@
+--- source: cakbhavu-Cleaned.txt | block: 15 | label: meter | g:0.25 m:0.521 ---
+
+Q avadhūtā nirācārā sarvabhūtāntare sthitā ।
+Q krīḍaty ātmamayair bhāvair bālaḥ krīḍanakair iva ।।
+Q prabuddhapūrṇabhāvābhyāṃ vibhajyātmānam ātmanā ।
+Q aprabuddhaprabuddhena krīḍārthaṃ bhāvayed bhṛśam ।।

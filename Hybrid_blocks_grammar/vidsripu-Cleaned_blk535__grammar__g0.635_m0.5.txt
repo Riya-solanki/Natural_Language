@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 535 | label: grammar | g:0.635 m:0.5 ---
+
+romāñcair iva kīlitā calati no dṛṣṭiḥ kapolasthale svāntaṃ premapayodhipaṅkapatanān niśceṣṭam āste gatam ।
+uddhārāya tayor gatā iva punas trāsān nivṛttā iva śvāsā dīrgham aho gatāgatam amī kurvanta evāsate ।।

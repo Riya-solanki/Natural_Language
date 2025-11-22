@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 4 | label: grammar | g:0.604 m:0.5 ---
+
+satyaṃ na vedmi kim ahaṃ yad agocaro asi vācaspater api girām kim utāsmadādeḥ ।
+bhaktis tathāpi bhavato guṇakīrtaneṣu yan māṃ niyojayati kiṃ tad ahaṃ karomi ।।

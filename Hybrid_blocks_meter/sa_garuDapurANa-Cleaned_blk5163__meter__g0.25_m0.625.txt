@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5163 | label: meter | g:0.25 m:0.625 ---
+
+phalatrikaṃ paṭolaṃ ca tiktakvāthaḥ sitāyutaḥ ।
+pīto yaṣṭīmadhuyuto jvaracchardyamlapittajit ।।

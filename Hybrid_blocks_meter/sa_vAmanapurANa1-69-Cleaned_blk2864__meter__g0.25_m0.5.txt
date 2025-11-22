@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2864 | label: meter | g:0.25 m:0.5 ---
+
+hastī ca kuṇḍajaṭharaṃ hlādo vīraṃ ghaṭodaram ।
+ete hi balināṃ śreṣṭhā dānavāḥ pramathāstathā ।
+saṃyodhayanti devarṣe divyābdānāṃ śatani ṣaṭ ।।

@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 36 | label: hybrid | g:0.508 m:0.513 ---
+
+etaduktaṃ bhavati- na prakāśamānatāmātraṃ sattvam, yena dehendriyādeḥ prakāśamānatayā sadbhāvo bhavet ।
+na hi sarpātadabhāvena rajjvādayo vā sphaṭikādayo vā raktādiguṇayogino na pratibhāsante, pratibhāsamānā vā bhavanti tadātmānastaddharmāṇo vā ।
+tathā sati maruṣu marīcikānicayam auccāvacamuccalattuṅgataraṅgabhaṅgamāleyamabhyarṇabhavatīrṇā mandākinī' ityabhisaṃdhāya pravṛttaḥ tattoyamāpīya pipāsāmupaśamayet ।
+tasmādakāmenāpi prakāśamānasyāpyāropitasya na vastusattvamabhyupagamanīyam ।

@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 277 | label: meter | g:0.346 m:0.747 ---
+
+tadekaṃ sarvabhūtānām anādi nibiḍaṃ mahat ।
+pratyātmasthasvakālāntāpāyiśaktisamūhavat ।।

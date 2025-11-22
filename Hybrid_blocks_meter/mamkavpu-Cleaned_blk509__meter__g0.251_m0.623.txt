@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 509 | label: meter | g:0.251 m:0.623 ---
+
+{yathāyaṃ dāruṇācāraḥ sarvadaiva vibhāvyate ।
+tathā manye daivato asya piśāco rākṣaso atha vā ।।}

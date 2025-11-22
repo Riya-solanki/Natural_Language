@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 129 | label: meter | g:0.25 m:0.821 ---
+
+na ।
+anyaviṣayeṇa kārakavyāpāreṇānyaniṣpatteratiprasaṅgāt ।
+samavāyikāraṇasyaivātmātiśayaḥ kāryamiti cet ।

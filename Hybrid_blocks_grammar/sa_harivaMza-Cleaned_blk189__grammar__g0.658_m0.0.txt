@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 189 | label: grammar | g:0.658 m:0.0 ---
+
+mṛgāṇām atha śārdūlaṃ govṛṣaṃ tu gavām api 
+vanaspatīnāṃ rājānaṃ plakṣam evābhyaṣecayat ।। 
+sāgarāṇāṃ nadīnāṃ ca meghānāṃ varṣaṇasya ca । ādityānāṃ adhipatiṃ parjanyam abhiṣiktavān ।। sarveṣāṃ daṃṣṭriṇāṃ śeṣaṃ rājānam abhyaṣecayat । sarīsṛpāṇāṃ sarpāṇāṃ rājānaṃ caiva takṣakam । sarvāpsarogaṇānāṃ ca kāmadevaḥ kṛtaḥ prabhuḥ ।। ṛtūnām atha māsānāṃ divasānāṃ tathaiva ca । pakṣāṇāṃ ca kṣapāṇāṃ ca muhūrtatithiparvaṇām ।। kalākāṣṭhāpramāṇānāṃ gaterayanayos tathā । gaṇitasyātha yogasya cakre saṃvatsaraṃ prabhum । 
+evaṃ vibhajya rājyāni krameṇa sa pitāmahaḥ 
+diśāṃ pālān atha tataḥ sthāpayāmāsa bhārata ।।

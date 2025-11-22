@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3369 | label: meter | g:0.25 m:0.5 ---
+
+śuṣkaṃ māṃsaṃ striyo vṛddhā bālārkastaruṇaṃ dadhi ।
+prabhāte maithunaṃ nidrā sadyaḥ prāṇaharāṇi ṣaṭ ।।

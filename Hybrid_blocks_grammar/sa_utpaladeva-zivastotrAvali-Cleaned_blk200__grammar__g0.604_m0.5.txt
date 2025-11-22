@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 200 | label: grammar | g:0.604 m:0.5 ---
+
+tvad ṛte nikhilaṃ viśvaṃ samadṛgyātam īkṣyatām īśvaraḥ punar etasya tvam eko viṣamekṣaṇaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3842 | label: meter | g:0.272 m:0.845 ---
+
+nānyaṃ devaṃ mahādevāt pūjayāmāsa keśavāt ।
+mathitāmṛtaphenābhaṃ śaṅkhacakragadādharam ।।

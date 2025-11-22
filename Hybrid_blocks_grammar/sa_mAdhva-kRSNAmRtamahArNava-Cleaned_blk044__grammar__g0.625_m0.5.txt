@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 44 | label: grammar | g:0.625 m:0.5 ---
+
+yamamārgāṃ mahāghoraṃ narakāṇi yamaṃ tathā svapne api ca na paśyeta yaḥ smared garuḍadhvajam ।।

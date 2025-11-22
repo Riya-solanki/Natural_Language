@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1445 | label: meter | g:0.217 m:0.97 ---
+
+ayyasmad-agra-kara-yantra-nipīḍitānāṃ
+dhārāmbhasāṃ smarasi majjana-keli-kāle ।
+subhru tvayā nija-kucābharaṇaika-yogyam
+atrābja-valli-dalam āvaraṇāya dattam ।।

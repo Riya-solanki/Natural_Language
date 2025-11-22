@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 365 | label: meter | g:0.056 m:0.729 ---
+
+{likhannāste bhūmiṃ bahiravanataḥ prāṇadayito
+nirāhārāḥ sakhyaḥ satataruditocchūnanayanāḥ ।
+parityaktaṃ sarvaṃ hasitapaṭhitaṃ pañjaraśukaiḥ
+tavāvasthā ceyaṃ visṛja kaṭhine mānamadhhunā ।।}

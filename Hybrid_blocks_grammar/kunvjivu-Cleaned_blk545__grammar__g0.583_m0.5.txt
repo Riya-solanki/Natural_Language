@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 545 | label: grammar | g:0.583 m:0.5 ---
+
+kauśāmbīṃ paribhūya naḥ kṛpaṇakairvidveṣibhiḥ svīkṛtāṃ jānāmyeva tathā pramādaparatāṃ patyurnayadveṣiṇaḥ ।
+strīṇāṃ ca priyaviprayogavidhuraṃ cetaḥ sadaivātra me vaktuṃ notsahate manaḥ paramato jānātu devī svayam ।।

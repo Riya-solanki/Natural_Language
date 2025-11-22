@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2037 | label: meter | g:0.194 m:0.5 ---
+
+snātasya salile yasyāḥ sadyaḥ pāpaṃ praṇaśyati 
+apūrvapuṇyaprāptiś ca sadyo maitreya jāyate ।।

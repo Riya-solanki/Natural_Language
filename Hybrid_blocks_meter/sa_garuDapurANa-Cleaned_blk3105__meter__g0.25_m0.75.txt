@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3105 | label: meter | g:0.25 m:0.75 ---
+
+mūrkhaśiṣyopadeśena duṣṭastrībharaṇena ca ।
+duṣṭānāṃ saṃprayogeṇa paṇḍito apyavasīdati ।।

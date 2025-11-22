@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5000 | label: meter | g:0.194 m:0.5 ---
+
+sāma copapradānaṃ ca tathā bhedaṃ pradarśayan 
+karoti daṇḍapātaṃ ca kvacid eva palāyanam ।।

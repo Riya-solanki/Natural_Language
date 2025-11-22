@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2196 | label: meter | g:0.194 m:0.5 ---
+
+kiṃ vṛkair bhakṣito vyāghraiḥ kiṃ siṃhena nipātitaḥ 
+cirāyamāṇe niṣkrānte tasyāsīd iti mānasam ।।

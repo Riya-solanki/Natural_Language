@@ -1,0 +1,13 @@
+--- source: vacbhamu-Cleaned.txt | block: 652 | label: meter | g:0.25 m:0.506 ---
+
+tatra pūrvapakṣasūtram- asti tu ।
+taittirīye hi sargaprakaraṇe kevalasyākāśasyaiva prathamaḥ sargaḥ śrūyate ।
+chāndogye ca kevalasya tejasaḥ prathamaḥ sargaḥ ।
+naca śrutyantarānurodhenāsahāyasyādhigatasyāpi sasahāyatākalpanaṃ yuktamasāhatvāvagamavirodhāt ।
+śrutasiddhyarthaṃ khalvaśrutaṃ kalpyate na tu tadvidhātāya, vihanyate cāsahāyatvaṃ śrutaṃ kalpitena sasahāyatvena ।
+naca parasparānapekṣāṇāṃ vrīhiyavavadvikalpaḥ ।
+anuṣṭhānaṃ hi vikalpyate na vastu ।
+nahi sthāṇupuruṣavikalpo vastuni pratiṣṭhāṃ labhate ।
+naca sargabhedena vyavasthopapadyate, sāṃpratikasargavadbhūtapūrvasyāpi tathātvāt ।
+na khalviha sarge kṣīrāddadhi jāyate sargāntare ti dadhnaḥ kṣīramiti bhavati ।
+tasmātsargaśrutayaḥ parasparavirodhinyo nāsminnarthe pramāṇaṃ bhavitumarhantīti pūrvaḥ pakṣaḥ ।।

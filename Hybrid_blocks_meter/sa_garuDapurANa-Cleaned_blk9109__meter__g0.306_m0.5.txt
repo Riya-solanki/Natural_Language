@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9109 | label: meter | g:0.306 m:0.5 ---
+
+pañcatve bhūmiyuktasya śṛṇu tasya ca yā gatiḥ ।
+ativāhaḥ punaḥ pretovarṣordhvaṃ sukṛtaṃ labhet ।।

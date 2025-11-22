@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5103 | label: meter | g:0.194 m:0.5 ---
+
+patīn suptān vañcayitvā gamiṣyanti striyo aṇyataḥ 
+puruṣāś ca prasuptāsu bhāryāsu ca parastriyam ।।

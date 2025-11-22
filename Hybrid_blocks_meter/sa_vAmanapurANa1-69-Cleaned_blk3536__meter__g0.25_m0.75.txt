@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3536 | label: meter | g:0.25 m:0.75 ---
+
+patatā vāsudevena dānavopari nārada ।
+triṃśadyojanasāhasrī bhūmergartā dṛḍhīkṛtā ।।

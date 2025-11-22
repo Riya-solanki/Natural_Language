@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 768 | label: grammar | g:0.75 m:0.5 ---
+
+[gurvagniśivavidhyābhyaḥ kṣetrapālāya ca] gurvādibhyo [aṃśakaṃ samuddhṛtya] bhāgamuddhṛtya [sahāyena] `ātmārthabhāgamavasthāpya śiṣṭaṃ mahyaṃ sthāpayet' ityevamanuśāsitena sadyo vibhajya kṛtatattadvidhiḥ [kṣitau] bhūmau sthāpitapātraḥ [śuciḥ] samāhitaḥ san [adyād] bhuñjīta।।

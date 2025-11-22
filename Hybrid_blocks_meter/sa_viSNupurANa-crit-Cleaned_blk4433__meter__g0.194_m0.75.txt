@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4433 | label: meter | g:0.194 m:0.75 ---
+
+babhūva vimalaṃ vyoma śaradādhvastatoyadam 
+yogāgnidagdhakleśaughaṃ yoginām iva mānasam ।।

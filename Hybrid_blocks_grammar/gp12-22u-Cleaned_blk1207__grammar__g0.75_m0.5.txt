@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1207 | label: grammar | g:0.75 m:0.5 ---
+
+iti rādhāṃ prati cetasi cintayantaṃ kṛṣṇam antaḥ sa-tṛṣṇam api bahis tūṣṇīkatām eva puṣṇantaṃ, madhumaṅgalaḥ kara-sarasije gṛhītvā kuṭaja-kuñja-gṛham eva nītavān । nītvā ca tat-paryanta-bhuvi vṛndāṃ rakṣitvā bāhyam avagāhya, pūrṇimāṃ saṃvāhya tasminn ante-gurutayā tatrakīyaṃ vṛttaṃ citravad īkṣitavān ।

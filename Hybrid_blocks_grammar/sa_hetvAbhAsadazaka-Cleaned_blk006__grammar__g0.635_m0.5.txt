@@ -1,0 +1,4 @@
+--- source: sa_hetvAbhAsadazaka-Cleaned.txt | block: 6 | label: grammar | g:0.635 m:0.5 ---
+
+kā bhītis tava candrato raghupate doṣākaratvād asāv āsaktaḥ parapīḍane piśunavan naivaṃ kutaḥ kathyate ।
+hetuḥ satpratipakṣa eṣa yad ayaṃ sadvṛttatāṃ gāhate sodaryeṇa nirastabhīr iti sukhaṃ puṣṇātu vo rāghavaḥ ।।

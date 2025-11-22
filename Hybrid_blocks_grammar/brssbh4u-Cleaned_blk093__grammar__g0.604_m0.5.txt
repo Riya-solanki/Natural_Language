@@ -1,0 +1,3 @@
+--- source: brssbh4u-Cleaned.txt | block: 93 | label: grammar | g:0.604 m:0.5 ---
+
+nanu vidyāsaṃyuktasya agnihotrādeḥ vidyāvihīnāt viśiṣṭatva avagamāt vidyāvihīnam agnihotrādi ātmavidyāhetutvena anapekṣameva iti yuktam ।

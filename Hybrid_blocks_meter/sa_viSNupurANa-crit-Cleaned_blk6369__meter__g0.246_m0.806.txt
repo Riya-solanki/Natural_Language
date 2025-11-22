@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6369 | label: meter | g:0.246 m:0.806 ---
+
+tac ca viṣṇoḥ paraṃ rūpam arūpasyājam akṣaram 
+viśvasvarūpavairūpyalakṣaṇaṃ paramātmanaḥ ।।

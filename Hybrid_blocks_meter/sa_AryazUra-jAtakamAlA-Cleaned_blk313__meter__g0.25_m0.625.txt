@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 313 | label: meter | g:0.25 m:0.625 ---
+
+sampūrṇe adyāpi tadidaṃ śaśabimbaṃ niśākare ।
+chāyāmayamivādarśe rājate divi rājate ।।

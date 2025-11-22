@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 544 | label: grammar | g:0.646 m:0.5 ---
+
+[] atha pūrvavan mātara-pitarādi-racita-sukha-vitarau bhrātarau nija-nilayaṃ praviviśatuḥ । [] sakhāyaś ca pralamba-davānala-kathā-prathanayā sarvaṃ vismāyayāmāsuḥ ।

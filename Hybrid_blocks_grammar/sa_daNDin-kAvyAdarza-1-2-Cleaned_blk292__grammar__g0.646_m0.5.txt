@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 292 | label: grammar | g:0.646 m:0.5 ---
+
+tvaṃ samudraś ca durvārau mahāsattvau satejasau ayaṃ tu yuvayor bhedaḥ sa jaḍātmā paṭur bhavān ।।

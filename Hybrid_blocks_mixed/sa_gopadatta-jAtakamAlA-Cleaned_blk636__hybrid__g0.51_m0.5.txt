@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 636 | label: hybrid | g:0.51 m:0.5 ---
+
+yathā yathā te nikaṭī bhavanti vratīśvarāḥ śāntim ivākirantaḥ ।
+tathā tathā vismayaharṣapūrṇā rājanvatī sā samitiś cakampe ।।

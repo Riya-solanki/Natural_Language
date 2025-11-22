@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1036 | label: meter | g:0.056 m:0.521 ---
+
+{mitre kvāpi gate saroruhavane baddhānane tāmyati
+krandatsu bhramareṣu vīkṣya dayitāsannaṃ puraḥ sārasam ।
+cakrāhvena viyoginā bisalatā nāsvāditā nojjhitā
+kaṇṭhe kevalamargaleva nihitā jīvasya nirgacchataḥ ।।}

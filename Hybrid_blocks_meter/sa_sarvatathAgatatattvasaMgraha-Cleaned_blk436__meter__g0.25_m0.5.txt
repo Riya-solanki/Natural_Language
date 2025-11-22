@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 436 | label: meter | g:0.25 m:0.5 ---
+
+ratnavajr yāntu baddhāyāṃ buddhaiḥ so apyabhiṣicyate ।
+vajrasūryāṃ badhvā vai bhaved buddhaprabhopamaḥ ।।

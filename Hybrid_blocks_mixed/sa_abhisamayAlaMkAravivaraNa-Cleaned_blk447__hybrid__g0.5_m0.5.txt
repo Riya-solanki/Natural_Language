@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 447 | label: hybrid | g:0.5 m:0.5 ---
+
+bhedaḥ ekakṣaṇikāścatvāraḥ prayoga evāsya catvāro bhedā bhavanti ।

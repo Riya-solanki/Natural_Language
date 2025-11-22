@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 525 | label: meter | g:0.306 m:0.5 ---
+
+kimatra vā vahvabhidhāya niścayastvayaṃ śibīnāṃ tvadabhūtyamarṣiṇām ।
+prayātu vaṅkaṃ tapaso abhivṛddhaye nṛpātmajaḥ siddhaniṣevitaṃ girim ।।

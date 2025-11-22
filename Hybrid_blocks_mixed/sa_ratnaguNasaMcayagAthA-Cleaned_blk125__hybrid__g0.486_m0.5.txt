@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 125 | label: hybrid | g:0.486 m:0.5 ---
+
+ye atīta ye api ca daśaddiśi lokanāthā itu te prasūta bhaviṣyantyanāgatāśca 
+loka darśika janetri jināna mātā parasattvacittacaritāna nidarśitā ca ।।

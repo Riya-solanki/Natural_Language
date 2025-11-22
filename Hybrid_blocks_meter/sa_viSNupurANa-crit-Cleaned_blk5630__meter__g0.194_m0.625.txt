@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5630 | label: meter | g:0.194 m:0.625 ---
+
+prasṛtās tān munīn ūcuḥ praṇipātapuraḥsaram 
+iyaṃ strī putrakāmasya babhroḥ kiṃ janayiṣyati ।।

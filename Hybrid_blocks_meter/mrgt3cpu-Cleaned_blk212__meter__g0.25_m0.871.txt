@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 212 | label: meter | g:0.25 m:0.871 ---
+
+mahāpātakasaṃyoge śivaikādaśikāyutam ।
+japeddaśaguṇaṃ prāṇa- saṃyamī phalamūlabhuk ।
+tatsameṣvevameva syāt kiṃ tu prāṇāyatiṃ vinā ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 678 | label: meter | g:0.306 m:0.5 ---
+
+kurunindākarā ye ca sakhavighnakarāśca ye ।
+dāturnivārakāye ca teṣu te nipatanti hi । ।

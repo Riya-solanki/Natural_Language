@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 405 | label: hybrid | g:0.347 m:0.487 ---
+
+haratitarāṃ janahṛdayaṃ kalikopagatā latā ca dayitā ca ।
+yadi punar atanuśilīmukhasamākulā kiṃ na paryāptam ।।
+gobhaṭasya

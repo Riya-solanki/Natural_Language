@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1313 | label: hybrid | g:0.407 m:0.444 ---
+
+purāṇam ity eva na sādhu sarvaṃ na cāpi kāvyaṃ navam ity avadyam ।
+santaḥ parīkṣyānyatarad bhajante mūḍhaḥ parapratyayahāryabuddhiḥ ।।
+kālidāsasyaitau

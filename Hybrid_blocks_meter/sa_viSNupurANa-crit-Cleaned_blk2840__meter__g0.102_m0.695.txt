@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2840 | label: meter | g:0.102 m:0.695 ---
+
+kāmyodakapradānaṃ te mayaitat kathitaṃ nṛpa 
+yad dattvā prīṇayed etan manuṣyaḥ sakalaṃ jagat 
+jagadāpyāyanodbhūtaṃ puṇyam āpnoti cānagha ।।

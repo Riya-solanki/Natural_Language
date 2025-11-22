@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 872 | label: meter | g:0.194 m:0.625 ---
+
+taṃ brahmavādinaṃ kṣāntaṃ dharmajñaṃ satyavādinam 
+urvaśī varayām āsa hitvā mānaṃ yaśasvinī ।।

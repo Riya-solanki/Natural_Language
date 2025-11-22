@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 58 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam eva valgu valayite līlā-valaye pūrvavan nilayād ākalitam iṣṭa-miṣṭānnādikaṃ rasanayā śliṣṭaṃ vidhāya, gavāṃ jālaṃ cālayan pālayan sāgraja-vraja-rāja-tanūjaḥ savayobhir āyatīgavam avasaram avagatya gotrā-mātrāṇāṃ tatiṃ śanair upavrajam anaiṣīt । nītvā ca tārṇaka-vātsaka-bhedānāṃ tathā strī-gavīnāṃ tāsv apy upasāryāsandhinī-praṣṭhauhī-dhenu-baṣkayiṇī-gṛṣṭi-samāṃsamīnā-naicikī-kapilā-vaśā-gopati-prabhṛtīnāṃ tatra ca gaṅgādi-nāmnāṃ tathā puṅgavānāṃ teṣu cārṣabhya-damya-jāta-kakutpūrṇa-kakuj-jātokṣa-mahokṣa-vṛddhokṣa-yugya-prāsaṅgya-śākaṭa-praṣṭhavāṭ-pramukhānāṃ tatra ca haṃsādi-nāmnāṃ paraḥ-koṭīnāṃ kūṭān pṛthak pṛthag avīvasat । tatra tatra ca nastitān api śivaka-baddhān acīkarat ।

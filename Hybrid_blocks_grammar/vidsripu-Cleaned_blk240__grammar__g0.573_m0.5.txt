@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 240 | label: grammar | g:0.573 m:0.5 ---
+
+kāntāṃ kvāpi vilambinīṃ kalarutair āhūya bhūyas tato digbhāgān avalokya raṅgavasudhām utsṛjya padbhyāṃ tataḥ ।
+eṣa sphāramṛdaṅganādamadhurair ambhomucām āravair barhaśreṇikṛtātapatraracano hṛṣṭaḥ śikhī nṛtyati ।।

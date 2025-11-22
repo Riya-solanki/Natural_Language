@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 27 | label: meter | g:0.25 m:0.5 ---
+
+lākṣāgṛhānalaviṣānnasabhāpraveśaiḥ prāṇeṣu vittanicayeṣu ca naḥ prahṛtya
+ākṛṣṭapāṇḍavavadhūparidhānakeśāḥ ē̃ svasthā bhavanti mayi jīvati dhārtarāṣṭrāḥ ।।

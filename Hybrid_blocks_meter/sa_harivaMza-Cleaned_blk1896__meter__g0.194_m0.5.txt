@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1896 | label: meter | g:0.194 m:0.5 ---
+
+satāṃ gatir iyaṃ nānyā dharmaś cāsyāḥ susādhanam 
+rājñāṃ caiva vadhaḥ kāryo dharaṇyā bhāranirṇaye ।।

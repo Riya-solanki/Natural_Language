@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 32 | label: meter | g:0.194 m:0.979 ---
+
+rājā sa rājācala-nāmadheyām
+adhyāsta vaṃśa-krama-rājadhānīm ।
+satāṃ ca rakṣām asatāṃ ca śikṣāṃ
+nyāyānurodhād anusandadhānajñāḥ ।।

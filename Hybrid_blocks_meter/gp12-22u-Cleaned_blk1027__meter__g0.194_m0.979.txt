@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1027 | label: meter | g:0.194 m:0.979 ---
+
+varapuratas tvāṃ śithilitagātrīm
+sthāpayitāraḥ priyaratipātrīm ।
+tātas tava karam atha dadhad abalam
+grāhayitā varakaram anu sajalam ।।

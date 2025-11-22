@@ -1,0 +1,4 @@
+--- source: mamkpb_u-Cleaned.txt | block: 41 | label: meter | g:0.25 m:0.5 ---
+
+mukhyārthabādhe tadyoge rūḍhito atha prayojanāta ।
+anyo artho lakṣyate yatsā lakṣaṇāropitā kriyā ।।

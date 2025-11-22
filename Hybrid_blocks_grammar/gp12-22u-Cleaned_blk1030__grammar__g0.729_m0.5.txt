@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1030 | label: grammar | g:0.729 m:0.5 ---
+
+[] tad evaṃ tāvan māsaṃ yāvad vidhāya tat-pūraka-dinaṃ vratasyāpi pūrakaṃ jātam iti paramānanda-pūraṇataḥ sūrajā-pūram anu dūranirjanatā-jāta-nirvrīḍatayā kṣaṇam akrīḍan ।

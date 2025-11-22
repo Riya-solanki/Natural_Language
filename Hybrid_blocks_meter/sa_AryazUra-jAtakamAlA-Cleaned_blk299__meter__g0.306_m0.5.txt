@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 299 | label: meter | g:0.306 m:0.5 ---
+
+āmrāṇi pakvānyudakaṃ manojñaṃ chāyā ca satsaṃgamasaukhyaśītā ।
+ityasti me brahmavidāṃ variṣṭha bhuktvaitadatraiva tavāstu vāsaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3668 | label: grammar | g:0.75 m:0.5 ---
+
+praṇipatya cainam āha । bhagavan mayaitad ajñānād anuṣṭhitam । prasādaṃ me kuru । maivaṃvidhaḥ putro bhavatu । kāmam evaṃvidhaḥ pautro bhavatv ity ukto munir apy āhaivam astv iti ।।

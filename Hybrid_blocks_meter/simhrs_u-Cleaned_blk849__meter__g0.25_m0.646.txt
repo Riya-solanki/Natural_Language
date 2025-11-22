@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 849 | label: meter | g:0.25 m:0.646 ---
+
+hastālambitam akṣa-sūtra-valayaṃ karṇāvataṃsīkṛtaṃ
+srastaṃ bhrū-yugam unnamayya racitaṃ yajñopavītena ca ।
+saṃnaddhā jaghane ca valkala-paṭī pāṇiś ca dhatte dhanur
+dṛṣṭaṃ bho janakasya yogina idaṃ dāntaṃ viraktaṃ manaḥ ।।

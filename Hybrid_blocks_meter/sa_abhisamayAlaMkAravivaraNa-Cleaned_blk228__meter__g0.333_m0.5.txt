@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 228 | label: meter | g:0.333 m:0.5 ---
+
+vipakṣaḥ asya lakṣaṇādikam abhisamayālaṅkāre ekayāṃ kārikayā suspaṣṭaṃ pratipāditam । tathā hi -

@@ -1,0 +1,29 @@
+--- source: brssgo1u-Cleaned.txt | block: 544 | label: grammar | g:0.502 m:0.291 ---
+
+bhūyaḥ praśnaprativacanaparaṃparādarśanāt ।
+yathā hi aasti bhagavo nāmno bhūyaḥ' iti, avāgvāva nāmno bhūyasī' iti ।
+tathā aasti bhagavo nāmno bhūyaḥ' iti, mano vāva vāco bhūyaḥ' iti ca nāmādibhyo hyā prāṇādbhūyaḥpraśnaprativacanapravāhaḥ pravṛttaḥ ।
+naivaṃ prāṇātparaṃ bhūyaḥpraśnaprativacanaṃ dṛśyate asti bhagavaḥ prāṇādbhūya ityādo vāva prāṇādbhūya iti ।
+prāṇameva tu nāmādibhya āśāntebhyo bhūyāsaṃ aprāṇo vā āśāyā bhūyān' ityādinā saprapañcamuktvā prāṇadarśinaścātivāditvam- aativādyasītyativādyasmīti brūyānnāpahnuvīta' ityabhyanujñāya aeṣa tu vā ativadati yaḥ satyenātivadati' iti prāṇavratamativāditvamanukṛṣyāparityajyaiva prāṇaṃ satyādiparamparayā bhūmānamavatārayanprāṇameva bhūmānaṃ manyanta iti gamyate ।
+kathaṃ punaḥ prāṇe bhūmani vyākhyāyamāne ayatra nānyatpaśyati' ityetadbhūmno lakṣaṇaparaṃ vacanaṃ vyākhyāyeteti ।
+ucyate- suṣuptyavasthāyāṃ prāṇagrasteṣu karaṇeṣu darśanādivyavahāranivṛttidarśanātsaṃbhavati prāṇasyāpi ayatra nānyatpaśyati' ityetallakṣaṇam ।
+tathāca śrutiḥ ana śṛṇoti na paśyati' ityādinā sarvakaraṇavyāpārapratyastamayarūpāṃ suṣuptyavasthāmuktvā aprāṇāgnaya evaitasminpure jāgrati' iti tasyāmevāvasthāyāṃ pañcavṛtteḥ prāṇasya jāgaraṇaṃ bruvatī prāṇapradhānāṃ suṣuptyavasthāṃ darśayati ।
+yaccaitadbhūmnaḥ sukhatvaṃ śrutam- ayo vai bhūmā tatsukham' iti, tadapyaviruddham ।
+aatraiṣa devaḥ svapnānna paśyatyatha yadetasmiñśarīre sukhaṃ bhavati' iti suṣuptyavasthāyāmeva sukhaśravaṇāt ।
+yacca ayo vai bhūmā tadamṛtam' iti tadapi prāṇasyāviruddhaṃ, aprāṇo vā amṛtam' iti śruteḥ ।
+kathaṃ punaḥ prāṇaṃ bhūmānaṃ manyamānasya tarati śokamātmavit ityātmavividiṣayā prakaraṇasyotthānamupapadyate ।
+prāṇa evehātmā vivakṣita iti brūmaḥ ।
+tathāhi-' prāṇo ha pitā prāṇo mātā prāṇo bhrātā prāṇaḥ svasā prāṇa ācāryaḥ prāṇo brāhmaṇaḥ' iti prāṇameva sarvātmānaṃ karoti ।
+ayathā vā arā nābhau samarpitā evamasminprāṇe sarvaṃ samarpitam' iti ca sarvātmatvāranābhinidarśanābhyāṃ ca saṃbhavati vaipulyātmikā bhūmarūpatā prāṇasya ।
+tasmātprāṇo bhūmetyevaṃ prāptam ।
+tata idamucyate- paramātmaiveha bhūmā bhavitumarhati na prāṇaḥ ।
+kasmāt ।
+saṃprasādādadhyupadeśāt ।
+saṃprasāda iti suṣuptaṃ sthānamucyate, samyakprasīdatyasminniti nirvacanāt ।
+bṛhadāraṇyake ca svapnajāgaritasthānābhyāṃ saha pāṭhāt tasyāṃ ca saṃprasādāvasthāyāṃ prāṇo jāgartīti prāṇo atra saṃprasādo abhipreyate ।
+prāṇādūrdhvaṃ bhūmna upadiśyamānatvādityarthaḥ ।
+prāṇa eva cedbhūmāsyātsa eva tasmādūrdhvamupadiśyetetyaśliṣṭamevaitatsyāt ।
+nahi nāmaiva nāmno bhūya iti nāmna ūrdhvamupadiṣṭam ।
+kiṃ tarhi nāmno anyadarthāntaramupadiṣṭaṃ vāgākhyam- avāgvāva nāmno bhūyasī' iti ।
+tathā vāgādibhyo apyā prāṇādarthāntarameva tatra tatrordhvamupadiṣṭam ।
+tadvatprāṇādūrdhvamupadiśyamāno bhūmā prāṇādarthāntarabhūto bhavitumarhati ।

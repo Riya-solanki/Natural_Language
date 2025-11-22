@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1291 | label: meter | g:0.25 m:0.5 ---
+
+eṣa me saṃśayo brahmann eṣa me vismayo mahān 
+kathaṃ gatir gatimatām āpanno mānuṣīṃ tanum ।।

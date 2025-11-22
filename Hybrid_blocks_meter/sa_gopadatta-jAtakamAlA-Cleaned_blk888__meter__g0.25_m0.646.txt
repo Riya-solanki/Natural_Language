@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 888 | label: meter | g:0.25 m:0.646 ---
+
+hṛtvā dhātudharān srajo bhagavataḥ sadyo abhavad dārako
+visphoṭasphuṭitārdramāṃsaguḍako bībhatsasarvāśrayaḥ ।
+satkāraṃ pravidhāya tatra ca punaḥ sadyo abhavan nirvraṇaḥ
+tat ko nāma na pūjayet sahṛdayaḥ puṇyārṇavaṃ jaṅgamam ।।

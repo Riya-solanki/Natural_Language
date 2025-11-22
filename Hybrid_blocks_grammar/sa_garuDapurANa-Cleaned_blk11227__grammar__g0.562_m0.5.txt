@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11227 | label: grammar | g:0.562 m:0.5 ---
+
+sadyaḥ kṛtaṃ namanaṃ na tvadīyaṃ sadyaḥ kṛtaṃ smaraṇaṃ na tvadīyam ।
+kadā prāpsye maraṇaṃ tanna jāne na viśvāsaṃ kuru gātre mahātman ।।

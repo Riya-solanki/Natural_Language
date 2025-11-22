@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 568 | label: grammar | g:0.708 m:0.5 ---
+
+puroḍāśaś ced adhiśrita udvijed utpated vā tam udvāsya barhiṣy āsādayet kim utpatasi kim utproṣṭhāḥ śāntaḥ śānter ihāgahi ।

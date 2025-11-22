@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 872 | label: meter | g:0.271 m:0.5 ---
+
+atra {śayitaḥ prayatnena bodhyase} iti vidheyam । yathā vā

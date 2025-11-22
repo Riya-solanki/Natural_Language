@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 13 | label: meter | g:0.25 m:0.5 ---
+
+bahu-soma-sutaṃ kṛtvā bhūlokaṃ yatra rakṣati ।
+eka-soma-sutaṃ rakṣan svarlokaṃ lajjate hariḥ ।।

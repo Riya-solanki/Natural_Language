@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 423 | label: grammar | g:0.822 m:0.254 ---
+
+[] atha tāṃ sarve sānandaṃ vandamānās tayā samam indīvara-ruci-nindīhita-kālindīṃ vindamānāḥ parṇa-mandiraṃ pūrṇayantas tatra vāsayāmāsuḥ ।
+[] tasminn eva divase' pagata-doṣe pradoṣe samudbhaṭa-kaṃsa-roṣeṇa jāta-citta-śoṣeṇa kṛta-paridevena vasudevena prahitā vraja-hitā baḍavārohiṇī rohiṇī guptam ājagāma । yasyām āgatāyāṃ parama-pativratāyāṃ sarva eva vraja-rāja-rāja-samājaḥ śubha-śakuna-saṅkula-śakunādi-samajena samam ullalāsa । tatra cānanda-mohinyau śrī-yaśodā-rohiṇyau yamunā-gaṅge iva saṅgata-saṅge parasparaṃ parebhyaś ca sukha-samūham ūhatuḥ ।

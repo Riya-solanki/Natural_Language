@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 382 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ sthite tāsāṃ janyaṃ-manya-janena nija-nija-vadhūnāṃ nayanāya yācyamānaṃ tat-pitṛ-kulaṃ tāsu na tad-vācyam akārṣīt, kevalaṃ tu karṇe karṇe mitha eva varṇayāmāsa ।

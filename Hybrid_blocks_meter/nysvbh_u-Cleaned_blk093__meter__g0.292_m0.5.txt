@@ -1,0 +1,3 @@
+--- source: nysvbh_u-Cleaned.txt | block: 93 | label: meter | g:0.292 m:0.5 ---
+
+kathaṃ ceṣṭāśrayaḥ? īpsitaṃ jihāsitaṃ vārthamadhikṛtyepsājihāsāprayuktasya tadupāyānuṣṭhānalakṣaṇā samīhā ceṣṭā, sa yatra

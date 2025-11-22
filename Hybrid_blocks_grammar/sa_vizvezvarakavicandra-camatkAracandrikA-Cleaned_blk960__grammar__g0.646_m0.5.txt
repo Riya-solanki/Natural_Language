@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 960 | label: grammar | g:0.646 m:0.5 ---
+
+atrāṃbudherevopamānasyopālaṃbhāt tadupameyasyābhidhīyamānasādṛśyasya kasyacidguṇavato api vilambakāriṇe upālaṃbhaḥ pratīyata iti seyamabhidhīyamānasādṛśyopālaṃbhavatī samāsoktiḥ । anena ślāghādisaṃkaravatyapi vyākhyātā ।

@@ -1,0 +1,8 @@
+--- source: gp12-22u-Cleaned.txt | block: 726 | label: meter | g:0.102 m:0.768 ---
+
+yadā grāsāya sa karaṃ prasārayati cāgrataḥ ।
+tadā sarve dravanti sma sarvataś caṭakā iva ।। [anuṣṭubh]
+madhye-kṛtya vyañjanāny anna-kūṭaṃ
+grāsaṃ grāsaṃ pāṇinā dakṣiṇena ।
+tarjanyāsāv uddiśan vāmayā taṃ
+śakraṃ lolat-prānta-gatyā jahāsa ।। [śālinī]

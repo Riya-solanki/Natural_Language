@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5966 | label: meter | g:0.25 m:0.75 ---
+
+vahetpratipadādye ca viparīte bhavennatiḥ ।
+udayaḥ sūryamārgeṇa candreṇāstamayo yadi ।।

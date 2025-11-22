@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 551 | label: grammar | g:0.75 m:0.5 ---
+
+dīkṣitasya tāvadanarhatvādeva dīkṣāphalaṃ na siddham। ataḥ kiṃ tasya saṃjīvanoktyā। na ca dagdhasya karmaṇaḥ [saṃjīvanamasti] saṃjīvanopapattiḥ। [khedanāpāyaśamanam] api tu asthāne vṛthaiva mantrāḥ kheditāḥ, tataḥ pratyavāyo mā bhūditi tacchāntaye gurostatprāyaścittam।।

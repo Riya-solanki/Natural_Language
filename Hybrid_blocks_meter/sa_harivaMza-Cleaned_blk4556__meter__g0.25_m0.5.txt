@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4556 | label: meter | g:0.25 m:0.5 ---
+
+sā sāṃkhyānāṃ gatiḥ pārtha yogināṃ ca tapasvinām 
+tat padaṃ paramaṃ brahma sarvaṃ vibhajate jagat ।। 
+ādityavarṇaṃ vimalaṃ tamaḥpāre pratiṣṭhitam । 
+mām eva tad dhanaṃ tejo jñātum arhasi bhārata 
+samudraḥ stabdhatoyo aham ahaṃ stambhayitā jalam ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5144 | label: meter | g:0.25 m:0.5 ---
+
+yathā hāniḥ kramaprāptā tathā vṛddhiḥ kramāgatā 
+yadā hānir bhaviṣyati kaleḥ sarvāṇi bhūpate । 
+pragṛhīte tato dharme prapatsyanti kṛtaṃ punaḥ ।।

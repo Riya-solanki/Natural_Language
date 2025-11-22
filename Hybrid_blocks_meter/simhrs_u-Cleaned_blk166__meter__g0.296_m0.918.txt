@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 166 | label: meter | g:0.296 m:0.918 ---
+
+atha svādhīna-bhartṛkā-
+svāyattāsanna-patikā hṛṣṭā svādhīna-vallabhā ।
+asyās tu ceṣṭāḥ kathitāḥ smara-pūjā-mahotsavaḥ । 
+vana-keli-jala-krīḍā-kusumāpacayādayaḥ ।।

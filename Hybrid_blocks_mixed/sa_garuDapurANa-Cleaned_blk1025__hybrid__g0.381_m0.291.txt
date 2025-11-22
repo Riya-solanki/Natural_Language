@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1025 | label: hybrid | g:0.381 m:0.291 ---
+
+oṃ hāṃ gaṇapataye namaḥ । oṃ hāṃ sarasvatyai namaḥ । oṃ hāṃ nandine namaḥ । oṃ hāṃ mahākālāya namaḥ । 
+oṃ hāṃ gaṅgāyai namaḥ ।
+oṃ hāṃ lakṣmyai namaḥ ।
+oṃ hāṃ mahākalāyai namaḥ ।
+oṃ hāṃ astrāya nama iti ।।

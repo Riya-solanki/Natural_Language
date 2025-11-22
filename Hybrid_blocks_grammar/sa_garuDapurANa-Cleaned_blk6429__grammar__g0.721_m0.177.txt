@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6429 | label: grammar | g:0.721 m:0.177 ---
+
+oṃ tattvayāmi brahmaṇā vandamānastadāśāste yajamāno havirbhiḥ । aheḍamāno varuṇeha bodhyuruśaṃ samāna āyuḥ pramoṣīḥ । oṃ tvanno agne varuṇasya vidvāndevasya heḍo avayāsisīṣṭhāḥ । yajiṣṭho vahnitamaḥ śośucāno viśvā dveṣāṃsipramumugdhyasmatsvāhā । oṃ sa tvanno agnevamo bhavatī nediṣṭho asyā uṣasovyuṣṭau । avayakṣvano varuṇaṃ rarāṇo vīhimṛḍīkaṃ suhavo na edhi । oṃ āpo nauṣadhi hiṃsārdhamno rājastato varuṇo nomuñcā yadāharaghnyā iti varuṇeti śapārmahe tato varuṇa no muñca । oṃ uduttamaṃ varuṇa pāśamasmadavādhamaṃ vimadhyamaṃśrathāya । athāvayamādityavrate tavānāgaso aditaye syāma । 
+muñcantumāmapyathādvaruṇasya tvat ।
+aho yamasya patnīmānaḥ sarvasmādeva kilbiṣāt ।
+avabhṛthanicaṃ punarvicerusi nityaṃ prannaḥ ।
+avadevairdevakṛtā manoyāsi samavatyai kṛtaṃ puṣpācchā devadhīmalpāhī ।।

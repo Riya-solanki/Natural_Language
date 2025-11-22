@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2199 | label: meter | g:0.194 m:0.5 ---
+
+aṣṭamasya tu māsasya jātāv āvāṃ tataḥ samam 
+prāpsyāvo garabhavyatyāsaṃ prāpte kaṃsasya śasane ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 75 | label: grammar | g:0.583 m:0.5 ---
+
+āsatāṃ tāvad anyāni dainyānīha bhavajjuṣām tvam eva prakaṭībhūyā ity anenaiva lajjyate ।।

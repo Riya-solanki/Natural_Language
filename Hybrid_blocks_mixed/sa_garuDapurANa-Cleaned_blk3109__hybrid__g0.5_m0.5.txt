@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3109 | label: hybrid | g:0.5 m:0.5 ---
+
+kāleṣu harate vīryaṃ kāle garbhe ca vartate ।
+kālo janayate sṛṣṭiṃ punaḥ kālo api saṃharet ।।

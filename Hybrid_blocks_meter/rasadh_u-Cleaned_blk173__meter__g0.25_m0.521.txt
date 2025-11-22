@@ -1,0 +1,10 @@
+--- source: rasadh_u-Cleaned.txt | block: 173 | label: meter | g:0.25 m:0.521 ---
+
+hemāntarnihite valle yathā syātkāñcanī drutiḥ ।
+kāntalohe tathā rūpye vaṅge nāge tathaiva ca ।।
+tāmre ṣaṭsvapi loheṣu cūrṇaṃ ṣoḍaśavedhakam ।
+ṣaṇṇāṃ madhyācca lohāṇāṃ kasyāpyekasya gālite ।।
+gadyāṇe vastramātraṃ ca prakṣiped bhekacūrṇakam ।
+tallohaṃ dravarūpaṃ syāttannāmnaiva drutirbhavet ।।
+ṣaḍlohadrutistajjñaiḥ kṛtā bhavet sakarmaṇā ।
+anayā yāni karmāṇi vakṣyante tāni dhātuṣu ।।

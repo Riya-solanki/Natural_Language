@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 161 | label: hybrid | g:0.25 m:0.47 ---
+
+ātmaśabdaśca cetanavacana ityavocāma ।
+mahacca prāmāṇyakāraṇametadyadvedāntavākyānāṃ cetanakāraṇatve samānagatitvaṃ, cakṣurādīnāmiva rūpādiṣu ।
+ato gatisāmānyātsarvajñaṃ brahma jagataḥ kāraṇam ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1899 | label: meter | g:0.272 m:0.845 ---
+
+rajaḥsūryāṃśusaṃparkādvivarṇākṛtayaḥ kṛśāḥ ।
+śokaklamārtāḥ ke yūyamiha cābhigatāḥ kutaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3643 | label: meter | g:0.194 m:0.5 ---
+
+sahāsmābhir gataṃ bālyaṃ sahāsmābhī rataṃ vane 
+bhavadbhir vardhitāś caiva kathaṃ yāsyāma vikriyām ।।

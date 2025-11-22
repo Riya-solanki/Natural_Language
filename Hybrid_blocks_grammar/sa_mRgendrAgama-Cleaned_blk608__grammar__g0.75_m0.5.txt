@@ -1,0 +1,3 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 608 | label: grammar | g:0.75 m:0.5 ---
+
+yadanyat siddhakaulākhyaṃ jñānaṃ tat tathā iti yoginīkaulavat। yathā na tad yoginībhya uttīrṇaṃ tathedaṃ siddhebhyasteṣveva pāramparyeṇa sthitamiti yāvat। [yaḥ] yastu [miśraḥ] vyāmiśraḥ saṃhāraḥ saṃgraho yathā māntreśvaramapi munibhiḥ āṛṣaṃ vā guhyakaiḥ saṃkṣipyoktaṃ sa miśra eva saṃkṣepaḥ etatsaṃjñayā yukto jñeyaḥ।।

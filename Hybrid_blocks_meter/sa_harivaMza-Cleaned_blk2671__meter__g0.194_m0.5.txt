@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2671 | label: meter | g:0.194 m:0.5 ---
+
+sthitaḥ śakramahas tāta śrīmān girimahas tv ayam 
+tvatpraṇīto adya gopānāṃ gavāṃ hetoḥ pravartatām ।।

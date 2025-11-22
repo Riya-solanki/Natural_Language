@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 167 | label: meter | g:0.25 m:0.625 ---
+
+aho hi sarvabuddhānāṃ sattvavajramahaṃ dṛḍhaḥ ।
+yad dṛḍhatvādakāyo api vajrakāyatvamāgataḥ ।।

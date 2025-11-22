@@ -1,0 +1,10 @@
+--- source: vacbhamu-Cleaned.txt | block: 1001 | label: meter | g:0.309 m:0.544 ---
+
+agnihotrādi tu tatkāryāyaiva taddarśanāt ।
+yadi puṇyasyāpyaśleṣavināśau hanta nityamapyagnihotrādi na kartavyaṃ yogamārūrukṣuṇā ।
+tasyāpītarapuṇyavadvidyayā vināśāt ।
+aprakṣālanāddhi paṅkasya dūrādasparśanaṃ vara'miti nyāyāt ।
+naca vividiṣanti yajñena dāneneti mokṣalakṣaṇaikakāryatayā vidyākarmaṇoravirodhaḥ ।
+sahāsaṃbhavenaikakāryatvāsaṃbhavāt ।
+nahyetamātmānaṃ viduṣo vigalitākhilakartṛtvādiprapañcavibhramasya pūrvottare nitye kriyājanye puṇye saṃbhavataḥ ।
+tasmādvividiṣanti yajñeneti vartamānāpadeśo brahmajñānasya yajñādīnāṃ vā stutimātraṃ na tu mokṣamāṇasya muktisādhanaṃ yajñādividhiriti prāpta ucyate ।

@@ -1,0 +1,9 @@
+--- source: gp12-22u-Cleaned.txt | block: 151 | label: meter | g:0.25 m:0.655 ---
+
+taṃ pūjayāmāsa mudā nāgaḥ patnyaś ca sādaram ।
+divyāmbara-sraṅ-maṇibhiḥ parārdhyair api bhūṣaṇaiḥ ।
+divya-gandhānulepaiś ca mahatyotpala-mālayā ।।
+pūjayitvā jagannāthaṃ prasādya garuḍa-dhvajam ।
+tataḥ prīto' bhyanujñātaḥ parikramyābhivandya tam ।।
+sakalatra-suhṛt-putro dvīpam abdher jagāma ha ।
+tadaiva sāmṛta-jalā yamunā nirviṣābhavat ।।[]

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2608 | label: meter | g:0.194 m:0.5 ---
+
+vrajam ājagmatus tau tu vraje śuśruvatus tadā 
+prāptaṃ śakramahaṃ vīrau gopāṃś cotsavalālasān ।।

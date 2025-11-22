@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 92 | label: meter | g:0.104 m:0.854 ---
+
+yatra ca-
+kāścit paṅka-kairavāvali-lasat-srotasvatī-prāntagā
+nānā-puṣpa-vanī-virājad avanī-madhya-sthitāḥ kāścana ।
+kekā-jhaṅkṛti-mat-kuhū-madhuritāḥ kāntāṅga-carcācitā
+nāsādṛk-śravasaḥ sadāpi sukhadā rāsāṅkitā bhūmayaḥ ।। [śārdūlā]

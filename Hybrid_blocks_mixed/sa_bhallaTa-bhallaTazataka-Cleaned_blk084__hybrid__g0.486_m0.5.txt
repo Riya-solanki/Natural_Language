@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 84 | label: hybrid | g:0.486 m:0.5 ---
+
+aho gehenardī divasavijigīṣājvararujā pradīpo ayaṃ sthāne glapayati mṛṣāmūn avayavān 
+udāttasvacchandākramaṇahṛtaviśvasya tamasaḥ parispandaṃ draṣṭuṃ mukham api ca kiṃ soḍham amunā ।।

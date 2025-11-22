@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 8 | label: meter | g:0.25 m:0.75 ---
+
+viśveśvarādasthipuraṃ rathā kanyā jaradgavī ।
+yāvadoghavatī proktā tāvatsaṃnihitaṃ saraḥ ।।

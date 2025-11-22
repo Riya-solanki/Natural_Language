@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11163 | label: hybrid | g:0.531 m:0.5 ---
+
+umā suparṇā vāruṇī ceti tisraḥ sahaiva taḥ pravijānanti sustham ।
+harerviśeṣānarudra dṛṣṭānkhagendra jānanti naitāḥ kvāpi deśe ca kāle ।।

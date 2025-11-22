@@ -1,0 +1,10 @@
+--- source: brssbh4u-Cleaned.txt | block: 277 | label: grammar | g:0.684 m:0.384 ---
+
+yaḥ atra abhiniṣpadyata iti uktaḥ sa sarvabandha vinirmuktaḥ śuddhena eva ātmanā avatiṣṭhate ।
+pūrvatra tu andho bhavati api roditi iva vināśameva apīto bhavati iti ca avasthātraya kaluṣitena ātmana iti ayaṃ viśeṣaḥ ।
+kathaṃ punaḥ avagamyate muktaḥ ayam idānīṃ bhavati iti - pratijñānāt ityāha ।
+tathā hi aetaṃ tveva te bhūyo anuvyākhyāsyāmi' iti avasthātraya doṣavihīnam ātmānaṃ vyākhyeyatvena pratijñāya aaśarīraṃ vāva santaṃ na priyāpriye spṛśataḥ iti ca upanyasya asvena rūpeṇābhiniṣpadyate sa uttamaḥ puruṣaḥ' iti ca upasaṃharati ।
+tathā ākhyāyika upakrame api aya ātmāpahatapāpmā' ityādi mukta ātmaviṣayam eva pratijñānam ।
+phalatvaprasiddhiḥ api mokṣasya bandhanivṛttimātra apekṣā na apūrva upajanana apekṣā ।
+yat api abhiniṣpadyata iti utpattiparyāyatvaṃ tat api pūrva avasthāpekṣaṃ yathā roganivṛttau arogaḥabhiniṣpadyata iti tadvat ।
+tasmāt adoṣaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2421 | label: meter | g:0.194 m:0.625 ---
+
+etāny ambuprahṛṣṭāni haritāni mṛdūni ca 
+tṛṇāni śatapatrākṣa patrair gūhanti medinīm ।।

@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 179 | label: meter | g:0.174 m:0.794 ---
+
+dharmavibhūṣaṇaḥ
+prātar haridine lokās tiṣṭhadhvaṃ caikabhojanāḥ
+akṣāralavaṇāḥ sarve haviṣyān niṣeviṇaḥ ।।

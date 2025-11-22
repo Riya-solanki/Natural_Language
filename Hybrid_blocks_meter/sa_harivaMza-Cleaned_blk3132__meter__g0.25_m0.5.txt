@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3132 | label: meter | g:0.25 m:0.5 ---
+
+nirbhartsyamāno yair dṛṣṭaḥ pitā te kṛṣṇa saṃsadi 
+te sarve cakrur aśrūṇi netrair duḥkhānvitā bhṛśam ।। 
+andhena kiṃcid uktvaiva kaṃso nirbhartsitaḥ kila । 
+garbhāvakartanādīni duḥkhāni subahūni sā 
+mātā te devakī kṛṣṇa kaṃsasya sahate avaśā ।।

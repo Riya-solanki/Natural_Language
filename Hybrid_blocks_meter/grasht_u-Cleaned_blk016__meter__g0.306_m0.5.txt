@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 16 | label: meter | g:0.306 m:0.5 ---
+
+rasabandhaśca sa dhanyaḥ prārambhe yasya satatamiva karuṇā ।
+siddhe rase kariṣye mahīmahaṃ nirjarāmaraṇam ।।

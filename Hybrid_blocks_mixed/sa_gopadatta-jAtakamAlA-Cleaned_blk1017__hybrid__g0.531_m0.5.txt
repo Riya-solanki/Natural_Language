@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1017 | label: hybrid | g:0.531 m:0.5 ---
+
+māṃ praty ataś ca viphalo api varaṃ prayāsaḥ sādhor mahājanahitāvahitāśayasya ।
+icchāviśeṣaviṣayasya parākramasya prasthānam eva mahatīṃ ratim ādadhāti ।।

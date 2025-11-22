@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5507 | label: meter | g:0.25 m:0.732 ---
+
+vāyasyā udaraṃ gṛhya maṇḍūkavasayā saha ।
+guṭikāṃ kārayettena tato agnau saṃkṣaipetsudhīḥ ।
+evametatprayogeṇa hyagnistambhanamuttamam ।।

@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 366 | label: grammar | g:0.806 m:0.375 ---
+
+apo bhi ।।
+apastakāro bhādau pratyaye । adbhyaḥ । apām ।। diśau । digbhyām ।। tyadādiṣviti dṛśeḥ kvinvidhānādanyatrāpi kutvam । dṛśau ।। tviṣau ।। sasajuṣo ruriti rutvam । sajūḥ । sajūrbhyām ।। āśīḥ । āśīrbhyām ।। asau । amū । amuyā । amūbhiḥ । amūbhyaḥ । amuyoḥ । amuṣyām ।।

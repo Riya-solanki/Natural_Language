@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 859 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatas tad anavadadhatī kuntala-santāna-bandhād vighaṭitāṃ paṭṭa-ḍorīm ekām upasādya, sadyaḥ sadma-dvārāntar upasadyamānam udūkhalam anu vatsa-gala-bandhavad alagnam evāvalagne sa-nirbandhaṃ bandhum udyatavatī, stanandhayaṃ śikṣā-jananī jananī । sā tu dvy-aṅgulāṅga-nyūnājani ।

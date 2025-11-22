@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 157 | label: grammar | g:0.583 m:0.5 ---
+
+kāntyā candramasaṃ dhāmnā sūryaṃ dhairyeṇa cārṇavam rājann anukaroṣīti saiṣā hetūpamā matā ।।

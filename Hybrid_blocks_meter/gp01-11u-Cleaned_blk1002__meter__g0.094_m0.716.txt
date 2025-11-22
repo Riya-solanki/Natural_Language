@@ -1,0 +1,8 @@
+--- source: gp01-11u-Cleaned.txt | block: 1002 | label: meter | g:0.094 m:0.716 ---
+
+yathā,
+prādhānyād atidivya-vṛkṣa-vitater vṛndāvanaṃ ratna-bhū-
+palyaṅkānvita-pīṭha-jetṛ-dṛśadāṃ vṛndasya govardhanaḥ ।
+glau-cūrṇodbhava-raṅga-bhūmi-vijayi-sthalyāvaler aṃśumat-
+kanyāyāḥ pulinālir utsava-śataṃ dugdhe sma mugdhaṃ tayoḥ ।। [śārdūlavikrīḍitam]
+[] atha madhukaṇṭhaḥ samāpanam idaṃ sāñjalitayā vyānañja,

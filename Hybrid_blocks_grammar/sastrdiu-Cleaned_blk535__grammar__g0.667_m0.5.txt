@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 535 | label: grammar | g:0.667 m:0.5 ---
+
+vacanānāṃ hi mitho virodhe siddhavastuviṣayatvena ca vikalpāsaṃbhave pramāṇāntarānnirṇayaḥ syāt, tacca pramāṇāntaraṃ bheda eva samarthamityaikātmyavādānāmavailakṣaṇyaparatvaṃ pūrvoktanyāyenāvagantavyam ।।

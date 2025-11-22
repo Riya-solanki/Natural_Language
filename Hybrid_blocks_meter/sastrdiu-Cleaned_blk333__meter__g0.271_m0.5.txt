@@ -1,0 +1,3 @@
+--- source: sastrdiu-Cleaned.txt | block: 333 | label: meter | g:0.271 m:0.5 ---
+
+prākkālasaṃbandhagocarayogyajñānānudayaḥ, sahi prākkālisaṃbandhitayā smartuṃ yogyaḥ sannapi na smaryate, nacāvaśyaṃpramāṇābāva

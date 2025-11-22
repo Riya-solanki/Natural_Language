@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 43 | label: grammar | g:0.604 m:0.5 ---
+
+taṭeṣv eva paribhrāntaiḥ labdhās tās tā vibhūtayaḥ yasya tasmai namas tubhyam agādhaharasindhave ।।

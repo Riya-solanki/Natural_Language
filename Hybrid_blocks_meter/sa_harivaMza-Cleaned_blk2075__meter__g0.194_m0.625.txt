@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2075 | label: meter | g:0.194 m:0.625 ---
+
+tasya putratvam āpanno yo asauviṣṇo tvayā hataḥ 
+kālanemir mahādaityaḥ saṃgrāme tārakāmaye ।।

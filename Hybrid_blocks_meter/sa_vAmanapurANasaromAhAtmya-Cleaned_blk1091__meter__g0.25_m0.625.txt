@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1091 | label: meter | g:0.25 m:0.625 ---
+
+namo vṛṣāṅkavṛkṣāya govṛṣābhirute namaḥ ।
+kaṭaṅkaṭāya bhīmāya namaḥ paraparāya ca ।।

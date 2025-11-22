@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1672 | label: meter | g:0.25 m:0.927 ---
+
+te vītabhayasaṃtrāsā mayatārapurogamāḥ 
+tārakāmayasaṃgrāme satataṃ jitakāśinaḥ । 
+rejur āyodhanagatā dānavā yuddhakaṅkṣiṇaḥ ।।

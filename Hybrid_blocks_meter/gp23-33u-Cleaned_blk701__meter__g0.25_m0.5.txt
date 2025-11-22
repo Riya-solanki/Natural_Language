@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 701 | label: meter | g:0.25 m:0.5 ---
+
+grasta-sūryeṇa tamasā tamasā vyāpi tad dinam ।
+udite hari-vaktrendau smerājani kumudvatī ।। iti ।

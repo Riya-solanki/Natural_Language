@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4123 | label: meter | g:0.194 m:0.75 ---
+
+ādāya vasudevo api dārikāṃ nijamandire 
+devakīśayane nyasya yathāpūrvam atiṣṭhata ।।

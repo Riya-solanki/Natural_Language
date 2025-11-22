@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 236 | label: grammar | g:0.678 m:0.326 ---
+
+pratyakṣasya satsaṃprayogajanyatvalakṣaṇena lokasiddhenāvyabhicāramuktvā, idānīmanumānāderavyabhicārārthe lokasiddhameva lakṣaṇamāha- anumānaṃ jñātasaṃbandhasyaikadeśadarśanīdekadeśāntare asaṃnikṛṣṭerthe buddhiḥ śā bhā ।
+yasya yādṛśasya yena yādṛśena saha sākṣādvā praṇāḍyā vā yādṛśaḥ saṃbandhaḥ saṃyogaḥ samavāya ekārthasamavāyaḥ kāryakāraṇatvamanyo vā dṛṣṭāntadharmiṣu niyato jñātastaṃ tādṛśaṃ sādhyadharmiṣu dṛṣṭavatastasmiṃstādṛśe tādṛśasaṃbandhasaṃbana adhini prabalena pramāṇena tādrūpyatadviparyayābhyāmaparicchinne yā buddhiḥ sānumānam ।
+yathā dhūmasyānuparatordhvagamanasyāgnisāhityaṃ mahānasādiṣu niyatamupalabdhavataḥ parvate taddarśanādagnijñānam ।।

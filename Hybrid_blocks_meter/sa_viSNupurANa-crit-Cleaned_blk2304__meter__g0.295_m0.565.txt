@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2304 | label: meter | g:0.295 m:0.565 ---
+
+rājyādiprāptir atroktā paramārthatayā yadi 
+paramārthā bhavanty atra na bhavanti ca vai tataḥ ।।

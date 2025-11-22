@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4164 | label: meter | g:0.326 m:0.774 ---
+
+vaidūryamaṇivarṇābhaḥ prāsādo haritaprabhaḥ 
+yaṃ viduḥ sarvabhūtāni param ity eva bhārata ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6248 | label: meter | g:0.306 m:0.625 ---
+
+viparītākhyānakaṃ syādviṣame jastajau gagau ।
+tatau jagau same gaḥ syāt piṅgalena hyudāhṛtam ।।

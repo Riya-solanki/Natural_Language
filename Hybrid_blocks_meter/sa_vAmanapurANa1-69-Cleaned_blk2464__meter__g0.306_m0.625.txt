@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2464 | label: meter | g:0.306 m:0.625 ---
+
+tataḥ papraccha sa muniḥ kanyake kasya kathyatām ।
+kulālaṅkāraṇe bhaktiyukte bhavasya hi ।।

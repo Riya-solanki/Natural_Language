@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 34 | label: meter | g:0.25 m:0.625 ---
+
+evamuktvā tu sā devī lakṣmīrdaityanṛpaṃ balim ।
+praviṣṭā varadā sevyā sarvadevamanoramā ।।

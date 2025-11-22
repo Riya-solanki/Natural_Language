@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3728 | label: meter | g:0.25 m:0.75 ---
+
+jagaddhitāya kṛṣṇāya govindāya namonamaḥ ।
+śāntirastu śivaṃ cāstu dhanavikhyātirājyabhāk ।।

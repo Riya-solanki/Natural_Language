@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2093 | label: meter | g:0.194 m:0.625 ---
+
+mūrtayo hi tavāvyaktā dṛśyādṛśyāḥ surottamaiḥ 
+tāsu sṛṣṭās tvayā devāḥ saṃbhaviṣyanti bhūtale ।।

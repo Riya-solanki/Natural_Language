@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 331 | label: grammar | g:0.559 m:0.34 ---
+
+garbhadrutau satyāṃ kartavyamāha itītyādi ।।
+ityuktavidhānena gaditāṃ kathitāṃ garbhadrutiṃ jñātvā tapte khalvatale lohamaye karīṣāgninā uṣṇatāṃ nīte mṛditāṃ kuryāt ।।
+kena abhiṣavayogena abhiṣavaḥ saṃmardanaṃ tasya yogena na kevalamanena amlavargeṇa ca jambīrādinā na kevalamanenāpi svedanavidhinā ca svedanavidhiḥ svedanasaṃskāroktatvānnātrābhihitaḥ jāraṇahetoriti śeṣaḥ ।।

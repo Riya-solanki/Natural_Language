@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3386 | label: meter | g:0.25 m:0.625 ---
+
+taṃ mahīśayane suptaṃ kṣitināthaṃ gatāyuṣam 
+bhāryāḥ sma dṛṣṭvā śocanti mṛgyo mṛgavadhe yathā ।।

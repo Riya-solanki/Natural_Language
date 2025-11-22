@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1866 | label: meter | g:0.194 m:0.5 ---
+
+tasmād aharniśaṃ viṣṇuṃ saṃsmaran puruṣo mune 
+na yāti narakaṃ śuddhaḥ saṃkṣīṇākhilapātakaḥ ।।

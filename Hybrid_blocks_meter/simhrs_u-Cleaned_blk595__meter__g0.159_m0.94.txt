@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 595 | label: meter | g:0.159 m:0.94 ---
+
+yathā-
+āmekhalaṃ cañcaratā ghanānāṃ
+chāyām adhaḥ sānugatāṃ niṣevya ।
+udvejitā vṛṣṭibhir āśrayante
+śṛṅgāṇi yasyātapavanti siddhāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 721 | label: meter | g:0.306 m:0.625 ---
+
+yathāśvamedhaḥ pravaraḥ kratūnāṃ putro yathā sparśavatāṃ variṣṭhaḥ ।
+tapodhanānāmapi sumbhayoniḥ śrutirvarā yadvadihāgameṣu ।।

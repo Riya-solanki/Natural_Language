@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1506 | label: meter | g:0.25 m:0.625 ---
+
+athābhirūḍhaḥ sa nareṇa tena bharātiyogena vihanyamānaḥ ।
+sattvaprakarṣādaviprannadhairyaḥ pareṇa duḥkhena tamujjahāra ।।

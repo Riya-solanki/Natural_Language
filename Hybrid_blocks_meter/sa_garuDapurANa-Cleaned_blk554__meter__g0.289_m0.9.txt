@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 554 | label: meter | g:0.289 m:0.9 ---
+
+śrīgaruḍamahāpurāṇam- 
+rudra uvāca ।
+punardhyānaṃ samācakṣva śaṅkhacakragadādhara ।
+viṣṇorīśasya devasya śuddhasya paramātmanaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2526 | label: meter | g:0.25 m:0.5 ---
+
+yasya madhye sthito merur granthayaś ca na tatra vai 
+pañcāśākṣamayā tantu[r] yasmāt sarvaṃ carācaram ।।

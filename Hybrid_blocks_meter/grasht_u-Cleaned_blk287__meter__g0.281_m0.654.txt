@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 287 | label: meter | g:0.281 m:0.654 ---
+
+gold, silver garbhadruti 
+athavā balinā vaṅgaṃ nāgābhidhānena yantrayogena ।
+hemāhvaṃ tāraṃ vā dravati ca garbhe na sandehaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 310 | label: grammar | g:0.667 m:0.5 ---
+
+tatra jñānalakṣaṇāni aṣṭacatvāriṃśat, viśeṣalakṣaṇāni ṣoḍaśa, kāritralakṣaṇāni ekādaśa svabhāvalakṣaṇāni ṣoḍaśa ceti lakṣaṇānāṃ bhedā vistareṇa ekanavatiḥ bhavanti ।

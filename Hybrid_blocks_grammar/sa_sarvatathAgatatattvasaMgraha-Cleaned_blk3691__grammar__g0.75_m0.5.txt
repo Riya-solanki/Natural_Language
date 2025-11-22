@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3691 | label: grammar | g:0.75 m:0.5 ---
+
+atha mahe]śvarastrilokādhipatirnārāyaṇādīn sarvadevādhipatīnevamāha । "pratipadyata mārṣāstathāgato arhaṃ samyaksaṃbuddho [lokānuvartanatayā pu]naranuttarāṃ samyaksaṃbodhiṃ darśayiṣyati । māmantryā evaṃ vidyen na tathāgato mānuṣo bhavati, devā eva [tathāgatā bhavanti], manuṣe ghaṭayeyuḥ, na tathāgatatva iti । tatsādhu pratipadyata tatra pūjanāya gantu" miti ।

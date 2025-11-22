@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6335 | label: meter | g:0.295 m:0.565 ---
+
+tathātmā prakṛteḥ saṅgād ahaṃmānādidūṣitaḥ 
+bhajate prākṛtān dharmān anyas tebhyo hi so avyayaḥ ।।

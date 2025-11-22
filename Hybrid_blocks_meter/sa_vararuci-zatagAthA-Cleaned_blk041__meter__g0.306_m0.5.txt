@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 41 | label: meter | g:0.306 m:0.5 ---
+
+muktāmaṇibhyāṃ ca hi gardabhasya kiṃ śūkarasya priyabhojanena ।
+andhasyadīptyā badhirasya gītaimūrkhasya dharmeṇa kimasti kṛtyam ।।

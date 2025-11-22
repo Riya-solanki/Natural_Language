@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 116 | label: grammar | g:0.61 m:0.305 ---
+
+atra samāne api hi sthaganaprayojane sādhye sāmānye ca locanatve, devyāḥ paricumbanena yasya nirodhaḥ saṃpādyate tadbhagavatastṛtīyanayanaṃ jayati sarvotkarṣeṇa vartata iti vākyārthaḥ ।
+atra jayatīti kriyāpadasya kimapi sahṛdayahṛdayasaṃvedyaṃ vaicitryaṃ parisphuradeva lakṣyate ।
+yathā ca

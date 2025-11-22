@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1862 | label: hybrid | g:0.542 m:0.5 ---
+
+ity atra ānanda-kośa-bījotthāpana-mukha-vyāpārāṇāṃ rūpaka-bījotthāpana-dhruvā-gānārthānām api anyārtha-pratītyā hāsyakaratvād ayaṃ vyāhāraḥ ।

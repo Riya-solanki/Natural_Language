@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3070 | label: meter | g:0.25 m:0.826 ---
+
+pulastya uvāca ।
+bāḍhamityabravīd gaurī hiraṇyākṣasutaṃ tataḥ ।
+sa cāste pūjayañśarvaṃ gaṇānāmadhipo abhavat ।।

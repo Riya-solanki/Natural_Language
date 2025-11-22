@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 270 | label: meter | g:0.25 m:0.555 ---
+
+kṛtakṛtyasya devasya devārthaṃ caiva kurvataḥ ।
+alaṃ dadyāṃ dhanaṃ deve tvetadvācyaṃ tu yācataḥ ।
+kṛṣṇasya devabhūtyartha pravṛttasya mahāsura ।।

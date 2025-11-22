@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10192 | label: meter | g:0.306 m:0.5 ---
+
+paryaṅkarūpeṇa vabhūva devī vāsasvarūpeṇa ramā vireje ।
+sarvaṃ ramā saiva tadaiva cāsītsaikā devī bahurūpā babhāṣe ।।

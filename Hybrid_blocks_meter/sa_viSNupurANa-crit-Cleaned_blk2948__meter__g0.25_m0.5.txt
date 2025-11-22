@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2948 | label: meter | g:0.25 m:0.5 ---
+
+na śmaśru bhakṣayel loṣṭaṃ na mṛd nīyād vicakṣaṇaḥ 
+jyotīṃṣy amedhyaḥ śastāni nābhivīkṣeta ca prabho ।।

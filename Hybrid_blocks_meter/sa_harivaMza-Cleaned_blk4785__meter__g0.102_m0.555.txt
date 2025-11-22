@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4785 | label: meter | g:0.102 m:0.555 ---
+
+kim evaṃ cintayāviṣṭaḥ puruṣendra bhavān iha 
+tava bāhubalaprāṇam āśritāḥ sarvayādavāḥ 
+bhavantam āśritāḥ kṛṣṇa saṃvibhaktāś ca sarvaśaḥ ।।

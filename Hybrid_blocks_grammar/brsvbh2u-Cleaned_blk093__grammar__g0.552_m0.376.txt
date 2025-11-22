@@ -1,0 +1,5 @@
+--- source: brsvbh2u-Cleaned.txt | block: 93 | label: grammar | g:0.552 m:0.376 ---
+
+yataścāsya na pravṛttihetubhāvo asti ata eva pratyakṣe dehe sati pravṛttidarśanādasati cādarśanāddehasyaiva caitanyamiti laukāyatikāḥ pratipannāḥ, tathā ca na cidātmanimittā pravṛttiriti siddham ।
+tasmānna racanāyāḥ pravṛttervā cidātmakāraṇatvasiddhirjagata iti aupaniṣadaḥ pariharatitadabhidhīyatena brūma iti ।
+na tāvat pratyakṣānumānāgamasiddhaḥ śārīro vā paramātmā vāsmābhiridānīṃ

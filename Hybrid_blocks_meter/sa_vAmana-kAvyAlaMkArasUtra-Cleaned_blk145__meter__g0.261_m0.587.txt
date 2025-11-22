@@ -1,0 +1,7 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 145 | label: meter | g:0.261 m:0.587 ---
+
+evaṃ guṇālaṅkārāṇāṃ bhedaṃ darśayitvā śabdaguṇanirūpaṇārthamāha 
+ojaḥprasādaśleṣasamatāsamādhimādhuryasaukumāryodāratārthavyaktikāntayo bandhaguṇāḥ ।।bandhaḥ padaracanā, tasya guṇaḥ bandhaguṇāḥ ojaḥprabhṛtayaḥ ।।
+tān krameṇa darśayitumāha 
+gāḍhabandhatvamojaḥ ।।
+yathā

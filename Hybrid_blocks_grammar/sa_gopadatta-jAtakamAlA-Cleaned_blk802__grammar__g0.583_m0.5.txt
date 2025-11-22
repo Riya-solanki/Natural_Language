@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 802 | label: grammar | g:0.583 m:0.5 ---
+
+bodhisattvas tu pratyagrakopaśokakaluṣitādhyāśayātmanām avetya tūṣṇīm eva babhūva ।। sā punar abravīt ।।

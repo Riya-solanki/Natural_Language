@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3200 | label: meter | g:0.306 m:0.5 ---
+
+tathā tava pitṛvyo api jambhaḥ śakreṇa ghātitaḥ ।
+kujambho viṣṇunā cāpi pratyakṣaṃ paśuvat tava ।।

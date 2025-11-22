@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 619 | label: grammar | g:0.689 m:0.253 ---
+
+nanu savituḥ sāṃnidhyādhyāsādyuktā nānādeśāvagatiḥ śabde tu katham ।
+sarvagatatvāt- sarvagato hi śabdo bhinnadeśairdhvanibhiḥ svesve deśe abhivyajyamāno bhinnadeśo avabhāsate, dhvanayo hi śrotradeśamāgatyāpi śabdaṃ vyañjayantaḥ svotpattidesamiva śabdaṃ bhāsayantīti darśanabalādabhyupagamyate ।।

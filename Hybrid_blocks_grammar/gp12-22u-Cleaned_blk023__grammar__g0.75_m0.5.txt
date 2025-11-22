@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 23 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad etad varṇyamānam ākarṇya tayor mukhaṃ nirvarṇya sa-vismayaṃ tūṣṇīmbhūṣṇutayā virājamāne vrajeśāne sarve' pi tam ūcuḥ-yadyapy adya-jātāv iva sujātāv amū, tathāpi kramaṃ vinā buddhi-niṣkramasya bala-saṃvalanasya ca sad-bhāvād asmākaṃ vismāyakāv eva bhavataḥ । itas tu na vismāyakau bhavatas tapaḥ-prabhāva eva khalv evaṃ bhāvam āvahatīti । na khalu tat-tat-khalānāṃ yat parimalanaṃ jātam, tatra sahāyatānāṃ sahāyatā kācid api paricitā । tasmān maṅgalam eva saṅgataṃ bhaviṣyati iti ।

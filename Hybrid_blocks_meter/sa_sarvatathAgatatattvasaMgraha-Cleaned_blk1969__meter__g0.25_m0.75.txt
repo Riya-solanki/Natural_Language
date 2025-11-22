@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1969 | label: meter | g:0.25 m:0.75 ---
+
+vajrabandhaṃ śiromūrdhni prasāryāgramukhaiḥ saha ।
+svamukhenāṭṭahāsena ekādaśamukhī bhavet ।।

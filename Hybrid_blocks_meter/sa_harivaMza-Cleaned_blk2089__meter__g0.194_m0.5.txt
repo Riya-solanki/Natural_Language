@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2089 | label: meter | g:0.194 m:0.5 ---
+
+tava te divi bibhyanti tvatto bibhyanti sāgare 
+pṛthivyāṃ bibhyati tvatto nānyasya tu kathaṃcana ।।

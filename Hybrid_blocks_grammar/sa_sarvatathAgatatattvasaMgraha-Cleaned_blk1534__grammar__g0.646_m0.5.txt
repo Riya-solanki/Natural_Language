@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1534 | label: grammar | g:0.646 m:0.5 ---
+
+atha vajrānalo dūtaḥ svahṛdayamadāt । oṃ vajrānala mahādūta jvālaya sarva bhasmīkuru sarvaduṣṭān huṃ phaṭ ।।

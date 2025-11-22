@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 293 | label: grammar | g:0.646 m:0.5 ---
+
+sa eṣa śleṣarūpatvāt saśleṣa iti gṛhyatām sākṣepaś ca sahetuś ca darśyate tad api dvayam ।।

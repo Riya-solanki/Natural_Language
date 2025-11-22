@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2830 | label: meter | g:0.194 m:0.625 ---
+
+trir apaḥ prīṇanārthāya devānām apavarjayet 
+tatharṣīṇāṃ yathānyāyaṃ sakṛc cāpi prajāpateḥ ।।

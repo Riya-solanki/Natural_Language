@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 72 | label: meter | g:0.194 m:0.5 ---
+
+bhinne prakāśe cābhinne saṃkaro viṣayasya tat 
+prakāśātmā prakāśyo artho nāprakāśaś ca siddhyati ।।

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 1053 | label: grammar | g:0.651 m:0.137 ---
+
+nāgādiyuktarasabhuktopāyam āha katham apītyādi ।।
+ca punaḥ yat yasmāt nāgādikalaṅkito rasaḥ nāgavaṅgasahito raso'jñānātkathamapi bhuktaḥ tannodanāya tasya nāgavaṅgāṅkitarasasya nodanāya gojalakaṭukāravalliśiphāḥ gojalaṃ gomūtraṃ kaṭutiktā kāravallīśiphā kāravallīlatāyāḥ śiphā jaṭā etadauṣadhaṃ pibet tena nāgavaṅgādidoṣo vinaśyati ।।

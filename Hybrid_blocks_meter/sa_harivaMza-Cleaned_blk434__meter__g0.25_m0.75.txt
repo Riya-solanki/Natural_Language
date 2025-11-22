@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 434 | label: meter | g:0.25 m:0.75 ---
+
+mukhajenāgninā krodhāl lokān udvartayann iva 
+vāri susrāva vegena mahodadhir ivodaye 
+somasya bharataśreṣṭha dhārormikalilo mahān ।। 
+ekaviṃśati putrāṇāṃ sahasram amitaujasām । 
+tasya putraśataṃ dagdhaṃ tribhir ūnaṃ tu rakṣasā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1487 | label: meter | g:0.25 m:0.625 ---
+
+yāvajjīvaṃ kṛtaṃ pāpaṃ tatkṣaṇādeva naśyati ।
+kṛṣṇājine tilānkṛtvā hiraṇyamadhusarpiṣā ।।

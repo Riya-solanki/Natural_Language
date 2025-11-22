@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2635 | label: hybrid | g:0.455 m:0.5 ---
+
+kṣa saṃvartaḥ sthitaḥ krodhe ha prāṇe lākulī sthitaḥ 
+sa bhṛguḥ śukrato nityaṃ ṣa śveto majjam āsthitaḥ ।।

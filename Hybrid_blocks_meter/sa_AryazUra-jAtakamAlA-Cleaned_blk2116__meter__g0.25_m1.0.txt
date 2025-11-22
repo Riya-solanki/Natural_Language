@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2116 | label: meter | g:0.25 m:1.0 ---
+
+saṃsaktagītadravahāsanādaṃ parasparāśleṣavivṛddhaharṣam ।
+naraiḥ priyākhyānakadānatuṣṭairāśāsyamānābhyudayaṃ nṛpasya ।।

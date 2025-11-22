@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 902 | label: meter | g:0.25 m:0.625 ---
+
+ārādhya varadaṃ viṣṇum iṣṭaprāptim asaṃśayam 
+sameti nānyathā martyaḥ kim anyat kathayāmi vaḥ ।।

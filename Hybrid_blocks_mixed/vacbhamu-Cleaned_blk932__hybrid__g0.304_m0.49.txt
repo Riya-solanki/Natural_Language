@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 932 | label: hybrid | g:0.304 m:0.49 ---
+
+adhyayanamātravata eva karmavidhirnatūpaniṣadadhyayanavataḥ ।
+etaduktaṃ bhavati-yadadhyayanamarthāvabodhaparyantaṃ karmasūpayujyate yathā karmavidhivākyānāṃ tanmātravata evādhikāraḥ karmasu nopaniṣadadhyanavataḥ tadadhyayanasya karmasvanupayogāditi ।
+adhyayanamātravata eveti mātragrahaṇenārthajñānaṃ vā vyavacchinnamiti manvāno bhrāntaścodayati- nanvevaṃ satīti ।
+svābhiprāyamudghāṭayansamādhatte- na vayamiti ।
+upaniṣadadhyayanāpekṣaṃ mātragrahaṇaṃ nārthabodhāpekṣamityarthaḥ ।।

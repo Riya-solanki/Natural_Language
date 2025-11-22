@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 703 | label: meter | g:0.194 m:0.5 ---
+
+kṛtasvastyayano viprair hutvāgnīn vācya ca dvijān 
+brāhmaṇair abhyanujñātaḥ prayāsyasi jayāya vai ।।

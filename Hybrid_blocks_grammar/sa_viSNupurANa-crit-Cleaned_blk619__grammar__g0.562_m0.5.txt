@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 619 | label: grammar | g:0.562 m:0.5 ---
+
+satyaṃ sutas tvam apy asya kintu na tvaṃ mayā dhṛtaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1755 | label: hybrid | g:0.542 m:0.5 ---
+
+hriyā sarvasyāsau harati viditāsmīti vadanaṃ dvayor dṛṣṭvālāpaṃ kalayati kathām ātmaviṣayām ।
+sakhīṣu smerāsu prakaṭayati vailakṣyam adhikaṃ priyā prāyeṇāste hṛdayanihitātaṅkavidhurā ।।

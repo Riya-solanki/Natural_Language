@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2116 | label: meter | g:0.272 m:0.595 ---
+
+tasyopāyam idaṃ sarvaṃ yogamārgakriyādhvaram 
+sādhyate yena mārgeṇa rūpātītaṃ tu tac chṛṇu ।।

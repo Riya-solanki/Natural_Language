@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6286 | label: meter | g:0.194 m:0.625 ---
+
+tataḥ sarvaṃ yathāvṛttaṃ dharmadhenuvadhaṃ dvija 
+kathayitvā sa papraccha prāyaścittaṃ hi tadgatam ।।

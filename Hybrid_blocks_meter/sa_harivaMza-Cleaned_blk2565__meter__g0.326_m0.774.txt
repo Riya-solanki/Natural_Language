@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2565 | label: meter | g:0.326 m:0.774 ---
+
+gopālaveṣam āsthāya vanyapuṣpavibhūṣitaḥ 
+lobhayānaḥ sa tau vīrau hāsyaiḥ krīḍanakais tathā ।।

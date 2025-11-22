@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3292 | label: grammar | g:0.75 m:0.083 ---
+
+tasya siṃhāsanasthasya sukhāsīnasya dhīmataḥ 
+rūpam apratimaṃ dṛṣṭvā paurāḥ procur jayāśiṣaḥ ।। 
+tato devāḥ sagandharvāḥ siddhāś ca paramarṣayaḥ । puraṃdaraṃ puraskṛtya jagmur yuddhadidṛkṣavaḥ ।। vimānasthās tu te sarve virejuḥ sitacāmarāḥ । śakro apy airāvatagataḥ śuśubhe ca samātaliḥ ।। ūrvaśīpramukhāḥ sarvā vāramukhyās tadābhavan । śakrapārśvagatās tās tu sitacāmarapāṇayaḥ ।। dilīpapramukhās te tu munayo rājasattamāḥ । anekayugaparyantaṃ sthitā divi ca śakravat । bhagavantaṃ jagannāthaṃ draṣṭuṃ gopavibhūṣitam । nāradād yās tu munayo yuddhaṃ draṣṭuṃ vyavasthitāḥ ।। mallābhyāṃ devayoḥ sārdhaṃ raṅgamadhye samutthitam । amaraughais tadākāśaṃ nibiḍaṃ samapadyata ।। raṅgavāṭas tadā caiva janaiḥ sarvaiḥ samāvṛtaḥ । dyauś cāpi devasaṃghaiś ca nibiḍābhūd viyaccaraiḥ । ekākāraṃ samabhavad bhūtalaṃ ca nabhaḥsthalam । 
+tataḥ praviviśur mallā raṅgam āvalgitāmbarāḥ 
+tisraś ca bhāgaśaḥ kakṣyāḥ prāviśan balaśālinaḥ ।।

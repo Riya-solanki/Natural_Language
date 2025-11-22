@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1066 | label: hybrid | g:0.5 m:0.5 ---
+
+yathā bāla-rāmāyaṇe-bhṛṅgiriṭiḥ -aho tribhuvanādhipater asya anucarasya mahārha-veṣatā ।

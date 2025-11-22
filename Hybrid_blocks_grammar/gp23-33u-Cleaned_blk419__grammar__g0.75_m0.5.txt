@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 419 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha kṛṣṇaḥ sabhābhiḥ saha hasitvā provāca-satyaṃ tad-ādeśatas tad-abhiniveśaṃ tyajāmaḥ । kintu yuddhaṃ vinā rājñāṃ veda-buddhaṃ syād iti yuddhāya saṃnaddhayā bhavatyā bhāvyam ity eva vaktavyam ।

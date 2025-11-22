@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2905 | label: meter | g:0.251 m:0.623 ---
+
+viṣṇuḥ samastendriyadehadehī pradhānabhūto bhagavān yathaikaḥ 
+satyena tenānnam aśeṣam etad ārogyadaṃ me pariṇāmam etu ।।

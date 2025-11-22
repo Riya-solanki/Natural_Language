@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 492 | label: meter | g:0.346 m:0.747 ---
+
+rasenauṣadhasarvathājīrṇa ityarthaḥ ।
+atrādyam etad dvayameva śuddhakṛto yo bhedaḥ śuddhaḥ ।। v

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 426 | label: grammar | g:0.625 m:0.5 ---
+
+rājā -dhiṅ mūrkha ! kim evam upahasasi ? tvat-kṛta evāyam āpatito' smākam anartha-kramaḥ ।।

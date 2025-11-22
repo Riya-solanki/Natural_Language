@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10449 | label: hybrid | g:0.51 m:0.5 ---
+
+yathaiva mūlaṃ ca tathāvatāre duḥ khādikaṃ nāsti samīraṇasya ।
+vāyustathānye ca ubhau mukundastathāvatāreṣu na duḥ kharūpau ।।

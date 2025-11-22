@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2130 | label: meter | g:0.194 m:0.5 ---
+
+ātmānam ātmanā hi tvam avatārya mahītalam 
+devakīṃ rohiṇīṃ caiva garbhābhyāṃ paritoṣaya ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4243 | label: meter | g:0.25 m:0.625 ---
+
+athākṣatamahāvṛṣṭyā puṣpaiś ca vividhaiḥ śubhaiḥ 
+avakīrya ca lājais tāṃ striyo jagmur yathāgatam ।।

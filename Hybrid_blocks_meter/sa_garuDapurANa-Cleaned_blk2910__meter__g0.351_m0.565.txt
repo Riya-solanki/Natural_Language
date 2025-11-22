@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2910 | label: meter | g:0.351 m:0.565 ---
+
+vimanā viphalārambhaḥ saṃsadityanimittataḥ ।
+rājā rājyaṃ kumārī ca patiṃ putraṃ ca gurviṇī ।।

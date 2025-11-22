@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 256 | label: meter | g:0.306 m:0.5 ---
+
+saṃkrāntāṅguliparvasūcitakarasvāpā kapolasthalī netre nirbharamuktabāṣpakaluṣe niśvāsatānto adharaḥ ।
+baddhodbhedavisaṃṣṭhulālakalatā nirvedaśūnyaṃ manaḥ kaṣṭaṃ durnayavedibhiḥ kusacivairvatsā dṛḍhaṃ khedyate ।।

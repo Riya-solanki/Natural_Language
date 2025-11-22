@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 51 | label: grammar | g:0.953 m:0.0 ---
+
+adhunā yogasya sarvakarmabhya utkṛṣṭatvaṃ darśayati yajñād ityādi ।।
+atyantaṃ śreya iti adhikatarakalyāṇaṃ sarvopadravanivāraṇātmakaṃ bhaved ityadhyāhāraḥ ।।
+kutaḥ yajñādaśvamedhādeḥ na kevalaṃ yajñāt punardānāt dhanasyārpaṇāt pātreṣu punastapasaḥ kṛcchrātikṛcchracāndrāyapasaṃcāgnitapanādeḥ punarvedādhyayanāt vedānām ṛgyajuḥsāmātharvaṇāṃ adhyayanaṃ pāṭhākramastataḥ punardamāt vedāntānusāreṇa damastāvat bāhyendriyāṇāṃ tadvyatiriktaviṣayebhyo manasā nirvartanaṃ tadvyatiriktaṃ śravaṇādivyatiriktaṃ tataḥ punaḥ sadācārāt brāhmamuhūrtam ārabhya prātaḥsaṃgavamadhyāhnāparāhṇasāyāhnādiṣu śayanaparyantaṃ vedabodhito vidhiḥ sadācārastata iti samudāyaḥ śreyaskaro nātmasaṃvittikaraḥ punarātmasaṃvittiḥ brahmavedanaṃ yogavaśādeva syāt yogaḥ pūrvamuktaḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1271 | label: grammar | g:0.75 m:0.5 ---
+
+iti viniścitya bodhisattvo janmāntarābhyastanaiṣkramyasukhābhyudayaparicayo mṛga iva vāgurāvarodhanirgamopalambhodbhūtapramodaḥ samapanītarājyaśrīsūcakālaṃkāravibhramakāyabhāralaghuviviktavigrahaḥ parair aparijñātatapovanagamanaprayojanaḥ saṃrūḍhapraṇayaviśrambhasnehabahumānaniratyayaṃ ca bandhuvargaṃ svapuṇyabalāvaṣṭambhopanatasukhopabhogyāṃ ca rājalakṣmīṃ paryuṣitopabhogamalinamlānakusumabandhanām iva srajaṃ parityajyānytamad viviktam āśramapadam alaṃcakāra ।

@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 60 | label: meter | g:0.306 m:0.5 ---
+
+śuṣkaṃ māṃsaṃ striyo vṛddhā madyaṃ ca taruṇaṃ dadhi ।
+nakte bhojo divā svāpaḥ ṣaḍete prāṇahāriṇaḥ ।।

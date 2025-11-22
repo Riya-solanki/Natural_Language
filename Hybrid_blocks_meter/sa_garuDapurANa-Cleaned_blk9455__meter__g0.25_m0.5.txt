@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9455 | label: meter | g:0.25 m:0.5 ---
+
+vipreṇaiva yadā śūdrā pariṇītā pramādataḥ ।
+ekoddiṣṭantu tacchrāddha sā tu tenaiva yujyate ।।

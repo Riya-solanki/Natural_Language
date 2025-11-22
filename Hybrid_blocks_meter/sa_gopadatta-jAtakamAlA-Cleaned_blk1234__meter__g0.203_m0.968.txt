@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1234 | label: meter | g:0.203 m:0.968 ---
+
+loko ayaṃ vinimīlito api viduṣā pronmīlitaḥ sarvataḥ
+kīrtyā candramayūkhadhautakumudacchāyā ।
+etenaiva nimajjatāpi bhuvanaṃ magnaṃ samabhyuddhṛtaṃ
+janmāvaskarakardame sphuradurukleśakrimivyākule ।।

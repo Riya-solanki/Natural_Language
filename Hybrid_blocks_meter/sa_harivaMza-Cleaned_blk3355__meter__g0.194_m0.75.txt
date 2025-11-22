@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3355 | label: meter | g:0.194 m:0.75 ---
+
+harṣajaṃ vāri netrābhyāṃ vartayānā pravepatī 
+prasnavotpīḍitā kṛṣṇaṃ devakī samudaikṣata ।।

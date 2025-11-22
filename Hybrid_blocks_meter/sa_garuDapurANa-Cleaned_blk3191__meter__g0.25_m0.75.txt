@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3191 | label: meter | g:0.25 m:0.75 ---
+
+varayetkulajāṃ prājño virūpāmapi kanyakām ।
+surūpāṃ sunitambāñca nākulīnāṃ kadācana ।।

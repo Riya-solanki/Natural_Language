@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 712 | label: meter | g:0.194 m:0.625 ---
+
+{sphaṭikākṛtinirmalaḥ prakāmaṃ pratisaṃkrāntaniśātaśāstratattvaḥ ।
+aviruddhasamanvitoktiyuktiḥ pratimallāstamayodayaḥ sa ko api ।।}

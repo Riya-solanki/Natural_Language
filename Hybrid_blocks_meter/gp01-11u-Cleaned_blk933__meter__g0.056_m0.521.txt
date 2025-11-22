@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 933 | label: meter | g:0.056 m:0.521 ---
+
+dhātrīṇām aparatra karmaṇi manāg dattātmanām agrataḥ
+savyāsavya-dṛśor dṛśor aviṣaye sāntarddhi-deśe ca tau ।
+krīḍā-dambha-vaśāt kramād apagatau vidrutya dūra-sthitau
+tatrātha sva-suhṛdbhir uddhata-gaṇaiḥ kolāhalaṃ cakratuḥ ।। [śārdūla]

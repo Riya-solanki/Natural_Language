@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 791 | label: meter | g:0.213 m:0.596 ---
+
+asvaguṇān nopalabhante indriyāṇītyetanna
+bhavati upalabhyate hi svaguṇaḥ śabdaḥ śrotreṇeti
+।।

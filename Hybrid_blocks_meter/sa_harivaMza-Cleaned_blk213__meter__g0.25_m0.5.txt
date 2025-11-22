@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 213 | label: meter | g:0.25 m:0.5 ---
+
+nidhane hi prasūtas tvaṃ prajāpatir asaṃśayam 
+prajāś ca pālayiṣye aham iti te samayaḥ kṛtaḥ ।।

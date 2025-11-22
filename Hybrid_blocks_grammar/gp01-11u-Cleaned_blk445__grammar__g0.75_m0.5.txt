@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 445 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha punas tena garbhasthenākāreṇa mātuḥ prasūti-bhramaṃ ca samprathayya bahir ātmanaṃ saṃvalayya prasūti-śayyām evādhiśayya sthitavatī । yā khalu śrī-devakītaḥ śrī-rohiṇyāṃ saṅkarṣaṇa-saṅkramaṇe' pi tathā prakramate sma iti ।

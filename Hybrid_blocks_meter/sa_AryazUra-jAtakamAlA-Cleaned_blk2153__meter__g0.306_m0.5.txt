@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2153 | label: meter | g:0.306 m:0.5 ---
+
+daṣṭrākarālamapi nāma mṛgaḥ sametya vaiyāghramānanamupaiti punarvimokṣam ।
+mṛtyormukhaṃ tu pṛthurogajarārtidaṃṣṭraṃ prāptasya kasya ca punaḥ śivatātirasti ।।

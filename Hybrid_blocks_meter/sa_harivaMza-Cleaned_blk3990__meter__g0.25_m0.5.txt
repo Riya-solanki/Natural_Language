@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3990 | label: meter | g:0.25 m:0.5 ---
+
+novāca sa tadā kiṃcit kṛṣṇo rāmaṃ mahādyutim 
+rukmiṇī tu tataḥ śrutvā nihataṃ bhrātaraṃ priyam । 
+nigṛhya ca tadātmānaṃ krodhād aśrūṇy avartayat ।।

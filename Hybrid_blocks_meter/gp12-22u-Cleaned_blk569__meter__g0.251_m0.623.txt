@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 569 | label: meter | g:0.251 m:0.623 ---
+
+mad-eka-ceto mat-prāṇā rādhānya-vaśatāṃ gatā ।
+yāṃ smaran mama hā cetaś cetanām āvariṣyati ।। [anuṣṭubh]

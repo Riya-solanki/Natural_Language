@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1336 | label: grammar | g:0.78 m:0.345 ---
+
+anupapādya sāmarthyam anuktamarthādāpadyate itibruvataḥ pakṣahānerupapattiḥ anuktatvāt anityapakṣasiddhau arthādāpannam nityapakṣasya hāniriti।
+anekāntikatvāccārthāpatteḥ ubhayapakṣasamā ceyamarthāpattiḥ yadi nityasādharmyādasparśatvādākāśavacca nityaḥ śabdaḥ ? arthādāpannam anityasādharmyāt prayatnānantarīyakatvādanitya iti, na ceyaṃ viparyayamātrādekāntenārthāpattiḥ na khalu vai dhanasya grāvṇaḥ patanamiti arthādāpadyate dravāṇāmapāṃ patanābhāva iti ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 712 | label: grammar | g:0.688 m:0.5 ---
+
+mānavyādhinipīḍitāham adhunā śaknomi tasyāntikaṃ no gantuṃ na sakhījano asti caturo yo māṃ balān neṣyati ।
+mānī so api jano na lāghavabhayād abhyeti mātaḥ svayaṃ kālo yāti calaṃ ca jīvitam iti kṣuṇṇaṃ manaś cintayā ।।

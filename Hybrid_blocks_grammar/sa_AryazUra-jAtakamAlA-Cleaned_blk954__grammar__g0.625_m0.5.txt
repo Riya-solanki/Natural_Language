@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 954 | label: grammar | g:0.625 m:0.5 ---
+
+tadevaṃ satyavacanaparibhāvitāṃ vācamagnirapi na prasahate laṅghayitumiti satyavacane abhiyogaḥ karaṇīyaḥ । tathāgatavarṇe api vācyamiti ।

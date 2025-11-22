@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3278 | label: meter | g:0.194 m:0.625 ---
+
+mañcāgāraiḥ suniryuktair yuddhārthaṃ suvibhūṣitaiḥ 
+samājavāṭaḥ śuśubhe sa meghaughair ivārṇavaḥ ।।

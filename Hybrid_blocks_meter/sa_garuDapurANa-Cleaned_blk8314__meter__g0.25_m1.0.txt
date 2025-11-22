@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8314 | label: meter | g:0.25 m:1.0 ---
+
+gobhūhiraṇyavāsāṃsi bhojanāni pādani ca ।
+yatrayatra vasejjantustatratatropatiṣṭhati ।।

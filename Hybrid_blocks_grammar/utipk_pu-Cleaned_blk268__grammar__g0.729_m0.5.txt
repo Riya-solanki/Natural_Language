@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 268 | label: grammar | g:0.729 m:0.5 ---
+
+bāhyābhāsatāpādanam utpādanam iti cidrūpasyaiva kāraṇatā tato aṅkurādau nimittakāraṇatveśvaraḥ kaiś cid iṣṭo, na cāpi bījāder jaḍasya kāraṇatā niranusaṃdhānasya yuktā ।।

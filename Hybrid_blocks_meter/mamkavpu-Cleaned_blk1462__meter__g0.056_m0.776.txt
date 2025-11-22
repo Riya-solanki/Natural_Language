@@ -1,0 +1,10 @@
+--- source: mamkavpu-Cleaned.txt | block: 1462 | label: meter | g:0.056 m:0.776 ---
+
+{saha diahaṇisāṃhi dīharā sāsadaṇḍā
+saha maṇivalayeṃhi bāhadhārā galanti ।
+tuha suhaa vioe tīa ubbiggirīe
+saha a taṇuladāe dubbalā jīvidāsā ।।}
+[saha divasaniśābhirdīrghāḥ śvāsadaṇḍāḥ
+saha maṇibalayairvāṣpadhārā galanti ।
+tava subhaga viyoge tasyā udvignāyāḥ
+saha ca tanulatayā durbalā jīvitāśā ।।]

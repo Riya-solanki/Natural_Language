@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 808 | label: meter | g:0.272 m:0.845 ---
+
+upamā rūpakaṃ sāmyaṃ saṃśayoktirapahnu nutiḥ ।
+samādhyuktiḥ samāsoktirutprekṣāprastutastutiḥ ।।

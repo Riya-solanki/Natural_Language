@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3643 | label: grammar | g:0.75 m:0.5 ---
+
+āha rājā । vijitasakalārātir avihatendriyasāmarthyo bandhumān amitabalakośo nānyad asmākam urvaśīsālokyād aprāpyam asti । tad aham anayā sahorvaśyā kālaṃ netum abhilaṣāmi ।।

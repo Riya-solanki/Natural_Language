@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2477 | label: meter | g:0.25 m:0.5 ---
+
+tāstamūcurmahāmatsyaṃ kiṃ na pasyasi gālavam ।
+tāpasaṃ kanyakābhyāṃ vai vicarantaṃ yathecchayā ।।

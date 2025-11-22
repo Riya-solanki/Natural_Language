@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 884 | label: grammar | g:0.562 m:0.5 ---
+
+yatraiko doṣaḥ pradarśitastatra doṣāntarāṇyapi santi tathāpi teṣāṃ tatrāprakṛtatvātprakāśanaṃ na kṛtam ।।

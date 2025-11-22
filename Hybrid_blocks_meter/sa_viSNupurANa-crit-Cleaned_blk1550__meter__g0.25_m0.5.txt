@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1550 | label: meter | g:0.25 m:0.5 ---
+
+ity eṣa te aṃśaḥ prathamaḥ purāṇasyāsya vai dvija 
+yathāvat kathito yasmiñ śrute pāpair vimucyate ।।

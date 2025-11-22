@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 34 | label: grammar | g:0.75 m:0.5 ---
+
+sambandho dviṣṭho na caikenātmanobhayatrāvasthitir yuktā na ca dvayoḥ siddhayor anyonyāpekṣātmā nāpi svātmamātraniṣṭhayoḥ pāratantryarūpaḥ saṃbandhaḥ । tato yathā jñātṛtvaṃ kalpitaṃ tathā kartṛtvam apīti katham ātmā sarveśara iti ? ।।

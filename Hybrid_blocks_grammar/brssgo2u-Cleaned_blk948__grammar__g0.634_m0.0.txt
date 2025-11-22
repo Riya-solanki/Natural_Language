@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 948 | label: grammar | g:0.634 m:0.0 ---
+
+evaṃ bhedenāparyāyasaṃjñābhyāmukteḥ pṛthagjanokteśceti tadvyapadeśāditi heturvyākhyātaḥ ।
+bhedaśruteriti sūtreṇa prakaraṇabhedo heturukta iti na paunaruktyam ।
+te ha devāḥ śāstrīyendriyamanovṛttirūpā asurāṇāṃ pāpavṛttirūpāṇāṃ jayārthamudgīthakarmaṇi prathamaṃ vyāpṛtāṃ vācamūcustanna udgāyāsuranāśārthamiti tathāstvityaṅgīkṛtyodgāyantīṃ vācamanṛtādidoṣeṇa vidhvaṃsitavantosurā ityevaṃ krameṇa sarveṣvindriyeṣu pāpagrasteṣu paścādatheti prakaraṇaṃ vicchidya prasiddhamāsye bhavamāsanyaṃ mukhyaṃ prāṇamūcustanna tadgāyeti tena prāṇenodagātrā nirviṣayatayā saṅgadoṣaśūnyenāsurā naṣṭā ityasurāṇāṃ vidhvaṃsino mukhyaprāṇasyokterbhedasiddhirityāha-te heti ।
+tāni trīṇyanyānyātmane svārthaṃ prajāpatiḥ kṛtavānityarthaḥ ।।

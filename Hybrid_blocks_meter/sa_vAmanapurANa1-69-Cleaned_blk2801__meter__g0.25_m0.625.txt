@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2801 | label: meter | g:0.25 m:0.625 ---
+
+tān nivṛttān samīkṣyaiva krodhadīptekṣaṇaḥ śvaśasan ।
+nandiṣeṇo vyāghramukho nivṛttaścāpi vegavān ।।

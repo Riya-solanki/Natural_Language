@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6057 | label: meter | g:0.25 m:0.5 ---
+
+yac cāhaṃ bhavatā pṛṣṭo jagatām upasaṃhṛtim 
+prākṛtām antarālāṃ ca tām apy eṣa vadāmi te ।।

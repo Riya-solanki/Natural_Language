@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 361 | label: hybrid | g:0.5 m:0.5 ---
+
+-nakāro ayaṃ sāṃsārikāṇāṃ dharmāṇāṃ na nivṛttiriti yojanīyaḥ ।

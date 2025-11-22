@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 665 | label: meter | g:0.25 m:0.669 ---
+
+ṛṣaya ūcuḥ ।
+śṛṇuṣva rākṣasaśreṣṭha pramāṇaṃ lakṣaṇaṃ tathā ।
+sarveṣāṃ rauravādīnāṃ saṃkhyā yā tvekaviṃśatiḥ ।।

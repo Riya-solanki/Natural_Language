@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1009 | label: meter | g:0.102 m:0.555 ---
+
+lohityā yamadūtaś ca tathā kārīṣayaḥ smṛtāḥ 
+viśrutāḥ kauśikā rājaṃs tathānye saindhavāyanāḥ 
+ṛṣyantaravivāhyāś ca kauśikā bahavaḥ smṛtāḥ ।।

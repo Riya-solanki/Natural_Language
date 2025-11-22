@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 965 | label: meter | g:0.262 m:0.682 ---
+
+atha cintā-
+kenopāyena saṃsiddhiḥ kadā tasya samāgamaḥ । 
+dūtī-mukhena kiṃ vācyam ity ādy ūhas tu cintanam ।।
+atra nīvyādi-saṃsparśaḥ śayyāyāṃ parivartanam । 
+sa-bāṣpākekarā dṛṣṭir mudrikādi-vivartanam ।
+nirlakṣya-vīkṣaṇaṃ caivam ādyā vikṛtayo matāḥ ।।

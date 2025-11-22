@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 714 | label: meter | g:0.25 m:0.5 ---
+
+bāhyārthanirapekṣaṃ te mayi cittaṃ yad āhitam 
+tuṣṭo ahaṃ bhavatas tena tad vṛṇīṣva varaṃ param ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3596 | label: meter | g:0.25 m:0.5 ---
+
+caturdaśyāṃ nirāhāro bhūtvā śambho pare ahani ।
+bhokṣye ahaṃ bhuktimuktyarthaṃ śaraṇaṃ me bhaveśvara ।।

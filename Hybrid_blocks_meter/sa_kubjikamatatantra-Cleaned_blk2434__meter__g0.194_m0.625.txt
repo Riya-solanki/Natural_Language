@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2434 | label: meter | g:0.194 m:0.625 ---
+
+vidyārthī labhate vidyāṃ vaṇig vai lābham aśnute 
+mantrārādhanaśīlaś ca jāyate nirupadravaḥ ।।

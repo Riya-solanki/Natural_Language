@@ -1,0 +1,5 @@
+--- source: brssgo3u-Cleaned.txt | block: 767 | label: hybrid | g:0.381 m:0.242 ---
+
+apica karmākārahetoḥ kriyākārakaphalalakṣaṇasya samastasya prapañcasyāvidyākṛtasya vidyāsāmarthyātsvarūpopamardamāmananti - ayatra vā asya sarvamātmatmaivābhūttatkena kaṃ paśyettatkena kaṃ jighret' ityādinā ।
+vedāntoditātmajñānapūrvikāṃ tu karmādhikārasiddhiṃ pratyāśāsanasya karmādhikārocchittireva prasajyeta ।
+tasmādapi svātantryaṃ vidyāyāḥ ।।

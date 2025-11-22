@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6034 | label: meter | g:0.25 m:0.75 ---
+
+kuṣṭhacūrṇaṃ sājya-madhu prātarjagdhvā bhavennaraḥ ।
+sākṣātsurabhideho vai jīvedvarṣasahasrakam ।।

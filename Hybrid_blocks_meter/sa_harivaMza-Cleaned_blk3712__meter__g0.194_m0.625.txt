@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3712 | label: meter | g:0.194 m:0.625 ---
+
+tasyāstu vidhivan nāma vāstūni ca gadāgrajaḥ 
+nirmame puruṣaśreṣṭho manasā yādavottamaḥ ।।

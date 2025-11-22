@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 555 | label: meter | g:0.056 m:0.625 ---
+
+bhūyo bhūyo dṛśyate yarhi mūrcchā
+rādhāyāṃ vā śrīharau vā rahas tu ।
+anyo' nyasya sphūrtir evāpti-tulyā
+kalyāṇāya prāyaśaḥ kalpate sma ।। [śālinī]

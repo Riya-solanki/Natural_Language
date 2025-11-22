@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 61 | label: meter | g:0.194 m:0.625 ---
+
+rājasūyābhiṣiktānām ādyaḥ sa vasudhādhipaḥ 
+tasmāc caiva samutpannau nipuṇau sūtam agadhau ।।

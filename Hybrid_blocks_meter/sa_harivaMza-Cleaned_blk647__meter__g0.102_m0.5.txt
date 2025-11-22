@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 647 | label: meter | g:0.102 m:0.5 ---
+
+evam uktvā sa deveśo mām upasthitam agrataḥ 
+cakṣur dattvā savijñānaṃ devānām api durlabham 
+jagāma gatim iṣṭāṃ vai dvitīyo agnir iva jvalan ।।

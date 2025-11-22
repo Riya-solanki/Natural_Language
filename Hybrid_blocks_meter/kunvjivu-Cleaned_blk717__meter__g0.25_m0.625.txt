@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 717 | label: meter | g:0.25 m:0.625 ---
+
+prasiddho vastudharmo yo na vicchittyāśrayo bhavet ।
+tadevaṃ kavimukhyānāṃ varṇanāyogamāsthitaḥ ।।

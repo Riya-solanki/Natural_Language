@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 66 | label: hybrid | g:0.507 m:0.5 ---
+
+saci rūpa saṃjña api vedana cetanāyāṃ cittaṃ anitya pariṇāmayi bodhisattvo 
+pra varṇikāya carate aprajānamāno na hi dharma paṇḍita vināśa karoti jātu ।।

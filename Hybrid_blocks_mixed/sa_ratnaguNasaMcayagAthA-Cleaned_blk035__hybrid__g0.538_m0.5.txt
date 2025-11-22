@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 35 | label: hybrid | g:0.538 m:0.5 ---
+
+rupasmi yo na sthihate na ca vedanāyāṃ saṃjñāya yo na sthihate na ca cetanāyām 
+vijñāni yo na sthihate sthitu dharmatāyāṃ eṣā sa prajñavarapāramitāya caryā ।।

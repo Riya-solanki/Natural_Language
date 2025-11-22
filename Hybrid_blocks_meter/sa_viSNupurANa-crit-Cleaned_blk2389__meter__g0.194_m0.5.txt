@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2389 | label: meter | g:0.194 m:0.5 ---
+
+svāyaṃbhuvo manuḥ pūrvaṃ manuḥ svārociṣas tathā 
+uttamas tāmasaś caiva raivataś cākṣuṣas tathā ।।

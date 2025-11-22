@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3293 | label: meter | g:0.25 m:0.5 ---
+
+kalistadā dharmayutaṃ jagad dṛṣṭvā kṛte yathā ।
+brahmāṇaṃ śaraṇaṃ bheje svabhāvasya niṣeṇāt ।।

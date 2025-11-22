@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 212 | label: hybrid | g:0.25 m:0.475 ---
+
+sāpekṣatvenāprāmāṇyaṃ pūrvapakṣabījaṃ smārayitvā dūṣayati- na ca pariniṣṭhitavastusvarūpatve apiiti ।
+ayamabhisaṃdhiḥ- puṃvākyanidarśanena hi bhūtārthatayā vedāntānāṃ sāpekṣatvamāśaṅkyate ।
+tatraivaṃ bhavān pṛṣṭo vyācaṣṭām,

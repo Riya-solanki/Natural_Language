@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1294 | label: hybrid | g:0.5 m:0.5 ---
+
+[] kṛṣṇa uvāca-sādhūktaṃ vyaktam idaṃ bhagavatī-viditaṃ vidhāsyāmaḥ ।

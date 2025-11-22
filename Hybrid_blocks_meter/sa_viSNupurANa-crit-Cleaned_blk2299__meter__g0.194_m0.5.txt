@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2299 | label: meter | g:0.194 m:0.5 ---
+
+ātmā dhyeyaḥ sadā bhūpa yogayuktais tathā param 
+śreyas tasyaiva saṃyogaḥ śreyo yaḥ paramātmanaḥ ।।

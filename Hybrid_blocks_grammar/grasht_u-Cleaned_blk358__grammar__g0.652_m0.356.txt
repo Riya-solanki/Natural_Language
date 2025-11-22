@@ -1,0 +1,9 @@
+--- source: grasht_u-Cleaned.txt | block: 358 | label: grammar | g:0.652 m:0.356 ---
+
+vidhānāntaramāha piṣṭītyādi ।।
+bījavareṇaiva pūrvakanakabījenaiva sāritaṃ militaṃ sat piṣṭīstambhaṃ khoṭastambhaṃ kṛtvā tadanu tatpaścāt athaveti prakārāntaraṃ darśayati tu punaḥ baddharasena khoṭabaddharasena sahitaṃ surañjitaṃ śobhanavidhānena varṇavṛddhīkṛtaṃ bījaṃ svarṇabījaṃ saṃyutaṃ kuryāt yoga eva kārya iti dvividhānam uktam ।।
+anyaccāha gandhaketyādi ।।
+gandhakanihitaṃ gandhake nihitaṃ sthāpitaṃ sūtaṃ ūrdhvādho gandhakaṃ dattvā sūtaṃ madhyasthaṃ kuryādityarthaḥ ।।
+ca punarevaṃvidhaṃ sūtaṃ śṛṅkhalāyāṃ śṛṅkhalīkaraṇayoge nihitānihitaṃ yannihitaṃ tadanihitam ajāritaṃ kāryaṃ nihitānihitasaṃyogāt śṛṅkhaleyaṃ nūnaṃ niścitaṃ yojitanirvyūḍharase pūrvaṃ yojitaṃ paścānnirvāhitaṃ nirvyūḍhaṃ yatra tattasminnevaṃvidharase garbhadrutiḥ pāradasyodare bījāni dravanti ।।
+piṣṭīvidhinā jāraṇamāha sūtaketyādi ।।
+tu punaḥ rasendrake garbhe rasendrakṛto yo'sau garbhastasmin bījaṃ kṛtvā vidhinā piṣṭīrvidheyā sā piṣṭī mṛditā kāryā kasmāt abhiṣavayogāt saṃmardanayogāt kena saha sūtakabhasmavareṇa saha sūtakasya yadbhasmavaraṃ tena sā piṣṭī garbhe dravati caśabdājjarati ca ।।

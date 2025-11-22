@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10844 | label: hybrid | g:0.521 m:0.5 ---
+
+aṇḍaśca pūrṇo hyaṇḍaromāṇi kakṣāścakṣuśca śrotre sarva ete ca pūrṇāḥ ।
+kiṃ varṇaye mūlarūpaṃ hareśca yāvadvalaṃ pūrṇaṃ samagradehe ।।

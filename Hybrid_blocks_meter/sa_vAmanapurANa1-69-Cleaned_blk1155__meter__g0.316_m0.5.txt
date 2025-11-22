@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1155 | label: meter | g:0.316 m:0.5 ---
+
+svastho bhavān kiṃ tvasurendra sāmpratamāgaccha paśyāma ca tatra vindhyam ।
+tatrāsti devī sumahānubhāvā kanyā surūpā surasundarīṇām ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 682 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tasminn āśvināvaśeṣe labdha-viśeṣe yajña-yogya-veśe vrajād bahiḥ pradeśe sarva eva parvaṇā sāndrānanda-vrajā iva sa-prajāḥ vrajendrādayaḥ sambhrāntāśaya-prāyatayā carantaḥ surendra-yāga-yogam ācarantaḥ sthānādi-sañceṣkriyamāṇān ādiśantaḥ sva-sva-vasatiṃ vihāya vasatiṃ bahir vasanti sma ।

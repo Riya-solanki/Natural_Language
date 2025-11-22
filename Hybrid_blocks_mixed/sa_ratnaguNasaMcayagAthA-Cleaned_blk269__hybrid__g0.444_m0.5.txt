@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 269 | label: hybrid | g:0.444 m:0.5 ---
+
+yo bodhisattva adhimucyati bhāṣyamāṇām ima prajñapāramita māta tathāgatānām 
+pratipattiyā ca abhiyujyati āśayena sarvajñatāya abhiprasthitu veditavyo ।।

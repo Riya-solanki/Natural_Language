@@ -1,0 +1,4 @@
+--- source: brssgo2u-Cleaned.txt | block: 960 | label: hybrid | g:0.351 m:0.329 ---
+
+FN prakriyā prakaraṇam ।
+tāsāṃ tisṛṇāmekaikāṃ devatāṃ tejobannātmanā tryātmikāṃ kariṣyāmīti śrutiḥ pañcīkaraṇopalakṣaṇārthā ।

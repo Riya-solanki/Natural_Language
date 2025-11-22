@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4186 | label: meter | g:0.25 m:0.969 ---
+
+śramācca tasminpavanaḥ prāyo raktaṃ pradūṣayan ।
+savyathāśokavaivarṇyaṃ sarujaṃ kurute jvaram ।।
+grahāveśauṣadhiviṣakrodhabhīśokakāmajaḥ ।।
+abhiṣaṅgagraho apyasminnakasmādvāsarodane ।
+oṣadhīgandhaje mūrchā śirorugvamathuḥ kṣayaḥ ।।

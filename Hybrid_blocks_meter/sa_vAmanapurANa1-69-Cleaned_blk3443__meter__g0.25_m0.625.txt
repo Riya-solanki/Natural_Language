@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3443 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ viditvā daityendra na viṣādaṃ kathañcana ।
+kartumarhasi vidvāṃstvaṃ paṇḍito nāvasīdati ।।

@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 208 | label: meter | g:0.333 m:0.521 ---
+
+kiñcājñānamityasya jñānasya jñānābhāvo grāhyaḥ, na ca jñānābhāvasya jñānātmatā saṃbhavati, atyantaviparītatvāt ।
+tathā- tadevegadamiti jñāne pūrvāparakālāvasthāyitvaṃ prakāśate, naca kṣaṇikasya jñānasya sthāyitvamātmā saṃbhavati ।
+tathā- citrabuddhau nānākāraṇāmavabhāsaḥ ।
+nacaikasya jñānasya nānākāratā saṃbhavati ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2446 | label: meter | g:0.194 m:0.5 ---
+
+teṣāṃ gaṇas tu devānām ekaiko viṃśakaḥ smṛtaḥ 
+saptarṣīn api vakṣyāmi bhaviṣyān munisattama ।।

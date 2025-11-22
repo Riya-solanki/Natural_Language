@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 210 | label: grammar | g:0.604 m:0.5 ---
+
+yadi nātha guṇeṣv ātmābhimāno na bhavet tataḥ kena hīyeta jagatas tvadekātmatayā prathā ।।

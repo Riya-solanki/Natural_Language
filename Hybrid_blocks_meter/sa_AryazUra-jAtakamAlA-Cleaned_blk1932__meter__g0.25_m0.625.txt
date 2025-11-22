@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1932 | label: meter | g:0.25 m:0.625 ---
+
+tamarcituṃ bhaktivaśena kecana vyarāsayan dyāṃ suradundubhisvanaiḥ ।
+akālajaiḥ puṣpaphalaiḥ sapallavairvyabhūṣayaṃstatra tarūnathāpare ।।

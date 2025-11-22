@@ -1,0 +1,7 @@
+--- source: brssgo4u-Cleaned.txt | block: 193 | label: hybrid | g:0.33 m:0.312 ---
+
+pratiṣedhāditi cenna śārīrāt ।
+pūrvamanupoṣyeti padena dagdhāśeṣakleśasya nirguṇajñānina utkrāntyādyabhāvaḥ ।
+sūcitastasyātrākṣipya samādhānādvyavahitenāsya saṃgatirityāha-amṛtatvaṃ ceti ।
+sakāmasya saṃsāroktyanantaraṃ niṣkāmasya muktiprakaraṇārtho athaśabdaḥ ātmakāmatvāt pūrṇānandātmavittvādāptakāmaḥ prāptaparamānandaḥ, ato niṣkāmaḥ anabhivyaktāntaravāsanātmakakāmaśūnyaḥ, tasmādakāmaḥ vyaktabahiṣkāmarahitaḥ, īdṛśo yo akāmayamānastasyetyanvayaḥ ।
+jñānina utkrāntirasti na veti pañcamīṣaṣṭhīśrutibhyāṃ saṃdehe siddhāntiśaṅkānirāsapūrvakaṃ pūrvapakṣayati-netyādinā ।।

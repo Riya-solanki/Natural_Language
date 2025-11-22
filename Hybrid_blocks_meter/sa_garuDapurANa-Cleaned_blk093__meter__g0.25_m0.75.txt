@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 93 | label: meter | g:0.25 m:0.75 ---
+
+mahābalo vāhanastvaṃ bhaviṣyasi viṣārdanaḥ ।
+purāṇaṃ matprasādācca mama māhātmyavācakam ।।

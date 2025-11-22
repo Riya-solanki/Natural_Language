@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 138 | label: hybrid | g:0.321 m:0.465 ---
+
+atra so ahamiti vaktavye pūrvavad "ayam' iti vaicitryapratītiḥ ।
+ete ca mukhyatayā vakratāprakārāḥ katicinnadarśanārthaṃ pradarśitāḥ ।
+śiṣṭāśca sahastraśaḥ saṃbhavantīti mahākavipravāhe sahṛdayaiḥ svayamevotprekṣaṇīyāḥ ।
+evaṃ vākyāvayavānāṃ padānāṃ pratyekaṃ varṇādyavayavadvāreṇa yathāsaṃbhava vakrabhāvaṃ vyākhyāyedānīṃ padasamūhabhūtasya vākyasya vakratā vyākhyāyate

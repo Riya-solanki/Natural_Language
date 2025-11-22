@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1263 | label: grammar | g:0.562 m:0.5 ---
+
+unmocayaty eva balāc ca yo māṃ rājyābhidhānād vyasanapratānāt ।
+yady atra kuryāṃ manasaḥ prakopaṃ pāpo aparaḥ ko atha mayā samaḥ syāt ।।

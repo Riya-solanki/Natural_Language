@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 534 | label: grammar | g:0.559 m:0.365 ---
+
+yatra yasyāṃ kavayaḥ kāvyavaicitryavivakṣāparatantritāḥ svakarmavicitrabhāvābhidhitsāparavaśāḥ saṃkhyāviparyāsaṃ vacanaviparivartanaṃ kurvanti vidadhate tāṃ saṃkhyāvakratāṃ viduḥ tadvacanavakratvaṃ jānanti tadvidaḥ ।
+tadayamatrārthaḥyadekavacane dvivacane prayoktavye vaicitryārthaṃ vacanāntaraṃ yatra prayujyate, bhinnavacanayorvā yatra sāmānādhikaraṇyaṃ vidhīyate ।
+yathā

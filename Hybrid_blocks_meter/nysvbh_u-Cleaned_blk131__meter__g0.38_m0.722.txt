@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 131 | label: meter | g:0.38 m:0.722 ---
+
+dharmasya kāraṇavacanam।
+yadi dharmo nimittāntaram? tasya heturvācyo yata utpadyata iti।
+yogasamādhijasya kāryāvasāyavirodhātprakṣaye saṃvedanenivṛttiḥ।
+yadi yogasamādhijo dharmo hetuḥ? tasya kāryāvasāyavipodhātprakṣaye saṃvedanam amatyantaṃ nivarteta।।

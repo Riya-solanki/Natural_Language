@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 443 | label: meter | g:0.332 m:0.647 ---
+
+anena kumbhadvayasaṃniveśa- saṃlakṣyamāṇena kucadvayena ।
+unmajjatā yauvanavāraṇena vāpīva tanvaṅgi taraṅgitāsi ।।
+bhāgurasya

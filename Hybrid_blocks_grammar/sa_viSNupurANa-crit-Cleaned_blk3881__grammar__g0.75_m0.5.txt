@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3881 | label: grammar | g:0.75 m:0.5 ---
+
+ugrāyudhāt kṣemyaḥ kṣemyāt suvīras tasmād ripuṃjayas tasmāc ca bahuratha ity ete pauravāḥ । ajamīḍhasya nalinī nāma patnī tasyāṃ nīlasaṃjñaḥ putro abhavat । tasmād api śāntiḥ śānteḥ suśāntiḥ suśānteḥ purujānuḥ । tataś cakṣus tato haryaśvaḥ । haryaśvān mudgalasṛñjayabṛhadiṣupravīrakāmpilyāḥ । pañcānām eteṣāṃ viṣayāṇāṃ rakṣaṇāyālam ete matputrā iti pitrābhihitam । ataḥ pāñcālāḥ ।।

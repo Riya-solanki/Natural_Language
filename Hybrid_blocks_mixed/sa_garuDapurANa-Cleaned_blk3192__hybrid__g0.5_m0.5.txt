@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3192 | label: hybrid | g:0.5 m:0.5 ---
+
+arthenāpi hi kiṃ tena yasyānarthe tu saṃgatiḥ ।
+ko hi nāma śikhājātaṃ pannagasya maṇiṃ haret ।।

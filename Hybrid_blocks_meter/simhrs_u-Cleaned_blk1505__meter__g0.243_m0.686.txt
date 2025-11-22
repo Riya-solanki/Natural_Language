@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1505 | label: meter | g:0.243 m:0.686 ---
+
+praṇayi-sakhī-salīla-parihāsa-rasādhigatair
+lalita-śirīṣa-puṣpa-hananair api tāmyati yat ।
+vapuṣi vadhāya tatra tava śastram upakṣipataḥ
+patatu śirasy akāṇḍayam adaṇḍa ivaiṣa bhujaḥ ।।

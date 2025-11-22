@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 572 | label: meter | g:0.194 m:0.5 ---
+
+sāmprataṃ nyāsam ākhyāmi śṛṇu tattvena śobhane 
+svābhāvikaṃ calaṃ dīptaṃ sthiraṃ dravanabhoyutam ।।

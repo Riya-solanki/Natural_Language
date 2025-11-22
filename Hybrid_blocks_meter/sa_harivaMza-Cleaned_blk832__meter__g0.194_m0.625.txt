@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 832 | label: meter | g:0.194 m:0.625 ---
+
+patitaṃ somam ālokya brahmā lokapitāmahaḥ 
+ratham āropayām āsa lokānāṃ hitakāmyayā ।।

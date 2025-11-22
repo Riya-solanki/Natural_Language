@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 804 | label: grammar | g:0.75 m:0.5 ---
+
+atra yāsāṃ kavirucīnāṃ madhye sukumāravicitramadhyamātmakatrimārgā bhāratī camatkāraṃ vahati tāḥ gambhīrakāvyaparicitāḥ kathamitarakāvyavat prasannā bhavantu । yāsāmādityaprabhāṇāṃ madhye tripathagā vahati tā meghaparicitāḥ kathaṃ prasannā bhavantīti saṃkṣepārthaḥ ।।

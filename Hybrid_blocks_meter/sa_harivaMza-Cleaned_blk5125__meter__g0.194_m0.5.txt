@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5125 | label: meter | g:0.194 m:0.5 ---
+
+corāś corasya hartāro hantā hartur bhaviṣyati 
+corāś corakṣaye cāpi kṛte kṣemaṃ bhaviṣyati ।।

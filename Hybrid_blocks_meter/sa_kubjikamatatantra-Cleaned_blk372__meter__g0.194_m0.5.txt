@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 372 | label: meter | g:0.194 m:0.5 ---
+
+sāmprataṃ kulamārgas tu yathā bhavati tac chṛṇu 
+paraṃ binduḥ samākhyāto hṛtpadme suranāyike ।।

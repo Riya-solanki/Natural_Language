@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1608 | label: meter | g:0.306 m:0.5 ---
+
+sukumārī kumārī ca nalinī dhenukā ca yā ।
+ikṣuśca veṇukā caiva gabhastī saptamī tathā ।।

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 328 | label: grammar | g:0.75 m:0.5 ---
+
+sattvaṃ satyaguṇe śive bhagavati sphārībhavatv arcane cūḍāyāṃ vilasantu śaṅkarapadaprodyadrajaḥsaṅcayāḥ rāgādismṛtivāsanām api samucchettuṃ tamo jṛmbhatāṃ śambho me bhavatāt tvadātmavilaye traiguṇyavargo athavā ।।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 90 | label: meter | g:0.194 m:0.75 ---
+
+manye pūtam ivātmabhāvam adhunā śāstuḥ praṇāmodbhavaiḥ
+puṇyāmbhobhir akhaṇḍamaṇḍalaśaśijyotsnāvalīnirmalaiḥ ।
+ko vā taṃ praṇipatya sāndrakaruṇāprahlāditādhyāśayaṃ
+tīvrāpāyavatīṃ viṣādamakarāṃ tīrṇo na duḥkhāpagām ।।

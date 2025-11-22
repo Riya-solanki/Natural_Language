@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 27 | label: meter | g:0.211 m:0.613 ---
+
+aṅgirāḥ
+yasyāntaḥ sarvam evedam acyutasyākhyayātmanaḥ
+tam ārādhaya govindaṃ sthānam agryaṃ yadīcchasi ।।

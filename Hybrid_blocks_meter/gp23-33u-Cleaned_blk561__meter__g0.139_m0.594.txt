@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 561 | label: meter | g:0.139 m:0.594 ---
+
+grāmyāḥ paurā nṛpālāḥ sadasi nabhasi tu svarga-saṅgīta-vijñā
+devā devādi-nāthā vidhi-śiva-vidhijās te vayaṃ ca stuvānāḥ ।
+rakta-tyag-danti-danta-cchavir avikara-bhāgaṃsakau lūna-mallau
+drakṣyāmo bhrātarau vāṃ kavalita-balavat kaṃsakaṃ tvām apīha ।।
+[] tatra malla-sabhā-gatānām idaṃ kolāhala-kutūhalaṃ bhavitā-

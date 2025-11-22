@@ -1,0 +1,8 @@
+--- source: kunvjivu-Cleaned.txt | block: 251 | label: meter | g:0.25 m:0.768 ---
+
+vaicitryaṃ saukumāryaṃ ca yatra saṃkīrṇatāṃ gate ।
+bhrājete sahajāhāryaśobhātiśayaśālinī ।।
+mādhuryādiguṇagrāmo vṛttimāśritya madhyamām ।
+yatra kāmapi puṣṇāti bandhacchāyātiriktatām ।।
+mārgo asau madhyamo nāma nānārucimanoharaḥ ।
+spardhayā yatra vartante mārgadvitayasaṃpadaḥ ।।

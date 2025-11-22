@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 327 | label: hybrid | g:0.476 m:0.5 ---
+
+avacam avocam uvāca ca, vacmi hi vaktāsmi vakṣyāmi ।
+ucyāsam idaṃ vacyāṃ vacāni no ced avakṣyaṃ na ।। [anuṣṭubh]

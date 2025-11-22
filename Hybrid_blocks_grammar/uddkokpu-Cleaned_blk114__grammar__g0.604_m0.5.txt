@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 114 | label: grammar | g:0.604 m:0.5 ---
+
+sā kāntiśceddravati kanakaṃ tanmukhaṃ cet ka induḥ sā ced bimbādharamadhuratā tiktatāmeti mādhvī ।
+sā vā tasyā yadi tanulatā mālatī lohatulyā tau cedūrū kanakakadalīstambhayoḥ kvāpi ḍambhaḥ ।।

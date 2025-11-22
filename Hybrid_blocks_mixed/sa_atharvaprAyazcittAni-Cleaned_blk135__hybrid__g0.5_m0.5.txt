@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 135 | label: hybrid | g:0.5 m:0.5 ---
+
+athāhavanīya ājyāhutiṃ juhuyāt trātāram indram ity etayarcā ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 364 | label: meter | g:0.25 m:0.625 ---
+
+mālāgrathanam etad dhi jñātavyaṃ mantravādinā 
+pallavo mantrabodhe tu yogo jñeyas tu sarvadā ।।

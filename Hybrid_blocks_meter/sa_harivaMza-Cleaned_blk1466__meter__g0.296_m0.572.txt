@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1466 | label: meter | g:0.296 m:0.572 ---
+
+pravṛttadharmāḥ saṃvṛttā lokā muditamānasāḥ 
+sarve lokā mudānvitāḥ ।
+babhūvur adhikāś caiva ।
+prītyā paramayā yuktā devadevasya bhūpateḥ । 
+viṣṇor dattapratijñasya śrutvārinidhane giram ।। 
+nihanmi dānavāndṛptān yuṣmākaṃ vigrahaiḥ saha । giraṃ te dānavān ugrān menire nihatān yudhi । 
+tato bhayaṃ viṣṇumayaṃ śrutvā daiteyadānavāḥ 
+udyogaṃ vipulaṃ cakrur yuddhāya yudhi durjayāḥ ।।

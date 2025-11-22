@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4497 | label: meter | g:0.25 m:0.625 ---
+
+hṛdayaṃ manyate styānamudaraṃ stimitaṃ guru ।
+udgāro duṣṭamadhuraḥ sadanaṃ sapraharṣaṇam ।।

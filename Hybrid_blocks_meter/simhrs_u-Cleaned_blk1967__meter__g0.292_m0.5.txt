@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1967 | label: meter | g:0.292 m:0.5 ---
+
+yathā tatraiva prahasane rājā -aye viḍālākṣa asmadīye nagare viṣaye ca-

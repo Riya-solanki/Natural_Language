@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 898 | label: meter | g:0.25 m:0.772 ---
+
+tau sat ।।
+tau śatṛśānacau satsaṃjñau staḥ ।।

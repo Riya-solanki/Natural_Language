@@ -1,0 +1,6 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 45 | label: meter | g:0.457 m:0.63 ---
+
+yāvān eva hy ananyalabhyo arthaḥ śabdād gamyate, sa sarvaḥ śabdārthaḥ ।
+sarvatra cākhyāte dhātvarthaś ca tadanuraktā ca bhāvanā vijñāyate ।
+tasmād bhāvārthatvavyapadeśaḥ ।
+tadvyatiriktās tu dravyaguṇaśabdā vijñāyanta eveti na pṛṣṭāḥ ।

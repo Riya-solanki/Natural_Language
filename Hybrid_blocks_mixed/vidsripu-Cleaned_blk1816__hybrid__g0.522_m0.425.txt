@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1816 | label: hybrid | g:0.522 m:0.425 ---
+
+prayogavyutpattau pratipadaviśeṣārthakathane prasattau gāmbhīrye rasavati ca vākyārthaghaṭane ।
+agamyāyām anyair diśi pariṇateś cārthavacasor mataṃ ced asmākaṃ kavir amarasiṃho vijayate ।।
+śālikasya

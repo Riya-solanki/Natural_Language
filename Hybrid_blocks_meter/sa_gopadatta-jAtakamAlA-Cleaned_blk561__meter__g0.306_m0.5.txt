@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 561 | label: meter | g:0.306 m:0.5 ---
+
+papāta bhūmau kṛpaṇaḥ sa bālo daṇḍābhighātakṣatapṛṣṭhavaṃśaḥ ।
+prakāśayan karmaphalaṃ svam eva karmātiraudraṃ narakasya tasya ।।

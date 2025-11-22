@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3074 | label: meter | g:0.194 m:0.5 ---
+
+tvayi rājāsanasthe hi rājaśrīṃ vahati prabho 
+śriyaṃ tyakṣyanti rājānas tvatprabhāvān na saṃśayaḥ ।।

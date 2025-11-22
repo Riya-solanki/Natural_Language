@@ -1,0 +1,5 @@
+--- source: brssbh2u-Cleaned.txt | block: 555 | label: hybrid | g:0.405 m:0.413 ---
+
+yathā hi haricandanabinduḥ śarīraikadeśasaṃbaddho api sansakaladehavyapinamāhlādaṃ karotyevamātmāpi dehaikadeśebhyaḥ sakaladehavyāpinīmupalabdhiṃ kariṣyati ।
+tvaksaṃbandhanāccāsya sakalaśarīragatā vedanā na virudhyate ।
+tvagātmanorhi saṃbandhaḥ kṛtsnāyāṃ tvaci vartate tvakca kṛtsnaśarīravyāpinīti ।।

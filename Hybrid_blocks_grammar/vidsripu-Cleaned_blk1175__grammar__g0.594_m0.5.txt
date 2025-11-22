@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1175 | label: grammar | g:0.594 m:0.5 ---
+
+citraṃ tad eva mahad aśmasu tāpaneṣu yan nodgiranty analam indukarābhimṛṣṭāḥ ।
+sambhāvyate api kim idaṃ nu yathendukāntās te pāvanaṃ ca śiśiraṃ ca rasaṃ sṛjanti ।।

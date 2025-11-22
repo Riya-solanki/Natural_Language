@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 317 | label: grammar | g:0.75 m:0.5 ---
+
+yaś ca vyatiriktaprameyajāte pramātā śūnyādiḥ sa idam iti vedya eva vastutaḥ kālādyaiḥ pañcabhiś ca paratantrīkṛtaḥ । tatra kālād vartamānābhāsena tasya bhūtabahviṣyatsaṃbhavo, niyateḥ kāryakarmaphalaniyamo, rāgād bhogābhiṣvaṅgo, vidyākalābhyām, acidātmano asvatantrasyāpīṣajjñānakriye citsvātantryarūpe ।।

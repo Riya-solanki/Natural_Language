@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1259 | label: hybrid | g:0.5 m:0.5 ---
+
+bahunātra kim uktena sa eva jagataḥ patiḥ ।।

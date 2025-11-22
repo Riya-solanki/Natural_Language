@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5274 | label: meter | g:0.25 m:0.5 ---
+
+paramātmā tvam ātmā ca bhūtātmā cāvyayo bhavān 
+yadā tadā stutir nāsti kimarthā te pravartate ।।

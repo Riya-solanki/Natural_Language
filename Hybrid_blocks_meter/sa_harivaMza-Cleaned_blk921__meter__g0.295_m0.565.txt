@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 921 | label: meter | g:0.295 m:0.565 ---
+
+jarāyā bahavo doṣāḥ pānabhojanakāritāḥ 
+tasmāj jarāṃ na te rājan grahītum aham utsahe ।।

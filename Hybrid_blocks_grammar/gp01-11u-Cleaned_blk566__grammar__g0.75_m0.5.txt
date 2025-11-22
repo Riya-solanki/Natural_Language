@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 566 | label: grammar | g:0.75 m:0.5 ---
+
+[] punaś cedaṃ sagadgadaṃ jagāda, "ayi yaśode, tvam api haṭhottaratayā kaṭhorāsi, sutarāṃ tu sva-suta-sthita-cittādrohiṇī rohiṇī, yataḥ śayanatala evedṛśa-sukumāraṃ kumāraṃ nidhāya cintām avidhāya nātikṛta-niṣṭhaṃ tiṣṭhathaḥ, na tu hṛdaye । prāṇā api hṛdaya eva rakṣaṇīyāḥ, kim uta prāṇādhiko' yaṃ sutaḥ? tasmād dhig vo rākṣasīto' pi rūkṣa-mānasā mānuṣīḥ । ahaṃ tu sampad-adhiṣṭhātṛ-devī tvayā prasūtaṃ sutaṃ viśva-vilakṣaṇa-lakṣaṇaṃ śrutvā tat-kṣaṇam evāgatānena vasantena vāsantīm iva dṛṣṭiṃ hṛṣṭāṃ kṛtavaty asmi । mama ca stanau sarva-śreyastananau nityam amṛtaṃ kṣarataḥ, yena pītena so' yaṃ niḥsandeha-siddha-dehaḥ syāt । tasmād aham asya sarva-sukha-vidhātrī dhātrī ca bhaviṣyāmi" iti ।

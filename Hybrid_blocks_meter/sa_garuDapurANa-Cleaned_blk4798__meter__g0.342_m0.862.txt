@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4798 | label: meter | g:0.342 m:0.862 ---
+
+śrīgaruḍamahāpurāṇam- 
+dhanvantariruvāca ।
+krimayaśca dvidhā proktā bāhyabhyantarabhedataḥ ।
+bahirmalakaphāsṛgviṭjanmabhedāccaturvidhāḥ ।।

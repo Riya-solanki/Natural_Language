@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 993 | label: meter | g:0.25 m:0.5 ---
+
+eṣa kramaste gadito nabhādau svapane mune ।
+svapatsu tatra deveṣu prāvṛṭkālaḥ samāyayau ।।

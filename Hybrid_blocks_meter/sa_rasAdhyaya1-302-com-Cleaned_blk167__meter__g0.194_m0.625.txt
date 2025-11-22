@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 167 | label: meter | g:0.194 m:0.625 ---
+
+palāni tāmracūrṇasya khalve prakṣipya ṣoḍaśa 
+nimbukaṃ ca rasaṃ kṣiptvā lūnaṃ dvātriṃśadaṃśakam ।।

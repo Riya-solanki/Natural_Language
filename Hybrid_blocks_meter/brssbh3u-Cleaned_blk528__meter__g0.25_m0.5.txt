@@ -1,0 +1,5 @@
+--- source: brssbh3u-Cleaned.txt | block: 528 | label: meter | g:0.25 m:0.5 ---
+
+pūrvasminnadhikaraṇe satyamapi sutejaḥprabhṛtīnāṃ phalabhedaśrutau samastopāsanaṃ jyāya ityuktam ।
+ataḥ prāptā buddhiranyānyapi bhinnaśrutīnyupāsanāni samasyopāśiṣyanta iti ।
+apica naiva vedyābhede vidyābhedo vijñātuṃ śakyate ।

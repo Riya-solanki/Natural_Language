@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 94 | label: grammar | g:0.622 m:0.5 ---
+
+āste atraiva sarasy aho bata kiyān saṃtoṣapakṣagraho haṃsasyāsya manāṅ na dhāvati manaḥ śrīdhāmni padme kva cit 
+supto adyāpi na budhyate tad itarāṃs tāvat pratīkṣāmahe velām ity udaraṃpriyā madhulihaḥ soḍhuṃ kṣaṇaṃ na kṣamāḥ ।।

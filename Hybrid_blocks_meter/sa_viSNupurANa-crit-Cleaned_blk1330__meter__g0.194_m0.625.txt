@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1330 | label: meter | g:0.194 m:0.625 ---
+
+etad vijānatā sarvaṃ jagat sthāvarajaṅgamam 
+draṣṭavyam ātmavad viṣṇur yato ayaṃ viśvarūpadhṛk ।।

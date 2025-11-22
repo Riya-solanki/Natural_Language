@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1134 | label: grammar | g:0.625 m:0.5 ---
+
+pātaḥ pūṣṇo bhavati mahate naiva khedāya yasmāt kālenāstaṃ ka iha na gatā yānti yāsyanti cānye ।
+etāvat tu vyathayati yadālokabāhyais tamobhis tasminn eva prakṛtimahati vyomni labdho avakāśaḥ ।।

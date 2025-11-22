@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 395 | label: meter | g:0.25 m:0.5 ---
+
+prasūtiḥ prakṛter yā tu sā sṛṣṭiḥ prākṛtā smṛtā 
+dainaṃdinī tathā proktā yāntarapralayād anu ।।

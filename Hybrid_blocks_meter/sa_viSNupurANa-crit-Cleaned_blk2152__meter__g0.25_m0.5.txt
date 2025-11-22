@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2152 | label: meter | g:0.25 m:0.5 ---
+
+yad ahnā kurute pāpaṃ dṛṣṭvā taṃ niśi mucyate 
+yāvantyaś caiva tārās tāḥ śiśumārāśritā divi 
+tāvanty eva tu varṣāṇi jīvaty abhyadhikāni ca ।।

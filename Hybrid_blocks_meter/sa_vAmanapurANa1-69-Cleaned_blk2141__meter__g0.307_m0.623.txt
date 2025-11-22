@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2141 | label: meter | g:0.307 m:0.623 ---
+
+murastadvākyamākarṇya prāha gacchāmi keśavam ।
+kiṃ tu tvayā na tāvaddhi saṃyamyā dharma mānavāḥ ।।

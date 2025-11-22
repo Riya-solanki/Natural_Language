@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 570 | label: meter | g:0.306 m:0.625 ---
+
+iti sthite śaṅkāparihāraparaṃ sūtram- na karmāvibhāgāditi cennānāditvāt ।
+śaṅkottare atirohitārthena bhāṣyagranthena vyākhyāte ।।

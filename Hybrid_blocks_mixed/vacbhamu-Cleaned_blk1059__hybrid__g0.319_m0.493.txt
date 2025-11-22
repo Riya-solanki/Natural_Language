@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 1059 | label: hybrid | g:0.319 m:0.493 ---
+
+pūrvapakṣiṇo anuśayabījamāśaṅkya nirākaroti- pratyakṣopadeśāditi cennādhikārikamaṇḍalasthokteḥ ।
+yataḥ parameśvarādhīnamaiśvaryaṃ tasmāttato nyūnamaṇimādimātraṃ svārājyaṃ na tu jadatsraṣṭṛtvam ।
+uktānnyāyāt ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5171 | label: meter | g:0.25 m:0.5 ---
+
+na svādu so aśnāti naraḥ sukhaṃ svapiti vā rahaḥ 
+anvāste yaḥ priyāṃ bhāryāṃ pareṇa mṛditām iha ।। 
+punar naivopabhuñjanti śvāvalīḍhaṃ havir yathā । 
+evam uccaiḥ prabhāṣantaṃ kruddhaṃ pārikṣitaṃ nṛpam 
+gandharvarājaḥ provāca viśvāvasur idaṃ vācaḥ ।।

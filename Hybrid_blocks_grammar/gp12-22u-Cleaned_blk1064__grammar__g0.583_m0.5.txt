@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1064 | label: grammar | g:0.583 m:0.5 ---
+
+[] kṛṣṇa uvāca-vanadevatayā hṛtaṃ mayā tu prasahya tasyāḥ samāhṛtaṃ vāsaḥ samāsādyatām ।

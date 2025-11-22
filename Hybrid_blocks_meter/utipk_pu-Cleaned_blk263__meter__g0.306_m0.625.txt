@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 263 | label: meter | g:0.306 m:0.625 ---
+
+bahis tasyaiva tatkāryaṃ yad anta yad apekṣayā ।
+pramātrapekṣayā coktā dvayī bāhyāntarasthitiḥ ।।

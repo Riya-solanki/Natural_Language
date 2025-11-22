@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1814 | label: meter | g:0.25 m:0.625 ---
+
+asya devān dhakārasya mārgitavyasya daivataiḥ 
+śṛṇu vai yat tadā vṛttaṃ brahmaloke purātanam ।।

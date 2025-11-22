@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2194 | label: hybrid | g:0.5 m:0.5 ---
+
+nityaṃ kṣamāyāśca nanu kṣamāyāḥ kālaḥ parāyattayā durāpaḥ ।
+pareṇa tasminnupapādite ca tatraiva kopapraṇa kopapraṇakramaḥ kaḥ ।।

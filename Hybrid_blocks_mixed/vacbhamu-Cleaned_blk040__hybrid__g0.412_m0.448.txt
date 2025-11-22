@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 40 | label: hybrid | g:0.412 m:0.448 ---
+
+atra brūmaḥ- nistattvaṃ cennānubhavagocaraḥ, tatkimidānīṃ marīcayo api toyātmanā satattvāḥ yadanubhavagocarāḥ syuḥ ।
+na satattvāḥ, tadātmanā marīcīnāmasattvāt ।
+dvividhaṃ ca vastūnāṃ tattvam- sattvamasattvaṃ ca tatra pūrvaṃ svataḥ, paraṃ tu parataḥ ।
+yathāhuḥ-

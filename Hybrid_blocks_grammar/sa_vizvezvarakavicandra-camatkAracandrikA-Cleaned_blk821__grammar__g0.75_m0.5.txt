@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 821 | label: grammar | g:0.75 m:0.5 ---
+
+atra pārāvārā iva rudanti pārāvāravirāviṇya ityatra kartaryupamāna iti sāmānādhikaraṇyena kartavye ca pratyaye upameyārthapratyayā nāma padopamā । anayaiva bhaṅgayā kākakrośikuraṅgadhāvītyatrāpi draṣṭavyam ।

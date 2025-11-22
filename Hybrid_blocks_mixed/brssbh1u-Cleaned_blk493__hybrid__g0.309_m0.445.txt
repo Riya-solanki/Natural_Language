@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 493 | label: hybrid | g:0.309 m:0.445 ---
+
+itaraparāmarśādyā jīvāśaṅkā jātā sāsaṃbhavānnirākṛtā ।
+athedānīṃ mṛtasyevāmṛtasekātpunaḥ samutthānaṃ jīvāśaṅkāyāḥ kriyate uttarasmātprajāpatyādvākyāt ।
+tatrahi aya ātmāpahatapāpmā' ityapahatapāpmatvādiguṇakamātmānamanveṣṭavyaṃ vijijñāsitavyaṃ ca pratijñāya aya eṣo akṣiṇi puruṣo dṛśyata eṣa ātmā'

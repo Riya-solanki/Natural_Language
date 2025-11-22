@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 53 | label: grammar | g:0.604 m:0.5 ---
+
+munīnām apy avijñeyaṃ bhaktisambandhaceṣṭitāḥ āliṅganty api yaṃ tasmai kasmai cid bhavate namaḥ ।।

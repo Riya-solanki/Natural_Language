@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 260 | label: meter | g:0.306 m:0.5 ---
+
+na sasyāni na gorakṣyaṃ na kṛṣir na vaṇikpathaḥ 
+naiva satyānṛtaṃ tatra na lobho na ca matsaraḥ । 
+vaivasvate antare tasmin sāṃprate samupasthite । 
+vainyāt prabhṛti rājendra sarvasyaitasya saṃbhavaḥ ।।

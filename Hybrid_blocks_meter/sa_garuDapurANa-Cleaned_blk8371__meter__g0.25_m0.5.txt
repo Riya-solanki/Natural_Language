@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8371 | label: meter | g:0.25 m:0.5 ---
+
+utsṛṣṭo vṛṣabho yatra pibatyapo jalāśaye ।
+śṛṅgeṇālikhate vāpi bhūmiṃ nityaṃ praharṣitaḥ ।।

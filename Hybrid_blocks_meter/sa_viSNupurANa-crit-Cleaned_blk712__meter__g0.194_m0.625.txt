@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 712 | label: meter | g:0.194 m:0.625 ---
+
+bhagavān api sarvātmā tanmayatvena toṣitaḥ 
+gatvā dhruvam uvācedaṃ caturbhujavapur hariḥ ।।

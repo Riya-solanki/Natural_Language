@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 169 | label: meter | g:0.25 m:0.625 ---
+
+malayamahīdharapavanaḥ kalakaṇṭhakaladhvanir nikuñjalatāḥ ।
+utkalikā utkalikāś cetasi janayanti lokasya ।।

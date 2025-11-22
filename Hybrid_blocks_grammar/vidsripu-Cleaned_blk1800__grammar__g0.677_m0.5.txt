@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1800 | label: grammar | g:0.677 m:0.5 ---
+
+śabdās te na tathāvidhāḥ pathi dhiyāṃ lokasya ye nāsate nārthātmāpi sa ko api dhāvati girāṃ bhūpālamārge na yaḥ ।
+asty anyas tu sa saṃniveśaśiśiraḥ śabdārthayoḥ saṃgamo yenāmī svavaśena dagdhakavayo mathnanti cetāṃsi naḥ ।।

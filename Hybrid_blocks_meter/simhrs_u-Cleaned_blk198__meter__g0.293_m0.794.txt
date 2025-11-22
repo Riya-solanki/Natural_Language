@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 198 | label: meter | g:0.293 m:0.794 ---
+
+atha abhirūpatā-
+yadātmīya-guṇotkarṣair vastv anyan nikaṭa-sthitam ।
+sārūpyaṃ nayati prājñair ābhirūpyaṃ tad ucyate ।।

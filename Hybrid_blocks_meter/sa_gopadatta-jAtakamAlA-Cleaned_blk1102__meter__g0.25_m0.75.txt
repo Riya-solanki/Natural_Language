@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1102 | label: meter | g:0.25 m:0.75 ---
+
+antarātmānam icchanti yam avidyāndhabuddhayaḥ ।
+vijñānadhūrtakaḥ kvāsau gatas tīrthavimohakaḥ ।।

@@ -1,0 +1,5 @@
+--- source: mrgt3cau-Cleaned.txt | block: 156 | label: meter | g:0.25 m:0.732 ---
+
+samācānto japenmantraṃ vaiṣṇave samaye tataḥ ।
+vyatīte kṣetrapālāya svāhetyoṃkārapūrvakam
+baliṃ ca nairṛte dadyād gandhadhūpapuraḥsaram ।

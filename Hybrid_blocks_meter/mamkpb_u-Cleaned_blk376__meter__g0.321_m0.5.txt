@@ -1,0 +1,6 @@
+--- source: mamkpb_u-Cleaned.txt | block: 376 | label: meter | g:0.321 m:0.5 ---
+
+ekārthābidhāyakamapi sahārthabalāt yat ubhayasyāpyavagamakaṃ sā sahoktiḥ ।
+yathā saha diahaṇisāhiṃ dīharā sāsadaṇḍā saha maṇivalayehiṃ bāppadhārā galanti ।
+tuha suhaa vioe tīa uvviggirīe saha a taṇuladāe dubbalā jīvidāsā ।।
+śvāsadaṇḍādigataṃ dīrgatvādi śābdam divasaniśādigataṃ tu sahārthasāmarthyātpratipadyate ।।

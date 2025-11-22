@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3539 | label: meter | g:0.194 m:0.75 ---
+
+hemakakṣyair mahāghaṇṭair vāraṇair vāridopamaiḥ 
+mahāmātrottamārūḍhaiḥ kalpitai raṇakovidaiḥ ।।

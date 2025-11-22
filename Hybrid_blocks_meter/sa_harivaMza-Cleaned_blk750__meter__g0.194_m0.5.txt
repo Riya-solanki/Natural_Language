@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 750 | label: meter | g:0.194 m:0.5 ---
+
+svatantraś cakravākas tu spṛhayām āsa taṃ nṛpam 
+dṛṣṭvāyāntaṃ śriyopetaṃ bhaveyam aham īdṛśaḥ ।।

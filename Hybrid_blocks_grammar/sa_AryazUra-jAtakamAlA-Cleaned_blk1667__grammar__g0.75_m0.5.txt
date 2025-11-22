@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1667 | label: grammar | g:0.75 m:0.5 ---
+
+tasya tu vanaspaterekā śākhā tatsamīpagāṃ nimnagāmabhi praṇatābhavat । atha bodhisattvo dīrghadarśitvāttadvānarayūthaṃ samanuśaśāsa - asyāṃ nyogrodhaśākhāyāmaphalāyāmakṛtāyāṃ na vaḥ kena cidanyataḥ phalamupabhoktavyamiti ।

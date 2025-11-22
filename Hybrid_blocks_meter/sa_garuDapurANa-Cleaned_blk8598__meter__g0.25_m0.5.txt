@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8598 | label: meter | g:0.25 m:0.5 ---
+
+dharmarājasya yadrūpaṃ santaḥ sukṛtino janāḥ ।
+paśyanti ca durātmāno yamarūpaṃ subhīṣaṇam ।।

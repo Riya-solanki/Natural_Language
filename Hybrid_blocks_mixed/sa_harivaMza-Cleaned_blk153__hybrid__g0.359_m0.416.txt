@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 153 | label: hybrid | g:0.359 m:0.416 ---
+
+saṃhrādasya tu daityasya nivātakavacāḥ kule 
+samutpannāḥ sumahatā tapasā bhāvitātmanaḥ ।। 
+catasraḥ koṭayas tāś ca maṇimatyāṃ nivāsinaḥ । te apy avadhyās tu devānām arjunena vipātitāḥ । anekamāyākuśalā dhanurvedasya pāragāḥ । 
+ṣaṭ sutāḥ sumahāsattvās tāmrāyāḥ parikīrtitāḥ 
+kākī śyenī ca bhāsī ca sugrīvī śucigṛdhrike ।।

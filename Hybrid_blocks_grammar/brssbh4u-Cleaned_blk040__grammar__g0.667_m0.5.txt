@@ -1,0 +1,3 @@
+--- source: brssbh4u-Cleaned.txt | block: 40 | label: grammar | g:0.667 m:0.5 ---
+
+nanu śāstraprāmāṇyāt anāśaṅkanīyaḥ atra pratyavāya prasaṅgo na ca lokikena nyāyena śāstrīyā dṛṣṭiḥ niyantuṃ yukta iti ।

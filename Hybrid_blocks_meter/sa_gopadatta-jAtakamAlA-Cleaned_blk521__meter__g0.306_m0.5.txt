@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 521 | label: meter | g:0.306 m:0.5 ---
+
+svayaṃkṛtaḥ sarvasukhoparodhī mātsaryatulyo asti kalir na loke ।
+yatrābhirūḍhā vyasanaughamagnā bhavanti niśvāsaparā manuṣyāḥ ।।

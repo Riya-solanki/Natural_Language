@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 800 | label: meter | g:0.081 m:0.716 ---
+
+giridhara-vadanendo raśmi-pīyūṣa-dhārāṃ
+pibad iha paśu-jātaṃ sapta-rātrin-divāni ।
+kṣudham api sa-tṛṣaṃ tan nāyayau tarhi tasya
+praṇayi-jana-gaṇānāṃ kiṃ bruve na bruve kim? ।। [mālinī]

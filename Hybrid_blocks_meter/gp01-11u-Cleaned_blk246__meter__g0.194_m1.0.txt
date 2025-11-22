@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 246 | label: meter | g:0.194 m:1.0 ---
+
+atha tatabhāyāṃ parama-sabhāyāṃ
+pitṛ-mukha-lokān sphurad-avalokān ।

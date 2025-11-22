@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1580 | label: hybrid | g:0.444 m:0.5 ---
+
+kva dārāḥ kva ca saṃyogaḥ kva ca bhāvaviparyayaḥ 
+yad iyaṃ brahmaṇā sṛṣṭā manasā mānasī prajā ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4047 | label: meter | g:0.194 m:0.75 ---
+
+evaṃ saṃstūyamānas tu bhagavān parameśvaraḥ 
+ujjahārātmanaḥ keśau sitakṛṣṇau mahāmune ।।

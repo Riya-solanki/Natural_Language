@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 721 | label: meter | g:0.307 m:0.623 ---
+
+tasmānnivartaya rathaṃ varameva mṛtyurdaityādhipaprahitabhīmagadābhighātaiḥ ।
+dhigvādadagdhayaśaso na tu jīvitaṃ me sattvānyamūni bhayadīnamukhāni hatvā ।।

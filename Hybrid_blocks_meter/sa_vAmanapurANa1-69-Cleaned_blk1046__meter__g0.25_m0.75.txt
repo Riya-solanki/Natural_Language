@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1046 | label: meter | g:0.25 m:0.75 ---
+
+brahmaṇo madhyato dehāñjāto marakataprabhaḥ ।
+kha daraḥ kaṇṭakī śreyānabhavadviśvakarmaṇaḥ ।।

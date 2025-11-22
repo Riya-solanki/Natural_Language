@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 5 | label: hybrid | g:0.542 m:0.5 ---
+
+labdhatatsaṃpadāṃ bhaktimatāṃ tvatpuravāsinām saṃcāro lokamārge api syāt tayaiva vijṛmbhayā ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10276 | label: meter | g:0.296 m:0.908 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+yathā sasarja bhagavāṃstrīn guṇānprakṛtestadā ।
+lakṣmīstrirūpā saṃbhūtā śrīrbhūrdurgoti saṃjñitā ।।

@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 246 | label: meter | g:0.25 m:0.625 ---
+
+avikāro na kartā ca prayogo duṣkarastridhā ।
+yathābhavyaṃ phalaprāpteravandhyo abhimataśca saḥ ।।

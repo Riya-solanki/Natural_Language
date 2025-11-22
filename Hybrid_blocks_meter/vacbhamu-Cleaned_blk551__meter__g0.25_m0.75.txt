@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 551 | label: meter | g:0.25 m:0.75 ---
+
+asadvyapadeśānneti cenna dharmāntareṇa vākyaśeṣāt ।
+vyākṛtatvāvyākṛtatve ca dharmāvanirvacanīyau ।
+sūtrametannigadavyākhyātena bhāṣyeṇa vyākhyātam ।।

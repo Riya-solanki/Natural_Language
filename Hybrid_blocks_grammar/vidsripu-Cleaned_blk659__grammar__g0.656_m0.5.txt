@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 659 | label: grammar | g:0.656 m:0.5 ---
+
+haṃho kānta rahogatena bhavatā yat pūrvam āveditaṃ nirbhinnā tanur āvayor iti mayā taj jātam adya sphuṭam ।
+kāminyā smaravedanākuladṛśā yaḥ kelikāle kṛtaḥ so atyarthaṃ katham anyathā dahati mām eva tvadoṣṭhavraṇaḥ ।।

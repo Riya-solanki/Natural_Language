@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2536 | label: meter | g:0.25 m:0.5 ---
+
+tasyāstad vacanaṃ śrutvā sakapiḥ prāha bālikām ।
+dṛṣṭā devavatī nāmnā mayā nyastā mahāśrame ।।

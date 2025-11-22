@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 379 | label: meter | g:0.056 m:0.521 ---
+
+maunārhe pratibhāṣate sma vacanaucitye munitvaṃ dadhe
+śocyatve hasati sma hāsa-kathane rūkṣatvam evādade ।
+prastāve vraja-subhruvāṃ sakhi-janair nirmīyamāṇe harer
+yadyapy evam athāpi-varṇa-vikṛter vyatyastir ālakṣyate ।। [śārdūlavikrīḍitā]

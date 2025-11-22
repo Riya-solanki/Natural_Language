@@ -1,0 +1,19 @@
+--- source: brssbh4u-Cleaned.txt | block: 41 | label: grammar | g:0.577 m:0.431 ---
+
+atra ucyate - nirdhārite śāstrārtha etat evaṃ syāt ।
+saṃdigdhe tu tasmin nirṇayaṃ prati lokikaḥ api nyāya āśrīyanāṇo na virudhyate ।
+tena ca utkṛṣṭadṛṣṭi adhyāse śāstrārthe avadhāryamāṇe nikṛṣṭadṛṣṭim adhyasyan pratyaveyāt iti śliṣyate ।
+prāthamyāt ca ādityādi śabdānāṃ mukhyārthatvam avirodhāt gṛhītavyam ।
+taiḥ svārthavṛttibhiḥ avaruddhāyāṃ buddhau paścāt avatarato brahmaśabdasya mukhyayā vṛttyā sāmānādhikaraṇya asaṃbhavāt brahmadṛṣṭividhānārthata eva avatiṣṭhate ।
+itiparatvāt api brahmaśabdasya eṣa eva artho nyāyyaḥ ।
+tathā hi abrahmetyādeśaḥ' abrahmetyupāsīta' abrahametyupāste' iti ca sarvatra itiparaṃ brahmaśabdam uccārayati śuddhān tu ādityādi śabdān ।
+tata- ca yathā śuktikāṃ rajatam iti pratyeti ityatra śuktivacana eva śuktikā śabdo rajataśabdaḥ tu rajatapratīti lakṣaṇārthaḥ ।
+pratyetyeva hi kevalaṃ rajatam iti na tu tatra rajatam asti ।
+evam atra api ādityādīn brahma iti pratīyāt iti gamyate ।
+vākyaśeṣaḥ api ca dvitīyānirdeśena ādityādīneva upāstikriyayā vyāpyamānān darśayati - asa ya etamevaṃ vidvānādityaṃ brahmetyupāste', ayo vācaṃ brahmetyupāste', ayaḥ saṃkalpaḥ brahmetyupāste' iti ca ।
+yat tu uktaṃ brahma upāsanām eva atra ādaraṇīyaṃ phalatvāya iti ।
+tat ayuktam ।
+uktena nyāyena ādityādīnām eva upāsyatva avagamāt ।
+phalaṃ tu atithyādi upāsana iva ādityādi upāsane api brahma eva dāsyati sarva adhyakṣatvāt ।
+varṇitaṃ ca etat aphalamata upapatteḥ' iti atra ।
+īdṛśaṃ ca atra brahmaṇa upāsyatvaṃ yat pratīkeṣu tat dṛṣṭi adhyāropaṇaṃ pratimādiṣu iva viṣṇu ādīnām ।।

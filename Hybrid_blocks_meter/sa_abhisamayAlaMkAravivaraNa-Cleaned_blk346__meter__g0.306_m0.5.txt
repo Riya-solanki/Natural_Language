@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 346 | label: meter | g:0.306 m:0.5 ---
+
+hitaṃ sukhaṃ ca trāṇaṃ ca śaraṇaṃ layanaṃ nṛṇām ।
+parāyaṇaṃ ca dvīpaṃ ca pariṇāyakasaṃjñakam ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8658 | label: meter | g:0.341 m:0.723 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+muktiṃ yānti kathaṃ pretāstadahaṃ praṣṭumutsukaḥ ।
+yanmuktau ca manuṣyāṇāṃ na pīḍā jāyate punaḥ ।।

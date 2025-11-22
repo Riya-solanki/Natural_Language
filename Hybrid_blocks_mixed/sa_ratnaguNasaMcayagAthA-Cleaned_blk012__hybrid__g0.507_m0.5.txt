@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 12 | label: hybrid | g:0.507 m:0.5 ---
+
+atha śreṇikasya abhutī parivrājakasya jñānopalambhu na hi skandhavibhāvanā ca 
+yo bodhisattva parijānati eva dharmāṃ na ca nirvṛtiṃ spṛśati so viharāti prajñām ।।

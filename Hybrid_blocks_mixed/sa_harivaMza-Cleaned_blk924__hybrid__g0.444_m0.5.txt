@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 924 | label: hybrid | g:0.444 m:0.5 ---
+
+ka āśramas tavānyo asti ko vā dharmo vidhīyate 
+mām anādṛtya durbuddhe yad ahaṃ tava deśikaḥ ।।

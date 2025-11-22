@@ -1,0 +1,6 @@
+--- source: bhassv_u-Cleaned.txt | block: 291 | label: meter | g:0.07 m:0.557 ---
+
+{padminikā} - samuddagihake kiḷa sejjātthiṇṇā 
+gacchadāṇi tuvaṃ 
+ahaṃ vi bhaṭṭiṇo ṇivedaṇatthaṃ ayyavasantaaṃ aṇṇesāmi 
+[samudragṛhake kila śayyāstīrṇā । ahamapi bhartre nivedanārtham āryavasantakam anviṣyāmi । ]

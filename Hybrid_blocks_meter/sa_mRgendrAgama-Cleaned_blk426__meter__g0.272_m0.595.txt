@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 426 | label: meter | g:0.272 m:0.595 ---
+
+sarvajñatvādiyoge api niyojyatvaṃ malāṃśataḥ 
+pramārṣṭi tadyayā sāsya mocikā tatpadaṃ ca yat ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2112 | label: meter | g:0.306 m:0.5 ---
+
+tadyatra bhogīndrabhujābhiyuktaṃ papāta pittaṃ ditijādhipasya ।
+tasyākarasyātitarāṃ sa deśo duḥ khopalabhyaśca guṇaiśca yuktaḥ ।।

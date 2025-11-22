@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 43 | label: meter | g:0.194 m:0.625 ---
+
+yatpramāṇāni bhūtāni devādīnāṃ ca saṃbhavam 
+samudraparvatānāṃ ca saṃsthānaṃ ca yathā bhuvaḥ ।।

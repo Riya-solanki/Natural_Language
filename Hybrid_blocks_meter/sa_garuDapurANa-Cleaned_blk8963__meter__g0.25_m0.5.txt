@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8963 | label: meter | g:0.25 m:0.5 ---
+
+taṃ dṛṣṭvā vikṛtaṃ ghoraṃ vismito babhruvāhanaḥ ।
+preto api dṛṣṭvā tāṃ ghorāmaṭavīmāgataṃ nṛpam ।।

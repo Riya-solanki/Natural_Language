@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1938 | label: grammar | g:0.562 m:0.5 ---
+
+madhumallikā -ammo devadā vilambeṇa kuppissadi । tā ciraṃṭi-ātappaṇaṃ kāduṃ gacchemi ।

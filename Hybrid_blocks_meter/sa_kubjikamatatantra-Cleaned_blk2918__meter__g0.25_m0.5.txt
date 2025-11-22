@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2918 | label: meter | g:0.25 m:0.5 ---
+
+hṛdayaṃ tu saraḥ proktaṃ padmaṃ vai aṣṭapattrakam 
+udānena tu deveśi vikāśe tu ravis tu saḥ ।।

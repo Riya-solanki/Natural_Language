@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 440 | label: meter | g:0.306 m:0.5 ---
+
+uvāca dīnayā vācā prasādaṃ kuru bhāmini ।
+tataḥ sā yakṣiṇī tāṃ tu provāca kṛpayānvitā ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10855 | label: hybrid | g:0.521 m:0.5 ---
+
+te vai sadā sārabhoktāra eva jñeyāstvato viṣṇureko mahātmā ।
+sārāṃśabhoktā na tu sarvasya bhoktā bhunakti sarvaṃ tvaviruddhaśaktiḥ ।।

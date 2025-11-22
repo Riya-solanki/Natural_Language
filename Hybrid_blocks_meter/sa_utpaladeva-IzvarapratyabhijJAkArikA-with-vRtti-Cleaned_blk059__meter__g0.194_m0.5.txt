@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 59 | label: meter | g:0.194 m:0.5 ---
+
+yoginām api bhāsante na dṛśo darśanāntare 
+svasaṃvidekamānās tā bhānti meyapade api vā ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1807 | label: grammar | g:0.594 m:0.5 ---
+
+yad etad vāgarthavyatikaramayaṃ kiṃcid amṛtaṃ pramodaprasyandaiḥ sahṛdayamanāṃsi snapayati ।
+idaṃ kāvyaṃ tattvaṃ sphurati tu yad atrāṇu paramaṃ tad antarbuddhīnāṃ sphuṭam atha ca vācām aviṣayaḥ ।।

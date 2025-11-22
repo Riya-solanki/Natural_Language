@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1858 | label: hybrid | g:0.5 m:0.5 ---
+
+naṭī-tā daṃsedu ayyo । tado kiṃ bilaṃbeṇa ।

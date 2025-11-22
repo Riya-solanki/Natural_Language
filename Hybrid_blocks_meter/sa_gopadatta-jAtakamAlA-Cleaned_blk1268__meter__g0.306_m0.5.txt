@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1268 | label: meter | g:0.306 m:0.5 ---
+
+kalyāṇamitraṃ yata eva rājā mamādya naiṣkramyasukhodayāya ।
+kalyāṇam evāstv anayo apy ato asya sabandhumitrasya śaracchatāni ।।

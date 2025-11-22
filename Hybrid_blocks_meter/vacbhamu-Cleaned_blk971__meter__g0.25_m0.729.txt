@@ -1,0 +1,10 @@
+--- source: vacbhamu-Cleaned.txt | block: 971 | label: meter | g:0.25 m:0.729 ---
+
+sūtrāvayavaṃ yojayituṃ śaṅkate- nanviti ।
+pariharati- ata āha-pakṣeṇeti ।
+vidyāvāniti na vidyātiśayo vivakṣitaḥ ।
+api tu vidyodayāyābhyāse pravṛtto na punarutpannavidyātiśayaḥ ।
+tathācāsya pakṣe kadācidbhedadarśanātsaṃbhava ityarthaḥ ।
+vidhyādirvidhimukhyaḥ pradhānamiti yāvat ।
+ata eva samidādirvidhyantaḥ sa hi vidhiḥ pradhānavidheḥ paścāditi ।
+tatrāśrūyamāṇavidhitve apūrvatvādvidhirāstheya ityarthaḥ ।।

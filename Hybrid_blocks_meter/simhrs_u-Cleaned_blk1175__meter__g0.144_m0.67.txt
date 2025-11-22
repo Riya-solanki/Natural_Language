@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1175 | label: meter | g:0.144 m:0.67 ---
+
+yathā uttara-rāma-carite -
+iyaṃ gehe lakṣmīr iyam amṛta-vartir nayanayor
+asāv asyāḥ sparśo vapuṣi bahalaś candana-rasaḥ ।
+ayaṃ kaṇṭhe bāhuḥ śiśira-masṛṇo mauktika-saraḥ
+kim asyā na preyo yadi param asahyas tu virahaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2520 | label: hybrid | g:0.476 m:0.5 ---
+
+yaś ceha bhūyo dṛśyeta sthale vā yadi vā jale 
+tava bhṛtyas tanūjo vā kṣipraṃ vadhyaḥ sa me bhavet ।।

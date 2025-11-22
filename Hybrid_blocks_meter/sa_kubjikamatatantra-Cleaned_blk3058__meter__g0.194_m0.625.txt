@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 3058 | label: meter | g:0.194 m:0.625 ---
+
+tailaṃ vasā tathā snehaṃ kaṭutailaṃ tu tīkṣṇakam 
+turuṣkaṃ sihṇakaṃ proktaṃ kapālapuṭamadhyagam ।।

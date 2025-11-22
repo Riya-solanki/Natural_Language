@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 258 | label: meter | g:0.25 m:0.625 ---
+
+avatīrṇo jagadyoniḥ kaśyapasya gṛhe hariḥ ।
+vāmaneneha rūpeṇa paramātmā sanātanaḥ ।।

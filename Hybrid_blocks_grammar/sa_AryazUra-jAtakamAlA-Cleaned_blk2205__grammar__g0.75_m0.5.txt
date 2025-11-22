@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2205 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ sati kṣantavye kṣamā syānnāsatītyapakāriṇamapi sādhavo lābhamiva bahu manyante iti kṣāntikathāyāṃ vācyam । evaṃ tiryaggatānāṃ bodhisattvānāṃ pratisaṃkhyānasauṣṭhavaṃ dṛṣṭam । ko nāma manuṣyabhūtaḥ pravrajitapratijño vā tadvikalaḥ śobheta? ityevamapi vācyam । tathagatavarṇe satkṛtya dharmaśravaṇe ceti ।

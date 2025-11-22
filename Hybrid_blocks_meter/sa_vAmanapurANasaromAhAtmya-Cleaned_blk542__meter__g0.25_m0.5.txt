@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 542 | label: meter | g:0.25 m:0.5 ---
+
+caitra śuklacaturdaśyāṃ tīrthe snātvā hyalepake ।
+pūjayitvā śivaṃ tatra pāpalepo na vidyate ।।

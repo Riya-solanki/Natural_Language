@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5038 | label: meter | g:0.272 m:0.845 ---
+
+raktapittakarāstīkṣṇāstathā sauvīrajātayaḥ ।
+pācano dīpanaḥ pathyo maṇḍaḥ syādbhṛṣṭataṇḍulaḥ ।।

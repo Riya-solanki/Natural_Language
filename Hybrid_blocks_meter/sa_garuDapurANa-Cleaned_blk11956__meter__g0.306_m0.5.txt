@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11956 | label: meter | g:0.306 m:0.5 ---
+
+kṛṣṇasya candrasya yamasya cāṃśaiḥ sa saṃyutastvaśvinorvai harasya ।
+svāhādhamaścandraputro budhastu pādāravinde viṣṇudevasya bhaktaḥ ।।

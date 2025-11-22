@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2213 | label: meter | g:0.306 m:0.5 ---
+
+dayāmahattvātparipālyamāno vṛddhiṃ yathāsau guṇato jagāma ।
+sa sattvakāyo api tathaiva tena saṃrakṣyamāṇo guṇavṛddhimāpa ।।

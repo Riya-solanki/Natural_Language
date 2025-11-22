@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 346 | label: meter | g:0.25 m:0.5 ---
+
+yadyapi kṛṣṇas tāsāṃ kalanād antar-vikāramāsannaḥ ।
+tadapi ca samayāntarajāṃ cakāra gambhīratāṃ śaraṇam ।। [āryā]

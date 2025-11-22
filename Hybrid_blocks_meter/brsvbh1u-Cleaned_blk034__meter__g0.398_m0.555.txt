@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 34 | label: meter | g:0.398 m:0.555 ---
+
+parāmarśopasaṃhāraiḥ kriyāsamabhihāreṇedṛgātmatattvamabhidadhati tatparāṇi santi śakyāni śakreṇāpyupacaritārthāni kartum ।
+abhyāse hi bhūyastvamarthasya bhavati yathāho darśanīyāho darśanīyeti na nyūnatvaṃ, prāgevopacaritatvamiti ।
+ahamanubhavastu prādeśikamanekavidhaśokaduḥkhādiprapañcopaplutamātmānamādarśayan kathamātmatattvagocaraḥ kathaṃ vānupaplavaḥ

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1655 | label: grammar | g:0.562 m:0.5 ---
+
+tenedaṃ suramandiraṃ ghaṭayatā ṭaṅkāvalīnirdalat- pāṣāṇaprakaraḥ kṛto ayam akhilaḥ kṣīṇo girīṇāṃ gaṇaḥ ।
+arthibhyo vasu varṣatā punar asau saṃrūḍharatnāṅkura- śreṇismeraśiraḥsahasraśikharaḥ saṃvardhito rohaṇaḥ ।।

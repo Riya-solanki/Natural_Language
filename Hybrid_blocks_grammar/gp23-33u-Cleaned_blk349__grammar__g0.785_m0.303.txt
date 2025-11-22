@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 349 | label: grammar | g:0.785 m:0.303 ---
+
+acchinnaṃ samayaṃ vahāmi bhujayor antaḥ sakhi tvām iti pratyāśā yadi sidhyatīha tad api svāntaṃ na me tṛpyati । siddhau tatra tu vighna-jātam atulaṃ bandhvādi-sambhālanaṃ tasmād geha-gater avaśya-valane mā mlānir āsādyatām ।। [śārdūla]
+[] iti pūrvavad eva pratyekaṃ hastena vyatiṣajya sajyamāna-vihāratayā vraja-vartmānuvartate sma ।

@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 805 | label: meter | g:0.102 m:0.555 ---
+
+[] atha samāpanam idaṃ madhukaṇṭha-vacanam,
+adbhutaṃ bālyacaritaṃ tava sūnor vrajeśvara ।
+kva tṛṇāvarta-dalanaṃ kva mātur bhaya-bhāvanam? ।। [anuṣṭubh]

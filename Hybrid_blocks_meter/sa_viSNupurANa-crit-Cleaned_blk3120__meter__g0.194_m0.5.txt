@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3120 | label: meter | g:0.194 m:0.5 ---
+
+evaṃ śrāddhaṃ budhaḥ kuryāt paitraṃ mātāmahaṃ tathā 
+śrāddhair āpyāyitā dadyuḥ sarvakāmān pitāmahāḥ ।।

@@ -1,0 +1,4 @@
+--- source: jalmugpu-Cleaned.txt | block: 29 | label: grammar | g:0.583 m:0.5 ---
+
+gṛdhrī nirbharam āmiṣeṣu saraghā ghorā madhūnāṃ bhare tīkṣṇanakhakṣateṣu bhujagī daṃśaprakāreṣu ca ।
+uttāneṣu vivartaneṣu śaphari vittacchale mūṣikā veśyā kāmukavañcanāya bhuvane rūpair anekaiḥ sthitā ।।

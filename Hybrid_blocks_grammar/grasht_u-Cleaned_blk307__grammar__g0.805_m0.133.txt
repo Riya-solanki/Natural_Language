@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 307 | label: grammar | g:0.805 m:0.133 ---
+
+nāgavaṅgaśulvatīkṣṇānāṃ jāraṇavidhānamāha mṛtanāgamityādi ।।
+mṛtanāgamiti mṛtaṃ nirjīvatāṃ gataṃ yannāgaṃ sīsakaṃ tathānena vidhānena mṛtaṃ vaṅgaṃ tathā mṛtaṃ nirutthatāṃ gataṃ varaśulbaṃ tāmraṃ tathā ca mṛtaṃ tīkṣṇam arivargeṇeti śeṣaḥ eṣāṃ madhye ekaikaṃ nāgaṃ vā vaṅgaṃ vā śulbaṃ vā tīkṣṇaṃ vā pṛthaktvena hemavare pūrṇavarṇe svarṇe śatanirvyūḍhaṃ hemnaḥ śataguṇanirvāhitaṃ kuryāt tatsiddhaṃ garbhe rasodare dravati caśabdājjarati ca ।।

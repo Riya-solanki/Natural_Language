@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1851 | label: meter | g:0.306 m:0.5 ---
+
+buddhasya sarvato lekhyāḥ padmamadhye pratiṣṭhā ।
+vajraṃ ratnaṃ tathā padmaṃ viśvapadmaṃ tathaiva ca ।।

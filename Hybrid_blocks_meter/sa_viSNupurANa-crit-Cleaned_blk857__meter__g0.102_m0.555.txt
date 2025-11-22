@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 857 | label: meter | g:0.102 m:0.555 ---
+
+taṃ prajāḥ pṛthivīnātham upatasthuḥ kṣudhārditāḥ 
+oṣadhīṣu praṇaṣṭāsu tasmin kāle hy arājake 
+tam ūcus tena tāḥ pṛṣṭās tatrāgamanakāraṇam ।।

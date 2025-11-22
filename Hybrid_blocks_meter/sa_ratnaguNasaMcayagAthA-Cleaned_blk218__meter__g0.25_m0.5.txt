@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 218 | label: meter | g:0.25 m:0.5 ---
+
+pravivikta grāmanagare girikandarāṇi raṇyā vivikta vanaprastha niṣevamāṇo 
+ātmānukarṣi para paṃsayi bodhisattvo jñātavyu māru paryutthitu alpabuddhiḥ ।।

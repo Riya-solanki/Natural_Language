@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 330 | label: meter | g:0.25 m:0.5 ---
+
+oṃkāreṇa tu te guptā namaskāreṇa bhāmini 
+tena guptena guptās te śeṣā varṇās tu kevalāḥ ।।

@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 450 | label: hybrid | g:0.309 m:0.434 ---
+
+evāgneya ityatrāpi dravyadevatāsaṃbandhākṣipto yajireva kāryaviṣayo vidheyaḥ ।
+kimuktaṃ bhavati, āgneyo bhavatītiḥāgneyena yāgena bhāvayediti ।
+ata eva aya evaṃ vidvān paurṇamāsyāṃ yajate' aya evaṃ vidvānamāvāsyāṃ yajate'ityanuvādo bhavati ayadāgneyaḥ'ityādivihitasya yāgaṣaṭkasya ।

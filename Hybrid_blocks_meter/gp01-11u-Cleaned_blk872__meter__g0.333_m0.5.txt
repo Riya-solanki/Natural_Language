@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 872 | label: meter | g:0.333 m:0.5 ---
+
+[] atha sphuṭam asau vaṭītroṭanecchayā tat kṛṣṭavān । haṭhād ākṛṣṭe ca tasmin-

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 578 | label: meter | g:0.283 m:0.939 ---
+
+atha trāsaḥ-
+trāsas tu citta-cāñcalyaṃ vidyut-kravyāda-garjitaiḥ । 
+tathā bhūta-bhujaṅgādyair vijñeyās tatra vikriyāḥ ।।
+utkampa-gātra-saṅkoca-romāñca-stambha-gadgadāḥ । 
+muhur nimeṣa-vibhrānti-pārśvasthālambanādayaḥ ।।

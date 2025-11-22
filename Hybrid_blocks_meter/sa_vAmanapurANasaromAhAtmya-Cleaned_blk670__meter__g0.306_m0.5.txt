@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 670 | label: meter | g:0.306 m:0.5 ---
+
+tenāpi tatra nindārthamuktaṃ paśvanṛtaṃ tu yat ।
+tataḥ krodhena mahatā māṃsamutkṛtya tatra ha । ।

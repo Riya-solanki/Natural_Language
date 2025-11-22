@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1218 | label: meter | g:0.25 m:0.625 ---
+
+yadi nābhyuddhariṣyāmi yuṣmān asmād duruttarāt ।
+katham uttārayiṣyāmi lokaṃ saṃsārasāgarāt ।।

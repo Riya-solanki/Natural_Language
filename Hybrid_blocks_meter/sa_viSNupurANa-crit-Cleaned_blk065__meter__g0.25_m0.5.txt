@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 65 | label: meter | g:0.25 m:0.5 ---
+
+tataś ca bhagavān prāha vasiṣṭho me pitāmahaḥ 
+pulastyena yad uktaṃ te sarvam etad bhaviṣyati ।।

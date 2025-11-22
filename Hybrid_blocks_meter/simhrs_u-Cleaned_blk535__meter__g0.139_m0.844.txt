@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 535 | label: meter | g:0.139 m:0.844 ---
+
+aparādha-parijñānāt, yathā-
+hā tāteti kranditam ākarṇya viṣaṇṇas
+tasyānviṣyan vetasa-gūḍhaṃ prabhavaṃ saḥ ।
+śalya-protaṃ prekṣya sakumbhaṃ muni-putraṃ
+tāpād antaḥ-śalya ivāsīt kṣitipo' pi ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1784 | label: meter | g:0.315 m:0.865 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+samudroktaṃ pravakṣyāmi narastrīlakṣaṇaṃ śubham ।
+yena vijñātamātreṇa atītānāgatāpramā ।।

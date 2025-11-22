@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 814 | label: grammar | g:0.665 m:0.0 ---
+
+[] atha tad etad avadhārya sa deva-kula-nirdhāryaś camatkāram āsasāda, [] yatraivaṃ cintām āpa-aho, śakrāśana-vyasanatayā mama buddhir na sadā śuddhim avaruṇaddhi, yato mitrāmitratā vaiparītyaṃ parītya rīty-atikramam āpannavān asmi । tad etac ca, gotrabhid iti sva-nāma-sphurad-upaśruti-phalam iva mama pratibhāti । kiṃ ca,
+garviṇaḥ suṣṭhu me yuktāpy eṣābhibhava-bhāvanā ।
+ātta-garvo' bhibhūtaḥ syād iti paryāyatā yataḥ ।। [anuṣṭubh]

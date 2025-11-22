@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 257 | label: hybrid | g:0.5 m:0.5 ---
+
+tīrtham ekaṃ śrayen mantram anyatīrthāni varjayet iti ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3002 | label: meter | g:0.194 m:0.625 ---
+
+sarpāṇāṃ darśanaṃ tīvraṃ svapnānāṃ ca niśākṣaye 
+puryā vaidhavyaśaṃsīni kāraṇair anumīmahe ।।

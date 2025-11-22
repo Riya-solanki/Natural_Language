@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2990 | label: hybrid | g:0.465 m:0.5 ---
+
+sādhus tvam ebhir vākyaiś ca tvayā sādhv iti bhāṣitaiḥ 
+na vācā sādhitaṃ kāryam ātmā ca vivṛtaḥ kṛtaḥ ।।

@@ -1,0 +1,8 @@
+--- source: brssgo3u-Cleaned.txt | block: 778 | label: grammar | g:0.527 m:0.368 ---
+
+satyamevaṃ tathāpi tu gṛhasthaṃ pratyevāgnihotrādīnāṃ karmaṇāṃ vidhānācchrutiprasiddhameva hi tadastitvam ।
+tasmātstutyartha evāyaṃ paramarśo na codanārthaḥ ।
+apicāpavadati hi pratyakṣā śrutirāśramāntar avīrahā vā eṣa devānāṃ yo agnimudvāsayate', aācāryāya priyaṃ dhanamāhṛtya prajātantuṃ mā vyavacchetsīḥ' anāputrasya loko astīti tatsarve paśavo viduḥ' ityevamādyā ।
+tathā aye cemeraṇye śraddhā tapa ityupāsate' atapaḥśraddhe ye hyupāsantyaraṇye' iti ca devayānopadeśo nāśramāntaropadeśaḥ ।
+saṃdigdhaṃ cāśramāntarābhidhānam atapa eva dvitīyaḥ' ityevamādiṣu ।
+tathā etameva pravrājino lokamicchantaḥ pravrajanti' iti lokasaṃstavo ayaṃ na pārivrājyavidhiḥ ।

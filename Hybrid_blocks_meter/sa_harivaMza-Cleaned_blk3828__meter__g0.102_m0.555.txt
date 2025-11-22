@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3828 | label: meter | g:0.102 m:0.555 ---
+
+śirasā śāsanaṃ gṛhya nidhīnaḥ keśavasya saḥ 
+nidhīnājñāpayām āsa dvāravatyāṃ gṛhe gṛhe 
+ghanaughair abhivarṣadhvaṃ cakruḥ sarve tathā ca te ।।

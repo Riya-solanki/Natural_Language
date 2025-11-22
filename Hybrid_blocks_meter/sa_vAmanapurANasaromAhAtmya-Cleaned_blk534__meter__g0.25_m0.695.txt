@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 534 | label: meter | g:0.25 m:0.695 ---
+
+dhanyo ahaṃ sukṛtī nityaṃ yad dṛṣṭo puruṣottamau ।
+mamāśramamidaṃ puṇyaṃ yuvābhyāṃ vimalīkṛtam ।
+adyaprabhṛti trailokye anyajanmeti viśrutam ।।

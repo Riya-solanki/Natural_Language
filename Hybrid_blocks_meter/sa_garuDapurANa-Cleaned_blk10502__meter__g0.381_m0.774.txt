@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10502 | label: meter | g:0.381 m:0.774 ---
+
+evaṃ stutvā hariṃ devaṃ bhṛgustūṣṇīṃ babhūva ha ।
+tadanantarajo hyagnirastāvītpuruṣottamam ।।

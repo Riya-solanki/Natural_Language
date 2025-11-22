@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5155 | label: meter | g:0.194 m:0.625 ---
+
+anujagmus tataḥ sarve prayāntam ṛṣisattamam 
+loke pravadatāṃ śreṣṭhaṃ śiṣṭāḥ sarve tapodhanāḥ ।।

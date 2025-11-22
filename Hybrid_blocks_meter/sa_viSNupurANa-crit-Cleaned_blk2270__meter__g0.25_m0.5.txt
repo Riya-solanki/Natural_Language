@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2270 | label: meter | g:0.25 m:0.5 ---
+
+vṛkṣād dāru tataś ceyaṃ śibikā tvadadhiṣṭhitā 
+kva vṛkṣasaṃjñā yātā syād dārusaṃjñātha vā nṛpa ।।

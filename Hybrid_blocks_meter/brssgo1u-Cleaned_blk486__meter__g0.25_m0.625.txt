@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 486 | label: meter | g:0.25 m:0.625 ---
+
+atimātrasyāpi parameśvarasya prādeśamātratvamabhivyaktinimittaṃ syāt ।
+abhivyajyate kila prādeśamātraparimāṇaḥ parameśvara upāsakānāṃ kṛte ।
+pradeśeṣu vā hṛdayādiṣūpalabdhisthāneṣu viśeṣaṇābhivyajyate ।
+ataḥ parameśvare api prādeśamātraśrutirabhivyakterupapadyata ityāśmarathya ācāryo manyate ।।

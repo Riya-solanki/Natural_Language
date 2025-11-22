@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6542 | label: meter | g:0.25 m:0.5 ---
+
+devatā munayo nāgā gandharvā guhyakā hara ।
+dhārmikaṃ pūjayantīha na dhanāḍhyaṃ na kāminam ।।

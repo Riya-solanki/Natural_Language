@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10909 | label: meter | g:0.25 m:0.625 ---
+
+tatobhavadvyāsarūpī sa viṣṇuścaturvāraṃ rāghavāsyāpi pūrṇaḥ ।
+parāśarātsatyavatyāṃ babhūva pailādibhirvedabhāgāṃśca kartum ।।

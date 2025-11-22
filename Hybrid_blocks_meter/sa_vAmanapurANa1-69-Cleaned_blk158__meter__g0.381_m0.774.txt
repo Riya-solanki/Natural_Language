@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 158 | label: meter | g:0.381 m:0.774 ---
+
+gaṇaiḥ parivṛtastasmānmandarāddhimasāhvayam ।
+gataḥ kanakhalaṃ tasmād yatra dakṣo ayajat kratum ।।

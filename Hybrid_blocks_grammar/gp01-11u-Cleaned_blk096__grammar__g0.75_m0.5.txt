@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 96 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tasya lokasya loaka-pālair varaṇīyāni vimāna-cāriṇāṃ varāṇyāvaraṇāni sura-vartmani varīvṛtati । yatra ca vāsudevādi-saṃjñaṃ svayam eva caturvyūha-vṛndaṃ loka-pālāyamānaṃ senā-vyūhatām urarīcarīkarīti । tatra ca puruṣārthādayaḥ ke varākāḥ ?

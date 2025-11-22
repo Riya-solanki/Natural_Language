@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 58 | label: grammar | g:0.708 m:0.5 ---
+
+smṛtau smaryamāṇo anubhūtārtho yathā pṛthagbhūto bhāti na tathānubhavaḥ svātmana evāhaṃtāpratyeyasyānubhavamayatvena prathanāt, yaś cānekakālo ahaṃvedyo arthaḥ sa evātmā ।।

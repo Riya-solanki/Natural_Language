@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 317 | label: meter | g:0.17 m:0.606 ---
+
+{rājā} - kim atra jñeyam 
+paśya

@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 826 | label: grammar | g:0.639 m:0.38 ---
+
+anyaccāha ekonapañcāśadityādi ।।
+ekonapañcāśadbhāgāḥ tārasya rūpyasya kāryāḥ tathaiva śulvasya tāmrasya ekonapañcāśadbhāgāśca kāryāḥ punaḥ kanakasya hemnaśca eko bhāgaḥ kāryaḥ sūtasya ca ekena bhāgena vedha iti eṣo'pi śatāṃśavidhiḥ ।।

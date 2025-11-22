@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 618 | label: grammar | g:0.75 m:0.5 ---
+
+ity anusṛtya kṛta-rakṣāṇāṃ mat-prāṇāvali-lakṣāṇām iva vrajādhyakṣāṇāṃ yady arayas te ca rayād vighna-nighnatāṃ kariṣyanti । tadā sarvam eva kharvaṃ syāt । teṣām aṭavīṣu go-koṭi-lakṣa-rakṣakāṇāṃ rakṣā ca prakoṣṭha-ghaṭanayā durghaṭā ।

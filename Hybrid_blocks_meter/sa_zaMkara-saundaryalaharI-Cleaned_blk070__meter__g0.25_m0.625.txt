@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 70 | label: meter | g:0.25 m:0.625 ---
+
+gale rekhās tisro gatigamakagītaikanipuṇe vivāhavyānaddhatriguṇaguṇasaṃkhyāpratibhuvaḥ 
+virājante nānāvidhamadhurarāgākarabhuvāṃ trayāṇāṃ grāmāṇāṃ sthitiniyamasīmāna iva te ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 80 | label: meter | g:0.333 m:0.5 ---
+
+atha sa rājā śakrasaṃkīrtanānnunamasya brāhmaṇasya bhavitrī devatānubhāvādanena vidhinā cakṣuḥsaṃpaditi matvā pramodaviśadākṣaramenamuvāca -

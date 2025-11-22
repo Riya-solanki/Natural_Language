@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 231 | label: meter | g:0.306 m:0.5 ---
+
+kṛṣi bhūr-vācakaḥ śabdo ṇaś ca nirvṛti-vācakaḥ ।
+tayor aikyaṃ paraṃ brahma kṛṣṇa ity abhidhīyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7711 | label: meter | g:0.25 m:0.625 ---
+
+pākaikyamatha kālaikyaṃ kartraikyañca bhavetkhaga ।
+śrāddhādau saha dāhe ca patipatnyorna saṃśayaḥ ।।

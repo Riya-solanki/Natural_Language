@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 25 | label: meter | g:0.25 m:0.625 ---
+
+dhūmastomaiḥ savanajanitairdhūsaropāntavṛkṣāḥ prauḍhaślāghyairmukharitamaṭhāḥ pāvanairbrahmaghoṣaiḥ ।
+ruddhābhogā dvijavaravidhisnānapūtaistaṭākair draṣṭavyāste tadanu saritaṃ dakṣiṇenāgrahārāḥ ।।

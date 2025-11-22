@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2061 | label: meter | g:0.25 m:0.625 ---
+
+dṛṣṭvā me caritacchāyāvairūpyaṃ dharmadarpaṇe ।
+api nāmāgatāvegaṃ syanme dharmotsukaṃ manaḥ ।।

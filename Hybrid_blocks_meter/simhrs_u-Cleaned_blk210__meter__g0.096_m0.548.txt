@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 210 | label: meter | g:0.096 m:0.548 ---
+
+atha alaṅkṛtiḥ-
+caturdhālaṅkṛtir vāso-bhūṣā-mālyānulepanaiḥ ।। atra vastrālaṅkāro, yathā-

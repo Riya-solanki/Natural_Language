@@ -1,0 +1,9 @@
+--- source: brssgo1u-Cleaned.txt | block: 150 | label: hybrid | g:0.436 m:0.316 ---
+
+pratijñāvirodhābhyuccayapradarśanārthaḥ ।
+satyapi heyatvavacane pratijñāvirodhaḥ prasajyeta ।
+kāraṇavijñānāddhi sarvaṃ vijñātamiti pratijñātam ।
+auta tamādeśamaprākṣyo yenāśrutaṃ śrutaṃ bhavatyamataṃ matamavijñātaṃ vijñātamiti kathaṃ nu bhagavaḥ sa ādeśo bhavatīti yathā somyaikena mṛtpiṇḍena sarvaṃ mṛnmayaṃ vijñātaṃ syādvācārambhaṇaṃ vikāro nāmadheyaṃ mṛttiketyeva satyam' ।
+aevaṃ somya sa ādeśo bhavati' iti vākyopakrame śravaṇāt ।
+naca sacchabdavācye pradhāne bhogyavargakāraṇe heyatvenāheyatvena vā vijñāte bhoktṛvargo vijñāto bhavati, apradhānavikāratvādbhoktṛvargasya ।
+tasmānna pradhānaṃ sacchabdavācyam ।।

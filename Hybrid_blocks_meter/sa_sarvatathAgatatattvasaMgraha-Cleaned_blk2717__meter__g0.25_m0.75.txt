@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2717 | label: meter | g:0.25 m:0.75 ---
+
+kāmānāmavirāgastu samayaḥ sumahānayaṃ ।
+tathāgatakulaśuddho anātikramyo jinairapi ।।

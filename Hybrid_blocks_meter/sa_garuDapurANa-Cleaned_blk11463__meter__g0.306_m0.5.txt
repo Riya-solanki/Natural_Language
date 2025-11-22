@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11463 | label: meter | g:0.306 m:0.5 ---
+
+nādāddhīraḥ keśavādīni kanye svakaṃ puraṃ pravihāyaiva rājā ।
+evaṃ mayoktaṃ kanyake sarvametadetatparaṃ samyagārohaṇīyam ।।

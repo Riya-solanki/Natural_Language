@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1084 | label: meter | g:0.056 m:0.625 ---
+
+tīre gantuṃ lajjā sthātuṃ
+nīre ca śītam ity ubhayam ।
+samajani jāḍyaṃ yugapat tad
+imās tatraiva kiñcid abruvata ।। [anu]

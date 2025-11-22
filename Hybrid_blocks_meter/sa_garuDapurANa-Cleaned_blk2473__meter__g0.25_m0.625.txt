@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2473 | label: meter | g:0.25 m:0.625 ---
+
+vedaśrīrvedabāhuśca ūrdhvabāhustathaiva ca ।
+hiraṇyaromā parjanyaḥ satyanetraḥ svadhāma ca ।।

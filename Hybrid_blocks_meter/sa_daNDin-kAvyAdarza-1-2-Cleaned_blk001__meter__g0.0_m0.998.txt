@@ -1,0 +1,4 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 1 | label: meter | g:0.0 m:0.998 ---
+
+Daṇḍin Kāvyādarśa 
+ācāryadaṇḍinaḥ kāvyādarśaḥ

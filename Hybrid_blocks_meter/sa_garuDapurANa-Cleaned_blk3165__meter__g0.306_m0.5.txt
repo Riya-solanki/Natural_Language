@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3165 | label: meter | g:0.306 m:0.5 ---
+
+na svapnena jayennidrāṃ na kāmena striyaṃ jayet ।
+na cendhanairjayedvahniṃ na madyena tṛṣāṃ jayet ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 428 | label: meter | g:0.115 m:0.9 ---
+
+{janasthāne bhrāntaṃ kanakamṛgatṛṣṇāndhitadhiyā
+vaco vaidehīti pratipadamudaśru pralapitam ।
+kṛtālaṅkābharturvadanaparipāṭīṣughaṭanā
+mayāptaṃ rāmatvaṃ kuśalavasutā na tvadhigatā ।।}

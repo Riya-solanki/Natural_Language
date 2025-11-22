@@ -1,0 +1,5 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 241 | label: meter | g:0.278 m:0.518 ---
+
+sthānakathanārthamāha 
+pādāḥ pādasyaikasyānekasya cādimadhyāntabhāgāḥ sthānāni ।।
+pādaḥ, ekasya ca pādasyādimadhyāntabhāgāḥ, anekasya ca pādasya ta eva sthānāni । pādayamakaṃ yathā

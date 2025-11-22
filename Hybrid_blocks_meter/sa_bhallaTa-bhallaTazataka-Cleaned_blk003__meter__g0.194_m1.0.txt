@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 3 | label: meter | g:0.194 m:1.0 ---
+
+tāṃ bhavānīṃ bhavānītakleśanāśaviśāradām 
+śāradāṃ śāradāmbhodasitasiṃhāsanāṃ namaḥ ।।

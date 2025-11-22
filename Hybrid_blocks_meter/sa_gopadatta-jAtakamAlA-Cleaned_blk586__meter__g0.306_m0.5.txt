@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 586 | label: meter | g:0.306 m:0.5 ---
+
+kleśāndhakāravadanā vikarāladaṃṣṭrā dāvāgnidagdhaśikharā iva śailapādāḥ ।
+āyāsino yad anavāptajalā bhramanti pretāḥ phalaṃ tad api lobhaviṣadrumāṇām ।।

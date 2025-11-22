@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2954 | label: hybrid | g:0.361 m:0.5 ---
+
+śvetena śirasā vṛddho naiva varṣaśatī bhavet 
+yasya buddhiḥ pariṇatā sa vai vṛddhatamo nṛṇām ।। 
+na tena vṛddho bhavati yenāsya palitaṃ śiraḥ । 
+tvaṃ tu karkaśaśīlaś ca buddhyā ca na bahuśrutaḥ 
+kevalaṃ vayasā vṛddho yathā śaradi toyadaḥ ।।

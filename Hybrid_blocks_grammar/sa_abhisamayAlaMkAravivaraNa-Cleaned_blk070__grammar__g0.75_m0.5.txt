@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 70 | label: grammar | g:0.75 m:0.5 ---
+
+śravaṇaniyamaḥ mārge apraviṣṭo api śuddhādhyāśayikaḥ śuddhakarmikaḥ pudgalo māhāyānīyāvavādaṃ śrotuṃ bhavyo bhavati । yaśca mārgapraviṣṭo bodhisattvaḥ sa kalpānāmanekāni buddhebhyo bodhisattvebhyaḥ kalyāṇamitrebhyaḥ avavādaṃ śṛṇoti ।

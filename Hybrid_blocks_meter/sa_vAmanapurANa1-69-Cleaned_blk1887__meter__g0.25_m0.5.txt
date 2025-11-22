@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1887 | label: meter | g:0.25 m:0.5 ---
+
+suprabhaṃ ca sukarmāṇaṃ dadau dhātā gaṇeśvarau ।
+suvrataṃ satyasandhaṃ ca mitraḥ pradāda dvijottama ।।

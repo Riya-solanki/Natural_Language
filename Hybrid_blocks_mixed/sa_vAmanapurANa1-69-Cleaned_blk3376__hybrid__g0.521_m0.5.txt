@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3376 | label: hybrid | g:0.521 m:0.5 ---
+
+namo asu te bhāskara divyamūrte trailokyalakṣmītilakāya te namaḥ ।
+tvaṃ kāraṇaṃ sarvacarācarasya nātho asi māṃ pālaya viśvamūrte ।।

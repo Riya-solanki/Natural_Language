@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 165 | label: grammar | g:0.708 m:0.5 ---
+
+atha khalvakṣobhyastathāgato bhagavato vairocanasya tathāgatasya sarvatathāgatajñānāni niṣpādya, sarvatathāgatajñānamudraṇārthaṃ vajrāpāramitāsamayobhdavavajrādhiṣṭhānaṃ nāma samādhiṃ samāpadyemāṃ sarvatathāgatavajrasamayāṃ nāma sarvatathāgatamudrāṃ svahṛdayānniścacāra sattvavajri ।।

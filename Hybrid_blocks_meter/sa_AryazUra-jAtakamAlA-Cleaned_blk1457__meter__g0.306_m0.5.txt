@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1457 | label: meter | g:0.306 m:0.5 ---
+
+iyaṃ vibhūtiśca nayasya yatra tatrānayaḥ kidṛśavibhramaḥ syāt ।
+aho pragalbhaiḥ paribhūya lokamunnīyate śāstrapathairadharmaḥ ।।

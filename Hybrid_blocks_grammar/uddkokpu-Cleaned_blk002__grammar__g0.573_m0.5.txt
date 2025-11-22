@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 2 | label: grammar | g:0.573 m:0.5 ---
+
+saudhe tuṅge saha dayitayā ko api saṅkrīḍamānaḥ prāpa svāpaṃ paramapuruṣaḥ śeṣabhoge śriyeva ।
+citrā daivī gatiriyamasau śailajāmaṇḍitāyāṃ kāñcyāṃ kampātaṭabhuvi tayānanvito budhyate sma ।।

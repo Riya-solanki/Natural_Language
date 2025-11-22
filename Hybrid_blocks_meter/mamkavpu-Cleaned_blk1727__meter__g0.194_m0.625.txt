@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1727 | label: meter | g:0.194 m:0.625 ---
+
+{atithiṃ nāma kākutsthāt putramāpa kumudvatī ।
+paścimād yāminīyāmāt prasādamiva cetanā ।।}

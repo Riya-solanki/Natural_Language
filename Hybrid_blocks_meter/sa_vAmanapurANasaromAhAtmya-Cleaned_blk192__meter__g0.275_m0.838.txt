@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 192 | label: meter | g:0.275 m:0.838 ---
+
+lomaharṣama uvāca
+pautrasyaitad vacaḥ śrutvā prahlādo daityasattamaḥ ।
+sakrodhaśca baliṃ prāha vaikuṇṭhākṣepavādinam ।।

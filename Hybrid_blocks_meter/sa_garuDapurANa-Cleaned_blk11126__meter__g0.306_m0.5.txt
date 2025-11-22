@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11126 | label: meter | g:0.306 m:0.5 ---
+
+satpātrabhūte viṣṇubuddhyā kadāpi tyajanti naite māyayā vai murāreḥ ।
+eṣāmāyurvyarthamāhurmahāntaḥ kathaṃ naṣṭā iti samyagruroda ।।

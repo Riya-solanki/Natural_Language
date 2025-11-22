@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11285 | label: meter | g:0.25 m:0.5 ---
+
+sarvottamo harirekaḥ sadaiva yataḥ pūrṇaḥ sarvaguṇaistataśca ।
+sṛṣṭau yasmājjayate viśvajātamato hariḥ sarvaguṇaiśca pūrṇaḥ ।।

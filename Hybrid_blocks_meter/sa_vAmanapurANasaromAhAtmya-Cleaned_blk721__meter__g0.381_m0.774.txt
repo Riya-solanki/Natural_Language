@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 721 | label: meter | g:0.381 m:0.774 ---
+
+keśāvapannamādhūtaṃ mārutaśvāsadvaṣitam ।
+ebhiḥ saṃsṛṣṭamannaṃ ca bhāgaṃ vai rakṣasāṃ bhavet ।।

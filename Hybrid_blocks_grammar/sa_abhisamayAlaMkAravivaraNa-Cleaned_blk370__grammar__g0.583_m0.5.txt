@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 370 | label: grammar | g:0.583 m:0.5 ---
+
+lakṣaṇam animittālambanajñānākāreṇa dānādyārabhya sarvākārajñatāparyantaṃ svasantāne samudāgame kauśalalakṣaṇo dharmābhisamaya evātra mokṣabhāgīyamiti lakṣaṇam ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 348 | label: meter | g:0.25 m:0.75 ---
+
+atrāpi te munijanapratirūpe subhāṣite ।
+pratiprābhṛtavatprītyā prayacchāmyaparaṃ varam ।।

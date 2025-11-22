@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3695 | label: meter | g:0.328 m:0.595 ---
+
+na sā rūpi na cārūpi na satyaṃ na mṛṣāśuci ।
+buddhabodhiridaṃ jñānamavabudhya jino bhaved ।।

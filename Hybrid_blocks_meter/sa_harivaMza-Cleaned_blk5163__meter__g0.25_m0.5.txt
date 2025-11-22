@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5163 | label: meter | g:0.25 m:0.5 ---
+
+tasmin vikāre janite viditvā tattvataś ca tat 
+asaṃjñapto ayam aśvas te dhvaṃsety adhvaryum abravīt ।।

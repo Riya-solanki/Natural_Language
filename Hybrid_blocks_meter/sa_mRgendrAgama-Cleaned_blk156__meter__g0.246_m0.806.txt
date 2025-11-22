@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 156 | label: meter | g:0.246 m:0.806 ---
+
+tantvādikārakādānaṃ paṭāsattve paṭārthinaḥ 
+sattve kārakaśabdo api vyapaitīti hataṃ jagat ।।

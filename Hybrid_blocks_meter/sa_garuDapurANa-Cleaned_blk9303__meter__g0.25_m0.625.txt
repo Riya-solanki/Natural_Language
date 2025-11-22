@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9303 | label: meter | g:0.25 m:0.625 ---
+
+kaṇṭakāśca sutīkṣṇā vai vividhā ghoradarśanāḥ ।
+taistuvālukṣitirvyāptā hutāśaśca tatholbaṇaḥ ।।

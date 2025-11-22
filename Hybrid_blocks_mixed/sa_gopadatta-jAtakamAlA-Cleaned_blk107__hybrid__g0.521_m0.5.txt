@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 107 | label: hybrid | g:0.521 m:0.5 ---
+
+nānāvipattigahaneṣv anayaprapāteṣv andhān ivāśu pithite pathi saṃnipātya ।
+āryān api pratibhayena pathā harantaḥ prakhyāpayanty aśucayo viṣayāḥ svaśaktim ।।

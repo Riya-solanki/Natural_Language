@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1318 | label: grammar | g:0.575 m:0.141 ---
+
+itarābhyo api dṛśyante ।।
+pañcamīsaptamītaravibhaktyantādapi tasilādayo dṛśyante । dṛśigrahaṇādbhavadādiyoga eva । sa bhavān । tatra bhavān । tato bhavantam । evaṃ dīrghāyuḥ, devānāmpriyaḥ, āyuṣmān ।।

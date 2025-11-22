@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 983 | label: meter | g:0.056 m:0.521 ---
+
+yadāyāsīt kṛṣṇaḥ kila varuṇa-lokaṃ pitṛ-kṛte
+tadā śrī-rādhāyāḥ śvasitam amunā sārdham agamat ।
+yadāyāsīt tasmād ayam atha tadā tatra sahasā
+samāgād ity eṣā param iha kavīnāṃ sukavitā ।। [śikhariṇī]

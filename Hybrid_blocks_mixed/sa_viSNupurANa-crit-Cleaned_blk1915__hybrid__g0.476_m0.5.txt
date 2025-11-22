@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1915 | label: hybrid | g:0.476 m:0.5 ---
+
+sa ca viṣṇuḥ paraṃ brahma yataḥ sarvam idaṃ jagat 
+jagac ca yo yatra cedaṃ yasmiṃś ca layam eṣyati ।।

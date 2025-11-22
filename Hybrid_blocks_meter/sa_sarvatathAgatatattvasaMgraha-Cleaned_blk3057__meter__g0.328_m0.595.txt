@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3057 | label: meter | g:0.328 m:0.595 ---
+
+samayastvamiti proktvā rāgayetsarvayoṣitaḥ ।
+ma virāgaya satvārthaṃ dhruvaṃ buddhāṃ sa rāgayed ।।

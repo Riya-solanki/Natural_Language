@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 939 | label: grammar | g:0.75 m:0.5 ---
+
+atha vajrapāṇirmahābodhisatvastānanyān nārāyaṇādān sarvatrilokādhipatīnevamāha । "praviśadhvaṃ mārṣā asminsarvatathāgatavajrasamayamahāmaṇḍale; praviṣṭvā sarvatathāgatasamayamanupālayata!" । ta evamāhuḥ । "yathā jñāpayasi tathā kurma" iti ।।

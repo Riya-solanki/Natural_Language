@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11668 | label: meter | g:0.25 m:0.555 ---
+
+candreṇa sahitaṃ devi dadhivāmanamucyate ।
+etādṛśaṃ kalau nṝṇāṃ durlabhaṃ bahubhāgyadam ।
+lakṣmīnārāyaṇasamāṃ tāṃ mūrtiṃ viddhi bhāmini ।।

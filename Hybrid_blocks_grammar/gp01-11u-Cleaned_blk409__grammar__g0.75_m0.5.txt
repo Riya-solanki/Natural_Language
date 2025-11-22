@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 409 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ śrāvitābhihite tirohite ca paramahite bhagavati labdha-jāgarāv upalabdhāmṛta-sāgarāv iva ca mithas tad eva saṅkathayantau prathayantau ca parama-camatkāra-nivahaṃ vahataḥ sma ।

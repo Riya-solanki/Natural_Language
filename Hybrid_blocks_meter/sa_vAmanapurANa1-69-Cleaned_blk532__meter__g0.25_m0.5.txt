@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 532 | label: meter | g:0.25 m:0.5 ---
+
+virojanasya ca gajaḥ kujambhasya turaṅgamaḥ ।
+jambhasya tu ratho dviyo hayaiḥ kāñjanasannibhaiḥ ।।

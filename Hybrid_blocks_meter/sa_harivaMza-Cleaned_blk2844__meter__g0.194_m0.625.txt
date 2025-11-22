@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2844 | label: meter | g:0.194 m:0.625 ---
+
+amānuṣāṇi karmāṇi tava paśyāma gopate 
+dhāraṇenāsya śailasya vidmas tvāṃ kṛṣṇam avyayam ।।

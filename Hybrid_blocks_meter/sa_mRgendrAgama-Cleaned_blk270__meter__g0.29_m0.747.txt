@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 270 | label: meter | g:0.29 m:0.747 ---
+
+sūcyāsyatālakhaḍgākhya kṣuradhārāmbarīṣakāḥ 
+taptāṅgārā mahādāhāḥ saṃtāpāśceti ye mune ।।

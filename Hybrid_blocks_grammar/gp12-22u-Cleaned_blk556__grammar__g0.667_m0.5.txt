@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 556 | label: grammar | g:0.667 m:0.5 ---
+
+[] tad evaṃ tābhis tasyātidurlabhasya spṛhātiśaya-vāhitayā nātihitāyāṃ śarady ativāhitāyāṃ mārgaśīrṣas tu tāsāṃ patiṃ-manya-gṛha-gamanāya mārga-śīrṣatām avāpa ।

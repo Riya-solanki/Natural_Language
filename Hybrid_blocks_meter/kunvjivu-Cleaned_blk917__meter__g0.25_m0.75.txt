@@ -1,0 +1,3 @@
+--- source: kunvjivu-Cleaned.txt | block: 917 | label: meter | g:0.25 m:0.75 ---
+
+tadevamabhidhāvaicitryaprakārāṇāmevaṃvidhaṃ vaiśvarūpyaṃ na pūnarlakṣaṇabhedānām ।

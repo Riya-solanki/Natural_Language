@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 114 | label: meter | g:0.333 m:0.5 ---
+
+mārgaśīrṣe sahā mārga āgrahāyaṇikaśca saḥ pauṣe taiṣasahasyau dvau tapā māghe atha phālgune

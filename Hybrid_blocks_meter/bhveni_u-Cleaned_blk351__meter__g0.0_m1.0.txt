@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 351 | label: meter | g:0.0 m:1.0 ---
+
+sarve sātaṅkaṃ paśyanti

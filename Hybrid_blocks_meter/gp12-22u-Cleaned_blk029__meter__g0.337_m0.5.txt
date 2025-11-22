@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 29 | label: meter | g:0.337 m:0.5 ---
+
+[] sarva ūcuḥ-bhavat-putraḥ kutracid yatra snehaṃ vyañjayati, tatra sarvatra caivaṃ dṛśyate ।
+[] vraja-rāja uvāca-tarhi kim agarhitam arhitaṃ syāt?

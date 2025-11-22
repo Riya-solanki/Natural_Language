@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1580 | label: meter | g:0.25 m:0.5 ---
+
+bhavadvidheṣveva manuṣyavarya yuktaḥ kramo ayaṃ guṇavatsaleṣu ।
+abhyāsayogena hi sajjanasya svabhāvatāmeva guṇā vrajanti ।।

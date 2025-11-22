@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5000 | label: meter | g:0.25 m:0.5 ---
+
+vāsavaḥ sātvatān sarvān eṣa vo yadunandanaḥ 
+yojayitvā raṇe caiva yaśasā pauruṣeṇa ca ।। 
+ramayaty atitejasvī divīva ca divaukasaḥ । 
+mahādevasya miṣato guhasya ca tathaiva ca 
+eṣa bāṇaṃ raṇe jitvā dvārakāṃ punar āgatāḥ ।।

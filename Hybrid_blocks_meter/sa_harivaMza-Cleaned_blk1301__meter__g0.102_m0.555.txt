@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1301 | label: meter | g:0.102 m:0.555 ---
+
+mantraṃ yajñavahaṃ vahniṃ bhāgaṃ bhāgavahaṃ ca yat 
+agrebhujaṃ somabhujaṃ hutārciṣam udāyudham 
+āhur vedavido viprā yaṃ yajñaṃ śāśvataṃ vibhum ।।

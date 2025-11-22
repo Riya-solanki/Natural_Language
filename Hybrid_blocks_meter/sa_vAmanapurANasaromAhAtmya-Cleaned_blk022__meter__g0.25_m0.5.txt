@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 22 | label: meter | g:0.25 m:0.5 ---
+
+rājyaṃ kṛtaṃ ca teneṣṭaṃ trailokye sacarācare ।
+kṛtayatneṣu deveṣu trailokye daityatāṃ gate ।।

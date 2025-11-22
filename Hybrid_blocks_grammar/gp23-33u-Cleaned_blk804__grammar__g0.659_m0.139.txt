@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 804 | label: grammar | g:0.659 m:0.139 ---
+
+[] sā vakṣyati-bhavatāṃ hṛdi sadā vidyotamānaḥ so' yaṃ tad api vetti, tasmān nitāntaṃ nānyathā kariṣyati । kiṃ bahunā, bhavad-āśravam anu sarveṣām eva saṃśravaḥ pratibhāti । kim uta tasya ?
+[] tau vakṣyataḥ-tarhi garga-niṣedha-vedhasya kā cikitsā ?

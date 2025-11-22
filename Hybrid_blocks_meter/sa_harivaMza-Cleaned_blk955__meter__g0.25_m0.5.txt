@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 955 | label: meter | g:0.25 m:0.5 ---
+
+dṛṣadvatyās tu saṃjajñe śibir auśīnaro nṛpa 
+śibes tu śibayas tāta yaudheyās tu nṛgasya ha ।।

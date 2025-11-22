@@ -1,0 +1,5 @@
+--- source: mrgt3cau-Cleaned.txt | block: 178 | label: meter | g:0.25 m:1.0 ---
+
+bhūrisragbalidhūpādyair iṣṭaliṅgasthaśaṃkaraḥ ।
+nyaseddigīśvarāndikṣu śakrādīn śaṅkuvigrahān
+nāḍībhūtena sūtreṇa sandhāya bahirālikhet ।

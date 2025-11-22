@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1113 | label: meter | g:0.194 m:0.5 ---
+
+svāhiputro abhavad rājā ruṣadgur vadatāṃ varaḥ 
+mahākratubhir īje yo vividhair āptadakṣiṇaiḥ ।।

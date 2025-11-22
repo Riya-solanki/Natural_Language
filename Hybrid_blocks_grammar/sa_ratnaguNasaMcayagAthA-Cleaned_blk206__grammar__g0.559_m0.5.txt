@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 206 | label: grammar | g:0.559 m:0.5 ---
+
+abhyantare ya nagare nigame ca grāme kāmārtha vāṇiju yathā gami jānanāya 
+no cāpi tatra sthihatī na ca ratnadvīpe na ca geha mārgi kuśalo puna bhoti vijño ।।

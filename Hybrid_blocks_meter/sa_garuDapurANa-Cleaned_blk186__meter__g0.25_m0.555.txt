@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 186 | label: meter | g:0.25 m:0.555 ---
+
+kumāraścaiva bhṛṅgīśaḥ kruddho rudraḥ pratāpavān ।
+vidhvaṃsya yajñaṃ dakṣaṃ tu taṃ śaśāpa pinākadhṛk ।
+dhruvasyānvayasambhūto manuṣyastvaṃ bhaviṣyasi ।।

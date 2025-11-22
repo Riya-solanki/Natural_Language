@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 766 | label: meter | g:0.25 m:0.625 ---
+
+tataste kalpayāmāsustīrthaṃ yajñopavītikam ।
+śeṣāstu munayastatra na praveśaṃ hi lebhire ।।

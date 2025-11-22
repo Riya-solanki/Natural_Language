@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2314 | label: meter | g:0.102 m:0.555 ---
+
+dāmnā caivodare baddhvā pratyabandhad udūkhale 
+yadi śaknoṣi gaccheti tam uktvā karma sākarot 
+vyagrāyām tu yaśodāyām nirjagāma tato aṅgaṇāt ।।

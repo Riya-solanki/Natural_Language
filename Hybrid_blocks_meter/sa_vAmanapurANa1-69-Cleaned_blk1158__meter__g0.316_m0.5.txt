@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1158 | label: meter | g:0.316 m:0.5 ---
+
+pīnāḥ saśastrāḥ piraghopamāśca bhujāstathāṣṭādaśa bhānti tasyāḥ ।
+parākramaṃ vai bhavato viditvā kāmena yantrā iva te kṛtāstu ।।

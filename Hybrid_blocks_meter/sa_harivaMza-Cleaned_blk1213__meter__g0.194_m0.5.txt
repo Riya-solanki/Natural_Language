@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1213 | label: meter | g:0.194 m:0.5 ---
+
+pāṇḍavāṇāṃ tu dagdhānāṃ hariḥ kṛtvodakaṃ tadā 
+kulyārthe ca sa bhrātṝṇāṃ nyayojayata sātyakim ।।

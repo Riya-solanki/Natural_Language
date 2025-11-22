@@ -1,0 +1,3 @@
+--- source: kamasufu-Cleaned.txt | block: 146 | label: meter | g:0.333 m:0.5 ---
+
+iti śrī vātsyāyanīye kāmasūtre vaiśike ṣaṣṭhe adhikaraṇe sahāya-gamyāgamya-cintā gamana-kāraṇaṃ gamyopāvartanaṃ prathamo adhyāyaḥ

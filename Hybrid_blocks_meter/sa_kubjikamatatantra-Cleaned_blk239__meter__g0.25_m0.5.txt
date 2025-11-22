@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 239 | label: meter | g:0.25 m:0.5 ---
+
+yāvad aṣṭau tathā pañca trīṇy abdāni subhāvitaḥ 
+tāvan na kārayed dīkṣāṃ niṣiddhas tu kulānvaye ।।

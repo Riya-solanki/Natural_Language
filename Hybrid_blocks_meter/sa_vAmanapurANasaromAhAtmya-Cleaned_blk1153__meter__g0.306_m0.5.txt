@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1153 | label: meter | g:0.306 m:0.5 ---
+
+yā mūrtayaśca sūkṣmāste na śakyā yā nidarśitum ।
+tābhirmāṃ satataṃ rakṣa pitā putramivaurasam ।।

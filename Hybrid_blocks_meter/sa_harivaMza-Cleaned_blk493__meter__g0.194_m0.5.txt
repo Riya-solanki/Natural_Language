@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 493 | label: meter | g:0.194 m:0.5 ---
+
+vasiṣṭhas tv atha tān dṛṣṭvā samayena mahādyutiḥ 
+sagaraṃ vārayām āsa teṣāṃ dattvābhayaṃ tadā ।।

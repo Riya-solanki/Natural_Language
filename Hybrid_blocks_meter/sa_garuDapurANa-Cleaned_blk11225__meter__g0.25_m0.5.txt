@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11225 | label: meter | g:0.25 m:0.5 ---
+
+haryarpaṇādrihitaṃ nāma kasmātpradakṣiṇaṃ namanaṃ cāhurarghyam ।
+ato viṣṇornamanaṃ kāryameva harernāmasmaraṇaṃ tāta kāryam ।।

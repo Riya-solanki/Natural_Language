@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10364 | label: meter | g:0.272 m:0.845 ---
+
+śeṣādanantarāstāsāṃ daśavarṣādanaṃram ।
+utpattiriti vijñeyaṃ krameṇa tu khageśvara ।।

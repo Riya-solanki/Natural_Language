@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 524 | label: hybrid | g:0.542 m:0.5 ---
+
+prātardohaṃ ced apahareyuḥ sāyaṃdohaṃ dvaidhaṃ kṛtvānyatarat prātardohasthāne kṛtvobhābhyāṃ yajeta ।

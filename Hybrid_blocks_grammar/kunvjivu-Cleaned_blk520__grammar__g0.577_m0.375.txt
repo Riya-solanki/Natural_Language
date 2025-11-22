@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 520 | label: grammar | g:0.577 m:0.375 ---
+
+atra vallabhāvirahavaidhuryakātarāntaḥ karaṇena bhāvinaḥ samayasya saṃbhāvanānumānamahātmyamutprekṣya uddīpanavibhāvatvavibhavavilasitaṃ tatparispandasaundaryasandarśanāsahiṣṇunā kimapi bhayavisaṃṣṭhulatvamanubhūya śaṅkākulatvena kenacidetadabhidhīyateyadacirād bhaviṣyanti panthāno manorathānāmapyalaṅaghanīyā iti bhaviṣyatkālābhidhāyī pratyayaḥ kāmapi parārdhavakratāṃ vikāsayati ।
+yathā vā

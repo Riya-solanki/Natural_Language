@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 860 | label: grammar | g:0.594 m:0.5 ---
+
+dhvastaṃ kena vilepanaṃ kucayuge kenāñjanaṃ netrayor rāgaḥ kena tavādhare pramathitaḥ keśeṣu kena srajaḥ ।
+tenāśeṣajanaughakalmaṣamuṣā nīlābjabhāsā sakhi kiṃ kṛṣṇena na yāmunena payasā kṛṣṇānurāgas tava ।।

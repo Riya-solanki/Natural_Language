@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 111 | label: grammar | g:0.656 m:0.5 ---
+
+sā dūre haricandanasya na paraṃ hāreṇa kiṃ hāritā no kāntākucamaṇḍalasya sulabhā candre daridre kutaḥ ।
+gīte saṃgatir eva nāsti samatā tasyāṃ na siddhāmadhor nairāśye sahasaiva cetasi kṛte yā prītir ujjṛmbhate ।।

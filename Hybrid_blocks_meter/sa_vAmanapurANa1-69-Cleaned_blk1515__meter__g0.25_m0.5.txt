@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1515 | label: meter | g:0.25 m:0.5 ---
+
+devairgaṇaiścāpi vṛto girīśaḥ sa śobhate muktajaṭāgrabhāraḥ ।
+yatā vane sarjjakadambamadhye prarohamūlo atha vanaspatirvai ।।

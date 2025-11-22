@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2742 | label: meter | g:0.25 m:0.555 ---
+
+vṛṇudhvaṃ varamānantyaṃ dāsye vo manasepsitam ।
+ūcuste dehi bhagavan varamasmākamīśvara ।
+bhinnadṛṣṭyudbhavaṃ pāpaṃ yattad bhraṃśaṃ prayātu naḥ ।।

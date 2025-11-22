@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1432 | label: grammar | g:0.646 m:0.5 ---
+
+bhayaṃ yad dhanurīśvarasya śiśinā yaj jāmadagnyo hatas tyaktā yena guror girā vasumatī baddho yad ambhonidhiḥ ।
+ekaikaṃ daśakandharakṣayakṛto rāmasya kiṃ varṇyate daivaṃ varṇaya yena so api sahasā nītaḥ kathāśeṣatām ।।

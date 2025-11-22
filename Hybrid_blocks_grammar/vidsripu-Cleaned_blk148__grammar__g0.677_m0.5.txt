@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 148 | label: grammar | g:0.677 m:0.5 ---
+
+seyaṃ dyaus tad idaṃ śaśāṅkadinakṛccihnaṃ nabhaḥ sā kṣitis tat pātālatalaṃ ta eva girayas te ambhodhayas tā diśaḥ ।
+itthaṃ nābhivinirgatena saśiraḥkampādbhutaṃ vedhasā yasyāntaś ca bahiś ca dṛṣṭam akhilaṃ trailokyam avyāt sa vaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 632 | label: grammar | g:0.656 m:0.5 ---
+
+dākṣiṇyād abhimānato rasavaśād viśrāmahetor mama prāgalbhyād yad anuṣṭhitaṃ mṛgadṛśā śakyaṃ na tad yoṣitām ।
+nirvyūḍhaṃ na yadā tayā tad akhilaṃ khinnais tarattārakaiḥ savrīḍaiś ca vilokitair mayi punar nyastaḥ samasto vyayaḥ ।।

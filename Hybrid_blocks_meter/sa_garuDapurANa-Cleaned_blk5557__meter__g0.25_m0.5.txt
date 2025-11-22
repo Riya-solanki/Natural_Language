@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5557 | label: meter | g:0.25 m:0.5 ---
+
+viḍaṅgaṃ madhukaṃ pāṭhāṃ māṃsīṃ sarjarasaṃ tathā ।
+rahidrāṃ triphalāñcaiva mapāmārgaṃ manaḥ śilām ।।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1089 | label: meter | g:0.205 m:0.84 ---
+
+rāgāndhānāṃ vitathaviṣayābhyāsajihmāśayānāṃ
+yad bālānāṃ nayanaviṣayaṃ prāpya dhairyaṃ bibheda ।
+tasminn adya vyapagatabhayāś cārubimbe nitambe
+nāryā gṛdhrā nakhamukhapadanyāsapaṅktiṃ likhanti ।।

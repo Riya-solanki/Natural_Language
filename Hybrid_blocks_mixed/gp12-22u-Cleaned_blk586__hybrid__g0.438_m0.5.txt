@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 586 | label: hybrid | g:0.438 m:0.5 ---
+
+[] evaṃ sāyam-prātikāvalokana-valataḥ katham api nidāghe' pi kṣapite mayūrān madayitnūnāṃ gadayitnūnāṃ ca stanayitnūnāṃ samāgamaḥ saṃvṛttaḥ । yathā-

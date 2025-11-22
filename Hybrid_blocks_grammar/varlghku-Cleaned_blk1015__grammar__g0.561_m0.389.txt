@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1015 | label: grammar | g:0.561 m:0.389 ---
+
+taddhiteṣvacāmādeḥ ।।
+ñiti ṇiti ca taddhiteṣvacāmāderaco vṛddhiḥ syāt । paurvaśālaḥ । pañca gāvo dhanaṃ yasyeti tripade bahuvrīhau । ।।

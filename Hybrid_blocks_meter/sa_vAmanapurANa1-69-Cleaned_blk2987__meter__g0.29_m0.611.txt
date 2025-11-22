@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2987 | label: meter | g:0.29 m:0.611 ---
+
+viṣṇuruvāca ।
+kiṃ tiṣṭhadhvaṃ suraśreṣṭhā hatenānena vai jayaḥ ।
+tasamānmadvacanaṃ śīghraṃ kriyatāṃ vai jayepsavaḥ ।।

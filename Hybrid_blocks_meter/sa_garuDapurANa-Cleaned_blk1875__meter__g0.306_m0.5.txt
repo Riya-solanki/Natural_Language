@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1875 | label: meter | g:0.306 m:0.5 ---
+
+rājñyāḥ snigdhau samau pādau talau tāmrau nakhau tathā ।
+śliṣṭāṅgulī connatāgrau tāṃ pāpya nṛpatirbhavet ।।

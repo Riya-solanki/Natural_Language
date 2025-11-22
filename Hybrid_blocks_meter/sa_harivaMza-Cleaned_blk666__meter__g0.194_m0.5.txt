@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 666 | label: meter | g:0.194 m:0.5 ---
+
+na hy alpavīryāya śuko bhagavāṃl lokapūjitaḥ 
+kanyāṃ pradadyād yogātmā kṛtvīṃ kīrtimatīṃ prabhuḥ ।।

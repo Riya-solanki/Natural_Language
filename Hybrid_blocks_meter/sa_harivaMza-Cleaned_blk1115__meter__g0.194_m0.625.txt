@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1115 | label: meter | g:0.194 m:0.625 ---
+
+āsīc caitrarathir vīro yajvā vipuladakṣiṇaḥ 
+śaśabinduḥ paraṃ vṛttaṃ rājarṣīṇām anuṣṭhitaḥ ।।

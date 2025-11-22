@@ -1,0 +1,10 @@
+--- source: brssgo2u-Cleaned.txt | block: 901 | label: meter | g:0.29 m:0.611 ---
+
+tuśabdaḥ prāṇasya jīvavatsvātantryaṃ vyavartayati ।
+yathā cakṣurādīni rājaprakṛtivajjīvasya kartṛtvaṃ bhoktṛtvaṃ ca pratyupakaraṇāni na svatantrāṇi ।
+tathā mukhyo api prāṇo rājamantrivajjīvasya sarvārthakaratvenopakaraṇabhūto na svatantraḥ ।
+kutaḥ ।
+tatsahaśiṣṭyādibhyaḥ ।
+taiścakṣurādibhiḥ sahaiva prāṇaḥ śiṣyate prāṇasaṃvādādiṣu ।
+samānadharmāṇāṃ ca saha śāsanaṃ yuktaṃ bṛhadrathantarādivat ।
+ādiśabdena saṃhatatvācetanatvādīnprāṇasya svātantryanirākaraṇahetūndarśati ।।

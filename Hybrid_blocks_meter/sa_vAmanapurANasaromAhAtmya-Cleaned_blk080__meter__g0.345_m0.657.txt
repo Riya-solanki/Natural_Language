@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 80 | label: meter | g:0.345 m:0.657 ---
+
+brahmovāca
+yadarthamiha saṃprāpta bhavantaḥ sarva eva hi ।
+cintayāmyahamapyagre tadarthaṃ ca mahābalā ।।

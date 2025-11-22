@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6229 | label: meter | g:0.25 m:0.5 ---
+
+tad brahma tat paraṃ dhāma tad dhyeyaṃ mokṣakāṅksiṇām 
+śrutivākyoditaṃ sūkṣmaṃ tad viṣṇoḥ paramaṃ padam ।।

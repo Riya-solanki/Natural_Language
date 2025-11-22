@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 306 | label: grammar | g:0.75 m:0.5 ---
+
+[] atra cāturībhiḥ iti tasyānarthajñatā, dharma-dhāma diśataḥ ity adhārmikatā, tad-ubhayābhyāṃ tad-ubhaya-rahitatā, punaḥ cāturībhiḥ iti vimūḍhatā, tābhir nas tu karṣataḥ iti pūrṇatā muktatā ca । tatra svakṛtānuddeśena kṛta-hantṛtā ca niṣiddhā । tyāge cāsmad-duḥkha-vīkṣaṇābhāvena nirdayatā tu śeṣiteti śliṣyati ।

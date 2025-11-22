@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1012 | label: meter | g:0.25 m:0.5 ---
+
+dakṣiṇe pūjayedrudra pativarṇaṃ guruṃ yajet ।
+paścime caiva bhūteśaṃ uttare bhārgavaṃ sitam ।।

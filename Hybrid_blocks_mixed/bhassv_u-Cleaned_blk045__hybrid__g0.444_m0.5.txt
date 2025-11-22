@@ -1,0 +1,4 @@
+--- source: bhassv_u-Cleaned.txt | block: 45 | label: hybrid | g:0.444 m:0.5 ---
+
+sukham artho bhaved dātuṃ sukhaṃ prāṇāḥ sukhaṃ tapaḥ
+sukham anyad bhavet sarvaṃ duḥkhaṃ nyāsasya rakṣaṇam ।।

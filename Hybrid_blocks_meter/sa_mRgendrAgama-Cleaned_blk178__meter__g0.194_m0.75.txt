@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 178 | label: meter | g:0.194 m:0.75 ---
+
+sasādhanasya bhogasya karmatantratayā jaguḥ 
+kecinniyāmakaṃ karma yadanyadatiricyate ।।

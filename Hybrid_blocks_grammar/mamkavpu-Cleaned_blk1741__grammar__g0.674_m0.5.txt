@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1741 | label: grammar | g:0.674 m:0.5 ---
+
+atrācetanasya tamaso divākarāttrāsa eva na saṃbhavatīti kuta eva tatprayojitamadriṇā paritrāṇam । saṃbhāvitena tu rūpeṇa pratibhāsamānasyāsya na kācidanupapattiravataratīti vyartha eva tatsamarthanāyāṃ yatnaḥ ।
+sādhāraṇaviśeṣaṇavaśādeva samāsoktiranuktamapi upamānaviśeṣaṃ prakāśayatīti tasyātra punarupādāne prayojanābhāvāt anupādeyatvaṃ yat tat apuṣṭārthatvaṃ punaruktaṃ vā doṣaḥ । yathā

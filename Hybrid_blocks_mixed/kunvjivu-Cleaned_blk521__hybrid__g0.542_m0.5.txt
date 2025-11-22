@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 521 | label: hybrid | g:0.542 m:0.5 ---
+
+yāvatkiñcidapūrvamārdramanasāmāvedayanto navāḥ saubhāgyātiśayasya kāmapi daśāṃ gantuṃ vyavasyantyamī ।
+bhāvāstāvadananyajasya vidhuraḥ ko apyudyamo jṛmbhate paryāpte madhuvibhrame tu kimayaṃ karteti kampāmahe ।।

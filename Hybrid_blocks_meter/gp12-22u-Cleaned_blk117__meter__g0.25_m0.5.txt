@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 117 | label: meter | g:0.25 m:0.5 ---
+
+[] tad evaṃ praśastena sva-hastena śrī-rāmeṇa hasta-vāraṇe kṛte-

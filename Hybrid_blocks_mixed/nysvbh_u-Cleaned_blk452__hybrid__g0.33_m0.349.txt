@@ -1,0 +1,5 @@
+--- source: nysvbh_u-Cleaned.txt | block: 452 | label: hybrid | g:0.33 m:0.349 ---
+
+teṣu vāsaḥsu lakṣiteṣu siddhiḥ ।
+vidyamānatā yeṣāṃ bhavati na teṣāmabhāvo lakṣaṇānām ।
+yāni ca lakṣiteṣu vidyante lakṣaṇāni teṣāmalakṣiteṣvabhāva ity ahetuḥ yāni khalu bhavanti teṣāmabhāvo vyāhata iti ।।

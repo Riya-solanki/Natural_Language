@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 244 | label: grammar | g:0.729 m:0.5 ---
+
+dhanaṃ ca bahu labhyaṃ te sukhaṃ kṣemaṃ ca vartmani na ca me prāṇasaṃdehas tathāpi priya mā sma gāḥ ।।

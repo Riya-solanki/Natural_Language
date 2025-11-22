@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4496 | label: meter | g:0.194 m:0.625 ---
+
+sumuhūrtena tu vayaṃ taṃ grāmaṃ prāpya bhārata 
+viśrāntavāhanāḥ sarve vāsāyopagatās tadā ।।

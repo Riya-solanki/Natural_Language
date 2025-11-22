@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 319 | label: grammar | g:0.667 m:0.5 ---
+
+atra varṇenākṣareṇāntaraṃ bhedo yayostacvamiti vācye pratiṣṭhite varṇo vaiśyajātirantaraṃ nāyakaraghunāyakayoriti parasparavyatirekālahkāro vyaṅgyaḥ । tasyaiva kavitātparyaviśrāntidhāmatvāccārutvamiti camatkāritamatvam ।

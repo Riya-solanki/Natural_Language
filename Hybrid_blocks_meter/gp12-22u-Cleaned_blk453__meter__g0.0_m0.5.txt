@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 453 | label: meter | g:0.0 m:0.5 ---
+
+[] punaś cintāyām api sodvegam ūcuḥ-

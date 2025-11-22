@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 819 | label: meter | g:0.194 m:0.5 ---
+
+ye cānye dhārayiṣyanti teṣāṃ caritam uttamam 
+tiryagyoniṣu te jātu na bhaviṣyanti karhicit ।।

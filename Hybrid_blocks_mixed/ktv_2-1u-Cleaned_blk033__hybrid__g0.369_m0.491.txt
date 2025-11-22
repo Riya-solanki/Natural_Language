@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 33 | label: hybrid | g:0.369 m:0.491 ---
+
+dānāt saṃhatānāṃ phalam ।
+atha vaikena nirākāṅkṣatvān na tadānīm evetarasaṃbandhopapattiḥ, tasmād vikalpa iti ।
+atrābhidhīyate ।

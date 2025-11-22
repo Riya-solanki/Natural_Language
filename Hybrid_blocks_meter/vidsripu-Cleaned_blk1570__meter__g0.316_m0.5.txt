@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1570 | label: meter | g:0.316 m:0.5 ---
+
+kāmaṃ vaneṣu hariṇās tṛṇena jīvanty ayatnasulabhena ।
+vidadhati dhaniṣu na daintyaṃ te kila paśavo vayaṃ sudhiyaḥ ।।

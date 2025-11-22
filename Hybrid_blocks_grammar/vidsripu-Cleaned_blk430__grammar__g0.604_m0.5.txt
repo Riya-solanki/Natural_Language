@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 430 | label: grammar | g:0.604 m:0.5 ---
+
+ghanaūrū tasyā yadi yadi vidagdho ayam adharaḥ stanadvandvaṃ sāndraṃ yadi yadi mukhābjaṃ vijayate ।
+hatau rambhāstambhau hatam ahaha bandhūkakusumaṃ hatau hemnaḥ kumbhāv ahaha vihataḥ pārvaṇaśaśī ।।

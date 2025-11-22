@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 92 | label: meter | g:0.306 m:0.5 ---
+
+yaṃ gatvā śaraṇam ahaṃ jagatpradīpaṃ sarvāsaccaritavirodhinīṃ prapannaḥ ।
+āryāṇāṃ nayapadavīṃ samantabhadrāṃ taṃ vande kṛpaṇajanādhikānukampam ।।

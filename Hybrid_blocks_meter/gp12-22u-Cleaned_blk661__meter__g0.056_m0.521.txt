@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 661 | label: meter | g:0.056 m:0.521 ---
+
+murārer ambhodaḥ suhṛd iti na vā kevala-rucā
+svasādṛśyāt kintu vyatikṛta-hitatvād api sadā ।
+asau mallāreṇa prabalayati taṃ veṇu-januṣā
+sa cāyaṃ chāyābhiḥ praśamayati tāpaṃ tad-upari ।। [śikhariṇī]

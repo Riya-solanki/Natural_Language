@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9914 | label: hybrid | g:0.51 m:0.5 ---
+
+sārā hi lokeṣu bhavettrilokī dvīpeṣu sarveṣu ca jambukākhyam ।
+deśeṣu sarveṣvapi devadeśaḥ jīveṣu sarveṣu manuṣya eva ।।

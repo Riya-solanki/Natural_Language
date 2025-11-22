@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1742 | label: meter | g:0.194 m:0.5 ---
+
+{spṛśati tigmarucau kakubhaḥ karairdayitayeva vijṛmbhitatāpayā ।
+atanumānaparigrahayā sthitaṃ rucirayā cirayāpi dinaśriyā ।।}

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1379 | label: hybrid | g:0.51 m:0.5 ---
+
+atimānuṣam apy apāsya citraṃ mahimānaṃ kṛpayā vikṛṣyamāṇaḥ ।
+sa tu duḥkhakaro gatau tiraścāṃ paramāryaḥ pratisaṃdadhe mahātmā ।।

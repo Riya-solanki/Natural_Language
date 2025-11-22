@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 518 | label: meter | g:0.25 m:0.5 ---
+
+tato gaccheta sarakaṃ trailokyasyāpi durlabham ।
+kṛṣṇapakṣe caturdaśyāṃ dṛṣṭvā devaṃ maheśvaram ।।

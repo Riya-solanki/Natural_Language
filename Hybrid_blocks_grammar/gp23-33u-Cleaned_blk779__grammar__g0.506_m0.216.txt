@@ -1,0 +1,4 @@
+--- source: gp23-33u-Cleaned.txt | block: 779 | label: grammar | g:0.506 m:0.216 ---
+
+[] sā vakṣyati-pūrvaṃ sa vo hi svāmī bhavati iti durvāsaso vacanenāpi samyaṅ nāviduḥ kintu paścād viduḥ ।
+[] tau vakṣyataḥ-katham iva?

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2516 | label: meter | g:0.194 m:0.5 ---
+
+tataḥ punaḥ samālabdhaṃ grāmasya ca purasya ca 
+bhrāmayet ṣoḍaśavāraṃ dahyate na tadambhasā ।।

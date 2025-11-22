@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 571 | label: hybrid | g:0.455 m:0.5 ---
+
+dharmātikrami cittaṃ katham adhimitraṃ ca tat prakāśate? ।
+iti harir upacita-yuktir yuyoja dūtyāya kevalāṃ dṛṣṭim ।। [gīti]

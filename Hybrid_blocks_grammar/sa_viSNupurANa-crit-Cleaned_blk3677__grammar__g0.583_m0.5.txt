@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3677 | label: grammar | g:0.583 m:0.5 ---
+
+kāśīrājagotre avatīrya tvam aṣṭadhā samyag āyurvedaṃ kariṣyasi yajñabhāk ca bhaviṣyasīti abhihitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 384 | label: meter | g:0.306 m:0.5 ---
+
+bālyaṃ yad asyās trivalītaṭinyās taṭe vinaṣṭaṃ saha cāpalena ।
+tadartham utthāpitacārucaitya- kalpau stanau pāṇḍutarau taruṇyāḥ ।।

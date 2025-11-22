@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 1053 | label: meter | g:0.25 m:0.521 ---
+
+suhaa vilaṃvasu thoaṃ jāva imaṃ virahakāaraṃ hiaaṃ ।
+saṃṭhaviūṇa bhaṇissaṃ ahavā volesu kiṃ bhaṇimo ।।
+subhaga vilambasva stokaṃ yāvadidaṃ virahakātaraṃ hṛdayam ।
+saṃsthāpya bhaṇiṣyāmyathavāpakrama kiṃ bhaṇāmaḥ ।

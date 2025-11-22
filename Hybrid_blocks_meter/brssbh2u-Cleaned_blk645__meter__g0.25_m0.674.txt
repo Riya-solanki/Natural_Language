@@ -1,0 +1,8 @@
+--- source: brssbh2u-Cleaned.txt | block: 645 | label: meter | g:0.25 m:0.674 ---
+
+mantravarṇaścaitamarthamavagamayati atāvānasya mahimā tato jyāyāṃśca puruṣaḥ ।
+pādo asya sarvābhūtāni tripādasyāmṛtaṃ divi' iti ।
+atra bhūtaśabdena jīvapradhānāni sthāvarajaṅgamāni nirdiśati ।
+aahiṃsansarvabhūtānyanyatra tīrthebhyaḥ' iti prayogāt ।
+aṃśaḥ pādo bhāga ityanarthāntaram ।
+tasmādapyaṃśatvāvagamaḥ ।।

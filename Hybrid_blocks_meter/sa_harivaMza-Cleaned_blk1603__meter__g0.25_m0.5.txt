@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1603 | label: meter | g:0.25 m:0.5 ---
+
+ahaṃ tu tava putrasya tava caiva mahāvrata 
+bhṛtya ity avagantavyaḥ ślāghyo asmi yadi karmaṇā ।।

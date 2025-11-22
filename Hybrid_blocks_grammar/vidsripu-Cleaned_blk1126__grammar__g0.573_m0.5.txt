@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1126 | label: grammar | g:0.573 m:0.5 ---
+
+upālabhyo nāyaṃ sakalabhuvanāścaryamahimā harer nābhīpadmaḥ prabhavati hi sarvatra niyatiḥ ।
+yad atraiva brahmā pibati nijam āyur madhu punar vilumpanti svedādhikam amṛtahṛdyaṃ madhulihaḥ ।।

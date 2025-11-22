@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1301 | label: meter | g:0.25 m:0.5 ---
+
+anekaduḥkhopanipātakātaraś cirasya tāvad bhavadāśrayād ayam ।
+mamopayogaṃ guṇapakṣasiddhaye śarīrasaṃjñaḥ kalir adya yāsyati ।।

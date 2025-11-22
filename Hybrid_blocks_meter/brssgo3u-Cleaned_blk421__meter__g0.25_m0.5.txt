@@ -1,0 +1,4 @@
+--- source: brssgo3u-Cleaned.txt | block: 421 | label: meter | g:0.25 m:0.5 ---
+
+saṃyadvāmatvādidharmebhya ānandādīnāṃ vaiṣamyaṃ jñānopayogitvāditayāha-itare tviti ।
+satyajñānānandātmabrahmaśabdāḥ pañca sarvatropasaṃhartavyā iti siddham ।।

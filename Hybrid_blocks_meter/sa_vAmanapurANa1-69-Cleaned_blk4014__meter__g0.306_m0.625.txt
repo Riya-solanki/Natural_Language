@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4014 | label: meter | g:0.306 m:0.625 ---
+
+stuto hi sarvapāpāni nāśayiṣyatyasaṃśayam ।
+stuto hi bhaktyā nṝṇāṃ vai sarvapāpaharo hariḥ ।।

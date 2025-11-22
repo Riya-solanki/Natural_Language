@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1653 | label: hybrid | g:0.542 m:0.5 ---
+
+yathā ratnāvalyāṃ, vidūṣakaḥ-bhoḥ esā kkhu tue apubbā sirī samāsādidā ।

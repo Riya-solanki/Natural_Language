@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1280 | label: hybrid | g:0.25 m:0.487 ---
+
+[] atra cāyam arthaḥ-
+asmad-darśana-mātraṃ yad vo' bhīṣṭaṃ tad eva yuktaṃ ca ।
+tatra hi hetur yūyaṃ tādṛśa-suṣṭhu-svabhāvāḥ stha ।।
+[] atha tasya svabhāvasya suṣṭhu-bhāvatvaṃ vibhāvayan punar uvāca-

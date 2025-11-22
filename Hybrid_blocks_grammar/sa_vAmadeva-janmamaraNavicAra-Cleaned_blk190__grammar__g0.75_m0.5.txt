@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 190 | label: grammar | g:0.75 m:0.5 ---
+
+ityādi pravṛttam ata eva bhūtabhaviṣyadarthahitārthavādinaḥ smarann iti śabdapratyayasya yathārthaḥ prayogaḥ syāt etad eva ca vitatya śrītantrāloke pratipāditam mṛtibhogaḥ samasto ayaṃ marmacchin mūḍhatākṣagaḥ ।।

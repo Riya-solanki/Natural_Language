@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 376 | label: meter | g:0.25 m:0.75 ---
+
+yajñasya saṃtatir vasatīvarīṣv abhihriyamāṇāsv ।

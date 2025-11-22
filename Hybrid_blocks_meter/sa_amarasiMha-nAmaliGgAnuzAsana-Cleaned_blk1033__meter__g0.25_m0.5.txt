@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1033 | label: meter | g:0.25 m:0.5 ---
+
+vālkaṃ kṣaumādi phālaṃ tu kārpāsaṃ bādaraṃ ca tat

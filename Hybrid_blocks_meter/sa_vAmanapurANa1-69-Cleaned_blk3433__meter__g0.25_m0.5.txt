@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3433 | label: meter | g:0.25 m:0.5 ---
+
+naiva duḥkhaṃ mama vibho yadahaṃ rājyavicyutaḥ ।
+duḥkhaṃ kṛtāparādhatvād bhavato me mahattaram ।।

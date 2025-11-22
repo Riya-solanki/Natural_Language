@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2257 | label: meter | g:0.25 m:0.5 ---
+
+sthitā viprāstadā śaptā gayāyāṃ brāhmaṇāstataḥ ।
+mā bhūttraipuruṣī vidyā mā bhūttraipuruṣaṃ dhanam ।।

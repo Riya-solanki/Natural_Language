@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 40 | label: meter | g:0.194 m:0.75 ---
+
+pūrvavṛttāntasadbhāvaṃ pūrvapāṭhaśrutaṃ ca yat 
+pūrvakalpārthanirdeśam ājñāto jñāpitaṃ tvayā ।।

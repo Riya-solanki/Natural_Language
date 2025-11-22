@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1326 | label: grammar | g:0.77 m:0.137 ---
+
+hetuḥusādhanaṃ tat sādhyāt pūrvaṃ paścāt saha vā bhavet yadi pūrvaṃ sādhanam ? asati sādhye kasya sādhanam, atha paścāt ? asati sādhane kasyedaṃ sādhyam, atha yugapat sādhyasādhate ? dvayorvidyamānayoḥ kiṃ kasya sādhanaṃ kiṃ kasya sādhyam iti heturahetunā na viśiṣyate।
+ahetunā sādharmyāt pratyavasthānam ahetusamaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 700 | label: hybrid | g:0.375 m:0.5 ---
+
+[] tad evaṃ śvapāka-śva-paryantebhyaḥ pradātavyaṃ, na tu pākaśāsanāyety abhipretya sarvān nirvacanekṛtya pratyekaṃ pravartayan prāha-

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 150 | label: meter | g:0.328 m:0.595 ---
+
+vyasanopanipātalakṣyavṛkṣe jagati kleśapiśācikābhibhūte ।
+udayā na tu sarvadā bhavanti prakṛtisvāsthyakṛtāṃ tathāgatānām ।।

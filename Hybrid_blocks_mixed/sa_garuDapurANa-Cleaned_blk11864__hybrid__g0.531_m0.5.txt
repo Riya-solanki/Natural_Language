@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11864 | label: hybrid | g:0.531 m:0.5 ---
+
+kva cāśvatthaḥ kva ca snānaṃ kva śaucametatsarvaṃ nāma nāśaṃ karoti ।
+mūḍhaṃ patiṃ reṇukāṃ pūjayasva māyādevyā dīpadānaṃ kuruṣva ।।

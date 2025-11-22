@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2120 | label: meter | g:0.194 m:0.625 ---
+
+pūrvaṃ vyāvarṇitaṃ tubhyam adṛṣṭaguṇalakṣaṇam 
+etat sarvaṃ samākhyātaṃ śāmbhavasya guṇāspadam ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4030 | label: meter | g:0.25 m:0.5 ---
+
+vṛṣṭimūla mahāmūla mūlāvāsa namo astu te ।
+dharmāvāsa jalāvāsa śrīnivāsa namo astu te ।।

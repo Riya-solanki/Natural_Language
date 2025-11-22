@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10142 | label: hybrid | g:0.521 m:0.5 ---
+
+matvā hariṃ bhagavānvyāsarūpī cakre tadā bhāgavataṃ purāṇam ।
+tathā samākhyāya ca vaiṣṇavaṃ tattataḥ paraṃ gāruḍākhyaṃ sa cakre ।।

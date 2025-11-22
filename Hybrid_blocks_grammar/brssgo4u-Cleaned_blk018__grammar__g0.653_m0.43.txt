@@ -1,0 +1,9 @@
+--- source: brssgo4u-Cleaned.txt | block: 18 | label: grammar | g:0.653 m:0.43 ---
+
+na ।
+asakṛt api tāvat mātre kriyamāṇe viśeṣavijñāna utpatti asaṃbhavāt ।
+na hi sakṛt prayuktābhyāṃ śāstrayuktibhyām anavagato viśeṣaḥ śatakṛtvaḥ api prayujyamānābhyām avagantuṃ śakyate ।
+tasmāt yadi śāstrayuktibhyāṃ viśeṣaḥ pratipādyate yadi vā sāmānyameva ubhayathā api sakṛt pravṛtte eva te svakāryaṃ kuruta iti āvṛtti anupayogaḥ ।
+na ca sakṛt prayukte śāstrayuktī kasyacit api anubhavaṃ na utpādayata iti śakyate niyantuṃ vicitraprajñatvāt pratipattṛṇām ।
+api ca aneka aṃśopete laukike padārthe sāmānya viśeṣavat ekena avadhānena ekam aṃśam avadhārayati apareṇa aparam iti syāt api abhyāsa upayogo yathā dīrghaprapāṭhakagrahaṇādiṣu ।
+na tu nirviśeṣe brahmaṇi sāmānya viśeṣarahite caitanyamātrātmake pramā utpattau abhyāsāpekṣā yukta iti ।

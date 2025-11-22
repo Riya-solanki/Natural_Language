@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2904 | label: meter | g:0.25 m:0.625 ---
+
+parvatāgraṃ smṛtaṃ tena paryāyena surārcite 
+catuṣpathaṃ bhaved devi vāmā jyeṣṭhā ca raudrikā ।।

@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 573 | label: grammar | g:0.559 m:0.448 ---
+
+candraṃ candanakardamena likhitaṃ sā mārṣṭi daṣṭādharā vandyaṃ nindati yac ca manmatham asau bhaṅktvāgrahastāṅurīḥ ।
+kāmaḥ puṣpaśaraḥ kileti sumanovargaṃ lunīte ca yat tat kāmyā subhaga tvayā varatanur vātūlatāṃ lambhitā ।।
+rājaśekharasya

@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 798 | label: grammar | g:0.75 m:0.5 ---
+
+atha sumanā nāma yoṣid bodhisattvam anveṣamānā vārāṇasīṃ nagarīm anuprāptā dadarśa cainaṃ mahāsattvaṃ paramadāruṇām avasthām upagataṃ dṛṣṭvā ca tīvraśokāyāsavyathitahṛdayā provāca ।

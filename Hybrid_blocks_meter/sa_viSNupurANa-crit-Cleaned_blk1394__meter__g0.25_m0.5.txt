@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1394 | label: meter | g:0.25 m:0.5 ---
+
+prahlāda sarvam etat te matprasādād bhaviṣyati 
+anyaṃ ca te varaṃ dadmi vriyatām asurātmaja ।।

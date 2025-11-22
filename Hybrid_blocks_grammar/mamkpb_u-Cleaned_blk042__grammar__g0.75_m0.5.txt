@@ -1,0 +1,3 @@
+--- source: mamkpb_u-Cleaned.txt | block: 42 | label: grammar | g:0.75 m:0.5 ---
+
+"karmaṇi kuśalaḥ'; ityādau darbhagrahaṇādyayogāt "gaṅgāyāṃ ghoṣaḥ'; ityādau ca gaṅgādīnāṃ ghoṣādyādhāratvāsaṃbhavot mukhyārthasya bādhe vivecakatvādau sāmīpye ca saṃbandhe rūḍhitaḥ prasiddheḥ, tathā gaṅgātaṭe ghoṣa ityādeḥ prayogāt yeṣāṃ na tathā pratipattiḥ, teṣāṃ pāvanatvādīnāṃ dharmāṇāṃ tathāpratipādanātmanaḥ prayojanācca mukhyena amukhyo artho lakṣyate yat sa āropitaḥ śabdavyāpāraḥ sāntarārthaniṣṭho lakṣaṇā ।

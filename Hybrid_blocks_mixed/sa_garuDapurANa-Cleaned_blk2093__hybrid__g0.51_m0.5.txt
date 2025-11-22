@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2093 | label: hybrid | g:0.51 m:0.5 ---
+
+strehapradigdhaḥ pratibhāti yaśca yo vā praghṛṣṭaḥ prajahāti dīptim ।
+ākrāntamūrdhā ca tathāṅgulibhyāṃ yaḥ kālikāṃ pārśvagatāṃ bibharti ।।

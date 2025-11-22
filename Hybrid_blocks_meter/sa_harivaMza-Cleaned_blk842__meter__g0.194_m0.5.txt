@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 842 | label: meter | g:0.194 m:0.5 ---
+
+tatas tasmai dadau rājyaṃ brahmā brahmavidāṃ varaḥ 
+bījauṣadhīnāṃ viprāṇām apāṃ ca janamejaya ।।

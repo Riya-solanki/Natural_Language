@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4525 | label: meter | g:0.194 m:0.625 ---
+
+ity uktaḥ saṃpariṣvajya devarājo janārdanam 
+āruhyairāvataṃ nāgaṃ punar eva divaṃ yayau ।।

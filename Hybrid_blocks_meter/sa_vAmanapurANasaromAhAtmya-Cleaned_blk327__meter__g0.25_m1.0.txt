@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 327 | label: meter | g:0.25 m:1.0 ---
+
+protphullapadmasarasi hvadasuddhasaridvare ।
+sugandhī pūpasaṃpanno varābharamabhūṣitaḥ ।।

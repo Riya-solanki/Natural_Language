@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 600 | label: meter | g:0.281 m:0.767 ---
+
+antyayamakaṃ yathā
+yaśasā saurabhavantaṃ siṅgamahīpāla merudhīra bhavantam ।
+sukṛtīkṛtavasudevaḥ satataṃ pāyādvitīrṇaghanavasudevaḥ ।।

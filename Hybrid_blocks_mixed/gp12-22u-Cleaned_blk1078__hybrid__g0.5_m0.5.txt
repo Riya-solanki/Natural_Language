@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1078 | label: hybrid | g:0.5 m:0.5 ---
+
+[] kṛṣṇa uvāca-kadāpi nānṛtaṃ vacasi kṛtavān asmi ।

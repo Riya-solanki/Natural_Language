@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 580 | label: meter | g:0.25 m:0.871 ---
+
+pūrvādāvarcayeddevānindrādīñchraddhayā naraḥ ।
+jayā ca vijayā caiva jayanti cāparājitā ।
+śeṣaśca vāsukiścaiva nāgānityādi pūjayet ।।

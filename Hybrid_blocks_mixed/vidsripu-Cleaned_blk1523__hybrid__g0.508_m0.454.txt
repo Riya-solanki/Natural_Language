@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1523 | label: hybrid | g:0.508 m:0.454 ---
+
+dātaiṣa viśvaviditaḥ kim ayaṃ dadāti sarvāhitāni jagate nanu vārtam etat ।
+asyodayāt prabhṛti vāñchati dānapātraṃ cintāmaṇir yadi dadāti dadātu tāvat ।।
+aṅkokasya

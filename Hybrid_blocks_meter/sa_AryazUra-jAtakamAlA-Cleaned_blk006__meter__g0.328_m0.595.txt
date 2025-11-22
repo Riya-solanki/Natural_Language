@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 6 | label: meter | g:0.328 m:0.595 ---
+
+ślādhyairamībhirabhilakṣitacinhabhūtairādeśito bhavati yatsugatatvamārgaḥ ।
+syādeva rūkṣamanasāmapi ca prasādo dharmyāḥ kathāśca ramaṇīyataratvamīyuḥ ।।

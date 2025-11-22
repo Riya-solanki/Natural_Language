@@ -1,0 +1,12 @@
+--- source: gp23-33u-Cleaned.txt | block: 343 | label: meter | g:0.25 m:0.667 ---
+
+kvacid ahīna-tuhina-marīci-marīci-vīci-rocamāna-kānane paricitāparicita-nānā-vidha-mṛga-pakṣi-vṛkṣa-vallī-vilakṣaṇatā-vilokanāya kṛta-paribhramaṇam;
+kvacid api madākula-bhramara-kula-saṅkula-gūḍha-kuḍuṅga-kusuma-caya-cayanāya kampamāna-prāṇa-praṇayinī-janasya prakaṭaṃ cāṭutā-ghaṭanāya tatra balād iva viracita-praveśanābhiniveśam;
+kvacid api dhṛṣṭa-ṣaṭpada-daṣṭatā-labdha-kaṣṭa-spaṣṭa-duṣparihara-bāṣpa-lalanāvakalanād uddaṇḍitena sanāla-keli-kharanāla-daṇḍena tad-daṇḍanāya makara-kuṇḍala-tuṇḍa-paryanta-sparśi-roka-koka-nadāyamāna-netra-puṇḍarīkam;
+kvacid api lalitavilāsa-valitānana-lalanā-vapur anubhūya jugupsitī-kṛta-sthala-kamala-sthalāvalokanam;
+kvacid api śuka-nikarādhigamanīya-ramaṇīya-vāṇī-vilāsa-kalanāya salālana-kalita-kala-kalā-kalāpam;
+kvacid api nija-līlā-milad-ullala-bhāva-vilulita-sulalita-mukula-kula-latā-vakalanena vikalatayā vigalita-nayana-jala-leśam;
+kvacid api prauḍhatā-samūḍha-gūḍha-garva-parva-kharvaṇāya sadambharambhoru-varūtham anu nirvyūḍha-prarūḍhamāra-samprahāram;
+kvacid api mithuna-mithaḥ-keli-kalānukṛti-niyati-valita-praticchāyāvaloka-kautuka-vāhitayā vihita-bahu-hāsam;
+kvacid api parasparam aparaspara-sparśa-sukha-parāmarśajāta-nivṛtti-citta-vṛttitayā nimīlad-vilocana-rocamānam;
+kvacid api niryantraṇa-ramaṇa-śrama-paratantra-tandrāyām api tad eva ramaṇaṃ bhūyaḥ samanubhūya rāga-sāgarāyamāṇa-jāgaram

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1756 | label: hybrid | g:0.531 m:0.5 ---
+
+guṇavad aguṇavad vā kurvatā karmajātaṃ pariṇatir avadhāryā yatnataḥ paṇḍitena ।
+atirabhasakṛtānāṃ karmaṇām ā vipatter bhavati hṛdayadāhī śalyatulyo vipākaḥ ।।

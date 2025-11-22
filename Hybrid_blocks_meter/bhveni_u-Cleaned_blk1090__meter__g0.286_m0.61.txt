@@ -1,0 +1,5 @@
+--- source: bhveni_u-Cleaned.txt | block: 1090 | label: meter | g:0.286 m:0.61 ---
+
+yudhiṣṭhiraḥ
+sāśaṅkam
+satyaṃ samaragocaro me vatsaḥ ।

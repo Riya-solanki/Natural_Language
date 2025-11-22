@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 263 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evam etāsāṃ sva-tanayena pariṇayanaṃ prati vrajapati-jampatī ca pūrvam atīva tīvra-spṛhā-gṛhīta-cittāv āstām । viśeṣatas tu rādhāyā mādhurya-viśeṣāvadhāraṇataḥ । kintu gargeṇa tadvad eva nirastāv ity astamita-prayatnāv abhūtām ।

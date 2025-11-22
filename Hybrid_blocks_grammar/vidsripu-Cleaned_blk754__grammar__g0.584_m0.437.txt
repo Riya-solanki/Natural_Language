@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 754 | label: grammar | g:0.584 m:0.437 ---
+
+yad daurbalyaṃ vapuṣi mahatī sarvataś cāspṛhā yan nāsālakṣyaṃ yad api nayanaṃ maunam ekāntato yat ।
+ekādhīnaṃ kathayati manas tāvad eṣā daśā te ko asāv ekaḥ kathaya sumukhi brahma vā vallabho vā ।।
+lakṣmīdharasya

@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 135 | label: grammar | g:0.583 m:0.5 ---
+
+kṣaṇamātram apīśāna viyuktasya tvayā mama nibiḍaṃ tapyamānasya sadā bhūyā dṛśaḥ padam ।।

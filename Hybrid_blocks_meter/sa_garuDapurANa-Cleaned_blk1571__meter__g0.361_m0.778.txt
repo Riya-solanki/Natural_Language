@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1571 | label: meter | g:0.361 m:0.778 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+madhye tvilāvṛto varṣo bhadrāśvaḥ pūrvato adbhutaḥ ।
+pūrvadakṣaiṇato varṣo hiraṇvānvṛṣabhadhvaja ।।

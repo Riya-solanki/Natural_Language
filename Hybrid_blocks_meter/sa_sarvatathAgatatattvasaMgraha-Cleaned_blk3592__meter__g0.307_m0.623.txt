@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3592 | label: meter | g:0.307 m:0.623 ---
+
+utthito vā niṣaṇṇo vā caṅkraman vā yathā tathā ।
+vajraratnābhiṣekeṇa sidhyate natra saṃśaya ।।

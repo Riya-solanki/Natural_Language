@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 5 | label: hybrid | g:0.38 m:0.47 ---
+
+khārkenduvahnimarudātmamahīpayobhir aṣṭabhir eva tanubhir bhavatā samaste ।
+vyāpte jagaty aparam icchati yo atra vaktum ko anyo hatatrapatayā sadṛśo asti tena ।।

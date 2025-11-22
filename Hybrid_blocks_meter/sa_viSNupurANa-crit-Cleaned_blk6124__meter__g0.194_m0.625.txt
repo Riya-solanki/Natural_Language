@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6124 | label: meter | g:0.194 m:0.625 ---
+
+praṇaṣṭe gandhatanmātre bhavaty urvī jalātmikā 
+āpas tadā pravṛddhās tu vegavatyo mahāsvanāḥ ।।

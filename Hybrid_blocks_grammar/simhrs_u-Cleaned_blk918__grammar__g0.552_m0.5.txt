@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 918 | label: grammar | g:0.552 m:0.5 ---
+
+yad eva rocate mahyaṃ tad eva kurute priyā ।
+iti vetti na jānāti tat priyaṃ yat karoti sā ।। iti ।

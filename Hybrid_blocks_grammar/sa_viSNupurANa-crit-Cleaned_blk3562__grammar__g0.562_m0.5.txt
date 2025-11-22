@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3562 | label: grammar | g:0.562 m:0.5 ---
+
+vasiṣṭhaśāpāc ca ṣaṣṭhe kāle rākṣasabhāvam upetyāṭavyāṃ paryaṭann anekaśo mānuṣān abhakṣayat ।।

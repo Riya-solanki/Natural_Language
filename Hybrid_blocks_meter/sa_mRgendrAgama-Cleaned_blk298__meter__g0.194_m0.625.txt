@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 298 | label: meter | g:0.194 m:0.625 ---
+
+nemayaḥ kaṭakākārā nirgatā dīptimattarāḥ 
+ekā daśasahasrā tu manusāhasrikī parā ।।

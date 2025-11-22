@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4285 | label: meter | g:0.328 m:0.595 ---
+
+rājaputri sukalyāṇi navayauvanaśālini ।
+cittaṃ harasi me bhīru kokilā dhvaninā yathā ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 106 | label: hybrid | g:0.497 m:0.5 ---
+
+puruṣo hi sāgarajalaṃ vraji paśyanāya saci paśyate drumavanaspatiśailarājam 
+athavā na paśyati nimitta nikāṅkṣa bhoti a to mahasamudra na so atidūre ।।

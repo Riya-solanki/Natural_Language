@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1273 | label: meter | g:0.306 m:0.5 ---
+
+yāny eva śokaparidevamukhāni loke kāmātmanām anucitopaśamotsavānām ।
+tāny eva nāma dadhati praśamapriyāṇāṃ prītiṃ nirāmiṣasukhapraṇayānavadyām ।।

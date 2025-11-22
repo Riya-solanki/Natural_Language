@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 38 | label: meter | g:0.056 m:0.854 ---
+
+kutra kutracid agasya dambhataḥ
+stambham eti tad idaṃ harer vanam ।
+prāyaśaś cala-dalasya kampratām
+aṅkurasya pulakāni sarvataḥ ।। [rathoddhatā]

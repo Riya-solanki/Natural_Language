@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 86 | label: grammar | g:0.583 m:0.5 ---
+
+aśvamedhasahasrāṇāṃ yaḥ sahasraṃ samācaret nāsau tat phalam āpnoti tadbhaktair yad avāpyate ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 355 | label: hybrid | g:0.531 m:0.5 ---
+
+śṛṇuyāmapi naiva jātu bālaṃ na ca vīkṣeya na cainamālapeyam ।
+na ca tena nivāsakhedaduḥkhaṃ samupeyāṃ varamityahaṃ vṛṇe tvām ।।

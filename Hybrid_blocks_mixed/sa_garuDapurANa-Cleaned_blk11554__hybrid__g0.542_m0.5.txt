@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11554 | label: hybrid | g:0.542 m:0.5 ---
+
+evaṃ tu natvā paramādareṇa tuṣṭāva viṣṇuṃ paramaṃ purāṇam ।
+lakṣmyā sadā ye aviditā guṇāśca asaṃkhyātāḥ saṃti viṣṇau ca vīśa ।।

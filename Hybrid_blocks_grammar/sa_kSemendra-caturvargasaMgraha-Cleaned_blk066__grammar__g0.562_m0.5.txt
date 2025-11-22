@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 66 | label: grammar | g:0.562 m:0.5 ---
+
+kuvalayamayī lolāpāṅge taraṅgamayī bhruvoḥ śaśiśatamayī vaktre gātre mṛṇālalatāmayī ।
+malayajamayī sparśe tanvī tuṣāramayī smite diśati viṣamaṃ smṛtyā tāpaṃ kim agnimayīva sā ।।

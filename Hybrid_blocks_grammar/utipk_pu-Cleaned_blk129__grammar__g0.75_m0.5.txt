@@ -1,0 +1,3 @@
+--- source: utipk_pu-Cleaned.txt | block: 129 | label: grammar | g:0.75 m:0.5 ---
+
+avatantras tu vikalpaś cakṣurādyagocaram api buddhaviṣayatāpādanena yathāruci pūrvānubhūtatvāvimarśanena navam eva taṃ tam artham ābhāsayati saṃniveśaviśeṣaṃ ca । tatrāsav arthaḥ sahaja evāsti ।।

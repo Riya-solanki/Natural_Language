@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 222 | label: grammar | g:0.75 m:0.5 ---
+
+ya indreṇa sṛṣṭo yadi vā marudbhir yūpaḥ papāta dviṣatāṃ vadhāya । taṃ nirjagāmo haviṣā ghṛtena śaṃ no astu dvipade śaṃ catuṣpade ।। tvaṣṭre svāhā iti hutvā tvaṣṭā me daivyaṃ vacaḥ iti tvāṣṭraṃ sarvarūpam ālabheta ।

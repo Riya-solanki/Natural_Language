@@ -1,0 +1,11 @@
+--- source: grasht_u-Cleaned.txt | block: 1008 | label: grammar | g:0.537 m:0.371 ---
+
+bahūnnirdiśan viśeṣamāha abhraketyādi ।।
+abhrakaḥ prasiddhaḥ sasyakaś capalaḥ mākṣikaṃ tāpyaṃ rasakaṃ kharparaṃ daradaṃ hiṅgulaṃ vimalaṃ sitamākṣikaṃ vajrakaṃ hīrakaṃ girijatu śilājatu etaiḥ ।।
+punar vaikrāntetyādi vaikrāntaṃ vajrabhūmijaṃ rajaḥ kāntaṃ lohajāti tīkṣṇaṃ sāraḥ etaiśca ।।
+hāṭakatārāratāmraiś ca hāṭakaṃ hema tāraṃ rūpyaṃ āraṃ rājarītiḥ tāmraṃ śulbaṃ etaiśca etair uddiṣṭaiḥ abhrakāditāmrāntaiḥ samastair ekatrīkṛtair vyastairvā pṛthakkṛtairvā yathālābhaṃ lābhamanatikramya bhavatīti yathālābhaṃ dvitricaturbhirvā abhrādyairjīrṇahato rasendro jīrṇābhrādīnāṃ hatiryasmin sa tathoktaḥ rasāyane jarāvyādhivināśane rasaśāstramarmajñaiḥ śasyate abhrādayaḥ praśastā uktā ityarthaḥ ।।
+yugmam ।।
+vajrādibhirhataḥ sūto hatasūtasamo'paraḥ ।
+śṛṅkhalābaddhanāmā syāddehalohavidhāyakaḥ ।
+asya prabhāvādvegena vyāptirbhavati niścitam ।
+iti granthāntare ।।

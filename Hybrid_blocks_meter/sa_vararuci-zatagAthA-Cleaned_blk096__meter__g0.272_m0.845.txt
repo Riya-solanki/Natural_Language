@@ -1,0 +1,4 @@
+--- source: sa_vararuci-zatagAthA-Cleaned.txt | block: 96 | label: meter | g:0.272 m:0.845 ---
+
+kāryamālocitāpāyaṃ matimadbhirviceṣṭitam ।
+nāpattirbhavitā tatra jātā parihṛtāpi sā ।।

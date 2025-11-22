@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 24 | label: grammar | g:0.601 m:0.368 ---
+
+katarasmāt padāt phalena saṃbadhyamānād apūrvabhedābhedāv anugantavyāv iti ।
+yadā niravayavau vākyavākyārthau syātāṃ tataḥ kiṃ pratipadaṃ dharma ityādir asaṃbaddha eva vicāraḥ syāt, ata āha vākye ca padānām arthāḥ iti ।
+atrāpi codyate ।

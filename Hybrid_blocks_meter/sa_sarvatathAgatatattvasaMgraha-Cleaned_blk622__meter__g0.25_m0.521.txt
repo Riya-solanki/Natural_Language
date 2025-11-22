@@ -1,0 +1,6 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 622 | label: meter | g:0.25 m:0.521 ---
+
+athāsāṃ sādhanaṃ vakṣye samayastvam iti brūvan ।
+svayaṃ badhvā tu sidhyante kāmarāgasukhātmanaḥ ।।
+āsāṃ tvadhikamekaṃ tu sarvakālaṃ na bandhayet ।
+guhye vārthamahatkārye prayuñjīt vicakṣaṇaḥ ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 78 | label: meter | g:0.059 m:0.62 ---
+
+tatrādhirājyaṃ kila rādhikām anu
+prattaṃ priyeṇeti purāṇa-viśrutam ।
+ahaṃ tu manye punar-uktam eva tad
+guṇena tasyāḥ sa ca yad vaśaṃ-gataḥ ।। [upajāti ]

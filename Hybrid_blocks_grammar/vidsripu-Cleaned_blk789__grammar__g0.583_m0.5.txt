@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 789 | label: grammar | g:0.583 m:0.5 ---
+
+tyajasi na śayanīyaṃ nekṣase svām avasthāṃ viśadayasi na keśān ākulagranthibandhān ।
+kim api sakhi kuru tvaṃ dehayātrānurūpaṃ śatam iha virahiṇyo nedṛśaṃ kvāpi dṛṣṭam ।।

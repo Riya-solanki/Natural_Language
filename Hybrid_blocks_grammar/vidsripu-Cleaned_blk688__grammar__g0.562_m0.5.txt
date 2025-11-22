@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 688 | label: grammar | g:0.562 m:0.5 ---
+
+pāṇau śoṇatale tanūdari darakṣāmaṃ kapolasthalaṃ vinyasyāñjanadigdhalocanajalaiḥ kiṃ glānim ānīyate ।
+mugdhe cumbatu nāma cañcalatayā bhṛṅgaḥ kvacit kandalīm unmīlannavamālatīparimalaḥ kiṃ tena vismaryate ।।

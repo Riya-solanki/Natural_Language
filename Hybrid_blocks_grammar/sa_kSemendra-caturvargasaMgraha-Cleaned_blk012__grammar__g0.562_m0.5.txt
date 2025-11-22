@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 12 | label: grammar | g:0.562 m:0.5 ---
+
+hitaṃ na kiṃcid vihitaṃ parasya dattaṃ na vittaṃ na ca satyam uktam ।
+yasmin dine niṣphalatāṃ prayātam āyuḥ sa kālaḥ paridevanasya ।।

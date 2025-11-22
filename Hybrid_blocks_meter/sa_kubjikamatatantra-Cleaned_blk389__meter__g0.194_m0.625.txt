@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 389 | label: meter | g:0.194 m:0.625 ---
+
+pañcāvasthāprabhinnas tu tadā mantra-m ihocyate 
+evaṃ mantragatiṃ jñātvā sidhyante līlayā narāḥ ।।

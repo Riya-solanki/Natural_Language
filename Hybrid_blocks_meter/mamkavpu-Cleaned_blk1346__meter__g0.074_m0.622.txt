@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 1346 | label: meter | g:0.074 m:0.622 ---
+
+{abdherambhaḥ sthagitabhuvanābhogapātālakukṣeḥ
+potopāyā iha hi bahavo laṅghane api kṣamante ।
+āho riktaḥ kathamapi bhavedeṣa daivāt tadānīṃ
+ko nāma syādavaṭakuharālokane apyasya kalpaḥ ।।}

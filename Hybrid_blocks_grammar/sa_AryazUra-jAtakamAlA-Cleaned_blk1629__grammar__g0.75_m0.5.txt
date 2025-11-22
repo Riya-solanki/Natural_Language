@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1629 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa rājā tasyādbhūtena mānuṣeṇābhivyāhāreṇa bhṛśataramāvarjitahṛdayastamasmai puruṣaṃ śarāgreṇa nirdideśa - ayamasyātyadbhutasya no darśayiteti । atha bodhisattvastaṃ puruṣaṃ pratyabhijñāya vigarhamāṇa uvāca - kaṣṭaṃ bhoḥ ।

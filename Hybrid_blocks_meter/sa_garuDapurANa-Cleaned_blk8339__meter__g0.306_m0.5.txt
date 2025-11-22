@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8339 | label: meter | g:0.306 m:0.5 ---
+
+śubhe lagne muhūrte vā śucau deśe samāhitaḥ ।
+brāhmaṇaṃ tu samāhūya vidhijñaṃ śubhalakṣaṇam ।।

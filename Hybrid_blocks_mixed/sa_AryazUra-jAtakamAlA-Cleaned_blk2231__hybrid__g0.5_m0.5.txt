@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2231 | label: hybrid | g:0.5 m:0.5 ---
+
+dayāklaibyaṃ na yo veda khādana visphurato mṛgān ।
+praviśya tasya me vaktraṃ yajjīvasi na tadbahu ।।

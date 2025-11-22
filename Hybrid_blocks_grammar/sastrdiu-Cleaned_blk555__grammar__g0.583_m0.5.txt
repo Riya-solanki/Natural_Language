@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 555 | label: grammar | g:0.583 m:0.5 ---
+
+yattvādityaprakāśakatvavaditi, kiṃ tasya prakāśakatvamabhipretaṃ, yadi timirotsāraṇaṃ, tannityamasyeva sarvadā hyasāvavyavahiteṣu deśeṣu timiramutsādayatyeva, nanvevamātmā sarvadā śṛṇoti suṣuptāvaśravaṇāt ।
+atha jñānajanakatvamāditya deśeṣu timiramutsādayatyeva, natvevamātmā sarvadā śṛṇoti suṣuptāvaśravaṇāt ।
+atha jñānajanakatvamādityasya prakāśakatvam na tannityaṃ, tasmātsāmarthyameva tatrāpi nityaṃ, tasmājjñānaśaktyabhiprāyamidaṃ nityatvābhidhānam ।।

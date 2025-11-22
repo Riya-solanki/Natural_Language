@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9996 | label: meter | g:0.307 m:0.623 ---
+
+satsaṅgaśca vivekaśca nirmalaṃ nayanadvayam ।
+yasya nāsti naraḥ so andhaḥ kathaṃ na syādamārgagaḥ ।।

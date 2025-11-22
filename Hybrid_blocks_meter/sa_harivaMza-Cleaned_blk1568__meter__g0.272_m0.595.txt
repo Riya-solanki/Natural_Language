@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1568 | label: meter | g:0.272 m:0.595 ---
+
+tatpravartasva vaṃśāya vardhayātmānam ātmanā 
+ādadhat svorjitaṃ tejo dvitīyāṃ kuru vai tanum ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7689 | label: meter | g:0.25 m:0.5 ---
+
+nimittaṃ durmatiṃ kṛtvā yadi nārāyaṇo baliḥ ।
+ekādaśāhe kartavyo vṛṣotsargo api tatra vai ।।

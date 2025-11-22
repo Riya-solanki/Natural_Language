@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1343 | label: grammar | g:0.594 m:0.5 ---
+
+vandyān nindati duḥkhitān upahasaty ābādhate bāndhavān śūrān dveṣṭi dhanacyutān paribhavaty ājñāpayaty āśritān ।
+guhyāni prakaṭīkaroti ghaṭayaty anyonyavairāśrayān brūte śīghram avācyam ujjhitaguṇo gṛhṇāti doṣān khalaḥ ।।

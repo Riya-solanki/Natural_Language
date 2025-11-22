@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 53 | label: meter | g:0.281 m:0.5 ---
+
+mahavidya prajña ayu pāramitā janānāṃ dukhadharmaśokaśamanī pṛthusattvadhātoḥ 
+ye atīta ye api ca daśaddiśa lokanāthā ima vidya śikṣita anuttaravaidyarājāḥ ।।

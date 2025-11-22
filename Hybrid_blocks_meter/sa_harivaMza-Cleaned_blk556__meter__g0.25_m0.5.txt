@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 556 | label: meter | g:0.25 m:0.5 ---
+
+mārkaṇḍeyas tu te śeṣam etat sarvaṃ vadiṣyati 
+eṣa vai pitṛbhaktaś ca viditātmā ca bhārgavaḥ ।।

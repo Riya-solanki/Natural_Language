@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4198 | label: meter | g:0.25 m:0.625 ---
+
+anandinī paryacarat sveṣu veśmasu devakī 
+rohiṇī ca yathoddeśam āhukasya ca yāḥ striyaḥ ।।

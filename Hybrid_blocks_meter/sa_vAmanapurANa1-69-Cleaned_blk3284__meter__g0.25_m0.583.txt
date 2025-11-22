@@ -1,0 +1,7 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3284 | label: meter | g:0.25 m:0.583 ---
+
+bhūbhyāṃ sadā brāhmaṇabhūṣitāyāṃ kṣatrānvitāyāṃ dṛḍhavāpitāyām ।
+śuśruṣaṇāsaktasamudbhavāyā mṛddhiṃ prayāntīha narādhipendrāḥ ।।
+tasmād dvijāgryāḥ śrutiśāstrayuktā narādhipāṃste kratubhirdvijendrā yajñāgnidhūmena nṛpasya śāntiḥ ।।
+tapo adhyayanasaṃpannā yājanādhyāpane ratāḥ ।
+santu viprā bale pūjyāstvatto anujñāmavāpya hi । ।

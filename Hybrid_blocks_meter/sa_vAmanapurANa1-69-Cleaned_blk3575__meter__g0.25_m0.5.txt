@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3575 | label: meter | g:0.25 m:0.5 ---
+
+tatastadadbhutatamaṃ dṛṣṭvā sa matimān vaṇik ।
+papraccha taṃ pretapālaṃ kautūhalamanā vaśī ।।

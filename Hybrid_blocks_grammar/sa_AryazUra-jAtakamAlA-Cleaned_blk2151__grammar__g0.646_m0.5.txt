@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2151 | label: grammar | g:0.646 m:0.5 ---
+
+pakṣānilairlalitamīnakulaṃ vyudasya meghaughabhīmarasitaṃ jalamarṇavebhyaḥ । sarpān haranti vitatagrahaṇāḥ suparṇā mṛtyuṃ punaḥ pramathituṃ na tathotsahante ।।

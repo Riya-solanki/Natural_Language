@@ -1,0 +1,4 @@
+--- source: brsgor2u-Cleaned.txt | block: 311 | label: meter | g:0.25 m:0.625 ---
+
+pūrvavatmanaḥsaṃyogavadadṛṣṭasyāpi sarvātmasādharaṇatvānna vyavasthetyarthaḥ ।
+rāgādiniyamāttajjādṛṣṭaniyama ityāśaṅkyottaratvena sūtraṃ gṛhṇāti- syādetadityādinā ।।

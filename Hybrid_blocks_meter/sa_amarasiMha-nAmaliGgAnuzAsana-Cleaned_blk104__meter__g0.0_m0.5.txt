@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 104 | label: meter | g:0.0 m:0.5 ---
+
+sā dṛṣṭenduḥ sinīvālī sā naṣṭendukalā kuhūḥ

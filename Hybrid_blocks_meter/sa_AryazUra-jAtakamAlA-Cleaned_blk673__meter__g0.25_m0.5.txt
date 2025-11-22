@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 673 | label: meter | g:0.25 m:0.5 ---
+
+abhayamabhayado dadāti rājā sthiraśuciśīladhanāya sajjanāya ।
+avinayanirataiḥ prajāhitārthaṃ narapaśubhistu sahasraśo yiyakṣuḥ ।।

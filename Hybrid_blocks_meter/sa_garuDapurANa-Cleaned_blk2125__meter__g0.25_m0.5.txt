@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2125 | label: meter | g:0.25 m:0.5 ---
+
+kṣaumeṇa vāsasā mṛṣṭā dīptiṃ tyajati putrikā ।
+lāghavenaiva kācasya śakyā kartuṃ vibhāvanā ।।

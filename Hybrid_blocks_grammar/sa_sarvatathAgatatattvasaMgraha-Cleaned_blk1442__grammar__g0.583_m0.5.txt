@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1442 | label: grammar | g:0.583 m:0.5 ---
+
+atha bhagavān punarapi sarvatathāgatavajrasamayamudrādhiṣṭhānaṃ nāma samādhiṃ samāpadyemāṃ sarvavidyottamamabhāṣat oṃ sarvatathāgatavajrasamaye hūṃ ।।

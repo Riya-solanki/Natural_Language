@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2123 | label: meter | g:0.25 m:0.625 ---
+
+kṛpaṇā bata lokasya calatvavirasā sthitiḥ ।
+yadiyaṃ kaumudīlakṣmīḥ smartavyaiva bhaviṣyati ।।

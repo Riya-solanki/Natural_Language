@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 151 | label: meter | g:0.194 m:0.75 ---
+
+bhūtāvadhi jagadyeṣāṃ kāraṇaṃ paramāṇavaḥ 
+teṣāṃ pūrvoditāddhetor jñātaiva jñānasūkṣmatā ।।

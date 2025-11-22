@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1473 | label: meter | g:0.306 m:0.5 ---
+
+dāso ahaṃ bhavatāṃ viprāḥ kṛtapuṇyaś ca sāṃpratam ।
+yenārthino hi te yūyaṃ tanmamājñātumarhatha ।।

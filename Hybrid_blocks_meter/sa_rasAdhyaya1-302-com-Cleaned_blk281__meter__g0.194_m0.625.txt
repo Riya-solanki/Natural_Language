@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 281 | label: meter | g:0.194 m:0.625 ---
+
+māraṇe mūrchane bandhe rasasyaitā niyojayet 
+aprasūtagavāṃ mūtraiḥ piṣṭā mūrvāṃ niyāmakāḥ ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 426 | label: meter | g:0.081 m:0.716 ---
+
+{paśyetkaściccala capala re kā tvarāhaṃ kumārī
+hastālambaṃ vitara ha ha hā vyutkramaḥ kvāsi yāsi ।
+itthaṃ pṛthvīparivṛḍha bhavadvidviṣoraṇyavṛtteḥ
+kanyā kañcit phalakisalayānyādadānābhidhatte ।।}

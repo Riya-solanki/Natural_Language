@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1016 | label: meter | g:0.275 m:0.742 ---
+
+dvitīyo yathā
+anantabhogāśrayaṇaṃ vibhutvaṃ cakrapriyattvaṃ ghanasattvatā ca ।
+śrīsiṅgabhūpe śritapārijāte pratyakṣanārāyaṇatāṃ vyanakti ।।

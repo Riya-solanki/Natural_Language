@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 799 | label: meter | g:0.382 m:0.593 ---
+
+"indriyārthasaṃnikarṣotpannam "
+"yugapat jñānānutpattirmanaso liṅgam "
+ityevamādi, tasmātsaṃśayaprakriyānupapattiriti।
+dṛṣṭipravādopālambhārthaṃ tu prakaraṇam evaṃ hi paśyantaḥ pravadanti sāṃkhyāḥ apuruṣasyāntaḥkaraṇabhūtā nityā buddhiḥ' iti ।।

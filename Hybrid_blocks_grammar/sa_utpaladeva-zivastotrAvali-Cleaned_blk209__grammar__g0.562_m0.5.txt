@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 209 | label: grammar | g:0.562 m:0.5 ---
+
+tvatprāṇitāḥ sphurantīme guṇā loṣṭopamā api nṛtyanti pavanoddhūtāḥ kārpāsāḥ picavo yathā ।।

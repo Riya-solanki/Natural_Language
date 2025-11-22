@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 952 | label: grammar | g:0.667 m:0.5 ---
+
+atrāhalyābhisaraṇadoṣanimittasiddhalocana sahasreṇa tadādhikyādeva bhārgavādiviśiṣṭajanatiraskāriṇā duścyavanenaivopamānena pratīyamānasāmānyasyānyāyopārjitasamṛddheḥ nyāyamārgapravaṇa siṅgabhūpālādiprabhuvargavibhāṣeṇa kasya cid bhūpālādhamasyopameyasyoktisiddhāvupamāna dvāreṇaivopameyanindā vivakṣiteti garhāvatīyaṃ samāsoktiḥ ।

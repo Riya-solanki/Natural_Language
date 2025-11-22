@@ -1,0 +1,5 @@
+--- source: brsgor3u-Cleaned.txt | block: 20 | label: hybrid | g:0.411 m:0.162 ---
+
+saṃprati śrutisthacaraṇaśabdamākṣepapūrvakaṃ sūtrakṛdvyācaṣṭe-caraṇāditi cediti ।
+aadrohaḥ sarvabhūteṣu karmaṇā manasā girā ।
+anugrahaśca jñānaṃ ca śīlametadvidurbudhāḥ'iti smṛtāvuktāvadrohādayaḥ śāstrārthajñānarūpaṃ śīlaṃ sarvakarmāṅgamuktaṃ tadbodhakaṃ caraṇapadamaṅginaḥ śrautādikarmaṇo lakṣakaṃ, karmaṇa evottarāvasthā dharmādharmākhyāpūrvamiti karmalakṣaṇayaiva tadabhinnāpūrvākhyānuśayasiddhiriti kārṣṇājinimatam ।।

@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 150 | label: meter | g:0.25 m:0.521 ---
+
+harir gopa-kṣauṇī-pati-mithunam anye ca vibudhā
+na naḥ krūraṃ cittaṃ mṛdulayitum īśā lavam api ।
+aho teṣāṃ premā vilasati harau yas tu balavān
+harer vā yas teṣu drutayati sa eva pratipadam ।। [śikhariṇī]

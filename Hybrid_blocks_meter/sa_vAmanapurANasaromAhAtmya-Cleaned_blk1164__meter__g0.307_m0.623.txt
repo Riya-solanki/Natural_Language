@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1164 | label: meter | g:0.307 m:0.623 ---
+
+rasātalagatā ye ca ye ca tasmāt paraṃ gatāḥ ।
+namastebhyo namastebhyo namastebhyaśca nityaśaḥ ।।

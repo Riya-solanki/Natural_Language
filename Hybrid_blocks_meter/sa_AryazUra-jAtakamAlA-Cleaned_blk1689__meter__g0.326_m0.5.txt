@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1689 | label: meter | g:0.326 m:0.5 ---
+
+gatvā svayaṃ saṃkramatāmamīṣāṃ svajīvite tyaktadayena bhutvā ।
+samuddhṛtā ye kapayastvayeme ko nu tvameṣāṃ tava vā ka ete ।।

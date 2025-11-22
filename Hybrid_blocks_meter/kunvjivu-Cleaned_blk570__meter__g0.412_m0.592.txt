@@ -1,0 +1,7 @@
+--- source: kunvjivu-Cleaned.txt | block: 570 | label: meter | g:0.412 m:0.592 ---
+
+atra kriyāpadānāṃ trayāṇāmapi pratyekaṃ triprakāraṃ vaicitryaṃ parisphuratikriyāvaicitryaṃ kārakavaicitryaṃ kālavaicitryaṃ ca ।
+prathimastana-jaghana-taruṇimnāṃ trayāṇāmapi vṛttivaicitryam ।
+lāvaṇyajaladhi-pragalbhya-saralatā-paricaya-śabdānāmupacāravaicitryam ।
+tadevamete bahavo vakratāprakārā ekasmin pade vākye vā saṃpatitāścitracchāyāmanoharāmetāmeva cetanacamatkārakāriṇīṃ vākyavakratāmāvahanti ।
+evaṃ nāmākhyāto pasarganipātalakṣaṇasya caturvidhasyāpi padasya yathāsaṃbhavaṃ vakratāprakārān vicāryedānīṃ prakaraṇamupasaṃhṛtyānyadavatārayati

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11410 | label: meter | g:0.25 m:0.5 ---
+
+kadā drakṣye śrīnivāsasya jaṅghe rasātalasyāśrayeḥ sarvadaiva ।
+kadā drakṣye pādatalaṃ hareśca pātālalokasyāśrayaṃ sarvadaiva ।।

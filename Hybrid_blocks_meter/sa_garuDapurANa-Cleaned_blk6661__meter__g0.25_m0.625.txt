@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6661 | label: meter | g:0.25 m:0.625 ---
+
+viṣṇurdahettrilokañci mukhānmeghān sṛjatyalam ।
+varṣante vai varṣaśataṃ nānāvarṇā mahāghanāḥ ।।

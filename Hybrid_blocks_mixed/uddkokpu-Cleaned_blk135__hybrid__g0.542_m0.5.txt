@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 135 | label: hybrid | g:0.542 m:0.5 ---
+
+vakturvaktraṃ tamasi bhavato naiva dṛśyeta rātrāv āmadhyāhnaṃ bhavati niyamavyākulā vāsare sā ।
+sahyasparśe sati ravikare tāmasahyasmarārtiṃ matsandeśaṃ maṇivalabhikāmāśritaḥ śrāvayethāḥ ।।

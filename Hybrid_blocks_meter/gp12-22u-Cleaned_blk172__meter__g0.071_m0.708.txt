@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 172 | label: meter | g:0.071 m:0.708 ---
+
+vādyair nṛtyaiḥ pragītaiḥ śruti-śiva-paṭhanair divya-bhauma-prasūna-
+pravṛṭ-kalpābhivarṣair jaya-jaya-ninadaiḥ śarma-kolāhalaiś ca ।
+kṛṣṇaṃ madhye vidhāya prakaṭatara-mahānanda-nirvrīḍa-bhāvān
+nṛtyantas te vraja-sthā vrajam abhiviviśuḥ khaṃ yathā jyotiroghāḥ ।। [sragdharā]

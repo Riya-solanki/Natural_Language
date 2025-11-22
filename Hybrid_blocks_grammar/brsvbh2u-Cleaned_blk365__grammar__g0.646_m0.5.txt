@@ -1,0 +1,4 @@
+--- source: brsvbh2u-Cleaned.txt | block: 365 | label: grammar | g:0.646 m:0.5 ---
+
+yadyapi cakṣurādyapekṣayā śreṣṭhatvaṃ prādhānyaṃ ca prāṇasya tathāpi saṃhatatvādacetanatvādbhautikatvāccakṣurādibhiḥ sahaśiṣṭatvāccaca puruṣārthatvāt puruṣaṃ prati pāratantryaṃ śayanāsanādivadbhavet ।
+tathāca yathā mantrītareṣu naiyogikeṣu pradhānamapi rājānamapekṣyāsvatantra evaṃ prāṇo api cakṣurādiṣu pradhānamapi jīve asvatantra iti ।।

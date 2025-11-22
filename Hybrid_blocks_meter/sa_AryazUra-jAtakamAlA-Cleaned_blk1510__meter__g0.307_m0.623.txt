@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1510 | label: meter | g:0.307 m:0.623 ---
+
+yato bhavān dikṣuṃ vikīrṇacakṣuḥ karotu rakṣāṃ mama cātmanaśca ।
+dṛḍhaṃ śrameṇāsmi parītamūrtistatsvaptumicchāmi muhūrtamātram ।।

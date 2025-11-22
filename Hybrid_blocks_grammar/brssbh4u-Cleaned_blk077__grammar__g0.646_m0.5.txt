@@ -1,0 +1,4 @@
+--- source: brssbh4u-Cleaned.txt | block: 77 | label: grammar | g:0.646 m:0.5 ---
+
+nanu vastubalena eva ayam akartṛ ātmāvabodhaḥ karmāṇi kṣapayan kathaṃ kānicit kṣapayet kānicit ca upekṣeta ।
+na hi samāne agnibījasaṃparke keṣāñcit bījaśaktiḥ kṣīyate keṣāñcit na kṣīyata iti śakyam aṅgīkartum iti ।

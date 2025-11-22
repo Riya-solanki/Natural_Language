@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3107 | label: meter | g:0.306 m:0.5 ---
+
+tenaiva garbhaṃ ditijaṃ vajreṇa śataparvaṇā ।
+ciccheda saptadhā brahman sa ruroda ca visvaram ।।

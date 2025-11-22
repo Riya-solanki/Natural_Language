@@ -1,0 +1,5 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 144 | label: meter | g:0.102 m:0.5 ---
+
+śuddhāpi dvādaśī grāhyā parato dvādaśī yadi
+viṣaṃ tu daśamī jñeyā amṛtaṃ caikādaśī tithiḥ
+viṣapradhānā varjyā sā amṛtā grāhyā pradhānataḥ ।।

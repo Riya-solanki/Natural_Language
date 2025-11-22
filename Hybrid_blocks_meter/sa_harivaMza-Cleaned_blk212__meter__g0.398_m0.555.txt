@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 212 | label: meter | g:0.398 m:0.555 ---
+
+vayaṃ dīkṣāṃ pravekṣyāmaḥ saṃvatsaragaṇān bahūn 
+phaladāyī sa cāsmākaṃ yajñas te adyāpi nānyathā । 
+adharmaṃ kuru mā vena naiṣa dharmaḥ satāṃ mataḥ ।।

@@ -1,0 +1,4 @@
+--- source: tsc_simu-Cleaned.txt | block: 59 | label: meter | g:0.25 m:0.625 ---
+
+etat sarvaṃ jñātvā kṛtakṛtyaḥ syāt ।।
+na punastrividhena duḥkhenābhibhūyate ।।

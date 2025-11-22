@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1288 | label: meter | g:0.36 m:0.612 ---
+
+kusumastabakasyeva dvayī vṛttir manasvinaḥ ।
+sarvalokasya vā mūrdhni śīryate vana eva vā ।।
+vyāsasya

@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 8 | label: meter | g:0.306 m:0.5 ---
+
+sa taiḥ sampūjitaḥ pṛṣṭvā tāṃś ca sarvān anāmayam ।
+provāca codanādharmaḥ kim arthaṃ nānuvartyate ।।

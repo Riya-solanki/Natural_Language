@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 865 | label: hybrid | g:0.521 m:0.5 ---
+
+sādho kiṃ manyase hy atra yat te lajjāhataṃ mukham ।
+tāvat te yad abhiprāyaṃ tat pracakṣva mamāgrataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11111 | label: hybrid | g:0.5 m:0.5 ---
+
+etādṛśaṃ tava naivedyaśeṣaṃ na bhuktaṃ vai sarvadādityarūpam ।
+anarpitaṃ tava devasya viṣṇorbhuktaṃ mayā bahuvāraṃ mukunda ।।

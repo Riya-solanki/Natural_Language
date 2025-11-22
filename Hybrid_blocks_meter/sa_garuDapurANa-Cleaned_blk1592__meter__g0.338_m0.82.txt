@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1592 | label: meter | g:0.338 m:0.82 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+sapta medhātitheḥ putrāḥ plakṣadvīpeśvarasya ca ।
+jyeṣṭhaḥ śāntabhavo nāma śiśirastadantaraḥ ।।

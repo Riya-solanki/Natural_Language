@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1385 | label: meter | g:0.25 m:0.5 ---
+
+{pāṇḍu kṣāmaṃ vadanaṃ hṛdayaṃ sarasaṃ tavālasaṃ ca vapuḥ ।
+āvedayati nitāntaṃ kṣetriyarogaṃ sakhi hṛdantaḥ ।।}

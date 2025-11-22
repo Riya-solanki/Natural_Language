@@ -1,0 +1,3 @@
+--- source: brssgo1u-Cleaned.txt | block: 276 | label: grammar | g:0.562 m:0.5 ---
+
+chando abhidhānān neti cen na tathā ceto'rpaṇanigadāt tathā hi darśanam ।

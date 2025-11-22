@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1684 | label: meter | g:0.25 m:0.5 ---
+
+pūrayitvārthinām āśāṃ priyaṃ kṛtvā dviṣām api ।
+pāraṃ gatvā śrutaughasya dhanyā vanam upāsate ।।

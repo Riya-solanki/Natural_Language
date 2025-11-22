@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 693 | label: meter | g:0.275 m:0.838 ---
+
+śuddhābhāsavirodho yathā
+brūmahe siṅgabhūpālaṃ vayaṃ saujanyapaṇḍitam ।
+kāmaṃ vadati vīrāliḥ tamasaujanya paṇḍitam ।।

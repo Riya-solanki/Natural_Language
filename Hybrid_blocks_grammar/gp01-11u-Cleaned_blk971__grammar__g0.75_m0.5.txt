@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 971 | label: grammar | g:0.75 m:0.5 ---
+
+[] mātā tu rohiṇyā saha sa-hāsam āha sma, putra, ta ete tu na kutracana ca gacchanti, kintu samprati tathā pratīyante mātram ।

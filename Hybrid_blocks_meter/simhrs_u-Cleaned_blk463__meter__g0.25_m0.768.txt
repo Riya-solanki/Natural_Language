@@ -1,0 +1,8 @@
+--- source: simhrs_u-Cleaned.txt | block: 463 | label: meter | g:0.25 m:0.768 ---
+
+vicāra-sundaro naiṣa mārgaḥ syād ity udāsmahe ।
+kaiśikī-vṛtti-bhedānāṃ narmādīnāṃ prakalpanam ।। 
+yatra karuṇam āśritya rasābhāsatva-kāraṇam ।
+rasābhāsa-prakaraṇe vakṣyate tad idaṃ sphuṭam ।। 
+tat-tan-nyāya-pravīṇena nyāya-mārgānuvartinā ।
+darśitaṃ siṃha-bhūpena spaṣṭaṃ vṛtti-catuṣṭayam ।।

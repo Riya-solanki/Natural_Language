@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8237 | label: meter | g:0.25 m:0.555 ---
+
+piṇḍajo yadi naiva syādvāyujor'hati yātanām ।
+dehino asminyathā dehe kaumāraṃ yauvanaṃ jarā ।
+tathā dehāntaraprāptiḥ pakṣīndretyavadhāraya ।।

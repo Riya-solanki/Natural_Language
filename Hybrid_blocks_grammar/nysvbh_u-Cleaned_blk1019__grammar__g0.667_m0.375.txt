@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 1019 | label: grammar | g:0.667 m:0.375 ---
+
+na brūmaḥ sarvaṃ sarvasya kāraṇamiti kiṃ tu yadutpadyate vyaktaṃ dravyaṃ tat tathābhūtādevotpadyate iti, vyaktaṃ ca tad mṛddravyaṃ kapālasaṃjñakaṃ yato ghaṭa utpadyate na caitad nihnuvānaḥ kvacidabhyanujñāṃ labdhumarhatīti।
+tadetat tattvam ।।

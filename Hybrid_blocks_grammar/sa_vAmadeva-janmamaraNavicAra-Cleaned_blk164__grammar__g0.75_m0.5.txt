@@ -1,0 +1,3 @@
+--- source: sa_vAmadeva-janmamaraNavicAra-Cleaned.txt | block: 164 | label: grammar | g:0.75 m:0.5 ---
+
+ityādi ayaṃ tu uktayātanasya niyogaḥ advayarūpasya ātmanaḥ kutastyo ayaṃ bhedaḥ iti cet māyāmahāmohavikalpakalpita ity āha ākāśam ekaṃ hi yathā ghaṭādiṣu pṛthag bhavet ।।

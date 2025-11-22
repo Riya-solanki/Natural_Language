@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9652 | label: meter | g:0.306 m:0.5 ---
+
+sārdha māsaṃ tu vaiśyasya sadyaḥ śūdre vidhīyate ।
+gaṅgāyāṃ yamunāyāñca naimiṣe puṣkare atha ca ।।

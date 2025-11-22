@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 425 | label: grammar | g:0.604 m:0.5 ---
+
+śāntaye na sukhalipsutā manāg bhaktisambhṛtamadeṣu taiḥ prabhoḥ mokṣamārgaṇaphalāpi nārthanā smaryate hṛdayahāriṇaḥ puraḥ ।।

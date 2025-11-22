@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 949 | label: meter | g:0.25 m:0.75 ---
+
+sṛñjayasyābhavat putro vīro rājā puraṃjayaḥ 
+janamejayo mahārāja puraṃjayasuto abhavat ।। 
+puraṃjayān mahārāja putro abhūjjanamejayaḥ । 
+janamejayasya rājarṣer mahāsālo abhavat sutaḥ 
+deveṣu sa parijñātaḥ pratiṣṭhitayaśās tathā ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 99 | label: hybrid | g:0.354 m:0.5 ---
+
+[] tad evaṃ buddha-paddhatim apy atītavān asau lokaḥ prasabhaṃ buddhi-madhyam adhyārohati । yataḥ-

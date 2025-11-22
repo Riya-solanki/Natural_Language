@@ -1,0 +1,5 @@
+--- source: brssgo1u-Cleaned.txt | block: 23 | label: meter | g:0.25 m:0.75 ---
+
+tatpunarbrahma prasiddhamaprasddhaṃ vā syāt ।
+yadi prasiddhaṃ na jijñāsitavyam ।
+athāprasiddhaṃ naiva śakyaṃ jijñāsitumiti ।

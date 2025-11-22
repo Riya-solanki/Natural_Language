@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3794 | label: meter | g:0.272 m:0.595 ---
+
+trailokyajñāpikāṃ vācam utsṛjasva mahābhuja 
+eṣo asmi paridṛṣṭārthaḥ kiṃ karomi praśādhi mām ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3529 | label: meter | g:0.25 m:0.5 ---
+
+sarvapūjāṃ prakurvāṇaḥ saṃ[bhāraṃ hi] vivardhate ।
+kuśalānāṃ tu dharmāṇāṃ tataḥ sidhyati saṃbhṛtaḥ ।।

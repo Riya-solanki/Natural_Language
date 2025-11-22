@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 748 | label: grammar | g:0.75 m:0.5 ---
+
+[] tataḥ śrī-vrajeśvarānumatyā pratyāsannāḥ sarve' pi prārthayiṣyante । evaṃ ced iha ca tava dvārakā-vad eva bahala-gṛha-bṛṃhaṇāya spṛhayāmaḥ । anyathā-karaṇaṃ tu yad asmākam adhanyatāṃ vahatīti ।

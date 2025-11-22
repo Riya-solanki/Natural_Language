@@ -1,0 +1,4 @@
+--- source: mrgt1chu-Cleaned.txt | block: 224 | label: meter | g:0.306 m:0.625 ---
+
+sarvajñaḥ sarvakartṛtvāt sādhanāṅgaphalaiḥ saha ।
+yo yaj jānāti kurute sa tadeveti susthitam ।।

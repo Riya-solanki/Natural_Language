@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4925 | label: meter | g:0.194 m:0.625 ---
+
+yadi yuddhāni vacanaiḥ sidhyanti ditinandana 
+bhavān eva jayen nityaṃ bahvabaddhaṃ prabhāṣase ।।

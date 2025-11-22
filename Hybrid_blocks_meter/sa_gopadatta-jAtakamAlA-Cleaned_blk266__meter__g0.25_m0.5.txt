@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 266 | label: meter | g:0.25 m:0.5 ---
+
+sphītāvalepau karimastakeṣu bhujāv imau jyākaṭhinaprakoṣṭhau ।
+niyujyamānau kṛpaṇāśrayeṣu daurbhāgyam udbhāvayataḥ sphuṭaṃ te ।।

@@ -1,0 +1,10 @@
+--- source: gp01-11u-Cleaned.txt | block: 693 | label: meter | g:0.194 m:0.5 ---
+
+hasta-tyāga-maye navye saṃstavye gati-śikṣaṇe ।
+putre skhalati sā jīyān mātuḥ putrasya ca tvarā ।। [anuṣṭubh]
+dvitra-kramaṃ gataḥ kṛṣṇaś calitaḥ skhalane rudan ।
+putra putreti cumbantīm ambām ālolayan muhuḥ ।। [anuṣṭubh]
+kiñcid dūraṃ yad ānañca svaka-tejaḥ-prapañcakaḥ ।
+sthirībhūya prasū-vaktraṃ sa-smitaṃ sa vyalokata ।। [anuṣṭubh]
+dūraṃ mātur yadā yāti tadāsau mantharāyate ।
+samīpaṃ tu yadā tarhi smayamāno drutāyate ।। [anuṣṭubh]

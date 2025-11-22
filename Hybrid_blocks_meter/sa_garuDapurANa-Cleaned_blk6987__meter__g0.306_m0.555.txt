@@ -1,0 +1,8 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6987 | label: meter | g:0.306 m:0.555 ---
+
+stutaṃ tu pūjitaṃ me adya tatkṣamasva namo astu te ।
+iti cakradhārastotraṃ mayā samyagudāhṛtam ।
+stauhi viṣṇuṃ mune bhaktyā yadīcchasi paraṃ padam ।।
+stotreṇānena yaḥ stauti pūjākāle jagadghurum ।।
+acirāllabhate mokṣaṃ chitvā saṃsārabandhanam ।
+anyo api yo japedbhaktyā trisandhyaṃ niyataḥ śuciḥ ।।

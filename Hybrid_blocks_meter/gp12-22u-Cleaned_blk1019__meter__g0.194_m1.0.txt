@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1019 | label: meter | g:0.194 m:1.0 ---
+
+sāṅgada-kaṅkaṇa-mudrika-hastam
+āvāpaka-dhṛti-valayita-śastam ।
+hāravalita-hṛdi dhṛta-maṇi-rājam
+vanamālādika-mālya-samājam ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8324 | label: meter | g:0.25 m:0.625 ---
+
+viṣaśītāpaho mantravahniḥ kiṃ doṣabhājanam ।
+dātavyaṃ pratyahaṃ pātre nimitteṣu viśeṣataḥ ।।

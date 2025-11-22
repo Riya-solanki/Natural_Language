@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1760 | label: meter | g:0.306 m:0.5 ---
+
+apriyāṇy api kurvāṇo yaḥ priyaḥ priya eva sa ।
+dagdhamandirasāre api kasya vahnāv anādaraḥ ।।

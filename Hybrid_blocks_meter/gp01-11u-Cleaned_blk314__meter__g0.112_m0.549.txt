@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 314 | label: meter | g:0.112 m:0.549 ---
+
+hambā-rāvaḥ paśūnāṃ pramada-kala-kalaḥ pāśupālya-vrajānāṃ
+stotrāsāraḥ surāṇāṃ nigama-samudayāvṛtti-ghoṣas tv ṛṣīṇām ।
+itthaṃ sāṃrāviṇānta-vadhira-sama-daśām āgate sarva-loke
+veṇoḥ sūkṣmo' pi nādaḥ sa jayati nitarāṃ yaḥ samastaṃ bhinatti ।। [srāgdharā]

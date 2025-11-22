@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3738 | label: meter | g:0.194 m:0.5 ---
+
+tat sainyaṃ mahad āyād vai śrutvā vṛṣṇyandhakāgraṇīḥ 
+vāsudevaḥ samānāyya jñātīn idam uvāca ha ।।

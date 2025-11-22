@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6535 | label: meter | g:0.306 m:0.5 ---
+
+tapasā brahmacaryeṇa yajñaiḥ snānena vā punaḥ ।
+dharmasya nāśakā ye ca te vai nirayagāminaḥ ।।

@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 321 | label: meter | g:0.056 m:0.875 ---
+
+{sāyaṃ snānamupāsitaṃ malayajenāṅgaṃ samālepitaṃ
+yāto astācalamaulimambaramaṇirvisrabdhamatrāgatiḥ ।
+āścaryaṃ tava saukumāryamabhitaḥ klāntāsi yenādhunā
+netradvandvamamīlanavyatikaraṃ śaknoti tenāsitum ।। }

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 652 | label: meter | g:0.25 m:0.5 ---
+
+ātmatvenaiva yair eva tad upāttaṃ bhavatrayaṃ ।
+jagadatyantabandhūnāṃ teṣāṃ khedaḥ kathaṃ bhavet ।।

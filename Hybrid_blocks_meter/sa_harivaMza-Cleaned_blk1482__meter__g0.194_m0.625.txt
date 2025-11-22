@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1482 | label: meter | g:0.194 m:0.625 ---
+
+kṣaras tu vikṣaran darpān netrābhyāṃ roṣajaṃ jalam 
+sphuraddantauṣṭhavadanaḥ saṃgrāmaṃ so abhyakāṅkṣata ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1110 | label: grammar | g:0.75 m:0.5 ---
+
+[] sa śrīvatsa-vatsas tu tam antar hatya vatsa-vatsapān mūrcchitān amṛta-vṛṣṭi-maya-dṛṣṭi-pracāreṇa sañcarita-cetanān ācarann amībhiḥ samaṃ gamana-vartmanā tasmān nirjagāma svar-bhānu-mukhād amṛta-bhānur iva ।

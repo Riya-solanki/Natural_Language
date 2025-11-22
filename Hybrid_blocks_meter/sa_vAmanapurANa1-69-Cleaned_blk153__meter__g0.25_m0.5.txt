@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 153 | label: meter | g:0.25 m:0.5 ---
+
+devīṃ nipatitāṃ dṛṣṭvā jayāṃ papraccha śaṅkaraḥ ।
+kimiyaṃ patitā bhūmau nikṛtteva latā satī ।।

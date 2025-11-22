@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 778 | label: meter | g:0.25 m:0.5 ---
+
+yatra snātvā pitṛn pūjya na durgatimavāpḥṛyāt ।
+tatrāpi ca sarasvatyāḥ kūpaṃ trailokyaviśrutam ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2758 | label: meter | g:0.25 m:0.5 ---
+
+kṛtvāgnihotraṃ svaśarīrasaṃsthaṃ śārīram agniṃ svamukhe juhoti 
+vipras tu bhikṣopagatair havirbhiś citāgninā sa vrajati sma lokān ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 858 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad etad dūragatayā tayā nāvadhāryate sma, kintu parāḥ pāramparyeṇāvadhārya kṛtopālambha-caryāḥ kāścin nikaṭa-nikāyyā nāryaḥ parivārya militāḥ । sva-vācam iha smārayitum aikāgārikaḥ so' yaṃ bhavad-agāre' pi kāṃ kārim akārṣīt iti sūcayantya iva saha jahasuś ca ।

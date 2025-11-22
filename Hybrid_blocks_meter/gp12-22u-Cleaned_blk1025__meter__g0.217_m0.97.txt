@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1025 | label: meter | g:0.217 m:0.97 ---
+
+sārātrika-nirmañchana-dṛṣṭiṃ
+kartāras te sa-kusuma-vṛṣṭim ।
+maṇḍapa-varam upanīte śyāme
+sukha-sammardo bhavitā rāme ।।

@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 281 | label: grammar | g:0.604 m:0.5 ---
+
+āsannāv apy ubhau dīptau bhavataś cet samāgamah। svalpau dvāv api vidhvastau bhavetāṃ kūṭavigrahau।।

@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 511 | label: grammar | g:0.679 m:0.337 ---
+
+nanu jñānasyāpi kṣaṇikatvātkathaṃ pūrvedyurupalabdhe paredyuḥsmaraṇamicchā pratyabhijñā ca ।
+nahi svayamanupalabdhe tāni saṃbhavanti- nahi devadattenopalabdher'the yajñadattasya smaraṇādīni saṃbhavanti ।
+satyam- na saṃbhavanti saṃtānabhede samānāyāṃ tu saṃtatāvekenopalabdhe anyasya smaraṇādyupapannaṃ dṛṣṭatvāt, nahyupalabdhuḥ smartuścaikatvaṃ kvacidapi dṛṣṭaṃ, ekasya sthāsnoḥ puruṣasya kvacidapyanupalabdhatvāt, tasmājjñānameva jñātṛ nānyo jñātāstīti ।।

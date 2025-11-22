@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2321 | label: meter | g:0.25 m:0.625 ---
+
+vajravegena cākramya ratnāmālasya maṇḍalaṃ ।
+tatra madhye likhet samyagratnamālādharaṃ paraṃ ।।

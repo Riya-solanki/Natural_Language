@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1397 | label: meter | g:0.355 m:0.505 ---
+
+śrīphalaṃ yan na tad dīrgham iti tāvad vyavasthitam ।
+tatraikāntadhṛtir yasya manyate mugdha eva sa ।।
+risūkasya

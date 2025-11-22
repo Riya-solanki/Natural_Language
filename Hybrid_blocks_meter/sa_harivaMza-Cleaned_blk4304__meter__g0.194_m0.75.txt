@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4304 | label: meter | g:0.194 m:0.75 ---
+
+mahendrabhavane jāto devair gupto mahātmabhiḥ 
+acintayitvā devendraṃ pārijātadrumo hṛtaḥ ।।

@@ -1,0 +1,5 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 145 | label: grammar | g:0.571 m:0.377 ---
+
+Vṛtti:
+bhikṣārthaṃ paryaṭan bhaikṣyalobhāt [na kaṃcidanugṛhṇīyād] āśīrvādaparo na bhavet। [na niṣeveta bhartsayed] nāpi praśaṃsāparo bhaved bhikṣāyā alābhād garhayedvā।
+[vinā kṣetraparigrahād anyatra] sādhyamantrajapārthaṃ parigṛhītapavitrasthānādanyadeśe [ciraṃ nāsīta] bhikṣāṃ pratīkṣamāṇo bahukālaṃ na caret।

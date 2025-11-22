@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 661 | label: grammar | g:0.625 m:0.5 ---
+
+tadatyayāśaṅkibhiś cāmātyaiḥ sa mahātmā punaḥ punaḥ pratibodhyamāno api naiva teṣāṃ vacanaṃ pramāṇayām āsa ।।

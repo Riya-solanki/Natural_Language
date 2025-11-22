@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4086 | label: meter | g:0.314 m:0.539 ---
+
+viṣṇur nārāyaṇo devaḥ śaṅkhacakragadāsibhṛt 
+sa bhaumaṃ narakaṃ hatvā bhartā ca bhavitā hi saḥ ।।

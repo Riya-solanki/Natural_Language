@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 523 | label: meter | g:0.35 m:0.52 ---
+
+gacchati puraḥ śarīraṃ dhāvati paścād asaṃsthitaṃ cetaḥ ।
+cīnāṃśukam iva ketoḥ prativātaṃ nīyamānasya ।।
+kālidāsasya

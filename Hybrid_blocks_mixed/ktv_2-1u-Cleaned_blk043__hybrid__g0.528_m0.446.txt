@@ -1,0 +1,5 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 43 | label: hybrid | g:0.528 m:0.446 ---
+
+paraḥ punaḥbhavater ṇijantād anyena naiṣo artho abhidhīyate, na cākhyātapratyayasyātra vyāpāraḥ, dhātvantarārthatvāt ।
+kāmaṃ tulyajātīyatvena dhātava eva brūyuḥ, te api tu yāgādivacanatvād asamarthāḥiti matvāha nanu yāgadānahomaśabdāḥ iti ।
+atrocyate ।

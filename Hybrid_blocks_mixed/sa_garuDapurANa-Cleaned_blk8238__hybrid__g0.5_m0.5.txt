@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8238 | label: hybrid | g:0.5 m:0.5 ---
+
+vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naroparāṇi ।
+tathā śarīrāṇi vihāya jīrṇānyanyāni saṃyāti navāni dehī ।।

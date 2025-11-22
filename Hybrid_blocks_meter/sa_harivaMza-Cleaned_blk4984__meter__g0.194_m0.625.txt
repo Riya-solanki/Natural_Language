@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4984 | label: meter | g:0.194 m:0.625 ---
+
+ajeyaḥ śāśvato nityaṃ svayaṃbhūr bhūtabhāvanaḥ 
+akṣayaś cāvyayaś caiva bhavān eva mahādyute ।।

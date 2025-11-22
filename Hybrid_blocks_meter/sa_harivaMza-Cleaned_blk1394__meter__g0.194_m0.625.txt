@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1394 | label: meter | g:0.194 m:0.625 ---
+
+vartamāne makhe yena janakasya mahātmanaḥ 
+bhagnaṃ māheśvaraṃ cāpaṃ krīḍatā līlayā purā ।।

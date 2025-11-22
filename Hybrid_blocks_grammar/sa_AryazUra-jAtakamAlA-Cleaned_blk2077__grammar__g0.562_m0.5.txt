@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2077 | label: grammar | g:0.562 m:0.5 ---
+
+citrābhidhānātiśayojjvalārthā gāthāstvadetā madhurā niśamya । ānanditastatpratipūjanārthaṃ varānahaṃ te caturo dadāmi ।।

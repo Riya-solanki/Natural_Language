@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1161 | label: meter | g:0.381 m:0.774 ---
+
+ye vā prakāśānapi gehadoṣānguṇānna paśyanti tapovane vā ।
+nimīlitajñānavilocanāṃstānkimanyathāhaṃ paritarkayāmi ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4906 | label: meter | g:0.217 m:0.845 ---
+
+aśastram atighoraṃ tat tayor yuddhaṃ sudāruṇam 
+balaprāṇaviniṣpādyaṃ samājotsavasaṃnidhau ।।

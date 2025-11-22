@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 608 | label: meter | g:0.306 m:0.5 ---
+
+śrutvāndhakasyāpi vaco avyayātmā saṃkruddhacittastvarito hi daityam ।
+utpāṭya bhūmyāṃ ca viniṣpipeṣa tato andhakaḥ pāvakamāsasāda ।।

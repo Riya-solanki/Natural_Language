@@ -1,0 +1,3 @@
+--- source: mamkavpu-Cleaned.txt | block: 1003 | label: grammar | g:0.75 m:0.5 ---
+
+ityatrādyamardhaṃ bādhyatvenaivokyam । jīvitādapi adhikamapāṅgabhaṅgasyāsthiratvamiti prasiddhabhaṅguropamānatayopāttaṃ śāntameva puṣṇāti na punaḥ śṛṅgārasyātra pratītistadaṅgāpratipatterḥ । na tu vineyonmukhīkaraṇamatra parihāraḥ śāntaśṛṅgārayornairantaryasyābhāvāt । nāpi kāvyaśobhākaraṇaṃ rasāntarādanuprāsamātrādvā tathābhāvāt ।।

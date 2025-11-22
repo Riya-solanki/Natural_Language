@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1898 | label: grammar | g:0.75 m:0.5 ---
+
+atha bodhisattvo bhītānavetyaitān - mā bhaiṣṭa, bhaiṣṭa na vo bhayamasti matta iti samucchritena snigdhābhitāmrapṛthupuṣkareṇa kareṇa samāśvāsayannabhigamya karuṇāyamāṇaḥ papraccha - ke atrabhavantaḥ? kena cemāṃ daśāmanuprāptāḥ stha?

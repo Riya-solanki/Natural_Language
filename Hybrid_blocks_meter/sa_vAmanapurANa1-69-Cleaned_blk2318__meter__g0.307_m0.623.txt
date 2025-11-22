@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2318 | label: meter | g:0.307 m:0.623 ---
+
+kiṃ tvayā na śrutaṃ daitya yathā daṇḍo mahīpaliḥ ।
+parastrīkāmavān mūḍhaḥ sarāṣṭro nāśamāptavān ।।

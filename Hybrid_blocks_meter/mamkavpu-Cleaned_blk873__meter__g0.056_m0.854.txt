@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 873 | label: meter | g:0.056 m:0.854 ---
+
+{vātāhāratayā jagadviṣadharairāśvāsya niḥśaṣitaṃ
+te grastāḥ punarabhratoyakaṇikātīvravratairbarhibhiḥ ।
+te api kruracamūrucarmavasanairnītāḥ kṣayaṃ lubdhakair-
+dambhasya sphuritaṃ vidannapi jano jālmo guṇānīhate ।।}

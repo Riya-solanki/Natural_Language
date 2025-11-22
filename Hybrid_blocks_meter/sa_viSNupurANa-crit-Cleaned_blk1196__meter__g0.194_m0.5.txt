@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1196 | label: meter | g:0.194 m:0.5 ---
+
+janma bālyaṃ tataḥ sarvo jantuḥ prāpnoti yauvanam 
+avyāhataiva bhavati tato anudivasaṃ jarā ।।

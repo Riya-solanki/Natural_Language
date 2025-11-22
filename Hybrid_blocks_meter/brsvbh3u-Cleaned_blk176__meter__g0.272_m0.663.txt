@@ -1,0 +1,4 @@
+--- source: brsvbh3u-Cleaned.txt | block: 176 | label: meter | g:0.272 m:0.663 ---
+
+darśayati ca ।
+atideśādapyevameva tattve hi nātideśaḥ syāditi ।।

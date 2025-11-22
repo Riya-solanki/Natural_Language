@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8791 | label: meter | g:0.25 m:0.5 ---
+
+na dṛśyate kalau tacca kasmāddeva samādiśa ।
+(ādhānānmṛtyumāpnoti bālo vā sthaviro yubā ।।

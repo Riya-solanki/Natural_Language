@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1005 | label: meter | g:0.194 m:0.5 ---
+
+kavacasya tu māhātmyaṃ śṛṇu devi vadāmy aham 
+yena saṃrakṣayet sarvaṃ kruddhaḥ śatrūn nipātayet ।।

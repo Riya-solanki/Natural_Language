@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 502 | label: meter | g:0.25 m:0.75 ---
+
+agamyaścaiva pāṇibhyāṃ padāgamyastathaiva ca ।
+agrāhyo manasaścaiva buddhyāgrāhyo haristathā ।।

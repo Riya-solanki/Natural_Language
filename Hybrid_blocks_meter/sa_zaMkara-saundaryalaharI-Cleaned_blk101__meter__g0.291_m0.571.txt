@@ -1,0 +1,4 @@
+--- source: sa_zaMkara-saundaryalaharI-Cleaned.txt | block: 101 | label: meter | g:0.291 m:0.571 ---
+
+pradīpajvālābhir divasakaranīrājanavidhiḥ sudhāsūteś candropalajalalavair arghyaghaṭanā 
+svakīyair ambhobhiḥ salilanidhisauhityakaraṇaṃ tvadīyābhir vāgbhis tava janani vācāṃ stutir iyam ।।

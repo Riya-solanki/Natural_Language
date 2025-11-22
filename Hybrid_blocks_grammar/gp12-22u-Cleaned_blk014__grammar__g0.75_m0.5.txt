@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 14 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha vraja-rājasya sadasy api tasya vṛttam idaṃ vṛttam āsīt । yathāha sma sa-smitaṃ samāsannau sannanda-nandanau nandita-samājaḥ śrīman-nanda-rājaḥ-bhoḥ āyuṣmantāv, adya-jāta iva yuṣmad-bhrātṛ-jātaḥ sa yathā samprati yuvāṃ prati vartate, na tathā mām iti lakṣyate । yataḥ kiñcit saṅkucita-vilocanena mām avalocayann ālocyate । yuvābhyāṃ saha tu madhura-vārtāṃ vartayann eva dṛśyate ।

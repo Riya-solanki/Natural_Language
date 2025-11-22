@@ -1,0 +1,7 @@
+--- source: vacbhamu-Cleaned.txt | block: 643 | label: meter | g:0.252 m:0.555 ---
+
+utpattyasaṃbhavāt ।
+anyatra vedāvisaṃvādādyatrāṃśe visaṃvādaḥ sa nirasyate ।
+tamaṃśamāha yatpunaridamucyate vāsudevātsaṃkarṣaṇojīva iti ।
+jīvasya kāraṇavatve satyanityatvam, anityatveparalokino abhāvātparalokābhāvaḥ, tataśca svarganarakāpavargābhāvāpatternāstikyamityarthaḥ ।
+anupapannā ca jīvasyotpattirityāha pratiṣedhiṣyati ceti ।।

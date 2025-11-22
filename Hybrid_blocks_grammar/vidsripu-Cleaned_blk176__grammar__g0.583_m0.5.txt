@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 176 | label: grammar | g:0.583 m:0.5 ---
+
+mandaṃ dakṣiṇam āhvayanti pavanaṃ puṃskokilavyāhṛtaiḥ saṃskurvanti vanasthalīḥ kisalayottaṃsair niṣaṇṇālibhiḥ ।
+candraṃ sundarayanti muktatuhinaprāvārayā jyotsnayā vardhante ca vivardhayanti ca muhus te amī smaraṃ vāsarāḥ ।।

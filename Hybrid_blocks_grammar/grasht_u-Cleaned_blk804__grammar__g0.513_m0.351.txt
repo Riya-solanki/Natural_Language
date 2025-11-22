@@ -1,0 +1,6 @@
+--- source: grasht_u-Cleaned.txt | block: 804 | label: grammar | g:0.513 m:0.351 ---
+
+krāmaṇayogamāha kāntaviṣetyādi ।।
+kāntaṃ cumbakaṃ viṣaṃ kandajaṃ viṣaṃ kandaviṣāṇi kālakūṭādīni trayodaśa daradaṃ hiṅgulaṃ taiḥ ca punaḥ raktatailendragopādyaiḥ rakto raktakavargaḥ tailaṃ kaṅguṇyādeḥ indragopo jīvaviśeṣaḥ ityādyāḥ krāmaṇocitās tacca ।।
+etat śreṣṭhaṃ sarvottamaṃ krāmaṇaṃ anena sūtaḥ krāmati viśati loheṣviti vyāptiḥ tatkrāmaṇaṃ kathitam ।।
+tallepe kṣepe ca yojyamityarthaḥ ।।

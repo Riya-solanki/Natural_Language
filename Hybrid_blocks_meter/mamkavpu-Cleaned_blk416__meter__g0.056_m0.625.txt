@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 416 | label: meter | g:0.056 m:0.625 ---
+
+{atyuccāḥ paritaḥ sphuranti girayaḥ sphārāstathābhyodhaya-
+stānetānapi bibhratī kimapi na klāntāsi tubhyaṃ namaḥ ।
+āścaryeṇa muhurmuhuḥ stutimiti prastaumi yāvadbhuva-
+stāvadbibhradimāṃ smṛtastava bhujo vācastato mudritāḥ ।।}

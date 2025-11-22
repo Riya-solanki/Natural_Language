@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 100 | label: hybrid | g:0.521 m:0.5 ---
+
+asaṃskṛtā katame । ākāśam, apratisaṃkhyānirodhaḥ, pratisaṃkhyānirodhaḥ tathatā ca ।।

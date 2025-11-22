@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3510 | label: grammar | g:0.667 m:0.5 ---
+
+athaitām atītānāgatavartamānakālavedī bhagavān aurvaḥ svāśramān nirgatyābravīt । alam anenāsadgrāheṇākhilabhūmaṇḍalapatir ativīryaparākramo naikayajñakṛd arātipakṣakṣayakartā tavodare cakravartī tiṣṭhati ।।

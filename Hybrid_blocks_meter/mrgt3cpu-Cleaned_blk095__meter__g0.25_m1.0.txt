@@ -1,0 +1,4 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 95 | label: meter | g:0.25 m:1.0 ---
+
+nādhyāpayeccaturdaśyām aṣṭamyāṃ pakṣayordvayoḥ ।
+pratipatpañcadaśyośca caturthyāmarkasaṃkrame ।

@@ -1,0 +1,11 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 341 | label: grammar | g:0.726 m:0.102 ---
+
+tatra bhūtāni sarvāṇi dagdhāny ādityaraśmibhiḥ 
+brahmāṇam agrataḥ kṛtvā sahādityagaṇair vibho ।। 
+yogaṃ yogīśvaraṃ devam ajaṃ kṣetrajam acyutam । 
+praviśanti suraśreṣṭhaṃ hariṃ nārāyaṇaṃ prabhum 
+sraṣṭāraṃ sarvabhūtānāṃ kalpānteṣu punaḥ punaḥ 
+avyaktaḥ śāśvato devas tasya sarvam idaṃ jagat ।। 
+tatra saṃvartate rātriḥ sakalaikārṇave tadā । nārāyaṇodare nidrāṃ brāhmaṃ varṣasahasrakam ।। tāvantam iti kālaṃ sā rātrir ity abhiśabditā । nidrāyogam anuprāpto yasyām ante pitāmahaḥ ।। sā ca rātrir apakrāntā sahasrayugaparyayā । tadā prabuddho bhagavān brahmā lokapitāmahaḥ । punaḥ sisṛkṣayā yuktaḥ sargāya vidadhe manaḥ ।। saiva smṛtiḥ purāṇeyaṃ tadvṛttaṃ tadviceṣṭitam । devasthānāni tāny eva kevalaṃ ca viparyayaḥ ।। tato dagdhāni bhūtāni sarvāṇy ādityaraśmibhiḥ । devarṣiyakṣagandharvāḥ piśācoragarākṣasāḥ । jāyante ca punas tāta yuge bharatasattama ।। yathartāv ṛtuliṅgāni nānārūpāṇi paryaye । dṛśyante tāni tāny eva tathā brāhmīṣu rātriṣu ।। niṣkramitvā prajākāraḥ prajāpatir asaṃśayam । ye ca vai mānavā devāḥ sarve caiva maharṣayaḥ ।। te saṃgatāḥ śuddhasaṅgāḥ śaśvad dharmavisargataḥ । na bhavanti punas tāta yuge bharatasattama ।। tat sarvaṃ kramayogena kālasaṃkhyāvibhāgavit । sahasrayugasaṃkhyānaṃ kṛtvā divasam īśvaraḥ ।। rātriṃ yugasahasrāntāṃ kṛtvā ca bhagavān vibhuḥ । saṃharaty atha bhūtāni sṛjate ca punaḥ punaḥ । vyaktāvyakto mahādevo harir nārāyaṇaḥ prabhuḥ । 
+atra te vartayiṣyāmi manor vaivasvatasya ha 
+visargaṃ bharataśreṣṭha sāṃpratasya mahādyute ।।

@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 417 | label: grammar | g:0.562 m:0.5 ---
+
+śliṣṭam iṣṭam anekārtham ekarūpānvitaṃ vacaḥ tad abhinnapadaṃ bhinnapadaprāyam iti dvidhā ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 449 | label: hybrid | g:0.542 m:0.5 ---
+
+asaṃstutānāmapi na kṣameya pīḍāṃ kathaṃ kaiva kathā bhavatsu ।
+svānyeva māṃsāni yato asmi ditsurmāṃ caiva yācanta ime na yuṣmān ।।

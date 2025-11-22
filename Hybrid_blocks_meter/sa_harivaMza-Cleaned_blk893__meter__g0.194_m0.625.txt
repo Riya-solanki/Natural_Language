@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 893 | label: meter | g:0.194 m:0.625 ---
+
+tāni putraśatāny asya tad vai sthānaṃ śatakratoḥ 
+samākrāmanta bahudhā svargalokaṃ triviṣṭapam ।।

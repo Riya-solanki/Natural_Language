@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 355 | label: meter | g:0.154 m:0.533 ---
+
+atha ojaḥ-
+samāsa-bahulatvaṃ yat tad ojaḥ iti gīyate ।। b
+yathā utphulla-gaṇḍa-yugam ity atra yathocita-samāsa-bāhulyād ojaḥ ।

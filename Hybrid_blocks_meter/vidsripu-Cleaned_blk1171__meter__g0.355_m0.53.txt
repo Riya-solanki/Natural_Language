@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1171 | label: meter | g:0.355 m:0.53 ---
+
+satataṃ yā madhyasthā prathayati yaṣṭiḥ pratiṣṭhitāsīti ।
+puṣkariṇi kim idam ucitaṃ tāṃ cedānīm adho nayasi ।।
+kuśalanāthasya

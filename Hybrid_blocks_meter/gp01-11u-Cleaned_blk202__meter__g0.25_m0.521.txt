@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 202 | label: meter | g:0.25 m:0.521 ---
+
+mantrā gītāni vādyāny api ca jaya-ravāḥ kṛṣṇa-śobhās tadīya-
+preyo-vargāti-citra-praṇaya-vilasitānīti parvaṇy amuṣmin ।
+pratyekaṃ tat tad ekībhavanam api tadā prāpa rucyatvam uccaiḥ
+śṛṅgārādyo raso vā kavi-kṛtir athavā ṣāḍavo vāpi yadvat ।। [srāgdharā]

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 818 | label: meter | g:0.306 m:0.5 ---
+
+sukhe samānatāṃ gatvā duḥkhe jahyāṃ yadi priyam ।
+anāryām akṛtajñāṃ māṃ dhārayiṣyati bhūḥ katham ।।

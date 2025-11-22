@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1039 | label: grammar | g:0.562 m:0.5 ---
+
+[] rāma uvāca-satyam, yasmād asmāsu vatseṣu cākasmād adṛṣṭijādṛṣṭir asya dṛśyate ।

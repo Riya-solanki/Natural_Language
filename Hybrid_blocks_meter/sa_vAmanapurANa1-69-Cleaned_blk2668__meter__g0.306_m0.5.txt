@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2668 | label: meter | g:0.306 m:0.5 ---
+
+yadīṣṭastava śailendraḥ kriyatāṃ vacanaṃ mama ।
+yeyaṃ hi bhavataḥ patnī sā me śīghraṃ pradīyatām ।।

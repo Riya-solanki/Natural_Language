@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 393 | label: grammar | g:0.75 m:0.5 ---
+
+[] madhukaṇṭha uvāca-tathā hi, tat tad aśeṣa-sampattyor api dampatyo rahasi saṃvādo' yaṃ babhūva । yathā śrīmān patir uvāca-kuṭumbini! kim avalambī mama sanānāya vitānādi vitānayati śoka-vaśo' yaṃ lokaḥ ? yato mama saṅkalpa-kalpanā-samaye yādṛśāya sarvato vicitrāya putrāya cittaṃ kalpate । sa tu parama evāpūrvaḥ katham apūrva-viṣayatāṃ prāpnotu ? tata punar anyatra vacana-gocaraṃ racayituṃ saṅkucaty eva ceto-vṛttiḥ । yato yat khalu mayi dayā-parāyaṇasya śruti-pārāyaṇa-phalasya śrī-nārāyaṇasya rūpaṃ tato' pi madhurataraṃ katarad vā bhavet, parijāta-kusumād ākāśa-kusumam iva ।

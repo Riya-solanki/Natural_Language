@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6373 | label: meter | g:0.246 m:0.806 ---
+
+bhūpa bhūtāny aśeṣāṇi bhūtānāṃ ye ca hetavaḥ 
+pradhānādiviśeṣāntaṃ cetanācetanātmakam ।।

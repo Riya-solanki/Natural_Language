@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 1018 | label: meter | g:0.105 m:0.934 ---
+
+veṇu-vetra-dala-śṛṅgavaṭībhiḥ
+kanduka-bhramara-dāru-naṭībhiḥ ।
+krīḍinau sa-śiśu-go-suta-jāte
+nīla-pīta-vasanau rurucāte ।। [svāgatā]

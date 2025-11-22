@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9618 | label: meter | g:0.333 m:0.716 ---
+
+śrīgaruḍamahāpurāṇam- 
+tārkṣya uvāca ।
+sūtakānāṃ vidhiṃ brūhi dayāṃ kṛtvā mayiprabho ।
+vivekāya hi cittasya mānavānāṃ hitāya ca ।।

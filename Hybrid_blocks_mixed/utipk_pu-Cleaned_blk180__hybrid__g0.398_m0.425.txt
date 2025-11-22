@@ -1,0 +1,5 @@
+--- source: utipk_pu-Cleaned.txt | block: 180 | label: hybrid | g:0.398 m:0.425 ---
+
+ullekhasukhaduḥkhalajjādīnāṃ cākṣuṣānāṃ rūpādīnām iveśvarasya śaktyā sākṣātkaraṇarūpo bauddhaḥ prakāśaḥ ।।
+tadaikyena vinā na syāt saṃvidāṃ lokapaddhatiḥ ।
+prakāśaikyāt tad ekatvaṃ mātaikaḥ sa iti sthitam ।।

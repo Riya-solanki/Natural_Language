@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 80 | label: hybrid | g:0.521 m:0.5 ---
+
+vikasati sahakāre duḥsahe karṇikāre madhukaraparihāre sasmite sindhuvāre ।
+ahaha virahabhītyā kāminīṃ kaṇṭhalagnāṃ tyajati navavasante hanta kāpālikaḥ kaḥ ।।

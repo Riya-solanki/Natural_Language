@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 890 | label: grammar | g:0.573 m:0.5 ---
+
+rajanyām anyasyāṃ surataparivartād anucitaṃ madīyaṃ yad vāsaḥ katham api hṛtaṃ tena suhṛdā ।
+tvayā prītyānītaṃ svanivasanadānāt punar idaṃ kutas tvādṛg dūti skhalitaśamanopāyanipuṇā ।।

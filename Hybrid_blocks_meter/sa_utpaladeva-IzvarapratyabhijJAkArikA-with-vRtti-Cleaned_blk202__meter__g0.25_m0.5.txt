@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 202 | label: meter | g:0.25 m:0.5 ---
+
+deśakramo api bhāveṣu bhāti mātur mitātmanaḥ 
+svātmeva svātmanā pūrṇā bhāvā bhānty amitasya tu ।।

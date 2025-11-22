@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2212 | label: meter | g:0.25 m:0.555 ---
+
+dhanadhānyakaraṃ loke viṣārtibhayanāśanam ।
+parīkṣā pulakasyoktā rudhirākṣasya vai maṇeḥ ।
+sphaṭikasya vidrumasya ratnajñānāya śaunaka ! ।।

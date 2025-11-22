@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8426 | label: meter | g:0.25 m:0.5 ---
+
+citāmāropya taṃ pretaṃ hunedājyāhutiṃ tataḥ ।
+yamāya cāntakāyeti mṛtyave brahmaṇe tathā ।।

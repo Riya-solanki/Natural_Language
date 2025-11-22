@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3130 | label: meter | g:0.337 m:0.5 ---
+
+bhujaṅgame veśmani dṛṣṭidṛṣṭe vyādhau cikitsāvinivartite ca ।
+dehe ca bālyādivayo anvite ca kālā vṛto asau labhate dhṛtiṃ kaḥ ।।

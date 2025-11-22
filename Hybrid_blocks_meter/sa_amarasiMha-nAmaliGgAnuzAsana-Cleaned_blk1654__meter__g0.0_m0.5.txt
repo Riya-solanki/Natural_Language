@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 1654 | label: meter | g:0.0 m:0.5 ---
+
+sarvaṃ ca taijasaṃ lauhaṃ vikārastvayasaḥ kuśī

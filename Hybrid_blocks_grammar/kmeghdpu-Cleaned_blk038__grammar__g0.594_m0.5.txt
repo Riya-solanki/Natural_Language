@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 38 | label: grammar | g:0.594 m:0.5 ---
+
+tasmin kāle nayanasalilaṃ yoṣitāṃ khaṇḍitānāṃ śāntiṃ neyaṃ praṇayibhir ato vartma bhānos tyajāśu ।
+prāleyāsraṃ kamalavadanāt so api hartuṃ nalinyāḥ pratyāvṛttas tvayi kararudhi syād analpābhyasūyaḥ ।।

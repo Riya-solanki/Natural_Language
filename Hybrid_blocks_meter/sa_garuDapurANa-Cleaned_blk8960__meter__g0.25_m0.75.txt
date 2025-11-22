@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8960 | label: meter | g:0.25 m:0.75 ---
+
+vanasya tasya sarvasya ketubhūtamivocchritam ।
+taṃ mahātarumāsādya niṣasāda mahīpatiḥ ।।

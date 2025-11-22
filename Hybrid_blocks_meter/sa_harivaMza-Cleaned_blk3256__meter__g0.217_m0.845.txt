@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3256 | label: meter | g:0.217 m:0.845 ---
+
+mahī navatṛṇacchannā śakragopavibhūṣitā 
+yauvanastheva vanitā khaṃ dadhārārtavaṃ vapuḥ ।।

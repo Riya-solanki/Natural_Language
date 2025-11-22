@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 782 | label: meter | g:0.25 m:0.5 ---
+
+pracī sarasvatī puṇyā api duṣkṛtakarmaṇām ।
+trirātraṃ ye kariṣyanti prācīṃ prāpya sarasvatīm ।।

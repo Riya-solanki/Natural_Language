@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2909 | label: meter | g:0.295 m:0.565 ---
+
+evam akṣatacāritraiḥ śrīmadbhir uditoditaiḥ 
+dyaur api anugṛhītā syād bhavadbhiḥ kiṃ punar mahī ।।

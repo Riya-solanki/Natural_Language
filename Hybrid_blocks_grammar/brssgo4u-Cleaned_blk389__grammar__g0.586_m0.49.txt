@@ -1,0 +1,9 @@
+--- source: brssgo4u-Cleaned.txt | block: 389 | label: grammar | g:0.586 m:0.49 ---
+
+bhāvaṃ ajaiminirvikalpāmananāt' iti atra saśarīratvaṃ muktasya uktam ।
+tatra tridhābhāvādiṣu anekaśarīrasarge kiṃ nirātmakāni śarīrāṇi dāruyantrāṇi iva sṛjyante kiṃ vā sātmakāni asmadādi śarīravat iti bhavati vīkṣā ।
+tatra ca ātma manasoḥ bheda anupapatteḥ ekena śarīreṇa yogāt itarāṇi śarīrāṇi nirātmakāni iti ।
+evaṃ prāpte pratipadyate - pradīpavat āveśa iti ।
+yathā pradīpa ekaḥ anekapradīpabhāvam āpadyate vikāraśaktiyogāt ।
+evam ekaḥ api san vidvāna aiśvaryayogāt anekabhāvam āpadya sarvāṇi śarīrāṇi āviśati ।
+kutaḥ, tathā hi darśayati śāstram ekasya anekabhāvam - asa ekadhā bhavati tridhā bhavati pañcadhā saptadhā navadhā' ityādi ।

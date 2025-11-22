@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1373 | label: hybrid | g:0.458 m:0.5 ---
+
+yathā tatraiva pañcamāṅke śūrpaṇakhā -ajja ekka-mādua pekkha takkhaa-cūḍāmaṇī uppāḍido । baḍavāṇala-jālā-kalāpaaṃ ghuṃtalidaṃ । dasakaṇṭha-kaniṭṭha-bahiṇie accāhidaṃ । ity upakramya,

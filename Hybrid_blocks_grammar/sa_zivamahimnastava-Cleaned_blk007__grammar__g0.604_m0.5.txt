@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 7 | label: grammar | g:0.604 m:0.5 ---
+
+ajanmāno lokāḥ kim avayavavanto api jagatām adhiṣṭhātāraṃ kiṃ bhavavidhir anādṛtya bhavati ।
+anīśo vā kuryād bhuvanajanane kaḥ parikaro yato mandās tvāṃ praty amaravara saṃśerata ime ।।

@@ -1,0 +1,4 @@
+--- source: sa_bhallaTa-bhallaTazataka-Cleaned.txt | block: 82 | label: grammar | g:0.632 m:0.5 ---
+
+ye digdhveva kṛtā viṣeṇa kusṛtir yeṣāṃ kiyad bhaṇyate lokaṃ hantum anāgasaṃ dvirasanā randhreṣu ye jāgrati 
+vyālās te api dadhaty amī sadasator mūḍhā maṇīn mūrdhabhir naucityād guṇaśalināṃ kva cid api bhraṃśo asty alaṃ cintayā ।।

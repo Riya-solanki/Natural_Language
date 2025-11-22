@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5046 | label: meter | g:0.194 m:0.5 ---
+
+tasya mūlaṃ hi yuddhasya lokakṣayakarasya ha 
+rājasūyo mahāyajñaḥ kimarthaṃ na nivāritaḥ ।।

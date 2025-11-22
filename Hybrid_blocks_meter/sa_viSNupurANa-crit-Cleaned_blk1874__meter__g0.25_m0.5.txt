@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1874 | label: meter | g:0.25 m:0.5 ---
+
+samudrāḥ parvatāś caiva dvīpā varṣāṇi nimnagāḥ 
+saṃkṣepāt sarvam ākhyātaṃ kiṃ bhūyaḥ śrotum icchasi ।।

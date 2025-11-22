@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1893 | label: grammar | g:0.75 m:0.5 ---
+
+atha kadācitsa mahāsattvastasya vanasya paryante vicaran yatastatkāntāraṃ tato janaśabdamupaśuśrāva । tasya cintā prādurabhūt - kiṃ nu khalvidam? na tāvadanena pradeśena kaściddeśāntaragāmī mārgo asti । evaṃ mahatkāntāraṃ ca vyatītya mṛgayāpi na yujyate prāgeva mahāsamārambhaparikhedamasmatsayūthyagrahaṇam ।

@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 23 | label: grammar | g:0.583 m:0.5 ---
+
+prajānāthaṃ prasabham abhikaṃ svāṃ duhitaraṃ gataṃ rohidbhūtāṃ riramayiṣum ṛśyasya vapuṣā ।
+dhanuṣpāṇer yātaṃ divam api sapatrākṛtam amuṃ trasantaṃ te adyāpi tyajati na mṛgavyādharabhasaḥ ।।

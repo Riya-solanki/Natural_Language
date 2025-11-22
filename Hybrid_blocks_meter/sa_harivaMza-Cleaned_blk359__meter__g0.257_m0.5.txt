@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 359 | label: meter | g:0.257 m:0.5 ---
+
+manus tasyāḥ kṣamat tat tu yamas tasyā na cakṣame 
+tāṃ vai roṣāc ca bālyāc ca bhāvino arthasya vā balāt 
+padā saṃtarjayāmāsa saṃjñāṃ vaivasvato yamaḥ ।।

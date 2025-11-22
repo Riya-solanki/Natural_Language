@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 20 | label: hybrid | g:0.486 m:0.5 ---
+
+kirantīm aṅgebhyaḥ kiraṇa-nikurambā-mṛta-rasaṃ hṛdi tvām ādhatte hima-kara-śilā-mūrtim iva yaḥ
+sa sarpāṇāṃ darpaṃ śamayati śakuntādhipa iva jvara-pluṣṭān dṛṣṭyā sukhayati sudhā-dhāra-sirayā ।।

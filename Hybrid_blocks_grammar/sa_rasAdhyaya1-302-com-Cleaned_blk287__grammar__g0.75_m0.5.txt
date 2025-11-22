@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 287 | label: grammar | g:0.75 m:0.5 ---
+
+suniṣpannabījapūrasya vṛntam utpāṭya madhye utkīrya chidraṃ kṛtvā tato nirodhakaṃ rasaṃ kṣiptvopari lavaṇaṃ muktvā punastena vṛntena chādayitvā bījapūrakaṃ vastre baddhvā tribhāgena nimbukarasayuktakāñjikabhṛtasthālī madhye dolāyantreṇa pūrvoktena kāñjike bruḍantaṃ bījapūrakaṃ dhṛtvādho agnir jvālanīyo ahorātram ।।

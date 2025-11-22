@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 81 | label: grammar | g:0.75 m:0.496 ---
+
+yadi ca bhāvanaivaikā pratyayārthaḥ syāt karotibhāvayatī vā samastapratyayārthopādānasamarthau bhavetām, tataḥ kevalaprayogo apy āśaṅkyeta, na tu tad ubhayam apy astīti karotibhāvayatibhyāṃ kathite api bhāvanārthe kartṛsaṃkhyādipratyāyanārthaṃ punaḥ pratyaya uccāryate ।
+yas tu tatra bhāvanābhidhānāṃśaḥ sa prāptatvād anūdyate anyathā hi bhāvanaivaikā pratyayārthaḥ karotibhāvayatī vā kartṛsaṃkhyādīnām apy abhidhāyakāv iti bhrāntiḥ syāt ।

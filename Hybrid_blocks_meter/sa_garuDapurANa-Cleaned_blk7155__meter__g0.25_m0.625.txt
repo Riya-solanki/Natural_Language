@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7155 | label: meter | g:0.25 m:0.625 ---
+
+ayamātmā paraṃ jyotiścinnāmānandarūpakaḥ ।
+satyaṃ jñānamanataṃ hi tvamasīti śrutīritam ।।

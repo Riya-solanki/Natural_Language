@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8289 | label: hybrid | g:0.5 m:0.5 ---
+
+na jāne tasya tadvittaṃ prātaḥ kasya bhaviṣyati ।
+rāraṭīti dhanaṃ tasya ko me bhartā bhaviṣyati ।।

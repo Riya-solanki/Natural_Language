@@ -1,0 +1,3 @@
+--- source: brssgo1u-Cleaned.txt | block: 605 | label: grammar | g:0.562 m:0.5 ---
+
+ā samantātkāśate dīpyata iti svayañjyotiṣi brahmaṇyākāśaśabdasya vibhutvaguṇato vā prasiddhiḥ prayogaprācuryam ।।

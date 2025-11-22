@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 4 | label: meter | g:0.25 m:1.0 ---
+
+niyatikṛtaniyamarahitāṃ hlādaikamayīmananyaparatantrām ।
+navarasarucirāṃ nirmitimādadhatī bhāratī kaverjayati ।।

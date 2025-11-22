@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 1729 | label: hybrid | g:0.361 m:0.5 ---
+
+yathā anargha-rāghave, daśarathaḥ -bhagavan viśvāmitra !
+kaccit kāntāra-bhājāṃ bhavati paribhavaḥ ko' pi śauvāpado vā
+pratyūhena kratūnāṃ na khalu makha-bhujo bhuñjate vā havīṃṣi ।
+kartuṃ vā kaccid antar vasati vasumatī-dakṣiṇaḥ sapta-tantur
+yat samprāpto' si kiṃ vā raghu-kula-tapasām īdṛśo' yaṃ vivartaḥ ।।

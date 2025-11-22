@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9030 | label: meter | g:0.25 m:0.75 ---
+
+kiṃ tatpradīyate tasya piṇḍadānādanantaram ।
+asthisañcayanaṃ caiva śayyādānaṃ kimarthakam ।।

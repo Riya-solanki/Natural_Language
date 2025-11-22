@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 45 | label: grammar | g:0.552 m:0.5 ---
+
+uccais tiraḥkṛtam idam bhuvanaṃ samastaṃ yogaprabhāvajanitena balena yena ।
+tasya prajāpatisutasya hṛtaḥ prasahya garvas tvayeti bata kasya na vismayo atra ।।

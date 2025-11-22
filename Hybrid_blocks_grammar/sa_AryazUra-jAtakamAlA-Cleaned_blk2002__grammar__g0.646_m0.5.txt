@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2002 | label: grammar | g:0.646 m:0.5 ---
+
+samarthamarthaḥ paramaṃ hi sādhanaṃ na tadvirodhena yataścaretpriyam । narādhipaṃ śrīrna hi kośasaṃpadā vivarjitaṃ veśavadhūrivekṣate ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 857 | label: hybrid | g:0.542 m:0.5 ---
+
+na yasya buddhiḥ pratihanyate kva cin na ca praheyāvayavo avaśiṣyate ।
+na cāsti saṅgo jagadarthasādhane sa puṇyarāśir na kathaṃkathāntaśaḥ ।।

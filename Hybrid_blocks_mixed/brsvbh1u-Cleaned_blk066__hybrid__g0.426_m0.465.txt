@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 66 | label: hybrid | g:0.426 m:0.465 ---
+
+-nanu avamato bhāso avabhāsa iti vyutpādayam kathamudāhṛtasthalādāvativyāptimāheti vadantaṃ pratyāha-avabhāsapadaṃ ceti ।
+etena pratyabhijñāyāṃ nātivyāptiriti keṣāñcinmataṃ parāstam ।
+na ca pūrvadṛṣṭapadenānirvācyānṛtamuktamityuktatvānna tatrātivyāptikathanaṃ saṃgacchata iti vācyam, tādṛśārthasya smṛtirupapadenābhidhīyamānatvāditi bodhyam ।

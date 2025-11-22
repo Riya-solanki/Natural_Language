@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 440 | label: meter | g:0.194 m:0.5 ---
+
+karma dharmādikaṃ tacca guṇatvena matau sthitam 
+guṇino na guṇo apaiti prakṛtāvucyate katham ।।

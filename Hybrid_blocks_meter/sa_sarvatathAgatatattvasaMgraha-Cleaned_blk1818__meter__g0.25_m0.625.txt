@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1818 | label: meter | g:0.25 m:0.625 ---
+
+dharmatatvārtha saddharma śuddhadharma sudharmakṛt ।
+mahādharma sudharmāgrya dharmacakra namo astu te ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 745 | label: meter | g:0.194 m:1.0 ---
+
+sarvātman sarvabhūteśa sarvasattvasamudbhava 
+sarvabhūto bhavān vetti sarvasattvamanoratham ।।

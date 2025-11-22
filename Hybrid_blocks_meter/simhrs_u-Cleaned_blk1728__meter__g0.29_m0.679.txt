@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1728 | label: meter | g:0.29 m:0.679 ---
+
+atha madhura-bhāṣaṇam-
+yat prasannena manasā pūjyaṃ pūjayitur vacaḥ । 
+stuti-prakāśanaṃ tat tu jñeyaṃ madhura-bhāṣaṇam ।।

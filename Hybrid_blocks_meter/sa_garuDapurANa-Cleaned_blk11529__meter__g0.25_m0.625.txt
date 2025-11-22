@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11529 | label: meter | g:0.25 m:0.625 ---
+
+viṣṇave śrīdharāyātha namaskuryācca bhāmiti ।
+uttare tu mahākanye hṛṣīkeśāya vai namaḥ ।।

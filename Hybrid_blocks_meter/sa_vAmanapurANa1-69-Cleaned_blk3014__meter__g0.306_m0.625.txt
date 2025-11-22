@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3014 | label: meter | g:0.306 m:0.625 ---
+
+evaṃ hi saptarūpo asau kathyate bhairavo mune ।
+vighnarājo aṣṭamaḥ prokto bhairavāṣṭakamucyate ।।

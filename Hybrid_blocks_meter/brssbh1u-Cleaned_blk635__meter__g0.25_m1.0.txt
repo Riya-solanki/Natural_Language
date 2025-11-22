@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 635 | label: meter | g:0.25 m:1.0 ---
+
+brahmaparā vedapāragāḥ ।
+paraṃ nirguṇaṃ brahma ।
+upāsannā upāgatāḥ ।

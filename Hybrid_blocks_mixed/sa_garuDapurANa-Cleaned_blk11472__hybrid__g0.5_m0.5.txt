@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11472 | label: hybrid | g:0.5 m:0.5 ---
+
+nārāḥ proktā āśrayatvācca teṣāmatopi nārāyaṇa eva vīndra ।
+muktāśca ye tu prapadaṃnu jagmuraṇḍodakaṃ yasya kaṭākṣamātrāt ।।

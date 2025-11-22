@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1869 | label: meter | g:0.194 m:0.5 ---
+
+nāsti kiṃcid bhayaṃ viṣṇo surāṇām asurāntaka 
+yeṣāṃ bhavān abhayadaḥ karṇadhāro raṇe raṇe ।।

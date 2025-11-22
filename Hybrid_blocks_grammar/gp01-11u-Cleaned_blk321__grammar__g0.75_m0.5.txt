@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 321 | label: grammar | g:0.75 m:0.5 ---
+
+[] tatas tu tāṃ sarva-stutāṃ tau kumāra-santau sukha-sāraṃ sambhavantau vividham evaṃ vicāritavantau, "kim iyam asya gokula-kula-candrasya kṣīra-nīradhi-gambhīra-velā? kiṃ vā pūrṇa-tad-udayākara-rākā-sākāratayā labdha-mad-vidha-dṛṣṭi-melā? kiṃ vā prācī dig evam ānandanayā racita-tanayā? vastutas tu tanaya-viṣaya-dayā kila sphurad evam udayatayā śītalī-kṛta-loka-samudayā" iti ।

@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 514 | label: grammar | g:0.573 m:0.5 ---
+
+ucyate- jñātṛviśayastāvadahaṃpratyaya ityavivādam, yo hi parāmṛśati sa svātmānamahamiti parāmṛśati parānidamiti ।
+tena niḥsaṃśayamasya jñātṛgocaratvaṃ śarīrasya ca jñātṛtvaṃ nirākṛtaṃ, ato atyantasaṃsṛṣṭayorekatvabhrāntyā sāmānādhikaraṇyapratītiruṣṇatoyapratītivat bhāsvarāyaḥpiṇḍapratītivacca ।।

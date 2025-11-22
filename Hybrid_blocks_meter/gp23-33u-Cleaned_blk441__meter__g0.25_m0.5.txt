@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 441 | label: meter | g:0.25 m:0.5 ---
+
+[] madhumaṅgala uvāca-ko vātra mama lābhaḥ ।

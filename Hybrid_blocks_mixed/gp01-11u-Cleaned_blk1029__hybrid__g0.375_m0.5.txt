@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1029 | label: hybrid | g:0.375 m:0.5 ---
+
+[] tad evaṃ dina-katipaye parama-ramaṇena gamita-samaye sa tu nṛśaṃsaḥ kaṃsa-nāmā yathārha-varṇa-kṛta-varṇanataḥ samākīrṇa-tat-tad-vṛndāvanāgamanādi-vṛttāntaḥ svāntaś cintayāmāsa-

@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 64 | label: grammar | g:0.573 m:0.5 ---
+
+yenāvṛtaḥ paśur ayaṃ hṛtabodhaśaktis tattvaṃ na vetti jagate hitam ātmane vā ।
+chindhi prasahya bhagavan mama tat samastam ajñānajaṃ timiram astu mahāprakāśaḥ ।।

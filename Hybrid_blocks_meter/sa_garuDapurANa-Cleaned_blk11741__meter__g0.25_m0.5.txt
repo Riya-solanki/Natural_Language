@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11741 | label: meter | g:0.25 m:0.5 ---
+
+yāvacchubhrodakaṃ naiva tāvatpāpaṃ na naśyati ।
+śuddhodake samāyāte pāpaṃ naṣṭamiti dhruvam ।।

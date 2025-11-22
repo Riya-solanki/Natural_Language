@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1879 | label: hybrid | g:0.5 m:0.5 ---
+
+nepathye-tā ettha saṃtthara-tthido ṇimīlida-ṇaaṇo jebba suppabhādaṃ paṭhissaṃ ।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10264 | label: meter | g:0.306 m:0.5 ---
+
+parā ṇūnāmekadeśe khagendra tanno saṃti prāṇināṃ rāśayaśca ।
+pratyekaśa saṃti rūpā hareśca hyataśca tatparamāṇoraṇīyaḥ ।।

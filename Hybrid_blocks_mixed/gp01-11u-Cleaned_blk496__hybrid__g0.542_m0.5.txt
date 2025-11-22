@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 496 | label: hybrid | g:0.542 m:0.5 ---
+
+[] tataḥ śrīmān vrajasya rājā ruci-dānāni racayan bandhu-vṛnda-sindhuṃ pūrayāmāsa ।

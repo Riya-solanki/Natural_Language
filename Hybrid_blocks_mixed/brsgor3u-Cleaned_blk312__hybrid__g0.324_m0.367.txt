@@ -1,0 +1,5 @@
+--- source: brsgor3u-Cleaned.txt | block: 312 | label: hybrid | g:0.324 m:0.367 ---
+
+samanvārambhavacanasya mumukṣuviṣayatvamaṅgīkṛtya vidyā anyaṃ mumukṣuṃ muktatvenānvārabhata iti vibhāga uktaḥ sūtrakṛtāḥ vastutastu tannāstītyāha-nacedaṃ samanvārambhavacanamiti ।
+tatra saṃsāriviṣaye taṃ vidyetyādivākye yathāprāptānuvādini vidyādipadārthamāha-tatreti ।
+vihitodgīthādividyā pratiṣiddhā nagnistrīdhyānādirūpā ।।

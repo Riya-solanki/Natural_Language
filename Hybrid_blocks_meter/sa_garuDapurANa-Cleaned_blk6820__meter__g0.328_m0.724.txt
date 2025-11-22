@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6820 | label: meter | g:0.328 m:0.724 ---
+
+śrīgaruḍamahāpurāṇam- 
+sūta uvāca ।
+ālokya sarvaśāstrāṇi vicārya ca punaḥ punaḥ ।
+idamekaṃ suniṣpannaṃ dhyeyo nārāyaṇaḥ sadā ।।

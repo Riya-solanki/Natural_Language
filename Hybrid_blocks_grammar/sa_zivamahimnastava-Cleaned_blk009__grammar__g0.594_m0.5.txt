@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 9 | label: grammar | g:0.594 m:0.5 ---
+
+mahokṣaḥ khaṭvāṅgaṃ paraśur ajinaṃ bhasma phaṇinaḥ kapālaṃ cetīyat tava varada tantropakaraṇam ।
+surās tāṃ tām ṛddhiṃ dadhati tu bhavadbhrūpraṇihitāṃ na hi svātmārāmaṃ viṣayamṛgatṛṣṇā bhramayati ।।

@@ -1,0 +1,6 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1905 | label: meter | g:0.25 m:1.0 ---
+
+kḷptaratnasamākīrṇāṃ sarvartukusumotkaṭām 
+maṇipravālasopānāṃ vaidūryamaṇiśobhitām । 
+muktājālasamākīrṇāṃ kiṃkiṇīśataśobhitām । 
+devamāyādharāṃ divyāṃ nirmitāṃ viśvakarmaṇā ।।

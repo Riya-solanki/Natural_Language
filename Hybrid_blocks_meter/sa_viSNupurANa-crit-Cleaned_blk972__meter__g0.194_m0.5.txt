@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 972 | label: meter | g:0.194 m:0.5 ---
+
+iyaṃ ca vartate saṃdhyā pariṇāmam ahar gatam 
+avahāsaḥ kimartho ayaṃ sadbhāvaḥ kathyatāṃ mama ।।

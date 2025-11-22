@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9685 | label: meter | g:0.25 m:0.625 ---
+
+vinyasya tāni vṛntāni aṅgeṣveṣu pṛthakpṛthak ।
+catvāriṃśacchirodeśe grīvāyāṃ daśa vinyaset ।।

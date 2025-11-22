@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 529 | label: meter | g:0.056 m:1.0 ---
+
+{jaṅghākāṇḍorunālo nakhakiraṇalasatjesarālīkarālaḥ
+pratyagrālaktakābhāprasarakisakayo mañjumañjīrabhṛṅga ।
+bharturnṛttānukāre jayati nijatanusvacchalāvaṇyavāpī-
+saṃbhūtāmbhojaśobhāṃ vidadhadabhibavo daṇḍapādo bhavānyāḥ ।।}

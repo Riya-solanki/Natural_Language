@@ -1,0 +1,6 @@
+--- source: nysvbh_u-Cleaned.txt | block: 681 | label: meter | g:0.056 m:0.854 ---
+
+kṛṣṇasāraṃ bhautikaṃ tasminn anupahate rūpopalabdhiḥ upahate cānupalabdhiriti,
+vyatiricya kṛṣṇasāramavasthitasya viṣayasyopalambho na kṛṣṇasāraprāptasya,
+na cāprāpyakāritvamindriyāṇām, tadidamabhautikatve vibhutvāt saṃbhavati,
+evamubhayadharmopalabdheḥ saṃśayaḥ ।।

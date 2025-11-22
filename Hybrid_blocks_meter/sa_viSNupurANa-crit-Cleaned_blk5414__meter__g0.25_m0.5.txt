@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5414 | label: meter | g:0.25 m:0.5 ---
+
+bāṇasya mantrī kumbhāṇḍaḥ citralekhā ca tatsutā 
+tasyāḥ sakhy abhavat sā ca prāha ko ayaṃ tvayocyate ।।

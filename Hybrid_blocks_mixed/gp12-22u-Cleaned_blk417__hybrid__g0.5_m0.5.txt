@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 417 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evaṃ sampṛcchya pracchannāyāṃ yamunāyāṃ vṛndā-madhumaṅgala-pūrṇa-pārśvā pūrṇimā harer abhyarṇam ājagāma । āgamya ca virahatāpa-nirvāpaṇāya kvacid ekānte nitānta-kānta-candrakānta-śilā-madhyam adhyāsīnaṃ parama-dhyānavantaṃ tam antar-manasaṃ santaṃ nidhyātavatī । tasmāt pracchannā cedaṃ sa-gadgadam ākalitavatī-

@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9299 | label: meter | g:0.332 m:0.765 ---
+
+śrīgaruḍamahāpurāṇam- 
+garuḍa uvāca ।
+utpattilakṣaṇaṃ jantoḥ kathitaṃ mayi puttrake ।
+yamalokaḥ kiyanmātrastrailokye sacarācare ।
+vistaraṃ tasya me brūhi adhvā caiva kiyān smṛtaḥ ।।

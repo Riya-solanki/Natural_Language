@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1517 | label: meter | g:0.25 m:0.625 ---
+
+śilātha sā durbalavihvalena kāryātirāgāttvaritena tena ।
+atyantanidropagamāya muktā nidrāpravāsāya kaperbabhūva ।।

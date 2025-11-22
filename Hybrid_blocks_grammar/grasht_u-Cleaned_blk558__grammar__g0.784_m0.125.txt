@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 558 | label: grammar | g:0.784 m:0.125 ---
+
+abhrasatvayogamāha ghanasatvam ityādi ।।
+khalu niścaye vākyālaṅkāre vā ghanasatvam abhrasāraṃ raviṇā tāmreṇa saha rasāyane jarāvyādhināśane dvaṃdvakaṃ ghanasatvatāmraṃ yojyaṃ punaḥ raktagaṇapātabhāvitagirijatumākṣikagairikadaradaiḥ raktagaṇasya yaḥ pātaḥ pātanaṃ nikṣepo vā tena bhāvitāni gharmapuṭitāni girijatumākṣikagairikadaradāni girijatu śilājatu mākṣikaṃ pratītaṃ daradaṃ hiṅgulaṃ etairbījaśeṣaṃ kuryād ityāgāmiślokājjñeyam ।।

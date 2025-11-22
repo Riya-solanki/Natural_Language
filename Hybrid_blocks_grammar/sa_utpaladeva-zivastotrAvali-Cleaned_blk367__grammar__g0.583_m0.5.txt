@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 367 | label: grammar | g:0.583 m:0.5 ---
+
+yasyānārambhaparyantau na ca kālakramaḥ prabho pūjātmāsau kriyā tasyāḥ kartāras tvajjuṣaḥ param ।।

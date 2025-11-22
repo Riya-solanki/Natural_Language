@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4218 | label: meter | g:0.25 m:0.75 ---
+
+caturthako malairmedomajjāsthyanyatare sthitaḥ ।
+majjāstha eva hyaparaḥ prabhāvamanudarśayet ।।

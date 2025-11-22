@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4875 | label: meter | g:0.235 m:0.644 ---
+
+rakṣitavyam athānyonyam asmin ghore mahāmṛdhe 
+evaṃ bruvantas te anyonyam adhirūḍhāḥ khagottamam ।। 
+tato yuddhaṃ mahac cakre lāṅgalenātha lāṅgalī । sahasram ayutaṃ rāmo jaghāna ditinandanān । 
+giriśṛṅganibhair yuddhe gadāmusalalāṅgalaiḥ 
+yudhyato rauhiṇeyasya raudraṃ rūpam abhūt tadā 
+yugānte sarvabhūtāni kālasyeva didhakṣataḥ ।।

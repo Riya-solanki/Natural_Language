@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 733 | label: meter | g:0.306 m:0.5 ---
+
+ajitātmanām anupatanti buddhayo vividhān bahirmukhamanonibandhanān ।
+adhicittayogaviduṣāṃ tu yogināṃ atimānuṣe carati gocare matiḥ ।।

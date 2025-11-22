@@ -1,0 +1,5 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 688 | label: meter | g:0.253 m:0.729 ---
+
+atra śuddhastācvikavirodho yathā
+dhanapradānaṃ dvaviṇārjanaṃ ca sāmrājyakṣmīrbhuvi bhāratī ca ।
+dhīvṛddhasevā navayauvanaṃ ca śrīsiṅgabhūpe vilasanti nityam ।।

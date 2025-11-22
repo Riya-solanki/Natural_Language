@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1398 | label: meter | g:0.25 m:0.5 ---
+
+tasmālliṅgaṃ na nindeta yāvat tāvat tanau sthitam 
+sarveṣāṃ vidyate hy etat kalpanā hy atra kāraṇam ।।

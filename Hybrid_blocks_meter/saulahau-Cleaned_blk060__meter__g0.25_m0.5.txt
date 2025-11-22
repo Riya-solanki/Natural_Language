@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 60 | label: meter | g:0.25 m:0.5 ---
+
+sarasvatyāḥ sūtīr a-mṛta-laharī-kauśala-harīḥ pibantyāḥ śarvāṇi śravaṇa-culukābhyām a-viratam
+camat-kāra-ślāghā-calita-śirasaḥ kuṇḍala-gaṇo jhaṇat-kārais tāraiḥ prativacanam ācaṣṭae iva te ।।

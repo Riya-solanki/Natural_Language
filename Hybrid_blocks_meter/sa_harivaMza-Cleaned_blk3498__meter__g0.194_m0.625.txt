@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3498 | label: meter | g:0.194 m:0.625 ---
+
+gadāparighayuddheṣu sarvāstreṣu ca tāv ubhau 
+acirān mukhyatāṃ prāptau sarvaloke dhanurbhṛtām ।।

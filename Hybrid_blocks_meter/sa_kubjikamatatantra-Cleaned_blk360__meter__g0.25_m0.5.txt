@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 360 | label: meter | g:0.25 m:0.5 ---
+
+kulamārgagatā deva yathā bhavati tat katham 
+kathaṃ tu pallavo yoga ādi ṣaṭsu prakārataḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2329 | label: meter | g:0.25 m:0.5 ---
+
+aho bata na śobhetāṃ vimūlāv arjunāv imau 
+imau nipatitau bhūmau vitoyau jaladāv iva ।। 
+yadīmau ghoṣaracitau ghoṣakalyāṇakāriṇau । 
+nandagopa prasannau te drumāv evaṃgatāv api 
+yatra te dārako mukto vimūlābhyām avikṣataḥ ।।

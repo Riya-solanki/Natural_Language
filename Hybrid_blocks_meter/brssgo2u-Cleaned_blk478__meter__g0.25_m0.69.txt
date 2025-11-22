@@ -1,0 +1,10 @@
+--- source: brssgo2u-Cleaned.txt | block: 478 | label: meter | g:0.25 m:0.69 ---
+
+īśvarapreritapradhānakāryaṃ jagaditi siddhaṃ cet saṃbandhakalpanā syāt ।
+taccādyāpyasiddhamityarthaḥ ।
+māyābrahmaṇostvanirvācyatādātmyasaṃbandhaḥ, adevātmaśaktim'iti śruteḥ ।
+kiñca vedasyāpūrvārthatvānna lokadṛṣṭamṛtkulālasaṃbandho vaidikenānusartavyaḥ ।
+ānumānikena tvanusartavya iti viśeṣamāha-apiceti ।
+sarvajñasyāgamaprāmāṇyasya ca jñaptāvanyonyāśrayaḥ, anumānātsarvajñasiddhernirastatvāt ।
+na hyamanaskasya jñānaṃ saṃbhavati, jñānaṃ manojanyamiti vyāptivirodhānnityajñānakalpanānavakāśāditi bhāvaḥ ।
+pradhānavatparamāṇūnāmapi niravayaveśvareṇa saṃyogādyasattvātpreryatvāyogaḥ, prerakatve ceśvarasya doṣavattvamityāha-evamanyāsvapīti ।।

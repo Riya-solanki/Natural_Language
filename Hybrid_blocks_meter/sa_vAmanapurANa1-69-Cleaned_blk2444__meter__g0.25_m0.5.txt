@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2444 | label: meter | g:0.25 m:0.5 ---
+
+tāśca sarvāllatāpāśān dṛṣṭvān sa samantataḥ ।
+dṛṣṭvā sa muniputraṃ taṃ svajaṭāsaṃyataṃ vaṭe ।।

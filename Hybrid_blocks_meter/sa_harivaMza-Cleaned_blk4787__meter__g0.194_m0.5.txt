@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4787 | label: meter | g:0.194 m:0.5 ---
+
+śokasāgaram akṣobhyaṃ sarve te jñātayo gatāḥ 
+tān majjamānān ekas tvaṃ samuddhara mahābhuja ।।

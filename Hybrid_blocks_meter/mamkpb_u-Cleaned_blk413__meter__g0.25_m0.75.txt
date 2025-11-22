@@ -1,0 +1,3 @@
+--- source: mamkpb_u-Cleaned.txt | block: 413 | label: meter | g:0.25 m:0.75 ---
+
+uttarottaramutkarṣo bhavetsāraḥ parāvadhiḥ ।।

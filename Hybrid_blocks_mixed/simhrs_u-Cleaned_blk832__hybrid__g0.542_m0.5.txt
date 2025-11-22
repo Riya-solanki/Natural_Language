@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 832 | label: hybrid | g:0.542 m:0.5 ---
+
+atra paśupati-citta-rāgaḥ satī-saṅgamābhāva-niścayenāpi nāpaiti । viṣayābhāvān na prakāśate ca ।

@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 88 | label: grammar | g:0.625 m:0.5 ---
+
+avadhiḥ mahāyānasambhāramārgamārabhya antimakṣaṇasthabodhisattvāvasthāparyantamasya sīmā bhavati । viśeṣataśca upariṣṭāt sākṣānnirdiṣṭaprayogamārgīyoṣmāvasthātaḥ prārabhya antimakṣaṇasthabodhisattvāvasthāparyantamasya vyāptirbhavatīti jñeyam ।

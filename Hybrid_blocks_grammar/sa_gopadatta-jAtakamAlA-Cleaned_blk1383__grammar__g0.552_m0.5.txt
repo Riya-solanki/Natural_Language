@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1383 | label: grammar | g:0.552 m:0.5 ---
+
+svajaneṣu na tasya sānukampaṃ na mano dakṣiṇa eva sa prakṛtyā ।
+avagamya garīyasīṃ tathāpi prakṛtiṃ śvā sa tathā cakāra sādhuḥ ।।

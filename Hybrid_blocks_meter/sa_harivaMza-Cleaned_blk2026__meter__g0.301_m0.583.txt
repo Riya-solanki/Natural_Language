@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2026 | label: meter | g:0.301 m:0.583 ---
+
+śaṃkarasya gate bhāge viśveṣāṃ ca divaukasām 
+gandharvoragayakṣāṇāṃ bhāgāṃśeṣu gateṣv atha ।। 
+bhāge avatīrṇe mitrasya yamasyāṃśe tathaiva ca । varuṇasya gate tv aṃśe pṛthivīṃ janamejaya । 
+bhāgeṣv eteṣu gaganād avatīrṇeṣu medinīm 
+tiṣṭhan nārāyaṇasyāṃśe nāradaḥ pratyadṛṣyata ।।

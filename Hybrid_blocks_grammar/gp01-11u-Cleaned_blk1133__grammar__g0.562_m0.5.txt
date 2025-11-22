@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1133 | label: grammar | g:0.562 m:0.5 ---
+
+[] tad evaṃ vraja-mahi-mahima-kara-kara-nikara-jaḍī-bhūtā vayaṃ nopapatti-pratyāsattiṃ labhāmaha ity alam ativistareṇa ।

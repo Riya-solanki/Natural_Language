@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 507 | label: grammar | g:0.625 m:0.5 ---
+
+oṃ sarvatathāgatasiddhi vajrasamaya tiṣṭha eṣa tvā dhārayāmi vajrasatva hi hi hi hi hūṃ ।।

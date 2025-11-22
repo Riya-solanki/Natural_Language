@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1312 | label: meter | g:0.306 m:0.5 ---
+
+ā paritoṣād viduṣāṃ na sādhu manye prayogavijñānam ।
+balavad api śikṣitānām ātmany apratyayaṃ cetaḥ ।।

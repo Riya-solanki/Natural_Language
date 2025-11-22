@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 751 | label: meter | g:0.07 m:0.96 ---
+
+{adyāpi stanaśailadurgaviṣame sīmantinīnāṃ hṛdi
+sthātuṃ vāñchati māna eṣa dhigiti krodhādivālohitaḥ ।
+prodyaddūrataraprasāritakaraḥ karṣatyasau tatkṣaṇāt
+phullatkairavakośaniḥsaradaliśreṇīkṛpāṇaṃ śaśī ।।}

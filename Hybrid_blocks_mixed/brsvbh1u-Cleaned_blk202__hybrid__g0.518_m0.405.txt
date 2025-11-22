@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 202 | label: hybrid | g:0.518 m:0.405 ---
+
+vā bhāvanādheyasya sākṣātkārasya pratibhāpratyayavatsaṃśayākrāntatayā prāmāṇyāyogāt, tadvidhasya tatsāmagrīkasyaiva bahulaṃ vyabhicāropalabdheḥ ।
+na khalvanumānāvibuddhaṃ vahniṃ bhāvayataḥ śītāturasya śiśirabharamantharatarakāyakāṇḍasya sphurajjvālājaṭilānalasākṣātkāraḥ pramāṇāntareṇa saṃvādyate, visaṃvādasya bahulamupalambhāt, tasmāt prāmāṇikasākṣātkāralakṣaṇakāryābhāvānnopāsanāyā utpādye karmāpekṣā ।
+na ca kūṭastha

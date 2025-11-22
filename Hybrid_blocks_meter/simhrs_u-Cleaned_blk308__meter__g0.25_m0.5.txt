@@ -1,0 +1,4 @@
+--- source: simhrs_u-Cleaned.txt | block: 308 | label: meter | g:0.25 m:0.5 ---
+
+atra gāmbhīrya-dhairye dve cittaje gātrajāḥ pare ।
+eke sādhāraṇān etān menire citta-gātrayoḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4493 | label: meter | g:0.346 m:0.747 ---
+
+jīrṇejīryati cādhmānaṃ bhukte svāsthyaṃ samaśnute ।
+vātāddhṛdrogagulmārśaḥplīhapāṇḍuraśaṅkitāḥ ।।

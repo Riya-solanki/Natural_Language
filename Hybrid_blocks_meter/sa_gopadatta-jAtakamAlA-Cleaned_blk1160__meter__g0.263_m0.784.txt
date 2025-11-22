@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1160 | label: meter | g:0.263 m:0.784 ---
+
+pariṇativirasebhyaḥ svapnamāyopamebhyaḥ
+surabhavanasukhebhyaḥ kā spṛhā śakra tebhyaḥ ।
+kupitabhujagajihvācañcalaṃ jīvalokaṃ
+sakalam iti viditvā mokṣakāmāḥ sthitāḥ smaḥ ।।

@@ -1,0 +1,4 @@
+--- source: utipk_pu-Cleaned.txt | block: 2 | label: meter | g:0.351 m:0.565 ---
+
+kathaṃ cid āsādya maheśvarasya dāsyaṃ janasyāpy upakāram icchan ।
+samastasaṃpatsamavāptihetuṃ tatpratyabhijñām upapādayāmi ।।

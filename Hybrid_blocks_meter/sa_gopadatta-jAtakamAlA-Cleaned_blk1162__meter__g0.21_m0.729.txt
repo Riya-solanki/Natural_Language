@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1162 | label: meter | g:0.21 m:0.729 ---
+
+prakṛtibahuladuḥkhopaplute jīvaloke
+bhavati yad api saukhyaṃ kākatālīyam asmin ।
+vrajati tad api nāśaṃ duḥkhajālābhibhūtaṃ
+salilam iva nadīnāṃ prāpya sāmudram ambhaḥ ।।

@@ -1,0 +1,5 @@
+--- source: gp23-33u-Cleaned.txt | block: 37 | label: grammar | g:0.535 m:0.046 ---
+
+rayāṇe vartate cittaṃṇrtyaty akṣīca dakṣiṇam ।
+tasmād vṛttaṃ caṇrtyaṃ ca kānt abhirbhavitāmama ।। [anuṣṭubh]
+[] tad etad uṭṭaṅkya niṣṭaṅkya ca praṇaya-paṇa-santuṣṭaṃ dāmādi-kumāra-catuṣṭayaṃ saṅgataḥ prasajya, tad-dvārā nidrā-vyājād anyān dvāra-pālakatayā tatraiva saṃvalayya, nibhṛta-kṛta-pratīhārataś caraṇa-vihāratas tām eva haritaṃ harir muralī-dhara-karatayānusaran dina-kara-tanayā-tīram anvatīrṇavān । āvatīrya ca vicāritavān-

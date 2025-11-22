@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6476 | label: meter | g:0.25 m:0.5 ---
+
+uttare śikhare jāte bhūmyāṃ parvatavāsinī ।
+brahmaṇā samanujñātā gaccha devi ! yathāsukham ।।

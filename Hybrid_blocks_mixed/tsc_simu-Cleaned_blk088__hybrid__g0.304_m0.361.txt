@@ -1,0 +1,5 @@
+--- source: tsc_simu-Cleaned.txt | block: 88 | label: hybrid | g:0.304 m:0.361 ---
+
+tadevaṃ saṃkṣepataścaturviṃśatitattvāni teṣāṃ sṛṣṭikṣayaṃ prayojanaṃ coktam ।
+tatra yadyasmājjāyate tasya tadā a; apūraṇenaiva sthitiḥ tatastasya saṃhāro api tatraiva bhavati ।
+tathā ca bhārate ।

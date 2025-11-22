@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 229 | label: meter | g:0.322 m:0.707 ---
+
+api ca vedāntānāṃ vedatvācchāstratvaprasiddhirasti ।
+pravṛttinivṛttiparāṇāṃ ca padasaṃdarbhāṇāṃ śāstratvam ।
+yathāhuḥ-

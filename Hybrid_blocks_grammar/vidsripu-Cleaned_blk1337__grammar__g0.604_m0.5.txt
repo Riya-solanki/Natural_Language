@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1337 | label: grammar | g:0.604 m:0.5 ---
+
+pādāhato atha dhṛtadaṇḍavighaṭṭito vā yaṃ daṃṣṭrayā spṛśati taṃ kila hanti sarpaḥ ।
+ko apy anya eṣa piśuno atra bhujaṅgadharmā karṇe paraṃ spṛśati hanty aparaṃ samūlam ।।

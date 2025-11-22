@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2048 | label: meter | g:0.326 m:0.5 ---
+
+anye na rā madvaśagā bhavanti dainyārpaṇāttrāsaviluptadhairyaḥ ।
+saṃtyajyase tvaṃ tu na dhairyalakṣmyā manye na te mṛtyubhayaṃ narendra ।।

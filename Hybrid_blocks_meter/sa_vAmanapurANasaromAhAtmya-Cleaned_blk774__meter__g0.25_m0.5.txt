@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 774 | label: meter | g:0.25 m:0.5 ---
+
+te stuvanto mahādevaṃ nandinaṃ gaṇanāyakam ।
+tataḥ prasanno nandīśaḥ kathayāmāsa ceṣṭitam ।।

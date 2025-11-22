@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 107 | label: grammar | g:0.653 m:0.5 ---
+
+ataḥ agnihotrādeḥ nityātkarmaṇaḥ anyāpi hi asti sādhukṛtyā yā phalam abhisaṃdhāya kriyate tasyā eṣa viniyoga ukta ekeṣāṃ śākhinām asuhṛdaḥ sādhukṛtyāmupayanti' iti ।
+tasyā eva ca idam aghavat aśleṣavināśanirūpaṇam itarasya api evam aśleṣa iti ।
+tathā jātīyakasya kāmyasya karmaṇo vidyāṃ prati anupakārakatve saṃpratipattiḥ ubhayoḥ api jaiminibādarāyaṇayoḥ ācāryayoḥ ।।

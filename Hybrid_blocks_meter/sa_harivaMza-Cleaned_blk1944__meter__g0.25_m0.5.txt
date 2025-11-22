@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1944 | label: meter | g:0.25 m:0.5 ---
+
+bahavaḥ kṣatriyāḥ śūrā māṃ jitvā divam āśritāḥ 
+te sma kālavaśaṃ prāpya mayy eva pralayaṃ gatāḥ ।।

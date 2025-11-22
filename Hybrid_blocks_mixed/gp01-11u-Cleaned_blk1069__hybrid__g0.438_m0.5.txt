@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1069 | label: hybrid | g:0.438 m:0.5 ---
+
+[] tad evaṃ prapañce' vatīrṇānām api śrīman-nandādīnāṃ tad-varṇanānandād adīnānāṃ prapañca-dharmeṇa saṅkīrṇatāṃ na varṇayāmāsuḥ । ūcuś ca śrī-bādarāyaṇi-caraṇāḥ-

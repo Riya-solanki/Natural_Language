@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 88 | label: meter | g:0.056 m:0.521 ---
+
+kadācid dhārābhir vahati hari-ratna-drava-nibhā
+kadācit stabdhāṅgī sphurati hari-ratna-kṣitir iva ।
+kramād veṇau tasmin na nadati nadaty arka-tanayā
+jalasthalyoḥ śarma prasavati hareḥ sevana-vidhau ।। [śikhariṇī]

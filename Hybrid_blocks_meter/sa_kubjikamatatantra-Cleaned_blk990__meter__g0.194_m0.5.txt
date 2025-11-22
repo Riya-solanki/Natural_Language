@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 990 | label: meter | g:0.194 m:0.5 ---
+
+nānayā sadṛśī vidyā guḍikā bhuvi vidyate 
+piṇḍaṃ tu prathamaṃ mantryam aghoreṇa susaṃskṛtam ।।

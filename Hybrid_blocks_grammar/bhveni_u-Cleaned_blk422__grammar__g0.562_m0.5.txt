@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 422 | label: grammar | g:0.562 m:0.5 ---
+
+SktCh rudhirāsavapānamattike raṇahiṇḍanaskhaladgātrike । śabdāyase kasmānmāṃ priye puruṣasahasraṃ hataṃ śrūyate ।।

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1401 | label: meter | g:0.25 m:0.521 ---
+
+harṣotkarṣaḥ kim ayam amarāḥ kṣudra-rakṣo-vadhād vas
+tan me doṣṇāṃ vijita-jagatāṃ vikramaṃ vistṛtāḥ stha ।
+kiṃ cādyaiva priya-raṇa-raso bodhyate kumbhakarṇas
+tūrṇaṃ jetā sa ca diviṣadāṃ bodhyate meghanādaḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 231 | label: hybrid | g:0.5 m:0.5 ---
+
+[] tad evaṃ bahala-hāsa-kolāhala-kutūhale nivṛtte pitaram upetya sarva-sukha-pālaḥ śrīla-gopālaḥ śanaiḥ saniṃ praṇayan sa-vinayam ālalāpa, "arvāg eva sarvān ādāya sabhālaya-valayaṃ svayaṃ tatra-bhavantaḥ samayantu । vayaṃ tu śrī-rāma-dāma-sudāmādayaḥ samāgata-prāyāḥ ।" tad evaṃ mātṛ-gṛham upetya tām apy uvāca, "mātar, mātṝṇāṃ sambhālanārtham anuyātṝṇ asmān anumanyasva ।"

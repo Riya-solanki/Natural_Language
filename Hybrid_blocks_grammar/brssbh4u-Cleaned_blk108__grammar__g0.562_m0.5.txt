@@ -1,0 +1,3 @@
+--- source: brssbh4u-Cleaned.txt | block: 108 | label: grammar | g:0.562 m:0.5 ---
+
+nanu śrutisāmarthyāt vāca eva ayaṃ manasi apyayo yukta iti uktam ।

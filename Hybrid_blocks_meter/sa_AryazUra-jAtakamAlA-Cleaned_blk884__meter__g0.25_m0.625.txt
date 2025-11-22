@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 884 | label: meter | g:0.25 m:0.625 ---
+
+atidūramupetāḥ stha duḥkhamasmānnivartitum ।
+paryanta iva lokasya nalamālyeṣa sāgaraḥ ।।

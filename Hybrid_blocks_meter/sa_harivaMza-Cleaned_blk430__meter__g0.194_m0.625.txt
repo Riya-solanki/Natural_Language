@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 430 | label: meter | g:0.194 m:0.625 ---
+
+divyair mālyaiś ca taṃ devāḥ samantāt samavākiran 
+devadundubhayaś caiva praṇedur bharatarṣabha ।।

@@ -1,0 +1,3 @@
+--- source: sa_bhartRhari-vAkyapadIya1-3,7-Cleaned.txt | block: 180 | label: grammar | g:0.604 m:0.5 ---
+
+aṃbvaṃbv iti yathā bālaḥ śikṣamāṇo apabhāṣate avyaktaṃ tadvidāṃ tena vyaktau bhavati niścayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 482 | label: hybrid | g:0.455 m:0.5 ---
+
+mādhavas tu yadā mitraiḥ praviśan veṇunā jagau ।
+tadā dvi-guṇito reje mādhavas tatra so' paraḥ ।। [anuṣṭubh]

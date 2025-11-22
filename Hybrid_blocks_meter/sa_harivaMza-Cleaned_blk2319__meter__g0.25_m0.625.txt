@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2319 | label: meter | g:0.25 m:0.625 ---
+
+nidarśanārthaṃ gopānāṃ divyaṃ svabalam āsthitaḥ 
+tad dāma tasya bālasya prabhāvād abhavad dṛḍham ।।

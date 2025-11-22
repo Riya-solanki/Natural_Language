@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 89 | label: hybrid | g:0.398 m:0.5 ---
+
+atra saṃdhyā saṃketakāra iti taṭasthaṃ prati kayāciddayotyate ।
+suvvaha samāgamissadi tujjha pio ajja paharametteṇa ।
+eme a kitti ciṭhṭhasi tā sahi sajjesu karaṇijjam ।।

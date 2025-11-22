@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 346 | label: meter | g:0.194 m:0.625 ---
+
+tejas tv abhyadhikaṃ tāta nityam eva vivasvataḥ 
+yenātitāpayāmāsa trīṃl lokān kaśyapātmajaḥ ।।

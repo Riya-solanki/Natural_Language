@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2799 | label: meter | g:0.102 m:0.695 ---
+
+pṛthivyāṃ pṛthurāṣṭrāyāṃ ramāyāṃ varṣasaṃkṣaye 
+śrāmatsu paṅktimārgeṣu phalavatsu tṛṇeṣu ca 
+ikṣumatsu ca deśeṣu pravṛtteṣu makheṣu ca ।।

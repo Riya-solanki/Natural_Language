@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4238 | label: meter | g:0.25 m:0.5 ---
+
+tām ekām āhur utpannām ekānaṃśeti mānavāḥ 
+ekānaṃśeti yām āhur utpannāṃ mānavā bhuvi । 
+yogakanyāṃ durādharṣāṃ rakṣārthaṃ keśavasya ca ।।

@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 608 | label: meter | g:0.254 m:0.836 ---
+
+atha unmādaḥ-
+unmādaś citta-vibhrāntir viyogād iṣṭa-nāśataḥ ।
+viyogaje tu ceṣṭāḥ syur dhāvanaṃ paridevanam ।। 
+asambaddha-pralapanaṃ śayaṇaṃ sahasotthitiḥ ।
+acetanaiḥ sahālāpo nirnimitta-smitādayaḥ ।।

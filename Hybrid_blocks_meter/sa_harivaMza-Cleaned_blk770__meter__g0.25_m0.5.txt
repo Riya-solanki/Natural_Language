@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 770 | label: meter | g:0.25 m:0.5 ---
+
+sa vai tatra nirāhāro vāyubhakṣo mahātapāḥ 
+tyaktvā kāmāṃs tapas tepe sarasas tasya pārṣvataḥ ।।

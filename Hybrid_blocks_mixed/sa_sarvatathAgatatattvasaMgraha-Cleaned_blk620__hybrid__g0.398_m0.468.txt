@@ -1,0 +1,5 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 620 | label: hybrid | g:0.398 m:0.468 ---
+
+ataḥ paraṃ pravakṣyāmi dharmamudrāḥ samāsataḥ ।
+āḥ jjaḥ hoḥ saḥ, uṃ āṃ traṃ haḥ,
+hrīḥ dhaṃ bhaṃ raṃ, kaṃ haṃ huṃ vaṃ ।।

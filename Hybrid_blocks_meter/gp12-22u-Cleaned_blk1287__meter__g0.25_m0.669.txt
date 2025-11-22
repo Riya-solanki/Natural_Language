@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 1287 | label: meter | g:0.25 m:0.669 ---
+
+anna-pātrāṇi pātrāṇi ratnānāṃ vīkṣya sakṣaṇāḥ ।
+gṛhāṇi ca gṛhādhīśā na hīśāmāsur ūhitum ।।
+[] anantaraṃ tu-

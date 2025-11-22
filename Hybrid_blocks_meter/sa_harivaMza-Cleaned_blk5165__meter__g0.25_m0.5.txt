@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5165 | label: meter | g:0.25 m:0.5 ---
+
+yady asti me yajñaphalaṃ tapo vā rakṣataḥ prajāḥ 
+phalena tena sarveṇa bravīmi śrūyatām idam ।।

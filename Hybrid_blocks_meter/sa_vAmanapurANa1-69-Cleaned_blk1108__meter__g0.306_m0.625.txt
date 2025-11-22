@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1108 | label: meter | g:0.306 m:0.625 ---
+
+sa ca daityeśvaro yakṣairmālavaṭapurassaraiḥ ।
+citāmāropitaḥ sā ca śyāmā taṃ cāruhat patim ।।

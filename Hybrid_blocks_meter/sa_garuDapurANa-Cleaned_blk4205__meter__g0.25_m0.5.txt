@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4205 | label: meter | g:0.25 m:0.5 ---
+
+satataṃ niṣpratidvandvājvaraṃ kuryuḥ suduḥ saham ।
+malaṃ jvaroṣṇadhātūnvā sa śīghraṃ kṣapayettataḥ ।।

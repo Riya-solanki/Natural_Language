@@ -1,0 +1,20 @@
+--- source: sastrdiu-Cleaned.txt | block: 300 | label: meter | g:0.28 m:0.579 ---
+
+bahirbhāvakalpanayāpanodaḥ saṃbhavati ।
+sarvatra hi saṃśayasya nidānocchedāducchedo bhavati ।
+anyatarapakṣāvadhāraṇādvā ।
+na ca bahirbhāvakalpanayā tāvannidānocchedaḥ ।
+jīvanasya prāyeṇa gṛhasaṃbandhitvāttadviparyayo atra saṃśayahetutvenopanyastaḥ ।
+nacāsau bahirbhāve kalpite samucchidyate ।
+pratyuta viparyaya eva dṛḍhamavasthāpyate ।
+nacānyatarapakṣāvadhāraṇamapi vidyate jīvanabhāvābhāvau hyatra saṃdihyate ।
+nacānayoranyatarasyāpi bahirbhāvakalpanayā nirṇayo bhavati ।
+anyaddhi jīvanaṃ anyaśca bahirdeśasaṃbandhaḥ ।
+naca gṛhābhāvanibandhanārthāpattirjīvananirṇayāyālaṃ bhavati ।
+nahyevaṃ saṃbhavati yasmāddevadatto gṛhe nāsti tasmājjīvatīti, pratyuta pūrvaniścitameva jīvanaṃ gṛhābhāvādeva saṃdigdhaṃ kathaṃ tata eva nirṇīyate ।
+na hi saṃśayahetureva nirṇayaheturbhavati ।
+tasmājjīvanaṃ saṃdigdhaṃ tattāvadanyato niścitya paścādbahiḥsaṃbandhaḥ kalpayitavyaḥ ।
+yasmāddevadatto jīvati gṛhe ca nāsti tasmānnūnaṃ bahiravasthita iti ।
+na tu saṃdihyamāne jīvane tatkalpanaṃ saṃbhavati ।
+yasmādavidyamāno gṛhe jīvati vā navā tasmādbahiḥ sthita ityasaṃbaddhameva syāt ।
+tasmādbahirbhāvaniyataṃ gṛhābhāvasahitaṃ jīvanaṃ niścitya bahirbhāvaḥ kalpyata ityanumānamevedaṃ na pramāṇāntaramiti ।।

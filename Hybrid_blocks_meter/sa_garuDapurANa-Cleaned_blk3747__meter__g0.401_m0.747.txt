@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3747 | label: meter | g:0.401 m:0.747 ---
+
+kanyāṃ ca yuvatīṃ dṛṣṭvā kasmai deyā sutā mayā ।
+yamāyetyabravīdduḥ khātsācārādvratasatphalāt ।।

@@ -1,0 +1,6 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 159 | label: meter | g:0.251 m:0.646 ---
+
+gṛhītaṃ vastumātraṃ ca śiṣyabodhanakāraṇāt ।
+kati janmāntaraṃ vaktuṃ sahyate rāgadeśanā ।।
+śrīsarvabuddhasamāyogaḍākinījālasaṃvaranyāyena bodhisattvacaritadharmodayābhisaṃbodhiprapañcatāmelāvaṇa-saṃśayaparicchedo navamaḥ ।।
+daśamaḥ paricchedaḥ

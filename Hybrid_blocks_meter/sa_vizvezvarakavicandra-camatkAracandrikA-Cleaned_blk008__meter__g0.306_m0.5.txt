@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 8 | label: meter | g:0.306 m:0.5 ---
+
+nṛṇāṃ vidhau ca nāthe ca śikṣā kāvyaprayojanam ।
+śikṣa ca sacamatkāraṃ bodhitā sthiratāṃ bhajet ।।

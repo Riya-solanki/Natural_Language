@@ -1,0 +1,4 @@
+--- source: sastrdiu-Cleaned.txt | block: 561 | label: grammar | g:0.663 m:0.5 ---
+
+nanu nātmano anyadvijñānamānando vā kintvātmaiva jñānamānandaśca vijñānaṃ brahma ānandaṃ brahma iti śruteḥ, ātmā ca suṣuptiturīyayorapi bhavatīti kathaṃ vijñānasya cānandasya cābhāvaḥ ।
+naitadevaṃ, yaddhi vastvantaraprakāśajananasvabhāvaṃ vastu yasminsati kimapyarthāntaraṃ prakāśata eva talloke vijñānaśabdenocyate, nacātmani sati kiñcidanyatprakāśata eva, vidyamāne api

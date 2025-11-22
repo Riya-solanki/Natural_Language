@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10601 | label: meter | g:0.25 m:0.5 ---
+
+ataśca sarvathā nāsti virajātaraṇaṃ prabho ।
+pralaye virajānadyā layo nāsti khageśvara ।।

@@ -1,0 +1,3 @@
+--- source: sa_vasubandhu-paJcaskandhaprakaraNa-Cleaned.txt | block: 54 | label: grammar | g:0.604 m:0.5 ---
+
+antargrāhyadṛṣṭiḥ katamā । tānevādhipatiṃ kṛtvā śāśvatata ucchedato vā paśyato yā kliṣṭā prajñā ।।

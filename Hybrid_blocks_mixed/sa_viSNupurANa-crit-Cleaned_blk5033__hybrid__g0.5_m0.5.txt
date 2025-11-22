@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5033 | label: hybrid | g:0.5 m:0.5 ---
+
+yaḥ saṃsmarati tasyaitat tejas tvāṃ śaraṇaṃ gataḥ ।।

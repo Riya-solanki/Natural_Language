@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1165 | label: meter | g:0.316 m:0.5 ---
+
+jaṅghe suvṛtte api ca romahīne śobheta daityeśvara te tadīye ।
+ākramya lokāniva mirmitāyā rūpārjitasyaiva kṛtādharau hi ।।

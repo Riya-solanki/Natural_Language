@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1829 | label: grammar | g:0.552 m:0.5 ---
+
+vāmāṅgaṃ pṛthulastanastabakitaṃ yāvad bhavānīpater lakṣmīkaṇṭhahaṭhagrahavyasanitā yāvac ca doṣāṇāṃ hareḥ ।
+yāvac ca pratisāmasāraṇavidhivyagrau karau brahmaṇaḥ stheyāsuḥ śrutiśuktilehyamadhavas tāvat satāṃ sūktayaḥ ।।

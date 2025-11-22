@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 71 | label: grammar | g:0.552 m:0.5 ---
+
+vāpī cāsmin marakataśilābaddhasopānamārgā haimaiḥ syūtā kamalamukulaiḥ snigdhavaiḍūryanālaiḥ ।
+yasyās toye kṛtavasatayo mānasaṃ saṃnikṛṣṭaṃ na dhyāsyanti vyapagataśucas tvām api prekṣya haṃsāḥ ।।

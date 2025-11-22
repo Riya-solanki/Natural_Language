@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2092 | label: meter | g:0.306 m:0.625 ---
+
+tato vīṭāṃ sukhe kṣipya nirucchvāso abhavad yatiḥ ।
+vistṛte himavatpuṣṭhe ramye samaśilātale ।।

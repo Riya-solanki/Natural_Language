@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7261 | label: meter | g:0.25 m:0.625 ---
+
+lokāṃllokayatā loke jagāhe viśvamaṇḍalam ।
+tatrājani janāndṛṣṭvā duḥ kheṣveva nimajjataḥ ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 44 | label: hybrid | g:0.5 m:0.5 ---
+
+[] atha tad evaṃ ca sthite, pūrvata eva tadīya-vimala-parimala-mādhurī-dhārā-nandita-vidūraga-vṛndāvana-sthira-cara-jīvāvalībhir jīvātutayājīvyamānau, samprati tu sarvā eva tā devatā-pūrvāḥ paramāpūrva-darśana-sparśanādibhir labdha-parvaṇaḥ kurvāte sma । [] yāḥ khalu sarvātiyāyi-sukha-dāyitayānyeṣām api puṇyāya puṇya-phalāya naipuṇyam āseduḥ । [] tatraiva ca sarva-sukha-śaṃsinī vaṃśī sarvam ātmānaṃ ca kṛtārthatāṃ prāpitavatī । yataḥ-

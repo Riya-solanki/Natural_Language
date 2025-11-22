@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1177 | label: meter | g:0.302 m:0.806 ---
+
+vivṛtadaśanaśaṅkhadhvānavitrastamīno bhujagabhuvanaśṛṅgaprāntabhinnormijālaḥ ।
+hṛdayam udadhir alpasthāma teṣāṃ bibheda sphuritavikṛtanakrākrāntavistīrṇakukṣiḥ ।।

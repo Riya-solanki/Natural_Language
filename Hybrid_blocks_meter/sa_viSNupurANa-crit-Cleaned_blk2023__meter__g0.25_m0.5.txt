@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2023 | label: meter | g:0.25 m:0.5 ---
+
+yatrotam etat protaṃ ca yad bhūtaṃ sacarācaram 
+bhāvyaṃ ca viśvaṃ maitreya tad viṣṇoḥ paramaṃ padam ।।

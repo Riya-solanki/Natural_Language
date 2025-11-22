@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 105 | label: grammar | g:0.562 m:0.5 ---
+
+śāpānto me bhujagaśayanād utthite śārṅgapāṇau māsān anyān gamaya caturo locane mīlayitvā ।
+paścād āvāṃ virahaguṇitaṃ taṃ tam ātmābhilāṣaṃ nirvekṣyāvaḥ pariṇataśaraccandrikāsu kṣapāsu ।।

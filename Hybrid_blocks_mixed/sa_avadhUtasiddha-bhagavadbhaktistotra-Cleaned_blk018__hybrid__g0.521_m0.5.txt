@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 18 | label: hybrid | g:0.521 m:0.5 ---
+
+stauti prasahya tava ṣoḍaśadhā vibhajya mūrtiṃ pramāṇaracano munir akṣapādaḥ ।
+dravyādivasturacanābhir upāttabhede vaiśeṣike kaṇabhujāpi nanu stuto asi ।।

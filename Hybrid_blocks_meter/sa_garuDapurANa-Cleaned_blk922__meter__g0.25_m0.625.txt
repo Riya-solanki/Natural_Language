@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 922 | label: meter | g:0.25 m:0.625 ---
+
+devaṃ saṃsthāpya vidhivadvastraṃ dadyādvṛṣadhvaja ।
+tato hyācamanaṃ dadyādupavītaṃ tataḥ śubham ।।

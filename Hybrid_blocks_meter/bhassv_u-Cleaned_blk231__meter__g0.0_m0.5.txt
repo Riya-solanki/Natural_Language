@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 231 | label: meter | g:0.0 m:0.5 ---
+
+{rājā} - kim idānīṃ bhavān mahati bahumānasaṅkaṭe māṃ nyasyati 
+{padmāvatī} - haḷā jādise saṅkaṭe nikkhitto ayyautto 
+[haḷā yādṛśe saṅkaṭe nikṣipta āryaputraḥ । ]

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4391 | label: hybrid | g:0.51 m:0.5 ---
+
+svargaṃ gate dhātari vāsudeve śālvo asurāṇāṃ mahatā balena ।
+kṛtvā puraṃ saubhamiti prasiddhaṃ tadāntarikṣe vicacāra kāmāt ।।

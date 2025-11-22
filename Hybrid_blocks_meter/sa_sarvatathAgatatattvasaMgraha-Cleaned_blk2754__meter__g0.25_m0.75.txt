@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2754 | label: meter | g:0.25 m:0.75 ---
+
+dharmamudrāprayogeṇa dharmamudrāḥ pravartayet ।
+anayā sādhayaṃ dharmān dharmatāvajradharmiṇaḥ ।।

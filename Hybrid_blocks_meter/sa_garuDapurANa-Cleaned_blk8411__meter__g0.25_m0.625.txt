@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8411 | label: meter | g:0.25 m:0.625 ---
+
+mṛtasthāne śavo nāma tena nāmnā pradīyate ।
+tena dattena tṛpyanti gṛhavāstvadhidevatāḥ ।।

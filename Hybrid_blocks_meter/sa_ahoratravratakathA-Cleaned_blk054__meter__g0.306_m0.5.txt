@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 54 | label: meter | g:0.306 m:0.5 ---
+
+suvarṇena kṛte vāpi ratnaiś cānyaiś ca dhātubhiḥ ।
+pāṣāṇena tathā kāṣṭhair iṣṭikāmṛnmayais tathā ।।

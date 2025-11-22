@@ -1,0 +1,5 @@
+--- source: gp12-22u-Cleaned.txt | block: 583 | label: meter | g:0.25 m:0.695 ---
+
+[] yathā varṇitaṃ pralamba-vadha-vāsara-sambandhi-sandhyām anusandhāya,
+gopīnāṃ paramānanda āsīd govinda-darśane ।
+kṣaṇaṃ yuga-śatam iva yāsāṃ yena vinābhavat ।।[] iti ।

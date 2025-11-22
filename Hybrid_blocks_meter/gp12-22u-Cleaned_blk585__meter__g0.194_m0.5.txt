@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 585 | label: meter | g:0.194 m:0.5 ---
+
+kalāpi yadi viśleṣe yugānāṃ śatatāṃ gatā ।
+rātrindivīya-saṅkhyāyāṃ tadā śaṅkāmahe vayam ।। [anuṣṭubh]

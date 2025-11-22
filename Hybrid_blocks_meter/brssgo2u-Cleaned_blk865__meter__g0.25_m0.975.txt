@@ -1,0 +1,6 @@
+--- source: brssgo2u-Cleaned.txt | block: 865 | label: meter | g:0.25 m:0.975 ---
+
+satyamudāhṛtā ।
+virodhāttvanyatamā saṃkyādhyavasātavyā ।
+tatra stokakalpanānurodhātsaptasaṃkhyādhyavasānam ।
+vṛttibhedāpekṣaṃ ca saṃkhyāntaraśravaṇamiti manyate ।।

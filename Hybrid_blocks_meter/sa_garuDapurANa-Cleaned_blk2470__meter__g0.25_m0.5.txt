@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2470 | label: meter | g:0.25 m:0.5 ---
+
+harayo devatāmāṃ ca catvāraḥ pañca viṃśakāḥ ।
+gaṇā indraḥ śivistasya śatrurbhomarathāḥ smṛtāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 233 | label: hybrid | g:0.321 m:0.493 ---
+
+prakhyāpya doṣakaṇikān vibhavān bhavānāṃ nānāvidhavyasanasaṃkaṭasaṃbhavānām ।
+saṃvejya parṣadam ṛṣiḥ sa upāsakānāṃ sadyo yayau praśamam agnir ivāmbuṣiktaḥ ।।

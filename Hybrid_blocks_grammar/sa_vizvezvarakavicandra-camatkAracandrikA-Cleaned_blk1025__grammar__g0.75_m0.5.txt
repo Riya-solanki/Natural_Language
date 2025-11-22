@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 1025 | label: grammar | g:0.75 m:0.5 ---
+
+atra sarvaṃ tadityanena saundaryādīnāṃ samudāya evānusandhīyate । tasya ca tirobhūtāvayavabhedatve samāhāraḥ । sa ceha tadityekavacanāntena napuṃsakena ca kathyate । na ceha kvacidapi cakārādirvidyate । dyotaka iti so ayamunabhayāśrayaḥ samahāraḥ samuccaya eva । itare dyotakavantaḥ samāhārāḥ svayamūhyāḥ । anvācayastu kriyāviṣaya eva । tatra dyotakastūttarapadāśraya eva ।

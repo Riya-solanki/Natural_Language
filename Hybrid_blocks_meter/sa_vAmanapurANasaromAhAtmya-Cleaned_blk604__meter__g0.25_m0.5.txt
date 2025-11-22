@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 604 | label: meter | g:0.25 m:0.5 ---
+
+samāgamya tataḥ sarve sasmaruste sarasvatīm ।
+sā tu dhyātā tatastatra ṛṣibhiḥ satrayājibhiḥ ।।

@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 16 | label: meter | g:0.306 m:0.5 ---
+
+etena sāṃkhyasmṛtipratyākhyānena yogasmṛtirapi pratyākhyātā draṣṭavyetyatidiśati ।
+tatrāpi śrutivirodhena pradhānaṃ svatantrameva kāraṇaṃ, mahadādīni ca kāryāṇyalokavedaprasiddhāni kalpyante ।

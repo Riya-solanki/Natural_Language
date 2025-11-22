@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 97 | label: hybrid | g:0.521 m:0.5 ---
+
+tad yāvan na patati sarva eva loko durdṛṣṭimatavitate pramādakūpe ।
+sarvajñapravacanabhāskare gate astaṃ tat tāvad vacanarasāyanaṃ niṣevyam ।।

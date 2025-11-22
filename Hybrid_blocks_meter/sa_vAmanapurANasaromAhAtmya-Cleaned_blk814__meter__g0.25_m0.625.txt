@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 814 | label: meter | g:0.25 m:0.625 ---
+
+guṇātītaḥ sa bhagavān vyāpakaḥ puruṣaḥ smṛtaḥ ।
+tenadaṃ sakalaṃ vyāptaṃ yatkiñciñjīvasaṃjñitam ।।

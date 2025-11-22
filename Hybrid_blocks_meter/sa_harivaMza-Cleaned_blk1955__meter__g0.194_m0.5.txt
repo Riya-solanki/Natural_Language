@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1955 | label: meter | g:0.194 m:0.5 ---
+
+kṣipram ājñāpaya vibho katham aṃśaḥ prayujyatām 
+yadi te pārthivaṃ kāryaṃ kāryaṃ pārthivavigrahe ।।

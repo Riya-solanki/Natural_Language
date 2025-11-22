@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1862 | label: meter | g:0.25 m:0.5 ---
+
+nāmnā tu kārttikeyo hi yuṣmākaṃ tanayastvasau ।
+kuṭulāyāḥ kumāreti putro ayaṃ bhavitāvyayaḥ ।।

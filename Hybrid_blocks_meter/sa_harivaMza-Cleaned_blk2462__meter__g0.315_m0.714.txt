@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2462 | label: meter | g:0.315 m:0.714 ---
+
+taraṃgāpāṅgakuṭilāṃ vārisparśasukhānilām 
+tāṃ ca padmotpalavatīṃ dadarśa yamunāṃ nadīm ।।

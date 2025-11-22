@@ -1,0 +1,12 @@
+--- source: simhrs_u-Cleaned.txt | block: 1975 | label: meter | g:0.25 m:0.969 ---
+
+atha ḍimaḥ-
+khyātetivṛttaṃ nirhāsya-śṛṅgāraṃ raudra-mudritam । 
+sāttvatī-vṛtti-viralaṃ bhāraty-ārabhaṭī-sphuṭam ।।
+nāyakair uddhatair deva-yakṣa-rākṣasa-pannagaiḥ । 
+gandharva-bhūta-vetāla-siddha-vidyādharādibhiḥ ।।
+samanvitaṃ ṣoḍaśabhir nyāya-mārgaṇa-nāyakam । 
+caturbhir āṅkair anvītaṃ nirvimarśaka-sandhibhiḥ ।।
+nirghātolkoparāgādi-ghora-krūrāji-sambhramam । 
+sa-praveśaka-viṣkambha-cūlikaṃ hi ḍimaṃ viduḥ ।
+asyodāharaṇaṃ jñeyaṃ vīrabhadra-vijṛmbhitam ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 944 | label: meter | g:0.25 m:0.5 ---
+
+tanulagnā iva kakubhaḥ kṣmāvalayaṃ caraṇacāramātram iva ।
+viyad iva cālikadaghnaṃ muṣṭigrāhyaṃ tamaḥ kurute ।।

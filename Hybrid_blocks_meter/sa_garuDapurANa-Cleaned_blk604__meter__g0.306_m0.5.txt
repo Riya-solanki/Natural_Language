@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 604 | label: meter | g:0.306 m:0.5 ---
+
+citāvalmīkaśailādau kape ca vivare taroḥ ।
+daṃśe rekhātrayaṃ yasya pracchannaṃ sa na jīvati ।।

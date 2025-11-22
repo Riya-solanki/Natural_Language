@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6412 | label: meter | g:0.194 m:0.625 ---
+
+tadbhāvabhāvam āpannas tato asau paramātmanā 
+bhavaty abhedī bhedaś ca tasyājñānakṛto bhavet ।।

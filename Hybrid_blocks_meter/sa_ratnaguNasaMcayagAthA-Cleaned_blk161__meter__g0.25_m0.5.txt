@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 161 | label: meter | g:0.25 m:0.5 ---
+
+yadyāpi pañca ima pāramitā jinānāṃ bahukalpakoṭiniyutāṃ samudānayeyyā 
+praṇidhīnanantavipulāṃ sada sevya loke anupāya prajñavikalā pari śrāvakatve ।।

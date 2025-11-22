@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6856 | label: meter | g:0.25 m:0.669 ---
+
+sūta uvāca ।
+viṣṇubhaktiryasya citte kaṃ vā jīvo nametsadā ।
+sa tārayati cātmānaṃ tadaiva duritārṇavāt ।।

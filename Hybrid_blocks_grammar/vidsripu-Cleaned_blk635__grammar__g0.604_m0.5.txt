@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 635 | label: grammar | g:0.604 m:0.5 ---
+
+nidrārtaṃ kila locanaṃ mṛgadṛśā viśleṣayantyā kathāṃ dīrghāpāṅgasarittaraṅgataralaṃ śayyām anupreṣitam ।
+ujjṛmbhaḥ kila vallabho api virate vastuny api prastute ghūrṇantī kila sāpi hūṃkṛtavatī śūnyaṃ sakhī dakṣiṇā ।।

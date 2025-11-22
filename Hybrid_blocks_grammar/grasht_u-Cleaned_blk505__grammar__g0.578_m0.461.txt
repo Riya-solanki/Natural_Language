@@ -1,0 +1,5 @@
+--- source: grasht_u-Cleaned.txt | block: 505 | label: grammar | g:0.578 m:0.461 ---
+
+taccāha raktagaṇetyādi ।।
+tīkṣṇaṃ sārākhyaṃ raktagaṇagalitapaśujalabhāvitaṃ puṭitaṃ sat raktagaṇena saha galitaṃ militaṃ yat paśujalaṃ gomūtraṃ tena bhāvitaṃ tato vahnipuṭitaṃ sat rajyate rāgamāpnoti ।।
+punastīkṣṇaṃ kadalīśikhirasabhāvitapuṭitaṃ vā rambhācitrakarasabhāvitaṃ gharmapuṭitaṃ tato vahnipuṭitaṃ ca sat tribhirvāraiḥ śudhyatītyarthaḥ ।।

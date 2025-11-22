@@ -1,0 +1,3 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1172 | label: grammar | g:0.75 m:0.5 ---
+
+bodhisattvabhūtaḥ kila bhagavān saṃtoṣābhyāsād apagatabhavopabhogaviśeṣābhilāṣaḥ suparijñātasaṃskārasvabhāvatvāt svadehe apy astamitasnehānubandhas tṛṣṇādoṣapratyakṣajñānatayā tadabhidheyamānaso janmāntarābhyastavividhalābhakuśalatvād upāyāntareṇāpi dhanārjanasamarthaḥ samupacitapuṇyasambhāratayā cābhiprāyamātreṇāpi draviṇavibhūtyākarṣaṇaprabhuḥ prabhūtavittopakaraṇo api san kevalam udadhigatajagadvyasanoparitrāṇāyavia saṃketapracārasāṃyātrikaparivṛto mahāsamudram upajagāma ।

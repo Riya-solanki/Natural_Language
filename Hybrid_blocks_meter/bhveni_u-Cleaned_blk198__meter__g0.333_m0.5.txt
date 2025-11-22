@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 198 | label: meter | g:0.333 m:0.5 ---
+
+sarvathā daivaṃ naḥ svasti kariṣyati । tadyāvadatrasthāṃ devīṃ mahārājāya nivedayāmi ।iti niṣkrāntaḥ

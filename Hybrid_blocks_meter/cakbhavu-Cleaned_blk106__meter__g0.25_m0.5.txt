@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 106 | label: meter | g:0.25 m:0.5 ---
+
+Viv viṣayāsaṅgakalilarahitaṃ, tvanmayatāmṛtavimalaṃ chatraṃ dhāryate ।।

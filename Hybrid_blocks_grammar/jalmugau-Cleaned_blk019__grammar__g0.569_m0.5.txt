@@ -1,0 +1,4 @@
+--- source: jalmugau-Cleaned.txt | block: 19 | label: grammar | g:0.569 m:0.5 ---
+
+cchāyām abhra-dalaiḥ khalaiḥ sujanatāṃ mānonatiṃ yācñayā kārpaṇyena yaśāṃsi dhūrta-kalayā maitrīṃ sukhaṃ sevayā
+dharmaṃ prāṇivadhena vāñchati dhanaṃ dyūta-prasādeba yo veśyābhiś ca vilāsam ātmani narāāro asti gaur eva saḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 121 | label: meter | g:0.25 m:0.75 ---
+
+uddeśe samatāyāṃ ca sattvārthe yatnavarjaṃne ।
+atyantāya ca niryāṇaṃ niryāṇaṃ prāptilakṣaṇam ।
+sarvākārajñatāyāṃ ca niryāṇaṃ mārgagocaram ।
+niryāṇapratipajjñeyā seyamaṣṭavidhātmikā ।।

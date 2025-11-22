@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5188 | label: meter | g:0.25 m:0.5 ---
+
+śramam abhivinivartya mānasaṃ sa samabhilaṣajjanamejayo yaśaḥ svam 
+viṣayam anuśaśāsa dharmabuddhir muditamanā ramayan vapuṣṭamāṃ tām ।।

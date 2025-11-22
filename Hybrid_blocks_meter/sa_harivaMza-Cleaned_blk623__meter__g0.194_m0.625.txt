@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 623 | label: meter | g:0.194 m:0.625 ---
+
+tān dānavagaṇāḥ sarve yakṣagandharvarākṣasāḥ 
+nāgāḥ sarpāḥ suparṇāś ca bhāvayanty amitaujasaḥ ।।

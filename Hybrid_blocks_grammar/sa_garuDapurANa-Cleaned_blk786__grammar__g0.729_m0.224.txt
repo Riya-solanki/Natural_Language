@@ -1,0 +1,10 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 786 | label: grammar | g:0.729 m:0.224 ---
+
+arcayitvā samaṃ rudra harimāvāhya saṃyajet ।
+mantrairebhirmahāprājñaḥ sarvapāpapraṇāśanaiḥ ।।
+oṃ hrīṃ śrīdharāya trailokyamohanāya viṣṇave namaḥ āgaccha ।।
+oṃ śriyai namaḥ । oṃ śrāṃ hṛdayāya namaḥ । oṃ śrīṃ śirase namaḥ । oṃ śrūṃ śikhāyai namaḥ । oṃ śraiṃ kavacāya namaḥ । oṃ śrauṃ netratrayāya namaḥ । oṃ śraḥ astrāya namaḥ । oṃ śaṅkhāya namaḥ । oṃ padmāya namaḥ । oṃ cakrāya namaḥ । oṃ gadāyai namaḥ । oṃ śrī vatsāya namaḥ । oṃ kaustubhya namaḥ । oṃ vanamālāyai namaḥ । oṃ pītāmbarāya namaḥ । oṃ vrahmaṇe namaḥ । oṃ nāradāya namaḥ । oṃ gurubhyo namaḥ । oṃ indrāya namaḥ । oṃ agnaye namaḥ । oṃ yamāya namaḥ । oṃ nirṛtaye namaḥ । oṃ varuṇāya namaḥ । oṃ vāyave namaḥ । oṃ somāya namaḥ । oṃ īśānāya namaḥ । oṃ anantāya namaḥ । oṃ brahmaṇe namaḥ । 
+oṃ sattvāya namaḥ ।
+oṃ rajase namaḥ ।
+oṃ tamase namaḥ ।
+oṃ viṣvaksenāya namaḥ ।।

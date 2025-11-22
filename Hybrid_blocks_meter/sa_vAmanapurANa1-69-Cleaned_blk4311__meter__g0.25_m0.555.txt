@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4311 | label: meter | g:0.25 m:0.555 ---
+
+māṃ jagrāha sucārvaṅgī karābhyāṃ cāruhāsinī ।
+cakāropari pīnābhyāṃ karābhyāṃ cāruhāsinī ।
+cakāropari pīnābhyāṃ stanābhyāṃ sā hi māṃ tataḥ ।।

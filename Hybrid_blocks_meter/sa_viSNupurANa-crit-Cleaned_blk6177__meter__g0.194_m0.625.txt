@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6177 | label: meter | g:0.194 m:0.625 ---
+
+mūrcchām avāpya mahatīṃ saṃspṛṣṭo bāhyavāyunā 
+vijñānabhraṃśam āpnoti jātaś ca munisattama ।।

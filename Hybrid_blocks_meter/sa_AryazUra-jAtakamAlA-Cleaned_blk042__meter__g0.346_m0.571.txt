@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 42 | label: meter | g:0.346 m:0.571 ---
+
+kadā nu gātrairapi nāma kuryāṃ hitaṃ pareṣāmiti yaśca me abhūt ।
+manorathastatsaphalīkriyāṃ ca saṃbodhimagryāmapi cāvidūre ।।

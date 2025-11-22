@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6714 | label: meter | g:0.306 m:0.5 ---
+
+prāpnuvanti parāḥ prājñāḥ sukhanirvṛtimeva ca ।
+mūrtendriyalayaṃ nūnaṃ na tvaṃ rājan na cāpyaham ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 438 | label: grammar | g:0.583 m:0.5 ---
+
+atra kupitāyāḥ śriyaḥ prasādanārthaṃ puruṣottamena pracchanna-sthityādi-rūpo vyāpāraḥ kṛta ity ayaṃ narma-garbhaḥ ।

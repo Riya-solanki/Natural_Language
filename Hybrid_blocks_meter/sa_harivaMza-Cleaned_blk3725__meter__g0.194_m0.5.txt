@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3725 | label: meter | g:0.194 m:0.5 ---
+
+rudras tasmai varaṃ prādāt samarthaṃ yudhi nigrahe 
+vṛṣṇīnām andhakānāṃ ca sarvatejomayaṃ sutam ।।

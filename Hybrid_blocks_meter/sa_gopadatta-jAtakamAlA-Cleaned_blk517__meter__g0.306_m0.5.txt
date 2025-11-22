@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 517 | label: meter | g:0.306 m:0.5 ---
+
+prakṣālayañ cheṣapāpaṃ tuṣite asau yayau mudā ।
+tatrastho apy aciraṃ reme dṛṣṭvā lokaṃ kṛpānvitaḥ ।।

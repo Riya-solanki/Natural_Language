@@ -1,0 +1,4 @@
+--- source: brssbh1u-Cleaned.txt | block: 639 | label: grammar | g:0.542 m:0.157 ---
+
+itaśca na śūdrasyādhikāraḥ ।
+yatsatyavacanena śūdratvābhāve nirdhārite jābālaṃ gautama upanetumanuśāsituṃ ca pravavṛte anaitadbrāhmaṇo vivaktumarhati samidhaṃ somyāharopa tvā neṣye na satyādagāḥ' iti śrutiliṅgāt ।।

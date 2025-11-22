@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 754 | label: meter | g:0.139 m:1.0 ---
+
+asarūpayoḥ sandhir, yathā-
+śrī-siṃha-bhūpa-pratināyakānāṃ
+svidyanti gātrāny ativepitāni ।
+tat tūrya-saṃvādiṣu garjiteṣu
+priyābhir ālambita-kandharāṇām ।।

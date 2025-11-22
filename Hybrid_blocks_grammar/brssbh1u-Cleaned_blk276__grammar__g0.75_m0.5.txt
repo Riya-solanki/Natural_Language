@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 276 | label: grammar | g:0.75 m:0.5 ---
+
+FN yasya paramātmano brahma kṣatraṃ cobhe jātī prasiddhānnavadodanau bhavataḥ, yasya mṛtyuḥ sarvamārakaḥ sannupasecanamodanamiśraghṛvattiṣṭhati, yatra so attā kāraṇātmā vartate, taṃ nirviśeṣamātmānaṃ anāvirato duścaritāt' iti mantroktopāyavānyathā veda itthā itthamanyastadrahito na vedetyarthaḥ ।

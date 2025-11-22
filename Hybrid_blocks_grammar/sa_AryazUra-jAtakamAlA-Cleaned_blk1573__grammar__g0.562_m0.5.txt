@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1573 | label: grammar | g:0.562 m:0.5 ---
+
+tadārohatu matpuṣṭhaṃ mahārājaḥ sulagnaśca mayi bhavatviti । sa tatheti pratiśrutyainamaśvavadāruroha ।

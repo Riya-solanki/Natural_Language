@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1432 | label: meter | g:0.25 m:0.5 ---
+
+eṣa nārāyaṇo bhūtvā harir āsīt sanātanaḥ 
+brahmā śakraś ca somaś ca dharmaḥ śukro bṛhaspatiḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5620 | label: meter | g:0.361 m:0.783 ---
+
+śrīgaruḍamahāpurāṇam- 
+hariruvāca ।
+pītaḥ sāro guḍūcyāśca madhunā ca pramehanut ।
+pītaṃ gohālikāmūlaṃ tiladadhyājyasaṃyutam ।।

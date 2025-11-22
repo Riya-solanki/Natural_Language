@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 236 | label: grammar | g:0.583 m:0.5 ---
+
+-eko yaḥ phalavato darśapaurṇamāsāderupakārastasminsādhanatvenopanibaddhāḥ śeṣāḥ śeṣiṇaśca । anena ekaprayogavacanopagṛhītatvaṃ siddhaṃ bhavati ।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 909 | label: meter | g:0.194 m:0.625 ---
+
+ādityābhimukho bhūtvā sahasraṃ parivartayet 
+yat kiñcid vihitaṃ citte saptāhāt sādhayiṣyati ।।

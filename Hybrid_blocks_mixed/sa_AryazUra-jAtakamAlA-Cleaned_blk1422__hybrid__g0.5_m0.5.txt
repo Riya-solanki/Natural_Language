@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1422 | label: hybrid | g:0.5 m:0.5 ---
+
+ekatra kvacidanavekṣya yaśca hetuṃ tenaiva pravadati sarvahetvabhāvam ।
+prtyakṣaṃ nanu tadavetya hetusāraṃ taddveṣī bhavati virodhaduṣṭavākyaḥ ।।

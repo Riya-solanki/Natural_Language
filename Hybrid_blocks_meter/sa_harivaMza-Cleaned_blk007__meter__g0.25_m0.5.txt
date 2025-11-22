@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 7 | label: meter | g:0.25 m:0.5 ---
+
+janamejayena yat pṛṣṭaḥ śiṣyo vyāsasya dhīmataḥ 
+dharmavit kathayām āsa kulaṃ teṣāṃ savistaram । 
+tat te ahaṃ saṃpravakṣyāmi vṛṣṇīnāṃ vaṃśam āditaḥ ।।

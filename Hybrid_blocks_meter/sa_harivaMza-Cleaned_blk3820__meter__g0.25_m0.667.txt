@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3820 | label: meter | g:0.25 m:0.667 ---
+
+tām āvasat purīṃ kṛṣṇaḥ sarvayādavanandanaḥ 
+abhipretajanākīrṇāṃ somaḥ kham iva bhāsayan ।। 
+viśvakarmakṛtāṃ divyāṃ ratnajālasamākulām । 
+viśvakarmā ca tāṃ kṛtvā purīṃ śakrapurīm iva 
+jagāma tridivaṃ devo govindenābhipūjitaḥ ।।

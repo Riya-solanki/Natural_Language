@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2048 | label: meter | g:0.194 m:0.625 ---
+
+vyasaneṣu jaghanyasya dharmamadhyasya dhīmataḥ 
+balajyeṣṭhasya nṛpater nāsti sāmantajaṃ bhayam ।।

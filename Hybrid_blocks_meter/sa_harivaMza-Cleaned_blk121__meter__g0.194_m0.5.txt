@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 121 | label: meter | g:0.194 m:0.5 ---
+
+agniputraḥ kumāras tu śarastambe śriyā vṛtaḥ 
+tasya śākho viśākhaś ca naigameṣaś ca pṛṣṭhajaḥ 
+apatyaṃ kṛttikānāṃ sa kārttikeya iti smṛtaḥ ।। 
+skandaḥ sanatkumāraś ca sṛṣṭaḥ pādena tejasaḥ । 
+pratyūṣasya viduḥ putram ṛṣiṃ nāmnātha devalam 
+dvau putrau devalasyāpi kṣamāvantau manīṣiṇau ।।

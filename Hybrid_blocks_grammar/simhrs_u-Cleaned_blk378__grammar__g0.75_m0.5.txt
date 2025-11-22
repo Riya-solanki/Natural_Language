@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 378 | label: grammar | g:0.75 m:0.5 ---
+
+mantro naya-prayogaḥ । tasya śaktyā yathā mudrā-rākṣase cāṇakyena śatru-sahāyānāṃ bhedanāt saṅghātyaḥ । artha-śaktyā yathā mahābhārate ādiparvaṇi devais tilottamālakṣaṇenārthena sundopasundayor atisnigdhayor bhedanāt saṅghātyaḥ ।

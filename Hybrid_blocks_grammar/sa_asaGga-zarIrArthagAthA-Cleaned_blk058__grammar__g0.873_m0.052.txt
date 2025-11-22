@@ -1,0 +1,5 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 58 | label: grammar | g:0.873 m:0.052 ---
+
+sthitiḥ prapaṃcāś ca na santi yasya yaḥ saṃdānaṃ parighaṃ cātivṛttaḥ । taṃ nistṛṣṇaṃ muniṃ carantaṃ na vijānāti sadevako api lokaḥ ।। yasya vitarkā vidhūpitā adhyātmam avikalpitā aśeṣaṃ । saṃgaṃ so atītya rūpasaṃjñāṃ caturyogāpagato na jātim eti ।। 
+dadataḥ puṇyaṃ pravardhate vairaṃ saṃyamato na cīyate ।
+kuśalī prajahāti pāpakaṃ kleśānāṃ kṣayatas tu nirvṛtaḥ ।।

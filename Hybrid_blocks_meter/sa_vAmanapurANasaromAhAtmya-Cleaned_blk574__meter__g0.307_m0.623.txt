@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 574 | label: meter | g:0.307 m:0.623 ---
+
+brahmacārī gṛhasthaśca vānaprastho yatistathā ।
+kulāni tārayet snātaḥ sapta sapta ca sapta ca ।।

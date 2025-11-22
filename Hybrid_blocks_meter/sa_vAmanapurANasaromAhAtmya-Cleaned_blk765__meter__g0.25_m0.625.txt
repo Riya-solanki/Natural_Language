@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 765 | label: meter | g:0.25 m:0.625 ---
+
+naimiṣeyāśca ṛṣayaḥ kurukṣetre samāgatāḥ ।
+sarasvatyāstu snānārthaṃ praveśaṃ te na lebhire ।।

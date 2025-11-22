@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4397 | label: meter | g:0.194 m:0.5 ---
+
+na caiṣā tasya kaumāre vaśe tiṣṭhati śobhanā 
+atmamāyāmayaṃ rūpaṃ kṛtvā śambaram āviśat ।।

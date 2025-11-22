@@ -1,0 +1,8 @@
+--- source: grasht_u-Cleaned.txt | block: 227 | label: meter | g:0.25 m:0.5 ---
+
+abhra sattva "eaten" without a mukha
+yadi lohanibhaṃ patitaṃ jātaṃ gaganasya tadrasaścarati ।
+milati ca sarvadvandve hyauṣadhibhiścarati vināpi mukhaiḥ ।।
+abhra sattva produces a mukha
+mākṣikasahitaṃ gaganaṃ dhmātaṃ satvaṃ mukhapradaṃ bhavati ।
+tadanu ca nāgairvaṅgaiḥ sahitaṃ ca mukhapradaṃ satvam ।।

@@ -1,0 +1,4 @@
+--- source: bhveni_u-Cleaned.txt | block: 883 | label: grammar | g:0.635 m:0.375 ---
+
+gāndhārī
+{Pkt}jāda edaṃ evva saṃpadaṃ pabhūdaṃ jaṃ tumaṃ bi dāva ekko jīvasi । tā jāda akālo de samarassa । pasīda । ṇivattīadu samaravvābārādo । apacchimaṃ karehi me vaaṇaṃ ।

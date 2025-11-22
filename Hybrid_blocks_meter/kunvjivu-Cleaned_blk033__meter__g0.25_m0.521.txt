@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 33 | label: meter | g:0.25 m:0.521 ---
+
+līlāe kuvalaaṃ kuvalaaṃ va sīse samuvvahanteṇa ।
+seseṇa sesapurisāṇaṃ purisaāro samuvyasio ।। ।।
+līlayā kuvalayaṃ kuvalayamiva śīrṣe samudvahatā ।
+śeṣeṇa śeṣapuruṣāṇāṃ puruṣakāraḥ samuddhasitaḥ ।।

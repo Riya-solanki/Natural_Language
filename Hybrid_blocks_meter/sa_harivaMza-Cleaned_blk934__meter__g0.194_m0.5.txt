@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 934 | label: meter | g:0.194 m:0.5 ---
+
+yados tu śṛṇu rājarṣe vaṃśaṃ rājarṣisatkṛtam 
+yatra nārāyaṇo jajñe harir vṛṣṇikulodvahaḥ ।।

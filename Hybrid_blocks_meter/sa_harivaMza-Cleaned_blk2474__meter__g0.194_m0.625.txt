@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2474 | label: meter | g:0.194 m:0.625 ---
+
+agādhenāmbhasā pūrṇaṃ meghapūrṇam ivāmbaram 
+duḥkhopasarpyaṃ tīreṣu sasarpair vipulair bilaiḥ ।।

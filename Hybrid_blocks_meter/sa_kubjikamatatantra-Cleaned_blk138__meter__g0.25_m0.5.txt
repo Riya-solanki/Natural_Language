@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 138 | label: meter | g:0.25 m:0.5 ---
+
+yena te nāmato brūmi yathā te ahaṃ prasāditā 
+haṃsāvalī sutārā ca harṣā vāṇī sulocanā ।।

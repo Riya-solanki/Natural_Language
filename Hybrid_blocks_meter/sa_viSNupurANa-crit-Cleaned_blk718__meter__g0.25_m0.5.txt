@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 718 | label: meter | g:0.25 m:0.5 ---
+
+kiṃ vadāmi stutāv asya kenoktenāsya saṃstutiḥ 
+ity ākulamatir devaṃ tam eva śaraṇaṃ yayau ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1310 | label: meter | g:0.253 m:0.665 ---
+
+devadeva uvāca ।
+tasyāṃ tapatyāṃ narasattamena jātaḥ sutaḥ pārthivalakṣaṇastu ।
+sa jātakarmādibhireva saṃskṛto vivarddhatājyena huto yathāgniḥ ।।

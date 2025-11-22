@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 4394 | label: meter | g:0.25 m:0.625 ---
+
+evaṃ purā cakradhareṇa viṣṇunā baddho balirvāmanarūpadhāriṇā ।
+śakrapriyārtha surakāryasiddhaye hitāya viprarṣabhagodvijānām ।।

@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 599 | label: meter | g:0.314 m:0.555 ---
+
+saiṣā sahajāryabhedabhinnā varṇanīyasya vastuno dviprakārā vakratā ।
+tadevamāhāryā yeyaṃ sā prastutavicchittividhāpyalaṅkāravyatirekeṇa nānyā kācidupapadyate ।
+tasmād bahuvidhatatprakāraprabhedadvāreṇātyantavitatavyavahārāḥ paridṛśyante ।
+yathā

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3628 | label: meter | g:0.25 m:0.5 ---
+
+jñānenaiyathā vidyā niṣkāmena yathā phalam ।
+tathaiva pāpanāśāya prokteyaṃ dvādaśī śubhā ।।

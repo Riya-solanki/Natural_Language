@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1648 | label: meter | g:0.217 m:0.845 ---
+
+gandharvayakṣarakṣāṃsi tathā daiteyadānavāḥ 
+krīḍanti tāsu ramyāsu śailadroṇīṣv aharniśam ।।

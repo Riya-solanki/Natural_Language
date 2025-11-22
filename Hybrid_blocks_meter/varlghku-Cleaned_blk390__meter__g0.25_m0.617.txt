@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 390 | label: meter | g:0.25 m:0.617 ---
+
+svaritañitaḥ kartrabhiprāye kriyāphale ।।
+svariteto ñitaśca dhātorātmanepadaṃ syātkartṛgāmini kriyāphale ।।

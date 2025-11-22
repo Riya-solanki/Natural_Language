@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1004 | label: hybrid | g:0.337 m:0.497 ---
+
+oṃ aṃ prabhūtāya namaḥ । imaṃ tu pūjayenmadhye prabhūtāmalasaṃjñakam । oṃ aṃ vimalāya namaḥ । 
+oṃ aṃ sārāya namaḥ ।
+oṃ aṃādhārāya namaḥ ।
+oṃ aṃ paramamukhāya namaḥ ।
+ityāgneyādikoṇeṣu pūjyā vai vimalādayaḥ ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 17 | label: grammar | g:0.615 m:0.5 ---
+
+ka ekas tvaṃ puṣpāyudha mama samādhivyayavidhau suparvāṇaḥ sarve yadi kusumaśastrās tad api kim ।
+itīvainān nūnaṃ ya iha sumanostratvam anayat sa vaḥ śāstā śastraṃ diśatu daśadiṅmāravijayī ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1159 | label: meter | g:0.25 m:0.5 ---
+
+ko ayaṃ viṣṇuḥ sudurbuddhe yaṃ bravīṣi punaḥ punaḥ 
+jagatām īśvarasyeha purataḥ prasabhaṃ mama ।।

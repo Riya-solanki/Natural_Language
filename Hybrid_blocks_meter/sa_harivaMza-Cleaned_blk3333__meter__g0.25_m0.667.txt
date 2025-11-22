@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3333 | label: meter | g:0.25 m:0.667 ---
+
+kṛtapratikṛtaiś citrair bāhubhiś ca sasaṃkaṭaiḥ 
+saṃnipātāvadhūtaiś ca pramāthonmathanais tathā ।। 
+tāv ubhāv api saṃśliṣṭau yathā śailamayau tathā । 
+kṣepaṇair muṣṭibhiś caiva varāhodbhūtanisvanaiḥ 
+kīlair vajranipātaiś ca prasṛṣṭābhis tathaiva ca ।।

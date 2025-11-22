@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 277 | label: meter | g:0.194 m:0.625 ---
+
+yakṣaiś ca śrūyate rājan punar dugdhā vasuṃdharā 
+āmapātre mahārāja purāntardhānam akṣayam ।।

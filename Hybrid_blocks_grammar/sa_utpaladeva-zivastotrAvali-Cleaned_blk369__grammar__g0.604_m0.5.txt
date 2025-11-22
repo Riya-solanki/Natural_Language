@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 369 | label: grammar | g:0.604 m:0.5 ---
+
+japatāṃ juhvatāṃ snātāṃ dhyāyatāṃ na ca kevalam bhaktānāṃ bhavadabhyarcāmaho yāvad yadā tadā ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 15 | label: meter | g:0.25 m:0.75 ---
+
+vajranāthaḥ subhūmyagryo jñānaḥ pāramitānayaḥ ।
+vimokṣo bodhisattvaśca caryaḥ sarvatathāgataḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 406 | label: meter | g:0.306 m:0.5 ---
+
+vimale ca naraḥ snātvā dṛṣṭvā ca vimaleśvaram ।
+nirmalaṃ svargamāyāti rudralokaṃ ca gacchati ।।

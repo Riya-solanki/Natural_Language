@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 632 | label: meter | g:0.25 m:0.625 ---
+
+prakampiśailendrapayodharā dharā madādivābhūdabhivṛddhavepathuḥ ।
+divaḥ patadbhiḥ kusumaiśca kāñcanaiḥ savidyududyotamivābhavannabhaḥ ।।

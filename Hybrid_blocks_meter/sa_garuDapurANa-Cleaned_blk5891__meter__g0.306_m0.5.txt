@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5891 | label: meter | g:0.306 m:0.5 ---
+
+tritattvaṃ pratham dattvā sivatattvaṃ tataḥ param ।
+yathā dehe tathā deve aṅgulīnāṃ ca parvasu ।।

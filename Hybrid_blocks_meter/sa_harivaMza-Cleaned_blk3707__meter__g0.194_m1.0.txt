@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3707 | label: meter | g:0.194 m:1.0 ---
+
+tatraikalavyasaṃvāso droṇenādhyuṣitaś ciram 
+babhūva puruṣopetaḥ sarvaratnasamākulaḥ ।।

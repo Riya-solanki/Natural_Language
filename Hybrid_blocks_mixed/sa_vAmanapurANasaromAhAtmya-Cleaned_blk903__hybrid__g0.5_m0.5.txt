@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 903 | label: hybrid | g:0.5 m:0.5 ---
+
+atha te ṛṣayaḥ sarve devāśca brahmaṇā saha ।
+gatā mahatsaraḥ puṇyaṃ yatra devaḥ svayaṃ sthitaḥ ।।

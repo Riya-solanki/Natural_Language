@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 944 | label: grammar | g:0.75 m:0.5 ---
+
+atrāyam arthaḥ-nāyikā-nāyakayoḥ prāg-asaṅgatayoḥ saṅgata-viyuktayor vā svocita-vibhāvair anubhāviś copajāyamānaḥ parasparānurāgo' nyatarānurāgo vā svābhilaṣitāliṅganādīnām anavāptau satyām utpadyamānair vyabhicāribhir anubhāvaiś ca prakṛṣyamāṇo vipralambha-śṛṅgāra ity ākhyāyate । sa ca pūrvānurāgādi-bhedena cāturvidhyam āpadyate ।

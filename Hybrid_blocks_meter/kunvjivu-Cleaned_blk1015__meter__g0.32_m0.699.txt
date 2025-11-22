@@ -1,0 +1,5 @@
+--- source: kunvjivu-Cleaned.txt | block: 1015 | label: meter | g:0.32 m:0.699 ---
+
+atra "api" śabdena virodhapratipattiḥ ।
+kvacidarthasāmarthyena virodhaḥ pratīyate ।
+yathā

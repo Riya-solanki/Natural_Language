@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1953 | label: meter | g:0.102 m:0.555 ---
+
+sūryo dvādaśabhiḥ śaighryān muhūrtair dakṣiṇāyane 
+trayodaśārdham ṛkṣāṇām ahnā tu carate dvija 
+muhūrtais tāvadṛkṣāṇi naktam aṣṭādaśaiś caran ।।

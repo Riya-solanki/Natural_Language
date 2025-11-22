@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 529 | label: hybrid | g:0.5 m:0.5 ---
+
+vivāhakāleṣv api nāma tasya vāditraśabdo na samuccacāra ।
+āvāhakāleṣv api tasya gehe suhṛjjanā dīnamukhā babhūvuḥ ।।

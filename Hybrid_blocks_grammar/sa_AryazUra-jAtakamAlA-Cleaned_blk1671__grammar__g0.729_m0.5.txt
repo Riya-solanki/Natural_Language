@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1671 | label: grammar | g:0.729 m:0.5 ---
+
+kaūtuhalaprasṛtalolataranayanāstu tā yoṣitastannyagrodhaphalaṃ paripakvatālaphalādhikatarapramāṇaṃ jālakaraṇḍakapārśvato vilagnamavekṣya kimidamiti tadāvarjitanayanāḥ samapdyanta saha rājñā । atha sa rājā tatphalamānāyya prātyayikavaidyajanaparidṛṣṭaṃ svayamāsvādayāmāsa ।

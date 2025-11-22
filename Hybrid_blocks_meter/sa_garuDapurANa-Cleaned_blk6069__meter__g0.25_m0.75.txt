@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6069 | label: meter | g:0.25 m:0.75 ---
+
+ayo lohaṃ samuddiṣṭaṃ yaugikairlohanāmabhiḥ ।
+puraṃ kuṭanaṭaṃ vidyānmahiṣākṣaḥ palaṅkaṣā ।।

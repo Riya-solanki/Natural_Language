@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 665 | label: meter | g:0.056 m:0.521 ---
+
+śrīmān govardhanādriḥ sphuṭam ayam abhitaḥ śrī-harer dāsa-varyaḥ
+kṛṣṇe rameṇa yasmāt tam anu muralikā-vādanāyādhirūḍhe ।
+labdhair yaḥ sāttvikābhaiś caraṇa-sarasija-sparśajair aṅkurādyaiḥ
+sarvāṅgīna-dravair apy anuga-sakhi-dhanaṃ sevate taṃ cirāya ।। [sragdharā]

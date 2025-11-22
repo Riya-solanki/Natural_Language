@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3638 | label: meter | g:0.25 m:0.625 ---
+
+tridaśānāṃ vayaṃ mānyā dhruvam adyāmalānana 
+ye sma dṛṣṭās tvayā tāta kāṅkṣamāṇās tavāgamam ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1161 | label: grammar | g:0.625 m:0.5 ---
+
+deve kālavaśaṃ gate savitari prāpyāntarāsaṃgatiṃ hanta dhvānta kim edhase diśi diśi vyomnaḥ pratispardhayā ।
+tasyaivāstam upeyuṣaḥ karaśatāny ādāya vidhvaṃsayann eṣa tvāṃ kalitaḥ kalābhir udayaty agre śaśī pārvaṇaḥ ।।

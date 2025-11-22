@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11647 | label: meter | g:0.25 m:0.75 ---
+
+vāyutīrthaṃ ca tatproktaṃ hastadvādaśakāntaram ।
+hastaṣaṭkapramāṇaṃ ca paścime samudāhṛtam ।
+uttare hastaṣaṭkaṃ tu vāyutīrthamudāhṛtam ।।

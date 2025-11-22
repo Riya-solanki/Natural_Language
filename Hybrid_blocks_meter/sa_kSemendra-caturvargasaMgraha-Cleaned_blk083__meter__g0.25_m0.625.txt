@@ -1,0 +1,4 @@
+--- source: sa_kSemendra-caturvargasaMgraha-Cleaned.txt | block: 83 | label: meter | g:0.25 m:0.625 ---
+
+kenaiva viśikhāḥ sphuracchikhiśikhāśākhāsakhā māninīmaunonmāthapṛthuprathā virahinīniḥśvāsapakṣānilāḥ ।
+sahyante rativallabhasya laṭabhānetrāntatīkṣṇānanāsaṃdaṣṭādharapallavāgrataruṇīsītkāraśūtkāriṇaḥ ।।

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 367 | label: grammar | g:0.75 m:0.5 ---
+
+-'yadāhavanīye juhoti'iti śrūyate । tatra ka āhavanīya ityākāṅkṣāyāṃ avasante brāhmaṇo agnīnādadhīta'ityādividhinā saṃskāraviśiṣṭo agnirāhavanīya iti gamyate । tadevaṃ śāstrādvastutattvavinirṇaya iti dyotitam ।

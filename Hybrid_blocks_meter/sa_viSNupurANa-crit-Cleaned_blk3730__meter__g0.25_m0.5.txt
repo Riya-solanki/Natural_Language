@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3730 | label: meter | g:0.25 m:0.5 ---
+
+na nūnaṃ kārtavīryasya gatiṃ yāsyanti pārthivāḥ 
+yajñair dānais tapobhir vā praśrayeṇa śrutena ca ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1294 | label: meter | g:0.306 m:0.5 ---
+
+tato vasiṣṭhāya divākareṇa niveditā sā tapatī tanūjā ।
+gṛhāgatāya dvijapuṅgavāya rājñor'thataḥ saṃvaraṇasya devāḥ ।।

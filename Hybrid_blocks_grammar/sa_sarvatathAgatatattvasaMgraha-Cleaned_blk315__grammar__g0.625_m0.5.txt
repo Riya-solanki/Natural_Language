@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 315 | label: grammar | g:0.625 m:0.5 ---
+
+tatastathāviṣṭasyaiva mukhabandhaṃ muṃcedanena hṛdayena oṃ vajrasattvaḥ svayante adya cakṣūddhāṭanatatparaḥ uddhāṭayati sarvākṣo vajracakṣu ranuttaram ।।

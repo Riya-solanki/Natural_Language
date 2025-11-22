@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2644 | label: meter | g:0.25 m:0.5 ---
+
+ja caturmukha madhye tu cha ekākṣas tu kakṣagaḥ 
+cakāraḥ kūrma evātra śikhare vāmake sthitaḥ ।।

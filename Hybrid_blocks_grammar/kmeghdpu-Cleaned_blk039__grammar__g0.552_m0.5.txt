@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 39 | label: grammar | g:0.552 m:0.5 ---
+
+gambhīrāyāḥ payasi saritaś cetasīva prasanne chāyātmāpi prakṛtisubhago lapsyate te praveśam ।
+tasmād asyāḥ kumudaviśadāny arhasi tvaṃ na dhairyān moghīkartuṃ caṭulaśapharodvartanaprekṣitāni ।।

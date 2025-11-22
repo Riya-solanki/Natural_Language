@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 946 | label: meter | g:0.25 m:0.5 ---
+
+iti te kathitā pūjā hayagrīvasya śaṅkara ।
+yaḥ paṭhetparayā bhaktyā sa gacchetparamaṃ padam ।।

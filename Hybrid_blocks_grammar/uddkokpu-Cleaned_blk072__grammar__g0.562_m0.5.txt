@@ -1,0 +1,4 @@
+--- source: uddkokpu-Cleaned.txt | block: 72 | label: grammar | g:0.562 m:0.5 ---
+
+sākaṃ kāntairmilati lalitaṃ keralīnāṃ kadambe matpreyasyāḥ priyasakha mahāmāghasevāgatāyāḥ ।
+pāyaṃ pāyaṃ mukhaparimalaṃ mohanaṃ yatra mattāḥ prāyo adyāpi bhramarakalabhā naiva jighranti padmān ।।

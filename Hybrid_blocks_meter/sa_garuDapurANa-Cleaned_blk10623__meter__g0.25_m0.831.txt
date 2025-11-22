@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10623 | label: meter | g:0.25 m:0.831 ---
+
+śrīkṛṣṇa uvāca ।
+avyaktādyāḥ pṛthivyantā aṇḍācca bahirudbhavāḥ ।
+te sarve prākṛtāḥ proktāsteṣāṃ jñānādvimacyate ।।

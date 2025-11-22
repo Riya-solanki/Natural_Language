@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 639 | label: meter | g:0.194 m:0.5 ---
+
+teṣāṃ vai mānasī kanyā narmadā saritāṃ varā 
+yā bhāvayati bhūtāni dakṣiṇāpathagāminī 
+purukutsasya yā patnī trasaddasyor janany api ।। 
+jananī trasadasyoś ca purukutsaparigrahaḥ । purukutsasya sā bhāryā trasaddasyuś ca tatsutaḥ । 
+teṣām athābhyupagamān manus tāta yuge yuge 
+pravartayati śrāddhāni naṣṭe dharme prajāpatiḥ ।।

@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1019 | label: meter | g:0.194 m:0.875 ---
+
+khadyotānāṃ janayati yathā dehasadbhāvamātraṃ
+dīptir nāsau sphurati jagatāṃ ।
+evaṃ svārthapraṇayamalinajñānaleśāśayānām
+arthāvāptir vinayanakṛśā nāsti sātulyarūpā ।।

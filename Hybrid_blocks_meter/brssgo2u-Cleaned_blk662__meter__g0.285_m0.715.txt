@@ -1,0 +1,8 @@
+--- source: brssgo2u-Cleaned.txt | block: 662 | label: meter | g:0.285 m:0.715 ---
+
+naiṣa doṣaḥ ।
+kasmāt ।
+itarādhikārāt ।
+parasya hyātmanaḥ prakriyāyāmeṣā parimāṇāntaraśrutiḥ ।
+parasyaivātmanaḥ prādhānyena vedānteṣu veditavyatvena prakṛtatvāt ।
+virajaḥ para ākāśādityevaṃvidhācca parasyaivātmanastatra tatra viśeṣādhikārāt ।

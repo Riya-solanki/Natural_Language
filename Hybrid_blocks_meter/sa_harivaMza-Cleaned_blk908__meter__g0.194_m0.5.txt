@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 908 | label: meter | g:0.194 m:0.5 ---
+
+gargasya hi sutaṃ bālaṃ sa rājā janamejayaḥ 
+vākkrūraṃ hiṃsayām āsa brahmahatyām avāpa saḥ ।।

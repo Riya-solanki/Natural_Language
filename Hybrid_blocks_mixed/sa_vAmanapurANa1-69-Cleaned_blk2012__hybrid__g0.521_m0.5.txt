@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2012 | label: hybrid | g:0.521 m:0.5 ---
+
+evaṃ jānan dharmamagryaṃ surendrā nāhaṃ hanyāṃ bhātaraṃ mātuleyam ।
+yadā daityo nirgāmiṣyad guhāntaḥ tadā śaktyā ghātāyiṣyāmi śatrum ।।

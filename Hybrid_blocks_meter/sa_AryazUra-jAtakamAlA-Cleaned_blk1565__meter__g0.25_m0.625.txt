@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1565 | label: meter | g:0.25 m:0.625 ---
+
+dṛṣṭāvadāne dviṣati kā nāmāsya dayā mayi ।
+mama vipratipattiśca keyamasminnanāgasi ।।

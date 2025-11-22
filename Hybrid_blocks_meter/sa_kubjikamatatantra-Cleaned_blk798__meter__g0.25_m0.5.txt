@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 798 | label: meter | g:0.25 m:0.5 ---
+
+jvaram utpādayitvā tu sadantam ānayec chiraḥ 
+pūrvadravyair likhitvā tu nāma tasya gale kṣipet ।।

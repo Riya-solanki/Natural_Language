@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3876 | label: grammar | g:0.75 m:0.5 ---
+
+mahāvīryād durukṣayo nāma putro abhūt tasya trayyāruṇapuṣkariṇau kapiś ca putratrayam abhūt । tac ca tritayam api paścād vipratām upajagāma । bṛhatkṣatrasya suhotraḥ suhotrād dhastī ya idaṃ hastināpuram āropayām āsa । ajamīḍhadvimīḍhapurumīḍhās trayo hastinas tanayāḥ । ajamīḍhāt kaṇvaḥ kaṇvān medhātithiḥ । yataḥ kaṇvāyanā dvijāḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4454 | label: meter | g:0.25 m:0.5 ---
+
+na kiṃ cid anyat paśyāmi bhūtaṃ yad bhavatā samam 
+tvattaḥ sarvam idaṃ jātaṃ jagat sthāvarajaṃgamam ।।

@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 541 | label: grammar | g:0.75 m:0.5 ---
+
+yady anājñātā brahmata om bhūr bhuvaḥ svar janad om ity āhavanīya eva juhuyād ājyabhāgānte sve devatām āvāhayiṣyan yasyai havir niruptaṃ syāt tatontayā yajetājyasyaitāni nirupya ।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3961 | label: meter | g:0.306 m:0.5 ---
+
+adṛśyā rakṣasā tena proktvetthaṃ sā sarasvatī ।
+adarśānaṃ gatā so api dvijaḥ prāha niśācaram ।।

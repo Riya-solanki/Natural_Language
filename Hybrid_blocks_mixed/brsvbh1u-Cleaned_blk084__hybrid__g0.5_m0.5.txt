@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 84 | label: hybrid | g:0.5 m:0.5 ---
+
+-avinābhāvamūlaṃ kāryakāraṇabhāvo vā tatsvabhāvatvaṃ vā vaktavyam, ubhayasyāpyuktakrameṇāsaṃbhavādityarthaḥ ।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 468 | label: meter | g:0.306 m:0.625 ---
+
+āścaryamadbhutamaho bata kiṃsvidetat satyaṃ na veti samudīrṇavicāraharṣāḥ ।
+rājanyamarṣamupamṛdya manaḥprasādaṃ tatsaṃstutipraṇatibhiḥ prathayāmbabhūvuḥ ।।

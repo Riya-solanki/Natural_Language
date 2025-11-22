@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 446 | label: meter | g:0.194 m:0.5 ---
+
+nādamatti parā śaktiḥ śaktimīṣṭe svayaṃ haraḥ 
+bhavināṃ viśramāyaivaṃ māyāyāśca paraḥ śivaḥ ।।

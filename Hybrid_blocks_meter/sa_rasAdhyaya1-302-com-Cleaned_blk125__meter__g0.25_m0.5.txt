@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 125 | label: meter | g:0.25 m:0.5 ---
+
+saptasaptadinaiḥ piṣṭād doṣā naśyanti pañca vai 
+itthaṃ dvādaśabhir doṣair muktaḥ śuddho bhaved rasaḥ ।।

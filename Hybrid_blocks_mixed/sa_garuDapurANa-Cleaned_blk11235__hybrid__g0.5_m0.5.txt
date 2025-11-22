@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11235 | label: hybrid | g:0.5 m:0.5 ---
+
+hariprāptau sādhanāḥ saṃti teṣu mukhyaṃ kaciccintayāmāsa devī ।
+teṣāṃ madhye śravaṇaṃ śreṣṭhamāhuḥ purāṇānāṃ sāttvikānāṃ sadāpi ।।

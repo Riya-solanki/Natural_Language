@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4737 | label: grammar | g:0.675 m:0.0 ---
+
+tanutreṇa vihīnaś ca khaḍgapāṇiś ca yādavaḥ 
+ajeyaś ceti matvā taṃ yuddhāyābhimukhe sthitam ।। 
+aniruddhaṃ raṇe bāṇo jitakāśī mahābalaḥ । vācaṃ covāca saṃkruddho gṛhyatāṃ hanyatām iti ।। vācaṃ ca bruvatas tasya śrutvā prādyumnir āhave । bāṇasya bruvataḥ krodhād dhasamāno abhyudaikṣata ।। uṣā bhayaparitrastā rudatī tatra bhāminī । aniruddhaḥ prahasyātha samāśvāsya ca tāṃ sthitām ।। atha bāṇaḥ śaraughāṇi kṣudrakāṇāṃ samantataḥ । cikṣepa samare kruddho hy aniruddhavadhepsayā ।। aniruddhas tu ciccheda kāṅkṣaṃs tasya parājayam । 
+vavarṣa śarajālāni kṣudrakāṇāṃ samantataḥ 
+bāṇo'niruddhaśirasi kāṅkṣaṃs tasya raṇe vadham ।।

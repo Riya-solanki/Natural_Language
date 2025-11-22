@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 368 | label: grammar | g:0.604 m:0.5 ---
+
+kadā nau saṃgamo bhāvīty ākīrṇe vaktum akṣamam avetya kāntam abalā līlāpadmaṃ nyamīlayat ।।

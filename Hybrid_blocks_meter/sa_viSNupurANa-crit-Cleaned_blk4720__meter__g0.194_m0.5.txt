@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4720 | label: meter | g:0.194 m:0.5 ---
+
+samādiśya tato gopān akrūro api sakeśavaḥ 
+suṣvāpa balabhadraś ca nandagopagṛhe tataḥ ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3692 | label: grammar | g:0.562 m:0.5 ---
+
+svaryāte tu rajau nāradarṣicoditā rajisutāḥ śatakratum ātmapitṛputraṃ ācārād rājyaṃ yācitavantaḥ ।।

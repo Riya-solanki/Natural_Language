@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2209 | label: meter | g:0.39 m:0.688 ---
+
+sarvavijñānasaṃpannaḥ sarvaśāstrārthatattvavit 
+apaśyat sa ca maitreya ātmānaṃ prakṛteḥ param ।।

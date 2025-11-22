@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 162 | label: meter | g:0.034 m:0.605 ---
+
+{vidūṣakaḥ} - hṇādo tattabhavaṃ 
+savvaṃ āṇedu bhodī vajjia bhoaṇaṃ 
+[snātas tatrabhavān । sarvam ānayatu bhavatī varjayitvā bhojanam । ]

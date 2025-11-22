@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3869 | label: meter | g:0.194 m:0.5 ---
+
+mānayiṣyaṃś ca tān rukmī pratyudgamya narādhipān 
+parayā pūjayopetān ānināya purīṃ prati ।।

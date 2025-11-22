@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4282 | label: meter | g:0.102 m:0.695 ---
+
+tataḥ praveśe saṃruddhau rakṣibhiḥ puruṣarṣabhau 
+hatvā kuvalayāpīḍaṃ sasādinam ariṃdamau 
+avamṛdya durādharṣau raṅgaṃ viviśatus tadā ।।

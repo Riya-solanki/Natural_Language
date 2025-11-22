@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 4514 | label: meter | g:0.25 m:0.625 ---
+
+śyāmarūkṣāśmarī cāsya syāccitā kaṇṭakairiva ।
+pittena dahyate bastiḥ pacyamāna ivoṣṇavān ।।

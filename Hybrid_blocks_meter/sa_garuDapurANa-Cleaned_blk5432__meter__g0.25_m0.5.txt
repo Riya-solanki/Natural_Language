@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5432 | label: meter | g:0.25 m:0.5 ---
+
+vaibhī takaṃ śākhoṭakaṃ mūlaṃ patreṇa saṃyutam ।
+sthāpyate yadgṛhadvāre tatra vai kalaho bhavet ।।

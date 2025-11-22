@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 136 | label: hybrid | g:0.381 m:0.524 ---
+
+atrāhaṃ praṣṭukāma iti vaktavye tāṭasthyapratītyarthamayaṃ jana ityuktam ।
+yathā vā ।

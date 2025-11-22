@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 459 | label: grammar | g:0.75 m:0.5 ---
+
+atra sātvatyā raudrānupraveśa-kathanaṃ raudra-pratibhaṭasya yuddha-vīrasyaiva saṃlāpādibhiḥ sātvatī-bhedaiḥ paripoṣaṇaṃ na tu dāna-vīra-dayā-vīrayor iti jñāpanārtham । tasmān na niyama-virodhaḥ । bhāratyāś ca karuṇādbhuta-viṣayatva-kathanaṃ tayoḥ prāyeṇa vāg-ārambha-mukhena paripoṣa iti jñāpanārtham । tena bhāratyāḥ sarva-rasa-sādhāraṇayam upapannam eva ।

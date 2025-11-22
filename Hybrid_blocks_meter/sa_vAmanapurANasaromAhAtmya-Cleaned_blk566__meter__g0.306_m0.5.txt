@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 566 | label: meter | g:0.306 m:0.5 ---
+
+jyeṣṭhe māsi site pakṣe ekādaśyāmupoṣitaḥ ।
+dvādaśyāṃ ca naraḥ snātvā jyeṣṭhatvaṃ labhate nṛpu ।।

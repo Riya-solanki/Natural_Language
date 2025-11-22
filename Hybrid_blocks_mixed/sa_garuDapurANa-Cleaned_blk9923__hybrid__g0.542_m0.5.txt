@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9923 | label: hybrid | g:0.542 m:0.5 ---
+
+gatvā variṣṭhe bhuvi tīrthasannidhau dhanaṃ na dattaṃ viduṣāṃ kare mayā ।
+āplutya dehaṃ vidhinā dvije gurau dihinkvacinnistara yattvayā kṛtam ।।

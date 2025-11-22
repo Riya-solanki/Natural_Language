@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 940 | label: grammar | g:0.75 m:0.5 ---
+
+atha vajrapāṇirmahābodhisatvastāṃstribhuvanasanniveśānāhūyaivamāha । "pratigṛṇhata mārṣāḥ punastriśaraṇagamanaśikṣāsamayasaṃvaraṃ, mama ca samaye tiṣṭhata!" । ta evamāhuḥ "evamastviti । kintu vayaṃ tava samayam [akovidāḥ]" ।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 73 | label: meter | g:0.25 m:0.555 ---
+
+tad upaśrutya tapasā yuktāḥ sarve pracetasaḥ 
+prācetasam upastavya tapasaḥ sarvaparvataiḥ । 
+mukhebhyo vāyum agniṃ ca te asṛjañ jātamanyavaḥ ।।

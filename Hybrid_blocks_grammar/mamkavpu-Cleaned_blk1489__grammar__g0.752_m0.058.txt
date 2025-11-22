@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1489 | label: grammar | g:0.752 m:0.058 ---
+
+atra airāvaṇaśakrau madamānamuktau jātāviti vyaṅgyamapi śabdenocyate । tena yadevocyate tadeva vyaṅgyam । yathā tu vyaṅgyaṃ na tathocyate । yathā gavi śukle calati dṛṣṭe {gauḥ śuklaścalati} iti vikalpaḥ । yadeva dṛṣṭaṃ tadeva vikalpayati na tu yathā dṛṣṭaṃ tathā ।
+yato abhinnāsaṃsṛṣṭatvena dṛṣṭam bhedasaṃsargābhyāṃ vikalpayati ।।

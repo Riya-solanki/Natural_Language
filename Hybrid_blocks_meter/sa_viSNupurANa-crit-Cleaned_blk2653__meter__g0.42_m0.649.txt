@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2653 | label: meter | g:0.42 m:0.649 ---
+
+vṛṣagaṇakaṇabhakṣaśaṃkaroktir daśabalapañcaśikhākṣapādavādān 
+mahad api suvicārya lokatantraṃ bhagavadupāsyam ṛte na siddhir asti ।।

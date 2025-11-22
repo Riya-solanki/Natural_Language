@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2114 | label: grammar | g:0.75 m:0.5 ---
+
+bodhisattvabhūtaḥ kilāyaṃ bhagavān vyādhijarāmaraṇapriyaviprayogādivyasanaśatopanipātaṃ duḥkhitamanāthamatrāṇamapariṇāyakaṃ lokamavekṣya karuṇayā samutsāhyamānastatparitrāṇavyavasitamatiratisādhusvabhāvastattatsaṃpādayamāno vimukhasyāsaṃstutasyāpi ca lokasya hitaṃ sukhaviśeṣa ca kadācidanyatamasmin rājakule prajānurāgasaumukhyādaskhalitābhivṛddhyā ca samṛddhyā samānatadṛptasāmantayā cābhivyajyamānamahābhāgye vinayaślāghini janma pratilebhe । sa jāyamāna eva tadrājakulaṃ tatsamānasukhaduḥkhaṃ ca puravaraṃ parayābhyudayaśriyā samyojayāmāsa ।

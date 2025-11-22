@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6144 | label: meter | g:0.194 m:0.625 ---
+
+guṇasāmyam anudriktam anyūnaṃ ca mahāmune 
+procyate prakṛtir hetuḥ pradhānaṃ kāraṇaṃ param ।।

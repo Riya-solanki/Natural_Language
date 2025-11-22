@@ -1,0 +1,3 @@
+--- source: brssgo3u-Cleaned.txt | block: 44 | label: hybrid | g:0.5 m:0.5 ---
+
+FN adhikriyate puruṣo vidhinā saṃbadhyate anenetyadhikāraḥ phalakāmanā ।

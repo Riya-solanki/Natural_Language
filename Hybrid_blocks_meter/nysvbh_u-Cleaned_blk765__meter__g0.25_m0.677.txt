@@ -1,0 +1,7 @@
+--- source: nysvbh_u-Cleaned.txt | block: 765 | label: meter | g:0.25 m:0.677 ---
+
+nāyaṃ guṇaniyogaḥ sādhuḥ, kasmāt ?
+yasya bhūtasya ye guṇā na te tadātmakenendriyeṇa
+sarve upalabhyante ।
+pārthivena hi ghrāṇena sparśaparyantā na gṛhyante
+gandha evaiko gṛhyate, evaṃ śeṣeṣvapīti ।।

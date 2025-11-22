@@ -1,0 +1,3 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 180 | label: meter | g:0.25 m:0.5 ---
+
+prākāraṃ kavacaṃ kuryāt svadhāmno apyevameva hi ।

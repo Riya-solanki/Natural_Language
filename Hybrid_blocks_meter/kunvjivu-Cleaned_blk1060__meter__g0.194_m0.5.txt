@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 1060 | label: meter | g:0.194 m:0.5 ---
+
+atra kṛtrimakāraṇaparityāgapūrvakaṃ lokottarasahajaviśeṣaviśiṣṭatā varṇanīyasya kaverabhipretā ।
+tadevamasaṃbhāvyakāraṇatvādavibhāvyamānasvabhāvāṃ vibhāvanāṃ vicārya vicāragocarasvarūpatayā svarūpasandehasamarpitātiśayaṃ sasandehamabhidhatte

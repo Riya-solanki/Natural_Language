@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 965 | label: meter | g:0.25 m:0.5 ---
+
+[] mātā prāha-putra, vṛndāvana-nāmani vana-dhāmani ।

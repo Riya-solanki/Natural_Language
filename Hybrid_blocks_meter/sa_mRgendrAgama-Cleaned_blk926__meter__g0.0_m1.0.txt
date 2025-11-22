@@ -1,0 +1,4 @@
+--- source: sa_mRgendrAgama-Cleaned.txt | block: 926 | label: meter | g:0.0 m:1.0 ---
+
+japastadbhāṣaṇaṃ dhyeyasaṃmukhīkaraṇaṃ mune 
+ūho abhivīkṣaṇaṃ vastuvikalpānantaroditaḥ ।। MT

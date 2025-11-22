@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1222 | label: meter | g:0.194 m:0.5 ---
+
+baddhavairāṇi bhūtāni dveṣaṃ kurvanti cet tataḥ 
+śocyāny aho atimohena vyāptānīti manīṣiṇām ।।

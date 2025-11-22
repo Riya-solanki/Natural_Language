@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6941 | label: meter | g:0.29 m:0.591 ---
+
+brahmovāca ।
+mune stotraṃ pravakṣyāmiḥ vāsudevasya muktidam ।
+śṛṇu yena stutaḥ samyak pūjākāle prasīdati ।।

@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6481 | label: hybrid | g:0.478 m:0.32 ---
+
+oṃ siddhamidamāsanam iha siddhamityabhidhāya oṃ bhūḥ oṃ bhuvaḥ oṃ svaḥ oṃ mahaḥ oṃ janaḥ oṃ tapaḥ oṃ satyamiti saptavyāhṛtibhiḥ pūrvamukhandevabrāhmaṇopaveśanam ।
+uttaradiṅmukhaṃpitṛbrāhmayoṇopaveśanam ।
+oṃ devatābhyaḥ pitṛbhyaśca mahāyogibhya eva ca ।
+namaḥ svadhāyai svāhāyai nityameva bhavantute iti trirjapet ।।

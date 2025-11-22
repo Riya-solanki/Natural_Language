@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2606 | label: meter | g:0.346 m:0.747 ---
+
+somādhārānpitṛgaṇānyogamūrtidharāṃstathā ।
+namasyāmi tathā somaṃ pitaraṃ jagatāmaham ।।

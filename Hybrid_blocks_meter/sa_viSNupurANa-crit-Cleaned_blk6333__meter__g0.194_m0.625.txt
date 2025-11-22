@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6333 | label: meter | g:0.194 m:0.625 ---
+
+nirvāṇamaya evāyam ātmā jñānamayo amalaḥ 
+duḥkhājñānamalā dharmāḥ prakṛtes te tu nātmanaḥ ।।

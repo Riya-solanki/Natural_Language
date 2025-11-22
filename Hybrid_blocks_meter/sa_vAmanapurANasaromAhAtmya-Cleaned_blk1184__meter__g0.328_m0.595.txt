@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1184 | label: meter | g:0.328 m:0.595 ---
+
+yadi tuṣṭo asi me deva yadi deyo varo mama ।
+devasvabhakṣaṇāñjātaṃ śvayonau tava sevakam ।।

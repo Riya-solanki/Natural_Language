@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2819 | label: meter | g:0.194 m:0.75 ---
+
+akṣauhiṇyaś ca śūrāṇāṃ rājñāṃ saṃgrāmaśālinām 
+samare rājadharmeṇa yojayiṣyanti mṛtyunā ।।

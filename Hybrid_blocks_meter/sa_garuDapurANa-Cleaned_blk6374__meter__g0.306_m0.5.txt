@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6374 | label: meter | g:0.306 m:0.5 ---
+
+tato api sārasaṃ puṇyaṃ tasmānnādeyamucyate ।
+tīrthatoyaṃ tataḥ puṇyaṃ gāgaṃ puṇyaṃ tu sarvataḥ ।।

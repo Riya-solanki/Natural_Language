@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 4940 | label: meter | g:0.194 m:0.625 ---
+
+yasmin pratiṣṭhitaṃ sarvaṃ jagat sthāvarajaṅgamam 
+sa koṣṭhotsaṅgaśayano manuṣyāj jāyate katham ।।

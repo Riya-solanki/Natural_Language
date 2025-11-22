@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3464 | label: meter | g:0.326 m:0.774 ---
+
+pretasaṃskāramātreṇa kṛte bāndhavakarmaṇi 
+ānṛṇyaṃ laukikaṃ kṛṣṇa gataḥ kila bhavāmy aham ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10172 | label: meter | g:0.25 m:0.625 ---
+
+pratibiṃbaḥ kathaṃ jīvo bhavennārāyaṇasya ca ।
+tadadhīnastatsadṛśo harerjīvo na saṃśayaḥ ।।

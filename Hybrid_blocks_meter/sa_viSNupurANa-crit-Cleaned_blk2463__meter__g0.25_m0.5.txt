@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2463 | label: meter | g:0.25 m:0.5 ---
+
+rudraputras tu sāvarṇir bhavitā dvādaśo manuḥ 
+ṛtadhāmā ca tatrendro bhavitā śṛṇu me surān ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1076 | label: meter | g:0.194 m:0.625 ---
+
+tat padaṃ vidyate yasya sāmarthajñaḥ sa sarvaśaḥ 
+jñānamārgaprasiddhyarthaṃ dīkṣā vedhavatī śubhā ।।

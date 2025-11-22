@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1432 | label: meter | g:0.306 m:0.5 ---
+
+tathā dukūlāmbaraśālinī tvaṃ mṛgāricarmābhivṛtastu rudraḥ ।
+tvaṃ candanāktā sa bhasmabhūṣito na yuktarūpaṃ pratibhāti me tvidam ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1953 | label: meter | g:0.194 m:0.625 ---
+
+maheśvareṇa vā brahman viśākhena guhena vā 
+yakṣarākṣasagandharvaiś cāraṇair vā mahoragaiḥ ।।

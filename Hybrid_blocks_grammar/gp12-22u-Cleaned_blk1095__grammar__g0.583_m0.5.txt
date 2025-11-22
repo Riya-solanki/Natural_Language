@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 1095 | label: grammar | g:0.583 m:0.5 ---
+
+[] atra cānyathā nijāṅgīkāra-sabhaṅgī-bhāvād dharma eva marma-bādhāyāṃ nātmānaṃ saṃvarmayed iti bhāvaḥ ।

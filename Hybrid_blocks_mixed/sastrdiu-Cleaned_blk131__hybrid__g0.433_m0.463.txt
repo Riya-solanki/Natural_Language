@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 131 | label: hybrid | g:0.433 m:0.463 ---
+
+yadica sanmātraṃ pratyakṣeṇa gṛhyate na nīlaṃ pītaṃ vā tato vikalpenāpīdamasmādbhinnamiti kathaṃ bhedo gṛhyeta ।
+na hi sadeva sato bhinnamiti saṃbhavati ।
+tasmānnīlādiguṇānāṃ pṛthivyādidravyāṇāṃ ca pratyakṣeṇa grahaṇātprapañcāpalāpaḥ pratyakṣaviruddha eva ।।

@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5539 | label: meter | g:0.217 m:0.845 ---
+
+sabhūbhṛdbhṛtyapaurāṃ tu sāśvamātaṅgamānavām 
+aśeṣakośakoṣṭhāṃ tāṃ durnirīkṣyāṃ surair api ।।

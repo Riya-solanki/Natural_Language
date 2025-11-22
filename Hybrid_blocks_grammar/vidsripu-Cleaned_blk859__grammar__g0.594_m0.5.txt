@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 859 | label: grammar | g:0.594 m:0.5 ---
+
+mātar gehini yady ayaṃ hataśukaḥ saṃvardhanīyo mayā lauhaṃ pañjaram asya durnayavato gāḍhaṃ tadā kāraya ।
+adyainaṃ badarīnikuñjakuhare līnaṃ pracaṇḍorage karṣantyā mama tāvad aṅgalikhanair evāpadeṣāgatā ।।

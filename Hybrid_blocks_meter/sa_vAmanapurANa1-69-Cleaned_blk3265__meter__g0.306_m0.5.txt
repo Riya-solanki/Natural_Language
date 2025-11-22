@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3265 | label: meter | g:0.306 m:0.5 ---
+
+laṃ baliḥ prāha bhostāta tvatprasādāt surā mayā ।
+nirjitāḥ śakrarājyaṃ ca hṛtaṃ vīryabalānmayā ।।

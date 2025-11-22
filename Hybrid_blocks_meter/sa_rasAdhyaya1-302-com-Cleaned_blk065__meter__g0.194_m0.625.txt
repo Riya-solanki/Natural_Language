@@ -1,0 +1,4 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 65 | label: meter | g:0.194 m:0.625 ---
+
+pañcavarṇā bhavet śyāmā kālikā kṛṣṇavarṇikā 
+sadā sūtasya jāyante sahajāḥ sapta kañcukāḥ ।।

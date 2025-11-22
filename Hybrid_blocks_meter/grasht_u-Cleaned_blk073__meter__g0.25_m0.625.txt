@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 73 | label: meter | g:0.25 m:0.625 ---
+
+āyatanaṃ vidyānāṃ mūlaṃ dharmārthakāmamokṣāṇām ।
+śreyaḥ paraṃ kimanyat śarīramajarāmaraṃ vihāyaikam ।।

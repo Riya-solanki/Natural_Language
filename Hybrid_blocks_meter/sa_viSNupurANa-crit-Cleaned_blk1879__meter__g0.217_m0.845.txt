@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1879 | label: meter | g:0.217 m:0.845 ---
+
+yāvatpramāṇā pṛthivī vistāraparimaṇḍalāt 
+nabhas tāvatpramāṇaṃ vai vyāsamaṇḍalato dvija ।।

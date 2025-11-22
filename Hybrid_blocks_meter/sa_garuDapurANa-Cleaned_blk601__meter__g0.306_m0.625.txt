@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 601 | label: meter | g:0.306 m:0.625 ---
+
+evaṃ śivāya kṛṣṇāya brahmaṇe ca gaṇāya ca ।
+caṇḍikāyai sarasvatyai mahālakṣmādi pūjayet ।।

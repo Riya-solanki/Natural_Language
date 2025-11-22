@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10681 | label: hybrid | g:0.521 m:0.5 ---
+
+hareḥ svarūpe ca tathā prapañcaḥ svasminsvarūpe ca khagasti jñānam ।
+yathāpi nityaṃ paricāravāri ca ajñātavaddṛśyate viṣṇunā ca ।।

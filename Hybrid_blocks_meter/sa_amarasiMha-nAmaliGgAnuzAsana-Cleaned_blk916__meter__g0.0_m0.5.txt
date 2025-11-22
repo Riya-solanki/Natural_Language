@@ -1,0 +1,3 @@
+--- source: sa_amarasiMha-nAmaliGgAnuzAsana-Cleaned.txt | block: 916 | label: meter | g:0.0 m:0.5 ---
+
+kaṇḍūḥ kharjūśca kaṇḍūyā visphoṭaḥ piṭakaḥ striyām

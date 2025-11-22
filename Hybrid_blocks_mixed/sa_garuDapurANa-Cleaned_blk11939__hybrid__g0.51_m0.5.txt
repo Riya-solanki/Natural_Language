@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11939 | label: hybrid | g:0.51 m:0.5 ---
+
+śaraṃvarāya pañcajanyācca pañca hitvā jagdhvā garvakaṃ ṣaṭkrameṇa ।
+svabāṇasya svahṛdi saṃsthitasya bhajetsadā naiva bhaktiṃ viṣaṃ ca ।।

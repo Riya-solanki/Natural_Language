@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 595 | label: meter | g:0.311 m:0.5 ---
+
+gamayedyadi brahmaṇo loka iti ṣaṣṭhīsamāsavṛttyā vyutpādyeta ।
+sāmānādhikaraṇavṛttyā tu vyutpādyamāno brahmaiva loko brahmaloka iti parameva brahma gamayiṣyati ।
+etadeva cāhararbrahmalokagamanaṃ dṛṣṭaṃ brahmaśabdasya sāmānādhikaraṇyavṛttiparigrahe liṅgam ।
+nahyaharaharimāḥ prajāḥ kāryabrahmalokaṃ satyalokākhyaṃ gacchantīti śakyaṃ kalpayitum ।।

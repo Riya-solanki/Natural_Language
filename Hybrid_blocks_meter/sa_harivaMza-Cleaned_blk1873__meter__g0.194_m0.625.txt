@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1873 | label: meter | g:0.194 m:0.625 ---
+
+te prajānāṃ śubhakarāḥ karadair avigarhitāḥ 
+akarair viprayuktārthāḥ kośam āpūrayan sadā ।।

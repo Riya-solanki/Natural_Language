@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 921 | label: hybrid | g:0.5 m:0.5 ---
+
+[] vrajarājaḥ sakautukam uvāca-kathyatāṃ tathyaṃ, samprati kutra pratiyātau?

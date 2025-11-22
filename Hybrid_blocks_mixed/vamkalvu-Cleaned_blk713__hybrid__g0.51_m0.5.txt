@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 713 | label: hybrid | g:0.51 m:0.5 ---
+
+na ketakīnāṃ vilasanti sūcayaḥ pravāsino hanta hasatyayaṃ vidhiḥ ।
+taḍillateyaṃ na cakāsti cañcalā puraḥ smarajyotiridaṃ vivartate ।।

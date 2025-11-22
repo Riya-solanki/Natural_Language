@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11254 | label: meter | g:0.25 m:0.5 ---
+
+karmānusāreṇa dhanārjanaṃ ca vedārjanaṃ śāstrasamārjanaṃ ca ।
+bhaviṣyati śravaṇaṃ cāpi viṣṇoratyādarācchravaṇaṃ durghaṭaṃ ca ।।

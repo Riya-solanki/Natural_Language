@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1460 | label: meter | g:0.194 m:0.5 ---
+
+rājñāṃ vaiśravaṇaṃ rājye jalānāṃ varuṇaṃ tathā 
+ādityānāṃ patiṃ viṣṇuṃ vasūnām atha pāvakam ।।

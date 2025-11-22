@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 273 | label: grammar | g:0.708 m:0.5 ---
+
+anyavedyam aṇumātram asti na svaprakāśam akhilaṃ vijṛmbhate yatra nātha bhavataḥ pure sthitaṃ tatra me kuru sadā tavārcituḥ ।।

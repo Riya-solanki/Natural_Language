@@ -1,0 +1,7 @@
+--- source: brssgo2u-Cleaned.txt | block: 536 | label: meter | g:0.291 m:0.771 ---
+
+na kevalaṃ tarkādākāśasyānutpattiḥ, kintu śrutito apītyāha-sūtrakāraḥ-śabdācceti ।
+nityabhāvasyānāditvāditi ।
+bhāvaḥ ।
+ātmeti ca śabda ihodāharaṇamityanvayaḥ ।
+ākāśaḥ śarīramasyeti bahuvrīhiṇātyantasāmyabhānādbrahmavadākāśasyānāditvamityarthaḥ ।।

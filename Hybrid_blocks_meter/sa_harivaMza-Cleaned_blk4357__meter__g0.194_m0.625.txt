@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4357 | label: meter | g:0.194 m:0.625 ---
+
+viditaṃ tac ca kṛṣṇasya devamāyānuvartinaḥ 
+tato na nigṛhītaḥ sa dānavo yuddhadurmadaḥ ।।

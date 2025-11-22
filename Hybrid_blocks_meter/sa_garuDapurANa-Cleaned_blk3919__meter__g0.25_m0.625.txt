@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3919 | label: meter | g:0.25 m:0.625 ---
+
+śrīdevī śāntidevī ca vasudeva uvāha tāḥ ।
+devavānupadevaśca sahadevāsutau smṛtau ।।

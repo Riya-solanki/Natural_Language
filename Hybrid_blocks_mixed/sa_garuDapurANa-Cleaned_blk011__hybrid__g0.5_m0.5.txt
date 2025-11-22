@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11 | label: hybrid | g:0.5 m:0.5 ---
+
+tasya devasya kiṃ rūpaṃ jagatsargaḥ kathaṃ mataḥ ।
+kairvrataiḥ sa tu tuṣṭaḥ syātkena yogena vāpyate ।।

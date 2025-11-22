@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 417 | label: meter | g:0.194 m:0.625 ---
+
+snāyu-nyāsa-nibaddha-kīka-satanuṃ nṛtyantam ālokya māṃ
+cāmuṇḍā-karatāla-kuṭṭita-layaṃ vṛtte vivāhotsave ।
+hrī-mudrām apanudya yad vihasitaṃ devyā samaṃ śambhunā
+tenādyāpi mayi prabhuḥ sa jagatām āste prasādonmukhaḥ ।।

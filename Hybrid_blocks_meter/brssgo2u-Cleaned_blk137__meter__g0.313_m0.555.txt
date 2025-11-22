@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 137 | label: meter | g:0.313 m:0.555 ---
+
+kāryamupādānadbhinnaṃ tadupalabdhāvapyanupalabhyamānatvāt tato adhikaparimāṇatvācca maśakādiva śaśaka ityatra vyabhicārārthaṃ sūtram-paṭavacceti ।
+dvitīyahetorvyabhicāraṃ sphuṭayati-yathā ca saṃveṣṭaneti ।
+āyāmo dairghyam ।।

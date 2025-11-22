@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1128 | label: meter | g:0.306 m:0.5 ---
+
+dadau triśūlaṃ varadastriśūlī cakraṃ murārirvaruṇaśca śaṅkham ।
+śaktiṃ hutāśaḥ śvasanaśca cāpaṃ tūṇau tathākṣyyaśarau vivasvān ।।

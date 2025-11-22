@@ -1,0 +1,4 @@
+--- source: gp01-11u-Cleaned.txt | block: 79 | label: hybrid | g:0.432 m:0.325 ---
+
+[] iha ca pūrvaṃ yad eva śrī-parama-puruṣa-śabdābhyām adhyavasitaṃ, tad evādhyavasīyate । tāsu kevalāsu vraja-rāja-suta-vadhū-bhāvasya labdha-prasiddhitāṃ vinā
+vraja-kamala-sakala-patrāvaly-ādhipatyaṃ na prasidhyatīti ।

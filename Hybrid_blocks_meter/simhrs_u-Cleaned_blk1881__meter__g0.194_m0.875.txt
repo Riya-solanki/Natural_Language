@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1881 | label: meter | g:0.194 m:0.875 ---
+
+mārtaṇḍaika-kula-prakāṇḍa-tilakas trailokya-rakṣā-maṇir
+viśvāmitra-mahāmuner nirupadhiḥ śiṣyo raghu-grāmaṇīḥ ।
+rāmas tāḍita-tāṭakaḥ kim aparaṃ pratyakṣa-nārāyaṇaḥ
+kausalyā-nayanotsavo vijayatāṃ bhū-kāśyapasyātmajaḥ ।।

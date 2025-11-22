@@ -1,0 +1,7 @@
+--- source: tsc_simu-Cleaned.txt | block: 21 | label: meter | g:0.25 m:0.667 ---
+
+sāmyāvasthā guṇānāṃ yā prakṛtiḥ sā svabhāvataḥ ।
+kālakṣobheṇa vaiṣamyāt kṣetre parayute purā ।।
+buddhistataścāhaṅkārastrividho api vyajāyata ।
+tanmātrāṇīndriyāṇi mahābhūtāni ca kramāt ।।
+evaṃ krameṇaivotpattiḥ sañcaraḥ parikīrttitaḥ ।

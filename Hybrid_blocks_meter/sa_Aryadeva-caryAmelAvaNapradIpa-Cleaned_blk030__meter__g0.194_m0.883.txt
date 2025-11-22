@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 30 | label: meter | g:0.194 m:0.883 ---
+
+kāyavivekamelāvaṇasaṃśayaparicchedo dvitīyaḥ ।।
+tṛtīyaḥ paricchedaḥ

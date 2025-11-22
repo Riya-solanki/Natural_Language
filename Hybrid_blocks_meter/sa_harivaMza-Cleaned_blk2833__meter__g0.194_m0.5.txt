@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2833 | label: meter | g:0.194 m:0.5 ---
+
+prīto asmi darśanād eva tava śakra śacīpate 
+yat tvayābhihitaṃ cedaṃ na kiṃcit parihāsyate ।।

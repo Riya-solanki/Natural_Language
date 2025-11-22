@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10412 | label: meter | g:0.25 m:0.5 ---
+
+hariṃ nārāyaṇaṃ samyak stotuṃ samupacakrire ।
+cintyācintyaguṇe viṣṇau viruddhāḥ saṃti sadguṇāḥ ।।

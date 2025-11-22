@@ -1,0 +1,4 @@
+--- source: grasht_u-Cleaned.txt | block: 854 | label: grammar | g:0.719 m:0.375 ---
+
+anyaccāha rasetyādi ।
+rasaḥ sūtaḥ daradaṃ hiṅgulaḥ vimalaṃ tāpyabhedaḥ paṭu saiṃdhavaṃ śilā manohvā mākṣikaṃ pratītaṃ vaṇigdravyaṃ nṛpo rājāvartaḥ pravālaṃ vidrumaṃ kaṅkuṣṭhaṃ viraṅgaṃ ṭaṅkaṇaṃ saubhāgyaṃ gairikaṃ pratītaṃ etaiḥ prativāpitaṃ sitadravyaṃ kanakaṃ bhavet ityadhyāhāryam ।।

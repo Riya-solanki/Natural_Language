@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 783 | label: hybrid | g:0.521 m:0.5 ---
+
+yathā yathā pīḍayati sma nāma tam āryakarmāṇam asāv anāryaḥ ।
+tathā tathāsau tadapāyaśaṅkī na cakṣur unmīlayituṃ viṣehe ।।

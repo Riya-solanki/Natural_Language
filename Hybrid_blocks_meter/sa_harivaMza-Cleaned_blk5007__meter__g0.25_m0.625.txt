@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5007 | label: meter | g:0.25 m:0.625 ---
+
+nivṛtte nāradapraśne mayoktaṃ te samāsataḥ 
+uktās te vistarāḥ sarve pūrvaṃ ye janamejaya ।।

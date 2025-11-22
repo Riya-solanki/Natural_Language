@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 602 | label: meter | g:0.194 m:0.5 ---
+
+lokāḥ sanātanā nāma yatra tiṣṭhanti bhāsvarāḥ 
+amūrtayaḥ pitṛgaṇās te vai putrāḥ prajāpateḥ ।।

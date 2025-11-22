@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 690 | label: meter | g:0.25 m:0.5 ---
+
+tasyānvavāye mahati mahān pauravanandanaḥ 
+mahataś cāpi putras tu nāmnā rukmarathaḥ smṛtaḥ ।। 
+putro rukmarathasyāpi supārśvo nāma pārthivaḥ । 
+supārśvatanayaś cāpi sumatir nāma dhārmikaḥ । 
+jajñe saṃnatimān rājā saṃnatir nāma vīryavān ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4511 | label: meter | g:0.194 m:0.5 ---
+
+yathā caturthaṃ dharmasya rakṣitā labhate phalam 
+pāpasyāpi tathā mūḍha bhāgaṃ prāpnoty arakṣitā ।।

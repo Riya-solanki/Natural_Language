@@ -1,0 +1,4 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 143 | label: hybrid | g:0.521 m:0.5 ---
+
+suśrūṣā yasya yasyārthe yatra yatra yathā yathā ।
+sa so arthaḥ khyātyaśabdo api tatra tatra tathā tathā ।।

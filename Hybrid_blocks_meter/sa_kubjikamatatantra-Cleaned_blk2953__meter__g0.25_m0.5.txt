@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2953 | label: meter | g:0.25 m:0.5 ---
+
+adhyātmaṃ kurute bāhyaṃ vratacaryā tu sādhanam 
+evaṃ kṛte bhavet siddhiḥ satyaṃ satyaṃ na saṃśayaḥ ।।

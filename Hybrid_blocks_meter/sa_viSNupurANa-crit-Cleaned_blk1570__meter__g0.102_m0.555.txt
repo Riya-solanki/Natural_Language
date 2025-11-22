@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1570 | label: meter | g:0.102 m:0.555 ---
+
+nābhiḥ kiṃpuruṣaś caiva harivarṣa ilāvṛtaḥ 
+ramyo hiraṇvān ṣaṣṭhas tu kurur bhadrāśva eva ca 
+ketumālas tathaivānyaḥ sādhuceṣṭo nṛpo abhavat ।।

@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 484 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha śrīdāma-pradhānatayā sudāma-vasudāmādiṣu sabhāsadvad gojāla-sambhālanāya nātidūrataḥ pṛthag upaviśatsu lasatsu balānuja-bala-subalārjunādayas tatrāgatya nṛtya-raṅgājīvi-bhaṅgitayā saṅgatya śubhāśiṣā viśeṣitavantaḥ । taiś ca kutratyā vicitra-nartaka-prāyāḥ prayātā bhavantaḥ? iti pṛṣṭā hṛṣṭātmānaḥ sphuṭam uddiṣṭavantaḥ-bhoḥ parama-dānaśūrāḥ ! dūrād āgatā vayam yataḥ prathamaṃ tāvad bhavat-kīrti-nartita-manaskā jātāḥ, tataś ca śarīreṇāpi bhavad-agre nartitum icchāvaḥ । kutrāpi cirāya vartituṃ na samarthāḥ । śrotrayor iva netrayor api sukhaṃ bibhrataḥ samprati vartāmahe ।

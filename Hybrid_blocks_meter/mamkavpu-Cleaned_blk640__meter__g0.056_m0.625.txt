@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 640 | label: meter | g:0.056 m:0.625 ---
+
+{kalyāṇānāṃ tvamasi mahasāṃ bhājanaṃ viśvamūrte
+dhuryāṃ lakṣmīmatha mayi bhṛśaṃ dhehi deva prasīda ।
+yadyatpāpaṃ pratijahi jagannātha namrasya tanme
+bhadraṃ bhadraṃ vitara bhagavan bhūyase maṅgalāya ।।}

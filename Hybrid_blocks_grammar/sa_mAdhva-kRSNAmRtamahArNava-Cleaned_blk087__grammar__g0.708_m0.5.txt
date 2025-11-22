@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 87 | label: grammar | g:0.708 m:0.5 ---
+
+re re manuṣyāḥ puruṣottamasya karau na kasmān mukulīkurudhve kriyājuṣāṃ ko bhavatāṃ prayāsaḥ phalaṃ hi yat padam acyutasya ।।

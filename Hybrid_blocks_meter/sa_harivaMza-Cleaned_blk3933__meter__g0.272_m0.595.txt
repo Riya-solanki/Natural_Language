@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3933 | label: meter | g:0.272 m:0.595 ---
+
+tāmutthāpya pariṣvajya sāntvayāmāsa keśavaḥ 
+abhayaṃ rukmiṇe dattvā prayayau svāṃ purīṃ tataḥ ।।

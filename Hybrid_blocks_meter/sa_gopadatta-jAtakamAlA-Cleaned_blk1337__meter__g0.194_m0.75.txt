@@ -1,0 +1,6 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1337 | label: meter | g:0.194 m:0.75 ---
+
+tasyāścaryam udāradharmasuratiṃ cākarṇya viproditaṃ
+tyaktvā vairavikāraduḥsahataraṃ krodhābhidhānaṃ viṣam ।
+dhṛtvā maulim ivonnate rājā svayaṃ
+cakre taccaraṇāmbujapraṇayinīm uṣṇīṣamālāṃ kṣaṇāt ।।

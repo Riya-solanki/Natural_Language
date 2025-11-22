@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 279 | label: hybrid | g:0.293 m:0.47 ---
+
+yāvanta buddhasama śrāvakapratyayāśca marutaśca sarvajagatī sukhasaukhyadharmāḥ 
+sarve ti prajñavarapāramitāprasūtā na ca kṣīyate na ca vivardhati jātu prajñā ।।

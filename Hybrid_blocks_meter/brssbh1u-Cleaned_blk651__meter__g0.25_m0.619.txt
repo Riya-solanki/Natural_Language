@@ -1,0 +1,5 @@
+--- source: brssbh1u-Cleaned.txt | block: 651 | label: meter | g:0.25 m:0.619 ---
+
+FN bhīṣā bhītyā ।
+asmādbrahmaṇo nimittāditi yāvat ।
+pañcānāṃ grahaṇaṃ brahmādistambāntacarācaropalakṣaṇārtham ।

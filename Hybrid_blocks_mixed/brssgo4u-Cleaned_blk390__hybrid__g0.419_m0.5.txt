@@ -1,0 +1,5 @@
+--- source: brssgo4u-Cleaned.txt | block: 390 | label: hybrid | g:0.419 m:0.5 ---
+
+na etat dāruyantra upamā abhyupagame avakalpate na api jīvāntarāveśe ।
+na ca nirātmakānāṃ śarīrāṇāṃ pravṛttiḥ saṃbhavati ।
+yat tu ātma manasoḥ bheda anupapatteḥ anekaśarīrayoga asaṃbhava iti ।

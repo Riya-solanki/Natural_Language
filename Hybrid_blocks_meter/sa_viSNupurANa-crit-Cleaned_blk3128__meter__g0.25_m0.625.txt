@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3128 | label: meter | g:0.25 m:0.625 ---
+
+aurabhragavyaiś ca tathā māsavṛddhyā pitāmahāḥ 
+prayānti tṛptiṃ māṃsais tu nityaṃ vārdhrīṇasām iṣaiḥ ।।

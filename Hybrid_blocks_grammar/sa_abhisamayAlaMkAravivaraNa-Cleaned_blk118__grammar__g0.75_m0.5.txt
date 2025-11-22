@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 118 | label: grammar | g:0.75 m:0.5 ---
+
+bhedaṃ asyāḥ sambhārapratipatteḥ saptadaśa bhedā bhavanti । yathā mahākaruṇāsambhāraḥ, dānasambhāraḥ, śīlasambhāraḥ, kṣāntisambhāraḥ, vīryasambhāraḥ, dhyānasambhāraḥ, prajñāsambhāraḥ, śamathasambhāraḥ, vidarśanāsambhāraḥ, yuganaddhasambhāraḥ, upāyakauśalasambhāraḥ, jñānasambhāraḥ, puṇyasambhāraḥ, mārgasambhāraḥ, dhāraṇīsambhāraḥ, bhūmisambhāraḥ, pratipakṣasambhāraśceti ।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 247 | label: meter | g:0.056 m:0.5 ---
+
+navendur mūrtir vā kanaka-kamalaṃ vaktram athavā
+cakorau netre vā visarad-amṛtaṃ dṛṣṭir athavā ।
+apītthaṃ rādhāyāṃ yadi jita-tulāyāṃ na valate
+vikalpaḥ kiṃ tarhi prasajatitarāṃ tat-tad-upamā ।। [śikhariṇī]

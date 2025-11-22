@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8509 | label: hybrid | g:0.51 m:0.5 ---
+
+māsi vai daśame prāpte raudraṃ sthānaṃ sa gacchati ।
+daśame māsi yaddattaṃ tadbhuktvā ca prayāti saḥ ।।

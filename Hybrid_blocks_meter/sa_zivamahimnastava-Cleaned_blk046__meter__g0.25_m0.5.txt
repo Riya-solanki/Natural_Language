@@ -1,0 +1,4 @@
+--- source: sa_zivamahimnastava-Cleaned.txt | block: 46 | label: meter | g:0.25 m:0.5 ---
+
+ekakālaṃ dvikālaṃ vā trikālaṃ yaḥ paṭhen naraḥ ।
+lambapāśavinirmuktaḥ śivalokaṃ sa gacchati ।। Smstadd

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2206 | label: meter | g:0.194 m:0.625 ---
+
+liṅgasaṃjñā tu nāmasya sarvato adhipāvṛtam 
+tasmād ekatamaṃ gṛhya liṅgamūlaṃ yad akṣaram ।।

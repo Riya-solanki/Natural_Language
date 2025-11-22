@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 907 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha tāsāṃ tv aneka-sāntvanayā labdha-śāntiḥ kiñcid vyañjita-mukha-kāntiḥ śrī-sumukha-kanyeyaṃ stanyena tanayaṃ prīṇayāmāsa । bubhuje ca sahāgrajātena tena parama-hitābhiḥ sahitā ।

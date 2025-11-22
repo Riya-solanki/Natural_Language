@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1199 | label: meter | g:0.306 m:0.5 ---
+
+evaṃvidhe yadi na kāyam imaṃ prayokṣye puṇyāgame nirupamānasukhānubandhe ।
+ko artho amunā parihṛtena kaḍevareṇa vātāhatāmbunidhibudbudadurbalena ।।

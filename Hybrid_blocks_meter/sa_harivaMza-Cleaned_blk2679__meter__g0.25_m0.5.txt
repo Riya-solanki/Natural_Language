@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2679 | label: meter | g:0.25 m:0.5 ---
+
+bhuktvā cāvabhṛte kṛṣṇaḥ payaḥ pītvā ca kāmataḥ 
+saṃtṛpto asmīti divyena rūpeṇa prajahāsa vai ।। 
+prajahāsa girer mūrdhni sthitaḥ kamalalocanaḥ । 
+taṃ gopāḥ parvatākāraṃ divyasraganulepanam 
+girimūrdhni sthitaṃ dṛṣṭvā kṛṣṇaṃ jagmuḥ pradhānataḥ ।।

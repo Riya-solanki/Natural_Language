@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 444 | label: hybrid | g:0.531 m:0.5 ---
+
+satyaṃ śaraiḥ sumanasāṃ hṛdayaṃ tavaital lolākṣi nirbharam apūri manobhavena ।
+āmodam ulbaṇam akṛtrimam udvahanti śvāsāḥ svabhāvasubhagaṃ katham anyathaite ।।

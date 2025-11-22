@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10473 | label: grammar | g:0.562 m:0.5 ---
+
+indrādahaṃ daśaguṇaiḥ sarvadā nyūna ukto na jani tvāṃ sarvadā hyaprameya ।
+tathāpi māṃ pāhi jagadguro tvaṃ dattvā divyaṃ hyāyatanaṃ ca viṣṇo ।।

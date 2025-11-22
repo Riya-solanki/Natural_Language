@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 956 | label: grammar | g:0.552 m:0.5 ---
+
+uccaiḥ śiro vahati tāvad ayaṃ prajāsu yāvan na kāmakalidurlalitāny upāste ।
+āliṅgitaś ca puruṣo madanajvareṇa śvā saṃkaṭasthita iva prakhalīkṛtaś ca ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1080 | label: hybrid | g:0.289 m:0.421 ---
+
+carmabhṛd yudhivarmā ca gṛdhramojās tathāntakaḥ 
+āvāhaprativāhau ca sundarā ca varāṅganā ।। 
+viśrutā sāmbamahiṣī kanyā cāsyapunarnavā । rūpayauvanasaṃpannā sarvabhūtamanoharā ।। akrūrāt kāśikanyāyāṃ satyaketur ajāyata । 
+akrūreṇaugrasenyāṃ tu sugātryāṃ kurunandana 
+prasenaś copadevaś ca jajñāte devavarcasau ।।

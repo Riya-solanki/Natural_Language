@@ -1,0 +1,3 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3129 | label: grammar | g:0.625 m:0.5 ---
+
+śukrotsargāvasāne tu nṛpatirbhāryayā saha । jagāma divyayā gatyā brahmalokaṃ tapodhana । । । ।।

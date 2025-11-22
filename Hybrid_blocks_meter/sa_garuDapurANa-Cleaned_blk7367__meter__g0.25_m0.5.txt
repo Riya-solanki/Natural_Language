@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7367 | label: meter | g:0.25 m:0.5 ---
+
+rauravaṃ nāma narakaṃ mukhyaṃ tadvainibodha me ।
+raurave kūṭasākṣī tu yāti yaścānṛtī naraḥ ।।

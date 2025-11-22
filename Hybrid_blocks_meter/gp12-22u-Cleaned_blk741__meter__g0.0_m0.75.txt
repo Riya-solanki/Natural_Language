@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 741 | label: meter | g:0.0 m:0.75 ---
+
+[] tatra śrī-gopāla-pūjā, yathā-

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 438 | label: meter | g:0.25 m:0.625 ---
+
+dharmavajrāṃ samādhāya vajradharmopamo bhavet ।
+vajrakośāṃ tu saṃgṛhya sarvakleśāṃ cchinatti saḥ ।।

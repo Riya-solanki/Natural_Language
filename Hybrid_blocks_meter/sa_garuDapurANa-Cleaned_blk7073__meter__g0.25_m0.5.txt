@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7073 | label: meter | g:0.25 m:0.5 ---
+
+smaraṇaṃ vismṛtārthasya nāsti cetkasya jāyate ।
+satyamastu tathā vāṇu aśarīraṃ paraṃ tathā ।।

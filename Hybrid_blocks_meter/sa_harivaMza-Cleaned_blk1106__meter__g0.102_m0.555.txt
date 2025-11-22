@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1106 | label: meter | g:0.102 m:0.555 ---
+
+mānuṣyāṃ gargyabhāryāyāṃ niyogāc chūlapāṇinaḥ 
+sa kālayavano nāma jajñe rājā mahābalaḥ 
+vṛṣapūrvārdhakāyās tam avahan vājino raṇe ।।

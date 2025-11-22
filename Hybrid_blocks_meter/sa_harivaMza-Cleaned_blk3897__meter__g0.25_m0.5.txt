@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3897 | label: meter | g:0.25 m:0.5 ---
+
+pañcabhiś cāpi vivyādha so avidūrād vidūratham 
+vidūratho api taṃ ṣaḍbhir vivyādhājau śitaiḥ śaraiḥ ।। 
+dantavaktro api vivyādha bhānumantaṃ vidūratham । 
+triṃśatā pratyavidhyat taṃ balī bāṇair mahābalam 
+kṛtavarmā bibhedājau rājaputraṃ tribhiḥ śaraiḥ ।।

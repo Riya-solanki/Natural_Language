@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2351 | label: meter | g:0.25 m:0.5 ---
+
+ātmā pradattastasmāddhi na vivāho bhaviṣyati ।
+vivāharahitā naiva sukhaṃ lapsyasi bhartṛtaḥ ।।

@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2999 | label: grammar | g:0.509 m:0.27 ---
+
+pun nāmno narakāt putro yasmāt trātā pitṝn sadā 
+tasmād bruvanti putreti putraṃ dharmavido janāḥ ।। 
+pitrā putras tu goptaś cet ko doṣo vada sāṃpratam । rakṣitas tava pitrāsi kimarthaṃ vada bāliśa ।। anena tava vākyena śatravo yādavāḥ kṛtāḥ । 
+jātyā hi yādavaḥ kṛṣṇaḥ sa ca saṃkarṣaṇo yuvā 
+tvaṃ cāpi vidhṛtas tābhyāṃ jātavaireṇa cetasā ।।

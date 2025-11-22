@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 493 | label: meter | g:0.446 m:0.629 ---
+
+akṛtsārvadhātukayordīrghaḥ ।।
+ajantāṅgasya dīrgho yādau pratyaye na tu kṛtsārvadhātukayoḥ ।।

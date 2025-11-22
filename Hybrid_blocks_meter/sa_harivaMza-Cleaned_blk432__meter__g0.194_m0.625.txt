@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 432 | label: meter | g:0.194 m:0.625 ---
+
+nārāyaṇena kauravya tejasāpyāyitas tadā 
+babhūva sa mahātejā bhūyo balasamanvitaḥ ।।

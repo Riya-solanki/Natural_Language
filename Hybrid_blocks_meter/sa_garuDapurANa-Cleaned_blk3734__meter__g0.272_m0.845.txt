@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3734 | label: meter | g:0.272 m:0.845 ---
+
+tasyāṃ niyamakartāro na syuḥ khaṇḍitasampadaḥ ।
+taṇḍulasyāṣṭamuṣṭīnāṃ varjayitvāṅgulidvayam ।।

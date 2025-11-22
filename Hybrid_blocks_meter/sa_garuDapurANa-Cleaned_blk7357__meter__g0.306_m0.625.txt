@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7357 | label: meter | g:0.306 m:0.625 ---
+
+jalaprastravaṇaṃ yastu bhindyānmatsyo bhavennaraḥ ।
+hareḥ kathāṃ na śṛṇvanti ye na sādhujanastavam ।।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1109 | label: meter | g:0.111 m:0.5 ---
+
+etāḥ sat-kula-sambhavā varam aho vāñchanti dehavyayam
+na vrīḍākṣayam evam apy atha daśām etāṃ gatā mat-puraḥ ।
+bījaṃ cātra parantu mad-vimukhatāśaṅkā tataḥ kuṇṭhatām
+utkaṇṭhā kiratī viloṭhayati mām āsāṃ nijāśarmaṇi ।। [śārdūla]

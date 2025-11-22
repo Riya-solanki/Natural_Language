@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1530 | label: grammar | g:0.582 m:0.423 ---
+
+bhrāntaṃ yena caturbhir eva caraṇaiḥ satyābhidhāne yuge tretāyāṃ tribhir aṅghribhiḥ katham api dvābhyāṃ tato dvāpare ।
+na syāt tvaṃ yadi deva pudgalaguḍaḥ kāle kalaūtkale so ayaṃ paṅgur avasthitaikacaraṇo dharmaḥ kathaṃ bhrāmyati ।।
+cittūkasya

@@ -1,0 +1,5 @@
+--- source: mamkpb_u-Cleaned.txt | block: 303 | label: meter | g:0.25 m:0.555 ---
+
+saalakaraṇaparavīsāmasiriviaraṇaṃ ṇa sarasakavvassa ।
+dīsai aha va ṇisammai sarisaṃ aṃsaṃsametteṇa ।।
+kavvassetyatra kavvasamamiti sarisamityatra ca ṇūṇamiti pāṭhe, eṣaiva samāsagā ।।

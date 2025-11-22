@@ -1,0 +1,4 @@
+--- source: kmeghvpu-Cleaned.txt | block: 58 | label: grammar | g:0.552 m:0.5 ---
+
+hitvā nīlaṃ bhujagavalayaṃ śambhunā dattahastā krīḍāśaile yadi ca viharet pādacāreṇa gaurī ।
+bhaṅgībhaktyā viracitavapuḥ stambhitāntarjalo asyāḥ sopānatvaṃ kuru sukhapadasparśam ārohaṇeṣu ।।

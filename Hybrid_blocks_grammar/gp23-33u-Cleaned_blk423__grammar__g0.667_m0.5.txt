@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 423 | label: grammar | g:0.667 m:0.5 ---
+
+[] dūtī sāvajñam uvāca-viśāradāyā mama purataḥ śāradas tvaṃ kiyad vā vaditāsi । tasmān nīvākavalitam ākalaya ।

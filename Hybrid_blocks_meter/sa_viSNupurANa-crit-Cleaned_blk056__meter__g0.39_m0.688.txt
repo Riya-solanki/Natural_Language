@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 56 | label: meter | g:0.39 m:0.688 ---
+
+svargāpavargavyāsedhakāraṇaṃ paramarṣayaḥ 
+varjayanti sadā krodhaṃ tāta mā tadvaśo bhava ।।

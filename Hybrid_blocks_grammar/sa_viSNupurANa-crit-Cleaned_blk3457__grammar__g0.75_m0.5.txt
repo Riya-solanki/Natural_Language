@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3457 | label: grammar | g:0.75 m:0.5 ---
+
+apy atra vatse bhavatyāḥ sukham uta kiṃcid asukham api te maharṣiḥ snehavān uta saṃsmaryate asmadgṛhavāsasyety uktā tattanayā pitaram āha ।।

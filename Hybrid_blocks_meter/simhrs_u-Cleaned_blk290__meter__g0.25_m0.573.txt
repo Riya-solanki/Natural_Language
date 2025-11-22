@@ -1,0 +1,10 @@
+--- source: simhrs_u-Cleaned.txt | block: 290 | label: meter | g:0.25 m:0.573 ---
+
+itthaṃ śrī-siṃha-bhūpena sattvālaṅkāra-śālinā । 
+kathitāḥ sattvajāḥ strīṇām alaṅkārās tu viṃśatiḥ ।।
+sattvād daśaiva bhāvādyā jātā līlādayas tu na । 
+ato hi viṃśatir bhāvāḥ sāttvikā iti nocitam ।।
+yujyate sāttvikatvaṃ ca bhāvādi-sahacāriṇaḥ । 
+līlādi-daśakasyāpi chatri-nyāya-balāt sphuṭam ।।
+bhojena krīḍitaṃ kelir ity anyau gātrajau smṛtau । 
+ato viṃśatir ity atra saṅkhyeyaṃ nopapadyate ।।

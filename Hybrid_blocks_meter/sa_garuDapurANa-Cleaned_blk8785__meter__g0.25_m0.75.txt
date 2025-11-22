@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8785 | label: meter | g:0.25 m:0.75 ---
+
+kṛṣṇadhānyāni pūjāṃ ca pradadyādvedapārage ।
+homaṃ kuryādyathāśakti sampūrṇaṃ vācayetsudhīḥ ।।

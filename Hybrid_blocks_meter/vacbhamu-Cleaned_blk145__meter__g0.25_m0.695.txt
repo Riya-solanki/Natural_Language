@@ -1,0 +1,8 @@
+--- source: vacbhamu-Cleaned.txt | block: 145 | label: meter | g:0.25 m:0.695 ---
+
+kramaprāptamataḥśabdaṃ vyācaṣṭe- ataḥśabdo hetvarthaḥ ।
+tamevātaḥśabdasya heturūpamarthamāha- yasmādveda eva iti ।
+atraivaṃ paricodyate- satyaṃ yathoktasādhanasaṃpattyanantaraṃ brahmajijñāsā bhavati ।
+saiva tvanupapannā, ihāmutraphalabhogavirāgasyānupapatteḥ ।
+anukūlavedanīyaṃ hi phalam, iṣṭalakṣaṇatvātphalasya ।
+na cānurāgahetāvasya vairāgyaṃ bhavitumarhati ।

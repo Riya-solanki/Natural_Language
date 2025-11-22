@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4067 | label: meter | g:0.194 m:0.625 ---
+
+goṣu cāpi kṛto yāvat kāmas tava janārdanaḥ 
+tāvatīḥ prāpayiṣyāmo vṛṣṇyandhakaniveśanam ।।

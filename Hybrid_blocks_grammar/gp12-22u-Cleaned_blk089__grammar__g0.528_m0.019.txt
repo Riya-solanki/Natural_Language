@@ -1,0 +1,8 @@
+--- source: gp12-22u-Cleaned.txt | block: 89 | label: grammar | g:0.528 m:0.019 ---
+
+[] kṛṣṇas tu tān vilulitaveśān labdhopaveśān dṛṣṭvā yugapad eva sarvān kṛṣṭvā pṛthak pṛthag evāśliṣṭavān । [] tad uktam eva yad asya khalv autpattika evāyam upapattim atītavān guṇaḥ, yad-bhāva-bhāvanaḥ syāt tatrānurūpa-rūpāvirbhāvanam asau yaugapadyam upasadya, bahutrāpi sadya evāpadyate iti ।
+[] tatra bālair milanaṃ, yathā,
+dṛṣṭir bāṣpam itā tanuḥ stimitatām antarmatir līnatām
+itthaṃ saṅgati-sādhane tu nikhile' bhīkṣṇaṃ gate vyarthatām ।
+kiṃ saukhyaṃ kim asaukhyam etad iti ca sphūrtiṃ vināvasthitau
+kañcit ko' pi na kiñcid ujjhitum abhūc chakti-prayuktaś ciram ।। [śārdūlavikrīḍitam]

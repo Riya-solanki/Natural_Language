@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 602 | label: meter | g:0.25 m:0.625 ---
+
+asmadarthe samāhṛtya vanānmūlaphalaṃ bahu ।
+bhaviṣyati kathaṃ nvambā dṛṣṭvā śūnyaṃ tapovanam ।।

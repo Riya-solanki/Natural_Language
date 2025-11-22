@@ -1,0 +1,4 @@
+--- source: varlghku-Cleaned.txt | block: 1384 | label: grammar | g:0.561 m:0.412 ---
+
+pūrvapadātsaṃjñāyāmagaḥ ।।
+pūrvapadasthānnimittātparasya nasya ṇaḥ syāt saṃjñāyāṃ na tu gakāravyavadhāne । gauramukhā । saṃjñāyāṃ kim ? tāmramukhī kanyā ।।

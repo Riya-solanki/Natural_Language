@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 77 | label: meter | g:0.056 m:0.853 ---
+
+patrāṇi tatra kamale kamalālayānām
+aṃśena keli-vipināni bhavanti yeṣu ।
+cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa-
+lakṣāvṛteṣu nibhṛtaṃ ramate mukundaḥ ।। [vasantatilakā]

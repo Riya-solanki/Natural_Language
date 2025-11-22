@@ -1,0 +1,6 @@
+--- source: sastrdiu-Cleaned.txt | block: 203 | label: meter | g:0.3 m:0.523 ---
+
+prakāśanamaṅgīkartavyam ।
+na ca nirākārasyopalabdhirastīti siddhaṃ jñānātmakatvaṃ nīlādeḥ ।
+avaśyaṃ ca svapnādibodhe bandhyāsuto yāti, aṅgulyagre hastiyūthaśatamityādau cātyantāsaṃbhavādbāhyasya jñānātmakatvamevākāraṇāmabhyupagantavyam ।
+tathānyatrāpyastu, tasmānna bāhyamastīti prāpte ।

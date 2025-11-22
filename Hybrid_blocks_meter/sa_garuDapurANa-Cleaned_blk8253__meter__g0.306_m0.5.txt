@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 8253 | label: meter | g:0.306 m:0.5 ---
+
+indriyāṇi kuto yānti hyaspṛśyaḥ sa kathaṃ bhavet ।
+kva karmāṇi kṛtānīha kathaṃ bhuṅkte prasarpati ।।

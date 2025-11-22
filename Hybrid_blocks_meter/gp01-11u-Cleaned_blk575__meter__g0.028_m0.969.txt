@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 575 | label: meter | g:0.028 m:0.969 ---
+
+[] tataś ca pūtanāṃ niścitya,
+tasyāḥ surā vakṣasi lagnam enaṃ
+smeraṃ gṛhītākṛśa-cūcukāgram ।
+asya prabhāvāvali-vijña-cittāḥ
+sarve samantāj jahasur vilokya ।। [indravajrā]

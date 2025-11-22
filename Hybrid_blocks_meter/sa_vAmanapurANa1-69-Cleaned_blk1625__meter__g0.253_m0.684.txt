@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1625 | label: meter | g:0.253 m:0.684 ---
+
+īśvara uvāca ।
+evaṃ bhavatu saṃtyakto mayā bhāvo amarottamāḥ ।
+mamedaṃ teja udriktaṃ kaścid devaḥ pratīcchatu ।।

@@ -1,0 +1,6 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 470 | label: meter | g:0.194 m:0.625 ---
+
+sthāne bhaktivaśena gacchati janastvatkīrtivācālatāṃ
+sthāne śrīḥ paribhūya paṅkajavanaṃ tvatsaṃśrayaślāghinī ।
+vyaktaṃ śakrasanāthatāmapi gatā tvadvīryaguptāmimāṃ
+dyauḥ paśyatyuditaspṛhā vasumatīṃ no cedaho vañcyate ।।

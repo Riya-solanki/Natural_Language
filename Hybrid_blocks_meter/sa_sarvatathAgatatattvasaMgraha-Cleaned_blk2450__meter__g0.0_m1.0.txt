@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 2450 | label: meter | g:0.0 m:1.0 ---
+
+chapter ratna-guhya-mudra-mandala-vidhi-vistara

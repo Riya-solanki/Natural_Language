@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1879 | label: hybrid | g:0.51 m:0.5 ---
+
+tvayā hi saddarśanasādhunādhunā narendra vṛttena yiyāsatā satā ।
+yadaiva citte guṇarūkṣatā kṣatā tadaiva te mārgakṛtāspadaṃ padam ।।

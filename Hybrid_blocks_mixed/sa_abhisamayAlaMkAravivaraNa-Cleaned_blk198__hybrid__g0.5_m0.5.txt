@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 198 | label: hybrid | g:0.5 m:0.5 ---
+
+avadhiḥ prathamāṃ bhūmimārabhya daśamabhūmiparyantamasya bhāvanāmārgasya sīmā bhavatīti ।

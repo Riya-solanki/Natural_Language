@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 650 | label: grammar | g:0.708 m:0.5 ---
+
+[] asya ca muner anena cirād vīpsayābhīpsitam āgamanam āsīt, yataḥ pratīkṣya eva sarvatrāyaṃ pratīkṣyatāṃ vā kathaṃ na labheta?

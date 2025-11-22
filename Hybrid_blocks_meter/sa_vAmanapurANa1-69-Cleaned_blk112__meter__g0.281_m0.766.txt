@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 112 | label: meter | g:0.281 m:0.766 ---
+
+hiriruvāca ।
+maheśvara śṛṇuṣvemāṃ mama vācaṃ kalasvanām ।
+brahmahatyākṣayakarīṃ śubhadāṃ puṇyavardhanīm ।।

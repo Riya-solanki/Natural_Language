@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 245 | label: hybrid | g:0.542 m:0.5 ---
+
+arthaśca vistaramupaiṣyati cetpunarme hartā manāṃsi niyamena sa yācakānām ।
+evaṃgate api ca yathāvibhavaṃ pradāsye mā caiva dānaniyame pramadiṣma śakra ।।

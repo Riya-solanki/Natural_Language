@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1101 | label: meter | g:0.194 m:1.0 ---
+
+{tato aruṇaparispandamandīkṛtavapuḥ śaśī ।
+dadhre kāmaparikṣāmakāminīgaṇḍapāṇḍutām ।।}

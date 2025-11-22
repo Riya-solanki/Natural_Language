@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 647 | label: grammar | g:0.604 m:0.5 ---
+
+athedamuktvā bhagavān vajrapāṇirmahābodhisatvaḥ sarvatathāgatanāsikāgrebhyaḥ susūkṣmavajrajñānanimittaspharaṇatāya sarvatathāgatakāyebhyaḥ spharitvā, sakaladharmadhātuspharaṇatāyogena sarvākāśadhātuṃ susūkṣmavajrajñānanimittaiḥ saṃspharya, sakalākāśadhātuvispharitasarvatathāgatajñānavajrabimbamātmānamadhiṣṭhāyāvasthitaḥ ।।

@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 426 | label: hybrid | g:0.542 m:0.5 ---
+
+[] paurṇamāsī sa-smitam uvāca-kim iyaṃ na paricīyate bhavatā?
+[] śrī-kṛṣṇa uvāca-nūnaṃ yan-nāmnā vanam idaṃ dhāmnā samāmnātam asti, saiveyam anumeyā ।

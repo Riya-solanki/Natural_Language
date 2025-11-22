@@ -1,0 +1,3 @@
+--- source: bhveni_u-Cleaned.txt | block: 889 | label: hybrid | g:0.5 m:0.5 ---
+
+SktCh jāta yatpitā te viduro vā bhaṇati ।

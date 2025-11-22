@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2614 | label: meter | g:0.25 m:0.625 ---
+
+gṛhṇātu vidhivat pāṇiṃ daiteyyāstanayastava ।
+nandayantīṃ ca śakuniḥ pariṇetuṃ svarūpavān ।।

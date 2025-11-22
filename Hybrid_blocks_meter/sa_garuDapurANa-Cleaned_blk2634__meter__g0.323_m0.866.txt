@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2634 | label: meter | g:0.323 m:0.866 ---
+
+śrīgaruḍamahāpurāṇam- 
+mākraṇḍeya uvāca ।
+tatastasmānnadīmadhyātsamuttasthau manoramā ।
+pramlaucā nāma tanvaṅgī tatsamīpe varāpsarāḥ ।।

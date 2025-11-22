@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 33 | label: meter | g:0.307 m:0.623 ---
+
+kṣīraiḥ śaṃkhasupuṣpārghaṃ pradadyāc caityapuṃgave ।
+dhāraṇīṃ caiva stotraṃ ca paṭhed gītaṃ ca gāyayet ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 765 | label: grammar | g:0.635 m:0.5 ---
+
+vyomaśrīhṛdayaikamauktikalate mātar balākāvali brūyās taṃ janam ādaraḥ khalu mahān prāṇeṣu kāryas tvayā ।
+etāṃ mlānim upāgatāṃ srajam iva tyaktvā tanuṃ durvahām eṣāhaṃ sukhinī bhavāmi na sahe tīvrāṃ viyogavyathām ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5471 | label: meter | g:0.25 m:0.625 ---
+
+karpūraṃ devadāruñca madhunā saha yojayet ।
+liṅgalepācca tenaiva vaśīkuryātstriyaṃ kila ।।

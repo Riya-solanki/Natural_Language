@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 332 | label: hybrid | g:0.444 m:0.5 ---
+
+navya-yauvanataḥ pūrvaṃ kṛṣṇe tāsāṃ tu yā ratiḥ ।
+tasyāṃ nātiśayoktiḥ sā sva-bhāvoktis tu manyatām ।। [anuṣṭubh]

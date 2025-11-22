@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 452 | label: grammar | g:0.75 m:0.055 ---
+
+bālyāt kāmāc ca mohāc ca saṃharṣāc cāpalena ca 
+jahāra kanyāṃ kāmāt sa kasya cit puravāsinaḥ ।। 
+ekasmin divase rāja putro atyantaparākramī । dadarśa vicaran svīye pattane cārulocanām । udvāhayantīṃ vedikāyāṃ vaiśyavaryasya kasya cit ।। anullaṅghitamaryādāṃ saptapadyā vicakṣaṇaḥ । bhartrā pānigrahayutāṃ balād gṛhya mahīpatiḥ । gāndharveṇa vivāhena svayaṃ udvāhayad balāt ।। vaiśyāḥ sarve samāgamya rājānam idam ūcatuḥ । kumāreṇa hṛtā kanyā vedikāyā mahadbalāt । rājñā na rakṣito lokas tadā naṣṭo bhaved dhruvam ।। na pūrvais taiḥ kṛtaṃ pūrvaṃ na kariṣyati cāpadi । yathā kumāreṇa kṛtaṃ rājan karma vigarhitam । 
+adharmaśaṅkunā tena rājā trayyāruṇo atyajat 
+tam adharmeṇa saṃyuktaṃ pitāsūryāruṇo jahau । 
+apadhvaṃseti bahuśo vadan krodhasamanvitaḥ ।।

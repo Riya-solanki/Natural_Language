@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 610 | label: grammar | g:0.604 m:0.5 ---
+
+śabdādibhyo antaḥpratiṣṭhānāc ca neti cen na tathā dṛṣṭyupadeśād asambhavāt puruṣamapi cainam adhīyate ।

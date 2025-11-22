@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 801 | label: meter | g:0.197 m:0.55 ---
+
+uvāca cainaṃ bhagavān sarvabhūtānukampakaḥ 
+brahmadatta prabhāte tvaṃ kalyāṇaṃ samavāpsyasi 
+ity uktvā bhagavān devas tatraivāntaradhīyata ।। 
+brahmadatto api rājarṣiḥ sarvasattvarutajñatām । upadiṣya ca bhāryāyai vanāt pratyāgataḥ puram । 
+caturṇāṃ tu pitā yo asau brāhmaṇānāṃ mahātmanām 
+ślokaṃ so adhītya putrebhyaḥ kṛtakṛtya ivābhavat ।।

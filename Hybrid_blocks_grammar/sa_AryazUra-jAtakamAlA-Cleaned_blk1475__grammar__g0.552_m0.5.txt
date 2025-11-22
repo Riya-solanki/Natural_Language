@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1475 | label: grammar | g:0.552 m:0.5 ---
+
+drumadyathāmaṃ pracinoti yaḥ phalaṃ sa hanti bījaṃ na rasaṃ ca vindati ।
+adharmyamevaṃ balimuddharannṛpaḥ kṣiṇoti deśaṃ na ca tena nandati ।।

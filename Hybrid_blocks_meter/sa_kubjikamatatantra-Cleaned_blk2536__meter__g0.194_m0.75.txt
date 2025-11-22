@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2536 | label: meter | g:0.194 m:0.75 ---
+
+jha-pūrveṇa samāyuktaṃ kūṭaṃ bindusamanvitam 
+prastārāyātamārgeṇa uddhṛtaṃ ṣaṭkanirṇayam ।।

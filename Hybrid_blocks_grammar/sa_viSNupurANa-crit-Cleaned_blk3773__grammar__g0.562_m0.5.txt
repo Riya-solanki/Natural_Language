@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3773 | label: grammar | g:0.562 m:0.5 ---
+
+taṃ ca syamantakābhilāṣicakṣuṣam apūrvapuruṣam āgataṃ samavekṣya dhātrī trāhi trāhīti vyājahāra ।।

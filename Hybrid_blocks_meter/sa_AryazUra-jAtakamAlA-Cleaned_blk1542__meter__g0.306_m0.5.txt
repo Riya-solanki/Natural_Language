@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1542 | label: meter | g:0.306 m:0.5 ---
+
+vātsalyasaumyahṛdayastu suhṛtsu kīrtiṃ viśvāsabhāvamupakārasukhaṃ ca tebhyaḥ ।
+prāpnoti saṃnatiguṇaṃ manasaḥ praharṣaṃ durdharṣatāṃ ca pirubhistridaśālayaṃ ca ।।

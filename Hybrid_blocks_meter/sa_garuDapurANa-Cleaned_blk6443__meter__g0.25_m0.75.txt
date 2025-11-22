@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6443 | label: meter | g:0.25 m:0.75 ---
+
+ācamyāplāvya cātmānaṃ trirācamyaśanerasūn ।
+athopatiṣṭedādityaṃ mūrdhni puṣpānvitāñjaliḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2362 | label: meter | g:0.25 m:0.625 ---
+
+kṛtvā śrāddhādikaṃ piṇḍaṃ madhye vai yūpakūpayoḥ ।
+gopracārasamīpasthā ābrahma brahmakalpitāḥ ।।

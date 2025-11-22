@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 408 | label: meter | g:0.328 m:0.595 ---
+
+sarvādhyakṣaḥ surādhyakṣa surāsuranamaskṛtaḥ ।
+duṣṭānāṃ ca surāṇāṃ ca sarvadā ghātako antakaḥ ।।

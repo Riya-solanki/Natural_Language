@@ -1,0 +1,6 @@
+--- source: mrgt1chu-Cleaned.txt | block: 263 | label: grammar | g:0.649 m:0.292 ---
+
+atheti paśupadārthād anantaramavidyā ajñānamañjanamāṇavaḥ pāśa ādau yeṣāṃ te karmamāyārodhaśaktyākhyāḥ pāśāḥ adhunā idānīṃ leśataḥ saṃkṣepataḥ kathyante yeṣām apagame paśutvān muktvā aṇava ātmāno jagataḥ patayo bhavanti ।
+tatra śivavad anyānadhīnasvātantryābhivyaktir muktātmanāṃ patitvaṃ vidyeśvarādyadhikārabhājāṃ tu pañcavidhakṛtyakāritvam ।। 
+atha mukteḥ prāk kuto'vasīyate pāśitatvamaṇoriti cet jñānakriyayoḥ sarvārthatāvyāhateḥ ।
+anyathā hi ।।

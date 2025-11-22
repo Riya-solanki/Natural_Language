@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 328 | label: meter | g:0.302 m:0.806 ---
+
+siṅgabhūpālaracite rasārṇavasudhākare ।
+asya prapañco vijñeyaḥ ke tathā vaktumīśate ।।

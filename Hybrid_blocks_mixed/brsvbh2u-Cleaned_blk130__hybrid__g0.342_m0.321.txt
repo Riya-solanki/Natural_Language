@@ -1,0 +1,6 @@
+--- source: brsvbh2u-Cleaned.txt | block: 130 | label: hybrid | g:0.342 m:0.321 ---
+
+anubhūyate hi pṛthivī gandharūparasasparśātmikā sthūlā, āpo rasarūpasparśātmikāḥ sūkṣmāḥ, rūpasparśātmakaṃ tejaḥ sūkṣmataraṃ, sparśātmako vāyuḥ sūkṣmatamaḥ ।
+purāṇe api smaryate-
+aākāśaṃ śabdamātraṃ tu sparśamātraṃ samāviśat ।
+dviguṇastu tato vāyuḥ śabdasparśātmako abhavat ।।

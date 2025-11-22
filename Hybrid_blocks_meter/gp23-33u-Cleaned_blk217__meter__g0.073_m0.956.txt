@@ -1,0 +1,6 @@
+--- source: gp23-33u-Cleaned.txt | block: 217 | label: meter | g:0.073 m:0.956 ---
+
+paśyotsaṅga-kṛtāṅganā-valayinaḥ kāmāturasyāsakṛt
+tad-vastrādika-saṃvṛti-prathanayā vyagrasya lakṣmāṇy ataḥ ।
+nimna-vyasta-padāni mālya-ghusṛṇāstīrṇāni gharmāmbhasā
+bhūyaḥ siktatamāni velli-talatā-kṣepānta-vartmāni ca ।। [śārdūla]

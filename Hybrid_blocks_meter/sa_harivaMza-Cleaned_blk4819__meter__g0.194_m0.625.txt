@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4819 | label: meter | g:0.194 m:0.625 ---
+
+tatas te dīnamanasaḥ sarve bāṣpākulekṣaṇāḥ 
+anyonyam abhyabhāṣanta kim ataḥ kāryam uttaram ।।

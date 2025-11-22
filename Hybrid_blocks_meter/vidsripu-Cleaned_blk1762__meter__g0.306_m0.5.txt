@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1762 | label: meter | g:0.306 m:0.5 ---
+
+kanakabhūṣaṇasaṃgrahaṇocito yadi maṇis trapuṇi pratibadhyate ।
+na sa virauti na cāpi palāyate bhavati yojayitur vacanīyatā ।।

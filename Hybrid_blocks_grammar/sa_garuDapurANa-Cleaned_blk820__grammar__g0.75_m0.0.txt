@@ -1,0 +1,7 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 820 | label: grammar | g:0.75 m:0.0 ---
+
+oṃ hāṃ hṛdayāya namaḥ । oṃ hīṃ śirase namaḥ । oṃ hūṃ śikhāyai namaḥ । oṃ haiṃ kavacāya namaḥ । oṃ hauṃ netratrayāya namaḥ । oṃ haḥ astrāya namaḥ । oṃ śriyai namaḥ । oṃ śaṅkāya namaḥ । oṃ padmāya namaḥ । oṃ cakrāya namaḥ । oṃ gadāyainamaḥ । oṃ śrīvatsāya namaḥ । oṃ kaustubhāya namaḥ । oṃ vanamālāyai namaḥ । oṃ pītāmbarāya namaḥ । oṃ khaḍgāya namaḥ । oṃ musalāya namaḥ । oṃ pāśāya namaḥ । oṃ aṅkuśāya namaḥ । śārṅgāya namaḥ । oṃ śarāya namaḥ । oṃ brahmaṇe namaḥ । oṃ nārādāya namaḥ । oṃ pūrvasiddhebhyo namaḥ । oṃ bhāgavatebhyo namaḥ । oṃ gurubhyo namaḥ । oṃ paramagurubhyo namaḥ । oṃ indrāya surādhipataye savāhanaparivārāya namaḥ । oṃ agnaye tejo adhipataye savāhanaparivārāya namaḥ । oṃ yamāya pretādhipataye savāhanaparivārāya namaḥ । oṃ nirṛtaye rakṣo adhipataye savāhanaparivārāya namaḥ । oṃ varuṇāya jalādhipataye savādanaparivārāya namaḥ । oṃ vāyave prāṇādhipataye savāhanaparivārāya namaḥ । oṃ somāya nakṣatrādhipataye savāhanaparivārāya namaḥ । oṃ īśānāya vidyādhipataye savāhanaparivārāya namaḥ । oṃ anantāya nāgādhipataye savāhanaparivārāya namaḥ । oṃ brahmaṇe lokādhipataye savāhanaparivārāya namaḥ । oṃ vajrāya huṃ phaṭ namaḥ । oṃ śaktyai huṃ phaṭ namaḥ । oṃ daṇḍāya huṃ phaṭ namaḥ । oṃ khaḍgāya huṃ phaṭ namaḥ । oṃ pāśāya huṃ phaṭ namaḥ । oṃ dhvajāya huṃ phaṭ namaḥ । oṃ gadāyai huṃ phaṭ namaḥ । 
+oṃ triśūlāya huṃ phaṭ namaḥ ।
+oṃ cakrāya huṃ phaṭ namaḥ ।
+oṃ padmāya huṃ phaṭ namaḥ ।
+oṃ vaiṃ viṣvaksenāya namaḥ ।।

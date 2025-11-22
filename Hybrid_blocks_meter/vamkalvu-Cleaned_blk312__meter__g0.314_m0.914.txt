@@ -1,0 +1,4 @@
+--- source: vamkalvu-Cleaned.txt | block: 312 | label: meter | g:0.314 m:0.914 ---
+
+prāṇeśvarapariṣvaṅgavibhramapratipattibhiḥ ।
+muktāhāreṇa lasatā hasatīva stanadvayam ।।

@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 284 | label: hybrid | g:0.507 m:0.5 ---
+
+caturbhī ca dhyāna viharanti mahānubhāvā na ca ālayo na pi ca niśrayu kurvayāti 
+api kho punāśrayu ime catudhyāna sāṅgā bheṣyanti bodhivarauttamaprāpaṇāya ।।

@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 361 | label: meter | g:0.194 m:0.5 ---
+
+kaulikaṃ ṣaḍvidhaṃ kiṃ tu mantrāṇāṃ ṣaḍvidhā gatiḥ 
+trividhaś copadeśaś ca etad icchāmi veditum ।।

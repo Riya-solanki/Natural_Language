@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 936 | label: meter | g:0.0 m:0.5 ---
+
+[] tataś ca tan-mātā ca gatvā-

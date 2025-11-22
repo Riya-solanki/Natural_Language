@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1179 | label: meter | g:0.316 m:0.5 ---
+
+pariṇatisukumāra svādumākanda nindāṃ katham iva tava bhṛṣṭo rājakīraḥ karotu ।
+anavadhikaṭhinatvaṃ nārikerasya yasmin vaśikahṛdayavṛtter luptasāraśriyaś ca ।।

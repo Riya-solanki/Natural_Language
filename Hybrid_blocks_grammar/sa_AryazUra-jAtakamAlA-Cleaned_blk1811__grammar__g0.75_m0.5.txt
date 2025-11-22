@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1811 | label: grammar | g:0.75 m:0.5 ---
+
+tadevaṃ sātmībhūtakṣamāṇāṃ pratisaṃkhyānamahatāṃ nāviṣahyaṃ nāmāstīti kṣāntiguṇasaṃvarṇane munimupanīya vācyam । cāpalākṣāntidoṣanidarśane rājānamupanīya kāmādinavakathāyāmapi vācyam - evaṃ kāmahetorduścaritamāsevya vinipātabhāgino bhavantīti । saṃpadāmanityatāsaṃdarśane ceti ।

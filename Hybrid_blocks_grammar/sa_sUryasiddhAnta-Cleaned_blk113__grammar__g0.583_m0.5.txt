@@ -1,0 +1,3 @@
+--- source: sa_sUryasiddhAnta-Cleaned.txt | block: 113 | label: grammar | g:0.583 m:0.5 ---
+
+labdhasya cāpaṃ liptādiphalaṃ śaighryam idaṃ smṛtam। etad ādye kujādīnāṃ caturthe caiva karmaṇi।।

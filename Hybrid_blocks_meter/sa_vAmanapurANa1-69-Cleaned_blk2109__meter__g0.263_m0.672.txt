@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2109 | label: meter | g:0.263 m:0.672 ---
+
+pulastya uvāca ।
+yo asau murārirdevarṣe devo yakṣo nu kinnaraḥ ।
+daityo rākṣaso vāpi pārthivo vā taducyatām ।।

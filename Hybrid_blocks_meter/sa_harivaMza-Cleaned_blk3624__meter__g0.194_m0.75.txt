@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3624 | label: meter | g:0.194 m:0.75 ---
+
+gadānipāto rāmasya śuśruve aśaninisvanaḥ 
+jarāsaṃdhasya caraṇe parvatasyeva dīryataḥ ।।

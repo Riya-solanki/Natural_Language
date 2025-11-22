@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 128 | label: meter | g:0.281 m:0.5 ---
+
+ayu gocaro daśabalāna vināyakānāṃ] prajñāya pāramita ramyavanāśritānām 
+dukhitāṃśca sattva triapāya samuddharanti na pi sattvasaṃjña api teṣu kadāci bhoti ।।

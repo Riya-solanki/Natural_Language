@@ -1,0 +1,3 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 610 | label: grammar | g:0.667 m:0.5 ---
+
+atra raṭatikriyāyāḥ kartṛkārakabhūtā areḥ kāntāḥ kāntāra iti saptamyā gopitamiti kārakagūḍheṣu kartṛgūḍhamidam । evaṃ karmagūḍhādayo draṣṭavyāḥ ।

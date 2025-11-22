@@ -1,0 +1,3 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1727 | label: meter | g:0.333 m:0.5 ---
+
+iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍaṃ prathamāṃśākhye ācārakāṇḍe jyotiḥ śāstre grahadaśādinirūpaṇaṃ nāma ṣaṣṭitamo adhyāyaḥ

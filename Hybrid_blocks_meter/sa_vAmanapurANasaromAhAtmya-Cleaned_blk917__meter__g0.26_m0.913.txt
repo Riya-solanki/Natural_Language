@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 917 | label: meter | g:0.26 m:0.913 ---
+
+sanatkumāra uvāca
+athovāca mahādevo devān brahmapurogamān ।
+ṛṣīṇāṃ caiva praityakṣaṃ tīrthamāhātmyamuttamam ।।

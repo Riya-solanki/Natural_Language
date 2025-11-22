@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 687 | label: meter | g:0.141 m:0.997 ---
+
+deva-prasādād, yathā-
+tasyāḥ prasannendu-mukhaḥ prasādaṃ
+gurur nṛpāṇāṃ gurave nivedya ।
+praharṣa-cihnānumitaṃ priyāyai
+śaśaṃsa vācā punaruktayeva ।।

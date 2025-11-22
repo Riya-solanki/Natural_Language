@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 928 | label: meter | g:0.314 m:0.914 ---
+
+yatra tenaiva tasya syādupamānopameyatā ।
+asādṛśyavivakṣātastamityāhurananvayam ।।

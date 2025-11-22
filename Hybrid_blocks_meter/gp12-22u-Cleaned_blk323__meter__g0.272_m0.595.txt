@@ -1,0 +1,4 @@
+--- source: gp12-22u-Cleaned.txt | block: 323 | label: meter | g:0.272 m:0.595 ---
+
+rādhādīnāṃ kevalānāṃ kevalo nanda-nandanaḥ ।
+varaḥ syāt kevalaṃ tasmāt ke balāt kuryur anyathā? ।। [anuṣṭubh]

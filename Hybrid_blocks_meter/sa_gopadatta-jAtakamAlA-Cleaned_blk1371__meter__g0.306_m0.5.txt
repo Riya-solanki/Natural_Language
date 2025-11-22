@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1371 | label: meter | g:0.306 m:0.5 ---
+
+sthitvāpi kālam atulaṃ vividhopabhogasaṃbhogavistarasukhais tridaśādhivāse ।
+karmakṣayād vinipatanti surāḥ smarantaḥ saṃvartakānilahatā iva kalpavṛkṣāḥ ।।

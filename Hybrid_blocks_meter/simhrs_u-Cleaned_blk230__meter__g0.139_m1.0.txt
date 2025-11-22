@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 230 | label: meter | g:0.139 m:1.0 ---
+
+prāsāda-garbhasya, yathā-
+gopānasī-saṃśrita-barhiṇeṣu
+kapota-pālī-stha-kapotakeṣu ।
+prāsāda-garbheṣu rasādvitīyo
+reme payodānila-durgameṣu ।।

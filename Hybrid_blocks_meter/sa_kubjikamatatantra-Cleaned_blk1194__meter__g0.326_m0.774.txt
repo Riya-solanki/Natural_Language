@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1194 | label: meter | g:0.326 m:0.774 ---
+
+saṃhārapadaṣaṭkasya kulaṃ śaktyāntadakṣiṇam 
+gudam ādhāram ity uktaṃ svādhiṣṭhānaṃ tu liṅgajam ।।

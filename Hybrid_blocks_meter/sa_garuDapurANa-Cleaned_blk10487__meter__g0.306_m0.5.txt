@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10487 | label: meter | g:0.306 m:0.5 ---
+
+majjāsthipittakapharaphalādipūrṇe carmāntraveṣṭitamukhe patitaṃ ha pītam ।
+āsvādane mama ca pāpagatermurāre māyābalaṃ tava vibho paramaṃ nimittam ।।

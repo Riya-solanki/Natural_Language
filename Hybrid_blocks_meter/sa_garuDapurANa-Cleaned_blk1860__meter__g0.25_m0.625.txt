@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1860 | label: meter | g:0.25 m:0.625 ---
+
+pracurāśrudīnaṃ rūkṣaṃ ca ruditaṃ ca sukhāvaham ।
+akampaṃ hasitaṃ śreṣṭhaṃ mīlitākṣamaghāvaham ।।

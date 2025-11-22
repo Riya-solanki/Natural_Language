@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 677 | label: grammar | g:0.594 m:0.5 ---
+
+yadvaktrābhimukhaṃ mukhaṃ vinihitaṃ dṛṣṭir dhṛtā cānyatas tasyālāpakutūhalākulatare śrotre niruddhe mayā ।
+hastābhyāṃ ca tiraskṛtaḥ sapulakaḥ svedodgamo gaṇḍayoḥ sakhyaḥ kiṃ karavāṇi yānti śatadhā yatkañucke sandhayaḥ ।।

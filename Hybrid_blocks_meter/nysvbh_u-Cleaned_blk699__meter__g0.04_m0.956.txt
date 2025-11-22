@@ -1,0 +1,11 @@
+--- source: nysvbh_u-Cleaned.txt | block: 699 | label: meter | g:0.04 m:0.956 ---
+
+yathā cetanasyārtho
+viṣayopalabdhibhūtaḥ sukhaduḥkhopalabdhibhūtaśca
+kalpate tathendriyāṇi vyūḍhāni, viṣayaprāptyarthaśca
+raśmeścākṣuṣasya vyūhaḥ, rūpasparśānabhivyaktiśca
+vyavahāraprakḷptyarthā, dravyaviśeṣe ca pratīghātādāvaraṇopapattirvyavahārārthā,
+sarvadravyāṇāṃ viśvarūpo vyūha indriyavat
+karmakāritaḥ puruṣārthatantraḥ।
+karma tu dharmādharmabhūtaṃ
+cetanasyopabhogārthamiti ।।

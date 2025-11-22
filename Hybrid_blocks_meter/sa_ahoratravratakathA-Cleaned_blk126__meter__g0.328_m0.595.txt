@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 126 | label: meter | g:0.328 m:0.595 ---
+
+ṣaṭtriṃśajjātibhir evaṃ svakulavṛtticāraṇaiḥ ।
+anyaiś ca vividhair nityaṃ pūjyo mānyo jinālayaḥ ।।

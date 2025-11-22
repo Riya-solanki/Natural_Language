@@ -1,0 +1,5 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 128 | label: meter | g:0.378 m:0.701 ---
+
+bhaṭṭārakapādenāpyuktam-
+śauśīryaṃ nāsti te kāye māṃsāsthirudhiraṃ na ca ।
+indrāyudhamivākāśe kāyaṃ darśitavānasi ।।

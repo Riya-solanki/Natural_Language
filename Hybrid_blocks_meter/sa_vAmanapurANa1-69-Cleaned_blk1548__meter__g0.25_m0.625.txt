@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1548 | label: meter | g:0.25 m:0.625 ---
+
+namo namaḥ śaṅkara śūlapāṇe mṛgāricarmāmbara kālaśatro ।
+mahāhihārāṅkitakuṇḍalāya namo namaḥ pārvativallabhāya ।।

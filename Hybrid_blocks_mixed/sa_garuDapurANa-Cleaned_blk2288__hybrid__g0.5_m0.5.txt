@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2288 | label: hybrid | g:0.5 m:0.5 ---
+
+pṛthivyāṃ ca gayā puṇyā gayāyāṃ ca gayāśiraḥ ।
+śreṣṭhaṃ tathā phalgutīrthaṃ tanmukhaṃ ca surasya hi ।।

@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 505 | label: grammar | g:0.75 m:0.5 ---
+
+sa pratyahamabhigatamarthijanamabhilaṣitādhikairakliṣṭairarthavisargaiḥ priyavacanopacāramanoharairatīva prahlādayāmāsa । parvadivaseṣu ca poṣadhaniyamapraśamavibhūṣaṇaḥ śiraḥsnātaḥ śuklakṣaumavāsā himagiriśikharasaṃnikāśaṃ madalekhābhyalaṃkṛtamukhaṃ lakṣaṇavinayajavasattvasaṃpannaṃ gandhahastinaṃ samājñātamaupavāhyaṃ dviradavaramabhiruhya samantato nagarasyābhiniviṣṭānyarthijananipānabhūtāni svāni sattrāgārāṇi pratyavekṣate sma । tathā ca prītiviśeṣamabhijagāma ।

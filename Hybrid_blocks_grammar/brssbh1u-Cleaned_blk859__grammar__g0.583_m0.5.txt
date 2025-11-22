@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 859 | label: grammar | g:0.583 m:0.5 ---
+
+FN kartāraṃ kriyāśaktimantam, īśaṃ niyantāram, puruṣaṃ pratyañcam, brahma pūrṇam, yoniṃ prakṛtim ।

@@ -1,0 +1,3 @@
+--- source: cakbhavu-Cleaned.txt | block: 22 | label: hybrid | g:0.5 m:0.5 ---
+
+tad evam anavacchinnasatatasiddhanirupādānānantanavadhikasvarūpabhūtapūjāsaṃbhave śambhor nirguṇasyānantaguṇasya vopacārair anantair bāhyair vā kāyikair vācikair mānasair vā pūjayitum aśakyatvāt ko ayaṃ bhāvopahāro nāma ity āśaṅkyāha

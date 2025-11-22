@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 7263 | label: meter | g:0.25 m:0.5 ---
+
+iṣṭavastuviyo gaiśca pātāle māmakaṃ bhayam ।
+evaṃ na nirbhayaṃ sthānamanyadīśa bhavatpadāt ।।

@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 516 | label: grammar | g:0.615 m:0.5 ---
+
+paricchedavyaktir bhavati na purasthe api viṣaye bhavaty abhyaste api smaraṇam atathābhāvaviramam ।
+na saṃtāpacchedo himasarasi vā candramasi vā mano niṣṭhāśūnyaṃ bhramati ca kim apy ālikhati ca ।।

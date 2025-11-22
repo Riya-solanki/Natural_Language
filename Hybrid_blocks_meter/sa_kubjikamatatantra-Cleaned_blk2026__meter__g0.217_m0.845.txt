@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2026 | label: meter | g:0.217 m:0.845 ---
+
+pramāṇaṃ rūpamārgasya viṃśatkoṭyekasaṃsthitam 
+māyāvadhis tu kūpādau atra vijñānasambhavaḥ ।।

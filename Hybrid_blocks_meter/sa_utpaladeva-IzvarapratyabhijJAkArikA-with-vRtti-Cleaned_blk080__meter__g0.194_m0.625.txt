@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 80 | label: meter | g:0.194 m:0.625 ---
+
+cidātmaiva hi devo antaḥsthitam icchāvaśād bahiḥ 
+yogīva nirupādānam arthajātaṃ prakāśayet ।।

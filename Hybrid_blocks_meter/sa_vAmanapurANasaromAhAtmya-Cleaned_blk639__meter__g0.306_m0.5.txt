@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 639 | label: meter | g:0.306 m:0.5 ---
+
+saptasārasvate snātvā yo mamarciṣyate naraḥ ।
+na tasya durlabhaṃ kiñcidiha loke paratra ca ।।

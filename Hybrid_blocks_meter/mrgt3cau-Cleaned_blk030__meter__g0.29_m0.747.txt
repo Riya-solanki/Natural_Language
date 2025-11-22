@@ -1,0 +1,4 @@
+--- source: mrgt3cau-Cleaned.txt | block: 30 | label: meter | g:0.29 m:0.747 ---
+
+vyatīpātadinadhvaṃsa- māsavṛddhyayanādiṣu
+viśeṣasaṃyamaḥ kāryaḥ śaivānāṃ ca pratarpaṇam ।

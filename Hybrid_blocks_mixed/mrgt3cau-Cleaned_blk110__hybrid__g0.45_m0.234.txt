@@ -1,0 +1,5 @@
+--- source: mrgt3cau-Cleaned.txt | block: 110 | label: hybrid | g:0.45 m:0.234 ---
+
+Vṛtti:
+[antaḥ] vyākhyānakālamadhye [śavaśrutau] śavapaṭaharodanādiśrutau [dāhe] gṛhadāhādiśravaṇe [śavagandhe] śavanikaṭadhūmāghrāṇe [kharānile] paruṣatare vāyau ca vahati tadvirāmaṃ vinā vyākhyānaṃ na kuryāt।
+[khyātajantumṛtyau] prakhyāte kasmiṃścijjantau mṛte [vāsaram] naikāhaṃ vyācakṣīta।

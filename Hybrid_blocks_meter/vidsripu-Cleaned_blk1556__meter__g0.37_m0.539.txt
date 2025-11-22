@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1556 | label: meter | g:0.37 m:0.539 ---
+
+vidyālate tapasvini vikasitasitakusumavākyasampanne ।
+virama varaṃ bhramarahite na phalasi bhuktiṃ ca muktiṃ ca ।।

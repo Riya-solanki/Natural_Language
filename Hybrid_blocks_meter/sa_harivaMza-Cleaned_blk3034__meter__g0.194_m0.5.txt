@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3034 | label: meter | g:0.194 m:0.5 ---
+
+eṣa kaṃsasya sahajaḥ prāṇas tāta bahiścaraḥ 
+uttamaś ca hayendrāṇāṃ dānavo apratimo yudhi ।।

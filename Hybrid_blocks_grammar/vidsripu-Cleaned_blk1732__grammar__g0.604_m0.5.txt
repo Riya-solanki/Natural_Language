@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1732 | label: grammar | g:0.604 m:0.5 ---
+
+kathābhir deśānāṃ katham api ca kālena bahunā samāyāte kānte sakhi rajanir ardhaṃ gatavatī ।
+tato yāval līlāpraṇayakupitāsmi prakupitā sapatnīva prācī dig iyam abhavat tāvad aruṇā ।।

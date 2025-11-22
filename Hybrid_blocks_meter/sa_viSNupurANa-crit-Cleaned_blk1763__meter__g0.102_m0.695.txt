@@ -1,0 +1,5 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1763 | label: meter | g:0.102 m:0.695 ---
+
+puṣkare savanasyāpi mahāvīro abhavat sutaḥ 
+dhātakiś ca tayos tatra dve varṣe nāmacihnite 
+mahāvīraṃ tathaivānyad dhātakīkhaṇḍasaṃjñitam ।।

@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3824 | label: grammar | g:0.604 m:0.5 ---
+
+yaś ca bhagavatā sakalalokaguruṇā ghātitaḥ । punar apy akṣatavīryaśauryasaṃpatparākramaguṇaḥ samākrāntasakalatrailokyeśvarapratāpo daśānano abhavat ।।

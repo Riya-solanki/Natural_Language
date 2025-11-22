@@ -1,0 +1,4 @@
+--- source: sa_vAmana-kAvyAlaMkArasUtra-Cleaned.txt | block: 254 | label: meter | g:0.306 m:0.625 ---
+
+natonnatabhrūgativaddhalāsyāṃ vilokya tanvīṃ śaśipeśalāsyām ।
+manaḥ kimuttāmyasi cañcalāsyāṃ kṛtī smarājñaā yadi puṣkalāsyām ।।

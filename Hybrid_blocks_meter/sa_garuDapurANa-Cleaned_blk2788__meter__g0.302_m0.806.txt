@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2788 | label: meter | g:0.302 m:0.806 ---
+
+ācaretsadṛśīṃ vṛttimajihmāmaśaṭhāntathā ।
+traivārṣikā dhikānno yaḥ sa somaṃ pātumarhati ।।
