@@ -1,0 +1,4 @@
+--- source: sa_avadhUtasiddha-bhagavadbhaktistotra-Cleaned.txt | block: 44 | label: grammar | g:0.552 m:0.5 ---
+
+snehād vidhāya dayitāṃ vapuṣo ardhabhāge dhuryas tathāpi bhagavañ chamināṃ tvam eva ।
+trailokyavismayakṛtāṃ tava ceṣṭitānām adyāpi kaścid api nānukṛtiṃ karoti ।।

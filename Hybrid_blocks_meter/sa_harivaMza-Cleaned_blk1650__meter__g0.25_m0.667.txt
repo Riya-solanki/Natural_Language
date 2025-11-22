@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1650 | label: meter | g:0.25 m:0.667 ---
+
+apāvṛte candrapathe svayanasthe divākare 
+prakṛtistheṣu lokeṣu nṛṣu cāritrabandhuṣu ।। 
+virājamānā devās tu tato munigaṇaiḥ saha । 
+abhinnabandhane mṛtyau hūyamāne hutāśane 
+yajñaśobhiṣu deveṣu svargārthaṃ darśayatsu ca ।।

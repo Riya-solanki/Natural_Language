@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4864 | label: grammar | g:0.576 m:0.125 ---
+
+tataḥ pradhmāpya taṃ śaṅkhaṃ bhayam utpādya vīryavān 
+agniṃ jitvā tadā viṣṇur bāṇasya purarakṣiṇaḥ । 
+praviveśa puraṃ kṛṣṇo bāṇasyādbhutakarmaṇaḥ ।। 
+tato bāṇapuraṃ prāpya śaṅkhaṃ dadhmau janārdanaḥ । tato hi balabhadras tu dadhmau śaṅkham anuttamam ।। pradyumnaś cāpi saṃkruddho dadhmau śaṅkham anuttamam । garuḍaḥ pakṣavātena bāṇasainyaṃ vyadhūnayat ।। caturṇāṃ ca mahārāja sāgarāṇāṃ yathā svanaḥ । prādur babhūva tumulaḥ śabdo bāṇapuraṃ prati । 
+tataḥ śaṅkhapraṇādena bherīṇāṃ ca mahāsvanaiḥ 
+bāṇānīkāni sahasā samanahyanta sarvaśaḥ ।।

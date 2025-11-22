@@ -1,0 +1,4 @@
+--- source: saulahau-Cleaned.txt | block: 80 | label: hybrid | g:0.324 m:0.47 ---
+
+kucau sadyaḥ svidyat-taṭa-ghaṭita-kūrpāsa-bhidurau kaṣantau dor-mūle kanaka-kalaśāhau kalayatā
+tava trātuṃ bhaṅgād alam iti vilagnaṃ tanu-bhuvā tridhā naddhaṃ devi tri-vali lavalī-vallibhir iva ।।

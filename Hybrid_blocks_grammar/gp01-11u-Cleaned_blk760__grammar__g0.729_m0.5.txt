@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 760 | label: grammar | g:0.729 m:0.5 ---
+
+[] tena ca santataṃ vismayamānāyāṃ nijajāyāyāṃ tasyāṃ kadācit śrīmān vrajarājaḥ papraccha, mayā yad aniṣṭa-bhayād bāla-rodhanam upadiṣṭam, tat kiṃ nirvahati?

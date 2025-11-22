@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 197 | label: meter | g:0.25 m:0.711 ---
+
+atha dravyasyaivopādānaṃ na guṇānāṃ rasādīnām ।
+evaṃ tarhi rūpasyāpi viṣayatvaṃ na syāt ।
+kiñca sukhārthaḥ sarvo

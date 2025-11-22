@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 252 | label: hybrid | g:0.476 m:0.5 ---
+
+śikṣantu eva vidu prajña prabhaṃkarāṇāṃ notpadyate akuśalamapi ekacittam 
+sūrye yathā gagani gacchati antarīkṣe raśmīgate na sthihate purato andhakāram ।।

@@ -1,0 +1,4 @@
+--- source: sa_kAlidAsa-meghadUta-acc-vallabhadeva-Cleaned.txt | block: 107 | label: grammar | g:0.559 m:0.5 ---
+
+nanv ātmānaṃ bahu vigaṇayann ātmanā nāvalambe tat kalyāṇi tvam api sutarāṃ mā gamaḥ kātaratvam 
+kasyātyantaṃ sukham upanataṃ duḥkham ekāntato vā nīcair gacchaty upari ca daśā cakranemikrameṇa ।।

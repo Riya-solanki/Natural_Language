@@ -1,0 +1,5 @@
+--- source: brssgo2u-Cleaned.txt | block: 471 | label: meter | g:0.25 m:0.695 ---
+
+FN sāṃkhyayogavyapāśrayāḥ hiraṇyagarbhapatañjaliprabhṛtayaḥ ।
+māheśvarāścatvāraḥ - śaivāḥ, pāśupatāḥ, kāruṇikasiddhāntinaḥ, kāpālikāśceti ।
+paśavo jīvāsteṣāṃ pāśo bandhastannāśāyetyarthaḥ ।

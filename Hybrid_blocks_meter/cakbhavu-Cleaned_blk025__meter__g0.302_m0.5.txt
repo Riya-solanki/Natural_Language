@@ -1,0 +1,4 @@
+--- source: cakbhavu-Cleaned.txt | block: 25 | label: meter | g:0.302 m:0.5 ---
+
+Q parataratayāpi rūpaṃ yad yat kalayāmi tat tad adharaṃ te
+Q adharatarāpi na kalanā sā kācid yatra na sthitāsy abhitaḥ ।iti

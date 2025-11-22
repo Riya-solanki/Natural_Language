@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5682 | label: meter | g:0.25 m:0.75 ---
+
+athendravāruṇīmūlaṃ vidhinā pītamīśvara ।
+jiṅgiṇyairaṇḍakaṃ rudra śūkaśimbyā samanvitam ।
+śītodakañca tatryastaṃ bāhugrīvāvyathāṃ haret ।।

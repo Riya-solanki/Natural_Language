@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1820 | label: meter | g:0.306 m:0.5 ---
+
+anyathā tvarthahīnānāṃ dāridrayasya ca kāraṇam ।
+saṃmāsau caiva bhugnālpau śliṣṭau ca vipulau śubhau ।।

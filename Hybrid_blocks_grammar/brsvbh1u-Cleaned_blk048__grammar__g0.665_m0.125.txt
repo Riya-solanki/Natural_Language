@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 48 | label: grammar | g:0.665 m:0.125 ---
+
+-jyotiṣṭome anyonyaṃ saṃbadhya yajñaśālāto nirgacchatāmṛtvijāṃ vicchedanimittaṃ prāyaścittaṃ śrūyate ayadyudgātāpacchidyetādakṣiṇena yajeta, yadi pratihartāpacchidyeta sarvasvadakṣiṇeneti'tatrodgātṛpratihartroḥ krameṇa vicchede viruddhaprāyaścittayoḥ samuccayāsaṃbhavāt kiṃ pūrvaṃ kāryamuta paramiti saṃdehe rāddhāntaḥ apūrvaṃ paramajātatvādabādhitvaiva jāyate ।
+parasyānanyathotpādānnātvabādhena saṃbhavaḥ iti ।

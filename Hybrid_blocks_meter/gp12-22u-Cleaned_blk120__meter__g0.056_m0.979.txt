@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 120 | label: meter | g:0.056 m:0.979 ---
+
+gopyo mithaḥ kaṇṭha-vilagna-kaṇṭhās
+tā rorudāmāsur alaṃ vilapya ।
+smṛtiṃ nayat pūtanikādi-nāśaṃ
+yan mātṛ-santvāya muhur babhūva ।। [indravajrā]

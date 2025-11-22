@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 37 | label: hybrid | g:0.531 m:0.5 ---
+
+sarassu padma gagane ca tārakā jalāśayeṣveva tathā payāṃsi ।
+satāṃ ca cittaṃ hi diśāṃ mukhaiḥ samaṃ vaimalyamāyānti śaśaṅkakāntayaḥ ।।

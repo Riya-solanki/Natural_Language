@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 211 | label: meter | g:0.25 m:0.5 ---
+
+kutra tiṣṭhati kasyaiṣā kā mātā kaḥ pitāmahaḥ 
+ko me dadāti ko yācyaḥ kiṃ kurvāmaḥ kulojjhitāḥ ।।

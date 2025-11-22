@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3953 | label: meter | g:0.194 m:0.5 ---
+
+vṛtte svayaṃvare jagmū rājānaḥ svapurāṇi te 
+upādāya tu vaidarbhīṃ pradyumno dvārakāṃ yayau ।। 
+reme saha tayā vīro damayantyā nalo yathā । 
+sa tasyāṃ janayām āsa devagarbhopamaṃ sutam 
+aniruddham iti khyātaṃ karmaṇāpratimaṃ bhuvi 
+dhanurvede ca vede ca nītiśāstre ca pāragam ।।

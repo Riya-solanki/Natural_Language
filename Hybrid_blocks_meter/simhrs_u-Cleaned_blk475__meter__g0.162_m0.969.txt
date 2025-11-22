@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 475 | label: meter | g:0.162 m:0.969 ---
+
+gīta-śrāntyā, yathā-
+gītāntareṣu śrama-vāri-leśaiḥ
+kiṃcit samucchvāsita-patra-lekham ।
+puṣpāsavāghūrṇita-netra-śobhi
+priyā-mukhaṃ kiṃpuruṣaś cucumbe ।।

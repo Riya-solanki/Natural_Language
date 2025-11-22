@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 76 | label: meter | g:0.272 m:0.845 ---
+
+kevalasyāprayogitvāt kartṛsaṃkhyādisaṃgrahāt ।
+rūpāvināśasiddheś ca pratyayo api prayujyate ।।

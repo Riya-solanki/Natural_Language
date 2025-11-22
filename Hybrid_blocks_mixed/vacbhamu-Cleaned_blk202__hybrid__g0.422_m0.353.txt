@@ -1,0 +1,6 @@
+--- source: vacbhamu-Cleaned.txt | block: 202 | label: hybrid | g:0.422 m:0.353 ---
+
+na caikasya pratibhāne anāśvāsa iti yuktam ।
+na hi bahūnāmapyajñānāṃ vijñānāṃ vā āśayadoṣavatāṃ pratibhāne yukta āśvāsaḥ; tattvajñānavatastvapāstasamastadoṣasyaikasyāpi pratibhāne yukta evāśvāsaḥ ।
+sargādibhuvāṃ ca prajāpatidevarṣīṇāṃ dharmajñānavairāgyaiśvaryasaṃpannānāmupapadyate tatsvarūpāvadhāraṇam; tatpratyayena cārvācīnānāmapi tatra saṃpratyaya ityupapannaṃ brahmaṇaḥ śāstrayonitvam, śāstrasya cāpauruṣeyatvam, prāmāṇyaṃ ceti ।
+iti prathamavarṇakam ।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1096 | label: meter | g:0.25 m:0.555 ---
+
+śyāmaputraḥ sumitras tu śamīko rājyam āvahat 
+jugupsamāno bhojatvād rājasūyamavāpa saḥ । 
+ajātaśatruḥ śatrūṇāṃ jajñe tasya vināśanaḥ ।।

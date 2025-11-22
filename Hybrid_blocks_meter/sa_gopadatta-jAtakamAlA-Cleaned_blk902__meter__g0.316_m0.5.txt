@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 902 | label: meter | g:0.316 m:0.5 ---
+
+ye ca śṛṇvanti saddharmaṃ te api na yānti durgatim ।
+sarvadā satsukhaṃ bhuktvā yānti cānte sukhāvatīm ।।

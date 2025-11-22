@@ -1,0 +1,7 @@
+--- source: brsvbh3u-Cleaned.txt | block: 173 | label: hybrid | g:0.25 m:0.484 ---
+
+saṃbandhād evam anyatrāpi ।
+yadyekasyāmapi śākhāyāṃ tattvena pratyabhijñānādupāsanasya tatra vihitānāṃ dharmāṇāṃ saṃkaraḥ ।
+tathā sati satyasyaikasasyābhedānmaṇḍaladvayavartina upaniṣadorapi saṃkaraprasaṅgāt ।
+tasyeti ca prakṛtaparāmarśitvādbhedaḥ ।
+satyasya ca pradhānasya prakṛtatvādadhidaivamityasya viśeṣaṇatayopasarjanatvenāprastutvātprastutasya ca satyasyābhedātpūrvavadguṇasaṃkaraḥ ।।

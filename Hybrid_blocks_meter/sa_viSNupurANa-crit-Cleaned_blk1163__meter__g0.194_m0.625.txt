@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1163 | label: meter | g:0.194 m:0.625 ---
+
+praviṣṭaḥ ko asya hṛdayaṃ durbuddher atipāpakṛt 
+yenedṛśāny asādhūni vadaty āviṣṭamānasaḥ ।।

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 457 | label: grammar | g:0.564 m:0.25 ---
+
+athaitāsāṃ rasa-niyamaḥ-
+kaiśikī syāt tu śṛṅgāre rase vīre tu sātvatī ।
+radura-bībhatsayor vṛttir niyatārabhaṭī punaḥ । 
+śṛṅgārādiṣu sarveṣu raseṣv iṣṭaiva bhāratī ।। tac ca śṛṅgārādi-grahaṇaṃ taj-janyānāṃ hāsyādīnām apy upalakṣaṇam । ataś ca śṛṅgāra-hāsyayoḥ kaiśikī । vīrādbhutayoḥ sāttvatī । raudra-karuṇayor bībhatsa-bhayānakayoś ca ārabhaṭīti niyamaḥ pratīyate । tathā ca bharataḥ-

@@ -1,0 +1,14 @@
+--- source: grasht_u-Cleaned.txt | block: 1071 | label: grammar | g:0.643 m:0.087 ---
+
+pūrvavidhānaṃ praśaṃsayann āha krāmatītyādi ।।
+tataḥ pūrvavidhānataḥ sūtaḥ krāmati svaguṇān prakāśayati sūte krāmati sati devagarbhābhān putrān janayati devagarbhavat ābhā kāntir yeṣāṃ te tān punaḥ strīṣu niścalaḥ sadāsthāyī kāmo ratyabhilāṣo vā madano yasya sa tathoktaḥ punar valīpalitanirmuktaḥ valyaśca palitāni ca tair nirmukto vivarjitaḥ valiścarma jarākṛtaṃ ityamaraḥ palitaṃ keśaśvetatvaṃ evaṃvidho bhavati pumān iti śeṣaḥ ।।
+punaḥ kiṃ syādityāha buddhirityādi ।।
+rasāyaninaḥ rasāyanaṃ prāptasya hi puṃsaḥ buddhirvardhate balaṃ ca vardhate kena saha āyuṣā jīvitakālena saha punar divyabuddhiṃ prāptasya rasāyaninaḥ divyāḥ prakaraṇādguṇā medhādayaḥ pravardhante prakāśanta ityarthaḥ ।।
+taccāha evamityādi ।।
+evamamunā prakāreṇa rasasaṃsiddhaḥ puruṣaḥ rasaḥ pāradaḥ saṃsiddhaḥ samyak siddho yasya vā rasena saṃsiddhaḥ jarāmaraṇavarjito bhavati vṛddhatvavyādhirahita ityarthaḥ guṇavāṃśca bhavati guṇā medhādayaḥ ।।
+punaḥ khegamanena ākāśagamanena nityaṃ sakalabhuvaneṣu samastalokeṣu saṃcarate ityarthaḥ ।।
+dātā bhuvanatritaye svargamṛtyupātāle bhavati sarvādhika ityabhiprāyaḥ ।।
+so'pi pumān iha bhuvanatritaye svargamṛtyupātāle sraṣṭā sarjako bhavati ।।
+ka iva padmayoniriva brahmeva ।।
+punaḥ bhartā pālanārthaṃ trikasya viṣṇuriva ca bhavati ।।
+punaḥ saṃhartā rudravat bhavati sṛṣṭisthitivināśeṣu brahmādīnāṃ trayīva syādityarthaḥ ।।

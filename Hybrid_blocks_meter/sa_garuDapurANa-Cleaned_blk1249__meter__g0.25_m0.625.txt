@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1249 | label: meter | g:0.25 m:0.625 ---
+
+mantranyāsaṃ guruḥ kṛtvā tataḥ karma samārabhet ।
+prāsādasyāgrataḥ kuryānmaṇḍapaṃ daśahastakam ।।

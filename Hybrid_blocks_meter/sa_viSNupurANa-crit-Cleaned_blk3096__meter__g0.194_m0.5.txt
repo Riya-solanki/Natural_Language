@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3096 | label: meter | g:0.194 m:0.5 ---
+
+tato annaṃ mṛṣṭam atyartham abhīṣṭam atisaṃskṛtam 
+dattvā juṣadhvam icchāto vācyam etad aniṣṭhuram ।।

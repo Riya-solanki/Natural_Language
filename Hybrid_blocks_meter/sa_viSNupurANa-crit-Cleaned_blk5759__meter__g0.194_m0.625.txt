@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 5759 | label: meter | g:0.194 m:0.625 ---
+
+gāṇḍīvaṃ triṣu lokeṣu khyātiṃ yadanubhāvataḥ 
+gataṃ tena vinābhīrair laguḍais tannirākṛtam ।।

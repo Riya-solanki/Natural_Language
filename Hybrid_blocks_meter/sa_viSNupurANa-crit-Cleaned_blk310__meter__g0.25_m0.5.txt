@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 310 | label: meter | g:0.25 m:0.5 ---
+
+yathā ca varṇān asṛjad yadguṇāṃś ca mahāmune 
+yac ca teṣāṃ smṛtaṃ karma viprādīnāṃ tad ucyatām ।।

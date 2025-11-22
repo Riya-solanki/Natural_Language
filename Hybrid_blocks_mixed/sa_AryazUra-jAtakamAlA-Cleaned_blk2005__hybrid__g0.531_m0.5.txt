@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2005 | label: hybrid | g:0.531 m:0.5 ---
+
+śrutvaiva yannāma manaḥ prasādaṃ śreyo anurāgaḥ sthiratāṃ ca yāti ।
+prajñā vivṛddhyā vitamaskatāṃ ca krayyaṃ nanu syādapi tatsvamāṃsaiḥ ।।

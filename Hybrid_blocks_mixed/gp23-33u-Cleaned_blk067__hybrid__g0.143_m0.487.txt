@@ -1,0 +1,7 @@
+--- source: gp23-33u-Cleaned.txt | block: 67 | label: hybrid | g:0.143 m:0.487 ---
+
+[] tac ca yuktaṃ, yataḥ-
+tāsāṃ kṛṣṇaḥ parātmā na tu paraiti na prāpnuyāj jāratāṃ tat
+prānte prāptaḥ patitvaṃ dadad ucita-matiṃ jāram atyāpi vittaḥ।
+yadvad bakyāṃ jighāṃsāv api samucitam atyarpaṇāl lālya-bhāvaṃ
+lebhe dhātrī-nibhāyāṃ sthiratamam iha yad yuktitas tat phalaṃ hi ।। [sragdharā]

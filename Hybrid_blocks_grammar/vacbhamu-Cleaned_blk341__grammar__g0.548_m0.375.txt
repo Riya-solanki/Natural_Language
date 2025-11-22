@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 341 | label: grammar | g:0.548 m:0.375 ---
+
+atrāpi itaścānandamayaḥ ityasya ca ānandamayādhikāre ityasya ca bhāṣyasya sthāne brahma pucchaṃ pratiṣṭhā iti brahmapucchādhikāre iti ca paṭhitavayam ।
+kāmācca nānumānāpekṣā ।।

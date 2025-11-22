@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2893 | label: meter | g:0.306 m:0.5 ---
+
+bhavān bhavasyānucaro bhava nandī gaṇeśvaraḥ ।
+tato gatvātha bhuktvā tāṃ jeṣyāmi pramathān surān ।।

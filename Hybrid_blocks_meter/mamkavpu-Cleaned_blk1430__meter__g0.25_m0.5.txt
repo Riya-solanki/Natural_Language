@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 1430 | label: meter | g:0.25 m:0.5 ---
+
+sāmānyaṃ vā viśeṣo vā tadanyena samarthyate ।
+yattu so arthāntaranyāsaḥ sādharmyeṇetareṇa vā ।।

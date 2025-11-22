@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 999 | label: meter | g:0.25 m:0.5 ---
+
+yadvā mayānyatkaraṇīyaṃ tatsaṃdeśādarhatyatrabhavānbhūyo api māmanugrahītum ।

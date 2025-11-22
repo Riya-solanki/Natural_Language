@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 5873 | label: meter | g:0.446 m:0.688 ---
+
+aṅguṣṭhādikaniṣṭhāntamanulomavilomataḥ ।
+parvasandhiṣu ca nyasyā jayā ca vijayā tathā ।।

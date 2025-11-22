@@ -1,0 +1,4 @@
+--- source: brssbh2u-Cleaned.txt | block: 657 | label: meter | g:0.25 m:0.512 ---
+
+nanu cāṃśo jīva īśvarasyetyuktam ।
+tadbhedāccānujñāparihārau tadāśrayāvavyatikīrṇāvupapadyete kimatra codyata iti ।

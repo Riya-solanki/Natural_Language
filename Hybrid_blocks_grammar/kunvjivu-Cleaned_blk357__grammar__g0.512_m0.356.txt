@@ -1,0 +1,12 @@
+--- source: kunvjivu-Cleaned.txt | block: 357 | label: grammar | g:0.512 m:0.356 ---
+
+varṇānāmakṣarāṇāṃ yā chāyā kāntiḥ śravyatādiguṇasaṃpattayā hetubhūtayā yadanusaraṇamanusāraḥ prāpyasvarūpānupraveśastena ।
+guṇamārgāṃśca sukumāraprabhṛtīnanuvartate yā sā tathoktā ।
+tatra guṇānāmāntaramyāt prathamamupanyasanam, guṇadvāreṇaiva mārgānusaraṇopapatteḥ ।
+tadayamatrārthaḥyadyaṣā varṇavinyāsavakratā vyañjanacchāyānusāreṇaiva, tathāpi pratiniyataguṇaviśiṣṭānāṃ mārgāṇāṃ guṇānuvartanadvāreṇa yathā svarūpānupraveśaṃ vidadhāti tathā vidhātavyeti ।
+tata eva ca tasyāstannibandhanāḥ pravitatāḥ prakārāḥ samullasanti ।
+cirantanaiḥ punaḥ saiva svātantryeṇa vṛttivaicitryayukteti proktā ।
+vṛttīnāmupanāgarikādīnāṃ yad vaicitryaṃ vicitrabhāvaḥ svaniṣṭhasaṃkhyābhedabhinnatvaṃ tena yuktā samanviteti cirantanaiḥ pūrvasūribhirabhihitā ।
+tadidamatra tātparyamyadasyāḥ sakalāguṇa svarūpānusaraṇasamanvayena sukumārādimārgānuvartanāyattavṛtteḥ pāratantryamaparigaṇitaprakāratvaṃ caitadubhayamapyavaśyaṃbhāvi tasmādapāratantryaṃ parimitaprakāratvaṃ ceti nāticaturastram ।
+nanu ca prathamameko dvāvityādinā prakāreṇa parimitān prakārān svatantratvaṃ ca svayameva vyākhyāya kimetaduktamiti cennaiṣa doṣaḥ, yasmāllakṣaṇakārairyasya kasyācitpadārthasya samudāyaparāyattavṛtteḥ paravyutpattaye prathamamapoddhārabuddhyā svatantratayā svarūpamullikhyate, tataḥ samudāyāntarbhāvo bhaviṣyatītyalamatiprasaṅgena ।
+yeyaṃ varṇavinyāsavakratā nāma vācakālaṅkṛtiḥ sthānaniyamābhāvāt sakalavākyaviṣayatvena samāmnāt, saiva prakārāntaraviśiṣṭā niyatasthānatayopanibadhyamānā kimapi vaicitryāntaramābadhnātītyāha

@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 86 | label: hybrid | g:0.542 m:0.5 ---
+
+-evaṃ sarvatra vastu sadeva bhātīti sadvādinākṣipte siddhāntyāha-atra brūma iti ।

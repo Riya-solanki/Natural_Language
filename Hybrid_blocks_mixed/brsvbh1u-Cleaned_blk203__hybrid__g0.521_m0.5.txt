@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 203 | label: hybrid | g:0.521 m:0.5 ---
+
+-kūṭasthanityatvāt, pūrvarūpāpāyarūpo vikāraḥ, abhinavaguṇodayarūpaḥ saṃskāraśca na bhavata ityarthaḥ ।

@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 890 | label: grammar | g:0.729 m:0.5 ---
+
+[] rājan, kṛṣṇa-janany adya na bhuktavatī, na kenacid uktavatī ca vartate । tām anu sarvāś ca tathā vartante ।

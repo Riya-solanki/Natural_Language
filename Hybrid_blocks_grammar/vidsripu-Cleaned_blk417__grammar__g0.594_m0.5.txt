@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 417 | label: grammar | g:0.594 m:0.5 ---
+
+dṛṣṭā kāñcanayaṣṭir adya nagaropānte bhramantī mayā tasyām adbhutapadmam ekam aniśaṃ protphullam ālokitam ।
+tatrobhau madhupau tathopari tayor eko aṣṭamīcandramās tasyāgre paripuñjitena tamasā naktaṃdivaṃ sthīyate ।।

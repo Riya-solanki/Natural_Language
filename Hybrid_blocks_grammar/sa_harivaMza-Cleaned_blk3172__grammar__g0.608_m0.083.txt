@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3172 | label: grammar | g:0.608 m:0.083 ---
+
+saṃgataś cāsmi lokānām āścaryeṇeha rūpiṇā 
+ataḥ parataraṃ kṛṣṇa nāścaryaṃ draṣṭum utsahe ।। 
+ko vāyaṃ triṣu lokeṣu vismayaṃ bhavatā vinā । namaḥ sarvātmane tubhyaṃ vismayāya jagatpate । namo astu devadeveśa tubhyaṃ sarvātmane namaḥ । namo astu viṣṇave tubhyam ameyāya jagatpate ।। kiṃ vānena jagannātha kṛtakṛtyo asmi sāṃpratam । kṛtyaśeṣaṃ sadā viṣṇo kim utsṛjasi sāṃpratam । 
+tad āgaccha gamiṣyāmaḥ kaṃsarājapurīṃ prabho 
+yāvann āstaṃ vrajaty eṣa divasānte divākaraḥ ।।

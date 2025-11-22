@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3738 | label: grammar | g:0.604 m:0.5 ---
+
+teṣāṃ ca pṛthuyaśāḥ pṛthukarmā pṛthujayaḥ pṛthukīrtiḥ pṛthudānaḥ pṛthuśravāś ca ṣaṭ putrāḥ pradhānāḥ ।।

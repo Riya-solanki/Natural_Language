@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2213 | label: meter | g:0.194 m:0.625 ---
+
+kṛtānuyātrā bhūtais tvaṃ nityaṃ māṃsabalipriyā 
+tithau navamyāṃ pūjāṃ ca prāpsyase sapaśukriyām ।।

@@ -1,0 +1,8 @@
+--- source: gp12-22u-Cleaned.txt | block: 674 | label: meter | g:0.157 m:0.629 ---
+
+aho sumanaso muktā vajrāṇy api harer uraḥ ।
+na tyajanti vayaṃ tatra kā vā smara-vaśāḥ striyaḥ? ।। [anuṣṭubh]
+cen na saṅgam aparasya vidhatte
+śyāma eṣa na tu tarhi dunomi ।
+aṅkapālayati hā gata-śaṅkaḥ
+saṅginaḥ katham idaṃ kalayāmi ।। iti । [svāgatā]

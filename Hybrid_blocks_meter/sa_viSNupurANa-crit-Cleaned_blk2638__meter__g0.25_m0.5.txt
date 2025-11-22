@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2638 | label: meter | g:0.25 m:0.5 ---
+
+so aham icchāmi tac chrotuṃ yamasya vaśavartinaḥ 
+na bhavanti narā yena tat karma kathayāmalam ।।

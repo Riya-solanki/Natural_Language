@@ -1,0 +1,6 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 2340 | label: meter | g:0.25 m:0.502 ---
+
+sā snātumavatīrṇā ca athābhyāgānnareśvaraḥ । sudevatanayo dhīmān suratho nāma nāmataḥ । ।।
+tāṃ dadarśa ca tanvaṅgīṃ śubhāṅgo madanāturaḥ ।।
+taṃ dṛṣṭvā sā sakhīrāha vacanaṃ satyasaṃyutam ।
+asau narādhipasuto madanena sadarthyate ।।

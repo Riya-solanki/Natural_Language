@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 170 | label: grammar | g:0.75 m:0.5 ---
+
+[] atha kathā-prathanāya grathanam idam ārabhyate । [] svabhajana-lasan-mānasa-san-mānada-janmādi-līlā-bhavyāya bhuvy āvirbhāvitasya tasya nija-vraja-loka-cakrasya dantavakraṃ hatavatā śrī-bhagavatā tatra vigata-sarva-śoke goloke punar api saṃśleṣaḥ sādhita iti campū-dvayasya pratisampūrti-vakṣyamāṇa-sapramāṇa-kathā-lakṣyatayā viviktam eva vyaktīkariṣyate ।

@@ -1,0 +1,6 @@
+--- source: gp12-22u-Cleaned.txt | block: 1016 | label: meter | g:0.26 m:0.913 ---
+
+gaṇaka-nidiṣṭa-tare sudināhe
+veśaṃ dhāsyati sa nijavivāhe ।
+nīla-rucī-cita-gaura-dukūlam
+ghana-capalābhirucām iva mūlam ।।

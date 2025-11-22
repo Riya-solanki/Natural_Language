@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1711 | label: meter | g:0.25 m:0.5 ---
+
+sūryakṣetraṃ bhavetsiṃhaḥ kanyā kṣetraṃ budhasya ca ।
+bhārgavasya tulā kṣetraṃ vṛścikoṅgārakasya ca ।।

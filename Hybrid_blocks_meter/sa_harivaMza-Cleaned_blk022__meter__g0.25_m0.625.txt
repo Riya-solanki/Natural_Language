@@ -1,0 +1,8 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 22 | label: meter | g:0.25 m:0.625 ---
+
+tasmāt kalyāya te kalyaḥ samagraṃ śucaye śuciḥ 
+tasmai hiraṇyagarbhāya puruṣāyeśvarāya ca । 
+ajāya prathamāyaiva variṣṭhāya prajāpate । 
+brahmaṇe lokanāthāya gariṣṭhāya svayaṃbhuve । 
+praṇamya prabhave pūrvaṃ tasmai amitatejase । 
+ā vṛṣṇivaṃśād vakṣyāmi bhūtasargam anuttamam ।।

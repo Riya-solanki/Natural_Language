@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 601 | label: meter | g:0.031 m:0.616 ---
+
+kiṃ ca,
+līḍhaṃ rūpa-madhu prakṛṣya rasitaṃ vaktra-prasādāmṛtaṃ
+samyak svādita eva tulya-rahita-sparśotsavaḥ ko' py asau ।
+tasya śyāmala-bāla-komala-tanor mūrdhnas tu tātena tāṃ
+saurabhya-svadanānubhūtim abhito viśvaṃ madād vismṛtam ।। [śārdūla]

@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 58 | label: meter | g:0.25 m:0.75 ---
+
+avandhyākṣarayuktena adbhir vratīn susiñcayet ।
+havargāntākṣarair mantrair vratimūrdhni pratiṣṭhitam ।।

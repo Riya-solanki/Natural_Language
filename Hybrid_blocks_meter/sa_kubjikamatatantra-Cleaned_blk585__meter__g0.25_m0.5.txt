@@ -1,0 +1,3 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 585 | label: meter | g:0.25 m:0.5 ---
+
+tad ahaṃ śrotum icchāmi mandabuddhyālpacetasā ।।

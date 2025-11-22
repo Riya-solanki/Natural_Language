@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1283 | label: meter | g:0.35 m:0.511 ---
+
+nirmalānāṃ kuto randhraṃ kathaṃcid apavidhyate ।
+vidhīyate guṇair eva tac ca muktāmaṇer iva ।।
+tryambakasya

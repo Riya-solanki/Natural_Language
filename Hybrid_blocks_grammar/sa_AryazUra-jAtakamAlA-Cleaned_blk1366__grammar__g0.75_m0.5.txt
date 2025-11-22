@@ -1,0 +1,3 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1366 | label: grammar | g:0.75 m:0.5 ---
+
+atha sa rājā samabhinandya tattasya vacanaṃ saparṣatkaḥ saṃmānapriyavacanaprayogapuraḥsaraṃ tau haṃsamukhyau visasarja । atha bodhisattvaḥ samutpatya vimalakhaḍgābhinīlaṃ śaratprasannaśobhaṃ gaganatalaṃ pratibimbenevānugamyamānaḥ sumukhena haṃsasenāpatinā samupetya haṃsayūthaṃ saṃdarśanādeva pareṇa praharṣeṇa saṃyojayāmāsa ।

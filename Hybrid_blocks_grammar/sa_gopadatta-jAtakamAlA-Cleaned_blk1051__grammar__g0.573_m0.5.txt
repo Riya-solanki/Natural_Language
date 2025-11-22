@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 1051 | label: grammar | g:0.573 m:0.5 ---
+
+na hi tat sukham asti kiṃ cid anyan naralokādhipate divi kṣitau vā ।
+śataśaś ca sahasradhā ca bhuktaṃ na yad asmābhir anarthapaṇḍitābhiḥ ।।

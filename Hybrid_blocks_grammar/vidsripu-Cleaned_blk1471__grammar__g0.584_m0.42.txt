@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 1471 | label: grammar | g:0.584 m:0.42 ---
+
+deva svastutir astu nāma hṛdi naḥ sarve vasanty āgamās tīrthaṃ na kvacid īdṛg atrabhavatī tvatkhaḍgadhārā yathā ।
+yām ekaḥ svaśarīraśuddhirasiko mūrdhi pratīcchan ripur dvaividhyād anu pañcatāṃ tadanu ca traidaśyam āpa kṣaṇāt ।।
+rathāṅgasya

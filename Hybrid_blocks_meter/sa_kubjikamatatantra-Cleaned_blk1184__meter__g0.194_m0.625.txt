@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 1184 | label: meter | g:0.194 m:0.625 ---
+
+saptamaṃ kaṃsatālaṃ tu meghaśabdaṃ tu cāṣṭamam 
+navamaṃ dāghanirghoṣaṃ daśamaṃ dundubhisvanaḥ ।।

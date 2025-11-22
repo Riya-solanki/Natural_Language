@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 856 | label: grammar | g:0.594 m:0.5 ---
+
+yaḥ kaumāraharaḥ sa eva ca varas tāś candragarbhā niśāḥ pronmīlannavamālatīsurabhayas te ca vindhyānilāḥ ।
+sā caivāsmiṃs tathāpi dhairyasuratavyāpāralīlābhṛtāṃ kiṃ me rodhasi vetasīvanabhuvāṃ cetaḥ samutkaṇṭhate ।।

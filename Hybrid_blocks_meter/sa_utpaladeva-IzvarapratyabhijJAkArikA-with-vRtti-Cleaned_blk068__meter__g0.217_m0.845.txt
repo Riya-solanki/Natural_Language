@@ -1,0 +1,4 @@
+--- source: sa_utpaladeva-IzvarapratyabhijJAkArikA-with-vRtti-Cleaned.txt | block: 68 | label: meter | g:0.217 m:0.845 ---
+
+vartamānāvabhāsānāṃ bhāvānām avabhāsanam 
+antaḥsthitavatām eva ghaṭate bahir ātmanā ।।

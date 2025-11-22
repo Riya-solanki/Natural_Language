@@ -1,0 +1,7 @@
+--- source: simhrs_u-Cleaned.txt | block: 628 | label: meter | g:0.145 m:0.585 ---
+
+yatha priya-darśikāyāṃ -
+eṣā mlīayatīdam akṣi-yugalaṃ jātā mamāndhā diśaḥ
+kaṇṭho' syā uparudhyate mama giro niryānti kṛcchrād imāḥ ।
+etasyāḥ śvasitaṃ hṛtaṃ mama tanur niśceṣṭatām āgatā
+manye' syāḥ viṣa-vega eva hi paraṃ sarvaṃ tu duḥkhaṃ mayi ।।

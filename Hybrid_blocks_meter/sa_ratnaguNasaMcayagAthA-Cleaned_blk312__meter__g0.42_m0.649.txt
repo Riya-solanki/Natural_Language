@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 312 | label: meter | g:0.42 m:0.649 ---
+
+kaśadaṇḍaśastravadhabandhanatāḍanāśca śirachedakarṇacaraṇākaranāsachedāḥ 
+yāvanti duḥkha jagatī ahu tatsahāmi kṣāntīya pāramita tiṣṭhati bodhisattvo ।।

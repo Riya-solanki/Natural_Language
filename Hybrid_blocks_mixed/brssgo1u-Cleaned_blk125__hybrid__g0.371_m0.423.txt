@@ -1,0 +1,6 @@
+--- source: brssgo1u-Cleaned.txt | block: 125 | label: hybrid | g:0.371 m:0.423 ---
+
+atrocyate- idaṃ tāvadbhavānpraṣṭavyaḥ, kathaṃ nityajñānakriyatve sarvajñatvahāniriti ।
+yasya hi sarvaviṣayāvabhāsanakṣamaṃ jñānaṃ nityamasti so asarvajña iti vipratiṣiddham ।
+anityatve hi jñānasya kadācijjānāti kadācinnajānātītyasarvajñatvamapi syāt ।
+nāsau jñānanityatve doṣo asti jñānanityatve jñānaviṣayaḥ svātantryavyapadeśo nopapadyata iti cenna, pratatauṣṇyaprakāśe api savitari dahati prakāśayatīti svātantryavyapadeśadarśanāt ।

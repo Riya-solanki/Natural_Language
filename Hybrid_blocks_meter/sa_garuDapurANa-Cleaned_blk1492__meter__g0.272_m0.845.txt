@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1492 | label: meter | g:0.272 m:0.845 ---
+
+brahmavarcasakāmastu brāhmaṇānbrahmaniścayāt ।
+ārogyakāmo atha raviṃ dhanakāmo hutāśanam ।।

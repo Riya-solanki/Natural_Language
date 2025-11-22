@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1692 | label: meter | g:0.25 m:0.625 ---
+
+pūrvaphalgunī śukre ca svātiścaiva śanaiśvare ।
+etai cāmṛtayogāḥ syuḥ sarvakāryaprasādhakāḥ ।।

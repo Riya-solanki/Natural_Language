@@ -1,0 +1,3 @@
+--- source: brssbh1u-Cleaned.txt | block: 593 | label: grammar | g:0.625 m:0.5 ---
+
+arṣeya ṛṣiyogaḥ, chando gāyatryādi, daivatagnyādi, brāhmaṇaṃ viniyogaḥ etānyaviditāni yasminmantre, sthāṇuṃ sthāvaraṃ, gartaṃ narakam ।

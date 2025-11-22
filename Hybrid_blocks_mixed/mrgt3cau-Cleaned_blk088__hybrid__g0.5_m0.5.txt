@@ -1,0 +1,7 @@
+--- source: mrgt3cau-Cleaned.txt | block: 88 | label: hybrid | g:0.5 m:0.5 ---
+
+Vṛtti:
+[yatra] yasmin sūtre [mahātantrārthapādapaḥ bīja iva] sakalatantrārtho bīja iva mahāvṛkṣa ārūḍhaḥ ābhāti śaktyātmanāvasthitaḥ pratibhāti [tad athaśabdādyalaṃkṛtaṃ] tadathaśabdaśivasiddhādimaṅgalyaśabdālaṃkṛtaṃ mūlasūtraṃ mūlaṃ sūtraṃ jñeyam।
+yathā`athānādimalāpeta' ityādi।
+quote{athānādimalāpetaḥ
+{rmMrgVP :}}

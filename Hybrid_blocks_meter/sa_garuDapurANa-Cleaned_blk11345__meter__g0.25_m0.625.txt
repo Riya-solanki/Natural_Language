@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11345 | label: meter | g:0.25 m:0.625 ---
+
+tadviṃśatyā lakṣaṇaiḥ saṃyutastu tadā doṣerdvādaśabhiśca yuktaḥ ।
+ekonaviṃśatyā lakṣaṇaiścāpi yuktastrayodaśabhistadabhāvairyutogniḥ ।।

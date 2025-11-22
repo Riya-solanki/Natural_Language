@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1008 | label: meter | g:0.25 m:0.927 ---
+
+ekārṇave jagatyasmin naṣṭe sthāvarajaṅgame ।
+viṣṇornābhisamudbhūtaṃ padmamavyaktajanmanaḥ ।
+tasmin brahma samudbhūtaṃ sarvalokapitāmahaḥ ।।

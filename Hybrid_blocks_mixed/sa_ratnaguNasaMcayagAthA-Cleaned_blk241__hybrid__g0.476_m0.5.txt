@@ -1,0 +1,4 @@
+--- source: sa_ratnaguNasaMcayagAthA-Cleaned.txt | block: 241 | label: hybrid | g:0.476 m:0.5 ---
+
+emeva prajñacarito vidu bodhisattvo amṛtasya dāyaku priyo marumānuṣāṇām 
+ayu eṣa eṣati hi sattvasukhābhiyukto prāgeva yāva sthitu bheṣyati dharmarājo ।।

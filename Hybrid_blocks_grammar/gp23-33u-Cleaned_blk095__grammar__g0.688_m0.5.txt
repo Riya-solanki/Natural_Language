@@ -1,0 +1,3 @@
+--- source: gp23-33u-Cleaned.txt | block: 95 | label: grammar | g:0.688 m:0.5 ---
+
+[] tad evaṃ sati sā ca tadīya-tādṛśa-dṛśaḥ sparṣataḥ kampa-sampad-unmīlana-rasa-prasara-vaśatayā kṣobhaṃ labhamānāpi taṃ prati prahita-lobhāṃ śobhām uvāha ।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3101 | label: meter | g:0.194 m:0.625 ---
+
+avatīrṇo bhavāyeha prathamaṃ padam ātmanaḥ 
+śobhate adya bhuvi śreṣṭhas tridaśānāṃ dhuraṃdharaḥ ।।

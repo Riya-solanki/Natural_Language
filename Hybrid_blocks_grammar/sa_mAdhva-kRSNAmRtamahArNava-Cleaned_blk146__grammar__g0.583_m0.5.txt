@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 146 | label: grammar | g:0.583 m:0.5 ---
+
+yāni kāni ca vākyāni viddhopāsyāparāṇi tu dhanadārcāparāṇi syur vaiṣṇavī na daśāyutā ।।

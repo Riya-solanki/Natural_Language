@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4342 | label: meter | g:0.194 m:0.625 ---
+
+aśrutaś ca suto jajñe kālindyāḥ śrutasattamaḥ 
+aśrutaṃ śrutasenāyai pradadau madhusūdanaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 310 | label: hybrid | g:0.521 m:0.5 ---
+
+jātiḥ kveyaṃ tadvirodhi kva cedaṃ tyāgaudāryaṃ cetasaḥ pāṭavaṃ ca ।
+vispaṣṭo ayaṃ puṇyamandādarāṇāṃ pratyādeśo devatānāṃ nṛṇāṃ ca ।।

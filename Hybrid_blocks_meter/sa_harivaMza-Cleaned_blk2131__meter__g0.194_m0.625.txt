@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2131 | label: meter | g:0.194 m:0.625 ---
+
+tatra tvaṃ śiśur evādau gopālakṛtalakṣaṇaḥ 
+vardhayasva mahābāho purā traivikrame yathā ।।

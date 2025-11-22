@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3259 | label: meter | g:0.25 m:0.5 ---
+
+sā tam āhotthitā bhītā na tvaṃ mama patir dhruvam 
+kaś ca tvaṃ vikṛtākāro yenāsmi malinīkṛtā ।।

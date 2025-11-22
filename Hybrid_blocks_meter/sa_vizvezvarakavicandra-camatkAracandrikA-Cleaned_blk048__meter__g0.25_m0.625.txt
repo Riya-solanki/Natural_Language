@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 48 | label: meter | g:0.25 m:0.625 ---
+
+taccintyamathavā tyājyaṃ dākṣiṇyena kimīdṛśā ।
+prabandhe api purābhūta nivṛcyanta nibandhane ।।

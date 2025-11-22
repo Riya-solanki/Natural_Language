@@ -1,0 +1,4 @@
+--- source: vacbhamu-Cleaned.txt | block: 1065 | label: hybrid | g:0.349 m:0.47 ---
+
+bhaṅktvā vādyasurendravṛndamakhilāvidyopadhānātigaṃ yenāmnāyapayonidhernayapathā brahmāmṛtaṃ prāpyate ।
+so ayaṃ śāṅkarabhāṣyajātaviṣayo vācaspateḥ sādaraṃ saṃdarbhaḥ paribhāvyatāṃ sumatayaḥ svārtheṣu ko matsaraḥ ।।

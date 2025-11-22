@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 489 | label: meter | g:0.306 m:0.625 ---
+
+rājyāni vistīrṇadhanojjvalāni vihāya nārīmukhapaṅkajāni ।
+yuddhe mriyante bahavo narendrā yayā tayecchālatayāgato aham ।।

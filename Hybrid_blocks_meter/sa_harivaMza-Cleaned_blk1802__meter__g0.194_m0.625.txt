@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1802 | label: meter | g:0.194 m:0.625 ---
+
+kathaṃ svapiti gharmānte budhyate cāmbudakṣaye 
+kathaṃ ca brahmalokastho dhuraṃ vahati laukikīm ।।

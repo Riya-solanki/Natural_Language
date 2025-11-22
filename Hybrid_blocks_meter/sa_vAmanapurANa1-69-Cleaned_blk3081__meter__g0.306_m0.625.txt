@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3081 | label: meter | g:0.306 m:0.625 ---
+
+tatraiva ca ratiṃ cakraḥ sarva eva mahāsurāḥ ।
+kurvanto lokasaṃpūjye viddheṣaṃ devatāgaṇe ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 37 | label: meter | g:0.102 m:0.5 ---
+
+virājam asṛjad viṣṇuḥ so asṛjat puruṣaṃ virāṭ 
+puruṣaṃ taṃ manuṃ viddhi tad vai manvantaraṃ smṛtam 
+dvitīyam āpavasyaitan manor antaram ucyate ।।

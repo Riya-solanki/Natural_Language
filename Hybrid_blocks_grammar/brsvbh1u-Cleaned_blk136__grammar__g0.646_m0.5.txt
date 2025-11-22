@@ -1,0 +1,3 @@
+--- source: brsvbh1u-Cleaned.txt | block: 136 | label: grammar | g:0.646 m:0.5 ---
+
+-dhātvarthatāvacchedakaphalaśālitvaṃ karmatvamityukte gacchatītyādau saṃyogaphalasya grāma iva caitre api samavetatvāt, caitraścaivaṃ gacchatīti prayogāpattiḥ, tasmātparasamavetakriyāphalaśālitvameva karmatvamityarthaḥ ।

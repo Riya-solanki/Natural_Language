@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 2203 | label: meter | g:0.306 m:0.625 ---
+
+kutastiraścāmiyamīdṛśī sthitirguṇeṣvasau cādaravistaraḥ kutaḥ ।
+kayāpi buddhyā tvidamāsthito vapustapovane ko api bhavāṃstapasyati ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1866 | label: meter | g:0.328 m:0.595 ---
+
+yaccāyasajvalitakilanibaddhadehaṃ nirdhūmavahnikapile vasudhātale vā ।
+nirdahyamānavapuṣaṃ karuṇaṃ rudantaṃ yācedṛṇaṃ ka iva nāma tadā bhavantam ।।

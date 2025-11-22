@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 813 | label: meter | g:0.272 m:0.595 ---
+
+jānantyā tvaṃ mahārāja pipīlikarutajñatām 
+coditaḥ krodham uddiśya saktaḥ kāmeṣu vai mayā ।।

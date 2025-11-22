@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 422 | label: grammar | g:0.75 m:0.5 ---
+
+[] sovāca-upaśrutir eṣā śruti-veṣā navyāpi na vyabhicaritā । yataḥ kṛṣṇāyā iti vivakṣitam api kṛṣṇasyeti lakṣitaṃ karoti । kṛṣṇa-nāmā hi bhavitāsau । mahā-prabhāvavati yasmin jātavati nirdānavatā pṛthivyāṃ bhaviṣyati । tadīya-guṇe tu sadā navatā, saguṇatā vidyādi-prabandhe tat-sambandhe tu nirguṇatā । sakiñcanatā viṣaya-sampattau tad-bhaktau tu niṣkiñcanatā ity ādikaṃ viruddhāyamānam api sarvair anuruddhaṃ kariṣyati । tasmād asmākam atra sthātum āgraha eva bhavatām anugrahāya sampannaḥ ।

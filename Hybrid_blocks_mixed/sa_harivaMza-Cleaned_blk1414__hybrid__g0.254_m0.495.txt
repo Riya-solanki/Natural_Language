@@ -1,0 +1,7 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1414 | label: hybrid | g:0.254 m:0.495 ---
+
+devatānām ṛṣīṇāṃ ca manuṣyāṇāṃ ca sarvaśaḥ 
+pṛthivyāṃ sahavāso abhūd rāme rājyaṃ praśāsati ।। 
+rāmo rāmo rāma iti prajānām abhavat kathāḥ । rāmārāmaṃ jagadbhūtaṃ rāme rājyaṃ praśāsati । 
+gāthā apy atra gāyanti ye purāṇavido janāḥ 
+rāme nibaddhās tattvārthā māhātmyaṃ tasya dhīmataḥ ।।

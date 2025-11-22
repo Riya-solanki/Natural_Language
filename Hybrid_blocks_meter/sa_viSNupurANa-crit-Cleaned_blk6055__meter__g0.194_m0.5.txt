@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 6055 | label: meter | g:0.194 m:0.5 ---
+
+bhavato api mahābhāga rahasyaṃ kathitaṃ mayā 
+atyantaduṣṭasya kaler ayam eko mahān guṇaḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4057 | label: meter | g:0.194 m:0.75 ---
+
+maṇimuktāpravālāni vaidūryasya ca saṃcayān 
+mahārajatakūṭāni tathā vajrasya saṃcayān ।।

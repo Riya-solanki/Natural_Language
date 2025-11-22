@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 1374 | label: meter | g:0.25 m:0.5 ---
+
+iti ca proktā dharmamudrāḥ samāsata iti ।।

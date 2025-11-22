@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 81 | label: meter | g:0.306 m:0.5 ---
+
+bhaviṣyati ca vaḥ sarvaṃ kāṅkṣitaṃ yat surottamāḥ ।
+balerdānavamukhyasya yo asya jetā bhaviṣyati ।।

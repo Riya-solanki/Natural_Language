@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9601 | label: meter | g:0.25 m:0.5 ---
+
+harikṣetre kurukṣetre bhṛgukṣetre tathaiva ca ।
+prabhāse śrīsthale caiva arbude ca tripuṣkare ।।

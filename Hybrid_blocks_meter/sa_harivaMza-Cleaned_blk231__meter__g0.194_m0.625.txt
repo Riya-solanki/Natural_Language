@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 231 | label: meter | g:0.194 m:0.625 ---
+
+pitrāparañjitās tasya prajās tenānurañjitāḥ 
+anurāgāt tatas tasya nāma rājety ajāyata ।।

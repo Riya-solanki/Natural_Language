@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 4825 | label: meter | g:0.194 m:0.625 ---
+
+uṣā nāma sutā tasya bāṇasyāpratimaujasaḥ 
+tasyārthe citralekhā vai jahārāśu tam apsarāḥ ।।

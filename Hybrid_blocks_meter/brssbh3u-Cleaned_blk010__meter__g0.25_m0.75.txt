@@ -1,0 +1,3 @@
+--- source: brssbh3u-Cleaned.txt | block: 10 | label: meter | g:0.25 m:0.75 ---
+
+tryātmakatvāt tu bhūyastvāt ।

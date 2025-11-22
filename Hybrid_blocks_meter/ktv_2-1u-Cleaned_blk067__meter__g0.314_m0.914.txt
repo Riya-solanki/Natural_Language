@@ -1,0 +1,4 @@
+--- source: ktv_2-1u-Cleaned.txt | block: 67 | label: meter | g:0.314 m:0.914 ---
+
+prayojyakartṛkaikāntavyāpārapratipādakāḥ ।
+ṇyantā eva prayujyante tatprayojakakarmasu ।।

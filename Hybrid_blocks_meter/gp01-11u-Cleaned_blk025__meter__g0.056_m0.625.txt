@@ -1,0 +1,6 @@
+--- source: gp01-11u-Cleaned.txt | block: 25 | label: meter | g:0.056 m:0.625 ---
+
+yad gokuleśvara iti prathitiḥ purāṇe
+kṛṣṇasya tad bhavati gokulam asya dhāma ।
+govāsatā ca kila gokulatā-nidānaṃ
+govardhanas tad iha sarva-nidhānam eva ।। [vasanta-tilaka]

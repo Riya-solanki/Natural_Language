@@ -1,0 +1,10 @@
+--- source: vacbhamu-Cleaned.txt | block: 161 | label: hybrid | g:0.454 m:0.166 ---
+
+avidyādītyādigrahaṇena tatsaṃskāro avarudhyate ।
+avidyādinivṛttistūpāsanākāryādantaḥ karaṇavṛttibhedāt sākṣātkārāditi draṣṭavyam ।
+upasaṃharati- tasmādbrahma jijñāsitavyam uktalakṣaṇena mumukṣuṇā ।
+na khalu tajjñānaṃ vinā savāsanavividhaduḥkhanidānamavidyocchidyate ।
+na ca taducchedamantareṇa vigalitanikhiladuḥkhānuṣaṅgānandaghanabrahmātmatāsākṣātkārāvirbhāvo jīvasya ।
+tasmādānandaghanabrahmātmatāmicchatā tadupāyo jñānameṣitavyam ।
+tacca na kevalebhyo vedāntebhyaḥ api tu brahmamīmāṃsopakaraṇebhya iti icchāmukhena brahmamīmāṃsāyāṃ pravartyate, na tu vedānteṣu tadarthavivakṣāyāṃ vā; tatra phalavadarthāvabodhaparatāṃ svādhyāyādhyayanavidheḥ sūtrayatā aathāto dharmajijñāsā' ityanenaiva pravartitatvāt, dharmagrahaṇasya ca vedārthopalakṣaṇatvenādharmavadbrahmaṇo apyupalakṣaṇatvāt ।
+yadyapi ca dharmamīmāṃsāvat vedārthamīmāṃsayā brahmamīmāṃsāpyākṣeptuṃ śakyate, tathāpi prācyā mīmāṃsayā na tadvyutpādyate, nāpi brahmamīmāṃsāyā adhyayanamātrānantaryamiti brahmamīmāṃsārambhāya nityānityavivekādyānantaryapradarśanāya cedaṃ sūtramārambhaṇīyamityapaunaruktyam ।

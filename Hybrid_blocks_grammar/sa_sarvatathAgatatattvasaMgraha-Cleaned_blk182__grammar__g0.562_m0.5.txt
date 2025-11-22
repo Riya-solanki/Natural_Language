@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 182 | label: grammar | g:0.562 m:0.5 ---
+
+atha bhagavān vairocanaḥ punarapi sarvatathāgataratipūjāsamayasaṃbhavavajrannāma samādhiṃ samāpadyemāṃ sarvatathāgatakulamahādevīṃ svahṛdayānniścacāra vajralāsye ।।

@@ -1,0 +1,3 @@
+--- source: simhrs_u-Cleaned.txt | block: 1064 | label: grammar | g:0.562 m:0.5 ---
+
+atra punar-ujjīvitenaa kāmena saha ratyā rater bāhyopacārānapekṣayaiva tat-phala-rūpa-sukha-prāpti-kathanāt sambhogaḥ samṛddhyati ।

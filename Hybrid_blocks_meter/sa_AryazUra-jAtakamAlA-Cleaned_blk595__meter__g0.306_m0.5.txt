@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 595 | label: meter | g:0.306 m:0.5 ---
+
+ambā ca tāta niṣkrāntā tvaṃ ca nau dātumicchasi ।
+yāvattāmapi paśyāvastato dāsyati nau bhavān ।।

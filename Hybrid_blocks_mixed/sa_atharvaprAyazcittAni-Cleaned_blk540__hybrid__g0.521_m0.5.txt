@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 540 | label: hybrid | g:0.521 m:0.5 ---
+
+yadi sāmata oṃ svar janad ity āhavanīye juhuyāt ।

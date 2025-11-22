@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 5 | label: grammar | g:0.75 m:0.5 ---
+
+[] yathā he śrī-kṛṣṇa-nāmnātidhanya! sarva-mūrdhanya! he śrī-kṛṣṇa-caitanya! sarva-śarmada-kīrtanya! he mahita-śrī-sanātana-sahita-śrī-rūpa-nāmadheya, man-mūrdhany ādheya! he śrī-gopāla-bhaṭṭākhyā-pravṛddha-bhaṭṭārakatā-samṛddha! he śrī-raghunātha-dāsa! nāma-dhāmatayātiprasiddha-parama-bhakti-bharāviddha! he teṣām evāpta-vrajatāsiddha-varṇana-sat-karṇa-garbhābharaṇa-śrī-bhūgarbhādi-sañjñādhikaraṇa! he śrī-vallabha! prāg-bhavīya-durlabha-sukṛta-sandhīyamāna-madīya-śaraṇa-pitṛ-caraṇa!

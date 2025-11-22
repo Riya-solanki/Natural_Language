@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2634 | label: meter | g:0.194 m:0.5 ---
+
+sthūlaiḥ sūkṣmais tathāsūkṣmaiḥ sūkṣmāt sūkṣmatarais tathā 
+sthūlaiḥ sthūlataraiś caitat sarvaṃ prāṇibhir āvṛtam ।।

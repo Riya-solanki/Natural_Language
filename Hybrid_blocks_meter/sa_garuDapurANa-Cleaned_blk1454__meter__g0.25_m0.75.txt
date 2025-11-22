@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1454 | label: meter | g:0.25 m:0.75 ---
+
+nivedayecca ātmānaṃ viṣṇave amalatejase ।
+tadādhyātmamanāḥ śāntastadviṣṇoriti mantrataḥ ।।

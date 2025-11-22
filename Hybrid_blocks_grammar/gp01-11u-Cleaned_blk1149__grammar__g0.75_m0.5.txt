@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1149 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ siddhe, sukhānubiddhe teṣāṃ same samāgame prātas tu bṛhad-bhrātaram anugamya praṇaya-maya-ramya-roṣam anunīya dīyamāna-vismayatayā tān ānīya tena caikatra praṇīya śrīvatsa-vatsaḥ pūrvavad eva vatsa-pālanam ārebhe ।

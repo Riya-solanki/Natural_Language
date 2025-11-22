@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 85 | label: grammar | g:0.553 m:0.43 ---
+
+ārdrāṃ kaṇṭhe mukhābjasrajam avanamayaty ambikā jātulambāṃ sthāne kṛtvendulekhāṃ nibaḍayati jaṭāḥ pannagendreṇa nandī ।
+kālaḥ kṛttiṃ nibadhnāty upanayati kare kālarātriḥ kapālaṃ śambho nṛtyāvatāre pariṣad iti pṛthagvyāpṛtā vaḥ punātu ।।
+śatānandasya

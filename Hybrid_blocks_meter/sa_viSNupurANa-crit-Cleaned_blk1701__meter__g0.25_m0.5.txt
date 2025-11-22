@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 1701 | label: meter | g:0.25 m:0.5 ---
+
+apasarpiṇī na teṣāṃ vai na caivotsarpiṇī dvija 
+na tv evāsti yugāvasthā teṣu sthāneṣu saptasu ।।

@@ -1,0 +1,5 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 17 | label: meter | g:0.275 m:0.775 ---
+
+ṛṣaya ūcuḥ
+brūhi vāmanamāhātmyamutpattiṃ ca viśeṣataḥ ।
+yathā balirniyamito dattaṃ rājyaṃ śatakratoḥ ।।

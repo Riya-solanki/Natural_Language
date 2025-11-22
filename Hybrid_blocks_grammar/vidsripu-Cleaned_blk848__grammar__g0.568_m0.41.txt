@@ -1,0 +1,5 @@
+--- source: vidsripu-Cleaned.txt | block: 848 | label: grammar | g:0.568 m:0.41 ---
+
+dṛṣṭiṃ he prativeśini kṣaṇam ihāpy asmadgṛhe dāsyasi prāyo naiva śiśoḥ pitādya virasāḥ kaupīr apaḥ pāsyati ।
+ekākiny api yāmi tad varam itaḥ śrotas tamālākulaṃ nīrandhrāḥ stanam ālikhantu jaṭharacchedā nalagranthayaḥ ।।
+vidyāyāḥ

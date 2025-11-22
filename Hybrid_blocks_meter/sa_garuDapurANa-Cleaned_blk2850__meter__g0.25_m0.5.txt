@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2850 | label: meter | g:0.25 m:0.5 ---
+
+svarṇapippalapātreṇa vatso vā vatsikāpi vā ।
+asyā api ca dātavyamapatyaṃ rogavarjitam ।।

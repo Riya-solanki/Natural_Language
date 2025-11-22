@@ -1,0 +1,3 @@
+--- source: sa_rasAdhyaya1-302-com-Cleaned.txt | block: 745 | label: grammar | g:0.625 m:0.5 ---
+
+evaṃ punaḥ punarekaviṃśativārān mahiṣīkarṇamalena veṣṭayitvā sūraṇakṣudrakaṃ teṣu ca kṣiptvā bhūmau kurkuṭapuṭān dattvānnapathyahīrakāḥ sādhanīyāḥ ।।

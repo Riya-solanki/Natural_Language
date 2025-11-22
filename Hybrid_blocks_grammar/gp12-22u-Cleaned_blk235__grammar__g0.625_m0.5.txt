@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 235 | label: grammar | g:0.625 m:0.5 ---
+
+[] atha śrī-kṛṣṇa-janmādi-mādhuryavad eva śrī-rādhikāyās tat-tan-mādhurī varṇanīyeti nirṇaye' py ativistīrṇatā-saṅkocanāya kiñcid eva sūcayiṣyāmaḥ ।

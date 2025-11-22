@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1057 | label: meter | g:0.25 m:0.5 ---
+
+kṛtopavāso devarṣe dvitīye ahani saṃyataḥ ।
+snānena tena snāyīta yenākhaṇḍaṃ hi vatsaram ।।

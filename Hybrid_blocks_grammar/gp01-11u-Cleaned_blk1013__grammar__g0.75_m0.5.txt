@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1013 | label: grammar | g:0.75 m:0.5 ---
+
+[] dina-katipaye punar evaṃ gata-samaye tad etad upadhārya vrajeśvaryā patiṃ prati praṇaya-sphurad-upālambhaṃ bhaṇitaṃ, kim idam apūrvam iva kurvanti tatra-bhavantaḥ? iti । tena ca lajjātaṅkau sajjatā tau vañcayatā vanaṃ cañcatāmunānumatā taṃ ca taṃ ca sā ca sā ca tan-mātā vana-gamanatas tanayam atipraṇayān niruddhavatī । [] niruddhau ca tāv utkaṇṭhāviṣṭhāv arodiṣṭām । tatra ca kadācid ahnāya nihnavam ārabhya pitur abhyarṇaṃ gacchantau, savayobhyaḥ sukhaṃ yacchantau vartmāparikalya vrajabahir upaśalya-sthair vatsa-pālyair bālaiḥ kṛta-melantau khelantau tat-pālāyamānau mumudāte ।

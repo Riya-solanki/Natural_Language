@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3783 | label: grammar | g:0.75 m:0.5 ---
+
+gate ca tasmin suptam eva satrājitaṃ śatadhanvā jaghāna maṇiratnaṃ cādade । pitṛvadhāmarṣapūrṇā ca satyabhāmā śīghraṃ syandanam ārūḍhā vāraṇāvataṃ gatvā bhagavate ahaṃ pratipāditety akṣāntimatā śatadhanvanāsmatpitā vyāpāditaḥ । tac ca syamantakamaṇiratnam apahṛtam । tad iyam asyāvahāsanā । tad ālocya yad atra yuktaṃ tat kriyatām iti kṛṣṇam āha ।।

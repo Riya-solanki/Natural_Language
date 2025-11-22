@@ -1,0 +1,4 @@
+--- source: sa_Aryadeva-caryAmelAvaNapradIpa-Cleaned.txt | block: 142 | label: meter | g:0.25 m:0.75 ---
+
+tatrāsanaṃ niveśyādau mṛdusaṃsparśajaṃ sukham ।
+viśvapadmapaṭacchannaṃ sarvaśuddhāsanaṃ hi tat ।।

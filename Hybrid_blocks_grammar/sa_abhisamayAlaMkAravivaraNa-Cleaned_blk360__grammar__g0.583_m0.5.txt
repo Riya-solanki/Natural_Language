@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 360 | label: grammar | g:0.583 m:0.5 ---
+
+sarvajñatāsvabhāvāścatvāraḥ rāgādiviviktasvabhāvatvena kleśavivekasvabhāvaḥ, rāgādiliṅgakāyādidauṣṭhulyaviviktasvabhāvatvena kleśaliṅgavivekasvabhāvaḥ rāgādinimittāyoniśomanasikāraviviktasvabhāvatvena kleśanimittaviviktasvabhāvaḥ rāgārāgadveṣādveṣamohāmohaviviktasvabhāvatvena vipakṣapratipakṣavivekasvabhāva iti catvāraḥ ।

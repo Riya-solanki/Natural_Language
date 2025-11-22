@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 76 | label: grammar | g:0.646 m:0.5 ---
+
+yas tu viṣṇuparo nityaṃ dṛḍhabhaktir jitendriyaḥ svagṛhe api vasan yāti tad viṣṇoḥ paramaṃ padam ।।

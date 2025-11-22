@@ -1,0 +1,9 @@
+--- source: brssbh1u-Cleaned.txt | block: 395 | label: meter | g:0.25 m:0.536 ---
+
+prādeśamātrahṛdayapratiṣṭhena vāyaṃ manasānusmaryate tena prādeśamātra ityucyate ।
+yathā prasthamitāyavāḥ prasthā ityucyante tadvat ।
+yadyapi ca yaveṣu svagatameva parimāṇaṃ prasthasaṃbandhādvyajyate ।
+naceha parameśvaragataṃ kiñcitparimāṇamasti yaddhṛdayasaṃbandhādvyajyate ।
+tathāpi prayuktāyāḥ pradeśamātraśruteḥ saṃbhavati yathākathañcidanusmaraṇamālambanamityucyate ।
+prādeśamātratvena vāyamaprādeśamātro apyanusmaraṇīyaḥ prādeśamātraśrutyarthavattāyai ।
+evamanusmṛtinimittā parameśvare prādeśamātraśrutiriti bādarirācāryo manyate ।।

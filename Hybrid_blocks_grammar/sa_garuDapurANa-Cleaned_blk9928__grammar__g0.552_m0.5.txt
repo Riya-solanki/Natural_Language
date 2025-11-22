@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9928 | label: grammar | g:0.552 m:0.5 ---
+
+na bhūmidānaṃ na ca gopradānaṃ na vāridānaṃ na ca vastradānam ।
+phalaṃ satāmbūlavilepanaṃ vā tvayā na dattaṃ bhuvi śocase katham ।।

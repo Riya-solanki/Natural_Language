@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3859 | label: meter | g:0.194 m:0.5 ---
+
+cedirājasya hi vasor āsīt putro bṛhadrathaḥ 
+magadheṣu purā yena nirmitaṃ tad girivrajam ।।

@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 909 | label: meter | g:0.25 m:0.625 ---
+
+abhyāsayogāddhi śubhāśubhāni karmāṇi sātmyena bhavanti puṃsām ।
+tathāvidhānyeva yadaprayatnājjanmāntare svapna ivācaranti ।।

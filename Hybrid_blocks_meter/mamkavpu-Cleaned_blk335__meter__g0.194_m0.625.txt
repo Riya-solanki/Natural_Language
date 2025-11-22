@@ -1,0 +1,6 @@
+--- source: mamkavpu-Cleaned.txt | block: 335 | label: meter | g:0.194 m:0.625 ---
+
+{so muddhasāmalaṅgo dhammillo kali-alaliaṇi-adeho ।
+tī-e khandhāhi balaṃ gahi-a saṃro sura-asaṃgare ja-a-i ।। }
+[sa mugdhaśyāmalāṅgaḥ dhammillaḥ kalitalalitanijadehaḥ ।
+tasyāḥ skandhādbalaṃ gṛhītvā smaraḥ suratasaṃgare jayati ।।]

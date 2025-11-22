@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3436 | label: hybrid | g:0.321 m:0.493 ---
+
+kuraṅgamātaṅgapataṅgaṃbhṛga mīnā hatāḥ pañcabireva pañca ।
+ekaḥ pramāthī sa kathaṃ na ghātyo yaḥ sevate pañcabhireva pañca ।।

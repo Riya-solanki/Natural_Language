@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 720 | label: meter | g:0.302 m:0.806 ---
+
+rudrahetustriruddhātāstriguṇā raktavarṇakam ।
+jvālākṛte trikoṇaṃ ca catuḥ koṭiśatāni ca ।।

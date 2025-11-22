@@ -1,0 +1,7 @@
+--- source: brssgo3u-Cleaned.txt | block: 684 | label: meter | g:0.284 m:0.596 ---
+
+tarhi godohanasyāpi samuccayaḥ syādityata āha-śiṣṭeśceti ।
+śiṣṭiḥ śāsanaṃ vidhānamiti yāvat ।
+vihitatvāviśeṣātsamuccayo aṅgatvādityarthaḥ ।
+godohanasya tu nānuṣṭhānaniyamaḥ, camasasthāne vihitatvāttanniyame camasavidhivaiyarthyāt ।
+upāsanānāṃ tu na kasyacidaṅgasya sthāne vihitatvamiti samuccayaniyamo na virudhyata iti bhāvaḥ ।।

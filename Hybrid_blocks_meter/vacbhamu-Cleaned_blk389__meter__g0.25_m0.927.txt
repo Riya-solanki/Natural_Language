@@ -1,0 +1,5 @@
+--- source: vacbhamu-Cleaned.txt | block: 389 | label: meter | g:0.25 m:0.927 ---
+
+antaryāmyādhidaivādiṣu taddharmavyapadeśāt ।
+asvakarmopārjitaṃ dehaṃ tenānyacca niyacchati ।
+takṣādiraśarīrastu nātmāntaryamitāṃ bhajet ।।

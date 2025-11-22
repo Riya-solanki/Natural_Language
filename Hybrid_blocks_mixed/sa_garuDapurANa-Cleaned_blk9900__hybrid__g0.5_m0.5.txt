@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9900 | label: hybrid | g:0.5 m:0.5 ---
+
+gṛhītapāśo rudate punaḥ punardeśe supuṇye dvija dehasaṃsthitaḥ ।
+devendrapūjā pitṛdevatṛptidaṃ mohānna ceṣṭaṃ na ca puttrasantatiḥ ।।

@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1091 | label: meter | g:0.307 m:0.623 ---
+
+tato abravīd vaco rambho varaṃ cenme dadāsi hi ।
+trailokyavijayī putraḥ syānme tvattejasādhikaḥ ।।

@@ -1,0 +1,8 @@
+--- source: visa01cu-Cleaned.txt | block: 85 | label: meter | g:0.25 m:0.768 ---
+
+īṣadarthe naña itiadoṣāviti naña ityarthaḥ ।
+nirdeṣayoriti śabdārthayorityarthaḥ ।
+prauḍhadoṣayostu kāvyatvābhāvasya iṣṭatvāditi bhāvaḥ ।
+tathā ca nyakkāra ityādāvavyāptirna doṣaḥ ।
+tayoḥ prauḍhadoṣavatoḥ kāvyatvābhāvāditi bhāvaḥ ।
+lakṣaṇasya doṣaviśeṣābhāvaghaṭitatvena kaściddoṣa ityuktamavadheyam ।

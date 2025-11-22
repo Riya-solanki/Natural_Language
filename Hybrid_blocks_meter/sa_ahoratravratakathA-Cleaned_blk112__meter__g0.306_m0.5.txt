@@ -1,0 +1,4 @@
+--- source: sa_ahoratravratakathA-Cleaned.txt | block: 112 | label: meter | g:0.306 m:0.5 ---
+
+ye jātamātrāḥ prabhutāṃ prayānti śreṣṭhīkule janma sadaiva yeṣām ।
+hastyaśvayānaiś ca paribhramanti kṛtvātra te caityavarapraṇāmam ।।

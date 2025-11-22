@@ -1,0 +1,5 @@
+--- source: simhrs_u-Cleaned.txt | block: 1853 | label: meter | g:0.253 m:0.729 ---
+
+yathā vīrabhadra-vijṛmbhaṇe, naṭaḥ-
+patnī parilambi-kucā tanayā mama danturāpi taruṇa-vayāḥ ।
+krīḍā-kapir asti gṛhe tad ahaṃ nāṭya-prayoga-marmajñaḥ ।।

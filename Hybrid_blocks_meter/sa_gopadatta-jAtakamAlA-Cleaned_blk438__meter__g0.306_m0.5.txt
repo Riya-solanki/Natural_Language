@@ -1,0 +1,4 @@
+--- source: sa_gopadatta-jAtakamAlA-Cleaned.txt | block: 438 | label: meter | g:0.306 m:0.5 ---
+
+nitye viyoge maraṇāt puraḥsthite śocanti te daivakṛte viyoge ।
+saṃsmṛtya rāgopanipātamūḍhāḥ kāmaprahāraṃ viṣamaṃ prapannāḥ ।।

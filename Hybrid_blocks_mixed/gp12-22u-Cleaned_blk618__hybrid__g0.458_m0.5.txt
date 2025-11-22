@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 618 | label: hybrid | g:0.458 m:0.5 ---
+
+[] sā ca yathāvad eva, yatas tasya bhāva-vaibhavasya svabhāva evāyam, yad dūrataś ca sva-viṣayaṃ viṣayīkaroti । tathā hi-

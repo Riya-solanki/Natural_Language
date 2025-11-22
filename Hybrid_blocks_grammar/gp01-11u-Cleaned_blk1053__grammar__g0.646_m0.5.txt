@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 1053 | label: grammar | g:0.646 m:0.5 ---
+
+[] mantriṇa ūcuḥ, deva, kevalaṃ bakam atra balam avalambāmahe, yatas tajjātāv eva dambha-sambhārā gambhīrāyante ।

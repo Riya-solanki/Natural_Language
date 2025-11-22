@@ -1,0 +1,5 @@
+--- source: brsvbh1u-Cleaned.txt | block: 681 | label: hybrid | g:0.33 m:0.479 ---
+
+anyārthaśca parāmarśaḥ ।
+jīvasyopādhikalpitasya brahmabhāva upadeṣṭavyaḥ, na cāsau jīvamaparāmṛśya śakya upadeṣṭumiti tisṛṣvavasthāsu jīvaḥ parāmṛṣṭaḥ ।
+tadbhāvapravilayanaṃ tasya pāramārthikaṃ brahmabhāvaṃ darśayitumityarthaḥ ।।

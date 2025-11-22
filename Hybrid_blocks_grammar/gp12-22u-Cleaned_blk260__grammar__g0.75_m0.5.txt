@@ -1,0 +1,3 @@
+--- source: gp12-22u-Cleaned.txt | block: 260 | label: grammar | g:0.75 m:0.5 ---
+
+[] tad evaṃ tāṃ sambhāṣya śrīmad-vrajarāja-sambhāṣaṇaṃ nirvāhya, bāhyāvaraṇa-vāsinām āvāseṣu babhrāma । te ca tam āgatam akasmān niśāmya śāmyac-cintā-tamasaḥ sva-sva-manoratha-labdhaye lubdha-manasaḥ praṇāmādibhiḥ paripūjya kuśalam anuyujya pracchannatayā tam evārthaṃ papracchuḥ, idaṃ tāvac chaṅkitaṃ; tatra kiṃ kartavyam? iti ।

@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 1983 | label: meter | g:0.25 m:0.646 ---
+
+saṃrambhād anapota-siṃha-nṛpater dhāṭī-samāṭīkane
+niḥsāṇeṣu dhaṇaṃ dhaṇaṃ dhaṇam iti dhvānānusandhāyiṣu ।
+modante hi raṇaṃ raṇaṃ raṇam iti prauḍhās tadīyā bhaṭā
+bhrāntiṃ yānti tṛṇaṃ tṛṇaṃ tṛṇam iti pratyarthi-pṛthvī-bhujaḥ ।।

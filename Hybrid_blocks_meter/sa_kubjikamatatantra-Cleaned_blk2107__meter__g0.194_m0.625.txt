@@ -1,0 +1,4 @@
+--- source: sa_kubjikamatatantra-Cleaned.txt | block: 2107 | label: meter | g:0.194 m:0.625 ---
+
+mṛtyus tasya varārohe divasair daśabhir bhavet 
+īśāne sthāvarabhayaṃ kauberyām arthasiddhidam ।।

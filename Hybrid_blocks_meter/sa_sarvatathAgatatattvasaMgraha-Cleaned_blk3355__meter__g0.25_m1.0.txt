@@ -1,0 +1,3 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3355 | label: meter | g:0.25 m:1.0 ---
+
+tatredaṃ padmakulakarmottamasiddhitantraṃ ।

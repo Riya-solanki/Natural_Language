@@ -1,0 +1,5 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 11832 | label: meter | g:0.284 m:0.65 ---
+
+etā hi sapta hyavarāśca śacyā jānīhi vai nāsti vicāraṇātra ।
+śacī ratiścāniruddho manurdakṣo bṛhaspatiḥ ।
+ṣaḍanyonyasamāḥ proktā ahaṅkārāddaśādhamāḥ ।।

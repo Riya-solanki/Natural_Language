@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1742 | label: meter | g:0.306 m:0.625 ---
+
+kulasya rūpasya vayoguṇasya vā balaprakarṣasya dhanocchrayasya vā ।
+ihāpyalaṃkāravidhirguṇādaraḥ samṛddhisūcaiva tu hemamālikā ।।

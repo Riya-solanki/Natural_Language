@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 9227 | label: meter | g:0.25 m:0.625 ---
+
+adhomukhaṃ cordhvapādaṃ garbhādvāyuḥ prakarṣati ।
+tale tu karayornyasya vardhate jānupārśvayoḥ ।।

@@ -1,0 +1,7 @@
+--- source: gp01-11u-Cleaned.txt | block: 192 | label: meter | g:0.106 m:0.739 ---
+
+śrīmad-vaktra-karāṅghri-dhāvana-kalā tailādibhir mardanaṃ
+snānaṃ gātra-mṛjāṃśuka-dvaya-dhṛtiḥ sācāma-puṇḍra-kriyā ।
+prātar dharmaga-karma divya-vasanaṃ ratnāvalī-maṇḍanaṃ
+vaṃśī-śṛṅga-śikhaṇḍa-daṇḍa-kalanā mac-cittam ākarṣati ।। [śārdūla]
+[] teṣu ca keṣucid aṅga-sevakeṣu viśeṣaḥ śeṣa-vacasām api śeṣasya viṣayāyate । yataḥ,

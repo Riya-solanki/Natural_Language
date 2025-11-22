@@ -1,0 +1,4 @@
+--- source: kmeghdpu-Cleaned.txt | block: 102 | label: grammar | g:0.573 m:0.5 ---
+
+bhittvā sadyaḥ kisalayapuṭān devadārudrumāṇāṃ ye tatkṣīrasrutisurabhayo dakṣiṇena pravṛttāḥ ।
+āliṅgyante guṇavati mayā te tuṣārādrivātāḥ pūrvaṃ spṛṣṭaṃ yadi kila bhaved aṅgam ebhis taveti ।।

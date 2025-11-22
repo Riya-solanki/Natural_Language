@@ -1,0 +1,5 @@
+--- source: bhassv_u-Cleaned.txt | block: 312 | label: meter | g:0.178 m:0.57 ---
+
+{rājā} - kimartham 
+{vidūṣakaḥ} - eso khu dīvappabhāvasūidarūvo vasudhātaḷe parivattamāṇo aaṃ kāodaro 
+[eṣa khalu dīpaprabhāvasūcitarūpo vasudhātale parivartamāno ayaṃ kākodaraḥ । ]

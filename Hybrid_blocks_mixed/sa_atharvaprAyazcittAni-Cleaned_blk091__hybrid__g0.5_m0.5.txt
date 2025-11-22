@@ -1,0 +1,3 @@
+--- source: sa_atharvaprAyazcittAni-Cleaned.txt | block: 91 | label: hybrid | g:0.5 m:0.5 ---
+
+etena ha vā asya saṃtvaramāṇasyāhavanīyagārhapatyau pāpmānam apahataḥ ।

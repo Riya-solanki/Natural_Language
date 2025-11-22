@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3016 | label: meter | g:0.194 m:0.75 ---
+
+akrūro api yathājñaptaḥ kṛṣṇadarśanalālasaḥ 
+jagāma rathamukhyena manasas tulyagāminā ।।

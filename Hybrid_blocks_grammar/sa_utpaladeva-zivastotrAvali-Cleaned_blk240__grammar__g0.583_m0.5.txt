@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 240 | label: grammar | g:0.583 m:0.5 ---
+
+tvadvilokanasamutkacetaso yogasiddhir iyatī sadāstu me yad viśeyam abhisandhimātratas tvatsudhāsadanam arcanāya te ।।

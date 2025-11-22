@@ -1,0 +1,4 @@
+--- source: sa_AryazUra-jAtakamAlA-Cleaned.txt | block: 1845 | label: meter | g:0.25 m:0.625 ---
+
+kudṛṣṭidoṣaprabhavairhi dāruṇairnipātitaṃ tvāṃ narake svakarmabhiḥ ।
+vicetasaṃ niṣkasahasrakāraṇādrujāturaṃ kaḥ praticodayettataḥ ।।

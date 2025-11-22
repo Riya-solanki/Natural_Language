@@ -1,0 +1,6 @@
+--- source: mrgt3cpu-Cleaned.txt | block: 200 | label: meter | g:0.25 m:0.75 ---
+
+vāmādyāḥ patayaḥ śākya- pādārthikakapālinām ।
+ajāto adhipatiḥ proktas trayīnaiṣṭhikaliṅginām ।
+tadannabhojane śuddhir jātisamparkaśuddhivat ।
+kiṃtvaindavavrataprānte kāpālyannāśane matam ।

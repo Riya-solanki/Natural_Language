@@ -1,0 +1,3 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 3449 | label: grammar | g:0.667 m:0.5 ---
+
+tadavagamāt kiṃ kim etat kathaya kiṃ karomīti kiṃ mayābhihitam ity ākulamatir anicchann api kathamapi rājānumene ।।

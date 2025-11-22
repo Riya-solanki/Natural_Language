@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 1126 | label: meter | g:0.306 m:0.5 ---
+
+prajāpatīnāṃ daśanāśca tejasā yākṣeṇa nāsā śravaṇau ca mārutāt ।
+sādhyena ca bhrayugalaṃ sukāntimat kandarpabāṇāsanasannibhaṃ babhau ।।

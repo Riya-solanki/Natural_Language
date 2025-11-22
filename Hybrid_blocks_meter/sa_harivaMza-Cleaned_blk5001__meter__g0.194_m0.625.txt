@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 5001 | label: meter | g:0.194 m:0.625 ---
+
+sahasrabāhor bāhūnāṃ kṛtvā kṣayam anuttamam 
+sthāpayitvā dvibāhutve prāpto ayaṃ svapurīṃ hariḥ ।।

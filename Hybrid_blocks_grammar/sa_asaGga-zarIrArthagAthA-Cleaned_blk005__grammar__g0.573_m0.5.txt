@@ -1,0 +1,4 @@
+--- source: sa_asaGga-zarIrArthagAthA-Cleaned.txt | block: 5 | label: grammar | g:0.573 m:0.5 ---
+
+samo viśeṣa uta vāpi hīno yo manyate sa vivadeta tena ।
+vidhātraye asmin na vikampate yaḥ samo viśiṣṭaś ca na tasya bhavati ।।

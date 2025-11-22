@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 1190 | label: meter | g:0.25 m:0.625 ---
+
+vāmapārśvena svāpiti nātra kāryā vicāraṇā ।
+siṃhakanyātulāyāṃ ca dvāraṃ śudhyedathottaram ।।

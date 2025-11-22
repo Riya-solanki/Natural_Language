@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2082 | label: hybrid | g:0.51 m:0.5 ---
+
+kāmaṃ tu rāgaḥ kuruvindajeṣu sa naiva yādṛk sphaṭikodbhaveṣu ।
+nirarciṣo antarbahulā bhavanti prabhāvavanto api nataiḥ samastaiḥ ।।

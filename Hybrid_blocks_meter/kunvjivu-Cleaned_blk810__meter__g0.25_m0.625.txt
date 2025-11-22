@@ -1,0 +1,4 @@
+--- source: kunvjivu-Cleaned.txt | block: 810 | label: meter | g:0.25 m:0.625 ---
+
+yatra vācyatayā nindā vicchittyai prastutasya sā ।
+stutirvyaṅgyatayā caiva vyājastutirasau matā ।।

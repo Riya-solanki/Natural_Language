@@ -1,0 +1,3 @@
+--- source: sa_mAdhva-kRSNAmRtamahArNava-Cleaned.txt | block: 191 | label: grammar | g:0.583 m:0.5 ---
+
+etat puṇyaṃ paraṃ guhyaṃ pavitraṃ pāpanāśanam āyuṣyaṃ ca yaśasyaṃ ca kaliduḥsvapnanāśanam ।।

@@ -1,0 +1,4 @@
+--- source: sa_sarvatathAgatatattvasaMgraha-Cleaned.txt | block: 3069 | label: meter | g:0.25 m:0.625 ---
+
+badhvā vajramaṇiṃ pūrvaṃ vajragarbhasamādhinā ।
+duṣṭānāṃ tu harannarthān samayaḥ siddhido bhaved ।।

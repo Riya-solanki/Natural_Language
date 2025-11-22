@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3543 | label: meter | g:0.307 m:0.623 ---
+
+tatra snātvā ca vimale bhavaṃ dṛṣṭvā ca bhaktitaḥ ।
+upoṣya rajanīmekāṃ tīrthaṃ kedāramāvrajat ।।

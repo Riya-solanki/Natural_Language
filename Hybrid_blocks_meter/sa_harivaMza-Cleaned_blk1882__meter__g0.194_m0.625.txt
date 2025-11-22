@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1882 | label: meter | g:0.194 m:0.625 ---
+
+evaṃ samyakpravṛtteṣu nivṛtteṣv aparādhataḥ 
+tarpayatsu mahīṃ kṛtsnāṃ nṛṇāṃ kālabhayaṃ kutaḥ ।।

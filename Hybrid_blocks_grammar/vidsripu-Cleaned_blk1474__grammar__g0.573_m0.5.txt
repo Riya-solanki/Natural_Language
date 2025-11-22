@@ -1,0 +1,4 @@
+--- source: vidsripu-Cleaned.txt | block: 1474 | label: grammar | g:0.573 m:0.5 ---
+
+tanvīm ujjhitabhūṣaṇāṃ kalagiraṃ sītkāram ātanvatīṃ vepantīṃ vraṇitādharāṃ vivasanāṃ romodgamaṃ bibhratīm ।
+hemante himaśītamārutabhayād āśliṣya dorbhyāṃ tanuṃ svāṃ mūrtiṃ dayitām ivātirasikāṃ tvadvidviṣaḥ śerate ।।

@@ -1,0 +1,5 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1163 | label: meter | g:0.102 m:0.555 ---
+
+navograsenasya sutās teṣāṃ kaṃsas tu pūrvajaḥ 
+nyagrodhaś ca sunāmā ca kaṅkuśaṅkusubhūmayaḥ 
+rāṣṭrapālo atha sutanur anādhṛṣṭiś ca puṣṭimān ।।

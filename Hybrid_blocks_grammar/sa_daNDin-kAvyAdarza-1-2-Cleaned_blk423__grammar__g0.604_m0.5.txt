@@ -1,0 +1,3 @@
+--- source: sa_daNDin-kAvyAdarza-1-2-Cleaned.txt | block: 423 | label: grammar | g:0.604 m:0.5 ---
+
+vakrāḥ svabhāvamadhurāḥ śaṃsantyo rāgam ulbaṇam dṛśo dūtyaś ca karṣanti kāntābhiḥ preṣitāḥ priyān ।।

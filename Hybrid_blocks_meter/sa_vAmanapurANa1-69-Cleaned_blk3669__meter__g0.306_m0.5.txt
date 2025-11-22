@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANa1-69-Cleaned.txt | block: 3669 | label: meter | g:0.306 m:0.5 ---
+
+tatra snātvā ca dṛṣṭvā ca saṃtarpya pitṛdevatāḥ ।
+puṇḍarīkaṃ ca saṃpūjya uvāsa divasatrayam ।।

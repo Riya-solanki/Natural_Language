@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1018 | label: grammar | g:0.68 m:0.125 ---
+
+mudgalasya tu dāyādo maudgalyaḥ sumahāyaśāḥ 
+sarva ete mahātmānaḥ kṣatropetādvijātayaḥ । 
+ete hy aṅgirasaḥ pakṣaṃ saṃśritāḥ kaṇvamaudgalāḥ ।। 
+mudgalasya suto jyeṣṭho brahmarṣiḥ sumahātapāḥ । 
+indrasenā yato garbhaṃ vadhryaśvaṃ pratyapadyata ।। 
+vadhryaśvān mithunaṃjajñe menakāyām iti śrutiḥ । divodāsaś ca rājarṣir ahalyā ca yaśasvinī ।। śaradvatasya dāyādam ahalyā saṃprasūyata । śatānandam ṛṣiśreṣṭhaṃ tasyāpi sumahāyaśāḥ । putraḥ satyadhṛtir nāma dhanurvedasya pāragaḥ ।। tasya satyadhṛte reto dṛṣṭvāpsarasam agrataḥ । atha skannaṃ śarastambe mithunaṃ samapadyata ।। kṛpayā tac ca jagrāha śaṃtanur mṛgayāṃ gataḥ । kṛpaḥ smṛtaḥ sa vai tasmād gautamī ca kṛpī tathā । ete śāradvatāḥ proktā ete te gautamāḥ smṛtāḥ ।। ata ūrdhvaṃ pravakṣyāmi divodāsasya saṃtatim । divodāsasya dāyādo brahmarṣir mitrayur nṛpaḥ ।। maitreyāṇāṃ tataḥ somo maitreyās tu tataḥ smṛtāḥ । ete vipañcitāḥ pakṣāḥ kṣatropetās tu bhārgavāḥ । 
+āsīt pañcavanaḥ putraḥ sṛñjayasya mahātmanaḥ 
+sutaḥ pañcavanasyāpi somadatto mahīpatiḥ ।।

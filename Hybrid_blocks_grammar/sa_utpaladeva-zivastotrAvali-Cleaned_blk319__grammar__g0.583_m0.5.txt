@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 319 | label: grammar | g:0.583 m:0.5 ---
+
+sudhārdrāyāṃ bhavadbhaktau luṭhatāpy ārurukṣuṇā cetasaiva vibho arcanti kecit tvām abhitaḥ sthitāḥ ।।

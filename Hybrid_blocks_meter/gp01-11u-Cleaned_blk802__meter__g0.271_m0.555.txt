@@ -1,0 +1,5 @@
+--- source: gp01-11u-Cleaned.txt | block: 802 | label: meter | g:0.271 m:0.555 ---
+
+[] punaś ca pratītim āsādayantya ivedaṃ vadanti sma, nāścaryam atrācaryatām । yataḥ,
+indriya-kulam atigūḍhaṃ netrādy-anta-nigūḍham evāsti ।
+tan-madhyād api cittaṃ harato nṛ-harer na hāryaṃ kim? ।। [āryā]

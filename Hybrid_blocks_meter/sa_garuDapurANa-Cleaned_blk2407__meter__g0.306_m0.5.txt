@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 2407 | label: meter | g:0.306 m:0.5 ---
+
+ye me pitṛkule jātāḥ kule mātustathaiva ca ।
+guruśvaśurabandhūnāṃ ye cānye bāndhavā mṛtāḥ ।।

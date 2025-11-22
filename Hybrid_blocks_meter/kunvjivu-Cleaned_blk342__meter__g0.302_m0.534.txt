@@ -1,0 +1,6 @@
+--- source: kunvjivu-Cleaned.txt | block: 342 | label: meter | g:0.302 m:0.534 ---
+
+nātinirbandhavihitā"nirbandha'-śabdo atra vyasanitāyāṃ vartate ।
+tenātinirbandhena punaḥ punarāvartanavyasanitayā na vihitā, aprayatnaviracitetyarthaḥ ।
+vyasanitayā prayatnaviracane hi prastutaucityaparihāṇervācyavācakayoḥ parasparaspardhitvalakṣaṇasāhityavirahaḥ paryavasyati ।
+yathā

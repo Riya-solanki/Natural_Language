@@ -1,0 +1,10 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 3844 | label: grammar | g:0.589 m:0.073 ---
+
+revatasyātha kanyāṃ ca revatīṃ śīlasaṃmatām 
+prāptavān baladevas tu kṛṣṇasyānumate tadā ।। 
+yaḥ sargajaiḥ suragaṇapriyakṛdbhir uccair ।dravyaiḥ samudranihitaiś ca samudrajātaiḥ ।hṛdyām akārayad aśeṣajagal lalāmāṃ ।śrīdvārakāṃ puravarīṃ tam upaimi viṣṇum ।
+etasminn eva kāle tu jarāsaṃdhaḥ pratāpavān 
+nṛpān udyojayām āsa cedirājapriyepsayā ।। 
+yathārhaṃ ca yathāyogaṃ praśrayaṃ pradadau nṛpaḥ । vivāhaṃ ghoṣayām āsa śiśupālasya māgadhaḥ ।। sarvam antaḥpuraṃ caiva vivāhe utsukaṃ kila । śvobhūte tu vivāhasya caidyasyeti ca bhūmipāḥ । saṃnaddhāḥ samapadyantāṃ vibhavaiḥ svair yathākramam ।। śiśupālo api rājā tu varaveṣeṇa saṃyutaḥ । kumārair ātmatulyaiś ca niyamastho abhavat tadā । 
+bhīṣmakasya sutāyāṃ vai rukmiṇyāṃ rukmabhūṣaṇaḥ 
+śiśupālasya nṛpater vivāho bhavitā kila ।।

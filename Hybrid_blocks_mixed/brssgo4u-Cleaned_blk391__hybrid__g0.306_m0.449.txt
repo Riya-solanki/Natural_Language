@@ -1,0 +1,6 @@
+--- source: brssgo4u-Cleaned.txt | block: 391 | label: hybrid | g:0.306 m:0.449 ---
+
+na eṣa doṣaḥ ।
+ekamanonuvartini samanaskāni eva aparāṇi śarīrāṇi satyasaṃkalpatvāt srakṣyati ।
+sṛṣṭeṣu ca teṣu upādhibhedāt ātmanaḥ api bhedena adhiṣṭhātṛtvaṃ yokṣyate ।
+eṣa eva ca yogaśāstreṣu yoginām anekaśarīraprayogakriyā ।।

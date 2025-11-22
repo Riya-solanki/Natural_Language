@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3235 | label: meter | g:0.306 m:0.5 ---
+
+tyajanti mitrāṇi dhanairvihīnaṃ putrāśca dārāśca suhṛjjanāśca ।
+te cārthavantaṃ punarāśrayanti hyartho hi loke puruṣasya bandhuḥ ।।

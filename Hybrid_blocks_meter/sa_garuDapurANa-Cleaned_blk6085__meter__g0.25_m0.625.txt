@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 6085 | label: meter | g:0.25 m:0.625 ---
+
+indī varaṃ kuvalayaṃ padmaṃ nīlotpalaṃ smṛtam ।
+saugandhikaṃ śatadalamabjaṃ kamalamucyate ।।

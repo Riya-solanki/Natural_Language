@@ -1,0 +1,4 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 2211 | label: meter | g:0.25 m:0.625 ---
+
+tataḥ sumbhanisumbhau a dānavau nagacārtiṇau 
+tau ca kṛtvā manasi māṃ sānugau nāśayiṣyasi ।।

@@ -1,0 +1,13 @@
+--- source: sa_harivaMza-Cleaned.txt | block: 1024 | label: grammar | g:0.741 m:0.0 ---
+
+kuroś ca putrāś catvāraḥ sudhanvā sudhanus tathā 
+parīkṣic ca mahābāhuḥ pravaraś cārimejayaḥ ।। 
+sudhanvanas tu dāyādaḥ suhotro matimān smṛtaḥ । cyavanas tasya putras tu rājā dharmārthakovidaḥ ।। cyavanāt kṛtayajñas tu iṣṭvā yajñaiḥ sa dharmavit । viśrutaṃ janayām āsa putram indrasakhaṃ nṛpaḥ ।। caidyoparicaraṃ vīraṃ vasuṃ nāmāntarikṣagam । caidyoparicarāj jajñe girikā sapta mānavān ।। mahāratho magadharāḍ viśruto yo bṛhadrathaḥ । pratyagrahaḥ kuśaś caiva yam āhur maṇivāhanam । mārutaś ca yaduś caiva matsyakālī ca sattamaḥ ।। bṛhadrathasya dāyādaḥ kuśāgro nāma viśrutaḥ । kuśāgrasyātmajo vidvān ṛṣabho nāma vīryavān ।। dāyādas tasya vikrānto rājā satyahitaḥ smṛtaḥ । tasya putraḥ sa dharmātmā nāmnā ūrjas tu jajñivān । ūrjasya saṃbhavaḥ putro yasya jajñe sa vīryavān ।। śakale dve sa vai jāto jarayā saṃdhitaḥ sa tu । jarayā saṃdhito yasmāj jarāsaṃdhas tataḥ smṛtaḥ ।। sarvakṣatrasya jetāsau jarāsaṃdho mahābalaḥ । jarāsaṃdhasya putro vai sahadevaḥ pratāpavān ।। sahadevātmajaḥ śrīmān udāyiḥ sa mahāyaśāḥ । udāyir janayām āsa putraṃ paramadhārmikam । śrutadharmeti nāmānaṃ magadhān yo avasad vibhuḥ । vṛṣabhasya tudāyādaḥ puṣpavān nāma dhārmikaḥ । 
+parīkṣitas tu tanayo dhārmiko janamejayaḥ 
+janamejayasya dāyādās traya eva mahārathāḥ । 
+jahnos tukathayiṣyāmi yatra jāto asi pārthiva ।। 
+jahnus tv ajanayat putraṃ surathaṃ nāma bhūmipam । 
+śrutaseno agrasenau ca bhīmasenaś ca nāmataḥ ।। 
+ete sarve mahābhāgā vikrāntā balaśālinaḥ । 
+janamejayasya putrau tu suratho matimāṃs tathā 
+surathasya tu vikrāntaḥ putro jajñe vidūrathaḥ ।।

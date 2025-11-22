@@ -1,0 +1,6 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 10919 | label: meter | g:0.31 m:0.869 ---
+
+śrīgaruḍamahāpurāṇam- 
+śrīkṛṣṇa uvāca ।
+mahālakṣmyāḥ svarūpaṃ ca avatārānkhageśvara ।
+śṛṇu samyaṅ mahābhāga tajjñānasya vinirṇayam ।।

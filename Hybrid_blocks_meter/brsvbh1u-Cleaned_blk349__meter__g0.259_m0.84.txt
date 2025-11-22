@@ -1,0 +1,4 @@
+--- source: brsvbh1u-Cleaned.txt | block: 349 | label: meter | g:0.259 m:0.84 ---
+
+anyatastu vākyatvādīnāmanumānābhāmatvopapādane kṛtamapūrvārthatvenātra tadupapādakena ।
+upapāditaṃ cāpauruṣeyatvamasmābhirnyāya

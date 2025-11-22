@@ -1,0 +1,4 @@
+--- source: sa_garuDapurANa-Cleaned.txt | block: 3296 | label: hybrid | g:0.51 m:0.5 ---
+
+dugastrikūṭaḥ parikhā samudro rakṣāṃsi yodhāḥ paramā ca vṛttiḥ ।
+śāstrañca vai tūśanasā pradiṣṭaṃ sa rāvaṇaḥ kālavaśādvinaṣṭaḥ ।।

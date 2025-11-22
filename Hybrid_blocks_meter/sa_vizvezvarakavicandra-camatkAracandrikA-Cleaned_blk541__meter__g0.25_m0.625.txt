@@ -1,0 +1,4 @@
+--- source: sa_vizvezvarakavicandra-camatkAracandrikA-Cleaned.txt | block: 541 | label: meter | g:0.25 m:0.625 ---
+
+ekadeśagatāssarvaṃ śarīraṃ kaṭakādivat ।
+alaṅkurvanti ye kāvyaṃ te alaṅkāratayā matāḥ ।।

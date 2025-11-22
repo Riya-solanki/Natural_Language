@@ -1,0 +1,3 @@
+--- source: sa_utpaladeva-zivastotrAvali-Cleaned.txt | block: 336 | label: grammar | g:0.667 m:0.5 ---
+
+satyena bhagavan nānyaḥ prārthanāprasaro asti me kevalaṃ sa tathā ko api bhaktyāveśo astu me sadā ।।

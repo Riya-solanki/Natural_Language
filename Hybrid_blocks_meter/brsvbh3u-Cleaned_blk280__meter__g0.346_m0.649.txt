@@ -1,0 +1,4 @@
+--- source: brsvbh3u-Cleaned.txt | block: 280 | label: meter | g:0.346 m:0.649 ---
+
+asya sūtrasyānvayamukhena vyatirekamukhena ca vyākhyā ।
+śeṣamatirohitārtham ।।

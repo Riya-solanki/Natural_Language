@@ -1,0 +1,6 @@
+--- source: simhrs_u-Cleaned.txt | block: 6 | label: meter | g:0.25 m:0.5 ---
+
+kalāv eka-pado dharmo yair ebhiś caraṇair iva ।
+sampūrṇa-padatāṃ prāpya nākāṅkṣati kṛtaṃ yugam ।।
+tatra siṃha-mahīpāle pālayaty akhilāṃ mahīm ।
+namatām unnatiś citraṃ rājñām anamatāṃ natiḥ ।।

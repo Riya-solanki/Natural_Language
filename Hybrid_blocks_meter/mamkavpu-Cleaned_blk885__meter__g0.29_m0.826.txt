@@ -1,0 +1,4 @@
+--- source: mamkavpu-Cleaned.txt | block: 885 | label: meter | g:0.29 m:0.826 ---
+
+karṇāvataṃsādipade karṇādidhvaninirmitiḥ ।
+saṃnidhānādibodhārthaṃ

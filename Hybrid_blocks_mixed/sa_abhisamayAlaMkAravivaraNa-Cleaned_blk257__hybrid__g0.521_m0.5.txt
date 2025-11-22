@@ -1,0 +1,3 @@
+--- source: sa_abhisamayAlaMkAravivaraNa-Cleaned.txt | block: 257 | label: hybrid | g:0.521 m:0.5 ---
+
+darśanamārgaḥ asya lakṣaṇādikaṃ sarvam abhisamayālaṅkāre pañcabhiḥ kārikābhiḥ pratipāditam ।

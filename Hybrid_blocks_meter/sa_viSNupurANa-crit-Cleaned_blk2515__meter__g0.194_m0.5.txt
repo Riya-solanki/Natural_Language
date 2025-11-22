@@ -1,0 +1,4 @@
+--- source: sa_viSNupurANa-crit-Cleaned.txt | block: 2515 | label: meter | g:0.194 m:0.5 ---
+
+dhruvam ekākṣaraṃ brahma om ity evaṃ vyavasthitam 
+bṛhatvād bṛṃhaṇatvāc ca tad brahmety abhidhīyate ।।

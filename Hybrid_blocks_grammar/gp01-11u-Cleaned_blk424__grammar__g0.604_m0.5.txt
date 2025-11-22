@@ -1,0 +1,3 @@
+--- source: gp01-11u-Cleaned.txt | block: 424 | label: grammar | g:0.604 m:0.5 ---
+
+[] vraja-rāja-patnī ca tasyā jyaiṣṭham avaṣṭabhya māsa-traya-jātam antarvatnītvaṃ paryālocya svābheda-vedanenaiva śāta-jātaṃ prāpa ।

@@ -1,0 +1,5 @@
+--- source: sastrdiu-Cleaned.txt | block: 497 | label: hybrid | g:0.407 m:0.486 ---
+
+yuktaṃ karma kālāntare phaladamiti nānantarānupalabdhyā śāstrasya bādhaḥ ।।
+iti citrākṣepaparihāraḥ ।
+।

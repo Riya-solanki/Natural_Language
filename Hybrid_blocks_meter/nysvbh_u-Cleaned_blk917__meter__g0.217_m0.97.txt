@@ -1,0 +1,4 @@
+--- source: nysvbh_u-Cleaned.txt | block: 917 | label: meter | g:0.217 m:0.97 ---
+
+cetanā śarīraguṇaḥ sati śarīre
+bhāvādasati cābhāvāditi।

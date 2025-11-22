@@ -1,0 +1,4 @@
+--- source: sa_vAmanapurANasaromAhAtmya-Cleaned.txt | block: 1032 | label: meter | g:0.306 m:0.5 ---
+
+tasmai sa cāsanaṃ dattvā praṇipatya ca pṛṣṭavān ।
+bhagavan sarvalokasya jānāsi tvaṃ śubhāśubham ।।
