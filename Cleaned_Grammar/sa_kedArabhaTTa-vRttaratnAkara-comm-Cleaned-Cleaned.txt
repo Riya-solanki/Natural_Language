@@ -1,0 +1,1378 @@
+Kedārabhaṭṭa Vṛttaratnākara with Sulhaṇa's commentary Sukavihṛdayānandinī
+
+kedārabhaṭṭa vṛttaratnākara, with sulhaṇa's sukavihṛdayānandinī
+
+prathamo adhyāyaḥ
+
+namaḥ sarasvatyai । 
+saśrīkaṃ prabhayā yutaṃ rucirayā prodbhāsitaṃ gaṅgayā
+nānāvaktravirājitaṃ śaśikalāpīḍocchrayā alaṅkṛtam ।
+āryopetamupasthitākhilagaṇasrakpūjitaṃ sarvadā
+chaṃdaḥśāstramiveśvarasya jayati trailokyavaṃdyaṃ vapuḥ ।। 
+
+kṛṣṇātreyasya gotre samajani purā dākṣiṇātyāgraṇīryo
+velādityābhidhānaḥ sukavirabhavadbhāsvarastasya sūnuḥ ।
+tatputraḥ sulhaṇākhyaḥ sulalitapadāṃ vṛttaratnākarākhya-
+chaṃdovṛttiṃ sa cakre sukavihṛdayānaṃdanīnāmadheyām ।। 
+
+śāstrāraṃbhe śāstrakāra iṣṭādhikṛtadevatānamaskārapūrvakaśāstrasaṃbaṃdhaprayojanaṃ ślokatrayeṇāha । sukhasaṃtānasiddhyarthaṃ natvā brahmācyutārcitam । gaurīvināyakopetaṃ śaṃkaraṃ lokaśaṃkaram ।। vedārthaśaivaśāstrajñaḥ pavyeko abhūddvijottamaḥ । tasya putro asti kedāraḥ śivapādārcane rataḥ ।। tenedaṃ kriyate chando lakṣalakṣaṇasaṃyutam । vṛttaratnākaraṃ nāma bālānāṃ sukhabuddhaye ।।
+
+vedānāmarthā vedārthāḥ । śivo devatā yeṣāṃ tāni śaivāni śāstrāṇi । vedārthāśca śaivaśāstrāṇi ca tāni jānātīti sa tathoktaḥ ya pavyeko nāma dvijottamo abhūttasya pavyekasya kedāranāmā śivacaraṇārādhanaparaḥ putro asti । tena kedāreṇedaṃ vakṣyamāṇalakṣaṇaṃ chandaḥ kriyate । lakṣyamudāharaṇaṃ lakṣaṇaṃ niyatākṣaramātrāgaṇaracanā tābhyāṃ saṃyutaṃ lakṣalakṣaṇasaṃyutam । vṛttaratnākaraṃ nāma । vṛttāni śrīprabhṛtīni tānyeva ratnāni teṣāmākara utpattisthānam । kimarthaṃ । sukhena siddhiḥ sukhasiddhistasyai sukhasiddhaye । bālānāṃ mandabuddhīnām । natvā । śaṃkaraṃ mahādevam । lokaśaṃkaraṃ lokānāṃ śaṃ sukhaṃ karotīti lokaśaṃkarastam । punaḥ kathaṃbhūtam । brahmācyutārcitaṃ viraṃcinārāyaṇapūjitam । punaḥ kathaṃbhūtaṃ । gaurīvināyakopetaṃ gaurī ca vināyakaśca gaurīvināyakau tābhyāṃ upetaṃ saṃyutam । sukhasaṃtānasiddhyartham । sukhaṃ paraṃ brahmānandātmakaṃ saṃtānaḥ putrapautrādi tayoḥ siddhiḥ prāptistadarthaṃ sukhasaṃtānasiddhyartham । natvā praṇamyeti saṃbaṃdhaḥ ।।
+
+chandaḥśabdena kimucyate ityāha । piṅgalādibhirācāryairyaduktaṃ laukikaṃ dvidhā । mātrāvarṇavibhedena chandastadiha kathyate ।।
+
+tadidaṃ śāstre chandaḥ kathyate । yatpiṃgalādibhirācāryaiḥ chandaḥśāstraprayoktṛbhiruktamabhihitam । laukikaṃ loke bhavaṃ na vaidikaṃ । kāvyādiṣu tasyānupayogāt । dvidhā dviprakāram । kathamityāśaṃkāyāṃ mātrāvarṇavibhedenetyāha । mātrābhedena āryādi varṇabhedena śrīprabhṛti vṛttabhedeneti ।।
+
+atha granthasaṃkhyāmāha । ṣaḍadhyāyanibaddhasya chandaso asya parisphuṭam । pramāṇamapi vijñeyaṃ ṣaṭtriṃśadadhikaṃ śatam ।।
+
+adhīyanta ityadhyāyāste ca vakṣyamāṇalakṣaṇāḥ saṃjñābhidhānamātrāvṛttasamavṛttārdhasamavṛttaviṣamavṛttaṣaṭpratyayalakṣaṇāḥ ṣaḍeva ṣaḍbhirnibaddhasya chandaḥśāstrasya pramāṇaṃ saṃkhyā ṣaṭtriṃśadadhikaṃ śataṃ vijñeyam ।।
+
+atha gaṇanāmāha । myarastajabhnagairlāntairebhirdaśabhirakṣaraiḥ । samastaṃ vāṅmayaṃ vyāptaṃ trailokyamiva viṣṇunā ।।
+
+;‘gala'; iti prathamākṣaragrahaṇamātreṇa gurulaghuśabdayorgrahaṇami'tyāmnāyaḥ । ebhirmayarasatajabhanalagairdaśabhirakṣaraiḥ । samastamapi śabdabrahma vyāptam । trailokyamiva । bhavagatā nārāyaṇena ।।
+
+eteṣāṃ pratyekaṃ lakṣaṇamāha । sarvagurmo mukhāntarlau yarāvaṃtagalau satau । gmadhyādyau jbhau trilo no aṣṭau bhavantyatra gaṇāstrikāḥ ।।
+
+asmin chandaḥśāstre sarve guravo yasyāsau sarvagurmo magaṇo yathā । mukhāntarlau yarau mukhamādi aṃtarmadhyaṃ ādau madhye laghū yayostau mukhāntarlau yagaṇaragaṇau । aṃtagalau satau । aṃte avasāne gurulaghū yayostau sagaṇatagaṇau yathā । gmadhyādyau jbhau । guru madhye ādau yayostau jagaṇabhagaṇau yathā । trilo naḥ । trilaghurnagaṇo yathā । ete mayarasatajabhanā aṣṭau gaṇā bhavanti varṇavṛttagaṇā bhavantītyarthaḥ । mātrāgaṇānāṃ vakṣyamāṇasūtre vidhānāt । caturgurvādīnāmapi gaṇādisaṃjñā mā bhūdityāśaṃkya niyamannāha । trikā iti trayaḥ parimāṇaṃ yeṣāṃ te trikā iti ।।
+
+atha mātrāgaṇānāha । jñeyāḥ sarvāntamadhyādiguravo atra catuḥkalāḥ । gaṇāścaturlaghūpetāḥ paṃcāryādiṣu saṃsthitāḥ ।।
+
+āryāprabhṛtiṣu mātrāvṛtteṣu catuḥkalā pañca gaṇā jñātavyāḥ । sarvādimadhyāṃtaguravaḥ sarve ca te ādiśca madhyaṃ ca antaśca sarvādimadhyāṃtāsteṣu guravo yeṣāṃ te sarvādimadhyāntaguravaḥ । caturbhirlaghubhirupetāḥ sahitā veditavyāḥ ।।
+
+gurulaghuparijñānārthamāha । sānusvāro visargānto dīrgho yuktaparaśca yaḥ । vā pādāntastvasau gvakro jñeyo anyo mātṛko lṛjuḥ ।। iti । sahānusvāreṇa vartata iti sānusvāraḥ । visargāntaḥ savisargaḥ । yuktaparaḥ saṃyogaparo yo bhavati । cakārādvyaṃjanāṃto api gṛhyate । parimitākṣaramātro gaṇāracito vakṣyamāṇalakṣaṇo vṛttasya caturthāṃśaḥ pādastasyānte vartamāno laghurapi vibhāṣayā guruḥ syāt । sa ca kavisamayavyavahārāt dvitīyacaturthayoreva pādayorante veditavyaḥ । yathā ।
+
+prāyaḥ samāsannaparābhavānāṃ dhiyo viparyastatamā bhavanti । asaṃbhave hemamayasya jantostathā api rāmo lulubhe mṛgāya ।।
+
+tathā ca ।;śriyaḥ patiḥ śrīmati śāsituṃ jagajjagannivāso vasudevasadmani'; ityādi dṛṣṭavyam । sa ca prastāre vakraḥ sthāpya laghulakṣaṇamāha । jñeyo anyo mātṛko lṛjuḥ । anusvarādirahito anyo mātṛko ekamātro varṇo laghurbhavati । sa ca prastāre ṛjuḥ saralaḥ ।।
+
+yuktaparāśca ya ityanena prāpte gurutve apavādamāha । padādāviha varṇasya saṃyogaḥ kramasaṃjñikaḥ । puraḥsthitena tena syāllaghutā api kvacidguroḥ ।।
+
+vibhaktyaṃtaṃ padaṃ tasya padasyādau vartamāno yo varṇastasya saṃyogaḥ । sa iha śāstre kramasaṃjño jñeyaḥ । tena krameṇa purovartinā prākpadāṃte vartamānasya prāptagurubhāvasyāpi laghutā syāt । kvacillakṣānurodhena । nanu ka eṣaḥ kramo nāma saṃyoga ucyate । pūrvācāryāṇāṃ piṃgalanāgaprabhṛtīnāṃ kālidāsādīnāṃ ca kavīnāṃ samayaḥ parigṛhītaḥ । saṃyogaḥ kramasaṃyogaḥ ।।
+
+tatra grasaṃyogena yathā । taruṇaṃ sarṣapaśākaṃ navaudanaṃ picchalāni ca dadhīni । alpavyayena suṃdari grāmyajano miṣṭamaśnāti ।।
+
+hrasaṃyogena yathā । 
+
+tava hriyāpahriyā mama hrīrabhūt śaśigṛhe api hṛtaṃ na dhṛtā tataḥ ।
+vahalabhrāmarameṣakatāmasam mama priye kva sa yeṣyati tatpunaḥ ।।
+
+iti
+
+nidravyo hriyameti hrīparigataḥ prabhraśyate tejasaḥ
+nistejaḥ paribhūyate paribhavānnirvedamāgacchati ।
+nirviṇṇaḥ śucameti śokavivaśo buddhyāḥ paribhraśyate
+nirbuddhiḥ kṣayametyaho nidhanatā sarvāpadāmāspadam ।।
+
+mamaiva te hṛte । snehādgehādbhujagatanayālokakautūhalena sthūlottuṃgastanabharalasanmadhyabhaṃgānapekṣāḥ । paurā nāryastaralanayanānandamutpādayantyo dhāvanti sma drutamapahriyaḥ sraṃsamānottarīyāḥ ।। bodhapradīpe api yathā । 
+yajñairyeṣāṃ pratipadamiyaṃ maṇḍitā bhūtadhātrī
+nirjityaitadbhuvanavalayaṃ yaiḥ pradattaṃ dvijebhyaḥ ।
+te apyetasmin gurubhavahṛde budbudastambhalīlaṃ
+dhṛtvā dhṛtvā sapadi vilayaṃ bhūbhujaḥ saṃprayātāḥ ।।
+
+śiśupālavadhe yathā । prāptanābhihṛdamajjanamāśu prasthitaṃ nivasanagrahaṇāya । iti ।
+bhrasaṃyogena yathā ।
+śaśimukhi bhramaro ayaṃ padmabuddhyā a; ananaṃ te ।
+samabhilaṣati pātuṃ tyaktavallīprasūnaḥ ।।
+
+tathā ca । bhramati bhramaramārīkānane vipramukte । ityādi । 
+varatarukusumeṣu vyomagaṃgāmbujeṣu tridaśakarikaṭeṣu svarvadhūkuṃtaleṣu ।
+sthitaśayitavibuddhaprītikaste bhramo ayaṃ bhramasi bhramara yena tvaṃ mudhā ketakeṣu ।।
+
+padādāviti kim । grasaṃyogena yathā । asamagravilokanena kiṃ te dayitaṃ paśya varoru nirviśaṃkā । na hi jātu kuśāgrapītamambhaḥ sucireṇāpi karotyapetatṛṣṇam ।। iti
+hrasaṃyogena yathā ।
+;ājahratustaccaraṇau pṛthivyāmi'ti । pradyotasya priyaduhitaraṃ vatsarājo atra jahre ।
+bhrasaṃyogena yathā ।
+kundāvadātairbhavato yaśobhiḥ śubhrīkṛtaṃ kiṃ paramāravīra । adyāpi yadbibhrati kālimānamarātinārīvadanotpalāni ।।
+
+kvaciditi kim । 
+grasaṃyogena yathā ।
+;mahī pādaghātādvrajati sahasā saṃśayapadam ।
+padaṃ viṣṇorbhrāmyadbhujaparigharugṇagrahaṇami'ti ।।
+bhrasaṃyogena yathā ।
+;tatra bhramatyeva mudhā ṣaḍaṃdhriri'ti ।
+
+kecitpādādāviti manyante । sūtrodāharaṇayorghaṭanābhāvāt । taruṇaṃ sarṣapaśākaṃ navodanaṃ picchalāni dadhīni । alpavyayena suṃdari grāmyajano miṣṭamaśnāti । ityudāharaṇamāryayā pradarśitam । āryāyāṃ pādavyavasthā nāsti । pūrvārdhottarārdhagrahaṇāt pūrvārdhottarārdhamityāryālakṣaṇaṃ kurvāṇo granthakāra evaṃ jñāpayati । tāvadāryāyāṃ pādavyavasthā nāsti paiṃgalīyasūtrapāṭhācca । svarā ardhañcāryārdhamiti । tasmātpadādāviti pāṭhaḥ । śreyānityalamiti prasaṃgena ।।
+
+atha saṃjñāmāha । abdhibhūtarasādīnāṃ jñeyāḥ saṃjñāstu lokataḥ । jñeyaḥ pādaḥ caturthāṃśo yatirvicchedasaṃjñitā ।।
+
+tadyathā । catvāro abdhivedāḥ । pañca śarendriyāṇi । sapta svararṣayaḥ । nava naṃdarandhrāṇi । ekādaśa rudrāḥ । trayodaśa viśvedevāḥ । caturdaśa bhuvanāni । pañcadaśa tithaya ityādi ।
+
+pādalakṣaṇamāha । jñeyo pādaḥ caturthāṃśo । vakṣyamāṇalakṣaṇasya vṛttasya caturthāṃśo bhāgaḥ pādasaṃjño bhavet ।
+
+atha yatimāha । yatirvicchedasaṃjñitā । yatirvirāmādirācāryapāraṃparyāgatā saṃjñeyamadhyātpadacchinnākṣareṣu kartavyā । abdhyādi śabdāddhi sāṃkāḥ kṛtvā yatirityanena saha saṃbadhyante । ityayamarthaḥ śiṣyanti । 
+"yatiḥ sarvatra pādānte ślokārdhe tu viśeṣataḥ ।
+samudrādipadānte ca vyaktāvyaktavibhaktike ।।
+
+kvacittu padamadhye api samudrādau yatirbhavet ।
+yadi pūrvāparau bhāgau na syātāmekavarṇakau ।।
+
+pūrvāṃtavatsvaraḥ saṃdhau kvacideva parādivat ।
+dṛṣṭavyo yaticintāyāṃ yadyādeśaḥ parādivat ।।
+
+[nityaṃ prākpadasaṃbaddhāścādayaḥ prākpadāntavat । pareṇa nityasaṃbaddhāḥ prādayaśca parādivat"] ।।
+
+yatiḥ sarvatra pādānte । śriyaḥ śreyakapolau tu sampūrṇendusamaprabhau pratibimbaṃ hareryatra kastūrī maṇḍanāyate । ityādinetvevaṃ yathā । namastasmai mahādevāya śaśikhaṇḍadhāriṇe ।
+ślokārdhe tu viśeṣataḥ ।
+yathā ।
+rājasevāṃ vinā asmākaṃ guṇo niṣphalatāmagāt ।
+aṃtaḥpurapurandhrīṇāṃ anarghyāmiva maṇḍanam ।।
+
+agādityaṃtyavyañjanasyāṃtaḥpureṇetyakāreṇa saha saṃdhirna bhavati । samāse api na tvevaṃ yathā । surāsuraśiroratnasphuraccaraṇamañjarī- piṃjarīkṛtapādābjadvandvaṃ vandāmahe śivamiti ।
+
+samudrādipadānte ca vyaktāvyaktavibhaktike । vyaktavibhaktike prakaṭavibhaktike । avyaktavibhaktike samāsāntavibhaktike । tayorudāharaṇaṃ yathā ।;yakṣaścakre janakatanayāsnānapuṇyodakeṣu'; iti । vyaktāvyaktavibhaktika iti yatiḥ sarvatra pādānta ityanena saha saṃbadhyate । vastrīkṛtajagatkālaṃ kaṇṭhekālaṃ namāmyaham । mahākālaṃ kalāśeṣaṃ śaśilekhāśikhāmaṇim ।।
+
+api ca ।
+namastuṃgaśiraścumbicandracāmaracārave ।
+trailokyanagarīraṃbhamūlastambhāya śambhave ।।
+kvacittu padamadhye api samudrādau yatirbhavet ।yadi pūrvāparau bhāgau na syātāmekavarṇakau ।।
+yathā ।;paryāptaṃ taptacāmīkarakaṭakataṭe śliṣṭaśītetarāśā'viti । samudrādāviti kim । padamadhyayatirpadānte mā bhūt । yathā ।;praṇamata bhavabaṃdhakleśanāśāya nārāyaṇacaraṇasarojadvandvamānaṃ dahetu'riti ।।
+
+pūrvottarabhāgayorekākṣaratve tu padamadhye yatirduṣyati ।;etasyāṃ gaṇḍatalamamalaṃ gāhave candrakakṣāmiti ।;etāsāṃ rājati sumanasāṃ dāmakaṇṭhāvalambī'ti ।;saṃtāpaṃ me janayati nitambo ayamindīvarākṣyā'; iti ।
+pūrvāntavatsvaraḥ saṃdhau kvacideva parādivat ।
+asyārthaḥ । yo yaṃ pūrvaparayorekadeśaḥ svarasaṃdhau vidhīyate sa kvacitpūrvāntavadbhavati kvacitparasyādivat । pūrvāntavadyathā । syādasthāne apagatayamunāsaṃgame vā abhirāmā । tathā । jambhārātībhakumbhodbhavamiva dadhataḥ sāndrasindūrareṇum iti । parādivadbhāvo yathā । ye svārātividāritāsyasahasaivābhūdvibhinnaṃ raṇe vāmāṃgaṃ kalakiṃkaṇīphalakavannistṛṃśavaddakṣiṇam । ekaṃ ghātanipātadattamitaradghātapratīkārakṛd- dhanyaḥ paśyati yudhyamānamiti sasvāṃgaṃ vimānasthitaḥ ।।
+
+yadyādeśaḥ parādivad ।;saptarṣihastāvacitāvaśeṣaṇye adho vivasvāni'ti । ādiśabdāt;vitataghanatuṣāraḥ kṣodaśubhrāṃśuvartma svavirale'tyādi ।
+
+nityaṃ prākpadasaṃbaddhāścādayaḥ prākpadāntavat । tebhyaḥ pūrvā yatirna kartavyetyarthaḥ । yathā ।;svāduḥsvacchaṃdasalilamidaṃ prītaye kasya na syādi'ti ।
+
+pareṇa nityasaṃbaddhāḥ prādayaśca parādivat । tebhyaḥ parā yatirna kartavyetyarthaḥ । yathā ।;duḥkhaṃ me prakṣipati hṛdaye duḥsahastadviyogaḥ'; ityādi sarvamūhyam ।।
+yuksamaṃ viṣamaṃ cāyuksthānaṃ sadbhirnigadyate ।।
+prathamatṛtīyādikaṃ sthānaṃ ayuk viṣamaṃ dvitīyacaturthādikaṃ sthānaṃ yuksamamiti ।
+
+atha vṛttabhedānāha । samamardhasamaṃ vṛttaṃ viṣamaṃ ca tathā param ।।
+
+chandasi vartata iti । vṛttaṃ vakṣyamāṇalakṣaṇaṃ tridhā bhavati । samamardhasamaṃ viṣamaṃ ceti । tatra samaṃ sarvāvayavatvātsamam śrīprabhṛti ardhasamamupacitrādi viṣamaṃ padacaturūrdhādi ।
+
+eteṣāṃ pratyekaṃ lakṣaṇamāha । aṅdhrayo yasya catvārastulyalakṣaṇalakṣitāḥ । tacchaṃdaśāstratattvajñāḥ samaṃ vṛttaṃ pracakṣyate ।।
+
+yasya vṛttasya catvāro api pādāḥ samalakṣaṇabhājo bhavanti । tadvṛttaṃ samaṃ chandovidbhirācakṣyate ।
+
+athārdhasamamāha । 
+prathamāṅdhrisamo yasya tṛtīyaścaraṇo bhavet ।
+dvitīyasturyavadvṛttaṃ tadardhasamamucyate ।।
+
+yasya vṛttasya prathamatṛtīyapādau tulyalakṣaṇau bhavataḥ । dvitīyacaturthau ca । tadvṛttaṃ ardhasamamucyate ।
+
+viṣamalakṣaṇamāha । yasya pādacatuṣke api lakṣma bhinnaṃ parasparam । tadāhurviṣamaṃ vṛttaṃ chandaḥśāstraviśāradāḥ ।।
+
+yasya vṛttasya caturṣvapi pādeṣu bhinnamanyādṛśaṃ parasparaṃ lakṣaṇaṃ bhavati tadviṣamamityāhurācāryāḥ ।
+
+atha vṛttānāṃ pādaṃ niyamannāha । ārabhyaikākṣarāt pādād ekaikākṣaravardhitaiḥ । pṛthak chando bhavet pādair yāvat ṣaḍviṃśatiṃ gatam ।।
+
+ekākṣarātpādādekaikākṣaravṛddhyā pādaiḥ chandaḥ syāt । kiṃ yāvadgataṃ ṣaṭviṃśatyakṣaramutkṛtiṃ yāvat ।
+tadūrdhvaṃ caṇḍavṛṣṭyādidaṇḍakāḥ parikīrtitāḥ ।।
+ṣaḍviṃśatyākṣarotkṛtijāterūrdhvaṃ caṇḍavṛṣṭiprabhṛtayo daṇḍakāḥ bhavanti । śeṣamiti prakaraṇam । tacca śāstrāntarebhyo avagantavyam । granthagauravabhayātkedāreṇātra noktam ।
+śeṣaṃ gāthāstribhiḥ ṣaḍbhiścaraṇaiścopalakṣitāḥ ।।
+śeṣaṃ jātiprakaraṇānantaraṃ tripadyaḥ ṣaṭpadyo gāthāḥ syuḥ ।
+
+atha chandasāṃ jātīrāha । uktātyuktā tathā madhyā pratiṣṭhā anyā supūrvikā । gāyatryuṣṇiganuṣṭup ca bṛhatī paṃktireva ca ।। triṣṭup ca jagatī caiva tathā atijagatī matā । śarkarī sātipūrvā syādaṣṭyatyaṣṭī tataḥ smṛteḥ ।। dhṛtiścātidhṛtiścaiva kṛtiḥ prakṛtirākṛtiḥ । vikṛtiḥ saṅkṛtiścaiva tathābhikṛtirutkṛtiḥ ।। ityuktā chaṃdasāṃ saṃjñāḥ kramaśo vacmi sāmpratam । lakṣaṇaṃ sarvavṛttānāṃ mātrāvṛttānupūrvakam ।।
+
+ekākṣarā uktā । tryakṣarā madhyā । caturakṣarā pratiṣṭhā । paṃcākṣarā supratiṣṭhā । saptākṣarā uṣṇik । navākṣarā bṛhatī । ekādaśākṣarā triṣṭup । dvādaśākṣarā jagatī । trayodaśākṣarā atijagatī । caturdaśākṣarā śarkarī । paṃcadaśākṣarā atiśarkarī । saptadaśākṣarā atyaṣṭiḥ । aṣṭādaśākṣarā dhṛtiḥ । ekonaviṃśatyakṣarā atidhṛtiḥ । viṃśatyakṣarā kṛtiḥ । ekaviṃśatyakṣarā prakṛtiḥ । dvāviṃśatyakṣarā ākṛtiḥ । trayoviṃśatyakṣarā vikṛtiḥ । caturviṃśatyakṣarā saṃkṛtiḥ । paṃcaviṃśatyakṣarā abhikṛtiḥ । ṣaḍviṃśatyakṣarā utkṛtiḥ । iti chaṃdasāṃ saṃjñā uktāḥ । adhunā sarveṣāṃ vṛttānāṃ lakṣaṇamabhidhāsyāmi । lakṣyate jñāyate aneneti lakṣaṇam । paraṃ mātrāvṛttānupūrvakam । mātrāvṛttānyāryāprabhṛtīni prathamamuktvetyarthaḥ ।।
+
+iti sulhaṇaviracitāyāṃ sukavihṛdayānaṃdinyāṃ vṛttaratnākarachaṃdovṛttau prathamo adhyāyaḥ ।।
+
+dvitiyo adhyāyaḥ mātrāvṛttādhyāyaḥ
+
+[āryā-prakaraṇam ]
+
+mātrāvṛttādhyāyo dvitīyaḥ prārabhyate । mātrāvṛttānupūrvakamityuktatvāt । lakṣmaitatsapta gaṇā gopetā bhavati neha viṣame jaḥ । ṣaṣṭho ayaṃ ca nalaghu vā prathame ardhe niyatamāryāyāḥ ।। 
+ṣaṣṭhe dvitīyalātparake nle mukhalācca sayatipadaniyamaḥ ।
+carame ardhe paṃcamake tasmādiha bhavati ṣaṣṭho laḥ ।।
+
+āryāyā etallakṣma lakṣaṇam । sapta catuṣkalā gaṇā guruṇā upetā yuktā bhavanti । sāmānyenābhidhāya viśeṣamāha । bhavati neha viṣame jaḥ iti । iha āryālakṣaṇe viṣame sthāne prathamatṛtīyādau jo jagaṇo na bhavati । ṣaṣṭhaścāyaṃ jagaṇo bhavati । nalaghu vā । nagaṇayukto laghu vā bhavati । niyataṃ niścitamāryāyāḥ । prathame ardhe ādye dale iti । carame ardhe dvitīye ardhe ṣaṣṭho laghureveti niyamaḥ ।
+
+evamubhayorapyardhayorlakṣaṇamabhidhāya padaniyamamāha । ṣaṣṭhe dvitīyalāditi । ṣaṣṭhe gaṇe sarvalaghau dvitīyāllaghvakṣarādārabhya padaṃ bhavati । saptamaścetsarvalaghugaṇo bhavati tadā prathamākṣarādārabhya padaṃ carame ardhe paṃcamake dvitīye ardhe paṃcame sarvalaghau gaṇe tasmātpūrvoktāt । prathamākṣarāllaghvakṣarādārabhya padaniyamo bhavati । atrārdhagrahaṇātpādavyavasthā nāstīti etacca prathamādhyāya eva padādāviti sūtre prapaṃcitamasti । 
+krameṇodāharaṇaṃ yathā ।
+vaṃdārudevavṛndairahamahamikayā sadaiva yā vaṃdyā ।
+svargāpavargadātrīṃ tāmāryāṃ saṃtataṃ naumi ।।
+
+ityudāharaṇaṃ yathā ।
+yasyāṃganāmuvedyā kokilanādaśca malayagiripavanaḥ ।
+ekaikamastrakṛtyaṃ karoti sa jayati manojanmā ।।
+triṣvaṃśakeṣu pādo dalayorādyeṣu dṛśyate yasyāḥ ।pathyeti nāma tasyāśchandovidbhiḥ samākhyātam ।।
+yasyā āryāyā ādyeṣu triṣu gaṇeṣu pādo virāmo bhavati । yathā । 
+ujjhitanepathyālakamujjhitatilakāṃjanaṃ yadeṇākṣyāḥ ।
+tasyāḥ smarāmi virahaprārambhe vadanamapi ramyam ।।
+
+saṃlaṃghya gaṇatrayamādimaṃ sakalayordvayorbhavati pādaḥ ।yasyāstaṃ piṃgalanāgo vipulāmiti samākhyāti ।।
+yasyā āryāyā ādyagaṇatrayamabhilaṃghya dvayorapyardhayoḥ pādo virāmo yatirbhavati । sā vipulā nāma yathā । 
+mama khalu na yāti nayanayugamacalanirmeṣapiśyatastṛptim ।
+trastamṛgaśiśudṛśastanvaṃgyā jaghanasthalīṃ vipulām ।।
+
+sāmānyena vidhānametadādyaṃtobhayabhedapūrvakatvāttridhā bhavati ।
+tatrādivipulā yathā । 
+pramadānāṃ jayati kaṭākṣo ayaṃ niśi sphuratsmaraśarābhaḥ ।
+hṛdayasthitānurāgaprakaṭanapaṭutāṃ dadhātsvairaṃ ।।
+
+antyavipulā yathā । 
+prītiṃ kasya na janayati prakurvatī keśabaṃdhanaṃ nārī ।
+darśitabhujamūlālaṃkārasubhūtārdranakhapaṃktiḥ ।।
+
+ubhayavipulodāharaṇaṃ pūrvamevodāhṛtamiti ।।
+ubhayārdhayorjakārau dvitīyaturyau gamadhyagau yasyāḥ ।capaleti nāma tasyāḥ prakīrtitā nāgarājena ।।
+yasyā āryāyā ubhayorardhayordvitīyaturyau dvitīyacaturthau gurvormadhyagau gamadhyagau gamadhyagāviti । vadatā sūtrakṛtā gaṇaniyama uktaḥ । tathā hi prathamo gaṇo antagurureva tṛtīyo gaṇo dvigurureva paṃcamaścādigurureveti niścayaḥ । śeṣaṃ yathā proktam । sā āryā capalā nāma yathā । 
+capalākṣi maunamudrāṃ tyajeti saṃbhāṣitā mayā sutanuḥ ।
+saṃjātaromaharṣā babhūvātyutsukā tanvī ।।
+
+ādyaṃ dalaṃ samastaṃ bhajellakṣma capalāgataṃ yasyāḥ ।śeṣe pūrvajalakṣmā mukhacapalā soditā muninā ।।
+yasyā āryāyā ādyaṃ dalamardhaṃ samastamapi capalāyā lakṣaṇaṃ bhajet । śeṣe uttarārdhe pūrvoktalakṣaṇā sā mukhacapalā nāma । yathā । 
+yasyātsirācitāṃgī laghustanī piṃgalākṣiyugalā ca ।
+mukhacapalā puruṣākṛtiratidīrghakṛśā parityājyā ।।
+
+prākpratipāditamardhe prathame prathametare tu capalāyāḥ ।lakṣmāśrayeta soktā viśuddhadhībhirjaghanacapalā ।।
+yā āryā prathame ardhe prākpratipāditaṃ pūrvamuktaṃ lakṣaṇamāśrayet prathametare tu uttarārdhe tu capalāyā lakṣaṇaṃ sā jaghanacapalā uktā viśuddhadhībhirnirmalabuddhibhiḥ ।
+
+kuṃcitalocanayugalaṃ samadanamadamodasuṃdarālam ।
+surataṃ smarāmi tasyā mṛgīdṛśoḥ jaghanacapalāyāḥ ।।
+
+।।
+
+[gīti-prakaraṇam ]
+āryāprathamadaloktaṃ yadi kathamapi lakṣaṇaṃ bhavedubhayoḥ ।dalayoḥ kṛtayatiśobhāṃ tāṃ gītiṃ gītivānbhujaṅgeśaḥ ।।
+āryāyāḥ prathame ardhe yaduktaṃ lakṣaṇaṃ tadyadi dvayorapyardhayorbhavati tāṃ gītimiti gītavān uktavān bhujaṃgeśaḥ piṃgalanāgaḥ । 
+romāṃcaṃ janayaṃtī sukhayaṃtī netrayoryugaṃ yūnām ।
+sadyo manāṃsi madayati gītiḥ strīṇāṃ madena mattānām ।।
+
+āryādvitīyake aṃśe yadgaditaṃ lakṣaṇaṃ tatsyāt ।
+yadyubhayorapi dalayorupagītiṃ tāṃ munirbrūte ।।
+
+āryādvitīye ardhe yallakṣaṇamuktaṃ tadyadi dvayorapyardhayorbhavati tāmupagītimiti piṃgalanāgo munirbrūte । 
+śāradacaṃdrodyote pāyaṃpāyaṃ madhu svairam ।
+paurastrībhirabhīṣṭā kriyate sotkaṇṭhamupagītiḥ ।।
+
+āryāśakaladvitayaṃ vyatyayaracitaṃ bhavedyasyāḥ ।sodgītiḥ kila gaditā tadvadyatyaṃśabhedasaṃyuktā ।।
+yasyā āryāyā uttarārdhalakṣaṇaṃ pūrvārdhe bhavati pūrvārdhalakṣaṇamuttarārdhe sā udgītiḥ । 
+yathā ।
+maṇḍapanagaravadhūnāmudgītiṃ vatsamallāram ।
+ākarṇayati sa nūnaṃ dūrādābhyeti candrahariṇo api ।।
+
+āryāpūrvārdhaṃ yadi guruṇaikenādhikena nidhane yuktam ।itarattadvannikhilaṃ yaddīyamuditaivamāryāgītiḥ ।।
+yadyāryāyāḥ pūrvārdhamuttarārdhaṃ ca nidhane avasāne ekena guruṇādhikena yuktaṃ bhavati tadā a; aryāgītiryathā । 
+strīṇāṃ harṣavatīnāṃ saśiraḥkampastuvanti vigatavikalpāḥ ।
+apyāryāgītimimāmanekalayasundarāmākarṇya ।।
+
+skandhakamityike ।।
+
+।।
+
+[vaitālīya-prakaraṇam ]
+ṣaḍviṣame aṣṭau same kalāstāśca same syurno nirantarāḥ ।na samā atra parāśritā kalā vaitālīye ante ralau guruḥ ।।
+siṃhāvalokitanyāyena;tṛtīyayugdakṣiṇāntike'tyādisūtrapaṭhitaḥ pādaśabdo atra dṛṣṭavyaḥ । paiṃgalīyasūtrapādaśabdopādānāt । yathā ‘vaitālīyaṃ dviḥsvarā ayukpādeṣu sarvo antalā'; iti । yatra viṣame pāde prathame tṛtīye ṣaṭkalā mātrā bhavanti same pāde dvitīye caturthe aṣṭau kalā bhavanti । ante avasāne ragaṇalaghū guruḥ ca bhavatastadvṛttaṃ vaitālīyaṃ nāma । kvacitprāye gurulaghubhāve apavādamāha । na samā atra parāśritā kaleti । samā dvitīyacaturthādikā parāśritā tṛtīyapaṃcamādyāśritā na bhavati । same pāde dvitīye caturthe nirgatamaṃtaraṃ vyavadhānaṃ yāsāṃ tā nirantarā aṃtararahitā laghavo na bhaveyurityarthaḥ । yathā ।
+
+praviśatyaniśaṃ nirargalā suparityaktavibhūṣaṇāṃśukā ।
+virahe tava sā varāṃganā vaitālīyamuvāha vibhramam ।।
+paryante ryau tathaiva śeṣaṃ aupacchaṃdasikaṃ sudhībhiruktam ।।
+ṣaṇṇāmaṣṭānāṃ ca kalānāṃ paryante avasāne ryau ragaṇayagaṇau bhavataḥ । śeṣaṃ pūrvavattadā vaitālīyameva aupacchaṃdasikaṃ nāma । yathā । 
+bahuvipriyakārakaṃ parokṣe pratyakṣe priyacāṭukāradakṣam ।
+śaṭhavṛttamimaṃ drutaṃ vayasye aupacchaṃdasikaṃ vimuñca kāntam ।।
+
+āpātalikā kathiteyaṃ bhādgurukāvatha pūrvavadanyat ।।
+;yadā ṣaḍviṣame aṣṭau same kalā'; ityādi sarvaṃ pūrvavadbhavati । viśeṣoktau bhagaṇātparau gau gurū bhavataḥ tadā vaitālīyamevāpātalikā nāma । yathā । 
+naranātha bhavaṃtamarīṇāṃ nāśakaraṃ prasamīkṣya purastāt ।
+ripavo jahati sma bhayārtā āpātalikāṃ saṃgarabhūmim ।।
+
+āpātalikāṃ asthirāmityarthaḥ । uktaṃ ca piṃgalavṛttau bhaṭṭaśrīhalāyudhena । yathā । 
+piṃgalakeśā kapilākṣī vācāṭā vikaṭonnatadantī ।
+āpātalikā punareṣā nṛpatikule api na bhāgyamupaiti ।।
+
+tṛtīyayugdakṣiṇāṃtikā samastapādeṣu dvitīyalaḥ ।।
+vaitālīyameva sarveṣvapi pādeṣu dvitīyo laghu tṛtīyena saha yukto bhavati;na samā atra parāśritā kale'ti bādhitvā tadā dakṣiṇāntikā nāma । 
+vavau maruddakṣiṇāntiko viyoginīnāṃ prāṇahārakaḥ ।
+prakaṃpitāśokacampake vasanta eṣo anaṃgabodhakaḥ ।।
+
+udīcyavṛttirdvitīyalaḥ sakto agryeṇa bhavedayugmayoḥ ।।
+ayugmayoḥ prathamatṛtīyayoḥ pādayoḥ dvitīyo laghuragrimena tṛtīyena laghunā saha yujyate tadā vaitālīyamevodīcyavṛttirnāma yathā । 
+giraṃ manojñāṃ pikāṃganā muditāścikyatsvayamudgiratyasau ।
+udīcyavṛttau divākare sahakāro api tanoti mañjarī ।।
+
+pūrveṇa yuto atha paṃcamaḥ prācyavṛttiruditeti yugmayoḥ ।।
+laghurityanuvartate । samapādayordvitīyacaturthayoḥ paṃcamo laghuḥ pūrveṇa caturthena laghunā saha yukto yadā syāttadā prācyavṛttirnāma vaitālīyaṃ bhavati । yathā । 
+svaguṇairanuraṃjitaprajaḥ prācyavṛttaparipālane rataḥ ।
+raṇabhūmiṣu bhīmavikramo viṃdhyavarmanṛpatirjayatyasau ।।
+
+yadā samāvojayugmakau pūrvayorbhavati tatpravṛttakam ।।
+pūrvoktayorudīcyaprācyavṛttyoḥ samau sadṛśau aujayugmakau viṣamasamau pādau yadā bhavataḥ tadā vaitālīyameva pravṛttakaṃ syāt । 
+pravṛttakānte duḥraśmibhirvyāptamaṃbaramidaṃ vilokyatām ।
+gṛhāṇa tāmbūlamuttamaṃ kopamāśu vijahīhi kopane ।।
+
+asya yugmaracitā aparāntikā ।।
+asya pravṛttakasya samapādakṛtā samapādalakṣaṇayuktaiścaturbhiḥ pādai racitā aparāntikā nāma । 
+tuṃgapīvaraghanastanālasā cārukuṇḍalavatī mṛgekṣaṇā ।
+pūrvacandravadanā aparāntikā cittamunmadayatīyamaṃganā ।।
+
+ayugbhavā cāruhāsinī ।।
+pravṛttakasyaiva viṣamapādalakṣaṇayuktaiścaturbhiḥ pādaiḥ racitā cāruhāsinī nāma yathā । 
+na kasya cetaḥ samanmathaṃ karoti sā suṃdarākṛtiḥ ।
+vicitravākyoktipaṇḍitā vilāsinī cāruhāsinī ।।
+
+।। vaitālīyaprakaraṇam ।।
+
+[vaktra-prakaraṇam ]
+vaktraṃ nādyānnasau syātāmabdheryo anuṣṭubhi khyātam ।।
+;pāda'; ityanuvartate । anuṣṭubhyaṣṭākṣarāyāṃ jātau pādasya caturthādakṣarādyo yagaṇo yadā bhavati tadā vaktraṃ nāma vṛttaṃ khyātaṃ kathitam । abdheriti nirviśeṣaṇatvenādyādakṣarānnagaṇasagaṇau na bhavataḥ । 
+apāṇḍugaṇḍamākarṇaviśālanayanaṃ subhru ।
+virahe cārusarvāṃgyāstasyāḥ smarāmyahaṃ vaktram ।।
+
+yujorjena saridbhartuḥ pathyāvaktraṃ prakīrtitam ।।
+yujoḥ samapādayorcaturthādakṣarājjena jagaṇena pareṇa vaktrameva pathyeti kīrtitam । 
+tvaddantidantalagnoruśākhāḥ pathyāyatāḥ drumāḥ ।
+kathayantīva bhagnānāṃ digjayaṃ tava bhūpate ।।
+
+aujayorjena vāridhestadeva viparītādi ।।
+viparitapathyetyarthaḥ । yukpāde yagaṇa eva kartavyaḥ । yathā । 
+viparītānyapi priyaḥ kurvāṇo mudamādhatte ।
+anukūlastvasau sadā tena prāṇādhiko nūnam ।।
+
+capalāvaktramayujornakāraścetpayorāśeḥ ।।
+yadyayujorviṣamayoḥ pādayoścaturthādakṣarānnagaṇo bhavet tadā vaktrameva capalā bhavati । yukpādayoryagaṇa eva । yathā । 
+capalāpāṃganayane pakvabimboṣṭhi candrāsye ।
+svādhīnatvaṃ bhaja dayitaṃ tāruṇyamasthiraṃ yasmāt ।।
+
+yasyāṃ laḥ saptamo yugme sā yugmavipulā matā ।।
+yukpāde dvitīyacaturthe laghuḥ saptamo yasyāḥ sā yugmavipulā nāma । nanu pathyālakṣaṇasāmyātpunaruktametat । naivam । vipulādhikārasyedānīmārabhyamānatvāt vinā anutpattiḥ pathyālakṣaṇaṃ tvayukpāde avaśyameva yagaṇena bhavitavyam । atra tu na niyamaḥ । 
+aho kasyāpi dhanyasya mahākulaprasūtayā ।
+prītiḥ svakāntayā sārdhaṃ vipulā jāyate gṛhe ।।
+
+saitavasyākhileṣvapi ।।
+saitavasyācāryasya matena caturṣvapi pādeṣu saptamo laghuḥ kartavyaḥ । 
+aho dhanyasya kasyacitsukaverjāyate matiḥ ।
+nūnaṃ yayādhikriyate saitavaṃ kāvyamuttamam ।।
+
+bhenābdhito bhādvipulā ।।
+saitavasyeti nivṛttam ।;capalāvaktramayujornakāraścetpayorāśe'rityanuvartate । ‘yasyāṃ laḥ saptamo yugme sā yugmavipulā mate'ti sarvamanuvartanīyam । ayukpādayoḥ prathamatṛtīyayoścaturthyādakṣarātparayo yagaṇaṃ bādhitvā bhagaṇaścedbhavati tadā bhenopalakṣitā vipulā syāt bhavipuletyarthaḥ । yathā । 
+viśālākṣī kāmagajakumbhāmbhavipulastanī ।
+madhyakṣāmā haṃsagatiḥ kasya na syādgatipradā ।।
+
+ayujoriti jātipakṣe dvayorapi pādayorgrahaṇam vyaktipakṣe punarekasya । ekapakṣe punaḥ prathamasya tṛtīyasya vā tathā cāhurmahākavayaḥ । 
+;vaṭe vaṭe vaiśravaṇaścatvare catvare śiva'; iti ।
+;yasya prabhādbhuvanaṃ śāśvate pathi tiṣṭhatī'ti ।
+;upasthitaṃ prāñjalinā vinītena garutmatā'; iti mahākaviprayogāḥ ।।
+
+itthamanyā raścaturthāt ।।
+itthaṃ pūrvoktaprakāreṇāyukpādayoścaturthādakṣarātparato ragaṇo bhavati tadā ravipulā syāt । 
+tathā jitaḥ śatruvargo rājan bāhubalena te ।
+sahāntaḥpuro yathā asau tatāra vipulā nadī ।।
+
+vyaktipakṣe prathamapāde yathā । [mahākavikālidāsavasvāgdevatāgurum । yajñāne viṣayābhyānti darpaṇe pratibimbavat । kāminībhiḥ saha prītiḥ kasya nāma na rocate । yadi na syādvārivīcicaṃcalaṃ hata jīvitam ।।
+no ambudheścennavipulā ।।
+ayukpādayoścaturthādakṣarāccennagaṇo bhavatīti tadā navipulā syāt ।
+līlayā yena vipulā daṃṣṭrāgreṇoddhṛtā mahī ।
+bibhratā saukaramapi vapurvandāmi taṃ harim ।।
+
+atraiva bhāravikaviryathā ।
+yuyutsuneva kavacaṃ kimāmuktamidaṃ tvayā ।
+tapasvino hi vasate kevalājinavalkale ।।
+
+vyaktipakṣe prathamapāde yathā । tava maṃtrakṛto maṃtrairdūrātsaṃśamitāribhiḥ । pratyādiśyanta iva me dṛṣṭalakṣyabhidaḥ śarāḥ ।।
+to ambudhestatpūrvā bhavet ।।
+ayukpādayoḥ caturthādakṣarāccettagaṇo bhavati tadā tatpūrvaṃ tavipuletyarthaḥ । tṛṣṇeyaṃ re tāta śriyaṃ saṃcitāṃ vipulāṃ hare - dvihāya tasmāttāṃ bhava sukhī vairāgyasampadā ।।
+
+vyaktipakṣe prathamapāde yathā ।
+lokavatpratipattavyo laukiko arthaḥ parīkṣakaiḥ ।
+lokavyavahāraṃ prati sadṛśau bālapaṇḍitau ।।
+
+anyeti grahaṇāt magaṇasagaṇavipulā api boddhavyā । yathā mamaiva chandasi ।;ambudhau natabharamasā auje tadyutavipulā bhavet'; । 
+sarvātiriktaṃ saubhāgyaṃ bibhratī cārulocanā ।
+strīlokasṛṣṭiḥ saumyeva niḥ sāmyamasya vedhasā ।। 
+vyaktipakṣe prathamapāde yathā । manobhirāmāḥ śṛṇvantau rathanemisvanonmukhaiḥ । atha pradoṣe doṣajñaḥ saṃveśāya viśāṃpatim ।। iti । 
+tṛtīyapāde yathā ।
+adūravartinīṃ siddhiṃ rājanvigaṇayātmanaḥ ।
+upasthiteyaṃ kalyāṇī nāmni kīrtita eva yaditi ।।
+
+savipulā yathā ।
+kṣaṇavidhvaṃsini kāye kā cintā maraṇe raṇe । sarveṣāṃ vipulābhedānāṃ caturtho varṇaḥ prāyeṇa gururbhavati ।। iti vaktraprakaraṇam ।।
+
+[mātrāsamaka-prakaraṇam ]
+dvikaguṇitavasulaghuracaladhṛtiriti ।।
+dvābhyāṃ guṇitā vasavo aṣṭau laghava ityarthaḥ । ṣoḍaśabhirlaghubhiracaladhṛtirnāma । yathā । 
+itarajanahitamitaramṛtaramatimanavaratamavanitilakamiva sapadi ।
+svayamapi jalanidhijananiratilaṣati puruṣavaramacaladhṛtivibhavinamiha ।।
+
+gītyāryeti piṃgalaḥ ।।
+mātrāsamakaṃ navamo lgantaṃ ।।
+;dvikaguṇitavasulaghu'rityanuvartate । yadā acaladhṛtireva gurvanto bhavati navamośca laghureva tadā mātrāsamakaṃ nāma । prāksūtrāllaghurityanuvartamāne api;navamo li'ti vadatā sūtrakāreṇānyeṣāṃ laghu vo anujñātastasmā'nna samā atra parāśritā kale'tyapyanuvartanīyam । atraiva sūtre lakṣyalakṣaṇatvāt । yathā । 
+dhūlīdhūsaṃskṛtatanaśobhaḥ prakaṭitanūtanavadanadvaṃdvaḥ ।
+pramuditavadano jaṭilaśiraskaḥ khelati mātrāsamakaṃ bālaḥ ।।
+
+jo nlāvathāmbudherviślokaḥ ।।
+ambudherlaghucatuṣṭayātparayorjagaṇo nlau nagaṇalaghū yadā bhavatastadā mātrāsamakameva viśloko nāma । 
+muñcati tṛṇamiva gatavikalpaḥ putraṃ priyamaviślokaṃ yataḥ ।
+saṃgrāmabhuvi vijitārisamūhaḥ kṣoṇīmimāṃ sa sākṣadavyāt ।।
+
+tadyugalādvānavāsikā syāt ।।
+tadyugalādambudhiyugalāllaghvaṣṭakātparayo jagaṇo nagaṇalaghū yadā bhavatastadā vānavāsikā bhavet । 
+kuṃkumapaṃkānuliptagātrā madhyakṣāmā vipulanitambā ।
+asmākaṃ vānavāsikā strī cetaḥprītiṃ sapadi vidhatte ।।
+
+bāṇāṣṭanavasu yadi laścitrā ।।
+paṃcamo aṣṭamo navamo yadi cellaghurbhavati tadā citrā nāma yathā । 
+dṛṣṭvā tava ripunagare śūnye citrāni dhavalagṛhabhittīnām ।
+yānti drutataramibhayūthātitrāsam naravarajanatā buddhyā ।।
+
+aṣṭābhyo atha galāvupacitrā ।।
+laghvaṣṭakādyadā gurulaghū bhavatastadā upacitrā nāma । 
+mānaṃ mānini muñca bhaja tvaṃ kāntaṃ yāvaditīritamālyā ।
+tāvadvyoma babhūva purastānnakṣatrairupacitritametat ।।
+
+yadatītakṛtavividhalakṣmayutairmātrāsamakādipādaiḥ kalitam ।aniyatavṛttaparimāṇasahitaṃ prathitaṃ jagatsu pādākulakam ।।
+atītaṃ prāguktaṃ kṛtaṃ lakṣma lakṣaṇaṃ yena tena yutaiḥ sahitaiḥ mātrāsamakaviślokavānavāsikācitropacitrāṇāṃ pādaiścaraṇaiḥ kalitaṃ yuktaṃ aniyatavṛttaparimāṇasahitaṃ aniyatamamaryādaṃ vṛttānāṃ parimāṇaṃ tena sahitam । mātrāsamakādīnāṃ pañcānāmapi pādairyaiḥ kaiścidapi caturbhiḥ pādākulakamiti kathitam । atra mātrāsamakaviślokavānavāsikācitropacitrāṇāmudāharaṇam । yathā । 
+dakṣiṇamārutacalitāśoke kokilakalaravamuditāloke ।
+mugdhe manmathasuhṛdavasante pādākulakaṃ yāti patiste ।।
+
+tathā viślokopacitrādipādairyathā ।
+vātāhatadalapaṅkajanetre asitadukūlācchāditagātre ।
+kathaya sakhi tvaṃ kva nu me vyaktaṃ pādākulakaṃ gacchasi naktam ।।
+
+evamanye api mahākaviprayogā yathā ।
+catvaramaṇḍapatarumūlāni saṃcitasalilānyavakūlāni ।
+kvacidapi na bhavati bhikṣāhāniḥ tatkiṃ kriyate mānamlāniḥ ।।
+
+ante yamaka ityāmnāyaḥ ।।
+
+adhunā gurulaghupramāṇamāha । vṛttasya lo vinā varṇairgā varṇā gurubhistathā । guravo lairdale nityaṃ pramāṇamiti niścitam ।।
+
+yasya kasyacidvṛttasya laḥ kalā mātrā varṇairakṣarairvinā guravo bhavanti । varṇā gurubhistathā tāḥ kalā gurubhirvinā varṇā na bhavanti । guravo rlairdalai nityaṃ tā eva kalā lairlaghubhirvinā dale ardhe kṛte sati guravo bhavanti । asminneva vṛtte ekapaṃcāśatkalāvarṇaiḥ dvātriṃśadbhirvinā ekonaviṃśatiguravoḥ bhavanti । punastā eva mātrā ekonaviṃśatyā gurubhirvinā dvātriṃśadbhavanti । punastā kalā ekapaṃcāśattrayodaśabhirlaghubhirvinā aṣṭatriṃśadbhavanti । tato dale ardhe kṛte sati ekonaviṃśatirguravo bhavantīti pramāṇaṃ niyataṃ vṛttasyeti ।।
+śikhiguṇitadaśalaghuracitamapagatalaghuyugalamaparamidamakhilam ।saguruśakalayugalakamapi suparighaṭitalalitapadaniciti bhavati śikhā ।।
+śikhibhistribhirguṇitairdaśabhirlaghubhī racitaṃ kṛtaṃ tacca tadapagatalaghuyugalaṃ ca tathoktaṃ aṣṭāviṃśallaghukamityarthaḥ । aparaṃ dvitīyamidamardhamakhilaṃ saṃpūrṇaṃ triṃśallaghukamityarthaḥ । śakalayugalakamapi ardhadvayamamapi saguru saha guruṇā vartateti saguru yadā bhavati tadā śikhā nāma bhavati । suparighaṭitāni lalitapadāni teṣāṃ nicitī racanāviśeṣā yatra kriyāviśeṣaṇe tattathoktam । yathā । 
+malayapavanacalitasuvikacavicikalamaliradhivasati muditamanāḥ ।
+śubhitasamayamuditapikayuvatirapi parimalabahulabakulataruśikhā ।।
+
+cūliketi vaktavye । chaṃdobhaṃgabhayācchikhetyuktamekārthatvānna doṣaḥ ।। 
+vinimayavihitaśakalayugalalaghulalitapadavitatiracitagaṇanicayā ।śrutisukhakṛdiyamapi jagati jaśira upagatavati ñi sati bhavati khajā ।।
+saiva śikhā vinimayena vyatyāsena vihitaṃ śakalayugalamardhadvayaṃ lalitapadavitatyā racitagaṇanicayā yadā bhavati tadā khajā nāma । ñi sati । ñi cavargīyapaṃcamasya cavargīyatṛtīyasya śira urdhvavibhāgastasminnupagatavati । ko arthaḥ । yathā । 
+sasalilasaliladharavasumuditaśikhikulaviracitakalakalanikare ।
+suparihṛtanijayuvatigṛhanabhasi hata pathika kathamasi gamā ।।
+
+ekagurūṇi chaṃdasi khañjāśabdasya praveśayitumaśakyatvānnāma noktam ।।
+aṣṭāvardhe gā dvyabhyastā yasyāḥ sā anaṅgakrīḍoktā ।
+dalamapaparamapi vasuguṇitasalilanidhilaghukaviracitapadavitati bhavati ।।
+
+dvābhyāṃ guṇitā aṣṭau guravo yasyāḥ sā ṣoḍaśaguruḥ prathame ardhe tvaparamapyardhaṃ vasubhiraṣṭabhirguṇitāḥ salilanidhilaghava iti dvātriṃśatsaṃkhyā laiḥ racitapadavitatiḥ anaṃgakrīḍā nāma ।
+tyaktānaṅgakrīḍāṃ muktavrīḍāṃ śatrukṣauṇīpālāḥ ।
+suviṣamavanabhuvi vidadhati bhayamiva naravaratilakasuvijitaripunivahā asau ।।
+
+saumyetyeke ।।
+triguṇanavalaghuravasitigururiti dalayugalakṛtatanuratirucirā ।।
+tribhirguṇitārnava laghavo yasyāṃ sā tathoktā saptāviṃśallaghurityarthaḥ । avasitiravasānaṃ tasmin gururyasyāḥ sā tathoktā iti pūrvoktaprakāreṇa saptaviṃśallaghavo ante guruḥ evaṃ dalayugalakṛtatanuḥ viracitaśarīrā atirucirā nāma । yathā । 
+samadagajagatirurukucayugakṛtanatatanuramalavadanakamalā ।
+anavaratamapaharati mama hṛdayamiha hi yuvatiriyamatirucirā ।।
+
+।। iti mātrāsamakaprakaraṇam ।।
+
+iti sulhaṇaviracitāyāṃ sukavihadayānandinyābhidhānāyāṃ vṛttaratnākaracchaṃdovṛttau mātrāvṛttādhyāyo dvitīyaḥ samāptaḥ ।।
+
+tṛtīyo adhyāyaḥ samavṛttādhyāyaḥ
+
+uktāyām 
+g śrīḥ ।।
+ekākṣarāyāṃ jātau eko gururyasya vṛttasya pāde tadvṛttaṃ śrīrnāma । śrīstattailam ।।
+
+atyuktāyām 
+gau strī ।।
+gurudvayaṃ yatra tadvṛttaṃ strī nāma । ādyā sā strī gaurī pāyāt ।।
+
+madhyāyām 
+mo nārī ।।
+yatra magaṇastadvṛttaṃ nārī nāma । śrīnārīgoviṃdau bhūyāstavodbuddhyai ।।
+
+ro mṛgī ।। 
+
+yatra ragaṇastadvṛttaṃ mṛgī nāma । kathyatāṃ yātyasau gītagā hā mṛgī ।।
+
+pratiṣṭhāyām 
+mgau cetkanyā ।।
+cedyadi pāde magaṇagurū bhavataḥ tadvṛttaṃ kanyā nāma । 
+kāmakrīḍārūḍhāyāsā ।
+etāḥ kanyā kīdṛśyāstāḥ ।।
+
+tathā ca ।
+sarveṣāṃ yaḥ sāmānyarddhiḥ ।
+tasyeśasstādbhūyo vṛddhyai ।।
+
+supratiṣṭhāyām 
+bhgau giti paṃktiḥ ।।
+yatra bhagaṇo dvau gurū bhavataḥ tadvṛttaṃ paṃktirnāma bhavati । 
+vyomani nīlāṃ nīradapaṃktim ।
+vīkṣya vipannāḥ proṣitavadhvaḥ ।।
+
+gāyatryām 
+tyau stastanumadhyā ।।
+yatra tagaṇayagaṇau bhavataḥ tadvṛttaṃ tanumadhyā nāma । 
+kasyāpi mahadbhiḥ puṇyairanukūlā ।
+śyāmā tanumadhyā gehe bhavati strī ।।
+
+śaśivadanā nyau ।।
+yatra nagaṇayagaṇau bhavatastadvṛttaṃ śaśivadanā nāma । 
+malayajalepaḥ kuvalayaśayyā ।
+dahati viyoge śaśivadanāyāḥ ।।
+
+tsau cedvasumatī ।।
+cettagaṇasagaṇau pāde bhavataḥ tadvṛttaṃ vasumatī nāma । 
+pṛthvī dhṛtavatī rājñā nayavatā ।
+mudyajjanapadā ślāghyā vasumatī ।।
+
+uṣṇihi
+madhumatinanagāḥ ।।
+nagaṇanagaṇaguravo yatra tadvṛttaṃ madhumatī nāma ।।
+msau gaḥ syānmadalekhā ।।
+magaṇasagaṇau guruśca yatra tadvṛttaṃ madanalekhā nāma । 
+lāvaṇyāmbhasi magne tasyāḥ kāmamahebhe ।
+bhraṣṭeyaṃ stanakumbhādromalīmadalekhā ।।
+
+kumāralalitā jsau g ।।
+jagaṇasagaṇau guruśca yatra tadvṛttaṃ kumāralalitā nāma । 
+kumāralalitāni pramodajananāni ।
+nayābhimudamagryāṃ vilokya namanīkā ।।
+
+saragā haṃsamālā ।।
+yatra sagaṇaragaṇaguravastadvṛttaṃ haṃsamālā nāma । 
+śaradi prekṣya yāntīṃ muditāṃ haṃsamālām ।
+tyajati preyasīṃ kaḥ sukhalipsuḥ svatantraḥ ।।
+
+anuṣṭubhi
+mo mo go go vidyunmālā ।।
+dvau magaṇau dvau gurū ca yatra tadvṛttaṃ vidyunmālā nāma । caturbhiryatiḥ । yathā mamaiva chaṃdasi । mau gau vedairvidyunmālā । vyomni vyāpte taptarekhānākurvantī vaṃgyāṃmānamrāṃ tvāṃ bhartuḥ strīṇāṃ jāgaryakā vidyunmālā ।।
+bhau giti citrapadā gaḥ ।।
+bhagaṇadvayaṃ gurū ca yatra tadvṛttaṃ citrapadā nāma ।
+
+nūpuraśabdamanojñaṃ tālalayānvitagītam ।
+pīnapayodharayugmā nṛtyati vicitrapadeyam ।।
+māṇavakaṃ bhāttalagāḥ ।।
+bhagaṇatagaṇalaghuguravo yatra tadvṛttaṃ māṇavakaṃ nāma । vāñchasi śaṃ cedvipulaṃ tarhi sakhe muñca śaṭha - medhā kiṃ jñāsya ruciṃ mitramapi tvacapalam ।। caturbhiryatirityāmnāyaḥ । māṇavakākrīḍitamiti piṃgalaḥ ।।
+mnau gau haṃsarutametat ।।
+yatra magaṇanagaṇau dvau gurū tadvṛttaṃ haṃsarutaṃ nāma । 
+dṛṣṭvā kāsakusumāni śrutvā haṃsarutametat ।
+kāmārtaḥ śaradi pāntha kaṣṭaṃ jīvati nikṛṣṭaḥ ।।
+
+rjau samānikā galau ca ।।
+ragaṇajagaṇau gurulaghū ca yatra tadvṛttaṃ samānikā nāma । 
+te samānikā ca yānti śatravo bhayena dhīra ।
+rājasaṃpadaṃ vihāya yadyajeyabāhavo api ।।
+
+pramāṇikā jarau lagau ।।
+jagaṇaragaṇau laghugurū yatra tadvṛttaṃ pramāṇikā nāma । 
+pravāti dakṣiṇānilaḥ supuṣpitāmrakiṃśukaḥ ।
+vasaṃta eṣa sāṃprataṃ pramāṇikā atra kokilā ।।
+
+[campakamālā cedbhamasā gaḥ ।।
+bhagaṇamagaṇasagaṇāḥ guruśca yatra tadvṛttaṃ caṃpakamālā nāma] ।।
+[nārācakaṃ tarau lagau ।।
+tagaṇaragaṇau laghugurū ca yatra tadvṛttaṃ nārācakaṃ nāma ।।
+vitānamābhyāṃ yadanyat ।।
+ābhyāṃ samānikāpramāṇikābhyāṃ yadanyadaṣṭākṣaraṃ chandastadvitānaṃ nāma । ābhyāṃ yadanyaditi bruvan sūtrakāro vitānasyānekaprakāratvaṃ darśayati । anyathā gaṇaniyamaṃ brūyāt । 
+jyotsnāvitānamaindavaṃ paśya priye manoramam ।
+kopaṃ tyaja priyaṃ bhaja strīṇāṃ priyaṃ hi yauvanam ।।
+
+anyacca ।
+tasyāḥ smarāmi suṃdaraṃ candropamānamānanam ।
+kaṃdarpacāpabhaṃguraṃ śrutibhramopaśobhitamiti ।।
+
+api ca ।
+kaṃkālamāladhāraṇaṃ kaṃdarpadarpahāriṇam ।
+saṃsārabandhamocanaṃ vaṃdāmahe trilocanam ।।
+
+;anyadato hi vitānami'ti śvetapaṭajayadevena yaduktam ।
+ityanena gatārthatvāt ।।
+
+bṛhatyām 
+rānnasāviha halamukhī ।।
+yatra ragaṇanagaṇasagaṇāstadvṛttaṃ halamukhī nāma । 
+niṃditāṃ vapuṣi puruṣadveṣiṇīṃ viradaśanām ।
+tāṃ sakhe pariṇayavidhau dūratastyaja halamukhīm ।।
+
+bhujagaśiśubhṛtā nau maḥ ।।
+dvau nagaṇau magaṇaśca yatra tadvṛttaṃ bhujagaśiśubhṛtā nāma । saptabhiryatirityāmnāyaḥ । yathā । 
+varatarulavalīvallīkisalayagahanachinnāḥ ।
+bhujagaśiśubhṛtā ramyā malayagirivanoddeśāḥ ।।
+
+paṃktau
+msau jgau śuddhavirāḍidaṃ matam ।।
+magaṇasagaṇajagaṇā guruśca yatra tadvṛttaṃ śuddhavirāṭ nāma । 
+kurvan rājyamapīha saṃtataṃ kāmakrodhavivarjitaḥ sadā ।
+mitro me na samobhayānataḥ satyaṃ śuddhavirāḍasi prabho ।।
+
+mnau ygau ceti paṇava nāmedam ।।
+yatra magaṇanagaṇayagaṇā guruśca yatra tadvṛttaṃ paṇava nāma । yathā । 
+yāsāṃ vakṣyasi ghanavakṣoje hāraḥ saṃprati śuśubhe tāraḥ ।
+pādau nūpuraravavācālau bhrātastāḥ paṇavanitāḥ paśya ।।
+
+rjau ragau mayūrasāriṇī syāt ।।
+ragaṇajagaṇaragaṇā guruśca yatra tadvṛttaṃ mayūrasāriṇī nāma । 
+vistāreṇa barhibhāraramyā barhiṇī mayūrasāraṇīyam ।
+garjitaṃ niśamya vāridānāṃ nṛtyati pramodanirbharāṅgī ।।
+
+bhmau sagayuktau rukmavatīyam ।।
+bhagaṇamagaṇasagaṇā guruśca yatra tadvṛttaṃ rukmavatī nāma । 
+cetasi yasyā jīvitanāthastatpriyakāryāsaktamanaskā ।
+devaguruśvaśrūdvijabhaktā rukmavatī syātkīrtimatī vā ।।
+
+jñeyā mattā mabhasagayuktā ।।
+magaṇabhagaṇasagaṇaguravo yatra tadvṛttaṃ mattā nāma । caturbhiryatirityāmnāyaḥ । yathā । 
+yaccūtāgre smaraśarabaṃdhau baddhāvāsā pikasahavayaḥ ।
+gāyantyetāḥ kalamiti mattāstanmadhye ahaṃ sakhi madhureṣaḥ ।।
+
+narajagairbhavenmanoramā ।।
+yatra nagaṇaragaṇajagaṇaguravo tadvṛttaṃ manoramā nāma । 
+yuvatiriṃdusuṃdarānanā pṛthughanastanī kṛśodarī ।
+gurunitambabhāramaṃtharā harati me mano manoramā ।।
+
+tjau jo guruṇeyamupasthitā ।।
+tagaṇajagaṇau jagaṇo guruśca tadvṛttaṃ upasthitā nāma । atra dvābhyāmaṣṭabhiśca yatirityeke । yathā । 
+tyaktvā nijaśastramupasthitā ye prāṃjalayastava śatravaḥ ।
+teṣāmavanīśvara jīvitaṃ dattaṃ bhavatā samarājire ।।
+
+triṣṭubhi
+syādindravajrā yadi tau jagau gaḥ ।।
+yatra tagaṇau dvau jagaṇo gurū ca tadvṛttaṃ indravajrā nāma । 
+syādindravajrādi karkaśaṃ me
+ceto yadīye virahāgame asmin ।
+nūnaṃ tadānīṃ yadi tadviyoga-
+saṃtāpasaṃyatsahanakṣamaḥ syām ।।
+
+upendravajrā jatajāstato gau ।।
+yatra jagaṇatagaṇajagaṇā dvau gurū ca tadvṛttaṃ upendravajrā nāma । 
+upendravajrādi mahābhighātā
+prayānti nāśaṃ smarato narasya ।
+aharniśaṃ tvāṃ vijitāmareśa
+śrīkṛṣṇa viṣṇorguru me prasādam ।।
+
+anaṃtarodīritalakṣmabhājau pādau yadīyāvupajātayastāḥ ।
+itthaṃ kilānyāsvapi miśritāsu smaranti jātiṣvidameva nāma ।।
+
+na vidyante antaraṃ vyavadhānaṃ yasya tadanaṃtaraṃ udīritamuktaṃ lakṣma lakṣaṇam । bhajata iti yasyāḥ pādau tāvanaṃtarodīritabhājau indravajropendravajrayorityarthaḥ ।
+
+itthamamunā prakāreṇānyāsvapi uktāprabhṛtiṣu jātiṣu miśritāsvidamevopajātiṃ nāma smaranti vadanti chaṃdovidaḥ । 
+vihāya paṃkeruhakānanāni sphārasphuratketakamabhyupāsya ।
+meghāgame asminnupajātisarve bhramantyamī ṣaṭcaraṇā raṇaṃtaḥ ।।
+
+evamanyānyapyudāharaṇāni kumārasambhavādimahākāvyeṣu dṛṣṭavyāni ।
+
+samavṛttādhyāye api prasaṃgādupajātīnāṃ pāṭhā lāghavārthaḥ । eṣāṃ prastāravaśāccaturdaśaprakārā bhavanti । te ca lekhakena pūrvapatre racitāḥ । atra prathamagaṇakṛta eva viśeṣaḥ । jata eva prastāryanto ।
+
+।।
+sāndrapadaṃ bhtau nagagurubhiśca ।।
+bhagaṇatagaṇanagaṇā dvau gurū tatra tadvṛttaṃ sāndrapadaṃ nāma ।।
+najajalagairgaditā sumukhī ।।
+nagaṇajagaṇajagaṇā laghugurū ca yatra tadvṛttaṃ sumukhī nāma । paṃcabhiryatirityāmnāyaḥ । yathā । 
+sutajananī sukulaprabhavā
+mṛduvacanā surate caturā ।
+bhavati gṛhe vipulaiḥ sukṛtaiḥ
+mṛganayanā yuvatiḥ sumukhī ।।
+
+dodhakavṛttamidaṃ bhabhabhādgau ।।
+yatra bhagaṇatrayaṃ dvau gurū ca tadvṛttaṃ dodhakaṃ nāma । 
+yasya narasya bhavediha sākṣādvṛttamadodhakayorapi tulyam ।
+tena samaṃ kathamarthavatāpi premakathāṃ kathayāmi vayasye ।।
+
+śālinyuktā mtau tagau go abdhilokaiḥ ।।
+yatra magaṇatagaṇatagaṇā dvau gurū ca tadvṛttaṃ śālinī nāma । caturbhiḥ saptabhiryatirityāmnāyaḥ । yathā । 
+no jānīte śālinī vārāyāryaprāyeṇeha stādabhedaṃ manuṣyaḥ ।
+so api prema prāpya devīpriyāyāḥ dhuryātmānaṃ vetti vaidagdhabhājām ।।
+
+vātormīyaṃ gaditā mbhau tagau gaḥ ।।
+magaṇabhagaṇatagaṇā gurudvayaṃ yatra tadvṛttaṃ vātormī nāma । atra vakṣyāmaṇasūtre ca viśeṣānabhidhānātprāguktaiva yatiryathā । 
+balādvātormaya ete sanakrāḥ sāmudrāṇāṃ salilānāṃ samūhāḥ ।
+ābrahmādīnapi saṃhṛtya lokān yeṣāmantaḥ sukhaśāyī murāriḥ ।।
+
+mbhau nlau gaḥ syādbhramaravilasitam ।।
+magaṇabhagaṇanagaṇā laghugurū ca yatra tadvṛttaṃ bhramaravilasitaṃ nāma । 
+prācyeva yatiryathā ।
+tyaktvā mānaṃ caraṇavipatitastanmanye ahaṃ priya sakhi niyatam ।
+tvadvaktrābjabhramaravilasitaṃ kartuṃ vāṃchatyayamiha dayitaḥ ।।
+
+pañcarasairśrīrbhatanagagaiḥ syāt ।।
+bhagaṇatagaṇanagaṇā dvau gurū ca yatra tadvṛttaṃ śrīḥ nāma । paṃcabhiḥ ṣaḍbhiryatiryathā । 
+dravyavimohājjalanidhiyānaṃ saṃgarabhūmau tyajati ca deham ।
+kṛtyamakṛtyaṃ gaṇayati naiva śrīrasalubdho dhruvamiha jantuḥ ।।
+
+kuḍmaladaṃtītyeke ।
+ro narāviha rathoddhatā lagau ।।
+yatra ragaṇanagaṇaragaṇā laghugurū ca tadvṛttaṃ rathoddhatā nāma । 
+lagna eva padayorathoddhatānyāyatākṣivacanāni saṃvṛṇu ।
+satravābhiriti yā prabodhitā tāṃ smarāmi nijajīvitauṣadhim ।।
+
+svāgateti ranabhādguruyugmam ।।
+yasya pāde ragaṇanagaṇabhagaṇā gurū ca tadvṛttaṃ svāgatā nāma । 
+sarvalokasukhadāsvapi varṣāsvāgatāsu na sukhī ripuvargaḥ ।
+vindhyavarmanṛpate tava khaḍgabhrāntibhājamacirāmabhivīkṣya ।।
+
+nanasagagururacitā vṛntā ।।
+dvau nagaṇau sagaṇo gurudvayaṃ yasya pāde tadvṛttaṃ vṛntā nāma । atra maṇḍūkaplutanyāyena śālinyukteti sūtrādabdhilokairiti padamanuvartate । tena hi caturbhiryatiḥ । 
+madhukaracaraṇabharākrāntaṃ patha tadiha kusumamidaṃ vṛntāt ।
+kathayati viṣayaviyuktānāṃ vidhipariṇatimiva lokānām ।।
+
+nanaralagurubhiśca bhadrikā ।।
+dvau nagaṇau ragaṇo laghugurū ca yatra tadvṛttaṃ bhadrikā nāma । 
+vividhaparakathāpragalbhavāgativiralavisaṃsthuladvijā ।
+kapilacikurasaṃcayā kṛśā na bhavati vanitā prabhadrikā ।।
+
+śyenikā rajau ralau gururyadā ।।
+raganajagaṇaragaṇā laghugurū ca yatra tadvṛttaṃ śyenikā nāma । 
+śyenikāśṛgālasaṃkule raṇe viṃdhyavarmadeva ye tvayā hatāḥ ।
+śatravasta eva tārakāśrayaṃ tanvate vimānagāḥ surāvṛtāḥ ।।
+
+upasthitamidaṃ jsau tādgakārau ।।
+jagaṇasagaṇatagaṇā dvau gurū ca yatra tadvṛttaṃ upasthitaṃ nāma । 
+upasthitamanekāścetakī culukyanṛpateḥ sainyaṃ viśālam ।
+avantipriya nihitvā na ko api dhruvaṃ kṣititale jetuṃ samarthaḥ ।।
+
+śikhaṇḍitamidaṃ jsau tgau guruścet ।।
+jagaṇasagaṇau tagaṇagurū guruścettadvṛttaṃ śikhaṇḍitaṃ nāma । 
+mauktikamālā bhavedbhabhtalagāḥ ।।
+bhagaṇabhagaṇatagaṇalaghuguravo yatra bhavettadvṛttaṃ mauktikamālā nāma ।।
+jagatyām ।candravartma gaditaṃ tu ranabhasaiḥ ।।
+yatra ragaṇanagaṇabhagaṇasagaṇā bhavanti tadvṛttaṃ candravartma gaditam । 
+cakṣuṣī parivimṛśya karayugāt krāntaharyapariśobhitavadanā ।
+candravartma kathayetyativivaśā kāṃtamevamavadanniśi vanitā ।।
+
+jatau tu vaṃśasthamudīritaṃ jarau ।।
+yatra jagaṇatagaṇajagaṇaragaṇāstadvṛttaṃ vaṃśasthaṃ nāma । 
+svaveśmavaṃśasthamudīkṣya vāyasaṃ priyāgamāsaṃśinamuttameṃgitaiḥ ।
+jagāda kācinmuditā samāgate priye pradāsyāmi tavepsitaṃ khaga ।।
+
+syādindravaṃśā tatajaiḥ rasaṃyutaiḥ ।।
+yatra dvau tagaṇau jagaṇaragaṇau tadvṛttaṃ indravaṃśā nāma yathā । 
+ādīndravaṃśāddivamastabhūruhapracchāditānekaguhā gṛho api san ।
+dhārādhināthasya bhayena vidrutān bhūgopturiṣṭānna bhavāmi neśvaraḥ ।।
+
+iha toṭakamambudhisaiḥ prathitam ।।
+yatra catvāri sagaṇāstadvṛttaṃ toṭakaṃ nāma । 
+tyaja mānamamānamanaṃtaguṇaṃ kuru vākyamidaṃ pariṇāmahitam ।
+tvayi toṭakajāyatanetrayuge tvaritaṃ dayitāṃtikamindumukhi ।।
+
+drutavilambitamāha nabhau bharau ।।
+nagaṇabhagaṇau bhagaṇaragaṇau yatra tadvṛttaṃ drutavilambitaṃ nāma । 
+drutavilambitagena tavāriṇā kvacidapi sthirabhāvamavindatā ।
+gurunitambabharālasagāminī pratipadaṃ svavadhūrnṛpa nindyate ।।
+
+vasuyugaviratirnau myau puṭo ayam ।।
+dvau nagaṇau magaṇayagaṇau yatra tadvṛttaṃ puṭo nāma । vasubhiraṣṭabhiryugaiścaturbhiryatiḥ । 
+api caraṇanato ahaṃ tatprasīda tyaja sarasijanetre maunamudrām ।
+vacanamamṛtakalpaṃ śrotukāmā śravaṇapuṭanipeyaṃ sarvadā te ।।
+
+pramuditavadanā bhavennau rarau ।।
+dvau nagaṇau dvau ragaṇau yatra tadvṛttaṃ pramuditavadanā nāma । 
+gurukucayugalāṃ viśaṃlakṣaṇāṃ vikaṭakaṭitaṭāṃ manojñāṃ sadā ।
+vividhasuratikelidakṣāmahaṃ pramuditavadanāṃ smarāmi priyām ।।
+
+caturjagaṇaṃ vada mauktikadāma ।।nayasahitau nyau kusumavicitrā ।।
+nagaṇayagaṇau punarnagaṇayagaṇau yatra tadvṛttaṃ kusumavicitrā nāma । ṣaḍbhiryatirityupadeśaḥ । 
+yathā ।
+parihṛtaroṣā kṛtabahuveṣā saha nijabhartā taruṇi vasaṃte ।
+pramuditapuṃskokila iva ramyāṃ vraja vanarājiṃ kusumavicitrām ।।
+
+rasairjasajasā jaloddhatagatiḥ ।।
+yatra jagaṇasagaṇajagaṇā sagaṇaśca tadvṛttaṃ jaloddhatagatirnāma । 
+atītya sarito jaloddhatagatīranekagahanā kulānapi girīn ।
+samudrataramāśritā ripunṛpāḥ sukhaṃ na niśi śerate tava bhayāt ।।
+
+bhujaṃgaprayātaṃ bhavedyaiścaturbhiḥ ।।
+catvāro yagaṇā yatra tadvṛttaṃ bhujaṃgaprayātaṃ nāma । 
+vidagdhāṃganālocanānandakārī sakhi svecchayā vīkṣituṃ prāṇanāthaḥ ।
+mayā naiva labdho hata grāmamārge bhujaṃgaprayātānukāriṇyamuṣṇig ।।
+
+raiścaturbhiryutā sragviṇī saṃmatā ।।
+catvāro ragaṇā yasya pāde tadvṛttaṃ sragviṇī nāma । 
+padmapatrāyatākṣī śaśāṃkānanā kuṃkumodvartitāṃgī ghanoccastanī ।
+aṃgahārairanekaprakārairyutā nṛtyati strī sakhe sragviṇī suṃdarā ।।
+
+bhuvi bhavennabhajaraiḥ priyaṃvadā ।।
+nagaṇabhagaṇajagaṇaragaṇā yatra tadvṛttaṃ priyaṃvadā nāma । 
+gurupayodharavatī sumadhyamā vipulapuṇyanicayaiḥ svaveśmani ।
+bhavati pārvaṇaśaśāṃkasuṃdarānanavatī priyatamā priyaṃvadā ।।
+
+tyau tyau maṇimālā chinnā guhavaktraiḥ ।।
+tagaṇayagaṇatagaṇayagaṇā yatra tadvṛttaṃ maṇimālā nāma । yathā । 
+mātaḥ surasindho trailokyapavitre paśyāmi kadā te pāpāpahamambhaḥ ।
+caṃcanmaṇimālālaṃkāramaṇīnāṃ tyaktvā vanitānāṃ saṃgaṃ viṣatulyam ।।
+
+dhīrairabhāṇi lalitā tabhau jarau ।।
+yatra tagaṇabhagaṇajagaṇaragaṇāstadvṛttaṃ lalitā nāma । 
+pīnonnatastanabharoparisphuraddhārāvalīsubhagamāyatekṣaṇā ।
+nṛtyatyasau sulalitaṃ hi nūpurādhvānaprabodhitamanobhavā vadhūḥ ।।
+
+pramitākṣarā sajasasairuditā ।।
+sagaṇajagaṇau sagaṇau yatra tadvṛttaṃ pramitākṣarā nāma । 
+caraṇānatiṃ gatavati prasabhaṃ dayite nitāṃtasubhage subhage ।
+paruṣāṇi saṃtyaja vacāṃsi sakhi pramitākṣarā bhava śaśāṃkamukhi ।।
+
+nanabharasahitā abhihitojjvalā ।।
+dvau nagaṇau bhagaṇaragaṇau ca yatra tadvṛttaṃ ujjvalā nāma । 
+iha śaradi bhavantyukāśayā vimalataraśaśāṃkakarojjvalā ।
+vidadhati gamanaṃ vijayārthinaḥ pratidivasamavanīpatayaḥ svayam ।।
+
+pañcāśvaiśchinnā vaiśvadevī mamau yau ।।
+dvau magaṇau dvau yagaṇau ca yatra tadvṛttaṃ vaiśvadevī nāma । pañcabhiḥ saptabhiryatiḥ । yathā । 
+vaśyātmā nityasnānaśīlo mahātmā mitre śatrau vā tulyacittapravṛttiḥ ।
+śraddhāsaṃpanno vaiśvadevī ca loke sa svargastrīṇāṃ vallabhaḥ syātsadaiva ।।
+
+abdhyaṃgaiḥ syājjaladharamālā mbhau smau ।।
+magaṇabhagaṇasagaṇamagaṇā yatra tadvṛttaṃ jaladharamālā nāma । caturbhiraṣṭabhiśca yatiḥ । yathā । 
+satyākāśe jaladharamālāvyāpte nīpāmode prasarati jhaṃjhāvāte ।
+varṣākāle muditamayūravrāte tyaktvā kāntāṃ vrajasi kathaṃ pātha tvam ।।
+
+iha navamālinī najaparau bhyau ।।
+nagaṇajagaṇabhagaṇayagaṇā yatra tadvṛttaṃ navamālinī nāma । ihetyavagrahaṇādabdhyaṃgairiti padavirītatayā vipariṇamati tenāṣṭabhiḥ caturbhiryathā । 
+tava niśitāsighātadalitā riddhipadakumbhamauktikasamūhaiḥ ।
+kṛtanavamālinīva bhajati tvāṃ prati smaraṃ narendra jayalakṣmīḥ ।।
+
+svaraśaraviratirnau rau prabhā nāma ।।bhavati najāvatha mālatī jarau ।।
+nagaṇajagaṇau jagaṇaragaṇau yatra tadvṛttaṃ mālatī nāma । 
+bhramarayuvā bhramatīha mālatītarutalamapyapahāya ketakīm ।
+yuvatijanena gṛhīta nāma kaḥ kathamapi na pratibodhametyasau ।।
+
+varatanurityeke ।
+jarau jarau vadanti pañcacāmaram ।।iti vada tāmarasaṃ najajādyaḥ ।।
+nagaṇajagaṇau jagaṇayagaṇau yatra tadvṛttaṃ tāmarasamiti vada śikṣamiti śeṣaḥ । 
+mṛdutaratāmarasāruṇapādavraṇatitivisravadasrajalaughāḥ ।
+vidadhati parva tirodhasi yānaṃ karapihitoccakru vā ripuvadhaḥ ।।
+
+atijagatyām ।
+turagarasayatirnau tatau gaḥ kṣamā ।।
+yatra dvau nagaṇau dvau tagaṇau guruśca tadvṛttaṃ kṣamā nāma । saptabhiḥ ṣaḍbhiśca yatiḥ । 
+cakitamṛgadṛśā nekṣito līlayā trivalitavadanaśrīcayāhaṃ muhuḥ ।
+na ca surataṭinī na kṣamā cāśritā gatamidamadhunā jīvitaṃ me vṛthā ।।
+
+mnau jrau gastridaśayatiḥ praharṣiṇīyam ।।
+magaṇanagaṇajagaṇaragaṇaguravo yatra tadvṛttaṃ praharṣiṇī nāma । tribhirdaśabhiryatiḥ । yathā । 
+lolākṣī vipulanitambabaddhakāñcī pīnoccastanayugalā suromarājiḥ ।
+nṛtyantī sulalitamaṃgahāraramyaṃ vārastrī gamanalasatpraharṣiṇīyam ।।
+
+[pāṭhāntaram caturgrahairiha rucirā jabhau syau gaḥ ।।]
+caturgrahairiha rucirā jabhau sjagāḥ ।।
+jagaṇabhagaṇasagaṇajagaṇā guruśca yatra tadvṛttaṃ rucirā nāma । 
+samīhate ya iha parāpadāpadaṃ viyaccharittaṭaruciroṭajālayaḥ ।
+mṛgīdṛśo vadanasarojadarśanaṃ na tasya tatpramadakaraṃ kavat ।।
+
+vedai randhrairmtau yasagā mattamayūram ।।
+yatra magaṇatagaṇayagaṇasagaṇaguravastadvṛttaṃ mattamayūram । caturbhirnavabhiryatiḥ । yathā । 
+cañcaṃ cūtaṃ puṣpitakaṃ kellitarūbhiḥ krīḍatkroḍaṃ saṃcaradunmattamṛgodham ।
+snigdhacchāyaṃ vāritatāpaṃ tarukhaṇḍaiḥ mādyadbhṛṃgaṃ mattamayūraṃ vanametat ।।
+
+[pāṭhāntaram najasajagairbhavati mañjubhāṣiṇī ।।]
+sajasā jagau bhavati mañjubhāṣiṇī ।।
+yasya pāde sagaṇajagaṇasagaṇajagaṇā guruśca tadvṛttaṃ mañjubhāṣiṇī nāma । 
+smara suṃdarākṛtimanekavallabhaṃ caraṇapraṇāmanatamīpsitaṃ patim ।
+paruṣoktibhiḥ kimiti khedayasyamu sakhi vallabhā bhavati mañjubhāṣiṇī ।।
+
+iha naṃdinī sajasasairguruyuktaiḥ ।।saśca jaśca saśca saśca taiḥ sagurubhirnandinī ।।nanataragurubhiścandrikā caturbhiḥ ।।
+dvau nagaṇau tagaṇaragaṇau guruśca yatra tadvṛttaṃ candrikā nāma । caturbhiryatiryathā । 
+vitarati kumudānāṃ śriyaṃ samagrāṃ tama iva vanitānāṃ bhinatti mānam ।
+tatamapi bhuvanaṃ candrikā bhuvasthādhavalitamiva cakre śaranniśāsu ।।
+
+aṣṭabhiryatirityeke ।।
+śakvaryām 
+mtau nsau gāvakṣagrahaviratirasaṃbādhā ।।
+magaṇatagaṇanagaṇasagaṇā dvau gurū ca yatra tadvṛttaṃ asaṃbādhā nāma । akṣairindriyaiḥ pañcabhirgrahairnavabhiśca yatiḥ । yathā । 
+yāvadgaccheyaṃdayitavihitasaṃketasthānasyābhyāṃ saṅkṛtanivṛtatulākoṭiḥ ।
+tāvaccakre agre drutamudayamayaṃ vairī bhitvā saṃbaṃdhānyapi sakhi timirāṇīnduḥ ।।
+
+nanarasalaghugaiḥ svarairaparājitā ।।
+dvau nagaṇau ragaṇasagaṇalaghuguravo yatra tadvṛttaṃ aparājitā nāma । yathā । 
+turagarajavatīṃ tulārkamahīpateritaranṛpaśataiścamūmaparājitām ।
+jayati vijayidoryugaikasahāyavānavanipatirasau pramārakulodbhavaḥ ।।
+
+nanabhanalagiti praharaṇakalikā ।।
+nagaṇau bhagaṇanagaṇalaghuguravaśca yatra tadvṛttaṃ praharaṇakalikā nāma । iti śabdasyāvyayasya grahaṇātsaiva yatiḥ । yathā । 
+raṇabhuvi bhavatā praharaṇakalitā parahṛtavanitāstava nṛpa ripavaḥ ।
+vidadhati śayanaṃ kṛtatṛṇaśayanā vanabhuvi satataṃ bhayacakitahṛdaḥ ।।
+
+uktā vasaṃtatilakā tabhajā jagau gaḥ ।।
+tagaṇabhagaṇau dvau jagaṇau dvau gurū ca yasya pāde tadvṛttaṃ vasaṃtatilakā nāma । 
+bhrātarvasaṃtatilakānatimuktakaṃ ca saṃdaśyate atra kimu matparamastvametat ।
+nā ahaṃ sa yo abhavadanekavidhotsavaśrīḥ saṃpratyasatyavirahaikagṛhaṃ priyāyāḥ ।।
+
+siṃhoddhateyamuditā munikāśyapena ।।
+iyameva vasaṃtatilakā kaśyapasyācāryasya matena siṃhoddhatā nāma । 
+unnidrapadmavadanaḥ subhago aṅganānāmāraktapādatalapāṇīradīnasattvaḥ ।
+siṃhoddhatā samagalaḥ suviśālavakṣāḥ syādīdṛśo narapatiḥ puruṣaḥ pṛthivyāḥ ।।
+
+uddharṣiṇī nigaditā munisaitavena ।।
+saiva vasaṃtatilakā saitavamuninā uddharṣiṇī nigaditā uktā । 
+saṃvatsare rasapayonidhisūryasaṃkhyaiḥ śrīvikramānnarapate racitā mameyam ।
+uktā sanāmabhirudāharaṇyairudārairuddharṣiṇī bhavatu cetasi satkavīnām ।।
+
+gomena saivamuditā madhumādhavīti ।।vasaṃtatilakāmityeke ।।induvadanā bhajasanaiḥ saguruyugmaiḥ ।।
+bhagaṇajagaṇasagaṇanagaṇā dvau gurū ca yasya pāde tadvṛttaminduvadanā nāma । 
+mārutavaśapracalitotpaladalākṣaṃ śobhanalalāṭataṭamadhyakṛtapuṇḍram ।
+re pathika saṃprati madhau madanabandhau saṃsmarasi tadvadanaminduvadanāyāḥ ।।
+
+dviḥ saptacchidalolā msau mbhau gau caraṇe cet ।।
+yasya caraṇe pāde magaṇasagaṇamagaṇabhagaṇā dvau gurū tadvṛttaṃ alolā nāma । yathā । 
+yo deva dvijabhaktaḥ saṃsāreṣu viraktaḥ śrautasmārtavidhīnāṃ kartā tyaktavikalpaḥ ।
+maitraḥ kāruṇikātmā krodhāmarṣavimuktastasya śrībhuvane syāllolā nūnamalolā ।।
+
+atiśakvaryām ।dvihatahayalaghuratha giti śaśikalā ।।
+dvihatahayalaghurityarthaḥ guruśca bhavati yasya caraṇe tadvṛttaṃ śaśikalā nāma । saptabhiraṣṭabhiryatiḥ । pāriśeṣyādyathā । 
+kusumaśaratanudahanaśirasi jaṭāmukuṭataṭamaṇiramalakiraṇā ।
+tava bhavatu sukhakṛdayamiha satataṃ pravipadi sunabhasi vasati śaśikalā ।।
+
+sragiti bhavati rasanavakayatiriyam ।।
+ṣaḍbhirnavabhiśca yadā yatirbhavati tadā sragiti nāma । māleti vaktavye chaṃdobhaṃgabhayāt sragityuktam । ekārthatvānna doṣaḥ । 
+ghanaparimalamilitamadhupanicayā sragiyamurasi tava śaśimukhi śuśubhe ।
+kaṭakayugalamapi kalaravasubhagaṃ śriyamidamiha janayati sucaraṇayā ।।
+
+vasuhayayatiriti maṇiguṇanikaraḥ ।।
+iyameva śaśikalā vasvaṣṭabhirhayaiḥ saptabhiryadā maṇiguṇanikaraḥ nāma । parajanahitakaravaradhanakalitaḥ suvacanakṛtavarajanasukhanivahaḥ । bhavabhuvi bhavakṛtavarataramahimā sa bhavati naravara maṇiguṇanikaraḥ ।। 
+nanamayayayuteyaṃ mālinī bhogilokaiḥ ।।
+dvau nagaṇau magaṇo dvau yagaṇau yasya tadvṛttaṃ mālinī nāma । aṣṭabhiḥ saptabhiryatiḥ । 
+navajaladharamālāmālinīṃ tāṃ vilokya
+nijadayitaviyogaprāntabhāvaṃ nibodham ।
+na na khalu jaladharāṇāṃ nādamākarṇya kaści-
+dbhavati śithilabuddhirveśma gantuṃ pravāsī ।।
+
+bhavati najau bhajau rasahitau prabhadrakam ।।
+yasya pāde nagaṇajagaṇabhagaṇajagaṇaragaṇāstadvṛttaṃ prabhadrakaṃ nāma । 
+alabhata duścareṇa tapasā himādrijā
+yamiha patiṃ patiṃ trijagatāṃ maheśvaram ।
+pavanasamuddhutāmaliśikhāhutasmaro
+diśatu satāṃ sadaiva savi suprabhadrakam ।।
+
+sajanā nayau śaradaśakaviratirelā ।।
+sagaṇajagaṇanagaṇanagaṇayagaṇā yatra tadvṛttamelā nāma । paṃcabhirdaśabhiryatiḥ । yathā । 
+varacaṃdanadrumakiśalayamaricailā-
+lavalīlatāprabhṛtivanamiha dhunvan ।
+malayānilaḥ sapadi vidalitaprayukta-
+pramadājanaḥ prasaritapatibandhuḥ ।।
+
+mrau myau yāntau bhavetāṃ saptāṣṭabhiścandralekhā ।।
+yasya pāde magaṇaragaṇamagaṇā dvau yagaṇau tadvṛttaṃ candralekhā nāma । saptabhiraṣṭabhiryatiḥ । yathā । 
+vibhrāntiścandralekhāṃ cūḍāmaṇisthānabhṛttāṃ
+yastārtīyaṃ ca netraṃ jājvalyamānaṃ lalāṭe ।
+kaṇṭhe yasyāsthimālā bhasmāṃgarāgaḥ śarīre
+kalpāṃtāṃ vaḥ sa daśyāttrailokyanātho girīśaḥ ।।
+
+aṣṭau
+bhratrinagaiḥ rasāt khamṛṣabhajagavilasitam ।।
+bhagaṇaragaṇau trayo nagaṇā guruśca yatra tadvṛttaṃ ṛṣabhagajavilasitaṃ nāma । 
+yatra catuṣpatheṣu vividhayuvatijanatā
+sāmamanorameṣu tava ripuvaranagare ।
+tvadbhujavikrameṇa nṛpativara vijayati
+saṃprati tatra vanyamṛṣabhagajavilasitam ।।
+
+najabhajaraiḥ sadā bhavati vāṇinī gayuktaiḥ ।।
+nagaṇajagaṇabhagaṇajagaṇaragaṇā guravo yatra tadvṛttaṃ vāṇinī nāma । 
+cakitamṛgekṣaṇā gurunitambabaddhakāñcī
+guṇakalakiṃkiṇīravavibodhāsameṣuḥ ।
+janayati vāṇinī caturavākyapaṇḍiteyaṃ
+mudamadhikāṃ sakhe manasi karoti dṛṣṭā ।।
+
+atyaṣṭau
+rasaiḥ rudraiśchinnā yamanasabhalā gaḥ śikhariṇī ।।
+yagaṇamagaṇanagaṇasagaṇabhagaṇā laghugurū ca yatra tadvṛttaṃ śikhariṇī nāma । ṣaḍbhirekādaśabhiryatiḥ । 
+śaśāṃkāsyā caṃcatkuvalayadalaspardhinayanā
+salīlaṃ gacchaṃtī gurujaghanabhārālasagatiḥ ।
+iyaṃ pīnottuṃgastanaśikhariṇī vāravanitā
+kaṭākṣairvikṣobhaṃ janayati munīnāmapi hṛdi ।।
+
+jasau jasayalā vasugrahayatiśca pṛthvī guruḥ ।।
+jagaṇasagaṇajagaṇasagaṇayagaṇalaghuguravo yatra tadvṛttaṃ pṛthvī nāma । 
+kimityayamasaṃskṛtastava sukeśi keśoccayaḥ
+kimityuta sumekhalāvirahitā ca pṛthvī kaṭiḥ ।
+tadehi kuru maṇḍanaṃ tyaja ruṣaṃ vasaṃtotsave
+yataḥ sutanu pañcaṣairapi dinairvayo yāsyati ।।
+
+diṅmuni vaṃśapatrapatitaṃ bharanabhanalagaiḥ ।।
+bhagaṇaragaṇanagaṇabhagaṇanagaṇalaghuguravo yatra tadvṛttaṃ vaṃśapatrapatitaṃ nāma । daśabhiḥ saptabhiryatiḥ । yathā । 
+naiva vidustṛṣāturadhiyastava ripunagare
+maṃdiradīrghikāsu salilaṃ savidhamapi mṛgāḥ ।
+ambujavaṃśapatrapatitadrumadalanikaraiḥ
+chāditamātape tu mahati kṣitipati talakā ।।
+
+rasayugahayairnsau mrau slau go yadā hariṇī tadā ।।
+nagaṇasagaṇau magaṇaragaṇau sagaṇalaghuguravo yatra tadvṛttaṃ hariṇī nāma । ṣaḍbhiḥ caturbhiryatiḥ । yathā । 
+vadanamamalaṃ dhatte śobhāṃ śaśāṃkasamāśritāṃ
+śravaṇayugalaṃ dolālīlāṃ tanoti manobhuvaḥ ।
+stanaparisare hāraḥ sphāraḥ sphuratyatinirmalaḥ
+kimiha na cettasyāhāri dhruvaṃ hariṇīdṛśaḥ ।।
+
+ṛṣabhacaritamityeke ।।
+mandākrāntā jaladhiṣaḍagaiḥ mbhau natau tādgurū cet ।।
+magaṇabhagaṇanagaṇā dvau tagaṇau dvau gurū ca yasya pāde tadvṛttaṃ mandākrāntā nāma । caturbhiḥ ṣaḍbhiścedyatirbhavati । yathā । 
+mandākrāntādharakisalayā pāṇipadmaṃ dhunānā
+gāḍhāśleṣapraṇayiśithilā vepamānāṃgayaṣṭiḥ ।
+svidyadvaktrā pulakitatanuḥ kiṃcidāmīlitākṣī
+cetaḥprītiṃ janayati bhṛśaṃ nūtanoḍhā vivoḍhā ।।
+
+yadi bhavato najau bhajajalā gururnarkuṭakam ।।
+naganajagaṇabhagaṇā dvau jagaṇau laghugurū aha tadvṛttaṃ narkuṭakaṃ nāma । yathā । 
+surabhisamāgame virahiṇījanaśokakare
+kṛtabahumaṇḍanā tvamatibhāmani madvacanaiḥ ।
+nijadayitāṃtikaṃ yadi na yāsi gataṃ tadaho
+avitathavākyakauśalamidaṃ mama niṣphalatām ।।
+
+muniguhakārṇavaiḥ kṛtayatiṃ vada kokilakam ।।
+narkuṭakameva saptabhiḥ guhakaiḥ kārtikeyaśirobhiḥ ṣaḍbhiścaturbhiḥ kṛtayatiṃ tadvṛttaṃ vada kokilakaṃ he śiṣyeti viśeṣaḥ । 
+madanamahotsave muditakokilakāntarave
+na bhajati yā priyaṃ praṇayasundaramindumukhi ।
+dhruvamiha sābalā svayamaharniśameva bhṛśaṃ
+sakhi paritapyate gurumanobhavatāpavatī ।।
+
+dhṛtau
+syādbāṇartvaśvaiḥ kusumitalatāvellitā mtau nayau yau ।।
+magaṇatagaṇau nagaṇastrayo yagaṇā yatra tadvṛttaṃ kusumitalatāvellitā nāma । paṃcabhiḥ ṣaḍbhiḥ saptabhiryatiḥ । yathā । 
+udyānābjānāṃ prakaradhunanāvāsasaurabhyasaṃpat
+kaṃkolailānāṃ kusumitalatāvellitānyaḥ punānaḥ ।
+āgastyo vāyurdivi suratāyāsayātāṃganānāṃ
+svedāmbhobindūnharati punarapyādiśansaṃgamecchām ।।
+
+atidhṛtyām 
+rasartvaśvairymau nsau raraguruyutā meghavisphūrjitaṃ syāt ।।
+yagaṇamagaṇanagaṇasagaṇā dvau ragaṇau guruśca yasya pāde tadvṛttaṃ meghavisphūrjitaṃ nāma । ṣaḍbhiḥ ṣaḍbhiḥ saptabhiryatiḥ । yathā । 
+samāyātaḥ svairaṃ kuṭajakusumāmodavāhī samīraḥ
+śrutaṃ dhairyaṃ dhvaṃsi prasabhamadhunā meghavisphūrjitaṃ ca ।
+viyoge sadbhartuḥ nijalavaṇimā adhaḥkṛtasvaṃtijasya
+prayāntī me prāṇā kuliśakaṭhinā meghanāśaṃ tathāpi ।।
+
+sūryāśvairmasajastatāḥ saguravaḥ śārdūlavikrīḍitam ।।
+magaṇasagaṇajagaṇasagaṇā dvau tagaṇau gururyasya pāde tadvṛttaṃ śārdūlavikrīḍitaṃ nāma । dvādaśabhiḥ saptabhiryatiḥ । yathā । 
+śrīkhaṇḍācalakaṃdarātsarabhasaṃ nirgatya sāṃdraṃ drumāṃ-
+ścaṃcaccampakacārukesarabharaṃ dhanvanmuhurlīlayā ।
+itthaṃ vibhradayaṃ vasantapavanaḥ śārdūlavikrīḍitam
+strīṇāṃ mānagajaṃ haniṣyati haṭhāt mānotkaṭānāmapi ।।
+
+[kṛtau]
+jñeyā saptāśvaṣaḍbhirmarabhanayayuto bhlau gaḥ suvadanā ।।
+yasya vṛttasya pāde magaṇaragaṇabhagaṇanagaṇayagaṇabhagaṇalaghugurustadvṛttaṃ suvadanā nāma । saptabhiḥ saptabhiḥ ṣaṣṭhaśca yatiḥ । 
+rambhāstambhopamoruḥ sugurughanakucā sāraṃganayanā
+madhyakṣāmā suromāvaliramalamadaṃtā candravadanā ।
+hṛtsthaṃ bhāvaṃ kaṭākṣairnijamiva kathayatyeṣā suvadanā
+yūnāṃ cetāṃsi sadyo madayati yuvatiśchekoktikuśalā ।।
+
+trī rajau galau bhavedihedṛśena lakṣaṇena vṛttanāma ।।
+trīnvārānragaṇajagaṇau gurulaghū yasya pāde tadvṛttaṃ vṛttanāma vṛttābhidhānamityarthaḥ । 
+saṃpadāptisambhavo madaḥ kadācideva mānase nagasya
+na pramāṇavidyayā paraprameyajālabhaṃgadakṣayā api ।
+nāpyarūparūpayā parāṃganābhimarśano rasaḥ kadāpi
+tasya vṛttamīdṛśaṃ śirobhiruhyate narairato vicāryaḥ ।।
+
+prakṛtau
+mrabhnairyānāṃ trayeṇa trimuniyatiyutā sragdharā kīrtiteyam ।।
+magaṇaragaṇabhagaṇanagaṇā yagaṇatrayaṃ yasya pāde tadvṛttaṃ sragdharā nāma । vāratrayaṃ saptabhiryatiḥ । yāsāmunnidrapadmadyutimukhamamalaṃ sphāravisphāritākṣam cañcatkāñcīguṇena sphuradurumaṇinā a; avartalakṣmīṃ vitanvat । 
+cetaḥprītiṃ narāṇāṃ vidadhati vilasannābhimadhyapradeśā
+gacchantyo
+rājamārge vikacavicakilasragdharā rājavadhvaḥ ।।
+
+ākṛtau
+bhrau naranā ranāvatha gururdigarkaviramaṃ hi madrakamidam ।।
+bhagaṇaragaṇanagaṇā ragaṇanagaṇaragaṇanagaṇaguravo yasya pāde tadvṛttaṃ madrakaṃ nāma । daśabhirdvādaśabhiryatiḥ । yathā । 
+tvatkathitairalīkavacanaiḥ karomi kathamasya kopamasamam
+yasya na vipriyaṃ sakhi mayā śrutaṃ na ca nirīkṣitaṃ kathamapi ।
+madrakarairayaṃ priyatamaḥ karoti vacanairmanaḥ samadanam
+pāśyavimuktajālamadhunā mamāṅdhriyugale luṭhatyapi bhṛśam ।।
+
+vikṛtau
+yadiha najau bhajau bhjabhalagāstadāśvalalitaṃ harārkayatimat ।।
+yasya pāde nagaṇajagaṇau bhagaṇajagaṇabhagaṇajagaṇabhagaṇalaghuguravo bhavanti tadvṛttaṃ aśvalalitaṃ nāma । ekādaśabhirdvādaśabhiryatiḥ । yathā । 
+samaravinirjitārinivahakṣitīśvaravicitramaśvalalitam
+hṛdayacamatkṛtipradamidaṃ vilokya bhavato vadanti kavayaḥ ।
+dhruvamurarīcakāra nṛpaterdivaspatirimaṃ turaṃgamavaraṃ
+bahutaramanyathā na viyati krathairiha vivelate atibahulaiḥ ।।
+
+mattākrīḍaṃ mau tnau nau nlau giti bhavati vasuśaradaśayatiyutam ।।
+yasya pāde dvau magaṇau tagaṇanagaṇau dvau nagaṇau nagaṇalaghuguravastadvṛttaṃ mattākrīḍaṃ nāma । aṣṭabhiḥ pañcabhi daśabhiśca yatiḥ । yathā ।
+
+dṛṣṭvā cāndraṃ bimbaṃ rātrau karanikaravinihitatimiranikaram
+gāyanti sma svairaṃ yasminsuvikasitakusumavati madhusamaye ।
+paurā baddhāstasmin saṃpratyavanipatitilaka tava nagare
+mattākrīḍātisvacchandaṃ vigatabhayabhavabhamitamṛganivahāḥ ।।
+
+saṃkṛtau
+bhūtamunīnairyatiriha bhatanāḥ sbhau bhanayāśca yadi bhavati tanvī ।।
+bhagaṇatagaṇanagaṇasagaṇā dvau bhagaṇau nagaṇayagaṇau yasya pāde tadvṛttaṃ tanvī nāma । paṃcabhiḥ saptabhirādityaiśca yatiḥ । yathā । 
+yā mukhapadmaṃ śaśadharasadṛśaṃ sundaralolanayanamatiramyam
+subhru bibharti tribhuvanajayino vāsanivāsamiva makaraketoḥ ।
+pīnanitambā gurukucayugalā vṛttasukomalabhujakarayugmā
+sā mama citte janayati yuvatī harṣamanalpamiyamiha sutanvī ।।
+
+atikṛtau
+krauñcapadā bhmau sbhau nananā ngī iṣuśaravasumuniviratiriha bhavet ।।
+bhagaṇamagaṇasagaṇabhagaṇāścatvāro nagaṇā guruśca yasya pāde tadvṛttaṃ krauñcapadā nāma । pañcabhiraṣṭabhiḥ saptabhiśca yatiḥ । yathā ।
+
+krauñcapadā yā romaśagātrī vikaṭadaśanataniratiparuṣatanuḥ
+piṃgaladṛṣṭiḥ sūkṣmanitambā kapilakacanicayaviṣamakucayugā ।
+yā ca hasantī locanavāri prakaṭayati rahasi nijapativimukhī
+muñca sakhe tāmiṣṭatamaṃ ceccirataramiha tava cara viṣayasukham ।।
+
+utkṛtau
+vasvīśāśvacchedopetaṃ mamatanayuganarasalagairbhujaṃgavijṛmbhitam ।।
+dvau magaṇau tagaṇastrayo nagaṇā ragaṇasagaṇau laghugurū ca yasya pāde tadvṛttaṃ bhujaṃgavijṛmbhitaṃ nāma । aṣṭabhirekādaśabhiḥ saptabhiryatiḥ । yathā । 
+prāleyāṃśujyotsnākāṃtadyutiśubhamavimalasadvitānamanohare
+krīḍāgāre cañcacciratra kusumaparimalamiladalivrajeśudhayojjvale ।
+premodrekā veśyāvṛttaṃ kulayuvatirapi vitanute yadā suratotsave
+preyānapyānandeneva prakaṭayati rahasi na tadā bhujaṃgavijṛmbhitam ।।
+
+mo nāḥ ṣaṭ sagagiti yadi navarasarasaśarayatiyutamapavāhākhyam ।।
+yasya pāde magaṇo nagaṇā ṣaṭ sagaṇo dvau gurū ca yatra tadvṛttamapavāhaṃ nāma । navabhiḥ ṣaḍbhiḥ ṣaḍbhiḥ paṃcabhiḥ yatiḥ । yathā । 
+ātmānaṃ kalayati tṛṇamiva suragurudharaṇitalasuragavāmartho
+yo nityaṃ vikasitamukhakamalamiha vitarati dhanamamalamarthibhyaḥ ।
+saṃpatyā samupahasitadhanadavibhavanivahadaurabhyāt
+lokaḥ paśyati vigalitabahuvidhimatimatikṛśatanumapavāhaṃ tam ।।
+
+।। uktādijātiprakaraṇam ।।
+
+ata evaṃ urdhvaṃ śeṣajātiprakaraṇaṃ bhavati । taccātra noktaṃ granthagauravabhayātkedāreṇa evamuktādijātiṣu utkṛtyavasānāsu śrīprabhṛti apavāhāntāni samavṛttāni padarśa ।;yatkiṃciddṛśyate chandaḥ ṣaḍviṃśatyadhikākṣaram । śeṣajātyādikaṃ muktvā tatsarvaṃ daṇḍakā vidu'rityādilakṣaṇān daṇḍakānāha ।
+yadiha nayuktagalaṃ tataḥ saptarephāstadā caṇḍavṛṣṭiprayāto bhaveddaṇḍakaḥ ।।
+iha śāstre caṇḍavṛṣṭiprayāto nāma daṇḍako bhavet । yadā nagaṇau dvau saptaragaṇāśca bhavanti । śatamāṇḍavābhyāmṛṣibhyāmanekā asya saṃjñā kṛtā । kuvalayadaladīrghanetrā sumadhyā pṛthuśroṇibimbā navaprāgasaṃsaktahṛt prathamavirahapīḍitā sā mṛtā preyasī garjitaṃ vāridānāṃ niśamya dhruvam । nabhasi kuṭajapuṣpasaṃbhāragaṃdhāsavonmattabhṛṃgāṃganā gīyamānāgame hata pathika vṛthā kimāyāsa । caṇḍavṛṣṭirityeke ।।
+praticaraṇavivṛddharephāḥ syurarṇārṇavavyālajīmūtalīlākaroddāmaśaṃkhādayaḥ ।।
+caraṇaṃ caraṇaṃ prati praticaraṇaṃ ragaṇānāṃ vṛddhyā ihārṇādayo daṇḍakāssyuḥ ।
+
+aṣṭabhī ragaṇairarṇo yathā । śramasalilamapakaroti drutaṃ kāminīnāṃ rasāyāsajaṃ maruccīkarāmodavān 
+janayati madhupasya tīradrumālī lasatpallavālaṃkṛtāṃ kāminīvibhramādeśakam ।
+ayamiha dayitaiḥ purorṇānidhiṃ yasya śakyaṃ samasāyuvajraprahārānabhijñabhyusī 
+bhujagapuravadhūlasallocanānandakaro sphurantī na līlāṃ tanoti rājātmajaḥ ।।
+
+navabhī ragaṇairarṇavo yathā ।
+trinayananagatuṃgaśṛṃgaśriyaṃ bibhraduddaṇḍaḍiṃḍīrapiṇḍāvadātaistaraṃgottarairullasan
+makaratimitimiṃgilo vistṛtādhiṣṭhitakroḍasaṃprāptaśobhairnabhaḥprāṃgaṇajñāpakaiḥ ।
+bhujagaśayanaśayito devadevasya yo vāsa veśmaśriyo janenārṇavaso ayamagrīḥ priye
+tava nayanapathaṃ prayātastanotuṃ pramodaṃ vinodāspadaṃ tīrasaṃbhūtapunnāgapūgadrumaiḥ ।।
+
+daśabhī ragaṇaiḥ vyālo yathā । prasayati malayānile viprayuktāṃganādīrghaniḥśvāsasaṃparkasaṃvavardhitaprauhitāvematonandani 
+sphuḍitabakulakarṇikārāmradunnāgamākaṃdakaṃkillisaccampakāmodavāhinyamuṣmin vasaṃtāgame ।
+bhaja caraṇayugānataṃ saṃnatāṃgipriyaṃ prītisaṃdohakāminī nāma nagāturāṇāṃ mṛgīcakṣuṣām
+taruṇīmani sakhi sphurajjvālajihvāgralole aṅganānāṃ sadā saukhyaṃ vidhvaṃsinā anena kiṃ dagdhamānena te ।।
+
+tairekādaśabhirjīmūtairyathā । priyavirahitakāminī jīvitā sā vināśaikadakṣāniloddhūtakādambapuṣpāsavāmūrcchitāśeṣabhṛṃgadhvajo । 
+nabhasi nabhamivāṃkṣasaudāminīmālayālaṃkṛtaṃ nīlajīmūtapaṃktiṃ balākāvalīsevitāṃ locanānandadām ।
+viracitamadhurasvaraṃ cātakānāṃ ca ramyaṃ samūhaṃ tu sāskāṃtamapyunmadaṃ bhāvinīṃ tṛptimākāṃkṣamāṇam ।
+muhukṛtavitatasubarhibhāraḥ
+śikhīsaṃvanmanmathā preyasī prītimutpādayan nṛtyati svāṅdhrivinyāsasauṃdaryavat ।।
+
+dvādaśabhirlīlākaro yathā ।
+abhinavanavapallavāsvādasaṃśuddhakaṇṭhānyapuṣṭāṃganāsuṃdarāradhvagītadhvaniprāptabodhiryadi cakravāle vane ।
+kusumitabahupāṭalā karṇikārāmrasatsiṃduvārottamāśokasatpuṣpabhārā vanaśrīkṛtāśeṣaśākhālasatpallave vane ।
+vilapati vanitā ghanasyābhimānagrahaṃ lāsyalīlākaro mādhavī pallavānāmayaṃ kāmadevaikabandhavasantānilo ।
+jagati vijayinīṃ smarājñāmivāviṣkarotyaṃganānāṃ ratāyāsajasvedabinduprasaktālakaprāṃtakaṃpaṃ vidhitsurmuhuḥ ।।
+trayodaśabhī ragaṇairuddāmo yathā ।
+śaśadharasadṛśaṃ mukhāmbhoruhaṃ bibhratī pakvabimbādharoddāmahārāvalīśobhitoccastanī sūkṣmaromāvalīprāptanābhihṛdā ।
+śravaṇayuganiveśitasvarṇatāṇḍaṃkasaṃlagnaratnaprabhāsitāpāṃgaraṃgāṃgaṇotsaṃgasaṃnṛtyamānekṣaṇakṣobhitakṣmātalā ।
+kalaravavarakiṃkiṇīpakvaṇanmekhalālaṃkṛtaśroṇibimbānuvṛttānupūrvoruyugmā sarojāruṇāṅdhridvayanyastasannūpurā ।
+hṛdayamaśaraṇaṃ munīnāmapīyaṃ salīlaṃ vrajaṃtī karoti sphuraccīvaraprāṃjalodbodhitānaṃgalakṣmīkṛtāśeṣalokaṃ bhṛśām ।।
+caturdaśabhī raiḥ śaṃkho yathā ।
+kvacidupari taraccaṃdavallīvitānaiḥ kvaciddrumāṇāṃ latāsaṃcayaiḥ saṃcarannakracakraiḥ kvacinnīrasaṃbhūtapūgadrumaiḥ śobhitam ।
+kvacidapi ghanasāṃmrahiṃtālatālāvalīcārutāmbūlavallīsamūhaiḥ kvacidvyālasallolakolāhalotpāditorvīprakaṃpam ।
+kvacidabhinavacampakonnidracaṃcatprastanāsavāmodasaṃparkaḥ saṃprāptasaurabhyasaṃpatsamīrāgamātītatoyakaṇaiḥ sekitaṃ nīrahṛtaṃ vidrutam ।
+salilanidhimanekaratnākaraprītisaṃdohadaṃ setusīmaṃtamaṃtaṃ vilokya drutaṃ vilocanānāṃ nipātaṃ ca yasyāśu sāphalyamāpādayaḥ ।।
+
+ādiśabdātpaṃcadaśabhiḥ raiḥ samudraḥ ṣoḍaśairbhujaṃga ityevamādayo yatheṣṭakṛtanāmāno daṇḍakā bhavanti ।।
+pracitakasamabhidho dhīradhībhiḥ smṛto daṇḍako nadvayāduttaraiḥ saptabhiryaiḥ ।।
+nagaṇadvayānaṃtaraṃ saptabhiryaiḥ pracitako nāma daṇḍakaḥ smṛtaḥ । pūrvavadatrāpi praticaraṇavivṛddharephakrameṇa yagaṇādisamastagaṇavṛddhyā daṇḍakā bhavanti । yathā । pūrvamekaikākṣaravṛddhyā chaṃdasāṃ vṛddhiruktāstathā rephopalakṣitā trayeṇa vṛddhiḥ sā cācāryapāraṃparyopadeśāt tāvadgrāhyā yāvadekonamakṣarasāhasraṃ bhavanti । yadyapi kaiściduktaṃ sahasrākṣaraparyantā daṇḍakā iti tathāpi tṛkāṇāṃ vṛddhyā ekonameva sahasraṃ bhavantīti ।।
+
+।। iti daṇḍakaprakaraṇam ।।
+
+iti sulhaṇaviracitāyāṃ sukavihṛdayānaṃdinyabhidhānāyāṃ vṛttaratnākarachandovṛttau samavṛttādhyāyastṛtīyaḥ ।।
+
+caturtho adhyāyaḥ ardhasamavṛtādhyāyaḥ
+
+athārdhasamavṛttādhyāyamāha ।
+viṣame yadi sau salagā dale । bhau yuji bhādgurukāvupacitram ।।
+atra pāde iti vaktavye ardhasamavṛttādhyāye tvardhāpekṣayā ardha ityuktaṃ sūtrakāreṇeti na doṣaḥ । viṣame prathame tṛtīye pāde trayaḥ sagaṇā laghurgururyadi yuji same dvitīye caturthe bhagaṇatrayaṃ dvau gurū tadā upacitrā nāmārdhasamavṛttaṃ bhavati । yathā । 
+tvadarātipure kṣiti yoddhase muktamahoragakaṃcukevaṃti ।
+upacitramudīkṣya divā bhayānno viviśurbhavanāni hariṇyaḥ ।।
+
+bhatrayamojagataṃ guruṇī cedyuji ca najau jyayutau drutamadhyā ।।
+yasyārdhasamavṛttasya auje viṣame prathame tṛtīye pāde bhagaṇatrayaṃ dvau gurū yadi yuji same dvitīye caturthe nagaṇajagaṇau jagaṇayagaṇau ca tadvṛttaṃ drutamadhyā nāma । 
+dṛṣṭivilāsaviśeṣamaśeṣaṃ vividhagatīravacoracanāṃ ca ।
+yauvanameva vadhū drutamadhyāpayati manobhavadattavivekā ।।
+
+sayugātsagurū viṣame cet । bhāviha vegavatī yuji bhādgau ।।
+viṣame pāde trayaḥ sagaṇā guruśca yuji same bhavaṇatrayaṃ dvau gurū ca tadā vegavatī nāma । 
+sukṛtaikanidheḥ smarabandhoḥ kasyacidālayamāli salīlam ।
+iyamunnatapīnanitambā gacchati vegavatī madanārtā ।।
+
+auje taparau jarau guruścet । msau jgau bhadravirāḍbhavedanoje ।।
+auje viṣame pāde prathame tṛtīye tagaṇātparau jagaṇaragaṇau guruścedyadi bhavati anoje same dvitīye caturthe pāde magaṇasagaṇajagaṇā gurū ca bhavanti tadvṛttaṃ bhadravirāṭ nāma । 
+kundendusamujjvalena baddhaṃ brahmāṇḍodaravartināṃ narendra ।
+nītā haraśailasaṃdhyamete śuddhabhadravirāḍ payase yaśaste ।।
+
+asame sajau saguruyuktau ketumatī same bharanagādgaḥ ।।
+asame viṣame pāde sagaṇajagaṇasagaṇā guruśca same dvitīye caturthe bhagaṇaragaṇanagaṇā dvau gurū ca tadvṛttaṃ ketumatī nāma । 
+bhavatā raṇāṃgaṇagatena prasphuritāsimātrasacivena ।
+vijitāmarāśvagajayuktā ketumatī narendra ripusenā ।।
+
+ākhyānikī tau jagurū gamoje jatāvanoje jagurū guruścet ।।
+auje prathame tṛtīye pāde tagaṇau dvau jagaṇo gurū ca anoje dvitīye caturthe jagaṇatagaṇau jagaṇo dvau gurū ca tadvṛttaṃ ākhyānikī nāma । 
+ye ye tvayā saṃjati śatrubhūpā hatā hatāśeṣavipakṣavarga ।
+ākhyānikī kīrtiravantinātha babhūva te saṃcaritāṃtarikṣe ।।
+
+jatau jagau go viṣame same syāttau jgau gameṣā viparītapūrvā ।।
+yasya prathame tṛtīye pāde jagaṇatagaṇajagaṇā dvau gurū ca same pāde dvau tagaṇau jagaṇo dvau gurū ca tadvṛttaṃ viparītākhyānikī nāma । 
+dhruvaṃ samāgacchati jīviteśa śrutvādikāruṇyaparaṃ vaco me ।
+bhavenna ceddaivavaśādihānyā ākhyānikī me viparītapūrvā ।।
+
+ākhyānikī vārtāhārikocyate । etayośca pūrvoktopajātyaṃtargatatve viśeṣasaṃjñārdhasamavṛttādhyāye pāṭhaḥ ।।
+sayugātsalaghū viṣame gururyuji nabhau ca bharau hariṇaplutā ।।
+yasyā viṣame pāde sagaṇatrayaṃ laghugurū ca same pāde nagaṇabhagaṇau bhagaṇaragaṇau ca tadvṛttaṃ hariṇaplutā nāma । 
+yadi śīghragatirhariṇaplutānsuviṣamāṃstanute pathikaḥ pathi ।
+jaladāgamane priyayā tadā bhavati saṃgatirardhaśarīrayā ।।
+
+ayuji nanaralā guruḥ same njamaparavaktramidaṃ tato jarau ।।
+viṣame pāde nagaṇau ragaṇo laghuśca guruśca bhavanti same pāde nagaṇajagaṇau jagaṇaragaṇau tadvṛttaṃ aparavaktraṃ nāma । 
+jaladagalapiśaṃgalocanaṃ madanaripoḥ śaśikhaṇḍamaṇḍitam ।
+apaharatu bhayāni dakṣiṇaṃ tadaparavaktrabhayaṃkaraṃ satām ।।
+
+asya vaitālīyāntargatatve api viśeṣasaṃjñārtha ihopanyāsaḥ ।।ayuji nayugarephato yakāro yuji ca najau jaragāśca puṣpitāgrā ।।
+yasya viṣame pāde nagaṇadvayaṃ ragaṇātparo yagaṇaḥ same nagaṇajagaṇau jagaṇaragaṇau guruśca tadvṛttaṃ puṣpitāgrā nāma । 
+calakiśalayavatyaśokaśākhā tava caraṇāhatimātrapuṣpitāgrā ।
+śaśimukhi sakhi muñca mānamasyā madanamahotsava eṣa yāti śūnyā ।।
+
+iyamapyaupacchandasikaṃ viśeṣasaṃjñājñāpakārthamatrocyate ।।
+vadantyaparavaktrākhyaṃ vaitālīyaṃ vipaścitam ।
+puṣpitāgrābhidhaṃ kecidaupacchaṃdasikaṃ tathā ।।syādayugmake rajau rajau same tu jarau jarau gururyavātparā matīyam ।।
+yasya viṣame pāde ragaṇajagaṇau ragaṇajagaṇau same jagaṇaragaṇau jagaṇaragaṇau guruśca tadvṛttaṃ yavātparāmatīyaṃ bhavatītyarthaḥ । 
+mālavakṣitīśa māsamudgaśāli yavānatāribhūyamedinī samagrā ।
+ātmasātkṛtā tvayā ripūn vijitya samagrasainyasaṃyutānapi prasahya ।।
+
+iti sulhaṇaviracitāyāṃ sukavihṛdayānandinyabhidhānāyāṃ vṛttaratnākaracchaṃdovṛttau ardhasamavṛttādhyāyaḥ caturthaḥ ।
+
+pañcamo adhyāyaḥ viṣamavṛttādhyāyaḥ viṣamavṛttādhyāya ārabhyate । mukhapādo aṣṭabhirvarṇaiḥ ।
+
+[padacaturūrdhva-prakaraṇam ]
+pare asmāt makarālayaiḥ kramādvṛddhāḥ ।satataṃ yasya vicitraiḥ pādaiḥ saṃpannasauṃdaryam ।tadabhihitamamaladhībhiḥ padacaturūrdhvābhidhaṃ vṛttam ।।
+prathamapādo aṣṭākṣaraḥ । pare ca dvitīyatṛtīyacaturthāḥ । asmātprathamapādātmakarālayaiścaturbhiścaturbhirakṣaraiḥ kramādvṛddhā vardhitāḥ । kramāditi ko arthaḥ । dvitīyo dvādaśākṣaraḥ । tṛtīyo ṣoḍaśākṣaraḥ । caturtho viṃśatyakṣara iti kramādvṛddhiṃ prāptāḥ । satatamanavarataṃ iti vividhaiścaturviṃśatiprakāraprastāreṇa vicitraiḥ pādaiḥ prāptasauṃdaryaṃ tadvṛttaṃ ācāryaiḥ padacaturūrdhvaṃ nāmoktam । yathā । 
+ākramyamākṛṣya dhanu-
+rye tvayā nihitā raṇāṃgaṇe śaraiḥ ।
+ripavaḥ sahasā gatāsavaḥ kṣitipate śrutam ।
+padacaturūrdhvaṃ na calanti tatraiva nipatanti saśalyāḥ ।।
+
+atra gaṇapādābhāvāt gurulaghū neṣyate । atra ca prastāryamāṇaṃ caturviṃśatidhā bhavati । ṣoḍaśadvādaśaaṣṭau ṣoḍaśaviṃśatidvādaśa aṣṭau ityādi ।।
+prathamamuditavṛtte ।viracitaviṣamacaraṇabhāji ।gurukayugalanidhana iha kalita āṅā ।vidhṛtarucirapadavitatiyatiriha bhavati pīḍaḥ ।।
+prathamamuditavṛtte padacaturūrdhve viracitān viṣamān aṣṭaudvādaśaṣoḍaśaviṃśatyakṣarān padān bhajatīti tasmin viṣamacaraṇabhāji iha chaṃdasi āṅā kalito yuktaḥ pīḍo bhavati । kva sati ityāha । gurukayugalanidhane gurudvayaṃ nidhane avasāne yasya tasminsati । kīdṛśaṃ ityāha । vidhṛtarucirāṇāṃ pādānāṃ vitatyā yatirvirāmo yasya sa tathoktaḥ । ante gurudvayopādanādatra śeṣāṇāṃ laghutvamasyānujñānaṃ kedāreṇeti manyāmahe । 
+dhruvamiha vanitānāṃ
+hṛdi vinihitadayitaguṇānām ।
+prasarati malayamaruti virahavatīnāṃ
+smarasuhṛdi vijayini bhavati niyatamasuvināśaḥ ।।
+
+dvigurūṇi chaṃdasi āpīḍeti trayāṇāṃ gurūṇāṃ apraveśācchargaṇḍa iti nāma noktam । idamapi pūrvavaccaturviṃśatiprastāro bhavati । tebhyaścaturviṃśatibhyastrīnavakṛṣya samānyabhidhātumāha ।।
+
+prathamamitaracaraṇasamutthaṃ
+śrayati jagati lakṣma ।
+itaraditaracaraṇajanitamapi ca turyaṃ caraṇayugakamavikṛtamaparamiha kalikā sā ।।
+
+āpīḍasya prathamaṃ turyaṃ caturthaṃ itaracaraṇasamutthaṃ dvitīyapādaṃ dvādaśākṣaropalakṣitaṃ lakṣma śrayati bhajati । prathamapade dvādaśākṣaraḥ । dvitīyo aṣṭākṣaraḥ । aparamapi caraṇayugalamavikṛtamapratyayābhāvamityevaṃlakṣaṇā kalikā nāma । mañjarīti vaktavye chaṃdobhaṃgabhayāt kaliketyuktamekārthatvānna doṣaḥ । yathā । 
+adhamajanasuhṛdi kalikāle
+sujanakṛtavirodhe ।
+sakaluṣamuṣi sapadi vidhuvanāyāḥ
+tadanu vimanamanasi mudamiha janayati nivāsā ।।
+
+dviguruyutasakalacaraṇāṃtā
+mukhacaraṇaracitamanubhavati tṛtīyaḥ ।
+caraṇa iha hi lakṣma prakṛtamaparamakhilamapi yadi bhavati lavalī sā ।।
+
+yasyāstṛtīyaḥ pādaḥ prathamacaraṇaracitaṃ lakṣaṇamanubhavati dvābhyāṃ gurubhyāṃ yutā sakalacaraṇānāmanto yasyāḥ sā tathoktā lavalī nāma । aparaṃ lavalyāṃ sarvamapi prāktanaṃ prastutaṃ pūrvavaditi bhavati । yathā । 
+gaganatalamamalamalimetat
+sapadi śaśabhṛdayaṃ analavitikaraughaiḥ ।
+janayati ca lavalyāḥ
+calamiti sarasaṃ bhuvidbhavipariṇati paripīḍaḥ ।।
+
+prathamamadhivasati yadi turyaṃ caramacaraṇapadamavasitiguruyugmā । nikhilaparamuparitanasamamiha lalitapādā tadiyamamṛtadhārā ।।
+
+prathamaṃ pādamaṣṭākṣaraṃ caramacaraṇapadaṃ paścimapādasthānaṃ yadyadhivasati । aparamapyanyatsarvaṃ uparitanaṃ pūrvavat । ante gurudvayayuktā sulalitapadapaṃktiramṛtadhārā nāma । 
+śaśadharamukhi sakhi parirambhaṃ
+tava mama vapuṣi malayajarasaniṣekaḥ ।
+śravaṇapuṭayugalasukhakṛdaticaturamabhihṛdyā
+vacanamamṛtadhārā ।।
+
+piṃgalanāgastu padacaturūrdhvādiṣu prathamapādaviparyāse sati maṃjaryādi nāmāni vīkṣyati ।।
+।। padacaturūrdhvaprakaraṇam ।।
+
+[udgatā-prakaraṇam ]
+sajamādime salaghukau ca nasajagurukeṣvathodgatā ।tryaṅdhrigatabhanajalā gayutā sajasā jagau caraṇamekata paṭhet ।।
+prathamapāde sagaṇajagaṇasagaṇā laghuśca tathā dvitīyapāde nagaṇasagaṇajagaṇaguravo bhavanti trisaṃkhyopalakṣito aṅdhristraṅdhristṛtīyaḥ pādastasmin gatā bhagaṇanagaṇajagaṇalaghuguravastairyutā । caturthe caraṇe sagaṇajagaṇasagaṇā jagaṇo guruśca yatra sā udgatā nāma । ekata iti । prathamaṃ dvitīyena sahāvilaṃbitaṃ paṭhedityarthaḥ । yathā । 
+jitamatsarā sukṛtino api parihṛtakalaṃkabāṃdhavāḥ ।
+vīkṣya sapadi yuvatiṃ vikṛtiṃ niyataṃ prayāti vipulodgatāstanuḥ ।।
+
+caraṇatrayaṃ bhajati lakṣma yadi sakalamudgatāgatam ।rnau bhagau bhavati saurabhakaṃ caraṇe yadīha bhavatastṛtīyake ।।
+yadyudgatāyāstṛtīye pāde ragaṇanagaṇabhagaṇaguravo bhavanti tadā saurabhakaṃ nāma vṛttaṃ bhavet । 
+malayānilaḥ priyaviyuktayuvatijanatāviyatyataḥ ।
+maṃdamaṃdamayametitarāṃ ghanasārasaurabhakamudvamanniva ।।
+
+nayugaṃ sakārayugalaṃ ca bhavati caraṇe tṛtīyake ।taduditamurumatibhirlalitaṃ yadi śeṣamasya khalu pūrvatulyakam ।।
+yadyudgatāyāstṛtīye caraṇe dvau nagaṇau dvau sagaṇau ca bhavataḥ tadā lalitaṃ nāma । yathā । 
+lalitāṃgahāraramaṇīyamabhinavalalitaṃ samāṃsalam ।
+iyamatinayati mudā pramattā purato vayasya tava lāsyamuttamam ।।
+
+।। udgatāprakaraṇam ।।
+
+[upasthitapracupita-prakaraṇam ]
+
+msau jbhau gau prathamāṅdhrirekataḥ pṛthaganyat
+tritayaṃ sanajaragāstathā nanau saḥ ।
+trinaparikalitajayau
+pracupitamitamuditamupasthitapūrvam ।।
+yasya prathame pāde magaṇasagaṇajagaṇabhagaṇā dvau gurū ekataḥ । pṛthak anyattritayaṃ pādatritayaṃ kathamityarthaḥ । dvitīye pāde sagaṇanagaṇajagaṇaragaṇā guruśca tathā tṛtīye pāde dvau nagaṇau sagaṇaścaturthe nagaṇatrayaṃ jagaṇayagaṇau ca tadvṛttaṃ upasthitapūrvaṃ upasthitapracupitamityarthaḥ । 
+āruhyānyabhṛtapriyā lasatsahakāraṃ prakaṭīkṛtanavamaṃjariṃ sagarvā ।
+nijakalaravaninadaiḥ prakaṭayati ratipatimahotsavamāli ।।
+
+nau pāde atha tṛtīyake sanau nasayuktau prathamāṅdhrikṛtayatistu vardhamānam ।tritayamaparamapi pūrvasadṛśamiha bhavati pratatamatibhiriti gaditaṃ khalu vṛttam ।।
+tadeva padacaturūrdhvaṃ tṛtīye pāde nagaṇau sagaṇanagaṇau ca bhavataḥ prathamasya caturūrdhvasyāṅdhiḥ prathamāṅdhrivat kṛtā yatiryasya kriyāviśeṣaṇasya tatprathamāṅdhrikṛtayatiryathā bhavati । evamaparapādatrayaṃ pūrvasadṛśamiha tantre tadvṛttaṃ ācāryairvardhamānaṃ nāmoktam । yathā । 
+pādena svayamunnatastanībhiraśokaḥ pramadābhirabhihataḥ pravardhamānaḥ ।
+vikasitakusumasamṛddhimanubhavati bakulatarurapi varayuvatimukhāsavasiktaḥ ।।
+
+asminneva tṛtīyake pāde tajarā syuḥ prathame ca viratirārṣabhaṃ bruvanti ।tacchuddhavirāṭpuraḥ sthitaṃ tritayamaparamapi yadi pūrvasamaṃ syāt ।।
+asminneva padacaturūrdhvavṛtte tṛtīye pāde tagaṇajagaṇaragaṇā bhaveyuḥ, aparaṃ pādatrayamapi pūrvasamaṃ bhavati tadā śuddhavirāṭpuraḥsthitaṃ ārṣabhaṃ vadanti śuddhavirāḍārṣabhamityarthaḥ । 
+bibhrāṇā vadanaṃ śaśāṃkabiṃbasamānaṃ kamalāyatanayanā kṛśāṃgaśobhitā ।
+pīnoccapayodharadvayā janayati mudamadhikatarāṃ vaniteyam ।।
+
+।। upasthitapracupitaprakaraṇam ।।
+viṣamākṣarapādaṃ vā pādairasamaṃ daśadharmavat ।yacchaṃdo noktamatra gātheti tatsūribhiḥ proktam ।।
+viṣamākṣarāṇi yeṣu te pādā yasmin viṣamākṣarapādaṃ yadevameva aṣṭau daśasaptanavākṣaraṃ vā sarvapādairasamaṃ tripādaṃ ṣaṭpādaṃ vā daśadharmavat । daśa dharmaṃ na jānanti dhṛtirāṣṭra nibodha tān । mattaḥ pramatta unmattaśśrāṃtaḥ kruddho bubhukṣitaḥ । tvaramāṇaśa bhīruśca lubdhaḥ kāmī ca te daśaḥ ।। iti ṣaṭpadī gāthā । ityevamādi asmin cchaṃdasyarthe noktaṃ prayogeṣu dṛśyate tadgātheti vidvadbhiruktam । maṃgalagītikāveṣṭakavipadvidhruvakacaccarīpāddhatikādvipathakaprabhṛti tatsarvaṃ gāthāsaṃjñamavagantavyam । chaṃdasāmānaṃtyātpratipadamabhidhātumaśakyaṃ tatsarvasaṃgrahaṇīyaṃ ekā saṃjñā kṛteti ।।
+
+iti sulhaṇaviracitāyāṃ sukavihṛdayānandinyabhidhānāyāṃ vṛttaratnākaracchaṃdovṛttau viṣamavṛttādhyāyaḥ paṃcamaḥ ।।
+
+ṣaṣṭho adhyāyaḥ ṣaṭpratyayādhyāyaḥ
+
+[prastāraḥ]
+prastāro naṣṭamuddiṣṭamekadvyādilagukriyā ।saṃkhyā caivādhvayogaśca ṣaḍete pratyayāḥ smṛtāḥ ।।
+idānīṃ uktānāṃ vṛttānāṃ ṣaṭpratyayānāha । pāde sarvagurāvādyāllaghuṃ nyasya guroradhaḥ । yathopari tathā śeṣaṃ bhūyaḥ kuryādamuṃ vidhim ।। ūne dadyādgurūṇyevaṃ yāvatsarvalaghurbhavet । prastāro ayaṃ samākhyātaḥ chaṃdovicitivedibhiḥ ।।
+
+pāde sarvagurau yāvatāṃ varṇānāṃ vṛttasya pādastāvaṃta eva guravo vilikhyante । caturakṣaracchaṃdasi ādyādguroradhaḥ adhovibhāge laghuṃ varṇaṃ nyasya sthāpayitvā tadanaṃtaraṃ nyastalaghoḥ sakāśāt śeṣebhyo varṇebhyo adhaḥ kiṃ sthāpyata ityāha । yathopari tathā śeṣaṃ । yadyupari gurustadā adhastādapi gururyadyupari laghustadā adhastādapi laghuḥ śeṣam । upari tulyo dīyate ityarthaḥ । tena laghoranaṃtaraṃ trīṇi gurūṇī sthāpyante । bhūyaḥ punarapi kuryādamuṃ vidhimiti । laghuṃ nyasya guroradhaḥ yathopari tathā śeṣamiti punarapyamuṃ vidhiṃ kuryāt । yadā upari gururbhavati laghuṃ nyasya guroradha iti vidherabhāvādyaḥ pūrvadeśādūne dadyādgurūṇi iti ūnapradeśo gurubhiḥ pūryata ityarthaḥ । evamanena prakāreṇa tāvannyāsaḥ kartavyo yāvatsarvalaghuḥ pado bhavati । prastāryate iti prastāraḥ varṇānāṃ vinyāsaviśeṣaḥ । evaṃ caturakṣarapāde ṣoḍaśavṛttāni bhavanti । chaṃdāṃsi vilīyante asyāmiti chaṃdovicitiśchaṃdaḥśāstram । prastāro vyākhyātaḥ ।।
+
+[naṣṭam]
+
+idānīṃ naṣṭaṃ vyākhyātumāha । naṣṭasya yo bhavedaṃkaḥ tasyārdhe ardhe same ca laḥ । viṣame caikamādhāya tadardhe ardhe gururbhavet ।।
+
+prastāradarśitānāṃ vṛttānāṃ madhye yadvṛttaṃ naṣṭaṃ luptaṃ bhavati tasya naṣṭasya yo bhavedaṃka ekādisaṃkhyā tasya ardhe ardhe same ca aṃke sati lo laghurbhavati । viṣame ekaṃ ādhāya prakṣipya tasyārdhe ardhe gururbhavet । yathaitasmiṃścaturakṣare chaṃdasi paṃcamaṃ vṛtaṃ naṣṭam । tasya aṃkaḥ paṃca sa ca ardhaṃ na prayacchati । saikaḥ kriyate tadā ṣaḍbhavanti । te ardhaṃ kriyante । ardhitāstrayo bhavanti । tadardhe guruḥ prāpyate punastrayo ardhaṃ na prayacchanti । saikāścatvāraḥ । te api ardhastadardhe punarlabdho gurudvayoḥ samatvāt । tadardhe laghuḥ prāpyate punareko ardhaṃ na prayacchati । saikordvyaḥ tadardhe punarapi gurureva labhyate । itthaṃ naṣṭasyodāharaṇam । ādyau dvau gurū tābhyāṃ parako laghustato gururiti । a; etaccaturakṣare chaṃdasi paṃcamaṃ vṛttaṃ bhavati ।।
+
+[uddiṣṭam]
+
+uddiṣṭaṃ vyākhyātumāha । uddiṣṭaṃ dviguṇānādyāduparyaṃkānsamālikhet । laghusthā ye tu tatrāṃkāstaiḥ saikairmiśritairbhavet ।।
+
+kenacittadvṛttaṃ prastāryakatamat iti saṃkhyāparijñānā uktaṃ taduddiṣṭamucyate । pūrvatra vṛttaṃ na jñāyate । ataḥ saṃkhyayā naṣṭamuddhriyate । atra punarvṛttaṃ jñāyate saṃkhyā na jñāyate ataḥ saṃkhyāparijñānārthaṃ uddiṣṭamidamucyate । tasya uddiṣṭavṛttasya prathamādakṣarādārabhya upari dviguṇānaṃkān samālikhet । asminneva caturākṣare chaṃdasi ekaṃ vṛttaṃ uddiṣṭaṃ tasya dvau varṇau gurū tato laghustato api guruḥ । tatra uddiṣṭe vṛtte laghuni tiṣṭhantīti laghusthā ye punaraṃkāścatvāraḥ taiścaturbhiḥ saikaiḥ ekena sahitaiḥ paṃcabhiruddiṣṭaṃ bhavet । uddiṣṭasaṃkhyā bhavet । caturakṣarāyāṃ jātau tatpaṃcamaṃ vṛttaṃ bhavatītyarthaḥ ।।
+
+[ekadvayādilagakriyā]
+
+ekadvyādilagukriyārthamāha । varṇān vṛttabhavān saikān auttarādharyataḥ sthitān । ekādikramaśaścaitānuparyupari nikṣipet ।। upāntyato nivarteta tyajannaikaikamūrdhvataḥ । uparyādyādgurorevamekadvyādilagukriyā ।।
+
+yāvaṃta eva vṛttabhavā varṇā tāvata eva saikān ekasahitānyathā । caturakṣarajātau catvāro ye varṇāstān saikān paṃca । auttarādharyataḥsthitān uparyuparibhāvena sthitān ekādikrameṇaiva etānupari upari nikṣipet nidadhyāt । upāntyato antyasamīpānnivarteta vyādyudyeta । tyajan pariharan ekaikaṃ ūrdhvabhāgāt । evamanena prakāreṇa kasmādiyaṃ ekadvyādilagukriyāṃ pravartata ityāha । uparyādyādguroriti uparisthitān ādyādguroḥ । sarvaguruvarṇavṛttasakāśāt ityarthaḥ । ādyaṃ kila sarvagurvakṣaramekaṃ vṛttaṃ parikalpate । etacca prastāre darśitaṃ yathā ।
+
+;pāde sarvagurāvādyāllaghuṃ nyasye'ti tena tasmāt adha iyaṃ ekadvyādilagukriyā pravartate । tatra paṃcasu varṇeṣu uttarādharabhāvena sthāpiteṣu adhaḥsthita ekastaduparisthe nikṣipyate । sa ca tathaiva tiṣṭhati tyajannekaikamūrdhvata iti vīpsavaśādekadaiva sthitimaṃtareṇa nikṣiptatvāt punarnikṣepabhāvādekaikatyāgaśca na saṃbhavati tasmātsvarūpeṇa sthita eva upari kṣipyate । tato dvitīye sthāne dvau varṇau bhavataḥ tau tṛtīyena kṣipyeta tatra trayo bhavanti । tacca caturthe nikṣipyante te catvāro bhavanti । ‘upāntyato nivartate tyajannekaikamūrdhvataḥ' uparitanamekaṃ tyajyate tatra na kṣipyate ityarthaḥ । vīpsā ta eva adhobhāgāt punarnikṣepe kriyā pravartate tena adhaḥsthita eva eko dvitīye sthāne nikṣipyate tatra ca trayo bhavanti । tacca tṛtīye nikṣipyante tatra ṣaṭbhavanti upari ekaṃ tyajannivarteta । ādyaṃ ekaṃ vṛttaṃ sarvaguruḥ tasmāddekadvyādilagukriyā pravartete । tata ekaḥ sarvaguruḥ catvāri dvilaghūni ṣaṭtrilaghūni catvāri caturlaghūni ekaṃ sarvalaghuḥ eṣā lagukriyā sarvalaghuprastāreṇa pratīyate asyāstu eṣa eva kramaḥ paṃcākṣarādivṛtteṣvapi ।।
+
+[udāharaṇam - ]
+
+[saṅkhyānam]
+
+saṃkhyārthamāha ।
+[lagukriyāṅkasandohaḥ bhavetsaṃkhyāvimiśrite ।
+uddiṣṭāṅkasamāhāraḥ saiko vā janayedimām ।। ]
+
+lagukriyāyāṃ ye aṃkāsteṣāṃ sandohastasminvimiśrite pīḍīkṛte saṃkhyā bhavet । iyaṃ tāvaddhāraṇaṃ syāt । tathā ekaścatvāraḥ ṣaṭcatvāraḥ ekameṣāmekīkṛtā vai ṣoḍaśa bhavanti caturakṣarajātau prastāryamāṇāyāṃ ṣoḍaśa vṛttāni bhavantītyarthaḥ । sa ca prastāraḥ pūrvameva vyākhyātaḥ ।
+
+pakṣāntaramāha । uddiṣṭasya vṛttasya upari ye aṃkā dviguṇāsteṣāṃ samāhāraḥ ekībhāvaḥ saiko vā athavā janayedutpādayedimāṃ saṃkhyām । yathā । caturakṣarajātau dviguṇā ye aṃkā uparyāropitāsteṣāṃ samāhāraḥ paṃcadaśa saikaḥ ṣoḍaśeti ।।
+
+[adhvayogaḥ]
+
+adhvārthamāha । saṃkhyaiva dviguṇaikonā sadbhiradhvā prakīrtitaḥ । vṛttasyāṃgulikīṃ vyāptimadhaḥ kuryāttathāṃgulam ।।
+
+caturakṣarajātau yā ṣoḍaśasaṃkhyā syāddviguṇā dvātriṃśatiḥ ekonā ekarahitā ekatriṃśatiḥ sadbhiḥ paṇḍitairadhvā mārgaḥ prakīrtitaḥ । vṛttasya āṃgulikīṃ aṃgulapramāṇāṃ vyāptiṃ kuryāt ।।
+
+adhunā punarapi kaviranvayapūrvakaṃ pitrā saha sātmānaṃ nirddiśati । vaṃśe abhūtkaśyapasya prakaṭaguṇagaṇaḥ śaivasiddhāntavettā । vipraḥ pavyekanāmā vimalataramatiḥ śaivatatvāvabodhe ।। kedārastasya sūnaḥ śivacaraṇayugārādhanaikāgracittaḥ । chaṃdastenābhirāmaṃ praviracitamidaṃ vṛttaratnākarākhyām ।।
+
+vaṃśe anvaye abhūjjātaḥ kaśyapasya kaśyaṃ somaṃ pibatīti kaśyapaḥ kaśyapaśabdena yadyapi surā evābhidhīyate kathyate । tathāpyatra somamucyate surāpānasya brāhmaṇe dije niṣiddhatvāt anvayārthena vaṃśārthena kranuyāyitvamuktaṃ syāt । śivasya ete śaivā ye siddhāntāsteṣāṃ vettā ।;vida-vicāraṇe'; ityetasya rūpaṃ na punaḥ ‘vida-jñāne'; । tasyāśakyatvāt । yo hi vicārayati cintayati so avaśyaṃ vetti nahyaviditaṃ vicārayituṃ śaknoti viśeṣeṇa pratipūrayati svargāpavargādikāni sa vipraḥ vimalataramatiḥ vimalā vistīrṇā taralā manoharā matiryasya atiśayena vimalamatiḥ । kva । śaivaśāstrāvabodhe । kedāranāmā tasya putraḥ śivaḥ śānto devatāviśeṣaḥ tasyārādhanaṃ tatra ekāgraṃ tanniṣṭhaṃ cittaṃ yasya saḥ । tathā tena kedāreṇābhirāmaṃ ramaṇīyaṃ manoharaṃ chaṃdaḥ prakarṣeṇa viracitaṃ vṛttaratnākarākhyām ।।
+
+iti paṃḍitaśrīsulhaṇaviracitāyāṃ sukavihṛdayānandinyabhidhānāyāṃ chaṃdovṛttau ṣaṭpratyayādhyāyaḥ ṣaṣṭhaḥ samāptaḥ ।।
+
+śrīḥ ।
+śubhaṃ bhūyāllekhakasya ।
+vasuyugme śuklaśca paṃcamyāṃ haṃsarājena muninā alikhaṭṭīkā manoramā ।।
